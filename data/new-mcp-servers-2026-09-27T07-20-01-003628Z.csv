@@ -1,0 +1,53 @@
+created_at,server,title,version,repository,transports,description
+2026-09-27T06:22:18.190222Z,io.github.thomas0369/wortwert,,9.346.0,,streamable-http; sse,"Gematria and pattern decoder for words, sacred texts, news, dates, and Human Design."
+2026-09-27T06:32:19.613876Z,io.github.musharna/plant-genomics-mcp,Plant Genomics,1.28.0,https://github.com/musharna/plant-genomics-mcp,,Plant genomics MCP — 56 tools across 23 backends with cross-source synthesis.
+2026-09-27T06:32:24.127187Z,io.github.arhancanli/canli-validation-mcp,,0.7.1,https://github.com/arhancanli/canlicapital,,canlicapital.com backtest validation. A verdict is not admission to anything and is not a forecast.
+2026-09-27T06:35:55.982029Z,io.github.malkreide/swiss-ip-mcp,,1.2.0,https://github.com/malkreide/swiss-ip-mcp,,"IGE/IPI Swissreg trademarks, patents, SPCs"
+2026-09-27T06:37:38.266029Z,cn.one1/trademark,One1 Trademark Risk Check,1.0.0,,streamable-http,"Trademark conflict, logo look-alike and TRO enforcer checks for cross-border sellers."
+2026-09-27T06:39:23.48334Z,io.github.kngf222/trillion,Trillion,2026.9.27,,streamable-http,Your AI walks the right questions in order and gives you a decision you can read and share.
+2026-09-27T06:41:01.812543Z,io.github.malkreide/swiss-procurement-mcp,,0.19.0,https://github.com/malkreide/swiss-procurement-mcp,,"Swiss public procurement (simap.ch): tenders, awards, CPV codes, all cantons + federal, read-only"
+2026-09-27T06:43:13.142789Z,com.loomaly/loomaly,Loomaly,1.1.1,https://github.com/loomaly/loomaly,streamable-http,"SEO audit of every page: what to fix first, a fix prompt for your framework, and a re-check."
+2026-09-27T06:44:27.025921Z,ai.megastructure/arc,Megastructure Arc,2.0.3,,,"Local hub your coding agents sign into: rooms, tasks, decisions, artifacts, memory. Desktop app."
+2026-09-27T06:44:52.3027Z,io.github.n24q02m/better-code-review-graph,,3.28.0,https://github.com/n24q02m/crg.git,,Token-efficient code review knowledge graph: semantic search and call-graph resolution.
+2026-09-27T06:44:59.635703Z,com.mosaiden/souq,Mosaiden Souq — سوق المساعدين,1.0.0,,streamable-http,"Saudi marketplace: stores (Jarir, eXtra), classifieds, restaurant menus, hotels. Arabic-first."
+2026-09-27T06:45:16.868886Z,com.harborgovcon/port,HARBOR Port,0.4.0,https://github.com/aporb/harbor-port,streamable-http,"Hosted MCP servers for US federal data: 18 servers, 142 tools, one endpoint."
+2026-09-27T06:45:50.167771Z,com.weare904digitalmedia/booking,904 Digital Media: book a call,1.0.0,,streamable-http,"Book a call with 904 Digital Media (Jacksonville, FL): services, open times, requests."
+2026-09-27T06:46:45.484958Z,io.github.stea4lth/flipvo-agent-tools,"Flipvo: contractor licenses, business entities, drive times, airports",1.0.0,,streamable-http,"Pay-per-call tools over x402 (USDC on Base): FL/OR/WA/VA contractor licenses, entities, drive times."
+2026-09-27T06:46:49.719926Z,io.workwing/workwing,WorkWing,1.0.0,,streamable-http,"Field service management: find customers, read the schedule, create and book jobs, add notes."
+2026-09-27T06:47:11.610095Z,io.github.engram-app/engram,Engram: AI memory you can edit in Obsidian,0.36.0,https://github.com/engram-app/engram,streamable-http,"Shared memory for Claude, ChatGPT and any MCP client. Read and edit it in Obsidian or the web app."
+2026-09-27T06:51:17.610079Z,io.github.malkreide/swiss-road-mobility-mcp,,0.6.0,https://github.com/malkreide/swiss-road-mobility-mcp,,"GBFS shared mobility, EV charging, DATEX II traffic, Park & Rail"
+2026-09-27T06:51:38.516277Z,com.palaner/mcp,Palaner,1.0.1,,streamable-http,"250,000+ real, local, future events, ranked for the signed-in person. Free to connect."
+2026-09-27T06:54:53.435998Z,io.github.dragoscv/axiom,AXIOM,2.4.0,https://github.com/dragoscv/axiom,,"Transactional write gate for coding agents: plan, canonical manifest, checks, two-phase apply."
+2026-09-27T06:55:31.699914Z,dev.benys/the-pit,The Pit,0.1.2,https://github.com/benys2077/the-pit-agents,streamable-http,"Agent arena: register, call out other agents, play server-refereed chess for ratings. Free."
+2026-09-27T06:56:17.031788Z,io.github.malkreide/swiss-food-safety-mcp,,1.2.0,https://github.com/malkreide/swiss-food-safety-mcp,,BLV open data for food safety and veterinary inspections
+2026-09-27T07:04:54.419807Z,net.isitdns/isitdns,is it DNS?,2026-09-27,,streamable-http,"Live DNS: dig public resolvers, audit or sweep a domain, walk a delegation, read the resolver board."
+2026-09-27T07:05:43.568474Z,io.github.malkreide/swiss-electricity-mcp,,0.3.0,https://github.com/malkreide/swiss-electricity-mcp,,"BFE energy dashboard, ElCom tariffs, public consumption data"
+2026-09-27T07:05:49.761036Z,io.github.koraykoylu/ibanchecker-mcp,,1.3.0,https://github.com/koraykoylu/ibanchecker-mcp,streamable-http,"IBAN validation, extraction, format specs and BIC/SWIFT lookup tools for AI assistants."
+2026-09-27T07:06:44.719999Z,io.github.HelpCode-ai/anythingmcp,,0.13.0,https://github.com/HelpCode-ai/anythingmcp,,Any REST/SOAP/GraphQL/SQL API as MCP tools for Claude & ChatGPT. 259 connectors: ERP & e-commerce.
+2026-09-27T07:08:11.660913Z,io.github.OtaKit/otakit,,1.6.0,https://github.com/OtaKit/otakit,streamable-http,"Inspect, upload, release, monitor, and revert OtaKit Capacitor OTA updates."
+2026-09-27T07:11:07.737269Z,io.github.maximilianfeix/proxy-scraper,proxy-scraper,1.8.1,https://github.com/maximilianfeix/proxy-scraper,,"Free proxies that actually work: verified HTTP/SOCKS proxies, and pages fetched through them"
+2026-09-27T07:11:10.548599Z,io.github.DanceNitra/inspeximus,"inspeximus: agent memory with provenance, GDPR erasure and a tamper-evident audit trail",3.14.1,https://github.com/DanceNitra/inspeximus,,"Self-correcting agent memory: recall, supersede, revert, forget, GDPR erasure, audit receipts."
+2026-09-27T07:11:53.282319Z,io.github.roybogs/portveil-mcp,Portveil,0.4.2,https://github.com/roybogs/portveil-mcp,,MCP server for Portveil: let AI assistants see your devices and move them between VPN locations.
+2026-09-27T07:13:01.852604Z,io.github.gal-a/qikly,qikly,0.5.3,https://github.com/gal-a/qikly,,"Generates tests from acceptance criteria, then converges code with an agent that never sees them."
+2026-09-27T07:13:34.15077Z,io.github.kitepon/aiterm-mcp,,0.41.1,https://github.com/kitepon/aiterm-mcp,,"Persistent terminals and one launcher for Claude, Codex, Grok, and Cursor harnesses."
+2026-09-27T07:15:54.427574Z,io.github.asfbay-bit/opchain-skills,opchain,2.0.4,https://github.com/asfbay-bit/opchain-skills,streamable-http,"Claude Code / MCP skills for the dev pipeline: discover, spec, design, build, ship, operate."
+2026-09-27T07:15:59.198174Z,dev.workers.panda198271.tw-screen-release/screen-release,電影影集動畫上映日資料庫,1.0.0,,streamable-http,台灣繁中：全球電影、影集、動畫、劇場版上映日、改期紀錄與官方預告片，可查倒數與行事曆。
+2026-09-27T07:16:42.07087Z,dev.workers.panda198271.agent-hub-tw/agent-hub,AI 代理人任務中樞,1.0.0,,streamable-http,台灣繁中：一個 MCP 端點串接 19 個台灣資料站工具，並可搜尋 MCP 伺服器與 x402 付費 API。
+2026-09-27T07:16:48.732848Z,dev.workers.panda198271.shop-compare/shop-compare,購物比價紀錄,1.0.0,,streamable-http,台灣購物網站 3C、美妝、家電商品目前售價（新台幣）與歷史價格查詢。
+2026-09-27T07:17:02.330956Z,io.github.PanosSalt/MCP-Gateway,MCP Gateway,1.0.4,https://github.com/PanosSalt/MCP-Gateway,sse,"Multi-tenant MCP platform with OAuth 2.1, Entra SSO, RBAC and audit logging."
+2026-09-27T07:17:03.573497Z,dev.workers.panda198271.tw-life-info/life-info,生活即時查詢,1.0.0,,streamable-http,台灣國定假日、補班日、發票對獎、彩券開獎對獎與油價查詢。
+2026-09-27T07:17:10.612774Z,dev.workers.panda198271.llms-check/llms-check,llms.txt 檢查工具,1.0.0,,streamable-http,檢查網站 llms.txt 與 AI 爬蟲 robots.txt 設定，並自動產生 llms.txt。
+2026-09-27T07:17:21.161146Z,dev.workers.panda198271.twostroke-db/twostroke-db,二行程經典車資料庫,1.0.0,,streamable-http,經典二行程機車規格、零件對照與保養資料，附維基百科出處。
+2026-09-27T07:17:27.3195Z,dev.workers.panda198271.riftbound-guide/riftbound-guide,符文戰場新手指南,1.0.0,,streamable-http,符文戰場集換式卡牌新手規則與入門指南查詢。
+2026-09-27T07:17:29.593612Z,com.heybrahim/portfolio,Brahim Bousnguar — portfolio,1.0.0,,streamable-http,"Brahim Bousnguar's portfolio: profile, availability, case studies, notes, CV requests."
+2026-09-27T07:17:36.656872Z,dev.workers.panda198271.tw-crypto-api/crypto-api,台灣加密貨幣資料,1.0.0,,streamable-http,台灣合規虛擬資產業者名單、詐騙網址檢查與加密貨幣稅務估算。
+2026-09-27T07:17:43.54417Z,dev.workers.panda198271.tw-ai-tools/ai-tools,台灣 AI 工具價格,1.0.0,,streamable-http,主流 AI 工具與 API 價格（美元與新台幣），可估算 API 使用成本。
+2026-09-27T07:18:20.749646Z,dev.workers.panda198271.tw-stock-themes/stock-themes,台股題材與高股息,1.0.0,,streamable-http,台股 AI 題材概念股與高股息 ETF 資料查詢。
+2026-09-27T07:18:27.27323Z,dev.workers.panda198271.tw-health-guide/health-guide,台灣健康資訊,1.0.0,,streamable-http,台灣健康資訊：居家血壓、血糖判讀與就醫指引，依台灣官方指引整理。
+2026-09-27T07:18:36.759561Z,dev.workers.panda198271.tw-travel-2027/travel-2027,2027 連假與訂票,1.0.0,,streamable-http,2027 台灣連假、出國目的地擁擠度與機票訂票時機建議。
+2026-09-27T07:18:42.930032Z,dev.workers.panda198271.tw-real-voices/real-voices,真人意見站,1.0.0,,streamable-http,熱門產品與主題的真人意見整理，標示 ChatGPT 公開前後的可信度。
+2026-09-27T07:18:53.234061Z,dev.workers.panda198271.tw-creator-shop/creator-shop,網紅開團合規工具箱,1.0.0,,streamable-http,網紅開團與業配合規：薦證廣告規範、供應商統編與公司登記查詢。
+2026-09-27T07:19:00.380755Z,site.meniscus/meniscus,Meniscus,3.0.0,,streamable-http,"Liquid glass design system for AI agents: specs, recipes and reference renders for every platform."
+2026-09-27T07:19:00.493418Z,dev.workers.panda198271.tw-digital-wellness/digital-wellness,數位健康與遠距醫療指南,1.0.0,,streamable-http,睡眠時間計算、情緒量表自評與台灣遠距醫療資訊。
+2026-09-27T07:19:18.996699Z,dev.workers.panda198271.tw-web-motion/web-motion,網頁動畫工具箱,1.0.0,,streamable-http,CSS 漸層、動畫與網頁互動效果產生器。
+2026-09-27T07:19:26.240867Z,dev.workers.panda198271.tw-search-seo/search-seo,搜尋引擎與 AI 爬蟲工具箱,1.0.0,,streamable-http,檢查網站爬蟲設定、驗證爬蟲 IP、IndexNow 提交與 YouTube SEO 檢查。
