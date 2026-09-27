@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-09-27T21:22:52.436463Z,ai.scoreia/forge,ScoreIA La Forge,0.11.0,,streamable-http,"3D AI benchmark over MCP: forge a knight, cut posts, duel other AIs; a program referees it."
+2026-09-27T21:23:41.518272Z,io.github.guniweb/guniweb-sap-mcp,GuniWeb SAP MCP,0.5.1,https://github.com/guniweb/guniweb-sap-mcp,,"SAP S/4HANA and ECC: OData V2/V4, IDoc and RFC/BAPI for n8n and other MCP clients"
+2026-09-27T21:24:07.369288Z,com.aimeistro/music,AImeistrO,1.0.0,,streamable-http,"Autonomous music production for AI agents with MIDI generation, QC and provenance."
+2026-09-27T21:25:36.105928Z,io.github.jcooley8/pincushion,Pincushion,1.11.24,https://github.com/jcooley8/pincushion,,Stakeholders pin feedback on your live app; your AI agent reads the pins via MCP and fixes them.
+2026-09-27T21:26:43.687677Z,dev.genhttp/lambda,GenHTTP Lambda,0.1.0,https://github.com/MDA2AV/GenHTTP.Lambda,streamable-http,"Write, deploy and host small C# web services and sites at a public address."
+2026-09-27T21:29:24.293593Z,com.myrmigo/myrmigo,Myrmigo,0.1.3,,streamable-http,"Travel booking reference: official sites, who services a booking, EU261/UK261 compensation checks"
+2026-09-27T21:31:33.468473Z,es.beel/mcp,BeeL,0.6.0,https://github.com/beel-es/beel-mcp,streamable-http,"Spanish e-invoicing with VeriFactu (AEAT): issue invoices, manage customers, validate NIFs."
+2026-09-27T21:33:09.06519Z,io.github.neuralaisofficial-lang/apay,A-Pay Protocol,0.1.8,https://github.com/neuralaisofficial-lang/a_pay,streamable-http,Universal HTTP 402 Micropayment Protocol & Autonomous Economic Settlement Engine for AI Agents
+2026-09-27T21:36:05.682658Z,com.scoremindset/capital-mental,ScoreMindset — capital mental,1.29.0,,streamable-http,"Tests, livre « Se poser les bonnes questions » et recherche plein texte, en lecture seule."
+2026-09-27T21:36:22.739191Z,io.github.dgahagan/weather-mcp,Weather Data MCP Server,1.33.6,,,"17 weather tools, no API keys: forecasts, alerts, air quality, marine, radar, lightning, wildfires"
+2026-09-27T21:36:54.890981Z,io.github.drhelius/gearsystem,Gearsystem MCP Server,3.9.19,https://github.com/drhelius/gearsystem,,MCP server for Gearsystem Sega Master System / Game Gear / SG-1000 emulator
+2026-09-27T21:37:50.301765Z,sh.caption/mcp,,1.0.0,,streamable-http,"AI captions API: burn word-timed, styled captions into any video."
+2026-09-27T21:39:11.9391Z,ai.caybl/caybl,Caybl,1.0.0,,streamable-http,"Hosted MCP server for GA4, Google Ads and Search Console. Google OAuth, nothing to install."
+2026-09-27T21:42:29.868996Z,com.pinsvit/api,Pinsvit,1.7.0,,streamable-http; sse,"Small local businesses take bookings: find and book a place, run your own front desk, post nearby."
+2026-09-27T21:42:39.100735Z,io.github.GarAlex/promoshot,,0.3.1,https://github.com/GarAlex/promoshot,,"Headless MCP: author and render PromoShot .promo video projects (stills, GIFs, video)."
+2026-09-27T21:44:39.873815Z,fr.vigi-sky/vigisky,Vigi-Sky,2.6.0,,streamable-http,"Factual sky for AIs: ISS, auroras, archives. Never confuses unexplained with extraterrestrial."
+2026-09-27T21:45:45.582333Z,io.github.shuji-bonji/houki-egov-mcp,,0.15.2,https://github.com/shuji-bonji/houki-egov-mcp,,"Japanese statutes from e-Gov Law API v2 — laws and ordinances per article, with law number and URL."
+2026-09-27T21:47:24.891612Z,io.github.ohad6k/viberaven,,1.5.1,,,"Local app readiness checks, provider context, and release verification for AI coding agents."
+2026-09-27T21:48:28.899245Z,one.faf/grok-faf-mcp,Grok FAF,2.0.0,https://github.com/Wolfe-Jam/grok-faf-mcp,,Persistent project context for xAI Grok. IANA-registered .faf format.
+2026-09-27T21:49:38.048577Z,com.legitfit/legitfit,LegitFit,1.0.0,,streamable-http,"Read-only access to your LegitFit business data: revenue, payments, attendance, clients, services."
+2026-09-27T21:54:24.094874Z,com.claudeforcompliance/mortgage-regs,C4C: Mortgage Industry Regulations,1.0.2,https://github.com/earl-hash/c4c-mcp,streamable-http,"Verbatim U.S. mortgage regulatory text with citations and effective dates. Read-only, no sign-in."
+2026-09-27T21:58:05.465257Z,io.github.schneidavie/fund-momentum,Fund Momentum,1.4.0,https://github.com/schneidavie/fundmomentum,streamable-http,"1100+ actively deploying VC funds and 608 disclosed LPs, with live investor signals"
+2026-09-27T21:58:33.526655Z,io.github.jannegpriv/pensionskollen,PensionsKollen,0.1.1,,streamable-http,"Read saved watchlists, Swedish PPM fund comparisons and Premium Radar data with your own account."
+2026-09-27T21:59:17.635677Z,io.github.tiptreesystems/lacuna-research-mcp,Lacuna Research MCP,0.5.1,https://github.com/tiptreesystems/lacuna-research-mcp,,"Search Lacuna's ML research graph for papers, directions, authors, venues, and hypotheses."
+2026-09-27T21:59:33.020315Z,io.github.jordanburke/reddit-mcp-server,,1.6.3,https://github.com/jordanburke/reddit-mcp-server,,"Reddit MCP server with full read/write - posts, comments, search, and content creation."
+2026-09-27T22:00:03.423159Z,io.github.vadymkykalo/railhook,Railhook,3.0.0,https://github.com/vadymkykalo/railhook,streamable-http,"Webhooks for AI agents: send events, manage endpoints, inspect and retry deliveries."
+2026-09-27T22:06:53.669219Z,io.github.QRSalt/qrsalt-mcp,QRSalt,1.0.0,https://github.com/QRSalt/qrsalt-mcp,streamable-http,"Make, re-point and track QR codes and short links, and read QR images, from your AI assistant."
+2026-09-27T22:08:06.678197Z,com.myhairmailtools/agent-tools,MyHairMail Agent Tools,0.3.0,,streamable-http,"Open, read-only wig stock, restock ETAs and cross-brand color matching. No key; fair-use limits."
+2026-09-27T22:12:50.193127Z,io.github.christianclaudio/smartsheet-rm,mcp-server-smartsheet-rm,1.2.0,https://github.com/christianclaudio/mcp-server-smartsheet-rm,,"MCP server for Smartsheet Resource Management (10,000ft API) time tracking and scheduling."
+2026-09-27T22:13:22.305289Z,io.github.tersignhq/evidence,Tersign Evidence,0.5.0,https://github.com/tersignhq/tersign-js,,"Counter-signed evidence records for agent commerce: receipts, verification, dispute envelopes."
+2026-09-27T22:14:39.366573Z,io.github.Arsh-Kashyap/multiscrape,MultiScrape Contextual Web Research,1.3.0,,streamable-http,"Live web research with related queries, browser-rendered sources, images, and evidence."
+2026-09-27T22:20:01.337689Z,io.github.hashchecked/crypto-derivatives-mcp,Kronos Crypto Data,0.6.1,https://github.com/hashchecked/kronos-mcp,,"Crypto data MCP: 22 tools for derivatives, forecasts, alerts, liquidations, GEX — up to 17 assets."
