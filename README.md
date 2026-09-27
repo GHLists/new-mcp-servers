@@ -9,38 +9,69 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 13:20 UTC
+## Latest list — 2026-09-27 14:20 UTC
 
-New MCP servers published between 2026-09-27 12:21 UTC and 2026-09-27 13:20 UTC.
+New MCP servers published between 2026-09-27 13:20 UTC and 2026-09-27 14:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-27T13-20-54-422154Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-27T14-20-33-161822Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-27 12:25:29 | [ai.sendraven/mcp](https://github.com/CommonNinja/sendraven-mcp-server) |  | 0.4.20 | Email infrastructure for AI agents: send, read replies as threads, campaigns, p… |
-| 2026-09-27 12:27:42 | com.robozukan/robozukan | Robozukan (ロボ図鑑) | 1.0.0 | Japanese catalog of physical devices AI agents can control: connectivity rating… |
-| 2026-09-27 12:27:49 | [com.parallelsandbox/parallelsandbox](https://github.com/parallel-sandbox/parallelsandbox-mcp) | ParallelSandbox | 1.0.4 | Remote Linux boxes for coding agents: Docker, a browser, screenshots, logs, hum… |
-| 2026-09-27 12:30:38 | [io.github.SidneyBissoli/ilo-mcp-server](https://github.com/SidneyBissoli/ilo-mcp-server) | ILO Labour Statistics (ILOSTAT): unempl… | 1.1.0 | Labour market data from the ILO (ILOSTAT) by country, year, sex and age, with p… |
-| 2026-09-27 12:31:08 | [com.parseapi/mcp](https://github.com/parseapi/mcp) | ParseAPI | 1.7.1 | Official ParseAPI MCP. Place, IP, email, phone, weather, currency lookups. |
-| 2026-09-27 12:31:26 | [io.github.veriko-mx-labs/veriko](https://github.com/veriko-mx-labs/veriko-mcp) | Veriko | 0.1.5 | Valida y consulta transferencias SPEI mediante la API oficial de Veriko. |
-| 2026-09-27 12:32:15 | [io.github.yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) | OrchestKit Docs MCP | 10.0.0-beta.118 | Read-only MCP server for the OrchestKit docs: full-text search + Markdown fetch… |
-| 2026-09-27 12:32:56 | [dev.cloche/cloche](https://github.com/cloche-it/plugin) | Cloche | 1.0.0 | Publish a client-side app with Cloche and share it with a link. |
-| 2026-09-27 12:33:59 | [io.github.neubuot/doichain](https://github.com/neubuot/doichain-mcp) | Doichain | 1.5.0 | Proof of existence, names and chain data of the Doichain blockchain for AI agen… |
-| 2026-09-27 12:34:26 | fr.comparr/comparr | Comparr | 1.0.0 | Compare prices across French merchants, with recorded price history and verifie… |
-| 2026-09-27 12:38:49 | [io.umtri/umtri](https://github.com/bepuljang/umtri-mcp) | Umtri | 1.3.3 | Give your AI agent a persistent map of your project's structure, dependencies,… |
-| 2026-09-27 12:41:07 | jp.sealgate/sealgate | SealGate | 1.1.0 | 既存のログインにパスキー (生体認証) を後付けする API (日本製)。組織・プロジェクト・API キー・利用者の鍵・監査ログを tool で扱う。接続はブ… |
-| 2026-09-27 12:53:25 | [io.github.chipzen-ai/chipzen-mcp](https://github.com/chipzen-ai/chipzen-sdk) | Chipzen | 0.3.0 | AI poker arena for agents. Play rated poker on chipzen.ai against LLM bots and… |
-| 2026-09-27 12:57:31 | [io.github.tengence-team/geo](https://github.com/tengence-team/tengence-geo-agent) | Tengence GEO Agent | 0.1.0 | GEO/SEO content pipeline MCP: plan, write, gate-check, publish, submit, monitor… |
-| 2026-09-27 12:57:48 | io.github.indexagent/scrypta-mcp |  | 1.0.0 | Scrypta MCP - Brazilian business data for AI agents |
-| 2026-09-27 12:58:30 | [io.github.gratise/glamour](https://github.com/gratise/glamour) |  | 0.2.0 | Browser-measured visual debugging and verification tools for coding agents. |
-| 2026-09-27 13:00:39 | com.shotpulled/shotpulled | ShotPulled | 1.3.0 | Espresso dialing: log a shot, say how it tasted, get one change in your grinder… |
-| 2026-09-27 13:03:55 | [io.github.dstrupl/vardoger](https://github.com/dstrupl/vardoger) | vardoger | 0.4.0 | Personalize AI coding assistants by analyzing local conversation history. Runs… |
-| 2026-09-27 13:07:00 | [net.aginx/aginxbrowser](https://github.com/yinnho/aginxbrowser) | Aginx Browser | 0.5.15 | Stealth web browser for agents: search, fetch, click, download and type in pers… |
-| 2026-09-27 13:07:29 | [io.github.peturgeorgievv-factory/postfast-mcp](https://github.com/peturgeorgievv-factory/postfast-mcp) |  | 0.8.2 | MCP server for the PostFast API — schedule and manage social media posts via AI… |
-| 2026-09-27 13:12:30 | [ai.bowmark/bowmark](https://github.com/bowmark-ai/skill) | Bowmark | 8.151.10 | Do things on live websites: prices, availability, quotes, bookings, anything be… |
-| 2026-09-27 13:14:52 | [io.github.chrischall/apple-icloud-mcp](https://github.com/chrischall/apple-icloud-mcp) |  | 0.1.0 | Unofficial: Apple Music, iCloud Calendar/Contacts/Mail, Apple Maps and WeatherK… |
-| 2026-09-27 13:15:36 | [io.github.combor/baryon-mcp](https://github.com/combor/baryon-mcp) | Baryon — Proton Mail via Bridge | 0.6.3 | Read Proton Mail and save drafts through your local Proton Mail Bridge. |
-| 2026-09-27 13:19:20 | [io.github.renaat-s/pyresec-agent](https://github.com/renaat-s/pyresec-agent) | PYRESEC - AI Code Security Auditing | 2.0.1 | AI code security audits via x402 USDC: $0.01 scans, $0.50 audits, $5 auto-fixes… |
+| 2026-09-27 13:21:17 | [io.github.matiasmaquieira96/risk-mcp](https://github.com/matiasmaquieira96/prometiam-risk-mcp) | Prometiam Company Data | 0.4.4 | Company data for Spain, France, the UK, Ireland, Poland and Norway — registry,… |
+| 2026-09-27 13:22:35 | [io.github.Blueprint-Studio-AI/blueprint-studio](https://github.com/Blueprint-Studio-AI/claude-code-asset-generator) | Blueprint Studio | 2.0.2 | Official brand context and Asset Generator tools for Blueprint Studio workspace… |
+| 2026-09-27 13:24:12 | [io.github.cmssy-io/cmssy-mcp](https://github.com/cmssy-io/cmssy-mcp) | cmssy | 0.83.0 | Headless CMS whose page sections are defined by your own code: pages, records,… |
+| 2026-09-27 13:24:19 | com.dominickprevete/dscr-lender-data | Dominick Prevete: DSCR Lender Data | 1.0.0 | HMDA investor-lender data, DSCR glossary, loan programs and indicative rates. B… |
+| 2026-09-27 13:25:47 | [io.github.sebstaq/opencode-subagent-mcp](https://github.com/sebstaq/opencode-subagent-mcp) | opencode subagents | 0.1.3 | Run Claude Code subagents on cheaper opencode models (DeepSeek, opencode Go) wi… |
+| 2026-09-27 13:26:20 | [com.odilelabs/odile](https://github.com/tolga-boop/odile-mcp) | Odile Labs | 1.2.0 | An AI answering line for US businesses, paid per answered call; Odile Formats f… |
+| 2026-09-27 13:26:20 | [com.crisphive/mcp](https://github.com/crisphive/crisphive-mcp) |  | 2.3.0 | Field operations on a deterministic solver — run jobs, crews & fleet from Claud… |
+| 2026-09-27 13:26:37 | [io.github.christianclaudio/espn](https://github.com/christianclaudio/mcp-server-espn) |  | 1.2.7 | Model Context Protocol server for live & historical sports stats and odds via E… |
+| 2026-09-27 13:27:02 | [rs.bountyhunte/programs](https://github.com/Zenofex/BountyHunte.rs) | BountyHunte.rs | 1.0.0 | Search and monitor bug bounty programs and audit contests across ten platforms. |
+| 2026-09-27 13:28:55 | [io.github.baalimago/slivingdoc](https://github.com/baalimago/slivingdoc) | slivingdoc | 0.2.2 | Share ordinary text files between concurrent agents without silently overwritin… |
+| 2026-09-27 13:29:26 | [io.github.klimPaskov/hoi4-agent-tools](https://github.com/klimPaskov/hoi4-agent-tools) | HOI4 Agent Tools | 3.6.0 | HOI4 modding tools for agents: local references, visual previews, focus trees,… |
+| 2026-09-27 13:29:54 | com.promptswing/ecommerce-website-hosting-ai-business-intelligence |  | 0.1.1 | Publish a site your AI built to paid hosting, then read it back, change a page… |
+| 2026-09-27 13:30:59 | cc.rockpool.ai-deals/ai-deals-sentinel | AI Deals Sentinel | 1.0.0 | Agent-operated. Free tiers, trial credits and discounts on AI APIs, each dated… |
+| 2026-09-27 13:37:22 | [io.github.metatxn/knoww](https://github.com/metatxn/Knoww) | Knoww | 0.2.7 | Read-only Polymarket search, market details, order books, price history, and ma… |
+| 2026-09-27 13:40:17 | net.seal/mcp | SEAL | 0.7.0 | Large files and secrets between people and agents, never through the chat or th… |
+| 2026-09-27 13:41:59 | [com.onvexia/onvexia](https://github.com/faraz152/onvexia-mcp) | Onvexia — Crypto Fundamentals, Sentimen… | 1.0.8 | Crypto fundamentals, sentiment, whale tracking and influencer call accuracy for… |
+| 2026-09-27 13:43:42 | [io.clipwright/mcp](https://github.com/seocombat/clipwright-mcp) | Clipwright | 0.21.0 | Talking-actor and faceless short videos from your AI agent, with a free quote b… |
+| 2026-09-27 13:43:59 | [io.github.prakhar1605/carrerlift](https://github.com/prakhar1605/carrerlift-mcp) | Carrerlift | 1.0.0 | Search fresh Indian jobs and internships, plus international intern and new-gra… |
+| 2026-09-27 13:45:01 | [io.github.mlolahq/mlola-ui](https://github.com/mlolahq/mlola-ui) | Mlola UI | 1.1.4 | Mlola UI components, tokens and design rules for coding agents, with a markup c… |
+| 2026-09-27 13:48:36 | [io.github.quirna/mcp](https://github.com/quirna/quirna-mcp) | Quirna | 0.1.2 | Ask a human before your agent acts: approval requests decided on a phone. |
+| 2026-09-27 13:49:02 | [io.github.korovin-aa97/talkthrough-mcp](https://github.com/korovin-aa97/talkthrough-mcp) | Talkthrough | 0.4.2 | Local MCP server: recordings or public video URLs into transcript, frames, OCR,… |
+| 2026-09-27 13:54:07 | [io.github.josifb/whichlib](https://github.com/josifb/whichlib) | whichlib | 0.1.0 | Dependency picker for coding agents: recommends, compares and scores GitHub rep… |
+| 2026-09-27 13:56:14 | [io.github.mlugo-apx/detectzestack-mcp](https://github.com/mlugo-apx/detectzestack-mcp) |  | 1.1.1 | Detect any website's tech stack, security headers, SSL, DNS and CVEs via Detect… |
+| 2026-09-27 13:56:20 | [io.github.getmarrow/marrow](https://github.com/getmarrow/marrow-mcp) |  | 3.9.94 | Runtime governance, proof, outcome closure, and fleet intelligence for MCP-comp… |
+| 2026-09-27 13:56:41 | [sh.tibia/tibiawiki-mcp](https://github.com/tibia-sh/tibiawiki-mcp) |  | 0.15.0 | TibiaWiki knowledge base: attribute queries over creatures, items, NPCs, quests… |
+| 2026-09-27 13:58:07 | [com.markaestro/mcp](https://github.com/markaestro/markaestro-agents) | Markaestro | 0.3.3 | Schedule, publish, and review social posts and analytics for a Markaestro brand. |
+| 2026-09-27 13:58:53 | [io.github.xnjiang/autowhisper-mcp](https://github.com/xnjiang/autowhisper-mcp) |  | 0.9.0 | Drive your AutoWhisper AI CMO to generate and publish marketing content from an… |
+| 2026-09-27 14:00:22 | com.nogpets/nogpets | NogPets | 1.1.0 | Book dog grooming, walks and pet sitting in Stellenbosch, South Africa. Registe… |
+| 2026-09-27 14:02:25 | com.brainfeather/mcp | Brainfeather | 1.6.2 | Long-term memory for AI coding agents: durable project facts, recalled by every… |
+| 2026-09-27 14:02:44 | app.newsmind/mcp | Newsmind | 1.281.6 | Read, search and track your RSS feeds: semantic search, story clustering, watch… |
+| 2026-09-27 14:03:28 | [io.github.ihorponom/agentpack](https://github.com/ihorponom/agentpack) |  | 1.6.6 | Repo-native task continuity for AI coding agents: a reviewed task-state ledger… |
+| 2026-09-27 14:05:03 | io.github.davidmosiah/delx-mcp-a2a | Delx Commerce — Pay-per-Result APIs for… | 3.3.13 | 987 pay-per-result MCP/x402 APIs for web, data, Base, reliability and agent del… |
+| 2026-09-27 14:05:22 | io.github.davidmosiah/delx-protocol | Delx Protocol — Agent Recovery & Contin… | 1.0.4 | Free agent recovery and continuity. Public triage; register for a token to acce… |
+| 2026-09-27 14:06:58 | [io.github.tjcgraham-rgb/gaip-art-intelligence](https://github.com/tjcgraham-rgb/-gaip-agent-to-art-prototype) | GAIP Digital Art Intelligence Agent | 1.0.0 | Checks public digital art evidence and flags conflicts. |
+| 2026-09-27 14:07:01 | [io.github.tjcgraham-rgb/gaip-buyer-assurance](https://github.com/tjcgraham-rgb/-gaip-agent-to-art-prototype) | GAIP Buyer Assurance Agent | 1.0.0 | Records buyer requests and checks public dispositions. |
+| 2026-09-27 14:07:03 | [io.github.tjcgraham-rgb/gaip-integration-protocol](https://github.com/tjcgraham-rgb/-gaip-agent-to-art-prototype) | GAIP Integration & Protocol Agent | 1.0.0 | Checks A2A, MCP and OpenAPI declarations and handshakes. |
+| 2026-09-27 14:07:05 | [io.github.tjcgraham-rgb/gaip-integration-repair](https://github.com/tjcgraham-rgb/-gaip-agent-to-art-prototype) | GAIP Integration Repair Agent | 1.0.0 | Classifies integration failures and suggests bounded repairs. |
+| 2026-09-27 14:07:06 | [io.github.tjcgraham-rgb/gaip-opportunity-broker](https://github.com/tjcgraham-rgb/-gaip-agent-to-art-prototype) | GAIP Opportunity Broker | 1.0.0 | Checks public agent candidates against a bounded task. |
+| 2026-09-27 14:07:07 | [io.github.tjcgraham-rgb/gaip-outcome-value](https://github.com/tjcgraham-rgb/-gaip-agent-to-art-prototype) | GAIP Outcome & Value Agent | 1.0.0 | Builds a task outcome and cost dossier with explicit unknowns. |
+| 2026-09-27 14:07:09 | [io.github.tjcgraham-rgb/gaip-procurement-verify](https://github.com/tjcgraham-rgb/-gaip-agent-to-art-prototype) | GAIP Procurement Evidence Agent | 1.0.0 | Compares supplier claims with public observations. |
+| 2026-09-27 14:07:11 | [io.github.tjcgraham-rgb/gaip-supplier-watch](https://github.com/tjcgraham-rgb/-gaip-agent-to-art-prototype) | GAIP Supplier Watch Agent | 1.0.0 | Compares public supplier snapshots for material changes. |
+| 2026-09-27 14:07:12 | [io.github.tjcgraham-rgb/gaip-trust-assurance](https://github.com/tjcgraham-rgb/-gaip-agent-to-art-prototype) | GAIP Trust & Assurance Agent | 1.0.0 | Checks public counterparty evidence and GAIP receipts. |
+| 2026-09-27 14:07:14 | [io.github.tjcgraham-rgb/gaip-witness](https://github.com/tjcgraham-rgb/-gaip-agent-to-art-prototype) | GAIP Witness Agent | 1.0.0 | Records delivery checks and observes public results. |
+| 2026-09-27 14:08:12 | io.github.dpesch/mantisbt-mcp-server | MantisBT MCP Server | 1.13.0 | MantisBT MCP server – manage issues, notes, files, tags, and relationships. Wit… |
+| 2026-09-27 14:11:01 | io.github.Skyline-Roofing/oracle-api | Oracle — Skyline Certified Records | 2.2.0 | Free, certified Oklahoma records: property insurance, roofing, and permits (Nor… |
+| 2026-09-27 14:11:26 | io.brainfile/brainfile |  | 1.1.0 | Brainfile memory layer for Claude Code over MCP: free starter files + weekly fr… |
+| 2026-09-27 14:13:09 | [io.github.abm9111/chamber](https://github.com/abm9111/chamber) |  | 0.1.6 | Cited Q&A over your own notes, plus drift detection when a cited source changes… |
+| 2026-09-27 14:13:57 | com.webinarignition/mcp | WebinarIgnition | 1.0.1 | Build or create a webinar from chat: registration page, invitation emails, ever… |
+| 2026-09-27 14:15:00 | [io.github.Lykhoyda/ask-ollama](https://github.com/Lykhoyda/ask-llm) |  | 0.7.0 | Bridge Claude with local Ollama LLMs for private AI-to-AI collaboration — no AP… |
+| 2026-09-27 14:15:02 | [io.github.Lykhoyda/ask-antigravity](https://github.com/Lykhoyda/ask-llm) |  | 0.8.0 | Bridge Claude with Google's Antigravity CLI (agy) for code review and second op… |
+| 2026-09-27 14:15:04 | [io.github.Lykhoyda/ask-llm](https://github.com/Lykhoyda/ask-llm) |  | 0.12.0 | Unified MCP server for Gemini, Codex, Claude, Grok, Ollama, and Antigravity |
+| 2026-09-27 14:18:18 | [io.github.Lykhoyda/ask-gemini](https://github.com/Lykhoyda/ask-llm) |  | 2.0.0 | Bridge Claude with Gemini CLI for AI-to-AI collaboration, code review, and seco… |
+| 2026-09-27 14:18:19 | [io.github.Lykhoyda/ask-codex](https://github.com/Lykhoyda/ask-llm) |  | 0.9.0 | Bridge Claude with OpenAI Codex CLI for AI-to-AI collaboration, code review, an… |
+| 2026-09-27 14:18:21 | [io.github.Lykhoyda/ask-claude](https://github.com/Lykhoyda/ask-llm) |  | 0.2.0 | Bridge Codex and other MCP clients with Anthropic Claude Code CLI for read-only… |
+| 2026-09-27 14:18:22 | [io.github.Lykhoyda/ask-grok](https://github.com/Lykhoyda/ask-llm) |  | 0.3.0 | Consult Grok through xAI's metered API with exact model selection and no fallba… |
 
 ## Data source
 
