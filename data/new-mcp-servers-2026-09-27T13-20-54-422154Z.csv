@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-09-27T12:25:29.214015Z,ai.sendraven/mcp,,0.4.20,https://github.com/CommonNinja/sendraven-mcp-server,streamable-http,"Email infrastructure for AI agents: send, read replies as threads, campaigns, per-key limits."
+2026-09-27T12:27:42.371728Z,com.robozukan/robozukan,Robozukan (ロボ図鑑),1.0.0,,streamable-http,"Japanese catalog of physical devices AI agents can control: connectivity ratings, APIs, sources."
+2026-09-27T12:27:49.112762Z,com.parallelsandbox/parallelsandbox,ParallelSandbox,1.0.4,https://github.com/parallel-sandbox/parallelsandbox-mcp,streamable-http,"Remote Linux boxes for coding agents: Docker, a browser, screenshots, logs, human takeover."
+2026-09-27T12:30:38.37946Z,io.github.SidneyBissoli/ilo-mcp-server,"ILO Labour Statistics (ILOSTAT): unemployment, wages, informality",1.1.0,https://github.com/SidneyBissoli/ilo-mcp-server,streamable-http,"Labour market data from the ILO (ILOSTAT) by country, year, sex and age, with provenance."
+2026-09-27T12:31:08.496251Z,com.parseapi/mcp,ParseAPI,1.7.1,https://github.com/parseapi/mcp,streamable-http,"Official ParseAPI MCP. Place, IP, email, phone, weather, currency lookups."
+2026-09-27T12:31:26.488125Z,io.github.veriko-mx-labs/veriko,Veriko,0.1.5,https://github.com/veriko-mx-labs/veriko-mcp,,Valida y consulta transferencias SPEI mediante la API oficial de Veriko.
+2026-09-27T12:32:15.505637Z,io.github.yonatangross/orchestkit,OrchestKit Docs MCP,10.0.0-beta.118,https://github.com/yonatangross/orchestkit,streamable-http,Read-only MCP server for the OrchestKit docs: full-text search + Markdown fetch. No auth.
+2026-09-27T12:32:56.386854Z,dev.cloche/cloche,Cloche,1.0.0,https://github.com/cloche-it/plugin,streamable-http,Publish a client-side app with Cloche and share it with a link.
+2026-09-27T12:33:59.312494Z,io.github.neubuot/doichain,Doichain,1.5.0,https://github.com/neubuot/doichain-mcp,streamable-http,"Proof of existence, names and chain data of the Doichain blockchain for AI agents"
+2026-09-27T12:34:26.134963Z,fr.comparr/comparr,Comparr,1.0.0,,streamable-http,"Compare prices across French merchants, with recorded price history and verified price drops."
+2026-09-27T12:38:49.404054Z,io.umtri/umtri,Umtri,1.3.3,https://github.com/bepuljang/umtri-mcp,streamable-http,"Give your AI agent a persistent map of your project's structure, dependencies, and bugs."
+2026-09-27T12:41:07.881707Z,jp.sealgate/sealgate,SealGate,1.1.0,,streamable-http,既存のログインにパスキー (生体認証) を後付けする API (日本製)。組織・プロジェクト・API キー・利用者の鍵・監査ログを tool で扱う。接続はブラウザでのログイン (OAuth 2.1)
+2026-09-27T12:53:25.167341Z,io.github.chipzen-ai/chipzen-mcp,Chipzen,0.3.0,https://github.com/chipzen-ai/chipzen-sdk,,AI poker arena for agents. Play rated poker on chipzen.ai against LLM bots and human-built bots.
+2026-09-27T12:57:31.016339Z,io.github.tengence-team/geo,Tengence GEO Agent,0.1.0,https://github.com/tengence-team/tengence-geo-agent,,"GEO/SEO content pipeline MCP: plan, write, gate-check, publish, submit, monitor AI visibility."
+2026-09-27T12:57:48.807805Z,io.github.indexagent/scrypta-mcp,,1.0.0,,streamable-http,Scrypta MCP - Brazilian business data for AI agents
+2026-09-27T12:58:30.757726Z,io.github.gratise/glamour,,0.2.0,https://github.com/gratise/glamour,,Browser-measured visual debugging and verification tools for coding agents.
+2026-09-27T13:00:39.109312Z,com.shotpulled/shotpulled,ShotPulled,1.3.0,,streamable-http,"Espresso dialing: log a shot, say how it tasted, get one change in your grinder's own clicks."
+2026-09-27T13:03:55.815788Z,io.github.dstrupl/vardoger,vardoger,0.4.0,https://github.com/dstrupl/vardoger,,Personalize AI coding assistants by analyzing local conversation history. Runs on your machine.
+2026-09-27T13:07:00.409314Z,net.aginx/aginxbrowser,Aginx Browser,0.5.15,https://github.com/yinnho/aginxbrowser,streamable-http,"Stealth web browser for agents: search, fetch, click, download and type in persistent MCP sessions."
+2026-09-27T13:07:29.760763Z,io.github.peturgeorgievv-factory/postfast-mcp,,0.8.2,https://github.com/peturgeorgievv-factory/postfast-mcp,,MCP server for the PostFast API — schedule and manage social media posts via AI tools
+2026-09-27T13:12:30.961518Z,ai.bowmark/bowmark,Bowmark,8.151.10,https://github.com/bowmark-ai/skill,streamable-http,"Do things on live websites: prices, availability, quotes, bookings, anything behind a form or login."
+2026-09-27T13:14:52.157327Z,io.github.chrischall/apple-icloud-mcp,,0.1.0,https://github.com/chrischall/apple-icloud-mcp,,"Unofficial: Apple Music, iCloud Calendar/Contacts/Mail, Apple Maps and WeatherKit, no Mac needed"
+2026-09-27T13:15:36.667538Z,io.github.combor/baryon-mcp,Baryon — Proton Mail via Bridge,0.6.3,https://github.com/combor/baryon-mcp,,Read Proton Mail and save drafts through your local Proton Mail Bridge.
+2026-09-27T13:19:20.258146Z,io.github.renaat-s/pyresec-agent,PYRESEC - AI Code Security Auditing,2.0.1,https://github.com/renaat-s/pyresec-agent,streamable-http,"AI code security audits via x402 USDC: $0.01 scans, $0.50 audits, $5 auto-fixes. SAST/SCA."
