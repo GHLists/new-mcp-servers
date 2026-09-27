@@ -1,0 +1,53 @@
+created_at,server,title,version,repository,transports,description
+2026-09-27T16:24:23.729821Z,ai.metabind/banking-assistant,Banking Assistant (Metabind demo),0.0.17,https://github.com/metabindai/metabind-demos,streamable-http,"Demo personal-finance MCP App: spending, subscriptions, and net worth as interactive UI."
+2026-09-27T16:27:16.306443Z,io.github.malkreide/bag-epl-mcp,,1.0.4,https://github.com/malkreide/bag-epl-mcp,,"BAG EPL: Spezialitätenliste, medication and reimbursement data"
+2026-09-27T16:27:44.145078Z,io.github.engineerdeep/buildtree,,0.1.0,https://github.com/engineerdeep/buildtree,,"Upload Android and iOS builds to buildtree and get install links, QR codes and tester feedback."
+2026-09-27T16:28:21.779058Z,com.rubiic/rubiic,Rubiic,0.2.0,https://github.com/rubiic-hq/rubiic-mcp,streamable-http,"Make videos with Rubiic: start one from a brief, render it to MP4, export GIFs, stills and captions."
+2026-09-27T16:29:55.182022Z,io.github.malkreide/bakom-mcp,,3.0.1,https://github.com/malkreide/bakom-mcp,,BAKOM telecommunications and media open data
+2026-09-27T16:34:38.701132Z,io.github.malkreide/bag-health-mcp,,0.4.0,https://github.com/malkreide/bag-health-mcp,,"BAG public-health open data: indicators, programmes, statistics"
+2026-09-27T16:34:50.927121Z,app.notefit/notefit,NoteFit,0.1.0,,streamable-http,"Plan and manage strength training for athletes — mesocycles, weekly volume, and shareable plans."
+2026-09-27T16:36:56.709079Z,io.github.mnemoverse/mcp-memory-server,Mnemoverse Memory,0.13.0,https://github.com/mnemoverse/mcp-memory-server,streamable-http,"Hosted AI agent memory that learns from outcomes, with shared rooms, in Claude, Cursor and ChatGPT."
+2026-09-27T16:37:07.932227Z,ai.xorventa/xorventa,Xorventa,1.0.0,,streamable-http,Connect Xora to review your Xorventa account and request supported work under owner controls.
+2026-09-27T16:37:22.51691Z,io.github.hashgraph-online/hol-guard,HOL Guard,3.7.3,https://github.com/hashgraph-online/hol-guard,,Local-first AI agent security evidence and approval workflows through HOL Guard's stdio MCP server.
+2026-09-27T16:37:58.861649Z,io.github.artwisdom/govwait,GovWait,0.1.1,https://github.com/artwisdom/govwait,,"Official government processing times with source status, history, comparisons, and provenance."
+2026-09-27T16:39:40.519124Z,so.upcheck/upcheck,Upcheck,1.0.0,,streamable-http,"Monitor website uptime, SSL certificates, DNS, domain expiry and page changes, and manage alerts."
+2026-09-27T16:40:59.665833Z,io.github.thekillsquad007/phoenix-labs,Phoenix Labs,1.0.0,,streamable-http,"Restore old video and turn still images into clips with sound, paid from a capped prepaid balance."
+2026-09-27T16:41:48.108984Z,io.github.TheVilfer/better-tg-cli,better-tg-cli (Telegram),0.23.0,https://github.com/TheVilfer/better-tg-cli,,"Telegram on your own account: read, search, send and press bot buttons. Writes need your approval."
+2026-09-27T16:41:48.830308Z,io.github.malkreide/fedlex-mcp,,2.1.0,https://github.com/malkreide/fedlex-mcp,,"Swiss federal law, consultations (Fedlex) & TERMDAT terminology (LINDAS) via SPARQL"
+2026-09-27T16:44:25.053176Z,io.github.Alpha-Park/genpark-voice-vad,genpark-voice-vad,1.0.1,https://github.com/Alpha-Park/genpark-voice-turn-taking-endpoint-detector-skill,,Energy and transcript heuristics for voice turn endpoint detection.
+2026-09-27T16:44:27.196905Z,io.github.Alpha-Park/genpark-jitter-buffer,genpark-jitter-buffer,1.0.1,https://github.com/Alpha-Park/genpark-audio-packet-jitter-resilience-buffer-skill,,Packet ordering simulation and inter-arrival jitter telemetry.
+2026-09-27T16:44:28.781284Z,io.github.Alpha-Park/genpark-financial-audit,genpark-financial-audit,1.0.1,https://github.com/Alpha-Park/genpark-complex-financial-formula-audit-validator-skill,,Arithmetic consistency checks for supplied financial statement data.
+2026-09-27T16:44:29.223969Z,io.github.FastSocialCo/instagram-data-mcp,Instagram Data,0.1.2,https://github.com/FastSocialCo/instagram-data-mcp,,"Read-only public Instagram data: profiles, posts, reels, stories, highlights, comments, hashtags."
+2026-09-27T16:45:48.714046Z,io.github.swimmwatch/cloakbrowser-mcp,CloakBrowser MCP,1.14.1,https://github.com/swimmwatch/cloakbrowser-mcp,,Playwright MCP-compatible browser automation bridge for CloakBrowser Chromium.
+2026-09-27T16:49:14.322415Z,io.github.munhq/chat-recall,chat-recall,0.7.7,https://github.com/munhq/chat-recall,streamable-http,"One searchable history across every AI coding tool, with secret scanning and a shared task board."
+2026-09-27T16:53:34.733449Z,com.hotelumo/hotelumo,Hotelumo Hotel Operations,0.1.1,,streamable-http,"See your hotel's room availability, rates, housekeeping and upcoming arrivals and departures."
+2026-09-27T16:54:46.561165Z,com.dododentist/dododentist,DodoDentist Dental Clinic,0.1.1,,streamable-http,"See your dental clinic's free slots, dentists, treatment prices and how busy each day is."
+2026-09-27T16:56:05.240622Z,com.doctofam/doctofam,DoctoFam Medical Clinic,0.1.1,,streamable-http,"See your clinic's free slots, doctors, rooms, service prices and how busy each day is."
+2026-09-27T16:56:10.273352Z,com.x402receipts/mcp,x402receipts,1.0.0,https://github.com/x402receipts/x402receipts,,"Record x402 agent purchases as reconciled, auditable receipts; verify any receipt on the ledger."
+2026-09-27T16:57:20.549975Z,com.veterical/veterical,Veterical Vet Clinic,0.1.2,,streamable-http,"See your vet clinic's free slots, vets, service prices, payments and how busy each day is."
+2026-09-27T16:58:28.306119Z,com.gymflexa/gymflexa,GymFlexa Gym Management,0.1.1,,streamable-http,"See your gym's open slots, services, how busy each day is and your payment totals."
+2026-09-27T16:58:38.34867Z,io.github.trustscoreagent/mcp-server,,0.2.3,https://github.com/trustscoreagent/trustscoreagent,,Check the reputation of AI microservices and public APIs from an open trust registry.
+2026-09-27T17:02:30.673559Z,io.github.bosmdavid-gif/dropthehassle,DropTheHassle,0.4.2,https://github.com/bosmdavid-gif/dropthehassle-mcp,streamable-http,"Domains, static hosting, DNS and email forwarding. Publish with your AI. It never spends money."
+2026-09-27T17:03:34.514076Z,com.hairdora/hairdora,HairDora Salon Scheduling,0.1.1,,streamable-http,"See your salon's free slots, appointments, stylists, services, clients, quotes and payments."
+2026-09-27T17:03:40.922051Z,com.comparefairly/comparefairly,CompareFairly,1.1.0,,streamable-http,"Neutral, sourced comparisons on any topic, in 32 languages. Each value links to its source."
+2026-09-27T17:05:29.056055Z,io.github.BASHBOP/otito,Òtítọ́,3.3.0,https://github.com/BASHBOP/otito,,"Deterministic local repository context, impact analysis, and merge-readiness evidence for AI agents."
+2026-09-27T17:05:44.439361Z,io.github.Gautamstar/fitfilesize,FitFileSize,0.2.0,https://github.com/Gautamstar/fitfilesize,,"Compress PDFs and images, iPhone HEIC too, to fit an upload limit or a form's rules."
+2026-09-27T17:06:26.810109Z,com.appskyline/appskyline,AppSkyline App Rankings,0.2.4,,streamable-http,"Track your apps' keyword rankings, reviews and store listings on App Store, Google Play and more."
+2026-09-27T17:07:30.973234Z,com.supovia/supovia,Supovia Customer Support,0.1.2,,streamable-http,"Reply to and resolve customer chats, search your help docs and see which conversations need you."
+2026-09-27T17:07:39.269748Z,com.ryufin/stocks,Ryufin,1.0.0,,streamable-http,"Five plain answers on ~2,400 US stocks from SEC filings: quality, safety, valuation, growth, market."
+2026-09-27T17:08:21.972084Z,in.buildifyapp.runsheet/youtube-scheduler,Runsheet YouTube Scheduler,1.6.1,,streamable-http,"Schedule, publish and retitle YouTube videos, plan the month with AI, and upload from your machine."
+2026-09-27T17:08:47.046635Z,com.multilocale/multilocale,Multilocale Translations,0.1.2,,streamable-http,"Manage app translations: find missing or duplicate phrases, add languages and export dictionaries."
+2026-09-27T17:10:02.67883Z,com.tutorializer/tutorializer,Tutorializer Video Tutorials,0.2.1,,streamable-http,"Write and update video tutorials, voiceovers and pronunciation rules across your projects."
+2026-09-27T17:11:18.569297Z,com.imagelato/imagelato,Imagelato Image Processing,0.1.1,,streamable-http,"Set up image processing templates and check batch results, projects and webhooks."
+2026-09-27T17:11:50.472375Z,ai.metabind/docs,Metabind Docs,1.0.0,,streamable-http,"Search and read the Metabind documentation: MCP Apps, BindJS, the SDKs, the CLI, and the APIs."
+2026-09-27T17:12:19.139837Z,io.github.liza-studio/skillmem,skillmem,0.12.0,https://github.com/liza-studio/skillmem,,"Skill memory for coding agents: learn, recall, reinforce, decay. Local SQLite, no API key."
+2026-09-27T17:12:26.636994Z,com.grabgpu/gpu-finder,GrabGPU,1.0.0,,streamable-http,Cloud GPU prices with live stock from 22 providers. Find where to rent an H100 or B300 now.
+2026-09-27T17:12:39.295977Z,io.polyblog/polyblog,Polyblog Multilingual Blog,0.1.1,,streamable-http,"Write, translate and publish blog articles, plan topic ideas and check each blog's languages."
+2026-09-27T17:16:02.637433Z,io.github.harisnopen/diavlos,Diavlos,2.1.0,https://github.com/harisnopen/diavlos,,Signed messages between AI agents. Dangerous actions wait for a human-signed approval.
+2026-09-27T17:17:14.785962Z,com.tryaptora/mcp,Aptora,1.0.0,,,"MCP server for the Aptora API: create assessments, invite candidates, pull grading results"
+2026-09-27T17:17:44.400035Z,cool.cron/croncool,Croncool Cron Jobs,0.1.1,,streamable-http,"Check your cron jobs, recent runs, workflows and webhooks, and run a job now when you confirm."
+2026-09-27T17:18:18.866942Z,io.github.sharafutdinovdi/revit-model-mcp,,0.6.0,https://github.com/sharafutdinovdi/revit-model-mcp,,"The Python package exposes Revit tools over MCP stdio, read-only by default."
+2026-09-27T17:20:42.633196Z,io.github.Muvon/octocode,Octocode,0.26.3,https://github.com/muvon/octocode,,AI-powered code indexer with semantic search and knowledge graphs
+2026-09-27T17:20:48.932978Z,io.github.dsanchezp18/maplestats-mcp,MapleStats MCP,0.1.0,https://github.com/dsanchezp18/maplestats-mcp,,"Canadian open data: StatCan, Census, PUMFs, Bank of Canada, CMHC and open-data portals (EN/FR)."
+2026-09-27T17:21:13.588824Z,io.github.stringsofthemind-oss/once,,0.1.5,https://github.com/stringsofthemind-oss/once,,Execution-safety MCP for AI coding agents protecting consequential writes from unsafe retries.
+2026-09-27T17:21:42.75095Z,io.github.Muvon/octobrain,Octobrain,0.14.3,https://github.com/muvon/octobrain,,Persistent memory for AI assistants with semantic search and knowledge graph relationships.
