@@ -1,0 +1,32 @@
+created_at,server,title,version,repository,transports,description
+2026-09-27T07:20:11.596531Z,dev.workers.panda198271.tw-ai-glossary/ai-glossary,AI 與科技名詞白話解釋,1.0.0,,streamable-http,AI 與科技名詞白話解釋、概念比較與入門教學（繁體中文）。
+2026-09-27T07:20:18.045144Z,dev.workers.panda198271.tw-trip-guide/trip-guide,出國與國旅實用查詢,1.0.0,,streamable-http,臺灣銀行即時匯率換算、入境規定、日本退稅、eSIM 與國旅連假查詢。
+2026-09-27T07:20:28.873796Z,dev.workers.panda198271.tw-game-release/game-release,遊戲發售日與預告片資料庫,1.0.0,,streamable-http,全球 PC、主機、手機遊戲發售日、延期紀錄與官方預告片（繁體中文）。
+2026-09-27T07:24:08.159624Z,io.taifoon/coordination-layer,Taifoon coordination layer,1.0.0,,streamable-http,"Cross-chain V5 proofs, ERC-8004/8183 hiring, judge and Grid tools over streamable HTTP"
+2026-09-27T07:34:02.020168Z,io.github.murzirius/vps-guardian-mcp,VPS Guardian,0.29.0,https://github.com/murzirius/VPS-Guardian-MCP,,Secure SSH bridge for AI agents to observe and safely administer Linux VPSs.
+2026-09-27T07:34:30.350912Z,io.neosyn/neosyn-fpga-mcp,,1.2.0,https://github.com/Neosyn-Logic/cg-agent-kit,,"AI-agent MCP server for FPGA design: compile, validate & generate Verilog from C⏚ HDL."
+2026-09-27T07:39:48.261362Z,io.github.swebsy/mcp,,0.9.0,https://github.com/swebsy/MCP,,Build and edit real websites in Swebsy Studio from your coding agent — no per-token AI fees.
+2026-09-27T07:40:46.499014Z,com.astranl/mcp,AstraNL,1.35.190,,streamable-http; sse,Evidence-checked context and NL coordination for AI agents. AstraNL never holds third-party funds.
+2026-09-27T07:41:32.812737Z,com.saybriefly/saybriefly,SayBriefly,1.0.0,,streamable-http,"Read, search and ask about your SayBriefly meetings: recaps, decisions, action items, transcripts."
+2026-09-27T07:42:16.432844Z,io.github.Atlasent/mcp-server,AtlaSent MCP Server,2.15.0,https://github.com/Atlasent/atlasent-mcp-server,,"Stops risky production changes unless someone approved them, and gives you proof for your auditor."
+2026-09-27T07:44:11.128032Z,io.github.mmedum/google-mail-mcp,,1.1.0,https://github.com/mmedum/google-mail-mcp,,"Gmail over MCP from your own account: search, read threads and messages, labels and drafts."
+2026-09-27T07:44:46.08474Z,io.github.MohammadHijjawi97/since-cutoff,since-cutoff,0.3.0,https://github.com/MohammadHijjawi97/since-cutoff,,"Which Python library APIs changed after your model's training cutoff (static diff, no model calls)"
+2026-09-27T07:45:33.832205Z,io.github.pathmodeio/mcp-server,,1.36.1,https://github.com/pathmodeio/mcp-server,,"Deterministic intent preflight before your agent builds: six gates, keyless, no model call."
+2026-09-27T07:48:18.820064Z,com.adskub/mcp,AdsKub,1.0.0,,streamable-http,"Search classifieds in Phuket, Thailand: vehicles and property for rent and sale."
+2026-09-27T07:48:41.881052Z,io.github.indexagent/mcp,,1.0.0,,streamable-http,Brazilian business data for AI agents. Public company dossiers by CNPJ.
+2026-09-27T07:50:25.885061Z,ai.humanproblems/humanproblems,HumanProblems,1.0.0,,streamable-http,"Real human problems for AI agents: couples, money, family, housing. Humans pick the best AI."
+2026-09-27T07:50:46.367844Z,io.github.taux-io/twse-mcp,TWSE Open Data (Taiwan Stock Exchange),0.10.0,https://github.com/taux-io/twse-mcp,streamable-http,"TWSE & TAIFEX open data as MCP tools: stock, ETF & futures snapshots, live quotes, 270+ datasets."
+2026-09-27T07:52:09.404723Z,com.tlders/domain-prices,TLDers Domain Prices,1.0.0,,streamable-http,"Compare domain prices across 145+ registrars and 1,800+ TLDs, find promo codes, check availability."
+2026-09-27T07:58:15.232693Z,app.mutator/mutator,Mutator,1.1.0,,streamable-http,Build and test short-form marketing automations from your agent. Nothing it does can post.
+2026-09-27T07:59:16.855711Z,com.offnadir-delta/mcp,Off-Nadir Delta,1.38.0,https://github.com/Off-Nadir-Lab/offnadir-delta-mcp,streamable-http,From first signal to satellite evidence: live world-event intelligence and collection planning.
+2026-09-27T08:03:24.965694Z,io.github.ulasarslan6262-ui/speedbot,Speedbot Autonomous Work Network,3.17.0,https://github.com/ulasarslan6262-ui/swarm-market,streamable-http,Sponsor-funded tasks and hiring for autonomous AI agents and swarms; Base USDC payouts.
+2026-09-27T08:05:37.886411Z,io.github.simonplmak-cloud/vision-driven-design,,1.7.1,https://github.com/simonplmak-cloud/vision-driven-design,streamable-http,"Bi-directional traceability for AI-assisted development: 8-phase spec-driven chain, 7 gates."
+2026-09-27T08:07:46.028247Z,io.github.integrallis/rankcli-mcp-server,RankCLI,0.0.12,https://github.com/integrallis/rankcli.dev,,"Free, local SEO + GEO audits for AI assistants - no signup, nothing leaves your machine."
+2026-09-27T08:08:25.875317Z,com.logospell/logospell,Logospell,4.0.0,,streamable-http,"AI-agent image generation: cohesive sets & illustrations. Resize a set or export icons, free."
+2026-09-27T08:09:04.081952Z,io.github.Aureliolo/gdharness,,1.1.10,https://github.com/Aureliolo/gdharness,,"A harness for driving a Godot 4 project from an agent: addons, runtime bridge, MCP server, CLI."
+2026-09-27T08:09:31.094216Z,io.github.hhopke/intervals-icu-mcp,,5.3.0,https://github.com/hhopke/intervals-icu-mcp,,"Read/write Intervals.icu MCP server: activities, wellness, calendar, gear, and workouts."
+2026-09-27T08:09:47.130968Z,net.praegant/landhaus,Landhaus Apartments Prägant,2.2.3,,streamable-http,"Live availability, rates and offers for Landhaus Apartments Prägant in Bad Kleinkirchheim, Austria."
+2026-09-27T08:11:48.501755Z,io.github.makebead/craft-color-codes,Craft Color Codes,1.0.0,https://github.com/makebead/craft-color-codes,,"Bead, floss, yarn, LEGO and Minecraft color codes: look up, find closest, convert between brands."
+2026-09-27T08:12:46.66049Z,io.github.afredenslund/fredenslund-workshop-tools,Fredenslund workshop tools,1.0.8,,streamable-http,"MFT/3 hole patterns (Shaper-ready SVG) and French cleat wall plans with cut lists. Free, unofficial."
+2026-09-27T08:13:56.365541Z,io.github.qddfxp/task-checkpoint-mcp,Task Checkpoint,0.1.4,https://github.com/qddfxp/task-checkpoint-mcp,,"MCP server that checkpoints long agent tasks: roll back to any step, resume in a new session."
+2026-09-27T08:15:17.155245Z,io.github.polterguy/magic,Magic Cloud,23.6.2,https://github.com/polterguy/magic,,"Generate secured CRUD APIs over your database, run SQL, manage files, tasks and a headless browser"
