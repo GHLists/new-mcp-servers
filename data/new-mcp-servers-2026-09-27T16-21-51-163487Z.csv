@@ -1,0 +1,35 @@
+created_at,server,title,version,repository,transports,description
+2026-09-27T15:25:22.440766Z,dev.octri/cli,Octri CLI,1.0.4,https://github.com/octridev/octri-cli,,"Push OpenAPI specs, build SDKs in ten languages, publish API docs, and triage production SDK errors."
+2026-09-27T15:27:50.793031Z,io.github.contextstream/mcp-server,ContextStream MCP Server,1.0.9,https://github.com/contextstream/mcp-server,streamable-http,"Project memory, semantic code search, and grounded agent context."
+2026-09-27T15:28:09.893555Z,io.github.ozgurcd/gograph,gograph,1.7.5,https://github.com/ozgurcd/gograph,,Local Go repository call graphs and structural analysis for coding agents over stdio.
+2026-09-27T15:29:44.538785Z,com.minimindslab.mcp/tools,MiniMindsLab MCP Tools,2026.9.27152923750,,streamable-http,Deterministic MiniMindsLab utilities for AI agents over MCP.
+2026-09-27T15:30:03.901583Z,design.tesserai/tesserai,tesserai,0.2.2,https://github.com/tesseraihq/tesserai,,"Your project's design system for coding agents: tokens, components, contrast checks, guidelines."
+2026-09-27T15:32:30.455033Z,io.github.proscar87/oura-mcp,,0.4.0,https://github.com/proscar87/oura-mcp,,"The Oura v2 API as an MCP server. Paginates, fixes the date range, warns when data is missing."
+2026-09-27T15:32:47.750017Z,io.github.Humanleap/magicscreenshots-mcp,MagicScreenshots,1.3.0,https://github.com/Humanleap/magicscreenshots-mcp,streamable-http,Search real App Store screenshots and preview videos; generate and localize your own.
+2026-09-27T15:33:12.15401Z,io.github.pratham-jain33/hackerearth-mcp,HackerEarth MCP,0.2.1,https://github.com/pratham-jain33/hackerearth-mcp,,"Give any AI assistant a code run button via HackerEarth. 24 languages, zero setup."
+2026-09-27T15:36:49.380162Z,io.github.noahowsh/endzoneapi,EndzoneAPI,1.1.2,https://github.com/noahowsh/endzoneapi-mcp,streamable-http,"Pro football play-by-play, stats, injuries, and odds. REST API and MCP server. Free to start."
+2026-09-27T15:36:50.533227Z,io.github.noahowsh/puckapi,PuckAPI,1.1.2,https://github.com/PuckAPI/mcp,streamable-http,"The hockey API for stats, odds, and everything between. REST API and MCP server. Free to start."
+2026-09-27T15:38:05.595885Z,com.syntropicapi/travel-per-diem,Travel Per Diem & Allowance Calculator,1.0.0,,streamable-http,"Compliant per diems in one call: official US GSA, German BMF and UK HMRC rates, with a trip…"
+2026-09-27T15:38:19.54267Z,io.github.nkalis/noodlelab,noodlelab,0.2.1,,,"Verifiable science: units, GUM uncertainty, requirements with margins and provenance on every run."
+2026-09-27T15:41:17.669575Z,io.github.waxsway/agentresolver,AgentResolver — Agent Commerce Health Monitoring,0.2.4,https://github.com/waxsway/agentresolver,streamable-http,Free API/MCP/x402 health checks plus $19 hourly managed monitoring for agent services.
+2026-09-27T15:42:25.826574Z,com.sapiensinteticos/sapiens,Sapiens Sintéticos,1.79.0,https://github.com/inhabitants/sapiens-mcp,streamable-http,"Operate your Sapiens Sintéticos AI studio: generate image, article, voice, music and video."
+2026-09-27T15:49:44.610297Z,io.github.Hannay001/lockkeeper,Lockkeeper,1.4.0,https://github.com/Hannay001/lockkeeper,,"Routes each task to the few skills, MCP servers and tools that fit it."
+2026-09-27T15:50:35.364256Z,io.github.Judgment-Pack/judgment-pack,,0.23.0,https://github.com/Judgment-Pack/judgment-pack-runtime,,"Offline JPS validator, conformance tester, and experimental evaluator over stdio MCP; keyless."
+2026-09-27T15:51:50.219086Z,ch.1820/telefonbuch,1820.ch – Telefonbuch Schweiz,1.0.0,,streamable-http,"Swiss phone directory: search people and businesses, reverse number lookup, business categories."
+2026-09-27T15:54:57.359164Z,uk.co.transitradar/transitradar,TransitRadar — UK trains and buses,1.0.0,,streamable-http,"Live UK rail departures, trains, unit numbers, station lifts, disruptions and daily punctuality."
+2026-09-27T15:55:42.406301Z,io.github.malkreide/global-education-mcp,,0.4.0,https://github.com/malkreide/global-education-mcp,,UNESCO UIS and OECD Education at a Glance
+2026-09-27T16:01:09.053217Z,io.github.prPMDev/jd-intel-mcp,,0.9.0,https://github.com/prPMDev/jd-intel,,"Your AI fetches and reads full job descriptions across seven ATS platforms, no copy-paste."
+2026-09-27T16:01:46.635404Z,io.github.malkreide/hn-tech-signal-mcp,,0.5.0,https://github.com/malkreide/hn-tech-signal-mcp,,"MCP server for tech & AI signal intelligence: HackerNews, arXiv, Lobste.rs and GitHub"
+2026-09-27T16:01:47.499632Z,org.agttglobal/rose-bounty,Rose Bounty,1.0.0,,streamable-http,"AI-agent trust infrastructure for discovery, authority, execution, verification, and receipts."
+2026-09-27T16:07:49.300488Z,com.loglune/mcp,Loglune,1.1.0,,streamable-http,"Reproduce, inspect, diff and bisect feature-flag rulesets; author and publish flag changes."
+2026-09-27T16:08:00.594645Z,io.github.malkreide/amtsblatt-mcp,,0.23.0,https://github.com/malkreide/amtsblatt-mcp,,"Swiss official gazettes (SHAB + cantonal) — procurement & notices, person-data rubrics excluded"
+2026-09-27T16:09:20.144289Z,io.github.tradewr333-lgtm/degenscan-intel,Degenscan Intel,0.2.0,https://github.com/tradewr333-lgtm/degenscan-intel,streamable-http,Cross-asset market event intelligence for AI trading agents. Pay per call (USDC/x402) or API key.
+2026-09-27T16:09:54.83778Z,io.github.hifriendbot/cogmemai,,3.28.0,https://github.com/hifriendbot/cogmemai-mcp,,"A thinking, live memory for everything Ai. It remembers, enforces your rules, and reviews the work."
+2026-09-27T16:11:37.665308Z,io.github.RedholeTechnologies/treering,Treering,0.7.0,https://github.com/RedholeTechnologies/Treering,,"A local map of your codebase over time: symbols, callers, subgraphs and structural change."
+2026-09-27T16:20:39.81503Z,com.oods-foundry/foundry,,0.3.1,,,Compose screens and render and certify charts with design-system tokens and receipts.
+2026-09-27T16:20:46.897921Z,dev.workers.cybermax-tools.cybermax/dutyfinch,Dutyfinch,1.0.0,,streamable-http,"US tariff lookup: HTS duty rates, Section 301 China lists, US–China tariff-cut flag."
+2026-09-27T16:20:47.149768Z,dev.workers.cybermax-tools.cybermax/haulroll-api,Haulroll,1.0.0,,streamable-http,"FMCSA carrier vetting by USDOT/MC: authority, insurance, OOS orders, inspections."
+2026-09-27T16:20:47.48584Z,dev.workers.cybermax-tools.cybermax/kevscope-api,Kevscope,1.0.0,,streamable-http,"CVE patch priority from CISA KEV, FIRST EPSS, CVSS and SSVC; exploited-CVE feeds."
+2026-09-27T16:20:47.764528Z,dev.workers.cybermax-tools.cybermax/leafmelt,Leafmelt,1.0.0,,streamable-http,"PDF, Word, Excel, CSV, HTML and XML to clean Markdown for LLMs and RAG, with token counts."
+2026-09-27T16:20:48.443455Z,dev.workers.cybermax-tools.cybermax/recallroll-api,Recallroll,1.0.0,,streamable-http,"VIN decode + every NHTSA safety recall, Do Not Drive first; recalls by make/model/year."
+2026-09-27T16:21:04.0661Z,io.github.valuein/mcp-sec-edgar,Valuein — SEC EDGAR Fundamentals & Smart-Money Data,2.110.7,https://github.com/valuein/valuein,streamable-http,"Point-in-time, survivorship-free SEC EDGAR fundamentals + smart-money signals for AI agents."
