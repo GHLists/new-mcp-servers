@@ -1,0 +1,52 @@
+created_at,server,title,version,repository,transports,description
+2026-09-27T14:23:01.228324Z,io.github.pattrnlabs/grain,Grain,0.10.15,https://github.com/pattrnlabs/grain,,"Run SQL queries and inspect database schemas through safe, visible MCP tools."
+2026-09-27T14:24:37.018661Z,ai.quickcasa/quickcasa,QuickCasa,1.0.0,,streamable-http,"Run QuickCasa, the AI leasing platform, from any MCP client: leads, follow-ups, inventory, sites."
+2026-09-27T14:30:00.487762Z,io.tubeoperator/tube-operator,Tube Operator,2.0.0,,streamable-http,"Your YouTube library in Claude, ChatGPT and Cursor: transcripts, breakdowns, summaries, search."
+2026-09-27T14:30:54.179626Z,ai.imario/imario,iMario,1.1.0,,streamable-http,"Ask an audience of Synthetic Individuals how they react to copy, pages, prices and images."
+2026-09-27T14:34:05.58758Z,world.agentindex/x402,AgentIndex x402,1.1.0,https://github.com/comallagency/kairos-x402-service,streamable-http,"Pay-per-call x402 tools for AI agents: search, PDF/web-read, extraction, market data, wallet reads."
+2026-09-27T14:35:36.892692Z,io.github.Arthefacte/fractal-arena,,1.17.0,,,"Play Fractal Arena, a 3v3 auto-battler on Fractal Bitcoin, earn $FRACTALARENA by playing well."
+2026-09-27T14:37:49.078791Z,com.inwardis/inwardis,Inwardis,1.0.5,,streamable-http,"Self-hosted architecture model that agents read layer by layer, search, build and correct."
+2026-09-27T14:38:11.430923Z,com.bitterclip/bitterclip,BitterClip,1.0.0,,streamable-http,Video editor and producer that remembers everything you've recorded.
+2026-09-27T14:38:21.281946Z,ai.greenlandai/greenlandai,GreenlandAI,0.5.12,,streamable-http,"GreenlandAI: world graph & map (companies, deposits, commodities), marketplace, wallets, proofs."
+2026-09-27T14:38:59.239815Z,io.github.sebastienrousseau/scout-mcp,scout,0.0.8,https://github.com/sebastienrousseau/scout-mcp,,"Evaluate an MCP server with scout and verify scout attestations, from inside the agent. Read-only."
+2026-09-27T14:39:20.669129Z,io.github.sharan01x/usetested,UseTested — Receipts-Verified Service Reviews,1.1.0,,streamable-http,"Receipts-verified reviews of x402 services and paid APIs, before you spend."
+2026-09-27T14:39:22.072654Z,com.feeless402/nano-pay,,0.2.9,https://github.com/Feeless402/feeless402,,"Pay for x402-priced APIs with feeless, sub-second Nano (XNO) micropayments from a local wallet."
+2026-09-27T14:39:25.943345Z,io.github.projectworks007/job-boards,Job Boards Data,1.0.0,https://github.com/projectworks007/apify-data-mcp,streamable-http,"Live job ads from StepStone, XING, Welcome to the Jungle, Naukri, JobStreet and more."
+2026-09-27T14:39:33.361906Z,io.github.projectworks007/real-estate-listings,Real Estate Listings Data,1.0.0,https://github.com/projectworks007/apify-data-mcp,streamable-http,"Property listings for sale and rent from immowelt, Fotocasa, Immoweb, Otodom, Redfin, realtor.com."
+2026-09-27T14:39:39.717862Z,io.github.projectworks007/marketplace-listings,Marketplace Listings Data,1.0.0,https://github.com/projectworks007/apify-data-mcp,streamable-http,Classified ads from Kleinanzeigen (Germany) and second-hand items from Vinted's 27 country sites.
+2026-09-27T14:39:46.337973Z,io.github.projectworks007/google-maps-leads,Google Maps Business Leads,1.0.0,https://github.com/projectworks007/apify-data-mcp,streamable-http,"Business e-mails and leads from Google Maps, with every address graded (MX, SPF, DMARC)."
+2026-09-27T14:39:50.380537Z,io.github.projectworks007/ai-search-visibility,AI Search Brand Visibility,1.0.0,https://github.com/projectworks007/apify-data-mcp,streamable-http,"See how ChatGPT, Perplexity, Gemini and Google AI Overviews mention and cite your brand."
+2026-09-27T14:39:54.205311Z,io.github.projectworks007/youtube-transcripts,YouTube Transcripts,1.0.0,https://github.com/projectworks007/apify-data-mcp,streamable-http,"Transcripts of YouTube videos, playlists and channels with timestamps; SRT or WebVTT too."
+2026-09-27T14:39:58.332071Z,io.github.fmind/portfolio,Fmind Freelance AI Architect Website,2.2.3,https://github.com/fmind/www,streamable-http,"Read-only access to Fmind's portfolio, articles, and sites."
+2026-09-27T14:40:05.477099Z,io.github.xnjiang/37soul-mcp,,0.9.0,https://github.com/xnjiang/37soul-mcp,streamable-http,"Run your 37Soul AI characters from any MCP client: list them, chat with them, and tell them to post."
+2026-09-27T14:40:49.266349Z,io.github.0xfreak0/sui-mcp,Sui Analytics,1.22.0,https://github.com/0xfreak0/sui-mcp,,"Read-only Sui analytics: 76 tools, protocol-aware tx decoding, no API keys or wallet."
+2026-09-27T14:47:27.858425Z,io.github.frsorrentino/chrome-bridge,,1.23.2,https://github.com/frsorrentino/chrome-bridge,,"Borrow a tab from your own logged-in Chrome, hand it back; 2FA and CAPTCHA stay yours. 60 tools."
+2026-09-27T14:53:07.759105Z,io.github.codespar/mcp-banco-do-brasil,,0.1.0-alpha.5,https://github.com/codespar/mcp-dev-latam,,"MCP server for Banco do Brasil — Pix, Cobrança (boleto), Conta-Corrente, Arrecadação (OAuth2 + mTLS)"
+2026-09-27T14:53:17.118875Z,io.github.codespar/mcp-c6,,0.1.0-alpha.4,https://github.com/codespar/mcp-dev-latam,,DEPRECATED: no live endpoint (baas.c6bank.com.br does not resolve)
+2026-09-27T14:53:23.055255Z,io.github.codespar/mcp-dock,,0.2.0-alpha.4,https://github.com/codespar/mcp-dev-latam,,DEPRECATED: no live endpoint (api.dock.tech does not resolve)
+2026-09-27T14:53:30.85049Z,io.github.codespar/mcp-matera,,0.2.0-alpha.4,https://github.com/codespar/mcp-dev-latam,,DEPRECATED: no live endpoint (api.matera.com does not resolve)
+2026-09-27T14:53:42.269127Z,io.github.codespar/mcp-pomelo,,0.1.1,https://github.com/codespar/mcp-dev-latam,,"MCP server for Pomelo — pan-LATAM card issuing: users, virtual/physical cards, transactions"
+2026-09-27T14:54:06.055466Z,io.github.pdassoc-io/slatemark,Slatemark,0.4.1,,streamable-http,Market data and analytics for external AI clients
+2026-09-27T14:55:07.829278Z,io.github.codespar/mcp-x402,,0.1.5,https://github.com/codespar/mcp-dev-latam,,DEPRECATED: no live endpoint (api.x402.org does not resolve)
+2026-09-27T14:55:23.602378Z,io.github.rebasepro/rebase,Rebase,0.23.0,https://github.com/rebasepro/rebase,,"Schema, database, document, user and dev-server tools for a Rebase backend project."
+2026-09-27T14:56:00.128753Z,io.github.codespar/mcp-legiti,,0.2.0-alpha.4,https://github.com/codespar/mcp-dev-latam,,DEPRECATED: no live endpoint (collection-prod.inspcdn.net does not resolve)
+2026-09-27T14:56:11.051763Z,io.github.codespar/mcp-caf,,0.1.3,https://github.com/codespar/mcp-dev-latam,,DEPRECATED: no live endpoint (api.caf.io does not resolve)
+2026-09-27T14:56:13.951855Z,io.github.codespar/mcp-certta,,0.1.3,https://github.com/codespar/mcp-dev-latam,,DEPRECATED: no live endpoint (api.certta.com.br does not resolve)
+2026-09-27T14:56:23.915002Z,io.github.codespar/mcp-unico,,0.2.0-alpha.4,https://github.com/codespar/mcp-dev-latam,,DEPRECATED: no live endpoint (api.unico.co does not resolve)
+2026-09-27T14:56:49.987471Z,io.github.codespar/mcp-ap2,,0.2.0-alpha.4,https://github.com/codespar/mcp-dev-latam,,DEPRECATED: no live endpoint (AP2 is a spec; ap2.googleapis.com serves no API)
+2026-09-27T14:57:00.748843Z,io.github.codespar/mcp-celcoin,,0.2.4,https://github.com/codespar/mcp-dev-latam,,"MCP server for Celcoin — Pix, boleto, transfers, bill payments, top-ups"
+2026-09-27T14:57:45.326869Z,io.github.codespar/mcp-nubank,,0.2.0-alpha.4,https://github.com/codespar/mcp-dev-latam,,DEPRECATED: no live endpoint (api.nubank.com.br does not resolve)
+2026-09-27T14:59:06.781184Z,io.github.skyhook-io/radar,Radar Kubernetes MCP Server,1.15.0,https://github.com/skyhook-io/radar,,"Kubernetes MCP server for diagnosis, resource management, GitOps, and RBAC-enforced operations."
+2026-09-27T14:59:10.562071Z,dev.aicommander/mcp,,1.4.1,https://github.com/lksrz/aicommander,streamable-http,"Remote shell and detached long-running jobs on your own machines — no SSH, open ports or VPN."
+2026-09-27T14:59:10.592797Z,io.github.ply-ui-ng/ply-ui,Ply UI,0.1.22,https://github.com/ply-ui-ng/ply,streamable-http,"List, search, and inspect Ply Angular + Tailwind copy-in components."
+2026-09-27T15:01:57.064479Z,io.github.onexurOSS/manager-mcp,Onexur Manager MCP,1.0.1,https://github.com/onexurOSS/mcp-manager.io,,MCP server for Manager.io bookkeeping: read-first with opt-in scoped task and write tools
+2026-09-27T15:02:17.854354Z,io.github.theSharque/javaperf,javaperf,1.4.2,https://github.com/theSharque/mcp-jperf,,"Java profiling MCP via jcmd/jfr/jps. Diagnose performance, analyze threads, inspect JFR recordings."
+2026-09-27T15:04:28.643282Z,io.github.dfch/biz-dfch-specmgr,SpecMgr,0.33.0,https://github.com/dfch/biz.dfch.SpecMgr,,An artifact manager for system specifications.
+2026-09-27T15:09:09.731544Z,io.github.0xinsider/mcp,0xinsider,2.12.0,https://github.com/0xinsider/agent-plugin,streamable-http,"Read-only Polymarket sports and esports data: wallet grades on settled P&L, large trades, markets."
+2026-09-27T15:10:49.902345Z,io.github.proplineapi/propline-mcp,PropLine — Sports Betting Odds & Prop Resolution,0.43.0,https://github.com/proplineapi/propline-mcp,streamable-http,"Live odds, cross-book +EV and graded player-prop results across 27 books. Hosted endpoint included."
+2026-09-27T15:13:27.579538Z,ai.bankrolled/agent-hub,Bankrolled.ai Agent Hub,1.3.0,,streamable-http,"Free, sourced money facts and scheme lookups for US/UK/CA/AU/NZ. Answers cite bankrolled.com."
+2026-09-27T15:14:58.417559Z,io.github.pvliesdonk/markdown-vault-mcp,Markdown Vault MCP,5.0.0,https://github.com/pvliesdonk/markdown-vault-mcp,,Generic markdown vault MCP with hybrid search
+2026-09-27T15:16:49.675292Z,io.github.hostimdev/hostim,Hostim,0.1.37,https://github.com/hostimdev/cli,,"Deploy and manage apps, databases, volumes and domains on Hostim, an EU cloud hosting platform."
+2026-09-27T15:17:01.305892Z,io.github.Auricah1/reusefulshop,,1.0.0,,streamable-http,Live second-hand price estimates with confidence for AI agents. Cached lookups free.
+2026-09-27T15:17:13.98704Z,live.botmural/mural,BotMural.live Autonomous Art Service,1.0.0,,streamable-http,A public mural painted only by AI agents. Zero inference: bring your own image; a human curates.
+2026-09-27T15:17:29.163324Z,io.github.Anwani-app/anwani-mcp,Anwani,1.1.2,https://github.com/Anwani-app/anwani-mcp,streamable-http,Anwani digital addresses: create/list/patch/share/delete after OAuth. Real map pins only.
