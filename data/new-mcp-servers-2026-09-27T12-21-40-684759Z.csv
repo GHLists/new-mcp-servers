@@ -1,0 +1,34 @@
+created_at,server,title,version,repository,transports,description
+2026-09-27T11:21:52.584749Z,io.github.Kopaev/openvan-travel,,0.4.0,https://github.com/Kopaev/openvan-camp-public-api,streamable-http,"Vanlife & RV data: fuel, visas, weather, currency, events, news, license plates. openvan.camp"
+2026-09-27T11:22:16.476155Z,io.github.dockndevai/mcp-cdp,,0.2.0,https://github.com/dockndevai/mcp-cdp,,"Safe-by-default MCP that drives an Electron/Chrome app over CDP: DOM, console, network, input."
+2026-09-27T11:22:17.534592Z,io.github.dockndevai/mcp-openshift,,0.2.0,https://github.com/dockndevai/mcp-openshift,,"Safe-by-default MCP for OpenShift / Kubernetes: projects, pods, logs, deployments, routes."
+2026-09-27T11:22:19.891026Z,io.github.dockndevai/mcp-kubernetes,,0.3.0,https://github.com/dockndevai/mcp-kubernetes,,Kubernetes monitoring & ops for AI agents — safe-by-default access modes and guards.
+2026-09-27T11:24:50.894325Z,io.github.brechanbech/forgejo-mcp-rs,Forgejo / Codeberg / Gitea,0.20.4,https://github.com/brechanbech/forgejo-mcp-rs,,"Model Context Protocol server for Forgejo, Codeberg and Gitea, in Rust"
+2026-09-27T11:25:37.722905Z,io.github.brechanbech/sec-mcp,SEC EDGAR,0.5.2,https://github.com/brechanbech/sec-mcp,,"MCP server for SEC EDGAR data — company filings, financial concepts, and company info"
+2026-09-27T11:28:06.021793Z,eu.quantumreadiness/qrp-mcp,Quantum Readiness Scan,0.19.0,https://github.com/StanimirTenev/qrp-mcp,,Local crypto inventory for developers and AI agents; coverage and limits inside the CBOM.
+2026-09-27T11:28:33.529321Z,io.github.brechanbech/xojo-mcp,Xojo IDE Control,3.5.0,https://github.com/brechanbech/xojo-mcp,,MCP server for controlling the Xojo IDE on macOS
+2026-09-27T11:38:54.779846Z,io.github.l33tdawg/sage,,11.23.11,https://github.com/l33tdawg/sage,,"Persistent, consensus-validated institutional memory for AI agents. Runs locally."
+2026-09-27T11:41:25.656569Z,io.github.KilianPA/pryx,Pryx,0.5.0,https://github.com/KilianPA/pryx-mcp,streamable-http,"Buying advice for the French market: which appliance or electronics to buy, with live prices."
+2026-09-27T11:41:45.623971Z,dev.homespun/homespun,Homespun,1.6.90,https://github.com/homespunapps/homespun,streamable-http,"Deploy a multi-user web app from your agent: hosting, auth, database, and permissions."
+2026-09-27T11:42:47.32628Z,io.github.f-tiger/hvac-btu-heat-klimaanlage,,1.3.0,,streamable-http,"getecoback.com: BTU sizing, window seals, heatwave outlook, running costs, dew point (DE/EU)."
+2026-09-27T11:43:17.328119Z,io.github.toggl/toggl-mcp,Toggl 2.0,1.11.66,,,"Toggl 2.0 MCP server for tasks, projects, time entries, and workspace operations."
+2026-09-27T11:44:56.891474Z,app.apiguru/amazon-data,Apiguru Amazon Data,1.1.31,https://github.com/apiguru-app/agent-kit,streamable-http,"Live Amazon product, review, search, deal, offer/stock and seller data across 20 marketplaces."
+2026-09-27T11:49:41.498003Z,io.github.geekmarine/mcp-domain-auditor,,1.0.1,https://github.com/geekmarine/mcp-domain-auditor,streamable-http,"DNS resolution, HTTP security headers, and SPF/DMARC email hygiene audits."
+2026-09-27T11:51:14.407883Z,ai.markettrace/agent-feed,MarketTrace agent-feed,1.6.0,https://github.com/MarketTrace/markettrace-agent-feed,streamable-http,"Crypto perps data for AI agents: funding rates, open interest, liquidations, order book, CVD."
+2026-09-27T11:51:21.920262Z,io.github.Bayway/janusmcp,,0.6.2,https://github.com/bayway/janusmcp,,Multi-account tool broker for AI agents — CLI and MCP.
+2026-09-27T11:52:10.70335Z,io.github.ZiggsAI/ziggs,Ziggs,0.23.1,https://github.com/ZiggsAI/agentplus,streamable-http,"Ziggs delegate MCP: chat, agreements, context, payments via OAuth or operator key."
+2026-09-27T11:53:32.832753Z,io.github.wygogogo19/robotbase-mcp,,0.6.0,https://github.com/wygogogo19/robotbase-mcp,streamable-http,"Read-only MCP for BTC, ETH, XMR and ZEC: fees, nodes, p2pool, shielded pools."
+2026-09-27T11:56:18.638054Z,io.github.andresdefi/zerodust,,0.3.2,https://github.com/andresdefi/zerodust,streamable-http,Recover stranded native gas: empty a chain's balance to exactly zero on 25 EVM chains.
+2026-09-27T11:58:09.147781Z,io.github.arhancanli/canli-fundamentals-mcp,,0.1.0,https://github.com/arhancanli/canlicapital,,"SEC fundamentals point in time: first reported, known as of a date, every restatement."
+2026-09-27T12:02:54.52399Z,io.github.RichieB2B/supersaas-slots-mcp,SuperSaaS Slots,0.1.1,https://github.com/RichieB2B/supersaas-slots-mcp,,Find available appointments on public SuperSaaS resource schedules
+2026-09-27T12:04:46.156641Z,io.github.activeing123/mcptoon,mcptoon,0.8.2,https://github.com/activeing123/mcptoon,,"MCP tools + agent skills in one zero-dependency CLI: 71,929 -> 581 tokens (-99.2%, measured)."
+2026-09-27T12:06:13.104384Z,io.github.beepboop2025/seiche,Seiche — world-markets evidence terminal,0.13.9,https://github.com/beepboop2025/seiche,streamable-http,"Money, FX, capital-market and metadata-only China macro evidence with source clocks and limits."
+2026-09-27T12:07:50.667792Z,io.tvpulse/tvpulse,TVPulse,1.0.12,,streamable-http,"Search OCR/ASR mentions on 15 terrestrial stations (Tokyo 7, Osaka 8); archive from 2026-01-01."
+2026-09-27T12:11:22.349371Z,io.github.gambot-ai/gambot-mcp,Gambot WhatsApp Business API,1.6.0,https://github.com/gambot-ai/gambot-mcp,,"Send WhatsApp messages & templates and manage CRM, leads & campaigns via the Gambot WhatsApp API."
+2026-09-27T12:15:30.600864Z,app.marketgenius/mcp,Marketgenius,2026-09-27,,streamable-http,"Our free Marketgenius investment tools as live, interactive React MCP Apps."
+2026-09-27T12:15:35.674234Z,io.github.orenyomtov/maccabi-health,,0.1.2,https://github.com/orenyomtov/maccabi-health,,"Read your own Maccabi Healthcare records: labs, prescriptions, visits, referrals, PDFs."
+2026-09-27T12:18:05.686127Z,com.llmotions.farm/fable-5-1,Fable 5.1,0.1.0,,streamable-http,Authenticated async Fable 5.1 agent with status polling and artifact results.
+2026-09-27T12:18:07.327868Z,com.llmotions.farm/gpt-6-astra,GPT-6 Astra,0.1.0,,streamable-http,Authenticated async GPT-6 Astra agent with status polling and artifact results.
+2026-09-27T12:18:08.545406Z,com.llmotions.farm/gpt-6-sol,GPT-6 Sol,0.1.0,,streamable-http,Authenticated async GPT-6 Sol agent with status polling and artifact results.
+2026-09-27T12:18:09.788277Z,com.llmotions.farm/opus-5-5,Opus 5.5,0.1.0,,streamable-http,Authenticated async Opus 5.5 agent with status polling and artifact results.
+2026-09-27T12:20:02.612634Z,com.apmzoom.www/dongdaemun,apMZoomAI · Dongdaemun wholesale,1.0.0,https://github.com/apmleokeo-gif/apmzoom-mcp,streamable-http,"Search Dongdaemun (Seoul) wholesale fashion items, new arrivals and stalls on apMZoomAI."
