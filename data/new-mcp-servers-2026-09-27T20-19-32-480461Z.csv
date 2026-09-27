@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-09-27T19:24:10.356042Z,com.reachmcp/linkedin,Reach MCP — LinkedIn for AI agents,1.1.0,,streamable-http,"LinkedIn for AI agents: inbox, invitations, Sales Navigator search, posts, jobs, quotas, webhooks."
+2026-09-27T19:24:21.646146Z,io.theqrcode/qr-code-generator,TheQRCode.io,1.4.0,https://github.com/awilliams-2020/theqrcode-mcp,streamable-http,"Free styled QR codes, no key: URL, WiFi, contact, text, email. API key adds saved codes + analytics."
+2026-09-27T19:24:47.282594Z,com.sketchxflow/dev-mcp,,0.4.0,https://gitlab.com/kriyax-labs/sketchxflow,streamable-http,"SketchXFlow delivery team: pull client requirements, post updates, log time, move milestones."
+2026-09-27T19:24:57.327539Z,com.sketchxflow/mcp,,0.23.0,https://gitlab.com/kriyax-labs/sketchxflow,streamable-http,"Design websites, apps and logos with SketchXFlow — and brief its development team."
+2026-09-27T19:30:29.109707Z,com.asksakina/islamic-knowledge,AskSakina Islamic Knowledge,1.5.1,https://github.com/yserrag/asksakina-mcp,streamable-http,"Curated Islamic MCP: Quran (Arabic + Pickthall), 445 du'as, 99 Names, crisis-aware."
+2026-09-27T19:32:34.612374Z,com.postalform/postalform,PostalForm,0.1.0,,streamable-http,"Create mail drafts, upload PDFs, browse forms, track orders, and pay via MPP or x402."
+2026-09-27T19:32:58.493662Z,io.github.mehmetnadir/cdpilot,,0.9.1,https://github.com/mehmetnadir/cdpilot,,"Zero-dependency browser automation over raw CDP — no Puppeteer, Playwright, or Selenium."
+2026-09-27T19:33:53.390469Z,io.github.emergent-wisdom/meaning-model,Meaning Model,0.5.0,https://github.com/emergent-wisdom/meaning-model,,Revisable general-purpose models with opt-in story and ideation add-ons. Rust engine required.
+2026-09-27T19:35:59.394345Z,io.github.blitzsicht/falzmarke,falzmarke,0.9.12,https://github.com/blitzsicht/falzmarke,,"Geschäftspost nach DIN 5008 aus Markdown — Brief und E-Mail, am fertigen Dokument nachgemessen."
+2026-09-27T19:37:19.681131Z,lat.events/latino-events,Latino Events (events.lat),0.1.0,,streamable-http,"Find upcoming concerts, festivals and cultural events across Latin America."
+2026-09-27T19:39:13.547381Z,io.github.NSF-Simons-CosmicAI-Institute/manna,MANNA,0.10.0,https://github.com/NSF-Simons-CosmicAI-Institute/manna,,"MCP server for IVOA astronomical archives: NOIRLab Astro Data Lab, NRAO/ALMA, CADC, ESO, Gaia"
+2026-09-27T19:40:06.723176Z,com.withruntime/runtime,Runtime Cloud,0.8.0,https://github.com/withruntime/runtime,streamable-http,"Linux microVM sandboxes for AI agents: run commands, files, processes, pause and wake."
+2026-09-27T19:41:24.728784Z,io.github.arcusid/arcid-mcp,ArcID,0.2.0,https://github.com/arcusid/arcid-mcp,streamable-http,"Look up AI agents on Arc: ERC-8004 identity, feedback, validations and USDC-backed trust scores."
+2026-09-27T19:41:25.937763Z,io.github.carrick-tools/carrick,Carrick,0.4.0,https://github.com/carrick-tools/carrick,streamable-http,"TypeScript codebase intelligence for AI agents and IDEs, across every service and repo."
+2026-09-27T19:42:13.696909Z,io.github.0x923041-dotcom/conceptio-search,Conceptio Search,0.3.8,https://github.com/0x923041-dotcom/conceptio-cli,,"Search 1M+ open-access papers, standards, and case law from an AI agent."
+2026-09-27T19:43:53.78603Z,io.github.bnymnDev/shopware-mcp,,0.8.0,https://github.com/bnymnDev/shopware-mcp,,"Query and safely manage a Shopware 6 shop: products, orders, customers, stock, audits, reports."
+2026-09-27T19:45:46.350948Z,io.github.microtoll/mcp,Microtoll Engine,0.1.1,https://github.com/microtoll/engine,,Microtoll Engine in your coding tool: docs search and a scaffold for end-to-end-encrypted apps.
+2026-09-27T19:47:07.303928Z,io.github.Anode1/ais,ais,0.3.28,https://github.com/Anode1/ais,,"Exact recall from a plain-text index you keep, by your own keys."
+2026-09-27T19:48:07.11158Z,com.evergesture/evergesture,EverGesture,1.2.0,,streamable-http,"Secure gift, flower, occasion, reminder, approval, and growth tools for personal AI agents."
+2026-09-27T19:49:10.688248Z,com.irkumo/irkumo-mcp,irkumo,0.1.1,https://github.com/ozumin-dev/irkumo-mcp,,"IR page and earnings release list URLs for 3,821 Japanese listed companies by code or name"
+2026-09-27T19:49:32.079542Z,com.whatsmcp/whatsmcp,,0.1.154,,streamable-http,"Hosted MCP server for your own WhatsApp accounts: messages, contacts, groups, channels, calls."
+2026-09-27T19:54:31.627668Z,ai.hiddencontent/mcp,HiddenContent,0.4.15,https://github.com/AeroSpark-ai/hidden-content-service,streamable-http,"Check a document for hidden text before your agent reads it. PDF, Office, RTF, HTML."
+2026-09-27T19:55:50.508287Z,ai.sacs/sacs-mcp,SACS.ai — California School Finance,0.1.0,,streamable-http,"California school finance: public district filings, financial comparisons, and sourced briefings."
+2026-09-27T20:05:21.764255Z,io.github.mahmoud-nb/thread-mind,,0.5.0,https://github.com/mahmoud-nb/thread-mind-mcp,,Git-friendly memory for AI coding: a tree of thread summaries with inherited context
+2026-09-27T20:06:15.654383Z,io.github.PromptPartner/bexio-mcp-server,,2.6.0,https://github.com/promptpartner/bexio-mcp-server,,"Swiss accounting integration for Bexio. 315 tools: invoices, contacts, projects, account balances"
+2026-09-27T20:13:48.511994Z,dev.dvt/dvt,,0.6.1,https://github.com/getdvt/dvt-plugin,streamable-http,"Dashboards as data. Author, validate, render, and share dvt dashboards from any MCP client."
