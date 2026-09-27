@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-09-27T09:20:52.324481Z,io.github.Contentrain/contentrain,Contentrain,3.9.2,https://github.com/Contentrain/ai,streamable-http,Git-native content governance for AI agents — 27 deterministic MCP tools over stdio and HTTP.
+2026-09-27T09:22:06.114338Z,io.github.Regsorm/code-index,code-index,1.8.2,https://github.com/Regsorm/code-index-mcp,,"Rust code index MCP server, native 1C:Enterprise (BSL) support. 32 tools, AST for 14 languages."
+2026-09-27T09:23:42.509819Z,dev.draugr/draugr,Draugr,0.136.0,https://github.com/draugr-dev/draugr,,"Security scanning for AI agents: SAST, SCA, secrets, IaC, DAST, ranked by real risk."
+2026-09-27T09:27:04.137821Z,io.github.robin-bially/search-rotation,search-rotation,0.5.0,https://github.com/robin-bially/search-rotation-mcp,,MCP server for web search and page extraction across the free tiers of several providers
+2026-09-27T09:27:36.383978Z,com.gtdbrain/gtd-brain,GTD Brain,1.0.5,,streamable-http,"Getting Things Done (GTD) board: capture to Inbox, next actions by context, projects, waiting-for."
+2026-09-27T09:28:52.281462Z,com.swarmmemo/bulletin,SwarmMemo,1.19.2,https://github.com/Hugo0/swarmmemo,streamable-http,"A public message board for AI agents: read, post, reply and catch up. No account or wallet needed."
+2026-09-27T09:29:37.778985Z,app.deviceshelf/deviceshelf-server,,1.9.63,,,"Query and troubleshoot your local network in plain language: 37 tools, strictly local, no cloud."
+2026-09-27T09:33:36.049553Z,dk.herbertkokholm.citecaddy/cite-caddy,Cite Caddy,2.3.7,https://github.com/herbertkokholm/cite-caddy,streamable-http,Remote MCP server for full read/write access to a Zotero library
+2026-09-27T09:34:48.259976Z,io.github.n24q02m/mnemo-mcp,,2.18.3,https://github.com/n24q02m/mnemo.git,,"Persistent AI memory with hybrid search and embedded sync. Open, free, unlimited."
+2026-09-27T09:37:19.850929Z,uk.co.extreme-media.snow/em-snow,EM Snow,1.0.0,,streamable-http,"Ski resort conditions, forecasts, avalanche danger, sun, routes and snow history for 5,000+ resorts."
+2026-09-27T09:39:33.841473Z,io.github.luiacuaniello/perspectivegraph,PerspectiveGraph,1.25.1,https://github.com/luiacuaniello/perspectivegraph,,"Read-only attack-path tools: reachable routes to sensitive assets, and what a fix would cut."
+2026-09-27T09:41:32.480283Z,com.mybestangle/mybestangle,MyBestAngle,1.0.0,,streamable-http,Professional profile photos and headshots from your own selfies.
+2026-09-27T09:49:01.455136Z,io.github.zygiu-zygis/basecoat-ui-mcp,Basecoat UI MCP,1.0.3,https://github.com/zygiu-zygis/basecoat-ui-mcp,,"Offline stdio MCP for Basecoat UI templates, composition guidance, and static validation."
+2026-09-27T09:49:39.693339Z,io.github.nonchan7720/manifold,Manifold,1.16.0,https://github.com/nonchan7720/manifold,,MCP gateway aggregating MCP servers and OpenAPI/Swagger REST APIs behind one MCP endpoint
+2026-09-27T09:51:06.734462Z,io.github.moxno/ztds,,1.0.0,https://github.com/moxno/ztds.ai,,Open standard MCP server for Zero-Trust Data Sanitization (ZTDS RFC v1.0). In-memory PII masking.
+2026-09-27T09:51:46.181506Z,ai.kinlab/kin,Kin,0.8.1,https://github.com/firelock-ai/kin,,A graph-native code repository for people and AI agents.
+2026-09-27T09:55:29.575078Z,io.github.heubme2020/datasinking,DataSinking,0.2.13,https://github.com/heubme2020/datasinking,streamable-http,"Full-text Asian financial reports (China, Korea, Japan, Taiwan) as clean Markdown for RAG agents."
+2026-09-27T10:01:21.324218Z,io.github.jacobfunch/usefillo,Fillo,0.8.0,https://github.com/jacobfunch/usefillo,streamable-http,"Fillo MCP server — provision, scaffold, publish, and query forms from your coding agent."
+2026-09-27T10:04:00.813812Z,org.golfcore/golfcore,GolfCore,1.1.0,,streamable-http,"Scorecards, tee yardages, USGA ratings and green contour maps for 30,000 golf courses worldwide."
+2026-09-27T10:05:26.338606Z,io.github.AncientiCe/palace-rs,Palace,0.15.0,https://github.com/AncientiCe/palace-rs,,"Local-first memory for coding agents — MCP server, single SQLite file, local embeddings"
+2026-09-27T10:05:40.56629Z,io.github.AAAZZZR/livermore,Livermore,1.1.0,,streamable-http,"US insider trades (SEC Form 4) and 13F institutional holdings incl. superinvestors. Free, no key."
+2026-09-27T10:06:47.507316Z,com.mobilevalidate/mcp,MobileValidate,1.2.0,https://github.com/brntech/mobilevalidate-sdk,streamable-http,"Check phone numbers (WhatsApp, Telegram, carrier, spam reputation) and e-mail addresses."
+2026-09-27T10:08:35.809897Z,th.in.legaltech/thai-legal,,2.40.0,,streamable-http,"Thai legal search MCP — statutes, gazette, opinions, court cases, with checkable citations."
+2026-09-27T10:12:10.04458Z,io.github.malkreide/register-mcp,,0.7.0,https://github.com/malkreide/register-mcp,,Zefix commercial register with a company-UID join to amtsblattportal.ch (SHAB + cantonal gazettes)
+2026-09-27T10:14:44.356057Z,io.github.malkreide/sbb-opendata-mcp,,0.4.0,https://github.com/malkreide/sbb-opendata-mcp,,SBB Open Data via OpenDataSoft
+2026-09-27T10:19:08.106837Z,io.github.JvnnDev/seo-webmaster-mcp,,0.3.1,https://github.com/JvnnDev/seo-webmaster-mcp,,"Read-only SEO and GEO audits with Google Search Console, Bing, and website crawling."
