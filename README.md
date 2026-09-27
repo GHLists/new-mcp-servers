@@ -9,40 +9,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 10:19 UTC
+## Latest list — 2026-09-27 11:20 UTC
 
-New MCP servers published between 2026-09-27 09:20 UTC and 2026-09-27 10:19 UTC.
+New MCP servers published between 2026-09-27 10:19 UTC and 2026-09-27 11:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-27T10-19-21-649471Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-27T11-20-57-285845Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-27 09:20:52 | [io.github.Contentrain/contentrain](https://github.com/Contentrain/ai) | Contentrain | 3.9.2 | Git-native content governance for AI agents — 27 deterministic MCP tools over s… |
-| 2026-09-27 09:22:06 | [io.github.Regsorm/code-index](https://github.com/Regsorm/code-index-mcp) | code-index | 1.8.2 | Rust code index MCP server, native 1C:Enterprise (BSL) support. 32 tools, AST f… |
-| 2026-09-27 09:23:42 | [dev.draugr/draugr](https://github.com/draugr-dev/draugr) | Draugr | 0.136.0 | Security scanning for AI agents: SAST, SCA, secrets, IaC, DAST, ranked by real… |
-| 2026-09-27 09:27:04 | [io.github.robin-bially/search-rotation](https://github.com/robin-bially/search-rotation-mcp) | search-rotation | 0.5.0 | MCP server for web search and page extraction across the free tiers of several… |
-| 2026-09-27 09:27:36 | com.gtdbrain/gtd-brain | GTD Brain | 1.0.5 | Getting Things Done (GTD) board: capture to Inbox, next actions by context, pro… |
-| 2026-09-27 09:28:52 | [com.swarmmemo/bulletin](https://github.com/Hugo0/swarmmemo) | SwarmMemo | 1.19.2 | A public message board for AI agents: read, post, reply and catch up. No accoun… |
-| 2026-09-27 09:29:37 | app.deviceshelf/deviceshelf-server |  | 1.9.63 | Query and troubleshoot your local network in plain language: 37 tools, strictly… |
-| 2026-09-27 09:33:36 | [dk.herbertkokholm.citecaddy/cite-caddy](https://github.com/herbertkokholm/cite-caddy) | Cite Caddy | 2.3.7 | Remote MCP server for full read/write access to a Zotero library |
-| 2026-09-27 09:34:48 | [io.github.n24q02m/mnemo-mcp](https://github.com/n24q02m/mnemo.git) |  | 2.18.3 | Persistent AI memory with hybrid search and embedded sync. Open, free, unlimite… |
-| 2026-09-27 09:37:19 | uk.co.extreme-media.snow/em-snow | EM Snow | 1.0.0 | Ski resort conditions, forecasts, avalanche danger, sun, routes and snow histor… |
-| 2026-09-27 09:39:33 | [io.github.luiacuaniello/perspectivegraph](https://github.com/luiacuaniello/perspectivegraph) | PerspectiveGraph | 1.25.1 | Read-only attack-path tools: reachable routes to sensitive assets, and what a f… |
-| 2026-09-27 09:41:32 | com.mybestangle/mybestangle | MyBestAngle | 1.0.0 | Professional profile photos and headshots from your own selfies. |
-| 2026-09-27 09:49:01 | [io.github.zygiu-zygis/basecoat-ui-mcp](https://github.com/zygiu-zygis/basecoat-ui-mcp) | Basecoat UI MCP | 1.0.3 | Offline stdio MCP for Basecoat UI templates, composition guidance, and static v… |
-| 2026-09-27 09:49:39 | [io.github.nonchan7720/manifold](https://github.com/nonchan7720/manifold) | Manifold | 1.16.0 | MCP gateway aggregating MCP servers and OpenAPI/Swagger REST APIs behind one MC… |
-| 2026-09-27 09:51:06 | [io.github.moxno/ztds](https://github.com/moxno/ztds.ai) |  | 1.0.0 | Open standard MCP server for Zero-Trust Data Sanitization (ZTDS RFC v1.0). In-m… |
-| 2026-09-27 09:51:46 | [ai.kinlab/kin](https://github.com/firelock-ai/kin) | Kin | 0.8.1 | A graph-native code repository for people and AI agents. |
-| 2026-09-27 09:55:29 | [io.github.heubme2020/datasinking](https://github.com/heubme2020/datasinking) | DataSinking | 0.2.13 | Full-text Asian financial reports (China, Korea, Japan, Taiwan) as clean Markdo… |
-| 2026-09-27 10:01:21 | [io.github.jacobfunch/usefillo](https://github.com/jacobfunch/usefillo) | Fillo | 0.8.0 | Fillo MCP server — provision, scaffold, publish, and query forms from your codi… |
-| 2026-09-27 10:04:00 | org.golfcore/golfcore | GolfCore | 1.1.0 | Scorecards, tee yardages, USGA ratings and green contour maps for 30,000 golf c… |
-| 2026-09-27 10:05:26 | [io.github.AncientiCe/palace-rs](https://github.com/AncientiCe/palace-rs) | Palace | 0.15.0 | Local-first memory for coding agents — MCP server, single SQLite file, local em… |
-| 2026-09-27 10:05:40 | io.github.AAAZZZR/livermore | Livermore | 1.1.0 | US insider trades (SEC Form 4) and 13F institutional holdings incl. superinvest… |
-| 2026-09-27 10:06:47 | [com.mobilevalidate/mcp](https://github.com/brntech/mobilevalidate-sdk) | MobileValidate | 1.2.0 | Check phone numbers (WhatsApp, Telegram, carrier, spam reputation) and e-mail a… |
-| 2026-09-27 10:08:35 | th.in.legaltech/thai-legal |  | 2.40.0 | Thai legal search MCP — statutes, gazette, opinions, court cases, with checkabl… |
-| 2026-09-27 10:12:10 | [io.github.malkreide/register-mcp](https://github.com/malkreide/register-mcp) |  | 0.7.0 | Zefix commercial register with a company-UID join to amtsblattportal.ch (SHAB +… |
-| 2026-09-27 10:14:44 | [io.github.malkreide/sbb-opendata-mcp](https://github.com/malkreide/sbb-opendata-mcp) |  | 0.4.0 | SBB Open Data via OpenDataSoft |
-| 2026-09-27 10:19:08 | [io.github.JvnnDev/seo-webmaster-mcp](https://github.com/JvnnDev/seo-webmaster-mcp) |  | 0.3.1 | Read-only SEO and GEO audits with Google Search Console, Bing, and website craw… |
+| 2026-09-27 10:20:49 | io.github.Christianwieprecht/amadeus-agent-intelligence |  | 1.8.1 | Live-Status, Aenderungen und neu entdeckte Server im MCP-/Agenten-Oekosystem. |
+| 2026-09-27 10:22:54 | com.vectelos/duty | Vectelos Duty | 0.4.0 | US import duty from the live HTS: Section 301/232 stacking, MPF, HMF. Refuses w… |
+| 2026-09-27 10:23:03 | com.dogechain/dogechain | Dogechain | 1.0.0 | Dogecoin blockchain lookups: transactions explained, addresses, blocks, fees, s… |
+| 2026-09-27 10:25:32 | [io.github.Fieldproxy/fieldproxy-mcp](https://github.com/Fieldproxy/fieldproxy-mcp) | Fieldproxy | 1.0.0 | Field service management: jobs, dispatch, invoices, quotes and building apps, c… |
+| 2026-09-27 10:25:50 | [io.github.malkreide/parlament-mcp](https://github.com/malkreide/parlament-mcp) |  | 0.4.0 | Swiss Federal Parliament Curia Vista OData API |
+| 2026-09-27 10:27:42 | [io.github.foundrole/jobs-mcp-proxy](https://github.com/foundrole/jobs-mcp-proxy) | FoundRole — AI Job Search & Application… | 1.1.14 | AI job search MCP — fact-checked jobs, application tracker, alerts. ChatGPT, Cl… |
+| 2026-09-27 10:34:09 | io.github.webmyc/respira-wordpress | Respira WordPress MCP | 8.4.0 | AI-native WordPress editing across 17 page builders. 242 tools, 346 with WooCom… |
+| 2026-09-27 10:36:06 | [io.github.malkreide/openlex-mcp](https://github.com/malkreide/openlex-mcp) |  | 0.3.0 | Canton Zurich legislation via ZH-Lex with full-text search and article extracti… |
+| 2026-09-27 10:38:38 | [io.github.malkreide/news-monitor-mcp](https://github.com/malkreide/news-monitor-mcp) |  | 0.4.0 | News monitoring via WorldNewsAPI: search, sentiment, headlines, trends, alerts… |
+| 2026-09-27 10:40:06 | [io.github.aokings/thth](https://github.com/aokings/thth) |  | 3.14.3 | Call before you post: ships a draft to Threads/Bluesky/Mastodon only after a pe… |
+| 2026-09-27 10:43:12 | [ai.gateco/gateco](https://github.com/fortisil/gateco-sdk-python) | Gateco | 1.12.1 | Permission-aware retrieval for AI systems: policy-enforced access to organizati… |
+| 2026-09-27 10:45:46 | [io.github.anilloutombam/mcp-failure-lab](https://github.com/anilloutombam/mcp-failure-lab) |  | 0.11.0 | A chaos-engineering and resilience-testing toolkit for Model Context Protocol s… |
+| 2026-09-27 10:47:48 | legal.loupe/citation-lookup | Loupe: free citation lookup | 1.0.0 | Check if a US legal citation exists, names its case and has a valid pin cite; o… |
+| 2026-09-27 10:49:15 | [io.fairseal/mcp-server](https://github.com/ned-del/fairseal) |  | 0.2.3 | Verifiable entropy, provably-fair games, and receipt verification for AI agents… |
+| 2026-09-27 10:49:31 | [io.github.arnienemeth/geo-explorer-mcp](https://github.com/arnienemeth/geo-explorer-mcp) |  | 0.1.0 | Country facts, administrative boundaries and regional statistics, for interacti… |
+| 2026-09-27 10:51:03 | [io.github.VirusTotal/virustotal-mcp](https://github.com/VirusTotal/virustotal-mcp) | VirusTotal | 0.9.2 | VirusTotal reports, file and URL submissions, domain/IP reanalysis, and analysi… |
+| 2026-09-27 10:51:04 | [io.github.jigyasudham/veto](https://github.com/jigyasudham/veto) | Veto | 3.8.0 | 93 agentic MCP tools + 49 specialist agents for every major AI CLI. Self-learni… |
+| 2026-09-27 10:51:29 | com.ask10ais/mcp | ask10ais | 0.1.0 | Read-only measurements of how 12 AI models answer brand questions, in Chinese a… |
+| 2026-09-27 10:53:07 | [io.github.MikkoParkkola/trvl](https://github.com/MikkoParkkola/trvl) | trvl | 1.24.0 | Door-to-door travel MCP + CLI: flights, hotels, trains, cars, ferries. No API k… |
+| 2026-09-27 10:55:00 | [io.github.atef-ataya/depwire](https://github.com/depwire/depwire) |  | 1.20.2 | Dependency graph + 24 MCP tools. Impact analysis, simulation, security, agent c… |
+| 2026-09-27 10:57:36 | [io.github.hedging8563/tokenlab](https://github.com/hedging8563/tokenlab-mcp-server) | TokenLab MCP Server | 0.6.24 | TokenLab MCP server: 31 default and 80 full-profile tools for models, media, ta… |
+| 2026-09-27 11:02:13 | app.reviewder/reviewder | Reviewder | 1.0.0 | Thai job board: hire TikTok, IG, FB and YouTube creators to review your app, we… |
+| 2026-09-27 11:03:33 | [io.github.malkreide/meteoswiss-mcp](https://github.com/malkreide/meteoswiss-mcp) |  | 0.7.0 | MeteoSwiss Open Data for weather, climate normals, warnings |
+| 2026-09-27 11:06:00 | [io.github.ni-c/mcp-hub](https://github.com/ni-c/mcp-hub) | mcp-hub | 0.11.4 | Many stdio MCP servers from one container, published over HTTPS with OAuth 2.1… |
+| 2026-09-27 11:06:52 | [io.github.xberg-io/crawlberg](https://github.com/xberg-io/crawlberg) | Crawlberg | 1.8.0 | Scrape, crawl, and map websites to Markdown or JSON via local CLI. |
+| 2026-09-27 11:06:59 | [io.github.malkreide/lobbywatch-mcp](https://github.com/malkreide/lobbywatch-mcp) |  | 0.3.7 | Lobbywatch.ch transparency data on parliamentarians, interests, access badges |
+| 2026-09-27 11:12:58 | com.mailbox-mcp/mailbox-mcp | Mailbox MCP | 1.33.0 | Read, send, file and search email in any Gmail, Microsoft 365 or IMAP mailbox,… |
+| 2026-09-27 11:13:15 | [io.github.Ourpay/ourpay-wallet](https://github.com/Ourpay/ourpay-wallet) | OurPay Wallet | 0.10.0 | Crypto wallet for AI agents: balances, payments, swaps and trading with owner c… |
+| 2026-09-27 11:14:41 | [io.github.crissyfield/super-trouper](https://github.com/crissyfield/super-trouper) |  | 0.4.0 | MCP server for the Frida reverse engineering toolkit. |
+| 2026-09-27 11:16:41 | [io.github.ChanghuLiu/cablecert-qa](https://github.com/ChanghuLiu/cablecert-qa) |  | 0.2.1 | Independent owner-side QA for structured-cabling certification closeout evidenc… |
+| 2026-09-27 11:18:37 | [io.github.SidneyBissoli/ibge-br-mcp](https://github.com/SidneyBissoli/ibge-br-mcp) | IBGE Brasil MCP | 5.4.0 | IBGE: geography, census, economy and health from the official APIs, with proven… |
 
 ## Data source
 
