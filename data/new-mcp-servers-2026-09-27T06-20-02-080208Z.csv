@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-09-27T05:24:35.155063Z,io.github.WilliamSmithEdward/xlide-excel-office-vba-mcp,XLIDE,1.2.0,https://github.com/WilliamSmithEdward/xlide_mcp,,"Read, write, analyze, test and diff the VBA in Office files, and the document around it"
+2026-09-27T05:26:40.166442Z,dev.pdfops/pdfops-mcp,,0.3.4,https://github.com/pdfops/pdfops-mcp,,"Deterministic PDF tools for AI agents: inspect fields, fill forms, merge PDFs, invoices."
+2026-09-27T05:28:21.26815Z,io.github.trycoin-ai/agentrisk,,0.1.2,https://github.com/trycoin-ai/agentrisk,,Risk guardrails for AI trading agents. Your agent proposes; your policy decides.
+2026-09-27T05:29:41.993507Z,ai.trustysquire/trusty-squire,Trusty Squire,1.1.18-rc.4,https://github.com/Trusty-Squire/trusty-squire,,"Provision, ship, and pay from your coding agent — keys and cards never leave the vault."
+2026-09-27T05:32:31.509888Z,com.ambermem/amber,Amber,1.1.1398,https://github.com/ambermem/amber,streamable-http,"Long-term memory for AI assistants. Hybrid retrieval, query expansion, auto-topics."
+2026-09-27T05:35:30.811239Z,io.github.mrfentmen/nasa-mcp,,1.1.0,https://github.com/mrfentmen/awesome-mcps,,"Unified NASA server: APOD, asteroids (NEO), Mars rover photos, InSight weather, and TechPort..."
+2026-09-27T05:35:54.421265Z,io.github.mrfentmen/open-meteo-mcp,,1.1.0,https://github.com/mrfentmen/awesome-mcps,,"Open-Meteo weather, geocoding, elevation, and UV forecasts."
+2026-09-27T05:36:01.980728Z,io.github.mrfentmen/pubmed-mcp,,1.1.0,https://github.com/mrfentmen/pubmed-mcp,,Search PubMed biomedical literature and fetch article summaries. No key required.
+2026-09-27T05:36:12.465849Z,io.github.mrfentmen/stackexchange-mcp,,1.1.0,https://github.com/mrfentmen/stackexchange-mcp,,Search questions and read answers across Stack Exchange sites. No key required.
+2026-09-27T05:36:20.784773Z,io.github.kubestellar/kubestellar-mcp,KubeStellar MCP,0.9.16-nightly.20260927,https://github.com/kubestellar/kubestellar-mcp,,"AI-powered Kubernetes diagnostics, RBAC analysis, security checks, and app deployment via MCP"
+2026-09-27T05:37:39.125365Z,ai.saltapp/salt,Salt,0.2.4,https://github.com/0000F8/salt-mcp,streamable-http,"Chat, pay, and hire on Salt: discover agents, message, invoice, and hand off work."
+2026-09-27T05:38:26.178795Z,io.github.marcioyoshida/outage-me,Outage.Me,1.2.0,,streamable-http; streamable-http,"Live cloud/SaaS outages, provider reliability and exploited CVEs from official status pages and CISA"
+2026-09-27T05:40:23.058019Z,io.roomtone/roomtone,Roomtone,0.2.0,https://github.com/Mega-Studios/roomtone-mcp,streamable-http,"Ask Claude about your meetings: summaries, action items and transcripts from Roomtone"
+2026-09-27T05:44:34.046015Z,io.github.n24q02m/wet-mcp,,3.16.6,https://github.com/n24q02m/wet.git,,"Open-source MCP server for AI agents: web search, content extraction, and library docs."
+2026-09-27T05:46:42.872708Z,io.github.cracked-collective/agentlaunch,AgentLaunch,1.0.0,https://github.com/cracked-collective/agentlaunch-mcp,streamable-http,"Plan and run paced startup, SaaS and AI directory launches from your agent, in your own Chrome."
+2026-09-27T05:48:42.255998Z,io.github.Rul1an/assay-mcp-server,Assay MCP Server,6.9.0,https://github.com/Rul1an/assay,,Policy-enforcing MCP proxy with portable evidence output.
+2026-09-27T05:53:24.815107Z,io.github.Wolfe-Jam/mcp-context-card,mcp-context-card,1.1.1,https://github.com/Wolfe-Jam/mcp-context-card,,"MCP server for a project's context (AGENTS.md), memory, and identity — base or drop-in extension."
+2026-09-27T05:53:47.179339Z,com.alderinvoices/invoice-generator,Alder Invoices,1.0.0,,streamable-http,"Free invoice drafts, templates and direct PDF generation for AI agents. No account needed."
+2026-09-27T05:56:31.752524Z,io.github.mims-harvard/tooluniverse,,1.5.4,https://github.com/mims-harvard/ToolUniverse,,"2,500+ scientific tools for AI scientists: life science, research, literature, and more."
+2026-09-27T06:00:09.627704Z,io.github.quazardous/nelson-mcp,Nelson MCP — LibreOffice,0.14.4,https://github.com/quazardous/nelson-mcp,,An MCP server inside LibreOffice: agents read and edit your open Writer and Calc documents.
+2026-09-27T06:05:41.956754Z,app.sallim/korea-realty,,0.92.2,https://github.com/sallim-app/korea-realty,streamable-http,"Korean real estate: court auctions, 10M+ MOLIT records, subscription notice facts, loan/DSR rules"
+2026-09-27T06:07:56.517601Z,io.github.HrRodan/agent-workspace-mcp,Agent Workspace MCP,1.4.106,https://github.com/HrRodan/agent-workspace-mcp,,"A sandboxed, agentic workspace providing secure filesystem, bash, and uv-powered Python execution."
+2026-09-27T06:08:42.216289Z,io.github.RecursiveFunctions/d2mcp,D2 MCP Server,0.5.0,https://github.com/recursivefunctions/d2mcp,,"Create, edit, validate, render, and export D2 diagrams with confined workspace access."
+2026-09-27T06:12:10.031591Z,it.expatliving/data,Expat Living Italy,1.1.0,,streamable-http,"Sourced data on Italy's ~7,900 comuni for people relocating or retiring there."
+2026-09-27T06:13:16.238131Z,io.github.Ikalus1988/misakanet,,2.37.0,https://github.com/Ikalus1988/MisakaNet,,Failure-memory layer for coding agents: search evidence-rated failure lessons by error text.
+2026-09-27T06:17:04.108069Z,io.github.mrfentmen/spotify-mcp,,1.1.0,https://github.com/mrfentmen/awesome-mcps,,"MCP server for Spotify: search albums, artists, tracks. Needs free API credentials."
+2026-09-27T06:18:46.310736Z,io.climbcast/climbcast,ClimbCast,1.0.0,,streamable-http,"Read-only conditions and forecast accuracy for covered objectives in WA, OR, and BC. No account."
