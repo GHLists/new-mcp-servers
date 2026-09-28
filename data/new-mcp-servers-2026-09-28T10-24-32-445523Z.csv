@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-09-28T09:23:02.221168Z,io.github.josediegorobles/preflight-checks,Preflight Checks (x402),0.3.0,https://github.com/josediegorobles/preflight-x402,streamable-http,Deterministic pre-execution verification tools for AI agents with x402 USDC pay-per-call on Base
+2026-09-28T09:23:46.105632Z,io.github.j0hanz/filesystem-mcp,Filesystem MCP,2.6.2,https://github.com/j0hanz/filesystem-mcp,,"Secure filesystem MCP server for reading, writing, searching, diffing, and patching files."
+2026-09-28T09:24:00.607539Z,io.github.mischuh/canonic,,0.28.0,https://github.com/mischuh/canonic,,The Open Context Layer for Data Agents
+2026-09-28T09:26:36.66955Z,app.apick/all,APICK,3.5.0,https://github.com/lead788/apick-mcp,streamable-http,"APICK Korean data, simple-auth lookups, OCR, search, conversion, image, video and TTS"
+2026-09-28T09:27:27.238533Z,com.accuracite/accuracite-mcp,,0.1.1,https://github.com/DoanThu/accuracite,,MCP server exposing AccuraCite's citation verification and finding API as tools
+2026-09-28T09:31:56.754639Z,io.github.mohitagw15856/pm-claude-skills,,80.2.0,https://github.com/mohitagw15856/pm-claude-skills,,1176 professional Agent Skills + workflow recipes — searchable & fetchable over MCP.
+2026-09-28T09:32:08.500443Z,com.bykaranteli/mcp,,0.30.5,https://github.com/bykarantelicom/bykaranteli-mcp,streamable-http,"Crypto derivatives data: funding, OI, liquidations, options, ETF flows. Free account key required."
+2026-09-28T09:34:30.427984Z,com.destaire/destaire,Déstaire,1.5.0,,streamable-http,"A curated guide to exceptional hotels and private stays, with editorial content and city guides."
+2026-09-28T09:34:44.511386Z,io.github.ashlrai/lexicon,Lexicon,0.5.4,https://github.com/ashlrai/lexicon,,Fixes the names and jargon speech-to-text gets wrong before your agent acts on a dictated prompt.
+2026-09-28T09:37:07.600497Z,io.github.codapult/guard,,0.6.2,https://github.com/codapult/codapult-guard,,Local-first architecture guardrails and project context for JS/TS AI coding agents.
+2026-09-28T09:39:23.352552Z,io.github.Sofiia7/arcbounty-mcp,ArcBounty,0.6.1,https://github.com/Sofiia7/ARC,,"Put an AI agent to work for USDC, or let it hire: take and post on-chain bounties, get paid."
+2026-09-28T09:39:25.071869Z,io.github.Sofiia7/basebounty-mcp,BaseBounty,0.6.1,https://github.com/Sofiia7/ARC,,"Put an AI agent to work for USDC on Base: it takes on-chain bounties, paid to its own wallet."
+2026-09-28T09:45:30.862173Z,io.github.linxule/lotus-wisdom,Lotus Wisdom,0.8.3,https://github.com/linxule/lotus-wisdom-mcp,streamable-http,Contemplative reasoning with Lotus Sutra wisdom framework and ext-apps visualization.
+2026-09-28T09:46:40.533818Z,io.qt.qt-docs-mcp/qt-documentation,Qt Documentation,0.3.0,,streamable-http,"Qt 5 and Qt 6 framework and product docs: Qt Creator, MCUs, Squish, Coco and more."
+2026-09-28T09:49:44.473846Z,com.firmtrove/firmtrove,FirmTrove,0.1.0,,streamable-http,"Search, count and export Dutch companies from your AI agent."
+2026-09-28T09:50:57.843426Z,io.github.nimitt-IN/india-cyber-regulations,Indian Cyber Regulation Register (BitScore),1.0.0,,streamable-http,"Indian cyber regulation register and incident-reporting deadlines (India, US, EU), read at source."
+2026-09-28T09:51:51.754911Z,io.github.parasxos/apple-mail-mcp,,1.8.0,https://github.com/parasxos/apple-mail-mcp,,"Fast local Apple Mail MCP: indexed search, full-text bodies, verified sends, triage. macOS."
+2026-09-28T09:53:00.317984Z,io.github.zeynepaslierhan/promptlike-mcp,,0.4.1,https://github.com/zeynepaslierhann/promptlike-plugin,,"Your PromptLikeEngineer prompt library as MCP tools, slash prompts and resources. Add-only saves."
+2026-09-28T09:53:36.525902Z,app.studio99/calligraphy,Calligraphy Maker by Studio99,1.1.0,,streamable-http,"Exact Hindi, Marathi, Gujarati and English calligraphy as editable artwork, from real fonts."
+2026-09-28T09:53:42.611324Z,io.github.browserstack/mcp-server,,1.5.1,https://github.com/browserstack/mcp-server,,BrowserStack's Official MCP Server
+2026-09-28T10:09:08.238597Z,com.smsvertpro/mcp,SMS Vert Pro,1.1.0,,streamable-http,"French SMS platform for AI agents: bulk & scheduled SMS, OTP, delivery reports, replies, STOP list."
+2026-09-28T10:10:59.142903Z,io.github.vaaraio/vaara,Vaara,2.2.0,https://github.com/vaaraio/vaara,,"Accountable autonomy proxy: gating, tamper-evident audit, time anchor for every action"
+2026-09-28T10:11:01.313809Z,io.github.vaaraio/vaara-server,Vaara MCP Server,2.2.0,https://github.com/vaaraio/vaara,,"Accountable autonomy MCP server: gating, tamper-evident audit for every action"
+2026-09-28T10:11:48.676772Z,io.github.dahshanlabs/klypix-mcp,KLYPIX Project Brain,1.86.3,https://github.com/dahshanlabs/klypix-mcp,,"Active state management for multi-agent coding: a shared, versioned project brain over MCP."
+2026-09-28T10:19:53.401482Z,io.github.Odrin/rhizome-mcp,Rhizome MCP,1.5.2,https://github.com/Odrin/rhizome-mcp,,Local-first MCP server for task tracking and coordination of autonomous AI coding agents.
+2026-09-28T10:20:10.642987Z,io.github.ozanmutlu/gitlab-docs,,1.1.15,https://github.com/ozanmutlu/Gitlab-Docs-MCP,,"Search and browse 2,900+ official GitLab documentation pages via MCP"
+2026-09-28T10:20:30.324132Z,io.github.NeoZorK/monte-neo,Monte-Neo strategy verifier,0.32.1,https://github.com/NeoZorK/Monte-Neo,,"Verify trading-strategy backtests: look-ahead probes, trading costs, Deflated Sharpe, walk-forward."
+2026-09-28T10:23:07.113557Z,io.github.WYRE-AI/dubber-mcp,Dubber,1.0.1,https://github.com/WYRE-AI/dubber-mcp,,"MCP server for Dubber: call recordings, compliance, groups/accounts/users, and Dub.Point."
