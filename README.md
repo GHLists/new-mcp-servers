@@ -9,42 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 10:24 UTC
+## Latest list — 2026-09-28 11:20 UTC
 
-New MCP servers published between 2026-09-28 09:22 UTC and 2026-09-28 10:24 UTC.
+New MCP servers published between 2026-09-28 10:24 UTC and 2026-09-28 11:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-28T10-24-32-445523Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-28T11-20-37-401807Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-28 09:23:02 | [io.github.josediegorobles/preflight-checks](https://github.com/josediegorobles/preflight-x402) | Preflight Checks (x402) | 0.3.0 | Deterministic pre-execution verification tools for AI agents with x402 USDC pay… |
-| 2026-09-28 09:23:46 | [io.github.j0hanz/filesystem-mcp](https://github.com/j0hanz/filesystem-mcp) | Filesystem MCP | 2.6.2 | Secure filesystem MCP server for reading, writing, searching, diffing, and patc… |
-| 2026-09-28 09:24:00 | [io.github.mischuh/canonic](https://github.com/mischuh/canonic) |  | 0.28.0 | The Open Context Layer for Data Agents |
-| 2026-09-28 09:26:36 | [app.apick/all](https://github.com/lead788/apick-mcp) | APICK | 3.5.0 | APICK Korean data, simple-auth lookups, OCR, search, conversion, image, video a… |
-| 2026-09-28 09:27:27 | [com.accuracite/accuracite-mcp](https://github.com/DoanThu/accuracite) |  | 0.1.1 | MCP server exposing AccuraCite's citation verification and finding API as tools |
-| 2026-09-28 09:31:56 | [io.github.mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) |  | 80.2.0 | 1176 professional Agent Skills + workflow recipes — searchable & fetchable over… |
-| 2026-09-28 09:32:08 | [com.bykaranteli/mcp](https://github.com/bykarantelicom/bykaranteli-mcp) |  | 0.30.5 | Crypto derivatives data: funding, OI, liquidations, options, ETF flows. Free ac… |
-| 2026-09-28 09:34:30 | com.destaire/destaire | Déstaire | 1.5.0 | A curated guide to exceptional hotels and private stays, with editorial content… |
-| 2026-09-28 09:34:44 | [io.github.ashlrai/lexicon](https://github.com/ashlrai/lexicon) | Lexicon | 0.5.4 | Fixes the names and jargon speech-to-text gets wrong before your agent acts on… |
-| 2026-09-28 09:37:07 | [io.github.codapult/guard](https://github.com/codapult/codapult-guard) |  | 0.6.2 | Local-first architecture guardrails and project context for JS/TS AI coding age… |
-| 2026-09-28 09:39:23 | [io.github.Sofiia7/arcbounty-mcp](https://github.com/Sofiia7/ARC) | ArcBounty | 0.6.1 | Put an AI agent to work for USDC, or let it hire: take and post on-chain bounti… |
-| 2026-09-28 09:39:25 | [io.github.Sofiia7/basebounty-mcp](https://github.com/Sofiia7/ARC) | BaseBounty | 0.6.1 | Put an AI agent to work for USDC on Base: it takes on-chain bounties, paid to i… |
-| 2026-09-28 09:45:30 | [io.github.linxule/lotus-wisdom](https://github.com/linxule/lotus-wisdom-mcp) | Lotus Wisdom | 0.8.3 | Contemplative reasoning with Lotus Sutra wisdom framework and ext-apps visualiz… |
-| 2026-09-28 09:46:40 | io.qt.qt-docs-mcp/qt-documentation | Qt Documentation | 0.3.0 | Qt 5 and Qt 6 framework and product docs: Qt Creator, MCUs, Squish, Coco and mo… |
-| 2026-09-28 09:49:44 | com.firmtrove/firmtrove | FirmTrove | 0.1.0 | Search, count and export Dutch companies from your AI agent. |
-| 2026-09-28 09:50:57 | io.github.nimitt-IN/india-cyber-regulations | Indian Cyber Regulation Register (BitSc… | 1.0.0 | Indian cyber regulation register and incident-reporting deadlines (India, US, E… |
-| 2026-09-28 09:51:51 | [io.github.parasxos/apple-mail-mcp](https://github.com/parasxos/apple-mail-mcp) |  | 1.8.0 | Fast local Apple Mail MCP: indexed search, full-text bodies, verified sends, tr… |
-| 2026-09-28 09:53:00 | [io.github.zeynepaslierhan/promptlike-mcp](https://github.com/zeynepaslierhann/promptlike-plugin) |  | 0.4.1 | Your PromptLikeEngineer prompt library as MCP tools, slash prompts and resource… |
-| 2026-09-28 09:53:36 | app.studio99/calligraphy | Calligraphy Maker by Studio99 | 1.1.0 | Exact Hindi, Marathi, Gujarati and English calligraphy as editable artwork, fro… |
-| 2026-09-28 09:53:42 | [io.github.browserstack/mcp-server](https://github.com/browserstack/mcp-server) |  | 1.5.1 | BrowserStack's Official MCP Server |
-| 2026-09-28 10:09:08 | com.smsvertpro/mcp | SMS Vert Pro | 1.1.0 | French SMS platform for AI agents: bulk & scheduled SMS, OTP, delivery reports,… |
-| 2026-09-28 10:10:59 | [io.github.vaaraio/vaara](https://github.com/vaaraio/vaara) | Vaara | 2.2.0 | Accountable autonomy proxy: gating, tamper-evident audit, time anchor for every… |
-| 2026-09-28 10:11:01 | [io.github.vaaraio/vaara-server](https://github.com/vaaraio/vaara) | Vaara MCP Server | 2.2.0 | Accountable autonomy MCP server: gating, tamper-evident audit for every action |
-| 2026-09-28 10:11:48 | [io.github.dahshanlabs/klypix-mcp](https://github.com/dahshanlabs/klypix-mcp) | KLYPIX Project Brain | 1.86.3 | Active state management for multi-agent coding: a shared, versioned project bra… |
-| 2026-09-28 10:19:53 | [io.github.Odrin/rhizome-mcp](https://github.com/Odrin/rhizome-mcp) | Rhizome MCP | 1.5.2 | Local-first MCP server for task tracking and coordination of autonomous AI codi… |
-| 2026-09-28 10:20:10 | [io.github.ozanmutlu/gitlab-docs](https://github.com/ozanmutlu/Gitlab-Docs-MCP) |  | 1.1.15 | Search and browse 2,900+ official GitLab documentation pages via MCP |
-| 2026-09-28 10:20:30 | [io.github.NeoZorK/monte-neo](https://github.com/NeoZorK/Monte-Neo) | Monte-Neo strategy verifier | 0.32.1 | Verify trading-strategy backtests: look-ahead probes, trading costs, Deflated S… |
-| 2026-09-28 10:23:07 | [io.github.WYRE-AI/dubber-mcp](https://github.com/WYRE-AI/dubber-mcp) | Dubber | 1.0.1 | MCP server for Dubber: call recordings, compliance, groups/accounts/users, and… |
+| 2026-09-28 10:28:39 | com.mubert/music | Mubert Music | 0.1.0 | Generate, edit and stream royalty-free music, or search a licensed catalogue. |
+| 2026-09-28 10:28:42 | [com.humanuscrit/happ](https://github.com/maxcarriere/humanuscrit) | Humanuscrit — HAPP | 1.0.0 | Submit a literary text in French to Humanuscrit, a publisher open to humans and… |
+| 2026-09-28 10:28:48 | com.mubert/cast | Mubert Cast | 0.1.0 | Turn a raw podcast recording into a finished, licensed episode: edit, music, ex… |
+| 2026-09-28 10:29:15 | com.seranking/mcp | SE Ranking | 2.5.1 | SE Ranking SEO: keywords, backlinks, domains, SERP, audits, rank tracking, AI S… |
+| 2026-09-28 10:29:55 | [io.github.michal-niedzwiedzki/visimark](https://github.com/michal-niedzwiedzki/visimark) |  | 0.1.10 | MCP server for VisiMark: lets an agent verify a Markdown document's numbers mat… |
+| 2026-09-28 10:30:11 | [io.github.Sofiia7/actually](https://github.com/Sofiia7/actually) |  | 0.1.9 | Matches news to Polymarket markets and returns the market's probability. Option… |
+| 2026-09-28 10:38:59 | com.ironfang/ironfang | Ironfang | 1.2.0 | Render pages to images and PDFs, audit websites, explain Peppol rules, run inte… |
+| 2026-09-28 10:40:26 | [io.github.vanshyadav1408/omentir](https://github.com/vanshyadav1408/Omentir) | Omentir | 1.1.0 | Find LinkedIn prospects, draft outreach, and run human-paced campaigns from you… |
+| 2026-09-28 10:46:00 | com.autoridaddigital.www/geo | Autoridad Digital — GEO | 1.2.0 | Escáner GEO: analiza si una web es legible y citable por ChatGPT, Perplexity, G… |
+| 2026-09-28 10:47:48 | [io.github.osodevops/keito](https://github.com/osodevops/keito-mcp) | Keito | 1.2.0 | Track time, log expenses, manage projects and draft or send Keito invoices from… |
+| 2026-09-28 10:50:56 | [io.github.mikhae1/kubeview](https://github.com/mikhae1/kubeview-mcp) |  | 2.0.2 | Read-only Model Context Protocol MCP server enabling code-driven AI analysis of… |
+| 2026-09-28 10:55:01 | [ai.voicecapture/voice-capture](https://github.com/quack2025/genius-voice-capture-back) | Voice Capture | 1.0.0 | Add voice answers to open-ended survey questions; create projects, get snippets… |
+| 2026-09-28 10:57:37 | [io.github.whoyoujoshin/aether-wallet](https://github.com/whoyoujoshin/aether) | Aether testnet wallet | 0.2.2-testnet | Testnet wallet for AI agents on Aether: pay, get paid and buy from paid APIs, w… |
+| 2026-09-28 11:00:14 | [io.github.privadovpn/x402-mcp](https://github.com/privadovpn/x402-mcp) | PrivadoVPN x402 Payer | 1.0.0 | Local MCP server that signs x402 USDC payments (Solana, EVM) to buy PrivadoVPN… |
+| 2026-09-28 11:06:46 | [io.github.faisal-maverick/aayat-ai](https://github.com/faisal-maverick/agent-services) | Aayat AI | 1.0.0 | AI agent tools: crypto token safety, web search with cited answers, live librar… |
+| 2026-09-28 11:08:37 | art.aiwashere/wall | AI was here | 1.0.0 | One finite wall of 100,000 plots where AI agents leave a creative mark. Start w… |
+| 2026-09-28 11:09:31 | [io.github.GehDoc/svg-to-video](https://github.com/GehDoc/svg-to-video) | SVG to Video | 0.27.6 | Animated SVG to Video (MP4/WebM/MKV/MOV) and Animated Image (aPNG/GIF) converter |
+| 2026-09-28 11:10:43 | [dev.flatmark/flatmark](https://github.com/flatmark-dev/flatmark) | flatmark | 1.0.0 | Document to Markdown MCP server: PDF, Word, PowerPoint, Excel and HTML, with OC… |
+| 2026-09-28 11:11:57 | [io.github.piotrkowalczuk/zordon](https://github.com/piotrkowalczuk/zordon) |  | 0.20.0 | Supervise a local dev stack — databases, brokers and services declared in an Al… |
+| 2026-09-28 11:13:00 | [io.github.spanlens/mcp-server](https://github.com/spanlens/Spanlens) |  | 0.3.0 | Query Spanlens LLM observability from Cursor, Claude Desktop, or Continue via M… |
+| 2026-09-28 11:14:43 | au.com.dwelldelta/dwelldelta | DwellDelta - Australian rent check and… | 0.3.0 | Is an Australian rent fair? ABS rents index check, plus sourced property and le… |
+| 2026-09-28 11:14:45 | [com.teamwork/mcp](https://github.com/teamwork/mcp) |  | 1.48.2 | The Teamwork.com official MCP server helps teams efficiently manage client proj… |
 
 ## Data source
 
