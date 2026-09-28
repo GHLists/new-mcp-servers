@@ -9,49 +9,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 05:22 UTC
+## Latest list — 2026-09-28 06:19 UTC
 
-New MCP servers published between 2026-09-28 04:19 UTC and 2026-09-28 05:22 UTC.
+New MCP servers published between 2026-09-28 05:22 UTC and 2026-09-28 06:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-28T05-22-47-850036Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-28T06-19-03-185421Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-28 04:19:28 | [io.github.HorizunGroup/horizun-msproject-mcp](https://github.com/HorizunGroup/horizun-msproject-mcp) | Microsoft Project | 1.3.0 | Audit, reschedule and author Microsoft Project schedules. No Java, no Project i… |
-| 2026-09-28 04:20:05 | [io.github.RogueAlg0/taken](https://github.com/RogueAlg0/taken) | taken | 0.7.3 | Check if a GitHub issue is taken before volunteering for it. |
-| 2026-09-28 04:20:57 | com.picsart.api/gen-ai | Picsart GenAI | 2.0.7 | Generate and edit images, videos, and audio with 150+ models from 20+ vendors. |
-| 2026-09-28 04:26:16 | [io.github.jmshinhwa/dienstanweisung-bewachung-lint](https://github.com/jmshinhwa/readystack-themes) |  | 1.0.1 | Pflichtinhalte nach § 17, 18, 20 BewachV und § 34a Abs. 1a GewO |
-| 2026-09-28 04:27:57 | [io.github.jmshinhwa/dividenden-quellensteuer-lint](https://github.com/jmshinhwa/readystack-themes) |  | 1.0.1 | Ausländische Dividenden versteuern ohne Überhang: Die Beispiel CSV mit 10 Divid… |
-| 2026-09-28 04:28:30 | com.bazous/bazous | Bazous | 1.0.0 | Household cash-flow answers before payday: what's due, how low the balance goes… |
-| 2026-09-28 04:29:37 | ai.councilof/gspc | Council of AI GSPC | 1.4.3 | Dated AI measurements and signed evidence over MCP. Free verification; never ce… |
-| 2026-09-28 04:38:45 | [dev.toll402/toll402-mcp](https://github.com/toll402/toll402) |  | 0.4.0 | Pay-per-call tools for agents: 2,600+ endpoints, verified business directory; x… |
-| 2026-09-28 04:40:52 | [io.github.jmshinhwa/mahnung-vorlagen-check-de](https://github.com/jmshinhwa/readystack-themes) |  | 1.0.1 | Widerspruch gegen den Mahnbescheid zwei Wochen (§ 692 Abs. 1 Nr. 3 ZPO), Einspr… |
-| 2026-09-28 04:41:17 | [land.fabrica/mcp](https://github.com/fabrica-land/fabrica-mcp) | Fabrica | 0.1.0 | Tokenized US land on Ethereum: property search, valuations, loans, portfolios,… |
-| 2026-09-28 04:41:17 | [land.fabrica/mcp-testnet](https://github.com/fabrica-land/fabrica-mcp) | Fabrica (Sepolia testnet) | 0.1.0 | Fabrica test properties on Sepolia: try every Fabrica tool with no real-world e… |
-| 2026-09-28 04:42:43 | dev.spacesheep/mcp | spacesheep | 1.0.0 | Publish pages your agent writes to a private, shareable URL, then read, comment… |
-| 2026-09-28 04:43:47 | com.qumge/skills | Qumge: Agent Capabilities & Skills | 1.2.0 | Find, call and pay per call: the capability layer for agents, plus skills. One… |
-| 2026-09-28 04:46:31 | [io.github.docsagent/docsagent](https://github.com/docsagent/docsagent) | DocsAgent — Zotero MCP Server | 5.0.0 | Give AI agents instant, private access to your personal knowledge base. First s… |
-| 2026-09-28 04:49:13 | [io.github.sbanthia92/fpl-context-mcp](https://github.com/sbanthia92/fpl-context-mcp) | FPL Context | 0.6.3 | Fantasy Premier League stats (SQL) and BBC/Guardian press and injury news searc… |
-| 2026-09-28 04:50:55 | [com.brianbooms/quiet-menders](https://github.com/brianbooms/quiet-menders) | Quiet Menders | 1.3.0 | Privacy clinic + pay-per-call data APIs for AI agents via x402. Never pays or t… |
-| 2026-09-28 04:51:16 | io.pulldata/pulldata | Pulldata | 1.0.0 | Discover and run Pulldata scrapers, track jobs, and retrieve results from your… |
-| 2026-09-28 04:52:28 | [io.github.crisnahine/rails-ai-context](https://github.com/crisnahine/rails-ai-context) | Rails AI Context | 5.30.0 | 45 MCP tools give AI agents live Rails schema, routes, models, and conventions. |
-| 2026-09-28 04:52:41 | tech.tailor/mcp | Tailor | 2026.09.28-0 | Tailor Platform for AI assistants: search, list and read the platform documenta… |
-| 2026-09-28 04:59:08 | [io.github.unbrowse-ai/sites](https://github.com/unbrowse-ai/sites) | Unbrowse sites: one website's tools per… | 1.0.0 | One website's first-party API as MCP tools, e.g. airbnb.com. Thousands of sites… |
-| 2026-09-28 05:01:49 | [io.github.Z-Han-Z/apple-music-playlists](https://github.com/Z-Han-Z/apple-music-playlists) | Apple Music Playlist Curator | 1.5.0 | Deep Apple Music curation: language-led selection, catalog grounding, and thoug… |
-| 2026-09-28 05:09:35 | [io.github.thyn-ai/codna](https://github.com/thyn-ai/codna-cli) | Codna — repository intelligence | 0.2.90 | Repo intelligence: triage, fix PRs, SARIF reachability, recall. Free codna logi… |
-| 2026-09-28 05:10:58 | [io.github.chrischall/vibo-mcp](https://github.com/chrischall/vibo-mcp) |  | 2.4.0 | Vibo (vibodj.com) MCP — plan & manage event music: timeline, songs, ideas, ques… |
-| 2026-09-28 05:11:29 | [io.github.chrischall/ofw-mcp](https://github.com/chrischall/ofw-mcp) |  | 2.19.5 | OurFamilyWizard co-parenting for Claude — messages, calendar, expenses, and jou… |
-| 2026-09-28 05:12:26 | com.evidentagents/reviews | Evident Reviews | 0.3.0 | Consumer-authorized reviews with private evidence and explicit verification lev… |
-| 2026-09-28 05:17:36 | tech.dataporium/mcp | DataPorium | 1.0.0 | Stock, ETF, crypto, forex, economic and US housing market data by ZIP code for… |
-| 2026-09-28 05:18:09 | [io.github.chrischall/gogcli-mcp](https://github.com/chrischall/gogcli-mcp) |  | 4.5.2 | Google Sheets (and more) for Claude via gogcli — read, write, and manage spread… |
-| 2026-09-28 05:18:12 | [io.github.chrischall/gogcli-mcp-classroom](https://github.com/chrischall/gogcli-mcp) |  | 4.5.2 | Google Classroom via gogcli for Claude — courses, assignments, submissions, gra… |
-| 2026-09-28 05:18:14 | [io.github.chrischall/gogcli-mcp-docs](https://github.com/chrischall/gogcli-mcp) |  | 4.5.2 | Extended Google Docs for Claude via gogcli — auth + full Docs and comments supp… |
-| 2026-09-28 05:18:18 | [io.github.chrischall/gogcli-mcp-drive](https://github.com/chrischall/gogcli-mcp) |  | 4.5.2 | Google Drive via gogcli for Claude — search, upload, download, permissions |
-| 2026-09-28 05:18:20 | [io.github.chrischall/gogcli-mcp-sheets](https://github.com/chrischall/gogcli-mcp) |  | 4.5.2 | Extended Google Sheets for Claude via gogcli — auth + full Sheets support |
-| 2026-09-28 05:18:21 | [io.github.chrischall/gogcli-mcp-slides](https://github.com/chrischall/gogcli-mcp) |  | 4.5.2 | Google Slides via gogcli for Claude — deck and slide authoring |
-| 2026-09-28 05:18:39 | [io.github.Arbromagency-Sato/phantom-mcp-server](https://github.com/Arbromagency-Sato/phantom-id) |  | 0.1.3 | PHANTOM ID MCP payment server: agent-to-agent USDC payments on Base. |
-| 2026-09-28 05:21:36 | [com.securessmtp/securessmtp](https://github.com/zainsaeed615/securessmtp-mcp) |  | 1.0.0 | Send email, manage sending domains, and read delivery analytics from your Secur… |
-| 2026-09-28 05:21:54 | [io.github.jink9428-source/smartdocs-mcp](https://github.com/jink9428-source/smartdocs-mcp) |  | 0.2.0 | Create Korean export invoice & packing list drafts via MCP (OAuth login) |
+| 2026-09-28 05:25:16 | [io.github.Azzy-H/mcp-video-frames](https://github.com/Azzy-H/mcp-video-frames) | Video Frames | 0.1.1 | MCP server that lets image-only models look at video: timecoded frames, measura… |
+| 2026-09-28 05:27:11 | com.adminlanding/french-rental-compliance |  | 1.17.0 | FR/EN tools for French rental, frontalier & home-employment (CCN 3239) — source… |
+| 2026-09-28 05:27:43 | com.qevrulan/lockzone | Lockzone | 0.2.0 | Chat rooms for agents behind a capability test: solve fresh tasks to earn a tem… |
+| 2026-09-28 05:30:01 | [io.github.runapi-builder/runapi-mcp](https://github.com/runapi-ai/mcp) |  | 0.13.0 | 130+ AI models for image, video, music, and audio — 18 model families, one RunA… |
+| 2026-09-28 05:31:43 | [com.markifact/google-ads](https://github.com/markifact/google-ads-mcp) | Google Ads MCP by Markifact | 1.0.0 | Google Ads MCP: reports, search terms, negatives, budgets, campaigns. Approval… |
+| 2026-09-28 05:31:56 | [com.markifact/meta-ads](https://github.com/markifact/meta-ads-mcp) | Meta Ads MCP by Markifact | 1.0.0 | Meta Ads MCP: Facebook and Instagram reports, campaigns, creatives, audiences.… |
+| 2026-09-28 05:32:04 | [com.markifact/mcp](https://github.com/markifact/markifact-mcp) | Markifact - Ads & Analytics | 1.0.6 | AI marketing agent for Google Ads, Meta, GA4, TikTok, LinkedIn, Shopify, HubSpo… |
+| 2026-09-28 05:32:51 | [io.github.runapi-builder/suno-mcp](https://github.com/runapi-ai/suno-mcp) |  | 0.3.7 | RunAPI MCP server for Suno: create tasks, poll status, check pricing. |
+| 2026-09-28 05:37:25 | [io.github.sbroenne/mcp-server-powerpoint](https://github.com/sbroenne/mcp-server-powerpoint) | MCP Server for PowerPoint | 0.2.1 | PowerPoint automation for AI: slides, shapes, tables, charts, images, notes. Wi… |
+| 2026-09-28 05:39:52 | app.rowb.hive-ledger/rotation | Hive Ledger — deterministic varroa trea… | 1.0.0 | Checks a beekeeping varroa treatment rotation for resistance risk and withdrawa… |
+| 2026-09-28 06:02:04 | com.feedbackpulse/mcp | FeedbackPulse | 1.0.0 | Employee surveys, performance reviews, recognition, and team pulse for AI assis… |
+| 2026-09-28 06:03:29 | [io.github.dimitar-grigorov/mcp-file-tools](https://github.com/dimitar-grigorov/mcp-file-tools) | MCP File Tools | 4.5.0 | Non-UTF-8 files: CP1251, CP1252, KOI8, ISO-8859, UTF-16, GBK auto-detected and… |
+| 2026-09-28 06:08:40 | [io.github.zhaoxinghua09-cell/medxpert-reg-connector](https://github.com/zhaoxinghua09-cell/medxpert-reg-connector) | MedXpert 全球法规连接器 (reg-connector) | 1.0.0 | Read-only MCP server for global medical-device regulation (NMPA/FDA/MDR/PMDA),… |
+| 2026-09-28 06:09:22 | [com.microsoft/esrp-oss-mcp-test](https://github.com/sravanism/esrp-oss-mcp-server) |  | 26.928.55928 | The ESRP OSS MCP server exposes tools to discover & validate trusted Microsoft… |
+| 2026-09-28 06:11:15 | pw.xtester/xtester | XTester Studio | 1.0.0-alpha.2 | Desktop strategy development and testing with a built-in local stdio MCP server. |
+| 2026-09-28 06:12:00 | [ai.rightcard/mcp](https://github.com/rightcard/rightcard-mcp) | RightCard | 0.1.5 | Which of your credit cards to use at any store, from verified bank data. No ban… |
+| 2026-09-28 06:13:52 | [io.github.PulseBet/pulse-verity](https://github.com/PulseBet/pulse-verity) |  | 1.3.0 | Read crypto reference prices and verify signed receipts. Includes limited keyle… |
+| 2026-09-28 06:16:19 | ai.simplio3d/platform | Simplio3D - 3D CPQ and Product Configur… | 1.8.3 | Inspect, validate and safely edit 3D product configurators: options, pricing, m… |
 
 ## Data source
 

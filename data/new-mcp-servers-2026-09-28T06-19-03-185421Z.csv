@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-09-28T05:25:16.926668Z,io.github.Azzy-H/mcp-video-frames,Video Frames,0.1.1,https://github.com/Azzy-H/mcp-video-frames,,"MCP server that lets image-only models look at video: timecoded frames, measurable properties."
+2026-09-28T05:27:11.061981Z,com.adminlanding/french-rental-compliance,,1.17.0,,streamable-http,"FR/EN tools for French rental, frontalier & home-employment (CCN 3239) — sourced, dated answers."
+2026-09-28T05:27:43.291129Z,com.qevrulan/lockzone,Lockzone,0.2.0,,streamable-http,Chat rooms for agents behind a capability test: solve fresh tasks to earn a temporary session.
+2026-09-28T05:30:01.343281Z,io.github.runapi-builder/runapi-mcp,,0.13.0,https://github.com/runapi-ai/mcp,streamable-http,"130+ AI models for image, video, music, and audio — 18 model families, one RunAPI account."
+2026-09-28T05:31:43.43209Z,com.markifact/google-ads,Google Ads MCP by Markifact,1.0.0,https://github.com/markifact/google-ads-mcp,streamable-http,"Google Ads MCP: reports, search terms, negatives, budgets, campaigns. Approval on every write."
+2026-09-28T05:31:56.441847Z,com.markifact/meta-ads,Meta Ads MCP by Markifact,1.0.0,https://github.com/markifact/meta-ads-mcp,streamable-http,"Meta Ads MCP: Facebook and Instagram reports, campaigns, creatives, audiences. Approval on writes."
+2026-09-28T05:32:04.620068Z,com.markifact/mcp,Markifact - Ads & Analytics,1.0.6,https://github.com/markifact/markifact-mcp,streamable-http,"AI marketing agent for Google Ads, Meta, GA4, TikTok, LinkedIn, Shopify, HubSpot and more."
+2026-09-28T05:32:51.912559Z,io.github.runapi-builder/suno-mcp,,0.3.7,https://github.com/runapi-ai/suno-mcp,,"RunAPI MCP server for Suno: create tasks, poll status, check pricing."
+2026-09-28T05:37:25.915028Z,io.github.sbroenne/mcp-server-powerpoint,MCP Server for PowerPoint,0.2.1,https://github.com/sbroenne/mcp-server-powerpoint,,"PowerPoint automation for AI: slides, shapes, tables, charts, images, notes. Windows only."
+2026-09-28T05:39:52.404696Z,app.rowb.hive-ledger/rotation,Hive Ledger — deterministic varroa treatment rotation,1.0.0,,streamable-http,Checks a beekeeping varroa treatment rotation for resistance risk and withdrawal-period conflicts.
+2026-09-28T06:02:04.783414Z,com.feedbackpulse/mcp,FeedbackPulse,1.0.0,,streamable-http,"Employee surveys, performance reviews, recognition, and team pulse for AI assistants."
+2026-09-28T06:03:29.637455Z,io.github.dimitar-grigorov/mcp-file-tools,MCP File Tools,4.5.0,https://github.com/dimitar-grigorov/mcp-file-tools,,"Non-UTF-8 files: CP1251, CP1252, KOI8, ISO-8859, UTF-16, GBK auto-detected and preserved"
+2026-09-28T06:08:40.868511Z,io.github.zhaoxinghua09-cell/medxpert-reg-connector,MedXpert 全球法规连接器 (reg-connector),1.0.0,https://github.com/zhaoxinghua09-cell/medxpert-reg-connector,,"Read-only MCP server for global medical-device regulation (NMPA/FDA/MDR/PMDA), 27 hubs, 4 tools."
+2026-09-28T06:09:22.411735Z,com.microsoft/esrp-oss-mcp-test,,26.928.55928,https://github.com/sravanism/esrp-oss-mcp-server,streamable-http,The ESRP OSS MCP server exposes tools to discover & validate trusted Microsoft OSS Packages.
+2026-09-28T06:11:15.831022Z,pw.xtester/xtester,XTester Studio,1.0.0-alpha.2,,,Desktop strategy development and testing with a built-in local stdio MCP server.
+2026-09-28T06:12:00.489505Z,ai.rightcard/mcp,RightCard,0.1.5,https://github.com/rightcard/rightcard-mcp,streamable-http,"Which of your credit cards to use at any store, from verified bank data. No bank login."
+2026-09-28T06:13:52.825389Z,io.github.PulseBet/pulse-verity,,1.3.0,https://github.com/PulseBet/pulse-verity,,Read crypto reference prices and verify signed receipts. Includes limited keyless samples.
+2026-09-28T06:16:19.635158Z,ai.simplio3d/platform,Simplio3D - 3D CPQ and Product Configuration,1.8.3,,streamable-http,"Inspect, validate and safely edit 3D product configurators: options, pricing, materials and rules."
