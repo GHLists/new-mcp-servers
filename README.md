@@ -9,39 +9,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 23:19 UTC
+## Latest list — 2026-09-28 00:21 UTC
 
-New MCP servers published between 2026-09-27 22:20 UTC and 2026-09-27 23:19 UTC.
+New MCP servers published between 2026-09-27 23:19 UTC and 2026-09-28 00:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-27T23-19-12-918615Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-28T00-21-11-414519Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-27 22:21:38 | [io.github.SidneyBissoli/sih-br-mcp](https://github.com/SidneyBissoli/sih-br-mcp) | DATASUS SIH/SUS — Brazil Hospital Admis… | 1.1.0 | DATASUS SIH/SUS hospital admissions in Brazil (AIH, 1992-2025): ICD-10 causes,… |
-| 2026-09-27 22:24:27 | [io.github.JTraversa/corpus-cloud-pricing-mcp](https://github.com/JTraversa/corpus-cloud-pricing-mcp) | corpusAI Cloud Pricing | 0.1.6 | Cloud, GPU and LLM token prices with index fixings. Pay per call over x402 or w… |
-| 2026-09-27 22:24:38 | [io.github.Thingscorp/thatmgmt-mcp](https://github.com/thingscorp/thatmgmt-mcp) |  | 0.2.1 | MCP server wrapping the ThatMgmt domain reseller API: availability, quotes, and… |
-| 2026-09-27 22:27:19 | [io.github.chenxiachan/thoughtdag](https://github.com/chenxiachan/thoughtdag) | ThoughtDAG | 0.2.2 | Search local AI conversations by file or phrase and recall source turns. Four r… |
-| 2026-09-27 22:27:24 | com.flexonthejob/mcp | Flex on the Job | 1.0.0-beta.50 | MCP server for Flex on the Job: inventory, jobs, customers, invoices, purchasin… |
-| 2026-09-27 22:37:06 | [io.github.flukeatzerocool/holonovel](https://github.com/flukeatzerocool/holonovel) |  | 2026.9.27 | Holonovel MCP server: world-model base for tabletop RPG play (rooms, parser, na… |
-| 2026-09-27 22:40:36 | [io.github.Andy229651/agentkyb](https://github.com/Andy229651/agentkyb) | AgentKYB | 1.2.0 | Free local payment guard for AI agents plus paid deep vendor KYB via x402. |
-| 2026-09-27 22:40:49 | [io.github.tjcgraham-rgb/gaip-broker](https://github.com/tjcgraham-rgb/-gaip-agent-to-art-prototype) | GAIP — check agents before you call them | 1.4.0 | Check any AI agent before you call it: protocol, endpoint, fixes and a verifiab… |
-| 2026-09-27 22:44:51 | com.filtrecharbon/catalogue | FiltreCharbon | 1.0.0 | Search FAC charcoal filters, check specifications and prepare a checkout link f… |
-| 2026-09-27 22:45:08 | [io.github.R2Rlabs/hyperliquid-reins](https://github.com/R2Rlabs/reins) | Reins | 0.1.6 | Risk limits and an audit log for AI agents trading Hyperliquid, enforced outsid… |
-| 2026-09-27 22:46:46 | com.mooncatcherwire/wire | Mooncatcher Wire | 1.0.0 | Free crypto news for agents: top stories by market impact, search, topics, AI d… |
-| 2026-09-27 22:47:15 | com.compslate/compslate | CompSlate | 1.0.0 | Sales commission software run by chat: comp plans, quotas, accelerators, deals… |
-| 2026-09-27 22:48:52 | com.tripways/tours | TripWays | 1.0.0 | Find, price, and book tours, day trips, and activities worldwide, with live dat… |
-| 2026-09-27 22:55:20 | science.executable/executable-science |  | 0.2.0 | Read-only research pilot catalogue: task templates, resources, starter studies,… |
-| 2026-09-27 22:58:17 | legal.klaro/document-explainer | klaro.legal Document Explainer | 1.0.0 | Explains contracts, letters and tax notices clause by clause in plain language.… |
-| 2026-09-27 22:58:43 | dev.hydrant/hydrant | Hydrant | 1.0.1 | Track issues, projects and dependencies with your agent in a workspace you cont… |
-| 2026-09-27 22:58:43 | com.agentcreditdata/agent-credit-bureau | Agent Credit Bureau | 0.2.0 | Economic evidence for AI agents. Paid x402 reports in Base USDC; no credit scor… |
-| 2026-09-27 23:01:22 | [io.github.geml-spec/geml](https://github.com/geml-spec/geml) | GEML — a plain-text document format bui… | 1.11.2 | One section in, one section out — on Markdown/GEML files, bad writes refused. |
-| 2026-09-27 23:03:03 | [io.github.alisaitteke/photoshop-mcp](https://github.com/alisaitteke/photoshop-mcp) |  | 1.7.22 | MCP server for Adobe Photoshop — 122 tools (generative AI + recipes), standalon… |
-| 2026-09-27 23:11:35 | agency.justidea/justidea-agency | JustIdea Agency | 1.0.0 | Services, published prices, site search and sales inquiries of JustIdea, a Poli… |
-| 2026-09-27 23:12:40 | ai.justautomate/website | JustAutomate website | 1.0.0 | JustAutomate, AI agents and process automation agency: site search, pages, work… |
-| 2026-09-27 23:16:00 | [io.github.verax-ai/verax](https://github.com/verax-ai/verax) | VERAX | 0.4.0 | The body an agent asks before it acts: decide, approve, and keep a signed recor… |
-| 2026-09-27 23:16:43 | [io.github.r3dz4r/datapulse-my](https://github.com/r3dz4r/datapulse-my) | DataPulse | 3.41.1 | Read-only discovery for 418 Malaysian public datasets with freshness, licence,… |
-| 2026-09-27 23:18:05 | [io.github.partymola/google-health-mcp](https://github.com/partymola/google-health-mcp) |  | 1.6.0 | MCP server for the Google Health API, with a local SQLite cache and trend analy… |
-| 2026-09-27 23:18:28 | [io.github.SeanHogg/builderforce-memory](https://github.com/SeanHogg/builderforce-memory) | Builderforce Memory | 2026.9.29 | Token-saving persistent memory for AI agents: recall durable facts instead of r… |
+| 2026-09-27 23:21:34 | com.tokeven/tokeven | Tokeven Cost Advisor | 0.4.4 | Price a Claude, GPT, Gemini or Grok call before you send it. Runs locally. |
+| 2026-09-27 23:36:56 | [io.github.Teamdayplay/dayplay-mcp](https://github.com/dayplayTeam/dayplay-mcp) |  | 2.0.0 | DayPlay MCP — verified SF Bay Area places, events & walkable itineraries for AI… |
+| 2026-09-27 23:38:20 | ai.bassethound/bassethound |  | 0.9.0 | Company intelligence for AI agents: a five-layer domain dossier in one sniff_do… |
+| 2026-09-27 23:38:54 | [io.github.Danathar/goodreads-mcp-ai](https://github.com/Danathar/goodreads-mcp) | Goodreads MCP | 2026.9.3 | Read-only MCP server for Goodreads (no API required): search, books, shelves, r… |
+| 2026-09-27 23:39:54 | [io.github.metago-ai/metago](https://github.com/metago-ai/metagolifeform) | MetaGO Agent Harness | 1.3.3 | Decision lock, anti-hallucination, meta-evolution and provenance for any MCP ag… |
+| 2026-09-27 23:39:58 | [io.github.metago-ai/metago-algorithms](https://github.com/metago-ai/metagolifeform) | MetaGO Algorithms | 1.0.2 | 927 deterministic algorithms as 57 MCP tools: coupling, value, distance, correl… |
+| 2026-09-27 23:45:12 | com.zabihah/halal-places | Zabihah: Halal Restaurants & Mosques | 1.0.0 | Find halal restaurants and mosques worldwide, with verified halal status and pr… |
+| 2026-09-27 23:45:39 | im.cybergenic/mcp | Cybergenic | 1.0.0 | Cancer gene co-occurrence and exclusivity in tumour cohorts, with confound cont… |
+| 2026-09-27 23:49:26 | [io.github.moha-tah/web-intelligence](https://github.com/moha-tah/web-intelligence-mcp) | Web & Company Intelligence | 1.0.0 | Tech stack, company profile, sitemap, URL status and EU fuel price tools, pay p… |
+| 2026-09-27 23:50:53 | [io.github.Higangssh/homebutler](https://github.com/Higangssh/homebutler) |  | 0.40.0 | Tells an agent what changed on a server since it last looked - status, Docker,… |
+| 2026-09-27 23:53:42 | [io.github.edsonvmendes/miniframe-tools](https://github.com/edsonvmendes/miniframe-tools-mcp) |  | 1.3.0 | Brazilian tools for agents: Pix, CEP, CNPJ, BCB rates + web capture and PDF. Pa… |
+| 2026-09-27 23:59:33 | io.viseon/semantic-intelligence | VISEON Ask | 6.0.14 | VISEON's Schema.org knowledge graph: products, services, people, FAQs and terms… |
+| 2026-09-28 00:01:40 | [io.github.Banjo-Ventures/lodestar-stamp](https://github.com/Banjo-Ventures/lodestar) | Lodestar Stamp | 0.1.12 | Dated, source-linked receipts before an agent recommends or books. Lodestar doe… |
+| 2026-09-28 00:06:23 | [io.github.Chaarangan/stepgate](https://github.com/Chaarangan/stepgate) | Stepgate | 0.1.0 | Agents can't skip steps: runs gated stepfiles on the client's own model. |
+| 2026-09-28 00:13:57 | [io.github.Ahmet11159/x402-agent-services](https://github.com/Ahmet11159/x402-mcp-platform) | DropEngine x402 Agent Services | 1.0.0 | Paid Base MCP preflight tools for URLs, content, transactions, wallets, package… |
+| 2026-09-28 00:20:00 | [io.github.ShekharBhardwaj/agentic-ledger](https://github.com/ShekharBhardwaj/AgenticLedger) |  | 0.15.0 | Local-first flight recorder for AI agents: sessions, costs, loop runs, and stuc… |
 
 ## Data source
 
