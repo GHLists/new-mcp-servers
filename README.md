@@ -9,36 +9,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 11:20 UTC
+## Latest list — 2026-09-28 12:21 UTC
 
-New MCP servers published between 2026-09-28 10:24 UTC and 2026-09-28 11:20 UTC.
+New MCP servers published between 2026-09-28 11:20 UTC and 2026-09-28 12:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-28T11-20-37-401807Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-28T12-21-55-275308Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-28 10:28:39 | com.mubert/music | Mubert Music | 0.1.0 | Generate, edit and stream royalty-free music, or search a licensed catalogue. |
-| 2026-09-28 10:28:42 | [com.humanuscrit/happ](https://github.com/maxcarriere/humanuscrit) | Humanuscrit — HAPP | 1.0.0 | Submit a literary text in French to Humanuscrit, a publisher open to humans and… |
-| 2026-09-28 10:28:48 | com.mubert/cast | Mubert Cast | 0.1.0 | Turn a raw podcast recording into a finished, licensed episode: edit, music, ex… |
-| 2026-09-28 10:29:15 | com.seranking/mcp | SE Ranking | 2.5.1 | SE Ranking SEO: keywords, backlinks, domains, SERP, audits, rank tracking, AI S… |
-| 2026-09-28 10:29:55 | [io.github.michal-niedzwiedzki/visimark](https://github.com/michal-niedzwiedzki/visimark) |  | 0.1.10 | MCP server for VisiMark: lets an agent verify a Markdown document's numbers mat… |
-| 2026-09-28 10:30:11 | [io.github.Sofiia7/actually](https://github.com/Sofiia7/actually) |  | 0.1.9 | Matches news to Polymarket markets and returns the market's probability. Option… |
-| 2026-09-28 10:38:59 | com.ironfang/ironfang | Ironfang | 1.2.0 | Render pages to images and PDFs, audit websites, explain Peppol rules, run inte… |
-| 2026-09-28 10:40:26 | [io.github.vanshyadav1408/omentir](https://github.com/vanshyadav1408/Omentir) | Omentir | 1.1.0 | Find LinkedIn prospects, draft outreach, and run human-paced campaigns from you… |
-| 2026-09-28 10:46:00 | com.autoridaddigital.www/geo | Autoridad Digital — GEO | 1.2.0 | Escáner GEO: analiza si una web es legible y citable por ChatGPT, Perplexity, G… |
-| 2026-09-28 10:47:48 | [io.github.osodevops/keito](https://github.com/osodevops/keito-mcp) | Keito | 1.2.0 | Track time, log expenses, manage projects and draft or send Keito invoices from… |
-| 2026-09-28 10:50:56 | [io.github.mikhae1/kubeview](https://github.com/mikhae1/kubeview-mcp) |  | 2.0.2 | Read-only Model Context Protocol MCP server enabling code-driven AI analysis of… |
-| 2026-09-28 10:55:01 | [ai.voicecapture/voice-capture](https://github.com/quack2025/genius-voice-capture-back) | Voice Capture | 1.0.0 | Add voice answers to open-ended survey questions; create projects, get snippets… |
-| 2026-09-28 10:57:37 | [io.github.whoyoujoshin/aether-wallet](https://github.com/whoyoujoshin/aether) | Aether testnet wallet | 0.2.2-testnet | Testnet wallet for AI agents on Aether: pay, get paid and buy from paid APIs, w… |
-| 2026-09-28 11:00:14 | [io.github.privadovpn/x402-mcp](https://github.com/privadovpn/x402-mcp) | PrivadoVPN x402 Payer | 1.0.0 | Local MCP server that signs x402 USDC payments (Solana, EVM) to buy PrivadoVPN… |
-| 2026-09-28 11:06:46 | [io.github.faisal-maverick/aayat-ai](https://github.com/faisal-maverick/agent-services) | Aayat AI | 1.0.0 | AI agent tools: crypto token safety, web search with cited answers, live librar… |
-| 2026-09-28 11:08:37 | art.aiwashere/wall | AI was here | 1.0.0 | One finite wall of 100,000 plots where AI agents leave a creative mark. Start w… |
-| 2026-09-28 11:09:31 | [io.github.GehDoc/svg-to-video](https://github.com/GehDoc/svg-to-video) | SVG to Video | 0.27.6 | Animated SVG to Video (MP4/WebM/MKV/MOV) and Animated Image (aPNG/GIF) converter |
-| 2026-09-28 11:10:43 | [dev.flatmark/flatmark](https://github.com/flatmark-dev/flatmark) | flatmark | 1.0.0 | Document to Markdown MCP server: PDF, Word, PowerPoint, Excel and HTML, with OC… |
-| 2026-09-28 11:11:57 | [io.github.piotrkowalczuk/zordon](https://github.com/piotrkowalczuk/zordon) |  | 0.20.0 | Supervise a local dev stack — databases, brokers and services declared in an Al… |
-| 2026-09-28 11:13:00 | [io.github.spanlens/mcp-server](https://github.com/spanlens/Spanlens) |  | 0.3.0 | Query Spanlens LLM observability from Cursor, Claude Desktop, or Continue via M… |
-| 2026-09-28 11:14:43 | au.com.dwelldelta/dwelldelta | DwellDelta - Australian rent check and… | 0.3.0 | Is an Australian rent fair? ABS rents index check, plus sourced property and le… |
-| 2026-09-28 11:14:45 | [com.teamwork/mcp](https://github.com/teamwork/mcp) |  | 1.48.2 | The Teamwork.com official MCP server helps teams efficiently manage client proj… |
+| 2026-09-28 11:21:50 | [io.github.jdhart81/regulatory-radar](https://github.com/jdhart81/viridis-agent-fleet) |  | 0.2.0 | California, US, and global climate compliance scans with source-linked deadline… |
+| 2026-09-28 11:21:53 | [io.github.jdhart81/wavefunction-search](https://github.com/jdhart81/viridis-agent-fleet) |  | 0.2.0 | Demand-side discovery for the agent economy: turn ambiguous intentions into com… |
+| 2026-09-28 11:22:23 | app.myfinancebook/myfinancebook | MyFinanceBook | 1.0.0 | Ask Claude about your income and spending, and import bank statements. No bank… |
+| 2026-09-28 11:25:57 | [com.ausca/agent-services](https://github.com/auscahq/ausca) | Ausca | 1.2.6 | Pay-per-call APIs and MCP services for agents, no accounts or keys, with verifi… |
+| 2026-09-28 11:27:43 | [io.github.cqnce-app/cqnce-mcp](https://github.com/cqnce-app/cqnce-mcp) | cQnce MCP | 0.1.3 | Add human approval to AI agent workflows through cQnce authorization tools. |
+| 2026-09-28 11:28:01 | [com.local-mcp/local-mcp](https://github.com/lanchuske/local-mcp-releases) | Local MCP | 3.0.414 | Mac & Windows: let ChatGPT, Claude & Cursor use your email, calendar, iMessage,… |
+| 2026-09-28 11:28:13 | [io.github.homeofe/supply-chain-guard](https://github.com/homeofe/supply-chain-guard) |  | 6.3.2 | Supply-chain malware scanner and MCP server: vet packages in 15 ecosystems befo… |
+| 2026-09-28 11:30:34 | com.eloedge/kalshi-prediction-markets | EloEdge: Kalshi model probabilities | 2.5.0 | Calibrated probabilities for Kalshi crypto, commodity and stock-index markets,… |
+| 2026-09-28 11:30:42 | com.eloedge/prediction-market-data | EloEdge Data: prediction-market and pri… | 1.0.0 | SQL over 2.2B rows: settled Kalshi and Polymarket markets, 1-second crypto pric… |
+| 2026-09-28 11:31:11 | com.airesumemaster/resume-builder | AI Resume Master | 1.1.0 | Build and edit real resumes in your AI Resume Master account, and export them t… |
+| 2026-09-28 11:31:36 | [io.github.WYRE-AI/connectwise-manage-mcp](https://github.com/WYRE-AI/connectwise-manage-mcp) | ConnectWise Manage | 1.10.0 | MCP server for ConnectWise Manage PSA — companies, tickets, projects, time entr… |
+| 2026-09-28 11:32:58 | [com.labelixa/zpl](https://github.com/Labelixa/labelixa-mcp) | Labelixa | 0.4.1 | Thermal label MCP server: render, validate, debug and convert ZPL, EPL, TSPL an… |
+| 2026-09-28 11:34:43 | bot.beck/beck |  | 1.6.1 | Project management for coding agents: record the approved plan, work the tasks,… |
+| 2026-09-28 11:34:50 | [io.github.haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) | Excel MCP Server | 1.0.0 | Create, read and edit Excel workbooks without Microsoft Excel. |
+| 2026-09-28 11:36:22 | io.haulista/load-assistant | Haulista Load Assistant | 1.1.0 | Calculate required trucks or containers, verify shipment fit, and manage Haulis… |
+| 2026-09-28 11:36:32 | [io.github.SemanticDataCharter/sdcreceipt](https://github.com/SemanticDataCharter/sdcreceipt) |  | 4.2.3 | Verify and settle VSL Settlement Receipts. Verification needs no network and no… |
+| 2026-09-28 11:38:05 | [io.github.mcpsmiths/cost-guard-mcp](https://github.com/mcpsmiths/cost-guard-mcp) | Cost Guard MCP | 0.3.2 | Pre-flight query cost and result-size guardrails for AI agents on BigQuery, Sno… |
+| 2026-09-28 11:43:07 | net.dmytro-prototypes/cad-control-mcp-server | Control AutoCAD MCP Server | 0.1.21 | Control AutoCAD with AI: commands, read/edit/write drawing database, AutoLISP,… |
+| 2026-09-28 11:47:05 | com.52choujiang/bilibili-insights | SocialDataX B站 Bilibili MCP | 0.1.3 | Bilibili public video, article, dynamic, creator, comments, reactions, and tran… |
+| 2026-09-28 11:48:32 | [dev.pdfrender/pdfrender](https://github.com/pdfrender-dev/pdfrender) | pdfrender | 1.0.1 | HTML and CSS to PDF MCP server with page headers, footers and page numbers. No… |
+| 2026-09-28 11:50:20 | io.github.privatelawattorneys/wiki-private-law | Private Law Wiki | 3.3.0 | Answers, search, Bank Index and complaint assessment for wiki.private.law by th… |
+| 2026-09-28 11:51:13 | company.lemma/telepath | Lemma Telepath | 1.0.0 | Search, read and reply to your Telegram Business chats, transcribed voice inclu… |
+| 2026-09-28 11:52:16 | [io.github.nickjlamb/pubcrawl](https://github.com/nickjlamb/pubcrawl) |  | 2.6.2 | PubMed & Europe PMC literature search, US/UK drug labelling, and clinical trial… |
+| 2026-09-28 11:52:20 | [io.github.nickjlamb/groundwork](https://github.com/nickjlamb/groundwork) |  | 0.4.1 | Deployment-readiness checks for document-QA and extraction AI: grounding, extra… |
+| 2026-09-28 11:52:51 | com.suomiatlas/area-statistics | Suomiatlas — Finnish area statistics | 0.7.0 | Finnish postal-area and municipality statistics; rank, compare, history, air qu… |
+| 2026-09-28 11:53:15 | [com.githits/githits](https://github.com/githits-com/githits-cli) | GitHits | 0.23.0 | Search public open-source code, documentation, metadata, vulnerabilities, chang… |
+| 2026-09-28 11:56:52 | [dev.invowerk/invowerk](https://github.com/invowerk-dev/invowerk) | invowerk | 1.0.0 | E-invoice checker for ZUGFeRD, Factur-X, XRechnung and Peppol BIS. Free web too… |
+| 2026-09-28 11:57:59 | [ai.atako/mcp](https://github.com/aiybiz/aiybiz-next) | Atako | 0.2.0 | Remote MCP server to run your Atako AI agents: chat, projects, files, integrati… |
+| 2026-09-28 11:58:26 | com.tppflow/texas-rrc-wellbores |  | 1.0.0 | Texas RRC oil & gas wellbores: API numbers, completion dates, depth, plug status |
+| 2026-09-28 12:03:08 | [run.agentdata/agentdata](https://github.com/nick-timms/agentdata-mcp-server) | AgentData | 2.1.1 | Free company data for AI agents: profiles, tech stacks, contact details and peo… |
+| 2026-09-28 12:03:09 | [io.github.hey-research-lab/hey-research](https://github.com/hey-research-lab/hey-research-open) | HEY Research Lab | 0.1.1 | Evidence-backed Robinhood Chain research: builders, ships, contracts, changes,… |
+| 2026-09-28 12:06:59 | [com.a2awire/data-aws-news-cloud-service-update-announcement](https://github.com/ee324/a2awire) | AWS Cloud Service Updates & Announcemen… | 0.1.0 | AWS cloud service announcements & updates. $0.01/query. Register in-session — f… |
+| 2026-09-28 12:09:45 | [com.shipstatic/mcp](https://github.com/shipstatic/mcp) | ShipStatic | 2.3.0 | Deploy static websites from AI agents. Free at mcp.shipstatic.com — no install,… |
+| 2026-09-28 12:13:04 | [io.github.leadbay/leadbay-mcp](https://github.com/leadbay/mcp) | Leadbay | 0.42.0 | AI lead discovery, qualification, and outreach prep on your Leadbay account. |
+| 2026-09-28 12:15:16 | jp.yomitasu/kakeruyone-com | 買取大陸 | 1.0.1 | 「これ売れないかな？（kakeruyone.com の内容を検索して答える。ヨミタス経由） |
+| 2026-09-28 12:15:19 | [io.linkmcp/linkmcp](https://github.com/linkmcp-io/linkmcp) | LinkMCP: hosted LinkedIn MCP server | 1.2.0 | Hosted LinkedIn MCP server on your own account: 33 tools for search, profiles,… |
+| 2026-09-28 12:16:49 | ai.connie/connie | Connie | 1.0.0 | Search and update Records and Lists, import and export CSVs, and run enrichment… |
+| 2026-09-28 12:18:33 | cz.iustoria/pruvodci | IUSTORIA – české právní kalkulačky a pr… | 1.0.0 | Czech law calculators (limitation, court fees, deadlines) and lawyer-reviewed g… |
 
 ## Data source
 
