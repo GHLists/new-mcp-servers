@@ -9,32 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 06:19 UTC
+## Latest list — 2026-09-28 07:21 UTC
 
-New MCP servers published between 2026-09-28 05:22 UTC and 2026-09-28 06:19 UTC.
+New MCP servers published between 2026-09-28 06:19 UTC and 2026-09-28 07:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-28T06-19-03-185421Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-28T07-21-57-941924Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-28 05:25:16 | [io.github.Azzy-H/mcp-video-frames](https://github.com/Azzy-H/mcp-video-frames) | Video Frames | 0.1.1 | MCP server that lets image-only models look at video: timecoded frames, measura… |
-| 2026-09-28 05:27:11 | com.adminlanding/french-rental-compliance |  | 1.17.0 | FR/EN tools for French rental, frontalier & home-employment (CCN 3239) — source… |
-| 2026-09-28 05:27:43 | com.qevrulan/lockzone | Lockzone | 0.2.0 | Chat rooms for agents behind a capability test: solve fresh tasks to earn a tem… |
-| 2026-09-28 05:30:01 | [io.github.runapi-builder/runapi-mcp](https://github.com/runapi-ai/mcp) |  | 0.13.0 | 130+ AI models for image, video, music, and audio — 18 model families, one RunA… |
-| 2026-09-28 05:31:43 | [com.markifact/google-ads](https://github.com/markifact/google-ads-mcp) | Google Ads MCP by Markifact | 1.0.0 | Google Ads MCP: reports, search terms, negatives, budgets, campaigns. Approval… |
-| 2026-09-28 05:31:56 | [com.markifact/meta-ads](https://github.com/markifact/meta-ads-mcp) | Meta Ads MCP by Markifact | 1.0.0 | Meta Ads MCP: Facebook and Instagram reports, campaigns, creatives, audiences.… |
-| 2026-09-28 05:32:04 | [com.markifact/mcp](https://github.com/markifact/markifact-mcp) | Markifact - Ads & Analytics | 1.0.6 | AI marketing agent for Google Ads, Meta, GA4, TikTok, LinkedIn, Shopify, HubSpo… |
-| 2026-09-28 05:32:51 | [io.github.runapi-builder/suno-mcp](https://github.com/runapi-ai/suno-mcp) |  | 0.3.7 | RunAPI MCP server for Suno: create tasks, poll status, check pricing. |
-| 2026-09-28 05:37:25 | [io.github.sbroenne/mcp-server-powerpoint](https://github.com/sbroenne/mcp-server-powerpoint) | MCP Server for PowerPoint | 0.2.1 | PowerPoint automation for AI: slides, shapes, tables, charts, images, notes. Wi… |
-| 2026-09-28 05:39:52 | app.rowb.hive-ledger/rotation | Hive Ledger — deterministic varroa trea… | 1.0.0 | Checks a beekeeping varroa treatment rotation for resistance risk and withdrawa… |
-| 2026-09-28 06:02:04 | com.feedbackpulse/mcp | FeedbackPulse | 1.0.0 | Employee surveys, performance reviews, recognition, and team pulse for AI assis… |
-| 2026-09-28 06:03:29 | [io.github.dimitar-grigorov/mcp-file-tools](https://github.com/dimitar-grigorov/mcp-file-tools) | MCP File Tools | 4.5.0 | Non-UTF-8 files: CP1251, CP1252, KOI8, ISO-8859, UTF-16, GBK auto-detected and… |
-| 2026-09-28 06:08:40 | [io.github.zhaoxinghua09-cell/medxpert-reg-connector](https://github.com/zhaoxinghua09-cell/medxpert-reg-connector) | MedXpert 全球法规连接器 (reg-connector) | 1.0.0 | Read-only MCP server for global medical-device regulation (NMPA/FDA/MDR/PMDA),… |
-| 2026-09-28 06:09:22 | [com.microsoft/esrp-oss-mcp-test](https://github.com/sravanism/esrp-oss-mcp-server) |  | 26.928.55928 | The ESRP OSS MCP server exposes tools to discover & validate trusted Microsoft… |
-| 2026-09-28 06:11:15 | pw.xtester/xtester | XTester Studio | 1.0.0-alpha.2 | Desktop strategy development and testing with a built-in local stdio MCP server. |
-| 2026-09-28 06:12:00 | [ai.rightcard/mcp](https://github.com/rightcard/rightcard-mcp) | RightCard | 0.1.5 | Which of your credit cards to use at any store, from verified bank data. No ban… |
-| 2026-09-28 06:13:52 | [io.github.PulseBet/pulse-verity](https://github.com/PulseBet/pulse-verity) |  | 1.3.0 | Read crypto reference prices and verify signed receipts. Includes limited keyle… |
-| 2026-09-28 06:16:19 | ai.simplio3d/platform | Simplio3D - 3D CPQ and Product Configur… | 1.8.3 | Inspect, validate and safely edit 3D product configurators: options, pricing, m… |
+| 2026-09-28 06:19:54 | me.norbertcsorgo/mcp | Norbert Csorgo | 1.0.0 | Learn about freelance app developer Norbert Csorgo and send him a collaboration… |
+| 2026-09-28 06:20:16 | [io.github.gzchenhao/openhire](https://github.com/gzchenhao/openhire) | OpenHire · 哨兵 | 0.6.8 | Job postings with real posting dates, read from employers' Greenhouse/Lever/Ash… |
+| 2026-09-28 06:27:13 | [io.github.KushalP1/context-doctor](https://github.com/KushalP1/context-doctor) | context-doctor | 0.21.0 | Profile LLM context: token breakdown, wasted-context findings and fixes for cha… |
+| 2026-09-28 06:31:26 | us.stratly/townsquare | Stratly Town Square | 1.1.0 | MCP for Stratly Town Square: agent chat, problems, teams, work items, bounties.… |
+| 2026-09-28 06:31:49 | [io.github.ericthai-labs/lanternote](https://github.com/ericthai-labs/lanternote) | Lanternote | 1.17.0 | Search, read and query large folders of Markdown notes (200,000+). Optional, re… |
+| 2026-09-28 06:45:43 | [io.github.hostinger/hostinger-api-mcp](https://github.com/hostinger/api-mcp-server) |  | 2.0.0 | MCP server for Hostinger API |
+| 2026-09-28 06:45:46 | [io.github.zhaoxinghua09-cell/medxpert-library-connector](https://github.com/zhaoxinghua09-cell/medxpert-library-connector) | MedXpert 图书馆连接器（通用版） | 1.0.0 | Local RAG MCP server for your own .md knowledge base: BM25 + local Ollama, offl… |
+| 2026-09-28 06:46:57 | [io.github.zhaoxinghua09-cell/medxpert-standards-connector](https://github.com/zhaoxinghua09-cell/medxpert-standards-connector) | MedXpert 标准检索连接器 | 1.0.0 | Read-only local MCP index of medical-device standards (ISO/GB/YY/ASTM/IEC) with… |
+| 2026-09-28 06:52:58 | [io.github.alevizio/globestudio](https://github.com/alevizio/globestudio) | Globestudio | 0.2.0 | Generate dotted-globe maps, share URLs, and embed snippets from chat. |
+| 2026-09-28 06:52:58 | [ai.pubfi/mcp](https://github.com/helixbox/pubfi-docs) | PubFi MCP | 0.2.67 | Use MCP 2026-07-28 discovery or 2025-11-25 initialize to list and execute PubFi… |
+| 2026-09-28 06:55:48 | [io.github.razvangirgiz/wazap](https://github.com/razvangirgiz/wazap) |  | 1.1.0 | WhatsApp for your agent: chats, messages, media, contacts and groups behind MCP… |
+| 2026-09-28 06:57:08 | [io.github.Fizzl13/presign-guard](https://github.com/Fizzl13/presign-guard) | presign-guard | 1.2.1 | Pre-sign, token and approval checks for agents: green/orange/red for signatures… |
+| 2026-09-28 06:57:09 | [io.github.Fizzl13/x402-doctor](https://github.com/Fizzl13/x402-doctor) | x402 Doctor | 1.0.1 | Check x402 endpoints like a paying agent: diagnose, fix plans, pre-payment chec… |
+| 2026-09-28 06:57:41 | [io.github.cuqu-net/cuqu-mcp](https://github.com/cuqu-net/cuqu-skill) | CUQU (找搭子) MCP Server | 1.0.0 | Find and book offline group events in 10+ China cities, or publish your own eve… |
+| 2026-09-28 06:57:53 | [io.github.Fizzl13/plaintext-wallet-checker](https://github.com/Fizzl13/SmartContractExplainer) | PlainText Wallet Approval Checker | 1.1.1 | Checks a wallet's token/NFT approvals via GoPlus and explains risk in plain lan… |
+| 2026-09-28 06:59:22 | com.gccdomestic/gccdomestic | GCC Domestic | 1.0.3 | Verify 1,700+ GCC domestic-worker agencies (1,400+ gov-verified); search 900+ E… |
+| 2026-09-28 07:02:33 | [io.github.MohitBansal321/ai-usage-mcp](https://github.com/MohitBansal321/ai-usage-mcp) | AI Usage | 0.11.0 | Reports real token usage and cost from Claude Code and OpenCode data. Nothing l… |
+| 2026-09-28 07:03:30 | [io.github.sgdev279/utility-network-mcp](https://github.com/sgdev279/esri-utility-network-skill) |  | 0.1.0 | Esri ArcGIS Utility Network tools: trace, subnetworks, dirty areas, associations |
+| 2026-09-28 07:07:20 | [io.github.fluxgit-hq/fluxgit-mcp-server](https://github.com/fluxgit-hq/fluxgit-mcp-server) |  | 0.2.0 | Safety-first Git MCP server: rich read tools plus human-approved FluxGit operat… |
+| 2026-09-28 07:08:12 | [io.github.MerakOsiris/memoryguard](https://github.com/MerakOsiris/memoryguard) | MemoryGuard | 0.7.14 | Local-first governed MCP memory backend for coding agents. |
+| 2026-09-28 07:10:13 | [io.github.delentia-labs/delentia-mcp](https://github.com/delentia-labs/delentia-mcp) | Delentia Sovereign AI Operating System | 2.1.1 | Stop rogue AI-agent tool calls before they run: deterministic policy gate + aud… |
+| 2026-09-28 07:14:09 | [info.storiesig/instagram-mcp](https://github.com/storiesig-info/instagram-mcp) | StoriesIG Instagram MCP Server | 1.0.3 | View and download public Instagram posts, reels, stories, highlights, followers… |
+| 2026-09-28 07:15:34 | ai.thirds/thirds | thirds.ai | 1.0.0 | Make branded PDFs and images from reusable templates, brand kits, and your data. |
+| 2026-09-28 07:18:01 | [io.github.xsronhou/scrapio-mcp](https://github.com/xsronhou/scrapio) |  | 1.10.0 | Fetch, crawl, and search the web: Google, Amazon, Walmart, Booking.com, Agoda,… |
+| 2026-09-28 07:18:49 | [io.github.Medxpert-org/ubic-governance-mcp](https://github.com/Medxpert-org/ubic-governance-mcp) | SynomosAI Governance MCP | 1.0.0 | AI governance MCP: A3 scorecard, ISO 42001 evidence templates, compliance check… |
+| 2026-09-28 07:21:43 | ai.alphaquantlabs/propertycheck | AQL PropertyCheck - Australian property… | 1.6.0 | Australian property intelligence for AI agents. Check live geographic coverage… |
+| 2026-09-28 07:21:46 | [com.dondego/wikidata-google-knowledge-mcp](https://gitlab.com/revanalex/wikidata-google-knowledge-mcp) | Wikidata + Google Knowledge Graph MCP | 0.2.1 | Bounded Wikidata search and facts, optional Google KG cross-checks, determinist… |
 
 ## Data source
 
