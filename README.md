@@ -9,33 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 02:19 UTC
+## Latest list — 2026-09-28 03:19 UTC
 
-New MCP servers published between 2026-09-28 01:20 UTC and 2026-09-28 02:19 UTC.
+New MCP servers published between 2026-09-28 02:19 UTC and 2026-09-28 03:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-28T02-19-44-98259Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-28T03-19-02-847963Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-28 01:25:08 | [io.github.ogasurfproject-jpg/hs-verify-gate](https://github.com/ogasurfproject-jpg/horizon-shield) | MCP Verification Gate: check an MCP ser… | 0.4.17 | Check an A2A agent before you delegate, or an MCP server's measured conduct. Fr… |
-| 2026-09-28 01:28:33 | [io.github.ThoTischner/observability-mcp](https://github.com/ThoTischner/observability-mcp) |  | 3.9.11 | Unified observability gateway for AI agents — Prometheus, Loki & more, with ano… |
-| 2026-09-28 01:31:17 | [io.github.gaopengbin/cesium-mcp-runtime](https://github.com/gaopengbin/cesium-mcp) |  | 1.146.0 | Control CesiumJS 3D globes via MCP: camera, layers, entities, animation, and in… |
-| 2026-09-28 01:37:20 | [dev.citadeldb/mcp](https://github.com/yp3y5akh0v/citadel) | Citadel | 2.7.0 | Encrypted-first embedded database with vector search and agent memory, exposed… |
-| 2026-09-28 01:37:40 | de.flowboxx/agenten-tuer |  | 0.1.0 | flowboxx Agenten-Tuer: ehrliche Antworten zu Websites, Software, KI, Telegram.… |
-| 2026-09-28 01:46:13 | [io.github.contextflo/postgres-mcp](https://github.com/contextflo/postgres-mcp) | Postgres (read-only) | 0.1.2 | Read-only Postgres: drop-in for the archived server-postgres, with schema conte… |
-| 2026-09-28 01:48:13 | [com.answeringservicecare/public](https://github.com/Answering-Service-Care/agent-skills) | Answering Service Care | 1.0.0 | Read-only facts about Answering Service Care: company info, services, pricing,… |
-| 2026-09-28 01:48:45 | [io.github.musharna/data-aggregator-mcp](https://github.com/musharna/data-aggregator-mcp) | Data Aggregator | 0.47.0 | Find & fetch research datasets across 17 archives, omics registries, and litera… |
-| 2026-09-28 01:49:25 | [io.github.SWATGenX/swatgenx](https://github.com/SWATGenX/swatgenx-mcp) |  | 1.1.0 | SWAT+ watershed models for any river in the lower 48 states, with groundwater a… |
-| 2026-09-28 01:51:14 | io.github.KyleClouthier/slotrobin |  | 0.1.0 | Find, get quotes from and book local service businesses on their own Square or… |
-| 2026-09-28 01:56:13 | [io.github.christianclaudio/sigma](https://github.com/christianclaudio/mcp-server-sigma) | mcp-server-sigma | 1.2.1 | MCP server for Sigma Computing. Provision dashboards, build models, and automat… |
-| 2026-09-28 01:58:36 | [us.thistripbtw/trips](https://github.com/peterbartsch/thistripbtw-mcp) |  | 1.3.4 | Hand someone a complete trip as a private, editable map link. No account, no AP… |
-| 2026-09-28 02:00:38 | [io.github.alex-brecher/shopify-multi-store](https://github.com/alex-brecher/shopify-multi-store) |  | 2.0.0 | Connect AI agents to multiple Shopify Admin stores for reports, comparisons, an… |
-| 2026-09-28 02:05:52 | [ai.plori/plori](https://github.com/plori-ai/plori) |  | 0.16.4 | Create and drive plori cloud agents and workflows over MCP; each agent has its… |
-| 2026-09-28 02:08:25 | [io.github.RNVizion/rnv-color-mcp](https://github.com/RNVizion/rnv-color-mcp) |  | 1.3.0 | A complete color workflow over MCP: mix, convert, harmonize, measure, place, an… |
-| 2026-09-28 02:10:12 | io.github.marcioyoshida/onca | Onça — Brazil financial competitive & r… | 1.0.0 | Brazilian financial institutions: entity registry, sourced regulatory signals,… |
-| 2026-09-28 02:11:37 | com.fabersomniorum/faber-machine-market | Faber Machine Market | 1.0.1 | Paid machine-to-machine information tools with x402 USDC payment on Base Mainne… |
-| 2026-09-28 02:12:42 | [io.github.sjkim1127/reversecore-mcp](https://github.com/sjkim1127/Reversecore_MCP) | Reversecore MCP | 3.0.5 | Security-first MCP server for reverse engineering, malware analysis, forensics,… |
-| 2026-09-28 02:16:38 | com.slashtel/slashtel | Slashtel | 1.0.0 | Travel data eSIMs in about 200 destinations and mobile top-ups in 100+ countrie… |
+| 2026-09-28 02:25:04 | [io.github.HorizunGroup/horizun-revit-mcp](https://github.com/HorizunGroup/horizun-revit-mcp) | Horizun Revit MCP | 2.1.4 | Local Windows MCP for Revit 2023-2027. Run the Windows installer before connect… |
+| 2026-09-28 02:29:20 | [io.github.kagura-ai/memory-cloud](https://github.com/kagura-ai/memory-cloud) | Kagura Memory Cloud | 0.82.0 | Persistent memory for AI assistants: store, search, and connect knowledge acros… |
+| 2026-09-28 02:33:27 | [io.github.aidc2026ai-melon/aidc-mcp-server](https://github.com/aidc2026ai-melon/aidc-ai-io) |  | 0.2.4 | AIDC MCP for OPR/BOD sizing, validation, and rackPlan layout from the shared 3D… |
+| 2026-09-28 02:36:32 | systems.phion/evidence-engine | PHION Agent Trust Infrastructure | 1.52.2 | 122 agent services: inference, search, enrich, intelligence, trust and x402 sig… |
+| 2026-09-28 02:39:05 | [io.github.cyanheads/pubmed-mcp-server](https://github.com/cyanheads/pubmed-mcp-server) |  | 2.10.19 | Search PubMed/Europe PMC, fetch articles and full text (PMC/EPMC/Unpaywall), ci… |
+| 2026-09-28 02:42:16 | [com.crosscheckapi/crosscheck](https://github.com/maxugc/crosscheck) | crosscheck | 0.5.5 | Checks for AI agents over x402: review drafts, accept-check handoffs, scan skil… |
+| 2026-09-28 02:45:06 | [io.github.Wonderfulian/kbv-server](https://github.com/Wonderfulian/kbv-server) | Korea Business Verify (KBV) | 0.3.0 | Find and verify Korean businesses by name or number. 10 free calls/day, then pa… |
+| 2026-09-28 02:45:34 | [io.github.Cafelatte1/fronyboard](https://github.com/Cafelatte1/FronyBoard) | FronyBoard | 0.39.1 | Project tracker for AI agents: roadmap, periods, tasks and a validation gate, i… |
+| 2026-09-28 02:45:51 | [io.github.alyiox/mcp-openapix](https://github.com/alyiox/mcp-openapix) | OpenAPI Services | 0.1.1 | MCP server that fronts any OpenAPI service: discover operations from its spec a… |
+| 2026-09-28 02:47:29 | [io.github.deeparchi-ai/patent-mcp-server](https://github.com/deeparchi-ai/patent-mcp-server) | Patent MCP Server | 1.9.0 | Patent search over 1.4B global records via Google Patents on BigQuery, with CN… |
+| 2026-09-28 02:48:25 | [io.github.kor-jongwon/witan](https://github.com/kor-jongwon/witan-sdk) | WITAN | 0.3.0 | Agents trade what they measured: validated knowledge units and versioned, signe… |
+| 2026-09-28 02:53:55 | [io.github.blwfish/freecad-mcp](https://github.com/blwfish/freecad-mcp) | FreeCAD MCP | 8.2.1 | Control FreeCAD from Claude — 3D modeling, PartDesign, CAM toolpaths, and more… |
+| 2026-09-28 02:54:38 | [io.github.geekmarine/mcp-defi-router](https://github.com/geekmarine/mcp-defi-router) |  | 1.1.0 | Autonomous DeFi router for multi-hop execution, MEV risk mitigation, and transa… |
+| 2026-09-28 02:54:53 | ai.lightdrift/images | Lightdrift Images MCP | 1.3.1 | Image search for AI agents: 1.85M openly licensed images with source, license a… |
+| 2026-09-28 02:55:02 | [net.crawlora/crawlora-mcp](https://github.com/Crawlora-org/crawlora-mcp) | Crawlora MCP | 1.17.6 | Hosted MCP: 3122 structured web-data tools across 420 platform groups. |
+| 2026-09-28 02:55:33 | [io.github.AmrDab/clawdcursor](https://github.com/AmrDab/clawdcursor) |  | 1.5.10 | Safe cross-OS desktop control for any AI agent - the fallback execution layer. |
+| 2026-09-28 02:55:46 | site.chatgpt.lorh89.the-knowledge-commons/evidence |  | 1.1.0 | Reuse cited research, try 10 compact reads, and contribute owner-scoped public… |
+| 2026-09-28 03:00:20 | [io.github.co2water/agentegress](https://github.com/co2water/agentegress) | agentegress | 0.1.2 | See which AI agent and MCP server talks to what on Windows, with a rule-based s… |
+| 2026-09-28 03:02:28 | io.github.davisvillelabs/localproof | LocalProof | 0.31.19 | Local government intelligence for AI agents. |
+| 2026-09-28 03:05:35 | [io.github.hermoso-ai/hermoso](https://github.com/hermoso-ai/hermoso) | Hermoso | 0.1.330 | Marketing on autopilot from your agent. 863 tools, usable alone. Publishing and… |
+| 2026-09-28 03:07:39 | [io.github.forevercrab321-svg/leevar](https://github.com/forevercrab321-svg/leevar-battery) | LEEVAR reliability battery | 0.1.0 | Grade an AI agent's transcripts on 18 reliability tests. Thin evidence is NOT T… |
+| 2026-09-28 03:13:44 | [com.daedalmap/geocoding](https://github.com/xyver/daedal-map) | DaedalMap Geography Tools (loc_id) | 1.6.0 | Resolve coordinates and geographic identifiers to loc_id, crosswalks, and bound… |
+| 2026-09-28 03:13:44 | [com.daedalmap/reverse-geocoding](https://github.com/xyver/daedal-map) | DaedalMap Reverse Geocoding (coordinate… | 1.4.0 | Convert WGS84 coordinates to the latest available administrative loc_id chain. |
+| 2026-09-28 03:13:44 | [com.daedalmap/boundaries](https://github.com/xyver/daedal-map) | DaedalMap Administrative Boundaries (lo… | 1.3.0 | Retrieve loc_id boundary metadata, polygons, supported scopes, and comparisons. |
+| 2026-09-28 03:14:17 | dev.mashprime/mashprime | Mash Prime | 1.0.0 | Read Mash Prime's essays and build notes on agentic systems, memory, approvals,… |
+| 2026-09-28 03:15:20 | [io.github.JunHwan-Kwon/deepbom](https://github.com/JunHwan-Kwon/deepbom) | DEEPBOM | 1.109.0 | Browser-local and CLI static evidence for deployed AI model artifacts. |
+| 2026-09-28 03:16:09 | [io.github.vishalsachdev/canvas-mcp](https://github.com/vishalsachdev/canvas-mcp) |  | 1.13.0 | Canvas LMS integration for students and educators with optional privacy controls |
+| 2026-09-28 03:16:10 | [io.github.oaslananka/kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro) | KiCad MCP Pro | 3.35.1 | Production-grade MCP server for KiCad EDA—PCB design, DRC, simulation, BOM, DFM… |
 
 ## Data source
 
