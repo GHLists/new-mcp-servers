@@ -9,37 +9,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 01:20 UTC
+## Latest list — 2026-09-28 02:19 UTC
 
-New MCP servers published between 2026-09-28 00:21 UTC and 2026-09-28 01:20 UTC.
+New MCP servers published between 2026-09-28 01:20 UTC and 2026-09-28 02:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-28T01-20-08-855191Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-28T02-19-44-98259Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-28 00:23:20 | [io.github.delimit-ai/delimit-mcp-server](https://github.com/delimit-ai/delimit-mcp-server) | Delimit — Keep the state. Change the mo… | 4.21.0 | Keep the state. Change the model. Shared context and a multi-model panel across… |
-| 2026-09-28 00:24:06 | [app.flaim/mcp](https://github.com/jdguggs10/flaim) | Flaim Fantasy | 1.0.2 | Fantasy analysis for your ESPN, Yahoo, and Sleeper leagues. Reads your leagues,… |
-| 2026-09-28 00:27:19 | [io.github.autokeren/ghostfox](https://github.com/autokeren/ghostfox) |  | 0.8.0 | Self-hosted stealth browser for AI agents: Firefox engine + Rust MCP runtime. |
-| 2026-09-28 00:27:42 | io.github.jaymiller-cmg/mortgage-hawaii | RealityCents — Hawaii Mortgage & VA Loa… | 2.0.0 | Read-only Hawaii mortgage and VA loan calculators from RealityCents.com. No per… |
-| 2026-09-28 00:30:35 | [io.github.OrygnsCode/opa-mcp](https://github.com/OrygnsCode/opa-mcp-server) | OPA MCP | 0.8.0 | Author, validate, debug, and explain OPA Rego policies through any MCP-compatib… |
-| 2026-09-28 00:33:58 | com.beleeg/beleeg | Beleeg | 0.8.0 | Run a recreational sports league from an AI assistant: standings, schedules, ro… |
-| 2026-09-28 00:33:58 | com.beleeg/beleeg-public | Beleeg (public, no account) | 0.8.0 | Public league standings, schedules and brackets; start a league or bracket with… |
-| 2026-09-28 00:35:48 | com.electronics-architect/electronics-architect | Electronics Architect | 1.0.0 | Solve a DC/DC power tree: per-stage current, efficiency, dissipation, thermals,… |
-| 2026-09-28 00:37:19 | [io.github.SidneyBissoli/bcb-br-mcp](https://github.com/SidneyBissoli/bcb-br-mcp) | Banco Central do Brasil (BCB) — SGS Tim… | 1.15.1 | Banco Central do Brasil (BCB): SGS series, Focus expectations, PTAX, stats + pr… |
-| 2026-09-28 00:37:37 | [io.openwaters/ais](https://github.com/openwatersio/aiscast) | Open Waters AIS | 0.4.0 | Live AIS vessel positions by MMSI, name, area, or radius, plus coverage. No sig… |
-| 2026-09-28 00:42:56 | com.useauditoria.pilot/auditor-ia | Auditor IA | 1.0.0 | Audit B2B prospect lists before enrichment, CRM import or outreach. |
-| 2026-09-28 00:45:09 | [io.github.JhostinAleck/brightspace](https://github.com/JhostinAleck/brightspace-mcp) |  | 1.2.0 | D2L Brightspace MCP server: courses, grades, rubrics, feedback, course files, c… |
-| 2026-09-28 00:45:30 | [io.github.ParkerDiamond/chatppt](https://github.com/ParkerDiamond/ChatPPT) | ChatPPT | 0.2.0 | Model Context Protocol (MCP) server for programmatic PowerPoint creation and ed… |
-| 2026-09-28 00:45:42 | [io.github.cengit1/agent-index](https://github.com/cengit1/agent-index) | AgentIndex — measured reliability for a… | 1.1.0 | Measured uptime, price and payment evidence for 19,021 agent services. Reliabil… |
-| 2026-09-28 00:45:52 | [io.github.ilyautov/humanizer-ru](https://github.com/ilyautov/humanizer-ru) | humanizer-ru | 3.31.0 | Следы нейросети в русском тексте: балл чистоты 0-100, запреты и маркеры с позиц… |
-| 2026-09-28 00:49:06 | [io.github.noteflowai/dsh-skills-anywhere](https://github.com/noteflowai/dsh-skills-anywhere) | Skills Anywhere | 0.16.0 | Discover and load Agent Skills from configured local directories and Git source… |
-| 2026-09-28 00:53:49 | com.wapiworld/wapiworld | Wapiworld WhatsApp API | 0.1.1 | Check your WhatsApp numbers, connection status and webhooks, and send a text wh… |
-| 2026-09-28 00:58:48 | com.prognyx/oncology-intelligence | Prognyx oncology intelligence | 1.0.0 | Live ClinicalTrials.gov oncology trial comparison around an asset, plus landsca… |
-| 2026-09-28 01:09:11 | [eu.tracepass/tracepass](https://github.com/malinoto/tracepass-mcp-server) | TracePass | 1.9.0 | Manage products, EU Digital Product Passports, operator parties, and GS1 EPCIS… |
-| 2026-09-28 01:10:17 | com.rackwarehouse/fitment | Rack Warehouse fitment | 1.0.0 | What fits your vehicle at Rack Warehouse: roof racks, carriers, truck and ladde… |
-| 2026-09-28 01:14:31 | [io.github.Ynewtime/markitai](https://github.com/Ynewtime/markitai) | markitai | 1.2.0 | Convert documents, images and web pages to clean Markdown, for agents: single,… |
-| 2026-09-28 01:15:26 | [io.github.unbrowse-ai/unbrowse](https://github.com/unbrowse-ai/unbrowse) | Unbrowse | 12.1.1 | Websites as APIs: read pages, run site tasks via learned APIs, cloud browser wi… |
-| 2026-09-28 01:17:32 | [xyz.47620/solana-data](https://github.com/47620-xyz/solana-data-mcp) | 47620 Solana Data API | 1.1.0 | x402 pay-per-call Solana data + crypto market + JWT/unit utils for AI agents. |
+| 2026-09-28 01:25:08 | [io.github.ogasurfproject-jpg/hs-verify-gate](https://github.com/ogasurfproject-jpg/horizon-shield) | MCP Verification Gate: check an MCP ser… | 0.4.17 | Check an A2A agent before you delegate, or an MCP server's measured conduct. Fr… |
+| 2026-09-28 01:28:33 | [io.github.ThoTischner/observability-mcp](https://github.com/ThoTischner/observability-mcp) |  | 3.9.11 | Unified observability gateway for AI agents — Prometheus, Loki & more, with ano… |
+| 2026-09-28 01:31:17 | [io.github.gaopengbin/cesium-mcp-runtime](https://github.com/gaopengbin/cesium-mcp) |  | 1.146.0 | Control CesiumJS 3D globes via MCP: camera, layers, entities, animation, and in… |
+| 2026-09-28 01:37:20 | [dev.citadeldb/mcp](https://github.com/yp3y5akh0v/citadel) | Citadel | 2.7.0 | Encrypted-first embedded database with vector search and agent memory, exposed… |
+| 2026-09-28 01:37:40 | de.flowboxx/agenten-tuer |  | 0.1.0 | flowboxx Agenten-Tuer: ehrliche Antworten zu Websites, Software, KI, Telegram.… |
+| 2026-09-28 01:46:13 | [io.github.contextflo/postgres-mcp](https://github.com/contextflo/postgres-mcp) | Postgres (read-only) | 0.1.2 | Read-only Postgres: drop-in for the archived server-postgres, with schema conte… |
+| 2026-09-28 01:48:13 | [com.answeringservicecare/public](https://github.com/Answering-Service-Care/agent-skills) | Answering Service Care | 1.0.0 | Read-only facts about Answering Service Care: company info, services, pricing,… |
+| 2026-09-28 01:48:45 | [io.github.musharna/data-aggregator-mcp](https://github.com/musharna/data-aggregator-mcp) | Data Aggregator | 0.47.0 | Find & fetch research datasets across 17 archives, omics registries, and litera… |
+| 2026-09-28 01:49:25 | [io.github.SWATGenX/swatgenx](https://github.com/SWATGenX/swatgenx-mcp) |  | 1.1.0 | SWAT+ watershed models for any river in the lower 48 states, with groundwater a… |
+| 2026-09-28 01:51:14 | io.github.KyleClouthier/slotrobin |  | 0.1.0 | Find, get quotes from and book local service businesses on their own Square or… |
+| 2026-09-28 01:56:13 | [io.github.christianclaudio/sigma](https://github.com/christianclaudio/mcp-server-sigma) | mcp-server-sigma | 1.2.1 | MCP server for Sigma Computing. Provision dashboards, build models, and automat… |
+| 2026-09-28 01:58:36 | [us.thistripbtw/trips](https://github.com/peterbartsch/thistripbtw-mcp) |  | 1.3.4 | Hand someone a complete trip as a private, editable map link. No account, no AP… |
+| 2026-09-28 02:00:38 | [io.github.alex-brecher/shopify-multi-store](https://github.com/alex-brecher/shopify-multi-store) |  | 2.0.0 | Connect AI agents to multiple Shopify Admin stores for reports, comparisons, an… |
+| 2026-09-28 02:05:52 | [ai.plori/plori](https://github.com/plori-ai/plori) |  | 0.16.4 | Create and drive plori cloud agents and workflows over MCP; each agent has its… |
+| 2026-09-28 02:08:25 | [io.github.RNVizion/rnv-color-mcp](https://github.com/RNVizion/rnv-color-mcp) |  | 1.3.0 | A complete color workflow over MCP: mix, convert, harmonize, measure, place, an… |
+| 2026-09-28 02:10:12 | io.github.marcioyoshida/onca | Onça — Brazil financial competitive & r… | 1.0.0 | Brazilian financial institutions: entity registry, sourced regulatory signals,… |
+| 2026-09-28 02:11:37 | com.fabersomniorum/faber-machine-market | Faber Machine Market | 1.0.1 | Paid machine-to-machine information tools with x402 USDC payment on Base Mainne… |
+| 2026-09-28 02:12:42 | [io.github.sjkim1127/reversecore-mcp](https://github.com/sjkim1127/Reversecore_MCP) | Reversecore MCP | 3.0.5 | Security-first MCP server for reverse engineering, malware analysis, forensics,… |
+| 2026-09-28 02:16:38 | com.slashtel/slashtel | Slashtel | 1.0.0 | Travel data eSIMs in about 200 destinations and mobile top-ups in 100+ countrie… |
 
 ## Data source
 
