@@ -1,0 +1,56 @@
+created_at,server,title,version,repository,transports,description
+2026-09-28T12:23:39.173996Z,com.kindoflost.routing/fleet-route-optimizer,Fleet Route Optimizer,1.0.0,,streamable-http,"Splits deliveries across vehicles and orders each route: time windows, capacities, road times. Free."
+2026-09-28T12:24:02.671011Z,io.github.giancarloerra/socraticode,,1.16.0,https://github.com/giancarloerra/socraticode,,"MCP server for enterprise local codebase indexing, semantic search, and code dependency graphs."
+2026-09-28T12:26:14.662753Z,jp.yomitasu/companydata-tsujigawa-com,全国企業データベース-プレスリリース配信サービス,1.0.1,,streamable-http,新商品ができた。お店が開いた。（companydata.tsujigawa.com の内容を検索して答える。ヨミタス経由）
+2026-09-28T12:27:58.022052Z,ai.ludo/game-assets,Ludo AI Game Assets,0.15.0,https://github.com/Ludo-AI/ludo-mcp,streamable-http,"Generate game assets with AI: sprites, animations, 3D models with rigging, video, music, SFX, voices"
+2026-09-28T12:28:13.620219Z,io.github.EduBase/MCP,,2.0.2,https://github.com/EduBase/MCP,streamable-http,EduBase MCP server
+2026-09-28T12:28:49.026649Z,com.maximofn/content,MaximoFN Content,1.0.0,,streamable-http,"Read-only search over the AI/ML posts, tips and projects of maximofn.com (es/en/pt)."
+2026-09-28T12:29:12.12776Z,app.divekit/mcp,Dive Kit,0.4.2,,streamable-http,"Plan scuba decompression dives, gas blends and gas use with Dive Kit's Bühlmann ZH-L16C engine."
+2026-09-28T12:30:26.452231Z,today.nyangi/oneul-nyangi,오늘냥이 (Oneul Nyangi),0.3.0,,streamable-http,"Real cat photos from 오늘냥이 (nyangi.today), a Korean cat diary, shown as an in-chat gallery."
+2026-09-28T12:31:03.861365Z,io.github.KalraAI/assistant-gym,Assistant Gym,0.8.0,,streamable-http,"Training gym where AI assistants practice real tasks and earn signed, verifiable scores."
+2026-09-28T12:31:39.962206Z,io.github.rezmeplxrf/insightsentry_mcp,,1.4.46,https://github.com/rezmeplxrf/insight_mcp,,"MCP server for InsightSentry financial data API - market data, options, screeners, and more"
+2026-09-28T12:32:04.146765Z,com.dominickprevete/instant-term-sheet,Dominick Prevete: Instant Term Sheet,1.0.0,,streamable-http,"Written term sheets for 1–4 unit DSCR investment property loans, by email. Business-purpose only."
+2026-09-28T12:32:35.912934Z,io.github.0ics-srls/ui-ticket-mcp,ui-ticket-mcp,1.6.1,https://github.com/0ics-srls/ui-ticket-mcp_public,,"Human-to-AI code review bridge. Review UI in the browser, AI agents fix code via MCP."
+2026-09-28T12:32:36.528045Z,io.github.alordincans/rankdelta,,0.3.1,https://github.com/rankdelta/rankdelta,streamable-http,"Open-source AI SEO over MCP: audits, ranks, keywords, backlinks + AI visibility (GEO)."
+2026-09-28T12:36:09.129753Z,io.github.tufantunc/ssh-mcp,SSH — policy-gated remote access,2.14.0,https://github.com/tufantunc/ssh-mcp,,"Policy-gated, audited SSH for Linux and Windows hosts: roles, approvals, and an audit log."
+2026-09-28T12:36:44.749232Z,com.99datarooms/mcp,99 Data Rooms,1.0.0,,streamable-http,"Read-only facts about 99 Data Rooms, a UK virtual data room: docs, glossary, pricing, use cases."
+2026-09-28T12:36:58.481267Z,io.github.SemanticDataCharter/sdcgovernance,,4.2.4,https://github.com/SemanticDataCharter/sdcgovernance,,Governance validation for Semantic Data Charter instances; returns OASIS XACML decisions.
+2026-09-28T12:38:48.883702Z,io.github.freepik-company/jev-mcp,Jev MCP,0.3.1,https://github.com/freepik-company/jev-mcp,,"Typed decisions with Jev / System One via OpenRouter or TypeSafe: classify, verify, rerank, decide."
+2026-09-28T12:38:54.618828Z,com.fluidrecall/mcp,Fluid Recall,1.0.0,,streamable-http,Agent-native spaced-recall system of record. Deterministic dueAt via remote MCP for Muse/any agent.
+2026-09-28T12:39:32.589676Z,io.github.SAP/fiori-mcp-server,,1.14.0,https://github.com/SAP/open-ux-tools,,SAP Fiori - Model Context Protocol (MCP) server
+2026-09-28T12:42:44.096506Z,org.fastfibre/fiber-check,Fast Fibre: fiber internet check,1.0.0,,streamable-http,"Check if fiber internet reaches a home in Hinesville & Midway, GA, and request a specialist's call."
+2026-09-28T12:44:26.59253Z,com.supasaito/supasaito,Supasaito,4.0.0,,streamable-http,See and change how AI assistants describe your brand — AI representation management.
+2026-09-28T12:48:52.158997Z,art.maddegen.agent/synapse,MAD Synapse,2.1.0,,streamable-http,"Solana + pump.fun intel for agents: launch verdicts, token risk, dev/wallet records, smart money."
+2026-09-28T12:48:52.802035Z,art.maddegen.agent/synapse-pump,MAD Synapse · Pump & LP,2.1.0,,streamable-http,"Every pump.fun curve trade since 09-11: tape, launches, forensics, devs, odds + Meteora DLMM pools."
+2026-09-28T12:48:53.351267Z,art.maddegen.agent/synapse-risk,MAD Synapse · Wallets & Risk,2.1.0,,streamable-http,"Pre-trade safety + wallets: Solana/EVM token risk, honeypots, counterparties, balances, txs, CVEs."
+2026-09-28T12:48:53.777797Z,art.maddegen.agent/synapse-chain,MAD Synapse · Chain,2.1.0,,streamable-http,"Cross-chain markets: prices, DeFi TVL, yields, stablecoins, gas, order books, perps funding."
+2026-09-28T12:48:54.06045Z,art.maddegen.agent/synapse-web,MAD Synapse · Web & Research,2.1.0,,streamable-http,"Read the web (page text, DNS, WHOIS, TLS, uptime) + research (Wikipedia, arXiv, GitHub, packages)."
+2026-09-28T12:48:54.329103Z,art.maddegen.agent/synapse-world,MAD Synapse · World,2.1.0,,streamable-http,"Weather, geocoding, FX rates, holidays, time zones, countries, earthquakes, sun and moon."
+2026-09-28T12:48:54.560152Z,art.maddegen.agent/synapse-util,MAD Synapse · Utils,2.1.0,,streamable-http,"Exact local utils: QR, hashing/encoding, JSON Schema, cron, markdown, diff, units, JWT, random."
+2026-09-28T12:49:41.772779Z,io.github.Bitfloo/mailoo,,0.1.6,https://github.com/Bitfloo/mailoo.git,,"Mailoo — email MCP server for IMAP, SMTP, and ManageSieve. Multi-account, per-folder profiles."
+2026-09-28T12:51:06.079431Z,dev.lastseen/score,lastseen score,1.0.1,,streamable-http,"Trust scores and dated liveness/drift facts for MCP servers, from the lastseen.dev notary register."
+2026-09-28T12:52:47.891269Z,io.getunleash/unleash-mcp,,0.5.0-beta.0,https://github.com/Unleash/unleash-mcp,,MCP server for managing Unleash feature flags
+2026-09-28T12:55:41.950127Z,io.ecliptical/voipms-mcp,VoIP.ms,0.13.2,,streamable-http,"Manage phone numbers, SMS/MMS, voicemail, faxing, and call routing for your VoIP.ms account."
+2026-09-28T12:55:45.65359Z,io.github.soke1556/zas-agent,Zas,0.10.0,https://github.com/soke1556/zas-agent,,"Move files and notes between a coding agent and your Zas channels, encrypted here or via Directo."
+2026-09-28T12:58:39.776555Z,com.ugcpocket/ugc-pocket,UGC Pocket,1.3.0,,streamable-http,Promote your app or software with UGC creator videos on TikTok and Instagram. No API key.
+2026-09-28T12:59:13.10047Z,dev.adrkit/mcp,adrkit decision memory,0.15.0,https://github.com/mbeacom/adrkit,,"Deterministic, offline, read-only ADR decision memory for coding agents. No model or network calls."
+2026-09-28T12:59:14.492988Z,com.polyxd/mcp,Polyxd,0.3.0,https://github.com/visualfart/polyxd,streamable-http,"Write Polyxd UI documents, check them, and show them as real screens in any design-system pack."
+2026-09-28T12:59:22.282654Z,io.github.nirajagarwal/bible-mcp,,0.13.0,https://github.com/nirajagarwal/bible-mcp,streamable-http,"Bible corpus MCP server: scripture, Greek/Hebrew interlinear data, cross-refs, semantic search."
+2026-09-28T13:00:00.833219Z,com.cogram/project,Cogram Project,1.0.1,,streamable-http,"Read-only access to Cogram projects, meetings, email, RFIs and drawings for architects and engineers"
+2026-09-28T13:00:30.883338Z,nl.digi-data/digidata,DigiData,1.0.0,,streamable-http,"Read-only business data from Exact Online, Twinfield, AFAS and 30+ sources for your AI."
+2026-09-28T13:00:48.850234Z,io.github.Zelinqa/zelinqa-mcp,Zelinqa MCP,1.0.0,https://github.com/Zelinqa/zelinqa-mcp,,Goal-oriented conversations and next-question selection through the Zelinqa API.
+2026-09-28T13:03:42.648458Z,io.github.ynnickw/applaunchflow,AppLaunchFlow,0.7.6,https://github.com/ynnickw/applaunchflow-mcp,streamable-http,"Create app-store screenshots, social graphics, promo videos, and animated device mockups."
+2026-09-28T13:03:44.739624Z,cloud.eresourcescheduler.app/eresource-scheduler,eResource Scheduler,1.0.0,https://github.com/enbraun-org/eRS-MCP,streamable-http,Enterprise resource scheduling for optimal utilization and higher margins.
+2026-09-28T13:09:53.402938Z,io.github.kumoproductions/mcp-aftereffects,,0.3.0,https://github.com/kumoproductions/mcp-aftereffects,,"MCP server for Adobe After Effects — comp/layer introspection, undo-grouped ops, frame rendering."
+2026-09-28T13:09:56.355605Z,online.mcptask/mcptask,mcptask.online,1.0.0,,streamable-http,"Task management for people and autonomous AI developers: tasks, stories, work logs, pull requests."
+2026-09-28T13:10:01.705025Z,online.mcp4mail/mcp4mail,mcp4mail,1.0.0,https://github.com/jchsoft/mcp4mail,streamable-http,"Your IMAP mailbox as an MCP server: read, search and (if you allow it) organize mail. Open source."
+2026-09-28T13:11:46.525241Z,io.github.d00mus/mcp-ssh-gateway,MCP SSH Gateway,6.0.1,https://github.com/d00mus/MCP-SSH,,"One MCP server for a whole SSH fleet: persistent sessions, honest exit status, pager-aware output."
+2026-09-28T13:14:00.270845Z,io.github.havilandsoftware/mcp-server-innoday,InnoDay,0.1.372-beta,,,"Unified ticketing MCP server for Jira, Linear, Trello, Notion, and GitHub Issues."
+2026-09-28T13:14:24.710444Z,io.github.drhelius/gearboy,Gearboy MCP Server,3.8.16,https://github.com/drhelius/gearboy,,MCP server for Gearboy Nintendo Game Boy / Game Boy Color emulator
+2026-09-28T13:15:26.487667Z,io.github.svayatta/agent-custody,agent-custody,0.6.15,https://github.com/svayatta/agent-custody,,"MCP gateway that checks each agent tool call against a signed grant and policy, and signs a receipt"
+2026-09-28T13:15:55.681386Z,io.github.prismcrawl/prismcrawl,,1.0.3,https://github.com/prismcrawl/prismcrawl-mcp,streamable-http,"Live Google, Bing, Amazon, Maps, Yelp & app store data. As low as $0.15/1K successes; failures free."
+2026-09-28T13:16:38.882834Z,com.easymcpai/easy-mcp-ai-wordpress,"Easy MCP AI — Connector for Claude, ChatGPT & SEO Data",2.0.0,,streamable-http,"Connect any AI to WordPress — content, media, SEO, WooCommerce, GA4, Search Console. 242 tools."
+2026-09-28T13:17:33.851109Z,io.github.miisodev/brainllm,,12.6.0,https://github.com/miisodev/BrainLLM,,Persistent graph-structured memory for LLMs in TriliumNext Notes — readable and editable by humans.
+2026-09-28T13:20:00.768232Z,ai.rillsoft/rillsoft-project,Rillsoft Project,10.0.0,https://github.com/rillsoft/rillsoft-project-mcp,,"MCP server built into Rillsoft Project 10 for multi-project resource planning (local, Windows)"
+2026-09-28T13:20:30.589012Z,io.github.con-scribe/penny-press,Penny Press,1.0.0,,streamable-http,Short essays and fragments. Free for humans; machines pay pennies per read via x402.
+2026-09-28T13:22:58.671797Z,me.stabledrop/escrow-payments,Stabledrop escrow payments,4.0.2,https://github.com/conduit-ucpi/ap2service,streamable-http,"Stablecoin escrow payments the buyer can dispute, with a signed receipt. Pay a wallet or an email."
