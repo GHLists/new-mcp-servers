@@ -1,0 +1,36 @@
+created_at,server,title,version,repository,transports,description
+2026-09-28T04:19:28.047121Z,io.github.HorizunGroup/horizun-msproject-mcp,Microsoft Project,1.3.0,https://github.com/HorizunGroup/horizun-msproject-mcp,,"Audit, reschedule and author Microsoft Project schedules. No Java, no Project install."
+2026-09-28T04:20:05.905792Z,io.github.RogueAlg0/taken,taken,0.7.3,https://github.com/RogueAlg0/taken,,Check if a GitHub issue is taken before volunteering for it.
+2026-09-28T04:20:57.036846Z,com.picsart.api/gen-ai,Picsart GenAI,2.0.7,,streamable-http,"Generate and edit images, videos, and audio with 150+ models from 20+ vendors."
+2026-09-28T04:26:16.657086Z,io.github.jmshinhwa/dienstanweisung-bewachung-lint,,1.0.1,https://github.com/jmshinhwa/readystack-themes,,"Pflichtinhalte nach § 17, 18, 20 BewachV und § 34a Abs. 1a GewO"
+2026-09-28T04:27:57.862549Z,io.github.jmshinhwa/dividenden-quellensteuer-lint,,1.0.1,https://github.com/jmshinhwa/readystack-themes,,Ausländische Dividenden versteuern ohne Überhang: Die Beispiel CSV mit 10 Dividenden ergibt 8 Findin
+2026-09-28T04:28:30.289601Z,com.bazous/bazous,Bazous,1.0.0,,streamable-http,"Household cash-flow answers before payday: what's due, how low the balance goes, the best move."
+2026-09-28T04:29:37.212219Z,ai.councilof/gspc,Council of AI GSPC,1.4.3,,streamable-http,Dated AI measurements and signed evidence over MCP. Free verification; never certification.
+2026-09-28T04:38:45.006911Z,dev.toll402/toll402-mcp,,0.4.0,https://github.com/toll402/toll402,,"Pay-per-call tools for agents: 2,600+ endpoints, verified business directory; x402 or card credits."
+2026-09-28T04:40:52.485281Z,io.github.jmshinhwa/mahnung-vorlagen-check-de,,1.0.1,https://github.com/jmshinhwa/readystack-themes,,"Widerspruch gegen den Mahnbescheid zwei Wochen (§ 692 Abs. 1 Nr. 3 ZPO), Einspruch gegen den Vollstr"
+2026-09-28T04:41:17.227084Z,land.fabrica/mcp,Fabrica,0.1.0,https://github.com/fabrica-land/fabrica-mcp,streamable-http,"Tokenized US land on Ethereum: property search, valuations, loans, portfolios, parcel maps."
+2026-09-28T04:41:17.791627Z,land.fabrica/mcp-testnet,Fabrica (Sepolia testnet),0.1.0,https://github.com/fabrica-land/fabrica-mcp,streamable-http,Fabrica test properties on Sepolia: try every Fabrica tool with no real-world effect.
+2026-09-28T04:42:43.114883Z,dev.spacesheep/mcp,spacesheep,1.0.0,,streamable-http,"Publish pages your agent writes to a private, shareable URL, then read, comment on and update them."
+2026-09-28T04:43:47.612671Z,com.qumge/skills,Qumge: Agent Capabilities & Skills,1.2.0,,streamable-http,"Find, call and pay per call: the capability layer for agents, plus skills. One key or OAuth."
+2026-09-28T04:46:31.542641Z,io.github.docsagent/docsagent,DocsAgent — Zotero MCP Server,5.0.0,https://github.com/docsagent/docsagent,,"Give AI agents instant, private access to your personal knowledge base. First source: Zotero."
+2026-09-28T04:49:13.660957Z,io.github.sbanthia92/fpl-context-mcp,FPL Context,0.6.3,https://github.com/sbanthia92/fpl-context-mcp,,Fantasy Premier League stats (SQL) and BBC/Guardian press and injury news search for AI agents.
+2026-09-28T04:50:55.868146Z,com.brianbooms/quiet-menders,Quiet Menders,1.3.0,https://github.com/brianbooms/quiet-menders,streamable-http; streamable-http,Privacy clinic + pay-per-call data APIs for AI agents via x402. Never pays or touches keys.
+2026-09-28T04:51:16.332135Z,io.pulldata/pulldata,Pulldata,1.0.0,,sse,"Discover and run Pulldata scrapers, track jobs, and retrieve results from your AI client."
+2026-09-28T04:52:28.604947Z,io.github.crisnahine/rails-ai-context,Rails AI Context,5.30.0,https://github.com/crisnahine/rails-ai-context,,"45 MCP tools give AI agents live Rails schema, routes, models, and conventions."
+2026-09-28T04:52:41.70042Z,tech.tailor/mcp,Tailor,2026.09.28-0,,streamable-http,"Tailor Platform for AI assistants: search, list and read the platform documentation."
+2026-09-28T04:59:08.142134Z,io.github.unbrowse-ai/sites,Unbrowse sites: one website's tools per server,1.0.0,https://github.com/unbrowse-ai/sites,streamable-http,"One website's first-party API as MCP tools, e.g. airbnb.com. Thousands of sites indexed."
+2026-09-28T05:01:49.156764Z,io.github.Z-Han-Z/apple-music-playlists,Apple Music Playlist Curator,1.5.0,https://github.com/Z-Han-Z/apple-music-playlists,,"Deep Apple Music curation: language-led selection, catalog grounding, and thoughtful listening flow."
+2026-09-28T05:09:35.055618Z,io.github.thyn-ai/codna,Codna — repository intelligence,0.2.90,https://github.com/thyn-ai/codna-cli,,"Repo intelligence: triage, fix PRs, SARIF reachability, recall. Free codna login to execute."
+2026-09-28T05:10:58.460952Z,io.github.chrischall/vibo-mcp,,2.4.0,https://github.com/chrischall/vibo-mcp,,"Vibo (vibodj.com) MCP — plan & manage event music: timeline, songs, ideas, questions, guests"
+2026-09-28T05:11:29.227896Z,io.github.chrischall/ofw-mcp,,2.19.5,https://github.com/chrischall/ofw-mcp,,"OurFamilyWizard co-parenting for Claude — messages, calendar, expenses, and journal"
+2026-09-28T05:12:26.525357Z,com.evidentagents/reviews,Evident Reviews,0.3.0,,streamable-http,Consumer-authorized reviews with private evidence and explicit verification levels.
+2026-09-28T05:17:36.213137Z,tech.dataporium/mcp,DataPorium,1.0.0,,streamable-http,"Stock, ETF, crypto, forex, economic and US housing market data by ZIP code for AI assistants."
+2026-09-28T05:18:09.172113Z,io.github.chrischall/gogcli-mcp,,4.5.2,https://github.com/chrischall/gogcli-mcp,,"Google Sheets (and more) for Claude via gogcli — read, write, and manage spreadsheets"
+2026-09-28T05:18:12.174116Z,io.github.chrischall/gogcli-mcp-classroom,,4.5.2,https://github.com/chrischall/gogcli-mcp,,"Google Classroom via gogcli for Claude — courses, assignments, submissions, grading"
+2026-09-28T05:18:14.114189Z,io.github.chrischall/gogcli-mcp-docs,,4.5.2,https://github.com/chrischall/gogcli-mcp,,Extended Google Docs for Claude via gogcli — auth + full Docs and comments support
+2026-09-28T05:18:18.295667Z,io.github.chrischall/gogcli-mcp-drive,,4.5.2,https://github.com/chrischall/gogcli-mcp,,"Google Drive via gogcli for Claude — search, upload, download, permissions"
+2026-09-28T05:18:20.143454Z,io.github.chrischall/gogcli-mcp-sheets,,4.5.2,https://github.com/chrischall/gogcli-mcp,,Extended Google Sheets for Claude via gogcli — auth + full Sheets support
+2026-09-28T05:18:21.267659Z,io.github.chrischall/gogcli-mcp-slides,,4.5.2,https://github.com/chrischall/gogcli-mcp,,Google Slides via gogcli for Claude — deck and slide authoring
+2026-09-28T05:18:39.176375Z,io.github.Arbromagency-Sato/phantom-mcp-server,,0.1.3,https://github.com/Arbromagency-Sato/phantom-id,,PHANTOM ID MCP payment server: agent-to-agent USDC payments on Base.
+2026-09-28T05:21:36.165432Z,com.securessmtp/securessmtp,,1.0.0,https://github.com/zainsaeed615/securessmtp-mcp,streamable-http,"Send email, manage sending domains, and read delivery analytics from your SecureSMTP account."
+2026-09-28T05:21:54.603199Z,io.github.jink9428-source/smartdocs-mcp,,0.2.0,https://github.com/jink9428-source/smartdocs-mcp,streamable-http,Create Korean export invoice & packing list drafts via MCP (OAuth login)
