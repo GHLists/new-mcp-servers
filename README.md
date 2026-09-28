@@ -9,69 +9,81 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 13:23 UTC
+## Latest list — 2026-09-28 14:23 UTC
 
-New MCP servers published between 2026-09-28 12:21 UTC and 2026-09-28 13:23 UTC.
+New MCP servers published between 2026-09-28 13:23 UTC and 2026-09-28 14:23 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-28T13-23-08-308143Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-28T14-23-56-260358Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-28 12:23:39 | com.kindoflost.routing/fleet-route-optimizer | Fleet Route Optimizer | 1.0.0 | Splits deliveries across vehicles and orders each route: time windows, capaciti… |
-| 2026-09-28 12:24:02 | [io.github.giancarloerra/socraticode](https://github.com/giancarloerra/socraticode) |  | 1.16.0 | MCP server for enterprise local codebase indexing, semantic search, and code de… |
-| 2026-09-28 12:26:14 | jp.yomitasu/companydata-tsujigawa-com | 全国企業データベース-プレスリリース配信サービス | 1.0.1 | 新商品ができた。お店が開いた。（companydata.tsujigawa.com の内容を検索して答える。ヨミタス経由） |
-| 2026-09-28 12:27:58 | [ai.ludo/game-assets](https://github.com/Ludo-AI/ludo-mcp) | Ludo AI Game Assets | 0.15.0 | Generate game assets with AI: sprites, animations, 3D models with rigging, vide… |
-| 2026-09-28 12:28:13 | [io.github.EduBase/MCP](https://github.com/EduBase/MCP) |  | 2.0.2 | EduBase MCP server |
-| 2026-09-28 12:28:49 | com.maximofn/content | MaximoFN Content | 1.0.0 | Read-only search over the AI/ML posts, tips and projects of maximofn.com (es/en… |
-| 2026-09-28 12:29:12 | app.divekit/mcp | Dive Kit | 0.4.2 | Plan scuba decompression dives, gas blends and gas use with Dive Kit's Bühlmann… |
-| 2026-09-28 12:30:26 | today.nyangi/oneul-nyangi | 오늘냥이 (Oneul Nyangi) | 0.3.0 | Real cat photos from 오늘냥이 (nyangi.today), a Korean cat diary, shown as an in-ch… |
-| 2026-09-28 12:31:03 | io.github.KalraAI/assistant-gym | Assistant Gym | 0.8.0 | Training gym where AI assistants practice real tasks and earn signed, verifiabl… |
-| 2026-09-28 12:31:39 | [io.github.rezmeplxrf/insightsentry_mcp](https://github.com/rezmeplxrf/insight_mcp) |  | 1.4.46 | MCP server for InsightSentry financial data API - market data, options, screene… |
-| 2026-09-28 12:32:04 | com.dominickprevete/instant-term-sheet | Dominick Prevete: Instant Term Sheet | 1.0.0 | Written term sheets for 1–4 unit DSCR investment property loans, by email. Busi… |
-| 2026-09-28 12:32:35 | [io.github.0ics-srls/ui-ticket-mcp](https://github.com/0ics-srls/ui-ticket-mcp_public) | ui-ticket-mcp | 1.6.1 | Human-to-AI code review bridge. Review UI in the browser, AI agents fix code vi… |
-| 2026-09-28 12:32:36 | [io.github.alordincans/rankdelta](https://github.com/rankdelta/rankdelta) |  | 0.3.1 | Open-source AI SEO over MCP: audits, ranks, keywords, backlinks + AI visibility… |
-| 2026-09-28 12:36:09 | [io.github.tufantunc/ssh-mcp](https://github.com/tufantunc/ssh-mcp) | SSH — policy-gated remote access | 2.14.0 | Policy-gated, audited SSH for Linux and Windows hosts: roles, approvals, and an… |
-| 2026-09-28 12:36:44 | com.99datarooms/mcp | 99 Data Rooms | 1.0.0 | Read-only facts about 99 Data Rooms, a UK virtual data room: docs, glossary, pr… |
-| 2026-09-28 12:36:58 | [io.github.SemanticDataCharter/sdcgovernance](https://github.com/SemanticDataCharter/sdcgovernance) |  | 4.2.4 | Governance validation for Semantic Data Charter instances; returns OASIS XACML… |
-| 2026-09-28 12:38:48 | [io.github.freepik-company/jev-mcp](https://github.com/freepik-company/jev-mcp) | Jev MCP | 0.3.1 | Typed decisions with Jev / System One via OpenRouter or TypeSafe: classify, ver… |
-| 2026-09-28 12:38:54 | com.fluidrecall/mcp | Fluid Recall | 1.0.0 | Agent-native spaced-recall system of record. Deterministic dueAt via remote MCP… |
-| 2026-09-28 12:39:32 | [io.github.SAP/fiori-mcp-server](https://github.com/SAP/open-ux-tools) |  | 1.14.0 | SAP Fiori - Model Context Protocol (MCP) server |
-| 2026-09-28 12:42:44 | org.fastfibre/fiber-check | Fast Fibre: fiber internet check | 1.0.0 | Check if fiber internet reaches a home in Hinesville & Midway, GA, and request… |
-| 2026-09-28 12:44:26 | com.supasaito/supasaito | Supasaito | 4.0.0 | See and change how AI assistants describe your brand — AI representation manage… |
-| 2026-09-28 12:48:52 | art.maddegen.agent/synapse | MAD Synapse | 2.1.0 | Solana + pump.fun intel for agents: launch verdicts, token risk, dev/wallet rec… |
-| 2026-09-28 12:48:52 | art.maddegen.agent/synapse-pump | MAD Synapse · Pump & LP | 2.1.0 | Every pump.fun curve trade since 09-11: tape, launches, forensics, devs, odds +… |
-| 2026-09-28 12:48:53 | art.maddegen.agent/synapse-risk | MAD Synapse · Wallets & Risk | 2.1.0 | Pre-trade safety + wallets: Solana/EVM token risk, honeypots, counterparties, b… |
-| 2026-09-28 12:48:53 | art.maddegen.agent/synapse-chain | MAD Synapse · Chain | 2.1.0 | Cross-chain markets: prices, DeFi TVL, yields, stablecoins, gas, order books, p… |
-| 2026-09-28 12:48:54 | art.maddegen.agent/synapse-web | MAD Synapse · Web & Research | 2.1.0 | Read the web (page text, DNS, WHOIS, TLS, uptime) + research (Wikipedia, arXiv,… |
-| 2026-09-28 12:48:54 | art.maddegen.agent/synapse-world | MAD Synapse · World | 2.1.0 | Weather, geocoding, FX rates, holidays, time zones, countries, earthquakes, sun… |
-| 2026-09-28 12:48:54 | art.maddegen.agent/synapse-util | MAD Synapse · Utils | 2.1.0 | Exact local utils: QR, hashing/encoding, JSON Schema, cron, markdown, diff, uni… |
-| 2026-09-28 12:49:41 | [io.github.Bitfloo/mailoo](https://github.com/Bitfloo/mailoo.git) |  | 0.1.6 | Mailoo — email MCP server for IMAP, SMTP, and ManageSieve. Multi-account, per-f… |
-| 2026-09-28 12:51:06 | dev.lastseen/score | lastseen score | 1.0.1 | Trust scores and dated liveness/drift facts for MCP servers, from the lastseen.… |
-| 2026-09-28 12:52:47 | [io.getunleash/unleash-mcp](https://github.com/Unleash/unleash-mcp) |  | 0.5.0-beta.0 | MCP server for managing Unleash feature flags |
-| 2026-09-28 12:55:41 | io.ecliptical/voipms-mcp | VoIP.ms | 0.13.2 | Manage phone numbers, SMS/MMS, voicemail, faxing, and call routing for your VoI… |
-| 2026-09-28 12:55:45 | [io.github.soke1556/zas-agent](https://github.com/soke1556/zas-agent) | Zas | 0.10.0 | Move files and notes between a coding agent and your Zas channels, encrypted he… |
-| 2026-09-28 12:58:39 | com.ugcpocket/ugc-pocket | UGC Pocket | 1.3.0 | Promote your app or software with UGC creator videos on TikTok and Instagram. N… |
-| 2026-09-28 12:59:13 | [dev.adrkit/mcp](https://github.com/mbeacom/adrkit) | adrkit decision memory | 0.15.0 | Deterministic, offline, read-only ADR decision memory for coding agents. No mod… |
-| 2026-09-28 12:59:14 | [com.polyxd/mcp](https://github.com/visualfart/polyxd) | Polyxd | 0.3.0 | Write Polyxd UI documents, check them, and show them as real screens in any des… |
-| 2026-09-28 12:59:22 | [io.github.nirajagarwal/bible-mcp](https://github.com/nirajagarwal/bible-mcp) |  | 0.13.0 | Bible corpus MCP server: scripture, Greek/Hebrew interlinear data, cross-refs,… |
-| 2026-09-28 13:00:00 | com.cogram/project | Cogram Project | 1.0.1 | Read-only access to Cogram projects, meetings, email, RFIs and drawings for arc… |
-| 2026-09-28 13:00:30 | nl.digi-data/digidata | DigiData | 1.0.0 | Read-only business data from Exact Online, Twinfield, AFAS and 30+ sources for… |
-| 2026-09-28 13:00:48 | [io.github.Zelinqa/zelinqa-mcp](https://github.com/Zelinqa/zelinqa-mcp) | Zelinqa MCP | 1.0.0 | Goal-oriented conversations and next-question selection through the Zelinqa API. |
-| 2026-09-28 13:03:42 | [io.github.ynnickw/applaunchflow](https://github.com/ynnickw/applaunchflow-mcp) | AppLaunchFlow | 0.7.6 | Create app-store screenshots, social graphics, promo videos, and animated devic… |
-| 2026-09-28 13:03:44 | [cloud.eresourcescheduler.app/eresource-scheduler](https://github.com/enbraun-org/eRS-MCP) | eResource Scheduler | 1.0.0 | Enterprise resource scheduling for optimal utilization and higher margins. |
-| 2026-09-28 13:09:53 | [io.github.kumoproductions/mcp-aftereffects](https://github.com/kumoproductions/mcp-aftereffects) |  | 0.3.0 | MCP server for Adobe After Effects — comp/layer introspection, undo-grouped ops… |
-| 2026-09-28 13:09:56 | online.mcptask/mcptask | mcptask.online | 1.0.0 | Task management for people and autonomous AI developers: tasks, stories, work l… |
-| 2026-09-28 13:10:01 | [online.mcp4mail/mcp4mail](https://github.com/jchsoft/mcp4mail) | mcp4mail | 1.0.0 | Your IMAP mailbox as an MCP server: read, search and (if you allow it) organize… |
-| 2026-09-28 13:11:46 | [io.github.d00mus/mcp-ssh-gateway](https://github.com/d00mus/MCP-SSH) | MCP SSH Gateway | 6.0.1 | One MCP server for a whole SSH fleet: persistent sessions, honest exit status,… |
-| 2026-09-28 13:14:00 | io.github.havilandsoftware/mcp-server-innoday | InnoDay | 0.1.372-beta | Unified ticketing MCP server for Jira, Linear, Trello, Notion, and GitHub Issue… |
-| 2026-09-28 13:14:24 | [io.github.drhelius/gearboy](https://github.com/drhelius/gearboy) | Gearboy MCP Server | 3.8.16 | MCP server for Gearboy Nintendo Game Boy / Game Boy Color emulator |
-| 2026-09-28 13:15:26 | [io.github.svayatta/agent-custody](https://github.com/svayatta/agent-custody) | agent-custody | 0.6.15 | MCP gateway that checks each agent tool call against a signed grant and policy,… |
-| 2026-09-28 13:15:55 | [io.github.prismcrawl/prismcrawl](https://github.com/prismcrawl/prismcrawl-mcp) |  | 1.0.3 | Live Google, Bing, Amazon, Maps, Yelp & app store data. As low as $0.15/1K succ… |
-| 2026-09-28 13:16:38 | com.easymcpai/easy-mcp-ai-wordpress | Easy MCP AI — Connector for Claude, Cha… | 2.0.0 | Connect any AI to WordPress — content, media, SEO, WooCommerce, GA4, Search Con… |
-| 2026-09-28 13:17:33 | [io.github.miisodev/brainllm](https://github.com/miisodev/BrainLLM) |  | 12.6.0 | Persistent graph-structured memory for LLMs in TriliumNext Notes — readable and… |
-| 2026-09-28 13:20:00 | [ai.rillsoft/rillsoft-project](https://github.com/rillsoft/rillsoft-project-mcp) | Rillsoft Project | 10.0.0 | MCP server built into Rillsoft Project 10 for multi-project resource planning (… |
-| 2026-09-28 13:20:30 | io.github.con-scribe/penny-press | Penny Press | 1.0.0 | Short essays and fragments. Free for humans; machines pay pennies per read via… |
-| 2026-09-28 13:22:58 | [me.stabledrop/escrow-payments](https://github.com/conduit-ucpi/ap2service) | Stabledrop escrow payments | 4.0.2 | Stablecoin escrow payments the buyer can dispute, with a signed receipt. Pay a… |
+| 2026-09-28 13:26:09 | [io.github.pressa-dev/pressa](https://github.com/pressa-dev/mcp) | Pressa - LaTeX to PDF | 0.8.0 | Compile LaTeX to PDF without installing TeX Live. No API key needed to start. |
+| 2026-09-28 13:27:26 | [io.github.MongLong0214/logic-pro-mcp](https://github.com/MongLong0214/logic-pro-mcp) | Logic Pro MCP | 3.18.0 | Logic Pro MCP server for stateful DAW control, live readback, MIDI, plugins, an… |
+| 2026-09-28 13:29:05 | [io.github.thalovant/thalovant-mcp](https://github.com/thalovant/thalovant-mcp) | Thalovant MCP | 0.6.0 | Connect MCP clients to Thalovant control-plane and hub runtime APIs over stdio… |
+| 2026-09-28 13:30:02 | [io.github.joeyaflores/ourpr-mcp-server](https://github.com/joeyaflores/ourpr-mcp-server) |  | 0.4.1 | Read your own ourpr running history in an AI agent, and put a plan on the week… |
+| 2026-09-28 13:30:48 | [io.github.ivanlai/primer-mcp](https://github.com/ivanlai/primer-mcp) |  | 0.1.5 | A Jira-lite MCP server that guides planning-first workflows for AI-assisted dev… |
+| 2026-09-28 13:33:46 | ai.shorti/shorti | Shorti | 1.1.0 | What short-form formats to shoot this week, how their hits were made, and a che… |
+| 2026-09-28 13:38:17 | [io.github.zereight/gitlab-mcp](https://github.com/zereight/gitlab-mcp) |  | 2.1.67 | GitLab MCP server for projects, merge requests, issues, pipelines, wiki, releas… |
+| 2026-09-28 13:39:50 | [app.sallim/contract-compass](https://github.com/sallim-app/contract-compass) |  | 1.35.1 | Korean public procurement law: rule-engine rulings, statutes search, live court… |
+| 2026-09-28 13:40:00 | com.selfstorming/selfstorming | Selfstorming | 1.0.0 | Curated marketing libraries and ideation for your AI: 1,800+ award-winning camp… |
+| 2026-09-28 13:41:13 | [io.github.victorgulchenko/mimiq-mcp](https://github.com/victorgulchenko/mimiq-mcp.git) | Mimiq: test pages and sign-up flows on… | 0.4.1 | Simulated people test your pages, copy and sign-up flows, and say why they woul… |
+| 2026-09-28 13:41:56 | [io.github.rodvan/viralhunt-mcp](https://github.com/viralhunt-io/viralhunt-mcp) |  | 0.3.0 | Trending content on 12 networks, best time, hashtags, templates, drafts and rev… |
+| 2026-09-28 13:42:41 | [io.mcprating/gateway](https://github.com/mcprating/mcp-gateway) |  | 0.2.4 | Find MCP servers in the MCP Rating index and connect on demand, with env vars s… |
+| 2026-09-28 13:43:37 | com.sigoseguros/auto-quote | Sigo Seguros car insurance quotes | 1.24.0 | Non-binding car insurance estimates from Sigo Seguros, a licensed agency, not a… |
+| 2026-09-28 13:46:40 | nl.sportpoeder/agent |  | 1.2.0 | Supplement prices, price history, SupplementScore, verified discount codes, UCP… |
+| 2026-09-28 13:47:26 | [io.github.offx366/ibangen-mcp](https://github.com/offx366/ibangen-mcp) |  | 0.1.1 | Validate IBANs, generate synthetic test IBANs and look up banks (SWIFT/BIC) via… |
+| 2026-09-28 13:47:42 | dev.pagehub/mcp | PageHub | 1.0.0 | Build, edit and publish websites on PageHub: pages, blocks, themes, collections… |
+| 2026-09-28 13:51:18 | [io.github.Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) | Martin Loop | 0.6.9 | One system around coding agents to run, verify, recover, and hand off software… |
+| 2026-09-28 13:52:47 | [com.growingupvideo/growingupvideo](https://github.com/GrowingUpVideo/growingupvideo-mcp) | GrowingUpVideo | 1.0.1 | Turn photos of a person, couple, or pet across the years into an AI growing-up… |
+| 2026-09-28 13:52:56 | [io.github.ggozad/haiku-rag](https://github.com/ggozad/haiku.rag) | haiku.rag | 0.90.0 | Local-first agentic RAG with citations - hybrid search, reranking, multimodal d… |
+| 2026-09-28 13:54:30 | [io.github.chrischall/angi-mcp](https://github.com/chrischall/angi-mcp) |  | 1.0.3 | Angi for Claude — find home-service pros by trade and city, read ratings and re… |
+| 2026-09-28 13:54:55 | [io.github.chrischall/jobber-mcp](https://github.com/chrischall/jobber-mcp) |  | 1.0.3 | Read the Jobber Client Hub your service providers share: appointments, invoices… |
+| 2026-09-28 13:54:59 | [io.github.chrischall/hemnet-mcp](https://github.com/chrischall/hemnet-mcp) |  | 1.1.6 | Hemnet.se real estate for Claude: search, sold prices, listings & market stats |
+| 2026-09-28 13:55:01 | [io.github.chrischall/honeybook-mcp](https://github.com/chrischall/honeybook-mcp) |  | 1.2.2 | HoneyBook client-portal MCP — vendor contracts, invoices, messages, meetings an… |
+| 2026-09-28 13:55:03 | [io.github.chrischall/signupgenius-mcp](https://github.com/chrischall/signupgenius-mcp) |  | 2.1.5 | SignUpGenius for Claude — sign-ups, slots, groups, and RSVPs. Free accounts or… |
+| 2026-09-28 13:55:03 | [io.github.chrischall/groupon-mcp](https://github.com/chrischall/groupon-mcp) |  | 1.1.2 | Groupon deals for Claude — search and browse local, goods, and travel deals |
+| 2026-09-28 13:55:08 | [io.github.chrischall/tripadvisor-mcp](https://github.com/chrischall/tripadvisor-mcp) |  | 1.1.4 | TripAdvisor location search, details, photos, and reviews via the Terra API |
+| 2026-09-28 13:55:08 | [io.github.chrischall/alltrails-mcp](https://github.com/chrischall/alltrails-mcp) |  | 3.1.4 | Unofficial AllTrails MCP for Claude — search trails, get details, reviews, phot… |
+| 2026-09-28 13:55:11 | [io.github.chrischall/zillow-mcp](https://github.com/chrischall/zillow-mcp) |  | 1.1.4 | Zillow real-estate for Claude — search, property details, Zestimates, saved sea… |
+| 2026-09-28 13:55:12 | [io.github.chrischall/myatriumhealth-mcp](https://github.com/chrischall/myatriumhealth-mcp) |  | 1.3.2 | MyAtriumHealth (Epic MyChart) records via your signed-in browser tab |
+| 2026-09-28 13:55:15 | [io.github.chrischall/eventbrite-mcp](https://github.com/chrischall/eventbrite-mcp) |  | 1.1.4 | Eventbrite for Claude — your tickets/orders, organizer data, and public event d… |
+| 2026-09-28 13:55:20 | [io.github.chrischall/booli-mcp](https://github.com/chrischall/booli-mcp) |  | 2.1.4 | Booli.se real estate for Claude: search listings, sold prices, areas & market s… |
+| 2026-09-28 13:55:22 | [io.github.chrischall/microsoft-teams-mcp](https://github.com/chrischall/microsoft-teams-mcp) |  | 0.2.4 | Microsoft Teams for Claude — read your chats, teams, channels, and open message… |
+| 2026-09-28 13:55:27 | [io.github.chrischall/setlist-mcp](https://github.com/chrischall/setlist-mcp) |  | 1.1.4 | setlist.fm concert data for Claude — setlists, artists, venues, tours, and citi… |
+| 2026-09-28 13:55:27 | [io.github.chrischall/infinitecampus-mcp](https://github.com/chrischall/infinitecampus-mcp) |  | 3.1.5 | Infinite Campus (Campus Parent) for Claude — grades, attendance, assignments, m… |
+| 2026-09-28 13:55:27 | [io.github.chrischall/onehome-mcp](https://github.com/chrischall/onehome-mcp) |  | 1.1.4 | OneHome (CoreLogic) real-estate access for Claude — search, property details, p… |
+| 2026-09-28 13:55:34 | [io.github.chrischall/homes-mcp](https://github.com/chrischall/homes-mcp) |  | 2.1.6 | homes.com real-estate for Claude — search, property details, photos, compare, m… |
+| 2026-09-28 13:55:40 | top.jsnjlingdong/sports | 球云体育 Sports Data | 1.0.0 | Live scores, fixtures, standings, team profiles and news for 2000+ football and… |
+| 2026-09-28 13:55:41 | [io.github.chrischall/artsonia-mcp](https://github.com/chrischall/artsonia-mcp) |  | 1.2.2 | Parent/fan access to Artsonia student-art portfolios, comments, and fans (AI-bu… |
+| 2026-09-28 13:55:48 | [io.github.chrischall/redfin-mcp](https://github.com/chrischall/redfin-mcp) |  | 1.1.4 | Redfin real-estate for Claude — search, property details, market reports, saved… |
+| 2026-09-28 13:56:09 | [io.github.chrischall/etix-mcp](https://github.com/chrischall/etix-mcp) |  | 1.1.3 | Etix event discovery for Claude — search events, venues & performers and fetch… |
+| 2026-09-28 13:56:19 | [io.github.chrischall/creditkarma-mcp](https://github.com/chrischall/creditkarma-mcp) |  | 3.1.4 | Credit Karma transactions for Claude — spending by category, merchant, and acco… |
+| 2026-09-28 13:56:24 | [io.github.oaleviola/arroway](https://github.com/oaleviola/arroway-plugin) | Arroway | 0.1.36 | Shared memory for people and their AIs: read what was decided before acting, lo… |
+| 2026-09-28 13:56:24 | rs.heade/lookup | heade.rs | 1.0.0 | Look up any domain, IP address or AS number: hosting, DNS, registration, email,… |
+| 2026-09-28 13:56:51 | [io.github.chrischall/zola-mcp](https://github.com/chrischall/zola-mcp) |  | 2.1.5 | Zola wedding planning for Claude — vendors, budget, guests, seating, registry,… |
+| 2026-09-28 13:57:10 | [io.github.chrischall/musescore-mcp](https://github.com/chrischall/musescore-mcp) |  | 1.1.4 | MuseScore for Claude — search sheet music and read score metadata via your sign… |
+| 2026-09-28 13:57:20 | [io.github.chrischall/easytable-mcp](https://github.com/chrischall/easytable-mcp) |  | 1.2.1 | easyTable restaurant reservations for Claude — availability, and create/modify/… |
+| 2026-09-28 13:57:32 | [io.github.chrischall/opentable-mcp](https://github.com/chrischall/opentable-mcp) |  | 1.2.2 | OpenTable reservation management: find slots, book, cancel, list reservations,… |
+| 2026-09-28 13:57:40 | [io.github.chrischall/compass-mcp](https://github.com/chrischall/compass-mcp) |  | 1.1.5 | Compass real-estate for Claude — search, property details, photos, price histor… |
+| 2026-09-28 13:58:23 | [io.github.chrischall/canvas-parent-mcp](https://github.com/chrischall/canvas-parent-mcp) |  | 2.1.5 | Canvas LMS (Instructure) for Claude — courses, grades, assignments, planner, fi… |
+| 2026-09-28 13:58:31 | [io.github.chrischall/office-outlook-mcp](https://github.com/chrischall/office-outlook-mcp) |  | 0.3.2 | Outlook / Microsoft 365 for Claude — mail, calendar, contacts and tasks, with c… |
+| 2026-09-28 13:58:51 | [io.github.chrischall/evite-mcp](https://github.com/chrischall/evite-mcp) |  | 1.3.1 | Evite for Claude — list events, guest lists & RSVPs, RSVP, message guests, and… |
+| 2026-09-28 13:59:21 | [ai.ssid/ssid-mcp](https://github.com/Drumworks/ssid-mcp) |  | 0.4.0 | Manufacturer-cited router default logins and compliance check, plus MAC/OUI ven… |
+| 2026-09-28 13:59:50 | [io.github.chrischall/resy-mcp](https://github.com/chrischall/resy-mcp) |  | 1.2.2 | Resy reservation management — search, book, cancel, favorites, and Priority Not… |
+| 2026-09-28 13:59:53 | [io.github.chrischall/alphaportal-mcp](https://github.com/chrischall/alphaportal-mcp) |  | 1.1.2 | AlphaPortal school-bus transportation for Claude — students, stops, live bus lo… |
+| 2026-09-28 14:00:21 | [io.github.chrischall/workday-mcp](https://github.com/chrischall/workday-mcp) |  | 1.1.4 | Read-only Workday for Claude — fetch tasks, pay, benefits via your signed-in se… |
+| 2026-09-28 14:01:46 | [io.github.chrischall/remind-mcp](https://github.com/chrischall/remind-mcp) |  | 1.2.2 | Read Remind classes, chats and messages, and manage notification settings. |
+| 2026-09-28 14:02:50 | [io.github.vuluu2k/sbuilder-mcp](https://github.com/vuluu2k/sbuilder-mcp) | Store Builder | 0.71.0 | Design, fill with real store data, render and publish Store Builder pages from… |
+| 2026-09-28 14:05:04 | chat.smat/smat | SMAT | 1.0.0 | Create, schedule and publish Instagram and Facebook posts from Claude or ChatGP… |
+| 2026-09-28 14:05:44 | [io.github.khsarvar/siftdog](https://github.com/khsarvar/siftdog) | Siftdog | 0.3.0 | Self-hosted, Tavily-compatible web search, extract, crawl and map tools for AI… |
+| 2026-09-28 14:06:57 | [com.senzii/scheduling](https://github.com/Senzii-App/app) | Senzii Scheduling | 1.0.1 | Open-source staff scheduling: skills matching, shifts, certifications. Self-hos… |
+| 2026-09-28 14:06:58 | ee.iparts/catalogue | iParts Estonia Parts Catalogue | 0.9.0 | Read-only iParts Estonia auto parts catalogue: numbers, vehicles, categories, f… |
+| 2026-09-28 14:08:42 | [dev.zop/zopdev-mcp](https://github.com/zopdev/mcp) | ZopDev MCP | 1.5.0 | Cloud cost, inventory and governance on AWS/Azure/GCP. Read-only by default, op… |
+| 2026-09-28 14:13:33 | [ai.tokonomix/council](https://github.com/TokonoMix/tokonomix-council-mcp) | Tokonomix Council | 1.14.0 | Multi-model consensus: 2-6 frontier LLMs answer, an independent judge synthesis… |
+| 2026-09-28 14:17:32 | com.huddlekit/huddlekit | Huddlekit | 1.0.0 | Read client feedback left on your website, with its screenshot and page, then r… |
+| 2026-09-28 14:19:41 | net.fidren/counterparty | Fidren | 1.8.0 | Checks a counterparty before an AI agent pays: what the evidence supports, and… |
+| 2026-09-28 14:19:46 | [com.skeletiq/mcp](https://github.com/Sabhahith-Works/skeletiq-mcp) | SkeletIQ | 0.4.0 | Hand a released SkeletIQ architecture to a coding agent: brief, build order, dr… |
+| 2026-09-28 14:23:33 | wiki.dexio/dexio | Dexio | 1.0.0 | One wiki for all your agents: pages read and written over MCP, a link graph, an… |
 
 ## Data source
 
