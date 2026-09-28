@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-09-28T16:22:48.190065Z,io.github.treza-labs/treza,Treza,1.0.2,https://github.com/treza-labs/treza-plugin,streamable-http,"Build, run, schedule, and publish AI video pipelines to YouTube and TikTok from any MCP client."
+2026-09-28T16:26:42.883535Z,io.github.Justxd22/cheapchat,CheapChat,1.0.0,,streamable-http,"Manage Instagram and Facebook automations, conversations, templates, and analytics with AI."
+2026-09-28T16:26:48.150997Z,ai.peregrini/common-pleas,Court of Common Pleas (Peregrini),0.8.0,,streamable-http,A court for disputes between AI agents. Search and read its judgments free; enrol to file claims.
+2026-09-28T16:27:42.604888Z,app.mapledger/land-and-zoning,MapLedger,1.0.0,,streamable-http,"Zoning, homes per lot, short-term rentals, tax and flood for any property in Austin and Nashville."
+2026-09-28T16:27:50.767143Z,io.github.bytebase/dbhub,DBHub,1.4.0,https://github.com/bytebase/dbhub,,"Token-efficient database MCP server for PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, SQLite"
+2026-09-28T16:31:38.829949Z,io.github.igorolv/redmine-mcp-server,Redmine MCP Server,0.1.1,https://github.com/igorolv/redmine-mcp-server,,"Redmine for AI agents: issues, projects, wiki, attachments, time entries and release analytics"
+2026-09-28T16:32:26.133181Z,il.co.makore.www/makore,Makore — Events in Israel,1.0.0,,streamable-http,"Search upcoming public events in Israel by date, city, region or category. Read-only; no API key."
+2026-09-28T16:33:35.898231Z,com.versusbrief/versusbrief,Versusbrief,0.4.0,,streamable-http,"Read-only competitor ads, SEO, reviews and landing audit. No ad-account writes."
+2026-09-28T16:40:06.607514Z,ai.shreddy/shreddy,Shreddy,1.0.0,,streamable-http,"Measured mountain bike jumps and speeds at bike parks: public clips, read-only."
+2026-09-28T16:40:08.416476Z,ai.fenbs/fenbs,fenbs,0.1.0,,streamable-http,Project board where people and AI assistants are members with roles. Every change is signed.
+2026-09-28T16:40:16.920897Z,io.github.SatGate-io/satgate,SatGate – Economic Firewall for AI Agents,0.5.0,https://github.com/SatGate-io/satgate,sse,"Budget, payment and audit controls for AI agent API calls and MCP tool calls."
+2026-09-28T16:41:58.84882Z,io.github.whois-api-llc/mcp-whoisxmlapi,,1.8.7,https://github.com/whoisxmlapi/mcp-whoisxmlapi,,"32 WHOIS, DNS, IP, threat intelligence, email, and bulk tools for AI agents via WhoisXML API."
+2026-09-28T16:43:19.751766Z,io.github.lkopietz3-byte/honesty-mcp,honesty-mcp,0.1.0,https://github.com/lkopietz3-byte/honesty-mcp,,"MCP server exposing 11 honesty-SDK kits (grounding, trust, audit, corroboration) as agent tools."
+2026-09-28T16:45:41.282529Z,io.github.gregkozakiewicz/roast-my-design-system,Roast My Design System,9.1.1,https://github.com/gregkozakiewicz/roast-my-design-system,,Audit your Design System and serve your Agent the rules that keep AI-written UI on-system.
+2026-09-28T16:47:40.568564Z,io.github.cherninlab/ennodia,,0.4.1,https://github.com/cherninlab/ennodia,,Connects the AI agents you use: your agent hands a task to another and gets the answer back
+2026-09-28T16:50:54.53981Z,ai.hanria/check,,0.1.0,,streamable-http,"Check a proposed agent action against operator's rules: permit, deny or escalate, with the clause."
+2026-09-28T16:53:38.038645Z,io.github.Pillsoon/webrecipe,webrecipe,0.1.5,https://github.com/Pillsoon/webrecipe,,"Save how to read a public web page once, then fetch fresh items as JSON without a browser."
+2026-09-28T16:53:40.979637Z,io.github.Fanch-hui/codex-bridge,Codex Bridge,1.3.1,https://github.com/Fanch-hui/codex-bridge,,"Connect MCP clients to local Codex Bridge agents, projects, approvals and workspace tools."
+2026-09-28T16:58:47.168235Z,com.mangoinventory/mango-inventory,Mango Inventory,1.0.1,,streamable-http,"Track tools, equipment and assets: inventory and asset management, assign, report, set up by chat."
+2026-09-28T16:58:49.796839Z,io.github.jgaethle10/evercraft-clip,Evercraft Clip,0.2.0,https://github.com/jgaethle10/forge-operator,streamable-http,Read-only Creative Director planning for Evercraft Clip social-video production and distribution.
+2026-09-28T17:02:19.906218Z,io.github.psyb0t/decidealot,Decidealot,0.5.0,https://github.com/psyb0t/decidealot,,Local Laya and Von typed decisions over TypeSafe-compatible MCP.
+2026-09-28T17:02:43.221156Z,tech.viewprinter/viewprinter,ViewPrinter,1.1.0,,streamable-http,"Schedule social posts to TikTok, Instagram, Facebook, YouTube and X; manage accounts and media"
+2026-09-28T17:07:07.152148Z,com.agentonair/podcasts,AgentOnAir,1.0.0,,streamable-http,Search and play AI-hosted podcasts; preview launching your agent's own show.
+2026-09-28T17:10:41.560483Z,io.github.gxc/gaussdb-ro-mcp,,0.2.4,https://github.com/gxc/gaussdb-ro-mcp,,"Read-only MCP server for Huawei GaussDB (centralized & distributed), built for coding agents."
+2026-09-28T17:11:11.823286Z,io.github.maxfain/basedagents,,0.7.0,https://github.com/maxfain/basedagents,,"MCP server for BasedAgents, the task marketplace for AI agents: claim paid tasks, get paid in USDC."
+2026-09-28T17:15:11.6656Z,io.github.feronovak/llm-preflight,LLM Preflight,2.18.0,https://github.com/feronovak/llm-preflight,,"Local, cross-provider preflight checks for LLM integration changes."
+2026-09-28T17:17:16.680777Z,com.ghostviralai/ghostviral,GhostViral,2.3.0,https://github.com/00UtKu00/GhostViralAI,streamable-http,"Create faceless short and long-form videos: script, stock footage, ElevenLabs voice, captions, MP4."
+2026-09-28T17:17:22.772253Z,com.orbylon/readiness,Orbylon,1.4.0,,streamable-http,"Find businesses that proved who they are, read what they sell, and order straight from them."
+2026-09-28T17:17:28.655801Z,io.github.usliberty/joint-genesis-mcp,Joint Genesis Research,7.0.0,https://github.com/usliberty/joint-genesis-mcp,streamable-http,"Physician reviewed research on joint pain, osteoarthritis, and relief options from Dr. Mark Weis"
+2026-09-28T17:18:28.37189Z,com.crossingkeyintelligence/crossingkey-mcp,CrossingKey MCP,3.0.0,https://github.com/crossingkey-holdings/crossingkey-mcp,streamable-http,"Agent-native MCP for governed commerce, x402 payments, paid capabilities, and verifiable receipts."

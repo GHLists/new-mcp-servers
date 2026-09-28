@@ -9,76 +9,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 16:21 UTC
+## Latest list — 2026-09-28 17:19 UTC
 
-New MCP servers published between 2026-09-28 15:20 UTC and 2026-09-28 16:21 UTC.
+New MCP servers published between 2026-09-28 16:21 UTC and 2026-09-28 17:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-28T16-21-05-655257Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-28T17-19-06-991422Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-28 15:22:06 | com.rebilder/mcp-server | Rebilder Agent Readability | 0.3.0 | Check how well AI agents can read a web page: a score, the evidence and a ranke… |
-| 2026-09-28 15:24:42 | [com.boothcheck/boothcheck](https://github.com/Keenan-ux/boothcheck-mcp) |  | 1.5.0 | What a stock price is betting on: implied growth, duration, and margin, read fr… |
-| 2026-09-28 15:25:26 | [com.furringline.mcp/furringline](https://github.com/nueyprap/furringline-mcp) | FURRINGLINE | 1.0.0 | Thai building materials: product search, prices before VAT, stock and material… |
-| 2026-09-28 15:33:26 | com.penguindriver/models | AI 模型下架與替代日程 | 1.0.0 | OpenAI、Claude、Gemini 模型下架日、剩餘天數與官方建議替代，可檢查程式碼裡的模型。每筆附官方來源。 |
-| 2026-09-28 15:37:36 | [io.github.sandcastlelabs/collimer-mcp](https://github.com/sandcastlelabs/collimer-mcp) |  | 0.3.2 | Retired. Use Collimer's remote MCP server at https://app.collimer.com/mcp inste… |
-| 2026-09-28 15:37:44 | [io.github.AVIDS2/memorix](https://github.com/AVIDS2/memorix) | Memorix | 1.9.7 | Local-first project memory with legacy MCP and 2026 discovery compatibility. |
-| 2026-09-28 15:40:24 | [com.aviansuite/stellar-jay](https://github.com/kyle-visner/stellarjay) | AvianSuite | 0.5.0 | Safe write access for AI agents. Every change is kept, attributed, and can be u… |
-| 2026-09-28 15:43:21 | [online.fileshareforagents/mcp](https://github.com/OrenRachamim/fileshareforagents) |  | 0.2.0 | Storage for AI agents: free public items, or private items paid with credits or… |
-| 2026-09-28 15:44:53 | [com.ai-rete-rag/ai-rete-rag-mcp](https://github.com/zaharajabeen13-create/ai-rete-rag-mcp) | ai·rete·rag | 0.8.0 | Author rules from policy docs, then decide: a Rete engine gives the verdict, an… |
-| 2026-09-28 15:45:54 | [io.github.itmplatform/mcp-server](https://github.com/itmplatform/mcp-server) | ITM Platform | 1.0.22 | Connect AI assistants to ITM Platform projects, tasks, budgets, risks, and team… |
-| 2026-09-28 15:50:09 | [io.github.yongjip/mergetrain](https://github.com/yongjip/mergetrain) | Mergetrain | 3.0.8 | Queue parallel-agent worktree branches, test together, serialize and recover Gi… |
-| 2026-09-28 15:51:25 | [io.github.hasanaydin7/neuralng](https://github.com/hasanaydin7/NeuralTech) | NeuralNg Angular UI Expert MCP | 1.0.0 | Angular UI expert for NeuralNg discovery, composition, validation, icons and pr… |
-| 2026-09-28 15:52:41 | io.github.EraHQ/crystal | Crystal | 1.0.0 | Self-curating memory your AI tools share: provenance, verified citations, and t… |
-| 2026-09-28 15:56:01 | [com.gtm-api/linkedin-mcp](https://github.com/gtm-api/linkedin-mcp) | gtm-api: LinkedIn MCP Server | 1.2.0 | Managed LinkedIn MCP server for AI agents: search, connect, message and enrich… |
-| 2026-09-28 15:56:02 | io.github.sbd530/page-scanner | Page Scanner | 0.4.3 | Capture a web page from your own Chrome as a PDF whose text is still text. |
-| 2026-09-28 15:56:24 | io.github.christianhonap7-sys/sector-pulse | Sector Pulse | 1.3.0 | Live US sector rotation: 30 sector baskets ranked every session, versioned rost… |
-| 2026-09-28 15:58:46 | io.github.labstack/monk | Monk | 2026.9.24 | Research stocks and futures with quotes, charts, news, scans, and source-backed… |
-| 2026-09-28 15:59:03 | [io.github.pretorin-ai/pretorin](https://github.com/pretorin-ai/pretorin-cli.git) | Pretorin Compliance | 0.29.24 | Access Pretorin controls, evidence, narratives, and local Plan-backed Campaigns… |
-| 2026-09-28 16:01:32 | [io.github.ivanostanin/lucius-mcp](https://github.com/ivanostanin/lucius-mcp) | Lucius MCP | 0.16.2 | MCP server for managing Allure TestOps tests, launches, plans, defects, and met… |
-| 2026-09-28 16:01:41 | [io.github.log-10x/log10x-mcp](https://github.com/log-10x/log10x-mcp) | Log10x MCP | 1.30.24 | Tools to rank log patterns by volume and cost and to compact, tier down or offl… |
-| 2026-09-28 16:03:06 | [io.github.cammac-creator/openswissdata](https://github.com/cammac-creator/openswissdata) | OpenSwissData | 0.3.0 | Swiss customs tariff (TARES), FINMA register and warnings, NOGA/NACE/ISIC codes… |
-| 2026-09-28 16:04:27 | [io.github.mxcoppell/pixinsight-connector](https://github.com/mxcoppell/pixinsight-connector) | PixInsight Connector | 2.3.0 | Operate PixInsight from any MCP agent. Community project, not affiliated with P… |
-| 2026-09-28 16:05:15 | com.jbpscapital.tideline/tideline | Tideline | 1.2.0 | Published end-of-day state of a rules-based SPY/QQQ index model. Read-only. Fre… |
-| 2026-09-28 16:06:05 | cn.tutulife/aijiayao | 爱佳肴 Love Life | 1.4.0 | Open restaurant data for AI agents in China: search, publish, fact-check. Free,… |
-| 2026-09-28 16:07:53 | [io.github.SchedNestCEO/agent-utility-network](https://github.com/SchedNestCEO/agent-utility-network) | Agent Utility Network | 0.6.6 | External x402 agent utilities with free routing and an AveDaris machine Discove… |
-| 2026-09-28 16:10:13 | [io.github.GoodTurnStudio/all](https://github.com/GoodTurnStudio/goodturn-mcp) | Good Turn Studio (all tools) | 1.0.0 | All 25 Good Turn Studio helpers in one server: money, health, jobs, travel, hal… |
-| 2026-09-28 16:10:14 | [io.github.GoodTurnStudio/appealmyclaim](https://github.com/GoodTurnStudio/goodturn-mcp) | Appeal My Claim | 1.1.1 | Appeal a denied US health insurance claim: denial codes, rights, deadlines and… |
-| 2026-09-28 16:10:19 | [io.github.GoodTurnStudio/bible](https://github.com/GoodTurnStudio/goodturn-mcp) | Bible Swipe | 1.1.0 | A Bible reading a day, line by line, any passage by reference, and search. |
-| 2026-09-28 16:10:21 | [io.github.GoodTurnStudio/bookslikethis](https://github.com/GoodTurnStudio/goodturn-mcp) | Books Like This | 1.2.0 | Books like one you enjoyed, a book's details and any film of it, and an author'… |
-| 2026-09-28 16:10:23 | [io.github.GoodTurnStudio/cancelmysub](https://github.com/GoodTurnStudio/goodturn-mcp) | Cancel My Sub | 1.3.0 | How to cancel US and UK subscriptions, the last safe day to cancel, and what a… |
-| 2026-09-28 16:10:23 | [io.github.GoodTurnStudio/cheapestprice](https://github.com/GoodTurnStudio/goodturn-mcp) | Cheapest Price | 1.2.0 | The lowest current price for a product, checked live, with the typical price an… |
-| 2026-09-28 16:10:26 | [io.github.GoodTurnStudio/faredeals](https://github.com/GoodTurnStudio/goodturn-mcp) | Fare Deals | 1.4.0 | Cheap flights from any city, to one place or anywhere, with the cheapest days t… |
-| 2026-09-28 16:10:28 | [io.github.GoodTurnStudio/findmymoney](https://github.com/GoodTurnStudio/goodturn-mcp) | Find My Money | 1.2.0 | Find unclaimed money in the US and UK: the official free searches and how to cl… |
-| 2026-09-28 16:10:28 | [io.github.GoodTurnStudio/formguide](https://github.com/GoodTurnStudio/goodturn-mcp) | Form Guide | 1.3.0 | Football form, fixtures, results and tables for six top European leagues. |
-| 2026-09-28 16:10:29 | [io.github.GoodTurnStudio/gita](https://github.com/GoodTurnStudio/goodturn-mcp) | Gita Scroller | 1.2.0 | The Bhagavad Gita a few verses a day in Sanskrit with English, any verse, and t… |
-| 2026-09-28 16:10:30 | [io.github.GoodTurnStudio/gurbani](https://github.com/GoodTurnStudio/goodturn-mcp) | Scroll the Gurbani | 1.2.0 | Gurbani a few lines a day in Gurmukhi with English, any Ang or shabad, and whol… |
-| 2026-09-28 16:10:32 | [io.github.GoodTurnStudio/halalornot](https://github.com/GoodTurnStudio/goodturn-mcp) | Halal or Not | 1.1.0 | Is it halal? Food, medicines, stocks, funds and crypto, with a verdict for each… |
-| 2026-09-28 16:10:33 | [io.github.GoodTurnStudio/jobspotter](https://github.com/GoodTurnStudio/goodturn-mcp) | Job Spotter | 1.2.0 | Search current US and UK job listings by role and place, title matches first. |
-| 2026-09-28 16:10:34 | [io.github.GoodTurnStudio/lore](https://github.com/GoodTurnStudio/goodturn-mcp) | Scroll the Lore | 1.1.0 | A Greek or Norse myth a day, explained, and Homer, Hesiod and the Poetic Edda t… |
-| 2026-09-28 16:10:34 | [io.github.GoodTurnStudio/lowermybill](https://github.com/GoodTurnStudio/goodturn-mcp) | Lower My Bill | 1.3.0 | Call scripts to lower bills in the US and UK, low-cost plans you may qualify fo… |
-| 2026-09-28 16:10:36 | [io.github.Servosity/connectwise-manage-mcp](https://github.com/servosity/msp-skills) | ConnectWise Manage MCP | 0.2.0 | Every ConnectWise PSA workflow from the terminal - with a typed conditions quer… |
-| 2026-09-28 16:10:36 | [io.github.GoodTurnStudio/medbillcheck](https://github.com/GoodTurnStudio/goodturn-mcp) | Med Bill Check | 1.2.0 | Is your US medical bill fair? Compares charges with Medicare rates and drafts a… |
-| 2026-09-28 16:10:37 | [io.github.GoodTurnStudio/mizan](https://github.com/GoodTurnStudio/goodturn-mcp) | Mizan | 1.1.0 | Shariah screening of US stocks under four standards, halal alternatives, purifi… |
-| 2026-09-28 16:10:38 | [io.github.GoodTurnStudio/planmyworkout](https://github.com/GoodTurnStudio/goodturn-mcp) | Plan My Workout | 1.2.0 | A workout plan for your goal, level, days and equipment, and how to do any exer… |
-| 2026-09-28 16:10:39 | [io.github.GoodTurnStudio/platepal](https://github.com/GoodTurnStudio/goodturn-mcp) | Plate Pal | 1.3.0 | Calories and nutrition for any food, chain meal or barcode, and meal ideas for… |
-| 2026-09-28 16:10:40 | [io.github.GoodTurnStudio/pricedropback](https://github.com/GoodTurnStudio/goodturn-mcp) | Price Drop Back | 1.4.0 | Did the price drop after you bought it? Store price-adjustment rules, deadlines… |
-| 2026-09-28 16:10:40 | [io.github.GoodTurnStudio/spinmyday](https://github.com/GoodTurnStudio/goodturn-mcp) | Spin My Day | 1.3.0 | Plans a whole day out in any city, matched to the weather, your mood and diet. |
-| 2026-09-28 16:10:41 | [io.github.GoodTurnStudio/supplementcheck](https://github.com/GoodTurnStudio/goodturn-mcp) | Supplement Check | 1.2.0 | Supplement labels, doses against official upper limits, and a whole-stack check… |
-| 2026-09-28 16:10:42 | [io.github.GoodTurnStudio/syncmycycle](https://github.com/GoodTurnStudio/goodturn-mcp) | Sync My Cycle | 1.3.0 | Your likely menstrual cycle phase today and this week, with food and workout id… |
-| 2026-09-28 16:10:43 | [io.github.GoodTurnStudio/talmud](https://github.com/GoodTurnStudio/goodturn-mcp) | Talmud Scroller | 1.2.0 | Talmud a few lines a day, explained, with today's Daf Yomi, search and tractate… |
-| 2026-09-28 16:10:43 | [io.github.GoodTurnStudio/wardrobeconnect](https://github.com/GoodTurnStudio/goodturn-mcp) | Wardrobe Connect | 1.2.0 | Find clothes that match a description or a picture on eBay, new and pre-owned. |
-| 2026-09-28 16:10:58 | com.uplika/uplika | uplika | 1.1.0 | Your AI agent publishes to Threads, Instagram, YouTube and the other social cha… |
-| 2026-09-28 16:11:51 | [io.github.payware/mcp-server](https://github.com/payware/mcp-server) | payware | 1.3.3 | payware A2A payments API for merchants, ISVs and payment institutions |
-| 2026-09-28 16:13:47 | [io.github.GoodTurnStudio/stoics](https://github.com/GoodTurnStudio/goodturn-mcp) | Stoic Scroller | 1.1.0 | Marcus Aurelius, Epictetus and Seneca a few lines a day, and their whole books… |
-| 2026-09-28 16:14:09 | [io.github.projectworks007/ecommerce-products](https://github.com/projectworks007/apify-data-mcp) | E-commerce Product Data | 1.0.0 | Product catalogues, prices and stock from online stores and supermarkets. |
-| 2026-09-28 16:14:11 | [io.github.projectworks007/finance-data](https://github.com/projectworks007/apify-data-mcp) | Finance & Filings Data | 1.0.0 | Stock quotes, price history and fundamentals, plus SEC EDGAR company filings. |
-| 2026-09-28 16:14:14 | [io.github.projectworks007/web-and-dev-tools](https://github.com/projectworks007/apify-data-mcp) | Web & Developer Data Tools | 1.0.0 | Website tech stacks, domain WHOIS/DNS/SSL, sitemaps, PDF text, GitHub trending… |
-| 2026-09-28 16:16:09 | [net.forwardemail/mcp-server](https://github.com/forwardemail/mcp-server) | Forward Email | 1.0.7 | Privacy-focused email: domains, DNS verification, aliases, SMTP sending, mailbo… |
-| 2026-09-28 16:16:33 | com.teamyou/teamyou | TeamYou | 1.0.0 | Topics, semantic search, tasks, projects, areas and documents in TY Agent Drive. |
-| 2026-09-28 16:16:43 | io.github.PuppyChris/supamarketers-data | SupaMarketers Data | 0.2.0 | 30+ marketing data tools for AI agents: SEO, SERP, AI visibility, social, apps,… |
-| 2026-09-28 16:19:38 | org.qrvote/qrvote | qrvote | 1.0.0 | QR-code contests, surveys, quizzes and scavenger hunts: read results, manage yo… |
-| 2026-09-28 16:20:14 | io.github.drawcall-ai/drawcall | Drawcall | 0.2.79 | Create and edit 3D content in Drawcall Design; find and inspect Drawcall Market… |
+| 2026-09-28 16:22:48 | [io.github.treza-labs/treza](https://github.com/treza-labs/treza-plugin) | Treza | 1.0.2 | Build, run, schedule, and publish AI video pipelines to YouTube and TikTok from… |
+| 2026-09-28 16:26:42 | io.github.Justxd22/cheapchat | CheapChat | 1.0.0 | Manage Instagram and Facebook automations, conversations, templates, and analyt… |
+| 2026-09-28 16:26:48 | ai.peregrini/common-pleas | Court of Common Pleas (Peregrini) | 0.8.0 | A court for disputes between AI agents. Search and read its judgments free; enr… |
+| 2026-09-28 16:27:42 | app.mapledger/land-and-zoning | MapLedger | 1.0.0 | Zoning, homes per lot, short-term rentals, tax and flood for any property in Au… |
+| 2026-09-28 16:27:50 | [io.github.bytebase/dbhub](https://github.com/bytebase/dbhub) | DBHub | 1.4.0 | Token-efficient database MCP server for PostgreSQL, MySQL, MariaDB, SQL Server,… |
+| 2026-09-28 16:31:38 | [io.github.igorolv/redmine-mcp-server](https://github.com/igorolv/redmine-mcp-server) | Redmine MCP Server | 0.1.1 | Redmine for AI agents: issues, projects, wiki, attachments, time entries and re… |
+| 2026-09-28 16:32:26 | il.co.makore.www/makore | Makore — Events in Israel | 1.0.0 | Search upcoming public events in Israel by date, city, region or category. Read… |
+| 2026-09-28 16:33:35 | com.versusbrief/versusbrief | Versusbrief | 0.4.0 | Read-only competitor ads, SEO, reviews and landing audit. No ad-account writes. |
+| 2026-09-28 16:40:06 | ai.shreddy/shreddy | Shreddy | 1.0.0 | Measured mountain bike jumps and speeds at bike parks: public clips, read-only. |
+| 2026-09-28 16:40:08 | ai.fenbs/fenbs | fenbs | 0.1.0 | Project board where people and AI assistants are members with roles. Every chan… |
+| 2026-09-28 16:40:16 | [io.github.SatGate-io/satgate](https://github.com/SatGate-io/satgate) | SatGate – Economic Firewall for AI Agen… | 0.5.0 | Budget, payment and audit controls for AI agent API calls and MCP tool calls. |
+| 2026-09-28 16:41:58 | [io.github.whois-api-llc/mcp-whoisxmlapi](https://github.com/whoisxmlapi/mcp-whoisxmlapi) |  | 1.8.7 | 32 WHOIS, DNS, IP, threat intelligence, email, and bulk tools for AI agents via… |
+| 2026-09-28 16:43:19 | [io.github.lkopietz3-byte/honesty-mcp](https://github.com/lkopietz3-byte/honesty-mcp) | honesty-mcp | 0.1.0 | MCP server exposing 11 honesty-SDK kits (grounding, trust, audit, corroboration… |
+| 2026-09-28 16:45:41 | [io.github.gregkozakiewicz/roast-my-design-system](https://github.com/gregkozakiewicz/roast-my-design-system) | Roast My Design System | 9.1.1 | Audit your Design System and serve your Agent the rules that keep AI-written UI… |
+| 2026-09-28 16:47:40 | [io.github.cherninlab/ennodia](https://github.com/cherninlab/ennodia) |  | 0.4.1 | Connects the AI agents you use: your agent hands a task to another and gets the… |
+| 2026-09-28 16:50:54 | ai.hanria/check |  | 0.1.0 | Check a proposed agent action against operator's rules: permit, deny or escalat… |
+| 2026-09-28 16:53:38 | [io.github.Pillsoon/webrecipe](https://github.com/Pillsoon/webrecipe) | webrecipe | 0.1.5 | Save how to read a public web page once, then fetch fresh items as JSON without… |
+| 2026-09-28 16:53:40 | [io.github.Fanch-hui/codex-bridge](https://github.com/Fanch-hui/codex-bridge) | Codex Bridge | 1.3.1 | Connect MCP clients to local Codex Bridge agents, projects, approvals and works… |
+| 2026-09-28 16:58:47 | com.mangoinventory/mango-inventory | Mango Inventory | 1.0.1 | Track tools, equipment and assets: inventory and asset management, assign, repo… |
+| 2026-09-28 16:58:49 | [io.github.jgaethle10/evercraft-clip](https://github.com/jgaethle10/forge-operator) | Evercraft Clip | 0.2.0 | Read-only Creative Director planning for Evercraft Clip social-video production… |
+| 2026-09-28 17:02:19 | [io.github.psyb0t/decidealot](https://github.com/psyb0t/decidealot) | Decidealot | 0.5.0 | Local Laya and Von typed decisions over TypeSafe-compatible MCP. |
+| 2026-09-28 17:02:43 | tech.viewprinter/viewprinter | ViewPrinter | 1.1.0 | Schedule social posts to TikTok, Instagram, Facebook, YouTube and X; manage acc… |
+| 2026-09-28 17:07:07 | com.agentonair/podcasts | AgentOnAir | 1.0.0 | Search and play AI-hosted podcasts; preview launching your agent's own show. |
+| 2026-09-28 17:10:41 | [io.github.gxc/gaussdb-ro-mcp](https://github.com/gxc/gaussdb-ro-mcp) |  | 0.2.4 | Read-only MCP server for Huawei GaussDB (centralized & distributed), built for… |
+| 2026-09-28 17:11:11 | [io.github.maxfain/basedagents](https://github.com/maxfain/basedagents) |  | 0.7.0 | MCP server for BasedAgents, the task marketplace for AI agents: claim paid task… |
+| 2026-09-28 17:15:11 | [io.github.feronovak/llm-preflight](https://github.com/feronovak/llm-preflight) | LLM Preflight | 2.18.0 | Local, cross-provider preflight checks for LLM integration changes. |
+| 2026-09-28 17:17:16 | [com.ghostviralai/ghostviral](https://github.com/00UtKu00/GhostViralAI) | GhostViral | 2.3.0 | Create faceless short and long-form videos: script, stock footage, ElevenLabs v… |
+| 2026-09-28 17:17:22 | com.orbylon/readiness | Orbylon | 1.4.0 | Find businesses that proved who they are, read what they sell, and order straig… |
+| 2026-09-28 17:17:28 | [io.github.usliberty/joint-genesis-mcp](https://github.com/usliberty/joint-genesis-mcp) | Joint Genesis Research | 7.0.0 | Physician reviewed research on joint pain, osteoarthritis, and relief options f… |
+| 2026-09-28 17:18:28 | [com.crossingkeyintelligence/crossingkey-mcp](https://github.com/crossingkey-holdings/crossingkey-mcp) | CrossingKey MCP | 3.0.0 | Agent-native MCP for governed commerce, x402 payments, paid capabilities, and v… |
 
 ## Data source
 
