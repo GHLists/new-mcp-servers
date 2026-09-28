@@ -1,0 +1,39 @@
+created_at,server,title,version,repository,transports,description
+2026-09-28T14:25:28.731449Z,com.submitrax/mcp,SubmitraX,1.0.0,,streamable-http,"Form backend for static sites: create forms, manage submissions, webhooks and exports."
+2026-09-28T14:25:50.878076Z,com.tickerinside/tickerinside-mcp,TickerInside,1.4.0,,streamable-http,"Holdings, overlap, correlation and look-through risk for US ETFs, from issuer files, with no key."
+2026-09-28T14:26:45.187446Z,io.github.gnesher/makore,Makore — Events in Israel,1.0.0,,streamable-http,"Search upcoming public events in Israel by date, city, region or category. Read-only; no API key."
+2026-09-28T14:27:18.333912Z,io.github.geolens-io/geolens,GeoLens,1.21.0,https://github.com/geolens-io/geolens,,"Read-only access to a self-hosted GeoLens spatial catalog: datasets, features, maps, sandboxed SQL."
+2026-09-28T14:28:41.47814Z,ke.co.firmledger/firmledger,FirmLedger,1.0.0,,streamable-http,"FirmLedger: search and verify businesses. Free needs no key; Pro adds contacts, news, jobs."
+2026-09-28T14:29:19.342168Z,ai.turnsignal/turnsignal,TurnSignal,0.6.3,,,"Read-only Playwright CI results for agents: new vs known failures, flaky tests, test history."
+2026-09-28T14:31:41.372244Z,io.github.atakanelik34/bilinc,Bilinc,2.3.1,https://github.com/atakanelik34/Bilinc,,"Hosted agent memory with provenance, contradiction surfacing, and snapshot rollback."
+2026-09-28T14:33:26.470976Z,com.notiero/notiero,Notiero,0.3.0,,streamable-http,"The notebook your AI writes to. Save, organize, search and read notes in your Notiero notebook."
+2026-09-28T14:33:35.000094Z,io.github.polaris-smart/agent-mailbox,agent-mailbox — Mailbox and Wake System for AI Agent Teams,0.7.5,https://github.com/polaris-smart/agent-mailbox,,"Mailbox + wake system for AI agent teams: letters always land, right agent wakes, quiet otherwise."
+2026-09-28T14:37:11.934574Z,io.github.charliemtnez/ghost-inspector-mcp,,0.4.0,https://github.com/charliemtnez/ghost-inspector-mcp,,"Analyze, validate and safely update Ghost Inspector end-to-end browser tests"
+2026-09-28T14:37:50.131239Z,io.github.qobitech/seocode,,0.4.6,,,"Framework-aware technical SEO and AI-discoverability (GEO) audits for your codebase, in your editor."
+2026-09-28T14:39:40.37334Z,io.github.IronSecCo/ironclaw,,0.1.533,https://github.com/IronSecCo/ironclaw,,Sandboxed shell exec for MCP clients: run untrusted agent commands in a gVisor container.
+2026-09-28T14:45:06.163139Z,com.writavo/cms,,0.5.0,https://github.com/SparkleOfficial/writavo-mcp-server,streamable-http,"Draft, edit, organise, schedule and publish a Writavo Site's content from any AI assistant."
+2026-09-28T14:46:13.750947Z,io.github.thebedcoder/stringlane,StringLane,0.5.0,,,"Check, translate and fix app localization files — ARB, iOS strings, Android XML, i18next JSON."
+2026-09-28T14:46:18.705496Z,io.github.ProjectMakersDE/horizon-mcp,horizOn,1.5.4,https://github.com/ProjectMakersDE/horizOn-mcp,,"Docs, live API tools and prompts for the horizOn game backend in Godot, Unity and Unreal."
+2026-09-28T14:46:57.891366Z,io.github.SQUORA-NL/crayon-c4-mcp,,1.44.5,https://github.com/SQUORA-NL/CRAYON.C4,,"Author, validate and maintain a CRAYON-C4 architecture model — never write an invalid file."
+2026-09-28T14:48:30.301558Z,io.github.negm17111995/maqami-travel,MAQAMI Travel,1.0.5,,sse,"Book hotels & flights worldwide at B2B wholesale rates. Search, compare, and book with AI agents."
+2026-09-28T14:54:56.243974Z,io.github.daniele-chiappa/gosidian,gosidian,2.38.0,https://github.com/daniele-chiappa/gosidian,,Self-hosted Obsidian-compatible markdown vault with a web UI and a 57-tool MCP server for AI agents
+2026-09-28T14:55:55.906141Z,io.github.imprezahost/impreza-mcp,Impreza Host,0.45.0,https://github.com/imprezahost/impreza-mcp,streamable-http,"No-KYC offshore hosting an AI agent runs end-to-end: no-email signup, crypto, VPS, deploy, Tor."
+2026-09-28T14:58:07.380986Z,io.github.KittyCAD/zoo-mcp,,0.28.2,https://github.com/KittyCAD/mcp,,An MCP server that provides access to the Zoo API for various CAD operations and tools.
+2026-09-28T14:59:09.893286Z,io.github.mihai-dinculescu/tapo-mcp,Tapo MCP,0.5.1,https://github.com/mihai-dinculescu/tapo,,MCP server for discovering and controlling TP-Link Tapo smart home devices via AI Agents
+2026-09-28T14:59:13.185222Z,dev.pages.ronventures/local-pros,Local Pros by Ron Ventures,1.0.0,,streamable-http,"Find owner-operated plumbers, HVAC techs, electricians and roofers in OK, KS, NE, IA and MO."
+2026-09-28T14:59:22.965627Z,io.github.Project-Gifted1/pg1-threat-intel,PG1 Sovereign Threat Intelligence,1.12.0,https://github.com/Project-Gifted1/pg1-ai-agent,streamable-http,"STIX IOCs, CVE lookups w/ EPSS/KEV, ATT&CK dossiers, OFAC wallet sanctions, domain age checks."
+2026-09-28T15:02:20.217631Z,io.github.BourbonDog/amicus,Amicus,4.14.1,https://github.com/BourbonDog/amicus,,"Multi-model LLM Council and parallel AI window for Claude Code. Fork any model, fold results back."
+2026-09-28T15:05:07.576579Z,com.earnings-watcher/mcp,EarningsWatcher,1.0.1,,streamable-http,"Options-implied earnings moves, 10y implied-vs-actual history, IV rush/crush, scanner, simulator."
+2026-09-28T15:08:32.081476Z,com.laraue/boards,Laraue Boards,3.1.0,https://github.com/Laraue/Laraue.Apps.Boards,streamable-http,"List, view, create, edit, delete, comment on, and see the history of Laraue Boards issues."
+2026-09-28T15:10:04.529319Z,ai.starreel/starreel,,0.1.103,https://github.com/starreel/starreel-mcp,,"Turn a script into a finished, downloadable short-drama episode — via MCP or REST."
+2026-09-28T15:10:32.309601Z,io.github.ChanghuLiu/opc-ua-nodeset-compatibility-gate,,0.1.1,https://github.com/ChanghuLiu/opc-ua-nodeset-compatibility-gate,streamable-http,Deterministic release-compatibility preflight for OPC UA NodeSet2 XML.
+2026-09-28T15:10:34.975471Z,io.github.ChanghuLiu/factorytalk-import-preflight,,0.1.2,https://github.com/ChanghuLiu/factoryTalkImportPreflightMcp,streamable-http,Deterministic preflight for FactoryTalk View tag and alarm CSV imports before re-import.
+2026-09-28T15:10:50.283142Z,com.feedtomind/feedtomind,FeedToMind,2.0.0,,streamable-http,"Your YouTube library in Claude, ChatGPT and Cursor: transcripts, breakdowns, summaries, search."
+2026-09-28T15:11:15.079449Z,io.github.kanywst/mcp-opa-authz,,0.3.1,https://github.com/kanywst/mcp-opa-authz,,"Authorization answers from real policy code: evaluate Rego locally, or ask an AuthZEN 1.0 PDP."
+2026-09-28T15:13:01.271206Z,com.devexpress/docs,DevExpress Documentation,1.0.3,,streamable-http,Streamable HTTP MCP server for DevExpress documentation search and retrieval.
+2026-09-28T15:13:38.925558Z,com.relvato/relvato,Relvato,2.0.0,,streamable-http,"Website monitoring: list sites and checks, run scans, read results and fix prompts."
+2026-09-28T15:14:08.386024Z,io.github.dat999zx/knowl,Knowl,5.24.0,https://github.com/dat999zx/knowl,streamable-http,"Persistent memory for Claude Code, Cursor and Codex. Facts retire when they change."
+2026-09-28T15:14:24.072213Z,fr.solanometeo/solano,Solano — marine & outdoor weather,1.0.0,,streamable-http,"Marine and outdoor weather: multi-model forecasts, official bulletins, tides, anchorages."
+2026-09-28T15:17:36.520537Z,io.github.pad01g/yacy-search,YaCy peer-to-peer search,0.1.0,https://github.com/pad01g/yacy_search_server,,"Web search, crawling and ranking evaluation on your own YaCy peer: no API key, no central service."
+2026-09-28T15:19:07.344966Z,io.github.IO31-WEB/synapse-lounge,Synapse Lounge,2.4.6,https://github.com/IO31-WEB/synapse-lounge,streamable-http,"Social lounge and game room for AI agents with x402 USDC payments, profiles, chat, and games."
+2026-09-28T15:19:44.125948Z,ai.multiservicios/services,Multiservicios services,1.7.0,,streamable-http,"Lists Multiservicios services and leaves a request to be contacted. Does not quote, sell or issue."
