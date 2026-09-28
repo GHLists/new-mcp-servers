@@ -9,30 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 00:21 UTC
+## Latest list — 2026-09-28 01:20 UTC
 
-New MCP servers published between 2026-09-27 23:19 UTC and 2026-09-28 00:21 UTC.
+New MCP servers published between 2026-09-28 00:21 UTC and 2026-09-28 01:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-28T00-21-11-414519Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-28T01-20-08-855191Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-27 23:21:34 | com.tokeven/tokeven | Tokeven Cost Advisor | 0.4.4 | Price a Claude, GPT, Gemini or Grok call before you send it. Runs locally. |
-| 2026-09-27 23:36:56 | [io.github.Teamdayplay/dayplay-mcp](https://github.com/dayplayTeam/dayplay-mcp) |  | 2.0.0 | DayPlay MCP — verified SF Bay Area places, events & walkable itineraries for AI… |
-| 2026-09-27 23:38:20 | ai.bassethound/bassethound |  | 0.9.0 | Company intelligence for AI agents: a five-layer domain dossier in one sniff_do… |
-| 2026-09-27 23:38:54 | [io.github.Danathar/goodreads-mcp-ai](https://github.com/Danathar/goodreads-mcp) | Goodreads MCP | 2026.9.3 | Read-only MCP server for Goodreads (no API required): search, books, shelves, r… |
-| 2026-09-27 23:39:54 | [io.github.metago-ai/metago](https://github.com/metago-ai/metagolifeform) | MetaGO Agent Harness | 1.3.3 | Decision lock, anti-hallucination, meta-evolution and provenance for any MCP ag… |
-| 2026-09-27 23:39:58 | [io.github.metago-ai/metago-algorithms](https://github.com/metago-ai/metagolifeform) | MetaGO Algorithms | 1.0.2 | 927 deterministic algorithms as 57 MCP tools: coupling, value, distance, correl… |
-| 2026-09-27 23:45:12 | com.zabihah/halal-places | Zabihah: Halal Restaurants & Mosques | 1.0.0 | Find halal restaurants and mosques worldwide, with verified halal status and pr… |
-| 2026-09-27 23:45:39 | im.cybergenic/mcp | Cybergenic | 1.0.0 | Cancer gene co-occurrence and exclusivity in tumour cohorts, with confound cont… |
-| 2026-09-27 23:49:26 | [io.github.moha-tah/web-intelligence](https://github.com/moha-tah/web-intelligence-mcp) | Web & Company Intelligence | 1.0.0 | Tech stack, company profile, sitemap, URL status and EU fuel price tools, pay p… |
-| 2026-09-27 23:50:53 | [io.github.Higangssh/homebutler](https://github.com/Higangssh/homebutler) |  | 0.40.0 | Tells an agent what changed on a server since it last looked - status, Docker,… |
-| 2026-09-27 23:53:42 | [io.github.edsonvmendes/miniframe-tools](https://github.com/edsonvmendes/miniframe-tools-mcp) |  | 1.3.0 | Brazilian tools for agents: Pix, CEP, CNPJ, BCB rates + web capture and PDF. Pa… |
-| 2026-09-27 23:59:33 | io.viseon/semantic-intelligence | VISEON Ask | 6.0.14 | VISEON's Schema.org knowledge graph: products, services, people, FAQs and terms… |
-| 2026-09-28 00:01:40 | [io.github.Banjo-Ventures/lodestar-stamp](https://github.com/Banjo-Ventures/lodestar) | Lodestar Stamp | 0.1.12 | Dated, source-linked receipts before an agent recommends or books. Lodestar doe… |
-| 2026-09-28 00:06:23 | [io.github.Chaarangan/stepgate](https://github.com/Chaarangan/stepgate) | Stepgate | 0.1.0 | Agents can't skip steps: runs gated stepfiles on the client's own model. |
-| 2026-09-28 00:13:57 | [io.github.Ahmet11159/x402-agent-services](https://github.com/Ahmet11159/x402-mcp-platform) | DropEngine x402 Agent Services | 1.0.0 | Paid Base MCP preflight tools for URLs, content, transactions, wallets, package… |
-| 2026-09-28 00:20:00 | [io.github.ShekharBhardwaj/agentic-ledger](https://github.com/ShekharBhardwaj/AgenticLedger) |  | 0.15.0 | Local-first flight recorder for AI agents: sessions, costs, loop runs, and stuc… |
+| 2026-09-28 00:23:20 | [io.github.delimit-ai/delimit-mcp-server](https://github.com/delimit-ai/delimit-mcp-server) | Delimit — Keep the state. Change the mo… | 4.21.0 | Keep the state. Change the model. Shared context and a multi-model panel across… |
+| 2026-09-28 00:24:06 | [app.flaim/mcp](https://github.com/jdguggs10/flaim) | Flaim Fantasy | 1.0.2 | Fantasy analysis for your ESPN, Yahoo, and Sleeper leagues. Reads your leagues,… |
+| 2026-09-28 00:27:19 | [io.github.autokeren/ghostfox](https://github.com/autokeren/ghostfox) |  | 0.8.0 | Self-hosted stealth browser for AI agents: Firefox engine + Rust MCP runtime. |
+| 2026-09-28 00:27:42 | io.github.jaymiller-cmg/mortgage-hawaii | RealityCents — Hawaii Mortgage & VA Loa… | 2.0.0 | Read-only Hawaii mortgage and VA loan calculators from RealityCents.com. No per… |
+| 2026-09-28 00:30:35 | [io.github.OrygnsCode/opa-mcp](https://github.com/OrygnsCode/opa-mcp-server) | OPA MCP | 0.8.0 | Author, validate, debug, and explain OPA Rego policies through any MCP-compatib… |
+| 2026-09-28 00:33:58 | com.beleeg/beleeg | Beleeg | 0.8.0 | Run a recreational sports league from an AI assistant: standings, schedules, ro… |
+| 2026-09-28 00:33:58 | com.beleeg/beleeg-public | Beleeg (public, no account) | 0.8.0 | Public league standings, schedules and brackets; start a league or bracket with… |
+| 2026-09-28 00:35:48 | com.electronics-architect/electronics-architect | Electronics Architect | 1.0.0 | Solve a DC/DC power tree: per-stage current, efficiency, dissipation, thermals,… |
+| 2026-09-28 00:37:19 | [io.github.SidneyBissoli/bcb-br-mcp](https://github.com/SidneyBissoli/bcb-br-mcp) | Banco Central do Brasil (BCB) — SGS Tim… | 1.15.1 | Banco Central do Brasil (BCB): SGS series, Focus expectations, PTAX, stats + pr… |
+| 2026-09-28 00:37:37 | [io.openwaters/ais](https://github.com/openwatersio/aiscast) | Open Waters AIS | 0.4.0 | Live AIS vessel positions by MMSI, name, area, or radius, plus coverage. No sig… |
+| 2026-09-28 00:42:56 | com.useauditoria.pilot/auditor-ia | Auditor IA | 1.0.0 | Audit B2B prospect lists before enrichment, CRM import or outreach. |
+| 2026-09-28 00:45:09 | [io.github.JhostinAleck/brightspace](https://github.com/JhostinAleck/brightspace-mcp) |  | 1.2.0 | D2L Brightspace MCP server: courses, grades, rubrics, feedback, course files, c… |
+| 2026-09-28 00:45:30 | [io.github.ParkerDiamond/chatppt](https://github.com/ParkerDiamond/ChatPPT) | ChatPPT | 0.2.0 | Model Context Protocol (MCP) server for programmatic PowerPoint creation and ed… |
+| 2026-09-28 00:45:42 | [io.github.cengit1/agent-index](https://github.com/cengit1/agent-index) | AgentIndex — measured reliability for a… | 1.1.0 | Measured uptime, price and payment evidence for 19,021 agent services. Reliabil… |
+| 2026-09-28 00:45:52 | [io.github.ilyautov/humanizer-ru](https://github.com/ilyautov/humanizer-ru) | humanizer-ru | 3.31.0 | Следы нейросети в русском тексте: балл чистоты 0-100, запреты и маркеры с позиц… |
+| 2026-09-28 00:49:06 | [io.github.noteflowai/dsh-skills-anywhere](https://github.com/noteflowai/dsh-skills-anywhere) | Skills Anywhere | 0.16.0 | Discover and load Agent Skills from configured local directories and Git source… |
+| 2026-09-28 00:53:49 | com.wapiworld/wapiworld | Wapiworld WhatsApp API | 0.1.1 | Check your WhatsApp numbers, connection status and webhooks, and send a text wh… |
+| 2026-09-28 00:58:48 | com.prognyx/oncology-intelligence | Prognyx oncology intelligence | 1.0.0 | Live ClinicalTrials.gov oncology trial comparison around an asset, plus landsca… |
+| 2026-09-28 01:09:11 | [eu.tracepass/tracepass](https://github.com/malinoto/tracepass-mcp-server) | TracePass | 1.9.0 | Manage products, EU Digital Product Passports, operator parties, and GS1 EPCIS… |
+| 2026-09-28 01:10:17 | com.rackwarehouse/fitment | Rack Warehouse fitment | 1.0.0 | What fits your vehicle at Rack Warehouse: roof racks, carriers, truck and ladde… |
+| 2026-09-28 01:14:31 | [io.github.Ynewtime/markitai](https://github.com/Ynewtime/markitai) | markitai | 1.2.0 | Convert documents, images and web pages to clean Markdown, for agents: single,… |
+| 2026-09-28 01:15:26 | [io.github.unbrowse-ai/unbrowse](https://github.com/unbrowse-ai/unbrowse) | Unbrowse | 12.1.1 | Websites as APIs: read pages, run site tasks via learned APIs, cloud browser wi… |
+| 2026-09-28 01:17:32 | [xyz.47620/solana-data](https://github.com/47620-xyz/solana-data-mcp) | 47620 Solana Data API | 1.1.0 | x402 pay-per-call Solana data + crypto market + JWT/unit utils for AI agents. |
 
 ## Data source
 
