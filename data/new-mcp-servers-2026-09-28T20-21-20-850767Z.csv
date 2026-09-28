@@ -1,0 +1,39 @@
+created_at,server,title,version,repository,transports,description
+2026-09-28T19:25:00.236376Z,domains.cheapest/cheapest-domains,Cheapest Domains,1.8.0,https://github.com/igalil/cheapest-domains-integrations,streamable-http,Compare domain registration and renewal prices across registrars and check exact-name availability.
+2026-09-28T19:25:50.493377Z,io.github.Servosity/threatlocker-mcp,ThreatLocker MCP,0.3.6,https://github.com/servosity/msp-skills,,"Every ThreatLocker Portal API feature, plus the write operations the read-only tools lack and a"
+2026-09-28T19:28:19.149702Z,io.github.trevin-lee/prusactl,prusactl,0.1.0,https://github.com/trevin-lee/prusactl,,"Run a Prusa 3D printer: status, camera, files, printing, G-code, over PrusaLink or Prusa Connect."
+2026-09-28T19:29:59.625517Z,io.github.qso-graph/solar-mcp,,0.2.2,https://github.com/qso-graph/solar-mcp,,"Solar indices and space weather MCP server. SFI, SSN, Kp, DSCOVR, NOAA alerts."
+2026-09-28T19:30:04.489271Z,io.github.qso-graph/eqsl-mcp,,0.3.4,https://github.com/qso-graph/eqsl-mcp,,"eQSL.cc MCP server. Inbox download, QSO verification, Authenticity Guaranteed status."
+2026-09-28T19:30:06.292049Z,io.github.qso-graph/lotw-mcp,,0.3.4,https://github.com/qso-graph/lotw-mcp,,"ARRL Logbook of The World MCP server. QSO query, QSL status, DXCC credit tracking."
+2026-09-28T19:30:12.498795Z,io.github.qso-graph/iota-mcp,,0.1.3,https://github.com/qso-graph/iota-mcp,,"Islands on the Air MCP server. Group lookup, island search, DXCC mapping, nearby groups."
+2026-09-28T19:30:22.345544Z,io.github.qso-graph/pota-mcp,,0.2.3,https://github.com/qso-graph/pota-mcp,,"Parks on the Air MCP server. Park lookup, activator and hunter stats, live spots."
+2026-09-28T19:30:23.309792Z,io.github.qso-graph/sota-mcp,,0.1.7,https://github.com/qso-graph/sota-mcp,,"Summits on the Air MCP server. Summit lookup, spots, alerts, nearby summits."
+2026-09-28T19:30:27.827449Z,io.github.qso-graph/qrz-mcp,,0.3.4,https://github.com/qso-graph/qrz-mcp,,"QRZ.com MCP server. Callsign lookup, DXCC resolution, logbook queries via QRZ XML API."
+2026-09-28T19:30:31.570365Z,io.github.qso-graph/wspr-mcp,,0.3.3,https://github.com/qso-graph/wspr-mcp,,"WSPR beacon analytics MCP server. Band openings, path analysis, solar correlation."
+2026-09-28T19:30:36.215398Z,io.github.pipeworx-io/esef-filings,Esef Filings,0.1.7,https://github.com/pipeworx-io/mcp-esef-filings,streamable-http,XBRL filings index MCP — wraps the filings.xbrl.org JSON:API index run by
+2026-09-28T19:30:44.679946Z,io.github.qso-graph/hamqth-mcp,,0.4.2,https://github.com/qso-graph/hamqth-mcp,,"HamQTH.com MCP server. Free callsign lookup, DX spots, RBN data, SAVP verification."
+2026-09-28T19:34:25.785179Z,io.github.Servosity/datto-bcdr-mcp,Datto BCDR MCP,0.1.6,https://github.com/servosity/msp-skills,,Sync your whole Datto BCDR fleet into local SQLite and answer the questions the per-appliance
+2026-09-28T19:39:27.193683Z,io.github.Servosity/wordpress-mcp,WordPress MCP,0.1.5,https://github.com/servosity/msp-skills,,"Publish and manage WordPress pages, posts, media"
+2026-09-28T19:39:54.081902Z,app.seamark/seamark,Seamark,1.6.0,https://gitlab.com/whizz/seamark,streamable-http,"Personal sailing voyage log: trips, legs, ships, crew and GPX tracks with honest statistics."
+2026-09-28T19:39:56.180048Z,app.postdaily/postdaily,PostDaily,1.0.0,,streamable-http; streamable-http,"Draft, schedule and publish social media posts from any AI agent."
+2026-09-28T19:40:08.022734Z,io.github.exoma-ch/hyrr,HYRR,0.22.0,https://github.com/exoma-ch/hyrr,,"Radio-isotope production, activity and dose for charged-particle beams on stacked targets"
+2026-09-28T19:40:20.008908Z,io.github.Servosity/hubspot-mcp,HubSpot MCP,0.2.0,https://github.com/servosity/msp-skills,,"Every HubSpot Sales Hub feature, plus offline cross-object queries, property-change-history"
+2026-09-28T19:43:00.894058Z,io.github.BigCactusLabs/dead-letter,dead-letter,0.4.5,https://github.com/BigCactusLabs/dead-letter,,"Convert .eml and .mbox email to clean Markdown for RAG, LLM pipelines, and local knowledge bases"
+2026-09-28T19:45:30.955792Z,io.github.alejandrohi03/cofan-publico,,1.0.0,https://github.com/alejandrohi03/cofan-mcp,streamable-http,"Consulta el catalogo publico de Cofan (cofan.es): busca productos, fichas tecnicas y categorias."
+2026-09-28T19:46:09.145168Z,so.ojo/mcp-server,oJo — HTML to image and PDF,0.5.0,https://github.com/ojodotso/mcp-server,,"Render HTML or templates to a hosted PNG or PDF, in one response. Free previews need no API key."
+2026-09-28T19:47:07.211133Z,com.hotels-toulon-mer/booking,,1.0.0,,streamable-http,"Hôtel-Rooftop Les Voiles, Toulon Mourillon : disponibilités, tarifs réels et table au rooftop."
+2026-09-28T19:49:05.470856Z,io.github.federico2001/openglass-mcp,,0.2.0,https://github.com/federico2001/OpenGlass,streamable-http,"Look up any AI agent before you act; register, attest actions, run sealed sessions."
+2026-09-28T19:50:52.391235Z,io.github.qso-graph/qsp-client,,0.3.0,https://github.com/qso-graph/qsp-client,,"QSP — relay MCP tools to any OpenAI-compatible local LLM (llama.cpp, Ollama, vLLM)"
+2026-09-28T19:51:06.950235Z,io.github.zoharbabin/web-researcher-mcp,Web Researcher MCP,1.49.4,https://github.com/zoharbabin/web-researcher-mcp,,Your AI research assistant that cites real sources and stays honest
+2026-09-28T19:52:42.024134Z,ai.hlix/hlix,Hlix,0.3.0,,streamable-http,"Build software with your Hlix cloud team: start work, check progress, preview, review and ship."
+2026-09-28T19:54:52.914894Z,io.github.i-ops-hq/assurance-mcp,Assurance,0.5.3,https://github.com/i-ops-hq/assurance,,Checks what an agent did NOT read. Coverage over a retrieval step or a folder.
+2026-09-28T19:55:07.284467Z,io.github.kyuza1/lpc-character-mcp,LPC Character Generator,0.4.0,https://github.com/kyuza1/lpc-character-mcp,,"Generate LPC pixel-art character spritesheets and export them to Godot, Unity and the web."
+2026-09-28T19:55:21.619904Z,io.github.Servosity/huntress-mcp,Huntress MCP,0.1.6,https://github.com/servosity/msp-skills,,"Every Huntress endpoint, plus a local SQLite mirror that delivers fleet-wide incident, coverage"
+2026-09-28T19:59:24.799773Z,io.github.SvenLC/historis,Historis,1.6.0,,streamable-http,"The memory of your business: an event-based CRM your assistant reads and writes, dated and signed."
+2026-09-28T20:00:43.620219Z,com.anahana/content-mcp,Anahana Content MCP,1.3.0,,streamable-http,"Wellness and angel-number articles in 24 languages, plus Nema products with prices and page links."
+2026-09-28T20:01:41.655919Z,ai.jasonlovell/site,Jason Lovell,1.0.0,,streamable-http,"Read-only tools for Jason Lovell's AI research: studies, builds, releases, search and contact."
+2026-09-28T20:03:02.931099Z,lt.konfiguratorius/pc-builder,"Konfiguratorius - PC builder, part prices and compatibility",1.0.1,,streamable-http,"Build a PC to a budget, check compatibility, estimate FPS. Prices refreshed at least twice a day."
+2026-09-28T20:03:41.911714Z,io.github.Mohabdo21/linux-mcp,Linux MCP,0.2.16,https://github.com/Mohabdo21/linux-mcp,,"Linux MCP server for real-time system monitoring - CPU, memory, disk, network, processes, Docker."
+2026-09-28T20:09:41.883904Z,site.coze.page.dytsk9wrfv/groundtruth,GroundTruth: 2026 US Tariff & Landed Cost,1.0.0,,streamable-http,"Source-linked 2026 US duty and landed cost facts for AI agents: layered tariffs, MPF and HMF."
+2026-09-28T20:10:38.438278Z,io.github.AbYousef739/signalpipe,,2.1.2,https://github.com/AbYousef739/signalpipe,streamable-http,Buying-intent judgement for AI agents: a three-judge panel scores any text as buyer or not.
+2026-09-28T20:11:58.21534Z,io.github.pipeworx-io/dropbox,Dropbox,0.1.3,https://github.com/pipeworx-io/mcp-dropbox,streamable-http,Dropbox MCP Pack — wraps the Dropbox API v2
