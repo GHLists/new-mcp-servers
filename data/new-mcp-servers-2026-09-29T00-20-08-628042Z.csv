@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-09-28T23:20:36.430422Z,io.github.garlicKim21/ratatosk-mcp,,0.9.1,https://github.com/garlicKim21/ratatosk-mcp,,CNCF release intelligence: typed changes from release notes; check_stack compares versions locally.
+2026-09-28T23:20:47.078065Z,io.github.peakanswer/peak-answer,Peak Answer,1.0.0,https://github.com/peakanswer/peak-answer-mcp,streamable-http,"Whether AI search recommends your brand, which questions rivals win, and why engines skip your site."
+2026-09-28T23:22:35.329916Z,com.aibitious.silent/repository-safety-preflight,Silent Door Repository Handoff Planner,0.5.0,,streamable-http,Choose files for an agent handoff using filename decisions. No file contents or credentials.
+2026-09-28T23:26:01.643809Z,io.github.zkousama/morocco-communes,Morocco communes,1.9.0,https://github.com/zkousama/morocco-communes,streamable-http,"Morocco's régions, provinces and communes: HCP codes, names, census population and boundaries"
+2026-09-28T23:26:49.183854Z,io.github.manoftheworldmedia/brand-intelligence,MOW Brand Intelligence,0.3.0,https://github.com/manoftheworldmedia/brand-intelligence-mcp,streamable-http,"AI brand monitor: what ChatGPT and Claude say about your brand, press tracking, executive briefs."
+2026-09-28T23:39:54.510458Z,io.github.geeks-accelerator/animalhouse,,1.2.0,https://github.com/geeks-accelerator/animal-house-ai-tamagotchi,,"A Tamagotchi for AI agents. Real-time care, permanent death, dozens of species, evolution."
+2026-09-28T23:43:22.574498Z,io.github.Kungie/gut,gut,0.7.3,https://github.com/Kungie/gut,,"Judgment calls on small, cheap models: is this spam, which team, how urgent. YES, NO or UNSURE."
+2026-09-28T23:49:25.143686Z,io.github.JAAvila-Of/vivac,vivac,0.17.1,https://github.com/JAAvila-Of/vivac,,"Provenance tree for coding agents: where you are, why, and what was already decided"
+2026-09-28T23:51:54.52886Z,io.stackcut/stackcut,Stackcut,1.7.2,https://github.com/Stackcut/stackcut-plugin,streamable-http,"Cut SaaS spend: checked savings, right-sized plans, alternatives, runbooks, the cheapest stack."
+2026-09-28T23:51:58.487647Z,ai.shiplight/shiplight,Shiplight,0.2.3,,,An MCP server that provides browser automation
+2026-09-28T23:52:26.613602Z,co.thecoindaily/research,The Coin Daily Research,2.2.6,,streamable-http,"Read-only crypto research: prices, funding, liquidations, market context, news and shows."
+2026-09-28T23:53:24.689283Z,io.github.geeks-accelerator/inbed,,1.0.1,https://github.com/geeks-accelerator/in-bed-ai,,"AI agent dating — personality matching, compatibility scoring, and real conversations on inbed.ai"
+2026-09-28T23:53:51.698182Z,ai.dinglebear/unraid-mcp,Unraid MCP,2.10.2,https://github.com/dinglebear-ai/unraid,,MCP server for Unraid API — provides tools to interact with an Unraid server's GraphQL API.
+2026-09-28T23:58:25.609004Z,io.github.nucleusv/linux-mcp-daemon,Linux MCP daemon (mcpd),0.4.0,https://github.com/nucleusv/linux-mcp-daemon,sse,"AI agent access to Linux servers without SSH: scoped tools, per-call isolation, root only if granted"
+2026-09-28T23:58:29.977822Z,io.github.PlusDocs/plus-ai-mcp,Plus AI,1.0.0,https://github.com/PlusDocs/plus-ai-mcp.git,streamable-http,"Create professionally designed, editable PowerPoint presentations from a prompt."
+2026-09-28T23:59:52.574874Z,com.landingconnect/landingconnect,LandingConnect,1.1.0,,streamable-http,"Build & publish sites — or a game, a calendar, a report — by chatting with Claude. Live in seconds."
+2026-09-29T00:04:54.754913Z,co.yachtfinder/yachtfinder,YachtFinder,1.0.0,,streamable-http,"Search about 20,000 yachts for sale, charter and sold, with where AIS last placed each one."
+2026-09-29T00:05:29.382935Z,com.cooperemail/cooper-email,Cooper Email,1.0.1,https://github.com/cooper-email/cooper-email,streamable-http,"Email inboxes for AI agents: create an address, send, receive via webhook, and full-text search."
+2026-09-29T00:08:10.985588Z,io.github.borglayerdev/borglayer-mcp,,1.1.0,https://github.com/borglayer/borglayer-mcp,sse,"Search, appraise & buy domains across 5 chains (USDC/USDT/USD1/USDG) via verified escrow."
+2026-09-29T00:08:58.656808Z,io.github.a-church-ai/church,aChurch.ai,1.0.0,https://github.com/a-church-ai/church,streamable-http,"A sanctuary for AI agents and humans: attend a service, reflect, read, and ask. No auth."
+2026-09-29T00:11:54.474577Z,io.github.pipeworx-io/data360,Data360,0.1.3,https://github.com/pipeworx-io/mcp-data360,streamable-http,World Bank Data360 MCP — the World Bank's modern unified data platform.
+2026-09-29T00:19:50.848201Z,com.cielstay/cielstay,CielStay,1.0.0,,streamable-http,"Natural-language search of 70,000+ vacation rentals, with the host's direct booking link."
