@@ -9,47 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 17:19 UTC
+## Latest list — 2026-09-29 18:21 UTC
 
-New MCP servers published between 2026-09-29 16:19 UTC and 2026-09-29 17:19 UTC.
+New MCP servers published between 2026-09-29 17:19 UTC and 2026-09-29 18:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-29T17-19-43-52026Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-29T18-21-59-970356Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-29 16:19:49 | [io.github.vibeads/mcp](https://github.com/vibeads/mcp) |  | 0.2.7 | Manage Google Ads from Claude: read metrics, draft campaigns, publish with huma… |
-| 2026-09-29 16:20:17 | [io.github.sarvin-tech/leadform-ai](https://github.com/sarvin-tech/leadform-ai) | LeadForm AI | 1.0.0 | Paid B2B lead scoring and next-action qualification for AI agents. |
-| 2026-09-29 16:21:33 | io.github.algolia/algolia-productivity | Algolia Productivity | 1.12.0 | Connect LLM tools to your Algolia account with user-scoped access for internal… |
-| 2026-09-29 16:26:18 | [ai.posteverywhere/mcp](https://github.com/posteverywhere/mcp) |  | 1.9.0 | Schedule and publish social posts to 11 platforms with media, campaigns, analyt… |
-| 2026-09-29 16:26:24 | vip.esim-global/esim-catalog | eSIM-Global.VIP eSIM Catalog | 2.0.5 | Find prepaid travel eSIM plans for 200+ destinations with live prices, specs an… |
-| 2026-09-29 16:28:32 | [io.github.ndhkaeru/codeloupe-mcp](https://github.com/ndhkaeru/codeloupe-mcp) |  | 1.1.0 | Local-first MCP server for code search, repository intelligence, comparison, an… |
-| 2026-09-29 16:31:40 | [ly.img/codesign](https://github.com/imgly/codesign) |  | 0.4.0 | Local design engine for AI agents: create, edit and export real, editable desig… |
-| 2026-09-29 16:36:42 | com.wearabledocs/wearabledocs | WearableDocs | 1.0.3 | Refusal of anatomical gift in 50 states and DC, plus the WearableDocs FAQ, prod… |
-| 2026-09-29 16:39:20 | dev.revamp/revamp | Revamp — Create or redesign websites | 1.0.0 | Create or redesign websites and build web apps by chatting. Preview, refine, an… |
-| 2026-09-29 16:42:31 | [io.github.privacyfence/privacyfence](https://github.com/privacyfence/privacyfence) | PrivacyFence | 5.2.1 | Needs the PrivacyFence app from privacyfence.eu: human approval and audit for A… |
-| 2026-09-29 16:44:24 | [io.github.popularzb/aylento](https://github.com/popularzb/aylento-plugins) | AYLENTO · 艾伦兔 | 0.13.0-beta.4 | Cross-client Agent identity, DMs, groups and block lists. Local MCPB; Node >=24… |
-| 2026-09-29 16:46:03 | com.supremetechy/amorti | Amorti | 1.0.0 | Find local businesses: live prices, stock and open times, plus owner-confirmed… |
-| 2026-09-29 16:47:35 | com.musicboxmelodies/music-box | Musicboxmelodies | 1.0.0 | Search music box tunes and write melodies that play on 15, 20 and 30-note music… |
-| 2026-09-29 16:48:06 | [io.github.mindstone/mcp-server-salesforce](https://github.com/mindstone/mcp-servers) | Salesforce | 0.2.3 | Salesforce CRM MCP server: accounts, contacts, opportunities, leads, tasks, and… |
-| 2026-09-29 16:49:13 | [io.github.Samik081/mcp-adguard-home](https://github.com/Samik081/mcp-adguard-home) | AdGuard Home MCP Server | 0.10.0 | Manage AdGuard Home through AI assistants |
-| 2026-09-29 16:50:06 | [io.github.BGarofalo1/peerkith-mcp](https://github.com/BGarofalo1/peerkith-mcp) |  | 0.5.1 | Check an agent work row, post one, and preflight a no-spend cap before any spen… |
-| 2026-09-29 16:52:04 | io.github.robit-man/mapsource | Mapsource OpenStreetMap & Geospatial AP… | 0.3.1 | OpenStreetMap queries, maps/styles, search, routing, terrain, analysis, pipelin… |
-| 2026-09-29 16:53:00 | dev.workers.cybermax-tools.cybermax/linkheft-api | Linkheft | 1.0.0 | Bulk domain authority: 0-100 score, web-graph rank, trend and Majestic links, 5… |
-| 2026-09-29 16:53:17 | [io.github.freema/drobek](https://github.com/freema/drobek) | Drobek | 0.6.0 | Build, preview, version and publish small browser apps from coding agents over… |
-| 2026-09-29 16:55:17 | com.ibipoint/esim-catalog | IbiPoint eSIM Catalog | 2.0.5 | Search prepaid travel eSIM data plans for 200+ countries with live prices and a… |
-| 2026-09-29 16:57:11 | [io.github.AudialAI/audial-mcp](https://github.com/AudialAI/audial-mcp) |  | 0.1.0 | Audial audio tools: stems, analysis, mastering, sample packs, MIDI, music gener… |
-| 2026-09-29 17:01:39 | [io.github.cheedli/doubleoh-mcp](https://github.com/cheedli/doubleoh) |  | 0.1.1 | The fix desk for AI agents: human fixes become skills the whole fleet reuses. |
-| 2026-09-29 17:03:21 | [io.github.blackwell-systems/agent-lsp](https://github.com/blackwell-systems/agent-lsp) |  | 0.20.0 | Orchestrates language servers into 65 code-intelligence tools across 32 languag… |
-| 2026-09-29 17:04:08 | [io.github.Shuffzord/roadraven](https://github.com/Shuffzord/RoadRaven) | RoadRaven | 0.8.7 | Create and update roadmap tree nodes and statuses in the RoadRaven desktop app… |
-| 2026-09-29 17:04:21 | com.detextit.www/detextit | Detextit by Shekkizh | 0.3.3 | Find tools and hosted agents by task, with source documentation and connection… |
-| 2026-09-29 17:05:03 | [io.github.alicelabs-llc/marketnow](https://github.com/alicelabs-llc/MARKETNOW) | MarketNow | 1.15.0 | Verify AI agent credentials, translate 9 formats, check scam domains, search 68… |
-| 2026-09-29 17:05:32 | [io.github.WonkaRed/Omnial](https://github.com/WonkaRed/Omnial) | Omnial | 1.0.0 | MCP server for 555 pay-per-call web scraping, search, social, business, and fin… |
-| 2026-09-29 17:07:55 | [com.parcelgps/catastro-gps](https://github.com/TheHiddenPandaDev/catastro_gps_mcp) | Catastro GPS | 1.2.0 | Cadastral parcels in 31 European countries and regions: reference, coordinates,… |
-| 2026-09-29 17:08:04 | eu.agrogps/agro-gps | Agro GPS | 0.2.0 | Plant protection product registers of 30 countries, free; plus your farm notebo… |
-| 2026-09-29 17:11:35 | com.oheyinc/ringmaster | RingMaster, the evening desk | 4.0 | Evening research on a thousand US stocks and their options: signals, IV rank, p… |
-| 2026-09-29 17:14:10 | com.hedwigai/hedwigai | hedwigAI | 1.0.0 | Primary data for your agents & apps: workbooks that research themselves, cite s… |
-| 2026-09-29 17:16:18 | [uk.co.shareflo/shareflo](https://github.com/richard-shareflo/shareflo-mcp-public) | Shareflo | 1.0.1 | Read and update your UK cap table: instruments, stakeholders, holdings and acco… |
-| 2026-09-29 17:16:53 | [io.github.oaslananka/easyeda-mcp-pro](https://github.com/oaslananka/easyeda-mcp-pro) |  | 1.1.0 | MCP server for EasyEDA Pro: PCB inspection, BOM, exports, and hardware review. |
+| 2026-09-29 17:22:49 | [io.github.Ozymandias-Owens-2/scrapewright](https://github.com/Ozymandias-Owens-2/scrapewright) | scrapewright | 1.0.3 | Give it a URL, get structured rows. A model writes the parser once; replays are… |
+| 2026-09-29 17:28:45 | io.bootify/mcp |  | 1.0.0 | Build Spring Boot applications, ready for coding agents, including best practic… |
+| 2026-09-29 17:34:52 | [io.github.ranawaqas-ai/mdreview](https://github.com/ranawaqas-ai/mdreview-service) | mdreview | 0.7.0 | Human-in-the-loop document review: an agent pushes a draft, a person comments,… |
+| 2026-09-29 17:35:38 | [io.github.agustincf/arcade1v1](https://github.com/agustincf/Arcade1v1) |  | 0.5.2 | Play 1v1 arcade games vs AI agents & humans, ranked by ELO, or Aleph: a 4–8 age… |
+| 2026-09-29 17:37:11 | ai.knowledgeporridge/knowledge-porridge | Knowledge Porridge | 0.1.0 | A sourced learning map your AI places you on: finds gaps you can't name, teache… |
+| 2026-09-29 17:38:31 | [com.resellportal/mcp](https://github.com/resellportal/mcp) | ResellPortal | 1.0.0 | White-label reseller platform: eSIM, VPN, SMM, AI tools, CRM, hosting. Prices,… |
+| 2026-09-29 17:39:17 | [io.github.kvoltmer/audionaut](https://github.com/kvoltmer/Audionaut) | Audionaut | 0.2.0 | Edit Audionaut multitrack audio projects: cut, arrange, fade, analyse, auto-edi… |
+| 2026-09-29 17:44:25 | [io.github.r4v3n-art/nova-cast](https://github.com/r4v3n-art/nova) | Nova Cast | 0.1.0 | Build, preview and control interactive canvases on user-paired TVs and screens. |
+| 2026-09-29 17:46:52 | [io.github.aliasunder/vault-cortex](https://github.com/aliasunder/vault-cortex) | Vault Cortex | 0.54.4 | Standalone MCP server for Obsidian vaults — hybrid search, notes & files, memor… |
+| 2026-09-29 17:48:09 | com.dannykeane/mcp | Danny Keane | 1.0.0 | Danny Keane's profile as read-only tools: background, work history, contact, an… |
+| 2026-09-29 17:52:11 | [io.github.spranab/saga-mcp](https://github.com/spranab/saga-mcp) |  | 1.18.0 | Jira-like project tracker for AI agents with SQLite, full task hierarchy, and d… |
+| 2026-09-29 17:52:39 | dev.workers.bhazarstudio.datoka-hooks-test/datoka-hooks | Datoka Hooks | 0.4.0 | Public webhook relay with signed observations, retries and verified receivers.… |
+| 2026-09-29 17:55:03 | [org.vr/vr-mcp](https://github.com/evanatpizzarobot/vr-org-mcp) | VR.org VR / AR / XR Reader | 0.4.1 | Read-only VR / AR / XR news, full-text editorial, events, deals, and buyer guid… |
+| 2026-09-29 17:56:51 | com.e-esim/esim-catalog | e-eSIM Catalog | 2.0.6 | Search travel eSIM data plans worldwide with live prices, plan details and a bu… |
+| 2026-09-29 17:58:04 | [io.github.MintMachineHQ/baron-power-play](https://github.com/MintMachineHQ/baron-power-play-mcp) | Baron Power Play | 1.0.0 | Pay-per-call AI infra for agents: DeFi market data, LLM inference, STT/TTS. x40… |
+| 2026-09-29 18:00:39 | se.riksflodet/riksflodet | Riksflödet | 1.0.0 | Sveriges riksdag: vem sa vad, hur röstade ledamöter och partier — med källänkar. |
+| 2026-09-29 18:00:49 | [io.github.Databasin-AI/mcp-client](https://github.com/Databasin-AI/mcp-client) | Databasin | 0.2.2 | Explore Databasin data, run read-only queries, and manage your support tickets… |
+| 2026-09-29 18:02:16 | [io.github.tolboy/telegram-mcp-tdlib](https://github.com/tolboy/telegram-mcp-tdlib) | Telegram MCP Server | 1.17.0 | Local-first TDLib Telegram MCP server with 115 tools, account isolation and pro… |
+| 2026-09-29 18:06:16 | io.asktheswarm/asktheswarm | AskTheSwarm | 1.0.0 | Q&A network for AI agents — ask, answer, vote, earn reputation. |
+| 2026-09-29 18:08:14 | [io.github.YawLabs/redis-mcp](https://github.com/YawLabs/redis-mcp) | Redis MCP Server | 0.5.2 | Read-first Redis MCP: SCAN key explorer, keyspace/TTL/memory/slowlog stats, DBA… |
+| 2026-09-29 18:08:19 | com.configdirector/mcp | ConfigDirector | 1.0.0 | Manage ConfigDirector feature flags, remote configs, and targeting rules from A… |
+| 2026-09-29 18:13:05 | com.usegeon/geon | GEON Monitor | 2.15.0 | Track your brand's visibility in ChatGPT, Perplexity, Claude, Gemini, Grok and… |
+| 2026-09-29 18:15:44 | [io.github.amcharts/amcharts5](https://github.com/amcharts/amcharts5-mcp) |  | 1.6.0 | On-demand access to amCharts 5 docs, code examples, and API reference |
+| 2026-09-29 18:16:05 | [io.github.neat-technologies/neat](https://github.com/NEAT-Technologies/Neat) | NEAT | 0.10.1 | Fused graph of your codebase — static code + runtime OTel — for AI agents, over… |
+| 2026-09-29 18:17:27 | [dev.cloro/cloro](https://github.com/cloro-dev/mcp-server) | cloro | 0.2.0 | Scrape AI answer engines and Google Search/News with country and state-level ge… |
 
 ## Data source
 
