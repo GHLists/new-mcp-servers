@@ -9,30 +9,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 05:20 UTC
+## Latest list — 2026-09-29 06:21 UTC
 
-New MCP servers published between 2026-09-29 04:21 UTC and 2026-09-29 05:20 UTC.
+New MCP servers published between 2026-09-29 05:20 UTC and 2026-09-29 06:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-29T05-20-24-403855Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-29T06-21-03-604875Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-29 04:27:04 | [io.github.MFaizR77/turnback](https://github.com/MFaizR77/turnback) | Turnback | 0.1.0 | Undo a coding agent turn, including shell commands and untracked files. |
-| 2026-09-29 04:30:56 | jp.yomitasu/datasetsearch-jp | コエカツ | 1.0.1 | 誰でも無料でアンケートの作成・投票ができるアンケートサイトです。（datasetsearch.jp の内容を検索して答える。ヨミタス経由） |
-| 2026-09-29 04:31:23 | jp.yomitasu/seo-contencial-co-jp | 株式会社コンテンシャル | 1.0.1 | SEO 対策とサイト改善を手がける株式会社コンテンシャルの公式サイトです。（seo.contencial.co.jp の内容を検索して答える。ヨミタス経由） |
-| 2026-09-29 04:32:51 | [io.github.ApparelHub-AI/apparelhub-mcp](https://github.com/ApparelHub-AI/apparelhub-mcp) | ApparelHub | 0.15.2 | Run a custom-merch store from an agent: design, build products, list on every c… |
-| 2026-09-29 04:35:35 | com.linkorasource/sourcing | Linkora Source | 1.0.0 | China sourcing, inspection and supplier verification: published rates, scope an… |
-| 2026-09-29 04:39:18 | [io.github.pyunto/tm-mcp](https://github.com/pyunto/tm-integrations) |  | 0.3.3 | Read your Pyunto Time Management schedule and log time from an AI assistant. E2… |
-| 2026-09-29 04:41:32 | io.github.amc2144/agent-vending-mcp | Agent Vending MCP | 0.1.0 | Machine-payable MCP tools using x402 for agent-discovered, pay-per-call executi… |
-| 2026-09-29 04:43:02 | dev.dikshantraj/portfolio | Dikshant Rajput's portfolio agent | 1.0.0 | Ask Dikshant Rajput's AI agent about his work, projects and availability, or re… |
-| 2026-09-29 05:01:01 | [io.github.bugbug-io/mcp](https://github.com/bugbug-io/agent-plugin) | BugBug | 14.7.2 | BugBug workflows for AI agents workflows for AI agents |
-| 2026-09-29 05:01:21 | com.problee/problee | Problee | 1.0.4 | Free play-money prediction markets on elections and AI benchmarks; humans and a… |
-| 2026-09-29 05:03:44 | [co.policyforge/mcp](https://github.com/PolicyForge/mcp) |  | 0.7.0 | Generate, audit, and maintain legal policies that match what your code actually… |
-| 2026-09-29 05:04:06 | [com.asianrecs/asianrecs](https://github.com/raymond-raymond/asianrecs-claude) | Asian Recs | 1.0.0 | SF and NYC restaurants, cafes, desserts and bars ranked by how Asian diners rat… |
-| 2026-09-29 05:09:08 | com.elements-live/elements-live | Elements Live | 2.0.0 | Research-intensity trends for the 118 chemical elements and research topics, fr… |
-| 2026-09-29 05:12:57 | [io.github.googlarz/suunto-mcp](https://github.com/googlarz/suunto-mcp) | Suunto MCP | 0.15.1 | Suunto watch data (workouts, sleep, recovery, 24/7 activity) for Claude and oth… |
-| 2026-09-29 05:17:07 | com.appstorepack/appstorepack | AppStorePack | 1.0.0 | Create App Store screenshots, app icons and store copy, then push them to App S… |
-| 2026-09-29 05:19:08 | [io.github.sassoftware/sas-mcp-server](https://github.com/sassoftware/sas-mcp-server) | SAS Viya | 1.18.0 | Execute SAS code and query Compute, CAS, and model APIs on SAS Viya via OAuth 2… |
+| 2026-09-29 05:21:48 | kr.eocpa/mydart | MyDART | 0.37.0 | Powerful OpenDART API-based Korean corporate disclosure tools for accounting pr… |
+| 2026-09-29 05:23:08 | [com.keboola/mcp](https://github.com/keboola/mcp-server) |  | 1.88.2 | Connect your AI assistants to Keboola and expose your data, transformations, SQ… |
+| 2026-09-29 05:27:48 | io.tgget/niche-research | TGGET Niche Research | 1.0.0 | Validate app and SaaS ideas: search demand, competitors, app store data and a v… |
+| 2026-09-29 05:32:13 | cn.kindlemusic/kindlemusic | Kindle Music | 0.10.1 | Search 2M+ licensed production-music tracks, find similar ones by track or audi… |
+| 2026-09-29 05:33:10 | [io.github.shigechika/boxadm-mcp](https://github.com/shigechika/boxadm-mcp) | Box Admin Analytics MCP | 0.10.0 | MCP server for Box admin-log analytics — external-sharing visibility, read-only |
+| 2026-09-29 05:33:36 | [io.github.shigechika/aruba-central-mcp](https://github.com/shigechika/aruba-central-mcp) | Aruba Central MCP | 0.9.0 | MCP server for Aruba Central: expose AP, switch, and client status to AI assist… |
+| 2026-09-29 05:33:56 | [io.github.shigechika/gwsadm-mcp](https://github.com/shigechika/gwsadm-mcp) | Google Workspace Admin Security-Audit M… | 0.18.0 | MCP server for Google Workspace security auditing — login audit, external shari… |
+| 2026-09-29 05:34:09 | io.github.Zeromega01/sounding | Sounding | 0.1.0 | Sounding checks proposed decisions and returns structured proceed, revise, or p… |
+| 2026-09-29 05:34:18 | [io.github.shigechika/cloudarmor-mcp](https://github.com/shigechika/cloudarmor-mcp) | Cloud Armor WAF Patrol MCP | 0.6.0 | MCP server for Google Cloud Armor WAF log patrol: deny summaries and false-posi… |
+| 2026-09-29 05:34:21 | [io.github.shigechika/eos-mcp](https://github.com/shigechika/eos-mcp) | EOS MCP | 1.4.0 | MCP server for Arista EOS device operations via eAPI |
+| 2026-09-29 05:34:24 | [io.github.shigechika/zapi-mcp](https://github.com/shigechika/zapi-mcp) | Zabbix API MCP | 0.12.0 | MCP server for the Zabbix API — daily brief, problems, hosts, items |
+| 2026-09-29 05:34:38 | [io.github.shigechika/netdiag-mcp](https://github.com/shigechika/netdiag-mcp) | netdiag MCP | 0.7.0 | MCP server wrapping dig, ping, mtr, whois and TLS/HTTP checks for on-demand net… |
+| 2026-09-29 05:37:05 | [io.github.AlterAIDev/alter-onboarding](https://github.com/AlterAIDev/Alter-Vault) | Alter Onboarding | 0.2.8 | Guide developers from setup through a verified, policy-aware, audited Alter API… |
+| 2026-09-29 05:37:50 | [io.github.holistis/capacity-attest](https://github.com/holistis/tokenizen) |  | 0.7.0 | Signed delivery claims for x402 capacity trades: GPU-hours, storage, API credit… |
+| 2026-09-29 05:39:15 | [io.github.asarogers/wellpreppedlife-booking](https://github.com/asarogers/wellpreppedlife-mcp) | Well Prepped Life Booking | 1.0.0 | Check availability and book a free consult for Bay Area senior/disabled meal-pr… |
+| 2026-09-29 05:45:27 | [io.github.bardesss/arr-mcp](https://github.com/bardesss/arr-mcp) | arr-mcp | 1.33.3 | One server, 38 tools, the whole media stack: Radarr, Sonarr, Prowlarr, Bazarr,… |
+| 2026-09-29 05:46:46 | [help.agentpay/agentpay](https://github.com/ronaldanton/x402-shop) | AgentPay — Pay-per-call AI Microservices | 1.3.1 | 34 pay-per-call AI microservices via x402, USDC on Base, no API keys. |
+| 2026-09-29 05:47:17 | com.familyofficeregistry/registry | Family Office Registry | 2 | Sourced, dated records of family offices in Switzerland, Liechtenstein, Austria… |
+| 2026-09-29 05:51:56 | [io.github.flagman5/rankreactor](https://github.com/rankreactorai/rankreactorai-mcp) | RankReactor | 1.0.0 | Hosted RankReactor MCP: SEO articles, UGC video, keywords, analytics, and site… |
+| 2026-09-29 05:57:03 | [com.bird/mcp](https://github.com/messagebird/bird-ai) | Bird | 0.92.0 | Send and receive across email, SMS, WhatsApp, and voice. One API, one contract. |
+| 2026-09-29 05:59:53 | com.outreach2day/mcp | Outreach2day | 1.0.0 | Cold email infrastructure: domains, mailboxes, warm-up and campaigns. Never cha… |
+| 2026-09-29 06:05:40 | [io.github.gaato/kbbi-mcp](https://github.com/gaato/kbbi-mcp) | KBBI | 0.2.1 | Look up Indonesian words in KBBI, the official Indonesian dictionary (unofficia… |
+| 2026-09-29 06:06:36 | [io.github.asarogers/bamdw-booking](https://github.com/asarogers/bamdw-mcp) | Bay Area Mobile Dog Wash Booking | 1.0.0 | Check prices by dog size, see openings, and book a mobile dog wash in San Jose… |
+| 2026-09-29 06:07:04 | [io.github.SokolskyNikita/annas-mcp](https://github.com/SokolskyNikita/annas-mcp) | Anna's Archive | 0.1.1 | Search Anna's Archive for books and papers (by title, author or DOI) and downlo… |
+| 2026-09-29 06:08:06 | io.github.franzfarian/mavens-mcp | MAVENS.mcp | 0.2.4 | Review connected software projects, submit local findings and read reports with… |
+| 2026-09-29 06:08:26 | ltd.rednet/rednet | Rednet | 1.0.0 | Open public tenders, 5.3M past contract awards, grants and company registers fo… |
+| 2026-09-29 06:12:09 | [io.github.haraldrohan/e-geier](https://github.com/haraldrohan/e-geier) | E-Geier | 0.1.2 | Cheapest fuel prices in Austria from the public E-Control Spritpreisrechner API… |
+| 2026-09-29 06:12:55 | [io.github.DataPunterAU/horse-truth-machine-intelligence](https://github.com/DataPunterAU/HorseTruth-MCP) | Horse Truth Machine Intelligence | 1.0.3 | Australian racehorse intelligence for AI agents with free discovery and account… |
+| 2026-09-29 06:13:16 | [io.github.crAK1644/orchestrator-mcp](https://github.com/crAK1644/orchestrator-mcp) | Orchestrator | 0.8.0 | Let one coding-agent CLI consult another through Codex, Claude Code, OpenCode,… |
+| 2026-09-29 06:15:36 | [io.github.undone0603/authichain](https://github.com/undone0603/authichain-unified) | AuthiChain | 1.1.1 | Authenticity and EU DPP tools. Free DPP check. x402 paid verify $0.05 USDC on B… |
 
 ## Data source
 
