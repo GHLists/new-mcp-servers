@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-09-29T06:23:39.996547Z,io.github.amc2144/construction-leads,Horry County Construction Leads,0.1.0,,streamable-http,"Live Horry County construction leads for low-voltage, networking, security, AV, POS, and electrical."
+2026-09-29T06:25:07.285042Z,io.github.ravhirizaldi/mempersist,MemPersist,1.0.1,https://github.com/ravhirizaldi/mempersist,streamable-http,"Durable, revision-pinned memory storage and retrieval for AI conversations."
+2026-09-29T06:25:09.875537Z,io.github.mcp-telegram/mcp-telegram,Chatroost — unofficial Telegram MCP server,1.43.1,https://github.com/mcp-telegram/mcp-telegram,streamable-http,"Unofficial Telegram MCP server — read, search, reply and react in your own Telegram account."
+2026-09-29T06:25:48.98122Z,io.github.BehnamJalaliCo/codecortex-context-engine,CodeCortex Context Engine,0.1.0a10,https://github.com/BehnamJalaliCo/CodeCortex,,"Context intelligence for AI coding agents: navigation, impact, memory, guarded edits."
+2026-09-29T06:27:52.439369Z,io.github.inotakeh/symbol,,0.9.2,https://github.com/inotakeh/symbol-mcp-server,,"Read-only MCP server for the Symbol blockchain (XYM): node health, harvesting, voting keys."
+2026-09-29T06:33:07.807674Z,com.dealsurface/dealsurface,,2.6.0,,,MCP server for DealSurface.com sales intelligence platform.
+2026-09-29T06:43:05.269956Z,io.github.nevermined-io/catalog,Nevermined Catalog,1.51.0,https://github.com/nevermined-io/nvm-monorepo,streamable-http,Discover and pay for services from the Nevermined Catalog using a spend-capped budget.
+2026-09-29T06:47:43.072857Z,io.github.ExaDev/agent-comms,Agent Comms,8.0.9,https://github.com/ExaDev/agent-comms,,"Cross-harness communication mesh for LLM agents — rooms, DMs, presence, and visibility over TCP"
+2026-09-29T06:51:32.408686Z,io.github.tresor4k/creavores-aeo-mcp,Créavores AEO Audit,1.0.3,https://github.com/tresor4k/creavores-aeo-mcp,,"AEO / AI-search audit of any URL: direct answers, JSON-LD, llms.txt, E-E-A-T, AI citations."
+2026-09-29T06:56:51.270253Z,io.github.keenanlk/stayput,StayPut,0.1.0,https://github.com/keenanlk/stayput,,"Local PDF and photo tools: merge, split, rotate, number PDFs; strip photo GPS. No uploads."
+2026-09-29T06:57:09.263302Z,io.getsign/getsign-mcp,,1.1.2,,streamable-http,"Send, track, and complete e-signature workflows on monday.com boards."
+2026-09-29T06:58:05.835817Z,ai.bourdon/bourdon,Bourdon,0.27.0,,,Recognition-first cross-agent memory federation. One shared memory across all your agents.
+2026-09-29T06:59:39.846257Z,com.chasync/chasync,Chasync,1.0.8,,streamable-http,"Manage Chasync funnels, forms, email templates and leads from MCP-compatible AI assistants."
+2026-09-29T06:59:52.176667Z,io.github.flowing-abyss/obsidian-hybrid-search,Obsidian Hybrid Search,0.16.0,https://github.com/flowing-abyss/obsidian-hybrid-search,,"Search Obsidian vaults with hybrid full-text, fuzzy, semantic, and graph retrieval."
+2026-09-29T07:03:22.831828Z,fyi.smartfin/smartfin,SmartFin,3.0.0,,streamable-http,"Backtest S&P 500 stocks and ETFs on real prices, plus loan, savings, FIRE and retirement tools."
+2026-09-29T07:06:01.86656Z,com.ihateposting/mcp,iHatePosting,0.9.1-1,,streamable-http; streamable-http,"Draft, check and schedule posts to your connected social accounts from Claude, ChatGPT or Cursor."
+2026-09-29T07:06:04.330509Z,io.github.marcomq/mq-bridge-app,mq-bridge-app,0.4.16,https://github.com/marcomq/mq-bridge,,"Move data between 15+ databases, queues and files at high throughput, without it entering context"
+2026-09-29T07:07:37.418027Z,io.github.azimov777/casefile,Casefile,0.6.0,https://github.com/azimov777/casefile,,"Self-hosted task tracker for AI agents: a case file per task, so hand-offs survive a fresh context."
+2026-09-29T07:08:39.513004Z,com.ribqa/sentinel-aleph,Sentinel Aleph,2.0.2,,streamable-http,"Crypto signals, public ledger, BTC chart read, news, your strategies and backtests. No trading."
+2026-09-29T07:10:37.900378Z,io.github.gridhra/atx-mcp,atx-mcp,0.6.3,https://github.com/gridhra/atx-mcp,,"Deterministic, non-generative image transform MCP server: reproducible recipes, immutable originals."
