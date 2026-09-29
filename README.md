@@ -9,41 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 01:21 UTC
+## Latest list — 2026-09-29 02:22 UTC
 
-New MCP servers published between 2026-09-29 00:20 UTC and 2026-09-29 01:21 UTC.
+New MCP servers published between 2026-09-29 01:21 UTC and 2026-09-29 02:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-29T01-21-36-36828Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-29T02-22-13-813321Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-29 00:21:02 | com.fuelazores/fuel-prices | FuelAzores | 1.0.0 | Official maximum fuel prices, effective dates and history for the Azores and Ma… |
-| 2026-09-29 00:22:20 | [io.github.jrpool/kilotest](https://github.com/jrpool/kilotest) | Kilotest | 57.0.0 | Ensemble testing of web pages for accessibility, usability, and standards confo… |
-| 2026-09-29 00:23:19 | [io.github.jamiew/monarch-mcp](https://github.com/jamiew/monarch-mcp) | Monarch MCP Server | 0.5.2 | Query and update Monarch Money accounts, transactions, and budgets |
-| 2026-09-29 00:31:42 | [br.com.oportunidados/mcp](https://github.com/Atmosphere-Technologies/atmosphere_app) | Oportunidados | 1.0.0 | Empresas do Brasil (CNPJ) e CRM da Oportunidados: busca, ficha completa, conta… |
-| 2026-09-29 00:31:48 | [io.github.LeandroPG19/memory-industry](https://github.com/LeandroPG19/Memorys) |  | 0.27.0 | MemoryIndustry persistent memory MCP server: BM25+MMR retrieval and audit. |
-| 2026-09-29 00:33:19 | [io.github.appwrite/mcp](https://github.com/appwrite/mcp) |  | 0.10.20 | Manage Appwrite projects, databases, auth, storage, functions, and messaging; s… |
-| 2026-09-29 00:35:14 | [io.github.logisky/logisheets-mcp](https://github.com/logisky/logisheets-mcp) | LogiSheets | 0.6.0 | An Excel-compatible spreadsheet engine for agents: deterministic formulas, bloc… |
-| 2026-09-29 00:39:18 | org.3dprinteverything/print-shop | 3D Print Everything | 1.0.0 | Get 3D printing and manufacturing quoted by a person, shipped anywhere in the U… |
-| 2026-09-29 00:40:00 | [com.twelvetake/gimp-studio-mcp](https://github.com/TwelveTake-Studios/gimp-studio-mcp) | GIMP Studio MCP | 0.3.3 | Lets an AI assistant edit images in GIMP 3, including print and DTF transfer pr… |
-| 2026-09-29 00:41:50 | ru.vibemarketolog/vibemarketolog | Вайб-Маркетолог — лендинг, A/B-тест и Я… | 1.3.0 | Гипотеза под ключ в ChatGPT и Claude: лендинг, A/B-тест, Яндекс Директ, Метрика… |
-| 2026-09-29 00:44:13 | [io.github.microsoft/awesome-copilot](https://github.com/microsoft/mcp-dotnet-samples) | Awesome Copilot MCP Server | 1.0.2026092900 | An MCP server that stores Copilot customizations from the Awesome Copilot repos… |
-| 2026-09-29 00:45:53 | [io.github.laogu-caibao/laogu-mcp](https://github.com/laogu-caibao/laogu-mcp) | laogu-mcp | 1.0.1 | 老谷拆财报 MCP Server：16 个 A 股财经 skill 的程序化数据层（零 key、纯公开接口）。 |
-| 2026-09-29 00:48:06 | com.coversignalai/jevan-nfl-picks | Cover Signal — Jevan NFL Picks | 1.0.0 | Free NFL ATS, moneyline and over/under picks, separate track records, and Jevan… |
-| 2026-09-29 00:49:25 | [app.svglab/svglab](https://github.com/ottoman9/svglab-mcp) | SVG Lab | 0.1.2 | SVG Lab MCP: the Design Engine for AI. App screens, icons, illustrations and ch… |
-| 2026-09-29 00:53:26 | [io.github.tstockham96/rail-mcp](https://github.com/tstockham96/rail-mcp) | Rail | 0.1.1 | Budgets, propose-then-approve, and receipts for agents that buy for a human. Dr… |
-| 2026-09-29 00:55:14 | [io.github.SamuelSHernandez/laserfiche-mcp](https://github.com/SamuelSHernandez/laserfiche-mcp) |  | 2.4.0 | MCP server for self-hosted Laserfiche repositories — search and read documents… |
-| 2026-09-29 00:56:49 | com.duoleads.api/data-utilities | Duo Data Utilities | 1.0.0 | 31 pay-per-call data utilities (IDs, time, text, codes, geo, chain, ref, number… |
-| 2026-09-29 00:56:53 | [io.github.leancoderkavy/premiere-pro](https://github.com/leancoderkavy/premiere-pro-mcp) | MCP for Adobe Premiere Pro | 1.18.3 | Local-first MCP for supported Adobe Premiere Pro workflows; start with a read-o… |
-| 2026-09-29 00:58:37 | [io.github.anulum/synapse-channel](https://github.com/anulum/synapse-channel) | SYNAPSE CHANNEL | 0.99.28 | Local-first multi-agent coordination for messages, leases, shared plans, status… |
-| 2026-09-29 00:59:09 | [io.github.smaniches/semantic-scholar-mcp](https://github.com/smaniches/semantic-scholar-mcp) | Semantic Scholar MCP Server | 1.7.5 | MCP server for the Semantic Scholar API: search 200M+ papers, citations, author… |
-| 2026-09-29 01:01:59 | io.github.AJ888/promptbrake-free-tools | PromptBrake Free Tools | 1.0.0 | Free AI security tools: injection payloads, OWASP LLM mapper, ADLC release plan… |
-| 2026-09-29 01:02:42 | ai.pipeledger/pipeledger | PipeLedger | 0.1.0 | Governed financial statements, metrics, and General Ledger detail from QuickBoo… |
-| 2026-09-29 01:06:36 | [io.github.forgemeshlabs/shopscout-mcp](https://github.com/forgemeshlabs/shopscout-mcp) |  | 0.3.0 | Let your agent shop and compare: Shopify catalog search, offer ranking, shippin… |
-| 2026-09-29 01:10:51 | ar.eltablero/argentina-economic-data | El Tablero: Argentina economic data | 1.1.0 | Argentine economic statistics from official sources (BCRA, INDEC): FX, inflatio… |
-| 2026-09-29 01:16:18 | org.flybest/travel-hotels | FlyBest Travel — Hotel Booking with Adv… | 1.0.0 | Travel: live hotel rates with advisor benefits (breakfast, credit, upgrade), bo… |
-| 2026-09-29 01:16:22 | ai.izap/whatsapp |  | 1.26.0 | WhatsApp assistants, messaging, broadcasts, and analytics for your iZap account… |
-| 2026-09-29 01:18:34 | [io.github.pad01g/proxy-shopping](https://github.com/pad01g/proxy-shopping-web) | proxy-shopping: buy anywhere with crypt… | 0.1.0 | Buy at cash-only or unsupported shops with BTC via a proxy shopper and 2-of-3 e… |
+| 2026-09-29 01:21:55 | [io.github.The-40-Thieves/obsidian-tc](https://github.com/The-40-Thieves/obsidian-tc) | Obsidian Turbocharged | 1.31.6 | Governed Obsidian vault access: hybrid retrieval, Markdown-native memory, HITL… |
+| 2026-09-29 01:22:50 | [io.github.yuridivonis/whoop-mcp-server](https://github.com/yuridivonis/whoop-mcp-server) | Whoop MCP Server | 1.4.2 | Your WHOOP recovery, sleep, strain and workouts in Claude, ChatGPT or other MCP… |
+| 2026-09-29 01:32:52 | io.github.anomaly-ai/anomaly | Anomaly AI | 1.0.0 | AI data analyst: ask about your Excel, CSV, GA4 or database data and get charts… |
+| 2026-09-29 01:38:13 | [io.github.pipeworx-io/patents](https://github.com/pipeworx-io/mcp-patents) | Patents | 0.1.8 | Patents MCP — wraps the USPTO Open Data Portal (ODP) Patent File Wrapper API |
+| 2026-09-29 01:43:43 | [io.github.neugence/whipscribe-mcp](https://github.com/neugence/whipscribe-mcp) |  | 0.1.4 | Transcribe audio/video files or URLs via the WhipScribe cloud API and fetch the… |
+| 2026-09-29 01:44:08 | app.jetopolis/game | Jetopolis | 1.0.0 | Airline strategy game 1950-2030: live worlds, leaders, historical airlines, air… |
+| 2026-09-29 01:44:10 | com.fordycecg/my-fordyce | My Fordyce | 2.61.0 | The backlog that hands out the work: multi-agent task coordination — leases, cl… |
+| 2026-09-29 01:44:35 | [io.github.domondi1/inferrail](https://github.com/domondi1/inferrail) | Inferrail | 0.4.6 | Local, payload-free AI cost visibility for agents. Query spend by model, route,… |
+| 2026-09-29 01:49:01 | [io.github.henfrydls/actual-budget-mcp](https://github.com/henfrydls/actual-budget-mcp.git) | Actual Budget | 0.10.0 | Spending analysis and safe writes for Actual Budget: every delete previews and… |
+| 2026-09-29 01:49:03 | dev.fly.basedworld/market | Basedworld Agentic Market | 1.0.0 | Search public creator offers and tools. Read-only; no payment or private data a… |
+| 2026-09-29 01:49:19 | [io.github.munimtechnologies/munim-computer-use](https://github.com/munimtechnologies/munim-computer-use) | Munim Computer Use | 0.4.4 | Accessibility-first desktop control for any agent: background input, agent poin… |
+| 2026-09-29 01:52:35 | ai.universalagents/universal-agents | Universal Agents | 1.1.0 | Ask Universal Agents what we sell (Interplay), pricing, and FAQs; draft an intr… |
+| 2026-09-29 02:00:18 | io.github.Lunarwerx/connections | Connections | 2.191.4 | AWS, GitHub and connected services from your agent, no keys to paste, plus loca… |
+| 2026-09-29 02:08:02 | click.findyourrolefirst/jobfeed | Find your role first | 1.0.0 | Fresh job listings read direct from thousands of company career pages, for your… |
+| 2026-09-29 02:08:44 | [io.github.shigechika/keycloak-mcp](https://github.com/shigechika/keycloak-mcp) | KeyCloak MCP | 0.21.1 | MCP server for KeyCloak Admin REST API via Service Account |
+| 2026-09-29 02:09:14 | [io.github.shigechika/entraadm-mcp](https://github.com/shigechika/entraadm-mcp) | entraadm MCP | 0.2.0 | MCP server for Microsoft Entra ID sign-in and audit-log triage (read-only) |
+| 2026-09-29 02:09:31 | [io.github.shigechika/junos-mcp](https://github.com/shigechika/junos-mcp) | Junos MCP | 0.19.0 | MCP server for Juniper Networks device operations via junos-ops |
+| 2026-09-29 02:10:09 | au.publicdata/mcp | publicdata.au | 1.0.0 | Search, filter, count and sum Australian government open data, with every versi… |
+| 2026-09-29 02:11:21 | [io.github.darylmcd/roslyn-mcp](https://github.com/darylmcd/Roslyn-Backed-MCP) |  | 4.3.0 | Local-first MCP server for semantic C# analysis & refactoring via Roslyn & MSBu… |
+| 2026-09-29 02:11:41 | [io.github.L1ch404/jolink-runtime](https://github.com/L1ch404/jolink-runtime) | joLink | 0.1.0a8 | A lightweight Java IDE for AI agents: incremental builds, fast tests, HotSwap a… |
+| 2026-09-29 02:12:58 | [ai.liquidagent.api/liquid-agent](https://github.com/LiquidAgent/liquidagentx402) | Liquid Agent | 1.0.0 | x402 money tools for agents: one-signature USDC bridge (Base-Arc), tokenized st… |
+| 2026-09-29 02:20:03 | [io.github.manikumarkv/trueicon](https://github.com/manikumarkv/trueicon) | TrueIcon | 0.5.0 | Lets AI coding assistants search the icon packages actually installed in your p… |
+| 2026-09-29 02:21:19 | com.52choujiang/youtube-insights | SocialDataX YouTube MCP | 0.1.3 | YouTube video/channel search, suggestions, details, comments/replies, Shorts, t… |
 
 ## Data source
 
