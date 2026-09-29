@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-09-29T10:23:41.093388Z,com.decaframe/decaframe,,0.4.1,https://github.com/decaframe/decaframe,,"Presentations, slides, reports and one-pagers your agent designs and you edit. Exports to one file."
+2026-09-29T10:26:10.703203Z,io.github.epam/TimeBase-MCP,TimeBase,0.2.5,https://github.com/epam/TimeBase-MCP,,"Explore and query TimeBase streams, schemas, QQL, symbols, and server status via MCP."
+2026-09-29T10:29:10.184436Z,com.criora/criora,Criora climate risk,1.0.0,,streamable-http,"Climate and disaster risk for any place: 7-day weather risk, hazards, climate profile, country risk."
+2026-09-29T10:29:20.631491Z,io.github.saplq/folkso,Folkso,0.3.0,https://github.com/saplq/folkso-plugin,streamable-http,Find real people for a task right in ChatGPT and Claude. Everyone chose to appear in AI answers.
+2026-09-29T10:29:54.516173Z,com.transcapi/mcp,TransCAPI,0.1.1,https://github.com/tcdataconsultants/transcapi-mcp,,"Live bus and rail departures, bus positions, disruptions and journey planning for Great Britain."
+2026-09-29T10:32:21.850293Z,ink.vera/vera,vera.ink,1.2.0,,streamable-http,Check documents against rules taken from the law itself. Every finding cites the exact clause.
+2026-09-29T10:33:34.279584Z,fi.ophis/mcp,Ophis MCP,0.1.2,https://github.com/ophis-fi/ophis,streamable-http,"Gasless, MEV-protected onchain token swaps for AI agents on 14 EVM chains, built on CoW Protocol."
+2026-09-29T10:34:02.598306Z,online.algrow/mcp,Algrow,1.0.0,https://github.com/samalgrow/algrow-mcp,streamable-http,"YouTube research: channel search, viral videos, channel analytics, transcripts, thumbnails, TTS"
+2026-09-29T10:35:30.796497Z,io.github.pedroknigge/arkgate,,4.8.24,https://github.com/pedroknigge/arkgate,,"When the agent writes a bad import, the write doesn’t land. The same check fails the pull request."
+2026-09-29T10:36:15.759934Z,io.github.ProAgentStore/platform,ProAgentStore,0.1.66,https://github.com/ProAgentStore/platform,streamable-http,MCP-first control plane for ProAgentStore agents and private instances.
+2026-09-29T10:40:51.208966Z,com.trip1/mcp,,1.0.1,https://github.com/trivial-corp/trip1-mcp,streamable-http,"Book hotels over MCP. Pay over x402. 3M+ properties in 200+ countries, USDC on Base."
+2026-09-29T10:41:06.536266Z,io.github.parkyucheol-del/alphapipeline,,1.2.1,https://github.com/parkyucheol-del/alphapipeline,streamable-http,"Pay-per-call x402 API for AI trading agents: pre-trade security checks, Polymarket & HIP-4 odds."
+2026-09-29T10:47:10.992945Z,io.github.Fabsbags/starreview,StarPresence,0.10.0,,streamable-http,Drafts Google & TripAdvisor review replies; agents can never post themselves. Free get_service_info.
+2026-09-29T10:47:42.995823Z,com.glockapps/mcp,GlockApps — Inbox Placement Testing,1.0.0,https://github.com/glocksoftware/glockapps-mcp,streamable-http,"Inbox placement tests across Gmail, Outlook, Yahoo and 30+ providers."
+2026-09-29T10:49:00.193835Z,com.spoki/mcp,Spoki,2.0.0,,streamable-http,"Spoki WhatsApp CRM MCP: contacts, campaigns, automations, templates. OAuth (spoki.mcp)."
+2026-09-29T10:50:00.105369Z,com.adrianczuczka/mason,,0.19.2,https://github.com/adrianczuczka/mason,,"Engineering decisions, change impact, documentation audits, and CI evidence for coding assistants."
+2026-09-29T10:53:41.628757Z,app.railway.up.agentworkmark-production/agentworkmark,AgentWorkmark,1.0.1,,streamable-http,"Search reviewed AI services, inspect completed-work evidence, and check current availability."
+2026-09-29T10:56:39.150617Z,io.github.jorgen-k/reddit-mcp,Reddit (RSS),1.2.1,https://github.com/jorgen-k/reddit-mcp,,"Read Reddit from local MCP-compatible clients (Claude Code, Codex, etc.) via public RSS feeds."
+2026-09-29T10:57:03.924744Z,io.github.Continuum-AI-Corp/orcareplay,,0.5.0,https://github.com/Continuum-AI-Corp/OrcaReplay,,"Read, replay and fork recorded coding-agent runs."
+2026-09-29T11:03:19.128494Z,at.aamio/aamio,aamio rendezvous,0.7.20,,streamable-http,"Meet an agent you have not met, exchange messages that expire, and prove it happened. No account."
+2026-09-29T11:04:52.195913Z,ai.husverket/husverket,Husverket – Swedish Prefab Houses,2.0.0,,streamable-http,"Husverket AB knowledge base: 350 Q&A on attefallshus, prices and building permits in Sweden."
+2026-09-29T11:10:52.725205Z,com.theholisticcare/open-mindfulness,THC Open Mindfulness MCP,1.0.0,https://github.com/mohanagc/thc-mindfulness-mcp,streamable-http,"Read-only mindfulness games, guided practices, research, glossary and PanchaVikas resources."
+2026-09-29T11:17:07.318543Z,io.github.mobileproxy/mcp-server,,0.2.0,https://github.com/mobileproxy/mcp-server,,Control dedicated 4G mobile and residential proxies on mobileproxy.space from AI agents.

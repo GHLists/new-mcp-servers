@@ -9,53 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 10:22 UTC
+## Latest list — 2026-09-29 11:19 UTC
 
-New MCP servers published between 2026-09-29 09:22 UTC and 2026-09-29 10:22 UTC.
+New MCP servers published between 2026-09-29 10:22 UTC and 2026-09-29 11:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-29T10-22-46-99313Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-29T11-19-47-99602Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-29 09:25:57 | [io.github.Invarato/jarroba-tools](https://github.com/Invarato/JarrobaTools) | Jarroba Tools | 0.1.7 | 120 deterministic tools for your AI: logs, tests, SQL, diagrams, SPARQL. Local,… |
-| 2026-09-29 09:25:58 | io.github.sasikumarlilly/test-mcp-server | Cortex Test MCP Server | 1.0.0 | Internal test MCP server for local dev and Bifrost integration testing. |
-| 2026-09-29 09:26:01 | [io.github.Invarato/jarroba-tools-calc](https://github.com/Invarato/JarrobaTools) | Jarroba Tools · Calculation | 0.1.6 | Maths a model gets wrong: units with dimensional checking, equations, sheets. 5… |
-| 2026-09-29 09:26:02 | [io.github.Invarato/jarroba-tools-logs](https://github.com/Invarato/JarrobaTools) | Jarroba Tools · Logs | 0.1.6 | Lets your AI read a CI log far too big for its context. 11 tools, takes a file… |
-| 2026-09-29 09:26:03 | [io.github.Invarato/jarroba-tools-tests](https://github.com/Invarato/JarrobaTools) | Jarroba Tools · Test audit | 0.1.6 | Audits tests instead of writing them: what each one really asserts. 4 tools, lo… |
-| 2026-09-29 09:34:07 | [io.github.tviettuan01-gif/vietnam-data-mcp](https://github.com/tviettuan01-gif/vietnam-data-mcp) | Vietnam Data MCP (donerightlabs) | 1.0.1 | Vietnam public-tender search (VNEPS) for AI agents, pay per use. |
-| 2026-09-29 09:34:57 | [de.drillflow/mcp](https://github.com/capydev42/drillflow-mcp) | DrillFlow | 1.0.75 | Publish drill-down diagrams from an agent; every Mermaid subgraph becomes a lev… |
-| 2026-09-29 09:35:51 | [io.github.assetfare/assetfare](https://github.com/assetfare/assetfare-mcp) | AssetFare | 1.14.5 | 42 active-route USDC bridge; caller signs; server never signs or submits |
-| 2026-09-29 09:35:59 | [io.github.assetfare/assetfare-bridge](https://github.com/assetfare/assetfare-mcp) | AssetFare USDC Bridge | 1.14.5 | 42 active-route USDC bridge; caller signs; server never signs or submits |
-| 2026-09-29 09:36:41 | [io.usefulapi/fillout](https://github.com/m190/usefulapi-mcp) |  | 1.0.0 | Read Fillout forms and submissions, export responses, and create submissions an… |
-| 2026-09-29 09:36:53 | [io.usefulapi/checkfront](https://github.com/m190/usefulapi-mcp) |  | 1.0.0 | Check Checkfront availability and rates, and manage booking sessions, bookings,… |
-| 2026-09-29 09:36:59 | [io.usefulapi/breeze-chms](https://github.com/m190/usefulapi-mcp) |  | 1.0.0 | Manage Breeze ChMS people, tags, events, check-ins, volunteers and contribution… |
-| 2026-09-29 09:37:02 | [io.usefulapi/neon-crm](https://github.com/m190/usefulapi-mcp) |  | 1.0.0 | Search Neon CRM accounts, donations, memberships and events; create accounts an… |
-| 2026-09-29 09:37:05 | [io.usefulapi/insightly](https://github.com/m190/usefulapi-mcp) |  | 1.0.0 | Read and write Insightly contacts, organisations, leads, opportunities, tasks a… |
-| 2026-09-29 09:37:08 | [io.usefulapi/bookeo](https://github.com/m190/usefulapi-mcp) |  | 1.0.0 | Check Bookeo availability and manage bookings, holds and customers; read paymen… |
-| 2026-09-29 09:37:13 | [io.usefulapi/bloomerang](https://github.com/m190/usefulapi-mcp) |  | 1.0.0 | Search Bloomerang constituents and donations; log interactions, notes and tasks. |
-| 2026-09-29 09:37:17 | [io.usefulapi/together-ai](https://github.com/m190/usefulapi-mcp) |  | 1.0.0 | Run Together AI chat, embeddings and images; manage fine-tunes, batches and end… |
-| 2026-09-29 09:37:20 | [io.usefulapi/eventbrite](https://github.com/m190/usefulapi-mcp) |  | 1.0.0 | Manage Eventbrite events, ticket classes, venues and discounts; read attendees,… |
-| 2026-09-29 09:37:23 | [io.usefulapi/less-annoying-crm](https://github.com/m190/usefulapi-mcp) |  | 1.0.0 | Read and write Less Annoying CRM contacts, notes, tasks, events, pipelines and… |
-| 2026-09-29 09:37:27 | [io.usefulapi/workiz](https://github.com/m190/usefulapi-mcp) |  | 1.0.0 | Manage Workiz jobs and leads: create, update, assign team members and convert l… |
-| 2026-09-29 09:37:30 | [io.usefulapi/depot](https://github.com/m190/usefulapi-mcp) |  | 1.0.0 | Inspect Depot builds, CI runs, job logs and Actions runners; retry or cancel CI… |
-| 2026-09-29 09:37:33 | [io.usefulapi/mindbody](https://github.com/m190/usefulapi-mcp) |  | 1.0.0 | Read Mindbody classes, schedules, clients, staff and sales; book clients and ap… |
-| 2026-09-29 09:37:35 | [io.usefulapi/buildium](https://github.com/m190/usefulapi-mcp) |  | 1.0.0 | Read Buildium properties, units, leases, tenants, balances and bills; manage wo… |
-| 2026-09-29 09:37:39 | [io.usefulapi/housecall-pro](https://github.com/m190/usefulapi-mcp) |  | 1.0.0 | Manage Housecall Pro customers, jobs, estimates and leads; schedule and dispatc… |
-| 2026-09-29 09:37:41 | [io.usefulapi/hostaway](https://github.com/m190/usefulapi-mcp) |  | 1.0.0 | Manage Hostaway listings, reservations, calendar, guest messages, reviews and t… |
-| 2026-09-29 09:37:43 | [io.github.auto1225/quotebill](https://github.com/auto1225/quotebill-mcp) | QuoteBill | 2.4.0 | Quotations, invoices, receipts and more: 225 templates, tax rules for 195 count… |
-| 2026-09-29 09:37:44 | [io.usefulapi/invoice-ninja](https://github.com/m190/usefulapi-mcp) |  | 1.0.0 | Manage Invoice Ninja clients, invoices, quotes, expenses, tasks and projects. |
-| 2026-09-29 09:41:56 | [io.github.UI5/webcomponents-react-mcp-server](https://github.com/UI5/webcomponents-react) |  | 2.27.2 | MCP server for UI5 Web Components for React - Developer documentation and API a… |
-| 2026-09-29 09:44:19 | [io.github.houtini-ai/seo-audit-console](https://github.com/houtini-ai/seo-audit) |  | 0.10.0 | Technical SEO in Claude: GSC + crawl + DataForSEO - audit, market sizing, conte… |
-| 2026-09-29 09:47:42 | io.github.slides/slides | Slides.com | 1.0.0 | Create, edit, preview, and share Slides.com presentations. Requires a paid Slid… |
-| 2026-09-29 09:48:44 | [com.listingsapi/mcp](https://github.com/listings-api/listingsapi-mcp) | listingsAPI MCP | 1.0.0 | Manage business listings, reviews, posts and local analytics across 50 plus sit… |
-| 2026-09-29 09:49:18 | [io.github.muad-yasin/the-high-council](https://github.com/muad-yasin/the-high-council-mcp) | The High Council | 0.7.9 | Several models from different labs plan in a blind proposal, debate and review… |
-| 2026-09-29 09:50:14 | [io.github.ashafizullah/rpt-mcp](https://github.com/ashafizullah/rpt-mcp) | rpt-mcp (SAP Crystal Reports) | 0.1.2 | Inspect and edit SAP Crystal Reports .rpt files (Windows; needs the Crystal run… |
-| 2026-09-29 10:04:19 | [com.vinktar/mcp](https://github.com/vinktarhq/agent) | Vinktar | 1.0.0 | Product analytics and error tracking your coding agent can use. |
-| 2026-09-29 10:07:10 | [io.github.itsonu/flutter-lamp](https://github.com/itsonu/flutter-lamp) | Flutter Lamp | 0.21.0 | Live runtime data from a running Flutter app: exceptions, logs, network, frames… |
-| 2026-09-29 10:11:11 | [io.github.houtini-ai/gemini](https://github.com/houtini-ai/gemini-mcp) |  | 2.8.2 | Model Context Protocol server for Google Gemini AI with chat, research, and gro… |
-| 2026-09-29 10:14:01 | [io.github.yubinbin32-ops/contextos](https://github.com/yubinbin32-ops/ContextOS) | ContextOS — Powered Exoskeleton for AI… | 2.7.0 | Powered exoskeleton for AI coding: auto-governs context via MCP to cut 90%+ con… |
-| 2026-09-29 10:17:05 | [com.3dtexel/mcp](https://github.com/Gatyh/3dtexel-mcp) | 3D Texel | 1.0.0 | Search/download 7,000+ PBR materials, HDRIs, decals, 3D assets; generate PBR ma… |
-| 2026-09-29 10:22:36 | [io.github.brianbooms/brianbooms-mcp](https://github.com/brianbooms/brianbooms-mcp) | Brian Booms MCP | 1.0.6 | Brian Booms x402 product catalog as agent tools. Read-only. |
+| 2026-09-29 10:23:41 | [com.decaframe/decaframe](https://github.com/decaframe/decaframe) |  | 0.4.1 | Presentations, slides, reports and one-pagers your agent designs and you edit.… |
+| 2026-09-29 10:26:10 | [io.github.epam/TimeBase-MCP](https://github.com/epam/TimeBase-MCP) | TimeBase | 0.2.5 | Explore and query TimeBase streams, schemas, QQL, symbols, and server status vi… |
+| 2026-09-29 10:29:10 | com.criora/criora | Criora climate risk | 1.0.0 | Climate and disaster risk for any place: 7-day weather risk, hazards, climate p… |
+| 2026-09-29 10:29:20 | [io.github.saplq/folkso](https://github.com/saplq/folkso-plugin) | Folkso | 0.3.0 | Find real people for a task right in ChatGPT and Claude. Everyone chose to appe… |
+| 2026-09-29 10:29:54 | [com.transcapi/mcp](https://github.com/tcdataconsultants/transcapi-mcp) | TransCAPI | 0.1.1 | Live bus and rail departures, bus positions, disruptions and journey planning f… |
+| 2026-09-29 10:32:21 | ink.vera/vera | vera.ink | 1.2.0 | Check documents against rules taken from the law itself. Every finding cites th… |
+| 2026-09-29 10:33:34 | [fi.ophis/mcp](https://github.com/ophis-fi/ophis) | Ophis MCP | 0.1.2 | Gasless, MEV-protected onchain token swaps for AI agents on 14 EVM chains, buil… |
+| 2026-09-29 10:34:02 | [online.algrow/mcp](https://github.com/samalgrow/algrow-mcp) | Algrow | 1.0.0 | YouTube research: channel search, viral videos, channel analytics, transcripts,… |
+| 2026-09-29 10:35:30 | [io.github.pedroknigge/arkgate](https://github.com/pedroknigge/arkgate) |  | 4.8.24 | When the agent writes a bad import, the write doesn’t land. The same check fail… |
+| 2026-09-29 10:36:15 | [io.github.ProAgentStore/platform](https://github.com/ProAgentStore/platform) | ProAgentStore | 0.1.66 | MCP-first control plane for ProAgentStore agents and private instances. |
+| 2026-09-29 10:40:51 | [com.trip1/mcp](https://github.com/trivial-corp/trip1-mcp) |  | 1.0.1 | Book hotels over MCP. Pay over x402. 3M+ properties in 200+ countries, USDC on… |
+| 2026-09-29 10:41:06 | [io.github.parkyucheol-del/alphapipeline](https://github.com/parkyucheol-del/alphapipeline) |  | 1.2.1 | Pay-per-call x402 API for AI trading agents: pre-trade security checks, Polymar… |
+| 2026-09-29 10:47:10 | io.github.Fabsbags/starreview | StarPresence | 0.10.0 | Drafts Google & TripAdvisor review replies; agents can never post themselves. F… |
+| 2026-09-29 10:47:42 | [com.glockapps/mcp](https://github.com/glocksoftware/glockapps-mcp) | GlockApps — Inbox Placement Testing | 1.0.0 | Inbox placement tests across Gmail, Outlook, Yahoo and 30+ providers. |
+| 2026-09-29 10:49:00 | com.spoki/mcp | Spoki | 2.0.0 | Spoki WhatsApp CRM MCP: contacts, campaigns, automations, templates. OAuth (spo… |
+| 2026-09-29 10:50:00 | [com.adrianczuczka/mason](https://github.com/adrianczuczka/mason) |  | 0.19.2 | Engineering decisions, change impact, documentation audits, and CI evidence for… |
+| 2026-09-29 10:53:41 | app.railway.up.agentworkmark-production/agentworkmark | AgentWorkmark | 1.0.1 | Search reviewed AI services, inspect completed-work evidence, and check current… |
+| 2026-09-29 10:56:39 | [io.github.jorgen-k/reddit-mcp](https://github.com/jorgen-k/reddit-mcp) | Reddit (RSS) | 1.2.1 | Read Reddit from local MCP-compatible clients (Claude Code, Codex, etc.) via pu… |
+| 2026-09-29 10:57:03 | [io.github.Continuum-AI-Corp/orcareplay](https://github.com/Continuum-AI-Corp/OrcaReplay) |  | 0.5.0 | Read, replay and fork recorded coding-agent runs. |
+| 2026-09-29 11:03:19 | at.aamio/aamio | aamio rendezvous | 0.7.20 | Meet an agent you have not met, exchange messages that expire, and prove it hap… |
+| 2026-09-29 11:04:52 | ai.husverket/husverket | Husverket – Swedish Prefab Houses | 2.0.0 | Husverket AB knowledge base: 350 Q&A on attefallshus, prices and building permi… |
+| 2026-09-29 11:10:52 | [com.theholisticcare/open-mindfulness](https://github.com/mohanagc/thc-mindfulness-mcp) | THC Open Mindfulness MCP | 1.0.0 | Read-only mindfulness games, guided practices, research, glossary and PanchaVik… |
+| 2026-09-29 11:17:07 | [io.github.mobileproxy/mcp-server](https://github.com/mobileproxy/mcp-server) |  | 0.2.0 | Control dedicated 4G mobile and residential proxies on mobileproxy.space from A… |
 
 ## Data source
 
