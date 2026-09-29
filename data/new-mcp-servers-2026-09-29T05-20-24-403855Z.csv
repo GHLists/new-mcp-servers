@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-09-29T04:27:04.505063Z,io.github.MFaizR77/turnback,Turnback,0.1.0,https://github.com/MFaizR77/turnback,,"Undo a coding agent turn, including shell commands and untracked files."
+2026-09-29T04:30:56.671831Z,jp.yomitasu/datasetsearch-jp,コエカツ,1.0.1,,streamable-http,誰でも無料でアンケートの作成・投票ができるアンケートサイトです。（datasetsearch.jp の内容を検索して答える。ヨミタス経由）
+2026-09-29T04:31:23.454011Z,jp.yomitasu/seo-contencial-co-jp,株式会社コンテンシャル,1.0.1,,streamable-http,SEO 対策とサイト改善を手がける株式会社コンテンシャルの公式サイトです。（seo.contencial.co.jp の内容を検索して答える。ヨミタス経由）
+2026-09-29T04:32:51.155451Z,io.github.ApparelHub-AI/apparelhub-mcp,ApparelHub,0.15.2,https://github.com/ApparelHub-AI/apparelhub-mcp,streamable-http,"Run a custom-merch store from an agent: design, build products, list on every channel, fulfill."
+2026-09-29T04:35:35.78683Z,com.linkorasource/sourcing,Linkora Source,1.0.0,,streamable-http,"China sourcing, inspection and supplier verification: published rates, scope and fee estimates."
+2026-09-29T04:39:18.578454Z,io.github.pyunto/tm-mcp,,0.3.3,https://github.com/pyunto/tm-integrations,,Read your Pyunto Time Management schedule and log time from an AI assistant. E2EE project planning.
+2026-09-29T04:41:32.266537Z,io.github.amc2144/agent-vending-mcp,Agent Vending MCP,0.1.0,,streamable-http,"Machine-payable MCP tools using x402 for agent-discovered, pay-per-call execution."
+2026-09-29T04:43:02.437812Z,dev.dikshantraj/portfolio,Dikshant Rajput's portfolio agent,1.0.0,,streamable-http,"Ask Dikshant Rajput's AI agent about his work, projects and availability, or read them as data."
+2026-09-29T05:01:01.784325Z,io.github.bugbug-io/mcp,BugBug,14.7.2,https://github.com/bugbug-io/agent-plugin,streamable-http,BugBug workflows for AI agents workflows for AI agents
+2026-09-29T05:01:21.963767Z,com.problee/problee,Problee,1.0.4,,streamable-http,Free play-money prediction markets on elections and AI benchmarks; humans and agents share one book.
+2026-09-29T05:03:44.765241Z,co.policyforge/mcp,,0.7.0,https://github.com/PolicyForge/mcp,streamable-http,"Generate, audit, and maintain legal policies that match what your code actually does."
+2026-09-29T05:04:06.455997Z,com.asianrecs/asianrecs,Asian Recs,1.0.0,https://github.com/raymond-raymond/asianrecs-claude,streamable-http,"SF and NYC restaurants, cafes, desserts and bars ranked by how Asian diners rate them."
+2026-09-29T05:09:08.95597Z,com.elements-live/elements-live,Elements Live,2.0.0,,streamable-http,"Research-intensity trends for the 118 chemical elements and research topics, from 2.35M papers."
+2026-09-29T05:12:57.533276Z,io.github.googlarz/suunto-mcp,Suunto MCP,0.15.1,https://github.com/googlarz/suunto-mcp,,"Suunto watch data (workouts, sleep, recovery, 24/7 activity) for Claude and other AI assistants."
+2026-09-29T05:17:07.763156Z,com.appstorepack/appstorepack,AppStorePack,1.0.0,,streamable-http,"Create App Store screenshots, app icons and store copy, then push them to App Store Connect."
+2026-09-29T05:19:08.619087Z,io.github.sassoftware/sas-mcp-server,SAS Viya,1.18.0,https://github.com/sassoftware/sas-mcp-server,,"Execute SAS code and query Compute, CAS, and model APIs on SAS Viya via OAuth 2.0."
