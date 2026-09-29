@@ -1,0 +1,34 @@
+created_at,server,title,version,repository,transports,description
+2026-09-29T14:24:24.565216Z,io.github.Abktya/universal-host-manager-mcp,,0.1.15,https://github.com/Abktya/universal-host-manager-mcp,,Cross-platform FastMCP server for authenticated remote Linux/macOS host administration
+2026-09-29T14:24:44.289862Z,io.github.Alberto-Codes/judgevet,,0.14.0,https://github.com/Alberto-Codes/judgevet,,"Ask TypeSafe Jev yes/no, choice and score questions and receive structured model judgments."
+2026-09-29T14:24:47.545356Z,com.txtreel/txtreel,txtreel,1.0.0,,streamable-http,"Free iMessage, WhatsApp, Instagram DM and Reddit chat videos (1080x1920 MP4) and screenshots."
+2026-09-29T14:26:55.339799Z,io.github.sbroenne/mcp-server-excel,MCP Server for Excel,2.0.12,https://github.com/sbroenne/mcp-server-excel,,"Excel automation for AI - Sheets, Power Query, DAX, VBA, Tables, Ranges and more. Windows only."
+2026-09-29T14:31:29.988389Z,com.trackberry/trackberry,Trackberry,1.0.0,,streamable-http,"Read-only access to your fresh produce shipments: ETAs, tracking, free time, alerts and documents."
+2026-09-29T14:33:03.795119Z,io.github.FavioVazquez/showtime,showtime,0.2.0,https://github.com/FavioVazquez/showtime,,"Local video studio for your coding agent: scenes, voice, music and captions, on your machine."
+2026-09-29T14:34:20.039064Z,io.github.TheTsungYing/annealbridge,AnnealBridge,0.4.0,https://github.com/TheTsungYing/AnnealBridge,,"Optimization middleware for AI agents: JSON problem in, verified and ranked solutions out."
+2026-09-29T14:34:22.689374Z,com.inflyu/inflyu,Inflyu,1.0.0,,streamable-http,AI influencer images and video generation and editing for your agent.
+2026-09-29T14:36:59.085709Z,com.insidercable/feeds,,0.3.0,,streamable-http,"Point-in-time Congress, BTC-ETF-flow, insider, token-launch and options-IV feeds; free + x402"
+2026-09-29T14:43:07.095914Z,io.github.abogitoff/fuxux,Fuxux,1.1.0,,streamable-http,"Schedule social posts on 13 platforms: create, edit, reschedule, delete, and list your queue."
+2026-09-29T14:44:25.22695Z,co.pipeboard/google-ads-mcp,,1.0.54,,streamable-http,"Google Ads automation with AI: analyze performance, manage campaigns, optimize bids."
+2026-09-29T14:45:27.528913Z,co.pipeboard/snap-ads-mcp,,1.0.29,,streamable-http,"Snapchat Ads automation with AI: analyze performance, manage campaigns, optimize creatives."
+2026-09-29T14:47:38.52125Z,tech.geosensor.atlas/absence-index,Atlas absence index,0.2.0,,streamable-http,Measured rates at which web services lack machine-readable capabilities. Research demonstrator.
+2026-09-29T14:52:00.025816Z,io.github.CSOAI-ORG/gspc,Council of AI GSPC,1.4.3,https://github.com/CSOAI-ORG/councilof-ai,streamable-http,"16 HTTP tools (12 free, 4 x402): GSPC board, signed evidence, Ed25519 verify. Measure, not certify."
+2026-09-29T14:54:43.592125Z,chat.prowl/prowl-mcp,Prowl MCP,1.7.0,,streamable-http,"Real-world market data for AI agents: 444 pay-per-call tools (SEO, ads, social, trends, finance)"
+2026-09-29T14:55:10.699804Z,ru.solvion/heating-energy-engineering,Solvion Heating Energy Engineering,1.0.1,,streamable-http,"Heating, ventilation and energy engineering calculations and diagnostics for AI agents."
+2026-09-29T15:01:09.230042Z,com.lightbringer/connector,Lightbringer,4.11.0,https://github.com/lightbringer-patents/mcp-connector,streamable-http,"Register innovations, request patent preparation, and collaborate with Lightbringer’s patent team."
+2026-09-29T15:01:26.217074Z,com.growsurf/growsurf,GrowSurf,0.19.2,https://github.com/growsurf/growsurf-mcp,streamable-http,Build and manage GrowSurf referral and affiliate programs through AI assistants.
+2026-09-29T15:04:10.275041Z,io.github.mgcrea/mcp-apple-calendar,Apple Calendar,1.24.1,https://github.com/mgcrea/cupertino,,"Search, read and act on Apple Calendar — ranges, free-time lookup, writes off by default"
+2026-09-29T15:04:51.48106Z,dev.symbioza/symbioza,Symbioza,1.0.0,,streamable-http,Run a GPU job under a hard dollar cap and collect the files it writes.
+2026-09-29T15:04:53.279844Z,io.github.mgcrea/mcp-apple-messages,Apple Messages,1.24.1,https://github.com/mgcrea/cupertino,,"Search and read Apple Messages — chats and decoded text, sending off by default"
+2026-09-29T15:05:38.839153Z,io.github.marvkr/better-design,Better Design,0.31.0,https://github.com/marvkr/better-design,streamable-http,"A design harness for AI coding agents: design systems, design principles, icons and UI review."
+2026-09-29T15:06:16.258131Z,io.github.getmasv/masv,,0.0.7,https://github.com/getmasv/masv-mcp-server,,Provides tools to use MASV API. MASV is reliable and secure large file transfer service.
+2026-09-29T15:08:14.329127Z,io.github.mgcrea/mcp-apple-reminders,Apple Reminders,1.24.1,https://github.com/mgcrea/cupertino,,"Search, read and act on Apple Reminders — lists, due dates, writes off by default"
+2026-09-29T15:08:18.958663Z,io.github.mgcrea/mcp-apple-contacts,Apple Contacts,1.24.1,https://github.com/mgcrea/cupertino,,"Search and read Apple Contacts — resolves numbers and emails to names, writes off by default"
+2026-09-29T15:09:57.91473Z,io.github.mgcrea/mcp-apple-safari,Apple Safari,1.24.1,https://github.com/mgcrea/cupertino,,"Read and act on Safari — history, tabs and reading list, writes off by default"
+2026-09-29T15:11:17.926332Z,io.github.mgcrea/mcp-apple-mail,Apple Mail,1.24.1,https://github.com/mgcrea/cupertino,,"Search, read and act on Apple Mail — threads, attachments, body search, writes off by default"
+2026-09-29T15:11:18.25547Z,io.github.mgcrea/mcp-apple-notes,Apple Notes,1.24.1,https://github.com/mgcrea/cupertino,,"Search, read and act on Apple Notes — folders, attachments, writes off by default"
+2026-09-29T15:11:29.760318Z,com.kenwea.www/marketplace,Kenwea — Sandbox Attestation & Agent Marketplace,0.1.6,https://github.com/kenwea-protocol/kenwea,streamable-http,"Signed sandbox verdicts on any artifact, plus an agent marketplace. No key, no signup, no payment."
+2026-09-29T15:11:36.664024Z,io.github.mgcrea/mcp-apple-maps,Apple Maps,1.24.1,https://github.com/mgcrea/cupertino,,"Read and act on Apple Maps — favourites, Guides and recents, writes off by default"
+2026-09-29T15:13:08.907945Z,dev.workers.bhazarstudio.datoka-api/api,Datoka API,0.3.0,,streamable-http,Signed client-declared API receipts. Free preparation/verification; issuance 0.002 USDC via x402.
+2026-09-29T15:14:13.194621Z,io.sealsecurity/mcp,Seal Security,0.1.123,,streamable-http,"Vulnerability management: scan projects, search sealed packages, manage sealing rules and reports."
+2026-09-29T15:18:06.44617Z,com.trueproxies/mcp,TrueProxies,1.0.2,https://github.com/trueproxies-com/trueproxies-mcp,streamable-http,"Plans, services, usage, invoices, endpoints and connection checks for your TrueProxies account"
