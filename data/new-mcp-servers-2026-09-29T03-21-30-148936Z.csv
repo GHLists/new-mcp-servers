@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-09-29T02:29:01.330648Z,com.arena-predictions/arena,Arena Predictions,0.5.0,,,"Paper trade prediction markets at live prices from your AI agent, and score every trade."
+2026-09-29T02:30:47.182926Z,io.github.UseJunior/safe-docx,Safe Docx,0.21.2,https://github.com/UseJunior/safe-docx,,AI-native surgical editing of Word .docx and OpenDocument .odt files with formatting preservation
+2026-09-29T02:31:11.053766Z,io.github.churichard/fluxmail,Fluxmail,0.11.1,https://github.com/churichard/fluxmail,,"Read, search, draft, send, and organize email through Gmail, Outlook, and IMAP/SMTP mailboxes."
+2026-09-29T02:31:19.375329Z,io.github.theluckystrike/payment-reminder,,0.22.0,https://github.com/theluckystrike/mcp-servers,,"Payment reminders for overdue invoices: reminder 1, reminder 2, final notice, aging."
+2026-09-29T02:31:20.131107Z,io.github.theluckystrike/expense-report,,0.22.0,https://github.com/theluckystrike/mcp-servers,,"Expense report builder: log expenses, categorise, split VAT, export from chat."
+2026-09-29T02:31:21.08167Z,io.github.theluckystrike/timesheet,,0.22.0,https://github.com/theluckystrike/mcp-servers,,"Timesheet from your AI chat: billable entries, weekly reports, CSV export. Local."
+2026-09-29T02:31:23.250843Z,io.github.theluckystrike/delivery-note,,0.22.0,https://github.com/theluckystrike/mcp-servers,,"Delivery notes vs a quote or work order: dated deliverables, due dates, sign-off."
+2026-09-29T02:32:09.329839Z,com.52choujiang/xhs-insights,SocialDataX 小红书 Xiaohongshu XHS RedNote MCP,0.1.14,,streamable-http,"XHS search/details, PGY, comments/replies, users/ID resolution/posts, transcript"
+2026-09-29T02:38:15.74827Z,io.github.Bidsketch/signwell-mcp,,0.3.7,https://github.com/Bidsketch/signwell-mcp,,"Send documents for e-signature, track signing, and manage templates in SignWell from any MCP client."
+2026-09-29T02:40:50.186999Z,io.github.genecell/piaso-mcp,,0.1.1,https://github.com/genecell/PIASO-for-agents,,"PIASO single-cell ecosystem docs (PIASO, COSG, cytome, LARIS, cytorete) + live PIASOmarkerDB"
+2026-09-29T02:42:34.985054Z,com.52choujiang/douyin-insights,SocialDataX 抖音 Douyin MCP,0.2.8,,streamable-http,hot search、suggestions、video/user/product search、comments/replies、users/works/series、transcript
+2026-09-29T02:50:07.3866Z,io.github.pipeworx-io/edgar,Edgar,0.3.7,https://github.com/pipeworx-io/mcp-edgar,streamable-http,"EDGAR MCP — SEC EDGAR public APIs (free, no auth)"
+2026-09-29T02:50:13.658877Z,cloud.agkit/agkit,,0.6.0,,,AgentKit management-plane CLI + MCP server (agkit).
+2026-09-29T02:50:39.726049Z,com.52choujiang/kuaishou-insights,SocialDataX 快手 Kuaishou MCP,0.1.3,,streamable-http,"Kuaishou hot, suggestions, video/user search, details, comments/replies, profiles/posts, transcript."
+2026-09-29T02:55:21.074641Z,com.52choujiang/weibo-insights,SocialDataX 微博 Weibo MCP,0.1.2,,streamable-http,"Weibo suggestions, hot search, posts/details, comments/replies, likes/reposts, users, transcript."
+2026-09-29T02:55:56.540252Z,dev.0bridge/0bridge,0bridge,0.2.8,,streamable-http,"Every service you connect, one MCP endpoint for all your AI tools. Sign in once."
+2026-09-29T02:57:31.701431Z,travel.hotely/hotel-search,Hotely Hotel Search,1.0.0,,streamable-http,Search hotels and get hotel details. Search-only; book on hotely.travel.
+2026-09-29T02:58:01.305911Z,com.52choujiang/wechat-channels-insights,SocialDataX 微信 WeChat MCP,0.1.3,,streamable-http,"WeChat video and image posts, comments, users, transcripts, Official Account articles and stats."
+2026-09-29T03:00:07.66044Z,com.52choujiang/zhihu-insights,SocialDataX 知乎 Zhihu MCP,0.1.3,,streamable-http,"Zhihu/知乎 hot list, search/details, comments/replies, creators/articles, and video transcripts."
+2026-09-29T03:02:31.403868Z,com.52choujiang/tiktok-insights,SocialDataX TikTok MCP,0.1.5,,streamable-http,"TikTok suggestions, video/image search/details, comments/replies, creators/posts, speech-to-text."
+2026-09-29T03:06:05.117899Z,cloud.opendocs/opendocs,OpenDocs,1.0.0,,streamable-http,"Write, organize and publish documentation sites, help centers and SOPs on OpenDocs.cloud."
+2026-09-29T03:10:00.71258Z,io.github.computron/fulltext-article-downloader,,0.2.4,https://github.com/computron/fulltext-article-downloader,,"Full text of research papers by DOI, arXiv, PMC or OpenReview id, verified against the record"
+2026-09-29T03:10:47.696273Z,io.github.tydude001/proofcut,proofcut,0.44.0,https://github.com/tydude001/proofcut,,"Local-first AI video editor: recordings to a finished film, cut by transcript, then verified"
+2026-09-29T03:12:48.854888Z,io.github.Align-Software-Company/opensolar-mcp,OpenSolar MCP,0.1.1,https://github.com/Align-Software-Company/opensolar-mcp,,"Unofficial, self-hosted MCP server for the documented OpenSolar API."
+2026-09-29T03:15:54.919472Z,io.github.astrogilda/tsbootstrap,tsbootstrap,0.7.3,https://github.com/astrogilda/tsbootstrap,,Read-only time-series bootstrap server: diagnose a series and compute confidence intervals.
+2026-09-29T03:18:44.763276Z,io.github.xka0085-byte/receiptrail,ReceiptRail,0.1.0,https://github.com/xka0085-byte/agenttoll,streamable-http,Read-only on-chain receipt check for x402 payments; confirm settlement before trusting a tx.
+2026-09-29T03:21:12.067979Z,com.tradepilotusa.www/agent-commerce,TradePilot Agent Commerce,1.0.1,,streamable-http,"120 pay-per-use AI agent services on Base (x402/USDC): drafting, data tools, SEO, specialists."
