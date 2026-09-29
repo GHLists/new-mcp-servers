@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-09-29T08:27:21.216823Z,io.github.Mike05102/anime-intelligence-mcp,ANIME INTELLIGENCE,3.7.98,https://github.com/Mike05102/anime-intelligence-mcp,streamable-http,"Anime shopping intelligence: identity, value, authenticity, BUY/WAIT and purchase routing via x402."
+2026-09-29T08:31:13.966783Z,io.github.genesis-plan/lingshu-solver,,1.0.15,https://github.com/genesis-plan/lingshu-solver,streamable-http,确定性可认证实根计算 MCP 工具：给 AI Agent 的不会算错数的数学工具（非大模型、零幻觉）。
+2026-09-29T08:38:29.952772Z,cheap.doc/mcp,,0.3.8,https://gitlab.com/doccheap/ocr-mcp,streamable-http,"Passport, ID and MRZ recognition via doc.cheap – Free: 100 documents every month, then $0.01 each"
+2026-09-29T08:41:16.991774Z,io.github.rigour-labs/rigour,,6.2.5,https://github.com/rigour-labs/rigour,,"Quality gates for AI agents. Lint, test, build checks with memory persistence."
+2026-09-29T08:47:03.173146Z,be.florealholidays/workspace,,0.8.0,https://github.com/devliegerwout/FlorealSystem,streamable-http,"Floreal Holidays Belgium: live prices and availability; staff run M&E dossiers, day sheets, tasks."
+2026-09-29T08:52:42.039113Z,io.github.vosesoftware/modelrisk-mcp,ModelRisk,0.4.1,,,"Read, build, fit, and run Monte Carlo risk models in Excel through Vose Software's ModelRisk."
+2026-09-29T08:56:13.326492Z,io.github.pollinations/ask-jev,Ask Jev,1.0.0,https://github.com/pollinations/pollinations,streamable-http,"Evaluate state with typed choice, score, and probability questions."
+2026-09-29T08:56:17.857338Z,io.github.pollinations/composio,Connected Apps,1.0.0,https://github.com/pollinations/pollinations,streamable-http,"Read Gmail, search GitHub, update Sheets, and post to Slack through Composio."
+2026-09-29T08:56:20.269712Z,io.github.pollinations/computer,Computer,1.0.0,https://github.com/pollinations/pollinations,streamable-http,A private persistent computer: files and a bash shell that survive between runs.
+2026-09-29T08:56:22.522022Z,io.github.pollinations/exa,Exa Search,1.0.0,https://github.com/pollinations/pollinations,streamable-http,Search the live web and fetch clean content from source pages.
+2026-09-29T08:56:25.757969Z,io.github.pollinations/ffmpeg,FFmpeg,1.0.0,https://github.com/pollinations/pollinations,streamable-http,"Trim, convert, resize, compress, and remix audio and video."
+2026-09-29T08:56:39.022881Z,io.github.pollinations/pollinations,Pollinations,1.0.0,https://github.com/pollinations/pollinations,streamable-http,Access Pollinations models and API capabilities through agent tools.
+2026-09-29T08:57:56.054773Z,io.github.runapi-builder/kling-mcp,,0.2.0,https://github.com/runapi-ai/kling-mcp,,"RunAPI MCP server for Kling: create tasks, poll status, check pricing."
+2026-09-29T08:58:22.214358Z,io.github.the-codepunker/eldercare-resource-planning,Eldercare Resource Planning MCP Server,1.0.0,,sse,Evaluates Medicaid long-term care eligibility and spend-down rules for all 50 US states.
+2026-09-29T08:59:21.934116Z,io.github.Clocknext/mcp,,0.11.0,https://github.com/Clocknext/clocknext-mcp,,Meter usage and manage usage-based billing from AI tools via the ClockNext API.
+2026-09-29T08:59:27.284603Z,io.github.runapi-builder/hailuo-mcp,,0.2.0,https://github.com/runapi-ai/hailuo-mcp,,"RunAPI MCP server for Hailuo: create tasks, poll status, check pricing."
+2026-09-29T09:03:16.68698Z,com.kenwea.www/notary,Kenwea Notary,1.0.0,https://github.com/kenwea-protocol/kenwea,streamable-http,"Signed third-party verdict on what an npm package or file does when run. No key, no signup."
+2026-09-29T09:10:12.906903Z,dev.mascotline/mascotline,Mascotline,1.26.4,,streamable-http,"One mascot, locked once, drawn in any scene on demand and checked against its own identity."
+2026-09-29T09:11:46.968984Z,io.github.autokeren/mcp,AutoKeren MCP,1.0.0,https://github.com/autokeren/autokeren-mcp,streamable-http,"AI video studio for agents — script to MP4, b-roll sourcing, Gemini QA. 40 tools."
+2026-09-29T09:12:45.117759Z,dev.vantagemcp/vantage,Vantage,1.9.0,https://github.com/vantagemcp/vantage-mcp,streamable-http,"Checks whether ChatGPT, Gemini and Perplexity cite your site, and who they cite instead."
+2026-09-29T09:21:17.4502Z,fr.lybox/lybox,LyBox,1.0.0,,streamable-http,"Investissement locatif en France : annonces, rendement, cash-flow, données INSEE et marché par ville"

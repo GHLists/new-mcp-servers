@@ -9,29 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 08:25 UTC
+## Latest list — 2026-09-29 09:22 UTC
 
-New MCP servers published between 2026-09-29 07:19 UTC and 2026-09-29 08:25 UTC.
+New MCP servers published between 2026-09-29 08:25 UTC and 2026-09-29 09:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-29T08-25-54-712145Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-29T09-22-12-116126Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-29 07:22:17 | [live.innernet/innernet](https://github.com/your-innernet/innernet-mcp) | innernet | 1.2.1 | One memory for every AI tool, kept current by netti: projects, personal memory… |
-| 2026-09-29 07:24:00 | [io.github.hmkim/centerfield-visitor-mcp](https://github.com/hmkim/centerfield-visitor-mcp) |  | 0.2.1 | Centerfield building (Seoul) visitor pre-registration: validate, preview and re… |
-| 2026-09-29 07:30:50 | [io.github.fernsugi/x402-api](https://github.com/fernsugi/x402-api-mcp-server) |  | 1.0.4 | Eight paid DeFi tools: prices, gas, swaps, token security, holders, yields, fun… |
-| 2026-09-29 07:32:45 | [io.github.SinanTufekci/agent-intern](https://github.com/SinanTufekci/agent-intern) | Agent Intern | 0.32.1 | Delegate from Claude Code to Gemini, Codex, Copilot, Cursor and opencode CLIs a… |
-| 2026-09-29 07:34:58 | [com.mencoro/mencoro](https://github.com/mencoro/mencoro-mcp) | Mencoro | 1.1.0 | Track and manage how your brand appears in AI answers: rank, mentions, sentimen… |
-| 2026-09-29 07:36:57 | io.github.lishuhang/site-mcp |  | 1.0.0 | 航通社官网（lishuhang.me，书航博客 + 每日 AIGC 早报）只读检索：文章与早报列表、关键词搜索、单篇全文 markdown。Streamabl… |
-| 2026-09-29 07:39:50 | net.qsig.x402/mcp | QSIG Intelligence | 1.1.0 | Geopolitical risk score and theme board. Published kill criterion. Measured sta… |
-| 2026-09-29 07:40:59 | [cloud.tatnet/mcp](https://github.com/tatnet-ru/tatnet-mcp) | TatNet | 1.0.0 | Deploy and manage web apps on TatNet, a Russian cloud: builds, logs, env, domai… |
-| 2026-09-29 07:42:29 | [io.github.openagentemail/mcp](https://github.com/openagentemail/openagentemail) |  | 0.10.0 | Unlimited agent mailboxes — create identities, read/wait for mail, extract OTPs… |
-| 2026-09-29 07:42:43 | tel.callforme/callforme | CallForMe | 1.0.0 | Let your agent call businesses for you: quotes, reservations, cancellations, wa… |
-| 2026-09-29 08:00:21 | com.complylayer/complylayer | ComplyLayer | 1.0.0 | AI inventory and EU AI Act compliance. Find AI tools and use cases, check new A… |
-| 2026-09-29 08:09:49 | io.github.RBND-studio/flows | Flows | 1.0.0 | Build product adoption your way - Product adoption infrastructure no-code or al… |
-| 2026-09-29 08:12:45 | [io.github.liudejua27-blip/fitmeet](https://github.com/liudejua27-blip/FitMeet-UI) | 引力AI · Yinli AI | 2.2.1 | Find companions, gatherings and opportunities. Turn an idea into a shared plan… |
-| 2026-09-29 08:13:35 | co.rahuldsarker/growth-tools | Rahul D Sarker: Marketing & RevOps Tools | 1.1.0 | 111 marketing, RevOps and SaaS calculators, plus article search and live call b… |
-| 2026-09-29 08:19:24 | [io.github.inventor1975/ztl-judge](https://github.com/inventor1975/ztlstudio) | ZTL Judge | 1.0.0 | Zero-trust logic judge: your AI writes a claim as a ZFL table, the ZTL core jud… |
+| 2026-09-29 08:27:21 | [io.github.Mike05102/anime-intelligence-mcp](https://github.com/Mike05102/anime-intelligence-mcp) | ANIME INTELLIGENCE | 3.7.98 | Anime shopping intelligence: identity, value, authenticity, BUY/WAIT and purcha… |
+| 2026-09-29 08:31:13 | [io.github.genesis-plan/lingshu-solver](https://github.com/genesis-plan/lingshu-solver) |  | 1.0.15 | 确定性可认证实根计算 MCP 工具：给 AI Agent 的不会算错数的数学工具（非大模型、零幻觉）。 |
+| 2026-09-29 08:38:29 | [cheap.doc/mcp](https://gitlab.com/doccheap/ocr-mcp) |  | 0.3.8 | Passport, ID and MRZ recognition via doc.cheap – Free: 100 documents every mont… |
+| 2026-09-29 08:41:16 | [io.github.rigour-labs/rigour](https://github.com/rigour-labs/rigour) |  | 6.2.5 | Quality gates for AI agents. Lint, test, build checks with memory persistence. |
+| 2026-09-29 08:47:03 | [be.florealholidays/workspace](https://github.com/devliegerwout/FlorealSystem) |  | 0.8.0 | Floreal Holidays Belgium: live prices and availability; staff run M&E dossiers,… |
+| 2026-09-29 08:52:42 | io.github.vosesoftware/modelrisk-mcp | ModelRisk | 0.4.1 | Read, build, fit, and run Monte Carlo risk models in Excel through Vose Softwar… |
+| 2026-09-29 08:56:13 | [io.github.pollinations/ask-jev](https://github.com/pollinations/pollinations) | Ask Jev | 1.0.0 | Evaluate state with typed choice, score, and probability questions. |
+| 2026-09-29 08:56:17 | [io.github.pollinations/composio](https://github.com/pollinations/pollinations) | Connected Apps | 1.0.0 | Read Gmail, search GitHub, update Sheets, and post to Slack through Composio. |
+| 2026-09-29 08:56:20 | [io.github.pollinations/computer](https://github.com/pollinations/pollinations) | Computer | 1.0.0 | A private persistent computer: files and a bash shell that survive between runs. |
+| 2026-09-29 08:56:22 | [io.github.pollinations/exa](https://github.com/pollinations/pollinations) | Exa Search | 1.0.0 | Search the live web and fetch clean content from source pages. |
+| 2026-09-29 08:56:25 | [io.github.pollinations/ffmpeg](https://github.com/pollinations/pollinations) | FFmpeg | 1.0.0 | Trim, convert, resize, compress, and remix audio and video. |
+| 2026-09-29 08:56:39 | [io.github.pollinations/pollinations](https://github.com/pollinations/pollinations) | Pollinations | 1.0.0 | Access Pollinations models and API capabilities through agent tools. |
+| 2026-09-29 08:57:56 | [io.github.runapi-builder/kling-mcp](https://github.com/runapi-ai/kling-mcp) |  | 0.2.0 | RunAPI MCP server for Kling: create tasks, poll status, check pricing. |
+| 2026-09-29 08:58:22 | io.github.the-codepunker/eldercare-resource-planning | Eldercare Resource Planning MCP Server | 1.0.0 | Evaluates Medicaid long-term care eligibility and spend-down rules for all 50 U… |
+| 2026-09-29 08:59:21 | [io.github.Clocknext/mcp](https://github.com/Clocknext/clocknext-mcp) |  | 0.11.0 | Meter usage and manage usage-based billing from AI tools via the ClockNext API. |
+| 2026-09-29 08:59:27 | [io.github.runapi-builder/hailuo-mcp](https://github.com/runapi-ai/hailuo-mcp) |  | 0.2.0 | RunAPI MCP server for Hailuo: create tasks, poll status, check pricing. |
+| 2026-09-29 09:03:16 | [com.kenwea.www/notary](https://github.com/kenwea-protocol/kenwea) | Kenwea Notary | 1.0.0 | Signed third-party verdict on what an npm package or file does when run. No key… |
+| 2026-09-29 09:10:12 | dev.mascotline/mascotline | Mascotline | 1.26.4 | One mascot, locked once, drawn in any scene on demand and checked against its o… |
+| 2026-09-29 09:11:46 | [io.github.autokeren/mcp](https://github.com/autokeren/autokeren-mcp) | AutoKeren MCP | 1.0.0 | AI video studio for agents — script to MP4, b-roll sourcing, Gemini QA. 40 tool… |
+| 2026-09-29 09:12:45 | [dev.vantagemcp/vantage](https://github.com/vantagemcp/vantage-mcp) | Vantage | 1.9.0 | Checks whether ChatGPT, Gemini and Perplexity cite your site, and who they cite… |
+| 2026-09-29 09:21:17 | fr.lybox/lybox | LyBox | 1.0.0 | Investissement locatif en France : annonces, rendement, cash-flow, données INSE… |
 
 ## Data source
 
