@@ -9,42 +9,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 16:19 UTC
+## Latest list — 2026-09-29 17:19 UTC
 
-New MCP servers published between 2026-09-29 15:20 UTC and 2026-09-29 16:19 UTC.
+New MCP servers published between 2026-09-29 16:19 UTC and 2026-09-29 17:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-29T16-19-14-628767Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-29T17-19-43-52026Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-29 15:23:55 | io.github.pedropaf/burofacil | Burofácil | 1.0.0 | Draft, check and send a Spanish burofax (postal, proof of delivery), also from… |
-| 2026-09-29 15:30:30 | [io.github.node9-ai/node9](https://github.com/node9-ai/node9-proxy) | node9 | 2.26.2 | Access control for AI agents and MCP servers: allow, hold for approval, or bloc… |
-| 2026-09-29 15:36:20 | com.musedin/musedin | MusedIn | 1.0.0 | Job network for AI agents: muses, open roles and jobs, profiles, verification r… |
-| 2026-09-29 15:40:26 | [io.github.ahmedaminsa/aljazeera360-mcp-server](https://github.com/ahmedaminsa/aljazeera360-mcp-server) | Al Jazeera 360 | 2.2.0 | Browse, search & watch Al Jazeera 360's Arabic shows, documentaries and podcast… |
-| 2026-09-29 15:40:29 | [io.github.simonether/kwork-mcp](https://github.com/simonether/kwork-mcp) | Kwork | 1.1.0 | Account-bound, typed and durable stdio MCP gateway for the Kwork freelance mark… |
-| 2026-09-29 15:42:02 | so.darwin/darwin | Darwin | 0.8.0 | Search public AI capabilities and coordinate approved work through Darwin's Sea… |
-| 2026-09-29 15:43:17 | com.syntropicapi/salary-net | Gross-to-Net Salary Calculator (Germany… | 1.0.0 | Net pay to the cent, every deduction and the employer's cost for Germany and th… |
-| 2026-09-29 15:44:15 | [io.github.Samik081/mcp-komodo](https://github.com/Samik081/mcp-komodo) | Komodo MCP Server | 0.9.0 | Manage Komodo through AI assistants |
-| 2026-09-29 15:47:45 | [io.github.bpmnkit/bpmnkit](https://github.com/bpmnkit/monorepo) | BPMN Kit | 1.1.0 | Create, validate, simulate and deploy Camunda 8 BPMN processes, forms and DMN f… |
-| 2026-09-29 15:49:53 | [io.github.Egoushka/chargehand](https://github.com/Egoushka/chargehand) | chargehand | 0.4.1 | Runs coding-agent workers on a codebase question; every claim in the answer car… |
-| 2026-09-29 15:51:11 | [io.github.ohad6k/emulo](https://github.com/ohad6k/emulo) |  | 0.6.7 | Mine your AI coding session logs into a you.md profile with dated receipts, for… |
-| 2026-09-29 15:52:02 | [io.github.atakanelik34/clawifi-mcp](https://github.com/atakanelik34/clawifi-mcp) | Clawifi | 0.1.1 | Agent-native internet gateway: typed search, fetch, scrape, crawl, and extract… |
-| 2026-09-29 15:52:23 | io.github.YawLabs/mcp |  | 1.0.17 | One install, every MCP server, managed from yaw.sh/mcp. Runs locally: no accoun… |
-| 2026-09-29 15:52:44 | markets.thefloor/club | The Floor | 1.0.0 | The club where your agent goes to work: paid for what it knows and does. No wal… |
-| 2026-09-29 15:53:54 | cz.pinflower/flowers | Pinflower — flowers in Prague | 3.1.0 | Order bouquets from independent Prague florists: live prices, delivery times, p… |
-| 2026-09-29 15:57:00 | [io.github.sarvin-tech/clausepilot](https://github.com/sarvin-tech/clausepilot) | ClausePilot | 1.0.0 | Paid contract renewal, obligation and risk analysis for AI agents. |
-| 2026-09-29 15:58:00 | ai.divinci/divinci | Divinci AI | 1.0.0 | Release management and QA for custom AI assistants: RAG, releases, scored QA, s… |
-| 2026-09-29 15:58:48 | com.formaportal/mcp | FormaPortal | 1.0.0 | Ask your customer portal and CRM anything, in plain English |
-| 2026-09-29 16:03:31 | ai.easyterritory/ezt-mcp | EasyTerritory MCP | 0.1.0 | Build, balance, realign and analyze sales/service territories; geocode, route,… |
-| 2026-09-29 16:04:06 | [io.svarapi/mcp](https://github.com/zenmode87/svara-mcp) | Svara | 0.1.0 | Send native LinkedIn voice notes from your AI assistant via the Svara API. |
-| 2026-09-29 16:06:11 | [com.agilitycms/mcp-server](https://github.com/agility/mcp-server) |  | 2.5.4 | An MCP server that provides access to Agility CMS. See https://mcp.agilitycms.c… |
-| 2026-09-29 16:09:13 | net.chatinbox/chatinbox | Chatinbox | 1.0.0 | Read-only WhatsApp conversation stats for Chatinbox customers. Numbers only, no… |
-| 2026-09-29 16:10:42 | [io.github.sarvin-tech/callflow-ai](https://github.com/sarvin-tech/callflow-ai) | CallFlow AI | 1.0.0 | Paid sales-call scoring and CRM next-step analysis for AI agents. |
-| 2026-09-29 16:11:40 | il.co.bituchon/car-insurance | ביטוחון: Israeli car data and car-insur… | 1.1.0 | Israeli car data by plate or model, licence fee, recalls, thefts and car-insura… |
-| 2026-09-29 16:13:15 | [com.dialogbrain/dialogbrain](https://github.com/saloprj/dialogbrain-claude-plugin) |  | 1.0.0 | Your customer inbox as tools: read and answer WhatsApp, Telegram, Instagram and… |
-| 2026-09-29 16:17:18 | com.la-truite/resort |  | 1.0.0 | Live availability and commission-free booking links for resort La Truite d'Arge… |
-| 2026-09-29 16:18:02 | ai.69ai/69ai | 69.ai | 1.5.0 | Relationship network for AI agents and people: register, match, chat, dinner id… |
-| 2026-09-29 16:19:11 | io.github.kaminariouji/x402-audit-agent | Crypto Bot Audit + Market Data (x402 pa… | 1.5.0 | x402 pay-per-call: 146 MCP tools, no account or key. USDC on Base + Solana, $0.… |
+| 2026-09-29 16:19:49 | [io.github.vibeads/mcp](https://github.com/vibeads/mcp) |  | 0.2.7 | Manage Google Ads from Claude: read metrics, draft campaigns, publish with huma… |
+| 2026-09-29 16:20:17 | [io.github.sarvin-tech/leadform-ai](https://github.com/sarvin-tech/leadform-ai) | LeadForm AI | 1.0.0 | Paid B2B lead scoring and next-action qualification for AI agents. |
+| 2026-09-29 16:21:33 | io.github.algolia/algolia-productivity | Algolia Productivity | 1.12.0 | Connect LLM tools to your Algolia account with user-scoped access for internal… |
+| 2026-09-29 16:26:18 | [ai.posteverywhere/mcp](https://github.com/posteverywhere/mcp) |  | 1.9.0 | Schedule and publish social posts to 11 platforms with media, campaigns, analyt… |
+| 2026-09-29 16:26:24 | vip.esim-global/esim-catalog | eSIM-Global.VIP eSIM Catalog | 2.0.5 | Find prepaid travel eSIM plans for 200+ destinations with live prices, specs an… |
+| 2026-09-29 16:28:32 | [io.github.ndhkaeru/codeloupe-mcp](https://github.com/ndhkaeru/codeloupe-mcp) |  | 1.1.0 | Local-first MCP server for code search, repository intelligence, comparison, an… |
+| 2026-09-29 16:31:40 | [ly.img/codesign](https://github.com/imgly/codesign) |  | 0.4.0 | Local design engine for AI agents: create, edit and export real, editable desig… |
+| 2026-09-29 16:36:42 | com.wearabledocs/wearabledocs | WearableDocs | 1.0.3 | Refusal of anatomical gift in 50 states and DC, plus the WearableDocs FAQ, prod… |
+| 2026-09-29 16:39:20 | dev.revamp/revamp | Revamp — Create or redesign websites | 1.0.0 | Create or redesign websites and build web apps by chatting. Preview, refine, an… |
+| 2026-09-29 16:42:31 | [io.github.privacyfence/privacyfence](https://github.com/privacyfence/privacyfence) | PrivacyFence | 5.2.1 | Needs the PrivacyFence app from privacyfence.eu: human approval and audit for A… |
+| 2026-09-29 16:44:24 | [io.github.popularzb/aylento](https://github.com/popularzb/aylento-plugins) | AYLENTO · 艾伦兔 | 0.13.0-beta.4 | Cross-client Agent identity, DMs, groups and block lists. Local MCPB; Node >=24… |
+| 2026-09-29 16:46:03 | com.supremetechy/amorti | Amorti | 1.0.0 | Find local businesses: live prices, stock and open times, plus owner-confirmed… |
+| 2026-09-29 16:47:35 | com.musicboxmelodies/music-box | Musicboxmelodies | 1.0.0 | Search music box tunes and write melodies that play on 15, 20 and 30-note music… |
+| 2026-09-29 16:48:06 | [io.github.mindstone/mcp-server-salesforce](https://github.com/mindstone/mcp-servers) | Salesforce | 0.2.3 | Salesforce CRM MCP server: accounts, contacts, opportunities, leads, tasks, and… |
+| 2026-09-29 16:49:13 | [io.github.Samik081/mcp-adguard-home](https://github.com/Samik081/mcp-adguard-home) | AdGuard Home MCP Server | 0.10.0 | Manage AdGuard Home through AI assistants |
+| 2026-09-29 16:50:06 | [io.github.BGarofalo1/peerkith-mcp](https://github.com/BGarofalo1/peerkith-mcp) |  | 0.5.1 | Check an agent work row, post one, and preflight a no-spend cap before any spen… |
+| 2026-09-29 16:52:04 | io.github.robit-man/mapsource | Mapsource OpenStreetMap & Geospatial AP… | 0.3.1 | OpenStreetMap queries, maps/styles, search, routing, terrain, analysis, pipelin… |
+| 2026-09-29 16:53:00 | dev.workers.cybermax-tools.cybermax/linkheft-api | Linkheft | 1.0.0 | Bulk domain authority: 0-100 score, web-graph rank, trend and Majestic links, 5… |
+| 2026-09-29 16:53:17 | [io.github.freema/drobek](https://github.com/freema/drobek) | Drobek | 0.6.0 | Build, preview, version and publish small browser apps from coding agents over… |
+| 2026-09-29 16:55:17 | com.ibipoint/esim-catalog | IbiPoint eSIM Catalog | 2.0.5 | Search prepaid travel eSIM data plans for 200+ countries with live prices and a… |
+| 2026-09-29 16:57:11 | [io.github.AudialAI/audial-mcp](https://github.com/AudialAI/audial-mcp) |  | 0.1.0 | Audial audio tools: stems, analysis, mastering, sample packs, MIDI, music gener… |
+| 2026-09-29 17:01:39 | [io.github.cheedli/doubleoh-mcp](https://github.com/cheedli/doubleoh) |  | 0.1.1 | The fix desk for AI agents: human fixes become skills the whole fleet reuses. |
+| 2026-09-29 17:03:21 | [io.github.blackwell-systems/agent-lsp](https://github.com/blackwell-systems/agent-lsp) |  | 0.20.0 | Orchestrates language servers into 65 code-intelligence tools across 32 languag… |
+| 2026-09-29 17:04:08 | [io.github.Shuffzord/roadraven](https://github.com/Shuffzord/RoadRaven) | RoadRaven | 0.8.7 | Create and update roadmap tree nodes and statuses in the RoadRaven desktop app… |
+| 2026-09-29 17:04:21 | com.detextit.www/detextit | Detextit by Shekkizh | 0.3.3 | Find tools and hosted agents by task, with source documentation and connection… |
+| 2026-09-29 17:05:03 | [io.github.alicelabs-llc/marketnow](https://github.com/alicelabs-llc/MARKETNOW) | MarketNow | 1.15.0 | Verify AI agent credentials, translate 9 formats, check scam domains, search 68… |
+| 2026-09-29 17:05:32 | [io.github.WonkaRed/Omnial](https://github.com/WonkaRed/Omnial) | Omnial | 1.0.0 | MCP server for 555 pay-per-call web scraping, search, social, business, and fin… |
+| 2026-09-29 17:07:55 | [com.parcelgps/catastro-gps](https://github.com/TheHiddenPandaDev/catastro_gps_mcp) | Catastro GPS | 1.2.0 | Cadastral parcels in 31 European countries and regions: reference, coordinates,… |
+| 2026-09-29 17:08:04 | eu.agrogps/agro-gps | Agro GPS | 0.2.0 | Plant protection product registers of 30 countries, free; plus your farm notebo… |
+| 2026-09-29 17:11:35 | com.oheyinc/ringmaster | RingMaster, the evening desk | 4.0 | Evening research on a thousand US stocks and their options: signals, IV rank, p… |
+| 2026-09-29 17:14:10 | com.hedwigai/hedwigai | hedwigAI | 1.0.0 | Primary data for your agents & apps: workbooks that research themselves, cite s… |
+| 2026-09-29 17:16:18 | [uk.co.shareflo/shareflo](https://github.com/richard-shareflo/shareflo-mcp-public) | Shareflo | 1.0.1 | Read and update your UK cap table: instruments, stakeholders, holdings and acco… |
+| 2026-09-29 17:16:53 | [io.github.oaslananka/easyeda-mcp-pro](https://github.com/oaslananka/easyeda-mcp-pro) |  | 1.1.0 | MCP server for EasyEDA Pro: PCB inspection, BOM, exports, and hardware review. |
 
 ## Data source
 
