@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-09-29T15:23:55.953245Z,io.github.pedropaf/burofacil,Burofácil,1.0.0,,streamable-http,"Draft, check and send a Spanish burofax (postal, proof of delivery), also from abroad."
+2026-09-29T15:30:30.467579Z,io.github.node9-ai/node9,node9,2.26.2,https://github.com/node9-ai/node9-proxy,,"Access control for AI agents and MCP servers: allow, hold for approval, or block each tool call"
+2026-09-29T15:36:20.71891Z,com.musedin/musedin,MusedIn,1.0.0,,streamable-http,"Job network for AI agents: muses, open roles and jobs, profiles, verification records. Read-only."
+2026-09-29T15:40:26.944787Z,io.github.ahmedaminsa/aljazeera360-mcp-server,Al Jazeera 360,2.2.0,https://github.com/ahmedaminsa/aljazeera360-mcp-server,streamable-http,"Browse, search & watch Al Jazeera 360's Arabic shows, documentaries and podcasts inside the chat."
+2026-09-29T15:40:29.737776Z,io.github.simonether/kwork-mcp,Kwork,1.1.0,https://github.com/simonether/kwork-mcp,,"Account-bound, typed and durable stdio MCP gateway for the Kwork freelance marketplace"
+2026-09-29T15:42:02.122915Z,so.darwin/darwin,Darwin,0.8.0,,streamable-http,Search public AI capabilities and coordinate approved work through Darwin's Search to Act interface.
+2026-09-29T15:43:17.708011Z,com.syntropicapi/salary-net,Gross-to-Net Salary Calculator (Germany & UK),1.0.0,,streamable-http,"Net pay to the cent, every deduction and the employer's cost for Germany and the UK, computed with…"
+2026-09-29T15:44:15.111527Z,io.github.Samik081/mcp-komodo,Komodo MCP Server,0.9.0,https://github.com/Samik081/mcp-komodo,,Manage Komodo through AI assistants
+2026-09-29T15:47:45.124223Z,io.github.bpmnkit/bpmnkit,BPMN Kit,1.1.0,https://github.com/bpmnkit/monorepo,,"Create, validate, simulate and deploy Camunda 8 BPMN processes, forms and DMN from an agent."
+2026-09-29T15:49:53.144875Z,io.github.Egoushka/chargehand,chargehand,0.4.1,https://github.com/Egoushka/chargehand,,Runs coding-agent workers on a codebase question; every claim in the answer carries evidence.
+2026-09-29T15:51:11.809749Z,io.github.ohad6k/emulo,,0.6.7,https://github.com/ohad6k/emulo,,"Mine your AI coding session logs into a you.md profile with dated receipts, for an agent to read."
+2026-09-29T15:52:02.302065Z,io.github.atakanelik34/clawifi-mcp,Clawifi,0.1.1,https://github.com/atakanelik34/clawifi-mcp,,"Agent-native internet gateway: typed search, fetch, scrape, crawl, and extract via the Clawifi API."
+2026-09-29T15:52:23.875131Z,io.github.YawLabs/mcp,,1.0.17,,,"One install, every MCP server, managed from yaw.sh/mcp. Runs locally: no account, no sign-in."
+2026-09-29T15:52:44.051011Z,markets.thefloor/club,The Floor,1.0.0,,streamable-http,The club where your agent goes to work: paid for what it knows and does. No wallet to walk in.
+2026-09-29T15:53:54.212354Z,cz.pinflower/flowers,Pinflower — flowers in Prague,3.1.0,,streamable-http,"Order bouquets from independent Prague florists: live prices, delivery times, pay on pinflower.cz."
+2026-09-29T15:57:00.832046Z,io.github.sarvin-tech/clausepilot,ClausePilot,1.0.0,https://github.com/sarvin-tech/clausepilot,streamable-http,"Paid contract renewal, obligation and risk analysis for AI agents."
+2026-09-29T15:58:00.754793Z,ai.divinci/divinci,Divinci AI,1.0.0,,streamable-http,"Release management and QA for custom AI assistants: RAG, releases, scored QA, signed TrustBench runs"
+2026-09-29T15:58:48.810548Z,com.formaportal/mcp,FormaPortal,1.0.0,,streamable-http,"Ask your customer portal and CRM anything, in plain English"
+2026-09-29T16:03:31.246014Z,ai.easyterritory/ezt-mcp,EasyTerritory MCP,0.1.0,,streamable-http,"Build, balance, realign and analyze sales/service territories; geocode, route, schedule, live map."
+2026-09-29T16:04:06.532986Z,io.svarapi/mcp,Svara,0.1.0,https://github.com/zenmode87/svara-mcp,,Send native LinkedIn voice notes from your AI assistant via the Svara API.
+2026-09-29T16:06:11.061408Z,com.agilitycms/mcp-server,,2.5.4,https://github.com/agility/mcp-server,streamable-http,An MCP server that provides access to Agility CMS. See https://mcp.agilitycms.com for more details.
+2026-09-29T16:09:13.919391Z,net.chatinbox/chatinbox,Chatinbox,1.0.0,,streamable-http,"Read-only WhatsApp conversation stats for Chatinbox customers. Numbers only, no personal data."
+2026-09-29T16:10:42.483178Z,io.github.sarvin-tech/callflow-ai,CallFlow AI,1.0.0,https://github.com/sarvin-tech/callflow-ai,streamable-http,Paid sales-call scoring and CRM next-step analysis for AI agents.
+2026-09-29T16:11:40.849919Z,il.co.bituchon/car-insurance,ביטוחון: Israeli car data and car-insurance facts,1.1.0,,streamable-http,"Israeli car data by plate or model, licence fee, recalls, thefts and car-insurance facts."
+2026-09-29T16:13:15.285921Z,com.dialogbrain/dialogbrain,,1.0.0,https://github.com/saloprj/dialogbrain-claude-plugin,streamable-http,"Your customer inbox as tools: read and answer WhatsApp, Telegram, Instagram and e-mail."
+2026-09-29T16:17:18.048161Z,com.la-truite/resort,,1.0.0,,streamable-http,"Live availability and commission-free booking links for resort La Truite d'Argent, Belgian Ardennes"
+2026-09-29T16:18:02.678783Z,ai.69ai/69ai,69.ai,1.5.0,,streamable-http,"Relationship network for AI agents and people: register, match, chat, dinner ideas, virtual gifts."
+2026-09-29T16:19:11.539664Z,io.github.kaminariouji/x402-audit-agent,Crypto Bot Audit + Market Data (x402 paid),1.5.0,,streamable-http,"x402 pay-per-call: 146 MCP tools, no account or key. USDC on Base + Solana, $0.001-$0.01/call."
