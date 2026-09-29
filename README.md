@@ -9,32 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 22:21 UTC
+## Latest list — 2026-09-29 23:19 UTC
 
-New MCP servers published between 2026-09-29 21:22 UTC and 2026-09-29 22:21 UTC.
+New MCP servers published between 2026-09-29 22:21 UTC and 2026-09-29 23:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-29T22-21-18-025977Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-29T23-19-41-237438Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-29 21:31:27 | [io.github.RyanCardin15/noaa-tides-and-currents-mcp](https://github.com/RyanCardin15/Perigee-Tides) | NOAA Tides and Currents | 2.1.0 | NOAA tides and currents: water levels, tide predictions, currents, met data, fl… |
-| 2026-09-29 21:34:22 | [io.github.presidio-v/presidio-hardened-ikigov-assess](https://github.com/presidio-v/presidio-hardened-ikigov-assess) |  | 0.26.0 | IKI-Gov AI governance assessment: score AI use cases, check quality gates G0-G5… |
-| 2026-09-29 21:35:22 | [io.github.birkskyum/maplibre-mcp](https://github.com/birkskyum/maplibre-mcp) | maplibre-mcp | 0.7.0 | An MCP server that lets AI agents check, render and show MapLibre styles |
-| 2026-09-29 21:42:10 | [io.github.geeks-accelerator/drifts](https://github.com/driftsbot/mcp-drifts) |  | 1.1.0 | Multi-sensory AI experiences with time-locked progression and structured sensor… |
-| 2026-09-29 21:47:36 | com.openajan/openajan | OpenAjan | 1.1.0 | Find local shops, read live menus and free times, and order or book on the user… |
-| 2026-09-29 21:48:30 | [io.github.elisymlabs/elisym](https://github.com/elisymlabs/elisym) | elisym | 0.31.0 | AI agent discovery, marketplace, messaging, and payments on Nostr - no platform… |
-| 2026-09-29 21:49:18 | app.samplecut/samplecut | Samplecut | 1.0.0 | Cut audio from YouTube, TikTok or Instagram links to MP3/WAV, and fetch video t… |
-| 2026-09-29 21:49:57 | com.carathunter/diamond-prices | Carat Hunter | 1.0.1 | Latest prices for one certified diamond across 100+ retailers: search, cert loo… |
-| 2026-09-29 21:51:55 | [app.needtofind/needtofind](https://github.com/gray-penguin/NeedToFind) | NeedToFind | 1.0.0 | Reverse marketplace: post what you want, search wanted ads, and message sellers… |
-| 2026-09-29 21:58:09 | [io.github.ChanMeng666/archlang-mcp](https://github.com/ChanMeng666/archlang) |  | 0.2.17 | Compile, describe, lint, validate, score and repair multi-storey and curved Arc… |
-| 2026-09-29 22:06:03 | [io.github.backblaze-labs/b2-mcp](https://github.com/backblaze-labs/b2-mcp) | Backblaze B2 MCP Server | 0.2.2 | Official Backblaze B2 MCP server for buckets, files, keys, Object Lock, and S3… |
-| 2026-09-29 22:06:24 | app.vidlet/vidlet | VidLet | 1.2.2 | Edit video by asking: auto-captions, jump cuts, narrated Shorts, GIFs, voiceove… |
-| 2026-09-29 22:09:48 | [com.predictionmarketspicks/fantasy-draft](https://github.com/predictionmarketspicks/fantasy-draft-mcp) | Fantasy Football Draft Assistant | 1.5.0 | The full 2026 fantasy draft board, free to any AI agent. No key, no email, no s… |
-| 2026-09-29 22:09:53 | io.github.OraclesTech/guardian-mcp |  | 0.1.2 | Runtime AI-threat screening for coding agents: analyze, scan tool calls/outputs… |
-| 2026-09-29 22:11:49 | com.useinvent/invent | Invent | 1.0.0 | Your customer inbox, contacts, AI assistants, broadcasts and tables, from any A… |
-| 2026-09-29 22:11:52 | [io.github.gregordadera/aicb-roslyn-mcp](https://github.com/gregordadera/aicb-roslyn-mcp) | AIContextBuilder | 0.5.465.1 | Symbol-aware C# and .NET code context for AI coding assistants. |
-| 2026-09-29 22:14:41 | [io.amnt/svg](https://github.com/BelgacemElbar/amnt.io) | AMNT SVG | 1.0.0 | Text or image to clean, editable SVG. Real vector paths with named groups, not… |
-| 2026-09-29 22:15:57 | app.rowb.septic-log/maintenance |  | 1.0.0 | Septic maintenance record: log inspections and pump-outs; next due date under E… |
+| 2026-09-29 22:22:16 | [io.github.tjcgraham-rgb/gaip-listing-observer](https://github.com/tjcgraham-rgb/gaip-agents) | GAIP Listing Observer | 1.2.0 | Delivery Assurance preview: does a shop listing's price, stock and SKU agree ac… |
+| 2026-09-29 22:27:23 | io.github.ObitoUchiha930/ubitoushiha-my-first-mcp |  | 1.0.2 | My first MCP server for testing |
+| 2026-09-29 22:30:12 | [io.github.svnscha/mcp-windbg](https://github.com/svnscha/mcp-windbg) | MCP Server for WinDbg Crash Analysis | 1.3.1 | A Model Context Protocol server for Windows crash dump analysis using WinDbg/CDB |
+| 2026-09-29 22:30:21 | com.hourtick/hourtick | Hourtick | 1.0.0 | Time tracking, tasks and team chat for humans and AI agents. |
+| 2026-09-29 22:30:28 | [io.github.scbrown/quipu](https://github.com/scbrown/quipu) | Quipu | 0.9.1 | Local knowledge graph memory for agents. SHACL rules refuse bad facts; SPARQL a… |
+| 2026-09-29 22:31:29 | com.konghq/konnect | Kong Konnect | 1.0.0 | Manage Kong Konnect AI and API gateways, routes, plugins, and analytics from yo… |
+| 2026-09-29 22:32:09 | [io.github.LienDeadline/liendeadline-mcp](https://github.com/LienDeadline/liendeadline-mcp) | LienDeadline | 0.2.0 | US mechanics lien and preliminary notice deadlines for construction suppliers,… |
+| 2026-09-29 22:32:48 | [io.github.DMontgomery40/bambu-printer-mcp](https://github.com/DMontgomery40/bambu-printer-mcp) | Bambu Printer MCP | 1.1.20 | Control Bambu Lab printers, slice models, manage AMS filament, and connect Blen… |
+| 2026-09-29 22:36:17 | lv.panembrivdienu/mcp | Paņem brīvdienu | 1.0.0 | Latvian public holidays, days off and annual leave for 2026 and 2027, computed… |
+| 2026-09-29 22:36:28 | com.aiurion/agentic-3d-printing | AIURION Agentic 3D Printing — San Franc… | 2.0.1 | SF 3D printing: PLA/PETG, ASA, PPA-CF, TPU 85A & TPU 95A HF. Quote, approve, an… |
+| 2026-09-29 22:41:51 | [io.github.cyberwareX/cyberwarex-council](https://github.com/CyberPunk11147/cyberwarex-mcp) |  | 1.1.1 | Second opinion for agents: 3-4 AI models answer, one verdict with confidence an… |
+| 2026-09-29 22:46:51 | [io.github.NVIDIA/elements](https://github.com/NVIDIA/elements) | NVIDIA Elements | 2.2.7 | NVIDIA Elements UI design system and agent tools for AI/ML, robotics, and auton… |
+| 2026-09-29 22:53:11 | [io.github.WattCoin-Org/wattcoin-mcp-server](https://github.com/WattCoin-Org/wattcoin) | WattCoin | 2.2.0 | Agents earn WATT on Solana: register with no wallet, claim tasks, build a reput… |
+| 2026-09-29 22:53:13 | [io.github.sergii-ziborov/hostwatch](https://github.com/sergii-ziborov/hostwatch) | Hostwatch | 1.0.0 | Observe and safely control sites, TLS, containers, traffic, databases and jobs… |
+| 2026-09-29 23:00:14 | [io.kamai/mcp](https://github.com/KamaiEnterprises/kamai-mcp) | Kamai | 1.0.0 | AI takeoff for construction: turn PDF blueprints into structured, traceable qua… |
+| 2026-09-29 23:03:16 | com.enshapeapp/enshape | Enshape | 1.0.0 | Read your private Enshape diary and log meals through scoped account authorizat… |
+| 2026-09-29 23:04:13 | io.github.pleazed-cmd/energiror | Energirör – VVS, värmepumpar & reservde… | 0.3.0 | Swedish VVS and heat-pump MCP with live price/stock, spare parts, compatibility… |
+| 2026-09-29 23:08:12 | [io.github.r3dbars/transcripted](https://github.com/r3dbars/transcripted) | Transcripted | 1.1.67 | Read-only search over the meetings, dictations and writing saved by the Transcr… |
+| 2026-09-29 23:14:33 | [dev.anacraft/anacraft](https://github.com/anacrafterdev/anacraft) | anacraft — Google Analytics 4 | 0.41.0 | Ask your Google Analytics 4 property how the site is doing: traffic, pages, eve… |
+| 2026-09-29 23:16:45 | [io.github.mzizi-dev/mzizi-mcp](https://github.com/mzizi-dev/agent-tools) |  | 0.10.1 | Mzizi design system MCP: components, tokens, skills and docs. Free; sign-in onl… |
 
 ## Data source
 
