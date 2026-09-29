@@ -1,0 +1,118 @@
+created_at,server,title,version,repository,transports,description
+2026-09-29T12:21:27.919513Z,io.github.ni-c/mealie-mcp,Mealie MCP Server,0.5.1,https://github.com/ni-c/mealie-mcp,,"MCP server for Mealie, the self-hosted recipe manager and meal planner"
+2026-09-29T12:23:06.996282Z,com.slidedrift/mcp,SlideDrift MCP,0.3.0,,streamable-http,"Create carousels and AI Covers, then export, share, and schedule them with SlideDrift."
+2026-09-29T12:24:56.105121Z,com.pyunto/diary,Pyunto Diary,0.3.0,https://github.com/utagoeinc/pyunto-agent,,"Read, search and write your encrypted Pyunto diary from Claude. Decrypts only on your own machine."
+2026-09-29T12:26:46.349148Z,fr.suxession/suxession,Suxession — French Inheritance Tax Engine,0.6.0.0,,streamable-http,"French inheritance tax engine: simulate, compare scenarios, savings estimate, premium optimizer."
+2026-09-29T12:28:39.096254Z,io.github.dockndevai/mcp-outlook,,0.3.0,https://github.com/dockndevai/mcp-outlook,,"Outlook mail and OneDrive files via Microsoft Graph — read, search, send and organize."
+2026-09-29T12:28:41.218754Z,io.github.dockndevai/mcp-teams,,0.2.0,https://github.com/dockndevai/mcp-teams,,"Read Microsoft Teams teams, channels, chats and messages, and post/reply/send, safe by default."
+2026-09-29T12:29:48.466215Z,io.github.clouatre-labs/aptu-coder,Aptu Coder,0.37.0,https://github.com/clouatre-labs/aptu-coder,,MCP server for code structure analysis using tree-sitter.
+2026-09-29T12:31:24.127889Z,io.github.dockndevai/mcp-kafka,,0.3.0,https://github.com/dockndevai/mcp-kafka,,Apache Kafka monitoring & management for AI agents (with consumer lag) — governed.
+2026-09-29T12:31:25.523658Z,io.github.dockndevai/mcp-debezium,,0.3.0,https://github.com/dockndevai/mcp-debezium,,"Debezium / Kafka Connect CDC connector management for AI agents — governed, secret-safe."
+2026-09-29T12:31:29.184559Z,io.github.dockndevai/mcp-azure-devops,,0.3.0,https://github.com/dockndevai/mcp-azure-devops,,"Azure DevOps boards, repos, pipelines & projects for AI agents — governed."
+2026-09-29T12:31:32.612634Z,io.github.dockndevai/mcp-keycloak,,0.3.0,https://github.com/dockndevai/mcp-keycloak,,"Keycloak admin for AI agents — realms, users, clients, roles; safe-by-default governance."
+2026-09-29T12:31:35.749538Z,io.github.dockndevai/mcp-macos,,0.2.0,https://github.com/dockndevai/mcp-macos,,"Observe & operate a Mac — files, processes, apps, shell, AppleScript, GUI — safe by default."
+2026-09-29T12:31:41.64627Z,io.github.dockndevai/mcp-percona-pg,,0.3.0,https://github.com/dockndevai/mcp-percona-pg,,Manage Percona PostgreSQL + PgBouncer on Kubernetes — safe-by-default access modes and guards.
+2026-09-29T12:31:41.699266Z,io.github.dockndevai/mcp-grafana,,0.3.0,https://github.com/dockndevai/mcp-grafana,,"Search & edit Grafana dashboards, query datasources (PromQL/LogQL/SQL), inspect alerts."
+2026-09-29T12:31:44.136462Z,io.github.dockndevai/mcp-clickhouse,,0.3.0,https://github.com/dockndevai/mcp-clickhouse,,ClickHouse query & management for AI agents — SQL-classified read/write/destructive gating.
+2026-09-29T12:32:07.586778Z,io.github.dockndevai/mcp-azure,,0.3.0,https://github.com/dockndevai/mcp-azure,,"Azure Resource Manager inventory & ops for AI agents — governed, confirmation-gated."
+2026-09-29T12:33:26.260596Z,io.github.gbatistuta0/appfactory,,0.1.3,https://github.com/gbatistuta0/appfactory,,Lets your coding agent ship a SwiftUI iOS subscription app from idea to TestFlight.
+2026-09-29T12:34:15.681793Z,io.github.erayendes/asc-mcp,Heimdall,2.4.2,https://github.com/erayendes/app-store-connect-mcp,,"Every App Store Connect + StoreKit 2 endpoint. 895 tools in 13 profiles, narrow to 27."
+2026-09-29T12:35:53.982608Z,app.nomac/nomac,NoMac,1.0.0,,streamable-http,"Cloud macOS with Xcode for AI agents: run commands, build, test and ship iOS apps."
+2026-09-29T12:36:49.917768Z,ai.orisu/orisu,Orisu,1.0.0,,streamable-http,"Build and run AI image, video and on-brand ad workflows from chat, with brand kits and share links."
+2026-09-29T12:37:05.73323Z,io.github.AceDataCloud/mcp-glm,,2026.9.29.0,https://github.com/AceDataCloud/GlmMCP,streamable-http,MCP server for GLM chat completions using Zhipu AI models via AceDataCloud
+2026-09-29T12:37:15.565275Z,io.github.AceDataCloud/mcp-maestro,,2026.9.29.0,https://github.com/AceDataCloud/MaestroMCP,streamable-http,Produce complete AI videos from a brief with Maestro
+2026-09-29T12:37:42.704419Z,io.github.AceDataCloud/mcp-minimax,,2026.9.29.0,https://github.com/AceDataCloud/MinimaxMCP,streamable-http,MCP server for MiniMax H3 multimodal video generation
+2026-09-29T12:37:59.975828Z,io.github.AceDataCloud/mcp-seedance,,2026.9.29.0,https://github.com/AceDataCloud/SeedanceMCP,streamable-http,MCP server for ByteDance Seedance AI video generation
+2026-09-29T12:38:03.334897Z,io.github.AceDataCloud/mcp-serp,,2026.9.29.0,https://github.com/AceDataCloud/SerpMCP,streamable-http,MCP server for Google search results via SERP API
+2026-09-29T12:38:04.445515Z,io.github.AceDataCloud/mcp-aichat,,2026.9.29.0,https://github.com/AceDataCloud/AiChatMCP,streamable-http,MCP server for AI dialogue using various LLM models via AceDataCloud
+2026-09-29T12:38:10.830236Z,io.github.AceDataCloud/mcp-kling,,2026.9.29.0,https://github.com/AceDataCloud/KlingMCP,streamable-http,MCP server for Kling AI video generation
+2026-09-29T12:38:11.676431Z,io.github.AceDataCloud/mcp-webextrator,,2026.9.29.0,https://github.com/AceDataCloud/WebExtraterMCP,streamable-http,MCP server for web extraction and rendering via AceDataCloud WebExtrator
+2026-09-29T12:38:12.904179Z,io.github.AceDataCloud/mcp-nanobanana-pro,,2026.9.29.0,https://github.com/AceDataCloud/NanoBananaMCP,streamable-http,MCP server for NanoBanana AI image generation and editing
+2026-09-29T12:38:13.653Z,io.github.AceDataCloud/mcp-shorturl,,2026.9.29.0,https://github.com/AceDataCloud/ShortURLMCP,streamable-http,MCP server for URL shortening and management
+2026-09-29T12:38:18.137478Z,io.github.AceDataCloud/mcp-producer,,2026.9.29.0,https://github.com/AceDataCloud/ProducerMCP,streamable-http,MCP server for Producer/Riffusion AI music generation
+2026-09-29T12:38:21.381564Z,io.github.AceDataCloud/mcp-face-transform,,2026.9.29.0,https://github.com/AceDataCloud/FaceTransformMCP,streamable-http,"AceDataCloud Face Transform MCP: keypoints, beautify, age/gender, swap, cartoon, liveness"
+2026-09-29T12:38:24.247794Z,io.github.AceDataCloud/mcp-sora,,2026.9.29.0,https://github.com/AceDataCloud/SoraMCP,streamable-http,MCP server for OpenAI Sora AI video generation
+2026-09-29T12:38:26.313315Z,io.github.AceDataCloud/mcp-veo,,2026.9.29.0,https://github.com/AceDataCloud/VeoMCP,streamable-http,MCP server for Google Veo AI video generation
+2026-09-29T12:38:37.730306Z,io.github.AceDataCloud/mcp-hailuo,,2026.9.29.0,https://github.com/AceDataCloud/HailuoMCP,streamable-http,MCP server for Hailuo (MiniMax) AI video generation
+2026-09-29T12:38:37.956824Z,io.github.AceDataCloud/mcp-fish,,2026.9.29.0,https://github.com/AceDataCloud/FishMCP,streamable-http,MCP server exposing the AceDataCloud Fish Audio API (text-to-speech with voice conditioning)
+2026-09-29T12:38:39.574527Z,com.usemuro/paint-colors,Muro Paint Colors,1.0.0,,streamable-http,"51,000 real paint colours from 35 brands: search, lookup, cross-brand equivalents."
+2026-09-29T12:38:39.613898Z,io.github.AceDataCloud/mcp-wan,,2026.9.29.0,https://github.com/AceDataCloud/WanMCP,streamable-http,MCP server for Wan AI video generation
+2026-09-29T12:38:47.03798Z,io.github.AceDataCloud/mcp-grok,,2026.9.29.0,https://github.com/AceDataCloud/GrokMCP,streamable-http,MCP server for Grok Imagine AI video generation
+2026-09-29T12:38:49.577111Z,io.github.AceDataCloud/mcp-flux-pro,,2026.9.29.0,https://github.com/AceDataCloud/FluxMCP,streamable-http,MCP server for Flux AI image generation
+2026-09-29T12:38:50.004976Z,io.github.AceDataCloud/mcp-seedream-pro,,2026.9.29.0,https://github.com/AceDataCloud/SeedreamMCP,streamable-http,MCP server for ByteDance Seedream AI image generation
+2026-09-29T12:38:56.485472Z,io.github.AceDataCloud/mcp-suno,,2026.9.29.0,https://github.com/AceDataCloud/SunoMCP,streamable-http,"MCP server for Suno AI music generation, lyrics, and covers"
+2026-09-29T12:39:02.119656Z,io.github.AceDataCloud/mcp-luma,,2026.9.29.0,https://github.com/AceDataCloud/LumaMCP,streamable-http,MCP server for Luma Dream Machine AI video generation
+2026-09-29T12:41:31.11897Z,co.homemaster/homemaster,HomeMaster,1.0.0,,streamable-http,"Home cleaning and aircon servicing in Singapore: coverage, open times, exact prices and booking."
+2026-09-29T12:43:16.361159Z,io.github.ihor-sokoliuk/mcp-searxng,SearXNG Search,2.5.0,https://github.com/ihor-sokoliuk/mcp-searxng,,"MCP server for SearXNG — privacy-respecting web search with pagination, URL reading"
+2026-09-29T12:44:55.292897Z,io.github.BlockRunAI/blockrun-mcp,,0.52.2,https://github.com/BlockRunAI/blockrun-mcp,,"Web search, deep research, prediction markets & crypto data for AI agents. Pay per call via x402."
+2026-09-29T12:49:26.207371Z,io.github.AnshumanAtrey/maigret-username-search,"Username Search & OSINT - Maigret Profile Finder, 5,000+ Sites",1.0.1,https://github.com/AnshumanAtrey/maigret-username-search,streamable-http,Username Search & Lookup - Maigret OSINT Tool
+2026-09-29T12:51:21.509865Z,io.usefulapi/folk,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read and write Folk CRM people, companies, groups and notes."
+2026-09-29T12:51:28.844434Z,io.usefulapi/accelo,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Manage Accelo companies, contacts, jobs, tasks, tickets and time."
+2026-09-29T12:51:30.957215Z,io.usefulapi/basis-theory,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read token metadata, applications, audit logs, proxies and usage in the PCI vault."
+2026-09-29T12:51:31.919781Z,io.usefulapi/canvas-medical,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,Search and read a patient chart over the Canvas FHIR R4 API. Read-only.
+2026-09-29T12:51:32.976021Z,io.usefulapi/castle,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,Investigate security events and manage the allow/deny lists an analyst acts on.
+2026-09-29T12:51:33.554754Z,one.faf/gemini-faf-mcp,Gemini FAF,3.0.0,https://github.com/Wolfe-Jam/gemini-faf-mcp,,Persistent project context for Google Gemini. Python/FastMCP. IANA-registered .faf format.
+2026-09-29T12:51:33.951901Z,io.usefulapi/checkoutcom,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Checkout.com payments, disputes, reports and payouts."
+2026-09-29T12:51:35.000284Z,io.usefulapi/clinicaltrialsgov,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Search and read ClinicalTrials.gov studies, sites and outcomes."
+2026-09-29T12:51:36.388007Z,io.usefulapi/codecov,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Codecov coverage reports, commits, pulls, flags and components."
+2026-09-29T12:51:37.243398Z,io.usefulapi/codemagic,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Trigger and inspect Codemagic CI builds, apps and artifacts."
+2026-09-29T12:51:37.967857Z,io.usefulapi/copper,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read and write Copper CRM people, companies, opportunities and activities."
+2026-09-29T12:51:39.19491Z,io.usefulapi/dailymed,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Search DailyMed drug labels, SPLs, NDCs and packaging."
+2026-09-29T12:51:40.136745Z,io.usefulapi/deepinfra,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Run DeepInfra inference, list models and read account rate limits."
+2026-09-29T12:51:41.090789Z,io.usefulapi/documenso,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read and send documents for signature — templates, recipients, fields and folders."
+2026-09-29T12:51:42.458166Z,io.usefulapi/drchrono,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read and write DrChrono patients, appointments, offices and clinical notes."
+2026-09-29T12:51:43.252681Z,io.usefulapi/drupal,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read and write Drupal JSON:API nodes, taxonomy terms, users and files."
+2026-09-29T12:51:44.499397Z,io.usefulapi/dub,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Short links with click, lead and sale analytics, customers, tags and the partner programme."
+2026-09-29T12:51:45.526414Z,io.usefulapi/estuary-flow,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Inspect Estuary Flow captures, materializations, collections and stats."
+2026-09-29T12:51:47.128669Z,io.usefulapi/falai,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Run fal.ai models, poll the inference queue and read model schemas."
+2026-09-29T12:51:48.118132Z,io.usefulapi/fitbit,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Fitbit profile, activity, sleep, heart rate and device data."
+2026-09-29T12:51:49.237465Z,io.usefulapi/formbricks,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read survey responses and manage contacts, webhooks, teams and organisation users."
+2026-09-29T12:51:50.279043Z,io.usefulapi/geoapify,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Geocode, reverse-geocode, autocomplete, route and search places."
+2026-09-29T12:51:51.356626Z,io.usefulapi/getresponse,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Manage GetResponse contacts, campaigns, newsletters and autoresponders."
+2026-09-29T12:51:52.456943Z,io.usefulapi/health-gorilla,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Query Health Gorilla FHIR patients, conditions, medications and lab results."
+2026-09-29T12:51:53.552089Z,io.usefulapi/helpcrunch,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Manage HelpCrunch chats, customers, agents and knowledge-base articles."
+2026-09-29T12:51:54.875879Z,io.usefulapi/hetzner-cloud,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Servers, volumes, networks, firewalls, load balancers, pricing and safe power operations."
+2026-09-29T12:51:56.166318Z,io.usefulapi/infermedica,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Run Infermedica symptom checks, diagnosis, triage and condition lookups."
+2026-09-29T12:51:58.017966Z,io.usefulapi/inngest,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Trace events to function runs to the failing step, and bulk-cancel runs."
+2026-09-29T12:51:58.704254Z,io.usefulapi/kinde,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Users, organizations, roles, permissions, applications and feature flags."
+2026-09-29T12:51:59.581925Z,io.usefulapi/nexhealth,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read and write NexHealth appointments, patients, providers and locations."
+2026-09-29T12:52:00.619837Z,io.usefulapi/nomic-atlas,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Semantic nearest-neighbour search over your datasets, plus indices and projections."
+2026-09-29T12:52:01.524496Z,io.usefulapi/nppes-npi-registry,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,Look up US healthcare providers and organisations by NPI.
+2026-09-29T12:52:02.32051Z,io.usefulapi/onfido,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Create and read Onfido applicants, documents, checks and reports."
+2026-09-29T12:52:03.036993Z,io.usefulapi/openfda,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Search openFDA drug, device, food and adverse-event datasets."
+2026-09-29T12:52:03.797513Z,io.usefulapi/openphone,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Send and read OpenPhone messages, calls, contacts and phone numbers."
+2026-09-29T12:52:05.172937Z,io.usefulapi/oura,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read sleep, readiness, activity, stress, heart rate and workouts from the Oura Ring."
+2026-09-29T12:52:06.417097Z,io.usefulapi/ownerrez,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Manage OwnerRez properties, bookings, guests, quotes and inquiries."
+2026-09-29T12:52:07.246117Z,io.usefulapi/particlehealth,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,Query Particle Health patient records across connected clinical networks.
+2026-09-29T12:52:08.095967Z,io.usefulapi/persona,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Persona inquiries, accounts, verifications and reports."
+2026-09-29T12:52:09.037249Z,io.usefulapi/polar-sh,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Products, customers, orders, subscriptions, benefits, revenue metrics and refunds."
+2026-09-29T12:52:09.793758Z,io.usefulapi/re-amaze,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Manage Re:amaze conversations, messages, contacts and help articles."
+2026-09-29T12:52:10.988888Z,io.usefulapi/release-radar,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,Correlate GitHub releases with Sentry issues and PagerDuty incidents.
+2026-09-29T12:52:11.981153Z,io.usefulapi/rxnorm,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Look up drug names, RxCUIs, ingredients and interactions in RxNorm."
+2026-09-29T12:52:12.814048Z,io.usefulapi/savvycal,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,Read and create SavvyCal scheduling links and booked events.
+2026-09-29T12:52:13.678044Z,io.usefulapi/svix,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Send and debug webhooks — applications, endpoints, messages, delivery attempts and replays."
+2026-09-29T12:52:14.662967Z,io.usefulapi/text-em-all,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Send and track Text-Em-All broadcasts, texts and contact lists."
+2026-09-29T12:52:15.986778Z,io.usefulapi/trigger-dev,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Debug background jobs — runs, traces, spans, schedules, queues and deployments."
+2026-09-29T12:52:16.845906Z,io.usefulapi/unkey,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Manage API keys, identities, permissions, rate-limit overrides and verification analytics."
+2026-09-29T12:52:17.61794Z,io.usefulapi/whoop,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read WHOOP recovery, sleep, cycles, workouts and body measurements."
+2026-09-29T12:52:18.483092Z,io.usefulapi/knack,,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Read, create, update and delete records; inspect objects, fields and schema in your Knack database."
+2026-09-29T12:52:19.175568Z,io.usefulapi/knowledgeowl,,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Read and write knowledge-base articles, categories, snippets, glossary, readers, and search data."
+2026-09-29T12:52:20.200855Z,io.usefulapi/linear,,1.0.2,https://github.com/m190/usefulapi-mcp,streamable-http,"Search, read and create Linear issues, projects, teams and cycles."
+2026-09-29T12:52:21.197469Z,io.usefulapi/memberful,,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Manage Memberful members, subscriptions, plans, passes and coupons via the GraphQL API."
+2026-09-29T12:52:22.608304Z,io.usefulapi/olark,,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Manage Olark live-chat operators and groups (teams): list, create, update, and assign to teams."
+2026-09-29T12:52:23.456384Z,io.usefulapi/parabol,,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Start Parabol retrospectives, standups and sprint poker; read teams/meetings/tasks; create tasks."
+2026-09-29T12:52:24.242104Z,io.usefulapi/raisely,,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Read campaigns, donations, profiles and supporters; record offline donations and upsert users."
+2026-09-29T12:52:25.281452Z,io.usefulapi/youcanbookme,,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Manage YouCanBook.me bookings, booking pages, appointment types, team members and locations."
+2026-09-29T12:53:40.65382Z,me.passport/mcp,Passport.Me,1.0.1,,streamable-http,"Your Gmail, Calendar, Drive, GitHub, Oura, wallet and confirmed profile facts in any MCP client."
+2026-09-29T13:02:49.400615Z,com.pyunto/time-management,,0.3.5,https://github.com/pyunto/tm-integrations,,Read your Pyunto Time Management schedule and log time from an AI assistant. E2EE project planning.
+2026-09-29T13:03:59.510702Z,io.github.FTHTrading/genesis402-mcp,Genesis402 by UnyKorn (x402 pay-per-call),0.3.4,https://github.com/FTHTrading/genesis402-agent-kit,streamable-http,"360 pay-per-call APIs for AI agents over x402: DeFi, chain reads, risk, SEC, web intel."
+2026-09-29T13:04:38.121379Z,io.github.codelives/ainecto,AI-ERD,0.4.2,https://github.com/codelives/ainecto,,"AI-ERD MCP connector for workspace, document, ERD, diagram, task, and attachment workflows."
+2026-09-29T13:04:55.396041Z,io.github.iamdlm/saras-list,,1.0.0,https://github.com/iamdlm/saras-list-jobs,streamable-http,"Read-only tools over Sara's List: growth-stage companies, open roles and equity forecasts."
+2026-09-29T13:05:46.048134Z,io.github.NickLiapin/tdcv2,,0.1.1,https://github.com/NickLiapin/tdcv2-agents,,"Deterministic test data from a .tdc config, generated locally by the TDCv2 engine."
+2026-09-29T13:08:00.158794Z,io.github.elkinegor/linkbit-mcp,LinkBit,1.0.0,https://github.com/elkinegor/linkbit-mcp,,"Shorten URLs, bulk create, QR, and click analytics for LinkBit."
+2026-09-29T13:08:02.107871Z,com.suggix/mcp,Suggix MCP,1.0.0,,streamable-http,"Connect AI agents to Suggix to manage feedback, roadmap items, changelogs, and users."
+2026-09-29T13:08:55.53203Z,com.aventurator/mcp,Aventurator,1.1.0,,streamable-http,"Multilingual restaurant menus and local travel discovery in Lanzarote. Read-only, no API key."
+2026-09-29T13:11:15.221034Z,net.clickwise/mcp,Clickwise Affiliate Network,1.4.0,https://github.com/softdevfz/clickwise-api,streamable-http,"Search GTIN products, mint tracked affiliate links, find affiliate programs and deals."
+2026-09-29T13:11:26.734812Z,io.mcprating/search,MCP Rating,0.2.0,,streamable-http; sse,"Search MCP servers, with our own start-test results, required keys, tools and token cost."
+2026-09-29T13:12:46.108215Z,io.github.byteplant-devops/byteplant-mcp,,1.1.0,https://github.com/byteplant-devops/byteplant-mcp,,"An MCP server that provides Email, Phone and Address Validation Services from Byteplant"
+2026-09-29T13:16:22.374378Z,io.github.19Alma98/trekking-mcp,Sentieri e condizioni di montagna,1.0.0,https://github.com/19Alma98/trekking_mcp,,"Italian Alpine trails, huts, avalanche bulletins and elevation weather"
