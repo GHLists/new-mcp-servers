@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-09-29T21:31:27.475272Z,io.github.RyanCardin15/noaa-tides-and-currents-mcp,NOAA Tides and Currents,2.1.0,https://github.com/RyanCardin15/Perigee-Tides,streamable-http,"NOAA tides and currents: water levels, tide predictions, currents, met data, flooding, sun and moon"
+2026-09-29T21:34:22.747154Z,io.github.presidio-v/presidio-hardened-ikigov-assess,,0.26.0,https://github.com/presidio-v/presidio-hardened-ikigov-assess,,"IKI-Gov AI governance assessment: score AI use cases, check quality gates G0-G5, map to EU AI Act."
+2026-09-29T21:35:22.955772Z,io.github.birkskyum/maplibre-mcp,maplibre-mcp,0.7.0,https://github.com/birkskyum/maplibre-mcp,,"An MCP server that lets AI agents check, render and show MapLibre styles"
+2026-09-29T21:42:10.942212Z,io.github.geeks-accelerator/drifts,,1.1.0,https://github.com/driftsbot/mcp-drifts,,Multi-sensory AI experiences with time-locked progression and structured sensory data
+2026-09-29T21:47:36.109888Z,com.openajan/openajan,OpenAjan,1.1.0,,streamable-http,"Find local shops, read live menus and free times, and order or book on the user's behalf."
+2026-09-29T21:48:30.130596Z,io.github.elisymlabs/elisym,elisym,0.31.0,https://github.com/elisymlabs/elisym,,"AI agent discovery, marketplace, messaging, and payments on Nostr - no platform, no middleman"
+2026-09-29T21:49:18.453368Z,app.samplecut/samplecut,Samplecut,1.0.0,,streamable-http,"Cut audio from YouTube, TikTok or Instagram links to MP3/WAV, and fetch video transcripts."
+2026-09-29T21:49:57.792191Z,com.carathunter/diamond-prices,Carat Hunter,1.0.1,,streamable-http,"Latest prices for one certified diamond across 100+ retailers: search, cert lookup, market prices."
+2026-09-29T21:51:55.8601Z,app.needtofind/needtofind,NeedToFind,1.0.0,https://github.com/gray-penguin/NeedToFind,streamable-http,"Reverse marketplace: post what you want, search wanted ads, and message sellers privately."
+2026-09-29T21:58:09.810146Z,io.github.ChanMeng666/archlang-mcp,,0.2.17,https://github.com/ChanMeng666/archlang,,"Compile, describe, lint, validate, score and repair multi-storey and curved ArchLang floor plans."
+2026-09-29T22:06:03.127555Z,io.github.backblaze-labs/b2-mcp,Backblaze B2 MCP Server,0.2.2,https://github.com/backblaze-labs/b2-mcp,,"Official Backblaze B2 MCP server for buckets, files, keys, Object Lock, and S3 storage."
+2026-09-29T22:06:24.031379Z,app.vidlet/vidlet,VidLet,1.2.2,,,"Edit video by asking: auto-captions, jump cuts, narrated Shorts, GIFs, voiceover, YouTube upload."
+2026-09-29T22:09:48.746055Z,com.predictionmarketspicks/fantasy-draft,Fantasy Football Draft Assistant,1.5.0,https://github.com/predictionmarketspicks/fantasy-draft-mcp,streamable-http,"The full 2026 fantasy draft board, free to any AI agent. No key, no email, no signup."
+2026-09-29T22:09:53.351116Z,io.github.OraclesTech/guardian-mcp,,0.1.2,,,"Runtime AI-threat screening for coding agents: analyze, scan tool calls/outputs & docs (paid)."
+2026-09-29T22:11:49.681719Z,com.useinvent/invent,Invent,1.0.0,,streamable-http,"Your customer inbox, contacts, AI assistants, broadcasts and tables, from any AI app."
+2026-09-29T22:11:52.361318Z,io.github.gregordadera/aicb-roslyn-mcp,AIContextBuilder,0.5.465.1,https://github.com/gregordadera/aicb-roslyn-mcp,,Symbol-aware C# and .NET code context for AI coding assistants.
+2026-09-29T22:14:41.519584Z,io.amnt/svg,AMNT SVG,1.0.0,https://github.com/BelgacemElbar/amnt.io,streamable-http,"Text or image to clean, editable SVG. Real vector paths with named groups, not a traced bitmap."
+2026-09-29T22:15:57.660648Z,app.rowb.septic-log/maintenance,,1.0.0,,streamable-http,Septic maintenance record: log inspections and pump-outs; next due date under EPA intervals. No AI.
