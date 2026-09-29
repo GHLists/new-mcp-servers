@@ -9,38 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 19:22 UTC
+## Latest list — 2026-09-29 20:21 UTC
 
-New MCP servers published between 2026-09-29 18:21 UTC and 2026-09-29 19:22 UTC.
+New MCP servers published between 2026-09-29 19:22 UTC and 2026-09-29 20:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-29T19-22-15-370236Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-29T20-21-29-138193Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-29 18:24:07 | [io.github.Khoshkhah/roadstyle](https://github.com/Khoshkhah/roadstyle) | roadstyle | 0.9.1 | Styled, interactive road maps of any place (OpenStreetMap) or road file, with P… |
-| 2026-09-29 18:27:27 | org.ungovr/mcp |  | 1.2.1 | Resolve any government entity worldwide and submit service requests. Open civic… |
-| 2026-09-29 18:27:36 | org.lexlint/lexlint | LexLint: compliance lint for AI, scrapi… | 1.0.2 | Compliance lint for AI, scraping, and privacy law. Cited findings in 200 or mor… |
-| 2026-09-29 18:29:08 | [tech.amass/amass](https://github.com/amass-technologies/amass-mcp) | Amass | 10.0.0 | Linked life-science search: 43M+ papers, 1.2M+ trials, drugs, genes, FDA/EMA ap… |
-| 2026-09-29 18:30:29 | [pro.bananabanana/image-video](https://github.com/bananabanana-pro-mcp/bananabanana-mcp) | BananaBanana Image, Video & Speech Gene… | 1.0.11 | Images, video & speech: Nano Banana, GPT Image, Veo, Omni, Wan, Grok, Gemini TT… |
-| 2026-09-29 18:31:35 | com.fairwhere/fairwhere | FairWhere | 0.5.0 | Free London beta meetup planner. Ranks curated Placelists by journey fairness f… |
-| 2026-09-29 18:40:36 | [io.github.Vando-sketch/nextcloud-organizer-mcp](https://github.com/Vando-sketch/Nextcloud-Organizer-MCP) |  | 0.2.1 | Manage Nextcloud tasks, calendar events and notes from Claude over CalDAV and t… |
-| 2026-09-29 18:40:39 | io.github.LeBorgneAntoine/facturx | Factur-X: Generate & Validate E-Invoices | 0.1.14 | Generate and validate Factur-X, CII & UBL invoices. Free demo; EUR 3 evaluation… |
-| 2026-09-29 18:42:30 | co.pipeboard/tiktok-ads-mcp |  | 1.0.74 | TikTok Ads automation with AI: analyze performance, manage campaigns, optimize… |
-| 2026-09-29 18:45:47 | [app.mailsocket/mailsocket-mcp](https://github.com/mailsocket/mailsocket-sdk) | mailsocket | 0.1.1 | Email inboxes for AI agents: create an inbox, then block until the OTP or magic… |
-| 2026-09-29 18:47:27 | [io.github.Vortx-AI/emem](https://github.com/Vortx-AI/emem) | emem, the verifiable memory protocol fo… | 2.4.2 | Shared memory for AI agents. One address per fact, one signature you check. No… |
-| 2026-09-29 18:49:11 | [io.github.ghostchars/ghostchars](https://github.com/ghostchars/ghostchars) | Ghostchars | 1.0.2 | Find and remove invisible Unicode: zero-width, tag smuggling, bidi, homoglyphs.… |
-| 2026-09-29 18:52:28 | [ai.spicygen/spicygen](https://github.com/Wayfinity/spicygen-skills) | SpicyGen | 1.1.0 | AI adult image, character and movie generator (18+). Characters, images, videos… |
-| 2026-09-29 18:56:33 | ai.january/nutrition | January AI Nutrition | 0.2.0 | Food photo recognition, nutrition search, meal logging and glucose prediction f… |
-| 2026-09-29 18:56:35 | io.github.2pm-ninja/star-ninja | Star Ninja | 1.0.0 | Star Ninja reports sky darkness, cloud cover and moonless hours for a night-sky… |
-| 2026-09-29 18:58:16 | [io.github.odedkovach/padeltrue](https://github.com/odedkovach/padel-racket-data) | PadelTrue padel racket data | 1.0.0 | Published padel racket specifications, each with its source, and calculated rat… |
-| 2026-09-29 18:59:03 | [io.github.SpaceFrontiers/mcp](https://github.com/SpaceFrontiers/mcp) | Machine Library | 0.4.0 | Machine Library: cited search over papers, books, patents and social posts, wit… |
-| 2026-09-29 19:02:12 | com.saferesize/saferesize | SafeResize | 0.1.0 | Passport and visa photo rules for 83 documents in 49 countries, and upload limi… |
-| 2026-09-29 19:02:39 | [io.github.hashfunction-dev/datasocial-mcp](https://github.com/hashfunction-dev/datasocial-mcp) | DataSocial | 1.0.0 | Query a TikTok data warehouse (creators, videos, sounds, daily history) with re… |
-| 2026-09-29 19:04:09 | de.marjanmarkelj/saxsoc-public-info |  | 0.1.9 | Read-only public info on Saxophone Society saxophone coaching programs and guid… |
-| 2026-09-29 19:07:21 | at.vorausgedacht/mcp | vorausgedacht.at | 1.0.0 | Edelmetallkurse, MarktWache, gemeinfreie Bücher, unverbindlicher Rückruf-Servic… |
-| 2026-09-29 19:10:18 | com.plendio/plendio | Plendio price comparison | 1.0.0 | Price comparison and product search for Denmark, Sweden, Germany and Norway. Re… |
-| 2026-09-29 19:10:50 | [io.github.TakoData/tako-mcp](https://github.com/TakoData/tako-mcp) | Tako | 1.1.9 | Give your agent web search and authoritative datasets: S&P Global, FRED, OECD,… |
-| 2026-09-29 19:20:43 | io.github.jotamed/itv-quiosco | ITV España - estaciones, tarifas y citas | 0.1.0 | Estaciones ITV España, tarifas parciales verificadas, periodicidad y citas. Pag… |
+| 2026-09-29 19:24:01 | [io.github.vatnode/vatnode-mcp](https://github.com/vatnode/vatnode-mcp) |  | 1.2.0 | Official MCP server: EU VAT validation via VIES, plus offline rates and format… |
+| 2026-09-29 19:26:18 | [io.github.ffroliva/gflow-cli](https://github.com/ffroliva/gflow-cli) | gflow-cli | 0.80.0 | Drive Google Flow from an agent: Veo video and Imagen image generation |
+| 2026-09-29 19:31:11 | com.revvedupcars/true-cost-index | RevvedUpCars True Cost Index | 1.0.0 | What a new car costs a month to own in the US: loan, insurance, maintenance, fu… |
+| 2026-09-29 19:32:58 | [com.unipile/unipile-mcp](https://github.com/unipile/unipile-mcp) | Unipile MCP | 1.0.0 | LinkedIn, Sales Navigator, Recruiter, WhatsApp, Instagram, Telegram and email M… |
+| 2026-09-29 19:40:52 | [io.github.gautamvarmadatla/mcpsafetywarden](https://github.com/gautamvarmadatla/mcpsafetywarden) | MCP Safety Warden | 1.4.20 | MCP proxy adding security scanning, behavioral profiling, risk gating, and safe… |
+| 2026-09-29 19:41:19 | [io.github.Humanleap/tradehand](https://github.com/Humanleap/tradehand-claude-plugin) | Tradehand | 0.1.0 | Browse and book local tradespeople in the UK. |
+| 2026-09-29 19:41:43 | [io.github.Lorenzino69/easypdf](https://github.com/Lorenzino69/easypdf-mcp) | EasyPDF | 1.1.0 | Edit PDF text in place, fonts and layout kept. Compress, merge, split, convert… |
+| 2026-09-29 19:42:19 | [com.linkbreakers/mcp](https://github.com/linkbreakers-com/api) | Linkbreakers MCP | 1.127.1 | QR-driven customer-journey platform for tracked QR codes, short links, and anal… |
+| 2026-09-29 19:42:44 | com.penguindriver/share | 好片分享排行榜 | 1.0.0 | 好片分享排行榜：台灣網友分享的熱門影片與貼文日週月年排行。台灣繁體中文 MCP 工具。 |
+| 2026-09-29 19:44:29 | [io.github.Samik081/mcp-pve](https://github.com/Samik081/mcp-pve) | Proxmox VE MCP Server | 0.9.0 | Manage Proxmox VE through AI assistants |
+| 2026-09-29 19:49:05 | [io.github.siweina/dsh-novel-writer](https://github.com/siweina/dsh-novel-writer) | dsh-novel-writer — 网文写作体检 | 5.5.0 | Offline toolkit: 18 tools for Chinese web-novel style, plot-thread and continui… |
+| 2026-09-29 19:55:57 | nl.staalptkram/staalptkram | staalptkram — marketplace for AI agents | 1.0.0 | Marketplace for AI agents: post offers and requests, bid sealed, trade instant… |
+| 2026-09-29 19:56:01 | dev.oassis/web-scraper-browser | oassis — web scraping, crawling and bro… | 1.0.0 | Scrape to markdown, map and crawl sites, drive a real browser. Pay per call, no… |
+| 2026-09-29 19:57:39 | [io.github.nikolay-e/diffctx](https://github.com/nikolay-e/diffctx) | diffctx | 1.18.0 | Selects the minimum code an LLM needs to review a git diff |
+| 2026-09-29 19:58:09 | [io.github.sha-net/community-board](https://github.com/sha-net/community-board-mcp) | Community Board | 1.0.0 | Search and discover local community listings, classifieds, services and events. |
+| 2026-09-29 19:58:19 | [io.github.YawLabs/npmjs-mcp](https://github.com/YawLabs/npmjs-mcp) | npm Registry MCP Server | 0.16.4 | npm registry MCP server — package intelligence, security audits, dependency ana… |
+| 2026-09-29 19:58:30 | io.dumpstercontrols/dumpster-controls | Dumpster Controls | 1.0.0 | Dumpster rental operations from AI: orders, dispatch, invoices and customers. Y… |
+| 2026-09-29 20:03:24 | dev.oassis/scraper-crawler | oassis — web scraping, crawling and bro… | 1.0.0 | Scrape to markdown, map and crawl sites, drive a real browser. Pay per call, no… |
+| 2026-09-29 20:06:43 | [io.github.adrianov/rrubocop](https://github.com/adrianov/rrubocop) | rrubocop | 0.8.12 | Fast RuboCop-compatible Ruby linter with MCP inspect and autocorrect tools. |
+| 2026-09-29 20:09:08 | [io.github.fruggr/zendesk-mcp-server](https://github.com/fruggr/zendesk-mcp-server) |  | 3.0.0 | Draft, translate and update Help Center articles and manage Zendesk tickets fro… |
+| 2026-09-29 20:09:09 | [io.github.YawLabs/ssh-mcp](https://github.com/YawLabs/ssh-mcp) | SSH MCP Server | 0.17.1 | MCP server for SSH operations with built-in diagnostics |
+| 2026-09-29 20:10:18 | com.plodovi/shop | Plodovi | 1.0.0 | Fresh food from local Croatian producers: search, fill your basket and order de… |
+| 2026-09-29 20:12:06 | [io.github.YawLabs/ctxlint](https://github.com/YawLabs/ctxlint) | ctxlint | 0.27.3 | Lint AI agent context files (CLAUDE.md, AGENTS.md, etc.) against your actual co… |
+| 2026-09-29 20:12:19 | com.getuserfeedback/mcp | getuserfeedback.com | 0.1.67 | Create and edit surveys, read responses, and reply to users — from your AI assi… |
+| 2026-09-29 20:14:47 | [io.github.YawLabs/tailscale-mcp](https://github.com/YawLabs/tailscale-mcp) | Tailscale MCP Server | 0.21.1 | Tailscale MCP server for managing your tailnet from AI assistants |
+| 2026-09-29 20:16:26 | [io.github.mmedum/google-chat-mcp](https://github.com/mmedum/google-chat-mcp) |  | 3.0.0 | Google Chat as MCP tools: read, search and write to your spaces, direct message… |
+| 2026-09-29 20:18:46 | [io.github.cyanheads/courtlistener-mcp-server](https://github.com/cyanheads/courtlistener-mcp-server) |  | 0.7.2 | Search US court opinions, federal dockets, judges, citations, and oral argument… |
+| 2026-09-29 20:19:08 | [io.github.YawLabs/electron-mcp](https://github.com/YawLabs/electron-mcp) | Electron MCP Server | 1.6.3 | Electron.js MCP server — IPC scaffolding, security auditing, build tooling for… |
 
 ## Data source
 

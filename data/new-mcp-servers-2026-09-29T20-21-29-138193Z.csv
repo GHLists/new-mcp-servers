@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-09-29T19:24:01.932512Z,io.github.vatnode/vatnode-mcp,,1.2.0,https://github.com/vatnode/vatnode-mcp,,"Official MCP server: EU VAT validation via VIES, plus offline rates and format checks."
+2026-09-29T19:26:18.216981Z,io.github.ffroliva/gflow-cli,gflow-cli,0.80.0,https://github.com/ffroliva/gflow-cli,,Drive Google Flow from an agent: Veo video and Imagen image generation
+2026-09-29T19:31:11.699768Z,com.revvedupcars/true-cost-index,RevvedUpCars True Cost Index,1.0.0,,streamable-http,"What a new car costs a month to own in the US: loan, insurance, maintenance, fuel. No key."
+2026-09-29T19:32:58.095021Z,com.unipile/unipile-mcp,Unipile MCP,1.0.0,https://github.com/unipile/unipile-mcp,streamable-http,"LinkedIn, Sales Navigator, Recruiter, WhatsApp, Instagram, Telegram and email MCP for coding agents."
+2026-09-29T19:40:52.702209Z,io.github.gautamvarmadatla/mcpsafetywarden,MCP Safety Warden,1.4.20,https://github.com/gautamvarmadatla/mcpsafetywarden,,"MCP proxy adding security scanning, behavioral profiling, risk gating, and safe tool call execution."
+2026-09-29T19:41:19.167266Z,io.github.Humanleap/tradehand,Tradehand,0.1.0,https://github.com/Humanleap/tradehand-claude-plugin,streamable-http,Browse and book local tradespeople in the UK.
+2026-09-29T19:41:43.838312Z,io.github.Lorenzino69/easypdf,EasyPDF,1.1.0,https://github.com/Lorenzino69/easypdf-mcp,streamable-http; streamable-http,"Edit PDF text in place, fonts and layout kept. Compress, merge, split, convert and translate PDFs."
+2026-09-29T19:42:19.006492Z,com.linkbreakers/mcp,Linkbreakers MCP,1.127.1,https://github.com/linkbreakers-com/api,streamable-http,"QR-driven customer-journey platform for tracked QR codes, short links, and analytics."
+2026-09-29T19:42:44.207626Z,com.penguindriver/share,好片分享排行榜,1.0.0,,streamable-http,好片分享排行榜：台灣網友分享的熱門影片與貼文日週月年排行。台灣繁體中文 MCP 工具。
+2026-09-29T19:44:29.559159Z,io.github.Samik081/mcp-pve,Proxmox VE MCP Server,0.9.0,https://github.com/Samik081/mcp-pve,,Manage Proxmox VE through AI assistants
+2026-09-29T19:49:05.62852Z,io.github.siweina/dsh-novel-writer,dsh-novel-writer — 网文写作体检,5.5.0,https://github.com/siweina/dsh-novel-writer,,"Offline toolkit: 18 tools for Chinese web-novel style, plot-thread and continuity audits."
+2026-09-29T19:55:57.915141Z,nl.staalptkram/staalptkram,staalptkram — marketplace for AI agents,1.0.0,,streamable-http,"Marketplace for AI agents: post offers and requests, bid sealed, trade instant tasks for tokens."
+2026-09-29T19:56:01.446081Z,dev.oassis/web-scraper-browser,"oassis — web scraping, crawling and browser control for AI agents",1.0.0,,streamable-http,"Scrape to markdown, map and crawl sites, drive a real browser. Pay per call, no API key, no signup."
+2026-09-29T19:57:39.395359Z,io.github.nikolay-e/diffctx,diffctx,1.18.0,https://github.com/nikolay-e/diffctx,,Selects the minimum code an LLM needs to review a git diff
+2026-09-29T19:58:09.181063Z,io.github.sha-net/community-board,Community Board,1.0.0,https://github.com/sha-net/community-board-mcp,streamable-http,"Search and discover local community listings, classifieds, services and events."
+2026-09-29T19:58:19.582717Z,io.github.YawLabs/npmjs-mcp,npm Registry MCP Server,0.16.4,https://github.com/YawLabs/npmjs-mcp,,"npm registry MCP server — package intelligence, security audits, dependency analysis"
+2026-09-29T19:58:30.619901Z,io.dumpstercontrols/dumpster-controls,Dumpster Controls,1.0.0,,streamable-http,"Dumpster rental operations from AI: orders, dispatch, invoices and customers. You confirm changes."
+2026-09-29T20:03:24.92353Z,dev.oassis/scraper-crawler,"oassis — web scraping, crawling and browser control for AI agents",1.0.0,,streamable-http,"Scrape to markdown, map and crawl sites, drive a real browser. Pay per call, no API key, no signup."
+2026-09-29T20:06:43.834672Z,io.github.adrianov/rrubocop,rrubocop,0.8.12,https://github.com/adrianov/rrubocop,,Fast RuboCop-compatible Ruby linter with MCP inspect and autocorrect tools.
+2026-09-29T20:09:08.558353Z,io.github.fruggr/zendesk-mcp-server,,3.0.0,https://github.com/fruggr/zendesk-mcp-server,,"Draft, translate and update Help Center articles and manage Zendesk tickets from your AI assistant."
+2026-09-29T20:09:09.026413Z,io.github.YawLabs/ssh-mcp,SSH MCP Server,0.17.1,https://github.com/YawLabs/ssh-mcp,,MCP server for SSH operations with built-in diagnostics
+2026-09-29T20:10:18.073924Z,com.plodovi/shop,Plodovi,1.0.0,,streamable-http,"Fresh food from local Croatian producers: search, fill your basket and order delivery or pickup."
+2026-09-29T20:12:06.872021Z,io.github.YawLabs/ctxlint,ctxlint,0.27.3,https://github.com/YawLabs/ctxlint,,"Lint AI agent context files (CLAUDE.md, AGENTS.md, etc.) against your actual codebase"
+2026-09-29T20:12:19.552374Z,com.getuserfeedback/mcp,getuserfeedback.com,0.1.67,,streamable-http,"Create and edit surveys, read responses, and reply to users — from your AI assistant."
+2026-09-29T20:14:47.316332Z,io.github.YawLabs/tailscale-mcp,Tailscale MCP Server,0.21.1,https://github.com/YawLabs/tailscale-mcp,,Tailscale MCP server for managing your tailnet from AI assistants
+2026-09-29T20:16:26.083242Z,io.github.mmedum/google-chat-mcp,,3.0.0,https://github.com/mmedum/google-chat-mcp,,"Google Chat as MCP tools: read, search and write to your spaces, direct messages and sidebar."
+2026-09-29T20:18:46.264314Z,io.github.cyanheads/courtlistener-mcp-server,,0.7.2,https://github.com/cyanheads/courtlistener-mcp-server,streamable-http,"Search US court opinions, federal dockets, judges, citations, and oral arguments via CourtListener."
+2026-09-29T20:19:08.96869Z,io.github.YawLabs/electron-mcp,Electron MCP Server,1.6.3,https://github.com/YawLabs/electron-mcp,,"Electron.js MCP server — IPC scaffolding, security auditing, build tooling for AI assistants"
