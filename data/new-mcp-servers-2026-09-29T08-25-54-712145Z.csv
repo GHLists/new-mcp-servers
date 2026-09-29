@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-09-29T07:22:17.049371Z,live.innernet/innernet,innernet,1.2.1,https://github.com/your-innernet/innernet-mcp,streamable-http,"One memory for every AI tool, kept current by netti: projects, personal memory and tasks over MCP."
+2026-09-29T07:24:00.068187Z,io.github.hmkim/centerfield-visitor-mcp,,0.2.1,https://github.com/hmkim/centerfield-visitor-mcp,,"Centerfield building (Seoul) visitor pre-registration: validate, preview and register visitors."
+2026-09-29T07:30:50.467143Z,io.github.fernsugi/x402-api,,1.0.4,https://github.com/fernsugi/x402-api-mcp-server,,"Eight paid DeFi tools: prices, gas, swaps, token security, holders, yields, funding and wallets"
+2026-09-29T07:32:45.609339Z,io.github.SinanTufekci/agent-intern,Agent Intern,0.32.1,https://github.com/SinanTufekci/agent-intern,,"Delegate from Claude Code to Gemini, Codex, Copilot, Cursor and opencode CLIs as sub-agents."
+2026-09-29T07:34:58.613283Z,com.mencoro/mencoro,Mencoro,1.1.0,https://github.com/mencoro/mencoro-mcp,streamable-http,"Track and manage how your brand appears in AI answers: rank, mentions, sentiment, share of voice."
+2026-09-29T07:36:57.304529Z,io.github.lishuhang/site-mcp,,1.0.0,,streamable-http,航通社官网（lishuhang.me，书航博客 + 每日 AIGC 早报）只读检索：文章与早报列表、关键词搜索、单篇全文 markdown。Streamable HTTP，免鉴权，无状态。
+2026-09-29T07:39:50.862166Z,net.qsig.x402/mcp,QSIG Intelligence,1.1.0,,streamable-http,"Geopolitical risk score and theme board. Published kill criterion. Measured state, not forecasts."
+2026-09-29T07:40:59.206528Z,cloud.tatnet/mcp,TatNet,1.0.0,https://github.com/tatnet-ru/tatnet-mcp,streamable-http,"Deploy and manage web apps on TatNet, a Russian cloud: builds, logs, env, domains, balance"
+2026-09-29T07:42:29.031972Z,io.github.openagentemail/mcp,,0.10.0,https://github.com/openagentemail/openagentemail,,"Unlimited agent mailboxes — create identities, read/wait for mail, extract OTPs, send email."
+2026-09-29T07:42:43.097894Z,tel.callforme/callforme,CallForMe,1.0.0,,streamable-http,"Let your agent call businesses for you: quotes, reservations, cancellations, waiting on hold."
+2026-09-29T08:00:21.157491Z,com.complylayer/complylayer,ComplyLayer,1.0.0,,streamable-http,"AI inventory and EU AI Act compliance. Find AI tools and use cases, check new AI uses before launch."
+2026-09-29T08:09:49.671814Z,io.github.RBND-studio/flows,Flows,1.0.0,,streamable-http,Build product adoption your way - Product adoption infrastructure no-code or all-code.
+2026-09-29T08:12:45.398413Z,io.github.liudejua27-blip/fitmeet,引力AI · Yinli AI,2.2.1,https://github.com/liudejua27-blip/FitMeet-UI,streamable-http,"Find companions, gatherings and opportunities. Turn an idea into a shared plan with your Agent."
+2026-09-29T08:13:35.557019Z,co.rahuldsarker/growth-tools,Rahul D Sarker: Marketing & RevOps Tools,1.1.0,,streamable-http,"111 marketing, RevOps and SaaS calculators, plus article search and live call booking."
+2026-09-29T08:19:24.863981Z,io.github.inventor1975/ztl-judge,ZTL Judge,1.0.0,https://github.com/inventor1975/ztlstudio,streamable-http,"Zero-trust logic judge: your AI writes a claim as a ZFL table, the ZTL core judges it."
