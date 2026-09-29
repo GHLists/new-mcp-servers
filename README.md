@@ -9,39 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 18:21 UTC
+## Latest list — 2026-09-29 19:22 UTC
 
-New MCP servers published between 2026-09-29 17:19 UTC and 2026-09-29 18:21 UTC.
+New MCP servers published between 2026-09-29 18:21 UTC and 2026-09-29 19:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-29T18-21-59-970356Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-29T19-22-15-370236Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-29 17:22:49 | [io.github.Ozymandias-Owens-2/scrapewright](https://github.com/Ozymandias-Owens-2/scrapewright) | scrapewright | 1.0.3 | Give it a URL, get structured rows. A model writes the parser once; replays are… |
-| 2026-09-29 17:28:45 | io.bootify/mcp |  | 1.0.0 | Build Spring Boot applications, ready for coding agents, including best practic… |
-| 2026-09-29 17:34:52 | [io.github.ranawaqas-ai/mdreview](https://github.com/ranawaqas-ai/mdreview-service) | mdreview | 0.7.0 | Human-in-the-loop document review: an agent pushes a draft, a person comments,… |
-| 2026-09-29 17:35:38 | [io.github.agustincf/arcade1v1](https://github.com/agustincf/Arcade1v1) |  | 0.5.2 | Play 1v1 arcade games vs AI agents & humans, ranked by ELO, or Aleph: a 4–8 age… |
-| 2026-09-29 17:37:11 | ai.knowledgeporridge/knowledge-porridge | Knowledge Porridge | 0.1.0 | A sourced learning map your AI places you on: finds gaps you can't name, teache… |
-| 2026-09-29 17:38:31 | [com.resellportal/mcp](https://github.com/resellportal/mcp) | ResellPortal | 1.0.0 | White-label reseller platform: eSIM, VPN, SMM, AI tools, CRM, hosting. Prices,… |
-| 2026-09-29 17:39:17 | [io.github.kvoltmer/audionaut](https://github.com/kvoltmer/Audionaut) | Audionaut | 0.2.0 | Edit Audionaut multitrack audio projects: cut, arrange, fade, analyse, auto-edi… |
-| 2026-09-29 17:44:25 | [io.github.r4v3n-art/nova-cast](https://github.com/r4v3n-art/nova) | Nova Cast | 0.1.0 | Build, preview and control interactive canvases on user-paired TVs and screens. |
-| 2026-09-29 17:46:52 | [io.github.aliasunder/vault-cortex](https://github.com/aliasunder/vault-cortex) | Vault Cortex | 0.54.4 | Standalone MCP server for Obsidian vaults — hybrid search, notes & files, memor… |
-| 2026-09-29 17:48:09 | com.dannykeane/mcp | Danny Keane | 1.0.0 | Danny Keane's profile as read-only tools: background, work history, contact, an… |
-| 2026-09-29 17:52:11 | [io.github.spranab/saga-mcp](https://github.com/spranab/saga-mcp) |  | 1.18.0 | Jira-like project tracker for AI agents with SQLite, full task hierarchy, and d… |
-| 2026-09-29 17:52:39 | dev.workers.bhazarstudio.datoka-hooks-test/datoka-hooks | Datoka Hooks | 0.4.0 | Public webhook relay with signed observations, retries and verified receivers.… |
-| 2026-09-29 17:55:03 | [org.vr/vr-mcp](https://github.com/evanatpizzarobot/vr-org-mcp) | VR.org VR / AR / XR Reader | 0.4.1 | Read-only VR / AR / XR news, full-text editorial, events, deals, and buyer guid… |
-| 2026-09-29 17:56:51 | com.e-esim/esim-catalog | e-eSIM Catalog | 2.0.6 | Search travel eSIM data plans worldwide with live prices, plan details and a bu… |
-| 2026-09-29 17:58:04 | [io.github.MintMachineHQ/baron-power-play](https://github.com/MintMachineHQ/baron-power-play-mcp) | Baron Power Play | 1.0.0 | Pay-per-call AI infra for agents: DeFi market data, LLM inference, STT/TTS. x40… |
-| 2026-09-29 18:00:39 | se.riksflodet/riksflodet | Riksflödet | 1.0.0 | Sveriges riksdag: vem sa vad, hur röstade ledamöter och partier — med källänkar. |
-| 2026-09-29 18:00:49 | [io.github.Databasin-AI/mcp-client](https://github.com/Databasin-AI/mcp-client) | Databasin | 0.2.2 | Explore Databasin data, run read-only queries, and manage your support tickets… |
-| 2026-09-29 18:02:16 | [io.github.tolboy/telegram-mcp-tdlib](https://github.com/tolboy/telegram-mcp-tdlib) | Telegram MCP Server | 1.17.0 | Local-first TDLib Telegram MCP server with 115 tools, account isolation and pro… |
-| 2026-09-29 18:06:16 | io.asktheswarm/asktheswarm | AskTheSwarm | 1.0.0 | Q&A network for AI agents — ask, answer, vote, earn reputation. |
-| 2026-09-29 18:08:14 | [io.github.YawLabs/redis-mcp](https://github.com/YawLabs/redis-mcp) | Redis MCP Server | 0.5.2 | Read-first Redis MCP: SCAN key explorer, keyspace/TTL/memory/slowlog stats, DBA… |
-| 2026-09-29 18:08:19 | com.configdirector/mcp | ConfigDirector | 1.0.0 | Manage ConfigDirector feature flags, remote configs, and targeting rules from A… |
-| 2026-09-29 18:13:05 | com.usegeon/geon | GEON Monitor | 2.15.0 | Track your brand's visibility in ChatGPT, Perplexity, Claude, Gemini, Grok and… |
-| 2026-09-29 18:15:44 | [io.github.amcharts/amcharts5](https://github.com/amcharts/amcharts5-mcp) |  | 1.6.0 | On-demand access to amCharts 5 docs, code examples, and API reference |
-| 2026-09-29 18:16:05 | [io.github.neat-technologies/neat](https://github.com/NEAT-Technologies/Neat) | NEAT | 0.10.1 | Fused graph of your codebase — static code + runtime OTel — for AI agents, over… |
-| 2026-09-29 18:17:27 | [dev.cloro/cloro](https://github.com/cloro-dev/mcp-server) | cloro | 0.2.0 | Scrape AI answer engines and Google Search/News with country and state-level ge… |
+| 2026-09-29 18:24:07 | [io.github.Khoshkhah/roadstyle](https://github.com/Khoshkhah/roadstyle) | roadstyle | 0.9.1 | Styled, interactive road maps of any place (OpenStreetMap) or road file, with P… |
+| 2026-09-29 18:27:27 | org.ungovr/mcp |  | 1.2.1 | Resolve any government entity worldwide and submit service requests. Open civic… |
+| 2026-09-29 18:27:36 | org.lexlint/lexlint | LexLint: compliance lint for AI, scrapi… | 1.0.2 | Compliance lint for AI, scraping, and privacy law. Cited findings in 200 or mor… |
+| 2026-09-29 18:29:08 | [tech.amass/amass](https://github.com/amass-technologies/amass-mcp) | Amass | 10.0.0 | Linked life-science search: 43M+ papers, 1.2M+ trials, drugs, genes, FDA/EMA ap… |
+| 2026-09-29 18:30:29 | [pro.bananabanana/image-video](https://github.com/bananabanana-pro-mcp/bananabanana-mcp) | BananaBanana Image, Video & Speech Gene… | 1.0.11 | Images, video & speech: Nano Banana, GPT Image, Veo, Omni, Wan, Grok, Gemini TT… |
+| 2026-09-29 18:31:35 | com.fairwhere/fairwhere | FairWhere | 0.5.0 | Free London beta meetup planner. Ranks curated Placelists by journey fairness f… |
+| 2026-09-29 18:40:36 | [io.github.Vando-sketch/nextcloud-organizer-mcp](https://github.com/Vando-sketch/Nextcloud-Organizer-MCP) |  | 0.2.1 | Manage Nextcloud tasks, calendar events and notes from Claude over CalDAV and t… |
+| 2026-09-29 18:40:39 | io.github.LeBorgneAntoine/facturx | Factur-X: Generate & Validate E-Invoices | 0.1.14 | Generate and validate Factur-X, CII & UBL invoices. Free demo; EUR 3 evaluation… |
+| 2026-09-29 18:42:30 | co.pipeboard/tiktok-ads-mcp |  | 1.0.74 | TikTok Ads automation with AI: analyze performance, manage campaigns, optimize… |
+| 2026-09-29 18:45:47 | [app.mailsocket/mailsocket-mcp](https://github.com/mailsocket/mailsocket-sdk) | mailsocket | 0.1.1 | Email inboxes for AI agents: create an inbox, then block until the OTP or magic… |
+| 2026-09-29 18:47:27 | [io.github.Vortx-AI/emem](https://github.com/Vortx-AI/emem) | emem, the verifiable memory protocol fo… | 2.4.2 | Shared memory for AI agents. One address per fact, one signature you check. No… |
+| 2026-09-29 18:49:11 | [io.github.ghostchars/ghostchars](https://github.com/ghostchars/ghostchars) | Ghostchars | 1.0.2 | Find and remove invisible Unicode: zero-width, tag smuggling, bidi, homoglyphs.… |
+| 2026-09-29 18:52:28 | [ai.spicygen/spicygen](https://github.com/Wayfinity/spicygen-skills) | SpicyGen | 1.1.0 | AI adult image, character and movie generator (18+). Characters, images, videos… |
+| 2026-09-29 18:56:33 | ai.january/nutrition | January AI Nutrition | 0.2.0 | Food photo recognition, nutrition search, meal logging and glucose prediction f… |
+| 2026-09-29 18:56:35 | io.github.2pm-ninja/star-ninja | Star Ninja | 1.0.0 | Star Ninja reports sky darkness, cloud cover and moonless hours for a night-sky… |
+| 2026-09-29 18:58:16 | [io.github.odedkovach/padeltrue](https://github.com/odedkovach/padel-racket-data) | PadelTrue padel racket data | 1.0.0 | Published padel racket specifications, each with its source, and calculated rat… |
+| 2026-09-29 18:59:03 | [io.github.SpaceFrontiers/mcp](https://github.com/SpaceFrontiers/mcp) | Machine Library | 0.4.0 | Machine Library: cited search over papers, books, patents and social posts, wit… |
+| 2026-09-29 19:02:12 | com.saferesize/saferesize | SafeResize | 0.1.0 | Passport and visa photo rules for 83 documents in 49 countries, and upload limi… |
+| 2026-09-29 19:02:39 | [io.github.hashfunction-dev/datasocial-mcp](https://github.com/hashfunction-dev/datasocial-mcp) | DataSocial | 1.0.0 | Query a TikTok data warehouse (creators, videos, sounds, daily history) with re… |
+| 2026-09-29 19:04:09 | de.marjanmarkelj/saxsoc-public-info |  | 0.1.9 | Read-only public info on Saxophone Society saxophone coaching programs and guid… |
+| 2026-09-29 19:07:21 | at.vorausgedacht/mcp | vorausgedacht.at | 1.0.0 | Edelmetallkurse, MarktWache, gemeinfreie Bücher, unverbindlicher Rückruf-Servic… |
+| 2026-09-29 19:10:18 | com.plendio/plendio | Plendio price comparison | 1.0.0 | Price comparison and product search for Denmark, Sweden, Germany and Norway. Re… |
+| 2026-09-29 19:10:50 | [io.github.TakoData/tako-mcp](https://github.com/TakoData/tako-mcp) | Tako | 1.1.9 | Give your agent web search and authoritative datasets: S&P Global, FRED, OECD,… |
+| 2026-09-29 19:20:43 | io.github.jotamed/itv-quiosco | ITV España - estaciones, tarifas y citas | 0.1.0 | Estaciones ITV España, tarifas parciales verificadas, periodicidad y citas. Pag… |
 
 ## Data source
 
