@@ -9,37 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 11:19 UTC
+## Latest list — 2026-09-29 12:18 UTC
 
-New MCP servers published between 2026-09-29 10:22 UTC and 2026-09-29 11:19 UTC.
+New MCP servers published between 2026-09-29 11:19 UTC and 2026-09-29 12:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-29T11-19-47-99602Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-29T12-18-59-308588Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-29 10:23:41 | [com.decaframe/decaframe](https://github.com/decaframe/decaframe) |  | 0.4.1 | Presentations, slides, reports and one-pagers your agent designs and you edit.… |
-| 2026-09-29 10:26:10 | [io.github.epam/TimeBase-MCP](https://github.com/epam/TimeBase-MCP) | TimeBase | 0.2.5 | Explore and query TimeBase streams, schemas, QQL, symbols, and server status vi… |
-| 2026-09-29 10:29:10 | com.criora/criora | Criora climate risk | 1.0.0 | Climate and disaster risk for any place: 7-day weather risk, hazards, climate p… |
-| 2026-09-29 10:29:20 | [io.github.saplq/folkso](https://github.com/saplq/folkso-plugin) | Folkso | 0.3.0 | Find real people for a task right in ChatGPT and Claude. Everyone chose to appe… |
-| 2026-09-29 10:29:54 | [com.transcapi/mcp](https://github.com/tcdataconsultants/transcapi-mcp) | TransCAPI | 0.1.1 | Live bus and rail departures, bus positions, disruptions and journey planning f… |
-| 2026-09-29 10:32:21 | ink.vera/vera | vera.ink | 1.2.0 | Check documents against rules taken from the law itself. Every finding cites th… |
-| 2026-09-29 10:33:34 | [fi.ophis/mcp](https://github.com/ophis-fi/ophis) | Ophis MCP | 0.1.2 | Gasless, MEV-protected onchain token swaps for AI agents on 14 EVM chains, buil… |
-| 2026-09-29 10:34:02 | [online.algrow/mcp](https://github.com/samalgrow/algrow-mcp) | Algrow | 1.0.0 | YouTube research: channel search, viral videos, channel analytics, transcripts,… |
-| 2026-09-29 10:35:30 | [io.github.pedroknigge/arkgate](https://github.com/pedroknigge/arkgate) |  | 4.8.24 | When the agent writes a bad import, the write doesn’t land. The same check fail… |
-| 2026-09-29 10:36:15 | [io.github.ProAgentStore/platform](https://github.com/ProAgentStore/platform) | ProAgentStore | 0.1.66 | MCP-first control plane for ProAgentStore agents and private instances. |
-| 2026-09-29 10:40:51 | [com.trip1/mcp](https://github.com/trivial-corp/trip1-mcp) |  | 1.0.1 | Book hotels over MCP. Pay over x402. 3M+ properties in 200+ countries, USDC on… |
-| 2026-09-29 10:41:06 | [io.github.parkyucheol-del/alphapipeline](https://github.com/parkyucheol-del/alphapipeline) |  | 1.2.1 | Pay-per-call x402 API for AI trading agents: pre-trade security checks, Polymar… |
-| 2026-09-29 10:47:10 | io.github.Fabsbags/starreview | StarPresence | 0.10.0 | Drafts Google & TripAdvisor review replies; agents can never post themselves. F… |
-| 2026-09-29 10:47:42 | [com.glockapps/mcp](https://github.com/glocksoftware/glockapps-mcp) | GlockApps — Inbox Placement Testing | 1.0.0 | Inbox placement tests across Gmail, Outlook, Yahoo and 30+ providers. |
-| 2026-09-29 10:49:00 | com.spoki/mcp | Spoki | 2.0.0 | Spoki WhatsApp CRM MCP: contacts, campaigns, automations, templates. OAuth (spo… |
-| 2026-09-29 10:50:00 | [com.adrianczuczka/mason](https://github.com/adrianczuczka/mason) |  | 0.19.2 | Engineering decisions, change impact, documentation audits, and CI evidence for… |
-| 2026-09-29 10:53:41 | app.railway.up.agentworkmark-production/agentworkmark | AgentWorkmark | 1.0.1 | Search reviewed AI services, inspect completed-work evidence, and check current… |
-| 2026-09-29 10:56:39 | [io.github.jorgen-k/reddit-mcp](https://github.com/jorgen-k/reddit-mcp) | Reddit (RSS) | 1.2.1 | Read Reddit from local MCP-compatible clients (Claude Code, Codex, etc.) via pu… |
-| 2026-09-29 10:57:03 | [io.github.Continuum-AI-Corp/orcareplay](https://github.com/Continuum-AI-Corp/OrcaReplay) |  | 0.5.0 | Read, replay and fork recorded coding-agent runs. |
-| 2026-09-29 11:03:19 | at.aamio/aamio | aamio rendezvous | 0.7.20 | Meet an agent you have not met, exchange messages that expire, and prove it hap… |
-| 2026-09-29 11:04:52 | ai.husverket/husverket | Husverket – Swedish Prefab Houses | 2.0.0 | Husverket AB knowledge base: 350 Q&A on attefallshus, prices and building permi… |
-| 2026-09-29 11:10:52 | [com.theholisticcare/open-mindfulness](https://github.com/mohanagc/thc-mindfulness-mcp) | THC Open Mindfulness MCP | 1.0.0 | Read-only mindfulness games, guided practices, research, glossary and PanchaVik… |
-| 2026-09-29 11:17:07 | [io.github.mobileproxy/mcp-server](https://github.com/mobileproxy/mcp-server) |  | 0.2.0 | Control dedicated 4G mobile and residential proxies on mobileproxy.space from A… |
+| 2026-09-29 11:24:43 | com.screenrove/screenrove | Screenrove | 1.1.0 | Real product UI captures (onboarding, pricing, in-app screens) with design guid… |
+| 2026-09-29 11:27:07 | ai.klox/klox | Klox | 1.0.0 | Build and edit AI videos on Klox canvases: script, storyboard, shots and final… |
+| 2026-09-29 11:32:08 | io.webshare/mcp | Webshare | 1.0.0 | Manage your Webshare proxies, usage, plans and billing. Sign in with OAuth, no… |
+| 2026-09-29 11:33:57 | io.github.cloakmaster/pact0 |  | 1.1.0 | Agents take fresh trials for a public score, do paid jobs held in escrow, and h… |
+| 2026-09-29 11:35:36 | io.github.carlobianchi89/epwtools | EPW.tools | 0.4.0 | EnergyPlus weather files (EPW, DDY, STAT) for any site: actual, typical, foreca… |
+| 2026-09-29 11:35:42 | uk.ucode/sms | Ucode SMS | 1.1.0 | Virtual phone numbers for SMS/OTP verification. Browse free; pay with credits o… |
+| 2026-09-29 11:37:39 | [io.github.nicolascroce/keepsake](https://github.com/nicolascroce/keepsake-mcp) |  | 1.11.0 | MCP server for Keepsake — the personal CRM for nurturing your relationships |
+| 2026-09-29 11:39:05 | io.github.kaattaallaa-sketch/proofrail | ProofRail | 0.1.0 | Verify MCP servers before deploy with protocol, schema, transport, auth, and ev… |
+| 2026-09-29 11:39:17 | [ai.mailmcp/mailmcp](https://github.com/kojott/mailmcp-dist) | mailmcp | 0.9.0 | Your mailboxes in ChatGPT and Claude: Gmail, iCloud, Fastmail, any IMAP. Passwo… |
+| 2026-09-29 11:42:18 | [io.github.lagaam-ai/lagaam](https://github.com/lagaam-ai/lagaam) | Lagaam | 0.2.4 | Stops an agent's Trino or Pinot query before it runs if it costs too much or re… |
+| 2026-09-29 11:43:11 | [io.github.RedHatInsights/insights-mcp](https://github.com/RedHatInsights/insights-mcp) | Red Hat Lightspeed MCP | 1.0.67+9111ed33 | Model Context Protocol server for Red Hat Lightspeed - advisor, image builder,… |
+| 2026-09-29 11:48:17 | [io.github.dayyad/manycp-mcp](https://github.com/dayyad/manycp-mcp) | ManyCP MCP server | 1.0.0 | Submit an MCP server to many MCP directories and track each listing from an AI… |
+| 2026-09-29 11:49:06 | [com.predictionmarketspicks/quant](https://github.com/predictionmarketspicks/mcp) | Prediction Markets Quant | 1.17.0 | 33 quant tools. Kalshi 15-minute markets and perps, NFL props, NHL, Fed odds —… |
+| 2026-09-29 11:52:33 | [io.github.Nitmi/blea](https://github.com/Nitmi/blea) | BLEA | 0.7.0 | Safe BLE diagnostics, evidence workflows, and guarded automation for AI agents. |
+| 2026-09-29 11:55:07 | [co.yungle/yungle](https://github.com/heindewilde/yungle-clients) |  | 0.3.0 | Ask about your Yungle transfers, share big files, download what you're sent. Ap… |
+| 2026-09-29 11:55:51 | [io.github.open-mcp-ai/termcp](https://github.com/open-mcp-ai/termcp) |  | 0.2.4 | An MCP server that lets AI agents act like a human at a real terminal, local or… |
+| 2026-09-29 11:56:32 | [io.github.ni-c/imap-mcp](https://github.com/ni-c/imap-mcp) | IMAP mailbox | 0.5.1 | Read, search and organise any IMAP mailbox, with writes off by default |
+| 2026-09-29 11:57:36 | page.deed/deed-page | deed.page | 1.0.0 | Publish static sites to permanent URLs in one call. No account, email code, or… |
+| 2026-09-29 12:02:54 | com.devreply/devreply | DevReply | 1.0.0 | In-app support chat for mobile and web apps: read, triage and answer users, set… |
+| 2026-09-29 12:04:28 | [io.github.zoster81/scripthold](https://github.com/zoster81/scripthold) | Scripthold | 3.3.0 | Secure encoding-aware local workspace runtime for AI agents |
+| 2026-09-29 12:04:44 | [io.github.cammac-creator/ibanforge](https://github.com/cammac-creator/ibanforge) |  | 1.8.1 | Check the bank behind an IBAN before you pay: bank-code check, BIC with source,… |
+| 2026-09-29 12:05:33 | de.caspar-manufaktur/materialberater | Caspar Manufaktur Materialberater | 1.1.4 | Material information and recommendations for custom digital-print wallpaper B2B… |
+| 2026-09-29 12:06:07 | [io.github.Mohammed-Jameal-J/newsblog-composer](https://github.com/Mohammed-Jameal-J/newsblog-composer-mcp) | NewsBlog Composer | 0.5.4 | Verifies news stories, mines SEO keywords, builds schema and reviews your draft… |
+| 2026-09-29 12:07:19 | [io.github.7tg/django-admin-mcp](https://github.com/7tg/django-admin-mcp) | Django Admin MCP | 0.8.1 | Django admin models over MCP: CRUD, actions, history, autocomplete — capped by… |
+| 2026-09-29 12:10:32 | [io.github.vrassouli/matemcp](https://github.com/vrassouli/MateMCP) | MateMCP | 0.1.0 | Your agent hit a limit? Keep working. MateMCP securely connects AI chats to you… |
+| 2026-09-29 12:12:39 | com.secretsantaorganizer/secretsanta | Secret Santa Organizer | 1.0.0 | Create a Secret Santa party with names, emails, a date, a place, and a budget. |
+| 2026-09-29 12:18:38 | io.menso/menso | Menso | 1.0.0 | AI users run real tasks on your live site and show where they get stuck, with a… |
 
 ## Data source
 

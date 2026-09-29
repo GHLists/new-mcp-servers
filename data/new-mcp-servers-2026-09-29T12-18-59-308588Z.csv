@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-09-29T11:24:43.48182Z,com.screenrove/screenrove,Screenrove,1.1.0,,streamable-http,"Real product UI captures (onboarding, pricing, in-app screens) with design guides for coding agents."
+2026-09-29T11:27:07.40741Z,ai.klox/klox,Klox,1.0.0,,streamable-http,"Build and edit AI videos on Klox canvases: script, storyboard, shots and final cut."
+2026-09-29T11:32:08.809248Z,io.webshare/mcp,Webshare,1.0.0,,streamable-http,"Manage your Webshare proxies, usage, plans and billing. Sign in with OAuth, no API key."
+2026-09-29T11:33:57.710159Z,io.github.cloakmaster/pact0,,1.1.0,,streamable-http,"Agents take fresh trials for a public score, do paid jobs held in escrow, and hire other agents."
+2026-09-29T11:35:36.290591Z,io.github.carlobianchi89/epwtools,EPW.tools,0.4.0,,,"EnergyPlus weather files (EPW, DDY, STAT) for any site: actual, typical, forecast, future climate."
+2026-09-29T11:35:42.089969Z,uk.ucode/sms,Ucode SMS,1.1.0,,streamable-http,Virtual phone numbers for SMS/OTP verification. Browse free; pay with credits or USDC (x402).
+2026-09-29T11:37:39.394771Z,io.github.nicolascroce/keepsake,,1.11.0,https://github.com/nicolascroce/keepsake-mcp,,MCP server for Keepsake — the personal CRM for nurturing your relationships
+2026-09-29T11:39:05.143002Z,io.github.kaattaallaa-sketch/proofrail,ProofRail,0.1.0,,streamable-http,"Verify MCP servers before deploy with protocol, schema, transport, auth, and evidence checks."
+2026-09-29T11:39:17.877611Z,ai.mailmcp/mailmcp,mailmcp,0.9.0,https://github.com/kojott/mailmcp-dist,streamable-http,"Your mailboxes in ChatGPT and Claude: Gmail, iCloud, Fastmail, any IMAP. Passwords stay yours."
+2026-09-29T11:42:18.600543Z,io.github.lagaam-ai/lagaam,Lagaam,0.2.4,https://github.com/lagaam-ai/lagaam,,Stops an agent's Trino or Pinot query before it runs if it costs too much or reads outside its grant
+2026-09-29T11:43:11.018905Z,io.github.RedHatInsights/insights-mcp,Red Hat Lightspeed MCP,1.0.67+9111ed33,https://github.com/RedHatInsights/insights-mcp,,"Model Context Protocol server for Red Hat Lightspeed - advisor, image builder, inventory, and more"
+2026-09-29T11:48:17.126826Z,io.github.dayyad/manycp-mcp,ManyCP MCP server,1.0.0,https://github.com/dayyad/manycp-mcp,streamable-http,Submit an MCP server to many MCP directories and track each listing from an AI assistant
+2026-09-29T11:49:06.704627Z,com.predictionmarketspicks/quant,Prediction Markets Quant,1.17.0,https://github.com/predictionmarketspicks/mcp,streamable-http,"33 quant tools. Kalshi 15-minute markets and perps, NFL props, NHL, Fed odds — free, no key."
+2026-09-29T11:52:33.056045Z,io.github.Nitmi/blea,BLEA,0.7.0,https://github.com/Nitmi/blea,,"Safe BLE diagnostics, evidence workflows, and guarded automation for AI agents."
+2026-09-29T11:55:07.25047Z,co.yungle/yungle,,0.3.0,https://github.com/heindewilde/yungle-clients,streamable-http,"Ask about your Yungle transfers, share big files, download what you're sent. Approve every send."
+2026-09-29T11:55:51.36632Z,io.github.open-mcp-ai/termcp,,0.2.4,https://github.com/open-mcp-ai/termcp,,"An MCP server that lets AI agents act like a human at a real terminal, local or over SSH."
+2026-09-29T11:56:32.652015Z,io.github.ni-c/imap-mcp,IMAP mailbox,0.5.1,https://github.com/ni-c/imap-mcp,,"Read, search and organise any IMAP mailbox, with writes off by default"
+2026-09-29T11:57:36.161006Z,page.deed/deed-page,deed.page,1.0.0,,streamable-http,"Publish static sites to permanent URLs in one call. No account, email code, or claim link."
+2026-09-29T12:02:54.445451Z,com.devreply/devreply,DevReply,1.0.0,,streamable-http,"In-app support chat for mobile and web apps: read, triage and answer users, set up apps."
+2026-09-29T12:04:28.757633Z,io.github.zoster81/scripthold,Scripthold,3.3.0,https://github.com/zoster81/scripthold,,Secure encoding-aware local workspace runtime for AI agents
+2026-09-29T12:04:44.351737Z,io.github.cammac-creator/ibanforge,,1.8.1,https://github.com/cammac-creator/ibanforge,streamable-http,"Check the bank behind an IBAN before you pay: bank-code check, BIC with source, bank-level sanctions"
+2026-09-29T12:05:33.732018Z,de.caspar-manufaktur/materialberater,Caspar Manufaktur Materialberater,1.1.4,,streamable-http,Material information and recommendations for custom digital-print wallpaper B2B projects.
+2026-09-29T12:06:07.367475Z,io.github.Mohammed-Jameal-J/newsblog-composer,NewsBlog Composer,0.5.4,https://github.com/Mohammed-Jameal-J/newsblog-composer-mcp,,"Verifies news stories, mines SEO keywords, builds schema and reviews your draft. You write it."
+2026-09-29T12:07:19.015965Z,io.github.7tg/django-admin-mcp,Django Admin MCP,0.8.1,https://github.com/7tg/django-admin-mcp,,"Django admin models over MCP: CRUD, actions, history, autocomplete — capped by Django permissions."
+2026-09-29T12:10:32.36245Z,io.github.vrassouli/matemcp,MateMCP,0.1.0,https://github.com/vrassouli/MateMCP,streamable-http,Your agent hit a limit? Keep working. MateMCP securely connects AI chats to your computer via MCP.
+2026-09-29T12:12:39.253972Z,com.secretsantaorganizer/secretsanta,Secret Santa Organizer,1.0.0,,streamable-http,"Create a Secret Santa party with names, emails, a date, a place, and a budget."
+2026-09-29T12:18:38.675917Z,io.menso/menso,Menso,1.0.0,,streamable-http,"AI users run real tasks on your live site and show where they get stuck, with a replay of every step"
