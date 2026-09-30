@@ -9,73 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 12:18 UTC
+## Latest list — 2026-09-30 13:22 UTC
 
-New MCP servers published between 2026-09-30 11:19 UTC and 2026-09-30 12:18 UTC.
+New MCP servers published between 2026-09-30 12:18 UTC and 2026-09-30 13:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-30T12-18-54-253446Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-30T13-22-06-853497Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-30 11:19:56 | [co.firecms/mcp](https://github.com/firecmsco/firecms) | FireCMS Cloud | 3.5.0 | Manage FireCMS Cloud from an AI agent: Firestore data, collections, schemas and… |
-| 2026-09-30 11:25:21 | [io.github.mmedum/google-calendar-mcp](https://github.com/mmedum/google-calendar-mcp) |  | 3.0.0 | Google Calendar over MCP: calendars, events, recurrence and availability. |
-| 2026-09-30 11:25:51 | io.honeebot/cruise | Honee – cruise · honeefy | 0.2.0 | Find bookable sea and river cruises; ports, ships, cruise lines and an advisor… |
-| 2026-09-30 11:25:55 | [io.github.magnusmalm/smolmux-mcp](https://github.com/magnusmalm/smolmux) |  | 0.4.0 | Serial console MCP server over a smolmux broker: shared UART, send/expect, hist… |
-| 2026-09-30 11:26:09 | [io.github.magnusmalm/smolmux-gdb-mcp](https://github.com/magnusmalm/smolmux) |  | 0.4.0 | GDB/SWD MCP server over a smolmux broker: breakpoints, memory, Cortex-M fault d… |
-| 2026-09-30 11:27:52 | net.shifuyuan/company-site-mcp | 世福源供应链 · 企业官网开放数据 MCP | 1.0.0 | 海南世福源冻品火锅食材供应链官网开放数据：全站检索、企业概况、产品矩阵、成功案例、FAQ、招聘 6 个只读工具，API Key 官网自助申请。 |
-| 2026-09-30 11:28:35 | [io.github.tombaldwin/ebman](https://github.com/tombaldwin/ebman) | ebman | 0.45.1 | MCP server for AWS Elastic Beanstalk: read the fleet; --allow-writes adds two-p… |
-| 2026-09-30 11:30:51 | [io.github.mmcaoge/huage-bidding-data](https://github.com/mmcaoge/huage-mcp-servers) | 华哥·全国招投标数据 | 1.0.0 | 查询 hndcw.com 全国政府招投标 / 建设项目库，可按关键词、省份、城市、行业、预算区间筛选，返回项目标题、地区、预算(万元)、业主单位、阶段、公告日… |
-| 2026-09-30 11:32:31 | [io.github.runapi-builder/gemini-omni-mcp](https://github.com/runapi-ai/gemini-omni-mcp) |  | 0.3.0 | RunAPI MCP server for Gemini Omni: create tasks, poll status, check pricing. |
-| 2026-09-30 11:32:42 | [io.github.runapi-builder/flux-kontext-mcp](https://github.com/runapi-ai/flux-kontext-mcp) |  | 0.2.0 | RunAPI MCP server for Flux Kontext: create tasks, poll status, check pricing. |
-| 2026-09-30 11:33:03 | [io.github.runapi-builder/elevenlabs-mcp](https://github.com/runapi-ai/elevenlabs-mcp) |  | 0.2.0 | RunAPI MCP server for ElevenLabs: create tasks, poll status, check pricing. |
-| 2026-09-30 11:33:09 | [io.github.runapi-builder/flux-2-mcp](https://github.com/runapi-ai/flux-2-mcp) |  | 0.3.0 | RunAPI MCP server for Flux 2: create tasks, poll status, check pricing. |
-| 2026-09-30 11:33:13 | [io.github.runapi-builder/gemini-tts-mcp](https://github.com/runapi-ai/gemini-tts-mcp) |  | 0.2.0 | RunAPI MCP server for Gemini TTS: create tasks, poll status, check pricing. |
-| 2026-09-30 11:33:54 | [io.github.runapi-builder/gpt-image-2-mcp](https://github.com/runapi-ai/gpt-image-2-mcp) |  | 0.2.0 | RunAPI MCP server for GPT Image 2: create tasks, poll status, check pricing. |
-| 2026-09-30 11:34:10 | [io.github.runapi-builder/flux-mcp](https://github.com/runapi-ai/flux-mcp) |  | 0.2.0 | RunAPI MCP server for Flux: create tasks, poll status, check pricing. |
-| 2026-09-30 11:35:45 | com.azurade/mcp | Azurade AI | 1.1.0 | Generate images and videos with frontier AI models. Pay per use; credits never… |
-| 2026-09-30 11:36:05 | [io.github.runapi-builder/gpt-4o-image-mcp](https://github.com/runapi-ai/gpt-4o-image-mcp) |  | 0.2.0 | RunAPI MCP server for GPT-4o Image: create tasks, poll status, check pricing. |
-| 2026-09-30 11:36:32 | org.ipjudge/ipjudge | IP Judge | 1.0.0 | Check an IP or your own network exit before using ChatGPT, Claude, Gemini or Me… |
-| 2026-09-30 11:36:52 | [io.github.runapi-builder/seedream-mcp](https://github.com/runapi-ai/seedream-mcp) |  | 0.2.0 | RunAPI MCP server for Seedream: create tasks, poll status, check pricing. |
-| 2026-09-30 11:37:01 | [io.github.runapi-builder/grok-imagine-mcp](https://github.com/runapi-ai/grok-imagine-mcp) |  | 0.2.0 | RunAPI MCP server for Grok Imagine: create tasks, poll status, check pricing. |
-| 2026-09-30 11:37:06 | [io.github.runapi-builder/imagen-4-mcp](https://github.com/runapi-ai/imagen-4-mcp) |  | 0.2.0 | RunAPI MCP server for Imagen 4: create tasks, poll status, check pricing. |
-| 2026-09-30 11:37:10 | [io.github.runapi-builder/ideogram-v3-mcp](https://github.com/runapi-ai/ideogram-v3-mcp) |  | 0.2.0 | RunAPI MCP server for Ideogram V3: create tasks, poll status, check pricing. |
-| 2026-09-30 11:37:14 | [io.github.runapi-builder/gpt-image-mcp](https://github.com/runapi-ai/gpt-image-mcp) |  | 0.2.0 | RunAPI MCP server for GPT Image: create tasks, poll status, check pricing. |
-| 2026-09-30 11:37:18 | [io.github.runapi-builder/luma-mcp](https://github.com/runapi-ai/luma-mcp) |  | 0.2.0 | RunAPI MCP server for Luma: create tasks, poll status, check pricing. |
-| 2026-09-30 11:37:26 | [ai.analyticslegends/sap-analytics](https://github.com/analyticslegends/analytics-legends-mcp) | Analytics Legends — SAP Analytics Intel… | 1.0.7 | AI agent for SAP analytics: firms, day rates, contract radar, news, concepts, s… |
-| 2026-09-30 11:39:16 | [io.github.runapi-builder/happyhorse-mcp](https://github.com/runapi-ai/happyhorse-mcp) |  | 0.2.0 | RunAPI MCP server for HappyHorse: create tasks, poll status, check pricing. |
-| 2026-09-30 11:39:21 | [io.github.runapi-builder/qwen-2-mcp](https://github.com/runapi-ai/qwen-2-mcp) |  | 0.2.0 | RunAPI MCP server for Qwen 2: create tasks, poll status, check pricing. |
-| 2026-09-30 11:39:35 | [io.github.runapi-builder/infinitetalk-mcp](https://github.com/runapi-ai/infinitetalk-mcp) |  | 0.2.0 | RunAPI MCP server for InfiniteTalk: create tasks, poll status, check pricing. |
-| 2026-09-30 11:40:04 | [io.github.runapi-builder/runway-aleph-mcp](https://github.com/runapi-ai/runway-aleph-mcp) |  | 0.2.0 | RunAPI MCP server for Runway Aleph: create tasks, poll status, check pricing. |
-| 2026-09-30 11:40:09 | [io.github.runapi-builder/recraft-mcp](https://github.com/runapi-ai/recraft-mcp) |  | 0.2.0 | RunAPI MCP server for Recraft: create tasks, poll status, check pricing. |
-| 2026-09-30 11:40:15 | [io.github.runapi-builder/qwen-image-mcp](https://github.com/runapi-ai/qwen-image-mcp) |  | 0.2.0 | RunAPI MCP server for Qwen Image: create tasks, poll status, check pricing. |
-| 2026-09-30 11:40:21 | [io.github.runapi-builder/topaz-mcp](https://github.com/runapi-ai/topaz-mcp) |  | 0.2.0 | RunAPI MCP server for Topaz: create tasks, poll status, check pricing. |
-| 2026-09-30 11:40:26 | [io.github.runapi-builder/seedance-mcp](https://github.com/runapi-ai/seedance-mcp) |  | 0.3.0 | RunAPI MCP server for Seedance: create tasks, poll status, check pricing. |
-| 2026-09-30 11:40:33 | [io.github.runapi-builder/nano-banana-mcp](https://github.com/runapi-ai/nano-banana-mcp) |  | 0.2.0 | RunAPI MCP server for Nano Banana: create tasks, poll status, check pricing. |
-| 2026-09-30 11:40:58 | [io.github.runapi-builder/midjourney-mcp](https://github.com/runapi-ai/midjourney-mcp) |  | 0.4.0 | RunAPI MCP server for Midjourney: create tasks, poll status, check pricing. |
-| 2026-09-30 11:41:15 | [io.github.runapi-builder/runway-mcp](https://github.com/runapi-ai/runway-mcp) |  | 0.2.0 | RunAPI MCP server for Runway: create tasks, poll status, check pricing. |
-| 2026-09-30 11:42:39 | [io.github.runapi-builder/veo-3-1-mcp](https://github.com/runapi-ai/veo-3-1-mcp) |  | 0.2.0 | RunAPI MCP server for Veo 3.1: create tasks, poll status, check pricing. |
-| 2026-09-30 11:42:41 | [io.github.staminna/directus-mcp-server](https://github.com/staminna/mcp-server-claude) |  | 12.4.0 | MCP server for Directus 12 — items, collections, files, flows, users, and schem… |
-| 2026-09-30 11:43:00 | [io.github.runapi-builder/z-image-mcp](https://github.com/runapi-ai/z-image-mcp) |  | 0.2.0 | RunAPI MCP server for Z Image: create tasks, poll status, check pricing. |
-| 2026-09-30 11:44:36 | [io.github.runapi-builder/wan-mcp](https://github.com/runapi-ai/wan-mcp) |  | 0.2.0 | RunAPI MCP server for Wan: create tasks, poll status, check pricing. |
-| 2026-09-30 11:45:05 | [io.github.cyanheads/pokeapi-mcp-server](https://github.com/cyanheads/pokeapi-mcp-server) |  | 0.2.0 | Look up Pokémon, moves, abilities, items, natures, and type matchups from PokéA… |
-| 2026-09-30 11:45:18 | [io.github.mushitaro/matrix-tsunagi-mapping](https://github.com/mushitaro/matrix-tsunagi) | TSUNAGI///Matrix — MAPPING | 0.1.0 | BMW E46 M3 MSS54HP DME: read bins and Testo logs, get VE and rf_korr correction… |
-| 2026-09-30 11:45:45 | [io.github.cyanheads/browser-compat-mcp-server](https://github.com/cyanheads/browser-compat-mcp-server.git) |  | 0.2.0 | Browser compatibility and Baseline status for any web feature — offline, from b… |
-| 2026-09-30 11:46:59 | [io.github.mahdibrr/dev-error-explainers](https://github.com/mahdibrr/dev-error-explainers) | Dev error explainers | 0.2.0 | Offline, deterministic cause and fix for Node, npm, Next.js, CORS and Postgres… |
-| 2026-09-30 11:47:15 | in.remotestack/remotestack | RemoteStack | 1.0.0 | Search 50,000 live remote jobs, match your resume, get a tailored resume and co… |
-| 2026-09-30 11:49:40 | [com.aisenseapi/free-public-tools](https://github.com/aisenseapi/aisense-free-public-rest-apis) | AI SENSE Free Public Tools | 1.9.0 | 60 public tools: queues, inboxes, webhooks, approvals, DNS, images, PDF, hashin… |
-| 2026-09-30 11:53:08 | [io.github.mmcaoge/huage-hainan-policy](https://github.com/mmcaoge/huage-mcp-servers) | 华哥·海南政策法规 | 1.0.0 | 检索海南本地政策法规与惠企政策库，覆盖营商环境、民生、政府采购、产业扶持等主题，返回政策标题、发布机关、发布日期与原文链接。 |
-| 2026-09-30 11:53:21 | [io.github.mmcaoge/huage-minger-qa](https://github.com/mmcaoge/huage-mcp-servers) | 华哥·鸣儿招投标问答 | 1.0.0 | 「鸣儿」招投标智能助手：回答投标流程、资质要求、找项目、政策匹配等提问，并可联动项目库返回匹配标讯。 |
-| 2026-09-30 11:53:26 | [io.github.mmcaoge/huage-dev-service](https://github.com/mmcaoge/huage-mcp-servers) | 华哥·社会调查服务 | 1.0.0 | 社会调查与现场执行服务咨询：满意度 / 民意 / 舆情 / 暗访 / 面访 / 座谈会等服务能力与报价查询，对接 hndcw.com 服务预约。 |
-| 2026-09-30 11:54:45 | com.forcedalpha/supply-chain | ForcedAlpha Supply Chain Graph | 0.1.0 | Evidence-aware supply-chain research. Authentication required: OAuth or a clien… |
-| 2026-09-30 11:59:36 | dk.sortition/sortition-knowledge | Sortition Knowledge | 1.0.0 | Research and sources on sortition, citizens' assemblies and democratic reform. |
-| 2026-09-30 12:01:28 | com.manospay/manospay | ManosPay | 1.0.0 | Invoices, proposals and payments for contractors. Bilingual (ES/EN). Sign in wi… |
-| 2026-09-30 12:05:37 | [io.github.rlphillips/whenere-trivia](https://github.com/rlphillips/whenere-trivia) | Whenere Trivia | 1.0.0 | Daily history trivia EN/ES. Preview free; question $0.01, with answer $0.03 USD… |
-| 2026-09-30 12:05:50 | com.xither/record | Xither — AI vendor record | 1.0.0 | Read-only record of AI vendor sub-processor lists, DPA notice windows and model… |
-| 2026-09-30 12:10:33 | com.hproxy/mcp | HProxy | 1.0.0 | Free proxy list, live proxy checker and IP lookup for AI agents. No key, nothin… |
-| 2026-09-30 12:12:46 | com.emprego/jobs | emprego.com job search | 1.0.0 | Search live job openings in many countries and languages, and read a full job a… |
-| 2026-09-30 12:12:50 | io.github.qtorb/uxmachine | UXMachine | 1.0.0 | Measures your site in a real browser and returns verifiable observations, with… |
-| 2026-09-30 12:16:26 | [io.github.schemacrawler/schemacrawler-ai](https://github.com/schemacrawler/SchemaCrawler-AI) |  | v17.15.7-1 | Enables natural language schema queries — explore tables, keys, procedures, and… |
-| 2026-09-30 12:17:49 | [io.github.BaixuanZhu/danbooru-tag-mcp](https://github.com/BaixuanZhu/danbooru-tag-mcp) | danbooru-tag-mcp | 0.2.1 | Danbooru tag lookup MCP server for AI image generation: tags, aliases, related… |
+| 2026-09-30 12:19:48 | com.cintrasupply/cintra-quote | Cintra Supply Quote Desk | 2.1.0 | Get wholesale quotes and order industrial, MRO, and operational supplies from a… |
+| 2026-09-30 12:19:56 | [io.github.contentforge-press/shopify-intel](https://github.com/contentforge-press/shopify-change-intelligence) | Shopify Change Intelligence | 1.0.0 | Free Shopify store snapshot; paid change intelligence in USDC on Base via x402. |
+| 2026-09-30 12:20:48 | com.searcherries/mcp | Searcherries — MCP for GEO | 3.1.0 | Connect AI agents to your AI visibility and SEO data: competitors, citations, G… |
+| 2026-09-30 12:24:04 | [io.github.gosswerner1-max/lazyrelay-mcp-server](https://github.com/gosswerner1-max/lazyrelay) |  | 0.3.1 | Publish posts to every platform, check platform rules, manage drafts and approv… |
+| 2026-09-30 12:24:44 | [io.github.eric-tijerina/trollbridge-mcp](https://github.com/eric-tijerina/trollbridge-mcp) | TrollBridge MCP | 1.3.0 | Pay-per-call intel bridge for AI agents — 18 tools; tolled lanes $0.02 USDC via… |
+| 2026-09-30 12:26:25 | [io.actvt/actvt](https://github.com/oye-collective/actvt-macos-releases) | Actvt | 1.2.4 | Query live Mac system metrics, listening ports, and Claude Code and Codex sessi… |
+| 2026-09-30 12:28:21 | [io.github.stevecrates489-commits/tokcalc](https://github.com/stevecrates489-commits/tokcalc) | tokcalc MCP Server | 0.2.9 | LLM serving capacity planner: VRAM, KV cache, GPU topology, latency, and cost. |
+| 2026-09-30 12:28:47 | [com.scrapeunblocker/scrapeunblocker-mcp](https://github.com/ScrapeUnblocker/scrapeunblocker-mcp) |  | 0.2.1 | Fetch any web page's HTML or AI-parsed JSON through the ScrapeUnblocker anti-bo… |
+| 2026-09-30 12:30:28 | dev.workers.cybermax-tools.cybermax/insidewell-api | Insidewell | 1.0.1 | Fresh SEC Form 4 insider trades: filter by ticker, insider, buy/sell and value;… |
+| 2026-09-30 12:35:23 | [io.github.omarei-omoto/hush](https://github.com/omarei-omoto/hush) | hush | 0.9.0 | Team secrets your AI agent can use but never read: encrypted in the repo, value… |
+| 2026-09-30 12:35:33 | [com.keylineicons/mcp](https://github.com/keyline-icons/keyline-icons) | Keyline Icons | 1.4.0 | Search Keyline Icons by name and get any icon's SVG source or React import. No… |
+| 2026-09-30 12:39:43 | [io.github.KJdayo/janction-render](https://github.com/KJdayo/janction-render) |  | 0.1.1 | Render Blender scenes (.blend or bpy script) on JANCTION GPUs from AI agents: p… |
+| 2026-09-30 12:41:23 | [io.github.Rohanxmalik/tower](https://github.com/Rohanxmalik/Tower) | Tower | 0.11.1 | Multiplayer for AI coding agents: collision detection before the edit, messagin… |
+| 2026-09-30 12:42:12 | [io.github.yulanventures/prompteden-mcp](https://github.com/yulanventures/prompteden-mcp) | PromptEden | 0.3.0 | Stdio MCP server for PromptEden projects, monitors, answers, and analytics. |
+| 2026-09-30 12:43:44 | [io.github.Lyellr88/marm-mcp-server](https://github.com/Lyellr88/marm-memory) |  | 2.56.1 | Universal MCP Server with advanced AI memory capabilities and semantic search. |
+| 2026-09-30 12:58:23 | [io.github.Grubbomatic/crawl-readiness](https://github.com/Grubbomatic/crawl-readiness-mcp) |  | 0.2.4 | Audit any site for 50+ AI crawlers, generate llms.txt, robots.txt and schema, t… |
+| 2026-09-30 13:00:32 | [io.github.samson-art/transcriptor-mcp](https://github.com/samson-art/transcriptor-mcp) | Transcriptor MCP | 1.5.14 | Fetch transcripts, subtitles, chapters, metadata and frames from YouTube and 10… |
+| 2026-09-30 13:06:59 | [io.github.SKalinin909/tradingcalc](https://github.com/SKalinin909/tradingcalc-mcp) | TradingCalc MCP: Options, Forex, Risk S… | 2.14.0 | Deterministic options, forex, risk, on-chain & futures math. 75 tools. Not AI e… |
+| 2026-09-30 13:08:03 | [io.github.semwalajay83-sem/salesforce-metadata-mcp](https://github.com/semwalajay83-sem/salesforce-metadata-mcp) |  | 3.2.0 | The only Salesforce MCP with Agentforce, OmniStudio & DevOps Center tools — 228… |
+| 2026-09-30 13:09:51 | [ai.userintuition/research](https://github.com/Pen-and-Paper-AI/userintuition-mcpserver-ts) | User Intuition | 0.12.6 | Run customer research studies, recruit participants, monitor interviews, and re… |
+| 2026-09-30 13:16:40 | tours.yournext/guide | Your Next Tours | 1.0.0 | Prepare audio-guided tours: templates, travel programs, trips and participants… |
+| 2026-09-30 13:17:27 | [io.github.tashfeenahmed/agentdomains-mcp](https://github.com/tashfeenahmed/AgentDomains-mcp) | AgentDomains | 0.1.3 | Free domains under makes.fyi or agentdomains.co for the sites and APIs AI agent… |
+| 2026-09-30 13:18:16 | io.previbe/previbe | PreVibe | 3.4.1 | Validate your SaaS idea with market research before you build it. |
 
 ## Data source
 
