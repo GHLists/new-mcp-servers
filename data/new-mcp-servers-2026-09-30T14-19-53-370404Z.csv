@@ -1,0 +1,32 @@
+created_at,server,title,version,repository,transports,description
+2026-09-30T13:28:46.412486Z,dev.daily/mcp,daily.dev,1.0.0,,streamable-http,"Developer news feeds, posts, bookmarks, tags and search from daily.dev"
+2026-09-30T13:30:40.066781Z,com.sooveryn/sooveryn,Sooveryn,1.0.0,,streamable-http,"AI personas with a lasting, encrypted memory per project, for Claude Code. Hosted in France."
+2026-09-30T13:33:22.484052Z,io.github.othepro211/contract-guard,Contract Guard,0.1.0,,streamable-http,Deterministic JSON Schema validation with exact violations and conservative type normalization.
+2026-09-30T13:33:58.606445Z,io.github.michalhron/citation-network-mcp,Citation Network MCP,0.11.0,https://github.com/michalhron/citation-network-mcp,,"Citation-network analysis on Scopus or OpenAlex: coupling, co-citation, lineages, bibliometrics."
+2026-09-30T13:35:33.621835Z,ai.hyperresearch/hyperresearch,Hyperresearch,1.0.0,,streamable-http,"Start cited deep-research runs, read reports, search your source vault, and verify citations."
+2026-09-30T13:37:16.293537Z,io.github.ciceropaul/cicero-booking,,1.0.0,https://github.com/ciceropaul/cicero-platform,streamable-http,Find open times and book a free Cicero Learning consultation.
+2026-09-30T13:38:14.826687Z,com.aiskills402/mcp,AISkills402,1.1.0,,streamable-http,"Tested AI agent skill files (SKILL.md), bought once over x402 for cents on Base. Humanize first."
+2026-09-30T13:39:14.968717Z,io.github.GIT-access-ntwx/cubby-house,CUBBY HOUSE — AU Mattress Commerce for Agents,1.0.0,https://github.com/ml-ntwx/dome-site,streamable-http,"AI-matched AU mattress catalogue: 16 retailers, live AUD prices, agent-attributed leads. No auth."
+2026-09-30T13:42:39.737433Z,app.pixly/pixly,Pixly,1.3.1,,streamable-http,"Every visual AI tool for property listings — staging, enhancement, decluttering, cinematic video."
+2026-09-30T13:43:30.751798Z,io.github.AudivoDotDev/mcp,Audivo,0.3.0,https://github.com/AudivoDotDev/mcp,streamable-http,"Podcast transcripts: send an episode link and get the transcript back, a page at a time."
+2026-09-30T13:43:43.7909Z,io.github.andronaft/health-os,health-os,0.2.0,https://github.com/andronaft/health-os,,"Local-first personal health record: labs, meds, wearables, food log, deterministic safety checks"
+2026-09-30T13:47:06.949317Z,ai.hanria/agent-mandate-check,HANRIA agent mandate check,0.3.0,,streamable-http,"Check an agent action against its operator's mandate before acting: permit, deny or escalate."
+2026-09-30T13:47:50.453685Z,io.github.failed33/paraview-mcp-server,ParaView MCP Server,0.2.4,https://github.com/failed33/paraview-mcp,,Control ParaView through arbitrary Python code
+2026-09-30T13:48:53.773962Z,com.fairvalue-calculator/fair-value,Fair Value Calculator,5.1.0,,streamable-http,"Fair value, valuation status and quality score for 35,000+ stocks worldwide. Not financial advice."
+2026-09-30T13:54:16.433824Z,com.getmunin/munin,,5.37.0,https://github.com/getmunin/munin,streamable-http,"Open-source all-in-one MCP-first customer platform: KB, Conversations, CRM, CMS, Outreach, Analytics"
+2026-09-30T13:56:22.655268Z,io.github.worklore/worklore,,0.2.0,https://github.com/worklore/worklore-mcp,streamable-http,Search worklore stories and x-ray any skill or story capability tier (T0-T4) before you run it.
+2026-09-30T13:58:39.403551Z,com.xverum/mcp,Ask Xverum,2.3.0,https://github.com/Xverum-LLC/xverum-mcp,streamable-http,"Find and enrich people from 750M professional profiles, with Next Move Signal job-change scores."
+2026-09-30T14:01:49.575959Z,io.github.yBookoff/thebrain,,0.1.4,https://github.com/yBookoff/thebrain-mcp,,"MCP server for TheBrain 15: search by meaning, graph traversal and batch writes over the local API"
+2026-09-30T14:02:24.76051Z,app.telofy/telofy,Telofy,1.0.0,https://github.com/RuJerome/telofy-mcp,streamable-http,"AI phone receptionist for small businesses: read calls, leads and booked appointments."
+2026-09-30T14:04:13.432003Z,io.github.asokore/statcite,StatCite — Verified Economic Statistics,1.14.2,https://github.com/asokore/statcite,streamable-http,"Cited economic statistics: World Bank, IMF, BIS, ECB, Caribbean central banks. Verify any figure."
+2026-09-30T14:04:38.67507Z,io.github.simonplmak-cloud/startup-valuation,Startup Valuation MCP Server,2.0.0,https://github.com/simonplmak-cloud/startup-valuation,streamable-http,"Startup valuation for AI agents: 14 tools, 80+ pre-revenue formulas."
+2026-09-30T14:06:08.717612Z,com.zenofirm/quickbooks-desktop,Zeno for QuickBooks Desktop,1.14.0,https://github.com/Zeno-Services/zeno-quickbooks-desktop,,"Review-gated bookkeeping in QuickBooks Desktop on Windows: reports, SQL, batches, reversal."
+2026-09-30T14:10:29.065564Z,live.traintrackr/traintracker,Traintrackr,0.1.0,https://github.com/hugorodgerbrown/traintracker,streamable-http,"GB (National Rail) train times: live departures, platforms, timetables and journey planning."
+2026-09-30T14:11:27.718809Z,com.timequip/timequip,Timequip,0.1.1,,streamable-http,"Manage Timequip projects, tasks, comments, members, and dashboards through MCP."
+2026-09-30T14:11:33.314401Z,io.github.Cifero74/mcp-apple-music,,1.1.0,https://github.com/Cifero74/mcp-apple-music,,"Apple Music MCP server — search catalog, manage playlists, and access your library via Claude."
+2026-09-30T14:11:35.196243Z,io.github.aicayzer/companies-house,,4.0.1,https://github.com/aicayzer/companies-house-mcp,,"UK Companies House public register: search companies, officers, ownership, filings and documents."
+2026-09-30T14:12:13.825366Z,net.lnx/lnx,LNX link in bio,1.0.0,,streamable-http,"Build a free link-in-bio page (lnx.net/name) for the user from their links, socials and bio."
+2026-09-30T14:14:27.242266Z,org.rentbuy/rentbuy,RentBuy.org,1.3.1,,streamable-http,"Compare renting and buying a home over 30 years: scenarios, side-by-side comparisons, rent sweeps."
+2026-09-30T14:14:42.141331Z,io.github.vbhjckfd/timetable-api-node,Lviv Public Transport,1.6.1,https://github.com/vbhjckfd/timetable-api-node,streamable-http,"Lviv public transport MCP: stops, timetables, routes, and live vehicle positions. No API key."
+2026-09-30T14:15:57.536719Z,org.sylin/ghostlight,,1.3.12,https://github.com/sylin-org/ghostlight,,"Visible local browser automation in signed-in Chromium, with optional policy and audit."
+2026-09-30T14:17:44.567884Z,io.github.GeiserX/vpn-bypass-mcp,,0.1.0,https://github.com/GeiserX/vpn-bypass-mcp,,"Read and change VPN Bypass (macOS) routing: domain lists, services, modes, kernel routes, logs"

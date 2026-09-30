@@ -9,37 +9,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 13:22 UTC
+## Latest list — 2026-09-30 14:19 UTC
 
-New MCP servers published between 2026-09-30 12:18 UTC and 2026-09-30 13:22 UTC.
+New MCP servers published between 2026-09-30 13:22 UTC and 2026-09-30 14:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-30T13-22-06-853497Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-30T14-19-53-370404Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-30 12:19:48 | com.cintrasupply/cintra-quote | Cintra Supply Quote Desk | 2.1.0 | Get wholesale quotes and order industrial, MRO, and operational supplies from a… |
-| 2026-09-30 12:19:56 | [io.github.contentforge-press/shopify-intel](https://github.com/contentforge-press/shopify-change-intelligence) | Shopify Change Intelligence | 1.0.0 | Free Shopify store snapshot; paid change intelligence in USDC on Base via x402. |
-| 2026-09-30 12:20:48 | com.searcherries/mcp | Searcherries — MCP for GEO | 3.1.0 | Connect AI agents to your AI visibility and SEO data: competitors, citations, G… |
-| 2026-09-30 12:24:04 | [io.github.gosswerner1-max/lazyrelay-mcp-server](https://github.com/gosswerner1-max/lazyrelay) |  | 0.3.1 | Publish posts to every platform, check platform rules, manage drafts and approv… |
-| 2026-09-30 12:24:44 | [io.github.eric-tijerina/trollbridge-mcp](https://github.com/eric-tijerina/trollbridge-mcp) | TrollBridge MCP | 1.3.0 | Pay-per-call intel bridge for AI agents — 18 tools; tolled lanes $0.02 USDC via… |
-| 2026-09-30 12:26:25 | [io.actvt/actvt](https://github.com/oye-collective/actvt-macos-releases) | Actvt | 1.2.4 | Query live Mac system metrics, listening ports, and Claude Code and Codex sessi… |
-| 2026-09-30 12:28:21 | [io.github.stevecrates489-commits/tokcalc](https://github.com/stevecrates489-commits/tokcalc) | tokcalc MCP Server | 0.2.9 | LLM serving capacity planner: VRAM, KV cache, GPU topology, latency, and cost. |
-| 2026-09-30 12:28:47 | [com.scrapeunblocker/scrapeunblocker-mcp](https://github.com/ScrapeUnblocker/scrapeunblocker-mcp) |  | 0.2.1 | Fetch any web page's HTML or AI-parsed JSON through the ScrapeUnblocker anti-bo… |
-| 2026-09-30 12:30:28 | dev.workers.cybermax-tools.cybermax/insidewell-api | Insidewell | 1.0.1 | Fresh SEC Form 4 insider trades: filter by ticker, insider, buy/sell and value;… |
-| 2026-09-30 12:35:23 | [io.github.omarei-omoto/hush](https://github.com/omarei-omoto/hush) | hush | 0.9.0 | Team secrets your AI agent can use but never read: encrypted in the repo, value… |
-| 2026-09-30 12:35:33 | [com.keylineicons/mcp](https://github.com/keyline-icons/keyline-icons) | Keyline Icons | 1.4.0 | Search Keyline Icons by name and get any icon's SVG source or React import. No… |
-| 2026-09-30 12:39:43 | [io.github.KJdayo/janction-render](https://github.com/KJdayo/janction-render) |  | 0.1.1 | Render Blender scenes (.blend or bpy script) on JANCTION GPUs from AI agents: p… |
-| 2026-09-30 12:41:23 | [io.github.Rohanxmalik/tower](https://github.com/Rohanxmalik/Tower) | Tower | 0.11.1 | Multiplayer for AI coding agents: collision detection before the edit, messagin… |
-| 2026-09-30 12:42:12 | [io.github.yulanventures/prompteden-mcp](https://github.com/yulanventures/prompteden-mcp) | PromptEden | 0.3.0 | Stdio MCP server for PromptEden projects, monitors, answers, and analytics. |
-| 2026-09-30 12:43:44 | [io.github.Lyellr88/marm-mcp-server](https://github.com/Lyellr88/marm-memory) |  | 2.56.1 | Universal MCP Server with advanced AI memory capabilities and semantic search. |
-| 2026-09-30 12:58:23 | [io.github.Grubbomatic/crawl-readiness](https://github.com/Grubbomatic/crawl-readiness-mcp) |  | 0.2.4 | Audit any site for 50+ AI crawlers, generate llms.txt, robots.txt and schema, t… |
-| 2026-09-30 13:00:32 | [io.github.samson-art/transcriptor-mcp](https://github.com/samson-art/transcriptor-mcp) | Transcriptor MCP | 1.5.14 | Fetch transcripts, subtitles, chapters, metadata and frames from YouTube and 10… |
-| 2026-09-30 13:06:59 | [io.github.SKalinin909/tradingcalc](https://github.com/SKalinin909/tradingcalc-mcp) | TradingCalc MCP: Options, Forex, Risk S… | 2.14.0 | Deterministic options, forex, risk, on-chain & futures math. 75 tools. Not AI e… |
-| 2026-09-30 13:08:03 | [io.github.semwalajay83-sem/salesforce-metadata-mcp](https://github.com/semwalajay83-sem/salesforce-metadata-mcp) |  | 3.2.0 | The only Salesforce MCP with Agentforce, OmniStudio & DevOps Center tools — 228… |
-| 2026-09-30 13:09:51 | [ai.userintuition/research](https://github.com/Pen-and-Paper-AI/userintuition-mcpserver-ts) | User Intuition | 0.12.6 | Run customer research studies, recruit participants, monitor interviews, and re… |
-| 2026-09-30 13:16:40 | tours.yournext/guide | Your Next Tours | 1.0.0 | Prepare audio-guided tours: templates, travel programs, trips and participants… |
-| 2026-09-30 13:17:27 | [io.github.tashfeenahmed/agentdomains-mcp](https://github.com/tashfeenahmed/AgentDomains-mcp) | AgentDomains | 0.1.3 | Free domains under makes.fyi or agentdomains.co for the sites and APIs AI agent… |
-| 2026-09-30 13:18:16 | io.previbe/previbe | PreVibe | 3.4.1 | Validate your SaaS idea with market research before you build it. |
+| 2026-09-30 13:28:46 | dev.daily/mcp | daily.dev | 1.0.0 | Developer news feeds, posts, bookmarks, tags and search from daily.dev |
+| 2026-09-30 13:30:40 | com.sooveryn/sooveryn | Sooveryn | 1.0.0 | AI personas with a lasting, encrypted memory per project, for Claude Code. Host… |
+| 2026-09-30 13:33:22 | io.github.othepro211/contract-guard | Contract Guard | 0.1.0 | Deterministic JSON Schema validation with exact violations and conservative typ… |
+| 2026-09-30 13:33:58 | [io.github.michalhron/citation-network-mcp](https://github.com/michalhron/citation-network-mcp) | Citation Network MCP | 0.11.0 | Citation-network analysis on Scopus or OpenAlex: coupling, co-citation, lineage… |
+| 2026-09-30 13:35:33 | ai.hyperresearch/hyperresearch | Hyperresearch | 1.0.0 | Start cited deep-research runs, read reports, search your source vault, and ver… |
+| 2026-09-30 13:37:16 | [io.github.ciceropaul/cicero-booking](https://github.com/ciceropaul/cicero-platform) |  | 1.0.0 | Find open times and book a free Cicero Learning consultation. |
+| 2026-09-30 13:38:14 | com.aiskills402/mcp | AISkills402 | 1.1.0 | Tested AI agent skill files (SKILL.md), bought once over x402 for cents on Base… |
+| 2026-09-30 13:39:14 | [io.github.GIT-access-ntwx/cubby-house](https://github.com/ml-ntwx/dome-site) | CUBBY HOUSE — AU Mattress Commerce for… | 1.0.0 | AI-matched AU mattress catalogue: 16 retailers, live AUD prices, agent-attribut… |
+| 2026-09-30 13:42:39 | app.pixly/pixly | Pixly | 1.3.1 | Every visual AI tool for property listings — staging, enhancement, decluttering… |
+| 2026-09-30 13:43:30 | [io.github.AudivoDotDev/mcp](https://github.com/AudivoDotDev/mcp) | Audivo | 0.3.0 | Podcast transcripts: send an episode link and get the transcript back, a page a… |
+| 2026-09-30 13:43:43 | [io.github.andronaft/health-os](https://github.com/andronaft/health-os) | health-os | 0.2.0 | Local-first personal health record: labs, meds, wearables, food log, determinis… |
+| 2026-09-30 13:47:06 | ai.hanria/agent-mandate-check | HANRIA agent mandate check | 0.3.0 | Check an agent action against its operator's mandate before acting: permit, den… |
+| 2026-09-30 13:47:50 | [io.github.failed33/paraview-mcp-server](https://github.com/failed33/paraview-mcp) | ParaView MCP Server | 0.2.4 | Control ParaView through arbitrary Python code |
+| 2026-09-30 13:48:53 | com.fairvalue-calculator/fair-value | Fair Value Calculator | 5.1.0 | Fair value, valuation status and quality score for 35,000+ stocks worldwide. No… |
+| 2026-09-30 13:54:16 | [com.getmunin/munin](https://github.com/getmunin/munin) |  | 5.37.0 | Open-source all-in-one MCP-first customer platform: KB, Conversations, CRM, CMS… |
+| 2026-09-30 13:56:22 | [io.github.worklore/worklore](https://github.com/worklore/worklore-mcp) |  | 0.2.0 | Search worklore stories and x-ray any skill or story capability tier (T0-T4) be… |
+| 2026-09-30 13:58:39 | [com.xverum/mcp](https://github.com/Xverum-LLC/xverum-mcp) | Ask Xverum | 2.3.0 | Find and enrich people from 750M professional profiles, with Next Move Signal j… |
+| 2026-09-30 14:01:49 | [io.github.yBookoff/thebrain](https://github.com/yBookoff/thebrain-mcp) |  | 0.1.4 | MCP server for TheBrain 15: search by meaning, graph traversal and batch writes… |
+| 2026-09-30 14:02:24 | [app.telofy/telofy](https://github.com/RuJerome/telofy-mcp) | Telofy | 1.0.0 | AI phone receptionist for small businesses: read calls, leads and booked appoin… |
+| 2026-09-30 14:04:13 | [io.github.asokore/statcite](https://github.com/asokore/statcite) | StatCite — Verified Economic Statistics | 1.14.2 | Cited economic statistics: World Bank, IMF, BIS, ECB, Caribbean central banks.… |
+| 2026-09-30 14:04:38 | [io.github.simonplmak-cloud/startup-valuation](https://github.com/simonplmak-cloud/startup-valuation) | Startup Valuation MCP Server | 2.0.0 | Startup valuation for AI agents: 14 tools, 80+ pre-revenue formulas. |
+| 2026-09-30 14:06:08 | [com.zenofirm/quickbooks-desktop](https://github.com/Zeno-Services/zeno-quickbooks-desktop) | Zeno for QuickBooks Desktop | 1.14.0 | Review-gated bookkeeping in QuickBooks Desktop on Windows: reports, SQL, batche… |
+| 2026-09-30 14:10:29 | [live.traintrackr/traintracker](https://github.com/hugorodgerbrown/traintracker) | Traintrackr | 0.1.0 | GB (National Rail) train times: live departures, platforms, timetables and jour… |
+| 2026-09-30 14:11:27 | com.timequip/timequip | Timequip | 0.1.1 | Manage Timequip projects, tasks, comments, members, and dashboards through MCP. |
+| 2026-09-30 14:11:33 | [io.github.Cifero74/mcp-apple-music](https://github.com/Cifero74/mcp-apple-music) |  | 1.1.0 | Apple Music MCP server — search catalog, manage playlists, and access your libr… |
+| 2026-09-30 14:11:35 | [io.github.aicayzer/companies-house](https://github.com/aicayzer/companies-house-mcp) |  | 4.0.1 | UK Companies House public register: search companies, officers, ownership, fili… |
+| 2026-09-30 14:12:13 | net.lnx/lnx | LNX link in bio | 1.0.0 | Build a free link-in-bio page (lnx.net/name) for the user from their links, soc… |
+| 2026-09-30 14:14:27 | org.rentbuy/rentbuy | RentBuy.org | 1.3.1 | Compare renting and buying a home over 30 years: scenarios, side-by-side compar… |
+| 2026-09-30 14:14:42 | [io.github.vbhjckfd/timetable-api-node](https://github.com/vbhjckfd/timetable-api-node) | Lviv Public Transport | 1.6.1 | Lviv public transport MCP: stops, timetables, routes, and live vehicle position… |
+| 2026-09-30 14:15:57 | [org.sylin/ghostlight](https://github.com/sylin-org/ghostlight) |  | 1.3.12 | Visible local browser automation in signed-in Chromium, with optional policy an… |
+| 2026-09-30 14:17:44 | [io.github.GeiserX/vpn-bypass-mcp](https://github.com/GeiserX/vpn-bypass-mcp) |  | 0.1.0 | Read and change VPN Bypass (macOS) routing: domain lists, services, modes, kern… |
 
 ## Data source
 
