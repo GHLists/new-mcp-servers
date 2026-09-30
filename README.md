@@ -9,42 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 07:21 UTC
+## Latest list — 2026-09-30 08:20 UTC
 
-New MCP servers published between 2026-09-30 06:19 UTC and 2026-09-30 07:21 UTC.
+New MCP servers published between 2026-09-30 07:21 UTC and 2026-09-30 08:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-30T07-21-28-035297Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-30T08-20-50-43426Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-30 06:24:08 | [io.github.AceDataCloud/mcp-midjourney](https://github.com/AceDataCloud/MidjourneyMCP) | Midjourney | 2026.9.30.0 | MCP server for Midjourney AI image generation and editing |
-| 2026-09-30 06:24:56 | [io.github.AceDataCloud/mcp-acedatacloud](https://github.com/AceDataCloud/AceDataCloudMCP) |  | 2026.9.30.0 | Manage your AceData Cloud account: services, pricing, APIs, docs, balance, usag… |
-| 2026-09-30 06:25:05 | [io.github.donmangudata-ops/jobs-mcp-server](https://github.com/donmangudata-ops/apify-jobs-mcp) | Jobs MCP Server | 1.0.0 | Read-only tools: open jobs at the companies you name, and a live search of curr… |
-| 2026-09-30 06:28:13 | app.gardeners-almanac/gardeners-almanac | Gardener's Almanac | 2026.929.12 | Your vegetable garden: what's growing, what you've done, what needs doing next… |
-| 2026-09-30 06:28:56 | io.github.mo9652962-ai/esq-builder-mcp | ESQ Builder | 0.1.4 | ESQ 1.0 题库包工具链（墨题刷题机）：build(auto_fix) → validate(双轨校验) → upload/publish + kajwe… |
-| 2026-09-30 06:33:06 | io.github.mo9652962-ai/skill-maintenance-mcp | Skill Maintenance | 0.1.2 | 技能库维护 MCP server：损坏扫描/改前备份/决策日志/体检（skill-evolution 机械环节工具化），uvx 一行接入 |
-| 2026-09-30 06:35:28 | [io.github.plumbkit/plumb](https://github.com/plumbkit/plumb) | Plumb | 0.20.3 | LSP-backed IDE intelligence plus concurrency-safe, transactional edits for AI c… |
-| 2026-09-30 06:36:47 | [app.ambernotes/amber-notes](https://github.com/emilwagman/amber-notes) | Amber Notes | 1.0.0 | Search, read and edit your Amber Notes: folders, checklists, tables and tracker… |
-| 2026-09-30 06:38:34 | com.aerset/normativa-drones-espana | Aerset · normativa de drones en España | 1.0.0 | Normativa española de drones con fuente y fecha por regla: pasajes citables, zo… |
-| 2026-09-30 06:42:16 | [io.github.ilpr/shruwd-mcp](https://github.com/ilpr/shruwd-mcp) |  | 0.1.6 | Set up a brand, read its AI-search visibility, and act on diagnostic findings. |
-| 2026-09-30 06:44:10 | com.jeyaya/botverse | Jeyaya · RankedBots botverse | 1.1.0 | Bot economy: find paid work, bid, deliver and earn fixed-supply JEY game credit… |
-| 2026-09-30 06:45:53 | [io.github.Dominic-DK/askew-mcp](https://github.com/Dominic-DK/askew-mcp) | Askew — iPhone, iPad and Mac via Shortc… | 0.3.0 | Run iPhone Shortcuts through an encrypted relay, or assigned auto-mode Shortcut… |
-| 2026-09-30 06:46:19 | com.jawaabook/jawaabook | JAWAABOOK | 1.0.0 | A moderated forum where AI agents read, cite and post under one house rule: cla… |
-| 2026-09-30 06:50:06 | [io.github.musyta-labs/mcpcut](https://github.com/musyta-labs/OrcCut) |  | 0.1.1 | Orccut: a real timeline video editor for AI agents - journaled edits, FFmpeg/ML… |
-| 2026-09-30 06:51:58 | [io.github.osauer/canary](https://github.com/osauer/canary) | Canary MCP | 3.14.0 | Read-only IBKR MCP: account, positions, brief, regime, stress, reporting, Edge,… |
-| 2026-09-30 06:52:09 | [day.shyn/shyn](https://github.com/shyn-labs/shyn) | shyn | 0.5.16-alpha | Local-first ambient memory for your Mac — pages, meetings, notes, encrypted on-… |
-| 2026-09-30 06:55:32 | io.github.rmtonmoy/humantool | HumanTool | 0.2.0 | Lets AI agents use a real human as a tool: visual checks, taste, phone calls, u… |
-| 2026-09-30 06:56:58 | com.gaplessly/booking | Gaplessly Booking | 1.0.0 | Find free appointment and table times at Gaplessly venues, then hand the guest… |
-| 2026-09-30 06:58:50 | [dev.proxylang/translate](https://github.com/Proxylang/skills) | Proxylang website translation | 1.0.0 | Translate a website into other languages from one script tag. Free trial, no si… |
-| 2026-09-30 07:01:54 | com.pyloapp/pylo | pylo | 1.0.0 | Query and analyze your pylo data. Changes become proposals you approve in the p… |
-| 2026-09-30 07:08:28 | [io.github.truman-t3/keyshot-mcp](https://github.com/truman-t3/keyshot-mcp) | KeyShot MCP | 0.13.0 | Control local KeyShot scenes, cameras, environments, and renders through headle… |
-| 2026-09-30 07:10:04 | [app.srift/srift](https://github.com/srivardhan113/SRIFT-Open_Source) | SRIFT | 4.3.0 | Decentralized P2P file transfer + encrypted chat for AI agents. Military-grade… |
-| 2026-09-30 07:11:17 | [io.github.mmedum/google-drive-mcp](https://github.com/mmedum/google-drive-mcp) | Google Drive | 2.0.0 | Google Drive at the file boundary: find, organize, share, transfer and follow w… |
-| 2026-09-30 07:12:39 | io.github.RayceRossum/getregisters | GetRegisters: free source-backed practi… | 1.1.0 | Free source-backed NDIS pricing, packaging, care and licensing tools; searchabl… |
-| 2026-09-30 07:14:20 | com.penguindriver/toys | 亞洲公仔扭蛋情報站 | 1.0.0 | 亞洲公仔扭蛋情報站：萬代與 Takara Tomy Arts 扭蛋公仔發售表、中日搜尋、交換局。繁體中文 MCP 工具。 |
-| 2026-09-30 07:14:26 | link.keepp/keepp | Keepp | 1.2.0 | Build and run your Keepp page: blocks, theme, products, bookings, Stripe and pl… |
-| 2026-09-30 07:19:41 | [io.github.undy-mosq/CSharpAnalyserMcp](https://github.com/undy-mosq/CSharpAnalyserMcp) | C# Class Analyzer MCP | 1.0.2 | A read-only MCP server that lets an AI assistant browse any C# solution through… |
-| 2026-09-30 07:20:48 | [io.github.alesdev88/archicad-mcp](https://github.com/alesdev88/Archicad-MCP) | Archicad | 0.7.0 | Delivery-readiness QA and full official + Tapir API access for a running Archic… |
+| 2026-09-30 07:25:37 | domains.audit/appraisal | audit.domains - Domain Valuation | 1.4.0 | Deterministic domain name valuation: fair-value interval, scored factors, real… |
+| 2026-09-30 07:28:26 | [app.sendar/mcp](https://github.com/Thutos/sendar-agent-skills) |  | 1.0.0 | Sendar application email: inspect setup, preview, send and check delivery. |
+| 2026-09-30 07:30:52 | [com.ismalicious/mcp-server](https://github.com/hexablob/ismalicious-mcp-server) | isMalicious threat intelligence for AI… | 0.3.1 | Indicator reputation verdicts, CVE lookups (CVSS, EPSS, KEV) and prompt-injecti… |
+| 2026-09-30 07:32:45 | [io.github.Dempty-glitch/z-zero-mcp](https://github.com/Dempty-glitch/Z-Zero-mcp) |  | 1.10.2 | Payments for AI agents: gasless USDC on Base + JIT single-use virtual cards, PA… |
+| 2026-09-30 07:33:03 | [io.github.hahahahahahahahah6/browser-buddy](https://github.com/hahahahahahahahah6/browser-buddy) | browser-buddy | 0.1.1 | Let AI coding agents read pages through your real, logged-in Chrome browser. |
+| 2026-09-30 07:37:12 | com.roroquantum/roro-quantum | RoRo Quantum | 1.0.0 | Read RoRo Academy quantum computing lessons and list RoRo Quantum's simulators… |
+| 2026-09-30 07:37:35 | [io.github.samihalawa/magicinterview](https://github.com/samihalawa/magicinterview-plugin) | MagicInterview | 1.1.2 | Live suggestions for what to say next in job interviews, client calls, and meet… |
+| 2026-09-30 07:39:55 | si.prodready/prodready | prodready | 1.0.0 | Free enterprise-grade due diligence for your app, run by your coding agent. The… |
+| 2026-09-30 07:42:44 | [io.github.ogasurfproject-jpg/hs-partner-001-mcp](https://github.com/ogasurfproject-jpg/horizon-shield) | Yakumo verified contractor No.001: Refo… | 0.2.0 | Verified profile of Reform Shokunin Co., Ltd., a Yakumo member renovation contr… |
+| 2026-09-30 07:42:45 | archi.collab/archicollab | ArchiCollab | 1.0.0 | Interrogez vos projets ArchiCollab : documents, annotations, équipe, activité.… |
+| 2026-09-30 07:43:07 | [io.github.ogasurfproject-jpg/hs-partner-002-mcp](https://github.com/ogasurfproject-jpg/horizon-shield) | Yakumo verified contractor No.002: Mine… | 0.2.0 | Verified profile of Mineo Toyo Juki, a window and entrance door contractor in S… |
+| 2026-09-30 07:50:04 | com.scorecompute/scorecompute | ScoreCompute | 0.1.0 | Rust compute tools for simulation, optimization, astronomy and physical consist… |
+| 2026-09-30 07:50:23 | [io.github.sarooo17/event-intelligence](https://github.com/sarooo17/event-intelligence) | MCP Event Intelligence | 0.5.0 | MCP-native CEP for durable agents: event-time patterns, semantic predicates, de… |
+| 2026-09-30 08:04:06 | com.marleyfetch/mcp | MarleyFetch | 1.0.0 | Let AI agents send email from your own Gmail, Microsoft 365 or SMTP inbox, with… |
+| 2026-09-30 08:04:07 | cc.placetobe/events | Place to Be | 1.0.0 | What's on in any city: live, ranked concerts, sport, festivals, nightlife and c… |
+| 2026-09-30 08:06:51 | com.seocontentmachine/scm | SEO Content Machine | 1.0.0 | Run SEO Content Machine tasks from an MCP client: scraping, crawls, Google Maps… |
+| 2026-09-30 08:08:41 | [io.github.nirholas/agent-sniper](https://github.com/nirholas/three.ws) | Agent Sniper | 0.1.7 | Self-custodial pump.fun sniper: arm strategies, snipe, manage positions. Simula… |
+| 2026-09-30 08:08:43 | [io.github.nirholas/blender-mcp](https://github.com/nirholas/three.ws) | three.ws Blender | 0.5.0 | Drive a local Blender headlessly: inspect, convert, render and script 3D files. |
+| 2026-09-30 08:08:44 | [io.github.nirholas/herald-mcp](https://github.com/nirholas/three.ws) | three.ws Herald | 0.1.0 | Tell your human in person: a 3D character walks onto their open browser tab and… |
+| 2026-09-30 08:08:46 | [io.github.nirholas/home-mcp](https://github.com/nirholas/three.ws) | three.ws Home | 0.1.0 | Read and safely act on a real Home Assistant house: rooms, live state, scenes,… |
+| 2026-09-30 08:08:47 | [io.github.nirholas/knock-mcp](https://github.com/nirholas/three.ws) | three.ws Knock | 0.1.0 | Reach a real person: quote their door, browse who is reachable, knock, and read… |
+| 2026-09-30 08:17:52 | com.dtmframe/dtmframe | DTMFRAME | 0.1.1 | Read-only data from DTMFRAME (Japan): music-production products, current offers… |
+| 2026-09-30 08:17:58 | app.avatalks/avatalks | AVATALKS | 1.0.0 | AI personas you can talk to: a public arena of speaking, arguing characters, ho… |
+| 2026-09-30 08:19:32 | com.achivx/stablescan | Stablecoin Scanner | 1.2.0 | Stablecoin risk for agents: freezes, OFAC, exposure, allowances, transfers, gra… |
 
 ## Data source
 
