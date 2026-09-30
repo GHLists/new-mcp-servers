@@ -9,38 +9,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 08:20 UTC
+## Latest list — 2026-09-30 09:21 UTC
 
-New MCP servers published between 2026-09-30 07:21 UTC and 2026-09-30 08:20 UTC.
+New MCP servers published between 2026-09-30 08:20 UTC and 2026-09-30 09:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-30T08-20-50-43426Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-30T09-21-19-108672Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-30 07:25:37 | domains.audit/appraisal | audit.domains - Domain Valuation | 1.4.0 | Deterministic domain name valuation: fair-value interval, scored factors, real… |
-| 2026-09-30 07:28:26 | [app.sendar/mcp](https://github.com/Thutos/sendar-agent-skills) |  | 1.0.0 | Sendar application email: inspect setup, preview, send and check delivery. |
-| 2026-09-30 07:30:52 | [com.ismalicious/mcp-server](https://github.com/hexablob/ismalicious-mcp-server) | isMalicious threat intelligence for AI… | 0.3.1 | Indicator reputation verdicts, CVE lookups (CVSS, EPSS, KEV) and prompt-injecti… |
-| 2026-09-30 07:32:45 | [io.github.Dempty-glitch/z-zero-mcp](https://github.com/Dempty-glitch/Z-Zero-mcp) |  | 1.10.2 | Payments for AI agents: gasless USDC on Base + JIT single-use virtual cards, PA… |
-| 2026-09-30 07:33:03 | [io.github.hahahahahahahahah6/browser-buddy](https://github.com/hahahahahahahahah6/browser-buddy) | browser-buddy | 0.1.1 | Let AI coding agents read pages through your real, logged-in Chrome browser. |
-| 2026-09-30 07:37:12 | com.roroquantum/roro-quantum | RoRo Quantum | 1.0.0 | Read RoRo Academy quantum computing lessons and list RoRo Quantum's simulators… |
-| 2026-09-30 07:37:35 | [io.github.samihalawa/magicinterview](https://github.com/samihalawa/magicinterview-plugin) | MagicInterview | 1.1.2 | Live suggestions for what to say next in job interviews, client calls, and meet… |
-| 2026-09-30 07:39:55 | si.prodready/prodready | prodready | 1.0.0 | Free enterprise-grade due diligence for your app, run by your coding agent. The… |
-| 2026-09-30 07:42:44 | [io.github.ogasurfproject-jpg/hs-partner-001-mcp](https://github.com/ogasurfproject-jpg/horizon-shield) | Yakumo verified contractor No.001: Refo… | 0.2.0 | Verified profile of Reform Shokunin Co., Ltd., a Yakumo member renovation contr… |
-| 2026-09-30 07:42:45 | archi.collab/archicollab | ArchiCollab | 1.0.0 | Interrogez vos projets ArchiCollab : documents, annotations, équipe, activité.… |
-| 2026-09-30 07:43:07 | [io.github.ogasurfproject-jpg/hs-partner-002-mcp](https://github.com/ogasurfproject-jpg/horizon-shield) | Yakumo verified contractor No.002: Mine… | 0.2.0 | Verified profile of Mineo Toyo Juki, a window and entrance door contractor in S… |
-| 2026-09-30 07:50:04 | com.scorecompute/scorecompute | ScoreCompute | 0.1.0 | Rust compute tools for simulation, optimization, astronomy and physical consist… |
-| 2026-09-30 07:50:23 | [io.github.sarooo17/event-intelligence](https://github.com/sarooo17/event-intelligence) | MCP Event Intelligence | 0.5.0 | MCP-native CEP for durable agents: event-time patterns, semantic predicates, de… |
-| 2026-09-30 08:04:06 | com.marleyfetch/mcp | MarleyFetch | 1.0.0 | Let AI agents send email from your own Gmail, Microsoft 365 or SMTP inbox, with… |
-| 2026-09-30 08:04:07 | cc.placetobe/events | Place to Be | 1.0.0 | What's on in any city: live, ranked concerts, sport, festivals, nightlife and c… |
-| 2026-09-30 08:06:51 | com.seocontentmachine/scm | SEO Content Machine | 1.0.0 | Run SEO Content Machine tasks from an MCP client: scraping, crawls, Google Maps… |
-| 2026-09-30 08:08:41 | [io.github.nirholas/agent-sniper](https://github.com/nirholas/three.ws) | Agent Sniper | 0.1.7 | Self-custodial pump.fun sniper: arm strategies, snipe, manage positions. Simula… |
-| 2026-09-30 08:08:43 | [io.github.nirholas/blender-mcp](https://github.com/nirholas/three.ws) | three.ws Blender | 0.5.0 | Drive a local Blender headlessly: inspect, convert, render and script 3D files. |
-| 2026-09-30 08:08:44 | [io.github.nirholas/herald-mcp](https://github.com/nirholas/three.ws) | three.ws Herald | 0.1.0 | Tell your human in person: a 3D character walks onto their open browser tab and… |
-| 2026-09-30 08:08:46 | [io.github.nirholas/home-mcp](https://github.com/nirholas/three.ws) | three.ws Home | 0.1.0 | Read and safely act on a real Home Assistant house: rooms, live state, scenes,… |
-| 2026-09-30 08:08:47 | [io.github.nirholas/knock-mcp](https://github.com/nirholas/three.ws) | three.ws Knock | 0.1.0 | Reach a real person: quote their door, browse who is reachable, knock, and read… |
-| 2026-09-30 08:17:52 | com.dtmframe/dtmframe | DTMFRAME | 0.1.1 | Read-only data from DTMFRAME (Japan): music-production products, current offers… |
-| 2026-09-30 08:17:58 | app.avatalks/avatalks | AVATALKS | 1.0.0 | AI personas you can talk to: a public arena of speaking, arguing characters, ho… |
-| 2026-09-30 08:19:32 | com.achivx/stablescan | Stablecoin Scanner | 1.2.0 | Stablecoin risk for agents: freezes, OFAC, exposure, allowances, transfers, gra… |
+| 2026-09-30 08:21:27 | com.astranl/counterparty-nl | AstraNL Dutch counterparty check | 1.36.0 | Check a Dutch supplier before you pay: KvK register, name match, VIES VAT, EU s… |
+| 2026-09-30 08:21:54 | com.resollo/agent-api | Resollo Agent API | 2.1.2 | Resollo marketplace: search, seller lookup, offers, orders, draft listings. All… |
+| 2026-09-30 08:22:05 | [io.github.nirholas/paired](https://github.com/nirholas/paired.exchange) | paired.exchange | 0.1.0 | Launch coins quoted in tokenized stocks on Robinhood Chain; the user signs at a… |
+| 2026-09-30 08:23:12 | io.ml-nightworx.studio/catalogue | NTWX Studio catalogue | 1.0.0 | Read-only NTWX Studio catalogue for consumer agents. No checkout. |
+| 2026-09-30 08:23:19 | io.ml-nightworx.aaas/catalogue | NTWX AAAS catalogue | 1.0.0 | Read-only parent catalogue of NTWX live surfaces. No checkout. |
+| 2026-09-30 08:25:37 | [app.apick/web](https://github.com/lead788/apick-mcp) | APICK Web | 1.3.0 | Domain/IP intelligence, web page capture, search and YouTube video data APIs |
+| 2026-09-30 08:25:59 | [ai.oceantoken/mcp](https://github.com/NextFormAI/oceantoken-plugins) | OceanToken | 1.0.0 | 500+ AI models in one account: find and price models, make images, video, speec… |
+| 2026-09-30 08:26:24 | [app.apick/convert](https://github.com/lead788/apick-mcp) | APICK Convert | 1.3.0 | File conversion: PDF, DOCX, STT, asynchronous TTS with MP3/ASS downloads, water… |
+| 2026-09-30 08:27:14 | [app.apick/finance](https://github.com/lead788/apick-mcp) | APICK Finance | 1.2.1 | Korean bank account verification: holder name lookup, 1 KRW deposit, bank codes |
+| 2026-09-30 08:27:49 | [app.apick/ocr](https://github.com/lead788/apick-mcp) | APICK OCR | 1.2.1 | OCR for images and Korean ID documents |
+| 2026-09-30 08:28:13 | [app.apick/vision](https://github.com/lead788/apick-mcp) | APICK Vision | 1.2.1 | Image/video analysis: NSFW detection, object detection, thumbnails |
+| 2026-09-30 08:30:12 | jp.yomitasu/online-instantgakushu-jp | オンライン学習講座 社員教育にも使える | 1.0.1 | オンラインインスタント学習は、資格試験や各種学習に役立つオンライン教材・学習コンテンツを提供するオンライン学…（online.instantgakushu.j… |
+| 2026-09-30 08:30:21 | jp.yomitasu/instant-aigakushu-online | オンライン学習 講座 生成AI IT 資格講座 | 1.0.1 | AI学習・オンライン教材を提供する「インスタント学習」は、資格試験・検定試験・ビジネススキルなどの学習を、イ…（instant.aigakushu.onlin… |
+| 2026-09-30 08:30:47 | [ae.datadubai/dubai-real-estate](https://github.com/datadubai/dubai-real-estate-dld) | Dubai Data — Dubai real estate statisti… | 1.1.0 | Dubai property prices, AED/sqft, sales, rents, yields and projects from DLD reg… |
+| 2026-09-30 08:35:53 | [io.github.ilia-sokolov/officeagent](https://github.com/ilia-sokolov/OfficeAgent.NET) | OfficeAgent.NET | 1.1.0 | Create and edit Word, PowerPoint, and Excel files with typed plans and safe pre… |
+| 2026-09-30 08:37:24 | de.nebenkostenpro/nebenkosten | NebenkostenPro | 1.0.0 | German housing costs: utility costs of 400 cities, property tax rates, housing… |
+| 2026-09-30 08:39:51 | [io.github.oliverhruby/edupage-mcp](https://github.com/oliverhruby/edupage-mcp) | EduPage MCP Server | 0.5.2 | EduPage MCP: timetables, grades, homework, meals, messages, 2FA, multi-school,… |
+| 2026-09-30 08:42:25 | [dev.artisign/artisign](https://github.com/artisign/artisign) | Artisign | 1.1.0 | An artificial artisan for UI design: agents build screens, a design system keep… |
+| 2026-09-30 08:46:08 | [pl.klyo/games](https://github.com/krastranseu-lang/klyo-games-mcp) | klyo games: publish HTML5 browser games | 1.2.0 | Publish, play-test and fix HTML5 browser games from your AI assistant. Own addr… |
+| 2026-09-30 08:53:01 | [io.github.SoWhatI/vaultshell](https://github.com/SoWhatI/vaultshell) |  | 0.1.2 | Injects secrets into shell commands at exec time; plaintext never reaches the L… |
+| 2026-09-30 08:53:08 | ai.payments.managed/payments-ai-mcp |  | 1.19.0 | Launch products and branded checkouts on Payments AI, the Merchant of Record fo… |
+| 2026-09-30 08:54:22 | [com.apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) |  | 0.17.0 | Extract data from any website with thousands of scrapers, crawlers, and automat… |
+| 2026-09-30 09:05:49 | news.basisdesk/mcp | Basis Desk — crypto news & market data | 1.1.0 | Source-verified crypto news, live prices, whale transfers, token safety checks… |
+| 2026-09-30 09:07:05 | [de.analytixus/analytixus-mcp](https://github.com/andyloewen78/analytixus-mcp) | Analytixus | 0.8.3 | Analytixus DnAML repository access (read/write nodes, tree navigation, solution… |
+| 2026-09-30 09:09:48 | com.mytinycrew/crew | MyTinyCrew.com | 1.0.0 | Ready-made AI agents for small businesses: what each one does, prices and how t… |
+| 2026-09-30 09:12:34 | [io.github.mayim-mayim/ln-church-agent-mcp](https://github.com/mayim-mayim/ln-church-agent) | LN Church Agent MCP | 1.18.9 | Inspect-only HTTP 402 surface classifier. Keyless, no wallet, no signing, no pa… |
+| 2026-09-30 09:14:41 | [io.github.ilyautov/inn-check-ru](https://github.com/ilyautov/inn-check-ru) | inn-check-ru | 1.12.3 | Проверка контрагента РФ по ИНН: светофор риска по реестрам, финансы и санкции к… |
+| 2026-09-30 09:17:53 | [dev.bitbybit/cad](https://github.com/bitbybit-dev/bitbybit) | Bitbybit CAD MCP | 1.4.0 | Bitbybit 3D parametric CAD API, version-exact, for coding agents: search, descr… |
+| 2026-09-30 09:18:00 | dev.bitbybit/cad-cloud | Bitbybit CAD Cloud MCP | 1.4.0 | Run 3D CAD operations, pipelines, parametric models and STEP conversions on CAD… |
+| 2026-09-30 09:21:08 | ro.biletelive/mcp | BileteLive.ro | 1.0.0 | Discover public events, ticket inventory, table availability, and booking links… |
 
 ## Data source
 
