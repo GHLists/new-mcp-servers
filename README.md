@@ -9,32 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 04:19 UTC
+## Latest list — 2026-09-30 05:19 UTC
 
-New MCP servers published between 2026-09-30 03:19 UTC and 2026-09-30 04:19 UTC.
+New MCP servers published between 2026-09-30 04:19 UTC and 2026-09-30 05:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-30T04-19-58-052804Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-30T05-19-09-888016Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-30 03:24:51 | [io.github.melavern/api-key-case](https://github.com/melavern/api-key-case) | API Key Case | 0.9.2 | Local MCP tools for secret status and guarded deployment. Values never reach th… |
-| 2026-09-30 03:30:12 | [com.nannykeeper.www/mcp-server](https://github.com/nannykeeper/mcp-server) | NannyKeeper Household Payroll & Taxes | 1.14.1 | Calculate US household employer (nanny) taxes + run payroll via AI agents. All… |
-| 2026-09-30 03:37:48 | com.agenshive/agenshive | Agenshive | 1.0.0 | AI agents post reproducible tests, answer questions and verify each other's res… |
-| 2026-09-30 03:41:57 | [io.lexq/lexq](https://github.com/lexq-io/lexq-cli) | LexQ | 1.0.1 | The Decision Operations Platform for engineering teams |
-| 2026-09-30 03:44:05 | com.talentanvil/talentanvil | TalentAnvil | 1.0.0 | WoW talent builds for every class and spec: valid, importable loadout strings p… |
-| 2026-09-30 03:51:01 | [com.dveracity/semantic-mcp](https://github.com/d-veracity/semantic-mcp) | dVeracity Semantic API | 0.6.1 | Natural-language queries over a verified emissions knowledge graph, plus standa… |
-| 2026-09-30 03:52:09 | kr.co.accountingwiki/accountingwiki | 회계위키 (AccountingWiki) | 1.1.0 | Korean accounting standards (K-IFRS, K-GAAP, audit, ICFR) and official Q&A, cit… |
-| 2026-09-30 03:54:48 | com.skyaccess/skyaccess |  | 1.0.1 | Search live empty leg private jet flights and get charter price estimates. Free… |
-| 2026-09-30 03:55:21 | com.pastefield/mcp | Pastefield | 1.0.0 | Read and edit Pastefield boards: add text, links and images, arrange and connec… |
-| 2026-09-30 03:56:19 | [io.github.zktx-mcp/say-ur-intent](https://github.com/zktx-mcp/say-ur-intent) |  | 0.4.4 | Local-first Sui DeFi evidence and review for AI clients before wallet signing. |
-| 2026-09-30 03:57:25 | [io.github.praveenc/llmstxt-doc-search](https://github.com/praveenc/llmstxt-doc-search) |  | 0.2.0 | BM25 search over llms.txt doc indexes (Strands, Kiro, AWS); sources addable at… |
-| 2026-09-30 04:02:25 | [io.github.simonplmak-cloud/intangible-valuation](https://github.com/simonplmak-cloud/intangible-valuation) | Intangible Asset Valuation MCP Server | 2.0.0 | Intangible asset valuation: 14 tools, 124+ formulas for IP, technology, goodwil… |
-| 2026-09-30 04:03:55 | com.repogates/repogates | RepoGates | 1.0.0 | Trust verdicts on repos, models, VS Code and Docker Desktop extensions and agen… |
-| 2026-09-30 04:12:04 | [io.github.TencentCloudBase/cloudbase-mcp](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) | CloudBase | 2.34.7 | CloudBase MCP: DB, functions, storage, hosting via @cloudbase/cloudbase-mcp |
-| 2026-09-30 04:14:13 | [io.github.slavins-co/cellartracker-mcp](https://github.com/slavins-co/cellartracker-mcp) | CellarTracker | 0.5.1 | Read-only access to your CellarTracker wine cellar: inventory, drinking windows… |
-| 2026-09-30 04:16:36 | [io.github.blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) |  | 0.7.3 | Search arXiv papers, download full text, semantic search, citation graphs, and… |
-| 2026-09-30 04:18:31 | [io.github.pineforge-4pass/pineforge-backtest-mcp](https://github.com/pineforge-4pass/pineforge-backtest-mcp) | PineForge — offline PineScript v6 backt… | 0.9.32 | Offline PineScript v6 → C++ backtests at deterministic TradingView parity, run… |
-| 2026-09-30 04:19:58 | [com.sourcey/sourcey](https://github.com/sourcey/mcp-server) | Sourcey | 1.3.0 | Find and compare startup credits and deals with eligibility checks and exact ev… |
+| 2026-09-30 04:20:22 | [io.github.eltociear/skill-audit-mcp](https://github.com/eltociear/skill-audit-mcp) |  | 1.2.0 | MCP server: static security scanner for MCP servers, agent skills & plugins. 17… |
+| 2026-09-30 04:24:32 | com.wontopos/mcp |  | 1.0.21 | Wontopos (WOS) long-term memory - one memory across Claude Code, Cursor, and yo… |
+| 2026-09-30 04:24:36 | [io.github.pratham-jain33/security-mcp](https://github.com/pratham-jain33/security-mcp) | Security MCP | 0.1.1 | Zero-key security toolkit: grade sites A+ to F, check CVE exploits, plain-Engli… |
+| 2026-09-30 04:28:27 | science.supp/suppscience |  | 1.1.0 | 993 evidence-graded supplements: claims, doses, safety, interactions, FAQ, PubM… |
+| 2026-09-30 04:30:50 | [io.github.nolindnaidoo/colors-le](https://github.com/nolindnaidoo/colors-le) | Colors-LE | 2.3.1 | Extract colors from stylesheets and code, with their notation and position. |
+| 2026-09-30 04:30:51 | [io.github.nolindnaidoo/dates-le](https://github.com/nolindnaidoo/dates-le) | Dates-LE | 2.3.1 | Extract dates and timestamps from logs, data files and code, with their format… |
+| 2026-09-30 04:30:52 | [io.github.nolindnaidoo/envsync-le](https://github.com/nolindnaidoo/envsync-le) | EnvSync-LE | 2.2.6 | Compare dotenv files and report which keys are missing or extra, by name only. |
+| 2026-09-30 04:30:53 | [io.github.nolindnaidoo/numbers-le](https://github.com/nolindnaidoo/numbers-le) | Numbers-LE | 2.3.1 | Extract numeric values from config files, data files and plain text. |
+| 2026-09-30 04:30:54 | [io.github.nolindnaidoo/paths-le](https://github.com/nolindnaidoo/paths-le) | Paths-LE | 2.3.2 | Extract file and directory paths from config files and code, with their kind an… |
+| 2026-09-30 04:30:54 | [io.github.nolindnaidoo/regex-le](https://github.com/nolindnaidoo/regex-le) | Regex-LE | 2.4.0 | Extract regular expressions from code, each with a ReDoS safety verdict. |
+| 2026-09-30 04:30:55 | [io.github.nolindnaidoo/scrape-le](https://github.com/nolindnaidoo/scrape-le) | Scrape-LE | 2.2.6 | Analyse robots.txt content and report whether a path may be crawled. |
+| 2026-09-30 04:30:56 | [io.github.nolindnaidoo/secrets-le](https://github.com/nolindnaidoo/secrets-le) | Secrets-LE | 2.3.1 | Detect hardcoded secrets in source and config. Reports masked previews, never t… |
+| 2026-09-30 04:30:56 | [io.github.nolindnaidoo/string-le](https://github.com/nolindnaidoo/string-le) | Strings-LE | 2.3.1 | Extract string values from config files, data files and plain text. |
+| 2026-09-30 04:30:58 | [io.github.nolindnaidoo/urls-le](https://github.com/nolindnaidoo/urls-le) | URLs-LE | 2.3.1 | Extract URLs from documentation, configuration and code, with their protocol an… |
+| 2026-09-30 04:35:10 | [io.github.JOJO-Adam/stemem](https://github.com/JOJO-Adam/Stemem) | Stemem Identity Runtime | 0.1.0 | Local-first agent persona runtime (MCP): cross-session personality that survive… |
+| 2026-09-30 04:35:29 | [io.github.oddsflowai-team/4dlivetoday](https://github.com/oddsflowai-team/4dlivetoday-mcp) | 4D Results (Malaysia, Singapore, Cambod… | 1.0.0 | Official 4D lottery results and draw history for Malaysia, Singapore and Cambod… |
+| 2026-09-30 04:50:44 | [jp.avacast/avacast](https://github.com/aruimiura/avacast) | avacast | 1.1.0 | 写真から作ったアバターをリアルタイムに喋らせる API (日本製)。会話の開始・発話・利用状況を tool で扱う。API キーは管理画面で発行 |
+| 2026-09-30 04:53:48 | net.domandata/domandata | Domandata | 1.0.0 | Build, preview, deploy and export academic surveys: blocks, flow logic, experim… |
+| 2026-09-30 04:58:52 | [ai.bithuman/docs](https://github.com/bithuman-product/public-docs) | bitHuman docs | 1.0.0 | The bitHuman docs over MCP: two read-only tools, search and fetch; it needs no… |
+| 2026-09-30 05:06:24 | [sh.watermelon/ui](https://github.com/WatermelonCorp/watermelon-platform) | Watermelon UI | 2.0.0 | Search free React, Tailwind, and shadcn components, blocks, and dashboards; get… |
+| 2026-09-30 05:11:13 | [io.github.miduo100/agent-virtual-world](https://github.com/miduo100/agent-virtual-world) |  | 0.1.1 | AI enters a live multiplayer 3D world as a visible avatar: walk, talk to real p… |
+| 2026-09-30 05:12:35 | [io.github.kiddhu/seekapi](https://github.com/kiddhu/aion-governance) | SeekAPI China Supply Check | 0.1.4 | China supplier candidates: observed price, MOQ and spec evidence. Free draft; p… |
+| 2026-09-30 05:13:44 | app.rowb.catchlog/logbook | Catch Log — fishing logbook with an MCP… | 1.0.0 | A fishing catch logbook: record catches with date, location, species and condit… |
+| 2026-09-30 05:14:47 | [io.github.stackql/stackql-mcp](https://github.com/stackql/stackql) | StackQL MCP Server | 0.12.732 | SQL-native query and provisioning engine for cloud infrastructure, served over… |
+| 2026-09-30 05:15:02 | app.rowb.mcp-scan/weekly | MCP Scan — weekly registry health scans | 1.0.0 | Weekly scans of MCP servers for availability and consistency, with a public das… |
 
 ## Data source
 

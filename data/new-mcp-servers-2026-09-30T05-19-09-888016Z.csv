@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-09-30T04:20:22.298489Z,io.github.eltociear/skill-audit-mcp,,1.2.0,https://github.com/eltociear/skill-audit-mcp,streamable-http,"MCP server: static security scanner for MCP servers, agent skills & plugins. 17 attack patterns."
+2026-09-30T04:24:32.822852Z,com.wontopos/mcp,,1.0.21,,,"Wontopos (WOS) long-term memory - one memory across Claude Code, Cursor, and your agents."
+2026-09-30T04:24:36.739635Z,io.github.pratham-jain33/security-mcp,Security MCP,0.1.1,https://github.com/pratham-jain33/security-mcp,,"Zero-key security toolkit: grade sites A+ to F, check CVE exploits, plain-English attack defenses"
+2026-09-30T04:28:27.573058Z,science.supp/suppscience,,1.1.0,,streamable-http,"993 evidence-graded supplements: claims, doses, safety, interactions, FAQ, PubMed refs. 5 languages"
+2026-09-30T04:30:50.780459Z,io.github.nolindnaidoo/colors-le,Colors-LE,2.3.1,https://github.com/nolindnaidoo/colors-le,,"Extract colors from stylesheets and code, with their notation and position."
+2026-09-30T04:30:51.71622Z,io.github.nolindnaidoo/dates-le,Dates-LE,2.3.1,https://github.com/nolindnaidoo/dates-le,,"Extract dates and timestamps from logs, data files and code, with their format and position."
+2026-09-30T04:30:52.770081Z,io.github.nolindnaidoo/envsync-le,EnvSync-LE,2.2.6,https://github.com/nolindnaidoo/envsync-le,,"Compare dotenv files and report which keys are missing or extra, by name only."
+2026-09-30T04:30:53.512488Z,io.github.nolindnaidoo/numbers-le,Numbers-LE,2.3.1,https://github.com/nolindnaidoo/numbers-le,,"Extract numeric values from config files, data files and plain text."
+2026-09-30T04:30:54.020331Z,io.github.nolindnaidoo/paths-le,Paths-LE,2.3.2,https://github.com/nolindnaidoo/paths-le,,"Extract file and directory paths from config files and code, with their kind and position."
+2026-09-30T04:30:54.818511Z,io.github.nolindnaidoo/regex-le,Regex-LE,2.4.0,https://github.com/nolindnaidoo/regex-le,,"Extract regular expressions from code, each with a ReDoS safety verdict."
+2026-09-30T04:30:55.648502Z,io.github.nolindnaidoo/scrape-le,Scrape-LE,2.2.6,https://github.com/nolindnaidoo/scrape-le,,Analyse robots.txt content and report whether a path may be crawled.
+2026-09-30T04:30:56.216768Z,io.github.nolindnaidoo/secrets-le,Secrets-LE,2.3.1,https://github.com/nolindnaidoo/secrets-le,,"Detect hardcoded secrets in source and config. Reports masked previews, never the values."
+2026-09-30T04:30:56.915119Z,io.github.nolindnaidoo/string-le,Strings-LE,2.3.1,https://github.com/nolindnaidoo/string-le,,"Extract string values from config files, data files and plain text."
+2026-09-30T04:30:58.213112Z,io.github.nolindnaidoo/urls-le,URLs-LE,2.3.1,https://github.com/nolindnaidoo/urls-le,,"Extract URLs from documentation, configuration and code, with their protocol and position."
+2026-09-30T04:35:10.411738Z,io.github.JOJO-Adam/stemem,Stemem Identity Runtime,0.1.0,https://github.com/JOJO-Adam/Stemem,,Local-first agent persona runtime (MCP): cross-session personality that survives compaction.
+2026-09-30T04:35:29.239569Z,io.github.oddsflowai-team/4dlivetoday,"4D Results (Malaysia, Singapore, Cambodia)",1.0.0,https://github.com/oddsflowai-team/4dlivetoday-mcp,streamable-http,"Official 4D lottery results and draw history for Malaysia, Singapore and Cambodia. Results only."
+2026-09-30T04:50:44.121923Z,jp.avacast/avacast,avacast,1.1.0,https://github.com/aruimiura/avacast,streamable-http,写真から作ったアバターをリアルタイムに喋らせる API (日本製)。会話の開始・発話・利用状況を tool で扱う。API キーは管理画面で発行
+2026-09-30T04:53:48.52481Z,net.domandata/domandata,Domandata,1.0.0,,streamable-http,"Build, preview, deploy and export academic surveys: blocks, flow logic, experiments, quotas, data."
+2026-09-30T04:58:52.062952Z,ai.bithuman/docs,bitHuman docs,1.0.0,https://github.com/bithuman-product/public-docs,streamable-http,"The bitHuman docs over MCP: two read-only tools, search and fetch; it needs no account and no key."
+2026-09-30T05:06:24.655102Z,sh.watermelon/ui,Watermelon UI,2.0.0,https://github.com/WatermelonCorp/watermelon-platform,streamable-http,"Search free React, Tailwind, and shadcn components, blocks, and dashboards; get installable source."
+2026-09-30T05:11:13.606168Z,io.github.miduo100/agent-virtual-world,,0.1.1,https://github.com/miduo100/agent-virtual-world,,"AI enters a live multiplayer 3D world as a visible avatar: walk, talk to real players, and be seen."
+2026-09-30T05:12:35.601974Z,io.github.kiddhu/seekapi,SeekAPI China Supply Check,0.1.4,https://github.com/kiddhu/aion-governance,streamable-http,"China supplier candidates: observed price, MOQ and spec evidence. Free draft; paid check closed."
+2026-09-30T05:13:44.187969Z,app.rowb.catchlog/logbook,Catch Log — fishing logbook with an MCP endpoint,1.0.0,,streamable-http,"A fishing catch logbook: record catches with date, location, species and conditions via MCP."
+2026-09-30T05:14:47.185046Z,io.github.stackql/stackql-mcp,StackQL MCP Server,0.12.732,https://github.com/stackql/stackql,,"SQL-native query and provisioning engine for cloud infrastructure, served over MCP."
+2026-09-30T05:15:02.655517Z,app.rowb.mcp-scan/weekly,MCP Scan — weekly registry health scans,1.0.0,,streamable-http,"Weekly scans of MCP servers for availability and consistency, with a public dashboard."
