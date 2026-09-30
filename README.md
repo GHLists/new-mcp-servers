@@ -9,40 +9,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 03:19 UTC
+## Latest list — 2026-09-30 04:19 UTC
 
-New MCP servers published between 2026-09-30 02:22 UTC and 2026-09-30 03:19 UTC.
+New MCP servers published between 2026-09-30 03:19 UTC and 2026-09-30 04:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-30T03-19-08-317004Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-30T04-19-58-052804Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-30 02:22:40 | [io.github.industrial-platform-ai/article-extractor](https://github.com/industrial-platform-ai/industrial-platform-agent-tools) | Article Content Extractor for AI Agents | 1.0.0 | Extract clean article body text and metadata for RAG, research, and AI agents. |
-| 2026-09-30 02:22:43 | [io.github.industrial-platform-ai/pdf-text](https://github.com/industrial-platform-ai/industrial-platform-agent-tools) | PDF Text Extractor for AI Agents | 1.0.0 | Extract text, page text, and metadata from public PDFs for AI agents and RAG. |
-| 2026-09-30 02:22:44 | [io.github.industrial-platform-ai/research-brief](https://github.com/industrial-platform-ai/industrial-platform-agent-tools) | AI Web Research & Research Brief Agent | 1.0.0 | Current cited web research and comparison briefs for autonomous AI agents. |
-| 2026-09-30 02:22:45 | [io.github.industrial-platform-ai/sitemap](https://github.com/industrial-platform-ai/industrial-platform-agent-tools) | Sitemap URL Extractor for AI Agents | 1.0.0 | Discover sitemaps and emit deduplicated crawl URLs with sitemap metadata. |
-| 2026-09-30 02:22:46 | [io.github.industrial-platform-ai/web-change](https://github.com/industrial-platform-ai/industrial-platform-agent-tools) | Website Change Detector & Diff API | 1.0.0 | Detect changed or unchanged web content and deterministic diffs for AI agents. |
-| 2026-09-30 02:22:47 | [io.github.industrial-platform-ai/web-metadata](https://github.com/industrial-platform-ai/industrial-platform-agent-tools) | Web Metadata Extractor for AI Agents | 1.0.0 | Extract page metadata, Open Graph, JSON-LD, canonical, robots, and headings. |
-| 2026-09-30 02:25:17 | [io.github.kieransimkin/stemlab](https://github.com/kieransimkin/stemlab) | StemLab — timing and loops for Shorts | 1.1.1 | Audio timing and loopable section analysis for music, Shorts, and short-form vi… |
-| 2026-09-30 02:26:01 | [io.github.ianderso/familysearch-mcp](https://github.com/ianderso/familysearch-mcp) | FamilySearch | 1.0.0 | Genealogical research on FamilySearch: historical places, indexed records, page… |
-| 2026-09-30 02:27:45 | [io.github.fuckbigtech-ai/homestead-memory](https://github.com/fuckbigtech-ai/homestead-memory) | Homestead Memory | 0.5.1 | Tamper-evident record of what your AI agent did, plus local-first verifiable me… |
-| 2026-09-30 02:36:18 | us.spacenexus/spacenexus | SpaceNexus space data | 1.1.0 | Read-only space industry data: launches, slips, funding, companies, space weath… |
-| 2026-09-30 02:36:24 | [io.github.alyiox/mcp-walmart-ads](https://github.com/alyiox/mcp-walmart-ads) | Walmart & Sam's Club APIs | 0.5.1 | MCP server for Walmart Connect Ads, Sam's Club Sponsored Ads, and Walmart Marke… |
-| 2026-09-30 02:36:30 | [io.github.YawLabs/aws-mcp](https://github.com/YawLabs/aws-mcp) | Yaw Labs AWS MCP | 2.5.1 | AWS MCP server — call any AWS API from AI assistants, with first-class SSO re-l… |
-| 2026-09-30 02:40:26 | io.github.DaveSchuman/mekler-discovery | Mekler Agent Service Discovery | 0.1.0 | Discover paid CSV and spec validation, citation overlap, and web page extractio… |
-| 2026-09-30 02:40:29 | jp.calil/library | カーリル for AI | 2026.4 | Search 7,400+ libraries across Japan, find which one holds a book, and browse N… |
-| 2026-09-30 02:41:44 | com.anywayr/anywayr | Anywayr | 1.0.0 | Plan trips, search hotels and flights, get exact quotes and check out on Anyway… |
-| 2026-09-30 02:46:16 | io.github.oagotus-droid/the-continental-api | The Continental | 1.5.0 | Portable client-sealed memory and private rooms for agents from any lab; a free… |
-| 2026-09-30 02:46:19 | com.sitecomb/check-website | Sitecomb | 1.0.0 | A digital audit for small-business websites: a score out of 100 and the main pr… |
-| 2026-09-30 02:46:21 | world.unclick/mcp-server | UnClick | 0.3.135 | 669 apps and 1599 actions for any MCP agent, plus cross-session memory and QA p… |
-| 2026-09-30 02:47:05 | [io.sanity.www/mcp](https://github.com/sanity-io/agent-toolkit) | Sanity | 2.37.0 | Direct access to your Sanity projects (content, datasets, releases, schemas) an… |
-| 2026-09-30 03:06:14 | ai.weio/site-check | Weio site check | 1.0.0 | Check if a website's HTTPS certificate works or browsers show a privacy warning… |
-| 2026-09-30 03:07:31 | com.honestysupport/support | Honesty Support | 1.0.0 | Remote IT from a person. Agents read the price, open a task, and pay by card or… |
-| 2026-09-30 03:08:07 | [io.github.joinwell52-AI/fcop](https://github.com/joinwell52-AI/FCoP) |  | 4.0.5 | FCoP Core adapter with 25 canonical tools and 6 read-only resources for durable… |
-| 2026-09-30 03:11:32 | ai.mekler/agent-discovery | Mekler Agent Service Discovery | 0.1.0 | Discover paid CSV and spec validation, citation overlap, and web page extractio… |
-| 2026-09-30 03:13:59 | com.amplerun/gpu-rentals | AmpleRun GPU rentals | 0.1.1 | Find, price, rent and stop GPUs on AmpleRun. Paid in USDC or USDT on Base. Flat… |
-| 2026-09-30 03:16:16 | [io.github.industrial-platform-ai/link-extractor](https://github.com/industrial-platform-ai/industrial-platform-agent-tools) | Link Extractor for AI Agents | 1.0.0 | x402 structured link extraction for agents. $0.0005 per successfully processed… |
-| 2026-09-30 03:18:09 | [com.synapseconnexion.www/confirme](https://github.com/francistremblay30-netizen/confirme) | Confirme, by Synapse | 1.0.0 | Did it really happen? Independent signed receipts for AI agents: page, domain,… |
+| 2026-09-30 03:24:51 | [io.github.melavern/api-key-case](https://github.com/melavern/api-key-case) | API Key Case | 0.9.2 | Local MCP tools for secret status and guarded deployment. Values never reach th… |
+| 2026-09-30 03:30:12 | [com.nannykeeper.www/mcp-server](https://github.com/nannykeeper/mcp-server) | NannyKeeper Household Payroll & Taxes | 1.14.1 | Calculate US household employer (nanny) taxes + run payroll via AI agents. All… |
+| 2026-09-30 03:37:48 | com.agenshive/agenshive | Agenshive | 1.0.0 | AI agents post reproducible tests, answer questions and verify each other's res… |
+| 2026-09-30 03:41:57 | [io.lexq/lexq](https://github.com/lexq-io/lexq-cli) | LexQ | 1.0.1 | The Decision Operations Platform for engineering teams |
+| 2026-09-30 03:44:05 | com.talentanvil/talentanvil | TalentAnvil | 1.0.0 | WoW talent builds for every class and spec: valid, importable loadout strings p… |
+| 2026-09-30 03:51:01 | [com.dveracity/semantic-mcp](https://github.com/d-veracity/semantic-mcp) | dVeracity Semantic API | 0.6.1 | Natural-language queries over a verified emissions knowledge graph, plus standa… |
+| 2026-09-30 03:52:09 | kr.co.accountingwiki/accountingwiki | 회계위키 (AccountingWiki) | 1.1.0 | Korean accounting standards (K-IFRS, K-GAAP, audit, ICFR) and official Q&A, cit… |
+| 2026-09-30 03:54:48 | com.skyaccess/skyaccess |  | 1.0.1 | Search live empty leg private jet flights and get charter price estimates. Free… |
+| 2026-09-30 03:55:21 | com.pastefield/mcp | Pastefield | 1.0.0 | Read and edit Pastefield boards: add text, links and images, arrange and connec… |
+| 2026-09-30 03:56:19 | [io.github.zktx-mcp/say-ur-intent](https://github.com/zktx-mcp/say-ur-intent) |  | 0.4.4 | Local-first Sui DeFi evidence and review for AI clients before wallet signing. |
+| 2026-09-30 03:57:25 | [io.github.praveenc/llmstxt-doc-search](https://github.com/praveenc/llmstxt-doc-search) |  | 0.2.0 | BM25 search over llms.txt doc indexes (Strands, Kiro, AWS); sources addable at… |
+| 2026-09-30 04:02:25 | [io.github.simonplmak-cloud/intangible-valuation](https://github.com/simonplmak-cloud/intangible-valuation) | Intangible Asset Valuation MCP Server | 2.0.0 | Intangible asset valuation: 14 tools, 124+ formulas for IP, technology, goodwil… |
+| 2026-09-30 04:03:55 | com.repogates/repogates | RepoGates | 1.0.0 | Trust verdicts on repos, models, VS Code and Docker Desktop extensions and agen… |
+| 2026-09-30 04:12:04 | [io.github.TencentCloudBase/cloudbase-mcp](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) | CloudBase | 2.34.7 | CloudBase MCP: DB, functions, storage, hosting via @cloudbase/cloudbase-mcp |
+| 2026-09-30 04:14:13 | [io.github.slavins-co/cellartracker-mcp](https://github.com/slavins-co/cellartracker-mcp) | CellarTracker | 0.5.1 | Read-only access to your CellarTracker wine cellar: inventory, drinking windows… |
+| 2026-09-30 04:16:36 | [io.github.blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) |  | 0.7.3 | Search arXiv papers, download full text, semantic search, citation graphs, and… |
+| 2026-09-30 04:18:31 | [io.github.pineforge-4pass/pineforge-backtest-mcp](https://github.com/pineforge-4pass/pineforge-backtest-mcp) | PineForge — offline PineScript v6 backt… | 0.9.32 | Offline PineScript v6 → C++ backtests at deterministic TradingView parity, run… |
+| 2026-09-30 04:19:58 | [com.sourcey/sourcey](https://github.com/sourcey/mcp-server) | Sourcey | 1.3.0 | Find and compare startup credits and deals with eligibility checks and exact ev… |
 
 ## Data source
 

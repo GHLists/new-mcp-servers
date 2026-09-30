@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-09-30T03:24:51.593907Z,io.github.melavern/api-key-case,API Key Case,0.9.2,https://github.com/melavern/api-key-case,,Local MCP tools for secret status and guarded deployment. Values never reach the agent.
+2026-09-30T03:30:12.885148Z,com.nannykeeper.www/mcp-server,NannyKeeper Household Payroll & Taxes,1.14.1,https://github.com/nannykeeper/mcp-server,,Calculate US household employer (nanny) taxes + run payroll via AI agents. All 50 states.
+2026-09-30T03:37:48.471038Z,com.agenshive/agenshive,Agenshive,1.0.0,,streamable-http,"AI agents post reproducible tests, answer questions and verify each other's results."
+2026-09-30T03:41:57.785571Z,io.lexq/lexq,LexQ,1.0.1,https://github.com/lexq-io/lexq-cli,streamable-http,The Decision Operations Platform for engineering teams
+2026-09-30T03:44:05.953755Z,com.talentanvil/talentanvil,TalentAnvil,1.0.0,,streamable-http,"WoW talent builds for every class and spec: valid, importable loadout strings plus popular builds."
+2026-09-30T03:51:01.263326Z,com.dveracity/semantic-mcp,dVeracity Semantic API,0.6.1,https://github.com/d-veracity/semantic-mcp,streamable-http,"Natural-language queries over a verified emissions knowledge graph, plus standards validation"
+2026-09-30T03:52:09.886156Z,kr.co.accountingwiki/accountingwiki,회계위키 (AccountingWiki),1.1.0,,streamable-http,"Korean accounting standards (K-IFRS, K-GAAP, audit, ICFR) and official Q&A, cited by paragraph."
+2026-09-30T03:54:48.958799Z,com.skyaccess/skyaccess,,1.0.1,,streamable-http,"Search live empty leg private jet flights and get charter price estimates. Free, no API key."
+2026-09-30T03:55:21.740242Z,com.pastefield/mcp,Pastefield,1.0.0,,streamable-http,"Read and edit Pastefield boards: add text, links and images, arrange and connect cards."
+2026-09-30T03:56:19.412827Z,io.github.zktx-mcp/say-ur-intent,,0.4.4,https://github.com/zktx-mcp/say-ur-intent,,Local-first Sui DeFi evidence and review for AI clients before wallet signing.
+2026-09-30T03:57:25.117637Z,io.github.praveenc/llmstxt-doc-search,,0.2.0,https://github.com/praveenc/llmstxt-doc-search,,"BM25 search over llms.txt doc indexes (Strands, Kiro, AWS); sources addable at runtime."
+2026-09-30T04:02:25.170001Z,io.github.simonplmak-cloud/intangible-valuation,Intangible Asset Valuation MCP Server,2.0.0,https://github.com/simonplmak-cloud/intangible-valuation,streamable-http,"Intangible asset valuation: 14 tools, 124+ formulas for IP, technology, goodwill, PPA, impairment."
+2026-09-30T04:03:55.326868Z,com.repogates/repogates,RepoGates,1.0.0,,streamable-http,"Trust verdicts on repos, models, VS Code and Docker Desktop extensions and agent skills."
+2026-09-30T04:12:04.369367Z,io.github.TencentCloudBase/cloudbase-mcp,CloudBase,2.34.7,https://github.com/TencentCloudBase/CloudBase-AI-Toolkit,streamable-http; streamable-http,"CloudBase MCP: DB, functions, storage, hosting via @cloudbase/cloudbase-mcp"
+2026-09-30T04:14:13.133095Z,io.github.slavins-co/cellartracker-mcp,CellarTracker,0.5.1,https://github.com/slavins-co/cellartracker-mcp,,"Read-only access to your CellarTracker wine cellar: inventory, drinking windows, purchases, notes."
+2026-09-30T04:16:36.134657Z,io.github.blazickjp/arxiv-mcp-server,,0.7.3,https://github.com/blazickjp/arxiv-mcp-server,,"Search arXiv papers, download full text, semantic search, citation graphs, and alerts via MCP."
+2026-09-30T04:18:31.86657Z,io.github.pineforge-4pass/pineforge-backtest-mcp,PineForge — offline PineScript v6 backtest MCP,0.9.32,https://github.com/pineforge-4pass/pineforge-backtest-mcp,,"Offline PineScript v6 → C++ backtests at deterministic TradingView parity, run locally via MCP."
+2026-09-30T04:19:58.027065Z,com.sourcey/sourcey,Sourcey,1.3.0,https://github.com/sourcey/mcp-server,streamable-http,Find and compare startup credits and deals with eligibility checks and exact evidence.
