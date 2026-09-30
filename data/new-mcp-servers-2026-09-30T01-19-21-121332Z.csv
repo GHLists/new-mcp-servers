@@ -1,0 +1,14 @@
+created_at,server,title,version,repository,transports,description
+2026-09-30T00:25:28.356035Z,io.github.lupingQAQ/ntobjmanager-mcp,,1.0.0,https://github.com/lupingQAQ/ntobjmanager-mcp,,Stateful Windows RPC attack-surface research for AI agents: 22 tools on NtObjectManager.
+2026-09-30T00:34:08.15725Z,io.ecfr/ecfr,eCFR.io Federal Regulations,1.0.0,https://github.com/lrehmann/ecfr-mcp,streamable-http,Search and read US federal regulations with legal and inline citations linking to ecfr.io.
+2026-09-30T00:43:20.899411Z,dev.workers.agent-utilities.agent-utilities/agent-utilities,Agent Utilities Hosted,1.7.0,,streamable-http,"Wikipedia reading, page text and links for AI agents. Free trials; paid calls from $0.0003."
+2026-09-30T00:46:24.43469Z,com.fplcopilot/fpl-copilot,FPL Copilot,1.0.0,,streamable-http,"Fantasy Premier League expected points, team ratings, captaincy and mini-league win chances."
+2026-09-30T00:49:38.814932Z,video.arclight.download/consegna,Consegna.video,1.1.0,,streamable-http,"Client portal for video studios: clients, projects, steps, quotes, call sheets, travel log."
+2026-09-30T00:50:19.787687Z,io.github.williansaez/abap-adt-mcp,,2.1.1,https://github.com/williansaez/abap-adt-mcp,,"ABAP development from Claude and other MCP hosts: source, transports, tests, ATC, debugger"
+2026-09-30T00:54:17.984917Z,io.github.chrischall/freshbooks-mcp,,1.1.2,https://github.com/chrischall/freshbooks-mcp,,"FreshBooks invoicing for Claude — invoices, clients, estimates, and payments"
+2026-09-30T00:57:39.433288Z,social.deploy/mcp,deploy.social,1.0.0,,streamable-http,"Post a video once to YouTube Shorts, Instagram/Facebook Reels, TikTok, Threads, X and Bluesky"
+2026-09-30T01:05:15.894813Z,io.github.mpalermiti/outlook-mcp,Outlook MCP,1.22.1,https://github.com/mpalermiti/outlook-mcp,,"Microsoft Outlook personal accounts: mail, calendar, contacts, to-do, drafts (62 tools)."
+2026-09-30T01:05:51.515958Z,com.myboatguru/boat-advisor,MyBoatGuru Boat Advisor,1.0.0,,streamable-http,"Recommends boat types based on use, water, budget, crew size, and ownership preferences."
+2026-09-30T01:09:01.502748Z,io.github.miracleweasel/katto-mcp,,0.5.9,https://github.com/miracleweasel/katto-mcp,,"AI video clipping MCP: long videos and podcasts into scored, captioned 9:16 shorts."
+2026-09-30T01:10:56.939327Z,co.thinair/geo,,2.2.2,,streamable-http,"Geocoding, routing, isochrones, traffic, weather, and place search for AI agents. 19 MCP tools."
+2026-09-30T01:10:59.46427Z,co.thinair/data,,2.2.1,,streamable-http,"PostgreSQL, MySQL, and SQL Server in one session. 26 read-only MCP tools for AI agents."
