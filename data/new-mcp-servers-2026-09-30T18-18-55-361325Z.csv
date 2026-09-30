@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-09-30T17:28:29.720473Z,io.github.kumoproductions/mcp-cinema4d,,0.5.0,https://github.com/kumoproductions/mcp-cinema4d,,"MCP server for Cinema 4D — entity CRUD, parameter-level access, batched undo, security controls."
+2026-09-30T17:28:40.435553Z,com.bigdata/bigdata-mcp,Bigdata.com,1.2.1,https://github.com/Bigdata-com/bigdata-plugins-marketplace,streamable-http,"Licensed, cited financial data for AI agents: news, filings, transcripts, research and tearsheets."
+2026-09-30T17:28:59.566324Z,ru.scanbase/scanbase,,1.1.0,,,"Website compliance checks for Russian personal data law 152-FZ: score, violations, fix instructions."
+2026-09-30T17:31:25.895783Z,io.github.redpine-ai/redpine-connect,Redpine Connect,1.0.0,,streamable-http,"Full-text licensed and open-access research, cited to its source. Publishers are paid per use."
+2026-09-30T17:32:12.379065Z,io.github.t3ratech/market-pulse,,0.10.0,https://github.com/t3ratech/t3rnel,streamable-http,"Evidence index for AI agent work — lane grades, evidence, jobs"
+2026-09-30T17:32:19.359544Z,net.myopl/pickleball-public-knowledge,MYOPL Pickleball Public Knowledge,1.0.0,,streamable-http,"Pickleball rules, MYOPL help, public ratings, and court, club and open play discovery."
+2026-09-30T17:34:43.42113Z,app.apick/ai,APICK AI,3.4.0,https://github.com/lead788/apick-mcp,streamable-http,"LLM chat, text tools, image generation, editing, batch image jobs, and asynchronous video generation"
+2026-09-30T17:37:09.041718Z,io.github.Neschadin/askell-mcp,Askell,0.4.18,https://github.com/Neschadin/askell-mcp,,MCP server for the Askell payment and subscription API (Bun + stdio)
+2026-09-30T17:37:49.527927Z,com.beachvalencia/booking,,1.1.0,,streamable-http,"Beach Valencia holiday apartments (Valencia, Spain): availability, pricing, cancellation policy."
+2026-09-30T17:38:39.189716Z,io.github.AnshumanAtrey/ashby-jobs-search,"Ashby Jobs Scraper & API - All Companies, Remote, Last 24 Hours",1.0.1,https://github.com/AnshumanAtrey/ashby-jobs-search,streamable-http,Ashby Jobs Scraper - Search Every Ashby Job Board
+2026-09-30T17:38:49.283537Z,io.github.JHarp199345/s-bike-hub,S-Bike Training Hub,1.0.0,https://github.com/JHarp199345/S-Bike-Training-Hub,,"Coach from a local smart-bike hub: check-ins, plans, rides, workouts, bike/run/swim load."
+2026-09-30T17:42:38.888225Z,com.8b/ai-website-builder,8B AI Website Builder,0.3.0,,streamable-http,"Make a website with 8B from chat: live animated preview, edits in plain words, HTML download"
+2026-09-30T17:46:03.591563Z,io.github.eralpozcan/vision-squeezer,,0.6.2,https://github.com/eralpozcan/vision-squeezer,,"Cut vision-LLM token costs by snapping images to tile boundaries — Claude, GPT, Gemini, Llama, Qwen"
+2026-09-30T17:47:51.726847Z,br.com.loqal/loqal,Loqal,1.0.0,,streamable-http,"Profissionais de serviços locais no Brasil: encanador, eletricista, diarista e +270 tipos"
+2026-09-30T17:57:32.329998Z,uz.pactum/legal,Pactum — legal services in Uzbekistan,1.0.0,,streamable-http,"Uzbekistan legal services: find services, read Uzbek law, request a lawyer's quote."
+2026-09-30T18:01:02.340164Z,cc.sendhq/sendhq,SendHQ,1.0.0,,streamable-http,"Send and receive email from your verified domains; manage domains, templates and deliverability."
+2026-09-30T18:01:12.317332Z,com.auravms/auravms,AuraVMS,1.0.0,,streamable-http,"Procurement: manage suppliers, send RFQs, compare supplier quotes and place purchase orders."
+2026-09-30T18:01:20.530988Z,com.aifordatabase/aifordatabase,AI for Database,1.0.0,,streamable-http,"Ask your databases questions in plain English, run read-only SQL and set up data alerts."
+2026-09-30T18:01:33.043657Z,com.jobfinder-ai/jobfinder,JobFinder,1.0.0,,streamable-http,"Review job matches, read drafted outreach, approve or reject applications and track replies."
+2026-09-30T18:03:36.332814Z,org.freetts/mcp,FreeTTS,1.0.0,https://github.com/freetts/mcp,streamable-http,Text to speech in 149 languages: MP3 links from any assistant. Free without an account.
+2026-09-30T18:06:27.487289Z,io.github.cyanheads/faostat-mcp-server,,0.2.5,https://github.com/cyanheads/faostat-mcp-server,streamable-http,"UN FAOSTAT global food & agriculture statistics over a local SQLite mirror, via MCP."
+2026-09-30T18:06:51.324783Z,io.github.layerzlabs/layerz,Layerz,0.4.0,,streamable-http,"Structured financial modeling for AI agents: build, version, audit models, export to Excel."
+2026-09-30T18:07:15.824781Z,io.chorusresearch/chorus,Chorus Research,1.0.0,,streamable-http,"Create surveys, launch them to real human respondents, and read the responses."
+2026-09-30T18:07:39.978634Z,com.x402-agent-pay/facilitator,AgentPay x402 Facilitator,1.0.0,,streamable-http,Verify signed x402 payments; treasury-scoped settlement is irreversible.
+2026-09-30T18:07:54.03674Z,app.threads-mcp/threads,Threads for Claude,0.1.0,,streamable-http,"Publish, reply, moderate, search and read insights on your Threads (threads.com) account."
+2026-09-30T18:08:31.143228Z,io.github.4hmetuyar/elicitation-auditor,,0.1.1,https://github.com/GuardBee/guardbee-mcp,,"MCP elicitation anti-patterns: secrets in forms, third-party authorize URLs, credentials in URLs"
+2026-09-30T18:09:33.644834Z,io.github.claymore666/ccu-mcp,,1.11.3,https://github.com/claymore666/ccu-mcp,,MCP server for controlling HomeMatic smart home devices via the CCU JSON-RPC API
+2026-09-30T18:11:25.712652Z,io.github.Looted/kibi-mcp,,2.2.0,https://github.com/Looted/kibi,,"MCP server for Kibi's requirements, traceability, and proof workflows in coding agents."
+2026-09-30T18:11:56.526698Z,com.porkbun/mcp,Porkbun (official),0.39.0,https://github.com/oborseth/Porkbun-MCP,streamable-http,"Official Porkbun MCP server: domains, DNS, SSL, hosting and Cloudflare via the Porkbun API."
+2026-09-30T18:12:39.546344Z,gr.bestprice/mcp,BestPrice,1.8.3,https://github.com/TheBestCo/bestprice-mcp,streamable-http,"Read-only shopping decisions, product search, offers, and price history for Greece."
+2026-09-30T18:13:50.073803Z,io.github.oskar-szulc/periscope,periscope,0.2.0,https://github.com/oskar-szulc/periscope,,"A real Safari-engine (WebKit) browser for agents on macOS: sessions, extraction, bot checks."
+2026-09-30T18:17:28.878531Z,io.github.mmedum/favro-mcp,Favro,3.0.0,https://github.com/mmedum/favro-mcp,,"Favro cards, boards and collections over MCP: read, search, write, and resolve names to ids."

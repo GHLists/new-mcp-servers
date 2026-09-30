@@ -9,48 +9,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 17:22 UTC
+## Latest list — 2026-09-30 18:18 UTC
 
-New MCP servers published between 2026-09-30 16:19 UTC and 2026-09-30 17:22 UTC.
+New MCP servers published between 2026-09-30 17:22 UTC and 2026-09-30 18:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-30T17-22-54-527973Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-30T18-18-55-361325Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-30 16:21:36 | [io.github.cyanheads/imf-mcp-server](https://github.com/cyanheads/imf-mcp-server) |  | 0.4.3 | Query IMF SDMX 3.0 macroeconomic dataflows — WEO, BOP, CPI, exchange rates, 190… |
-| 2026-09-30 16:23:54 | [io.github.vassiliylakhonin/agenda-intelligence-md](https://github.com/vassiliylakhonin/agenda-intelligence-md) | Agenda Intelligence MD | 1.13.0 | Evidence-readiness MCP server: validate, audit, and score briefs, memos, and ev… |
-| 2026-09-30 16:24:18 | [io.github.smilemino/unchore-defend](https://github.com/smilemino/unchore-defend) | Unchore Defend | 0.1.0 | Grade a site's security headers with fixes and a badge; read logs or code for t… |
-| 2026-09-30 16:29:35 | [io.github.4hmetuyar/toxic-flow-auditor](https://github.com/GuardBee/guardbee-mcp) |  | 0.1.1 | Finds lethal-trifecta toxic flows in MCP tool catalogs: untrusted input, sensit… |
-| 2026-09-30 16:31:32 | [io.github.okajun35/cooling-planner](https://github.com/okajun35/cooling-planner) | Cooling Planner | 0.9.0-preview.1 | MCP simulator for dairy barn cooling: evaluate equipment, roof and weather on h… |
-| 2026-09-30 16:33:36 | [io.github.homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp.git) |  | 8.6.0 | Comprehensive Model Context Protocol server for managing Home Assistant through… |
-| 2026-09-30 16:34:47 | [io.github.sikandar100/orm-preflight](https://github.com/sikandar100/orm-preflight) | orm-preflight | 1.1.0 | Checks TypeORM migrations for data loss, table locks, and deploy problems befor… |
-| 2026-09-30 16:34:56 | [io.github.ludo-technologies/pyscn](https://github.com/ludo-technologies/pyscn) | pyscn | 1.32.2 | Python code analysis for AI agents: complexity, dead code, clones, coupling, an… |
-| 2026-09-30 16:36:13 | [io.github.justjlee/omnarai-mcp](https://github.com/justjlee/omnarai-mcp) |  | 1.9.0 | Deliberation + live 5-model council divergence over the Omnarai multi-AI attrib… |
-| 2026-09-30 16:38:19 | [io.github.robyroro/osint-mcp](https://github.com/robyroro/osint-mcp) | OSINT | 0.2.1 | Passive OSINT recon for domains and IPs: whois, DNS, CT logs, email security, T… |
-| 2026-09-30 16:39:45 | kr.it.zeroone.vibe-doctor/vibe-doctor | Vibe Doctor | 3.1.0 | Check a deployed web app for security headers, SEO, accessibility and performan… |
-| 2026-09-30 16:40:58 | io.github.cowerxdev/apitoolcalls | API Tool Calls | 0.1.0 | QR codes, page Markdown, YouTube captions, data sources, and Columbus résumé sk… |
-| 2026-09-30 16:44:40 | [io.github.cyanheads/gnomad-genetics-mcp-server](https://github.com/cyanheads/gnomad-genetics-mcp-server) |  | 0.4.0 | Look up allele frequencies by ancestry, gene constraint, variants, and coverage… |
-| 2026-09-30 16:53:25 | [io.github.questdb/mcp-server-questdb](https://github.com/questdb/mcp-server-questdb) | QuestDB Web Console MCP Server | 0.5.0 | Connects coding agents to a running QuestDB Web Console: notebook cells, SQL qu… |
-| 2026-09-30 16:53:56 | [com.agenttoolworks/jobsradar](https://github.com/agenttoolworks/mcp-servers) | JobsRadar | 1.0.0 | Search open jobs across Greenhouse, Lever and Ashby company boards in one call,… |
-| 2026-09-30 16:53:57 | [com.agenttoolworks/invoiceforge](https://github.com/agenttoolworks/mcp-servers) | InvoiceForge | 1.0.0 | Generate, validate and read EN 16931 and Peppol BIS 3.0 e-invoices, in UBL and… |
-| 2026-09-30 16:53:58 | app.genlook/virtual-try-on | Genlook Virtual Try-On | 1.0.0 | See any clothing, eyewear or accessory on a photo of a person, in about 10 seco… |
-| 2026-09-30 16:54:21 | [io.github.caiovicentino/x402check](https://github.com/caiovicentino/jev-risk-check-provider) | x402check | 0.1.0 | Risk-check a counterparty before an AI agent pays: sanctions, drainers, simulat… |
-| 2026-09-30 16:55:40 | [com.agenttoolworks/verifydesk](https://github.com/agenttoolworks/mcp-servers) | VerifyDesk | 1.0.0 | Verify companies in the French registry, EU VAT numbers and IBANs, and screen U… |
-| 2026-09-30 16:55:53 | [io.github.chrischall/simplisafe-mcp](https://github.com/chrischall/simplisafe-mcp) |  | 1.2.2 | Check SimpliSafe system state and sensors, review events, arm/disarm, and contr… |
-| 2026-09-30 16:56:37 | [io.github.chrischall/myhotlunchbox-mcp](https://github.com/chrischall/myhotlunchbox-mcp) |  | 1.2.2 | My Hot Lunchbox school lunch ordering for Claude — calendar, cart, orders, paym… |
-| 2026-09-30 16:56:43 | [io.github.chrischall/flightaware-mcp](https://github.com/chrischall/flightaware-mcp) |  | 1.2.2 | Live flight tracking and aviation data via FlightAware AeroAPI (flights, airpor… |
-| 2026-09-30 16:57:04 | [io.github.chrischall/schoolpass-mcp](https://github.com/chrischall/schoolpass-mcp) |  | 1.0.5 | SchoolPass for Claude — students, arrival/dismissal calendar, pickup changes, a… |
-| 2026-09-30 16:57:08 | [io.github.chrischall/kiaaccess-mcp](https://github.com/chrischall/kiaaccess-mcp) |  | 1.1.2 | Kia Access for Claude — vehicle status, location, doors, climate, and charging |
-| 2026-09-30 16:57:44 | [io.github.chrischall/pickuppatrol-mcp](https://github.com/chrischall/pickuppatrol-mcp) |  | 1.1.2 | Read and change your children's school dismissal plans in PickUp Patrol |
-| 2026-09-30 16:57:47 | [io.github.Be-Sure-Consulting/riskrover-mcp](https://github.com/Be-Sure-Consulting/riskrover-mcp) | RiskRover MCP | 0.9.0 | Draft risk-based test plans and assess automated test coverage against product… |
-| 2026-09-30 16:58:06 | [io.github.chrischall/viator-mcp](https://github.com/chrischall/viator-mcp) |  | 2.1.4 | Search Viator tours and activities — products, availability, attractions, desti… |
-| 2026-09-30 16:59:15 | [io.github.chrischall/maxpreps-mcp](https://github.com/chrischall/maxpreps-mcp) |  | 1.1.4 | MaxPreps MCP — high school schedules, scores, records, rosters and stat leaders |
-| 2026-09-30 17:01:53 | [io.github.chrischall/simplepractice-mcp](https://github.com/chrischall/simplepractice-mcp) |  | 1.2.2 | SimplePractice Client Portal — appointments, billing, documents, announcements |
-| 2026-09-30 17:11:59 | [dev.stele-ai/stele](https://github.com/Stele-Dev/stele-mcp-connector) | Stele | 1.0.0 | Shared project memory for AI coding agents: decisions, lessons, risks and tasks… |
-| 2026-09-30 17:12:52 | [io.github.devlensio/devlens](https://github.com/devlensio/devlensOSS) | DevLens | 0.6.0 | Query a precomputed code graph (nodes, edges, summaries) of TS/JS/React/Next.js… |
-| 2026-09-30 17:13:12 | [io.github.TetraCoreHQ/linkpilot-mcp](https://github.com/TetraCoreHQ/linkpilot-mcp) | LinkPilot | 0.1.2 | Send a password or API key as a link that opens once. Encrypted client-side, so… |
-| 2026-09-30 17:13:33 | [io.github.projectworks007/app-store-data](https://github.com/projectworks007/apify-data-mcp) | App & Game Store Data | 1.0.0 | Apps, games and extensions with ratings and user reviews from app stores, Steam… |
-| 2026-09-30 17:22:16 | [com.loopholetape/solana-token-safety](https://github.com/gosadu/loophole-tape) | loophole tape: Solana token safety | 0.1.0 | Solana token safety and pump.fun rug checks. Free for any mint; paid depth per… |
+| 2026-09-30 17:28:29 | [io.github.kumoproductions/mcp-cinema4d](https://github.com/kumoproductions/mcp-cinema4d) |  | 0.5.0 | MCP server for Cinema 4D — entity CRUD, parameter-level access, batched undo, s… |
+| 2026-09-30 17:28:40 | [com.bigdata/bigdata-mcp](https://github.com/Bigdata-com/bigdata-plugins-marketplace) | Bigdata.com | 1.2.1 | Licensed, cited financial data for AI agents: news, filings, transcripts, resea… |
+| 2026-09-30 17:28:59 | ru.scanbase/scanbase |  | 1.1.0 | Website compliance checks for Russian personal data law 152-FZ: score, violatio… |
+| 2026-09-30 17:31:25 | io.github.redpine-ai/redpine-connect | Redpine Connect | 1.0.0 | Full-text licensed and open-access research, cited to its source. Publishers ar… |
+| 2026-09-30 17:32:12 | [io.github.t3ratech/market-pulse](https://github.com/t3ratech/t3rnel) |  | 0.10.0 | Evidence index for AI agent work — lane grades, evidence, jobs |
+| 2026-09-30 17:32:19 | net.myopl/pickleball-public-knowledge | MYOPL Pickleball Public Knowledge | 1.0.0 | Pickleball rules, MYOPL help, public ratings, and court, club and open play dis… |
+| 2026-09-30 17:34:43 | [app.apick/ai](https://github.com/lead788/apick-mcp) | APICK AI | 3.4.0 | LLM chat, text tools, image generation, editing, batch image jobs, and asynchro… |
+| 2026-09-30 17:37:09 | [io.github.Neschadin/askell-mcp](https://github.com/Neschadin/askell-mcp) | Askell | 0.4.18 | MCP server for the Askell payment and subscription API (Bun + stdio) |
+| 2026-09-30 17:37:49 | com.beachvalencia/booking |  | 1.1.0 | Beach Valencia holiday apartments (Valencia, Spain): availability, pricing, can… |
+| 2026-09-30 17:38:39 | [io.github.AnshumanAtrey/ashby-jobs-search](https://github.com/AnshumanAtrey/ashby-jobs-search) | Ashby Jobs Scraper & API - All Companie… | 1.0.1 | Ashby Jobs Scraper - Search Every Ashby Job Board |
+| 2026-09-30 17:38:49 | [io.github.JHarp199345/s-bike-hub](https://github.com/JHarp199345/S-Bike-Training-Hub) | S-Bike Training Hub | 1.0.0 | Coach from a local smart-bike hub: check-ins, plans, rides, workouts, bike/run/… |
+| 2026-09-30 17:42:38 | com.8b/ai-website-builder | 8B AI Website Builder | 0.3.0 | Make a website with 8B from chat: live animated preview, edits in plain words,… |
+| 2026-09-30 17:46:03 | [io.github.eralpozcan/vision-squeezer](https://github.com/eralpozcan/vision-squeezer) |  | 0.6.2 | Cut vision-LLM token costs by snapping images to tile boundaries — Claude, GPT,… |
+| 2026-09-30 17:47:51 | br.com.loqal/loqal | Loqal | 1.0.0 | Profissionais de serviços locais no Brasil: encanador, eletricista, diarista e… |
+| 2026-09-30 17:57:32 | uz.pactum/legal | Pactum — legal services in Uzbekistan | 1.0.0 | Uzbekistan legal services: find services, read Uzbek law, request a lawyer's qu… |
+| 2026-09-30 18:01:02 | cc.sendhq/sendhq | SendHQ | 1.0.0 | Send and receive email from your verified domains; manage domains, templates an… |
+| 2026-09-30 18:01:12 | com.auravms/auravms | AuraVMS | 1.0.0 | Procurement: manage suppliers, send RFQs, compare supplier quotes and place pur… |
+| 2026-09-30 18:01:20 | com.aifordatabase/aifordatabase | AI for Database | 1.0.0 | Ask your databases questions in plain English, run read-only SQL and set up dat… |
+| 2026-09-30 18:01:33 | com.jobfinder-ai/jobfinder | JobFinder | 1.0.0 | Review job matches, read drafted outreach, approve or reject applications and t… |
+| 2026-09-30 18:03:36 | [org.freetts/mcp](https://github.com/freetts/mcp) | FreeTTS | 1.0.0 | Text to speech in 149 languages: MP3 links from any assistant. Free without an… |
+| 2026-09-30 18:06:27 | [io.github.cyanheads/faostat-mcp-server](https://github.com/cyanheads/faostat-mcp-server) |  | 0.2.5 | UN FAOSTAT global food & agriculture statistics over a local SQLite mirror, via… |
+| 2026-09-30 18:06:51 | io.github.layerzlabs/layerz | Layerz | 0.4.0 | Structured financial modeling for AI agents: build, version, audit models, expo… |
+| 2026-09-30 18:07:15 | io.chorusresearch/chorus | Chorus Research | 1.0.0 | Create surveys, launch them to real human respondents, and read the responses. |
+| 2026-09-30 18:07:39 | com.x402-agent-pay/facilitator | AgentPay x402 Facilitator | 1.0.0 | Verify signed x402 payments; treasury-scoped settlement is irreversible. |
+| 2026-09-30 18:07:54 | app.threads-mcp/threads | Threads for Claude | 0.1.0 | Publish, reply, moderate, search and read insights on your Threads (threads.com… |
+| 2026-09-30 18:08:31 | [io.github.4hmetuyar/elicitation-auditor](https://github.com/GuardBee/guardbee-mcp) |  | 0.1.1 | MCP elicitation anti-patterns: secrets in forms, third-party authorize URLs, cr… |
+| 2026-09-30 18:09:33 | [io.github.claymore666/ccu-mcp](https://github.com/claymore666/ccu-mcp) |  | 1.11.3 | MCP server for controlling HomeMatic smart home devices via the CCU JSON-RPC API |
+| 2026-09-30 18:11:25 | [io.github.Looted/kibi-mcp](https://github.com/Looted/kibi) |  | 2.2.0 | MCP server for Kibi's requirements, traceability, and proof workflows in coding… |
+| 2026-09-30 18:11:56 | [com.porkbun/mcp](https://github.com/oborseth/Porkbun-MCP) | Porkbun (official) | 0.39.0 | Official Porkbun MCP server: domains, DNS, SSL, hosting and Cloudflare via the… |
+| 2026-09-30 18:12:39 | [gr.bestprice/mcp](https://github.com/TheBestCo/bestprice-mcp) | BestPrice | 1.8.3 | Read-only shopping decisions, product search, offers, and price history for Gre… |
+| 2026-09-30 18:13:50 | [io.github.oskar-szulc/periscope](https://github.com/oskar-szulc/periscope) | periscope | 0.2.0 | A real Safari-engine (WebKit) browser for agents on macOS: sessions, extraction… |
+| 2026-09-30 18:17:28 | [io.github.mmedum/favro-mcp](https://github.com/mmedum/favro-mcp) | Favro | 3.0.0 | Favro cards, boards and collections over MCP: read, search, write, and resolve… |
 
 ## Data source
 
