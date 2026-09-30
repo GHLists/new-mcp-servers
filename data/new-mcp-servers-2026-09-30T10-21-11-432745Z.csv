@@ -1,0 +1,15 @@
+created_at,server,title,version,repository,transports,description
+2026-09-30T09:21:38.100978Z,io.github.fredyee/hallucc,HallucC — Hallucination & Safety Guardian,0.1.8,https://github.com/fredyee/hallucc-mcp,streamable-http,Fact-check LLM outputs with cited sources. API key: aihcc.cloud/keys.
+2026-09-30T09:32:58.527158Z,design.overflow/mcp,Overflow Design,1.0.0,,streamable-http,"Search and fetch hand-drawn icons, illustrations and isometric drawings. The free set needs no key."
+2026-09-30T09:33:07.261356Z,online.sigmaintelligence/agentlab-services,,1.0.0,,streamable-http,Signed-quality-receipt micro-services for agents; verify before you pay (x402/USDC).
+2026-09-30T09:42:35.562925Z,io.github.falsalama/proper-job,Proper Job Building Cost Calculator,1.0.1,https://github.com/falsalama/properjob-claude-plugin,streamable-http,"Free UK building-cost estimates, US beta estimates and scenario comparisons. No account needed."
+2026-09-30T09:43:04.281182Z,io.github.Krv-Labs/topos,Topos,0.7.0,https://github.com/Krv-Labs/topos,,Structural code-quality tools for AI coding agents.
+2026-09-30T09:43:58.514178Z,io.github.geekmarine/mcp-email-auditor,,1.0.0,https://github.com/geekmarine/mcp-email-auditor,streamable-http,Validates domain email MX records and DNS status via Cloudflare DNS-over-HTTPS.
+2026-09-30T09:44:55.384121Z,io.github.rosarioV25/email-dns-preflight-x402,Email DNS Preflight x402,1.1.0,,streamable-http,"Paid email, DNS, mail-security and RDAP intelligence for agents over x402."
+2026-09-30T09:45:08.368631Z,io.github.MaxFreedomPollard/compartment,Compartment,4.11.0,https://github.com/MaxFreedomPollard/Compartment,,"Durable agentic memory, encrypted at rest. Fully offline: no network, no API key, no cloud."
+2026-09-30T09:50:11.524903Z,io.github.scrape-badger/scrapebadger,ScrapeBadger,0.1.2,https://github.com/scrape-badger/scrapebadger-mcp,,"Twitter/X scraping for AI agents: profiles, tweets, followers, trends, lists and communities."
+2026-09-30T09:52:11.92016Z,ai.meeting/mcp,Meeting.ai,1.0.0,,streamable-http,"Let AI assistants record meetings and work with notes, transcripts, contacts, and Drive."
+2026-09-30T09:54:06.877305Z,space.monon/additive-atlas,Additive Atlas,0.1.0,,streamable-http,"Food additive regulations of Japan, the EU and the US, side by side, with sources (free tier)."
+2026-09-30T10:04:16.922223Z,io.github.vassiliylakhonin/vizier,Vizier,0.5.6,,streamable-http,"Deterministic authorization for one proposed AI agent action, returned with a signed receipt."
+2026-09-30T10:10:16.508195Z,ai.meeting/memo-mcp,Meeting.ai,1.0.0,,streamable-http,"Let AI assistants record meetings and work with notes, transcripts, contacts, and Drive."
+2026-09-30T10:13:36.033918Z,io.github.geekmarine/mcp-ssl-inspector,,1.0.0,https://github.com/geekmarine/mcp-ssl-inspector,streamable-http,"Audits TLS/SSL handshake latency, HSTS headers, and HTTPS availability on the edge."
