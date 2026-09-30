@@ -1,0 +1,42 @@
+created_at,server,title,version,repository,transports,description
+2026-09-30T18:20:36.846465Z,direct.vote/vote-direct,vote.direct,1.1.0,,streamable-http,"Run a real election or board vote: price it, check state HOA rules, draft the ballot and voter list."
+2026-09-30T18:20:42.968009Z,io.ioservices.circleio/circleio,circleio,1.0.0,,streamable-http,"A social network your AI runs: messages, threads, friends' agents, groups, public US boards."
+2026-09-30T18:23:22.644124Z,io.github.caseone115/claimgate,ClaimGate - claim check before you publish,0.1.0,https://github.com/caseone115/claimgate,,"Flag marketing claims your evidence cannot substantiate, before you publish."
+2026-09-30T18:24:20.764603Z,io.github.cyanheads/openalex-mcp-server,,0.8.0,https://github.com/cyanheads/openalex-mcp-server,streamable-http,Access the OpenAlex academic research catalog — 270M+ publications.
+2026-09-30T18:26:13.636577Z,io.github.glennl201/leaseiq-pro,LeaseIQ Pro,1.0.1,https://github.com/glennl201/LeaseIQPro,streamable-http,"Excel-verified lease finance math for AI agents: equipment, solvers, schedules."
+2026-09-30T18:26:22.696978Z,ai.daishi/world,Daishi,1.0.0,,streamable-http,"A persistent multi-agent world any AI agent can join over MCP, with a public record of every match."
+2026-09-30T18:28:04.584585Z,ai.contentmaschine/contentmaschine,ContentMaschine,1.0.0,,streamable-http,"AI image, video, audio and text tools for creators. Pay per use with credits."
+2026-09-30T18:28:39.748602Z,ai.daishi/studio,Daishi Studio,1.0.0,,streamable-http,"Run AI agent evaluations on your own model keys, and publish runs others can review and re-run."
+2026-09-30T18:29:45.139302Z,io.github.antonpogrebenko-public/rftools,,2.2.1,https://github.com/antonpogrebenko-public/rftools-mcp,,241 RF & electronics calculators + 13 simulation tools for AI agents.
+2026-09-30T18:31:09.659071Z,io.github.kta41/mcp-bruno,,0.1.1,https://github.com/Kta41/mcp-bruno,,Python MCP server for running and inspecting Bruno API collections.
+2026-09-30T18:32:01.578929Z,io.github.AnshumanAtrey/gitleaks-github-secret-scanner,Gitleaks Cloud - GitHub API Key Hunter & Secret Scanner,0.17.3,https://github.com/AnshumanAtrey/gitleaks-github-secret-scanner,streamable-http,Gitleaks Cloud - GitHub API Key Hunter & Secret Scanner
+2026-09-30T18:32:08.636327Z,io.github.igorolv/loki-mcp-server,Loki MCP Server,0.1.0,https://github.com/igorolv/loki-mcp-server,,"Read-only Grafana Loki for AI agents: label discovery, bounded LogQL queries, counts, exports"
+2026-09-30T18:33:57.538152Z,com.execbro/execbro,ExecBro,2.12.4,https://github.com/igorzheludkov/execbro,,"Gives AI agents eyes and hands into running React Native apps: logs, REPL, tap, screenshots"
+2026-09-30T18:37:31.696785Z,com.moltbotden/mcp,Moltbot Den,1.0.0,,streamable-http,"AI agent platform: registration, discovery, messaging, communities and an email inbox per agent."
+2026-09-30T18:40:20.213401Z,io.github.Thyphex/agenttools-hub,AgentTools Hub,0.3.0,https://github.com/Thyphex/agenttools-hub,streamable-http,"65 utility tools for AI agents: calculators, converters, live data, crypto — paid per call via x402."
+2026-09-30T18:43:20.883118Z,com.instaveil/agent-commerce,InstaVeil Agent Commerce,1.1.0,,streamable-http,Remote MCP discovery and x402 Solana USDC pay-per-call public Instagram data for autonomous agents.
+2026-09-30T18:44:06.672532Z,io.github.dfkunstler/mcp-server-for-oscal,MCP Server for OSCAL,0.5.0,https://github.com/dfkunstler/mcp-server-for-oscal,,AI agent tools for Open Security Controls Assessment Language (OSCAL)
+2026-09-30T18:44:42.483475Z,ch.stratta/mcp,Stratta,1.16.1,https://github.com/hugogebel-boop/stratta-v2,,"Read the SIA and Eurocode norms your bureau licensed, cited to the section and page."
+2026-09-30T18:45:01.322675Z,io.github.Nodesify/astria,Astria,1.0.10,https://github.com/Nodesify/astria,,"Turn any codebase into a queryable knowledge graph — offline-first, zero API keys."
+2026-09-30T18:45:23.152296Z,io.github.contentforge-press/hiring-intel,Hiring Change Intelligence,1.0.0,,streamable-http,"Track public job boards: free snapshot, paid hiring-growth intel via x402 USDC."
+2026-09-30T18:45:38.125082Z,com.maskbreak/mcp,Maskbreak,0.1.7,https://github.com/sentinelsup/maskbreak-mcp,,"Public IP signals (cloud hosting, Tor exits) and Maskbreak API status for fraud checks."
+2026-09-30T18:47:59.688652Z,io.github.litportnet/litport-mcp,,0.2.0,https://github.com/litportnet/litport-mcp,,"MCP server for the Litport API: tokens, packages, pay-per-GB pools, geo targeting and proxy URLs."
+2026-09-30T18:48:30.52253Z,io.github.BASHBOP/solumbe,Solumbe,4.0.0,https://github.com/BASHBOP/solumbe,,"Deterministic local repository context, impact analysis, and merge-readiness evidence for AI agents."
+2026-09-30T18:51:20.326198Z,io.github.nightmoose/contractgate,ContractGate,0.2.0,https://github.com/nightmoose/contractgate,,"Infer, dry-run, deploy, and inspect ContractGate semantic data contracts."
+2026-09-30T18:52:07.272967Z,ai.coldstate/knowledge,ColdState — Deterministic Knowledge Infrastructure,0.1.0,,streamable-http,"Deterministic knowledge for AI agents: search, fetch, cite and verify a 48M-entry knowledge base."
+2026-09-30T18:53:48.576188Z,fi.brighter/brighter,Brighter,1.0.0,,streamable-http,"Browse, backtest and write rule-based portfolios of tokenized US stocks."
+2026-09-30T18:54:02.536733Z,com.yogaausbildungen/yogalehrer-ausbildungen,Yoga-Ausbildungen,1.0.0,,streamable-http,"German yoga teacher trainings: hours, format, certification, Bildungsurlaub, with sources."
+2026-09-30T18:54:04.333941Z,com.venuesabroad/wedding-venues-portugal,Venues Abroad,1.0.0,,streamable-http,"Wedding venues and planners in Portugal: capacity, rooms, catering, each fact with its source."
+2026-09-30T18:54:06.038094Z,com.ruralhomepros/well-and-septic-contractors,Rural Home Pros,1.0.0,,streamable-http,"US well drillers and septic contractors: services, emergency service, estimates, with sources."
+2026-09-30T18:54:20.86362Z,io.github.adiarora06/reporipple,RepoRipple,0.3.0,https://github.com/adiarora06/RepoRipple,,Deterministic repository change-impact analysis for engineers and coding agents.
+2026-09-30T18:55:14.749934Z,io.github.a10102010/north7-market-intelligence,NORTH7 Market Intelligence,1.0.0,https://github.com/a10102010/north7-agent-api,streamable-http,"AI trading signals, risk scores, sector breadth, commodity alerts. 70+ sources."
+2026-09-30T18:56:45.052288Z,io.fless/mcp,Fless Apartment Hunt,1.3.0,https://github.com/fless-io/skills,streamable-http,"Apartment hunting in DC, Maryland and Virginia: research cities, build pre-filled hunt links."
+2026-09-30T19:03:02.95696Z,io.github.ch4n3-yoon/ghvf-repo-id-probe-20261001-0403,Temporary GHVF Repository ID Probe,1.0.0,https://github.com/ch4n3-yoon/ghvf-mcp-source-20261001-0403,streamable-http,Temporary authorized security validation record.
+2026-09-30T19:05:56.445297Z,ai.morphareels/morpha,Morpha,1.0.374,,streamable-http,"AI editor to build, animate & export layered short-form video projects via one tool catalog."
+2026-09-30T19:08:43.398985Z,io.github.mmedum/google-docs-mcp,,2.0.0,https://github.com/mmedum/google-docs-mcp,,"Google Docs as MCP tools: read, edit, suggest and comment on documents."
+2026-09-30T19:09:04.176643Z,io.github.presendapp/presend-mcp,Presend MCP Server,3.1.1,https://github.com/presendapp/presend-source,streamable-http,"Free MCP server of security & dev API tools -- supply-chain, CVE, DNS, WHOIS, OFAC, Cosmos SDK."
+2026-09-30T19:12:26.311042Z,io.github.contentforge-press/app-intel,App Store Change Intelligence,1.0.1,,streamable-http,"Track App Store apps: free snapshot, paid review & sentiment intel via x402 USDC."
+2026-09-30T19:12:51.581548Z,io.github.JasmyLab-JANCTION/janction-render,,0.2.1,https://github.com/JasmyLab-JANCTION/janction-render,streamable-http,"Render Blender scenes (.blend or bpy script) on JANCTION GPUs from AI agents: previews, frames, MP4."
+2026-09-30T19:16:19.464468Z,com.genchi/genchi,Genchi,1.0.0,,streamable-http,"Spot projects predicted to miss their deadlines, from an anonymous team confidence vote in Slack."
+2026-09-30T19:17:45.544038Z,ai.replikit/kitana,Kitana,1.0.0,,streamable-http,"Score marketing images 0-100 against your brand kit: colour, typography, logo, layout, coherence."
+2026-09-30T19:17:54.990089Z,io.github.filipbolcek-ctrl/forest-factory,Forest Factory,1.0.0,https://github.com/filipbolcek-ctrl/forest-gas-station,streamable-http,Paid x402 micro-utilities for agents via a six-tool Streamable HTTP MCP pilot.
