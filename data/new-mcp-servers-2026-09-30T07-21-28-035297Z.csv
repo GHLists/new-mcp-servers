@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-09-30T06:24:08.533429Z,io.github.AceDataCloud/mcp-midjourney,Midjourney,2026.9.30.0,https://github.com/AceDataCloud/MidjourneyMCP,streamable-http,MCP server for Midjourney AI image generation and editing
+2026-09-30T06:24:56.534282Z,io.github.AceDataCloud/mcp-acedatacloud,,2026.9.30.0,https://github.com/AceDataCloud/AceDataCloudMCP,streamable-http,"Manage your AceData Cloud account: services, pricing, APIs, docs, balance, usage, keys & orders"
+2026-09-30T06:25:05.661868Z,io.github.donmangudata-ops/jobs-mcp-server,Jobs MCP Server,1.0.0,https://github.com/donmangudata-ops/apify-jobs-mcp,streamable-http,"Read-only tools: open jobs at the companies you name, and a live search of current tech jobs"
+2026-09-30T06:28:13.763476Z,app.gardeners-almanac/gardeners-almanac,Gardener's Almanac,2026.929.12,,streamable-http,"Your vegetable garden: what's growing, what you've done, what needs doing next and when to water."
+2026-09-30T06:28:56.51599Z,io.github.mo9652962-ai/esq-builder-mcp,ESQ Builder,0.1.4,,,ESQ 1.0 题库包工具链（墨题刷题机）：build(auto_fix) → validate(双轨校验) → upload/publish + kajweb 词表解析与热点词统计
+2026-09-30T06:33:06.904588Z,io.github.mo9652962-ai/skill-maintenance-mcp,Skill Maintenance,0.1.2,,,技能库维护 MCP server：损坏扫描/改前备份/决策日志/体检（skill-evolution 机械环节工具化），uvx 一行接入
+2026-09-30T06:35:28.053718Z,io.github.plumbkit/plumb,Plumb,0.20.3,https://github.com/plumbkit/plumb,,"LSP-backed IDE intelligence plus concurrency-safe, transactional edits for AI coding agents."
+2026-09-30T06:36:47.400548Z,app.ambernotes/amber-notes,Amber Notes,1.0.0,https://github.com/emilwagman/amber-notes,streamable-http,"Search, read and edit your Amber Notes: folders, checklists, tables and trackers."
+2026-09-30T06:38:34.388976Z,com.aerset/normativa-drones-espana,Aerset · normativa de drones en España,1.0.0,,streamable-http,"Normativa española de drones con fuente y fecha por regla: pasajes citables, zonas UAS, requisitos."
+2026-09-30T06:42:16.009376Z,io.github.ilpr/shruwd-mcp,,0.1.6,https://github.com/ilpr/shruwd-mcp,streamable-http,"Set up a brand, read its AI-search visibility, and act on diagnostic findings."
+2026-09-30T06:44:10.075757Z,com.jeyaya/botverse,Jeyaya · RankedBots botverse,1.1.0,,streamable-http,"Bot economy: find paid work, bid, deliver and earn fixed-supply JEY game credits (no cash value)."
+2026-09-30T06:45:53.733735Z,io.github.Dominic-DK/askew-mcp,"Askew — iPhone, iPad and Mac via Shortcuts",0.3.0,https://github.com/Dominic-DK/askew-mcp,,"Run iPhone Shortcuts through an encrypted relay, or assigned auto-mode Shortcuts on this Mac."
+2026-09-30T06:46:19.789512Z,com.jawaabook/jawaabook,JAWAABOOK,1.0.0,,streamable-http,"A moderated forum where AI agents read, cite and post under one house rule: claims need evidence."
+2026-09-30T06:50:06.645022Z,io.github.musyta-labs/mcpcut,,0.1.1,https://github.com/musyta-labs/OrcCut,streamable-http,"Orccut: a real timeline video editor for AI agents - journaled edits, FFmpeg/MLT rendering"
+2026-09-30T06:51:58.231233Z,io.github.osauer/canary,Canary MCP,3.14.0,https://github.com/osauer/canary,,"Read-only IBKR MCP: account, positions, brief, regime, stress, reporting, Edge, and risk."
+2026-09-30T06:52:09.560917Z,day.shyn/shyn,shyn,0.5.16-alpha,https://github.com/shyn-labs/shyn,,"Local-first ambient memory for your Mac — pages, meetings, notes, encrypted on-device."
+2026-09-30T06:55:32.216938Z,io.github.rmtonmoy/humantool,HumanTool,0.2.0,,streamable-http,"Lets AI agents use a real human as a tool: visual checks, taste, phone calls, unblocking, approvals"
+2026-09-30T06:56:58.059456Z,com.gaplessly/booking,Gaplessly Booking,1.0.0,,streamable-http,"Find free appointment and table times at Gaplessly venues, then hand the guest a booking link."
+2026-09-30T06:58:50.451213Z,dev.proxylang/translate,Proxylang website translation,1.0.0,https://github.com/Proxylang/skills,streamable-http,"Translate a website into other languages from one script tag. Free trial, no signup."
+2026-09-30T07:01:54.368228Z,com.pyloapp/pylo,pylo,1.0.0,,streamable-http,Query and analyze your pylo data. Changes become proposals you approve in the pylo admin UI or API.
+2026-09-30T07:08:28.506039Z,io.github.truman-t3/keyshot-mcp,KeyShot MCP,0.13.0,https://github.com/truman-t3/keyshot-mcp,,"Control local KeyShot scenes, cameras, environments, and renders through headless scripting."
+2026-09-30T07:10:04.292923Z,app.srift/srift,SRIFT,4.3.0,https://github.com/srivardhan113/SRIFT-Open_Source,streamable-http,Decentralized P2P file transfer + encrypted chat for AI agents. Military-grade AES-256. No accounts.
+2026-09-30T07:11:17.803319Z,io.github.mmedum/google-drive-mcp,Google Drive,2.0.0,https://github.com/mmedum/google-drive-mcp,,"Google Drive at the file boundary: find, organize, share, transfer and follow what changed."
+2026-09-30T07:12:39.340721Z,io.github.RayceRossum/getregisters,GetRegisters: free source-backed practitioner tools,1.1.0,,streamable-http,"Free source-backed NDIS pricing, packaging, care and licensing tools; searchable register previews."
+2026-09-30T07:14:20.030177Z,com.penguindriver/toys,亞洲公仔扭蛋情報站,1.0.0,,streamable-http,亞洲公仔扭蛋情報站：萬代與 Takara Tomy Arts 扭蛋公仔發售表、中日搜尋、交換局。繁體中文 MCP 工具。
+2026-09-30T07:14:26.137955Z,link.keepp/keepp,Keepp,1.2.0,,streamable-http,"Build and run your Keepp page: blocks, theme, products, bookings, Stripe and plan upgrades."
+2026-09-30T07:19:41.393521Z,io.github.undy-mosq/CSharpAnalyserMcp,C# Class Analyzer MCP,1.0.2,https://github.com/undy-mosq/CSharpAnalyserMcp,,A read-only MCP server that lets an AI assistant browse any C# solution through Roslyn.
+2026-09-30T07:20:48.447753Z,io.github.alesdev88/archicad-mcp,Archicad,0.7.0,https://github.com/alesdev88/Archicad-MCP,,Delivery-readiness QA and full official + Tapir API access for a running Archicad 29.
