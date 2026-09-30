@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-09-30T05:24:21.230995Z,com.birkinbagstock/mcp,,1.1.0,,streamable-http,"Live Hermes Birkin & Kelly market data: resale inventory, prices, auction calendar and results"
+2026-09-30T05:25:09.091963Z,io.github.jhonpork1233-beep/win-mind,,0.2.0,https://github.com/jhonpork1233-beep/win-mind,,See and drive any Windows app via the accessibility tree - no screenshots - plus 200+ native tools
+2026-09-30T05:26:00.60747Z,win.matchwire/mapping,"matchwire.win — Mapped Prediction Markets (Kalshi, Polymarket, Predict.fun)",0.1.0,https://github.com/MatchWire-Win/matchwire-sdk,streamable-http,"One row per game, matched across Kalshi, Polymarket US/Intl and Predict.fun. Mapping only."
+2026-09-30T05:28:16.595736Z,io.github.seleniumbase/seleniumbase,SeleniumBase MCP,4.54.13,https://github.com/seleniumbase/SeleniumBase,,"Stealthy browser automation, testing, and web-scraping via CDP Mode."
+2026-09-30T05:32:58.392762Z,io.github.grigabyte/td-atlas,TouchDesigner Atlas,0.3.0,https://github.com/grigabyte/td-atlas,,"An atomised index of TouchDesigner plus a live bridge, exposed to AI agents over MCP."
+2026-09-30T05:40:48.977238Z,com.found17/found17,Found17,0.1.0,,streamable-http,"Public web tools for agents: product extraction, claim checks, webpage QA and ranked audits."
+2026-09-30T05:45:34.69459Z,ai.nauro/nauro,Nauro,1.20.0,https://github.com/Nauro-AI/nauro,,Decision system for software built with AI
+2026-09-30T05:45:40.292931Z,net.sarmate.studio/prestashop-connector,PrestaShop MCP Connector,1.4.1,,streamable-http,"Query a PrestaShop store from an AI assistant: orders, invoices, unpaid orders, customers, stock."
+2026-09-30T05:46:01.884763Z,io.github.mdefrance/autocarver,,7.8.1,https://github.com/mdefrance/AutoCarver,,"Qualify dataset columns and process them against a target with AutoCarver, fully on your machine."
+2026-09-30T05:48:58.526191Z,dev.euvra/euvra,Euvra,1.0.0,,streamable-http,"Discover, compare, route, and execute machine-accessible capabilities for AI agents."
+2026-09-30T05:54:01.935927Z,com.weatherofrecord/weather-of-record,Weather of Record,1.0.0,,streamable-http,"Published weather records for a U.S. street address and date, with provenance."
+2026-09-30T06:01:04.787327Z,io.github.TwitterAPIs/twitterapis-mcp,TwitterAPIs,0.16.1,https://github.com/TwitterAPIs/twitterapis-mcp,streamable-http,"Official MCP server for twitterapis.com. Read and write Twitter/X: search, users, tweets, DMs."
+2026-09-30T06:01:15.818716Z,io.github.lxman/obsbot-mcp,OBSBOT Tiny 2 Camera Control,0.8.0,https://github.com/lxman/obsbot-mcp,,"Control an OBSBOT Tiny 2 camera: pan/tilt/zoom, AI tracking, focus, exposure, snapshots, recording"
+2026-09-30T06:02:01.64396Z,io.github.redditapis/redditapis-mcp,RedditAPIs,0.8.1,https://github.com/redditapis/redditapis-mcp,streamable-http,"Reddit API as MCP tools: search, subreddits, posts, comments, users, monitors, webhooks, feedback."
+2026-09-30T06:05:55.025261Z,io.github.darrenjrobinson/entra-scim-mcp,Microsoft Entra SCIM,0.3.0,https://github.com/darrenjrobinson/entra-scim-mcp,,"Microsoft Entra SCIM 2.0 Provisioning API: user and group lifecycle, with a local mock."
+2026-09-30T06:06:29.243311Z,app.justemails/mcp,JustEmails,0.1.0,,streamable-http,"Email hosting from your AI: read and send mail, add domains, check DNS and manage mailboxes."
+2026-09-30T06:06:47.822107Z,ai.vidocu/vidocu,,1.0.3,,streamable-http,"AI Knowledge Platform: turn videos, PDFs, and slides into subtitles, voiceovers, and documentation"
+2026-09-30T06:06:48.348188Z,com.licenseground/licenseground,LicenseGround,1.0.0,,sse,Deterministic trade contractor license verification & compliance gating for autonomous AI agents.
+2026-09-30T06:16:10.274457Z,io.github.nhorie-canal/mmm-mcp-server,Matryoshka Mind Map,0.1.1,https://github.com/nhorie-canal/mmm_mcp,,Read and write your Matryoshka Mind Map (nested mind map / TODO app) from AI agents.
+2026-09-30T06:16:46.09633Z,com.lunaraastro/natal-chart,Lunara Natal Chart,0.1.0,,streamable-http,"Swiss Ephemeris natal chart from birth date, optional time and place, with Big Three and placements."
