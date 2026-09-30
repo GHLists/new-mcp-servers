@@ -9,55 +9,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 19:19 UTC
+## Latest list — 2026-09-30 20:20 UTC
 
-New MCP servers published between 2026-09-30 18:18 UTC and 2026-09-30 19:19 UTC.
+New MCP servers published between 2026-09-30 19:19 UTC and 2026-09-30 20:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-30T19-19-45-759822Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-30T20-20-19-096329Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-30 18:20:36 | direct.vote/vote-direct | vote.direct | 1.1.0 | Run a real election or board vote: price it, check state HOA rules, draft the b… |
-| 2026-09-30 18:20:42 | io.ioservices.circleio/circleio | circleio | 1.0.0 | A social network your AI runs: messages, threads, friends' agents, groups, publ… |
-| 2026-09-30 18:23:22 | [io.github.caseone115/claimgate](https://github.com/caseone115/claimgate) | ClaimGate - claim check before you publ… | 0.1.0 | Flag marketing claims your evidence cannot substantiate, before you publish. |
-| 2026-09-30 18:24:20 | [io.github.cyanheads/openalex-mcp-server](https://github.com/cyanheads/openalex-mcp-server) |  | 0.8.0 | Access the OpenAlex academic research catalog — 270M+ publications. |
-| 2026-09-30 18:26:13 | [io.github.glennl201/leaseiq-pro](https://github.com/glennl201/LeaseIQPro) | LeaseIQ Pro | 1.0.1 | Excel-verified lease finance math for AI agents: equipment, solvers, schedules. |
-| 2026-09-30 18:26:22 | ai.daishi/world | Daishi | 1.0.0 | A persistent multi-agent world any AI agent can join over MCP, with a public re… |
-| 2026-09-30 18:28:04 | ai.contentmaschine/contentmaschine | ContentMaschine | 1.0.0 | AI image, video, audio and text tools for creators. Pay per use with credits. |
-| 2026-09-30 18:28:39 | ai.daishi/studio | Daishi Studio | 1.0.0 | Run AI agent evaluations on your own model keys, and publish runs others can re… |
-| 2026-09-30 18:29:45 | [io.github.antonpogrebenko-public/rftools](https://github.com/antonpogrebenko-public/rftools-mcp) |  | 2.2.1 | 241 RF & electronics calculators + 13 simulation tools for AI agents. |
-| 2026-09-30 18:31:09 | [io.github.kta41/mcp-bruno](https://github.com/Kta41/mcp-bruno) |  | 0.1.1 | Python MCP server for running and inspecting Bruno API collections. |
-| 2026-09-30 18:32:01 | [io.github.AnshumanAtrey/gitleaks-github-secret-scanner](https://github.com/AnshumanAtrey/gitleaks-github-secret-scanner) | Gitleaks Cloud - GitHub API Key Hunter… | 0.17.3 | Gitleaks Cloud - GitHub API Key Hunter & Secret Scanner |
-| 2026-09-30 18:32:08 | [io.github.igorolv/loki-mcp-server](https://github.com/igorolv/loki-mcp-server) | Loki MCP Server | 0.1.0 | Read-only Grafana Loki for AI agents: label discovery, bounded LogQL queries, c… |
-| 2026-09-30 18:33:57 | [com.execbro/execbro](https://github.com/igorzheludkov/execbro) | ExecBro | 2.12.4 | Gives AI agents eyes and hands into running React Native apps: logs, REPL, tap,… |
-| 2026-09-30 18:37:31 | com.moltbotden/mcp | Moltbot Den | 1.0.0 | AI agent platform: registration, discovery, messaging, communities and an email… |
-| 2026-09-30 18:40:20 | [io.github.Thyphex/agenttools-hub](https://github.com/Thyphex/agenttools-hub) | AgentTools Hub | 0.3.0 | 65 utility tools for AI agents: calculators, converters, live data, crypto — pa… |
-| 2026-09-30 18:43:20 | com.instaveil/agent-commerce | InstaVeil Agent Commerce | 1.1.0 | Remote MCP discovery and x402 Solana USDC pay-per-call public Instagram data fo… |
-| 2026-09-30 18:44:06 | [io.github.dfkunstler/mcp-server-for-oscal](https://github.com/dfkunstler/mcp-server-for-oscal) | MCP Server for OSCAL | 0.5.0 | AI agent tools for Open Security Controls Assessment Language (OSCAL) |
-| 2026-09-30 18:44:42 | [ch.stratta/mcp](https://github.com/hugogebel-boop/stratta-v2) | Stratta | 1.16.1 | Read the SIA and Eurocode norms your bureau licensed, cited to the section and… |
-| 2026-09-30 18:45:01 | [io.github.Nodesify/astria](https://github.com/Nodesify/astria) | Astria | 1.0.10 | Turn any codebase into a queryable knowledge graph — offline-first, zero API ke… |
-| 2026-09-30 18:45:23 | io.github.contentforge-press/hiring-intel | Hiring Change Intelligence | 1.0.0 | Track public job boards: free snapshot, paid hiring-growth intel via x402 USDC. |
-| 2026-09-30 18:45:38 | [com.maskbreak/mcp](https://github.com/sentinelsup/maskbreak-mcp) | Maskbreak | 0.1.7 | Public IP signals (cloud hosting, Tor exits) and Maskbreak API status for fraud… |
-| 2026-09-30 18:47:59 | [io.github.litportnet/litport-mcp](https://github.com/litportnet/litport-mcp) |  | 0.2.0 | MCP server for the Litport API: tokens, packages, pay-per-GB pools, geo targeti… |
-| 2026-09-30 18:48:30 | [io.github.BASHBOP/solumbe](https://github.com/BASHBOP/solumbe) | Solumbe | 4.0.0 | Deterministic local repository context, impact analysis, and merge-readiness ev… |
-| 2026-09-30 18:51:20 | [io.github.nightmoose/contractgate](https://github.com/nightmoose/contractgate) | ContractGate | 0.2.0 | Infer, dry-run, deploy, and inspect ContractGate semantic data contracts. |
-| 2026-09-30 18:52:07 | ai.coldstate/knowledge | ColdState — Deterministic Knowledge Inf… | 0.1.0 | Deterministic knowledge for AI agents: search, fetch, cite and verify a 48M-ent… |
-| 2026-09-30 18:53:48 | fi.brighter/brighter | Brighter | 1.0.0 | Browse, backtest and write rule-based portfolios of tokenized US stocks. |
-| 2026-09-30 18:54:02 | com.yogaausbildungen/yogalehrer-ausbildungen | Yoga-Ausbildungen | 1.0.0 | German yoga teacher trainings: hours, format, certification, Bildungsurlaub, wi… |
-| 2026-09-30 18:54:04 | com.venuesabroad/wedding-venues-portugal | Venues Abroad | 1.0.0 | Wedding venues and planners in Portugal: capacity, rooms, catering, each fact w… |
-| 2026-09-30 18:54:06 | com.ruralhomepros/well-and-septic-contractors | Rural Home Pros | 1.0.0 | US well drillers and septic contractors: services, emergency service, estimates… |
-| 2026-09-30 18:54:20 | [io.github.adiarora06/reporipple](https://github.com/adiarora06/RepoRipple) | RepoRipple | 0.3.0 | Deterministic repository change-impact analysis for engineers and coding agents. |
-| 2026-09-30 18:55:14 | [io.github.a10102010/north7-market-intelligence](https://github.com/a10102010/north7-agent-api) | NORTH7 Market Intelligence | 1.0.0 | AI trading signals, risk scores, sector breadth, commodity alerts. 70+ sources. |
-| 2026-09-30 18:56:45 | [io.fless/mcp](https://github.com/fless-io/skills) | Fless Apartment Hunt | 1.3.0 | Apartment hunting in DC, Maryland and Virginia: research cities, build pre-fill… |
-| 2026-09-30 19:03:02 | [io.github.ch4n3-yoon/ghvf-repo-id-probe-20261001-0403](https://github.com/ch4n3-yoon/ghvf-mcp-source-20261001-0403) | Temporary GHVF Repository ID Probe | 1.0.0 | Temporary authorized security validation record. |
-| 2026-09-30 19:05:56 | ai.morphareels/morpha | Morpha | 1.0.374 | AI editor to build, animate & export layered short-form video projects via one… |
-| 2026-09-30 19:08:43 | [io.github.mmedum/google-docs-mcp](https://github.com/mmedum/google-docs-mcp) |  | 2.0.0 | Google Docs as MCP tools: read, edit, suggest and comment on documents. |
-| 2026-09-30 19:09:04 | [io.github.presendapp/presend-mcp](https://github.com/presendapp/presend-source) | Presend MCP Server | 3.1.1 | Free MCP server of security & dev API tools -- supply-chain, CVE, DNS, WHOIS, O… |
-| 2026-09-30 19:12:26 | io.github.contentforge-press/app-intel | App Store Change Intelligence | 1.0.1 | Track App Store apps: free snapshot, paid review & sentiment intel via x402 USD… |
-| 2026-09-30 19:12:51 | [io.github.JasmyLab-JANCTION/janction-render](https://github.com/JasmyLab-JANCTION/janction-render) |  | 0.2.1 | Render Blender scenes (.blend or bpy script) on JANCTION GPUs from AI agents: p… |
-| 2026-09-30 19:16:19 | com.genchi/genchi | Genchi | 1.0.0 | Spot projects predicted to miss their deadlines, from an anonymous team confide… |
-| 2026-09-30 19:17:45 | ai.replikit/kitana | Kitana | 1.0.0 | Score marketing images 0-100 against your brand kit: colour, typography, logo,… |
-| 2026-09-30 19:17:54 | [io.github.filipbolcek-ctrl/forest-factory](https://github.com/filipbolcek-ctrl/forest-gas-station) | Forest Factory | 1.0.0 | Paid x402 micro-utilities for agents via a six-tool Streamable HTTP MCP pilot. |
+| 2026-09-30 19:20:11 | [ai.skylit/mcp](https://github.com/SkylitAI/skylit-mcp) | Skylit | 0.1.0 | Options flow, volatility, dealer positioning (GEX) and dark pool data for AI tr… |
+| 2026-09-30 19:21:43 | com.thinkreasonlearn/founderbrain | FounderBrain | 0.1.0 | See how a founder came across in a pitch or investor call, compared with 773 fo… |
+| 2026-09-30 19:22:42 | [io.github.jgravelle/jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp) | jCodemunch MCP | 1.108.320 | Token-efficient code exploration via tree-sitter AST parsing. 70+ languages, 86… |
+| 2026-09-30 19:25:08 | network.aiden/aiden-mcp | AIDEN | 0.2.0 | Look up AI agents on Robinhood Chain: ERC-8004 identity, feedback and USDG-back… |
+| 2026-09-30 19:26:01 | dev.workers.cybermax-tools.cybermax/orbitwren | Orbitwren | 1.0.0 | Orbital data center tracker: space AI compute projects with sources, launches,… |
+| 2026-09-30 19:26:09 | world.staylist/staylist | Staylist | 1.0.0 | Hotel research for AI assistants: ranked shortlists, guest-review summaries, bo… |
+| 2026-09-30 19:29:24 | [io.github.awv-informatik/classcad](https://github.com/awv-informatik/classcad-ai) | ClassCAD | 0.1.2 | Build and verify CAD parts and assemblies with the ClassCAD engine, locally, no… |
+| 2026-09-30 19:30:06 | com.agentoolrank/agent-tools | AgentoolRank | 1.0.0 | Search, compare and list 460+ open-source AI agent tools ranked by live GitHub… |
+| 2026-09-30 19:36:01 | ai.last-price/pricing | Last Price | 0.1.0 | Compute and verify prices from an agent, metered per call. Works keyless on a d… |
+| 2026-09-30 19:37:27 | [io.github.Rixtayz/mcp-usage](https://github.com/Rixtayz/mcp-usage) | mcp-usage | 0.1.1 | Find out which MCP servers you actually use: local, read-only audit of Claude C… |
+| 2026-09-30 19:39:33 | com.reminderit/reminderit | ReminderIt | 0.3.0 | Schedule real phone-call reminders with WhatsApp follow-up — medication, wake-u… |
+| 2026-09-30 19:40:10 | [io.github.good-sender/goodsender-mcp](https://github.com/good-sender/mcp) | GoodSender | 0.5.1 | Free consent-based emailing, blog publishing, and interactive email template de… |
+| 2026-09-30 19:40:43 | [io.github.gblinproject/gblin-treasury-risk-regime](https://github.com/gblinproject/gblin-treasury-risk-regime) |  | 0.6.0 | Risk regime + treasury for AI agents on Base: free regime reads, signed attesta… |
+| 2026-09-30 19:47:15 | com.pakistancaselaw/caselaw | Pakistan Case Law | 1.3.1 | Search 230,000+ Pakistani court judgments by keyword, citation, or the legal qu… |
+| 2026-09-30 19:47:39 | [io.github.Perlita2013/ax-sci-001](https://github.com/Perlita2013/lore0-cloud) | AxenomIA AX-SCI-001 — Scientific Novelt… | 1.0.1 | Traceable scientific novelty and evidence assessment with source-linked results… |
+| 2026-09-30 19:48:24 | io.seamlessevents.mcp/confbuilder | ConfBuilder | 1.0.0 | ConfBuilder tools: events, speakers, sponsors, attendees, schedules, content, n… |
+| 2026-09-30 19:48:29 | [io.onesource/mcp](https://github.com/blockparty-global/1s-mcp) | OneSource MCP | 5.21.0 | Blockchain data, Deepstate and Standard Reserve markets, live chain queries, an… |
+| 2026-09-30 19:48:36 | com.owlchart/owlchart | OwlChart | 1.0.0 | Live market data: open interest on 13 exchanges, liquidity magnets, ETF flows,… |
+| 2026-09-30 19:51:05 | [io.github.EnioAguiar/llmpvp](https://github.com/EnioAguiar/llmpvp-plugin) |  | 0.3.7 | Ranked, bring-your-own-LLM chess and Go arena for AI agents. Play rated games v… |
+| 2026-09-30 19:51:44 | [io.github.caseone115/claimgate-kit](https://github.com/caseone115/claimgate) | ClaimGate starter kit - set up a publis… | 0.1.0 | Set up a publish gate for AI-assisted marketing copy: policy, evidence folder a… |
+| 2026-09-30 19:52:14 | com.obriym-crm/mcp | Obriym CRM | 1.10.0 | Operate Obriym CRM from your AI assistant: leads, deals, orders, catalog, stock… |
+| 2026-09-30 19:54:03 | [ai.withone/mcp](https://github.com/withoneai/mcp) | One | 2.0.0 | Find, document and execute authenticated API calls across 700+ apps via one MCP… |
+| 2026-09-30 19:55:15 | [io.github.jmrplens/gitlab-mcp-server](https://github.com/jmrplens/gitlab-mcp-server) | GitLab MCP Server | 3.1.0 | Go MCP server for GitLab: 2 dynamic tools reach 1000+ REST/GraphQL actions. Fre… |
+| 2026-09-30 19:55:39 | [io.github.Book0fEli/paycheck](https://github.com/Book0fEli/lumiere-paycheck) | Lumière PayCheck | 1.4.0 | Check any x402 endpoint before your AI agent pays it: trust grade, verdict, and… |
+| 2026-09-30 19:58:10 | ai.lorepunk.poems/margaret-poems | Margaret's poems | 0.4.0 | Poems by Margaret Corvid (@lorepunk). Read, share, or commission a new one; she… |
+| 2026-09-30 19:59:45 | [io.github.voronkovd/nux-mg30-mcp](https://github.com/voronkovd/nux-mg30-mcp) | NUX MG-30 | 0.1.1 | Control a NUX MG-30 guitar processor over USB MIDI: amps, effects, knobs and pr… |
+| 2026-09-30 20:00:52 | [io.github.Gadriel-ai/gadriel](https://github.com/Gadriel-ai/gadriel-copilot-plugin) | Gadriel AI Security Harness | 1.5.0 | AI Security Harness: SAST, secrets, deps, containers, config & OWASP LLM. Scans… |
+| 2026-09-30 20:03:40 | [io.github.Clipform/mcp-server](https://github.com/clipform/mcp-server) | Clipform | 2.17.0 | Interactive video forms that capture authentic responses. Build engaging forms… |
+| 2026-09-30 20:06:28 | [io.github.AnshumanAtrey/facebook-ads-library-api](https://github.com/AnshumanAtrey/facebook-ads-library-api) | Facebook/Meta Ads Library Scraper API -… | 1.0.10 | Facebook/Meta Ads Library Scraper - Winning Ads |
+| 2026-09-30 20:11:59 | [media.longwave/longwave](https://github.com/Longwave-Media/longwave-plugin) | Longwave | 1.0.0 | Give AI agents a creator's video pipeline: Shorts, thumbnails and YouTube publi… |
+| 2026-09-30 20:13:08 | [dev.edgegap/mcp](https://github.com/edgegap/edgegap-mcp) | Edgegap | 0.2.0 | Deploy and operate multiplayer game servers on Edgegap's global edge network. |
+| 2026-09-30 20:15:08 | ai.skuit/catalog | SKUit Network & Security Catalog | 0.1.0 | AI helper for choosing and speccing network & security products from Cisco, Ari… |
+| 2026-09-30 20:15:08 | ai.skuit/bom-builder | SKUit BOM Builder | 0.1.0 | Network hardware BOMs, built inside your AI assistant |
+| 2026-09-30 20:16:57 | [io.github.msaad00/agent-bom](https://github.com/msaad00/agent-bom) | agent-bom | 0.107.0 | Security scanner and graph for agentic infrastructure — agents, MCP, runtime, a… |
 
 ## Data source
 
