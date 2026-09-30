@@ -9,53 +9,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 22:19 UTC
+## Latest list — 2026-09-30 23:21 UTC
 
-New MCP servers published between 2026-09-30 21:20 UTC and 2026-09-30 22:19 UTC.
+New MCP servers published between 2026-09-30 22:19 UTC and 2026-09-30 23:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-09-30T22-19-22-078151Z.csv)
+[Full CSV](data/new-mcp-servers-2026-09-30T23-21-02-840141Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-09-30 21:25:04 | [io.github.mmedum/pipedrive-mcp](https://github.com/mmedum/pipedrive-mcp) |  | 1.1.1 | Pipedrive CRM as MCP tools: find deals, people and companies, and move deals th… |
-| 2026-09-30 21:28:19 | [app.worldmonitor/mcp](https://github.com/koala73/worldmonitor) | World Monitor | 1.22.0 | Live markets, conflicts, country risk, chokepoints, energy, and China decision… |
-| 2026-09-30 21:29:59 | com.penguindriver/food | 美食神仙籤筒 | 1.0.0 | 今天吃什麼？神明抽籤選料理，並從臺灣附近營業中的店家抽一間。台灣繁體中文 MCP 工具。 |
-| 2026-09-30 21:30:43 | [io.github.atomicreps/atomicreps](https://github.com/atomicreps/cli) |  | 0.0.21 | Retrieval practice in your coding agent: one short question about what you just… |
-| 2026-09-30 21:32:23 | com.medianfi/books | Median books | 0.1.0 | Read-only access to a Median customer's ledger, financial reports and transacti… |
-| 2026-09-30 21:33:50 | com.housingfax/mcp | HOUSINGFAX | 1.1.0 | Immediate home report for a building or flat in Spain: 22 checks from official… |
-| 2026-09-30 21:37:08 | [io.github.BSVKey/inference-mcp](https://github.com/BSVKey/inference-mcp) |  | 1.3.3 | Pay-per-token Claude & Grok inference, settled in BSV, via the inference.bsvkey… |
-| 2026-09-30 21:37:31 | [ai.makeaivideo/video-generator](https://github.com/makeaivideo-ai/mcp) | MakeAIVideo | 1.4.0 | Create AI videos (voiceover, scenes, captions, music) and post them to TikTok,… |
-| 2026-09-30 21:40:41 | app.iomarkets/topup |  | 0.2.8 | Travel eSIMs and mobile top-ups paid in USDC via x402. A technology demonstrati… |
-| 2026-09-30 21:43:10 | com.zeroacquire/zeroacquire | ZeroAcquire | 1.1.0 | Prices a small acquisition two ways, least buyer cash or an SBA 7(a) loan, and… |
-| 2026-09-30 21:46:44 | org.portproof/mcp | Portproof | 0.1.0 | Proxy traffic by the GB on shared mobile 4G/5G and residential pools, paid in c… |
-| 2026-09-30 21:46:50 | com.fibrecompare/availability | Fibre Compare | 0.1.0 | Check which fibre and broadband deals are available at a UK postcode or address… |
-| 2026-09-30 21:49:42 | io.github.postoncehq/postonce | PostOnce | 0.2.0 | Create drafts, schedule posts, and publish to your connected social accounts th… |
-| 2026-09-30 21:50:08 | io.github.SecondedOracle/seconded-mcp | SECONDED | 0.3.0 | The oracle for agents. Verify trades, tokens and messages before your agent act… |
-| 2026-09-30 21:50:57 | [io.seaworthy/mcp](https://github.com/seaworthy-io/seaworthy-mcp) |  | 0.5.0 | Disability insurance MCP server with occupation-based estimates, research, and… |
-| 2026-09-30 21:53:29 | io.github.Nero-Engine/bulk-file-downloader | Bulk Image & File Downloader from CSV,… | 0.1.0 | Downloads every image or file linked in a dataset, CSV, Excel or Google Sheet a… |
-| 2026-09-30 21:53:30 | io.github.Nero-Engine/bulk-image-upscaler | Bulk AI Image Upscaler from CSV, Google… | 0.1.0 | Upscales every image linked in a dataset, CSV, Excel file or Google Sheet 2x, 3… |
-| 2026-09-30 21:53:31 | io.github.Nero-Engine/bulk-ocr-image-pdf-to-text | Bulk OCR: Image & Scanned PDF to Text f… | 0.1.0 | OCR every image and scanned PDF linked in an Apify dataset, CSV, Excel or Googl… |
-| 2026-09-30 21:53:31 | io.github.Nero-Engine/bulk-pagespeed-checker | Bulk PageSpeed & Lighthouse Checker: Co… | 0.1.0 | Google PageSpeed Insights (Lighthouse) scores, Core Web Vitals and top speed fi… |
-| 2026-09-30 21:53:32 | io.github.Nero-Engine/dataset-aggregate-pivot-full | Dataset Aggregate, Group By & Pivot | 0.1.0 | Returns GROUP BY and pivot tables for any Apify dataset, file or Google Sheet b… |
-| 2026-09-30 21:53:33 | io.github.Nero-Engine/dataset-cleaner-exporter-full | Dataset Cleaner & Exporter | 0.1.0 | Returns a deduplicated, flattened and cleaned copy of any Apify dataset, file o… |
-| 2026-09-30 21:53:33 | io.github.Nero-Engine/dataset-diff-detector-full | Dataset Diff & Change Detector: Only Ne… | 0.1.0 | Returns what was added, removed or changed between two Apify datasets, files, G… |
-| 2026-09-30 21:53:34 | io.github.Nero-Engine/dataset-filter-transform-full | Dataset Filter & Transform | 0.1.0 | Returns rows of any Apify dataset, CSV/Excel/JSON file URL or Google Sheet that… |
-| 2026-09-30 21:53:35 | io.github.Nero-Engine/dataset-join-merge-full | Dataset Join & Merge (VLOOKUP for Datas… | 0.1.0 | Returns two Apify datasets, files or Google Sheets by URL, or JSON arrays joine… |
-| 2026-09-30 21:53:35 | io.github.Nero-Engine/domain-whois-checker | WHOIS Lookup & Domain Age Checker: Bulk… | 0.1.0 | Registration date, expiry, domain age, registrar and nameservers for every doma… |
-| 2026-09-30 21:53:36 | io.github.Nero-Engine/email-list-cleaner | Bulk Email Validator & List Cleaner: MX… | 0.1.0 | Cleans an email list from an Apify dataset, a CSV/Excel file or Google Sheet, k… |
-| 2026-09-30 21:53:37 | io.github.Nero-Engine/phone-number-validator | Bulk Phone Number Validator & Cleaner:… | 0.1.0 | Bulk phone validation for an Apify dataset, CSV/Excel/JSON file or Google Sheet |
-| 2026-09-30 21:53:48 | io.github.Nero-Engine/uk-business-trust-check | UK Business Trust Check: Verify Any UK… | 0.1.0 | Check a UK business before you book, buy or pay: verdict, score and reasons fro… |
-| 2026-09-30 21:54:14 | [io.github.unvus/neosql-mcp](https://github.com/unvus/neosql-mcp) | NeoSQL MCP | 1.8.9 | Use NeoSQL Desktop database connections from MCP hosts: schemas, SQL, ERD, and… |
-| 2026-09-30 21:56:22 | [io.github.agentic-hil/agentic-hil](https://github.com/agentic-hil/agentic-hil) | Agentic HIL | 0.22.0 | Develop firmware on the real board behind a debug probe: flash, reset, UART and… |
-| 2026-09-30 21:56:44 | [dev.uiarc/arc](https://github.com/kuratlielia/arc-library) | Arc UI | 1.0.0 | React components and blocks with motion. Search docs, props and shadcn install… |
-| 2026-09-30 21:58:50 | [io.github.extensiondev/mcp](https://github.com/extensiondev/mcp) |  | 10.10.1 | Build, run, inspect, and publish browser extensions from any MCP client. 30 too… |
-| 2026-09-30 22:00:55 | [io.github.SylphxAI/anymd](https://github.com/SylphxAI/anymd) | anymd | 8.2.0 | Any file → clean Markdown for AI agents: PDF, Office, EPUB, HTML, images, audio… |
-| 2026-09-30 22:02:41 | [ai.aimentiontracker/mcp](https://github.com/aimentiontracker/mcp) | AIMentionTracker | 0.1.1 | How often ChatGPT, Claude, Gemini and Perplexity name and cite your brand, with… |
-| 2026-09-30 22:04:28 | org.chainoftitle/chain-of-title | Chain of Title | 1.0.0 | Solana launches recorded at creation: what each claimed, hashed. Observations,… |
-| 2026-09-30 22:07:20 | com.reconcileiq/mcp | ReconcileIQ | 1.0.0 | UK bookkeeping for agents: IQ Books ledger and reports, previewed changes, Code… |
-| 2026-09-30 22:08:50 | [io.github.jeneric/stig-mcp](https://github.com/jeneric/STIG-MCP) |  | 0.1.0 | MCP server mapping MITRE ATT&CK® -> NIST 800-53r5 -> DISA STIG fix/check steps |
-| 2026-09-30 22:10:28 | io.github.LAHutchins91/continuity | Continuity | 0.5.0 | Private story bible for fiction writers, shared with AI assistants over MCP. |
-| 2026-09-30 22:18:46 | io.github.Mironfvjr/br-intelligence | BR Intelligence | 1.4.1 | Brazilian company data, CNPJ/CPF validation and KYB risk score. Pay per call vi… |
+| 2026-09-30 22:20:14 | com.pinkwallet/agentic-payments-sandbox |  | 0.1.0 | Approval layer for AI agent payments: rules, budgets, human approvals. Sandbox,… |
+| 2026-09-30 22:21:58 | [io.github.tylergibbs1/backwork-mcp](https://github.com/tylergibbs1/backwork-mcp) | Backwork | 2.1.0 | Medicare coverage policies, prior authorization, claim risk, and medical codes… |
+| 2026-09-30 22:23:21 | io.github.Nicklim123/switchboard-finance | Switchboard Finance | 1.0.0 | Business finance for Australian self-employed and ABN holders. Check fit, then… |
+| 2026-09-30 22:23:37 | com.nearbypermits/permits | Nearby Permits | 0.1.0 | Building permits by street address for 8 US cities, from city open data. Free,… |
+| 2026-09-30 22:25:38 | com.theemperorprotocol/emperor-protocol | The Emperor Protocol | 1.0.0 | Commissioning, validation, and Confidence for AI agents, with real-USDC stakes… |
+| 2026-09-30 22:27:38 | [com.factuarea/mcp](https://github.com/factuarea/factuarea-mcp) | Factuarea | 0.1.1 | Spanish invoicing with VeriFactu (AEAT): invoices, quotes, contacts, products,… |
+| 2026-09-30 22:32:19 | [io.github.investorphem/abapay](https://github.com/investorphem/AbaPay) | AbaPay | 1.1.0 | Non-custodial stablecoin bill-pay rails on Celo & Base for AI agents, settled o… |
+| 2026-09-30 22:33:17 | [io.github.drhelius/geargrafx](https://github.com/drhelius/geargrafx) | Geargrafx MCP Server | 1.8.1 | MCP server for Geargrafx PC Engine / TurboGrafx-16 emulator |
+| 2026-09-30 22:36:04 | dev.workers.agent-forum-worker.agent-forum/agent-forum | Agent Forum · Free Tools + Open Falsifi… | 1.1.0 | Free: ed25519 hash timestamps, randomness tests, lottery data. Open falsificati… |
+| 2026-09-30 22:37:31 | [io.github.drhelius/gearcoleco](https://github.com/drhelius/gearcoleco) | Gearcoleco MCP Server | 1.7.2 | MCP server for Gearcoleco ColecoVision emulator |
+| 2026-09-30 22:46:35 | [io.github.debugmcp/mcp-debugger](https://github.com/debugmcp/mcp-debugger) | mcp-debugger | 0.25.1 | Step-through debugging for AI agents: breakpoints, stepping and live variables… |
+| 2026-09-30 22:47:20 | io.github.drhelius/gearlynx | Gearlynx MCP Server | 1.2.33 | MCP server for Gearlynx Atari Lynx emulator |
+| 2026-09-30 22:52:30 | [io.github.pipeworx-io/cryptocompare](https://github.com/pipeworx-io/mcp-cryptocompare) | Cryptocompare | 0.1.3 | CoinDesk Data (formerly CryptoCompare / CCData) MCP. |
+| 2026-09-30 22:52:53 | [io.github.pipeworx-io/fac](https://github.com/pipeworx-io/mcp-fac) | Fac | 0.1.3 | Federal Audit Clearinghouse (FAC) MCP — US single-audit data, served from a |
+| 2026-09-30 22:53:04 | [io.github.pipeworx-io/germany-tenders](https://github.com/pipeworx-io/mcp-germany-tenders) | Germany Tenders | 0.1.3 | Germany public procurement MCP — official German government tenders (keyless). |
+| 2026-09-30 22:53:15 | [io.github.pipeworx-io/gleif](https://github.com/pipeworx-io/mcp-gleif) | Gleif | 0.1.3 | GLEIF MCP — Global Legal Entity Identifier Foundation (free, no auth) |
+| 2026-09-30 22:53:26 | [io.github.pipeworx-io/grants-gov](https://github.com/pipeworx-io/mcp-grants-gov) | Grants Gov | 0.1.4 | Grants.gov MCP — open federal grant opportunities (free, no auth) |
+| 2026-09-30 22:53:37 | [io.github.pipeworx-io/h1b](https://github.com/pipeworx-io/mcp-h1b) | H1b | 0.2.3 | H-1B MCP — US H-1B visa sponsorship & wage data from DOL Labor Condition |
+| 2026-09-30 22:53:48 | [io.github.pipeworx-io/illinois-code](https://github.com/pipeworx-io/mcp-illinois-code) | Illinois Code | 0.1.3 | Illinois Compiled Statutes — state statutes by citation, plus topic search. |
+| 2026-09-30 22:53:59 | [io.github.pipeworx-io/north-carolina-code](https://github.com/pipeworx-io/mcp-north-carolina-code) | North Carolina Code | 0.1.3 | North Carolina General Statutes — state statutes by citation, plus topic |
+| 2026-09-30 22:54:10 | [io.github.pipeworx-io/pubmed](https://github.com/pipeworx-io/mcp-pubmed) | Pubmed | 1.1.3 | PubMed MCP — wraps the NCBI E-utilities API (biomedical literature, free, no au… |
+| 2026-09-30 22:54:35 | [io.github.pipeworx-io/indonesia-law](https://github.com/pipeworx-io/mcp-indonesia-law) | Indonesia Law | 0.1.0 | Indonesian law — national statutes and regulations, and Constitutional Court |
+| 2026-09-30 22:55:25 | [io.github.pipeworx-io/sec-financial-statements](https://github.com/pipeworx-io/mcp-sec-financial-statements) | Sec Financial Statements | 0.1.0 | SEC Financial Statement & Notes data sets — dimensional facts + note text. |
+| 2026-09-30 22:56:51 | [io.github.topsms-ghb/topsms-mcp](https://github.com/topsms-ghb/topsms-mcp) | TopSMS | 1.1.0 | Czech SMS gateway: send and schedule SMS, OTP verification codes, delivery stat… |
+| 2026-09-30 23:03:16 | io.github.ohad6k/viberaven-guides | VibeRaven Guides | 1.0.0 | Read-only VibeRaven guides: explain a finding, search launch guides, get a Supa… |
+| 2026-09-30 23:03:17 | io.github.ohad6k/plate-website-source | Plate Website Source | 1.0.0 | Read-only catalog of free Plate website source projects a coding agent can adap… |
+| 2026-09-30 23:11:46 | io.github.BenLoveitt/brix | Brix Digital Signage | 1.0.0 | Manage digital signage screens: health, content, casts, emergency messages, pro… |
+| 2026-09-30 23:12:02 | [xyz.twzrd.intel/twzrd-agent-intel](https://github.com/twzrd-sol/twzrd-trust) | TWZRD Agent Intelligence | 1.0.12 | Pre-spend trust for AI agents that buy: check x402 services and product listing… |
+| 2026-09-30 23:12:07 | chat.vitalink/directory | VITALINK | 0.1.0 | Find health professionals in 15 countries: public listings, verified credential… |
+| 2026-09-30 23:19:02 | [io.github.rcfrias/verificar-curp](https://github.com/rcfrias/verificar-curp-mcp) | Verificar CURP | 1.0.0 | Valida, coteja y verifica CURPs mexicanas en el registro de RENAPO. |
 
 ## Data source
 

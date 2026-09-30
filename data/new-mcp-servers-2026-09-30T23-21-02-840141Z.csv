@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-09-30T22:20:14.191384Z,com.pinkwallet/agentic-payments-sandbox,,0.1.0,,streamable-http,"Approval layer for AI agent payments: rules, budgets, human approvals. Sandbox, test credentials."
+2026-09-30T22:21:58.647838Z,io.github.tylergibbs1/backwork-mcp,Backwork,2.1.0,https://github.com/tylergibbs1/backwork-mcp,streamable-http,"Medicare coverage policies, prior authorization, claim risk, and medical codes from Backwork."
+2026-09-30T22:23:21.666339Z,io.github.Nicklim123/switchboard-finance,Switchboard Finance,1.0.0,,streamable-http,"Business finance for Australian self-employed and ABN holders. Check fit, then a broker calls."
+2026-09-30T22:23:37.733311Z,com.nearbypermits/permits,Nearby Permits,0.1.0,,streamable-http,"Building permits by street address for 8 US cities, from city open data. Free, no key."
+2026-09-30T22:25:38.196184Z,com.theemperorprotocol/emperor-protocol,The Emperor Protocol,1.0.0,,streamable-http,"Commissioning, validation, and Confidence for AI agents, with real-USDC stakes on Base."
+2026-09-30T22:27:38.502963Z,com.factuarea/mcp,Factuarea,0.1.1,https://github.com/factuarea/factuarea-mcp,streamable-http,"Spanish invoicing with VeriFactu (AEAT): invoices, quotes, contacts, products, taxes and filings."
+2026-09-30T22:32:19.66617Z,io.github.investorphem/abapay,AbaPay,1.1.0,https://github.com/investorphem/AbaPay,streamable-http,"Non-custodial stablecoin bill-pay rails on Celo & Base for AI agents, settled on-chain via MCP."
+2026-09-30T22:33:17.662862Z,io.github.drhelius/geargrafx,Geargrafx MCP Server,1.8.1,https://github.com/drhelius/geargrafx,,MCP server for Geargrafx PC Engine / TurboGrafx-16 emulator
+2026-09-30T22:36:04.83828Z,dev.workers.agent-forum-worker.agent-forum/agent-forum,Agent Forum · Free Tools + Open Falsification Challenge,1.1.0,,streamable-http,"Free: ed25519 hash timestamps, randomness tests, lottery data. Open falsification challenge."
+2026-09-30T22:37:31.858466Z,io.github.drhelius/gearcoleco,Gearcoleco MCP Server,1.7.2,https://github.com/drhelius/gearcoleco,,MCP server for Gearcoleco ColecoVision emulator
+2026-09-30T22:46:35.693225Z,io.github.debugmcp/mcp-debugger,mcp-debugger,0.25.1,https://github.com/debugmcp/mcp-debugger,,"Step-through debugging for AI agents: breakpoints, stepping and live variables in nine languages"
+2026-09-30T22:47:20.235973Z,io.github.drhelius/gearlynx,Gearlynx MCP Server,1.2.33,,,MCP server for Gearlynx Atari Lynx emulator
+2026-09-30T22:52:30.664384Z,io.github.pipeworx-io/cryptocompare,Cryptocompare,0.1.3,https://github.com/pipeworx-io/mcp-cryptocompare,streamable-http,CoinDesk Data (formerly CryptoCompare / CCData) MCP.
+2026-09-30T22:52:53.644124Z,io.github.pipeworx-io/fac,Fac,0.1.3,https://github.com/pipeworx-io/mcp-fac,streamable-http,"Federal Audit Clearinghouse (FAC) MCP — US single-audit data, served from a"
+2026-09-30T22:53:04.56046Z,io.github.pipeworx-io/germany-tenders,Germany Tenders,0.1.3,https://github.com/pipeworx-io/mcp-germany-tenders,streamable-http,Germany public procurement MCP — official German government tenders (keyless).
+2026-09-30T22:53:15.522951Z,io.github.pipeworx-io/gleif,Gleif,0.1.3,https://github.com/pipeworx-io/mcp-gleif,streamable-http,"GLEIF MCP — Global Legal Entity Identifier Foundation (free, no auth)"
+2026-09-30T22:53:26.465825Z,io.github.pipeworx-io/grants-gov,Grants Gov,0.1.4,https://github.com/pipeworx-io/mcp-grants-gov,streamable-http,"Grants.gov MCP — open federal grant opportunities (free, no auth)"
+2026-09-30T22:53:37.828705Z,io.github.pipeworx-io/h1b,H1b,0.2.3,https://github.com/pipeworx-io/mcp-h1b,streamable-http,H-1B MCP — US H-1B visa sponsorship & wage data from DOL Labor Condition
+2026-09-30T22:53:48.74419Z,io.github.pipeworx-io/illinois-code,Illinois Code,0.1.3,https://github.com/pipeworx-io/mcp-illinois-code,streamable-http,"Illinois Compiled Statutes — state statutes by citation, plus topic search."
+2026-09-30T22:53:59.627695Z,io.github.pipeworx-io/north-carolina-code,North Carolina Code,0.1.3,https://github.com/pipeworx-io/mcp-north-carolina-code,streamable-http,"North Carolina General Statutes — state statutes by citation, plus topic"
+2026-09-30T22:54:10.66383Z,io.github.pipeworx-io/pubmed,Pubmed,1.1.3,https://github.com/pipeworx-io/mcp-pubmed,streamable-http,"PubMed MCP — wraps the NCBI E-utilities API (biomedical literature, free, no auth)"
+2026-09-30T22:54:35.550576Z,io.github.pipeworx-io/indonesia-law,Indonesia Law,0.1.0,https://github.com/pipeworx-io/mcp-indonesia-law,streamable-http,"Indonesian law — national statutes and regulations, and Constitutional Court"
+2026-09-30T22:55:25.653442Z,io.github.pipeworx-io/sec-financial-statements,Sec Financial Statements,0.1.0,https://github.com/pipeworx-io/mcp-sec-financial-statements,streamable-http,SEC Financial Statement & Notes data sets — dimensional facts + note text.
+2026-09-30T22:56:51.537196Z,io.github.topsms-ghb/topsms-mcp,TopSMS,1.1.0,https://github.com/topsms-ghb/topsms-mcp,,"Czech SMS gateway: send and schedule SMS, OTP verification codes, delivery status and credit."
+2026-09-30T23:03:16.683456Z,io.github.ohad6k/viberaven-guides,VibeRaven Guides,1.0.0,,streamable-http,"Read-only VibeRaven guides: explain a finding, search launch guides, get a Supabase checklist."
+2026-09-30T23:03:17.334637Z,io.github.ohad6k/plate-website-source,Plate Website Source,1.0.0,,streamable-http,Read-only catalog of free Plate website source projects a coding agent can adapt.
+2026-09-30T23:11:46.429692Z,io.github.BenLoveitt/brix,Brix Digital Signage,1.0.0,,streamable-http,"Manage digital signage screens: health, content, casts, emergency messages, proof of play."
+2026-09-30T23:12:02.027025Z,xyz.twzrd.intel/twzrd-agent-intel,TWZRD Agent Intelligence,1.0.12,https://github.com/twzrd-sol/twzrd-trust,streamable-http,Pre-spend trust for AI agents that buy: check x402 services and product listings before paying.
+2026-09-30T23:12:07.304528Z,chat.vitalink/directory,VITALINK,0.1.0,,streamable-http,"Find health professionals in 15 countries: public listings, verified credentials. No medical advice."
+2026-09-30T23:19:02.860979Z,io.github.rcfrias/verificar-curp,Verificar CURP,1.0.0,https://github.com/rcfrias/verificar-curp-mcp,,"Valida, coteja y verifica CURPs mexicanas en el registro de RENAPO."
