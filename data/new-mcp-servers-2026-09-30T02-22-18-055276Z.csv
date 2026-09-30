@@ -1,0 +1,32 @@
+created_at,server,title,version,repository,transports,description
+2026-09-30T01:22:40.324201Z,io.github.pipeworx-io/boe-uk,Boe Uk,0.1.3,https://github.com/pipeworx-io/mcp-boe-uk,streamable-http,Bank of England Interactive Statistical Database (IADB) MCP.
+2026-09-30T01:22:53.372562Z,io.github.pipeworx-io/polygon-io,Polygon Io,0.1.6,https://github.com/pipeworx-io/mcp-polygon-io,streamable-http,Massive (formerly Polygon.io) MCP.
+2026-09-30T01:22:59.833684Z,io.github.fastcrw/crw,CRW Web Scraper,0.37.0,https://github.com/fastcrw/crw,,"Open-source web scraper for AI agents with scrape, crawl, and map tools"
+2026-09-30T01:23:01.356066Z,com.pavecfi/pave,PAVE,1.0.0,,streamable-http,"Read-only flight-training records for CFIs, students and schools: syllabus, schedule, FAR/AIM."
+2026-09-30T01:23:05.816031Z,io.github.pipeworx-io/statcan,Statcan,0.2.2,https://github.com/pipeworx-io/mcp-statcan,streamable-http,StatCan MCP — Statistics Canada (StatCan) via the Web Data Service (WDS).
+2026-09-30T01:23:17.885491Z,io.github.pipeworx-io/wiktionary,Wiktionary,0.1.3,https://github.com/pipeworx-io/mcp-wiktionary,streamable-http,Wiktionary MCP — multilingual dictionary via Wikimedia REST + MediaWiki Action API
+2026-09-30T01:24:36.323703Z,org.openarg/datos-publicos,OpenArg — Argentina public data,1.0.0,https://github.com/colossus-lab/openarg-mcp,streamable-http,"Argentina's official public data (INDEC, BCRA, 38 portals): search, read tables, cited answers."
+2026-09-30T01:28:28.912838Z,help.servicebuddy/mcp,ServiceBuddy Auto Repair Savings & Quote Auditor,1.1.0,https://github.com/piers-fawkes/service-buddy,streamable-http,"Auto repair quote auditor, labor price benchmarks, and service deals for any US ZIP."
+2026-09-30T01:29:53.5305Z,tech.searchpipe/searchpipe,SearchPipe,1.0.1,https://github.com/SearchPipe/searchpipe-mcp,streamable-http,"Real-time web search for AI agents: ranked results, source URLs, and optional AI answers."
+2026-09-30T01:32:20.770099Z,au.com.locio/addresses,Locio Australian addresses,1.0.0,,streamable-http,"Australian address autocomplete, validation and geocoding from G-NAF, the national register."
+2026-09-30T01:32:24.729979Z,io.postfinder/places,PostFinder post offices and parcel points,1.0.0,,streamable-http,"Nearest post offices, parcel lockers and post boxes in AU, NZ, US, UK and Canada. Free, no key."
+2026-09-30T01:32:27.033725Z,io.github.rubrikinc/rubrik-mcp,Rubrik Security Cloud,0.8.20260914,https://github.com/rubrikinc/rubrik-mcp,,"Connect AI assistants to the Rubrik Security Cloud GraphQL API to discover, query, and automate."
+2026-09-30T01:32:27.545285Z,io.chargealong/chargers,ChargeAlong public EV charging,1.0.0,,streamable-http,"EV chargers near a point and charging networks in AU, NZ, US, UK and Canada. Free, no key."
+2026-09-30T01:38:01.35612Z,fr.librejustice/librejustice,LibreJustice,1.18.0,https://github.com/librejustice/librejustice,streamable-http,"Search French-language and European case law and French legal texts (codes, statutes, treaties)."
+2026-09-30T01:39:06.871869Z,com.menloinsurance/quotes,Menlo Insurance,0.2.0,,streamable-http,Find Menlo insurance quote forms and continue one customer-authorized quote application.
+2026-09-30T01:39:28.383021Z,ai.profusia/profusia,Profusia,0.1.0,,streamable-http; streamable-http,"Give your AI a place to publish: living pages with live data, shareable links, no deploy pipeline."
+2026-09-30T01:39:57.687615Z,dev.toolrail/mcp,Toolrail,1.0.0,,streamable-http,"Chile and LATAM data utilities: UF, RUT, business days, FX and VAT. Free daily MCP quota."
+2026-09-30T01:41:54.136566Z,com.menloinsurance/mcp,Menlo Insurance,0.2.0,,streamable-http,Find Menlo insurance quote forms and continue one customer-authorized quote application.
+2026-09-30T01:45:27.025725Z,br.com.sistemasinovadores/zp-nexus,ZP Nexus,1.0.0,,streamable-http,"Suas IAs nos computadores e projetos da empresa, com permissões, aprovações e auditoria."
+2026-09-30T01:45:34.951791Z,io.github.rodrigorjsf/langfuse-api-mcp,Langfuse API,0.1.0,https://github.com/rodrigorjsf/langfuse-api-mcp,,"Langfuse public API (Cloud and self-hosted): traces, prompts, datasets and gated writes."
+2026-09-30T01:46:50.437435Z,ai.mcpcap/mcpcap,,0.10.0,https://github.com/mcpcap/mcpcap,,An MCP server for analyzing PCAP files.
+2026-09-30T01:48:30.898035Z,io.github.nzdsf2-gif/relayshield-free-mcp,RelayShield Scam Checks,1.30.0,,streamable-http,"Free scam checks for links, wallets, emails, and breach exposure. No signup."
+2026-09-30T01:54:06.667417Z,io.github.matlegault/lumae,Lumae,0.10.0,https://github.com/matlegault/lumae-releases,,"Record, cut, zoom, caption and export software demos from an agent. Requires Lumae for macOS."
+2026-09-30T01:55:56.598627Z,io.github.Xxx91n/mcp-for-maya,mcp-for-maya,0.4.1,https://github.com/Xxx91n/mcp-for-maya,,"AI agents' spatial awareness inside Autodesk Maya: audit, rollback safety, visual loop (Beta)"
+2026-09-30T02:03:11.094236Z,link.layout/restaurant-food-ordering,Layout,1.0.0,,streamable-http,"Order food anywhere with AI. Any restaurant, cafe or coffee shop, by name."
+2026-09-30T02:03:11.555025Z,io.github.Shree-git/sendit,SendIt,1.2.0,https://github.com/Shree-git/sendit-agent-integrations,streamable-http,"Publish and schedule social posts, upload media, and review analytics through OAuth."
+2026-09-30T02:07:19.637605Z,com.microsoft/azure,Azure MCP Server,3.0.0-beta.48,https://github.com/microsoft/mcp,,All Azure MCP tools to create a seamless connection between AI agents and Azure services.
+2026-09-30T02:11:15.468811Z,io.github.bankstatemently/bankstatemently-mcp,Bankstatemently,1.5.0,https://github.com/bankstatemently/plugins,streamable-http,"Convert PDF bank statements into structured transactions, accounts, and balances."
+2026-09-30T02:13:06.712875Z,ai.sentfrom/mcp,,0.4.1,https://github.com/sentfromai/sentfromai-mcp,streamable-http,"Email for AI agents: inboxes, send/reply/forward, search, threads, webhooks — 21 SentFromAI tools."
+2026-09-30T02:17:21.094551Z,io.github.industrial-platform-ai/industrial-platform,Industrial Platform,1.0.0,https://github.com/industrial-platform-ai/industrial-platform-agent-tools,streamable-http,Paid research and web-data tools for autonomous AI agents and MCP workflows.
+2026-09-30T02:19:48.210347Z,io.github.drfccv/mcp-server-12306,,0.5.0.post20260930,https://github.com/drfccv/mcp-server-12306,,An MCP server that provides 12306 ticket query
