@@ -9,43 +9,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 13:19 UTC
+## Latest list — 2026-10-01 14:19 UTC
 
-New MCP servers published between 2026-10-01 12:21 UTC and 2026-10-01 13:19 UTC.
+New MCP servers published between 2026-10-01 13:19 UTC and 2026-10-01 14:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-01T13-19-13-66978Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-01T14-19-22-158957Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-01 12:21:41 | [io.github.kyliemckinleydemo/sec-filing-analyzer](https://github.com/kyliemckinleydemo/sec-filing-analyzer) |  | 1.0.0 | AI-analyzed SEC filings: filings, analysis, screening, 30-day signals, track re… |
-| 2026-10-01 12:28:28 | io.github.zebudata/local-business-leads | Zebu Data - Local Business Leads | 1.0.0 | Find local businesses on Google Maps, Yellow Pages and Yelp, then pull emails f… |
-| 2026-10-01 12:28:29 | io.github.zebudata/ecommerce-product-data | Zebu Data - Amazon & eBay Product Data | 1.0.0 | Amazon and eBay search results, product details, prices, variants and seller re… |
-| 2026-10-01 12:28:30 | io.github.zebudata/korea-commerce-data | Zebu Data - Naver & Coupang Korea Data | 1.0.0 | Korean e-commerce data from Naver Shopping and Coupang: products, prices, selle… |
-| 2026-10-01 12:28:31 | io.github.zebudata/social-video-data | Zebu Data - X (Twitter) & YouTube Data | 1.0.0 | X (Twitter) search, profiles and global trends, plus YouTube search, video stat… |
-| 2026-10-01 12:31:30 | com.triplicatedocs/triplicate | Triplicate – export documents | 1.0.0 | Matching invoices, packing list and shipping instruction from order data; HS co… |
-| 2026-10-01 12:34:57 | [io.github.formbaseso/formbase-mcp](https://github.com/formbaseso/formbase-mcp) | formbase | 1.0.0 | formbase.so collects and verifies information from customers for workflows and… |
-| 2026-10-01 12:36:36 | [com.nodajimarket/catalog](https://github.com/NodajiFi-Tokenomy/NodajiFi-Ecosystem) | NodajiMarket | 1.0.0 | Korean handcrafted goods by named artists: search, artists, duty-included quote… |
-| 2026-10-01 12:36:49 | cn.550wai/550w-ai-media-cn | 550W AI去字幕去水印 | 3.1.3 | 图片去文字去水印、本地视频去硬字幕及画面水印，支持抖音、快手、哔哩哔哩、微博等分享链接去水印。OAuth 授权；本地文件需客户端上传支持，不支持时到 qzm.… |
-| 2026-10-01 12:36:50 | cn.550wai/550w-ai-media-global | 550W Watermark & Text Eraser | 3.1.3 | Image/video text & watermark erasure; TikTok/X links. OAuth; files need client… |
-| 2026-10-01 12:36:58 | eu.nordiccontacts/nordiccontacts | NordicContacts | 1.0.0 | Find companies and decision-maker contacts in Finland, Sweden and Estonia for B… |
-| 2026-10-01 12:37:00 | [app.postel/postel](https://github.com/robinfaraj/postel-mcp) | Postel | 1.0.0 | Draft, schedule and publish X (Twitter) and LinkedIn posts in your own voice. |
-| 2026-10-01 12:37:04 | ch.clino/household-employment | Clino: Swiss household employment | 1.2.0 | Hiring plan with dates, cost, net wage, minimum wage and rules for Swiss househ… |
-| 2026-10-01 12:38:05 | io.github.menghaoran214-lang/vibe-coding-cn | Vibe Coding 中文助手 | 0.6.0 | Read-only Chinese Vibe Coding knowledge connector for search, docs, and repo fr… |
-| 2026-10-01 12:38:21 | [io.github.ra1labsworkx-wq/snapback](https://github.com/ra1labsworkx-wq/snapback-selfheal) | Snapback | 1.8.3 | Diagnose why an AI agent failed and get the verified fix instantly. Free, no to… |
-| 2026-10-01 12:38:56 | [io.github.BentleySystems/openstaad-mcp](https://github.com/BentleySystems/openstaad-mcp) | OpenSTAAD MCP Server | 1.3.0 | MCP server for Bentley STAAD.Pro via the OpenSTAAD API |
-| 2026-10-01 12:40:35 | [io.github.alialtunar/pricing-time-machine-mcp](https://github.com/alialtunar/pricing-time-machine-mcp) | Pricing Time Machine | 0.1.0 | How any SaaS pricing page changed over the years, from the Wayback Machine. No… |
-| 2026-10-01 12:40:36 | [io.github.alialtunar/hn-hiring-trends-mcp](https://github.com/alialtunar/hn-hiring-trends-mcp) | HN Hiring Trends | 0.1.0 | Skill demand trends, salaries and job search from Hacker News Who is hiring thr… |
-| 2026-10-01 12:40:37 | [io.github.alialtunar/model-price-radar-mcp](https://github.com/alialtunar/model-price-radar-mcp) | Model Price Radar | 0.1.0 | LLM prices on OpenRouter now and since 2023: history, drops, cheapest model for… |
-| 2026-10-01 12:42:17 | app.trvlrr/trvlrr | Trvlrr | 1.0.0 | Your travel history and upcoming trips: flights, stays, activities, places, pho… |
-| 2026-10-01 12:45:10 | [com.agenttoolworks/storecatalog](https://github.com/agenttoolworks/mcp-servers) | Store Catalog | 1.0.0 | Shopify and WooCommerce product catalogs for agents: list, search, full product… |
-| 2026-10-01 12:46:27 | ai.sharksapi/marketing | SharksAPI.AI | 1.0.0 | Marketing data and actions for AI agents: GA4, Search Console, ads, social, SEO… |
-| 2026-10-01 12:48:35 | app.jobwyre/jobwyre | jobwyre | 4.0.0 | Track job applications on a board: let Claude or ChatGPT read and update jobs,… |
-| 2026-10-01 13:02:24 | [io.github.clipugc/clipugc](https://github.com/clipugc/ClipUGC-CLI) | ClipUGC | 1.3.0 | Create AI influencer characters, looks, video clips and merged UGC app ads with… |
-| 2026-10-01 13:03:19 | com.canhelpto/support | canhelpto support inbox | 1.0.0 | Customer support for MCP servers: work your tickets from Claude or any MCP clie… |
-| 2026-10-01 13:06:31 | com.ashareapi/ashare-data-api | A股数据 API (A-Share Data API) | 2026.10.1 | A-share data over MCP: quotes, profile, order book, K-line, financials, money f… |
-| 2026-10-01 13:08:00 | [co.datummarket/datum-mcp-server](https://github.com/datumMarket/datum-marketplace) | Datum Marketplace | 1.7.1 | Agent-native marketplace: buy and sell datasets, snapshots and solved problems. |
-| 2026-10-01 13:08:00 | [io.github.RekklesNA/proxmox-mcp-plus](https://github.com/RekklesNA/ProxmoxMCP-Plus) | ProxmoxMCP-Plus | 0.5.24 | Proxmox VE MCP server for VMs, LXCs, snapshots, backups, storage, and cluster o… |
-| 2026-10-01 13:12:14 | io.github.iancarson/narrareach | Narrareach | 1.0.0 | Plan, schedule, and analyze publishing across channels. Requires a Narrareach a… |
+| 2026-10-01 13:21:29 | [io.github.noah-silver/agentpay-extract](https://github.com/noah-silver/agentpay) | AgentPay Web Extract | 1.1.0 | Pay-per-call web page to markdown, metadata and links for agents. x402 USDC on… |
+| 2026-10-01 13:21:35 | [io.github.noah-silver/agentpay-lookup](https://github.com/noah-silver/agentpay) | AgentPay Domain & Network Lookup | 1.1.0 | Pay-per-call DNS, WHOIS/RDAP, IP and domain reports for agents. x402 USDC on Ba… |
+| 2026-10-01 13:21:40 | [io.github.noah-silver/agentpay-tools](https://github.com/noah-silver/agentpay) | AgentPay Doc Tools | 1.1.0 | Pay-per-call PDF to text, RSS/Atom to JSON, sitemap to URLs for agents. x402 US… |
+| 2026-10-01 13:21:43 | [io.github.noah-silver/agentpay-bundle](https://github.com/noah-silver/agentpay) | AgentPay (all tools) | 1.1.0 | Pay-per-call web extract, DNS/WHOIS/IP lookup, PDF/RSS/sitemap tools. x402 USDC… |
+| 2026-10-01 13:26:45 | com.cmein/cmein | CMeIn | 1.0.0 | Dating-profile photos that look like you. Advice from our articles; connect an… |
+| 2026-10-01 13:28:34 | com.snitcher/snitcher | Snitcher | 1.5.0 | Identify companies visiting your website: organisations, contacts, segments, ta… |
+| 2026-10-01 13:29:51 | [io.github.keboola/agnes](https://github.com/keboola/agnes-the-ai-analyst) | Agnes | 1.4.0 | Governed access to your company's data and memory: catalog, schema, SQL and ski… |
+| 2026-10-01 13:30:19 | [io.github.orionlabsai/agentum-mcp-server](https://github.com/orionlabsai/agentum-mcp-server) |  | 1.2.5 | Dados globais reais (CNPJ, CEP, LEI, VAT, câmbio) via MCP, pagos em USDC por ch… |
+| 2026-10-01 13:34:58 | dev.pages.smithtalks/smithtalks | SmithTalks | 1.0.0 | Pseudonymous message network for agents. Claims, marketplace, 20 tools, verifia… |
+| 2026-10-01 13:36:53 | com.doodates/mcp | DooDates | 1.0.0 | Create a group date poll in one sentence; participants vote with no account. |
+| 2026-10-01 13:38:20 | com.trycloudflare.supporters-result-promo-celebrity/mci-scout | MCI Scout | 0.3.1 | Free search and declared-price review of public MCP and x402 service catalogs.… |
+| 2026-10-01 13:41:04 | [io.github.TechVentures-Studio/httrack-mcp](https://github.com/TechVentures-Studio/httrack-mcp) | HTTrack MCP Server | 1.0.1 | AI-agent website mirroring and offline archive browsing over MCP, powered by HT… |
+| 2026-10-01 13:41:42 | com.createavataaars/avatars | createavataaars | 1.0.0 | Make avatars in seven illustrated styles, like Avataaars and Notionists, as PNG… |
+| 2026-10-01 13:42:42 | ai.futureinfra/futureinfra | FutureInfra | 1.0.0 | Korean cloud for AI agents — create servers, deploy Docker apps, manage domains… |
+| 2026-10-01 13:49:04 | app.worthbase/worthbase | Worthbase | 1.0.0 | Household net worth and portfolio tracker your AI keeps: priced daily, previewe… |
+| 2026-10-01 13:54:02 | [app.ridgehq/mcp](https://github.com/kedarvijaykulkarni/RidgeHQAPP) | RidgeHQAPP | 1.0.1 | Trip, roster, client and session tools for dive and watersports operators, scop… |
+| 2026-10-01 13:55:37 | [io.github.mattpicone/upgradelens](https://github.com/mattpicone/upgradelens) | UpgradeLens | 0.4.5 | npm/PyPI/Django dependency upgrades: security, runtime compatibility, migration… |
+| 2026-10-01 13:57:11 | [app.allagents/directory](https://github.com/allagents-app/allagents) |  | 1.0.0 | Find AI agents (A2A, MCP, API) with tested badges: search, read cards, relay me… |
+| 2026-10-01 13:57:33 | [io.github.cyanheads/cern-opendata-mcp-server](https://github.com/cyanheads/cern-opendata-mcp-server) |  | 0.1.1 | Search CERN Open Data, fetch records, files, analysis environments, CMS good-ru… |
+| 2026-10-01 13:58:35 | tech.botclaw/agent-observer | BotClaw · Agent Observer | 1.1.0 | Read-only agent news, sourced workflows, capability comparisons and incremental… |
+| 2026-10-01 13:59:10 | [io.github.douglasborthwick-crypto/insumer](https://github.com/insumerapi/mcp-server-insumer) |  | 1.13.9 | Read-first blockchain verification. ECDSA-signed booleans across 37 chains. 27… |
+| 2026-10-01 13:59:39 | [io.github.X1pheR/qmd-mcp](https://github.com/X1pheR/qmd-mcp) | QMD MCP | 0.2.0 | Local QMD search and bounded index maintenance through a Streamable HTTP MCP se… |
+| 2026-10-01 14:00:52 | com.placeschema/places | PlaceSchema Places | 0.2.0 | Find 3D web worlds, who verifiably owns each, what items it accepts, and portal… |
+| 2026-10-01 14:01:36 | com.kasset/mcp | Kasset | 1.0.0 | Search and read your Kasset meetings and conversations: notes, transcripts and… |
+| 2026-10-01 14:01:52 | [io.github.marian-kamenistak/elc-conference-mcp-tickets](https://github.com/marian-kamenistak/elc-conference-mcp-tickets) | ELC Conference 2027: tickets, perks, pa… | 0.2.0 | ELC Conference 2027, Prague: tickets, attendee perks and partnership quotes fro… |
+| 2026-10-01 14:02:32 | [io.github.nublson/purl](https://github.com/nublson/purl) | Purl | 0.1.6 | Search and save to your Purl read-it-later knowledge base from any MCP client. |
+| 2026-10-01 14:04:50 | [io.github.plur-ai/plur](https://github.com/plur-ai/plur) |  | 0.21.0 | Open, local-first engram memory for AI agents: read, correct, delete; shared ov… |
+| 2026-10-01 14:07:43 | [io.github.probe402/probe402-check](https://github.com/probe402/probe402-check) | probe402-check | 0.2.1 | Ask probe402's public record about an x402 or MPP endpoint before an agent pays… |
+| 2026-10-01 14:08:03 | com.304notfound/304notmodified | 304NotModified | 0.3.0 | Sourced, dated answers for agents (FR/EU rules, e-invoicing, Qualiopi) + market… |
+| 2026-10-01 14:08:33 | [io.github.RepoAssay/repo-test-architect](https://github.com/repoassay/repo-test-architect) | Repo Test Architect | 1.0.0 | Audit-first test strategy MCP server for repository-native test planning. |
+| 2026-10-01 14:08:49 | [com.mambabuilt/mcp-expert-witness-directory](https://github.com/mambalabsdev/mcp-expert-witness-directory) |  | 1.0.0 | Expert witness and medico-legal directory records for the US and Australia, one… |
+| 2026-10-01 14:09:29 | io.github.jmxisnext/academic-evidence-pack | Academic Evidence Pack | 1.5.0 | Signed citation-integrity reports + retraction-checked evidence packs, paid per… |
+| 2026-10-01 14:10:24 | [io.github.drexthealpha/knos](https://github.com/drexthealpha/Knos) | Knos | 0.3.3 | Hire any AI agent, pay only for accepted work (escrow on Solana); shared memory… |
+| 2026-10-01 14:11:30 | io.github.robertisaak/nepternship | Nepternship | 1.0.0 | Warm intros and referrals for internships and entry-level jobs at 3,000+ compan… |
+| 2026-10-01 14:12:15 | [com.usebondery/mcp](https://github.com/usebondery/bondery) | Bondery | 1.10.1 | Open-source personal CRM for building better bonds |
+| 2026-10-01 14:19:17 | org.jobopportunitiesapi/mcp | JOA — Job Opportunities API | 1.0.0 | Search 2.3M live employer-direct job postings, company hiring signal, market st… |
+| 2026-10-01 14:19:20 | com.searchfragments/search-fragments | Search Fragments | 0.2.3 | Resolves half-remembered books, films, songs and people into a cited answer, a… |
 
 ## Data source
 
