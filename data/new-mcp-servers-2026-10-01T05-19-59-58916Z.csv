@@ -1,0 +1,15 @@
+created_at,server,title,version,repository,transports,description
+2026-10-01T04:37:39.577348Z,io.github.canopy-labs/featureflip,Featureflip,0.1.9,https://github.com/canopy-labs/featureflip-mcp,,"Manage Featureflip feature flags, targeting and rollouts from AI agents and editors."
+2026-10-01T04:39:10.052223Z,io.github.skynetcmd/m3-memory,M3 Memory,2026.10.1.0,https://github.com/skynetcmd/m3-memory,,"Local-first memory — 100+ tools, 99.2% LongMemEval-S retrieval@10, hybrid search, GDPR, no cloud."
+2026-10-01T04:42:23.046121Z,io.github.notiqo-app/notiqo,,0.1.3,https://github.com/notiqo-app/friendly-tracker,,"Import canonical analytics tagging guides into Notiqo: dry-run first, writes only on confirmation."
+2026-10-01T04:42:32.791577Z,com.cryptominium/cryptominium,Cryptominium,1.0.0,,streamable-http,"What a crypto position would really sell for: measured exit costs, address and transaction lookups."
+2026-10-01T04:43:10.578593Z,com.mandarelabs/mandare,Mandare,0.1.0,https://github.com/mandarelabs/mandare,,"Verify an agent fleet's tamper-evident ledger, check budgets, kill a runaway agent. Local-first."
+2026-10-01T04:48:30.672837Z,com.metricduck/financial-analysis,MetricDuck — Financial Analysis,0.9.0,,streamable-http,"SEC data layer for AI agents — financials, screening, every figure traceable to its filing."
+2026-10-01T04:48:42.924769Z,io.github.tidytools/tidytools-apify-tools,"TidyTools: lead enrichment, RAG Markdown, transcripts, AI crawler checks",1.0.0,https://github.com/tidytools/tidytools-apify-mcp,streamable-http,"Enrich Google Maps leads, crawl docs to RAG Markdown, transcribe podcasts, check AI crawler access."
+2026-10-01T04:57:18.618648Z,io.github.Ethersflow/EthersFlow,EthersFlow — Trust Gate for AI Agents,0.2.8,https://github.com/Ethersflow/EthersFlow,streamable-http,"Trust gate for AI agents: multi-model adversarial consensus, signed and verifiable verdicts."
+2026-10-01T05:01:56.194477Z,io.github.enstest1/deepcuts,Deepcut,2.1.0,,streamable-http,AI playlist engine that turns music prompts into real YouTube playlists and filters bad versions.
+2026-10-01T05:04:22.800721Z,com.paramountls/loan-application,Paramount Loan Services — Mortgage Loan Application,1.1.0,,streamable-http,File a Fannie Mae Form 1003 mortgage application with a licensed California broker. No API key.
+2026-10-01T05:12:12.642147Z,io.github.nowork-studio/notfair,NotFair,0.27.15,https://github.com/nowork-studio/notfair-plugin,streamable-http,"OAuth MCP for Google, Meta, X, LinkedIn, Reddit, TikTok, GSC, GA4, WordPress and GHL."
+2026-10-01T05:14:16.999767Z,dev.workers.cybermax-tools.cybermax/swellmeter-api,Swellmeter Trending,1.0.0,,streamable-http,"Google trending searches API + MCP: 30 countries, day lists, 30-day history. 50 free calls/day."
+2026-10-01T05:17:45.14293Z,io.github.elie222/inbox-zero,Inbox Zero,0.1.0,https://github.com/elie222/inbox-zero,streamable-http,"Search Gmail and Outlook, save drafts, manage email rules, and view email stats."
+2026-10-01T05:19:07.625706Z,io.github.hardtab/supercheap-shopping,SuperCheap,0.1.0,,streamable-http,"Search products, manage a customer cart, and request current checkout quotes."
