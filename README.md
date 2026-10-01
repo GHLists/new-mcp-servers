@@ -9,43 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 19:20 UTC
+## Latest list — 2026-10-01 20:20 UTC
 
-New MCP servers published between 2026-10-01 18:20 UTC and 2026-10-01 19:20 UTC.
+New MCP servers published between 2026-10-01 19:20 UTC and 2026-10-01 20:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-01T19-20-52-399343Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-01T20-20-12-262349Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-01 18:25:35 | [io.github.bch1212/modelwatch](https://github.com/bch1212/modelwatch) |  | 0.1.2 | Continuous behavioral drift monitoring for LLM apps — catches silent provider m… |
-| 2026-10-01 18:33:27 | app.agentsknow/agentboard | AgentBoard | 0.1.2 | Autonomous agent coordination for beneficial projects: shared goals, tasks, rev… |
-| 2026-10-01 18:39:27 | [immo.rundum/real-estate-appraisal](https://github.com/Rundum-Immo/real-estate-appraisal-mcp) | Rundum Immo Real Estate Appraisal | 0.2.0 | German property depreciation, purchase-price allocation, appraisal prices and b… |
-| 2026-10-01 18:40:02 | dev.cubic/cubic | cubic | 1.0.0 | Triage cubic AI code review findings, start PR reviews, and read wikis, scans,… |
-| 2026-10-01 18:44:37 | ai.tailortalk/tailortalk | TailorTalk | 1.0.0 | Set up and improve your TailorTalk AI sales agent, and analyze your leads and c… |
-| 2026-10-01 18:44:57 | [io.github.masamoto1982/ajisai](https://github.com/masamoto1982/Ajisai) | Ajisai | 0.7.0 | Exact rational and algebraic computation, with machine-readable Word contracts,… |
-| 2026-10-01 18:49:03 | [io.github.dawestheperson/kronos](https://github.com/dawestheperson/kronos) | Kronos | 0.1.0 | A memory for your AI assistant, kept on your machine. Search and recall past co… |
-| 2026-10-01 18:51:04 | [xyz.groundtruths/groundtruth](https://github.com/groundtruths/groundtruth-mcp) |  | 1.3.0 | Dev records, pump.fun + Robinhood Chain: launches, rugs, bonded, live last mint… |
-| 2026-10-01 18:52:36 | [io.github.damejeras/agentgrasp](https://github.com/damejeras/agentgrasp) | agentgrasp | 0.1.0 | Yes/no questions about local files, and relevant-file search, with TypeSafe Jev |
-| 2026-10-01 18:53:36 | [io.github.Dakera-AI/dakera-mcp](https://github.com/Dakera-AI/dakera-mcp) |  | 0.11.0 | Agent memory engine — 99 MCP tools, self-hosted, single Rust binary |
-| 2026-10-01 18:55:28 | [io.github.thejaredchapman/evalforge-lite](https://github.com/thejaredchapman/evalforge-lite) | EvalForge Lite | 1.0.1 | Compare text LLMs across OpenRouter, Bedrock, Vertex AI and Foundry with automa… |
-| 2026-10-01 18:55:51 | [io.github.silamir/boondmanager-mcp-server](https://github.com/silamir/boondmanager-mcp-server) | BoondManager MCP Server | 2.18.0 | MCP Server for BoondManager API - 185 tools, 13 prompts, 22 resources (ERP/CRM) |
-| 2026-10-01 18:56:09 | run.capable/crm | Capable | 2.7.2 | MCP-native CRM: your assistant proposes updates, you approve them field by fiel… |
-| 2026-10-01 18:59:07 | [io.github.hshintelligence/data-on-demand](https://github.com/hshintelligence/data-on-demand) | HSH Data-on-Demand | 2.1.1 | Made-to-order data for AI agents: company intel, B2B contacts, scraping. Pay pe… |
-| 2026-10-01 19:01:00 | dev.arcgate/arcgate | arcgate | 0.1.0 | Token search, swap quotes and ready-to-sign swap transactions on Arc, paid per… |
-| 2026-10-01 19:02:08 | [com.pack4back/nutrition](https://github.com/pack4back/garmin-nutrition) | Nutrition by Pack4Back | 0.7.15 | Log meals, water, and weight to Garmin Connect from Claude or ChatGPT. |
-| 2026-10-01 19:02:27 | [io.github.dhishwasher/girder](https://github.com/dhishwasher/Girder) | Girder | 0.3.0 | Local semantic code graph: source, definitions, callers, callees, impact, and s… |
-| 2026-10-01 19:02:46 | eu.riskrouter/evidence-log |  | 1.0.0 | Tamper-evident evidence log: signed heads, proofs, and recording salted digests… |
-| 2026-10-01 19:03:58 | [com.screenbrowser/screenbrowser](https://github.com/screenbrowser/skill) | Screen Browser | 1.3.7 | Narrated demo and tutorial videos of your web app, from a guide or your coding… |
-| 2026-10-01 19:04:09 | [io.github.parasxos/postbag](https://github.com/parasxos/postbag) |  | 2.2.0 | Local Claude Code and Codex sessions on one machine exchange letters through na… |
-| 2026-10-01 19:07:39 | [io.github.yaniswav/topicforge](https://github.com/yaniswav/TopicForge) | TopicForge | 0.5.3 | Read-only MCP server for ROS2 and DDS: topics, participants, QoS mismatches, ba… |
-| 2026-10-01 19:07:47 | com.saastemly/crawl4agent | Crawl4Agent | 1.0.1790881666 | crawl4ai-compatible web crawler API: POST a URL, get clean LLM-ready Markdown w… |
-| 2026-10-01 19:08:32 | io.spingras/mcp | SpinGras | 0.1.0 | EU AI Act Article 4 (AI literacy) readiness check and intro booking with SpinGr… |
-| 2026-10-01 19:09:17 | [io.github.damejeras/agentchan](https://github.com/damejeras/agentchan) | agentchan | 0.1.4 | Lets one coding agent talk to another: Claude Code, Codex or Grok |
-| 2026-10-01 19:11:16 | [io.github.Desearch-ai/mcp-desearch](https://github.com/Desearch-ai/mcp-desearch) | Desearch | 0.1.2 | AI search, X search, web search, page extraction, and X trends. |
-| 2026-10-01 19:11:21 | [io.github.projectworks007/news-and-trends](https://github.com/projectworks007/apify-data-mcp) | News & Trends Data | 1.0.0 | Google Trends, Google News, Hacker News, Substack posts and podcasts for resear… |
-| 2026-10-01 19:11:26 | [io.github.projectworks007/events-data](https://github.com/projectworks007/apify-data-mcp) | Events Data | 1.0.0 | Events with dates, venues, prices and organisers from Eventbrite and Meetup. |
-| 2026-10-01 19:11:57 | [io.github.github/github-mcp-server](https://github.com/github/github-mcp-server) | GitHub | 1.13.0 | Connect AI assistants to GitHub - manage repos, issues, PRs, and workflows thro… |
-| 2026-10-01 19:12:09 | ai.partforge/partforge | PartForge | 1.0.0 | Design 3D-printable parts by chatting: create, edit, render and publish paramet… |
+| 2026-10-01 19:21:57 | [io.github.timescale/tiger-cli](https://github.com/timescale/tiger-cli) | Tiger MCP | 0.26.0 | Provides programmatic access to Tiger Cloud services, databases, and documentat… |
+| 2026-10-01 19:22:49 | [io.github.artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) |  | 0.52.204 | MCP server + Claude Code plugin for ComfyUI: run workflows, generate images, ma… |
+| 2026-10-01 19:24:56 | fr.macoproenregle/macoproenregle | Ma Copro En Règle | 1.0.0 | French condominiums (copropriétés): legal compliance check, managing agents, co… |
+| 2026-10-01 19:26:21 | com.idevice/wearables | iDevice Wearables | 2.2.0 | Wearables and phones: prices, availability, compatibility, specs, comparisons,… |
+| 2026-10-01 19:26:34 | [io.github.JonasFuchss/x402-trust-mcp](https://github.com/JonasFuchss/x402-trust-mcp) |  | 1.14.0 | Trust & reliability data for x402 endpoints before your agent pays them. |
+| 2026-10-01 19:27:31 | [com.flownato/flownato-mcp](https://github.com/flownato/flownato-mcp) |  | 1.0.0 | Mobile UI/UX design research: real app screens, user flows and UI patterns with… |
+| 2026-10-01 19:28:50 | [io.github.Travisswop/swop](https://github.com/Travisswop/swop-mcp) |  | 0.2.0 | Sell to people and AI agents: create products, a storefront, and USDC payment l… |
+| 2026-10-01 19:33:02 | [io.github.inde-x/papersprocket](https://github.com/inde-x/papersprocket-mcp) | PaperSprocket | 1.0.0 | EU-hosted HTML-to-PDF rendering for agents and MCP clients. Temporary document… |
+| 2026-10-01 19:34:08 | [io.github.zz-plant/ambit](https://github.com/zz-plant/ambit) |  | 0.5.0 | Capability graph of your agent stack: what it can do, what to set up next, what… |
+| 2026-10-01 19:35:55 | io.github.magiccadai/magicon | MagicON RF Design Engines | 1.0.0 | RF module design: transmit, receive and T/R chains, stackup, thermal, PDN and c… |
+| 2026-10-01 19:38:59 | app.subvencioname/datos-publicos | Subvencióname | 1.0.0 | Subvenciones, licitaciones y contratos adjudicados de España, de fuentes oficia… |
+| 2026-10-01 19:41:13 | io.conversiontools/mcp | Conversion Tools | 2.0.0 | Convert files too big or exotic for a sandbox: 140+ formats, batch, OCR, AI ext… |
+| 2026-10-01 19:42:18 | gallery.lerp/lerpgallery | Lerp | 0.7.0 | Search website motion, specs and recreation packs. Account required; OAuth or b… |
+| 2026-10-01 19:45:48 | com.whimbrelresearch/whimbrel-research | Whimbrel MedTech Analyst | 1.0.0 | US medtech signals over MCP (FDA, NIH/NSF). Free archive; subscriptions unlock… |
+| 2026-10-01 19:46:59 | com.plainrouter/mcp | Plainrouter | 0.4.1 | Meta Ads MCP: read ad accounts and signal health; propose governed changes unde… |
+| 2026-10-01 19:50:48 | [io.github.niklas-schmidt-dev/mobdev](https://github.com/niklas-schmidt-dev/mobdev) | Mobdev | 0.2.22 | Mac app that lets AI agents drive iPhones, iOS simulators and Android: tap, typ… |
+| 2026-10-01 19:51:23 | [io.github.cookiechain/cookie-mcp](https://github.com/cookiechain/cookie-mcp) |  | 0.7.0 | Cookie Chain tools for AI agents: swap, launch, liquidity, staking, NFTs, and a… |
+| 2026-10-01 19:54:21 | [io.github.zebbern/hacktricks-mcp](https://github.com/zebbern/hacktricks-mcp) |  | 0.1.5 | Offline full-text search over the HackTricks security wiki, synced every 3 days. |
+| 2026-10-01 19:54:54 | io.github.daski-io/daski | Daski | 0.1.0 | Discover, purchase, and manage real-world services through Daski's curated mark… |
+| 2026-10-01 19:55:58 | [io.github.trhonpavel/medusa-mcp](https://github.com/trhonpavel/medusa-mcp) | Medusa | 0.2.2 | Medusa v2 store: orders, customers, products, inventory, sales reports and safe… |
+| 2026-10-01 19:57:16 | [com.launchdistro/launchdistro-mcp](https://github.com/LaunchDistro/launchdistro-mcp) | LaunchDistro | 1.0.0 | Plan startup directory submissions and verify the links went live, with your ow… |
+| 2026-10-01 19:57:50 | com.kzsaleshub/knowledge | KZSalesHub Knowledge | 1.0.0 | B2B sales, marketing, AI and management knowledge base for Kazakhstan and Centr… |
+| 2026-10-01 20:02:05 | br.com.oiair/marketplace | OiAir activities | 0.1.0 | Find children's activities in Florianópolis, read published conditions and get… |
+| 2026-10-01 20:03:35 | com.zeamprism/prism-mcp | Prism MCP | 1.3.0 | Agent-facing tools marketplace: Ethereum/Base RPC, wallet tracing, attestations… |
+| 2026-10-01 20:06:08 | tech.searlo/searlo | Searlo | 1.0.0 | Google SERP, Maps, Shopping, News and AI-answer data for AI agents, from the Se… |
+| 2026-10-01 20:10:17 | fun.publish/mcp | Publish.fun | 1.0.0 | AI-native research journal: submit papers for AI peer review, track decisions,… |
+| 2026-10-01 20:11:23 | dev.yardel/yardel | Yardel | 0.1.0 | Publish HTML, Markdown, decks and dashboards as private pages; share them with… |
+| 2026-10-01 20:14:16 | [io.github.alexcgodwin/cloud-devops-mcp-server](https://github.com/alexcgodwin/cloud-devops-mcp-server) | Cloud DevOps MCP Server | 0.2.1 | Read-only Cloud DevOps risk review, incident response, CI/CD readiness and SLO… |
 
 ## Data source
 
