@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-10-01T03:20:53.360005Z,app.aibacktester/aibacktester,AI Backtester,0.1.0,,streamable-http,"Backtest crypto trading strategies described in plain English, with fees and funding included."
+2026-10-01T03:27:27.320288Z,io.github.contextq/contextq-mcp,,2.1.0,,streamable-http,"Persistent memory, hybrid search and a goal graph for AI agents, over stdio or remote HTTP."
+2026-10-01T03:30:34.453036Z,io.github.lbruce-wq/development-indicators,Development Indicators MCP,0.4.1,https://github.com/lbruce-wq/development-data-mcp,streamable-http,Open-source MCP for official development indicators with provenance and citations.
+2026-10-01T03:30:36.109988Z,io.github.lbruce-wq/international-classifications,International Classifications MCP,0.5.2,https://github.com/lbruce-wq/international-classifications-mcp,streamable-http,Deterministic MCP for statistical classifications and survey codelists with provenance.
+2026-10-01T03:32:01.192361Z,io.github.aaronsb/slack-mcp,Slack,2.4.0,https://github.com/aaronsb/slack-mcp,,"Read and write Slack with session tokens — no OAuth, no bot, no admin approval."
+2026-10-01T03:39:31.869014Z,com.offlineprotocol/cli,Offline Protocol,0.2.6,https://github.com/Offline-Protocol/offline-protocol-agent-plugins,,"Find Offline Protocol SDK packages, read integration guides, plan and scaffold local apps."
+2026-10-01T03:42:14.31483Z,io.github.Bharath-code/regressguard,,0.2.0,https://github.com/Bharath-code/regressGuard,,"Deterministic API regression checks for AI agents: snapshot a baseline, catch broken contracts."
+2026-10-01T03:43:34.056935Z,io.github.smaniches/uniprot-mcp,UniProt MCP,1.3.7,https://github.com/smaniches/uniprot-mcp,,"Verifiable, release-aware protein evidence workflows over UniProt and linked scientific sources."
+2026-10-01T03:53:59.182686Z,io.github.cedarwelllabs/retirementlab,Retirement Lab,0.1.0,,streamable-http,Run hypothetical retirement simulations and compare outcomes using your assumptions.
+2026-10-01T04:03:37.689668Z,dev.ceraph/react-native-mcp,Ceraph,1.0.6,,,MCP server for agent-driven React Native and Expo development and mobile testing
+2026-10-01T04:06:28.419215Z,io.github.aarwitz/tapp,,0.17.19,https://github.com/aarwitz/tapp,,"Test iOS, Android, and web apps with agent exploration, replayable flows, and CI gates."
+2026-10-01T04:09:56.346499Z,in.paisatrade/paisatrade,PaisaTrade,1.37.0,,streamable-http,"Learn the Indian stock market: delayed NSE quotes, screener, IPOs, courses and paper trading."
+2026-10-01T04:10:30.798909Z,io.github.zhitongblog/solomd,SoloMD,4.14.5,https://github.com/zhitongblog/solomd,,"Read and search a folder of Markdown notes: search, backlinks, tags, tasks, outlines, git history."
+2026-10-01T04:15:55.962123Z,com.offlineprotocol/hosted,Offline Protocol (hosted),0.2.6,,streamable-http; streamable-http,"Offline Protocol packages, workflows and integration guides over HTTPS. Read-only."
+2026-10-01T04:16:11.627188Z,ai.jaxon/dsail,DSAIL,1.0.3,https://github.com/JaxonAI/dsail,streamable-http,"Turn a written policy into rules a program can check, and get the same answer every time."
+2026-10-01T04:17:57.05082Z,io.github.Datura-ai/lium-docs,Lium Docs,1.0.0,https://github.com/Datura-ai/lium-skill,streamable-http,"Search and read the Lium GPU rental docs: pods, CLI, SDK, REST API and agent guides."
