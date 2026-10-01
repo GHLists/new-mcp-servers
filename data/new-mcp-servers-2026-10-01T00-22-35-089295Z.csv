@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-09-30T23:21:55.007335Z,io.github.Mingye-Lu/acrawl,acrawl,0.14.3,https://github.com/Mingye-Lu/AgenticCrawler,,"Autonomous web crawler. 17 browser tools + goal-driven run_goal agent. Single binary, stealth."
+2026-09-30T23:23:25.186058Z,com.towntide/mcp,Towntide,1.0.0,,streamable-http,"AI visibility checks, fix lists and Google review requests for local trades (Recomendr + Merciloop)."
+2026-09-30T23:23:26.126736Z,com.reclamly/mcp,Reclamly,1.0.0,,streamable-http,"Find flight compensation, refunds and forgotten subscriptions you're owed; drafts claims for you."
+2026-09-30T23:23:27.112609Z,io.aoapps/mcp,AO apps hub,1.0.0,,streamable-http,"One sign-in MCP hub for AO apps: Recomendr, Merciloop, Scopewright, Reclamly and Towntide Voice."
+2026-09-30T23:26:03.727347Z,com.truthifi/mcp,Truthifi,1.0.1,,streamable-http,"Holdings, fees, performance and your Truthifi Score across 18,000+ institutions. Can't move money."
+2026-09-30T23:28:22.18115Z,com.everyhourdeal/shopping,EveryHourDeal Shopping,1.0.0,,streamable-http,"Search, compare and get deals on 1,800 US-warehouse home, patio, gym and pet products."
+2026-09-30T23:29:37.387156Z,io.echothread/mcp,EchoThread,0.1.0,https://github.com/ryabinski-labs/echothread-integrations,,"Read and moderate your EchoThread site comments: pending queue, approve, reject, spam, reply."
+2026-09-30T23:32:02.67082Z,io.github.Smartoire/paxaver-mcp,,2.6.2,https://github.com/Smartoire/paxaver-mcp,streamable-http,"MCP adapter for the Paxaver school community platform. Streamable HTTP, OAuth 2.1, capability auth."
+2026-09-30T23:37:22.609456Z,net.haldata/mcp-dir,mcp-dir — MCP directory for retail & e-commerce (Japanese),1.0.0,,streamable-http,"Search a Japanese directory of MCP servers for retail/e-commerce by task, with recipes. Read-only."
+2026-09-30T23:41:32.928562Z,io.github.JovieInc/jovie,Jovie,26.9.16,https://github.com/JovieInc/Jovie,,Create a music artist's Jovie profile from a Spotify URL and read public artist data.
+2026-09-30T23:41:49.088475Z,io.github.blackaxgit/agent-mcp-hub,,0.6.2,https://github.com/blackaxgit/agent-mcp-hub,,"One MCP server bridging the Codex, Cursor, OpenCode, Claude, and Antigravity CLI agents"
+2026-09-30T23:42:20.757432Z,io.ecfr/uscode,US Code Federal Statutes,1.0.0,https://github.com/lrehmann/uscode-mcp,streamable-http,Search and read U.S. Code statutes with legal and inline citations linking to uscode.ecfr.io.
+2026-09-30T23:44:16.480924Z,io.github.lvlrSajjad/simframe,simframe,0.19.1,https://github.com/lvlrSajjad/simframe,,Always-warm iOS Simulator and Android emulator frames: agents read the screen in ~20ms
+2026-09-30T23:45:04.658305Z,dev.skiffly/mcp,Skiffly,1.0.0,,streamable-http,"Deploy apps and databases on Skiffly: projects, services, deployments, logs, variables, domains."
+2026-09-30T23:48:16.751304Z,io.github.verivus-oss/sqry,sqry - Semantic Code Search,32.0.1,https://github.com/verivus-oss/sqry,,AST-based semantic code search: 39 tools over 37 languages. Call tracing and impact analysis.
+2026-09-30T23:49:40.36364Z,io.github.simonplmak-cloud/hkex-filings,HKEx Filings,2.4.1,https://github.com/simonplmak-cloud/hkex-filing-scraper,streamable-http,Live HKEx (Hong Kong Stock Exchange) regulatory filings for AI agents.
+2026-09-30T23:50:39.022126Z,io.github.silverstein/minutes,,0.27.1,https://github.com/silverstein/minutes,,"The private, owned conversation-memory layer for AI. Record, transcribe, and search every meeting."
+2026-09-30T23:50:54.953118Z,io.github.twzrd-sol/twzrd-agent-intel,TWZRD Agent Intelligence,0.5.11,https://github.com/twzrd-sol/twzrd-trust,,Pre-spend trust for AI agents that buy: check x402 services and product listings before paying.
+2026-09-30T23:52:43.580886Z,com.tilebox/mcp,Tilebox,1.0.0,,streamable-http,"Query geospatial datasets, manage workflow jobs, deploy published releases, and search Tilebox docs."
+2026-09-30T23:53:23.049798Z,co.usercall/mcp,Usercall,0.4.0,https://github.com/junetic/usercall-mcp,streamable-http,Give your AI agents the ability to ask real users why.
+2026-09-30T23:59:47.290167Z,io.github.jamesonhussey/wiggle,Wiggle,0.1.1,https://github.com/jamesonhussey/agent-coordination-substrate,streamable-http,"Privacy-first coordination for autonomous agents: rooms, messaging, inbox, and per-agent memory."
+2026-10-01T00:05:45.376514Z,com.golproductions/exnos,Exnos,0.7.0,https://github.com/golproductions/exnos,,"Read-only live state of your Chrome tabs for AI agents: fields, console errors, network, storage."
+2026-10-01T00:12:43.210771Z,io.github.rcfrias/extraer-datos-ine,Extraer Datos de INE,1.0.0,https://github.com/rcfrias/extraer-datos-ine-mcp,,"Extrae CURP, nombre, domicilio y clave de elector de credenciales INE/IFE mexicanas."
+2026-10-01T00:13:23.151234Z,io.github.raulbr90/changebook,,0.10.2,,streamable-http,Your agent already broke this three times. ChangeBook tells it before the fourth.
+2026-10-01T00:17:16.360225Z,com.cyclecalcs/astronomy,CycleCalcs Astronomy,1.1.0,,streamable-http,"Read-only astronomy calculations: sun, moon, planets, eclipses, twilight and star positions."
+2026-10-01T00:19:27.768046Z,io.github.jurimaxam-dotcom/chemdraw-mcp,ChemDraw MCP (unofficial),0.4.2,https://github.com/jurimaxam-dotcom/chemdraw-mcp,,"Molecule names or SMILES to 2D structures, reactions, mechanisms, spectra - offline via RDKit."
