@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-10-01T15:19:09.135325Z,fyi.buywise/buywise,BuyWise,1.0.0,,streamable-http,"Shopping trust signals: vetted brands, white-label, price, fake-discount, review and seller checks"
+2026-10-01T15:22:51.119045Z,com.nckeys/listings,NC Keys — Northern Cyprus property,1.0.0,,streamable-http,"Northern Cyprus property listings for rent and sale: search by region, price, layout. Read-only."
+2026-10-01T15:25:22.722556Z,io.github.aaronsb/google-workspace,Google Workspace,4.6.0,https://github.com/aaronsb/google-workspace-mcp,,"Give AI agents access to Gmail, Calendar, Drive, and more — multi-account, manifest-driven"
+2026-10-01T15:30:01.099601Z,com.signatoro/signatoro,Signatoro,1.0.0,,streamable-http,"Make email signatures, get install steps for your mail app, and manage your company's signatures."
+2026-10-01T15:31:17.611894Z,io.github.sendziuk/aimgod,Aimgod,1.0.0,,streamable-http,"Calm day planner for designers and freelancers. Read, add, time and move your tasks from Claude."
+2026-10-01T15:32:17.569262Z,com.themineworks/recruiting-jobs-mcp,,1.1.0,https://github.com/themineworks/mcp-servers,streamable-http,"Recruiting data: ATS postings, LinkedIn, Indeed, SimplyHired, Naukri, sourcing. 10 tools."
+2026-10-01T15:37:01.175129Z,com.relaticle/crm,Relaticle,3.6.0,,streamable-http,"Open-source CRM your AI agents can write to: companies, people, deals, tasks, notes, pipeline."
+2026-10-01T15:38:02.989062Z,io.github.usekaneo/kaneo,,0.1.12,https://github.com/usekaneo/kaneo,,"Official MCP server for Kaneo: manage tasks, projects, and labels from Claude and other MCP clients"
+2026-10-01T15:41:20.519479Z,io.github.Sahil170595/chimeraforge,ChimeraForge,0.43.1,https://github.com/Sahil170595/Chimeraforge,,"Local-first LLM deployment planner: GPU/VRAM sizing, cost and latency, with provenance"
+2026-10-01T15:41:21.741495Z,io.github.firstsalesio/firstsales,FirstSales,1.0.0,,streamable-http,"OAuth CRM tools for companies, deals, campaign insights and contact creation in FirstSales."
+2026-10-01T15:42:41.532267Z,ca.govradar/govradar,Government Radar,1.0.0,,streamable-http,Official Canadian federal and provincial government news releases from the last 7 days.
+2026-10-01T15:44:25.313314Z,uk.aios-system/public-discovery,AIOS Public Discovery,0.1.2,,streamable-http,Free discovery and preflight for trusted evidence-backed AIOS agent services.
+2026-10-01T15:49:32.976504Z,io.github.bret1976/prior,Prior,1.0.0,https://github.com/bret1976/prior,streamable-http,Spend gate agents call before money moves. Buy with Stripe Checkout. Paid only when Stripe says so.
+2026-10-01T15:50:54.805811Z,io.github.uglyrobot/docsbot,DocsBot,0.1.0,,streamable-http,"Manage DocsBot agents, knowledge sources, conversations, reporting, and teams with OAuth."
+2026-10-01T15:51:34.292173Z,xyz.wagyu/wagyu,Wagyu,1.0.0,,streamable-http,"Swap crypto across chains, including Monero (XMR): quote, create and track swaps."
+2026-10-01T15:52:38.406641Z,cloud.hoboworks/agent-market,HOBO Works Agent Market,2.7.0,,streamable-http,"AI-agent marketplace to find and sell tools, services, and free utilities, then collaborate."
+2026-10-01T15:55:11.729366Z,io.github.alexchouck-hash/veabird,Veabird: ski & beach trip planner,2.0.0,https://github.com/alexchouck-hash/bluebird,streamable-http,"Ski & beach trip planning: resort matching, snow and sargassum forecasts, lodging and flights."
+2026-10-01T16:01:28.102533Z,com.nuasense/agri-data,NuaSense Agricultural Data,0.9.0,,streamable-http,"East African agriculture: fertilizer and crop prices, satellite demand, news, farm sensors."
+2026-10-01T16:02:54.576986Z,io.github.skeptrunedev/call4me,call4me,1.0.0,https://github.com/skeptrunedev/call4me,streamable-http,"An AI agent that makes phone calls for you: bookings, appointments, cancellations."
+2026-10-01T16:06:57.901572Z,io.stuntdouble/mcp-server,Stunt Double,1.13.0,https://github.com/stunt-double/stuntdouble-mcp,streamable-http,Deploy AI user personas to validate user journeys at scale. Find UX friction before real users do.
+2026-10-01T16:08:09.931513Z,io.github.Graphify-Labs/graphify,Graphify,0.1.0,,streamable-http,"Search indexed code, trace dependencies, assess change impact, and recall repository memory."
+2026-10-01T16:14:00.692335Z,com.shuffll.engage.mcp/shuffll-engage,Shuffll Engage,0.1.1,,streamable-http,"Browse video templates, manage campaigns, and inspect video generation jobs through Shuffll Engage."
+2026-10-01T16:17:05.446041Z,ch.vetari/vetari,Vetari,1.0.0,,streamable-http,"Swiss company-register intelligence: new GmbHs by canton, shared addresses, UID history, SHAB text"
+2026-10-01T16:18:09.544987Z,io.github.jcucci/dotnet-sherlock-mcp,,2.14.0,https://github.com/jcucci/dotnet-sherlock-mcp,,.NET assembly introspection MCP server with advanced reflection and type analysis capabilities
+2026-10-01T16:19:00.119154Z,xyz.regimetoken/regime,Regime,1.0.0,,streamable-http,"Checks crypto trading claims on real data: leverage, drawdown, stop-loss, seasonality, luck."
