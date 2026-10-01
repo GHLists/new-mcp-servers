@@ -1,0 +1,30 @@
+created_at,server,title,version,repository,transports,description
+2026-10-01T16:22:11.754133Z,io.github.husk-security/connect,connect,0.1.0,,streamable-http,"Find tools ranked by measured behaviour, read agent reviews, and talk to other people's agents."
+2026-10-01T16:23:32.556649Z,store.scvd/general-store,SCVD General Store,0.2.4,https://github.com/seancrecord/scvd-general-store-repo,streamable-http,"Evidence observatory: x402/MPP inspection, signed receipt checks and settlement attestations."
+2026-10-01T16:26:56.935321Z,app.trustrails/server,,1.0.24,https://github.com/james-webdev/trustrails-mcp-server,,"Search UK electronics products across retailers: prices, stock and specs, refreshed twice a day."
+2026-10-01T16:33:49.740395Z,com.bjjsquare/bjjsquare,BJJ Square,1.0.0,,streamable-http,"BJJ and grappling gyms worldwide, plus upcoming competitions. Free, read-only."
+2026-10-01T16:34:18.100724Z,net.ailimu/ailimu,Ailimu,0.6.1,,,Self-hosted MCP server for FileMaker. Turns chosen tables and scripts into tools for AI agents.
+2026-10-01T16:34:44.580536Z,app.rowb.prices/index,Price Index — published API prices with sources,1.0.0,,streamable-http,"Published prices of OG-image and screenshot APIs, each with the vendor page it was read from."
+2026-10-01T16:35:04.179336Z,io.github.TIBSP/startmining-mcp,Startmining Bitcoin Mining Data,1.1.2,https://github.com/TIBSP/startmining-mcp,,"Bitcoin mining data from a self-hosted node: hashprice, profitability, monthly averages, history"
+2026-10-01T16:37:51.324322Z,io.github.mirnoorata/codexa,,0.20.1,https://github.com/mirnoorata/codexa,,Codex-native codebase intelligence context compiler and query-only MCP server.
+2026-10-01T16:40:07.584494Z,com.insta-pola/photo-gallery,Insta-Pola Photo Gallery,1.0.0,,streamable-http,"Create shared event photo galleries with a QR code, a live photo wall and AI caption suggestions."
+2026-10-01T16:42:27.099394Z,com.vermarco/marketplace,Vermarco,1.0.0,,streamable-http,"Marketplace and payment rail for AI agents: list, buy and settle with signed receipts."
+2026-10-01T16:42:38.858532Z,io.graph-paper/graph-paper,Graph Paper,1.0.0,,streamable-http,"Check a plot document and get a link that opens it in Graph Paper. No account, no key."
+2026-10-01T16:46:23.408445Z,app.keyslip/keyslip,KeySlip,1.3.0,,,Send and read one-time encrypted secrets with local encryption.
+2026-10-01T16:49:41.466693Z,io.github.major7apps/pensyve,Pensyve,5.0.0,https://github.com/major7apps/pensyve,,"Universal memory runtime for AI agents — episodic, semantic, and procedural memory."
+2026-10-01T16:50:40.837284Z,io.github.simonplmak-cloud/esg-hub,ESG Hub MCP Server,1.3.2,https://github.com/simonplmak-cloud/esg-hub,streamable-http,"ESG knowledge base for AI agents: hybrid search, glossary, frameworks, industries, graph traversal."
+2026-10-01T16:52:32.39721Z,io.github.VoiceScapee/voicescape,Voicescape — on-chain identity and tipping for AI agents,1.0.0,https://github.com/VoiceScapee/voicescape,streamable-http,"Voicescape: on-chain agent blockpages and 98/2 tipping on Hedera. Read-only, no keys."
+2026-10-01T16:52:34.00277Z,io.github.smoczynski-b/psi-forum,PSI-FORUM,0.3.4,,streamable-http,Shared reasoning across agents. / Wspólne rozumowanie agentów.
+2026-10-01T16:52:36.064824Z,co.kuickr/kuickr,,0.1.23,,streamable-http,"Host an agent's pages at clean, permanent URLs. Publish, organize, edit, search and re-find docs."
+2026-10-01T16:57:51.383301Z,com.shiftinbits/constellation,,1.2.11,https://github.com/ShiftinBits/constellation-mcp,,Code Intelligence Platform for AI Coding Agents
+2026-10-01T16:58:06.334354Z,io.camberstack/google-ads,Camberstack: Google Ads,0.1.0,https://github.com/awilliams-2020/camberstack-mcp,streamable-http,"Google Ads MCP that acts: finds wasted spend, applies only the changes you approve, undoes them."
+2026-10-01T16:58:07.124002Z,io.github.Rixtayz/mail-mcp,Mail-MCP,0.1.1,https://github.com/Rixtayz/Mail-MCP,,"Personal Outlook.com / Hotmail inbox: read, search, file, delete, unsubscribe via Microsoft Graph."
+2026-10-01T16:58:41.035821Z,com.exactmods/exactmods,ExactMods,0.1.0,,streamable-http,"Source-cited ARRMA 3S / 4x4 parts fitment with revision scope, confidence, sources, and guides."
+2026-10-01T16:59:10.632266Z,sr.rush/lap-analyzer,Rush SR Lap Analyzer,0.2.0,https://github.com/Rush-Auto-Works/llm-plugins,streamable-http,"Analyze AiM RaceStudio lap data: lap times, compare laps, time loss, compare two sessions."
+2026-10-01T16:59:12.542855Z,sr.rush/maintenance,Rush SR Maintenance,0.1.0,https://github.com/Rush-Auto-Works/llm-plugins,streamable-http,"Rush SR owner's manual: diagnose a symptom, find service intervals and repair procedures."
+2026-10-01T17:04:35.602362Z,io.github.lbesecker195/mcp-registry-search-directory,"MCP Registry Search: Find, Discover & Install MCP Servers & Tools | Directory, Catalog, Marketplace",1.0.1,https://github.com/lbesecker195/MCP_Registry,streamable-http,"MCP registry & directory: search, find & install 31k+ MCP servers & tools. Catalog and marketplace."
+2026-10-01T17:08:54.006776Z,io.github.ComplyEdge/complyedge,ComplyEdge TrustLint — offline EU AI Act compliance checks,0.2.19,https://github.com/ComplyEdge/complyedge,,"Offline TrustLint checks: EU AI Act Article 5, Article 50, GPAI, plus GDPR and HIPAA."
+2026-10-01T17:14:11.633208Z,io.github.matthewcauble-boop/landclaw,landclaw,0.1.0,,streamable-http,"US property register: 92M parcels, deeds, violations, CMBS filings, county sales, market series."
+2026-10-01T17:15:36.744775Z,dev.mcpfinder/server,MCPfinder - MCP Server Discovery,1.5.0,https://github.com/mcpfinder/mcpfinder,,"Your AI discovers and installs MCP servers across Official Registry, Glama, and Smithery."
+2026-10-01T17:16:17.377462Z,io.github.swisspra/pursers,Pursers,5.0.8,https://github.com/swisspra/Pursers,,"Coordinate AI-agent work on a local-first, owner-controlled MCP board"
+2026-10-01T17:21:32.140077Z,io.github.Softinator-TechLabs/feedbacks,Feedbacks,0.2.2,https://github.com/Softinator-TechLabs/feedbacks-oss,,"Visual website feedback, screenshots and team discussion for coding assistants. Self-hosted."
