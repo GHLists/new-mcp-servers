@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-01T00:22:59.587277Z,com.familyfishin.mcp/site-discovery,Family Fishin Website Discovery,0.4.0,,streamable-http,"Read-only search of FamilyFishin.com articles, pages, products, prices, stock, and variations."
+2026-10-01T00:36:30.996404Z,io.github.WYRE-AI/autotask-mcp,Autotask,2.38.3,https://github.com/WYRE-AI/autotask-mcp,,"MCP server for Kaseya Autotask PSA — companies, tickets, projects, time entries, and more."
+2026-10-01T00:45:31.840141Z,io.github.dcadolph/slop-chop,slop-chop,0.42.1,https://github.com/dcadolph/slop-chop,,"Find and remove the writing patterns a profile lists. Deterministic, local, no model and no network."
+2026-10-01T00:47:16.594233Z,io.github.AvenueDAdmin/writ,writ,0.1.2,https://github.com/AvenueDAdmin/pywrit,,Commit-time policy checks for AI agent writes (ALLOW/DENY/STEP_UP) with a tamper-evident audit log.
+2026-10-01T00:49:30.774314Z,io.github.smaniches/alphafold-sovereign-mcp,AlphaFold Sovereign MCP,1.4.10,https://github.com/smaniches/alphafold-sovereign-mcp,,MCP server for AlphaFold and 8 other biomedical data sources with a local SQLite knowledge graph
+2026-10-01T00:50:45.971007Z,io.github.WYRE-AI/itglue-mcp,IT Glue,1.18.0,https://github.com/WYRE-AI/itglue-mcp,,"MCP server for IT Glue — organizations, configurations, passwords, flexible assets, and documents."
+2026-10-01T00:51:50.903859Z,io.github.WYRE-AI/datto-rmm-mcp,Datto RMM,1.8.0,https://github.com/WYRE-AI/datto-rmm-mcp,,"MCP server for Datto RMM — devices, alerts, sites, jobs, and audit data."
+2026-10-01T00:52:32.68949Z,io.github.leekung125/web-data-toolkit,,1.2.0,https://github.com/leekung125/web-data-toolkit-mcp,streamable-http,"YouTube transcripts (video, channel, search), Google Trends, Google Play and App Store reviews."
+2026-10-01T00:54:02.98135Z,io.github.WYRE-AI/cipp-mcp,CIPP,1.9.0,https://github.com/WYRE-AI/cipp-mcp,,"MCP server for CIPP — M365 multi-tenant management for MSPs (users, tenants, policies)."
+2026-10-01T00:54:33.924541Z,ai.creditpolicy/creditpolicy,CreditPolicy.ai,1.1.0,,streamable-http,Australian lender credit policy library and client files for mortgage and finance brokers.
+2026-10-01T00:57:22.623886Z,io.github.WYRE-AI/rocketcyber-mcp,RocketCyber,1.6.0,https://github.com/WYRE-AI/rocketcyber-mcp,,"MCP server for RocketCyber Managed SOC — incidents, alerts, agents, and customer telemetry."
+2026-10-01T01:02:53.593935Z,io.github.JerryYangAI/taoyuan-mcp,Taoyuan Music,1.1.1,https://github.com/JerryYangAI/taoyuan-mcp,streamable-http,"Write an original song for one person: lyrics, two full versions and cover art in about a minute."
+2026-10-01T01:10:20.850902Z,dev.smallprint/smallprint,,0.2.4,,,"The small print of MCP servers, skills and plugins, hashed, diffed and graded, from the record."
+2026-10-01T01:13:09.228134Z,com.fxapis/mt5,fxapis — MetaTrader 5,1.0.0,,streamable-http,Let AI agents trade and read MetaTrader 5 accounts. Hosted — no terminal for you to run.
+2026-10-01T01:14:46.020007Z,one.faf/claude-faf-mcp,Claude FAF,7.0.1,https://github.com/Wolfe-Jam/claude-faf-mcp,,Persistent project context for Claude. IANA-registered .faf format.
+2026-10-01T01:15:57.508022Z,io.github.robyroro/romania-mcp,Romania,0.1.0,https://github.com/robyroro/romania-mcp,,"Romanian public data: ANAF company status, financials, court cases, BNR rates, shop checks"
+2026-10-01T01:17:43.995492Z,io.github.minglezhibao/mcp,明乐智保 MCP（Minglezhibao Insurance Data）,1.1.0,,streamable-http,中国大陆寿险/分红产品数据服务平台：利益演示、保费与现金价值测算、行业指标与竞品对比、需求转介。连接后按你的账号订阅额度调用，需 OAuth 2.1 授权。
