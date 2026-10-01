@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-01T02:19:24.148489Z,io.github.mglbagi/agent-output-verifier,Agent Output Verifier,0.3.2,https://github.com/mglbagi/agent-output-verifier,streamable-http,Independently verify an agent's output before you pay.
+2026-10-01T02:23:56.20933Z,io.github.szl-holdings/hatun-mcp,Hatun MCP - Governed Agent Gateway,1.0.1,https://github.com/szl-holdings/hatun-mcp,,"Governed MCP gateway: policy gate on every tool call, hash-chained DSSE receipt on every result."
+2026-10-01T02:40:31.204675Z,ai.point11/point11,Point11,1.1.0,,streamable-http; streamable-http,"Run Point11 operations for your organization: Inspector, Discovery, Alpha, Research, and more."
+2026-10-01T02:47:43.920174Z,vn.algolab/mcp,Algolab MCP,2.1.0,,streamable-http; streamable-http,"Vietnam stock market data for AI: prices, financials, broker research, macro, VN-Index forecast"
+2026-10-01T02:48:42.781877Z,com.soxoa/ocolta-review-summaries,Ocolta Review Summaries,1.0.0,,streamable-http,"Read categorical signals, confidence and indicator counts from your recoverable Ocolta reviews."
+2026-10-01T02:48:57.731215Z,com.soxoa/casacaddy-maintenance,CasaCaddy Maintenance,1.0.0,,streamable-http,"Read guide requirements, prepare confirmed maintenance guides and check your device-owned jobs."
+2026-10-01T02:53:08.751105Z,market.plati.mcp/digimarket,Plati.Market,1.0.3,,streamable-http,Search the plati.market (Digiseller) catalogue and fetch product details with seller info.
+2026-10-01T02:53:11.159257Z,io.github.pete-builds/unifi,UniFi Gateway,0.24.0,https://github.com/pete-builds/mcp-unifi,,"Safe-by-default UniFi MCP: Network + Protect + Access, multi-site, dry-run, audit log."
+2026-10-01T02:53:58.605846Z,io.github.cyanheads/unesco-heritage-mcp-server,unesco-heritage-mcp-server,0.1.1,https://github.com/cyanheads/unesco-heritage-mcp-server,,"Search UNESCO World Heritage sites, intangible heritage, and Man and the Biosphere reserves."
+2026-10-01T02:59:42.848715Z,network.payai/facilitator,PayAI x402 Facilitator,2.0.1,,streamable-http,Verify and settle x402 stablecoin payments; browse the PayAI Bazaar of x402-payable resources.
+2026-10-01T03:00:49.425255Z,com.distillmarkets/distill-markets,Distill Markets,0.1.34,,streamable-http,"Verified SEC filing data for US equities: fundamentals, point-in-time values, 13F holders, insiders"
+2026-10-01T03:05:04.952816Z,io.github.SylphxAI/lockdocs,lockdocs,0.4.0,https://github.com/SylphxAI/lockdocs,,"Exact-version library docs from your lockfile — local, offline, no rate limits."
+2026-10-01T03:06:26.767001Z,io.github.bourhaouta/tailwindshades,Tailwind Shades,1.1.0,https://github.com/bourhaouta/vscode-tailwindshades,,"Tailwind CSS palettes (50-950) from any color for v4-v1, and the closest Tailwind color"
+2026-10-01T03:13:33.954909Z,com.pumpgtm/mcp,PumpGTM,1.0.0,https://github.com/pumpgtm/pumpgtm-mcp,streamable-http,"Find buyers, run LinkedIn, email and X outreach, and answer replies from your AI."
+2026-10-01T03:15:09.530517Z,com.ai-maxx.www/public-passports,AI MAXX Public Passports,1.1.0,,streamable-http,"Malta activities, dining and venues: sourced facts, photos, routes and AI consultation."
+2026-10-01T03:16:08.126444Z,io.github.cyanheads/faa-traffic-delays-mcp-server,faa-traffic-delays-mcp-server,0.1.1,https://github.com/cyanheads/faa-traffic-delays-mcp-server,,"Track FAA ground stops, delay programs, airport delays, the operations plan, and ATCSCC advisories."
+2026-10-01T03:16:21.016976Z,io.github.avivkeller/umd-mcp,,0.0.1,https://github.com/Open-Sourcery-UMD/umd-mcp,,MCP server exposing University of Maryland data
