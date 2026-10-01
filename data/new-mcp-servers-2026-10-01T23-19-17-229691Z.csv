@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-01T22:26:18.303106Z,ai.limitguard.api/trust-intelligence,Limitguard Trust Intelligence,2.2.6,https://github.com/jwconsultancyteam/limitguard-mcp,streamable-http,"Entity verification, sanctions screening, and trust scoring for AI agents via x402 micropayments."
+2026-10-01T22:27:55.592688Z,sh.uploads/mcp,uploads.sh,0.56.6,https://github.com/buildinternet/uploads,streamable-http,Host files from coding agents; stage on a branch and attach to GitHub PRs.
+2026-10-01T22:29:30.389399Z,sh.rowsafe/rowsafe,Rowsafe,0.4.2,https://github.com/rowsafe/rowsafe,streamable-http,"PostgreSQL backups and a safety net for AI agents: check recoverability, set restore points."
+2026-10-01T22:30:45.602589Z,ai.yokka/yokka,Yokka,0.1.0,https://github.com/yokka-ai/plugins,streamable-http,"Kanban board for AI coding agents: they claim cards, report progress, ask you when blocked, ship."
+2026-10-01T22:32:28.376015Z,us.briefme/agenda-timer,BriefMe,1.1.0,,streamable-http,"Meeting agenda timer for AI assistants: build agendas in chat, share a live synced countdown."
+2026-10-01T22:32:58.669129Z,io.github.Lukefen31/imagic,,1.4.4,https://github.com/Lukefen31/imagic-mcp,streamable-http,"AI-cull, edit and export RAW photos locally with the imagic desktop app, from any MCP client."
+2026-10-01T22:38:03.327398Z,com.centeringlab/centering-lab,Centering Lab,1.0.0,,streamable-http,"Measure card centering and check PSA, BGS, CGC and SGC centering ceilings and standards."
+2026-10-01T22:39:52.108207Z,io.github.Tamerlan0606/workmine,WORKMINE,0.2.0,https://github.com/Tamerlan0606/Dealfinder,streamable-http,Discovery gateway for low-cost x402 pay-per-call utility APIs settled in USDC on Base.
+2026-10-01T22:44:58.816745Z,dev.stuga/stuga,Stuga,0.1.10,https://github.com/stuga-dev/stuga,streamable-http,Agent edits await review by default in a self-hosted workspace for documents and databases.
+2026-10-01T22:46:07.788106Z,com.saastemly/uuid-forge,apidx UUID Generator,1.0.1790894765,,streamable-http,"Random UUID v4 (RFC 9562) as an HTTP API: 1-100 UUIDs per call, in uuid, URN, hex or integer..."
+2026-10-01T22:48:17.814929Z,io.github.fullbleed-engine/fullbleed-mcp,Fullbleed PDF Engine,0.1.1,https://github.com/fullbleed-engine/fullbleed-official,,"Create, preview, inspect, verify, and compile deterministic PDF documents with Fullbleed."
+2026-10-01T22:52:39.75033Z,io.github.voidly-ai/pay-mcp,Voidpay Marketplace,0.7.1,,,"Public discovery, scoped creator work, original-only recovery; checkout stays in owner's browser."
+2026-10-01T22:56:36.0407Z,io.github.quantumproxies/quanticdata-mcp,,0.11.4,https://github.com/quantumproxies/quanticdata-mcp-server,streamable-http,"Live web access for agents: scrape, SERP search, crawl/map, 100+ collectors, datasets, proxies."
+2026-10-01T22:56:37.43075Z,io.github.quantumproxies/quantumproxies-mcp,,0.11.4,,streamable-http,"Web scraping, SERP search, crawl/map and 74 Collectors through residential proxies. 25 tools."
+2026-10-01T22:59:02.720243Z,com.esigndev/siglio-mcp,,1.1.0,,,MCP server for Siglio. Lets an AI assistant send documents for e-signature by email or text.
+2026-10-01T23:04:13.372137Z,io.github.pipeworx-io/deepl,Deepl,0.1.3,https://github.com/pipeworx-io/mcp-deepl,streamable-http,DeepL MCP.
+2026-10-01T23:04:23.910758Z,io.github.pipeworx-io/watchmode,Watchmode,0.1.3,https://github.com/pipeworx-io/mcp-watchmode,streamable-http,Watchmode MCP.
+2026-10-01T23:05:42.134409Z,ca.honkio/mcp,HonkIO,1.12.1,https://github.com/jeffcaldwellca/honkio,streamable-http,"Canadian SMS and email API for AI agents: send SMS and email, verify phones, handle CASL consent."
+2026-10-01T23:05:44.415756Z,ai.tutorping/tutorping,TutorPing,1.1.0,,streamable-http,"Find and book independent tutors, or find students asking for a tutor in your subject."
+2026-10-01T23:08:32.71099Z,io.github.blaze-apps/appdrift,AppDrift,0.2.1,https://github.com/blaze-apps/appdrift,,Read app-store keyword observations and prepare reviewable listing drafts. AI actions use tokens.
+2026-10-01T23:09:38.484087Z,io.github.rico-realistick/mara-briefings,Mara Briefing Service,1.0.0,https://github.com/rico-realistick/mara-briefings,streamable-http,Paid research briefings for agents: $0.10 USDC/question on Base Sepolia via x402. ERC-8004 #9395.
+2026-10-01T23:09:48.882789Z,com.boardwalkai.mcp/land-use,Boardwalk,1.0.0,,streamable-http,"US pre-construction land-use filings, alerts, lists, and exports."
+2026-10-01T23:09:55.698871Z,io.github.anilyesilkaya/marey,Marey,0.1.0,https://github.com/anilyesilkaya/marey,,"Give AI agents eyes for motion: see what changed on screen, not just how it looks."
+2026-10-01T23:12:23.339784Z,io.github.Synter-Media-AI/synter-ads,,1.2.4,https://github.com/Synter-Media-AI/mcp-server,streamable-http,"Reporting across 19 ad platforms, campaign creation on 14, write actions on 16, via AI."
+2026-10-01T23:14:43.363086Z,dev.lastping/lastping,LastPing,0.2.0,https://github.com/tp322d/lastping-app,streamable-http,"Monitoring that agents set up for themselves: cron jobs, CI/CD pipelines and AI agent runs."
+2026-10-01T23:14:48.474444Z,io.github.andida/imgedify,ImgEdify Image and Video,2.0.0,,streamable-http,"Generate and edit images, create videos, quote credit costs, and retrieve private results."
+2026-10-01T23:15:46.523273Z,fun.memeswap/trading,MemeSwap MCP,0.2.0,,streamable-http,"Memecoin research, quotes, unsigned swaps for agents. Wallet signs. Fee 0.85%. NFA."
