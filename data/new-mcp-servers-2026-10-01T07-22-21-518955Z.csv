@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-10-01T06:28:30.476766Z,io.nowline/nowline,Nowline,0.8.6,https://github.com/lolay/nowline,,Create and edit your roadmaps in a plain-text format.
+2026-10-01T06:28:34.81603Z,com.dripost/dripost,Dripost,1.0.0,,streamable-http,"Schedule, check and retry social posts from Claude or ChatGPT; going live waits for a tap."
+2026-10-01T06:29:19.299832Z,com.findticker/ticker,Ticker: Live Event Ticket Market,1.0.0,,streamable-http,"Live event ticket market data: prices, inventory, demand and seat maps, with screens and alerts."
+2026-10-01T06:33:06.595321Z,io.github.infino-ai/mcp-server,,0.16.0,https://github.com/infino-ai/infino-mcp,,"Keyword, semantic, hybrid, and SQL retrieval for AI agents, local or on Infino Cloud."
+2026-10-01T06:42:13.224757Z,io.github.everyai-com/sahadeva,Sahadeva,1.0.0,https://github.com/everyai-com/sahadeva,streamable-http,"Vedic astrology MCP: panchanga, kundli matching, muhurta, dashas."
+2026-10-01T06:52:32.988793Z,ca.maplev/tesla-collision-parts,MapleV Tesla Collision Parts,1.0.2,,streamable-http,"Tesla Model 3 and Model Y collision parts by OE number. CAD prices, ships Canada-wide, read-only."
+2026-10-01T06:53:24.020419Z,io.github.cyanheads/oeis-mcp-server,,0.1.1,https://github.com/cyanheads/oeis-mcp-server,,"Identify integer sequences by terms, search the OEIS, read formulas, programs, b-files, cross-refs."
+2026-10-01T06:53:53.687299Z,io.github.govconapi/govconapi,GovCon API,0.3.1,https://github.com/govconapi/govconapi-mcp,streamable-http,"Six tools over US federal procurement: SAM.gov, FPDS awards, entities, subawards, exclusions."
+2026-10-01T06:54:28.35974Z,io.github.NovaLux12/spotify-mcp-server,Spotify MCP,3.0.0,https://github.com/NovaLux12/spotify-mcp-server,,"Spotify Web API MCP: playback, library, playlists, search, podcasts. Not affiliated with Spotify."
+2026-10-01T06:55:49.681557Z,io.github.marcorusc/NeKo,NeKo Biological Network Builder,2.4.0,https://github.com/marcorusc/mcp-biomodelling-servers,,MCP server for biological network construction and analysis using pathway databases
+2026-10-01T06:55:51.267476Z,io.github.marcorusc/MaBoSS,MaBoSS Boolean Network Simulator,2.4.0,https://github.com/marcorusc/mcp-biomodelling-servers,,MCP server for Boolean network simulation and attractor analysis using MaBoSS
+2026-10-01T06:55:53.052121Z,io.github.marcorusc/PhysiCell,PhysiCell Configuration Builder,2.4.0,https://github.com/marcorusc/mcp-biomodelling-servers,,"MCP server for building, inspecting, and exporting PhysiCell and PhysiBoSS configuration files"
+2026-10-01T06:55:53.907841Z,io.github.marcorusc/BioMASS,BioMASS ODE Model Builder,2.4.0,https://github.com/marcorusc/mcp-biomodelling-servers,,"Construct, inspect, visualize, and simulate evidence-backed ODE models with BioMASS"
+2026-10-01T06:59:16.620616Z,io.github.shigechika/gws-mcp,MCP fork of Google Workspace CLI,0.22.5-mcp.37,https://github.com/shigechika/gws-mcp,,"MCP fork of Google Workspace CLI (Gmail, Drive, Calendar, and more)"
+2026-10-01T07:00:23.423441Z,com.flat-hunt/mcp,FlatHunt,0.1.0,https://github.com/Mixalloff/flat-hunt-mcp,streamable-http,"Search furnished Berlin housing, compare listings, and manage favorites and saved-search alerts."
+2026-10-01T07:02:00.098492Z,io.github.OpenOSINT/openosint,OpenOSINT,2.29.1,https://github.com/OpenOSINT/OpenOSINT,,"AI-powered OSINT agent & MCP server. 16 tools: email, breach, IP, WHOIS, DNS, Shodan, GitHub & more."
+2026-10-01T07:02:22.20782Z,site.crawlwise/crawlwise,Crawlwise,1.0.0,https://github.com/Adnanarodiya/crawlwise,streamable-http,SEO audits and AI crawler checks. Honest findings only; no invented scores.
+2026-10-01T07:07:38.656224Z,com.cliniatlas/evidence,CliniAtlas Evidence,0.1.0,,streamable-http,"Free medical evidence tools: graded CliniAtlas answers, PubMed metadata and EU SmPC links."
+2026-10-01T07:07:54.575026Z,ai.openswitchboard/switchboard,OpenSwitchboard,0.1.0,https://github.com/openswitchboard-ai/server,streamable-http,Your AI posts what you want or have. You are introduced anonymously to whoever has the other half.
+2026-10-01T07:13:00.369328Z,io.github.uditgoenka/communicate-docs,Communicate Developer Docs,1.0.0,,streamable-http,"Read-only access to Communicate developer guides, OpenAPI summaries, and support contact."
+2026-10-01T07:13:02.034788Z,io.github.journelyme/journely-markets,Journely Markets,0.6.0,https://github.com/journelyme/journely-mcp,streamable-http,"US, Japan and Vietnam market data: macro, sectors, fundamentals, estimates, price history."
+2026-10-01T07:13:04.591173Z,io.github.uditgoenka/communicate,Communicate,1.0.0,,streamable-http,Read-only discovery of AI agents in your Communicate workspace.
