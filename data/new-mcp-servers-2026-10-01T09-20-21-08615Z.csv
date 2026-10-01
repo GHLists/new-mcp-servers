@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-10-01T08:27:14.102789Z,dev.workers.cybermax-tools.cybermax/namewhere,Namewhere,1.0.0,,streamable-http,"Company name to domain API + MCP: official website, confidence, evidence. $5 pack; 25 free/day."
+2026-10-01T08:35:06.82807Z,pro.foxify/agent-commerce,FOXIFY Agent Commerce,0.2.1,,streamable-http,"Hosted x402 preflight for action authority, payment mandate, destination, expiry and replay."
+2026-10-01T08:43:15.960038Z,com.overlayqa/mcp,,0.3.0,,,"Run accessibility, contrast, and design token audits and file QA issues from your AI coding tool."
+2026-10-01T08:49:43.735139Z,io.github.pedra-ai/pedra-mcp,Pedra,0.5.0,https://github.com/pedra-ai/pedra-mcp,,"AI real-estate photo editing and 360° virtual tours via the Pedra API: staging, renovation, video."
+2026-10-01T08:49:51.128373Z,dev.corsproxy/mcp,corsproxy.dev,1.0.0,,streamable-http,"Call third-party APIs from agents without leaking secrets. SSRF blocked, per-key quotas."
+2026-10-01T08:55:07.201044Z,io.github.Scormave/gramps-web-mcp,Gramps Web MCP,2.0.0,https://github.com/Scormave/gramps-web-mcp,,MCP server for structured access to Gramps Web genealogy data
+2026-10-01T09:02:00.015045Z,io.github.impowerdlifestyle-code/cited-mcp,Cited AI Visibility Check,0.1.0,https://github.com/impowerdlifestyle-code/cited-mcp,,"Check whether ChatGPT, Perplexity and Gemini recommend a business. By Cited (cited.voreli.ai)"
+2026-10-01T09:03:34.663503Z,com.qruuk/qruuk,Qruuk,1.0.0,,streamable-http,"Run a small business's loyalty cards, passes and till connections. Costs need owner approval."
+2026-10-01T09:10:45.324286Z,io.github.sebastienrousseau/rlg-mcp,,0.0.13,https://github.com/sebastienrousseau/rlg,,MCP server exposing rlg log streams to LLM agents via JSON-RPC 2.0 over stdio.
+2026-10-01T09:11:46.174956Z,io.github.JerryLiu369/agent-web-search,Agent Web Search,0.8.0,https://github.com/JerryLiu369/agent-web-search,,"Provider-neutral web_search for AI agents. Grounding + agent search APIs, keyless defaults."
+2026-10-01T09:11:59.179531Z,com.easygroupflights/easygroupflights,easygroupflights,1.1.0,https://github.com/codeblockssk/easygroupflights-mcp,streamable-http,Group flight quotes for parties of 10 or more passengers.
+2026-10-01T09:13:22.702157Z,io.github.cyanheads/fcc-spectrum-mcp-server,fcc-spectrum-mcp-server,0.1.1,https://github.com/cyanheads/fcc-spectrum-mcp-server,,"Search FCC radio licenses, find nearby transmitter sites, and see who is licensed on a frequency."
+2026-10-01T09:14:30.081318Z,io.github.gatoprd/bounty-engineer,Bounty Engineer Agent Commerce,1.2.1,https://github.com/gatoprd/InstaVeil,streamable-http,"Remote MCP storefront for agent routing, verification, web extraction and x402-paid tools."
+2026-10-01T09:14:32.261783Z,io.github.shibley/aidataparser,AIDataParser,0.2.0,https://github.com/shibley/aidataparser-mcp-server,streamable-http,"PDFs, images and messy text to schema-guaranteed JSON. try_parse runs a real extraction, no key."
+2026-10-01T09:18:37.299455Z,io.github.alialtunar/review-miner-mcp,Review Miner,0.1.0,https://github.com/alialtunar/review-miner-mcp,,Find what users hate about competing apps and games: App Store and Steam reviews. No API keys.

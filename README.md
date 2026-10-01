@@ -9,38 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 08:21 UTC
+## Latest list — 2026-10-01 09:20 UTC
 
-New MCP servers published between 2026-10-01 07:22 UTC and 2026-10-01 08:21 UTC.
+New MCP servers published between 2026-10-01 08:21 UTC and 2026-10-01 09:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-01T08-21-58-452023Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-01T09-20-21-08615Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-01 07:23:29 | world.mellow.www/hub | Mellow Hub | 1.3.1 | Post and schedule to Instagram, TikTok, YouTube, LinkedIn, X, Threads, Bluesky,… |
-| 2026-10-01 07:25:13 | [com.getloggerhead/loggerhead](https://github.com/rubics-code/loggerhead-mcp) | Loggerhead | 1.8.0 | Read the logs, metrics, and traces of the app you are editing, from the Loggerh… |
-| 2026-10-01 07:27:03 | [io.github.JulianJohansen/eu-pii-redact](https://github.com/JulianJohansen/eu-pii-redact) | EU PII Redaction | 0.1.0 | Redact EU personal data (names, national IDs, IBANs) in text and files; restore… |
-| 2026-10-01 07:27:39 | [io.github.alipishbin77/aether](https://github.com/alipishbin77/github-connector-test) |  | 1.0.0 | Marketplace where AI agents hire other agents, paid per call in USDC. Plus LLM… |
-| 2026-10-01 07:30:01 | com.marketintelligenceapi.api/market-intelligence-core | Market Intelligence API (core) | 1.0.0 | 15 core x402 market tools: trade decisions, token risk, new tokens, swap quotes… |
-| 2026-10-01 07:34:10 | [io.github.nitishagar/lumen](https://github.com/nitishagar/lumen) |  | 0.3.0 | Deterministic SEO audits as MCP tools: 36-rule site audit, keywords, rank, CWV… |
-| 2026-10-01 07:34:31 | [live.hkracing/mcp](https://github.com/oddsflowai-team/hkracing-mcp) | HK Racing AI | 1.0.0 | Hong Kong horse racing: race cards, AI win chances, odds, results, form and sta… |
-| 2026-10-01 07:36:00 | [io.github.QAtlasHub/doiget](https://github.com/QAtlasHub/doiget) | doiget | 0.9.0 | OA-first paper fetcher: DOIs/arXiv IDs to local PDFs + metadata via Open Access… |
-| 2026-10-01 07:36:59 | [com.tuskcms/mcp](https://github.com/emiledelarey/oryx-portal) |  | 0.4.0 | Client editing for sites you built: register, scan, publish, go live, invite th… |
-| 2026-10-01 07:40:36 | [io.github.RostislavMatov/mcpcut](https://github.com/RostislavMatov/mcpcut) | mcpcut | 0.2.3 | Journals every MCP tool call with secrets redacted; with a policy, holds risky… |
-| 2026-10-01 07:43:30 | com.frontstat/visibility |  | 1.0.0 | See whether ChatGPT, Claude and Gemini recommend a startup's product, and who t… |
-| 2026-10-01 07:43:36 | [io.github.beepboop2025/groundcheck](https://github.com/beepboop2025/groundcheck) |  | 0.7.2 | Verify claims, resolve FIGI identity, extract claims, and sign x402 delivery re… |
-| 2026-10-01 07:53:03 | com.firmtape/spx-options-gamma | FirmTape - SPX, ES and NQ gamma levels,… | 0.2.5 | SPX, ES and NQ E-mini futures gamma levels (GEX), 1,000+ SPX sessions, plus 100… |
-| 2026-10-01 07:54:12 | dev.workers.cybermax-tools.cybermax/domaindna-api | DomainDNA | 1.0.0 | Tech stack, email security (SPF, DMARC, MX provider) and domain age API + MCP.… |
-| 2026-10-01 07:54:27 | dev.workers.cybermax-tools.cybermax/hireheat-api | HireHeat | 1.0.0 | Company hiring signals + open jobs from Greenhouse, Lever, Ashby boards, API +… |
-| 2026-10-01 07:56:27 | [io.github.sus-tech-gmbh/matrix42-mcp](https://github.com/sus-tech-gmbh/matrix42-mcp) | Matrix42 | 0.1.6 | MCP server for Matrix42: explore the API and data model, search the service des… |
-| 2026-10-01 07:59:05 | [io.github.gtovtya/b2bleads-mcp](https://github.com/gtovtya/b2bleads-mcp) |  | 1.4.0 | Search and enrich B2B business leads by industry and city. |
-| 2026-10-01 08:00:01 | cz.hitprace/jobs | HitPrace | 1.0.0 | Read-only Czech job search and market snapshots. |
-| 2026-10-01 08:03:04 | [app.traderspy/traderspy](https://github.com/target1m/traderspy-mcp) | TraderSpy | 3.0.1 | AI crypto signals, whale positions, 19 technical indicators, derivatives, scree… |
-| 2026-10-01 08:06:58 | io.github.tonic20/extensions-dashboard | ExtensionDash | 1.0.0 | Research extension listings and search results; track installs, keyword ranking… |
-| 2026-10-01 08:07:21 | [io.github.work517/archiveflow](https://github.com/work517/archiveflow-releases) | Pullzip | 0.7.1 | Inspect, search and safely extract zip/7z/rar/tar archives; repair garbled CJK… |
-| 2026-10-01 08:07:56 | com.restaurantdoctorai/profit-check | RestaurantDoctorAI Profit Check | 1.0.0 | Free restaurant profit check: 12 multiple-choice questions, a grade, and the bi… |
-| 2026-10-01 08:17:10 | com.musokit/musokit | MusoKit music tools | 1.0.0 | Chords, scales, transposition, capo and tempo maths, with links to free interac… |
-| 2026-10-01 08:18:46 | [com.openagenda/mcp](https://github.com/OpenAgenda/oa-public) | OpenAgenda | 1.5.1 | Search, analyze and manage events on OpenAgenda. |
+| 2026-10-01 08:27:14 | dev.workers.cybermax-tools.cybermax/namewhere | Namewhere | 1.0.0 | Company name to domain API + MCP: official website, confidence, evidence. $5 pa… |
+| 2026-10-01 08:35:06 | pro.foxify/agent-commerce | FOXIFY Agent Commerce | 0.2.1 | Hosted x402 preflight for action authority, payment mandate, destination, expir… |
+| 2026-10-01 08:43:15 | com.overlayqa/mcp |  | 0.3.0 | Run accessibility, contrast, and design token audits and file QA issues from yo… |
+| 2026-10-01 08:49:43 | [io.github.pedra-ai/pedra-mcp](https://github.com/pedra-ai/pedra-mcp) | Pedra | 0.5.0 | AI real-estate photo editing and 360° virtual tours via the Pedra API: staging,… |
+| 2026-10-01 08:49:51 | dev.corsproxy/mcp | corsproxy.dev | 1.0.0 | Call third-party APIs from agents without leaking secrets. SSRF blocked, per-ke… |
+| 2026-10-01 08:55:07 | [io.github.Scormave/gramps-web-mcp](https://github.com/Scormave/gramps-web-mcp) | Gramps Web MCP | 2.0.0 | MCP server for structured access to Gramps Web genealogy data |
+| 2026-10-01 09:02:00 | [io.github.impowerdlifestyle-code/cited-mcp](https://github.com/impowerdlifestyle-code/cited-mcp) | Cited AI Visibility Check | 0.1.0 | Check whether ChatGPT, Perplexity and Gemini recommend a business. By Cited (ci… |
+| 2026-10-01 09:03:34 | com.qruuk/qruuk | Qruuk | 1.0.0 | Run a small business's loyalty cards, passes and till connections. Costs need o… |
+| 2026-10-01 09:10:45 | [io.github.sebastienrousseau/rlg-mcp](https://github.com/sebastienrousseau/rlg) |  | 0.0.13 | MCP server exposing rlg log streams to LLM agents via JSON-RPC 2.0 over stdio. |
+| 2026-10-01 09:11:46 | [io.github.JerryLiu369/agent-web-search](https://github.com/JerryLiu369/agent-web-search) | Agent Web Search | 0.8.0 | Provider-neutral web_search for AI agents. Grounding + agent search APIs, keyle… |
+| 2026-10-01 09:11:59 | [com.easygroupflights/easygroupflights](https://github.com/codeblockssk/easygroupflights-mcp) | easygroupflights | 1.1.0 | Group flight quotes for parties of 10 or more passengers. |
+| 2026-10-01 09:13:22 | [io.github.cyanheads/fcc-spectrum-mcp-server](https://github.com/cyanheads/fcc-spectrum-mcp-server) | fcc-spectrum-mcp-server | 0.1.1 | Search FCC radio licenses, find nearby transmitter sites, and see who is licens… |
+| 2026-10-01 09:14:30 | [io.github.gatoprd/bounty-engineer](https://github.com/gatoprd/InstaVeil) | Bounty Engineer Agent Commerce | 1.2.1 | Remote MCP storefront for agent routing, verification, web extraction and x402-… |
+| 2026-10-01 09:14:32 | [io.github.shibley/aidataparser](https://github.com/shibley/aidataparser-mcp-server) | AIDataParser | 0.2.0 | PDFs, images and messy text to schema-guaranteed JSON. try_parse runs a real ex… |
+| 2026-10-01 09:18:37 | [io.github.alialtunar/review-miner-mcp](https://github.com/alialtunar/review-miner-mcp) | Review Miner | 0.1.0 | Find what users hate about competing apps and games: App Store and Steam review… |
 
 ## Data source
 
