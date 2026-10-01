@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-10-01T10:24:17.220058Z,io.github.oceanmodeling/stofs-mcp,NOAA STOFS MCP Server,0.2.0,https://github.com/oceanmodeling/ocean-mcp,,"NOAA STOFS storm surge forecasts, observation validation, and OPeNDAP data"
+2026-10-01T10:33:01.030915Z,io.github.Nero-Engine/uk-subcontractor-right-to-work,UK Subcontractor Right to Work Checker,1.0.0,,streamable-http,Does a UK business have to right-to-work check a subcontractor or gig worker from 1 Oct 2026? Free.
+2026-10-01T10:35:45.510267Z,ai.epox/mcp,Epox,1.2.0,,streamable-http,Read your Epox catalogue and credits; generate studio and lifestyle product images.
+2026-10-01T10:38:32.394035Z,io.github.oceanmodeling/erddap-mcp,ERDDAP MCP Server,0.1.1,https://github.com/oceanmodeling/ocean-mcp,,Access ocean data from 80+ ERDDAP servers worldwide
+2026-10-01T10:38:42.802117Z,io.github.oceanmodeling/adcirc-mcp,ADCIRC Model Setup MCP Server,0.1.2,https://github.com/oceanmodeling/ocean-mcp,,"ADCIRC model configuration debugging, parameter lookup, and validation"
+2026-10-01T10:38:44.114357Z,io.github.oceanmodeling/goes-mcp,NOAA GOES Satellite Imagery MCP Server,0.1.3,https://github.com/oceanmodeling/ocean-mcp,,"GOES-18/19 satellite imagery — visible, infrared, water vapor, and composites via NOAA"
+2026-10-01T10:38:57.207618Z,io.github.oceanmodeling/ww3-mcp,NOAA WW3 MCP Server,0.1.2,https://github.com/oceanmodeling/ocean-mcp,,GFS-Wave (WAVEWATCH III) forecasts and NDBC buoy wave observations
+2026-10-01T10:38:58.411585Z,io.github.oceanmodeling/schism-mcp,SCHISM Model Setup MCP Server,0.1.1,https://github.com/oceanmodeling/ocean-mcp,,"SCHISM model configuration debugging, parameter lookup, and validation"
+2026-10-01T10:38:59.653653Z,io.github.oceanmodeling/recon-mcp,NOAA Recon MCP Server,0.1.2,https://github.com/oceanmodeling/ocean-mcp,,"Hurricane reconnaissance data — HDOB flight observations, Vortex Data Messages, SFMR, and ATCF fixes"
+2026-10-01T10:39:01.682282Z,io.github.oceanmodeling/ofs-mcp,NOAA OFS MCP Server,0.1.1,https://github.com/oceanmodeling/ocean-mcp,,"NOAA OFS regional ocean model forecasts — water level, temperature, salinity"
+2026-10-01T10:39:02.041124Z,io.github.oceanmodeling/usgs-mcp,USGS Water Services MCP Server,0.1.1,https://github.com/oceanmodeling/ocean-mcp,,"USGS Water Services streamflow, flood stages, and peak events via waterservices.usgs.gov"
+2026-10-01T10:40:08.962765Z,io.github.oceanmodeling/nhc-mcp,NHC MCP Server,0.1.1,https://github.com/oceanmodeling/ocean-mcp,,"NHC storm tracks, forecast advisories, watches/warnings, and HURDAT2 data"
+2026-10-01T10:45:24.282856Z,ai.wavespeed/mcp,,1.0.8,https://github.com/WaveSpeedAI/mcp-server,,"Run any model on the live WaveSpeed catalog: image, video, audio, 3D."
+2026-10-01T10:45:55.359594Z,io.github.midagedev/gadak,gadak,0.24.1,https://github.com/midagedev/gadak,,"Ask a local SQLite mirror of your Jira and Confluence: SQL, full-text search, issue detail."
+2026-10-01T10:47:54.626512Z,cn.mackorn/mackorn-cone-crusher,MACKORN Hydraulic Cone Crusher Selection,0.0.7,https://github.com/LeifDai/MACKORN-hydraulic-cone-crusher,,Cone crusher and crushing-plant selection for MACKORN NH/NS hydraulic cone crushers. 19 tools.
+2026-10-01T10:50:53.324248Z,net.lnx/qr,LNX QR codes,1.0.0,,streamable-http,"Styled, print-ready QR codes for links, text, email or phone, with frames and custom colors."
+2026-10-01T10:53:00.608865Z,io.github.pilot-protocol/pilot-mcp,,0.4.0,https://github.com/pilot-protocol/pilot-mcp,,Your agent's overlay network. 435 specialist agents + P2P A2A messaging on a 190k-node network.
+2026-10-01T10:56:17.916778Z,io.github.everyai-com/festival-finder,FestivalFinder,1.0.0,https://github.com/everyai-com/sahadeva,streamable-http,"Computed Hindu festival dates: Diwali, Holi, Navratri, more."
+2026-10-01T10:56:57.835002Z,io.github.api-freaks/apifreaks-mcp,APIFreaks MCP,2.3.1,https://github.com/api-freaks/apifreaks-mcp,,APIFreaks MCP: live APIs for agents. Enable modules with ENABLE_MODULES; discover via list_modules.
+2026-10-01T10:58:14.422046Z,io.github.SHIMABEIGI/delhaize-mcp,Delhaize receipts,0.1.0,https://github.com/SHIMABEIGI/delhaize-mcp-public,,Fetch your own Delhaize (Belgium) till receipts and weekly promotions with a headless browser.
+2026-10-01T11:03:28.659317Z,io.github.nightswatchhq/nuthatch,nuthatch,4.0.0,https://github.com/nightswatchhq/nuthatch,,"Query an EVM contract's indexed history with SQL, via a local nuthatch nest and nuthatch dev."
+2026-10-01T11:04:59.014977Z,io.github.kubeshop/testkube-mcp,,2.14.0,https://github.com/kubeshop/testkube,streamable-http,"MCP server for Testkube - Manage test workflows, executions, and artifacts via AI assistants"
+2026-10-01T11:05:26.904479Z,io.github.tasuyoapp-ctrl/email-preflight,Email Preflight,0.2.0,,streamable-http,Email preflight x402: $0.001 USDC on Base. MCP returns unpaid 402 only; no signing or payment.
+2026-10-01T11:07:53.648201Z,io.github.danieldedaniel/qrtracer,QRtracer,1.0.0,,streamable-http,"Create dynamic QR codes, update destination links, render QR images and read scan analytics."
+2026-10-01T11:10:11.468066Z,io.github.cyanheads/cern-inspire-mcp-server,cern-inspire-mcp-server,0.1.1,https://github.com/cyanheads/cern-inspire-mcp-server,,"Search INSPIRE-HEP papers, authors, experiments, HEPData records; get citation metrics and BibTeX."
+2026-10-01T11:10:12.360552Z,com.bluecat/micetromcp,,26.1.1,,,BlueCat Micetro MCP Server
+2026-10-01T11:11:21.792584Z,io.github.kensaurus/mushi-mushi,Mushi Mushi,0.22.1,https://github.com/kensaurus/mushi-mushi,streamable-http,"The bug mediator for AI-built apps: plain-English diagnosis + a ready fix, in your editor."
+2026-10-01T11:14:48.564091Z,com.gamerspilot/steam,GamersPilot — Steam library tools,1.0.0,,streamable-http,"Steam backlog, account value, buy-or-skip verdicts and Steam Machine checks. Hosted, keyless."
