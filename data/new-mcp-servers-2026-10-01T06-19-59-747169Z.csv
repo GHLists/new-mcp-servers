@@ -1,0 +1,15 @@
+created_at,server,title,version,repository,transports,description
+2026-10-01T05:21:02.907145Z,app.rowb.pool-log/water-log,Pool Log — CDC-range water test log (no AI),1.0.0,,streamable-http,Deterministic pool and spa water test log. Checks readings against US CDC ranges. No AI.
+2026-10-01T05:22:16.891115Z,app.rowb.hourproof/hours,HourProof — volunteer/service hour ledger (no AI),1.0.0,,streamable-http,"Deterministic check of logged service hours: bad dates, impossible totals, duplicates. No AI."
+2026-10-01T05:23:50.928677Z,io.github.zombico/mojulo,,3.0.0,https://github.com/zombico/mojulo,,"A 3D compiler for coding agents: objects, worlds and games as small recipes. Emits Godot and STL."
+2026-10-01T05:29:21.614616Z,io.github.dg314/videogen,VideoGen,2.2.1,https://github.com/video-gen/videogen-mcp,streamable-http,"Create and edit videos, images, voiceovers, music, and avatars with the VideoGen API."
+2026-10-01T05:40:18.526899Z,com.a11ychk/mcp,A11y Check,0.1.6,https://github.com/IsaacEryn/a11ychk,,Web accessibility scanning (WCAG 2.2 AA + KWCAG 2.2) with Korean remediation guides
+2026-10-01T05:41:43.677364Z,com.svgator/mcp,,1.1.0,https://github.com/SVGator/mcp,streamable-http,"Browse, create, edit, and export SVGator animated SVG projects via your SVGator account."
+2026-10-01T05:48:10.673775Z,ai.lifescenario/info,Life Scenario,1.2.0,,streamable-http,"SEL practice for kids 6-14: trait guides, practice scenarios, what-to-say guides for parents."
+2026-10-01T05:56:27.555331Z,studio.misata/misata,Misata Studio: verified synthetic data,1.0.0,,streamable-http,"Hosted: plan and build multi-table test and demo data, export 25 formats, with checks shown."
+2026-10-01T05:58:22.271497Z,io.github.rasinmuhammed/misata,Misata: synthetic data library,0.9.6.60,https://github.com/rasinmuhammed/misata,,"Local, offline: multi-table synthetic data with joins that hold and exact totals. Seeds databases."
+2026-10-01T06:00:37.316249Z,io.github.jkawamoto/mcp-florence2,,0.5.1,https://github.com/jkawamoto/mcp-florence2,,An MCP server for processing images using Florence-2
+2026-10-01T06:10:42.583951Z,host.workbuddy.app.a959e52db0499cef3/oexchange-compute-futures,O-Exchange Compute Futures,2.0.0,,streamable-http,On-chain compute futures exchange: live GPU price index + USDC-settled trading for AI agents.
+2026-10-01T06:12:21.217936Z,uk.co.qaimos.storeshots/storeshots,StoreShots,0.1.1,,,Turn raw app screenshots into App Store and Google Play marketing screenshots.
+2026-10-01T06:15:39.626605Z,com.deepsearch.x402/korean-stocks,,1.2.1,https://github.com/deepsearch-hq/deepsearch-x402.git,,"Korean stock & crypto for AI agents. KRX news, financials, risk via x402 USDC payments."
+2026-10-01T06:17:52.012767Z,io.github.cyanheads/art-institute-chicago-mcp-server,,0.1.1,https://github.com/cyanheads/art-institute-chicago-mcp-server,,"Search the Art Institute of Chicago collection: artworks, artists, exhibitions, and audio guides."
