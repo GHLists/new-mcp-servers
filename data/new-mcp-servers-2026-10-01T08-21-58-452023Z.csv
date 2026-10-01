@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-10-01T07:23:29.24211Z,world.mellow.www/hub,Mellow Hub,1.3.1,,streamable-http,"Post and schedule to Instagram, TikTok, YouTube, LinkedIn, X, Threads, Bluesky, Pinterest, Facebook."
+2026-10-01T07:25:13.224899Z,com.getloggerhead/loggerhead,Loggerhead,1.8.0,https://github.com/rubics-code/loggerhead-mcp,,"Read the logs, metrics, and traces of the app you are editing, from the Loggerhead Mac app."
+2026-10-01T07:27:03.888437Z,io.github.JulianJohansen/eu-pii-redact,EU PII Redaction,0.1.0,https://github.com/JulianJohansen/eu-pii-redact,,"Redact EU personal data (names, national IDs, IBANs) in text and files; restore it later."
+2026-10-01T07:27:39.810983Z,io.github.alipishbin77/aether,,1.0.0,https://github.com/alipishbin77/github-connector-test,streamable-http,"Marketplace where AI agents hire other agents, paid per call in USDC. Plus LLM inference."
+2026-10-01T07:30:01.987927Z,com.marketintelligenceapi.api/market-intelligence-core,Market Intelligence API (core),1.0.0,,streamable-http,"15 core x402 market tools: trade decisions, token risk, new tokens, swap quotes, news, macro"
+2026-10-01T07:34:10.453215Z,io.github.nitishagar/lumen,,0.3.0,https://github.com/nitishagar/lumen,,"Deterministic SEO audits as MCP tools: 36-rule site audit, keywords, rank, CWV reports."
+2026-10-01T07:34:31.233328Z,live.hkracing/mcp,HK Racing AI,1.0.0,https://github.com/oddsflowai-team/hkracing-mcp,streamable-http,"Hong Kong horse racing: race cards, AI win chances, odds, results, form and stats."
+2026-10-01T07:36:00.451262Z,io.github.QAtlasHub/doiget,doiget,0.9.0,https://github.com/QAtlasHub/doiget,,OA-first paper fetcher: DOIs/arXiv IDs to local PDFs + metadata via Open Access APIs.
+2026-10-01T07:36:59.974366Z,com.tuskcms/mcp,,0.4.0,https://github.com/emiledelarey/oryx-portal,streamable-http,"Client editing for sites you built: register, scan, publish, go live, invite the client."
+2026-10-01T07:40:36.922046Z,io.github.RostislavMatov/mcpcut,mcpcut,0.2.3,https://github.com/RostislavMatov/mcpcut,,"Journals every MCP tool call with secrets redacted; with a policy, holds risky calls for approval"
+2026-10-01T07:43:30.848253Z,com.frontstat/visibility,,1.0.0,,streamable-http,"See whether ChatGPT, Claude and Gemini recommend a startup's product, and who they name instead."
+2026-10-01T07:43:36.582345Z,io.github.beepboop2025/groundcheck,,0.7.2,https://github.com/beepboop2025/groundcheck,streamable-http,"Verify claims, resolve FIGI identity, extract claims, and sign x402 delivery receipts over MCP."
+2026-10-01T07:53:03.891815Z,com.firmtape/spx-options-gamma,"FirmTape - SPX, ES and NQ gamma levels, 100+ symbols",0.2.5,,streamable-http,"SPX, ES and NQ E-mini futures gamma levels (GEX), 1,000+ SPX sessions, plus 100+ ETFs and stocks"
+2026-10-01T07:54:12.30216Z,dev.workers.cybermax-tools.cybermax/domaindna-api,DomainDNA,1.0.0,,streamable-http,"Tech stack, email security (SPF, DMARC, MX provider) and domain age API + MCP. 25 free domains/day."
+2026-10-01T07:54:27.176204Z,dev.workers.cybermax-tools.cybermax/hireheat-api,HireHeat,1.0.0,,streamable-http,"Company hiring signals + open jobs from Greenhouse, Lever, Ashby boards, API + MCP. 20 free/day."
+2026-10-01T07:56:27.602278Z,io.github.sus-tech-gmbh/matrix42-mcp,Matrix42,0.1.6,https://github.com/sus-tech-gmbh/matrix42-mcp,,"MCP server for Matrix42: explore the API and data model, search the service desk, act on tickets"
+2026-10-01T07:59:05.268347Z,io.github.gtovtya/b2bleads-mcp,,1.4.0,https://github.com/gtovtya/b2bleads-mcp,,Search and enrich B2B business leads by industry and city.
+2026-10-01T08:00:01.253941Z,cz.hitprace/jobs,HitPrace,1.0.0,,streamable-http,Read-only Czech job search and market snapshots.
+2026-10-01T08:03:04.472162Z,app.traderspy/traderspy,TraderSpy,3.0.1,https://github.com/target1m/traderspy-mcp,streamable-http,"AI crypto signals, whale positions, 19 technical indicators, derivatives, screener and backtests"
+2026-10-01T08:06:58.160481Z,io.github.tonic20/extensions-dashboard,ExtensionDash,1.0.0,,streamable-http,"Research extension listings and search results; track installs, keyword rankings, and competitors."
+2026-10-01T08:07:21.943841Z,io.github.work517/archiveflow,Pullzip,0.7.1,https://github.com/work517/archiveflow-releases,,"Inspect, search and safely extract zip/7z/rar/tar archives; repair garbled CJK file names."
+2026-10-01T08:07:56.510805Z,com.restaurantdoctorai/profit-check,RestaurantDoctorAI Profit Check,1.0.0,,streamable-http,"Free restaurant profit check: 12 multiple-choice questions, a grade, and the biggest money leak."
+2026-10-01T08:17:10.564539Z,com.musokit/musokit,MusoKit music tools,1.0.0,,streamable-http,"Chords, scales, transposition, capo and tempo maths, with links to free interactive music tools."
+2026-10-01T08:18:46.411082Z,com.openagenda/mcp,OpenAgenda,1.5.1,https://github.com/OpenAgenda/oa-public,streamable-http,"Search, analyze and manage events on OpenAgenda."
