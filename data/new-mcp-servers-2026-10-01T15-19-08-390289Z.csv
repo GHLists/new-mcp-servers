@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-10-01T14:19:48.011305Z,ca.nlledger/nl-ledger,NL Ledger,0.4.0,,streamable-http,"NL provincial and federal spending records, each with its source. Addresses do not locate work."
+2026-10-01T14:20:21.004851Z,io.github.bulatko/vk,,0.7.0,https://github.com/bulatko/vk-mcp-server.git,,"VK (VKontakte): read walls, users, communities and stats; publish, edit and comment on posts."
+2026-10-01T14:22:10.846562Z,io.github.huanglizhuo/octocounts-mcp,OctoCounts MCP Server,0.1.2,https://github.com/huanglizhuo/OctoCounts,,"Analyze and compare public GitHub repo line counts (SLOC) via OctoCounts, from any MCP client."
+2026-10-01T14:25:54.978421Z,io.github.ipinfo/mcp,IPinfo,0.1.14,https://github.com/ipinfo/mcp,streamable-http,Official IPinfo MCP Server - IP intelligence tools for AI assistants
+2026-10-01T14:28:18.143971Z,io.github.divblox-group/divblox-mcp,Divblox MCP,0.1.0,,streamable-http,"Define requirements, plan tickets and tasks, and track delivery with your Divblox projects."
+2026-10-01T14:30:56.048034Z,com.theoddsgap/answers,The Odds Gap,1.0.0,,streamable-http,Ask The Odds Gap sports betting price questions from your AI assistant.
+2026-10-01T14:34:30.346309Z,org.papex/mcp,Papex,0.7.3,,,Prepare private research drafts for your review in Papex and read public Papex records.
+2026-10-01T14:34:48.89186Z,ai.replylayer/replylayer,ReplyLayer,0.15.1,,streamable-http,"Safe email for AI agents: a mailbox with inbound scanning, outbound checks and human review."
+2026-10-01T14:40:22.429043Z,io.github.The-RFP-Hub/rfp-hub,RFP Hub,0.1.4,https://github.com/The-RFP-Hub/the-rfp-hub,,Search Ethereum-ecosystem funding opportunities; submit one behind a human approval step.
+2026-10-01T14:41:39.907793Z,com.getbillwatchdog/billwatch,,1.0.0,https://github.com/Adamtbull/billwatchdog,streamable-http,"Current US streaming and VPN plan prices for AI agents: deals, filters and price history."
+2026-10-01T14:43:06.207103Z,pro.worldly/klar,Klar Calculators,0.1.0,https://github.com/ahmedharb333/Hasebha,streamable-http,"Jordan & GCC labour-law, tax and finance calculators for AI agents — 36 deterministic tools."
+2026-10-01T14:44:11.45795Z,io.github.cyanheads/elevation-mcp-server,,0.1.1,https://github.com/cyanheads/elevation-mcp-server,,"Look up elevation worldwide, profile route ascent/descent, grid areas, check terrain line of sight."
+2026-10-01T14:44:16.366295Z,nl.scamchecker/scamchecker,Scamchecker.nl,1.0.0,https://github.com/smrht/scamchecker-plugin,streamable-http,"Check a suspicious message, link or screenshot for scams (NL/BE). Marks red flags and explains why."
+2026-10-01T14:50:38.181184Z,com.kreatormesh/kreatormesh,KreatorMesh,1.0.0,https://github.com/orkuma-alex/kreatormesh-agent-mode,streamable-http,Schedule posts to 10 social platforms and check drafts against hook rules learned from your audience
+2026-10-01T14:52:11.516194Z,io.github.gowrishankar-infra/sabline,Sabline,8.7.1,https://github.com/gowrishankar-infra/sabline-lang,,Run code an AI wrote without handing it everything you can reach.
+2026-10-01T14:53:32.047673Z,io.github.delaney470/withnettle,WithNettle,1.0.0,,streamable-http,"Project management shared by people and AI agents, with persistent project state through MCP."
+2026-10-01T15:03:27.820314Z,io.github.mobile-next/mobile-mcp,,1.0.7,https://github.com/mobile-next/mobile-mcp,,"MCP server for iOS and Android Mobile Development, Automation and Testing"
+2026-10-01T15:13:20.29105Z,io.github.puluceno/agentready,,1.0.0,,streamable-http,"Can ChatGPT, Claude and Perplexity reach and read a website? Score, problems found and fixes."
+2026-10-01T15:13:27.8461Z,uk.slate-hq.registry/ambi,AMBI,1.1.0,,streamable-http,"Save and retrieve your chosen context, manage shared workspaces, and track project time."
+2026-10-01T15:16:33.529002Z,xyz.atlasfetch/atlasfetch,AtlasFetch,0.1.6,https://github.com/atlasfetch-dev/atlasfetch-mcp,,"Reverse geocode a coordinate to country, region, municipality and street, plus your own geofences."
+2026-10-01T15:16:42.326374Z,dev.proofhand/proofhand,Proofhand,1.0.0,,streamable-http,"Human QA on real phones and browsers for your coding agent. Pass/fail per step, with screenshots."
