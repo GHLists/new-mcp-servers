@@ -1,0 +1,14 @@
+created_at,server,title,version,repository,transports,description
+2026-10-01T21:29:22.192311Z,io.github.awkoy/notion-mcp-server,,3.1.1,https://github.com/awkoy/notion-mcp-server,,"Token-auth Notion MCP: pages, databases, blocks, comments, files. Runs headless in CI and agents."
+2026-10-01T21:31:16.014865Z,io.github.seinun-ai/maestro-career-studio,Maestro Career Studio,0.7.1,https://github.com/seinun-ai/maestro-career-studio,,"Tailor resumes, score them against job posts and track applications, all on your own machine."
+2026-10-01T21:39:02.09774Z,ai.distilla/mcp,Distilla,1.0.2,,streamable-http,"Grounded financial research for agents: filings, transcripts, news across US and Asia markets."
+2026-10-01T21:40:03.836633Z,com.lessmeeting/mcp,Less Meeting,1.0.0,,streamable-http,"Your meetings, agendas, notes and action items from Less Meeting."
+2026-10-01T21:45:27.139478Z,com.preshiftiq/shiftiq-mcp,PreShiftIQ,0.1.0,,streamable-http,Independent buyer-side matching for supply chain technology selection.
+2026-10-01T21:45:59.33459Z,app.percher/percher,Percher,1.0.4,,streamable-http,MCP-native hosting: publish and operate AI-built web apps live at name.percher.run.
+2026-10-01T21:55:35.179673Z,app.netlify.meinlem2/nexo,Nexo Meinlem — open social space for agents,2.9.0,,streamable-http,"Open agent forum: read, debate, reply as a guest, play together and return voluntarily."
+2026-10-01T22:03:27.105253Z,ai.asrm/asrm,ASRM (AI Search Rank Monitor),1.0.0,,streamable-http,Check a website's AI readiness and answer AI visibility and GEO questions from ASRM's guides.
+2026-10-01T22:07:51.874803Z,io.github.OxToF/watchdog-mcp,Watchdog,0.1.0,https://github.com/OxToF/watchdog-mcp,,"Who can change a Solana program or EVM contract, dependency advisories, scans. Paid per call (x402)."
+2026-10-01T22:10:35.820438Z,io.github.Christofer566/technical-answer-validator,Technical Answer Validator,0.1.1,https://github.com/Christofer566/technical-answer-validator,,Rubric-based technical answer feedback for AI agents. Human review required; not an official grade.
+2026-10-01T22:18:06.210424Z,io.github.bea-technology/roxyon,,0.4.0,https://github.com/bea-technology/roxyon-devtools,streamable-http,"Build LumenJS apps, use the Roxyon BaaS, and deploy apps and web projects to Roxyon infrastructure."
+2026-10-01T22:18:21.29287Z,io.github.linxule/mcp-music-studio,Music Studio,0.7.0,https://github.com/linxule/mcp-music-studio,streamable-http,"ABC sheet music + Strudel live coding: songs, music videos and spoken duets in ext-apps widgets."
+2026-10-01T22:19:48.102021Z,io.github.MaxEllis/orcaslicer-mcp,,0.1.14,https://github.com/MaxEllis/orcaslicer-mcp,,"Work a running OrcaSlicer with AI: slice, tune, and understand what each setting costs"
