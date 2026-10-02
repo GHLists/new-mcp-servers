@@ -1,0 +1,34 @@
+created_at,server,title,version,repository,transports,description
+2026-10-02T10:23:41.676119Z,io.github.bartosz-kuc/skanfirmy,skanfirmy.pl,1.4.0,https://github.com/bartosz-kuc/skanfirmy-mcp,streamable-http,Verify Polish companies by NIP/KRS/REGON + EU VAT (VIES). 14 MCP tools (9 no-key).
+2026-10-02T10:24:29.678627Z,app.botgigs/mcp,BotGigs,0.1.0,,streamable-http,Agents post real-world gigs. Humans do them and get paid from non-custodial BNB Chain escrow.
+2026-10-02T10:28:24.287941Z,io.github.lyf-wxy/spomory,,0.3.0,https://github.com/yliuai/spomory,streamable-http; streamable-http,Explainable graph-retrieval memory engine with an RL-trained management policy.
+2026-10-02T10:28:42.470631Z,io.github.aahlijia/dekko,,1.6.0,https://github.com/aahlijia/dekko,,"Static code map generator: MAP.md + map.json for any repo, plus a Claude Code /map plugin"
+2026-10-02T10:30:38.585588Z,io.github.Airtreks/airtreks-mcp,AirTreks MCP,1.2.4,https://github.com/Airtreks/airtreks-mcp,streamable-http,"Multi-city flight routing intelligence — plan RTW trips, validate alliances, get carrier picks."
+2026-10-02T10:33:49.598084Z,com.riverscript/mcp-v2,RiverScript MCP v2,1.0.0,,streamable-http,"Bring your RiverScript transcripts of meetings, calls and interviews to any AI agent."
+2026-10-02T10:34:35.091853Z,io.github.Fizzl13/presign-guard-wallet,presign-guard wallet,0.1.0,https://github.com/Fizzl13/x402-examples,,"A wallet with spending limits for agents: pay x402 APIs, send USDC, phone approval over the limit."
+2026-10-02T10:34:44.138762Z,com.ai-agents-pitstop/pitstop,AI Agents Pitstop,5.0.0,,streamable-http,"Human approvals, autonomy limits and a chained audit log for the AI agents of service firms."
+2026-10-02T10:35:30.20776Z,xyz.cabalspy/wallet-tracker,,2.1.0,,streamable-http,"KOL and smart money wallet tracking on 5 chains: live trades, PnL, signals, Jito bundle detection."
+2026-10-02T10:43:07.956378Z,com.hardlinephone/mcp,Hardline Phone,1.0.0,,streamable-http,"Dedicated remote-access US-based Android phones with a real US number. Pay crypto, control via MCP."
+2026-10-02T10:52:36.29374Z,com.citizenleap/civica,Civica citizenship test prep,0.1.0,,streamable-http,"Read-only citizenship test facts, official sources and sample questions for 8 countries."
+2026-10-02T10:52:53.524039Z,io.github.TAMA-FIT/agent-commerce-readiness,Agent Commerce Readiness,0.3.0,,streamable-http,"Read-only agent-commerce audit, upgrade verification, diagnosis and x402 probing."
+2026-10-02T10:53:23.834111Z,io.github.mnemox-ai/tradememory-protocol,,0.5.6,https://github.com/mnemox-ai/tradememory-protocol,,Tamper-evident decision audit trail and outcome-weighted memory for AI trading agents.
+2026-10-02T10:55:07.345373Z,com.esimoa/esim,esimoa — travel eSIM comparison,1.0.0,,streamable-http,"Compare travel eSIM plans by country, days and data — live prices and links to buy on esimoa."
+2026-10-02T10:56:21.282399Z,io.equation/equation,Equation.io,1.0.1,https://github.com/aantthony/equation.io,streamable-http,"Create interactive 2D and 3D graphs with validated equations, shareable links, and PNG previews."
+2026-10-02T10:59:33.776472Z,com.contenta-software/contenta-converter,Contenta Converter,1.0.0,https://github.com/contentasoftware/mcp-launcher,,"Batch-convert, resize and edit images on your Windows PC: 100+ formats, PDF albums, metadata"
+2026-10-02T10:59:36.153081Z,com.contenta-software/videorecompress,VideoRecompress Studio,1.0.0,https://github.com/contentasoftware/mcp-launcher,,"Shrink video files on your Windows PC with H.265/AV1 and GPU encoding, a whole folder at a time"
+2026-10-02T10:59:38.97696Z,com.contenta-software/ai-video-enhancer,AI Video Enhancer Studio,1.0.0,https://github.com/contentasoftware/mcp-launcher,,"Upscale, stabilize, denoise and raise the frame rate of videos locally on your NVIDIA GPU"
+2026-10-02T10:59:42.936942Z,com.contenta-software/cad-converter,3D CAD Converter,1.0.0,https://github.com/contentasoftware/mcp-launcher,,"Convert STEP, IGES, STL, OBJ, FBX, glTF and 3MF files on your Windows PC, one file or a folder"
+2026-10-02T11:00:10.857878Z,com.fluidvip/fluidtalk,FluidTalk,1.0.0,,streamable-http,Create AI Characters and generate their DM and comment replies from any MCP client.
+2026-10-02T11:01:48.964819Z,io.github.theodor90/form4api-mcp,Form4API — SEC Insider Trading,1.15.1,https://github.com/theodor90/form4api-mcp,,"Real-time SEC Form 4, Form 144, 13F-HR & congressional STOCK Act insider data. 38 tools + 6 prompts."
+2026-10-02T11:03:43.59895Z,io.github.amply-tools/amply,Amply,0.24.0,,streamable-http,"Create, target and launch in-app campaigns for mobile apps, read stats, manage store prices."
+2026-10-02T11:05:59.667874Z,pl.noclegowo/noclegowo,Noclegowo,1.2.1,,streamable-http,"Accommodation search in Poland on noclegowo.pl: offers, availability and whole-stay prices."
+2026-10-02T11:07:20.429066Z,io.github.julian-martin89/url-oracle,url-oracle — URL Trust Oracle,1.0.0,,streamable-http,Flags phantom-squatted/typosquatted domains and known-malicious URLs before an agent follows them.
+2026-10-02T11:09:01.155183Z,com.firmadb/company-data,FirmaDB — European Company Data,0.1.0,,streamable-http,Find European company records with registry source and freshness information.
+2026-10-02T11:10:52.774638Z,io.github.PhilflowIO/dav-mcp,,4.1.0,https://github.com/PhilflowIO/dav-mcp,,"AI-orchestrated calendars, contacts & tasks across any DAV platform. 27 tools, field-agnostic."
+2026-10-02T11:11:27.685108Z,io.github.houtini-ai/google-knowledge-graph,,1.0.8,https://github.com/houtini-ai/google-knowledge-graph-mcp,,Search Google's Knowledge Graph for structured information about real-world entities
+2026-10-02T11:12:13.631095Z,com.draftboard/mcp,Draftboard,1.0.0,,streamable-http,"Warm intros to any target via your own network: who can introduce you, and how strong the path is."
+2026-10-02T11:14:09.162054Z,tools.amply/amply,Amply,0.24.0,,streamable-http,"Create, target and launch in-app campaigns for mobile apps, read stats, manage store prices."
+2026-10-02T11:17:06.452151Z,io.github.WYRE-AI/uisp-mcp,UISP,1.0.0,https://github.com/WYRE-AI/uisp-mcp,,MCP server for Ubiquiti UISP's REST API - network/ISP infrastructure monitoring for MSPs.
+2026-10-02T11:17:28.662166Z,io.github.dappros/ethora-mcp-server,,26.10.0,https://github.com/dappros/ethora-mcp-server,streamable-http; streamable-http,"Ethora chat platform MCP: apps, users, rooms, AI agents, chat widgets. Hosted or stdio."
+2026-10-02T11:19:11.01316Z,com.weight-forecast/weight-forecast,Weight Forecast,1.0.0,,streamable-http,Weight Forecast: a free web app that projects your goal-weight date from your weigh-ins.
+2026-10-02T11:22:02.107881Z,io.github.MGrin/household-recall-watch,Household Recall Watch,0.1.0,https://github.com/MGrin/recall-radar-mcp,,"Household recall checks over public CPSC, openFDA and EMA data, with a watchlist. No API key."
