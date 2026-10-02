@@ -9,36 +9,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 09:22 UTC
+## Latest list — 2026-10-02 10:22 UTC
 
-New MCP servers published between 2026-10-02 08:21 UTC and 2026-10-02 09:22 UTC.
+New MCP servers published between 2026-10-02 09:22 UTC and 2026-10-02 10:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-02T09-22-08-831651Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-02T10-22-12-861303Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-02 08:21:42 | [io.github.NoBanks/therealcost-mcp](https://github.com/NoBanks/therealcost-mcp) | The Real Cost | 0.1.0 | Free US money calculators with the math shown, from The Real Cost. Education on… |
-| 2026-10-02 08:21:44 | com.shipmyform/shipmyform | ShipMyForm | 1.1.0 | Form backend as 29 tools: create endpoints, route submissions, publish pages, r… |
-| 2026-10-02 08:21:52 | [io.github.pratikgajjar/sf-beverage-skus](https://github.com/pratikgajjar/sf-beverage-skus) |  | 0.3.0 | SF coffee, matcha, and chai catalog API: 439 SKUs across 13 merchants, prices i… |
-| 2026-10-02 08:24:09 | [io.github.NoaCG/noacg](https://github.com/NoaCG/NoaCG-Studio) | NoaCG Broadcast Graphics and Playout | 0.7.0 | Make broadcast graphics for NoaCG Studio and play them out live on CasparCG, OB… |
-| 2026-10-02 08:27:20 | [com.yatmo/yatmo](https://github.com/Yatmo/yatmo-mcp) | Yatmo neighbourhood data for real estate | 1.0.0 | Real estate neighbourhood data: nearest school, shops, transport with travel ti… |
-| 2026-10-02 08:27:27 | [io.github.James-Chahwan/repo-graph](https://github.com/James-Chahwan/repo-graph.git) |  | 0.5.2 | Structural graph map of any codebase so LLMs navigate by structure, not guesswo… |
-| 2026-10-02 08:36:26 | [io.github.delian/ddflow-mcp](https://github.com/delian/ddflow-mcp) | ddflow | 0.1.9 | Work-queue kernel for AI coding agents: dependencies, worktree isolation, quali… |
-| 2026-10-02 08:37:10 | com.stepladderapp/stepladder | Stepladder | 1.0.0 | Put timed plans on the person's phone: steps, questions and waits that ring whe… |
-| 2026-10-02 08:37:46 | [com.tokcloner/tokcloner](https://github.com/tokcloner/tokcloner) |  | 1.0.0 | Clone viral TikTok/Instagram slideshows for your business. Async; 6 tools; Bear… |
-| 2026-10-02 08:38:06 | dev.thebridge/bridge | The Bridge | 1.0.0 | Auth, billing, plans, feature flags and roles for your SaaS, set up from your c… |
-| 2026-10-02 08:38:33 | [io.github.OntoDistro/remirror](https://github.com/OntoDistro/remirror) | remirror (返照） — psyche audits for AI ag… | 1.0.0 | Psyche audits for AI agents: declared vs self-reported vs revealed objectives,… |
-| 2026-10-02 08:44:00 | xyz.socseal/socseal-mcp | socseal settlement door | 1.0.0 | Read-only settlement proof for agents: prove a txid MINED, post-quantum signed.… |
-| 2026-10-02 08:44:41 | io.github.xnjiang/speakpen-mcp | SpeakPen: Your Voice Notes | 1.0.0 | Read-only access to your SpeakPen voice notes: search, read transcripts, list r… |
-| 2026-10-02 08:45:36 | [io.github.ZenRows/zenrows-mcp](https://github.com/ZenRows/zenrows-mcp) |  | 2.3.0 | Zenrows MCP server — Fetch, Extract, Batch, and Browser Sessions for AI coding… |
-| 2026-10-02 08:54:20 | [io.github.formfeed-dev/formfeed](https://github.com/formfeed-dev/formfeed) | Formfeed | 0.3.11 | Render PDFs and images from templates, validate data and convert Office files t… |
-| 2026-10-02 09:05:34 | [io.github.AnxForever/stylekit-mcp](https://github.com/AnxForever/stylekit) | StyleKit | 0.4.0 | stdio MCP server for StyleKit styles, templates, assets, tokens, recipes, and l… |
-| 2026-10-02 09:10:52 | [io.github.The-Pixel-Boys/shield-kya](https://github.com/The-Pixel-Boys/shield-kya) |  | 0.19.0 | KYA MCP gate: evaluate, ingest, request approval. Sole PEP is Shield. |
-| 2026-10-02 09:13:16 | com.debyko/mcp | DEBYKO | 0.1.0 | Cross-venue crypto derivatives market data: funding, open interest, books, cand… |
-| 2026-10-02 09:13:36 | io.testiny/testiny-mcp | Testiny Test Management | 1.0.0 | Create and manage test cases, test runs and results in Testiny from your AI ass… |
-| 2026-10-02 09:13:56 | [io.github.zahidul-alam-m4/tracking-mcp-server](https://github.com/zahidul-alam-m4/tracking-mcp-server) | NetCourier Parcel Tracking | 1.0.0 | MCP server for tracking parcels using the NetCourier tracking service. |
-| 2026-10-02 09:14:01 | [io.github.agtrepo/agtrepo-memory](https://github.com/agtrepo/agtrepo) |  | 0.2.0 | Encrypted, pay-per-use persistent memory storage for AI agents, gated by x402 p… |
-| 2026-10-02 09:16:43 | [io.github.renezander030/agentic-task-system](https://github.com/renezander030/agentic-task-system) | Agentic Task System (ATS) | 0.15.0 | MCP server giving AI agents persistent task memory across TickTick, Notion, Git… |
+| 2026-10-02 09:23:11 | wedding.aisle/aisle | Aisle | 1.0.0 | Find wedding venues and vendors, estimate costs, and manage guests, events and… |
+| 2026-10-02 09:27:40 | [io.github.Devrajsinh-Jhala/npx-vibe](https://github.com/Devrajsinh-Jhala/NPM-Vibe-check) | npx-vibe | 3.0.0 | Read-only npm package and project dependency preflight tools for AI application… |
+| 2026-10-02 09:28:58 | [io.github.Creed-Space/mettle-mcp](https://github.com/Creed-Space/METTLE) |  | 0.5.5 | Experimental reverse CAPTCHA with signed badges and credentials. Not proof of i… |
+| 2026-10-02 09:29:28 | [io.github.YidaYang/embodify](https://github.com/YidaYang/embodify) | Embodify | 0.1.0a2 | Give your agent a body: observe and control simulated robots (LIBERO, RoboDojo)… |
+| 2026-10-02 09:33:02 | [io.github.voygr-tech/placecall](https://github.com/voygr-tech/placecall) | PlaceCall | 1.0.0 | Real phone calls to US businesses: book, ask, get quotes. Returns outcome and t… |
+| 2026-10-02 09:44:26 | [io.github.hpp-io/x402-mcp-bridge](https://github.com/hpp-io/x402-mcp-bridge) | HPP x402 MCP Bridge | 0.1.21 | MCP bridge for autonomous x402 payments in HPP USDC.e — discover and pay for se… |
+| 2026-10-02 09:51:30 | [io.github.freema/mcp-jira-stdio](https://github.com/freema/mcp-jira-stdio) |  | 1.12.1 | MCP server for Jira Cloud — issues, search, comments, attachments, transitions. |
+| 2026-10-02 09:52:35 | [io.github.ModelsLab/modelslab](https://github.com/ModelsLab/modelslab-mcp) | ModelsLab | 1.0.0 | Generate images, video, speech and music, and run LLM chat, across 10,000+ mode… |
+| 2026-10-02 09:52:43 | [io.github.ModelsLab/modelslab-v8](https://github.com/ModelsLab/modelslab-mcp) | ModelsLab v8 | 1.0.0 | ModelsLab v8 generation APIs: discover models, providers and endpoints, then ru… |
+| 2026-10-02 09:52:48 | [io.github.ModelsLab/modelslab-agents](https://github.com/ModelsLab/modelslab-mcp) | ModelsLab Agent Control Plane | 1.0.0 | Account, billing, team, API key and model discovery tools for agents that use M… |
+| 2026-10-02 09:53:13 | bar.alerts/alertsbar | AlertsBar | 0.1.1 | Domain exposures: breaches, infostealers, ULP heap, cookies. Counts and samples… |
+| 2026-10-02 09:56:36 | io.github.samotheos/adliftr-ads | AdLiftr: Meta (Facebook & Instagram), T… | 1.0.0 | Launch campaigns, manage ads and analyze performance across Meta, TikTok, Googl… |
+| 2026-10-02 10:01:56 | com.klengnest/catalogue | klengnest | 1.0.0 | Baby gear to buy, with researched options and prices in euros. Free to read, no… |
+| 2026-10-02 10:03:32 | [io.github.StuMason/polar-flow-server](https://github.com/StuMason/polar-flow-server) | Polar Health Data (self-hosted) | 1.5.2 | Self-hosted Polar health analytics with a built-in MCP server: sleep, HRV, work… |
+| 2026-10-02 10:10:31 | com.wahlu/mcp-server | Wahlu | 0.19.3 | Social media scheduling for you and your AI agent: Instagram, TikTok, YouTube,… |
+| 2026-10-02 10:20:01 | [io.github.premagentic/premagentic](https://github.com/premagentic/premagentic) | PremAgentic | 0.1.0 | On-premises knowledge retrieval, with the rules you set enforced before anythin… |
 
 ## Data source
 

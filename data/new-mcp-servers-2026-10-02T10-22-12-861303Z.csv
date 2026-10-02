@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-10-02T09:23:11.549207Z,wedding.aisle/aisle,Aisle,1.0.0,,streamable-http,"Find wedding venues and vendors, estimate costs, and manage guests, events and wedding details."
+2026-10-02T09:27:40.83296Z,io.github.Devrajsinh-Jhala/npx-vibe,npx-vibe,3.0.0,https://github.com/Devrajsinh-Jhala/NPM-Vibe-check,,Read-only npm package and project dependency preflight tools for AI applications.
+2026-10-02T09:28:58.516834Z,io.github.Creed-Space/mettle-mcp,,0.5.5,https://github.com/Creed-Space/METTLE,,Experimental reverse CAPTCHA with signed badges and credentials. Not proof of identity or substrate.
+2026-10-02T09:29:28.701155Z,io.github.YidaYang/embodify,Embodify,0.1.0a2,https://github.com/YidaYang/embodify,,"Give your agent a body: observe and control simulated robots (LIBERO, RoboDojo) over MCP."
+2026-10-02T09:33:02.404924Z,io.github.voygr-tech/placecall,PlaceCall,1.0.0,https://github.com/voygr-tech/placecall,streamable-http,"Real phone calls to US businesses: book, ask, get quotes. Returns outcome and transcript."
+2026-10-02T09:44:26.534069Z,io.github.hpp-io/x402-mcp-bridge,HPP x402 MCP Bridge,0.1.21,https://github.com/hpp-io/x402-mcp-bridge,,MCP bridge for autonomous x402 payments in HPP USDC.e — discover and pay for services per call.
+2026-10-02T09:51:30.746133Z,io.github.freema/mcp-jira-stdio,,1.12.1,https://github.com/freema/mcp-jira-stdio,,"MCP server for Jira Cloud — issues, search, comments, attachments, transitions."
+2026-10-02T09:52:35.726007Z,io.github.ModelsLab/modelslab,ModelsLab,1.0.0,https://github.com/ModelsLab/modelslab-mcp,streamable-http,"Generate images, video, speech and music, and run LLM chat, across 10,000+ models on ModelsLab."
+2026-10-02T09:52:43.171127Z,io.github.ModelsLab/modelslab-v8,ModelsLab v8,1.0.0,https://github.com/ModelsLab/modelslab-mcp,streamable-http,"ModelsLab v8 generation APIs: discover models, providers and endpoints, then run them."
+2026-10-02T09:52:48.135182Z,io.github.ModelsLab/modelslab-agents,ModelsLab Agent Control Plane,1.0.0,https://github.com/ModelsLab/modelslab-mcp,streamable-http,"Account, billing, team, API key and model discovery tools for agents that use ModelsLab."
+2026-10-02T09:53:13.289119Z,bar.alerts/alertsbar,AlertsBar,0.1.1,,streamable-http,"Domain exposures: breaches, infostealers, ULP heap, cookies. Counts and samples, free."
+2026-10-02T09:56:36.912206Z,io.github.samotheos/adliftr-ads,"AdLiftr: Meta (Facebook & Instagram), TikTok, Google Ads & Snapchat",1.0.0,,streamable-http,"Launch campaigns, manage ads and analyze performance across Meta, TikTok, Google Ads and Snapchat."
+2026-10-02T10:01:56.202381Z,com.klengnest/catalogue,klengnest,1.0.0,,streamable-http,"Baby gear to buy, with researched options and prices in euros. Free to read, no account."
+2026-10-02T10:03:32.064713Z,io.github.StuMason/polar-flow-server,Polar Health Data (self-hosted),1.5.2,https://github.com/StuMason/polar-flow-server,,"Self-hosted Polar health analytics with a built-in MCP server: sleep, HRV, workouts, baselines."
+2026-10-02T10:10:31.768295Z,com.wahlu/mcp-server,Wahlu,0.19.3,,streamable-http,"Social media scheduling for you and your AI agent: Instagram, TikTok, YouTube, Facebook, LinkedIn."
+2026-10-02T10:20:01.441782Z,io.github.premagentic/premagentic,PremAgentic,0.1.0,https://github.com/premagentic/premagentic,,"On-premises knowledge retrieval, with the rules you set enforced before anything is retrieved."
