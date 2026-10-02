@@ -1,0 +1,13 @@
+created_at,server,title,version,repository,transports,description
+2026-10-02T04:30:47.491465Z,fr.juan-branco/branco,BRANCO - Droit français,0.56.0,,streamable-http,"Droit français : textes, jurisprudence, citations et calculs. Connexion OAuth au compte BRANCO."
+2026-10-02T04:33:27.540205Z,io.github.jlivingston-Cipher/iamf-sentinel-mcp,IAMF Sentinel,0.2.3,https://github.com/jlivingston-Cipher/iamf-sentinel-mcp,,MCP server for the iamf-sentinel IAMF conformance validator and the iamf-loom packager
+2026-10-02T04:37:58.234565Z,io.github.IgniteUI/mcp-server,Ignite UI MCP Server,15.8.1,https://github.com/IgniteUI/igniteui-cli,,"Unified MCP server for Ignite UI — documentation, API, and CLI scaffolding"
+2026-10-02T04:38:40.691488Z,com.designbycurio/curio,Curio — design style library,0.3.0,https://github.com/designbycurio/curio-mcp-extension,streamable-http,"A design-style library for AI agents: search real styles, fetch a ready-to-apply design spec."
+2026-10-02T04:41:19.224014Z,live.sendnow/sendnow,SendNow,1.0.0,,streamable-http,"Share documents as secure, trackable links, build data rooms, and see who viewed what."
+2026-10-02T04:45:36.337666Z,io.github.brajendrak00068/levea-mcp-server,,0.5.2,https://github.com/brajendrak00068/agentic-ai-video-production,,"Autonomous AI video editor over MCP: viral clips, captions, reframe, chroma key, MP4 export"
+2026-10-02T04:52:31.409742Z,io.github.02inf/opencomment-ai,OpenComment AI,1.0.0,,streamable-http,"Research saved LinkedIn contacts, review monitored activity, and prepare engagement campaigns."
+2026-10-02T04:54:22.042156Z,io.github.tsukiryuu/blinka-machine-mouths,Blinka Machine Mouths,0.1.0,https://github.com/tsukiryuu/blinka-nest,streamable-http,Paid text-to-schema extraction and failed-agent-workflow recovery over MCP.
+2026-10-02T04:56:04.228028Z,com.synapticrelay/freelance-board,SynapticRelay freelance board,1.0.0,,streamable-http; streamable-http,"Hire freelancers or post a job: no-commission freelance board for people and AI agents, 6 languages."
+2026-10-02T05:00:12.713333Z,io.github.drxinfra/rxmcp,Directum RX,0.5.1,https://github.com/drxinfra/rxmcp,,"Directum RX for AI assistants: assignments, documents, boards, projects, any entity, system help"
+2026-10-02T05:01:36.110262Z,com.verysimplenotes/mcp,Very Simple Notes,1.1.0,,streamable-http,"Markdown notes in folders, with files, that your AI assistant can read, write and organise."
+2026-10-02T05:05:07.885245Z,io.github.mo9652962-ai/circuit-agent-client,CircuitAgent,0.1.4,,,AI 硬件合成社区版：CircuitBlocks DSL · 立创实时选型 · 网表契约 · stdio MCP server
