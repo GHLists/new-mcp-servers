@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-10-02T15:25:20.565544Z,com.spocont/reservoprix,,1.0.0,,streamable-http,"Sell to the best offer: a sealed-offer link and button for any listing, with a hidden reserve price."
+2026-10-02T15:29:10.607154Z,io.github.symbo-ls/symbols-mcp,Symbols MCP,3.14.769,https://github.com/symbo-ls/symbols-mcp,,"Symbols.app MCP — docs, code generation, publishing, CLI/SDK reference"
+2026-10-02T15:40:03.771605Z,io.github.everyai-com/sheet-shift,SheetShift,1.0.0,https://github.com/everyai-com/sahadeva,streamable-http,"Convert and clean tables: CSV, JSON, dedupe, stats. Free."
+2026-10-02T15:40:10.513456Z,com.deployedbyai/the-deploy-log,The Deploy Log,1.0.0,,streamable-http,"AI deployments that shipped and are available now, each sourced to the publisher's own page."
+2026-10-02T15:41:46.496206Z,io.github.WYRE-AI/halopsa-mcp,HaloPSA,1.7.16,https://github.com/WYRE-AI/halopsa-mcp,,"MCP server for HaloPSA — clients, tickets, and PSA workflows via the HaloPSA REST API."
+2026-10-02T15:41:59.828117Z,com.tengence/geo,Tengence GEO Agent,0.1.2,https://github.com/tengence-team/tengence-geo-agent,,"GEO/SEO content pipeline MCP: plan, write, gate-check, publish, submit, monitor AI visibility."
+2026-10-02T15:44:56.974677Z,io.github.lazyants/hetzner,,3.0.0,https://github.com/lazyants/hetzner-mcp-server,,"MCP server for the Hetzner Cloud API — servers, networks, volumes, firewalls, and more."
+2026-10-02T15:46:42.676813Z,io.github.ChiR24/unreal-engine-mcp,,0.6.0-beta-c,https://github.com/ChiR24/Unreal_mcp.git,,"Automate the Unreal Editor (UE 5.0-5.8): levels, Blueprints, UI, materials, VFX and more."
+2026-10-02T15:46:54.835174Z,io.github.tracetify/tracetify-mcp,,0.6.0,https://github.com/tracetify/tracetify-mcp,streamable-http,"Find competitors, trace how they grew, watch what they ship — plus your Search Console."
+2026-10-02T15:51:58.118069Z,com.insumermodel/insumer,,1.14.1,https://github.com/insumerapi/mcp-server-insumer,,Read-first blockchain verification. ECDSA-signed booleans across 37 chains. 27 tools.
+2026-10-02T15:54:51.252251Z,com.wenmarpro/wenmar-open,Wenmar Open,0.1.0,,streamable-http,"Free VIN decoder and vehicle catalog from NHTSA vPIC data. Read-only, no key."
+2026-10-02T15:54:56.492099Z,com.onepagecrm/mcp,OnePageCRM,1.1.0,,streamable-http,"Create, search, update, and manage data in OnePageCRM."
+2026-10-02T15:58:53.797013Z,net.llm-broker/broker,LLM Broker,1.0.0,,streamable-http,"One key, every model: measured scores and live prices, routed per request to the cheapest fit."
+2026-10-02T16:01:26.386982Z,io.github.BargLabs/cejel,Cejel,0.5.0,https://github.com/BargLabs/cejel,,"Offline deterministic engineering-trust certificates for repositories, with no telemetry."
+2026-10-02T16:01:43.770104Z,com.isoligne/index,,0.2.2,,streamable-http,"Ce qu'une IA lit des sites web français : note, axes, secteur, questions sans réponse."
+2026-10-02T16:01:48.058302Z,io.github.babakovn/beacon-commons,BEACON Commons,1.0.0,https://github.com/babakovn/beacon-agent-clients,streamable-http,"Discover tasks and reproducible results. Public reading; invited, host-approved contributions."
+2026-10-02T16:02:08.749187Z,de.kessen-maschinenbau/machines,Kessen Maschinenbau,1.0.0,,streamable-http,"Food industry machines from Kessen Maschinenbau: search catalogue, read pages, send inquiries."
+2026-10-02T16:02:19.666649Z,lt.gov.dataportal.guides/docs,Lithuanian Data Portal documentation,1.1.0,,streamable-http,"Search and read the Lithuanian Data Portal user guide and Data API docs, in Lithuanian and English"
+2026-10-02T16:03:09.563873Z,io.github.greencore-solutions/a2a-grocery,A2A Grocery — the agentic hub for retail grocery procurement,1.0.0,https://github.com/greencore-solutions/a2a-grocery,streamable-http,A2A + MCP hub for retail grocery procurement — 20 markets on the SCHEMA algo record. Trade only.
+2026-10-02T16:03:43.203765Z,io.github.jermayne36/heartwood-memory,Heartwood Memory — governed memory for AI agents,0.2.8,https://github.com/jermayne36/heartwood-memory,,Heartwood Memory — governed AI agent memory; signed provenance. BUSL-1.1; not OSI open source.
+2026-10-02T16:03:48.834515Z,com.unflagdomain/website-blacklist-removal,unflagdomain: website blacklist removal,1.0.0,,streamable-http,"Website flagged by security vendors? Free scan, then we send the removal requests for you (paid)."
+2026-10-02T16:04:20.251964Z,io.github.Furox-Art/axiomize,Axiomize,1.12.4,https://github.com/Furox-Art/axiomize,,"Versioned scientific models with units and SBML, CellML, Modelica export."
+2026-10-02T16:11:00.576046Z,io.github.ComplyEaze/bridge-tally,ComplyEaze Bridge,0.4.1,https://github.com/ComplyEaze/bridge,,"Reads TallyPrime for your AI assistant; posts only vouchers you approve. Windows, Apple Silicon Mac."
+2026-10-02T16:11:22.393258Z,com.formbuilder/formbuilder,FormBuilder,1.1.0,,streamable-http,"Build, preview, edit, publish and analyze forms and surveys; read responses and manage webhooks."
+2026-10-02T16:12:42.418592Z,io.github.vectros-ai/mcp-server,,0.18.0,https://github.com/vectros-ai/vectros-mcp-server,,"Typed record store + hybrid search over MCP: deterministic lookups + semantic memory, per-customer."
+2026-10-02T16:20:08.921837Z,run.imho/games,imho.run game recommendations,1.0.0,,streamable-http,"Steam games like any game you name, facts about a game, and finding a game from a description."
