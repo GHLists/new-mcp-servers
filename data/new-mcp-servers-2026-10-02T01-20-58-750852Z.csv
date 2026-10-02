@@ -1,0 +1,12 @@
+created_at,server,title,version,repository,transports,description
+2026-10-02T00:25:16.806514Z,io.github.noticedso/cli,,0.4.0,https://github.com/noticedso/cli,,Use the canonical noticed direct-tool MCP from stdio-only clients.
+2026-10-02T00:26:59.589557Z,com.drapecut/drapecut,DrapeCut,0.2.0,,streamable-http,Simulate composite fabric draping on CAD surfaces; compare fibre angles and export DXF/PDF patterns.
+2026-10-02T00:27:54.688526Z,me.triphook/triphook,TripHook,1.0.0,,streamable-http,"Find group trips and day outs to join, events in a city, and where to go by weather and budget."
+2026-10-02T00:36:15.528595Z,tech.strategicflow/mcp,Strategic Flow MCP,1.0.0,,streamable-http,"Audit B2B SaaS lifecycle emails with the 7-point Decision Friction Model: score, patterns, fixes."
+2026-10-02T00:49:20.176117Z,com.graphmake/graphmake,GraphMake,1.1.0,,streamable-http,"Turn data into infographics (PNG/SVG): 90+ templates, or KPI cards, charts, timelines and maps."
+2026-10-02T00:54:22.288005Z,tennis.courts/nyc-tennis-courts,,2.0.0,,streamable-http,"Where to play tennis in New York, Melbourne, London and Paris: walk on, book or join. Sourced."
+2026-10-02T00:59:10.508125Z,io.github.ssap-pa/feedback-memory,feedback-memory,0.2.0,https://github.com/ssap-pa/self-learning-agent-setup,,"Remembers why you approved, edited or rejected your agent's drafts; recalls the closest corrections"
+2026-10-02T01:11:41.991794Z,io.github.PhilipAD/health-export-mcp,,1.4.4,https://github.com/PhilipAD/health-export-mcp,,"Query 190 Apple Health metrics from any MCP agent: zero-dependency, read-only, local-first."
+2026-10-02T01:12:19.033732Z,io.github.paradoxsyn/rivemcp,Polymation,1.15.0,https://github.com/paradoxsyn/rivemcp-releases,,"Author Rive (.riv/.rev) and convert Lottie, After Effects, Figma and Spline into it, offline."
+2026-10-02T01:13:21.456567Z,com.jobyap/jobs,JobYap Job Search,1.1.0,https://github.com/jobyap/agent-skills,streamable-http,"Search job postings aggregated from companies' careers sites, plus each job's discussion thread."
+2026-10-02T01:19:24.496091Z,dev.servonaut/servonaut,Servonaut,2.28.0,https://github.com/zb-ss/servonaut,,"Manage AWS, Hetzner, OVH and SSH servers: status, logs, CloudWatch, IP bans, safe command exec."
