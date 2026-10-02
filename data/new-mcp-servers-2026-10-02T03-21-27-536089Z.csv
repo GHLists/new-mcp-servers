@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-10-02T02:21:49.925504Z,io.github.seotrader/speedcontent-social,SpeedContent Social,0.1.0,https://github.com/seotrader/speedcontent-social-mcp,streamable-http,"Generate platform-native social posts that are humanized, AI-detection scored and illustrated."
+2026-10-02T02:23:22.017971Z,org.pumppill/token-safety,PumpPill — token safety and measured outcomes,1.2.2,https://github.com/JackedBased/pumppill-mcp,streamable-http,Token safety and outcomes on Robinhood Chain and Solana; member tools pay-per-call in USDC via x402
+2026-10-02T02:25:28.893349Z,gg.subo/subo,Subo,1.0.0,https://github.com/subo-gg/subo-mcp,streamable-http,"Run Discord forms, surveys, polls and quizzes from your AI app: build, launch and analyze projects."
+2026-10-02T02:29:58.819029Z,io.github.HorizunGroup/naviscoord-mcp,NavisCoord,1.1.1,https://github.com/HorizunGroup/naviscoord-mcp,,"Autodesk Navisworks coordination: clash triage, root causes, work plans and reports"
+2026-10-02T02:34:16.49193Z,ai.careercorner/careercorner,CareerCorner,1.0.0,,streamable-http,"Your personal career coach. Scanning jobs for you, daily."
+2026-10-02T02:37:49.798976Z,com.surfacingapp/feelings,Surfacing Feelings,1.0.1,,streamable-http,Helps people name what they feel: 796 feeling words and a body map of 243 sensations.
+2026-10-02T02:45:11.64422Z,io.github.JeanExtreme002/PyMemoryEditor,PyMemoryEditor,3.0.2,https://github.com/JeanExtreme002/PyMemoryEditor,,"Read, write and scan process memory, Cheat Engine style, on Windows, Linux and macOS."
+2026-10-02T02:45:57.677047Z,io.github.scraping-api-plans/web-data-plan-finder,Web Data API Plan Finder,0.1.0,,streamable-http,"Compare web scraping, crawling and SERP API pricing and limits against your workload and budget"
+2026-10-02T02:46:30.109853Z,app.epubtranslator/epub-translator,EPUB Translator,1.0.0,,streamable-http,"Translate whole EPUB books into 16 languages with layout intact. Upload, quote, translate, download."
+2026-10-02T02:48:28.407762Z,ai.orchis/nimrod,Nimrod,2.0.0,https://github.com/mixelpixx/Nimrod,streamable-http,Web search with quality scores; web pages are read on your computer by the local server.
+2026-10-02T02:49:09.132049Z,io.github.sheetrender/sheetrender-mcp,,0.5.0,https://github.com/sheetrender/sheetrender-mcp,streamable-http,"Render PDFs from templates and spreadsheet data via SheetRender, locally or at mcp.sheetrender.com"
+2026-10-02T02:51:25.861535Z,io.github.AndyLiu0427/msglens,MsgLens,0.2.1,https://github.com/AndyLiu0427/msglens,,"Read Outlook .msg, .eml and winmail.dat files locally: headers, body and attachments."
+2026-10-02T02:55:30.468681Z,io.github.fantasyce/agent-recall-trail,Agent Recall Trail,0.3.7,https://github.com/fantasyce/agent-recall-trail,,Private Agent memory and governed shared knowledge.
+2026-10-02T02:58:43.472903Z,io.github.f-tiger/jev-decision-gate,Jev Decision Gate by BPJ,0.3.0,https://github.com/f-tiger/jev-decision-gate,,Local Issue triage with optional Jev judgments and calibrated acceptance gates.
+2026-10-02T03:01:23.583792Z,ae.grovisor/grotax,groTAX by Grovisor,1.2.0,,streamable-http,"UAE Corporate Tax: CT computation, SBR, penalties, free zone test, TP and health-check."
+2026-10-02T03:02:06.333563Z,io.github.Instant-Expert/instant-expert,Instant Expert,3.0.0,https://github.com/Instant-Expert/instant-expert-plugins,streamable-http,"Find specific execs, operators and experts and invite them to paid calls. Pay only when they book."
+2026-10-02T03:12:15.286317Z,com.jiyumarketing.mcp/agency-mcp,Agency MCP,1.1.0,https://github.com/harrisonjdahl3/agency-mcp-plugin,streamable-http,"Run agency client work from Claude: Google Ads, GA4, Search Console, GBP, Meta, WordPress, CRM."
+2026-10-02T03:14:28.001566Z,store.slopapp/slopstore,Slop Store,1.0.0,,streamable-http,Publish and find apps made with AI. Agents publish free; every app gets an AI safety check.
+2026-10-02T03:15:13.22606Z,app.tomebound/tomebound,Tomebound,1.0.0,,streamable-http,"Organize and track your Magic: The Gathering collection, decks, prices and imports."
+2026-10-02T03:17:29.360296Z,io.github.bryantclark/cougarmap,CougarMap,0.1.0,https://github.com/bryantclark/cougarmap,,"Find trail-camera spots for mountain lions from free public map data, ranked and explained."
