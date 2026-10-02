@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-10-02T11:26:23.385323Z,io.github.pmndrs/docs,pmndrs docs,4.11.0,https://github.com/pmndrs/docs,streamable-http,"Search and read the docs and examples of react-three-fiber, drei, zustand, jotai... from your agent"
+2026-10-02T11:27:02.933895Z,com.voicemoat/voicemoat,VoiceMoat,1.0.0,,streamable-http,"The personal brand OS for Twitter/X and LinkedIn: score, improve, schedule and publish posts."
+2026-10-02T11:28:24.810489Z,ai.dinglebear/labby,Labby,2.5.0,https://github.com/dinglebear-ai/labby,,"Rust MCP gateway with Code Mode, authentication, setup, logs, CLI, HTTP API, and operator web UI."
+2026-10-02T11:28:26.500085Z,org.dpdns.clair/clair,Clair,1.0.0,,streamable-http,"Audits AI-built websites for France and Belgium: cookies, GDPR, legal pages, exposed keys, security."
+2026-10-02T11:33:30.762904Z,io.github.e2xlabs/stablecoinx-mcp,StablecoinX,0.1.11,https://github.com/e2xlabs/stablecoinx-mcp,,"Drive a StablecoinX business account — auth, API keys, sessions, paymaster policy, webhooks."
+2026-10-02T11:35:15.722627Z,ch.soljo/solar,Soljo Solar (Switzerland),0.2.0,,streamable-http,"Independent rooftop solar first estimate for Switzerland: yield, median cost, subsidy, with sources"
+2026-10-02T11:37:28.135155Z,io.github.nagameTW/mcp-server-malcolm,,1.2.0,https://github.com/nagameTW/mcp-server-malcolm,,MCP server for Malcolm (Zeek/Suricata/Arkime/OpenSearch): threat-hunting access for AI agents
+2026-10-02T11:42:41.066144Z,io.github.arc-mcp/arc-1,ARC-1,1.5.0,https://github.com/arc-mcp/arc-1.git,,MCP server for SAP ABAP systems
+2026-10-02T11:43:21.956351Z,io.github.catherine-development/ives-yim,Catherine Ives-Yim: writing and assessments,1.0.0,,streamable-http,"Read-only search of Catherine Ives-Yim's writing on AI, IoT and the CRA, and scoring of four checks."
+2026-10-02T11:48:22.804575Z,one.easyrider/agent-board,,0.1.0,,streamable-http,"Classifieds board for AI agents: free search and publishing, x402-paid full listings"
+2026-10-02T11:49:27.548759Z,com.projectpaced/timeline,Project Paced,2.0.0,https://github.com/suleman-k/Project-Paced-v2,streamable-http,"Plan, preview and edit timelines. Permanent Free tier; paid reporting and enterprise tools."
+2026-10-02T11:51:57.748442Z,io.github.GemachDAO/gdex-mcp-server,GDEX Trading,4.11.1,https://github.com/GemachDAO/gdex-skill,,"GDEX (gdex.pro) trading for AI agents: spot, perps and HyperLiquid on Solana, EVM and more chains"
+2026-10-02T11:52:56.627063Z,io.github.Riposte82/agentworld-discovery,AgentWorld Discovery,0.1.0,https://github.com/Riposte82/agentworld,streamable-http,"Read-only discovery for AgentWorld WORLD, A2A onboarding and the separate MARKET service economy."
+2026-10-02T11:54:15.293705Z,io.github.yutotanakastar/linkbit-mcp,LinkBit,1.0.2,https://github.com/yutotanakastar/linkbit-mcp,,"Shorten URLs, bulk create, QR, and click analytics for LinkBit."
+2026-10-02T11:55:07.268619Z,io.github.amanharshx/ultralytics-mcp,Ultralytics Platform MCP,0.1.14,https://github.com/amanharshx/ultralytics-mcp,,"MCP server for Ultralytics Platform projects, datasets, training, prediction, exports, and models."
+2026-10-02T11:56:38.304795Z,com.livereacting/livereacting,LiveReacting,1.2.0,https://github.com/LiveReacting/livereacting-mcp,streamable-http,"Run a 24/7 live stream of pre-recorded videos, or live stream a recorded video at a set time."
+2026-10-02T11:58:52.176178Z,io.github.CodesWhat/portkey-admin-mcp,,0.12.1,https://github.com/CodesWhat/portkey-admin-mcp,,Portkey Admin API control-plane MCP server with Prisma AIRS interoperability guidance.
+2026-10-02T12:02:30.836203Z,com.appwizzy/projects,AppWizzy Projects,0.2.0,,streamable-http,Create and monitor AppWizzy app environments from GitHub or ZIP with AI agents.
+2026-10-02T12:06:17.390586Z,io.github.beeswaxpat/morphogen,,0.2.0,https://github.com/beeswaxpat/morphogen-mcp,,"Read and sign the guestbook of Morphogen II, a living reaction-diffusion field with open questions."
+2026-10-02T12:08:59.252567Z,io.github.iwe-org/iwe,IWE,0.25.0,https://github.com/iwe-org/iwe,,Markdown knowledge base as agent memory. Runs against the notes directory it is started in.
+2026-10-02T12:12:38.887111Z,media.thecoop/the-coop,THE COOP,0.1.0,,streamable-http,"Search THE COOP's published iGaming articles, supplier profiles and events with source links."
+2026-10-02T12:14:33.53614Z,com.clearmakes/agents,ClearMakes Agents,1.0.0,,streamable-http,"Search one ClearMakes agent's knowledge: your documents, website pages and Drive files."

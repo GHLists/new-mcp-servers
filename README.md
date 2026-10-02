@@ -9,47 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 11:22 UTC
+## Latest list — 2026-10-02 12:19 UTC
 
-New MCP servers published between 2026-10-02 10:22 UTC and 2026-10-02 11:22 UTC.
+New MCP servers published between 2026-10-02 11:22 UTC and 2026-10-02 12:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-02T11-22-20-343303Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-02T12-19-09-768621Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-02 10:23:41 | [io.github.bartosz-kuc/skanfirmy](https://github.com/bartosz-kuc/skanfirmy-mcp) | skanfirmy.pl | 1.4.0 | Verify Polish companies by NIP/KRS/REGON + EU VAT (VIES). 14 MCP tools (9 no-ke… |
-| 2026-10-02 10:24:29 | app.botgigs/mcp | BotGigs | 0.1.0 | Agents post real-world gigs. Humans do them and get paid from non-custodial BNB… |
-| 2026-10-02 10:28:24 | [io.github.lyf-wxy/spomory](https://github.com/yliuai/spomory) |  | 0.3.0 | Explainable graph-retrieval memory engine with an RL-trained management policy. |
-| 2026-10-02 10:28:42 | [io.github.aahlijia/dekko](https://github.com/aahlijia/dekko) |  | 1.6.0 | Static code map generator: MAP.md + map.json for any repo, plus a Claude Code /… |
-| 2026-10-02 10:30:38 | [io.github.Airtreks/airtreks-mcp](https://github.com/Airtreks/airtreks-mcp) | AirTreks MCP | 1.2.4 | Multi-city flight routing intelligence — plan RTW trips, validate alliances, ge… |
-| 2026-10-02 10:33:49 | com.riverscript/mcp-v2 | RiverScript MCP v2 | 1.0.0 | Bring your RiverScript transcripts of meetings, calls and interviews to any AI… |
-| 2026-10-02 10:34:35 | [io.github.Fizzl13/presign-guard-wallet](https://github.com/Fizzl13/x402-examples) | presign-guard wallet | 0.1.0 | A wallet with spending limits for agents: pay x402 APIs, send USDC, phone appro… |
-| 2026-10-02 10:34:44 | com.ai-agents-pitstop/pitstop | AI Agents Pitstop | 5.0.0 | Human approvals, autonomy limits and a chained audit log for the AI agents of s… |
-| 2026-10-02 10:35:30 | xyz.cabalspy/wallet-tracker |  | 2.1.0 | KOL and smart money wallet tracking on 5 chains: live trades, PnL, signals, Jit… |
-| 2026-10-02 10:43:07 | com.hardlinephone/mcp | Hardline Phone | 1.0.0 | Dedicated remote-access US-based Android phones with a real US number. Pay cryp… |
-| 2026-10-02 10:52:36 | com.citizenleap/civica | Civica citizenship test prep | 0.1.0 | Read-only citizenship test facts, official sources and sample questions for 8 c… |
-| 2026-10-02 10:52:53 | io.github.TAMA-FIT/agent-commerce-readiness | Agent Commerce Readiness | 0.3.0 | Read-only agent-commerce audit, upgrade verification, diagnosis and x402 probin… |
-| 2026-10-02 10:53:23 | [io.github.mnemox-ai/tradememory-protocol](https://github.com/mnemox-ai/tradememory-protocol) |  | 0.5.6 | Tamper-evident decision audit trail and outcome-weighted memory for AI trading… |
-| 2026-10-02 10:55:07 | com.esimoa/esim | esimoa — travel eSIM comparison | 1.0.0 | Compare travel eSIM plans by country, days and data — live prices and links to… |
-| 2026-10-02 10:56:21 | [io.equation/equation](https://github.com/aantthony/equation.io) | Equation.io | 1.0.1 | Create interactive 2D and 3D graphs with validated equations, shareable links,… |
-| 2026-10-02 10:59:33 | [com.contenta-software/contenta-converter](https://github.com/contentasoftware/mcp-launcher) | Contenta Converter | 1.0.0 | Batch-convert, resize and edit images on your Windows PC: 100+ formats, PDF alb… |
-| 2026-10-02 10:59:36 | [com.contenta-software/videorecompress](https://github.com/contentasoftware/mcp-launcher) | VideoRecompress Studio | 1.0.0 | Shrink video files on your Windows PC with H.265/AV1 and GPU encoding, a whole… |
-| 2026-10-02 10:59:38 | [com.contenta-software/ai-video-enhancer](https://github.com/contentasoftware/mcp-launcher) | AI Video Enhancer Studio | 1.0.0 | Upscale, stabilize, denoise and raise the frame rate of videos locally on your… |
-| 2026-10-02 10:59:42 | [com.contenta-software/cad-converter](https://github.com/contentasoftware/mcp-launcher) | 3D CAD Converter | 1.0.0 | Convert STEP, IGES, STL, OBJ, FBX, glTF and 3MF files on your Windows PC, one f… |
-| 2026-10-02 11:00:10 | com.fluidvip/fluidtalk | FluidTalk | 1.0.0 | Create AI Characters and generate their DM and comment replies from any MCP cli… |
-| 2026-10-02 11:01:48 | [io.github.theodor90/form4api-mcp](https://github.com/theodor90/form4api-mcp) | Form4API — SEC Insider Trading | 1.15.1 | Real-time SEC Form 4, Form 144, 13F-HR & congressional STOCK Act insider data.… |
-| 2026-10-02 11:03:43 | io.github.amply-tools/amply | Amply | 0.24.0 | Create, target and launch in-app campaigns for mobile apps, read stats, manage… |
-| 2026-10-02 11:05:59 | pl.noclegowo/noclegowo | Noclegowo | 1.2.1 | Accommodation search in Poland on noclegowo.pl: offers, availability and whole-… |
-| 2026-10-02 11:07:20 | io.github.julian-martin89/url-oracle | url-oracle — URL Trust Oracle | 1.0.0 | Flags phantom-squatted/typosquatted domains and known-malicious URLs before an… |
-| 2026-10-02 11:09:01 | com.firmadb/company-data | FirmaDB — European Company Data | 0.1.0 | Find European company records with registry source and freshness information. |
-| 2026-10-02 11:10:52 | [io.github.PhilflowIO/dav-mcp](https://github.com/PhilflowIO/dav-mcp) |  | 4.1.0 | AI-orchestrated calendars, contacts & tasks across any DAV platform. 27 tools,… |
-| 2026-10-02 11:11:27 | [io.github.houtini-ai/google-knowledge-graph](https://github.com/houtini-ai/google-knowledge-graph-mcp) |  | 1.0.8 | Search Google's Knowledge Graph for structured information about real-world ent… |
-| 2026-10-02 11:12:13 | com.draftboard/mcp | Draftboard | 1.0.0 | Warm intros to any target via your own network: who can introduce you, and how… |
-| 2026-10-02 11:14:09 | tools.amply/amply | Amply | 0.24.0 | Create, target and launch in-app campaigns for mobile apps, read stats, manage… |
-| 2026-10-02 11:17:06 | [io.github.WYRE-AI/uisp-mcp](https://github.com/WYRE-AI/uisp-mcp) | UISP | 1.0.0 | MCP server for Ubiquiti UISP's REST API - network/ISP infrastructure monitoring… |
-| 2026-10-02 11:17:28 | [io.github.dappros/ethora-mcp-server](https://github.com/dappros/ethora-mcp-server) |  | 26.10.0 | Ethora chat platform MCP: apps, users, rooms, AI agents, chat widgets. Hosted o… |
-| 2026-10-02 11:19:11 | com.weight-forecast/weight-forecast | Weight Forecast | 1.0.0 | Weight Forecast: a free web app that projects your goal-weight date from your w… |
-| 2026-10-02 11:22:02 | [io.github.MGrin/household-recall-watch](https://github.com/MGrin/recall-radar-mcp) | Household Recall Watch | 0.1.0 | Household recall checks over public CPSC, openFDA and EMA data, with a watchlis… |
+| 2026-10-02 11:26:23 | [io.github.pmndrs/docs](https://github.com/pmndrs/docs) | pmndrs docs | 4.11.0 | Search and read the docs and examples of react-three-fiber, drei, zustand, jota… |
+| 2026-10-02 11:27:02 | com.voicemoat/voicemoat | VoiceMoat | 1.0.0 | The personal brand OS for Twitter/X and LinkedIn: score, improve, schedule and… |
+| 2026-10-02 11:28:24 | [ai.dinglebear/labby](https://github.com/dinglebear-ai/labby) | Labby | 2.5.0 | Rust MCP gateway with Code Mode, authentication, setup, logs, CLI, HTTP API, an… |
+| 2026-10-02 11:28:26 | org.dpdns.clair/clair | Clair | 1.0.0 | Audits AI-built websites for France and Belgium: cookies, GDPR, legal pages, ex… |
+| 2026-10-02 11:33:30 | [io.github.e2xlabs/stablecoinx-mcp](https://github.com/e2xlabs/stablecoinx-mcp) | StablecoinX | 0.1.11 | Drive a StablecoinX business account — auth, API keys, sessions, paymaster poli… |
+| 2026-10-02 11:35:15 | ch.soljo/solar | Soljo Solar (Switzerland) | 0.2.0 | Independent rooftop solar first estimate for Switzerland: yield, median cost, s… |
+| 2026-10-02 11:37:28 | [io.github.nagameTW/mcp-server-malcolm](https://github.com/nagameTW/mcp-server-malcolm) |  | 1.2.0 | MCP server for Malcolm (Zeek/Suricata/Arkime/OpenSearch): threat-hunting access… |
+| 2026-10-02 11:42:41 | [io.github.arc-mcp/arc-1](https://github.com/arc-mcp/arc-1.git) | ARC-1 | 1.5.0 | MCP server for SAP ABAP systems |
+| 2026-10-02 11:43:21 | io.github.catherine-development/ives-yim | Catherine Ives-Yim: writing and assessm… | 1.0.0 | Read-only search of Catherine Ives-Yim's writing on AI, IoT and the CRA, and sc… |
+| 2026-10-02 11:48:22 | one.easyrider/agent-board |  | 0.1.0 | Classifieds board for AI agents: free search and publishing, x402-paid full lis… |
+| 2026-10-02 11:49:27 | [com.projectpaced/timeline](https://github.com/suleman-k/Project-Paced-v2) | Project Paced | 2.0.0 | Plan, preview and edit timelines. Permanent Free tier; paid reporting and enter… |
+| 2026-10-02 11:51:57 | [io.github.GemachDAO/gdex-mcp-server](https://github.com/GemachDAO/gdex-skill) | GDEX Trading | 4.11.1 | GDEX (gdex.pro) trading for AI agents: spot, perps and HyperLiquid on Solana, E… |
+| 2026-10-02 11:52:56 | [io.github.Riposte82/agentworld-discovery](https://github.com/Riposte82/agentworld) | AgentWorld Discovery | 0.1.0 | Read-only discovery for AgentWorld WORLD, A2A onboarding and the separate MARKE… |
+| 2026-10-02 11:54:15 | [io.github.yutotanakastar/linkbit-mcp](https://github.com/yutotanakastar/linkbit-mcp) | LinkBit | 1.0.2 | Shorten URLs, bulk create, QR, and click analytics for LinkBit. |
+| 2026-10-02 11:55:07 | [io.github.amanharshx/ultralytics-mcp](https://github.com/amanharshx/ultralytics-mcp) | Ultralytics Platform MCP | 0.1.14 | MCP server for Ultralytics Platform projects, datasets, training, prediction, e… |
+| 2026-10-02 11:56:38 | [com.livereacting/livereacting](https://github.com/LiveReacting/livereacting-mcp) | LiveReacting | 1.2.0 | Run a 24/7 live stream of pre-recorded videos, or live stream a recorded video… |
+| 2026-10-02 11:58:52 | [io.github.CodesWhat/portkey-admin-mcp](https://github.com/CodesWhat/portkey-admin-mcp) |  | 0.12.1 | Portkey Admin API control-plane MCP server with Prisma AIRS interoperability gu… |
+| 2026-10-02 12:02:30 | com.appwizzy/projects | AppWizzy Projects | 0.2.0 | Create and monitor AppWizzy app environments from GitHub or ZIP with AI agents. |
+| 2026-10-02 12:06:17 | [io.github.beeswaxpat/morphogen](https://github.com/beeswaxpat/morphogen-mcp) |  | 0.2.0 | Read and sign the guestbook of Morphogen II, a living reaction-diffusion field… |
+| 2026-10-02 12:08:59 | [io.github.iwe-org/iwe](https://github.com/iwe-org/iwe) | IWE | 0.25.0 | Markdown knowledge base as agent memory. Runs against the notes directory it is… |
+| 2026-10-02 12:12:38 | media.thecoop/the-coop | THE COOP | 0.1.0 | Search THE COOP's published iGaming articles, supplier profiles and events with… |
+| 2026-10-02 12:14:33 | com.clearmakes/agents | ClearMakes Agents | 1.0.0 | Search one ClearMakes agent's knowledge: your documents, website pages and Driv… |
 
 ## Data source
 
