@@ -1,0 +1,12 @@
+created_at,server,title,version,repository,transports,description
+2026-10-02T07:30:16.146401Z,com.altmetric.mcp/altmetric-mcp,,1.2.3,https://github.com/altmetric/altmetric-mcp,streamable-http,"MCP server for Altmetric APIs - track research attention across news, policy, social media, and more"
+2026-10-02T07:35:47.96655Z,io.github.albemarlestudio/clayre,,1.0.0,https://github.com/albemarlestudio/clayre-skills,streamable-http,"Brand strategy and content-calendar context for agents, with human-confirmed approval gates."
+2026-10-02T07:41:28.931314Z,ai.infrabase/directory,Infrabase,1.0.0,,streamable-http,"Hand-verified AI infrastructure directory: tools, alternatives, EU providers, LLM API prices."
+2026-10-02T07:45:19.996832Z,app.apick/skills,APICK Skills,3.8.0,https://github.com/lead788/apick-mcp,streamable-http,"Search, quote and run reviewed Skills; points are charged only when a validated result returns"
+2026-10-02T07:51:17.20458Z,xyz.pedibot/pedibot,PediBot,1.0.0,,streamable-http,"Children's health from published guidelines: doses, vaccines, growth charts, warning signs."
+2026-10-02T07:52:04.052199Z,io.github.tunahanaliozturk/derbent,Derbent,1.0.0,https://github.com/tunahanaliozturk/derbent,,"Gate for coding agents' MCP and built-in tool calls: rules, approvals and hash-chained receipts"
+2026-10-02T07:53:42.311833Z,io.github.Ibrahim-Salman19/uetgpt,UETGPT,1.0.0,https://github.com/Ibrahim-Salman19/uet-gpt,streamable-http,"Unofficial UET Taxila guide: merit calculator, programs, fees and cited admissions answers."
+2026-10-02T07:55:09.899012Z,com.cituna/cituna-mcp,,1.8.0,https://github.com/cituna/cituna-mcp,streamable-http,"Track how 7 AI engines cite your brand, daily, with live Google Search Console."
+2026-10-02T07:57:01.006798Z,ai.machinerelations/mri,Machine Relations Index,1.0.0,,streamable-http,"Which source domains AI answer engines cite, by buyer category and question shape."
+2026-10-02T08:02:37.120124Z,io.github.Kyrzin/kybase,Kybase,0.2.2,https://github.com/Kyrzin/kybase,,"Self-hosted Markdown memory for AI agents: notes you can read and edit, with hybrid search."
+2026-10-02T08:04:02.395982Z,io.github.dirkjanfaber/mcp-server-petkit,PetKit,0.3.0,https://github.com/dirkjanfaber/mcp-server-petkit,,"Unofficial MCP server for PetKit smart feeders: status, feeding history and schedule control."
