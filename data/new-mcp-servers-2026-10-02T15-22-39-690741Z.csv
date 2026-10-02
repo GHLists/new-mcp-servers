@@ -1,0 +1,34 @@
+created_at,server,title,version,repository,transports,description
+2026-10-02T14:22:06.047079Z,io.github.priors-agents/priors,Priors,0.2.8,https://github.com/priors-agents/priors,,"Pay x402 APIs in USDG on Robinhood Chain, borrow and repay a Priors credit line, check records."
+2026-10-02T14:23:37.69999Z,trade.buildix/hyperliquid,Buildix: Hyperliquid Orderflow,1.0.0,,streamable-http,"Read-only Hyperliquid analytics: orderflow, liquidation levels, whale positioning, funding."
+2026-10-02T14:24:24.432853Z,io.gingerlive/mcp,GingerLive,0.3.0,https://github.com/gingerlive-io/gingerlive-mcp,streamable-http,"GingerLive livestream ad formats, network reach stats, campaign case studies, and streamer program."
+2026-10-02T14:25:13.86284Z,com.grokbotwiki.www/grok-bot-wiki,Grok Bot Wiki,1.0.0,,streamable-http,Read-only search of community Grok Bot templates and guides. Unofficial; not affiliated with xAI.
+2026-10-02T14:26:13.259814Z,io.github.botzrDev/dreamd,,1.0.0,https://github.com/botzrDev/dreamd,,"Local-first, cross-harness memory for AI coding agents."
+2026-10-02T14:30:37.12217Z,xyz.adexto/mcp,ADEXTO,1.1.0,https://github.com/0xcuy/adexto,streamable-http,"Launch, buy, stake and claim on bonding-curve token markets across five chains, with your own key."
+2026-10-02T14:31:55.875601Z,io.github.saulius876-lgtm/google-trends,Google Trends API,1.0.0,,streamable-http,"Google Trends in bulk: interest over time, by region, related and rising queries, trending now."
+2026-10-02T14:35:40.861375Z,io.github.vivek-turbosteed/turbosteed-cli,TurboSteed MCP,1.0.0,https://github.com/Turbosteed/turbosteed-cli,,"Exposes TurboSteed web-hosting, site generation, and library features to AI coding agents."
+2026-10-02T14:38:03.750217Z,io.github.XLSV777/7maps,7Maps,1.0.0,,streamable-http,"Live map of MCP servers: status, tool risk, changes, routing. Add your own server to the map."
+2026-10-02T14:38:36.459883Z,tech.thecompound/openlookup,OpenLookup,0.5.1,https://github.com/kyisaiah47/openlookup,,"OpenLookup: eleven keyless lookups. Model pricing, dep health, stack cost, registries."
+2026-10-02T14:41:19.182988Z,ai.suprememind/expert-witness-simulation,Supreme Mind,1.0.0,,streamable-http,"Expert witness simulation for litigators: likely opinion, cross-exam and Rule 702 attack surface."
+2026-10-02T14:45:20.30642Z,io.github.Nero-Engine/bulk-transcription,Bulk Transcription: Audio & Video to Text from CSV or Sheet,0.1.0,,streamable-http,"Transcribe every audio or video link in a list: plain text, or speakers, timestamps and SRT"
+2026-10-02T14:45:20.986327Z,io.github.Nero-Engine/call-score,Call Score: AI Call Review & QA for Receptionists and Sales,0.1.0,,streamable-http,"Score call recordings: booked or lost, lead quality, missed questions, 0 to 10 score, next step"
+2026-10-02T14:45:22.036379Z,io.github.Nero-Engine/uk-tourist-tax,UK Tourist Tax (Visitor Levy) Calculator,1.0.0,,streamable-http,"Works out UK tourist tax for a holiday let booking: Edinburgh, Glasgow, Cardiff and more. Free."
+2026-10-02T14:45:42.382759Z,com.weav/mcp,Weav,1.1.0,https://github.com/dubdubdubco/weav-mcp-server,streamable-http,"Connect AI tools to Weav customer service. Triage conversations, reply, and manage your Help Center."
+2026-10-02T14:47:04.178552Z,io.github.SlothyAfk/finance-pulse,Finance Pulse,0.1.0,https://github.com/SlothyAfk/finance-pulse-python,,"Financial news as sourced statements with sentiment and tickers, clustered into developments."
+2026-10-02T14:49:48.70891Z,com.calorieapi/calorie-mcp,Calorie MCP,1.0.0,,streamable-http,"A calorie MCP that looks up calories and macros from a 4M+ food catalog, not model guesses."
+2026-10-02T14:50:15.81922Z,io.github.cdonoyan/shuka,,2.1.1,https://github.com/cdonoyan/Auron_Shuka,,"Universal trust attestation for AI agents: create, verify, and negotiate Shuka trust proofs."
+2026-10-02T14:53:18.973902Z,com.askairank/mcp,AskAiRank,1.0.1,,streamable-http,"How ChatGPT, Claude, Perplexity and Gemini mention your brand: visibility, mentions, competitors."
+2026-10-02T14:57:33.349761Z,io.github.GeminiGeorge22/etsy-sales-mcp,,1.0.0,https://github.com/GeminiGeorge22/etsy-sales-mcp,streamable-http,"Etsy shop sales counters with history plus live Etsy search listing rows, via Apify MCP."
+2026-10-02T14:58:50.976217Z,io.daybag/outfitter-bookings,daybag.io,1.0.0,,streamable-http,"Bookings for outdoor outfitters: check availability and book classes, appointments and rentals."
+2026-10-02T15:00:41.913247Z,ai.edgechat/edgepedia,Edgepedia,1.0.1,https://github.com/EdgePlat/edgepedia-mcp,streamable-http,"Search and read Edgepedia, a free and growing encyclopedia with citations. No key."
+2026-10-02T15:01:35.416255Z,io.github.carbaj03/retry-trace,,1.1.1,https://github.com/carbaj03/retry-trace,streamable-http,"Inspect external HTTPS 429/503 retries with server-recorded attempts, Retry-After and arrival times."
+2026-10-02T15:03:06.750834Z,com.monsitools/calculators,MonsiTools Calculators,1.0.0,,streamable-http,"Search and run 769 business, finance and SaaS calculators with exact formulas."
+2026-10-02T15:06:16.056846Z,com.lazynext/accessibility-checker,Lazynext Accessibility Checker,1.0.0,https://github.com/Lazynext-AI/accessibility-checker,streamable-http,"Scan URLs or HTML for WCAG 2.2 violations. 75-rule manifest, weighted score, shareable reports."
+2026-10-02T15:09:13.122418Z,bot.ranch/mcp-server,,0.1.2,https://github.com/RanchBot/mcp-server,,"Read and write cattle and sheep records with farm-scoped, revocable access."
+2026-10-02T15:11:37.040229Z,no.agentic/directory,agentic.no,0.1.0,,streamable-http,"Find GPU sellers for AI inference by model, cheapest first; pay per call with x402 (USDC on Base)."
+2026-10-02T15:12:23.548953Z,com.mockclip/mockclip,MockClip,1.1.0,,streamable-http,"Make fake chat videos (WhatsApp, iMessage, ChatGPT, Discord, Tinder, Reddit…) exported as MP4."
+2026-10-02T15:16:47.691578Z,online.chainray/chainray,ChainRay,2.5.8,,streamable-http; sse,Multi-chain on-chain intelligence for AI agents through a public remote MCP server.
+2026-10-02T15:17:10.930779Z,io.github.rchurro/kasm-use,kasm-use,0.3.1,https://github.com/rchurro/kasm-use,,Computer-use for Kasm Workspaces: lets AI agents see and drive your Kasm desktops over KasmVNC.
+2026-10-02T15:18:00.227918Z,com.tengence/search,Tengence Search MCP,0.1.4,https://github.com/tengence-team/tengence-search-mcp,,Thin MCP wrapper for the Tengence Search SaaS: push data and search via official APIs.
+2026-10-02T15:19:59.367439Z,io.github.sjk4425/ncloud-gov,,0.2.1,https://github.com/sjk4425/ncloud-gov-mcp-server,,DEPRECATED: merged into ncloud-mcp-server (use NCLOUD_ZONE=gov). Ncloud Gov zone MCP server.
+2026-10-02T15:22:19.413353Z,io.github.everyai-com/report-raja,ReportRaja,1.0.0,https://github.com/everyai-com/sahadeva,streamable-http,"Weekly client reports: accomplishments, hours, blockers. Free."
