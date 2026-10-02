@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-10-02T06:21:18.72104Z,io.github.rajdeep-automation/transcriptyt,TranscriptYT,1.0.0,,streamable-http,"YouTube transcripts for AI agents: text, JSON, SRT, or VTT in 150+ languages, with AI fallback."
+2026-10-02T06:23:27.383001Z,io.github.Sicness/t-bank-invest-mcp-read-only,T-Bank Invest (read-only),1.0.0,https://github.com/Sicness/t-bank-invest-mcp-read-only,,"Read-only T-Bank (Tinkoff) Invest API: portfolio, operations, instruments, market data."
+2026-10-02T06:25:27.521259Z,com.mailsenpai/mcp,MailSenpai,1.0.0,,streamable-http,"Manage MailSenpai email marketing: lists, subscribers, templates and campaigns (EU, OAuth)."
+2026-10-02T06:26:54.704727Z,com.md-log/md-log-mcp,,1.2.0,https://github.com/md-log/md-log-mcp,,"md-log MCP: save/update/fetch markdown by path (stdio + remote HTTP, PAT auth)."
+2026-10-02T06:31:17.594934Z,ro.codai/codai,codai,1.0.0,,streamable-http,"EU-hosted AI gateway: one model name (codai), persistent memory, cloud environments, CI fixes."
+2026-10-02T06:43:08.684326Z,com.vibgrate/ai-context,,2026.930.1,https://github.com/vibgrate/cli,,"Local-first MCP server: version-correct library docs, code map, and offline drift for your repo."
+2026-10-02T06:43:33.860654Z,com.exactpdf/mcp,ExactPDF,0.2.19,https://github.com/smmallya/ExactPDF,,"ExactPDF local stdio MCP client: hosted API PDF merge, split, compress, Markdown source packs."
+2026-10-02T06:48:16.036952Z,ai.upgradeagent/upgrade-agent,,1.1.0,https://github.com/mikeslone-plusgrade/upgradeagent,streamable-http,"Quote, bid and confirm travel upgrades: eligibility, bid range, place/modify/cancel, instant buy."
+2026-10-02T06:49:58.406083Z,com.agenttrafficlab/atl,Agent Traffic Lab,0.1.4,https://github.com/wenhua6666668-oss/agent-traffic-lab-mcp,streamable-http,Execute supported agent tasks through verified providers with fallback and durable outcomes.
+2026-10-02T06:50:23.080842Z,io.github.DiffCI/diffci,DiffCI,0.3.1,https://github.com/DiffCI/DiffCI.com,streamable-http,"Fail-closed, change-aware verification for AI coding agents with affected-test guidance."
+2026-10-02T06:52:54.568905Z,io.github.kr-data-api/korea-business-verify,Korea Business Check — BRN (사업자등록번호) Status & KYB,0.1.4,,streamable-http,"Verify Korean companies by BRN/사업자등록번호: official NTS status, VAT type, English profile, financials"
+2026-10-02T06:53:14.659558Z,io.github.j7an/nexus-mcp,,2.0.2,https://github.com/j7an/nexus-mcp,,"Delegate tasks to coding agents (Claude, Codex) from any MCP client"
+2026-10-02T06:53:16.763266Z,io.github.jbobbink/glippy-mcp,,0.8.1,https://github.com/jbobbink/glippy,,GEO (Generative Engine Optimization) analysis: check any domain's AI-readiness for LLM search
+2026-10-02T06:54:40.360035Z,io.github.SocialAPIsHub/social-media-api,,1.1.0,https://github.com/SocialAPIsHub/mcp-server,streamable-http,"Facebook & Instagram data for AI agents: pages, posts, groups, ads, Marketplace, profiles, reels."
+2026-10-02T06:57:37.885008Z,com.pineprompt/pineprompt,Pineprompt,1.0.0,,streamable-http,"Track your brand's visibility in ChatGPT, Gemini, Perplexity, Claude, Google AI Overviews and more."
+2026-10-02T07:01:22.310291Z,io.github.flacales/exact-calc-mcp,exact-calc,0.1.0,https://github.com/flacales/exact-calc-mcp,,Exact arithmetic for AI agents. Two independent engines cross-check every result.
+2026-10-02T07:01:39.132943Z,io.github.Adenion/blog2social-api-mcp,Blog2Social - Social Media Publishing,1.0.0,https://github.com/Adenion/blog2social-api-mcp,streamable-http,Connect AI agents to Blog2Social and automate social media content workflows via MCP.
+2026-10-02T07:04:19.756343Z,io.github.tarides/sudo-proxy,sudo-proxy,1.2.0,https://github.com/tarides/sudo-proxy,,Privileged command execution proxy with human approval via pkexec or sudo
+2026-10-02T07:04:20.112311Z,io.github.Lime-code09/limon-mcp,Limon Digital Tools,1.0.0,,,"Free local micro-APIs: markdown cleaner, JSON validator, CSV-to-JSON, agent-config secret auditor."
+2026-10-02T07:08:24.641182Z,io.segly/segly,Segly,1.0.0,,streamable-http,Split character art into named layers and export PSDs for Live2D and Spine.
+2026-10-02T07:13:38.200957Z,io.github.zaebee/codegraph-brain,CGIS Code Graph,0.26.0,https://github.com/zaebee/codegraph-brain,,Code graph for AI agents: impact analysis and call tracing for Python and TypeScript.
+2026-10-02T07:15:56.232918Z,com.vendooly/vendooly,Vendooly,1.0.1,,streamable-http,"Amazon Seller Central, Ads and Vendor Central in ChatGPT & Claude. 100+ tools; writes need approval."
+2026-10-02T07:18:16.804412Z,fm.allcams/cams,Allcams live cams,1.0.0,,streamable-http,"Live cam rooms online now on Stripchat, Chaturbate, Cam4, LiveJasmin, BongaCams: categories, models."
+2026-10-02T07:20:13.109827Z,io.github.Backas03/vitaminmcp,VitaminMCP,3.2.0,https://github.com/Backas03/VitaminMCP,,Test Minecraft plugins end to end: drive a real Paper server and real protocol bots.
