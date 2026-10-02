@@ -9,40 +9,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 16:20 UTC
+## Latest list — 2026-10-02 17:19 UTC
 
-New MCP servers published between 2026-10-02 15:22 UTC and 2026-10-02 16:20 UTC.
+New MCP servers published between 2026-10-02 16:20 UTC and 2026-10-02 17:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-02T16-20-39-277361Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-02T17-19-48-498674Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-02 15:25:20 | com.spocont/reservoprix |  | 1.0.0 | Sell to the best offer: a sealed-offer link and button for any listing, with a… |
-| 2026-10-02 15:29:10 | [io.github.symbo-ls/symbols-mcp](https://github.com/symbo-ls/symbols-mcp) | Symbols MCP | 3.14.769 | Symbols.app MCP — docs, code generation, publishing, CLI/SDK reference |
-| 2026-10-02 15:40:03 | [io.github.everyai-com/sheet-shift](https://github.com/everyai-com/sahadeva) | SheetShift | 1.0.0 | Convert and clean tables: CSV, JSON, dedupe, stats. Free. |
-| 2026-10-02 15:40:10 | com.deployedbyai/the-deploy-log | The Deploy Log | 1.0.0 | AI deployments that shipped and are available now, each sourced to the publishe… |
-| 2026-10-02 15:41:46 | [io.github.WYRE-AI/halopsa-mcp](https://github.com/WYRE-AI/halopsa-mcp) | HaloPSA | 1.7.16 | MCP server for HaloPSA — clients, tickets, and PSA workflows via the HaloPSA RE… |
-| 2026-10-02 15:41:59 | [com.tengence/geo](https://github.com/tengence-team/tengence-geo-agent) | Tengence GEO Agent | 0.1.2 | GEO/SEO content pipeline MCP: plan, write, gate-check, publish, submit, monitor… |
-| 2026-10-02 15:44:56 | [io.github.lazyants/hetzner](https://github.com/lazyants/hetzner-mcp-server) |  | 3.0.0 | MCP server for the Hetzner Cloud API — servers, networks, volumes, firewalls, a… |
-| 2026-10-02 15:46:42 | [io.github.ChiR24/unreal-engine-mcp](https://github.com/ChiR24/Unreal_mcp.git) |  | 0.6.0-beta-c | Automate the Unreal Editor (UE 5.0-5.8): levels, Blueprints, UI, materials, VFX… |
-| 2026-10-02 15:46:54 | [io.github.tracetify/tracetify-mcp](https://github.com/tracetify/tracetify-mcp) |  | 0.6.0 | Find competitors, trace how they grew, watch what they ship — plus your Search… |
-| 2026-10-02 15:51:58 | [com.insumermodel/insumer](https://github.com/insumerapi/mcp-server-insumer) |  | 1.14.1 | Read-first blockchain verification. ECDSA-signed booleans across 37 chains. 27… |
-| 2026-10-02 15:54:51 | com.wenmarpro/wenmar-open | Wenmar Open | 0.1.0 | Free VIN decoder and vehicle catalog from NHTSA vPIC data. Read-only, no key. |
-| 2026-10-02 15:54:56 | com.onepagecrm/mcp | OnePageCRM | 1.1.0 | Create, search, update, and manage data in OnePageCRM. |
-| 2026-10-02 15:58:53 | net.llm-broker/broker | LLM Broker | 1.0.0 | One key, every model: measured scores and live prices, routed per request to th… |
-| 2026-10-02 16:01:26 | [io.github.BargLabs/cejel](https://github.com/BargLabs/cejel) | Cejel | 0.5.0 | Offline deterministic engineering-trust certificates for repositories, with no… |
-| 2026-10-02 16:01:43 | com.isoligne/index |  | 0.2.2 | Ce qu'une IA lit des sites web français : note, axes, secteur, questions sans r… |
-| 2026-10-02 16:01:48 | [io.github.babakovn/beacon-commons](https://github.com/babakovn/beacon-agent-clients) | BEACON Commons | 1.0.0 | Discover tasks and reproducible results. Public reading; invited, host-approved… |
-| 2026-10-02 16:02:08 | de.kessen-maschinenbau/machines | Kessen Maschinenbau | 1.0.0 | Food industry machines from Kessen Maschinenbau: search catalogue, read pages,… |
-| 2026-10-02 16:02:19 | lt.gov.dataportal.guides/docs | Lithuanian Data Portal documentation | 1.1.0 | Search and read the Lithuanian Data Portal user guide and Data API docs, in Lit… |
-| 2026-10-02 16:03:09 | [io.github.greencore-solutions/a2a-grocery](https://github.com/greencore-solutions/a2a-grocery) | A2A Grocery — the agentic hub for retai… | 1.0.0 | A2A + MCP hub for retail grocery procurement — 20 markets on the SCHEMA algo re… |
-| 2026-10-02 16:03:43 | [io.github.jermayne36/heartwood-memory](https://github.com/jermayne36/heartwood-memory) | Heartwood Memory — governed memory for… | 0.2.8 | Heartwood Memory — governed AI agent memory; signed provenance. BUSL-1.1; not O… |
-| 2026-10-02 16:03:48 | com.unflagdomain/website-blacklist-removal | unflagdomain: website blacklist removal | 1.0.0 | Website flagged by security vendors? Free scan, then we send the removal reques… |
-| 2026-10-02 16:04:20 | [io.github.Furox-Art/axiomize](https://github.com/Furox-Art/axiomize) | Axiomize | 1.12.4 | Versioned scientific models with units and SBML, CellML, Modelica export. |
-| 2026-10-02 16:11:00 | [io.github.ComplyEaze/bridge-tally](https://github.com/ComplyEaze/bridge) | ComplyEaze Bridge | 0.4.1 | Reads TallyPrime for your AI assistant; posts only vouchers you approve. Window… |
-| 2026-10-02 16:11:22 | com.formbuilder/formbuilder | FormBuilder | 1.1.0 | Build, preview, edit, publish and analyze forms and surveys; read responses and… |
-| 2026-10-02 16:12:42 | [io.github.vectros-ai/mcp-server](https://github.com/vectros-ai/vectros-mcp-server) |  | 0.18.0 | Typed record store + hybrid search over MCP: deterministic lookups + semantic m… |
-| 2026-10-02 16:20:08 | run.imho/games | imho.run game recommendations | 1.0.0 | Steam games like any game you name, facts about a game, and finding a game from… |
+| 2026-10-02 16:21:11 | com.autoview/mcp | Autoview | 0.3.0 | Place and inspect orders on your own exchange accounts from an MCP-connected ag… |
+| 2026-10-02 16:24:20 | [io.github.GeminiGeorge22/company-social-mcp](https://github.com/GeminiGeorge22/company-social-mcp) |  | 1.0.0 | Company social handles (LinkedIn, Instagram, X, Facebook, YouTube) via Apify MC… |
+| 2026-10-02 16:27:01 | com.dcisionai/dcisionai | DcisionAI | 1.0.0 | Certified business decisions on your own data: what to decide today, run it, re… |
+| 2026-10-02 16:28:02 | com.mailvakt/mailvakt | MailVakt | 0.1.0 | Use when email lands in spam: audits SPF, DKIM, DMARC, MX and returns the DNS r… |
+| 2026-10-02 16:33:09 | com.bootsandbassline/catalogue | Boots & Bassline | 1.0.0 | Songs, lyrics, previews and listening links for Boots & Bassline, plus a song f… |
+| 2026-10-02 16:36:12 | [io.github.anzal1/hum](https://github.com/anzal1/hum) | hum | 0.1.0 | Free music for your coding agent. Play songs, mood stations and Spotify links i… |
+| 2026-10-02 16:40:22 | [io.github.jordan-gibbs/ownhand](https://github.com/jordan-gibbs/ownhand) | Ownhand | 0.3.0 | Write in the user's own voice, fitted to the occasion. Learns from the text the… |
+| 2026-10-02 16:41:47 | com.faxivo/news | Faxivo News | 0.2.0 | News written and read by AI agents. Every article carries a verification status. |
+| 2026-10-02 16:43:28 | [finance.paddock/paddock](https://github.com/unblinkr/paddock-mcp) | Paddock | 3.6.0 | Pre-payment verification for AI agents. |
+| 2026-10-02 16:43:33 | [io.github.sthan-io/mcp-server](https://github.com/sthan-io/mcp-server) |  | 0.1.9 | US address verification, parsing, autocomplete, geocoding, and IP geolocation A… |
+| 2026-10-02 16:46:44 | [io.github.Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) |  | 0.26.0 | Entity-level code intelligence: semantic diff, impact analysis, blame, and cont… |
+| 2026-10-02 16:52:13 | [io.github.signadot/cli](https://github.com/signadot/cli) | Signadot MCP Server | v1.9.0 | Connect to Signadot to manage ephemeral environments and route traffic to local… |
+| 2026-10-02 16:55:45 | cn.com.tpool/tpool | tpool 招聘数据 MCP | 1.0.0 | TPool — Agent-only 招聘平台 (jobs for AI Agents): 岗位/校招/公告/HR评分 read-only; 检索需 X-AP… |
+| 2026-10-02 16:57:35 | [dev.emailmd/emailmd](https://github.com/anypost/emailmd) | emailmd | 0.11.1 | Render markdown into email-safe HTML, lint drafts for deliverability problems,… |
+| 2026-10-02 17:03:19 | [io.github.Avazbek22/devprojex](https://github.com/Avazbek22/DevProjex) | DevProjex | 5.2.0 | Read-only MCP server that turns a folder or repository into redacted, token-eff… |
+| 2026-10-02 17:03:55 | [io.github.KellyKazi3/idmly-mcp](https://github.com/KellyKazi3/idmly-mcp) | idmly: HTML to InDesign (IDML) | 0.1.3 | Convert a self-contained HTML design into an editable Adobe InDesign (.idml) fi… |
+| 2026-10-02 17:04:13 | [io.github.feder-cr/invisible-playwright-mcp](https://github.com/feder-cr/invisible_playwright_mcp) | invisible_playwright_mcp | 0.70.8 | AI browser agent: browses, clicks, types, and reads real web pages from plain-E… |
+| 2026-10-02 17:06:20 | life.zengzhi/zengzhi | 人生增值（zengzhi.life）MCP | 1.0.0 | 人生增值 ZengZhi — 个人数字资产审计/撮合平台 (digital-asset audit/matchmaking): 公开 tools 免 Key,… |
+| 2026-10-02 17:06:31 | cn.com.soloteam/soloteam | 一人行 SoloTeam MCP | 1.0.0 | 一人行 SoloTeam — 一人公司联盟 (solo-company alliance): 名录/互补推荐/政采线索 read-only; 身份类 tool… |
+| 2026-10-02 17:06:49 | com.paid2call/paid2call | Paid2Call | 1.0.0 | Launch pump.fun tokens whose fees pay callers in USDC. Find paying pools, regis… |
+| 2026-10-02 17:09:38 | [io.github.festuscharles-n/hai-browser](https://github.com/SnapBlock/hai-browser) | H/Ai Browser | 0.0.1 | Let AI agents drive VS Code's built-in browser alongside you, with click-to-sou… |
+| 2026-10-02 17:09:39 | [com.operatornest/tools](https://github.com/OperatorNest/mcp-tools) | OperatorNest tools | 1.0.0 | Calculate API and subscription costs, meeting time zones, recurring schedules a… |
+| 2026-10-02 17:10:19 | com.naxytra/xytara-mcp-executor | xytara MCP Executor | 3.1.1 | Public MCP server for summaries, DNS lookup, catalog, replies, and JSON checks. |
+| 2026-10-02 17:11:06 | com.pipe0/pipe0 | pipe0 | 2.3.0 | GTM data for agents. Build and enrich lead lists, and watch for signals like jo… |
+| 2026-10-02 17:16:28 | co.bitcoinyield/yields | BitcoinYield | 1.3.0 | Live crypto yields for BTC, stablecoins and ETH across DeFi and CeFi, with A-D… |
+| 2026-10-02 17:19:24 | [io.github.Hirly-Me/hirly](https://github.com/Hirly-Me/hirly-mcp) | hirly | 1.0.0 | Jobs matched to your resume, tailored resumes, and applications hirly sends onl… |
 
 ## Data source
 

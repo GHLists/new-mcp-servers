@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-10-02T16:21:11.76864Z,com.autoview/mcp,Autoview,0.3.0,,streamable-http,Place and inspect orders on your own exchange accounts from an MCP-connected agent.
+2026-10-02T16:24:20.609347Z,io.github.GeminiGeorge22/company-social-mcp,,1.0.0,https://github.com/GeminiGeorge22/company-social-mcp,streamable-http,"Company social handles (LinkedIn, Instagram, X, Facebook, YouTube) via Apify MCP."
+2026-10-02T16:27:01.366238Z,com.dcisionai/dcisionai,DcisionAI,1.0.0,,streamable-http,"Certified business decisions on your own data: what to decide today, run it, record the call."
+2026-10-02T16:28:02.911871Z,com.mailvakt/mailvakt,MailVakt,0.1.0,,streamable-http,"Use when email lands in spam: audits SPF, DKIM, DMARC, MX and returns the DNS records to fix it."
+2026-10-02T16:33:09.474748Z,com.bootsandbassline/catalogue,Boots & Bassline,1.0.0,,streamable-http,"Songs, lyrics, previews and listening links for Boots & Bassline, plus a song finder."
+2026-10-02T16:36:12.591075Z,io.github.anzal1/hum,hum,0.1.0,https://github.com/anzal1/hum,,"Free music for your coding agent. Play songs, mood stations and Spotify links in your browser."
+2026-10-02T16:40:22.695475Z,io.github.jordan-gibbs/ownhand,Ownhand,0.3.0,https://github.com/jordan-gibbs/ownhand,streamable-http,"Write in the user's own voice, fitted to the occasion. Learns from the text they actually send."
+2026-10-02T16:41:47.63556Z,com.faxivo/news,Faxivo News,0.2.0,,streamable-http,News written and read by AI agents. Every article carries a verification status.
+2026-10-02T16:43:28.543327Z,finance.paddock/paddock,Paddock,3.6.0,https://github.com/unblinkr/paddock-mcp,streamable-http,Pre-payment verification for AI agents.
+2026-10-02T16:43:33.697393Z,io.github.sthan-io/mcp-server,,0.1.9,https://github.com/sthan-io/mcp-server,,"US address verification, parsing, autocomplete, geocoding, and IP geolocation APIs."
+2026-10-02T16:46:44.727115Z,io.github.Ataraxy-Labs/sem,,0.26.0,https://github.com/Ataraxy-Labs/sem,,"Entity-level code intelligence: semantic diff, impact analysis, blame, and context for AI agents"
+2026-10-02T16:52:13.90482Z,io.github.signadot/cli,Signadot MCP Server,v1.9.0,https://github.com/signadot/cli,,Connect to Signadot to manage ephemeral environments and route traffic to local services.
+2026-10-02T16:55:45.592738Z,cn.com.tpool/tpool,tpool 招聘数据 MCP,1.0.0,,streamable-http,"TPool — Agent-only 招聘平台 (jobs for AI Agents): 岗位/校招/公告/HR评分 read-only; 检索需 X-API-Key, 无投递 no apply."
+2026-10-02T16:57:35.00174Z,dev.emailmd/emailmd,emailmd,0.11.1,https://github.com/anypost/emailmd,streamable-http,"Render markdown into email-safe HTML, lint drafts for deliverability problems, and preview emails."
+2026-10-02T17:03:19.888061Z,io.github.Avazbek22/devprojex,DevProjex,5.2.0,https://github.com/Avazbek22/DevProjex,,"Read-only MCP server that turns a folder or repository into redacted, token-efficient context."
+2026-10-02T17:03:55.75818Z,io.github.KellyKazi3/idmly-mcp,idmly: HTML to InDesign (IDML),0.1.3,https://github.com/KellyKazi3/idmly-mcp,,Convert a self-contained HTML design into an editable Adobe InDesign (.idml) file. 2 pages free.
+2026-10-02T17:04:13.516546Z,io.github.feder-cr/invisible-playwright-mcp,invisible_playwright_mcp,0.70.8,https://github.com/feder-cr/invisible_playwright_mcp,,"AI browser agent: browses, clicks, types, and reads real web pages from plain-English instructions."
+2026-10-02T17:06:20.311295Z,life.zengzhi/zengzhi,人生增值（zengzhi.life）MCP,1.0.0,,streamable-http,"人生增值 ZengZhi — 个人数字资产审计/撮合平台 (digital-asset audit/matchmaking): 公开 tools 免 Key, 个人数据需 Bearer zzk_."
+2026-10-02T17:06:31.473365Z,cn.com.soloteam/soloteam,一人行 SoloTeam MCP,1.0.0,,streamable-http,一人行 SoloTeam — 一人公司联盟 (solo-company alliance): 名录/互补推荐/政采线索 read-only; 身份类 tools 需 Bearer yrx_.
+2026-10-02T17:06:49.049853Z,com.paid2call/paid2call,Paid2Call,1.0.0,,streamable-http,"Launch pump.fun tokens whose fees pay callers in USDC. Find paying pools, register calls, claim."
+2026-10-02T17:09:38.763384Z,io.github.festuscharles-n/hai-browser,H/Ai Browser,0.0.1,https://github.com/SnapBlock/hai-browser,,"Let AI agents drive VS Code's built-in browser alongside you, with click-to-source."
+2026-10-02T17:09:39.312818Z,com.operatornest/tools,OperatorNest tools,1.0.0,https://github.com/OperatorNest/mcp-tools,streamable-http,"Calculate API and subscription costs, meeting time zones, recurring schedules and cron matches."
+2026-10-02T17:10:19.364963Z,com.naxytra/xytara-mcp-executor,xytara MCP Executor,3.1.1,,streamable-http,"Public MCP server for summaries, DNS lookup, catalog, replies, and JSON checks."
+2026-10-02T17:11:06.585251Z,com.pipe0/pipe0,pipe0,2.3.0,,streamable-http,"GTM data for agents. Build and enrich lead lists, and watch for signals like job changes and hiring."
+2026-10-02T17:16:28.686342Z,co.bitcoinyield/yields,BitcoinYield,1.3.0,,streamable-http,"Live crypto yields for BTC, stablecoins and ETH across DeFi and CeFi, with A-D risk grades."
+2026-10-02T17:19:24.520674Z,io.github.Hirly-Me/hirly,hirly,1.0.0,https://github.com/Hirly-Me/hirly-mcp,streamable-http,"Jobs matched to your resume, tailored resumes, and applications hirly sends only after you confirm."
