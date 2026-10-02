@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-10-02T20:22:11.516008Z,io.github.razzant/claudexor,Claudexor,3.17.2,https://github.com/razzant/claudexor,,"Route coding work across Claude Code, Codex, Cursor, and OpenCode with shared context."
+2026-10-02T20:22:47.112016Z,io.github.Astrolions93/namli,Namli,0.1.0,,streamable-http,"Checks if a project, brand or app name already exists: trademarks, domains, web and GitHub."
+2026-10-02T20:23:23.668971Z,com.indexagentica/mcp,Index Agentica,0.1.0,https://github.com/Drudley/indexagentica-mcp,streamable-http,"Search a curated directory of agent tools, MCP servers, APIs, protocols and skills. No auth."
+2026-10-02T20:24:09.943854Z,ai.jackhamr/jackhamr,JackHamr,1.0.0,,streamable-http,"Hand tasks to your JackHamr AI agents, each with its own cloud machine, and get results back."
+2026-10-02T20:28:56.281989Z,ai.pechincha/deals,Pechincha.ai,1.0.1,,streamable-http,"Brazilian deals: search active promos, coupons and price history from Brazilian online stores."
+2026-10-02T20:28:59.039928Z,com.seekinweb/ai-visibility,SeekinWeb — AI visibility,1.1.0,,streamable-http,"Does AI recommend a business? Who it names instead, which sources it uses, plus AI readability."
+2026-10-02T20:35:45.000817Z,com.daisycon.mcp/daisycon,Daisycon (MCP server),1.2.2,,streamable-http; streamable-http; streamable-http,"Search Daisycon affiliate programs, manage campaigns and leads, and track earnings and statistics."
+2026-10-02T20:37:34.092605Z,com.noozra/noozra,Noozra,1.0.0,,streamable-http,"News from 70+ sites, posts by people and AI agents in Noozra's communities, and open jobs"
+2026-10-02T20:38:58.49787Z,io.github.h-3303/phone-sms,phone-sms,0.1.0,https://github.com/h-3303/phone-sms,,Read and send SMS through your own Android phone over KDE Connect on your LAN. No cloud relay.
+2026-10-02T20:41:18.414753Z,dk.leadstrategist/cvr,Lead Strategist: Danish CVR company data,1.0.0,,streamable-http,Danish company data (CVR) and annual-report financials for B2B lead research. Read-only.
+2026-10-02T20:44:57.46402Z,io.github.solsolettidev/nats-trail,,0.6.0,https://github.com/solsolettidev/nats-trail,,"Read-only NATS and JetStream observability: trace a request across streams, rank what is broken."
+2026-10-02T20:47:17.370432Z,ai.pulsegate/provenance,PulseGate,0.1.0,,streamable-http,"Identifiers PulseGate holds for a software project, and where each one came from."
+2026-10-02T20:51:59.073724Z,io.github.Dahliyaal/justicelibre,,1.2.0,https://github.com/Dahliyaal/justicelibre,streamable-http,"MCP jurisprudence française : 3,3 M décisions (Cass, CE, CAA, TA, CEDH, CJUE) + lois à date. Gratuit"
+2026-10-02T20:53:42.303761Z,io.github.visionastro48-dev/aether-machine-relationship-mesh,AETHER Machine Relationship Mesh,0.1.1,,streamable-http,"Machine-native relationship mesh for discovery, help, evidence, and earned trust."
+2026-10-02T20:55:04.81759Z,io.github.Osis-AI-LLC/comms,Comms,1.0.0,https://github.com/Osis-AI-LLC/comms-plugins,streamable-http,"Workspace messaging: conversations, contacts, agents, and connected lines through scoped OAuth."
+2026-10-02T20:56:41.966514Z,io.github.synopsys0/postfader-fl-studio-mcp,PostFader,11.0.0,https://github.com/synopsys0/postfader-fl-studio-mcp,,"FL Studio MCP server: read, mix, compose, and edit your open FL Studio project from any MCP client."
+2026-10-02T20:58:01.876249Z,io.github.Sogl/mikrotik-rest-mcp,,0.1.0,https://github.com/Sogl/mikrotik-rest-mcp,,"MikroTik RouterOS 7 REST MCP: filtered reads, guarded writes, timed rollback"
+2026-10-02T21:02:59.897249Z,org.iarccum/archive,IARCCUM Archive of Anglican-Roman Catholic Dialogue,1.0.0,,streamable-http,Read-only access to public records on Anglican-Roman Catholic dialogue in the IARCCUM Archive.
+2026-10-02T21:03:19.197612Z,io.github.sammyboi81/sentarion,,0.4.0,,,"Governed MCP orchestration, tamper-evident memory, and Claude Code Seatbelt hooks."
+2026-10-02T21:04:46.40925Z,io.github.TrackingTime/mcp-server,,1.0.3,https://github.com/TrackingTime/mcp,streamable-http,"TrackingTime MCP server for time, projects, tasks, users, customers, services, and reports."
+2026-10-02T21:06:25.361311Z,io.github.jdw2111/propraven,,0.2.0,https://github.com/jdw2111/propraven-mcp,streamable-http,"Property intelligence: 180M+ US parcels — lookup, search, owners, hazards, permits, deeds."
+2026-10-02T21:07:48.775187Z,io.github.entradox/benefits-city,Benefits City,0.3.0,https://github.com/entradox/agent-ledger-benefits-city,streamable-http,"US bank, savings and credit-card signup bonuses, each source-checked, with expiry dates."
+2026-10-02T21:10:12.836265Z,io.github.xpex-systems-ai/xpex-plugin-factory,,0.4.1,https://github.com/xpex-systems-ai/XPeX-Plugin-Factory-,streamable-http,"MCP plugin factory and x402 Agent Kit API for external agents, at 0.01 USDC per call."
+2026-10-02T21:15:40.259461Z,io.github.MykytaStel/repopilot,RepoPilot,0.24.0,https://github.com/MykytaStel/repopilot,,"Local, deterministic review of Git changes: weakened tests and CI gates, risky flows, blast radius."
+2026-10-02T21:16:10.053728Z,com.soldcount/soldcount,SoldCount,1.4.0,https://github.com/ManagedAds/soldcount-claude-plugin,streamable-http,"How fast TikTok Shop listings sell: sold in 24 hours, 7 and 30 days, prices and undercut rivals"
+2026-10-02T21:18:52.171886Z,ai.sovantica/engrava,,0.7.0,https://github.com/sovantica/engrava-mcp,,"MindQL queries, hybrid search, and a thought graph - read/write memory for AI agents."
