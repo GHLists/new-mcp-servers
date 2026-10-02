@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-10-02T13:21:34.912571Z,io.github.alexar76/warden,WARDEN — MCP Security Firewall,0.8.2,https://github.com/alexar76/warden,,MCP security firewall: stdio wrap proxy or inspection tools; zero runtime dependencies.
+2026-10-02T13:21:50.961848Z,io.github.dmytrome/groundhog-mcp,Groundhog,0.17.0,https://github.com/dmytrome/groundhog,,"Search, read and research the web, with hidden text stripped by default and sources hashed"
+2026-10-02T13:22:07.824511Z,com.seofuxx/seo-audit,SEOFuxx SEO Audit,1.0.0,https://github.com/b1tw0rker/seofuxx,streamable-http,Read SEO analyses and prioritized on-page recommendations from your own SEOFuxx account.
+2026-10-02T13:28:51.448499Z,io.canopypay/mcp,Canopy,1.0.0,,streamable-http,"Create crypto deposit intents, list payable chains and tokens, and read settlement status."
+2026-10-02T13:31:43.355134Z,io.github.memtomem/memtomem,,0.6.6,https://github.com/memtomem/memtomem,,"Markdown-first long-term memory for AI agents. Hybrid BM25 + vector search, runs locally."
+2026-10-02T13:32:51.409292Z,io.github.saulius876-lgtm/speech-to-text,Speech to Text (Whisper) for Audio and Video URLs,1.0.0,,streamable-http,"Whisper speech to text for podcast, audio and video URLs, 90+ languages, timestamped output."
+2026-10-02T13:32:52.351074Z,io.github.saulius876-lgtm/youtube-transcripts,YouTube Transcripts & Subtitles,1.0.0,,streamable-http,"Bulk YouTube transcripts from videos, channels, playlists or search: text, RAG chunks, SRT, VTT."
+2026-10-02T13:33:57.961812Z,com.opergo/mcp,OperGo,0.1.7,,streamable-http,"Quotes, orders, manufacturing orders and invoices for contract manufacturers and their clients."
+2026-10-02T13:36:19.821799Z,io.github.Vaquill-AI/vaquill-mcp,Vaquill,0.4.1,https://github.com/Vaquill-AI/vaquill-mcp,streamable-http; streamable-http,"Search US and Indian statutes, regulations, constitutions, and court rules."
+2026-10-02T13:37:22.714292Z,io.github.entradox/agent-ledger,AgentLedger,0.4.3,https://github.com/entradox/agent-ledger,streamable-http,"Meter, cap, and block AI agent spend before the provider is charged."
+2026-10-02T13:40:30.57971Z,io.github.SAIHM-Admin/saihm-mcp-server-pro,,0.12.0,https://github.com/SAIHM-Admin/saihm-mcp-server-pro,,"Free-to-start portable memory for AI agents: encrypted, shareable, provably erased. Join SAIHM."
+2026-10-02T13:54:58.811176Z,io.github.mamrrez/gsc-mcp-full,Google Search Console,0.2.2,https://github.com/mamrrez/gsc-mcp-full,,"Google Search Console: 37 tools, every API endpoint, hourly data, history beyond 16 months."
+2026-10-02T13:54:59.804284Z,io.github.mamrrez/gtrends-mcp-full,Google Trends,0.1.1,https://github.com/mamrrez/gtrends-mcp-full,,"Google Trends: Trending Now, interest over time, regions, related searches. No API key."
+2026-10-02T13:58:10.267879Z,com.pinareldem/hukuk,Pınar Eldem Hukuk & Danışmanlık,1.0.0,,streamable-http,Turkish law (KVKK) pre-launch legal check for AI-built apps; Istanbul law office info.
+2026-10-02T13:58:48.175497Z,io.github.skulitom/anode,Anode background Windows desktop,0.11.0,https://github.com/skulitom/Anode,,"Background Windows desktop for AI agents: native GUI automation, screenshots and app testing."
+2026-10-02T14:06:43.272198Z,jp.adson.japan-data/website-intelligence,Japan Website Intelligence,1.0.0,,streamable-http,"Website company, contact, hiring and social links. 20 free daily lookups; prepaid keys for AI."
+2026-10-02T14:07:50.94469Z,io.github.jpicklyk/task-orchestrator,MCP Task Orchestrator,3.16.0,https://github.com/jpicklyk/task-orchestrator.git,,"Server-enforced workflow discipline for AI agents: work items, dependency graphs, quality gates"
+2026-10-02T14:13:27.481006Z,com.netfiscus/mcp,NetFiscus,1.1.0,,streamable-http,"Track net worth and investment performance (MWRR, P&L) for any asset with a value, in any currency."
+2026-10-02T14:15:56.94114Z,io.github.sjk4425/ncloud,,2.0.1,https://github.com/sjk4425/ncloud-mcp-server,,"MCP server for Naver Cloud Platform (Ncloud) — Public, Government and Financial zones"
+2026-10-02T14:17:14.824173Z,com.pedagrade/pedagrade,Pedagrade,1.0.0,,streamable-http,"Check lessons and courses against their learning objectives, with each fix written."
