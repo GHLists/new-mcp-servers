@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-10-02T08:21:42.266536Z,io.github.NoBanks/therealcost-mcp,The Real Cost,0.1.0,https://github.com/NoBanks/therealcost-mcp,,"Free US money calculators with the math shown, from The Real Cost. Education only."
+2026-10-02T08:21:44.568964Z,com.shipmyform/shipmyform,ShipMyForm,1.1.0,,streamable-http,"Form backend as 29 tools: create endpoints, route submissions, publish pages, run the inbox."
+2026-10-02T08:21:52.300571Z,io.github.pratikgajjar/sf-beverage-skus,,0.3.0,https://github.com/pratikgajjar/sf-beverage-skus,streamable-http,"SF coffee, matcha, and chai catalog API: 439 SKUs across 13 merchants, prices in cents."
+2026-10-02T08:24:09.678542Z,io.github.NoaCG/noacg,NoaCG Broadcast Graphics and Playout,0.7.0,https://github.com/NoaCG/NoaCG-Studio,,"Make broadcast graphics for NoaCG Studio and play them out live on CasparCG, OBS, vMix or OGraf."
+2026-10-02T08:27:20.527713Z,com.yatmo/yatmo,Yatmo neighbourhood data for real estate,1.0.0,https://github.com/Yatmo/yatmo-mcp,streamable-http,"Real estate neighbourhood data: nearest school, shops, transport with travel times, 25 countries."
+2026-10-02T08:27:27.66219Z,io.github.James-Chahwan/repo-graph,,0.5.2,https://github.com/James-Chahwan/repo-graph.git,,"Structural graph map of any codebase so LLMs navigate by structure, not guesswork."
+2026-10-02T08:36:26.611176Z,io.github.delian/ddflow-mcp,ddflow,0.1.9,https://github.com/delian/ddflow-mcp,,"Work-queue kernel for AI coding agents: dependencies, worktree isolation, quality gates, recovery"
+2026-10-02T08:37:10.104025Z,com.stepladderapp/stepladder,Stepladder,1.0.0,,streamable-http,"Put timed plans on the person's phone: steps, questions and waits that ring when a rest is over."
+2026-10-02T08:37:46.061762Z,com.tokcloner/tokcloner,,1.0.0,https://github.com/tokcloner/tokcloner,streamable-http,Clone viral TikTok/Instagram slideshows for your business. Async; 6 tools; Bearer API key.
+2026-10-02T08:38:06.461341Z,dev.thebridge/bridge,The Bridge,1.0.0,,streamable-http,"Auth, billing, plans, feature flags and roles for your SaaS, set up from your coding agent."
+2026-10-02T08:38:33.235897Z,io.github.OntoDistro/remirror,remirror (返照） — psyche audits for AI agents,1.0.0,https://github.com/OntoDistro/remirror,streamable-http,"Psyche audits for AI agents: declared vs self-reported vs revealed objectives, diffed and flagged."
+2026-10-02T08:44:00.296443Z,xyz.socseal/socseal-mcp,socseal settlement door,1.0.0,,,"Read-only settlement proof for agents: prove a txid MINED, post-quantum signed. Fail-closed."
+2026-10-02T08:44:41.764554Z,io.github.xnjiang/speakpen-mcp,SpeakPen: Your Voice Notes,1.0.0,,streamable-http,"Read-only access to your SpeakPen voice notes: search, read transcripts, list recent ideas."
+2026-10-02T08:45:36.524509Z,io.github.ZenRows/zenrows-mcp,,2.3.0,https://github.com/ZenRows/zenrows-mcp,streamable-http,"Zenrows MCP server — Fetch, Extract, Batch, and Browser Sessions for AI coding assistants"
+2026-10-02T08:54:20.848515Z,io.github.formfeed-dev/formfeed,Formfeed,0.3.11,https://github.com/formfeed-dev/formfeed,streamable-http; streamable-http,"Render PDFs and images from templates, validate data and convert Office files to PDF."
+2026-10-02T09:05:34.582518Z,io.github.AnxForever/stylekit-mcp,StyleKit,0.4.0,https://github.com/AnxForever/stylekit,,"stdio MCP server for StyleKit styles, templates, assets, tokens, recipes, and lint checks."
+2026-10-02T09:10:52.784215Z,io.github.The-Pixel-Boys/shield-kya,,0.19.0,https://github.com/The-Pixel-Boys/shield-kya,,"KYA MCP gate: evaluate, ingest, request approval. Sole PEP is Shield."
+2026-10-02T09:13:16.552563Z,com.debyko/mcp,DEBYKO,0.1.0,,streamable-http,"Cross-venue crypto derivatives market data: funding, open interest, books, candles, as-of history."
+2026-10-02T09:13:36.054496Z,io.testiny/testiny-mcp,Testiny Test Management,1.0.0,,streamable-http,"Create and manage test cases, test runs and results in Testiny from your AI assistant."
+2026-10-02T09:13:56.289371Z,io.github.zahidul-alam-m4/tracking-mcp-server,NetCourier Parcel Tracking,1.0.0,https://github.com/zahidul-alam-m4/tracking-mcp-server,streamable-http,MCP server for tracking parcels using the NetCourier tracking service.
+2026-10-02T09:14:01.728949Z,io.github.agtrepo/agtrepo-memory,,0.2.0,https://github.com/agtrepo/agtrepo,streamable-http,"Encrypted, pay-per-use persistent memory storage for AI agents, gated by x402 payments on Base."
+2026-10-02T09:16:43.807216Z,io.github.renezander030/agentic-task-system,Agentic Task System (ATS),0.15.0,https://github.com/renezander030/agentic-task-system,,"MCP server giving AI agents persistent task memory across TickTick, Notion, GitHub, Linear & Beads"
