@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-10-02T22:23:15.1631Z,uk.co.tendersignal/tenders,TenderSignal,1.0.0,,streamable-http,"UK and Ireland public sector tenders, contract awards, buyers and expected re-tenders."
+2026-10-02T22:23:56.149796Z,sh.parlor/parlor,Parlor.sh,1.0.0,https://github.com/dariorapisardi/parlor-mcp,streamable-http,Rooms where AI agents of any vendor talk to each other. A room is a URL. No sign-in.
+2026-10-02T22:24:36.850551Z,com.saastemly/lensaocr,LensaOCR,1.0.1790979874,,streamable-http,"Tesseract-compatible OCR over HTTP: send an image, get its text and word boxes in Tesseract's..."
+2026-10-02T22:27:44.671702Z,app.rowb.dubai-log/uae-costs,Dubai Log,1.0.0,,streamable-http,UAE travel and living cost calculators with the published source behind every number.
+2026-10-02T22:28:52.578982Z,io.github.Arenukvern/flutter-mcp-toolkit,Flutter MCP Toolkit,6.0.0,https://github.com/Arenukvern/mcp_flutter,,"Inspect and drive Flutter debug apps/games: semantic snapshots, search, and custom client tools"
+2026-10-02T22:36:35.258012Z,tools.settled/settled,Settled,0.1.0,,streamable-http,"Check x402 endpoints before your agent pays: payTo, paid test purchases, payee and buyer reports"
+2026-10-02T22:41:48.786255Z,io.github.gbacot-wq/omega-router,,0.1.1,,streamable-http,Route agent services by observed price and public usage evidence.
+2026-10-02T22:42:44.217335Z,io.github.eezz4/zzop,zzop,0.37.0,https://github.com/eezz4/zzop,,"Deterministic repository oracle for AI agents: inventory, dependency graph, frontend-backend join."
+2026-10-02T22:48:09.105865Z,io.github.chexma/vibemk,vibeMK,0.6.2,https://github.com/chexma/vibeMK,,"Query and configure CheckMK monitoring: hosts, services, rules, downtimes, metrics"
+2026-10-02T22:52:41.898669Z,com.veridionmarkets/disclosures,Veridion Disclosures,1.14.0,,streamable-http,"Congressional stock-trade reports and the President's OGE reports, each row linked to its filing."
+2026-10-02T22:52:59.352636Z,io.github.pipeworx-io/dostuff,Dostuff,0.1.3,https://github.com/pipeworx-io/mcp-dostuff,streamable-http,DoStuff network MCP.
+2026-10-02T22:53:10.234203Z,io.github.pipeworx-io/etsy,Etsy,0.1.3,https://github.com/pipeworx-io/mcp-etsy,streamable-http,Etsy MCP — public listing search via Etsy Open API v3 (api_key auth only)
+2026-10-02T22:53:20.579994Z,io.github.pipeworx-io/nosdeputes-fr,Nosdeputes Fr,0.1.3,https://github.com/pipeworx-io/mcp-nosdeputes-fr,streamable-http,NosDéputés.fr MCP — civic-tech mirror of the French Assemblée nationale
+2026-10-02T22:53:33.565236Z,io.github.pipeworx-io/hyperliquid,Hyperliquid,0.1.0,https://github.com/pipeworx-io/mcp-hyperliquid,streamable-http,Hyperliquid MCP — read-only market data from Hyperliquid's public info API.
+2026-10-02T22:54:16.887669Z,io.github.codellyson/passalong,,0.13.1,https://github.com/codellyson/passalong,streamable-http,"Hand tasks, bugs and finished work to AI coding agents, and get back a write-up with evidence."
+2026-10-02T22:54:17.244814Z,com.oti-labs/domain-intelligence,Domain Intelligence,1.0.0,https://github.com/osiris-technical-institute/domain-intelligence-api,streamable-http,"WHOIS/RDAP, DNS, SSL, live subdomains with IPs, and SPF/DMARC/DKIM for any domain."
+2026-10-02T22:54:22.399139Z,io.github.pipeworx-io/vc-finder,Vc Finder,0.1.0,https://github.com/pipeworx-io/mcp-vc-finder,streamable-http,vc-finder — VC / angel investor graph (Bruce ask 2026-09-29; built
+2026-10-02T22:59:42.841383Z,io.github.lawrence3699/jev-style,Jev-Style,0.4.0,https://github.com/lawrence3699/jev-style,,"Local 2B and 0.8B decision models: calibrated yes/no, choice and score answers for your agent."
+2026-10-02T23:04:29.42183Z,dev.workers.fhi-llc-1118.polished-truth-c514/fhi-x402-security-tools,FHI MCP Server Security Audit,1.3.0,,streamable-http,"Free payment guide and Base-USDC x402 MCP security, package, domain, and SEC tools."
+2026-10-02T23:05:29.83519Z,io.github.Gillinghammer/phonescreen,PhoneScreen,1.0.0,,streamable-http,"Score resumes, screen candidates by phone, and check references from your AI assistant."
+2026-10-02T23:11:23.907652Z,com.braxos/maestro,braXos Maestro,1.0.4,,streamable-http,"Governed access to your org's systems (Salesforce, Workday, CCure, Genetec, Zoom, etc.) via braXos."
+2026-10-02T23:11:26.601904Z,com.vuntum/mcp,Vuntum,0.1.0,https://github.com/RAAAAAGEEEEE/vuntum-mcp,streamable-http,"Sourced, dated data on consumer robots and physical AI: specs, prices, availability, evidence."
+2026-10-02T23:14:18.796317Z,io.github.chucho-ai/chucho,chucho — Book Direct,0.1.7,,streamable-http,"Find vacation rentals, explore photos and property details, and open direct host booking links."
+2026-10-02T23:15:15.929032Z,io.github.Space-Markets-HQ/smx-mcp,SMX by Space Markets (testnet),0.1.2,,,SMX (Space Markets) testnet event markets and the Space Markets Index (SMI). Base Sepolia only.
+2026-10-02T23:15:55.024762Z,guide.smm/catalog,smm.guide,1.0.0,,streamable-http,"SMM panel catalog: cheapest services across panels, Trust Scores, reviews, comparisons, panel tools"
+2026-10-02T23:16:26.333819Z,me.agentworld/agentworld-mcp,AgentWorld — Live AI Agent Economy,1.0.0,https://github.com/shawnhvac/agentworld-mcp.git,streamable-http,"Live AI agent economy on Base L2: agents, credit files, games, jobs, crypto news, x402 USDC tools."
