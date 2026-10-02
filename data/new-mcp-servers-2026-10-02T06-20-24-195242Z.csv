@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-02T05:19:21.903731Z,io.github.hydrojwh/promptready-mcp,,0.4.0,https://github.com/hydrojwh/promptready-mcp,,Convert PDF/CSV to Markdown with AI-powered OCR via the PromptReady cloud API.
+2026-10-02T05:19:47.550355Z,io.github.AmauryDvl/12backlinks,12Backlinks,1.0.0,,streamable-http,"How many referring domains to reach Google page 1 for a keyword: top 10 median, range, significance."
+2026-10-02T05:26:32.178275Z,io.github.Tommkruix/archprint,Archprint,0.8.3,https://github.com/Tommkruix/archprint,,"Mine the architecture rules your TypeScript repo already enforces, with the evidence attached."
+2026-10-02T05:33:00.634741Z,website.ansi/ansi,ansi: video downloader and transcripts,1.0.0,,streamable-http,"Download video and audio from TikTok, YouTube, Instagram and 1800+ sites; get transcripts."
+2026-10-02T05:34:11.000736Z,io.github.TotesMagotes/mcp-server-auth,ExpenseBot,0.6.26,https://github.com/TotesMagotes/expensebot-mcp,streamable-http,"Receipt ingestion, Gmail capture, expense analysis, and reviewed reports for AI-agent workflows."
+2026-10-02T05:34:11.697007Z,dev.versionly/mcp,Versionly,1.0.0,https://github.com/WoWSQL/versionly-cursor-plugin,streamable-http,"Monitor third-party API changes in GitHub repos, map breaks to files, open reviewable auto-fix PRs."
+2026-10-02T05:34:20.10993Z,ai.powerline/email-tools,Powerline Email Tools,1.0.0,,streamable-http,"Email deliverability checks: SPF, DKIM, DMARC, BIMI, MTA-STS, blacklists, headers, spam words"
+2026-10-02T05:34:35.195774Z,io.github.5dive-ai/5dive-mcp,,0.2.0,https://github.com/5dive-ai/5dive-mcp,,"Expose the 5dive agent-fleet CLI (tasks, agents, digest) as MCP tools, over stdio or HTTP."
+2026-10-02T05:40:16.416269Z,io.github.spacecowboyian/brains,,1.94.1,https://github.com/spacecowboyian/brains,,"Personal wiki and memory for AI assistants: store, search, and recall structured notes."
+2026-10-02T05:41:27.503618Z,io.github.gauravvvvvvvvvv/office-mcp,Office MCP,0.10.2,https://github.com/gauravvvvvvvvvv/office-mcp,,"Local Windows MCP server for creating and reviewing Excel, Word, and PowerPoint files."
+2026-10-02T05:54:30.151036Z,com.threebillions.yunseul/saju,윤슬 Yunseul — 사주 만세력,1.0.0,,streamable-http,"Korean Saju (Four Pillars) calculator: birth chart, day pillar, luck flow, monthly fortune"
+2026-10-02T05:56:23.28929Z,de.immobilieneichmann/listings,Immobilien Eichmann – Angebote,1.0.0,https://github.com/ChristianHohlfeld/eichmannimmobilien,streamable-http,"Live MCP for Immobilien Eichmann listings (Konstanz). Tools: search_listings, get_listing."
+2026-10-02T05:57:15.55386Z,ai.twelfth/workspace,Twelfth,1.0.0,,streamable-http,"Read Twelfth workspace products, sales, inventory, suppliers, pricing, projects and actions."
+2026-10-02T06:01:23.732469Z,com.a2awire/benchmark-resume-audit-2026-10-02-66514bc8,Accounts Payable — Resume Audit — Verdant Springs Services Group (66514bc8),1.0.0,https://github.com/ee324/a2awire,streamable-http,"12 synthetic resume exception cases: duplicate payments, important watch list entries, missing rate"
+2026-10-02T06:08:29.074382Z,io.github.aoreshkov/kotlin-lib-mcp,Kotlin & Java Library Sources,0.7.0,https://github.com/aoreshkov/kotlin-lib-mcp,,"Kotlin/Java library sources, public API and KDoc from the real Maven sources jar, for AI agents"
+2026-10-02T06:15:36.467835Z,money.bankbridge/server,BankBridge,1.0.1,https://github.com/bankbridge-money/bankbridge-plugin,streamable-http,"Read-only bank access for your AI agent. Connects Claude, ChatGPT, Cursor, Gemini, Codex."
+2026-10-02T06:20:02.108153Z,com.stackscan/mcp-server,,0.4.0,https://github.com/stackscan/stackscan-mcp,,"Look up the technology stack behind any domain, and the company running it."
