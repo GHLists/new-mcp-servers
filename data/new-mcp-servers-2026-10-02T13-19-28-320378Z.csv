@@ -1,0 +1,35 @@
+created_at,server,title,version,repository,transports,description
+2026-10-02T12:19:29.931195Z,io.boim/vendors,BOIM Korea Vendor Directory,2.0.0,,streamable-http,"Korean sign, signage, traffic-safety & print vendors from public procurement and apartment bid data."
+2026-10-02T12:20:26.080125Z,com.twitterxapi/mcp,TwitterXAPI,1.0.0,,streamable-http,"Public X profiles, posts, conversations, followers, search, lists, trends, and communities."
+2026-10-02T12:21:40.450044Z,io.github.P2Flux/mcp,,0.3.1,https://github.com/P2Flux/mcp,streamable-http,Let your AI assistant pay for web content in USDC (x402) within a budget you set.
+2026-10-02T12:22:02.656511Z,io.github.ethan-hub26/embedcalc-mcp,,0.6.1,https://github.com/ethan-hub26/embedcalc-mcp,,"Embedded calculators, codegen & schematic review: CRC, timing, struct, IEEE-754, KiCad."
+2026-10-02T12:22:33.306175Z,com.skateboardpersonalizado/skateboard-deck,Skateboard Personalizado,1.0.0,,streamable-http,"Turn your artwork into a real custom skateboard deck, shown assembled in 3D, with a link to order."
+2026-10-02T12:23:29.062747Z,io.github.felipebasurto/viajante,Viajante,1.3.1,https://github.com/felipebasurto/viajante,,"Flight and hotel search for the terminal, Python, and AI assistants."
+2026-10-02T12:24:43.681678Z,net.tipmaster/consensus,,1.0.0,https://github.com/We-The-Flywheel/tipmaster-mcp,streamable-http,"Crowd football predictions from TipMaster players, per match. Read-only, no auth, no odds."
+2026-10-02T12:28:22.019515Z,ai.fabeo/fabeo,Fabeo,1.0.0,,streamable-http,"Make AI videos from chat: write, edit and render multi-scene branded videos with your Fabeo account."
+2026-10-02T12:33:54.284631Z,io.github.claimidx/claimidx,Claimidx,0.7.16,https://github.com/claimidx/claimidx,,Prior art for AI agents. init wires DID/MCP; claim --yes puts DID on commons (ask alone does not).
+2026-10-02T12:35:19.378997Z,io.github.Lazige/modelcostcomparison,ModelCostComparison,1.0.1,https://github.com/Lazige/modelcostcomparison-mcp,streamable-http,"Find AI model pricing, estimate token costs and compare offers. No API key required."
+2026-10-02T12:38:27.825907Z,io.github.shanethelion/glazing-mcp,Glazing Knowledge MCP,0.2.0,https://github.com/shanethelion/glazing-mcp,streamable-http,"Commercial glass & glazing reference for AI agents: code limits, glass data, product equivalents."
+2026-10-02T12:42:16.441279Z,com.peerpush/peerpush,PeerPush,1.4.0,,streamable-http,"Find and compare software, SaaS, developer, and AI tools: alternatives, pricing, platforms, trends."
+2026-10-02T12:44:34.239749Z,fr.estimatiz.www/estimatiz,Estimatiz,1.0.0,,streamable-http,"French property estimates from DVF sales, with price range, limitations and a shareable report."
+2026-10-02T12:46:53.161494Z,io.github.granitebps/twitter-mcp,Twitter/X MCP,1.0.2,https://github.com/granitebps/twitter-mcp,,"Read public X posts, replies, profiles, and search results through Rettiwt or the official API."
+2026-10-02T12:47:14.272017Z,com.sotogoal/sotogoal,SotoGoal,0.1.0,,streamable-http,"Goal-centered work management: read and write goals, tasks and notes, and decide what to do next."
+2026-10-02T12:47:22.869578Z,io.github.nntoan/figma-mcp-rust,,0.1.0,https://github.com/nntoan/figma-mcp-rust,,"Figma MCP server in Rust: plugin bridge, no API token, no rate limits, 73 tools."
+2026-10-02T12:47:35.915828Z,io.github.BeppeTemp/cartographer,Cartographer,0.18.0,https://github.com/BeppeTemp/cartographer,,"Governance MCP server for agent-maintained knowledge bases (OKF): git-backed writes, search, lint."
+2026-10-02T12:54:14.738445Z,io.github.francosmit94-web/aether,Aether: Base onchain data & token risk (x402),4.0.0,,streamable-http,"Base token risk (honeypot sim), prices, balances, Basenames, tx data. Pay-per-call in USDC via x402."
+2026-10-02T12:54:52.150178Z,com.onefindme/search,OneFindMe,1.0.0,,streamable-http,"Search AliExpress in any language: real listings with price, rating, orders and links."
+2026-10-02T12:55:55.879603Z,io.github.adkit/ads,"Ads Manager by AdKit: Google Ads, Meta Ads, TikTok Ads, LinkedIn Ads",1.0.6,https://github.com/adkit/ads-mcp,streamable-http,"PPC advertising on Google Ads, Meta Ads (Facebook Ads), TikTok Ads, LinkedIn Ads, Reddit Ads & more."
+2026-10-02T12:56:05.024944Z,tech.thecompound/parserail-mcp,,0.5.6,,,"Documents to schema-valid JSON plus 38 more finished-job AI tools, on one credit wallet."
+2026-10-02T12:58:32.499044Z,dev.workers.polypulse-x402.api/polypulse,PolyPulse: Polymarket odds & movers,1.2.0,,streamable-http,"Live Polymarket odds, 1h/24h movers, top markets. Free previews; full data via x402 USDC on Base."
+2026-10-02T12:59:32.801113Z,io.github.nil335577/agent-nil,Agent Nil — Act 0,0.2.0,,streamable-http,"Talk to Agent Nil before the Chain opens. Daily challenges. No wallets, no tokens, only the game."
+2026-10-02T13:04:18.831917Z,fi.lanetti/oma,Lanetti,0.4.0,,streamable-http,"Run your Lanetti hosting from your AI agent: domains, DNS, sites, email, apps, backups and billing."
+2026-10-02T13:04:35.094215Z,io.github.scavio-ai/scavio-mcp,Scavio,0.15.0,https://github.com/scavio-ai/scavio-mcp,streamable-http,"Structured web data from 31 platforms: Google, YouTube, Amazon, Walmart, Reddit, TikTok, LinkedIn"
+2026-10-02T13:04:45.806316Z,com.mapltours/booking,MAPL Tours Jamaica,1.0.0,,streamable-http,"Private airport rides from Montego Bay (MBJ) to Jamaican hotels and villas, plus tours"
+2026-10-02T13:05:00.101939Z,ai.brainattic/knowledge-base,brainattic,4.0.0,,streamable-http,"The knowledge base your AI reads and writes, under your rules — over MCP, EU-hosted."
+2026-10-02T13:05:04.980952Z,io.aaly/aaly,Aaly,1.0.0,,streamable-http,Turn an app idea into entities and fields; Aaly serves a REST API with per-customer isolation.
+2026-10-02T13:07:04.123875Z,com.dataddo/mcp-data,Dataddo Data to AI,1.0.0,,streamable-http,"Connect LLMs to business data. Serve data from CRMs, databases, ERPs or SaaS apps via Dataddo MCP."
+2026-10-02T13:07:11.903059Z,com.prominara/prominara,,1.1.5,https://github.com/nseara/prominara-mcp,streamable-http,"GEO platform: track brand visibility, citations, sources and measurement verdicts across AI answers."
+2026-10-02T13:07:44.481359Z,io.github.jocarrd/aemet-mcp,,0.3.1,https://github.com/jocarrd/aemet-client,,"MCP server for AEMET: Spain's official forecasts, warnings, observations and climate data."
+2026-10-02T13:10:31.262735Z,jp.aile-ai/aile-jobs,@エール | Aile Jobs,0.1.0,,streamable-http,日本の掲載中・公開正社員求人の検索、求人詳細、職種別年収相場を提供する読み取り専用MCPサーバー
+2026-10-02T13:12:32.612592Z,ee.kohvrimaailm/shop,Kohvrimaailm luggage shop,1.0.0,,streamable-http; streamable-http,"Search in-stock suitcases and cabin bags (EUR prices), check airline cabin fit, store policies."
+2026-10-02T13:13:27.510492Z,io.github.charleskremer-hub/resolve402,Resolve402,0.1.1,,,French company directors with their probable business email. Pay per call via x402 (USDC).
