@@ -1,0 +1,36 @@
+created_at,server,title,version,repository,transports,description
+2026-10-02T01:23:09.310421Z,dev.currents/mcp,Currents,1.0.0,https://github.com/currents-dev/currents-mcp,streamable-http,Self-healing CI tests and proof of work for AI agents
+2026-10-02T01:23:52.657568Z,io.github.CoinRithm/mcp-trading,CoinRithm Agent Trading,0.7.15,https://github.com/CoinRithm/coinrithm-agent-trading,streamable-http,"Keyless prediction-market data across 12 venues plus paper-trading of crypto spot, futures, and PM."
+2026-10-02T01:24:36.356396Z,com.thetempleofdoom.draco/draco,,1.0.0,,streamable-http,Coding & security oracle grounded in 1855 real books. Cited answers via MCP.
+2026-10-02T01:28:41.984631Z,com.spryloom/spryloom,Spryloom,0.1.6,,,"Publish apps from Claude Code, Codex or Cursor to your team, behind sign-in, with a database."
+2026-10-02T01:30:10.429784Z,com.rewindmap/rewindmap,RewindMap,1.2.0,https://github.com/lisn0/rewindmap,streamable-http,Historical borders and dated map events with source attribution and coverage limits.
+2026-10-02T01:30:11.760961Z,com.xtrinel/vaast,,0.1.0,,,"Read-only access to VAAST vulnerability scan findings, workspaces, and targets for AI agents"
+2026-10-02T01:38:11.714271Z,com.feedhipppo/mcp,Hipppo,1.13.0,,streamable-http,"Search, organize, generate design guidance from, and reconstruct what you save in Hipppo."
+2026-10-02T01:44:20.389194Z,io.github.jbacalso24/mimry,MIMRY,0.2.1,https://github.com/jbacalso24/mimry,,"Local repo memory for coding agents: ranked files, context packs and a code graph for any task."
+2026-10-02T01:44:52.814305Z,ai.papyruslabs/seshat-mcp,,0.20.2,https://github.com/papyruslabs-ai/seshat-mcp,,"Structural code intelligence for AI agents: real call graphs, blast radius, and change history."
+2026-10-02T01:47:29.651621Z,com.veritahire/jobs,VeritaHire live jobs,1.0.0,,streamable-http,"Live US jobs from employers' own career sites, still-open checks, healthcare pay benchmarks."
+2026-10-02T01:49:06.68561Z,io.github.phasespace-labs/palinode,Palinode,0.22.0,https://github.com/phasespace-labs/palinode,,"Inspectable, correctable project memory in git-versioned Markdown for AI agents."
+2026-10-02T01:50:57.902738Z,io.railagent/railagent,Railagent,0.5.1,,streamable-http,Inbox for AI agents: one address per agent to message and share files.
+2026-10-02T02:02:25.931768Z,io.github.kar-thik/openproject-mcp-server,OpenProject,0.3.3,https://github.com/kar-thik/openproject-mcp,,"91 tools for the OpenProject API v3, with read-only, admin-gate, profile and per-group switches."
+2026-10-02T02:02:29.809643Z,com.a2awire/benchmark-application-audit-2026-10-01-6e0ad047,Finance Ops — Application Audit — Northgate Services Group (6e0ad047),1.0.0,https://github.com/ee324/a2awire,streamable-http,"12 synthetic application exception cases: duplicate reimbursements, claim hold list entries, missing"
+2026-10-02T02:06:34.137654Z,bot.bommel/bommel,Bommel Bot,1.0.0,,streamable-http,"Read-only public MCP for the Bommel Bot Feed, directory, and public lockers on bommel.bot."
+2026-10-02T02:07:23.928865Z,io.github.mrfentmen/hasura-mcp,,1.0.2,https://github.com/mrfentmen/awesome-mcps,,"MCP server for Hasura: metadata export, SQL passthrough. Works with any self-hosted instance."
+2026-10-02T02:07:26.682465Z,io.github.mrfentmen/migration-map-mcp,,1.0.2,https://github.com/mrfentmen/migration-map-mcp,,"Find local migration numbering gaps and rollback pairing signals without returning SQL, paths,..."
+2026-10-02T02:07:27.495332Z,io.github.mrfentmen/milvus-mcp,,1.0.2,https://github.com/mrfentmen/awesome-mcps,,"MCP server for Milvus: collections, stats, search. Works with any instance."
+2026-10-02T02:07:28.190962Z,io.github.mrfentmen/nodered-mcp,,1.0.2,https://github.com/mrfentmen/awesome-mcps,,"MCP server for Node-RED: flows, nodes. Works with any instance."
+2026-10-02T02:07:30.631837Z,io.github.mrfentmen/openapi-scout-mcp,,1.0.2,https://github.com/mrfentmen/openapi-scout-mcp,,Local read-only OpenAPI and Swagger inspection with secret-safe schema summaries. Tools include...
+2026-10-02T02:07:32.828873Z,io.github.mrfentmen/opensecrets-mcp,,1.0.2,https://github.com/mrfentmen/awesome-mcps,,MCP server for OpenSecrets: money in U.S. politics. Needs a free API key.
+2026-10-02T02:07:33.707918Z,io.github.mrfentmen/owncloud-mcp,,1.0.2,https://github.com/mrfentmen/awesome-mcps,,ownCloud OCS capabilities and file sharing.
+2026-10-02T02:07:34.392215Z,io.github.mrfentmen/segaretro-mcp,,1.0.3,https://github.com/mrfentmen/segaretro-mcp,,"Use this MCP server to Sega Retro, every Sega game, console, and unreleased hardware. Tools..."
+2026-10-02T02:07:35.417632Z,io.github.mrfentmen/smithsonian-mcp,,1.0.2,https://github.com/mrfentmen/awesome-mcps,,"MCP server for Smithsonian collections: artifacts, art, specimens. Free key."
+2026-10-02T02:07:37.828497Z,io.github.mrfentmen/sourceforge-mcp,,1.0.2,https://github.com/mrfentmen/awesome-mcps,,"Keyless MCP server for SourceForge: projects, files, stats."
+2026-10-02T02:07:39.504619Z,io.github.mrfentmen/statping-mcp,,1.0.2,https://github.com/mrfentmen/premium-mcps,,"Service rollup, ports, DNS propagation and TLS chains - no API key."
+2026-10-02T02:07:40.204677Z,io.github.mrfentmen/statuscake-mcp,,1.0.3,https://github.com/mrfentmen/premium-mcps,,"Uptime, TCP port, SSL chain and DNS propagation checks - no API key."
+2026-10-02T02:07:41.52346Z,io.github.mrfentmen/synoptic-mcp,,1.0.2,https://github.com/mrfentmen/awesome-mcps,,Synoptic stations: search and time series.
+2026-10-02T02:07:42.297347Z,io.github.mrfentmen/trove-mcp,,1.0.2,https://github.com/mrfentmen/awesome-mcps,,"MCP server for Trove: Australian books, news, images. Needs a free API key."
+2026-10-02T02:07:43.94305Z,io.github.mrfentmen/weatherbit-mcp,,1.0.2,https://github.com/mrfentmen/awesome-mcps,,"Weatherbit API: current weather, forecasts, alerts, air quality."
+2026-10-02T02:09:21.269834Z,io.github.makash/agent-blast-radius,Agent Blast Radius,0.3.0,https://github.com/makash/agent-blast-radius,,Scan what an AI agent running as you can reach; optionally verify which keys are live (x402).
+2026-10-02T02:09:45.845232Z,io.github.Foresee-Tech/foresee,Foresee,4.0.0,https://github.com/Foresee-Tech/foresee,streamable-http,Let AI assistants shop for home and auto insurance: compare quote estimates across every carrier.
+2026-10-02T02:16:38.697133Z,ai.magnemo/magnemo,Magnemo,0.6.7,https://github.com/magnemo-ai/magnemo,,"Governed memory for AI agents. Memory with receipts. Local, plain files, zero network calls."
+2026-10-02T02:18:37.708995Z,com.schellingaf/schellingaf,Schelling Add Forward,0.1.0,https://github.com/SchellingAF/schelling,streamable-http; streamable-http,"Communication and persistent state for AI agents: spaces, posts, search, mailbox, direct messages."
+2026-10-02T02:20:23.403498Z,io.github.underloam/xbbg-mcp,xbbg MCP,1.5.0,https://github.com/underloam/xbbg,,Local Bloomberg tools for xbbg users.
