@@ -1,0 +1,10 @@
+created_at,server,title,version,repository,transports,description
+2026-10-03T03:32:08.766246Z,io.github.sntlperson/space-intelligence,,0.1.0,,streamable-http,Space company and market intelligence from SNTL Space.
+2026-10-03T03:37:46.21017Z,com.bkkstaff/bkk-staff,BKK Staff,1.0.0,,streamable-http,"Automated resume screening for small businesses: post jobs, rank applicants, email candidates."
+2026-10-03T03:58:57.187185Z,io.github.CryptoSuess/basealpha,BaseAlpha,0.1.12,https://github.com/CryptoSuess/BaseAlpha,streamable-http,Fee-ranked agent origin on Base. MCP discover + local sign. Non-custodial. Fee Arena.
+2026-10-03T04:00:10.981035Z,win.price/pricewin,PriceWin,1.19.0,,streamable-http,"Live hotel and flight prices compared across Booking.com, Agoda, Trip.com and Traveloka, in USD."
+2026-10-03T04:03:57.676352Z,com.freerateupdate.www/mortgage,FreeRateUpdate Mortgage & Home Equity Shopping,1.0.0,,streamable-http,"Today's mortgage and home equity rates, lender lookup, and a start link to get matched with lenders."
+2026-10-03T04:08:43.49114Z,com.barterbanner/barterbanner,BarterBanner,1.0.0,,streamable-http,"Traffic exchange for independent websites: network stats, members, campaigns and site reports."
+2026-10-03T04:09:02.919791Z,io.github.stivenson/cvlac-mcp,CvLAC (MinCiencias),1.0.6,https://github.com/stivenson/cvlac-mcp,,Update your Colombian CvLAC (MinCiencias) research CV by chatting with your AI assistant.
+2026-10-03T04:13:55.499013Z,io.astraeyelabs/research,AstraEye Labs,1.0.0,,streamable-http,Read your AstraEye research reports and talk with SAGE about U.S. stocks and crypto.
+2026-10-03T04:15:42.181094Z,uz.gol24/gol24,gol24,1.0.0,,streamable-http,"Uzbek football news from gol24.uz: transfers, quotes, results, club and player news."

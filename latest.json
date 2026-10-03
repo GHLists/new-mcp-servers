@@ -450,6 +450,7 @@
     "com.aviansuite/stellar-jay",
     "com.azurade/mcp",
     "com.bangermail/banger",
+    "com.barterbanner/barterbanner",
     "com.bazous/bazous",
     "com.beachvalencia/booking",
     "com.beleeg/beleeg",
@@ -459,6 +460,7 @@
     "com.birkinbagstock/mcp",
     "com.bitterclip/bitterclip",
     "com.bjjsquare/bjjsquare",
+    "com.bkkstaff/bkk-staff",
     "com.blackveilsecurity/dns",
     "com.blockvectra/docs",
     "com.bluecat/micetromcp",
@@ -601,6 +603,7 @@
     "com.formbuilder/formbuilder",
     "com.found17/found17",
     "com.fplcopilot/fpl-copilot",
+    "com.freerateupdate.www/mortgage",
     "com.frontstat/visibility",
     "com.fuelazores/fuel-prices",
     "com.furringline.mcp/furringline",
@@ -1378,6 +1381,7 @@
     "io.aoapps/mcp",
     "io.apptail/apptail",
     "io.asktheswarm/asktheswarm",
+    "io.astraeyelabs/research",
     "io.boim/vendors",
     "io.boonful/studio",
     "io.bootify/mcp",
@@ -1573,6 +1577,7 @@
     "io.github.Contentrain/contentrain",
     "io.github.Continuum-AI-Corp/orcareplay",
     "io.github.Creed-Space/mettle-mcp",
+    "io.github.CryptoSuess/basealpha",
     "io.github.D4umak/heylead",
     "io.github.DMontgomery40/bambu-printer-mcp",
     "io.github.Dahliyaal/justicelibre",
@@ -3536,6 +3541,7 @@
     "io.github.smrht/backlinksbeheer",
     "io.github.smrht/klussenbeheer",
     "io.github.smtping/smtping-mcp",
+    "io.github.sntlperson/space-intelligence",
     "io.github.soke1556/zas-agent",
     "io.github.solsolettidev/nats-trail",
     "io.github.soyeladice-svg/burs-ia",
@@ -3554,6 +3560,7 @@
     "io.github.steffanricardo/the-dutch-directory",
     "io.github.stevecrates489-commits/tokcalc",
     "io.github.sthan-io/mcp-server",
+    "io.github.stivenson/cvlac-mcp",
     "io.github.stonianua/neither-mcp",
     "io.github.stophydotdev/mcp",
     "io.github.stringsofthemind-oss/once",
@@ -4247,6 +4254,7 @@
     "us.spacenexus/spacenexus",
     "us.stratly/townsquare",
     "us.thistripbtw/trips",
+    "uz.gol24/gol24",
     "uz.pactum/legal",
     "video.alto/alto",
     "video.arclight.download/consegna",
@@ -4257,6 +4265,7 @@
     "wedding.aisle/aisle",
     "wiki.dexio/dexio",
     "win.matchwire/mapping",
+    "win.price/pricewin",
     "world.agentindex/x402",
     "world.mellow.www/hub",
     "world.staylist/staylist",
@@ -4277,11 +4286,11 @@
     "za.co.cryptodecentral/sovereign"
   ],
   "list": {
-    "count": 15,
-    "from": "2026-10-03T02:19:33.185464Z",
-    "path": "data/new-mcp-servers-2026-10-03T03-20-06-182508Z.csv",
-    "to": "2026-10-03T03:20:06.182508Z"
+    "count": 9,
+    "from": "2026-10-03T03:20:06.182508Z",
+    "path": "data/new-mcp-servers-2026-10-03T04-19-00-669232Z.csv",
+    "to": "2026-10-03T04:19:00.669232Z"
   },
   "source_truncated": false,
-  "window": "2026-10-03T03:20:06.182508Z"
+  "window": "2026-10-03T04:19:00.669232Z"
 }
