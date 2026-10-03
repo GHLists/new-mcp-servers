@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-10-03T04:20:46.815604Z,io.github.Fino-wind/vaultbeat-apple-health,,0.9.0,https://github.com/Fino-wind/vaultbeat-apple-health,,"Your AI agent reads your Apple Health data: sleep, HRV, cycle, workouts. Decrypted on your machine"
+2026-10-03T04:22:51.028949Z,io.github.influence-so/influence-mcp,Influence,0.1.0,,streamable-http,"Draft, review, schedule or publish approved social posts, and check publishing status."
+2026-10-03T04:30:49.481722Z,io.github.bytevirts/everygen,Everygen,1.0.0,https://github.com/bytevirts/everygen-mcp,streamable-http,"Create images, videos, narration, music and multi-shot video projects with Everygen."
+2026-10-03T04:32:14.033936Z,uz.eko-iksi/eko-iksi-fertility-clinic,EKO-IKSI Fertility Clinic,1.0.0,,streamable-http,"Fertility clinic in Tashkent: prices, services, doctors, articles and contacts in uz, ru, en."
+2026-10-03T04:36:15.505476Z,ai.tokenos/wallet-inspector,TokenOS Wallet Inspector,1.0.1,,streamable-http,"Wallets, tokens, rug checks"
+2026-10-03T04:36:15.954756Z,ai.tokenos/gas-tracker,TokenOS Gas & Fee Tracker,1.0.1,,streamable-http,Live fees on five chains
+2026-10-03T04:36:16.370976Z,ai.tokenos/dapp-builder,TokenOS dApp Builder,1.0.1,,streamable-http,Idea to buildable dApp spec
+2026-10-03T04:36:16.765162Z,ai.tokenos/tokenomics-designer,TokenOS Tokenomics Designer,1.0.1,,streamable-http,Allocation & vesting design
+2026-10-03T04:36:17.200921Z,ai.tokenos/token-launch-planner,TokenOS Token Launch Planner,1.0.1,,streamable-http,Plan a Solana token launch
+2026-10-03T04:36:17.543445Z,ai.tokenos/contract-audit,TokenOS Smart Contract Audit,1.0.1,,streamable-http,Scan Solidity & Anchor code
+2026-10-03T04:39:08.698723Z,ai.feedboss/feedboss,FeedBoss,1.0.0,,streamable-http,"LinkedIn content team: writes in your voice, makes brand visuals, schedules posts, tracks results."
+2026-10-03T04:44:27.22946Z,io.github.noeto-tasks/noeto-mcp,Noeto,0.6.2,https://github.com/noeto-tasks/noeto-mcp,,"Work a Noeto kanban board: read and search it, create, move and comment on cards, keep docs on them."
+2026-10-03T04:47:14.475332Z,io.github.john-broadway/proximo-proxmox,Proximo — the Proxmox MCP you can hand the keys,0.44.1,https://github.com/john-broadway/proximo,,"The Proxmox MCP you can hand the keys: VE/PBS/PMG/PDM. Plan, prove, undo, diagnose. MCP/A2A/API."
+2026-10-03T04:48:53.691059Z,com.alderflux/msgmesh,MsgMesh,0.1.9,,,"Event bus for AI agents: watch_topic long-polls live events; manage topics, schemas, webhooks."
+2026-10-03T04:54:47.88163Z,io.github.kaditang/agent-wallet-mcp,,0.3.3,https://github.com/kaditang/agent-wallet-mcp,,"Non-custodial Solana MCP: compare yields, buy tokenized US stocks (xStocks) & Ondo USDY. You sign."
+2026-10-03T04:55:09.481392Z,io.github.itseez3d/craftstory-mcp,CraftStory,0.1.4,https://github.com/itseez3d/craftstory-mcp,,Talking-avatar videos from a photo (CraftStory 2.0) and short clips with sound (MiniMax H3).
+2026-10-03T04:58:50.2949Z,app.wenbu/mcp,Wenbu · 问卜,1.3.0,https://github.com/Digidai/wenbu,streamable-http,"Free BaZi, I Ching, tarot, Zi Wei and bilingual learning tools with transparent methods. No API key."
+2026-10-03T04:59:38.397293Z,dev.certdesk/certdesk,certdesk,0.4.0,,streamable-http,"TLS cert verdict (OK/WARN/CRITICAL/UNKNOWN) from the served chain: expiry, revocation, alerts"
+2026-10-03T05:02:59.109689Z,io.github.GoatInAHat/toolfactory,,0.4.3,https://github.com/GoatInAHat/toolfactory,,"Build an agent tool once; ship it as Agent Skills, MCP servers, Agent Plugins / Claude / Codex"
+2026-10-03T05:06:04.90873Z,io.github.krauqllc/ufo-cli,Universal File Opener CLI,1.5.1-1,https://github.com/krauqllc/ufo-cli,,"Inspect files, extract content and make guarded edits locally. Linux x86_64, glibc 2.35+."
+2026-10-03T05:08:21.315391Z,app.commandmail/mail,Command Mail,0.2.0,https://github.com/FYN-Labs/commandmail-plugin,streamable-http,"One inbox for all your addresses: your AI agent reads, sorts, drafts and sends with your permission."
+2026-10-03T05:18:19.844498Z,com.xenition.api/xenition,Xenition,0.2.0,,streamable-http,"Docs, decks, forms, apps you build and deploy, automations, and AI images, video and voice."
