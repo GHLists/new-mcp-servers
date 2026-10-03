@@ -9,34 +9,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 08:20 UTC
+## Latest list — 2026-10-03 09:20 UTC
 
-New MCP servers published between 2026-10-03 07:21 UTC and 2026-10-03 08:20 UTC.
+New MCP servers published between 2026-10-03 08:20 UTC and 2026-10-03 09:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-03T08-20-24-491921Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-03T09-20-40-212772Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-03 07:23:58 | [io.github.internetdata/mcp](https://github.com/internetdata/mcp) | InternetData | 2.2.2 | List InternetData's IP and ASN databases, your license for each, what one holds… |
-| 2026-10-03 07:26:20 | com.getlinkintel/linkintel | LinkIntel | 1.0.0 | Evidence for your AI's next X post: your post metrics, X ranking weights and ch… |
-| 2026-10-03 07:29:39 | io.sslip.169.126.216.95/sol-defi-desk | sol-defi-desk | 0.1.10 | Paid Solana token safety checks over Streamable HTTP MCP (x402 USDC). |
-| 2026-10-03 07:34:06 | [so.upstream/upstream](https://github.com/upstream-so/upstream-mcp) | Upstream.so | 1.0.2 | Manage 24/7 live streams, media, playback queues, schedules, and multistreaming… |
-| 2026-10-03 07:43:23 | io.github.yemyat/save-this-one | Save This One | 1.0.0 | Save, search, read, tag, and organize your bookmarks from AI assistants with OA… |
-| 2026-10-03 07:45:31 | [io.github.jojo-labs/smart-web](https://github.com/jojo-labs/smart-web) | smart-web | 0.44.1 | smartfetch direct-URL fetch, smartsearch web discovery, smartcrawl sites, and d… |
-| 2026-10-03 07:47:51 | [io.github.vpndetection-io/mcp](https://github.com/vpndetection-io/mcp) | VPNDetection | 5.3.6 | VPN, proxy, Tor, hosting and CDN detection for any IP address, from the VPNDete… |
-| 2026-10-03 07:49:50 | [io.github.Craig-Horton/aibvf-mcp](https://github.com/Craig-Horton/ai-bvf) |  | 0.14.13 | AI BVF: score AI portfolios Stop/Fix/Accelerate with decision confidence and pa… |
-| 2026-10-03 07:50:17 | [io.github.depper-IA/kommo-kiro-power](https://github.com/depper-IA/kommo-kiro-power) | Kommo CRM | 1.0.2 | Manage Kommo CRM leads, contacts, pipelines, tasks, notes, tags and companies. |
-| 2026-10-03 07:50:27 | [io.github.simonmak-ascent/valuation-skills](https://github.com/simonmak-ascent/valuation_skills) | Valuation Skills MCP Server | 0.1.1 | Valuation MCP: DCF/NAV/CCA, cost of capital, derivatives, credit risk, report r… |
-| 2026-10-03 07:55:16 | [com.xposedornot/xposedornot](https://github.com/XposedOrNot/XposedOrNot-API) | XposedOrNot Breach Intelligence | 2.0.0 | Real-time data-breach lookup and analytics for emails and domains from XposedOr… |
-| 2026-10-03 07:56:26 | [io.github.simonmak-ascent/fair-value](https://github.com/simonmak-ascent/fair-value) | Fair Value MCP Server | 0.2.0 | Valuation MCP: DCF/NAV/CCA, cost of capital, derivatives, credit risk, report r… |
-| 2026-10-03 08:02:22 | [io.github.pavellunev/appmetrica-mcp](https://github.com/pavellunev/app_metrica_mcp) |  | 0.3.0 | AppMetrica (Yandex) analytics: reports, funnels, segments, dashboards, logs exp… |
-| 2026-10-03 08:04:44 | [io.github.justrouting/justrouting](https://github.com/justrouting/mcp) | JustRouting MCP Server | 0.1.5 | Road routing, travel-time matrices, geocoding, and fleet optimization for South… |
-| 2026-10-03 08:05:10 | [io.github.sepehr071/digikala-mcp](https://github.com/sepehr071/digikala-mcp) | Digikala | 0.1.0 | Unofficial read-only Digikala: search products, compare sellers, price history,… |
-| 2026-10-03 08:05:15 | [io.github.sepehr071/masterkala-mcp](https://github.com/sepehr071/masterkala-mcp) | MasterKala | 0.1.0 | Unofficial read-only MasterKala: search gadgets, compare prices and specs, stoc… |
-| 2026-10-03 08:05:16 | [io.github.sepehr071/technolife-mcp](https://github.com/sepehr071/technolife-mcp) | Technolife | 0.1.0 | Unofficial read-only Technolife: search electronics, compare sellers and instal… |
-| 2026-10-03 08:15:19 | [io.github.alliecatowo/git-why](https://github.com/alliecatowo/git-why) | Git Why | 0.1.1 | Finds the Git commits that explain why code is the way it is: semantic and full… |
-| 2026-10-03 08:15:35 | [io.github.Kay0sstheory/currensor](https://github.com/Kay0sstheory/Currensor) | Currensor | 1.0.0 | Live currency conversion for 166 currencies, shown as an interactive in-chat ca… |
-| 2026-10-03 08:17:49 | [io.github.voronkovd/pocket-master-mcp](https://github.com/voronkovd/pocket-master-mcp) | Sonicake Pocket Master | 0.1.0 | Control a Sonicake Pocket Master guitar processor over USB MIDI: amps, effects… |
+| 2026-10-03 08:21:27 | app.getjopp/jobs | jopp | 1.0.0 | Search open jobs in Switzerland and Liechtenstein and read jopp job briefs. |
+| 2026-10-03 08:22:09 | [io.github.TheCompanyAtlas/florida-sunbiz](https://github.com/TheCompanyAtlas/florida-sunbiz-mcp) | Florida Sunbiz Company & Officer Data | 1.0.0 | Florida Sunbiz corporation, LLC and non-profit search with officer and register… |
+| 2026-10-03 08:23:52 | [io.github.TheCompanyAtlas/uae-company](https://github.com/TheCompanyAtlas/uae-company-mcp) | UAE Company Registry | 1.0.0 | UAE trade-licence company search by English/Arabic name, emirate, legal type an… |
+| 2026-10-03 08:27:41 | es.deniaprint/print-shop | Denia Print | 1.1.0 | Print shop in Spain: products, exact prices, quote requests and order status fo… |
+| 2026-10-03 08:28:48 | [io.github.tapcolorapp/tapcolor](https://github.com/tapcolorapp/tapcolor-mcp) |  | 1.0.1 | Browse TapColor coloring categories and collections — for AI assistants. |
+| 2026-10-03 08:30:26 | ai.pozeidon/pozeidon | Pozeidon | 1.0.0 | Analyse ads and manage creatives across Meta, Google Ads, AppLovin, Unity, Mint… |
+| 2026-10-03 08:30:28 | [io.github.TheCompanyAtlas/singapore-acra](https://github.com/TheCompanyAtlas/singapore-acra-mcp) | Singapore ACRA Company & UEN Lookup | 1.0.0 | Singapore ACRA (Bizfile) company search by name, UEN, SSIC industry code, entit… |
+| 2026-10-03 08:36:20 | online.viraldecoder/viraldecoder | ViralDecoder | 1.0.0 | Why short videos go viral, and a script for yours |
+| 2026-10-03 08:36:36 | ch.spickme/swiss-public-transport | Spick Me — Swiss public transport | 1.0.0 | Swiss trains, trams, buses and boats: journeys door to door, departures, day tr… |
+| 2026-10-03 08:42:31 | [io.github.TheCompanyAtlas/uganda-ursb](https://github.com/TheCompanyAtlas/uganda-ursb-mcp) | Uganda URSB Company, Director & Shareho… | 1.0.0 | Uganda URSB company search by name and BRN, with director, secretary and shareh… |
+| 2026-10-03 08:42:50 | dev.noddle/board | noddle board | 1.0.0 | Read, create and edit noddle diagram boards, browse versions and comment as an… |
+| 2026-10-03 08:43:26 | [ai.orangepro/mcp](https://github.com/OrangeproAI/orangepro-mcp) | OrangePro | 0.2.46 | Find test gaps, generate grounded tests, and dynamically prove behavior with mu… |
+| 2026-10-03 08:46:27 | [dev.imagestep/mcp](https://github.com/imagestep/imagestep-sdk) | ImageStep | 0.1.0 | The image pipeline for agents: presets, assets and jobs. Answers with asset ids… |
+| 2026-10-03 08:48:01 | com.heffl/free-tools | Heffl Free Tools | 1.1.0 | Free email verification, business calculators, UAE estimates and drafts. No API… |
+| 2026-10-03 08:51:36 | [com.kunkafa/kunkafa](https://github.com/Kareemfarid/kunkafa-mcp) | Kunkafa | 1.0.0 | Market forecasts with their own track record, inside Claude, ChatGPT and other… |
+| 2026-10-03 08:51:50 | dev.linkdigest/linkdigest | LinkDigest — Xiaohongshu, Douyin, TikTo… | 1.0.3 | Douyin, Xiaohongshu, TikTok, YouTube, X links to text: transcript, screen text,… |
+| 2026-10-03 08:52:28 | com.extralingo/extralingo | Extralingo | 3.0.1 | Search language schools abroad, compare courses, dates and prices, and request… |
+| 2026-10-03 08:55:37 | [dev.noddle/draw](https://github.com/noddle-dev/noddle-draw) | noddle draw | 1.0.0 | Read, create and edit open-source noddle draw diagram boards, browse versions a… |
+| 2026-10-03 08:59:56 | app.koboshi/koboshi | Koboshi | 1.0.0 | Save vocabulary from any AI chat; see each word in every language you know; rev… |
+| 2026-10-03 09:00:08 | app.hooksend/instagram | HookSend | 1.0.0 | Instagram comment-to-DM automation your AI can set up and leave running, on the… |
+| 2026-10-03 09:00:34 | [app.m1k3/m1k3](https://github.com/Round-Tower/M1K3) | M1K3 | 1.0.0 | Private memory, documents, voice and a local LLM for your agents, served by a M… |
+| 2026-10-03 09:01:09 | net.spintax/mcp | spintax.net MCP server | 1.2.0 | Write, validate, render and analyze spintax templates. Backed by @spintax/core.… |
+| 2026-10-03 09:01:45 | [io.blogseo/blogseo](https://github.com/BlogSEO-io/blogseo-agent-plugin) | BlogSEO | 1.0.1 | SEO that executes: keywords, calendar, articles written, scored and published t… |
+| 2026-10-03 09:02:03 | [io.github.kaminari-ad/mcp](https://github.com/kaminari-ad/mcp) | Kaminari Ad | 0.24.2 | Real-device ad verification: malvertising and cloaking scans, AI policies, aler… |
+| 2026-10-03 09:07:13 | [io.github.abuhamza/tideways-mcp-server](https://github.com/abuhamza/tideways-mcp-server) | Tideways | 2.0.0 | Read-only access to Tideways PHP performance monitoring: performance, issues, t… |
+| 2026-10-03 09:08:48 | [io.github.TheCompanyAtlas/hong-kong-company](https://github.com/TheCompanyAtlas/hong-kong-company-mcp) | Hong Kong Company Registry 香港公司查冊 | 1.0.0 | Hong Kong Companies Registry search by English or Chinese name, BRN, company ty… |
+| 2026-10-03 09:08:59 | [io.github.TheCompanyAtlas/colorado-sos](https://github.com/TheCompanyAtlas/colorado-sos-mcp) | Colorado SOS Business Entity & Register… | 1.0.0 | Colorado Secretary of State business entity search with status and registered a… |
+| 2026-10-03 09:09:16 | [io.github.mikkelmanniche-dk/dk-regnskab-mcp](https://github.com/mikkelmanniche-dk/dk-regnskab-mcp) | Danish annual reports (CVR) | 0.3.2 | Key figures, history and all tagged facts from Danish companies' annual reports… |
+| 2026-10-03 09:13:42 | io.tightly/mcp | Tightly | 1.0.0 | Read Tightly stock, sales, suppliers and purchase orders, ask Tightly, and act… |
 
 ## Data source
 
