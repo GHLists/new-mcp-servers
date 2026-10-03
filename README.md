@@ -9,53 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 17:20 UTC
+## Latest list — 2026-10-03 18:20 UTC
 
-New MCP servers published between 2026-10-03 16:19 UTC and 2026-10-03 17:20 UTC.
+New MCP servers published between 2026-10-03 17:20 UTC and 2026-10-03 18:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-03T17-20-12-195507Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-03T18-20-43-171557Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-03 16:19:34 | [io.github.markopints34-tech/checkmypayrate](https://github.com/markopints34-tech/checkmypayrate) | CheckMyPayRate | 1.0.0 | Salary benchmarks for 20 countries and 13 sectors from OECD and Eurostat data. |
-| 2026-10-03 16:21:54 | app.vercel.stackfacts/stackfacts | Stackfacts | 0.2.0 | Neutral, sourced, dated facts for choosing software: price, free tier, idle rul… |
-| 2026-10-03 16:22:15 | [io.github.retracn/ai-visibility](https://github.com/retracn/ai-visibility-tracker) | AI Visibility Tracker (via Apify) | 1.0.0 | AI visibility for agents: is a brand mentioned and cited by Gemini, Claude and… |
-| 2026-10-03 16:23:51 | com.assimilatethis.bob/research-tools | Bob Research Tools | 1.0.0 | Paid web research, fact-check, page summary and extraction for AI agents (USDC… |
-| 2026-10-03 16:24:07 | [io.github.Jonahbkerr/yocoolab](https://github.com/Yocoolab/mcp-server) |  | 2.5.0 | Pin visual feedback on any live web page and send it to Claude Code, Cursor or… |
-| 2026-10-03 16:28:09 | africa.ugc/ugc | UGC, the Human Ad Network | 1.0.0 | The Human Ad Network. Campaigns, clipping, and Clip Studio from chat. |
-| 2026-10-03 16:30:26 | dev.stackfacts/stackfacts | Stackfacts | 0.2.1 | Neutral, sourced, dated facts for choosing software: price, free tier, idle rul… |
-| 2026-10-03 16:31:39 | [cloud.anythink/anythink](https://github.com/anythink-cloud/anythink-cli) | Anythink all-in-one backend: data, auth… | 0.2.22 | Sick of stitched-together services? Anythink is the all-in-one backend, configu… |
-| 2026-10-03 16:31:47 | com.pdfhaul.www/mcp | PDFHaul MCP | 1.3.0 | PDF tools: merge, split, compress, convert, OCR & more. Sign in with PDFHaul or… |
-| 2026-10-03 16:32:52 | [ai.ankimcp/anki-mcp-server-addon](https://github.com/ankimcp/anki-mcp-server-addon) | AnkiMCP Server | 0.31.0 | Anki addon that exposes your flashcard collection to AI assistants via a local… |
-| 2026-10-03 16:33:25 | xyz.dnaai/prediction-ledger | DNAAI prediction ledger | 1.0.0 | Read-only ledger of agent forecasts: events, rules, leaderboard, calibration. |
-| 2026-10-03 16:34:15 | com.clypmint/clypmint | Clypmint | 1.0.0 | Edit videos with AI: cuts, captions, B-roll and motion in a style you pick or c… |
-| 2026-10-03 16:36:56 | com.tiamatcrypto.sweetai/agent-intel | SweetAI — On-chain AI Agent Intelligence | 1.0.0 | On-chain AI agent intel: ERC-8004 identities, sybil forensics, liveness SLA. 11… |
-| 2026-10-03 16:38:00 | [io.github.lazyants/transkribus](https://github.com/lazyants/transkribus-mcp-server) |  | 4.1.0 | Transkribus REST and Processing APIs — collections, HTR/OCR; default v1, option… |
-| 2026-10-03 16:39:36 | [io.github.lazyants/lexware](https://github.com/lazyants/lexware-mcp-server) |  | 5.3.0 | MCP server for the Lexware Office API — invoices, contacts, articles, and vouch… |
-| 2026-10-03 16:39:56 | io.github.saulius876-lgtm/bing-search | Bing Search API | 1.0.0 | Bing web search results for AI agents: title, URL, snippet, date. Replaces the… |
-| 2026-10-03 16:42:41 | app.lexpad/lexpad | Lexpad | 1.0.0 | Your vocabulary notebook: save, browse, edit and practise your own words with s… |
-| 2026-10-03 16:44:25 | [io.github.letdraw/letdraw](https://github.com/letdraw/letdraw-mcp) | LetDraw | 1.0.0 | Create, edit, share and export hand-drawn LetDraw diagrams, from code or a prom… |
-| 2026-10-03 16:48:44 | [lat.watchtower/watchtower](https://github.com/connorlagana/watchtower) | Watchtower | 0.1.0 | Job alerts for AI agents: describe a role once, get only new postings from 1,00… |
-| 2026-10-03 16:51:33 | app.rowb.hk-transit/fares | HK Transit Cost — MTR fares and the gov… | 1.0.0 | Hong Kong MTR fares and the government fare subsidy, computed and recorded. |
-| 2026-10-03 16:53:12 | [com.jithox/jithox](https://github.com/victor-emmanuel-c/jithox-mcp) | Jithox | 1.1.0 | 8 invoice/payment tools; 5 free, no login. IBAN, bank changes, Peppol. Paid VAT… |
-| 2026-10-03 16:54:33 | [io.github.Pseudogiant-xr/pseudolife-mcp](https://github.com/Pseudogiant-xr/Pseudolife-MCP) | Pseudolife Memory | 0.16.0 | Persistent memory for MCP-compatible agents: memory bank, fact cortex, dreams,… |
-| 2026-10-03 16:55:55 | [io.github.raunakkathuria/lexilint](https://github.com/raunakkathuria/lexilint-mcp) |  | 1.2.0 | Offline spell checker + BYOK grammar for AI assistants. Works with Claude Deskt… |
-| 2026-10-03 16:55:57 | [io.github.imharikumaran/altimateguide](https://github.com/imharikumaran/altimateguide-agent-mcp) |  | 1.0.0 | Submit a tool to the Altimateguide directory for editorial review. |
-| 2026-10-03 16:56:49 | com.vextorium.api/vextorium | Vextorium | 1.0.0 | 500 pay-per-call data tools: on-chain (30+ chains), DeFi, markets, stats, compl… |
-| 2026-10-03 17:01:40 | app.tendersignal/tendersignal | TenderSignal | 0.1.0 | EU public tenders for AI agents: open tenders, award history, competitors and b… |
-| 2026-10-03 17:03:43 | io.github.founders-loralabs/premiss | Premiss | 0.2.1 | Create Python strategies and backtest crypto, stocks and ETFs in Claude. Premis… |
-| 2026-10-03 17:04:47 | [io.github.atlas26onchain/atlas-mcp](https://github.com/atlas26onchain/atlas-mcp) |  | 1.1.1 | Base token safety checks (honeypot test, liquidity, new launches), paid per cal… |
-| 2026-10-03 17:05:34 | [io.github.simoncoombes/tradefloor](https://github.com/simoncoombes/tradefloor) | tradefloor | 0.8.8 | Simulated stock markets that react to your orders: run, fork and score trading… |
-| 2026-10-03 17:11:12 | [io.github.ver-1000000/discord-rpc-mcp](https://github.com/ver-1000000/discord-rpc-mcp) | Discord RPC MCP | 1.0.0 | Read Discord channels, follow new messages and control calls from your AI assis… |
-| 2026-10-03 17:12:17 | [io.github.wazzapsenk/steamworks-mcp](https://github.com/wazzapsenk/steamworks-mcp) | Steamworks Release Assistant | 0.3.0 | Put a game on Steam: store page, achievements, Valve-rule checks, market data,… |
-| 2026-10-03 17:12:43 | [io.github.Milokucia/dex-isaac-mcp](https://github.com/Milokucia/dex-isaac-mcp) | Isaac Sim robot workbench | 0.1.1 | Drive a live Isaac Sim session: any robot, poses, gain tuning, range tests, Isa… |
-| 2026-10-03 17:14:05 | [com.neuronto/x402-payments-facilitator](https://github.com/neuronto/x402-starters) | Neuronto Payments: x402 facilitator and… | 1.1.0 | Put any API behind x402 in one call, settle USDC on Base, buy credits, find pai… |
-| 2026-10-03 17:17:41 | ar.com.consignatarias/cattle-market |  | 1.5.0 | Mercado ganadero argentino, gratis y sin cupo: INMAG, precios, dispersión, rema… |
-| 2026-10-03 17:18:04 | [io.github.alptugharun/ai-workbench-mcp](https://github.com/alptugharun/ai-workbench-mcp) | AI Workbench MCP | 0.1.0a1 | Read-only MCP server for reusable AI prompts and assistant blueprints. |
-| 2026-10-03 17:18:10 | com.jabbertoon/cartoon-studio | Jabbertoon cartoon studio | 1.0.0 | Free 2D cartoon studio: moves, characters and looks; check a cartoon; share lin… |
-| 2026-10-03 17:18:34 | dev.vivra/vivra | Vivra | 0.3.20 | An open town square: join, post, reply, and sign your work. Newcomer posts are… |
-| 2026-10-03 17:18:57 | world.tokenbank/tokenbank | TokenBank — tokenized real-world assets | 1.8.0 | 4,500+ tokenized real-world assets and stock perps — issuer, yield, rights, tar… |
-| 2026-10-03 17:19:54 | [io.github.4DA-Systems/4da-mcp-server](https://github.com/4DA-Systems/4DA) |  | 6.0.0 | Upgrade intelligence for AI agents: what an upgrade changes, where it touches y… |
+| 2026-10-03 17:23:19 | com.formslist/mcp | FormsList | 0.4.0 | Form backend for AI agents: create live form endpoints, configure them, read su… |
+| 2026-10-03 17:24:11 | app.vercel.codigo07/human-verification-peru | Código 07 · Human verification in Peru | 1.0.0 | Hire a real human in Lima, Peru: on-site visits, geotagged photos, calls in Spa… |
+| 2026-10-03 17:25:32 | [com.daedalusdevelopmentgroup/ddg-agent-services-mcp](https://github.com/daedalusdevelopmentgroup/ddg-agent-payable-services) | DDG Agent-Payable Services MCP | 0.7.2 | Payment-aware MCP for DDG agent services: discovery, x402 checkout, and readine… |
+| 2026-10-03 17:26:00 | com.pizzadeveloper/pizzadeveloper | Pizza Developer | 2.5.0 | Work management for AI agents: plan Ideas, Batches and Works, keep context, shi… |
+| 2026-10-03 17:35:35 | app.awardia/awardia | Awardia | 0.1.0 | EU public tenders for AI agents: open tenders, award history, competitors and b… |
+| 2026-10-03 17:42:13 | [io.github.cyanheads/orcid-mcp-server](https://github.com/cyanheads/orcid-mcp-server) |  | 0.3.2 | Researcher profiles, works, affiliations, funding, and peer reviews from the OR… |
+| 2026-10-03 17:43:50 | com.agentic-endpoints/agentic-endpoints | Agentic Endpoints | 1.0.0 | Pay-per-call tools for autonomous agents, settled in USDC on Base via x402. |
+| 2026-10-03 17:44:39 | ai.adrails/adrails | Adrails | 1.0.0 | Specialist AI agents for Meta Ads and Google Ads. Every change waits for your a… |
+| 2026-10-03 17:46:25 | com.podcaststotext/mcp | PodcastsToText | 2.2.0 | Transcribe podcasts, YouTube and audio, then make show notes, chapters and tran… |
+| 2026-10-03 17:50:52 | [io.github.ArtJack/verdict](https://github.com/ArtJack/verdict) | Verdict QA | 0.90.3 | Read-only MCP server over Verdict QA state: verdicts, findings, flaky quarantin… |
+| 2026-10-03 17:55:37 | [io.github.financeratecalc/frc-mcp](https://github.com/financeratecalc/financeratecalc.github.io) | FinanceRateCalc HMDA statistics | 1.16.0 | US FHA mortgage denial statistics (2025 federal HMDA record) with claim receipt… |
+| 2026-10-03 17:56:41 | [io.github.flytomoon/al-buddy-memory](https://github.com/flytomoon/al-buddy-memory) |  | 0.10.1 | Governed local memory for AI agents: facts are retired, not overwritten, and ev… |
+| 2026-10-03 18:00:41 | [io.github.retracn/google-maps-leads](https://github.com/retracn/google-maps-leads-scraper) | Google Maps Leads (via Apify) | 1.0.0 | Local business leads from Google Maps in any country: emails, socials, website… |
+| 2026-10-03 18:01:02 | [io.github.aiveto/veto](https://github.com/aiveto/veto) | veto | 0.1.4 | Turn OpenAPI services into tools an agent can call under your rules. |
+| 2026-10-03 18:03:58 | [ai.outfitmaker/outfit-assistant](https://github.com/elasistentepepe/outfitmaker-mcp) |  | 2.0.0 | Your own closet in your AI: outfits from clothes you own, rendered on a model i… |
+| 2026-10-03 18:09:01 | app.cutgpt/research | CutGPT Research & Fact-Check | 0.2.0 | Free fact-checks, papers, source vetting, and AI assistant comparisons, guides,… |
+| 2026-10-03 18:12:45 | [io.github.ruriazz/xlsx-tools-mcp](https://github.com/ruriazz/xlsx-tools-mcp) | xlsx-tools-mcp | 0.2.0 | MCP server for accurate, structure-preserving read/write access to Excel (.xlsx… |
+| 2026-10-03 18:15:55 | [io.github.kKEo/memory-find](https://github.com/kKEo/memory-find) |  | 1.4.5 | Local, explainable knowledge base for AI agents: hybrid search with provenance… |
+| 2026-10-03 18:15:58 | [io.github.cyanheads/openstreetmap-mcp-server](https://github.com/cyanheads/openstreetmap-mcp-server) |  | 0.6.0 | Geocode, reverse geocode, and run Overpass spatial queries on OpenStreetMap dat… |
+| 2026-10-03 18:16:47 | cz.rsolution/verejny | RSolution.cz | 1.0.0 | Služby, ceník a dostupnost českého vývojáře interních systémů; napis_mi pošle p… |
 
 ## Data source
 

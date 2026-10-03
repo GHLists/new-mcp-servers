@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-10-03T17:23:19.021343Z,com.formslist/mcp,FormsList,0.4.0,,streamable-http,"Form backend for AI agents: create live form endpoints, configure them, read submissions."
+2026-10-03T17:24:11.628783Z,app.vercel.codigo07/human-verification-peru,Código 07 · Human verification in Peru,1.0.0,,streamable-http,"Hire a real human in Lima, Peru: on-site visits, geotagged photos, calls in Spanish, RUC checks."
+2026-10-03T17:25:32.43675Z,com.daedalusdevelopmentgroup/ddg-agent-services-mcp,DDG Agent-Payable Services MCP,0.7.2,https://github.com/daedalusdevelopmentgroup/ddg-agent-payable-services,,"Payment-aware MCP for DDG agent services: discovery, x402 checkout, and readiness resources."
+2026-10-03T17:26:00.161792Z,com.pizzadeveloper/pizzadeveloper,Pizza Developer,2.5.0,,streamable-http,"Work management for AI agents: plan Ideas, Batches and Works, keep context, ship Deliveries."
+2026-10-03T17:35:35.464224Z,app.awardia/awardia,Awardia,0.1.0,,streamable-http,"EU public tenders for AI agents: open tenders, award history, competitors and bid intelligence."
+2026-10-03T17:42:13.59316Z,io.github.cyanheads/orcid-mcp-server,,0.3.2,https://github.com/cyanheads/orcid-mcp-server,streamable-http,"Researcher profiles, works, affiliations, funding, and peer reviews from the ORCID registry."
+2026-10-03T17:43:50.539419Z,com.agentic-endpoints/agentic-endpoints,Agentic Endpoints,1.0.0,,streamable-http,"Pay-per-call tools for autonomous agents, settled in USDC on Base via x402."
+2026-10-03T17:44:39.042634Z,ai.adrails/adrails,Adrails,1.0.0,,streamable-http,Specialist AI agents for Meta Ads and Google Ads. Every change waits for your approval.
+2026-10-03T17:46:25.119329Z,com.podcaststotext/mcp,PodcastsToText,2.2.0,,streamable-http,"Transcribe podcasts, YouTube and audio, then make show notes, chapters and translations."
+2026-10-03T17:50:52.769462Z,io.github.ArtJack/verdict,Verdict QA,0.90.3,https://github.com/ArtJack/verdict,,"Read-only MCP server over Verdict QA state: verdicts, findings, flaky quarantine, history."
+2026-10-03T17:55:37.63813Z,io.github.financeratecalc/frc-mcp,FinanceRateCalc HMDA statistics,1.16.0,https://github.com/financeratecalc/financeratecalc.github.io,streamable-http,US FHA mortgage denial statistics (2025 federal HMDA record) with claim receipts and use contracts
+2026-10-03T17:56:41.910811Z,io.github.flytomoon/al-buddy-memory,,0.10.1,https://github.com/flytomoon/al-buddy-memory,,"Governed local memory for AI agents: facts are retired, not overwritten, and every call is audited."
+2026-10-03T18:00:41.695379Z,io.github.retracn/google-maps-leads,Google Maps Leads (via Apify),1.0.0,https://github.com/retracn/google-maps-leads-scraper,streamable-http,"Local business leads from Google Maps in any country: emails, socials, website audit, outreach."
+2026-10-03T18:01:02.362861Z,io.github.aiveto/veto,veto,0.1.4,https://github.com/aiveto/veto,,Turn OpenAPI services into tools an agent can call under your rules.
+2026-10-03T18:03:58.982958Z,ai.outfitmaker/outfit-assistant,,2.0.0,https://github.com/elasistentepepe/outfitmaker-mcp,streamable-http; streamable-http,"Your own closet in your AI: outfits from clothes you own, rendered on a model inline."
+2026-10-03T18:09:01.496327Z,app.cutgpt/research,CutGPT Research & Fact-Check,0.2.0,,streamable-http,"Free fact-checks, papers, source vetting, and AI assistant comparisons, guides, and tools."
+2026-10-03T18:12:45.877421Z,io.github.ruriazz/xlsx-tools-mcp,xlsx-tools-mcp,0.2.0,https://github.com/ruriazz/xlsx-tools-mcp,,"MCP server for accurate, structure-preserving read/write access to Excel (.xlsx) files"
+2026-10-03T18:15:55.527994Z,io.github.kKEo/memory-find,,1.4.5,https://github.com/kKEo/memory-find,,"Local, explainable knowledge base for AI agents: hybrid search with provenance over SQLite."
+2026-10-03T18:15:58.201321Z,io.github.cyanheads/openstreetmap-mcp-server,,0.6.0,https://github.com/cyanheads/openstreetmap-mcp-server,streamable-http,"Geocode, reverse geocode, and run Overpass spatial queries on OpenStreetMap data."
+2026-10-03T18:16:47.71321Z,cz.rsolution/verejny,RSolution.cz,1.0.0,,streamable-http,"Služby, ceník a dostupnost českého vývojáře interních systémů; napis_mi pošle poptávku."
