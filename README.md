@@ -9,34 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 18:20 UTC
+## Latest list — 2026-10-03 19:21 UTC
 
-New MCP servers published between 2026-10-03 17:20 UTC and 2026-10-03 18:20 UTC.
+New MCP servers published between 2026-10-03 18:20 UTC and 2026-10-03 19:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-03T18-20-43-171557Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-03T19-21-10-660302Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-03 17:23:19 | com.formslist/mcp | FormsList | 0.4.0 | Form backend for AI agents: create live form endpoints, configure them, read su… |
-| 2026-10-03 17:24:11 | app.vercel.codigo07/human-verification-peru | Código 07 · Human verification in Peru | 1.0.0 | Hire a real human in Lima, Peru: on-site visits, geotagged photos, calls in Spa… |
-| 2026-10-03 17:25:32 | [com.daedalusdevelopmentgroup/ddg-agent-services-mcp](https://github.com/daedalusdevelopmentgroup/ddg-agent-payable-services) | DDG Agent-Payable Services MCP | 0.7.2 | Payment-aware MCP for DDG agent services: discovery, x402 checkout, and readine… |
-| 2026-10-03 17:26:00 | com.pizzadeveloper/pizzadeveloper | Pizza Developer | 2.5.0 | Work management for AI agents: plan Ideas, Batches and Works, keep context, shi… |
-| 2026-10-03 17:35:35 | app.awardia/awardia | Awardia | 0.1.0 | EU public tenders for AI agents: open tenders, award history, competitors and b… |
-| 2026-10-03 17:42:13 | [io.github.cyanheads/orcid-mcp-server](https://github.com/cyanheads/orcid-mcp-server) |  | 0.3.2 | Researcher profiles, works, affiliations, funding, and peer reviews from the OR… |
-| 2026-10-03 17:43:50 | com.agentic-endpoints/agentic-endpoints | Agentic Endpoints | 1.0.0 | Pay-per-call tools for autonomous agents, settled in USDC on Base via x402. |
-| 2026-10-03 17:44:39 | ai.adrails/adrails | Adrails | 1.0.0 | Specialist AI agents for Meta Ads and Google Ads. Every change waits for your a… |
-| 2026-10-03 17:46:25 | com.podcaststotext/mcp | PodcastsToText | 2.2.0 | Transcribe podcasts, YouTube and audio, then make show notes, chapters and tran… |
-| 2026-10-03 17:50:52 | [io.github.ArtJack/verdict](https://github.com/ArtJack/verdict) | Verdict QA | 0.90.3 | Read-only MCP server over Verdict QA state: verdicts, findings, flaky quarantin… |
-| 2026-10-03 17:55:37 | [io.github.financeratecalc/frc-mcp](https://github.com/financeratecalc/financeratecalc.github.io) | FinanceRateCalc HMDA statistics | 1.16.0 | US FHA mortgage denial statistics (2025 federal HMDA record) with claim receipt… |
-| 2026-10-03 17:56:41 | [io.github.flytomoon/al-buddy-memory](https://github.com/flytomoon/al-buddy-memory) |  | 0.10.1 | Governed local memory for AI agents: facts are retired, not overwritten, and ev… |
-| 2026-10-03 18:00:41 | [io.github.retracn/google-maps-leads](https://github.com/retracn/google-maps-leads-scraper) | Google Maps Leads (via Apify) | 1.0.0 | Local business leads from Google Maps in any country: emails, socials, website… |
-| 2026-10-03 18:01:02 | [io.github.aiveto/veto](https://github.com/aiveto/veto) | veto | 0.1.4 | Turn OpenAPI services into tools an agent can call under your rules. |
-| 2026-10-03 18:03:58 | [ai.outfitmaker/outfit-assistant](https://github.com/elasistentepepe/outfitmaker-mcp) |  | 2.0.0 | Your own closet in your AI: outfits from clothes you own, rendered on a model i… |
-| 2026-10-03 18:09:01 | app.cutgpt/research | CutGPT Research & Fact-Check | 0.2.0 | Free fact-checks, papers, source vetting, and AI assistant comparisons, guides,… |
-| 2026-10-03 18:12:45 | [io.github.ruriazz/xlsx-tools-mcp](https://github.com/ruriazz/xlsx-tools-mcp) | xlsx-tools-mcp | 0.2.0 | MCP server for accurate, structure-preserving read/write access to Excel (.xlsx… |
-| 2026-10-03 18:15:55 | [io.github.kKEo/memory-find](https://github.com/kKEo/memory-find) |  | 1.4.5 | Local, explainable knowledge base for AI agents: hybrid search with provenance… |
-| 2026-10-03 18:15:58 | [io.github.cyanheads/openstreetmap-mcp-server](https://github.com/cyanheads/openstreetmap-mcp-server) |  | 0.6.0 | Geocode, reverse geocode, and run Overpass spatial queries on OpenStreetMap dat… |
-| 2026-10-03 18:16:47 | cz.rsolution/verejny | RSolution.cz | 1.0.0 | Služby, ceník a dostupnost českého vývojáře interních systémů; napis_mi pošle p… |
+| 2026-10-03 18:24:10 | [io.github.presendapp/presend-deps](https://github.com/presendapp/presend-source) | Presend dependency checks | 1.0.0 | Check an npm/PyPI package before an AI agent installs it: 5 focused supply-chai… |
+| 2026-10-03 18:28:01 | com.ancestral-fire/ancestralfire | AncestralFire | 0.1.0 | There's more to your family tree than names and dates. |
+| 2026-10-03 18:32:41 | so.devrelay/devrelay | DevRelay | 1.0.0 | Ask what shipped, and draft, edit and approve launch posts, changelogs and docs… |
+| 2026-10-03 18:33:17 | com.402post/402post | 402post | 1.0.0 | Paid classifieds for AI agents: post a listing over MCP, pay with x402. No acco… |
+| 2026-10-03 18:34:24 | ai.athaus/makler | Athaus für Makler | 2026.10.1 | Real estate brokerage in Germany: listings, enquiries, viewings, valuations, dr… |
+| 2026-10-03 18:34:25 | ai.athaus/immobiliensuche | Athaus Immobiliensuche | 2026.10.1 | Find a home in Germany: search athaus listings, save searches, send enquiries a… |
+| 2026-10-03 18:37:58 | qpon.arctic/arctic |  | 1.0.0 | Read Robinhood Chain live: scan a token, trace its deployer, list new launches. |
+| 2026-10-03 18:44:45 | [com.kovatools/kova](https://github.com/kovatools/kova-agent-plugin) | Kova | 0.10.0 | Saves a declared investment strategy so any agent can check a portfolio against… |
+| 2026-10-03 18:45:23 | dev.workers.cybermax-tools.cybermax/afterwren | Afterwren | 1.0.0 | Retired-API replacements: Clearbit-style company autocomplete, logos, profiles;… |
+| 2026-10-03 18:47:05 | [markets.tally/mcp](https://github.com/worldclasstom/tally-mcp) |  | 1.1.0 | The risk officer for AI trading: an independent, read-only watcher for your tra… |
+| 2026-10-03 18:47:52 | [io.github.solutionsunity/odoo-surface-mcp](https://github.com/solutionsunity/odoo-surface-mcp) |  | 0.6.0 | Full Odoo access for AI agents via MCP: CRUD, website, translations, attachment… |
+| 2026-10-03 18:56:05 | com.infinihash/oryah-mail | Oryah Mail | 0.13.0 | Governed email for agents: Gmail, M365 and IMAP; per-mailbox permissions, send… |
+| 2026-10-03 18:56:12 | br.com.agentspace/agentspace | AgentSpace | 0.1.0 | Give your agent a persistent workspace: files, a code sandbox and a public URL… |
+| 2026-10-03 18:58:07 | [com.cyberspf/mcp](https://github.com/sbmcvey79/combined-cyberspf) | CyberSPF | 0.1.0 | Assess a domain, IP or ASN: mail and DNS security, certificates, routing and a… |
+| 2026-10-03 18:59:18 | ru.mm7.www/company | MM7 Company MCP | 0.1.10 | MM7 public B2B MCP: 1C ITS/RRP, requisites, EDI, cloud trial (GRM/Fresh) for AI… |
+| 2026-10-03 18:59:27 | org.agile-today/agile-today | Agile Today | 2.3.1 | Project management methodology graph: route planning, stage-gate decisions and… |
+| 2026-10-03 19:06:13 | [io.github.AlligatorC0der/conkurrence](https://github.com/AlligatorC0der/conkurrence) |  | 1.0.5 | Multi-model rating for AI evaluation. Agreement is reliability, not validity. M… |
+| 2026-10-03 19:07:08 | [com.tulimoa/platform](https://github.com/Tulimoa/tulimoa-mcp) | Tulimoa | 1.4.0 | Find curated AI and MCP tools in the Tulimoa directory; submit yours free with… |
+| 2026-10-03 19:07:12 | [io.github.emeraldleaf/okl](https://github.com/emeraldleaf/okl) | okl — Observed Knowledge Ledger | 0.7.6 | Lessons your coding agent can trust: briefed before each task, proven by checks… |
+| 2026-10-03 19:07:57 | ai.thedesignagent/mcp | TheDesignAgent | 0.4.1 | A design agent in your coding agent's loop: briefs each screen, reviews UX and… |
+| 2026-10-03 19:10:58 | nl.citeerbaar/mcp | Citeerbaar | 1.1.3 | Pakketten, prijzen, begrippen en artikelen van Citeerbaar (GEO, NL) en de grati… |
+| 2026-10-03 19:13:09 | [io.github.as9978/designfit](https://github.com/as9978/designfit) | designfit | 0.2.0 | Validate AI-built front-ends against Figma by tokens and geometry, not pixels. |
+| 2026-10-03 19:16:08 | [io.github.HighlyLoadedEgo/clef-mcp](https://github.com/HighlyLoadedEgo/ClefMCP) |  | 0.1.6 | Local MCP server for the Cloudflare Clef-Flash decision model: structured decis… |
 
 ## Data source
 

@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-10-03T18:24:10.995057Z,io.github.presendapp/presend-deps,Presend dependency checks,1.0.0,https://github.com/presendapp/presend-source,streamable-http,Check an npm/PyPI package before an AI agent installs it: 5 focused supply-chain tools.
+2026-10-03T18:28:01.678062Z,com.ancestral-fire/ancestralfire,AncestralFire,0.1.0,,streamable-http,There's more to your family tree than names and dates.
+2026-10-03T18:32:41.443809Z,so.devrelay/devrelay,DevRelay,1.0.0,,streamable-http,"Ask what shipped, and draft, edit and approve launch posts, changelogs and docs updates."
+2026-10-03T18:33:17.66161Z,com.402post/402post,402post,1.0.0,,streamable-http,"Paid classifieds for AI agents: post a listing over MCP, pay with x402. No account."
+2026-10-03T18:34:24.262183Z,ai.athaus/makler,Athaus für Makler,2026.10.1,,streamable-http,"Real estate brokerage in Germany: listings, enquiries, viewings, valuations, drafts, social posts."
+2026-10-03T18:34:25.43964Z,ai.athaus/immobiliensuche,Athaus Immobiliensuche,2026.10.1,,streamable-http,"Find a home in Germany: search athaus listings, save searches, send enquiries and book viewings."
+2026-10-03T18:37:58.581261Z,qpon.arctic/arctic,,1.0.0,,streamable-http,"Read Robinhood Chain live: scan a token, trace its deployer, list new launches."
+2026-10-03T18:44:45.364518Z,com.kovatools/kova,Kova,0.10.0,https://github.com/kovatools/kova-agent-plugin,streamable-http,Saves a declared investment strategy so any agent can check a portfolio against it.
+2026-10-03T18:45:23.856449Z,dev.workers.cybermax-tools.cybermax/afterwren,Afterwren,1.0.0,,streamable-http,"Retired-API replacements: Clearbit-style company autocomplete, logos, profiles; geocoding; books."
+2026-10-03T18:47:05.622252Z,markets.tally/mcp,,1.1.0,https://github.com/worldclasstom/tally-mcp,streamable-http,"The risk officer for AI trading: an independent, read-only watcher for your trading agent."
+2026-10-03T18:47:52.077982Z,io.github.solutionsunity/odoo-surface-mcp,,0.6.0,https://github.com/solutionsunity/odoo-surface-mcp,,"Full Odoo access for AI agents via MCP: CRUD, website, translations, attachments, workflows."
+2026-10-03T18:56:05.735068Z,com.infinihash/oryah-mail,Oryah Mail,0.13.0,,streamable-http,"Governed email for agents: Gmail, M365 and IMAP; per-mailbox permissions, send allowlist, audit log"
+2026-10-03T18:56:12.265447Z,br.com.agentspace/agentspace,AgentSpace,0.1.0,,streamable-http,"Give your agent a persistent workspace: files, a code sandbox and a public URL to publish to."
+2026-10-03T18:58:07.022176Z,com.cyberspf/mcp,CyberSPF,0.1.0,https://github.com/sbmcvey79/combined-cyberspf,,"Assess a domain, IP or ASN: mail and DNS security, certificates, routing and a report card."
+2026-10-03T18:59:18.815012Z,ru.mm7.www/company,MM7 Company MCP,0.1.10,,streamable-http,"MM7 public B2B MCP: 1C ITS/RRP, requisites, EDI, cloud trial (GRM/Fresh) for AI agents."
+2026-10-03T18:59:27.756787Z,org.agile-today/agile-today,Agile Today,2.3.1,,streamable-http,"Project management methodology graph: route planning, stage-gate decisions and plan checks."
+2026-10-03T19:06:13.36336Z,io.github.AlligatorC0der/conkurrence,,1.0.5,https://github.com/AlligatorC0der/conkurrence,,"Multi-model rating for AI evaluation. Agreement is reliability, not validity. Maintenance mode."
+2026-10-03T19:07:08.334743Z,com.tulimoa/platform,Tulimoa,1.4.0,https://github.com/Tulimoa/tulimoa-mcp,streamable-http,Find curated AI and MCP tools in the Tulimoa directory; submit yours free with a badge or for $5.
+2026-10-03T19:07:12.774499Z,io.github.emeraldleaf/okl,okl — Observed Knowledge Ledger,0.7.6,https://github.com/emeraldleaf/okl,,"Lessons your coding agent can trust: briefed before each task, proven by checks, flagged on change."
+2026-10-03T19:07:57.525761Z,ai.thedesignagent/mcp,TheDesignAgent,0.4.1,,streamable-http,"A design agent in your coding agent's loop: briefs each screen, reviews UX and visual quality."
+2026-10-03T19:10:58.16722Z,nl.citeerbaar/mcp,Citeerbaar,1.1.3,,streamable-http,"Pakketten, prijzen, begrippen en artikelen van Citeerbaar (GEO, NL) en de gratis Quick Check."
+2026-10-03T19:13:09.760086Z,io.github.as9978/designfit,designfit,0.2.0,https://github.com/as9978/designfit,,"Validate AI-built front-ends against Figma by tokens and geometry, not pixels."
+2026-10-03T19:16:08.768956Z,io.github.HighlyLoadedEgo/clef-mcp,,0.1.6,https://github.com/HighlyLoadedEgo/ClefMCP,,"Local MCP server for the Cloudflare Clef-Flash decision model: structured decisions, fully offline"
