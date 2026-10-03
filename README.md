@@ -9,40 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 23:20 UTC
+## Latest list — 2026-10-03 00:19 UTC
 
-New MCP servers published between 2026-10-02 22:20 UTC and 2026-10-02 23:20 UTC.
+New MCP servers published between 2026-10-02 23:20 UTC and 2026-10-03 00:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-02T23-20-43-59364Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-03T00-19-58-058099Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-02 22:23:15 | uk.co.tendersignal/tenders | TenderSignal | 1.0.0 | UK and Ireland public sector tenders, contract awards, buyers and expected re-t… |
-| 2026-10-02 22:23:56 | [sh.parlor/parlor](https://github.com/dariorapisardi/parlor-mcp) | Parlor.sh | 1.0.0 | Rooms where AI agents of any vendor talk to each other. A room is a URL. No sig… |
-| 2026-10-02 22:24:36 | com.saastemly/lensaocr | LensaOCR | 1.0.1790979874 | Tesseract-compatible OCR over HTTP: send an image, get its text and word boxes… |
-| 2026-10-02 22:27:44 | app.rowb.dubai-log/uae-costs | Dubai Log | 1.0.0 | UAE travel and living cost calculators with the published source behind every n… |
-| 2026-10-02 22:28:52 | [io.github.Arenukvern/flutter-mcp-toolkit](https://github.com/Arenukvern/mcp_flutter) | Flutter MCP Toolkit | 6.0.0 | Inspect and drive Flutter debug apps/games: semantic snapshots, search, and cus… |
-| 2026-10-02 22:36:35 | tools.settled/settled | Settled | 0.1.0 | Check x402 endpoints before your agent pays: payTo, paid test purchases, payee… |
-| 2026-10-02 22:41:48 | io.github.gbacot-wq/omega-router |  | 0.1.1 | Route agent services by observed price and public usage evidence. |
-| 2026-10-02 22:42:44 | [io.github.eezz4/zzop](https://github.com/eezz4/zzop) | zzop | 0.37.0 | Deterministic repository oracle for AI agents: inventory, dependency graph, fro… |
-| 2026-10-02 22:48:09 | [io.github.chexma/vibemk](https://github.com/chexma/vibeMK) | vibeMK | 0.6.2 | Query and configure CheckMK monitoring: hosts, services, rules, downtimes, metr… |
-| 2026-10-02 22:52:41 | com.veridionmarkets/disclosures | Veridion Disclosures | 1.14.0 | Congressional stock-trade reports and the President's OGE reports, each row lin… |
-| 2026-10-02 22:52:59 | [io.github.pipeworx-io/dostuff](https://github.com/pipeworx-io/mcp-dostuff) | Dostuff | 0.1.3 | DoStuff network MCP. |
-| 2026-10-02 22:53:10 | [io.github.pipeworx-io/etsy](https://github.com/pipeworx-io/mcp-etsy) | Etsy | 0.1.3 | Etsy MCP — public listing search via Etsy Open API v3 (api_key auth only) |
-| 2026-10-02 22:53:20 | [io.github.pipeworx-io/nosdeputes-fr](https://github.com/pipeworx-io/mcp-nosdeputes-fr) | Nosdeputes Fr | 0.1.3 | NosDéputés.fr MCP — civic-tech mirror of the French Assemblée nationale |
-| 2026-10-02 22:53:33 | [io.github.pipeworx-io/hyperliquid](https://github.com/pipeworx-io/mcp-hyperliquid) | Hyperliquid | 0.1.0 | Hyperliquid MCP — read-only market data from Hyperliquid's public info API. |
-| 2026-10-02 22:54:16 | [io.github.codellyson/passalong](https://github.com/codellyson/passalong) |  | 0.13.1 | Hand tasks, bugs and finished work to AI coding agents, and get back a write-up… |
-| 2026-10-02 22:54:17 | [com.oti-labs/domain-intelligence](https://github.com/osiris-technical-institute/domain-intelligence-api) | Domain Intelligence | 1.0.0 | WHOIS/RDAP, DNS, SSL, live subdomains with IPs, and SPF/DMARC/DKIM for any doma… |
-| 2026-10-02 22:54:22 | [io.github.pipeworx-io/vc-finder](https://github.com/pipeworx-io/mcp-vc-finder) | Vc Finder | 0.1.0 | vc-finder — VC / angel investor graph (Bruce ask 2026-09-29; built |
-| 2026-10-02 22:59:42 | [io.github.lawrence3699/jev-style](https://github.com/lawrence3699/jev-style) | Jev-Style | 0.4.0 | Local 2B and 0.8B decision models: calibrated yes/no, choice and score answers… |
-| 2026-10-02 23:04:29 | dev.workers.fhi-llc-1118.polished-truth-c514/fhi-x402-security-tools | FHI MCP Server Security Audit | 1.3.0 | Free payment guide and Base-USDC x402 MCP security, package, domain, and SEC to… |
-| 2026-10-02 23:05:29 | io.github.Gillinghammer/phonescreen | PhoneScreen | 1.0.0 | Score resumes, screen candidates by phone, and check references from your AI as… |
-| 2026-10-02 23:11:23 | com.braxos/maestro | braXos Maestro | 1.0.4 | Governed access to your org's systems (Salesforce, Workday, CCure, Genetec, Zoo… |
-| 2026-10-02 23:11:26 | [com.vuntum/mcp](https://github.com/RAAAAAGEEEEE/vuntum-mcp) | Vuntum | 0.1.0 | Sourced, dated data on consumer robots and physical AI: specs, prices, availabi… |
-| 2026-10-02 23:14:18 | io.github.chucho-ai/chucho | chucho — Book Direct | 0.1.7 | Find vacation rentals, explore photos and property details, and open direct hos… |
-| 2026-10-02 23:15:15 | io.github.Space-Markets-HQ/smx-mcp | SMX by Space Markets (testnet) | 0.1.2 | SMX (Space Markets) testnet event markets and the Space Markets Index (SMI). Ba… |
-| 2026-10-02 23:15:55 | guide.smm/catalog | smm.guide | 1.0.0 | SMM panel catalog: cheapest services across panels, Trust Scores, reviews, comp… |
-| 2026-10-02 23:16:26 | [me.agentworld/agentworld-mcp](https://github.com/shawnhvac/agentworld-mcp.git) | AgentWorld — Live AI Agent Economy | 1.0.0 | Live AI agent economy on Base L2: agents, credit files, games, jobs, crypto new… |
+| 2026-10-02 23:24:10 | io.optionwhales/options-flow | OptionWhales | 1.2.0 | US options flow and stock data: unusual activity, gamma levels, IV, quotes, new… |
+| 2026-10-02 23:25:43 | com.getmixwise/mixwise | MixWise | 1.0.0 | Cocktails you can make from bottles you already have, full recipes, and the bes… |
+| 2026-10-02 23:29:09 | [io.github.Octonove/crbro-memory](https://github.com/Octonove/crbro-memory) |  | 2.7.0 | Persistent file-based memory for AI agents: inspectable, versionable, fully loc… |
+| 2026-10-02 23:29:18 | [org.projectnoosphere/noosphere](https://github.com/GoodyGoodyGoody/projectnoosphere) | Project Noosphere | 0.1.7 | An open knowledge commons for AI agents: search versioned how-tos, report wheth… |
+| 2026-10-02 23:29:58 | [io.github.gitayg/appcrane](https://github.com/gitayg/appcrane-mcp) | AppCrane | 1.3.4 | Deploy and manage apps on your own AppCrane instance, the self-hosted PaaS for… |
+| 2026-10-02 23:32:38 | [ai.tickerscout/ticker-scout](https://github.com/tickerscout/tickerscout-mcp) |  | 1.0.3 | Agent-native SEC data: statements assembled, filings synthesized, figures linke… |
+| 2026-10-02 23:33:57 | [io.github.yaver-io/yaver](https://github.com/yaver-io/yaver.io) | Yaver | 1.99.470 | Phone-first local dev MCP for Claude Code and Codex: install Yaver, pair mobile… |
+| 2026-10-02 23:34:38 | [com.brydge-ai/brydge](https://github.com/contactkontey-dotcom/brydge-mcp) | BRYDGE | 0.2.0 | Checks whether an agent's actions actually happened, against the destination's… |
+| 2026-10-02 23:38:30 | space.spontanno/events | СПОНТАННО | 1.0.0 | Concerts, theatre, standup and more in Russian cities: search, filters and a ra… |
+| 2026-10-02 23:39:56 | io.github.juanquiservin/canaireadme | CanAIReadMe | 2.1.0 | Can an AI agent understand and act on a business website? Evidence-based facts,… |
+| 2026-10-02 23:41:45 | [io.github.RohanMuppa/brightspace](https://github.com/RohanMuppa/brightspace-mcp-server) |  | 3.10.2 | D2L Brightspace MCP server: grades, due dates, assignments, announcements and f… |
+| 2026-10-02 23:42:08 | [io.github.gowtham012/pinpoint](https://github.com/gowtham012/pinpoint) | Pinpoint | 0.5.0 | Click an element in your running app or iOS Simulator, say what should change;… |
+| 2026-10-02 23:45:09 | io.shareout/shareout | Shareout | 0.6.0 | Publish HTML pages, collect review comments, and revise at the same link. |
+| 2026-10-02 23:46:09 | [io.github.riponcm/projectmem](https://github.com/riponcm/projectmem) |  | 0.3.4 | Coding agent memory — one local MCP server for every project. Warns before repe… |
+| 2026-10-03 00:00:40 | [io.github.simonmak-ascent/primary-sources-mcp](https://github.com/simonmak-ascent/primary-sources-mcp) | Primary Sources | 1.0.0 | Free primary-source APIs (SEC EDGAR, World Bank, GDELT, HKMA, FRED) with proven… |
+| 2026-10-03 00:05:40 | [com.x1wealth/x1](https://github.com/x1wealth/x1-mcp) | X1 Wealth | 1.1.1 | Ask about your trusts, entities, policies and documents. Every answer cites a p… |
+| 2026-10-03 00:10:02 | [io.github.creatoan/scenet](https://github.com/creatoan/scenet) | Scenet | 0.9.0 | Write, check and render comic panels as SVG: a deterministic compiler, no image… |
 
 ## Data source
 

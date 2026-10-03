@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-02T23:24:10.578194Z,io.optionwhales/options-flow,OptionWhales,1.2.0,,streamable-http,"US options flow and stock data: unusual activity, gamma levels, IV, quotes, news. Free keys."
+2026-10-02T23:25:43.518088Z,com.getmixwise/mixwise,MixWise,1.0.0,,streamable-http,"Cocktails you can make from bottles you already have, full recipes, and the best next bottle to add."
+2026-10-02T23:29:09.303543Z,io.github.Octonove/crbro-memory,,2.7.0,https://github.com/Octonove/crbro-memory,,"Persistent file-based memory for AI agents: inspectable, versionable, fully local."
+2026-10-02T23:29:18.583766Z,org.projectnoosphere/noosphere,Project Noosphere,0.1.7,https://github.com/GoodyGoodyGoody/projectnoosphere,streamable-http,"An open knowledge commons for AI agents: search versioned how-tos, report whether they worked."
+2026-10-02T23:29:58.536375Z,io.github.gitayg/appcrane,AppCrane,1.3.4,https://github.com/gitayg/appcrane-mcp,,"Deploy and manage apps on your own AppCrane instance, the self-hosted PaaS for AI-built apps."
+2026-10-02T23:32:38.314869Z,ai.tickerscout/ticker-scout,,1.0.3,https://github.com/tickerscout/tickerscout-mcp,streamable-http,"Agent-native SEC data: statements assembled, filings synthesized, figures linked to source. No key."
+2026-10-02T23:33:57.044391Z,io.github.yaver-io/yaver,Yaver,1.99.470,https://github.com/yaver-io/yaver.io,,"Phone-first local dev MCP for Claude Code and Codex: install Yaver, pair mobile, run, build, deploy."
+2026-10-02T23:34:38.446061Z,com.brydge-ai/brydge,BRYDGE,0.2.0,https://github.com/contactkontey-dotcom/brydge-mcp,,"Checks whether an agent's actions actually happened, against the destination's own records."
+2026-10-02T23:38:30.966185Z,space.spontanno/events,СПОНТАННО,1.0.0,,streamable-http,"Concerts, theatre, standup and more in Russian cities: search, filters and a random «Спонтанно» pick"
+2026-10-02T23:39:56.878915Z,io.github.juanquiservin/canaireadme,CanAIReadMe,2.1.0,,streamable-http,"Can an AI agent understand and act on a business website? Evidence-based facts, gaps and fixes."
+2026-10-02T23:41:45.40145Z,io.github.RohanMuppa/brightspace,,3.10.2,https://github.com/RohanMuppa/brightspace-mcp-server,,"D2L Brightspace MCP server: grades, due dates, assignments, announcements and files. Any school."
+2026-10-02T23:42:08.544743Z,io.github.gowtham012/pinpoint,Pinpoint,0.5.0,https://github.com/gowtham012/pinpoint,,"Click an element in your running app or iOS Simulator, say what should change; your agent gets it."
+2026-10-02T23:45:09.675246Z,io.shareout/shareout,Shareout,0.6.0,,streamable-http,"Publish HTML pages, collect review comments, and revise at the same link."
+2026-10-02T23:46:09.470288Z,io.github.riponcm/projectmem,,0.3.4,https://github.com/riponcm/projectmem,,Coding agent memory — one local MCP server for every project. Warns before repeating failed fixes.
+2026-10-03T00:00:40.750583Z,io.github.simonmak-ascent/primary-sources-mcp,Primary Sources,1.0.0,https://github.com/simonmak-ascent/primary-sources-mcp,streamable-http,"Free primary-source APIs (SEC EDGAR, World Bank, GDELT, HKMA, FRED) with provenance envelopes."
+2026-10-03T00:05:40.664386Z,com.x1wealth/x1,X1 Wealth,1.1.1,https://github.com/x1wealth/x1-mcp,streamable-http,"Ask about your trusts, entities, policies and documents. Every answer cites a page or declines."
+2026-10-03T00:10:02.834096Z,io.github.creatoan/scenet,Scenet,0.9.0,https://github.com/creatoan/scenet,,"Write, check and render comic panels as SVG: a deterministic compiler, no image model."
