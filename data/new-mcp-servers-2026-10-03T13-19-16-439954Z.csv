@@ -1,0 +1,265 @@
+created_at,server,title,version,repository,transports,description
+2026-10-03T12:20:35.801463Z,ai.adrio/adrio,Adrio,1.0.0,,streamable-http,"Research competitor Meta ads, manage brand angles and audiences, and brief Spark to create ads."
+2026-10-03T12:20:39.76187Z,uk.seodevon/site,,1.0.1,,streamable-http,"SEO Devon: the site's own MCP server — enquiry (enquiry = a human handoff, not a purchase);..."
+2026-10-03T12:21:04.003736Z,uk.co.seopersonalinjurylawyers/site,,1.0.1,,streamable-http,"SEO for personal injury lawyers: the site's own MCP server — enquiry (enquiry = a human handoff,..."
+2026-10-03T12:21:19.478316Z,uk.co.seoplumbers/site,,1.0.1,,streamable-http,"SEO for plumbers: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:21:27.07781Z,io.github.gawk-dev/mcpgawk,mcpgawk,0.1.68,https://github.com/gawk-dev/mcpgawk,,"Measure MCP servers, pin the approved tool surface, refuse calls to tools that changed. Local-first."
+2026-10-03T12:21:30.503754Z,io.github.jamhimself/robinx-mcp,,0.6.2,https://github.com/jamhimself/robinx-mcp,streamable-http,"Robinhood Chain MCP server: rug checks, deployer records, measured X callers. For agents and bots."
+2026-10-03T12:21:34.817828Z,uk.co.seorecruitmentagencies/site,,1.0.1,,streamable-http,"SEO for recruitment agencies: the site's own MCP server — enquiry (enquiry = a human handoff,..."
+2026-10-03T12:22:17.370365Z,uk.seoservicesglasgow/site,,1.0.1,,streamable-http,"SEO services Glasgow: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:23:00.235797Z,uk.co.seovets/site,,1.0.1,,streamable-http,"SEO for vets: the site's own MCP server — enquiry (enquiry = a human handoff, not a purchase);..."
+2026-10-03T12:23:27.487046Z,uk.settlementcalculator/site,,1.0.1,,streamable-http,"Settlement Calculator: the site's own MCP server — calculator, enquiry (enquiry = a human..."
+2026-10-03T12:23:42.200992Z,uk.co.shiftpatterngenerator/site,,1.0.1,,streamable-http,"Shift Pattern Generator: the site's own MCP server — calculator, enquiry (enquiry = a human..."
+2026-10-03T12:23:53.299674Z,uk.co.shopsigncost/site,,1.0.1,,streamable-http,"Shop Sign Cost: the site's own MCP server — enquiry (enquiry = a human handoff, not a purchase);..."
+2026-10-03T12:24:03.83212Z,uk.co.siteinvestigationcost/site,,1.0.1,,streamable-http,"Site Investigation Cost: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:24:14.177404Z,com.skitransferquotes/site,,1.0.1,,streamable-http,"Ski Transfer Quotes: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:24:24.287643Z,uk.co.smokecontrolchecker/site,,1.0.1,,streamable-http,"Smoke Control Checker: the site's own MCP server — checker, enquiry (enquiry = a human handoff,..."
+2026-10-03T12:24:35.163992Z,uk.co.snaggingsoftware/site,,1.0.1,,streamable-http,"Snagging Software: the site's own MCP server — compare, enquiry (enquiry = a human handoff, not..."
+2026-10-03T12:24:46.485797Z,com.softwarepricingindex/site,,1.0.1,,streamable-http,"Software Pricing Index: the site's own MCP server — compare, enquiry (enquiry = a human handoff,..."
+2026-10-03T12:24:56.72023Z,uk.co.sponsorlicencecost/site,,1.0.1,,streamable-http,"Sponsor Licence Cost: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:25:08.28109Z,com.sredclaimcalculator/site,,1.0.1,,streamable-http,"SR&ED Claim Calculator: the site's own MCP server — calculator, enquiry (enquiry = a human..."
+2026-10-03T12:25:18.892027Z,com.sredfinder/site,,1.0.1,,streamable-http,"SR&ED Finder: the site's own MCP server — compare, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:25:30.15657Z,uk.co.steelbeamchecker/site,,1.0.1,,streamable-http,"Steel Beam Checker: the site's own MCP server — checker, enquiry (enquiry = a human handoff, not..."
+2026-10-03T12:25:41.081478Z,com.strrulescheck/site,,1.0.1,,streamable-http,"STR Rules Check: the site's own MCP server — checker, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:25:45.358462Z,com.growvib/growvib,GrowVib: Social Media Growth,0.3.0,,streamable-http,"Discover, compare and buy social media growth for Instagram, TikTok, YouTube, Telegram, X and more"
+2026-10-03T12:25:52.497144Z,uk.co.structuralreportcost/site,,1.0.1,,streamable-http,"Structural Report Cost: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:26:04.08221Z,uk.co.subsidencesurveycost/site,,1.0.1,,streamable-http,"Subsidence Survey Cost: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:26:14.446295Z,uk.co.tachocalibration/site,,1.0.1,,streamable-http,"Tacho Calibration: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:26:25.116675Z,uk.co.taxinvestigationcost/site,,1.0.1,,streamable-http,"Tax Investigation Cost: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:26:35.821314Z,uk.co.temperaturelog/site,,1.0.1,,streamable-http,"Temperature Log: the site's own MCP server — checker, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:26:47.121353Z,uk.co.termdatesapi/site,,1.0.1,,streamable-http,"Term Dates API: the site's own MCP server — compare, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:26:53.646332Z,io.github.berntpopp/genefoundry,,0.9.3,https://github.com/berntpopp/genefoundry-router,streamable-http,"MCP gateway federating 22 biomedical MCP servers behind one endpoint: gnomAD, ClinVar, HPO, VEP."
+2026-10-03T12:27:00.179297Z,com.texasfoundationrepaircost/site,,1.0.1,,streamable-http,"Texas Foundation Repair Cost: the site's own MCP server — enquiry (enquiry = a human handoff,..."
+2026-10-03T12:27:10.412868Z,com.texashvacreplacementcost/site,,1.0.1,,streamable-http,"Texas HVAC Replacement Cost: the site's own MCP server — enquiry (enquiry = a human handoff, not..."
+2026-10-03T12:27:20.938155Z,com.texassolarcostcalculator/site,,1.0.1,,streamable-http,"Texas Solar Cost Calculator: the site's own MCP server — calculator, enquiry (enquiry = a human..."
+2026-10-03T12:27:31.453327Z,com.texaswaterdamagecost/site,,1.0.1,,streamable-http,"Texas Water Damage Cost: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:27:41.764251Z,uk.co.threephasecost/site,,1.0.1,,streamable-http,"Three Phase Cost: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:27:52.031708Z,uk.co.tm44quote/site,,1.0.1,,streamable-http,"TM44 Quote: the site's own MCP server — enquiry (enquiry = a human handoff, not a purchase);..."
+2026-10-03T12:28:03.116735Z,com.tollblenders/site,,1.0.1,,streamable-http,"Toll Blenders: the site's own MCP server — compare, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:28:45.071176Z,uk.co.toolsppc/site,,1.0.1,,streamable-http,"Tools for PPC: the site's own MCP server — enquiry (enquiry = a human handoff, not a purchase);..."
+2026-10-03T12:28:56.247541Z,uk.co.towingcapacitychecker/site,,1.0.1,,streamable-http,"Towing Capacity Checker: the site's own MCP server — checker, enquiry (enquiry = a human..."
+2026-10-03T12:29:07.029771Z,com.tradesseoagency/site,,1.0.1,,streamable-http,"Trades SEO Agency: the site's own MCP server — compare, enquiry (enquiry = a human handoff, not..."
+2026-10-03T12:29:17.507524Z,com.tradessoftwarepicker/site,,1.0.1,,streamable-http,"Trades Software Picker: the site's own MCP server — compare, enquiry (enquiry = a human handoff,..."
+2026-10-03T12:29:28.700158Z,uk.co.transportstatementcost/site,,1.0.1,,streamable-http,"Transport Statement Cost: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:29:39.734365Z,uk.co.treesurveycost/site,,1.0.1,,streamable-http,"Tree Survey Cost: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:29:57.468211Z,com.uaecorporatetaxcalculator/site,,1.0.1,,streamable-http,"UAE Corporate Tax Calculator: the site's own MCP server — calculator, enquiry (enquiry = a human..."
+2026-10-03T12:30:12.832809Z,uk.co.underpinningcosts/site,,1.0.1,,streamable-http,"Underpinning Costs: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:30:26.64037Z,uk.co.vacantpropertysecuritycost/site,,1.0.1,,streamable-http,"Vacant Property Security Cost: the site's own MCP server — enquiry (enquiry = a human handoff,..."
+2026-10-03T12:30:44.754415Z,uk.co.varicoseveintreatmentcost/site,,1.0.1,,streamable-http,"Varicose Vein Treatment Cost: the site's own MCP server — enquiry (enquiry = a human handoff,..."
+2026-10-03T12:30:56.512241Z,uk.co.venuecapacitycheck/site,,1.0.1,,streamable-http,"Venue Capacity Check: the site's own MCP server — checker, enquiry (enquiry = a human handoff,..."
+2026-10-03T12:31:08.583579Z,com.virtualdataroomcompare/site,,1.0.1,,streamable-http,Virtual Data Room Compare: the site's own MCP server — compare; every answer cites the site.
+2026-10-03T12:31:20.41104Z,uk.co.voidclearancequotes/site,,1.0.1,,streamable-http,"Void Clearance Quotes: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:31:31.893204Z,uk.co.washroomquotes/site,,1.0.1,,streamable-http,"Washroom Quotes: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:31:42.479811Z,uk.co.wastecarriercheck/site,,1.0.1,,streamable-http,"Waste Carrier Check: the site's own MCP server — checker, enquiry (enquiry = a human handoff,..."
+2026-10-03T12:32:10.924481Z,uk.webdesignbasingstoke/site,,1.0.1,,streamable-http,"Web design Basingstoke: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:32:53.497994Z,uk.webdesigncheltenham/site,,1.0.1,,streamable-http,"Web design Cheltenham: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:33:20.416464Z,uk.webdesignpoole/site,,1.0.1,,streamable-http,"Web design Poole: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:33:35.416787Z,uk.webdesignsuffolk/site,,1.0.1,,streamable-http,"Web design Suffolk: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:33:49.036652Z,pro.teamwars/esports,TEAMWARS Esports,1.0.0,,streamable-http,"FPS esports data for AI: Valorant player stats, teams, tournaments, prizes from TEAMWARS. CS2 next"
+2026-10-03T12:34:04.330766Z,uk.webdesignsussex/site,,1.0.1,,streamable-http,"Web design Sussex: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:34:46.998781Z,uk.co.websitedesignerssmallbusiness/site,,1.0.1,,streamable-http,Website designers for small business: the site's own MCP server — enquiry (enquiry = a human...
+2026-10-03T12:35:29.634134Z,uk.co.websitedesignguildford/site,,1.0.1,,streamable-http,"Web design Guildford: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:36:12.582998Z,uk.co.websitedesignwoking/site,,1.0.1,,streamable-http,"Web design Woking: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:36:23.465705Z,uk.co.whatcanidrive/site,,1.0.1,,streamable-http,"What Can I Drive: the site's own MCP server — checker, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:36:34.250095Z,uk.co.whichevcharger/site,,1.0.1,,streamable-http,"Which EV Charger: the site's own MCP server — checker, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:36:47.417042Z,com.whichfieldservice/site,,1.0.1,,streamable-http,"Which Field Service: the site's own MCP server — compare, enquiry (enquiry = a human handoff,..."
+2026-10-03T12:36:58.32074Z,com.whichfieldsoftware/site,,1.0.1,,streamable-http,"Which Field Software: the site's own MCP server — compare, enquiry (enquiry = a human handoff,..."
+2026-10-03T12:37:09.316948Z,com.whichmadvisor/site,,1.0.1,,streamable-http,"Which M&A Advisor: the site's own MCP server — compare, enquiry (enquiry = a human handoff, not..."
+2026-10-03T12:37:22.687563Z,app.weekendflights/weekendflights,,0.1.0,,streamable-http,"Cheapest weekend round-trip flight prices by route, with the time each price was last checked."
+2026-10-03T12:37:36.063016Z,uk.co.whitelabelseomarketing/site,,1.0.1,,streamable-http,"White label SEO marketing: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:37:40.563827Z,ai.atalay/mcp,Atalay,1.0.0,,streamable-http,"Your business data across Atalay products: websites, domains, mail, servers, e-invoices, AI."
+2026-10-03T12:37:47.252154Z,com.wipvo/site,,1.0.1,,streamable-http,Wipvo: the site's own MCP server — compare; every answer cites the site.
+2026-10-03T12:37:57.435096Z,uk.co.workplacerecyclingrules/site,,1.0.1,,streamable-http,"Workplace Recycling Rules: the site's own MCP server — checker, enquiry (enquiry = a human..."
+2026-10-03T12:38:13.904212Z,com.amortlane/site,,1.0.1,,streamable-http,Amortlane: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:38:25.156391Z,com.answeringservicequotes/site,,1.0.1,,streamable-http,"Answering Service Quotes: the site's own MCP server — dataset, enquiry (enquiry = a human..."
+2026-10-03T12:38:36.67211Z,uk.co.asbestossurveycost/site,,1.0.1,,streamable-http,"Asbestos Survey Cost: the site's own MCP server — dataset, enquiry, entities (enquiry = a human..."
+2026-10-03T12:38:49.103969Z,com.attestroom/site,,1.0.1,,streamable-http,Attestroom: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:39:05.378091Z,com.attestvio/site,,1.0.1,,streamable-http,Attestvio: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:39:20.464232Z,com.backgroundcheckquotes/site,,1.0.1,,streamable-http,"Background Check Quotes: the site's own MCP server — dataset, enquiry (enquiry = a human..."
+2026-10-03T12:39:35.100912Z,com.bagsthatpay/site,,1.0.1,,streamable-http,"Bags That Pay: the site's own MCP server — dataset, enquiry, entities, listing (enquiry = a..."
+2026-10-03T12:39:48.35917Z,com.bankcodelookup/site,,1.0.1,,streamable-http,"Bank Code Lookup: the site's own MCP server — dataset, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:39:59.434223Z,com.batesio/site,,1.0.1,,streamable-http,Batesio: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:40:10.274748Z,com.binstockly/site,,1.0.1,,streamable-http,Binstockly: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:40:21.57178Z,org.biobricks/site,,1.0.1,,streamable-http,"BioBricks: the site's own MCP server — dataset, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:40:32.180899Z,com.breakerdesk/site,,1.0.1,,streamable-http,BreakerDesk: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:40:42.672222Z,com.buffrota/site,,1.0.1,,streamable-http,"Buffrota: the site's own MCP server — dataset, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:40:53.20214Z,com.burdenrateledger/site,,1.0.1,,streamable-http,BurdenRateLedger: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:41:03.624673Z,com.cafmlane/site,,1.0.1,,streamable-http,Cafmlane: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:41:23.189474Z,com.calibvo/site,,1.0.1,,streamable-http,Calibvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:41:33.758292Z,com.capanix/site,,1.0.1,,streamable-http,Capanix: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:41:44.879604Z,com.capitalgainstaxhq/site,,1.0.1,,streamable-http,"Capital Gains Tax HQ: the site's own MCP server — dataset, enquiry (enquiry = a human handoff,..."
+2026-10-03T12:41:55.215308Z,com.carbikly/site,,1.0.1,,streamable-http,Carbikly: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:42:07.684715Z,uk.co.cardmachinepricing/site,,1.0.1,,streamable-http,"Card Machine Pricing: the site's own MCP server — dataset, enquiry (enquiry = a human handoff,..."
+2026-10-03T12:42:17.70996Z,com.clauselane/site,,1.0.1,,streamable-http,Clauselane: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:42:28.20289Z,com.clientvo/site,,1.0.1,,streamable-http,Clientvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:42:39.390399Z,com.clipboardo/site,,1.0.1,,streamable-http,Clipboardo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:42:49.992662Z,com.cmmsly/site,,1.0.1,,streamable-http,Cmmsly: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:43:00.691783Z,com.coildesk/site,,1.0.1,,streamable-http,CoilDesk: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:43:13.570754Z,com.commercialrefinancequotes/site,,1.0.1,,streamable-http,"Commercial Refinance Quotes: the site's own MCP server — dataset, enquiry (enquiry = a human..."
+2026-10-03T12:43:24.045403Z,com.consentvia/site,,1.0.1,,streamable-http,Consentvia: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:43:35.092446Z,com.contractorleadquotes/site,,1.0.1,,streamable-http,"Contractor Lead Quotes: the site's own MCP server — dataset, enquiry (enquiry = a human handoff,..."
+2026-10-03T12:43:45.125617Z,com.cookievo/site,,1.0.1,,streamable-http,Cookievo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:43:56.405278Z,uk.co.corptaxcalculator/site,,1.0.1,,streamable-http,"Corp Tax Calculator: the site's own MCP server — dataset, enquiry (enquiry = a human handoff,..."
+2026-10-03T12:44:06.69125Z,com.coshhvo/site,,1.0.1,,streamable-http,Coshhvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:44:49.66115Z,com.cryptoexchangecomparehq/site,,1.0.1,,streamable-http,"Crypto Exchange Compare HQ: the site's own MCP server — dataset, enquiry (enquiry = a human..."
+2026-10-03T12:45:00.109759Z,com.csatzo/site,,1.0.1,,streamable-http,Csatzo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:45:12.027258Z,com.curtilo/site,,1.0.1,,streamable-http,Curtilo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:45:12.329341Z,io.github.mamarexa/foundation,Foundation,1.0.0,https://github.com/mamarexa/foundation-skills,streamable-http,"Feasibility studies with computed costs, break-even, NPV and IRR."
+2026-10-03T12:45:23.021475Z,com.dailylogdesk/site,,1.0.1,,streamable-http,DailyLogDesk: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:45:34.628217Z,com.damagerestorehq/site,,1.0.1,,streamable-http,"DamageRestore HQ: the site's own MCP server — dataset, enquiry, entities (enquiry = a human..."
+2026-10-03T12:45:45.245123Z,com.defectbird/site,,1.0.1,,streamable-http,Defectbird: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:45:55.680142Z,com.deflectvo/site,,1.0.1,,streamable-http,Deflectvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:46:06.804259Z,com.depreo/site,,1.0.1,,streamable-http,Depreo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:46:18.052892Z,com.disclovo/site,,1.0.1,,streamable-http,Disclovo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:46:28.559272Z,com.dispatchzo/site,,1.0.1,,streamable-http,Dispatchzo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:46:34.820449Z,ai.elav8.fala/fala,FALA,1.0.0,,streamable-http,Build and install a voice + chat AI receptionist for any business website.
+2026-10-03T12:46:38.707722Z,com.dividvo/site,,1.0.1,,streamable-http,Dividvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:46:48.819297Z,com.doorsetbook/site,,1.0.1,,streamable-http,DoorsetBook: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:46:58.910821Z,com.drawscheduleworks/site,,1.0.1,,streamable-http,DrawScheduleWorks: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:47:09.530396Z,com.dsarvo/site,,1.0.1,,streamable-http,Dsarvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:47:19.617728Z,com.duesvo/site,,1.0.1,,streamable-http,Duesvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:47:29.240519Z,io.github.predgeAI/whale-data-mcp,,0.1.11,https://github.com/predgeAI/whale-data-mcp,,"Signed settled outcomes (Polymarket, sports, Kalshi) + whale signals as agent tools, paid via x402."
+2026-10-03T12:47:31.306421Z,com.employeedeskhq/site,,1.0.1,,streamable-http,EmployeeDeskHQ: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:47:42.403109Z,com.endpointo/site,,1.0.1,,streamable-http,Endpointo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:47:49.408043Z,io.uptimeify/mcp-server,Uptimeify,1.7.0,,streamable-http,"Free anonymous website, DNS, email and TLS checks, plus monitor read and opt-in write access."
+2026-10-03T12:47:53.693815Z,com.enpso/site,,1.0.1,,streamable-http,Enpso: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:48:09.716179Z,com.enrolvo/site,,1.0.1,,streamable-http,Enrolvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:48:25.120476Z,com.entitysearchhq/site,,1.0.1,,streamable-http,"EntitySearch HQ: the site's own MCP server — dataset, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:48:40.208146Z,com.eobify/site,,1.0.1,,streamable-http,Eobify: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:48:53.240498Z,com.eorcompass/site,,1.0.1,,streamable-http,"EOR Compass: the site's own MCP server — dataset, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:49:04.594063Z,com.eposvo/site,,1.0.1,,streamable-http,Eposvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:49:16.581932Z,com.equipmentrentalcompare/site,,1.0.1,,streamable-http,"Equipment Rental Compare: the site's own MCP server — dataset, enquiry (enquiry = a human..."
+2026-10-03T12:49:27.195795Z,com.excurvo/site,,1.0.1,,streamable-http,Excurvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:49:37.614111Z,com.exitvo/site,,1.0.1,,streamable-http,Exitvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:49:47.851331Z,com.extinvo/site,,1.0.1,,streamable-http,Extinvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:49:58.781267Z,com.fairoddscalculator/site,,1.0.1,,streamable-http,Fair Odds Calculator: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:50:10.111369Z,com.faxlineindex/site,,1.0.1,,streamable-http,"Fax Line Index: the site's own MCP server — dataset, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:50:20.926735Z,com.findagencyhq/site,,1.0.1,,streamable-http,"FindAgency HQ: the site's own MCP server — dataset, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:50:32.085598Z,com.fitouto/site,,1.0.1,,streamable-http,Fitouto: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:50:43.364369Z,com.flatratebook/site,,1.0.1,,streamable-http,FlatRateBook: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:50:54.703763Z,com.flightdelayhq/site,,1.0.1,,streamable-http,"FlightDelayHQ: the site's own MCP server — dataset, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:51:04.974852Z,com.fmlane/site,,1.0.1,,streamable-http,FMlane: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:51:15.729298Z,com.focusvo/site,,1.0.1,,streamable-http,Focusvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:51:27.000651Z,com.footfally/site,,1.0.1,,streamable-http,Footfally: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:51:38.323303Z,com.funnelvo/site,,1.0.1,,streamable-http,Funnelvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:51:49.950515Z,com.gpagradecompare/site,,1.0.1,,streamable-http,"GPA Grade Compare: the site's own MCP server — dataset, enquiry (enquiry = a human handoff, not..."
+2026-10-03T12:52:02.8643Z,com.handovra/site,,1.0.1,,streamable-http,Handovra: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:52:15.631102Z,com.hardenvo/site,,1.0.1,,streamable-http,Hardenvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:52:36.191493Z,com.hardfmly/site,,1.0.1,,streamable-http,HardFM: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:52:49.427672Z,com.hardscapedesk/site,,1.0.1,,streamable-http,HardscapeDesk: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:53:05.271088Z,com.headcountdesk/site,,1.0.1,,streamable-http,HeadcountDesk: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:53:16.422061Z,com.heatpumpcosteurope/site,,1.0.1,,streamable-http,"Wärmepumpe Kosten Europa: the site's own MCP server — dataset, enquiry (enquiry = a human..."
+2026-10-03T12:53:28.190246Z,com.historiapojazduvin/site,,1.0.1,,streamable-http,"Historia Pojazdu VIN: the site's own MCP server — dataset, enquiry (enquiry = a human handoff,..."
+2026-10-03T12:53:47.289389Z,com.homecoverhq/site,,1.0.1,,streamable-http,"HomeCover HQ: the site's own MCP server — dataset, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:53:58.365146Z,com.hostingbystack/site,,1.0.1,,streamable-http,"HostingByStack: the site's own MCP server — dataset, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:54:09.557951Z,com.hreflangly/site,,1.0.1,,streamable-http,Hreflangly: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:54:19.783489Z,com.huddlevo/site,,1.0.1,,streamable-http,Huddlevo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:54:30.241158Z,com.hydrantly/site,,1.0.1,,streamable-http,Hydrantly: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:54:44.596652Z,com.immigrationadviserfinder/site,,1.0.1,,streamable-http,"Immigration Adviser Finder: the site's own MCP server — dataset, enquiry, entities (enquiry = a..."
+2026-10-03T12:54:56.210954Z,com.inductvo/site,,1.0.1,,streamable-http,Inductvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:55:07.311274Z,com.injectionmoldingcostchecker/site,,1.0.1,,streamable-http,"Injection Molding Cost Checker: the site's own MCP server — dataset, enquiry (enquiry = a human..."
+2026-10-03T12:55:18.388784Z,com.insurancebyprofession/site,,1.0.1,,streamable-http,"Insurance by Profession: the site's own MCP server — dataset, enquiry (enquiry = a human..."
+2026-10-03T12:55:28.643039Z,com.intakez/site,,1.0.1,,streamable-http,Intakez: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:55:43.181995Z,com.issafu/site,,1.0.1,,streamable-http,"Issafu: the site's own MCP server — dataset, enquiry, entities, listing (enquiry = a human..."
+2026-10-03T12:55:56.307859Z,com.jobcardo/site,,1.0.1,,streamable-http,Jobcardo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:56:08.031964Z,com.kbasevo/site,,1.0.1,,streamable-http,Kbasevo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:56:20.051151Z,com.keysvo/site,,1.0.1,,streamable-http,Keysvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:56:32.665956Z,com.kickoffo/site,,1.0.1,,streamable-http,Kickoffo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:56:44.407471Z,com.knownvehicle/site,,1.0.1,,streamable-http,"KnownVehicle: the site's own MCP server — dataset, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T12:57:00.721796Z,com.lanyardo/site,,1.0.1,,streamable-http,Lanyardo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:57:16.558475Z,com.lasermaterialscompare/site,,1.0.1,,streamable-http,"Laser Materials Compare: the site's own MCP server — dataset, enquiry (enquiry = a human..."
+2026-10-03T12:57:32.199343Z,com.lessonvo/site,,1.0.1,,streamable-http,Lessonvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:57:51.345467Z,com.lettza/site,,1.0.1,,streamable-http,Lettza: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:58:09.955464Z,com.limslane/site,,1.0.1,,streamable-http,Limslane: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:58:24.61904Z,com.llclane/site,,1.0.1,,streamable-http,LLC Lane: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:58:36.46718Z,com.lobbyvo/site,,1.0.1,,streamable-http,Lobbyvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:58:47.296853Z,com.longtailo/site,,1.0.1,,streamable-http,Longtailo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:58:57.533554Z,com.lpreportly/site,,1.0.1,,streamable-http,LPreportly: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:59:07.743343Z,com.lugtorq/site,,1.0.1,,streamable-http,Lugtorq: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:59:18.734911Z,com.mandatzo/site,,1.0.1,,streamable-http,Mandatzo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:59:28.773073Z,com.markupbird/site,,1.0.1,,streamable-http,Markupbird: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:59:40.248565Z,com.mashzo/site,,1.0.1,,streamable-http,Mashzo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T12:59:51.507176Z,com.medcontra/site,,1.0.1,,streamable-http,Medcontra: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:00:08.120761Z,com.medicareplancomparison/site,,1.0.1,,streamable-http,"Medicare Plan Comparison: the site's own MCP server — dataset, enquiry (enquiry = a human..."
+2026-10-03T13:00:19.05128Z,com.medspacostchecker/site,,1.0.1,,streamable-http,"Med Spa Cost Checker: the site's own MCP server — dataset, enquiry (enquiry = a human handoff,..."
+2026-10-03T13:00:30.059451Z,com.miniaturepaintscompare/site,,1.0.1,,streamable-http,"Miniature Paints Compare: the site's own MCP server — dataset, enquiry (enquiry = a human..."
+2026-10-03T13:00:41.34064Z,com.monthendly/site,,1.0.1,,streamable-http,Monthendly: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:00:52.076708Z,com.mowrouteworks/site,,1.0.1,,streamable-http,MowRouteWorks: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:01:02.373806Z,com.multiplesbook/site,,1.0.1,,streamable-http,MultiplesBook: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:01:13.102221Z,com.mustvo/site,,1.0.1,,streamable-http,Mustvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:01:23.57818Z,com.netsheetly/site,,1.0.1,,streamable-http,Netsheetly: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:01:34.191138Z,com.ninebix/site,,1.0.1,,streamable-http,Ninebix: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:01:44.632096Z,com.nofovo/site,,1.0.1,,streamable-http,Nofovo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:01:54.950218Z,com.offdayly/site,,1.0.1,,streamable-http,Offdayly: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:02:05.557719Z,com.opexvo/site,,1.0.1,,streamable-http,Opexvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:02:16.235862Z,com.orderpadledger/site,,1.0.1,,streamable-http,OrderPadLedger: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:02:26.578422Z,com.orgbix/site,,1.0.1,,streamable-http,Orgbix: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:02:36.991065Z,com.orgplanly/site,,1.0.1,,streamable-http,Orgplanly: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:02:49.093271Z,com.outsourceditsupportquotes/site,,1.0.1,,streamable-http,"Outsourced IT Quotes: the site's own MCP server — dataset, enquiry (enquiry = a human handoff,..."
+2026-10-03T13:02:59.550058Z,com.partnro/site,,1.0.1,,streamable-http,Partnro: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:03:10.823884Z,com.patientvo/site,,1.0.1,,streamable-http,Patientvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:03:21.830128Z,com.payrollservicesquotes/site,,1.0.1,,streamable-http,"Payroll Services Quotes: the site's own MCP server — dataset, enquiry (enquiry = a human..."
+2026-10-03T13:03:34.626766Z,com.paywallcompass/site,,1.0.1,,streamable-http,"PaywallCompass: the site's own MCP server — dataset, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T13:03:44.944769Z,com.perdiemdesk/site,,1.0.1,,streamable-http,PerDiemDesk: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:03:54.89662Z,com.perdiemo/site,,1.0.1,,streamable-http,Perdiemo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:04:07.389106Z,com.pickpathly/site,,1.0.1,,streamable-http,Pickpathly: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:04:09.22015Z,io.github.saulius876-lgtm/naukri-jobs,Naukri Jobs Scraper,1.0.0,,streamable-http,"Search Naukri.com jobs in India: titles, companies, salaries, skills, and which companies hire most."
+2026-10-03T13:04:10.046033Z,io.github.saulius876-lgtm/reddit-search,Reddit Search Scraper,1.0.0,,streamable-http,Search Reddit posts by keyword and subreddit; find recommendation requests and brand mentions.
+2026-10-03T13:04:10.674711Z,io.github.saulius876-lgtm/shopify-price-monitor,Shopify Price and Stock Monitor,1.0.0,,streamable-http,"Prices, stock and variants of products on any public Shopify store, with change and margin checks."
+2026-10-03T13:04:11.390089Z,io.github.saulius876-lgtm/trustpilot-reviews,Trustpilot Reviews Scraper,1.0.0,,streamable-http,"Trustpilot reviews for any company domain: ratings, text, replies, and unanswered low-star reviews."
+2026-10-03T13:04:20.593445Z,com.potterysupplieshq/site,,1.0.1,,streamable-http,"PotterySuppliesHQ: the site's own MCP server — dataset, enquiry (enquiry = a human handoff, not..."
+2026-10-03T13:04:30.950303Z,com.ppmly/site,,1.0.1,,streamable-http,Ppmly: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:04:41.339317Z,com.probeledger/site,,1.0.1,,streamable-http,ProbeLedger: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:04:53.721133Z,com.procedurecostchecker/site,,1.0.1,,streamable-http,"Procedure Cost Checker: the site's own MCP server — dataset, enquiry (enquiry = a human handoff,..."
+2026-10-03T13:05:04.868489Z,com.proofzo/site,,1.0.1,,streamable-http,Proofzo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:05:20.935226Z,com.propfirmpicker/site,,1.0.1,,streamable-http,"PropFirmPicker: the site's own MCP server — dataset, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T13:05:32.292507Z,com.ptoroom/site,,1.0.1,,streamable-http,PTOroom: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:05:42.926131Z,com.punchlistworks/site,,1.0.1,,streamable-http,PunchListWorks: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:05:54.297963Z,com.rapportvo/site,,1.0.1,,streamable-http,Rapportvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:06:07.668391Z,com.rebadgo/site,,1.0.1,,streamable-http,Rebadgo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:06:22.263537Z,com.recallvia/site,,1.0.1,,streamable-http,Recallvia: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:06:36.539528Z,com.receivableledger/site,,1.0.1,,streamable-http,ReceivableLedger: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:07:03.78385Z,com.reconzy/site,,1.0.1,,streamable-http,Reconzy: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:07:14.761801Z,com.remitdeck/site,,1.0.1,,streamable-http,RemitDeck: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:07:29.300833Z,com.rentrolldesk/site,,1.0.1,,streamable-http,RentRollDesk: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:07:40.090552Z,com.reputzo/site,,1.0.1,,streamable-http,Reputzo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:07:50.884238Z,com.reqnix/site,,1.0.1,,streamable-http,Reqnix: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:08:07.378994Z,com.requly/site,,1.0.1,,streamable-http,Requly: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:08:17.879112Z,com.retainvia/site,,1.0.1,,streamable-http,Retainvia: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:08:29.504285Z,com.retainvo/site,,1.0.1,,streamable-http,Retainvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:08:39.762151Z,com.reviewvo/site,,1.0.1,,streamable-http,Reviewvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:08:51.335818Z,com.rmmcompare/site,,1.0.1,,streamable-http,"RMMCompare: the site's own MCP server — dataset, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T13:09:02.270732Z,com.rollcallworks/site,,1.0.1,,streamable-http,RollCallWorks: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:09:12.875048Z,com.rollupvo/site,,1.0.1,,streamable-http,Rollupvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:09:24.934931Z,com.roofingquotesuk/site,,1.0.1,,streamable-http,"Roofing Quotes UK: the site's own MCP server — dataset, enquiry, entities (enquiry = a human..."
+2026-10-03T13:09:36.441741Z,com.rotazo/site,,1.0.1,,streamable-http,Rotazo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:09:47.022568Z,com.roughindesk/site,,1.0.1,,streamable-http,RoughInDesk: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:09:57.33033Z,com.runbookdesk/site,,1.0.1,,streamable-http,RunbookDesk: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:10:05.362578Z,nl.arcade-games/mind-arcade,Mind Arcade,0.2.0,https://github.com/back2basic/mcp.arcade-games.nl,streamable-http,"Play seven arcade puzzles, submit verified AI scores, and explore public leaderboards."
+2026-10-03T13:10:08.001134Z,com.runsheetly/site,,1.0.1,,streamable-http,Runsheetly: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:10:18.091648Z,com.runwayze/site,,1.0.1,,streamable-http,Runwayze: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:10:29.876501Z,com.sacristo/site,,1.0.1,,streamable-http,Sacristo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:10:43.210462Z,com.saunacoldplungecompare/site,,1.0.1,,streamable-http,"Sauna Cold Plunge Compare: the site's own MCP server — dataset, enquiry (enquiry = a human..."
+2026-10-03T13:10:54.482807Z,com.sbarvo/site,,1.0.1,,streamable-http,Sbarvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:11:05.189332Z,com.scopedly/site,,1.0.1,,streamable-http,Scopedly: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:11:18.342904Z,com.sellmybusinessquotes/site,,1.0.1,,streamable-http,"Sell My Business Quotes: the site's own MCP server — dataset, enquiry (enquiry = a human..."
+2026-10-03T13:11:33.75964Z,com.sendaparcelcompare/site,,1.0.1,,streamable-http,"Send A Parcel Compare: the site's own MCP server — dataset, enquiry (enquiry = a human handoff,..."
+2026-10-03T13:11:48.296946Z,com.shortcodo/site,,1.0.1,,streamable-http,Shortcodo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:12:03.287696Z,com.siftvo/site,,1.0.1,,streamable-http,Siftvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:12:14.71703Z,uk.co.simonlydealscompare/site,,1.0.1,,streamable-http,"SIM Only Deals Compare: the site's own MCP server — dataset, enquiry (enquiry = a human handoff,..."
+2026-10-03T13:12:25.150252Z,com.sittingly/site,,1.0.1,,streamable-http,Sittingly: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:12:30.979348Z,io.github.lonniev/beesknees-mcp,,0.2.0,https://github.com/lonniev/beesknees-mcp,streamable-http,"The Bee's Knees — a monetized multiplayer race to the queen, on Tollbooth DPYC"
+2026-10-03T13:12:36.278429Z,com.soapvo/site,,1.0.1,,streamable-http,Soapvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:12:54.917508Z,com.sopvo/site,,1.0.1,,streamable-http,Sopvo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:13:13.829343Z,io.github.qiwei66/sesame,Sesame,0.2.1,https://github.com/qiwei66/sesame,,"Search and open dashboards, reports, decks and PRs that Claude Code and Codex made on your Mac."
+2026-10-03T13:13:35.985174Z,com.sowbird/site,,1.0.1,,streamable-http,Sowbird: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:13:49.215283Z,com.stagenix/site,,1.0.1,,streamable-http,Stagenix: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:14:09.38092Z,com.stocktaka/site,,1.0.1,,streamable-http,Stocktaka: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:14:23.324581Z,com.strengthstandardscalc/site,,1.0.1,,streamable-http,"Strength Standards Calc: the site's own MCP server — dataset, enquiry (enquiry = a human..."
+2026-10-03T13:14:36.747344Z,com.structuredsettlementcompare/site,,1.0.1,,streamable-http,"Structured Settlement Compare: the site's own MCP server — dataset, enquiry (enquiry = a human..."
+2026-10-03T13:14:48.678509Z,com.subbielane/site,,1.0.1,,streamable-http,Subbielane: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:14:59.474858Z,com.subsroom/site,,1.0.1,,streamable-http,Subsroom: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:15:11.039769Z,com.sudslane/site,,1.0.1,,streamable-http,Sudslane: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:15:28.253183Z,com.tachovo/site,,1.0.1,,streamable-http,Tachovo: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T13:16:51.400352Z,io.github.dtkmn/mcp-zap-server,MCP ZAP Server,0.14.0,https://github.com/dtkmn/mcp-zap-server,,"Safe, self-hosted ZAP operator for guided AI security scans and reports."
+2026-10-03T13:18:19.914711Z,live.lathe/lathe,Lathe,1.0.1,,streamable-http,"Postgres, Redis, CouchDB, NATS, your app and its sign-in on one dedicated machine, one flat price."
