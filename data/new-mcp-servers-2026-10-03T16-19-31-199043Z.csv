@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-10-03T15:24:10.595595Z,com.bitculator/market-data,Bitculator,1.0.0,,streamable-http,"Crypto market data for AI agents: live prices, OHLCV, sentiment, indicators and exchanges."
+2026-10-03T15:36:23.294592Z,io.github.ryan-tish/sendpaper,Sendpaper,1.0.0,https://github.com/ryan-tish/sendpaper-plugin,streamable-http,Your agent sends real postcards and letters. You approve; we print and mail.
+2026-10-03T15:38:05.427051Z,com.pexafy/pexafy-mcp,Pexafy,1.0.0,https://github.com/Pexafy/pexafy-mcp,streamable-http,"Find free-to-use stock photos by words, by image or by similarity; every result names its licence."
+2026-10-03T15:38:18.855812Z,ai.instapath/instapath,Instapath,3.1.0,,streamable-http,"Your agent posts what you offer, searches for what you need, and talks to other agents."
+2026-10-03T15:39:58.914506Z,site.failegal/fai-legal,FAI Legal Research,1.0.0,,streamable-http,"Pakistani case law and statutes: Supreme Court and High Court judgments, laws, drafting templates."
+2026-10-03T15:40:03.595117Z,io.github.jkresearch8/domscout,domscout,1.0.7,https://github.com/jkresearch8/domscout-mcp,,"domscout browser API as MCP tools: screenshots, Markdown, structured data, page automation, crawls."
+2026-10-03T15:41:29.22602Z,io.github.jackskip22/rapier,Rapier,1.1.51,https://github.com/jackskip22/rapier-plugins,streamable-http,"Markdown editor in one offline HTML file: the agent edits passages, you keep or drop each change."
+2026-10-03T15:41:40.718822Z,com.collegecalcai/admissions,CollegeCalcAI,1.1.0,,streamable-http,"Admission chances at 1,100+ U.S. colleges, college list scoring, and federal admissions data."
+2026-10-03T15:49:00.274185Z,io.github.dbhurley/ppl,ppl - Personal CRM for AI Agents,1.2.0,https://github.com/pplgift/ppl,streamable-http,"Personal CRM operated by AI agents. Read relationship context before acting, write back after."
+2026-10-03T15:53:16.656725Z,io.github.perlmanlegal/special-education-law-decisions,Special Education Law,4.0.0,,streamable-http,Searchable special education decisions and legal research tools.
+2026-10-03T15:53:34.878762Z,io.github.modern-ai-inc/w0-mcp-server,Modern AI Brand Recommendation Rate,1.1.0,https://github.com/modern-ai-inc/w0-mcp-server,streamable-http,How often AI search picks a brand first. Recommendation Rate data from Modern Discovery.
+2026-10-03T15:54:03.743198Z,io.github.willuhmjs/discord-mcp,Discord,1.1.1,https://github.com/willuhmjs/discord-mcp,,"Discord for LLM agents: 168 tools for messages, moderation, channels, roles, threads and AutoMod."
+2026-10-03T15:55:58.527102Z,uk.co.taptax/taptax,TapTax,1.0.0,,streamable-http,"UK self-employed tax: tax so far, receipts, mileage, invoices and Making Tax Digital updates."
+2026-10-03T15:59:39.105812Z,io.github.questionpunk/questionpunk,QuestionPunk,1.1.0,,streamable-http,"Create, edit and publish surveys and AI interviews, then read responses and reports."
+2026-10-03T16:00:56.967216Z,io.github.openreadout/openreadout,OpenReadout,0.1.0,https://github.com/openreadout/openreadout,,"Read raw lab-instrument files offline: metadata, previews, integrity checks, open-format export."
+2026-10-03T16:03:46.20293Z,io.github.poweredbyGEN/gen-mcp-server,GEN,0.2.0,https://github.com/poweredbyGEN/gen-mcp-server,streamable-http,"Research trends, create images and videos, manage Vidsheets, and publish content. OAuth or PAT."
+2026-10-03T16:06:01.129572Z,io.github.MelMayssonOwen/prayer-in-hand,,1.0.0,,streamable-http,"Public prayer guide discovery, guide details and a three-pause daily reflection rhythm."
+2026-10-03T16:06:39.004247Z,ai.whatareyoubuilding/wayb,WhatAreYouBuilding.AI,1.0.0,,streamable-http,"A catalogue of indie products, not a registry of MCP servers. Reading needs no credential."
+2026-10-03T16:08:58.119792Z,io.github.MelMayssonOwen/clef,,1.0.0,,streamable-http,"Read-only music guides, chord transposition, piano chord spelling and guitar-tab pitch mapping."
+2026-10-03T16:11:09.625763Z,com.tallyfern/rates,Tallyfern Rates (Canada),0.1.0,,streamable-http,"Read-only Canadian GST/HST rates, small-supplier check and CRA allowance rates, with CRA sources."
+2026-10-03T16:14:38.962723Z,com.dedale-bi.remnant/remnant,Remnant — Reusable Agent Experience,0.1.0-beta.9,,streamable-http,"Search agent experience, inspect evidence, and report real outcomes through MCP."
+2026-10-03T16:15:19.482651Z,com.quayutec/quayutec,Quayutec,1.0.0,,streamable-http,The shared room where AI agents from different companies work together on one project.
+2026-10-03T16:18:09.324621Z,io.github.samaanmohammed-art/leadharbor-mcp,,0.1.1,https://github.com/samaanmohammed-art/leadharbor-mcp,,"Email verify (MX), website contacts, LinkedIn jobs, YouTube data via RapidAPI. Bring your own key."
+2026-10-03T16:19:03.817902Z,io.github.saulius876-lgtm/google-flights,Google Flights API,1.0.0,,streamable-http,"Google Flights prices for any route and date: round trips, cabins, stops, airlines, cheapest dates."
