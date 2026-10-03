@@ -9,36 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 07:21 UTC
+## Latest list — 2026-10-03 08:20 UTC
 
-New MCP servers published between 2026-10-03 06:22 UTC and 2026-10-03 07:21 UTC.
+New MCP servers published between 2026-10-03 07:21 UTC and 2026-10-03 08:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-03T07-21-57-354861Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-03T08-20-24-491921Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-03 06:24:19 | ch.kulalabs.agents/jobflow | JOBFLOW | 1.0.0 | Existing trade and field-service flow for AI agents, request to paid job. Free… |
-| 2026-10-03 06:26:02 | uk.co.jurk/component-sourcing | Jurk Shenzhen Electronic Component Sour… | 1.0.0 | Shenzhen sourcing for hard-to-find, obsolete and EOL electronic components. |
-| 2026-10-03 06:28:06 | [org.edufeed/nope-mcp](https://github.com/edufeed-org/nope-mcp) | nope-mcp — Open Educational Resources s… | 0.4.0 | Search German open educational resources (OER) via AMB/schema.org metadata, ope… |
-| 2026-10-03 06:31:48 | [io.dbcode/dbcode](https://github.com/dbcodeio/public) | DBCode | 1.0.0 | Query and explore 100+ databases through your DBCode connections. |
-| 2026-10-03 06:41:28 | [com.pixharvest/tariff-data](https://github.com/contentforge-press/us-tariff-data) | Tariff Data | 1.0.0 | US import tariff rates and landed-cost data for AI agents and ecommerce. |
-| 2026-10-03 06:42:31 | [io.github.Synvoya/codeinspectus](https://github.com/Synvoya/codeinspectus) | CodeInspectus | 3.3.0 | Local-first MCP security scanner and CLI for AI-generated applications. |
-| 2026-10-03 06:43:29 | [io.github.DrRataplan/fonto-docs](https://github.com/DrRataplan/fonto-docs-mcp) | Fonto Docs | 1.7.0 | Fonto (FontoXML) documentation for AI tools. Converts DITA XML to Markdown on d… |
-| 2026-10-03 06:50:30 | [io.github.ENTERPILOT/gomodel](https://github.com/ENTERPILOT/GoModel) | GoModel | 0.1.99 | Self-hosted gateway aggregating upstream MCP servers behind one authenticated H… |
-| 2026-10-03 06:55:29 | [com.verdixapi/verdix](https://github.com/verdixapi/verdix-mcp) | Verdix address risk | 0.2.0 | Check an EVM address on Base before sending funds: safe/caution/danger. Pays pe… |
-| 2026-10-03 06:55:35 | com.tournride/camino-bike-rental | Tournride — Camino de Santiago bike ren… | 1.0.0 | Real-time bike rental availability, exact prices and route knowledge for the Ca… |
-| 2026-10-03 06:57:10 | com.emailplane/mail | eMailPlane Mail | 0.1.0 | Email for AI agents: send, receive, threads, templates, domains and mailboxes o… |
-| 2026-10-03 06:57:19 | [io.github.maple-kit/maple](https://github.com/maple-kit/maple) | Maple | 0.17.1 | Review comments pinned to a running frontend, read and resolved by your coding… |
-| 2026-10-03 06:57:28 | [io.github.Adeniyikayodee/ng-postcode](https://github.com/Adeniyikayodee/ng-postcode) | Nigeria Postcode | 0.1.0 | Validate, look up and reverse-geocode Nigeria's NIPOST digital postcodes (NDAPS… |
-| 2026-10-03 07:00:25 | [io.github.mrpacstar2-oss/remit](https://github.com/mrpacstar2-oss/remit) |  | 0.1.0 | Checked language for AI-written agent workflows: limits, cost and data flows kn… |
-| 2026-10-03 07:04:46 | [app.mailtea/mailtea](https://github.com/mailtea-app/mailtea-agent-plugin) | Mailtea | 0.9.0 | Send email and newsletters with Mailtea over MCP, plus skills for email and web… |
-| 2026-10-03 07:04:57 | [io.github.retracn/app-reviews-ai](https://github.com/retracn/app-store-google-play-reviews-ai) | App Store & Google Play Reviews AI (via… | 1.0.0 | AI summary of App Store and Google Play reviews: bugs, feature requests and cri… |
-| 2026-10-03 07:04:57 | [io.github.retracn/automationnation](https://github.com/retracn/automationnation-mcp) | AutomationNation data tools (via Apify) | 1.0.0 | Google Trends, Google Jobs, AI Overview citations, UK business leads and app re… |
-| 2026-10-03 07:04:57 | [io.github.retracn/google-ai-overview-tracker](https://github.com/retracn/google-ai-overview-tracker) | Google AI Overview Tracker (via Apify) | 1.0.0 | Check if Google AI Overviews cite your website: citations, competitors and chan… |
-| 2026-10-03 07:04:58 | [io.github.retracn/google-jobs](https://github.com/retracn/google-jobs-scraper) | Google Jobs (via Apify) | 1.0.0 | Search Google Jobs from AI agents: listings with salaries, full descriptions an… |
-| 2026-10-03 07:04:58 | [io.github.retracn/google-trends](https://github.com/retracn/google-trends-scraper) | Google Trends (via Apify) | 1.0.0 | Google Trends data for AI agents: interest over time, regions, rising queries a… |
-| 2026-10-03 07:04:58 | [io.github.retracn/uk-business-leads](https://github.com/retracn/uk-business-leads-google-maps) | UK Business Leads (via Apify) | 1.0.0 | UK business leads from Google Maps with emails, phones, Companies House directo… |
-| 2026-10-03 07:16:18 | io.github.Humanleap/sentrydock |  | 1.1.0 | Search indexed news, monitor topics and get signed webhook alerts. OAuth and AP… |
+| 2026-10-03 07:23:58 | [io.github.internetdata/mcp](https://github.com/internetdata/mcp) | InternetData | 2.2.2 | List InternetData's IP and ASN databases, your license for each, what one holds… |
+| 2026-10-03 07:26:20 | com.getlinkintel/linkintel | LinkIntel | 1.0.0 | Evidence for your AI's next X post: your post metrics, X ranking weights and ch… |
+| 2026-10-03 07:29:39 | io.sslip.169.126.216.95/sol-defi-desk | sol-defi-desk | 0.1.10 | Paid Solana token safety checks over Streamable HTTP MCP (x402 USDC). |
+| 2026-10-03 07:34:06 | [so.upstream/upstream](https://github.com/upstream-so/upstream-mcp) | Upstream.so | 1.0.2 | Manage 24/7 live streams, media, playback queues, schedules, and multistreaming… |
+| 2026-10-03 07:43:23 | io.github.yemyat/save-this-one | Save This One | 1.0.0 | Save, search, read, tag, and organize your bookmarks from AI assistants with OA… |
+| 2026-10-03 07:45:31 | [io.github.jojo-labs/smart-web](https://github.com/jojo-labs/smart-web) | smart-web | 0.44.1 | smartfetch direct-URL fetch, smartsearch web discovery, smartcrawl sites, and d… |
+| 2026-10-03 07:47:51 | [io.github.vpndetection-io/mcp](https://github.com/vpndetection-io/mcp) | VPNDetection | 5.3.6 | VPN, proxy, Tor, hosting and CDN detection for any IP address, from the VPNDete… |
+| 2026-10-03 07:49:50 | [io.github.Craig-Horton/aibvf-mcp](https://github.com/Craig-Horton/ai-bvf) |  | 0.14.13 | AI BVF: score AI portfolios Stop/Fix/Accelerate with decision confidence and pa… |
+| 2026-10-03 07:50:17 | [io.github.depper-IA/kommo-kiro-power](https://github.com/depper-IA/kommo-kiro-power) | Kommo CRM | 1.0.2 | Manage Kommo CRM leads, contacts, pipelines, tasks, notes, tags and companies. |
+| 2026-10-03 07:50:27 | [io.github.simonmak-ascent/valuation-skills](https://github.com/simonmak-ascent/valuation_skills) | Valuation Skills MCP Server | 0.1.1 | Valuation MCP: DCF/NAV/CCA, cost of capital, derivatives, credit risk, report r… |
+| 2026-10-03 07:55:16 | [com.xposedornot/xposedornot](https://github.com/XposedOrNot/XposedOrNot-API) | XposedOrNot Breach Intelligence | 2.0.0 | Real-time data-breach lookup and analytics for emails and domains from XposedOr… |
+| 2026-10-03 07:56:26 | [io.github.simonmak-ascent/fair-value](https://github.com/simonmak-ascent/fair-value) | Fair Value MCP Server | 0.2.0 | Valuation MCP: DCF/NAV/CCA, cost of capital, derivatives, credit risk, report r… |
+| 2026-10-03 08:02:22 | [io.github.pavellunev/appmetrica-mcp](https://github.com/pavellunev/app_metrica_mcp) |  | 0.3.0 | AppMetrica (Yandex) analytics: reports, funnels, segments, dashboards, logs exp… |
+| 2026-10-03 08:04:44 | [io.github.justrouting/justrouting](https://github.com/justrouting/mcp) | JustRouting MCP Server | 0.1.5 | Road routing, travel-time matrices, geocoding, and fleet optimization for South… |
+| 2026-10-03 08:05:10 | [io.github.sepehr071/digikala-mcp](https://github.com/sepehr071/digikala-mcp) | Digikala | 0.1.0 | Unofficial read-only Digikala: search products, compare sellers, price history,… |
+| 2026-10-03 08:05:15 | [io.github.sepehr071/masterkala-mcp](https://github.com/sepehr071/masterkala-mcp) | MasterKala | 0.1.0 | Unofficial read-only MasterKala: search gadgets, compare prices and specs, stoc… |
+| 2026-10-03 08:05:16 | [io.github.sepehr071/technolife-mcp](https://github.com/sepehr071/technolife-mcp) | Technolife | 0.1.0 | Unofficial read-only Technolife: search electronics, compare sellers and instal… |
+| 2026-10-03 08:15:19 | [io.github.alliecatowo/git-why](https://github.com/alliecatowo/git-why) | Git Why | 0.1.1 | Finds the Git commits that explain why code is the way it is: semantic and full… |
+| 2026-10-03 08:15:35 | [io.github.Kay0sstheory/currensor](https://github.com/Kay0sstheory/Currensor) | Currensor | 1.0.0 | Live currency conversion for 166 currencies, shown as an interactive in-chat ca… |
+| 2026-10-03 08:17:49 | [io.github.voronkovd/pocket-master-mcp](https://github.com/voronkovd/pocket-master-mcp) | Sonicake Pocket Master | 0.1.0 | Control a Sonicake Pocket Master guitar processor over USB MIDI: amps, effects… |
 
 ## Data source
 
