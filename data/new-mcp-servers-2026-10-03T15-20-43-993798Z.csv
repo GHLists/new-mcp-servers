@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-10-03T14:25:47.945341Z,com.generaterandomiban/iban-generator,Generate Random IBAN,1.0.0,,streamable-http,"Generate valid test IBANs for 91 countries and validate any IBAN. Public, no API key."
+2026-10-03T14:27:30.607416Z,io.github.sly13/cryptoetf,,1.0.11,https://github.com/zerosix-studio/cryptoetf-mcp,streamable-http,"Live spot crypto ETF flows for 16 assets, CEFI sentiment index and prices."
+2026-10-03T14:28:03.160763Z,ai.swingfactor/mcp,SwingFactor,1.0.0,,streamable-http,Work a decision through SwingFactor’s method: build and challenge a model of what could change it.
+2026-10-03T14:28:07.245141Z,ai.crub/mcp,Crub,1.0.0,,streamable-http,"Identify plants, mushrooms and insects, and keep your garden’s records and jobs, from your AI."
+2026-10-03T14:29:49.282166Z,com.ikeytz/website,ikeytz - Schlüsseldienst Ludwigsburg,1.0.15,,streamable-http,Read/Link MCP tools for Schlüsseldienst Ludwigsburg ikeytz. Public read-only. No forms. ai-train=no.
+2026-10-03T14:33:54.074894Z,io.github.sriinnu/tokmeter,Tokmeter — AI Agent Usage & Cost,1.14.0,https://github.com/sriinnu/tokmeter,,"Tokens and cost for Claude Code, Codex and 14 more AI coding agents, from local session files."
+2026-10-03T14:36:24.790759Z,com.saastemly/supervision-draw,Supervision Draw,1.0.1791038182,,streamable-http,"Draw detections onto an image with Roboflow supervision's own annotators, over HTTP and MCP...."
+2026-10-03T14:37:15.098982Z,com.saastemly/mem0-cloud,Mem0 Cloud,1.0.1791038233,,streamable-http,A hosted agent-memory API shaped like mem0's REST API (an alternative to running mem0 yourself):...
+2026-10-03T14:37:30.335218Z,com.xtracticle/xtracticle,Xtracticle,3.1.0,https://github.com/ahmetdeveci3112-crypto/Xtracticle,streamable-http,"Read public X (Twitter) posts, threads and X Articles as clean Markdown. Read-only, no auth."
+2026-10-03T14:38:15.162364Z,pro.wrench/vehicle-check,Wrench.Pro Vehicle Check,1.0.0,,streamable-http,"Recalls, known issues, and honest maintenance costs for any US-market vehicle since 1990."
+2026-10-03T14:39:40.495516Z,co.flowleap/flowleap,FlowLeap Patent AI,1.0.0,,streamable-http,"EPO/USPTO search, citations, OCR, plus PATSTAT Portfolio Analytics, guarded SQL and Graph Analytics."
+2026-10-03T14:40:22.866202Z,io.github.wegravel/zensei-mcp,Zensei Index,1.0.0,https://github.com/wegravel/zensei-mcp,streamable-http,"Today's Zensei Index: a 0-100 US market risk score, its ten indicators and the latest summary."
+2026-10-03T14:40:28.18169Z,io.github.saulius876-lgtm/google-hotels,Google Hotels API,1.0.0,,streamable-http,"Google Hotels prices for any dates and guests, ratings, amenities and every booking site's price."
+2026-10-03T14:42:58.075798Z,io.github.sebastienrousseau/corralctl,corralctl,0.0.37,https://github.com/sebastienrousseau/corralctl,,Search code and symbols across every clone in your corralctl workspace. Zero network calls.
+2026-10-03T14:47:08.553409Z,ai.quillm/quillm,Quillm,1.0.0,https://github.com/streamfog/quillm-plugin,streamable-http,"Dashboards, trackers and docs your agents build and keep current. Your team reads them by link."
+2026-10-03T14:49:49.26749Z,io.github.jmma777-create/preciosdelcampo,Precios del Campo,1.0.202610031449,,streamable-http,"Precios agrarios de España con fuente y fecha: Generalitat, MAPA, gasóleo B y plazos del campo."
+2026-10-03T14:52:32.891091Z,com.portmem/portmem,PortMem,1.0.0,,streamable-http,"Check AI-written drafts against your source documents, with the passage behind every verdict."
+2026-10-03T14:56:13.981771Z,io.github.naw103/foremerge,Foremerge,0.5.1,https://github.com/naw103/foremerge,,"Coordinate parallel coding agents, above Git"
+2026-10-03T15:01:16.982851Z,com.gccbrokers/market-data,GCC Brokers,1.0.0,,streamable-http,"GCC Brokers instrument specs, swaps, trading hours, quotes, accounts and economic calendar."
+2026-10-03T15:01:59.291663Z,io.github.chemodun/x4-script-mcp,X4CodeSense,0.1.1,https://github.com/chemodun/X4CodeSense,,"X4: Foundations scripts: checks, schema elements, expression types, scripts, cues and texts."
+2026-10-03T15:03:05.461001Z,io.github.Shipi18n/shipi18n,,2.3.0,https://github.com/Shipi18n/shipi18n,,"Check locale files for broken placeholders, plurals and missing keys. Validators need no API key."
+2026-10-03T15:04:27.710158Z,io.github.dylanroscover/embody,Embody - MCP Server for TouchDesigner,6.2.67,https://github.com/dylanroscover/Embody,,"70-tool MCP server for TouchDesigner: build, wire and debug live networks from an AI agent."
+2026-10-03T15:04:31.397006Z,com.excaliclaw/excaliclaw,ExcaliClaw,1.0.0,,streamable-http,"Create, edit and organize hand-drawn diagrams (flowcharts, ER, architecture) from any AI agent."
+2026-10-03T15:05:29.430213Z,com.3lgrouptechnology/3lt-letter-mail,3LT Letter Mail,1.0.0,https://github.com/3LGroupTechnology/3lt-letter-mail,streamable-http,Give AI assistants hands: send real USPS letters via MCP.
+2026-10-03T15:06:09.395567Z,cn.savantcat/answers,AI 客服国标合规知识库 (GB/T 47746—2026),1.1.0,https://github.com/savantcat/savantcat-answers-mcp,streamable-http,中国 AI 客服国标 GB/T 47746—2026 合规知识库：条款级问答 + 全部 61 项达标自查清单（48 应 + 4 宜 + 9 可，含 5 项一票否决），答案标注条款依据。
+2026-10-03T15:07:27.508984Z,ai.vruum/mcp,,0.7.0,https://github.com/vruum-gtm/mcp,streamable-http,"Vruum AI revenue platform — outbound, deals, pipeline & CRM automation over one MCP."
+2026-10-03T15:07:46.697241Z,link.eblas.nexus/nexus-agi,NEXUS AGI,1.0.0,,streamable-http,"Keeps AI agents from repeating costly mistakes: past decisions, rules and incidents, shared by all."
+2026-10-03T15:07:54.828238Z,app.scansing/scansing,ScanSing: sheet music to MusicXML,0.1.0,https://github.com/friofry/music_recognition_api,streamable-http,"Sheet music (PDF, photo, scan) to MusicXML: recognise, describe, extract parts, transpose, MIDI."
+2026-10-03T15:08:55.091792Z,co.atendio/mcp,Atendio,1.0.0,,streamable-http,"Read WhatsApp conversations and analytics, and manage AI assistant rules in Atendio."
+2026-10-03T15:10:40.212165Z,group.hengyu.ai/ada,艾达 ADA,0.1.0,,streamable-http,"Free APIs for AI agents: web reading, text slicing, clock, ID keys, 1MB memory. No signup or fees."
+2026-10-03T15:13:25.465915Z,io.github.casancam/dungeondraft-mcp,,0.1.0,https://github.com/casancam/Dungeondraft-MCP,,"Read, edit and export Dungeondraft maps; convert Universal VTT (.dd2vtt) into Foundry VTT scenes"
+2026-10-03T15:17:27.164378Z,io.github.Bassanova12560/auros-protocol,,1.4.5,https://github.com/Bassanova12560/auros-sdk,,AUROS Protocol — RWA storefronts + unfused energy desk. Prepaid EUR credits or x402. Indicative.
