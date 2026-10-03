@@ -1,0 +1,35 @@
+created_at,server,title,version,repository,transports,description
+2026-10-03T10:20:19.145301Z,io.github.gistrec/mcp-yandex-kit,A1 Yandex KIT MCP,1.8.0,https://github.com/ztemerbekov/a1-yandex-kit-skills,,"A1 Yandex KIT MCP server for the Yandex KIT e-commerce API: products, orders, discounts, webhooks."
+2026-10-03T10:25:59.406777Z,io.blumify/transcripts,Blumify,1.0.0,,streamable-http,"Transcribe YouTube videos and podcasts, then summarize, ask, translate and follow creators."
+2026-10-03T10:26:04.027049Z,io.blumify/transcripts-public,"Blumify (public, no sign-in)",1.0.0,,streamable-http,Read existing YouTube and podcast transcripts with summaries and chapters. No sign-in.
+2026-10-03T10:27:45.856035Z,net.agent-control/agent-control,Agent Control — Action Gate,1.0.3,https://github.com/Cobra-bit-prog/agent-guard,streamable-http,"Approve before agents email, Slack, CRM, or deploy. $49/mo Solana USDC. Keep keys."
+2026-10-03T10:27:57.647567Z,io.github.euyuil/packetrove,Packetrove,0.3.0,https://github.com/euyuil/packetrove,streamable-http,Open-source IP address and CIDR tools for network calculations and public IP lookup.
+2026-10-03T10:32:10.845497Z,io.github.anotherdteach-maker/webtzm,Webtzm,1.0.0,,streamable-http,"Manage Webtzm forms that send submissions to Google Sheets: list, embed, create, update, pause."
+2026-10-03T10:38:25.009273Z,io.echelongraph/echelongraph-mcp,EchelonGraph CVE & Exposure,2.3.4,https://github.com/echelongraph/echelongraph-mcp,,"CVEs (NVD, CISA-KEV, EPSS, GHSA) and per-CVE exposure from Shodan data (© Shodan). Free, keyless."
+2026-10-03T10:46:08.255711Z,ru.torgiopen/auctions,Torgi.Otkryto (torgiopen.ru),1.0.0,,streamable-http,"Russian property auctions: bankruptcy, state, seized, bank and leasing lots. Read-only, in Russian."
+2026-10-03T10:48:36.984214Z,io.github.SatPaingOo/kiriya,kiriya,0.1.3,https://github.com/SatPaingOo/kiriya,,"Developer tools for files, git, ports, processes and more, the same on Windows, Linux and macOS"
+2026-10-03T10:51:53.627873Z,in.runlite/runlite,RunLite,1.0.0,,streamable-http,Puts AI-built websites live with working contact forms and emails every enquiry. No signup to start.
+2026-10-03T10:55:30.989934Z,com.kapruka/kapruka-mcp,Kapruka MCP,0.6.0,https://github.com/kapruka/mcp,streamable-http,Free public MCP server for Kapruka.com — Sri Lanka's largest e-commerce platform.
+2026-10-03T10:56:43.221834Z,com.aviasurf/mcp,Aviasurf,1.0.0,,streamable-http,"Search and compare flight prices, calendars, airports, routes, and destinations with Aviasurf."
+2026-10-03T10:59:50.692156Z,io.github.everest-an/awareness-local,Awareness Local,0.12.6,https://github.com/everest-an/Awareness-Market,,"Local-first persistent memory for AI coding agents - 96.0% R@5 on LongMemEval, zero LLM calls."
+2026-10-03T11:00:06.911572Z,com.travelcharika/travelcharika,TravelCharika,1.0.0,,streamable-http,When to go and where to book: 87 places scored month by month from measured weather.
+2026-10-03T11:01:33.445974Z,io.github.meetkuro/kuro,"Kuro — AI images, video and audio",2.0.0,,streamable-http,"Create AI images, clips, voice-overs, music and editable storyboard films from your AI assistant."
+2026-10-03T11:04:55.998012Z,io.github.cipshadow/truerandomness,TrueRandomness,0.1.0,,streamable-http,"Verified random integers via free MCP tools, plus Tempo-paid signed random certificates."
+2026-10-03T11:10:12.723279Z,io.github.fi4all/algoum,algoum,1.0.0,https://github.com/fi4all/algoum_mcp,streamable-http,"SEC EDGAR insider trades (Form 4/5), 8-K events and 13F holdings as clean JSON."
+2026-10-03T11:12:34.156258Z,io.github.SoapyRED/freightutils,FreightUtils MCP Server,2.20.0,https://github.com/SoapyRED/freightutils-mcp,streamable-http,"Neutral freight reference + validation layer for AI agents: ADR, HS, UN/LOCODE, freight math"
+2026-10-03T11:15:08.380081Z,com.abutly/site,,1.0.1,,streamable-http,Abutly: the site's own MCP server — dataset; every answer cites the site.
+2026-10-03T11:15:09.769576Z,fr.lesbancs/lesbancs,Les bancs,0.1.0,,streamable-http,"A French address: its catchment schools, nursery to high school, and each school's results. No key."
+2026-10-03T11:16:09.726982Z,com.409acost/site,,1.0.1,,streamable-http,"409A Cost: the site's own MCP server — calculator, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T11:16:20.579208Z,com.409aproviders/site,,1.0.1,,streamable-http,"409A Providers: the site's own MCP server — compare, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T11:16:31.499279Z,uk.co.abnormalloadquotes/site,,1.0.1,,streamable-http,"Abnormal Load Quotes: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T11:16:47.751622Z,uk.co.accesscontrolcost/site,,1.0.1,,streamable-http,"Access Control Cost: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-03T11:17:01.484756Z,com.accountancyvaluation/site,,1.0.1,,streamable-http,"Accountancy Practice Valuation: the site's own MCP server — enquiry (enquiry = a human handoff,..."
+2026-10-03T11:17:10.366498Z,io.github.nkodela/dhanvrit,Dhanvrit Finance,1.1.0,https://github.com/nkodela/Dhanvrit,streamable-http,"Personal finance assistant: track accounts, expenses, cash flow forecasts, and subscriptions."
+2026-10-03T11:17:19.081246Z,com.accountingfirmvalue/site,,1.0.1,,streamable-http,"Accounting Firm Value: the site's own MCP server — compare, enquiry (enquiry = a human handoff,..."
+2026-10-03T11:17:33.646571Z,uk.co.adrcourses/site,,1.0.1,,streamable-http,"ADR Courses: the site's own MCP server — enquiry (enquiry = a human handoff, not a purchase);..."
+2026-10-03T11:17:47.874885Z,ai.zendiq/mcp,ZendIQ,1.0.0,https://github.com/ZendIQ/ZendIQ-Agent-API,,"Solana swap safety for agents: free token screen, $0.01 swap verdict, $0.02 built swap via x402."
+2026-10-03T11:17:48.965396Z,uk.co.agriculturalbuildingcost/site,,1.0.1,,streamable-http,"Agricultural Building Cost: the site's own MCP server — enquiry (enquiry = a human handoff, not..."
+2026-10-03T11:18:04.019981Z,com.aiimplementationcost/site,,1.0.1,,streamable-http,"AI Implementation Cost: the site's own MCP server — calculator, enquiry (enquiry = a human..."
+2026-10-03T11:18:14.785804Z,com.aivshire/site,,1.0.1,,streamable-http,"AI vs Hire: the site's own MCP server — calculator, enquiry (enquiry = a human handoff, not a..."
+2026-10-03T11:18:26.952309Z,com.answeringservicecompare/site,,1.0.1,,streamable-http,"Answering Service Compare: the site's own MCP server — compare, enquiry (enquiry = a human..."
+2026-10-03T11:18:42.033095Z,com.answeringservicepicker/site,,1.0.1,,streamable-http,"Answering Service Picker: the site's own MCP server — compare, enquiry (enquiry = a human..."
