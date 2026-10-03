@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-03T21:29:44.784407Z,pl.outreachpilot/outreachpilot,OutreachPilot.pl,1.0.0,,streamable-http,"Polish B2B prospecting: CEIDG/KRS company search, email verification and cold email campaigns"
+2026-10-03T21:30:40.621657Z,io.github.atushi1841/kensho-kaku,,1.0.0,https://github.com/atushi1841/kensho-kaku,,"Japan X/Twitter sweepstakes data from ken-kaku.com. 3 tools: search, history, prize movers."
+2026-10-03T21:30:42.620722Z,social.naksha/muhurat,Naksha Muhurat,1.0.0,,streamable-http,"Auspicious Hindu muhurat dates for griha pravesh, marriage and more, by city and month."
+2026-10-03T21:30:43.559205Z,social.naksha/vedic-astrology,Naksha Vedic Astrology,0.1.0,,streamable-http,"Vedic kundli, daily sky, kundli milan, sade sati and mangal dosha from birth details."
+2026-10-03T21:30:50.127451Z,in.zelta/bmi-india,Zelta BMI for Indians,1.0.0,,streamable-http,BMI check with Indian (Asian) cutoffs and a healthy weight range for any height.
+2026-10-03T21:30:50.932296Z,in.zelta/calorie-target,Zelta Daily Calorie Target,1.0.0,,streamable-http,"Daily calorie target to lose, keep or gain weight, plus a weight goal timeline."
+2026-10-03T21:30:51.776904Z,in.zelta/protein-target,Zelta Protein Per Day,1.0.0,,streamable-http,"Daily protein need by weight and goal, with a sample Indian food plan to hit it."
+2026-10-03T21:30:52.593521Z,in.zelta/steps-calories,Zelta Steps to Calories,1.0.0,,streamable-http,"Calories burned by a step count, and steps needed to walk off a food."
+2026-10-03T21:30:53.467942Z,in.zelta/waist-check,Zelta Waist Size Check,1.0.0,,streamable-http,Waist size health check (Indian cutoffs) and the waist size to stay under.
+2026-10-03T21:30:55.281712Z,in.jawd/jawd,JAWD Jaw Trainers,0.1.0,,streamable-http,"Browse JAWD jawline trainers, get product details, a starter routine and a cart link."
+2026-10-03T21:31:08.072223Z,io.github.andrewbabu/loggly-mcp,,1.3.0,https://github.com/andrewbabu/loggly-mcp,,Read-only Loggly search and analytics with aggregation-first traffic tools and IP intelligence.
+2026-10-03T21:36:19.705743Z,io.github.atushi1841/tcg-price-japan,,1.0.0,https://github.com/atushi1841/tcg-price-japan,,"Japan TCG (Pokemon) used-price trends from suruga-ya.jp. Tools: price, history, movers."
+2026-10-03T21:36:49.647323Z,io.github.atushi1841/kensho-kclub,,1.0.0,https://github.com/atushi1841/kensho-kclub,,"Japan X/Twitter sweepstakes data from kenshou.club. Tools: search, history, prize movers."
+2026-10-03T21:38:52.680393Z,io.github.atushi1841/kensho-kema,,1.0.0,https://github.com/atushi1841/kensho-kema,,"Japan X/Twitter sweepstakes data from ke-ma.net. Tools: search, history, prize movers."
+2026-10-03T21:39:05.75857Z,com.vidtl/video-editor,VidTL Video Editor,1.0.0,,streamable-http,"Edit video in your open VidTL browser editor: cuts, subtitles, audio cleanup, effects, export."
+2026-10-03T21:39:13.991561Z,io.github.atushi1841/kensho-sweep-mcp,,1.0.0,https://github.com/atushi1841/kensho-sweep-mcp,,"Japan X/Twitter sweepstakes campaign data (1133 records). Tools: search, history, movers."
+2026-10-03T21:39:43.761302Z,io.github.atushi1841/japan-anime-figure-mcp,,1.0.0,https://github.com/atushi1841/japan-anime-figure-mcp,,"Japanese anime figure price comparison. Tools: current price, price history, lowest price."
+2026-10-03T21:39:56.990352Z,io.github.adityatiwari101104/contribos,,0.2.1,https://github.com/adityatiwari101104/contribos,,"Help open-source contributors earn maintainer trust: repo rules, briefs, and pre-submit checks."
+2026-10-03T21:40:25.161583Z,com.usevetai/vetai,VetAI,0.2.0,,streamable-http,"Find vets, emergency animal hospitals, and pet supplies via your AI assistant."
+2026-10-03T21:42:00.372248Z,io.github.tenatarika/vex,vex,1.27.2,https://github.com/tenatarika/vex,,"Local code search for agents: symbols, usages, call graph, AST patterns, grep and semantic search"
+2026-10-03T21:42:16.727189Z,io.github.vlearner/mcp-etf-holdings,,0.4.1,https://github.com/vlearner/mcp-etf-holdings,,"Find which ETFs hold any stock, compare funds, and pull holdings. Live Yahoo Finance data."
+2026-10-03T22:01:24.7286Z,io.github.olaurendeau/mcp-camptocamp,Camptocamp,1.1.0,https://github.com/olaurendeau/mcp-camptocamp,,"API Camptocamp.org : itinéraires alpins, sommets et points de passage."
+2026-10-03T22:02:51.974881Z,io.github.ondraulehla/mcp-pulse,mcp-pulse,0.1.1,https://github.com/ondraulehla/mcp-pulse,streamable-http,"Health and token cost of every remote MCP registry server, probed daily. Look up, search, or probe."
+2026-10-03T22:07:02.45299Z,io.github.Swih/ritoko,,0.1.1,https://github.com/Swih/ritoko,,"Record browser tasks, replay CSV/Excel rows, verify results and resume locally."
+2026-10-03T22:11:08.503242Z,com.atxgraniteking/countertops,ATX Granite King,1.0.0,,streamable-http,"Austin TX countertop prices, live granite/quartz slab inventory, job estimates and quote requests."
+2026-10-03T22:11:28.774769Z,com.cruise-itinerary/mcp,Cruise Itinerary,1.0.0,https://github.com/BigBalli/cruise-itinerary-mcp,streamable-http,"Cruise sailings, itineraries, weekly fare history, port capacity and the Cruise Price Index."
+2026-10-03T22:14:49.423052Z,io.scrapingbot/scrapingbot,ScrapingBot,1.0.0,https://github.com/mike-scrapingbot/scrapingbot,streamable-http,"Public web data for AI agents: scrape any page, plus Google, TikTok, Instagram and Amazon as JSON."

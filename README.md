@@ -9,39 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 21:19 UTC
+## Latest list — 2026-10-03 22:19 UTC
 
-New MCP servers published between 2026-10-03 20:19 UTC and 2026-10-03 21:19 UTC.
+New MCP servers published between 2026-10-03 21:19 UTC and 2026-10-03 22:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-03T21-19-14-824433Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-03T22-19-45-8743Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-03 20:23:55 | [io.github.beepboop2025/undertow](https://github.com/beepboop2025/undertow-mcp) | Undertow market liquidity and exit-cost… | 1.13.0 | Dated exit evidence, depth, tiers and gold cash scenarios. No executable quotes… |
-| 2026-10-03 20:25:53 | com.compraventa360/marketplace | Compraventa360 — PYMEs en venta (Ecuado… | 0.2.0 | PYMEs en venta en Ecuador: busca por ciudad, categoría y precio. Lectura públic… |
-| 2026-10-03 20:26:09 | [io.github.ashishsinha1602/schemagate](https://github.com/ashishsinha1602/schemagate) |  | 1.1.0 | Identity-scoped schema selection for text-to-SQL. Returns only the tables the c… |
-| 2026-10-03 20:30:51 | io.github.ahunter135/realtime-sports-api | Realtime Sports API | 1.0.0 | Scores, play-by-play, schedules, box scores and odds: NFL, college football, NB… |
-| 2026-10-03 20:34:30 | [com.nessgate/nessgate](https://github.com/NessGate/nessgate) | NessGate | 1.21.0 | Resolve a domain to its published AI interfaces: discovery, readiness, and conn… |
-| 2026-10-03 20:37:27 | com.medbillanalyzer/medbillanalyzer | MedBillAnalyzer | 0.1.0 | Compares a medical bill with the insurer's Explanation of Benefits and lists wh… |
-| 2026-10-03 20:39:58 | [io.github.dirkjanfaber/mcp-server-surepetcare](https://github.com/dirkjanfaber/mcp-server-surepetcare) | SurePetcare | 0.3.0 | Unofficial MCP server for SurePetcare devices: SureFlap pet/cat flaps and SureF… |
-| 2026-10-03 20:40:39 | [io.github.kendall8388/keyframe](https://github.com/kendall8388/Keyframe-it) |  | 0.4.0 | Animate 2D skeletons in Keyframe.it, pixel sprites in Sprite Puppeteer, 3D rigs… |
-| 2026-10-03 20:43:11 | [dev.tabnas/mcp](https://github.com/tabnas/mcp) | tabnas | 0.1.17 | Seven tools over the tabnas parsing engine: parse, validate, diagnose, fixtures… |
-| 2026-10-03 20:44:52 | io.github.dnsreicht/mcp-operation-risk | MCP Operation Risk | 0.1.0 | Operation-level risk guidance for consolidated MCP tools, including schema drif… |
-| 2026-10-03 20:47:16 | io.teamshift/teamshift | TeamShift | 1.0.0 | Read your TeamShift AI operations team: company profile, workspaces, tasks and… |
-| 2026-10-03 20:52:50 | [com.blackflagalert/mcp](https://github.com/lorquaid/black-flag-alert-mcp) | Black Flag Alert | 1.1.0 | UK company credit risk for England & Wales: R-Score, CCJs, charges, financials.… |
-| 2026-10-03 20:54:42 | [io.github.OilpriceAPI/mcp-server](https://github.com/OilpriceAPI/mcp-server) |  | 3.4.2 | Source-timestamped energy data and reviewed OilPriceAPI product facts for MCP c… |
-| 2026-10-03 20:55:04 | [sh.releases/mcp](https://github.com/buildinternet/releases) | Release Notes Index | 0.15.2 | Release notes and changelogs from across the web, indexed for agents. Also via… |
-| 2026-10-03 20:56:42 | com.agenthelpnetwork/agent-help-network | Agent Help Network | 0.1.0 | Public host evidence for blocked web tasks: provider status, lookup activity, u… |
-| 2026-10-03 20:57:37 | [org.namewheel/mcp](https://github.com/namewheel/mcp) | NameWheel | 1.0.0 | Fair random picks with the wheel in your chat: pick names, split teams, run cer… |
-| 2026-10-03 20:58:14 | [io.github.PranavNagrecha/sf-intelligence](https://github.com/PranavNagrecha/Salesforce-Intelligence) | sf-intelligence — Salesforce org intell… | 0.3.3 | Offline, read-only MCP knowledge base for one Salesforce org's metadata, deps &… |
-| 2026-10-03 20:58:44 | com.locatejobsnetwork/search-jobs | Locate Jobs Network Job Search | 1.0.0 | Search current office and desk jobs across the Locate Jobs Network boards. |
-| 2026-10-03 21:00:07 | [io.github.morluto/jacobian](https://github.com/morluto/jacobian) | Jacobian | 0.23.0 | Executable mathematics and independent verification for AI agents. |
-| 2026-10-03 21:04:55 | [io.github.cphoskins/cronometer](https://github.com/cphoskins/cronometer-mcp) |  | 2.3.0 | MCP server for Cronometer — food logs, macros, fasting, biometrics, and recurri… |
-| 2026-10-03 21:06:25 | ru.vibeshooting/catalog | vibeshooting — Егор Севастьянов | 1.2.0 | Product photography and AI production in Moscow: services, portfolio, route fit… |
-| 2026-10-03 21:08:29 | io.github.kevegonz-dev/momus-marketplace | Momus Agent Marketplace | 0.1.0 | Prepared checks, game metadata and original assets from $1; guest access, human… |
-| 2026-10-03 21:09:06 | br.com.babacerta/babacerta | Babá Certa | 1.0.0 | Encontre babás por cidade e calcule o custo da contratação e o salário líquido… |
-| 2026-10-03 21:09:46 | [io.github.simkessy/coach-icarus](https://github.com/simkessy/icarus) | Coach Icarus | 1.0.0 | Adaptive running coach MCP server — training data, plans, and recovery for AI a… |
-| 2026-10-03 21:15:47 | [io.github.nolindnaidoo/unicode-le](https://github.com/nolindnaidoo/unicode-le) | Unicode-LE | 1.0.0 | Find the Unicode that hides meaning: bidi controls, invisibles, homoglyphs and… |
+| 2026-10-03 21:29:44 | pl.outreachpilot/outreachpilot | OutreachPilot.pl | 1.0.0 | Polish B2B prospecting: CEIDG/KRS company search, email verification and cold e… |
+| 2026-10-03 21:30:40 | [io.github.atushi1841/kensho-kaku](https://github.com/atushi1841/kensho-kaku) |  | 1.0.0 | Japan X/Twitter sweepstakes data from ken-kaku.com. 3 tools: search, history, p… |
+| 2026-10-03 21:30:42 | social.naksha/muhurat | Naksha Muhurat | 1.0.0 | Auspicious Hindu muhurat dates for griha pravesh, marriage and more, by city an… |
+| 2026-10-03 21:30:43 | social.naksha/vedic-astrology | Naksha Vedic Astrology | 0.1.0 | Vedic kundli, daily sky, kundli milan, sade sati and mangal dosha from birth de… |
+| 2026-10-03 21:30:50 | in.zelta/bmi-india | Zelta BMI for Indians | 1.0.0 | BMI check with Indian (Asian) cutoffs and a healthy weight range for any height. |
+| 2026-10-03 21:30:50 | in.zelta/calorie-target | Zelta Daily Calorie Target | 1.0.0 | Daily calorie target to lose, keep or gain weight, plus a weight goal timeline. |
+| 2026-10-03 21:30:51 | in.zelta/protein-target | Zelta Protein Per Day | 1.0.0 | Daily protein need by weight and goal, with a sample Indian food plan to hit it. |
+| 2026-10-03 21:30:52 | in.zelta/steps-calories | Zelta Steps to Calories | 1.0.0 | Calories burned by a step count, and steps needed to walk off a food. |
+| 2026-10-03 21:30:53 | in.zelta/waist-check | Zelta Waist Size Check | 1.0.0 | Waist size health check (Indian cutoffs) and the waist size to stay under. |
+| 2026-10-03 21:30:55 | in.jawd/jawd | JAWD Jaw Trainers | 0.1.0 | Browse JAWD jawline trainers, get product details, a starter routine and a cart… |
+| 2026-10-03 21:31:08 | [io.github.andrewbabu/loggly-mcp](https://github.com/andrewbabu/loggly-mcp) |  | 1.3.0 | Read-only Loggly search and analytics with aggregation-first traffic tools and… |
+| 2026-10-03 21:36:19 | [io.github.atushi1841/tcg-price-japan](https://github.com/atushi1841/tcg-price-japan) |  | 1.0.0 | Japan TCG (Pokemon) used-price trends from suruga-ya.jp. Tools: price, history,… |
+| 2026-10-03 21:36:49 | [io.github.atushi1841/kensho-kclub](https://github.com/atushi1841/kensho-kclub) |  | 1.0.0 | Japan X/Twitter sweepstakes data from kenshou.club. Tools: search, history, pri… |
+| 2026-10-03 21:38:52 | [io.github.atushi1841/kensho-kema](https://github.com/atushi1841/kensho-kema) |  | 1.0.0 | Japan X/Twitter sweepstakes data from ke-ma.net. Tools: search, history, prize… |
+| 2026-10-03 21:39:05 | com.vidtl/video-editor | VidTL Video Editor | 1.0.0 | Edit video in your open VidTL browser editor: cuts, subtitles, audio cleanup, e… |
+| 2026-10-03 21:39:13 | [io.github.atushi1841/kensho-sweep-mcp](https://github.com/atushi1841/kensho-sweep-mcp) |  | 1.0.0 | Japan X/Twitter sweepstakes campaign data (1133 records). Tools: search, histor… |
+| 2026-10-03 21:39:43 | [io.github.atushi1841/japan-anime-figure-mcp](https://github.com/atushi1841/japan-anime-figure-mcp) |  | 1.0.0 | Japanese anime figure price comparison. Tools: current price, price history, lo… |
+| 2026-10-03 21:39:56 | [io.github.adityatiwari101104/contribos](https://github.com/adityatiwari101104/contribos) |  | 0.2.1 | Help open-source contributors earn maintainer trust: repo rules, briefs, and pr… |
+| 2026-10-03 21:40:25 | com.usevetai/vetai | VetAI | 0.2.0 | Find vets, emergency animal hospitals, and pet supplies via your AI assistant. |
+| 2026-10-03 21:42:00 | [io.github.tenatarika/vex](https://github.com/tenatarika/vex) | vex | 1.27.2 | Local code search for agents: symbols, usages, call graph, AST patterns, grep a… |
+| 2026-10-03 21:42:16 | [io.github.vlearner/mcp-etf-holdings](https://github.com/vlearner/mcp-etf-holdings) |  | 0.4.1 | Find which ETFs hold any stock, compare funds, and pull holdings. Live Yahoo Fi… |
+| 2026-10-03 22:01:24 | [io.github.olaurendeau/mcp-camptocamp](https://github.com/olaurendeau/mcp-camptocamp) | Camptocamp | 1.1.0 | API Camptocamp.org : itinéraires alpins, sommets et points de passage. |
+| 2026-10-03 22:02:51 | [io.github.ondraulehla/mcp-pulse](https://github.com/ondraulehla/mcp-pulse) | mcp-pulse | 0.1.1 | Health and token cost of every remote MCP registry server, probed daily. Look u… |
+| 2026-10-03 22:07:02 | [io.github.Swih/ritoko](https://github.com/Swih/ritoko) |  | 0.1.1 | Record browser tasks, replay CSV/Excel rows, verify results and resume locally. |
+| 2026-10-03 22:11:08 | com.atxgraniteking/countertops | ATX Granite King | 1.0.0 | Austin TX countertop prices, live granite/quartz slab inventory, job estimates… |
+| 2026-10-03 22:11:28 | [com.cruise-itinerary/mcp](https://github.com/BigBalli/cruise-itinerary-mcp) | Cruise Itinerary | 1.0.0 | Cruise sailings, itineraries, weekly fare history, port capacity and the Cruise… |
+| 2026-10-03 22:14:49 | [io.scrapingbot/scrapingbot](https://github.com/mike-scrapingbot/scrapingbot) | ScrapingBot | 1.0.0 | Public web data for AI agents: scrape any page, plus Google, TikTok, Instagram… |
 
 ## Data source
 
