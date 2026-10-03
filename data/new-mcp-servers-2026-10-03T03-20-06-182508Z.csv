@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-10-03T02:20:04.893976Z,io.github.agent-passport-system/agent-passport-mcp,Agent Passport System — Cryptographic Identity for AI Agents,6.1.2,https://github.com/agent-passport-system/agent-passport-mcp,sse,"Cryptographic identity, delegation, governance, and commerce for AI agents. 152 tools."
+2026-10-03T02:23:46.404587Z,com.agent-manifest/amp-mcp,Agent Manifest Protocol (AMP),0.1.1,https://github.com/AMProtocol/AMP,sse,"Fetch, validate, and permission-check Agent Manifest Protocol (AMP) manifests for API discovery."
+2026-10-03T02:25:53.441647Z,io.kryptos/kryptos,Kryptos,1.0.1,https://github.com/Kryptoskatt/ai-plugin,streamable-http,"Kryptos crypto portfolio, transaction, tax and accounting tools and reconciliation."
+2026-10-03T02:26:39.332719Z,io.github.kr-data-api/korea-address,Korean Address to English — Convert & Validate (주소 영문),0.1.0,,streamable-http,"Korean addresses to official English: road address, postal code, romanized unit; validated vs gov DB"
+2026-10-03T02:26:52.665576Z,io.github.kr-data-api/korea-law,Korean Law in English — Statutes & Articles (법령 영문),0.1.0,,streamable-http,"Official English text of Korean laws (law.go.kr): search by name, get articles; flags outdated texts"
+2026-10-03T02:30:51.432769Z,io.github.jztan/pdf-mcp,,3.5.0,https://github.com/jztan/pdf-mcp,,"Agentic RAG over one PDF or a whole folder: hybrid search, selective page reads, tables, OCR."
+2026-10-03T02:31:44.234414Z,io.github.ericlovold/sanction,Sanction,0.10.0,https://github.com/ericlovold/sanction,streamable-http,Approval and budget checks before agent spending or tool use. Cooperative MCP; host must ask.
+2026-10-03T02:41:31.470014Z,io.github.Grinv/tmdb-mcp,TMDB MCP Server,0.12.0,https://github.com/Grinv/tmdb-mcp,,MCP server for The Movie Database (TMDB) with IMDb/Rotten Tomatoes/Metacritic ratings via OMDb.
+2026-10-03T02:44:23.426759Z,io.github.GodMephisto/wc3-mcp,Warcraft III Map Tools,0.1.3,https://github.com/GodMephisto/wc3-mcp,,"Read, audit and edit Warcraft III maps byte-faithfully"
+2026-10-03T02:52:52.122417Z,io.github.jztan/redmine-mcp-server,,2.18.0,https://github.com/jztan/redmine-mcp-server,,"MCP server that lets AI assistants manage Redmine issues, projects, wikis, and time tracking"
+2026-10-03T03:00:08.547765Z,io.github.bostrt/manpage-mcp,Manpage MCP,0.1.0,,streamable-http,Search and read Linux manual pages with version-aware lookup and exact package provenance.
+2026-10-03T03:09:11.17587Z,ai.manpage/mcp,Manpage MCP,0.1.1,,streamable-http,Search and read Linux manual pages with version-aware lookup and exact package provenance.
+2026-10-03T03:13:23.711265Z,com.mexsaas/mcp,mexsaas,1.0.0,,streamable-http,"Software que usan los negocios en México: busca, compara y ve alternativas, con precio en pesos."
+2026-10-03T03:14:44.709663Z,io.github.mosmn/qeemah,Qeemah Accounting & ZATCA e-Invoicing,1.0.1,https://github.com/mosmn/qeemah-accounting,streamable-http; sse,"Saudi ZATCA e-invoicing Phase 2 compliance audit, invoice drafting, and CFO VAT analytics."
+2026-10-03T03:16:00.399099Z,io.github.allxsmith/bestax-mcp,Bestax,1.14.0,https://github.com/allxsmith/bestax,,"Props, examples, CSS variables and Agent Skills for bestax-bulma React components (Bulma v1)"
