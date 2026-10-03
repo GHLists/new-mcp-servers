@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-03T05:27:38.977285Z,io.github.zktx-mcp/sui-mcp,,0.5.0,https://github.com/zktx-mcp/sui-mcp,,Local-first Sui DeFi evidence and review for AI clients before wallet signing.
+2026-10-03T05:30:36.021383Z,io.github.audiojs/audio,Audio,2.10.0,https://github.com/audiojs/audio,,"Edit, analyze and convert audio: loudness, spec checks, denoise, EQ, cuts, BPM, key. No ffmpeg."
+2026-10-03T05:32:50.754991Z,io.github.sanket-naik/usesignal,useSignal,0.1.1,https://github.com/sanket-naik/usesignal-claude-plugin,streamable-http,"Editable forms from JSON, light/dark color systems with contrast checks, and regex testing."
+2026-10-03T05:39:24.019649Z,com.suprsend/mcp,SuprSend,0.1.1,,streamable-http,"Hosted SuprSend MCP server: users, lists, workflows, templates, and notification data."
+2026-10-03T05:47:55.817843Z,io.github.socialbu/socialbu,SocialBu,1.0.0,https://github.com/socialbu/socialbu-agent,streamable-http,"Manage SocialBu posts, accounts, queues, analytics, automations, media, and listening."
+2026-10-03T05:57:22.132812Z,cloud.korpus/korpus,Korpus,4.5.0,,streamable-http,Shared memory for teams and their AI agents: Markdown concepts with typed links in shared bundles.
+2026-10-03T05:58:18.304347Z,one.easyrider/signal-gate,Manta Signal Gate,0.1.0,,streamable-http,"Live trading journal of one bot for AI agents: free stats and sample, x402-paid signals and follow"
+2026-10-03T06:03:10.789445Z,io.github.sathya-sankaran/bharatlas-mcp,,1.2.0,,,"Query India's open geo data, and author collect maps: register a link, moderate, publish."
+2026-10-03T06:08:31.598217Z,io.github.taisly/agent,Taisly Social Media Posting,0.2.9,https://github.com/taisly/agent,streamable-http,"Publish videos to TikTok, Reels, Shorts, X, and Facebook through Taisly."
+2026-10-03T06:09:09.893458Z,site.chatgpt.werkruimte-v-0931.open-agent-marketplace-lab/marketplace-discovery,Open Agent Marketplace Lab,0.1.0,,streamable-http,Public agent marketplace discovery and joining docs. Read-only; Stripe sandbox trading offline.
+2026-10-03T06:09:37.351794Z,io.rmassistanthub/assistant-hub,Assistant Hub,0.9.4,,streamable-http; sse,"Ranked crypto setups with a graded track record, and trading skills with public records."
+2026-10-03T06:10:58.214963Z,io.github.dimitar-radenkov/pointframe-mcp,Pointframe MCP Server,6.7.21,https://github.com/dimitar-radenkov/Pointframe,,"Local Windows MCP server for monitor discovery, screenshots, and recordings."
+2026-10-03T06:11:00.412792Z,ai.kyras/kyras,Kyras,0.1.0,,streamable-http,"Marketing analytics from your real data: GA4, Piano, Matomo, Shopify, Google Ads, Meta Ads."
+2026-10-03T06:13:33.186565Z,io.github.dreamworkhq/dreamwork,Dreamwork,1.4.3,https://github.com/dreamworkhq/mcp,streamable-http,"Job search, application materials, and application tracking for AI assistants."
+2026-10-03T06:13:39.904298Z,io.github.ondefy/zyfai,Zyfai,1.0.0,https://github.com/ondefy/zyfai-mcp-server,streamable-http,Discover DeFi yield opportunities and manage Zyfai positions with self-custodial AI agents.
+2026-10-03T06:17:04.887122Z,net.compressgif/compressgif,CompressGIF,0.1.0,,streamable-http,"Compress GIFs from HTTPS URLs, poll results, and check credits. Hosted MCP with API key auth."
+2026-10-03T06:21:22.817806Z,io.agentage/find-mcp,Find MCP - Agentage MCP Directory,1.8.0,,streamable-http,"Search the official MCP registry: 17,000+ servers with trust grades, stars, tools, install config."

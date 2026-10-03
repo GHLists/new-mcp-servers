@@ -9,36 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 05:19 UTC
+## Latest list — 2026-10-03 06:22 UTC
 
-New MCP servers published between 2026-10-03 04:19 UTC and 2026-10-03 05:19 UTC.
+New MCP servers published between 2026-10-03 05:19 UTC and 2026-10-03 06:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-03T05-19-59-389255Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-03T06-22-07-748509Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-03 04:20:46 | [io.github.Fino-wind/vaultbeat-apple-health](https://github.com/Fino-wind/vaultbeat-apple-health) |  | 0.9.0 | Your AI agent reads your Apple Health data: sleep, HRV, cycle, workouts. Decryp… |
-| 2026-10-03 04:22:51 | io.github.influence-so/influence-mcp | Influence | 0.1.0 | Draft, review, schedule or publish approved social posts, and check publishing… |
-| 2026-10-03 04:30:49 | [io.github.bytevirts/everygen](https://github.com/bytevirts/everygen-mcp) | Everygen | 1.0.0 | Create images, videos, narration, music and multi-shot video projects with Ever… |
-| 2026-10-03 04:32:14 | uz.eko-iksi/eko-iksi-fertility-clinic | EKO-IKSI Fertility Clinic | 1.0.0 | Fertility clinic in Tashkent: prices, services, doctors, articles and contacts… |
-| 2026-10-03 04:36:15 | ai.tokenos/wallet-inspector | TokenOS Wallet Inspector | 1.0.1 | Wallets, tokens, rug checks |
-| 2026-10-03 04:36:15 | ai.tokenos/gas-tracker | TokenOS Gas & Fee Tracker | 1.0.1 | Live fees on five chains |
-| 2026-10-03 04:36:16 | ai.tokenos/dapp-builder | TokenOS dApp Builder | 1.0.1 | Idea to buildable dApp spec |
-| 2026-10-03 04:36:16 | ai.tokenos/tokenomics-designer | TokenOS Tokenomics Designer | 1.0.1 | Allocation & vesting design |
-| 2026-10-03 04:36:17 | ai.tokenos/token-launch-planner | TokenOS Token Launch Planner | 1.0.1 | Plan a Solana token launch |
-| 2026-10-03 04:36:17 | ai.tokenos/contract-audit | TokenOS Smart Contract Audit | 1.0.1 | Scan Solidity & Anchor code |
-| 2026-10-03 04:39:08 | ai.feedboss/feedboss | FeedBoss | 1.0.0 | LinkedIn content team: writes in your voice, makes brand visuals, schedules pos… |
-| 2026-10-03 04:44:27 | [io.github.noeto-tasks/noeto-mcp](https://github.com/noeto-tasks/noeto-mcp) | Noeto | 0.6.2 | Work a Noeto kanban board: read and search it, create, move and comment on card… |
-| 2026-10-03 04:47:14 | [io.github.john-broadway/proximo-proxmox](https://github.com/john-broadway/proximo) | Proximo — the Proxmox MCP you can hand… | 0.44.1 | The Proxmox MCP you can hand the keys: VE/PBS/PMG/PDM. Plan, prove, undo, diagn… |
-| 2026-10-03 04:48:53 | com.alderflux/msgmesh | MsgMesh | 0.1.9 | Event bus for AI agents: watch_topic long-polls live events; manage topics, sch… |
-| 2026-10-03 04:54:47 | [io.github.kaditang/agent-wallet-mcp](https://github.com/kaditang/agent-wallet-mcp) |  | 0.3.3 | Non-custodial Solana MCP: compare yields, buy tokenized US stocks (xStocks) & O… |
-| 2026-10-03 04:55:09 | [io.github.itseez3d/craftstory-mcp](https://github.com/itseez3d/craftstory-mcp) | CraftStory | 0.1.4 | Talking-avatar videos from a photo (CraftStory 2.0) and short clips with sound… |
-| 2026-10-03 04:58:50 | [app.wenbu/mcp](https://github.com/Digidai/wenbu) | Wenbu · 问卜 | 1.3.0 | Free BaZi, I Ching, tarot, Zi Wei and bilingual learning tools with transparent… |
-| 2026-10-03 04:59:38 | dev.certdesk/certdesk | certdesk | 0.4.0 | TLS cert verdict (OK/WARN/CRITICAL/UNKNOWN) from the served chain: expiry, revo… |
-| 2026-10-03 05:02:59 | [io.github.GoatInAHat/toolfactory](https://github.com/GoatInAHat/toolfactory) |  | 0.4.3 | Build an agent tool once; ship it as Agent Skills, MCP servers, Agent Plugins /… |
-| 2026-10-03 05:06:04 | [io.github.krauqllc/ufo-cli](https://github.com/krauqllc/ufo-cli) | Universal File Opener CLI | 1.5.1-1 | Inspect files, extract content and make guarded edits locally. Linux x86_64, gl… |
-| 2026-10-03 05:08:21 | [app.commandmail/mail](https://github.com/FYN-Labs/commandmail-plugin) | Command Mail | 0.2.0 | One inbox for all your addresses: your AI agent reads, sorts, drafts and sends… |
-| 2026-10-03 05:18:19 | com.xenition.api/xenition | Xenition | 0.2.0 | Docs, decks, forms, apps you build and deploy, automations, and AI images, vide… |
+| 2026-10-03 05:27:38 | [io.github.zktx-mcp/sui-mcp](https://github.com/zktx-mcp/sui-mcp) |  | 0.5.0 | Local-first Sui DeFi evidence and review for AI clients before wallet signing. |
+| 2026-10-03 05:30:36 | [io.github.audiojs/audio](https://github.com/audiojs/audio) | Audio | 2.10.0 | Edit, analyze and convert audio: loudness, spec checks, denoise, EQ, cuts, BPM,… |
+| 2026-10-03 05:32:50 | [io.github.sanket-naik/usesignal](https://github.com/sanket-naik/usesignal-claude-plugin) | useSignal | 0.1.1 | Editable forms from JSON, light/dark color systems with contrast checks, and re… |
+| 2026-10-03 05:39:24 | com.suprsend/mcp | SuprSend | 0.1.1 | Hosted SuprSend MCP server: users, lists, workflows, templates, and notificatio… |
+| 2026-10-03 05:47:55 | [io.github.socialbu/socialbu](https://github.com/socialbu/socialbu-agent) | SocialBu | 1.0.0 | Manage SocialBu posts, accounts, queues, analytics, automations, media, and lis… |
+| 2026-10-03 05:57:22 | cloud.korpus/korpus | Korpus | 4.5.0 | Shared memory for teams and their AI agents: Markdown concepts with typed links… |
+| 2026-10-03 05:58:18 | one.easyrider/signal-gate | Manta Signal Gate | 0.1.0 | Live trading journal of one bot for AI agents: free stats and sample, x402-paid… |
+| 2026-10-03 06:03:10 | io.github.sathya-sankaran/bharatlas-mcp |  | 1.2.0 | Query India's open geo data, and author collect maps: register a link, moderate… |
+| 2026-10-03 06:08:31 | [io.github.taisly/agent](https://github.com/taisly/agent) | Taisly Social Media Posting | 0.2.9 | Publish videos to TikTok, Reels, Shorts, X, and Facebook through Taisly. |
+| 2026-10-03 06:09:09 | site.chatgpt.werkruimte-v-0931.open-agent-marketplace-lab/marketplace-discovery | Open Agent Marketplace Lab | 0.1.0 | Public agent marketplace discovery and joining docs. Read-only; Stripe sandbox… |
+| 2026-10-03 06:09:37 | io.rmassistanthub/assistant-hub | Assistant Hub | 0.9.4 | Ranked crypto setups with a graded track record, and trading skills with public… |
+| 2026-10-03 06:10:58 | [io.github.dimitar-radenkov/pointframe-mcp](https://github.com/dimitar-radenkov/Pointframe) | Pointframe MCP Server | 6.7.21 | Local Windows MCP server for monitor discovery, screenshots, and recordings. |
+| 2026-10-03 06:11:00 | ai.kyras/kyras | Kyras | 0.1.0 | Marketing analytics from your real data: GA4, Piano, Matomo, Shopify, Google Ad… |
+| 2026-10-03 06:13:33 | [io.github.dreamworkhq/dreamwork](https://github.com/dreamworkhq/mcp) | Dreamwork | 1.4.3 | Job search, application materials, and application tracking for AI assistants. |
+| 2026-10-03 06:13:39 | [io.github.ondefy/zyfai](https://github.com/ondefy/zyfai-mcp-server) | Zyfai | 1.0.0 | Discover DeFi yield opportunities and manage Zyfai positions with self-custodia… |
+| 2026-10-03 06:17:04 | net.compressgif/compressgif | CompressGIF | 0.1.0 | Compress GIFs from HTTPS URLs, poll results, and check credits. Hosted MCP with… |
+| 2026-10-03 06:21:22 | io.agentage/find-mcp | Find MCP - Agentage MCP Directory | 1.8.0 | Search the official MCP registry: 17,000+ servers with trust grades, stars, too… |
 
 ## Data source
 
