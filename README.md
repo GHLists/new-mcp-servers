@@ -9,31 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 06:22 UTC
+## Latest list — 2026-10-03 07:21 UTC
 
-New MCP servers published between 2026-10-03 05:19 UTC and 2026-10-03 06:22 UTC.
+New MCP servers published between 2026-10-03 06:22 UTC and 2026-10-03 07:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-03T06-22-07-748509Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-03T07-21-57-354861Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-03 05:27:38 | [io.github.zktx-mcp/sui-mcp](https://github.com/zktx-mcp/sui-mcp) |  | 0.5.0 | Local-first Sui DeFi evidence and review for AI clients before wallet signing. |
-| 2026-10-03 05:30:36 | [io.github.audiojs/audio](https://github.com/audiojs/audio) | Audio | 2.10.0 | Edit, analyze and convert audio: loudness, spec checks, denoise, EQ, cuts, BPM,… |
-| 2026-10-03 05:32:50 | [io.github.sanket-naik/usesignal](https://github.com/sanket-naik/usesignal-claude-plugin) | useSignal | 0.1.1 | Editable forms from JSON, light/dark color systems with contrast checks, and re… |
-| 2026-10-03 05:39:24 | com.suprsend/mcp | SuprSend | 0.1.1 | Hosted SuprSend MCP server: users, lists, workflows, templates, and notificatio… |
-| 2026-10-03 05:47:55 | [io.github.socialbu/socialbu](https://github.com/socialbu/socialbu-agent) | SocialBu | 1.0.0 | Manage SocialBu posts, accounts, queues, analytics, automations, media, and lis… |
-| 2026-10-03 05:57:22 | cloud.korpus/korpus | Korpus | 4.5.0 | Shared memory for teams and their AI agents: Markdown concepts with typed links… |
-| 2026-10-03 05:58:18 | one.easyrider/signal-gate | Manta Signal Gate | 0.1.0 | Live trading journal of one bot for AI agents: free stats and sample, x402-paid… |
-| 2026-10-03 06:03:10 | io.github.sathya-sankaran/bharatlas-mcp |  | 1.2.0 | Query India's open geo data, and author collect maps: register a link, moderate… |
-| 2026-10-03 06:08:31 | [io.github.taisly/agent](https://github.com/taisly/agent) | Taisly Social Media Posting | 0.2.9 | Publish videos to TikTok, Reels, Shorts, X, and Facebook through Taisly. |
-| 2026-10-03 06:09:09 | site.chatgpt.werkruimte-v-0931.open-agent-marketplace-lab/marketplace-discovery | Open Agent Marketplace Lab | 0.1.0 | Public agent marketplace discovery and joining docs. Read-only; Stripe sandbox… |
-| 2026-10-03 06:09:37 | io.rmassistanthub/assistant-hub | Assistant Hub | 0.9.4 | Ranked crypto setups with a graded track record, and trading skills with public… |
-| 2026-10-03 06:10:58 | [io.github.dimitar-radenkov/pointframe-mcp](https://github.com/dimitar-radenkov/Pointframe) | Pointframe MCP Server | 6.7.21 | Local Windows MCP server for monitor discovery, screenshots, and recordings. |
-| 2026-10-03 06:11:00 | ai.kyras/kyras | Kyras | 0.1.0 | Marketing analytics from your real data: GA4, Piano, Matomo, Shopify, Google Ad… |
-| 2026-10-03 06:13:33 | [io.github.dreamworkhq/dreamwork](https://github.com/dreamworkhq/mcp) | Dreamwork | 1.4.3 | Job search, application materials, and application tracking for AI assistants. |
-| 2026-10-03 06:13:39 | [io.github.ondefy/zyfai](https://github.com/ondefy/zyfai-mcp-server) | Zyfai | 1.0.0 | Discover DeFi yield opportunities and manage Zyfai positions with self-custodia… |
-| 2026-10-03 06:17:04 | net.compressgif/compressgif | CompressGIF | 0.1.0 | Compress GIFs from HTTPS URLs, poll results, and check credits. Hosted MCP with… |
-| 2026-10-03 06:21:22 | io.agentage/find-mcp | Find MCP - Agentage MCP Directory | 1.8.0 | Search the official MCP registry: 17,000+ servers with trust grades, stars, too… |
+| 2026-10-03 06:24:19 | ch.kulalabs.agents/jobflow | JOBFLOW | 1.0.0 | Existing trade and field-service flow for AI agents, request to paid job. Free… |
+| 2026-10-03 06:26:02 | uk.co.jurk/component-sourcing | Jurk Shenzhen Electronic Component Sour… | 1.0.0 | Shenzhen sourcing for hard-to-find, obsolete and EOL electronic components. |
+| 2026-10-03 06:28:06 | [org.edufeed/nope-mcp](https://github.com/edufeed-org/nope-mcp) | nope-mcp — Open Educational Resources s… | 0.4.0 | Search German open educational resources (OER) via AMB/schema.org metadata, ope… |
+| 2026-10-03 06:31:48 | [io.dbcode/dbcode](https://github.com/dbcodeio/public) | DBCode | 1.0.0 | Query and explore 100+ databases through your DBCode connections. |
+| 2026-10-03 06:41:28 | [com.pixharvest/tariff-data](https://github.com/contentforge-press/us-tariff-data) | Tariff Data | 1.0.0 | US import tariff rates and landed-cost data for AI agents and ecommerce. |
+| 2026-10-03 06:42:31 | [io.github.Synvoya/codeinspectus](https://github.com/Synvoya/codeinspectus) | CodeInspectus | 3.3.0 | Local-first MCP security scanner and CLI for AI-generated applications. |
+| 2026-10-03 06:43:29 | [io.github.DrRataplan/fonto-docs](https://github.com/DrRataplan/fonto-docs-mcp) | Fonto Docs | 1.7.0 | Fonto (FontoXML) documentation for AI tools. Converts DITA XML to Markdown on d… |
+| 2026-10-03 06:50:30 | [io.github.ENTERPILOT/gomodel](https://github.com/ENTERPILOT/GoModel) | GoModel | 0.1.99 | Self-hosted gateway aggregating upstream MCP servers behind one authenticated H… |
+| 2026-10-03 06:55:29 | [com.verdixapi/verdix](https://github.com/verdixapi/verdix-mcp) | Verdix address risk | 0.2.0 | Check an EVM address on Base before sending funds: safe/caution/danger. Pays pe… |
+| 2026-10-03 06:55:35 | com.tournride/camino-bike-rental | Tournride — Camino de Santiago bike ren… | 1.0.0 | Real-time bike rental availability, exact prices and route knowledge for the Ca… |
+| 2026-10-03 06:57:10 | com.emailplane/mail | eMailPlane Mail | 0.1.0 | Email for AI agents: send, receive, threads, templates, domains and mailboxes o… |
+| 2026-10-03 06:57:19 | [io.github.maple-kit/maple](https://github.com/maple-kit/maple) | Maple | 0.17.1 | Review comments pinned to a running frontend, read and resolved by your coding… |
+| 2026-10-03 06:57:28 | [io.github.Adeniyikayodee/ng-postcode](https://github.com/Adeniyikayodee/ng-postcode) | Nigeria Postcode | 0.1.0 | Validate, look up and reverse-geocode Nigeria's NIPOST digital postcodes (NDAPS… |
+| 2026-10-03 07:00:25 | [io.github.mrpacstar2-oss/remit](https://github.com/mrpacstar2-oss/remit) |  | 0.1.0 | Checked language for AI-written agent workflows: limits, cost and data flows kn… |
+| 2026-10-03 07:04:46 | [app.mailtea/mailtea](https://github.com/mailtea-app/mailtea-agent-plugin) | Mailtea | 0.9.0 | Send email and newsletters with Mailtea over MCP, plus skills for email and web… |
+| 2026-10-03 07:04:57 | [io.github.retracn/app-reviews-ai](https://github.com/retracn/app-store-google-play-reviews-ai) | App Store & Google Play Reviews AI (via… | 1.0.0 | AI summary of App Store and Google Play reviews: bugs, feature requests and cri… |
+| 2026-10-03 07:04:57 | [io.github.retracn/automationnation](https://github.com/retracn/automationnation-mcp) | AutomationNation data tools (via Apify) | 1.0.0 | Google Trends, Google Jobs, AI Overview citations, UK business leads and app re… |
+| 2026-10-03 07:04:57 | [io.github.retracn/google-ai-overview-tracker](https://github.com/retracn/google-ai-overview-tracker) | Google AI Overview Tracker (via Apify) | 1.0.0 | Check if Google AI Overviews cite your website: citations, competitors and chan… |
+| 2026-10-03 07:04:58 | [io.github.retracn/google-jobs](https://github.com/retracn/google-jobs-scraper) | Google Jobs (via Apify) | 1.0.0 | Search Google Jobs from AI agents: listings with salaries, full descriptions an… |
+| 2026-10-03 07:04:58 | [io.github.retracn/google-trends](https://github.com/retracn/google-trends-scraper) | Google Trends (via Apify) | 1.0.0 | Google Trends data for AI agents: interest over time, regions, rising queries a… |
+| 2026-10-03 07:04:58 | [io.github.retracn/uk-business-leads](https://github.com/retracn/uk-business-leads-google-maps) | UK Business Leads (via Apify) | 1.0.0 | UK business leads from Google Maps with emails, phones, Companies House directo… |
+| 2026-10-03 07:16:18 | io.github.Humanleap/sentrydock |  | 1.1.0 | Search indexed news, monitor topics and get signed webhook alerts. OAuth and AP… |
 
 ## Data source
 
