@@ -9,31 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 00:19 UTC
+## Latest list — 2026-10-03 01:19 UTC
 
-New MCP servers published between 2026-10-02 23:20 UTC and 2026-10-03 00:19 UTC.
+New MCP servers published between 2026-10-03 00:19 UTC and 2026-10-03 01:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-03T00-19-58-058099Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-03T01-19-19-751818Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-02 23:24:10 | io.optionwhales/options-flow | OptionWhales | 1.2.0 | US options flow and stock data: unusual activity, gamma levels, IV, quotes, new… |
-| 2026-10-02 23:25:43 | com.getmixwise/mixwise | MixWise | 1.0.0 | Cocktails you can make from bottles you already have, full recipes, and the bes… |
-| 2026-10-02 23:29:09 | [io.github.Octonove/crbro-memory](https://github.com/Octonove/crbro-memory) |  | 2.7.0 | Persistent file-based memory for AI agents: inspectable, versionable, fully loc… |
-| 2026-10-02 23:29:18 | [org.projectnoosphere/noosphere](https://github.com/GoodyGoodyGoody/projectnoosphere) | Project Noosphere | 0.1.7 | An open knowledge commons for AI agents: search versioned how-tos, report wheth… |
-| 2026-10-02 23:29:58 | [io.github.gitayg/appcrane](https://github.com/gitayg/appcrane-mcp) | AppCrane | 1.3.4 | Deploy and manage apps on your own AppCrane instance, the self-hosted PaaS for… |
-| 2026-10-02 23:32:38 | [ai.tickerscout/ticker-scout](https://github.com/tickerscout/tickerscout-mcp) |  | 1.0.3 | Agent-native SEC data: statements assembled, filings synthesized, figures linke… |
-| 2026-10-02 23:33:57 | [io.github.yaver-io/yaver](https://github.com/yaver-io/yaver.io) | Yaver | 1.99.470 | Phone-first local dev MCP for Claude Code and Codex: install Yaver, pair mobile… |
-| 2026-10-02 23:34:38 | [com.brydge-ai/brydge](https://github.com/contactkontey-dotcom/brydge-mcp) | BRYDGE | 0.2.0 | Checks whether an agent's actions actually happened, against the destination's… |
-| 2026-10-02 23:38:30 | space.spontanno/events | СПОНТАННО | 1.0.0 | Concerts, theatre, standup and more in Russian cities: search, filters and a ra… |
-| 2026-10-02 23:39:56 | io.github.juanquiservin/canaireadme | CanAIReadMe | 2.1.0 | Can an AI agent understand and act on a business website? Evidence-based facts,… |
-| 2026-10-02 23:41:45 | [io.github.RohanMuppa/brightspace](https://github.com/RohanMuppa/brightspace-mcp-server) |  | 3.10.2 | D2L Brightspace MCP server: grades, due dates, assignments, announcements and f… |
-| 2026-10-02 23:42:08 | [io.github.gowtham012/pinpoint](https://github.com/gowtham012/pinpoint) | Pinpoint | 0.5.0 | Click an element in your running app or iOS Simulator, say what should change;… |
-| 2026-10-02 23:45:09 | io.shareout/shareout | Shareout | 0.6.0 | Publish HTML pages, collect review comments, and revise at the same link. |
-| 2026-10-02 23:46:09 | [io.github.riponcm/projectmem](https://github.com/riponcm/projectmem) |  | 0.3.4 | Coding agent memory — one local MCP server for every project. Warns before repe… |
-| 2026-10-03 00:00:40 | [io.github.simonmak-ascent/primary-sources-mcp](https://github.com/simonmak-ascent/primary-sources-mcp) | Primary Sources | 1.0.0 | Free primary-source APIs (SEC EDGAR, World Bank, GDELT, HKMA, FRED) with proven… |
-| 2026-10-03 00:05:40 | [com.x1wealth/x1](https://github.com/x1wealth/x1-mcp) | X1 Wealth | 1.1.1 | Ask about your trusts, entities, policies and documents. Every answer cites a p… |
-| 2026-10-03 00:10:02 | [io.github.creatoan/scenet](https://github.com/creatoan/scenet) | Scenet | 0.9.0 | Write, check and render comic panels as SVG: a deterministic compiler, no image… |
+| 2026-10-03 00:20:33 | [io.github.apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) | Robin: AI-Powered Dark Web OSINT | 3.1.0 | Dark web OSINT over Tor: search onion engines, scrape pages, report with your o… |
+| 2026-10-03 00:24:58 | [io.github.agentsearchhq-coder/agentsearch-mcp](https://github.com/agentsearchhq-coder/agentsearch-mcp) | AgentSearch (agentsearchhq.com) | 1.1.1 | AgentSearch web search, page extract and JS page render for agents. Self-hosted… |
+| 2026-10-03 00:28:02 | dev.sandboxapis/mcp | SandboxAPIs | 0.3.14 | Drop-in read-only replicas of GitHub, Jira, Slack and 18 more, preloaded with o… |
+| 2026-10-03 00:33:30 | com.feedbackthread/feedbackthread | FeedbackThread | 1.0.0 | Triage app feedback and store reviews, draft replies and release notes, tell re… |
+| 2026-10-03 00:35:04 | [io.github.trustlists/mcp](https://github.com/trustlists/trustlists-plugin) | trustlists | 0.3.0 | Find public vendor trust centers, analyze SOC 2 reports, and request trust-cent… |
+| 2026-10-03 00:38:53 | [io.github.francescoveryra-dot/iaf-agent-bridge](https://github.com/francescoveryra-dot/IAF-Agent-Bridge) | IAF Agent Bridge | 1.0.1 | MCP server that sends work to Cursor Agent over ACP and returns the session id… |
+| 2026-10-03 00:41:27 | [io.github.easonwong-de/firefox-css-theme](https://github.com/easonwong-de/Firefox-CSS-Theme) |  | 0.2.9 | MCP for building, inspecting, and live-debugging Firefox CSS themes. |
+| 2026-10-03 00:41:37 | de.finisma/finisma | finisma – ZUGFeRD e-invoices | 1.0.0 | Verify ZUGFeRD/Factur-X e-invoices, convert PDF invoices to ZUGFeRD, check VAT… |
+| 2026-10-03 00:42:02 | com.domaincanary/mcp | DomainCanary | 1.0.0 | Check a domain's DMARC, SPF and DKIM, build SPF records, explain bounces, read… |
+| 2026-10-03 00:42:48 | org.ai-lifeline/ai-lifeline | AI Lifeline (read-only observed values) | 1.0.0 | Read-only daily observed values from ai-lifeline.org with unit, date and source… |
+| 2026-10-03 00:45:35 | io.github.PGHQdev/weekly | Japan Startup Resources | 0.2.0 | Curated Japan startup news and events this week. Read-only tools; subscriber OA… |
+| 2026-10-03 00:52:01 | [io.github.OrtaMarco/mx-fiscal-mcp-server](https://github.com/OrtaMarco/mx-fiscal-mcp-server) | Mexican Tax & Banking | 1.0.3 | Validate RFC, CURP, CLABE and NSS, read CFDI 4.0 invoices and check their SAT s… |
+| 2026-10-03 00:55:10 | com.japanstartupresources/mcp | Japan Startup Resources | 0.2.1 | Curated Japan startup news and events this week. Read-only tools; subscriber OA… |
+| 2026-10-03 00:58:35 | io.github.KMCTO/fmcsa-carrier-intelligence | FMCSA Carrier Intelligence | 0.1.0 | US motor carrier safety, authority and identity-linkage checks from FMCSA data.… |
+| 2026-10-03 01:02:45 | [io.github.t1mom777/transfers-car-rentals](https://github.com/t1mom777/fiji-agent-api) | Transfers & Car Rentals | 1.15.1 | Discover transfers, private drivers, and Fiji rentals with non-persisted quote… |
+| 2026-10-03 01:03:35 | com.revup/revup | Revup | 1.1.0 | Create, customize, preview and report on promotions in your Revup account. |
+| 2026-10-03 01:04:08 | com.whoppah/commerce | Whoppah | 1.0.0 | Search and shop curated second-hand design: furniture, lighting, art and design… |
+| 2026-10-03 01:08:21 | [io.github.rmindgh/addsign-mcp](https://github.com/rmindgh/addsign-mcp) | AddSign | 0.1.5 | Send documents for e-signature from templates, track status, remind signers, ge… |
+| 2026-10-03 01:09:29 | [io.github.KyaniteLabs/kinocut](https://github.com/KyaniteLabs/kinocut) | Kinocut | 1.16.0 | Guardrailed video editing for AI agents: FFmpeg, captions, effects, Hyperframes… |
+| 2026-10-03 01:09:31 | [io.github.KyaniteLabs/mcp-video](https://github.com/KyaniteLabs/kinocut) | mcp-video | 1.6.15 | Compatibility package: mcp-video now installs Kinocut (formerly mcp-video). |
+| 2026-10-03 01:15:59 | [io.github.isiomaC/memstack](https://github.com/isiomaC/memstack) |  | 0.8.0 | MCP server for persistent, searchable memory for AI agents. |
 
 ## Data source
 

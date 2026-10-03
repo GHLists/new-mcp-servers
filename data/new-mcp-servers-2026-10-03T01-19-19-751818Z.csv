@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-10-03T00:20:33.226788Z,io.github.apurvsinghgautam/robin,Robin: AI-Powered Dark Web OSINT,3.1.0,https://github.com/apurvsinghgautam/robin,,"Dark web OSINT over Tor: search onion engines, scrape pages, report with your own model."
+2026-10-03T00:24:58.801767Z,io.github.agentsearchhq-coder/agentsearch-mcp,AgentSearch (agentsearchhq.com),1.1.1,https://github.com/agentsearchhq-coder/agentsearch-mcp,,"AgentSearch web search, page extract and JS page render for agents. Self-hosted API via stdio."
+2026-10-03T00:28:02.971142Z,dev.sandboxapis/mcp,SandboxAPIs,0.3.14,,,"Drop-in read-only replicas of GitHub, Jira, Slack and 18 more, preloaded with one fake company."
+2026-10-03T00:33:30.113558Z,com.feedbackthread/feedbackthread,FeedbackThread,1.0.0,,streamable-http,"Triage app feedback and store reviews, draft replies and release notes, tell reporters what shipped."
+2026-10-03T00:35:04.045631Z,io.github.trustlists/mcp,trustlists,0.3.0,https://github.com/trustlists/trustlists-plugin,,"Find public vendor trust centers, analyze SOC 2 reports, and request trust-center access."
+2026-10-03T00:38:53.091613Z,io.github.francescoveryra-dot/iaf-agent-bridge,IAF Agent Bridge,1.0.1,https://github.com/francescoveryra-dot/IAF-Agent-Bridge,,MCP server that sends work to Cursor Agent over ACP and returns the session id needed to continue.
+2026-10-03T00:41:27.744212Z,io.github.easonwong-de/firefox-css-theme,,0.2.9,https://github.com/easonwong-de/Firefox-CSS-Theme,,"MCP for building, inspecting, and live-debugging Firefox CSS themes."
+2026-10-03T00:41:37.74666Z,de.finisma/finisma,finisma – ZUGFeRD e-invoices,1.0.0,,streamable-http,"Verify ZUGFeRD/Factur-X e-invoices, convert PDF invoices to ZUGFeRD, check VAT IDs and Peppol."
+2026-10-03T00:42:02.857085Z,com.domaincanary/mcp,DomainCanary,1.0.0,,streamable-http,"Check a domain's DMARC, SPF and DKIM, build SPF records, explain bounces, read DMARC reports."
+2026-10-03T00:42:48.16588Z,org.ai-lifeline/ai-lifeline,AI Lifeline (read-only observed values),1.0.0,,streamable-http,"Read-only daily observed values from ai-lifeline.org with unit, date and source (JP, US, EU, SG)."
+2026-10-03T00:45:35.637176Z,io.github.PGHQdev/weekly,Japan Startup Resources,0.2.0,,streamable-http,Curated Japan startup news and events this week. Read-only tools; subscriber OAuth required.
+2026-10-03T00:52:01.690797Z,io.github.OrtaMarco/mx-fiscal-mcp-server,Mexican Tax & Banking,1.0.3,https://github.com/OrtaMarco/mx-fiscal-mcp-server,,"Validate RFC, CURP, CLABE and NSS, read CFDI 4.0 invoices and check their SAT status. No keys."
+2026-10-03T00:55:10.499159Z,com.japanstartupresources/mcp,Japan Startup Resources,0.2.1,,streamable-http,Curated Japan startup news and events this week. Read-only tools; subscriber OAuth required.
+2026-10-03T00:58:35.490656Z,io.github.KMCTO/fmcsa-carrier-intelligence,FMCSA Carrier Intelligence,0.1.0,,streamable-http,"US motor carrier safety, authority and identity-linkage checks from FMCSA data. Pay per call (x402)."
+2026-10-03T01:02:45.295913Z,io.github.t1mom777/transfers-car-rentals,Transfers & Car Rentals,1.15.1,https://github.com/t1mom777/fiji-agent-api,streamable-http,"Discover transfers, private drivers, and Fiji rentals with non-persisted quote previews."
+2026-10-03T01:03:35.480197Z,com.revup/revup,Revup,1.1.0,,streamable-http,"Create, customize, preview and report on promotions in your Revup account."
+2026-10-03T01:04:08.579721Z,com.whoppah/commerce,Whoppah,1.0.0,,streamable-http,"Search and shop curated second-hand design: furniture, lighting, art and designer bags."
+2026-10-03T01:08:21.339178Z,io.github.rmindgh/addsign-mcp,AddSign,0.1.5,https://github.com/rmindgh/addsign-mcp,streamable-http,"Send documents for e-signature from templates, track status, remind signers, get signed PDFs."
+2026-10-03T01:09:29.997758Z,io.github.KyaniteLabs/kinocut,Kinocut,1.16.0,https://github.com/KyaniteLabs/kinocut,,"Guardrailed video editing for AI agents: FFmpeg, captions, effects, Hyperframes, and receipts."
+2026-10-03T01:09:31.033355Z,io.github.KyaniteLabs/mcp-video,mcp-video,1.6.15,https://github.com/KyaniteLabs/kinocut,,Compatibility package: mcp-video now installs Kinocut (formerly mcp-video).
+2026-10-03T01:15:59.712589Z,io.github.isiomaC/memstack,,0.8.0,https://github.com/isiomaC/memstack,,"MCP server for persistent, searchable memory for AI agents."
