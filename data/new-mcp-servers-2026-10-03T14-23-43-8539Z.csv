@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-10-03T13:19:25.545709Z,io.github.upforge-dev/upforge,Upforge,1.2.0,https://github.com/upforge-dev/upforge,streamable-http,"Talk with Upforge Echo, compare services and proof, or request a human-approved project review."
+2026-10-03T13:21:54.771558Z,io.github.saulius876-lgtm/google-ads-transparency,Google Ads Transparency API,1.0.0,,streamable-http,"Competitor ads from Google Ads Transparency Center by domain or brand: dates, images, YouTube links."
+2026-10-03T13:24:10.703598Z,com.coco-pier/fx-context,FX Context,0.8.0,,streamable-http,"FX macro context for CPI, NFP, PCE, Fed, ECB, BoE, BoJ, historical analogs, and FX market reactions."
+2026-10-03T13:24:57.112432Z,io.github.jmrplens/libgen-mcp,Books & Papers MCP Server,2.1.0,https://github.com/jmrplens/libgen-mcp,streamable-http,"Federated search of books and papers, BibTeX/RIS citations, open-access retrieval and reading."
+2026-10-03T13:26:17.080957Z,io.painbase/painbase,Painbase,1.0.0,,streamable-http,"Real problems people complain about online, scored 0-100, to find and validate startup ideas."
+2026-10-03T13:28:46.437139Z,io.leadmagic/server,LeadMagic — B2B Email Finder & Contact Enrichment,2.16.0,https://github.com/LeadMagic/lm-tui,streamable-http,Find and verify B2B work emails and enrich contacts — live SMTP verification.
+2026-10-03T13:28:58.242799Z,no.listr/mcp,Listr.no,1.0.0,,streamable-http,"Short positions and insider trades in Norwegian listed companies. Read-only, no login."
+2026-10-03T13:31:04.539243Z,com.vibe-manufacturing/manufacturer-finder,Vibe Manufacturing,1.0.0,,streamable-http,"Find manufacturers worldwide, match a part spec to suppliers, estimate cost, request quotes."
+2026-10-03T13:31:05.602771Z,com.ikeytz/maps,ikeytz Einsatzgebiet-Karten,1.0.11,,streamable-http,Read/Link MCP for maps.ikeytz.com. Public read-only. No forms. ai-train=no.
+2026-10-03T13:31:42.36435Z,dev.postlake/social,PostLake,1.5.2,https://github.com/postlake/postlake-mcp,streamable-http,"Post, schedule, reply and measure across X, LinkedIn, Instagram, TikTok, YouTube, Threads, Bluesky"
+2026-10-03T13:32:36.498787Z,io.leadmagic/sheets,LeadMagic Sheets — AI Spreadsheet with Live Enrichment Columns,2.16.0,https://github.com/LeadMagic/lm-tui,streamable-http,"AI spreadsheet with live enrichment columns — emails, mobiles, firmographics."
+2026-10-03T13:38:40.376064Z,com.modkeel/modkeel,Modkeel,1.0.0,,streamable-http,"Modded Minecraft: which mod crashed the game, and whether mods ran together in a lab."
+2026-10-03T13:40:07.076702Z,eu.iprate/ip-analytics,European IP Data & Analytics — IPRATE,0.4.0,https://github.com/mkiskis/iprate-free-mcp,streamable-http,"Free anonymous selections from released European IP profiles, rankings, and market statistics."
+2026-10-03T13:42:35.874162Z,io.github.MadeOnSol/madeonsol,,3.4.0,https://github.com/madeonsol/mcp-server-madeonsol.git,,Solana KOL trading intelligence & deployer analytics via x402 micropayments or API key.
+2026-10-03T13:42:36.400168Z,io.github.MadeOnSol/robinhood-chain,,0.14.0,https://github.com/madeonsol/mcp-server-robinhood-chain.git,,"Robinhood Chain (id 4663) trading intelligence: KOL trades, DEX tape, deployer reputation."
+2026-10-03T13:46:36.920428Z,com.politereach/politereach,PoliteReach,1.0.0,,streamable-http,"LinkedIn outreach from Claude: invites under safe caps, follow-ups, replies and inbox triage."
+2026-10-03T13:47:59.119313Z,io.github.sean0007/free-agent-tools,Free Agent Tools,1.0.0,https://github.com/sean0007/free-agent-tools,streamable-http,"16 free no-auth tools: idea scoring, pricing, hotel OTA fees, SaaS savings, ads risk, Japan trips."
+2026-10-03T13:51:24.256188Z,io.ficiel/ficiel,Ficiel,1.0.0,,streamable-http,"Inbox Instagram, WhatsApp, LinkedIn: read DMs, find dormant leads, draft and send follow-ups."
+2026-10-03T13:52:16.19006Z,io.github.NomenAK/jev-agent-tools,Jev agent tools,0.2.0,https://github.com/NomenAK/jev-tools,,"Evidence-oriented code questions, diff review and test selection via a Jev endpoint."
+2026-10-03T13:53:52.281043Z,ai.customdomain/mcp,CustomDomain™,0.5.0,https://github.com/CUSTOM-DOMAIN-APP/customdomain-mcp,streamable-http,"Custom domains for SaaS and AI agents: search, buy, connect DNS, verify ownership and issue HTTPS."
+2026-10-03T13:54:41.644639Z,io.github.saulius876-lgtm/telegram-channels,Telegram Channel Scraper,1.0.0,,streamable-http,"Public Telegram channel posts without login: text, views, reactions, media, exact subscribers."
+2026-10-03T13:57:10.224347Z,com.saastemly/visionflow-match,VisionFlow Match,1.0.1791035829,,streamable-http,"Hosted OpenCV for finding a pattern image inside a larger image: template matching, ORB/SIFT..."
+2026-10-03T13:59:17.912997Z,io.damistudio/research-mcp-server,Research MCP Server,1.0.0,,streamable-http,"Fifteen research tools, from arXiv to SEC filings. Tool calls are billed to your Apify account."
+2026-10-03T14:08:51.269018Z,com.contaktly.app/contaktly,,1.0.0,,streamable-http,"See which companies visited your website, what they looked at and who to call. Read-only."
+2026-10-03T14:09:40.783985Z,ai.avaloncompany/web-content-url-tools,Web Content & URL Tools,1.0.0,https://github.com/avaloncompany/web-content-mcp-server,streamable-http,"26 tools: web pages to Markdown, metadata, tech stack, SSL, SEO, domains, email auth and SSO checks."
+2026-10-03T14:10:22.480201Z,no.prisjakten/mcp,Prisjakten.no,1.0.0,,streamable-http,"Product search, store prices and price history from Norwegian web shops. Read-only, no login."
+2026-10-03T14:10:24.896363Z,com.fjordgull/mcp,Fjordgull,1.0.0,,streamable-http,"Fjordgull omega-3 subscription: product, price and delivery status. No orders or payment."
+2026-10-03T14:11:03.175495Z,tools.filings/sec-filings,SEC Filings,1.0.0,,streamable-http,"Read SEC filings, reported financial facts and sampled filing comparisons with original sources."
+2026-10-03T14:11:12.793276Z,dev.pdfmd/pdf-to-markdown,,1.0.0,,streamable-http,Convert public PDF links into Markdown with page counts and explicit excerpt limits.
+2026-10-03T14:16:16.758445Z,com.defaultrank/mcp,DefaultRank,1.0.0,,streamable-http,"Check npm dependencies for outdated majors, and see which dev tools AI models pick."
+2026-10-03T14:16:45.457846Z,io.chaindaddy/mcp,Chain Daddy,0.5.0,,streamable-http,"Search tokens, check registrations, and run a Chain Daddy creator store from your agent."
+2026-10-03T14:21:39.183566Z,no.sporo/mcp,Sporo,1.0.0,,streamable-http,"Read-only access to your Sporo accounting: balances, invoices, VAT and P&L. OAuth."
