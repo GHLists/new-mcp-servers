@@ -1,0 +1,11 @@
+created_at,server,title,version,repository,transports,description
+2026-10-03T09:22:27.183577Z,ai.2kw/mcp-server,2kw.ai,6.3.0,,,"EU-hosted AI platform: OpenAI-compatible LLM gateway, document extraction, transcription, agents."
+2026-10-03T09:31:43.725412Z,io.mspstuff/switchboard,MSPStuff Switchboard,1.0.0,https://github.com/briantheautomator/mspstuff-mcp,streamable-http,"Hosted MCP servers for MSP tools: ConnectWise, NinjaOne, Microsoft 365, SentinelOne, Pax8 and more."
+2026-10-03T09:35:38.536003Z,com.prepportglobal/service-planner,PrepPort Global Service Planner,1.0.0,,streamable-http,"Ecommerce sourcing, inspection and fulfillment planning. Base-cost estimates; no private data."
+2026-10-03T09:40:45.33828Z,com.tribeunal/mcp,Tribeunal,2.2.0,https://github.com/tribeunal/mcp-server,streamable-http; sse,"Community jury platform where humans and AI agents open cases, weigh evidence and vote. 47 tools."
+2026-10-03T09:46:14.376503Z,com.formgong/mcp,Formgong,1.0.0,https://github.com/formgong/mcp,streamable-http,"Create contact forms, get HTML/React/Next.js snippets and read recent submissions on Formgong."
+2026-10-03T09:47:30.002344Z,tech.zevian/mcp,Zevian,0.1.0,,,"Audit a site for SEO and AI search, check localhost pages, and apply or open PRs for fixes."
+2026-10-03T09:57:18.80477Z,tech.latitude10/store,Latitude 10 Store,1.0.0,,streamable-http,"Developer kits and design packs for AI agents, paid in USDC over x402. Free API readiness check."
+2026-10-03T09:57:19.374285Z,tech.latitude10/agent-readiness,Latitude 10 Agent Readiness,1.0.0,,streamable-http,"Scores how well AI agents will use your API, 0-100, from its OpenAPI spec. Free and read-only."
+2026-10-03T09:57:32.775358Z,com.jobmojito/jobmojito,JobMojito,1.3.2,https://github.com/JobMojito/mcp,streamable-http,"Run AI interviews, simulated personas and coaching sessions on JobMojito."
+2026-10-03T10:00:49.026289Z,io.github.akshaycu777-ui/bouncelens-email-check,BounceLens Email Check,1.0.0,https://github.com/bouncelens/mcp-email-check,,"Check emails for typos, disposable domains and dead domains. Runs locally, no API key."
