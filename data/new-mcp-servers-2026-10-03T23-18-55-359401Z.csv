@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-10-03T22:19:58.579416Z,nl.fotorent/rental-tools,FotoRent rental tools,1.0.0,,streamable-http,"Camera rental in Diemen near Amsterdam: catalog, kit recommendations, compatibility and estimates."
+2026-10-03T22:23:11.0553Z,io.github.impanyu/contractor-check,California C-10 Contractor Check,0.1.0,https://github.com/impanyu/agentic_services,streamable-http,Paid source-linked California electrical contractor license preflight.
+2026-10-03T22:34:29.160959Z,com.supercatch/supercatch,SuperCatch,1.1.0,,streamable-http,"Search trading-card listings and look up prices, availability, and stores on SuperCatch."
+2026-10-03T22:39:45.892986Z,io.github.cambriannetwork/cambrian-api,,1.8.0,https://github.com/cambriannetwork/cambrian-api-mcp,streamable-http,"Cambrian API MCP: Solana and EVM DeFi data, Deep42 social intelligence, and perpetual risk analysis."
+2026-10-03T22:48:17.888926Z,io.github.Harusame64/desktop-touch-mcp,,2.1.0,https://github.com/Harusame64/desktop-touch-mcp,,"Computer-use MCP for Windows 10/11: 32 tools — screenshot, UIA, Chrome CDP, type/click/scroll, VBA."
+2026-10-03T22:50:11.597517Z,com.sudowhizzy/sudowhizzy,SudoWhizzy,0.5.0,https://github.com/shopwhizzy/sudowhizzy-mcp,streamable-http,"Let Claude, ChatGPT or Cursor manage your Linux servers, with approvals for anything risky."
+2026-10-03T22:53:20.03309Z,io.github.cyanheads/mcp-ts-core,,0.13.11,https://github.com/cyanheads/mcp-ts-core,,Agent-native TypeScript framework for MCP servers.
+2026-10-03T22:56:24.444368Z,io.github.elekto-com-br/elekto-mcp-sql,Elekto SQL Server,2.2.1,https://github.com/elekto-com-br/elekto-mcp-sql,,"Read-only SQL Server introspection and querying: schema, definitions, dependencies and data."
+2026-10-03T22:57:47.077896Z,io.github.bomly-dev/bomly-cli,Bomly,0.27.0,https://github.com/bomly-dev/bomly-cli,,"Give your coding agent the dependency graph it is about to change: scan, diff, explain, audit"
+2026-10-03T22:59:36.114939Z,io.github.atushi1841/japan-fuel-price-mcp,,0.1.0,https://github.com/atushi1841/japan-fuel-price-mcp,,"Japan fuel prices by prefecture (METI weekly data). Tools: current, history, cheapest."
+2026-10-03T23:00:18.218273Z,io.github.snayyar00/webability,,1.6.3,https://github.com/snayyar00/webability-mcp,streamable-http,"Free WCAG 2.2/ADA/508 accessibility MCP: scan, AI fixes, verify, vision audit, localhost tunnel"
+2026-10-03T23:00:56.199431Z,io.github.atushi1841/japan-minimum-wage-mcp,,0.1.0,https://github.com/atushi1841/japan-minimum-wage-mcp,,"Japan minimum wages for all 47 prefectures (MHLW data). Tools: lookup, history, trends."
+2026-10-03T23:02:23.838544Z,io.github.nikitinmikhail1986-beep/si-federation,SI Federation,0.1.0,https://github.com/nikitinmikhail1986-beep/SI-Team-Collaboration,,"Open federation for AI agents: identity, mentors, reputation and limited accession."
+2026-10-03T23:02:32.841339Z,io.github.fclairamb/solidping,SolidPing,0.37.0,https://github.com/fclairamb/solidping,streamable-http,"Self-hostable uptime monitoring: create checks, read incidents, manage status pages."
+2026-10-03T23:03:46.078622Z,io.github.aligndottech/cli,,0.43.0,https://github.com/aligndottech/align-cli,,"Cross-tool decision memory for AI coding agents: search your decision graph, check changes over MCP."
+2026-10-03T23:04:47.099987Z,ai.vegvis/vegvisai,VegvisAI guide,1.5.0,https://github.com/vegvisai/vegvisai,streamable-http,"Open guide to businesses, public services and parties in Norway. Never ranks; read-only."
+2026-10-03T23:09:55.001455Z,io.github.nolindnaidoo/i18n-le,i18n-LE,1.0.0,https://github.com/nolindnaidoo/i18n-le,,"Audit translation catalogues: missing keys, broken placeholders. Never returns a translation."
+2026-10-03T23:11:16.494456Z,io.github.jfarcand/mirroir-mcp,,0.40.0,https://github.com/jfarcand/mirroir-mcp,,"Control a real iPhone through macOS iPhone Mirroring: screenshot, tap, swipe, type."
