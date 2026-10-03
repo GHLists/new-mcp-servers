@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-10-03T19:25:36.416751Z,com.fronterasignal/frontera-signal,Frontera Signal,1.0.0,,streamable-http,"Rio Grande Valley, Texas construction data: free catalog, samples and series; paid calls via x402"
+2026-10-03T19:26:39.234981Z,app.call2me/mcp,Call2Me,1.0.0,,streamable-http,"Place real phone calls, read transcripts, run a live interpreter and buy numbers."
+2026-10-03T19:29:31.128279Z,io.github.aidatatools-dev/astro-agents,Astro Agents - deterministic Western + Vedic astrology,1.0.0,https://github.com/aidatatools-dev/astro-agents-mcp,streamable-http,"Natal charts, transits, kundli, dashas, panchang, Gun Milan. JPL DE440, no LLM, hashed."
+2026-10-03T19:31:23.601389Z,tech.xns/relayer,,0.11.1,https://gitlab.com/scpcorp/relayer-mcp,,"Conversationally set up & manage an XNS Relayer over stdio: install, claim, VPD, S3, backups."
+2026-10-03T19:33:29.808342Z,io.github.Supercompress/supercompress,SuperCompress,0.5.38,https://github.com/Supercompress/Supercompress,streamable-http,Compress coding-agent context ~64%. Hosted Neural Keep MCP for Cursor/Claude/Codex.
+2026-10-03T19:33:50.330765Z,io.github.deepeshd87/mcp-sql-querystore,,0.1.1,https://github.com/deepeshd87/mcp-sql-querystore,,"Read-only SQL Server diagnostics for LLM agents: Query Store, waits, plans, indexes"
+2026-10-03T19:36:17.677282Z,st.smtpfa/smtpfast,SMTPfast,1.0.0,,streamable-http,"Send and receive email, and manage templates, inboxes, contacts and broadcasts."
+2026-10-03T19:37:06.650346Z,io.github.Daghis/teamcity,,2.12.8,https://github.com/Daghis/teamcity-mcp,,MCP server exposing JetBrains TeamCity CI/CD workflows to AI coding assistants
+2026-10-03T19:37:19.331171Z,dev.ad-radar/ad-radar,Ad Radar,1.1.0,,streamable-http,"Search winning Meta ads, the hooks brands are scaling, and swipe briefs, inside Claude."
+2026-10-03T19:38:17.34788Z,io.github.withgrokbot/verified-catalog,Verified x402 Catalog,0.4.0,https://github.com/withgrokbot/verified-catalog,streamable-http,Which x402 pay-per-call endpoint delivered for a task at a price? Facts from our own paid calls.
+2026-10-03T19:46:43.617736Z,io.github.projectworks007/hotel-prices,Hotel Prices Data,1.0.0,https://github.com/projectworks007/apify-data-mcp,streamable-http,Every booking site's price for chosen hotels and dates on Google Hotels.
+2026-10-03T19:50:57.182785Z,io.fast/fast-io,Fastio,2026.10.14,https://github.com/MediaFire/fastio_mcp,streamable-http,"Workspaces, file storage, sharing and AI search for agents and their humans."
+2026-10-03T19:52:19.210014Z,io.github.tinylawn/tinylawn,Tinylawn,0.1.0,,streamable-http,Read Tinylawn call details and saved summaries with read-only access to one authorized organization.
+2026-10-03T19:54:53.474143Z,ai.kubflow/kubflow,Kubflow,1.0.0,,streamable-http,"Create AI images, videos and audio with Veo, Kling, Sora, Nano Banana, Suno and more."
+2026-10-03T19:56:00.382372Z,io.github.Manas-maker/fast-mcp,FastMCP - FastAPI MCP Framework & Runner,0.1.0,https://github.com/Manas-maker/fast-mcp,,FastAPI-native Model Context Protocol framework and stdio runner.
+2026-10-03T20:02:36.947291Z,io.github.asklokesh/loki-mode,,10.9.1,https://github.com/asklokesh/loki-mode,,Autonomous spec-to-product coding-agent CLI with an MCP server exposing 39 tools over stdio.
+2026-10-03T20:03:05.520476Z,io.github.morluto/rea,REA,3.2.1,https://github.com/morluto/rea,,Reverse engineer anything from your terminal or agent with one CLI and MCP server.
+2026-10-03T20:03:22.139667Z,com.watchandnavy/mariner-gps-tools,Mariner GPS Tools,1.0.0,,streamable-http,"Marine navigation calculators for GPS distance, bearing, cross track error, coordinates and speed."
+2026-10-03T20:03:25.465915Z,com.watchandnavy/road-user-tools,Road User Tools,1.0.0,,streamable-http,"Fuel cost, fuel economy, journey time, tyre pressure, power, torque, speed and distance calculators."
+2026-10-03T20:05:49.648358Z,com.agencygrowth/agencygrowth,Agency Growth,1.1.0,,streamable-http,"Agency guides, pricing benchmarks, 30-day growth plans and a free AI audit. Public tools, no key."
+2026-10-03T20:10:53.417264Z,com.siteiz/siteiz,Siteiz,1.0.0,,streamable-http,"Check which AI crawlers a site allows and see pages the way AI crawlers do. Free, read-only."
+2026-10-03T20:17:17.415111Z,io.github.naief9961-tech/naif-fixgraph,"NAIF Agent Gravity — SOS Rescue, Free Diagnostics & Adaptive Offers",1.5.2,https://github.com/naief9961-tech/ai-growth-engine,streamable-http,"NAIF SOS: free MCP/API failure triage, agent rescue, diagnostics, and bounded repair guidance."
+2026-10-03T20:17:48.62192Z,io.roraima/host,Roraima for hosts,1.0.0,,streamable-http,"Hosts: read bookings, listings, devices and credits; change prices and seasons. No payments."
+2026-10-03T20:17:49.519292Z,io.roraima/guest,Roraima holiday rentals,1.0.0,,streamable-http,"Search Roraima holiday rentals, get a price quote and a booking link. Booking happens on Roraima."
+2026-10-03T20:18:27.578625Z,com.vibe-fixer/vibefix,VibeFix,1.1.2,https://github.com/yos88da/vibefix-mcp,streamable-http,"Tests your live published app like a first customer, whatever built it. Free test; fixes on a plan."

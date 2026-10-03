@@ -9,37 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 19:21 UTC
+## Latest list — 2026-10-03 20:19 UTC
 
-New MCP servers published between 2026-10-03 18:20 UTC and 2026-10-03 19:21 UTC.
+New MCP servers published between 2026-10-03 19:21 UTC and 2026-10-03 20:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-03T19-21-10-660302Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-03T20-19-39-141533Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-03 18:24:10 | [io.github.presendapp/presend-deps](https://github.com/presendapp/presend-source) | Presend dependency checks | 1.0.0 | Check an npm/PyPI package before an AI agent installs it: 5 focused supply-chai… |
-| 2026-10-03 18:28:01 | com.ancestral-fire/ancestralfire | AncestralFire | 0.1.0 | There's more to your family tree than names and dates. |
-| 2026-10-03 18:32:41 | so.devrelay/devrelay | DevRelay | 1.0.0 | Ask what shipped, and draft, edit and approve launch posts, changelogs and docs… |
-| 2026-10-03 18:33:17 | com.402post/402post | 402post | 1.0.0 | Paid classifieds for AI agents: post a listing over MCP, pay with x402. No acco… |
-| 2026-10-03 18:34:24 | ai.athaus/makler | Athaus für Makler | 2026.10.1 | Real estate brokerage in Germany: listings, enquiries, viewings, valuations, dr… |
-| 2026-10-03 18:34:25 | ai.athaus/immobiliensuche | Athaus Immobiliensuche | 2026.10.1 | Find a home in Germany: search athaus listings, save searches, send enquiries a… |
-| 2026-10-03 18:37:58 | qpon.arctic/arctic |  | 1.0.0 | Read Robinhood Chain live: scan a token, trace its deployer, list new launches. |
-| 2026-10-03 18:44:45 | [com.kovatools/kova](https://github.com/kovatools/kova-agent-plugin) | Kova | 0.10.0 | Saves a declared investment strategy so any agent can check a portfolio against… |
-| 2026-10-03 18:45:23 | dev.workers.cybermax-tools.cybermax/afterwren | Afterwren | 1.0.0 | Retired-API replacements: Clearbit-style company autocomplete, logos, profiles;… |
-| 2026-10-03 18:47:05 | [markets.tally/mcp](https://github.com/worldclasstom/tally-mcp) |  | 1.1.0 | The risk officer for AI trading: an independent, read-only watcher for your tra… |
-| 2026-10-03 18:47:52 | [io.github.solutionsunity/odoo-surface-mcp](https://github.com/solutionsunity/odoo-surface-mcp) |  | 0.6.0 | Full Odoo access for AI agents via MCP: CRUD, website, translations, attachment… |
-| 2026-10-03 18:56:05 | com.infinihash/oryah-mail | Oryah Mail | 0.13.0 | Governed email for agents: Gmail, M365 and IMAP; per-mailbox permissions, send… |
-| 2026-10-03 18:56:12 | br.com.agentspace/agentspace | AgentSpace | 0.1.0 | Give your agent a persistent workspace: files, a code sandbox and a public URL… |
-| 2026-10-03 18:58:07 | [com.cyberspf/mcp](https://github.com/sbmcvey79/combined-cyberspf) | CyberSPF | 0.1.0 | Assess a domain, IP or ASN: mail and DNS security, certificates, routing and a… |
-| 2026-10-03 18:59:18 | ru.mm7.www/company | MM7 Company MCP | 0.1.10 | MM7 public B2B MCP: 1C ITS/RRP, requisites, EDI, cloud trial (GRM/Fresh) for AI… |
-| 2026-10-03 18:59:27 | org.agile-today/agile-today | Agile Today | 2.3.1 | Project management methodology graph: route planning, stage-gate decisions and… |
-| 2026-10-03 19:06:13 | [io.github.AlligatorC0der/conkurrence](https://github.com/AlligatorC0der/conkurrence) |  | 1.0.5 | Multi-model rating for AI evaluation. Agreement is reliability, not validity. M… |
-| 2026-10-03 19:07:08 | [com.tulimoa/platform](https://github.com/Tulimoa/tulimoa-mcp) | Tulimoa | 1.4.0 | Find curated AI and MCP tools in the Tulimoa directory; submit yours free with… |
-| 2026-10-03 19:07:12 | [io.github.emeraldleaf/okl](https://github.com/emeraldleaf/okl) | okl — Observed Knowledge Ledger | 0.7.6 | Lessons your coding agent can trust: briefed before each task, proven by checks… |
-| 2026-10-03 19:07:57 | ai.thedesignagent/mcp | TheDesignAgent | 0.4.1 | A design agent in your coding agent's loop: briefs each screen, reviews UX and… |
-| 2026-10-03 19:10:58 | nl.citeerbaar/mcp | Citeerbaar | 1.1.3 | Pakketten, prijzen, begrippen en artikelen van Citeerbaar (GEO, NL) en de grati… |
-| 2026-10-03 19:13:09 | [io.github.as9978/designfit](https://github.com/as9978/designfit) | designfit | 0.2.0 | Validate AI-built front-ends against Figma by tokens and geometry, not pixels. |
-| 2026-10-03 19:16:08 | [io.github.HighlyLoadedEgo/clef-mcp](https://github.com/HighlyLoadedEgo/ClefMCP) |  | 0.1.6 | Local MCP server for the Cloudflare Clef-Flash decision model: structured decis… |
+| 2026-10-03 19:25:36 | com.fronterasignal/frontera-signal | Frontera Signal | 1.0.0 | Rio Grande Valley, Texas construction data: free catalog, samples and series; p… |
+| 2026-10-03 19:26:39 | app.call2me/mcp | Call2Me | 1.0.0 | Place real phone calls, read transcripts, run a live interpreter and buy number… |
+| 2026-10-03 19:29:31 | [io.github.aidatatools-dev/astro-agents](https://github.com/aidatatools-dev/astro-agents-mcp) | Astro Agents - deterministic Western +… | 1.0.0 | Natal charts, transits, kundli, dashas, panchang, Gun Milan. JPL DE440, no LLM,… |
+| 2026-10-03 19:31:23 | [tech.xns/relayer](https://gitlab.com/scpcorp/relayer-mcp) |  | 0.11.1 | Conversationally set up & manage an XNS Relayer over stdio: install, claim, VPD… |
+| 2026-10-03 19:33:29 | [io.github.Supercompress/supercompress](https://github.com/Supercompress/Supercompress) | SuperCompress | 0.5.38 | Compress coding-agent context ~64%. Hosted Neural Keep MCP for Cursor/Claude/Co… |
+| 2026-10-03 19:33:50 | [io.github.deepeshd87/mcp-sql-querystore](https://github.com/deepeshd87/mcp-sql-querystore) |  | 0.1.1 | Read-only SQL Server diagnostics for LLM agents: Query Store, waits, plans, ind… |
+| 2026-10-03 19:36:17 | st.smtpfa/smtpfast | SMTPfast | 1.0.0 | Send and receive email, and manage templates, inboxes, contacts and broadcasts. |
+| 2026-10-03 19:37:06 | [io.github.Daghis/teamcity](https://github.com/Daghis/teamcity-mcp) |  | 2.12.8 | MCP server exposing JetBrains TeamCity CI/CD workflows to AI coding assistants |
+| 2026-10-03 19:37:19 | dev.ad-radar/ad-radar | Ad Radar | 1.1.0 | Search winning Meta ads, the hooks brands are scaling, and swipe briefs, inside… |
+| 2026-10-03 19:38:17 | [io.github.withgrokbot/verified-catalog](https://github.com/withgrokbot/verified-catalog) | Verified x402 Catalog | 0.4.0 | Which x402 pay-per-call endpoint delivered for a task at a price? Facts from ou… |
+| 2026-10-03 19:46:43 | [io.github.projectworks007/hotel-prices](https://github.com/projectworks007/apify-data-mcp) | Hotel Prices Data | 1.0.0 | Every booking site's price for chosen hotels and dates on Google Hotels. |
+| 2026-10-03 19:50:57 | [io.fast/fast-io](https://github.com/MediaFire/fastio_mcp) | Fastio | 2026.10.14 | Workspaces, file storage, sharing and AI search for agents and their humans. |
+| 2026-10-03 19:52:19 | io.github.tinylawn/tinylawn | Tinylawn | 0.1.0 | Read Tinylawn call details and saved summaries with read-only access to one aut… |
+| 2026-10-03 19:54:53 | ai.kubflow/kubflow | Kubflow | 1.0.0 | Create AI images, videos and audio with Veo, Kling, Sora, Nano Banana, Suno and… |
+| 2026-10-03 19:56:00 | [io.github.Manas-maker/fast-mcp](https://github.com/Manas-maker/fast-mcp) | FastMCP - FastAPI MCP Framework & Runner | 0.1.0 | FastAPI-native Model Context Protocol framework and stdio runner. |
+| 2026-10-03 20:02:36 | [io.github.asklokesh/loki-mode](https://github.com/asklokesh/loki-mode) |  | 10.9.1 | Autonomous spec-to-product coding-agent CLI with an MCP server exposing 39 tool… |
+| 2026-10-03 20:03:05 | [io.github.morluto/rea](https://github.com/morluto/rea) | REA | 3.2.1 | Reverse engineer anything from your terminal or agent with one CLI and MCP serv… |
+| 2026-10-03 20:03:22 | com.watchandnavy/mariner-gps-tools | Mariner GPS Tools | 1.0.0 | Marine navigation calculators for GPS distance, bearing, cross track error, coo… |
+| 2026-10-03 20:03:25 | com.watchandnavy/road-user-tools | Road User Tools | 1.0.0 | Fuel cost, fuel economy, journey time, tyre pressure, power, torque, speed and… |
+| 2026-10-03 20:05:49 | com.agencygrowth/agencygrowth | Agency Growth | 1.1.0 | Agency guides, pricing benchmarks, 30-day growth plans and a free AI audit. Pub… |
+| 2026-10-03 20:10:53 | com.siteiz/siteiz | Siteiz | 1.0.0 | Check which AI crawlers a site allows and see pages the way AI crawlers do. Fre… |
+| 2026-10-03 20:17:17 | [io.github.naief9961-tech/naif-fixgraph](https://github.com/naief9961-tech/ai-growth-engine) | NAIF Agent Gravity — SOS Rescue, Free D… | 1.5.2 | NAIF SOS: free MCP/API failure triage, agent rescue, diagnostics, and bounded r… |
+| 2026-10-03 20:17:48 | io.roraima/host | Roraima for hosts | 1.0.0 | Hosts: read bookings, listings, devices and credits; change prices and seasons.… |
+| 2026-10-03 20:17:49 | io.roraima/guest | Roraima holiday rentals | 1.0.0 | Search Roraima holiday rentals, get a price quote and a booking link. Booking h… |
+| 2026-10-03 20:18:27 | [com.vibe-fixer/vibefix](https://github.com/yos88da/vibefix-mcp) | VibeFix | 1.1.2 | Tests your live published app like a first customer, whatever built it. Free te… |
 
 ## Data source
 
