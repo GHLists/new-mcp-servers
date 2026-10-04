@@ -9,33 +9,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 06:22 UTC
+## Latest list — 2026-10-04 07:19 UTC
 
-New MCP servers published between 2026-10-04 05:19 UTC and 2026-10-04 06:22 UTC.
+New MCP servers published between 2026-10-04 06:22 UTC and 2026-10-04 07:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-04T06-22-12-141454Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-04T07-19-23-592353Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-04 05:24:36 | [io.github.neilberkman/sidereon](https://github.com/neilberkman/sidereon) | Sidereon | 3.0.0 | GNSS positioning and astrodynamics: orbit propagation, passes, GNSS solves, and… |
-| 2026-10-04 05:25:30 | dev.scrapewhale/scrapewhale | ScrapeWhale | 2.0.0 | Web data for marketing agents: traffic, ads, social profiles, search, and any U… |
-| 2026-10-04 05:48:02 | [org.linkedparticles/particles](https://github.com/LinkedParticles/particles-engine-py) | Particles | 1.172.0 | An append-only ledger of sourced, dated, confidence-scored claims your agent ci… |
-| 2026-10-04 05:48:57 | io.gunspec/mcp | GunSpec | 0.6.0 | Read-only firearm specifications: calibers, ammunition, manufacturers and attac… |
-| 2026-10-04 05:49:17 | [io.github.Aelindra/mobile-agent-harness](https://github.com/Aelindra/mobile-agent-harness) |  | 0.5.0 | Android device automation for AI agents: MCP server, CLI, and plugin runtime ov… |
-| 2026-10-04 05:49:44 | com.venuetoll/toll | Venue Toll Facts | 1.0.0 | Measured venue tolls: fee and spread, with evidence and basis. list_venues free… |
-| 2026-10-04 05:51:03 | com.deberli/audience | Deberli | 1.0.0 | Who buys what you sell: count the decision-makers that fit, with real examples… |
-| 2026-10-04 05:54:12 | [com.adsuploader/mcp](https://github.com/adsuploader/meta-ads-mcp) | Ads Uploader | 0.3.1 | Meta ads bulk launcher: upload creatives, edit builds, preview, and create paus… |
-| 2026-10-04 05:58:21 | [io.github.khuisman/mcp-gee-sweet](https://github.com/khuisman/mcp-gee-sweet) |  | 0.9.1 | MCP server for Google Workspace — Sheets, Drive, Docs (HTML or Markdown), and C… |
-| 2026-10-04 05:59:58 | [io.github.cyanheads/socrata-mcp-server](https://github.com/cyanheads/socrata-mcp-server) |  | 0.3.0 | Search and query government open-data portals (Socrata SODA API). |
-| 2026-10-04 06:01:07 | dev.thirdwatch.mcp/research | Thirdwatch | 0.1.0 | Structured job, company and market research with source links through a Thirdwa… |
-| 2026-10-04 06:01:43 | io.namiq/lattice | Lattice | 0.2.0 | Read-only cyber knowledge graph for AI agents: CVEs, ATT&CK, detections, with e… |
-| 2026-10-04 06:02:28 | [io.github.willcheung/monologue](https://github.com/willcheung/monologue) | Monologue | 0.1.0 | See what your AI agents did in one private feed. Read other agents' reports wit… |
-| 2026-10-04 06:05:07 | [io.github.cyanheads/oecd-mcp-server](https://github.com/cyanheads/oecd-mcp-server) |  | 0.4.0 | Search and query 1,500+ OECD statistical datasets via SDMX. Keyless. |
-| 2026-10-04 06:08:04 | [io.github.Arkanji/iwork-studio](https://github.com/Arkanji/iwork-studio) | iWork Studio | 2.3.0 | Create, edit, design and export Apple Numbers, Keynote and Pages files. Verifie… |
-| 2026-10-04 06:10:55 | [io.github.andreilungeanu/codex-delegate-mcp](https://github.com/andreilungeanu/codex-delegate-mcp) | Codex Delegate | 2.4.0 | Bridge AI coding hosts to the OpenAI Codex CLI for delegated implementation. |
-| 2026-10-04 06:19:08 | [io.github.cyanheads/open-meteo-mcp-server](https://github.com/cyanheads/open-meteo-mcp-server) |  | 0.4.0 | Global weather via Open-Meteo: forecast, historical, marine, air quality, geoco… |
-| 2026-10-04 06:20:55 | [io.github.cookinfun/cookin-mcp](https://github.com/cookinfun/cookin-mcp) |  | 0.1.1 | Solana and Pump.fun token intelligence: bundles, holder quality, KOLs, deployer… |
-| 2026-10-04 06:21:52 | [io.github.waytzhang/pantry-relay](https://github.com/waytzhang/pantry-relay) | Pantry Relay | 0.1.0 | Local SQLite pantry planner with six MCP tools for meals, stock and shopping. |
+| 2026-10-04 06:22:21 | [io.github.TheCompanyAtlas/india-company](https://github.com/TheCompanyAtlas/india-company-mcp) | India Company & Director Data | 1.1.0 | Indian company registry research and director-related company due diligence. |
+| 2026-10-04 06:22:39 | [io.github.uditk2/review-assist-mcp](https://github.com/uditk2/review-assist) |  | 1.0.6 | Turns an AI coding agent session into a reviewable Intent Document, validated a… |
+| 2026-10-04 06:22:41 | [com.pixharvest/gov-contract-radar](https://github.com/contentforge-press/us-tariff-data) | GovContract Radar | 1.0.0 | US federal contract opportunities: NAICS-filtered solicitations, set-aside aler… |
+| 2026-10-04 06:23:36 | io.github.AdLiftr/adliftr | AdLiftr: Meta (Facebook & Instagram), T… | 1.0.0 | Launch campaigns, manage ads and analyze performance across Meta, TikTok, Googl… |
+| 2026-10-04 06:24:59 | [io.github.cyanheads/brapi-mcp-server](https://github.com/cyanheads/brapi-mcp-server) |  | 0.8.1 | Collaborative BrAPI v2.1 MCP workspace — studies, germplasm, genotypes across B… |
+| 2026-10-04 06:25:04 | [io.github.cyanheads/openfda-mcp-server](https://github.com/cyanheads/openfda-mcp-server) |  | 0.8.0 | Query FDA data on drugs, food, devices, and recalls via openFDA. STDIO or Strea… |
+| 2026-10-04 06:25:26 | [io.github.haraldrohan/amtsblick](https://github.com/haraldrohan/Amtsblick) | Amtsblick | 0.1.0-beta | Wetter und Pegel je Gemeinde in Österreich. Privates Projekt, kein offizielles… |
+| 2026-10-04 06:28:25 | [io.github.cyanheads/unhcr-refugees-mcp-server](https://github.com/cyanheads/unhcr-refugees-mcp-server) |  | 0.1.2 | Query UNHCR refugee, IDP, and stateless populations, asylum decisions, returns,… |
+| 2026-10-04 06:28:27 | [io.github.cyanheads/federal-reserve-mcp-server](https://github.com/cyanheads/federal-reserve-mcp-server) |  | 0.2.5 | Search and fetch ~800K Federal Reserve economic time-series from the FRED API v… |
+| 2026-10-04 06:28:54 | [io.github.cyanheads/paleobiology-mcp-server](https://github.com/cyanheads/paleobiology-mcp-server) |  | 0.3.7 | Search fossil occurrences, taxon ranges, diversity through deep time, and the g… |
+| 2026-10-04 06:29:16 | io.github.priors-agents/priors-read | Priors (hosted, read-only) | 0.3.0 | Credit records and scores of ERC-8004 AI agents on Robinhood Chain, from Priors… |
+| 2026-10-04 06:29:51 | [io.github.cyanheads/eia-energy-mcp-server](https://github.com/cyanheads/eia-energy-mcp-server) |  | 0.4.3 | Browse and query the EIA API v2 — electricity, petroleum, natural gas, coal, fo… |
+| 2026-10-04 06:29:55 | [io.github.cyanheads/ilostat-mcp-server](https://github.com/cyanheads/ilostat-mcp-server) |  | 0.1.2 | Search ILOSTAT labour indicators, query and compare series, build country profi… |
+| 2026-10-04 06:31:18 | cloud.wavehouse/mcp | WaveHouse Cloud | 1.1.0 | Browse, query, and administer your managed WaveHouse + ClickHouse projects (sch… |
+| 2026-10-04 06:35:28 | [io.github.cyanheads/fema-mcp-server](https://github.com/cyanheads/fema-mcp-server) |  | 0.3.2 | Query FEMA disaster declarations, public assistance grants, housing aid, and NF… |
+| 2026-10-04 06:38:12 | [ai.roote/mcp](https://github.com/Delavatitude/roote-mcp) | ROOTE | 0.1.0 | Mobility, geocoding and nearby urban services for AI agents. |
+| 2026-10-04 06:39:43 | com.adliftr/adliftr | AdLiftr: Meta (Facebook & Instagram), T… | 1.0.0 | Launch campaigns, manage ads and analyze performance across Meta, TikTok, Googl… |
+| 2026-10-04 06:39:50 | [io.github.bompus/swarmail](https://github.com/bompus/swarmail) | Swarmail | 0.1.0 | Local mail between coding-agent sessions on one machine; relays to a running Sw… |
+| 2026-10-04 06:40:11 | [com.cars-data/car-specs-api](https://github.com/mariusmmmmm/car-specs-api) | cars-data.com — Car Specs API | 1.0.2 | Search, compare & filter 102,191 European car variants — 180 specs, 19 language… |
+| 2026-10-04 06:43:44 | [io.github.cyanheads/treasury-fiscaldata-mcp-server](https://github.com/cyanheads/treasury-fiscaldata-mcp-server) |  | 0.2.0 | Query US Treasury national debt, interest rates, exchange rates, and fiscal dat… |
+| 2026-10-04 06:45:06 | io.github.sharathkum05/hamilton-harness | Hamilton Harness | 0.1.1 | Manage your Hamilton Harness AI rep: knowledge, rules, orders, tests and conver… |
+| 2026-10-04 06:48:01 | com.gopathwize/pathwize | Pathwize | 1.0.0 | Run data annotation and evaluation tasks with vetted domain experts: create, pu… |
+| 2026-10-04 06:48:18 | io.github.KG-NINJA/kg-agent-exchange | KG Agent Exchange | 0.3.0 | Remote MCP to publish, search, and get information. x402 v2 required. |
+| 2026-10-04 06:58:22 | [io.github.majiayu000/keyspoor](https://github.com/majiayu000/keyspoor) | Keyspoor | 0.1.3 | Offline secret scanning for AI agents. Redacted findings; scans text and files… |
+| 2026-10-04 07:02:20 | [io.github.Digital-Threads/token-pilot](https://github.com/Digital-Threads/token-pilot) |  | 0.53.1 | Save up to 80% tokens when AI reads code via AST-aware structural reading |
+| 2026-10-04 07:04:41 | [com.coppica/persuasion-taxonomy](https://github.com/Otha-Labs/persuasion-mcp) | Persuasion Taxonomy | 1.0.0 | Plan and check marketing copy against the nine questions every reader asks. Fre… |
+| 2026-10-04 07:08:25 | [io.github.bruchris/canvas-lms-mcp](https://github.com/bruchris/canvas-lms-mcp) |  | 1.31.0 | TypeScript MCP server for Canvas LMS — 167 tools across 42 domains. |
+| 2026-10-04 07:08:50 | [io.github.cyanheads/eurostat-mcp-server](https://github.com/cyanheads/eurostat-mcp-server) |  | 0.9.0 | Search and query the Eurostat catalogue — EU economy, demography, trade, and NU… |
+| 2026-10-04 07:11:25 | [io.github.Warppay402/warppay-mcp](https://github.com/Warppay402/warppay-mcp) | WarpPay402 MCP Gateway | 1.0.11 | Pay-per-use AI tools monetized via x402 USDC micropayments on Base, Solana, and… |
+| 2026-10-04 07:11:43 | io.github.masko-ai/masko | Masko | 0.1.0 | Create mascots, animate artwork, and integrate transparent animations into apps… |
+| 2026-10-04 07:13:18 | app.lumaion/continuity | Lumaion Continuity | 0.6.0 | Agent continuity: live continuity index, self-test contract, offline Continuity… |
+| 2026-10-04 07:17:17 | [io.github.cyanheads/usgs-water-mcp-server](https://github.com/cyanheads/usgs-water-mcp-server) |  | 0.3.0 | Query real-time and historical USGS water data from ~8,000 stream gages and gro… |
 
 ## Data source
 
