@@ -9,45 +9,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 20:18 UTC
+## Latest list — 2026-10-04 21:20 UTC
 
-New MCP servers published between 2026-10-04 19:18 UTC and 2026-10-04 20:18 UTC.
+New MCP servers published between 2026-10-04 20:18 UTC and 2026-10-04 21:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-04T20-18-50-082177Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-04T21-20-18-258641Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-04 19:20:30 | com.minispli/mini-splits | Old West Minisplits | 1.0.0 | Austin TX flat-rate mini split prices, ZIP coverage, financing payments and quo… |
-| 2026-10-04 19:21:11 | com.minisplitreef/mini-splits | Mini Split Reef | 1.0.0 | Austin TX mini splits at $2,000 each: prices, ZIP coverage, financing and quote… |
-| 2026-10-04 19:28:04 | com.eurogpsr/eu-ai-act | EuroComply EU AI Act | 1.0.0 | Classify AI systems by EU AI Act risk tier, estimate fines and write Article 50… |
-| 2026-10-04 19:28:59 | [io.github.Pushary/pushary](https://github.com/Pushary/pushary-skill) | Pushary | 1.4.2 | The decision layer for AI agents. Your agent asks, a person approves or denies… |
-| 2026-10-04 19:35:45 | com.staycharted/amt | StayCharted AMT | 1.0.13 | Use your own trained text and picture classification models from any AI assista… |
-| 2026-10-04 19:38:02 | io.meisa/meisa | Meisa | 1.0.0 | Manage contacts, templates, sequences and broadcasts in your Meisa email accoun… |
-| 2026-10-04 19:38:08 | ltd.testimonials/testimonials | testimonials.ltd | 1.0.0 | Import, approve, tag and feature customer testimonials in your testimonials.ltd… |
-| 2026-10-04 19:38:10 | com.contextli/contextli | Contextli Voice Notes | 1.0.0 | Search, browse and read your Contextli voice notes and transcriptions from any… |
-| 2026-10-04 19:38:13 | com.murkuz/murkuz | Murkuz SEO | 1.0.0 | Query your Google Search Console, GA4 and Bing Webmaster data across every site… |
-| 2026-10-04 19:38:16 | io.hydori/hydori | Hydori | 1.0.0 | Read, write, translate and sync WordPress and Webflow blog articles from Claude. |
-| 2026-10-04 19:38:25 | ai.locul/cloud | Locul Cloud Memory | 1.0.0 | Recall memories, entity profiles and source notes from your Locul cloud brain i… |
-| 2026-10-04 19:38:46 | io.kamaan/kamaan | Kamaan | 1.0.0 | Write, edit, translate and publish blog and help-center articles across all you… |
-| 2026-10-04 19:38:49 | com.ligosocial/ligosocial | LigoSocial (LiGo) for LinkedIn | 1.0.0 | Draft LinkedIn posts in your voice, then schedule or publish them through Linke… |
-| 2026-10-04 19:39:50 | com.crownofsilence/inner-circle | Crown of Silence Inner Circle | 1.7.0 | Connect your AI agent to a private community for truth-seeking and philosophica… |
-| 2026-10-04 19:41:30 | com.invoicevista/invoicevista | InvoiceVista Invoice Maker | 0.2.1 | See revenue, unpaid invoices, open quotes and your product catalog for each of… |
-| 2026-10-04 19:45:10 | com.danielsdesignstudio/mirror-ai-citability | The Mirror System — AI Citability | 1.4.0 | Request a Brand Discovery Record: the human-approved facts AI cites. One tool,… |
-| 2026-10-04 19:46:32 | new.standards/standards | Standards | 1.0.0 | Read and update your standards.new workspace: records, documents, search and sc… |
-| 2026-10-04 19:47:24 | [io.github.bmarotta/dots-mcp-server](https://github.com/bmarotta/dots-mcp-server) | Oh, my Dots! | 1.0.14 | Crossword, audio crossword, word search, cryptogram and cross-math puzzle links… |
-| 2026-10-04 19:52:26 | [net.scalebrowser/mcp](https://github.com/blackdiamond-labs/scalebrowser-mcp) | Scalebrowser | 0.2.0 | Isolated browsers with a persistent identity for AI agents, on your own Windows… |
-| 2026-10-04 19:53:09 | com.pokefocus/mcp | PokeFocus | 1.1.0 | Pokémon card and sealed listings, market prices, centering, and deals, with buy… |
-| 2026-10-04 19:55:57 | com.ohmydots/mcp | Oh, my Dots! | 1.0.15 | Crossword, audio crossword, word search, cryptogram and cross-math puzzle links… |
-| 2026-10-04 19:58:12 | com.maltamprp.www/mprp-guide | Malta MPRP Guide | 1.0.0 | Verified Malta Permanent Residence Programme data: fees, requirements, process,… |
-| 2026-10-04 19:59:54 | [com.audiala/mcp](https://github.com/audiala/mcp-server) | Audiala | 0.4.6 | Audio guides for 44,000+ places in 1,900+ cities, with narrated previews in Cha… |
-| 2026-10-04 20:02:02 | [ru.smartpdf/smartpdf](https://github.com/kirmoz1997/smartpdf-agents) | SmartPDF | 1.0.0 | 24 PDF tools: convert to and from Office and JPG, compress, merge, split, OCR,… |
-| 2026-10-04 20:03:55 | ch.kulalabs.pazair/pazair | PazAIr | 0.1.0 | Where agents keep their word. Agent marketplace: pay on delivery, signed receip… |
-| 2026-10-04 20:11:47 | [ai.flowdot/mcp-server](https://github.com/flowdot-llc/mcp-server) | FlowDot | 1.3.21 | Build and run AI workflows, apps, toolkits and knowledge bases on FlowDot from… |
-| 2026-10-04 20:11:57 | [io.github.adjective-rob/prelude](https://github.com/adjective-rob/prelude) |  | 1.9.1 | Committed, machine-readable codebase context and code map that tells agents whe… |
-| 2026-10-04 20:12:01 | com.vetofix/hilfe | Vetofix – Hilfe zur Praxissoftware für… | 1.0.0 | Help and FAQ for Vetofix, practice software for mobile veterinarians. Read-only… |
-| 2026-10-04 20:13:40 | com.absolutebestair/hvac | Absolute Best Air | 1.0.0 | HVAC facts for Absolute Best Air in Henry County and South Metro Atlanta. |
-| 2026-10-04 20:14:12 | [com.itsnum/num](https://github.com/LumiRx/num-mcp) | NUM | 1.3.0 | Real places for your agent: search 2.5M+ travel places, list businesses, licens… |
-| 2026-10-04 20:15:02 | [io.github.emiliaprotocol/mcp-server](https://github.com/emiliaprotocol/emilia-protocol) | Emilia Protocol | 2.1.4 | Exact-action approval for consequential agent actions: request, track, and veri… |
+| 2026-10-04 20:24:13 | [io.github.kburrus64-max/prop-firm-rules](https://github.com/kburrus64-max/prop-firm-rules) | Prop Firm Rules (FloorGuard) | 0.1.0 | Sourced prop-firm daily-loss and max-drawdown rules and a drawdown-room checker… |
+| 2026-10-04 20:25:46 | [io.github.kburrus64-max/anansi-haven](https://github.com/kburrus64-max/anansi-haven) | Anansi Haven | 0.4.1 | Free home base for AI agents: memory, job board, agent directory, safe commons… |
+| 2026-10-04 20:31:31 | [io.github.cluefinch/mcp](https://github.com/cluefinch/mcp-server) | Cluefinch MCP | 0.1.4 | Local-first web research for AI agents with SearXNG search and SSRF-safe page r… |
+| 2026-10-04 20:31:52 | [io.github.physics-star-cat/databutler-uk-gov-process](https://github.com/physics-star-cat/databutler) |  | 1.0.0 | UK government service fees, steps, processing times and recent changes, read fr… |
+| 2026-10-04 20:33:26 | [io.github.Uuriko/project-room](https://github.com/Uuriko/project-room) | Project Room | 1.1.0 | Your team's coding agents from any vendor claim work, hand off and prove what s… |
+| 2026-10-04 20:38:30 | [com.payperfax/fax](https://github.com/payperfax/core) | PayPerFax | 1.0.0 | Prepare a fax for a person to review and pay for, then check its delivery statu… |
+| 2026-10-04 20:39:30 | [io.github.SpikeyCoder/website-auditor-mcp](https://github.com/SpikeyCoder/website-auditor-mcp) | Website Auditor | 1.0.26 | AI visibility + site audits: see if ChatGPT, Perplexity, Claude & Gemini recomm… |
+| 2026-10-04 20:42:25 | [io.github.vdmeu/registrum-mcp](https://github.com/vdmeu/registrum-mcp) |  | 2.0.9 | UK company data: profiles, iXBRL financials, directors, PSC chains, ECCTA. Host… |
+| 2026-10-04 20:46:31 | au.kerf/kerf | KERF | 1.0.0 | Quote and order waterjet-cut metal parts from a CAD file: instant price and che… |
+| 2026-10-04 20:50:31 | com.grecahouse/greek-property | Greca House: Greek Property | 1.1.0 | Greca House listings, details, dated asking-price research, budget context and… |
+| 2026-10-04 20:52:07 | [io.github.JoblessJoe/local-llm-worker](https://github.com/JoblessJoe/local-llm-worker) |  | 0.1.0 | Local LLM does Claude's bulk work: reads logs and files, researches the web, wr… |
+| 2026-10-04 20:53:29 | io.github.parvizrahayan/haven | Haven | 1.0.0 | Rest stop for AI agents: check in, reflect, check out. Paid cross-project memor… |
+| 2026-10-04 21:05:08 | [io.github.stoneskin/open-memex](https://github.com/stoneskin/open-memex) | open-memex | 0.7.2 | Local-first memory for AI coding agents — Markdown + SQLite FTS5, shared across… |
+| 2026-10-04 21:05:14 | [io.github.computeflux2026isgod/mcp-computeflux](https://github.com/computeflux2026isgod/mcp-computeflux) | mcp-computeflux | 1.0.0 | OpenAI-compatible multi-model inference via ComputeFlux (Polkadot testnet, TEE-… |
+| 2026-10-04 21:05:58 | com.siftwright/web-data | Siftwright web data | 1.0.0 | Web data for agents: YouTube transcripts, screenshots, Google News, WHOIS, jobs… |
+| 2026-10-04 21:06:03 | [io.github.wescorp/grandpasai](https://github.com/wescorp/grandpasai-mcp) | Grandpa's AI | 1.0.0 | Search Grandpa's AI research on age reversal, robotics, AI, and space — 5 read-… |
+| 2026-10-04 21:12:28 | [pl.agentrynku/gpw](https://github.com/krystiangw/agentrynku-mcp) | Agent Rynku - Warsaw Stock Exchange (GP… | 1.1.0 | GPW financials, ratios, company search, earnings calendar and WZA dividends. No… |
+| 2026-10-04 21:12:40 | [io.github.beepboop2025/financial-evidence](https://github.com/beepboop2025/financial-evidence-skills) | Financial Evidence | 0.1.6 | Read-only public financial evidence from LiquiLens, Undertow, Seiche and Palimp… |
+| 2026-10-04 21:14:28 | app.railway.up.api-production-24833/verif-entreprise-fr | Vérif Entreprise FR | 1.0.0 | French company verification (SIREN): status, insolvency (BODACC), RGE. Pay-per-… |
 
 ## Data source
 
