@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-04T00:19:28.904769Z,io.github.Alex-Proof/alex-evidence-verify-mcp,ALEX Evidence Verify,0.1.1,,,Verify signed ALEX Evidence Packages. Fails closed on signature or schema errors.
+2026-10-04T00:19:30.850668Z,eu.reqlio/reqlio,Reqlio,0.1.0,,streamable-http,"Read and edit requirements, traces, verification, risks and reviews in a Reqlio workspace."
+2026-10-04T00:21:07.898155Z,io.github.ArneFfm/ecoaloha,EcoAloha,1.2.0,https://github.com/ArneFfm/ecoaloha-agents,streamable-http,Search and compare outdoor experiences. Public keyless API; booking and payment happen on Viator.
+2026-10-04T00:30:21.395048Z,io.github.arvindand/maven-tools-mcp,,3.2.3,https://github.com/arvindand/maven-tools-mcp,,JVM dependency intelligence for AI assistants via Maven Central
+2026-10-04T00:33:31.183933Z,io.github.GoodTurnStudio/fairfare,Fair Fare,1.0.0,https://github.com/GoodTurnStudio/goodturn-mcp,streamable-http,"What a taxi, Uber or Lyft should cost, airport pickup rules, and overcharge checks."
+2026-10-04T00:33:31.28944Z,io.github.GoodTurnStudio/artspotter,Art Spotter - Eye of the Beholder,1.0.0,https://github.com/GoodTurnStudio/goodturn-mcp,streamable-http,"Original art and prints from independent artists, fair prices, and help for artists to sell."
+2026-10-04T00:35:33.768698Z,com.cardvolume/market-data,CardVolume,1.0.0,,streamable-http,"Verified trading card sales and prices by grade: Pokemon, Magic, Yu-Gi-Oh!, sports, Harry Potter."
+2026-10-04T00:42:25.292927Z,com.commareports/comma,Comma,1.0.0,https://github.com/doramirdor/comma-plugin,streamable-http,"Publish HTML reports to a share link, collect anchored comments, revise at the same URL."
+2026-10-04T00:46:33.915842Z,org.living-bread.mcp/living-bread,The Living Bread,1.0.0,,streamable-http; sse,"Scripture, verses for a need, grounded answers, real churches and gatherings near you, and prayer."
+2026-10-04T00:50:35.363658Z,io.github.ArneFfm/shared-forest,Shared Forest,1.5.0,https://github.com/ArneFfm/shared-forest-agents,streamable-http,Plant or sponsor trees in a shared forest that grows from its traffic. Sponsoring uses OAuth.
+2026-10-04T00:53:45.467349Z,io.github.Nero-Engine/job-post-enricher,"Job Post Enricher: Salary, Seniority, Remote, Visa & Skills",0.1.0,,streamable-http,"AI salary, seniority, remote, visa and skills fields for LinkedIn, Indeed or any jobs dataset."
+2026-10-04T00:58:01.087236Z,io.github.Grinv/steam-games-mcp,Steam MCP Server,0.15.0,https://github.com/Grinv/steam-games-mcp,,"Steam store/game data (no key) plus player profiles, libraries and achievements (Steam Web API)."
+2026-10-04T00:59:26.644584Z,io.github.ysgjay/token-command-center,Token Command Center,0.3.0,,streamable-http,"Free token data: revenue, net flow after emissions, supply/unlock history, catalysts, errors marked"
+2026-10-04T00:59:59.781483Z,dev.markpin/mcp,Markpin,0.7.1,https://github.com/mud-studio/markpin-mcp,,Search and read the web pages and highlights you saved with the Markpin Chrome extension.
+2026-10-04T01:13:12.828486Z,io.github.mahadrehman239-del/causara-economic-control,Causara Economic Control,0.1.0,,streamable-http,Economic exposure and control decisions for autonomous AI actions in Shadow Mode.
+2026-10-04T01:14:35.818581Z,io.github.HorizunGroup/horizun-pbi-mcp,Horizun PBI MCP,2.1.2,https://github.com/HorizunGroup/horizun-pbi-mcp,,"Build, audit and repair Power BI Desktop models and PBIP reports with DAX, TMDL and PBIR."
+2026-10-04T01:17:54.873762Z,app.openkrill/outreach-desk,Outreach Desk,1.0.0,,streamable-http,"Score inbound recruiter and sales pitches on relevance, specificity, cadence and spam signals."

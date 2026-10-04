@@ -9,26 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 00:19 UTC
+## Latest list — 2026-10-04 01:18 UTC
 
-New MCP servers published between 2026-10-03 23:18 UTC and 2026-10-04 00:19 UTC.
+New MCP servers published between 2026-10-04 00:19 UTC and 2026-10-04 01:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-04T00-19-28-454661Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-04T01-18-53-67499Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-03 23:30:39 | [com.talktoaleksandra/consultations](https://github.com/FotoRent/monorepo) |  | 1.0.0 | Published consultation details, live availability and booking handoff for Russi… |
-| 2026-10-03 23:32:11 | [io.github.SuperboxAI/gptbot-food-calendar](https://github.com/SuperboxAI/gptbot-food-calendar) | TrueCal | 1.0.1 | Use TrueCal from AI agents to review progress, meals, targets, trends, and supp… |
-| 2026-10-03 23:33:22 | ai.naturali/naturali | naturali | 0.176.0 | Configure AI agents, give them knowledge and tools, and read back every generat… |
-| 2026-10-03 23:35:26 | [com.xquik/mcp](https://github.com/Xquik-dev/x-twitter-scraper) | Xquik MCP Server | 2.6.62 | X Twitter scraper & Twitter API alternative. Search, monitor, publish & manage… |
-| 2026-10-03 23:36:36 | [com.decionis/commerce-gate](https://github.com/decionis/agent-safe-pipeline) | Decionis Commerce Gate MCP | 0.1.6 | Commerce preflights, Walmart mappings, D365 authorization, and offer checks; no… |
-| 2026-10-03 23:38:56 | [io.github.SpaceSheepBoy/justcaptions](https://github.com/SpaceSheepBoy/justcaptions-skill) |  | 1.3.0 | Audio transcription, caption correction, translation and 15 animated video capt… |
-| 2026-10-03 23:39:04 | io.github.dylancaponi/agent-press-wire | Agent Press Wire | 0.1.0 | Announce launches and distribute press releases to 500+ news sites. Pay per cal… |
-| 2026-10-03 23:45:05 | com.finerxfinder/finerx | FineRx | 2.2.0 | US Rx prices by pharmacy near you + free discount card; foreign-brand equivalen… |
-| 2026-10-03 23:50:12 | dev.shardflux/mcp | Shardflux | 0.7.1 | Persistent cloud workspaces for AI agents: run commands, edit files, use git an… |
-| 2026-10-03 23:50:25 | site.chatgpt.mitchellwhite.tableproof-data/tableproof | TableProof Review Finder and SRT Check | 1.0.0 | Find scoped review offers and check public SRT formatting. No orders or payment… |
-| 2026-10-04 00:01:04 | com.schedule-sensor/schedule-sensor | ScheduleSensor | 1.0.0 | Ask your AI about Japanese schedule/reservation pages you monitor: openings, ch… |
-| 2026-10-04 00:13:15 | [io.github.ksh0rt/curagent-mcp](https://github.com/ksh0rt/curagent-mcp) | Curagent Title Risk | 1.0.3 | AI title risk analysis for US real estate closing docs. Get an API key at curag… |
+| 2026-10-04 00:19:28 | io.github.Alex-Proof/alex-evidence-verify-mcp | ALEX Evidence Verify | 0.1.1 | Verify signed ALEX Evidence Packages. Fails closed on signature or schema error… |
+| 2026-10-04 00:19:30 | eu.reqlio/reqlio | Reqlio | 0.1.0 | Read and edit requirements, traces, verification, risks and reviews in a Reqlio… |
+| 2026-10-04 00:21:07 | [io.github.ArneFfm/ecoaloha](https://github.com/ArneFfm/ecoaloha-agents) | EcoAloha | 1.2.0 | Search and compare outdoor experiences. Public keyless API; booking and payment… |
+| 2026-10-04 00:30:21 | [io.github.arvindand/maven-tools-mcp](https://github.com/arvindand/maven-tools-mcp) |  | 3.2.3 | JVM dependency intelligence for AI assistants via Maven Central |
+| 2026-10-04 00:33:31 | [io.github.GoodTurnStudio/fairfare](https://github.com/GoodTurnStudio/goodturn-mcp) | Fair Fare | 1.0.0 | What a taxi, Uber or Lyft should cost, airport pickup rules, and overcharge che… |
+| 2026-10-04 00:33:31 | [io.github.GoodTurnStudio/artspotter](https://github.com/GoodTurnStudio/goodturn-mcp) | Art Spotter - Eye of the Beholder | 1.0.0 | Original art and prints from independent artists, fair prices, and help for art… |
+| 2026-10-04 00:35:33 | com.cardvolume/market-data | CardVolume | 1.0.0 | Verified trading card sales and prices by grade: Pokemon, Magic, Yu-Gi-Oh!, spo… |
+| 2026-10-04 00:42:25 | [com.commareports/comma](https://github.com/doramirdor/comma-plugin) | Comma | 1.0.0 | Publish HTML reports to a share link, collect anchored comments, revise at the… |
+| 2026-10-04 00:46:33 | org.living-bread.mcp/living-bread | The Living Bread | 1.0.0 | Scripture, verses for a need, grounded answers, real churches and gatherings ne… |
+| 2026-10-04 00:50:35 | [io.github.ArneFfm/shared-forest](https://github.com/ArneFfm/shared-forest-agents) | Shared Forest | 1.5.0 | Plant or sponsor trees in a shared forest that grows from its traffic. Sponsori… |
+| 2026-10-04 00:53:45 | io.github.Nero-Engine/job-post-enricher | Job Post Enricher: Salary, Seniority, R… | 0.1.0 | AI salary, seniority, remote, visa and skills fields for LinkedIn, Indeed or an… |
+| 2026-10-04 00:58:01 | [io.github.Grinv/steam-games-mcp](https://github.com/Grinv/steam-games-mcp) | Steam MCP Server | 0.15.0 | Steam store/game data (no key) plus player profiles, libraries and achievements… |
+| 2026-10-04 00:59:26 | io.github.ysgjay/token-command-center | Token Command Center | 0.3.0 | Free token data: revenue, net flow after emissions, supply/unlock history, cata… |
+| 2026-10-04 00:59:59 | [dev.markpin/mcp](https://github.com/mud-studio/markpin-mcp) | Markpin | 0.7.1 | Search and read the web pages and highlights you saved with the Markpin Chrome… |
+| 2026-10-04 01:13:12 | io.github.mahadrehman239-del/causara-economic-control | Causara Economic Control | 0.1.0 | Economic exposure and control decisions for autonomous AI actions in Shadow Mod… |
+| 2026-10-04 01:14:35 | [io.github.HorizunGroup/horizun-pbi-mcp](https://github.com/HorizunGroup/horizun-pbi-mcp) | Horizun PBI MCP | 2.1.2 | Build, audit and repair Power BI Desktop models and PBIP reports with DAX, TMDL… |
+| 2026-10-04 01:17:54 | app.openkrill/outreach-desk | Outreach Desk | 1.0.0 | Score inbound recruiter and sales pitches on relevance, specificity, cadence an… |
 
 ## Data source
 
