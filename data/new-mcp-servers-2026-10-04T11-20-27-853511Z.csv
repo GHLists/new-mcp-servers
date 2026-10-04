@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-04T10:25:03.307284Z,io.github.dorianfields/x402-cite-check,,1.0.0,,streamable-http,"Verify cited URLs still resolve: reachability, HTTP status and page title. x402-paid."
+2026-10-04T10:30:41.932564Z,com.citefiles/citefiles,Cite Files,1.0.0,,streamable-http,"Check whether AI assistants can reach, read and cite a public website. No account for 4 of 5 tools."
+2026-10-04T10:31:59.235618Z,dev.quirepdf/quirepdf-mcp,Quire PDF,0.1.0,,,"Turn JSON into polished PDFs: invoices, receipts, quotes, certificates, or any data."
+2026-10-04T10:42:48.010566Z,io.github.max-nobug/drugalpha-mcp,DrugAlpha 创新药投研,0.1.0,https://github.com/max-nobug/drugalpha-mcp,streamable-http,Company/drug identification and published biopharma catalysts. DrugAlpha OAuth account required.
+2026-10-04T10:49:24.560203Z,io.github.desplega-ai/agent-swarm,Agent Swarm,1.162.0,https://github.com/desplega-ai/agent-swarm,streamable-http,Full Agent Swarm API and MCP server with local SQLite storage for multi-agent orchestration.
+2026-10-04T10:53:29.31664Z,com.superpandit/kundli,SuperPandit Kundli,1.0.0,,streamable-http,"Vedic astrology from a real ephemeris: birth chart, life-event timing and Kundli matching."
+2026-10-04T10:53:41.865717Z,io.github.ishay60/mcpolyglot,,0.4.2,https://github.com/ishay60/mcpolyglot,,"Policy-checked, audited agent access to Postgres, MySQL, SQLite, MongoDB and OpenAPI REST APIs."
+2026-10-04T10:59:19.98621Z,io.github.gripforgeai/mcp,GripForge,0.1.12,https://github.com/gripforgeai/mcp,streamable-http,"Turn prompts into production-ready game assets: animated characters, textures, terrain, VFX, HUD."
+2026-10-04T11:01:58.207637Z,com.yehangshe/nightwatch,Nightwatch,0.1.0,,streamable-http,Dealer gamma exposure (GEX) levels and dealer positioning heatmaps for US equity options.
+2026-10-04T11:05:01.517794Z,com.nibomo/flashcards,Nibomo,1.29.0,https://github.com/kirill-markin/flashcards-open-source-app,streamable-http,"Read, write, and conversationally review open-source flashcards through split read/write MCP tools."
+2026-10-04T11:05:02.406443Z,com.ortexo/mcp,Ortexo,1.0.0,,streamable-http,"Romanian and EU legislation and case law, with exact article citations and point-in-time text."
+2026-10-04T11:06:31.654263Z,io.metodic/metodic,METODIC,1.0.0,,streamable-http,"Design workshops from chat: 750+ facilitation methods, timed agendas, worksheets, slide decks."
+2026-10-04T11:10:42.730649Z,com.meridianlabssoftware/competitor-keywords,Competitor Keyword Research: Ranked Keywords API,1.0.0,,streamable-http,"Every keyword a site ranks for in Google: position, volume, CPC, traffic, plus organic competitors."
+2026-10-04T11:10:43.393029Z,com.meridianlabssoftware/sec-form-d-funding-rounds,Startup Funding Rounds & Founders API: SEC Form D,1.0.0,,streamable-http,"US startups that just raised, from SEC Form D: amount raised, investor count, founders, location."
+2026-10-04T11:10:44.133953Z,com.meridianlabssoftware/eu-uk-tenders-scraper,EU & UK Tenders Scraper: TED + Find a Tender,1.0.0,,streamable-http,"Public tenders and contract awards from EU TED and UK Find a Tender, with buyer, value and deadline."
+2026-10-04T11:12:08.569044Z,io.github.sairam0424/trelix,trelix,3.4.3,,,"Semantic code search for AI agents — hybrid BM25+vector, call-graph, 20+ languages."
+2026-10-04T11:16:54.225734Z,io.prosemap/prosemap,ProseMap,1.1.0,,streamable-http,Sentence-by-sentence analysis of a prose draft: a score for every sentence and every handoff.
