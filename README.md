@@ -9,36 +9,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 02:18 UTC
+## Latest list — 2026-10-04 03:21 UTC
 
-New MCP servers published between 2026-10-04 01:18 UTC and 2026-10-04 02:18 UTC.
+New MCP servers published between 2026-10-04 02:18 UTC and 2026-10-04 03:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-04T02-18-52-288727Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-04T03-21-04-496365Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-04 01:28:58 | [cash.u/ucash-pay](https://github.com/UdotCASH/mcp-ucash) | U.CASH Pay | 0.9.0 | Pay x402 resources on U.CASH from your own wallet: view the price, pay on-chain… |
-| 2026-10-04 01:33:33 | [io.github.Viventine-Space/orbit-sentinel-mcp](https://github.com/viventine-space/orbit-sentinel-mcp) | Orbit Sentinel — Space Regulatory Filin… | 0.6.7 | Search 950K+ space regulatory filings from FCC, ITU, UNOOSA, FAA-AST: entities,… |
-| 2026-10-04 01:34:11 | com.webanto/webanto | Webanto | 1.0.0 | Store catalog, AI product copy proposals, Search Console opportunities and org… |
-| 2026-10-04 01:36:24 | ai.marketbrew/marketbrew | Market Brew | 1.0.0 | Read-only Market Brew search engine modeling and AI visibility data via OAuth. |
-| 2026-10-04 01:37:12 | [io.github.sapientsai/dokploy-mcp-server](https://github.com/sapientsai/dokploy-mcp-server) |  | 1.10.0 | Dokploy MCP server: manage apps, Docker Compose, databases, domains, backups, a… |
-| 2026-10-04 01:42:32 | ai.organicus/organicus | Organicus | 1.0.0 | Your brand's visibility in AI assistants: audit findings, weekly answers, and w… |
-| 2026-10-04 01:42:47 | com.agentanthill/agent-anthill | Agent Anthill | 0.3.0 | Drop-and-claim storage for AI agents: store a file, hand over a ticket, pay per… |
-| 2026-10-04 01:43:18 | io.github.ReedStories/mcpbinder | MCPBinder | 1.2.0 | Read project context and manage tasks in MCPBinder, with access you control. |
-| 2026-10-04 01:44:33 | com.espressosteals/catalog | Espresso Steals | 1.0.0 | Espresso gear price history: live Amazon prices, 2+ years of daily data, BUY ca… |
-| 2026-10-04 01:54:52 | [io.github.ArneFfm/animal-checklist](https://github.com/ArneFfm/animal-checklist-agents) | Animal Checklist | 1.1.0 | Search animals in eight languages with habitats, countries, photos and source c… |
-| 2026-10-04 01:54:53 | [io.github.ArneFfm/animal-checklist-account](https://github.com/ArneFfm/animal-checklist-agents) | Animal Checklist Account | 1.1.0 | Read your private animal sightings and mark species seen with a revocable accou… |
-| 2026-10-04 01:58:23 | ai.salespeak/company-context | Salespeak Company Context | 1.0.0 | Answers about your own company from its recorded knowledge, and shows where its… |
-| 2026-10-04 02:02:33 | [io.github.proompteng/bilig-workpaper](https://github.com/proompteng/bilig) | Bilig WorkPaper | 1.1.0 | Formula-backed WorkPaper tools for workbook readback, input edits, and JSON per… |
-| 2026-10-04 02:05:41 | [io.github.stimQQ/apimodels-mcp](https://github.com/stimQQ/apimodels-mcp) | apimodels | 0.4.1 | Image, video, chat and speech models with one API key. The model can review its… |
-| 2026-10-04 02:08:09 | [tw.regai/legal](https://github.com/RegAI-tw/regai-legal-mcp) | RegAI Legal MCP (Taiwan) | 1.1.0 | Taiwan law and court decisions for your AI: statutes, articles and rulings, rea… |
-| 2026-10-04 02:08:54 | [com.quantlix/content](https://github.com/AliMuhammadOfficial/quantlix-agents) | Quantlix public content | 2.0.0 | Search and read published Quantlix services, company information and insights. |
-| 2026-10-04 02:12:04 | com.onrender.draconic21-x402-api/data-tools | draconic21 x402 Data Tools | 0.1.0 | Free SEC EDGAR, OFAC and Treasury previews; optional x402-paid data and agent r… |
-| 2026-10-04 02:12:08 | io.aivyro/mcp | Aivyro | 1.0.0 | CRM, inbox, meetings, revenue intelligence, analytics and automations for AI ag… |
-| 2026-10-04 02:13:42 | com.faredice/trips | FareDice | 1.0.0 | Cheap multi-country trips in Europe and Southeast Asia from recent non-stop far… |
-| 2026-10-04 02:15:26 | [io.github.cyanheads/sanctions-screening-mcp-server](https://github.com/cyanheads/sanctions-screening-mcp-server) |  | 0.5.0 | Screen names against OFAC, EU, UK, UN sanctions lists; resolve entities via GLE… |
-| 2026-10-04 02:16:24 | dev.opx-status/opx | OPX | 0.1.0 | Buyer-side machine commerce: choose where to spend using recent paid x402 provi… |
-| 2026-10-04 02:17:10 | io.github.leejaejeon/beobi-daneun-got | 법이 닿는 곳 (Where Law Reaches) | 1.0.0 | Korean statutes, precedents, local business-district stats and public procureme… |
+| 2026-10-04 02:22:53 | [io.github.olano-ai/mcp-singapore](https://github.com/olano-ai/mcp-singapore) | Singapore MCP by Olano | 0.4.2 | Singapore public data, transport, rail, property, business, economy, weather, a… |
+| 2026-10-04 02:24:01 | io.github.akashagl92/erux-astrology | ERUX Astrology & Ephemeris Engine | 1.0.0 | High-precision topocentric ephemeris calculations and Vedic astrology engine. |
+| 2026-10-04 02:25:05 | io.github.SanctionsKit/sanctionskit | SanctionsKit developer MCP | 1.0.0 | Sanctions API docs and request validation, with account-linked synthetic sandbo… |
+| 2026-10-04 02:30:29 | [io.github.nolindnaidoo/ids-le](https://github.com/nolindnaidoo/ids-le) | IDs-LE | 1.0.0 | Extract every UUID, ULID, NanoID, ObjectId and Snowflake, and decode the time i… |
+| 2026-10-04 02:32:43 | [io.github.doc2mcp/smoothsend](https://github.com/doc2mcp/doc2mcp-registry) | smoothsend | 1.0.1791081161 | MCP server for smoothsend documentation, generated by doc2mcp. |
+| 2026-10-04 02:34:27 | [io.github.iris-eval/mcp-server](https://github.com/iris-eval/mcp-server) | Iris | 0.20.0 | Stop shipping agents on vibes. Score every agent output for quality, safety, an… |
+| 2026-10-04 02:36:11 | [io.github.helv-io/skgate](https://github.com/helv-io/skgate) | skgate | 0.9.2 | MCP gateway: OAuth-protected endpoints for remote and hosted MCP servers, plus… |
+| 2026-10-04 02:39:16 | [io.github.fstubner/netscli](https://github.com/fstubner/netscli) | NetsCLI | 0.3.4 | Network scanner for AI agents: discover hosts, scan TCP and UDP ports, query DN… |
+| 2026-10-04 02:44:44 | [app.pulltrader/seller-economics](https://github.com/pulltrader/pulltrader-mcp) | Pulltrader | 0.6.1 | Trading-card research and seller economics: identify cards, check sold comps, a… |
+| 2026-10-04 02:52:09 | [io.github.eddyflores100-lang/alethech](https://github.com/eddyflores100-lang/alethech) | alethech | 0.9.2 | Read-only MCP bridge for alethech — verifiable, Ed25519-signed agent memory ove… |
+| 2026-10-04 03:02:14 | [io.github.mikimatsub/swsd](https://github.com/mikimatsub/swsd-mcp) |  | 2.3.2 | MCP server for SolarWinds Service Desk tickets, catalog, knowledge, ITSM operat… |
+| 2026-10-04 03:05:55 | io.github.DouglasGouvea/mcp-empresas-br | Empresas BR (CNPJ due diligence) | 0.1.0 | Brazilian company checks by CNPJ: registry, sanctions, federal contracts and CV… |
+| 2026-10-04 03:14:13 | [io.github.vineetgoyalhuf/connectmeguru-mcp](https://github.com/vineetgoyalhuf/connectmeguru-mcp) | ConnectMeGuru eSIM Server | 1.0.0 | Official ConnectMeGuru MCP server: search 190+ travel eSIM data plans and buy i… |
+| 2026-10-04 03:15:16 | com.unlayer/mcp | Unlayer: Email & Page Templates for Dev… | 1.0.0 | Generate email/page templates as React code (Unlayer Elements) or with AI; edit… |
+| 2026-10-04 03:15:54 | [io.github.smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) | MCPProxy | 0.70.0 | Local-first MCP proxy with BM25 tool discovery, security scanning, quarantine &… |
+| 2026-10-04 03:19:07 | io.lexlint/lexlint | LexLint: compliance lint for AI, scrapi… | 1.0.3 | Compliance lint for AI, scraping, and privacy law. Cited findings in 200 or mor… |
 
 ## Data source
 
