@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-10-04T05:24:36.319306Z,io.github.neilberkman/sidereon,Sidereon,3.0.0,https://github.com/neilberkman/sidereon,,"GNSS positioning and astrodynamics: orbit propagation, passes, GNSS solves, and RINEX QC"
+2026-10-04T05:25:30.308864Z,dev.scrapewhale/scrapewhale,ScrapeWhale,2.0.0,,streamable-http,"Web data for marketing agents: traffic, ads, social profiles, search, and any URL as markdown."
+2026-10-04T05:48:02.306468Z,org.linkedparticles/particles,Particles,1.172.0,https://github.com/LinkedParticles/particles-engine-py,,"An append-only ledger of sourced, dated, confidence-scored claims your agent cites and you audit"
+2026-10-04T05:48:57.295813Z,io.gunspec/mcp,GunSpec,0.6.0,,streamable-http,"Read-only firearm specifications: calibers, ammunition, manufacturers and attachment fitment."
+2026-10-04T05:49:17.20198Z,io.github.Aelindra/mobile-agent-harness,,0.5.0,https://github.com/Aelindra/mobile-agent-harness,,"Android device automation for AI agents: MCP server, CLI, and plugin runtime over adb."
+2026-10-04T05:49:44.431655Z,com.venuetoll/toll,Venue Toll Facts,1.0.0,,streamable-http,"Measured venue tolls: fee and spread, with evidence and basis. list_venues free; get_toll paid."
+2026-10-04T05:51:03.379834Z,com.deberli/audience,Deberli,1.0.0,,streamable-http,"Who buys what you sell: count the decision-makers that fit, with real examples and buying signals."
+2026-10-04T05:54:12.662514Z,com.adsuploader/mcp,Ads Uploader,0.3.1,https://github.com/adsuploader/meta-ads-mcp,streamable-http,"Meta ads bulk launcher: upload creatives, edit builds, preview, and create paused ads."
+2026-10-04T05:58:21.28816Z,io.github.khuisman/mcp-gee-sweet,,0.9.1,https://github.com/khuisman/mcp-gee-sweet,,"MCP server for Google Workspace — Sheets, Drive, Docs (HTML or Markdown), and Calendar."
+2026-10-04T05:59:58.745643Z,io.github.cyanheads/socrata-mcp-server,,0.3.0,https://github.com/cyanheads/socrata-mcp-server,streamable-http,Search and query government open-data portals (Socrata SODA API).
+2026-10-04T06:01:07.281936Z,dev.thirdwatch.mcp/research,Thirdwatch,0.1.0,,streamable-http,"Structured job, company and market research with source links through a Thirdwatch account."
+2026-10-04T06:01:43.70804Z,io.namiq/lattice,Lattice,0.2.0,,streamable-http,"Read-only cyber knowledge graph for AI agents: CVEs, ATT&CK, detections, with each link's source."
+2026-10-04T06:02:28.601088Z,io.github.willcheung/monologue,Monologue,0.1.0,https://github.com/willcheung/monologue,streamable-http,See what your AI agents did in one private feed. Read other agents' reports with permission.
+2026-10-04T06:05:07.605495Z,io.github.cyanheads/oecd-mcp-server,,0.4.0,https://github.com/cyanheads/oecd-mcp-server,streamable-http,"Search and query 1,500+ OECD statistical datasets via SDMX. Keyless."
+2026-10-04T06:08:04.265152Z,io.github.Arkanji/iwork-studio,iWork Studio,2.3.0,https://github.com/Arkanji/iwork-studio,,"Create, edit, design and export Apple Numbers, Keynote and Pages files. Verified and Arabic-safe."
+2026-10-04T06:10:55.780145Z,io.github.andreilungeanu/codex-delegate-mcp,Codex Delegate,2.4.0,https://github.com/andreilungeanu/codex-delegate-mcp,,Bridge AI coding hosts to the OpenAI Codex CLI for delegated implementation.
+2026-10-04T06:19:08.09601Z,io.github.cyanheads/open-meteo-mcp-server,,0.4.0,https://github.com/cyanheads/open-meteo-mcp-server,streamable-http,"Global weather via Open-Meteo: forecast, historical, marine, air quality, geocoding, elevation."
+2026-10-04T06:20:55.803059Z,io.github.cookinfun/cookin-mcp,,0.1.1,https://github.com/cookinfun/cookin-mcp,,"Solana and Pump.fun token intelligence: bundles, holder quality, KOLs, deployer history."
+2026-10-04T06:21:52.020561Z,io.github.waytzhang/pantry-relay,Pantry Relay,0.1.0,https://github.com/waytzhang/pantry-relay,,"Local SQLite pantry planner with six MCP tools for meals, stock and shopping."
