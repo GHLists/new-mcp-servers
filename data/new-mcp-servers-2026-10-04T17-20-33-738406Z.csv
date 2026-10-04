@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-04T16:22:37.108894Z,com.sixeightwisdom/wisdom-web,Wisdom Web by Six Eight,1.0.0,,streamable-http,"Verified public-domain quotes, scripture with its licence, and one small next step."
+2026-10-04T16:24:11.880186Z,io.github.opennodes-io/opennodes,OpenNodes,0.1.2,https://github.com/opennodes-io/opennodes,,"Discover verified AI inference nodes, get the best node+model per task, pre-price chains."
+2026-10-04T16:26:43.921204Z,com.callmemcp/call-me,Call Me,1.0.0,https://github.com/radres/call-me,streamable-http,"Your AI rings your iPhone, speaks its question, and gets your spoken answer back as text."
+2026-10-04T16:29:58.473428Z,com.audexum/audexum,Audexum,1.0.0,,streamable-http,"Text to speech and transcription for AI agents: MP3 voiceovers, audio and YouTube to text."
+2026-10-04T16:31:10.065451Z,ai.catalystproject/evidence-graph,Catalyst evidence graph,0.1.0,,streamable-http,"Graded findings on what compounds and supplements do in the body, each with its quote and paper."
+2026-10-04T16:35:58.485083Z,eu.paymentslaw/legislation,Payments Law — EU payments legislation,1.9.1,,streamable-http,"EU payments legislation: PSD2, RTS-SCA, PSD3/PSR, DORA; provisions, definitions and text changes."
+2026-10-04T16:39:19.976356Z,io.github.evil-robot/health-record-rights-index,Health Record Rights Index,1.0.0,https://github.com/evil-robot/who-holds-the-record-open,streamable-http,Health record rights: 198 countries scored 0 to 100 with sources; the 50 states and DC; real cases.
+2026-10-04T16:40:18.0299Z,io.github.swarm-agent-operator/swarm-x402-mcp,,0.1.0,https://github.com/swarm-agent-operator/swarm-x402-mcp,,"Pay-per-call x402 services from SWARM: repo scans, web research. USDC on Base."
+2026-10-04T16:43:26.262121Z,com.authyouragent/mcp,Auth Your Agent,0.3.24,https://github.com/kjames2001/authyouragent,,"Act for a person on websites: sandboxed browser, phone approvals, take over at sign-in walls."
+2026-10-04T16:43:57.990952Z,ai.cloudcrane/workspace,CloudCrane workspace,1.0.0,https://github.com/cloudcrane-dev/cloudcrane-mcp,streamable-http,"Read and build a CloudCrane workspace: datasets, field contracts, review queue, receipts, runs."
+2026-10-04T16:46:10.662488Z,holiday.nextbank/bank-holidays,nextbank.holiday,1.0.0,,streamable-http,"Next bank holiday for UK, Ireland, France, Germany and Spain. Free daily quota, then USDC via x402."
+2026-10-04T16:46:42.112956Z,io.github.belegante-byte/aetherx-mcp,Aether-X Port Delay Intelligence,0.2.5,https://github.com/belegante-byte/aetherx-oracle-engine,streamable-http,"Port delay exposure with p50/p90 confidence intervals, demurrage impact and a free public feed."
+2026-10-04T16:49:34.842729Z,io.github.Geo-Coder-17/coupon-swarm,,0.1.0,https://github.com/Geo-Coder-17/coupon-swarm,,"Shared CC0 ledger of public coupon codes with dates: find, deposit and report codes."
+2026-10-04T16:51:15.984318Z,com.keyvex/keyvex,KeyVex,0.102.0,,streamable-http; streamable-http,"US public financial disclosures for AI agents: Congress trades, SEC filings, FEC, lobbying, more"
+2026-10-04T16:53:15.126717Z,io.github.wballztrading1/prediction-bot,Prediction Market X Sentiment,0.2.0,https://github.com/wballztrading1/Prediction-bot,streamable-http,Polymarket & Kalshi sentiment from X (Twitter) via Grok. Free daily scores; live scoring via x402.
+2026-10-04T16:56:04.195782Z,com.sequentum/mcp,,2.1.3,https://github.com/Sequentum/sequentum-mcp,streamable-http,"Turn the web into structured, reliable, actionable enterprise data for AI Agents"
+2026-10-04T16:56:14.588687Z,co.undercart/undercart,Undercart,1.9.0,,streamable-http,"Shopify store intelligence: revenue, app stacks, ads and marketing emails for 1M+ stores."
+2026-10-04T17:03:17.839017Z,io.github.burrowbox/burrowbox,Burrowbox,1.0.0,https://github.com/burrowbox/burrowbox-js,streamable-http,"Persistent Linux computers for AI agents: desktop, signed-in browser, vault, apps and shell."
+2026-10-04T17:03:57.38965Z,io.github.dragonejt/iceberg-mcp-server,Iceberg MCP Server,0.2.6,,,MCP Server for Apache Iceberg
+2026-10-04T17:09:12.693771Z,io.github.zwebso/postlane,,0.1.0,https://github.com/zwebso/postlane,,Send transactional email and read send activity through the Postlane API.
+2026-10-04T17:11:29.478994Z,pl.jawnestawki/salaries,Jawne Stawki,1.0.0,,streamable-http,"Salaries in Poland from public job ads: occupations, cities, contract types, experience."
+2026-10-04T17:14:11.151505Z,com.runningunattended/agent-lint,agent-lint,0.1.0,,streamable-http,"Checks CLAUDE.md, AGENTS.md or a system prompt for 12 safeguards unattended agents need."
+2026-10-04T17:16:10.947833Z,io.github.anup-shesh/garmin-local-mcp,,0.1.8,https://github.com/anup-shesh/garmin-local-mcp,,"Local-first Garmin data warehouse: sync once to SQLite, analyze trends and correlations offline."
+2026-10-04T17:18:08.130246Z,io.github.factreason/factreason,FactReason,2.2.0,https://github.com/factreason/factreason,streamable-http,Check exact npm/PyPI upgrades for evidence-backed breaking changes; query APIs and components.
+2026-10-04T17:18:54.840128Z,app.octopad/octopad,Octopad,0.1.1,,streamable-http,"The AI brain for builders: ChatGPT, Claude and your other AIs share one workspace and one method."
+2026-10-04T17:19:54.092926Z,io.github.nordfox903-tech/nova-data,,0.5.3,https://github.com/nordfox903-tech/nova-x402-service,,"MCP server for Russian market analytics: fl.ru orders + Petrovich prices. 10 tools, x402 USDC"
+2026-10-04T17:20:07.337494Z,de.glits.plr/polradar,polradar,0.1.0,,streamable-http,"Bundestag, Lobbyregister und Abstimmungen mit Belegen recherchieren. Zugang: polradar@glits.de"

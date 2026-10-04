@@ -9,38 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 16:20 UTC
+## Latest list — 2026-10-04 17:20 UTC
 
-New MCP servers published between 2026-10-04 15:21 UTC and 2026-10-04 16:20 UTC.
+New MCP servers published between 2026-10-04 16:20 UTC and 2026-10-04 17:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-04T16-20-26-325001Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-04T17-20-33-738406Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-04 15:25:29 | br.com.juspronto/conector | Conector Juspronto | 0.1.0 | Conector do Juspronto para o Claude: processos, prazos, agenda e autos do escri… |
-| 2026-10-04 15:26:04 | io.github.martinnovoa22/preciosano | PrecioSano | 1.0.0 | Medicine prices across Chilean pharmacies, same-ingredient brands (ISP) and on-… |
-| 2026-10-04 15:27:41 | [io.github.RozoAI/checkout](https://github.com/RozoAI/rozo-checkout-mcp) | Rozo Checkout | 0.1.0 | Pay OpenRouter top-ups with USDC/USDT on 6 chains or BTC Lightning. Never holds… |
-| 2026-10-04 15:31:14 | [io.mcp-hangar/hangar](https://github.com/mcp-hangar/mcp-hangar) | MCP Hangar | 2.24.0 | Policy enforcement plane for MCP: every tool call ends in a verdict. Self-hoste… |
-| 2026-10-04 15:36:14 | [io.github.MoonEyes/google-ecommerce-mcp](https://github.com/MoonEyes/google-ecommerce-mcp) | Google E-commerce (GA4, Search Console,… | 0.1.0 | Read-only GA4, Search Console, Merchant Center, Tag Manager, Indexing and PageS… |
-| 2026-10-04 15:38:04 | in.ashwingopalsamy.home/agam-journal | Agam | 1.1.0 | Keyless public journal reads: construction costs, day-wise work, source precisi… |
-| 2026-10-04 15:39:34 | dev.pethost/pethost | Pethost | 1.2.0 | Deploy and run your projects on Pethost, your own hosting. |
-| 2026-10-04 15:52:03 | [io.github.Junemind/june-mcp](https://github.com/Junemind/june-mcp) | Junê | 0.7.0 | Shared, cited knowledge-graph memory for agents — ask, search, remember, keep s… |
-| 2026-10-04 15:53:29 | [io.github.joalavedra/andorra-fonts-publiques](https://github.com/joalavedra/andorra-fonts-publiques) | Andorra public sources | 0.2.0 | Andorra public data: BOPA bulletin, statistics, maps, e-tramits procedures and… |
-| 2026-10-04 15:58:02 | [io.github.physics-star-cat/databutler-calendar](https://github.com/physics-star-cat/databutler) |  | 1.0.0 | Public holidays (UK, US, DE, FR), tax-year dates and DST switches for 2026-2028. |
-| 2026-10-04 15:58:05 | [io.github.physics-star-cat/databutler-de-rates](https://github.com/physics-star-cat/databutler) |  | 1.0.0 | German 2026 tax and social-insurance thresholds, minimum wage and allowances, s… |
-| 2026-10-04 15:58:12 | [io.github.physics-star-cat/databutler](https://github.com/physics-star-cat/databutler) |  | 1.0.0 | Verified facts for AI agents: rates, exams, recalls, holidays, and what changed… |
-| 2026-10-04 15:58:18 | [io.github.physics-star-cat/databutler-policy-rates](https://github.com/physics-star-cat/databutler) |  | 1.0.0 | Bank of England, Fed and ECB policy rates, read from the banks' own pages, with… |
-| 2026-10-04 15:58:23 | [io.github.physics-star-cat/databutler-software-eol](https://github.com/physics-star-cat/databutler) |  | 1.0.0 | Is this version still supported? End-of-life dates for 14 runtimes and operatin… |
-| 2026-10-04 15:58:28 | [io.github.physics-star-cat/databutler-tax](https://github.com/physics-star-cat/databutler) |  | 1.0.0 | Take-home pay after tax and social contributions for nine countries, with tax y… |
-| 2026-10-04 15:58:31 | [io.github.physics-star-cat/databutler-uk-exam-dates](https://github.com/physics-star-cat/databutler) |  | 1.0.0 | UK GCSE and A-level exam dates, results days, entry deadlines and spec changes. |
-| 2026-10-04 15:58:36 | [io.github.physics-star-cat/databutler-uk-vehicle-rules](https://github.com/physics-star-cat/databutler) |  | 1.0.0 | UK vehicle tax (VED) bands, expensive-car supplement, EV rules and MOT fees, so… |
-| 2026-10-04 15:58:38 | [io.github.physics-star-cat/databutler-us-rates](https://github.com/physics-star-cat/databutler) |  | 1.0.0 | US federal 2026 tax brackets, standard deductions, payroll and retirement limit… |
-| 2026-10-04 15:58:40 | [io.github.physics-star-cat/databutler-vehicles](https://github.com/physics-star-cat/databutler) |  | 1.0.0 | UK MOT failure data and official UK, French, Japanese and EU vehicle recalls. |
-| 2026-10-04 16:07:29 | [io.github.mleoca/ucn](https://github.com/mleoca/ucn) |  | 5.5.0 | Auditable, conserved AST code intelligence for AI agents. JS/TS, Python, Go, Ru… |
-| 2026-10-04 16:08:33 | com.shipvela/shipvela | Shipvela | 0.1.0 | Create website projects, deploy GitHub sites and read logs/usage via remote OAu… |
-| 2026-10-04 16:11:22 | [io.github.Leonhest/hivemind](https://github.com/Leonhest/hivemind) |  | 0.1.1 | A shared, live plan for teams of coding agents, synced through your git remote. |
-| 2026-10-04 16:18:41 | [io.github.zhlei07/inboxmcp](https://github.com/zhlei07/inboxmcp) | inboxmcp | 0.2.0 | Read-only IMAP email for your AI agent, scoped to the mailboxes you choose, wit… |
-| 2026-10-04 16:19:20 | co.mentorstack/mentorstack | MentorStack | 1.0.0 | Read your mentoring program data from an AI assistant. Employee mentoring softw… |
+| 2026-10-04 16:22:37 | com.sixeightwisdom/wisdom-web | Wisdom Web by Six Eight | 1.0.0 | Verified public-domain quotes, scripture with its licence, and one small next s… |
+| 2026-10-04 16:24:11 | [io.github.opennodes-io/opennodes](https://github.com/opennodes-io/opennodes) | OpenNodes | 0.1.2 | Discover verified AI inference nodes, get the best node+model per task, pre-pri… |
+| 2026-10-04 16:26:43 | [com.callmemcp/call-me](https://github.com/radres/call-me) | Call Me | 1.0.0 | Your AI rings your iPhone, speaks its question, and gets your spoken answer bac… |
+| 2026-10-04 16:29:58 | com.audexum/audexum | Audexum | 1.0.0 | Text to speech and transcription for AI agents: MP3 voiceovers, audio and YouTu… |
+| 2026-10-04 16:31:10 | ai.catalystproject/evidence-graph | Catalyst evidence graph | 0.1.0 | Graded findings on what compounds and supplements do in the body, each with its… |
+| 2026-10-04 16:35:58 | eu.paymentslaw/legislation | Payments Law — EU payments legislation | 1.9.1 | EU payments legislation: PSD2, RTS-SCA, PSD3/PSR, DORA; provisions, definitions… |
+| 2026-10-04 16:39:19 | [io.github.evil-robot/health-record-rights-index](https://github.com/evil-robot/who-holds-the-record-open) | Health Record Rights Index | 1.0.0 | Health record rights: 198 countries scored 0 to 100 with sources; the 50 states… |
+| 2026-10-04 16:40:18 | [io.github.swarm-agent-operator/swarm-x402-mcp](https://github.com/swarm-agent-operator/swarm-x402-mcp) |  | 0.1.0 | Pay-per-call x402 services from SWARM: repo scans, web research. USDC on Base. |
+| 2026-10-04 16:43:26 | [com.authyouragent/mcp](https://github.com/kjames2001/authyouragent) | Auth Your Agent | 0.3.24 | Act for a person on websites: sandboxed browser, phone approvals, take over at… |
+| 2026-10-04 16:43:57 | [ai.cloudcrane/workspace](https://github.com/cloudcrane-dev/cloudcrane-mcp) | CloudCrane workspace | 1.0.0 | Read and build a CloudCrane workspace: datasets, field contracts, review queue,… |
+| 2026-10-04 16:46:10 | holiday.nextbank/bank-holidays | nextbank.holiday | 1.0.0 | Next bank holiday for UK, Ireland, France, Germany and Spain. Free daily quota,… |
+| 2026-10-04 16:46:42 | [io.github.belegante-byte/aetherx-mcp](https://github.com/belegante-byte/aetherx-oracle-engine) | Aether-X Port Delay Intelligence | 0.2.5 | Port delay exposure with p50/p90 confidence intervals, demurrage impact and a f… |
+| 2026-10-04 16:49:34 | [io.github.Geo-Coder-17/coupon-swarm](https://github.com/Geo-Coder-17/coupon-swarm) |  | 0.1.0 | Shared CC0 ledger of public coupon codes with dates: find, deposit and report c… |
+| 2026-10-04 16:51:15 | com.keyvex/keyvex | KeyVex | 0.102.0 | US public financial disclosures for AI agents: Congress trades, SEC filings, FE… |
+| 2026-10-04 16:53:15 | [io.github.wballztrading1/prediction-bot](https://github.com/wballztrading1/Prediction-bot) | Prediction Market X Sentiment | 0.2.0 | Polymarket & Kalshi sentiment from X (Twitter) via Grok. Free daily scores; liv… |
+| 2026-10-04 16:56:04 | [com.sequentum/mcp](https://github.com/Sequentum/sequentum-mcp) |  | 2.1.3 | Turn the web into structured, reliable, actionable enterprise data for AI Agents |
+| 2026-10-04 16:56:14 | co.undercart/undercart | Undercart | 1.9.0 | Shopify store intelligence: revenue, app stacks, ads and marketing emails for 1… |
+| 2026-10-04 17:03:17 | [io.github.burrowbox/burrowbox](https://github.com/burrowbox/burrowbox-js) | Burrowbox | 1.0.0 | Persistent Linux computers for AI agents: desktop, signed-in browser, vault, ap… |
+| 2026-10-04 17:03:57 | io.github.dragonejt/iceberg-mcp-server | Iceberg MCP Server | 0.2.6 | MCP Server for Apache Iceberg |
+| 2026-10-04 17:09:12 | [io.github.zwebso/postlane](https://github.com/zwebso/postlane) |  | 0.1.0 | Send transactional email and read send activity through the Postlane API. |
+| 2026-10-04 17:11:29 | pl.jawnestawki/salaries | Jawne Stawki | 1.0.0 | Salaries in Poland from public job ads: occupations, cities, contract types, ex… |
+| 2026-10-04 17:14:11 | com.runningunattended/agent-lint | agent-lint | 0.1.0 | Checks CLAUDE.md, AGENTS.md or a system prompt for 12 safeguards unattended age… |
+| 2026-10-04 17:16:10 | [io.github.anup-shesh/garmin-local-mcp](https://github.com/anup-shesh/garmin-local-mcp) |  | 0.1.8 | Local-first Garmin data warehouse: sync once to SQLite, analyze trends and corr… |
+| 2026-10-04 17:18:08 | [io.github.factreason/factreason](https://github.com/factreason/factreason) | FactReason | 2.2.0 | Check exact npm/PyPI upgrades for evidence-backed breaking changes; query APIs… |
+| 2026-10-04 17:18:54 | app.octopad/octopad | Octopad | 0.1.1 | The AI brain for builders: ChatGPT, Claude and your other AIs share one workspa… |
+| 2026-10-04 17:19:54 | [io.github.nordfox903-tech/nova-data](https://github.com/nordfox903-tech/nova-x402-service) |  | 0.5.3 | MCP server for Russian market analytics: fl.ru orders + Petrovich prices. 10 to… |
+| 2026-10-04 17:20:07 | de.glits.plr/polradar | polradar | 0.1.0 | Bundestag, Lobbyregister und Abstimmungen mit Belegen recherchieren. Zugang: po… |
 
 ## Data source
 
