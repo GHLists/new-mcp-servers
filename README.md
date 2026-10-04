@@ -9,40 +9,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 19:18 UTC
+## Latest list — 2026-10-04 20:18 UTC
 
-New MCP servers published between 2026-10-04 18:20 UTC and 2026-10-04 19:18 UTC.
+New MCP servers published between 2026-10-04 19:18 UTC and 2026-10-04 20:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-04T19-18-40-787925Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-04T20-18-50-082177Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-04 18:21:07 | io.github.KyleClouthier/secondstrike |  | 0.1.0 | Command a nation in SECOND STRIKE, a real-time war game. Join a war, give order… |
-| 2026-10-04 18:22:47 | [io.github.fbossiere/open-transcribe-mcp](https://github.com/fbossiere/open-transcribe-mcp) | OpenTranscribe MCP | 1.2.1 | Provider-independent speech-to-text with normalized transcripts over MCP. |
-| 2026-10-04 18:25:03 | [io.github.SSTEmpresarial/official-fuel-prices](https://github.com/SSTEmpresarial/official-fuel-prices-api-examples) | Official Fuel Prices | 1.0.0 | Live official fuel station prices for France, Spain, Italy and Western Australi… |
-| 2026-10-04 18:25:59 | [io.github.micropage-sh/mcp](https://github.com/micropage-sh/mcp) | Micropage | 0.1.1 | Create, edit and publish micropage.sh landing pages and blog posts from markup. |
-| 2026-10-04 18:26:14 | com.n9t2/xrpl-agent-gateway | N9T2 XRPL Agent Gateway | 1.0.0 | Paid XRPL infrastructure for autonomous agents via MCP and x402 USDC on Base. |
-| 2026-10-04 18:28:29 | [ai.ankimcp/anki-mcp-server](https://github.com/ankimcp/anki-mcp-server) | Anki MCP Server | 0.27.0 | MCP server for Anki flashcards: adaptive review, notes, media, and deck managem… |
-| 2026-10-04 18:32:03 | [io.github.pasichDev/docket](https://github.com/pasichDev/docket) |  | 3.1.0 | One list every AI tool you use can write to — scoped per project, local-first,… |
-| 2026-10-04 18:34:37 | ai.unlimitless/unl | Unl | 0.2.2 | Your why agent, the infra agent for your fleet. Your agents work from what you… |
-| 2026-10-04 18:36:16 | io.github.karta9821/json2toon | JSON to TOON | 1.0.0 | Convert JSON to TOON (about 40% fewer LLM tokens) and TOON back to JSON. Free,… |
-| 2026-10-04 18:44:25 | dev.hackshop/hackshop-mcp | hackshop | 0.0.5 | Plan and build a physical body for your AI agent: boards, parts list, assembly… |
-| 2026-10-04 18:49:20 | com.pandagreetings/cards | Panda Greetings | 1.5.5 | Printed greeting cards: find designs, or make one from a picture or message, th… |
-| 2026-10-04 18:50:18 | [io.github.wicahma/silverbullet-mcp](https://github.com/wicahma/silverbullet-mcp) | SilverBullet | 1.0.0 | List, read, write, append, delete and search markdown pages in a SilverBullet s… |
-| 2026-10-04 18:54:35 | io.github.suprraz/webzum | WebZum - Websites for Small & Local Bus… | 1.4.0 | Describe a local business, verify the owner email: SEO site, hosting, chatbot,… |
-| 2026-10-04 18:56:14 | [io.github.JakubTrousil/agentsjunction](https://github.com/JakubTrousil/agentsjunction) | AgentsJunction | 0.1.1 | Discover MCP servers and A2A agents; verify, message, post, follow, react, and… |
-| 2026-10-04 18:57:07 | nz.taxapp/taxapp | taxapp.nz | 1.0.0 | Your taxapp.nz income, expenses, rental properties and NZ tax figures, and addi… |
-| 2026-10-04 18:57:10 | [io.github.CallMarcus/securityscorecard-mcp](https://github.com/CallMarcus/security-scorecard-mcp) |  | 2.0.0 | Community-built, comprehensive MCP server for the SecurityScorecard API (unoffi… |
-| 2026-10-04 19:00:31 | io.globalgov/mcp | GlobalGov — Government Contracts, Tende… | 1.0.8 | Find government contracts, tenders and RFPs you can still bid on, in 193 countr… |
-| 2026-10-04 19:01:30 | ai.auteng/docs | AutEng Docs — Agent Document Workspace… | 1.2.1 | Agent document workspace with wallet auth. Create, update and share markdown do… |
-| 2026-10-04 19:07:24 | com.gateroam/mcp | GateRoam | 1.0.0 | Amadeus flight search, pricing and client offers for travel agencies, on their… |
-| 2026-10-04 19:09:04 | com.repondea/page-monitor | Repondea Page Monitor | 0.1.0 | Read saved website changes, compare before and after, and cite source URLs and… |
-| 2026-10-04 19:11:41 | [io.github.slabbdev/navette](https://github.com/slabbdev/navette) | navette — the browser for agents | 1.4.1 | A 659 KB Rust binary driving the OS WebView — no Chromium. 16 MCP tools for AI… |
-| 2026-10-04 19:11:57 | com.specjoin/hardware-compatibility | SpecJoin | 1.0.0 | Check computer, dock, monitor and charger compatibility with requirements and m… |
-| 2026-10-04 19:12:20 | com.faceabot/capability-network | Faceabot — autonomous AI agent network | 1.1.0 | AI agents: autonomous offers, needs, consented rooms and welcome ACTE. Legacy p… |
-| 2026-10-04 19:14:28 | [io.github.luckmanqasim/sota-anchor](https://github.com/luckmanqasim/sota-anchor) | sota-anchor | 0.2.0 | Finds what shipped after your coding agent's training, before it rebuilds it fr… |
-| 2026-10-04 19:15:19 | app.railway.up.rent-check-production/irish-rent-check | Irish rent check | 1.0.0 | Irish rent data (CSO/RTB): free county lookup; paid town/postcode query returns… |
-| 2026-10-04 19:17:30 | [io.github.Wandersonjack/avocado](https://github.com/Wandersonjack/avocado-ai-app) | Avocado AI | 1.2.1 | Generate AI images, videos, music, SFX & speech in any AI assistant. Results ap… |
+| 2026-10-04 19:20:30 | com.minispli/mini-splits | Old West Minisplits | 1.0.0 | Austin TX flat-rate mini split prices, ZIP coverage, financing payments and quo… |
+| 2026-10-04 19:21:11 | com.minisplitreef/mini-splits | Mini Split Reef | 1.0.0 | Austin TX mini splits at $2,000 each: prices, ZIP coverage, financing and quote… |
+| 2026-10-04 19:28:04 | com.eurogpsr/eu-ai-act | EuroComply EU AI Act | 1.0.0 | Classify AI systems by EU AI Act risk tier, estimate fines and write Article 50… |
+| 2026-10-04 19:28:59 | [io.github.Pushary/pushary](https://github.com/Pushary/pushary-skill) | Pushary | 1.4.2 | The decision layer for AI agents. Your agent asks, a person approves or denies… |
+| 2026-10-04 19:35:45 | com.staycharted/amt | StayCharted AMT | 1.0.13 | Use your own trained text and picture classification models from any AI assista… |
+| 2026-10-04 19:38:02 | io.meisa/meisa | Meisa | 1.0.0 | Manage contacts, templates, sequences and broadcasts in your Meisa email accoun… |
+| 2026-10-04 19:38:08 | ltd.testimonials/testimonials | testimonials.ltd | 1.0.0 | Import, approve, tag and feature customer testimonials in your testimonials.ltd… |
+| 2026-10-04 19:38:10 | com.contextli/contextli | Contextli Voice Notes | 1.0.0 | Search, browse and read your Contextli voice notes and transcriptions from any… |
+| 2026-10-04 19:38:13 | com.murkuz/murkuz | Murkuz SEO | 1.0.0 | Query your Google Search Console, GA4 and Bing Webmaster data across every site… |
+| 2026-10-04 19:38:16 | io.hydori/hydori | Hydori | 1.0.0 | Read, write, translate and sync WordPress and Webflow blog articles from Claude. |
+| 2026-10-04 19:38:25 | ai.locul/cloud | Locul Cloud Memory | 1.0.0 | Recall memories, entity profiles and source notes from your Locul cloud brain i… |
+| 2026-10-04 19:38:46 | io.kamaan/kamaan | Kamaan | 1.0.0 | Write, edit, translate and publish blog and help-center articles across all you… |
+| 2026-10-04 19:38:49 | com.ligosocial/ligosocial | LigoSocial (LiGo) for LinkedIn | 1.0.0 | Draft LinkedIn posts in your voice, then schedule or publish them through Linke… |
+| 2026-10-04 19:39:50 | com.crownofsilence/inner-circle | Crown of Silence Inner Circle | 1.7.0 | Connect your AI agent to a private community for truth-seeking and philosophica… |
+| 2026-10-04 19:41:30 | com.invoicevista/invoicevista | InvoiceVista Invoice Maker | 0.2.1 | See revenue, unpaid invoices, open quotes and your product catalog for each of… |
+| 2026-10-04 19:45:10 | com.danielsdesignstudio/mirror-ai-citability | The Mirror System — AI Citability | 1.4.0 | Request a Brand Discovery Record: the human-approved facts AI cites. One tool,… |
+| 2026-10-04 19:46:32 | new.standards/standards | Standards | 1.0.0 | Read and update your standards.new workspace: records, documents, search and sc… |
+| 2026-10-04 19:47:24 | [io.github.bmarotta/dots-mcp-server](https://github.com/bmarotta/dots-mcp-server) | Oh, my Dots! | 1.0.14 | Crossword, audio crossword, word search, cryptogram and cross-math puzzle links… |
+| 2026-10-04 19:52:26 | [net.scalebrowser/mcp](https://github.com/blackdiamond-labs/scalebrowser-mcp) | Scalebrowser | 0.2.0 | Isolated browsers with a persistent identity for AI agents, on your own Windows… |
+| 2026-10-04 19:53:09 | com.pokefocus/mcp | PokeFocus | 1.1.0 | Pokémon card and sealed listings, market prices, centering, and deals, with buy… |
+| 2026-10-04 19:55:57 | com.ohmydots/mcp | Oh, my Dots! | 1.0.15 | Crossword, audio crossword, word search, cryptogram and cross-math puzzle links… |
+| 2026-10-04 19:58:12 | com.maltamprp.www/mprp-guide | Malta MPRP Guide | 1.0.0 | Verified Malta Permanent Residence Programme data: fees, requirements, process,… |
+| 2026-10-04 19:59:54 | [com.audiala/mcp](https://github.com/audiala/mcp-server) | Audiala | 0.4.6 | Audio guides for 44,000+ places in 1,900+ cities, with narrated previews in Cha… |
+| 2026-10-04 20:02:02 | [ru.smartpdf/smartpdf](https://github.com/kirmoz1997/smartpdf-agents) | SmartPDF | 1.0.0 | 24 PDF tools: convert to and from Office and JPG, compress, merge, split, OCR,… |
+| 2026-10-04 20:03:55 | ch.kulalabs.pazair/pazair | PazAIr | 0.1.0 | Where agents keep their word. Agent marketplace: pay on delivery, signed receip… |
+| 2026-10-04 20:11:47 | [ai.flowdot/mcp-server](https://github.com/flowdot-llc/mcp-server) | FlowDot | 1.3.21 | Build and run AI workflows, apps, toolkits and knowledge bases on FlowDot from… |
+| 2026-10-04 20:11:57 | [io.github.adjective-rob/prelude](https://github.com/adjective-rob/prelude) |  | 1.9.1 | Committed, machine-readable codebase context and code map that tells agents whe… |
+| 2026-10-04 20:12:01 | com.vetofix/hilfe | Vetofix – Hilfe zur Praxissoftware für… | 1.0.0 | Help and FAQ for Vetofix, practice software for mobile veterinarians. Read-only… |
+| 2026-10-04 20:13:40 | com.absolutebestair/hvac | Absolute Best Air | 1.0.0 | HVAC facts for Absolute Best Air in Henry County and South Metro Atlanta. |
+| 2026-10-04 20:14:12 | [com.itsnum/num](https://github.com/LumiRx/num-mcp) | NUM | 1.3.0 | Real places for your agent: search 2.5M+ travel places, list businesses, licens… |
+| 2026-10-04 20:15:02 | [io.github.emiliaprotocol/mcp-server](https://github.com/emiliaprotocol/emilia-protocol) | Emilia Protocol | 2.1.4 | Exact-action approval for consequential agent actions: request, track, and veri… |
 
 ## Data source
 
