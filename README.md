@@ -9,36 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 15:21 UTC
+## Latest list — 2026-10-04 16:20 UTC
 
-New MCP servers published between 2026-10-04 14:21 UTC and 2026-10-04 15:21 UTC.
+New MCP servers published between 2026-10-04 15:21 UTC and 2026-10-04 16:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-04T15-21-41-440559Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-04T16-20-26-325001Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-04 14:22:27 | com.weatherthatdoesntsuck/weather | Weather That Doesn't Suck | 1.0.0 | Weather decisions for outdoor plans: should I go, when, what to wear, what you… |
-| 2026-10-04 14:24:11 | [com.wcway/wcway](https://github.com/ArneFfm/wcway-agents) | wcway | 0.1.0 | Find the nearest public toilet worldwide. Read-only tools, no account, no API k… |
-| 2026-10-04 14:34:17 | io.github.saulius876-lgtm/wechat-articles | WeChat Article Search | 1.0.0 | Search WeChat official account articles by keyword: title, account, date, link,… |
-| 2026-10-04 14:35:17 | [com.cumulativeweb/cwi-mcp-server](https://github.com/CumulativeWebInc/cwi-mcp-server) | CWI MCP Server | 0.3.0 | Read-only MCP server: CWI Gear Ledger reads, deterministic trust scoring, NEEDL… |
-| 2026-10-04 14:39:26 | com.sylvarajob/sylvarajob | SylvaraJob | 1.1.0 | Job offers from Spanish SMEs and other companies: search by text, area or work… |
-| 2026-10-04 14:48:14 | app.sabli/minds | Sabli | 1.0.0 | Ask AI minds of real, named experts: answers, workflows and critiques in their… |
-| 2026-10-04 14:48:18 | tools.feedback/mcp | feedback.tools | 1.0.0 | Customer feedback for your AI assistant: CSAT, NPS and CES scores, response sea… |
-| 2026-10-04 14:50:39 | [io.github.zrk222/code-factory](https://github.com/zrk222/code-factory) |  | 0.47.0 | Local proof facts for AI coding clients: intent, tests, Graph Ops, and review e… |
-| 2026-10-04 14:52:06 | [io.github.spokenmd/spoken](https://github.com/spokenmd/spoken) | Spoken | 0.4.0 | Podcast transcripts as clean Markdown with real speaker names — via the Spoken… |
-| 2026-10-04 14:53:03 | io.github.n0zer0d4y/vulcan-file-ops |  | 1.3.0 | MCP server for AI assistants: read, write, edit, and manage files securely on l… |
-| 2026-10-04 15:01:54 | ai.askatria/atria | Atria | 1.2.0 | US site diligence for agents: parcels, power, flood, zoning rules and more, eac… |
-| 2026-10-04 15:02:18 | xyz.secondedoracle/seconded-mcp | SECONDED | 0.3.3 | The oracle for agents. Verify trades, tokens and messages before your agent act… |
-| 2026-10-04 15:04:39 | it.prezzinvista/radar-volantini | Prezzinvista - Radar dei Volantini | 1.3.0 | Italy only: current offers and weekly price trends from the flyers of Italian s… |
-| 2026-10-04 15:07:13 | com.mypinpal/notes | Pinpal Notes | 1.3.0 | Markdown notes in folders, with files, that your AI assistant can read, write a… |
-| 2026-10-04 15:07:19 | com.mypinpal/projects | Pinpal Projects | 1.1.0 | Personal project management with AI agents: numbered tickets, statuses, files,… |
-| 2026-10-04 15:07:23 | io.botx402/server | botx402 | 0.1.0 | Inventory reorder plans from SKU sales, stock and lead times. $19 a run, paid b… |
-| 2026-10-04 15:07:24 | com.mypinpal/todo | Pinpal Todo | 1.1.0 | A quiet to-do list your AI assistant can read, add to, edit, star and check off… |
-| 2026-10-04 15:09:50 | [io.github.eduplopez/mcp-voice-summary](https://github.com/eduplopez/mcp-voice-summary) |  | 0.1.1 | Reads a summary out loud when an AI coding task finishes. Offline or neural voi… |
-| 2026-10-04 15:16:09 | [io.github.ShubhamTuts/prosyo](https://github.com/ShubhamTuts/prosyo-mcp-server) | Prosyo MCP Server | 1.0.0 | Zero-config Prosyo MCP for LinkedIn, cold email, and inbox. No API key. |
-| 2026-10-04 15:19:04 | com.duelamp/poker | DuelAmp | 1.0.0 | Heads-up poker for AI agents: play live matches against other agents while your… |
-| 2026-10-04 15:20:30 | [io.github.54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) | Zotero MCP | 0.13.2 | Search, read, annotate, and add to your Zotero research library, local or web. |
-| 2026-10-04 15:20:59 | info.workingproxysites/provider-directory | Working Proxy Sites | 1.3.0 | Research proxy providers, compare published prices, and discover provider MCP i… |
+| 2026-10-04 15:25:29 | br.com.juspronto/conector | Conector Juspronto | 0.1.0 | Conector do Juspronto para o Claude: processos, prazos, agenda e autos do escri… |
+| 2026-10-04 15:26:04 | io.github.martinnovoa22/preciosano | PrecioSano | 1.0.0 | Medicine prices across Chilean pharmacies, same-ingredient brands (ISP) and on-… |
+| 2026-10-04 15:27:41 | [io.github.RozoAI/checkout](https://github.com/RozoAI/rozo-checkout-mcp) | Rozo Checkout | 0.1.0 | Pay OpenRouter top-ups with USDC/USDT on 6 chains or BTC Lightning. Never holds… |
+| 2026-10-04 15:31:14 | [io.mcp-hangar/hangar](https://github.com/mcp-hangar/mcp-hangar) | MCP Hangar | 2.24.0 | Policy enforcement plane for MCP: every tool call ends in a verdict. Self-hoste… |
+| 2026-10-04 15:36:14 | [io.github.MoonEyes/google-ecommerce-mcp](https://github.com/MoonEyes/google-ecommerce-mcp) | Google E-commerce (GA4, Search Console,… | 0.1.0 | Read-only GA4, Search Console, Merchant Center, Tag Manager, Indexing and PageS… |
+| 2026-10-04 15:38:04 | in.ashwingopalsamy.home/agam-journal | Agam | 1.1.0 | Keyless public journal reads: construction costs, day-wise work, source precisi… |
+| 2026-10-04 15:39:34 | dev.pethost/pethost | Pethost | 1.2.0 | Deploy and run your projects on Pethost, your own hosting. |
+| 2026-10-04 15:52:03 | [io.github.Junemind/june-mcp](https://github.com/Junemind/june-mcp) | Junê | 0.7.0 | Shared, cited knowledge-graph memory for agents — ask, search, remember, keep s… |
+| 2026-10-04 15:53:29 | [io.github.joalavedra/andorra-fonts-publiques](https://github.com/joalavedra/andorra-fonts-publiques) | Andorra public sources | 0.2.0 | Andorra public data: BOPA bulletin, statistics, maps, e-tramits procedures and… |
+| 2026-10-04 15:58:02 | [io.github.physics-star-cat/databutler-calendar](https://github.com/physics-star-cat/databutler) |  | 1.0.0 | Public holidays (UK, US, DE, FR), tax-year dates and DST switches for 2026-2028. |
+| 2026-10-04 15:58:05 | [io.github.physics-star-cat/databutler-de-rates](https://github.com/physics-star-cat/databutler) |  | 1.0.0 | German 2026 tax and social-insurance thresholds, minimum wage and allowances, s… |
+| 2026-10-04 15:58:12 | [io.github.physics-star-cat/databutler](https://github.com/physics-star-cat/databutler) |  | 1.0.0 | Verified facts for AI agents: rates, exams, recalls, holidays, and what changed… |
+| 2026-10-04 15:58:18 | [io.github.physics-star-cat/databutler-policy-rates](https://github.com/physics-star-cat/databutler) |  | 1.0.0 | Bank of England, Fed and ECB policy rates, read from the banks' own pages, with… |
+| 2026-10-04 15:58:23 | [io.github.physics-star-cat/databutler-software-eol](https://github.com/physics-star-cat/databutler) |  | 1.0.0 | Is this version still supported? End-of-life dates for 14 runtimes and operatin… |
+| 2026-10-04 15:58:28 | [io.github.physics-star-cat/databutler-tax](https://github.com/physics-star-cat/databutler) |  | 1.0.0 | Take-home pay after tax and social contributions for nine countries, with tax y… |
+| 2026-10-04 15:58:31 | [io.github.physics-star-cat/databutler-uk-exam-dates](https://github.com/physics-star-cat/databutler) |  | 1.0.0 | UK GCSE and A-level exam dates, results days, entry deadlines and spec changes. |
+| 2026-10-04 15:58:36 | [io.github.physics-star-cat/databutler-uk-vehicle-rules](https://github.com/physics-star-cat/databutler) |  | 1.0.0 | UK vehicle tax (VED) bands, expensive-car supplement, EV rules and MOT fees, so… |
+| 2026-10-04 15:58:38 | [io.github.physics-star-cat/databutler-us-rates](https://github.com/physics-star-cat/databutler) |  | 1.0.0 | US federal 2026 tax brackets, standard deductions, payroll and retirement limit… |
+| 2026-10-04 15:58:40 | [io.github.physics-star-cat/databutler-vehicles](https://github.com/physics-star-cat/databutler) |  | 1.0.0 | UK MOT failure data and official UK, French, Japanese and EU vehicle recalls. |
+| 2026-10-04 16:07:29 | [io.github.mleoca/ucn](https://github.com/mleoca/ucn) |  | 5.5.0 | Auditable, conserved AST code intelligence for AI agents. JS/TS, Python, Go, Ru… |
+| 2026-10-04 16:08:33 | com.shipvela/shipvela | Shipvela | 0.1.0 | Create website projects, deploy GitHub sites and read logs/usage via remote OAu… |
+| 2026-10-04 16:11:22 | [io.github.Leonhest/hivemind](https://github.com/Leonhest/hivemind) |  | 0.1.1 | A shared, live plan for teams of coding agents, synced through your git remote. |
+| 2026-10-04 16:18:41 | [io.github.zhlei07/inboxmcp](https://github.com/zhlei07/inboxmcp) | inboxmcp | 0.2.0 | Read-only IMAP email for your AI agent, scoped to the mailboxes you choose, wit… |
+| 2026-10-04 16:19:20 | co.mentorstack/mentorstack | MentorStack | 1.0.0 | Read your mentoring program data from an AI assistant. Employee mentoring softw… |
 
 ## Data source
 
