@@ -9,31 +9,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 08:20 UTC
+## Latest list — 2026-10-04 09:19 UTC
 
-New MCP servers published between 2026-10-04 07:19 UTC and 2026-10-04 08:20 UTC.
+New MCP servers published between 2026-10-04 08:20 UTC and 2026-10-04 09:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-04T08-20-28-508522Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-04T09-19-19-576981Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-04 07:22:10 | ai.troquel/troquel | Troquel MCP Server | 1.3.0 | Generate images, video and voice, and read Meta ad libraries, paying per genera… |
-| 2026-10-04 07:26:00 | [io.github.kevynf/akbridge](https://github.com/kevynf/akbridge) | AKBridge | 0.1.4 | Search and call AKShare financial data interfaces through three routed MCP tools |
-| 2026-10-04 07:28:12 | [io.github.WawRepo/petty](https://github.com/WawRepo/petty) | Petty | 1.5.9 | End-to-end encrypted cash ledger: balances, history, add or take cash. Decrypts… |
-| 2026-10-04 07:36:26 | [io.github.cyanheads/exchange-rates-mcp-server](https://github.com/cyanheads/exchange-rates-mcp-server) |  | 0.4.2 | Convert currencies, get FX rates, and query historical ECB exchange rate data. |
-| 2026-10-04 07:37:52 | com.tradiebridge/tradiebridge | TradieBridge | 1.0.0 | Ask about your Simpro, Xero and Verizon Connect data, from a backup your trade… |
-| 2026-10-04 07:39:23 | com.submitmystartup/mcp | SubmitMyStartup | 1.1.0 | Find where to submit a startup: a free, fresh list of directories, launch sites… |
-| 2026-10-04 07:43:27 | [io.github.TurtleTech-ehf/ookcite-mcp](https://github.com/TurtleTech-ehf/ookcite-mcp) | OokCite | 0.6.3 | Catch fabricated citations: verify DOIs/ISBNs and format them in 2900+ CSL styl… |
-| 2026-10-04 07:45:03 | [io.github.cyanheads/secedgar-mcp-server](https://github.com/cyanheads/secedgar-mcp-server) |  | 0.15.10 | Query SEC EDGAR filings, XBRL financials, and company data through MCP. STDIO &… |
-| 2026-10-04 07:47:52 | [io.github.csigelo/sigelo](https://github.com/csigelo/sigelo) | sigelo | 0.1.0 | Portable, offline-verifiable identity for AI agents: DID, challenges, attestati… |
-| 2026-10-04 07:48:48 | [io.github.Vortitron/home-assistant-mcp](https://github.com/Vortitron/home-assistant-mcp) |  | 0.10.0 | Home Assistant and ESPHome for coding agents: states, services, automations, da… |
-| 2026-10-04 07:59:35 | [io.github.liliang-cn/aigui](https://github.com/liliang-cn/aigui) | AIGUI | 0.48.0 | Let coding agents draw charts, diagrams, 3D, molecules and animated topologies… |
-| 2026-10-04 08:00:21 | lol.breakroom/arena | Break Room | 0.1.0 | Arena where AI agents play Werewolf, Diplomacy, bluffing and auction games agai… |
-| 2026-10-04 08:00:48 | com.mcpcharts/mcpcharts | MCP Charts | 1.0.0 | Find MCP servers, skills, plugins, agents, prompts and rules for any task. |
-| 2026-10-04 08:09:30 | [io.github.zkarimi22/agentaddress](https://github.com/zkarimi22/agentaddress-agents) |  | 0.2.0 | Callback URLs, email return paths, ordered events and JSON context for ephemera… |
-| 2026-10-04 08:15:36 | [io.github.amos689/paper-preflight](https://github.com/amos689/paper-preflight) | paper-preflight | 0.2.0 | Checks every LaTeX reference against Crossref, dblp, arXiv, DataCite, PubMed an… |
-| 2026-10-04 08:16:43 | com.thaifishsashimicatalog/fish-market | GYOTAK Fish Market | 1.1.0 | Sashimi-grade flash-frozen fish from Thailand. Catalog, ordering, and on-chain… |
-| 2026-10-04 08:19:59 | com.raltan/raltan | Raltan | 1.0.0 | Let your agent reach real, verified people and their agents. You approve every… |
+| 2026-10-04 08:26:28 | [com.convika/convika](https://github.com/tomoyaf/convika-mcp) | Convika | 1.0.1 | Publish AI-made landing pages on your own domain, with a signup form and visito… |
+| 2026-10-04 08:27:17 | io.blocsmith/blocsmith | Blocsmith | 0.3.0 | Edit, publish and look after Blocsmith websites: pages, blog, SEO, images, stat… |
+| 2026-10-04 08:30:07 | com.kaneme/kaneme | Kaneme — Your writing identity, measure… | 5.0.0 | Build a voice from your own texts, measure whether a text still sounds like you… |
+| 2026-10-04 08:33:39 | [io.github.redoxnet/lsopenapi](https://github.com/redoxnet/mcp-lsopenapi) |  | 1.6.1 | LS Securities OpenAPI MCP server: Korean + overseas stocks, charts, screeners,… |
+| 2026-10-04 08:37:28 | [io.github.sepehr071/payping-mcp](https://github.com/sepehr071/payping-mcp) | PayPing | 0.1.0 | PayPing merchant account for agents: balance, sales, invoices; create invoices… |
+| 2026-10-04 08:43:37 | io.github.audit0/auditai-mcp | Audit AI | 0.4.1 | Finds authorization holes in Next.js + Supabase apps and live Supabase database… |
+| 2026-10-04 08:45:41 | io.github.michaelw-pr/veridu | Veridu | 1.0.0 | Code review that knows what depends on your change — before commit or on every… |
+| 2026-10-04 08:45:49 | [io.github.cirralink-stack/kevaremesh-gateway](https://github.com/cirralink-stack/cirralink) | KEVAREMESH AI Procurement Gateway | 0.4.55 | AI procurement gateway: finds and auto-selects live x402 APIs; provider payment… |
+| 2026-10-04 08:54:23 | io.github.mojomaxmojo/mojobus | MojoBus Travel Blog | 1.0.0 | Read-only MCP server for the MojoBus vanlife travel blog - 14 years, Portugal/A… |
+| 2026-10-04 08:54:28 | [com.oceanalt/aml](https://github.com/OceanAlt/oceanalt-aml-mcp) |  | 0.7.0 | Screen a payee address before an AI agent pays: sanctions, mixers, scam lists,… |
+| 2026-10-04 09:00:55 | [com.korushield/koru-shield](https://github.com/KoruShield/koru-shield-mcp) |  | 1.0.1 | Manage Koru Shield DNS filtering: profiles, rules, categories, schedules, and l… |
+| 2026-10-04 09:02:43 | ai.deepvalues/deepvalues | Deep Values | 1.1.0 | Value-investing research for US stocks: fundamentals, SEC filings, 13F guru hol… |
+| 2026-10-04 09:16:10 | [io.github.fr0ster/mcp-abap-adt](https://github.com/fr0ster/mcp-abap-adt) |  | 16.0.1 | MCP server for SAP ABAP ADT: repository analysis and CRUD for RAP and classic A… |
 
 ## Data source
 

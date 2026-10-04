@@ -1,0 +1,14 @@
+created_at,server,title,version,repository,transports,description
+2026-10-04T08:26:28.083867Z,com.convika/convika,Convika,1.0.1,https://github.com/tomoyaf/convika-mcp,streamable-http,"Publish AI-made landing pages on your own domain, with a signup form and visitor stats."
+2026-10-04T08:27:17.875781Z,io.blocsmith/blocsmith,Blocsmith,0.3.0,,streamable-http,"Edit, publish and look after Blocsmith websites: pages, blog, SEO, images, stats and enquiries."
+2026-10-04T08:30:07.820074Z,com.kaneme/kaneme,"Kaneme — Your writing identity, measured and portable",5.0.0,,streamable-http; streamable-http,"Build a voice from your own texts, measure whether a text still sounds like you, then write in it."
+2026-10-04T08:33:39.005012Z,io.github.redoxnet/lsopenapi,,1.6.1,https://github.com/redoxnet/mcp-lsopenapi,,"LS Securities OpenAPI MCP server: Korean + overseas stocks, charts, screeners, portfolio, accounts."
+2026-10-04T08:37:28.160787Z,io.github.sepehr071/payping-mcp,PayPing,0.1.0,https://github.com/sepehr071/payping-mcp,,"PayPing merchant account for agents: balance, sales, invoices; create invoices and payment links."
+2026-10-04T08:43:37.635137Z,io.github.audit0/auditai-mcp,Audit AI,0.4.1,,,Finds authorization holes in Next.js + Supabase apps and live Supabase databases. No API key.
+2026-10-04T08:45:41.552219Z,io.github.michaelw-pr/veridu,Veridu,1.0.0,,streamable-http,Code review that knows what depends on your change — before commit or on every PR.
+2026-10-04T08:45:49.108216Z,io.github.cirralink-stack/kevaremesh-gateway,KEVAREMESH AI Procurement Gateway,0.4.55,https://github.com/cirralink-stack/cirralink,streamable-http,AI procurement gateway: finds and auto-selects live x402 APIs; provider payments stay buyer-direct.
+2026-10-04T08:54:23.212305Z,io.github.mojomaxmojo/mojobus,MojoBus Travel Blog,1.0.0,,streamable-http,"Read-only MCP server for the MojoBus vanlife travel blog - 14 years, Portugal/Algarve. DE/EN."
+2026-10-04T08:54:28.015308Z,com.oceanalt/aml,,0.7.0,https://github.com/OceanAlt/oceanalt-aml-mcp,streamable-http,"Screen a payee address before an AI agent pays: sanctions, mixers, scam lists, on-chain risk."
+2026-10-04T09:00:55.359856Z,com.korushield/koru-shield,,1.0.1,https://github.com/KoruShield/koru-shield-mcp,streamable-http,"Manage Koru Shield DNS filtering: profiles, rules, categories, schedules, and logs."
+2026-10-04T09:02:43.165842Z,ai.deepvalues/deepvalues,Deep Values,1.1.0,,streamable-http,"Value-investing research for US stocks: fundamentals, SEC filings, 13F guru holdings, intrinsic valu"
+2026-10-04T09:16:10.540357Z,io.github.fr0ster/mcp-abap-adt,,16.0.1,https://github.com/fr0ster/mcp-abap-adt,,MCP server for SAP ABAP ADT: repository analysis and CRUD for RAP and classic ABAP
