@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-10-04T11:25:14.273147Z,io.github.RagingOrangutan/rootvine-mcp,,1.4.1,https://github.com/RagingOrangutan/rootvine-mcp,streamable-http,"Neutral commerce resolution for AI agents — music live, ranked by trust, never by commission."
+2026-10-04T11:25:50.507007Z,com.dadrasai/iranian-law,Dadras — Iranian law (دادرس),1.1.0,,streamable-http,"Iranian statutes, legal glossary and legal calculators from Dadras, linked to dadrasai.com."
+2026-10-04T11:26:30.0405Z,io.github.aarondpn/redmine-mcp,Redmine,2.13.0,https://github.com/aarondpn/redmine-cli,,"Work with Redmine issues, projects, time entries, wiki pages and more. Read-only by default."
+2026-10-04T11:30:12.588371Z,com.onelence/onelence,OneLence,1.0.0,https://github.com/Crelora/onelence-ai-plugins,streamable-http,"Growth analytics: what to scale, hold or stop across ads, SEO, AI search and affiliate partners."
+2026-10-04T11:31:58.497976Z,rs.monit/monit-rs,monit.rs,0.2.0,,streamable-http,"Schema-aware API monitoring: diff OpenAPI specs for breaking changes, manage endpoints."
+2026-10-04T11:34:58.827805Z,com.astranl/crossing,AstraNL Crossing,1.0.0,,streamable-http,"Look before work, claim it, check a spend, mark the outcome. For agents sharing tasks. No key."
+2026-10-04T11:37:12.779063Z,io.github.nolindnaidoo/versions-le,Versions-LE,1.0.0,https://github.com/nolindnaidoo/versions-le,,Find where one dependency is constrained differently across a repository's manifests.
+2026-10-04T11:38:19.886259Z,com.neonloops/neonloops,neonloops,1.0.0,,streamable-http,"Build, run and check agentic workflows from your AI client: approve steps, read tables, see runs."
+2026-10-04T11:38:51.398792Z,io.github.AlvisoOculus/optionsahoy-mcp,,1.10.3,https://github.com/AlvisoOculus/optionsahoy-mcp,streamable-http,"Equity comp tax/trade optimizer: ISO/AMT exercise, NSO, RSU, QSBS, concentration, hedging. 50-state."
+2026-10-04T11:40:58.098066Z,cz.cenaodhad/cenaodhad,cenaodhad – ceny bytů v Praze z katastru,0.3.2,,streamable-http,Ceny pražských bytů z reálných prodejů v katastru. Hned a bez kontaktu.
+2026-10-04T11:45:47.249029Z,io.github.drzamarian/n8n-mcp-community,n8n MCP Community,0.3.1,https://github.com/drzamarian/n8n-mcp-community,,A security-focused MCP server for self-hosted n8n Community Edition.
+2026-10-04T11:46:22.349445Z,ai.joxo/joxo,Joxo,0.2.45,https://github.com/JoxoAI/joxo,streamable-http,"One shared project for a team's coding agents: decisions, a task board and handoffs."
+2026-10-04T11:46:47.426805Z,dev.mentio/mcp,Mentio,1.0.0,,streamable-http,"Social listening for agents: brand mentions across 16 platforms, scored for relevance and intent"
+2026-10-04T11:47:36.111132Z,com.adona-robot/market-data,Adona Robot market data,1.1.0,https://github.com/Adona-Robot/market-data-examples,streamable-http,"FX and metals market data: plans, 51 symbols, price quotes, and candles with an API key."
+2026-10-04T11:51:56.999242Z,so.transcribe/mcp,,1.7.0,,streamable-http,"Transcribe audio and video into speaker-labelled transcripts, subtitles, clips, and cited Q&A."
+2026-10-04T11:53:15.265394Z,io.github.ThatMojo/encarapi-mcp,EnCarAPI - Korean & Chinese used cars,1.0.0,https://github.com/ThatMojo/encarapi-mcp,streamable-http,"Live used car listings from South Korea (Encar, KB Chachacha, K Car) and China (Dongchedi, Che168)."
+2026-10-04T11:54:01.779847Z,com.openforallofus/agora,Agora by openforallofus,0.1.0,https://github.com/dogrucanemek-alt/agora,streamable-http,"Search MCP servers ranked by measured handshake checks, tool lists and signed reports."
+2026-10-04T11:56:56.340663Z,io.github.juyterman1000/entroly,Entroly,1.0.86,https://github.com/juyterman1000/entroly,,"Context Assurance for AI agents: context engineering, AI cost optimization, verification."
+2026-10-04T11:57:46.229092Z,au.com.premrest/premrest,Premrest,1.2.1,,streamable-http,Commercial floor care enquiries and urgent flood response requests for Australian facilities.
+2026-10-04T11:58:02.079737Z,io.github.Firefloco/chirpie,Chirpie,1.2.3,https://github.com/Firefloco/chirpie-mcp,streamable-http,"Post, schedule, and track social posts on X, Bluesky, LinkedIn, Instagram and more from AI agents."
+2026-10-04T11:58:11.561716Z,app.apick/subagent,APICK Subagent,1.0.1,https://github.com/lead788/apick-subagent,streamable-http,"Document inventory, extraction, summaries and comparison with source quotes and usage billing."
+2026-10-04T12:02:06.747546Z,au.humanendpoint/humanendpoint,HumanEndpoint,1.0.0,,streamable-http,"Human execution infrastructure for AI agents with quotes, x402 payment, job tracking, and evidence."
+2026-10-04T12:03:25.484718Z,com.honesthook/social-data,,1.0.1,,streamable-http,"Instagram, TikTok, Threads, Bluesky and 8 more: one API, one key, one JSON shape"
+2026-10-04T12:04:25.235497Z,io.github.covaltpay/covalt-gateway,Covalt Execution Gateway,1.0.0,https://github.com/covaltpay/Covaltpay,streamable-http,Trusted execution infrastructure for AI agents. Proposal-only protocol with human consent.
+2026-10-04T12:04:30.098037Z,com.koreanics/koreanics,Koreanics: Korean laws and bills in English,1.0.0,,streamable-http,"South Korean statutes in English article by article, National Assembly bills and stages, briefs."
+2026-10-04T12:05:48.97848Z,app.promostash/promostash,PromoStash,1.0.0,,streamable-http,Search your private marketing email archive and organize collections with optional write access.
+2026-10-04T12:08:16.608345Z,io.pagerender/pagerender,,1.2.0,https://github.com/nmbrthirteen/pagerender-tools,,What search and AI crawlers extract from any public URL. Five of nine tools need no token.
+2026-10-04T12:12:07.540621Z,com.koreanics/korea-law-acts-and-bills,"Koreanics: Korea law, Acts and bills in English",1.0.0,,streamable-http,"Korean Assembly bills tracked hourly in English, plus Korean Acts and decrees article by article."
+2026-10-04T12:14:46.936873Z,io.aiven/mcp,Aiven MCP,1.17.0,https://github.com/aiven-open/mcp-aiven,streamable-http,"Provision PostgreSQL, manage Apache Kafka, and deploy apps with Aiven - all from your AI assistant."
+2026-10-04T12:16:14.004752Z,io.github.dashpilot-labs/dashpilot-mcp,,0.1.1,https://github.com/dashpilot-labs/dashpilot-mcp,,"DoorDash Drive deliveries over MCP — quote, dispatch, and track deliveries from your POS."

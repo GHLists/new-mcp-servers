@@ -9,31 +9,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 11:20 UTC
+## Latest list — 2026-10-04 12:19 UTC
 
-New MCP servers published between 2026-10-04 10:20 UTC and 2026-10-04 11:20 UTC.
+New MCP servers published between 2026-10-04 11:20 UTC and 2026-10-04 12:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-04T11-20-27-853511Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-04T12-19-33-998868Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-04 10:25:03 | io.github.dorianfields/x402-cite-check |  | 1.0.0 | Verify cited URLs still resolve: reachability, HTTP status and page title. x402… |
-| 2026-10-04 10:30:41 | com.citefiles/citefiles | Cite Files | 1.0.0 | Check whether AI assistants can reach, read and cite a public website. No accou… |
-| 2026-10-04 10:31:59 | dev.quirepdf/quirepdf-mcp | Quire PDF | 0.1.0 | Turn JSON into polished PDFs: invoices, receipts, quotes, certificates, or any… |
-| 2026-10-04 10:42:48 | [io.github.max-nobug/drugalpha-mcp](https://github.com/max-nobug/drugalpha-mcp) | DrugAlpha 创新药投研 | 0.1.0 | Company/drug identification and published biopharma catalysts. DrugAlpha OAuth… |
-| 2026-10-04 10:49:24 | [io.github.desplega-ai/agent-swarm](https://github.com/desplega-ai/agent-swarm) | Agent Swarm | 1.162.0 | Full Agent Swarm API and MCP server with local SQLite storage for multi-agent o… |
-| 2026-10-04 10:53:29 | com.superpandit/kundli | SuperPandit Kundli | 1.0.0 | Vedic astrology from a real ephemeris: birth chart, life-event timing and Kundl… |
-| 2026-10-04 10:53:41 | [io.github.ishay60/mcpolyglot](https://github.com/ishay60/mcpolyglot) |  | 0.4.2 | Policy-checked, audited agent access to Postgres, MySQL, SQLite, MongoDB and Op… |
-| 2026-10-04 10:59:19 | [io.github.gripforgeai/mcp](https://github.com/gripforgeai/mcp) | GripForge | 0.1.12 | Turn prompts into production-ready game assets: animated characters, textures,… |
-| 2026-10-04 11:01:58 | com.yehangshe/nightwatch | Nightwatch | 0.1.0 | Dealer gamma exposure (GEX) levels and dealer positioning heatmaps for US equit… |
-| 2026-10-04 11:05:01 | [com.nibomo/flashcards](https://github.com/kirill-markin/flashcards-open-source-app) | Nibomo | 1.29.0 | Read, write, and conversationally review open-source flashcards through split r… |
-| 2026-10-04 11:05:02 | com.ortexo/mcp | Ortexo | 1.0.0 | Romanian and EU legislation and case law, with exact article citations and poin… |
-| 2026-10-04 11:06:31 | io.metodic/metodic | METODIC | 1.0.0 | Design workshops from chat: 750+ facilitation methods, timed agendas, worksheet… |
-| 2026-10-04 11:10:42 | com.meridianlabssoftware/competitor-keywords | Competitor Keyword Research: Ranked Key… | 1.0.0 | Every keyword a site ranks for in Google: position, volume, CPC, traffic, plus… |
-| 2026-10-04 11:10:43 | com.meridianlabssoftware/sec-form-d-funding-rounds | Startup Funding Rounds & Founders API:… | 1.0.0 | US startups that just raised, from SEC Form D: amount raised, investor count, f… |
-| 2026-10-04 11:10:44 | com.meridianlabssoftware/eu-uk-tenders-scraper | EU & UK Tenders Scraper: TED + Find a T… | 1.0.0 | Public tenders and contract awards from EU TED and UK Find a Tender, with buyer… |
-| 2026-10-04 11:12:08 | io.github.sairam0424/trelix | trelix | 3.4.3 | Semantic code search for AI agents — hybrid BM25+vector, call-graph, 20+ langua… |
-| 2026-10-04 11:16:54 | io.prosemap/prosemap | ProseMap | 1.1.0 | Sentence-by-sentence analysis of a prose draft: a score for every sentence and… |
+| 2026-10-04 11:25:14 | [io.github.RagingOrangutan/rootvine-mcp](https://github.com/RagingOrangutan/rootvine-mcp) |  | 1.4.1 | Neutral commerce resolution for AI agents — music live, ranked by trust, never… |
+| 2026-10-04 11:25:50 | com.dadrasai/iranian-law | Dadras — Iranian law (دادرس) | 1.1.0 | Iranian statutes, legal glossary and legal calculators from Dadras, linked to d… |
+| 2026-10-04 11:26:30 | [io.github.aarondpn/redmine-mcp](https://github.com/aarondpn/redmine-cli) | Redmine | 2.13.0 | Work with Redmine issues, projects, time entries, wiki pages and more. Read-onl… |
+| 2026-10-04 11:30:12 | [com.onelence/onelence](https://github.com/Crelora/onelence-ai-plugins) | OneLence | 1.0.0 | Growth analytics: what to scale, hold or stop across ads, SEO, AI search and af… |
+| 2026-10-04 11:31:58 | rs.monit/monit-rs | monit.rs | 0.2.0 | Schema-aware API monitoring: diff OpenAPI specs for breaking changes, manage en… |
+| 2026-10-04 11:34:58 | com.astranl/crossing | AstraNL Crossing | 1.0.0 | Look before work, claim it, check a spend, mark the outcome. For agents sharing… |
+| 2026-10-04 11:37:12 | [io.github.nolindnaidoo/versions-le](https://github.com/nolindnaidoo/versions-le) | Versions-LE | 1.0.0 | Find where one dependency is constrained differently across a repository's mani… |
+| 2026-10-04 11:38:19 | com.neonloops/neonloops | neonloops | 1.0.0 | Build, run and check agentic workflows from your AI client: approve steps, read… |
+| 2026-10-04 11:38:51 | [io.github.AlvisoOculus/optionsahoy-mcp](https://github.com/AlvisoOculus/optionsahoy-mcp) |  | 1.10.3 | Equity comp tax/trade optimizer: ISO/AMT exercise, NSO, RSU, QSBS, concentratio… |
+| 2026-10-04 11:40:58 | cz.cenaodhad/cenaodhad | cenaodhad – ceny bytů v Praze z katastru | 0.3.2 | Ceny pražských bytů z reálných prodejů v katastru. Hned a bez kontaktu. |
+| 2026-10-04 11:45:47 | [io.github.drzamarian/n8n-mcp-community](https://github.com/drzamarian/n8n-mcp-community) | n8n MCP Community | 0.3.1 | A security-focused MCP server for self-hosted n8n Community Edition. |
+| 2026-10-04 11:46:22 | [ai.joxo/joxo](https://github.com/JoxoAI/joxo) | Joxo | 0.2.45 | One shared project for a team's coding agents: decisions, a task board and hand… |
+| 2026-10-04 11:46:47 | dev.mentio/mcp | Mentio | 1.0.0 | Social listening for agents: brand mentions across 16 platforms, scored for rel… |
+| 2026-10-04 11:47:36 | [com.adona-robot/market-data](https://github.com/Adona-Robot/market-data-examples) | Adona Robot market data | 1.1.0 | FX and metals market data: plans, 51 symbols, price quotes, and candles with an… |
+| 2026-10-04 11:51:56 | so.transcribe/mcp |  | 1.7.0 | Transcribe audio and video into speaker-labelled transcripts, subtitles, clips,… |
+| 2026-10-04 11:53:15 | [io.github.ThatMojo/encarapi-mcp](https://github.com/ThatMojo/encarapi-mcp) | EnCarAPI - Korean & Chinese used cars | 1.0.0 | Live used car listings from South Korea (Encar, KB Chachacha, K Car) and China… |
+| 2026-10-04 11:54:01 | [com.openforallofus/agora](https://github.com/dogrucanemek-alt/agora) | Agora by openforallofus | 0.1.0 | Search MCP servers ranked by measured handshake checks, tool lists and signed r… |
+| 2026-10-04 11:56:56 | [io.github.juyterman1000/entroly](https://github.com/juyterman1000/entroly) | Entroly | 1.0.86 | Context Assurance for AI agents: context engineering, AI cost optimization, ver… |
+| 2026-10-04 11:57:46 | au.com.premrest/premrest | Premrest | 1.2.1 | Commercial floor care enquiries and urgent flood response requests for Australi… |
+| 2026-10-04 11:58:02 | [io.github.Firefloco/chirpie](https://github.com/Firefloco/chirpie-mcp) | Chirpie | 1.2.3 | Post, schedule, and track social posts on X, Bluesky, LinkedIn, Instagram and m… |
+| 2026-10-04 11:58:11 | [app.apick/subagent](https://github.com/lead788/apick-subagent) | APICK Subagent | 1.0.1 | Document inventory, extraction, summaries and comparison with source quotes and… |
+| 2026-10-04 12:02:06 | au.humanendpoint/humanendpoint | HumanEndpoint | 1.0.0 | Human execution infrastructure for AI agents with quotes, x402 payment, job tra… |
+| 2026-10-04 12:03:25 | com.honesthook/social-data |  | 1.0.1 | Instagram, TikTok, Threads, Bluesky and 8 more: one API, one key, one JSON shape |
+| 2026-10-04 12:04:25 | [io.github.covaltpay/covalt-gateway](https://github.com/covaltpay/Covaltpay) | Covalt Execution Gateway | 1.0.0 | Trusted execution infrastructure for AI agents. Proposal-only protocol with hum… |
+| 2026-10-04 12:04:30 | com.koreanics/koreanics | Koreanics: Korean laws and bills in Eng… | 1.0.0 | South Korean statutes in English article by article, National Assembly bills an… |
+| 2026-10-04 12:05:48 | app.promostash/promostash | PromoStash | 1.0.0 | Search your private marketing email archive and organize collections with optio… |
+| 2026-10-04 12:08:16 | [io.pagerender/pagerender](https://github.com/nmbrthirteen/pagerender-tools) |  | 1.2.0 | What search and AI crawlers extract from any public URL. Five of nine tools nee… |
+| 2026-10-04 12:12:07 | com.koreanics/korea-law-acts-and-bills | Koreanics: Korea law, Acts and bills in… | 1.0.0 | Korean Assembly bills tracked hourly in English, plus Korean Acts and decrees a… |
+| 2026-10-04 12:14:46 | [io.aiven/mcp](https://github.com/aiven-open/mcp-aiven) | Aiven MCP | 1.17.0 | Provision PostgreSQL, manage Apache Kafka, and deploy apps with Aiven - all fro… |
+| 2026-10-04 12:16:14 | [io.github.dashpilot-labs/dashpilot-mcp](https://github.com/dashpilot-labs/dashpilot-mcp) |  | 0.1.1 | DoorDash Drive deliveries over MCP — quote, dispatch, and track deliveries from… |
 
 ## Data source
 
