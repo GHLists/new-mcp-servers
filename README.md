@@ -9,32 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 04:18 UTC
+## Latest list — 2026-10-04 05:19 UTC
 
-New MCP servers published between 2026-10-04 03:21 UTC and 2026-10-04 04:18 UTC.
+New MCP servers published between 2026-10-04 04:18 UTC and 2026-10-04 05:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-04T04-18-54-341315Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-04T05-19-32-263145Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-04 03:26:24 | io.github.aktonay/snapdec |  | 0.3.0 | Snap decisions for coding agents: local or hosted classify/check/score/rank via… |
-| 2026-10-04 03:27:56 | io.elevaredigital/recibopro | ReciboPro Invoices | 1.0.0 | Create invoices from your AI assistant in 6 languages and 10 currencies, ready… |
-| 2026-10-04 03:39:12 | [au.com.nempulse/nempulse](https://github.com/FDSchaefer/bessPerformance) |  | 1.1.1 | Australian NEM battery (BESS) data for AI agents: revenue, dispatch, FCAS, even… |
-| 2026-10-04 03:40:46 | ai.tigertiger/tigertiger |  | 1.0.0 | Chief of Staff, strategy and writing tools that give your Claude subscription s… |
-| 2026-10-04 03:45:14 | [com.listsignal/listsignal](https://github.com/giushansen/listsignal-mcp) | ListSignal | 1.0.0 | B2B sales intelligence: tech stack, Shopify apps, revenue, hiring and contacts… |
-| 2026-10-04 03:52:17 | com.tickerz/tickerz | Tickerz | 1.0.0 | Daily indexes of what people do, from public data and the chain, sealed in Bitc… |
-| 2026-10-04 03:52:37 | [io.github.teamshift-io/sandbox-mcp](https://github.com/teamshift-io/smb-sandbox) | SMB Sandbox | 0.1.0 | Mock small-business CRM, inbox, calendar, invoicing and phone tools for testing… |
-| 2026-10-04 03:59:02 | io.github.matsumotojoho/linkjumkey | LinkJumkey | 1.8.12 | Search and create LinkJumkey link buttons from AI apps. Needs LinkJumkey Deskto… |
-| 2026-10-04 04:07:44 | [io.github.craftbag/craftbag-mcp](https://github.com/craftbag/craftbag) | craftbag | 0.2.1 | MCP server to list, load, explain, and validate Agent Skills. |
-| 2026-10-04 04:07:55 | io.github.Insightwithhari/rbai-scholar | RBAi Scholar | 1.0.0 | Search 11 million biomedical abstracts (PubMed, bioRxiv, medRxiv) by meaning or… |
-| 2026-10-04 04:08:55 | [ai.everpod/everpod](https://github.com/everpod-ai/mcp) | Everpod | 0.1.0 | Managed hosting for open-source AI agents: see your pods and start a new one fr… |
-| 2026-10-04 04:10:40 | [io.github.FunplayAI/funplay-unity-mcp](https://github.com/FunplayAI/funplay-unity-mcp) | Funplay Unity MCP | 0.6.10 | stdio bridge for the local Unity Editor MCP server from FunplayAI/funplay-unity… |
-| 2026-10-04 04:12:28 | [io.dropl/mcp](https://github.com/develanet/dropl-mcp) | Dropl MCP | 0.6.0 | Create client-editable photo and video galleries from Cursor or Claude Code, th… |
-| 2026-10-04 04:15:30 | io.github.cloudalien2025/vailvacay-directory | VailVacay Directory | 1.0.0 | Search 355+ curated Vail Valley, Colorado restaurants, hotels, activities, shop… |
-| 2026-10-04 04:15:31 | io.github.cloudalien2025/bangkokvacay-directory | BangkokVacay Directory | 1.0.0 | Search curated Bangkok, Thailand tours, activities, hotels, restaurants, nightl… |
-| 2026-10-04 04:15:31 | io.github.cloudalien2025/bostonvacay-directory | BostonVacay Directory | 1.0.0 | Search curated Boston, MA tours, activities, hotels, restaurants, nightlife and… |
-| 2026-10-04 04:15:31 | io.github.cloudalien2025/1800deals-directory | 1-800Deals Directory | 1.0.0 | Search a national directory of 1-800 / toll-free / vanity-number businesses and… |
-| 2026-10-04 04:17:23 | [io.github.thu-lawyer/china-law-mcp](https://github.com/thu-lawyer/china-law-mcp) | China Law MCP | 0.1.0 | Search 23,995 Chinese statutes and verify citations to catch LLM-fabricated ref… |
+| 2026-10-04 04:20:26 | io.github.cherami-mail/cherami-mcp | Cherami | 1.0.0 | Email inboxes for recurring agent work. Read, search, reply, draft and organize… |
+| 2026-10-04 04:21:06 | com.unstuckapi/unstuck | Unstuck | 1.0.0 | Verify or find emails, screenshot pages, Google results, keyword volume. One ke… |
+| 2026-10-04 04:23:26 | [io.github.nolindnaidoo/ips-le](https://github.com/nolindnaidoo/ips-le) | IPs-LE | 1.0.0 | Extract every IP address, CIDR block and MAC, normalized and classified by scop… |
+| 2026-10-04 04:25:33 | kr.bidon/bidon | BIDON - Parts & Materials Buying/Sellin… | 1.0.0 | Korean parts stock, real KRW quotes and same-spec alternatives by part number.… |
+| 2026-10-04 04:30:46 | io.moderncollections/mcp | Modern Collections | 0.4.0 | Place overdue B2B invoices for collection and track outreach, payments and remi… |
+| 2026-10-04 04:40:00 | com.sssnack/sssnack | SSSNACK - Agent Takeover Arena | 0.18.0 | Agent hacking arena: scoped challenges, homepage takeovers, IRC help, hold lead… |
+| 2026-10-04 04:44:51 | [dev.repowise/repowise](https://github.com/repowise-dev/repowise) | Repowise | 0.55.0 | Codebase intelligence for AI coding agents — graph, git history, docs, decision… |
+| 2026-10-04 04:46:16 | [ai.dxpert/mcp](https://github.com/dxpert-ai/dxpert-mcp) | dxpert.ai — industrial AI-readiness & U… | 0.1.2 | Industrial AI-readiness diagnostics, UNS design, and UNS agents for MCP clients. |
+| 2026-10-04 04:46:16 | [ai.dxpert/uns-tools](https://github.com/dxpert-ai/uns-tools) | dxpert.ai — free UNS tools (no API key) | 0.1.2 | Free Sparkplug B topic linting, UNS naming checks and AI-readiness screening. N… |
+| 2026-10-04 04:46:23 | ar.superonline/supermercado | SuperOnline | 2.0.0 | Supermercado online de Argentina: buscá productos, armá el carrito, pagá y segu… |
+| 2026-10-04 04:53:23 | com.satoshimacro/market-data | SatoshiMacro Market Data | 1.0.0 | Live crypto cycle data: 48-signal Bitcoin cycle model, Bitcoin ETF flows, ASX E… |
+| 2026-10-04 04:56:57 | [io.github.mrslbt/rakuten-mcp](https://github.com/mrslbt/rakuten-mcp) |  | 1.3.0 | Rakuten Web Service for AI: Ichiba, Books, Travel, Recipe, Kobo, GORA — bilingu… |
+| 2026-10-04 04:57:30 | com.poisar/public | Poisar Public | 1.0.0 | Read-only public metadata server for Poisar discovery. |
+| 2026-10-04 04:57:36 | com.youth4work/mcp | Youth4work | 2.0.0 | Indian jobs via your AI: profile, apply, skill tests. Employers: post jobs free… |
+| 2026-10-04 04:57:38 | com.youth4work/public | Youth4work (public, no sign-in) | 2.0.0 | Read-only search of Youth4work public jobs, assessed talent, exam mock tests an… |
+| 2026-10-04 05:02:58 | com.kyrodata/kyrodata | Kyrodata — Brazil Trade, Crop & Commodi… | 1.0.16 | Brazil exports and imports from MDIC/ComexStat, plus crop, climate and commodit… |
+| 2026-10-04 05:11:48 | [com.barakahprofits.app/halal-screen](https://github.com/pancake-pixels/barakah-halal-mcp) | Barakah Halal Stock Screen | 1.0.0 | Check if a US stock is halal (Sharia-compliant), with the dates its verdict cha… |
 
 ## Data source
 

@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-04T04:20:26.454934Z,io.github.cherami-mail/cherami-mcp,Cherami,1.0.0,,streamable-http,"Email inboxes for recurring agent work. Read, search, reply, draft and organize correspondence."
+2026-10-04T04:21:06.042587Z,com.unstuckapi/unstuck,Unstuck,1.0.0,,streamable-http,"Verify or find emails, screenshot pages, Google results, keyword volume. One key, pay per call."
+2026-10-04T04:23:26.71011Z,io.github.nolindnaidoo/ips-le,IPs-LE,1.0.0,https://github.com/nolindnaidoo/ips-le,,"Extract every IP address, CIDR block and MAC, normalized and classified by scope."
+2026-10-04T04:25:33.657445Z,kr.bidon/bidon,BIDON - Parts & Materials Buying/Selling AI Agent (비드온),1.0.0,,streamable-http,"Korean parts stock, real KRW quotes and same-spec alternatives by part number. 비드온 부품·자재 AI 에이전트"
+2026-10-04T04:30:46.760663Z,io.moderncollections/mcp,Modern Collections,0.4.0,,streamable-http,"Place overdue B2B invoices for collection and track outreach, payments and remittances."
+2026-10-04T04:40:00.936068Z,com.sssnack/sssnack,SSSNACK - Agent Takeover Arena,0.18.0,,streamable-http,"Agent hacking arena: scoped challenges, homepage takeovers, IRC help, hold leaderboards."
+2026-10-04T04:44:51.178512Z,dev.repowise/repowise,Repowise,0.55.0,https://github.com/repowise-dev/repowise,,"Codebase intelligence for AI coding agents — graph, git history, docs, decisions, code health."
+2026-10-04T04:46:16.12528Z,ai.dxpert/mcp,dxpert.ai — industrial AI-readiness & UNS agents,0.1.2,https://github.com/dxpert-ai/dxpert-mcp,,"Industrial AI-readiness diagnostics, UNS design, and UNS agents for MCP clients."
+2026-10-04T04:46:16.598051Z,ai.dxpert/uns-tools,dxpert.ai — free UNS tools (no API key),0.1.2,https://github.com/dxpert-ai/uns-tools,,"Free Sparkplug B topic linting, UNS naming checks and AI-readiness screening. No API key."
+2026-10-04T04:46:23.166918Z,ar.superonline/supermercado,SuperOnline,2.0.0,,streamable-http,"Supermercado online de Argentina: buscá productos, armá el carrito, pagá y seguí tus pedidos."
+2026-10-04T04:53:23.885753Z,com.satoshimacro/market-data,SatoshiMacro Market Data,1.0.0,,streamable-http,"Live crypto cycle data: 48-signal Bitcoin cycle model, Bitcoin ETF flows, ASX ETFs, altseason"
+2026-10-04T04:56:57.697556Z,io.github.mrslbt/rakuten-mcp,,1.3.0,https://github.com/mrslbt/rakuten-mcp,,"Rakuten Web Service for AI: Ichiba, Books, Travel, Recipe, Kobo, GORA — bilingual, read-only."
+2026-10-04T04:57:30.050852Z,com.poisar/public,Poisar Public,1.0.0,,streamable-http,Read-only public metadata server for Poisar discovery.
+2026-10-04T04:57:36.857906Z,com.youth4work/mcp,Youth4work,2.0.0,,streamable-http,"Indian jobs via your AI: profile, apply, skill tests. Employers: post jobs free, find talent."
+2026-10-04T04:57:38.692965Z,com.youth4work/public,"Youth4work (public, no sign-in)",2.0.0,,streamable-http,"Read-only search of Youth4work public jobs, assessed talent, exam mock tests and Indian colleges."
+2026-10-04T05:02:58.734281Z,com.kyrodata/kyrodata,"Kyrodata — Brazil Trade, Crop & Commodity Data",1.0.16,,streamable-http,"Brazil exports and imports from MDIC/ComexStat, plus crop, climate and commodity forecasts."
+2026-10-04T05:11:48.183022Z,com.barakahprofits.app/halal-screen,Barakah Halal Stock Screen,1.0.0,https://github.com/pancake-pixels/barakah-halal-mcp,streamable-http,"Check if a US stock is halal (Sharia-compliant), with the dates its verdict changed."
