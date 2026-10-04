@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-04T07:22:10.144231Z,ai.troquel/troquel,Troquel MCP Server,1.3.0,,streamable-http,"Generate images, video and voice, and read Meta ad libraries, paying per generation."
+2026-10-04T07:26:00.781283Z,io.github.kevynf/akbridge,AKBridge,0.1.4,https://github.com/kevynf/akbridge,,Search and call AKShare financial data interfaces through three routed MCP tools
+2026-10-04T07:28:12.158844Z,io.github.WawRepo/petty,Petty,1.5.9,https://github.com/WawRepo/petty,,"End-to-end encrypted cash ledger: balances, history, add or take cash. Decrypts on your computer."
+2026-10-04T07:36:26.819824Z,io.github.cyanheads/exchange-rates-mcp-server,,0.4.2,https://github.com/cyanheads/exchange-rates-mcp-server,streamable-http,"Convert currencies, get FX rates, and query historical ECB exchange rate data."
+2026-10-04T07:37:52.957165Z,com.tradiebridge/tradiebridge,TradieBridge,1.0.0,,streamable-http,"Ask about your Simpro, Xero and Verizon Connect data, from a backup your trade business owns."
+2026-10-04T07:39:23.205483Z,com.submitmystartup/mcp,SubmitMyStartup,1.1.0,,streamable-http,"Find where to submit a startup: a free, fresh list of directories, launch sites and communities."
+2026-10-04T07:43:27.957449Z,io.github.TurtleTech-ehf/ookcite-mcp,OokCite,0.6.3,https://github.com/TurtleTech-ehf/ookcite-mcp,,Catch fabricated citations: verify DOIs/ISBNs and format them in 2900+ CSL styles.
+2026-10-04T07:45:03.885768Z,io.github.cyanheads/secedgar-mcp-server,,0.15.10,https://github.com/cyanheads/secedgar-mcp-server,streamable-http,"Query SEC EDGAR filings, XBRL financials, and company data through MCP. STDIO & Streamable HTTP."
+2026-10-04T07:47:52.240452Z,io.github.csigelo/sigelo,sigelo,0.1.0,https://github.com/csigelo/sigelo,streamable-http,"Portable, offline-verifiable identity for AI agents: DID, challenges, attestations, bundles."
+2026-10-04T07:48:48.762257Z,io.github.Vortitron/home-assistant-mcp,,0.10.0,https://github.com/Vortitron/home-assistant-mcp,,"Home Assistant and ESPHome for coding agents: states, services, automations, dashboards, flashing."
+2026-10-04T07:59:35.440808Z,io.github.liliang-cn/aigui,AIGUI,0.48.0,https://github.com/liliang-cn/aigui,,"Let coding agents draw charts, diagrams, 3D, molecules and animated topologies as PNGs or live pages"
+2026-10-04T08:00:21.268562Z,lol.breakroom/arena,Break Room,0.1.0,,streamable-http,"Arena where AI agents play Werewolf, Diplomacy, bluffing and auction games against other agents."
+2026-10-04T08:00:48.944945Z,com.mcpcharts/mcpcharts,MCP Charts,1.0.0,,streamable-http,"Find MCP servers, skills, plugins, agents, prompts and rules for any task."
+2026-10-04T08:09:30.542546Z,io.github.zkarimi22/agentaddress,,0.2.0,https://github.com/zkarimi22/agentaddress-agents,streamable-http,"Callback URLs, email return paths, ordered events and JSON context for ephemeral AI agents."
+2026-10-04T08:15:36.95785Z,io.github.amos689/paper-preflight,paper-preflight,0.2.0,https://github.com/amos689/paper-preflight,,"Checks every LaTeX reference against Crossref, dblp, arXiv, DataCite, PubMed and OpenAlex. No LLM."
+2026-10-04T08:16:43.136189Z,com.thaifishsashimicatalog/fish-market,GYOTAK Fish Market,1.1.0,,streamable-http,"Sashimi-grade flash-frozen fish from Thailand. Catalog, ordering, and on-chain traceability."
+2026-10-04T08:19:59.370052Z,com.raltan/raltan,Raltan,1.0.0,,streamable-http,"Let your agent reach real, verified people and their agents. You approve every message it sends."
