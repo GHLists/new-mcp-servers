@@ -1,0 +1,40 @@
+created_at,server,title,version,repository,transports,description
+2026-10-04T21:23:23.448761Z,com.ecomdly/ecomdly,ecomdly,1.0.0,,streamable-http,"E-commerce skills for AI agents: feeds, Google Shopping, GA4. Your private Brain when signed in."
+2026-10-04T21:23:24.778622Z,com.24haowan/space,LivePage · 活页,0.1.1,,streamable-http,"Turn finished agent work into a shareable, updatable web page that opens in WeChat. OAuth required."
+2026-10-04T21:23:52.0966Z,com.erppartnerfinder/partner-finder,ERP Partner Finder,1.0.0,https://github.com/KnowlixGmbH/erppartnerfinder-mcp,streamable-http,"Search, compare and shortlist Odoo partners in Germany, Austria and Switzerland."
+2026-10-04T21:26:44.004758Z,io.github.obrientt/landfiller,Landfiller,1.0.0,,streamable-http,"Build budget Commander mana bases with card quantities, reasoning, warnings, and shopping links."
+2026-10-04T21:28:02.446462Z,io.github.djstreet11/rowbase,Rowbase,0.2.1,https://github.com/djstreet11/Rowbase,,"Safe, read-only-by-default MySQL, PostgreSQL & SQLite access for AI agents. TOON output."
+2026-10-04T21:29:18.14018Z,io.github.kody-w/dogg-world-check,,1.0.0,https://github.com/kody-w/rapp-chatgpt,streamable-http,"Verified, citable world numbers right now, each with a public tick and SHA-256 fingerprint."
+2026-10-04T21:29:18.351124Z,io.github.kody-w/rapp-agent-builder,,1.0.0,https://github.com/kody-w/rapp-chatgpt,streamable-http,"Turn an idea or meeting transcript into a working single-file AI agent, check it, use it right away."
+2026-10-04T21:29:18.539674Z,io.github.kody-w/rar-agent-finder,,1.0.0,https://github.com/kody-w/rapp-chatgpt,streamable-http,"Find a free, ready-made AI agent for a task in the public RAPP Agent Registry."
+2026-10-04T21:32:54.575046Z,io.github.serkandrgn/glympt,Glympt,0.1.0,https://github.com/serkandrgn/glympt-mcp,streamable-http,"Paid domain technology enrichment, prospect search, bulk enrichment, saved lists and CSV exports."
+2026-10-04T21:33:30.158307Z,io.github.nimbusbci/nimbus-mcp,Nimbus BCI,0.5.1,https://github.com/nimbusbci/nimbus-mcp,,"AI agents build, train, and analyze BCI/EEG pipelines: data, models, experiments, live sessions."
+2026-10-04T21:33:57.673982Z,to.crosswalk/crosswalk,crosswalk,0.1.0,,streamable-http,"The first inbox built for you and AI: mail, newsletters, notes, and crosswalks agents share."
+2026-10-04T21:35:20.029122Z,com.sourcefinch/sourcefinch,SourceFinch,1.0.0,,streamable-http,"Evidence-grade monitoring of public web sources: changes, records and exports. Invite-only beta."
+2026-10-04T21:37:34.978828Z,com.bmcxiv/breach402-owner-protection,Breach402 Owner Protection,0.1.5,,streamable-http,Protect owners with private checks across 13.3B+ breach records and prioritized defenses.
+2026-10-04T21:39:43.953971Z,io.github.MontyGovernance/montycat-mcp,Montycat MCP - Shared Memory for AI Agents,1.1.6,https://github.com/MontyGovernance/montycat-mcp,,"Shared, persistent memory for AI agents, with semantic recall and live updates."
+2026-10-04T21:44:57.5651Z,net.modelbrain/mcp,,0.1.0,,,"Local memory for AI assistants: remember, recall, forget and expand, stored on your own computer."
+2026-10-04T21:45:28.136189Z,uk.co.leewinder/tcgdex,,0.0.4,https://gitlab.com/lee.winder/tcgdex-mcp-server,,MCP server exposing the TCGdex Pokémon TCG API to LLM tools
+2026-10-04T21:45:53.08705Z,io.github.kody-w/rapp-domains,,1.0.0,https://github.com/kody-w/rapp-chatgpt,streamable-http,"Check and price up to 20 domain names at once; agents can register them, paying per request."
+2026-10-04T21:48:10.376969Z,dev.mailprobe/mailprobe,MailProbe,1.0.0,,streamable-http,"Verify email addresses in real time: deliverability, disposable and role addresses, typo fixes."
+2026-10-04T21:48:38.244379Z,com.invoiceparserpro/ipp,InvoiceParser Pro,1.0.0,,streamable-http,"Invoice to Excel with the math checked: fields, line items and an arithmetic check from any invoice."
+2026-10-04T21:48:58.139629Z,io.github.MadPonyInteractive/cubric-studio,Cubric Studio,0.3.0,https://github.com/MadPonyInteractive/cubric-studio-agents,,"Make images, video and GIFs in the Cubric Studio desktop app. Needs Cubric Studio 2.0+."
+2026-10-04T21:49:57.526283Z,com.quailos/quailos,QuailOS,1.0.0,,streamable-http,"Farm management for poultry, quail & egg farms: flocks, eggs, hatches, orders, tasks, calendar."
+2026-10-04T21:50:43.737165Z,io.github.TsvetanG2/cognigy-ai-mcp-management-server,,0.2.0,https://github.com/TsvetanG2/cognigy-ai-mcp-management-server,,"MCP server for Cognigy.AI - 132 tools to build, configure & operate conversational AI agents"
+2026-10-04T21:54:44.97479Z,com.voydar/voydar,Voydar,1.0.0,,streamable-http,"Maritime intelligence: vessels, tracks, port calls, company fleets and sanctions screening, sourced."
+2026-10-04T21:57:20.87305Z,com.usegrowo/growo-growth,Growo child growth,1.1.0,,streamable-http,"Free child growth tools: percentiles, corrected age, target height, birth size. WHO and CDC tables."
+2026-10-04T22:01:12.334271Z,com.vocenya/docs,Vocenya Docs,1.0.0,https://github.com/gadyamedia/vocenya-mcp,streamable-http,"Read-only search over the Vocenya AI receptionist API docs and endpoints, with code samples."
+2026-10-04T22:01:12.652309Z,com.vocenya/platform,Vocenya,1.1.0,https://github.com/gadyamedia/vocenya-mcp,streamable-http,"Calls, leads, bookings, chats, outbound AI calls and Do Not Call for one Vocenya business."
+2026-10-04T22:01:13.255888Z,com.vocenya/site,Vocenya Site,1.0.0,https://github.com/gadyamedia/vocenya-mcp,streamable-http,"Read-only answers from vocenya.com: plans and prices, products, industries, locations, guides."
+2026-10-04T22:01:54.393772Z,com.viarapidaservices/mcp,Via Rapida Insurance (California),1.0.0,,streamable-http,"Licensed California insurance broker (#6003045), EN/ES: products, offices, quotes, guides, callback."
+2026-10-04T22:05:39.7576Z,io.github.tickiti/tickiti-mcp,Tickiti,0.2.0,https://github.com/tickiti/tickiti-mcp,,"Connect AI assistants to the Tickiti helpdesk API: tickets, queries, reports and admin."
+2026-10-04T22:08:42.782991Z,com.myinsurancecity/mcp,Insurance City (California commercial insurance),1.0.0,,streamable-http,"Licensed CA broker (#6003045), EN/ES: GL, workers comp, contractor bonds, landlord, callback."
+2026-10-04T22:09:11.142475Z,io.github.bilbop1/bilbop-x402,Bilbop x402,1.0.0,https://github.com/bilbop1/bilbop-x402-mcp,streamable-http,"Pay-per-call summarize, Solana data, TTS, and brand feedback via api.bilbop.org."
+2026-10-04T22:13:42.426135Z,io.github.lxxmng/container-loading,,0.3.0,https://github.com/lxxmng/loadingmcp-mcp,streamable-http,"Plan optimal container & truck loads: 3D layouts, utilization, centre of gravity, crush checks."
+2026-10-04T22:13:55.235834Z,com.smbcompare/smb-compare,SMB Compare,1.0.0,,streamable-http,"Ranks business software and payment providers by monthly cost at your numbers, AU, UK, US"
+2026-10-04T22:14:18.068913Z,work.funfriday/funfriday,Fun Friday,1.0.0,,streamable-http,"Host online team-building games: list games, open rooms and share join links, report results."
+2026-10-04T22:15:46.952367Z,io.github.lxxmng/ocean-schedules,,0.3.0,https://github.com/lxxmng/schedulesmcp-mcp,streamable-http,"Compare ocean carrier schedules, transit times and reliability: 60+ carriers, 72,000+ sailings."
+2026-10-04T22:16:38.416172Z,io.github.pipeworx-io/commoncrawl,Commoncrawl,0.1.2,https://github.com/pipeworx-io/mcp-commoncrawl,streamable-http,Common Crawl's public web archive — find every time a URL was crawled since 2008 and read the…
+2026-10-04T22:16:48.419999Z,io.github.pipeworx-io/stats-nz,Stats Nz,0.1.2,https://github.com/pipeworx-io/mcp-stats-nz,streamable-http,New Zealand official statistics (Aotearoa Data Explorer) — search Stats NZ's 911 published…
+2026-10-04T22:16:58.627571Z,io.github.pipeworx-io/uk-contracts,Uk Contracts,0.1.4,https://github.com/pipeworx-io/mcp-uk-contracts,streamable-http,UK Contracts Finder MCP.
+2026-10-04T22:17:08.627915Z,io.github.pipeworx-io/usaspending,Usaspending,0.1.3,https://github.com/pipeworx-io/mcp-usaspending,streamable-http,USAspending MCP — Federal spending data from USAspending.gov API
