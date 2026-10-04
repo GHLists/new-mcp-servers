@@ -9,27 +9,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 09:19 UTC
+## Latest list — 2026-10-04 10:20 UTC
 
-New MCP servers published between 2026-10-04 08:20 UTC and 2026-10-04 09:19 UTC.
+New MCP servers published between 2026-10-04 09:19 UTC and 2026-10-04 10:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-04T09-19-19-576981Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-04T10-20-12-449837Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-04 08:26:28 | [com.convika/convika](https://github.com/tomoyaf/convika-mcp) | Convika | 1.0.1 | Publish AI-made landing pages on your own domain, with a signup form and visito… |
-| 2026-10-04 08:27:17 | io.blocsmith/blocsmith | Blocsmith | 0.3.0 | Edit, publish and look after Blocsmith websites: pages, blog, SEO, images, stat… |
-| 2026-10-04 08:30:07 | com.kaneme/kaneme | Kaneme — Your writing identity, measure… | 5.0.0 | Build a voice from your own texts, measure whether a text still sounds like you… |
-| 2026-10-04 08:33:39 | [io.github.redoxnet/lsopenapi](https://github.com/redoxnet/mcp-lsopenapi) |  | 1.6.1 | LS Securities OpenAPI MCP server: Korean + overseas stocks, charts, screeners,… |
-| 2026-10-04 08:37:28 | [io.github.sepehr071/payping-mcp](https://github.com/sepehr071/payping-mcp) | PayPing | 0.1.0 | PayPing merchant account for agents: balance, sales, invoices; create invoices… |
-| 2026-10-04 08:43:37 | io.github.audit0/auditai-mcp | Audit AI | 0.4.1 | Finds authorization holes in Next.js + Supabase apps and live Supabase database… |
-| 2026-10-04 08:45:41 | io.github.michaelw-pr/veridu | Veridu | 1.0.0 | Code review that knows what depends on your change — before commit or on every… |
-| 2026-10-04 08:45:49 | [io.github.cirralink-stack/kevaremesh-gateway](https://github.com/cirralink-stack/cirralink) | KEVAREMESH AI Procurement Gateway | 0.4.55 | AI procurement gateway: finds and auto-selects live x402 APIs; provider payment… |
-| 2026-10-04 08:54:23 | io.github.mojomaxmojo/mojobus | MojoBus Travel Blog | 1.0.0 | Read-only MCP server for the MojoBus vanlife travel blog - 14 years, Portugal/A… |
-| 2026-10-04 08:54:28 | [com.oceanalt/aml](https://github.com/OceanAlt/oceanalt-aml-mcp) |  | 0.7.0 | Screen a payee address before an AI agent pays: sanctions, mixers, scam lists,… |
-| 2026-10-04 09:00:55 | [com.korushield/koru-shield](https://github.com/KoruShield/koru-shield-mcp) |  | 1.0.1 | Manage Koru Shield DNS filtering: profiles, rules, categories, schedules, and l… |
-| 2026-10-04 09:02:43 | ai.deepvalues/deepvalues | Deep Values | 1.1.0 | Value-investing research for US stocks: fundamentals, SEC filings, 13F guru hol… |
-| 2026-10-04 09:16:10 | [io.github.fr0ster/mcp-abap-adt](https://github.com/fr0ster/mcp-abap-adt) |  | 16.0.1 | MCP server for SAP ABAP ADT: repository analysis and CRUD for RAP and classic A… |
+| 2026-10-04 09:20:01 | [io.github.Nyarlathoteppppp/pi-durabletask-mcp](https://github.com/Nyarlathoteppppp/pi-durabletask-mcp) | Pi Durabletask MCP | 0.4.3 | Delegate Claude/Codex tasks to configured Pi, with steering and optional SQLite… |
+| 2026-10-04 09:22:52 | [io.github.JTCHE/houdini-mcp](https://github.com/JTCHE/houdini-mcp) | Houdini MCP | 0.7.2 | Connect agents to SideFX Houdini: edit the scene, cook, render, see the viewpor… |
+| 2026-10-04 09:24:49 | com.koruvai/koruvai | Koruvai | 1.0.0 | Your team's shared AI layer: team notes, skills, rules and MCP servers for ever… |
+| 2026-10-04 09:25:14 | io.github.kayalie/studycards |  | 0.3.0 | Flashcards for Claude: create, edit and study StudyCards decks with FSRS spaced… |
+| 2026-10-04 09:27:40 | com.trikalvaani/jyotish | Trikaal Vaani Jyotish | 1.2.0 | Vedic astrology (Jyotish): kundali, dasha, yog, dosha, muhurat, milan — Swiss E… |
+| 2026-10-04 09:28:31 | [io.maproll/maproll](https://github.com/maproll-io/mcp) |  | 0.2.2 | Make production-ready static maps. Every map is a URL you can embed anywhere. |
+| 2026-10-04 09:29:09 | [io.github.jarbon/carbon-lite](https://github.com/jarbon/carbon-lite) | Testers.ai CARBON Test Harness Lite | 0.1.0 | Local QA workflows, test evidence, screenshot maps and confidence reports for A… |
+| 2026-10-04 09:31:22 | [ai.team0/living-understanding](https://github.com/Team0-ai/team0-plugins) | Team0 Living Understanding | 1.0.0 | The second brain your AI agents share. It builds itself from your work and keep… |
+| 2026-10-04 09:38:14 | [io.github.SutramX/mcp-server](https://github.com/sutramx/mcp-server) | SutramX | 0.1.1 | SutramX uptime monitoring: monitors, check results, incidents, status pages and… |
+| 2026-10-04 09:40:08 | [io.github.mordechaipotash/brain-mcp](https://github.com/mordechaipotash/brain-mcp) | brain — the recorder | 2.0.0 | Records your Claude Code, Codex and Pi history before deletion. Cited-or-abstai… |
+| 2026-10-04 09:40:08 | [io.github.Dudude-bit/yandex-lavka-mcp](https://github.com/Dudude-bit/yandex-lavka-mcp) |  | 0.1.3 | Unofficial MCP server for ordering Yandex Lavka groceries: search, cart, checko… |
+| 2026-10-04 09:47:09 | io.github.34r7h/handoff | handoff — agent swarm coordination | 1.0.0 | Agent swarm coordination: find funded work, form teams, run tasks, message E2E,… |
+| 2026-10-04 09:55:04 | com.podlexicon/podlexicon | PodLexicon | 1.0.2 | Search and read AI summaries of 85,000+ podcast episodes across 145+ mostly lon… |
+| 2026-10-04 09:58:34 | [io.github.Karzone/TestAtlas.Mcp](https://github.com/Karzone/TestAtlas) | TestAtlas | 0.1.12 | Semantic map of a .NET test-automation solution for AI agents — search, impact,… |
+| 2026-10-04 09:59:08 | io.github.zuo305/agent-data-platform | NSW Development Applications (x402) | 0.1.0 | NSW development application data: search, nearby and detail tools. Paid per cal… |
+| 2026-10-04 09:59:19 | [cn.savantcat/geo-cn](https://github.com/savantcat/mcp-geo-cn) | 中文 AI 可引用性（GEO/AEO）体检 | 1.1.0 | 中文站能否被豆包/DeepSeek/文心/Kimi 抓取、读懂、引用：可引用性审计、信源池占位探测、五大指标测量、修复计划、观测时序追踪 |
+| 2026-10-04 09:59:21 | [cn.savantcat/ai-compliance](https://github.com/savantcat/savantcat-ai-compliance-mcp) | 中国 AI 合规与备案（条文级自查） | 1.1.0 | 生成式AI备案、AI生成内容标识、深度合成、算法备案：条文级问答 + 应办事项清单（中文） |
+| 2026-10-04 10:01:57 | io.crela/mcp | Crela | 1.3.1 | Search the Crela software marketplace and publish, update and review your softw… |
+| 2026-10-04 10:06:18 | [com.npubmail/npubmail](https://github.com/obvioussummer46/npubmail) | npubmail | 0.2.0 | Email inbox for AI agents, owned by a Nostr key. No signup or API key. Receive… |
 
 ## Data source
 
