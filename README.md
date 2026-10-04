@@ -9,32 +9,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 18:20 UTC
+## Latest list — 2026-10-04 19:18 UTC
 
-New MCP servers published between 2026-10-04 17:20 UTC and 2026-10-04 18:20 UTC.
+New MCP servers published between 2026-10-04 18:20 UTC and 2026-10-04 19:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-04T18-20-16-664962Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-04T19-18-40-787925Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-04 17:20:44 | com.professorotter/activities | Professor Otter | 1.0.0 | Free printable kids activities: word searches, mazes, color by number, sudoku a… |
-| 2026-10-04 17:22:14 | kz.tehprof.support/helpdesk | TehProf Support | 2.3.0 | Helpdesk tickets from your AI: find, reply, take, hold, complete — within your… |
-| 2026-10-04 17:27:21 | ai.ciphyr.agentmart/agentmart | AgentMart | 1.0.0 | Shop for AI agents: always-on utilities and tested code kits, paid from a prepa… |
-| 2026-10-04 17:32:05 | [io.github.gigatypeaura/memecorp-mcp](https://github.com/gigatypeaura/memecorp-mcp) |  | 0.1.0 | Read the memecorp.us meme feed; with an agent key, post, react and comment. |
-| 2026-10-04 17:34:34 | com.regtail/regtail | RegTail | 1.0.0 | UK used-car checks: MOT history, mileage and an advert's claims tested against… |
-| 2026-10-04 17:36:07 | [io.github.DenRakEiw/scumble](https://github.com/DenRakEiw/scumble) | Scumble | 0.1.41 | Agents drive a layered AI inpainting editor: select by text, inpaint, mask, lay… |
-| 2026-10-04 17:39:24 | [com.getskarn/skarn](https://github.com/skarn-security/skarn-dist) | Skarn | 0.33.0 | Scans AI coding sessions and assistant configs for leaked secrets and risky hoo… |
-| 2026-10-04 17:43:12 | [io.github.CultureClub-dev/alphabridge-mcp](https://github.com/CultureClub-dev/alphabridge-mcp-free) | AlphaBridge MCP for WordPress | 1.0.0 | WordPress MCP server plugin for Claude, ChatGPT and more. Reads by default, one… |
-| 2026-10-04 17:47:35 | xyz.block402/block402 | Block402 | 0.1.0 | Bitcoin + Ethereum RPC for AI agents. 44 tools. x402 required; Base Sepolia tes… |
-| 2026-10-04 17:49:02 | studio.trackforge/isrc-lookup | ISRC lookup and music royalties registr… | 1.0.0 | ISRC lookup: MLC registration check, ISWCs, writers and publishers with IPIs, C… |
-| 2026-10-04 18:05:34 | [io.github.Kirusshenkin/phosphor](https://github.com/Kirusshenkin/terminalOs) | Phosphor | 0.2.0 | Hosts, metrics, Docker and authorized_keys over a macOS terminal's live SSH con… |
-| 2026-10-04 18:09:51 | [io.github.Icaro0310/devin-memory](https://github.com/Icaro0310/devin-memory) |  | 0.3.0 | Anti-poisoning memory for agents: provenance, conflicts, quarantine gate. |
-| 2026-10-04 18:11:29 | io.github.omarrim/chartcraft |  | 1.0.0 | Forge designed Power BI projects (.pbip) from your agent, bound to your own sem… |
-| 2026-10-04 18:12:58 | [dev.districtapi/districtapi-mcp](https://github.com/DistrictAPI/districtapi-mcp) | DistrictAPI | 0.1.3 | US public school districts and schools by address — enrollment, demographics, b… |
-| 2026-10-04 18:12:59 | [dev.libraryapi/libraryapi-mcp](https://github.com/library-api/libraryapi-mcp) | LibraryAPI | 0.1.3 | US public libraries and branches near any address, with collections from the IM… |
-| 2026-10-04 18:13:00 | [dev.publicsafetyapi/publicsafetyapi-mcp](https://github.com/public-safety-api/publicsafetyapi-mcp) | PublicSafetyAPI | 0.1.3 | US police, fire, EMS and hospital locations near any address, from federal HIFL… |
-| 2026-10-04 18:13:37 | com.holidayfox/booking | HolidayFox | 1.0.0 | Search independent UK holiday stays, check live availability and exact prices,… |
-| 2026-10-04 18:19:42 | dev.ludoteca/ludoteca | ludoteca.dev | 1.0.0 | Open video game database: where to buy each game, store IDs, studios and publis… |
+| 2026-10-04 18:21:07 | io.github.KyleClouthier/secondstrike |  | 0.1.0 | Command a nation in SECOND STRIKE, a real-time war game. Join a war, give order… |
+| 2026-10-04 18:22:47 | [io.github.fbossiere/open-transcribe-mcp](https://github.com/fbossiere/open-transcribe-mcp) | OpenTranscribe MCP | 1.2.1 | Provider-independent speech-to-text with normalized transcripts over MCP. |
+| 2026-10-04 18:25:03 | [io.github.SSTEmpresarial/official-fuel-prices](https://github.com/SSTEmpresarial/official-fuel-prices-api-examples) | Official Fuel Prices | 1.0.0 | Live official fuel station prices for France, Spain, Italy and Western Australi… |
+| 2026-10-04 18:25:59 | [io.github.micropage-sh/mcp](https://github.com/micropage-sh/mcp) | Micropage | 0.1.1 | Create, edit and publish micropage.sh landing pages and blog posts from markup. |
+| 2026-10-04 18:26:14 | com.n9t2/xrpl-agent-gateway | N9T2 XRPL Agent Gateway | 1.0.0 | Paid XRPL infrastructure for autonomous agents via MCP and x402 USDC on Base. |
+| 2026-10-04 18:28:29 | [ai.ankimcp/anki-mcp-server](https://github.com/ankimcp/anki-mcp-server) | Anki MCP Server | 0.27.0 | MCP server for Anki flashcards: adaptive review, notes, media, and deck managem… |
+| 2026-10-04 18:32:03 | [io.github.pasichDev/docket](https://github.com/pasichDev/docket) |  | 3.1.0 | One list every AI tool you use can write to — scoped per project, local-first,… |
+| 2026-10-04 18:34:37 | ai.unlimitless/unl | Unl | 0.2.2 | Your why agent, the infra agent for your fleet. Your agents work from what you… |
+| 2026-10-04 18:36:16 | io.github.karta9821/json2toon | JSON to TOON | 1.0.0 | Convert JSON to TOON (about 40% fewer LLM tokens) and TOON back to JSON. Free,… |
+| 2026-10-04 18:44:25 | dev.hackshop/hackshop-mcp | hackshop | 0.0.5 | Plan and build a physical body for your AI agent: boards, parts list, assembly… |
+| 2026-10-04 18:49:20 | com.pandagreetings/cards | Panda Greetings | 1.5.5 | Printed greeting cards: find designs, or make one from a picture or message, th… |
+| 2026-10-04 18:50:18 | [io.github.wicahma/silverbullet-mcp](https://github.com/wicahma/silverbullet-mcp) | SilverBullet | 1.0.0 | List, read, write, append, delete and search markdown pages in a SilverBullet s… |
+| 2026-10-04 18:54:35 | io.github.suprraz/webzum | WebZum - Websites for Small & Local Bus… | 1.4.0 | Describe a local business, verify the owner email: SEO site, hosting, chatbot,… |
+| 2026-10-04 18:56:14 | [io.github.JakubTrousil/agentsjunction](https://github.com/JakubTrousil/agentsjunction) | AgentsJunction | 0.1.1 | Discover MCP servers and A2A agents; verify, message, post, follow, react, and… |
+| 2026-10-04 18:57:07 | nz.taxapp/taxapp | taxapp.nz | 1.0.0 | Your taxapp.nz income, expenses, rental properties and NZ tax figures, and addi… |
+| 2026-10-04 18:57:10 | [io.github.CallMarcus/securityscorecard-mcp](https://github.com/CallMarcus/security-scorecard-mcp) |  | 2.0.0 | Community-built, comprehensive MCP server for the SecurityScorecard API (unoffi… |
+| 2026-10-04 19:00:31 | io.globalgov/mcp | GlobalGov — Government Contracts, Tende… | 1.0.8 | Find government contracts, tenders and RFPs you can still bid on, in 193 countr… |
+| 2026-10-04 19:01:30 | ai.auteng/docs | AutEng Docs — Agent Document Workspace… | 1.2.1 | Agent document workspace with wallet auth. Create, update and share markdown do… |
+| 2026-10-04 19:07:24 | com.gateroam/mcp | GateRoam | 1.0.0 | Amadeus flight search, pricing and client offers for travel agencies, on their… |
+| 2026-10-04 19:09:04 | com.repondea/page-monitor | Repondea Page Monitor | 0.1.0 | Read saved website changes, compare before and after, and cite source URLs and… |
+| 2026-10-04 19:11:41 | [io.github.slabbdev/navette](https://github.com/slabbdev/navette) | navette — the browser for agents | 1.4.1 | A 659 KB Rust binary driving the OS WebView — no Chromium. 16 MCP tools for AI… |
+| 2026-10-04 19:11:57 | com.specjoin/hardware-compatibility | SpecJoin | 1.0.0 | Check computer, dock, monitor and charger compatibility with requirements and m… |
+| 2026-10-04 19:12:20 | com.faceabot/capability-network | Faceabot — autonomous AI agent network | 1.1.0 | AI agents: autonomous offers, needs, consented rooms and welcome ACTE. Legacy p… |
+| 2026-10-04 19:14:28 | [io.github.luckmanqasim/sota-anchor](https://github.com/luckmanqasim/sota-anchor) | sota-anchor | 0.2.0 | Finds what shipped after your coding agent's training, before it rebuilds it fr… |
+| 2026-10-04 19:15:19 | app.railway.up.rent-check-production/irish-rent-check | Irish rent check | 1.0.0 | Irish rent data (CSO/RTB): free county lookup; paid town/postcode query returns… |
+| 2026-10-04 19:17:30 | [io.github.Wandersonjack/avocado](https://github.com/Wandersonjack/avocado-ai-app) | Avocado AI | 1.2.1 | Generate AI images, videos, music, SFX & speech in any AI assistant. Results ap… |
 
 ## Data source
 

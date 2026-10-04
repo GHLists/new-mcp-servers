@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-10-04T18:21:07.03088Z,io.github.KyleClouthier/secondstrike,,0.1.0,,streamable-http,"Command a nation in SECOND STRIKE, a real-time war game. Join a war, give orders, climb the ladder."
+2026-10-04T18:22:47.211637Z,io.github.fbossiere/open-transcribe-mcp,OpenTranscribe MCP,1.2.1,https://github.com/fbossiere/open-transcribe-mcp,,Provider-independent speech-to-text with normalized transcripts over MCP.
+2026-10-04T18:25:03.108464Z,io.github.SSTEmpresarial/official-fuel-prices,Official Fuel Prices,1.0.0,https://github.com/SSTEmpresarial/official-fuel-prices-api-examples,streamable-http,"Live official fuel station prices for France, Spain, Italy and Western Australia in one schema."
+2026-10-04T18:25:59.217105Z,io.github.micropage-sh/mcp,Micropage,0.1.1,https://github.com/micropage-sh/mcp,,"Create, edit and publish micropage.sh landing pages and blog posts from markup."
+2026-10-04T18:26:14.695672Z,com.n9t2/xrpl-agent-gateway,N9T2 XRPL Agent Gateway,1.0.0,,streamable-http,Paid XRPL infrastructure for autonomous agents via MCP and x402 USDC on Base.
+2026-10-04T18:28:29.903104Z,ai.ankimcp/anki-mcp-server,Anki MCP Server,0.27.0,https://github.com/ankimcp/anki-mcp-server,,"MCP server for Anki flashcards: adaptive review, notes, media, and deck management via AnkiConnect."
+2026-10-04T18:32:03.693625Z,io.github.pasichDev/docket,,3.1.0,https://github.com/pasichDev/docket,,"One list every AI tool you use can write to — scoped per project, local-first, self-hostable."
+2026-10-04T18:34:37.977754Z,ai.unlimitless/unl,Unl,0.2.2,,streamable-http,"Your why agent, the infra agent for your fleet. Your agents work from what you decided, and why."
+2026-10-04T18:36:16.072985Z,io.github.karta9821/json2toon,JSON to TOON,1.0.0,,streamable-http,"Convert JSON to TOON (about 40% fewer LLM tokens) and TOON back to JSON. Free, no auth."
+2026-10-04T18:44:25.096172Z,dev.hackshop/hackshop-mcp,hackshop,0.0.5,,streamable-http,"Plan and build a physical body for your AI agent: boards, parts list, assembly and pairing."
+2026-10-04T18:49:20.877288Z,com.pandagreetings/cards,Panda Greetings,1.5.5,,streamable-http,"Printed greeting cards: find designs, or make one from a picture or message, then order on our site."
+2026-10-04T18:50:18.473153Z,io.github.wicahma/silverbullet-mcp,SilverBullet,1.0.0,https://github.com/wicahma/silverbullet-mcp,,"List, read, write, append, delete and search markdown pages in a SilverBullet space."
+2026-10-04T18:54:35.366566Z,io.github.suprraz/webzum,WebZum - Websites for Small & Local Businesses,1.4.0,,streamable-http,"Describe a local business, verify the owner email: SEO site, hosting, chatbot, Google Ads."
+2026-10-04T18:56:14.759019Z,io.github.JakubTrousil/agentsjunction,AgentsJunction,0.1.1,https://github.com/JakubTrousil/agentsjunction,streamable-http,"Discover MCP servers and A2A agents; verify, message, post, follow, react, and receive webhooks."
+2026-10-04T18:57:07.737168Z,nz.taxapp/taxapp,taxapp.nz,1.0.0,,streamable-http,"Your taxapp.nz income, expenses, rental properties and NZ tax figures, and adding new records."
+2026-10-04T18:57:10.715093Z,io.github.CallMarcus/securityscorecard-mcp,,2.0.0,https://github.com/CallMarcus/security-scorecard-mcp,,"Community-built, comprehensive MCP server for the SecurityScorecard API (unofficial)."
+2026-10-04T19:00:31.123591Z,io.globalgov/mcp,"GlobalGov — Government Contracts, Tenders & Procurement",1.0.8,,streamable-http; streamable-http,"Find government contracts, tenders and RFPs you can still bid on, in 193 countries. Free, no key."
+2026-10-04T19:01:30.935975Z,ai.auteng/docs,AutEng Docs — Agent Document Workspace & Publishing,1.2.1,,streamable-http,"Agent document workspace with wallet auth. Create, update and share markdown docs. By AutEng.ai"
+2026-10-04T19:07:24.294355Z,com.gateroam/mcp,GateRoam,1.0.0,,streamable-http,"Amadeus flight search, pricing and client offers for travel agencies, on their own contract."
+2026-10-04T19:09:04.724776Z,com.repondea/page-monitor,Repondea Page Monitor,0.1.0,,streamable-http,"Read saved website changes, compare before and after, and cite source URLs and observation dates."
+2026-10-04T19:11:41.164517Z,io.github.slabbdev/navette,navette — the browser for agents,1.4.1,https://github.com/slabbdev/navette,,A 659 KB Rust binary driving the OS WebView — no Chromium. 16 MCP tools for AI agents.
+2026-10-04T19:11:57.183829Z,com.specjoin/hardware-compatibility,SpecJoin,1.0.0,,streamable-http,"Check computer, dock, monitor and charger compatibility with requirements and manufacturer sources."
+2026-10-04T19:12:20.589885Z,com.faceabot/capability-network,Faceabot — autonomous AI agent network,1.1.0,,streamable-http,"AI agents: autonomous offers, needs, consented rooms and welcome ACTE. Legacy paths remain separate."
+2026-10-04T19:14:28.067992Z,io.github.luckmanqasim/sota-anchor,sota-anchor,0.2.0,https://github.com/luckmanqasim/sota-anchor,,"Finds what shipped after your coding agent's training, before it rebuilds it from scratch."
+2026-10-04T19:15:19.081272Z,app.railway.up.rent-check-production/irish-rent-check,Irish rent check,1.0.0,,streamable-http,Irish rent data (CSO/RTB): free county lookup; paid town/postcode query returns x402/MPP terms.
+2026-10-04T19:17:30.221958Z,io.github.Wandersonjack/avocado,Avocado AI,1.2.1,https://github.com/Wandersonjack/avocado-ai-app,streamable-http,"Generate AI images, videos, music, SFX & speech in any AI assistant. Results appear inline in chat."
