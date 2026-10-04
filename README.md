@@ -9,31 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 01:18 UTC
+## Latest list — 2026-10-04 02:18 UTC
 
-New MCP servers published between 2026-10-04 00:19 UTC and 2026-10-04 01:18 UTC.
+New MCP servers published between 2026-10-04 01:18 UTC and 2026-10-04 02:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-04T01-18-53-67499Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-04T02-18-52-288727Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-04 00:19:28 | io.github.Alex-Proof/alex-evidence-verify-mcp | ALEX Evidence Verify | 0.1.1 | Verify signed ALEX Evidence Packages. Fails closed on signature or schema error… |
-| 2026-10-04 00:19:30 | eu.reqlio/reqlio | Reqlio | 0.1.0 | Read and edit requirements, traces, verification, risks and reviews in a Reqlio… |
-| 2026-10-04 00:21:07 | [io.github.ArneFfm/ecoaloha](https://github.com/ArneFfm/ecoaloha-agents) | EcoAloha | 1.2.0 | Search and compare outdoor experiences. Public keyless API; booking and payment… |
-| 2026-10-04 00:30:21 | [io.github.arvindand/maven-tools-mcp](https://github.com/arvindand/maven-tools-mcp) |  | 3.2.3 | JVM dependency intelligence for AI assistants via Maven Central |
-| 2026-10-04 00:33:31 | [io.github.GoodTurnStudio/fairfare](https://github.com/GoodTurnStudio/goodturn-mcp) | Fair Fare | 1.0.0 | What a taxi, Uber or Lyft should cost, airport pickup rules, and overcharge che… |
-| 2026-10-04 00:33:31 | [io.github.GoodTurnStudio/artspotter](https://github.com/GoodTurnStudio/goodturn-mcp) | Art Spotter - Eye of the Beholder | 1.0.0 | Original art and prints from independent artists, fair prices, and help for art… |
-| 2026-10-04 00:35:33 | com.cardvolume/market-data | CardVolume | 1.0.0 | Verified trading card sales and prices by grade: Pokemon, Magic, Yu-Gi-Oh!, spo… |
-| 2026-10-04 00:42:25 | [com.commareports/comma](https://github.com/doramirdor/comma-plugin) | Comma | 1.0.0 | Publish HTML reports to a share link, collect anchored comments, revise at the… |
-| 2026-10-04 00:46:33 | org.living-bread.mcp/living-bread | The Living Bread | 1.0.0 | Scripture, verses for a need, grounded answers, real churches and gatherings ne… |
-| 2026-10-04 00:50:35 | [io.github.ArneFfm/shared-forest](https://github.com/ArneFfm/shared-forest-agents) | Shared Forest | 1.5.0 | Plant or sponsor trees in a shared forest that grows from its traffic. Sponsori… |
-| 2026-10-04 00:53:45 | io.github.Nero-Engine/job-post-enricher | Job Post Enricher: Salary, Seniority, R… | 0.1.0 | AI salary, seniority, remote, visa and skills fields for LinkedIn, Indeed or an… |
-| 2026-10-04 00:58:01 | [io.github.Grinv/steam-games-mcp](https://github.com/Grinv/steam-games-mcp) | Steam MCP Server | 0.15.0 | Steam store/game data (no key) plus player profiles, libraries and achievements… |
-| 2026-10-04 00:59:26 | io.github.ysgjay/token-command-center | Token Command Center | 0.3.0 | Free token data: revenue, net flow after emissions, supply/unlock history, cata… |
-| 2026-10-04 00:59:59 | [dev.markpin/mcp](https://github.com/mud-studio/markpin-mcp) | Markpin | 0.7.1 | Search and read the web pages and highlights you saved with the Markpin Chrome… |
-| 2026-10-04 01:13:12 | io.github.mahadrehman239-del/causara-economic-control | Causara Economic Control | 0.1.0 | Economic exposure and control decisions for autonomous AI actions in Shadow Mod… |
-| 2026-10-04 01:14:35 | [io.github.HorizunGroup/horizun-pbi-mcp](https://github.com/HorizunGroup/horizun-pbi-mcp) | Horizun PBI MCP | 2.1.2 | Build, audit and repair Power BI Desktop models and PBIP reports with DAX, TMDL… |
-| 2026-10-04 01:17:54 | app.openkrill/outreach-desk | Outreach Desk | 1.0.0 | Score inbound recruiter and sales pitches on relevance, specificity, cadence an… |
+| 2026-10-04 01:28:58 | [cash.u/ucash-pay](https://github.com/UdotCASH/mcp-ucash) | U.CASH Pay | 0.9.0 | Pay x402 resources on U.CASH from your own wallet: view the price, pay on-chain… |
+| 2026-10-04 01:33:33 | [io.github.Viventine-Space/orbit-sentinel-mcp](https://github.com/viventine-space/orbit-sentinel-mcp) | Orbit Sentinel — Space Regulatory Filin… | 0.6.7 | Search 950K+ space regulatory filings from FCC, ITU, UNOOSA, FAA-AST: entities,… |
+| 2026-10-04 01:34:11 | com.webanto/webanto | Webanto | 1.0.0 | Store catalog, AI product copy proposals, Search Console opportunities and org… |
+| 2026-10-04 01:36:24 | ai.marketbrew/marketbrew | Market Brew | 1.0.0 | Read-only Market Brew search engine modeling and AI visibility data via OAuth. |
+| 2026-10-04 01:37:12 | [io.github.sapientsai/dokploy-mcp-server](https://github.com/sapientsai/dokploy-mcp-server) |  | 1.10.0 | Dokploy MCP server: manage apps, Docker Compose, databases, domains, backups, a… |
+| 2026-10-04 01:42:32 | ai.organicus/organicus | Organicus | 1.0.0 | Your brand's visibility in AI assistants: audit findings, weekly answers, and w… |
+| 2026-10-04 01:42:47 | com.agentanthill/agent-anthill | Agent Anthill | 0.3.0 | Drop-and-claim storage for AI agents: store a file, hand over a ticket, pay per… |
+| 2026-10-04 01:43:18 | io.github.ReedStories/mcpbinder | MCPBinder | 1.2.0 | Read project context and manage tasks in MCPBinder, with access you control. |
+| 2026-10-04 01:44:33 | com.espressosteals/catalog | Espresso Steals | 1.0.0 | Espresso gear price history: live Amazon prices, 2+ years of daily data, BUY ca… |
+| 2026-10-04 01:54:52 | [io.github.ArneFfm/animal-checklist](https://github.com/ArneFfm/animal-checklist-agents) | Animal Checklist | 1.1.0 | Search animals in eight languages with habitats, countries, photos and source c… |
+| 2026-10-04 01:54:53 | [io.github.ArneFfm/animal-checklist-account](https://github.com/ArneFfm/animal-checklist-agents) | Animal Checklist Account | 1.1.0 | Read your private animal sightings and mark species seen with a revocable accou… |
+| 2026-10-04 01:58:23 | ai.salespeak/company-context | Salespeak Company Context | 1.0.0 | Answers about your own company from its recorded knowledge, and shows where its… |
+| 2026-10-04 02:02:33 | [io.github.proompteng/bilig-workpaper](https://github.com/proompteng/bilig) | Bilig WorkPaper | 1.1.0 | Formula-backed WorkPaper tools for workbook readback, input edits, and JSON per… |
+| 2026-10-04 02:05:41 | [io.github.stimQQ/apimodels-mcp](https://github.com/stimQQ/apimodels-mcp) | apimodels | 0.4.1 | Image, video, chat and speech models with one API key. The model can review its… |
+| 2026-10-04 02:08:09 | [tw.regai/legal](https://github.com/RegAI-tw/regai-legal-mcp) | RegAI Legal MCP (Taiwan) | 1.1.0 | Taiwan law and court decisions for your AI: statutes, articles and rulings, rea… |
+| 2026-10-04 02:08:54 | [com.quantlix/content](https://github.com/AliMuhammadOfficial/quantlix-agents) | Quantlix public content | 2.0.0 | Search and read published Quantlix services, company information and insights. |
+| 2026-10-04 02:12:04 | com.onrender.draconic21-x402-api/data-tools | draconic21 x402 Data Tools | 0.1.0 | Free SEC EDGAR, OFAC and Treasury previews; optional x402-paid data and agent r… |
+| 2026-10-04 02:12:08 | io.aivyro/mcp | Aivyro | 1.0.0 | CRM, inbox, meetings, revenue intelligence, analytics and automations for AI ag… |
+| 2026-10-04 02:13:42 | com.faredice/trips | FareDice | 1.0.0 | Cheap multi-country trips in Europe and Southeast Asia from recent non-stop far… |
+| 2026-10-04 02:15:26 | [io.github.cyanheads/sanctions-screening-mcp-server](https://github.com/cyanheads/sanctions-screening-mcp-server) |  | 0.5.0 | Screen names against OFAC, EU, UK, UN sanctions lists; resolve entities via GLE… |
+| 2026-10-04 02:16:24 | dev.opx-status/opx | OPX | 0.1.0 | Buyer-side machine commerce: choose where to spend using recent paid x402 provi… |
+| 2026-10-04 02:17:10 | io.github.leejaejeon/beobi-daneun-got | 법이 닿는 곳 (Where Law Reaches) | 1.0.0 | Korean statutes, precedents, local business-district stats and public procureme… |
 
 ## Data source
 
