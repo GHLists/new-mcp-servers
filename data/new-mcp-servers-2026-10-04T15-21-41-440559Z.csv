@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-10-04T14:22:27.21931Z,com.weatherthatdoesntsuck/weather,Weather That Doesn't Suck,1.0.0,,streamable-http,"Weather decisions for outdoor plans: should I go, when, what to wear, what you will meet en route."
+2026-10-04T14:24:11.62428Z,com.wcway/wcway,wcway,0.1.0,https://github.com/ArneFfm/wcway-agents,streamable-http,"Find the nearest public toilet worldwide. Read-only tools, no account, no API key."
+2026-10-04T14:34:17.041727Z,io.github.saulius876-lgtm/wechat-articles,WeChat Article Search,1.0.0,,streamable-http,"Search WeChat official account articles by keyword: title, account, date, link, full text."
+2026-10-04T14:35:17.841223Z,com.cumulativeweb/cwi-mcp-server,CWI MCP Server,0.3.0,https://github.com/CumulativeWebInc/cwi-mcp-server,,"Read-only MCP server: CWI Gear Ledger reads, deterministic trust scoring, NEEDLE DROP verification."
+2026-10-04T14:39:26.069634Z,com.sylvarajob/sylvarajob,SylvaraJob,1.1.0,,streamable-http,"Job offers from Spanish SMEs and other companies: search by text, area or work mode and open offers"
+2026-10-04T14:48:14.031083Z,app.sabli/minds,Sabli,1.0.0,,streamable-http,"Ask AI minds of real, named experts: answers, workflows and critiques in their judgment."
+2026-10-04T14:48:18.219019Z,tools.feedback/mcp,feedback.tools,1.0.0,,streamable-http,"Customer feedback for your AI assistant: CSAT, NPS and CES scores, response search, AI themes."
+2026-10-04T14:50:39.14674Z,io.github.zrk222/code-factory,,0.47.0,https://github.com/zrk222/code-factory,,"Local proof facts for AI coding clients: intent, tests, Graph Ops, and review evidence."
+2026-10-04T14:52:06.642558Z,io.github.spokenmd/spoken,Spoken,0.4.0,https://github.com/spokenmd/spoken,,Podcast transcripts as clean Markdown with real speaker names — via the Spoken API.
+2026-10-04T14:53:03.653434Z,io.github.n0zer0d4y/vulcan-file-ops,,1.3.0,,,"MCP server for AI assistants: read, write, edit, and manage files securely on local filesystem."
+2026-10-04T15:01:54.367203Z,ai.askatria/atria,Atria,1.2.0,,streamable-http,"US site diligence for agents: parcels, power, flood, zoning rules and more, each with its source."
+2026-10-04T15:02:18.409135Z,xyz.secondedoracle/seconded-mcp,SECONDED,0.3.3,,,"The oracle for agents. Verify trades, tokens and messages before your agent acts."
+2026-10-04T15:04:39.733699Z,it.prezzinvista/radar-volantini,Prezzinvista - Radar dei Volantini,1.3.0,,streamable-http,Italy only: current offers and weekly price trends from the flyers of Italian store chains.
+2026-10-04T15:07:13.288786Z,com.mypinpal/notes,Pinpal Notes,1.3.0,,streamable-http,"Markdown notes in folders, with files, that your AI assistant can read, write and organise."
+2026-10-04T15:07:19.386421Z,com.mypinpal/projects,Pinpal Projects,1.1.0,,streamable-http,"Personal project management with AI agents: numbered tickets, statuses, files, a thread per ticket."
+2026-10-04T15:07:23.908388Z,io.botx402/server,botx402,0.1.0,,streamable-http,"Inventory reorder plans from SKU sales, stock and lead times. $19 a run, paid by card."
+2026-10-04T15:07:24.068484Z,com.mypinpal/todo,Pinpal Todo,1.1.0,,streamable-http,"A quiet to-do list your AI assistant can read, add to, edit, star and check off, with notes."
+2026-10-04T15:09:50.078912Z,io.github.eduplopez/mcp-voice-summary,,0.1.1,https://github.com/eduplopez/mcp-voice-summary,,Reads a summary out loud when an AI coding task finishes. Offline or neural voices.
+2026-10-04T15:16:09.683533Z,io.github.ShubhamTuts/prosyo,Prosyo MCP Server,1.0.0,https://github.com/ShubhamTuts/prosyo-mcp-server,streamable-http,"Zero-config Prosyo MCP for LinkedIn, cold email, and inbox. No API key."
+2026-10-04T15:19:04.314182Z,com.duelamp/poker,DuelAmp,1.0.0,,streamable-http,Heads-up poker for AI agents: play live matches against other agents while your owner coaches.
+2026-10-04T15:20:30.594912Z,io.github.54yyyu/zotero-mcp,Zotero MCP,0.13.2,https://github.com/54yyyu/zotero-mcp,,"Search, read, annotate, and add to your Zotero research library, local or web."
+2026-10-04T15:20:59.777031Z,info.workingproxysites/provider-directory,Working Proxy Sites,1.3.0,,streamable-http,"Research proxy providers, compare published prices, and discover provider MCP integrations."
