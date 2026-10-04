@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-10-04T03:26:24.795461Z,io.github.aktonay/snapdec,,0.3.0,,,Snap decisions for coding agents: local or hosted classify/check/score/rank via MCP.
+2026-10-04T03:27:56.482886Z,io.elevaredigital/recibopro,ReciboPro Invoices,1.0.0,,streamable-http,"Create invoices from your AI assistant in 6 languages and 10 currencies, ready for WhatsApp."
+2026-10-04T03:39:12.08313Z,au.com.nempulse/nempulse,,1.1.1,https://github.com/FDSchaefer/bessPerformance,streamable-http,"Australian NEM battery (BESS) data for AI agents: revenue, dispatch, FCAS, events. Free, no auth."
+2026-10-04T03:40:46.214056Z,ai.tigertiger/tigertiger,,1.0.0,,streamable-http,"Chief of Staff, strategy and writing tools that give your Claude subscription structure and memory."
+2026-10-04T03:45:14.995133Z,com.listsignal/listsignal,ListSignal,1.0.0,https://github.com/giushansen/listsignal-mcp,streamable-http,"B2B sales intelligence: tech stack, Shopify apps, revenue, hiring and contacts for 16M+ domains"
+2026-10-04T03:52:17.187547Z,com.tickerz/tickerz,Tickerz,1.0.0,,streamable-http,"Daily indexes of what people do, from public data and the chain, sealed in Bitcoin. Free."
+2026-10-04T03:52:37.188151Z,io.github.teamshift-io/sandbox-mcp,SMB Sandbox,0.1.0,https://github.com/teamshift-io/smb-sandbox,,"Mock small-business CRM, inbox, calendar, invoicing and phone tools for testing AI agents safely."
+2026-10-04T03:59:02.409467Z,io.github.matsumotojoho/linkjumkey,LinkJumkey,1.8.12,,,Search and create LinkJumkey link buttons from AI apps. Needs LinkJumkey Desktop on the same PC.
+2026-10-04T04:07:44.313803Z,io.github.craftbag/craftbag-mcp,craftbag,0.2.1,https://github.com/craftbag/craftbag,,"MCP server to list, load, explain, and validate Agent Skills."
+2026-10-04T04:07:55.972815Z,io.github.Insightwithhari/rbai-scholar,RBAi Scholar,1.0.0,,streamable-http,"Search 11 million biomedical abstracts (PubMed, bioRxiv, medRxiv) by meaning or by exact terms."
+2026-10-04T04:08:55.235342Z,ai.everpod/everpod,Everpod,0.1.0,https://github.com/everpod-ai/mcp,streamable-http,Managed hosting for open-source AI agents: see your pods and start a new one from your own agent.
+2026-10-04T04:10:40.389083Z,io.github.FunplayAI/funplay-unity-mcp,Funplay Unity MCP,0.6.10,https://github.com/FunplayAI/funplay-unity-mcp,,stdio bridge for the local Unity Editor MCP server from FunplayAI/funplay-unity-mcp.
+2026-10-04T04:12:28.587907Z,io.dropl/mcp,Dropl MCP,0.6.0,https://github.com/develanet/dropl-mcp,,"Create client-editable photo and video galleries from Cursor or Claude Code, then embed them."
+2026-10-04T04:15:30.890124Z,io.github.cloudalien2025/vailvacay-directory,VailVacay Directory,1.0.0,,streamable-http,"Search 355+ curated Vail Valley, Colorado restaurants, hotels, activities, shops and services."
+2026-10-04T04:15:31.179744Z,io.github.cloudalien2025/bangkokvacay-directory,BangkokVacay Directory,1.0.0,,streamable-http,"Search curated Bangkok, Thailand tours, activities, hotels, restaurants, nightlife and services."
+2026-10-04T04:15:31.43624Z,io.github.cloudalien2025/bostonvacay-directory,BostonVacay Directory,1.0.0,,streamable-http,"Search curated Boston, MA tours, activities, hotels, restaurants, nightlife and services."
+2026-10-04T04:15:31.690202Z,io.github.cloudalien2025/1800deals-directory,1-800Deals Directory,1.0.0,,streamable-http,Search a national directory of 1-800 / toll-free / vanity-number businesses and services.
+2026-10-04T04:17:23.32453Z,io.github.thu-lawyer/china-law-mcp,China Law MCP,0.1.0,https://github.com/thu-lawyer/china-law-mcp,,"Search 23,995 Chinese statutes and verify citations to catch LLM-fabricated references."
