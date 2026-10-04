@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-04T22:20:50.143593Z,io.github.Power-Portals-Pro/powerportalspro-mcp,Power Portals Pro,10.1.0,https://github.com/Power-Portals-Pro/PowerPortalsPro-Feedback,,"Component API, code samples and Dataverse metadata for building Power Portals Pro portals."
+2026-10-04T22:21:10.496493Z,io.github.Projetxana/gate-authority-network,,0.1.0-dev.4,https://github.com/Projetxana/gate-authority-network,,Live authority-state verification for agent actions at effect time.
+2026-10-04T22:24:51.037151Z,app.rowb.caz-cost/zones,CAZ Cost,1.0.0,,streamable-http,"UK Clean Air Zone daily charges by council, per vehicle class, and what a trip costs."
+2026-10-04T22:28:01.866621Z,com.useretainer/tools,Retainer: consulting tools,1.1.0,,streamable-http,"Free tools for consultants: stakeholder maps, rates, capacity, client profitability, follow-ups."
+2026-10-04T22:28:05.177235Z,com.buyingmesh/procurement,BuyingMesh Procurement,0.3.1,,streamable-http,"Structured B2B supply search, quoting, sandbox orders and fulfillment status for agents."
+2026-10-04T22:34:25.028437Z,xyz.costrinity/vitna-compliance-preflight,VITNA — Agent Compliance Preflight,0.5.1,https://github.com/COSTRINITY/vitna-compliance-mcp,streamable-http,"Pre-action compliance for AI agents: allow, block or hold. 24 statutes, 13 jurisdictions."
+2026-10-04T22:39:21.707328Z,com.transportial/tms,Transportial,1.0.0,,streamable-http,"Plan trips, manage transport orders, track vehicles and handle quotes and invoices in Transportial."
+2026-10-04T22:39:41.333162Z,ai.zihin/mcp-server,Zihin,2.2.2,https://github.com/zihin-ai/zihin-mcp,streamable-http,"Chat with your Zihin.ai agents, list them and load platform skills from any MCP client."
+2026-10-04T22:43:56.310825Z,io.github.tehtelabs/cheapestllmapi,Cheapest LLM API,1.0.0,https://github.com/tehtelabs/cheapestllmapi,streamable-http,"Compare LLM API prices, search models and providers, and access reviewed benchmark results."
+2026-10-04T22:44:41.978166Z,ai.kontato/kontato,,1.1.0,,streamable-http,Give your AI agents a WhatsApp number and a voice: they message you and call you.
+2026-10-04T22:44:57.897428Z,io.github.whatevercat-creator/crypto-sentiment-x402,,0.1.1,https://github.com/whatevercat-creator/crypto-sentiment-x402,,"Ticker sentiment from 9 crypto news outlets + Fear & Greed over 72h, with the headlines behind it"
+2026-10-04T22:45:41.097965Z,io.github.datadynedev/pulse-mcp,PULSE MCP,1.0.0,https://github.com/DataDyneTechnologies/pulse-mcp,streamable-http,Live KPIs and shop data for Tekmetric and Shop-Ware. 29 read-only tools.
+2026-10-04T22:46:07.202705Z,io.github.marcioyoshida/mediaframe,Media Frame — how policy ideas move from think tanks into the official record,1.0.0,,streamable-http,"US/EU and Brazil policy signals, trajectories, actors, people and edits, with sources; cited Q&A"
+2026-10-04T23:08:58.730084Z,ai.switchbooks/switchbooks,Switchbooks,1.0.1,https://github.com/drylandbeard/switchbooks-mcp,streamable-http,"Bookkeeping and accounting: P&L, balance sheet, cash flow, transactions, accounts, payees, rules."
+2026-10-04T23:10:46.040536Z,com.conv2pdf/conv2pdf,conv2pdf,1.0.0,https://github.com/jamalofski/conv2pdf-mcp,,"Convert Office files, images and e-books to PDF; merge, compress or protect local PDFs."
+2026-10-04T23:15:11.425888Z,io.github.cloudwise-app/cloudcostwise,cloudcostwise,0.1.0,https://github.com/cloudwise-app/cloudcostwise,,Find AWS waste with your own read-only credentials. Runs locally; nothing leaves your machine.
+2026-10-04T23:17:44.610465Z,io.github.bkraad47/ramen,Ramen,0.6.1,https://github.com/bkraad47/ramen,streamable-http,"Self-hosted, multi-zone MCP server for Kubernetes (GKE/EKS): git repo of tools in, canary deploys."
