@@ -9,34 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 00:18 UTC
+## Latest list — 2026-10-05 01:20 UTC
 
-New MCP servers published between 2026-10-04 23:18 UTC and 2026-10-05 00:18 UTC.
+New MCP servers published between 2026-10-05 00:18 UTC and 2026-10-05 01:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-05T00-18-52-650556Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-05T01-20-45-900478Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-04 23:22:22 | pro.tvarka/sign |  | 1.9.0 | Qualified electronic signatures: request signing, track ceremonies and download… |
-| 2026-10-04 23:26:13 | [io.github.kody-w/rapp-name-finder](https://github.com/kody-w/rapp-chatgpt) |  | 1.0.0 | Name a business or project; check which domains and GitHub names are free, with… |
-| 2026-10-04 23:30:22 | pro.tvarka/due-diligence |  | 1.3.1 | Lithuanian company due diligence and KYC identification, attested by an attorne… |
-| 2026-10-04 23:35:34 | [io.github.greencore-solutions/a2a-retailmedia](https://github.com/greencore-solutions/a2a-retailmedia) | A2A Retailmedia — the agentic retail-me… | 1.0.0 | Connecting grocery retail to 350k makers for media buys. |
-| 2026-10-04 23:39:36 | [io.github.yourmatematt/agent-billboard-mcp](https://github.com/yourmatematt/agent-billboard-mcp) | Agent Billboard | 0.5.0 | Read and post to The Agent Billboard on Solana, with spend limits in code and a… |
-| 2026-10-04 23:41:03 | [io.github.AgentForge-Labs/site-screenshot](https://github.com/AgentForge-Labs/site-screenshot-public) | ScreenshotMCP | 0.3.0 | Desktop and mobile website screenshots plus page context for AI agents and auto… |
-| 2026-10-04 23:44:11 | [io.github.SerpKite/serpkite](https://github.com/SerpKite/serpkite-mcp) | SerpKite | 1.0.0 | Google search, news, maps, scholar and public webpages for AI agents, with Mark… |
-| 2026-10-04 23:56:11 | [com.commonelements/data](https://github.com/CommonElements/common-elements-claude-plugins) | Common Elements | 1.1.0 | Community association records, statutes, licenses, RFPs and the change feed. OA… |
-| 2026-10-04 23:56:37 | com.useproductify/productify | Productify | 2.0.0 | Create, write and publish Printify products from chat, after a preview you appr… |
-| 2026-10-04 23:58:33 | [io.github.cnmars/marsgeo](https://github.com/cnmars/MarsGeo) |  | 1.0.0 | Generate SEO structured data: JSON-LD schema, robots.txt, sitemaps, hreflang, O… |
-| 2026-10-04 23:59:58 | com.oncarousel/carousel | Carousel | 1.2.0 | Onboard any applicant with one link: ID, credit, bank and income, court and pol… |
-| 2026-10-05 00:06:05 | cl.preparalapaes/alumnos | PRO Universitas · PAES | 1.0.0 | Practica para la PAES y revisa tu avance en PRO Universitas: ensayos, puntaje p… |
-| 2026-10-05 00:06:09 | [io.github.industrial-platform-ai/monitor-wallet](https://github.com/industrial-platform-ai/industrial-platform-agent-tools) | Industrial Platform Wallet Monitor | 1.0.0 | Recurring wallet, USDC and ERC-20 monitoring for autonomous agents. |
-| 2026-10-05 00:06:09 | [io.github.industrial-platform-ai/treasury](https://github.com/industrial-platform-ai/industrial-platform-agent-tools) | Industrial Platform Treasury | 1.0.0 | Recurring crypto treasury snapshots with balances, activity and gas state. |
-| 2026-10-05 00:06:10 | [io.github.industrial-platform-ai/market-data](https://github.com/industrial-platform-ai/industrial-platform-agent-tools) | Industrial Platform Market Data | 1.0.0 | Recurring crypto price, candles, order-book and market snapshot data for agents. |
-| 2026-10-05 00:06:10 | [io.github.industrial-platform-ai/transaction-watch](https://github.com/industrial-platform-ai/industrial-platform-agent-tools) | Industrial Platform Transaction Watch | 1.0.0 | Poll EVM transactions until confirmed or reverted with recurring x402 payments. |
-| 2026-10-05 00:06:12 | [io.github.industrial-platform-ai/pretrade](https://github.com/industrial-platform-ai/industrial-platform-agent-tools) | Industrial Platform Pretrade | 1.0.0 | Pre-trade wallet, allowance, gas, price and order-book context for autonomous e… |
-| 2026-10-05 00:06:12 | [io.github.industrial-platform-ai/web-monitor](https://github.com/industrial-platform-ai/industrial-platform-agent-tools) | Industrial Platform Web Monitor | 1.0.0 | Recurring webpage change, price, inventory and metadata monitoring for autonomo… |
-| 2026-10-05 00:08:25 | [io.github.ojo-network/turbine-mcp](https://github.com/ojo-network/turbine-clob) | Turbine MCP | 1.0.0 | Connect AI agents to Turbine Studio for strategies, backtests, research, and tr… |
-| 2026-10-05 00:08:34 | com.freerateupdate/mortgage-home-equity | FreeRateUpdate Mortgage & Home Equity S… | 1.1.0 | Today's mortgage and home equity rates (HELOC, home equity loan, cash-out), len… |
+| 2026-10-05 00:19:01 | ai.makememoneynomistakes/scoreboard | makememoneynomistakes.ai: ERC-8004 agen… | 1.0.0 | Check before you hire: independent scores and fraud flags for ERC-8004 agents o… |
+| 2026-10-05 00:21:19 | [io.github.stillmarcus24/stillos-ratings-mcp](https://github.com/stillmarcus24/stillos-ratings-mcp) |  | 1.0.0 | Check an MCP server before you install it — outside-in trust ratings for 7,000+… |
+| 2026-10-05 00:23:18 | ai.iceshore/iceshore | IceShore | 1.0.0 | Make your AI better at system maintenance. Prompts your AI to organize use case… |
+| 2026-10-05 00:23:21 | io.tracetail/tracetail | TraceTail | 3.0.1 | Browser fingerprinting for web apps: integration code for any framework, docs s… |
+| 2026-10-05 00:25:35 | com.atxminisplit/hvac-directory | ATX Mini Split | 1.0.0 | Licensed Austin TX HVAC and mini split contractors compared, with prices and qu… |
+| 2026-10-05 00:27:30 | com.eaglevirtual/stablecoin-freeze-tracker | Eagle Virtual USDT & USDC Blacklist Tra… | 1.1.4 | USDT & USDC blacklist, freeze and seizure records for any wallet. Dated, cited,… |
+| 2026-10-05 00:30:53 | [io.github.johnisanerd/linkedin-company-employees](https://github.com/johnisanerd/Apify-LinkedIn-Company-Employees-API) |  | 1.0.0 | Company employee lists from LinkedIn public pages, by job title and city, via a… |
+| 2026-10-05 00:31:55 | [com.fanaura/journey](https://github.com/fanaura-inc/fanaura-2026) | Fanaura | 1.0.7 | When someone comments your keyword, Fanaura sends them a DM on Instagram and sa… |
+| 2026-10-05 00:34:39 | com.ratedwithai/accessibility-checker | RatedWithAI accessibility checker | 1.0.0 | Scan a live web page for WCAG 2.1/2.2 AA issues with axe-core: score, grade, fa… |
+| 2026-10-05 00:36:47 | io.github.daveabear/rwa-data-mcp | RWA Data MCP Server | 1.0.0 | Pay-per-call crypto data for AI agents. Live metrics, peg monitor, claim verifi… |
+| 2026-10-05 00:43:19 | [io.github.sudomock/mcp](https://github.com/sudomock/mcp-server) |  | 3.3.0 | Product mockup API. Render PSD and photo mockups, generate videos, manage async… |
+| 2026-10-05 00:45:09 | pub.qrcode/tools | QRCode.Pub tools | 1.0.0 | Free QR code images; paid web page → Markdown, page metadata and file hosting v… |
+| 2026-10-05 00:45:41 | dev.workers.ekelund-apps.custody-calendar/custody-calendar-maker | Custody Calendar Maker | 0.2.0 | Custody schedules (2-2-3, 2-2-5-5, week on/off) as a year calendar both co-pare… |
+| 2026-10-05 00:47:18 | [io.github.usamahz/cpu-perf](https://github.com/usamahz/cpu-performance-engineering) | CPU Performance Engineering | 0.1.1 | A CPU performance engineering brain: a vetted reading list, benchmarks and cite… |
+| 2026-10-05 00:47:59 | [io.github.trafalmejo/oscar](https://github.com/trafalmejo/OSCAR) | OSCAR | 1.0.2 | An assistant reads your OSCAR installation (OSC, MIDI, DMX) and drafts interfac… |
+| 2026-10-05 00:55:17 | com.enhancedint/cortex-booking | Cortex booking | 1.0.0 | Book with businesses on Cortex: see services, prices and open times, then book.… |
+| 2026-10-05 01:00:22 | [com.okareo/okareo](https://github.com/okareo-ai/okareo-mcp) | Okareo | public-0.0.53 | Simulation, evaluation and monitoring for voice agents. |
+| 2026-10-05 01:01:17 | [io.github.powergridiq/pgiq-mcp](https://github.com/powergridiq/pgiq-mcp) |  | 1.3.0 | Power-market ratings, delivered cost, claims and gaps for siting a large electr… |
+| 2026-10-05 01:03:45 | io.github.adpadinc/brinkeradvisor-reading-guide | BrinkerAdvisor Reading Guide | 0.3.7 | Search factual investing-book metadata and browse BrinkerAdvisor reading paths. |
+| 2026-10-05 01:03:51 | io.github.adpadinc/brinkeradvisor-moneytalk-archive | Ask Bob: Moneytalk Archive | 0.3.7 | Search reviewed Moneytalk topic and date metadata through September 30, 2018. |
+| 2026-10-05 01:05:02 | [io.github.maxwellsantoro/dotrepo](https://github.com/maxwellsantoro/dotrepo) | dotrepo | 1.0.2 | Trust-aware repository facts for agents: build, test, docs, license, and securi… |
+| 2026-10-05 01:09:05 | site.chatgpt.general615444.coopnet-agent-lab/coopnet | CoopNet Agent Cooperation Lab | 0.1.0 | Agents form experimental cooperatives, test market strategies and review measur… |
+| 2026-10-05 01:14:16 | [io.github.Poiuyhje/eqvps](https://github.com/Poiuyhje/eqvps-mcp) | EQVPS — VPS and code sandboxes for AI a… | 1.2.0 | No-KYC VPS + per-second code sandboxes AI agents run over MCP — 75 tools, SDK,… |
+| 2026-10-05 01:17:41 | [io.github.revenuedot/mcp](https://github.com/revenuedot/mcp) | RevenueDot | 0.2.0 | Open-source RevenueCat alternative: 38 tools for subscriptions, customers, webh… |
 
 ## Data source
 
