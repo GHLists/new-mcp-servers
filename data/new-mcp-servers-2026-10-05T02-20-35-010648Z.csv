@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-10-05T01:24:06.970121Z,io.github.ticketsdata/ticketsdata-mcp,TicketsData,1.1.0,,streamable-http,"Real-time ticket listings, prices and fees across major ticket marketplaces."
+2026-10-05T01:29:04.806581Z,io.github.n24q02m/wet,,3.19.1,https://github.com/n24q02m/wet.git,,"Open-source MCP server for AI agents: web search, content extraction, and library docs."
+2026-10-05T01:29:07.15419Z,io.github.n24q02m/crg,,3.29.8,https://github.com/n24q02m/crg.git,,Token-efficient code review knowledge graph: semantic search and call-graph resolution.
+2026-10-05T01:32:39.582694Z,io.github.athril/agentic-target-evidence,Agentic Target Evidence,0.1.3,https://github.com/athril/agentic-target-evidence,,"Read-only biomedical evidence tools for drug-target validation: DepMap, gnomAD, OpenTargets, PubMed…"
+2026-10-05T01:44:44.614383Z,io.github.DouglasGouvea/mcp-licitacoes-br,Licitações BR,0.1.0,,streamable-http,Licitações e contratos públicos do Brasil (PNCP): fatos oficiais com fonte e data
+2026-10-05T01:48:21.763188Z,com.fiatdock/fiatdock-mcp,FiatDock,1.12.0,https://github.com/fiatdock/fiatdock,streamable-http,"MCP marketplace: AI agents buy services from other agents per call in USDC, plus a bank cash-out"
+2026-10-05T01:48:24.967576Z,com.hi-daniel.techspy/techspy,TechSpy,1.0.0,,streamable-http,"Detect any website's tech stack, DNS and email security, subdomains and sitemap from your agent."
+2026-10-05T01:48:59.110117Z,com.widely-mobile/widely,Widely,1.0.0,https://github.com/Swift-Mobile-Solutions-Dev/widely-mcp,streamable-http,Connect your communications to your AI.
+2026-10-05T01:52:11.968077Z,io.github.forgemeshlabs/coinopai-mcp,,2.2.0,https://github.com/forgemeshlabs/coinopai-mcp,,"Auditable market intelligence with calibrated forecast ranges, anomaly review, outcome."
+2026-10-05T01:52:13.04898Z,io.github.forgemeshlabs/kronos-forgemesh-mcp,,0.2.0,https://github.com/forgemeshlabs/kronos-forgemesh-mcp,,"Kronos market intelligence with calibrated ranges, audits, and x402 payments on Base."
+2026-10-05T01:52:13.529204Z,io.github.forgemeshlabs/aso-audit-mcp,,0.4.3,https://github.com/forgemeshlabs/aso-audit-mcp,,ASO Scanner — the free Agent Readiness scanner as an MCP server. Measures your ASO Score (Agent.
+2026-10-05T01:52:14.045967Z,io.github.forgemeshlabs/travel-agent-mcp,,0.2.3,https://github.com/forgemeshlabs/travel-agent-mcp,,"Free travel tools plus live x402 Travel Pulse, day trips, weekends, weather, creator, and mobility."
+2026-10-05T01:52:14.387113Z,io.github.forgemeshlabs/utility-grid-mcp,ForgeMesh Utility Grid MCP,0.1.4,https://github.com/forgemeshlabs/utility-grid-mcp,,Discover and call 400+ practical APIs through seven MCP tools with free search and x402 payments.
+2026-10-05T01:52:14.986799Z,io.github.forgemeshlabs/x402-ads-mcp,,0.2.3,https://github.com/forgemeshlabs/x402-ads-mcp,,"x402 ad recommendations, intent analytics, and machine-commerce demand reports."
+2026-10-05T01:53:56.740915Z,io.github.forgemeshlabs/affiliate-router-mcp,,0.1.12,https://github.com/forgemeshlabs/affiliate-router-mcp,,"Route x402 payments, Pyrimid affiliate splits, and referral links. Vendor-neutral, adapter-based."
+2026-10-05T01:53:57.080309Z,io.github.forgemeshlabs/x402-notary-mcp,x402 Notary MCP,0.1.9,https://github.com/forgemeshlabs/x402-notary-mcp,,Cryptographic receipts for AI outputs on Base or Solana via x402.
+2026-10-05T02:04:48.001949Z,io.github.yummlees/scrooge-tool-mill,Scrooge Tool Mill,1.0.0,,streamable-http,"Pay-per-call web page tools for agents (meta, text, links, change check). USDC on Base via x402."
+2026-10-05T02:05:18.166212Z,com.humanfn/humanfn,HumanFn,1.0.0,,streamable-http,"Send a local person to a Phoenix, AZ address to check, photograph, measure or verify. Returns proof."
+2026-10-05T02:10:47.177221Z,io.github.snefhew/factline,Factline,0.2.0,,streamable-http,"Dutch address facts in English: building, neighbourhood, crime, amenities, monuments, liveability."
