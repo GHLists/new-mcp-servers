@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-10-05T05:26:38.845855Z,io.github.voidly-ai/atlas,Voidly Atlas (hosted),0.1.0,,streamable-http,"Hosted, no install: read-only internet-censorship incidents, evidence and country data."
+2026-10-05T05:34:17.177229Z,io.github.configure-dev/configure-memory,Configure Memory,3.0.0,,streamable-http,"Bring your saved preferences, project decisions, and useful context into your next AI conversation."
+2026-10-05T05:36:01.983211Z,io.github.LAHutchins91/papers,Papers,1.0.0,https://github.com/LAHutchins91/papers-mcp,streamable-http,"Scholarly paper search with real citations for AI assistants, over MCP."
+2026-10-05T05:38:38.154692Z,io.theagentc/app-store-screenshots,Agent C — App Store Screenshots,1.0.0,https://github.com/jacobteague50-glitch/agent-c-mcp,streamable-http,"AI-designed App Store screenshot sets from your app's screens, uploaded to App Store Connect."
+2026-10-05T05:38:44.079581Z,io.github.creatordeskai-prog/x402-completion-verify,Creator Desk Commerce Completion Verify,1.0.0,,streamable-http,Evidence-based commerce completion checks for agents. x402 paid calls and free standard metadata.
+2026-10-05T05:42:23.986303Z,io.github.LAHutchins91/desk,Desk,1.0.0,https://github.com/LAHutchins91/desk-mcp,streamable-http,"Approved support answers, refund rules, and escalation limits for AI assistants, over MCP."
+2026-10-05T05:42:26.83325Z,io.github.LAHutchins91/claim,Claim,1.0.0,https://github.com/LAHutchins91/claim-mcp,streamable-http,"Approved claims, offers, proof, voice, and banned phrases for brand assistants."
+2026-10-05T05:42:29.655696Z,io.github.LAHutchins91/scope,Scope,1.0.0,https://github.com/LAHutchins91/scope-mcp,streamable-http,"Approved freelance scope, rates, deadlines, and change orders, shared with AI assistants over MCP."
+2026-10-05T05:42:32.352825Z,io.github.LAHutchins91/invoice,Invoice,1.0.0,https://github.com/LAHutchins91/invoice-mcp,streamable-http,"Approved freelance invoice: line items, rates, due date, and late terms, over MCP."
+2026-10-05T05:42:35.984055Z,io.github.LAHutchins91/deposit,Deposit,1.0.0,https://github.com/LAHutchins91/deposit-mcp,streamable-http,"Approved freelance deposit and payment dates for AI assistants, over MCP."
+2026-10-05T05:42:38.637181Z,io.github.LAHutchins91/milestone,Milestone,1.0.0,https://github.com/LAHutchins91/milestone-mcp,streamable-http,"Approved freelance milestone definitions and what done means, shared with AI assistants over MCP."
+2026-10-05T05:52:02.691506Z,io.github.Sanflow10/adversary-gate,AdversaryGate,2.9.0,https://github.com/Sanflow10/adversary-gate,,"Fail-closed merge gate an agent calls before saying done: MERGE, BLOCK or INCONCLUSIVE."
+2026-10-05T05:54:46.074503Z,io.github.ShalomHunukumbura/lk-tax-mcp,Sri Lanka Tax (lk-tax),0.1.0,https://github.com/ShalomHunukumbura/lk-tax-mcp,,"Exact, sourced Sri Lankan tax calculations: APIT, income tax, withholding tax, VAT and SSCL."
+2026-10-05T05:56:49.233463Z,app.teddyagent/teddy,Teddy,1.0.0,,streamable-http,"Hosting para agentes: páginas, funciones, datos y canales en tiempo real con URL pública al instante"
+2026-10-05T06:04:15.795532Z,com.zaleso/tools,Zaleso,0.3.0,,streamable-http,"Nigeria PAYE, VAT and CBN rates, sourced and dated. Plus invoice totals, QR codes, JSON, Base64."
+2026-10-05T06:10:30.859975Z,io.github.boringSQL/dryrun,dryrun,0.19.0,https://github.com/boringSQL/dryrun,,"PostgreSQL schema intelligence from a committed snapshot. No connection, no credentials."

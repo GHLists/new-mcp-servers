@@ -9,32 +9,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 05:21 UTC
+## Latest list — 2026-10-05 06:19 UTC
 
-New MCP servers published between 2026-10-05 04:19 UTC and 2026-10-05 05:21 UTC.
+New MCP servers published between 2026-10-05 05:21 UTC and 2026-10-05 06:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-05T05-21-56-821386Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-05T06-19-19-918253Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-05 04:22:49 | com.welanda/public-editor | WELANDA Engraving Designer | 0.2.0 | Design a laser engraving for a WELANDA snus case, preview it and hand the user… |
-| 2026-10-05 04:35:19 | dev.stylelock/stylelock | Stylelock | 1.35.0 | Lock a style and palette, then generate matching icons, favicons, social images… |
-| 2026-10-05 04:35:50 | dev.layoutline/layoutline | Layoutline | 1.9.0 | Compose a landing page from layouts observed on real pages, then review the bui… |
-| 2026-10-05 04:39:17 | [io.github.pipeworx-io/etherscan](https://github.com/pipeworx-io/mcp-etherscan) | Etherscan | 0.1.3 | Etherscan MCP — multichain block-explorer API (Etherscan V2) |
-| 2026-10-05 04:39:27 | [io.github.pipeworx-io/global-fishing-watch](https://github.com/pipeworx-io/mcp-global-fishing-watch) | Global Fishing Watch | 0.1.2 | Global Fishing Watch — AIS-derived fishing vessel identity, at-sea events (appa… |
-| 2026-10-05 04:39:40 | [io.github.pipeworx-io/india-tenders](https://github.com/pipeworx-io/mcp-india-tenders) | India Tenders | 0.1.0 | India Government Tenders MCP — active public tenders from India's official |
-| 2026-10-05 04:39:55 | [io.github.DSHCorrectover/ccs-mcp-server](https://github.com/DSHCorrectover/ccs-mcp-server) | CCS Runtime Evidence | 1.2.17 | Agent tool-call guardrail: fail-closed runtime security verification with Ed255… |
-| 2026-10-05 04:43:53 | com.commontape/booking | CommonTape | 1.0.0 | Quote, hold and book US house cleaning jobs on a customer's behalf, at each bus… |
-| 2026-10-05 04:49:49 | [io.github.bridgenode-ai/bridgenode-mcp](https://github.com/bridgenode-ai/bridgenode-mcp) | BridgeNode MCP | 1.7.0 | BridgeNode — x402 pay-per-request AI inference. OpenAI-compatible API + MCP, So… |
-| 2026-10-05 04:53:09 | com.nearius/nearius | Nearius | 1.0.0 | Jurisprudencia española verificada para tu IA: sentencias con ECLI, artículos d… |
-| 2026-10-05 04:54:29 | app.pitchtime/lineups | Pitch Time — Fair Youth Soccer Lineups | 1.0.0 | Fair youth soccer lineups, substitution rotations, formations and equal playing… |
-| 2026-10-05 05:03:25 | io.github.UdotCASH/agents-u-cash | agents.u.cash | 0.10.0 | Non-custodial 402 payments for agents. 88-tool stdio seller MCP + hosted keyles… |
-| 2026-10-05 05:04:43 | [io.testchimp/qa](https://github.com/TestChimp/testchimp-mcp-client) | TestChimp | 0.1.89 | QA platform for agents: coverage signals, in-repo test plans, verified tests an… |
-| 2026-10-05 05:12:35 | [io.github.voidly-ai/voidpay](https://github.com/voidly-ai/pay-mcp) | Voidpay (hosted) | 0.7.3 | Hosted, no install: find agent services and storefronts, prepare owner-approved… |
-| 2026-10-05 05:16:03 | com.getaroundhongkong/trip-planner | Get Around Hong Kong | 1.0.0 | Hong Kong public transport trips: MTR, bus, minibus, tram, ferry, with live tim… |
-| 2026-10-05 05:19:22 | [io.github.voidly-ai/mcp-email](https://github.com/voidly-ai/mcp-email) | Voidmail Agent Email | 1.2.1 | Local MCP tools for server-readable agent inboxes and sending to owner-approved… |
-| 2026-10-05 05:20:19 | [io.github.greencore-solutions/cpg-knowledge-graph](https://github.com/greencore-solutions/a2a-grocery) | A2A Grocery — the agentic hub for retai… | 1.3.0 | A2A Grocery — the agentic commerce hub for retail grocery, at its original addr… |
-| 2026-10-05 05:21:35 | com.trustbaselab/rcb-data | Trustbase Lab · Global Chemical Recycli… | 1.11.0 | Chemical recycling data: rCB suppliers, policies, ASTM/GB standards, feedstock… |
+| 2026-10-05 05:26:38 | io.github.voidly-ai/atlas | Voidly Atlas (hosted) | 0.1.0 | Hosted, no install: read-only internet-censorship incidents, evidence and count… |
+| 2026-10-05 05:34:17 | io.github.configure-dev/configure-memory | Configure Memory | 3.0.0 | Bring your saved preferences, project decisions, and useful context into your n… |
+| 2026-10-05 05:36:01 | [io.github.LAHutchins91/papers](https://github.com/LAHutchins91/papers-mcp) | Papers | 1.0.0 | Scholarly paper search with real citations for AI assistants, over MCP. |
+| 2026-10-05 05:38:38 | [io.theagentc/app-store-screenshots](https://github.com/jacobteague50-glitch/agent-c-mcp) | Agent C — App Store Screenshots | 1.0.0 | AI-designed App Store screenshot sets from your app's screens, uploaded to App… |
+| 2026-10-05 05:38:44 | io.github.creatordeskai-prog/x402-completion-verify | Creator Desk Commerce Completion Verify | 1.0.0 | Evidence-based commerce completion checks for agents. x402 paid calls and free… |
+| 2026-10-05 05:42:23 | [io.github.LAHutchins91/desk](https://github.com/LAHutchins91/desk-mcp) | Desk | 1.0.0 | Approved support answers, refund rules, and escalation limits for AI assistants… |
+| 2026-10-05 05:42:26 | [io.github.LAHutchins91/claim](https://github.com/LAHutchins91/claim-mcp) | Claim | 1.0.0 | Approved claims, offers, proof, voice, and banned phrases for brand assistants. |
+| 2026-10-05 05:42:29 | [io.github.LAHutchins91/scope](https://github.com/LAHutchins91/scope-mcp) | Scope | 1.0.0 | Approved freelance scope, rates, deadlines, and change orders, shared with AI a… |
+| 2026-10-05 05:42:32 | [io.github.LAHutchins91/invoice](https://github.com/LAHutchins91/invoice-mcp) | Invoice | 1.0.0 | Approved freelance invoice: line items, rates, due date, and late terms, over M… |
+| 2026-10-05 05:42:35 | [io.github.LAHutchins91/deposit](https://github.com/LAHutchins91/deposit-mcp) | Deposit | 1.0.0 | Approved freelance deposit and payment dates for AI assistants, over MCP. |
+| 2026-10-05 05:42:38 | [io.github.LAHutchins91/milestone](https://github.com/LAHutchins91/milestone-mcp) | Milestone | 1.0.0 | Approved freelance milestone definitions and what done means, shared with AI as… |
+| 2026-10-05 05:52:02 | [io.github.Sanflow10/adversary-gate](https://github.com/Sanflow10/adversary-gate) | AdversaryGate | 2.9.0 | Fail-closed merge gate an agent calls before saying done: MERGE, BLOCK or INCON… |
+| 2026-10-05 05:54:46 | [io.github.ShalomHunukumbura/lk-tax-mcp](https://github.com/ShalomHunukumbura/lk-tax-mcp) | Sri Lanka Tax (lk-tax) | 0.1.0 | Exact, sourced Sri Lankan tax calculations: APIT, income tax, withholding tax,… |
+| 2026-10-05 05:56:49 | app.teddyagent/teddy | Teddy | 1.0.0 | Hosting para agentes: páginas, funciones, datos y canales en tiempo real con UR… |
+| 2026-10-05 06:04:15 | com.zaleso/tools | Zaleso | 0.3.0 | Nigeria PAYE, VAT and CBN rates, sourced and dated. Plus invoice totals, QR cod… |
+| 2026-10-05 06:10:30 | [io.github.boringSQL/dryrun](https://github.com/boringSQL/dryrun) | dryrun | 0.19.0 | PostgreSQL schema intelligence from a committed snapshot. No connection, no cre… |
 
 ## Data source
 
