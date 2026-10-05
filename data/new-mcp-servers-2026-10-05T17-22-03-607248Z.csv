@@ -1,0 +1,30 @@
+created_at,server,title,version,repository,transports,description
+2026-10-05T16:23:10.450989Z,io.github.rcsb/rcsb-mcp,RCSB PDB,0.16.0,https://github.com/rcsb/rcsb-mcp,,"MCP server to search, inspect, and cross-reference RCSB Protein Data Bank structures"
+2026-10-05T16:24:57.624129Z,io.puzzle/puzzle,Puzzle,1.0.0,,streamable-http,"Startup accounting: cash, burn, runway, financial statements, transactions, bills and invoices."
+2026-10-05T16:27:46.161436Z,com.kampalo/kampalo,Kampalo,0.3.0,https://github.com/Tekreign/kampalo-cursor-plugin,streamable-http,"Google Ads, Meta Ads, GA4, Search Console and Shopify insights, alerts, ROAS rules and ad actions."
+2026-10-05T16:30:24.939594Z,io.github.Zansuken/french-due-diligence,French Due Diligence,0.1.0,,streamable-http,"Free, keyless French company checks (Sirene, RNE, BODACC) and DPE rental compliance"
+2026-10-05T16:31:32.193722Z,io.github.f-tiger/bpj-startup-research,BPJ Startup Research,1.0.0,https://github.com/f-tiger/agi-site,streamable-http,"BPJ startup cases, launch signals and validation plans. Free preview; member tools use scoped keys."
+2026-10-05T16:43:45.921341Z,com.findingleads/findingleads,FindingLeads,1.2.0,,streamable-http,"Missed-call cost by trade, setup pricing, Google local presence and Pro Sites for contractors."
+2026-10-05T16:44:08.136454Z,app.rowb.gbu-compliance/assessment,GBU Compliance,1.0.0,,streamable-http,German Gefaehrdungsbeurteilung: assess against the ArbSchG s5(3) checklist and build the s6 record.
+2026-10-05T16:44:15.450717Z,com.localhelpnow/localhelpnow,LocalHelpNow,1.1.0,,streamable-http,"Licensed local home-repair pros by trade and town, how they are checked, and fair repair prices."
+2026-10-05T16:45:32.121282Z,com.typestate/typestate,Typestate,1.0.1,,streamable-http,"A managed backend your AI agent builds: database, sign-in, files, endpoints. You approve each step."
+2026-10-05T16:45:50.982326Z,com.aiapplyd/aiapplyd,AI Applyd,1.8.3,https://github.com/aiapplyd/aiapplyd-mcp,streamable-http,"Auto-Apply That Ends on an Interview. Job matches, per-role resumes, apply, approve, track receipts."
+2026-10-05T16:46:55.396824Z,io.github.mohanagy/madar,Madar,0.32.2,https://github.com/mohanagy/madar,,Task-aware local context packs for TypeScript/Node AI coding workflows.
+2026-10-05T16:49:42.526751Z,com.essentras/placements,,1.0.0,,streamable-http,"Buy press coverage in 3,800+ vetted media outlets. Price a basket, get a checkout link."
+2026-10-05T16:56:46.57473Z,com.ridemotive.app.mcp/motive,Motive Admin,1.0.0,,streamable-http,Inspect and manage dealership website content through Motive.
+2026-10-05T17:02:19.545682Z,com.crawio/mcp,Crawio,0.2.1,,streamable-http,"Web pages as Markdown, text or HTML, plus Google Maps places and reviews, for AI agents."
+2026-10-05T17:03:34.231935Z,uk.co.teas/shop,teas.co.uk,1.0.0,,streamable-http,"Find, compare and buy tea, coffee and hot chocolate from teas.co.uk, a UK online tea shop."
+2026-10-05T17:06:10.035299Z,io.github.WYRE-AI/superops-mcp,SuperOps,2.0.2,https://github.com/WYRE-AI/superops-mcp,,"MCP server for SuperOps unified PSA+RMM — clients, tickets, assets, and more."
+2026-10-05T17:06:12.686701Z,io.github.WYRE-AI/syncro-mcp,Syncro,1.4.10,https://github.com/WYRE-AI/syncro-mcp,,"MCP server for Syncro MSP — customers, tickets, assets, invoices, and more."
+2026-10-05T17:06:16.751446Z,io.github.WYRE-AI/avanan-legacy-mcp,Avanan MSP (Legacy SmartAPI),2.3.1,https://github.com/WYRE-AI/avanan-legacy-mcp,,MCP server for the legacy Avanan SmartAPI: MSP tenant management plus per-tenant security tools.
+2026-10-05T17:06:32.910937Z,io.github.WYRE-AI/atera-mcp,Atera,1.5.11,https://github.com/WYRE-AI/atera-mcp,,"MCP server for Atera RMM — customers, tickets, and more."
+2026-10-05T17:06:33.169238Z,io.github.WYRE-AI/kaseya-vsa-mcp,Kaseya VSA,1.1.6,https://github.com/WYRE-AI/kaseya-vsa-mcp,,"MCP server for Kaseya VSA RMM — agents, patches, procedures, alarms, tickets."
+2026-10-05T17:07:49.604313Z,io.github.balaianu/cogz,CogZ,0.5.7,https://github.com/balaianu/CogZ,,Local-first engineering cognition for AI coding agents — persistent memory over your codebase.
+2026-10-05T17:09:23.227819Z,io.github.WYRE-AI/meraki-mcp,Cisco Meraki,1.1.11,https://github.com/WYRE-AI/meraki-mcp,,"MCP server for the Cisco Meraki Dashboard: networks, devices, wireless, switch, appliance."
+2026-10-05T17:12:48.777531Z,io.github.nickgeorgeseo/gatehouse,mcp-gatehouse,0.3.0,https://github.com/nickgeorgeseo/mcp-gatehouse,,"Permission tiers, approval gates, and audit logging for MCP servers - the server is the gatekeeper"
+2026-10-05T17:13:14.105447Z,io.github.outcomeci/mcp-server,OutcomeCI,1.0.0,https://github.com/outcomeci/mcp-server,streamable-http,"Create, validate, and manage agent-powered workflows with OutcomeCI."
+2026-10-05T17:14:06.413126Z,build.exascale/osint,exascale.build,1.1.7,,streamable-http,"US ISO interconnection queues and cited energy data. 25 free queries, then $49/mo or $490/yr."
+2026-10-05T17:17:38.158686Z,finance.genesispay/mcp,GenesisPay,1.8.0,https://github.com/GenesisTechAT/genesispay-js,streamable-http,"Let an AI agent find and pay for x402 APIs and products in USDC on Base, within owner-set limits."
+2026-10-05T17:17:51.69605Z,com.wildernesstimes/checklists,,0.3.1,https://github.com/mattsblake/wildernesstimes-app,streamable-http,"Wilderness Times packing checklists, 456 rated tents and gear buying guides. Free, no signup."
+2026-10-05T17:19:47.819706Z,io.github.NBibikov/cogvault,cogvault,0.11.1,https://github.com/NBibikov/cogvault,,"Local hybrid-search memory for AI agents over plain Markdown. Multi-tenant, offline, no LLM."
+2026-10-05T17:21:14.222613Z,io.github.User0856/snaprender,SnapRender,1.5.5,https://github.com/User0856/snaprender-integrations,streamable-http,"Screenshot any URL as PNG, JPEG, WebP or PDF, extract content, batch. Hosted with OAuth or local."
