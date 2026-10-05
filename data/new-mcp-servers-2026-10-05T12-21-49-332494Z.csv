@@ -1,0 +1,42 @@
+created_at,server,title,version,repository,transports,description
+2026-10-05T11:19:08.838317Z,app.fluxito/fluxito,Fluxito,1.0.0,,streamable-http,"Hosted MCP server for marketing analytics: plan tracking, draft GTM tags, audit tags. Free in beta"
+2026-10-05T11:21:27.684309Z,com.mailcheer/mailcheer,Mailcheer,1.1.0,,streamable-http,Email API + newsletters. 17 MCP tools. OAuth 2.1 PKCE or API key. EU-hosted (Hetzner + SES).
+2026-10-05T11:27:39.248512Z,ai.meetsquad/squad,Squad,4.2.1,https://github.com/the-basilisk-ai/squad-mcp,streamable-http,Decision intelligence for product teams. Turn scattered feedback into signal you can act on.
+2026-10-05T11:32:35.905624Z,in.dataful/dataful,Dataful,1.0.0,,streamable-http,"Indian government statistics and public data: economy, elections, health, agriculture and more"
+2026-10-05T11:32:38.681987Z,com.booklint/desk,booklint,0.2.0,,streamable-http,"Deterministic rule checks of a trading agent's book against its own rulebook. Free key, no card."
+2026-10-05T11:33:21.044275Z,app.wishes/wishes,Wishes,1.0.0,,streamable-http,Tell your AI what you love and it fills your wishlist with gift ideas
+2026-10-05T11:33:25.418146Z,tech.thecompound/blockdex,BlockDex MCP,0.1.0,https://github.com/kyisaiah47/openlookup,,BlockDex: Search shadcn-compatible components across public registries.
+2026-10-05T11:34:06.88891Z,cloud.mynextadventure/trip-planner,My Next Adventure,1.0.1,https://github.com/MantaCodeDevs/mcp-mynextadventure,streamable-http,"Create trips, compare variants side by side, and add accommodation, transport and event options."
+2026-10-05T11:35:22.639662Z,kr.vidia/vidia,VIDIA,1.0.1,https://github.com/lead788/vidia-mcp,streamable-http,"VIDIA AI video production: get quotes, start videos, track progress and download results"
+2026-10-05T11:35:24.521146Z,tech.thecompound/civicbinder,CivicBinder MCP,0.1.0,https://github.com/kyisaiah47/openlookup,,CivicBinder: ADA Title II accessibility grades for US local-government websites.
+2026-10-05T11:35:29.546451Z,io.github.puneethdc99/dotnetsearch,DotNetSearch,1.0.0,https://github.com/puneethdc99/DotNetSearch,,Token-efficient MCP search server for AI agents across local directories.
+2026-10-05T11:36:12.520171Z,tech.thecompound/goodstanding,GoodStanding MCP,0.1.0,https://github.com/kyisaiah47/openlookup,,GoodStanding: Check a US nonprofit EIN against IRS revocation and CA registry lists.
+2026-10-05T11:43:21.155383Z,de.overfit/overfit,Overfit — German tenders & procurement law,0.1.0,,streamable-http,"German public tenders (190k+) and procurement-law calculators with legal basis. Free, no sign-up."
+2026-10-05T11:43:26.888073Z,blue.core/surface,core.blue,0.2.0,,streamable-http,"Private, self-describing memory for agents: one house per customer, on a machine of its own."
+2026-10-05T11:48:29.559428Z,io.github.jafrancis021-max/agentz,AgentZ,2.3.0,,streamable-http,"Market answers and ready-to-sign orders for AI agents on Hyperliquid: stocks, oil, gold, crypto."
+2026-10-05T11:48:29.826645Z,com.botrotation/discovery,Botrotation — AI Agent Bot Rentals,1.0.0,,streamable-http,"Discover elite-bot software rentals, live pricing, company terms and agent-only API onboarding."
+2026-10-05T11:48:53.798437Z,io.github.kkjdaniel/bgg-mcp,BoardGameGeek MCP Server,1.7.0,https://github.com/kkjdaniel/bgg-mcp,,BoardGameGeek MCP server providing access to BGG API data through standardized tools
+2026-10-05T11:51:33.308134Z,io.github.sinhaKAN-ra/anumana,,0.2.1,https://github.com/sinhaKAN-ra/anumana,,"Predict query cost, explain the plan, and rewrite it before you run it — 12 DB engines."
+2026-10-05T11:53:04.070707Z,tech.thecompound/kitgrade,KitGrade MCP,0.1.0,https://github.com/kyisaiah47/openlookup,,"KitGrade: Starter kits and boilerplates, graded by installing them."
+2026-10-05T11:53:46.261859Z,tech.thecompound/rulestack,RuleStack MCP,0.1.0,https://github.com/kyisaiah47/openlookup,,"RuleStack: Search real AGENTS.md, CLAUDE.md and Cursor rules files."
+2026-10-05T11:55:00.910757Z,tech.thecompound/scriptprobe,ScriptProbe MCP,0.1.0,https://github.com/kyisaiah47/openlookup,,ScriptProbe: Check npm install scripts and publisher changes before installing.
+2026-10-05T11:55:58.640762Z,ai.centralcity/central-city,Central City,0.8.0,https://github.com/centralcity-ai-org/protocol,streamable-http; streamable-http,"Every AI. One room. The open hub where the world's AI agents meet, work together and exchange."
+2026-10-05T11:59:35.203414Z,io.github.veenrek/mapleai-mcp,,0.3.1,https://github.com/veenrek/mapleai-gateway,,"Pay-per-request GPT chat, embeddings, agents and prepaid keys with local x402 USDC signing"
+2026-10-05T12:01:12.988852Z,io.github.Wordpressistic/bridgistic,,1.5.1,https://github.com/Wordpressistic/bridgistic-claude-marketplace,,"Connect Claude to WordPress safely: signed requests, scoped keys, approvals, logs, snapshots."
+2026-10-05T12:02:34.973291Z,online.disputes/mcp,disputes.online,1.0.0,https://github.com/peccancy/mcp,streamable-http,Read prediction disputes and the crowd's odds on real-world events from disputes.online.
+2026-10-05T12:03:26.161335Z,tech.thecompound/stacktab,StackTab MCP,0.1.0,https://github.com/kyisaiah47/openlookup,,StackTab: SaaS service pricing and monthly stack cost estimates.
+2026-10-05T12:03:41.514633Z,com.traceabledocs/traceable,Traceable Docs,4.0.0,,streamable-http,"Read and draft requirements, controlled documents and trace links in Traceable Docs."
+2026-10-05T12:06:16.152433Z,io.github.comet-ml/opik-mcp,Opik,0.2.39,https://github.com/comet-ml/opik-mcp,streamable-http,"Read and score Opik traces, experiments, datasets and prompts from your AI assistant."
+2026-10-05T12:07:42.731805Z,tech.thecompound/stillshipping,StillShipping MCP,0.1.0,https://github.com/kyisaiah47/openlookup,,StillShipping: Check whether a developer tool is still maintained.
+2026-10-05T12:08:12.206451Z,tech.thecompound/tooldrift,ToolDrift MCP,0.1.0,https://github.com/kyisaiah47/openlookup,,ToolDrift: Current AI model pricing and which models coding tools route to.
+2026-10-05T12:09:47.187382Z,io.github.api-sketch-2030/tax-validator,,1.0.0,https://github.com/api-sketch-2030/tax-validator,streamable-http,Validates Moroccan ICE and IF tax identification numbers.
+2026-10-05T12:11:45.161235Z,com.a2awire/data-threat-research-unit42-malware-analysis,Unit 42 Threat Research & Malware Analysis — buy per-query in-session (unit42watch),0.1.0,https://github.com/ee324/a2awire,streamable-http,Unit 42 malware analysis & threat research. $0.01/query. Register in-session — free testnet funds.
+2026-10-05T12:13:23.267937Z,tech.thecompound/skillworks,SkillWorks MCP,0.1.0,https://github.com/kyisaiah47/openlookup,,"SkillWorks: Search published Claude Code skills, plugins and marketplaces."
+2026-10-05T12:13:38.912752Z,io.github.oddwood-x/barcode-tool,ODDWOOD Barcode Tool,1.0.0,https://github.com/oddwood-x/barcode-tool,streamable-http,"Paid MCP server for EAN, UPC, and GTIN validation, normalization, correction, and batch analysis."
+2026-10-05T12:13:54.360066Z,blue.core/memory,core.blue,0.2.0,,streamable-http,"Private, self-describing memory for agents: one house per customer, on a machine of its own."
+2026-10-05T12:15:30.85123Z,tech.thecompound/storeready,StoreReady MCP,0.1.0,https://github.com/kyisaiah47/openlookup,,StoreReady: Whether AI app builders produce apps that pass App Store review.
+2026-10-05T12:16:13.56945Z,io.github.offprompt/offprompt,offprompt,0.1.0,https://github.com/offprompt/offprompt,,Ask the human for API keys in a browser page and write them to .env. The model only sees key names.
+2026-10-05T12:17:05.222536Z,io.github.accentist/buyking-mcp,BuyKing MCP Server,1.2.5,https://github.com/accentist/buyking-mcp,,Saleplaza BuyKing MCP: Semantic search for global shopping hot deals (US/JP/KR).
+2026-10-05T12:17:38.931579Z,io.github.m-sanchez/calibration-explorer,Calibration Explorer,0.2.0,https://github.com/m-sanchez/calibration-explorer,,"Check classifier confidence against accuracy, fit temperature scaling and save local reports."
+2026-10-05T12:17:52.033074Z,com.booklint/stamp,booklint stamp,0.1.0,,streamable-http,Signed timestamp receipts for a SHA-256 hash. Send only the hash; we never see the document.
+2026-10-05T12:21:24.028015Z,io.github.FlorianBruniaux/claude-code-guide,Claude Code Ultimate Guide,1.3.5,https://github.com/FlorianBruniaux/claude-code-ultimate-guide,,Search the Claude Code Ultimate Guide and machine-readable references from any MCP client.
