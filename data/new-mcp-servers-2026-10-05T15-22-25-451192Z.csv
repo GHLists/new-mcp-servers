@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-10-05T14:23:33.709606Z,io.github.sustany/casemagic,CaseMagic — Federal Court Case Lookup & Monitor,1.1.0,,streamable-http,"Free US federal court case lookup: status, judge, filings, deadlines. Then watch it for new filings."
+2026-10-05T14:24:03.300244Z,io.github.pnp/pnp-powershell-mcp-server,PnP PowerShell,0.1.7-beta,https://github.com/pnp/pnp-powershell-mcp-server,,Manage Microsoft 365 in natural language with PnP PowerShell and author PnP PowerShell scripts.
+2026-10-05T14:25:25.618358Z,so.formo/formo,Formo,1.0.0,https://github.com/getformo/formo-plugin,streamable-http,"Onchain product analytics: events, wallets, funnels, retention, revenue, and dashboards."
+2026-10-05T14:31:31.878497Z,com.pickedbyagents/research-network,Picked by Agents Research Network,3.0.0,,streamable-http,Join voluntary research studies and record how AI assistants choose local businesses.
+2026-10-05T14:31:49.961359Z,io.github.yusong652/itasca-mcp,ITASCA MCP Server,0.10.2,https://github.com/yusong652/itasca-mcp,,"Give AI agents full access to ITASCA PFC, FLAC3D, 3DEC, MPoint, MassFlow: docs, simulation, plots."
+2026-10-05T14:33:02.037974Z,io.github.trajectiq-ai/E2E,Playwright E2E MCP,0.1.0,https://github.com/trajectiq-ai/E2E,,"Run and debug Playwright E2E tests: failure analysis, DOM inspection, visual diffs, flaky diagnosis."
+2026-10-05T14:34:23.51032Z,eu.machinewitness/archive,MachineWitness,1.2.0,https://github.com/martinschenk/machinewitness-mcp,streamable-http,"EU archive of the machine-readable web: check if a domain is observed, order a time-stamped record."
+2026-10-05T14:36:59.785156Z,md.static/static-md,static.md,1.0.0,,streamable-http,Markdown notes and whiteboards your AI agent can read and write.
+2026-10-05T14:39:23.652968Z,com.foldlaundry/fold-laundry,Fold Laundry,1.0.0,,streamable-http,"Book, track and manage laundry & dry-cleaning pickup in Los Angeles and San Francisco."
+2026-10-05T14:40:07.699327Z,io.github.Geniffy/geniffy-mcp,Geniffy,1.0.0,https://github.com/Geniffy/geniffy-mcp,streamable-http,"Your memory in every AI app: each fact with the line it came from, or a plain ""nothing stored""."
+2026-10-05T14:40:09.70832Z,app.galaxyunit/galaxy-unit,Galaxy Unit,1.0.0,,streamable-http,"Run a service business from chat: clients, jobs, quotes, invoices, payments, expenses."
+2026-10-05T14:40:14.795813Z,io.github.dfrancislyondflabc-tech/agentic-recall,agentic-recall,2.1.3,,,Long-term memory for agentic tasks. It tells you when it doesn't know.
+2026-10-05T14:41:16.92325Z,io.github.sypherin/tokenmark-mcp,TokenMark,0.2.1,https://github.com/sypherin/tokenmark-mcp,,"Measured local-LLM speeds and hardware-aware model picks for Strix Halo, DGX Spark and Mac."
+2026-10-05T14:43:12.203228Z,io.github.pei-jz/jh-presentation,jh-presentation,0.5.2,https://github.com/pei-jz/jh-presentation,,"AI-built HTML presentations: single-file decks with live diagrams, charts, editing and PDF export."
+2026-10-05T14:44:49.999162Z,io.github.gabrielmahia/haki-ya-kazi-mcp,,0.1.4,https://github.com/gabrielmahia/haki-ya-kazi-mcp,,MCP server for labor-rights information and coordination in Kenya (haki ya kazi = labor rights)
+2026-10-05T14:44:51.769956Z,io.github.gabrielmahia/afya-mcp,,0.1.4,https://github.com/gabrielmahia/afya-mcp,,MCP server for health-service coordination in East Africa (afya = health)
+2026-10-05T14:44:54.824815Z,io.github.gabrielmahia/bima-mcp,,0.1.4,https://github.com/gabrielmahia/bima-mcp,,🛡️ bima-mcp — Kenya Insurance Intelligence MCP Server
+2026-10-05T14:45:05.474344Z,io.github.gabrielmahia/afya-ya-akili-mcp,,0.1.4,https://github.com/gabrielmahia/afya-ya-akili-mcp,,MCP server for mental-health support coordination in East Africa (afya ya akili = mental health)
+2026-10-05T14:45:08.7383Z,io.github.gabrielmahia/fomu-mcp,,0.1.5,https://github.com/gabrielmahia/fomu-mcp,,MCP server for government forms and document workflows in Kenya (fomu = form)
+2026-10-05T14:48:23.436762Z,io.github.gabrielmahia/kenya-health-mcp,,0.1.4,https://github.com/gabrielmahia/kenya-health-mcp,,"Kenya health MCP: SHIF calculator, facility finder, SHA maternity care, Article 43 rights"
+2026-10-05T14:48:26.104687Z,com.declararfacil/agent,Declarar Fácil,1.1.0,,streamable-http,"Spanish autónomo bookkeeping and AEAT tax forms 303, 130, 390, 100: your model reads the documents"
+2026-10-05T14:48:59.004396Z,io.github.retracn/automationnation-mcp,AutomationNation Data Tools,1.0.0,https://github.com/retracn/automationnation-mcp,,"Agent tools: Google Flights, Hotels, Shopping, News, Jobs, Trends, Maps leads, YouTube transcripts"
+2026-10-05T14:52:14.407725Z,ai.snaphost/snaphost,SnapHost,1.6.0,https://github.com/snaphost-ai/snaphost,streamable-http,"Send a live, private link to a client from Claude. Updates in place, viewers by email."
+2026-10-05T14:53:14.523436Z,tech.blockwerk/mcp,BlockWerk,1.1.2,,streamable-http,"Build, run and analyse block-diagram simulations: PID, Bode, FFT, optimisation and code export."
+2026-10-05T14:53:25.312955Z,com.tubexperto/tubexperto,TubExperto,2.0.0,,streamable-http,"Search and query the transcripts of YouTube expert channels you follow, with cited answers."
+2026-10-05T14:53:35.141845Z,ai.lexiel/lexiel,Lexiel,1.0.0,,streamable-http,Verify legal citations and search case law and legislation from your AI assistant.
+2026-10-05T14:54:25.49723Z,com.siliconfloor/silicon-floor,Silicon Floor,1.0.0,,streamable-http,"AI and semiconductor stocks from primary sources: SEC financials, ownership, FINRA short interest."
+2026-10-05T14:55:48.218357Z,ai.synero/council,Synero AI Council,2.0.0,,streamable-http,"Ask GPT, Claude, Gemini and Grok at once: one consensus answer plus where they agree and split."
+2026-10-05T14:56:26.571096Z,io.github.AtticStandard/atom-mcp-server,Attic Standard,2.1.0,https://github.com/AtticStandard/atom-mcp-server,streamable-http,"The global price benchmark for AI inference: 23 price indexes, market KPIs and SKU-level prices."
+2026-10-05T15:09:04.533434Z,io.github.emanueltns/paianjenul,Paianjenul: Romanian company lookups,1.2.0,https://github.com/emanueltns/paianjenul-plugin,streamable-http,"Romanian companies: ONRC registry, ANAF financials, VAT, EU/UN/US sanctions, administrator links."
+2026-10-05T15:09:51.510969Z,io.github.Intellics-ai/kabuken,,2.1.0,https://github.com/Intellics-ai/kabuken-mcp-plugin,streamable-http,"Japanese EDINET XBRL facts: bilingual labels, financials, screening. No prices. Signup required."
+2026-10-05T15:19:22.057085Z,com.slicktrip/slicktrip,SlickTrip,1.1.0,,streamable-http,"Live flight, hotel and seat prices, cheapest-day calendars, and price-drop alerts."
