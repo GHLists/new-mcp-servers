@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-05T12:25:57.311781Z,com.fostay/hotels,,2.0.0,,streamable-http,"Agent-bookable Dubai & Abu Dhabi hotel store: live all-in prices, rate holds, payment links."
+2026-10-05T12:26:25.346474Z,io.github.voidly-ai/voidmail,Voidmail (hosted),0.1.0,https://github.com/voidly-ai/mcp-email,streamable-http,"Hosted agent inboxes: read mail, send to owner-approved recipients. Mail is server-readable."
+2026-10-05T12:28:17.844862Z,works.aiva/aiva,AIVA,1.0.0,,streamable-http,"No-code, AI-assisted UI testing: record new tests, run existing ones, and monitor the results."
+2026-10-05T12:30:04.192933Z,io.github.sergelogvinov/proxmox-mcp,Proxmox MCP is an opinionated MCP server,0.3.0,https://github.com/sergelogvinov/proxmox-mcp,,Proxmox MCP is an opinionated MCP server
+2026-10-05T12:31:39.607398Z,io.github.kburrus64-max/slopscore,SlopScore AI-writing linter,0.1.0,https://github.com/kburrus64-max/slopscore,streamable-http,"Flags AI-writing patterns (AI slop) in prose with fix hints. Deterministic linter, not a detector."
+2026-10-05T12:32:34.664979Z,dev.safegrd/safegrd,SafeGrd,1.0.0,,streamable-http,"Read backups and Fire Drills, and ask for a backup or a drill. No tool deletes a backup."
+2026-10-05T12:37:20.665078Z,io.github.mrsergeiluzhnov/docparse,DocParse,1.0.0,,streamable-http,"Convert PDF, Word, Excel, PowerPoint and web pages to clean Markdown for LLMs."
+2026-10-05T12:39:27.776453Z,io.github.umitkavala/mindpm,,3.1.0,https://github.com/umitkavala/mindpm,,Project memory and a control plane for AI coding agents.
+2026-10-05T12:40:22.706988Z,io.github.easytocloud/mac-letterhead,Mac-letterhead,0.24.4,https://github.com/easytocloud/Mac-letterhead,,"Letterhead PDF as digital stationery: prints Markdown without overprinting header, footer, or logo."
+2026-10-05T12:49:46.195224Z,io.github.mrZedov/backend-investigator,Backend Investigator,1.2.0,,,Read-only Loki logs and PostgreSQL diagnostics for backend investigations in your AI client.
+2026-10-05T12:55:22.413364Z,com.gravity8/dillie-mcp,,0.8.0,,streamable-http,"Manage dillie projects, tasks, and sprints; look up members and search platform documentation."
+2026-10-05T12:57:14.962774Z,io.github.dylannnnn111/aussie-data-mcp,,0.1.0,https://github.com/dylannnnn111/aussie-data-mcp,,"MCP server that lets Claude query ABS, RBA and Sydney Opal (Commute Pulse) data directly."
+2026-10-05T12:57:26.686774Z,io.github.dinggi5/kura,Kura,0.4.3,https://github.com/dinggi5/kura,,"Local Ethereum wallet for AI agents on Base and Arc: balances, x402 payments. Keys stay local."
+2026-10-05T12:58:15.787059Z,io.github.bitfiction/staticbot,Staticbot,1.8.2,https://github.com/bitfiction/staticbot-mcp,,"Deploy websites, migrate app backends, and run continuous sync with explicit approval gates."
+2026-10-05T13:00:04.360628Z,com.sitegoalie/sitegoalie,Sitegoalie,1.0.0,,streamable-http,"Monitor and maintain client WordPress sites: updates, uptime, PHP errors, performance and reports."
+2026-10-05T13:03:55.623118Z,app.teddyagent/subvenciones,Subvenciones España (BDNS),1.0.0,,streamable-http,"Busca convocatorias de subvenciones y ayudas públicas en España (BDNS, datos oficiales)"
+2026-10-05T13:05:43.174532Z,io.github.tresor4k/takeoffmetric-mcp,TakeoffMetric Construction Calculators,0.1.1,https://github.com/tresor4k/takeoffmetric-mcp,,"Construction takeoff calculators (concrete, gravel, asphalt, roofing) and sourced constants."
