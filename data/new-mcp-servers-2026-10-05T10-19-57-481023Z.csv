@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-05T09:26:04.763411Z,eu.kalkulo/calculators,Kalkulo.eu calculators,1.0.0,,streamable-http,"Read-only European tax, salary and benefit calculators with official sources and unknowns."
+2026-10-05T09:28:01.758525Z,ai.verant/verant,Verant,0.3.0,,streamable-http,"Proofread live pages and sites for spelling, grammar, and placeholder text. Free: 2 pages a month."
+2026-10-05T09:31:32.655518Z,ai.1clickwebsite/mcp,1ClickWebsite,1.0.0,,streamable-http,Build and edit WordPress websites for local service businesses and run Lead Gen demo-site batches.
+2026-10-05T09:38:48.283206Z,io.github.NotHarshhaa/devops-mcp,,2.1.1,https://github.com/NotHarshhaa/devops-mcp,,"Unified MCP server for Kubernetes, ArgoCD, Prometheus, PagerDuty, and Loki"
+2026-10-05T09:40:16.493445Z,io.github.GeiserX/telegram-archive-mcp,,0.1.3,https://github.com/GeiserX/telegram-archive-mcp,,"MCP server for Telegram Archive — search messages, browse chats, and access history"
+2026-10-05T09:40:35.776033Z,io.github.GeiserX/duplicacy-mcp,,0.1.1,https://github.com/GeiserX/duplicacy-mcp,,MCP server for Duplicacy — monitor backup status and Prometheus metrics
+2026-10-05T09:40:55.244781Z,io.github.ASCIT31/darkmoon-mcp-server,Darkmoon,0.1.0,https://github.com/ASCIT31/darkmoon-mcp-server,,"Drive a self-hosted Darkmoon Pro AI pentest instance: start runs, read campaigns and findings."
+2026-10-05T09:43:40.245245Z,io.github.coffeecoproject/layermap,LayerMap,0.1.4,https://github.com/coffeecoproject/layermap,,"Call graph for coding agents: callers up to HTTP routes, callees and usages for TS, Go, Python, Java"
+2026-10-05T09:44:05.923834Z,io.github.uxkin/uxkin,UXKIN,1.0.0,https://github.com/uxkin/agent,streamable-http,"Real UI references for coding agents: iOS app screens, user journeys and website design systems."
+2026-10-05T09:46:41.592395Z,io.github.bryantrudy24/saax-protocol,SAAX Protocol,1.0.0,https://github.com/bryantrudy24/saax-protocol,streamable-http,Governed commitment lifecycle and rail-agnostic settlement layer for agent-to-agent commerce.
+2026-10-05T09:47:44.025548Z,io.github.sergelogvinov/talos-mcp,Talos MCP server for Talos Linux,0.2.0,https://github.com/sergelogvinov/talos-mcp,,Talos MCP is an opinionated MCP server for Talos Linux
+2026-10-05T09:49:44.015765Z,io.github.GeiserX/biblical-atlas-mcp,,0.1.2,https://github.com/GeiserX/biblical-atlas-mcp,,"Spanish Bible atlas as MCP tools: people, places, events, passages, each linked to its source"
+2026-10-05T09:52:06.872775Z,io.github.GeiserX/lynxprompt-mcp,,0.1.1,https://github.com/GeiserX/lynxprompt-mcp,,"MCP server for LynxPrompt — browse, search, and manage AI configuration blueprints"
+2026-10-05T09:52:17.447084Z,io.github.GeiserX/pumperly-mcp,,0.1.1,https://github.com/GeiserX/pumperly-mcp,,"MCP server for Pumperly — query fuel prices, find stations, and plan routes"
+2026-10-05T09:53:27.802909Z,io.github.GeiserX/cashpilot-mcp,,0.2.2,https://github.com/GeiserX/cashpilot-mcp,,"MCP server for CashPilot — monitor passive income, bandwidth sharing, and DePIN earnings"
+2026-10-05T09:54:42.425937Z,io.github.uarlouski/testrail-mcp-server,,3.2.0,https://github.com/uarlouski/testrail-mcp-server,,"Connect AI assistants to TestRail: manage test cases, suites, runs, results, and attachments."
+2026-10-05T09:55:28.114863Z,io.robopunter/robopunter,Robo Punter,1.0.0,,streamable-http,"Horse and greyhound racing research, backtests and bot drafts for Robo Punter members."
+2026-10-05T10:01:44.677833Z,io.github.Sriram-PR/doc-scraper,doc-scraper,2.10.0,https://github.com/Sriram-PR/doc-scraper,,"Crawl documentation sites into local corpora agents can search, read, and diff fully offline."
+2026-10-05T10:07:08.413386Z,io.github.GeiserX/spinnaker-mcp,,0.3.5,https://github.com/GeiserX/spinnaker-mcp,,MCP server exposing Spinnaker CD platform via Gate API for pipeline and deployment management
+2026-10-05T10:07:16.359172Z,com.zurelay/mcp,Zurelay,1.0.0,,streamable-http,"Make images, videos and speech: Nano Banana, GPT Image, Seedance, Kling, Wan and Gemini TTS."
+2026-10-05T10:07:17.481571Z,io.github.GeiserX/genieacs-mcp,,0.3.4,https://github.com/GeiserX/genieacs-mcp,,MCP server bridging GenieACS TR-069 ACS instances to LLMs for CPE device management
+2026-10-05T10:09:58.440501Z,com.sema-lang/sema,Sema,1.36.1,https://github.com/sema-lisp/sema,,"MCP tools for Sema — eval, compile, build, format, and docs for a Lisp with LLM primitives."
+2026-10-05T10:11:00.815406Z,io.github.David-glitc/sitalk,Sitalk,0.1.0,https://github.com/David-glitc/sitalk-plugins,streamable-http,"Connect agents to public expertise, approved shared context and collaborative workspaces."
+2026-10-05T10:14:22.174238Z,com.cyclesiq/cycles-iq,Cycles IQ,1.0.0,,streamable-http,"Cycle analysis of your own time series: dominant cycles, cycle scans, cyclic RSI and consensus."
+2026-10-05T10:17:49.757029Z,io.github.ggi3201/foodie,Chewable Foodie,1.2.2,https://github.com/chewablefit/foodie-plugin,streamable-http,"Your recipes, family meal plan and shopping list from Foodie, in ChatGPT, Claude and Codex."
+2026-10-05T10:19:47.849067Z,io.github.shinpr/mcp-image,,0.15.0,https://github.com/shinpr/mcp-image,,AI image generation and editing with prompt optimization and quality presets
+2026-10-05T10:19:48.84057Z,com.scribiz/mcp,Scribiz,0.1.0,https://github.com/Illyism/scribiz-mcp,streamable-http,"Transcripts, summaries, chapters and timestamped answers for video links, for AI agents."
