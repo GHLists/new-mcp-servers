@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-10-05T07:23:18.97026Z,io.github.cyanheads/hn-mcp-server,,0.5.21,https://github.com/cyanheads/hn-mcp-server,streamable-http,"Browse Hacker News feeds, threads, and user profiles with full-text search."
+2026-10-05T07:23:34.636572Z,io.github.ATASTECH/pitroom,Pitroom,0.17.0,https://github.com/ATASTECH/pitroom,,"Hands bounded coding work to cheaper worker agents: verified answers, exact diffs, cost receipts."
+2026-10-05T07:24:17.741877Z,io.ybug/mcp,Ybug,1.0.0,https://github.com/Ybug-io/mcp-server,streamable-http,"Read, filter and triage Ybug website feedback and bug reports from your AI assistant"
+2026-10-05T07:24:26.118429Z,io.github.richy7734/nexus3d-mcp,Nexus3D,0.4.1,,,"See and edit the building project open in Nexus3D: walls, rooms, openings, finishes, skies."
+2026-10-05T07:25:11.242102Z,com.noddienight/noddie-night,Noddie Night - herbal sleep drink facts & sleep Q&A,1.0.0,,streamable-http,"Facts, prices and 100 sleep Q&As from Noddie Night, a melatonin-free herbal sleep drink."
+2026-10-05T07:28:23.864969Z,app.resumequick/resumequick,ResumeQuick,1.0.2,,streamable-http,"Your job search in one place: resumes, the jobs you track, daily matches, interviews, next step."
+2026-10-05T07:29:18.859944Z,io.github.cyanheads/clinicaltrialsgov-mcp-server,,2.9.11,https://github.com/cyanheads/clinicaltrialsgov-mcp-server,streamable-http,"Search ClinicalTrials.gov — find studies, retrieve results, match patients to eligible trials."
+2026-10-05T07:31:13.486696Z,io.github.OnlineDopamine/scrapeatlas,ScrapeAtlas,1.0.0,,streamable-http,"Unified social scraper MCP — profiles, posts, videos across ~40 platforms via Streamable HTTP."
+2026-10-05T07:31:13.681927Z,io.github.keelage/mcp,Keelage,0.2.1,,streamable-http,"Token intelligence for Robinhood Chain: onchain and social data on any token, timestamped."
+2026-10-05T07:32:57.834746Z,io.github.cyanheads/obsidian-mcp-server,,3.6.1,https://github.com/cyanheads/obsidian-mcp-server,,"Read, write, search, and surgically edit Obsidian notes, tags, and frontmatter via MCP."
+2026-10-05T07:39:21.182135Z,io.github.duhu2000/cninfo-mcp,CNINFO Listed Company Reports,1.4.3,https://github.com/duhu2000/cninfo-mcp,,Community MCP for querying Chinese listed-company reports and prospectuses from CNINFO.
+2026-10-05T07:40:11.375324Z,app.swiftprism/swiftprism,SwiftPrism,1.0.0,,streamable-http,"Plans, prices, and a free trial for US stock and world economic news. Not advice."
+2026-10-05T07:43:35.144628Z,io.github.lesofi/handinloop-mcp-server,,0.5.0,https://github.com/lesofi/handinloop,,"Human-in-the-loop document extraction: submit a doc, get validated fields and an audit trail."
+2026-10-05T07:45:59.606752Z,com.cloudploy/cloudploy,CloudPloy,1.0.0,,streamable-http,Deploy an app onto a server in your own cloud account.
+2026-10-05T07:50:58.592936Z,app.indexlinks/indexlinks,IndexLinks,1.0.0,,streamable-http,"Check how crawlers see a site, send new pages to search engines and AI crawlers, see crawl receipts."
+2026-10-05T07:54:01.451732Z,pro.focuspulse/focuspulse,FocusPulse,1.0.0-beta.1,https://github.com/nsdbytes/news_pulse,streamable-http,"India and US news stories linked to listed companies, commodities and indices, with sources."
+2026-10-05T07:54:21.631468Z,com.linkrra/synap,Synap,1.1.0,,streamable-http,"Open AI models through one OpenAI-compatible API: chat, live model list, prices and cost estimates."
+2026-10-05T07:57:43.417367Z,com.brix36/brix36,Brix36,0.2.0,,streamable-http,Films and music videos. You're the star. No subscription.
+2026-10-05T07:58:49.331114Z,com.spytrend/spytrend,Spytrend,2.1.1,https://github.com/Spytrend/spytrend-mcp,streamable-http,"Analytics, advertising: Facebook/Meta, TikTok, competitor ads. Free plan; Spytrend OAuth in browser"
+2026-10-05T08:02:21.337515Z,com.algotrada.cubicle/cubicle,Cubicle,1.0.0,,streamable-http,"Trading tools for agents: rehearse strategies on real candles, read the tape, open Robinhood vaults."
+2026-10-05T08:02:23.081646Z,ai.rexity/website-check,Rexity Website-Check,1.0.0,,streamable-http,"Checks a public website in six areas and returns scores from 0 to 100. Free, no key needed."
+2026-10-05T08:03:16.325244Z,ai.alcock/arena,Alcock Arena,1.2.0,,streamable-http,"A forecasting gym for AI agents. Forecast real outcomes, get graded by reality, climb a leaderboard."
+2026-10-05T08:14:22.616487Z,io.github.zktx-mcp/littlejohn-mcp,,0.0.1,https://github.com/zktx-mcp/littlejohn-mcp,,Local Robinhood Chain MCP and transaction review runtime.

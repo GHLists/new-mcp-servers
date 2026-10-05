@@ -9,32 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 07:20 UTC
+## Latest list — 2026-10-05 08:20 UTC
 
-New MCP servers published between 2026-10-05 06:19 UTC and 2026-10-05 07:20 UTC.
+New MCP servers published between 2026-10-05 07:20 UTC and 2026-10-05 08:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-05T07-20-10-111057Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-05T08-20-34-193037Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-05 06:20:23 | [io.github.LAHutchins91/patent](https://github.com/LAHutchins91/patent-mcp) | Patent | 1.0.0 | Patent by Ouroboros: USPTO and EPO search for AI assistants, over MCP. |
-| 2026-10-05 06:21:44 | [io.github.cyanheads/arxiv-mcp-server](https://github.com/cyanheads/arxiv-mcp-server) |  | 1.5.4 | Search arXiv, fetch paper metadata, and read full-text content. |
-| 2026-10-05 06:22:06 | [io.github.LAHutchins91/rank](https://github.com/LAHutchins91/rank-mcp) | Rank | 1.0.0 | Rank by Ouroboros: Google Search Console insights for AI assistants, over MCP. |
-| 2026-10-05 06:34:45 | [io.github.billy12151/memory-arbiter-mcp](https://github.com/billy12151/memory-arbiter-mcp) |  | 0.17.1 | Local SQLite MCP memory: evidence-based recall, advisory conflict notices, auth… |
-| 2026-10-05 06:35:39 | [io.github.dongdongbh/mindwtr](https://github.com/dongdongbh/Mindwtr) | Mindwtr | 1.1.11 | Task automation via SQLite, desktop Local API, or Mindwtr Cloud; read-only by d… |
-| 2026-10-05 06:40:40 | de.wirstartenki/wirstartenki | WirStartenKI | 1.0.0 | Book a free 15-minute call with Felix Schmidt, AI management consultant for fou… |
-| 2026-10-05 06:44:46 | [io.github.Anlans/edytro](https://github.com/Anlans/edytro-mcp) | Edytro | 1.0.0 | AI image editor: remove backgrounds, upscale, and edit photos by describing the… |
-| 2026-10-05 06:48:33 | [io.github.sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein) |  | 3.21.0 | The open-source governance layer for AI agents. Byte-identical run receipts, 40… |
-| 2026-10-05 06:51:20 | [io.github.app-kit-dev/mcp](https://github.com/app-kit-dev/mcp) | App-Kit | 0.1.3 | SEO audit (400 checks), text readability and grammar check, PDF to images, imag… |
-| 2026-10-05 06:52:51 | [io.github.firmalemony/fizlog-mcp](https://github.com/firmalemony/fizlog-mcp) |  | 0.1.0 | Publish changelog entries to Fizlog (in-app widget, public page, RSS) from any… |
-| 2026-10-05 06:53:39 | io.github.PerryLink/dsh-cert | DSH Plugin Certification | 0.2.3 | Read-only MCP server exposing the dsh-plugin-certification registry for DeepSee… |
-| 2026-10-05 06:55:38 | [group.aicare/aicare-mcp](https://github.com/AvatarGaia/aicare-mcp) |  | 0.2.0 | AIcare 康护评估 MCP：7 个工具、22 类检测（13 类 live）。输出健康评估与康护建议，非医学诊断。 |
-| 2026-10-05 06:57:32 | io.github.Skyblueballykid/youtube-transcript | YouTube Transcript (Apify actor, $0.004… | 1.0.0 | YouTube transcripts with timestamps, title and channel, via residential proxy (… |
-| 2026-10-05 07:00:28 | com.minaxlab/mina-labs | Mina Labs | 1.0.0 | Generate images, video, music, speech, 3D, logos and product shots with 60+ AI… |
-| 2026-10-05 07:08:26 | [io.github.DSHCorrectover/agent-runtime-guard](https://github.com/DSHCorrectover/agent-runtime-guard) |  | 1.0.0 | Agent 运行时全栈拦截: allow/deny tool calls, Ed25519 receipts, blocks RCE, theft, SSRF… |
-| 2026-10-05 07:09:23 | [io.github.skitscale/skitscale](https://github.com/skitscale/skitscale-api) | SkitScale | 1.0.0 | Comedy ad creative method as MCP tools: hooks, scoring, brand sitcoms. |
-| 2026-10-05 07:13:49 | pl.prawmi/legal-research | PrawMi | 1.3.0 | Polish and EU law: statutes, rulings, UODO/UOKiK/KNF, EU regulations, citation… |
-| 2026-10-05 07:17:01 | [io.github.zerostel/zerostel](https://github.com/zerostel/zerostel) | Zerostel | 0.1.0 | Checkpoints, timeline and rewind for AI coding agents. Local, no telemetry. |
+| 2026-10-05 07:23:18 | [io.github.cyanheads/hn-mcp-server](https://github.com/cyanheads/hn-mcp-server) |  | 0.5.21 | Browse Hacker News feeds, threads, and user profiles with full-text search. |
+| 2026-10-05 07:23:34 | [io.github.ATASTECH/pitroom](https://github.com/ATASTECH/pitroom) | Pitroom | 0.17.0 | Hands bounded coding work to cheaper worker agents: verified answers, exact dif… |
+| 2026-10-05 07:24:17 | [io.ybug/mcp](https://github.com/Ybug-io/mcp-server) | Ybug | 1.0.0 | Read, filter and triage Ybug website feedback and bug reports from your AI assi… |
+| 2026-10-05 07:24:26 | io.github.richy7734/nexus3d-mcp | Nexus3D | 0.4.1 | See and edit the building project open in Nexus3D: walls, rooms, openings, fini… |
+| 2026-10-05 07:25:11 | com.noddienight/noddie-night | Noddie Night - herbal sleep drink facts… | 1.0.0 | Facts, prices and 100 sleep Q&As from Noddie Night, a melatonin-free herbal sle… |
+| 2026-10-05 07:28:23 | app.resumequick/resumequick | ResumeQuick | 1.0.2 | Your job search in one place: resumes, the jobs you track, daily matches, inter… |
+| 2026-10-05 07:29:18 | [io.github.cyanheads/clinicaltrialsgov-mcp-server](https://github.com/cyanheads/clinicaltrialsgov-mcp-server) |  | 2.9.11 | Search ClinicalTrials.gov — find studies, retrieve results, match patients to e… |
+| 2026-10-05 07:31:13 | io.github.OnlineDopamine/scrapeatlas | ScrapeAtlas | 1.0.0 | Unified social scraper MCP — profiles, posts, videos across ~40 platforms via S… |
+| 2026-10-05 07:31:13 | io.github.keelage/mcp | Keelage | 0.2.1 | Token intelligence for Robinhood Chain: onchain and social data on any token, t… |
+| 2026-10-05 07:32:57 | [io.github.cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) |  | 3.6.1 | Read, write, search, and surgically edit Obsidian notes, tags, and frontmatter… |
+| 2026-10-05 07:39:21 | [io.github.duhu2000/cninfo-mcp](https://github.com/duhu2000/cninfo-mcp) | CNINFO Listed Company Reports | 1.4.3 | Community MCP for querying Chinese listed-company reports and prospectuses from… |
+| 2026-10-05 07:40:11 | app.swiftprism/swiftprism | SwiftPrism | 1.0.0 | Plans, prices, and a free trial for US stock and world economic news. Not advic… |
+| 2026-10-05 07:43:35 | [io.github.lesofi/handinloop-mcp-server](https://github.com/lesofi/handinloop) |  | 0.5.0 | Human-in-the-loop document extraction: submit a doc, get validated fields and a… |
+| 2026-10-05 07:45:59 | com.cloudploy/cloudploy | CloudPloy | 1.0.0 | Deploy an app onto a server in your own cloud account. |
+| 2026-10-05 07:50:58 | app.indexlinks/indexlinks | IndexLinks | 1.0.0 | Check how crawlers see a site, send new pages to search engines and AI crawlers… |
+| 2026-10-05 07:54:01 | [pro.focuspulse/focuspulse](https://github.com/nsdbytes/news_pulse) | FocusPulse | 1.0.0-beta.1 | India and US news stories linked to listed companies, commodities and indices,… |
+| 2026-10-05 07:54:21 | com.linkrra/synap | Synap | 1.1.0 | Open AI models through one OpenAI-compatible API: chat, live model list, prices… |
+| 2026-10-05 07:57:43 | com.brix36/brix36 | Brix36 | 0.2.0 | Films and music videos. You're the star. No subscription. |
+| 2026-10-05 07:58:49 | [com.spytrend/spytrend](https://github.com/Spytrend/spytrend-mcp) | Spytrend | 2.1.1 | Analytics, advertising: Facebook/Meta, TikTok, competitor ads. Free plan; Spytr… |
+| 2026-10-05 08:02:21 | com.algotrada.cubicle/cubicle | Cubicle | 1.0.0 | Trading tools for agents: rehearse strategies on real candles, read the tape, o… |
+| 2026-10-05 08:02:23 | ai.rexity/website-check | Rexity Website-Check | 1.0.0 | Checks a public website in six areas and returns scores from 0 to 100. Free, no… |
+| 2026-10-05 08:03:16 | ai.alcock/arena | Alcock Arena | 1.2.0 | A forecasting gym for AI agents. Forecast real outcomes, get graded by reality,… |
+| 2026-10-05 08:14:22 | [io.github.zktx-mcp/littlejohn-mcp](https://github.com/zktx-mcp/littlejohn-mcp) |  | 0.0.1 | Local Robinhood Chain MCP and transaction review runtime. |
 
 ## Data source
 
