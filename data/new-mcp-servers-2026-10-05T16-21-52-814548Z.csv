@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-10-05T15:23:58.572135Z,directory.tangent/tangent,Tangent,0.2.0,,streamable-http,"Hand-picked design references, UI patterns and the people behind them, each with why it fits."
+2026-10-05T15:25:04.027695Z,io.pipecore/platform,Pipecore,1.0.0,,streamable-http,Deploy and operate apps with AI agents · Деплой и поддержка приложений через AI
+2026-10-05T15:26:01.663126Z,io.github.mattmohandiss/cad-mcp-server,CAD MCP Server,0.7.0,https://github.com/mattmohandiss/cad-mcp-server,,"STEP file inspection for AI. Measure walls, draft angles, clearances. Returns facts, not guesses."
+2026-10-05T15:26:04.959027Z,io.github.coder/coder,Coder,2.35.9,https://github.com/coder/coder,streamable-http,"Manage Coder workspaces, templates, and cloud development environments"
+2026-10-05T15:28:56.837442Z,io.github.jsymen1290/pokt-agent,POKT Agent tools,0.1.0,https://github.com/jsymen1290/pocket-agents,streamable-http,"Pine Script backtest-trap checks, backtest reconciliation and official Korean finance data."
+2026-10-05T15:29:07.820207Z,io.github.proAutomator/livespace-crm-mcp,Livespace CRM MCP Server,0.1.2,https://github.com/proAutomator/livespace-crm-mcp,,Unofficial local MCP server for Livespace CRM with read tools and guarded writes.
+2026-10-05T15:31:12.383952Z,io.github.kenzolika/yandex-music-mcp,Yandex Music (unofficial),0.2.0,https://github.com/kenzolika/yandex-music-mcp,,"Unofficial Yandex Music server: search, likes, history, My Wave, playlists. Token stays local."
+2026-10-05T15:31:13.092289Z,io.github.davidpreid/deliverd,Deliverd,1.1.0,,streamable-http,"Give any AI agent a way to ask a person — for approval, a decision, an answer or a review."
+2026-10-05T15:38:06.141786Z,com.khanflow/khanflow,Khanflow,1.0.0,,streamable-http,"AI planner: your calendars, to-dos, goals and booking links. Changes wait for your yes."
+2026-10-05T15:45:55.859952Z,io.github.redpath1/the-roofing-list,The Roofing List,0.1.0,,streamable-http,"Find checked US roofers, siding and gutter contractors by city. Read-only, no login."
+2026-10-05T15:47:57.62607Z,ai.benchgecko/benchgecko,BenchGecko,1.0.0,https://github.com/BenchGecko/datasets,streamable-http,"AI model prices per provider, benchmarks, own AI behavior tests and AI economy data, with sources."
+2026-10-05T15:54:07.850958Z,net.cwsi/fares,cwsi.net Fare Classes & Mileage Calculators,1.0.0,,streamable-http,"Airline fare classes, fare comparisons and miles earned, from cwsi.net's charts and calculators."
+2026-10-05T15:54:59.198956Z,io.github.futuresearch/futuresearch-mcp,FutureSearch MCP Server,0.27.0,https://github.com/futuresearch/futuresearch-python,,"Forecast questions about the future, including the outcome under each option."
+2026-10-05T15:57:08.227392Z,ch.swisslivingindex/swiss-living-index,,1.6.0,,streamable-http,"Official Swiss data for all 26 cantons and 2,100 communes: tax, rent, health premiums, fuel, jobs."
+2026-10-05T15:57:37.247011Z,io.tradingpal/mcp,TradingPal,1.0.0,,streamable-http,"Breakout patterns on stocks & crypto, each with its historical win rate, entry, stop and target."
+2026-10-05T16:04:10.319305Z,io.github.tinh2/skills-hub,,0.1.11,https://github.com/tinh2/skills-hub,streamable-http,"Search & install 13,000+ AI agent skills from skills-hub.ai inside any MCP tool."
+2026-10-05T16:04:27.741025Z,com.wowsql/mcp,WoWSQL,1.0.0,https://github.com/WoWSQL/MCP-Server,streamable-http,"Managed Postgres MCP: projects, SQL, docs search, and storage buckets via OAuth."
+2026-10-05T16:05:35.40992Z,com.jobcrawls/connector,JobCrawls,1.0.0,,streamable-http,"Search jobs in Finland and calculate net salary. Read-only, no login. English, Finnish, Swedish."
+2026-10-05T16:10:36.795346Z,io.github.SunrisesIllNeverSee/sigrank-mcp,SigRank SignalAF — AI Operator Cascade & Leaderboard,1.0.43,https://github.com/SunrisesIllNeverSee/sigrank-mcp,,"SigRank SignalAF on-device scanner — four-token cascade, leaderboard, 24 local tools."
+2026-10-05T16:13:34.066946Z,me.fone.www/agents,fone.me,1.0.0,,streamable-http,Find and message the AI agents of people and businesses at their fone.me links.
+2026-10-05T16:15:44.296906Z,io.github.nietus/anki-mcp,Anki,0.2.0,https://github.com/nietus/anki-mcp,,"Study and manage Anki flashcards via AnkiConnect: quizzes, stats, leeches, bulk edits."
+2026-10-05T16:16:23.157251Z,io.github.liuyan-wjy/pdf-to-md,PDF to MD,1.0.0,,streamable-http,Convert PDF documents to Markdown for AI agents through an authenticated remote MCP server.
+2026-10-05T16:16:48.274414Z,io.github.DB-25/arc-control-mcp,Arc Control (macOS),0.3.1,https://github.com/DB-25/arc-control-mcp,,"macOS-only MCP server for the Arc browser: tabs, navigation, page reading, DOM, scripting"
+2026-10-05T16:18:34.989293Z,dev.shveik/agdata,agdata,1.0.0,,streamable-http,"Unblocking and fresh web data for agents: URL to Markdown, YouTube, Maps, Amazon, jobs. Pay per call"
+2026-10-05T16:18:39.795133Z,dev.shveik/agproxy,agproxy,1.0.0,,streamable-http,"Residential proxy traffic and raw fetch for agents, 190+ countries, sticky sessions. Pay per call."
