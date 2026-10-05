@@ -9,41 +9,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 10:19 UTC
+## Latest list — 2026-10-05 11:18 UTC
 
-New MCP servers published between 2026-10-05 09:21 UTC and 2026-10-05 10:19 UTC.
+New MCP servers published between 2026-10-05 10:19 UTC and 2026-10-05 11:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-05T10-19-57-481023Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-05T11-18-50-996266Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-05 09:26:04 | eu.kalkulo/calculators | Kalkulo.eu calculators | 1.0.0 | Read-only European tax, salary and benefit calculators with official sources an… |
-| 2026-10-05 09:28:01 | ai.verant/verant | Verant | 0.3.0 | Proofread live pages and sites for spelling, grammar, and placeholder text. Fre… |
-| 2026-10-05 09:31:32 | ai.1clickwebsite/mcp | 1ClickWebsite | 1.0.0 | Build and edit WordPress websites for local service businesses and run Lead Gen… |
-| 2026-10-05 09:38:48 | [io.github.NotHarshhaa/devops-mcp](https://github.com/NotHarshhaa/devops-mcp) |  | 2.1.1 | Unified MCP server for Kubernetes, ArgoCD, Prometheus, PagerDuty, and Loki |
-| 2026-10-05 09:40:16 | [io.github.GeiserX/telegram-archive-mcp](https://github.com/GeiserX/telegram-archive-mcp) |  | 0.1.3 | MCP server for Telegram Archive — search messages, browse chats, and access his… |
-| 2026-10-05 09:40:35 | [io.github.GeiserX/duplicacy-mcp](https://github.com/GeiserX/duplicacy-mcp) |  | 0.1.1 | MCP server for Duplicacy — monitor backup status and Prometheus metrics |
-| 2026-10-05 09:40:55 | [io.github.ASCIT31/darkmoon-mcp-server](https://github.com/ASCIT31/darkmoon-mcp-server) | Darkmoon | 0.1.0 | Drive a self-hosted Darkmoon Pro AI pentest instance: start runs, read campaign… |
-| 2026-10-05 09:43:40 | [io.github.coffeecoproject/layermap](https://github.com/coffeecoproject/layermap) | LayerMap | 0.1.4 | Call graph for coding agents: callers up to HTTP routes, callees and usages for… |
-| 2026-10-05 09:44:05 | [io.github.uxkin/uxkin](https://github.com/uxkin/agent) | UXKIN | 1.0.0 | Real UI references for coding agents: iOS app screens, user journeys and websit… |
-| 2026-10-05 09:46:41 | [io.github.bryantrudy24/saax-protocol](https://github.com/bryantrudy24/saax-protocol) | SAAX Protocol | 1.0.0 | Governed commitment lifecycle and rail-agnostic settlement layer for agent-to-a… |
-| 2026-10-05 09:47:44 | [io.github.sergelogvinov/talos-mcp](https://github.com/sergelogvinov/talos-mcp) | Talos MCP server for Talos Linux | 0.2.0 | Talos MCP is an opinionated MCP server for Talos Linux |
-| 2026-10-05 09:49:44 | [io.github.GeiserX/biblical-atlas-mcp](https://github.com/GeiserX/biblical-atlas-mcp) |  | 0.1.2 | Spanish Bible atlas as MCP tools: people, places, events, passages, each linked… |
-| 2026-10-05 09:52:06 | [io.github.GeiserX/lynxprompt-mcp](https://github.com/GeiserX/lynxprompt-mcp) |  | 0.1.1 | MCP server for LynxPrompt — browse, search, and manage AI configuration bluepri… |
-| 2026-10-05 09:52:17 | [io.github.GeiserX/pumperly-mcp](https://github.com/GeiserX/pumperly-mcp) |  | 0.1.1 | MCP server for Pumperly — query fuel prices, find stations, and plan routes |
-| 2026-10-05 09:53:27 | [io.github.GeiserX/cashpilot-mcp](https://github.com/GeiserX/cashpilot-mcp) |  | 0.2.2 | MCP server for CashPilot — monitor passive income, bandwidth sharing, and DePIN… |
-| 2026-10-05 09:54:42 | [io.github.uarlouski/testrail-mcp-server](https://github.com/uarlouski/testrail-mcp-server) |  | 3.2.0 | Connect AI assistants to TestRail: manage test cases, suites, runs, results, an… |
-| 2026-10-05 09:55:28 | io.robopunter/robopunter | Robo Punter | 1.0.0 | Horse and greyhound racing research, backtests and bot drafts for Robo Punter m… |
-| 2026-10-05 10:01:44 | [io.github.Sriram-PR/doc-scraper](https://github.com/Sriram-PR/doc-scraper) | doc-scraper | 2.10.0 | Crawl documentation sites into local corpora agents can search, read, and diff… |
-| 2026-10-05 10:07:08 | [io.github.GeiserX/spinnaker-mcp](https://github.com/GeiserX/spinnaker-mcp) |  | 0.3.5 | MCP server exposing Spinnaker CD platform via Gate API for pipeline and deploym… |
-| 2026-10-05 10:07:16 | com.zurelay/mcp | Zurelay | 1.0.0 | Make images, videos and speech: Nano Banana, GPT Image, Seedance, Kling, Wan an… |
-| 2026-10-05 10:07:17 | [io.github.GeiserX/genieacs-mcp](https://github.com/GeiserX/genieacs-mcp) |  | 0.3.4 | MCP server bridging GenieACS TR-069 ACS instances to LLMs for CPE device manage… |
-| 2026-10-05 10:09:58 | [com.sema-lang/sema](https://github.com/sema-lisp/sema) | Sema | 1.36.1 | MCP tools for Sema — eval, compile, build, format, and docs for a Lisp with LLM… |
-| 2026-10-05 10:11:00 | [io.github.David-glitc/sitalk](https://github.com/David-glitc/sitalk-plugins) | Sitalk | 0.1.0 | Connect agents to public expertise, approved shared context and collaborative w… |
-| 2026-10-05 10:14:22 | com.cyclesiq/cycles-iq | Cycles IQ | 1.0.0 | Cycle analysis of your own time series: dominant cycles, cycle scans, cyclic RS… |
-| 2026-10-05 10:17:49 | [io.github.ggi3201/foodie](https://github.com/chewablefit/foodie-plugin) | Chewable Foodie | 1.2.2 | Your recipes, family meal plan and shopping list from Foodie, in ChatGPT, Claud… |
-| 2026-10-05 10:19:47 | [io.github.shinpr/mcp-image](https://github.com/shinpr/mcp-image) |  | 0.15.0 | AI image generation and editing with prompt optimization and quality presets |
-| 2026-10-05 10:19:48 | [com.scribiz/mcp](https://github.com/Illyism/scribiz-mcp) | Scribiz | 0.1.0 | Transcripts, summaries, chapters and timestamped answers for video links, for A… |
+| 2026-10-05 10:22:20 | [io.github.andreilungeanu/cursor-delegate-mcp](https://github.com/andreilungeanu/cursor-delegate-mcp) | Cursor Delegate | 2.4.0 | Bridge AI coding hosts to cursor-agent over the Agent Client Protocol. |
+| 2026-10-05 10:23:11 | [io.github.enricoaboujaoude-droid/pal-commerce-catalog-intelligence](https://github.com/enricoaboujaoude-droid/practical-automation-lab) | PAL Commerce Catalog Intelligence | 1.0.0 | Paid Merchant Center audits, catalog remediation, GTIN checks and feed diffs vi… |
+| 2026-10-05 10:24:05 | [io.github.mapsmith-ai/mapsmith](https://github.com/mapsmith-ai/MapSmith) |  | 0.8.0 | Deterministic GIS geoprocessing with verifiable provenance on every output |
+| 2026-10-05 10:28:12 | [io.github.retracn/google-ads-transparency](https://github.com/retracn/google-ads-transparency-scraper) | Google Ads Transparency (via Apify) | 1.0.0 | Competitors' Google ads for AI agents: every ad a brand runs, with dates and ad… |
+| 2026-10-05 10:28:23 | [io.github.retracn/google-flights](https://github.com/retracn/google-flights-scraper) | Google Flights (via Apify) | 1.0.0 | Google Flights for AI agents: prices, airlines, flight numbers, times, stops, e… |
+| 2026-10-05 10:28:29 | [io.github.retracn/google-hotels](https://github.com/retracn/google-hotels-scraper) | Google Hotels (via Apify) | 1.0.0 | Google Hotels for AI agents: prices for your dates, ratings, star class, locati… |
+| 2026-10-05 10:28:36 | [io.github.retracn/google-images](https://github.com/retracn/google-images-scraper) | Google Images (via Apify) | 1.0.0 | Google Images for AI agents: full-size image URLs, sizes and source pages, with… |
+| 2026-10-05 10:28:52 | [io.github.retracn/google-news](https://github.com/retracn/google-news-scraper) | Google News (via Apify) | 1.0.0 | Google News for AI agents: headlines, sources, dates and article URLs, with tim… |
+| 2026-10-05 10:29:02 | [io.github.retracn/google-shopping](https://github.com/retracn/google-shopping-scraper) | Google Shopping (via Apify) | 1.0.0 | Google Shopping for AI agents: product prices, discounts, stores, ratings and r… |
+| 2026-10-05 10:29:13 | [io.github.retracn/google-videos](https://github.com/retracn/google-videos-scraper) | Google Videos (via Apify) | 1.0.0 | Google video results for AI agents: YouTube, TikTok and more, with channel and… |
+| 2026-10-05 10:29:14 | [io.github.sunsatosolutions/vulcanus](https://github.com/sunsatosolutions/Vulcanus) | Vulcanus | 0.6.0 | A validated Markdown memory vault your coding agent can recall, project by proj… |
+| 2026-10-05 10:29:29 | [io.github.retracn/youtube-transcripts](https://github.com/retracn/youtube-transcript-api) | YouTube Transcripts (via Apify) | 1.0.0 | YouTube transcripts for AI agents: text and timestamps for any video, channel o… |
+| 2026-10-05 10:31:53 | io.github.gmcfuerte/yootheme-mcp | YOOtheme Pro MCP (WordPress & Joomla) | 0.11.3 | YOOtheme Pro 5 on WordPress and Joomla: layouts, customizer, settings. Free rea… |
+| 2026-10-05 10:34:20 | [io.github.M0Rf30/yap](https://github.com/M0Rf30/yap) | YAP — Yet Another Packager | 2.7.0 | Build native Linux packages (.deb/.rpm/.apk/.pkg.tar.zst) from a single PKGBUIL… |
+| 2026-10-05 10:45:01 | io.github.jimbob1414/english-test-coach | English Test Coach | 1.0.0 | IELTS writing practice, study plans, lessons and vocabulary with optional accou… |
+| 2026-10-05 10:45:35 | com.jobsinsportstech/jobs | Jobs in Sports Tech | 1.2.0 | Search open roles at sports technology companies, refreshed daily, and sign up… |
+| 2026-10-05 10:48:47 | [io.github.tently-team/tently-mcp](https://github.com/tently-team/tently-mcp) | Tently | 0.1.1 | Checks your team's architecture decisions before your coding agent writes code. |
+| 2026-10-05 10:48:58 | ai.bumit/verify-business | BUMIT | 1.0.0-phase13.2 | Swiss business verification with per-check source provenance and evidence fresh… |
+| 2026-10-05 10:49:03 | co.subtraq/subtraq | Subtraq | 1.0.0 | Create short links, track clicks and attribute sales — 8 tools backed by the Su… |
+| 2026-10-05 10:49:04 | [kr.gronox/finbridge](https://github.com/Jakechj/finbridge-mcp) | FinBridge | 0.2.1 | Korean company disclosures in English: DART filings, financial statements, segm… |
+| 2026-10-05 10:49:38 | org.causecomp/causecomp | CauseComp | 2.0.0 | Nonprofit executive and workforce pay benchmarks built from IRS Form 990 filing… |
+| 2026-10-05 10:49:46 | [io.github.devlint/gitwand](https://github.com/devlint/GitWand) |  | 3.11.2 | Auto-resolves Git merge conflicts so agents only touch the complex hunks. |
+| 2026-10-05 10:50:00 | com.nodcheck/nodcheck | nodcheck — pre-delivery acceptance check | 2.8.0 | Check what you declared against what you submitted; per-item met/missing and a… |
+| 2026-10-05 10:59:22 | [io.github.NousVigil/archstone](https://github.com/NousVigil/archstone) |  | 0.27.1 | Compile your own business capabilities from declarative YAML and serve them as… |
+| 2026-10-05 11:00:55 | [io.github.basitalisandhu/mcp-cron-tools](https://github.com/basitalisandhu/dev-mcp-servers) | Cron Tools | 0.1.1 | Parse, explain and validate 5-field cron expressions and list upcoming runs in… |
+| 2026-10-05 11:00:59 | [io.github.basitalisandhu/mcp-dockerfile-lint](https://github.com/basitalisandhu/dev-mcp-servers) | Dockerfile Lint | 0.1.1 | Lint Dockerfiles for root users, latest tags, secrets in ENV or ARG, missing HE… |
+| 2026-10-05 11:01:00 | [io.github.basitalisandhu/mcp-git-insights](https://github.com/basitalisandhu/dev-mcp-servers) | Git Insights | 0.1.1 | Read-only git statistics for a local repository: log, blame ownership, churn, a… |
+| 2026-10-05 11:01:04 | [io.github.basitalisandhu/mcp-json-schema-tools](https://github.com/basitalisandhu/dev-mcp-servers) | JSON Schema Tools | 0.1.1 | Validate JSON against a schema with Ajv, infer a schema from samples and diff t… |
+| 2026-10-05 11:01:09 | [io.github.basitalisandhu/mcp-jwt-tools](https://github.com/basitalisandhu/dev-mcp-servers) | JWT Tools | 0.1.1 | Decode JWTs without verifying, flag risky algorithms and claims, verify HS256 o… |
+| 2026-10-05 11:01:16 | [io.github.basitalisandhu/mcp-llms-txt](https://github.com/basitalisandhu/dev-mcp-servers) | llms.txt | 0.1.1 | Build llms.txt from local Markdown or a sitemap.xml and check an existing llms.… |
+| 2026-10-05 11:01:24 | [io.github.basitalisandhu/mcp-openapi-lint](https://github.com/basitalisandhu/dev-mcp-servers) | OpenAPI Lint | 0.1.1 | Lint OpenAPI 3.x documents for missing security, responses, descriptions and ve… |
+| 2026-10-05 11:01:26 | [io.github.basitalisandhu/mcp-osv-advisories](https://github.com/basitalisandhu/dev-mcp-servers) | OSV Advisories | 0.1.1 | Query OSV.dev for known vulnerabilities by package and version, and scan lockfi… |
+| 2026-10-05 11:01:30 | [io.github.basitalisandhu/mcp-regex-lab](https://github.com/basitalisandhu/dev-mcp-servers) | Regex Lab | 0.1.1 | Test regular expressions in a timeout-guarded worker, explain them, find catast… |
+| 2026-10-05 11:01:34 | [io.github.basitalisandhu/mcp-security-headers](https://github.com/basitalisandhu/dev-mcp-servers) | Security Headers | 0.1.1 | Fetch a URL's response headers and grade CSP, HSTS, X-Frame-Options and related… |
+| 2026-10-05 11:02:26 | ai.voicedock/voicedock | VoiceDock | 1.6.0 | Build and manage voice AI agents for real phone lines: assistants, calls, numbe… |
+| 2026-10-05 11:06:30 | ai.usecove/cove | Cove — Personal Finance | 1.0.0 | Read-only access to your Cove finances: accounts, spending, transactions and re… |
+| 2026-10-05 11:07:02 | [io.github.trueoriginlabs/vibatchium](https://github.com/trueoriginlabs/vibatchium) | vibatchium | 0.19.3 | Stealth browser automation for AI agents — real Chrome, N parallel persistent l… |
+| 2026-10-05 11:09:34 | [com.hasdata/chatgpt](https://github.com/HasData/chatgpt-mcp) | HasData ChatGPT | 1.0.0 | Send a prompt to ChatGPT anonymously and get the answer with its web sources, a… |
+| 2026-10-05 11:09:56 | [com.hasdata/google-flights-deals](https://github.com/HasData/google-flights-deals-mcp) | HasData Google Flights Deals | 1.0.0 | A plain-language trip description becomes dated flight deals with prices and bo… |
+| 2026-10-05 11:13:22 | [io.github.Blaxzter/logolab](https://github.com/Blaxzter/LogoLab) | LogoLab | 0.3.0 | Trace an image to a clean SVG and export a full app-icon set, locally, from you… |
+| 2026-10-05 11:13:50 | sa.daall/mnaqasat | منصة المناقصات — Saudi Government Tende… | 1.0.0 | Saudi government tenders (Etimad): search, agencies, winners, market reports. R… |
+| 2026-10-05 11:15:14 | ai.wheremind/wheremind | Wheremind | 1.0.0 | Hosted MCP for live place search, geocoding & turn-by-turn routes. No Maps API… |
 
 ## Data source
 
