@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-10-05T20:20:44.854431Z,io.github.gmcfuerte/gmcbuilder-mcp-lite,GMC Builder MCP Lite,0.1.1,https://github.com/gmcfuerte/gmcbuilder-mcp-lite,,Limited local read-only MCP companion: GMC Builder MCP Lite.
+2026-10-05T20:20:54.19144Z,io.github.gmcfuerte/elementor-mcp-lite,Elementor MCP Lite,0.1.1,https://github.com/gmcfuerte/elementor-mcp-lite,,Limited local read-only MCP companion: Elementor MCP Lite.
+2026-10-05T20:20:56.794563Z,io.github.gmcfuerte/yootheme-mcp-lite,GMC YOOtheme MCP Lite,0.1.1,https://github.com/gmcfuerte/yootheme-mcp-lite,,Limited local read-only MCP companion: GMC YOOtheme MCP Lite.
+2026-10-05T20:27:00.40901Z,io.github.aiagenticdeveloper/sparewise,Sparewise,0.3.11,https://github.com/sparewise/sparewise,,"Why is my Windows drive full? Free space safely, within limits you set. Never deletes permanently."
+2026-10-05T20:31:02.037525Z,io.github.oismaelash/sharecontent,ShareContent,1.0.0,,streamable-http,"Short links, text and file sharing with analytics, UTM, folders, ads and custom domains."
+2026-10-05T20:31:06.361132Z,io.github.benjammartin/munition,Munition,0.0.13,https://github.com/benjammartin/munitionx402,,Upload files and search live flight offers with x402 USDC payments for AI agents.
+2026-10-05T20:47:23.361694Z,com.veritahire/hiring-intelligence,VeritaHire Hiring Intelligence,1.0.0,,streamable-http,For employers: how a healthcare job posting compares with the market; competitive hiring reports.
+2026-10-05T20:56:25.296207Z,br.com.sinthoma/conector,Sinthoma,1.0.0,,streamable-http,"Read-only Sinthoma clinical connector: patients, sessions and prep; OAuth consent and audit."
+2026-10-05T20:56:59.837853Z,io.github.sriinnu/kosha-discovery,Kosha Model Discovery,1.7.0,https://github.com/sriinnu/kosha-discovery,,"Tells your agent which model to use and what it costs, across 46 providers and local runtimes."
+2026-10-05T20:59:02.876352Z,live.cityalert/cityalert,CityAlert,0.1.1,https://github.com/homezloco/cityalert,streamable-http,"Free live public-safety incident map: global crime, fire, disaster, weather and news feeds"
+2026-10-05T21:00:34.490824Z,com.inboxtrue/inboxtrue,InboxTrue,1.0.0,,streamable-http,An MCP server that validates email addresses on demand
+2026-10-05T21:01:02.347982Z,com.pickshade/pickshade,PickShade color tools,0.2.0,https://github.com/tenzo-run/pickshade-mcp,streamable-http,"18 color tools: OKLCH, WCAG and APCA contrast fixes, palettes, gradients, color blindness, tokens."
+2026-10-05T21:03:03.183378Z,com.spansend/whatsapp,Spansend,0.1.0,,streamable-http,"WhatsApp for agents: link a number, list chats, send only after confirm to a real chat."
+2026-10-05T21:04:30.766938Z,it.giornaledellepmi/archivio,Il Giornale delle PMI,1.0.0,,streamable-http,"Cerca, elenca e leggi gli articoli del Giornale delle PMI: notizie per le imprese italiane."
+2026-10-05T21:08:48.768841Z,com.familiarvtt/familiar,Familiar,2.26.0,https://github.com/Ryanjansen92/familiar-releases,,"AI co-pilot for Foundry VTT: runs combat, scenes, voices and audio. Requires the Familiar module."
