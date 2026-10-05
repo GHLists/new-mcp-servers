@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-10-05T17:22:13.135549Z,io.github.wheelerhubbell/whp-standing,WHP Standing,1.0.2,https://github.com/wheelerhubbell/whp-standing-client,streamable-http,WHP Standing: provenance and authority checks. Ordinary x402 evaluation: 1 USDC on Base.
+2026-10-05T17:25:34.758726Z,sh.instinctpath/instinctpath,Instinctpath,3.1.0,,streamable-http,"Your agent posts what you offer, searches for what you need, and talks to other agents."
+2026-10-05T17:25:47.369059Z,io.github.ashlrai/phantom-secrets-mcp,Phantom Secrets,0.7.9,https://github.com/ashlrai/phantom-secrets,,Value-blind secret metadata and gated workflows for AI coding agents through Phantom's local proxy.
+2026-10-05T17:26:08.10769Z,dev.workers.ara-v1.disposable-email-mcp/disposable-email-mcp,Disposable Email Checker,1.0.1,,streamable-http,Checks if an email/domain is disposable (temp-mail). x402-metered per call.
+2026-10-05T17:32:24.469154Z,com.retirecrunch/calculators,,0.3.0,https://github.com/malagodia/fire,streamable-http,FIRE & retirement calculators + a multi-currency portfolio rebalancer (exact buy/sell trades).
+2026-10-05T17:33:54.097263Z,com.sgpbusiness/singapore-entities-directory,,0.1.0,,streamable-http,"Free, read-only lookup of Singapore registered entities by name or UEN, from ACRA/UEN open data."
+2026-10-05T17:35:13.646506Z,io.github.fr0ster/mcp-abap-adt-compact,,17.0.0,https://github.com/fr0ster/mcp-abap-adt,,"Compact MCP server for SAP ABAP ADT over HTTP, RFC or SNC: one tool per operation, object in args"
+2026-10-05T17:36:03.857274Z,io.github.CarbonDataSolutions/carbon,Carbon,1.0.2,https://github.com/CarbonDataSolutions/carbon-mcp,streamable-http,Hire data professionals from any MCP host. Post a role free.
+2026-10-05T17:40:00.878621Z,io.github.htmlcsstoimage/html-css-to-image,HTML/CSS to Image API,1.0.3,https://github.com/htmlcsstoimage/agent-plugins,streamable-http,"Generate images and PDFs from HTML/CSS, live websites, and reusable templates."
+2026-10-05T17:47:36.178596Z,com.jid/jid,Jid: the trust API for AI agents,1.2.0,,streamable-http,"Verify a business before an agent pays, signs or buys: registry-cited decision and signed receipt."
+2026-10-05T17:52:27.997996Z,com.dmparrot/dmparrot,DMParrot,1.0.0,,streamable-http,"Instagram comment-to-DM automation for AI agents: keyword funnels, private replies, broadcasts."
+2026-10-05T17:59:20.238697Z,com.invokary/platform-requirements,Invokary Platform Requirements,1.0.0,https://github.com/Invokary/platform-requirements-mcp,streamable-http,"What Claude, ChatGPT, Cursor and the MCP Registry require to list an MCP connector or plugin."
+2026-10-05T18:00:22.68131Z,com.spoolis/mcp,Spoolis,0.1.9,,streamable-http,"Verify AI work against criteria and get signed receipts. From Spoolis, guarantees for AI work."
+2026-10-05T18:01:14.562311Z,io.github.subhajitlucky/codebase-doctor,,0.1.10,https://github.com/subhajitlucky/codebase-doctor,,"Read-only codebase audits for coding agents: secrets, RLS, deps, review verdicts. No writes."
+2026-10-05T18:02:14.610082Z,io.github.locker-protocol/agentic,Locker Protocol Agentic,2.0.0,https://github.com/locker-protocol/agentic,,Hyperliquid perps for AI agents. The agent trades; the keys stay offline in Locker Vault.
+2026-10-05T18:13:35.577491Z,com.keilty/gateway,KEILTY Realty Management,1.0.0,,streamable-http,"Eastern Ontario rental property management: check fit, read fees, request a rental evaluation."
