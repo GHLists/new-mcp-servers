@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-10-05T06:20:23.207191Z,io.github.LAHutchins91/patent,Patent,1.0.0,https://github.com/LAHutchins91/patent-mcp,streamable-http,"Patent by Ouroboros: USPTO and EPO search for AI assistants, over MCP."
+2026-10-05T06:21:44.571905Z,io.github.cyanheads/arxiv-mcp-server,,1.5.4,https://github.com/cyanheads/arxiv-mcp-server,streamable-http,"Search arXiv, fetch paper metadata, and read full-text content."
+2026-10-05T06:22:06.359489Z,io.github.LAHutchins91/rank,Rank,1.0.0,https://github.com/LAHutchins91/rank-mcp,streamable-http,"Rank by Ouroboros: Google Search Console insights for AI assistants, over MCP."
+2026-10-05T06:34:45.325185Z,io.github.billy12151/memory-arbiter-mcp,,0.17.1,https://github.com/billy12151/memory-arbiter-mcp,,"Local SQLite MCP memory: evidence-based recall, advisory conflict notices, authorized governance."
+2026-10-05T06:35:39.315826Z,io.github.dongdongbh/mindwtr,Mindwtr,1.1.11,https://github.com/dongdongbh/Mindwtr,,"Task automation via SQLite, desktop Local API, or Mindwtr Cloud; read-only by default."
+2026-10-05T06:40:40.914134Z,de.wirstartenki/wirstartenki,WirStartenKI,1.0.0,,streamable-http,"Book a free 15-minute call with Felix Schmidt, AI management consultant for founders and CxOs."
+2026-10-05T06:44:46.883968Z,io.github.Anlans/edytro,Edytro,1.0.0,https://github.com/Anlans/edytro-mcp,streamable-http,"AI image editor: remove backgrounds, upscale, and edit photos by describing the change."
+2026-10-05T06:48:33.617627Z,io.github.sipyourdrink-ltd/bernstein,,3.21.0,https://github.com/sipyourdrink-ltd/bernstein,,"The open-source governance layer for AI agents. Byte-identical run receipts, 40+ adapters, air-gap."
+2026-10-05T06:51:20.258902Z,io.github.app-kit-dev/mcp,App-Kit,0.1.3,https://github.com/app-kit-dev/mcp,streamable-http,"SEO audit (400 checks), text readability and grammar check, PDF to images, image conversion."
+2026-10-05T06:52:51.111096Z,io.github.firmalemony/fizlog-mcp,,0.1.0,https://github.com/firmalemony/fizlog-mcp,,"Publish changelog entries to Fizlog (in-app widget, public page, RSS) from any MCP client."
+2026-10-05T06:53:39.481007Z,io.github.PerryLink/dsh-cert,DSH Plugin Certification,0.2.3,,,Read-only MCP server exposing the dsh-plugin-certification registry for DeepSeek Harness plugins.
+2026-10-05T06:55:38.547838Z,group.aicare/aicare-mcp,,0.2.0,https://github.com/AvatarGaia/aicare-mcp,streamable-http,AIcare 康护评估 MCP：7 个工具、22 类检测（13 类 live）。输出健康评估与康护建议，非医学诊断。
+2026-10-05T06:57:32.909065Z,io.github.Skyblueballykid/youtube-transcript,"YouTube Transcript (Apify actor, $0.004 per transcript)",1.0.0,,streamable-http,"YouTube transcripts with timestamps, title and channel, via residential proxy (no cloud-IP blocks)."
+2026-10-05T07:00:28.87644Z,com.minaxlab/mina-labs,Mina Labs,1.0.0,,streamable-http,"Generate images, video, music, speech, 3D, logos and product shots with 60+ AI models."
+2026-10-05T07:08:26.412084Z,io.github.DSHCorrectover/agent-runtime-guard,,1.0.0,https://github.com/DSHCorrectover/agent-runtime-guard,,"Agent 运行时全栈拦截: allow/deny tool calls, Ed25519 receipts, blocks RCE, theft, SSRF, injection. stdio."
+2026-10-05T07:09:23.009648Z,io.github.skitscale/skitscale,SkitScale,1.0.0,https://github.com/skitscale/skitscale-api,streamable-http,"Comedy ad creative method as MCP tools: hooks, scoring, brand sitcoms."
+2026-10-05T07:13:49.332516Z,pl.prawmi/legal-research,PrawMi,1.3.0,,streamable-http,"Polish and EU law: statutes, rulings, UODO/UOKiK/KNF, EU regulations, citation checks. Free tier."
+2026-10-05T07:17:01.096987Z,io.github.zerostel/zerostel,Zerostel,0.1.0,https://github.com/zerostel/zerostel,,"Checkpoints, timeline and rewind for AI coding agents. Local, no telemetry."

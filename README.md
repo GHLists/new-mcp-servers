@@ -9,30 +9,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 06:19 UTC
+## Latest list — 2026-10-05 07:20 UTC
 
-New MCP servers published between 2026-10-05 05:21 UTC and 2026-10-05 06:19 UTC.
+New MCP servers published between 2026-10-05 06:19 UTC and 2026-10-05 07:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-05T06-19-19-918253Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-05T07-20-10-111057Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-05 05:26:38 | io.github.voidly-ai/atlas | Voidly Atlas (hosted) | 0.1.0 | Hosted, no install: read-only internet-censorship incidents, evidence and count… |
-| 2026-10-05 05:34:17 | io.github.configure-dev/configure-memory | Configure Memory | 3.0.0 | Bring your saved preferences, project decisions, and useful context into your n… |
-| 2026-10-05 05:36:01 | [io.github.LAHutchins91/papers](https://github.com/LAHutchins91/papers-mcp) | Papers | 1.0.0 | Scholarly paper search with real citations for AI assistants, over MCP. |
-| 2026-10-05 05:38:38 | [io.theagentc/app-store-screenshots](https://github.com/jacobteague50-glitch/agent-c-mcp) | Agent C — App Store Screenshots | 1.0.0 | AI-designed App Store screenshot sets from your app's screens, uploaded to App… |
-| 2026-10-05 05:38:44 | io.github.creatordeskai-prog/x402-completion-verify | Creator Desk Commerce Completion Verify | 1.0.0 | Evidence-based commerce completion checks for agents. x402 paid calls and free… |
-| 2026-10-05 05:42:23 | [io.github.LAHutchins91/desk](https://github.com/LAHutchins91/desk-mcp) | Desk | 1.0.0 | Approved support answers, refund rules, and escalation limits for AI assistants… |
-| 2026-10-05 05:42:26 | [io.github.LAHutchins91/claim](https://github.com/LAHutchins91/claim-mcp) | Claim | 1.0.0 | Approved claims, offers, proof, voice, and banned phrases for brand assistants. |
-| 2026-10-05 05:42:29 | [io.github.LAHutchins91/scope](https://github.com/LAHutchins91/scope-mcp) | Scope | 1.0.0 | Approved freelance scope, rates, deadlines, and change orders, shared with AI a… |
-| 2026-10-05 05:42:32 | [io.github.LAHutchins91/invoice](https://github.com/LAHutchins91/invoice-mcp) | Invoice | 1.0.0 | Approved freelance invoice: line items, rates, due date, and late terms, over M… |
-| 2026-10-05 05:42:35 | [io.github.LAHutchins91/deposit](https://github.com/LAHutchins91/deposit-mcp) | Deposit | 1.0.0 | Approved freelance deposit and payment dates for AI assistants, over MCP. |
-| 2026-10-05 05:42:38 | [io.github.LAHutchins91/milestone](https://github.com/LAHutchins91/milestone-mcp) | Milestone | 1.0.0 | Approved freelance milestone definitions and what done means, shared with AI as… |
-| 2026-10-05 05:52:02 | [io.github.Sanflow10/adversary-gate](https://github.com/Sanflow10/adversary-gate) | AdversaryGate | 2.9.0 | Fail-closed merge gate an agent calls before saying done: MERGE, BLOCK or INCON… |
-| 2026-10-05 05:54:46 | [io.github.ShalomHunukumbura/lk-tax-mcp](https://github.com/ShalomHunukumbura/lk-tax-mcp) | Sri Lanka Tax (lk-tax) | 0.1.0 | Exact, sourced Sri Lankan tax calculations: APIT, income tax, withholding tax,… |
-| 2026-10-05 05:56:49 | app.teddyagent/teddy | Teddy | 1.0.0 | Hosting para agentes: páginas, funciones, datos y canales en tiempo real con UR… |
-| 2026-10-05 06:04:15 | com.zaleso/tools | Zaleso | 0.3.0 | Nigeria PAYE, VAT and CBN rates, sourced and dated. Plus invoice totals, QR cod… |
-| 2026-10-05 06:10:30 | [io.github.boringSQL/dryrun](https://github.com/boringSQL/dryrun) | dryrun | 0.19.0 | PostgreSQL schema intelligence from a committed snapshot. No connection, no cre… |
+| 2026-10-05 06:20:23 | [io.github.LAHutchins91/patent](https://github.com/LAHutchins91/patent-mcp) | Patent | 1.0.0 | Patent by Ouroboros: USPTO and EPO search for AI assistants, over MCP. |
+| 2026-10-05 06:21:44 | [io.github.cyanheads/arxiv-mcp-server](https://github.com/cyanheads/arxiv-mcp-server) |  | 1.5.4 | Search arXiv, fetch paper metadata, and read full-text content. |
+| 2026-10-05 06:22:06 | [io.github.LAHutchins91/rank](https://github.com/LAHutchins91/rank-mcp) | Rank | 1.0.0 | Rank by Ouroboros: Google Search Console insights for AI assistants, over MCP. |
+| 2026-10-05 06:34:45 | [io.github.billy12151/memory-arbiter-mcp](https://github.com/billy12151/memory-arbiter-mcp) |  | 0.17.1 | Local SQLite MCP memory: evidence-based recall, advisory conflict notices, auth… |
+| 2026-10-05 06:35:39 | [io.github.dongdongbh/mindwtr](https://github.com/dongdongbh/Mindwtr) | Mindwtr | 1.1.11 | Task automation via SQLite, desktop Local API, or Mindwtr Cloud; read-only by d… |
+| 2026-10-05 06:40:40 | de.wirstartenki/wirstartenki | WirStartenKI | 1.0.0 | Book a free 15-minute call with Felix Schmidt, AI management consultant for fou… |
+| 2026-10-05 06:44:46 | [io.github.Anlans/edytro](https://github.com/Anlans/edytro-mcp) | Edytro | 1.0.0 | AI image editor: remove backgrounds, upscale, and edit photos by describing the… |
+| 2026-10-05 06:48:33 | [io.github.sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein) |  | 3.21.0 | The open-source governance layer for AI agents. Byte-identical run receipts, 40… |
+| 2026-10-05 06:51:20 | [io.github.app-kit-dev/mcp](https://github.com/app-kit-dev/mcp) | App-Kit | 0.1.3 | SEO audit (400 checks), text readability and grammar check, PDF to images, imag… |
+| 2026-10-05 06:52:51 | [io.github.firmalemony/fizlog-mcp](https://github.com/firmalemony/fizlog-mcp) |  | 0.1.0 | Publish changelog entries to Fizlog (in-app widget, public page, RSS) from any… |
+| 2026-10-05 06:53:39 | io.github.PerryLink/dsh-cert | DSH Plugin Certification | 0.2.3 | Read-only MCP server exposing the dsh-plugin-certification registry for DeepSee… |
+| 2026-10-05 06:55:38 | [group.aicare/aicare-mcp](https://github.com/AvatarGaia/aicare-mcp) |  | 0.2.0 | AIcare 康护评估 MCP：7 个工具、22 类检测（13 类 live）。输出健康评估与康护建议，非医学诊断。 |
+| 2026-10-05 06:57:32 | io.github.Skyblueballykid/youtube-transcript | YouTube Transcript (Apify actor, $0.004… | 1.0.0 | YouTube transcripts with timestamps, title and channel, via residential proxy (… |
+| 2026-10-05 07:00:28 | com.minaxlab/mina-labs | Mina Labs | 1.0.0 | Generate images, video, music, speech, 3D, logos and product shots with 60+ AI… |
+| 2026-10-05 07:08:26 | [io.github.DSHCorrectover/agent-runtime-guard](https://github.com/DSHCorrectover/agent-runtime-guard) |  | 1.0.0 | Agent 运行时全栈拦截: allow/deny tool calls, Ed25519 receipts, blocks RCE, theft, SSRF… |
+| 2026-10-05 07:09:23 | [io.github.skitscale/skitscale](https://github.com/skitscale/skitscale-api) | SkitScale | 1.0.0 | Comedy ad creative method as MCP tools: hooks, scoring, brand sitcoms. |
+| 2026-10-05 07:13:49 | pl.prawmi/legal-research | PrawMi | 1.3.0 | Polish and EU law: statutes, rulings, UODO/UOKiK/KNF, EU regulations, citation… |
+| 2026-10-05 07:17:01 | [io.github.zerostel/zerostel](https://github.com/zerostel/zerostel) | Zerostel | 0.1.0 | Checkpoints, timeline and rewind for AI coding agents. Local, no telemetry. |
 
 ## Data source
 
