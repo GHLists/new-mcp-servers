@@ -9,33 +9,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 02:20 UTC
+## Latest list — 2026-10-05 03:21 UTC
 
-New MCP servers published between 2026-10-05 01:20 UTC and 2026-10-05 02:20 UTC.
+New MCP servers published between 2026-10-05 02:20 UTC and 2026-10-05 03:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-05T02-20-35-010648Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-05T03-21-43-877052Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-05 01:24:06 | io.github.ticketsdata/ticketsdata-mcp | TicketsData | 1.1.0 | Real-time ticket listings, prices and fees across major ticket marketplaces. |
-| 2026-10-05 01:29:04 | [io.github.n24q02m/wet](https://github.com/n24q02m/wet.git) |  | 3.19.1 | Open-source MCP server for AI agents: web search, content extraction, and libra… |
-| 2026-10-05 01:29:07 | [io.github.n24q02m/crg](https://github.com/n24q02m/crg.git) |  | 3.29.8 | Token-efficient code review knowledge graph: semantic search and call-graph res… |
-| 2026-10-05 01:32:39 | [io.github.athril/agentic-target-evidence](https://github.com/athril/agentic-target-evidence) | Agentic Target Evidence | 0.1.3 | Read-only biomedical evidence tools for drug-target validation: DepMap, gnomAD,… |
-| 2026-10-05 01:44:44 | io.github.DouglasGouvea/mcp-licitacoes-br | Licitações BR | 0.1.0 | Licitações e contratos públicos do Brasil (PNCP): fatos oficiais com fonte e da… |
-| 2026-10-05 01:48:21 | [com.fiatdock/fiatdock-mcp](https://github.com/fiatdock/fiatdock) | FiatDock | 1.12.0 | MCP marketplace: AI agents buy services from other agents per call in USDC, plu… |
-| 2026-10-05 01:48:24 | com.hi-daniel.techspy/techspy | TechSpy | 1.0.0 | Detect any website's tech stack, DNS and email security, subdomains and sitemap… |
-| 2026-10-05 01:48:59 | [com.widely-mobile/widely](https://github.com/Swift-Mobile-Solutions-Dev/widely-mcp) | Widely | 1.0.0 | Connect your communications to your AI. |
-| 2026-10-05 01:52:11 | [io.github.forgemeshlabs/coinopai-mcp](https://github.com/forgemeshlabs/coinopai-mcp) |  | 2.2.0 | Auditable market intelligence with calibrated forecast ranges, anomaly review,… |
-| 2026-10-05 01:52:13 | [io.github.forgemeshlabs/kronos-forgemesh-mcp](https://github.com/forgemeshlabs/kronos-forgemesh-mcp) |  | 0.2.0 | Kronos market intelligence with calibrated ranges, audits, and x402 payments on… |
-| 2026-10-05 01:52:13 | [io.github.forgemeshlabs/aso-audit-mcp](https://github.com/forgemeshlabs/aso-audit-mcp) |  | 0.4.3 | ASO Scanner — the free Agent Readiness scanner as an MCP server. Measures your… |
-| 2026-10-05 01:52:14 | [io.github.forgemeshlabs/travel-agent-mcp](https://github.com/forgemeshlabs/travel-agent-mcp) |  | 0.2.3 | Free travel tools plus live x402 Travel Pulse, day trips, weekends, weather, cr… |
-| 2026-10-05 01:52:14 | [io.github.forgemeshlabs/utility-grid-mcp](https://github.com/forgemeshlabs/utility-grid-mcp) | ForgeMesh Utility Grid MCP | 0.1.4 | Discover and call 400+ practical APIs through seven MCP tools with free search… |
-| 2026-10-05 01:52:14 | [io.github.forgemeshlabs/x402-ads-mcp](https://github.com/forgemeshlabs/x402-ads-mcp) |  | 0.2.3 | x402 ad recommendations, intent analytics, and machine-commerce demand reports. |
-| 2026-10-05 01:53:56 | [io.github.forgemeshlabs/affiliate-router-mcp](https://github.com/forgemeshlabs/affiliate-router-mcp) |  | 0.1.12 | Route x402 payments, Pyrimid affiliate splits, and referral links. Vendor-neutr… |
-| 2026-10-05 01:53:57 | [io.github.forgemeshlabs/x402-notary-mcp](https://github.com/forgemeshlabs/x402-notary-mcp) | x402 Notary MCP | 0.1.9 | Cryptographic receipts for AI outputs on Base or Solana via x402. |
-| 2026-10-05 02:04:48 | io.github.yummlees/scrooge-tool-mill | Scrooge Tool Mill | 1.0.0 | Pay-per-call web page tools for agents (meta, text, links, change check). USDC… |
-| 2026-10-05 02:05:18 | com.humanfn/humanfn | HumanFn | 1.0.0 | Send a local person to a Phoenix, AZ address to check, photograph, measure or v… |
-| 2026-10-05 02:10:47 | io.github.snefhew/factline | Factline | 0.2.0 | Dutch address facts in English: building, neighbourhood, crime, amenities, monu… |
+| 2026-10-05 02:21:33 | [io.github.DiegoLopez0208/rpgmaker-mv-ultimate](https://github.com/DiegoLopez0208/RpgMakerMVUltimate-MCP) | RPG Maker MV Ultimate MCP | 5.19.0 | RPG Maker MV Ultimate: AI copilot to generate, edit and understand RPG Maker MV… |
+| 2026-10-05 02:23:16 | [io.github.WSattazahn/caveat-lang](https://github.com/WSattazahn/caveat-lang) |  | 0.1.0-rc.14 | Authoring bridge for Caveat: validate, check and test programs; explain decisio… |
+| 2026-10-05 02:26:18 | [ar.com.muovi/mcp-server](https://github.com/muovi-latam/mcp-server) |  | 0.4.0 | MCP server for Muovi, Argentina's trust-first local services marketplace: find… |
+| 2026-10-05 02:26:32 | [io.github.edgeorgie/crispy-profiling](https://github.com/edgeorgie/crispy-profiling) | Crispy Profiling | 0.1.0 | Deterministic React render profiling: renders, wasted renders and their causes… |
+| 2026-10-05 02:27:20 | [io.github.n24q02m/mnemo](https://github.com/n24q02m/mnemo.git) |  | 2.19.1 | Persistent AI memory with hybrid search and embedded sync. Open, free, unlimite… |
+| 2026-10-05 02:28:21 | [io.github.alexmeckes/gifgif](https://github.com/alexmeckes/gifgif) |  | 0.3.6 | Fit a video or GIF to its destination's size limit at measured quality, and sha… |
+| 2026-10-05 02:33:34 | com.saasrfp/saas-rfp | SaaS RFP | 1.0.0 | Post software RFPs, read vendor feature lists, and bid on public SaaS replaceme… |
+| 2026-10-05 02:38:16 | [io.github.kinti/a11y-toolkit](https://github.com/kinti/a11y-toolkit) | A11Y Toolkit | 5.2.0 | The accessibility layer for AI coding agents: audit, fix, document and watch -… |
+| 2026-10-05 02:46:27 | la.diagram/diagram | Diagram | 1.0.0 | Saves the diagrams your AI draws and gives you a link to share. Edits update th… |
+| 2026-10-05 02:50:04 | com.cve-security/cve-intelligence |  | 1.7.0 | CVE intelligence: exploitation (KEV/EPSS), detection coverage, fixed versions,… |
+| 2026-10-05 02:56:14 | com.realevr.estates/estates | RealEVR Estates | 1.0.0 | Search real homes in Africa (rent, BnB, sale, bank sales) with 360° virtual tou… |
+| 2026-10-05 02:57:09 | ai.agothe.mcp-chatgpt/agent-contract-preflight | Agothe Agent Contract Preflight | 0.2.0 | Deterministic MCP, JSON Schema, and SemVer preflight via Agothe's public MUV sc… |
+| 2026-10-05 02:57:16 | com.invoicemama/invoicemama | Invoice Mama | 1.0.0 | Look up invoices, estimates, and customers. Save a draft. Nothing is sent. |
+| 2026-10-05 03:02:14 | [com.blackswancausallabs/nhanes-mcp](https://github.com/Black-Swan-Causal-Labs/nhanes-mcp) | NHANES (design-correct survey analysis) | 0.5.1 | Design-correct NHANES analysis: survey weights, pooled cycles, CIs and NCHS rel… |
+| 2026-10-05 03:03:27 | [io.github.Kaption-AI/mcp-extension-remote](https://github.com/Kaption-AI/mcp-extension-remote) | Kaption WhatsApp (Cloud) | 1.0.0 | Use WhatsApp from AI apps through the Kaption extension. OAuth 2.1 relay that c… |
+| 2026-10-05 03:05:33 | [io.github.ClawCall-Dev/clawcall](https://github.com/ClawCall-Dev/clawcall) |  | 0.2.0 | Real US phone calls for AI agents: navigates phone menus, waits on hold, return… |
+| 2026-10-05 03:08:07 | ai.buzzsearch/mcp | BuzzSearch | 1.0.0 | Search Reddit, TikTok, YouTube, and Facebook comments for exact customer quotes… |
+| 2026-10-05 03:12:43 | io.github.boriskendev/stormap | Stormap | 1.1.0 | AI visibility score, AI crawler checks, llms.txt and robots.txt generators, AI… |
+| 2026-10-05 03:13:44 | com.ringahuman/ringahuman | Ring a Human | 1.0.0 | Hand phone calls to vetted humans. Agents create call tasks; people dial and re… |
 
 ## Data source
 

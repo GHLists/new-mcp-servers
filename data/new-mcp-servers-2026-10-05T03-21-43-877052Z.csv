@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-10-05T02:21:33.57357Z,io.github.DiegoLopez0208/rpgmaker-mv-ultimate,RPG Maker MV Ultimate MCP,5.19.0,https://github.com/DiegoLopez0208/RpgMakerMVUltimate-MCP,,"RPG Maker MV Ultimate: AI copilot to generate, edit and understand RPG Maker MV projects (MCP)"
+2026-10-05T02:23:16.77348Z,io.github.WSattazahn/caveat-lang,,0.1.0-rc.14,https://github.com/WSattazahn/caveat-lang,,"Authoring bridge for Caveat: validate, check and test programs; explain decisions; find dependents."
+2026-10-05T02:26:18.399893Z,ar.com.muovi/mcp-server,,0.4.0,https://github.com/muovi-latam/mcp-server,streamable-http,"MCP server for Muovi, Argentina's trust-first local services marketplace: find pros, draft tasks."
+2026-10-05T02:26:32.676699Z,io.github.edgeorgie/crispy-profiling,Crispy Profiling,0.1.0,https://github.com/edgeorgie/crispy-profiling,,"Deterministic React render profiling: renders, wasted renders and their causes per component."
+2026-10-05T02:27:20.051258Z,io.github.n24q02m/mnemo,,2.19.1,https://github.com/n24q02m/mnemo.git,,"Persistent AI memory with hybrid search and embedded sync. Open, free, unlimited."
+2026-10-05T02:28:21.383934Z,io.github.alexmeckes/gifgif,,0.3.6,https://github.com/alexmeckes/gifgif,,"Fit a video or GIF to its destination's size limit at measured quality, and share a link."
+2026-10-05T02:33:34.403316Z,com.saasrfp/saas-rfp,SaaS RFP,1.0.0,,streamable-http,"Post software RFPs, read vendor feature lists, and bid on public SaaS replacement requests."
+2026-10-05T02:38:16.325606Z,io.github.kinti/a11y-toolkit,A11Y Toolkit,5.2.0,https://github.com/kinti/a11y-toolkit,,"The accessibility layer for AI coding agents: audit, fix, document and watch - WCAG 2.2."
+2026-10-05T02:46:27.359226Z,la.diagram/diagram,Diagram,1.0.0,,streamable-http,Saves the diagrams your AI draws and gives you a link to share. Edits update the same link.
+2026-10-05T02:50:04.864288Z,com.cve-security/cve-intelligence,,1.7.0,,streamable-http,"CVE intelligence: exploitation (KEV/EPSS), detection coverage, fixed versions, CPE configurations."
+2026-10-05T02:56:14.041733Z,com.realevr.estates/estates,RealEVR Estates,1.0.0,,streamable-http,"Search real homes in Africa (rent, BnB, sale, bank sales) with 360° virtual tours."
+2026-10-05T02:57:09.099626Z,ai.agothe.mcp-chatgpt/agent-contract-preflight,Agothe Agent Contract Preflight,0.2.0,,streamable-http,"Deterministic MCP, JSON Schema, and SemVer preflight via Agothe's public MUV scope."
+2026-10-05T02:57:16.447156Z,com.invoicemama/invoicemama,Invoice Mama,1.0.0,,streamable-http,"Look up invoices, estimates, and customers. Save a draft. Nothing is sent."
+2026-10-05T03:02:14.11936Z,com.blackswancausallabs/nhanes-mcp,NHANES (design-correct survey analysis),0.5.1,https://github.com/Black-Swan-Causal-Labs/nhanes-mcp,,"Design-correct NHANES analysis: survey weights, pooled cycles, CIs and NCHS reliability flags."
+2026-10-05T03:03:27.502472Z,io.github.Kaption-AI/mcp-extension-remote,Kaption WhatsApp (Cloud),1.0.0,https://github.com/Kaption-AI/mcp-extension-remote,streamable-http,Use WhatsApp from AI apps through the Kaption extension. OAuth 2.1 relay that cannot read messages.
+2026-10-05T03:05:33.753322Z,io.github.ClawCall-Dev/clawcall,,0.2.0,https://github.com/ClawCall-Dev/clawcall,streamable-http,"Real US phone calls for AI agents: navigates phone menus, waits on hold, returns transcripts."
+2026-10-05T03:08:07.499846Z,ai.buzzsearch/mcp,BuzzSearch,1.0.0,,streamable-http,"Search Reddit, TikTok, YouTube, and Facebook comments for exact customer quotes for ad copy."
+2026-10-05T03:12:43.155855Z,io.github.boriskendev/stormap,Stormap,1.1.0,,streamable-http,"AI visibility score, AI crawler checks, llms.txt and robots.txt generators, AI agent guides."
+2026-10-05T03:13:44.241428Z,com.ringahuman/ringahuman,Ring a Human,1.0.0,,streamable-http,Hand phone calls to vetted humans. Agents create call tasks; people dial and report outcomes.
