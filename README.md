@@ -9,33 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 03:21 UTC
+## Latest list — 2026-10-05 04:19 UTC
 
-New MCP servers published between 2026-10-05 02:20 UTC and 2026-10-05 03:21 UTC.
+New MCP servers published between 2026-10-05 03:21 UTC and 2026-10-05 04:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-05T03-21-43-877052Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-05T04-19-14-178723Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-05 02:21:33 | [io.github.DiegoLopez0208/rpgmaker-mv-ultimate](https://github.com/DiegoLopez0208/RpgMakerMVUltimate-MCP) | RPG Maker MV Ultimate MCP | 5.19.0 | RPG Maker MV Ultimate: AI copilot to generate, edit and understand RPG Maker MV… |
-| 2026-10-05 02:23:16 | [io.github.WSattazahn/caveat-lang](https://github.com/WSattazahn/caveat-lang) |  | 0.1.0-rc.14 | Authoring bridge for Caveat: validate, check and test programs; explain decisio… |
-| 2026-10-05 02:26:18 | [ar.com.muovi/mcp-server](https://github.com/muovi-latam/mcp-server) |  | 0.4.0 | MCP server for Muovi, Argentina's trust-first local services marketplace: find… |
-| 2026-10-05 02:26:32 | [io.github.edgeorgie/crispy-profiling](https://github.com/edgeorgie/crispy-profiling) | Crispy Profiling | 0.1.0 | Deterministic React render profiling: renders, wasted renders and their causes… |
-| 2026-10-05 02:27:20 | [io.github.n24q02m/mnemo](https://github.com/n24q02m/mnemo.git) |  | 2.19.1 | Persistent AI memory with hybrid search and embedded sync. Open, free, unlimite… |
-| 2026-10-05 02:28:21 | [io.github.alexmeckes/gifgif](https://github.com/alexmeckes/gifgif) |  | 0.3.6 | Fit a video or GIF to its destination's size limit at measured quality, and sha… |
-| 2026-10-05 02:33:34 | com.saasrfp/saas-rfp | SaaS RFP | 1.0.0 | Post software RFPs, read vendor feature lists, and bid on public SaaS replaceme… |
-| 2026-10-05 02:38:16 | [io.github.kinti/a11y-toolkit](https://github.com/kinti/a11y-toolkit) | A11Y Toolkit | 5.2.0 | The accessibility layer for AI coding agents: audit, fix, document and watch -… |
-| 2026-10-05 02:46:27 | la.diagram/diagram | Diagram | 1.0.0 | Saves the diagrams your AI draws and gives you a link to share. Edits update th… |
-| 2026-10-05 02:50:04 | com.cve-security/cve-intelligence |  | 1.7.0 | CVE intelligence: exploitation (KEV/EPSS), detection coverage, fixed versions,… |
-| 2026-10-05 02:56:14 | com.realevr.estates/estates | RealEVR Estates | 1.0.0 | Search real homes in Africa (rent, BnB, sale, bank sales) with 360° virtual tou… |
-| 2026-10-05 02:57:09 | ai.agothe.mcp-chatgpt/agent-contract-preflight | Agothe Agent Contract Preflight | 0.2.0 | Deterministic MCP, JSON Schema, and SemVer preflight via Agothe's public MUV sc… |
-| 2026-10-05 02:57:16 | com.invoicemama/invoicemama | Invoice Mama | 1.0.0 | Look up invoices, estimates, and customers. Save a draft. Nothing is sent. |
-| 2026-10-05 03:02:14 | [com.blackswancausallabs/nhanes-mcp](https://github.com/Black-Swan-Causal-Labs/nhanes-mcp) | NHANES (design-correct survey analysis) | 0.5.1 | Design-correct NHANES analysis: survey weights, pooled cycles, CIs and NCHS rel… |
-| 2026-10-05 03:03:27 | [io.github.Kaption-AI/mcp-extension-remote](https://github.com/Kaption-AI/mcp-extension-remote) | Kaption WhatsApp (Cloud) | 1.0.0 | Use WhatsApp from AI apps through the Kaption extension. OAuth 2.1 relay that c… |
-| 2026-10-05 03:05:33 | [io.github.ClawCall-Dev/clawcall](https://github.com/ClawCall-Dev/clawcall) |  | 0.2.0 | Real US phone calls for AI agents: navigates phone menus, waits on hold, return… |
-| 2026-10-05 03:08:07 | ai.buzzsearch/mcp | BuzzSearch | 1.0.0 | Search Reddit, TikTok, YouTube, and Facebook comments for exact customer quotes… |
-| 2026-10-05 03:12:43 | io.github.boriskendev/stormap | Stormap | 1.1.0 | AI visibility score, AI crawler checks, llms.txt and robots.txt generators, AI… |
-| 2026-10-05 03:13:44 | com.ringahuman/ringahuman | Ring a Human | 1.0.0 | Hand phone calls to vetted humans. Agents create call tasks; people dial and re… |
+| 2026-10-05 03:22:10 | io.github.saulius876-lgtm/google-jobs | Google Jobs API | 1.0.0 | Google Jobs listings by keyword and location: title, company, salary, source bo… |
+| 2026-10-05 03:22:11 | io.github.saulius876-lgtm/instagram-reels-transcripts | Instagram Reels Transcripts | 1.0.0 | Instagram Reels to text in bulk: transcripts with timestamps, SRT and VTT for p… |
+| 2026-10-05 03:22:14 | io.github.saulius876-lgtm/tiktok-transcripts | TikTok Transcripts & Subtitles | 1.0.0 | TikTok videos to text in bulk: transcripts with timestamps, SRT and VTT. Native… |
+| 2026-10-05 03:24:19 | [com.nextoolsolutions/glpi](https://github.com/NexTools-Solutions/nextool-mcp-glpi) | NexTool MCP for GLPI | 3.5.2 | MCP server for GLPI: tickets, ITIL, assets, knowledge base. GLPI 10/11. Not aff… |
+| 2026-10-05 03:25:15 | [io.github.industrial-platform-ai/x402-adoption](https://github.com/industrial-platform-ai/industrial-platform-agent-tools) | Industrial Platform x402 Adoption Search | 1.0.0 | Search current x402 adoption, integrations, launches and machine-payment activi… |
+| 2026-10-05 03:26:59 | [io.github.Kaption-AI/mcp-extension](https://github.com/Kaption-AI/mcp-extension) | Kaption WhatsApp | 0.5.6 | Read and manage your WhatsApp conversations through the KaptionAI browser exten… |
+| 2026-10-05 03:28:23 | [io.github.knaisoma/data-olympus](https://github.com/knaisoma/data-olympus) | Data Olympus | 0.11.0 | Governance-grade knowledge-base format (OKF-compatible) plus CLI and single-wri… |
+| 2026-10-05 03:28:31 | [io.github.dfridkin/clawops](https://github.com/dfridkin/clawops) | clawops | 2.2.0 | Deploy self-hosted OpenClaw to AWS, GCP, Azure or a local VM — a CLI and an MCP… |
+| 2026-10-05 03:34:44 | [io.github.greencore-solutions/a2a-passport](https://github.com/greencore-solutions/a2a-passport) | A2A Passport — one GTIN, one call, ever… | 1.0.0 | The hubs are the records; A2A-Passport.ai issues the passport. |
+| 2026-10-05 03:41:43 | [io.github.sergiomaldo/dealroom](https://github.com/RINDOGATAN/deal-room) | Dealroom | 1.0.0 | Draft and negotiate contracts clause by clause; a published formula proposes th… |
+| 2026-10-05 03:45:44 | io.github.LegendarySpy/storefast | StoreFast | 1.0.0 | Publish desktop apps to the Microsoft Store and check their downloads, reviews… |
+| 2026-10-05 03:45:49 | com.enhancedint/enhanced-intelligence | Book Enhanced Intelligence LLC | 1.0.0 | Book with Enhanced Intelligence LLC: services, prices and open times. No key ne… |
+| 2026-10-05 03:45:50 | com.enhancedint/es-luxury | Book ES Luxury Auto Detailing | 1.0.0 | Book with ES Luxury Auto Detailing: services, prices and open times. No key nee… |
+| 2026-10-05 03:59:57 | [io.github.ljcl/intervals-mcp](https://github.com/ljcl/intervals-mcp) |  | 2.2.0 | Remote MCP server for intervals.icu run data and analysis |
+| 2026-10-05 04:01:31 | io.github.Qumge/speakpen-mcp | SpeakPen: Your Voice Notes | 1.0.0 | Read-only access to your SpeakPen voice notes: search, read transcripts, list r… |
+| 2026-10-05 04:01:51 | [io.github.iVamsi/android-agent-kit](https://github.com/iVamsi/droid-agent-kit) | DroidAgentKit | 0.3.1-alpha | Local-first Android development MCP: Gradle, adb, logcat, lint, crash triage, P… |
+| 2026-10-05 04:04:06 | [vn.monapay/monapay-mcp](https://github.com/mona-software/monapay-mcp) |  | 0.6.2 | MONA Pay for AI agents: create VietQR, check bank transfers, webhooks & HMAC. V… |
+| 2026-10-05 04:04:08 | [vn.monacloud/monacloud-mcp](https://github.com/mona-software/monacloud-mcp) |  | 0.11.1 | Buy .vn/intl domains in VND, deploy apps, Postgres, email, VietQR pay — Vietnam… |
+| 2026-10-05 04:06:15 | [vn.monadomain/monadomain-mcp](https://github.com/mona-software/monadomain-mcp) |  | 0.1.2 | Buy .vn and international domains in VND from the terminal; search and reserve… |
+| 2026-10-05 04:09:46 | sg.evaa.beacon/beacon | Beacon by EVAA | 1.0.0 | Read-only facts about Beacon by EVAA: what it is, its offers and its AI search… |
+| 2026-10-05 04:10:41 | io.minoa/minoa | Minoa | 1.2.3 | Query the value record behind a deal: business cases, value frameworks, and rea… |
+| 2026-10-05 04:16:32 | [com.rootpublish/ai-facts](https://github.com/nandarona-inc/rootpublish-ai-facts) | Rootpublish AI facts check | 0.1.0 | Check what an AI assistant tells buyers about a company against the company's o… |
+| 2026-10-05 04:16:47 | [io.github.tang-vu/keryx](https://github.com/tang-vu/keryx) |  | 0.4.4 | Budgeted research with cited evidence and visible payment state on the selected… |
 
 ## Data source
 
