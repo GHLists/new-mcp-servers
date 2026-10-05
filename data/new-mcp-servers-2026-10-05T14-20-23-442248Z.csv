@@ -1,0 +1,44 @@
+created_at,server,title,version,repository,transports,description
+2026-10-05T13:24:26.978111Z,io.github.r2cuerdame/codesamplex,CodeSampleX,0.2.2,https://github.com/r2cuerdame/CodeSampleX,,Compatibility evidence from real builds: does this library API work on your versions and runtime?
+2026-10-05T13:24:35.996715Z,blue.brick/hub,brick.blue,0.1.3,https://github.com/brick-blue/brick-blue-mcp,streamable-http,"Where agents are paid for work and pay per call: 180k measured tools, escrowed tasks, x402 rails."
+2026-10-05T13:25:12.43085Z,com.agentgroundcrew/field-services,Agent Groundcrew,1.0.0,https://github.com/6mvbz5wv6c-byte/agentgroundcrew-mcp,streamable-http,"Human field services for AI agents: site photos, equipment checks, remote hands and coordination."
+2026-10-05T13:25:23.370694Z,io.github.jonradoff/lightcms,,7.3.4,https://github.com/jonradoff/lightcms,,"AI-native, open-source CMS (Go) with 128 MCP tools: content, agent sandbox, SEO & AI."
+2026-10-05T13:26:08.422325Z,io.github.setluca/luca-mcp,,0.3.0,,streamable-http,Run DM sales in Luca from any MCP client: 188 API tools and 15 task tools for leads and calls.
+2026-10-05T13:29:20.067209Z,io.github.alienbase-xyz/epsilon,Epsilon,0.4.0,https://github.com/alienbase-xyz/EpsilonRobinhood,streamable-http,"Non-custodial limit, stop-loss and DCA trading on Epsilon (Robinhood Chain) for AI agents"
+2026-10-05T13:29:25.760363Z,app.wherethemlogs/log-locations,Where Them Logs,1.0.0,https://github.com/scotscottmca/wherethemlogs.app,streamable-http,"Where apps write their log files on Windows, macOS and Linux, as exact copyable paths."
+2026-10-05T13:29:44.114665Z,io.github.danie-carbondatasolutions/carbon,Carbon,1.0.0,https://github.com/danie-carbondatasolutions/carbon-mcp,streamable-http,Hire data professionals from any MCP host. Post a role free.
+2026-10-05T13:30:25.860764Z,info.astroway/astrology,AstroWay Astrology API (full catalogue),0.4.2,,streamable-http,"Every AstroWay endpoint as a tool: Western, Vedic, Chinese, Human Design, tarot, reports."
+2026-10-05T13:30:36.960233Z,info.astroway/core,AstroWay Core astrology,0.4.2,,streamable-http,"Natal charts, planets, houses, aspects, dignities, rendering and the calendar."
+2026-10-05T13:30:42.337927Z,com.agentlefs/agentlefs,agentleFS,0.3.6,,streamable-http,Agent permissions for the files your team shares
+2026-10-05T13:30:43.254426Z,info.astroway/vedic,AstroWay Vedic astrology,0.4.2,,streamable-http,"Vargas, dashas, panchang, shadbala, yogas, doshas, jaimini and the rest of the Jyotish suite."
+2026-10-05T13:30:48.729277Z,info.astroway/chinese,AstroWay Chinese metaphysics,0.4.2,,streamable-http,"BaZi four pillars, Zi Wei Dou Shu, the Chinese calendar and feng shui."
+2026-10-05T13:30:53.101378Z,info.astroway/hellenistic,AstroWay Hellenistic and traditional,0.4.2,,streamable-http,"Lots, sect, triplicity rulers, zodiacal releasing, annual profections and horary."
+2026-10-05T13:30:59.805737Z,info.astroway/tarot,AstroWay Tarot,0.4.2,,streamable-http,"Rider-Waite, Thoth and Marseille decks, spreads, draws and card reference."
+2026-10-05T13:31:05.777059Z,info.astroway/numerology,AstroWay Numerology,0.4.2,,streamable-http,"Pythagorean and Chaldean systems, Kabbalistic numbers, destiny and name analysis."
+2026-10-05T13:31:10.110683Z,info.astroway/human-design,AstroWay Human Design,0.4.2,,streamable-http,"Bodygraph, centres, channels, incarnation cross, penta and group overlay."
+2026-10-05T13:31:16.381813Z,info.astroway/forecast,AstroWay Forecasting,0.4.2,,streamable-http,"Transits, progressions, directions, returns, cosmobiology and evolutionary technique."
+2026-10-05T13:31:22.184565Z,info.astroway/relationships,AstroWay Relationships,0.4.2,,streamable-http,"Synastry, composite, compatibility scores, family dynamics and pet charts."
+2026-10-05T13:31:29.411962Z,info.astroway/psychological,AstroWay Psychological astrology,0.4.2,,streamable-http,"Archetypes, Jungian typology, shadow work and the relationship-style readings."
+2026-10-05T13:31:32.571318Z,info.astroway/divination,AstroWay Divination and esoterica,0.4.2,,streamable-http,"Geomancy, I Ching, runes, Mayan calendar, Kabbalah, palmistry and the esoteric suite."
+2026-10-05T13:31:37.489838Z,info.astroway/applied,AstroWay Applied readings,0.4.2,,streamable-http,"Business, financial and wellness astrology, written for a use rather than a technique."
+2026-10-05T13:31:40.10063Z,info.astroway/reports,AstroWay Reports,0.4.2,,streamable-http,Sixteen finished PDF reports and the white-label configuration behind them.
+2026-10-05T13:31:42.028903Z,info.astroway/platform,AstroWay Platform,0.4.2,,streamable-http,"Webhooks, streaming and the AI interpretation endpoints."
+2026-10-05T13:31:45.223229Z,info.astroway/docs,AstroWay API Docs,0.4.2,,streamable-http,AstroWay API documentation search and endpoint lookup with credit prices. No API key needed.
+2026-10-05T13:32:04.939914Z,se.fundamentwebb.api/foretagskoll,Företagskoll – Swedish company data,1.0.0,,streamable-http,Swedish company lookups and annual-report financials from Bolagsverket/SCB. Paid per call (x402).
+2026-10-05T13:32:06.496781Z,ai.saymaker/saymaker-mcp,,0.1.1,https://github.com/hanshs474/saymaker-mcp,,"Generate and edit AI images and video on SayMaker: Veo 3.1, Kling 3.0, Seedance 2.0, Nano Banana 2."
+2026-10-05T13:33:46.464943Z,io.github.mewc/favicon-app-icons,Favicon & App Icons,2.0.0,https://github.com/mewc/favicon-generator,streamable-http,"Check, generate, and troubleshoot complete favicon, Apple touch icon, PWA, and web app icon sets."
+2026-10-05T13:36:22.872603Z,io.github.kody-w/raptr-agent-builder,,1.0.0,https://github.com/kody-w/airaptr,streamable-http,"Turn an idea or meeting transcript into a working single-file AI agent, check it, use it right away."
+2026-10-05T13:36:25.474635Z,io.github.kody-w/raptr-agent-finder,,1.0.0,https://github.com/kody-w/airaptr,streamable-http,"Find a free, ready-made AI agent for a task in the open agent registry (RAR)."
+2026-10-05T13:36:29.564316Z,io.github.kody-w/raptr-domains,,1.0.0,https://github.com/kody-w/airaptr,streamable-http,"Check and price up to 20 domain names at once; agents can register them, paying per request."
+2026-10-05T13:36:33.450089Z,io.github.kody-w/raptr-names,,1.0.0,https://github.com/kody-w/airaptr,streamable-http,"Name a business or project; check which domains and GitHub names are free, with prices."
+2026-10-05T13:41:07.64059Z,io.github.ppl-crm/ppl,,1.3.1,https://github.com/ppl-crm/ppl,streamable-http,ppl: the personal CRM for AI agents. Structured relationship memory over hosted MCP.
+2026-10-05T13:50:08.472362Z,com.clippingalpha/mcp,ClippingAlpha,1.0.0,,streamable-http,"Live clipping campaigns from every major board, ranked by Alpha Score, with pay, budget and run-out."
+2026-10-05T13:50:28.788557Z,io.github.kiskecske24/hiring-signals,Hiring Signals,1.0.0,https://github.com/kiskecske24/hiring-signals-mcp,streamable-http,"Live job openings from Workday, Greenhouse, Lever, Ashby, Workable and Personio career sites."
+2026-10-05T13:50:36.802201Z,io.github.zornade/zornade-mcp,"Zornade MCP - Italian Cadastre, Geospatial and Real Estate Data",1.1.0,https://github.com/zornade/zornade-mcp,streamable-http,"Italian cadastral parcels, geocoding, OMI valuations, risk and demographic data. 85M parcels."
+2026-10-05T13:51:10.010282Z,ai.elfa/mcp,,4.5.0,https://github.com/elfa-ai/mcp,,"Crypto social intelligence from X and Telegram, plus the Elfa Auto condition engine"
+2026-10-05T13:54:55.100781Z,io.github.ThatMojo/chinacarapi-mcp,ChinaCarAPI - Chinese used cars,1.2.0,https://github.com/ThatMojo/encarapi-mcp,streamable-http,"Live used car listings from China (Dongchedi, Che168) in English, with inspection reports."
+2026-10-05T13:56:10.293081Z,ai.sellantica/mcp,Sellantica Amazon Ads,1.0.0,,streamable-http,"Amazon PPC data, P&L and inventory for AI assistants; changes only after your approval."
+2026-10-05T14:00:48.510255Z,io.github.BrightbeamAI/metis,Metis,0.1.6,https://github.com/BrightbeamAI/metis,,"Governed tacit memory for AI agents: reviewed expert know-how, given only where conditions match"
+2026-10-05T14:02:19.211596Z,news.pollar/pollar-news,Pollar News,1.2.0,,streamable-http,"Independent European news from Pollar: search, explainers, brief, threads, audio, films. Read-only."
+2026-10-05T14:11:03.481796Z,ai.looot/looot,looot,1.0.0,,streamable-http,"One key and one balance for 2,350 data APIs your AI agent can call, pay per call."
+2026-10-05T14:18:03.043818Z,studio.trackforge/music-registration-check,TrackForge,1.0.0,,streamable-http,"Check a song's MLC registration and unclaimed shares by ISRC; writers, publishers, ISWC; CWR checks"
