@@ -9,37 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 08:20 UTC
+## Latest list — 2026-10-05 09:21 UTC
 
-New MCP servers published between 2026-10-05 07:20 UTC and 2026-10-05 08:20 UTC.
+New MCP servers published between 2026-10-05 08:20 UTC and 2026-10-05 09:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-05T08-20-34-193037Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-05T09-21-55-581954Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-05 07:23:18 | [io.github.cyanheads/hn-mcp-server](https://github.com/cyanheads/hn-mcp-server) |  | 0.5.21 | Browse Hacker News feeds, threads, and user profiles with full-text search. |
-| 2026-10-05 07:23:34 | [io.github.ATASTECH/pitroom](https://github.com/ATASTECH/pitroom) | Pitroom | 0.17.0 | Hands bounded coding work to cheaper worker agents: verified answers, exact dif… |
-| 2026-10-05 07:24:17 | [io.ybug/mcp](https://github.com/Ybug-io/mcp-server) | Ybug | 1.0.0 | Read, filter and triage Ybug website feedback and bug reports from your AI assi… |
-| 2026-10-05 07:24:26 | io.github.richy7734/nexus3d-mcp | Nexus3D | 0.4.1 | See and edit the building project open in Nexus3D: walls, rooms, openings, fini… |
-| 2026-10-05 07:25:11 | com.noddienight/noddie-night | Noddie Night - herbal sleep drink facts… | 1.0.0 | Facts, prices and 100 sleep Q&As from Noddie Night, a melatonin-free herbal sle… |
-| 2026-10-05 07:28:23 | app.resumequick/resumequick | ResumeQuick | 1.0.2 | Your job search in one place: resumes, the jobs you track, daily matches, inter… |
-| 2026-10-05 07:29:18 | [io.github.cyanheads/clinicaltrialsgov-mcp-server](https://github.com/cyanheads/clinicaltrialsgov-mcp-server) |  | 2.9.11 | Search ClinicalTrials.gov — find studies, retrieve results, match patients to e… |
-| 2026-10-05 07:31:13 | io.github.OnlineDopamine/scrapeatlas | ScrapeAtlas | 1.0.0 | Unified social scraper MCP — profiles, posts, videos across ~40 platforms via S… |
-| 2026-10-05 07:31:13 | io.github.keelage/mcp | Keelage | 0.2.1 | Token intelligence for Robinhood Chain: onchain and social data on any token, t… |
-| 2026-10-05 07:32:57 | [io.github.cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) |  | 3.6.1 | Read, write, search, and surgically edit Obsidian notes, tags, and frontmatter… |
-| 2026-10-05 07:39:21 | [io.github.duhu2000/cninfo-mcp](https://github.com/duhu2000/cninfo-mcp) | CNINFO Listed Company Reports | 1.4.3 | Community MCP for querying Chinese listed-company reports and prospectuses from… |
-| 2026-10-05 07:40:11 | app.swiftprism/swiftprism | SwiftPrism | 1.0.0 | Plans, prices, and a free trial for US stock and world economic news. Not advic… |
-| 2026-10-05 07:43:35 | [io.github.lesofi/handinloop-mcp-server](https://github.com/lesofi/handinloop) |  | 0.5.0 | Human-in-the-loop document extraction: submit a doc, get validated fields and a… |
-| 2026-10-05 07:45:59 | com.cloudploy/cloudploy | CloudPloy | 1.0.0 | Deploy an app onto a server in your own cloud account. |
-| 2026-10-05 07:50:58 | app.indexlinks/indexlinks | IndexLinks | 1.0.0 | Check how crawlers see a site, send new pages to search engines and AI crawlers… |
-| 2026-10-05 07:54:01 | [pro.focuspulse/focuspulse](https://github.com/nsdbytes/news_pulse) | FocusPulse | 1.0.0-beta.1 | India and US news stories linked to listed companies, commodities and indices,… |
-| 2026-10-05 07:54:21 | com.linkrra/synap | Synap | 1.1.0 | Open AI models through one OpenAI-compatible API: chat, live model list, prices… |
-| 2026-10-05 07:57:43 | com.brix36/brix36 | Brix36 | 0.2.0 | Films and music videos. You're the star. No subscription. |
-| 2026-10-05 07:58:49 | [com.spytrend/spytrend](https://github.com/Spytrend/spytrend-mcp) | Spytrend | 2.1.1 | Analytics, advertising: Facebook/Meta, TikTok, competitor ads. Free plan; Spytr… |
-| 2026-10-05 08:02:21 | com.algotrada.cubicle/cubicle | Cubicle | 1.0.0 | Trading tools for agents: rehearse strategies on real candles, read the tape, o… |
-| 2026-10-05 08:02:23 | ai.rexity/website-check | Rexity Website-Check | 1.0.0 | Checks a public website in six areas and returns scores from 0 to 100. Free, no… |
-| 2026-10-05 08:03:16 | ai.alcock/arena | Alcock Arena | 1.2.0 | A forecasting gym for AI agents. Forecast real outcomes, get graded by reality,… |
-| 2026-10-05 08:14:22 | [io.github.zktx-mcp/littlejohn-mcp](https://github.com/zktx-mcp/littlejohn-mcp) |  | 0.0.1 | Local Robinhood Chain MCP and transaction review runtime. |
+| 2026-10-05 08:30:11 | app.chimpanseo/chimpanseo | ChimpanSEO | 1.0.0 | Generate GEO/AEO-optimized articles and publish them to WordPress from your AI… |
+| 2026-10-05 08:43:57 | io.github.worklittle/jobs | Worklittle Jobs | 1.1.0 | Find jobs near you. Search over 4 million openings by role, place, pay, visa an… |
+| 2026-10-05 08:50:36 | [io.github.symbionix-sl/airstrings-cli](https://github.com/symbionix-sl/airstrings-cli) | AirStrings | 0.16.0 | Manage AirStrings localization strings and publish signed bundles from your wor… |
+| 2026-10-05 08:54:58 | [io.github.theinfluencecompany/realtime-avatar](https://github.com/theinfluencecompany/realtime-avatar-sdk) | Realtime Avatar | 0.26.1 | Read your Realtime Avatar avatars, credit balance and session bill from a codin… |
+| 2026-10-05 08:58:03 | [app.railway.up.proving-ground-production/proving-ground](https://github.com/bapatakshay1/proving-ground) |  | 0.3.0 | Accounts-payable exception environment with a pass/fail verifier and proof pack… |
+| 2026-10-05 09:02:31 | com.monsathletics/mons | MONS Athletics | 1.0.0 | Find your next endurance challenge and train for it with your MONS coach. |
+| 2026-10-05 09:03:27 | dev.pages.jp-election-mcp/jp-election-discovery | JP Election Discovery | 1.0.0 | Read-only index to Japanese election data, official sources, relations and scop… |
+| 2026-10-05 09:06:38 | [xyz.signomy/civitae](https://github.com/SunrisesIllNeverSee/agent-universe) | CIVITAE — Governed AI Agent Marketplace | 1.2.2 | Governed AI agent marketplace on Signomy. Register agents, fill slots, earn und… |
+| 2026-10-05 09:08:18 | com.japandirecttrucks/shop | Japan Direct Trucks | 1.1.0 | Live Japanese trucks, pickups, SUVs, and vans from Tokyo. Search stock and esti… |
+| 2026-10-05 09:09:37 | [io.github.ljcl/gaggiuino-mcp](https://github.com/ljcl/gaggiuino-mcp) |  | 6.0.0 | Remote MCP server for your Gaggiuino espresso machine's shots and profiles |
+| 2026-10-05 09:11:32 | [ai.sellinger/mcp-server](https://github.com/asenlevov/sellinger.ai) | Sellinger CRM | 0.1.0 | Manage Sellinger AI SDR CRM leads, conversations and pipeline from any MCP clie… |
+| 2026-10-05 09:16:11 | [com.debugbundle/mcp](https://github.com/debugbundle/debugbundle) | DebugBundle | 1.13.0 | DebugBundle MCP: runtime error reporting, incident response, health checks, and… |
+| 2026-10-05 09:21:20 | [io.github.sepehr071/otaghak-mcp](https://github.com/sepehr071/otaghak-mcp) | Otaghak | 0.1.0 | Unofficial read-only Otaghak: search Iranian villas, availability, exact stay p… |
+| 2026-10-05 09:21:29 | [io.github.sepehr071/jabama-mcp](https://github.com/sepehr071/jabama-mcp) | Jabama | 0.1.0 | Unofficial read-only Jabama: villas and stays with exact prices, group tours, e… |
+| 2026-10-05 09:21:49 | [io.github.sepehr071/mrbilit-mcp](https://github.com/sepehr071/mrbilit-mcp) | MrBilit | 0.1.0 | Unofficial read-only MrBilit: Iranian flights, trains, buses, taxis and hotels,… |
 
 ## Data source
 

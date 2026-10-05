@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-10-05T08:30:11.034907Z,app.chimpanseo/chimpanseo,ChimpanSEO,1.0.0,,streamable-http,Generate GEO/AEO-optimized articles and publish them to WordPress from your AI agent.
+2026-10-05T08:43:57.876843Z,io.github.worklittle/jobs,Worklittle Jobs,1.1.0,,streamable-http,"Find jobs near you. Search over 4 million openings by role, place, pay, visa and more."
+2026-10-05T08:50:36.559585Z,io.github.symbionix-sl/airstrings-cli,AirStrings,0.16.0,https://github.com/symbionix-sl/airstrings-cli,,Manage AirStrings localization strings and publish signed bundles from your workspace.
+2026-10-05T08:54:58.743005Z,io.github.theinfluencecompany/realtime-avatar,Realtime Avatar,0.26.1,https://github.com/theinfluencecompany/realtime-avatar-sdk,,"Read your Realtime Avatar avatars, credit balance and session bill from a coding agent."
+2026-10-05T08:58:03.822388Z,app.railway.up.proving-ground-production/proving-ground,,0.3.0,https://github.com/bapatakshay1/proving-ground,streamable-http,Accounts-payable exception environment with a pass/fail verifier and proof packet: AI agents work AP
+2026-10-05T09:02:31.504265Z,com.monsathletics/mons,MONS Athletics,1.0.0,,streamable-http,Find your next endurance challenge and train for it with your MONS coach.
+2026-10-05T09:03:27.930114Z,dev.pages.jp-election-mcp/jp-election-discovery,JP Election Discovery,1.0.0,,streamable-http,"Read-only index to Japanese election data, official sources, relations and scoped search history."
+2026-10-05T09:06:38.889121Z,xyz.signomy/civitae,CIVITAE — Governed AI Agent Marketplace,1.2.2,https://github.com/SunrisesIllNeverSee/agent-universe,streamable-http,"Governed AI agent marketplace on Signomy. Register agents, fill slots, earn under MO§ES governance."
+2026-10-05T09:08:18.706065Z,com.japandirecttrucks/shop,Japan Direct Trucks,1.1.0,,streamable-http,"Live Japanese trucks, pickups, SUVs, and vans from Tokyo. Search stock and estimate freight."
+2026-10-05T09:09:37.319858Z,io.github.ljcl/gaggiuino-mcp,,6.0.0,https://github.com/ljcl/gaggiuino-mcp,,Remote MCP server for your Gaggiuino espresso machine's shots and profiles
+2026-10-05T09:11:32.320051Z,ai.sellinger/mcp-server,Sellinger CRM,0.1.0,https://github.com/asenlevov/sellinger.ai,,"Manage Sellinger AI SDR CRM leads, conversations and pipeline from any MCP client."
+2026-10-05T09:16:11.827953Z,com.debugbundle/mcp,DebugBundle,1.13.0,https://github.com/debugbundle/debugbundle,,"DebugBundle MCP: runtime error reporting, incident response, health checks, and product analytics."
+2026-10-05T09:21:20.835816Z,io.github.sepehr071/otaghak-mcp,Otaghak,0.1.0,https://github.com/sepehr071/otaghak-mcp,,"Unofficial read-only Otaghak: search Iranian villas, availability, exact stay prices, reviews."
+2026-10-05T09:21:29.520535Z,io.github.sepehr071/jabama-mcp,Jabama,0.1.0,https://github.com/sepehr071/jabama-mcp,,"Unofficial read-only Jabama: villas and stays with exact prices, group tours, events and theater."
+2026-10-05T09:21:49.026848Z,io.github.sepehr071/mrbilit-mcp,MrBilit,0.1.0,https://github.com/sepehr071/mrbilit-mcp,,"Unofficial read-only MrBilit: Iranian flights, trains, buses, taxis and hotels, seats and prices."
