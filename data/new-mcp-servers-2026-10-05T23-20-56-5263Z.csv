@@ -1,0 +1,15 @@
+created_at,server,title,version,repository,transports,description
+2026-10-05T22:20:16.945844Z,com.magic-envelope/invitations,Magic Envelope,1.0.0,https://github.com/JaimeAlonsoGA/magic-envelope,streamable-http,"Create and send invitations and letters in a sealed envelope, one personal link per guest."
+2026-10-05T22:27:45.655318Z,com.durabilitycurve/archive,The Durability Curve,0.1.0,,streamable-http,"Search and read The Durability Curve: essays, claim ledgers and weekly calls. Read-only, no sign-in."
+2026-10-05T22:29:00.754781Z,dev.onpage/onpage,OnPage.dev,1.1.0,https://github.com/seoonpage/onpage-tools,streamable-http,"Free SEO and AI-visibility scanner for AI assistants: scan, fix and verify pages. Hosted, no key."
+2026-10-05T22:29:22.050446Z,io.github.bridge-applications/pebbler-mcp,Pebbler Human Feedback,0.1.0,https://github.com/bridge-applications/pebbler-mcp,,Buy human image preference comparisons on the Pebbler app with locally controlled USDC payments.
+2026-10-05T22:32:08.196577Z,io.beancount/beancount,Beancount.io,1.0.0,https://github.com/bex-co/beancount-io,streamable-http,"Query, edit, and reconcile a hosted Beancount ledger: BQL, reports, files, and bank imports."
+2026-10-05T22:41:06.565114Z,io.github.macropulse-lab/irl-gateway,IRL Gateway,0.2.0,https://github.com/macropulse-lab/irl-gateway,,"An AI agent's trading mandate it can't break: checked before every order, reasoning sealed in IRL."
+2026-10-05T22:51:01.99124Z,com.tablejourney/food-travel,TableJourney food travel,1.0.2,,streamable-http,"Verified food venues in 222 cities with provenance, festivals with dates, bookable tours and stays."
+2026-10-05T23:02:13.408433Z,com.pageproofer/pageproofer,PageProofer,1.0.0,,streamable-http,"Read, fix and reply to PageProofer website feedback notes from Claude Code, Cursor and other agents."
+2026-10-05T23:04:59.648107Z,io.github.aar-ont/soldstack,SoldStack,1.0.0,,streamable-http,"What secondhand clothes, shoes and bags actually sold for on Poshmark, plus buy or pass verdicts."
+2026-10-05T23:05:52.380546Z,com.flockfs/flockfs,flockfs,0.1.0,,streamable-http,"A real-time, multiplayer filesystem for agents and humans: shared files, live edits, history."
+2026-10-05T23:15:12.181971Z,dev.shveik/agvps,agvps,1.0.0,,streamable-http,"Servers for agents, rented by the month: Linux with root and a public IPv4. Pay per call."
+2026-10-05T23:15:56.06118Z,com.stringutilitybelt/mcp,,1.3.0,https://github.com/Murraylr/string-utility-belt,,An MCP server that provides [describe what your server does]
+2026-10-05T23:18:48.804492Z,io.github.high5-ventures/apple-reminders,,1.0.5,https://github.com/high5-ventures/apple-reminders-for-claude,,"Fast, native macOS Apple Reminders via EventKit. 10-200x faster than AppleScript alternatives."
+2026-10-05T23:19:56.194785Z,io.github.troothllc/trooth-network,Trooth,1.1.5,https://github.com/troothllc/trooth-mcp,streamable-http,"Machine-Readable Company Profiles: search, read and compare any company's Trust Profile."
