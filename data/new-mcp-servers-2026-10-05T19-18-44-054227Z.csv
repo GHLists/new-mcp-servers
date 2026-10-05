@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-05T18:21:37.82005Z,io.github.JayQuan-McCleary/zenlink-mcp,ZenLink MCP,2.1.1,https://github.com/JayQuan-McCleary/ZenLink-MCP,,"Browser automation for MCP clients via Zen Browser. Parallel multi-tab, content extraction."
+2026-10-05T18:21:54.099479Z,ai.kijito/kijito,Kijito,0.1.0,,streamable-http,Shared memory and mail for your AI agents. Verified with Claude Code; other MCP clients in testing.
+2026-10-05T18:23:43.124168Z,io.affiliatebase/affiliatebase,AffiliateBase,1.0.0,,streamable-http,"Set up and run a Stripe affiliate program: tracking checks, affiliates, commissions, payouts."
+2026-10-05T18:24:52.014348Z,app.oio/oio,OIO,1.8.0,,streamable-http,"Projects, tickets, notes and to-dos in OIO, the freelance workspace. OAuth sign-in, Pro plan."
+2026-10-05T18:32:52.512547Z,com.appstoretracker/mcp,App Store Tracker,1.0.0,,streamable-http,"iOS App Store chart rankings, app details, reviews, keywords and revenue estimates."
+2026-10-05T18:36:11.318835Z,net.whisperr/whisperr,Whisperr,2.0.0,,streamable-http,"Install the Whisperr retention SDK, verify received events, and read churn and retention data."
+2026-10-05T18:37:15.764674Z,io.github.WYRE-AI/action1-mcp,Action1,1.1.8,https://github.com/WYRE-AI/action1-mcp,,"Action1 MCP server — endpoint inventory, patch visibility, and policy automation via REST API."
+2026-10-05T18:40:39.621362Z,io.github.palimkarakshay/abap-mcp,,0.12.4,https://github.com/palimkarakshay/abap-mcp,,"Offline SAP ABAP/RAP tools for AI agents: lint, Cloud readiness, released APIs, knowledge."
+2026-10-05T18:42:18.137304Z,com.dashthis/mcp,DashThis,1.0.0,,streamable-http,Work with your marketing reporting dashboards and turn the numbers into client-ready updates.
+2026-10-05T18:43:31.170481Z,io.github.kumarganduri/legwork,Legwork,0.7.9,https://github.com/kumarganduri/legwork,,Lets your AI find open-source tools on GitHub and install them as sandboxed MCP tools.
+2026-10-05T19:02:38.806298Z,org.heathy/nutrition,,0.5.0,https://github.com/Chandata/heathy-mcp,streamable-http,"Nutrition for 1,174 plant foods from 30 national tables, plus GB/EU & US claim checking"
+2026-10-05T19:02:56.468232Z,co.sofya/sofya,Sofya,1.27.1,https://github.com/sofya-co/sofya-mcp,streamable-http,"Web search, fetch, extract, and research for AI agents. Markdown output + AI-synthesized answers."
+2026-10-05T19:06:09.38388Z,io.stockdrifts/mcp,StockDrifts,1.29.0,https://github.com/Stockdrifts/stockdrifts-mcp,streamable-http,"Rated 13F funds with average buy prices, company KPIs, Japan investor ratings, Korea insider buys."
+2026-10-05T19:06:30.928707Z,io.github.duty27/eu-vat,EU VAT rates,0.1.1,https://github.com/duty27/eu-vat,,"Standard VAT rate in any EU member state on any date since 2016. Offline, no API key."
+2026-10-05T19:09:05.68234Z,ai.rosterresolve/roster,Roster,1.2.3,,streamable-http,Self-hosted participant resolution agent with an MCP server for agent workflows.
+2026-10-05T19:11:00.400911Z,io.github.olekpuchka/albert-heijn-mcp,Albert Heijn,1.3.0,https://github.com/olekpuchka/albert-heijn-mcp,,"Unofficial Albert Heijn server: products, bonus deals, recipes, shopping list, orders and receipts."
+2026-10-05T19:15:13.081506Z,cc.prosp/prosp,Prosp,1.0.0,,streamable-http,"B2B prospect discovery: find companies by industry, size and market, checked against registers."
