@@ -9,31 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 19:18 UTC
+## Latest list — 2026-10-05 20:20 UTC
 
-New MCP servers published between 2026-10-05 18:21 UTC and 2026-10-05 19:18 UTC.
+New MCP servers published between 2026-10-05 19:18 UTC and 2026-10-05 20:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-05T19-18-44-054227Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-05T20-20-39-1068Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-05 18:21:37 | [io.github.JayQuan-McCleary/zenlink-mcp](https://github.com/JayQuan-McCleary/ZenLink-MCP) | ZenLink MCP | 2.1.1 | Browser automation for MCP clients via Zen Browser. Parallel multi-tab, content… |
-| 2026-10-05 18:21:54 | ai.kijito/kijito | Kijito | 0.1.0 | Shared memory and mail for your AI agents. Verified with Claude Code; other MCP… |
-| 2026-10-05 18:23:43 | io.affiliatebase/affiliatebase | AffiliateBase | 1.0.0 | Set up and run a Stripe affiliate program: tracking checks, affiliates, commiss… |
-| 2026-10-05 18:24:52 | app.oio/oio | OIO | 1.8.0 | Projects, tickets, notes and to-dos in OIO, the freelance workspace. OAuth sign… |
-| 2026-10-05 18:32:52 | com.appstoretracker/mcp | App Store Tracker | 1.0.0 | iOS App Store chart rankings, app details, reviews, keywords and revenue estima… |
-| 2026-10-05 18:36:11 | net.whisperr/whisperr | Whisperr | 2.0.0 | Install the Whisperr retention SDK, verify received events, and read churn and… |
-| 2026-10-05 18:37:15 | [io.github.WYRE-AI/action1-mcp](https://github.com/WYRE-AI/action1-mcp) | Action1 | 1.1.8 | Action1 MCP server — endpoint inventory, patch visibility, and policy automatio… |
-| 2026-10-05 18:40:39 | [io.github.palimkarakshay/abap-mcp](https://github.com/palimkarakshay/abap-mcp) |  | 0.12.4 | Offline SAP ABAP/RAP tools for AI agents: lint, Cloud readiness, released APIs,… |
-| 2026-10-05 18:42:18 | com.dashthis/mcp | DashThis | 1.0.0 | Work with your marketing reporting dashboards and turn the numbers into client-… |
-| 2026-10-05 18:43:31 | [io.github.kumarganduri/legwork](https://github.com/kumarganduri/legwork) | Legwork | 0.7.9 | Lets your AI find open-source tools on GitHub and install them as sandboxed MCP… |
-| 2026-10-05 19:02:38 | [org.heathy/nutrition](https://github.com/Chandata/heathy-mcp) |  | 0.5.0 | Nutrition for 1,174 plant foods from 30 national tables, plus GB/EU & US claim… |
-| 2026-10-05 19:02:56 | [co.sofya/sofya](https://github.com/sofya-co/sofya-mcp) | Sofya | 1.27.1 | Web search, fetch, extract, and research for AI agents. Markdown output + AI-sy… |
-| 2026-10-05 19:06:09 | [io.stockdrifts/mcp](https://github.com/Stockdrifts/stockdrifts-mcp) | StockDrifts | 1.29.0 | Rated 13F funds with average buy prices, company KPIs, Japan investor ratings,… |
-| 2026-10-05 19:06:30 | [io.github.duty27/eu-vat](https://github.com/duty27/eu-vat) | EU VAT rates | 0.1.1 | Standard VAT rate in any EU member state on any date since 2016. Offline, no AP… |
-| 2026-10-05 19:09:05 | ai.rosterresolve/roster | Roster | 1.2.3 | Self-hosted participant resolution agent with an MCP server for agent workflows. |
-| 2026-10-05 19:11:00 | [io.github.olekpuchka/albert-heijn-mcp](https://github.com/olekpuchka/albert-heijn-mcp) | Albert Heijn | 1.3.0 | Unofficial Albert Heijn server: products, bonus deals, recipes, shopping list,… |
-| 2026-10-05 19:15:13 | cc.prosp/prosp | Prosp | 1.0.0 | B2B prospect discovery: find companies by industry, size and market, checked ag… |
+| 2026-10-05 19:21:52 | com.coghorizon.nutri/mcp | Top Nutritionist | 1.0.0 | Meal, activity and sleep diary your assistant records into, with reports for yo… |
+| 2026-10-05 19:32:39 | com.paidhandshake/exchange | PaidHandshake Exchange | 2.3.1 | AI research and routing for current events, jobs, bids, products, services, ven… |
+| 2026-10-05 19:39:47 | io.github.ozzie-bagadirov/seo-audit-change-monitor | Website SEO Audit, Broken Links & Chang… | 0.2.44 | Crawls a website for broken links, redirects and SEO issues, and lists changes… |
+| 2026-10-05 19:45:47 | [io.github.CumulativeWebInc/cwi-discovery-engine](https://github.com/CumulativeWebInc/cwi-learn) |  | 1.0.0 | CWI Discovery Engine: read-only music-catalog MCP — semantic search, sync looku… |
+| 2026-10-05 19:53:22 | com.owlsinsight/odds | Owls Insight | 1.0.0 | Sports betting odds, player props, scores, betting splits and history from 30+… |
+| 2026-10-05 19:53:59 | com.uxcontinuum/ai-recommendation-check | AI Recommendation Check | 1.0.0 | Does ChatGPT recommend a local business? Live AI-engine check plus who gets nam… |
+| 2026-10-05 19:54:10 | [io.github.projectworks007/vehicle-listings](https://github.com/projectworks007/apify-data-mcp) | Car & Vehicle Listings Data | 1.0.0 | Used and new car listings with prices and specs from national car marketplaces. |
+| 2026-10-05 19:54:10 | com.uxcontinuum/ship-check | Ship Check | 0.2.0 | Scan a deployed app URL for exposed keys, open Supabase tables and missing secu… |
+| 2026-10-05 19:54:11 | [io.github.Brunovncs/texel-mcp](https://github.com/Brunovncs/texel-mcp) |  | 0.8.1 | Minecraft skins and textures as code: JSON specs compiled to PNG, with a review… |
+| 2026-10-05 19:54:23 | com.bonbrain/pantry-buddy | Pantry Buddy | 1.0.0 | Your kitchen in chat: pantry stock, shopping lists, recipes and scanned grocery… |
+| 2026-10-05 19:55:09 | [com.atly/places](https://github.com/atlyai/atly-plugin) | Atly | 1.0.1 | Find places by what you want (work friendly, gluten free, great coffee), scored… |
+| 2026-10-05 19:56:44 | [io.github.OptimNow/ai-pricing-hub](https://github.com/OptimNow/ai-pricing-hub-mcp) | OptimToken | 0.4.0 | Compare LLM API and cloud compute pricing, estimate workload costs, pick a mode… |
+| 2026-10-05 20:03:02 | [co.encorehq/encore](https://github.com/PPDSJosh/engagement-studio) |  | 4.0.0 | Create, refine, and visually verify client work across the Encore studio. |
+| 2026-10-05 20:03:32 | [io.github.Z4KARY/upgrowth-mcp](https://github.com/UpGrowth-dz/upgrowth-mcp) | UpGrowth: business data for Algeria, Tu… | 1.1.0 | Official business data for Algeria, Tunisia and Morocco: activity codes, legal… |
+| 2026-10-05 20:03:37 | io.github.latentsmurf/skilldb-catalog | SkillDB Catalog | 0.1.0 | Find AI agent skills: public previews and source links. Read-only discovery; no… |
+| 2026-10-05 20:04:01 | com.siigolatam/siigo | Siigo Latam | 1.0.0 | Catálogo, precios, artículos, compliance y datos de Siigo por país, en vivo par… |
+| 2026-10-05 20:04:52 | co.mural/mural | Mural | 1.0.0 | Create and edit Mural boards from your agent |
+| 2026-10-05 20:05:54 | [io.github.tokconnect/tiktok-mcp](https://github.com/tokconnect/tiktok-mcp) | TikTok MCP by TokConnect | 1.0.0 | TikTok search demand, videos, creators, comments and captions for AI agents. OA… |
+| 2026-10-05 20:06:31 | [tax.zip/ziptax](https://github.com/ZipTax/ziptax-docs) | Ziptax Sales Tax API | 1.0.1 | Real-time US and Canadian sales and use tax rates by address or geo coordinates. |
+| 2026-10-05 20:10:53 | [com.maxvideoai/maxvideoai](https://github.com/camgraphe/maxvideoai-plugin) | MaxVideoAI | 0.3.7 | Plan, compare, price, generate, and recover AI video from compatible MCP client… |
+| 2026-10-05 20:11:03 | [com.pandavideo/mcp](https://github.com/pandavideo/panda-video-mcp) | Panda Video | 2.1.0 | Video hosting: upload, organize and configure videos, analytics, AI subtitles a… |
 
 ## Data source
 

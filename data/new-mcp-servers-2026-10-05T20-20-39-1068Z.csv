@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-10-05T19:21:52.729133Z,com.coghorizon.nutri/mcp,Top Nutritionist,1.0.0,,streamable-http,"Meal, activity and sleep diary your assistant records into, with reports for your nutritionist"
+2026-10-05T19:32:39.719523Z,com.paidhandshake/exchange,PaidHandshake Exchange,2.3.1,,streamable-http,"AI research and routing for current events, jobs, bids, products, services, vendors, and more."
+2026-10-05T19:39:47.223705Z,io.github.ozzie-bagadirov/seo-audit-change-monitor,"Website SEO Audit, Broken Links & Change Monitor (Apify, paid per audit)",0.2.44,,streamable-http,"Crawls a website for broken links, redirects and SEO issues, and lists changes since the last run"
+2026-10-05T19:45:47.189201Z,io.github.CumulativeWebInc/cwi-discovery-engine,,1.0.0,https://github.com/CumulativeWebInc/cwi-learn,streamable-http,"CWI Discovery Engine: read-only music-catalog MCP — semantic search, sync lookup, knowledge graph."
+2026-10-05T19:53:22.45873Z,com.owlsinsight/odds,Owls Insight,1.0.0,,streamable-http,"Sports betting odds, player props, scores, betting splits and history from 30+ sportsbooks"
+2026-10-05T19:53:59.310207Z,com.uxcontinuum/ai-recommendation-check,AI Recommendation Check,1.0.0,,streamable-http,Does ChatGPT recommend a local business? Live AI-engine check plus who gets named instead.
+2026-10-05T19:54:10.798441Z,io.github.projectworks007/vehicle-listings,Car & Vehicle Listings Data,1.0.0,https://github.com/projectworks007/apify-data-mcp,streamable-http,Used and new car listings with prices and specs from national car marketplaces.
+2026-10-05T19:54:10.817123Z,com.uxcontinuum/ship-check,Ship Check,0.2.0,,streamable-http,"Scan a deployed app URL for exposed keys, open Supabase tables and missing security headers."
+2026-10-05T19:54:11.010166Z,io.github.Brunovncs/texel-mcp,,0.8.1,https://github.com/Brunovncs/texel-mcp,,"Minecraft skins and textures as code: JSON specs compiled to PNG, with a review an agent can act on."
+2026-10-05T19:54:23.566155Z,com.bonbrain/pantry-buddy,Pantry Buddy,1.0.0,,streamable-http,"Your kitchen in chat: pantry stock, shopping lists, recipes and scanned grocery receipts."
+2026-10-05T19:55:09.998056Z,com.atly/places,Atly,1.0.1,https://github.com/atlyai/atly-plugin,streamable-http,"Find places by what you want (work friendly, gluten free, great coffee), scored from real reviews."
+2026-10-05T19:56:44.874965Z,io.github.OptimNow/ai-pricing-hub,OptimToken,0.4.0,https://github.com/OptimNow/ai-pricing-hub-mcp,streamable-http,"Compare LLM API and cloud compute pricing, estimate workload costs, pick a model within budget."
+2026-10-05T20:03:02.321228Z,co.encorehq/encore,,4.0.0,https://github.com/PPDSJosh/engagement-studio,streamable-http,"Create, refine, and visually verify client work across the Encore studio."
+2026-10-05T20:03:32.364632Z,io.github.Z4KARY/upgrowth-mcp,"UpGrowth: business data for Algeria, Tunisia and Morocco",1.1.0,https://github.com/UpGrowth-dz/upgrowth-mcp,streamable-http,"Official business data for Algeria, Tunisia and Morocco: activity codes, legal forms, tax, gazettes."
+2026-10-05T20:03:37.47534Z,io.github.latentsmurf/skilldb-catalog,SkillDB Catalog,0.1.0,,streamable-http,Find AI agent skills: public previews and source links. Read-only discovery; no account required.
+2026-10-05T20:04:01.040607Z,com.siigolatam/siigo,Siigo Latam,1.0.0,,streamable-http,"Catálogo, precios, artículos, compliance y datos de Siigo por país, en vivo para agentes de IA."
+2026-10-05T20:04:52.406097Z,co.mural/mural,Mural,1.0.0,,streamable-http,Create and edit Mural boards from your agent
+2026-10-05T20:05:54.537916Z,io.github.tokconnect/tiktok-mcp,TikTok MCP by TokConnect,1.0.0,https://github.com/tokconnect/tiktok-mcp,streamable-http,"TikTok search demand, videos, creators, comments and captions for AI agents. OAuth or API key."
+2026-10-05T20:06:31.075234Z,tax.zip/ziptax,Ziptax Sales Tax API,1.0.1,https://github.com/ZipTax/ziptax-docs,streamable-http,Real-time US and Canadian sales and use tax rates by address or geo coordinates.
+2026-10-05T20:10:53.011359Z,com.maxvideoai/maxvideoai,MaxVideoAI,0.3.7,https://github.com/camgraphe/maxvideoai-plugin,streamable-http,"Plan, compare, price, generate, and recover AI video from compatible MCP clients."
+2026-10-05T20:11:03.152238Z,com.pandavideo/mcp,Panda Video,2.1.0,https://github.com/pandavideo/panda-video-mcp,streamable-http,"Video hosting: upload, organize and configure videos, analytics, AI subtitles and Shorts."
