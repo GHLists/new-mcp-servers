@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-10-06T19:21:02.627149Z,com.bidrover/bidrover,BidRover,1.0.0,https://github.com/austynoconnor/Bid-Rover,streamable-http,"Find, score and track public-sector bids, RFPs, grants and tenders from 100+ official sources."
+2026-10-06T19:21:10.041714Z,io.github.kts982/mcp-sap-gui,,0.5.0,https://github.com/kts982/mcp-sap-gui,,SAP GUI for Windows automation for AI agents - 60 structured tools via SAP GUI Scripting API
+2026-10-06T19:21:15.406351Z,io.github.JulesNsenda/drop,DROP,1.6.0,https://github.com/JulesNsenda/drop,streamable-http,"Self-hosted PaaS: deploy apps from files or git, read logs, check status, roll back."
+2026-10-06T19:23:42.826703Z,io.github.larsbaunwall/unlinked,,2.0.0,https://github.com/larsbaunwall/unlinked,,"Your LinkedIn profile and recent activity as JSON, via CLI or MCP server (EEA and Switzerland only)."
+2026-10-06T19:28:36.397662Z,dev.workers.agentwatch.agentwatch/agentwatch,AgentWatch,0.5.1,,streamable-http,"Read-only watchtower for AI agents on-chain: decoded receipts, plan vs execution, Safe audits."
+2026-10-06T19:30:08.304462Z,com.lopebase/lopebase,LopeBase,0.4.3,,streamable-http,"Your products' traffic, revenue, uptime, and content, from your LopeBase workspace."
+2026-10-06T19:30:10.097548Z,io.github.gabrielmahia/kazi-mcp,,0.1.4,https://github.com/gabrielmahia/kazi-mcp,,MCP server for jobs and employment coordination in East Africa (kazi = work)
+2026-10-06T19:35:23.078239Z,io.github.orifisher2/sqlike-mcp,,0.2.2,https://github.com/orifisher2/sqlike,,"Lints SQL and checks rewrites return the same rows. Postgres, MySQL, MariaDB, SQLite, MSSQL, DuckDB"
+2026-10-06T19:38:13.918445Z,ai.beevr/beevr,BeevR,1.0.0,,streamable-http,"Read-only access to BeevR's services, fixed-price MVP packages, case studies and articles (EN/VI)."
+2026-10-06T19:38:16.142753Z,ai.ecocheck/ecocheck,EcoCheck,1.0.0,,streamable-http,"Vietnam GHG inventory obligation checker, 2026 regulations, CBAM and ESG articles (read-only)."
+2026-10-06T19:39:56.455317Z,io.github.Nishkalkashyap/agentgo,AgentGo,0.3.0,https://github.com/Nishkalkashyap/agentgo,,"Run Codex and Claude Code on your computer from an MCP client, and track or continue their runs."
+2026-10-06T19:41:29.323316Z,io.github.sapiom/mcp,,0.19.1,https://github.com/sapiom/sapiom-js,,"Local Sapiom developer MCP for authoring, testing, deploying, and inspecting agents."
+2026-10-06T19:44:18.931183Z,biz.nibiashara/shelves,"Ni Biashara Shelves — Africa FX, freight & compliance checks (x402)",1.7.0,,streamable-http,"Africa FX, US carrier/broker checks, OFAC name and wallet screens, load-vet pack. Paid via x402."
+2026-10-06T19:44:50.068957Z,com.x402git/git-x402,X402 Git,0.2.0,,streamable-http,"Buy private git repos and agent skills with USDC over x402. Read the manifest free, then pay."
+2026-10-06T19:47:04.789806Z,ai.kloudy/kloudy,Kloudy,0.4.3,,streamable-http,Find public MCP tools and SDKs. Compact setup and Sample cards. Free discovery needs no key.
+2026-10-06T19:47:31.68572Z,fyi.flyfrugal/travel-data,Fly Frugal Travel Data,1.1.0,,streamable-http,"Read-only public itinerary previews, observed round-trip fares, and flight savings verified today."
+2026-10-06T19:48:13.397067Z,ai.scrapewise/scrapewise,Scrapewise,0.1.0,,streamable-http,"Scrape, clean and match product and price data from any website"
+2026-10-06T19:52:51.959036Z,com.anarmaa/world-poll,World Poll,0.1.0,,streamable-http,"Agent info shop: $1–$5 paid asks, $1 poll unlocks. Answers free. Remote MCP."
+2026-10-06T19:53:59.783479Z,io.github.rodrgds/openpost,OpenPost,1.32.4,https://github.com/getopenpost/openpost,streamable-http,Manage social publishing workflows through OpenPost
+2026-10-06T19:55:21.830606Z,com.paperporter/paperporter,PaperPorter,1.0.0,https://github.com/sarchak/paperporter-plugins,streamable-http,"Fill official PDF forms, like city permits and business licenses, in their original layout."
+2026-10-06T19:57:03.807343Z,io.github.pyth-network/mcp,Pyth Pro MCP Server,0.3.0,https://github.com/pyth-network/pyth-crosschain,streamable-http,"Real-time and historical price feeds for 500+ crypto, equities, FX, and commodities assets."
+2026-10-06T19:58:13.436379Z,io.github.brunopetrellinz-tech/public-records-mcp,US & UK Public Records MCP,1.0.0,,streamable-http,"Official US and UK records: licenses, NPI, carriers, contracts, inspections, permits, house prices"
+2026-10-06T19:58:19.299071Z,com.generect/generect-mcp,,0.10.0,https://github.com/generect/generect_mcp.git,streamable-http,"B2B lead and company data for AI agents: free audience sizing, search, enrich, emails, phones."
+2026-10-06T20:01:01.235603Z,com.vatfind/company-identity,VATFind,1.1.1,,streamable-http,"Find VAT numbers and EINs, resolve company identities, and monitor company-record changes."
+2026-10-06T20:03:59.861874Z,io.github.entire-vc/spark,Spark - AI Assets Marketplace,4.0.4,https://github.com/entire-vc/evc-spark-mcp,streamable-http,"Search and fetch AI agents, skills, prompts and MCP connectors from the Spark marketplace."
+2026-10-06T20:07:43.535663Z,io.github.DaimyoVegan/xrplme-paid,XRPLME Country Intelligence,1.0.0,https://github.com/DaimyoVegan/xrplme-mcp-client,streamable-http,Source-backed country policy data for AI agents; pay-per-call via x402 (XRP or USDC).
+2026-10-06T20:09:06.124256Z,io.github.senoff/xlsx-for-ai,,4.0.10,https://github.com/senoff/xlsx-for-ai,,"50 spreadsheet tools for .xlsx: recalc formulas, repair broken refs, read/write, diff, audit."
+2026-10-06T20:09:22.543918Z,io.github.aiguardrail/backend,Collar Guardrail — Pre-Trade Risk Layer,1.0.5,https://github.com/aiguardrail/backend-mcp,streamable-http,Deterministic pre-trade risk checks for AI agents on Robinhood Chain. Returns allow/warn/deny.
+2026-10-06T20:13:43.697809Z,ai.invexia/research,Invexia Stock Research,1.0.0,,streamable-http,"Free US stock research: snapshots, Titan Score valuation scorecards, 37 screeners, daily lists."
+2026-10-06T20:14:16.881796Z,com.vidreno/mcp,Vidreno,1.0.0,,streamable-http,"Manage hosted videos from Claude, Cursor, or any MCP client."
+2026-10-06T20:17:27.795006Z,io.github.ianderso/contentdm-mcp,CONTENTdm State Archives,0.1.0,https://github.com/ianderso/contentdm-mcp,,"Search US state archives' record images on CONTENTdm; read items, pages and transcripts."
+2026-10-06T20:19:17.561169Z,io.github.BurettoSofuto/smogrank,SmogRank,1.0.0,,streamable-http,"PM2.5 air pollution by city: worst-first rankings, current air and daily history."
