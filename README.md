@@ -9,32 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 07:19 UTC
+## Latest list — 2026-10-06 08:18 UTC
 
-New MCP servers published between 2026-10-06 06:19 UTC and 2026-10-06 07:19 UTC.
+New MCP servers published between 2026-10-06 07:19 UTC and 2026-10-06 08:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-06T07-19-46-991935Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-06T08-18-46-885371Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-06 06:21:00 | [io.github.tourclaim/tourclaim](https://github.com/tourclaim/tourclaim-cli) | TourClaim by Copernican | 0.2.0 | Prepare credit-card travel insurance claims with traveler consent. Synthetic re… |
-| 2026-10-06 06:22:11 | io.github.simulatorarts/docugrip | DocuGrip | 0.1.0 | Find the right PDF tool for any task and get the link. Your document never reac… |
-| 2026-10-06 06:25:09 | monster.droid/specs | droid.monster — specs | 1.0.0 | Specs of commercially available robots, each figure citing its source document. |
-| 2026-10-06 06:27:46 | au.com.digitaldarts/feedshine | FeedShine Google Shopping Feed | 1.2.0 | Grow sales on Google and beyond. Fix your Shopify product feeds and optimize ev… |
-| 2026-10-06 06:34:43 | [io.github.thefiredev-cloud/meshvault-connectors](https://github.com/thefiredev-cloud/meshvault-connectors) | MeshVault Connectors | 0.1.0 | Read-only tools: EMS protocols, courts and judges, NPI and FDA data, GPU fit fo… |
-| 2026-10-06 06:37:09 | io.github.kr-data-api/korea-flood-car-check | Korea Flood-Damaged Car Check by Plate… | 0.1.0 | Check Korean car plates for official flood-damage insurance records (total loss… |
-| 2026-10-06 06:38:01 | [io.github.sgateway/s-gw](https://github.com/sgateway/s-gw) | s-gw | 0.1.22 | Keep credentials out of AI coding agents with local approvals, scoped injection… |
-| 2026-10-06 06:41:01 | com.getklo.mcp/klo | klo | 0.1.0 | Edit videos in the cloud: footage, color grading, audio, editable Remotion grap… |
-| 2026-10-06 06:41:05 | [tools.audiolab/audiolab](https://github.com/Audio-Launch/audiolab-mcp-server) |  | 0.4.2 | Loudness (EBU R128 / BS.1770-4), true-peak and voice-quality analysis for local… |
-| 2026-10-06 06:42:30 | ai.vocasa/vocasa | Vocasa | 1.0.0 | Rental property analysis your AI can call |
-| 2026-10-06 06:49:19 | com.artbooksociety/public-catalog | Artbook Society — Public Catalog | 1.0.0 | Read-only access to the Artbook Society published catalog: books, artists, edit… |
-| 2026-10-06 06:51:06 | [io.github.yankiifr/base-facts-mcp](https://github.com/yankiifr/base-facts-mcp) | Base Token Facts | 0.2.1 | Base token checks for agents: simulated buy and sell, taxes, honeypots. Pay per… |
-| 2026-10-06 06:52:57 | [io.github.SepineTam/stata-mcp](https://github.com/SepineTam/stata-mcp) |  | 1.25.1 | Let LLM help you achieve your regression analysis with Stata |
-| 2026-10-06 06:55:00 | io.github.Mounirt879/rfqdecoder | RFQdecoder | 1.1.0 | Cost a machined, sheet metal or cast part from its PDF, DXF or STEP drawing, li… |
-| 2026-10-06 06:56:10 | [io.github.bhanutpt/inksmcp](https://github.com/bhanutpt/inksmcp) | Inkscape (inksmcp) | 0.3.0 | Create, edit and export SVG graphics with Inkscape: measured layout, templates,… |
-| 2026-10-06 07:09:00 | [io.github.wangjingjing1026uwh-hub/zaoqiniaoer](https://github.com/wangjingjing1026uwh-hub/zaoqiniaoer-mcp) |  | 1.1.0 | Pay someone in China to go look at something right now and say what they saw. F… |
-| 2026-10-06 07:14:43 | io.github.kr-data-api/korea-data | Korea Data — Official Korean Public Dat… | 0.2.4 | All KR Data tools in one server: Korean business checks, addresses, laws, car f… |
-| 2026-10-06 07:17:40 | [io.github.FROWNINGdev/django-orm-lens](https://github.com/FROWNINGdev/django-orm-lens) | Django ORM Lens | 1.13.1 | Django ORM static analysis MCP. Models, relations, migrations, indexes, signals… |
+| 2026-10-06 07:19:53 | [io.github.evictionsapi/evictions-api](https://github.com/evictionsapi/evictions-api) | Evictions API | 1.0.0 | US/DC eviction cases. A licensed attorney reviews each real case before anythin… |
+| 2026-10-06 07:23:14 | [io.github.justyns/silverbullet-ai-mcp](https://github.com/justyns/silverbullet-ai) |  | 0.10.0-alpha.3 | Exposes silverbullet-ai tools from a SilverBullet space to MCP clients |
+| 2026-10-06 07:24:59 | ai.kosmodrom/kosmodrom | Kosmodrom | 1.2.1486 | Task tracker for product teams: projects, features, tasks, bugs, team chats and… |
+| 2026-10-06 07:25:23 | com.livepairai/livepair-hub |  | 1.0.0 | Community library of tested AI prompts with the results they produced — image,… |
+| 2026-10-06 07:28:05 | io.github.deanfankhauser/postdom | Postdom | 0.4.1 | Videos that make your business go viral, made for you. |
+| 2026-10-06 07:29:37 | [io.github.petrovicistefan/mcp-security-guard](https://github.com/petrovicistefan/mcp-security-guard) | MCP Security Guard | 0.7.0 | Audit MCP servers for tool poisoning, rug pulls and supply-chain risk (OWASP MC… |
+| 2026-10-06 07:31:34 | [ai.takara/miru](https://github.com/takara-ai/miru-code) |  | 1.10.1 | Hybrid semantic and keyword code search for coding agents. |
+| 2026-10-06 07:33:51 | cloud.aderlo/hosting | Aderlo Cloud | 1.0.0 | Manage Aderlo Cloud hosting: files, DNS, MySQL/PostgreSQL databases and WP-CLI… |
+| 2026-10-06 07:35:22 | [io.github.EricSeokgon/egovframe-scaffold-mcp](https://github.com/EricSeokgon/egovframe-scaffold-mcp) |  | 0.37.0 | eGovFrame (전자정부 표준프레임워크) projects: templates, components, CRUD, build, 5.x migr… |
+| 2026-10-06 07:36:21 | [io.github.agentstacktech/agentstack](https://github.com/agentstacktech/AgentStack) | AgentStack (agentstack.tech) | 1.0.0 | Backend for AI agents: one batched tool over ~668 actions (hosting, storage, au… |
+| 2026-10-06 07:38:53 | de.relaex-engineers/boring-api | Boring API | 0.2.0 | Deterministic data tools: supplier price list diff, PDF table extraction, produ… |
+| 2026-10-06 07:46:21 | [io.github.ms-methos/jsonfabrica-mcp-server](https://github.com/ms-methos/jsonfabrica-mcp-server) | JsonFabrica | 0.3.2 | Generate realistic, relational synthetic JSON test data from templates, via the… |
+| 2026-10-06 07:47:26 | [io.github.agentcitylabs/gmgn-robinhood-mcp](https://github.com/agentcitylabs/gmgn-robinhood-mcp) | Agentcity Robinhood Chain Research | 0.1.0 | Read-only Robinhood Chain token research via GMGN, built for Agentcity agents a… |
+| 2026-10-06 07:47:39 | com.paytm.travel/discovery | Paytm Travel | 3.4.7 | Discover and compare live Paytm flights and buses by fare, schedule, operator,… |
+| 2026-10-06 07:50:50 | [io.lenz/fact-check](https://github.com/lenzhq/lenz-mcp) | Lenz Fact-Check | 1.1.1 | Check the factual claims in a draft or an answer: a quick verdict, or a deep ch… |
+| 2026-10-06 07:52:17 | [io.github.sepehr071/paziresh24-mcp](https://github.com/sepehr071/paziresh24-mcp) | Paziresh24 | 0.1.0 | Unofficial read-only Paziresh24: find Iranian doctors, profiles, prices, review… |
+| 2026-10-06 07:56:28 | io.github.yl124915300-dot/federal-bid-intelligence | US Federal Bid Intelligence | 1.0.0 | Cached SAM.gov incumbent and award evidence. Shared 6 SAM pulls/day; no guarant… |
+| 2026-10-06 08:03:04 | [io.github.sepehr071/shopino-mcp](https://github.com/sepehr071/shopino-mcp) | Shopino | 0.1.1 | Unofficial read-only Shopino: search fashion across Iranian shops, compare pric… |
+| 2026-10-06 08:03:05 | [io.github.sepehr071/asalbanoo-mcp](https://github.com/sepehr071/asalbanoo-mcp) | Asal Banoo | 0.1.1 | Unofficial read-only Asal Banoo: search cosmetics and skin care, compare prices… |
+| 2026-10-06 08:05:46 | [io.github.sepehr071/doctoreto-mcp](https://github.com/sepehr071/doctoreto-mcp) | Doctoreto | 0.1.1 | Unofficial read-only Doctoreto: Iranian doctors, visit fees, free appointment t… |
+| 2026-10-06 08:06:23 | [io.github.mrslbt/nankai-trough](https://github.com/mrslbt/nankai-trough-mcp) |  | 0.2.1 | Nankai Trough earthquake hazard & building-safety, from official Japan data. No… |
+| 2026-10-06 08:06:56 | [io.github.sepehr071/khanoumi-mcp](https://github.com/sepehr071/khanoumi-mcp) | Khanoumi | 0.1.1 | Unofficial read-only Khanoumi: search cosmetics and skin care, compare prices,… |
+| 2026-10-06 08:07:19 | [io.github.UI5/mcp-server](https://github.com/UI5/mcp-server) |  | 0.3.2 | MCP server for SAPUI5/OpenUI5 development |
+| 2026-10-06 08:08:59 | [io.github.eorscope/eorscope-mcp](https://github.com/eorscope/eorscope-mcp) | EOR Scope | 0.2.0 | Statutory employer cost by country, before any Employer of Record (EOR) fee. |
+| 2026-10-06 08:11:58 | [io.github.tj-smith47/cfgd](https://github.com/tj-smith47/cfgd) |  | 0.12.0 | Declarative, GitOps-style machine configuration management |
+| 2026-10-06 08:12:27 | com.ticketsministry.ai/events | TicketsMinistry events | 1.0.0 | Search live events in Sri Lanka: dates, venues, ticket tiers, prices and help a… |
+| 2026-10-06 08:13:11 | net.ticketsministry.ai/events | TicketsMinistry events | 1.0.0 | Search live events in the UAE: dates, venues, ticket tiers, prices and help art… |
+| 2026-10-06 08:14:35 | [io.github.mwstech/auditra](https://github.com/mwstech/auditra) | Auditra | 1.0.2 | Read-only MCP server for WordPress plugin audits: vulnerabilities, bloat, cron,… |
 
 ## Data source
 

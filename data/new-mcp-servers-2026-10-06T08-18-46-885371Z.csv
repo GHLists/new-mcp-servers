@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-10-06T07:19:53.981259Z,io.github.evictionsapi/evictions-api,Evictions API,1.0.0,https://github.com/evictionsapi/evictions-api,streamable-http,US/DC eviction cases. A licensed attorney reviews each real case before anything is served or filed.
+2026-10-06T07:23:14.543942Z,io.github.justyns/silverbullet-ai-mcp,,0.10.0-alpha.3,https://github.com/justyns/silverbullet-ai,,Exposes silverbullet-ai tools from a SilverBullet space to MCP clients
+2026-10-06T07:24:59.977353Z,ai.kosmodrom/kosmodrom,Kosmodrom,1.2.1486,,streamable-http; streamable-http,"Task tracker for product teams: projects, features, tasks, bugs, team chats and code context."
+2026-10-06T07:25:23.401149Z,com.livepairai/livepair-hub,,1.0.0,,streamable-http,"Community library of tested AI prompts with the results they produced — image, video, and agent."
+2026-10-06T07:28:05.972211Z,io.github.deanfankhauser/postdom,Postdom,0.4.1,,streamable-http,"Videos that make your business go viral, made for you."
+2026-10-06T07:29:37.181743Z,io.github.petrovicistefan/mcp-security-guard,MCP Security Guard,0.7.0,https://github.com/petrovicistefan/mcp-security-guard,,"Audit MCP servers for tool poisoning, rug pulls and supply-chain risk (OWASP MCP Top 10)."
+2026-10-06T07:31:34.668202Z,ai.takara/miru,,1.10.1,https://github.com/takara-ai/miru-code,,Hybrid semantic and keyword code search for coding agents.
+2026-10-06T07:33:51.800494Z,cloud.aderlo/hosting,Aderlo Cloud,1.0.0,,streamable-http,"Manage Aderlo Cloud hosting: files, DNS, MySQL/PostgreSQL databases and WP-CLI over OAuth scopes."
+2026-10-06T07:35:22.898585Z,io.github.EricSeokgon/egovframe-scaffold-mcp,,0.37.0,https://github.com/EricSeokgon/egovframe-scaffold-mcp,,"eGovFrame (전자정부 표준프레임워크) projects: templates, components, CRUD, build, 5.x migration, dependencies"
+2026-10-06T07:36:21.611435Z,io.github.agentstacktech/agentstack,AgentStack (agentstack.tech),1.0.0,https://github.com/agentstacktech/AgentStack,streamable-http,"Backend for AI agents: one batched tool over ~668 actions (hosting, storage, auth, payments)."
+2026-10-06T07:38:53.924634Z,de.relaex-engineers/boring-api,Boring API,0.2.0,,streamable-http,"Deterministic data tools: supplier price list diff, PDF table extraction, product feed validation"
+2026-10-06T07:46:21.125471Z,io.github.ms-methos/jsonfabrica-mcp-server,JsonFabrica,0.3.2,https://github.com/ms-methos/jsonfabrica-mcp-server,,"Generate realistic, relational synthetic JSON test data from templates, via the JsonFabrica API."
+2026-10-06T07:47:26.627888Z,io.github.agentcitylabs/gmgn-robinhood-mcp,Agentcity Robinhood Chain Research,0.1.0,https://github.com/agentcitylabs/gmgn-robinhood-mcp,streamable-http,"Read-only Robinhood Chain token research via GMGN, built for Agentcity agents and any MCP client."
+2026-10-06T07:47:39.642967Z,com.paytm.travel/discovery,Paytm Travel,3.4.7,,streamable-http,"Discover and compare live Paytm flights and buses by fare, schedule, operator, stops, and amenities."
+2026-10-06T07:50:50.001861Z,io.lenz/fact-check,Lenz Fact-Check,1.1.1,https://github.com/lenzhq/lenz-mcp,streamable-http,"Check the factual claims in a draft or an answer: a quick verdict, or a deep check with sources."
+2026-10-06T07:52:17.719355Z,io.github.sepehr071/paziresh24-mcp,Paziresh24,0.1.0,https://github.com/sepehr071/paziresh24-mcp,,"Unofficial read-only Paziresh24: find Iranian doctors, profiles, prices, reviews and free slots."
+2026-10-06T07:56:28.994665Z,io.github.yl124915300-dot/federal-bid-intelligence,US Federal Bid Intelligence,1.0.0,,streamable-http,Cached SAM.gov incumbent and award evidence. Shared 6 SAM pulls/day; no guaranteed fresh quota.
+2026-10-06T08:03:04.785088Z,io.github.sepehr071/shopino-mcp,Shopino,0.1.1,https://github.com/sepehr071/shopino-mcp,,"Unofficial read-only Shopino: search fashion across Iranian shops, compare prices, sizes, stock."
+2026-10-06T08:03:05.258758Z,io.github.sepehr071/asalbanoo-mcp,Asal Banoo,0.1.1,https://github.com/sepehr071/asalbanoo-mcp,,"Unofficial read-only Asal Banoo: search cosmetics and skin care, compare prices, sizes, deals."
+2026-10-06T08:05:46.352081Z,io.github.sepehr071/doctoreto-mcp,Doctoreto,0.1.1,https://github.com/sepehr071/doctoreto-mcp,,"Unofficial read-only Doctoreto: Iranian doctors, visit fees, free appointment times, clinics, labs."
+2026-10-06T08:06:23.015209Z,io.github.mrslbt/nankai-trough,,0.2.1,https://github.com/mrslbt/nankai-trough-mcp,,"Nankai Trough earthquake hazard & building-safety, from official Japan data. No verdicts."
+2026-10-06T08:06:56.378886Z,io.github.sepehr071/khanoumi-mcp,Khanoumi,0.1.1,https://github.com/sepehr071/khanoumi-mcp,,"Unofficial read-only Khanoumi: search cosmetics and skin care, compare prices, shades, reviews."
+2026-10-06T08:07:19.722367Z,io.github.UI5/mcp-server,,0.3.2,https://github.com/UI5/mcp-server,,MCP server for SAPUI5/OpenUI5 development
+2026-10-06T08:08:59.879663Z,io.github.eorscope/eorscope-mcp,EOR Scope,0.2.0,https://github.com/eorscope/eorscope-mcp,,"Statutory employer cost by country, before any Employer of Record (EOR) fee."
+2026-10-06T08:11:58.762272Z,io.github.tj-smith47/cfgd,,0.12.0,https://github.com/tj-smith47/cfgd,,"Declarative, GitOps-style machine configuration management"
+2026-10-06T08:12:27.57073Z,com.ticketsministry.ai/events,TicketsMinistry events,1.0.0,,streamable-http,"Search live events in Sri Lanka: dates, venues, ticket tiers, prices and help articles."
+2026-10-06T08:13:11.613703Z,net.ticketsministry.ai/events,TicketsMinistry events,1.0.0,,streamable-http,"Search live events in the UAE: dates, venues, ticket tiers, prices and help articles."
+2026-10-06T08:14:35.122322Z,io.github.mwstech/auditra,Auditra,1.0.2,https://github.com/mwstech/auditra,streamable-http,"Read-only MCP server for WordPress plugin audits: vulnerabilities, bloat, cron, orphaned tables."
