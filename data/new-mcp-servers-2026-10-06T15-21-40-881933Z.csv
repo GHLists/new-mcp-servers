@@ -1,0 +1,30 @@
+created_at,server,title,version,repository,transports,description
+2026-10-06T14:23:26.775173Z,ai.auten/mcp,Auten,0.1.1,https://github.com/auten-ai/auten-mcp,,"Computer use for Claude Code, Codex, Cursor or any MCP client on Mac, Windows and Linux."
+2026-10-06T14:28:04.81063Z,com.asobeast/asobeast,AsoBeast,1.8.0,https://github.com/AsoBeast/asobeast,streamable-http,"App Store and Google Play ASO: keyword rankings, competitors, reviews, audits and an action queue."
+2026-10-06T14:29:52.492905Z,com.commonpaper/contracts,Common Paper,1.0.1,https://github.com/CommonPaper/ai-plugin,streamable-http,"Create, send, negotiate, sign, and track contracts with Common Paper."
+2026-10-06T14:30:27.541613Z,win.liberty/liberty-win,Liberty.win,1.0.0,,streamable-http,"Browse, post, comment, and vote on Liberty.win, a Reddit-style forum and link aggregator."
+2026-10-06T14:35:46.692978Z,sh.oec/mcp-server,oec.sh,0.1.0,https://github.com/oecsh/mcp-server,streamable-http,"Operate your oec.sh Odoo servers, projects and environments with your own API key."
+2026-10-06T14:35:49.051406Z,ai.dotsy/mcp,Dotsy,0.3.0,,streamable-http,"Build and publish static sites on Dotsy with draft-first MCP tools, OAuth Connect, and API keys."
+2026-10-06T14:38:02.998305Z,io.github.jrobsonaccessanalytic/accessexl-capabilities,AccessEXL Agent Capabilities,1.0.0,,streamable-http,Find and run governed Excel model capabilities that your organisation has published for AI agents.
+2026-10-06T14:40:13.923223Z,com.moovtips/moovtips,Moovtips — digital agency,1.0.0,,streamable-http,"Find Moovtips services (3D websites, SEO, AI voice agent, ads, UGC) and send a quote request."
+2026-10-06T14:40:48.425927Z,ai.paylyte/paylyte-core,Paylyte,0.1.0,,streamable-http,Agent Trust Score earned through Proof of Outcome. Browse and buy as paylyte-core.
+2026-10-06T14:41:05.156816Z,com.agentsbooks/commons,AgentsBooks Commons,1.0.0,,streamable-http,"Open, vote-ranked forum, Q&A knowledge base and inbox for AI agents"
+2026-10-06T14:43:24.786073Z,com.geoarmtaxi/booking,GeoArm Taxi — Tbilisi ⇄ Yerevan rides,1.0.0,,streamable-http,"Book shared or private rides between Tbilisi and Yerevan: live prices, schedule, booking requests."
+2026-10-06T14:44:17.704735Z,io.github.conduktor/kafka-mcp,Conduktor,1.0.0,https://github.com/conduktor/kafka-mcp,streamable-http,"Read-only Kafka access for AI assistants: topics, consumer groups, schemas, cluster health."
+2026-10-06T14:46:22.761094Z,io.edgebook/mcp,EdgeBook,0.7.1,https://github.com/highlydubious/edgebook-mcp,streamable-http,"Chart-first trading journal: log trades from notes or chart screenshots, review setups and stats."
+2026-10-06T14:46:29.712178Z,io.github.EminUZUN/palaver,palaver,0.1.0,https://github.com/EminUZUN/palaver,,"Messaging between AI coding agents (Claude Code, Codex, ...) over your own self-hosted relay."
+2026-10-06T14:47:49.569099Z,net.vyexa/clips,Vyexa — video link to short clips,1.0.0,,streamable-http,"Turn a video link into vertical short clips with subtitles: create jobs, poll, get downloads."
+2026-10-06T14:50:34.368522Z,com.belanar/water-decisions,Belanar Water Decisions,0.1.0,,streamable-http,"Decision-only MCP for household water problems with governed, structured next-action guidance."
+2026-10-06T14:56:53.398472Z,io.github.O-mega-Enterprise/suprsonic-mcp,,0.3.2,https://github.com/O-mega-Enterprise/suprsonic-mcp,,"One API key, dozens of capabilities for your AI agent. Zero provider auth."
+2026-10-06T15:01:12.747173Z,io.github.quietnotion/barevalue,Barevalue,1.3.0,https://github.com/quietnotion/barevalue-mcp,streamable-http,"AI podcast editing. Sign up in one call, submit audio by URL, get an edited episode back."
+2026-10-06T15:01:24.655991Z,ai.archome/archome,Archome AI,1.0.0,,streamable-http,"AI virtual staging and architectural rendering: stage rooms, render interiors, exteriors, sketches."
+2026-10-06T15:01:37.420263Z,io.github.phonology024/babelscribe,babelscribe,0.3.1,https://github.com/phonology024/babelscribe,,Offline speech-to-text and SRT subtitles in 99 languages on your own AMD/NVIDIA/Intel/Apple GPU.
+2026-10-06T15:07:32.018891Z,io.github.retracn/google-search,Google Search (via Apify),1.0.0,https://github.com/retracn/google-custom-search-api-alternative,streamable-http,"Google web search for AI agents: title, link and snippet in Custom Search JSON API format."
+2026-10-06T15:10:40.897526Z,io.github.BeastlyPearce/apex-edge,,1.0.0,https://github.com/BeastlyPearce/apex-edge-tools,streamable-http,x402-paid MCP tools at $0.001/call (USDC). tools/list free.
+2026-10-06T15:11:20.974268Z,io.macula/macula-mcp,Macula mesh,0.43.1,https://github.com/macula-io/macula-mcp,,Model Context Protocol server that exposes the Macula mesh to any agent harness
+2026-10-06T15:11:47.604638Z,pl.vanauto/campers,VanAuto Campers,0.1.0,https://github.com/dawidof/vanauto-mcp,streamable-http,"Search VanAuto camper and rental listings: specs, photos, prices, equipment, contacts."
+2026-10-06T15:12:26.665109Z,io.github.cryptoduke01/gloam,Gloam,1.0.0,https://github.com/cryptoduke01/gloam,streamable-http,"Private stablecoin payments for people and AI agents: vault stats, payment requests, proof checks."
+2026-10-06T15:13:13.261644Z,site.chatgpt.alexvelez951205.human-relay-alex/human-relay,Human Relay — ayuda humana remota,0.2.0,,streamable-http,"Spanish human assistance: phone tasks, offer sourcing, app tests. Catalog and quote drafts only."
+2026-10-06T15:16:36.58616Z,io.github.Extelligence-ai/bagel,Bagel,2.4.1,https://github.com/Extelligence-ai/bagel,,"Plain-English analysis of robotics, drone, and IoT data, with intelligent edge data reduction."
+2026-10-06T15:16:37.801903Z,io.github.kingsleyzissougdi/find-agent-tool,Find Agent Tool,0.1.0,,streamable-http,"Given a job, recommend an x402/Bazaar tool with price, schema, and fallback. Free."
+2026-10-06T15:17:05.234128Z,com.fulfiller/agentic-commerce-api,Fulfiller — print catalogue & quotes,0.1.2,,streamable-http,"Print catalogue and live quotes from Fulfiller, a French online printer shipping across the EU."

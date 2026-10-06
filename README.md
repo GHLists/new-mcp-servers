@@ -9,45 +9,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 14:20 UTC
+## Latest list — 2026-10-06 15:21 UTC
 
-New MCP servers published between 2026-10-06 13:22 UTC and 2026-10-06 14:20 UTC.
+New MCP servers published between 2026-10-06 14:20 UTC and 2026-10-06 15:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-06T14-20-49-289516Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-06T15-21-40-881933Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-06 13:24:10 | com.obentoapp/obento | Obento | 1.0.0 | Live USDC rates on Base, any address's Obento position, and deposits and withdr… |
-| 2026-10-06 13:34:03 | dev.knowsme/memory | knowsme | 1.0.1 | One memory for you and your AI agents, shared by ChatGPT, Claude, Gemini, Grok,… |
-| 2026-10-06 13:34:05 | [io.github.SkillGild/skillgild](https://github.com/SkillGild/skillgild) | SkillGild | 0.1.2 | Search and run hosted AI agent skills for Claude Code, Codex, Cursor and Gemini… |
-| 2026-10-06 13:38:10 | [io.github.Icaro0310/poordjaevin](https://github.com/Icaro0310/poordjaevin) |  | 0.1.1 | Typed answers with calibrated confidence for agents. Local-first, no API key. |
-| 2026-10-06 13:39:19 | io.github.MT285/apione | ApiOne B2B Enrichment (GCC and MENA) | 2.0.0 | B2B company, people and email enrichment with cited sources, built for GCC and… |
-| 2026-10-06 13:40:04 | [world.pdata/mcp](https://github.com/noskillcoding/pdata) | pdata Prediction Markets | 2.3.0 | Polymarket, Kalshi + 6 more prediction markets: live odds, volume, movers. Read… |
-| 2026-10-06 13:40:42 | [io.github.cook-md/cook-mcp](https://github.com/cook-md/cook-mcp) | Cook (Cooklang recipes) | 0.2.3 | Cooklang recipes for AI agents: validate, meal plans, shopping lists, pantry, n… |
-| 2026-10-06 13:42:01 | uk.prostack/cito | Cito by Prostack | 1.0.0 | Deploy and manage sites, databases, files and more on Prostack Cito servers. |
-| 2026-10-06 13:44:26 | it.notaiochianese/strumenti-di-calcolo | Strumenti di calcolo dello Studio Notar… | 1.3.0 | Italian home purchase, inheritance and gift tax calculators by a notary's offic… |
-| 2026-10-06 13:51:27 | com.casabellaoutdoor/outdoor-kitchen | Outdoor Kitchen Designer | 2.1.0 | Plan a built-in grill and outdoor kitchen: real MSRP, priced layouts, 3D render… |
-| 2026-10-06 13:51:52 | com.rankvisit/mcp | Rankvisit | 0.1.0 | Ask your AI about your traffic: read-only Google Search Console and Fathom or S… |
-| 2026-10-06 13:54:55 | [io.github.qmediat/ideogram-mcp](https://github.com/qmediat/ideogram-mcp) |  | 1.0.3 | Ideogram 3.0 and 4.0 images through MCP: generate, edit, remix, reframe, upscal… |
-| 2026-10-06 13:55:12 | [io.github.qmediat/gemini-code-context-mcp](https://github.com/qmediat/gemini-code-context-mcp) |  | 1.16.4 | Codebase Q&A for Claude Code through Gemini's 1M-token window, with workspace s… |
-| 2026-10-06 13:55:50 | app.getmyluna/luna | Luna Baby Tracker | 1.0.0 | Shared baby tracker: log feeds, sleep, nappies and solids, check nap windows an… |
-| 2026-10-06 13:57:56 | com.corbah/open-line | Corbah: open line for agents | 0.3.0 | Message Jon, founder of cycling brand Corbah, and browse its live kit catalog.… |
-| 2026-10-06 14:01:44 | io.github.kingsleyzissougdi/check-x402-payment-readiness | Check x402 Payment Readiness | 0.1.0 | Call before paying an x402 resource. Returns PAY/BLOCKED. Does not move funds. |
-| 2026-10-06 14:02:21 | [io.github.qmediat/cursor-mcp](https://github.com/qmediat/cursor-mcp) |  | 1.0.2 | Cursor's agent (cursor-agent CLI) through MCP: any model your plan offers, resu… |
-| 2026-10-06 14:03:33 | [io.github.ianderso/snac-archives-mcp](https://github.com/ianderso/snac-archives-mcp) | SNAC Archives | 0.1.0 | Find which archive holds the papers: SNAC's index of archival collections, plus… |
-| 2026-10-06 14:05:03 | [io.github.ianderso/us-places-mcp](https://github.com/ianderso/us-places-mcp) | US Places, Then | 0.2.0 | US places then: county on a date, PLSS land, GNIS names, old topo maps, post of… |
-| 2026-10-06 14:05:22 | app.hostilo/hostilo | Hostilo | 1.0.3 | Publish and update websites from your AI chat. Hosting for AI-generated HTML, l… |
-| 2026-10-06 14:06:00 | [io.github.ryuxik/snhp](https://github.com/ryuxik/snhp) | SNHP — negotiation rules your AI can't… | 0.5.0 | Turn a seller's offer into negotiation rules and draft replies to buyers inside… |
-| 2026-10-06 14:12:49 | [com.chainstack/chainstack](https://github.com/chainstacklabs/mcp-server) | Chainstack | 1.10.11 | Deploy and manage blockchain nodes across 70+ protocols, search docs, request t… |
-| 2026-10-06 14:13:31 | [io.github.ianderso/dpla-catalog-mcp](https://github.com/ianderso/dpla-catalog-mcp) | DPLA Catalog | 0.1.1 | Search the Digital Public Library of America; reach the holding institution's r… |
-| 2026-10-06 14:13:38 | [io.github.yiminspace/quarry](https://github.com/yiminspace/quarry) |  | 1.5.2 | Safety-railed database access for agents: Postgres, MySQL, Redis. Read-only by… |
-| 2026-10-06 14:19:05 | [com.getquario/mcp](https://github.com/getquario/mcp) | quario | 0.2.1 | Validate and render quario report definitions (JSON) to PDF, Excel, Word, HTML… |
-| 2026-10-06 14:19:19 | io.github.brunopetrellinz-tech/company-research-mcp | Company Research MCP | 1.0.0 | Company research for AI agents: contacts, tech stack, LEI, EU legal entities, S… |
-| 2026-10-06 14:19:24 | io.github.brunopetrellinz-tech/job-search-mcp | Job Search MCP | 1.0.0 | Open jobs from 20,000+ company career sites: search, list a company's roles, re… |
-| 2026-10-06 14:19:27 | io.github.brunopetrellinz-tech/marketing-research-mcp | Marketing & SEO Research MCP | 1.0.0 | Marketing research for AI agents: SEO audits, broken links, DNS, tech stack, Ap… |
-| 2026-10-06 14:19:31 | io.github.brunopetrellinz-tech/research-papers-mcp | Research Papers MCP | 1.0.0 | Research papers for AI agents: PubMed, arXiv, Crossref; citations, references,… |
-| 2026-10-06 14:20:18 | [io.github.mamuso/unicodekit](https://github.com/mamuso/characters) | UnicodeKit | 1.0.0 | Find Unicode characters by name, codepoint, or meaning, and get their HTML, CSS… |
-| 2026-10-06 14:20:42 | com.skimnews/news | SkimNews | 1.0.0 | Free AI-curated news summaries from 100+ sources across seven beats, plus entit… |
+| 2026-10-06 14:23:26 | [ai.auten/mcp](https://github.com/auten-ai/auten-mcp) | Auten | 0.1.1 | Computer use for Claude Code, Codex, Cursor or any MCP client on Mac, Windows a… |
+| 2026-10-06 14:28:04 | [com.asobeast/asobeast](https://github.com/AsoBeast/asobeast) | AsoBeast | 1.8.0 | App Store and Google Play ASO: keyword rankings, competitors, reviews, audits a… |
+| 2026-10-06 14:29:52 | [com.commonpaper/contracts](https://github.com/CommonPaper/ai-plugin) | Common Paper | 1.0.1 | Create, send, negotiate, sign, and track contracts with Common Paper. |
+| 2026-10-06 14:30:27 | win.liberty/liberty-win | Liberty.win | 1.0.0 | Browse, post, comment, and vote on Liberty.win, a Reddit-style forum and link a… |
+| 2026-10-06 14:35:46 | [sh.oec/mcp-server](https://github.com/oecsh/mcp-server) | oec.sh | 0.1.0 | Operate your oec.sh Odoo servers, projects and environments with your own API k… |
+| 2026-10-06 14:35:49 | ai.dotsy/mcp | Dotsy | 0.3.0 | Build and publish static sites on Dotsy with draft-first MCP tools, OAuth Conne… |
+| 2026-10-06 14:38:02 | io.github.jrobsonaccessanalytic/accessexl-capabilities | AccessEXL Agent Capabilities | 1.0.0 | Find and run governed Excel model capabilities that your organisation has publi… |
+| 2026-10-06 14:40:13 | com.moovtips/moovtips | Moovtips — digital agency | 1.0.0 | Find Moovtips services (3D websites, SEO, AI voice agent, ads, UGC) and send a… |
+| 2026-10-06 14:40:48 | ai.paylyte/paylyte-core | Paylyte | 0.1.0 | Agent Trust Score earned through Proof of Outcome. Browse and buy as paylyte-co… |
+| 2026-10-06 14:41:05 | com.agentsbooks/commons | AgentsBooks Commons | 1.0.0 | Open, vote-ranked forum, Q&A knowledge base and inbox for AI agents |
+| 2026-10-06 14:43:24 | com.geoarmtaxi/booking | GeoArm Taxi — Tbilisi ⇄ Yerevan rides | 1.0.0 | Book shared or private rides between Tbilisi and Yerevan: live prices, schedule… |
+| 2026-10-06 14:44:17 | [io.github.conduktor/kafka-mcp](https://github.com/conduktor/kafka-mcp) | Conduktor | 1.0.0 | Read-only Kafka access for AI assistants: topics, consumer groups, schemas, clu… |
+| 2026-10-06 14:46:22 | [io.edgebook/mcp](https://github.com/highlydubious/edgebook-mcp) | EdgeBook | 0.7.1 | Chart-first trading journal: log trades from notes or chart screenshots, review… |
+| 2026-10-06 14:46:29 | [io.github.EminUZUN/palaver](https://github.com/EminUZUN/palaver) | palaver | 0.1.0 | Messaging between AI coding agents (Claude Code, Codex, ...) over your own self… |
+| 2026-10-06 14:47:49 | net.vyexa/clips | Vyexa — video link to short clips | 1.0.0 | Turn a video link into vertical short clips with subtitles: create jobs, poll,… |
+| 2026-10-06 14:50:34 | com.belanar/water-decisions | Belanar Water Decisions | 0.1.0 | Decision-only MCP for household water problems with governed, structured next-a… |
+| 2026-10-06 14:56:53 | [io.github.O-mega-Enterprise/suprsonic-mcp](https://github.com/O-mega-Enterprise/suprsonic-mcp) |  | 0.3.2 | One API key, dozens of capabilities for your AI agent. Zero provider auth. |
+| 2026-10-06 15:01:12 | [io.github.quietnotion/barevalue](https://github.com/quietnotion/barevalue-mcp) | Barevalue | 1.3.0 | AI podcast editing. Sign up in one call, submit audio by URL, get an edited epi… |
+| 2026-10-06 15:01:24 | ai.archome/archome | Archome AI | 1.0.0 | AI virtual staging and architectural rendering: stage rooms, render interiors,… |
+| 2026-10-06 15:01:37 | [io.github.phonology024/babelscribe](https://github.com/phonology024/babelscribe) | babelscribe | 0.3.1 | Offline speech-to-text and SRT subtitles in 99 languages on your own AMD/NVIDIA… |
+| 2026-10-06 15:07:32 | [io.github.retracn/google-search](https://github.com/retracn/google-custom-search-api-alternative) | Google Search (via Apify) | 1.0.0 | Google web search for AI agents: title, link and snippet in Custom Search JSON… |
+| 2026-10-06 15:10:40 | [io.github.BeastlyPearce/apex-edge](https://github.com/BeastlyPearce/apex-edge-tools) |  | 1.0.0 | x402-paid MCP tools at $0.001/call (USDC). tools/list free. |
+| 2026-10-06 15:11:20 | [io.macula/macula-mcp](https://github.com/macula-io/macula-mcp) | Macula mesh | 0.43.1 | Model Context Protocol server that exposes the Macula mesh to any agent harness |
+| 2026-10-06 15:11:47 | [pl.vanauto/campers](https://github.com/dawidof/vanauto-mcp) | VanAuto Campers | 0.1.0 | Search VanAuto camper and rental listings: specs, photos, prices, equipment, co… |
+| 2026-10-06 15:12:26 | [io.github.cryptoduke01/gloam](https://github.com/cryptoduke01/gloam) | Gloam | 1.0.0 | Private stablecoin payments for people and AI agents: vault stats, payment requ… |
+| 2026-10-06 15:13:13 | site.chatgpt.alexvelez951205.human-relay-alex/human-relay | Human Relay — ayuda humana remota | 0.2.0 | Spanish human assistance: phone tasks, offer sourcing, app tests. Catalog and q… |
+| 2026-10-06 15:16:36 | [io.github.Extelligence-ai/bagel](https://github.com/Extelligence-ai/bagel) | Bagel | 2.4.1 | Plain-English analysis of robotics, drone, and IoT data, with intelligent edge… |
+| 2026-10-06 15:16:37 | io.github.kingsleyzissougdi/find-agent-tool | Find Agent Tool | 0.1.0 | Given a job, recommend an x402/Bazaar tool with price, schema, and fallback. Fr… |
+| 2026-10-06 15:17:05 | com.fulfiller/agentic-commerce-api | Fulfiller — print catalogue & quotes | 0.1.2 | Print catalogue and live quotes from Fulfiller, a French online printer shippin… |
 
 ## Data source
 
