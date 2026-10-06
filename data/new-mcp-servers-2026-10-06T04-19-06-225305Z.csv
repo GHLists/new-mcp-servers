@@ -1,0 +1,13 @@
+created_at,server,title,version,repository,transports,description
+2026-10-06T03:22:35.631367Z,io.github.pghdma/callrail-mcp,CallRail MCP,1.3.0,https://github.com/pghdma/callrail-mcp,,"CallRail REST API v3: 57 tools for calls, leads, trackers, tags, users, and agency reporting."
+2026-10-06T03:32:58.276613Z,io.github.helphub369/model-ruler,Model Ruler — AI Cost Calculators,1.0.0,,streamable-http,"Deterministic AI/LLM cost calculators for tokens, providers, RAG, agents, evals, and automation."
+2026-10-06T03:40:00.57104Z,io.github.vinayvobbili/jobwatch,jobwatch,0.2.1,https://github.com/vinayvobbili/jobwatch,,"Watch company job boards, rank new matches and track every application. Never auto-applies."
+2026-10-06T03:44:44.270829Z,io.github.Dcroyalty/xrplhub,XRPLHub — XRPLScore & XRPL actions,1.14.0,https://github.com/Dcroyalty/XRPLHub.io,streamable-http,Free XRPL scores + free unsigned txjson for 35 XRPL actions. You sign with your own wallet; no keys.
+2026-10-06T03:50:37.142984Z,io.github.gabrielmahia/wapimaji-mcp,,0.1.9,https://github.com/gabrielmahia/wapimaji-mcp,,💧 WapiMaji MCP — Kenya Water & Drought Intelligence
+2026-10-06T03:51:53.665659Z,si.hivex/names,Hivex .si names,1.0.0,,streamable-http,"Find and check .si domain names that are free to register, from an index of 600,000+ names."
+2026-10-06T03:58:57.293855Z,io.github.GautamTalksDev/mcp-pin,mcp-pin,0.2.1,https://github.com/GautamTalksDev/mcp-pin,,"Check if an MCP server's tool definitions changed after approval, from a signed public log."
+2026-10-06T03:59:35.639348Z,io.github.kaitoInfra/twitterapi-io-mcp-server,,0.2.1,https://github.com/kaitoInfra/twitterapi-io-mcp-server,,"Official twitterapi.io MCP server (npm, stdio): Twitter/X tweets, users, followers, trends."
+2026-10-06T04:08:52.165751Z,io.github.forgeprint/forgeprint,Forgeprint,0.4.4,https://github.com/forgeprint/forgeprint,,Resolve a developer profile to exactly one project blueprint and return its CI-tested setup recipe.
+2026-10-06T04:11:14.342289Z,io.github.dorukardahan/twitterapi-io-mcp,,1.5.22,https://github.com/dorukardahan/twitterapi-io-mcp,,"Offline access to TwitterAPI.io docs for AI assistants. 67 endpoints, 32 pages, 24 blog posts."
+2026-10-06T04:12:22.322779Z,industries.cascade/ephemeris,Ephemeris,1.0.0,https://github.com/TensorLink-AI/ephemeris-mcp,streamable-http,"Probabilistic time-series forecasts from zero-shot foundation models: routed, single or ensembled."
+2026-10-06T04:17:05.106106Z,io.github.rgdevment/tisty,Tisty,1.24.0,https://github.com/rgdevment/Tisty,,"Notes, documents and tasks as plain Markdown on your own disk. No account, no server."
