@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-10-05T23:23:10.5536Z,io.github.devchad-cmd/skilldb,SkillDB,0.8.4-registry.1,https://github.com/devchad-cmd/skilldb-sdk,streamable-http,Search and load AI agent skills. Free metadata; full content requires a Pro or Studio account.
+2026-10-05T23:30:40.602598Z,ai.everymcp/every-mcp,Every MCP,1.1.0,,streamable-http,Search the public universe of MCP servers. This data comes from the Official MCP Registry.
+2026-10-05T23:30:54.268289Z,io.github.ushios/osewa,Osewa,1.58.0,,streamable-http,"Track and share care records for babies and plants: feedings, diapers, sleep, and watering."
+2026-10-05T23:36:46.527861Z,com.predictionmarketspicks/weather,Weather Markets Edge Desk,1.1.0,https://github.com/predictionmarketspicks/mcp,streamable-http,"Kalshi weather markets: daily-high board beside the NWS forecast, live edges, EV, Kelly, base rates."
+2026-10-05T23:38:22.201734Z,com.poolproflorida/pool-pro-florida,Pool Pro Florida,2.2.0,,streamable-http,"Pool service scheduling and lead management for Pool Pro Florida in St. Lucie County, Florida."
+2026-10-05T23:39:08.850349Z,io.github.ariferol01/tuval-studio,,1.0.7,https://github.com/ariferol01/tuval-studio-mcp,,"Tuval Studio MCP: Graphic design, AI design & PDF catalog generator for Claude, Cursor & AI agents."
+2026-10-05T23:40:35.372464Z,io.github.Propertyscout001/puntersedge,,0.4.1,https://github.com/Propertyscout001/puntersedge-mcp,,Australian and New Zealand racing plus Australian sports odds for AI agents. Read-only tools.
+2026-10-05T23:43:10.911448Z,app.toolaby/docs,Toolaby docs,1.0.0,,streamable-http,"Search and read Toolaby's docs: payments, licences and paywalls for Chrome extensions."
+2026-10-05T23:46:07.079514Z,glass.kagerou/rocuronium,Rocuronium,1.2.0,https://github.com/kageroumado/rocuronium,,"Drive macOS apps without taking the cursor: read, click, type, scroll, each with evidence."
+2026-10-05T23:47:39.367128Z,com.baroezip/mcp,바로이집 (Baroezip),1.0.0,,streamable-http,"Korean apartment listings: list your home, post buyer requests, prices, registry"
+2026-10-05T23:48:48.030972Z,com.bookresorts/hotel-booking,BookResorts — hotel & resort booking,1.0.0,,streamable-http,Live hotel and resort prices (taxes included) and secure booking links for travelers. Since 1993.
+2026-10-05T23:49:22.389245Z,com.iridiumhqmcp/linkedin-mcp,Iridium,1.0.0,,streamable-http,"LinkedIn outreach, commenting, scheduling, and data via Claude and human approval gates."
+2026-10-05T23:54:51.260418Z,io.github.daniel3303/equibles,,1.0.4,https://github.com/daniel3303/stock-market-mcp-server,streamable-http,"SEC filings, company financials, holdings, earnings calls, stock prices, options and macro data."
+2026-10-05T23:55:54.194798Z,cc.squatch/mcp,Squatch Stack,1.0.0,,streamable-http,"Read-only tools from Squatch Stack: the studio, its goods with checkout links, and essays."
+2026-10-06T00:04:00.052375Z,com.reqbeat/hiring-signals,Reqbeat Hiring Signals,1.1.3,https://github.com/reqbeat/mcp-server,streamable-http,"Find companies hiring for a role and geo, qualify them, and watch them for changes."
+2026-10-06T00:06:29.718606Z,io.github.AtlaSent/mcp-server,AtlaSent MCP Server,2.17.2,https://github.com/AtlaSent/atlasent-mcp-server,,"AtlaSent for AI agents: with an API key, actions wait for approval with signed proof. No key: demo."
+2026-10-06T00:09:01.996983Z,dev.heard/heard,Heard,1.0.0,https://github.com/heardlabs/heard-mcp,streamable-http,"Your coding agents' hours this month, your friends board, and invites you approve."
+2026-10-06T00:09:40.577574Z,com.naifgravity/diagnostic,NAIF Gravity Diagnostic — Free MCP/API/Webhook Triage,1.0.0,https://github.com/naief9961-tech/ai-growth-engine,streamable-http,"Free MCP, API auth, webhook and schema diagnostics with bounded checks and safe quote routing."
