@@ -9,42 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 08:18 UTC
+## Latest list — 2026-10-06 09:19 UTC
 
-New MCP servers published between 2026-10-06 07:19 UTC and 2026-10-06 08:18 UTC.
+New MCP servers published between 2026-10-06 08:18 UTC and 2026-10-06 09:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-06T08-18-46-885371Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-06T09-19-28-613936Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-06 07:19:53 | [io.github.evictionsapi/evictions-api](https://github.com/evictionsapi/evictions-api) | Evictions API | 1.0.0 | US/DC eviction cases. A licensed attorney reviews each real case before anythin… |
-| 2026-10-06 07:23:14 | [io.github.justyns/silverbullet-ai-mcp](https://github.com/justyns/silverbullet-ai) |  | 0.10.0-alpha.3 | Exposes silverbullet-ai tools from a SilverBullet space to MCP clients |
-| 2026-10-06 07:24:59 | ai.kosmodrom/kosmodrom | Kosmodrom | 1.2.1486 | Task tracker for product teams: projects, features, tasks, bugs, team chats and… |
-| 2026-10-06 07:25:23 | com.livepairai/livepair-hub |  | 1.0.0 | Community library of tested AI prompts with the results they produced — image,… |
-| 2026-10-06 07:28:05 | io.github.deanfankhauser/postdom | Postdom | 0.4.1 | Videos that make your business go viral, made for you. |
-| 2026-10-06 07:29:37 | [io.github.petrovicistefan/mcp-security-guard](https://github.com/petrovicistefan/mcp-security-guard) | MCP Security Guard | 0.7.0 | Audit MCP servers for tool poisoning, rug pulls and supply-chain risk (OWASP MC… |
-| 2026-10-06 07:31:34 | [ai.takara/miru](https://github.com/takara-ai/miru-code) |  | 1.10.1 | Hybrid semantic and keyword code search for coding agents. |
-| 2026-10-06 07:33:51 | cloud.aderlo/hosting | Aderlo Cloud | 1.0.0 | Manage Aderlo Cloud hosting: files, DNS, MySQL/PostgreSQL databases and WP-CLI… |
-| 2026-10-06 07:35:22 | [io.github.EricSeokgon/egovframe-scaffold-mcp](https://github.com/EricSeokgon/egovframe-scaffold-mcp) |  | 0.37.0 | eGovFrame (전자정부 표준프레임워크) projects: templates, components, CRUD, build, 5.x migr… |
-| 2026-10-06 07:36:21 | [io.github.agentstacktech/agentstack](https://github.com/agentstacktech/AgentStack) | AgentStack (agentstack.tech) | 1.0.0 | Backend for AI agents: one batched tool over ~668 actions (hosting, storage, au… |
-| 2026-10-06 07:38:53 | de.relaex-engineers/boring-api | Boring API | 0.2.0 | Deterministic data tools: supplier price list diff, PDF table extraction, produ… |
-| 2026-10-06 07:46:21 | [io.github.ms-methos/jsonfabrica-mcp-server](https://github.com/ms-methos/jsonfabrica-mcp-server) | JsonFabrica | 0.3.2 | Generate realistic, relational synthetic JSON test data from templates, via the… |
-| 2026-10-06 07:47:26 | [io.github.agentcitylabs/gmgn-robinhood-mcp](https://github.com/agentcitylabs/gmgn-robinhood-mcp) | Agentcity Robinhood Chain Research | 0.1.0 | Read-only Robinhood Chain token research via GMGN, built for Agentcity agents a… |
-| 2026-10-06 07:47:39 | com.paytm.travel/discovery | Paytm Travel | 3.4.7 | Discover and compare live Paytm flights and buses by fare, schedule, operator,… |
-| 2026-10-06 07:50:50 | [io.lenz/fact-check](https://github.com/lenzhq/lenz-mcp) | Lenz Fact-Check | 1.1.1 | Check the factual claims in a draft or an answer: a quick verdict, or a deep ch… |
-| 2026-10-06 07:52:17 | [io.github.sepehr071/paziresh24-mcp](https://github.com/sepehr071/paziresh24-mcp) | Paziresh24 | 0.1.0 | Unofficial read-only Paziresh24: find Iranian doctors, profiles, prices, review… |
-| 2026-10-06 07:56:28 | io.github.yl124915300-dot/federal-bid-intelligence | US Federal Bid Intelligence | 1.0.0 | Cached SAM.gov incumbent and award evidence. Shared 6 SAM pulls/day; no guarant… |
-| 2026-10-06 08:03:04 | [io.github.sepehr071/shopino-mcp](https://github.com/sepehr071/shopino-mcp) | Shopino | 0.1.1 | Unofficial read-only Shopino: search fashion across Iranian shops, compare pric… |
-| 2026-10-06 08:03:05 | [io.github.sepehr071/asalbanoo-mcp](https://github.com/sepehr071/asalbanoo-mcp) | Asal Banoo | 0.1.1 | Unofficial read-only Asal Banoo: search cosmetics and skin care, compare prices… |
-| 2026-10-06 08:05:46 | [io.github.sepehr071/doctoreto-mcp](https://github.com/sepehr071/doctoreto-mcp) | Doctoreto | 0.1.1 | Unofficial read-only Doctoreto: Iranian doctors, visit fees, free appointment t… |
-| 2026-10-06 08:06:23 | [io.github.mrslbt/nankai-trough](https://github.com/mrslbt/nankai-trough-mcp) |  | 0.2.1 | Nankai Trough earthquake hazard & building-safety, from official Japan data. No… |
-| 2026-10-06 08:06:56 | [io.github.sepehr071/khanoumi-mcp](https://github.com/sepehr071/khanoumi-mcp) | Khanoumi | 0.1.1 | Unofficial read-only Khanoumi: search cosmetics and skin care, compare prices,… |
-| 2026-10-06 08:07:19 | [io.github.UI5/mcp-server](https://github.com/UI5/mcp-server) |  | 0.3.2 | MCP server for SAPUI5/OpenUI5 development |
-| 2026-10-06 08:08:59 | [io.github.eorscope/eorscope-mcp](https://github.com/eorscope/eorscope-mcp) | EOR Scope | 0.2.0 | Statutory employer cost by country, before any Employer of Record (EOR) fee. |
-| 2026-10-06 08:11:58 | [io.github.tj-smith47/cfgd](https://github.com/tj-smith47/cfgd) |  | 0.12.0 | Declarative, GitOps-style machine configuration management |
-| 2026-10-06 08:12:27 | com.ticketsministry.ai/events | TicketsMinistry events | 1.0.0 | Search live events in Sri Lanka: dates, venues, ticket tiers, prices and help a… |
-| 2026-10-06 08:13:11 | net.ticketsministry.ai/events | TicketsMinistry events | 1.0.0 | Search live events in the UAE: dates, venues, ticket tiers, prices and help art… |
-| 2026-10-06 08:14:35 | [io.github.mwstech/auditra](https://github.com/mwstech/auditra) | Auditra | 1.0.2 | Read-only MCP server for WordPress plugin audits: vulnerabilities, bloat, cron,… |
+| 2026-10-06 08:19:06 | com.wptaskify/wordpress | wptaskify for WordPress | 1.0.0 | Let Claude, ChatGPT or any MCP client run your WordPress site, Pinterest and Se… |
+| 2026-10-06 08:19:10 | com.wptaskify/store | wptaskify for stores | 1.0.0 | Let your AI manage WooCommerce and Shopify stores: products, SEO, descriptions… |
+| 2026-10-06 08:21:22 | it.asapdevs/site | ASAPDevs | 1.0.0 | Read-only: ASAPDevs offers, case studies, blog search, pricing and contact (Pol… |
+| 2026-10-06 08:21:50 | com.mikereams/site | Mike Reams: architecture writing, diagr… | 1.0.0 | Read-only search of mikereams.com: CSDM diagrams, posts and the Architect's Too… |
+| 2026-10-06 08:22:13 | [com.flconsole/upwork-jobs](https://github.com/droopboop/flconsole-upwork-mcp) | flconsole — Upwork jobs | 1.0.0 | Free hosted MCP server: new Upwork jobs for your agent and Telegram alerts with… |
+| 2026-10-06 08:27:18 | [io.github.andypgray/resharper-cli-mcp](https://github.com/andypgray/resharper-cli-mcp) |  | 1.7.1 | ReSharper CLI inspection/cleanup via MCP. Unofficial: not affiliated with or en… |
+| 2026-10-06 08:39:17 | [io.github.DigbyO/colour-memory](https://github.com/DigbyO/colour-memory-api) | Colour Memory | 2.3.4 | Colour meaning, history and evidence: graded sources for 47,000+ colour records. |
+| 2026-10-06 08:43:46 | [io.github.89rat/x402-checks](https://github.com/89rat/m2m-exchange) |  | 1.3.0 | Machine-payable deterministic identifier checks + signed XDR-1 receipts for age… |
+| 2026-10-06 08:44:22 | ai.lumeta/lumeta | Lumeta | 1.0.0 | Make images, video and audio with your Lumeta account, credits and saved Shelf… |
+| 2026-10-06 08:45:07 | [io.github.zactonz/zactonz-mcp](https://github.com/zactonz/zactonz-mcp) | Zactonz | 0.1.0 | Screenshots, page to Markdown, link previews, DNS, SSL, WHOIS, QR codes and mor… |
+| 2026-10-06 08:46:27 | ai.gatana/gateway | Gatana | 1.0.0 | MCP gateway for every MCP server, OpenAPI spec and FaaS tool behind one URL: SS… |
+| 2026-10-06 08:50:13 | [io.github.ArtificiallyLTD/business-data-mcp](https://github.com/ArtificiallyLTD/business-data-mcp) | Business Data MCP Server | 1.0.0 | Gov contracts, jobs, LinkedIn, YC, company contacts, tech stacks, PDFs and Goog… |
+| 2026-10-06 08:53:44 | [com.songupai/songup-ai](https://github.com/ismailgalaxys25-del/songup-ai-mcp) | SongUp AI | 1.0.0 | Find AI songs in 24 languages, start a custom song on SongUp AI, and find brows… |
+| 2026-10-06 08:53:56 | [io.github.self-reality/akashi-notari](https://github.com/self-reality/verifier) | Akashi Notari | 1.1.0 | Proof of existence for files: anchor a SHA-256 hash on Base, look up proofs. Pa… |
+| 2026-10-06 08:57:18 | dev.fly.geld-machen-x402/agent-utilities | geld machen x402 agent utilities | 1.0.0 | Pay-per-call agent tools via x402 on Base USDC: offer red-flag scan, offer scor… |
+| 2026-10-06 08:58:12 | io.github.thaohienhomes/pho-research-tools | Phở Research Tools | 1.0.0 | Checks AI-written references against Crossref, PubMed and OpenAlex. Formats cit… |
+| 2026-10-06 09:03:02 | ai.miso.mcp.wikinews/wikinews | Wikinews MCP | 0.1.0 | Search 20,000+ Wikinews articles (2004-present) and read the full text, with so… |
+| 2026-10-06 09:03:36 | [io.github.verifyax/mcp-server](https://github.com/verifyax/verifyax-mcp) | VerifyAX | 0.4.0 | Evaluate, benchmark, and simulate AI agents on the VerifyAX agent-evaluation pl… |
+| 2026-10-06 09:08:00 | com.tokelements/tokelements | TokElements | 1.0.0 | Build, edit and place TikTok LIVE overlay widgets (alerts, goals, games) from y… |
+| 2026-10-06 09:09:28 | [net.heropen/heropen](https://github.com/Koradji77/heropen) | heropen — AI Agent Memory | 2.0.0 | Persistent memory for AI agents: local-first MCP server, zero-config. No cloud,… |
+| 2026-10-06 09:11:07 | il.co.mamachoice/guides | MamaChoice | 1.0.0 | Israeli Hebrew baby-product buying guides: find a guide, its products in ILS, F… |
+| 2026-10-06 09:11:56 | [io.github.matematicsolutions/il-eli-mcp](https://github.com/matematicsolutions/il-eli-mcp) |  | 0.5.4 | MCP server for Israeli law: Knesset legislation and case law, verifiable citati… |
+| 2026-10-06 09:14:30 | com.kodemsecurity/kodem | Kodem | 1.0.0 | Ask about your Kodem security data and act on findings in plain language, with… |
+| 2026-10-06 09:15:50 | [io.github.Get-Concord-AI/concord-mcp](https://github.com/Get-Concord-AI/concord-mcp) | Concord MCP | 0.11.0 | Cross-harness communication and shared work-state for AI coding agents. |
+| 2026-10-06 09:16:57 | team.gonogo/gonogo | GoNoGo | 1.0.0 | Pressure-test a startup idea in a live voice interview with an AI mentor; get a… |
+| 2026-10-06 09:17:27 | [io.github.sophymarine/openregistry](https://github.com/sophymarine/openregistry) |  | 3.0.0 | Live data from 80+ official national company registries. Unmodified. For KYB an… |
+| 2026-10-06 09:17:52 | co.frontierresearch/frontier | Frontier: evidence-scored science break… | 1.0.0 | New papers from Nature, Science, Cell, NEJM and other top journals, scored on e… |
+| 2026-10-06 09:19:00 | io.github.TikTop-Data/company-signals | Company Signals: startup jobs & hiring… | 0.1.2 | Search 260,000+ open jobs at 8,000+ companies, list any company's open roles li… |
 
 ## Data source
 

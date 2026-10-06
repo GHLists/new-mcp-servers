@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-10-06T08:19:06.814415Z,com.wptaskify/wordpress,wptaskify for WordPress,1.0.0,,streamable-http,"Let Claude, ChatGPT or any MCP client run your WordPress site, Pinterest and Search Console."
+2026-10-06T08:19:10.318962Z,com.wptaskify/store,wptaskify for stores,1.0.0,,streamable-http,"Let your AI manage WooCommerce and Shopify stores: products, SEO, descriptions and images."
+2026-10-06T08:21:22.284288Z,it.asapdevs/site,ASAPDevs,1.0.0,,streamable-http,"Read-only: ASAPDevs offers, case studies, blog search, pricing and contact (Polish software house)."
+2026-10-06T08:21:50.345193Z,com.mikereams/site,"Mike Reams: architecture writing, diagrams and toolbox",1.0.0,,streamable-http,"Read-only search of mikereams.com: CSDM diagrams, posts and the Architect's Toolbox"
+2026-10-06T08:22:13.007395Z,com.flconsole/upwork-jobs,flconsole — Upwork jobs,1.0.0,https://github.com/droopboop/flconsole-upwork-mcp,streamable-http,Free hosted MCP server: new Upwork jobs for your agent and Telegram alerts within a minute.
+2026-10-06T08:27:18.477097Z,io.github.andypgray/resharper-cli-mcp,,1.7.1,https://github.com/andypgray/resharper-cli-mcp,,ReSharper CLI inspection/cleanup via MCP. Unofficial: not affiliated with or endorsed by JetBrains.
+2026-10-06T08:39:17.051927Z,io.github.DigbyO/colour-memory,Colour Memory,2.3.4,https://github.com/DigbyO/colour-memory-api,streamable-http,"Colour meaning, history and evidence: graded sources for 47,000+ colour records."
+2026-10-06T08:43:46.562578Z,io.github.89rat/x402-checks,,1.3.0,https://github.com/89rat/m2m-exchange,streamable-http,Machine-payable deterministic identifier checks + signed XDR-1 receipts for agents.
+2026-10-06T08:44:22.537725Z,ai.lumeta/lumeta,Lumeta,1.0.0,,streamable-http,"Make images, video and audio with your Lumeta account, credits and saved Shelf items."
+2026-10-06T08:45:07.442122Z,io.github.zactonz/zactonz-mcp,Zactonz,0.1.0,https://github.com/zactonz/zactonz-mcp,,"Screenshots, page to Markdown, link previews, DNS, SSL, WHOIS, QR codes and more for AI agents."
+2026-10-06T08:46:27.899813Z,ai.gatana/gateway,Gatana,1.0.0,,streamable-http,"MCP gateway for every MCP server, OpenAPI spec and FaaS tool behind one URL: SSO, SCIM, audit logs."
+2026-10-06T08:50:13.377985Z,io.github.ArtificiallyLTD/business-data-mcp,Business Data MCP Server,1.0.0,https://github.com/ArtificiallyLTD/business-data-mcp,streamable-http,"Gov contracts, jobs, LinkedIn, YC, company contacts, tech stacks, PDFs and Google Trends for agents"
+2026-10-06T08:53:44.262512Z,com.songupai/songup-ai,SongUp AI,1.0.0,https://github.com/ismailgalaxys25-del/songup-ai-mcp,streamable-http,"Find AI songs in 24 languages, start a custom song on SongUp AI, and find browser audio tools."
+2026-10-06T08:53:56.521297Z,io.github.self-reality/akashi-notari,Akashi Notari,1.1.0,https://github.com/self-reality/verifier,streamable-http,"Proof of existence for files: anchor a SHA-256 hash on Base, look up proofs. Paid with x402."
+2026-10-06T08:57:18.684507Z,dev.fly.geld-machen-x402/agent-utilities,geld machen x402 agent utilities,1.0.0,,streamable-http,"Pay-per-call agent tools via x402 on Base USDC: offer red-flag scan, offer score, Bazaar check."
+2026-10-06T08:58:12.754172Z,io.github.thaohienhomes/pho-research-tools,Phở Research Tools,1.0.0,,streamable-http,"Checks AI-written references against Crossref, PubMed and OpenAlex. Formats citations, PRISMA."
+2026-10-06T09:03:02.028357Z,ai.miso.mcp.wikinews/wikinews,Wikinews MCP,0.1.0,,streamable-http,"Search 20,000+ Wikinews articles (2004-present) and read the full text, with sources. A Miso demo."
+2026-10-06T09:03:36.038613Z,io.github.verifyax/mcp-server,VerifyAX,0.4.0,https://github.com/verifyax/verifyax-mcp,streamable-http,"Evaluate, benchmark, and simulate AI agents on the VerifyAX agent-evaluation platform."
+2026-10-06T09:08:00.04444Z,com.tokelements/tokelements,TokElements,1.0.0,,streamable-http,"Build, edit and place TikTok LIVE overlay widgets (alerts, goals, games) from your AI assistant."
+2026-10-06T09:09:28.351602Z,net.heropen/heropen,heropen — AI Agent Memory,2.0.0,https://github.com/Koradji77/heropen,,"Persistent memory for AI agents: local-first MCP server, zero-config. No cloud, no API keys."
+2026-10-06T09:11:07.057568Z,il.co.mamachoice/guides,MamaChoice,1.0.0,,streamable-http,"Israeli Hebrew baby-product buying guides: find a guide, its products in ILS, FAQ; live search."
+2026-10-06T09:11:56.438623Z,io.github.matematicsolutions/il-eli-mcp,,0.5.4,https://github.com/matematicsolutions/il-eli-mcp,,"MCP server for Israeli law: Knesset legislation and case law, verifiable citations."
+2026-10-06T09:14:30.203688Z,com.kodemsecurity/kodem,Kodem,1.0.0,,streamable-http,"Ask about your Kodem security data and act on findings in plain language, with your permissions."
+2026-10-06T09:15:50.023901Z,io.github.Get-Concord-AI/concord-mcp,Concord MCP,0.11.0,https://github.com/Get-Concord-AI/concord-mcp,,Cross-harness communication and shared work-state for AI coding agents.
+2026-10-06T09:16:57.451948Z,team.gonogo/gonogo,GoNoGo,1.0.0,,streamable-http,Pressure-test a startup idea in a live voice interview with an AI mentor; get a GO/NO-GO verdict.
+2026-10-06T09:17:27.568182Z,io.github.sophymarine/openregistry,,3.0.0,https://github.com/sophymarine/openregistry,streamable-http,Live data from 80+ official national company registries. Unmodified. For KYB and due diligence.
+2026-10-06T09:17:52.484963Z,co.frontierresearch/frontier,Frontier: evidence-scored science breakthroughs,1.0.0,,streamable-http,"New papers from Nature, Science, Cell, NEJM and other top journals, scored on evidence and novelty."
+2026-10-06T09:19:00.131933Z,io.github.TikTop-Data/company-signals,Company Signals: startup jobs & hiring data,0.1.2,,streamable-http,"Search 260,000+ open jobs at 8,000+ companies, list any company's open roles live, detect its ATS."
