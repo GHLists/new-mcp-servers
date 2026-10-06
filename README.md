@@ -9,43 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 15:21 UTC
+## Latest list — 2026-10-06 16:21 UTC
 
-New MCP servers published between 2026-10-06 14:20 UTC and 2026-10-06 15:21 UTC.
+New MCP servers published between 2026-10-06 15:21 UTC and 2026-10-06 16:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-06T15-21-40-881933Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-06T16-21-39-848443Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-06 14:23:26 | [ai.auten/mcp](https://github.com/auten-ai/auten-mcp) | Auten | 0.1.1 | Computer use for Claude Code, Codex, Cursor or any MCP client on Mac, Windows a… |
-| 2026-10-06 14:28:04 | [com.asobeast/asobeast](https://github.com/AsoBeast/asobeast) | AsoBeast | 1.8.0 | App Store and Google Play ASO: keyword rankings, competitors, reviews, audits a… |
-| 2026-10-06 14:29:52 | [com.commonpaper/contracts](https://github.com/CommonPaper/ai-plugin) | Common Paper | 1.0.1 | Create, send, negotiate, sign, and track contracts with Common Paper. |
-| 2026-10-06 14:30:27 | win.liberty/liberty-win | Liberty.win | 1.0.0 | Browse, post, comment, and vote on Liberty.win, a Reddit-style forum and link a… |
-| 2026-10-06 14:35:46 | [sh.oec/mcp-server](https://github.com/oecsh/mcp-server) | oec.sh | 0.1.0 | Operate your oec.sh Odoo servers, projects and environments with your own API k… |
-| 2026-10-06 14:35:49 | ai.dotsy/mcp | Dotsy | 0.3.0 | Build and publish static sites on Dotsy with draft-first MCP tools, OAuth Conne… |
-| 2026-10-06 14:38:02 | io.github.jrobsonaccessanalytic/accessexl-capabilities | AccessEXL Agent Capabilities | 1.0.0 | Find and run governed Excel model capabilities that your organisation has publi… |
-| 2026-10-06 14:40:13 | com.moovtips/moovtips | Moovtips — digital agency | 1.0.0 | Find Moovtips services (3D websites, SEO, AI voice agent, ads, UGC) and send a… |
-| 2026-10-06 14:40:48 | ai.paylyte/paylyte-core | Paylyte | 0.1.0 | Agent Trust Score earned through Proof of Outcome. Browse and buy as paylyte-co… |
-| 2026-10-06 14:41:05 | com.agentsbooks/commons | AgentsBooks Commons | 1.0.0 | Open, vote-ranked forum, Q&A knowledge base and inbox for AI agents |
-| 2026-10-06 14:43:24 | com.geoarmtaxi/booking | GeoArm Taxi — Tbilisi ⇄ Yerevan rides | 1.0.0 | Book shared or private rides between Tbilisi and Yerevan: live prices, schedule… |
-| 2026-10-06 14:44:17 | [io.github.conduktor/kafka-mcp](https://github.com/conduktor/kafka-mcp) | Conduktor | 1.0.0 | Read-only Kafka access for AI assistants: topics, consumer groups, schemas, clu… |
-| 2026-10-06 14:46:22 | [io.edgebook/mcp](https://github.com/highlydubious/edgebook-mcp) | EdgeBook | 0.7.1 | Chart-first trading journal: log trades from notes or chart screenshots, review… |
-| 2026-10-06 14:46:29 | [io.github.EminUZUN/palaver](https://github.com/EminUZUN/palaver) | palaver | 0.1.0 | Messaging between AI coding agents (Claude Code, Codex, ...) over your own self… |
-| 2026-10-06 14:47:49 | net.vyexa/clips | Vyexa — video link to short clips | 1.0.0 | Turn a video link into vertical short clips with subtitles: create jobs, poll,… |
-| 2026-10-06 14:50:34 | com.belanar/water-decisions | Belanar Water Decisions | 0.1.0 | Decision-only MCP for household water problems with governed, structured next-a… |
-| 2026-10-06 14:56:53 | [io.github.O-mega-Enterprise/suprsonic-mcp](https://github.com/O-mega-Enterprise/suprsonic-mcp) |  | 0.3.2 | One API key, dozens of capabilities for your AI agent. Zero provider auth. |
-| 2026-10-06 15:01:12 | [io.github.quietnotion/barevalue](https://github.com/quietnotion/barevalue-mcp) | Barevalue | 1.3.0 | AI podcast editing. Sign up in one call, submit audio by URL, get an edited epi… |
-| 2026-10-06 15:01:24 | ai.archome/archome | Archome AI | 1.0.0 | AI virtual staging and architectural rendering: stage rooms, render interiors,… |
-| 2026-10-06 15:01:37 | [io.github.phonology024/babelscribe](https://github.com/phonology024/babelscribe) | babelscribe | 0.3.1 | Offline speech-to-text and SRT subtitles in 99 languages on your own AMD/NVIDIA… |
-| 2026-10-06 15:07:32 | [io.github.retracn/google-search](https://github.com/retracn/google-custom-search-api-alternative) | Google Search (via Apify) | 1.0.0 | Google web search for AI agents: title, link and snippet in Custom Search JSON… |
-| 2026-10-06 15:10:40 | [io.github.BeastlyPearce/apex-edge](https://github.com/BeastlyPearce/apex-edge-tools) |  | 1.0.0 | x402-paid MCP tools at $0.001/call (USDC). tools/list free. |
-| 2026-10-06 15:11:20 | [io.macula/macula-mcp](https://github.com/macula-io/macula-mcp) | Macula mesh | 0.43.1 | Model Context Protocol server that exposes the Macula mesh to any agent harness |
-| 2026-10-06 15:11:47 | [pl.vanauto/campers](https://github.com/dawidof/vanauto-mcp) | VanAuto Campers | 0.1.0 | Search VanAuto camper and rental listings: specs, photos, prices, equipment, co… |
-| 2026-10-06 15:12:26 | [io.github.cryptoduke01/gloam](https://github.com/cryptoduke01/gloam) | Gloam | 1.0.0 | Private stablecoin payments for people and AI agents: vault stats, payment requ… |
-| 2026-10-06 15:13:13 | site.chatgpt.alexvelez951205.human-relay-alex/human-relay | Human Relay — ayuda humana remota | 0.2.0 | Spanish human assistance: phone tasks, offer sourcing, app tests. Catalog and q… |
-| 2026-10-06 15:16:36 | [io.github.Extelligence-ai/bagel](https://github.com/Extelligence-ai/bagel) | Bagel | 2.4.1 | Plain-English analysis of robotics, drone, and IoT data, with intelligent edge… |
-| 2026-10-06 15:16:37 | io.github.kingsleyzissougdi/find-agent-tool | Find Agent Tool | 0.1.0 | Given a job, recommend an x402/Bazaar tool with price, schema, and fallback. Fr… |
-| 2026-10-06 15:17:05 | com.fulfiller/agentic-commerce-api | Fulfiller — print catalogue & quotes | 0.1.2 | Print catalogue and live quotes from Fulfiller, a French online printer shippin… |
+| 2026-10-06 15:22:18 | [app.troving/trove](https://github.com/the-react-native-rewind/trove-app) | Trove | 1.1.0 | Shared lists for the circles you belong to. Assistants see only the tasks you c… |
+| 2026-10-06 15:22:41 | ai.spaceti/intelligence | Spaceti Intelligence | 1.1.0 | Spaceti workplace analytics: occupancy, environment, bookings, sensors. Read-on… |
+| 2026-10-06 15:23:57 | [io.github.nickjlamb/redacta-mcp](https://github.com/nickjlamb/redacta) |  | 2.1.1 | Keep patient identifiers out of AI agent context — a local privacy boundary for… |
+| 2026-10-06 15:26:15 | [io.github.thealidev/dmcps](https://github.com/RMAAPK/dmcps.git) |  | 1.0.0 | DMCPS: Highly secure, isolated MCP server environment giving AI agents sandboxe… |
+| 2026-10-06 15:35:05 | [fun.spiritcards/spirit-cards-mcp](https://github.com/spiritcards/spirit-cards-mcp) | Spirit Cards | 0.1.0 | Read-only Spirit Cards MCP: PoW-mined NFT cards on Robinhood Chain — stats, car… |
+| 2026-10-06 15:35:47 | dev.burnbound/mcp | Burnbound | 0.3.3 | Let your AI agent pay x402 APIs within daily caps, allowed hosts and human appr… |
+| 2026-10-06 15:36:00 | [io.github.memokar/brainy](https://github.com/memokar/brainy) | Brainy | 0.1.0 | Shared knowledge base + task queue so Claude, ChatGPT and other agents can work… |
+| 2026-10-06 15:36:52 | [io.github.ym2629/lavela](https://github.com/ym2629/launchops) | lavela | 1.1.0 | Deploy a repo to a live app from chat: servers, Postgres, domain, email, Stripe… |
+| 2026-10-06 15:40:19 | com.talkaboutmartin/lounge | TAM Lounge | 1.0.0 | Martin County records lounge. Bots speak tam-mlm. Idle until a ping. No desk en… |
+| 2026-10-06 15:48:42 | [io.github.letoribo/mcp-graphql-enhanced](https://github.com/letoribo/mcp-graphql-enhanced) |  | 4.15.4 | GraphQL gateway for LLMs. Handles huge GitHub GraphQL & @neo4j/graphql schemas… |
+| 2026-10-06 15:53:10 | [io.github.jbechtel-97/dealflowpro](https://github.com/jbechtel-97/dealflowpro-mcp-server) |  | 1.2.7 | Multifamily real estate deal analysis — cap rate, DSCR, IRR, DFP Score, max off… |
+| 2026-10-06 16:00:49 | io.github.FRAGnatt/hireseeker | HireSeeker | 1.0.0 | Поиск IT-вакансий из Telegram и карьерных сайтов компаний. Без регистрации. |
+| 2026-10-06 16:01:23 | [io.github.benthepythondev00/jobs-data](https://github.com/benthepythondev00/apify-web-data-mcp) | Jobs Data | 1.0.0 | Remote job boards, LinkedIn jobs, company ATS pages and Upwork jobs as tools. R… |
+| 2026-10-06 16:01:26 | [io.github.benthepythondev00/local-business-leads](https://github.com/benthepythondev00/apify-web-data-mcp) | Local Business Leads | 1.0.0 | Google Maps places with emails, phones and the tech stack of their websites. Ru… |
+| 2026-10-06 16:01:36 | [io.github.benthepythondev00/real-estate-data](https://github.com/benthepythondev00/apify-web-data-mcp) | Real Estate Data | 1.0.0 | Zillow homes and rentals, Zumper rentals and Craigslist housing listings as too… |
+| 2026-10-06 16:01:38 | [io.github.benthepythondev00/reddit-data](https://github.com/benthepythondev00/apify-web-data-mcp) | Reddit Data | 1.0.0 | Reddit posts, comments, keyword search and historical archives as tools. Runs o… |
+| 2026-10-06 16:01:41 | [io.github.benthepythondev00/social-media-data](https://github.com/benthepythondev00/apify-web-data-mcp) | Social Media Data | 1.0.0 | Instagram, TikTok, YouTube and Threads profiles, posts, comments and transcript… |
+| 2026-10-06 16:09:34 | [io.github.talonicdev/talonic-mcp](https://github.com/talonicdev/talonic-mcp) | Talonic | 0.1.83 | Extract structured, schema-validated data from PDFs, scans, images, spreadsheet… |
+| 2026-10-06 16:10:53 | [io.github.smurfy92/openclaw-control-mcp](https://github.com/smurfy92/openclaw-control-mcp) |  | 0.8.3 | MCP server bridging Claude Code to the OpenClaw gateway management plane via JS… |
+| 2026-10-06 16:18:01 | com.revexos/revexos | RevExOS | 1.0.0 | Quote-to-cash tools: parse invoices and POs, match POs to invoices, collection… |
+| 2026-10-06 16:18:14 | [io.github.alexanderkrauck/mailindex-mcp](https://github.com/alexanderkrauck/mailindex-mcp) | mailindex-mcp | 0.3.0 | Search, move, mark, delete and draft your real mail over a self-hosted index. |
+| 2026-10-06 16:18:44 | [io.github.emanueltns/mcpship](https://github.com/emanueltns/mcpship) | mcpship: check and publish MCP servers | 0.1.0 | Checks a remote MCP server against the Claude directory rules and guides its pu… |
+| 2026-10-06 16:19:45 | io.github.Egarter/shippable | Shippable | 0.11.6 | Find leaks in AI-built apps: open Supabase/Firebase data, exposed keys, unsafe… |
+| 2026-10-06 16:21:19 | [io.github.jgravelle/jdocmunch-mcp](https://github.com/jgravelle/jdocmunch-mcp) | jDocmunch MCP | 1.145.1 | Section-level doc search for .md, .rst, .adoc, .ipynb, .html, .yaml, .json, and… |
 
 ## Data source
 
