@@ -9,33 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 10:22 UTC
+## Latest list — 2026-10-06 11:22 UTC
 
-New MCP servers published between 2026-10-06 09:19 UTC and 2026-10-06 10:22 UTC.
+New MCP servers published between 2026-10-06 10:22 UTC and 2026-10-06 11:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-06T10-22-02-214902Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-06T11-22-07-795858Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-06 09:19:58 | fr.bensaid-avocats/fiscalite | Fiscalité française ouverte, par BENSAI… | 1.0.0 | Official French tax texts, dated and sourced: 237 treaty instruments by article… |
-| 2026-10-06 09:21:16 | com.dercora/dercora | Dercora | 1.0.0 | Search products from independent Shopify stores: prices, merchant offers and bu… |
-| 2026-10-06 09:22:06 | com.char-gen/chargen | CharGen | 1.0.0 | Remote MCP server for D&D: read and update your CharGen campaigns, generate NPC… |
-| 2026-10-06 09:22:16 | [io.github.codebahn/codebahn](https://github.com/codebahn/codebahn-cli) |  | 0.4.0 | Codebahn is the private GitHub alternative: fast Git and CI for developers and… |
-| 2026-10-06 09:28:13 | [io.github.matematicsolutions/pk-eli-mcp](https://github.com/matematicsolutions/pk-eli-mcp) |  | 0.4.4 | MCP server for Pakistani law: search and cite federal statutes and Supreme Cour… |
-| 2026-10-06 09:29:21 | [com.shippdf/pdf](https://github.com/ShipPDF/shippdf-app) |  | 0.1.0 | Author PDF templates and generate documents from them. |
-| 2026-10-06 09:36:10 | [com.agenticfinancegraph/agentic-finance-graph](https://github.com/AgenticFinanceGraph/agentic-finance-graph-mcp) | Agentic Finance Graph | 1.1.0 | Independent ledger of AI-agent money on Base: ranked agents, payments, detectio… |
-| 2026-10-06 09:42:55 | [co.hirelayer/hirelayer](https://github.com/hirelayer/hirelayer-mcp) | HireLayer | 1.0.0 | Resume and CV parsing, candidate matching and ranking for recruiting and ATS AI… |
-| 2026-10-06 09:47:47 | [io.github.Cosmofeed/superprofile](https://github.com/Cosmofeed/superprofile-mcp) | SuperProfile | 1.0.0 | Run a SuperProfile creator store from AI: Instagram DM automation, products, co… |
-| 2026-10-06 09:50:06 | [io.github.gvasile29/qai-consultant-mcp](https://github.com/gvasile29/qai-consultant) |  | 3.6.3 | Keyless local MCP server for QA: standards retrieval, effort estimation, doc re… |
-| 2026-10-06 09:50:39 | [io.github.Tavrin/saccade](https://github.com/Tavrin/saccade) | Saccade | 0.2.1 | Perceptual visual regression, image evidence inspection and bounded decision pr… |
-| 2026-10-06 09:54:47 | [io.github.rkocosmergon/cosmergon](https://github.com/rkocosmergon/cosmergon-agent) | Cosmergon | 0.21.0 | Living economy for AI agents — Conway physics, energy currency, marketplace, re… |
-| 2026-10-06 09:54:49 | [io.github.AliKarami/mikromcp](https://github.com/AliKarami/MikroMCP) | MikroMCP | 1.12.0 | MCP server for MikroTik RouterOS: typed tools, dry-run, RBAC, audit logs, and r… |
-| 2026-10-06 10:01:54 | [io.github.Lakshay-24/relaydesk](https://github.com/Lakshay-24/RelayDesk) | RelayDesk | 1.0.0 | Connect AI assistants to explicitly paired computers, servers, and VMs for perm… |
-| 2026-10-06 10:05:11 | [dev.mesharc/mesharc](https://github.com/mesharc-org/mesharc-python) | MeshArc | 0.3.1 | Crawl and scrape websites to clean markdown, and track what changed between cra… |
-| 2026-10-06 10:06:01 | [io.github.loncadev/baron](https://github.com/loncadev/baron) | Baron | 0.43.0 | Let your coding agent write to your work tracker: issues, branches, PRs and CI,… |
-| 2026-10-06 10:07:55 | com.spocont/ifrCoworker |  | 3.3.0 | IFRS engine: 31 standards, 20 tools. Journal entries, XBRL tags, ECL, CGU impai… |
-| 2026-10-06 10:09:36 | io.github.zachhhhh/rankroot | RankRoot: AI visibility audit | 0.1.0 | Audit a site's visibility to ChatGPT, Perplexity, Claude and AI agents. Generat… |
-| 2026-10-06 10:17:45 | [io.github.ohneben/buchhaltungsbutler-mcp](https://github.com/ohneben/Buchhaltungsbutler-MCP) | BuchhaltungsButler | 1.1.4 | BuchhaltungsButler API v1: alle 54 Endpunkte als 46 sicherheitskategorisierte M… |
+| 2026-10-06 10:22:06 | ai.subpay/document-reader | Subpay Document Reader | 1.0.0 | Reads construction pay apps (G702/G703) and change orders from PDF to JSON. Pay… |
+| 2026-10-06 10:27:04 | [io.github.simonwbird/roamworthy](https://github.com/simonwbird/caravan-dream-finder) | RoamWorthy | 0.7.3 | Live UK caravan, motorhome and campervan search, matching, dealer stock and mod… |
+| 2026-10-06 10:28:59 | [com.tovrek/current-state-resolver](https://github.com/jekaterinavaivade-del/tovrek) | TOVREK Current-State Resolver | 0.1.0 | Verify DOI metadata before autonomous action; preserve conflicts, provenance, a… |
+| 2026-10-06 10:29:08 | ai.multivoice/multivoice | MultiVoice | 1.0.0 | AI dubbing, subtitles, transcription and media localization for AI agents. |
+| 2026-10-06 10:35:59 | com.kriptonianlabs/xrpl | Kryptonian Labs XRPL APIs | 0.3.1 | Read-only XRP Ledger data for agents: fees, order books, slippage, AMM pools, a… |
+| 2026-10-06 10:37:37 | com.coexploro/teardowns | coExploro | 0.4.0 | Read coExploro product teardowns: overall, UX and persona scores and top findin… |
+| 2026-10-06 10:41:13 | [io.github.triuzzi/brave-mcp](https://github.com/triuzzi/brave-devtools-mcp) | Brave DevTools MCP | 1.10.1 | MCP server and CLI for Brave DevTools |
+| 2026-10-06 10:41:46 | io.github.activepieces/activepieces | Activepieces | 1.0.0 | Build and run agents and automations across hundreds of apps using natural lang… |
+| 2026-10-06 10:43:43 | [io.github.skverall/car-dealer-tracker-mcp](https://github.com/skverall/CarDealerTracker-ios-android) |  | 1.0.0 | Read-only MCP access to a used-car dealer's inventory, profit, expenses, sales,… |
+| 2026-10-06 10:44:40 | com.787daily/mcp |  | 1.0.0 | Puerto Rico news summaries and live island conditions from 787daily, read-only… |
+| 2026-10-06 10:48:07 | com.flocksynthetics/flock | Flock Synthetics | 1.0.0 | Synthetic UX reviews, findings, evidence images, and repair prompts. OAuth requ… |
+| 2026-10-06 10:51:20 | [io.github.saagpatel/mcp-audit](https://github.com/saagpatel/MCPAudit) | mcp-audit | 2.8.0 | Scan, enumerate, and risk-score every MCP server configured on your machine. |
+| 2026-10-06 10:52:44 | [io.github.apollographql/apollo-mcp-server](https://github.com/apollographql/apollo-mcp-server) | Apollo MCP Server | 2.0.0 | MCP server that exposes GraphQL operations as tools for AI models. |
+| 2026-10-06 10:53:19 | [io.github.Qumge/37soul-mcp](https://github.com/Qumge/37soul-mcp) |  | 0.9.1 | Run your 37Soul AI characters from any MCP client: list them, chat with them, a… |
+| 2026-10-06 10:57:20 | com.topxea.ai/images | TopxAI Images | 1.0.0 | Generate images with the catalogue's image model, returned inline; image price… |
+| 2026-10-06 10:57:27 | com.topxea.ai/models | TopxAI Models | 1.0.0 | Ask Claude, GPT, Grok, GLM, Kimi or DeepSeek from your client; token price plus… |
+| 2026-10-06 10:57:34 | com.topxea.ai/videos | TopxAI Videos | 1.0.0 | Start a video generation job and poll it until the clip is ready; video price p… |
+| 2026-10-06 11:02:10 | [io.github.Srinivasan-78/repo2graph](https://github.com/Srinivasan-78/repo2graph) | repo2graph | 3.0.0 | Ask a codebase a question, get back the source that answers it — every block ci… |
+| 2026-10-06 11:03:17 | com.laydyne/laydyne | Laydyne | 1.0.0 | Your AI builds, checks and compares 2D/3D floor plans and spaces, and simulates… |
+| 2026-10-06 11:05:22 | [io.github.postbasehq/postbase](https://github.com/postbasehq/mcp) | Postbase | 0.1.1 | Schedule social posts and threads to X, LinkedIn, Bluesky and Mastodon from you… |
+| 2026-10-06 11:08:12 | [io.github.webweaver-nexus/webweaver-mcp-server](https://github.com/webweaver-nexus/webweaver-mcp-server) |  | 2.1.0 | WebWeaver Nexus services for MCP hosts: contact form (with UI), product overvie… |
+| 2026-10-06 11:10:40 | [com.agencyhandy/mcp](https://github.com/AgencyHandy/agencyhandy-mcp) | Agency Handy | 1.10.1 | Agency CRM, projects, tasks, tickets, invoices and proposals in your Agency Han… |
+| 2026-10-06 11:11:12 | [com.lycatra/lycatra](https://github.com/Lycatra/lycatra-plugin) | Lycatra | 0.2.0 | Connect agents to Lycatra knowledge, memory, collaboration, schedules, notifica… |
 
 ## Data source
 

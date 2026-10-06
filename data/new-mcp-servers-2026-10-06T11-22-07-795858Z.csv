@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-10-06T10:22:06.117052Z,ai.subpay/document-reader,Subpay Document Reader,1.0.0,,streamable-http,Reads construction pay apps (G702/G703) and change orders from PDF to JSON. Pay per read via x402.
+2026-10-06T10:27:04.339992Z,io.github.simonwbird/roamworthy,RoamWorthy,0.7.3,https://github.com/simonwbird/caravan-dream-finder,streamable-http,"Live UK caravan, motorhome and campervan search, matching, dealer stock and model research."
+2026-10-06T10:28:59.253099Z,com.tovrek/current-state-resolver,TOVREK Current-State Resolver,0.1.0,https://github.com/jekaterinavaivade-del/tovrek,streamable-http,"Verify DOI metadata before autonomous action; preserve conflicts, provenance, and UNKNOWN."
+2026-10-06T10:29:08.90112Z,ai.multivoice/multivoice,MultiVoice,1.0.0,,streamable-http,"AI dubbing, subtitles, transcription and media localization for AI agents."
+2026-10-06T10:35:59.944101Z,com.kriptonianlabs/xrpl,Kryptonian Labs XRPL APIs,0.3.1,,streamable-http,"Read-only XRP Ledger data for agents: fees, order books, slippage, AMM pools, accounts and health."
+2026-10-06T10:37:37.500072Z,com.coexploro/teardowns,coExploro,0.4.0,,streamable-http,"Read coExploro product teardowns: overall, UX and persona scores and top findings."
+2026-10-06T10:41:13.707707Z,io.github.triuzzi/brave-mcp,Brave DevTools MCP,1.10.1,https://github.com/triuzzi/brave-devtools-mcp,,MCP server and CLI for Brave DevTools
+2026-10-06T10:41:46.70598Z,io.github.activepieces/activepieces,Activepieces,1.0.0,,streamable-http,Build and run agents and automations across hundreds of apps using natural language.
+2026-10-06T10:43:43.421408Z,io.github.skverall/car-dealer-tracker-mcp,,1.0.0,https://github.com/skverall/CarDealerTracker-ios-android,streamable-http,"Read-only MCP access to a used-car dealer's inventory, profit, expenses, sales, debts and cash."
+2026-10-06T10:44:40.84286Z,com.787daily/mcp,,1.0.0,,streamable-http,"Puerto Rico news summaries and live island conditions from 787daily, read-only over MCP."
+2026-10-06T10:48:07.480863Z,com.flocksynthetics/flock,Flock Synthetics,1.0.0,,streamable-http,"Synthetic UX reviews, findings, evidence images, and repair prompts. OAuth required."
+2026-10-06T10:51:20.00589Z,io.github.saagpatel/mcp-audit,mcp-audit,2.8.0,https://github.com/saagpatel/MCPAudit,,"Scan, enumerate, and risk-score every MCP server configured on your machine."
+2026-10-06T10:52:44.554363Z,io.github.apollographql/apollo-mcp-server,Apollo MCP Server,2.0.0,https://github.com/apollographql/apollo-mcp-server,,MCP server that exposes GraphQL operations as tools for AI models.
+2026-10-06T10:53:19.61546Z,io.github.Qumge/37soul-mcp,,0.9.1,https://github.com/Qumge/37soul-mcp,streamable-http,"Run your 37Soul AI characters from any MCP client: list them, chat with them, and tell them to post."
+2026-10-06T10:57:20.507689Z,com.topxea.ai/images,TopxAI Images,1.0.0,,streamable-http,"Generate images with the catalogue's image model, returned inline; image price plus $0.01 a call."
+2026-10-06T10:57:27.539501Z,com.topxea.ai/models,TopxAI Models,1.0.0,,streamable-http,"Ask Claude, GPT, Grok, GLM, Kimi or DeepSeek from your client; token price plus a $0.001 call fee."
+2026-10-06T10:57:34.796413Z,com.topxea.ai/videos,TopxAI Videos,1.0.0,,streamable-http,Start a video generation job and poll it until the clip is ready; video price plus $0.01 a call.
+2026-10-06T11:02:10.40886Z,io.github.Srinivasan-78/repo2graph,repo2graph,3.0.0,https://github.com/Srinivasan-78/repo2graph,,"Ask a codebase a question, get back the source that answers it — every block cited to file:line."
+2026-10-06T11:03:17.254343Z,com.laydyne/laydyne,Laydyne,1.0.0,,streamable-http,"Your AI builds, checks and compares 2D/3D floor plans and spaces, and simulates queues and robots."
+2026-10-06T11:05:22.140318Z,io.github.postbasehq/postbase,Postbase,0.1.1,https://github.com/postbasehq/mcp,streamable-http,"Schedule social posts and threads to X, LinkedIn, Bluesky and Mastodon from your AI."
+2026-10-06T11:08:12.047894Z,io.github.webweaver-nexus/webweaver-mcp-server,,2.1.0,https://github.com/webweaver-nexus/webweaver-mcp-server,streamable-http,"WebWeaver Nexus services for MCP hosts: contact form (with UI), product overview, contact links."
+2026-10-06T11:10:40.612136Z,com.agencyhandy/mcp,Agency Handy,1.10.1,https://github.com/AgencyHandy/agencyhandy-mcp,streamable-http,"Agency CRM, projects, tasks, tickets, invoices and proposals in your Agency Handy workspace."
+2026-10-06T11:11:12.594704Z,com.lycatra/lycatra,Lycatra,0.2.0,https://github.com/Lycatra/lycatra-plugin,streamable-http,"Connect agents to Lycatra knowledge, memory, collaboration, schedules, notifications, and teams."
