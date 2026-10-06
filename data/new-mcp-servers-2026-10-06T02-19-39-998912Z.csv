@@ -1,0 +1,10 @@
+created_at,server,title,version,repository,transports,description
+2026-10-06T01:23:55.564492Z,ai.heyyumi/heyyumi,HeyYumi,1.0.4,https://github.com/hmp-dev/heyyumi-mcp,streamable-http,"Find & book real Korean restaurants in any language, in-chat. Seoul, Gyeonggi, Busan, Jeju."
+2026-10-06T01:26:19.044056Z,jp.yomitasu/ai-star-co-jp,【公式】アイレディース化粧品 - アイスター商事,1.0.1,,streamable-http,株式会社アイスター商事の公式サイトです。（ai-star.co.jp の内容を検索して答える。ヨミタス経由）
+2026-10-06T01:27:51.59896Z,dev.pagewire/web,PageWire,1.0.0,,streamable-http,"Pay-per-call web reading for agents: page to Markdown, metadata, small crawls. USDC via x402/MPP."
+2026-10-06T01:33:21.257677Z,com.oneuedu.mcp/oneu-education,One U Education,0.1.0,,streamable-http,"Search Australian courses, education providers and skilled occupations with One U Education."
+2026-10-06T01:36:22.599026Z,to.agentcentral/amazon-seller-central,Agent Central,1.0.4,https://github.com/agentcentral-to/agent-central-mcp,streamable-http,"Hosted Amazon Seller Central and Amazon Ads MCP server for Claude, ChatGPT, Cursor, and agents."
+2026-10-06T02:02:32.994585Z,io.github.DouglasGouvea/mcp-peppol,EU Counterparty Check (VIES + Peppol),0.1.0,,streamable-http,"Validate EU VAT numbers in VIES and check Peppol e-invoicing, with source and date on every fact"
+2026-10-06T02:03:48.430452Z,ai.serppro/serppro,SERPpro,0.3.0,,streamable-http,"Competitor backlink gaps, page-by-page link plans, publisher matches and link monitoring."
+2026-10-06T02:04:30.455648Z,io.github.leofilter/praxis,PRAXIS,0.1.0,,streamable-http,AI work organization in Brazilian Portuguese: turns meetings and docs into decisions and tasks.
+2026-10-06T02:15:50.026024Z,dev.heard/friends,Heard Friends,1.0.1,https://github.com/heardlabs/heard-mcp,streamable-http,"Your coding agents' hours this month, your friends board, and invites you approve."

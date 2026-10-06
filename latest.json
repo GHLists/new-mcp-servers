@@ -93,6 +93,7 @@
     "ai.greenlandai/greenlandai",
     "ai.hanria/agent-mandate-check",
     "ai.hanria/check",
+    "ai.heyyumi/heyyumi",
     "ai.hiddencontent/mcp",
     "ai.hlix/hlix",
     "ai.hotker/hotker",
@@ -205,6 +206,7 @@
     "ai.senaro/personal-finance",
     "ai.sendraven/mcp",
     "ai.sentfrom/mcp",
+    "ai.serppro/serppro",
     "ai.sharksapi/marketing",
     "ai.shiplight/shiplight",
     "ai.shipstar/mcp",
@@ -1413,6 +1415,7 @@
     "com.onefindme/search",
     "com.onelence/onelence",
     "com.onepagecrm/mcp",
+    "com.oneuedu.mcp/oneu-education",
     "com.onrender.draconic21-x402-api/data-tools",
     "com.ontarioprotocol/ontario-protocol",
     "com.onvexia/onvexia",
@@ -2077,6 +2080,7 @@
     "dev.genhttp/lambda",
     "dev.getbureau/about",
     "dev.hackshop/hackshop-mcp",
+    "dev.heard/friends",
     "dev.heard/heard",
     "dev.homespun/homespun",
     "dev.horizonshield/horizon-shield",
@@ -2112,6 +2116,7 @@
     "dev.pages.ronventures/local-pros",
     "dev.pages.smithtalks/smithtalks",
     "dev.pageweave/pageweave",
+    "dev.pagewire/web",
     "dev.past/past",
     "dev.pdfmd/pdf-to-markdown",
     "dev.pdfops/pdfops-mcp",
@@ -2598,6 +2603,7 @@
     "io.github.Dominic-DK/askew-mcp",
     "io.github.DouglasGouvea/mcp-empresas-br",
     "io.github.DouglasGouvea/mcp-licitacoes-br",
+    "io.github.DouglasGouvea/mcp-peppol",
     "io.github.DrRataplan/fonto-docs",
     "io.github.Dudude-bit/yandex-lavka-mcp",
     "io.github.DweskZ/ecudatamcp",
@@ -4297,6 +4303,7 @@
     "io.github.leancoderkavy/premiere-pro",
     "io.github.leejaejeon/beobi-daneun-got",
     "io.github.leekung125/web-data-toolkit",
+    "io.github.leofilter/praxis",
     "io.github.les-k/mcp-confirm",
     "io.github.les-k/pg-readonly-mcp",
     "io.github.les-k/sweep-mcp",
@@ -5839,6 +5846,7 @@
     "jp.calil/library",
     "jp.ranked/jobs",
     "jp.sealgate/sealgate",
+    "jp.yomitasu/ai-star-co-jp",
     "jp.yomitasu/companydata-tsujigawa-com",
     "jp.yomitasu/datasetsearch-jp",
     "jp.yomitasu/instant-aigakushu-online",
@@ -6151,6 +6159,7 @@
     "tel.callforme/callforme",
     "tennis.courts/nyc-tennis-courts",
     "th.in.legaltech/thai-legal",
+    "to.agentcentral/amazon-seller-central",
     "to.crosswalk/crosswalk",
     "today.nyangi/oneul-nyangi",
     "tools.amply/amply",
@@ -6462,11 +6471,11 @@
     "za.co.cryptodecentral/sovereign"
   ],
   "list": {
-    "count": 43,
-    "from": "2026-10-06T00:19:03.000901Z",
-    "path": "data/new-mcp-servers-2026-10-06T01-20-48-127479Z.csv",
-    "to": "2026-10-06T01:20:48.127479Z"
+    "count": 9,
+    "from": "2026-10-06T01:20:48.127479Z",
+    "path": "data/new-mcp-servers-2026-10-06T02-19-39-998912Z.csv",
+    "to": "2026-10-06T02:19:39.998912Z"
   },
   "source_truncated": false,
-  "window": "2026-10-06T01:20:48.127479Z"
+  "window": "2026-10-06T02:19:39.998912Z"
 }
