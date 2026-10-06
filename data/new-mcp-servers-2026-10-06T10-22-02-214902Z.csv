@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-10-06T09:19:58.467671Z,fr.bensaid-avocats/fiscalite,"Fiscalité française ouverte, par BENSAID Avocats",1.0.0,,streamable-http,"Official French tax texts, dated and sourced: 237 treaty instruments by article, BOFiP, CGI, LPF."
+2026-10-06T09:21:16.646889Z,com.dercora/dercora,Dercora,1.0.0,,streamable-http,"Search products from independent Shopify stores: prices, merchant offers and buy links."
+2026-10-06T09:22:06.100207Z,com.char-gen/chargen,CharGen,1.0.0,,streamable-http,"Remote MCP server for D&D: read and update your CharGen campaigns, generate NPCs and art."
+2026-10-06T09:22:16.773063Z,io.github.codebahn/codebahn,,0.4.0,https://github.com/codebahn/codebahn-cli,streamable-http,Codebahn is the private GitHub alternative: fast Git and CI for developers and teams.
+2026-10-06T09:28:13.1439Z,io.github.matematicsolutions/pk-eli-mcp,,0.4.4,https://github.com/matematicsolutions/pk-eli-mcp,,MCP server for Pakistani law: search and cite federal statutes and Supreme Court judgments.
+2026-10-06T09:29:21.708478Z,com.shippdf/pdf,,0.1.0,https://github.com/ShipPDF/shippdf-app,streamable-http,Author PDF templates and generate documents from them.
+2026-10-06T09:36:10.529955Z,com.agenticfinancegraph/agentic-finance-graph,Agentic Finance Graph,1.1.0,https://github.com/AgenticFinanceGraph/agentic-finance-graph-mcp,streamable-http,"Independent ledger of AI-agent money on Base: ranked agents, payments, detections, statements"
+2026-10-06T09:42:55.428398Z,co.hirelayer/hirelayer,HireLayer,1.0.0,https://github.com/hirelayer/hirelayer-mcp,,"Resume and CV parsing, candidate matching and ranking for recruiting and ATS AI agents."
+2026-10-06T09:47:47.0819Z,io.github.Cosmofeed/superprofile,SuperProfile,1.0.0,https://github.com/Cosmofeed/superprofile-mcp,streamable-http,"Run a SuperProfile creator store from AI: Instagram DM automation, products, courses and bookings."
+2026-10-06T09:50:06.90335Z,io.github.gvasile29/qai-consultant-mcp,,3.6.3,https://github.com/gvasile29/qai-consultant,,"Keyless local MCP server for QA: standards retrieval, effort estimation, doc review, test analysis."
+2026-10-06T09:50:39.048095Z,io.github.Tavrin/saccade,Saccade,0.2.1,https://github.com/Tavrin/saccade,,"Perceptual visual regression, image evidence inspection and bounded decision proposals."
+2026-10-06T09:54:47.669613Z,io.github.rkocosmergon/cosmergon,Cosmergon,0.21.0,https://github.com/rkocosmergon/cosmergon-agent,,"Living economy for AI agents — Conway physics, energy currency, marketplace, reputation."
+2026-10-06T09:54:49.853836Z,io.github.AliKarami/mikromcp,MikroMCP,1.12.0,https://github.com/AliKarami/MikroMCP,,"MCP server for MikroTik RouterOS: typed tools, dry-run, RBAC, audit logs, and rollback."
+2026-10-06T10:01:54.204634Z,io.github.Lakshay-24/relaydesk,RelayDesk,1.0.0,https://github.com/Lakshay-24/RelayDesk,streamable-http,"Connect AI assistants to explicitly paired computers, servers, and VMs for permitted remote actions."
+2026-10-06T10:05:11.782316Z,dev.mesharc/mesharc,MeshArc,0.3.1,https://github.com/mesharc-org/mesharc-python,streamable-http,"Crawl and scrape websites to clean markdown, and track what changed between crawls."
+2026-10-06T10:06:01.894708Z,io.github.loncadev/baron,Baron,0.43.0,https://github.com/loncadev/baron,,"Let your coding agent write to your work tracker: issues, branches, PRs and CI, one contract."
+2026-10-06T10:07:55.266702Z,com.spocont/ifrCoworker,,3.3.0,,streamable-http,"IFRS engine: 31 standards, 20 tools. Journal entries, XBRL tags, ECL, CGU impairment, deferred tax."
+2026-10-06T10:09:36.861684Z,io.github.zachhhhh/rankroot,RankRoot: AI visibility audit,0.1.0,,streamable-http,"Audit a site's visibility to ChatGPT, Perplexity, Claude and AI agents. Generates llms.txt."
+2026-10-06T10:17:45.36673Z,io.github.ohneben/buchhaltungsbutler-mcp,BuchhaltungsButler,1.1.4,https://github.com/ohneben/Buchhaltungsbutler-MCP,,BuchhaltungsButler API v1: alle 54 Endpunkte als 46 sicherheitskategorisierte MCP-Tools
