@@ -9,23 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 02:19 UTC
+## Latest list — 2026-10-06 03:21 UTC
 
-New MCP servers published between 2026-10-06 01:20 UTC and 2026-10-06 02:19 UTC.
+New MCP servers published between 2026-10-06 02:19 UTC and 2026-10-06 03:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-06T02-19-39-998912Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-06T03-21-47-382086Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-06 01:23:55 | [ai.heyyumi/heyyumi](https://github.com/hmp-dev/heyyumi-mcp) | HeyYumi | 1.0.4 | Find & book real Korean restaurants in any language, in-chat. Seoul, Gyeonggi,… |
-| 2026-10-06 01:26:19 | jp.yomitasu/ai-star-co-jp | 【公式】アイレディース化粧品 - アイスター商事 | 1.0.1 | 株式会社アイスター商事の公式サイトです。（ai-star.co.jp の内容を検索して答える。ヨミタス経由） |
-| 2026-10-06 01:27:51 | dev.pagewire/web | PageWire | 1.0.0 | Pay-per-call web reading for agents: page to Markdown, metadata, small crawls.… |
-| 2026-10-06 01:33:21 | com.oneuedu.mcp/oneu-education | One U Education | 0.1.0 | Search Australian courses, education providers and skilled occupations with One… |
-| 2026-10-06 01:36:22 | [to.agentcentral/amazon-seller-central](https://github.com/agentcentral-to/agent-central-mcp) | Agent Central | 1.0.4 | Hosted Amazon Seller Central and Amazon Ads MCP server for Claude, ChatGPT, Cur… |
-| 2026-10-06 02:02:32 | io.github.DouglasGouvea/mcp-peppol | EU Counterparty Check (VIES + Peppol) | 0.1.0 | Validate EU VAT numbers in VIES and check Peppol e-invoicing, with source and d… |
-| 2026-10-06 02:03:48 | ai.serppro/serppro | SERPpro | 0.3.0 | Competitor backlink gaps, page-by-page link plans, publisher matches and link m… |
-| 2026-10-06 02:04:30 | io.github.leofilter/praxis | PRAXIS | 0.1.0 | AI work organization in Brazilian Portuguese: turns meetings and docs into deci… |
-| 2026-10-06 02:15:50 | [dev.heard/friends](https://github.com/heardlabs/heard-mcp) | Heard Friends | 1.0.1 | Your coding agents' hours this month, your friends board, and invites you appro… |
+| 2026-10-06 02:19:44 | [io.github.jcdreamjc/wudao-mcp](https://github.com/jcdreamjc/wudao-mcp) | Wudao A-Share Stock Data MCP | 1.1.0 | China A-share data for AI agents: 57 read-only tools plus 6 tools for your own… |
+| 2026-10-06 02:21:25 | [io.github.Agenxy/dibs](https://github.com/Agenxy/dibs) | Dibs | 0.0.12 | Tells an AI agent when another is already doing its work. Board, typed mail, di… |
+| 2026-10-06 02:27:31 | [io.github.tigerops-win/scout-packs](https://github.com/tigerops-win/scout-packs) | Scout Packs | 1.0.0 | B2B data for AI agents: lead lookup, deliverability scoring, domain intel. x402… |
+| 2026-10-06 02:32:10 | io.github.alexvesely18-dot/ranger | Ranger | 1.0.0 | Live US campground availability, wildfire and river conditions, and trails on p… |
+| 2026-10-06 02:34:14 | com.riverviewofficecleaning/booking | Riverview Office Cleaning | 1.0.0 | Ask Riverview Office Cleaning questions and book a free office walkthrough in N… |
+| 2026-10-06 02:38:51 | in.miningbridge/intel | MiningBridge Intelligence | 1.0.0 | Critical minerals and rare earths: supply risk, trade flows, counterparties and… |
+| 2026-10-06 02:39:31 | com.kalshispy/kalshispy | KalshiSpy | 1.1.0 | What Kalshi's top-earning traders won and hold: settled wins free, live markets… |
+| 2026-10-06 02:42:09 | ai.capitalcompany/capital-company | Capital Company | 1.0.0 | Launch SPVs and funds, invite investors and send capital calls through Capital… |
+| 2026-10-06 02:42:29 | [io.github.PresentJay/dbt-plan](https://github.com/PresentJay/dbt-plan) | dbt-plan | 0.18.0 | Predicts the DDL a dbt change will execute, before you run it. Reads files, not… |
+| 2026-10-06 02:45:50 | dev.lekta/lekta |  | 2026.8.0 | Audits how AI answer engines read a page and grades it A+ to F across four meas… |
+| 2026-10-06 02:48:10 | [click.picale/picale-mcp](https://github.com/Direccion360/picale-mcp-api) |  | 1.1.0 | Pícale desde Claude, ChatGPT o cualquier cliente MCP: marca, contenido, publica… |
+| 2026-10-06 02:58:30 | [io.github.dfieser/hea-bench](https://github.com/dfieser/hea-bench) | HEA-Bench | 2.6.1 | High-entropy alloy and oxide descriptors, phase rules, corpus, properties, and… |
+| 2026-10-06 03:01:10 | [io.github.codegraph-ai/codegraph](https://github.com/codegraph-ai/CodeGraph) |  | 0.21.0 | Semantic code graph: 42 tools, 38 languages. Callers, impact, AI context, memor… |
+| 2026-10-06 03:01:10 | [io.github.Continuous-Actions/go-tokenless](https://github.com/Continuous-Actions/go-tokenless) | go-tokenless | 0.1.0 | Move npm publishing in GitHub Actions from NPM_TOKEN to trusted publishing (OID… |
+| 2026-10-06 03:12:29 | co.bindler/regulatory-calculators | Bindler regulatory calculators | 1.0.0 | UAE corporate tax, EU AI Act risk class and CBAM certificate cost, each line ci… |
+| 2026-10-06 03:14:44 | [io.github.ValkyrLabs/graymatter](https://github.com/ValkyrLabs/GrayMatter) | GrayMatter | 0.3.3 | Secure durable memory and bounded context for AI agents, with hosted OAuth and… |
+| 2026-10-06 03:16:38 | [com.callchatsyn/callchatsyn](https://github.com/oneappsworld/callchatsyn-mcp) | CallChatSyn | 0.1.0 | Answer small-business customer questions from FAQs, list open appointment times… |
 
 ## Data source
 
