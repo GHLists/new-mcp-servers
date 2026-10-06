@@ -1,0 +1,32 @@
+created_at,server,title,version,repository,transports,description
+2026-10-06T13:24:10.865619Z,com.obentoapp/obento,Obento,1.0.0,,streamable-http,"Live USDC rates on Base, any address's Obento position, and deposits and withdrawals to sign."
+2026-10-06T13:34:03.312443Z,dev.knowsme/memory,knowsme,1.0.1,,streamable-http; sse,"One memory for you and your AI agents, shared by ChatGPT, Claude, Gemini, Grok, Codex and Cursor."
+2026-10-06T13:34:05.616633Z,io.github.SkillGild/skillgild,SkillGild,0.1.2,https://github.com/SkillGild/skillgild,,"Search and run hosted AI agent skills for Claude Code, Codex, Cursor and Gemini CLI."
+2026-10-06T13:38:10.94009Z,io.github.Icaro0310/poordjaevin,,0.1.1,https://github.com/Icaro0310/poordjaevin,,"Typed answers with calibrated confidence for agents. Local-first, no API key."
+2026-10-06T13:39:19.746677Z,io.github.MT285/apione,ApiOne B2B Enrichment (GCC and MENA),2.0.0,,streamable-http,"B2B company, people and email enrichment with cited sources, built for GCC and MENA companies."
+2026-10-06T13:40:04.684682Z,world.pdata/mcp,pdata Prediction Markets,2.3.0,https://github.com/noskillcoding/pdata,streamable-http,"Polymarket, Kalshi + 6 more prediction markets: live odds, volume, movers. Read-only, no auth."
+2026-10-06T13:40:42.423937Z,io.github.cook-md/cook-mcp,Cook (Cooklang recipes),0.2.3,https://github.com/cook-md/cook-mcp,,"Cooklang recipes for AI agents: validate, meal plans, shopping lists, pantry, nutrition"
+2026-10-06T13:42:01.887317Z,uk.prostack/cito,Cito by Prostack,1.0.0,,streamable-http,"Deploy and manage sites, databases, files and more on Prostack Cito servers."
+2026-10-06T13:44:26.310893Z,it.notaiochianese/strumenti-di-calcolo,Strumenti di calcolo dello Studio Notarile Chianese,1.3.0,,streamable-http,"Italian home purchase, inheritance and gift tax calculators by a notary's office. No login."
+2026-10-06T13:51:27.417961Z,com.casabellaoutdoor/outdoor-kitchen,Outdoor Kitchen Designer,2.1.0,,streamable-http,"Plan a built-in grill and outdoor kitchen: real MSRP, priced layouts, 3D renders and dealer quotes."
+2026-10-06T13:51:52.956718Z,com.rankvisit/mcp,Rankvisit,0.1.0,,streamable-http,Ask your AI about your traffic: read-only Google Search Console and Fathom or Simple Analytics.
+2026-10-06T13:54:55.159516Z,io.github.qmediat/ideogram-mcp,,1.0.3,https://github.com/qmediat/ideogram-mcp,,"Ideogram 3.0 and 4.0 images through MCP: generate, edit, remix, reframe, upscale and describe."
+2026-10-06T13:55:12.940185Z,io.github.qmediat/gemini-code-context-mcp,,1.16.4,https://github.com/qmediat/gemini-code-context-mcp,,"Codebase Q&A for Claude Code through Gemini's 1M-token window, with workspace scans and caching."
+2026-10-06T13:55:50.934873Z,app.getmyluna/luna,Luna Baby Tracker,1.0.0,,streamable-http,"Shared baby tracker: log feeds, sleep, nappies and solids, check nap windows and nudges."
+2026-10-06T13:57:56.518572Z,com.corbah/open-line,Corbah: open line for agents,0.3.0,,streamable-http,"Message Jon, founder of cycling brand Corbah, and browse its live kit catalog. No auth."
+2026-10-06T14:01:44.916444Z,io.github.kingsleyzissougdi/check-x402-payment-readiness,Check x402 Payment Readiness,0.1.0,,streamable-http,Call before paying an x402 resource. Returns PAY/BLOCKED. Does not move funds.
+2026-10-06T14:02:21.126689Z,io.github.qmediat/cursor-mcp,,1.0.2,https://github.com/qmediat/cursor-mcp,,"Cursor's agent (cursor-agent CLI) through MCP: any model your plan offers, resumable sessions."
+2026-10-06T14:03:33.480173Z,io.github.ianderso/snac-archives-mcp,SNAC Archives,0.1.0,https://github.com/ianderso/snac-archives-mcp,,"Find which archive holds the papers: SNAC's index of archival collections, plus ArchiveGrid links."
+2026-10-06T14:05:03.458182Z,io.github.ianderso/us-places-mcp,"US Places, Then",0.2.0,https://github.com/ianderso/us-places-mcp,,"US places then: county on a date, PLSS land, GNIS names, old topo maps, post offices."
+2026-10-06T14:05:22.87072Z,app.hostilo/hostilo,Hostilo,1.0.3,,streamable-http,"Publish and update websites from your AI chat. Hosting for AI-generated HTML, live in seconds."
+2026-10-06T14:06:00.39591Z,io.github.ryuxik/snhp,SNHP — negotiation rules your AI can't break,0.5.0,https://github.com/ryuxik/snhp,streamable-http,Turn a seller's offer into negotiation rules and draft replies to buyers inside them.
+2026-10-06T14:12:49.158862Z,com.chainstack/chainstack,Chainstack,1.10.11,https://github.com/chainstacklabs/mcp-server,streamable-http,"Deploy and manage blockchain nodes across 70+ protocols, search docs, request testnet funds."
+2026-10-06T14:13:31.348571Z,io.github.ianderso/dpla-catalog-mcp,DPLA Catalog,0.1.1,https://github.com/ianderso/dpla-catalog-mcp,,Search the Digital Public Library of America; reach the holding institution's record and images.
+2026-10-06T14:13:38.287833Z,io.github.yiminspace/quarry,,1.5.2,https://github.com/yiminspace/quarry,,"Safety-railed database access for agents: Postgres, MySQL, Redis. Read-only by default."
+2026-10-06T14:19:05.119281Z,com.getquario/mcp,quario,0.2.1,https://github.com/getquario/mcp,,"Validate and render quario report definitions (JSON) to PDF, Excel, Word, HTML or CSV."
+2026-10-06T14:19:19.833516Z,io.github.brunopetrellinz-tech/company-research-mcp,Company Research MCP,1.0.0,,streamable-http,"Company research for AI agents: contacts, tech stack, LEI, EU legal entities, SEC financials, jobs"
+2026-10-06T14:19:24.448742Z,io.github.brunopetrellinz-tech/job-search-mcp,Job Search MCP,1.0.0,,streamable-http,"Open jobs from 20,000+ company career sites: search, list a company's roles, read full job ads"
+2026-10-06T14:19:27.572558Z,io.github.brunopetrellinz-tech/marketing-research-mcp,Marketing & SEO Research MCP,1.0.0,,streamable-http,"Marketing research for AI agents: SEO audits, broken links, DNS, tech stack, App Store, products"
+2026-10-06T14:19:31.736759Z,io.github.brunopetrellinz-tech/research-papers-mcp,Research Papers MCP,1.0.0,,streamable-http,"Research papers for AI agents: PubMed, arXiv, Crossref; citations, references, open access texts"
+2026-10-06T14:20:18.935963Z,io.github.mamuso/unicodekit,UnicodeKit,1.0.0,https://github.com/mamuso/characters,streamable-http,"Find Unicode characters by name, codepoint, or meaning, and get their HTML, CSS, and UTF codes."
+2026-10-06T14:20:42.53241Z,com.skimnews/news,SkimNews,1.0.0,,streamable-http,"Free AI-curated news summaries from 100+ sources across seven beats, plus entity dossiers."

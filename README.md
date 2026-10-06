@@ -9,45 +9,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 13:22 UTC
+## Latest list — 2026-10-06 14:20 UTC
 
-New MCP servers published between 2026-10-06 12:20 UTC and 2026-10-06 13:22 UTC.
+New MCP servers published between 2026-10-06 13:22 UTC and 2026-10-06 14:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-06T13-22-27-345259Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-06T14-20-49-289516Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-06 12:21:36 | app.furnigen/furniture | FurniGen | 0.1.0 | Design a custom kitchen or wardrobe in Ukraine: brief checks, real decors, sket… |
-| 2026-10-06 12:22:06 | [sh.openmail/openmail](https://github.com/openmailsh/mcp) | OpenMail | 0.1.0 | Gmail for agents: create inboxes, read and reply to mail, send email, manage do… |
-| 2026-10-06 12:22:11 | [io.github.oito2/mcp-build82](https://github.com/oito2/mcp-build82) | build82 | 1.0.0 | MCP server for Moodle plugin development: structural context of a Moodle instal… |
-| 2026-10-06 12:22:41 | [io.github.maemreyo/zamery-browser](https://github.com/maemreyo/zamery-browser) | Zamery Browser | 0.1.2 | Use your existing Firefox and logged-in tabs, limited to tabs or groups you exp… |
-| 2026-10-06 12:23:22 | [io.github.docling-project/docling-mcp](https://github.com/docling-project/docling-mcp) | Docling MCP | 3.3.0 | Convert PDFs and other documents to structured formats via Docling, for AI appl… |
-| 2026-10-06 12:23:51 | [io.github.WYRE-AI/hudu-mcp](https://github.com/WYRE-AI/hudu-mcp) | Hudu | 1.4.2 | MCP server for Hudu IT documentation — companies, assets, articles, passwords,… |
-| 2026-10-06 12:25:13 | io.keyban.prod.mcp/agent-wallet | Keyban Agent Wallet | 0.4.1 | Give an AI agent its own blockchain wallet: balances, USDC transfers, x402 paym… |
-| 2026-10-06 12:26:31 | io.github.yschaub/gastrosync | Gastrosync | 0.2.0 | Manage catering events, products and unsigned offer drafts in Gastrosync. Requi… |
-| 2026-10-06 12:30:47 | [io.github.zh-xx/antu](https://github.com/zh-xx/Antu) |  | 0.9.0 | Legal diagrams (fact, procedure, relationship, justification) from JSON, as one… |
-| 2026-10-06 12:31:46 | com.starcovery/mcp | Starcovery | 1.0.0 | MCP tools to find and hire Instagram and TikTok creators from a plain-language… |
-| 2026-10-06 12:32:27 | io.github.Leeday-devs/takehomeapi | TakeHome API | 1.0.0 | Verified UK take-home pay: income tax, NI, student loans, pensions, with GOV.UK… |
-| 2026-10-06 12:33:19 | nl.feedmycart/feedmycart | FeedMyCart | 1.2.0 | Shared household grocery list, pantry and this week's supermarket deals in 15 c… |
-| 2026-10-06 12:35:06 | [com.proofite/proofite](https://github.com/hanicker/proofite-mcp) |  | 1.2.0 | Read your AI-written daily briefing and retune the filter behind it: feeds, new… |
-| 2026-10-06 12:36:24 | [io.github.apperhq/apper-mcp](https://github.com/apperhq/mcp) | Apper MCP Connector | 1.0.0 | Build and update complete applications in Apper through AI assistants using MCP. |
-| 2026-10-06 12:36:38 | [io.github.Decodo/mcp-server](https://github.com/Decodo/mcp-server) |  | 1.2.5 | Enable your AI agents to scrape and parse web content dynamically, including ge… |
-| 2026-10-06 12:37:46 | [io.tenova/swt3-witness](https://github.com/tenova-labs/swt3-ai) | SWT3 AI Witness | 0.7.5 | Cryptographic AI governance and audit. 75 tools, 84 frameworks. EU AI Act, NIST… |
-| 2026-10-06 12:38:30 | [network.roster/mcp](https://github.com/paualbesa/roster-network) | Roster Network | 1.0.0 | Marketplace and settlement for AI agents: need/buy, escrow USDC, reputation, da… |
-| 2026-10-06 12:40:42 | com.streamkap/tools |  | 0.9.0 | Streamkap CLI & MCP server - manage CDC pipelines, sources, destinations, and t… |
-| 2026-10-06 12:43:52 | com.spocont/booboooking | booboooking Appointment Booking | 1.0.1 | Book appointments with service providers on booboooking.com — no token required. |
-| 2026-10-06 12:45:26 | [io.github.blink1217/quant-swarm](https://github.com/blink1217/trading-swarm-mcp) | quant-swarm | 0.5.0 | Risk-first pre-trade checks, PIT data, leakage audits, and a Shadow Tournament… |
-| 2026-10-06 12:46:52 | [com.nuelink/mcp](https://github.com/kreatinc/nuelink-mcp-oauth2) | Nuelink | 1.1.0 | Draft, schedule and publish social media posts to 12 networks from your AI assi… |
-| 2026-10-06 12:56:46 | com.animatemytravel/studio | AnimateMyTravel Studio | 1.1.0 | Animated map videos of any story: trips, wars, empires, storms, data. Free, no… |
-| 2026-10-06 12:58:00 | [io.github.gabrielmahia/kra-mcp](https://github.com/gabrielmahia/kra-mcp) |  | 0.1.4 | MCP server for Kenya Revenue Authority tax workflows and information |
-| 2026-10-06 12:59:04 | com.thegastrologer/clinical | The Gastrologer — GI clinical tools for… | 1.4.0 | Physician-governed GI tools: claim verification, teaching retrieval, HRM and in… |
-| 2026-10-06 12:59:53 | net.fundz/fundz |  | 1.6.0 | SEC-sourced funding rounds, acquisitions, exec moves, hiring and investor signa… |
-| 2026-10-06 13:02:59 | ai.plero/plero |  | 2026.10.6 | Operating system for creative companies: clients, projects, estimates, contract… |
-| 2026-10-06 13:08:17 | [io.github.tech-bam/framegrove](https://github.com/tech-bam/framegrove) | Framegrove: App Store screenshot genera… | 1.0.0 | Render App Store, Google Play and iPhone Duo screenshots and Apple Creative Ass… |
-| 2026-10-06 13:10:07 | [io.github.MarcProe/rhein-ruhr-fahrplan-mcp](https://github.com/MarcProe/rhein-ruhr-fahrplan-mcp) | Rhein-Ruhr Fahrplan MCP | 1.2.2 | Public transit data for the Rhein-Ruhr region: live departures, trips, disrupti… |
-| 2026-10-06 13:15:25 | [io.github.yourimaginationwillbefired/veilfile](https://github.com/yourimaginationwillbefired/veilfile) | Veilfile | 1.0.0 | Private, expiring artifact hosting for AI agents. Upload via API or MCP; links… |
-| 2026-10-06 13:16:34 | [ai.ruthven/ruthven](https://github.com/RUTHVEN19/ruthven-world) |  | 1.0.0 | Read-only artwork provenance: Origin Passports, evidence states, Merkle proofs… |
-| 2026-10-06 13:20:27 | io.github.Grit-77/agent-data-tools | Agent Data Tools | 0.1.0 | 15 data tools at $0.01 USDC/call on Base via x402. Free discovery; x402 wallet… |
+| 2026-10-06 13:24:10 | com.obentoapp/obento | Obento | 1.0.0 | Live USDC rates on Base, any address's Obento position, and deposits and withdr… |
+| 2026-10-06 13:34:03 | dev.knowsme/memory | knowsme | 1.0.1 | One memory for you and your AI agents, shared by ChatGPT, Claude, Gemini, Grok,… |
+| 2026-10-06 13:34:05 | [io.github.SkillGild/skillgild](https://github.com/SkillGild/skillgild) | SkillGild | 0.1.2 | Search and run hosted AI agent skills for Claude Code, Codex, Cursor and Gemini… |
+| 2026-10-06 13:38:10 | [io.github.Icaro0310/poordjaevin](https://github.com/Icaro0310/poordjaevin) |  | 0.1.1 | Typed answers with calibrated confidence for agents. Local-first, no API key. |
+| 2026-10-06 13:39:19 | io.github.MT285/apione | ApiOne B2B Enrichment (GCC and MENA) | 2.0.0 | B2B company, people and email enrichment with cited sources, built for GCC and… |
+| 2026-10-06 13:40:04 | [world.pdata/mcp](https://github.com/noskillcoding/pdata) | pdata Prediction Markets | 2.3.0 | Polymarket, Kalshi + 6 more prediction markets: live odds, volume, movers. Read… |
+| 2026-10-06 13:40:42 | [io.github.cook-md/cook-mcp](https://github.com/cook-md/cook-mcp) | Cook (Cooklang recipes) | 0.2.3 | Cooklang recipes for AI agents: validate, meal plans, shopping lists, pantry, n… |
+| 2026-10-06 13:42:01 | uk.prostack/cito | Cito by Prostack | 1.0.0 | Deploy and manage sites, databases, files and more on Prostack Cito servers. |
+| 2026-10-06 13:44:26 | it.notaiochianese/strumenti-di-calcolo | Strumenti di calcolo dello Studio Notar… | 1.3.0 | Italian home purchase, inheritance and gift tax calculators by a notary's offic… |
+| 2026-10-06 13:51:27 | com.casabellaoutdoor/outdoor-kitchen | Outdoor Kitchen Designer | 2.1.0 | Plan a built-in grill and outdoor kitchen: real MSRP, priced layouts, 3D render… |
+| 2026-10-06 13:51:52 | com.rankvisit/mcp | Rankvisit | 0.1.0 | Ask your AI about your traffic: read-only Google Search Console and Fathom or S… |
+| 2026-10-06 13:54:55 | [io.github.qmediat/ideogram-mcp](https://github.com/qmediat/ideogram-mcp) |  | 1.0.3 | Ideogram 3.0 and 4.0 images through MCP: generate, edit, remix, reframe, upscal… |
+| 2026-10-06 13:55:12 | [io.github.qmediat/gemini-code-context-mcp](https://github.com/qmediat/gemini-code-context-mcp) |  | 1.16.4 | Codebase Q&A for Claude Code through Gemini's 1M-token window, with workspace s… |
+| 2026-10-06 13:55:50 | app.getmyluna/luna | Luna Baby Tracker | 1.0.0 | Shared baby tracker: log feeds, sleep, nappies and solids, check nap windows an… |
+| 2026-10-06 13:57:56 | com.corbah/open-line | Corbah: open line for agents | 0.3.0 | Message Jon, founder of cycling brand Corbah, and browse its live kit catalog.… |
+| 2026-10-06 14:01:44 | io.github.kingsleyzissougdi/check-x402-payment-readiness | Check x402 Payment Readiness | 0.1.0 | Call before paying an x402 resource. Returns PAY/BLOCKED. Does not move funds. |
+| 2026-10-06 14:02:21 | [io.github.qmediat/cursor-mcp](https://github.com/qmediat/cursor-mcp) |  | 1.0.2 | Cursor's agent (cursor-agent CLI) through MCP: any model your plan offers, resu… |
+| 2026-10-06 14:03:33 | [io.github.ianderso/snac-archives-mcp](https://github.com/ianderso/snac-archives-mcp) | SNAC Archives | 0.1.0 | Find which archive holds the papers: SNAC's index of archival collections, plus… |
+| 2026-10-06 14:05:03 | [io.github.ianderso/us-places-mcp](https://github.com/ianderso/us-places-mcp) | US Places, Then | 0.2.0 | US places then: county on a date, PLSS land, GNIS names, old topo maps, post of… |
+| 2026-10-06 14:05:22 | app.hostilo/hostilo | Hostilo | 1.0.3 | Publish and update websites from your AI chat. Hosting for AI-generated HTML, l… |
+| 2026-10-06 14:06:00 | [io.github.ryuxik/snhp](https://github.com/ryuxik/snhp) | SNHP — negotiation rules your AI can't… | 0.5.0 | Turn a seller's offer into negotiation rules and draft replies to buyers inside… |
+| 2026-10-06 14:12:49 | [com.chainstack/chainstack](https://github.com/chainstacklabs/mcp-server) | Chainstack | 1.10.11 | Deploy and manage blockchain nodes across 70+ protocols, search docs, request t… |
+| 2026-10-06 14:13:31 | [io.github.ianderso/dpla-catalog-mcp](https://github.com/ianderso/dpla-catalog-mcp) | DPLA Catalog | 0.1.1 | Search the Digital Public Library of America; reach the holding institution's r… |
+| 2026-10-06 14:13:38 | [io.github.yiminspace/quarry](https://github.com/yiminspace/quarry) |  | 1.5.2 | Safety-railed database access for agents: Postgres, MySQL, Redis. Read-only by… |
+| 2026-10-06 14:19:05 | [com.getquario/mcp](https://github.com/getquario/mcp) | quario | 0.2.1 | Validate and render quario report definitions (JSON) to PDF, Excel, Word, HTML… |
+| 2026-10-06 14:19:19 | io.github.brunopetrellinz-tech/company-research-mcp | Company Research MCP | 1.0.0 | Company research for AI agents: contacts, tech stack, LEI, EU legal entities, S… |
+| 2026-10-06 14:19:24 | io.github.brunopetrellinz-tech/job-search-mcp | Job Search MCP | 1.0.0 | Open jobs from 20,000+ company career sites: search, list a company's roles, re… |
+| 2026-10-06 14:19:27 | io.github.brunopetrellinz-tech/marketing-research-mcp | Marketing & SEO Research MCP | 1.0.0 | Marketing research for AI agents: SEO audits, broken links, DNS, tech stack, Ap… |
+| 2026-10-06 14:19:31 | io.github.brunopetrellinz-tech/research-papers-mcp | Research Papers MCP | 1.0.0 | Research papers for AI agents: PubMed, arXiv, Crossref; citations, references,… |
+| 2026-10-06 14:20:18 | [io.github.mamuso/unicodekit](https://github.com/mamuso/characters) | UnicodeKit | 1.0.0 | Find Unicode characters by name, codepoint, or meaning, and get their HTML, CSS… |
+| 2026-10-06 14:20:42 | com.skimnews/news | SkimNews | 1.0.0 | Free AI-curated news summaries from 100+ sources across seven beats, plus entit… |
 
 ## Data source
 
