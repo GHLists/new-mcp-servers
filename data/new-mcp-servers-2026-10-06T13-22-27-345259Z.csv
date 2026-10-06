@@ -1,0 +1,32 @@
+created_at,server,title,version,repository,transports,description
+2026-10-06T12:21:36.256319Z,app.furnigen/furniture,FurniGen,0.1.0,,streamable-http,"Design a custom kitchen or wardrobe in Ukraine: brief checks, real decors, sketches."
+2026-10-06T12:22:06.877468Z,sh.openmail/openmail,OpenMail,0.1.0,https://github.com/openmailsh/mcp,streamable-http,"Gmail for agents: create inboxes, read and reply to mail, send email, manage domains. OAuth sign-in."
+2026-10-06T12:22:11.394271Z,io.github.oito2/mcp-build82,build82,1.0.0,https://github.com/oito2/mcp-build82,,MCP server for Moodle plugin development: structural context of a Moodle install for AI agents.
+2026-10-06T12:22:41.487129Z,io.github.maemreyo/zamery-browser,Zamery Browser,0.1.2,https://github.com/maemreyo/zamery-browser,,"Use your existing Firefox and logged-in tabs, limited to tabs or groups you explicitly share."
+2026-10-06T12:23:22.793972Z,io.github.docling-project/docling-mcp,Docling MCP,3.3.0,https://github.com/docling-project/docling-mcp,,"Convert PDFs and other documents to structured formats via Docling, for AI applications."
+2026-10-06T12:23:51.562244Z,io.github.WYRE-AI/hudu-mcp,Hudu,1.4.2,https://github.com/WYRE-AI/hudu-mcp,,"MCP server for Hudu IT documentation — companies, assets, articles, passwords, and procedures."
+2026-10-06T12:25:13.99785Z,io.keyban.prod.mcp/agent-wallet,Keyban Agent Wallet,0.4.1,,,"Give an AI agent its own blockchain wallet: balances, USDC transfers, x402 payments under policy."
+2026-10-06T12:26:31.312861Z,io.github.yschaub/gastrosync,Gastrosync,0.2.0,,streamable-http,"Manage catering events, products and unsigned offer drafts in Gastrosync. Requires OAuth login."
+2026-10-06T12:30:47.189566Z,io.github.zh-xx/antu,,0.9.0,https://github.com/zh-xx/Antu,,"Legal diagrams (fact, procedure, relationship, justification) from JSON, as one offline HTML page."
+2026-10-06T12:31:46.212433Z,com.starcovery/mcp,Starcovery,1.0.0,,streamable-http,MCP tools to find and hire Instagram and TikTok creators from a plain-language brief.
+2026-10-06T12:32:27.323497Z,io.github.Leeday-devs/takehomeapi,TakeHome API,1.0.0,,streamable-http,"Verified UK take-home pay: income tax, NI, student loans, pensions, with GOV.UK sources."
+2026-10-06T12:33:19.286916Z,nl.feedmycart/feedmycart,FeedMyCart,1.2.0,,streamable-http,"Shared household grocery list, pantry and this week's supermarket deals in 15 countries."
+2026-10-06T12:35:06.911123Z,com.proofite/proofite,,1.2.0,https://github.com/hanicker/proofite-mcp,streamable-http,"Read your AI-written daily briefing and retune the filter behind it: feeds, newsletters, topics."
+2026-10-06T12:36:24.927421Z,io.github.apperhq/apper-mcp,Apper MCP Connector,1.0.0,https://github.com/apperhq/mcp,streamable-http,Build and update complete applications in Apper through AI assistants using MCP.
+2026-10-06T12:36:38.618621Z,io.github.Decodo/mcp-server,,1.2.5,https://github.com/Decodo/mcp-server,,"Enable your AI agents to scrape and parse web content dynamically, including geo-restricted sites"
+2026-10-06T12:37:46.416454Z,io.tenova/swt3-witness,SWT3 AI Witness,0.7.5,https://github.com/tenova-labs/swt3-ai,,"Cryptographic AI governance and audit. 75 tools, 84 frameworks. EU AI Act, NIST, CMMC, MCP Top 10."
+2026-10-06T12:38:30.251082Z,network.roster/mcp,Roster Network,1.0.0,https://github.com/paualbesa/roster-network,streamable-http,"Marketplace and settlement for AI agents: need/buy, escrow USDC, reputation, data products."
+2026-10-06T12:40:42.512649Z,com.streamkap/tools,,0.9.0,,streamable-http,"Streamkap CLI & MCP server - manage CDC pipelines, sources, destinations, and transforms"
+2026-10-06T12:43:52.253423Z,com.spocont/booboooking,booboooking Appointment Booking,1.0.1,,streamable-http,Book appointments with service providers on booboooking.com — no token required.
+2026-10-06T12:45:26.262219Z,io.github.blink1217/quant-swarm,quant-swarm,0.5.0,https://github.com/blink1217/trading-swarm-mcp,streamable-http; streamable-http; streamable-http,"Risk-first pre-trade checks, PIT data, leakage audits, and a Shadow Tournament vs a live champion."
+2026-10-06T12:46:52.23998Z,com.nuelink/mcp,Nuelink,1.1.0,https://github.com/kreatinc/nuelink-mcp-oauth2,streamable-http,"Draft, schedule and publish social media posts to 12 networks from your AI assistant."
+2026-10-06T12:56:46.379864Z,com.animatemytravel/studio,AnimateMyTravel Studio,1.1.0,,streamable-http,"Animated map videos of any story: trips, wars, empires, storms, data. Free, no signup."
+2026-10-06T12:58:00.955579Z,io.github.gabrielmahia/kra-mcp,,0.1.4,https://github.com/gabrielmahia/kra-mcp,,MCP server for Kenya Revenue Authority tax workflows and information
+2026-10-06T12:59:04.130912Z,com.thegastrologer/clinical,The Gastrologer — GI clinical tools for agents,1.4.0,,streamable-http,"Physician-governed GI tools: claim verification, teaching retrieval, HRM and instrument scoring"
+2026-10-06T12:59:53.944031Z,net.fundz/fundz,,1.6.0,,streamable-http,"SEC-sourced funding rounds, acquisitions, exec moves, hiring and investor signals. 7 keyless tools."
+2026-10-06T13:02:59.042089Z,ai.plero/plero,,2026.10.6,,streamable-http,"Operating system for creative companies: clients, projects, estimates, contracts, invoices, talent"
+2026-10-06T13:08:17.827067Z,io.github.tech-bam/framegrove,Framegrove: App Store screenshot generator,1.0.0,https://github.com/tech-bam/framegrove,,"Render App Store, Google Play and iPhone Duo screenshots and Apple Creative Assets from templates."
+2026-10-06T13:10:07.914458Z,io.github.MarcProe/rhein-ruhr-fahrplan-mcp,Rhein-Ruhr Fahrplan MCP,1.2.2,https://github.com/MarcProe/rhein-ruhr-fahrplan-mcp,,"Public transit data for the Rhein-Ruhr region: live departures, trips, disruptions, GTFS schedules."
+2026-10-06T13:15:25.147369Z,io.github.yourimaginationwillbefired/veilfile,Veilfile,1.0.0,https://github.com/yourimaginationwillbefired/veilfile,streamable-http,"Private, expiring artifact hosting for AI agents. Upload via API or MCP; links die on their own."
+2026-10-06T13:16:34.160165Z,ai.ruthven/ruthven,,1.0.0,https://github.com/RUTHVEN19/ruthven-world,streamable-http,"Read-only artwork provenance: Origin Passports, evidence states, Merkle proofs checkable on Ethereum"
+2026-10-06T13:20:27.719343Z,io.github.Grit-77/agent-data-tools,Agent Data Tools,0.1.0,,streamable-http,15 data tools at $0.01 USDC/call on Base via x402. Free discovery; x402 wallet client required.
