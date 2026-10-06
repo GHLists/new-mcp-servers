@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-10-06T06:21:00.960964Z,io.github.tourclaim/tourclaim,TourClaim by Copernican,0.2.0,https://github.com/tourclaim/tourclaim-cli,,Prepare credit-card travel insurance claims with traveler consent. Synthetic review mode.
+2026-10-06T06:22:11.630307Z,io.github.simulatorarts/docugrip,DocuGrip,0.1.0,,streamable-http,Find the right PDF tool for any task and get the link. Your document never reaches the server.
+2026-10-06T06:25:09.828701Z,monster.droid/specs,droid.monster — specs,1.0.0,,streamable-http,"Specs of commercially available robots, each figure citing its source document."
+2026-10-06T06:27:46.734998Z,au.com.digitaldarts/feedshine,FeedShine Google Shopping Feed,1.2.0,,streamable-http,Grow sales on Google and beyond. Fix your Shopify product feeds and optimize every field in chat.
+2026-10-06T06:34:43.003581Z,io.github.thefiredev-cloud/meshvault-connectors,MeshVault Connectors,0.1.0,https://github.com/thefiredev-cloud/meshvault-connectors,streamable-http,"Read-only tools: EMS protocols, courts and judges, NPI and FDA data, GPU fit for open models."
+2026-10-06T06:37:09.671059Z,io.github.kr-data-api/korea-flood-car-check,Korea Flood-Damaged Car Check by Plate (침수차 조회),0.1.0,,streamable-http,"Check Korean car plates for official flood-damage insurance records (total loss/partial), date"
+2026-10-06T06:38:01.626449Z,io.github.sgateway/s-gw,s-gw,0.1.22,https://github.com/sgateway/s-gw,,"Keep credentials out of AI coding agents with local approvals, scoped injection, and audit trails."
+2026-10-06T06:41:01.999395Z,com.getklo.mcp/klo,klo,0.1.0,,streamable-http,"Edit videos in the cloud: footage, color grading, audio, editable Remotion graphics and exports."
+2026-10-06T06:41:05.27054Z,tools.audiolab/audiolab,,0.4.2,https://github.com/Audio-Launch/audiolab-mcp-server,,"Loudness (EBU R128 / BS.1770-4), true-peak and voice-quality analysis for local files and URLs."
+2026-10-06T06:42:30.901295Z,ai.vocasa/vocasa,Vocasa,1.0.0,,streamable-http,Rental property analysis your AI can call
+2026-10-06T06:49:19.278842Z,com.artbooksociety/public-catalog,Artbook Society — Public Catalog,1.0.0,,streamable-http,"Read-only access to the Artbook Society published catalog: books, artists, editors and events."
+2026-10-06T06:51:06.423669Z,io.github.yankiifr/base-facts-mcp,Base Token Facts,0.2.1,https://github.com/yankiifr/base-facts-mcp,,"Base token checks for agents: simulated buy and sell, taxes, honeypots. Pay per call in USDC (x402)."
+2026-10-06T06:52:57.123825Z,io.github.SepineTam/stata-mcp,,1.25.1,https://github.com/SepineTam/stata-mcp,,Let LLM help you achieve your regression analysis with Stata
+2026-10-06T06:55:00.69704Z,io.github.Mounirt879/rfqdecoder,RFQdecoder,1.1.0,,streamable-http,"Cost a machined, sheet metal or cast part from its PDF, DXF or STEP drawing, line by line."
+2026-10-06T06:56:10.937579Z,io.github.bhanutpt/inksmcp,Inkscape (inksmcp),0.3.0,https://github.com/bhanutpt/inksmcp,,"Create, edit and export SVG graphics with Inkscape: measured layout, templates, export."
+2026-10-06T07:09:00.182142Z,io.github.wangjingjing1026uwh-hub/zaoqiniaoer,,1.1.0,https://github.com/wangjingjing1026uwh-hub/zaoqiniaoer-mcp,streamable-http,Pay someone in China to go look at something right now and say what they saw. From ¥5 (~$0.70).
+2026-10-06T07:14:43.142541Z,io.github.kr-data-api/korea-data,Korea Data — Official Korean Public Data for AI Agents (all-in-one),0.2.4,,streamable-http,"All KR Data tools in one server: Korean business checks, addresses, laws, car flood records & more"
+2026-10-06T07:17:40.111044Z,io.github.FROWNINGdev/django-orm-lens,Django ORM Lens,1.13.1,https://github.com/FROWNINGdev/django-orm-lens,,"Django ORM static analysis MCP. Models, relations, migrations, indexes, signals, N+1."

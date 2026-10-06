@@ -9,29 +9,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 06:19 UTC
+## Latest list — 2026-10-06 07:19 UTC
 
-New MCP servers published between 2026-10-06 05:20 UTC and 2026-10-06 06:19 UTC.
+New MCP servers published between 2026-10-06 06:19 UTC and 2026-10-06 07:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-06T06-19-24-19041Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-06T07-19-46-991935Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-06 05:23:27 | [io.github.proprock/sql-safe-mcp](https://github.com/proprock/sql-safe-mcp) | SQL Safe MCP | 1.5.2 | Minimal, read-only, PII-safe MCP server for SQL databases. |
-| 2026-10-06 05:39:25 | [io.github.fmadore/iwac-mcp-server](https://github.com/fmadore/iwac-mcp-server) | Islam West Africa Collection (IWAC) | 3.8.0 | Read-only access to the Islam West Africa Collection via Hugging Face datasets. |
-| 2026-10-06 05:42:15 | ai.corvio/mcp | Corvio | 1.0.0 | Cloud notes and AI workspace: search your notes and save AI answers as editable… |
-| 2026-10-06 05:46:07 | [io.github.akutishevsky/monobank-mcp-server](https://github.com/akutishevsky/monobank-mcp-server) | Monobank | 1.3.1 | MCP server for Monobank API — currency rates, client info, and account statemen… |
-| 2026-10-06 05:48:48 | com.collhub/collhub | CollHub | 1.0.3 | Documents, projects, comments, workflows and data sources of your CollHub insta… |
-| 2026-10-06 05:49:12 | uz.bronla/bronla | Bronla.UZ | 0.1.0 | Search and book dachas, villas, cottages and hotels in Uzbekistan, with prices… |
-| 2026-10-06 05:51:19 | work.forwardeployed/forward-deployed | Forward Deployed | 1.0.0 | Research, strategy, financial models and decks, priced and approved per job, in… |
-| 2026-10-06 05:51:25 | co.pulselake/pulselake | PulseLake | 1.0.0 | AI-native market research: research studies, persona audience studies, analysis… |
-| 2026-10-06 05:51:28 | co.pulselake/simulation-research | PulseLake Simulation Research | 1.0.0 | Synthetic persona research and world simulations, with previewed credits and re… |
-| 2026-10-06 05:51:32 | co.pulselake/process-assessment | PulseLake Process Assessment | 1.0.0 | Process assessments: question packs, multi-respondent sessions, validation and… |
-| 2026-10-06 05:51:55 | [io.github.illee/leoworks-data-tools](https://github.com/illee/leoworks-data-tools-mcp) | LeoWorks Korea & AliExpress Data Tools | 1.0.0 | Naver Shopping rank, Korean reviews, K-beauty rankings and AliExpress data as A… |
-| 2026-10-06 06:01:52 | [io.github.tillawy/gnucash-mcp](https://github.com/tillawy/gnucash-mcp) | GnuCash | 0.1.0 | Read a GnuCash book and import bank statements into it. |
-| 2026-10-06 06:01:52 | io.github.richy7734/stori3d-mcp | Stori3D | 0.5.0 | See and edit the building project open in Stori3D: walls, rooms, openings, fini… |
-| 2026-10-06 06:08:51 | com.fortvision.app/fortvision | FORTVISION | 3.1.0 | Agency marketing & CRM: leads, campaigns, email/SMS/WhatsApp, LinkedIn, landing… |
-| 2026-10-06 06:11:44 | [io.github.kleash/airscp](https://github.com/kleash/airscp) | AirSCP | 1.0.0 | Drive AirSCP, the Mac app for SCP/SFTP file transfers, SSH servers and Windows… |
+| 2026-10-06 06:21:00 | [io.github.tourclaim/tourclaim](https://github.com/tourclaim/tourclaim-cli) | TourClaim by Copernican | 0.2.0 | Prepare credit-card travel insurance claims with traveler consent. Synthetic re… |
+| 2026-10-06 06:22:11 | io.github.simulatorarts/docugrip | DocuGrip | 0.1.0 | Find the right PDF tool for any task and get the link. Your document never reac… |
+| 2026-10-06 06:25:09 | monster.droid/specs | droid.monster — specs | 1.0.0 | Specs of commercially available robots, each figure citing its source document. |
+| 2026-10-06 06:27:46 | au.com.digitaldarts/feedshine | FeedShine Google Shopping Feed | 1.2.0 | Grow sales on Google and beyond. Fix your Shopify product feeds and optimize ev… |
+| 2026-10-06 06:34:43 | [io.github.thefiredev-cloud/meshvault-connectors](https://github.com/thefiredev-cloud/meshvault-connectors) | MeshVault Connectors | 0.1.0 | Read-only tools: EMS protocols, courts and judges, NPI and FDA data, GPU fit fo… |
+| 2026-10-06 06:37:09 | io.github.kr-data-api/korea-flood-car-check | Korea Flood-Damaged Car Check by Plate… | 0.1.0 | Check Korean car plates for official flood-damage insurance records (total loss… |
+| 2026-10-06 06:38:01 | [io.github.sgateway/s-gw](https://github.com/sgateway/s-gw) | s-gw | 0.1.22 | Keep credentials out of AI coding agents with local approvals, scoped injection… |
+| 2026-10-06 06:41:01 | com.getklo.mcp/klo | klo | 0.1.0 | Edit videos in the cloud: footage, color grading, audio, editable Remotion grap… |
+| 2026-10-06 06:41:05 | [tools.audiolab/audiolab](https://github.com/Audio-Launch/audiolab-mcp-server) |  | 0.4.2 | Loudness (EBU R128 / BS.1770-4), true-peak and voice-quality analysis for local… |
+| 2026-10-06 06:42:30 | ai.vocasa/vocasa | Vocasa | 1.0.0 | Rental property analysis your AI can call |
+| 2026-10-06 06:49:19 | com.artbooksociety/public-catalog | Artbook Society — Public Catalog | 1.0.0 | Read-only access to the Artbook Society published catalog: books, artists, edit… |
+| 2026-10-06 06:51:06 | [io.github.yankiifr/base-facts-mcp](https://github.com/yankiifr/base-facts-mcp) | Base Token Facts | 0.2.1 | Base token checks for agents: simulated buy and sell, taxes, honeypots. Pay per… |
+| 2026-10-06 06:52:57 | [io.github.SepineTam/stata-mcp](https://github.com/SepineTam/stata-mcp) |  | 1.25.1 | Let LLM help you achieve your regression analysis with Stata |
+| 2026-10-06 06:55:00 | io.github.Mounirt879/rfqdecoder | RFQdecoder | 1.1.0 | Cost a machined, sheet metal or cast part from its PDF, DXF or STEP drawing, li… |
+| 2026-10-06 06:56:10 | [io.github.bhanutpt/inksmcp](https://github.com/bhanutpt/inksmcp) | Inkscape (inksmcp) | 0.3.0 | Create, edit and export SVG graphics with Inkscape: measured layout, templates,… |
+| 2026-10-06 07:09:00 | [io.github.wangjingjing1026uwh-hub/zaoqiniaoer](https://github.com/wangjingjing1026uwh-hub/zaoqiniaoer-mcp) |  | 1.1.0 | Pay someone in China to go look at something right now and say what they saw. F… |
+| 2026-10-06 07:14:43 | io.github.kr-data-api/korea-data | Korea Data — Official Korean Public Dat… | 0.2.4 | All KR Data tools in one server: Korean business checks, addresses, laws, car f… |
+| 2026-10-06 07:17:40 | [io.github.FROWNINGdev/django-orm-lens](https://github.com/FROWNINGdev/django-orm-lens) | Django ORM Lens | 1.13.1 | Django ORM static analysis MCP. Models, relations, migrations, indexes, signals… |
 
 ## Data source
 
