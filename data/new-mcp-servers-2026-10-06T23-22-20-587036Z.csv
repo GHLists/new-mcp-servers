@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-06T22:23:27.764465Z,io.github.kreativeManish/iso20022-navigator,ISO 20022 Navigator,0.1.0,https://github.com/kreativeManish/iso20022-navigator-mcp,streamable-http,"Look up the ISO 20022 replacement for legacy messages like MT103, and which schemes use a message."
+2026-10-06T22:27:13.363923Z,io.github.spendpreflight/spendpreflight,SpendPreflight,1.0.0,,streamable-http,Operated by SpendPreflight: sanctions screening and allow/hold/block preflight for x402 payments.
+2026-10-06T22:29:33.066514Z,io.github.arnibj/infoslides,InfoSlides — put content on a TV or screen,1.7.3,https://github.com/arnibj/InfoSlides.MCP,,"Put a PowerPoint, PDF, photo, or live data on any smart TV, menu board, or lobby screen."
+2026-10-06T22:35:33.224532Z,ai.attestari/attestari,Attestari,0.2.1,,streamable-http,"Attestari's verdict on an npm or PyPI package version, asked before an agent installs it."
+2026-10-06T22:35:42.246098Z,io.github.mcp-dir/datajud-mcp,DataJud (CNJ),0.1.1,https://github.com/mcp-dir/datajud-mcp,streamable-http,"Public lookup of Brazilian court cases (metadata + docket) via the CNJ/DataJud API. Free, no login."
+2026-10-06T22:36:55.984405Z,site.chatgpt.predicata-9274.ai-ventures/ai-ventures,AI Ventures,1.0.0,,streamable-http,"Human reviews, durable callback inboxes, and shared task leases for independent agents."
+2026-10-06T22:44:27.492616Z,com.makepartsnow/manufacturing,Make Parts Now: 3D Printing & CNC Machining Quotes,1.0.0,,streamable-http,"Instant quotes and ordering for 3D printing and CNC machining: SLS, FDM, aluminum and brass parts."
+2026-10-06T22:49:42.393849Z,io.github.lukabudik/alza-mcp,,0.4.0,https://github.com/lukabudik/alza-mcp,,Unofficial MCP server for Alza.cz: catalog search plus token-guarded account and checkout.
+2026-10-06T22:49:50.04266Z,com.maneratech/aicitizenship,AI Citizenship,0.1.0,,streamable-http,"Free, unofficial citizenship-test practice: test formats, practice questions with vetted answers."
+2026-10-06T22:51:52.607594Z,com.applystead/jobs,Applystead,1.0.0,https://github.com/usr-bin-roygbiv/applystead-mcp,streamable-http,"Search open jobs from employers' own career sites: roles, companies and posting status."
+2026-10-06T22:57:29.171566Z,io.github.asanabrial/leteo,Leteo,0.3.0,https://github.com/asanabrial/leteo,,"Persistent memory for AI coding agents: one Rust binary, one local SQLite database."
+2026-10-06T22:58:22.693248Z,io.github.pipeworx-io/aviationstack,Aviationstack,0.1.3,https://github.com/pipeworx-io/mcp-aviationstack,streamable-http,Aviationstack MCP — global flight + airport + airline data
+2026-10-06T22:58:35.212594Z,io.github.pipeworx-io/chronicling-america,Chronicling America,0.1.2,https://github.com/pipeworx-io/mcp-chronicling-america,streamable-http,Chronicling America MCP — full-text search of ~150 years of digitized U.S.
+2026-10-06T22:58:47.780234Z,io.github.pipeworx-io/fas,Fas,0.1.3,https://github.com/pipeworx-io/mcp-fas,streamable-http,FAS MCP — USDA Foreign Agricultural Service (trade & global production data)
+2026-10-06T22:58:54.165527Z,com.easyemailverification/email-verification,Easy Email Verification,0.3.0,,streamable-http,"Verify email addresses before you send: single, batch (50) and bulk lists (10,000)."
+2026-10-06T22:59:11.272841Z,io.github.pipeworx-io/opendota,Opendota,0.1.3,https://github.com/pipeworx-io/mcp-opendota,streamable-http,OpenDota MCP — Dota 2 open stats.
+2026-10-06T22:59:23.866877Z,io.github.pipeworx-io/samgov,Samgov,0.2.3,https://github.com/pipeworx-io/mcp-samgov,streamable-http,SAM.gov MCP — Federal contract opportunities and entity registration data
+2026-10-06T22:59:36.10358Z,io.github.pipeworx-io/singstat-sg,Singstat Sg,0.1.3,https://github.com/pipeworx-io/mcp-singstat-sg,streamable-http,SingStat Table Builder MCP — Department of Statistics Singapore.
+2026-10-06T22:59:41.779018Z,io.github.aapd-studio/omnideck,,1.0.4,https://github.com/aapd-studio/omnideck-mcp,,"Local privacy-first tools: redact secrets, decode JWTs, compare LLM costs. No network calls."
+2026-10-06T22:59:47.557735Z,io.github.pipeworx-io/wynncraft,Wynncraft,0.1.3,https://github.com/pipeworx-io/mcp-wynncraft,streamable-http,Wynncraft MCP.
+2026-10-06T23:00:26.466335Z,dev.kanta/cli,,0.1.2,https://github.com/griffinkanta/kanta-dev,,"Kanta Verify, Find, and Database: email verification, email finding, and B2B contact search."
+2026-10-06T23:00:36.861911Z,io.github.alex-jordan547/renforge,,0.7.3,https://github.com/alex-jordan547/renforge-mcp,,"Inspect, drive and debug a running Ren'Py game: state, screenshots, guarded clicks, saves, builds."
+2026-10-06T23:03:43.924315Z,trade.loomdesk/loomdesk,LoomDesk,2.4.0,,streamable-http,"Real Uniswap liquidity on Robinhood Chain for your wallet, plus a play-money arena for AI agents."
+2026-10-06T23:12:12.030829Z,io.github.faulkj/legion,,0.8.0,https://github.com/faulkj/legion-mcp,,"MCP-native LLM councils for debates, juries, blind panels, refinement, and custom deliberation."
+2026-10-06T23:14:21.130431Z,io.github.pranlabs/valca,Valca,0.6.1,https://github.com/PranLabs/valca,,"Scans code, IaC and AI-agent config for security problems. Read-only — nothing can be edited."
+2026-10-06T23:14:38.565199Z,com.yaybird/yaybird,Yaybird,2.0.0,,streamable-http,"Social posts your AI drafts, checked by your brand rules, published only after you approve."
+2026-10-06T23:15:37.498845Z,fr.missionmuseaux/annonces,Mission Museaux,1.1.0,,streamable-http,"Lost, found and stray pets in France: listings, photo search, adoption, advice, breeds."
