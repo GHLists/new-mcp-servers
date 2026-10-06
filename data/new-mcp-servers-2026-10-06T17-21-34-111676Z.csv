@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-10-06T16:21:58.577468Z,ai.aitopia/aitopia,AITOPIA,1.0.0,https://github.com/AITOPIAai/skills,streamable-http,"Generate and edit images, video and audio: 300+ AI models, video tools, voice cloning, transcripts."
+2026-10-06T16:23:19.65883Z,io.github.shatch/banjo,Banjo,0.1.4,https://github.com/shatch/banjo,,"Self-hosted AI assistant that places real phone calls for you: bookings, reservations, errands."
+2026-10-06T16:24:07.426883Z,io.openvidu/docs,OpenVidu Docs,1.0.0,,streamable-http,"The official OpenVidu documentation, per version, for coding agents."
+2026-10-06T16:24:42.62294Z,com.gogoscreen/gogoscreen,GogoScreen,1.0.0,,streamable-http,Turn a web app URL and a one-sentence instruction into an edited demo video with voiceover.
+2026-10-06T16:28:51.057251Z,com.digitaldataonline.mcp/e-yearbook,e-yearbook.com Archive Search,0.5.0,,streamable-http,Search 300K+ U.S. yearbooks. Free previews; summary bundles and limited exact-image API.
+2026-10-06T16:29:57.273603Z,io.github.moshebeider3-png/omnitwine-chat-sync,Omnitwine Conversation Sync,1.0.0,,streamable-http,"OAuth-protected, one-way sync of user-visible AI transcripts to an Omnitwine account."
+2026-10-06T16:31:26.056031Z,com.metraipolis/knowledge-commons,,0.1.0,,streamable-http,"Knowledge commons for AI agents: cited, licensed, queryable claims over MCP."
+2026-10-06T16:32:29.882244Z,io.github.AutomatonColony/automaton-colony,,1.2.0,https://github.com/AutomatonColony/automaton-colony,streamable-http,"Screen Base smart contracts and B20 tokens: free on-chain check, paid Flash Audit over x402 (USDC)."
+2026-10-06T16:38:00.180118Z,io.github.chenwengui23/wanjige,万机阁 Wanjige — 中文 AI 工具市场,1.0.0,https://github.com/chenwengui23/wanjige-mcp,streamable-http,"Chinese MCP tool marketplace: 15,552 callable tools for weather, stocks, FX, docs and calculations."
+2026-10-06T16:38:01.939412Z,md.taskforge/taskforge,,1.0.0,https://github.com/azhard/homebrew-tap,,Local MCP server for tasks and notes in any Markdown folder or Obsidian vault. No account needed.
+2026-10-06T16:39:31.491564Z,io.github.jameselle/betbank-mcp,BetBank,1.0.0,https://github.com/jameselle/betbank-mcp,streamable-http,"Australian sports betting analytics: odds compared, +EV picks, price moves, your bets."
+2026-10-06T16:40:20.699312Z,xyz.linty/linty,Linty,0.1.0,https://github.com/SidestreamAI/linty-plugins,streamable-http,"Find food, beverage and pet brands that sell direct, and where to apply for a wholesale account."
+2026-10-06T16:43:15.471188Z,com.vesremont/store,Vesremont,1.0.0,,streamable-http,"Vesremont catalog, product search and buyer-authorized shopping operations."
+2026-10-06T16:44:39.822266Z,link.armadoc/armadoc,Armadoc,0.1.0,https://github.com/waimun/armadoc-cli,,Send and read end-to-end encrypted documents. Your private key never leaves your machine.
+2026-10-06T16:49:23.466726Z,com.trafficparrot/public,Traffic Parrot,1.0.0,,streamable-http,"Traffic Parrot simulates APIs and messaging. Request or withdraw a trial, read docs, send feedback."
+2026-10-06T16:51:32.736567Z,io.github.bayo-de/npc-verify,Verified by NPC,1.0.0,https://github.com/bayo-de/verified-by-npc,,"Check products, credentials, claims, and agents against NPC Labs verification records."
+2026-10-06T16:55:30.982892Z,io.github.tristanroth1/ismscopilot-account,ISMS Copilot,0.2.1,,streamable-http,"Compliance specialist AI (ISO 27001, SOC 2, GDPR, NIS 2, DORA) your coding agent hands GRC work to."
+2026-10-06T16:56:55.459756Z,io.github.pindotcom/ev-load-check,EV Load Check,0.1.0,,streamable-http,"NEC-based screening for a home EV charger: panel capacity, wire sizing, voltage drop, GA incentives."
+2026-10-06T16:57:05.696079Z,com.datosmcp/datos,datosmcp — Central America data,0.1.0,,streamable-http,"Official public data for Central America and the Dominican Republic, down to the municipality."
+2026-10-06T16:57:09.967367Z,click.vivento365/vivento-mcp,,1.1.0,https://github.com/Direccion360/vivento-mcp,streamable-http,"Vivento 365 (CRM inmobiliario) desde Claude, ChatGPT o cualquier cliente MCP: prospectos y citas."
+2026-10-06T16:57:30.027505Z,io.github.codekraiwa/thai-fx-compare,Thai FX Compare,1.0.0,https://github.com/codekraiwa/FxRateTracker,streamable-http,"Free Thai bank FX MCP: current TT rates, best bank, bank list, and historical observations."
+2026-10-06T17:02:16.420068Z,com.usenysa/nysa,Nysa,1.0.0,,streamable-http,"Shared memory for teams that work with AI agents: meetings, email and calendar in one brain."
+2026-10-06T17:05:29.585426Z,io.github.hamzawamiqhq/ai-crawler-check,AI Crawler Access Check,1.0.0,,streamable-http,"Can GPTBot, ClaudeBot and PerplexityBot reach a site? Real fetch per crawler, firewall/CDN blocks."
+2026-10-06T17:06:35.228551Z,com.hub-equity/hub-equity-mcp,Hub-Equity MCP,2.0.0,https://github.com/Hub-Equity/hub-equity-mcp,,"Standardized, restatement-aware SEC + European (ESEF) XBRL fundamentals, served to your agent."
+2026-10-06T17:16:22.366186Z,com.virtualhangar.owners/beacon,BEACON by Owner Connect,1.0.0,,streamable-http,"Ask about a private aircraft: approximate charter costs, trip requests and buyer inquiries."
+2026-10-06T17:17:50.075162Z,app.frontierstack/frontierstack,"FrontierStack by Enfour, Inc.",1.0.0,https://github.com/richardnorthcott/frontierstack-agent-kit,streamable-http,"Enfour, Inc. FrontierStack (www.frontierstack.app): Mac and server health, logs, restarts."
+2026-10-06T17:18:19.46838Z,io.github.mglbagi/agent-discovery-board,Agent Discovery Board,0.3.0,https://github.com/mglbagi/agent-discovery-board-public,streamable-http,"Free directory of AI agent services: search, connect, pay, verify and list them, over MCP and REST."
+2026-10-06T17:20:14.857185Z,com.censais/mcp,Censais,1.0.0,,streamable-http,Censais software and AI services: browse what we build and sketch your project idea.
+2026-10-06T17:20:20.619175Z,io.github.agenttoolbox2026/docs-pack,AgentToolbox Docs Pack,0.1.0,https://github.com/agenttoolbox2026/AgentToolbox,streamable-http,"Query-matched doc excerpts in one JSON response. $0.01 USDC on Base via x402, pay-per-success."
+2026-10-06T17:20:27.292773Z,co.incarn/photo-animation,Incarn: Animate Old Family Photos,1.1.0,,streamable-http,Animate old family photos and ancestor portraits into short lifelike videos. Free samples.

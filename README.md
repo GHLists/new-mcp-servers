@@ -9,38 +9,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 16:21 UTC
+## Latest list — 2026-10-06 17:21 UTC
 
-New MCP servers published between 2026-10-06 15:21 UTC and 2026-10-06 16:21 UTC.
+New MCP servers published between 2026-10-06 16:21 UTC and 2026-10-06 17:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-06T16-21-39-848443Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-06T17-21-34-111676Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-06 15:22:18 | [app.troving/trove](https://github.com/the-react-native-rewind/trove-app) | Trove | 1.1.0 | Shared lists for the circles you belong to. Assistants see only the tasks you c… |
-| 2026-10-06 15:22:41 | ai.spaceti/intelligence | Spaceti Intelligence | 1.1.0 | Spaceti workplace analytics: occupancy, environment, bookings, sensors. Read-on… |
-| 2026-10-06 15:23:57 | [io.github.nickjlamb/redacta-mcp](https://github.com/nickjlamb/redacta) |  | 2.1.1 | Keep patient identifiers out of AI agent context — a local privacy boundary for… |
-| 2026-10-06 15:26:15 | [io.github.thealidev/dmcps](https://github.com/RMAAPK/dmcps.git) |  | 1.0.0 | DMCPS: Highly secure, isolated MCP server environment giving AI agents sandboxe… |
-| 2026-10-06 15:35:05 | [fun.spiritcards/spirit-cards-mcp](https://github.com/spiritcards/spirit-cards-mcp) | Spirit Cards | 0.1.0 | Read-only Spirit Cards MCP: PoW-mined NFT cards on Robinhood Chain — stats, car… |
-| 2026-10-06 15:35:47 | dev.burnbound/mcp | Burnbound | 0.3.3 | Let your AI agent pay x402 APIs within daily caps, allowed hosts and human appr… |
-| 2026-10-06 15:36:00 | [io.github.memokar/brainy](https://github.com/memokar/brainy) | Brainy | 0.1.0 | Shared knowledge base + task queue so Claude, ChatGPT and other agents can work… |
-| 2026-10-06 15:36:52 | [io.github.ym2629/lavela](https://github.com/ym2629/launchops) | lavela | 1.1.0 | Deploy a repo to a live app from chat: servers, Postgres, domain, email, Stripe… |
-| 2026-10-06 15:40:19 | com.talkaboutmartin/lounge | TAM Lounge | 1.0.0 | Martin County records lounge. Bots speak tam-mlm. Idle until a ping. No desk en… |
-| 2026-10-06 15:48:42 | [io.github.letoribo/mcp-graphql-enhanced](https://github.com/letoribo/mcp-graphql-enhanced) |  | 4.15.4 | GraphQL gateway for LLMs. Handles huge GitHub GraphQL & @neo4j/graphql schemas… |
-| 2026-10-06 15:53:10 | [io.github.jbechtel-97/dealflowpro](https://github.com/jbechtel-97/dealflowpro-mcp-server) |  | 1.2.7 | Multifamily real estate deal analysis — cap rate, DSCR, IRR, DFP Score, max off… |
-| 2026-10-06 16:00:49 | io.github.FRAGnatt/hireseeker | HireSeeker | 1.0.0 | Поиск IT-вакансий из Telegram и карьерных сайтов компаний. Без регистрации. |
-| 2026-10-06 16:01:23 | [io.github.benthepythondev00/jobs-data](https://github.com/benthepythondev00/apify-web-data-mcp) | Jobs Data | 1.0.0 | Remote job boards, LinkedIn jobs, company ATS pages and Upwork jobs as tools. R… |
-| 2026-10-06 16:01:26 | [io.github.benthepythondev00/local-business-leads](https://github.com/benthepythondev00/apify-web-data-mcp) | Local Business Leads | 1.0.0 | Google Maps places with emails, phones and the tech stack of their websites. Ru… |
-| 2026-10-06 16:01:36 | [io.github.benthepythondev00/real-estate-data](https://github.com/benthepythondev00/apify-web-data-mcp) | Real Estate Data | 1.0.0 | Zillow homes and rentals, Zumper rentals and Craigslist housing listings as too… |
-| 2026-10-06 16:01:38 | [io.github.benthepythondev00/reddit-data](https://github.com/benthepythondev00/apify-web-data-mcp) | Reddit Data | 1.0.0 | Reddit posts, comments, keyword search and historical archives as tools. Runs o… |
-| 2026-10-06 16:01:41 | [io.github.benthepythondev00/social-media-data](https://github.com/benthepythondev00/apify-web-data-mcp) | Social Media Data | 1.0.0 | Instagram, TikTok, YouTube and Threads profiles, posts, comments and transcript… |
-| 2026-10-06 16:09:34 | [io.github.talonicdev/talonic-mcp](https://github.com/talonicdev/talonic-mcp) | Talonic | 0.1.83 | Extract structured, schema-validated data from PDFs, scans, images, spreadsheet… |
-| 2026-10-06 16:10:53 | [io.github.smurfy92/openclaw-control-mcp](https://github.com/smurfy92/openclaw-control-mcp) |  | 0.8.3 | MCP server bridging Claude Code to the OpenClaw gateway management plane via JS… |
-| 2026-10-06 16:18:01 | com.revexos/revexos | RevExOS | 1.0.0 | Quote-to-cash tools: parse invoices and POs, match POs to invoices, collection… |
-| 2026-10-06 16:18:14 | [io.github.alexanderkrauck/mailindex-mcp](https://github.com/alexanderkrauck/mailindex-mcp) | mailindex-mcp | 0.3.0 | Search, move, mark, delete and draft your real mail over a self-hosted index. |
-| 2026-10-06 16:18:44 | [io.github.emanueltns/mcpship](https://github.com/emanueltns/mcpship) | mcpship: check and publish MCP servers | 0.1.0 | Checks a remote MCP server against the Claude directory rules and guides its pu… |
-| 2026-10-06 16:19:45 | io.github.Egarter/shippable | Shippable | 0.11.6 | Find leaks in AI-built apps: open Supabase/Firebase data, exposed keys, unsafe… |
-| 2026-10-06 16:21:19 | [io.github.jgravelle/jdocmunch-mcp](https://github.com/jgravelle/jdocmunch-mcp) | jDocmunch MCP | 1.145.1 | Section-level doc search for .md, .rst, .adoc, .ipynb, .html, .yaml, .json, and… |
+| 2026-10-06 16:21:58 | [ai.aitopia/aitopia](https://github.com/AITOPIAai/skills) | AITOPIA | 1.0.0 | Generate and edit images, video and audio: 300+ AI models, video tools, voice c… |
+| 2026-10-06 16:23:19 | [io.github.shatch/banjo](https://github.com/shatch/banjo) | Banjo | 0.1.4 | Self-hosted AI assistant that places real phone calls for you: bookings, reserv… |
+| 2026-10-06 16:24:07 | io.openvidu/docs | OpenVidu Docs | 1.0.0 | The official OpenVidu documentation, per version, for coding agents. |
+| 2026-10-06 16:24:42 | com.gogoscreen/gogoscreen | GogoScreen | 1.0.0 | Turn a web app URL and a one-sentence instruction into an edited demo video wit… |
+| 2026-10-06 16:28:51 | com.digitaldataonline.mcp/e-yearbook | e-yearbook.com Archive Search | 0.5.0 | Search 300K+ U.S. yearbooks. Free previews; summary bundles and limited exact-i… |
+| 2026-10-06 16:29:57 | io.github.moshebeider3-png/omnitwine-chat-sync | Omnitwine Conversation Sync | 1.0.0 | OAuth-protected, one-way sync of user-visible AI transcripts to an Omnitwine ac… |
+| 2026-10-06 16:31:26 | com.metraipolis/knowledge-commons |  | 0.1.0 | Knowledge commons for AI agents: cited, licensed, queryable claims over MCP. |
+| 2026-10-06 16:32:29 | [io.github.AutomatonColony/automaton-colony](https://github.com/AutomatonColony/automaton-colony) |  | 1.2.0 | Screen Base smart contracts and B20 tokens: free on-chain check, paid Flash Aud… |
+| 2026-10-06 16:38:00 | [io.github.chenwengui23/wanjige](https://github.com/chenwengui23/wanjige-mcp) | 万机阁 Wanjige — 中文 AI 工具市场 | 1.0.0 | Chinese MCP tool marketplace: 15,552 callable tools for weather, stocks, FX, do… |
+| 2026-10-06 16:38:01 | [md.taskforge/taskforge](https://github.com/azhard/homebrew-tap) |  | 1.0.0 | Local MCP server for tasks and notes in any Markdown folder or Obsidian vault.… |
+| 2026-10-06 16:39:31 | [io.github.jameselle/betbank-mcp](https://github.com/jameselle/betbank-mcp) | BetBank | 1.0.0 | Australian sports betting analytics: odds compared, +EV picks, price moves, you… |
+| 2026-10-06 16:40:20 | [xyz.linty/linty](https://github.com/SidestreamAI/linty-plugins) | Linty | 0.1.0 | Find food, beverage and pet brands that sell direct, and where to apply for a w… |
+| 2026-10-06 16:43:15 | com.vesremont/store | Vesremont | 1.0.0 | Vesremont catalog, product search and buyer-authorized shopping operations. |
+| 2026-10-06 16:44:39 | [link.armadoc/armadoc](https://github.com/waimun/armadoc-cli) | Armadoc | 0.1.0 | Send and read end-to-end encrypted documents. Your private key never leaves you… |
+| 2026-10-06 16:49:23 | com.trafficparrot/public | Traffic Parrot | 1.0.0 | Traffic Parrot simulates APIs and messaging. Request or withdraw a trial, read… |
+| 2026-10-06 16:51:32 | [io.github.bayo-de/npc-verify](https://github.com/bayo-de/verified-by-npc) | Verified by NPC | 1.0.0 | Check products, credentials, claims, and agents against NPC Labs verification r… |
+| 2026-10-06 16:55:30 | io.github.tristanroth1/ismscopilot-account | ISMS Copilot | 0.2.1 | Compliance specialist AI (ISO 27001, SOC 2, GDPR, NIS 2, DORA) your coding agen… |
+| 2026-10-06 16:56:55 | io.github.pindotcom/ev-load-check | EV Load Check | 0.1.0 | NEC-based screening for a home EV charger: panel capacity, wire sizing, voltage… |
+| 2026-10-06 16:57:05 | com.datosmcp/datos | datosmcp — Central America data | 0.1.0 | Official public data for Central America and the Dominican Republic, down to th… |
+| 2026-10-06 16:57:09 | [click.vivento365/vivento-mcp](https://github.com/Direccion360/vivento-mcp) |  | 1.1.0 | Vivento 365 (CRM inmobiliario) desde Claude, ChatGPT o cualquier cliente MCP: p… |
+| 2026-10-06 16:57:30 | [io.github.codekraiwa/thai-fx-compare](https://github.com/codekraiwa/FxRateTracker) | Thai FX Compare | 1.0.0 | Free Thai bank FX MCP: current TT rates, best bank, bank list, and historical o… |
+| 2026-10-06 17:02:16 | com.usenysa/nysa | Nysa | 1.0.0 | Shared memory for teams that work with AI agents: meetings, email and calendar… |
+| 2026-10-06 17:05:29 | io.github.hamzawamiqhq/ai-crawler-check | AI Crawler Access Check | 1.0.0 | Can GPTBot, ClaudeBot and PerplexityBot reach a site? Real fetch per crawler, f… |
+| 2026-10-06 17:06:35 | [com.hub-equity/hub-equity-mcp](https://github.com/Hub-Equity/hub-equity-mcp) | Hub-Equity MCP | 2.0.0 | Standardized, restatement-aware SEC + European (ESEF) XBRL fundamentals, served… |
+| 2026-10-06 17:16:22 | com.virtualhangar.owners/beacon | BEACON by Owner Connect | 1.0.0 | Ask about a private aircraft: approximate charter costs, trip requests and buye… |
+| 2026-10-06 17:17:50 | [app.frontierstack/frontierstack](https://github.com/richardnorthcott/frontierstack-agent-kit) | FrontierStack by Enfour, Inc. | 1.0.0 | Enfour, Inc. FrontierStack (www.frontierstack.app): Mac and server health, logs… |
+| 2026-10-06 17:18:19 | [io.github.mglbagi/agent-discovery-board](https://github.com/mglbagi/agent-discovery-board-public) | Agent Discovery Board | 0.3.0 | Free directory of AI agent services: search, connect, pay, verify and list them… |
+| 2026-10-06 17:20:14 | com.censais/mcp | Censais | 1.0.0 | Censais software and AI services: browse what we build and sketch your project… |
+| 2026-10-06 17:20:20 | [io.github.agenttoolbox2026/docs-pack](https://github.com/agenttoolbox2026/AgentToolbox) | AgentToolbox Docs Pack | 0.1.0 | Query-matched doc excerpts in one JSON response. $0.01 USDC on Base via x402, p… |
+| 2026-10-06 17:20:27 | co.incarn/photo-animation | Incarn: Animate Old Family Photos | 1.1.0 | Animate old family photos and ancestor portraits into short lifelike videos. Fr… |
 
 ## Data source
 
