@@ -9,26 +9,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 04:19 UTC
+## Latest list — 2026-10-06 05:20 UTC
 
-New MCP servers published between 2026-10-06 03:21 UTC and 2026-10-06 04:19 UTC.
+New MCP servers published between 2026-10-06 04:19 UTC and 2026-10-06 05:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-06T04-19-06-225305Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-06T05-20-43-533533Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-06 03:22:35 | [io.github.pghdma/callrail-mcp](https://github.com/pghdma/callrail-mcp) | CallRail MCP | 1.3.0 | CallRail REST API v3: 57 tools for calls, leads, trackers, tags, users, and age… |
-| 2026-10-06 03:32:58 | io.github.helphub369/model-ruler | Model Ruler — AI Cost Calculators | 1.0.0 | Deterministic AI/LLM cost calculators for tokens, providers, RAG, agents, evals… |
-| 2026-10-06 03:40:00 | [io.github.vinayvobbili/jobwatch](https://github.com/vinayvobbili/jobwatch) | jobwatch | 0.2.1 | Watch company job boards, rank new matches and track every application. Never a… |
-| 2026-10-06 03:44:44 | [io.github.Dcroyalty/xrplhub](https://github.com/Dcroyalty/XRPLHub.io) | XRPLHub — XRPLScore & XRPL actions | 1.14.0 | Free XRPL scores + free unsigned txjson for 35 XRPL actions. You sign with your… |
-| 2026-10-06 03:50:37 | [io.github.gabrielmahia/wapimaji-mcp](https://github.com/gabrielmahia/wapimaji-mcp) |  | 0.1.9 | 💧 WapiMaji MCP — Kenya Water & Drought Intelligence |
-| 2026-10-06 03:51:53 | si.hivex/names | Hivex .si names | 1.0.0 | Find and check .si domain names that are free to register, from an index of 600… |
-| 2026-10-06 03:58:57 | [io.github.GautamTalksDev/mcp-pin](https://github.com/GautamTalksDev/mcp-pin) | mcp-pin | 0.2.1 | Check if an MCP server's tool definitions changed after approval, from a signed… |
-| 2026-10-06 03:59:35 | [io.github.kaitoInfra/twitterapi-io-mcp-server](https://github.com/kaitoInfra/twitterapi-io-mcp-server) |  | 0.2.1 | Official twitterapi.io MCP server (npm, stdio): Twitter/X tweets, users, follow… |
-| 2026-10-06 04:08:52 | [io.github.forgeprint/forgeprint](https://github.com/forgeprint/forgeprint) | Forgeprint | 0.4.4 | Resolve a developer profile to exactly one project blueprint and return its CI-… |
-| 2026-10-06 04:11:14 | [io.github.dorukardahan/twitterapi-io-mcp](https://github.com/dorukardahan/twitterapi-io-mcp) |  | 1.5.22 | Offline access to TwitterAPI.io docs for AI assistants. 67 endpoints, 32 pages,… |
-| 2026-10-06 04:12:22 | [industries.cascade/ephemeris](https://github.com/TensorLink-AI/ephemeris-mcp) | Ephemeris | 1.0.0 | Probabilistic time-series forecasts from zero-shot foundation models: routed, s… |
-| 2026-10-06 04:17:05 | [io.github.rgdevment/tisty](https://github.com/rgdevment/Tisty) | Tisty | 1.24.0 | Notes, documents and tasks as plain Markdown on your own disk. No account, no s… |
+| 2026-10-06 04:22:29 | [io.github.jakobfigur/apple-mail-mcp](https://github.com/jakobfigur/apple-mail-mcp) | Apple Mail MCP | 0.6.2 | Privacy-first local MCP for Apple Mail on macOS: inbox context, drafts, approva… |
+| 2026-10-06 04:23:47 | media.sequencer/sequencer | Sequencer | 0.3.0 | Create AI images, video, and audio, quote generation costs, and edit Sequencer… |
+| 2026-10-06 04:25:00 | com.messeatlas/atlas | Messe Atlas | 2.1.0 | MICE industry data for AI agents: trade shows, exhibitors, organizers, venues.… |
+| 2026-10-06 04:32:07 | [io.github.ArpitGandhi1934/yugenox-ats-jobs-salaries](https://github.com/ArpitGandhi1934/yugenox-mcp) | ATS Job Postings with Salaries (Yugenox) | 1.1.0 | Career-site jobs from Workday, Greenhouse, Lever, Ashby, iCIMS and more, with s… |
+| 2026-10-06 04:32:08 | [io.github.ArpitGandhi1934/yugenox-canada-grocery-prices](https://github.com/ArpitGandhi1934/yugenox-mcp) | Canadian Grocery Prices for AI Agents (… | 1.1.0 | Canadian grocery prices by postal code: Loblaw banners, Instacart, Costco and F… |
+| 2026-10-06 04:32:09 | [io.github.ArpitGandhi1934/yugenox-realtor-ca-real-estate](https://github.com/ArpitGandhi1934/yugenox-mcp) | Realtor.ca Listings + Agents (Yugenox) | 1.1.0 | Realtor.ca listings for sale or rent, the agent directory, and Kijiji rentals.… |
+| 2026-10-06 04:32:09 | [io.github.ArpitGandhi1934/yugenox-canada-retail-store-stock](https://github.com/ArpitGandhi1934/yugenox-mcp) | Canadian Retail Prices + Store Stock (Y… | 1.1.0 | Canadian retail prices and store stock: Canadian Tire, Home Depot CA, Best Buy… |
+| 2026-10-06 04:32:10 | [io.github.ArpitGandhi1934/yugenox-instagram-scraper](https://github.com/ArpitGandhi1934/yugenox-mcp) | Instagram Scraper: Reels to Text, Posts… | 1.1.0 | Public Instagram reels, posts, profiles and comments, plus reel-to-text transcr… |
+| 2026-10-06 04:32:10 | [io.github.ArpitGandhi1934/yugenox-social-data](https://github.com/ArpitGandhi1934/yugenox-mcp) | Instagram + YouTube Data for AI Agents… | 1.1.0 | Public Instagram and YouTube data for AI agents: reels, videos, channels, comme… |
+| 2026-10-06 04:32:10 | [io.github.ArpitGandhi1934/yugenox-youtube-scraper](https://github.com/ArpitGandhi1934/yugenox-mcp) | YouTube Scraper: Comments, Dislike Esti… | 1.1.0 | YouTube videos and channels with top comments in the same row, plus dislike est… |
+| 2026-10-06 04:35:45 | [com.upwork.mcp/upwork-mcp](https://github.com/upwork-corp/upwork-mcp) | Upwork MCP | 1.0.0 | The official Upwork MCP server, letting AI agents connect to Upwork and act on… |
+| 2026-10-06 04:44:45 | com.clinkforge/clink-forge | Clink Forge | 1.1.0 | Pay-per-call government data over x402: provenance chains, Ed25519 attestations… |
+| 2026-10-06 05:06:32 | [net.barchin/mcp](https://github.com/barchin-net/barchin-mcp) |  | 1.0.0 | Web scraping and Iranian-web data tools for AI agents: JS rendering, proxies, M… |
+| 2026-10-06 05:09:56 | dev.workers.agentbets.market-triggers-mcp/market-triggers | Market Triggers | 1.0.0 | Stock watchlist alerts: 8-K filings, volume spikes, big moves, gaps, upcoming e… |
+| 2026-10-06 05:12:14 | io.github.parvizrahayan/tamer | Tamer Prompt Marketplace | 1.0.0 | Prompt marketplace for AI agents: browse and buy prompts with x402 (USDC on Bas… |
+| 2026-10-06 05:20:41 | [io.github.illee/leoworks-korea-data-tools](https://github.com/illee/leoworks-korea-data-tools-mcp) | LeoWorks Korea & AliExpress Data Tools | 1.0.0 | Naver Shopping rank, Korean reviews, K-beauty rankings and AliExpress data as A… |
 
 ## Data source
 
