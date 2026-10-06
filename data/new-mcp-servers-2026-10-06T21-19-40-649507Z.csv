@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-10-06T20:23:10.120576Z,io.github.voidly-ai/agent-wallet-kit,Voidly Agent Wallet,0.1.1,https://github.com/voidly-ai/agent-wallet-kit,,Local Base USDC wallet for agents with capped x402 payments and Marketplace recovery.
+2026-10-06T20:26:08.668656Z,io.github.rowstile/rowstile,rowstile,0.1.0-alpha.5,https://github.com/rowstile/rowstile,,"Check, test, prove and review a rowstile policy: access rules for Postgres row-level security"
+2026-10-06T20:30:27.23844Z,io.applyra/mcp-server,Applyra,1.6.0,https://github.com/applyra-io/mcp-server,streamable-http,"App Store Optimization data for AI agents: keyword ranks, scores, competitors, charts"
+2026-10-06T20:32:06.149018Z,com.patrickjv/profile,Patrick Vieira,1.1.0,,streamable-http,"Patrick Vieira, platform engineer in London: profile, work, skills, quick answers, intro requests."
+2026-10-06T20:33:20.520995Z,com.bookasponsor/book-a-sponsor,Book a Sponsor,1.0.0,,streamable-http,"Find brands that already sponsor newsletters like yours, with sponsorship rates."
+2026-10-06T20:35:40.87112Z,com.50heads/mcp,50heads,2026.1006.1,https://github.com/50heads/mcp,streamable-http,Ask fifty verified real people a five-second question and get the split back.
+2026-10-06T20:37:37.811308Z,io.github.jgaethle10/faie,FAIE,1.1.0,,streamable-http,Evidence-first food-infrastructure and resilience intelligence on owned Evercraft Fabric.
+2026-10-06T20:38:19.520132Z,ai.cookwala/cookwala,Cookwala,0.1.0,https://github.com/amado2k5/cookwala,,"Search Cookwala recipes, dry-run them on a device, check safe bands, mandates and SMS. Read-only."
+2026-10-06T20:40:59.951898Z,io.github.nanoparse-dev/nanoparse-mcp,NanoParse,2.0.1,https://github.com/nanoparse-dev/nanoparse-mcp,streamable-http,"Clean Markdown from any URL with Litmus trust signals. $0.005 per page via x402, no account."
+2026-10-06T20:42:28.616057Z,com.defifintechdirectory/x402-tools,AV Hub x402 Tools,1.0.0,,streamable-http,"Pay-per-call agent tools: game plans, store-art briefs, release checklists. 0.02 USDC via x402."
+2026-10-06T20:43:44.83597Z,io.twitterapi/mcp-server,,1.0.0,https://github.com/kaitoInfra/twitterapi-io-mcp-server,streamable-http,"Official twitterapi.io hosted MCP: Twitter/X tweets, users, followers, trends. OAuth or API key."
+2026-10-06T20:45:14.693014Z,com.entityreach/public-resources,EntityReach Corporate Group Intelligence,1.0.0,https://github.com/sens663/entityreach-mcp,streamable-http,"Enterprise account-research resources, product information and reproducible corporate-group samples."
+2026-10-06T20:47:17.157013Z,ai.targetwise/targetwise,TargetWise — B2B Prospecting & Enrichment,1.0.0,https://github.com/sens663/targetwise-mcp,streamable-http,"Find companies and B2B contacts, enrich profiles, and look up work emails and business phones."
+2026-10-06T20:51:32.575876Z,io.github.AnshumanAtrey/domain-history-contact-osint,Domain History Contact OSINT - Previous Owner + WHOIS History,1.0.21,https://github.com/AnshumanAtrey/domain-history-contact-osint,streamable-http,Domain History Lookup - WHOIS History + Past Owner Contacts
+2026-10-06T20:51:35.797866Z,io.github.oneinfer/mcp-server,OneInfer,0.1.0,,streamable-http,"Signed-in OneInfer models, chat, media, Studio movies, music, GPUs, and credits."
+2026-10-06T20:54:43.31639Z,net.duffergolf/duffer-golf,Duffer Golf,1.0.0,,streamable-http,"Read-only Duffer Golf facts: models and prices, room fit, FAQ, dealers and contact."
+2026-10-06T20:56:18.587968Z,uk.co.familyguy/episodes,familyguy.co.uk episode database,1.0.0,,streamable-http,"Lookups over an unofficial Family Guy database: episodes, seasons, characters, cast, crew and facts."
+2026-10-06T20:58:53.702631Z,io.github.chartsmartdev/printsanity,PrintSanity,1.0.0,,streamable-http,"Checks AI-made flyers, cards and posters for print problems and fixes them: size, pixels, QR codes."
+2026-10-06T21:00:02.390175Z,io.github.tonnode/mcp,TONNode — TON blockchain access,0.9.2,https://github.com/tonnode/mcp,streamable-http,"TON liteservers over ADNL: balances, history, get-methods, non-custodial DEX and cross-chain swaps"
+2026-10-06T21:03:31.007138Z,io.github.agentwares/mcp-liveness,,0.3.0,https://github.com/agentwares/servers,streamable-http,"Does an MCP server work for a stock client? By registry name or URL. Tool drift too. Free, no key."
+2026-10-06T21:05:39.599332Z,io.github.oito2/mcp-sync82,sync82,1.0.0,https://github.com/oito2/mcp-sync82,,"Persistent, structured project memory for AI coding agents, stored locally in SQLite."
+2026-10-06T21:07:20.806959Z,ai.veripoint/mcp,Veripoint — AI Company Financial Research,1.1.0,,streamable-http,"AI financial research for private and public companies, with evidence and saved workspace reports."
+2026-10-06T21:11:57.145876Z,dev.insidetheloop/blog,Inside the Loop,1.0.0,,streamable-http,"Read-only search and full text of Inside the Loop posts on AI agents, coding agents and MCP."
+2026-10-06T21:13:20.870378Z,app.suparelay/suparelay,Suparelay,1.0.0,,streamable-http,International calls from your AI agent: price per minute and a Call link to the browser dialer.
+2026-10-06T21:15:55.436723Z,app.pixever/mcp,Pixever,1.0.0,,streamable-http,"Collective, moderated event photo spaces: read status, list media, save a guest photo, react, star."
+2026-10-06T21:16:25.885148Z,dev.willitblender/willitblender,WillItBlender,0.5.0,,streamable-http,"Blender-as-a-service for agents: search 3D assets, run Blender Python, or brief the studio agent."
