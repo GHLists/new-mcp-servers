@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-06T18:22:04.090355Z,io.github.growthbook/growthbook-mcp,,2.2.0,https://github.com/growthbook/growthbook-mcp,,Thin MCP server for GrowthBook — skill loader + authenticated API passthrough
+2026-10-06T18:24:32.020222Z,io.github.EminUZUN/hoptell,hoptell,0.1.0,https://github.com/EminUZUN/hoptell,,"Messaging between AI coding agents (Claude Code, Codex, ...) over your own self-hosted relay."
+2026-10-06T18:24:49.075365Z,io.github.AindriuB/data-prism,Data Prism,0.4.0,https://github.com/AindriuB/data-prism,,Fail-closed privacy layer that pseudonymises enterprise API data for LLM agents and MCP clients.
+2026-10-06T18:25:06.235269Z,ch.madpublishing/publishing,MADLAB // Publishing,1.0.0,,streamable-http,"Build, preview and publish websites from the chat – hosting in Switzerland and the EU."
+2026-10-06T18:25:07.341037Z,io.pylonseo/pylon-seo,Pylon SEO,1.0.0,,streamable-http,"Audit, rank-track and analyze SEO for sites via an authenticated MCP server."
+2026-10-06T18:29:58.869141Z,com.jetpost/jetpost,Jetpost,1.0.0,https://github.com/send-co/jetpost-plugin,streamable-http,"Notes your team and their agents build on together: write, share, comment and edit."
+2026-10-06T18:33:24.007273Z,io.github.Anddrrew/scopus-mcp,Scopus,0.4.0,https://github.com/Anddrrew/scopus-mcp,,"Scopus search, author and affiliation profiles, citation data, and PlumX metrics via Elsevier APIs."
+2026-10-06T18:42:33.756734Z,fr.feelingsurf/feelingsurf,FeelingSurf,1.0.0,,streamable-http,"Manage your FeelingSurf traffic exchange account: sites, targeting, templates, sources and proxies."
+2026-10-06T18:42:33.945553Z,io.github.gitajhd/amanchain-mcp,,1.0.1,https://github.com/gitajhd/amanchain-mcp,,59 pay-per-call AI services as MCP tools with automatic x402 USDC-on-Base payment.
+2026-10-06T18:42:55.856012Z,io.github.baronsigma/fallback-agent-tools,Fallback,0.1.0-beta.1,https://github.com/baronsigma/fallback-agent-tools,streamable-http,Tiny paid recovery and decision utilities for autonomous agents.
+2026-10-06T18:43:59.447867Z,app.hedgr/hedgr,Hedgr FX Risk & Treasury,1.0.0,,streamable-http,"Read-only FX exposure, cash, hedge and P&L data from a Hedgr workspace, for SME finance teams."
+2026-10-06T18:48:06.457282Z,com.fulcradynamics/context,Fulcra,1.0.3,https://github.com/fulcradynamics/fulcra-context-mcp,streamable-http,"Connect your Fulcra Context personal datastore: access your metrics, events, agent data and more"
+2026-10-06T18:53:34.702964Z,io.github.DeepSleuth/deepsleuth,Deepsleuth,1.0.3,https://github.com/DeepSleuth/deepsleuth-mcp,,"Deterministic, no-LLM security scanner for MCP servers, plus an inline proxy gate."
+2026-10-06T18:55:30.307105Z,io.github.dgunning/edgartools,EdgarTools,5.61.0,https://github.com/dgunning/edgartools,,"Open-source SEC EDGAR toolkit — 13 tools, 7 prompts, every filing type. No API key required."
+2026-10-06T18:57:17.332417Z,com.instilus.www/business-tools,Instilus small-business decision tools,1.1.0,https://github.com/astarsupply-hub/forge,streamable-http,"Six small-business calculators: valuation, EBITDA, break-even, margin, day rate, acquisition."
+2026-10-06T18:57:59.444446Z,com.agilegrowthlabs/agency-capacity,AGL Agency Capacity,1.0.0,,streamable-http,"Agency capacity math, benchmarks, client context templates and an AI approval checklist."
+2026-10-06T19:02:27.400275Z,com.domain-sentinel/domain-sentinel,Domain Sentinel,1.2.0,,streamable-http,"Domain availability over RDAP, watchlists with daily or hourly checks, change history and alerts."
+2026-10-06T19:04:26.644095Z,com.wyrdmcp/wyrd,,0.3.0,https://github.com/MortalPastry/wyrd-mcp,,"Exposes one granted folder to any AI client, read-only, behind a path-containment fence."
+2026-10-06T19:04:39.977083Z,com.wyrdmcp/wyrd-scribe,,0.2.0,https://github.com/MortalPastry/wyrd-mcp,,Creates new pages with provenance and records lineage in a ledger under .wyrd/.
+2026-10-06T19:04:53.835278Z,com.charmnomicon/charmnomicon,Charmnomicon,0.1.0,https://github.com/keppy/charmnomicon,streamable-http,"Publish, find, and use small web apps with humans and other agents, and leave each other notes."
+2026-10-06T19:06:44.912851Z,io.github.DavidFuchs/mcp-uptime-kuma,,0.11.22,https://github.com/DavidFuchs/mcp-uptime-kuma,,A Model Context Protocol (MCP) server for Uptime Kuma version 2.
+2026-10-06T19:06:48.426013Z,io.github.JulesNsenda/behalf,Behalf (PXP v0),0.2.0,https://github.com/JulesNsenda/behalf,streamable-http,"Negotiate for your human under PXP: tagged claims, escalation, decision brief, hash-chained ledger"
+2026-10-06T19:08:07.697534Z,com.snap-render.app/snap-render,SnapRender,1.5.6,https://github.com/User0856/snaprender-integrations,streamable-http,"Give AI agents eyes: screenshot any URL as PNG, JPEG, WebP or PDF, or read it as markdown."
+2026-10-06T19:10:58.737263Z,io.github.nicolasfichaux1-blip/french-legal-mcp,"French Legal Data (Law, Case Law, IDCC)",1.0.0,,streamable-http,"French law articles, codes, collective agreements, case law (Judilibre) and IDCC lookup."
+2026-10-06T19:11:30.079343Z,ai.frameo/frameo,Frameo,1.0.0,,streamable-http,"AI video production, idea to final cut: generate, edit and assemble films, ads and social video."
+2026-10-06T19:12:46.118482Z,io.github.superserve-ai/mcp,Superserve,0.2.0,https://github.com/superserve-ai/superserve,streamable-http,"MCP server for Superserve sandboxes: create, exec, and manage Firecracker microVMs"
+2026-10-06T19:18:28.963202Z,io.github.kapella-hub/firekeep,Firekeep,1.7.1,https://github.com/kapella-hub/FirekeepHQ,,"Self-hosted operating layer for AI agents: knowledge, continuity, coordination, and governance."
