@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-10-07T01:24:13.575555Z,io.github.cigo240920/cigo-aircare,Cigo Aircare & Carsafe,1.0.0,https://github.com/cigo240920/Cigo-MCP-system,streamable-http,"씨고 나노섬유 카세이프 맞춤 차량용 필터 규격 조회, 환경 리스크 진단 및 B2B 공조 솔루션"
+2026-10-07T01:26:59.561545Z,io.github.WYRE-AI/sentinelone-mcp,SentinelOne (Purple),1.0.8,https://github.com/WYRE-AI/sentinelone-mcp,,Multitenant Streamable HTTP wrapper for the SentinelOne purple-mcp server.
+2026-10-07T01:31:16.012148Z,ai.tanvo/tanvo-mcp,Tanvo,0.2.0,https://github.com/tanvoai/tanvo-mcp,,"AI photo, video and song apps plus image, video and music generation on Tanvo (tanvo.ai)."
+2026-10-07T01:35:53.732364Z,market.mundane/mundane,Mundane,0.1.16,https://github.com/sttruji/mundane-mcp,streamable-http,"Hire verified, escrow-paid humans for real-world tasks: errands, photos, queues, bookings."
+2026-10-07T01:53:32.15974Z,io.github.OrtaMarco/domain-security-mcp-server,Domain Security,1.2.2,https://github.com/OrtaMarco/domain-security-mcp-server,,"Audit a domain's email and web security: SPF, DKIM, DMARC, MTA-STS, DNSSEC, TLS, WHOIS. No API keys."
+2026-10-07T01:58:25.966807Z,io.github.ai-wes/text-to-reality,text-to-reality,0.1.1,https://github.com/ai-wes/text-to-reality,,"Turn an idea into a device anyone can build: parts, printed parts, wiring, code and a picture guide."
+2026-10-07T01:58:39.311473Z,io.github.vamsiy78/ballmac,,1.0.2,https://github.com/vamsiy78/ballmac-ui,,"Search, inspect and install Ballmac UI React and Tailwind components, blocks and templates."
+2026-10-07T02:05:07.341918Z,ai.adplane/google-ads,adplane,1.30.0,,streamable-http,"Google, Meta and Microsoft Ads in Claude or ChatGPT: reports and changes. New items start paused."
+2026-10-07T02:06:01.346016Z,io.github.SPFreedom/showrealcost,,0.1.0,,streamable-http,"Loan-cost math: payments, payoff time, offers with fees, payday loans, Rule of 78s, Fed rates."
+2026-10-07T02:06:02.624841Z,dev.shveik/agmail,agmail,1.0.0,,streamable-http,"Email inboxes for agents by the hour: wait for a mail, get the code or link. Pay per call."
+2026-10-07T02:08:11.779576Z,com.cnccompass/suppliers,CNC Compass,1.0.0,,streamable-http,"Search reviewed Chinese CNC machining suppliers, with each fact linked to its source page."
+2026-10-07T02:09:03.146118Z,io.github.pubship/pubship,PubShip,0.24.0,https://github.com/pubship/pubship,,Google Play reads and explicitly opted-in operations using your own local Google access.
+2026-10-07T02:13:01.651559Z,com.creatinginai/performance-atlas,Performance Atlas,1.0.0,,streamable-http,Acting direction for AI video and voice: state-based behaviour kits and a free prompt linter.
+2026-10-07T02:15:17.520968Z,com.ohgiftplease/gift-discovery,OhGiftPlease Gift Discovery,1.0.0,https://github.com/racharmi/-ohgiftplease-mcp,streamable-http,"Person-first gift discovery with curated ideas, guides, categories, and brands."
+2026-10-07T02:18:29.785982Z,co.zeroslide.match/zeroslide-match,Zeroslide Match,0.1.0,,streamable-http,"Private B2B matching: your agent finds clients, partners and investors; you meet on double opt-in."
