@@ -1,0 +1,12 @@
+created_at,server,title,version,repository,transports,description
+2026-10-06T23:26:07.273086Z,io.github.qso-graph/cq-zones-mcp,,0.1.0,https://github.com/qso-graph/cq-zones-mcp,,"CQ zones as CQ publishes them (WAZ Zone Definitions), in ADIF's DXCC and subdivision codes"
+2026-10-06T23:26:11.085566Z,io.github.qso-graph/itu-zones-mcp,,0.1.0,https://github.com/qso-graph/itu-zones-mcp,,"ITU zones as the IARU publishes them for amateur use, in ADIF's DXCC and subdivision codes"
+2026-10-06T23:26:14.056335Z,io.github.qso-graph/darc-dok-mcp,,0.1.0,https://github.com/qso-graph/darc-dok-mcp,,"DARC DOKs and special DOKs as DARC publishes them, with validity windows"
+2026-10-06T23:30:14.657254Z,com.feelswebman/geo-bot,GEO-bot,1.0.0,,streamable-http,"Free check whether a website is technically open to AI assistants (AI crawlers, llms.txt, JSON-LD)."
+2026-10-06T23:30:33.532087Z,com.edgedepth/research,EdgeDepth Research,0.11.0,https://github.com/edgedepthhq/edgedepth-research-mcp,streamable-http,"Test crypto-perpetual claims using recorded counts, baselines, and replay."
+2026-10-06T23:35:39.235111Z,io.github.IcaroBichir/lorcana,Disney Lorcana TCG Collection,2.5.0,https://github.com/IcaroBichir/lorcana-mcp,,"MCP server for Disney Lorcana TCG: enrich collections, search cards, build decks, audit data."
+2026-10-06T23:36:55.231103Z,pro.pocketestimator/pocketestimator,pocketestimator,0.1.0,https://github.com/homezloco/pocketestimator,streamable-http,Branded job estimates and client approvals for independent contractors.
+2026-10-06T23:41:45.86907Z,properties.hercules/property-data,Hercules property data,1.0.0,,streamable-http,"NYC and US property records: owners, LLC officers, mortgages, pre-foreclosures and investors."
+2026-10-06T23:50:07.052876Z,io.github.jeanpfs/stock-images-mcp,Stock Images MCP,2.0.0,https://github.com/jeanpfs/stock-images-mcp,,"Search and download free stock images from Pexels, Unsplash, and Pixabay."
+2026-10-06T23:51:51.370498Z,io.github.PGhannmmn/hash-encoding-direct-credits,Hash Encoding Direct Credits,0.1.0,,streamable-http,"Deterministic SHA, HMAC, Base64 and JWT decode tools with prepaid direct-USDC API credits on Base."
+2026-10-07T00:06:30.946639Z,ai.velarion/company-intelligence,Velarion Company Intelligence,0.2.2,,streamable-http,"Cited exec, director and say-on-pay data for about 3,000 US public companies. Free tier, no card."
