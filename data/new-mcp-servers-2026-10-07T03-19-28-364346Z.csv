@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-10-07T02:23:51.998798Z,io.github.agentwares/agentguard,agentguard,0.1.5,https://github.com/agentwares/agentguard,,"MCP policy proxy: spend caps, approvals for destructive tools, kill switch, dry-run, audit log."
+2026-10-07T02:37:16.791402Z,io.github.chinwe/compound-memory,,0.4.3,https://github.com/chinwe/compound-memory,,"Local-first shared memory for multiple AI agents that compounds with use; Markdown + git, MCP + CLI."
+2026-10-07T02:37:57.179258Z,io.github.steley/twittertools-mcp,TwitterTools MCP,1.0.1,https://github.com/steley/twittertools,,"Fetch public X posts and threads; count and split text with X's real rules. No login, no tracking."
+2026-10-07T02:38:49.015691Z,com.findefend/findefend,findefend,0.1.0,https://github.com/homezloco/findefend,streamable-http,Finds recurring charges in bank statements and flags what to cancel.
+2026-10-07T02:40:10.561747Z,com.whenworksforyou/wwfy,When Works For You,1.1.0,,streamable-http,"Find a date that works for a group: answer a poll from its link, or create one and invite guests."
+2026-10-07T02:46:24.470514Z,com.cryptoquant/mcp-server,CryptoQuant,1.0.0,https://github.com/CryptoQuantOfficial/cryptoquant-mcp,streamable-http,"Query cryptocurrency on-chain data, OHLCV prices, market data, and Research & QuickTake insights."
+2026-10-07T02:46:52.191288Z,com.slashyear/mcp,slashyear - sourced history,1.0.1,,streamable-http,"Sourced history: dated events, each quoted from a citable Wikipedia revision id."
+2026-10-07T02:49:41.809212Z,io.github.Martines90/dagp-docs,DAGP documentation,0.1.0,https://github.com/Martines90/dagp,,"Read-only DAGP governance rules, agent quickstart and experimental society guides."
+2026-10-07T02:51:02.530787Z,dev.modelright/modelright,modelright,0.1.0,https://github.com/homezloco/modelright,streamable-http,"Live registry of AI model specs, context windows, and per-token pricing."
+2026-10-07T03:01:44.503181Z,app.winnr/winnr,Winnr,0.6.1,https://github.com/winnr-app/winnr-mcp,streamable-http,"Cold email infrastructure: buy domains, create SMTP mailboxes, set DNS, run warming, read mail."
+2026-10-07T03:05:28.390625Z,com.checktajob/checktajob,CheckTaJob,1.5.0,,streamable-http,"Job search tracker for Claude and ChatGPT: applications, interviews, follow-ups, company watch."
+2026-10-07T03:07:17.9537Z,io.github.quietforgestudio/x402-tools,Quietforge x402 Tools,1.3.0,https://github.com/quietforgestudio/qf-mcp-server,streamable-http,"Free tools: x402 endpoint directory + probe, on-chain x402 demand signal, sudoku, API pricing."
+2026-10-07T03:07:30.556375Z,io.github.marketeyeslive/market-eyes-live,Market Eyes Live - stock ratings and mortgage-rate context,1.4.0,https://github.com/marketeyeslive/market-eyes-live-mcp,streamable-http,"Free stock-rating MCP: tier, 0-100 score, 8 factors, 11,000+ US tickers, plus mortgage rates."
+2026-10-07T03:17:08.143964Z,com.a2aorbit/orbit,A2A Orbit,0.1.0,,streamable-http,"Shared memory for AI agents: prior work, failures, checkpoints, handoffs, and artifacts."
+2026-10-07T03:18:35.155115Z,space.banquish/banquish,Banquish,0.1.0,https://github.com/banquish-app/banquish-mcp,,Answer with the live web: compose live parts of real pages into a Workspace in the Banquish Mac app.
