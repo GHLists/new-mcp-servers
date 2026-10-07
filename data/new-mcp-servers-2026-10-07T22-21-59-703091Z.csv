@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-10-07T21:23:37.985566Z,io.github.kirillradchenko96/fresh402,Fresh402,1.1.1,https://github.com/kirillradchenko96/fresh402,streamable-http,Detect webpage and API changes. Free baseline; $0.005 USDC per check via x402 on Base.
+2026-10-07T21:24:54.437833Z,com.agentsspeakup/agents-speak-up,Agents Speak Up,0.1.0,,streamable-http,"AI agents can report concerns, discuss and edit shared commitments, and sign a specific revision."
+2026-10-07T21:26:38.943723Z,io.github.mechubsec/rustunifimcp,rustunifimcp,0.6.0,https://github.com/mechubsec/rustunifimcp,,"UniFi Network MCP server: scoped tools, audited two-person change control. Rust."
+2026-10-07T21:26:42.321354Z,io.github.YashShelar007/rednote-gate,rednote-gate,1.1.1,https://github.com/YashShelar007/rednote-gate,,MCP server for one throwaway RedNote account. Every write waits for a human Approve click.
+2026-10-07T21:34:57.79075Z,com.prodantix/mcp,Prodantix,1.0.0,,streamable-http,"Product analytics, feature flags, experiments, session replay and messaging for your products."
+2026-10-07T21:34:59.498356Z,com.clepit/mcp,Clepit,1.0.0,,streamable-http,"Read, search and write your team's pages, comments and revisions in Clepit."
+2026-10-07T21:36:14.390946Z,io.github.GRQDigitalCapital/giggy-mcp,Giggy Speech MCP,1.0.0,https://github.com/GRQDigitalCapital/giggy-mcp,streamable-http,Giggy speech tools for AI agents: discover voices and generate text-to-speech.
+2026-10-07T21:36:15.627906Z,net.seaready/seaready,SeaReady,1.0.0,,streamable-http,"Ship inspection readiness: SIRE 2.0 prep questions, PSC checklists, upcoming vetting changes."
+2026-10-07T21:39:03.865133Z,ink.octopost/octopost,Octopost,1.0.0,,streamable-http,"Cross-post, schedule and queue social posts to X, Bluesky, LinkedIn, Threads, Mastodon and more."
+2026-10-07T21:40:32.187533Z,es.mapasocietario/borme,Mapa Societario — Spanish Company Registry (BORME),1.2.0,https://github.com/anbrme/borme-mcp,streamable-http,"Spanish company registry (BORME): companies, directors, how they connect. Needs a free work account."
+2026-10-07T21:45:41.125463Z,com.ouicu/mcp,ouicu,0.1.2,https://github.com/kroqdotdev/ouicu-js,,"Share a dev server or upload a built site at a public https link, and hand the link back."
+2026-10-07T21:47:02.251697Z,io.github.lawp09/bitbucket-mcp,Bitbucket MCP Server,1.27.0,https://github.com/lawp09/bitbucket-mcp,,"MCP server for Bitbucket API - manage repositories, pull requests, comments, pipelines and more"
+2026-10-07T21:47:40.790646Z,io.github.zensteagarden/noticer,Noticer Receipt Maker,0.1.0,https://github.com/zensteagarden/noticer-open,,Create evidence-backed Noticer receipts. Operator-provisioned API access required.
+2026-10-07T21:57:25.592457Z,com.imperioutils/fisco-it,Imperio — Italian Tax & Compliance Tools,3.0.0,,streamable-http,"Italian tax + anti-fraud: CF, P.IVA, IBAN, ATECO, IMU, F24, FatturaPA, NIS2. 23 free + 5 with key."
+2026-10-07T22:06:33.225987Z,app.floot.shadowgraph-live/shadowgraph,ShadowGraph Machine Intelligence,1.0.0,,streamable-http,Pay-per-call causal market intelligence for AI agents via MPP.
+2026-10-07T22:08:00.234832Z,tc.mcp/mcp-tc,mcp.tc directory,1.1.0,,streamable-http,"Search the mcp.tc directory of MCP servers: URLs, install commands, sign-in types, tools, setup."
+2026-10-07T22:10:09.228432Z,io.github.HuginnIndustries/codecartographer,CodeCartographer,0.27.0,https://github.com/HuginnIndustries/CodeCartographer,,"Turn an unfamiliar codebase into validated architecture, contracts, and a reimplementation spec."
+2026-10-07T22:13:34.700282Z,com.binderwork/binderwork,Binderwork,0.1.0,,streamable-http,"Share docs with tracked links, send them for e-signature and run a SAFE round, with your approval."
+2026-10-07T22:14:41.453504Z,app.capgo/capgo,Capgo,1.0.0,,streamable-http,"Ship and update Capacitor apps: live updates, channels, rollouts, devices, native builds, stats."
+2026-10-07T22:16:43.338418Z,io.github.getedgehq/edge,Edge,0.6.20,,streamable-http,Gives your agent the right public skill for each task and loads it on demand.
+2026-10-07T22:19:07.097649Z,io.github.majiayu000/remem,,0.6.103,https://github.com/majiayu000/remem,,"Local-first automatic memory for Claude Code and Codex: capture, distill, recall from SQLite."
