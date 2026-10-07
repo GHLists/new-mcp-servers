@@ -1,0 +1,13 @@
+created_at,server,title,version,repository,transports,description
+2026-10-07T03:20:39.448496Z,io.github.99darwin/nexus,Nexus AI News,0.1.0,https://github.com/99darwin/nexus,streamable-http,"Deduplicated, classified AI industry news: search, browse, and filter by vertical and event type."
+2026-10-07T03:22:59.647167Z,dev.agentmetal/agentmetal,,0.3.3,https://github.com/agentmetal/mcp,,"Rent a Linux VPS from an AI agent: provision, SSH in, run commands. Pay USDC (x402) or card."
+2026-10-07T03:25:34.50483Z,io.github.decibri/mcp-listen,,0.7.1,https://github.com/decibri/mcp-listen,,Give your AI agents the ability to listen. Microphone capture and speech-to-text.
+2026-10-07T03:41:50.827934Z,dev.workers.sebastiaan-ba3.mcpgateway/tools,,1.0.0,,streamable-http,"Doormat Capital's paid x402 safety tools (token scan, HTTP security headers) for AI agents."
+2026-10-07T03:46:29.386795Z,io.sovrnti/graph,Sovrnti MCP,1.0.0,https://github.com/sovrnti/sovrnti-mcp,streamable-http,"Headless benchmarks for digital sovereignty, scored on Innovation, Control and Scale."
+2026-10-07T03:55:33.673925Z,com.playshowandtell/show-and-tell,Show & Tell,1.0.0,,streamable-http,"Daily photo game: you see a secret word, show it in photos, and your AI guesses it."
+2026-10-07T03:59:32.313001Z,io.github.SRX9/seogeoaeo,seogeoaeo.ai,1.0.0,https://github.com/SRX9/seogeoaeo-mcp,streamable-http,"Research competitors, keywords and ads, and check any site for SEO, AEO and GEO with ranked fixes."
+2026-10-07T04:00:06.728615Z,com.lyntahq/public-documentation,Lynta Public Documentation,1.0.0,,streamable-http,Search and read Lynta's public documentation.
+2026-10-07T04:01:42.698666Z,ai.zdte/market-structure,zdte.ai SPX Market Structure,1.2.0,,streamable-http,"SPX 0DTE dealer market structure: GEX, walls, gamma flip, regime, flow. Free preview; pay per read."
+2026-10-07T04:03:58.245271Z,io.github.rozetyp/emission-factors,Emission Factors,1.1.0,https://github.com/rozetyp/emission-factors-mcp,streamable-http,"Keyless US grid carbon + power cost by ZIP: eGRID Scope 2, Scope 1 fuels, site ranking, clean hours"
+2026-10-07T04:04:59.091924Z,cz.robotio/event-robots,ROBOTio — humanoid robots for events,1.0.0,,streamable-http,"Rent humanoid robots with operators for events in Europe: catalogue, availability, quote request."
+2026-10-07T04:06:35.894845Z,io.github.scoretracker4321/json-mcp-lite,JSON MCP Lite,1.0.0,https://github.com/scoretracker4321/json-mcp-lite,,"Serve any JSON file as read-only list, keyword search and get-by-id MCP tools."
