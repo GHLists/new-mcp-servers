@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-10-07T07:19:12.5206Z,com.xeorank/xeorank,XeoRank,1.0.0,,streamable-http,"SEO, AEO and GEO audits, rank tracking, AI-citation scans and WordPress editing for any site."
+2026-10-07T07:21:52.553642Z,com.trymimetic/mimetic,Mimetic,1.0.0,,streamable-http,"Read a site's analytics, audit findings and session recordings, and set up tracking it lacks."
+2026-10-07T07:28:25.240573Z,com.merageo/ai-visibility,meraGEO AI Visibility,0.1.0,,streamable-http,"Check how visible a website is in ChatGPT, Claude and Gemini answers, and start a new scan."
+2026-10-07T07:28:25.817148Z,eu.scheir/portfolio,Pieter-Jan Scheir,1.0.0,,streamable-http,"Profile, projects, experience, skills and contact details of an AI-first full-stack developer."
+2026-10-07T07:31:52.850132Z,io.github.PabloG6/pdfparse,PdfParse,0.1.0,https://github.com/PabloG6/pdfparse-integrations,streamable-http,"Extract PDFs into structured tables, query records, and configure document inbox workflows."
+2026-10-07T07:32:43.35807Z,ai.myporta/myporta,MyPorta,1.0.0,,streamable-http,"Find UK homes for sale and to rent, matched to your wishes, with nearby schools and area guides."
+2026-10-07T07:38:15.968497Z,io.github.mrsergeiluzhnov/xonta-docs,Xonta Docs RU,1.0.0,https://github.com/mrsergeiluzhnov/xonta-docs,streamable-http,"Russian business docs for AI agents: INN/bank checks, amount in words, name declension, workdays"
+2026-10-07T07:44:10.332651Z,app.web.yutai-mcp/yutai-mcp,株主優待 MCP (Yutai MCP),1.0.0,,streamable-http,"Japanese shareholder benefits search, cross-trading cost estimates, and trading date calculations."
+2026-10-07T07:44:58.903905Z,tech.sripto.axi/axi,Artificial eXperience Intelligence (AXI),2.0.0,,streamable-http,"AXI design reviews, gated AXI Score, and paper search for AI assistants, agents, and robots."
+2026-10-07T07:45:49.23957Z,de.alcometer/mcp,alcometer.de — Promillerechner,1.0.0,,streamable-http,"German blood-alcohol estimates (permille), drink servings and drink-driving limits. Read-only."
+2026-10-07T07:53:27.464494Z,io.github.entryriskscore/entry-risk-score,Entry Risk Score,1.0.0,,streamable-http,Entry-risk score for Binance USDT-M perpetuals: how risky is entering now. Not a signal.
+2026-10-07T07:53:34.294247Z,com.magicmarkets/mcp,MagicMarkets,1.0.0,https://github.com/magicmarkets/magicmarkets-cli,streamable-http,"Sports prediction markets for AI agents — live prices, quotes, orders, and positions."
+2026-10-07T07:54:37.858522Z,com.fabricatedemail/mcp,fabricatedemail,1.0.0,https://github.com/rolfkbk/fabricatedemail-mcp,streamable-http,"Disposable email addresses for tests and agents: register, wait for mail, extract codes and links."
+2026-10-07T07:55:48.28228Z,io.github.voidly-ai/voidly-hosted,Voidly Hosted MCP,2.25.0,https://github.com/voidly-ai/pay-mcp,streamable-http,"Voidly MCP: research, Atlas score, capabilities; gated Voidpay, Voidmail, Home, board and bounty."
+2026-10-07T07:56:50.591074Z,audio.ditto/tts,ditto.audio,1.2.0,https://github.com/ditto-audio/ditto-mcp,streamable-http,Text-to-speech: browse voices and synthesize natural speech from text with ditto.audio.
+2026-10-07T07:58:03.10158Z,io.github.djaxho/amorphous,,0.1.3,https://github.com/djaxho/amorphous-plugin,,A page people use together. Your own agent builds it.
+2026-10-07T07:58:28.723058Z,io.github.Wh-bi/wanhe-compliance,Wanhe Compliance — Chinese Content Compliance Checker,1.1.2,https://github.com/Wh-bi/wanhe-compliance-mcp,streamable-http,"Chinese content compliance: ad-law banned terms + AI-labeling rules, citing exact legal provisions."
+2026-10-07T08:02:49.048309Z,nl.tryvon/tryvon,Tryvon,1.1.1,,streamable-http,"Dutch price comparison, starting with travel eSIMs: total price, delivery and price history."
+2026-10-07T08:05:33.358768Z,io.github.fernikolic/perception,Perception,1.6.1,,streamable-http,"Narrative intelligence from thousands of curated media sources, delivered to AI through MCP."
+2026-10-07T08:08:32.432874Z,com.endurancewire/endurancewire,Endurance Wire,1.2.0,,streamable-http,"Endurance gear release dates, launch prices, generation comparisons, rumors and launch predictions."
+2026-10-07T08:11:25.372515Z,io.github.sdamarketing/tracker-mcp,Yandex Tracker,1.0.7,https://github.com/sdamarketing/tracker_mcp,,MCP server for Yandex Tracker: full API v3 coverage (187 tools)
+2026-10-07T08:14:04.599646Z,io.github.chrisgleissner/c64bridge,C64 Bridge,1.0.3,https://github.com/chrisgleissner/c64bridge,,MCP server for Commodore 64 Ultimate hardware and VICE emulator control.
+2026-10-07T08:17:33.408193Z,io.github.Digilac/simap-mcp,,1.5.0,https://github.com/Digilac/simap-mcp,,MCP server for simap.ch - Swiss public procurement platform
+2026-10-07T08:19:54.082464Z,si.privatesuperintelligence/private-superintelligence,Private SuperIntelligence,0.1.0,https://github.com/OperatingSystem-1/private-superintelligence-agent,streamable-http,"Private SuperIntelligence by Mitosis Labs: define the term, see privacy layers, join the waitlist."
