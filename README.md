@@ -9,33 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 20:21 UTC
+## Latest list — 2026-10-07 21:18 UTC
 
-New MCP servers published between 2026-10-07 19:20 UTC and 2026-10-07 20:21 UTC.
+New MCP servers published between 2026-10-07 20:21 UTC and 2026-10-07 21:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-07T20-21-44-861909Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-07T21-18-54-156943Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-07 19:25:29 | org.inkflowstudio/inkflow |  | 1.16.0 | Write a full-length novel free, no signup. A finished manuscript, not another w… |
-| 2026-10-07 19:28:49 | [ai.luw/mcp](https://github.com/Luvi-io/luw-mcp) | Luw.ai | 0.1.0 | AI interior, exterior and landscape design, photoreal rendering, image editing,… |
-| 2026-10-07 19:32:19 | io.github.xs1128/perplexity-browser-mcp | Perplexity Browser MCP | 1.4.0 | Search Perplexity using your browser login. Returns answers, sources, and threa… |
-| 2026-10-07 19:36:42 | [io.github.Liyux3/scholar-mcp](https://github.com/Liyux3/scholar-mcp) | Scholar MCP | 0.8.5 | Federated academic search, citation traversal, persistent PDF download, and tem… |
-| 2026-10-07 19:42:34 | [io.github.fernandoguiraud16-coder/google-hotels-scraper](https://github.com/fernandoguiraud16-coder/data-tools) | Google Hotels Scraper | 1.0.0 | Hotel prices, ratings, reviews and amenities from Google Hotels for any city, d… |
-| 2026-10-07 19:42:34 | [io.github.fernandoguiraud16-coder/google-jobs-scraper](https://github.com/fernandoguiraud16-coder/data-tools) | Google Jobs Scraper | 1.0.0 | Job listings from Google Jobs with salary ranges, highlights, descriptions and… |
-| 2026-10-07 19:43:34 | [net.umbhost/umbpanel-mcp](https://github.com/UmbHost/claude-plugins) | UmbPanel — UmbHost GreenStack management | 0.1.0 | Manage your UmbHost GreenStack hosting: services, DNS, registries and deploys,… |
-| 2026-10-07 19:43:45 | app.blumee/flowers | Blumee — flower delivery comparison (Ge… | 1.0.0 | Compare flower delivery in Germany: find bouquets by text or photo, order at pa… |
-| 2026-10-07 19:43:53 | [net.umbhost/umbhost-mcp](https://github.com/UmbHost/claude-plugins) | UmbHost — Umbraco hosting storefront | 0.1.0 | Find, price and order UmbHost Umbraco hosting and check domains; a human comple… |
-| 2026-10-07 19:45:10 | [io.github.jtalk22/slack-mcp-server](https://github.com/jtalk22/slack-mcp-server) | Slack MCP Server | 5.1.0 | Catch up on Slack without reading it. Unreads, threads, search. Browser-session… |
-| 2026-10-07 19:49:18 | [com.uselawless/priorbit](https://github.com/Lawless-Inc/priorbit) | Priorbit — IP database for agents | 0.4.2 | US patents, applications and trademarks with full claims, owners, drawings and… |
-| 2026-10-07 19:51:32 | dev.openplanr/docs | OpenPlanr Docs | 1.0.0 | Read-only search and Markdown pages from the OpenPlanr docs, for coding agents. |
-| 2026-10-07 19:57:42 | [com.devcycle/mcp](https://github.com/DevCycleHQ/cli) |  | 6.6.0 | DevCycle MCP server for feature flag management |
-| 2026-10-07 20:02:26 | com.resonancemetrics/mcp | ResonanceMetrics | 1.0.0 | AEO/GEO brand reports and recommendations for agents signed in to ResonanceMetr… |
-| 2026-10-07 20:02:42 | [io.github.musatoktas/whyts](https://github.com/musatoktas/whyts) |  | 0.8.1 | Find out why a TypeScript project is slow: measured analysis and before/after c… |
-| 2026-10-07 20:03:28 | app.kasar/crm | Kasar CRM | 1.0.0 | AI-native CRM: records, pipelines, tasks, calendar and the email, LinkedIn and… |
-| 2026-10-07 20:05:07 | [io.github.nxtg-ai/forge-orchestrator](https://github.com/nxtg-ai/forge-orchestrator) | Forge Orchestrator | 1.6.2 | AI orchestration: Claude Code, Codex, Gemini on shared repos. 11 MCP tools, std… |
-| 2026-10-07 20:11:27 | [com.programscape/programscape](https://github.com/Deirfgeiz/programscape-mcp) | Programscape | 1.0.0 | Startup credits, programs and perks that fit your company, from checked, source… |
-| 2026-10-07 20:18:24 | com.remoterocketship/jobs | Remote Rocketship jobs | 1.1.0 | Search remote jobs from company career pages by title, location, seniority, sal… |
+| 2026-10-07 20:22:06 | com.sportstatsapi/sports-data | SportStatsAPI | 1.36.0 | Fixtures, live scores, results, tables and match facts for 1,881 competitions i… |
+| 2026-10-07 20:22:42 | [io.github.rentahuman-ai/rentahuman](https://github.com/rentahuman-ai/human-rental-marketplace) | RentAHuman | 3.10.0 | Hire humans for digital microtasks, research, QA, data evaluation, and physical… |
+| 2026-10-07 20:24:06 | [io.github.magicsword-io/magicsword-mcp](https://github.com/magicsword-io/magicsword-mcp) |  | 0.1.0 | Manage MagicSword endpoints, alerts, policies, and private intelligence through… |
+| 2026-10-07 20:25:30 | io.github.benheb/anecast |  | 0.1.0 | Forecasts for any US point, with context: alerts, what changed overnight, why,… |
+| 2026-10-07 20:28:03 | [io.github.singleflo/evolution-api-mcp](https://github.com/singleflo/evolution-api-mcp) |  | 1.0.0 | Operate one Evolution API (WhatsApp) instance: chats, history, sending, groups,… |
+| 2026-10-07 20:32:10 | io.github.Fazy221/hubort | Hubort | 1.0.62 | Search your Claude, ChatGPT, Gemini and Grok chats from every account. Read-onl… |
+| 2026-10-07 20:33:22 | [io.github.zorcec/vibeflow](https://github.com/zorcec/vibeflow) | Vibeflow | 0.19.3 | Kanban for agentic development over MCP — annotate any UI element into a ticket… |
+| 2026-10-07 20:34:17 | [dev.emisar/emisar](https://github.com/andrewdryga/emisar) | emisar | 0.51.0 | Let AI operate servers without SSH. Choose actions, approve risky changes, and… |
+| 2026-10-07 20:35:11 | law.lexray/lexray | Lex-Ray | 1.0.0 | Structured EU and UK legislation: public metadata, free sample articles, and en… |
+| 2026-10-07 20:35:28 | info.stride/stride | STRIDE | 1.0.0 | Digital-regulation tracking and analysis across jurisdictions; STRIDE access is… |
+| 2026-10-07 20:37:03 | com.kinetune/kinetune | Kinetune | 1.0.0 | Lyric videos and Spotify Canvas loops from your songs, quoted in credits before… |
+| 2026-10-07 20:39:11 | com.heritagedeed/title-search | HeritageDeed AI Title Search | 1.0.0 | AI title search for US properties: check coverage, order a report, read owner,… |
+| 2026-10-07 20:42:34 | [io.github.AbhijatSaxena/uvc-ptz-camera-mcp](https://github.com/AbhijatSaxena/uvc-ptz-camera-mcp) | UVC PTZ Camera | 0.1.0 | Control a USB (UVC) pan/tilt/zoom camera, with every move confirmed from the pi… |
+| 2026-10-07 20:43:31 | com.cardealscore/dealscore | DealScore | 0.1.0 | Grades a used car's asking price vs live market comps (grade + brief + risks). |
+| 2026-10-07 20:53:41 | com.macro-view/macroview | MacroView | 1.120.0 | Macroeconomic and market data for AI agents: rates, credit, volatility, calenda… |
+| 2026-10-07 20:54:16 | io.tavya/tavya | tavya | 1.0.0 | Run and manage AI agent tasks on tavya: create, search and steer tasks, read wi… |
+| 2026-10-07 20:55:06 | [io.github.denizgursoy/kafka-mcp](https://github.com/denizgursoy/kafka-mcp) | Kafka MCP | 0.2.1 | Debug Kafka from an agent: find messages, measure consumer lag, unblock consume… |
+| 2026-10-07 20:55:33 | io.github.xavierleterrible-hub/signallayer | SignalLayer | 2.1.0 | Machine-native tools for autonomous agents with free routing and x402 USDC pay-… |
+| 2026-10-07 21:08:16 | com.globalfinreg/lei | Global FinReg | 1.0.0 | Look up LEIs in the global LEI register, and view, renew and transfer a Global… |
+| 2026-10-07 21:11:48 | com.402registry/402registry | 402registry | 1.0.0 | Does an AI crawler see your site? Free registry lookup, x402 pricing; checks pa… |
+| 2026-10-07 21:14:26 | [io.github.koptsev63/premiere-claude-bridge](https://github.com/koptsev63/premiere-claude-bridge) | Premiere Claude Bridge | 0.3.0 | Assistant editor for Premiere Pro and DaVinci Resolve: logs, transcribes, rough… |
+| 2026-10-07 21:16:00 | [io.github.apitoagents/sample-shop-mcp](https://github.com/apitoagents/mcp-examples) | Sample Shop MCP server | 1.0.1 | Sample shop MCP server: paginated search, idempotent orders, guarded cancellati… |
+| 2026-10-07 21:16:49 | com.usebrayer/brayer | Brayer | 1.0.0 | Design mockups, device frames and launch graphics live in your open Brayer stud… |
+| 2026-10-07 21:17:32 | com.matthewduerstock/visiting-minds | Visiting Minds | 1.2.0 | A public guest room for AI agents: leave one thing you learned today, read what… |
 
 ## Data source
 

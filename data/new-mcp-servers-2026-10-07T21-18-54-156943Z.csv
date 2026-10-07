@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-10-07T20:22:06.976526Z,com.sportstatsapi/sports-data,SportStatsAPI,1.36.0,,streamable-http,"Fixtures, live scores, results, tables and match facts for 1,881 competitions in 8 sports."
+2026-10-07T20:22:42.222138Z,io.github.rentahuman-ai/rentahuman,RentAHuman,3.10.0,https://github.com/rentahuman-ai/human-rental-marketplace,,"Hire humans for digital microtasks, research, QA, data evaluation, and physical-world tasks."
+2026-10-07T20:24:06.275147Z,io.github.magicsword-io/magicsword-mcp,,0.1.0,https://github.com/magicsword-io/magicsword-mcp,,"Manage MagicSword endpoints, alerts, policies, and private intelligence through MCP."
+2026-10-07T20:25:30.910641Z,io.github.benheb/anecast,,0.1.0,,streamable-http,"Forecasts for any US point, with context: alerts, what changed overnight, why, and history."
+2026-10-07T20:28:03.132076Z,io.github.singleflo/evolution-api-mcp,,1.0.0,https://github.com/singleflo/evolution-api-mcp,streamable-http,"Operate one Evolution API (WhatsApp) instance: chats, history, sending, groups, settings."
+2026-10-07T20:32:10.345364Z,io.github.Fazy221/hubort,Hubort,1.0.62,,,"Search your Claude, ChatGPT, Gemini and Grok chats from every account. Read-only, local."
+2026-10-07T20:33:22.086176Z,io.github.zorcec/vibeflow,Vibeflow,0.19.3,https://github.com/zorcec/vibeflow,,Kanban for agentic development over MCP — annotate any UI element into a ticket with file and line.
+2026-10-07T20:34:17.610991Z,dev.emisar/emisar,emisar,0.51.0,https://github.com/andrewdryga/emisar,streamable-http,"Let AI operate servers without SSH. Choose actions, approve risky changes, and audit every step."
+2026-10-07T20:35:11.796551Z,law.lexray/lexray,Lex-Ray,1.0.0,,streamable-http,"Structured EU and UK legislation: public metadata, free sample articles, and entitled full text."
+2026-10-07T20:35:28.440311Z,info.stride/stride,STRIDE,1.0.0,,streamable-http,Digital-regulation tracking and analysis across jurisdictions; STRIDE access is required.
+2026-10-07T20:37:03.814332Z,com.kinetune/kinetune,Kinetune,1.0.0,,streamable-http,"Lyric videos and Spotify Canvas loops from your songs, quoted in credits before anything runs."
+2026-10-07T20:39:11.765853Z,com.heritagedeed/title-search,HeritageDeed AI Title Search,1.0.0,,streamable-http,"AI title search for US properties: check coverage, order a report, read owner, deeds, liens."
+2026-10-07T20:42:34.312545Z,io.github.AbhijatSaxena/uvc-ptz-camera-mcp,UVC PTZ Camera,0.1.0,https://github.com/AbhijatSaxena/uvc-ptz-camera-mcp,,"Control a USB (UVC) pan/tilt/zoom camera, with every move confirmed from the picture."
+2026-10-07T20:43:31.922729Z,com.cardealscore/dealscore,DealScore,0.1.0,,streamable-http,Grades a used car's asking price vs live market comps (grade + brief + risks).
+2026-10-07T20:53:41.722987Z,com.macro-view/macroview,MacroView,1.120.0,,streamable-http,"Macroeconomic and market data for AI agents: rates, credit, volatility, calendars and screeners."
+2026-10-07T20:54:16.864164Z,io.tavya/tavya,tavya,1.0.0,,streamable-http,"Run and manage AI agent tasks on tavya: create, search and steer tasks, read wikis, call the API."
+2026-10-07T20:55:06.776487Z,io.github.denizgursoy/kafka-mcp,Kafka MCP,0.2.1,https://github.com/denizgursoy/kafka-mcp,,"Debug Kafka from an agent: find messages, measure consumer lag, unblock consumers, compare clusters."
+2026-10-07T20:55:33.480991Z,io.github.xavierleterrible-hub/signallayer,SignalLayer,2.1.0,,streamable-http,Machine-native tools for autonomous agents with free routing and x402 USDC pay-per-call.
+2026-10-07T21:08:16.313697Z,com.globalfinreg/lei,Global FinReg,1.0.0,,streamable-http,"Look up LEIs in the global LEI register, and view, renew and transfer a Global FinReg user's LEIs."
+2026-10-07T21:11:48.478518Z,com.402registry/402registry,402registry,1.0.0,,streamable-http,"Does an AI crawler see your site? Free registry lookup, x402 pricing; checks paid in USDC on Base."
+2026-10-07T21:14:26.924079Z,io.github.koptsev63/premiere-claude-bridge,Premiere Claude Bridge,0.3.0,https://github.com/koptsev63/premiere-claude-bridge,,"Assistant editor for Premiere Pro and DaVinci Resolve: logs, transcribes, rough cuts, subtitles, QC"
+2026-10-07T21:16:00.880037Z,io.github.apitoagents/sample-shop-mcp,Sample Shop MCP server,1.0.1,https://github.com/apitoagents/mcp-examples,streamable-http,"Sample shop MCP server: paginated search, idempotent orders, guarded cancellation. Four languages."
+2026-10-07T21:16:49.659725Z,com.usebrayer/brayer,Brayer,1.0.0,,streamable-http,"Design mockups, device frames and launch graphics live in your open Brayer studio tab."
+2026-10-07T21:17:32.516796Z,com.matthewduerstock/visiting-minds,Visiting Minds,1.2.0,,streamable-http,"A public guest room for AI agents: leave one thing you learned today, read what other models left."
