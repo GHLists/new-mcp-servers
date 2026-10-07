@@ -1,0 +1,44 @@
+created_at,server,title,version,repository,transports,description
+2026-10-07T13:30:15.695395Z,io.github.templated-io/mcp-server-templated,Templated,1.8.0,https://github.com/templated-io/mcp-server-templated,streamable-http,"Generate images, videos and PDFs from templates. Manage templates, folders, uploads and fonts."
+2026-10-07T13:32:39.810076Z,com.mocoapp.api/mcp,MOCO,1.0.0,https://github.com/everii-Group/mocoapp,streamable-http,"MCP server for MOCO business software: time tracking, projects, budgets, and invoicing via API"
+2026-10-07T13:33:00.193192Z,tw.okx/chaos,Chaos — OKX Perpetual Signals,0.1.0,,streamable-http,"Trend and order-flow signals for OKX USDT perpetual swaps, over MCP. Pay per call."
+2026-10-07T13:34:50.055904Z,com.bilanceapp/bilance,,1.1.0,,streamable-http,"Your Bilance finances: spending, budgets, net worth. Optional edits, switchable. Never moves money."
+2026-10-07T13:35:55.458159Z,dev.vitrus/analytics,Vitrus analytics,0.6.0,https://github.com/Vitrus-Dev/vitrus,streamable-http,"Read-only web analytics — AI traffic, revenue, goals, funnels — with the SQL behind every number."
+2026-10-07T13:36:55.676247Z,io.github.Wxt-ai/supplier-name-resolution-identifier,Supplier Name Resolution Guide,1.1.1,,streamable-http,Reconcile vendor aliases into a canonical supplier name using registration data and suffix-aware...
+2026-10-07T13:37:01.733315Z,io.github.Wxt-ai/deadline-locale-guidance-identifier,Deadline Locale Guide,1.1.1,,streamable-http,Choose a timezone interpretation for unlabeled milestones while preserving explicitly labeled tim...
+2026-10-07T13:37:07.017283Z,io.github.Wxt-ai/deadline-locale-guidance-complete,Deadline Locale Guide,1.2.0,,streamable-http,Choose a timezone interpretation for unlabeled milestones while preserving explicitly labeled tim...
+2026-10-07T13:37:10.817155Z,io.github.Wxt-ai/supplier-name-resolution-complete,Supplier Name Resolution Guide,1.2.0,,streamable-http,Reconcile vendor aliases into a canonical supplier name using registration data and suffix-aware...
+2026-10-07T13:39:50.592244Z,io.github.psyb0t/claudebox,Claudebox,2.4.7,https://github.com/psyb0t/docker-claudebox,,Self-hosted MCP server exposing Claude Code as an agentic AI tool over streamable HTTP.
+2026-10-07T13:40:31.304209Z,com.cryptowisser/news,Cryptowisser News,1.0.0,,streamable-http,"Latest crypto news, stories and articles from Cryptowisser, with news cards linking to full stories."
+2026-10-07T13:41:33.066553Z,io.github.meuecommerce/meuecommerce-mcp,Meu Ecommerce,1.0.0,https://github.com/meuecommerce/meuecommerce-mcp,streamable-http,"Cotação de frete, rastreamento e etiquetas dos Correios para lojas Meu Ecommerce."
+2026-10-07T13:41:36.55813Z,io.github.kr-data-api/korea-ecommerce-seller-registry,Korea Online Seller Registration Check (통신판매업 조회),0.1.0,,streamable-http,Check if a Korean online seller has an active mail-order registration (통신판매업) by business number
+2026-10-07T13:42:07.751994Z,io.github.mismail86-ui/findmetry,Findmetry,1.0.0,,streamable-http,Evidence-first technical website diagnostics with human-confirmed request handoffs.
+2026-10-07T13:43:49.933433Z,io.github.UXPLIMA/craftwire,Craftwire,0.7.1,https://github.com/uxplima/craftwire,,"See and drive Minecraft: Fabric client, Paper server, bots, plugin tests, profiling."
+2026-10-07T13:43:58.643893Z,com.doseedo/doseedo,Doseedo,0.12.0,,streamable-http,"Edit DAW sessions; convert Logic/Ableton/FL/PT/REAPER/Cubase/Dorico; stems, transcribe, generate"
+2026-10-07T13:44:31.577195Z,com.x402-list/x402-list-mcp,,0.5.2,https://github.com/mcccsm/x402-list-mcp,streamable-http,"Find and vet x402 payment APIs before your agent pays one: uptime, price, on-chain volume."
+2026-10-07T13:50:42.2582Z,io.github.itzhouq/archery-mcp,Archery MCP,0.1.1,https://github.com/itzhouq/archery-mcp,,Read-only MCP server for the Archery SQL audit platform: production schema and release SQL checks
+2026-10-07T13:52:21.514874Z,ai.autoposter/autoposter,AutoPoster AI,1.0.0,,streamable-http,"Multi-platform social media post creation, scheduling, and publishing."
+2026-10-07T13:53:00.126291Z,io.millstead/millstead,Millstead,0.1.0,,streamable-http,"Your website, email list, and bookings, run by Claude or ChatGPT. Invite-only alpha."
+2026-10-07T13:57:43.480358Z,com.cloudmedico/public-mcp,CloudMedico Public MCP,0.1.0,,streamable-http,Read-only CloudMedico product information with verified source links.
+2026-10-07T14:02:26.817838Z,ai.numonic/numonic,Numonic,1.0.0,,streamable-http,"Search, organize, and publish AI-generated images and video with provenance and lineage."
+2026-10-07T14:03:36.782037Z,com.sydium/sydium,Sydium,1.0.0,,streamable-http,"Draft, schedule and publish social posts in your own voice across 11 platforms."
+2026-10-07T14:04:20.863603Z,io.github.Aturio/pasal-id-mcp,Pasal.id — Indonesian Law,2.1.0,https://github.com/Aturio/pasal-id-mcp,streamable-http,"Search Indonesian laws, resolve citations, read articles, and find Constitutional Court decisions."
+2026-10-07T14:04:25.195138Z,io.github.esyurl/mcp,esyURL,0.2.0,https://github.com/esyurl/mcp,streamable-http,"Short links and trackable QR codes: editable after printing, device routing, scan stats."
+2026-10-07T14:04:29.800177Z,app.inkfree/mcp,Inkfree,1.0.0,,streamable-http,"E-signatures: send, track, remind, void and download envelopes; templates and reports."
+2026-10-07T14:06:40.187097Z,com.mailzzy/mcp,Mailzzy,1.0.0,,streamable-http,"Email marketing: campaigns, audiences, contacts, segments, templates and reports."
+2026-10-07T14:07:48.307769Z,io.github.gabrielmahia/swahili-health-mcp,,0.2.0,https://github.com/gabrielmahia/swahili-health-mcp,,"Kenya county health indicators (maternal care, immunization, stunting) from the Kenya DHS 2022"
+2026-10-07T14:10:52.990184Z,fun.film.splice/splice-docs,Splice docs,1.1.0,https://github.com/Rogues-Lab/film-fun-splice,streamable-http,"Public, read-only: search Splice docs and list models, live prices and templates. No sign-in."
+2026-10-07T14:10:59.591835Z,io.vozora/vozora,Vozora,1.0.0,,streamable-http,"Manage Vozora VPS servers, SSH keys, firewalls, DNS and usage from an AI agent."
+2026-10-07T14:11:17.933739Z,fun.film.splice/splice,Splice,1.1.0,https://github.com/Rogues-Lab/film-fun-splice,streamable-http,"Generate and edit AI images, video, voice and music, and render motion graphics with Splice."
+2026-10-07T14:12:08.976987Z,io.github.pkj8282/agent-uplink,,2.1.1,https://github.com/pkj8282/Agent-Uplink,,"Local messaging between AI sessions: role accounts, DMs, channels via MCP. Windows only."
+2026-10-07T14:13:02.71772Z,com.ulule/mcp-public,Ulule — Crowdfunding,1.1.0,,streamable-http,"Crowdfunding on Ulule: submit a project proposal, then build its page, goal, images and rewards."
+2026-10-07T14:13:39.16365Z,io.github.sourabhnk/mosaic-mcp,Mosaic Pre-Clinical Intelligence,2.1.0,https://github.com/sourabhnk/mosaic-mcp,,"Pre-clinical drug-target intelligence: 60 curated targets, 1,969 counted partner genes, 11 tools"
+2026-10-07T14:16:34.660282Z,com.happyscribe/happyscribe,HappyScribe,1.0.0,,streamable-http,"Search, read, analyze and create HappyScribe transcripts and meeting notes from any MCP client"
+2026-10-07T14:18:42.156251Z,md.iasig/mcp,iAsig,1.0.0,,streamable-http,Quote Moldovan RCA and Green Card car insurance; create unpaid orders the user pays on iasig.md.
+2026-10-07T14:20:28.67034Z,ai.zerowidth/caliper,ZeroWidth Caliper,1.0.0,,streamable-http,"Build datasets and rubrics, then run evals that score your AI in Caliper."
+2026-10-07T14:20:31.576362Z,ai.zerowidth/compass,ZeroWidth Compass,1.0.0,,streamable-http,"Read and update your Compass map: pages, changes, opportunities and interviews."
+2026-10-07T14:20:39.860587Z,ai.zerowidth/ledger,ZeroWidth Ledger,1.0.0,,streamable-http,"Log decisions with expectations, add evidence, and track metrics in Ledger."
+2026-10-07T14:20:42.048693Z,ai.zerowidth/napkin,ZeroWidth Napkin,1.0.0,,streamable-http,"Draw boards, write docs and sheets, and build decks with your brand in Napkin."
+2026-10-07T14:20:44.223811Z,ai.zerowidth/prism,ZeroWidth Prism,1.0.0,,streamable-http,"Explore ideas in Prism fields, run studies, and read research findings."
+2026-10-07T14:20:47.052674Z,ai.zerowidth/workbench,ZeroWidth Workbench,1.0.0,,streamable-http,"Build, run and publish Workbench flows, tasks, shims and knowledge bases."
+2026-10-07T14:20:48.663106Z,ai.zerowidth/zerowidth,ZeroWidth,1.0.0,,streamable-http,"Search, write and run work across Compass, Workbench, Caliper, Ledger, Prism and Napkin."
