@@ -9,44 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 11:20 UTC
+## Latest list — 2026-10-07 12:21 UTC
 
-New MCP servers published between 2026-10-07 10:19 UTC and 2026-10-07 11:20 UTC.
+New MCP servers published between 2026-10-07 11:20 UTC and 2026-10-07 12:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-07T11-20-40-281231Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-07T12-21-23-38293Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-07 10:19:49 | [com.paxalabs/mcp](https://github.com/paxalabs/mcp) | Paxa Labs | 0.1.0-beta.12 | Thai, English, Mandarin speech AI: TTS with playback, transcription, translatio… |
-| 2026-10-07 10:24:23 | [io.github.WCAG-Compliance/mcp](https://github.com/WCAG-Compliance/wcagc-mcp) | wcagc — accessibility scanning | 0.7.4 | Deterministic axe-core accessibility scans (WCAG 2.1 AA, EN 301 549, PDF/UA) vi… |
-| 2026-10-07 10:25:33 | ltd.perpetualsummer/coolours | Coolours | 0.2.0 | Turn AI-designed colour palettes into Coolours links, with colour names, CSS an… |
-| 2026-10-07 10:27:32 | [io.github.longsizhuo/openinvest](https://github.com/longsizhuo/openInvest) | openInvest | 0.34.1 | Investment runtime for AI agents — LLM investment committee, portfolio ledger,… |
-| 2026-10-07 10:30:31 | [io.github.domusdeiug/muyiribi](https://github.com/domusdeiug/muyiribi) | Uganda Online Business Directory | 1.0.0 | Search a Ugandan business directory for businesses and services by keyword, cat… |
-| 2026-10-07 10:38:53 | [com.jepto/mcp](https://github.com/jepto/mcp) | Jepto | 1.1.0 | Live Google Ads, GA4, Search Console, Meta Ads and GBP data in Claude, ChatGPT… |
-| 2026-10-07 10:39:39 | [com.printandmailcompany/printandmailcompany](https://github.com/printandmailcompany/connector) | Print and Mail Company | 1.0.0 | Print and mail real letters worldwide from the EU, incl. registered mail. Quote… |
-| 2026-10-07 10:41:53 | app.moonlauncher/moonlauncher | Moonlauncher | 1.0.0 | Prepare pump.fun token launches from your AI agent. You review and sign each on… |
-| 2026-10-07 10:46:16 | xyz.mapposter/mapposter | MapPoster | 1.2.0 | Design map posters of any place in 50+ styles, with names, dates and markers, a… |
-| 2026-10-07 10:51:25 | io.softspoken/softspoken |  | 0.9.8 | A local server that lets AI assistants read your Softspoken meetings and tick o… |
-| 2026-10-07 10:53:16 | io.github.tchen6500/bazi-fortune-hub | BaZi Fortune Hub | 0.4.0 | BaZi MCP gateway: 14 tools (6 fortune / 5 forum / 3 meta). API key required. En… |
-| 2026-10-07 10:53:26 | [io.github.fmd-labs/viral-app](https://github.com/fmd-labs/viral-app-agents) | viral.app | 1.1.0 | UGC analytics and Creator Hub for TikTok, Instagram and YouTube: tracking, camp… |
-| 2026-10-07 10:53:48 | [com.docstox/mcp](https://github.com/thedocstox/docstox-plugin) | DocStoX | 1.1.1 | Indian stock research on real NSE and BSE data: fundamentals, screens, FII flow… |
-| 2026-10-07 10:54:21 | com.trmnl/trmnl | TRMNL | 1.0.0 | Manage TRMNL e-ink displays: devices, playlists, plugins, markup, recipes and a… |
-| 2026-10-07 10:56:46 | [com.marketinque/launch-plan](https://github.com/zeshutmax/demand-gen) | marketinque — launch plan & backlink in… | 46.0.0 | A 361-step SaaS launch plan and 958 backlink sources as tools an agent reads, a… |
-| 2026-10-07 11:00:38 | dev.forecall/forecall-kb | Forecall Failure KB | 1.0.1 | Known MCP tool-call failures and workarounds verified by reproduction. |
-| 2026-10-07 11:03:33 | [io.github.fanrj3/panoon-mcp](https://github.com/fanrj3/panoon-mcp) | PanoOn Street View | 0.2.21 | Scan Street View areas into PanoIDs and download imagery through PanoOn. |
-| 2026-10-07 11:04:46 | dev.metarun/metarun |  | 1.0.2 | Run App Store Connect from your IDE: pricing, listings, screenshots, releases,… |
-| 2026-10-07 11:07:29 | [io.github.CyberPunk11147/cyberwarex-wallet-safety](https://github.com/CyberPunk11147/cyberwarex-mcp) |  | 1.2.0 | Pre-sign wallet safety: tx simulation, signature decoding, address risk, ABI, U… |
-| 2026-10-07 11:07:33 | [io.github.CyberPunk11147/cyberwarex-web-access](https://github.com/CyberPunk11147/cyberwarex-mcp) |  | 1.2.0 | Web access for agents: fetch, extract, screenshot, or PDF any public URL. |
-| 2026-10-07 11:07:40 | [io.github.CyberPunk11147/cyberwarex-chain-data](https://github.com/CyberPunk11147/cyberwarex-mcp) |  | 1.2.0 | EVM onchain data: wallet, token, price, gas, transactions, ENS across 5 chains. |
-| 2026-10-07 11:07:42 | [io.github.CyberPunk11147/cyberwarex-voice-stt](https://github.com/CyberPunk11147/cyberwarex-mcp) |  | 1.2.0 | Speech-to-text transcription for AI agents. |
-| 2026-10-07 11:08:53 | in.therapistsnearme/directory |  | 1.0.1 | Search India's credential-verified therapist directory: read-only, public, chec… |
-| 2026-10-07 11:09:11 | [io.github.CyberPunk11147/cyberwarex-defi-oracle](https://github.com/CyberPunk11147/cyberwarex-mcp) |  | 1.2.1 | Token safety oracle (Base/BSC): honeypot sim, contract powers, A-F grade + wall… |
-| 2026-10-07 11:11:30 | com.double-rhyme/rhymes | Doppelreim Rhymes | 1.0.0 | Multisyllabic, vowel and classic rhymes plus rhyming lines in 56 languages for… |
-| 2026-10-07 11:13:00 | [ai.textile-designer/mcp](https://github.com/ScientiaAI/textile-designer-ai-claude) | Textile Designer AI | 0.1.1 | Textile design AI: print-ready upscaling, seamless repeats, colourways, screen… |
-| 2026-10-07 11:13:32 | [io.github.tailscale-mcp/tailscale-mcp](https://github.com/tailscale-mcp/tailscale-mcp) | Tailscale | 1.3.2 | Drive a Tailscale node and its tailnet through the CLI and the control-plane API |
-| 2026-10-07 11:14:10 | io.github.quartzondev/qr-branding | QR Branding | 0.1.1 | Generate branded, scan-validated QR codes (manual, AI, templates, Wi-Fi, vCard,… |
-| 2026-10-07 11:16:45 | io.github.pieterjanscheir/rpv-calculator | RPV Calculator | 1.0.0 | Belgian procedural indemnity (rechtsplegingsvergoeding) amounts, indexed to the… |
-| 2026-10-07 11:17:27 | [io.github.De-Ioannidis/carmaker-mcp](https://github.com/De-Ioannidis/carmaker-mcp) | CarMaker | 0.1.0 | Drive IPG CarMaker for Simulink: run test runs, read results, edit vehicle data… |
+| 2026-10-07 11:25:56 | com.vulnrable/vulnrable |  | 1.0.0 | Security grades for MCP servers and npm/PyPI packages, ranked by CISA KEV and E… |
+| 2026-10-07 11:25:58 | com.evuun/network | evuun | 0.2.8 | Find source-grounded task experience, ask public questions, and report attempte… |
+| 2026-10-07 11:30:38 | [io.github.cyanheads/anime-mcp-server](https://github.com/cyanheads/anime-mcp-server) |  | 0.2.1 | Search anime/manga, franchise watch order, schedule, characters, rankings, stud… |
+| 2026-10-07 11:33:06 | [io.github.cyanheads/finnhub-mcp-server](https://github.com/cyanheads/finnhub-mcp-server) |  | 0.1.6 | Real-time US-equity quotes, company fundamentals, earnings, analyst trends, and… |
+| 2026-10-07 11:33:50 | com.tracklysms/trackly-sms | Trackly SMS | 1.3.0 | Manage offers and creatives, prepare US number registration, and hold SMS for h… |
+| 2026-10-07 11:34:16 | com.petnecto/pets | Petnecto | 1.0.0 | Find adoptable shelter pets and how to contact the shelter. Read-only, no sign-… |
+| 2026-10-07 11:39:03 | [io.github.cyanheads/toolkit-mcp-server](https://github.com/cyanheads/toolkit-mcp-server) |  | 2.3.2 | Generate IDs, QR codes, and hashes, encode values, geolocate IPs, plus gated ho… |
+| 2026-10-07 11:43:40 | [io.github.cyanheads/pubchem-mcp-server](https://github.com/cyanheads/pubchem-mcp-server) |  | 0.6.6 | Search PubChem compounds, properties, safety data, bioactivity, and cross-refer… |
+| 2026-10-07 11:44:41 | [io.github.cyanheads/docgen-mcp-server](https://github.com/cyanheads/docgen-mcp-server) |  | 0.2.4 | Render HTML/markdown to PDF, export rows to xlsx, and fill AcroForm PDFs. |
+| 2026-10-07 11:44:55 | [io.github.cyanheads/epa-mcp-server](https://github.com/cyanheads/epa-mcp-server) |  | 0.3.3 | Search EPA compliance, TRI, Superfund, drinking-water, EJScreen, and AirNow dat… |
+| 2026-10-07 11:45:04 | [io.github.jabbertones-cloud/wwdc](https://github.com/jabbertones-cloud/wwdc-mcp-server) | WWDC MCP | 0.2.0 | Apple developer intelligence for agents: WWDC26, docs, HIG, Swift, App Review,… |
+| 2026-10-07 11:45:16 | [io.github.ContentWriterco/compabase](https://github.com/ContentWriterco/compabase-mcp) | Compabase | 1.6.2 | 3M+ Polish companies (KRS, CEIDG): financials, people, rankings and public regi… |
+| 2026-10-07 11:46:20 | [io.github.ContentWriterco/monitly](https://github.com/ContentWriterco/Monitly-MCP) | Monitly | 1.1.0 | Official statistics for AI agents: Eurostat, World Bank, OECD, IMF and WHO data… |
+| 2026-10-07 11:46:31 | [io.github.cyanheads/coingecko-mcp-server](https://github.com/cyanheads/coingecko-mcp-server) |  | 0.1.4 | Crypto market data via CoinGecko — prices, markets, history, trending, and deep… |
+| 2026-10-07 11:47:26 | [io.github.cyanheads/protein-mcp-server](https://github.com/cyanheads/protein-mcp-server) |  | 0.8.6 | Federated protein structure & annotation across experimental (PDB) and predicte… |
+| 2026-10-07 11:56:41 | [io.github.cyanheads/cdc-health-mcp-server](https://github.com/cyanheads/cdc-health-mcp-server) |  | 0.9.3 | Search and query CDC public health data — mortality, vaccinations, surveillance… |
+| 2026-10-07 12:00:09 | [io.github.cyanheads/usaspending-mcp-server](https://github.com/cyanheads/usaspending-mcp-server) |  | 0.4.5 | Access US federal award, recipient, agency, and spending analytics data from US… |
+| 2026-10-07 12:01:40 | [io.github.cyanheads/workflows-mcp-server](https://github.com/cyanheads/workflows-mcp-server) |  | 0.4.1 | Store, query, and create YAML workflow playbooks for LLM agents. |
+| 2026-10-07 12:03:48 | [io.github.mhajder/librenms-mcp](https://github.com/mhajder/librenms-mcp) | LibreNMS MCP | 1.11.3 | MCP server for LibreNMS network monitoring - query devices, ports, alerts, and… |
+| 2026-10-07 12:05:09 | me.genko/cms | genko.me | 1.0.0 | Headless CMS. Search the docs and read, draft, publish, and schedule entries vi… |
+| 2026-10-07 12:05:48 | [io.github.thechristianaicompany/leaks-and-confessions](https://github.com/thechristianaicompany/leaks-and-confessions-skills) | leaks.md and confession.md | 0.1.0 | Anonymous, encrypted disclosure of AI alignment and safety failures, with signe… |
+| 2026-10-07 12:12:42 | [io.github.gamaze-labs/hicortex](https://github.com/gamaze-labs/hicortex) | Hicortex — AI Fleet Memory | 0.24.0 | Shared fleet memory for AI agents: nightly self-correction, recall every prompt… |
+| 2026-10-07 12:12:43 | [io.github.cyanheads/eur-lex-mcp-server](https://github.com/cyanheads/eur-lex-mcp-server) |  | 0.18.2 | Search EU legislation, CJEU case law, and treaties; traverse CELLAR graph; brow… |
+| 2026-10-07 12:12:59 | [io.github.dvdsosa/zotero-native-mcp](https://github.com/dvdsosa/zotero-native-mcp) | Zotero Native MCP | 1.0.2 | Read and write your local Zotero 10 library. No plugin, no zotero.org API key,… |
+| 2026-10-07 12:16:57 | [io.github.MitchSingh/402shield](https://github.com/MitchSingh/402shield) |  | 0.1.0 | x402 payment security and pre-execution transaction risk screening for autonomo… |
+| 2026-10-07 12:18:26 | [com.tengence/geo-agent](https://github.com/tengence-team/tengence-geo-agent) | Tengence GEO Agent | 0.1.3 | GEO/SEO content engine: planning, writing, gate checks, WordPress publishing, G… |
+| 2026-10-07 12:21:09 | com.6ix/mcp | 6ix | 1.1.0 | News releases, company pages and investor calls of public companies, strongest… |
 
 ## Data source
 
