@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-10-07T08:22:56.935453Z,com.getclerion/clerion,Clerion,1.0.0,,streamable-http,"Your website analytics as read-only tools: traffic, pages, errors, speed and AI-assistant visits."
+2026-10-07T08:25:17.861549Z,com.payram/mcp,PayRam,1.2.0,https://github.com/PayRam/payram-mcp,streamable-http,"Install, configure, operate and integrate self-hosted PayRam crypto payment gateways."
+2026-10-07T08:26:16.812221Z,io.github.krayinc/docbase,,1.2.6,https://github.com/krayinc/docbase-mcp-server,streamable-http,DocBase MCP server for AI agents
+2026-10-07T08:26:30.857879Z,io.landbot/mcp,Landbot,1.0.0,,streamable-http,"Build, edit, test and publish Landbot chatbots and WhatsApp flows on your Landbot account."
+2026-10-07T08:29:07.955784Z,com.kema-studio/olia,Olia,1.0.0,,streamable-http,"Practice management for French law firms: matters, time entries and invoices from your AI agent."
+2026-10-07T08:32:35.16245Z,io.github.danielLuo2/bioharbor,BioHarbor,0.1.4,https://github.com/danielLuo2/bioharbor,,"Run real bioinformatics from your AI agent. Reliable, reproducible, on your own GPUs."
+2026-10-07T08:33:48.849307Z,io.github.layergen/eodly-mcp,,0.2.2,https://github.com/layergen/eodly-mcp,streamable-http; streamable-http,Read your team's end-of-day reports and roster from Eodly. Sign in with OAuth or use an API key.
+2026-10-07T08:34:03.480695Z,com.complyonsite/tools,ComplyOnSite,0.1.0,,streamable-http,"Waste codes, HAVS and noise exposure, construction injuries, tool aggregates and document links."
+2026-10-07T08:36:33.210285Z,eu.checkbiz/merchant-check,CheckBiz Merchant Check,1.0.0,,streamable-http,"Let your shopping agent check the shop before it pays: a real, active, EU-registered company?"
+2026-10-07T08:36:44.421289Z,io.github.randommonicle/commonhold,Commonhold,1.0.0,https://github.com/randommonicle/1f916,streamable-http,"Read-only MCP door to Commonhold, a public society for AI agents. No credential needed."
+2026-10-07T08:45:25.971161Z,io.github.huangyunbin/soclip,,0.1.4,https://github.com/huangyunbin/soclip-mcp,,"Turn TikTok, Instagram, X and Facebook URLs into video download links and metadata."
+2026-10-07T08:53:15.708658Z,io.github.shrek9999/atena,ATENA Decision Intelligence,1.1.1,https://github.com/shrek9999/atena-mvp,streamable-http,Decision-control specialist for AI fitness and human-performance agents.
+2026-10-07T08:54:36.307205Z,com.asia-pulse/asia-pulse,Asia Pulse,1.1.0,,streamable-http,"Korea & Japan market records for agents. x402 payment inside MCP, Base USDC."
+2026-10-07T09:03:10.472727Z,io.github.amorphous-one/amorphous,,0.1.4,https://github.com/amorphous-one/amorphous-plugin,,A page people use together. Your own agent builds it.
+2026-10-07T09:06:32.280186Z,io.github.witanmarkets/witan,WITAN Markets,0.9.0,https://github.com/witanmarkets/witan-sdk,streamable-http; streamable-http,"Registered agents sell what they measured, anyone buys: validated knowledge and signed datasets."
+2026-10-07T09:09:53.166949Z,io.github.upstash/context7,Context7,4.1.2,https://github.com/upstash/context7,streamable-http,Up-to-date code docs for any prompt
+2026-10-07T09:11:07.878033Z,io.morningscore/mcp,Morningscore,1.0.0,,streamable-http,"SEO and AI-visibility data: keywords, competitors, site health, backlinks, GEO score, articles."
+2026-10-07T09:13:54.186599Z,ai.stimhaus/emma-for-agents,,1.0.0,,streamable-http,"Emma builds and edits a website for your AI agent: one create_site call, live in about a minute."
+2026-10-07T09:16:52.211452Z,io.github.oxynote/oxynote,Oxynote,0.8.4,https://github.com/oxynote/oxynote,streamable-http,"Self-hosted team docs with live Prometheus charts. Read, write and query your docs over MCP."
+2026-10-07T09:19:31.098683Z,io.github.shakagold/ticktest-mcp,TickTest,0.4.0,https://github.com/shakagold/ticktest-mcp,,A股量化回测 MCP Server — AI Agent 用自然语言回测 A 股。¥0.5/次，¥1 体验卡，¥19 月卡，海龟永久免费。

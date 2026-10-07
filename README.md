@@ -9,38 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 08:20 UTC
+## Latest list — 2026-10-07 09:20 UTC
 
-New MCP servers published between 2026-10-07 07:18 UTC and 2026-10-07 08:20 UTC.
+New MCP servers published between 2026-10-07 08:20 UTC and 2026-10-07 09:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-07T08-20-24-356743Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-07T09-20-53-618754Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-07 07:19:12 | com.xeorank/xeorank | XeoRank | 1.0.0 | SEO, AEO and GEO audits, rank tracking, AI-citation scans and WordPress editing… |
-| 2026-10-07 07:21:52 | com.trymimetic/mimetic | Mimetic | 1.0.0 | Read a site's analytics, audit findings and session recordings, and set up trac… |
-| 2026-10-07 07:28:25 | com.merageo/ai-visibility | meraGEO AI Visibility | 0.1.0 | Check how visible a website is in ChatGPT, Claude and Gemini answers, and start… |
-| 2026-10-07 07:28:25 | eu.scheir/portfolio | Pieter-Jan Scheir | 1.0.0 | Profile, projects, experience, skills and contact details of an AI-first full-s… |
-| 2026-10-07 07:31:52 | [io.github.PabloG6/pdfparse](https://github.com/PabloG6/pdfparse-integrations) | PdfParse | 0.1.0 | Extract PDFs into structured tables, query records, and configure document inbo… |
-| 2026-10-07 07:32:43 | ai.myporta/myporta | MyPorta | 1.0.0 | Find UK homes for sale and to rent, matched to your wishes, with nearby schools… |
-| 2026-10-07 07:38:15 | [io.github.mrsergeiluzhnov/xonta-docs](https://github.com/mrsergeiluzhnov/xonta-docs) | Xonta Docs RU | 1.0.0 | Russian business docs for AI agents: INN/bank checks, amount in words, name dec… |
-| 2026-10-07 07:44:10 | app.web.yutai-mcp/yutai-mcp | 株主優待 MCP (Yutai MCP) | 1.0.0 | Japanese shareholder benefits search, cross-trading cost estimates, and trading… |
-| 2026-10-07 07:44:58 | tech.sripto.axi/axi | Artificial eXperience Intelligence (AXI) | 2.0.0 | AXI design reviews, gated AXI Score, and paper search for AI assistants, agents… |
-| 2026-10-07 07:45:49 | de.alcometer/mcp | alcometer.de — Promillerechner | 1.0.0 | German blood-alcohol estimates (permille), drink servings and drink-driving lim… |
-| 2026-10-07 07:53:27 | io.github.entryriskscore/entry-risk-score | Entry Risk Score | 1.0.0 | Entry-risk score for Binance USDT-M perpetuals: how risky is entering now. Not… |
-| 2026-10-07 07:53:34 | [com.magicmarkets/mcp](https://github.com/magicmarkets/magicmarkets-cli) | MagicMarkets | 1.0.0 | Sports prediction markets for AI agents — live prices, quotes, orders, and posi… |
-| 2026-10-07 07:54:37 | [com.fabricatedemail/mcp](https://github.com/rolfkbk/fabricatedemail-mcp) | fabricatedemail | 1.0.0 | Disposable email addresses for tests and agents: register, wait for mail, extra… |
-| 2026-10-07 07:55:48 | [io.github.voidly-ai/voidly-hosted](https://github.com/voidly-ai/pay-mcp) | Voidly Hosted MCP | 2.25.0 | Voidly MCP: research, Atlas score, capabilities; gated Voidpay, Voidmail, Home,… |
-| 2026-10-07 07:56:50 | [audio.ditto/tts](https://github.com/ditto-audio/ditto-mcp) | ditto.audio | 1.2.0 | Text-to-speech: browse voices and synthesize natural speech from text with ditt… |
-| 2026-10-07 07:58:03 | [io.github.djaxho/amorphous](https://github.com/djaxho/amorphous-plugin) |  | 0.1.3 | A page people use together. Your own agent builds it. |
-| 2026-10-07 07:58:28 | [io.github.Wh-bi/wanhe-compliance](https://github.com/Wh-bi/wanhe-compliance-mcp) | Wanhe Compliance — Chinese Content Comp… | 1.1.2 | Chinese content compliance: ad-law banned terms + AI-labeling rules, citing exa… |
-| 2026-10-07 08:02:49 | nl.tryvon/tryvon | Tryvon | 1.1.1 | Dutch price comparison, starting with travel eSIMs: total price, delivery and p… |
-| 2026-10-07 08:05:33 | io.github.fernikolic/perception | Perception | 1.6.1 | Narrative intelligence from thousands of curated media sources, delivered to AI… |
-| 2026-10-07 08:08:32 | com.endurancewire/endurancewire | Endurance Wire | 1.2.0 | Endurance gear release dates, launch prices, generation comparisons, rumors and… |
-| 2026-10-07 08:11:25 | [io.github.sdamarketing/tracker-mcp](https://github.com/sdamarketing/tracker_mcp) | Yandex Tracker | 1.0.7 | MCP server for Yandex Tracker: full API v3 coverage (187 tools) |
-| 2026-10-07 08:14:04 | [io.github.chrisgleissner/c64bridge](https://github.com/chrisgleissner/c64bridge) | C64 Bridge | 1.0.3 | MCP server for Commodore 64 Ultimate hardware and VICE emulator control. |
-| 2026-10-07 08:17:33 | [io.github.Digilac/simap-mcp](https://github.com/Digilac/simap-mcp) |  | 1.5.0 | MCP server for simap.ch - Swiss public procurement platform |
-| 2026-10-07 08:19:54 | [si.privatesuperintelligence/private-superintelligence](https://github.com/OperatingSystem-1/private-superintelligence-agent) | Private SuperIntelligence | 0.1.0 | Private SuperIntelligence by Mitosis Labs: define the term, see privacy layers,… |
+| 2026-10-07 08:22:56 | com.getclerion/clerion | Clerion | 1.0.0 | Your website analytics as read-only tools: traffic, pages, errors, speed and AI… |
+| 2026-10-07 08:25:17 | [com.payram/mcp](https://github.com/PayRam/payram-mcp) | PayRam | 1.2.0 | Install, configure, operate and integrate self-hosted PayRam crypto payment gat… |
+| 2026-10-07 08:26:16 | [io.github.krayinc/docbase](https://github.com/krayinc/docbase-mcp-server) |  | 1.2.6 | DocBase MCP server for AI agents |
+| 2026-10-07 08:26:30 | io.landbot/mcp | Landbot | 1.0.0 | Build, edit, test and publish Landbot chatbots and WhatsApp flows on your Landb… |
+| 2026-10-07 08:29:07 | com.kema-studio/olia | Olia | 1.0.0 | Practice management for French law firms: matters, time entries and invoices fr… |
+| 2026-10-07 08:32:35 | [io.github.danielLuo2/bioharbor](https://github.com/danielLuo2/bioharbor) | BioHarbor | 0.1.4 | Run real bioinformatics from your AI agent. Reliable, reproducible, on your own… |
+| 2026-10-07 08:33:48 | [io.github.layergen/eodly-mcp](https://github.com/layergen/eodly-mcp) |  | 0.2.2 | Read your team's end-of-day reports and roster from Eodly. Sign in with OAuth o… |
+| 2026-10-07 08:34:03 | com.complyonsite/tools | ComplyOnSite | 0.1.0 | Waste codes, HAVS and noise exposure, construction injuries, tool aggregates an… |
+| 2026-10-07 08:36:33 | eu.checkbiz/merchant-check | CheckBiz Merchant Check | 1.0.0 | Let your shopping agent check the shop before it pays: a real, active, EU-regis… |
+| 2026-10-07 08:36:44 | [io.github.randommonicle/commonhold](https://github.com/randommonicle/1f916) | Commonhold | 1.0.0 | Read-only MCP door to Commonhold, a public society for AI agents. No credential… |
+| 2026-10-07 08:45:25 | [io.github.huangyunbin/soclip](https://github.com/huangyunbin/soclip-mcp) |  | 0.1.4 | Turn TikTok, Instagram, X and Facebook URLs into video download links and metad… |
+| 2026-10-07 08:53:15 | [io.github.shrek9999/atena](https://github.com/shrek9999/atena-mvp) | ATENA Decision Intelligence | 1.1.1 | Decision-control specialist for AI fitness and human-performance agents. |
+| 2026-10-07 08:54:36 | com.asia-pulse/asia-pulse | Asia Pulse | 1.1.0 | Korea & Japan market records for agents. x402 payment inside MCP, Base USDC. |
+| 2026-10-07 09:03:10 | [io.github.amorphous-one/amorphous](https://github.com/amorphous-one/amorphous-plugin) |  | 0.1.4 | A page people use together. Your own agent builds it. |
+| 2026-10-07 09:06:32 | [io.github.witanmarkets/witan](https://github.com/witanmarkets/witan-sdk) | WITAN Markets | 0.9.0 | Registered agents sell what they measured, anyone buys: validated knowledge and… |
+| 2026-10-07 09:09:53 | [io.github.upstash/context7](https://github.com/upstash/context7) | Context7 | 4.1.2 | Up-to-date code docs for any prompt |
+| 2026-10-07 09:11:07 | io.morningscore/mcp | Morningscore | 1.0.0 | SEO and AI-visibility data: keywords, competitors, site health, backlinks, GEO… |
+| 2026-10-07 09:13:54 | ai.stimhaus/emma-for-agents |  | 1.0.0 | Emma builds and edits a website for your AI agent: one create_site call, live i… |
+| 2026-10-07 09:16:52 | [io.github.oxynote/oxynote](https://github.com/oxynote/oxynote) | Oxynote | 0.8.4 | Self-hosted team docs with live Prometheus charts. Read, write and query your d… |
+| 2026-10-07 09:19:31 | [io.github.shakagold/ticktest-mcp](https://github.com/shakagold/ticktest-mcp) | TickTest | 0.4.0 | A股量化回测 MCP Server — AI Agent 用自然语言回测 A 股。¥0.5/次，¥1 体验卡，¥19 月卡，海龟永久免费。 |
 
 ## Data source
 
