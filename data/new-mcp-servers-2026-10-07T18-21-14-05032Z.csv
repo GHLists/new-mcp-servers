@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-10-07T17:22:22.075826Z,io.github.psyb0t/codexbox,Codexbox,0.7.0,https://github.com/psyb0t/docker-codexbox,,Self-hosted MCP server: run OpenAI Codex CLI prompts and manage workspace files.
+2026-10-07T17:22:30.526068Z,io.github.onedotlinks/astronest,AstroNest,1.0.0,,streamable-http,"Vedic astrology for AI agents: charts, daśā, readings, muhūrta and JPL DE440 ephemeris."
+2026-10-07T17:23:11.405235Z,io.github.tristanmuzzu/deskwright,Deskwright,0.2.0b1,https://github.com/tristanmuzzu/deskwright,,"Agents use real GNOME/Wayland apps: on your screen, or an invisible second desktop you never see"
+2026-10-07T17:24:11.299884Z,io.github.psyb0t/pibox,Pibox,0.19.0,https://github.com/psyb0t/docker-pibox,,"Self-hosted MCP server: pi-coding-agent tools (run_prompt, file ops) over streamable HTTP."
+2026-10-07T17:26:05.637497Z,io.github.sickn33/tidal-mcp,TIDAL MCP,1.1.0,https://github.com/sickn33/tidal-mcp,,"Search, analyze, organize, and safely modify TIDAL through 117 typed MCP tools."
+2026-10-07T17:29:16.038086Z,dev.mcphost/mcphost,,0.101.0,https://github.com/j0yen/mcphost,streamable-http,One MCP endpoint an agent can join and administer without a human
+2026-10-07T17:29:44.365491Z,app.workalong/data-tools,WorkAlong Data Tools (via Apify),1.0.0,,streamable-http,"PDF/Office to Markdown+tables, tech stack, WHOIS/DNS/SSL, sitemap URLs, PageSpeed. Pay per result."
+2026-10-07T17:30:09.473099Z,com.nadveo/service-booking,Nadveo — book air-conditioning service,1.0.0,,streamable-http,"Find air-conditioning service companies and book a visit: prices, free times, error-code hints."
+2026-10-07T17:32:12.996119Z,com.stringspec/mcp,StringSpec,1.0.0,https://github.com/BigBalli/stringspec-mcp,streamable-http,"Lab measurements of nearly 800 tennis strings: search, compare and get recommendations."
+2026-10-07T17:32:15.655845Z,com.bigballi/rallyiq,RallyIQ,1.0.0,https://github.com/BigBalli/rallyiq-mcp,streamable-http,"Tennis game plans, scouting reports and match breakdowns from shot-by-shot charted matches."
+2026-10-07T17:32:18.256403Z,com.bigballi/serialhunt,SerialHunt,1.0.0,https://github.com/BigBalli/serialhunt-mcp,streamable-http,US bill serial numbers: star note print runs and fancy serial patterns with exact odds.
+2026-10-07T17:32:21.669448Z,io.github.MnemeHQ/mneme,Mneme Decision MCP,0.10.0,https://github.com/MnemeHQ/mneme,,"Local MCP server for architectural decisions, traceability, and non-authoritative proposals."
+2026-10-07T17:35:07.805213Z,io.github.azabroflovski/mxik,MXIK codes (Uzbekistan),0.1.1,https://github.com/azabroflovski/mxik-js,,Search MXIK (IKPU) product codes of Uzbekistan on tasnif.soliq.uz. Unofficial.
+2026-10-07T17:38:19.621677Z,es.veridexia/veridex-mcp,VERIDEX,0.1.1,https://github.com/Habib4862/veridex-mcp,streamable-http,"Verify Spanish companies by CIF: registry data, status and BORME filings, paid per call over x402."
+2026-10-07T17:39:29.932448Z,info.blocksize.mcp/agentic-payments,Blocksize Agentic Market Intelligence,0.6.24,https://github.com/jf-cmyk/agentic-payments,streamable-http,"Multi-venue VWAP, bid/ask, crypto FX, metals and equities with provenance receipts for AI agents"
+2026-10-07T17:41:08.862557Z,io.github.comndllc/livestock-market-prices,Livestock Market Prices,0.1.0,https://github.com/comndllc/LMP.com,streamable-http,"Read-only, source-linked cattle, sheep, and goat prices, market reports, coverage, and methodology."
+2026-10-07T17:41:47.761129Z,app.govauctions/govauctions,govauctions.app,1.0.3,https://github.com/benswork-space/govauctions-mcp,streamable-http,"Live listings, sold prices and resale scores from GovAuctions.app, the public surplus-auction site."
+2026-10-07T17:42:34.683908Z,app.seatsherpa/rides,Seat Sherpa,1.0.0,,streamable-http,"Find carpool rides in California and Nevada: live seats, times and all-in seat prices. Read-only."
+2026-10-07T17:46:13.139384Z,io.github.DareDev256/fcpxml-mcp-server,,0.25.2,,,"Final Cut Pro automation: 13 grouped tools, 88 operations. FCPXML edit, QC, transcript, preview."
+2026-10-07T17:46:29.623027Z,io.github.grynienM/kalkulatory-place,,1.0.2,https://github.com/grynienM/kalkulatory-place-mcp,,"Polish payroll: gross↔net salary, hourly rates, tax brackets and ZUS rates from a live public API"
+2026-10-07T17:48:51.103443Z,io.github.mechubsec/rustjunosmcp,rust-junosmcp,0.27.4,https://github.com/mechubsec/rustjunosmcp,,"Juniper Junos/SRX MCP server: scoped, audited, two-person change control. Rust."
+2026-10-07T17:51:43.406687Z,app.automessage/mcp,autoMessage,0.2.1,,streamable-http,"Send and read iMessages from your own Mac and Apple ID — drafts, history and contacts."
+2026-10-07T17:53:20.837926Z,dev.workers.wagner-proc.brasil-data-x402/brasil-data,Brasil Data (pay-per-call via x402),0.1.0,,streamable-http,"Brazil CNPJ, CEP, Selic/IPCA/PTAX, holidays, banks/ISPB for agents. Pay per call in USDC (x402)."
+2026-10-07T18:02:28.11989Z,com.kairossignal/kairos-signal,Kairos Signal — verifiable DePIN data API,3.7.0,https://github.com/OV3RK177/kairos-mcp-server,streamable-http,"DePIN network telemetry with the source, as_of time and an upstream verify URL on every value."
+2026-10-07T18:06:53.037981Z,io.github.cmeans/mcp-synology,Synology NAS,0.5.3,https://github.com/cmeans/mcp-synology,,"MCP server for Synology NAS — browse files, monitor health, and automate operations"
+2026-10-07T18:08:52.88937Z,io.github.projectworks007/job-boards-2,Job Boards Data (part 2),1.0.0,https://github.com/projectworks007/apify-data-mcp,streamable-http,"Live job ads from StepStone, XING, Welcome to the Jungle, Naukri, JobStreet and more."
+2026-10-07T18:09:07.003301Z,com.minutesofai/mcp,Minutes of AI,1.0.0,,streamable-http,"Read-only AI news: stories with status labels and sources, Model Tracker data and corrections."
+2026-10-07T18:09:50.877648Z,io.github.shplep/diskdrive,DiskDrive,1.0.0,,streamable-http,User-owned files and explicit AI Memories for authorized assistants with scoped access.
+2026-10-07T18:14:22.503976Z,br.com.tarodando/mcp,Tá Rodando,1.0.0,,streamable-http,"Uptime monitoring and public status page: HTTP monitors, down/up alerts and incidents."
+2026-10-07T18:16:25.382514Z,ai.tommos/tommos,Tommos,1.0.0,,streamable-http,"A CRM with AI agents that take B2B inquiries to a signed contract. Contacts, deals, forms, bookings."
+2026-10-07T18:19:17.797199Z,me.denik/denik,Denik,0.1.2,,,"Book appointments, check availability, list services and create payment links for a Denik business."
+2026-10-07T18:20:30.775787Z,com.bizcraw/bizcraw,Bizcraw,1.1.0,https://github.com/thnthnh7/BD-tool,streamable-http,"Web scraping and AI sales workspace with scoped CRM, scraping, knowledge and sales workflow tools."
