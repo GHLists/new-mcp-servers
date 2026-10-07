@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-10-07T22:22:44.293174Z,com.jobsbylevel/level-jobs,Level,1.1.0,,streamable-http,"Free, read-only access to job listings rated by AI level, from Little AI to Builds AI."
+2026-10-07T22:23:53.477635Z,io.github.stanislav-testhub/openwrt-mcp,OpenWrt MCP,1.3.0,https://github.com/stanislav-testhub/openwrt-mcp,,"MCP server that runs on an OpenWrt router: deny-by-default policy, audit log, rollback-armed changes"
+2026-10-07T22:24:13.709978Z,io.github.L337-org/docker-mcp-server,Docker MCP Server,2.2.7,https://github.com/L337-org/docker-mcp,,"Manage Docker (containers, images, Compose, Swarm, registries) via the Docker SDK and CLI."
+2026-10-07T22:26:10.988809Z,fr.vtc-aeroport/reservation,VTC AEROPORT PARIS,1.0.0,,streamable-http,"Chauffeur privé et transferts aéroport à Paris (CDG, Orly, Beauvais) : prix fixes et réservation."
+2026-10-07T22:26:53.382648Z,io.github.kumarprabhashanand/loremfile,loremfile,0.2.0,https://github.com/kumarprabhashanand/loremfile,,"CC0 sample files and test fixtures: find one, get its URL and SHA-256, check a copy on disk."
+2026-10-07T22:28:01.912798Z,io.github.Ollynov/ball-ranks,Ball Ranks,1.0.0,https://github.com/Ollynov/yosho-ball,streamable-http,Fantasy football and basketball rankings and player projections from Ball Ranks.
+2026-10-07T22:33:17.439835Z,com.statoss/mcp,StatOSS,1.0.0,,streamable-http,"Status pages and uptime monitoring: read status, monitors and incidents; open incidents."
+2026-10-07T22:38:08.015443Z,io.thepillar/pillar,The Pillar,1.0.0,,streamable-http,"Find and lease ad windows and city billboards on The Pillar, a 3D tower. Paid monthly on Stripe."
+2026-10-07T22:52:05.98159Z,io.github.cyanheads/guardian-mcp-server,,0.1.5,https://github.com/cyanheads/guardian-mcp-server,,Guardian Open Platform: search and retrieve full article text from The Guardian archive.
+2026-10-07T22:53:30.171624Z,io.github.zenmode87/zenmode,ZenMode,1.0.0,https://github.com/zenmode87/zenmode-mcp,streamable-http,"Read LinkedIn outreach campaigns, contacts and replies, and manage campaign leads and targeting."
+2026-10-07T22:54:28.093016Z,io.github.mordor-forge/gemini-media-mcp,Gemini Media,1.0.0,https://github.com/mordor-forge/gemini-media-mcp,,"Generate images (Nano Banana), video (Veo, Gemini Omni), speech and music (Lyria) with Google models"
+2026-10-07T22:56:59.102024Z,io.github.bkeller-research/domain-intel-check,Domain Intelligence Check,0.1.0,,streamable-http,"Domain enrichment: email provider, DMARC/SPF/DKIM, WHOIS age, SSL, hosting and CDN per domain."
+2026-10-07T22:57:01.121434Z,io.github.bkeller-research/google-play-app-check,Google Play App Check,0.1.0,,streamable-http,"Company domains to Android app data: verified developer match, installs, rating, last update."
+2026-10-07T22:57:01.977736Z,io.github.bkeller-research/hiring-signal-check,Hiring Signal Check,0.1.0,,streamable-http,"Is a company hiring? Domains to open roles, ATS, departments and seniority from public job boards."
+2026-10-07T22:57:05.357322Z,io.github.bkeller-research/tech-stack-check,Tech Stack Check,0.1.0,,streamable-http,"Detect a website's CMS, analytics, chat, payments and ad pixels, with evidence and tracking IDs."
+2026-10-07T23:04:55.325682Z,ai.mediapact/mcp,MediaPact,1.0.0,,streamable-http,"Search flat-fee newsletter, podcast and sponsored content placements by budget, audience and dates."
+2026-10-07T23:08:10.238553Z,com.rationalbloks/mcp,RationalBloks,0.16.0,https://github.com/rationalbloks/rationalbloks-mcp,streamable-http,Deploy production REST and Neo4j Graph APIs from JSON schemas in seconds.
+2026-10-07T23:10:07.567938Z,dev.shveik/agpay,agpay,1.0.0,,streamable-http,"Payments held between two agents: buyer pays, seller delivers, buyer confirms. Pay per call."
+2026-10-07T23:12:17.57075Z,io.github.vriesdemichael/mm-mcp,Mattermost,0.1.0,https://github.com/vriesdemichael/mm-mcp,,"Read, search and post in Mattermost as yourself or a bot."
+2026-10-07T23:19:08.723567Z,io.github.trueleaftech786/metqo-reviews,,0.1.0,https://github.com/metqo-data/metqo-plugins,streamable-http,"Walmart & Amazon review insights: complaints, topic sentiment, new-review alerts. Pay per result."
