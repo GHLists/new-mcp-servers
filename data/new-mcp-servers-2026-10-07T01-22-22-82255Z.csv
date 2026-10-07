@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-10-07T00:20:39.313918Z,io.github.AtlasGrunch/ship-com,Ship.com,1.0.0,https://github.com/AtlasGrunch/ship-com-mcp,streamable-http,"Compare rates, manage orders, buy labels, schedule pickups, and report on shipping."
+2026-10-07T00:23:58.138843Z,dev.plugrail/jp-corporate,PlugRail JP Corporate,0.1.1,https://github.com/plugrail/servers,streamable-http,Search Japanese corporations and verify invoice numbers using official National Tax Agency data.
+2026-10-07T00:29:25.025143Z,dev.plugrail/jp-calendar,PlugRail Japanese Calendar,0.2.0,https://github.com/plugrail/servers,streamable-http,Japanese holiday and business-day calculations using official Japan Cabinet Office data.
+2026-10-07T00:31:34.714585Z,io.github.DavidNgugi/flowscope,FlowScope UX Flow Analyser,0.1.0,https://github.com/DavidNgugi/flowscope,,"Turn YouTube product demos into structured UX flow reports, and compare demos side by side."
+2026-10-07T00:35:24.075657Z,com.worklawyerca/employment-lawyers-group,Employment Lawyers Group,1.0.0,,streamable-http,"California employee-side employment law firm: offices, page search, consultation requests."
+2026-10-07T00:37:50.260488Z,store.wizbi/prices,WizStore — Israeli supermarket prices,1.1.0,,streamable-http,"Daily Israeli supermarket prices: search, per-chain prices, cheapest stores, basket pricing, deals."
+2026-10-07T00:39:54.09836Z,dev.tanod/tanod,Tanod,0.1.0,,streamable-http,"Pay-per-call security checks for AI agents: contract scan, pre-tx check, skill/MCP scan."
+2026-10-07T00:40:04.559996Z,one.faf/rust-faf-mcp,Rust FAF,0.8.2,https://github.com/Wolfe-Jam/rust-faf-mcp,,Persistent project context — Rust-native MCP server. IANA-registered .faf format.
+2026-10-07T00:49:22.744879Z,io.github.parvizrahayan/portvan,Portvan,1.0.0,,streamable-http,"Branded IPFS gateway on your own domain: order by API, pay exact USDT (TRC20). Agent-ready catalog."
+2026-10-07T00:49:58.84248Z,io.github.kzmttkc/vet402-check,vet402-check,0.1.2,https://github.com/kzmttkc/vet402-delivery,,"Before your agent pays an x402 API, check if vet402 bought it with its own money and what came back."
+2026-10-07T00:50:12.047267Z,io.github.littleblakew/msds-chain,,1.5.11,https://github.com/littleblakew/msds-chain-mcp,,"Chemical safety intelligence — 24 tools: compatibility, hazards, PPE, compliance, SDS lookup"
+2026-10-07T00:52:47.654508Z,au.com.cgctransfers/booking,CGC Airport Transfers,1.2.4,,streamable-http,"Fixed-price quotes and bookings for private airport transfers: Gold Coast, Brisbane, Byron Bay."
+2026-10-07T00:54:40.021972Z,io.github.racharmi/ohgiftplease,OhGiftPlease Gift Discovery,1.0.0,https://github.com/racharmi/-ohgiftplease-mcp,streamable-http,"Person-first gift discovery from OhGiftPlease with curated ideas, guides, categories, and brands."
+2026-10-07T01:02:39.283911Z,online.ringguard/ringguard,RingGuard — AI Receptionist for Trade Businesses,1.1.0,,streamable-http,"Missed-call cost, AI receptionist pricing and free trial signup; CRM tools for RingGuard sales reps"
+2026-10-07T01:10:01.651025Z,co.youngster.tools/booking,Youngster: book a senior into a free tech-help session,1.0.1,,streamable-http,"Book seniors into free, in-person tech-help sessions at libraries and venues across Australia."
+2026-10-07T01:21:51.647601Z,com.dmca/dmca-cases,DMCA.com Cases,1.2.0,https://github.com/NetroDev/dmca-cases-public-mcp,streamable-http,"DMCA.com takedown cases: list, get, create and update DMCA cases via the DMCA.com API."
