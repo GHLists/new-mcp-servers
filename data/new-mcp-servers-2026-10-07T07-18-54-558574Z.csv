@@ -1,0 +1,14 @@
+created_at,server,title,version,repository,transports,description
+2026-10-07T06:32:27.735225Z,io.github.leniwyposel/sejm-mcp,Sejm RP,0.3.0,https://github.com/leniwyposel/sejm-mcp,,"Sejm RP i akty prawne (ELI): posłowie, głosowania, interpelacje, ustawy. Lokalnie, tylko odczyt."
+2026-10-07T06:39:28.357898Z,ai.localmark/agent-directory,LocalMark Agent Directory,1.0.0,,streamable-http,Search reviewed public A2A Agent Cards and declared skills with read-only MCP tools.
+2026-10-07T06:45:01.847573Z,io.extcord/extcord,Extcord,0.4.4,,streamable-http,"Agent utilities: read big pages without filling context, exact math, dates, parsing. Free."
+2026-10-07T06:48:53.202219Z,io.github.bereciartua/ek-bridge,EK Bridge,0.8.0,https://github.com/bereciartua/ek-bridge,,"Scoped Apple Calendar and Reminders access for AI agents, with per-client grants and approvals"
+2026-10-07T06:49:31.55526Z,com.ishob/archive,ISHOB Knowledge Archive,1.0.0,,streamable-http,License-checked research archive and technical-spec search for AI agents. Pay per call via x402.
+2026-10-07T06:54:35.854085Z,io.github.gridhra/chat-tool-ui-preview,chat-tool-ui-preview,0.1.1,https://github.com/gridhra/chat-tool-ui-preview,,"Preview a chat post before an agent sends it: text, mentions, destination, warnings. Never sends."
+2026-10-07T06:55:35.364125Z,ae.plantguide/dubai-gardening,Plant Guide: Dubai gardening research,1.0.0,,streamable-http,"What to plant in Dubai each month, plant care in the heat, garden styles and Garden Care prices."
+2026-10-07T07:05:56.212526Z,ai.gigaverse/gigaverse,,1.3.0,,streamable-http,"2026 state, city and platform tax profiles for gig workers and creators, plus Roth IRA signups."
+2026-10-07T07:11:14.717849Z,com.gddynb/xingdao-manage,Xingdao Manufacturing Management Toolkit,1.0.0,,streamable-http,"Manufacturing management toolkit: TBP, quality, TPM, J-cost, OEE, vitality diagnostics."
+2026-10-07T07:12:35.432858Z,io.github.OrtaMarco/seo-geo-mcp-server,SEO & GEO,1.2.1,https://github.com/OrtaMarco/seo-geo-mcp-server,,"Audit a page's SEO and its readiness for AI answer engines: meta, schema, robots, sitemaps, AI bots."
+2026-10-07T07:17:35.693497Z,io.github.houtini-ai/lm,,3.3.4,https://github.com/houtini-ai/houtini-lm,,Connect Claude to any OpenAI-compatible LLM endpoint and offload routine work to a local model.
+2026-10-07T07:17:43.935324Z,io.github.houtini-ai/fmp,,1.1.9,https://github.com/houtini-ai/fmp-mcp,,Access financial data and market information via Financial Modeling Prep API
+2026-10-07T07:17:52.832575Z,io.github.houtini-ai/fanout,,0.2.11,https://github.com/houtini-ai/fanout-mcp,,Multi-URL comparative content analysis with topical gap detection
