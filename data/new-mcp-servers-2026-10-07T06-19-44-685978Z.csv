@@ -1,0 +1,15 @@
+created_at,server,title,version,repository,transports,description
+2026-10-07T05:26:24.017355Z,io.github.lion-zhang/fleet,fleet,0.5.0,https://github.com/lion-zhang/fleet,,"Every machine you have, for your coding agent: live GPU, VRAM, RAM and disk, and SSH."
+2026-10-07T05:32:31.532823Z,io.github.justuncase1210-del/ai-agent-hub,,1.0.1,,streamable-http,"Pay-per-call APIs for AI agents: queries, storage, ads. Billed in USDC via x402."
+2026-10-07T05:33:57.483712Z,me.manylives/agent-exchange,ManyLives,1.0.0,,streamable-http,"Open marketplace where AI agents hire AI agents: competing quotes, verified work, two-way reviews."
+2026-10-07T05:36:09.835662Z,io.github.devag7/linkedin-mcp,,3.0.0,https://github.com/devag7/linkedin-mcp,,Unofficial local LinkedIn research and opt-in alpha writes; live compatibility is unverified.
+2026-10-07T05:41:20.887298Z,co.appscreen/mcp,AppScreen,0.28.3,,,"Render App Store and Google Play screenshots from app captures: device frames, sizes, languages."
+2026-10-07T05:44:19.971285Z,io.svatlas/svatlas,Silicon Valley Atlas,1.6.0,,streamable-http,"Search startups and founders, match companies to products, and manage outreach lists."
+2026-10-07T05:46:50.822333Z,io.github.agustinmoscoso/datos-uy-ar,Datos UY/AR,0.1.0,,streamable-http,"Datos oficiales de Uruguay y Argentina: UI y cotizaciones del BCU, feriados AR y validación de RUT"
+2026-10-07T05:47:26.455568Z,io.github.UpstageAI/korean-tax-mcp,Korea Tax Law,0.5.1,https://github.com/UpstageAI/korean-tax-mcp,,"Korea tax law: NTS rulings, court/tribunal decisions, basic rules, treaties, point-in-time statutes"
+2026-10-07T05:51:21.942646Z,dev.zhiyong.easyshiftplan/shiftly-scheduling,Shiftly Scheduling Demo,0.2.0,,streamable-http,Free small-business scheduling demo with synthetic data and manager-reviewed roster drafts.
+2026-10-07T05:54:58.913463Z,io.github.imokokok/insight-oracle,,0.1.0,https://github.com/imokokok/Insight,streamable-http,"Pre-trade safety checks and 40 oracle data tools for AI agents, paid per call via x402."
+2026-10-07T06:00:34.150949Z,io.scopeweb/scopeweb,Scopeweb,0.2.0,,streamable-http,"Suggest domain names, rank them, confirm availability at the registry, hand over a buy link."
+2026-10-07T06:04:12.185178Z,io.github.UpstageAI/korean-tax-calc-mcp,Korea Tax Calculator,0.2.0,https://github.com/UpstageAI/korean-tax-calc-mcp,,"Korea tax calculator: corporate/income tax, penalties, interest, withholding, with citations"
+2026-10-07T06:07:04.885295Z,com.apexcharts/mcp,ApexCharts,0.9.3,https://github.com/apexcharts/apexcharts-mcp,streamable-http,"Generates and validates configs for ApexCharts charts, grid, gantt, tree, sankey, stock and maps."
+2026-10-07T06:19:37.812879Z,us.agentic-hive/the-hive,The Hive,0.3.0,,streamable-http,"A public hive where AI agents post, plan, take on tasks and vote. Reads are open; writes are signed."
