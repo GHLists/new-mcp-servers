@@ -9,46 +9,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 19:20 UTC
+## Latest list — 2026-10-07 20:21 UTC
 
-New MCP servers published between 2026-10-07 18:21 UTC and 2026-10-07 19:20 UTC.
+New MCP servers published between 2026-10-07 19:20 UTC and 2026-10-07 20:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-07T19-20-25-506858Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-07T20-21-44-861909Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-07 18:24:32 | [xyz.apexfaucet/apex-x1](https://github.com/apexfaucet-hub/apex-x1-mcp) | APEX Faucet | 1.0.5 | Free X1 and Arc faucets plus 153 agent tools: token exit checks, launches, yiel… |
-| 2026-10-07 18:24:36 | xyz.apexfaucet/apex-arc | APEX on Arc | 1.0.3 | Arc for agents: free USDC, ERC-8004 passports, watchtower, exit checks, yield v… |
-| 2026-10-07 18:24:44 | xyz.apexfaucet/apex-web | APEX web reader | 1.0.2 | A real browser for your agent: any page, or 25 pages of a site, to clean text.… |
-| 2026-10-07 18:28:01 | [io.github.IBazylchuk/paparats-mcp](https://github.com/IBazylchuk/paparats-mcp) | Paparats – Local Semantic Code Search M… | 2.8.0 | Local-first semantic code search across all your repos. Private context for AI… |
-| 2026-10-07 18:31:48 | [io.github.dgesteves/design-system-mcp](https://github.com/dgesteves/design-system-mcp) | Design System MCP | 0.1.1 | Ground truth about your React design system for coding agents, plus a UI linter… |
-| 2026-10-07 18:32:16 | [cloud.html/html-cloud](https://github.com/viljamilaurila/html-cloud) | HTML Cloud | 0.4.1 | Share AI-generated HTML as a private, end-to-end encrypted link. Update it late… |
-| 2026-10-07 18:32:39 | [dev.eurobase/eurobase](https://github.com/eurobase-dev/plugins) | Eurobase | 1.0.0 | Create, deploy and inspect Eurobase projects and Functions in the European clou… |
-| 2026-10-07 18:32:52 | ca.pulga/marketplace | Pulga | 1.0.0 | Read-only search of Québec's bilingual classifieds: ads, categories, filters, p… |
-| 2026-10-07 18:33:53 | [io.github.mechubsec/rustproxmoxmcp](https://github.com/mechubsec/rustproxmoxmcp) | rust-proxmoxmcp | 0.11.0 | Proxmox VE MCP server for many clusters: guest protection, plan/approve/apply c… |
-| 2026-10-07 18:35:30 | [io.github.norve-labs/irl-gateway](https://github.com/norve-labs/irl-gateway) | IRL Gateway | 0.2.2 | An AI agent's trading mandate it can't break: checked before every order, reaso… |
-| 2026-10-07 18:37:11 | [io.github.michaelrice/zendesk-mcp](https://github.com/michaelrice/zendesk-mcp) |  | 0.1.5 | Zendesk MCP server for Claude Code and other MCP clients |
-| 2026-10-07 18:41:52 | [com.fedlin/fedlin-mcp-server](https://github.com/fedlinllc/fedlin-mcp-server) | FEDLIN Scanners | 1.1.0 | Exposes FEDLIN's public security scanners as agent-callable tools over Streamab… |
-| 2026-10-07 18:43:48 | [io.github.reinlayer/rein-agent-risk-scale](https://github.com/reinlayer/rein-examples) | Rein Agent Risk Scale | 0.1.0 | Indicative Agent Risk Rating (A-E) self-check for AI agents that spend money. N… |
-| 2026-10-07 18:43:50 | ai.multivoice/video-dubbing-subtitles-transcription-audiobooks | Video Dubbing, Subtitles, Transcription… | 1.0.0 | AI video dubbing, subtitles, transcription and audiobook creation. Exact price… |
-| 2026-10-07 18:49:07 | com.tempuslog/tempuslog | TempusLog | 1.0.0 | Free time tracking for teams: log hours in plain words, run timers, see where y… |
-| 2026-10-07 18:51:27 | [io.github.mustafacagri/ai-quality-gate](https://github.com/mustafacagri/ai-quality-gate) |  | 1.1.0 | 🚀 Kill the Junior AI Era. 🤖 Level up AI code to automatically Principal standar… |
-| 2026-10-07 18:51:37 | ai.audiomap/audiomap | AudioMap | 1.0.0 | Search, read and ask questions about your AudioMap transcripts, notes, speakers… |
-| 2026-10-07 18:51:38 | com.memchats/memchats | Memchats | 2.0.0 | Search your chat history and contact memory, and ask advisors about your conver… |
-| 2026-10-07 18:56:36 | io.github.saulius876-lgtm/contact-details | Contact Details Scraper | 1.0.0 | Emails, phones and social links from any list of websites. Pay only for sites w… |
-| 2026-10-07 18:56:39 | io.github.saulius876-lgtm/pinterest | Pinterest Scraper | 1.0.0 | Pinterest pins, boards, profiles and keyword search to JSON: saves, images, lin… |
-| 2026-10-07 18:56:41 | io.github.saulius876-lgtm/weibo | Weibo Scraper | 1.0.0 | Weibo posts, hot search, comments and profiles to JSON. No login or cookies nee… |
-| 2026-10-07 18:56:41 | io.github.saulius876-lgtm/youtube-scraper | YouTube Scraper | 1.0.0 | YouTube videos, Shorts, channels, playlists and search to JSON: views, likes, d… |
-| 2026-10-07 18:56:42 | io.github.saulius876-lgtm/zillow | Zillow Scraper | 1.0.0 | Zillow listings and property details: price, Zestimate, beds, baths, agent, his… |
-| 2026-10-07 18:56:44 | [app.lovedone/family-inbox](https://github.com/Terahertz-Inc/lovedone-mcp) | LovedOne Family MCP | 0.3.0 | Family inbox: read records; invite, reply, mint codes. API key or OAuth care_ci… |
-| 2026-10-07 18:56:45 | [app.lovedone/soft](https://github.com/Terahertz-Inc/lovedone-mcp) | LovedOne Soft MCP | 0.2.0 | LovedOne Soft: clients, visits, notes, invoices, scheduling. API key or OAuth c… |
-| 2026-10-07 19:00:04 | [io.github.r69shabh/pg-bloat-detective](https://github.com/r69shabh/pg-bloat-detective) | PG Bloat Detective | 0.1.3 | Read-only Postgres bloat verdicts: blockers, timelines, REINDEX proof. |
-| 2026-10-07 19:00:10 | [io.github.ooples/token-optimizer-mcp](https://github.com/ooples/token-optimizer-mcp) |  | 7.4.0 | Context-window optimization: caching, compression & smart file tools that cut t… |
-| 2026-10-07 19:02:13 | com.type/mcp | type.com | 1.0.0 | Work with shared spaces, threads, documents, skills, apps, automations, and con… |
-| 2026-10-07 19:03:32 | [io.github.samarmstrong/openmep](https://github.com/samarmstrong/openmep) | OpenMEP duct sizing | 0.2.0 | Deterministic HVAC duct sizing at a fixed or Manual D friction rate; grades exi… |
-| 2026-10-07 19:10:44 | [io.github.MattStellisoft/stellify-mcp](https://github.com/Stellify-Software-Ltd/stellify-mcp) |  | 1.0.8 | Build Laravel apps through conversation. Code stored as structured JSON for sur… |
-| 2026-10-07 19:13:01 | io.github.PGhannmmn/base-usdc-receivables-auditor | Base USDC Receivables Auditor | 0.1.0 | Dual-RPC Base USDC receivables reconciliation with safe finality and fail-ambig… |
-| 2026-10-07 19:13:46 | [io.github.mustafacagri/vibe-gate-mcp](https://github.com/mustafacagri/vibe-gate-mcp) |  | 0.1.12 | Adversarial Quality Gate MCP for vibe-coding: IDE AI vs Critic AI, human decide… |
+| 2026-10-07 19:25:29 | org.inkflowstudio/inkflow |  | 1.16.0 | Write a full-length novel free, no signup. A finished manuscript, not another w… |
+| 2026-10-07 19:28:49 | [ai.luw/mcp](https://github.com/Luvi-io/luw-mcp) | Luw.ai | 0.1.0 | AI interior, exterior and landscape design, photoreal rendering, image editing,… |
+| 2026-10-07 19:32:19 | io.github.xs1128/perplexity-browser-mcp | Perplexity Browser MCP | 1.4.0 | Search Perplexity using your browser login. Returns answers, sources, and threa… |
+| 2026-10-07 19:36:42 | [io.github.Liyux3/scholar-mcp](https://github.com/Liyux3/scholar-mcp) | Scholar MCP | 0.8.5 | Federated academic search, citation traversal, persistent PDF download, and tem… |
+| 2026-10-07 19:42:34 | [io.github.fernandoguiraud16-coder/google-hotels-scraper](https://github.com/fernandoguiraud16-coder/data-tools) | Google Hotels Scraper | 1.0.0 | Hotel prices, ratings, reviews and amenities from Google Hotels for any city, d… |
+| 2026-10-07 19:42:34 | [io.github.fernandoguiraud16-coder/google-jobs-scraper](https://github.com/fernandoguiraud16-coder/data-tools) | Google Jobs Scraper | 1.0.0 | Job listings from Google Jobs with salary ranges, highlights, descriptions and… |
+| 2026-10-07 19:43:34 | [net.umbhost/umbpanel-mcp](https://github.com/UmbHost/claude-plugins) | UmbPanel — UmbHost GreenStack management | 0.1.0 | Manage your UmbHost GreenStack hosting: services, DNS, registries and deploys,… |
+| 2026-10-07 19:43:45 | app.blumee/flowers | Blumee — flower delivery comparison (Ge… | 1.0.0 | Compare flower delivery in Germany: find bouquets by text or photo, order at pa… |
+| 2026-10-07 19:43:53 | [net.umbhost/umbhost-mcp](https://github.com/UmbHost/claude-plugins) | UmbHost — Umbraco hosting storefront | 0.1.0 | Find, price and order UmbHost Umbraco hosting and check domains; a human comple… |
+| 2026-10-07 19:45:10 | [io.github.jtalk22/slack-mcp-server](https://github.com/jtalk22/slack-mcp-server) | Slack MCP Server | 5.1.0 | Catch up on Slack without reading it. Unreads, threads, search. Browser-session… |
+| 2026-10-07 19:49:18 | [com.uselawless/priorbit](https://github.com/Lawless-Inc/priorbit) | Priorbit — IP database for agents | 0.4.2 | US patents, applications and trademarks with full claims, owners, drawings and… |
+| 2026-10-07 19:51:32 | dev.openplanr/docs | OpenPlanr Docs | 1.0.0 | Read-only search and Markdown pages from the OpenPlanr docs, for coding agents. |
+| 2026-10-07 19:57:42 | [com.devcycle/mcp](https://github.com/DevCycleHQ/cli) |  | 6.6.0 | DevCycle MCP server for feature flag management |
+| 2026-10-07 20:02:26 | com.resonancemetrics/mcp | ResonanceMetrics | 1.0.0 | AEO/GEO brand reports and recommendations for agents signed in to ResonanceMetr… |
+| 2026-10-07 20:02:42 | [io.github.musatoktas/whyts](https://github.com/musatoktas/whyts) |  | 0.8.1 | Find out why a TypeScript project is slow: measured analysis and before/after c… |
+| 2026-10-07 20:03:28 | app.kasar/crm | Kasar CRM | 1.0.0 | AI-native CRM: records, pipelines, tasks, calendar and the email, LinkedIn and… |
+| 2026-10-07 20:05:07 | [io.github.nxtg-ai/forge-orchestrator](https://github.com/nxtg-ai/forge-orchestrator) | Forge Orchestrator | 1.6.2 | AI orchestration: Claude Code, Codex, Gemini on shared repos. 11 MCP tools, std… |
+| 2026-10-07 20:11:27 | [com.programscape/programscape](https://github.com/Deirfgeiz/programscape-mcp) | Programscape | 1.0.0 | Startup credits, programs and perks that fit your company, from checked, source… |
+| 2026-10-07 20:18:24 | com.remoterocketship/jobs | Remote Rocketship jobs | 1.1.0 | Search remote jobs from company career pages by title, location, seniority, sal… |
 
 ## Data source
 

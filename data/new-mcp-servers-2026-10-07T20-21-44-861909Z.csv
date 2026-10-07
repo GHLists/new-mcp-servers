@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-10-07T19:25:29.595894Z,org.inkflowstudio/inkflow,,1.16.0,,streamable-http,"Write a full-length novel free, no signup. A finished manuscript, not another workspace."
+2026-10-07T19:28:49.198519Z,ai.luw/mcp,Luw.ai,0.1.0,https://github.com/Luvi-io/luw-mcp,streamable-http,"AI interior, exterior and landscape design, photoreal rendering, image editing, video and 3D."
+2026-10-07T19:32:19.680603Z,io.github.xs1128/perplexity-browser-mcp,Perplexity Browser MCP,1.4.0,,,"Search Perplexity using your browser login. Returns answers, sources, and thread URLs. No API key."
+2026-10-07T19:36:42.089277Z,io.github.Liyux3/scholar-mcp,Scholar MCP,0.8.5,https://github.com/Liyux3/scholar-mcp,,"Federated academic search, citation traversal, persistent PDF download, and temporary reading."
+2026-10-07T19:42:34.538462Z,io.github.fernandoguiraud16-coder/google-hotels-scraper,Google Hotels Scraper,1.0.0,https://github.com/fernandoguiraud16-coder/data-tools,streamable-http,"Hotel prices, ratings, reviews and amenities from Google Hotels for any city, dates and guests."
+2026-10-07T19:42:34.961885Z,io.github.fernandoguiraud16-coder/google-jobs-scraper,Google Jobs Scraper,1.0.0,https://github.com/fernandoguiraud16-coder/data-tools,streamable-http,"Job listings from Google Jobs with salary ranges, highlights, descriptions and apply links."
+2026-10-07T19:43:34.427356Z,net.umbhost/umbpanel-mcp,UmbPanel — UmbHost GreenStack management,0.1.0,https://github.com/UmbHost/claude-plugins,streamable-http,"Manage your UmbHost GreenStack hosting: services, DNS, registries and deploys, as the member."
+2026-10-07T19:43:45.885637Z,app.blumee/flowers,Blumee — flower delivery comparison (Germany),1.0.0,,streamable-http,"Compare flower delivery in Germany: find bouquets by text or photo, order at partner florists."
+2026-10-07T19:43:53.510122Z,net.umbhost/umbhost-mcp,UmbHost — Umbraco hosting storefront,0.1.0,https://github.com/UmbHost/claude-plugins,streamable-http,"Find, price and order UmbHost Umbraco hosting and check domains; a human completes checkout."
+2026-10-07T19:45:10.875555Z,io.github.jtalk22/slack-mcp-server,Slack MCP Server,5.1.0,https://github.com/jtalk22/slack-mcp-server,streamable-http,"Catch up on Slack without reading it. Unreads, threads, search. Browser-session or hosted OAuth."
+2026-10-07T19:49:18.445917Z,com.uselawless/priorbit,Priorbit — IP database for agents,0.4.2,https://github.com/Lawless-Inc/priorbit,streamable-http,"US patents, applications and trademarks with full claims, owners, drawings and live USPTO records."
+2026-10-07T19:51:32.686956Z,dev.openplanr/docs,OpenPlanr Docs,1.0.0,,streamable-http,"Read-only search and Markdown pages from the OpenPlanr docs, for coding agents."
+2026-10-07T19:57:42.612908Z,com.devcycle/mcp,,6.6.0,https://github.com/DevCycleHQ/cli,streamable-http; sse,DevCycle MCP server for feature flag management
+2026-10-07T20:02:26.144474Z,com.resonancemetrics/mcp,ResonanceMetrics,1.0.0,,streamable-http,AEO/GEO brand reports and recommendations for agents signed in to ResonanceMetrics.
+2026-10-07T20:02:42.76458Z,io.github.musatoktas/whyts,,0.8.1,https://github.com/musatoktas/whyts,,Find out why a TypeScript project is slow: measured analysis and before/after comparison.
+2026-10-07T20:03:28.341515Z,app.kasar/crm,Kasar CRM,1.0.0,,streamable-http,"AI-native CRM: records, pipelines, tasks, calendar and the email, LinkedIn and WhatsApp inbox."
+2026-10-07T20:05:07.893316Z,io.github.nxtg-ai/forge-orchestrator,Forge Orchestrator,1.6.2,https://github.com/nxtg-ai/forge-orchestrator,,"AI orchestration: Claude Code, Codex, Gemini on shared repos. 11 MCP tools, stdio (stage: internal)"
+2026-10-07T20:11:27.300683Z,com.programscape/programscape,Programscape,1.0.0,https://github.com/Deirfgeiz/programscape-mcp,streamable-http,"Startup credits, programs and perks that fit your company, from checked, sourced records."
+2026-10-07T20:18:24.434703Z,com.remoterocketship/jobs,Remote Rocketship jobs,1.1.0,,streamable-http,"Search remote jobs from company career pages by title, location, seniority, salary, and tech stack."
