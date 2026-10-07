@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-10-07T16:24:44.853706Z,io.github.MayberryDT/ibara,ibara,0.1.0-29,https://github.com/MayberryDT/ibara,,Computer use for your agents across the Omarchy machines you own. Open source MCP server.
+2026-10-07T16:28:12.130955Z,io.github.kouhxp/gutsy,gutsy,0.1.1,https://github.com/kouhxp/gutsy-mcp,,"Local gut check before risky agent actions: calibrated safe/intended probabilities, no API calls."
+2026-10-07T16:33:32.33177Z,io.github.iambrettforbes/botsupply,BotSupply,1.0.0,,streamable-http,"Prepaid credits for agents: browse SKUs, open a wallet, check balance, buy packs, Stripe top-up."
+2026-10-07T16:34:54.176903Z,com.roledawn/mcp,RoleDawn,0.2.0,,streamable-http,"Companies that just started hiring a team, Greenhouse/Lever/Ashby jobs, App Store & Play reviews."
+2026-10-07T16:35:05.67573Z,io.github.richardguerre/fig,Fig,1.0.0,,streamable-http,"Live keyword, SERP, backlink, and AI-visibility research for AI agents. Prepaid pay-per-use."
+2026-10-07T16:41:57.513014Z,io.github.w3tech/agent-rpc-mcp,Ankr Agent RPC,0.2.4,https://github.com/w3tech/agent-rpc-mcp-public,streamable-http,"Read chain data on 200+ networks and Sui: transactions, logs, balances, objects, ABI-decoded."
+2026-10-07T16:44:31.92949Z,sh.openad/openad,OpenAd,3.1.0,,streamable-http,"Your agent posts what you offer, searches for what you need, and talks to other agents."
+2026-10-07T16:50:27.970654Z,bid.scope/legal,Scope (Legal),1.0.10,https://github.com/scope-bid/scope-mcp,streamable-http,Dispatch litigation work to legal-services professionals from any MCP-compatible AI workflow.
+2026-10-07T16:50:29.56888Z,design.zaps/zaps,Zaps,1.1.0,https://github.com/turnip-agentic/zaps-agent,streamable-http,"Photos and a brief in, finished social-media designs out. First design free, no account."
+2026-10-07T16:50:30.1242Z,bid.scope/claims,Scope (Claims) - Preview,1.0.10,https://github.com/scope-bid/scope-mcp,streamable-http,"Claims-side professional procurement (IMEs, independent adjusters, surveillance). Preview."
+2026-10-07T16:50:32.277128Z,bid.scope/aec,Scope (AEC) - Preview,1.0.10,https://github.com/scope-bid/scope-mcp,streamable-http,AEC subcontractor procurement layer. Preview - V3 launches 2027.
+2026-10-07T16:52:07.593926Z,com.dakaio/domainscout,DomainScout,1.1.2,https://github.com/JohnDaka/domainscout-mcp,,"Domain research for AI agents: checks hundreds of names in one call, with prices and where to buy."
+2026-10-07T16:59:21.589561Z,com.olachill/olachill-travel,OlaChill Japan Travel,1.0.0,,streamable-http,"Search and price Japan tours, tickets, ryokan, transfers, charter buses, helicopters, golf and eSIM."
+2026-10-07T17:03:26.716174Z,com.macfax/macfax,Macfax,1.0.2,https://github.com/macfax/macfax-mcp,streamable-http,"Used-Mac market: quality-gated listings with deep links, sale estimates, trust checks, alerts."
+2026-10-07T17:07:43.913147Z,net.pickadate/pickadate,Pickadate,1.0.0,,streamable-http,"Find a date with a group: polls, rosters, RSVPs and sign-ups, run by your assistant."
+2026-10-07T17:08:12.937073Z,org.knossot/events,Knossot,1.0.0,,streamable-http,"Personal event picks from Knossot's calendar of the Hudson Valley, Philadelphia, and New York City."
+2026-10-07T17:12:26.057105Z,com.trycommonplace/seller,Commonplace,1.0.0,,streamable-http,"Use when selling a big item: fitness gear, hot tubs, furniture, appliances. Pickup handled."
+2026-10-07T17:14:32.183313Z,email.deadsimple/dead-simple-email,Dead Simple Email,0.3.0,https://github.com/deadsimple-email/deadsimple-email,streamable-http,"Give an agent its own inbox: send, receive, and pull signup codes from real email."
+2026-10-07T17:18:03.495351Z,es.cesaryague/paki-curator,PaKi Curator,2.0.3,,streamable-http,"Catalogue agent for César Yagüe's silent moving-image works, intuitively crafted, never generated."
