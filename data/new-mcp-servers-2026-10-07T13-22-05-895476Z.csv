@@ -1,0 +1,171 @@
+created_at,server,title,version,repository,transports,description
+2026-10-07T12:24:56.461568Z,io.github.bartekrutkowski/watchgoose-mcp,Watchgoose,0.1.3,https://github.com/bartekrutkowski/watchgoose-mcp,streamable-http,Monitor cron jobs and recurring work through a project-scoped Watchgoose connection.
+2026-10-07T12:30:02.569765Z,io.github.cyanheads/worldbank-mcp-server,,0.5.3,https://github.com/cyanheads/worldbank-mcp-server,streamable-http,"Query 29,500+ World Bank development indicators for 200+ countries across 60+ years."
+2026-10-07T12:30:38.061673Z,io.github.cyanheads/biorxiv-mcp-server,,0.3.1,https://github.com/cyanheads/biorxiv-mcp-server,streamable-http,"Search and retrieve bioRxiv and medRxiv preprints — by DOI, date interval, or keyword — via MCP."
+2026-10-07T12:32:01.334197Z,io.github.cyanheads/gdelt-mcp-server,,0.6.1,https://github.com/cyanheads/gdelt-mcp-server,streamable-http,Search and analyze global news coverage and US TV transcripts via the GDELT Project APIs.
+2026-10-07T12:32:16.548891Z,io.github.opnwiki/aiki,AIKI Knowledge Commons,1.1.10,https://github.com/opnwiki/aiki-mcp,streamable-http,Authenticated MCP access to the AIKI open knowledge commons.
+2026-10-07T12:34:04.181144Z,io.github.zriyox/codex-supervisor-mcp,,0.7.3,https://github.com/zriyox/codex-supervisor-mcp,,"Parallel Codex CLI workers from any MCP client: one git worktree each, state in SQLite, web board."
+2026-10-07T12:35:12.967931Z,io.github.Wavix/mcp,Wavix,1.2.0,https://github.com/Wavix/wavix-mcp-server,streamable-http,"Wavix telecom MCP: SMS, voice, 2FA, SIP, numbers, 10DLC, CDRs. Account sign-in or API key."
+2026-10-07T12:35:26.761855Z,com.esignatures/mcp,eSignatures.com,1.0.0,,streamable-http,"eSignatures.com: full control of contract content. Read, rewrite, send and track agreements."
+2026-10-07T12:36:59.567551Z,io.github.cyanheads/ntfy-mcp-server,,2.3.6,https://github.com/cyanheads/ntfy-mcp-server,,"Send, manage, and replay ntfy push notifications via MCP."
+2026-10-07T12:39:14.804327Z,io.github.melihbirim/csvql,csvql,2.8.0,https://github.com/melihbirim/csvql,,"Query CSV files with SQL via MCP. Fast, local, zero-config, read-only, sandboxable with --root."
+2026-10-07T12:39:56.7986Z,com.gitmir/intelligence,GitMir Intelligence,1.0.0,,streamable-http,"Business logic of your product for AI agents: rules, customer paths and what a change reaches"
+2026-10-07T12:40:05.127121Z,com.gitmir/vibe,GitMir Vibe,1.0.0,,streamable-http,Your coding agent asks the business logic of your repository and checks commits before they land
+2026-10-07T12:42:25.346101Z,io.github.cyanheads/libofcongress-mcp-server,,0.3.1,https://github.com/cyanheads/libofcongress-mcp-server,streamable-http,"Search LOC digital collections, Chronicling America newspapers (full OCR), and LC Subject Headings."
+2026-10-07T12:43:24.171155Z,com.cheapcadtools/tools,CheapCAD Tools,0.23.4,,streamable-http,"Design timing pulleys, check them against belt standards, export STL, STEP, DXF or SVG."
+2026-10-07T12:44:02.844321Z,io.github.Kenboe/kural-ai,Kural AI,2.2.0,https://github.com/Kenboe/kural-ai,streamable-http,Thirukkural lens for AI: verified couplet retrieval and quote verification over MCP.
+2026-10-07T12:45:21.314006Z,com.accentvoice/site,Accent site content,1.0.0,,streamable-http,"Search and read Accent's public website: cloud phone, contact center, pricing, support guides."
+2026-10-07T12:46:06.448559Z,io.github.ignatenkofi/memshelf-mcp,,0.4.0,https://github.com/ignatenkofi/memshelf-mcp,,"Working memory for AI agents: digest-indexed episodes on a git shelf, recalled a section at a time."
+2026-10-07T12:48:09.278276Z,io.github.cyanheads/shift-mcp-server,,0.1.8,https://github.com/cyanheads/shift-mcp-server,,Lightweight coordination layer for multiple AI agents working on the same codebase simultaneously.
+2026-10-07T12:49:48.878043Z,io.github.cyanheads/internet-archive-mcp-server,,0.3.1,https://github.com/cyanheads/internet-archive-mcp-server,,"Search the Wayback Machine and IA library (40M+ items), fetch snapshots, item metadata, and text."
+2026-10-07T12:50:34.941089Z,io.github.cyanheads/tmdb-mcp-server,,0.1.4,https://github.com/cyanheads/tmdb-mcp-server,,"Search, detail, and discovery for movies, TV, and people on The Movie Database (TMDB)."
+2026-10-07T12:52:30.509861Z,io.github.Jayzilva/helionyx,Helionyx,0.3.0,https://github.com/Jayzilva/helionyx,,"Size hybrid solar PV, wind, battery, diesel and grid systems: hourly simulation, NPC ranking."
+2026-10-07T12:54:36.189581Z,io.github.wttech/acm-mcp-server,AEM Content Manager (ACM),0.1.1,https://github.com/wttech/acm,,Validate and run Groovy scripts on Adobe Experience Manager through AEM Content Manager (ACM).
+2026-10-07T12:56:30.962124Z,io.github.Wxt-ai/project-code-notes-identifier,Project Intake Identifier,1.1.1,,streamable-http,Prepare project context from an intake note.
+2026-10-07T12:56:37.445417Z,io.github.Wxt-ai/project-code-notes-workbench,Delivery Update Ledger,1.1.1,,streamable-http,Build a delivery ledger entry.
+2026-10-07T12:56:41.579853Z,io.github.Wxt-ai/knowledge-section-index-identifier,Knowledge Note Segmenter,1.1.1,,streamable-http,Segment a knowledge note for indexing.
+2026-10-07T12:56:47.368217Z,io.github.Wxt-ai/knowledge-section-index-workbench,Knowledge Index Curator,1.1.1,,streamable-http,Update a section and backlink index.
+2026-10-07T12:56:57.582967Z,io.github.Wxt-ai/record-export-field-identifier,Customer Record Field Prep,1.1.1,,streamable-http,Prepare a customer record field.
+2026-10-07T12:57:30.695707Z,io.github.Wxt-ai/record-export-field-workbench,Reporting Export Assembler,1.1.1,,streamable-http,Assemble a reporting export row.
+2026-10-07T12:57:56.933243Z,io.github.Wxt-ai/release-report-label-identifier,Release Configuration Brief,1.1.1,,streamable-http,Prepare a configuration entry.
+2026-10-07T12:58:21.230994Z,com.whatsthatmodel/whats-that-model,What's That Model?,1.0.0,,streamable-http,"Sourced AI video/image capabilities, explained task recommendations and verified access context."
+2026-10-07T12:58:26.645436Z,io.github.Wxt-ai/release-report-label-workbench,Stakeholder Report Publisher,1.1.1,,streamable-http,Build a stakeholder configuration report.
+2026-10-07T12:58:41.884337Z,io.github.Wxt-ai/support-followup-marker-identifier,Support Intake Digest,1.1.1,,streamable-http,Prepare a support intake digest.
+2026-10-07T12:59:02.565844Z,io.github.Wxt-ai/support-followup-marker-workbench,Support Case Workbench,1.1.1,,streamable-http,Build a support case comment.
+2026-10-07T12:59:22.252593Z,io.github.Wxt-ai/repository-release-changes-identifier,Release Change Analyzer,1.1.1,,streamable-http,Summarize repository changes for a release.
+2026-10-07T12:59:38.820824Z,io.github.Wxt-ai/repository-release-changes-workbench,Release Notes Journal,1.1.1,,streamable-http,Publish a release-note entry.
+2026-10-07T12:59:45.544344Z,io.github.Wxt-ai/calendar-coordination-entry-identifier,Calendar Handoff Reader,1.1.1,,streamable-http,Normalize a calendar handoff.
+2026-10-07T12:59:50.105538Z,io.github.Wxt-ai/calendar-coordination-entry-workbench,Coordination Calendar Desk,1.1.1,,streamable-http,Create a coordination calendar entry.
+2026-10-07T12:59:56.674803Z,io.github.Wxt-ai/supplier-purchase-draft-identifier,Supplier Terms Reader,1.1.1,,streamable-http,Prepare supplier purchasing terms.
+2026-10-07T13:00:02.24692Z,io.github.Wxt-ai/supplier-purchase-draft-workbench,Purchase Draft Desk,1.1.1,,streamable-http,Create a purchase draft.
+2026-10-07T13:00:06.27467Z,io.github.Wxt-ai/referral-handoff-packet-identifier,Referral Handoff Reader,1.1.1,,streamable-http,Prepare a referral handoff digest.
+2026-10-07T13:00:08.141003Z,net.bookmax/bookmax,Bookmax,1.0.0,,streamable-http,"Search, read and save bookmarks, folders, tags, notes and docs in your Bookmax account."
+2026-10-07T13:00:10.537272Z,io.github.Wxt-ai/referral-handoff-packet-workbench,Referral Packet Desk,1.1.1,,streamable-http,Create a referral handoff packet.
+2026-10-07T13:00:12.707381Z,io.github.Wxt-ai/candidate-interview-agenda-identifier,Candidate Skills Mapper,1.1.1,,streamable-http,Map candidate skills to an interview plan.
+2026-10-07T13:00:20.524284Z,io.github.Wxt-ai/candidate-interview-agenda-workbench,Interview Agenda Builder,1.1.1,,streamable-http,Build an interview agenda.
+2026-10-07T13:00:20.572723Z,io.github.cyanheads/un-comtrade-mcp-server,,0.1.8,https://github.com/cyanheads/un-comtrade-mcp-server,,"UN Comtrade international trade statistics via MCP. Country/HS lookups, flows, balances, rankings."
+2026-10-07T13:00:26.490965Z,io.github.Wxt-ai/agreement-renewal-schedule-identifier,Agreement Obligation Reader,1.1.1,,streamable-http,Prepare an agreement obligation schedule.
+2026-10-07T13:00:31.399278Z,io.github.Wxt-ai/agreement-renewal-schedule-workbench,Renewal Schedule Desk,1.1.1,,streamable-http,Add entries to a renewal schedule.
+2026-10-07T13:00:36.302195Z,io.github.Wxt-ai/field-route-manifest-identifier,Field Route Sequencer,1.1.1,,streamable-http,Sequence stops for a field route.
+2026-10-07T13:00:41.148971Z,io.github.Wxt-ai/field-route-manifest-workbench,Dispatch Manifest Builder,1.1.1,,streamable-http,Build a dispatch manifest.
+2026-10-07T13:00:42.555187Z,com.bitsound/bitsound,Bitsound,1.0.0,,streamable-http,"Search the Bitsound music store, manage collection and playlists, edit your releases as an artist."
+2026-10-07T13:00:53.510246Z,io.github.Wxt-ai/metric-stakeholder-digest-identifier,Metric Trend Calculator,1.1.1,,streamable-http,Calculate a metric trend summary.
+2026-10-07T13:01:27.783139Z,io.github.Wxt-ai/metric-stakeholder-digest-workbench,Stakeholder Metric Digest,1.1.1,,streamable-http,Build a stakeholder metric digest.
+2026-10-07T13:02:31.583689Z,io.github.cyanheads/transitland-mcp-server,,0.1.3,https://github.com/cyanheads/transitland-mcp-server,,"Global transit via Transitland v2 — operators, GTFS/GTFS-RT/GBFS feeds, routes, stops, departures."
+2026-10-07T13:05:08.099384Z,io.github.cyanheads/evals-mcp-server,,0.1.5,https://github.com/cyanheads/evals-mcp-server,,Author verifiable eval records through a draft→review→revise→submit loop with enforced graders.
+2026-10-07T13:06:10.833216Z,io.usefulapi/freeagent,,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read FreeAgent contacts, invoices, bills, banking and reports; add contacts, draft invoices, time."
+2026-10-07T13:07:44.836265Z,com.rock8cloud/mcp,Rock8Cloud,0.1.2,,streamable-http,"Deploy services, add databases, run agents, read logs, check vulnerabilities and publish pages."
+2026-10-07T13:08:02.209662Z,io.github.konradish/electricityfinder,ElectricityFinder,1.0.0,,streamable-http,"Rank Texas electricity plans by yearly cost at your own monthly kWh. Free, no account."
+2026-10-07T13:11:17.442077Z,io.github.AnshumanAtrey/social-analyzer,Social Media Finder - Social Analyzer | Username 900+ Sites,1.0.8,https://github.com/AnshumanAtrey/social-analyzer,streamable-http,Social Analyzer - Find Social Media by Username | Sherlock
+2026-10-07T13:11:46.697087Z,io.github.cyanheads/seerr-mcp-server,,0.1.5,https://github.com/cyanheads/seerr-mcp-server,,"Search Jellyseerr/Overseerr, check availability, and create guarded media requests."
+2026-10-07T13:12:14.586957Z,io.github.Wxt-ai/workspace-access-checklist-identifier,Workspace Access Comparator,1.1.1,,streamable-http,Compare workspace access lists.
+2026-10-07T13:12:14.612747Z,io.github.Wxt-ai/routing-contact-identifier,Client Brief Routing Desk,1.1.1,,streamable-http,Select a contact for a client brief.
+2026-10-07T13:12:14.618249Z,io.github.Wxt-ai/workspace-access-checklist-workbench,Access Review Checklist,1.1.1,,streamable-http,Create an access review checklist.
+2026-10-07T13:12:14.654119Z,io.github.Wxt-ai/inventory-fulfillment-reservation-identifier,Lot Allocation Planner,1.1.1,,streamable-http,Plan a lot allocation.
+2026-10-07T13:12:14.689357Z,io.github.Wxt-ai/inventory-fulfillment-reservation-workbench,Fulfillment Reservation Ledger,1.1.1,,streamable-http,Record a fulfillment reservation.
+2026-10-07T13:12:15.042612Z,io.github.Wxt-ai/routing-contact-workbench,Finance Review Mailer,1.1.1,,streamable-http,Send a finance-review message.
+2026-10-07T13:12:17.62174Z,io.github.Wxt-ai/workspace-note-path-workbench,Workspace Export Writer,1.1.1,,streamable-http,Write a workspace export file.
+2026-10-07T13:12:17.637615Z,io.github.Wxt-ai/budget-planning-units-workbench,Scenario Planning Ledger,1.1.1,,streamable-http,Append a scenario planning amount.
+2026-10-07T13:12:17.748698Z,io.github.Wxt-ai/workspace-note-path-identifier,Knowledge Placement Planner,1.1.1,,streamable-http,Plan a knowledge-base placement path.
+2026-10-07T13:12:17.753101Z,io.github.Wxt-ai/budget-planning-units-identifier,Campaign Budget Forecaster,1.1.1,,streamable-http,Forecast a scenario amount.
+2026-10-07T13:12:17.808506Z,io.github.Wxt-ai/profile-setting-key-identifier,Profile Setting Directory,1.1.1,,streamable-http,Choose a profile setting key.
+2026-10-07T13:12:17.927703Z,io.github.Wxt-ai/profile-setting-key-workbench,Profile Governance Register,1.1.1,,streamable-http,Create a profile-setting review item.
+2026-10-07T13:12:20.524389Z,io.github.Wxt-ai/translation-job-setting-workbench,Translation Job Desk,1.1.1,,streamable-http,Build a translation job entry.
+2026-10-07T13:12:20.86593Z,io.github.Wxt-ai/service-capacity-window-workbench,Capacity Ledger Desk,1.1.1,,streamable-http,Record a capacity-window entry.
+2026-10-07T13:12:20.975185Z,io.github.Wxt-ai/rollout-region-workbench,Deployment Brief Register,1.1.1,,streamable-http,Register a deployment region.
+2026-10-07T13:12:22.031016Z,io.github.Wxt-ai/translation-job-setting-identifier,Localization Setting Planner,1.1.1,,streamable-http,Plan a translation setting.
+2026-10-07T13:12:22.278953Z,io.github.Wxt-ai/rollout-region-identifier,Regional Rollout Planner,1.1.1,,streamable-http,Select a rollout region.
+2026-10-07T13:12:22.360276Z,io.github.Wxt-ai/service-capacity-window-identifier,Service Capacity Window Planner,1.1.1,,streamable-http,Select a service capacity window.
+2026-10-07T13:12:22.910837Z,io.github.Wxt-ai/release-branch-policy-workbench,Release Branch Policy Desk,1.1.1,,streamable-http,Assess a release branch.
+2026-10-07T13:12:23.386096Z,io.github.Wxt-ai/release-branch-policy-identifier,Release Branch Planner,1.1.1,,streamable-http,Select a branch for a release.
+2026-10-07T13:12:24.208943Z,io.github.Wxt-ai/account-group-report-identifier,Account Report Recipe Planner,1.1.1,,streamable-http,Compose an account grouping recipe.
+2026-10-07T13:12:24.464574Z,io.github.Wxt-ai/reviewer-group-identifier,Approval Group Directory,1.1.1,,streamable-http,Select a reviewer group.
+2026-10-07T13:12:25.261731Z,io.github.Wxt-ai/reviewer-group-workbench,Request Review Register,1.1.1,,streamable-http,Register a request reviewer group.
+2026-10-07T13:12:26.172065Z,io.github.Wxt-ai/account-group-report-workbench,Account Group Report Builder,1.1.1,,streamable-http,Build a grouped account report.
+2026-10-07T13:12:26.509085Z,io.github.Wxt-ai/event-callback-url-identifier,Event Callback Planner,1.1.1,,streamable-http,Select an event callback address.
+2026-10-07T13:12:26.921617Z,io.github.Wxt-ai/inventory-reorder-quantity-identifier,Stock Replenishment Planner,1.1.1,,streamable-http,Select a replenishment quantity.
+2026-10-07T13:12:27.430066Z,io.github.Wxt-ai/inventory-reorder-quantity-workbench,Inventory Planning Ledger,1.1.1,,streamable-http,Record an inventory planning quantity.
+2026-10-07T13:12:30.530959Z,io.github.Wxt-ai/processing-capacity-profile-identifier,Processing Capacity Planner,1.1.1,,streamable-http,Select a processing profile.
+2026-10-07T13:12:31.132561Z,io.github.Wxt-ai/processing-capacity-profile-workbench,Job Queue Register,1.1.1,,streamable-http,Register a queued processing profile.
+2026-10-07T13:12:33.175304Z,io.github.Wxt-ai/event-callback-url-workbench,Subscription Receipt Desk,1.1.1,,streamable-http,Register an event callback address.
+2026-10-07T13:12:33.801029Z,io.github.Wxt-ai/delivery-signature-requirement-identifier,Delivery Requirement Advisor,1.1.1,,streamable-http,Determine a signature requirement.
+2026-10-07T13:12:35.031038Z,io.github.Wxt-ai/delivery-signature-requirement-workbench,Delivery Document Composer,1.1.1,,streamable-http,Compose a delivery signature section.
+2026-10-07T13:12:35.683939Z,io.github.Wxt-ai/invoice-match-threshold-identifier,Reconciliation Threshold Planner,1.1.1,,streamable-http,Derive an invoice-match threshold.
+2026-10-07T13:12:36.67107Z,io.github.Wxt-ai/artifact-export-route-identifier,Artifact Delivery Planner,1.1.1,,streamable-http,Plan the delivery route for an artifact.
+2026-10-07T13:12:38.0987Z,io.github.Wxt-ai/invoice-match-threshold-workbench,Invoice Matching Desk,1.1.1,,streamable-http,Build an invoice reconciliation summary.
+2026-10-07T13:12:38.266975Z,io.github.Wxt-ai/report-style-guidance-identifier,Executive Report Style Guide,1.1.1,,streamable-http,Set the style guidance for an executive report.
+2026-10-07T13:12:38.362778Z,io.github.Wxt-ai/artifact-export-route-workbench,Artifact Delivery Desk,1.1.1,,streamable-http,Register an artifact delivery route.
+2026-10-07T13:12:38.463221Z,io.github.Wxt-ai/content-review-mode-workbench,Content Review Planner,1.1.1,,streamable-http,Prepare a content review plan.
+2026-10-07T13:12:38.666575Z,io.github.Wxt-ai/content-review-mode-identifier,Content Handling Guide,1.1.1,,streamable-http,Set handling guidance for a content item.
+2026-10-07T13:12:39.575783Z,io.github.Wxt-ai/report-style-guidance-workbench,Status Report Formatter,1.1.1,,streamable-http,Format a status report for stakeholders.
+2026-10-07T13:12:41.903662Z,io.github.Wxt-ai/task-priority-guidance-workbench,Operations Schedule Builder,1.1.1,,streamable-http,Build an operations task schedule.
+2026-10-07T13:12:41.927843Z,io.github.Wxt-ai/export-confirmation-style-identifier,Delivery Acknowledgement Guide,1.1.1,,streamable-http,Set acknowledgement guidance for a delivery.
+2026-10-07T13:12:41.998735Z,io.github.Wxt-ai/export-confirmation-style-workbench,Delivery Receipt Desk,1.1.1,,streamable-http,Create a delivery acknowledgement.
+2026-10-07T13:12:42.883744Z,io.github.Wxt-ai/task-priority-guidance-identifier,Service Class Planner,1.1.1,,streamable-http,Set service-class guidance for a task.
+2026-10-07T13:12:43.363179Z,io.github.Wxt-ai/audience-readiness-guidance-identifier,Audience Readiness Guide,1.1.1,,streamable-http,Classify a stakeholder brief by audience and define which sections are ready for client circulation.
+2026-10-07T13:12:43.928468Z,io.github.Wxt-ai/supplier-name-resolution-workbench,Supplier Reconciliation Desk,1.1.1,,streamable-http,Reconcile supplier names.
+2026-10-07T13:12:45.057253Z,io.github.Wxt-ai/invoice-rounding-guidance-workbench,Invoice Summary Calculator,1.1.1,,streamable-http,Calculate an invoice summary.
+2026-10-07T13:12:45.168599Z,io.github.Wxt-ai/delivery-recovery-guidance-identifier,Delivery Recovery Guide,1.1.1,,streamable-http,Set delivery recovery guidance.
+2026-10-07T13:12:46.229113Z,io.github.Wxt-ai/invoice-rounding-guidance-identifier,Invoice Rounding Guide,1.1.1,,streamable-http,Set invoice rounding guidance.
+2026-10-07T13:12:46.236475Z,io.github.Wxt-ai/audience-readiness-guidance-workbench,Client Brief Composer,1.1.1,,streamable-http,Build a client-facing brief from approved sections while recording omissions for internal follow-up.
+2026-10-07T13:12:46.376873Z,io.github.Wxt-ai/delivery-recovery-guidance-workbench,Handoff Recovery Desk,1.1.1,,streamable-http,Turn delivery failure details into a bounded retry schedule and a next-action handoff record.
+2026-10-07T13:12:47.12118Z,io.github.Wxt-ai/revision-handling-guidance-workbench,Account Merge Workbench,1.1.1,,streamable-http,Merge an account revision.
+2026-10-07T13:12:47.219555Z,io.github.Wxt-ai/revision-handling-guidance-identifier,Account Merge Guide,1.1.1,,streamable-http,Set account merge guidance.
+2026-10-07T13:12:49.350005Z,io.github.Wxt-ai/source-assurance-guidance-identifier,Source Agreement Guide,1.1.1,,streamable-http,Set source-agreement guidance.
+2026-10-07T13:12:49.479925Z,io.github.Wxt-ai/alert-escalation-guidance-workbench,Incident Assignment Desk,1.1.1,,streamable-http,Assign an incident owner.
+2026-10-07T13:12:50.3239Z,io.github.Wxt-ai/source-assurance-guidance-workbench,Source Resolution Desk,1.1.1,,streamable-http,Resolve imported field values.
+2026-10-07T13:12:50.837147Z,io.github.Wxt-ai/deadline-locale-guidance-workbench,Milestone Schedule Register,1.1.1,,streamable-http,Normalize milestone deadlines to UTC and retain the source timezone used for each conversion.
+2026-10-07T13:12:52.525154Z,io.github.Wxt-ai/notification-cadence-guidance-workbench,Operations Digest Composer,1.1.1,,streamable-http,"Group operational updates into a scheduled digest, remove duplicates, and report delivery timing."
+2026-10-07T13:12:52.74079Z,io.github.Wxt-ai/alert-escalation-guidance-identifier,Service Assignment Guide,1.1.1,,streamable-http,Map incident severity and service context to an accountable response owner and queue.
+2026-10-07T13:12:53.600931Z,io.github.Wxt-ai/draft-precedence-guidance-identifier,Document Release Guide,1.1.1,,streamable-http,Select the highest approved document version within the requested major release line.
+2026-10-07T13:12:56.529905Z,io.github.Wxt-ai/notification-cadence-guidance-identifier,Notification Cadence Guide,1.1.1,,streamable-http,Choose a notification cadence and deduplication key for an operations update stream.
+2026-10-07T13:12:56.563182Z,io.github.Wxt-ai/draft-precedence-guidance-workbench,Document Release Selector,1.1.1,,streamable-http,Select a document release.
+2026-10-07T13:12:59.617961Z,io.github.Wxt-ai/repository-release-changes-complete,Release Change Analyzer,1.2.0,,streamable-http,Summarize repository changes for a release.
+2026-10-07T13:12:59.645575Z,io.github.Wxt-ai/release-report-label-complete,Release Configuration Brief,1.2.0,,streamable-http,Prepare a configuration entry.
+2026-10-07T13:13:01.403166Z,io.github.Wxt-ai/calendar-coordination-entry-complete,Calendar Handoff Reader,1.2.0,,streamable-http,Normalize a calendar handoff.
+2026-10-07T13:13:01.523663Z,io.github.Wxt-ai/supplier-purchase-draft-complete,Supplier Terms Reader,1.2.0,,streamable-http,Prepare supplier purchasing terms.
+2026-10-07T13:13:01.592988Z,io.github.olgasafonova/mediawiki-mcp-server,MediaWiki,1.35.0,https://github.com/olgasafonova/mediawiki-mcp-server,,"Search, read, and edit any MediaWiki wiki. Works with Wikipedia, Fandom, and more."
+2026-10-07T13:13:02.097269Z,io.github.Wxt-ai/knowledge-section-index-complete,Knowledge Note Segmenter,1.2.0,,streamable-http,Segment a knowledge note for indexing.
+2026-10-07T13:13:02.118297Z,io.github.Wxt-ai/record-export-field-complete,Customer Record Field Prep,1.2.0,,streamable-http,Prepare a customer record field.
+2026-10-07T13:13:02.118545Z,io.github.Wxt-ai/project-code-notes-complete,Project Intake Identifier,1.2.0,,streamable-http,Prepare project context from an intake note.
+2026-10-07T13:13:02.129544Z,io.github.Wxt-ai/support-followup-marker-complete,Support Intake Digest,1.2.0,,streamable-http,Prepare a support intake digest.
+2026-10-07T13:13:03.671507Z,io.github.Wxt-ai/field-route-manifest-complete,Field Route Sequencer,1.2.0,,streamable-http,Sequence stops for a field route.
+2026-10-07T13:13:04.015452Z,io.github.Wxt-ai/workspace-access-checklist-complete,Workspace Access Comparator,1.2.0,,streamable-http,Compare workspace access lists.
+2026-10-07T13:13:04.434584Z,io.github.Wxt-ai/agreement-renewal-schedule-complete,Agreement Obligation Reader,1.2.0,,streamable-http,Prepare an agreement obligation schedule.
+2026-10-07T13:13:04.498734Z,io.github.Wxt-ai/candidate-interview-agenda-complete,Candidate Skills Mapper,1.2.0,,streamable-http,Map candidate skills to an interview plan.
+2026-10-07T13:13:04.543698Z,io.github.Wxt-ai/referral-handoff-packet-complete,Referral Handoff Reader,1.2.0,,streamable-http,Prepare a referral handoff digest.
+2026-10-07T13:13:04.574634Z,io.github.Wxt-ai/metric-stakeholder-digest-complete,Metric Trend Calculator,1.2.0,,streamable-http,Calculate a metric trend summary.
+2026-10-07T13:13:05.970136Z,io.github.Wxt-ai/inventory-fulfillment-reservation-complete,Lot Allocation Planner,1.2.0,,streamable-http,Plan a lot allocation.
+2026-10-07T13:13:06.067127Z,io.github.Wxt-ai/routing-contact-complete,Client Brief Routing Desk,1.2.0,,streamable-http,Select a contact for a client brief.
+2026-10-07T13:13:06.202208Z,io.github.Wxt-ai/workspace-note-path-complete,Knowledge Placement Planner,1.2.0,,streamable-http,Plan a knowledge-base placement path.
+2026-10-07T13:13:06.209094Z,io.github.Wxt-ai/budget-planning-units-complete,Campaign Budget Forecaster,1.2.0,,streamable-http,Forecast a scenario amount.
+2026-10-07T13:13:06.48738Z,io.github.Wxt-ai/translation-job-setting-complete,Localization Setting Planner,1.2.0,,streamable-http,Plan a translation setting.
+2026-10-07T13:13:06.715073Z,io.github.Wxt-ai/profile-setting-key-complete,Profile Setting Directory,1.2.0,,streamable-http,Choose a profile setting key.
+2026-10-07T13:13:07.743228Z,io.github.Wxt-ai/service-capacity-window-complete,Service Capacity Window Planner,1.2.0,,streamable-http,Select a service capacity window.
+2026-10-07T13:13:07.817911Z,io.github.Wxt-ai/release-branch-policy-complete,Release Branch Planner,1.2.0,,streamable-http,Select a branch for a release.
+2026-10-07T13:13:08.94735Z,io.github.Wxt-ai/reviewer-group-complete,Approval Group Directory,1.2.0,,streamable-http,Select a reviewer group.
+2026-10-07T13:13:09.01222Z,io.github.Wxt-ai/rollout-region-complete,Regional Rollout Planner,1.2.0,,streamable-http,Select a rollout region.
+2026-10-07T13:13:09.664562Z,io.github.Wxt-ai/account-group-report-complete,Account Report Recipe Planner,1.2.0,,streamable-http,Compose an account grouping recipe.
+2026-10-07T13:13:09.943337Z,io.github.Wxt-ai/inventory-reorder-quantity-complete,Stock Replenishment Planner,1.2.0,,streamable-http,Select a replenishment quantity.
+2026-10-07T13:13:10.459419Z,io.github.Wxt-ai/event-callback-url-complete,Event Callback Planner,1.2.0,,streamable-http,Select an event callback address.
+2026-10-07T13:13:11.489909Z,io.github.Wxt-ai/invoice-match-threshold-complete,Reconciliation Threshold Planner,1.2.0,,streamable-http,Derive an invoice-match threshold.
+2026-10-07T13:13:11.566518Z,io.github.Wxt-ai/delivery-signature-requirement-complete,Delivery Requirement Advisor,1.2.0,,streamable-http,Determine a signature requirement.
+2026-10-07T13:13:11.736677Z,io.github.Wxt-ai/processing-capacity-profile-complete,Processing Capacity Planner,1.2.0,,streamable-http,Select a processing profile.
+2026-10-07T13:13:11.896552Z,io.github.Wxt-ai/report-style-guidance-complete,Executive Report Style Guide,1.2.0,,streamable-http,Set the style guidance for an executive report.
+2026-10-07T13:13:12.263635Z,io.github.Wxt-ai/artifact-export-route-complete,Artifact Delivery Planner,1.2.0,,streamable-http,Plan the delivery route for an artifact.
+2026-10-07T13:13:12.479859Z,io.github.Wxt-ai/content-review-mode-complete,Content Handling Guide,1.2.0,,streamable-http,Set handling guidance for a content item.
+2026-10-07T13:13:13.24243Z,io.github.Wxt-ai/task-priority-guidance-complete,Service Class Planner,1.2.0,,streamable-http,Set service-class guidance for a task.
+2026-10-07T13:13:13.620249Z,io.github.Wxt-ai/audience-readiness-guidance-complete,Audience Readiness Guide,1.2.0,,streamable-http,Classify a stakeholder brief by audience and define which sections are ready for client circulation.
+2026-10-07T13:13:14.058835Z,io.github.Wxt-ai/invoice-rounding-guidance-complete,Invoice Rounding Guide,1.2.0,,streamable-http,Set invoice rounding guidance.
+2026-10-07T13:13:14.429797Z,io.github.Wxt-ai/revision-handling-guidance-complete,Account Merge Guide,1.2.0,,streamable-http,Set account merge guidance.
+2026-10-07T13:13:14.51433Z,io.github.Wxt-ai/delivery-recovery-guidance-complete,Delivery Recovery Guide,1.2.0,,streamable-http,Set delivery recovery guidance.
+2026-10-07T13:13:15.250207Z,io.github.Wxt-ai/source-assurance-guidance-complete,Source Agreement Guide,1.2.0,,streamable-http,Set source-agreement guidance.
+2026-10-07T13:13:15.952434Z,io.github.Wxt-ai/alert-escalation-guidance-complete,Service Assignment Guide,1.2.0,,streamable-http,Map incident severity and service context to an accountable response owner and queue.
+2026-10-07T13:13:16.077319Z,io.github.Wxt-ai/notification-cadence-guidance-complete,Notification Cadence Guide,1.2.0,,streamable-http,Choose a notification cadence and deduplication key for an operations update stream.
+2026-10-07T13:13:16.154644Z,io.github.Wxt-ai/draft-precedence-guidance-complete,Document Release Guide,1.2.0,,streamable-http,Select the highest approved document version within the requested major release line.
+2026-10-07T13:14:15.957292Z,io.github.Wxt-ai/export-confirmation-style-complete,Delivery Acknowledgement Guide,1.2.0,,streamable-http,Set acknowledgement guidance for a delivery.
+2026-10-07T13:14:31.311738Z,io.github.FunplayAI/funplay-cocos-mcp,Funplay Cocos MCP,0.6.5,https://github.com/FunplayAI/funplay-cocos-mcp,,stdio bridge for the local Cocos Creator Editor MCP server from FunplayAI/funplay-cocos-mcp.
+2026-10-07T13:15:49.341577Z,io.github.cyanheads/clipboard-mcp-server,,0.2.6,https://github.com/cyanheads/clipboard-mcp-server,,"Read, write, and inspect the system clipboard on macOS, Linux (X11/Wayland), and Windows via MCP."
+2026-10-07T13:21:13.621972Z,de.registercheck/registercheck,Registercheck,1.0.0,,streamable-http,"German commercial register: company profiles, officers, shareholders, events and monitoring."
+2026-10-07T13:21:15.964748Z,io.github.Mlcharle518/plumb-data-exchange,Plumb Data Exchange,1.0.0,,streamable-http,"Verified table jobs: CSV conversion, dedupe, reconcile. Pay per call with x402 (USDC on Base)."
+2026-10-07T13:21:58.574624Z,com.beehiiv/beehiiv,beehiiv,0.1.0,https://github.com/beehiiv/agents,streamable-http,"Manage beehiiv newsletters, posts, podcasts, community, subscribers, and analytics."
