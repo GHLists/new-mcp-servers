@@ -9,38 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 08:19 UTC
+## Latest list — 2026-10-08 09:18 UTC
 
-New MCP servers published between 2026-10-08 07:20 UTC and 2026-10-08 08:19 UTC.
+New MCP servers published between 2026-10-08 08:19 UTC and 2026-10-08 09:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-08T08-19-07-589035Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-08T09-18-59-570685Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-08 07:22:36 | [io.github.21J3phy/silk](https://github.com/21J3phy/silk) | Silk | 2.1.2 | Message other people's AI agents with consent: end-to-end encrypted, on a publi… |
-| 2026-10-08 07:22:38 | co.nudgelink/nudgelink | NudgeLink | 1.0.0 | LinkedIn outreach in Claude or ChatGPT: campaign stats, replies, leads, drafts.… |
-| 2026-10-08 07:23:51 | [io.github.nvdigitalsolutions/nvoos-mcp-bridge](https://github.com/nvdigitalsolutions/mcp-ai-wpoos) | NV oOS MCP Bridge | 0.1.0-alpha.4 | Stdio relay connecting Zed, Claude Desktop, Cursor and Codex to NV oOS WordPres… |
-| 2026-10-08 07:27:28 | [ai.elicitly/elicitly](https://github.com/elicitly/elicitly) | Elicitly | 0.8.0 | Human-in-the-loop for AI agents over MCP elicitation: confirm/form dialogs plus… |
-| 2026-10-08 07:28:22 | app.fluxnative/mcp | FluxNative | 1.0.0 | Build, preview and edit native iOS and Android apps (Expo + React Native) in Fl… |
-| 2026-10-08 07:32:00 | [io.github.KathanModh259/latent-gate](https://github.com/KathanModh259/latent-gate) | LatentGate | 1.4.0 | Read large logs, JSON and docs in a fraction of the tokens. Offline, fact-prese… |
-| 2026-10-08 07:33:13 | [io.github.cirwel/unitares](https://github.com/cirwel/unitares) | UNITARES | 3.2.0 | Accountability infrastructure for long-running AI agents. |
-| 2026-10-08 07:35:12 | dev.whenever/whenever | Whenever | 0.1.0 | Create, validate, publish, and manage Whenever automation workflows through AI… |
-| 2026-10-08 07:36:56 | [io.github.browser-gateway/browser-gateway](https://github.com/browser-gateway/browser-gateway) |  | 0.4.27 | AI browser tools with Chrome CDP. Navigate, screenshot, interact. Multi-provide… |
-| 2026-10-08 07:37:28 | dev.llms-txt-validator/llms-txt-validator |  | 1.0.0 | Validate a site's llms.txt against the spec: fetches every linked URL, scores i… |
-| 2026-10-08 07:37:34 | ai.radiomatic/radiomatic | RadioMatic: AI-achtergrondmuziek en muz… | 1.0.2 | AI-muziek voor je winkel of zaak, en wat Buma/Stemra en Sena nu kosten (tarieve… |
-| 2026-10-08 07:43:31 | [io.github.zguiyang/pi-worker-mcp](https://github.com/zguiyang/pi-worker-mcp) | Pi Worker MCP | 0.1.1 | A host-agnostic MCP worker runtime for supervising local Pi coding-agent proces… |
-| 2026-10-08 07:49:17 | [io.github.Hellstellar/anti-vibe](https://github.com/Hellstellar/anti-vibe) | Anti-Vibe | 0.4.6 | Read coding-agent output one sentence at a time, skim it by heading, or speed-r… |
-| 2026-10-08 07:55:36 | [com.countersignatory/mcp](https://github.com/Countersignatory/mcp) | Countersignatory | 0.2.0 | Buy a verified human's approval, verification or judgment at a published price,… |
-| 2026-10-08 08:01:15 | [dev.sarnai/agent-discovery-board](https://github.com/sarnai-dev/agent-discovery-board-public) | Agent Discovery Board by SarnAI | 0.4.2 | Free directory to find AI agents: search MCP servers and x402 services, then co… |
-| 2026-10-08 08:02:47 | [com.soracom/knowledge](https://github.com/soracom/mcp) | Soracom Knowledge | 1.1.5 | Search SORACOM documentation: service guides, FAQ, API references, IoT recipes,… |
-| 2026-10-08 08:10:01 | [io.github.AbdulMuhaiminKhan/github-mcp](https://github.com/AbdulMuhaiminKhan/github-mcp) | GitHub (read-only) | 1.2.0 | Read-only GitHub repos, issues, PRs and commits, with tool descriptions tuned o… |
-| 2026-10-08 08:10:16 | com.hawkshift/concierge | HawkShift Concierge | 1.0.0 | Store product search, grounded answers, and retailer continuation links. Anonym… |
-| 2026-10-08 08:11:32 | com.scrapingbee/mcp | ScrapingBee | 2.2.0 | Scrape any web page, search Google/Amazon/Walmart/YouTube and extract data via… |
-| 2026-10-08 08:14:08 | ai.cybret/findings | Cybret findings | 0.1.0 | Validated API and app vulnerability findings with remediation guidance. |
-| 2026-10-08 08:15:56 | com.taskhold/taskhold | Taskhold | 1.0.0 | A task list you share with your coding agents: pick up, block, note and complet… |
-| 2026-10-08 08:16:12 | [ai.gridzen/verification](https://github.com/immurray/gridzen-developer-kit) | Gridzen Verification | 0.2.0 | Country verification research, integration planning and synthetic tests. No liv… |
-| 2026-10-08 08:16:30 | com.dubaisetupindex/dubai-setup-index | Dubai Setup Index | 1.0.0 | Compare UAE free zones and Dubai mainland: activities, visas, setup costs, sour… |
-| 2026-10-08 08:17:44 | services.zei/registro-231 | ZEI 231 | 1.2.0 | Modello 231 (D.Lgs. 231/2001): diagnosi preliminare, mappatura e registro dei r… |
+| 2026-10-08 08:25:04 | [club.atlasyield/mcp](https://github.com/gveshk/atlasyield-mcp) | AtlasYield | 0.3.0 | DeFi vault judgment for agents: 16-factor Atlas Score, route survival, blowup a… |
+| 2026-10-08 08:35:19 | [io.github.andreibesleaga/agentic-system-core](https://github.com/andreibesleaga/agentic-system-core) | AgenticSystemCore | 1.0.0-rc.7 | Read, cite, compose and remember over a Markdown knowledge Bundle, as MCP tools… |
+| 2026-10-08 08:36:38 | [com.rapid-indexer/mcp](https://github.com/rollounden/rapid-indexer-mcp) | Rapid Indexer | 0.1.0 | Send new pages and backlinks to Googlebot fast, then check which URLs Google ha… |
+| 2026-10-08 08:42:29 | studio.ai3d/ai3d-studio | AI3D Studio | 1.0.0 | Generate 3D models from images or text with AI, then retexture or convert them… |
+| 2026-10-08 08:44:05 | [io.github.douglasdemaio/vtessera](https://github.com/douglasdemaio/vtessera) |  | 0.1.0 | Find vtessera agent offers, read agent cards, route an intent, and read signed… |
+| 2026-10-08 08:45:58 | [ai.eximagent/eximagent](https://github.com/EximAgent/cursor-plugin) | EximAgent | 0.1.1 | AI sales team for export-import: outbound prospecting, trade data analysis, HS… |
+| 2026-10-08 08:46:21 | [io.github.awpthorp/posterly](https://github.com/awpthorp/posterly) | posterly | 0.50.3 | Validate, schedule, publish, and analyze social content across 18 platforms wit… |
+| 2026-10-08 08:46:52 | [online.meal-planner/mcp](https://github.com/notpaulb/Meal-Planner) | Meal Planner Online — member beta | 1.1.0-beta | Saved family dinner plans and groceries. Plus token beta; optional Instacart ha… |
+| 2026-10-08 08:48:23 | fr.aurentia/mcp-server | Aurentia | 2.0.0 | Your Aurentia workspace — projects, CRM, tasks, deliverables — in Claude, Curso… |
+| 2026-10-08 08:49:57 | [io.github.formstep/formstep-mcp](https://github.com/formstep/formstep-mcp) | Formstep | 1.1.0 | Collect verified customer information with one request |
+| 2026-10-08 08:56:01 | [io.github.brightdata/brightdata-mcp](https://github.com/brightdata/brightdata-mcp) |  | 2.12.0 | Bright Data's Web MCP server enabling AI agents to search, extract & navigate t… |
+| 2026-10-08 08:56:33 | ai.onepin/onepin | Onepin | 1.0.0 | Run Onepin voice workflows: pick a workflow, synthesize a script, get the audio… |
+| 2026-10-08 09:04:39 | [io.github.matematicsolutions/de-eli-mcp](https://github.com/matematicsolutions/de-eli-mcp) |  | 0.5.4 | German law MCP: legislation (NeuRIS), case law (RII, Open Legal Data), Bundesta… |
+| 2026-10-08 09:08:48 | io.github.abuzerasr/asrai | Asrai — crypto market analysis (pay per… | 1.5.1 | Crypto signals, screeners, TA, sentiment & AI insights for 5,000 coins. Pay per… |
+| 2026-10-08 09:09:20 | io.github.abuzerasr/asrai-apikey | Asrai — crypto market analysis (API key) | 1.5.1 | Crypto signals, screeners, TA, sentiment & AI insights for 5,000 coins, with an… |
+| 2026-10-08 09:10:31 | dev.fastdrop/fastdrop | FastDrop | 1.3.0 | Liveness layer for MCP: probe endpoints, publish real tools; agents discover, s… |
+| 2026-10-08 09:17:09 | [com.ones/ones](https://github.com/ONES-com/ones-mcp) | ONES | 1.0.3 | Manage ONES projects, issues, tests, work hours, and Wiki knowledge. |
 
 ## Data source
 
