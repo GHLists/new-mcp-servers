@@ -9,51 +9,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 20:19 UTC
+## Latest list — 2026-10-08 21:20 UTC
 
-New MCP servers published between 2026-10-08 19:20 UTC and 2026-10-08 20:19 UTC.
+New MCP servers published between 2026-10-08 20:19 UTC and 2026-10-08 21:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-08T20-19-17-119012Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-08T21-20-57-615383Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-08 19:22:29 | io.beamline/beamline | Beamline | 2.0.0 | React UI system for coding agents: 190 components and screens your agent instal… |
-| 2026-10-08 19:22:49 | [io.github.JUNKDOGE-JOE/ae-mcp](https://github.com/JUNKDOGE-JOE/after-effects-mcp) |  | 0.11.0 | A stdio connector for the local ae-mcp After Effects panel; install the AE exte… |
-| 2026-10-08 19:24:52 | [io.github.chrischall/concur-mcp](https://github.com/chrischall/concur-mcp) |  | 0.1.0 | Unofficial SAP Concur MCP for Claude — expense reports, expenses, receipts and… |
-| 2026-10-08 19:25:17 | [io.github.kjgueye/netintel-mcp](https://github.com/kjgueye/netintel-mcp) |  | 1.1.57 | MCP server for NetIntel — DNS, SSL, WHOIS, email security, OSINT via x402 micro… |
-| 2026-10-08 19:29:25 | blog.draftly/seo | Draftly SEO | 1.0.0 | Draftly brand voice, posts and topics plus live keyword and SERP data in Claude… |
-| 2026-10-08 19:33:01 | gg.arcanecore/arcane-core | Arcane Core | 1.0.0 | Read and edit a tabletop campaign's notes, characters, initiative and skills in… |
-| 2026-10-08 19:35:08 | [io.github.DamianoTobasco/sync-socials-agent](https://github.com/DamianoTobasco/sync-socials-agent) | Sync Socials | 1.0.1 | Create, schedule and publish social posts, including X on paid Growth, through… |
-| 2026-10-08 19:37:22 | ai.cocuyo/cocuyo | Cocuyo | 1.0.1 | Quote and create AI images and videos with existing Cocuyo credits and explicit… |
-| 2026-10-08 19:42:37 | [com.croviatrust/crovia](https://github.com/croviatrust/countersign) | Crovia — verifiable silence (TACET) and… | 2.0.1 | Signed, Bitcoin-anchored observations of AI training-data disclosure; verifies… |
-| 2026-10-08 19:44:01 | org.r3js/r3 | R3 | 2.15.0 | Build interactive 3D web apps — scenes, physics, audio and music — from composa… |
-| 2026-10-08 19:47:40 | com.tradealmanac/mcp-server | TradeAlmanac | 2026.10.7 | TradeAlmanac market data: dividends, screener, sentiment indicators, calendar e… |
-| 2026-10-08 19:50:18 | [io.github.YauhenBichel/when-free](https://github.com/YauhenBichel/when-free) | when-free | 0.4.0 | Which days and times am I free? Reads your calendar feeds and answers with the… |
-| 2026-10-08 19:51:12 | [io.github.earonesty/boxpdf-html](https://github.com/earonesty/boxpdf-html) | boxpdf-html | 1.7.0 | Render HTML to PDF (html_to_pdf) plus boxpdf library docs and templates, for AI… |
-| 2026-10-08 19:57:49 | [io.github.nikolausm/imap-mcp-server](https://github.com/nikolausm/imap-mcp-server) |  | 2.1.1 | IMAP/SMTP MCP server to search, read, organize, send, reply & forward email for… |
-| 2026-10-08 19:57:54 | com.takibibase/takibi | Takibi Base | 1.0.0 | Ask your Takibi Base collections anything; get answers with cited passages and… |
-| 2026-10-08 20:00:19 | io.github.schoenpa/firmograph | Firmograph | 0.1.0 | Public-record + domain-graph lookup. Not universal SMB. US-eligible. x402 POST… |
-| 2026-10-08 20:00:37 | io.github.Ellesse-M/ask-a-human | Ask a Human | 1.0.0 | Ask a real human for perspective: social contradictions, unclear instructions,… |
-| 2026-10-08 20:00:52 | [io.github.avinash-borse/west-end-motorsports](https://github.com/avinash-borse/ucp_middleware) |  | 1.0.0 | Shop West End Motorsports - Harley-Davidson parts, accessories & exhaust systems |
-| 2026-10-08 20:02:05 | dev.workers.mike-tusa.uaparse/uaparse | UAParse | 0.3.2 | Parse a User-Agent: browser, OS, device, plus bot, search crawler, AI crawler a… |
-| 2026-10-08 20:02:30 | [io.github.NiccoloSalvini/fattureincloud-mcp](https://github.com/NiccoloSalvini/fattureincloud-mcp) | Fatture in Cloud | 0.3.3 | Fatture in Cloud: fatture ricorrenti, invii SdI in blocco, incassi, tasse forfe… |
-| 2026-10-08 20:03:04 | [io.github.olk/architecture-pattern-mcp](https://github.com/olk/architecture-pattern-mcp) | Architecture Pattern MCP | 1.1.3 | MCP server that provides architecture design expertise to AI coding agents |
-| 2026-10-08 20:04:03 | eu.runlocal.gpu0a49b9444d66-s-org/gpu-prices | GPU Cloud Prices (AWS, Azure, OCI) | 0.1.0 | Paid x402 API, $0.005 USDC on Base: cached GPU $/hr, AWS/Azure/OCI (H100/H200/A… |
-| 2026-10-08 20:04:23 | com.kalshi-mcp/kalshi | Kalshi MCP | 1.7.0 | Hosted MCP for Kalshi prediction markets: search, odds, order books, settlement… |
-| 2026-10-08 20:05:23 | [io.github.petrovicistefan/mcp-api-guardian](https://github.com/petrovicistefan/mcp-api-guardian) | MCP API Guardian | 0.1.0 | Local OpenAPI contract and breaking-change checks for AI agents. |
-| 2026-10-08 20:05:24 | [io.github.petrovicistefan/mcp-cost-optimizer](https://github.com/petrovicistefan/mcp-cost-optimizer) | MCP Cost Optimizer | 0.1.0 | Local-first LLM cost analysis and model-switch savings estimates for AI agents. |
-| 2026-10-08 20:05:25 | com.measuredsize/fit | Measured Size | 1.0.0 | Bra sizes from measurements, in each brand's own labels, with the confidence be… |
-| 2026-10-08 20:05:25 | [io.github.petrovicistefan/mcp-database-doctor](https://github.com/petrovicistefan/mcp-database-doctor) | MCP Database Doctor | 0.1.0 | Offline PostgreSQL query, migration and EXPLAIN diagnostics for AI agents. |
-| 2026-10-08 20:05:26 | [io.github.petrovicistefan/mcp-dependency-doctor](https://github.com/petrovicistefan/mcp-dependency-doctor) | MCP Dependency Doctor | 0.1.0 | Read-only npm dependency diagnostics for AI coding agents. |
-| 2026-10-08 20:05:27 | [io.github.petrovicistefan/mcp-seo-auditor](https://github.com/petrovicistefan/mcp-seo-auditor) | MCP SEO Auditor | 0.1.0 | Read-only static SEO audits and bounded crawling for AI agents. |
-| 2026-10-08 20:07:06 | io.github.saulius876-lgtm/tiktok | TikTok Scraper | 1.0.0 | TikTok videos with exact views, likes, comments, shares from profiles, hashtags… |
-| 2026-10-08 20:09:37 | fun.aeon/aeon | Aeon | 1.0.0 | Run and manage your Aeon autonomous agent: skills, runs, memory, strategy, pack… |
-| 2026-10-08 20:12:55 | ai.qureview/review | Qu Review | 1.0.0 | Independent second opinion on any AI answer: inaccuracies, gaps, and a scored r… |
-| 2026-10-08 20:13:00 | [io.github.enthouan/simplelogin-mcp](https://github.com/enthouan/simplelogin-mcp) | simplelogin-mcp | 1.0.2 | Independent MCP server for SimpleLogin alias, mailbox, domain, settings, and ac… |
-| 2026-10-08 20:13:55 | [io.github.bluetouff/l0g](https://github.com/bluetouff/l0g) | l0g.fr Risk Intelligence | 1.24.6 | Read-only macro risk analysis, evidence, signals, and source-backed research fr… |
-| 2026-10-08 20:15:42 | io.github.quickchatai/quickchat | Quickchat AI | 1.0.0 | Build a customer support AI agent from your website, then analyze conversations… |
-| 2026-10-08 20:17:11 | re.parcellai/parcellaire | Parcellaire — cadastre, DVF & DPE | 1.2.0 | French real estate data: cadastre, DVF sales, DPE energy ratings, price estimat… |
-| 2026-10-08 20:18:31 | io.github.radsdevv/vibekast | VibeKast | 1.0.0 | Forecast the weekly BTC price as a distribution on VibeKast and trade it on Bas… |
+| 2026-10-08 20:21:48 | [com.returnolio/returnolio](https://github.com/thomasbodri/returnolio-mcp-server) | Returnolio | 1.1.1 | Read-only stock research: company scores, the Monthly Top 10, the screener and… |
+| 2026-10-08 20:22:23 | [io.github.VULK-dev/vulk-mcp-server](https://github.com/VULK-dev/vulk-mcp-server) | VULK | 1.2.0 | Create and continue apps and websites with your own VULK plan and credits. |
+| 2026-10-08 20:23:05 | [app.lasers.guildcontrol/discord](https://github.com/j-256/guildcontrol) | GuildControl MCP | 2.3.1 | Safety-first MCP server for Discord with privacy-safe reads, audits, and review… |
+| 2026-10-08 20:23:18 | com.wikimedia.enterprise/docs | Wikimedia Enterprise docs | 1.1.11 | Wikimedia Enterprise API docs: search the guides, read every endpoint. Read-onl… |
+| 2026-10-08 20:26:15 | [io.github.palrajjp/agentramen](https://github.com/palrajjp/agentRamen) | agentRamen | 0.2.4 | Local-first codebase intelligence for coding agents: indexes code and Git histo… |
+| 2026-10-08 20:30:13 | com.productbyte/productbyte | ProductByte | 2.8.0 | Run ad and social campaigns, make on-brand creatives, and sync marketplaces for… |
+| 2026-10-08 20:30:35 | com.saturnsql/saturnsql | SaturnSQL | 1.0.0 | Query Postgres, MySQL, SQL Server, Oracle, BigQuery, ClickHouse and Redshift fr… |
+| 2026-10-08 20:33:19 | fun.modcard/modcard | ModCard | 1.0.0 | Find, personalize, share, and mail animated greeting cards with original music. |
+| 2026-10-08 20:39:04 | [io.github.invoicepdfs/mcp](https://github.com/invoicepdfs/invoicepdfs-mcp) |  | 0.1.1 | Render invoices and credit notes as PDFs, and check them against EN 16931 e-inv… |
+| 2026-10-08 20:43:41 | com.oxvo/insights | OXVO Insights | 1.0.0 | Read-only OXVO Insights analytics: list tracked events and run queries for one… |
+| 2026-10-08 20:44:12 | de.tripfix/pauschalen | tripfix Reisekosten-Pauschalen | 1.1.0 | Deutsche Reisekosten-Pauschalen 2026: Verpflegung Inland und BMF-Auslandssätze,… |
+| 2026-10-08 20:45:17 | de.tripfix/reisekosten | tripfix Reisekostenabrechnung | 1.1.0 | Reisen im tripfix-Konto auflisten und als Entwurf anlegen, Pauschalen rechnet t… |
+| 2026-10-08 20:49:01 | [io.github.cyanheads/gutenberg-mcp-server](https://github.com/cyanheads/gutenberg-mcp-server) |  | 0.1.10 | MCP server for Project Gutenberg: 75,000+ public-domain ebooks with full plain-… |
+| 2026-10-08 20:49:12 | io.github.saulius876-lgtm/linkedin-company | LinkedIn Company Data | 1.0.0 | LinkedIn company size, industry, website, HQ, followers, posts from links, doma… |
+| 2026-10-08 20:50:00 | [io.github.cyanheads/wikipedia-mcp-server](https://github.com/cyanheads/wikipedia-mcp-server) |  | 0.2.6 | Search Wikipedia, read summaries and full text, target sections, find nearby pa… |
+| 2026-10-08 20:52:20 | [io.github.cyanheads/faa-aircraft-registry-mcp-server](https://github.com/cyanheads/faa-aircraft-registry-mcp-server) |  | 0.1.10 | Offline, keyless lookup of the US civil aircraft registry — decode N-numbers, s… |
+| 2026-10-08 20:54:50 | [io.github.cyanheads/openlibrary-mcp-server](https://github.com/cyanheads/openlibrary-mcp-server) |  | 0.3.1 | Search books and authors, fetch editions, browse subjects, and resolve cover im… |
+| 2026-10-08 20:56:19 | [io.github.cyanheads/medical-codes-mcp-server](https://github.com/cyanheads/medical-codes-mcp-server) |  | 0.4.1 | Offline US medical code lookup and crosswalk — ICD-10-CM/PCS, HCPCS Level II, R… |
+| 2026-10-08 20:57:58 | [io.github.Agentled/mcp-server](https://github.com/Agentled/mcp-server) |  | 0.20.0 | Intelligent AI workflow orchestration with long-term memory, 100+ integrations,… |
+| 2026-10-08 20:59:26 | [io.github.valewnrt/testa](https://github.com/valewnrt/testa) |  | 0.2.2 | Drive the iOS Simulator from an agent: read the screen, tap/type/swipe, replay… |
+| 2026-10-08 20:59:59 | [io.github.cyanheads/nhtsa-vehicle-safety-mcp-server](https://github.com/cyanheads/nhtsa-vehicle-safety-mcp-server) |  | 0.9.7 | Decode VINs, search recalls, complaints, crash ratings, and investigations. |
+| 2026-10-08 21:01:54 | com.siliconalmanac/record | Silicon Almanac | 0.1.0 | Semiconductor fabs, published forecasts and their restatements, each row naming… |
+| 2026-10-08 21:04:14 | [io.github.cyanheads/noaa-climate-mcp-server](https://github.com/cyanheads/noaa-climate-mcp-server) |  | 0.6.5 | Search NOAA climate stations and datasets, fetch historical weather observation… |
+| 2026-10-08 21:04:31 | [io.github.cyanheads/wikidata-mcp-server](https://github.com/cyanheads/wikidata-mcp-server) |  | 0.1.20 | Search and fetch Wikidata entities, execute SPARQL queries, and resolve externa… |
+| 2026-10-08 21:04:37 | [com.foldlaboratories/art](https://github.com/Fold-Laboratories/art-marketplace) | Fold Laboratories Art Catalogue | 0.1.2 | Original art from galleries and artists: semantic search, provenance, live avai… |
+| 2026-10-08 21:04:58 | com.whobuildsit/catalog | whobuildsit — space & defence hardware… | 1.0.0 | Find space and defence hardware suppliers and parts by specification, process a… |
+| 2026-10-08 21:06:39 | [codes.qrx/mcp](https://github.com/qrxcodes/qrx-mcp) | QRX | 1.0.0 | Turn a prompt and a link into a branded, print-ready QR code that always scans. |
+| 2026-10-08 21:08:42 | net.pdf/pdf-net-mcp | pdf.net | 0.2.0 | Create, convert, organize PDFs |
+| 2026-10-08 21:11:19 | [io.github.Tobiz21/tobiz-mcp](https://github.com/Tobiz21/tobiz-mcp) | TOBIZ MCP | 0.9.0-beta.2 | Create, edit and audit TOBIZ websites, pages, blocks, articles and products. |
+| 2026-10-08 21:13:40 | [io.github.bzsanti/oxidize-pdf-mcp](https://github.com/bzsanti/oxidize-python) | oxidize-pdf MCP Server | 0.21.0 | MCP server for PDF generation, parsing, splitting, merging, and manipulation vi… |
+| 2026-10-08 21:14:09 | [io.github.jjd-lab/optlens](https://github.com/jjd-lab/optlens) | optlens | 0.0.2 | Debug and explain LP/MILP models: why infeasible, the smallest fix, what-if and… |
+| 2026-10-08 21:15:30 | ai.sfomo/events | SFomo: Bay Area events | 0.1.0 | Read-only search of upcoming SF Bay Area events: AI/tech, dance, music, arts, f… |
+| 2026-10-08 21:17:52 | [com.breakreach/breakreach](https://github.com/Breakreach/breakreach) | Breakreach | 1.1.0 | Schedule and publish posts on 19 social networks, answer comments and DMs, read… |
+| 2026-10-08 21:19:19 | cards.wabisabi/mcp | wabisabi.cards | 2.0.0 | Pokémon TCG card prices from eBay and Cardmarket in EUR, plus your portfolio an… |
+| 2026-10-08 21:20:48 | [io.github.WYRE-AI/rootly-mcp](https://github.com/WYRE-AI/rootly-mcp) | Rootly | 1.2.7 | MCP server for Rootly — incidents, alerts, escalations, and post-incident repor… |
 
 ## Data source
 
