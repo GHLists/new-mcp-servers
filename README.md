@@ -9,40 +9,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 15:21 UTC
+## Latest list — 2026-10-08 16:20 UTC
 
-New MCP servers published between 2026-10-08 14:22 UTC and 2026-10-08 15:21 UTC.
+New MCP servers published between 2026-10-08 15:21 UTC and 2026-10-08 16:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-08T15-21-58-554747Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-08T16-20-31-539811Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-08 14:24:07 | [io.github.yxs1640-png/xflux](https://github.com/yxs1640-png/xflux) |  | 1.2.1 | X/Twitter read API for agents: search, timelines, Smart Money. Claude/Cursor MC… |
-| 2026-10-08 14:25:20 | [io.github.WYRE-AI/datto-saas-protection-mcp](https://github.com/WYRE-AI/datto-saas-protection-mcp) | Datto SaaS Protection | 3.0.0 | MCP server for Datto SaaS Protection — customers, seats, backup status, bulk se… |
-| 2026-10-08 14:28:13 | [io.github.RegistrumUK/uk-companies-house-mcp](https://github.com/RegistrumUK/uk-companies-house-mcp) | UK Companies House (Registrum) - no API… | 2.0.14 | UK company data: profiles, iXBRL financials, directors, PSC chains, ECCTA. Host… |
-| 2026-10-08 14:29:15 | [io.github.mybrain-ai/mcp](https://github.com/mybrain-ai/mcp) | myBrain | 0.1.0 | Your personal knowledge base and memory for AI agents: search, explore and feed… |
-| 2026-10-08 14:30:57 | [io.github.Monyeah777/ninfenz](https://github.com/Monyeah777/NinFenz) | NinFenz Content Gate | 1.0.1 | Content contract layer: read-only retrieval over protocol, modules, pipelines,… |
-| 2026-10-08 14:31:34 | dev.workers.cybermax-tools.cybermax/figurewell-api | Figurewell | 1.0.0 | Point-in-time SEC financials API + MCP: XBRL as first reported, EDGAR times. 10… |
-| 2026-10-08 14:39:40 | [io.github.Patdolitse/piia-engram](https://github.com/Patdolitse/piia-engram) | Piia Engram | 4.22.0 | Local-first AI identity for MCP coding tools. Lessons, decisions, and context y… |
-| 2026-10-08 14:39:50 | [io.github.CynaCons/powerplan](https://github.com/CynaCons/powerplan) | powerplan | 0.9.0 | MCP server that makes PLAN.md the operational backbone of agentic development |
-| 2026-10-08 14:40:02 | [io.github.debashishthakur/brain-mcp](https://github.com/debashishthakur/brain-mcp) | brain-mcp | 0.3.0 | Your Obsidian vault as private, searchable memory for Claude, Cursor, Hermes an… |
-| 2026-10-08 14:41:06 | com.helvedrive/drive | Helvedrive | 1.0.0 | Swiss encrypted cloud drive: read, search and back up files, with versions and… |
-| 2026-10-08 14:41:30 | [io.github.pedrozapatadev/facturas-inbox-mcp](https://github.com/pedrozapatadev/facturas-inbox-mcp) |  | 0.1.0 | Spanish invoice PDFs to validated data: NIF/IVA/IRPF extraction, arithmetic che… |
-| 2026-10-08 14:41:49 | [io.github.snenenenenenene/transita-mcp-server](https://github.com/snenenenenenene/transita-mcp-server) | Transita | 0.1.6 | Match a profile against 100+ visas in 16 countries: eligibility, cost, timeline… |
-| 2026-10-08 14:48:21 | io.foundplay/foundplay | Foundplay | 1.0.0 | Search Foundplay's directory of browser games: AI-made games, mashups and fan p… |
-| 2026-10-08 14:48:43 | [io.github.nethinwei/sql-mcp-server](https://github.com/nethinwei/sql-mcp-server) | SQL MCP Server | 0.1.11 | Controlled SQL access gateway with policy, cost limits, tenant isolation, and s… |
-| 2026-10-08 14:51:58 | com.priomate/priomate | Priomate | 1.0.0 | Read-only access to your Priomate tasks, notes, inbox and team projects. |
-| 2026-10-08 14:55:32 | com.okfindex/okfindex |  | 1.0.0 | Search Open Knowledge Format (OKF) bundles, read a bundle card and submit your… |
-| 2026-10-08 15:04:11 | io.github.snenenenenenene/stadiq | Stadiq | 0.1.2 | Road works, De Lijn transit disruptions, air quality and briefings for Flanders… |
-| 2026-10-08 15:05:46 | [com.propfirmdiscount/public-mcp](https://github.com/propfirmdiscounts/prop-firm-discount-codes) | PropFirmDiscount | 1.0.0 | Verified prop firm discount codes, a 2-month deal table, firm markdown mirrors,… |
-| 2026-10-08 15:06:56 | [com.haulest/haulest](https://github.com/Panaweb-LLC/haulest-mcp) | Haulest | 1.0.0 | Moving cost ranges, reviewed movers, licence checks, guides, and quote requests. |
-| 2026-10-08 15:07:36 | com.lokerdollar/jobs | Loker Dollar Jobs | 1.0.0 | Remote jobs paying USD for Indonesian professionals: search, skill demand, and… |
-| 2026-10-08 15:09:57 | io.github.kushkillerjsixx66/vara-mcp-server | Vara MCP — Field Intelligence Scan Serv… | 1.30.0 | Governed external-environment scanning: signal harvest, Field Intel Reports, pe… |
-| 2026-10-08 15:13:40 | [io.github.cvrt-jh/clickup-mcp](https://github.com/cvrt-jh/clickup-mcp) |  | 1.1.0 | Lightweight ClickUp MCP server - 37 tools, token-optimized (95% smaller respons… |
-| 2026-10-08 15:15:09 | [io.github.sonic182/graphmem](https://github.com/sonic182/graphmem) | Graphmem | 0.10.1 | Shared local memory for coding agents: SQLite, semantic recall, linked entities… |
-| 2026-10-08 15:15:54 | [io.github.SergiyIva/api-stock](https://github.com/SergiyIva/api-stock-mcp) | API Stock | 1.0.0 | Generate AI video, images and music. Browse models and prices; OAuth and one pr… |
-| 2026-10-08 15:15:59 | [io.github.SergiyIva/apihubs](https://github.com/SergiyIva/api-stock-mcp) | API Hubs | 1.0.0 | Generate AI video, images and music. Browse models and prices; OAuth and one pr… |
-| 2026-10-08 15:16:57 | [io.github.0design/aindf](https://github.com/0design/ai-native-design-framework) | AINDF | 0.2.1 | Read-only MCP server for one AINDF design-system bundle: look up what it offers… |
+| 2026-10-08 15:22:05 | com.aimailmcp/mail | AI Mail MCP | 0.1.0 | Real email for AI agents: domains, mailboxes, a unified inbox, wait-for-code, s… |
+| 2026-10-08 15:25:22 | ai.goldbeater/goldbeater | Goldbeater | 1.0.0 | Goldbeater's daily Google Ads audit, read-only: each finding, its evidence, its… |
+| 2026-10-08 15:25:51 | com.actuallyasked/mcp | Actually Asked | 1.0.0 | Manage your website FAQ, visitor questions and leads, with answers written from… |
+| 2026-10-08 15:29:03 | io.vibedoctor/vibedoctor | VibeDoctor | 1.0.0 | Lets coding agents check their own code for leaked secrets, risky dependencies… |
+| 2026-10-08 15:29:44 | co.ordergroup/public | Order Group | 1.0.0 | Send a software project enquiry to Order Group and browse its case studies (fin… |
+| 2026-10-08 15:30:14 | ai.markethq/mcp | MarketHQ | 1.0.0 | Monitor brand and competitors: communities, news, social, AI answers; gap analy… |
+| 2026-10-08 15:30:32 | com.golivemcp/golive | GoLive MCP | 0.1.0 | Your agents build, we help you go live: domains, DNS, email, deploys, secrets,… |
+| 2026-10-08 15:31:08 | [net.datosia/datos](https://github.com/hapitech/datosia-mcp) | DatosIA — Central America data | 0.1.0 | Official public data for Central America and the Dominican Republic, down to th… |
+| 2026-10-08 15:34:03 | space.cobrain/cobrain | Cobrain | 1.0.0 | Shared Markdown memory for Claude, ChatGPT, Claude Code and Codex. OAuth, no AP… |
+| 2026-10-08 15:36:35 | [io.github.Protopopov/mentalka-tests](https://github.com/Protopopov/emotion_recognition) |  | 0.1.0 | Free anonymous PHQ-9 depression and SAS smartphone-addiction screenings in uk,… |
+| 2026-10-08 15:39:36 | com.secureputcalls/mcp | SecurePutCalls | 1.3.0 | Wheel strategy research: put/call candidates, symbol risk, position analysis an… |
+| 2026-10-08 15:41:38 | [io.github.influxdata/influxdb3-mcp-server](https://github.com/influxdata/influxdb3_mcp_server) | InfluxDB 3 | 1.4.2 | Official InfluxDB 3 MCP server: query, write and manage Core, Enterprise and Cl… |
+| 2026-10-08 15:43:52 | com.hootlens/mcp | Hoot Lens | 1.0.1 | Read Hoot Lens recordings, replays, heatmaps, funnels and findings with your ow… |
+| 2026-10-08 15:46:39 | [io.github.yofor/ovanek-mcp](https://github.com/yofor/ovanek) |  | 1.0.0 | Ovanek MCP: Model Context Protocol server for Ovanek platform tools; writes are… |
+| 2026-10-08 15:48:45 | [io.github.Guard-Core/guard-core-mcp](https://github.com/Guard-Core/guard-core-mcp) |  | 1.4.4 | Guard Core security MCP: SecurityConfig validation, docs search, live threat de… |
+| 2026-10-08 15:49:06 | [io.github.kiycoh/silica-core](https://github.com/kiycoh/silica-core) | Silica Core | 0.10.0 | Retrieval over the folder the session opened: files, search, read, code_pack, w… |
+| 2026-10-08 15:49:55 | com.vestd/mcp | Vestd | 1.0.0 | Query cap table, share schemes, rewards and governance data held in Vestd. |
+| 2026-10-08 15:52:56 | [exchange.sidequest/sidequest](https://github.com/grmkris/sidequest) | Sidequest | 2.0.0 | Connect an agent to Sidequest’s hosted job exchange to hire work, find work and… |
+| 2026-10-08 15:54:47 | com.hirelocksmiths/locksmith-finder | HireLocksmiths — Locksmith Finder | 1.6.1 | Find a vetted U.S. locksmith, request a quote or booking; products for locksmit… |
+| 2026-10-08 15:56:12 | io.github.SUNDRAM07/txwhy | TxWhy | 0.2.0 | Failed Solana transaction in, working transaction out. Exact cause, rebuilt tx,… |
+| 2026-10-08 15:57:12 | [ai.getmarrow/marrow](https://github.com/getmarrow/marrow-mcp) | Marrow AI: Control Layer for AI Agents | 3.9.99 | A named yes before your AI agent acts, plus proof the next agent can reuse. Wor… |
+| 2026-10-08 15:59:41 | [io.github.Plainfold/company-hiring-signals](https://github.com/plainfold/plainfold-mcp) | Company Jobs & Hiring Signals | 0.1.5 | Open jobs and hiring signals for any company, from its public careers page or j… |
+| 2026-10-08 15:59:42 | [io.github.Plainfold/sec-company-financials](https://github.com/plainfold/plainfold-mcp) | SEC Company Financials | 0.1.3 | Clean annual and quarterly company financials from official SEC EDGAR XBRL data. |
+| 2026-10-08 16:00:50 | [io.costory/finops](https://github.com/costory-io/costory-finops-mcp-skills) | Costory FinOps MCP | 1.0.1 | FinOps agent MCP: allocated AWS, GCP, Azure, Kubernetes, SaaS & AI cost for Cla… |
+| 2026-10-08 16:01:32 | [io.github.zalaso/sharebox](https://github.com/zalaso/sharebox) | ShareBox | 0.1.1 | Publish the web tools your agent builds to a self-hosted ShareBox and share the… |
+| 2026-10-08 16:02:19 | com.crowfoundry/hometape | HomeTape | 1.0.0 | Make, preview, and export home movies with the installed local HomeTape app. |
+| 2026-10-08 16:07:39 | com.crowfoundry/recolor-the-past | Recolor the Past | 1.1.0 | Colorize and restore photos, manage the library, and use account credits. |
+| 2026-10-08 16:11:01 | [io.github.forgemeshlabs/anomaly-mcp](https://github.com/forgemeshlabs/anomaly-mcp) |  | 0.5.7 | Real-time anomaly detection for blockchain, aviation, GitHub, mempool, and depe… |
+| 2026-10-08 16:11:07 | [io.github.forgemeshlabs/crypto-signals-mcp](https://github.com/forgemeshlabs/crypto-signals-mcp) |  | 0.1.4 | Crypto Signals by ForgeMesh: market intelligence, calibrated forecasts, whale f… |
+| 2026-10-08 16:11:12 | [io.github.forgemeshlabs/imagegen-mcp](https://github.com/forgemeshlabs/imagegen-mcp) |  | 2.0.3 | AI image generation MCP — generate, bg removal, 4x upscale, or full pro pipelin… |
+| 2026-10-08 16:14:59 | [io.github.WYRE-AI/huntress-mcp](https://github.com/WYRE-AI/huntress-mcp) | Huntress | 1.2.22 | MCP server for Huntress — accounts, organizations, agents, incidents, and repor… |
+| 2026-10-08 16:18:58 | [dev.sarnai/agent-output-verifier](https://github.com/sarnai-dev/agent-output-verifier) | Agent Output Verifier by SarnAI | 0.5.1 | Verify an agent's output before you pay: JSON Schema + rules, signed receipts.… |
+| 2026-10-08 16:19:30 | com.crowfoundry/neptivum | Neptivum | 1.0.0 | Manage sailing logs, trips, boats, sharing, attachments, and account entitlemen… |
 
 ## Data source
 
