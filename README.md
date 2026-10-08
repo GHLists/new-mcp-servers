@@ -9,46 +9,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 10:22 UTC
+## Latest list — 2026-10-08 11:21 UTC
 
-New MCP servers published between 2026-10-08 09:18 UTC and 2026-10-08 10:22 UTC.
+New MCP servers published between 2026-10-08 10:22 UTC and 2026-10-08 11:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-08T10-22-00-582502Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-08T11-21-21-030682Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-08 09:19:25 | dev.upfork/upfork | UpFork | 1.0.0 | Search, view and install React + Tailwind CSS components and landing pages from… |
-| 2026-10-08 09:19:54 | [io.github.teamhandyapps-oss/postlaunchkit](https://github.com/teamhandyapps-oss/postlaunchkit-mcp) | PostLaunchKit | 1.2.0 | Search reviewed free tools, submit for review, run launch checks, and find laun… |
-| 2026-10-08 09:23:08 | [io.github.Sidd27/infrawise](https://github.com/Sidd27/infrawise) | Infrawise | 0.28.4 | Live AWS, database & Kafka infrastructure context for AI coding assistants via… |
-| 2026-10-08 09:23:42 | [io.github.MInsYang/bioai-rizhi](https://github.com/MInsYang/bioai-rizhi) | BioAI 日知 | 3.1.0 | Read-only AI biopharma news, research records, companies, and source status fro… |
-| 2026-10-08 09:25:52 | [io.github.TheCompanyAtlas/malaysia-company-court](https://github.com/TheCompanyAtlas/malaysia-company-court-mcp) | Malaysia Company Registry & Court Cases | 1.0.0 | Malaysian company search by name and SSM number, linked to court cases and thei… |
-| 2026-10-08 09:26:34 | [io.github.TheCompanyAtlas/philippines-sec-company](https://github.com/TheCompanyAtlas/philippines-sec-company-mcp) | Philippines SEC Company Registry | 1.0.0 | Philippine SEC company search by name, SEC number, company type, city and regis… |
-| 2026-10-08 09:27:50 | io.github.julian-martin89/token-oracle | token-oracle — Token Trust Oracle | 1.0.0 | Flags fake/mismatched token contract addresses and hallucinated supply figures… |
-| 2026-10-08 09:30:57 | [io.github.flowradev/mcp](https://github.com/flowradev/skills) | Flowra | 1.0.1 | Hosted AI agents and approval-gated workflows on Gmail, Slack, GitHub and 1,000… |
-| 2026-10-08 09:31:38 | [io.github.TheCompanyAtlas/bvi-company](https://github.com/TheCompanyAtlas/bvi-company-mcp) | British Virgin Islands Company Registry | 1.0.0 | British Virgin Islands company search by name, company number, incorporation da… |
-| 2026-10-08 09:34:05 | io.github.zharkodv-cmd/notemend | Notemend | 0.1.6 | Comments pinned on a website, as a queue your coding agent takes, fixes and res… |
-| 2026-10-08 09:34:58 | com.fplcat/fpl-cat | FPL Cat | 1.2.1 | Fantasy Premier League tools: rate a team, captains, player points, fixtures, i… |
-| 2026-10-08 09:39:32 | com.fridgetoforks/recipes | FridgeToForks | 1.0.0 | Real recipes you can cook from the food you already have, with exactly what is… |
-| 2026-10-08 09:44:35 | ai.getvda/rssa |  | 0.1.1 | Read, verify and validate RSS-A signed agent feeds and groups (RSS for Agents). |
-| 2026-10-08 09:46:00 | [io.github.mikusnuz/agent-link](https://github.com/mikusnuz/agent-link-mcp) |  | 0.5.1 | Bidirectional AI agent collaboration — spawn and communicate with any agent CLI |
-| 2026-10-08 09:46:03 | [io.github.mikusnuz/gsc](https://github.com/mikusnuz/gsc-mcp) |  | 1.3.4 | MCP server for Google Search Console & Indexing API — search analytics, sitemap… |
-| 2026-10-08 09:46:05 | [io.github.mikusnuz/iptime-mcp](https://github.com/mikusnuz/iptime-mcp) |  | 0.2.1 | Manage ipTIME routers through a local, safety-gated MCP server with firmware-aw… |
-| 2026-10-08 09:47:41 | space.aanet/aanet-mcp | Autonomous Agents Network (AANet) | 1.2.1 | Multi-agent coordination outside your LLM context: dedupe parallel work, per-ag… |
-| 2026-10-08 09:49:35 | [io.github.AntonChuraev99/layout-debug-mcp](https://github.com/AntonChuraev99/Layout-debug-mcp) | Layout Debug | 0.2.0 | Select a layout layer on a live web or Android UI, move it, and hand the edit t… |
-| 2026-10-08 09:49:57 | [io.github.hypark5540/cloudcraft-mcp](https://github.com/hypark5540/cloudcraft-mcp) | Cloudcraft MCP | 0.1.7 | Unofficial MCP server for reading and managing Cloudcraft architecture blueprin… |
-| 2026-10-08 09:55:19 | [holdings.proof/mcp-server](https://github.com/ProofHoldings/mcp-server) | Proof Holdings | 1.3.0 | One API, all things verified — control, delegation, human approval, anti-impers… |
-| 2026-10-08 09:59:52 | [io.github.mikusnuz/meta](https://github.com/mikusnuz/meta-mcp) |  | 2.2.0 | MCP server for Instagram Graph API, Threads API & Meta platform management |
-| 2026-10-08 09:59:54 | [io.github.mikusnuz/meta-ads](https://github.com/mikusnuz/meta-ads-mcp) |  | 1.5.0 | MCP server for Meta Marketing API — Facebook & Instagram ad campaign management |
-| 2026-10-08 10:03:46 | [io.github.mikusnuz/umami](https://github.com/mikusnuz/umami-mcp) |  | 2.0.1 | MCP server for Umami Analytics v3 — analytics, boards, links, pixels, reports,… |
-| 2026-10-08 10:03:48 | [io.github.mikusnuz/dynadot](https://github.com/mikusnuz/dynadot-mcp) |  | 1.4.0 | MCP server for Dynadot domain registrar — domain search, registration, DNS, and… |
-| 2026-10-08 10:04:56 | [io.github.onlsol/relay-remotify-mcp](https://github.com/onlsol/relay.remotify.run) |  | 0.6.2 | Run shell commands on remote computers with optional per-command approval, usin… |
-| 2026-10-08 10:06:06 | [io.github.mikusnuz/npm](https://github.com/mikusnuz/npm-mcp) |  | 1.3.0 | MCP server for npm package management — publish, version, search, audit, and mo… |
-| 2026-10-08 10:11:08 | [io.github.mikusnuz/app-publish](https://github.com/mikusnuz/app-publish-mcp) |  | 0.6.0 | MCP server for App Store Connect & Google Play Console — iOS/Android app manage… |
-| 2026-10-08 10:11:11 | [io.github.mikusnuz/cws](https://github.com/mikusnuz/cws-mcp) |  | 2.0.0 | MCP server for Chrome Web Store — extension upload, publish, status, and rollout |
-| 2026-10-08 10:11:14 | app.fluxsocial/fluxsocial | FluxSocial | 1.0.0 | Write, design and publish Instagram and TikTok posts from your AI assistant. |
-| 2026-10-08 10:14:06 | com.moshid/mcp | Moshid | 1.0.0 | Arabic AI playbooks, ready Claude skills and a one-next-step recommender for Gu… |
-| 2026-10-08 10:17:34 | com.mobiscroll/mcp | Mobiscroll | 1.2.3 | Version-aware Mobiscroll UI component schemas and examples, plus Connect REST A… |
-| 2026-10-08 10:19:03 | ai.usedby/usedby | usedby | 1.0.0 | Which companies publicly use which AI and software tools, each line with its pu… |
+| 2026-10-08 10:29:27 | [io.github.rafaelgaspar/longhorn-mcp](https://github.com/rafaelgaspar/longhorn-mcp) |  | 0.1.8 | MCP server for the Longhorn distributed storage manager API, with a --read-only… |
+| 2026-10-08 10:30:47 | ai.vibebooking/vibebook | VibeBooking | 1.0.0 | Find and price independent hotels and inns in Japan, then book on the hotel's o… |
+| 2026-10-08 10:33:06 | [io.github.raomusic/raomusic](https://github.com/raomusic/raomusic-plugin) | RaoMusic | 1.0.0 | Generate full songs with vocals, instrumentals and sound effects from text. |
+| 2026-10-08 10:37:20 | [app.evlek/mcp-server](https://github.com/Evlek/evlek-mcp) | Evlek — Northern Cyprus Property MCP Se… | 3.0.0 | Live Northern Cyprus (KKTC/TRNC) property listings and asking-price data. Read-… |
+| 2026-10-08 10:42:52 | [io.github.adamhudson777/filingrail-mcp](https://github.com/adamhudson777/filingrail-mcp) |  | 0.1.3 | SEC EDGAR financials, insider trades, 8-K events, and 13F holdings as MCP tools. |
+| 2026-10-08 10:45:40 | [io.github.xngg1021/academic-research-kernel](https://github.com/xngg1021/academic-research-kernel) | Academic Research Kernel | 2.0.1 | Deterministic research state, evidence validation and statistical recomputation. |
+| 2026-10-08 10:50:50 | sk.autoisto/used-cars | AutoIsto | 1.0.0 | Used cars for sale in Slovakia: plain-language search, price verdicts and typic… |
+| 2026-10-08 10:51:24 | cz.autoisto/used-cars | AutoIsto CZ | 1.0.0 | Used cars for sale in Czechia: plain-language search, price verdicts and typica… |
+| 2026-10-08 10:51:53 | sk.livinisto/real-estate | LivinIsto | 1.0.0 | Flats, houses and plots for sale or rent in Slovakia: search, price verdicts an… |
+| 2026-10-08 10:51:55 | cl.coupondroid/public | Coupondroid Chile | 1.0.0 | Live coupons, promo codes and deals from online shops in Chile. Read-only, no l… |
+| 2026-10-08 10:52:06 | mx.coupondroid/public | Coupondroid México | 1.0.0 | Live coupons, promo codes and deals from online shops in Mexico. Read-only, no… |
+| 2026-10-08 10:52:17 | cz.livinisto/real-estate | LivinIsto CZ | 1.0.0 | Flats, houses and plots for sale or rent in Czechia: search, price verdicts and… |
+| 2026-10-08 10:52:27 | es.coupondroid/public | Coupondroid España | 1.0.0 | Live coupons, promo codes and deals from online shops in Spain. Read-only, no l… |
+| 2026-10-08 10:52:29 | [io.github.shteynu/ngx-json-render-ui](https://github.com/shteynu/ngx-json-render) | ngx-json-render UI | 0.1.0 | Renders dashboards, forms and tables inline in the chat as Angular Material com… |
+| 2026-10-08 10:52:43 | com.coupondroid/public | Coupondroid USA | 1.0.0 | Live coupons, promo codes and deals from online shops in the United States. Rea… |
+| 2026-10-08 10:53:02 | fr.coupondroid/public | Coupondroid France | 1.0.0 | Live coupons, promo codes and deals from online shops in France. Read-only, no… |
+| 2026-10-08 10:53:04 | [io.github.timohaa/scopewalker-mcp](https://github.com/timohaa/scopewalker-mcp) |  | 1.3.3 | Codebase analysis tools for AI agents: complexity, prop drilling, doc coverage,… |
+| 2026-10-08 10:53:12 | [ai.qualityclouds/norma](https://github.com/qualityclouds/norma-mcp) | Norma by Quality Clouds | 1.0.1 | Checks AI-written code against your rules as it is written, and keeps a record… |
+| 2026-10-08 10:53:26 | de.coupondroid/public | Coupondroid Deutschland | 1.0.0 | Live coupons, promo codes and deals from online shops in Germany. Read-only, no… |
+| 2026-10-08 10:53:54 | it.coupondroid/public | Coupondroid Italia | 1.0.0 | Live coupons, promo codes and deals from online shops in Italy. Read-only, no l… |
+| 2026-10-08 10:56:07 | dev.exchangerate/mcp | exchangerate.dev | 1.0.5 | Free, source-labeled FX rates: 10,296 pairs across 144 currencies, all update ~… |
+| 2026-10-08 10:58:53 | [io.github.strayly/url-to-pdf](https://github.com/strayly/url-to-pdf) | url-to-pdf | 0.2.0 | Turn public web pages into PDF, PNG screenshots, or clean Markdown with one API… |
+| 2026-10-08 10:59:16 | pl.przetargowyjanusz/tenders | Przetargowy Janusz — Polish public tend… | 1.0.0 | Search Polish public tenders (przetargi): AI SWZ summaries, CPV lookup, browse… |
+| 2026-10-08 10:59:51 | com.agentsonleave/vacation | Agents on Leave | 1.0.0 | Free vacation worlds for AI agents: wander, meet other agents, and buy small tr… |
+| 2026-10-08 11:04:54 | [io.github.aarshbharat/gujarati-lexicon-mcp](https://github.com/aarshbharat/gujarati-lexicon-mcp) |  | 0.2.1 | Grounded Gujarati dictionary for AI assistants: meanings, synonyms, idioms, inf… |
+| 2026-10-08 11:11:19 | [org.verifiedhandles/verified-handles](https://github.com/jameshaworthcs/verifiedhandles-mcp) | Verified Handles | 1.6.0 | Look up people, organisations and things, and their verified social handles and… |
+| 2026-10-08 11:15:10 | [io.github.yourimageshare/yourimageshare](https://github.com/yourimageshare/yourimageshare) |  | 1.1.0 | MCP server exposing the YourImageShare upload API (upload/list/delete) as tools… |
+| 2026-10-08 11:17:41 | dev.tanod/security | Tanod Security | 0.1.0 | Contract and agent-package scans, phishing URL and OFAC checks, domain and head… |
+| 2026-10-08 11:17:43 | dev.tanod/chain | Tanod Chain | 0.1.0 | Ethereum and Base reads: balances, tokens, prices, quotes, gas, blocks, transac… |
+| 2026-10-08 11:17:47 | dev.tanod/sky | Tanod Sky | 0.1.0 | Aviation and space data: METAR/TAF, airports, space weather, aurora, asteroids,… |
+| 2026-10-08 11:17:49 | dev.tanod/finance | Tanod Finance | 0.1.0 | SEC EDGAR company data, US Treasury yields, ECB FX rates, token prices, IBAN/LE… |
+| 2026-10-08 11:17:52 | dev.tanod/docs | Tanod Docs | 0.1.0 | PDF toolkit: extract text, OCR, merge, split, rotate, compress, watermark, prot… |
+| 2026-10-08 11:17:54 | dev.tanod/images | Tanod Images | 0.1.0 | Image toolkit: resize, convert, compress, crop, metadata, hashes, favicons, OCR… |
+| 2026-10-08 11:17:57 | dev.tanod/text | Tanod Text | 0.1.0 | Text tools: stats, language, case, lines, replace, extract, keywords, summary,… |
+| 2026-10-08 11:18:01 | dev.tanod/util | Tanod Util | 0.1.0 | Developer utilities: encode, hash, HMAC, IDs, JSON, data conversion, cron, time… |
+| 2026-10-08 11:18:02 | dev.tanod/web | Tanod Web | 0.1.0 | Web tools: search, page to Markdown or screenshot, metadata, links, sitemaps, r… |
+| 2026-10-08 11:18:05 | dev.tanod/ml | Tanod ML | 0.1.0 | Local ML: text embeddings, reranking, similarity, named entities, zero-shot cla… |
+| 2026-10-08 11:18:06 | dev.tanod/agents | Tanod Agents | 0.1.0 | Index of x402 endpoints and MCP servers (query, history, export) and agent-pack… |
+| 2026-10-08 11:19:04 | [io.github.TinySuiteHQ/tinycontext](https://github.com/TinySuiteHQ/TinyContext) |  | 0.5.1 | Token-light local memory with SQLite hybrid retrieval for MCP agents. |
+| 2026-10-08 11:19:51 | [io.github.rwestergren/cronometer-api-mcp](https://github.com/rwestergren/cronometer-api-mcp) |  | 0.2.5 | MCP server for Cronometer nutrition tracking — food logs, diary, macros, fasting |
 
 ## Data source
 
