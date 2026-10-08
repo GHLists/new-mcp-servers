@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-10-08T09:19:25.909798Z,dev.upfork/upfork,UpFork,1.0.0,,streamable-http,"Search, view and install React + Tailwind CSS components and landing pages from UpFork."
+2026-10-08T09:19:54.40822Z,io.github.teamhandyapps-oss/postlaunchkit,PostLaunchKit,1.2.0,https://github.com/teamhandyapps-oss/postlaunchkit-mcp,streamable-http,"Search reviewed free tools, submit for review, run launch checks, and find launch directories."
+2026-10-08T09:23:08.557546Z,io.github.Sidd27/infrawise,Infrawise,0.28.4,https://github.com/Sidd27/infrawise,,"Live AWS, database & Kafka infrastructure context for AI coding assistants via MCP."
+2026-10-08T09:23:42.316367Z,io.github.MInsYang/bioai-rizhi,BioAI 日知,3.1.0,https://github.com/MInsYang/bioai-rizhi,streamable-http,"Read-only AI biopharma news, research records, companies, and source status from BioAI 日知."
+2026-10-08T09:25:52.282286Z,io.github.TheCompanyAtlas/malaysia-company-court,Malaysia Company Registry & Court Cases,1.0.0,https://github.com/TheCompanyAtlas/malaysia-company-court-mcp,streamable-http,"Malaysian company search by name and SSM number, linked to court cases and their parties."
+2026-10-08T09:26:34.62023Z,io.github.TheCompanyAtlas/philippines-sec-company,Philippines SEC Company Registry,1.0.0,https://github.com/TheCompanyAtlas/philippines-sec-company-mcp,streamable-http,"Philippine SEC company search by name, SEC number, company type, city and registration year."
+2026-10-08T09:27:50.87826Z,io.github.julian-martin89/token-oracle,token-oracle — Token Trust Oracle,1.0.0,,streamable-http,Flags fake/mismatched token contract addresses and hallucinated supply figures before you trade.
+2026-10-08T09:30:57.831244Z,io.github.flowradev/mcp,Flowra,1.0.1,https://github.com/flowradev/skills,streamable-http,"Hosted AI agents and approval-gated workflows on Gmail, Slack, GitHub and 1,000+ apps via OAuth."
+2026-10-08T09:31:38.916371Z,io.github.TheCompanyAtlas/bvi-company,British Virgin Islands Company Registry,1.0.0,https://github.com/TheCompanyAtlas/bvi-company-mcp,streamable-http,"British Virgin Islands company search by name, company number, incorporation date and agent."
+2026-10-08T09:34:05.049196Z,io.github.zharkodv-cmd/notemend,Notemend,0.1.6,,,"Comments pinned on a website, as a queue your coding agent takes, fixes and resolves."
+2026-10-08T09:34:58.574696Z,com.fplcat/fpl-cat,FPL Cat,1.2.1,,streamable-http,"Fantasy Premier League tools: rate a team, captains, player points, fixtures, injuries. No login."
+2026-10-08T09:39:32.744379Z,com.fridgetoforks/recipes,FridgeToForks,1.0.0,,streamable-http,"Real recipes you can cook from the food you already have, with exactly what is missing."
+2026-10-08T09:44:35.355637Z,ai.getvda/rssa,,0.1.1,,streamable-http,"Read, verify and validate RSS-A signed agent feeds and groups (RSS for Agents)."
+2026-10-08T09:46:00.221596Z,io.github.mikusnuz/agent-link,,0.5.1,https://github.com/mikusnuz/agent-link-mcp,,Bidirectional AI agent collaboration — spawn and communicate with any agent CLI
+2026-10-08T09:46:03.705928Z,io.github.mikusnuz/gsc,,1.3.4,https://github.com/mikusnuz/gsc-mcp,,"MCP server for Google Search Console & Indexing API — search analytics, sitemaps, URL inspection"
+2026-10-08T09:46:05.971538Z,io.github.mikusnuz/iptime-mcp,,0.2.1,https://github.com/mikusnuz/iptime-mcp,,"Manage ipTIME routers through a local, safety-gated MCP server with firmware-aware capabilities."
+2026-10-08T09:47:41.250536Z,space.aanet/aanet-mcp,Autonomous Agents Network (AANet),1.2.1,,streamable-http,"Multi-agent coordination outside your LLM context: dedupe parallel work, per-agent budgets, handoff"
+2026-10-08T09:49:35.911481Z,io.github.AntonChuraev99/layout-debug-mcp,Layout Debug,0.2.0,https://github.com/AntonChuraev99/Layout-debug-mcp,,"Select a layout layer on a live web or Android UI, move it, and hand the edit to any MCP agent."
+2026-10-08T09:49:57.451971Z,io.github.hypark5540/cloudcraft-mcp,Cloudcraft MCP,0.1.7,https://github.com/hypark5540/cloudcraft-mcp,,Unofficial MCP server for reading and managing Cloudcraft architecture blueprints
+2026-10-08T09:55:19.860874Z,holdings.proof/mcp-server,Proof Holdings,1.3.0,https://github.com/ProofHoldings/mcp-server,streamable-http,"One API, all things verified — control, delegation, human approval, anti-impersonation."
+2026-10-08T09:59:52.710151Z,io.github.mikusnuz/meta,,2.2.0,https://github.com/mikusnuz/meta-mcp,,"MCP server for Instagram Graph API, Threads API & Meta platform management"
+2026-10-08T09:59:54.112639Z,io.github.mikusnuz/meta-ads,,1.5.0,https://github.com/mikusnuz/meta-ads-mcp,,MCP server for Meta Marketing API — Facebook & Instagram ad campaign management
+2026-10-08T10:03:46.939203Z,io.github.mikusnuz/umami,,2.0.1,https://github.com/mikusnuz/umami-mcp,,"MCP server for Umami Analytics v3 — analytics, boards, links, pixels, reports, replay, and more"
+2026-10-08T10:03:48.977598Z,io.github.mikusnuz/dynadot,,1.4.0,https://github.com/mikusnuz/dynadot-mcp,,"MCP server for Dynadot domain registrar — domain search, registration, DNS, and transfers"
+2026-10-08T10:04:56.894123Z,io.github.onlsol/relay-remotify-mcp,,0.6.2,https://github.com/onlsol/relay.remotify.run,,"Run shell commands on remote computers with optional per-command approval, using only curl and bash."
+2026-10-08T10:06:06.118138Z,io.github.mikusnuz/npm,,1.3.0,https://github.com/mikusnuz/npm-mcp,,"MCP server for npm package management — publish, version, search, audit, and more"
+2026-10-08T10:11:08.642287Z,io.github.mikusnuz/app-publish,,0.6.0,https://github.com/mikusnuz/app-publish-mcp,,MCP server for App Store Connect & Google Play Console — iOS/Android app management
+2026-10-08T10:11:11.426915Z,io.github.mikusnuz/cws,,2.0.0,https://github.com/mikusnuz/cws-mcp,,"MCP server for Chrome Web Store — extension upload, publish, status, and rollout"
+2026-10-08T10:11:14.704809Z,app.fluxsocial/fluxsocial,FluxSocial,1.0.0,,streamable-http,"Write, design and publish Instagram and TikTok posts from your AI assistant."
+2026-10-08T10:14:06.318824Z,com.moshid/mcp,Moshid,1.0.0,,streamable-http,"Arabic AI playbooks, ready Claude skills and a one-next-step recommender for Gulf business owners."
+2026-10-08T10:17:34.043534Z,com.mobiscroll/mcp,Mobiscroll,1.2.3,,streamable-http,"Version-aware Mobiscroll UI component schemas and examples, plus Connect REST API and SDK knowledge."
+2026-10-08T10:19:03.500387Z,ai.usedby/usedby,usedby,1.0.0,,streamable-http,"Which companies publicly use which AI and software tools, each line with its public source."
