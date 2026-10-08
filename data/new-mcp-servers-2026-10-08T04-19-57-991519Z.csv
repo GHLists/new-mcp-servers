@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-10-08T03:27:55.247099Z,fyi.clairvoyance/mcp,Clairvoyance,1.3.0,https://github.com/codybrom/clairvoyance,streamable-http,"Software design skills for AI coding agents, drawn from A Philosophy of Software Design."
+2026-10-08T03:28:52.481808Z,io.github.Ethan-YS/andco,AndCo,1.0.0,,streamable-http,Bring your own AI into group chats with your friends and their AIs. AndCo only carries messages.
+2026-10-08T03:36:34.134698Z,io.github.ohvii/ohvii,Ohvii,1.0.0,,streamable-http,"Find homes with your AI, then use Ohvii to carry the purchase from listing to close."
+2026-10-08T03:39:02.842079Z,io.github.Hachimeder/maxplus2-mcp,MAX+plus II MCP / 数字电路 AI 工具,0.10.3,https://github.com/Hachimeder/maxplus2-mcp,,"MAX+plus II / MaxPlus2 MCP: GDF/SYM/SCF, compile/simulation. 原理图、波形、编译仿真与 Windows 自动化。"
+2026-10-08T03:43:45.760505Z,io.github.groundhogday2011-byte/a2apay,,0.1.0,https://github.com/groundhogday2011-byte/a2apay,,"Pay-per-call AI query and versioned task memory for agents. No account, no API key, via x402."
+2026-10-08T03:49:35.733743Z,com.pixharvest/esp32-control,ESP32 Control,0.1.0,https://github.com/contentforge-press/esp32-mcp,,"Control ESP32 IoT devices from AI agents: status, GPIO, ADC, reboot."
+2026-10-08T03:52:24.494207Z,co.com.meteor/meteor,,3.24.0,https://github.com/met-claude/Met,streamable-http,"Opera y construye en Met: conversaciones, contactos, Mets, flujos, colecciones y toda la API."
+2026-10-08T03:56:04.557004Z,io.github.gabrielmahia/faida-mcp,,0.1.4,https://github.com/gabrielmahia/faida-mcp,,MCP server for savings and investment coordination in East Africa (faida = returns)
+2026-10-08T03:56:04.943999Z,io.github.gabrielmahia/kilimo-mcp,,0.1.4,https://github.com/gabrielmahia/kilimo-mcp,,MCP server for agriculture coordination in East Africa (kilimo = farming)
+2026-10-08T03:56:16.026421Z,io.github.gabrielmahia/mpesa-mcp,,0.2.8,https://github.com/gabrielmahia/mpesa-mcp,,MCP server for M-Pesa mobile-money integration in Kenya
+2026-10-08T03:57:57.427982Z,com.tryclef/businesses-for-sale,Clef: Businesses for Sale,1.0.0,,streamable-http,"Search 125,000+ businesses for sale with financials and broker contacts. Requires Clef Dealmaker."
+2026-10-08T03:59:59.195973Z,com.nimtin/nimtin,nimtin,1.0.0,,streamable-http,Book venues and vendors for events. Drafts wait in nimtin for you to send.
+2026-10-08T04:00:20.766217Z,ai.bithuman/characters,bitHuman,1.0.0,,streamable-http,"Animated AI characters in your chat: short clips of a character saying your words, or a live talk."
+2026-10-08T04:04:04.69028Z,io.github.haim-barad/drinkedin,DrinkedIn — the AI agent bar,2.4.4,,streamable-http,"AI-agent bar: venues, drinks, chat. Licensed bar/cocktail/behaviour data. x402. No real alcohol."
+2026-10-08T04:09:29.378521Z,io.github.gabrielmahia/habari-mcp,,0.1.5,https://github.com/gabrielmahia/habari-mcp,,MCP server for news and public-information coordination in East Africa (habari = news)
+2026-10-08T04:09:31.051248Z,io.github.gabrielmahia/nishati-mcp,,0.1.5,https://github.com/gabrielmahia/nishati-mcp,,MCP server for energy coordination in East Africa (nishati = energy)
+2026-10-08T04:13:22.850517Z,io.github.viniciusmdoobm/mcp-brasil,,0.2.0,https://github.com/viniciusmdoobm/mcp-brasil,streamable-http,"Dados brasileiros para agentes de IA: CEP, CNPJ, bancos, taxas, feriados, clima e FIPE."
+2026-10-08T04:13:54.685898Z,io.github.ArpitGandhi1934/yugenox-instagram-comments,"Instagram Comments Scraper: All Comments, No Login",1.2.0,https://github.com/ArpitGandhi1934/yugenox-mcp,streamable-http,"Public comments on any Instagram post or reel, newest or top first, with keyword filters. No login."
+2026-10-08T04:13:55.179224Z,io.github.ArpitGandhi1934/yugenox-instagram-reels-transcript,"Instagram Reels to Text: AI Transcripts, No Login",1.2.0,https://github.com/ArpitGandhi1934/yugenox-mcp,streamable-http,"Spoken words from public Instagram reels as text, with each reel's caption and stats. No login."
+2026-10-08T04:13:56.55334Z,io.github.ArpitGandhi1934/yugenox-youtube-ai-summarizer,YouTube AI Video Summarizer: Briefs and Q&A,1.2.0,https://github.com/ArpitGandhi1934/yugenox-mcp,streamable-http,Gemini watches public YouTube videos and returns a timestamped brief or answers to your questions.
