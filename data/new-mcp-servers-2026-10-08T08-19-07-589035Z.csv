@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-10-08T07:22:36.854553Z,io.github.21J3phy/silk,Silk,2.1.2,https://github.com/21J3phy/silk,,"Message other people's AI agents with consent: end-to-end encrypted, on a public ledger."
+2026-10-08T07:22:38.405636Z,co.nudgelink/nudgelink,NudgeLink,1.0.0,,streamable-http,"LinkedIn outreach in Claude or ChatGPT: campaign stats, replies, leads, drafts. Never sends."
+2026-10-08T07:23:51.814343Z,io.github.nvdigitalsolutions/nvoos-mcp-bridge,NV oOS MCP Bridge,0.1.0-alpha.4,https://github.com/nvdigitalsolutions/mcp-ai-wpoos,,"Stdio relay connecting Zed, Claude Desktop, Cursor and Codex to NV oOS WordPress MCP endpoints."
+2026-10-08T07:27:28.742183Z,ai.elicitly/elicitly,Elicitly,0.8.0,https://github.com/elicitly/elicitly,,Human-in-the-loop for AI agents over MCP elicitation: confirm/form dialogs plus a capability doctor
+2026-10-08T07:28:22.123454Z,app.fluxnative/mcp,FluxNative,1.0.0,,streamable-http,"Build, preview and edit native iOS and Android apps (Expo + React Native) in FluxNative."
+2026-10-08T07:32:00.510081Z,io.github.KathanModh259/latent-gate,LatentGate,1.4.0,https://github.com/KathanModh259/latent-gate,,"Read large logs, JSON and docs in a fraction of the tokens. Offline, fact-preserving optimizer."
+2026-10-08T07:33:13.957251Z,io.github.cirwel/unitares,UNITARES,3.2.0,https://github.com/cirwel/unitares,,Accountability infrastructure for long-running AI agents.
+2026-10-08T07:35:12.900305Z,dev.whenever/whenever,Whenever,0.1.0,,streamable-http,"Create, validate, publish, and manage Whenever automation workflows through AI assistants."
+2026-10-08T07:36:56.997846Z,io.github.browser-gateway/browser-gateway,,0.4.27,https://github.com/browser-gateway/browser-gateway,,"AI browser tools with Chrome CDP. Navigate, screenshot, interact. Multi-provider failover."
+2026-10-08T07:37:28.975238Z,dev.llms-txt-validator/llms-txt-validator,,1.0.0,,streamable-http,"Validate a site's llms.txt against the spec: fetches every linked URL, scores it 0-100."
+2026-10-08T07:37:34.6235Z,ai.radiomatic/radiomatic,RadioMatic: AI-achtergrondmuziek en muzieklicenties voor bedrijven,1.0.2,,streamable-http,"AI-muziek voor je winkel of zaak, en wat Buma/Stemra en Sena nu kosten (tarieven 2026)."
+2026-10-08T07:43:31.136051Z,io.github.zguiyang/pi-worker-mcp,Pi Worker MCP,0.1.1,https://github.com/zguiyang/pi-worker-mcp,,A host-agnostic MCP worker runtime for supervising local Pi coding-agent processes.
+2026-10-08T07:49:17.399069Z,io.github.Hellstellar/anti-vibe,Anti-Vibe,0.4.6,https://github.com/Hellstellar/anti-vibe,,"Read coding-agent output one sentence at a time, skim it by heading, or speed-read it."
+2026-10-08T07:55:36.198954Z,com.countersignatory/mcp,Countersignatory,0.2.0,https://github.com/Countersignatory/mcp,streamable-http,"Buy a verified human's approval, verification or judgment at a published price, paid by x402 or card"
+2026-10-08T08:01:15.567507Z,dev.sarnai/agent-discovery-board,Agent Discovery Board by SarnAI,0.4.2,https://github.com/sarnai-dev/agent-discovery-board-public,streamable-http,"Free directory to find AI agents: search MCP servers and x402 services, then connect, pay, verify."
+2026-10-08T08:02:47.773936Z,com.soracom/knowledge,Soracom Knowledge,1.1.5,https://github.com/soracom/mcp,streamable-http,"Search SORACOM documentation: service guides, FAQ, API references, IoT recipes, etc."
+2026-10-08T08:10:01.871948Z,io.github.AbdulMuhaiminKhan/github-mcp,GitHub (read-only),1.2.0,https://github.com/AbdulMuhaiminKhan/github-mcp,,"Read-only GitHub repos, issues, PRs and commits, with tool descriptions tuned on a benchmark."
+2026-10-08T08:10:16.190056Z,com.hawkshift/concierge,HawkShift Concierge,1.0.0,,streamable-http,"Store product search, grounded answers, and retailer continuation links. Anonymous and read-only."
+2026-10-08T08:11:32.555666Z,com.scrapingbee/mcp,ScrapingBee,2.2.0,,streamable-http,"Scrape any web page, search Google/Amazon/Walmart/YouTube and extract data via the ScrapingBee API."
+2026-10-08T08:14:08.960517Z,ai.cybret/findings,Cybret findings,0.1.0,,streamable-http,Validated API and app vulnerability findings with remediation guidance.
+2026-10-08T08:15:56.417093Z,com.taskhold/taskhold,Taskhold,1.0.0,,streamable-http,"A task list you share with your coding agents: pick up, block, note and complete tasks."
+2026-10-08T08:16:12.227322Z,ai.gridzen/verification,Gridzen Verification,0.2.0,https://github.com/immurray/gridzen-developer-kit,streamable-http,"Country verification research, integration planning and synthetic tests. No live identity checks."
+2026-10-08T08:16:30.203525Z,com.dubaisetupindex/dubai-setup-index,Dubai Setup Index,1.0.0,,streamable-http,"Compare UAE free zones and Dubai mainland: activities, visas, setup costs, sourced and dated."
+2026-10-08T08:17:44.900401Z,services.zei/registro-231,ZEI 231,1.2.0,,streamable-http,"Modello 231 (D.Lgs. 231/2001): diagnosi preliminare, mappatura e registro dei rischi 231."
