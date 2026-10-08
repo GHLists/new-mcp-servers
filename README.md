@@ -9,54 +9,60 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 11:21 UTC
+## Latest list — 2026-10-08 12:21 UTC
 
-New MCP servers published between 2026-10-08 10:22 UTC and 2026-10-08 11:21 UTC.
+New MCP servers published between 2026-10-08 11:21 UTC and 2026-10-08 12:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-08T11-21-21-030682Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-08T12-21-59-665727Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-08 10:29:27 | [io.github.rafaelgaspar/longhorn-mcp](https://github.com/rafaelgaspar/longhorn-mcp) |  | 0.1.8 | MCP server for the Longhorn distributed storage manager API, with a --read-only… |
-| 2026-10-08 10:30:47 | ai.vibebooking/vibebook | VibeBooking | 1.0.0 | Find and price independent hotels and inns in Japan, then book on the hotel's o… |
-| 2026-10-08 10:33:06 | [io.github.raomusic/raomusic](https://github.com/raomusic/raomusic-plugin) | RaoMusic | 1.0.0 | Generate full songs with vocals, instrumentals and sound effects from text. |
-| 2026-10-08 10:37:20 | [app.evlek/mcp-server](https://github.com/Evlek/evlek-mcp) | Evlek — Northern Cyprus Property MCP Se… | 3.0.0 | Live Northern Cyprus (KKTC/TRNC) property listings and asking-price data. Read-… |
-| 2026-10-08 10:42:52 | [io.github.adamhudson777/filingrail-mcp](https://github.com/adamhudson777/filingrail-mcp) |  | 0.1.3 | SEC EDGAR financials, insider trades, 8-K events, and 13F holdings as MCP tools. |
-| 2026-10-08 10:45:40 | [io.github.xngg1021/academic-research-kernel](https://github.com/xngg1021/academic-research-kernel) | Academic Research Kernel | 2.0.1 | Deterministic research state, evidence validation and statistical recomputation. |
-| 2026-10-08 10:50:50 | sk.autoisto/used-cars | AutoIsto | 1.0.0 | Used cars for sale in Slovakia: plain-language search, price verdicts and typic… |
-| 2026-10-08 10:51:24 | cz.autoisto/used-cars | AutoIsto CZ | 1.0.0 | Used cars for sale in Czechia: plain-language search, price verdicts and typica… |
-| 2026-10-08 10:51:53 | sk.livinisto/real-estate | LivinIsto | 1.0.0 | Flats, houses and plots for sale or rent in Slovakia: search, price verdicts an… |
-| 2026-10-08 10:51:55 | cl.coupondroid/public | Coupondroid Chile | 1.0.0 | Live coupons, promo codes and deals from online shops in Chile. Read-only, no l… |
-| 2026-10-08 10:52:06 | mx.coupondroid/public | Coupondroid México | 1.0.0 | Live coupons, promo codes and deals from online shops in Mexico. Read-only, no… |
-| 2026-10-08 10:52:17 | cz.livinisto/real-estate | LivinIsto CZ | 1.0.0 | Flats, houses and plots for sale or rent in Czechia: search, price verdicts and… |
-| 2026-10-08 10:52:27 | es.coupondroid/public | Coupondroid España | 1.0.0 | Live coupons, promo codes and deals from online shops in Spain. Read-only, no l… |
-| 2026-10-08 10:52:29 | [io.github.shteynu/ngx-json-render-ui](https://github.com/shteynu/ngx-json-render) | ngx-json-render UI | 0.1.0 | Renders dashboards, forms and tables inline in the chat as Angular Material com… |
-| 2026-10-08 10:52:43 | com.coupondroid/public | Coupondroid USA | 1.0.0 | Live coupons, promo codes and deals from online shops in the United States. Rea… |
-| 2026-10-08 10:53:02 | fr.coupondroid/public | Coupondroid France | 1.0.0 | Live coupons, promo codes and deals from online shops in France. Read-only, no… |
-| 2026-10-08 10:53:04 | [io.github.timohaa/scopewalker-mcp](https://github.com/timohaa/scopewalker-mcp) |  | 1.3.3 | Codebase analysis tools for AI agents: complexity, prop drilling, doc coverage,… |
-| 2026-10-08 10:53:12 | [ai.qualityclouds/norma](https://github.com/qualityclouds/norma-mcp) | Norma by Quality Clouds | 1.0.1 | Checks AI-written code against your rules as it is written, and keeps a record… |
-| 2026-10-08 10:53:26 | de.coupondroid/public | Coupondroid Deutschland | 1.0.0 | Live coupons, promo codes and deals from online shops in Germany. Read-only, no… |
-| 2026-10-08 10:53:54 | it.coupondroid/public | Coupondroid Italia | 1.0.0 | Live coupons, promo codes and deals from online shops in Italy. Read-only, no l… |
-| 2026-10-08 10:56:07 | dev.exchangerate/mcp | exchangerate.dev | 1.0.5 | Free, source-labeled FX rates: 10,296 pairs across 144 currencies, all update ~… |
-| 2026-10-08 10:58:53 | [io.github.strayly/url-to-pdf](https://github.com/strayly/url-to-pdf) | url-to-pdf | 0.2.0 | Turn public web pages into PDF, PNG screenshots, or clean Markdown with one API… |
-| 2026-10-08 10:59:16 | pl.przetargowyjanusz/tenders | Przetargowy Janusz — Polish public tend… | 1.0.0 | Search Polish public tenders (przetargi): AI SWZ summaries, CPV lookup, browse… |
-| 2026-10-08 10:59:51 | com.agentsonleave/vacation | Agents on Leave | 1.0.0 | Free vacation worlds for AI agents: wander, meet other agents, and buy small tr… |
-| 2026-10-08 11:04:54 | [io.github.aarshbharat/gujarati-lexicon-mcp](https://github.com/aarshbharat/gujarati-lexicon-mcp) |  | 0.2.1 | Grounded Gujarati dictionary for AI assistants: meanings, synonyms, idioms, inf… |
-| 2026-10-08 11:11:19 | [org.verifiedhandles/verified-handles](https://github.com/jameshaworthcs/verifiedhandles-mcp) | Verified Handles | 1.6.0 | Look up people, organisations and things, and their verified social handles and… |
-| 2026-10-08 11:15:10 | [io.github.yourimageshare/yourimageshare](https://github.com/yourimageshare/yourimageshare) |  | 1.1.0 | MCP server exposing the YourImageShare upload API (upload/list/delete) as tools… |
-| 2026-10-08 11:17:41 | dev.tanod/security | Tanod Security | 0.1.0 | Contract and agent-package scans, phishing URL and OFAC checks, domain and head… |
-| 2026-10-08 11:17:43 | dev.tanod/chain | Tanod Chain | 0.1.0 | Ethereum and Base reads: balances, tokens, prices, quotes, gas, blocks, transac… |
-| 2026-10-08 11:17:47 | dev.tanod/sky | Tanod Sky | 0.1.0 | Aviation and space data: METAR/TAF, airports, space weather, aurora, asteroids,… |
-| 2026-10-08 11:17:49 | dev.tanod/finance | Tanod Finance | 0.1.0 | SEC EDGAR company data, US Treasury yields, ECB FX rates, token prices, IBAN/LE… |
-| 2026-10-08 11:17:52 | dev.tanod/docs | Tanod Docs | 0.1.0 | PDF toolkit: extract text, OCR, merge, split, rotate, compress, watermark, prot… |
-| 2026-10-08 11:17:54 | dev.tanod/images | Tanod Images | 0.1.0 | Image toolkit: resize, convert, compress, crop, metadata, hashes, favicons, OCR… |
-| 2026-10-08 11:17:57 | dev.tanod/text | Tanod Text | 0.1.0 | Text tools: stats, language, case, lines, replace, extract, keywords, summary,… |
-| 2026-10-08 11:18:01 | dev.tanod/util | Tanod Util | 0.1.0 | Developer utilities: encode, hash, HMAC, IDs, JSON, data conversion, cron, time… |
-| 2026-10-08 11:18:02 | dev.tanod/web | Tanod Web | 0.1.0 | Web tools: search, page to Markdown or screenshot, metadata, links, sitemaps, r… |
-| 2026-10-08 11:18:05 | dev.tanod/ml | Tanod ML | 0.1.0 | Local ML: text embeddings, reranking, similarity, named entities, zero-shot cla… |
-| 2026-10-08 11:18:06 | dev.tanod/agents | Tanod Agents | 0.1.0 | Index of x402 endpoints and MCP servers (query, history, export) and agent-pack… |
-| 2026-10-08 11:19:04 | [io.github.TinySuiteHQ/tinycontext](https://github.com/TinySuiteHQ/TinyContext) |  | 0.5.1 | Token-light local memory with SQLite hybrid retrieval for MCP agents. |
-| 2026-10-08 11:19:51 | [io.github.rwestergren/cronometer-api-mcp](https://github.com/rwestergren/cronometer-api-mcp) |  | 0.2.5 | MCP server for Cronometer nutrition tracking — food logs, diary, macros, fasting |
+| 2026-10-08 11:21:42 | [io.github.Vosikkk/google-analytics-mcp](https://github.com/Vosikkk/google-analytics-mcp) | Vosik Signals Google Analytics 4 | 1.0.0 | Read-only Google Analytics 4 MCP server for AI assistants. |
+| 2026-10-08 11:22:44 | [io.github.lnanology/xfinlab](https://github.com/lnanology/Xfinlab) |  | 1.0.1 | Financial intelligence for AI agents: market events, sentiment, technicals, new… |
+| 2026-10-08 11:22:46 | dev.aiseek/aiseek | AiSeek | 1.0.0 | Verified world changes with their sources: news, country Change Heat, releases,… |
+| 2026-10-08 11:24:33 | [com.meetkatalis/katalis](https://github.com/CurtisAshleyDuplain/meetkatalis-website) |  | 1.0.0 | UK public-record company intelligence: Companies House, payments, contracts, re… |
+| 2026-10-08 11:26:05 | net.kitbench/kitbench | Kitbench | 1.0.0 | Exact Japanese text & date tools: char count, business days with JP holidays, e… |
+| 2026-10-08 11:27:47 | dev.workers.cybermax-tools.cybermax/awardtide | Awardtide Recompete Radar | 1.0.0 | Expiring US federal contracts MCP: recompete search by NAICS/agency. Free first… |
+| 2026-10-08 11:28:06 | dev.workers.cybermax-tools.cybermax/citewren | Citewren | 1.0.0 | AI search readiness MCP: score a site for ChatGPT/Claude/Perplexity crawlers. 3… |
+| 2026-10-08 11:28:30 | dev.workers.cybermax-tools.cybermax/pricewick | Pricewick | 1.0.0 | Competitor price & stock monitor MCP: check any product page. Free 5 products;… |
+| 2026-10-08 11:28:47 | dev.workers.cybermax-tools.cybermax/shiftmoor | Shiftmoor | 1.0.0 | Website change monitor MCP: see what changed on any public page. Free 3 pages;… |
+| 2026-10-08 11:29:12 | [io.github.Vosikkk/google-search-console-mcp](https://github.com/Vosikkk/google-search-console-mcp) | Vosik Signals Google Search Console | 1.0.0 | Read-only Google Search Console MCP server for AI assistants. |
+| 2026-10-08 11:29:48 | [io.github.cyanheads/census-mcp-server](https://github.com/cyanheads/census-mcp-server) |  | 0.6.1 | Query U.S. Census Bureau data, variables, and geography via MCP. |
+| 2026-10-08 11:30:00 | [io.github.cyanheads/bluesky-mcp-server](https://github.com/cyanheads/bluesky-mcp-server) |  | 0.5.2 | Search posts, profiles, feeds, threads, and trending topics on Bluesky. |
+| 2026-10-08 11:30:59 | [io.github.cyanheads/cpsc-recalls-mcp-server](https://github.com/cyanheads/cpsc-recalls-mcp-server) |  | 0.2.2 | US consumer product recalls from the CPSC: hazards, remedies, and affected prod… |
+| 2026-10-08 11:32:16 | [io.github.cyanheads/devops-status-mcp-server](https://github.com/cyanheads/devops-status-mcp-server) |  | 0.9.1 | Vendor status pages, TLS cert inspection, DNS propagation checks, and incident-… |
+| 2026-10-08 11:34:50 | [io.github.cyanheads/aviation-weather-mcp-server](https://github.com/cyanheads/aviation-weather-mcp-server) |  | 0.5.1 | Fetch METARs, TAFs, PIREPs, and domestic SIGMETs from the NWS Aviation Weather… |
+| 2026-10-08 11:35:34 | [io.github.cyanheads/astronomy-mcp-server](https://github.com/cyanheads/astronomy-mcp-server) |  | 0.4.1 | Offline observational astronomy: positions, rise/set, moon phases, eclipses, an… |
+| 2026-10-08 11:37:59 | app.openkrill/videograb | Video Grab | 1.0.0 | Find freely licensed video you can reuse, and official steps to export videos y… |
+| 2026-10-08 11:38:09 | app.openkrill/lane-planner | Lane Planner | 1.0.0 | Lane Planner is a planning tool for people with many interests and limited hour… |
+| 2026-10-08 11:40:43 | ru.evafarmstore/evafarm | EvaFarm — GPU render nodes | 1.0.0 | Render farm GPU nodes: live availability, installed DCC apps and engines, per-m… |
+| 2026-10-08 11:41:51 | [io.github.cyanheads/crossref-mcp-server](https://github.com/cyanheads/crossref-mcp-server) |  | 0.4.2 | Resolve DOIs, search ~155M scholarly works, and fetch references via the Crossr… |
+| 2026-10-08 11:42:39 | [io.github.cyanheads/fcc-broadband-mcp-server](https://github.com/cyanheads/fcc-broadband-mcp-server) |  | 0.2.4 | FCC broadband availability, coverage analysis, and digital divide data for US g… |
+| 2026-10-08 11:47:13 | [io.github.vschernoff/solhint-mcp](https://github.com/vschernoff/solhint-mcp) |  | 0.1.2 | MCP server for Solhint — lint and autofix Solidity smart contracts from any MCP… |
+| 2026-10-08 11:50:32 | co.aitrainerjobs/jobs | AI Trainer Jobs | 1.0.0 | Find remote AI trainer jobs and compare the companies that hire for them. |
+| 2026-10-08 11:54:04 | de.stellenonline/jobsearch | stellenonline.de Jobsuche | 1.0.0 | Read-only search across current job listings on stellenonline.de (German job po… |
+| 2026-10-08 11:55:08 | io.github.truhojunbot-tech/economic-calendar-tracker | Economic Calendar Tracker (Apify Actor) | 1.0.0 | Scheduled macroeconomic releases from ForexFactory and FXStreet; pay-per-event… |
+| 2026-10-08 11:55:20 | io.github.truhojunbot-tech/excel-extractor | Excel & CSV to JSON (Apify Actor) | 1.0.0 | Convert XLSX, XLS and CSV files from URLs to JSON rows; pay-per-event via your… |
+| 2026-10-08 11:55:31 | io.github.truhojunbot-tech/image-ocr-extractor | Image OCR Extractor (Apify Actor) | 1.0.0 | OCR text from images and scanned PDFs; pay-per-event via your Apify account. |
+| 2026-10-08 11:55:34 | io.github.truhojunbot-tech/pdf-text-extractor | PDF Text Extractor (Apify Actor) | 1.0.0 | Extract text, tables and RAG chunks from public PDF URLs; pay-per-event via you… |
+| 2026-10-08 11:55:52 | io.github.eyeguide-dev/speakvora | Speakvora | 0.1.0 | Text to speech, voice listing and phrase library search for AI assistants. API… |
+| 2026-10-08 11:56:17 | sh.knowngood/knowngood |  | 1.8.0 | Search agent-ready sites or fetch one site's report; every capability probe-ver… |
+| 2026-10-08 11:57:02 | [io.github.TheCompanyAtlas/pakistan-secp-company](https://github.com/TheCompanyAtlas/pakistan-secp-company-mcp) | Pakistan SECP Company Registry | 1.0.0 | Pakistan SECP company search by name, CUIN, company type, registration office. |
+| 2026-10-08 11:58:40 | [io.github.bnovarini/cfpb-complaints-analysis](https://github.com/bnovarini/cfpb-complaints-analysis) | CFPB consumer complaints | 0.1.1 | CFPB consumer complaints: 18M records, 3.85M archived narratives. Search, count… |
+| 2026-10-08 12:02:35 | io.github.Smia-Technologies-AS/smia | Smia | 1.0.0 | Build your own tools from chat: design, test and host them on a shareable MCP s… |
+| 2026-10-08 12:03:07 | com.fortitude21/dangerous-goods | Fortitude21 Dangerous Goods Tools | 1.0.0 | Dangerous goods packaging tools: UN number lookup, UN mark decoder, ADR points,… |
+| 2026-10-08 12:05:38 | [io.github.TinySuiteHQ/tinysearch](https://github.com/TinySuiteHQ/TinySearch) |  | 0.6.6 | Fast discovery search and self-hosted web research for MCP agents. |
+| 2026-10-08 12:11:27 | app.siteprint/examples | Siteprint examples | 1.0.0 | Website designs as DESIGN.md: real Siteprint exports of Linear, Stripe, Ramp an… |
+| 2026-10-08 12:12:30 | com.52choujiang/instagram-insights | SocialDataX Instagram MCP | 0.1.6 | Instagram user/post search, details, comments/replies, users/posts, video/Reels… |
+| 2026-10-08 12:13:15 | io.github.comment-hq/comment | Comment.io | 1.0.0 | Read, edit and improve shared documents and knowledge with people and agents. |
+| 2026-10-08 12:15:17 | [io.github.ZahiriNatZuke/local-delegate](https://github.com/ZahiriNatZuke/local-delegate) |  | 0.33.0 | Delegate mechanical text tasks to a local OpenAI-compatible LLM to save Claude… |
+| 2026-10-08 12:15:51 | eu.metlex/metlex | MetLex | 0.4.0 | DORA, GDPR and FFFS as verbatim passages with article, official link and snapsh… |
+| 2026-10-08 12:17:30 | com.envoapi/envoapi | EnvoAPI | 1.1.2 | People, company, job and LinkedIn post data, plus email finding and verificatio… |
+| 2026-10-08 12:17:31 | [io.github.abhishekash/mcp-trace](https://github.com/abhishekash/mcp-trace) | MCP Trace | 0.1.0 | Query OpenTelemetry traces from agent runs through MCP. |
+| 2026-10-08 12:18:06 | [io.github.Pepebits/outlook-mcp](https://github.com/Pepebits/outlook-mcp) | Outlook Mail | 1.0.1 | Read, search, send and clean up Outlook.com / Hotmail mail through Microsoft Gr… |
+| 2026-10-08 12:19:40 | com.dzpage/dayz | DZPage DayZ Tools | 1.156.0 | DayZ items, loot spawns, infected, game updates, community servers and server c… |
+| 2026-10-08 12:21:42 | com.rijwind/mcp | Rijwind | 1.0.0 | European maps, geocoding and routing: places, routes, travel times, reachable a… |
+| 2026-10-08 12:21:47 | [io.github.Qiskit/qiskit-mcp-server](https://github.com/Qiskit/mcp-servers) | Qiskit MCP Server | 0.3.2 | MCP server for Qiskit quantum computing with circuit serialization utilities |
 
 ## Data source
 
