@@ -1,0 +1,11 @@
+created_at,server,title,version,repository,transports,description
+2026-10-08T01:34:39.95649Z,io.github.xhighhongo41/patent-checker,,1.4.1,https://github.com/xhighhongo41/patent-checker,,"Prior-art exploration for software projects; finds related patents, never judges infringement"
+2026-10-08T01:37:02.103564Z,app.maxworth/maxworth-public,MaxWorth Credit Card Benefits,1.0.0,,streamable-http,"US credit card data: annual fees, statement credits, earn rates, offers and cashback portal rates."
+2026-10-08T01:37:09.436117Z,app.maxworth/maxworth,MaxWorth (your cards),1.0.0,,streamable-http,"Read-only access to the cards, statement credits and offers you track in MaxWorth. OAuth sign-in."
+2026-10-08T01:37:42.43958Z,xyz.nlyra/risk-layer,NLYRA — the risk layer of Robinhood Chain,1.1.0,,streamable-http,"Robinhood Chain risk layer: token Risk Level, contract scans, wallet x-rays, non-custodial trades"
+2026-10-08T01:39:20.849448Z,io.github.VectorMethods/videovector-mcp-server,VideoVector MCP Server,2.1.1,,,Model Context Protocol server for the VectorMethods VideoVector media intelligence API.
+2026-10-08T01:41:47.100826Z,io.github.rankcontrol/rankcontrol,RankControl,0.17.0,https://github.com/rankcontrol/rankcontrol,streamable-http,"Plan, write and publish SEO articles on your own site, and track your Google and AI search traffic."
+2026-10-08T01:46:36.272231Z,ai.clevra/clevra,Clevra,1.0.0,,streamable-http,"Field service management for trades: clients, jobs, quotes, invoices, schedule and reports."
+2026-10-08T01:47:48.928974Z,com.oakferry/agents,Oakferry Agents,0.1.0,,streamable-http,"Search and compare Oakferry's apps with dated, sourced facts: platforms, prices, ratings, limits."
+2026-10-08T01:54:07.153058Z,io.github.AgentTax/agenttax-mcp,AgentTax,1.1.0,https://github.com/AgentTax/agenttax-mcp,,"US sales/use tax, nexus thresholds, capital gains and 1099-DA tools for AI agent transactions."
+2026-10-08T02:03:29.698572Z,ai.physea/liminality,Liminal,1.0.6,https://github.com/jaybro2042-alt/liminality-mcp,streamable-http,Augment your work with Liminal. Stop repeating yourself and build on what’s already solved.
