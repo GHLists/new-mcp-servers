@@ -9,60 +9,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 12:21 UTC
+## Latest list — 2026-10-08 13:18 UTC
 
-New MCP servers published between 2026-10-08 11:21 UTC and 2026-10-08 12:21 UTC.
+New MCP servers published between 2026-10-08 12:21 UTC and 2026-10-08 13:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-08T12-21-59-665727Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-08T13-18-45-580167Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-08 11:21:42 | [io.github.Vosikkk/google-analytics-mcp](https://github.com/Vosikkk/google-analytics-mcp) | Vosik Signals Google Analytics 4 | 1.0.0 | Read-only Google Analytics 4 MCP server for AI assistants. |
-| 2026-10-08 11:22:44 | [io.github.lnanology/xfinlab](https://github.com/lnanology/Xfinlab) |  | 1.0.1 | Financial intelligence for AI agents: market events, sentiment, technicals, new… |
-| 2026-10-08 11:22:46 | dev.aiseek/aiseek | AiSeek | 1.0.0 | Verified world changes with their sources: news, country Change Heat, releases,… |
-| 2026-10-08 11:24:33 | [com.meetkatalis/katalis](https://github.com/CurtisAshleyDuplain/meetkatalis-website) |  | 1.0.0 | UK public-record company intelligence: Companies House, payments, contracts, re… |
-| 2026-10-08 11:26:05 | net.kitbench/kitbench | Kitbench | 1.0.0 | Exact Japanese text & date tools: char count, business days with JP holidays, e… |
-| 2026-10-08 11:27:47 | dev.workers.cybermax-tools.cybermax/awardtide | Awardtide Recompete Radar | 1.0.0 | Expiring US federal contracts MCP: recompete search by NAICS/agency. Free first… |
-| 2026-10-08 11:28:06 | dev.workers.cybermax-tools.cybermax/citewren | Citewren | 1.0.0 | AI search readiness MCP: score a site for ChatGPT/Claude/Perplexity crawlers. 3… |
-| 2026-10-08 11:28:30 | dev.workers.cybermax-tools.cybermax/pricewick | Pricewick | 1.0.0 | Competitor price & stock monitor MCP: check any product page. Free 5 products;… |
-| 2026-10-08 11:28:47 | dev.workers.cybermax-tools.cybermax/shiftmoor | Shiftmoor | 1.0.0 | Website change monitor MCP: see what changed on any public page. Free 3 pages;… |
-| 2026-10-08 11:29:12 | [io.github.Vosikkk/google-search-console-mcp](https://github.com/Vosikkk/google-search-console-mcp) | Vosik Signals Google Search Console | 1.0.0 | Read-only Google Search Console MCP server for AI assistants. |
-| 2026-10-08 11:29:48 | [io.github.cyanheads/census-mcp-server](https://github.com/cyanheads/census-mcp-server) |  | 0.6.1 | Query U.S. Census Bureau data, variables, and geography via MCP. |
-| 2026-10-08 11:30:00 | [io.github.cyanheads/bluesky-mcp-server](https://github.com/cyanheads/bluesky-mcp-server) |  | 0.5.2 | Search posts, profiles, feeds, threads, and trending topics on Bluesky. |
-| 2026-10-08 11:30:59 | [io.github.cyanheads/cpsc-recalls-mcp-server](https://github.com/cyanheads/cpsc-recalls-mcp-server) |  | 0.2.2 | US consumer product recalls from the CPSC: hazards, remedies, and affected prod… |
-| 2026-10-08 11:32:16 | [io.github.cyanheads/devops-status-mcp-server](https://github.com/cyanheads/devops-status-mcp-server) |  | 0.9.1 | Vendor status pages, TLS cert inspection, DNS propagation checks, and incident-… |
-| 2026-10-08 11:34:50 | [io.github.cyanheads/aviation-weather-mcp-server](https://github.com/cyanheads/aviation-weather-mcp-server) |  | 0.5.1 | Fetch METARs, TAFs, PIREPs, and domestic SIGMETs from the NWS Aviation Weather… |
-| 2026-10-08 11:35:34 | [io.github.cyanheads/astronomy-mcp-server](https://github.com/cyanheads/astronomy-mcp-server) |  | 0.4.1 | Offline observational astronomy: positions, rise/set, moon phases, eclipses, an… |
-| 2026-10-08 11:37:59 | app.openkrill/videograb | Video Grab | 1.0.0 | Find freely licensed video you can reuse, and official steps to export videos y… |
-| 2026-10-08 11:38:09 | app.openkrill/lane-planner | Lane Planner | 1.0.0 | Lane Planner is a planning tool for people with many interests and limited hour… |
-| 2026-10-08 11:40:43 | ru.evafarmstore/evafarm | EvaFarm — GPU render nodes | 1.0.0 | Render farm GPU nodes: live availability, installed DCC apps and engines, per-m… |
-| 2026-10-08 11:41:51 | [io.github.cyanheads/crossref-mcp-server](https://github.com/cyanheads/crossref-mcp-server) |  | 0.4.2 | Resolve DOIs, search ~155M scholarly works, and fetch references via the Crossr… |
-| 2026-10-08 11:42:39 | [io.github.cyanheads/fcc-broadband-mcp-server](https://github.com/cyanheads/fcc-broadband-mcp-server) |  | 0.2.4 | FCC broadband availability, coverage analysis, and digital divide data for US g… |
-| 2026-10-08 11:47:13 | [io.github.vschernoff/solhint-mcp](https://github.com/vschernoff/solhint-mcp) |  | 0.1.2 | MCP server for Solhint — lint and autofix Solidity smart contracts from any MCP… |
-| 2026-10-08 11:50:32 | co.aitrainerjobs/jobs | AI Trainer Jobs | 1.0.0 | Find remote AI trainer jobs and compare the companies that hire for them. |
-| 2026-10-08 11:54:04 | de.stellenonline/jobsearch | stellenonline.de Jobsuche | 1.0.0 | Read-only search across current job listings on stellenonline.de (German job po… |
-| 2026-10-08 11:55:08 | io.github.truhojunbot-tech/economic-calendar-tracker | Economic Calendar Tracker (Apify Actor) | 1.0.0 | Scheduled macroeconomic releases from ForexFactory and FXStreet; pay-per-event… |
-| 2026-10-08 11:55:20 | io.github.truhojunbot-tech/excel-extractor | Excel & CSV to JSON (Apify Actor) | 1.0.0 | Convert XLSX, XLS and CSV files from URLs to JSON rows; pay-per-event via your… |
-| 2026-10-08 11:55:31 | io.github.truhojunbot-tech/image-ocr-extractor | Image OCR Extractor (Apify Actor) | 1.0.0 | OCR text from images and scanned PDFs; pay-per-event via your Apify account. |
-| 2026-10-08 11:55:34 | io.github.truhojunbot-tech/pdf-text-extractor | PDF Text Extractor (Apify Actor) | 1.0.0 | Extract text, tables and RAG chunks from public PDF URLs; pay-per-event via you… |
-| 2026-10-08 11:55:52 | io.github.eyeguide-dev/speakvora | Speakvora | 0.1.0 | Text to speech, voice listing and phrase library search for AI assistants. API… |
-| 2026-10-08 11:56:17 | sh.knowngood/knowngood |  | 1.8.0 | Search agent-ready sites or fetch one site's report; every capability probe-ver… |
-| 2026-10-08 11:57:02 | [io.github.TheCompanyAtlas/pakistan-secp-company](https://github.com/TheCompanyAtlas/pakistan-secp-company-mcp) | Pakistan SECP Company Registry | 1.0.0 | Pakistan SECP company search by name, CUIN, company type, registration office. |
-| 2026-10-08 11:58:40 | [io.github.bnovarini/cfpb-complaints-analysis](https://github.com/bnovarini/cfpb-complaints-analysis) | CFPB consumer complaints | 0.1.1 | CFPB consumer complaints: 18M records, 3.85M archived narratives. Search, count… |
-| 2026-10-08 12:02:35 | io.github.Smia-Technologies-AS/smia | Smia | 1.0.0 | Build your own tools from chat: design, test and host them on a shareable MCP s… |
-| 2026-10-08 12:03:07 | com.fortitude21/dangerous-goods | Fortitude21 Dangerous Goods Tools | 1.0.0 | Dangerous goods packaging tools: UN number lookup, UN mark decoder, ADR points,… |
-| 2026-10-08 12:05:38 | [io.github.TinySuiteHQ/tinysearch](https://github.com/TinySuiteHQ/TinySearch) |  | 0.6.6 | Fast discovery search and self-hosted web research for MCP agents. |
-| 2026-10-08 12:11:27 | app.siteprint/examples | Siteprint examples | 1.0.0 | Website designs as DESIGN.md: real Siteprint exports of Linear, Stripe, Ramp an… |
-| 2026-10-08 12:12:30 | com.52choujiang/instagram-insights | SocialDataX Instagram MCP | 0.1.6 | Instagram user/post search, details, comments/replies, users/posts, video/Reels… |
-| 2026-10-08 12:13:15 | io.github.comment-hq/comment | Comment.io | 1.0.0 | Read, edit and improve shared documents and knowledge with people and agents. |
-| 2026-10-08 12:15:17 | [io.github.ZahiriNatZuke/local-delegate](https://github.com/ZahiriNatZuke/local-delegate) |  | 0.33.0 | Delegate mechanical text tasks to a local OpenAI-compatible LLM to save Claude… |
-| 2026-10-08 12:15:51 | eu.metlex/metlex | MetLex | 0.4.0 | DORA, GDPR and FFFS as verbatim passages with article, official link and snapsh… |
-| 2026-10-08 12:17:30 | com.envoapi/envoapi | EnvoAPI | 1.1.2 | People, company, job and LinkedIn post data, plus email finding and verificatio… |
-| 2026-10-08 12:17:31 | [io.github.abhishekash/mcp-trace](https://github.com/abhishekash/mcp-trace) | MCP Trace | 0.1.0 | Query OpenTelemetry traces from agent runs through MCP. |
-| 2026-10-08 12:18:06 | [io.github.Pepebits/outlook-mcp](https://github.com/Pepebits/outlook-mcp) | Outlook Mail | 1.0.1 | Read, search, send and clean up Outlook.com / Hotmail mail through Microsoft Gr… |
-| 2026-10-08 12:19:40 | com.dzpage/dayz | DZPage DayZ Tools | 1.156.0 | DayZ items, loot spawns, infected, game updates, community servers and server c… |
-| 2026-10-08 12:21:42 | com.rijwind/mcp | Rijwind | 1.0.0 | European maps, geocoding and routing: places, routes, travel times, reachable a… |
-| 2026-10-08 12:21:47 | [io.github.Qiskit/qiskit-mcp-server](https://github.com/Qiskit/mcp-servers) | Qiskit MCP Server | 0.3.2 | MCP server for Qiskit quantum computing with circuit serialization utilities |
+| 2026-10-08 12:22:08 | [io.github.Qiskit/qiskit-gym-mcp-server](https://github.com/Qiskit/mcp-servers) | Qiskit Gym MCP Server | 0.4.2 | MCP server for qiskit-gym reinforcement learning quantum circuit synthesis |
+| 2026-10-08 12:22:40 | [io.github.Qiskit/qiskit-ibm-runtime-mcp-server](https://github.com/Qiskit/mcp-servers) | Qiskit IBM Runtime MCP Server | 0.6.2 | MCP server for IBM Quantum computing services through Qiskit IBM Runtime |
+| 2026-10-08 12:25:45 | dev.rumoro/mcp | Rumoro | 1.0.0 | Track what people say about your product on Reddit, X, Hacker News, GitHub and… |
+| 2026-10-08 12:26:37 | [io.github.cyanheads/musicbrainz-mcp-server](https://github.com/cyanheads/musicbrainz-mcp-server) |  | 0.1.9 | Search MusicBrainz artists, releases, works, labels; resolve ISRC/ISWC/barcode;… |
+| 2026-10-08 12:27:09 | [io.github.cyanheads/ensembl-mcp-server](https://github.com/cyanheads/ensembl-mcp-server) |  | 0.5.1 | Look up genes, sequences, variants, homologs, and cross-database xrefs from Ens… |
+| 2026-10-08 12:27:53 | [io.github.cyanheads/inaturalist-mcp-server](https://github.com/cyanheads/inaturalist-mcp-server) |  | 0.2.2 | Search iNaturalist sightings, identification threads, phenology, and look-alike… |
+| 2026-10-08 12:29:09 | me.walalook/tools | walalook tools | 1.4.0 | Free web tools with MCP endpoints: file share, notes, image compression, PDF me… |
+| 2026-10-08 12:32:50 | [io.github.cyanheads/smithsonian-mcp-server](https://github.com/cyanheads/smithsonian-mcp-server) |  | 0.3.8 | Search 14.5M Smithsonian Open Access objects, get CC0 images, find cross-collec… |
+| 2026-10-08 12:33:05 | [io.github.cyanheads/grantsgov-mcp-server](https://github.com/cyanheads/grantsgov-mcp-server) |  | 0.1.2 | Search Grants.gov funding opportunities and read full records: eligibility, awa… |
+| 2026-10-08 12:37:17 | com.sigmajunction/site | SigmaJunction | 1.0.0 | Software engineering firm in Serbia: services, engagement models, articles - an… |
+| 2026-10-08 12:38:30 | [io.github.beepboop2025/noisefloor](https://github.com/beepboop2025/noisefloor) | NoiseFloor — market attention and evide… | 0.3.1 | Offline market diagnostics, news repetition, data coverage and statistical chec… |
+| 2026-10-08 12:39:26 | [io.github.cyanheads/openfoodfacts-mcp-server](https://github.com/cyanheads/openfoodfacts-mcp-server) |  | 0.3.7 | Barcode lookup, nutrition search, and product comparison for 3M+ crowd-sourced… |
+| 2026-10-08 12:39:44 | [io.github.cyanheads/ris-austria-mcp-server](https://github.com/cyanheads/ris-austria-mcp-server) |  | 0.5.1 | Search Austrian federal and state law, court decisions, and the authentic Bunde… |
+| 2026-10-08 12:40:54 | [gallery.a1/a1-gallery](https://github.com/bryntay/a1-mcp) | A1 Gallery | 1.1.1 | Search hand-curated website designs by style, font, colour, section and technol… |
+| 2026-10-08 12:41:50 | [io.github.Jim-Panse/heic-to-jpg](https://github.com/Jim-Panse/HEIC-to-JPG-MCP) | HEIC To JPG | 1.0.3 | Local MCP server that converts HEIC images to non-overwriting JPEG files on mac… |
+| 2026-10-08 12:43:18 | [io.github.cyanheads/calculator-mcp-server](https://github.com/cyanheads/calculator-mcp-server) |  | 0.5.1 | Evaluate, simplify, and differentiate mathematical expressions. |
+| 2026-10-08 12:44:46 | com.agentdatafeed/agentdatafeed | agentdatafeed | 1.0.0 | Source-verified data for agents: Amsterdam events from permits, CVEs with CISA… |
+| 2026-10-08 12:46:09 | com.askscores/sports-stats | AskScores | 1.0.0 | Sports stats questions in plain English: NBA, WNBA, NFL, MLB, NHL and college f… |
+| 2026-10-08 12:50:22 | [io.github.matchawards/matchawards-mcp](https://github.com/matchawards/matchawards-mcp) | MatchAwards | 0.1.0 | Search US government contracts, grants and jobs from matchawards.com. Read-only… |
+| 2026-10-08 12:52:39 | io.ownkube/ownkube | Ownkube | 1.9.0 | Deploy and run apps, workers, jobs, Postgres, and Valkey on Ownkube from your c… |
+| 2026-10-08 12:53:31 | [io.github.HuangGoodmanAgency/edgar-and-edgarette](https://github.com/HuangGoodmanAgency/filing-boards) | Edgar & Edgarette: SEC Filing Boards | 1.1.0 | SEC filing boards and actuarial checks: companies, portfolios vs insurers, rein… |
+| 2026-10-08 12:54:08 | [io.github.jkbngb/firmenbuch](https://github.com/jkbngb/agentic-firmenbuch) | Firmenbuch | 1.0.1 | Austria's official company register (Firmenbuch) – master data, financials & ra… |
+| 2026-10-08 12:54:09 | [io.github.jkbngb/handelsregister](https://github.com/jkbngb/agentic-firmenbuch) | Handelsregister | 1.0.1 | German Handelsregister + Austrian Firmenbuch for AI agents: master data, financ… |
+| 2026-10-08 12:55:37 | [io.github.ShinjukuStaition/shinjuku-mcp](https://github.com/ShinjukuStaition/shinjuku-mcp) | Shinjuku Shielded | 0.1.1 | Private x402 payments on Solana: shield, pay, and unshield USDC under caps you… |
+| 2026-10-08 12:57:28 | [io.github.Ker102/vipermesh-blender](https://github.com/Ker102/vipermesh-blender) | ViperMesh for Blender | 1.3.0 | Free Blender MCP addon for faster AI scene edits, fewer tokens and built-in sce… |
+| 2026-10-08 12:59:43 | com.scorestarling/scorestarling | ScoreStarling | 1.1.0 | Turn recordings, videos and sheet music into playable, editable scores; export… |
+| 2026-10-08 13:00:08 | ru.gentender/tenders | GenTender — госзакупки России | 1.0.0 | Russian public procurement: search tenders, documents, RPP registry, bid assemb… |
+| 2026-10-08 13:00:30 | [io.github.azeemkafridi/bulkpublish](https://github.com/azeemkafridi/bulkpublish-api) | BulkPublish | 1.42.0 | Schedule, cross-post, and analyze social media posts across 15 platforms from A… |
+| 2026-10-08 13:01:19 | [io.github.InitechSoftware/whatsapp-mcp-by-timelinesai](https://github.com/InitechSoftware/whatsapp-mcp-by-timelinesai) | WhatsApp MCP by TimelinesAI | 1.0.2 | Ask questions across your WhatsApp inbox from Claude, ChatGPT, Cursor or any MC… |
+| 2026-10-08 13:01:42 | com.oper-stack/operstack | OperStack | 1.2.0 | Scores whether AI assistants can read, understand and quote a public website. N… |
+| 2026-10-08 13:06:01 | io.motcheck/mot | MOT Check | 1.1.0 | UK vehicle lookup, MOT status and full MOT history from official DVSA data, by… |
+| 2026-10-08 13:07:22 | com.retiplex/retiplex | Retiplex | 1.0.0 | Make AI UGC video ads from a product: script, AI actor, scenes and the finished… |
+| 2026-10-08 13:08:23 | io.github.ochodigits/launch-ready | Launch Ready | 0.2.0 | Pre-launch website QA: deterministic rule-based scans, readiness score, and blo… |
+| 2026-10-08 13:11:20 | [io.github.kemalyy/edumints-scorm-mcp](https://github.com/kemalyy/edumints-scorm-mcp) | edumints SCORM MCP | 1.7.0 | Compiles structured specs into SCORM 1.2/2004 e-learning packages. 43 tools, qu… |
+| 2026-10-08 13:12:42 | [io.github.WYRE-AI/mimecast-mcp](https://github.com/WYRE-AI/mimecast-mcp) | Mimecast | 1.3.7 | MCP server for Mimecast email security: message queue, held messages, domains,… |
+| 2026-10-08 13:15:07 | [io.github.adamVass/pylos-mcp](https://github.com/adamVass/pylos-mcp) |  | 0.3.0 | Read-focused, prompt-injection-hardened email MCP server for any IMAP provider |
 
 ## Data source
 
