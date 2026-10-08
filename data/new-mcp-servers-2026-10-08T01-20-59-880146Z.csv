@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-10-08T00:24:54.204297Z,io.github.dannykeane/figmanage,figmanage,1.5.1,https://github.com/dannykeane/figmanage,,"Let agents manage your Figma workspace. 102 tools for seats, teams, offboarding, and cleanup."
+2026-10-08T00:25:25.565427Z,io.github.chrischall/alexa-mcp,,0.1.0,https://github.com/chrischall/alexa-mcp,,"Amazon Alexa for Claude — Echo devices, announcements, routines, smart home, lists"
+2026-10-08T00:25:47.485676Z,io.github.artur0x0/surfcad,,0.0.1,https://github.com/artur0x0/surfcad-agent,,"MCP server for SurfCAD: Fully featured script CAD built on Manifold, with helpers for AI agents"
+2026-10-08T00:28:40.428014Z,io.github.spacefast/mcp,Spacefast,0.5.1,https://github.com/spacefast/mcp,streamable-http,"Build, publish, and manage websites, dashboards, reports, and web tools with Spacefast."
+2026-10-08T00:31:24.505601Z,app.nanocorp.webcheck/webcheck,webcheck,1.0.0,,streamable-http,"The website checker for AI agents. One call: verdict, score out of 100, fix list."
+2026-10-08T00:37:51.966806Z,io.github.hpdkhoa/poselab-mcp,Pose Lab,0.2.0,https://github.com/hpdkhoa/poselab-mcp,,Measured spatial answers for posing first-person arms and a rifle in Blender
+2026-10-08T00:44:05.36327Z,com.trykob.mcp/ops-audit,KOB Live Restaurant Ops Audit,1.0.0,,streamable-http,"Read-only audit of a restaurant's public Google, website, and Yelp listings."
+2026-10-08T00:53:26.246415Z,dev.x402pulse/x402pulse,x402Pulse,1.0.0,,streamable-http,"34 data tools: Polymarket skill, FDA and hospitals, oil, attention, travel, SEC filings"
+2026-10-08T00:55:17.953217Z,io.github.shaneraphel/aletheia,Aletheia Certified Compute,1.0.0,,streamable-http,Certified program synthesis. Pay per call in USDC via x402; refusals never billed.
+2026-10-08T00:56:33.683234Z,dev.ytapi/youtube,YTAPI,1.0.0,https://github.com/ytapi/youtube-skills,streamable-http,"YouTube transcripts, video details, search, channels and playlists. OAuth sign-in or API key."
+2026-10-08T00:59:17.437691Z,io.github.khanarmaghanrasheed-18/dataset-explorer,Dataset Explorer,0.2.0,https://github.com/khanarmaghanrasheed-18/MCP-Dataset-Explorer,,"Explore local CSV, Excel, JSON, TSV, and Parquet datasets with deterministic analysis tools."
+2026-10-08T01:00:07.757258Z,io.github.agentwares/seatledger,seatledger,0.2.0,https://github.com/agentwares/seatledger,,"Local ledger of Claude Code and Codex tokens, API-equivalent cost, limits and token-rate changes."
+2026-10-08T01:08:40.326675Z,app.listspace/listspace,Listspace,2.0.0,https://github.com/listspace/agent,streamable-http,Project memory for AI agents: read and keep the user's Listspace boards up to date.
+2026-10-08T01:15:41.82851Z,io.github.tombaldwin/candor,candor,0.40.0,https://github.com/tombaldwin/candor-ts,,"Per-function effect analysis for agents: blast radius, what reaches the network, gate verdicts."
+2026-10-08T01:16:18.293507Z,tech.agentbazaar/marketplace,,1.4.0,,streamable-http; sse,"Stuck on an obvious answer? beyond_obvious adds verified numbers, missed options and sources."
+2026-10-08T01:17:38.681743Z,com.loopxxi/loop-mcp,loop-mcp,2.4.0,,streamable-http,"15 pay-per-call Bitcoin and developer tools, paid in sats over Lightning (L402)."
