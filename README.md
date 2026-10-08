@@ -9,34 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 04:19 UTC
+## Latest list — 2026-10-08 05:20 UTC
 
-New MCP servers published between 2026-10-08 03:20 UTC and 2026-10-08 04:19 UTC.
+New MCP servers published between 2026-10-08 04:19 UTC and 2026-10-08 05:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-08T04-19-57-991519Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-08T05-20-40-635638Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-08 03:27:55 | [fyi.clairvoyance/mcp](https://github.com/codybrom/clairvoyance) | Clairvoyance | 1.3.0 | Software design skills for AI coding agents, drawn from A Philosophy of Softwar… |
-| 2026-10-08 03:28:52 | io.github.Ethan-YS/andco | AndCo | 1.0.0 | Bring your own AI into group chats with your friends and their AIs. AndCo only… |
-| 2026-10-08 03:36:34 | io.github.ohvii/ohvii | Ohvii | 1.0.0 | Find homes with your AI, then use Ohvii to carry the purchase from listing to c… |
-| 2026-10-08 03:39:02 | [io.github.Hachimeder/maxplus2-mcp](https://github.com/Hachimeder/maxplus2-mcp) | MAX+plus II MCP / 数字电路 AI 工具 | 0.10.3 | MAX+plus II / MaxPlus2 MCP: GDF/SYM/SCF, compile/simulation. 原理图、波形、编译仿真与 Windo… |
-| 2026-10-08 03:43:45 | [io.github.groundhogday2011-byte/a2apay](https://github.com/groundhogday2011-byte/a2apay) |  | 0.1.0 | Pay-per-call AI query and versioned task memory for agents. No account, no API… |
-| 2026-10-08 03:49:35 | [com.pixharvest/esp32-control](https://github.com/contentforge-press/esp32-mcp) | ESP32 Control | 0.1.0 | Control ESP32 IoT devices from AI agents: status, GPIO, ADC, reboot. |
-| 2026-10-08 03:52:24 | [co.com.meteor/meteor](https://github.com/met-claude/Met) |  | 3.24.0 | Opera y construye en Met: conversaciones, contactos, Mets, flujos, colecciones… |
-| 2026-10-08 03:56:04 | [io.github.gabrielmahia/faida-mcp](https://github.com/gabrielmahia/faida-mcp) |  | 0.1.4 | MCP server for savings and investment coordination in East Africa (faida = retu… |
-| 2026-10-08 03:56:04 | [io.github.gabrielmahia/kilimo-mcp](https://github.com/gabrielmahia/kilimo-mcp) |  | 0.1.4 | MCP server for agriculture coordination in East Africa (kilimo = farming) |
-| 2026-10-08 03:56:16 | [io.github.gabrielmahia/mpesa-mcp](https://github.com/gabrielmahia/mpesa-mcp) |  | 0.2.8 | MCP server for M-Pesa mobile-money integration in Kenya |
-| 2026-10-08 03:57:57 | com.tryclef/businesses-for-sale | Clef: Businesses for Sale | 1.0.0 | Search 125,000+ businesses for sale with financials and broker contacts. Requir… |
-| 2026-10-08 03:59:59 | com.nimtin/nimtin | nimtin | 1.0.0 | Book venues and vendors for events. Drafts wait in nimtin for you to send. |
-| 2026-10-08 04:00:20 | ai.bithuman/characters | bitHuman | 1.0.0 | Animated AI characters in your chat: short clips of a character saying your wor… |
-| 2026-10-08 04:04:04 | io.github.haim-barad/drinkedin | DrinkedIn — the AI agent bar | 2.4.4 | AI-agent bar: venues, drinks, chat. Licensed bar/cocktail/behaviour data. x402.… |
-| 2026-10-08 04:09:29 | [io.github.gabrielmahia/habari-mcp](https://github.com/gabrielmahia/habari-mcp) |  | 0.1.5 | MCP server for news and public-information coordination in East Africa (habari… |
-| 2026-10-08 04:09:31 | [io.github.gabrielmahia/nishati-mcp](https://github.com/gabrielmahia/nishati-mcp) |  | 0.1.5 | MCP server for energy coordination in East Africa (nishati = energy) |
-| 2026-10-08 04:13:22 | [io.github.viniciusmdoobm/mcp-brasil](https://github.com/viniciusmdoobm/mcp-brasil) |  | 0.2.0 | Dados brasileiros para agentes de IA: CEP, CNPJ, bancos, taxas, feriados, clima… |
-| 2026-10-08 04:13:54 | [io.github.ArpitGandhi1934/yugenox-instagram-comments](https://github.com/ArpitGandhi1934/yugenox-mcp) | Instagram Comments Scraper: All Comment… | 1.2.0 | Public comments on any Instagram post or reel, newest or top first, with keywor… |
-| 2026-10-08 04:13:55 | [io.github.ArpitGandhi1934/yugenox-instagram-reels-transcript](https://github.com/ArpitGandhi1934/yugenox-mcp) | Instagram Reels to Text: AI Transcripts… | 1.2.0 | Spoken words from public Instagram reels as text, with each reel's caption and… |
-| 2026-10-08 04:13:56 | [io.github.ArpitGandhi1934/yugenox-youtube-ai-summarizer](https://github.com/ArpitGandhi1934/yugenox-mcp) | YouTube AI Video Summarizer: Briefs and… | 1.2.0 | Gemini watches public YouTube videos and returns a timestamped brief or answers… |
+| 2026-10-08 04:21:12 | [io.github.trebeljahr/hydroxyl](https://github.com/trebeljahr/hydroxyl.app) | Hydroxyl | 0.1.0 | Local stdio MCP server: publication figures, structure checks and conversions f… |
+| 2026-10-08 04:27:25 | [com.ssemble/mcp-server](https://github.com/ssembleinc/ssemble-mcp-server) | Ssemble AI Clipping | 1.1.4 | Create AI-powered short-form video clips from YouTube videos. Supports webhook… |
+| 2026-10-08 04:31:16 | [io.github.goyohan0611-png/graph-mind](https://github.com/goyohan0611-png/graph-mind) | Graph-MIND | 0.1.0 | Local-first memory for Claude Code, Codex and Claude Desktop, kept verbatim on… |
+| 2026-10-08 04:34:19 | travel.phiphiparadise/booking | Phi Phi Paradise Travel | 1.0.0 | Plan and book southern Thailand trips: island tours, private boats, ferries, ho… |
+| 2026-10-08 04:34:56 | io.github.quentintruong/uncertainty-calculator | Uncertainty Calculator | 1.0.0 | Evaluate mathematical expressions and propagate measurement uncertainty. |
+| 2026-10-08 04:42:45 | com.getmandatorytraining/courses | Get Mandatory Training courses | 1.0.0 | Online CPR, AED & first aid courses, prices and employer-acceptance wording. Re… |
+| 2026-10-08 04:52:15 | [io.github.commit-check/commit-check-mcp](https://github.com/commit-check/commit-check-mcp) | commit-check MCP | 0.1.12 | Commit policy as code for AI agents: check commit messages, branch names and au… |
+| 2026-10-08 04:53:49 | com.queryinbox/queryinbox | QueryInbox | 1.0.0 | Read-only Google Search Console and Google Analytics for AI agents. |
+| 2026-10-08 04:54:27 | [io.github.donniertf-hub/uk-ch-mcp](https://github.com/donniertf-hub/uk-mcp-fleet) | UK Companies House MCP | 1.0.0 | UK Companies House new companies by postcode and KYB checks. £0.49 new_cos_pack… |
+| 2026-10-08 05:04:39 | [io.github.pipeworx-io/airnow](https://github.com/pipeworx-io/mcp-airnow) | Airnow | 0.1.3 | EPA AirNow MCP — official US current + forecast AQI, keyless, from AirNow's |
+| 2026-10-08 05:06:30 | [io.github.pipeworx-io/arquivo-pt](https://github.com/pipeworx-io/mcp-arquivo-pt) | Arquivo Pt | 0.1.0 | Arquivo.pt MCP — full-text search over the Portuguese web archive. |
+| 2026-10-08 05:07:36 | [io.github.pipeworx-io/ca-medical-exclusions](https://github.com/pipeworx-io/mcp-ca-medical-exclusions) | Ca Medical Exclusions | 0.1.0 | California DHCS Medi-Cal Suspended and Ineligible (S&I) Provider List |
+| 2026-10-08 05:08:32 | [io.github.pipeworx-io/faa-aircraft-registry](https://github.com/pipeworx-io/mcp-faa-aircraft-registry) | Faa Aircraft Registry | 0.1.0 | FAA civil aircraft registry — resolve a US tail number (N-number) to its |
+| 2026-10-08 05:09:00 | io.to-go.writeonce/ai-forum | writeonce AI forum | 1.1.0 | Anonymous, vote-moderated forum for AI agents: post, comment, vote; read human… |
+| 2026-10-08 05:09:24 | [io.github.pipeworx-io/korea-tenders](https://github.com/pipeworx-io/mcp-korea-tenders) | Korea Tenders | 0.1.0 | Korea Government Procurement MCP — KONEPS (나라장터 / g2b) open bids and |
+| 2026-10-08 05:10:21 | [io.github.pipeworx-io/ntsb-investigations](https://github.com/pipeworx-io/mcp-ntsb-investigations) | Ntsb Investigations | 0.1.0 | NTSB Investigations — aviation accident/incident investigations by |
+| 2026-10-08 05:11:31 | [io.github.pipeworx-io/oig-corporate-integrity](https://github.com/pipeworx-io/mcp-oig-corporate-integrity) | Oig Corporate Integrity | 0.1.0 | HHS-OIG Corporate Integrity Agreements — does this healthcare company have |
+| 2026-10-08 05:13:00 | [io.github.pipeworx-io/sec-beneficial-ownership](https://github.com/pipeworx-io/mcp-sec-beneficial-ownership) | Sec Beneficial Ownership | 0.1.0 | SEC Schedule 13D / 13G — structured beneficial-ownership filings. |
+| 2026-10-08 05:13:54 | [io.github.pipeworx-io/south-dakota-code](https://github.com/pipeworx-io/mcp-south-dakota-code) | South Dakota Code | 0.1.0 | South Dakota Codified Laws — state statutes by citation and by topic. |
+| 2026-10-08 05:14:50 | [io.github.pipeworx-io/texas-ag-opinions](https://github.com/pipeworx-io/mcp-texas-ag-opinions) | Texas Ag Opinions | 0.1.0 | Texas Attorney General opinions — statute-citation search over recorded |
+| 2026-10-08 05:15:41 | [io.github.pipeworx-io/usgs-mineral-commodities](https://github.com/pipeworx-io/mcp-usgs-mineral-commodities) | Usgs Mineral Commodities | 0.1.0 | USGS Mineral Commodity Summaries (MCS) — U.S. production, imports, |
 
 ## Data source
 
