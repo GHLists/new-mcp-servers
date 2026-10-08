@@ -1,0 +1,38 @@
+created_at,server,title,version,repository,transports,description
+2026-10-08T19:22:29.300651Z,io.beamline/beamline,Beamline,2.0.0,,streamable-http,React UI system for coding agents: 190 components and screens your agent installs in your app.
+2026-10-08T19:22:49.714899Z,io.github.JUNKDOGE-JOE/ae-mcp,,0.11.0,https://github.com/JUNKDOGE-JOE/after-effects-mcp,,A stdio connector for the local ae-mcp After Effects panel; install the AE extension separately.
+2026-10-08T19:24:52.804685Z,io.github.chrischall/concur-mcp,,0.1.0,https://github.com/chrischall/concur-mcp,,"Unofficial SAP Concur MCP for Claude — expense reports, expenses, receipts and trips"
+2026-10-08T19:25:17.746156Z,io.github.kjgueye/netintel-mcp,,1.1.57,https://github.com/kjgueye/netintel-mcp,,"MCP server for NetIntel — DNS, SSL, WHOIS, email security, OSINT via x402 micropayments"
+2026-10-08T19:29:25.824172Z,blog.draftly/seo,Draftly SEO,1.0.0,,streamable-http,"Draftly brand voice, posts and topics plus live keyword and SERP data in Claude, ChatGPT or Cursor."
+2026-10-08T19:33:01.504305Z,gg.arcanecore/arcane-core,Arcane Core,1.0.0,,streamable-http,"Read and edit a tabletop campaign's notes, characters, initiative and skills in Arcane Core."
+2026-10-08T19:35:08.694501Z,io.github.DamianoTobasco/sync-socials-agent,Sync Socials,1.0.1,https://github.com/DamianoTobasco/sync-socials-agent,streamable-http,"Create, schedule and publish social posts, including X on paid Growth, through Sync Socials."
+2026-10-08T19:37:22.055261Z,ai.cocuyo/cocuyo,Cocuyo,1.0.1,,streamable-http,Quote and create AI images and videos with existing Cocuyo credits and explicit confirmation.
+2026-10-08T19:42:37.826672Z,com.croviatrust/crovia,Crovia — verifiable silence (TACET) and Crovia Seal,2.0.1,https://github.com/croviatrust/countersign,streamable-http,"Signed, Bitcoin-anchored observations of AI training-data disclosure; verifies silence proofs, seals"
+2026-10-08T19:44:01.587843Z,org.r3js/r3,R3,2.15.0,,streamable-http,"Build interactive 3D web apps — scenes, physics, audio and music — from composable components."
+2026-10-08T19:47:40.798449Z,com.tradealmanac/mcp-server,TradeAlmanac,2026.10.7,,streamable-http,"TradeAlmanac market data: dividends, screener, sentiment indicators, calendar effects, stock lists."
+2026-10-08T19:50:18.143171Z,io.github.YauhenBichel/when-free,when-free,0.4.0,https://github.com/YauhenBichel/when-free,,Which days and times am I free? Reads your calendar feeds and answers with the slots you can offer.
+2026-10-08T19:51:12.56351Z,io.github.earonesty/boxpdf-html,boxpdf-html,1.7.0,https://github.com/earonesty/boxpdf-html,,"Render HTML to PDF (html_to_pdf) plus boxpdf library docs and templates, for AI agents."
+2026-10-08T19:57:49.23855Z,io.github.nikolausm/imap-mcp-server,,2.1.1,https://github.com/nikolausm/imap-mcp-server,,"IMAP/SMTP MCP server to search, read, organize, send, reply & forward email for AI assistants"
+2026-10-08T19:57:54.29041Z,com.takibibase/takibi,Takibi Base,1.0.0,,streamable-http,Ask your Takibi Base collections anything; get answers with cited passages and a support score.
+2026-10-08T20:00:19.91047Z,io.github.schoenpa/firmograph,Firmograph,0.1.0,,streamable-http,Public-record + domain-graph lookup. Not universal SMB. US-eligible. x402 POST /v1/enrich.
+2026-10-08T20:00:37.178143Z,io.github.Ellesse-M/ask-a-human,Ask a Human,1.0.0,,streamable-http,"Ask a real human for perspective: social contradictions, unclear instructions, second opinions."
+2026-10-08T20:00:52.338393Z,io.github.avinash-borse/west-end-motorsports,,1.0.0,https://github.com/avinash-borse/ucp_middleware,sse,"Shop West End Motorsports - Harley-Davidson parts, accessories & exhaust systems"
+2026-10-08T20:02:05.914106Z,dev.workers.mike-tusa.uaparse/uaparse,UAParse,0.3.2,,streamable-http,"Parse a User-Agent: browser, OS, device, plus bot, search crawler, AI crawler and AI agent flags."
+2026-10-08T20:02:30.288604Z,io.github.NiccoloSalvini/fattureincloud-mcp,Fatture in Cloud,0.3.3,https://github.com/NiccoloSalvini/fattureincloud-mcp,,"Fatture in Cloud: fatture ricorrenti, invii SdI in blocco, incassi, tasse forfettario, cassa"
+2026-10-08T20:03:04.186855Z,io.github.olk/architecture-pattern-mcp,Architecture Pattern MCP,1.1.3,https://github.com/olk/architecture-pattern-mcp,,MCP server that provides architecture design expertise to AI coding agents
+2026-10-08T20:04:03.922564Z,eu.runlocal.gpu0a49b9444d66-s-org/gpu-prices,"GPU Cloud Prices (AWS, Azure, OCI)",0.1.0,,streamable-http,"Paid x402 API, $0.005 USDC on Base: cached GPU $/hr, AWS/Azure/OCI (H100/H200/A100/L4/L40S)"
+2026-10-08T20:04:23.878167Z,com.kalshi-mcp/kalshi,Kalshi MCP,1.7.0,,streamable-http,"Hosted MCP for Kalshi prediction markets: search, odds, order books, settlement rules, and trading."
+2026-10-08T20:05:23.353557Z,io.github.petrovicistefan/mcp-api-guardian,MCP API Guardian,0.1.0,https://github.com/petrovicistefan/mcp-api-guardian,,Local OpenAPI contract and breaking-change checks for AI agents.
+2026-10-08T20:05:24.869147Z,io.github.petrovicistefan/mcp-cost-optimizer,MCP Cost Optimizer,0.1.0,https://github.com/petrovicistefan/mcp-cost-optimizer,,Local-first LLM cost analysis and model-switch savings estimates for AI agents.
+2026-10-08T20:05:25.601011Z,com.measuredsize/fit,Measured Size,1.0.0,,streamable-http,"Bra sizes from measurements, in each brand's own labels, with the confidence behind each."
+2026-10-08T20:05:25.845423Z,io.github.petrovicistefan/mcp-database-doctor,MCP Database Doctor,0.1.0,https://github.com/petrovicistefan/mcp-database-doctor,,"Offline PostgreSQL query, migration and EXPLAIN diagnostics for AI agents."
+2026-10-08T20:05:26.744931Z,io.github.petrovicistefan/mcp-dependency-doctor,MCP Dependency Doctor,0.1.0,https://github.com/petrovicistefan/mcp-dependency-doctor,,Read-only npm dependency diagnostics for AI coding agents.
+2026-10-08T20:05:27.583571Z,io.github.petrovicistefan/mcp-seo-auditor,MCP SEO Auditor,0.1.0,https://github.com/petrovicistefan/mcp-seo-auditor,,Read-only static SEO audits and bounded crawling for AI agents.
+2026-10-08T20:07:06.68869Z,io.github.saulius876-lgtm/tiktok,TikTok Scraper,1.0.0,,streamable-http,"TikTok videos with exact views, likes, comments, shares from profiles, hashtags, search, links."
+2026-10-08T20:09:37.384675Z,fun.aeon/aeon,Aeon,1.0.0,,streamable-http,"Run and manage your Aeon autonomous agent: skills, runs, memory, strategy, packs, settings."
+2026-10-08T20:12:55.890439Z,ai.qureview/review,Qu Review,1.0.0,,streamable-http,"Independent second opinion on any AI answer: inaccuracies, gaps, and a scored report card."
+2026-10-08T20:13:00.210134Z,io.github.enthouan/simplelogin-mcp,simplelogin-mcp,1.0.2,https://github.com/enthouan/simplelogin-mcp,,"Independent MCP server for SimpleLogin alias, mailbox, domain, settings, and account workflows."
+2026-10-08T20:13:55.792525Z,io.github.bluetouff/l0g,l0g.fr Risk Intelligence,1.24.6,https://github.com/bluetouff/l0g,streamable-http; streamable-http,"Read-only macro risk analysis, evidence, signals, and source-backed research from l0g.fr."
+2026-10-08T20:15:42.035589Z,io.github.quickchatai/quickchat,Quickchat AI,1.0.0,,streamable-http,"Build a customer support AI agent from your website, then analyze conversations and improve it."
+2026-10-08T20:17:11.177337Z,re.parcellai/parcellaire,"Parcellaire — cadastre, DVF & DPE",1.2.0,,streamable-http,"French real estate data: cadastre, DVF sales, DPE energy ratings, price estimates, parcel context"
+2026-10-08T20:18:31.237961Z,io.github.radsdevv/vibekast,VibeKast,1.0.0,,streamable-http,Forecast the weekly BTC price as a distribution on VibeKast and trade it on Base Sepolia.
