@@ -1,0 +1,14 @@
+created_at,server,title,version,repository,transports,description
+2026-10-08T02:24:44.753142Z,com.0xpi.scholar/study-tools,Scholarize — Study Plan & Thesis Tools,1.0.1,,streamable-http,Free AI study tools: generate a personalized study plan or essay thesis statements.
+2026-10-08T02:29:25.234098Z,io.github.AdsTurbo/adsturbo,AdsTurbo,1.0.0,,streamable-http,"AI ad creatives: clone reference ads, AI spokesperson videos, video generation, translation, images."
+2026-10-08T02:30:06.032594Z,ai.aquex/stage1,,0.5.1,,,"Stage1 Inspector — local website capture, evidence views and design comparison"
+2026-10-08T02:34:40.400372Z,com.kinjay/mcp,Kinjay health records,0.1.0,,streamable-http,Household health records with source attribution. Read and add records with OAuth approval.
+2026-10-08T02:35:22.996192Z,app.recordist/gateway,,0.1.5,https://github.com/recordist-app/gateway,,Search and read meetings recorded by Recordist on your own computer. Loopback only.
+2026-10-08T02:36:24.951897Z,com.assesslane/assesslane,AssessLane,0.1.0,,streamable-http,"Create, review, assign and track team training assessments from your AI client."
+2026-10-08T02:36:38.738356Z,com.production-engine/production-engine,Production Engine,1.0.0,,streamable-http,"Production management for commercial film and photo companies: jobs, budgets, crew and invoices."
+2026-10-08T03:01:05.927857Z,com.justbacked/jobs,JustBacked Startup Jobs,1.0.0,,streamable-http,Search and track open roles at venture-backed startups that raised in the last six months.
+2026-10-08T03:04:08.065028Z,io.github.indexagentmcp/indexagentmcp,IndexAgent MCP,1.0.0,,streamable-http,Diretório de dados de empresas brasileiras para agentes de IA.
+2026-10-08T03:08:48.380617Z,io.github.bboinzg-dev/partsplan,PartsPlan,0.15.173,,streamable-http,"Manufacturer datasheet pages, tables, graphs and drawings for AI circuit design, cited by page."
+2026-10-08T03:16:58.570324Z,io.github.RbBtSn0w/awesome-copilot-mcp,Awesome Copilot MCP Server,0.8.7,https://github.com/RbBtSn0w/awesome-copilot-mcp,,Model Context Protocol server for awesome-copilot agents and collections
+2026-10-08T03:17:33.018835Z,app.hotelplease/hotels,Hotel Please,1.0.0,,streamable-http,"The hotels worth going out of your way for: researched profiles, medals, Michelin Keys."
+2026-10-08T03:20:18.599328Z,com.realry/mcp,Realry — fashion price comparison,1.0.0,,streamable-http,"Search fashion across 1,000+ retailers; compare prices, sizes and stock by country."

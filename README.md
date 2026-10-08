@@ -9,24 +9,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 02:22 UTC
+## Latest list — 2026-10-08 03:20 UTC
 
-New MCP servers published between 2026-10-08 01:20 UTC and 2026-10-08 02:22 UTC.
+New MCP servers published between 2026-10-08 02:22 UTC and 2026-10-08 03:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-08T02-22-04-773378Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-08T03-20-40-239112Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-08 01:34:39 | [io.github.xhighhongo41/patent-checker](https://github.com/xhighhongo41/patent-checker) |  | 1.4.1 | Prior-art exploration for software projects; finds related patents, never judge… |
-| 2026-10-08 01:37:02 | app.maxworth/maxworth-public | MaxWorth Credit Card Benefits | 1.0.0 | US credit card data: annual fees, statement credits, earn rates, offers and cas… |
-| 2026-10-08 01:37:09 | app.maxworth/maxworth | MaxWorth (your cards) | 1.0.0 | Read-only access to the cards, statement credits and offers you track in MaxWor… |
-| 2026-10-08 01:37:42 | xyz.nlyra/risk-layer | NLYRA — the risk layer of Robinhood Cha… | 1.1.0 | Robinhood Chain risk layer: token Risk Level, contract scans, wallet x-rays, no… |
-| 2026-10-08 01:39:20 | io.github.VectorMethods/videovector-mcp-server | VideoVector MCP Server | 2.1.1 | Model Context Protocol server for the VectorMethods VideoVector media intellige… |
-| 2026-10-08 01:41:47 | [io.github.rankcontrol/rankcontrol](https://github.com/rankcontrol/rankcontrol) | RankControl | 0.17.0 | Plan, write and publish SEO articles on your own site, and track your Google an… |
-| 2026-10-08 01:46:36 | ai.clevra/clevra | Clevra | 1.0.0 | Field service management for trades: clients, jobs, quotes, invoices, schedule… |
-| 2026-10-08 01:47:48 | com.oakferry/agents | Oakferry Agents | 0.1.0 | Search and compare Oakferry's apps with dated, sourced facts: platforms, prices… |
-| 2026-10-08 01:54:07 | [io.github.AgentTax/agenttax-mcp](https://github.com/AgentTax/agenttax-mcp) | AgentTax | 1.1.0 | US sales/use tax, nexus thresholds, capital gains and 1099-DA tools for AI agen… |
-| 2026-10-08 02:03:29 | [ai.physea/liminality](https://github.com/jaybro2042-alt/liminality-mcp) | Liminal | 1.0.6 | Augment your work with Liminal. Stop repeating yourself and build on what’s alr… |
+| 2026-10-08 02:24:44 | com.0xpi.scholar/study-tools | Scholarize — Study Plan & Thesis Tools | 1.0.1 | Free AI study tools: generate a personalized study plan or essay thesis stateme… |
+| 2026-10-08 02:29:25 | io.github.AdsTurbo/adsturbo | AdsTurbo | 1.0.0 | AI ad creatives: clone reference ads, AI spokesperson videos, video generation,… |
+| 2026-10-08 02:30:06 | ai.aquex/stage1 |  | 0.5.1 | Stage1 Inspector — local website capture, evidence views and design comparison |
+| 2026-10-08 02:34:40 | com.kinjay/mcp | Kinjay health records | 0.1.0 | Household health records with source attribution. Read and add records with OAu… |
+| 2026-10-08 02:35:22 | [app.recordist/gateway](https://github.com/recordist-app/gateway) |  | 0.1.5 | Search and read meetings recorded by Recordist on your own computer. Loopback o… |
+| 2026-10-08 02:36:24 | com.assesslane/assesslane | AssessLane | 0.1.0 | Create, review, assign and track team training assessments from your AI client. |
+| 2026-10-08 02:36:38 | com.production-engine/production-engine | Production Engine | 1.0.0 | Production management for commercial film and photo companies: jobs, budgets, c… |
+| 2026-10-08 03:01:05 | com.justbacked/jobs | JustBacked Startup Jobs | 1.0.0 | Search and track open roles at venture-backed startups that raised in the last… |
+| 2026-10-08 03:04:08 | io.github.indexagentmcp/indexagentmcp | IndexAgent MCP | 1.0.0 | Diretório de dados de empresas brasileiras para agentes de IA. |
+| 2026-10-08 03:08:48 | io.github.bboinzg-dev/partsplan | PartsPlan | 0.15.173 | Manufacturer datasheet pages, tables, graphs and drawings for AI circuit design… |
+| 2026-10-08 03:16:58 | [io.github.RbBtSn0w/awesome-copilot-mcp](https://github.com/RbBtSn0w/awesome-copilot-mcp) | Awesome Copilot MCP Server | 0.8.7 | Model Context Protocol server for awesome-copilot agents and collections |
+| 2026-10-08 03:17:33 | app.hotelplease/hotels | Hotel Please | 1.0.0 | The hotels worth going out of your way for: researched profiles, medals, Michel… |
+| 2026-10-08 03:20:18 | com.realry/mcp | Realry — fashion price comparison | 1.0.0 | Search fashion across 1,000+ retailers; compare prices, sizes and stock by coun… |
 
 ## Data source
 
