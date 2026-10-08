@@ -9,43 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 18:23 UTC
+## Latest list — 2026-10-08 19:20 UTC
 
-New MCP servers published between 2026-10-08 17:19 UTC and 2026-10-08 18:23 UTC.
+New MCP servers published between 2026-10-08 18:23 UTC and 2026-10-08 19:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-08T18-23-03-281643Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-08T19-20-58-030939Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-08 17:20:49 | com.trycloudflare.favor-skilled-ben-plugin/prooffetch | ProofFetch Lite (proof_fetch, read_clea… | 1.0.0 | SSRF-safe URL proof receipts, clean markdown, and SHA-256 change watch for agen… |
-| 2026-10-08 17:24:40 | [io.github.patchloom/patchloom](https://github.com/patchloom/patchloom) | Patchloom | 0.37.1 | Agent-safe structured edits: JSON/YAML/TOML/md/AST, dry-run, batch/tx. Not a fi… |
-| 2026-10-08 17:25:29 | [io.github.dodopayments/dodo-knowledge](https://github.com/dodopayments/dodo-agent-plugin) | Dodo Payments Docs | 1.0.0 | Semantic search over the current Dodo Payments documentation. No authentication… |
-| 2026-10-08 17:25:55 | [io.github.juliusgerman/entyrix-mcp](https://github.com/juliusgerman/entyrix-mcp) |  | 0.2.1 | KYB data from 23 European business registries — company briefs, financials, own… |
-| 2026-10-08 17:26:38 | [io.github.dodopayments/dodopayments-api](https://github.com/dodopayments/dodo-agent-plugin) | Dodo Payments | 1.0.0 | Dodo Payments API: payments, subscriptions, customers, products, refunds, licen… |
-| 2026-10-08 17:27:49 | com.pogobud/pogobud | PoGoBud | 1.0.0 | Pokémon GO raid and Max Battle counters, trainers needed, events, Pokémon and R… |
-| 2026-10-08 17:35:16 | [ai.nyayassist/nyayassist](https://github.com/NyayAssist/nyayassist-mcp) | NyayAssist | 1.0.0 | Indian legal research, judgments and Acts, drafting, translation, matters and d… |
-| 2026-10-08 17:37:52 | [com.covdbg/covdbg](https://github.com/liasoft/covdbg-mcp) | covdbg | 1.3.0 | C++ code coverage on Windows for AI agents. Find uncovered code from PDBs, no r… |
-| 2026-10-08 17:43:45 | ai.autron/autron | Autron | 2.0.0 | Read and manage the Amazon Ads accounts connected to Autron. |
-| 2026-10-08 17:45:14 | ai.sydera/artemis |  | 1.0.0 | Les chiffres de votre officine (ventes, stock, marges) dans votre IA, en lectur… |
-| 2026-10-08 17:47:58 | [io.github.fxams/crewpay-mcp](https://github.com/fxams/crew) | CREW / CrewPay | 1.1.2 | Solana Pump.fun launches with KOL Autohire and CREW fee-shares (25% buyback). |
-| 2026-10-08 17:48:50 | [io.github.Marginpad/sdk](https://github.com/marginpad/sdk) |  | 2.9.1 | Free crypto-futures paper trading and live market data for AI agents. 28 tools;… |
-| 2026-10-08 17:51:33 | [dev.adsgpt/adsgpt](https://github.com/wortise/agent-plugins) | AdsGPT | 1.0.0 | Create, review and optimize your Google Ads campaigns, approving every change y… |
-| 2026-10-08 17:53:31 | [io.github.bnovarini/cnpj-mcp](https://github.com/bnovarini/cnpj-mcp) | Brazil CNPJ company registry | 0.1.0 | Brazil's open CNPJ registry: filter and count companies by sector, place, size,… |
-| 2026-10-08 17:53:32 | com.astranexo.wabot/mcp | WaBot | 1.0.0 | Your own WhatsApp in Claude and ChatGPT: read chats, draft replies, send messag… |
-| 2026-10-08 17:53:36 | [io.github.grtwo-jcansler/gryz](https://github.com/grtwo-jcansler/gryz-cursor-plugin) | Gryz | 1.13.0 | Shared memory and workspace for your AI agent team, plus doc publishing. Free w… |
-| 2026-10-08 17:54:03 | [io.github.croviatrust/causari](https://github.com/croviatrust/causari) | Causari | 0.4.0 | Records the prompt, model and files an agent declared for a line. It does not p… |
-| 2026-10-08 17:55:28 | [io.github.dravensoft-dev/arena](https://github.com/dravensoft-dev/arena) |  | 12.0.0 | Arena by Dravensoft over MCP: the router, the references and every component do… |
-| 2026-10-08 17:56:26 | dev.workers.mike-tusa.dnsguard/dnsguard | DnsGuard | 0.7.1 | Check a domain's email authentication: SPF, DKIM, DMARC, BIMI, MX, MTA-STS, TLS… |
-| 2026-10-08 17:58:14 | com.iberaexperience/ibera-experience | Iberá Experience | 1.0.0 | Iberá Wetlands (Argentina) travel guide: gateways, routes, 500+ local providers… |
-| 2026-10-08 17:59:29 | com.run402.chiefofstaff-solana/token-safety | chiefofstaff Hyperliquid perp data + to… | 0.2.0 | Hyperliquid perp data (funding, whale liq levels, positioning, brief) + token s… |
-| 2026-10-08 18:00:47 | [io.github.bck-stack/sitecheck](https://github.com/bck-stack/sitecheck-x402) | SiteCheck | 1.2.0 | 29 pay-per-call agent tools: web reader, PDF, tech stack, email, domain, Solana… |
-| 2026-10-08 18:06:05 | [tr.com.metasearch/metasearch-mcp](https://github.com/metasearchcomtr/metasearch-mcp) | metasearch MCP | 1.1.0 | Hotel and travel feed validation, normalization and requirement comparison. |
-| 2026-10-08 18:13:21 | [io.github.zhugejun/chartone](https://github.com/zhugejun/chartone-mcp) |  | 0.1.7 | Render themed charts as hosted URLs. Embed in markdown, emails, and Slack. Host… |
-| 2026-10-08 18:14:42 | [io.github.p1xelapp/solana-nft-mcp](https://github.com/p1xelapp/solana-nft-mcp) |  | 1.18.0 | Read-only Solana NFT data for AI: ownership history, custody rules, marketplace… |
-| 2026-10-08 18:15:51 | com.liqwall/market-data | Liqwall market data | 1.0.0 | Crypto market data: order-book walls of 14 exchanges, liquidations, Hyperliquid… |
-| 2026-10-08 18:19:02 | [co.rocketreach/mcp](https://github.com/rocketreach/rocketreach-mcp-plugin) | RocketReach | 0.0.100 | B2B contact data: search 700M+ professionals, get verified emails and phones, e… |
-| 2026-10-08 18:19:53 | [io.github.ofershap/recipe-library](https://github.com/ofershap/agent-success-hub) | Recipe library | 1.0.0 | Read-only Hebrew AI-agent recipe library with search and full-text retrieval. |
-| 2026-10-08 18:20:03 | [io.github.linboxin/boson-video](https://github.com/linboxin/Boson-Video) | Boson Video | 0.2.0 | Let your AI read any video: timed transcript, full-resolution frames, screen te… |
+| 2026-10-08 18:24:32 | [io.github.sequico/server-noonien](https://github.com/sequico/server-noonien) | server-noonien | 1.0.1 | Shared, serverless, conflict-free knowledge-graph memory for AI agents |
+| 2026-10-08 18:31:56 | [io.github.OmniAISystems/govomniai-machine-services](https://github.com/OmniAISystems/govomniai-web) | GovOmniAI Machine Services | 1.0.1 | Find missing evidence before an agent spends money with GovOmniAI's $1 assuranc… |
+| 2026-10-08 18:35:35 | [io.github.ANTONDrakon/duebuddy-invoices](https://github.com/ANTONDrakon/duebuddy-mcp) |  | 1.0.0 | Read incoming supplier invoices through a remote MCP server and get structured… |
+| 2026-10-08 18:36:26 | [io.github.unmateria/msaccess-database](https://github.com/unmateria/MCP-Access) | Microsoft Access Database | 0.7.64 | Read and edit Microsoft Access databases (.accdb/.mdb) - forms, VBA, tables, qu… |
+| 2026-10-08 18:38:31 | [com.dataville/dataville-mcp](https://github.com/datavilleorg/dataville-mcp) | Dataville | 0.1.5 | Search Wikipedia, arXiv, SEC EDGAR, US Census, USDA, PyPI and more through one… |
+| 2026-10-08 18:43:27 | [io.github.mapbox/mcp-server](https://github.com/mapbox/mcp-server) |  | 0.15.0 | Geospatial intelligence with Mapbox APIs like geocoding, POI search, directions… |
+| 2026-10-08 18:43:38 | [io.github.gutomezencio/front-proxy](https://github.com/gutomezencio/front-proxy) | front-proxy | 0.8.2 | Map local domains (and HTTPS) to apps on local ports, OS-wide, via /etc/hosts a… |
+| 2026-10-08 18:47:33 | eu.runlocal.wise-shrimp/gpu-prices | GPU Cloud Prices (AWS, Azure, OCI) | 0.1.0 | H100/H200/A100 on-demand AWS/Azure/OCI + Azure Spot; L4 AWS, L40S AWS/OCI. Cach… |
+| 2026-10-08 18:47:43 | [io.github.ChanghuLiu/trust-live](https://github.com/ChanghuLiu/mcp-selection-lab) | Trust Live | 0.1.0 | Evidence-linked MCP selection and non-executing Safe-Call review; surfaces unkn… |
+| 2026-10-08 18:49:36 | io.github.saulius876-lgtm/google-maps | Google Maps Scraper | 1.0.0 | Google Maps places and leads: phone, website, address, rating, reviews, hours,… |
+| 2026-10-08 18:49:43 | [io.github.screenpipe/screenpipe-mcp](https://github.com/screenpipe/screenpipe) | screenpipe | 0.20.3 | Search your local screen recordings, audio transcripts, and computer activity f… |
+| 2026-10-08 18:49:59 | com.jotbus/jotbus | Jotbus | 0.10.0 | End-to-end encrypted scratchpad for coding agents across machines, vendors and… |
+| 2026-10-08 18:52:48 | [io.github.fluxmailai/fluxmail](https://github.com/fluxmailai/fluxmail) | Fluxmail | 0.13.0 | Read, search, draft, send, and organize email through Gmail, Outlook, and IMAP/… |
+| 2026-10-08 19:02:32 | [io.github.m-akcan/zektor](https://github.com/m-akcan/zektor-cli) | Zektor | 1.7.1 | Managed Postgres and Valkey hosted in Germany. Agents can create a trial databa… |
+| 2026-10-08 19:05:40 | [io.github.psyb0t/stealthy-auto-browse](https://github.com/psyb0t/docker-stealthy-auto-browse) | Stealthy Auto Browse | 2.7.1 | Self-hosted MCP server for stealth browser automation with human-like OS-level… |
+| 2026-10-08 19:06:40 | com.allmymeetings/calendar | AllMyMeetings | 1.0.0 | Sync Google, Outlook, and iCloud calendars and manage events, availability, and… |
+| 2026-10-08 19:11:56 | [io.github.googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) | MCP Toolbox for Databases | 1.14.0 | MCP Toolbox for Databases enables your agent to connect to your database. |
+| 2026-10-08 19:13:46 | [io.github.dokku-MCP/dokku-mcp](https://github.com/dokku-MCP/dokku-mcp) | Dokku MCP Server | 0.5.0 | MCP server for Dokku: let LLMs create, deploy, scale, configure and inspect Dok… |
+| 2026-10-08 19:14:23 | blue.idun/idun-blue | Idun Blue | 1.0.0 | Build courses, pages, offers and email in an Idun Blue creator workspace. |
+| 2026-10-08 19:15:14 | [io.github.truefixr/atlascast-truefixr](https://github.com/truefixr/atlascast-truefixr) | TrueFixR Storm Data API | 1.0.1 | Storm history by address since 2003, recent storm leads, model-based weather an… |
 
 ## Data source
 
