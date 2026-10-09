@@ -9,61 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 14:21 UTC
+## Latest list — 2026-10-09 15:18 UTC
 
-New MCP servers published between 2026-10-09 13:20 UTC and 2026-10-09 14:21 UTC.
+New MCP servers published between 2026-10-09 14:21 UTC and 2026-10-09 15:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-09T14-21-08-944512Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-09T15-18-54-481605Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-09 13:23:26 | [io.github.mostmojo/swipefast](https://github.com/mostmojo/swipefast-cli) | Swipefast | 1.6.0 | The checkout your AI builds: checkouts, order bumps and upsells, with live chan… |
-| 2026-10-09 13:24:34 | [io.usefulapi/clockify](https://github.com/m190/usefulapi-mcp) | Clockify MCP by usefulapi | 1.0.0 | Track time in Clockify: time entries, projects, clients, tags and reports; star… |
-| 2026-10-09 13:24:36 | [io.usefulapi/gelato](https://github.com/m190/usefulapi-mcp) | Gelato MCP by usefulapi | 1.0.0 | Browse the Gelato catalog, prices, orders and shipping; quote, create draft ord… |
-| 2026-10-09 13:24:38 | [io.usefulapi/fathom-analytics](https://github.com/m190/usefulapi-mcp) | Fathom Analytics MCP by usefulapi | 1.0.0 | Query Fathom Analytics sites, stats, current visitors and events, and manage si… |
-| 2026-10-09 13:24:40 | [io.usefulapi/paperform](https://github.com/m190/usefulapi-mcp) | Paperform MCP by usefulapi | 1.0.0 | Read Paperform forms, submissions, products and coupons, Papersign documents, a… |
-| 2026-10-09 13:24:41 | [io.usefulapi/uservoice](https://github.com/m190/usefulapi-mcp) | UserVoice MCP by usefulapi | 1.0.0 | Search UserVoice ideas, feedback and users; post ideas, comments, notes and sta… |
-| 2026-10-09 13:24:45 | [io.usefulapi/breathe-hr](https://github.com/m190/usefulapi-mcp) | Breathe HR MCP by usefulapi | 1.0.0 | Read Breathe HR employees, absences, sickness and leave; create and review leav… |
-| 2026-10-09 13:25:27 | [io.github.Schubeler-Consulting/knowmind](https://github.com/Schubeler-Consulting/knowmind) | knowmind | 0.3.8 | AI agent memory & knowledge graph, hosted in Germany (GDPR). Recall, relations,… |
-| 2026-10-09 13:31:51 | [io.github.HudsonBales/grail](https://github.com/HudsonBales/Grail) |  | 0.1.0 | Real eBay sold comps for any product keyword — median, range, up to 240 rows pe… |
-| 2026-10-09 13:33:01 | [io.github.PanStories/vies-vat-validator-mcp](https://github.com/PanStories/vies-vat-validator-mcp) | VIES VAT Validator MCP | 1.0.1 | Validate EU VAT numbers against the official VIES service with a local pre-chec… |
-| 2026-10-09 13:34:12 | [io.github.PanStories/free-and-cheap-tokens](https://github.com/PanStories/free-and-cheap-tokens) | Free and Cheap Tokens (FaCT) | 1.3.0 | Human-verified daily catalog of free and cheap AI model API credits and token p… |
-| 2026-10-09 13:34:17 | [io.github.PanStories/mcp-stock-analyst](https://github.com/PanStories/mcp-stock-analyst) | MCP Stock Analyst | 0.3.1 | Real-time quotes, fuzzy search and K-line history across 13 global stock market… |
-| 2026-10-09 13:34:22 | io.github.PanStories/china-dividend-value-screener | China Dividend Value Screener MCP | 1.1.0 | Screen China A-shares for dividend yield and value quality on live Eastmoney da… |
-| 2026-10-09 13:34:26 | [io.github.PanStories/email-verifier-mcp](https://github.com/PanStories/Email-Verifier-MCP) | Email Verifier MCP | 1.0.0 | Verify email deliverability with RFC format, MX, SMTP and disposable-domain che… |
-| 2026-10-09 13:34:32 | [io.github.PanStories/ethics-for-ai-mcp](https://github.com/PanStories/Ethics-for-AI-MCP) | Ethics for AI MCP | 1.0.1 | A deterministic daily ethics feed for AI agents, from a four-module curriculum. |
-| 2026-10-09 13:34:35 | [io.github.PanStories/bountyradar-mcp](https://github.com/PanStories/bountyradar-mcp) | BountyRadar MCP | 1.0.1 | Ranked feed of AI-agent-solvable bounties, scored for solvability and competiti… |
-| 2026-10-09 13:38:12 | sh.fettle/mcp | Fettle | 0.2.0 | Uptime monitoring for developers — monitors, incidents, heartbeats and status p… |
-| 2026-10-09 13:38:27 | [io.github.mertkayacs/reevesagents](https://github.com/mertkayacs/reevesagents) | reevesagents | 1.8.0 | Spawn, read and steer AI coding CLIs (Claude Code, Codex, Kimi and more) in loc… |
-| 2026-10-09 13:42:34 | [io.github.StockSharp/desktop-driver](https://github.com/StockSharp/DesktopDriver.Mcp) | StockSharp DesktopDriver | 1.0.1 | Inspect and drive Avalonia, WPF and MAUI desktop applications through local MCP. |
-| 2026-10-09 13:44:31 | io.github.kr-data-api/korea-company-headcount | Korea Company Headcount (National Pensi… | 0.1.0 | Monthly headcount, hires and leavers of South Korean companies from National Pe… |
-| 2026-10-09 13:46:19 | [io.github.mozilla/firefox-devtools-mcp](https://github.com/mozilla/firefox-devtools-mcp) | Firefox DevTools MCP | 0.10.5 | Control and debug Firefox: navigate, fill forms, inspect network and console, p… |
-| 2026-10-09 13:47:44 | [io.github.renezander030/graphiti-local](https://github.com/renezander030/graphiti-local) | Graphiti Local | 0.7.0 | Local-first temporal knowledge graph with six read-only MCP tools and human-rev… |
-| 2026-10-09 13:47:55 | [io.github.StockSharp/odysseus](https://github.com/StockSharp/Odysseus) | StockSharp Odysseus | 1.0.1 | Generate, compile, validate and backtest StockSharp trading strategies through… |
-| 2026-10-09 13:48:36 | com.santosautomation/site-audit |  | 2.17.0 | Website intelligence audits for AI agents: free preview plus x402-paid Agent Re… |
-| 2026-10-09 13:50:46 | [io.github.pofky/asc-mcp](https://github.com/pofky/asc-mcp) |  | 1.9.12 | 41 tools to ship an App Store release: metadata, screenshots, builds, TestFligh… |
-| 2026-10-09 13:51:01 | [io.github.Mhemd139/samsung-notes](https://github.com/Mhemd139/Samsung_Notes) | Samsung Notes | 0.1.4 | Read Samsung Notes: typed text, tables, handwritten pages, photos and PDFs. Nev… |
-| 2026-10-09 13:51:25 | [coach.marian/eng-leadership-toolkit](https://github.com/marian-kamenistak/ai-engineering-leader-toolkit) |  | 1.7.1 | Engineering leadership benchmarks, 1:1 playbooks, developer value calculator. 3… |
-| 2026-10-09 13:53:23 | [io.github.munhq/sealkeep](https://github.com/munhq/sealkeep) | sealkeep | 0.3.0 | Let AI agents use secrets without seeing them: inject into a command, redact th… |
-| 2026-10-09 13:55:31 | [global.rootz/archive](https://github.com/rootz-global/rootz-archive) | Rootz Archive | 0.4.3 | Search your local Claude Code archive. For continuous capture, use the Rootz Ar… |
-| 2026-10-09 13:55:34 | [io.github.Tori-TIC/tic-guides](https://github.com/Tori-TIC/tic-guides-mcp) | Guides by TIC | 0.1.0 | Sourced guides to earning online, platform rules, and a check for AI-income off… |
-| 2026-10-09 13:55:54 | io.github.kurious8282/moneybug-shopify-billing-integrity | MoneyBug Shopify Billing Integrity | 1.0.0 | Shopify usage-billing preflight and cycle reconciliation for retries, drift, an… |
-| 2026-10-09 13:57:05 | [io.github.mbk-dev/okama-mcp](https://github.com/mbk-dev/okama-mcp) |  | 2.0.0 | Portfolio analytics via the okama library: backtests, Monte Carlo, efficient fr… |
-| 2026-10-09 13:58:58 | io.agentpixel/agentpixel | AgentPixel | 0.1.0 | Identify website visitors: free signup, install a pixel, pull resolved contacts. |
-| 2026-10-09 14:02:29 | com.mafactureok/mafactureok | MaFactureOK | 1.1.0 | Vérifie une facture électronique (Factur-X, UBL, CII), un SIREN/SIRET, une TVA… |
-| 2026-10-09 14:04:00 | com.degenhedge/kalshi-btc | DegenHedge: Kalshi Bitcoin 15-minute da… | 1.0.0 | Read-only Kalshi BTC 15-minute data: live window, graded alert record, fee calc… |
-| 2026-10-09 14:05:44 | com.asacondor/asa-condor | ASA Condor | 1.0.0 | Run Apple Search Ads from Claude: performance, recommendations, keywords, budge… |
-| 2026-10-09 14:08:43 | [io.github.hoornet/agentdocs-mcp](https://github.com/hoornet/agentdocs-mcp) |  | 0.10.4 | AgentDocs (agentdocs.eu) MCP: read, search, write, comment, share & attach imag… |
-| 2026-10-09 14:08:50 | website.adace/ads | AdAce Ads | 1.0.0 | Google Ads and Meta Ads from Claude or ChatGPT: live reports, wasted spend, cha… |
-| 2026-10-09 14:09:21 | io.github.kurious8282/moneybug-shopify-monetization-intelligence | MoneyBug Shopify Monetization Intellige… | 1.0.0 | Shopify app pricing and monetization profiles. $0.03 per successful profile via… |
-| 2026-10-09 14:09:55 | [finance.aethelgard/ledger](https://github.com/aethelgardfinance/aethelgard-ledger) | Aethelgard Ledger | 0.1.0 | Double-entry, multi-entity, tamper-evident ledger for AI agents. Unbalanced jou… |
-| 2026-10-09 14:11:10 | it.to.farmaciasantacroce/prenotazioni | Farmacia Santa Croce | 1.0.0 | Servizi, giornate speciali e prenotazioni della Farmacia Santa Croce. |
-| 2026-10-09 14:14:09 | [io.github.clipia-ai/clipia-mcp](https://github.com/clipia-ai/clipia-mcp) | Clipia | 1.0.10 | Generate AI images, video, speech, music and presentations from Claude, ChatGPT… |
-| 2026-10-09 14:14:25 | com.replyhand/mcp | Replyhand | 1.0.0 | Run your Replyhand inbox, contacts, AI agent and reports from your own AI assis… |
-| 2026-10-09 14:14:41 | ai.cluvi/mcp | Cluvi AI | 1.0.0 | Run your Cluvi AI restaurant: guest chats, reservations, menu and AI receptioni… |
-| 2026-10-09 14:15:30 | com.nowgetitdone/getitdone | GetItDone | 1.0.1 | AI-native task management: list, create, update and archive tasks with rich con… |
-| 2026-10-09 14:18:46 | [io.github.MihaiBuilds/memory-vault](https://github.com/MihaiBuilds/memory-vault) | Memory Vault | 1.6.1 | Local-first AI memory layer with hybrid search. Postgres + pgvector. Self-hoste… |
-| 2026-10-09 14:20:46 | [io.github.Hookwarden/mcp](https://github.com/Hookwarden/hookwarden) | Hookwarden — Webhook Integrity | 0.9.5 | Webhook signature-verification audit. Stripe, GitHub, Shopify, Twilio +23. Loca… |
+| 2026-10-09 14:22:21 | [io.github.Opita-Code/dark-memory-mcp](https://github.com/Opita-Code/dark-memory-mcp) | dark-memory-mcp | 4.0.0-alpha.31 | Persistent memory + vibe-loop engine for AI agents. Single Go binary, SQLite-ba… |
+| 2026-10-09 14:23:47 | com.ufffo/ufffo | UFFFO | 1.0.0 | Pit your LLM against rogue AI and rival models, or try to beat it yourself in h… |
+| 2026-10-09 14:25:11 | estate.stream/mcp | Stream Estate | 2.0.1 | French real estate listings, market data and property alerts (Stream Estate API… |
+| 2026-10-09 14:27:14 | [io.github.ignsm/formhaus](https://github.com/ignsm/formhaus) | Formhaus | 0.1.2 | Validate Formhaus form definitions and simulate multi-step paths against the re… |
+| 2026-10-09 14:28:14 | [io.github.boardroomgen-ai-ae/boro-ai](https://github.com/boardroomgen-ai-ae/boro-ai) | Boardroom Revenue Control | 1.0.0 | Read-only sales CRM for AI clients: leads, pipeline, AI-agent chats, calls, ad… |
+| 2026-10-09 14:29:21 | ai.hellou/hellouone | HellouOne | 1.0.0 | Customer conversations, contacts, inboxes, agents, automations and reports of a… |
+| 2026-10-09 14:30:15 | com.bidprowl/bidprowl | BidProwl | 1.0.0 | US government surplus auctions: search live lots by ZIP radius, sold prices and… |
+| 2026-10-09 14:31:23 | io.github.gimarcus/signal | Signal by StackEnhance | 1.2.0 | How often 750+ e-commerce brands send marketing emails: counts, send dates, rec… |
+| 2026-10-09 14:34:04 | [pt.flatin/property-taxes](https://gitlab.com/flatin-pt-group/mcp) | flatin.pt — Portuguese property taxes | 1.0.4 | Portuguese property taxes: IMT on purchase and IMI rates for all 308 municipali… |
+| 2026-10-09 14:39:33 | com.hamptonsverified/hamptons-verified | Hamptons Verified | 6.539.0 | Verified Hamptons & North Fork data: open now, events, beaches, permits, closur… |
+| 2026-10-09 14:40:22 | [app.ymove/exercise-api](https://github.com/ymove-app/exercise-api-mcp) | Your Move Exercise Video API | 1.1.3 | 1,413+ HD exercise videos with muscles and instructions, plus workout and progr… |
+| 2026-10-09 14:42:27 | [io.github.OlivierLAVAUD/mcp-immo](https://github.com/OlivierLAVAUD/mcp-immo-olv) |  | 1.1.0 | French real-estate intelligence from official open data: DVF, valuations, rents… |
+| 2026-10-09 14:44:11 | [com.graftedsoftware/stash](https://github.com/Grafted-Software/stash-plugin) | Stash | 0.1.0 | Free to connect: search, read, save and summarize your Stash notes from any age… |
+| 2026-10-09 14:45:48 | io.flareapp/flare | Flare | 1.0.0 | Error tracking for Laravel and PHP apps. Let your agent fetch errors, stack tra… |
+| 2026-10-09 14:50:17 | app.mailcoach/mailcoach | Mailcoach | 1.0.0 | Read Mailcoach lists, campaigns and templates; optionally draft campaigns and t… |
+| 2026-10-09 14:50:36 | app.there-there/there-there | There There | 1.0.0 | AI helpdesk by Spatie. Read, triage and reply to tickets, and edit your knowled… |
+| 2026-10-09 14:51:48 | [com.warmthengine/observatory](https://github.com/warmthengine/warmth-engine-observatory) | Warmth Engine Observatory | 1.25.5 | Coordination Intelligence: AI infrastructure coordination dynamics across geopo… |
+| 2026-10-09 14:53:00 | io.github.nkiyatkin/find-local-instructor | Find Local Instructor | 0.2.0 | Find local instructors and tutors for sports, test prep, wellness, IT, and more. |
+| 2026-10-09 14:57:02 | [io.github.anpekesen/namegender](https://github.com/anpekesen/namegender-mcp) | NameGender | 0.1.3 | Gender from names, emails and usernames, with probability, sample size and sour… |
+| 2026-10-09 15:01:07 | [io.github.dogrucanemek-alt/conarium](https://github.com/dogrucanemek-alt/conarium) | Conarium | 0.2.52 | Governed database access for AI assistants: masking, signed receipts, coverage… |
+| 2026-10-09 15:06:51 | com.jevstation/mcp | JevStation | 1.0.0 | Typed-question decisions from Jev: classify, moderate, route models and guard t… |
+| 2026-10-09 15:07:23 | dev.tcgdata/tcgdata | tcgdata.dev — European TCG Prices | 1.1.0 | European TCG card data, EUR guide prices and available daily history across six… |
+| 2026-10-09 15:08:14 | dev.tokenusage/codex | Codex Reset Tracker | 1.0.0 | Codex reset tracker: usage-limit reset announcements from @thsottiaux on X. Rea… |
+| 2026-10-09 15:09:49 | ai.eshmere/tenda | Tenda | 0.1.0 | Public tenders and contract awards in the UK, US, Canada and EU, and help prepa… |
+| 2026-10-09 15:12:37 | com.australiawidefirstaid/courses | Australia Wide First Aid courses | 1.0.0 | Find first aid and CPR courses, venues and sessions across Australia. Read-only… |
+| 2026-10-09 15:13:02 | com.australiawidefirstaid/docs | Australia Wide First Aid docs | 1.0.0 | Search and read Australia Wide First Aid's developer docs, policies and first a… |
+| 2026-10-09 15:14:15 | io.github.code0xff/1gateway | 1gateway | 0.1.0 | x402 pay-per-call API gateway for AI agents (USDC on Base): Korean real estate,… |
+| 2026-10-09 15:15:37 | [org.d20dao/vrf](https://github.com/d20dao/mcp) | D20DAO Verifiable Randomness | 0.1.1 | Verifiable VRF draws on Arc, 0.05 USDC each. On Robinhood Chain, integrate on c… |
 
 ## Data source
 
