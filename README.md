@@ -9,34 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 06:20 UTC
+## Latest list — 2026-10-09 07:19 UTC
 
-New MCP servers published between 2026-10-09 05:20 UTC and 2026-10-09 06:20 UTC.
+New MCP servers published between 2026-10-09 06:20 UTC and 2026-10-09 07:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-09T06-20-36-927905Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-09T07-19-06-468861Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-09 05:23:00 | [io.github.yumaheymans/genmagic](https://github.com/yumaheymans/genmagic-mcp) | GenMagic | 1.1.0 | Generate images, video, speech, music and text with 450+ AI models, one API key… |
-| 2026-10-09 05:31:13 | uk.co.tommyaccounting/tools | Tommy Accounting | 1.0.0 | Free UK sole-trader tools: VAT & MTD checks, tax set-aside, expense categories,… |
-| 2026-10-09 05:32:21 | [io.github.ayeshLK/archsmith](https://github.com/ayeshLK/archsmith) | ArchSmith | 0.8.0 | Render and validate ArchSmith architecture diagrams from a governed JSON IR. |
-| 2026-10-09 05:35:49 | dev.laterbase/laterbase | Laterbase | 1.0.0 | A shared backlog for the out-of-scope work your coding agents find. |
-| 2026-10-09 05:36:51 | [io.github.RyanAlberts/agent-harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) |  | 0.7.1 | Agent-harness picks, decision guides, setup templates, and skills; live GitHub/… |
-| 2026-10-09 05:40:26 | [io.github.finmanagerai/atlas-mcp-server](https://github.com/finmanagerai/atlas-mcp-server) |  | 1.1.0 | Scan options flow, analyze real-time market data, and build investing and tradi… |
-| 2026-10-09 05:41:05 | app.shelfclub/books | Shelfclub | 0.2.0 | Search a catalog of 1.7 million books and find books by mood, vibe, pace or gen… |
-| 2026-10-09 05:59:10 | de.oqda/oqda | oqda Business-OS | 1.0.0 | oqda business OS (DE): modules, pricing, comparison and waitlist sign-up with c… |
-| 2026-10-09 05:59:43 | [io.github.oaslananka/ssh-mcp-pro](https://github.com/oaslananka/ssh-mcp-pro) | ssh-mcp-pro | 1.2.3 | Secure MCP SSH automation server with policy controls, resources, prompts, stdi… |
-| 2026-10-09 06:09:02 | me.taskdeck/taskdeck | TaskDeck | 0.10.0 | Task boards for teams and their AI agents: cards, checklists, sprints, plans an… |
-| 2026-10-09 06:10:25 | [io.github.clockblocker/prinfer](https://github.com/clockblocker/prinfer) | prinfer | 3.1.0 | TypeScript inferred types, completions and type errors for AI coding agents |
-| 2026-10-09 06:14:13 | io.github.AlgForce/exceldashboard-ai | ExcelDashboard AI | 0.1.0 | Generate visual analytical reports from verified outlines. Account and OAuth re… |
-| 2026-10-09 06:14:17 | [com.zennolab/android-pm](https://github.com/ZennoLab/zennoposter-mcp) | ZennoDroid: device in ProjectMaker | 0.5.0 | Drive the Android device attached to ZennoDroid ProjectMaker: screen, elements,… |
-| 2026-10-09 06:14:19 | [com.zennolab/android-zd](https://github.com/ZennoLab/zennoposter-mcp) | ZennoDroid: devices of running tasks | 0.5.0 | Drive the Android devices of the tasks running in ZennoDroid: screen, elements,… |
-| 2026-10-09 06:14:20 | [com.zennolab/instance-pm](https://github.com/ZennoLab/zennoposter-mcp) | ZennoPoster: browser in ProjectMaker | 0.3.0 | Drive the browser of ZennoPoster ProjectMaker: open pages, read and click eleme… |
-| 2026-10-09 06:14:20 | [com.zennolab/instance-zp](https://github.com/ZennoLab/zennoposter-mcp) | ZennoPoster: browsers of running tasks | 0.3.0 | Drive the browsers of running ZennoPoster tasks: open pages, read and click ele… |
-| 2026-10-09 06:14:21 | [com.zennolab/projectmaker](https://github.com/ZennoLab/zennoposter-mcp) | ZennoPoster: ProjectMaker | 0.5.0 | Read and edit the project open in ZennoPoster ProjectMaker, run it and record a… |
-| 2026-10-09 06:14:22 | [com.zennolab/projectmaker-droid](https://github.com/ZennoLab/zennoposter-mcp) | ZennoDroid: ProjectMaker | 0.5.0 | Read and edit the project open in ZennoDroid ProjectMaker, run it and record ac… |
-| 2026-10-09 06:14:23 | [com.zennolab/zennodroid](https://github.com/ZennoLab/zennoposter-mcp) | ZennoDroid: tasks | 0.5.0 | Create, configure, start and monitor ZennoDroid tasks and their sessions. |
-| 2026-10-09 06:14:23 | [com.zennolab/zennoposter](https://github.com/ZennoLab/zennoposter-mcp) | ZennoPoster: tasks | 0.5.0 | Create, configure, start and monitor ZennoPoster tasks and their sessions. |
+| 2026-10-09 06:32:28 | [io.github.mishrasanjeev/agenticorg](https://github.com/mishrasanjeev/agentic-org) |  | 5.0.0 | Repository MCP adapter for company-scoped workflow candidates and conditional A… |
+| 2026-10-09 06:35:05 | ai.0si/disclosures | 0si.ai Disclosures | 1.0.0 | Korean (DART/KIND) and US SEC filings with AI summaries, direction labels and m… |
+| 2026-10-09 06:41:05 | [io.github.cyanheads/tvmaze-mcp-server](https://github.com/cyanheads/tvmaze-mcp-server) |  | 0.2.1 | Search TVmaze shows, next episodes in your timezone, episode guides, daily TV s… |
+| 2026-10-09 06:44:07 | [io.github.cyanheads/ourairports-mcp-server](https://github.com/cyanheads/ourairports-mcp-server) |  | 0.2.5 | Offline global aviation reference: airports, runways, navaids, frequencies from… |
+| 2026-10-09 06:44:54 | [io.github.structured-world/gitlab-mcp](https://github.com/structured-world/gitlab-mcp) | Advanced GitLab MCP server | 10.1.0 | 58 CQRS tools exposing 231 GitLab operations across 26 entity types |
+| 2026-10-09 06:45:09 | [io.github.cyanheads/osv-advisory-mcp-server](https://github.com/cyanheads/osv-advisory-mcp-server) |  | 0.1.16 | Query OSV.dev for package vulnerabilities and batch-audit dependency lists via… |
+| 2026-10-09 06:49:23 | [io.github.subodhkc/llmverify](https://github.com/subodhkc/llmverify-npm) | LLMVerify | 1.8.0 | Local-first MCP server for LLM output verification — risk signals, injection an… |
+| 2026-10-09 06:50:47 | [io.github.cyanheads/cisa-cybersecurity-mcp-server](https://github.com/cyanheads/cisa-cybersecurity-mcp-server) |  | 0.3.1 | CISA KEV with BOD 26-04 deadlines, SSVC prioritization, and the ICS advisory co… |
+| 2026-10-09 06:52:31 | [io.github.cyanheads/openchargemap-mcp-server](https://github.com/cyanheads/openchargemap-mcp-server) |  | 0.1.10 | Find EV charging stations, detail, and reliability check-ins via the global Ope… |
+| 2026-10-09 06:54:26 | [io.github.cyanheads/gbif-biodiversity-mcp-server](https://github.com/cyanheads/gbif-biodiversity-mcp-server) |  | 0.7.5 | Search GBIF species taxonomy, occurrence records, datasets, and publishers. |
+| 2026-10-09 06:58:41 | ai.immokit/mcp | immokit.ai — Auskunft zu Grundstück und… | 1.0.0 | German land values, cadastral parcels and development plans by address, with so… |
+| 2026-10-09 06:59:49 | cc.scopeai/geo-observation | ScopeAI GEO Observation | 0.1.0 | GEO brand visibility and AI citation evidence. Free capability discovery and re… |
+| 2026-10-09 07:01:12 | [io.github.cyanheads/npi-providers-mcp-server](https://github.com/cyanheads/npi-providers-mcp-server) |  | 0.4.1 | Search NPPES providers and resolve NUCC specialty codes via MCP over STDIO or S… |
+| 2026-10-09 07:01:18 | dev.workers.caoviedoc.agent-economic-passport/agent-economic-trust | Agent Economic Trust | 0.3.0 | Outcome-calibrated economic trust gate for autonomous agents. |
+| 2026-10-09 07:01:27 | [io.github.cyanheads/onebusaway-mcp-server](https://github.com/cyanheads/onebusaway-mcp-server) |  | 0.2.1 | Real-time transit stops, routes, arrivals, vehicle positions, and schedules via… |
+| 2026-10-09 07:04:41 | [io.github.cyanheads/macos-mcp-server](https://github.com/cyanheads/macos-mcp-server) |  | 0.2.1 | Control macOS system settings, apps, windows, audio, displays, screenshots, and… |
+| 2026-10-09 07:06:55 | de.arbitragex/fba-rechner | Arbitragex Amazon FBA Calculator (Amazo… | 1.0.0 | Free Amazon.de seller tools: referral & FBA fees, profit, margin, ROI, break-ev… |
+| 2026-10-09 07:08:16 | app.citeme/citeme | CiteMe | 1.2.0 | Search papers, format citations in 60 styles, and verify bibliographies against… |
+| 2026-10-09 07:17:06 | com.opnplatform/packindex | PackIndex | 1.1.0 | Packaging material prices, quote checks, contract price adjustments, pack costi… |
+| 2026-10-09 07:17:41 | [io.github.stufently/zabbix-ai-cli-mcp](https://github.com/stufently/zabbix-ai-cli-mcp) | Zabbix AI CLI MCP | 0.4.2 | Task-shaped Zabbix access for AI agents: problems, host triage, metrics, mainte… |
 
 ## Data source
 
