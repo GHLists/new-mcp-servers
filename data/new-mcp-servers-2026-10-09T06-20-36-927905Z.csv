@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-10-09T05:23:00.195866Z,io.github.yumaheymans/genmagic,GenMagic,1.1.0,https://github.com/yumaheymans/genmagic-mcp,streamable-http,"Generate images, video, speech, music and text with 450+ AI models, one API key and one balance."
+2026-10-09T05:31:13.977938Z,uk.co.tommyaccounting/tools,Tommy Accounting,1.0.0,,streamable-http,"Free UK sole-trader tools: VAT & MTD checks, tax set-aside, expense categories, bookkeeper requests."
+2026-10-09T05:32:21.36277Z,io.github.ayeshLK/archsmith,ArchSmith,0.8.0,https://github.com/ayeshLK/archsmith,,Render and validate ArchSmith architecture diagrams from a governed JSON IR.
+2026-10-09T05:35:49.070181Z,dev.laterbase/laterbase,Laterbase,1.0.0,,streamable-http,A shared backlog for the out-of-scope work your coding agents find.
+2026-10-09T05:36:51.223159Z,io.github.RyanAlberts/agent-harnesses,,0.7.1,https://github.com/RyanAlberts/best-of-Agent-Harnesses,,"Agent-harness picks, decision guides, setup templates, and skills; live GitHub/HN discovery."
+2026-10-09T05:40:26.952058Z,io.github.finmanagerai/atlas-mcp-server,,1.1.0,https://github.com/finmanagerai/atlas-mcp-server,streamable-http,"Scan options flow, analyze real-time market data, and build investing and trading workflows."
+2026-10-09T05:41:05.685335Z,app.shelfclub/books,Shelfclub,0.2.0,,streamable-http,"Search a catalog of 1.7 million books and find books by mood, vibe, pace or genre. Read-only."
+2026-10-09T05:59:10.453498Z,de.oqda/oqda,oqda Business-OS,1.0.0,,streamable-http,"oqda business OS (DE): modules, pricing, comparison and waitlist sign-up with consent."
+2026-10-09T05:59:43.989526Z,io.github.oaslananka/ssh-mcp-pro,ssh-mcp-pro,1.2.3,https://github.com/oaslananka/ssh-mcp-pro,,"Secure MCP SSH automation server with policy controls, resources, prompts, stdio, and HTTP."
+2026-10-09T06:09:02.383703Z,me.taskdeck/taskdeck,TaskDeck,0.10.0,,streamable-http,"Task boards for teams and their AI agents: cards, checklists, sprints, plans and proposals."
+2026-10-09T06:10:25.646238Z,io.github.clockblocker/prinfer,prinfer,3.1.0,https://github.com/clockblocker/prinfer,,"TypeScript inferred types, completions and type errors for AI coding agents"
+2026-10-09T06:14:13.955262Z,io.github.AlgForce/exceldashboard-ai,ExcelDashboard AI,0.1.0,,streamable-http,Generate visual analytical reports from verified outlines. Account and OAuth required.
+2026-10-09T06:14:17.414621Z,com.zennolab/android-pm,ZennoDroid: device in ProjectMaker,0.5.0,https://github.com/ZennoLab/zennoposter-mcp,,"Drive the Android device attached to ZennoDroid ProjectMaker: screen, elements, apps, gestures."
+2026-10-09T06:14:19.328418Z,com.zennolab/android-zd,ZennoDroid: devices of running tasks,0.5.0,https://github.com/ZennoLab/zennoposter-mcp,,"Drive the Android devices of the tasks running in ZennoDroid: screen, elements, apps, gestures."
+2026-10-09T06:14:20.131949Z,com.zennolab/instance-pm,ZennoPoster: browser in ProjectMaker,0.3.0,https://github.com/ZennoLab/zennoposter-mcp,,"Drive the browser of ZennoPoster ProjectMaker: open pages, read and click elements, screenshots."
+2026-10-09T06:14:20.962501Z,com.zennolab/instance-zp,ZennoPoster: browsers of running tasks,0.3.0,https://github.com/ZennoLab/zennoposter-mcp,,"Drive the browsers of running ZennoPoster tasks: open pages, read and click elements, screenshots."
+2026-10-09T06:14:21.741164Z,com.zennolab/projectmaker,ZennoPoster: ProjectMaker,0.5.0,https://github.com/ZennoLab/zennoposter-mcp,,"Read and edit the project open in ZennoPoster ProjectMaker, run it and record actions."
+2026-10-09T06:14:22.444456Z,com.zennolab/projectmaker-droid,ZennoDroid: ProjectMaker,0.5.0,https://github.com/ZennoLab/zennoposter-mcp,,"Read and edit the project open in ZennoDroid ProjectMaker, run it and record actions."
+2026-10-09T06:14:23.264469Z,com.zennolab/zennodroid,ZennoDroid: tasks,0.5.0,https://github.com/ZennoLab/zennoposter-mcp,,"Create, configure, start and monitor ZennoDroid tasks and their sessions."
+2026-10-09T06:14:23.912166Z,com.zennolab/zennoposter,ZennoPoster: tasks,0.5.0,https://github.com/ZennoLab/zennoposter-mcp,,"Create, configure, start and monitor ZennoPoster tasks and their sessions."
