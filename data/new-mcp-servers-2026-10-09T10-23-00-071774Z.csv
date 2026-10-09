@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-09T09:32:40.834464Z,com.packagemaze/packagemaze,PackageMaze,1.1.0,,streamable-http,"Private npm and PyPI Feeds with repository setup, scoped CI access, and package activity."
+2026-10-09T09:35:20.309796Z,io.github.zguiyang/pi-task-exec,Pi TaskExec,0.1.0,https://github.com/zguiyang/pi-task-exec,,A host-agnostic MCP worker runtime for supervising local Pi coding-agent processes.
+2026-10-09T09:38:47.169469Z,io.github.genesis-plan/lingjing,LingJing,1.0.1,https://github.com/genesis-plan/lingjing,,"LingJing classroom MCP: human teaches, AI student questions; returns blindspots & summary."
+2026-10-09T09:39:37.582877Z,com.plainrecords/us-recalls-food-products-vehicles,PlainRecords: U.S. recalls in plain English,1.0.0,,streamable-http,"U.S. FDA, CPSC and NHTSA recalls by product, brand, lot code or car, plus owner complaints. Daily."
+2026-10-09T09:43:28.239358Z,io.satelo/satelo,Satelo,1.0.0,,streamable-http,"Websites promote each other: Quality Score checks, partner discovery and article placement."
+2026-10-09T09:48:27.876441Z,com.normapi/mcp,NormAPI,1.0.0,,streamable-http,"Validate and generate German e-invoices (XRechnung, ZUGFeRD) against the official KoSIT rules."
+2026-10-09T09:50:47.878057Z,io.github.falsalama/mylegend,"MyLegend — public profiles, rich cards and personal agents",1.0.0,,streamable-http,"Find owner-published people, display rich profile cards and ask approved public questions. No login."
+2026-10-09T09:51:08.437572Z,uk.co.cruisify/cruise-search,Cruisify,1.0.0,,streamable-http,"Search cruises sold to the UK market, with prices in pounds and links to every sailing."
+2026-10-09T09:53:23.549252Z,ai.anywhereintelligence/switchboard,Switchboard,1.0.0,,streamable-http,Agent to agent calls across AI apps. Humans remain in authority.
+2026-10-09T09:59:19.928643Z,com.repeatpost/mcp,RepeatPost,1.0.0,,streamable-http,"Schedule and publish social media posts, generate captions, images and videos with RepeatPost."
+2026-10-09T10:00:57.080038Z,io.github.technovision-dev/odoo-claude-connector,Claude Connector for Odoo,1.4.3,https://github.com/technovision-dev/odoo-claude-connector,streamable-http,Permission-aware MCP server for Odoo 18/19. OAuth 2.1; each call runs as one named Odoo user.
+2026-10-09T10:10:37.330994Z,io.github.MasterPlayspots/motionspec,MotionSpec — web animation accessibility MCP,1.2.8,https://github.com/MasterPlayspots/motionspec,streamable-http,"Web animation accessibility MCP: GSAP, static CSS checks, prefers-reduced-motion, WCAG 2.2.2/2.3.3."
+2026-10-09T10:15:50.743132Z,app.rankbrain/rankbrain-ai,RankBrain AI,2.10.0,,streamable-http,"Finds why Google and AI cannot read your site, gives the exact fix, applies it once you approve."
+2026-10-09T10:15:51.156501Z,io.github.siddik-web/helix-mcp-server,,1.0.1,https://github.com/JoomShaper/helix-ultimate,,"MCP server for Helix Ultimate Joomla: layout builder, code scaffolding, SCSS and audits."
+2026-10-09T10:17:26.052967Z,io.github.MoleCare/molecare-mcp,,1.2.0,https://github.com/MoleCare/molecare-mcp,,Educational dermatology knowledge and mole tracking. No credentials needed. Not a medical device.
+2026-10-09T10:18:49.258009Z,page.rows/rows,rows.page,1.0.0,https://github.com/bitgate/rows-page-mcp,streamable-http,"Push CSV, JSON, JSONL or Parquet from your agent and get a link a human can explore."
+2026-10-09T10:22:21.037605Z,io.github.ninetails-io/gnucash-mcp,gnucash-mcp,1.5.0,https://github.com/ninetails-io/gnucash-mcp,,"Talk to your GnuCash books: a financial dashboard, statements reconciled in one call, and invoicing."
