@@ -9,36 +9,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 04:20 UTC
+## Latest list — 2026-10-09 05:20 UTC
 
-New MCP servers published between 2026-10-09 03:19 UTC and 2026-10-09 04:20 UTC.
+New MCP servers published between 2026-10-09 04:20 UTC and 2026-10-09 05:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-09T04-20-10-852537Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-09T05-20-59-159602Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-09 03:27:39 | [io.github.taylee9809/budongsan-tax](https://github.com/taylee9809/budongsan-tax) |  | 0.1.0 | Korean real-estate tax engine and MCP server. Statute trail on every result. |
-| 2026-10-09 03:28:17 | com.ifreework/content | iFreeWork — public content | 1.0.0 | iFreeWork services, portfolio, blog, search, contacts and consent-gated message… |
-| 2026-10-09 03:30:41 | com.cyclonemachining.for/agent-door | Cyclone Machining Co. agent door | 2026.10.9 | File a quote request with a prototype and R&D machine shop in Grand Rapids, Mic… |
-| 2026-10-09 03:36:35 | com.sendfaxfast/fax | SendFaxFast | 1.1.0 | Send real faxes from AI chat. PDF, JPG or PNG. Pay per fax via Stripe link. US,… |
-| 2026-10-09 03:36:36 | com.sendfaxfast/fax-credits | SendFaxFast (AI Fax Credits) | 1.1.0 | Send faxes from AI chat with prepaid credits (1 credit = 1 fax, up to 100 pages… |
-| 2026-10-09 03:36:43 | com.experiencebamfield/experience-bamfield | Experience Bamfield | 2026.10.8 | Plan and price trips to Bamfield, BC, and build the guest's cart link. Read-onl… |
-| 2026-10-09 03:36:48 | io.github.wally827/scope-analytics-mcp | Scope Analytics | 0.1.5 | Install + query Scope analytics from an AI coding agent (Claude Code, Cursor, e… |
-| 2026-10-09 03:36:50 | com.redthreadsec/redthread | Redthread | 0.7.467 | Attack paths, scan findings and shadow AI for AI-native apps and their clouds;… |
-| 2026-10-09 03:37:20 | com.yuletidemarkets/yuletide-markets | Yuletide Markets | 1.0.0 | Christmas markets, light displays and tree farms near a US place, with official… |
-| 2026-10-09 03:44:23 | io.github.pgtriage/pgtriage | pgtriage | 0.1.4 | Read-only MCP server for evidence-based PostgreSQL performance auditing. |
-| 2026-10-09 03:46:16 | [io.github.robyroro/mcp-changeatlas](https://github.com/robyroro/mcp-changeatlas) | ChangeAtlas | 0.1.0 | Local Git change impact and related test discovery with inspectable import paths |
-| 2026-10-09 03:47:08 | food.alma/mcp | Alma | 1.0.0 | Your Alma food log in your AI assistant: meals, micronutrients, Alma Score, goa… |
-| 2026-10-09 04:00:22 | io.github.danieljames-dev/agent-assurance | AION Agent Assurance Gateway | 0.1.2 | Read-only MCP gateway. Paid verify is $0.01 USDC on Base. |
-| 2026-10-09 04:00:40 | online.aiplumber/gta-plumber | GTA AI Plumber | 0.4.0 | Find, compare, and request GTA plumbers with multiple quotes and human-assisted… |
-| 2026-10-09 04:03:10 | app.namehound/namehound | NameHound | 1.0.0 | Is a brand name free as a .com/.net/.org/.app domain and as a Bluesky, Mastodon… |
-| 2026-10-09 04:08:43 | [io.github.robyroro/mcp-latchpoint](https://github.com/robyroro/mcp-latchpoint) | Latchpoint | 0.1.1 | Offline, read-only auditing of MCP client configuration files with redacted fin… |
-| 2026-10-09 04:09:05 | app.wellintel/permits | Well-Intel Drilling Permits | 1.0.0 | Oil and gas drilling permits for TX, NM, OK and LA, from state regulators. Well… |
-| 2026-10-09 04:09:29 | com.lettrove/lettrove | Lettrove | 1.0.1 | Design emails from a brief, send tests, send to your lists now or scheduled, an… |
-| 2026-10-09 04:10:35 | [io.github.arctop/seamless](https://github.com/arctop/seamless) | Seamless | 0.6.0 | Local-first shared memory and task coordination for AI coding agents. Go daemon… |
-| 2026-10-09 04:14:15 | com.jev-agent/jagent | Jagent | 1.0.0 | Grade essays, check resumes, and ask typed yes/no, choice and rubric questions,… |
-| 2026-10-09 04:15:10 | [io.github.KenTaniguchi-R/ledgr](https://github.com/KenTaniguchi-R/ledgr) | Ledgr | 0.3.4 | Self-hosted personal finance app with bank sync, budgets, net worth and investm… |
-| 2026-10-09 04:18:37 | io.github.Kaixxrua/aigc-radar | AIGC Radar MCP | 1.2.0 | AI-vertical index: arXiv papers, curated GitHub AI projects, daily rankings. Ze… |
+| 2026-10-09 04:22:22 | net.tradebasis/market-appraisal | TradeBasis US Market Appraisal | 1.0.0 | Free US vehicle averages in USD from matched asking prices. VIN optional; limit… |
+| 2026-10-09 04:22:52 | ai.memozzang/memozzang | 메모짱 | 1.0.0 | 메모짱 메모·할 일을 AI로 검색·정리·체크해요. / Search, write and check off notes and to-dos in M… |
+| 2026-10-09 04:22:55 | com.texashomebills/texas-electricity | TexasHomeBills — Texas electricity plans | 1.0.0 | Texas electricity plans ranked by real annual cost on your usage; bill-credit t… |
+| 2026-10-09 04:24:55 | [com.1102tools/gsa-calc-mcp](https://github.com/1102tools-dev/federal-contracting-mcps) | GSA CALC+ | 1.0.10 | GSA CALC+ awarded labor ceiling rates from more than 230,000 MAS contract recor… |
+| 2026-10-09 04:28:22 | [io.github.nasroykh/ffc](https://github.com/nasroykh/foxmayn_frappe_cli) | Foxmayn Frappe CLI | 1.16.1 | Read and change documents, reports and workflows on Frappe and ERPNext sites. |
+| 2026-10-09 04:29:01 | com.ex2/catalogue | Ex2 catalogue | 1.2.0 | Plans, prices and domain names of Ex2, web host from Québec: compare plans, che… |
+| 2026-10-09 04:30:26 | [com.1102tools/federal-register-mcp](https://github.com/1102tools-dev/federal-contracting-mcps) | Federal Register | 1.0.10 | Federal Register proposed and final rules, notices, executive orders, and FAR c… |
+| 2026-10-09 04:32:43 | [io.github.cyanheads/nonprofit-explorer-mcp-server](https://github.com/cyanheads/nonprofit-explorer-mcp-server) |  | 0.1.10 | MCP server for nonprofit financials via ProPublica: IRS Form 990 data for 1.8M+… |
+| 2026-10-09 04:36:45 | [com.1102tools/usaspending-gov-mcp](https://github.com/1102tools-dev/federal-contracting-mcps) | USASpending.gov | 1.0.10 | USASpending.gov awards, subawards, recipients, agencies, and federal accounts.… |
+| 2026-10-09 04:37:10 | [io.github.cyanheads/stackexchange-mcp-server](https://github.com/cyanheads/stackexchange-mcp-server) |  | 0.1.16 | Search Stack Exchange questions, fetch Q&A threads as markdown, look up tag FAQ… |
+| 2026-10-09 04:37:22 | [io.github.cyanheads/uniprot-mcp-server](https://github.com/cyanheads/uniprot-mcp-server) |  | 0.2.5 | Protein research over UniProtKB: search by function, fetch curated records, map… |
+| 2026-10-09 04:39:13 | [io.github.cyanheads/noaa-marine-mcp-server](https://github.com/cyanheads/noaa-marine-mcp-server) |  | 0.6.1 | Find NOAA tide stations and NDBC buoys, fetch tide predictions, currents, and l… |
+| 2026-10-09 04:40:35 | io.yalladeals/deals | YallaDeals: UAE price comparison | 2.0.0 | UAE prices across Amazon.ae and noon: best price now, 90-day history, whether t… |
+| 2026-10-09 04:41:41 | [io.github.cyanheads/noaa-spaceweather-mcp-server](https://github.com/cyanheads/noaa-spaceweather-mcp-server) |  | 0.3.2 | NOAA SWPC space weather: storm scales, Kp index, aurora forecasts, solar wind,… |
+| 2026-10-09 04:42:11 | [io.github.cyanheads/nist-nvd-mcp-server](https://github.com/cyanheads/nist-nvd-mcp-server) |  | 0.3.2 | Search and audit NIST NVD CVEs by keyword, severity, CWE, CISA KEV status, and… |
+| 2026-10-09 04:42:49 | [com.1102tools/regulations-gov-mcp](https://github.com/1102tools-dev/federal-contracting-mcps) | Regulations.gov | 2.0.1 | Regulations.gov readiness, rulemaking dockets, documents, comments, and comment… |
+| 2026-10-09 04:44:57 | [br.com.scrypta/guapissimas](https://github.com/scrypta-mcp/scrypta-mcp) |  | 1.0.0 | Catalogo de 328 produtos em 26 categorias - servido via Scrypta. |
+| 2026-10-09 04:45:12 | [com.1102tools/ecfr-mcp](https://github.com/1102tools-dev/federal-contracting-mcps) | eCFR | 1.0.11 | Electronic Code of Federal Regulations including FAR, DFARS, and agency supplem… |
+| 2026-10-09 04:53:41 | [io.github.cyanheads/openstates-mcp-server](https://github.com/cyanheads/openstates-mcp-server) |  | 0.3.3 | Search bills, legislators, committees, and events across all 50 US states, DC,… |
+| 2026-10-09 04:56:20 | [io.github.cyanheads/openfec-mcp-server](https://github.com/cyanheads/openfec-mcp-server) |  | 0.9.1 | Access FEC campaign finance data. Query data about candidates, money trails, an… |
+| 2026-10-09 04:56:38 | [io.github.kapaweb/kapaweb-deploy](https://github.com/kapaweb/kapaweb-deploy) | kapaweb deploy | 0.7.0 | Deploy websites, PHP apps and WordPress to kapaweb DirectAdmin hosting without… |
+| 2026-10-09 04:57:11 | [io.github.productdevbook/yuva](https://github.com/productdevbook/yuva) | Yuva | 0.0.4 | Customer support inbox: search, read, triage and draft replies to e-mail and ch… |
+| 2026-10-09 04:58:29 | [io.github.ictinnovations/pbx-mcp](https://github.com/ictinnovations/pbx-mcp) |  | 0.1.3 | Inspect and control Asterisk (AMI) and FreeSWITCH (ESL) PBX servers from your A… |
+| 2026-10-09 05:05:00 | [io.github.cyanheads/federal-regulations-mcp-server](https://github.com/cyanheads/federal-regulations-mcp-server) |  | 0.5.3 | Search and trace US federal rules across the Federal Register, eCFR, and Regula… |
+| 2026-10-09 05:05:54 | [io.github.fmadore/frederickmadore-website](https://github.com/fmadore/Website) | Frédérick Madore — Academic Record | 0.2.0 | Search and cite Frédérick Madore's publications, talks, research projects, DH w… |
+| 2026-10-09 05:07:58 | [io.github.pipeworx-io/defillama](https://github.com/pipeworx-io/mcp-defillama) | Defillama | 0.1.3 | DefiLlama MCP — DeFi analytics from DefiLlama (free, no auth) |
+| 2026-10-09 05:08:29 | [io.github.pipeworx-io/ncbi-eutils](https://github.com/pipeworx-io/mcp-ncbi-eutils) | Ncbi Eutils | 0.1.3 | NCBI E-utilities MCP — federated Entrez search/fetch. |
+| 2026-10-09 05:09:03 | [io.github.pipeworx-io/bing-news](https://github.com/pipeworx-io/mcp-bing-news) | Bing News | 0.1.0 | Bing News MCP — keyword news search via Bing News RSS, keyless. |
+| 2026-10-09 05:09:54 | [io.github.pipeworx-io/msha-mines](https://github.com/pipeworx-io/mcp-msha-mines) | Msha Mines | 0.1.0 | MSHA mine records — search a US mine by operator or mine name, or look up |
+| 2026-10-09 05:10:45 | [io.github.pipeworx-io/prospeo](https://github.com/pipeworx-io/mcp-prospeo) | Prospeo | 0.1.0 | Prospeo MCP — wraps the Prospeo 'Enrich Person' API (prospeo.io) |
+| 2026-10-09 05:11:35 | [io.github.pipeworx-io/reoon](https://github.com/pipeworx-io/mcp-reoon) | Reoon | 0.1.0 | Reoon MCP — wraps the Reoon Email Verifier API (reoon.com) |
+| 2026-10-09 05:13:26 | [io.github.pipeworx-io/sdmx-structure](https://github.com/pipeworx-io/mcp-sdmx-structure) | Sdmx Structure | 0.1.0 | SDMX Structure MCP — dataflow dimensions and code lists for any SDMX 2.1 |
+| 2026-10-09 05:14:16 | [io.github.pipeworx-io/trykitt](https://github.com/pipeworx-io/mcp-trykitt) | Trykitt | 0.1.0 | TryKitt MCP — wraps the TryKitt.ai B2B email finder API (trykitt.ai) |
+| 2026-10-09 05:15:09 | [io.github.pipeworx-io/tx-medical-exclusions](https://github.com/pipeworx-io/mcp-tx-medical-exclusions) | Tx Medical Exclusions | 0.1.0 | Texas HHSC Office of Inspector General (OIG) Medicaid Provider Exclusions |
+| 2026-10-09 05:15:48 | io.github.weide43/homey-mcp-ai-bridge | MCP AI Bridge for Homey | 5.0.0 | Control a Homey Pro smart home: devices, flows, energy and more. Runs on the Ho… |
+| 2026-10-09 05:15:59 | [io.github.pipeworx-io/ucc-liens](https://github.com/pipeworx-io/mcp-ucc-liens) | Ucc Liens | 0.1.0 | UCC Liens — business-debtor UCC (Uniform Commercial Code) financing |
+| 2026-10-09 05:16:50 | [io.github.pipeworx-io/ukraine-public-spending](https://github.com/pipeworx-io/mcp-ukraine-public-spending) | Ukraine Public Spending | 0.1.0 | Ukraine public spending MCP — State Treasury payment transactions (keyless). |
 
 ## Data source
 
