@@ -1,0 +1,36 @@
+created_at,server,title,version,repository,transports,description
+2026-10-08T23:26:58.875716Z,io.github.kieransimkin/danceflow,DanceFlow,0.1.0,https://github.com/kieransimkin/DanceFlow,,Local KeywordMoves and PixelCue tools for agents. https://kieransimkin.co.uk/danceflow/
+2026-10-08T23:29:13.446749Z,com.frameanyphoto/prints,FrameAnyPhoto,1.1.0,,streamable-http,"Framed prints of public-domain art and NASA photos: search works, price prints, get checkout links."
+2026-10-08T23:31:47.425018Z,io.calcupedia/calcupedia,Calcupedia,1.0.0,,streamable-http,"2,400+ calculators and unit converters with exact results and a live calculator card in the chat."
+2026-10-08T23:34:15.222631Z,com.enhancedint/shesmydoglady,Book ShesMyDogLady,1.0.0,,streamable-http,"Book with ShesMyDogLady: services, prices and open times. No key needed."
+2026-10-08T23:43:43.032024Z,io.github.pipeworx-io/court-listener,Court Listener,0.1.4,https://github.com/pipeworx-io/mcp-court-listener,streamable-http,CourtListener MCP — Free Law Project's CourtListener API (v4).
+2026-10-08T23:43:54.64044Z,io.github.pipeworx-io/espn,Espn,0.1.3,https://github.com/pipeworx-io/mcp-espn,streamable-http,"ESPN MCP — keyless multi-sport live scores, teams, and news via ESPN's public site API."
+2026-10-08T23:44:17.548635Z,io.github.pipeworx-io/freshdesk,Freshdesk,0.1.4,https://github.com/pipeworx-io/mcp-freshdesk,streamable-http,Freshdesk MCP Pack — helpdesk ticket and contact management via Freshdesk API v2.
+2026-10-08T23:44:44.502633Z,io.github.pipeworx-io/lemmy,Lemmy,0.1.4,https://github.com/pipeworx-io/mcp-lemmy,streamable-http,Lemmy MCP — public reads on any Lemmy instance.
+2026-10-08T23:44:57.90781Z,io.github.pipeworx-io/n8n,N8n,0.1.3,https://github.com/pipeworx-io/mcp-n8n,streamable-http,n8n MCP — query your own n8n instance (BYO).
+2026-10-08T23:45:11.835831Z,io.github.pipeworx-io/opendatasoft,Opendatasoft,0.1.4,https://github.com/pipeworx-io/mcp-opendatasoft,streamable-http,Opendatasoft (generic portal) MCP.
+2026-10-08T23:45:23.443091Z,io.github.pipeworx-io/oregon-code,Oregon Code,0.1.3,https://github.com/pipeworx-io/mcp-oregon-code,streamable-http,Oregon Revised Statutes — state statutes by citation.
+2026-10-08T23:45:55.651771Z,io.github.pipeworx-io/riot-games,Riot Games,0.1.4,https://github.com/pipeworx-io/mcp-riot-games,streamable-http,Riot Games API MCP.
+2026-10-08T23:46:09.044054Z,io.github.pipeworx-io/social-signal,Social Signal,0.1.3,https://github.com/pipeworx-io/mcp-social-signal,streamable-http,Social Signal — post-VOLUME TIME SERIES across the open social networks that
+2026-10-08T23:46:23.23958Z,io.github.pipeworx-io/solscan,Solscan,0.1.3,https://github.com/pipeworx-io/mcp-solscan,streamable-http,Solscan MCP — Solana block-explorer + network analytics
+2026-10-08T23:46:34.131234Z,io.github.pipeworx-io/statuspage,Statuspage,0.1.2,https://github.com/pipeworx-io/mcp-statuspage,streamable-http,Service status / uptime MCP — Atlassian Statuspage v2.
+2026-10-08T23:46:48.424089Z,io.github.pipeworx-io/wayback,Wayback,0.1.3,https://github.com/pipeworx-io/mcp-wayback,streamable-http,Internet Archive Wayback Machine MCP.
+2026-10-08T23:47:00.187411Z,io.github.pipeworx-io/west-virginia-code,West Virginia Code,0.1.3,https://github.com/pipeworx-io/mcp-west-virginia-code,streamable-http,West Virginia Code — state statutes by citation.
+2026-10-08T23:47:11.345708Z,io.github.pipeworx-io/wisconsin-code,Wisconsin Code,0.1.3,https://github.com/pipeworx-io/mcp-wisconsin-code,streamable-http,Wisconsin Statutes — state statutes by citation.
+2026-10-08T23:47:29.201111Z,io.github.pipeworx-io/algorithm-finder,Algorithm Finder,0.1.0,https://github.com/pipeworx-io/mcp-algorithm-finder,streamable-http,"Algorithm Finder MCP — which algorithm, data structure or technique fits a"
+2026-10-08T23:47:55.665464Z,org.lettras/word-search,Lettras word search,0.2.0,https://github.com/Artificialss/lettras-sdk,streamable-http,"Create word-search puzzles in 6 languages (es, en, pt, fr, de, it) with native accented letters."
+2026-10-08T23:48:20.047016Z,io.github.pipeworx-io/ats-boards,Ats Boards,0.1.0,https://github.com/pipeworx-io/mcp-ats-boards,streamable-http,ATS Boards MCP — public job-board postings across eight applicant-tracking
+2026-10-08T23:49:10.30683Z,io.github.pipeworx-io/bounceban,Bounceban,0.1.0,https://github.com/pipeworx-io/mcp-bounceban,streamable-http,BounceBan MCP — wraps the BounceBan email-verification API (bounceban.com)
+2026-10-08T23:49:59.502558Z,io.github.pipeworx-io/bug-bounty-programs,Bug Bounty Programs,0.1.0,https://github.com/pipeworx-io/mcp-bug-bounty-programs,streamable-http,bug-bounty-programs
+2026-10-08T23:50:49.102953Z,io.github.pipeworx-io/california-tax-appeals,California Tax Appeals,0.1.0,https://github.com/pipeworx-io/mcp-california-tax-appeals,streamable-http,California Office of Tax Appeals (OTA) opinions — search by statute
+2026-10-08T23:51:39.28359Z,io.github.pipeworx-io/fl-medical-exclusions,Fl Medical Exclusions,0.1.0,https://github.com/pipeworx-io/mcp-fl-medical-exclusions,streamable-http,Florida AHCA Medicaid Sanctioned Providers screening — check a provider
+2026-10-08T23:52:09.138162Z,com.fusehealth/mcp,FUSE Health,0.1.0,,streamable-http,"Commerce platform for health and wellness brands: offerings, pricing, promos, storefront and sales."
+2026-10-08T23:52:29.098838Z,io.github.pipeworx-io/forager,Forager,0.1.0,https://github.com/pipeworx-io/mcp-forager,streamable-http,Forager MCP — wraps the Forager person-phone-lookup API (forager.ai)
+2026-10-08T23:53:18.983997Z,io.github.pipeworx-io/icypeas,Icypeas,0.1.0,https://github.com/pipeworx-io/mcp-icypeas,streamable-http,Icypeas MCP — wraps the Icypeas email-search API (icypeas.com)
+2026-10-08T23:53:36.626969Z,com.elevenflo/mcp,ElevenFlo MCP,1.1.1,,streamable-http,Court-grounded Chapter 11 bankruptcy research over hosted remote MCP
+2026-10-08T23:54:09.506185Z,io.github.pipeworx-io/leadmagic,Leadmagic,0.1.0,https://github.com/pipeworx-io/mcp-leadmagic,streamable-http,LeadMagic MCP — wraps the LeadMagic B2B email-finder API (leadmagic.io)
+2026-10-08T23:54:24.365814Z,io.github.zeitcow/implicit-core,Implicit Core,1.0.0,https://github.com/zeitcow/implicit-core,,"Bounded local synthetic experience addressing, selective materialization and provenance rehearsal."
+2026-10-08T23:55:00.14946Z,io.github.pipeworx-io/millionverifier,Millionverifier,0.1.0,https://github.com/pipeworx-io/mcp-millionverifier,streamable-http,MillionVerifier MCP — wraps the MillionVerifier single-verify API
+2026-10-09T00:05:18.535187Z,io.github.starecz/karea-mcp,,0.12.0,https://github.com/starecz/karea-mcp,,"Karea task manager - 9 tools covering 70 actions, for Claude Code, Cursor, and other MCP clients."
+2026-10-09T00:17:30.644887Z,tools.superpowers/superpowers,Superpowers,1.0.0,,streamable-http,"One key for AI models and paid APIs: search, compare providers on the same input, pay per call."
+2026-10-09T00:17:59.149495Z,io.github.mdwsk88/ms-365-21v-mcp-server,MS 365-21V MCP Server,0.1.1,https://github.com/mdwsk88/ms-365-21v-mcp-server,,"MCP server for Microsoft 365 on the 21Vianet China cloud: mail, calendar, files via delegated Graph."

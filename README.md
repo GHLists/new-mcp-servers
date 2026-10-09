@@ -9,90 +9,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 23:20 UTC
+## Latest list — 2026-10-09 00:19 UTC
 
-New MCP servers published between 2026-10-08 22:20 UTC and 2026-10-08 23:20 UTC.
+New MCP servers published between 2026-10-08 23:20 UTC and 2026-10-09 00:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-08T23-20-48-406664Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-09T00-19-36-625327Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-08 22:22:25 | [io.usefulapi/mailchimp](https://github.com/m190/usefulapi-mcp) | Mailchimp MCP by usefulapi | 1.10.0 | Read audiences, members, campaigns and reports; add, update, tag and archive su… |
-| 2026-10-08 22:22:28 | [io.usefulapi/mailerlite](https://github.com/m190/usefulapi-mcp) | MailerLite MCP by usefulapi | 1.10.0 | Read subscribers, groups, campaigns, fields, segments, automations, webhooks; s… |
-| 2026-10-08 22:22:32 | [io.usefulapi/maptiler](https://github.com/m190/usefulapi-mcp) | MapTiler MCP by usefulapi | 1.10.0 | Geocoding, elevation, IP geolocation and coordinate transforms from the MapTile… |
-| 2026-10-08 22:22:36 | [io.usefulapi/maxmind-minfraud](https://github.com/m190/usefulapi-mcp) | MaxMind minFraud MCP by usefulapi | 1.10.0 | MCP server for MaxMind minFraud — score transactions for fraud risk from your A… |
-| 2026-10-08 22:22:43 | [io.usefulapi/mercoa](https://github.com/m190/usefulapi-mcp) | Mercoa MCP by usefulapi | 1.10.0 | Query and manage Mercoa AP/AR bill-pay: entities, invoices, transactions and pa… |
-| 2026-10-08 22:22:46 | [io.usefulapi/metriport](https://github.com/m190/usefulapi-mcp) | Metriport MCP by usefulapi | 1.10.0 | Read and write patients, facilities, medical documents, and consolidated FHIR r… |
-| 2026-10-08 22:22:49 | [io.usefulapi/mindee](https://github.com/m190/usefulapi-mcp) | Mindee MCP by usefulapi | 1.10.0 | Turn PDFs and images into typed fields — invoices, receipts, IDs and custom mod… |
-| 2026-10-08 22:22:55 | [io.usefulapi/missive](https://github.com/m190/usefulapi-mcp) | Missive MCP by usefulapi | 1.10.0 | Read email/chat conversations, messages, contacts and teams; draft, send and up… |
-| 2026-10-08 22:22:58 | [io.usefulapi/mistral](https://github.com/m190/usefulapi-mcp) | Mistral MCP by usefulapi | 1.10.0 | Manage your Mistral platform — models, files, batch jobs, agents and RAG docume… |
-| 2026-10-08 22:23:01 | [io.usefulapi/mixpanel](https://github.com/m190/usefulapi-mcp) | Mixpanel MCP by usefulapi | 1.10.0 | Query Mixpanel events, funnels, retention, segmentation and insights (JQL). |
-| 2026-10-08 22:23:05 | [io.usefulapi/modern-treasury](https://github.com/m190/usefulapi-mcp) | Modern Treasury MCP by usefulapi | 1.10.0 | MCP server for Modern Treasury — payment orders, transactions, counterparties a… |
-| 2026-10-08 22:23:20 | [io.usefulapi/northflank](https://github.com/m190/usefulapi-mcp) | Northflank MCP by usefulapi | 1.10.0 | Inspect and control your Northflank projects, services, jobs, and builds from y… |
-| 2026-10-08 22:23:27 | [io.usefulapi/numeral](https://github.com/m190/usefulapi-mcp) | Numeral MCP by usefulapi | 1.10.0 | Calculate sales tax & VAT, record transactions and refunds, manage products and… |
-| 2026-10-08 22:23:32 | [io.usefulapi/nylas](https://github.com/m190/usefulapi-mcp) | Nylas MCP by usefulapi | 1.10.0 | MCP server for Nylas — read email, calendars, events and contacts, and send ema… |
-| 2026-10-08 22:23:43 | com.weavori/mcp |  | 0.1.14 | Generate referentially intact, distribution-realistic PostgreSQL synthetic data… |
-| 2026-10-08 22:23:49 | [io.usefulapi/orb](https://github.com/m190/usefulapi-mcp) | Orb MCP by usefulapi | 1.10.0 | Read Orb customers, subscriptions, invoices, usage and costs; create or update… |
-| 2026-10-08 22:24:09 | [io.usefulapi/peopledatalabs](https://github.com/m190/usefulapi-mcp) | People Data Labs MCP by usefulapi | 1.10.0 | Enrich and search people and companies, resolve identities, and enrich IP addre… |
-| 2026-10-08 22:24:16 | [io.usefulapi/pipedrive](https://github.com/m190/usefulapi-mcp) | Pipedrive MCP by usefulapi | 1.10.0 | Read deals, persons, organizations, activities and pipelines; create and update… |
-| 2026-10-08 22:24:20 | [io.usefulapi/plausible-analytics](https://github.com/m190/usefulapi-mcp) | Plausible MCP by usefulapi | 1.10.0 | Query site stats, realtime visitors, breakdowns and goals from Plausible Analyt… |
-| 2026-10-08 22:24:27 | [io.usefulapi/portkey](https://github.com/m190/usefulapi-mcp) | Portkey MCP by usefulapi | 1.10.0 | Read AI-gateway analytics, configs, virtual keys, workspaces and users; log req… |
-| 2026-10-08 22:24:31 | [io.usefulapi/printify](https://github.com/m190/usefulapi-mcp) | Printify MCP by usefulapi | 1.10.0 | Read shops, catalog blueprints, print providers, products and orders; create an… |
-| 2026-10-08 22:24:35 | [io.usefulapi/quaderno](https://github.com/m190/usefulapi-mcp) | Quaderno MCP by usefulapi | 1.10.0 | MCP server for Quaderno — tax-rate calculation, invoices, contacts, products, r… |
-| 2026-10-08 22:24:47 | [io.usefulapi/recharge](https://github.com/m190/usefulapi-mcp) | Recharge MCP by usefulapi | 1.10.0 | Read subscriptions, customers, charges, orders; skip charges, cancel or activat… |
-| 2026-10-08 22:24:51 | [io.usefulapi/reclaimai](https://github.com/m190/usefulapi-mcp) | Reclaim.ai MCP by usefulapi | 1.10.0 | Read tasks, habits, events and scheduling links; create and update Reclaim task… |
-| 2026-10-08 22:24:55 | [io.usefulapi/recurly](https://github.com/m190/usefulapi-mcp) | Recurly MCP by usefulapi | 1.10.0 | MCP server for Recurly — accounts, subscriptions, invoices, plans; cancel & pau… |
-| 2026-10-08 22:25:20 | [io.usefulapi/scalingo](https://github.com/m190/usefulapi-mcp) | Scalingo MCP by usefulapi | 1.10.0 | Manage Scalingo PaaS apps, deployments, containers, logs and env vars from your… |
-| 2026-10-08 22:25:23 | [io.usefulapi/sendbird](https://github.com/m190/usefulapi-mcp) | Sendbird MCP by usefulapi | 1.10.0 | MCP server for Sendbird — chat users, channels, members, and messages from your… |
-| 2026-10-08 22:25:27 | [io.usefulapi/sendgrid](https://github.com/m190/usefulapi-mcp) | SendGrid MCP by usefulapi | 1.10.0 | Send email and read templates, marketing contacts, lists, stats, bounces and un… |
-| 2026-10-08 22:25:32 | [io.usefulapi/simpletexting](https://github.com/m190/usefulapi-mcp) | SimpleTexting MCP by usefulapi | 1.10.0 | Send SMS/MMS, manage contacts, and read campaigns, messages and media on Simple… |
-| 2026-10-08 22:25:38 | [io.usefulapi/speechmatics](https://github.com/m190/usefulapi-mcp) | Speechmatics MCP by usefulapi | 1.10.0 | Transcribe audio and video with Speechmatics speech-to-text from Claude and any… |
-| 2026-10-08 22:25:43 | [io.usefulapi/spikesh](https://github.com/m190/usefulapi-mcp) | Spike.sh MCP by usefulapi | 1.10.0 | Read Spike.sh incidents, on-call, escalations and services; acknowledge, resolv… |
-| 2026-10-08 22:25:48 | [io.usefulapi/squadcast](https://github.com/m190/usefulapi-mcp) | Squadcast MCP by usefulapi | 1.10.0 | Read incidents, services, teams, on-call schedules; acknowledge, resolve and no… |
-| 2026-10-08 22:25:52 | [io.usefulapi/statuspal](https://github.com/m190/usefulapi-mcp) | StatusPal MCP by usefulapi | 1.10.0 | Read status-page status, services, incidents and metrics; create, update and pu… |
-| 2026-10-08 22:25:56 | [io.usefulapi/stream](https://github.com/m190/usefulapi-mcp) | Stream MCP by usefulapi | 1.10.0 | Query channels, search messages, and read threads, users and reactions in your… |
-| 2026-10-08 22:26:04 | [io.usefulapi/swell](https://github.com/m190/usefulapi-mcp) | Swell MCP by usefulapi | 1.10.0 | Manage your Swell headless-commerce store — products, orders, customers, and su… |
-| 2026-10-08 22:26:07 | [io.usefulapi/tailscale](https://github.com/m190/usefulapi-mcp) | Tailscale MCP by usefulapi | 1.10.0 | Read devices, users, keys, ACLs and DNS for a tailnet; manage devices, routes a… |
-| 2026-10-08 22:26:18 | [io.usefulapi/twenty](https://github.com/m190/usefulapi-mcp) | Twenty MCP by usefulapi | 1.10.0 | Read people, companies, opportunities, notes and tasks; create and update recor… |
-| 2026-10-08 22:26:20 | com.transcriptdock/mcp |  | 0.1.1 | YouTube and TikTok transcripts: get_video_transcript in one call, jobs, exports… |
-| 2026-10-08 22:26:26 | [io.usefulapi/uploadcare](https://github.com/m190/usefulapi-mcp) | Uploadcare MCP by usefulapi | 1.10.0 | Manage Uploadcare files, groups and webhooks; upload and store files. |
-| 2026-10-08 22:26:29 | [io.usefulapi/vital](https://github.com/m190/usefulapi-mcp) | Vital MCP by usefulapi | 1.10.0 | Read wearables and lab health data — sleep, activity, workouts, timeseries, lab… |
-| 2026-10-08 22:26:40 | [io.usefulapi/zendesk](https://github.com/m190/usefulapi-mcp) | Zendesk MCP by usefulapi | 1.10.0 | Read tickets, users, orgs, macros and satisfaction ratings; create, update and… |
-| 2026-10-08 22:28:14 | com.masshomecomfort/contractors | Mass Home Comfort | 1.0.0 | Find local home-improvement contractors in any Massachusetts town and request e… |
-| 2026-10-08 22:28:26 | [io.github.iowarp/adios-mcp](https://github.com/iowarp/clio-kit) | CLIO Adios | 2.2.5 | Fetch and analyze BP5 data files using ADIOS2. Access scientific data, metadata… |
-| 2026-10-08 22:28:28 | [io.github.iowarp/arxiv-mcp](https://github.com/iowarp/clio-kit) | CLIO Arxiv | 2.2.5 | Search arXiv by topic, author, title or date, read paper details, and export Bi… |
-| 2026-10-08 22:28:31 | [io.github.iowarp/chronolog-mcp](https://github.com/iowarp/clio-kit) | CLIO Chronolog | 2.0.3 | Record and retrieve agent interactions in a ChronoLog log store. |
-| 2026-10-08 22:28:32 | [io.github.iowarp/compression-mcp](https://github.com/iowarp/clio-kit) | CLIO Compression | 2.2.5 | Compress and decompress files with gzip and report the compression ratio. |
-| 2026-10-08 22:28:34 | [io.github.iowarp/darshan-mcp](https://github.com/iowarp/clio-kit) | CLIO Darshan | 2.2.5 | Darshan I/O profiler MCP server for analyzing I/O trace files |
-| 2026-10-08 22:28:35 | [io.github.iowarp/geo-mcp](https://github.com/iowarp/clio-kit) | CLIO Geo | 2.3.1 | MCP server for rendering GeoJSON vector layers into map images with basemaps |
-| 2026-10-08 22:28:36 | [io.github.iowarp/hdf5-mcp](https://github.com/iowarp/clio-kit) | CLIO Hdf5 | 2.2.6 | Open HDF5 files, browse groups, inspect datasets and attributes, and read or su… |
-| 2026-10-08 22:28:37 | [io.github.iowarp/jarvis-mcp](https://github.com/iowarp/clio-kit) | CLIO Jarvis | 3.7.4 | JARVIS-CD MCP with a compact user pipeline contract and explicit admin compatib… |
-| 2026-10-08 22:28:38 | [io.github.iowarp/lmod-mcp](https://github.com/iowarp/clio-kit) | CLIO Lmod | 3.0.1 | List, search and inspect Lmod environment modules, and save or restore module c… |
-| 2026-10-08 22:28:39 | [io.github.iowarp/ndp-mcp](https://github.com/iowarp/clio-kit) | CLIO Ndp | 2.2.5 | National Data Platform (NDP) MCP server for searching and discovering datasets… |
-| 2026-10-08 22:28:40 | [io.github.iowarp/node-hardware-mcp](https://github.com/iowarp/clio-kit) | CLIO Node Hardware | 2.3.0 | Report CPU, memory, disk, network, GPU and process information for local or rem… |
-| 2026-10-08 22:28:42 | [io.github.iowarp/pandas-mcp](https://github.com/iowarp/clio-kit) | CLIO Pandas | 2.3.0 | Load tabular data, then clean, filter, group, merge and summarize it with panda… |
-| 2026-10-08 22:28:43 | [io.github.iowarp/parallel-sort-mcp](https://github.com/iowarp/clio-kit) | CLIO Parallel Sort | 2.3.0 | Sort, filter and summarize large log files by timestamp, level or keyword. |
-| 2026-10-08 22:28:44 | [io.github.iowarp/paraview-mcp](https://github.com/iowarp/clio-kit) | CLIO Paraview | 2.2.5 | Visualize simulation results in ParaView: load fields, then slice, contour, col… |
-| 2026-10-08 22:28:45 | [io.github.iowarp/parquet-mcp](https://github.com/iowarp/clio-kit) | CLIO Parquet | 2.2.5 | Summarize Parquet files, preview columns, read row slices and aggregate values. |
-| 2026-10-08 22:28:46 | [io.github.iowarp/plot-mcp](https://github.com/iowarp/clio-kit) | CLIO Plot | 2.2.5 | Draw line, bar, scatter, histogram, heatmap and time-series plots from tabular… |
-| 2026-10-08 22:28:47 | [io.github.iowarp/scientific-catalog-mcp](https://github.com/iowarp/clio-kit) | CLIO Scientific Catalog | 1.1.4 | Operator-owned scientific dataset discovery for remote agents |
-| 2026-10-08 22:28:48 | [io.github.iowarp/seismology-mcp](https://github.com/iowarp/clio-kit) | CLIO Seismology | 2.3.1 | MCP server for analyzing SAC seismic-waveform files and TAR archives: inspect m… |
-| 2026-10-08 22:28:49 | [io.github.iowarp/slurm-mcp](https://github.com/iowarp/clio-kit) | CLIO Slurm | 3.0.2 | Submit, list, inspect and cancel Slurm jobs, and describe the cluster. |
-| 2026-10-08 22:28:50 | [io.github.iowarp/spack-mcp](https://github.com/iowarp/clio-kit) | CLIO Spack | 2.3.1 | Structured Spack discovery and installation tools for scientific agents |
-| 2026-10-08 22:28:51 | [io.github.iowarp/terrain-mcp](https://github.com/iowarp/clio-kit) | CLIO Terrain | 2.2.5 | MCP server for terrain analysis: DEM slope/aspect/suitability and point-cloud r… |
-| 2026-10-08 22:28:54 | [io.github.iowarp/web-mcp](https://github.com/iowarp/clio-kit) | CLIO Web | 2.1.3 | Provider-fixed web search plus transparent URL, DOI, and document fetching |
-| 2026-10-08 22:30:16 | [io.github.ZzNible/network-evidence](https://github.com/ZzNible/network-evidence) | Network Evidence MCP | 0.0.1 | Read-only offline network profiles, caller-supplied Discovery and historical/sy… |
-| 2026-10-08 22:36:57 | [io.github.aegisgatesecurity/aegisgate-mcp](https://github.com/aegisgatesecurity/aegisgate-mcp) | AegisGate MCP | 1.3.0 | Secure MCP server framework with 22 security layers and ML threat detection. Ze… |
-| 2026-10-08 22:37:54 | io.github.saulius876-lgtm/website-content-crawler | Website to Markdown | 1.0.0 | Web pages and whole sites to clean Markdown for RAG and AI agents. Crawls links… |
-| 2026-10-08 22:42:57 | [ai.cloudxray/finops-directory](https://github.com/cloudxrayai/cloudxray-ai) | CloudXray AI FinOps Directory | 1.0.0 | Search and compare 290+ FinOps and cloud cost vendors from the CloudXray AI dir… |
-| 2026-10-08 22:43:26 | [io.github.VistaDigit/flogpt](https://github.com/VistaDigit/flogpt) |  | 1.1.2 | Operate a floGPT workspace: AI voice agents, call transcripts, CRM, knowledge a… |
-| 2026-10-08 22:44:23 | com.travelriskapi/travel-risk-api | Travel Risk API | 1.0.0 | Country travel risk, government advisories, disaster and conflict alerts, fligh… |
-| 2026-10-08 22:44:57 | [ai.bamf/bamf](https://github.com/houstongolden/bamfaiapp) | BAMF.ai | 1.1.0 | LinkedIn and X content, scheduling, analytics and outreach agent for founders,… |
-| 2026-10-08 22:47:59 | app.lediv/mcp | Lediv | 0.6.0 | Visual website builder synced with real code. Build, publish and maintain websi… |
-| 2026-10-08 23:04:11 | [io.github.cafferychen777/chatspatial](https://github.com/cafferychen777/ChatSpatial) | ChatSpatial | 1.5.5 | Schema-enforced spatial transcriptomics analysis with 20 tools and 66 methods v… |
-| 2026-10-08 23:06:12 | com.fluotest/mcp | FluoTest | 1.0.0 | Create, edit and publish scored quizzes and read results from any MCP client. F… |
-| 2026-10-08 23:12:39 | [io.github.klarluft/gitwarren](https://github.com/klarluft/gitwarren-app) | GitWarren | 0.1.18 | Code review on your own machine, for you and your coding agent. Nothing leaves… |
-| 2026-10-08 23:15:51 | [io.github.TKCollective/tanilo-mcp](https://github.com/TKCollective/tanilo-mcp) | Tanilo | 3.0.0 | Tanilo checks the premise before an AI agent acts. |
+| 2026-10-08 23:26:58 | [io.github.kieransimkin/danceflow](https://github.com/kieransimkin/DanceFlow) | DanceFlow | 0.1.0 | Local KeywordMoves and PixelCue tools for agents. https://kieransimkin.co.uk/da… |
+| 2026-10-08 23:29:13 | com.frameanyphoto/prints | FrameAnyPhoto | 1.1.0 | Framed prints of public-domain art and NASA photos: search works, price prints,… |
+| 2026-10-08 23:31:47 | io.calcupedia/calcupedia | Calcupedia | 1.0.0 | 2,400+ calculators and unit converters with exact results and a live calculator… |
+| 2026-10-08 23:34:15 | com.enhancedint/shesmydoglady | Book ShesMyDogLady | 1.0.0 | Book with ShesMyDogLady: services, prices and open times. No key needed. |
+| 2026-10-08 23:43:43 | [io.github.pipeworx-io/court-listener](https://github.com/pipeworx-io/mcp-court-listener) | Court Listener | 0.1.4 | CourtListener MCP — Free Law Project's CourtListener API (v4). |
+| 2026-10-08 23:43:54 | [io.github.pipeworx-io/espn](https://github.com/pipeworx-io/mcp-espn) | Espn | 0.1.3 | ESPN MCP — keyless multi-sport live scores, teams, and news via ESPN's public s… |
+| 2026-10-08 23:44:17 | [io.github.pipeworx-io/freshdesk](https://github.com/pipeworx-io/mcp-freshdesk) | Freshdesk | 0.1.4 | Freshdesk MCP Pack — helpdesk ticket and contact management via Freshdesk API v… |
+| 2026-10-08 23:44:44 | [io.github.pipeworx-io/lemmy](https://github.com/pipeworx-io/mcp-lemmy) | Lemmy | 0.1.4 | Lemmy MCP — public reads on any Lemmy instance. |
+| 2026-10-08 23:44:57 | [io.github.pipeworx-io/n8n](https://github.com/pipeworx-io/mcp-n8n) | N8n | 0.1.3 | n8n MCP — query your own n8n instance (BYO). |
+| 2026-10-08 23:45:11 | [io.github.pipeworx-io/opendatasoft](https://github.com/pipeworx-io/mcp-opendatasoft) | Opendatasoft | 0.1.4 | Opendatasoft (generic portal) MCP. |
+| 2026-10-08 23:45:23 | [io.github.pipeworx-io/oregon-code](https://github.com/pipeworx-io/mcp-oregon-code) | Oregon Code | 0.1.3 | Oregon Revised Statutes — state statutes by citation. |
+| 2026-10-08 23:45:55 | [io.github.pipeworx-io/riot-games](https://github.com/pipeworx-io/mcp-riot-games) | Riot Games | 0.1.4 | Riot Games API MCP. |
+| 2026-10-08 23:46:09 | [io.github.pipeworx-io/social-signal](https://github.com/pipeworx-io/mcp-social-signal) | Social Signal | 0.1.3 | Social Signal — post-VOLUME TIME SERIES across the open social networks that |
+| 2026-10-08 23:46:23 | [io.github.pipeworx-io/solscan](https://github.com/pipeworx-io/mcp-solscan) | Solscan | 0.1.3 | Solscan MCP — Solana block-explorer + network analytics |
+| 2026-10-08 23:46:34 | [io.github.pipeworx-io/statuspage](https://github.com/pipeworx-io/mcp-statuspage) | Statuspage | 0.1.2 | Service status / uptime MCP — Atlassian Statuspage v2. |
+| 2026-10-08 23:46:48 | [io.github.pipeworx-io/wayback](https://github.com/pipeworx-io/mcp-wayback) | Wayback | 0.1.3 | Internet Archive Wayback Machine MCP. |
+| 2026-10-08 23:47:00 | [io.github.pipeworx-io/west-virginia-code](https://github.com/pipeworx-io/mcp-west-virginia-code) | West Virginia Code | 0.1.3 | West Virginia Code — state statutes by citation. |
+| 2026-10-08 23:47:11 | [io.github.pipeworx-io/wisconsin-code](https://github.com/pipeworx-io/mcp-wisconsin-code) | Wisconsin Code | 0.1.3 | Wisconsin Statutes — state statutes by citation. |
+| 2026-10-08 23:47:29 | [io.github.pipeworx-io/algorithm-finder](https://github.com/pipeworx-io/mcp-algorithm-finder) | Algorithm Finder | 0.1.0 | Algorithm Finder MCP — which algorithm, data structure or technique fits a |
+| 2026-10-08 23:47:55 | [org.lettras/word-search](https://github.com/Artificialss/lettras-sdk) | Lettras word search | 0.2.0 | Create word-search puzzles in 6 languages (es, en, pt, fr, de, it) with native… |
+| 2026-10-08 23:48:20 | [io.github.pipeworx-io/ats-boards](https://github.com/pipeworx-io/mcp-ats-boards) | Ats Boards | 0.1.0 | ATS Boards MCP — public job-board postings across eight applicant-tracking |
+| 2026-10-08 23:49:10 | [io.github.pipeworx-io/bounceban](https://github.com/pipeworx-io/mcp-bounceban) | Bounceban | 0.1.0 | BounceBan MCP — wraps the BounceBan email-verification API (bounceban.com) |
+| 2026-10-08 23:49:59 | [io.github.pipeworx-io/bug-bounty-programs](https://github.com/pipeworx-io/mcp-bug-bounty-programs) | Bug Bounty Programs | 0.1.0 | bug-bounty-programs |
+| 2026-10-08 23:50:49 | [io.github.pipeworx-io/california-tax-appeals](https://github.com/pipeworx-io/mcp-california-tax-appeals) | California Tax Appeals | 0.1.0 | California Office of Tax Appeals (OTA) opinions — search by statute |
+| 2026-10-08 23:51:39 | [io.github.pipeworx-io/fl-medical-exclusions](https://github.com/pipeworx-io/mcp-fl-medical-exclusions) | Fl Medical Exclusions | 0.1.0 | Florida AHCA Medicaid Sanctioned Providers screening — check a provider |
+| 2026-10-08 23:52:09 | com.fusehealth/mcp | FUSE Health | 0.1.0 | Commerce platform for health and wellness brands: offerings, pricing, promos, s… |
+| 2026-10-08 23:52:29 | [io.github.pipeworx-io/forager](https://github.com/pipeworx-io/mcp-forager) | Forager | 0.1.0 | Forager MCP — wraps the Forager person-phone-lookup API (forager.ai) |
+| 2026-10-08 23:53:18 | [io.github.pipeworx-io/icypeas](https://github.com/pipeworx-io/mcp-icypeas) | Icypeas | 0.1.0 | Icypeas MCP — wraps the Icypeas email-search API (icypeas.com) |
+| 2026-10-08 23:53:36 | com.elevenflo/mcp | ElevenFlo MCP | 1.1.1 | Court-grounded Chapter 11 bankruptcy research over hosted remote MCP |
+| 2026-10-08 23:54:09 | [io.github.pipeworx-io/leadmagic](https://github.com/pipeworx-io/mcp-leadmagic) | Leadmagic | 0.1.0 | LeadMagic MCP — wraps the LeadMagic B2B email-finder API (leadmagic.io) |
+| 2026-10-08 23:54:24 | [io.github.zeitcow/implicit-core](https://github.com/zeitcow/implicit-core) | Implicit Core | 1.0.0 | Bounded local synthetic experience addressing, selective materialization and pr… |
+| 2026-10-08 23:55:00 | [io.github.pipeworx-io/millionverifier](https://github.com/pipeworx-io/mcp-millionverifier) | Millionverifier | 0.1.0 | MillionVerifier MCP — wraps the MillionVerifier single-verify API |
+| 2026-10-09 00:05:18 | [io.github.starecz/karea-mcp](https://github.com/starecz/karea-mcp) |  | 0.12.0 | Karea task manager - 9 tools covering 70 actions, for Claude Code, Cursor, and… |
+| 2026-10-09 00:17:30 | tools.superpowers/superpowers | Superpowers | 1.0.0 | One key for AI models and paid APIs: search, compare providers on the same inpu… |
+| 2026-10-09 00:17:59 | [io.github.mdwsk88/ms-365-21v-mcp-server](https://github.com/mdwsk88/ms-365-21v-mcp-server) | MS 365-21V MCP Server | 0.1.1 | MCP server for Microsoft 365 on the 21Vianet China cloud: mail, calendar, files… |
 
 ## Data source
 
