@@ -337,6 +337,7 @@
     "ai.usecove/cove",
     "ai.usedby/usedby",
     "ai.userintuition/research",
+    "ai.varg/mcp",
     "ai.vegvis/vegvisai",
     "ai.velarion/company-intelligence",
     "ai.vendwiser/vendwiser",
@@ -922,6 +923,7 @@
     "com.audiala/mcp",
     "com.audioeye/testing-sdk-mcp",
     "com.auravms/auravms",
+    "com.aurmada.rooms/rooms",
     "com.ausca/agent-services",
     "com.authyouragent/mcp",
     "com.autoridaddigital.www/geo",
@@ -1434,6 +1436,7 @@
     "com.handovra/site",
     "com.happyscribe/happyscribe",
     "com.harborgovcon/port",
+    "com.harborrank/harborrank",
     "com.hardenvo/site",
     "com.hardfmly/site",
     "com.hardlinephone/mcp",
@@ -2345,6 +2348,7 @@
     "com.suomiatlas/area-statistics",
     "com.supasaito/supasaito",
     "com.supercatch/supercatch",
+    "com.supermailos/mail",
     "com.superpandit/kundli",
     "com.supovia/supovia",
     "com.supremetechy/amorti",
@@ -2353,6 +2357,7 @@
     "com.svgator/mcp",
     "com.swarmmemo/bulletin",
     "com.sydium/sydium",
+    "com.syfert/legal-research",
     "com.sylvarajob/sylvarajob",
     "com.synapseconnexion.www/confirme",
     "com.synapticrelay/board",
@@ -4281,6 +4286,7 @@
     "io.github.abm9111/chamber",
     "io.github.abogitoff/fuxux",
     "io.github.aborruso/ckan-mcp-server",
+    "io.github.abrudtkuhl/faxonline",
     "io.github.abuhamza/tideways-mcp-server",
     "io.github.abuzerasr/asrai",
     "io.github.abuzerasr/asrai-apikey",
@@ -4416,6 +4422,7 @@
     "io.github.apperhq/apper-mcp",
     "io.github.appwrite/mcp",
     "io.github.apurvsinghgautam/robin",
+    "io.github.arammayhem/arammayhem",
     "io.github.arc-mcp/arc-1",
     "io.github.arcmira/arcmira",
     "io.github.arcusid/arcid-mcp",
@@ -8159,6 +8166,7 @@
     "tax.zip/ziptax",
     "tc.mcp/mcp-tc",
     "team.gonogo/gonogo",
+    "team.yardstick/yardstick",
     "tech.agentbazaar/marketplace",
     "tech.amass/amass",
     "tech.blockwerk/mcp",
@@ -8204,6 +8212,7 @@
     "tools.datadive/datadive",
     "tools.feedback/mcp",
     "tools.filings/sec-filings",
+    "tools.handover/handover",
     "tools.settled/settled",
     "tools.superpowers/superpowers",
     "top.agentsapi/bridge-watch",
@@ -8533,11 +8542,11 @@
     "za.co.cryptodecentral/sovereign"
   ],
   "list": {
-    "count": 15,
-    "from": "2026-10-09T00:19:36.625327Z",
-    "path": "data/new-mcp-servers-2026-10-09T01-20-56-029569Z.csv",
-    "to": "2026-10-09T01:20:56.029569Z"
+    "count": 9,
+    "from": "2026-10-09T01:20:56.029569Z",
+    "path": "data/new-mcp-servers-2026-10-09T02-19-35-164057Z.csv",
+    "to": "2026-10-09T02:19:35.164057Z"
   },
   "source_truncated": false,
-  "window": "2026-10-09T01:20:56.029569Z"
+  "window": "2026-10-09T02:19:35.164057Z"
 }

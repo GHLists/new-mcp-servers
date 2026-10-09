@@ -1,0 +1,10 @@
+created_at,server,title,version,repository,transports,description
+2026-10-09T01:23:58.175292Z,io.github.arammayhem/arammayhem,ARAM Mayhem,1.0.0,https://github.com/arammayhem/arammayhem-mcp,streamable-http,"ARAM Mayhem builds, tiers, augments, combos and patch notes with canonical page citations."
+2026-10-09T01:45:03.086638Z,com.aurmada.rooms/rooms,Rooms by Aurmada,0.8.1,,streamable-http,Multiplayer AI rooms: bring your AI into shared rooms with other people and their AIs.
+2026-10-09T01:49:49.620054Z,tools.handover/handover,handover.tools,1.0.0,https://github.com/gammaland/handover,streamable-http,Hand work between AI agents across devices and vendors: one-shot links or an E2EE channel.
+2026-10-09T01:50:46.901872Z,com.supermailos/mail,SuperMailOS,1.0.0,,streamable-http,"Read, search, organize, draft and send business email from your SuperMailOS mailboxes."
+2026-10-09T02:05:05.855578Z,team.yardstick/yardstick,Yardstick ATS,0.6.10,https://github.com/yardstickinc/yardstick-mcp,streamable-http,"Manage hiring in Yardstick's ATS: jobs, candidates, applications, interviews, and scorecards."
+2026-10-09T02:08:36.227694Z,com.syfert/legal-research,Syfert Legal Research,1.3.0,,streamable-http,"Verify legal citations, case treatment, quotes and whole briefs against 10.7M U.S. opinions"
+2026-10-09T02:14:26.065358Z,com.harborrank/harborrank,,1.1.0,https://github.com/winsley-jeune/harborrank-skills,streamable-http,"SEO for AI agents: keywords, SERPs, backlinks, rank tracking, audits, Search Console, Analytics"
+2026-10-09T02:15:01.635211Z,io.github.abrudtkuhl/faxonline,FaxOnline,1.0.0,,streamable-http,Prepare and track US PDF faxes with user-approved checkout. No account or subscription.
+2026-10-09T02:16:08.931772Z,ai.varg/mcp,varg.ai,0.6.0,,streamable-http,"Generate video, images, speech and music with 120+ AI models and render TSX videos to MP4"
