@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-10-09T20:26:35.334418Z,io.github.shagarwal/databazaar,,1.3.1,https://github.com/shagarwal/agentdatamarketplace,streamable-http,"Agent-first data marketplace — AI agents search, purchase, and sell datasets via MCP."
+2026-10-09T20:27:01.171344Z,online.meal-planner/public-recipes,Meal Planner — free recipe beta,1.0.0-beta,,streamable-http,"Free dinner samples: search ingredients, read recipes, and learn about Plus weekly planning."
+2026-10-09T20:42:53.980158Z,io.lochless/lochless,Lochless,0.1.0,,streamable-http,"Search your documents in plain English. Returns every match with quotes, or a cited answer."
+2026-10-09T20:49:50.963098Z,io.github.afsozer/dayanak,Dayanak,2.0.0,https://github.com/afsozer/dayanak,,Citation-safe Turkish legal research: court decisions and legislation from official sources.
+2026-10-09T20:52:47.035198Z,io.github.boomtax/mcp-server,BoomTax,2.0.0,https://github.com/boomtax/mcp-server,streamable-http,"Read-only BoomTax tools for filings, forms, payers, and e-file status through OAuth."
+2026-10-09T20:57:31.085664Z,ai.mypenny/mypenny,Penny,0.4.3,,streamable-http,"Portable AI memory you own. Keep memories and notes across Claude, ChatGPT, and other AI tools."
+2026-10-09T21:00:23.656584Z,io.linkfetch/linkedin,LinkFetch: LinkedIn MCP,2.0.0,,streamable-http,"LinkedIn jobs, companies and people for AI agents, plus messages and invites via your own account."
+2026-10-09T21:00:37.770627Z,io.github.aniketatgithub/prom-mcp,prom-mcp,0.2.0,https://github.com/aniketatgithub/prom-mcp,,"Prometheus MCP server for AI agents: PromQL queries, alert explanations, series discovery."
+2026-10-09T21:03:19.607801Z,app.spliteo/spliteo,Spliteo,1.30.12,,streamable-http,"Split group expenses, settle debts and track budgets in 107 currencies. Needs Spliteo Premium."
+2026-10-09T21:05:47.37702Z,app.lovable.jessica-hill-holm/leadership-coach,Jessica Hill Holm — Coaching for Leaders Scaling,1.2.0,,streamable-http,"Executive coach's agent for leaders driving change while scaling: answers, workbooks, intro calls"
+2026-10-09T21:06:19.122059Z,aero.events/events,Events.Aero,1.0.0,,streamable-http,"Find aviation events: airshows, fly-ins, workshops and club meets. Public and read-only."
+2026-10-09T21:17:53.408364Z,com.yetanotherbrowser/yab,"Yab, Yet Another Browser",0.1.0,https://github.com/yetanotherbrowser/yab-mcp,,"Your own signed-in Mac browser for any agent: open, read and act in tabs. Local and free."
+2026-10-09T21:19:16.173176Z,io.github.Shoberman2/clipswarm,,0.1.0,https://github.com/Shoberman2/clipswarm,,"Clip YouTube videos and livestreams into viral 9:16 shorts, in parallel, for AI agents"
+2026-10-09T21:19:47.024232Z,io.github.GuardBee/security-suite,,0.2.4,https://github.com/GuardBee/guardbee-mcp,,"Bundle of secret-scanner, dependency-auditor, ssl-inspector, and dns-intelligence"
+2026-10-09T21:19:48.965147Z,io.github.andrewschristison/pondlog-ebird,Pondlog eBird,0.1.6-1,https://github.com/andrewschristison/pondlog,,"eBird MCP server. 21 tools covering eBird API v2: observations, hotspots, checklists, taxonomy."
+2026-10-09T21:19:49.502669Z,io.github.andrewschristison/pondlog-inaturalist,Pondlog iNaturalist,0.1.4-1,https://github.com/andrewschristison/pondlog,,"iNaturalist MCP server. Wildlife observations, species counts, taxa, and places worldwide."
+2026-10-09T21:19:50.116158Z,io.github.andrewschristison/pondlog-mushroomobserver,Pondlog Mushroom Observer,0.1.6-1,https://github.com/andrewschristison/pondlog,,"Mushroom Observer MCP server. Mycology observations, fungal taxonomy, and region discovery."
+2026-10-09T21:19:50.660464Z,io.github.andrewschristison/pondlog-npn,Pondlog Phenology (USA-NPN),0.1.6-1,https://github.com/andrewschristison/pondlog,,"USA National Phenology Network MCP. Bloom, leaf-out, and flight timing from NPN observers."
+2026-10-09T21:19:51.475266Z,io.github.andrewschristison/pondlog-usgs,Pondlog USGS Water,0.1.7-1,https://github.com/andrewschristison/pondlog,,"USGS Water Services MCP server. Real-time streamflow, gage height, and site metadata from NWIS."
+2026-10-09T21:19:52.274127Z,io.github.andrewschristison/pondlog,Pondlog Nature Briefing,0.4.0,https://github.com/andrewschristison/pondlog,,"Seven nature sources in one MCP: iNat, eBird, NOAA, USGS, NPN, Mushroom Observer, night sky."
+2026-10-09T21:19:52.896999Z,io.github.andrewschristison/pondlog-garden,Pondlog Garden (Deprecated),0.3.5-1,https://github.com/andrewschristison/pondlog,,DEPRECATED. Use @cropgraph/mcp instead. npx @cropgraph/mcp

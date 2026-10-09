@@ -9,41 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 20:19 UTC
+## Latest list — 2026-10-09 21:22 UTC
 
-New MCP servers published between 2026-10-09 19:22 UTC and 2026-10-09 20:19 UTC.
+New MCP servers published between 2026-10-09 20:19 UTC and 2026-10-09 21:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-09T20-19-58-877068Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-09T21-22-04-989374Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-09 19:22:12 | [io.github.b1ff/atlassian-dc-mcp-jira](https://github.com/b1ff/atlassian-dc-mcp) |  | 0.36.0 | MCP server for Atlassian Jira Data Center - search, view, and create issues |
-| 2026-10-09 19:22:13 | [io.github.b1ff/atlassian-dc-mcp-confluence](https://github.com/b1ff/atlassian-dc-mcp) |  | 0.36.0 | MCP server for Atlassian Confluence Data Center - access and manage content |
-| 2026-10-09 19:22:14 | [io.github.b1ff/atlassian-dc-mcp-bitbucket](https://github.com/b1ff/atlassian-dc-mcp) |  | 0.36.0 | MCP server for Atlassian Bitbucket Data Center - interact with repositories and… |
-| 2026-10-09 19:25:58 | dev.greatwait/mcp | GreatWait | 327cc1adfa6128b4236… | Reliable one-off and recurring HTTPS callbacks for apps and agents. |
-| 2026-10-09 19:25:59 | [dk.ullasopskrifter/recipes](https://github.com/MITCDK/ullas-mcp) | Ullas Opskrifter (Danish recipes) | 1.0.0 | Read-only Danish recipes, ingredients and categories from ullasopskrifter.dk: s… |
-| 2026-10-09 19:27:12 | [io.github.ihuzaifashoukat/x-use](https://github.com/ihuzaifashoukat/x-use) | x-use | 3.0.0 | Browser-native AI agents for X (Twitter): multi-account, MCP-ready, no X API ke… |
-| 2026-10-09 19:27:32 | io.offprint/offprint | Offprint | 1.0.0 | Publish your agent's Markdown as shareable web pages with revision provenance a… |
-| 2026-10-09 19:28:30 | [io.github.alghanim/universal-db-mcp](https://github.com/alghanim/universal-db-mcp) | Universal DB (read-only) | 0.1.0 | Read-only, guarded SQL access for AI agents: PostgreSQL, MySQL, ClickHouse, Ora… |
-| 2026-10-09 19:28:32 | de.dollea/salon | Dollea Cosmetics Salon | 1.0.0 | Find Dollea salon services, current offers and appointments in Munich, and book. |
-| 2026-10-09 19:28:59 | [io.github.jeet-dhandha/agent-webbridge](https://github.com/jeet-dhandha/agent-webbridge) |  | 1.3.0 | Drive your real, logged-in Chrome (many profiles, parallel tabs) from any MCP c… |
-| 2026-10-09 19:29:09 | [io.github.shapeandshare/ember](https://github.com/shapeandshare/ember) | ember | 0.8.0 | Calibrated advice for coding agents: typed questions in, probabilities out. App… |
-| 2026-10-09 19:29:36 | de.dollea/coworking | Dollea Beauty Coworking | 1.0.0 | Find beauty workspaces in Munich and rent them at your approved personal rates. |
-| 2026-10-09 19:30:00 | ai.agentlookups/groundrules | GroundRules - US Law Text | 1.0.0 | The original text of US federal and state law, with official sources; never a s… |
-| 2026-10-09 19:30:00 | ai.agentlookups/spoon-scout | Spoon Scout - Food Contaminant Lookup | 1.0.0 | Lab results, FDA recalls and additive rules for US packaged foods, with sources… |
-| 2026-10-09 19:44:46 | io.github.Yodaisgaming/seelig-ai-booking | seelig.ai booking | 1.0.0 | Lists the AI consulting services of seelig.ai (Switzerland) and requests a 30-m… |
-| 2026-10-09 19:45:44 | com.trademarkmind/trademark-check | TrademarkMind | 1.0.0 | Free trademark checks: brand names and logos vs U.S., international and Canadia… |
-| 2026-10-09 19:45:54 | nl.fermat360/fermat-360 | Fermat 360 | 1.0.0 | Dutch legal AI for law firms: answers from Dutch case law, legislation and EU l… |
-| 2026-10-09 19:47:29 | [io.github.PeterSitemba/kadiconnect](https://github.com/PeterSitemba/kadiconnect-mcp) | KadiConnect | 1.0.1 | Create a digital business card, tracked links and analytics from any MCP client. |
-| 2026-10-09 19:47:49 | [io.github.Cswarey16/nuvista-haven](https://github.com/Cswarey16/nuvista-mcp) | NuVista Haven MCP Server | 1.0.0 | AI front desk for NuVista Haven vacation rentals: live availability, rates, boo… |
-| 2026-10-09 19:49:21 | [io.github.VictoriaMetrics/mcp-vmanomaly](https://github.com/VictoriaMetrics/mcp-vmanomaly) |  | 0.5.0 | MCP Server for vmanomaly - VictoriaMetrics anomaly detection |
-| 2026-10-09 19:49:28 | [io.github.GuardBee/tool-poisoning-scanner](https://github.com/GuardBee/guardbee-mcp) |  | 0.2.3 | Scans MCP tool definitions for hidden instructions and confused-deputy sinks |
-| 2026-10-09 19:52:11 | io.rial/mcp | Rial | 1.0.0 | Request photos by link and verify they are real: templates, verifications and v… |
-| 2026-10-09 19:58:29 | [com.4chems/platform-api](https://github.com/4chems/mcp) | 4chems Platform — IUCLID, CHESAR & QSAR… | 0.12.1 | Remote MCP server for 4chems hosted IUCLID, CHESAR and QSAR Toolbox: onboarding… |
-| 2026-10-09 19:59:03 | [io.github.liftli-ai/liftli](https://github.com/liftli-ai/liftli-mcp) | Liftli | 1.4.6 | Strategist, ghostwriter, scheduler and analyst in one, inside your AI. LinkedIn… |
-| 2026-10-09 20:05:15 | io.feedico/feedico-mcp | Feedico: coupons, deals & products | 2.0.0 | Live coupon codes, deals and products with tracked affiliate links. Partners ke… |
-| 2026-10-09 20:06:39 | com.workinsiders/directory | Work Insiders | 1.1.0 | Search 1,000+ recruiting, HR and sales tools: prices, MCP servers, alternatives… |
-| 2026-10-09 20:08:53 | [io.github.Shahkarkhan440/easy-email-builder](https://github.com/Shahkarkhan440/Easy-Email-Builder) | Easy Email Builder | 0.1.0 | Design HTML email templates with AI: render to HTML and open them in a visual e… |
+| 2026-10-09 20:26:35 | [io.github.shagarwal/databazaar](https://github.com/shagarwal/agentdatamarketplace) |  | 1.3.1 | Agent-first data marketplace — AI agents search, purchase, and sell datasets vi… |
+| 2026-10-09 20:27:01 | online.meal-planner/public-recipes | Meal Planner — free recipe beta | 1.0.0-beta | Free dinner samples: search ingredients, read recipes, and learn about Plus wee… |
+| 2026-10-09 20:42:53 | io.lochless/lochless | Lochless | 0.1.0 | Search your documents in plain English. Returns every match with quotes, or a c… |
+| 2026-10-09 20:49:50 | [io.github.afsozer/dayanak](https://github.com/afsozer/dayanak) | Dayanak | 2.0.0 | Citation-safe Turkish legal research: court decisions and legislation from offi… |
+| 2026-10-09 20:52:47 | [io.github.boomtax/mcp-server](https://github.com/boomtax/mcp-server) | BoomTax | 2.0.0 | Read-only BoomTax tools for filings, forms, payers, and e-file status through O… |
+| 2026-10-09 20:57:31 | ai.mypenny/mypenny | Penny | 0.4.3 | Portable AI memory you own. Keep memories and notes across Claude, ChatGPT, and… |
+| 2026-10-09 21:00:23 | io.linkfetch/linkedin | LinkFetch: LinkedIn MCP | 2.0.0 | LinkedIn jobs, companies and people for AI agents, plus messages and invites vi… |
+| 2026-10-09 21:00:37 | [io.github.aniketatgithub/prom-mcp](https://github.com/aniketatgithub/prom-mcp) | prom-mcp | 0.2.0 | Prometheus MCP server for AI agents: PromQL queries, alert explanations, series… |
+| 2026-10-09 21:03:19 | app.spliteo/spliteo | Spliteo | 1.30.12 | Split group expenses, settle debts and track budgets in 107 currencies. Needs S… |
+| 2026-10-09 21:05:47 | app.lovable.jessica-hill-holm/leadership-coach | Jessica Hill Holm — Coaching for Leader… | 1.2.0 | Executive coach's agent for leaders driving change while scaling: answers, work… |
+| 2026-10-09 21:06:19 | aero.events/events | Events.Aero | 1.0.0 | Find aviation events: airshows, fly-ins, workshops and club meets. Public and r… |
+| 2026-10-09 21:17:53 | [com.yetanotherbrowser/yab](https://github.com/yetanotherbrowser/yab-mcp) | Yab, Yet Another Browser | 0.1.0 | Your own signed-in Mac browser for any agent: open, read and act in tabs. Local… |
+| 2026-10-09 21:19:16 | [io.github.Shoberman2/clipswarm](https://github.com/Shoberman2/clipswarm) |  | 0.1.0 | Clip YouTube videos and livestreams into viral 9:16 shorts, in parallel, for AI… |
+| 2026-10-09 21:19:47 | [io.github.GuardBee/security-suite](https://github.com/GuardBee/guardbee-mcp) |  | 0.2.4 | Bundle of secret-scanner, dependency-auditor, ssl-inspector, and dns-intelligen… |
+| 2026-10-09 21:19:48 | [io.github.andrewschristison/pondlog-ebird](https://github.com/andrewschristison/pondlog) | Pondlog eBird | 0.1.6-1 | eBird MCP server. 21 tools covering eBird API v2: observations, hotspots, check… |
+| 2026-10-09 21:19:49 | [io.github.andrewschristison/pondlog-inaturalist](https://github.com/andrewschristison/pondlog) | Pondlog iNaturalist | 0.1.4-1 | iNaturalist MCP server. Wildlife observations, species counts, taxa, and places… |
+| 2026-10-09 21:19:50 | [io.github.andrewschristison/pondlog-mushroomobserver](https://github.com/andrewschristison/pondlog) | Pondlog Mushroom Observer | 0.1.6-1 | Mushroom Observer MCP server. Mycology observations, fungal taxonomy, and regio… |
+| 2026-10-09 21:19:50 | [io.github.andrewschristison/pondlog-npn](https://github.com/andrewschristison/pondlog) | Pondlog Phenology (USA-NPN) | 0.1.6-1 | USA National Phenology Network MCP. Bloom, leaf-out, and flight timing from NPN… |
+| 2026-10-09 21:19:51 | [io.github.andrewschristison/pondlog-usgs](https://github.com/andrewschristison/pondlog) | Pondlog USGS Water | 0.1.7-1 | USGS Water Services MCP server. Real-time streamflow, gage height, and site met… |
+| 2026-10-09 21:19:52 | [io.github.andrewschristison/pondlog](https://github.com/andrewschristison/pondlog) | Pondlog Nature Briefing | 0.4.0 | Seven nature sources in one MCP: iNat, eBird, NOAA, USGS, NPN, Mushroom Observe… |
+| 2026-10-09 21:19:52 | [io.github.andrewschristison/pondlog-garden](https://github.com/andrewschristison/pondlog) | Pondlog Garden (Deprecated) | 0.3.5-1 | DEPRECATED. Use @cropgraph/mcp instead. npx @cropgraph/mcp |
 
 ## Data source
 
