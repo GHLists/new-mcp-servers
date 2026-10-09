@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-10-09T15:20:03.034684Z,ai.cursu/job-age-checker,Cursu Job Age Checker,1.0.0,,streamable-http,"When a job was first posted and whether it is still open, from the employer's own job link."
+2026-10-09T15:20:27.710271Z,com.gdlivre/grand-livre,Grand Livre,1.0.0,,streamable-http,"French bookkeeping for freelancers and small businesses: entries, ledger, trial balance, matching."
+2026-10-09T15:21:15.045426Z,io.github.flohoeller/affectui,affectUI,1.0.0,https://github.com/flohoeller/affectui,streamable-http,"Search, read and install agent-ready React components, screens and blocks for AI products."
+2026-10-09T15:23:36.387737Z,io.github.hypothesi/mcp-server-tauri,,0.13.1,https://github.com/hypothesi/mcp-server-tauri,,A Model Context Protocol server for use with Tauri v2 applications
+2026-10-09T15:23:42.074376Z,lt.pricebee/pricebee,PriceBee,1.2.0,,streamable-http,"Compare prices of products in online shops and of mobile plans in Lithuania, Latvia and Estonia."
+2026-10-09T15:29:31.431895Z,com.lastminutedealshq/company-signals,,1.0.0,,streamable-http,Daily open-role counts and changes for software companies; AI-compiled from public job boards.
+2026-10-09T15:34:45.610362Z,io.github.nickzren/opentargets,,0.6.1,https://github.com/nickzren/opentargets-mcp,,"Open Targets MCP server for targets, diseases, drugs, variants, and evidence"
+2026-10-09T15:37:26.13198Z,ai.zeronoise/zeronoise,ZeroNoise,1.0.0,,streamable-http,"Agents that watch the sources you approve and write cited Briefs, from your AI tools."
+2026-10-09T15:38:35.55179Z,io.github.oddsrelay/oddsrelay-mcp,OddsRelay,0.1.0,https://github.com/oddsrelay/oddsrelay-mcp,,"Read-only MCP server for OddsRelay odds data, with a token cap on every call that spends tokens."
+2026-10-09T15:40:58.13656Z,io.github.DollhouseMCP/mcp-server,DollhouseMCP,2.0.43,https://github.com/DollhouseMCP/mcp-server,,"OSS to create Personas, Skills, Templates, Agents, and Memories to customize your AI experience."
+2026-10-09T15:43:51.809312Z,io.github.salemalem/npmscan,NPMScan,3.1.0,https://github.com/salemalem/npmscan-mcp-plugin,streamable-http,"Detect malicious or vulnerable npm packages: registry search, OSV.dev and GitHub advisory lookups"
+2026-10-09T15:50:12.950464Z,com.atimeus/atimeus,Atimeüs,1.0.0,,streamable-http,"ERP for IT services firms: records, indicators and timesheets, with your own permissions."
+2026-10-09T15:51:02.890276Z,com.velocapture/velocapture,VeloCapture,1.0.0,,streamable-http,"Read-only access to your VeloCapture leads, RFPs, contacts and drafts from an AI assistant."
+2026-10-09T15:56:54.858084Z,io.github.ictechgy/apsa,APSA mobile app security audit,1.4.0,https://github.com/ictechgy/apsa,,"Local, evidence-graded Android/iOS security audits of source, APK, AAB and IPA for AI agents."
+2026-10-09T15:57:24.227871Z,com.peptlas/legal-status,Peptlas: is this peptide legal?,1.0.0,https://github.com/Peptlas/peptlas-mcp,streamable-http,"Legal status of peptides and GLP-1 drugs in the US, UK, EU, Australia, Canada, Brazil and sport."
+2026-10-09T16:00:31.07116Z,com.appfigures/mcp,Appfigures,4.0.0,https://github.com/appfigures/cli,streamable-http,"Access your app analytics, ASO tools, and app market intelligence with Appfigures."
+2026-10-09T16:02:46.287495Z,io.github.ShivaSingh9927/qampi,Qampi,0.1.2,https://github.com/ShivaSingh9927/linkedin-camp,,"LinkedIn outreach from your agent: find prospects, add leads, run campaigns, read results."
+2026-10-09T16:07:39.64371Z,ai.powerbeat/powerbeat,Powerbeat,0.2.0,,streamable-http,"Home energy for AI assistants: live Power flow, Energy history, solar forecast, and device control."
+2026-10-09T16:07:57.720291Z,dev.southern-light.mcp/marsdawn,MarsDawn,0.2.4,https://github.com/redtear1115/marsdawn-mcp,,"Export Markdown to PDF and open it in the MarsDawn app on macOS, with the marsdawn CLI."
+2026-10-09T16:14:39.978753Z,io.github.precis-finance/precis-finance-mcp,Précis Finance MCP,0.3.0,https://github.com/precis-finance/precis-finance-mcp,streamable-http,Public read-only Précis Finance MCP demo with synthetic data; no account or credentials required.
+2026-10-09T16:15:28.131886Z,media.okcseo/site-audit,OKC SEO Site Audit,1.0.0,,streamable-http,"Free check of one site for orphan pages, broken internal links and sitemap problems."
+2026-10-09T16:16:10.645521Z,com.tryplayhead/playhead,Playhead,0.2.0,,streamable-http,"Watches a video or ad from a link and answers in words, with the second of every moment."
+2026-10-09T16:17:47.068044Z,com.companydata/mcp,CompanyData,1.0.0,https://github.com/companydatacom/companydata-mcp-server,streamable-http,Company search and enrichment from official business registers in 200+ countries.
