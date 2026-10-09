@@ -9,28 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 03:19 UTC
+## Latest list — 2026-10-09 04:20 UTC
 
-New MCP servers published between 2026-10-09 02:19 UTC and 2026-10-09 03:19 UTC.
+New MCP servers published between 2026-10-09 03:19 UTC and 2026-10-09 04:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-09T03-19-45-347977Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-09T04-20-10-852537Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-09 02:34:17 | site.measuremy/analytics | measuremy.site | 1.0.0 | Cookieless web analytics your AI agent can read: traffic, spikes and what cause… |
-| 2026-10-09 02:39:50 | [io.github.jakeyoung1/veris](https://github.com/jakeyoung1/veris) |  | 0.3.0 | Provenance-first web + SEC EDGAR data for AI agents: every fact carries its ver… |
-| 2026-10-09 02:43:12 | cc.adm/google-ads | ADM Google Ads | 1.0.0 | Google Ads reports, search term analysis and AI Search campaign drafts for AI c… |
-| 2026-10-09 02:45:09 | [io.github.Janicezhhhh/agent-pulse](https://github.com/Janicezhhhh/agent-pulse) | Agent Pulse | 1.6.0 | Action-required AI dependency changes and tested tools with reproducible eviden… |
-| 2026-10-09 02:56:23 | com.rentalcal/rentalcal | RentalCal | 1.0.1 | Find direct-booking vacation rentals, check availability, and get stay quotes. |
-| 2026-10-09 03:03:20 | co.gitresume/gitresume | GitResume | 1.0.2 | Turn your resume into a polished PDF and web page: import, build, check, and pu… |
-| 2026-10-09 03:03:21 | [io.notworking/notworking](https://github.com/RyanNSJ/notworking) | NotWorking | 0.1.0 | Downdetector for AI agents: is a site, skill or MCP server failing for everyone… |
-| 2026-10-09 03:05:44 | io.github.Si40Code/super-excalidraw | Super Excalidraw | 2026.10.9 | Create editable Excalidraw diagrams with AI and an interactive MCP Apps canvas.… |
-| 2026-10-09 03:07:13 | kr.co.klisten.api/toolguard | Klisten ToolGuard | 0.1.0 | ToolGuard paid gate decisions and attestation lookup. Customer API key required… |
-| 2026-10-09 03:07:37 | com.ipmusk/mcp | IPMusk | 1.0.0 | Residential and static proxies: check usage, build proxy URLs, open tickets, ge… |
-| 2026-10-09 03:09:31 | [me.manylives/paid-tools](https://github.com/manylives-me/agent-kit) | ManyLives paid tools | 0.1.0 | 67 pay-per-call agent tools: token verdicts, web extraction, crypto data, text… |
-| 2026-10-09 03:09:52 | [io.github.wati-io/wati-mcp](https://github.com/wati-io/wati-mcp) | Wati | 1.0.0 | Manage Wati contacts, conversations, campaigns, templates and Astra AI agents. |
-| 2026-10-09 03:12:23 | [io.github.atushi1841/mlit-property-prices-mcp](https://github.com/atushi1841/kensho) | MLIT Property Prices MCP | 0.1.0 | MLIT Japan real-estate transaction prices (XIT001) via Apify actor for AI agent… |
-| 2026-10-09 03:13:52 | ca.arrowmem/arrowmem-mcp |  | 1.0.0 | Free Ollama hardening checker, plus tools for privacy architecture and the Data… |
+| 2026-10-09 03:27:39 | [io.github.taylee9809/budongsan-tax](https://github.com/taylee9809/budongsan-tax) |  | 0.1.0 | Korean real-estate tax engine and MCP server. Statute trail on every result. |
+| 2026-10-09 03:28:17 | com.ifreework/content | iFreeWork — public content | 1.0.0 | iFreeWork services, portfolio, blog, search, contacts and consent-gated message… |
+| 2026-10-09 03:30:41 | com.cyclonemachining.for/agent-door | Cyclone Machining Co. agent door | 2026.10.9 | File a quote request with a prototype and R&D machine shop in Grand Rapids, Mic… |
+| 2026-10-09 03:36:35 | com.sendfaxfast/fax | SendFaxFast | 1.1.0 | Send real faxes from AI chat. PDF, JPG or PNG. Pay per fax via Stripe link. US,… |
+| 2026-10-09 03:36:36 | com.sendfaxfast/fax-credits | SendFaxFast (AI Fax Credits) | 1.1.0 | Send faxes from AI chat with prepaid credits (1 credit = 1 fax, up to 100 pages… |
+| 2026-10-09 03:36:43 | com.experiencebamfield/experience-bamfield | Experience Bamfield | 2026.10.8 | Plan and price trips to Bamfield, BC, and build the guest's cart link. Read-onl… |
+| 2026-10-09 03:36:48 | io.github.wally827/scope-analytics-mcp | Scope Analytics | 0.1.5 | Install + query Scope analytics from an AI coding agent (Claude Code, Cursor, e… |
+| 2026-10-09 03:36:50 | com.redthreadsec/redthread | Redthread | 0.7.467 | Attack paths, scan findings and shadow AI for AI-native apps and their clouds;… |
+| 2026-10-09 03:37:20 | com.yuletidemarkets/yuletide-markets | Yuletide Markets | 1.0.0 | Christmas markets, light displays and tree farms near a US place, with official… |
+| 2026-10-09 03:44:23 | io.github.pgtriage/pgtriage | pgtriage | 0.1.4 | Read-only MCP server for evidence-based PostgreSQL performance auditing. |
+| 2026-10-09 03:46:16 | [io.github.robyroro/mcp-changeatlas](https://github.com/robyroro/mcp-changeatlas) | ChangeAtlas | 0.1.0 | Local Git change impact and related test discovery with inspectable import paths |
+| 2026-10-09 03:47:08 | food.alma/mcp | Alma | 1.0.0 | Your Alma food log in your AI assistant: meals, micronutrients, Alma Score, goa… |
+| 2026-10-09 04:00:22 | io.github.danieljames-dev/agent-assurance | AION Agent Assurance Gateway | 0.1.2 | Read-only MCP gateway. Paid verify is $0.01 USDC on Base. |
+| 2026-10-09 04:00:40 | online.aiplumber/gta-plumber | GTA AI Plumber | 0.4.0 | Find, compare, and request GTA plumbers with multiple quotes and human-assisted… |
+| 2026-10-09 04:03:10 | app.namehound/namehound | NameHound | 1.0.0 | Is a brand name free as a .com/.net/.org/.app domain and as a Bluesky, Mastodon… |
+| 2026-10-09 04:08:43 | [io.github.robyroro/mcp-latchpoint](https://github.com/robyroro/mcp-latchpoint) | Latchpoint | 0.1.1 | Offline, read-only auditing of MCP client configuration files with redacted fin… |
+| 2026-10-09 04:09:05 | app.wellintel/permits | Well-Intel Drilling Permits | 1.0.0 | Oil and gas drilling permits for TX, NM, OK and LA, from state regulators. Well… |
+| 2026-10-09 04:09:29 | com.lettrove/lettrove | Lettrove | 1.0.1 | Design emails from a brief, send tests, send to your lists now or scheduled, an… |
+| 2026-10-09 04:10:35 | [io.github.arctop/seamless](https://github.com/arctop/seamless) | Seamless | 0.6.0 | Local-first shared memory and task coordination for AI coding agents. Go daemon… |
+| 2026-10-09 04:14:15 | com.jev-agent/jagent | Jagent | 1.0.0 | Grade essays, check resumes, and ask typed yes/no, choice and rubric questions,… |
+| 2026-10-09 04:15:10 | [io.github.KenTaniguchi-R/ledgr](https://github.com/KenTaniguchi-R/ledgr) | Ledgr | 0.3.4 | Self-hosted personal finance app with bank sync, budgets, net worth and investm… |
+| 2026-10-09 04:18:37 | io.github.Kaixxrua/aigc-radar | AIGC Radar MCP | 1.2.0 | AI-vertical index: arXiv papers, curated GitHub AI projects, daily rankings. Ze… |
 
 ## Data source
 

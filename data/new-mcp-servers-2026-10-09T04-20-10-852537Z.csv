@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-10-09T03:27:39.140298Z,io.github.taylee9809/budongsan-tax,,0.1.0,https://github.com/taylee9809/budongsan-tax,,Korean real-estate tax engine and MCP server. Statute trail on every result.
+2026-10-09T03:28:17.108485Z,com.ifreework/content,iFreeWork — public content,1.0.0,,streamable-http,"iFreeWork services, portfolio, blog, search, contacts and consent-gated messages."
+2026-10-09T03:30:41.869862Z,com.cyclonemachining.for/agent-door,Cyclone Machining Co. agent door,2026.10.9,,streamable-http,"File a quote request with a prototype and R&D machine shop in Grand Rapids, Michigan."
+2026-10-09T03:36:35.068655Z,com.sendfaxfast/fax,SendFaxFast,1.1.0,,streamable-http,"Send real faxes from AI chat. PDF, JPG or PNG. Pay per fax via Stripe link. US, CA, AU, NZ + 39"
+2026-10-09T03:36:36.833671Z,com.sendfaxfast/fax-credits,SendFaxFast (AI Fax Credits),1.1.0,,streamable-http,"Send faxes from AI chat with prepaid credits (1 credit = 1 fax, up to 100 pages). PDF, JPG, PNG."
+2026-10-09T03:36:43.686261Z,com.experiencebamfield/experience-bamfield,Experience Bamfield,2026.10.8,,streamable-http,"Plan and price trips to Bamfield, BC, and build the guest's cart link. Read-only; no key to connect."
+2026-10-09T03:36:48.698521Z,io.github.wally827/scope-analytics-mcp,Scope Analytics,0.1.5,,,"Install + query Scope analytics from an AI coding agent (Claude Code, Cursor, etc.)."
+2026-10-09T03:36:50.024993Z,com.redthreadsec/redthread,Redthread,0.7.467,,streamable-http,"Attack paths, scan findings and shadow AI for AI-native apps and their clouds; vet MCP servers."
+2026-10-09T03:37:20.211519Z,com.yuletidemarkets/yuletide-markets,Yuletide Markets,1.0.0,,streamable-http,"Christmas markets, light displays and tree farms near a US place, with official dates and sources."
+2026-10-09T03:44:23.041327Z,io.github.pgtriage/pgtriage,pgtriage,0.1.4,,,Read-only MCP server for evidence-based PostgreSQL performance auditing.
+2026-10-09T03:46:16.450529Z,io.github.robyroro/mcp-changeatlas,ChangeAtlas,0.1.0,https://github.com/robyroro/mcp-changeatlas,,Local Git change impact and related test discovery with inspectable import paths
+2026-10-09T03:47:08.795607Z,food.alma/mcp,Alma,1.0.0,,streamable-http,"Your Alma food log in your AI assistant: meals, micronutrients, Alma Score, goals, and weight."
+2026-10-09T04:00:22.500116Z,io.github.danieljames-dev/agent-assurance,AION Agent Assurance Gateway,0.1.2,,streamable-http,Read-only MCP gateway. Paid verify is $0.01 USDC on Base.
+2026-10-09T04:00:40.651541Z,online.aiplumber/gta-plumber,GTA AI Plumber,0.4.0,,streamable-http,"Find, compare, and request GTA plumbers with multiple quotes and human-assisted fulfillment."
+2026-10-09T04:03:10.49013Z,app.namehound/namehound,NameHound,1.0.0,,streamable-http,"Is a brand name free as a .com/.net/.org/.app domain and as a Bluesky, Mastodon, npm or PyPI handle?"
+2026-10-09T04:08:43.20313Z,io.github.robyroro/mcp-latchpoint,Latchpoint,0.1.1,https://github.com/robyroro/mcp-latchpoint,,"Offline, read-only auditing of MCP client configuration files with redacted findings"
+2026-10-09T04:09:05.939923Z,app.wellintel/permits,Well-Intel Drilling Permits,1.0.0,,streamable-http,"Oil and gas drilling permits for TX, NM, OK and LA, from state regulators. Well-Intel Pro plan."
+2026-10-09T04:09:29.848063Z,com.lettrove/lettrove,Lettrove,1.0.1,,streamable-http,"Design emails from a brief, send tests, send to your lists now or scheduled, and read delivery."
+2026-10-09T04:10:35.638666Z,io.github.arctop/seamless,Seamless,0.6.0,https://github.com/arctop/seamless,,Local-first shared memory and task coordination for AI coding agents. Go daemon plus headless CLI.
+2026-10-09T04:14:15.107469Z,com.jev-agent/jagent,Jagent,1.0.0,,streamable-http,"Grade essays, check resumes, and ask typed yes/no, choice and rubric questions, powered by Jev."
+2026-10-09T04:15:10.586902Z,io.github.KenTaniguchi-R/ledgr,Ledgr,0.3.4,https://github.com/KenTaniguchi-R/ledgr,,"Self-hosted personal finance app with bank sync, budgets, net worth and investment tracking"
+2026-10-09T04:18:37.524713Z,io.github.Kaixxrua/aigc-radar,AIGC Radar MCP,1.2.0,,streamable-http,"AI-vertical index: arXiv papers, curated GitHub AI projects, daily rankings. Zero-setup, read-only."
