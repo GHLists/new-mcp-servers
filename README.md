@@ -9,31 +9,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 22:20 UTC
+## Latest list — 2026-10-09 23:20 UTC
 
-New MCP servers published between 2026-10-09 21:22 UTC and 2026-10-09 22:20 UTC.
+New MCP servers published between 2026-10-09 22:20 UTC and 2026-10-09 23:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-09T22-20-06-945048Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-09T23-20-39-295499Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-09 21:27:52 | [io.github.geter-andru/andru-intelligence](https://github.com/geter-andru/mcp-server-andru-intelligence.git) | Andru | 1.9.3 | Revenue intelligence for complex B2B growth. |
-| 2026-10-09 21:28:16 | [com.opensolr/opensolr-mcp](https://github.com/phpcip/opensolr-mcp) |  | 0.7.0 | Managed Apache Solr for agents: hybrid BM25+kNN search, server-side embeddings,… |
-| 2026-10-09 21:30:29 | [io.github.johnInarti/fractalai](https://github.com/johnInarti/fractalai-mcp-server) | FractalAI Post-Quantum Proofs | 0.1.3 | Post-quantum (ML-DSA-65/Dilithium-3) proof, provenance & AI-decision receipts,… |
-| 2026-10-09 21:35:10 | [io.github.beadhive/beadhive](https://github.com/beadhive/beadhive) | Beadhive | 0.24.1 | Manage cross-repository beads work, hive status, and Beadhive workflows through… |
-| 2026-10-09 21:38:35 | [io.github.mockzilla/mockzilla-mcp](https://github.com/mockzilla/mockzilla-mcp) |  | 0.2.28 | Mock OpenAPI specs locally, or log in to deploy hosted mocks on mockzilla.org f… |
-| 2026-10-09 21:39:33 | fun.paxie.api/data | Paxie.Matrix Data API | 1.2.0 | Memecoin intel for agents: Robinhood Chain + Solana bursts, rug checks, call ve… |
-| 2026-10-09 21:40:03 | com.bettrails/bettrails | Bettrails | 0.3.0 | eSoccer, esports and NBA 2K stats: head-to-heads, player profiles, today's matc… |
-| 2026-10-09 21:58:06 | dev.workers.mikeyang7789.cn-evidence-mcp-public/cn-evidence | CN Evidence | 0.1.3 | China company data: 64 tools at 0.011 USDC/call via MCP/x402; legacy Basic/Full… |
-| 2026-10-09 21:58:47 | com.radikabunavi/mcp | ラジ株ナビ (Radikabunavi) - Japanese stock d… | 1.0.0 | Japanese stocks from EDINET/TDnet filings: fair-value range, 6-axis score, DCF,… |
-| 2026-10-09 22:00:13 | [io.github.b2bsearch/mcp](https://github.com/b2bsearch/mcp) | b2bsearch: B2B contacts and account sig… | 0.1.0 | B2B contacts and account signals on Apify: new hires, email format, lookalikes,… |
-| 2026-10-09 22:02:34 | [com.statsmapped/public-data](https://github.com/ActiveGuy/statsmapped-mcp) | StatsMapped Public Data | 0.3.1 | Public statistics for Ireland and the UK: housing, crime, health, economy, welf… |
-| 2026-10-09 22:10:29 | [io.github.ZLDR/identitate-md](https://github.com/ZLDR/IdentitateMD) | IdentitateMD — Logos for Moldovan publi… | 1.0.7 | Search and install logos and brand data for public institutions in the Republic… |
-| 2026-10-09 22:10:59 | [io.github.faucetdb/faucet](https://github.com/faucetdb/faucet) | Faucet | 0.1.15 | SQL database to MCP tools and REST API: PostgreSQL, MySQL, SQL Server, Oracle,… |
-| 2026-10-09 22:13:30 | [io.github.Cratis/chronicle-mcp](https://github.com/Cratis/Chronicle.Mcp) | Cratis Chronicle | 2.0.0 | Inspect Cratis Chronicle event stores read-only by default; opt-in, authorized… |
-| 2026-10-09 22:13:52 | io.github.mettini/frameskim | Frameskim | 0.1.0 | YouTube frames at exact timestamps and the moments that answer a query, for AI… |
-| 2026-10-09 22:15:52 | [io.github.mariokernich/imgflip-mcp](https://github.com/mariokernich/imgflip-mcp) |  | 1.1.0 | Browse Imgflip meme templates and generate memes (caption images, AI memes) via… |
-| 2026-10-09 22:19:33 | com.iscabox/iscabox | iscabox | 1.2.0 | Sport fishing in Brazil: species, spots, tides, lures and gear with today's pri… |
+| 2026-10-09 22:21:09 | com.freightfa.mcp/freightfa | FreightFA | 0.4.1 | Freight rate benchmarks (truckload, LTL, rail, intermodal, barge), market outlo… |
+| 2026-10-09 22:21:20 | [io.github.tickadoo/tickadoo-mcp](https://github.com/tickadoo/tickadoo-mcp) | tickadoo Experiences and Events | 2.1.0 | Discover and book theatre, tours, attractions, and live experiences worldwide.… |
+| 2026-10-09 22:28:05 | [io.github.kefyusuf/search-memory-mcp](https://github.com/kefyusuf/search-memory-mcp) | Search Memory | 1.0.0 | Free web search and long-term memory for AI assistants. No API keys; data stays… |
+| 2026-10-09 22:29:53 | [ai.livegraph/livegraph](https://github.com/homezloco/livegraph) | LiveGraph | 0.1.0 | Live, editable canvas of your agent hierarchy — watch, interrupt, and reroute r… |
+| 2026-10-09 22:33:16 | com.radikabunavi/japan-stock-edinet | ラジ株ナビ (Radikabunavi) - Japanese stock d… | 1.0.0 | Japanese stocks from EDINET/TDnet filings: fair-value range, 6-axis score, DCF,… |
+| 2026-10-09 22:38:02 | [io.github.krishnakaushik195/desidata-mcp](https://github.com/krishnakaushik195/desidata) | DesiData | 0.1.0 | Search India datasets; inspect sources, licences and previews; get notebook and… |
+| 2026-10-09 22:40:11 | [com.vidwords/youtube](https://github.com/haljishi/vidwords-mcp) | VidWords YouTube | 1.2.0 | Extract YouTube transcripts, search what was said, and read on-screen frames wi… |
+| 2026-10-09 22:40:56 | [com.foxyinvoice/foxyinvoice](https://github.com/seolith-llc/seolith-tax-manager) | FoxyInvoice | 1.0.0 | Invoicing tools for AI assistants: clients, draft invoices with computed tax, a… |
+| 2026-10-09 22:43:40 | [io.github.BenAHammond/code-auditor-mcp](https://github.com/BenAHammond/code-auditor-mcp) |  | 5.0.1 | Enforces architectural invariants and code quality rules inside your AI agent's… |
+| 2026-10-09 22:44:57 | ai.theaggregate/the-aggregate | The Aggregate — LLM benchmark aggregate | 1.0.2 | LLM rankings from public benchmarks, model comparisons and source-linked result… |
+| 2026-10-09 22:47:11 | ai.agenticplug/agent-ready-report | Agent Ready Report | 1.0.0 | Scan any public website and see how ready it is for AI agents and AI search, ex… |
+| 2026-10-09 22:48:24 | [io.github.ronniechong/healthchecks-io-mcp](https://github.com/ronniechong/healthchecks-io-mcp) |  | 2.1.2 | Unofficial MCP server for managing Healthchecks.io checks via the Management API |
+| 2026-10-09 22:49:59 | au.com.staylonger/mcp | Staylonger | 1.0.0 | Search, check availability and quote furnished extended-stay rentals (30+ night… |
+| 2026-10-09 22:51:48 | dev.postcache/postcache | postcache | 1.0.0 | Public, short-lived media URLs for agents posting to Instagram, Threads and Fac… |
+| 2026-10-09 22:52:48 | com.tomorrowlives/engines | Tomorrow Lives Engines | 1.0.0 | Print designs, PBR textures, characters, terrain and speech for agents, made pr… |
+| 2026-10-09 22:53:36 | [com.ogmake/mcp](https://github.com/IgorBaranov/ogmake) |  | 0.1.1 | Generate og:image social cards and signed ogmake.com image URLs from your AI as… |
+| 2026-10-09 22:56:20 | com.startupignition/toolsuite | Startup Ignition ToolSuite | 1.0.0 | Validate startup ideas with your AI assistant through Startup Ignition ToolSuit… |
+| 2026-10-09 23:00:09 | com.sirauysal/thema | Thema: Astrology Software | 3.0.0 | Astrology charts and classical techniques: natal, transits, horary, primary dir… |
+| 2026-10-09 23:00:10 | [kr.co.mlpc/cite-gate](https://github.com/cite-gate/cite-gate) | cite-gate | 0.1.0 | Checks that every quote in an AI-written script appears word for word in its so… |
+| 2026-10-09 23:01:43 | [io.github.peter4leadson/local-workspace-mcp](https://github.com/peter4leadson/local-workspace-mcp) |  | 0.1.0 | Bounded, read-oriented filesystem, git and named-task tools over authorized wor… |
+| 2026-10-09 23:07:20 | [uk.co.herstack/herstack](https://github.com/Suggestic/herstack-mcp) | HerStack | 1.2.1 | Read-only UK women's midlife health guidance: search, PubMed-backed evidence, s… |
+| 2026-10-09 23:08:45 | [io.github.pipeworx-io/sba-loans](https://github.com/pipeworx-io/mcp-sba-loans) | Sba Loans | 0.1.3 | SBA loans MCP — U.S. Small Business Administration 7(a) / 504 FOIA loan |
+| 2026-10-09 23:09:09 | [io.github.pipeworx-io/youtube](https://github.com/pipeworx-io/mcp-youtube) | Youtube | 0.1.3 | YouTube MCP — wraps the YouTube Data API v3 (BYO API key) |
+| 2026-10-09 23:09:24 | [io.github.pipeworx-io/american-samoa-code](https://github.com/pipeworx-io/mcp-american-samoa-code) | American Samoa Code | 0.1.0 | American Samoa Code Annotated (A.S.C.A.) — section lookup by citation and |
+| 2026-10-09 23:10:14 | [io.github.pipeworx-io/anzctr](https://github.com/pipeworx-io/mcp-anzctr) | Anzctr | 0.1.0 | ANZCTR — the Australian New Zealand Clinical Trials Registry |
+| 2026-10-09 23:11:05 | [io.github.pipeworx-io/arkansas-code](https://github.com/pipeworx-io/mcp-arkansas-code) | Arkansas Code | 0.1.0 | Arkansas Code of 1987 — state statutes by citation and by topic search. |
+| 2026-10-09 23:11:56 | [io.github.pipeworx-io/blm-mining-claims](https://github.com/pipeworx-io/mcp-blm-mining-claims) | Blm Mining Claims | 0.1.0 | BLM mining claims (MLRS) — fleet #2826. |
+| 2026-10-09 23:12:46 | [io.github.pipeworx-io/dc-code](https://github.com/pipeworx-io/mcp-dc-code) | Dc Code | 0.1.0 | District of Columbia Code — DC statutes by citation, and topic/chapter |
+| 2026-10-09 23:12:47 | [io.github.Atypical-Consulting/roseline-mcp](https://github.com/Atypical-Consulting/RoselineMCP) | RoselineMCP | 3.2.0 | MCP server for C# code analysis and automated fixing using Roslyn analyzers and… |
+| 2026-10-09 23:13:37 | [io.github.pipeworx-io/guam-code](https://github.com/pipeworx-io/mcp-guam-code) | Guam Code | 0.1.0 | Guam Code Annotated (GCA) — section lookup and search. Fleet #2888. |
+| 2026-10-09 23:14:27 | [io.github.pipeworx-io/isrctn](https://github.com/pipeworx-io/mcp-isrctn) | Isrctn | 0.1.0 | ISRCTN — the UK-based international clinical trial registry |
+| 2026-10-09 23:15:08 | [io.github.PureCipher/omniseal](https://github.com/PureCipher/omniseal-mcp) | Omniseal | 1.0.0 | Conceal, retrieve, verify, and remove hidden files with PureCipher Omniseal. |
+| 2026-10-09 23:15:17 | [io.github.pipeworx-io/mississippi-code](https://github.com/pipeworx-io/mcp-mississippi-code) | Mississippi Code | 0.1.0 | Mississippi Code of 1972 (Annotated) — state statutes by citation, and a |
+| 2026-10-09 23:16:08 | [io.github.pipeworx-io/new-mexico-code](https://github.com/pipeworx-io/mcp-new-mexico-code) | New Mexico Code | 0.1.0 | New Mexico Statutes Annotated 1978 (NMSA 1978) — section lookup, chapter |
+| 2026-10-09 23:17:00 | [io.github.pipeworx-io/northern-mariana-code](https://github.com/pipeworx-io/mcp-northern-mariana-code) | Northern Mariana Code | 0.1.0 | Commonwealth Code of the Northern Mariana Islands (CMC) — CNMI statutes by |
 
 ## Data source
 
