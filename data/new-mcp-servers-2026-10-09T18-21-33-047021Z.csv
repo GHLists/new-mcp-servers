@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-10-09T17:26:44.996152Z,io.github.WYRE-AI/threatlocker-mcp,ThreatLocker,1.3.11,https://github.com/WYRE-AI/threatlocker-mcp,,"MCP server for ThreatLocker — zero-trust endpoint protection, allowlisting, and policies."
+2026-10-09T17:29:14.73762Z,br.api.rendafixa/renda-fixa,Renda Fixa,1.0.0,https://github.com/jean-knapp/rendafixa-api,streamable-http,"Brazilian fixed income (CDB, LCI, LCA, CRI, CRA, Tesouro) ranked by net-of-tax and real return."
+2026-10-09T17:29:53.8227Z,app.auditae/mcp,AuditAE SEO MCP,0.1.1,,streamable-http; streamable-http,"SEO MCP: Search Console, GA4, SERP and domain data, rank tracking, AI citations and site fixes."
+2026-10-09T17:31:09.903586Z,io.github.haiiibin/data-profiler-mcp,,0.4.0,https://github.com/haiiibin/data-profiler-mcp,,"Profiles CSV/Parquet/Excel/JSON files: schema, stats, quality flags and dtype tips for LLM agents."
+2026-10-09T17:31:18.123156Z,io.github.haiiibin/acb-tax-mcp,,0.5.0,https://github.com/haiiibin/acb-tax-mcp,,"Canadian ACB and capital gains: average-cost, per-disposition gains, superficial-loss detection."
+2026-10-09T17:31:28.350976Z,io.github.jkambo1986-collab/stb-giftcards,SpendTheBits Gift Cards,0.1.0,,,"Let an AI agent buy gift cards with USDC over x402, within limits the wallet owner sets."
+2026-10-09T17:33:34.132948Z,io.github.privatebydefault/default-privacy,Default Privacy,1.0.1,,streamable-http,"Search a privacy-tools directory, read guides & glossary, and run free privacy diagnostics."
+2026-10-09T17:33:57.876305Z,io.github.kingdt1991-netizen/kai-router,KAI Router,1.1.0,,streamable-http,"Find pay-per-call x402 tools (USDC on Base) for any task, ranked by relevance and real demand."
+2026-10-09T17:34:38.4805Z,io.github.Naman6019/launchengine-dev,LaunchEngine.dev,0.0.3,https://github.com/Naman6019/launchengine-mcp,,"Find posts where someone is asking for a product like yours, scored 1-100, with reply drafts."
+2026-10-09T17:35:59.069807Z,ai.ctxstore/ctxstore-mcp,ctxstore — memory that follows you across models,1.1.2,https://github.com/ctxstore-ai/ctxstore-mcp,streamable-http,"Persistent memory for AI agents: keyed facts, a wake bundle each session, one memory in every model."
+2026-10-09T17:38:31.041818Z,io.github.Latimer-Woods-Tech/mimirapi,MimirAPI,0.1.0,https://github.com/Latimer-Woods-Tech/Factory,streamable-http,Pay-per-call agent tools over x402 (USDC on Base) — no signup or API key.
+2026-10-09T17:39:59.871659Z,io.metalmantra/registry,Metal Mantra,1.0.0,,streamable-http,"Read-only evidence reports on AI agents: search, fetch a report, check trust. Not a certification."
+2026-10-09T17:40:17.854588Z,com.permitsnag/permits,PermitSnag,1.0.0,,streamable-http,"US backcountry permit and campground rules, dates and recorded openings. Read-only, no sign-in."
+2026-10-09T17:44:16.135715Z,ch.uviqora/uviqora,Uviqora,0.4.0,,streamable-http,Find and book people for short on-site tasks in Switzerland. Early pilot with limited places.
+2026-10-09T17:45:26.295064Z,io.aerosend/mcp,Aerosend,1.0.0,https://github.com/Aerosend-Public/aerosend-mcp,streamable-http,"Manage Aerosend cold email domains, mailboxes, tags, warmup, inbox placement and domain burn."
+2026-10-09T17:48:38.341263Z,ai.kaiv/bridge,,1.0.1,,streamable-http,Turn any OpenAPI spec or API docs link into a hosted MCP server. Free Kaiva Bridge account.
+2026-10-09T17:50:07.95542Z,com.vstudiodigital/mervext,Mervext,0.1.0,,streamable-http,"Extract invoices, receipts and contracts into structured JSON. EU-hosted, per-field confidence."
+2026-10-09T17:50:15.750045Z,com.tecopos/tecopos,Tecopos,1.0.1,,streamable-http,"Run your Tecopos business from your AI: sales, inventory, cash, customers, purchases and reports."
+2026-10-09T17:51:02.183969Z,io.github.WYRE-AI/blackpoint-mcp,Blackpoint Cyber,1.1.16,https://github.com/WYRE-AI/blackpoint-mcp,,"MCP server for Blackpoint Cyber MDR — alerts, threats, and operations."
+2026-10-09T17:51:20.429187Z,io.github.WYRE-AI/auvik-mcp,Auvik,1.4.5,https://github.com/WYRE-AI/auvik-mcp,,"MCP server for the Auvik network monitoring API — devices, alerts, statistics, billing."
+2026-10-09T17:51:55.08059Z,io.github.WYRE-AI/blumira-mcp,Blumira,1.2.15,https://github.com/WYRE-AI/blumira-mcp,,"MCP server for Blumira SIEM — query findings, evidence, and detection data via the Blumira API."
+2026-10-09T17:56:43.729159Z,io.github.saulius876-lgtm/linkedin-posts,LinkedIn Posts,1.0.0,,streamable-http,"LinkedIn posts with text, author, date, reactions, top comments, media from links or company pages."
+2026-10-09T17:57:48.476977Z,io.github.altrsoftware/altr-mcp-server,,0.7.0,https://github.com/altrsoftware/altr-mcp-server,,"MCP server for ALTR data security: databases, tags, policies, classification, access, audits"
+2026-10-09T17:57:56.652745Z,ai.turnzero/cloud,Turn Zero Cloud,0.1.0,,streamable-http,"Free backend for apps built with Claude Code and Codex: hosting, database, storage, sign-in, AI."
+2026-10-09T18:01:51.111868Z,io.github.agend-sh/agend-sh,agend-sh,1.2.14,https://github.com/agend-sh/cli,,"Persistent Linux environments for AI agents, with interactive terminals and HTTPS previews."
+2026-10-09T18:05:55.35812Z,dev.recallmem/memory,Recall,1.0.0,,streamable-http,Long-term memory for AI agents: learns what is true about each person and answers with sources.
+2026-10-09T18:09:16.571065Z,io.github.kentcdodds/kody,Kody,1.0.3,https://github.com/kentcdodds/kody,streamable-http,"Your agents' cloud. MCP server with search, execute, packages, jobs, secrets, and integrations."
+2026-10-09T18:16:58.62287Z,com.agentgid/agentgid,AgentGid,1.0.0,,streamable-http,"Live data on AI agents, APIs and models: prices, free tiers, limits, outages, real-world usage."
+2026-10-09T18:17:28.168386Z,io.github.svatrous/longtake,,1.0.1,https://github.com/svatrous/longtake-mcp,,"Drive Longtake Studio from an agent: AI video takes on your own API key, characters, drafts, costs"
+2026-10-09T18:18:33.235604Z,ai.telenow/telenow,Telenow — AI Phone Calls & Voice Agents,1.0.0,https://github.com/TelenowAI/Telenow-AI-MCP,streamable-http,"Place phone calls, run calling campaigns and build voice agents from your own Telenow numbers."
+2026-10-09T18:20:44.448243Z,ai.usedalea/dalea,Dalea AI,1.0.0,,streamable-http,"Plan, write and analyze Instagram and TikTok content using your Dalea account."
+2026-10-09T18:21:12.769011Z,io.github.Backers-Shawn/rightis,Rightis,1.0.0,https://github.com/Backers-Shawn/rightis-js,streamable-http,"Identity-rights registry lookups before AI generation: is a face, voice or persona registered?"
