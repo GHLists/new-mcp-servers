@@ -9,52 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 08:20 UTC
+## Latest list — 2026-10-09 09:20 UTC
 
-New MCP servers published between 2026-10-09 07:19 UTC and 2026-10-09 08:20 UTC.
+New MCP servers published between 2026-10-09 08:20 UTC and 2026-10-09 09:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-09T08-20-42-049214Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-09T09-20-43-426008Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-09 07:19:27 | com.lootcodes/catalog | LootCodes | 1.0.0 | Search LootCodes game keys, gift cards and top-ups, compare prices and prepare… |
-| 2026-10-09 07:19:53 | [io.github.OrihuelaConde/local-whisper-mcp](https://github.com/OrihuelaConde/local-whisper-mcp) | Local Whisper | 1.0.0 | Private audio and video transcription with Whisper on your own computer, on the… |
-| 2026-10-09 07:20:18 | [io.github.stufently/google-webtools-mcp](https://github.com/stufently/google-webtools-mcp) | Google Webtools MCP | 1.1.0 | Google Search Console + GA4 for AI agents: properties, reports, indexing, verif… |
-| 2026-10-09 07:25:09 | [io.github.IntarsO/appwrangler](https://github.com/IntarsO/AppWrangler) | AppWrangler | 1.4.1 | Per-app CPU, efficiency-core and memory control for Apple Silicon Macs, with su… |
-| 2026-10-09 07:26:03 | xyz.peerlytics/peerlytics | Peerlytics | 1.1.0 | Public Peer protocol activity and settlement receipts on Base. Read-only; no ke… |
-| 2026-10-09 07:26:09 | com.abuzzhive/abuzzhive | AbuzzHive | 1.0.0 | Open Q&A boards where AI agents post problems they are stuck on and other agent… |
-| 2026-10-09 07:26:58 | [io.github.stufently/aviasales-mcp](https://github.com/stufently/aviasales-mcp) | Aviasales Flight Prices | 0.5.0 | Flight price search via Aviasales/Travelpayouts: fares by route, cheapest days,… |
-| 2026-10-09 07:27:02 | com.mtgtechnical/evidence-board | Evidence Board | 1.0.0 | Evidence boards for investigations: add files, link them, keep a chronology, re… |
-| 2026-10-09 07:27:58 | io.neume/neume | Neume | 1.0.0 | Generate and remix AI songs with lyrics, check credits, and fetch your Neume tr… |
-| 2026-10-09 07:28:03 | de.gruenderx/gruender-tools | GründerX Founder Events, Deadlines & St… | 1.0.0 | Founder events, startup competition deadlines, startup credits and guides for G… |
-| 2026-10-09 07:31:49 | com.knowfulham/places | KnowFulham | 1.1.0 | Handpicked places in Fulham, London: restaurants, coffee, pubs, parks and shops. |
-| 2026-10-09 07:31:53 | com.knowchelsea/places | KnowChelsea | 1.1.0 | Handpicked places in Chelsea, London: restaurants, coffee, pubs, parks and shop… |
-| 2026-10-09 07:32:05 | com.knownottinghill/places | KnowNottingHill | 1.1.0 | Handpicked places in Notting Hill, London: restaurants, coffee, pubs, parks and… |
-| 2026-10-09 07:33:32 | [io.github.akalongman/nbg-rates](https://github.com/akalongman/nbg-rates-mcp) | NBG Rates (National Bank of Georgia) | 0.1.0 | GEL exchange rates from the National Bank of Georgia with per-unit values. Not… |
-| 2026-10-09 07:35:51 | com.cspriceapi/mcp | CSPriceAPI – CS2 skin prices | 0.1.0 | Live CS2 skin prices: BUFF163, YouPin, Skinport, CSFloat, Steam and 8 more mark… |
-| 2026-10-09 07:37:17 | dev.workers.neoaethel.carrier-ledger/carrier-ledger | Carrier Ledger | 1.0.0 | Check U.S. trucking carriers and freight brokers in FMCSA records: authority, i… |
-| 2026-10-09 07:38:09 | link.policypal/policypal | Policy Pal | 1.0.0 | Grounded, quoted readings of privacy policies and terms of service. Not legal a… |
-| 2026-10-09 07:40:31 | [io.github.sekera-radim/impri](https://github.com/sekera-radim/impri) | Impri | 0.1.2 | Impri MCP server — human-in-the-loop approval inbox for AI agents |
-| 2026-10-09 07:43:31 | [io.github.cyanheads/reference-data-mcp-server](https://github.com/cyanheads/reference-data-mcp-server.git) |  | 0.1.17 | Countries, timezones, elements, constants, HTTP status codes, unit conversion,… |
-| 2026-10-09 07:46:45 | [io.github.cyanheads/who-gho-mcp-server](https://github.com/cyanheads/who-gho-mcp-server) |  | 0.3.6 | WHO Global Health Observatory — 3,059 indicators across 194 member states. |
-| 2026-10-09 07:46:56 | [io.github.cyanheads/pentest-mcp-server](https://github.com/cyanheads/pentest-mcp-server) |  | 0.1.10 | Offline methodology engine for authorized penetration testing, CTF, and securit… |
-| 2026-10-09 07:49:46 | com.fetchpan/fetchpan | FetchPan | 1.0.0 | Download links from file hosts and Chinese cloud drives (Rapidgator, Baidu, Qua… |
-| 2026-10-09 07:50:23 | [io.github.263311487-ux/dsh-verify](https://github.com/263311487-ux/dsh-verify) |  | 0.9.5 | Agent-built web app quality gate. Real browser is the judge. PASS/FAIL with rec… |
-| 2026-10-09 07:50:23 | de.anwaltx/fahrgastrechte | AnwaltX Passenger Rights & Legal Info (… | 1.0.0 | Free EU passenger rights calculators (flight, rail, bus, ferry), deadlines, leg… |
-| 2026-10-09 07:51:03 | [io.github.cyanheads/usda-mcp-server](https://github.com/cyanheads/usda-mcp-server) |  | 0.1.12 | Search foods, compare nutrients, and look up the full USDA FoodData Central dat… |
-| 2026-10-09 07:52:19 | [io.github.markmnl/fmsg-mcp](https://github.com/markmnl/fmsg-mcp) | fmsg | 0.2.4 | Federated messaging with your fmsg hosting provider. Connect with OAuth or an A… |
-| 2026-10-09 07:56:44 | [io.github.cyanheads/datacite-mcp-server](https://github.com/cyanheads/datacite-mcp-server) |  | 0.1.2 | Search DataCite datasets and software, fetch DOI metadata, trace relations, for… |
-| 2026-10-09 07:56:55 | [io.github.cyanheads/zenodo-mcp-server](https://github.com/cyanheads/zenodo-mcp-server) |  | 0.1.2 | Search and resolve Zenodo datasets, software, and publications by DOI; trace ve… |
-| 2026-10-09 07:57:56 | [io.github.cyanheads/wsdot-mcp-server](https://github.com/cyanheads/wsdot-mcp-server) |  | 0.4.1 | WA highway conditions, ferry schedules, vessel locations, toll rates, and borde… |
-| 2026-10-09 08:02:17 | [io.github.joachimglassell-ship-it/company-delta](https://github.com/joachimglassell-ship-it/machine-job-fishing-net) | Company Delta | 1.0.0 | Detect material changes in public companies since a specified date using primar… |
-| 2026-10-09 08:04:08 | [io.github.unravel-team/thing](https://github.com/unravel-team/thing-cli) | thing | 0.11.0 | Artifacts for any coding agent: a durable link with versions, diffs, and commen… |
-| 2026-10-09 08:04:27 | dev.reconstruct/reconstruct | Reconstruct | 1.0.0 | Captured web interfaces, screenshots, flows and structured evidence for AI codi… |
-| 2026-10-09 08:05:07 | [io.github.marcoguillermaz/tierward](https://github.com/marcoguillermaz/Tierward) |  | 2.0.1 | Read a Tierward project's governance state (doctor, team-settings, arch-audit,… |
-| 2026-10-09 08:05:32 | [app.agentnexus/agent-nexus](https://github.com/Strategiumfinancepartner/AgentNexus) | Agent Nexus | 1.1.1 | Agent-native registry to discover APIs, MCP servers and CLIs, with live health… |
-| 2026-10-09 08:12:52 | io.github.gweeyichen/ayebot | Ayebot buyer index | 1.0.0 | Counts of acquirers by sector and Southeast Asian market, from ayebot.com. Aggr… |
-| 2026-10-09 08:18:32 | uk.co.hotelmonitor/hotel-prices | HotelMonitor hotel prices | 1.2.0 | Hotel price history in GBP: is a quoted price good, cheapest months to visit, a… |
-| 2026-10-09 08:19:32 | [io.github.77777R7/octocrawl](https://github.com/77777R7/Octocrawl) |  | 0.3.1 | Web scraper for agents: blocked, empty and wrong pages reported as such, with a… |
-| 2026-10-09 08:19:47 | [io.github.cyanheads/reliefweb-mcp-server](https://github.com/cyanheads/reliefweb-mcp-server) |  | 0.2.3 | Search ReliefWeb humanitarian reports, disasters, jobs, training, and country p… |
+| 2026-10-09 08:21:22 | [io.github.ricfanin/netwright](https://github.com/ricfanin/netwright) | Netwright | 2.1.0 | Playwright-style automation of .NET desktop apps (WPF, WinForms, WinUI) for AI… |
+| 2026-10-09 08:26:05 | io.github.max7819/manpower | Physical Agency | 0.2.0 | Human workforce for AI agents: field checks, user testing and device tests. Ope… |
+| 2026-10-09 08:33:43 | com.plsintro/plsintro | plsintro | 1.0.0 | Private intro network. Say what you need or offer, your agent finds the person,… |
+| 2026-10-09 08:33:45 | [io.noetive/riffle](https://github.com/noetive/riffle) | Riffle | 0.1.1 | Your agent uses the web as text, not screenshots. Several steps per call, only… |
+| 2026-10-09 08:37:37 | [io.github.BargLabs/dunstan](https://github.com/BargLabs/dunstan) | Dunstan | 0.1.6 | Checks a coding agent's handback against the pull request's GitHub record. No m… |
+| 2026-10-09 08:39:00 | [io.github.shisongsong/oh-my-share](https://github.com/shisongsong/oh-my-share) | Oh My Share | 2.1.0 | Publish HTML/code from your agent to openanthropic.com and get a shareable link. |
+| 2026-10-09 08:39:25 | dev.datacircle/datacircle | Datacircle | 1.0.0 | LinkedIn profiles and B2B data at the provider's own price, no markup, from you… |
+| 2026-10-09 08:42:49 | [com.datakoot/koot-briefings](https://github.com/datakoot/koot-mcp) | Koot by Datakoot | 1.2.2 | One-call briefings for AI agents: dependency risk (KEV/EPSS), SEC companies, do… |
+| 2026-10-09 08:43:49 | [io.github.SajanMelcher/plumbline-mcp](https://github.com/SajanMelcher/plumbline-mcp) | Plumbline: DeepBook Market Data | 0.2.0 | Read-only Sui DeepBook v3 market data: pools, mid, depth, volume, fees, trades,… |
+| 2026-10-09 08:47:44 | [com.compsapi/ebay-sold-listings](https://github.com/dominic-a11y/compsapi-mcp) |  | 1.0.0 | Real eBay sold listings: 3 years of price history, real accepted Best Offer pri… |
+| 2026-10-09 08:47:52 | [io.github.vuluu2k/webcake-landing-mcp](https://github.com/vuluu2k/webcake-landing-mcp) | Webcake Landing | 1.5.3 | Build, validate, and persist Webcake landing-page source JSON: element schemas… |
+| 2026-10-09 08:48:29 | [io.github.vuluu2k/webcake-storefront-mcp](https://github.com/vuluu2k/webcake-storefront-mcp) | WebCake Storefront | 1.31.12 | Build pages and manage products, orders, and content on the WebCake/StoreCake s… |
+| 2026-10-09 08:49:08 | [io.github.TheCompanyAtlas/australia-company](https://github.com/TheCompanyAtlas/australia-company-mcp) | Australia Company Register | 1.0.0 | Australian company search by name, ABN, ACN, ABN status, state and postcode, wi… |
+| 2026-10-09 08:53:52 | [eu.financialreports/mcp-server](https://github.com/financial-reports/financial-reports-mcp-server) | FinancialFilings | 1.4.105 | Regulatory filings, XBRL financials and company data from securities regulators… |
+| 2026-10-09 08:57:02 | [in.fincept/mcp](https://github.com/Fincept-Corporation/fincept-mcp-docs) | Fincept | 1.0.0 | Fincept financial data and analytics: markets, economics, research and terminal… |
+| 2026-10-09 08:57:32 | de.sofortfax/fax | SofortFax – Faxen mit KI | 1.0.0 | Send real faxes from AI chat (DE/AT + 40 countries). PDF, JPG, photo. Pay per f… |
+| 2026-10-09 08:57:37 | de.sofortfax/fax-credits | SofortFax (KI-Fax-Credits) | 1.0.0 | Send faxes from AI chat with prepaid credits (1 credit = 1 fax, up to 40 pages)… |
+| 2026-10-09 08:57:42 | de.sofortfax/fax-oauth | SofortFax – Faxen mit KI (Login) | 1.0.0 | Fax from ChatGPT/Claude with OAuth sign-in: pay per fax or KI credits. DE/AT +… |
+| 2026-10-09 08:58:47 | [io.github.TheCompanyAtlas/hungary-company](https://github.com/TheCompanyAtlas/hungary-company-mcp) | Hungary Company Registry | 1.0.0 | Hungarian company search by name, tax and registration number, with officers an… |
+| 2026-10-09 08:59:46 | [io.github.riven-deploy/mcp-server](https://github.com/riven-deploy/sythin) |  | 1.0.0 | Manage Riven Deploy services: list, inspect deployments, start, stop, restart o… |
+| 2026-10-09 09:00:23 | ai.getboomerang/boomerang | Boomerang | 1.0.0 | Warm-intro paths, relationship intelligence and accounts for B2B sales teams, v… |
+| 2026-10-09 09:02:47 | [io.github.cyanheads/wakeonlan-mcp-server](https://github.com/cyanheads/wakeonlan-mcp-server) |  | 0.1.2 | Wake LAN machines with Wake-on-LAN magic packets from host profiles, then confi… |
+| 2026-10-09 09:04:17 | [com.rivendeploy/mcp-server](https://github.com/riven-deploy/sythin) |  | 1.0.0 | Manage Riven Deploy services: list, inspect deployments, start, stop, restart o… |
+| 2026-10-09 09:04:31 | [io.github.cyanheads/uk-legislation-mcp-server](https://github.com/cyanheads/uk-legislation-mcp-server) |  | 0.1.2 | Search and read UK legislation at any date, resolve citations, list amendments,… |
+| 2026-10-09 09:05:41 | [io.github.Sam-AEC/aec-model-bridge](https://github.com/Sam-AEC/aec-model-bridge) | AEC Model Bridge | 1.3.1 | Independent MCP integration for Autodesk Revit software through a local bridge. |
+| 2026-10-09 09:09:26 | [io.github.cyanheads/fdic-banks-mcp-server](https://github.com/cyanheads/fdic-banks-mcp-server) |  | 0.1.3 | Search FDIC-insured banks, Call Report financials, peer rankings, failures, dep… |
+| 2026-10-09 09:17:04 | [io.github.genesis-plan/lingnao](https://github.com/genesis-plan/lingnao) | LingNao | 1.4.1 | LingNao: deterministic reasoning for AI agents → verified/refuted/unverifiable.… |
 
 ## Data source
 
