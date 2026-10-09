@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-10-09T00:25:04.576958Z,io.github.startekenterprises-ai/agent-shield,Agent-Shield,0.2.0,https://github.com/startekenterprises-ai/agent-shield,streamable-http,"Security scanner for AI agents: prompt injection, leaked secrets, PII, and SSRF-risk URL detection."
+2026-10-09T00:30:51.125165Z,io.github.moxzas/productbrain,ProductBrain,0.1.0,https://github.com/moxzas/productbrain-mcp,,"Drive your ProductBrain product plan (goals, needs, bets, jobs) from any MCP client."
+2026-10-09T00:33:25.425025Z,com.frontlatch/gateway,Frontlatch,0.1.0,,streamable-http,"Read any website's pages and action map, and find businesses an agent can act on."
+2026-10-09T00:34:13.881692Z,is.tafla/tafla,Tafla,0.1.0,https://github.com/hoddmachine/tafla-plugin,streamable-http,"Calculation walkthroughs for AI tools. Hand in a calculation, get a link that shows the working."
+2026-10-09T00:41:20.604156Z,com.crow-nest/mcp,Crow Nest,1.0.0,,streamable-http,"Publish the apps you build with AI and share them like a Google Doc, with data, files and AI."
+2026-10-09T00:41:37.793837Z,com.foundforai/goldsberry-orthodontics,Goldsberry Orthodontics,0.2.0,,streamable-http,"Public facts and a free consultation request for Goldsberry Orthodontics, Sugarhouse, Salt Lake City"
+2026-10-09T00:49:43.268345Z,io.github.enthouan/trello-mcp,trello-mcp,1.0.3,https://github.com/enthouan/trello-mcp,,"Independent, community-maintained Trello MCP server. Not an official Trello or Atlassian product."
+2026-10-09T00:53:45.261658Z,ai.subpay/tool-finder,Agent Tool Finder,1.0.0,,streamable-http,"Free search over ~50k agent tools: paid x402 APIs and MCP servers. Price, networks, how to call."
+2026-10-09T00:57:19.92695Z,co.supp/suppco,SuppCo,2.0.0,,streamable-http,"Supplement research, product and brand TrustScores, and your SuppCo stack and Buying Club cart."
+2026-10-09T00:59:08.662282Z,io.github.hslee16/archy,archy,0.47.0,https://github.com/hslee16/archy,,Architectural sensor for Python codebases.
+2026-10-09T00:59:09.92807Z,app.hostbeam/mcp,Hostbeam,0.1.4,https://github.com/PunkAbeat/hostbeam-mcp,,Lets a coding agent read the screenshots you beam to its server with Hostbeam.
+2026-10-09T01:03:41.018083Z,host.pagelet/pagelet,Pagelet,2.1.0,https://github.com/toniconca/pagelet-v2,streamable-http,"Publish HTML pages to a live URL on *.pagelet.host, then list, inspect or delete your sites"
+2026-10-09T01:12:52.672052Z,io.github.impanyu/photo-scout,Photo Scout,0.1.0,https://github.com/impanyu/agentic_services,streamable-http,"Find nearby photo spots using real street imagery, visual scores and camera headings."
+2026-10-09T01:14:08.597698Z,com.kviria/kviria,Kviria,1.0.3,,streamable-http,"Location understanding for AI agents: words in, one verified location out. Beta: contiguous US."
+2026-10-09T01:16:06.706102Z,com.provenpaid/mcp,ProvenPaid,0.1.0,https://github.com/justinsmithphd/provenpaid-mcp,,Check an x402 endpoint before your agent pays it: challenge validity and on-chain payer evidence.

@@ -9,49 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 00:19 UTC
+## Latest list — 2026-10-09 01:20 UTC
 
-New MCP servers published between 2026-10-08 23:20 UTC and 2026-10-09 00:19 UTC.
+New MCP servers published between 2026-10-09 00:19 UTC and 2026-10-09 01:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-09T00-19-36-625327Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-09T01-20-56-029569Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-08 23:26:58 | [io.github.kieransimkin/danceflow](https://github.com/kieransimkin/DanceFlow) | DanceFlow | 0.1.0 | Local KeywordMoves and PixelCue tools for agents. https://kieransimkin.co.uk/da… |
-| 2026-10-08 23:29:13 | com.frameanyphoto/prints | FrameAnyPhoto | 1.1.0 | Framed prints of public-domain art and NASA photos: search works, price prints,… |
-| 2026-10-08 23:31:47 | io.calcupedia/calcupedia | Calcupedia | 1.0.0 | 2,400+ calculators and unit converters with exact results and a live calculator… |
-| 2026-10-08 23:34:15 | com.enhancedint/shesmydoglady | Book ShesMyDogLady | 1.0.0 | Book with ShesMyDogLady: services, prices and open times. No key needed. |
-| 2026-10-08 23:43:43 | [io.github.pipeworx-io/court-listener](https://github.com/pipeworx-io/mcp-court-listener) | Court Listener | 0.1.4 | CourtListener MCP — Free Law Project's CourtListener API (v4). |
-| 2026-10-08 23:43:54 | [io.github.pipeworx-io/espn](https://github.com/pipeworx-io/mcp-espn) | Espn | 0.1.3 | ESPN MCP — keyless multi-sport live scores, teams, and news via ESPN's public s… |
-| 2026-10-08 23:44:17 | [io.github.pipeworx-io/freshdesk](https://github.com/pipeworx-io/mcp-freshdesk) | Freshdesk | 0.1.4 | Freshdesk MCP Pack — helpdesk ticket and contact management via Freshdesk API v… |
-| 2026-10-08 23:44:44 | [io.github.pipeworx-io/lemmy](https://github.com/pipeworx-io/mcp-lemmy) | Lemmy | 0.1.4 | Lemmy MCP — public reads on any Lemmy instance. |
-| 2026-10-08 23:44:57 | [io.github.pipeworx-io/n8n](https://github.com/pipeworx-io/mcp-n8n) | N8n | 0.1.3 | n8n MCP — query your own n8n instance (BYO). |
-| 2026-10-08 23:45:11 | [io.github.pipeworx-io/opendatasoft](https://github.com/pipeworx-io/mcp-opendatasoft) | Opendatasoft | 0.1.4 | Opendatasoft (generic portal) MCP. |
-| 2026-10-08 23:45:23 | [io.github.pipeworx-io/oregon-code](https://github.com/pipeworx-io/mcp-oregon-code) | Oregon Code | 0.1.3 | Oregon Revised Statutes — state statutes by citation. |
-| 2026-10-08 23:45:55 | [io.github.pipeworx-io/riot-games](https://github.com/pipeworx-io/mcp-riot-games) | Riot Games | 0.1.4 | Riot Games API MCP. |
-| 2026-10-08 23:46:09 | [io.github.pipeworx-io/social-signal](https://github.com/pipeworx-io/mcp-social-signal) | Social Signal | 0.1.3 | Social Signal — post-VOLUME TIME SERIES across the open social networks that |
-| 2026-10-08 23:46:23 | [io.github.pipeworx-io/solscan](https://github.com/pipeworx-io/mcp-solscan) | Solscan | 0.1.3 | Solscan MCP — Solana block-explorer + network analytics |
-| 2026-10-08 23:46:34 | [io.github.pipeworx-io/statuspage](https://github.com/pipeworx-io/mcp-statuspage) | Statuspage | 0.1.2 | Service status / uptime MCP — Atlassian Statuspage v2. |
-| 2026-10-08 23:46:48 | [io.github.pipeworx-io/wayback](https://github.com/pipeworx-io/mcp-wayback) | Wayback | 0.1.3 | Internet Archive Wayback Machine MCP. |
-| 2026-10-08 23:47:00 | [io.github.pipeworx-io/west-virginia-code](https://github.com/pipeworx-io/mcp-west-virginia-code) | West Virginia Code | 0.1.3 | West Virginia Code — state statutes by citation. |
-| 2026-10-08 23:47:11 | [io.github.pipeworx-io/wisconsin-code](https://github.com/pipeworx-io/mcp-wisconsin-code) | Wisconsin Code | 0.1.3 | Wisconsin Statutes — state statutes by citation. |
-| 2026-10-08 23:47:29 | [io.github.pipeworx-io/algorithm-finder](https://github.com/pipeworx-io/mcp-algorithm-finder) | Algorithm Finder | 0.1.0 | Algorithm Finder MCP — which algorithm, data structure or technique fits a |
-| 2026-10-08 23:47:55 | [org.lettras/word-search](https://github.com/Artificialss/lettras-sdk) | Lettras word search | 0.2.0 | Create word-search puzzles in 6 languages (es, en, pt, fr, de, it) with native… |
-| 2026-10-08 23:48:20 | [io.github.pipeworx-io/ats-boards](https://github.com/pipeworx-io/mcp-ats-boards) | Ats Boards | 0.1.0 | ATS Boards MCP — public job-board postings across eight applicant-tracking |
-| 2026-10-08 23:49:10 | [io.github.pipeworx-io/bounceban](https://github.com/pipeworx-io/mcp-bounceban) | Bounceban | 0.1.0 | BounceBan MCP — wraps the BounceBan email-verification API (bounceban.com) |
-| 2026-10-08 23:49:59 | [io.github.pipeworx-io/bug-bounty-programs](https://github.com/pipeworx-io/mcp-bug-bounty-programs) | Bug Bounty Programs | 0.1.0 | bug-bounty-programs |
-| 2026-10-08 23:50:49 | [io.github.pipeworx-io/california-tax-appeals](https://github.com/pipeworx-io/mcp-california-tax-appeals) | California Tax Appeals | 0.1.0 | California Office of Tax Appeals (OTA) opinions — search by statute |
-| 2026-10-08 23:51:39 | [io.github.pipeworx-io/fl-medical-exclusions](https://github.com/pipeworx-io/mcp-fl-medical-exclusions) | Fl Medical Exclusions | 0.1.0 | Florida AHCA Medicaid Sanctioned Providers screening — check a provider |
-| 2026-10-08 23:52:09 | com.fusehealth/mcp | FUSE Health | 0.1.0 | Commerce platform for health and wellness brands: offerings, pricing, promos, s… |
-| 2026-10-08 23:52:29 | [io.github.pipeworx-io/forager](https://github.com/pipeworx-io/mcp-forager) | Forager | 0.1.0 | Forager MCP — wraps the Forager person-phone-lookup API (forager.ai) |
-| 2026-10-08 23:53:18 | [io.github.pipeworx-io/icypeas](https://github.com/pipeworx-io/mcp-icypeas) | Icypeas | 0.1.0 | Icypeas MCP — wraps the Icypeas email-search API (icypeas.com) |
-| 2026-10-08 23:53:36 | com.elevenflo/mcp | ElevenFlo MCP | 1.1.1 | Court-grounded Chapter 11 bankruptcy research over hosted remote MCP |
-| 2026-10-08 23:54:09 | [io.github.pipeworx-io/leadmagic](https://github.com/pipeworx-io/mcp-leadmagic) | Leadmagic | 0.1.0 | LeadMagic MCP — wraps the LeadMagic B2B email-finder API (leadmagic.io) |
-| 2026-10-08 23:54:24 | [io.github.zeitcow/implicit-core](https://github.com/zeitcow/implicit-core) | Implicit Core | 1.0.0 | Bounded local synthetic experience addressing, selective materialization and pr… |
-| 2026-10-08 23:55:00 | [io.github.pipeworx-io/millionverifier](https://github.com/pipeworx-io/mcp-millionverifier) | Millionverifier | 0.1.0 | MillionVerifier MCP — wraps the MillionVerifier single-verify API |
-| 2026-10-09 00:05:18 | [io.github.starecz/karea-mcp](https://github.com/starecz/karea-mcp) |  | 0.12.0 | Karea task manager - 9 tools covering 70 actions, for Claude Code, Cursor, and… |
-| 2026-10-09 00:17:30 | tools.superpowers/superpowers | Superpowers | 1.0.0 | One key for AI models and paid APIs: search, compare providers on the same inpu… |
-| 2026-10-09 00:17:59 | [io.github.mdwsk88/ms-365-21v-mcp-server](https://github.com/mdwsk88/ms-365-21v-mcp-server) | MS 365-21V MCP Server | 0.1.1 | MCP server for Microsoft 365 on the 21Vianet China cloud: mail, calendar, files… |
+| 2026-10-09 00:25:04 | [io.github.startekenterprises-ai/agent-shield](https://github.com/startekenterprises-ai/agent-shield) | Agent-Shield | 0.2.0 | Security scanner for AI agents: prompt injection, leaked secrets, PII, and SSRF… |
+| 2026-10-09 00:30:51 | [io.github.moxzas/productbrain](https://github.com/moxzas/productbrain-mcp) | ProductBrain | 0.1.0 | Drive your ProductBrain product plan (goals, needs, bets, jobs) from any MCP cl… |
+| 2026-10-09 00:33:25 | com.frontlatch/gateway | Frontlatch | 0.1.0 | Read any website's pages and action map, and find businesses an agent can act o… |
+| 2026-10-09 00:34:13 | [is.tafla/tafla](https://github.com/hoddmachine/tafla-plugin) | Tafla | 0.1.0 | Calculation walkthroughs for AI tools. Hand in a calculation, get a link that s… |
+| 2026-10-09 00:41:20 | com.crow-nest/mcp | Crow Nest | 1.0.0 | Publish the apps you build with AI and share them like a Google Doc, with data,… |
+| 2026-10-09 00:41:37 | com.foundforai/goldsberry-orthodontics | Goldsberry Orthodontics | 0.2.0 | Public facts and a free consultation request for Goldsberry Orthodontics, Sugar… |
+| 2026-10-09 00:49:43 | [io.github.enthouan/trello-mcp](https://github.com/enthouan/trello-mcp) | trello-mcp | 1.0.3 | Independent, community-maintained Trello MCP server. Not an official Trello or… |
+| 2026-10-09 00:53:45 | ai.subpay/tool-finder | Agent Tool Finder | 1.0.0 | Free search over ~50k agent tools: paid x402 APIs and MCP servers. Price, netwo… |
+| 2026-10-09 00:57:19 | co.supp/suppco | SuppCo | 2.0.0 | Supplement research, product and brand TrustScores, and your SuppCo stack and B… |
+| 2026-10-09 00:59:08 | [io.github.hslee16/archy](https://github.com/hslee16/archy) | archy | 0.47.0 | Architectural sensor for Python codebases. |
+| 2026-10-09 00:59:09 | [app.hostbeam/mcp](https://github.com/PunkAbeat/hostbeam-mcp) | Hostbeam | 0.1.4 | Lets a coding agent read the screenshots you beam to its server with Hostbeam. |
+| 2026-10-09 01:03:41 | [host.pagelet/pagelet](https://github.com/toniconca/pagelet-v2) | Pagelet | 2.1.0 | Publish HTML pages to a live URL on *.pagelet.host, then list, inspect or delet… |
+| 2026-10-09 01:12:52 | [io.github.impanyu/photo-scout](https://github.com/impanyu/agentic_services) | Photo Scout | 0.1.0 | Find nearby photo spots using real street imagery, visual scores and camera hea… |
+| 2026-10-09 01:14:08 | com.kviria/kviria | Kviria | 1.0.3 | Location understanding for AI agents: words in, one verified location out. Beta… |
+| 2026-10-09 01:16:06 | [com.provenpaid/mcp](https://github.com/justinsmithphd/provenpaid-mcp) | ProvenPaid | 0.1.0 | Check an x402 endpoint before your agent pays it: challenge validity and on-cha… |
 
 ## Data source
 
