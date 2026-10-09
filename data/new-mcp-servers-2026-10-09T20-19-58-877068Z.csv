@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-09T19:22:12.677456Z,io.github.b1ff/atlassian-dc-mcp-jira,,0.36.0,https://github.com/b1ff/atlassian-dc-mcp,,"MCP server for Atlassian Jira Data Center - search, view, and create issues"
+2026-10-09T19:22:13.689291Z,io.github.b1ff/atlassian-dc-mcp-confluence,,0.36.0,https://github.com/b1ff/atlassian-dc-mcp,,MCP server for Atlassian Confluence Data Center - access and manage content
+2026-10-09T19:22:14.971885Z,io.github.b1ff/atlassian-dc-mcp-bitbucket,,0.36.0,https://github.com/b1ff/atlassian-dc-mcp,,MCP server for Atlassian Bitbucket Data Center - interact with repositories and code
+2026-10-09T19:25:58.025582Z,dev.greatwait/mcp,GreatWait,327cc1adfa6128b42363366374d7cbc3d641021e,,streamable-http,Reliable one-off and recurring HTTPS callbacks for apps and agents.
+2026-10-09T19:25:59.645318Z,dk.ullasopskrifter/recipes,Ullas Opskrifter (Danish recipes),1.0.0,https://github.com/MITCDK/ullas-mcp,streamable-http,"Read-only Danish recipes, ingredients and categories from ullasopskrifter.dk: search and browse."
+2026-10-09T19:27:12.437155Z,io.github.ihuzaifashoukat/x-use,x-use,3.0.0,https://github.com/ihuzaifashoukat/x-use,,"Browser-native AI agents for X (Twitter): multi-account, MCP-ready, no X API key required."
+2026-10-09T19:27:32.804478Z,io.offprint/offprint,Offprint,1.0.0,,streamable-http,Publish your agent's Markdown as shareable web pages with revision provenance and comments.
+2026-10-09T19:28:30.79381Z,io.github.alghanim/universal-db-mcp,Universal DB (read-only),0.1.0,https://github.com/alghanim/universal-db-mcp,,"Read-only, guarded SQL access for AI agents: PostgreSQL, MySQL, ClickHouse, Oracle, SQL Server, Db2"
+2026-10-09T19:28:32.090706Z,de.dollea/salon,Dollea Cosmetics Salon,1.0.0,,streamable-http,"Find Dollea salon services, current offers and appointments in Munich, and book."
+2026-10-09T19:28:59.381371Z,io.github.jeet-dhandha/agent-webbridge,,1.3.0,https://github.com/jeet-dhandha/agent-webbridge,,"Drive your real, logged-in Chrome (many profiles, parallel tabs) from any MCP client. Local only."
+2026-10-09T19:29:09.327649Z,io.github.shapeandshare/ember,ember,0.8.0,https://github.com/shapeandshare/ember,,"Calibrated advice for coding agents: typed questions in, probabilities out. Apple Silicon."
+2026-10-09T19:29:36.188384Z,de.dollea/coworking,Dollea Beauty Coworking,1.0.0,,streamable-http,Find beauty workspaces in Munich and rent them at your approved personal rates.
+2026-10-09T19:30:00.23043Z,ai.agentlookups/groundrules,GroundRules - US Law Text,1.0.0,,streamable-http,"The original text of US federal and state law, with official sources; never a summary or advice."
+2026-10-09T19:30:00.936116Z,ai.agentlookups/spoon-scout,Spoon Scout - Food Contaminant Lookup,1.0.0,,streamable-http,"Lab results, FDA recalls and additive rules for US packaged foods, with sources; never a grade."
+2026-10-09T19:44:46.415292Z,io.github.Yodaisgaming/seelig-ai-booking,seelig.ai booking,1.0.0,,streamable-http,Lists the AI consulting services of seelig.ai (Switzerland) and requests a 30-minute first call.
+2026-10-09T19:45:44.046605Z,com.trademarkmind/trademark-check,TrademarkMind,1.0.0,,streamable-http,"Free trademark checks: brand names and logos vs U.S., international and Canadian registers."
+2026-10-09T19:45:54.280596Z,nl.fermat360/fermat-360,Fermat 360,1.0.0,,streamable-http,"Dutch legal AI for law firms: answers from Dutch case law, legislation and EU law, with citations."
+2026-10-09T19:47:29.521042Z,io.github.PeterSitemba/kadiconnect,KadiConnect,1.0.1,https://github.com/PeterSitemba/kadiconnect-mcp,streamable-http,"Create a digital business card, tracked links and analytics from any MCP client."
+2026-10-09T19:47:49.457599Z,io.github.Cswarey16/nuvista-haven,NuVista Haven MCP Server,1.0.0,https://github.com/Cswarey16/nuvista-mcp,streamable-http,"AI front desk for NuVista Haven vacation rentals: live availability, rates, booking links."
+2026-10-09T19:49:21.801803Z,io.github.VictoriaMetrics/mcp-vmanomaly,,0.5.0,https://github.com/VictoriaMetrics/mcp-vmanomaly,,MCP Server for vmanomaly - VictoriaMetrics anomaly detection
+2026-10-09T19:49:28.398403Z,io.github.GuardBee/tool-poisoning-scanner,,0.2.3,https://github.com/GuardBee/guardbee-mcp,,Scans MCP tool definitions for hidden instructions and confused-deputy sinks
+2026-10-09T19:52:11.381175Z,io.rial/mcp,Rial,1.0.0,,streamable-http,"Request photos by link and verify they are real: templates, verifications and verdicts."
+2026-10-09T19:58:29.643947Z,com.4chems/platform-api,"4chems Platform — IUCLID, CHESAR & QSAR Toolbox hosting",0.12.1,https://github.com/4chems/mcp,streamable-http,"Remote MCP server for 4chems hosted IUCLID, CHESAR and QSAR Toolbox: onboarding, inquiries, admin."
+2026-10-09T19:59:03.620936Z,io.github.liftli-ai/liftli,Liftli,1.4.6,https://github.com/liftli-ai/liftli-mcp,streamable-http,"Strategist, ghostwriter, scheduler and analyst in one, inside your AI. LinkedIn, X, Substack."
+2026-10-09T20:05:15.968498Z,io.feedico/feedico-mcp,"Feedico: coupons, deals & products",2.0.0,,streamable-http,"Live coupon codes, deals and products with tracked affiliate links. Partners keep 65% commission."
+2026-10-09T20:06:39.077808Z,com.workinsiders/directory,Work Insiders,1.1.0,,streamable-http,"Search 1,000+ recruiting, HR and sales tools: prices, MCP servers, alternatives, ATS links."
+2026-10-09T20:08:53.690625Z,io.github.Shahkarkhan440/easy-email-builder,Easy Email Builder,0.1.0,https://github.com/Shahkarkhan440/Easy-Email-Builder,,Design HTML email templates with AI: render to HTML and open them in a visual editor
