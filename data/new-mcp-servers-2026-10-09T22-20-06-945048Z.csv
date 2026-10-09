@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-09T21:27:52.436711Z,io.github.geter-andru/andru-intelligence,Andru,1.9.3,https://github.com/geter-andru/mcp-server-andru-intelligence.git,,Revenue intelligence for complex B2B growth.
+2026-10-09T21:28:16.570433Z,com.opensolr/opensolr-mcp,,0.7.0,https://github.com/phpcip/opensolr-mcp,,"Managed Apache Solr for agents: hybrid BM25+kNN search, server-side embeddings, RAG answers"
+2026-10-09T21:30:29.485723Z,io.github.johnInarti/fractalai,FractalAI Post-Quantum Proofs,0.1.3,https://github.com/johnInarti/fractalai-mcp-server,,"Post-quantum (ML-DSA-65/Dilithium-3) proof, provenance & AI-decision receipts, paid via x402."
+2026-10-09T21:35:10.987362Z,io.github.beadhive/beadhive,Beadhive,0.24.1,https://github.com/beadhive/beadhive,,"Manage cross-repository beads work, hive status, and Beadhive workflows through bh-mcp."
+2026-10-09T21:38:35.9504Z,io.github.mockzilla/mockzilla-mcp,,0.2.28,https://github.com/mockzilla/mockzilla-mcp,,"Mock OpenAPI specs locally, or log in to deploy hosted mocks on mockzilla.org from your MCP client."
+2026-10-09T21:39:33.437979Z,fun.paxie.api/data,Paxie.Matrix Data API,1.2.0,,streamable-http,"Memecoin intel for agents: Robinhood Chain + Solana bursts, rug checks, call verdicts. Pay via x402."
+2026-10-09T21:40:03.889044Z,com.bettrails/bettrails,Bettrails,0.3.0,,streamable-http,"eSoccer, esports and NBA 2K stats: head-to-heads, player profiles, today's matches, standings."
+2026-10-09T21:58:06.831962Z,dev.workers.mikeyang7789.cn-evidence-mcp-public/cn-evidence,CN Evidence,0.1.3,,streamable-http,China company data: 64 tools at 0.011 USDC/call via MCP/x402; legacy Basic/Full retained.
+2026-10-09T21:58:47.531222Z,com.radikabunavi/mcp,ラジ株ナビ (Radikabunavi) - Japanese stock data from EDINET/TDnet,1.0.0,,streamable-http,"Japanese stocks from EDINET/TDnet filings: fair-value range, 6-axis score, DCF, earnings, screening"
+2026-10-09T22:00:13.78409Z,io.github.b2bsearch/mcp,b2bsearch: B2B contacts and account signals,0.1.0,https://github.com/b2bsearch/mcp,,"B2B contacts and account signals on Apify: new hires, email format, lookalikes, decision makers."
+2026-10-09T22:02:34.245033Z,com.statsmapped/public-data,StatsMapped Public Data,0.3.1,https://github.com/ActiveGuy/statsmapped-mcp,streamable-http,"Public statistics for Ireland and the UK: housing, crime, health, economy, welfare, with caveats."
+2026-10-09T22:10:29.421799Z,io.github.ZLDR/identitate-md,IdentitateMD — Logos for Moldovan public institutions,1.0.7,https://github.com/ZLDR/IdentitateMD,,Search and install logos and brand data for public institutions in the Republic of Moldova.
+2026-10-09T22:10:59.805647Z,io.github.faucetdb/faucet,Faucet,0.1.15,https://github.com/faucetdb/faucet,,"SQL database to MCP tools and REST API: PostgreSQL, MySQL, SQL Server, Oracle, SQLite, Snowflake."
+2026-10-09T22:13:30.439389Z,io.github.Cratis/chronicle-mcp,Cratis Chronicle,2.0.0,https://github.com/Cratis/Chronicle.Mcp,,"Inspect Cratis Chronicle event stores read-only by default; opt-in, authorized job control."
+2026-10-09T22:13:52.496195Z,io.github.mettini/frameskim,Frameskim,0.1.0,,streamable-http,"YouTube frames at exact timestamps and the moments that answer a query, for AI agents."
+2026-10-09T22:15:52.292287Z,io.github.mariokernich/imgflip-mcp,,1.1.0,https://github.com/mariokernich/imgflip-mcp,,"Browse Imgflip meme templates and generate memes (caption images, AI memes) via the Imgflip API"
+2026-10-09T22:19:33.63788Z,com.iscabox/iscabox,iscabox,1.2.0,,streamable-http,"Sport fishing in Brazil: species, spots, tides, lures and gear with today's prices (pt-BR)."
