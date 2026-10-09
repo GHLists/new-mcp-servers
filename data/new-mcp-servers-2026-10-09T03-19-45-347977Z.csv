@@ -1,0 +1,15 @@
+created_at,server,title,version,repository,transports,description
+2026-10-09T02:34:17.031312Z,site.measuremy/analytics,measuremy.site,1.0.0,,streamable-http,"Cookieless web analytics your AI agent can read: traffic, spikes and what caused them, funnels."
+2026-10-09T02:39:50.360688Z,io.github.jakeyoung1/veris,,0.3.0,https://github.com/jakeyoung1/veris,,Provenance-first web + SEC EDGAR data for AI agents: every fact carries its verifiable source.
+2026-10-09T02:43:12.589773Z,cc.adm/google-ads,ADM Google Ads,1.0.0,,streamable-http,"Google Ads reports, search term analysis and AI Search campaign drafts for AI coding tools."
+2026-10-09T02:45:09.455922Z,io.github.Janicezhhhh/agent-pulse,Agent Pulse,1.6.0,https://github.com/Janicezhhhh/agent-pulse,streamable-http,Action-required AI dependency changes and tested tools with reproducible evidence.
+2026-10-09T02:56:23.873508Z,com.rentalcal/rentalcal,RentalCal,1.0.1,,streamable-http,"Find direct-booking vacation rentals, check availability, and get stay quotes."
+2026-10-09T03:03:20.144258Z,co.gitresume/gitresume,GitResume,1.0.2,,streamable-http,"Turn your resume into a polished PDF and web page: import, build, check, and publish from chat."
+2026-10-09T03:03:21.445195Z,io.notworking/notworking,NotWorking,0.1.0,https://github.com/RyanNSJ/notworking,streamable-http,"Downdetector for AI agents: is a site, skill or MCP server failing for everyone? Check and report."
+2026-10-09T03:05:44.46528Z,io.github.Si40Code/super-excalidraw,Super Excalidraw,2026.10.9,,streamable-http,Create editable Excalidraw diagrams with AI and an interactive MCP Apps canvas. OAuth sign-in.
+2026-10-09T03:07:13.087417Z,kr.co.klisten.api/toolguard,Klisten ToolGuard,0.1.0,,streamable-http,ToolGuard paid gate decisions and attestation lookup. Customer API key required. Limited beta.
+2026-10-09T03:07:37.062871Z,com.ipmusk/mcp,IPMusk,1.0.0,,streamable-http,"Residential and static proxies: check usage, build proxy URLs, open tickets, get payment links."
+2026-10-09T03:09:31.70382Z,me.manylives/paid-tools,ManyLives paid tools,0.1.0,https://github.com/manylives-me/agent-kit,,"67 pay-per-call agent tools: token verdicts, web extraction, crypto data, text AI, site audits."
+2026-10-09T03:09:52.031255Z,io.github.wati-io/wati-mcp,Wati,1.0.0,https://github.com/wati-io/wati-mcp,streamable-http; streamable-http,"Manage Wati contacts, conversations, campaigns, templates and Astra AI agents."
+2026-10-09T03:12:23.530116Z,io.github.atushi1841/mlit-property-prices-mcp,MLIT Property Prices MCP,0.1.0,https://github.com/atushi1841/kensho,,MLIT Japan real-estate transaction prices (XIT001) via Apify actor for AI agents and investors.
+2026-10-09T03:13:52.529652Z,ca.arrowmem/arrowmem-mcp,,1.0.0,,streamable-http,"Free Ollama hardening checker, plus tools for privacy architecture and the Data Dignity Standard."
