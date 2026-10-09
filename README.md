@@ -9,51 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 12:21 UTC
+## Latest list — 2026-10-09 13:20 UTC
 
-New MCP servers published between 2026-10-09 11:20 UTC and 2026-10-09 12:21 UTC.
+New MCP servers published between 2026-10-09 12:21 UTC and 2026-10-09 13:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-09T12-21-07-431618Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-09T13-20-57-102233Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-09 11:20:55 | io.voidjet/empty-legs | voidjet empty legs | 1.0.0 | Search current empty-leg private jet offers by route and date. No provider name… |
-| 2026-10-09 11:24:26 | [io.github.stufently/yandex-metrica-mcp](https://github.com/stufently/yandex-metrica-mcp) | Yandex Metrica MCP | 0.2.1 | Yandex Metrica for AI agents: counters, goals, Reporting API and Logs API expor… |
-| 2026-10-09 11:29:27 | ai.xcut/xcutai | XCut AI – Viral Content Research | 1.0.0 | Find viral posts, outliers, hooks and ads on Instagram, TikTok, YouTube and Fac… |
-| 2026-10-09 11:32:49 | fyi.selah/rates | Selah: Brand Deal Rates | 1.0.0 | Free creator rate benchmarks and brand-offer checks, with sources. No login, no… |
-| 2026-10-09 11:34:04 | com.fensory/fensory | Fensory | 1.1.0 | Trading MCP server for AI agents, with live market data, account reads and cont… |
-| 2026-10-09 11:36:53 | [io.github.theluckystrike/aging](https://github.com/theluckystrike/mcp-servers) |  | 0.22.0 | Age your receivables into 0-30, 31-60, 61-90 and over 90 day buckets by due dat… |
-| 2026-10-09 11:38:46 | [io.github.Madhatt4/propxchain](https://github.com/Madhatt4/propxchain-mcp-server) | PropXchain | 2.2.1 | UK property transactions: status, checklists, documents, HM Land Registry intel. |
-| 2026-10-09 11:39:54 | [io.github.theluckystrike/timezone-world-clock-meeting-slots-overlap-ics](https://github.com/theluckystrike/mcp-servers) |  | 0.22.1 | Time zone conversion, meeting-slot finding across countries, DST checks and .ic… |
-| 2026-10-09 11:39:56 | [io.github.theluckystrike/work-order](https://github.com/theluckystrike/mcp-servers) |  | 0.22.1 | Job orders for trades and field work: parts, labour, status, completion report,… |
-| 2026-10-09 11:39:58 | [io.github.theluckystrike/quotes-estimates-proposals-vat-win-rate](https://github.com/theluckystrike/mcp-servers) |  | 0.22.1 | Quotes and estimates: VAT line items, a validity date, an A4 PDF, accept makes… |
-| 2026-10-09 11:39:59 | [io.github.theluckystrike/purchase-requisition](https://github.com/theluckystrike/mcp-servers) |  | 0.22.1 | Reusable purchase-requisitions and dated runs of them: pass, fail, not applicab… |
-| 2026-10-09 11:40:00 | [io.github.theluckystrike/resume-cover-letter-docx-generator](https://github.com/theluckystrike/mcp-servers) |  | 0.22.1 | Tailor a resume and write a cover letter as real Word .docx files from facts yo… |
-| 2026-10-09 11:40:01 | [io.github.theluckystrike/pdf-merge-split-stamp-extract-pages](https://github.com/theluckystrike/mcp-servers) |  | 0.22.1 | Merge, split, extract, rotate, reorder and stamp PDF pages from your AI chat, a… |
-| 2026-10-09 11:40:04 | [io.github.theluckystrike/per-diem](https://github.com/theluckystrike/mcp-servers) |  | 0.22.1 | Daily travel allowances from bundled public rate tables: Poland, HMRC and GSA C… |
-| 2026-10-09 11:40:06 | [io.github.theluckystrike/zip-archive-create-extract-bomb-guard](https://github.com/theluckystrike/mcp-servers) |  | 0.22.1 | Create, inspect and extract zip archives offline, with traversal, symlink and z… |
-| 2026-10-09 11:40:08 | [io.github.theluckystrike/supplier-list](https://github.com/theluckystrike/mcp-servers) |  | 0.22.1 | A supplier directory that does not rot: contacts, terms, lead times, review dat… |
-| 2026-10-09 11:40:11 | [io.github.theluckystrike/office-suite-time-invoice-expense-excel-price](https://github.com/theluckystrike/mcp-servers) |  | 0.22.1 | One MCP server for the whole freelancer office: time tracking, price watching,… |
-| 2026-10-09 11:40:13 | [io.github.theluckystrike/petty-cash](https://github.com/theluckystrike/mcp-servers) |  | 0.22.1 | A petty cash float on the imprest system: vouchers, reconciliation and the repl… |
-| 2026-10-09 11:40:14 | [io.github.theluckystrike/statement-of-account](https://github.com/theluckystrike/mcp-servers) |  | 0.22.1 | Statements of account, aging buckets and dunning letters from your invoices. |
-| 2026-10-09 11:40:20 | [io.github.theluckystrike/onboarding](https://github.com/theluckystrike/mcp-servers) |  | 0.22.1 | New-hire onboarding: role-based task templates, day-one to day-ninety checklist… |
-| 2026-10-09 11:40:21 | [io.github.theluckystrike/recurring-invoice-scheduler-subscription-billing-due-reminders](https://github.com/theluckystrike/mcp-servers) |  | 0.22.1 | Recurring invoices on a schedule: define once, generate the due PDFs, forecast… |
-| 2026-10-09 11:40:23 | [io.github.theluckystrike/service-agreement](https://github.com/theluckystrike/mcp-servers) |  | 0.22.1 | Service agreements for freelancers: scope, deliverables, rate, termination and… |
-| 2026-10-09 11:42:02 | dev.x402shield/x402shield | x402Shield | 0.1.0 | Public demo: evaluate AI-agent payment authorization and approval policy. No si… |
-| 2026-10-09 11:43:29 | [io.github.letehaha/moneymatter](https://github.com/letehaha/moneymatter) | MoneyMatter | 1.0.0 | Personal finance tracker: accounts, transactions, budgets, investments and anal… |
-| 2026-10-09 11:44:48 | [io.github.theluckystrike/price-tracker-drop-alert-watch](https://github.com/theluckystrike/mcp-servers) |  | 0.22.8 | Check a shop page price now, keep a watch list, see history and target alerts.… |
-| 2026-10-09 11:44:49 | [io.github.theluckystrike/time-tracker-timesheet-billable-hours](https://github.com/theluckystrike/mcp-servers) |  | 0.22.3 | Track billable time from your AI chat: timers, entries, reports, CSV export. Al… |
-| 2026-10-09 11:49:45 | [com.intentdocs/intentdocs](https://github.com/nikovijay/productbuilders.pro) | IntentDocs | 1.0.0 | Turns a product idea into a structured story map coding agents can build. |
-| 2026-10-09 11:50:33 | ai.aivikings/registrar | AiVikings.ai | 1.0.0 | Find, register, and manage domains from any AI chat or agent |
-| 2026-10-09 12:03:23 | [com.imgvx/imgvx-ai](https://github.com/ismailgalaxys25-del/imgvx-ai-mcp) | ImgVX AI | 1.0.0 | Find the free ImgVX AI browser tool for any image job: remove backgrounds, upsc… |
-| 2026-10-09 12:05:47 | [io.github.RohitDeshmukh-1/mindtrail](https://github.com/RohitDeshmukh-1/Mindtrail-MCP) | Mindtrail | 0.1.1 | Persistent, local-first memory for AI coding agents. Remember, recall and forge… |
-| 2026-10-09 12:05:52 | [io.github.ZennoLab/zennobrowser](https://github.com/ZennoLab/zennobrowser-mcp-server) | ZennoBrowser MCP Server | 1.1.2 | MCP server for ZennoBrowser antidetect browser: manage browser profiles from AI… |
-| 2026-10-09 12:07:05 | ai.onsomble/onsomble | Onsomble | 0.1.0 | Track how AI assistants talk about your brand and market, and learn how to show… |
-| 2026-10-09 12:07:35 | [com.getappniche/mcp](https://github.com/getappniche-com/mcp) |  | 1.2.1 | Live App Store & Google Play data for AI agents: app discovery, ASO keywords, r… |
-| 2026-10-09 12:11:12 | [io.github.Teletype-App/teletype-mcp-server](https://github.com/Teletype-App/teletype-mcp-server) | Teletype | 0.1.2 | Manage Teletype support conversations, customers, messages, and workspace setti… |
-| 2026-10-09 12:14:56 | ai.boardmark/boardmark | BoardMark | 1.0.25 | Issue board for teams: find, create and move issues, run sprints, comment and k… |
-| 2026-10-09 12:15:05 | dev.workers.mike-tusa.certguard/certguard | CertGuard | 0.2.0 | Free SSL/TLS certificate checker: expiry, chain trust, hostname match, TLS vers… |
-| 2026-10-09 12:17:36 | dev.workers.mike-tusa.headerguard/headerguard | HeaderGuard | 0.4.0 | Scan a website's HTTP security headers (HSTS, CSP, framing, COOP/CORP, cookies)… |
+| 2026-10-09 12:21:48 | com.ofacscreen/screening | OFACScreen Sanctions Screening | 1.1.0 | Screen names against US, UN, EU, UK, Canadian and Swiss sanctions and export-co… |
+| 2026-10-09 12:25:29 | au.com.nationaldigital/website | National Digital | 1.0.0 | Search and read National Digital's website, see pricing and estimate a project. |
+| 2026-10-09 12:32:44 | [io.github.WatermelonBros/reado](https://github.com/WatermelonBros/reado) | Reado | 1.33.1 | Your code review comments from Reado, the read-first IDE, as context and tools… |
+| 2026-10-09 12:36:15 | [io.github.ContentWriterco/economic-statistics](https://github.com/ContentWriterco/Economic-Statistics-MCP) | Economic Statistics | 1.0.0 | Official economic statistics for AI agents: GDP, inflation, trade and debt for… |
+| 2026-10-09 12:36:17 | [io.github.ContentWriterco/labour-market-statistics](https://github.com/ContentWriterco/Labour-Market-Statistics-MCP) | Labour Market Statistics | 1.0.0 | Labour market statistics for AI agents: unemployment, employment and wages for… |
+| 2026-10-09 12:36:18 | [io.github.ContentWriterco/health-statistics](https://github.com/ContentWriterco/Health-Statistics-MCP) | Health Statistics | 1.0.0 | Health statistics for AI agents: life expectancy, causes of death, health spend… |
+| 2026-10-09 12:41:09 | [io.github.ContentWriterco/polish-public-tenders](https://github.com/ContentWriterco/Polish-Public-Tenders-MCP) | Polish Public Tenders | 1.0.0 | Polish public procurement for AI agents: BZP and TED tenders, awards, buyers an… |
+| 2026-10-09 12:41:10 | [io.github.ContentWriterco/polish-kyb](https://github.com/ContentWriterco/Polish-KYB-MCP) | Polish KYB | 1.0.0 | Know-your-business checks for Polish companies: KRS, owners, insolvency, sancti… |
+| 2026-10-09 12:41:12 | [io.github.ContentWriterco/polish-company-financials](https://github.com/ContentWriterco/Polish-Company-Financials-MCP) | Polish Company Financials | 1.0.0 | Polish company financial statements for AI agents: revenue, profit, assets, ran… |
+| 2026-10-09 12:43:00 | [io.github.deploymenttheory/macos-mcp-server](https://github.com/deploymenttheory/macos-mcp-server) | macOS MCP Server | 0.2.1 | Local macOS 27 desktop automation through MCP on Apple silicon. |
+| 2026-10-09 12:47:43 | tickets.xp/xp-tickets | XP Tickets | 4.0.9 | Live-event ticket exchange for agents: quote, buy, make offers, bid, and sell,… |
+| 2026-10-09 12:50:47 | com.cutluma/video-editor | CutLuma video editor | 1.0.0 | Free online video editor: search tools, guides and templates, video sizes, pric… |
+| 2026-10-09 12:51:54 | [io.github.zamansheikh/memory-lean](https://github.com/zamansheikh/memory-lean) |  | 1.4.0 | Token-lean memory for AI agents: a knowledge graph searched cheaply. Drop-in fo… |
+| 2026-10-09 12:55:00 | ai.cleve/cleve | Cleve | 0.1.0 | Search workspace knowledge, save ideas, update notes, organize folders, and sha… |
+| 2026-10-09 12:56:16 | [io.github.jhsenjaliya/localcloud](https://github.com/LocalGCloud/localcloud-cli) | LocalCloud MCP | 0.1.9 | A free local cloud environment for AI agents to build, test, and debug Google C… |
+| 2026-10-09 12:56:54 | [io.github.deaabie/skuuy-mcp](https://github.com/deaabie/skuuy-mcp) | Skuuy MCP | 1.0.0 | 13 privacy-first network, auth & web tools for AI agents — no API key, 60 req/m… |
+| 2026-10-09 13:02:50 | ch.cowork24/booking |  | 3.0.1 | Search, price and book Swiss coworking spaces, offices and meeting rooms on cow… |
+| 2026-10-09 13:04:06 | [com.dominionobservatory/observatory](https://github.com/vdineshk/dominion-observatory) |  | 1.2.0 | Runtime behavioral trust scoring for MCP servers. Check reliability before call… |
+| 2026-10-09 13:04:10 | [io.github.tsubotax/melta-ui](https://github.com/tsubotax/melta-ui) | melta UI | 1.8.0 | AI-Ready design system MCP: melta UI tokens, component contracts, 107 rules, ch… |
+| 2026-10-09 13:11:59 | com.westernskyindiana/booking | Western Sky Heating, Cooling & Plumbing… | 1.0.0 | Book HVAC and plumbing service with Western Sky in Fishers and the Indianapolis… |
+| 2026-10-09 13:12:12 | com.westernskyhvac.www/booking | Western Sky Heating and Cooling (Montan… | 1.0.0 | Book HVAC and plumbing service with Western Sky in Montana's Flathead and Galla… |
+| 2026-10-09 13:15:11 | [io.github.st412m/cheap-eyes](https://github.com/st412m/cheap-eyes) | cheap-eyes | 0.2.0 | Hands bulk reading to cheap OpenRouter models, masks secrets, checks each answe… |
+| 2026-10-09 13:16:04 | com.invoicedataextraction/invoice-data-extraction | Invoice Data Extraction | 0.2.0 | Invoices and other financial documents to rows: upload, say what to extract, re… |
+| 2026-10-09 13:16:45 | org.agenthideout/agent-hideout | Agent Hideout | 0.1.0 | A persistent creative world for AI agents: shared spaces, stories, objects, mes… |
+| 2026-10-09 13:16:59 | [io.github.dreamforgestudiollc/emet](https://github.com/dreamforgestudiollc/EMET) | EMET | 0.2.4 | Persistent shared memory for AI agents, with verified writes and a transcript t… |
+| 2026-10-09 13:17:18 | [com.getwowlink/mcp](https://github.com/getwowlink/mcp) | getwowlink | 1.0.0 | Check link previews (Open Graph, Twitter cards) on X, LinkedIn, Slack; OG image… |
+| 2026-10-09 13:18:06 | gy.register/domains | Register.gy | 1.2.0 | Check, register and manage .gy (Guyana) domains, and connect AI-built websites… |
+| 2026-10-09 13:19:34 | [io.github.petrovicistefan/mcp-dealfinder](https://github.com/petrovicistefan/mcp-dealfinder) |  | 0.1.1 | Search affiliate product feeds from any network and return tracked buy links wi… |
 
 ## Data source
 
