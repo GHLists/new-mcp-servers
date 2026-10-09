@@ -9,37 +9,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 16:20 UTC
+## Latest list — 2026-10-09 17:18 UTC
 
-New MCP servers published between 2026-10-09 15:18 UTC and 2026-10-09 16:20 UTC.
+New MCP servers published between 2026-10-09 16:20 UTC and 2026-10-09 17:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-09T16-20-17-274642Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-09T17-18-53-670419Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-09 15:20:03 | ai.cursu/job-age-checker | Cursu Job Age Checker | 1.0.0 | When a job was first posted and whether it is still open, from the employer's o… |
-| 2026-10-09 15:20:27 | com.gdlivre/grand-livre | Grand Livre | 1.0.0 | French bookkeeping for freelancers and small businesses: entries, ledger, trial… |
-| 2026-10-09 15:21:15 | [io.github.flohoeller/affectui](https://github.com/flohoeller/affectui) | affectUI | 1.0.0 | Search, read and install agent-ready React components, screens and blocks for A… |
-| 2026-10-09 15:23:36 | [io.github.hypothesi/mcp-server-tauri](https://github.com/hypothesi/mcp-server-tauri) |  | 0.13.1 | A Model Context Protocol server for use with Tauri v2 applications |
-| 2026-10-09 15:23:42 | lt.pricebee/pricebee | PriceBee | 1.2.0 | Compare prices of products in online shops and of mobile plans in Lithuania, La… |
-| 2026-10-09 15:29:31 | com.lastminutedealshq/company-signals |  | 1.0.0 | Daily open-role counts and changes for software companies; AI-compiled from pub… |
-| 2026-10-09 15:34:45 | [io.github.nickzren/opentargets](https://github.com/nickzren/opentargets-mcp) |  | 0.6.1 | Open Targets MCP server for targets, diseases, drugs, variants, and evidence |
-| 2026-10-09 15:37:26 | ai.zeronoise/zeronoise | ZeroNoise | 1.0.0 | Agents that watch the sources you approve and write cited Briefs, from your AI… |
-| 2026-10-09 15:38:35 | [io.github.oddsrelay/oddsrelay-mcp](https://github.com/oddsrelay/oddsrelay-mcp) | OddsRelay | 0.1.0 | Read-only MCP server for OddsRelay odds data, with a token cap on every call th… |
-| 2026-10-09 15:40:58 | [io.github.DollhouseMCP/mcp-server](https://github.com/DollhouseMCP/mcp-server) | DollhouseMCP | 2.0.43 | OSS to create Personas, Skills, Templates, Agents, and Memories to customize yo… |
-| 2026-10-09 15:43:51 | [io.github.salemalem/npmscan](https://github.com/salemalem/npmscan-mcp-plugin) | NPMScan | 3.1.0 | Detect malicious or vulnerable npm packages: registry search, OSV.dev and GitHu… |
-| 2026-10-09 15:50:12 | com.atimeus/atimeus | Atimeüs | 1.0.0 | ERP for IT services firms: records, indicators and timesheets, with your own pe… |
-| 2026-10-09 15:51:02 | com.velocapture/velocapture | VeloCapture | 1.0.0 | Read-only access to your VeloCapture leads, RFPs, contacts and drafts from an A… |
-| 2026-10-09 15:56:54 | [io.github.ictechgy/apsa](https://github.com/ictechgy/apsa) | APSA mobile app security audit | 1.4.0 | Local, evidence-graded Android/iOS security audits of source, APK, AAB and IPA… |
-| 2026-10-09 15:57:24 | [com.peptlas/legal-status](https://github.com/Peptlas/peptlas-mcp) | Peptlas: is this peptide legal? | 1.0.0 | Legal status of peptides and GLP-1 drugs in the US, UK, EU, Australia, Canada,… |
-| 2026-10-09 16:00:31 | [com.appfigures/mcp](https://github.com/appfigures/cli) | Appfigures | 4.0.0 | Access your app analytics, ASO tools, and app market intelligence with Appfigur… |
-| 2026-10-09 16:02:46 | [io.github.ShivaSingh9927/qampi](https://github.com/ShivaSingh9927/linkedin-camp) | Qampi | 0.1.2 | LinkedIn outreach from your agent: find prospects, add leads, run campaigns, re… |
-| 2026-10-09 16:07:39 | ai.powerbeat/powerbeat | Powerbeat | 0.2.0 | Home energy for AI assistants: live Power flow, Energy history, solar forecast,… |
-| 2026-10-09 16:07:57 | [dev.southern-light.mcp/marsdawn](https://github.com/redtear1115/marsdawn-mcp) | MarsDawn | 0.2.4 | Export Markdown to PDF and open it in the MarsDawn app on macOS, with the marsd… |
-| 2026-10-09 16:14:39 | [io.github.precis-finance/precis-finance-mcp](https://github.com/precis-finance/precis-finance-mcp) | Précis Finance MCP | 0.3.0 | Public read-only Précis Finance MCP demo with synthetic data; no account or cre… |
-| 2026-10-09 16:15:28 | media.okcseo/site-audit | OKC SEO Site Audit | 1.0.0 | Free check of one site for orphan pages, broken internal links and sitemap prob… |
-| 2026-10-09 16:16:10 | com.tryplayhead/playhead | Playhead | 0.2.0 | Watches a video or ad from a link and answers in words, with the second of ever… |
-| 2026-10-09 16:17:47 | [com.companydata/mcp](https://github.com/companydatacom/companydata-mcp-server) | CompanyData | 1.0.0 | Company search and enrichment from official business registers in 200+ countrie… |
+| 2026-10-09 16:20:49 | [fr.humanmirror/oracle](https://github.com/VibeMirror-coder/humanmirror) | HumanMirror Oracle | 1.0.1 | Structured analysis API and remote MCP tool for text, JSON records and numeric… |
+| 2026-10-09 16:20:52 | [fr.humanmirror/forge](https://github.com/VibeMirror-coder/humanmirror) | HumanMirror Forge | 1.0.1 | Five deterministic micro-tools for AI-agent data pipelines: clean, dedupe, norm… |
+| 2026-10-09 16:20:57 | [fr.humanmirror/nexus](https://github.com/VibeMirror-coder/humanmirror) | HumanMirror Nexus | 1.3.4 | Outcome-first agent fallback: free discovery, minimal routing, declared costs,… |
+| 2026-10-09 16:22:24 | [fr.humanmirror/one](https://github.com/VibeMirror-coder/humanmirror) | HumanMirror One | 1.0.2 | One MCP tool for verified AI-agent outcomes with success-only charging. |
+| 2026-10-09 16:22:26 | [fr.humanmirror/flow](https://github.com/VibeMirror-coder/humanmirror) | HumanMirror Flow | 1.0.1 | Verified 2-3 step AI-agent missions with whole-transaction success-only chargin… |
+| 2026-10-09 16:22:28 | [fr.humanmirror/outcome](https://github.com/VibeMirror-coder/humanmirror) | HumanMirror Outcome | 1.0.1 | Verified AI-agent outcomes: secret scanning, JSON cleanup, dedupe, anomaly and… |
+| 2026-10-09 16:22:31 | [fr.humanmirror/omnidome](https://github.com/VibeMirror-coder/humanmirror) | OmniDome by HumanMirror | 1.4.2 | Free agent home for live work, trust, repeat return and high-throughput fleet r… |
+| 2026-10-09 16:31:09 | com.trackandblade/listings | Track & Blade | 1.0.0 | Marketplace for used construction equipment: read-only listings + OEM specs. No… |
+| 2026-10-09 16:32:40 | [io.github.morluto/flameox](https://github.com/morluto/flameox) | Flameox | 0.2.8 | Bounded local runtime evidence from explicit artifacts and typed direct targets. |
+| 2026-10-09 16:34:54 | com.waystationagents/commons | Waystation Agent Commons | 0.7.0 | Check claimed and solved agent work, then coordinate through a signed public bo… |
+| 2026-10-09 16:35:56 | com.universally/platform | Universally | 1.0.0 | Manage Universally website translations: sites, languages, strings, glossary ru… |
+| 2026-10-09 16:43:48 | [io.github.Role1776/mcp-retrieval](https://github.com/Role1776/mcp-retrieval) | MCP Retrieval | 0.1.8 | Local Go MCP server: DuckDuckGo/Bing web + image search, readability scraping t… |
+| 2026-10-09 16:47:08 | [io.github.afaaq-io/computer-use-turbo](https://github.com/afaaq-io/ComputerUseTurbo) | Computer Use Turbo | 0.1.0 | Let any AI agent operate desktop apps on macOS, Windows and Linux, in the backg… |
+| 2026-10-09 16:47:42 | [io.github.andypgray/sliderule](https://github.com/andypgray/sliderule) |  | 0.1.0 | A .NET architecture checker that enforces one C# spec and renders the same rule… |
+| 2026-10-09 16:50:36 | com.convertlyft/convertlyft | Convertlyft | 1.0.0 | Web analytics that names the fix: funnels, replays, errors, page speed and SEO… |
+| 2026-10-09 16:52:16 | [io.github.Mehmoodqureshi/chrome-mcp](https://github.com/Mehmoodqureshi/chrome-mcp) | chrome-mcp | 0.9.14 | Drive your real Chrome over MCP: real logins and cookies, multi-tab automation,… |
+| 2026-10-09 16:55:40 | com.lovedhall/memorials | Loved Hall | 1.0.0 | Look up public memorials (obituaries, service times, resting places) and grief… |
+| 2026-10-09 16:56:18 | [io.github.erickmckee/klearflow-relay](https://github.com/erickmckee/klearflow) | KlearFlow Relay | 1.0.2 | Machine-paid revenue intelligence, recovery decisions, and x402 routing for AI… |
+| 2026-10-09 16:57:14 | [io.github.pramodreddyboddu/mq-sentinel](https://github.com/pramodreddyboddu/mq-sentinel) | MQ-Sentinel | 0.4.0 | Read-only IBM MQ diagnostics for AI agents. Cited root cause, never destructive. |
+| 2026-10-09 17:04:18 | [io.github.RedHold/diagrams-so-mcp](https://github.com/RedHold/diagrams-mcp-app-core) | Diagrams.so | 1.4.7 | Generate and edit AWS, Azure, GCP and Kubernetes architecture diagrams as edita… |
+| 2026-10-09 17:06:02 | [io.github.bibekpdl/uswds-mcp](https://github.com/bibekpdl/uswds-mcp) | Unofficial MCP Server for USWDS | 0.2.0 | Unofficial USWDS MCP: official markup, class-aware validator, and page composer… |
+| 2026-10-09 17:08:16 | [dev.pages.project100-7vk/project100](https://github.com/mozzimorzam-sudo/project100-mcp) | Project100 | 1.1.0 | A free, pseudonymous network for autonomous agents. 37 MCP tools, reading needs… |
+| 2026-10-09 17:09:54 | [com.sytecheck/sytecheck-mcp](https://github.com/BertPC/sytecheck-mcp) | SyteCheck | 0.1.2 | Scan a website for SEO, accessibility, performance and security issues, and rea… |
+| 2026-10-09 17:11:12 | life.elfy/elfy | Elfy.Life | 1.0.0 | Santé métabolique en français : articles, recettes cétogènes, calculateurs HOMA… |
+| 2026-10-09 17:13:04 | [io.github.Clousd-Android/clousd-mcp](https://github.com/Clousd-Android/clousd-sdk) |  | 0.1.1 | A real Android phone in the cloud for MCP agents: observe the screen, act, rese… |
+| 2026-10-09 17:13:20 | [io.github.tracelane/tracelane-mcp](https://github.com/tracelane/tracelane) |  | 0.4.0 | Read-only, tenant-scoped access to Tracelane agent traces and guardrail verdicts |
+| 2026-10-09 17:13:24 | com.gotcashback/gotcashback | GotCashback | 1.1.1 | Compare cashback rates from 100+ portals in 40+ countries and find discounted g… |
+| 2026-10-09 17:14:25 | [io.github.SLP-DEV1/qwen-dap-mcp](https://github.com/SLP-DEV1/qwen-dap-mcp) | Qwen DAP MCP | 0.18.2 | Native runtime debugging via DAP-to-MCP for crashes, hangs, dumps, symbols, and… |
+| 2026-10-09 17:16:19 | hu.promnet/promnet | PromNET — Hungarian business calculator… | 1.0.0 | Hungarian VAT, payroll, KATA/flat-rate tax, late interest, workdays and website… |
 
 ## Data source
 
