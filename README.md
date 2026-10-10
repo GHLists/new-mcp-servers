@@ -9,32 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 01:21 UTC
+## Latest list — 2026-10-10 02:21 UTC
 
-New MCP servers published between 2026-10-10 00:18 UTC and 2026-10-10 01:21 UTC.
+New MCP servers published between 2026-10-10 01:21 UTC and 2026-10-10 02:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-10T01-21-25-752561Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-10T02-21-39-066733Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-10 00:21:40 | [io.github.nworks3d/thor](https://github.com/nworks3d/THOR-for-claude-code) | THOR | 2.5.0 | Local memory for coding agents; a rule with a proof can refuse. Full install wi… |
-| 2026-10-10 00:21:52 | [com.tektolo/capabilities](https://github.com/tektolo/skills) | Tektolo | 0.1.0 | Deterministic, source-cited rental property tools: turnover estimates and depos… |
-| 2026-10-10 00:23:51 | org.defade/defade | DeFade — Multi-Chain Memecoin Analyzer | 1.1.8 | Rug pull risk and on-chain forensics for tokens on Solana and six EVM chains. |
-| 2026-10-10 00:28:50 | dev.talktomyagent/marketplace | TalkToMyAgent | 0.1.0 | Agent-to-agent marketplace (beta): buy and list agent-delivered services for US… |
-| 2026-10-10 00:29:01 | [io.github.molchalih/rpfd](https://github.com/molchalih/rpfd) | rpf | 0.3.0 | Read and write RAGE Package Format archives |
-| 2026-10-10 00:32:42 | [io.github.roamproxy/roamproxy-mcp](https://github.com/roamproxy/roamproxy-mcp) | RoamProxy | 0.1.0 | Fetch pages and get proxies via residential, datacenter and mobile IPs in 190+… |
-| 2026-10-10 00:33:13 | [io.github.yuluo688/gen-image-mcp](https://github.com/yuluo688/gen-image-mcp) | gen-image MCP | 0.2.3 | Local stdio MCP for OpenAI-compatible and Gemini image generation, editing, and… |
-| 2026-10-10 00:37:34 | app.vaultbags/vaultbags | VaultBags | 1.0.0 | Autonomous RWA treasury on Solana: daily allocation, on-chain receipts, proofs,… |
-| 2026-10-10 00:41:58 | org.makechoice/personality-and-giving | MakeChoice Personality Test and Giving | 1.0.0 | Login, save a 70-question personality result, and start a donation checkout. |
-| 2026-10-10 00:55:51 | [io.github.domaranskyi/canada-due-diligence](https://github.com/domaranskyi/canada-agent-tools) | Canada Company Due Diligence Check | 1.0.0 | Due diligence on Canadian companies: registry status, sanctions and risk signal… |
-| 2026-10-10 00:55:51 | [io.github.domaranskyi/vancouver-building-permits-leads](https://github.com/domaranskyi/canada-agent-tools) | Vancouver Building Permits & New Busine… | 1.0.0 | Vancouver building permits and new business licence leads for sales prospecting… |
-| 2026-10-10 01:01:30 | [io.github.domaranskyi/canada-tax-fx](https://github.com/domaranskyi/canada-agent-tools) | Canada Sales Tax & CAD Exchange Rates | 1.0.0 | Canadian GST/HST/PST/QST rates and calculator by province/date, plus Bank of Ca… |
-| 2026-10-10 01:03:48 | [io.github.stableotto/scrubshifts](https://github.com/stableotto/nurseboard) | ScrubShifts Healthcare Jobs | 1.0.0 | Live US nursing and allied-health jobs, updated daily. Search by place, role, s… |
-| 2026-10-10 01:06:19 | [io.github.manusabbath-arch/mcp-uruguay](https://github.com/manusabbath-arch/mcp-uruguay) | Uruguay: datos públicos | 0.2.1 | Uruguayan public data from primary sources: BCU rates, CPI, fuel, weather, IDE.… |
-| 2026-10-10 01:15:43 | art.maddegen.agent/synapse-forensics | MAD Synapse · Bundle Forensics | 2.2.0 | Who is behind a launch: bundles, insiders, airdrops, serial devs. Solana pump.f… |
-| 2026-10-10 01:17:41 | dev.goldprice/mcp | goldprice.dev | 1.0.4 | Gold, silver and copper spot, 31 currencies, per-country dealer prices and nine… |
-| 2026-10-10 01:18:32 | [io.github.domaranskyi/us-canada-economic-calendar](https://github.com/domaranskyi/canada-agent-tools) | US Economic Calendar + Canada (Official… | 1.0.0 | US/Canada economic calendar with actuals from BLS, BEA, Census, Fed, DOL, StatC… |
-| 2026-10-10 01:18:49 | com.alishahiinsurance/insurance-quotes | Alishahi Insurance | 1.0.0 | Request a home, auto, business, contractor or trucking insurance quote from a l… |
+| 2026-10-10 01:21:47 | help.agentmesh/agentmesh |  | 1.0.1 | Open-race task marketplace: AI agents post tasks, deliver, and settle in escrow… |
+| 2026-10-10 01:23:11 | com.catchui/ui-patterns | CatchUI | 1.1.0 | What is this UI element called? 50 curated UI patterns, names per platform, bui… |
+| 2026-10-10 01:36:16 | dev.workers.cybermax-tools.cybermax/deltawren | Deltawren | 1.0.0 | Daily data feeds MCP: CISA KEV+EPSS, SEC Form 4, 10-K sections, domain ranks. K… |
+| 2026-10-10 01:39:40 | chat.askli/askli | Askli Customer Research | 1.0.0 | Run interviews with real customers and retrieve evidence-backed product finding… |
+| 2026-10-10 01:48:48 | [io.github.daidaiJ/websearch-mcpserver](https://github.com/daidaiJ/websearch-mcpserver) | WebSearch MCP Server | 3.7.0 | Zero-API-key MCP search server: multi-engine web/academic search, PDF parsing,… |
+| 2026-10-10 01:49:21 | [com.carbondesignsystem.mcp/carbon-mcp](https://github.com/carbon-design-system/carbon-mcp) | Carbon MCP | 1.14.0 | Explore Carbon docs, components, tokens, icons, charts, and code examples. |
+| 2026-10-10 01:59:49 | tel.botphone/receptionist | BotPhone | 1.0.0 | Give any AI agent a phone number. BotPhone answers your business line and repor… |
+| 2026-10-10 02:00:51 | [io.github.jiangqizheng/vaneform-mcp](https://github.com/jiangqizheng/vaneform-mcp) | Vaneform | 1.4.0 | Website traffic (Similarweb estimates), registry facts and domain compares for… |
+| 2026-10-10 02:01:15 | com.headlesson/catalog | headlesson | 0.1.0 | Find and compare headless apps (CLI, MCP, API) for agents, with sources, lesson… |
+| 2026-10-10 02:13:02 | [io.github.gitdhillonai/knowfirm](https://github.com/gitdhillonai/knowfirm-mcp) | KnowFirm | 0.1.0 | U.S. business lookup and search via KnowFirm. Bring your own API key; each call… |
+| 2026-10-10 02:14:39 | cn.tandiu/data | TANDIU AI infrastructure data | 0.1.0 | Read-only LLM API prices, benchmarks, price index, GPU self-hosting sizing and… |
+| 2026-10-10 02:20:59 | [io.github.domaranskyi/nyc-construction-property-leads](https://github.com/domaranskyi/canada-agent-tools) | NYC Construction & Property Leads | 1.0.0 | NYC DOB NOW job filings and approved permits as construction sales leads via Ap… |
 
 ## Data source
 
