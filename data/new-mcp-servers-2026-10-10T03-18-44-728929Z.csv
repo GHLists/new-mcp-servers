@@ -1,0 +1,10 @@
+created_at,server,title,version,repository,transports,description
+2026-10-10T02:35:33.136523Z,com.fromerica.api/trade-data,Fromerica U.S. Trade Data,1.1.0,,streamable-http,"U.S. tariffs (HTS), Schedule B codes, export statistics, party screening and FMC license checks."
+2026-10-10T02:45:36.71783Z,com.rowattest/rowattest,RowAttest,1.0.0,,streamable-http,Runs an eight-stage isolation test against your staging Supabase and issues a signed attestation.
+2026-10-10T02:48:10.70398Z,ai.klype/klype,Klype AI,1.0.0,,streamable-http,Draft posts in your own voice from saved business context and check every draft before you post.
+2026-10-10T02:51:57.819584Z,io.github.bountyoperator/bounty-operator,Bounty Operator,0.9.7,https://github.com/bountyoperator/bounty-operator,streamable-http,Argues against a security finding or a draft bug bounty report before you submit it.
+2026-10-10T02:57:22.858176Z,io.github.campfiresms/campfire-mcp,Campfire SMS,0.1.0,https://github.com/campfiresms/campfire-mcp,streamable-http,Hosted two-way SMS bridge: your coding agent texts you when it needs an answer; you reply by SMS.
+2026-10-10T03:00:44.992594Z,io.github.morvs-ai/morvs,MORVS,0.1.0,https://github.com/morvs-ai/morvs-plugins,streamable-http,"Keyless, read-only US public records for agents: SEC, FDA, enforcement, sanctions, market data."
+2026-10-10T03:06:27.729401Z,com.chiemem/chiemem,Chiemem,1.0.0,,streamable-http,"Create, publish and search AI prompt and how-to listings on Chiemem (Japanese AI know-how market)."
+2026-10-10T03:12:59.314795Z,io.nestr/mcp,,0.1.110,https://github.com/nestr-dev/nestr-mcp,streamable-http,"Connect AI to Nestr for Holacracy, Sociocracy, and self-organizing teams."
+2026-10-10T03:13:35.630902Z,io.github.projectworks007/real-estate-listings-2,Real Estate Listings Data (part 2),1.0.0,https://github.com/projectworks007/apify-data-mcp,streamable-http,"Property listings for sale and rent from immowelt, Fotocasa, Immoweb, Otodom, Redfin, realtor.com."

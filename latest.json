@@ -176,6 +176,7 @@
     "ai.kisscode/kisscode",
     "ai.kloudy/kloudy",
     "ai.klox/klox",
+    "ai.klype/klype",
     "ai.knowledgeporridge/knowledge-porridge",
     "ai.kontato/kontato",
     "ai.kosmodrom/kosmodrom",
@@ -1110,6 +1111,7 @@
     "com.cheapcadtools/tools",
     "com.checktajob/checktajob",
     "com.chessigma/chessigma",
+    "com.chiemem/chiemem",
     "com.cielstay/cielstay",
     "com.cintrasupply/cintra-quote",
     "com.citead/score",
@@ -1467,6 +1469,7 @@
     "com.freightforwarderfinder/site",
     "com.freightinsurancecost/site",
     "com.fridgetoforks/recipes",
+    "com.fromerica.api/trade-data",
     "com.fronterasignal/frontera-signal",
     "com.frontlatch/gateway",
     "com.frontstat/visibility",
@@ -2325,6 +2328,7 @@
     "com.roroquantum/roro-quantum",
     "com.rotazo/site",
     "com.roughindesk/site",
+    "com.rowattest/rowattest",
     "com.rubiic/rubiic",
     "com.run402.chiefofstaff-solana/token-safety",
     "com.runadiva/runadiva",
@@ -4956,6 +4960,7 @@
     "io.github.bosmdavid-gif/dropthehassle",
     "io.github.bostrt/manpage-mcp",
     "io.github.botzrDev/dreamd",
+    "io.github.bountyoperator/bounty-operator",
     "io.github.bourhaouta/tailwindshades",
     "io.github.bpmnkit/bpmnkit",
     "io.github.brajendrak00068/levea-mcp-server",
@@ -4997,6 +5002,7 @@
     "io.github.cambriannetwork/cambrian-api",
     "io.github.cammac-creator/ibanforge",
     "io.github.cammac-creator/openswissdata",
+    "io.github.campfiresms/campfire-mcp",
     "io.github.canopy-labs/featureflip",
     "io.github.capad-xyz/searchts",
     "io.github.cappyeo/discord-mcp",
@@ -6457,6 +6463,7 @@
     "io.github.morluto/flameox",
     "io.github.morluto/jacobian",
     "io.github.morluto/rea",
+    "io.github.morvs-ai/morvs",
     "io.github.moshebeider3-png/omnitwine-chat-sync",
     "io.github.mosmn/qeemah",
     "io.github.mostmojo/swipefast",
@@ -7052,6 +7059,7 @@
     "io.github.projectworks007/marketplace-listings",
     "io.github.projectworks007/news-and-trends",
     "io.github.projectworks007/real-estate-listings",
+    "io.github.projectworks007/real-estate-listings-2",
     "io.github.projectworks007/vehicle-listings",
     "io.github.projectworks007/web-and-dev-tools",
     "io.github.projectworks007/youtube-transcripts",
@@ -8064,6 +8072,7 @@
     "io.namiq/lattice",
     "io.nearer/nearer",
     "io.neosyn/neosyn-fpga-mcp",
+    "io.nestr/mcp",
     "io.neume/neume",
     "io.nodegrove/vram-mcp",
     "io.noetive/mcp-server",
@@ -9175,11 +9184,11 @@
     "za.co.cryptodecentral/sovereign"
   ],
   "list": {
-    "count": 12,
-    "from": "2026-10-10T01:21:25.752561Z",
-    "path": "data/new-mcp-servers-2026-10-10T02-21-39-066733Z.csv",
-    "to": "2026-10-10T02:21:39.066733Z"
+    "count": 9,
+    "from": "2026-10-10T02:21:39.066733Z",
+    "path": "data/new-mcp-servers-2026-10-10T03-18-44-728929Z.csv",
+    "to": "2026-10-10T03:18:44.728929Z"
   },
   "source_truncated": false,
-  "window": "2026-10-10T02:21:39.066733Z"
+  "window": "2026-10-10T03:18:44.728929Z"
 }
