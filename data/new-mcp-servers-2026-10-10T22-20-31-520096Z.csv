@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-10-10T21:18:52.121296Z,io.github.omkardongre/veilquota,VeilQuota,0.1.0,https://github.com/omkardongre/veilquota,,"Private OCR, web search, and attested AI chat, paid with anonymous credits bought with shielded ZEC"
+2026-10-10T21:18:56.61102Z,io.github.benethos-hub/benethos-mailbox-mcp,,0.4.1,https://github.com/benethos-hub/mailbox,,"MCP server that gives AI agents your mailboxes through mailbox-service, within its token's rights."
+2026-10-10T21:20:42.441943Z,sh.rentadomain/rentadomain,,1.0.0,,streamable-http,"Rent a domain name by the month: find it, price it, read the lease terms. You approve the rent."
+2026-10-10T21:22:59.19141Z,com.productpillars/product-pillars,Product Pillars,1.4.0,https://github.com/jeremybelcher/product-pillars-agent-kit,streamable-http,"Flowcharts that people and agents edit together on one live canvas, exported as Mermaid."
+2026-10-10T21:26:44.734948Z,io.github.raintree-technology/docpull,DocPull,6.6.0,https://github.com/raintree-technology/docpull,,"Sync public web sources into cited context packs for AI agents, RAG, and MCP clients."
+2026-10-10T21:35:07.631303Z,io.github.fvossel/unicode-logic-kit,Unicode Logic Kit,0.32.0,https://github.com/fvossel/unicode-logic-kit,,"Parse, check, prove and translate logic formulas: first-order, modal, description, higher-order."
+2026-10-10T21:35:39.747737Z,io.github.urbankitstudio/mcp-atlas,,0.2.21,https://github.com/urbankitstudio/mcp-atlas,,Owner and APN lookup across 280 US counties (291 ArcGIS endpoints). No API key needed.
+2026-10-10T21:36:02.728619Z,io.github.nirholas/papertrade-ai,Papertrade AI,0.1.0,https://github.com/nirholas/papertrade-ai,streamable-http,"Trade Papertrade BTC and ETH perps from Claude, ChatGPT, Codex, Cursor and any MCP client."
+2026-10-10T21:36:54.976629Z,io.aipmlab/ai-pm-lab,AI PM Lab,1.0.0,,streamable-http,"Learn how AI products work: lessons, cost calculators, real experiments, spec and eval guides."
+2026-10-10T21:38:36.221914Z,com.revisionme/revisionme,Revisionme,1.0.0,,streamable-http,Visual feedback from your website's visitors as tasks for your coding agent.
+2026-10-10T21:40:58.608725Z,ai.vicem/vicem,Vicem,1.0.0,,streamable-http,"See the calls your Vicem answered and ask it to call or message someone, with your OK first."
+2026-10-10T21:41:25.53435Z,dev.cowerx/dailymd,The Daily Markdown,1.0.0,,streamable-http,"Free AI news, ranked stories by section, and trending topics. No authentication required."
+2026-10-10T21:51:52.825174Z,com.sugufax/fax,すぐFAX SuguFAX – Fax to Japan from AI,1.0.0,,streamable-http,Fax PDFs/photos to Japan from Claude/ChatGPT. OAuth: pay per fax from ¥400 or credits. AIから日本へFAX
+2026-10-10T21:51:53.119868Z,com.sugufax/fax-payperuse,すぐFAX SuguFAX – Pay per fax (no account),1.0.0,,streamable-http,"Fax to Japan from AI, no account: Stripe link per fax, from ¥400, up to 100 pages. 1回払いでFAX送信"
+2026-10-10T21:51:53.423976Z,com.sugufax/fax-credits,すぐFAX SuguFAX – AI fax credits (API key),1.0.0,,streamable-http,"Fax to Japan from AI with prepaid credits (Bearer sgx_ key), 1 credit = 1 fax. AIクレジットでFAX送信"
+2026-10-10T21:52:53.071506Z,io.github.secforge/chrome-devtools-mcp,Chrome DevTools MCP,1.10.1004,https://github.com/ChromeDevTools/chrome-devtools-mcp,,MCP server for Chrome DevTools
+2026-10-10T21:53:28.274496Z,io.vulnify/mcp,Vulnify,0.1.2,https://github.com/vulnify/vulnify-mcp,streamable-http,"Ask Vulnify before an AI agent acts. Check, record, and read policy decisions."
+2026-10-10T22:10:27.527623Z,com.germandex/guides,Germandex Student Guides,1.0.0,,streamable-http,"Read-only student guides to Germany: ten cities, housing, banking, jobs and everyday life."
+2026-10-10T22:17:00.564592Z,com.siftsmith/signals,Siftsmith Company Signals,1.0.0,,streamable-http,"Hiring, tech stack, buyer intent, email security and launch signals for any company domain."
+2026-10-10T22:18:52.702479Z,com.ujeebu/mcp,Ujeebu,1.0.0,,streamable-http,"Web scraping, Google SERP, Markdown and ChatGPT/Gemini answers as typed tools for AI agents."
+2026-10-10T22:19:06.487147Z,io.github.pipeworx-io/arkansas-opinions,Arkansas Opinions,0.1.0,https://github.com/pipeworx-io/mcp-arkansas-opinions,streamable-http,arkansas-opinions — current Arkansas Supreme Court and Court of Appeals
