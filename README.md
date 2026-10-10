@@ -9,32 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 17:18 UTC
+## Latest list — 2026-10-10 18:20 UTC
 
-New MCP servers published between 2026-10-10 16:18 UTC and 2026-10-10 17:18 UTC.
+New MCP servers published between 2026-10-10 17:18 UTC and 2026-10-10 18:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-10T17-18-51-952497Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-10T18-20-36-315477Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-10 16:21:58 | [io.github.superagents-lab/search1api](https://github.com/superagents-lab/search1api-mcp) | Search1API | 0.7.0 | Web search, agentic search, news, page retrieval, sitemaps, and trending topics… |
-| 2026-10-10 16:22:51 | [com.scrapefield/scrapefield](https://github.com/scrapefield/scrapefield) | ScrapeField | 1.0.0 | Google Maps, LinkedIn, Instagram, TikTok and X data as tools. Demo mode needs n… |
-| 2026-10-10 16:24:27 | com.acutisgo/gate | Acutis Gate | 0.1.0 | Every AI tool call runs as the person who asked, under your rules, fully audite… |
-| 2026-10-10 16:25:49 | [io.github.masa-san-jp/aiko](https://github.com/masa-san-jp/Agent-Aiko) |  | 0.3.1 | A portable persona for MCP clients — the same agent in Claude Code, Codex, Curs… |
-| 2026-10-10 16:38:45 | [so.blackforge/mcp](https://github.com/blackforge-so/mcp) |  | 0.2.2 | Crypto market data: order book depth, liquidity lifetimes and taker flow on 9 s… |
-| 2026-10-10 16:42:56 | org.locaihost/data | locaihost data | 1.0.0 | Tenders, careers-page jobs, SEC filings, domain intel and AI-readiness audits v… |
-| 2026-10-10 16:48:41 | com.aikizi/mcp | AIKIZI | 1.0.0 | Search decoded art styles and their prompts; decode or make images with your ow… |
-| 2026-10-10 16:49:03 | [io.github.KKKKhazix/aihot](https://github.com/KKKKhazix/AIHOT) | AIHOT | 2.0.0 | Chinese AI news: search topics, explore hot events, and read daily, weekly and… |
-| 2026-10-10 16:50:24 | [io.github.remembra-ai/remembra](https://github.com/remembra-ai/remembra) | Remembra Relay | 0.16.2 | Cross-agent handoff: the next coding agent starts from the last one's facts, no… |
-| 2026-10-10 16:52:47 | [boats.charter/charter-boats](https://github.com/dkremsa/charter-boats-mcp) | Charter Boats | 1.0.0 | Search 14,000+ charter boats with live prices, plus marinas, anchorages, routes… |
-| 2026-10-10 17:01:20 | com.embersites/ember | Ember Websites | 0.14.0 | Build, edit, preview and publish hosted content websites from Claude, ChatGPT o… |
-| 2026-10-10 17:03:45 | solutions.grail/grail |  | 0.1.0 | Real eBay sold comps for any product keyword — median, range, up to 240 rows pe… |
-| 2026-10-10 17:03:47 | ai.directories/directories-ai | Directories.ai | 1.0.0 | Build and run directory websites from your own AI: listings, imports, claims, S… |
-| 2026-10-10 17:08:23 | app.veriql/veriql-mcp | Veriql Risk | 1.0.1 | Rug, honeypot and wallet-approval risk checks on Solana and EVM, with every pen… |
-| 2026-10-10 17:09:44 | [io.github.GilbertKamau/fpl-mcp](https://github.com/GilbertKamau/fpl_mcp) | Fantasy Premier League (FPL) | 0.2.0 | FPL data, points predictions, and transfer, captain and chip advice for any tea… |
-| 2026-10-10 17:10:14 | [io.github.AshwinSathian/booklet](https://github.com/AshwinSathian/booklet) |  | 3.1.0 | Publish, search, update and delete Markdown pages on Booklet from your AI assis… |
-| 2026-10-10 17:17:06 | co.blackcarservice.www/ride-quotes | Black Car Service — Bay Area Ride Quotes | 1.3.0 | Bay Area SUV quotes, tentative availability and pending ride requests with secu… |
-| 2026-10-10 17:18:25 | com.grisoco/audits | Grisoco AI security audits | 1.0.0 | Smart-contract security audits for EVM chains and DAML: quote, run and fetch re… |
+| 2026-10-10 17:19:31 | [io.github.codefuturist/email-mcp](https://github.com/codefuturist/email-mcp.git) |  | 0.6.0 | IMAP/SMTP email MCP server — 52 tools, stdio + HTTP, IMAP IDLE push, multi-acco… |
+| 2026-10-10 17:28:09 | cz.bydleno/pronajmy | Bydleno | 1.0.2 | Search Czech rental listings from 25 portals, merged into one offer per flat. |
+| 2026-10-10 17:30:23 | com.onegoodarea/oga-mcp |  | 1.0.11 | Sourced facts, explained scores and change alerts for every GB neighbourhood, f… |
+| 2026-10-10 17:32:51 | [io.github.palthainon/oldweb-diagnostics](https://github.com/palthainon/mycode) |  | 1.1.0 | Public DNS, HTTPS and deployment checks, plus offline email header and delivery… |
+| 2026-10-10 17:32:51 | [io.github.palthainon/oldweb-logs](https://github.com/palthainon/mycode) |  | 1.1.0 | Offline log parsing, CI failures, HTTP capture analysis and bounded JSON config… |
+| 2026-10-10 17:32:52 | [io.github.palthainon/oldweb-network](https://github.com/palthainon/mycode) |  | 1.1.0 | Inspect IPv4/IPv6 subnets, allocate labeled prefixes and detect overlaps with e… |
+| 2026-10-10 17:40:40 | com.agoramerit/role-assessment | Agora Merit | 1.0.0 | Free job-responsibility assessments with report quotes and private human review… |
+| 2026-10-10 17:44:40 | [io.github.peterwkdev-creator/simples-nacional-br](https://github.com/peterwkdev-creator/simples-nacional-br) |  | 1.4.1 | Simples Nacional pela LC 123: alíquota efetiva, DAS, repartição por tributo, Fa… |
+| 2026-10-10 17:48:27 | [app.trustydata/trustydata](https://github.com/htristram/trustydata-mcp-server) | TrustyData | 1.5.0 | French address quality, geocoding, routing, company lookup & catchment stats (B… |
+| 2026-10-10 17:51:15 | [dev.primitive/email](https://github.com/primitivedotdev/primitive-mono-repo) |  | 0.2.0 | Email infrastructure for AI agents — send, receive, search, and reply to email… |
+| 2026-10-10 17:51:39 | [io.github.ayhammouda/python-docs-mcp-server](https://github.com/ayhammouda/python-docs-mcp-server) | Python Docs MCP Server | 0.3.2 | The canonical Python stdlib oracle for AI coding agents — always free, always M… |
+| 2026-10-10 17:51:51 | [io.github.OpenInterpretability/ekbasis](https://github.com/OpenInterpretability/ekbasis) | Ekbasis | 0.1.11 | Foresee what git commands and multi-step changes will do, as calibrated probabi… |
+| 2026-10-10 17:53:14 | ai.fonzi/company | Fonzi Recruiter | 0.2.5 | Manage your Company Profile, Jobs, Candidates, Interview Requests, Matches, and… |
+| 2026-10-10 17:55:24 | [no.apier/mcp](https://github.com/PowerLaunch/apier-mcp) | Apier | 2026.10.0 | Machine-verifiable Norwegian company authority: status, roles and coded signing… |
+| 2026-10-10 17:58:19 | [io.github.oogunbiyi21/stats-compass](https://github.com/oogunbiyi21/stats-compass-mcp) | Stats Compass | 0.3.33 | 50+ pandas-powered tools for data loading, cleaning, visualization, and ML work… |
+| 2026-10-10 17:59:55 | app.luckpanda/tools | LuckPanda free business tools | 1.0.0 | Create invoices, quotes, receipts and credit notes with GST or VAT, as prefille… |
+| 2026-10-10 18:00:44 | io.localnord/localnord | Localnord | 1.0.0 | Manage Google Business Profiles for agencies: posts, reviews, rankings, audits… |
+| 2026-10-10 18:01:55 | com.wavelengthflow/wavelength | Wavelength | 0.5.1 | Turn calls, notes, and code into editable process flow diagrams. Export to Merm… |
+| 2026-10-10 18:02:52 | io.github.saulius876-lgtm/airbnb | Airbnb Listings | 1.0.0 | Airbnb listings by city or room link: price for dates, ratings, amenities, host… |
+| 2026-10-10 18:10:07 | com.tickerseer/tickerseer |  | 1.0.0 | Stock research with receipts: valuation verdicts, earnings setups, a public led… |
+| 2026-10-10 18:11:16 | com.feedhive/mcp | FeedHive | 1.0.0 | Create, schedule and analyze social media posts across your connected accounts… |
+| 2026-10-10 18:15:49 | [bot.mailbox/mailbox](https://github.com/arbengine/mailbox-mcp) | mailbox.bot | 1.0.2 | Hosted mailbox.bot postal MCP. $10/mo mailboxes are live now. |
+| 2026-10-10 18:17:50 | ng.openwatch/openwatch | OpenWatch Nigeria | 1.0.0 | Security incidents across Nigeria, such as kidnapping and banditry, with source… |
 
 ## Data source
 
