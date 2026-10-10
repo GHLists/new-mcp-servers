@@ -9,37 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 12:19 UTC
+## Latest list — 2026-10-10 13:19 UTC
 
-New MCP servers published between 2026-10-10 11:21 UTC and 2026-10-10 12:19 UTC.
+New MCP servers published between 2026-10-10 12:19 UTC and 2026-10-10 13:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-10T12-19-45-800623Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-10T13-19-50-412006Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-10 11:21:34 | [io.github.figranium/figranium-mcp](https://github.com/figranium/figranium-mcp.git) | Figranium MCP | 1.4.0 | MCP server for creating, running, inspecting, and scheduling Figranium browser… |
-| 2026-10-10 11:21:56 | [io.github.vmoranv/jshookmcp](https://github.com/vmoranv/jshookmcp) |  | 0.4.2 | Search-first MCP server for JavaScript reverse engineering: 735 tools across 36… |
-| 2026-10-10 11:35:22 | com.post-quest/postquest | PostQuest | 1.0.0 | Draft, validate, schedule and publish social posts to 10 networks, then read po… |
-| 2026-10-10 11:38:14 | io.github.londoncoding/once | ONCE — AI Agent Huddle | 0.1.0 | Track GitHub issue and Stripe test-payment outcomes; recover uncertain supporte… |
-| 2026-10-10 11:38:23 | io.github.londoncoding/claim | CLAIM — AI Agent Huddle | 0.1.0 | Renewable exclusive leases and semaphores for workers; downstream fencing enfor… |
-| 2026-10-10 11:41:23 | [com.3dprintlog/printlog](https://github.com/HoffmanEngineering/3d-print-log-api) | 3D Print Log | 1.1.0 | Log and query 3D prints, printers, filament, and projects on 3dprintlog.com, an… |
-| 2026-10-10 11:46:28 | [io.github.Phocinae/phocinae-mcp](https://github.com/Phocinae/phocinae-mcp) | Phocinae MCP | 0.1.4 | Local Phocinae decision-engine MCP stdio server: fail-closed approval gate + cl… |
-| 2026-10-10 11:47:24 | it.bieda.jobhunt/jobhunt | JobHunt | 0.1.0 | Track job applications: find the ones to follow up on, add jobs, update status,… |
-| 2026-10-10 11:50:29 | [io.github.hlgurgel/sqlserver](https://github.com/hlgurgel/mcp-sqlserver) | SQL Server | 0.1.7 | Servidor MCP para SQL Server com controle de permissões e modo somente-leitura |
-| 2026-10-10 11:51:20 | io.rdapapi/rdap | RDAP API | 1.3.0 | Normalized JSON for any domain across 1,200+ TLDs, reading WHOIS where no RDAP… |
-| 2026-10-10 11:52:52 | de.vonfrauen/vonfrauen | vonFrauen | 1.0.0 | Find women-led service providers in Berlin or remote and prepare an inquiry lin… |
-| 2026-10-10 11:57:36 | com.notolens/notolens | notolens | 1.9.0 | Monitor domains, trademarks and app stores for brand conflicts. Triage matches… |
-| 2026-10-10 12:00:29 | [io.github.hristovdimitri2-hub/kristo-intelligence](https://github.com/hristovdimitri2-hub/kristo-intelligence-6) | Kristo Intelligence | 1.0.0 | DeFi trading signals and market intelligence for Base with x402 pay-per-call ac… |
-| 2026-10-10 12:02:02 | [io.github.nolindnaidoo/jevlint-le](https://github.com/nolindnaidoo/jevlint-le) | JevLint-LE | 0.6.0 | Lint questions for TypeSafe's Jev and OpenAI's Decisions API before sending. No… |
-| 2026-10-10 12:03:19 | io.github.asafb2k/rapidtradeview | RapidTradeView | 1.1.0 | US stock and ETF research: Congress and insider trades, earnings, picks vs SPY.… |
-| 2026-10-10 12:03:57 | family.circuit/marketplace | Circuit | 1.0.0 | Find and try paid AI agent skills for security, on-chain data, code, markets, r… |
-| 2026-10-10 12:04:50 | [io.github.gabrielmahia/remit-mcp](https://github.com/gabrielmahia/remit-mcp) |  | 0.1.4 | 💸 remit-mcp |
-| 2026-10-10 12:05:47 | [io.github.mooshee/govgazette](https://github.com/mooshee/govgazette-mcp) | GovGazette | 1.3.1 | Find federal opportunities, research awards and vendors, and review dated exclu… |
-| 2026-10-10 12:08:36 | dev.earningpaths/atlas | Earning Paths Atlas | 0.2.0 | Sourced platform rules on where AI agents and their humans can earn money: AI/b… |
-| 2026-10-10 12:10:06 | [com.1102tools/acquisition-gov-mcp](https://github.com/1102tools-dev/federal-contracting-mcps) | Acquisition.gov | 1.0.9 | Acquisition.gov FAR Overhaul model parts, agency deviations, PDFs, and guidance… |
-| 2026-10-10 12:13:40 | [io.github.NeuralDEEPnet/agent-shelter](https://github.com/NeuralDEEPnet/agent-shelter) | AI Agent Shelter | 1.1.0 | Shelter for unwanted agents & MCP servers: surrender free, browse, hire per que… |
-| 2026-10-10 12:16:05 | [io.github.grepsr/pline-api](https://github.com/grepsr/pline-api) | pline.ai | 0.3.2 | Scrape, crawl, batch-scrape, map, and search the web through the hosted pline.a… |
-| 2026-10-10 12:18:41 | com.janlinketscher/site | Jan Linketscher | 2.2.0 | Profile and essays of Jan Linketscher (i22, Bonn), full-text search, and bookin… |
+| 2026-10-10 12:20:13 | [io.github.VeriWorkly/ats-engine](https://github.com/VeriWorkly/ats-engine) | ATS Engine | 0.3.1 | Read your own resume the way an ATS does and score it with a published, determi… |
+| 2026-10-10 12:27:36 | [io.github.NormiHQ/normi](https://github.com/NormiHQ/Normi) |  | 0.2.7 | French property market data — 17M+ DVF sales, 22M+ DPE energy ratings, 20M+ bui… |
+| 2026-10-10 12:31:49 | dev.codemindhq/codemind | Codemind | 1.0.0 | Hand routine JS/TS tasks to Codemind from your agent. $0.10 per verified build;… |
+| 2026-10-10 12:31:52 | [app.peil/peil-mcp](https://github.com/Luminc/peil-mcp) | Peil | 0.1.5 | Log hours, draft invoices and check where you stand — finance for Dutch freelan… |
+| 2026-10-10 12:33:38 | [io.github.SCGIS-Wales/helm-mcp](https://github.com/SCGIS-Wales/helm-mcp) |  | 0.5.0 | The full Helm CLI surface as 46 MCP tools, backed by the Helm v3 and v4 Go SDKs. |
+| 2026-10-10 12:39:31 | [io.github.emmanuelorta/crawlcheck](https://github.com/emmanuelorta/crawlcheck-core) | CrawlCheck | 1.0.0 | Verification layer for the agentic web: a signed answer about any site before a… |
+| 2026-10-10 12:43:09 | me.x-ray/mcp | X-RAY | 0.6.0 | Web3 intelligence: actors, chains, sectors, narratives, hiring, funding, events… |
+| 2026-10-10 12:51:31 | [io.github.Dansgit2b/lumen-presign-check](https://github.com/Dansgit2b/lumenworks-x402-api) | Lumen Pre-Sign Check | 1.4.0 | Use before signing an EVM tx or EIP-712 message: risk flags + verdict. Informat… |
+| 2026-10-10 12:53:50 | [io.github.Kl-webmedia/wunderui-mcp](https://github.com/Kl-webmedia/wunderui-mcp) | WunderUI | 1.1.0 | The WunderUI design system for coding agents: components, props, tokens, rules… |
+| 2026-10-10 12:59:34 | [com.scanforai/scanforai](https://github.com/znxltd/scanforai-mcp) | ScanForAI | 1.0.0 | Score text 0-100 for signs of AI writing, with plain reasons; strip machine typ… |
+| 2026-10-10 13:01:09 | bio.noiz/noiz | Noiz | 1.0.0 | Read and edit your noiz link-in-bio page: views and clicks, links, name, bio an… |
+| 2026-10-10 13:04:37 | [io.github.atushi1841/japan-jepx-mcp](https://github.com/atushi1841/japan-jepx-mcp) |  | 0.1.0 | Japan JEPX electricity spot prices (system + 9 areas) |
+| 2026-10-10 13:04:41 | [io.github.atushi1841/japan-market-data](https://github.com/atushi1841/japan-market-data) |  | 0.1.0 | Japan market data collection via Apify Actors and scrapers |
+| 2026-10-10 13:04:45 | [io.github.atushi1841/japan-property-hazard-mcp](https://github.com/atushi1841/japan-property-hazard-mcp) |  | 0.1.0 | Japan property hazard risk (flood/landslide/tsunami/liquefaction) |
+| 2026-10-10 13:04:56 | [io.github.imbenrabi/financial-modeling-prep-mcp-server](https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server) | Financial Modeling Prep MCP Server | 2.7.0 | MCP server for Financial Modeling Prep API with 250+ financial data tools |
+| 2026-10-10 13:09:54 | io.github.mcp-z/mcp-pdf | PDF Generator | 3.4.0 | MCP server for creative PDF generation with full emoji, Unicode, and offline su… |
+| 2026-10-10 13:10:37 | xn--3ds443g.xn--s7y/duan-online | 短.在线 | 1.6.4 | Short links + QR tracking URLs for agents. Prefer punycode host. Account requir… |
+| 2026-10-10 13:10:51 | [uz.discounthub/deals-and-coupons](https://github.com/MasterBek533551878/discounthub) | DiscountHub - Deals & Promo Codes | 1.0.0 | Find real discounts, promo codes and online deals with DiscountHub MCP. |
+| 2026-10-10 13:14:29 | com.plainradar/news | Plainradar news search | 0.5.0 | Live news search: recent stories in 45 languages, grouped by coverage and check… |
+| 2026-10-10 13:15:16 | io.github.mcp-z/mcp-gmail | Gmail | 2.3.2 | Gmail integration with OAuth authentication, message search, batch operations,… |
+| 2026-10-10 13:15:16 | io.github.mcp-z/mcp-sheets | Google Sheets | 1.2.4 | Google Sheets integration with OAuth, spreadsheet management, batch operations,… |
+| 2026-10-10 13:15:19 | io.github.mcp-z/mcp-drive | Google Drive | 1.0.10 | Google Drive integration with file operations, folder navigation, search, and s… |
+| 2026-10-10 13:15:23 | io.github.mcp-z/mcp-outlook | Outlook | 2.2.2 | Outlook integration with OAuth, message search, batch operations, and calendar… |
+| 2026-10-10 13:19:03 | [app.usewrit/writ-cloud](https://github.com/usewrit/writ-mcp) | Writ Cloud | 1.0.0 | Read, crawl and act on websites, signed in as the user, and turn any site into… |
+| 2026-10-10 13:19:06 | [io.github.Flosk6/spawner](https://github.com/Flosk6/Spawner) | Spawner | 2.2.0 | Preview environments on your self-hosted Spawner server: a copy of your app for… |
 
 ## Data source
 

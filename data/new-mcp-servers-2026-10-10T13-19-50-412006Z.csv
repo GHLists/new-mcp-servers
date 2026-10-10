@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-10-10T12:20:13.823561Z,io.github.VeriWorkly/ats-engine,ATS Engine,0.3.1,https://github.com/VeriWorkly/ats-engine,,"Read your own resume the way an ATS does and score it with a published, deterministic rubric."
+2026-10-10T12:27:36.545574Z,io.github.NormiHQ/normi,,0.2.7,https://github.com/NormiHQ/Normi,streamable-http,"French property market data — 17M+ DVF sales, 22M+ DPE energy ratings, 20M+ building records."
+2026-10-10T12:31:49.773637Z,dev.codemindhq/codemind,Codemind,1.0.0,,streamable-http,Hand routine JS/TS tasks to Codemind from your agent. $0.10 per verified build; failures are free.
+2026-10-10T12:31:52.441653Z,app.peil/peil-mcp,Peil,0.1.5,https://github.com/Luminc/peil-mcp,,"Log hours, draft invoices and check where you stand — finance for Dutch freelancers."
+2026-10-10T12:33:38.966477Z,io.github.SCGIS-Wales/helm-mcp,,0.5.0,https://github.com/SCGIS-Wales/helm-mcp,,"The full Helm CLI surface as 46 MCP tools, backed by the Helm v3 and v4 Go SDKs."
+2026-10-10T12:39:31.111717Z,io.github.emmanuelorta/crawlcheck,CrawlCheck,1.0.0,https://github.com/emmanuelorta/crawlcheck-core,streamable-http,Verification layer for the agentic web: a signed answer about any site before an agent acts.
+2026-10-10T12:43:09.809458Z,me.x-ray/mcp,X-RAY,0.6.0,,streamable-http,"Web3 intelligence: actors, chains, sectors, narratives, hiring, funding, events and daily metrics."
+2026-10-10T12:51:31.198859Z,io.github.Dansgit2b/lumen-presign-check,Lumen Pre-Sign Check,1.4.0,https://github.com/Dansgit2b/lumenworks-x402-api,streamable-http,"Use before signing an EVM tx or EIP-712 message: risk flags + verdict. Informational, no simulation"
+2026-10-10T12:53:50.929623Z,io.github.Kl-webmedia/wunderui-mcp,WunderUI,1.1.0,https://github.com/Kl-webmedia/wunderui-mcp,,"The WunderUI design system for coding agents: components, props, tokens, rules and skills."
+2026-10-10T12:59:34.373499Z,com.scanforai/scanforai,ScanForAI,1.0.0,https://github.com/znxltd/scanforai-mcp,streamable-http,"Score text 0-100 for signs of AI writing, with plain reasons; strip machine typography."
+2026-10-10T13:01:09.717464Z,bio.noiz/noiz,Noiz,1.0.0,,streamable-http,"Read and edit your noiz link-in-bio page: views and clicks, links, name, bio and location."
+2026-10-10T13:04:37.613028Z,io.github.atushi1841/japan-jepx-mcp,,0.1.0,https://github.com/atushi1841/japan-jepx-mcp,,Japan JEPX electricity spot prices (system + 9 areas)
+2026-10-10T13:04:41.68205Z,io.github.atushi1841/japan-market-data,,0.1.0,https://github.com/atushi1841/japan-market-data,,Japan market data collection via Apify Actors and scrapers
+2026-10-10T13:04:45.806776Z,io.github.atushi1841/japan-property-hazard-mcp,,0.1.0,https://github.com/atushi1841/japan-property-hazard-mcp,,Japan property hazard risk (flood/landslide/tsunami/liquefaction)
+2026-10-10T13:04:56.700919Z,io.github.imbenrabi/financial-modeling-prep-mcp-server,Financial Modeling Prep MCP Server,2.7.0,https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server,,MCP server for Financial Modeling Prep API with 250+ financial data tools
+2026-10-10T13:09:54.88974Z,io.github.mcp-z/mcp-pdf,PDF Generator,3.4.0,,,"MCP server for creative PDF generation with full emoji, Unicode, and offline support"
+2026-10-10T13:10:37.45027Z,xn--3ds443g.xn--s7y/duan-online,短.在线,1.6.4,,streamable-http,Short links + QR tracking URLs for agents. Prefer punycode host. Account required to create links.
+2026-10-10T13:10:51.96424Z,uz.discounthub/deals-and-coupons,DiscountHub - Deals & Promo Codes,1.0.0,https://github.com/MasterBek533551878/discounthub,streamable-http,"Find real discounts, promo codes and online deals with DiscountHub MCP."
+2026-10-10T13:14:29.479277Z,com.plainradar/news,Plainradar news search,0.5.0,,streamable-http,"Live news search: recent stories in 45 languages, grouped by coverage and checked for relevance."
+2026-10-10T13:15:16.265486Z,io.github.mcp-z/mcp-gmail,Gmail,2.3.2,,,"Gmail integration with OAuth authentication, message search, batch operations, and Sheets export"
+2026-10-10T13:15:16.625099Z,io.github.mcp-z/mcp-sheets,Google Sheets,1.2.4,,,"Google Sheets integration with OAuth, spreadsheet management, batch operations, and formatting"
+2026-10-10T13:15:19.35102Z,io.github.mcp-z/mcp-drive,Google Drive,1.0.10,,,"Google Drive integration with file operations, folder navigation, search, and sharing"
+2026-10-10T13:15:23.355436Z,io.github.mcp-z/mcp-outlook,Outlook,2.2.2,,,"Outlook integration with OAuth, message search, batch operations, and calendar management"
+2026-10-10T13:19:03.186616Z,app.usewrit/writ-cloud,Writ Cloud,1.0.0,https://github.com/usewrit/writ-mcp,streamable-http,"Read, crawl and act on websites, signed in as the user, and turn any site into an API."
+2026-10-10T13:19:06.010133Z,io.github.Flosk6/spawner,Spawner,2.2.0,https://github.com/Flosk6/Spawner,,Preview environments on your self-hosted Spawner server: a copy of your app for each git branch
