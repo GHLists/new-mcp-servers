@@ -9,39 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 13:19 UTC
+## Latest list — 2026-10-10 14:19 UTC
 
-New MCP servers published between 2026-10-10 12:19 UTC and 2026-10-10 13:19 UTC.
+New MCP servers published between 2026-10-10 13:19 UTC and 2026-10-10 14:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-10T13-19-50-412006Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-10T14-19-30-603177Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-10 12:20:13 | [io.github.VeriWorkly/ats-engine](https://github.com/VeriWorkly/ats-engine) | ATS Engine | 0.3.1 | Read your own resume the way an ATS does and score it with a published, determi… |
-| 2026-10-10 12:27:36 | [io.github.NormiHQ/normi](https://github.com/NormiHQ/Normi) |  | 0.2.7 | French property market data — 17M+ DVF sales, 22M+ DPE energy ratings, 20M+ bui… |
-| 2026-10-10 12:31:49 | dev.codemindhq/codemind | Codemind | 1.0.0 | Hand routine JS/TS tasks to Codemind from your agent. $0.10 per verified build;… |
-| 2026-10-10 12:31:52 | [app.peil/peil-mcp](https://github.com/Luminc/peil-mcp) | Peil | 0.1.5 | Log hours, draft invoices and check where you stand — finance for Dutch freelan… |
-| 2026-10-10 12:33:38 | [io.github.SCGIS-Wales/helm-mcp](https://github.com/SCGIS-Wales/helm-mcp) |  | 0.5.0 | The full Helm CLI surface as 46 MCP tools, backed by the Helm v3 and v4 Go SDKs. |
-| 2026-10-10 12:39:31 | [io.github.emmanuelorta/crawlcheck](https://github.com/emmanuelorta/crawlcheck-core) | CrawlCheck | 1.0.0 | Verification layer for the agentic web: a signed answer about any site before a… |
-| 2026-10-10 12:43:09 | me.x-ray/mcp | X-RAY | 0.6.0 | Web3 intelligence: actors, chains, sectors, narratives, hiring, funding, events… |
-| 2026-10-10 12:51:31 | [io.github.Dansgit2b/lumen-presign-check](https://github.com/Dansgit2b/lumenworks-x402-api) | Lumen Pre-Sign Check | 1.4.0 | Use before signing an EVM tx or EIP-712 message: risk flags + verdict. Informat… |
-| 2026-10-10 12:53:50 | [io.github.Kl-webmedia/wunderui-mcp](https://github.com/Kl-webmedia/wunderui-mcp) | WunderUI | 1.1.0 | The WunderUI design system for coding agents: components, props, tokens, rules… |
-| 2026-10-10 12:59:34 | [com.scanforai/scanforai](https://github.com/znxltd/scanforai-mcp) | ScanForAI | 1.0.0 | Score text 0-100 for signs of AI writing, with plain reasons; strip machine typ… |
-| 2026-10-10 13:01:09 | bio.noiz/noiz | Noiz | 1.0.0 | Read and edit your noiz link-in-bio page: views and clicks, links, name, bio an… |
-| 2026-10-10 13:04:37 | [io.github.atushi1841/japan-jepx-mcp](https://github.com/atushi1841/japan-jepx-mcp) |  | 0.1.0 | Japan JEPX electricity spot prices (system + 9 areas) |
-| 2026-10-10 13:04:41 | [io.github.atushi1841/japan-market-data](https://github.com/atushi1841/japan-market-data) |  | 0.1.0 | Japan market data collection via Apify Actors and scrapers |
-| 2026-10-10 13:04:45 | [io.github.atushi1841/japan-property-hazard-mcp](https://github.com/atushi1841/japan-property-hazard-mcp) |  | 0.1.0 | Japan property hazard risk (flood/landslide/tsunami/liquefaction) |
-| 2026-10-10 13:04:56 | [io.github.imbenrabi/financial-modeling-prep-mcp-server](https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server) | Financial Modeling Prep MCP Server | 2.7.0 | MCP server for Financial Modeling Prep API with 250+ financial data tools |
-| 2026-10-10 13:09:54 | io.github.mcp-z/mcp-pdf | PDF Generator | 3.4.0 | MCP server for creative PDF generation with full emoji, Unicode, and offline su… |
-| 2026-10-10 13:10:37 | xn--3ds443g.xn--s7y/duan-online | 短.在线 | 1.6.4 | Short links + QR tracking URLs for agents. Prefer punycode host. Account requir… |
-| 2026-10-10 13:10:51 | [uz.discounthub/deals-and-coupons](https://github.com/MasterBek533551878/discounthub) | DiscountHub - Deals & Promo Codes | 1.0.0 | Find real discounts, promo codes and online deals with DiscountHub MCP. |
-| 2026-10-10 13:14:29 | com.plainradar/news | Plainradar news search | 0.5.0 | Live news search: recent stories in 45 languages, grouped by coverage and check… |
-| 2026-10-10 13:15:16 | io.github.mcp-z/mcp-gmail | Gmail | 2.3.2 | Gmail integration with OAuth authentication, message search, batch operations,… |
-| 2026-10-10 13:15:16 | io.github.mcp-z/mcp-sheets | Google Sheets | 1.2.4 | Google Sheets integration with OAuth, spreadsheet management, batch operations,… |
-| 2026-10-10 13:15:19 | io.github.mcp-z/mcp-drive | Google Drive | 1.0.10 | Google Drive integration with file operations, folder navigation, search, and s… |
-| 2026-10-10 13:15:23 | io.github.mcp-z/mcp-outlook | Outlook | 2.2.2 | Outlook integration with OAuth, message search, batch operations, and calendar… |
-| 2026-10-10 13:19:03 | [app.usewrit/writ-cloud](https://github.com/usewrit/writ-mcp) | Writ Cloud | 1.0.0 | Read, crawl and act on websites, signed in as the user, and turn any site into… |
-| 2026-10-10 13:19:06 | [io.github.Flosk6/spawner](https://github.com/Flosk6/Spawner) | Spawner | 2.2.0 | Preview environments on your self-hosted Spawner server: a copy of your app for… |
+| 2026-10-10 13:22:14 | io.github.Nero-Engine/us-minimum-wage | US Minimum Wage by Address and Date | 1.0.0 | Legal US minimum wage and tipped wage for any address, city, county or state on… |
+| 2026-10-10 13:22:16 | io.github.Nero-Engine/pay-transparency-rules | Pay Transparency Rules for Job Posts | 1.0.0 | Must a job post show pay? Rules for US states and cities, Canada and all 27 EU… |
+| 2026-10-10 13:22:17 | io.github.Nero-Engine/us-sales-tax-nexus | US Sales Tax Economic Nexus Check | 1.0.0 | Which US states must a remote seller register in for sales tax? Every state's n… |
+| 2026-10-10 13:22:19 | io.github.Nero-Engine/breach-notification-deadlines | Data Breach Notification Deadlines | 1.0.0 | Who to notify after a data breach and by what date: all US states, SEC, HIPAA,… |
+| 2026-10-10 13:22:20 | io.github.Nero-Engine/us-minimum-wage-full | US Minimum Wage by Address and Date (bu… | 1.0.0 | Bulk US minimum wage lookups by address, city or state and date, per lookup bil… |
+| 2026-10-10 13:22:22 | io.github.Nero-Engine/pay-transparency-rules-full | Pay Transparency Law Checker (bulk, Api… | 1.0.0 | Bulk job post pay transparency checks for US, Canada and EU laws, per check bil… |
+| 2026-10-10 13:22:23 | io.github.Nero-Engine/us-sales-tax-nexus-full | US Sales Tax Nexus Checker (bulk, Apify) | 1.0.0 | Bulk US sales tax economic nexus checks every state's rule, billed per check vi… |
+| 2026-10-10 13:22:24 | io.github.Nero-Engine/breach-notification-deadlines-full | Data Breach Notification Deadlines (bul… | 1.0.0 | Bulk breach notice deadline checks: US states, SEC, HIPAA, GDPR, UK, per check… |
+| 2026-10-10 13:31:41 | com.astranl/local-proof-nl | AstraNL local proof NL | 1.0.0 | Verify a place in the Netherlands: a verified local hand checks it, you get a s… |
+| 2026-10-10 13:32:45 | [io.github.library-x/tuney](https://github.com/library-x/tuney_mcp) |  | 1.0.0 | Royalty-free music fitted to your length: find, generate, adjust and download t… |
+| 2026-10-10 13:32:51 | com.underpricedai/underpriced-ai | Underpriced AI | 1.3.0 | Ask what a thrift find sells for. Real eBay sold comps, price range and net aft… |
+| 2026-10-10 13:33:03 | app.savedthat/library | SavedThat | 1.0.0 | Search your saved YouTube, Reels and TikTok videos by what was said and jump to… |
+| 2026-10-10 13:34:14 | [io.github.KingPsychopath/raindrop-cli](https://github.com/KingPsychopath/raindrop-cli) | rdrop for Raindrop.io | 0.2.1 | Search Raindrop.io bookmarks and review tag and collection plans. Read-only MCP… |
+| 2026-10-10 13:42:12 | [io.github.gouranshul/pg-perf-mcp](https://github.com/gouranshul/pg-perf-mcp) | PostgreSQL Performance (read-only) | 0.1.0 | Read-only PostgreSQL performance diagnostics: slow queries, EXPLAIN, index advi… |
+| 2026-10-10 13:43:17 | io.github.kr-data-api/korea-financial-institution-registry | Korea Financial Company Lookup (금융위원회 금… | 0.1.0 | Korean banks, brokers, insurers: registration numbers, DART code, staff and aud… |
+| 2026-10-10 13:44:12 | [io.github.futureweb/intervals-mcp-server](https://github.com/futureweb/intervals-mcp-server) | Futureweb Intervals MCP | 1.0.0b1 | Self-hosted Intervals.icu MCP server: training analytics, Garmin data, wellness… |
+| 2026-10-10 13:45:12 | [io.github.PabloAlaniz/gsuite-sdk](https://github.com/PabloAlaniz/google-suite) | Google Workspace (gsuite-sdk) | 0.4.0 | Gmail, Calendar, Drive, Sheets, Tasks and Contacts for agents, with your own Go… |
+| 2026-10-10 13:46:00 | [io.github.olk/design-pattern-mcp](https://github.com/olk/design-pattern-mcp) | Design Pattern MCP | 1.0.0 | MCP server that provides design-pattern selection expertise to AI coding agents |
+| 2026-10-10 13:47:51 | [io.github.Jim-Panse/pdf-to-text](https://github.com/Jim-Panse/PDF-to-TXT-MCP) | PDF To Text | 0.4.1 | Local MCP server for extracting text from PDF files with optional OCR and AI fa… |
+| 2026-10-10 13:48:16 | [io.github.ojuschugh1/sqz](https://github.com/ojuschugh1/sqz) | sqz | 2.0.0 | Pre-injection context compression for coding agents. Zero LLM calls, zero telem… |
+| 2026-10-10 13:49:27 | com.studiotvai/llm-vram | StudioTV LLM VRAM Calculator | 1.0.0 | Does an LLM fit on your GPU? VRAM, KV cache and GPU count for any Hugging Face… |
+| 2026-10-10 13:51:56 | me.grok.nova-otter-delta-cloud/surface | Surface | 1.0.0 | Preflight a short or unknown URL before your agent fetches it. Returns next: fe… |
+| 2026-10-10 13:53:23 | se.sendora/mcp | Sendora | 1.3.3 | Sendora's docs and API for coding agents: send test mail, read the log, set up… |
+| 2026-10-10 13:53:23 | [io.github.click2ann/talespinner](https://github.com/click2ann/TaleSpinner) | TaleSpinner | 1.0.0 | Create and manage personalized stories, projects, sharing, credits, orders, and… |
+| 2026-10-10 13:55:42 | ch.heimster/heimster | Heimster – Swiss homes | 1.0.0 | Swiss homes to rent or buy, with walking distances, noise, sun and commute time… |
+| 2026-10-10 14:08:45 | [io.github.yrangana/fm-mcp](https://github.com/yrangana/fm-mcp) | fm-mcp | 0.1.0 | Delegate summarising, extraction, classification and OCR to the macOS 27 on-dev… |
+| 2026-10-10 14:09:59 | [io.github.SilverNine/trimscript](https://github.com/SilverNine/trimscript) | TrimScript | 0.1.0 | Edit video by editing the transcript. Runs locally; agent edits arrive as sugge… |
+| 2026-10-10 14:12:33 | com.pickyourmatch/stays | pickyourmatch | 1.2.0 | Find exact, directly bookable hotel rooms and apartments with live availability… |
 
 ## Data source
 
