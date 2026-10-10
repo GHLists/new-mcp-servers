@@ -1,0 +1,10 @@
+created_at,server,title,version,repository,transports,description
+2026-10-10T05:32:55.248431Z,com.usanaru/schools,USAnaru™ — U.S. boarding schools,1.0.0,,streamable-http,"U.S. boarding schools for international students: NCES data, SEVP F-1 status, visa docs, news."
+2026-10-10T05:34:00.980191Z,app.savehq/savehq,SaveHQ,1.0.0,,streamable-http,"Free save layer for AI apps: save links to a person's SaveHQ board and search it, with permission."
+2026-10-10T05:38:20.807026Z,io.github.masakaai/jet-browser,Jet Browser Verifier,0.8.0,https://github.com/masakaai/jet-browser,,"Verify an isolated WPE WebKit runtime with native-input, DOM, PNG, and cleanup evidence."
+2026-10-10T05:59:30.371555Z,com.fridayflightdeals/deals,Friday Flight Deals,1.0.0,https://github.com/jackculpan/friday-flight-deals,streamable-http,The newest cheap flight deals from the Friday Flight Deals newsletter.
+2026-10-10T05:59:55.153645Z,io.github.Wladefant/pinthread,Pinthread,0.7.0,,streamable-http,"Read, reply to and resolve website feedback threads from your coding agent."
+2026-10-10T06:02:11.742694Z,io.github.AitoDotAI/aito,Aito,1.2.0,https://github.com/AitoDotAI/aito-python-tools,,"Predictions over your own data with $p and $why, no model training; says when Aito does not fit."
+2026-10-10T06:02:15.630412Z,com.joovoice/joovoice,JooVoice,1.0.0,,streamable-http,"Lets your AI agent make real phone calls: bookings, appointments, cancellations, refunds."
+2026-10-10T06:02:57.149729Z,io.github.capsulatedev/capsulate,,0.4.0,https://github.com/capsulatedev/capsulate,,"Real Linux and Windows desktop VMs for AI agents: exec, files, computer-use and snapshots via MCP."
+2026-10-10T06:05:08.422191Z,io.github.ricciflow-api/soldfetch,SoldFetch,1.0.0,https://github.com/ricciflow-api/soldfetch-mcp,streamable-http,"Search eBay sold and active listings, browse categories, and retrieve item details."

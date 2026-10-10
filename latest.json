@@ -587,6 +587,7 @@
     "app.sallim/korea-realty",
     "app.sallim/korea-stay",
     "app.samplecut/samplecut",
+    "app.savehq/savehq",
     "app.scansing/scansing",
     "app.seamark/seamark",
     "app.seatsherpa/rides",
@@ -1475,6 +1476,7 @@
     "com.freightfa.mcp/freightfa",
     "com.freightforwarderfinder/site",
     "com.freightinsurancecost/site",
+    "com.fridayflightdeals/deals",
     "com.fridgetoforks/recipes",
     "com.fromerica.api/trade-data",
     "com.fronterasignal/frontera-signal",
@@ -1673,6 +1675,7 @@
     "com.jobsinsportstech/jobs",
     "com.jobyap/jobs",
     "com.joinvorn/vorn",
+    "com.joovoice/joovoice",
     "com.jotbus/jotbus",
     "com.justbacked/jobs",
     "com.kaicast/ocean-conditions",
@@ -2667,6 +2670,7 @@
     "com.unstuckapi/unstuck",
     "com.uplika/uplika",
     "com.upwork.mcp/upwork-mcp",
+    "com.usanaru/schools",
     "com.useauditoria.pilot/auditor-ia",
     "com.usebondery/mcp",
     "com.usebrayer/brayer",
@@ -3472,6 +3476,7 @@
     "io.github.Ahmet11159/x402-agent-services",
     "io.github.AindriuB/data-prism",
     "io.github.Airtreks/airtreks-mcp",
+    "io.github.AitoDotAI/aito",
     "io.github.Alberto-Codes/judgevet",
     "io.github.Alex-Proof/alex-evidence-verify-mcp",
     "io.github.AlgForce/exceldashboard-ai",
@@ -4451,6 +4456,7 @@
     "io.github.WebAskio/webask-mcp",
     "io.github.Wh-bi/wanhe-compliance",
     "io.github.WilliamSmithEdward/xlide-excel-office-vba-mcp",
+    "io.github.Wladefant/pinthread",
     "io.github.Wolfe-Jam/mcp-context-card",
     "io.github.Wonderfulian/kbv-server",
     "io.github.WonkaRed/Omnial",
@@ -5019,6 +5025,7 @@
     "io.github.canopy-labs/featureflip",
     "io.github.capad-xyz/searchts",
     "io.github.cappyeo/discord-mcp",
+    "io.github.capsulatedev/capsulate",
     "io.github.carbaj03/retry-trace",
     "io.github.carlobianchi89/epwtools",
     "io.github.carrick-tools/carrick",
@@ -6345,6 +6352,7 @@
     "io.github.martinnovoa22/preciosano",
     "io.github.marvkr/better-design",
     "io.github.marvtub/nimo",
+    "io.github.masakaai/jet-browser",
     "io.github.masamoto1982/ajisai",
     "io.github.masko-ai/masko",
     "io.github.masondelan/selvedge",
@@ -7224,6 +7232,7 @@
     "io.github.rezmeplxrf/insightsentry_mcp",
     "io.github.rgdevment/tisty",
     "io.github.rgejman/simplelabtools-labels",
+    "io.github.ricciflow-api/soldfetch",
     "io.github.ricfanin/netwright",
     "io.github.richardguerre/fig",
     "io.github.richardsolomou/praetorium",
@@ -9219,11 +9228,11 @@
     "za.co.cryptodecentral/sovereign"
   ],
   "list": {
-    "count": 25,
-    "from": "2026-10-10T04:21:05.218431Z",
-    "path": "data/new-mcp-servers-2026-10-10T05-19-30-985653Z.csv",
-    "to": "2026-10-10T05:19:30.985653Z"
+    "count": 9,
+    "from": "2026-10-10T05:19:30.985653Z",
+    "path": "data/new-mcp-servers-2026-10-10T06-18-51-679118Z.csv",
+    "to": "2026-10-10T06:18:51.679118Z"
   },
   "source_truncated": false,
-  "window": "2026-10-10T05:19:30.985653Z"
+  "window": "2026-10-10T06:18:51.679118Z"
 }
