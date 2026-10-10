@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-10T19:21:50.925955Z,com.maplith/bridge,Maplith Bridge,1.0.0-rc.1,https://github.com/Maplith/bridge,,"Share a folder of data files read-only over MCP, and fill it from PostgreSQL under a read-only role."
+2026-10-10T19:26:01.888893Z,film.mcp/directory,mcp.film directory,1.5.1,https://github.com/c47-inc/mcp-film,streamable-http,Search the curated directory of MCP servers for AI filmmaking and plan a full production stack.
+2026-10-10T19:26:29.228614Z,io.github.benethos-hub/benethos-lexware-office-mcp,,0.5.1,https://github.com/benethos-hub/lexware-office-mcp,,Unofficial MCP server for the Lexware Office accounting API — runs over stdio or HTTP.
+2026-10-10T19:28:24.324287Z,io.github.composingkeys/loopsmith,,1.0.0,https://github.com/composingkeys/loopsmith-mcp,,"Game music loops for AI agents: seamless loops with the reverb tail, Sections, and engine kits."
+2026-10-10T19:30:22.093687Z,com.predictionmarketspicks/elections,Election Odds Desk,1.0.0,https://github.com/predictionmarketspicks/mcp,streamable-http,"Kalshi odds for 2026 Senate, governor and House races, the Senate map, and the next Fed meeting."
+2026-10-10T19:35:19.946402Z,io.github.SignaBras-Certificados/signabras,SignaBras Certificados Digitais,1.0.0,,streamable-http,"Catálogo de certificados digitais ICP-Brasil A1 (e-CPF, e-CNPJ), políticas e pedido com Pix."
+2026-10-10T19:36:16.507128Z,io.github.Anuj7411/sipcode,Sipcode,1.7.0,https://github.com/Anuj7411/sipcode,,"Context hygiene for Claude Code: drift detection, re-read dedup, and token analytics."
+2026-10-10T19:38:49.70631Z,vip.leadfast/leadfast,LeadFast,1.0.0,,streamable-http,"Buyer-intent Reddit posts matched to your product, with suggested replies. Read-only."
+2026-10-10T19:41:01.240068Z,io.github.AlicanAkyol/nativekeel,NativeKeel,0.1.55,https://github.com/AlicanAkyol/nativekeel,,"React Native and Expo health check: upgrade blockers, store rules, crash risks, security findings"
+2026-10-10T19:45:51.414985Z,io.github.pzalutski-pixel/blenderlens,BlenderLens,0.2.0,https://github.com/pzalutski-pixel/blenderlens-mcp,,"MCP server that lets AI agents build, check, preview and export game assets in Blender"
+2026-10-10T19:46:53.351034Z,com.1102tools/sam-gov-mcp,SAM.gov,1.0.14,https://github.com/1102tools-dev/federal-contracting-mcps,,"SAM.gov readiness, entities, exclusions, opportunities, awards, hierarchy, and subawards. 20 tools."
+2026-10-10T19:48:03.034297Z,io.github.statuser-cloud/mcp,Statuser,0.4.8,https://github.com/statuser-cloud/mcp,streamable-http,"Monitor services, manage incidents and status pages in Statuser.cloud from your AI assistant."
+2026-10-10T19:48:22.973629Z,io.github.steven-khimba/bloodpanel,BloodPanel,1.8.0,,streamable-http,"Find and compare Irish blood-test catalogue listings, prices and markers; demo appointments only."
+2026-10-10T19:49:21.710744Z,co.botdoor/botdoor,Botdoor,1.0.0,,streamable-http,"Let AI agents post to social media with human approval: schedule, first comments, threads."
+2026-10-10T19:50:24.683865Z,io.github.untitledfinancial/dpx,DPX — Settlement & Intelligence for AI Agents,2.6.0,,streamable-http,Compliance-gated stablecoin settlement + x402 macro/ESG/climate intelligence for agents. 115 tools.
+2026-10-10T19:51:10.716806Z,io.github.ebspark/agent-net-answers,Agent Net Answers,0.2.0,,streamable-http,"Search reviewed Agent Net answers on identities, permissions, persistence, tools and durable jobs."
+2026-10-10T19:51:14.59301Z,io.github.Protremix/erius-phone-mcp,ERIUS PHONE,0.2.0,https://github.com/Protremix/erius-phone-mcp,,"Drive a hosted ERIUS PHONE Android device: read the screen, tap, type, install APKs, get crash logs."
+2026-10-10T19:57:38.076283Z,io.github.lantean-code/roslyn-workbench-mcp,Roslyn Workbench MCP,1.0.1,https://github.com/lantean-code/roslyn-workbench-mcp,,"A local MCP server for Roslyn-powered C# code analysis and safe, transactional refactoring."
+2026-10-10T20:04:14.602836Z,com.hilostudiolab/studio,Hilo Studio,1.0.0,,streamable-http,"Madrid studio for branding and interactive 3D web: services, prices, work, Lab demos, quotes."
+2026-10-10T20:04:16.059397Z,com.axowatch/axowatch,AxoWatch,1.0.0,,streamable-http,"Uptime, page speed, app errors and user-flow runs for your sites, plus fix tasks for coding agents."
+2026-10-10T20:05:26.405392Z,com.jamsql/jam-sql-studio,Jam SQL Studio,1.0.0,,,"Lets AI agents query SQL Server, PostgreSQL, MySQL, Oracle and SQLite via the Jam SQL Studio app."
+2026-10-10T20:13:48.973272Z,com.rendobar/mcp,Rendobar,1.13.0,https://github.com/rendobar/mcp,streamable-http,"Transform video, audio and images, and generate media from prompts. FFmpeg, captions, models."
+2026-10-10T20:15:11.829706Z,io.agentweather/agent-weather,Agent Weather,0.2.0,,streamable-http,Conditions reports for AI agents. Free tools; paid tools require an x402 payment in RLUSD on XRPL.
+2026-10-10T20:17:11.106442Z,io.github.streltcoff/immigrationdb,ImmigrationDB,0.3.0,https://github.com/streltcoff/immigrationdb-mcp,streamable-http,"Read-only migration data: cities, visa routes, entry rules, costs, safety, climate, with sources."
+2026-10-10T20:17:29.565639Z,io.github.Custodia-Admin/pagebolt,,1.17.1,https://github.com/Custodia-Admin/pagebolt-mcp,,"Screenshots, PDFs, OG images, page inspection, and narrated video recording for Claude and Cursor."
+2026-10-10T20:19:17.041672Z,io.trustonion/scam-check,Trust Onion Scam Check,1.1.0,,streamable-http,"Verified AI voice-clone scam incidents, loss stats, and a family verification protocol. Keyless."
+2026-10-10T20:20:46.765445Z,app.stackpulse/mcp,Stackpulse,1.0.0,,streamable-http,"8,900+ services' status, and your Stackpulse dashboards and URL monitors. Needs Pro."

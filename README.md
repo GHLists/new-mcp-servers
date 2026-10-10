@@ -9,38 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 19:20 UTC
+## Latest list — 2026-10-10 20:21 UTC
 
-New MCP servers published between 2026-10-10 18:20 UTC and 2026-10-10 19:20 UTC.
+New MCP servers published between 2026-10-10 19:20 UTC and 2026-10-10 20:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-10T19-20-26-856203Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-10T20-21-42-882125Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-10 18:24:35 | [dev.hearthbyte/ensemble](https://github.com/MPfeifer33/ensemble-mcp) | Ensemble | 1.0.0 | AI-ready design toolkit: color palettes, typography, spacing, shadows and acces… |
-| 2026-10-10 18:32:31 | [com.gemstoneaiapp/gemstoneai](https://github.com/Iveye-Inc/gemstoneai-agents) | GemstoneAI | 1.0.0 | Analyze jewelry photos, see comparable listings and sales, and save the piece t… |
-| 2026-10-10 18:32:47 | [io.github.piiiico/check-claim](https://github.com/piiiico/check-claim) | check-claim | 0.1.0 | Check that a source really says what your claim says, before you publish. Verba… |
-| 2026-10-10 18:33:59 | [io.github.corslet1/truthpal](https://github.com/corslet1/truth-api) | TruthPal | 0.1.0 | Paid single-source evidence verification for AI agents; $0.01 USDC per call on… |
-| 2026-10-10 18:34:16 | com.ex2/account | Ex2 account | 1.1.0 | Your Ex2 hosting account in your AI assistant: read it, and order or renew with… |
-| 2026-10-10 18:41:31 | [io.usefulapi/rev-ai](https://github.com/m190/usefulapi-mcp) | Rev.ai MCP by usefulapi | 1.0.0 | Transcribe audio with Rev.ai: submit jobs by URL, read transcripts, summaries a… |
-| 2026-10-10 18:41:31 | [io.usefulapi/enchant](https://github.com/m190/usefulapi-mcp) | Enchant MCP by usefulapi | 1.0.0 | Work with Enchant help desk tickets: list, read, reply, add notes and labels, m… |
-| 2026-10-10 18:41:32 | [io.usefulapi/pirsch](https://github.com/m190/usefulapi-mcp) | Pirsch Analytics MCP by usefulapi | 1.0.0 | Read Pirsch web analytics: visitors, pages, referrers, UTM, events, funnels and… |
-| 2026-10-10 18:41:32 | app.derate/derate | DERATE — truck fault codes | 2.0.0 | Heavy-duty truck SPN/FMI and OBD fault codes: meaning, safe-to-drive verdict, p… |
-| 2026-10-10 18:41:33 | [io.usefulapi/exoscale](https://github.com/m190/usefulapi-mcp) | Exoscale MCP by usefulapi | 1.0.0 | Inspect Exoscale: instances, volumes, SKS, DNS, IPs, quotas and usage; start, s… |
-| 2026-10-10 18:41:34 | [io.usefulapi/pipeline-crm](https://github.com/m190/usefulapi-mcp) | Pipeline CRM MCP by usefulapi | 1.0.0 | Manage Pipeline CRM deals, people, companies, notes and calendar entries. |
-| 2026-10-10 18:41:34 | [io.usefulapi/teamgate](https://github.com/m190/usefulapi-mcp) | Teamgate MCP by usefulapi | 1.0.0 | Manage Teamgate CRM leads, people, companies, deals, activities and notes. |
-| 2026-10-10 18:41:35 | [io.usefulapi/homebase](https://github.com/m190/usefulapi-mcp) | Homebase MCP by usefulapi | 1.0.0 | Read Homebase locations, employees, shifts, timecards, labor costs and time clo… |
-| 2026-10-10 18:41:36 | [io.usefulapi/benchmark-email](https://github.com/m190/usefulapi-mcp) | Benchmark Email MCP by usefulapi | 1.0.0 | Manage Benchmark Email lists and contacts, and read campaign reports: opens, cl… |
-| 2026-10-10 18:41:37 | [io.usefulapi/edesk](https://github.com/m190/usefulapi-mcp) | eDesk MCP by usefulapi | 1.0.0 | Work with eDesk support tickets, replies, internal notes, contacts and sales or… |
-| 2026-10-10 18:41:37 | [io.usefulapi/encharge](https://github.com/m190/usefulapi-mcp) | Encharge MCP by usefulapi | 1.0.0 | Manage Encharge people, tags, segments and fields, and track events for email a… |
-| 2026-10-10 18:41:38 | [io.usefulapi/sendlane](https://github.com/m190/usefulapi-mcp) | Sendlane MCP by usefulapi | 1.0.0 | Manage Sendlane lists, contacts, tags and custom fields; read campaign and SMS… |
-| 2026-10-10 18:41:39 | [io.usefulapi/simple-analytics](https://github.com/m190/usefulapi-mcp) | Simple Analytics MCP by usefulapi | 1.0.0 | Read Simple Analytics stats: pageviews, visitors, pages, referrers, events and… |
-| 2026-10-10 18:51:48 | [pl.swiadectwo-energetyczne24/zamowienia](https://github.com/brilbrothers/swiadectwo-energetyczne24-mcp) | Świadectwo Energetyczne 24 | 1.2.0 | Polish energy performance certificates: pricing, requirements, order, documents… |
-| 2026-10-10 18:55:47 | [com.uxfront/open-components](https://github.com/uxfront-com/open-components) | Open Components | 1.0.0 | Guidelines for UI components with a perfect UX, DX and AX, whether humans or AI… |
-| 2026-10-10 19:05:00 | [io.github.markylaredo/openjev-mcp](https://github.com/markylaredo/openjev-mcp) | OpenJEV | 0.1.2 | Typed AI judgments for agents: choice, score, and yes/no probabilities instead… |
-| 2026-10-10 19:09:44 | app.usemailroom/mailroom | Mailroom | 0.1.0 | Your own IMAP mailbox in any MCP client: search, read, flag, move; send and del… |
-| 2026-10-10 19:10:13 | [io.github.confuse57/behavr-mcp](https://github.com/confuse57/behavr-mcp) |  | 0.1.1 | MCP server for BEHAVR: remember images/videos and ask questions about them |
-| 2026-10-10 19:10:52 | [io.github.ronak-create/fablecut](https://github.com/ronak-create/FableCut) | FableCut | 1.13.0 | Zero-dependency browser video editor AI agents drive via a JSON timeline over M… |
+| 2026-10-10 19:21:50 | [com.maplith/bridge](https://github.com/Maplith/bridge) | Maplith Bridge | 1.0.0-rc.1 | Share a folder of data files read-only over MCP, and fill it from PostgreSQL un… |
+| 2026-10-10 19:26:01 | [film.mcp/directory](https://github.com/c47-inc/mcp-film) | mcp.film directory | 1.5.1 | Search the curated directory of MCP servers for AI filmmaking and plan a full p… |
+| 2026-10-10 19:26:29 | [io.github.benethos-hub/benethos-lexware-office-mcp](https://github.com/benethos-hub/lexware-office-mcp) |  | 0.5.1 | Unofficial MCP server for the Lexware Office accounting API — runs over stdio o… |
+| 2026-10-10 19:28:24 | [io.github.composingkeys/loopsmith](https://github.com/composingkeys/loopsmith-mcp) |  | 1.0.0 | Game music loops for AI agents: seamless loops with the reverb tail, Sections,… |
+| 2026-10-10 19:30:22 | [com.predictionmarketspicks/elections](https://github.com/predictionmarketspicks/mcp) | Election Odds Desk | 1.0.0 | Kalshi odds for 2026 Senate, governor and House races, the Senate map, and the… |
+| 2026-10-10 19:35:19 | io.github.SignaBras-Certificados/signabras | SignaBras Certificados Digitais | 1.0.0 | Catálogo de certificados digitais ICP-Brasil A1 (e-CPF, e-CNPJ), políticas e pe… |
+| 2026-10-10 19:36:16 | [io.github.Anuj7411/sipcode](https://github.com/Anuj7411/sipcode) | Sipcode | 1.7.0 | Context hygiene for Claude Code: drift detection, re-read dedup, and token anal… |
+| 2026-10-10 19:38:49 | vip.leadfast/leadfast | LeadFast | 1.0.0 | Buyer-intent Reddit posts matched to your product, with suggested replies. Read… |
+| 2026-10-10 19:41:01 | [io.github.AlicanAkyol/nativekeel](https://github.com/AlicanAkyol/nativekeel) | NativeKeel | 0.1.55 | React Native and Expo health check: upgrade blockers, store rules, crash risks,… |
+| 2026-10-10 19:45:51 | [io.github.pzalutski-pixel/blenderlens](https://github.com/pzalutski-pixel/blenderlens-mcp) | BlenderLens | 0.2.0 | MCP server that lets AI agents build, check, preview and export game assets in… |
+| 2026-10-10 19:46:53 | [com.1102tools/sam-gov-mcp](https://github.com/1102tools-dev/federal-contracting-mcps) | SAM.gov | 1.0.14 | SAM.gov readiness, entities, exclusions, opportunities, awards, hierarchy, and… |
+| 2026-10-10 19:48:03 | [io.github.statuser-cloud/mcp](https://github.com/statuser-cloud/mcp) | Statuser | 0.4.8 | Monitor services, manage incidents and status pages in Statuser.cloud from your… |
+| 2026-10-10 19:48:22 | io.github.steven-khimba/bloodpanel | BloodPanel | 1.8.0 | Find and compare Irish blood-test catalogue listings, prices and markers; demo… |
+| 2026-10-10 19:49:21 | co.botdoor/botdoor | Botdoor | 1.0.0 | Let AI agents post to social media with human approval: schedule, first comment… |
+| 2026-10-10 19:50:24 | io.github.untitledfinancial/dpx | DPX — Settlement & Intelligence for AI… | 2.6.0 | Compliance-gated stablecoin settlement + x402 macro/ESG/climate intelligence fo… |
+| 2026-10-10 19:51:10 | io.github.ebspark/agent-net-answers | Agent Net Answers | 0.2.0 | Search reviewed Agent Net answers on identities, permissions, persistence, tool… |
+| 2026-10-10 19:51:14 | [io.github.Protremix/erius-phone-mcp](https://github.com/Protremix/erius-phone-mcp) | ERIUS PHONE | 0.2.0 | Drive a hosted ERIUS PHONE Android device: read the screen, tap, type, install… |
+| 2026-10-10 19:57:38 | [io.github.lantean-code/roslyn-workbench-mcp](https://github.com/lantean-code/roslyn-workbench-mcp) | Roslyn Workbench MCP | 1.0.1 | A local MCP server for Roslyn-powered C# code analysis and safe, transactional… |
+| 2026-10-10 20:04:14 | com.hilostudiolab/studio | Hilo Studio | 1.0.0 | Madrid studio for branding and interactive 3D web: services, prices, work, Lab… |
+| 2026-10-10 20:04:16 | com.axowatch/axowatch | AxoWatch | 1.0.0 | Uptime, page speed, app errors and user-flow runs for your sites, plus fix task… |
+| 2026-10-10 20:05:26 | com.jamsql/jam-sql-studio | Jam SQL Studio | 1.0.0 | Lets AI agents query SQL Server, PostgreSQL, MySQL, Oracle and SQLite via the J… |
+| 2026-10-10 20:13:48 | [com.rendobar/mcp](https://github.com/rendobar/mcp) | Rendobar | 1.13.0 | Transform video, audio and images, and generate media from prompts. FFmpeg, cap… |
+| 2026-10-10 20:15:11 | io.agentweather/agent-weather | Agent Weather | 0.2.0 | Conditions reports for AI agents. Free tools; paid tools require an x402 paymen… |
+| 2026-10-10 20:17:11 | [io.github.streltcoff/immigrationdb](https://github.com/streltcoff/immigrationdb-mcp) | ImmigrationDB | 0.3.0 | Read-only migration data: cities, visa routes, entry rules, costs, safety, clim… |
+| 2026-10-10 20:17:29 | [io.github.Custodia-Admin/pagebolt](https://github.com/Custodia-Admin/pagebolt-mcp) |  | 1.17.1 | Screenshots, PDFs, OG images, page inspection, and narrated video recording for… |
+| 2026-10-10 20:19:17 | io.trustonion/scam-check | Trust Onion Scam Check | 1.1.0 | Verified AI voice-clone scam incidents, loss stats, and a family verification p… |
+| 2026-10-10 20:20:46 | app.stackpulse/mcp | Stackpulse | 1.0.0 | 8,900+ services' status, and your Stackpulse dashboards and URL monitors. Needs… |
 
 ## Data source
 
