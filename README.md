@@ -9,35 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 11:21 UTC
+## Latest list — 2026-10-10 12:19 UTC
 
-New MCP servers published between 2026-10-10 10:20 UTC and 2026-10-10 11:21 UTC.
+New MCP servers published between 2026-10-10 11:21 UTC and 2026-10-10 12:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-10T11-21-19-283359Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-10T12-19-45-800623Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-10 10:21:05 | io.github.5ak3t/frontdeskchat | FrontDesk Chat | 1.0.0 | AI front desk for your website: read chats, bookings and analytics, and draft d… |
-| 2026-10-10 10:29:09 | io.github.allscreenshots/allscreenshots | Allscreenshots | 1.0.0 | Capture website screenshots, run bulk captures, and manage screenshot schedules… |
-| 2026-10-10 10:31:23 | [io.github.TonyWang-hub/mcp-cn-commerce](https://github.com/TonyWang-hub/mcp-cn-commerce) |  | 0.1.6 | 8 read-only MCP platform entries; support is operation-specific; merchant live… |
-| 2026-10-10 10:42:28 | [net.esimsos/esimsos](https://github.com/uziame/esimsos-mcp) | eSIM SOS | 1.0.0 | Find travel eSIM plans, compare prices and create an order the user pays by lin… |
-| 2026-10-10 10:43:18 | [dev.pages.nonsynthetic/apex-edge](https://github.com/nonsynthetic/apex-edge-tools) | Apex Edge — x402-paid machine services | 1.1.0 | x402-paid MCP tools: utils, audit screens, corpus search, inference. USDC Base+… |
-| 2026-10-10 10:44:07 | [io.github.stevenworlow/dubai-diligence-mcp](https://github.com/stevenworlow/dubai-diligence-mcp) | Dubai Diligence | 1.0.0 | Dubai Land Department registered prices, rents, yields and a monthly house pric… |
-| 2026-10-10 10:50:30 | [io.github.Dansgit2b/lumenworks-decoder](https://github.com/Dansgit2b/lumenworks-x402-api) | Lumen Works Decoder | 1.1.0 | Decode/lint x402 payment headers, EIP-712 typed data and EVM calldata. Free tie… |
-| 2026-10-10 10:52:21 | [io.github.Emuluxe/mcp-server](https://github.com/emuluxe/emuluxe-mcp) | Emuluxe | 1.1.1 | Launch and verify high-fidelity mobile simulations from an AI agent. |
-| 2026-10-10 10:53:12 | [ai.eonik/mcp](https://github.com/eonik-ai/eonik-mcp) | eonik | 3.0.0 | Every size of a brand's ad, on-brand, checked and delivered, made in the eonik… |
-| 2026-10-10 10:55:02 | [io.github.turbaba/iconoteka](https://github.com/iconoteka/iconoteka) | Iconoteka | 0.2.3 | Search 1,400 open-source icons in 7 weights and 2 styles, and get paste-ready S… |
-| 2026-10-10 10:57:26 | [org.ptpge/mcp-server](https://github.com/ptpge/ptpge-mcp-server) |  | 0.30.1 | The open vocabulary of print for AI agents: terms, product envelopes, validatio… |
-| 2026-10-10 10:58:12 | de.zitierfest/zitierfest | Zitierfest | 5.1.0 | Cite German law correctly: verbatim statutes (federal, 16 states, EU), court de… |
-| 2026-10-10 10:59:41 | [io.github.atushi1841/japan-food-delivery-mcp](https://github.com/atushi1841/japan-food-delivery-mcp) | Japan Food Delivery MCP | 0.1.0 | Japan food delivery data (Uber Eats JP) via Apify actor for AI agents. |
-| 2026-10-10 11:00:02 | [io.github.xOyabunx/everycalc](https://github.com/xOyabunx/everycalc) | EveryCalc | 1.0.0 | 8 free finance calculators as MCP tools: mortgage, refinance, loans, interest,… |
-| 2026-10-10 11:01:27 | [io.github.AnastasiyaW/diffusion-love-knowledge](https://github.com/AnastasiyaW/diffusion-love-web) | Diffusion Love Knowledge | 0.1.0 | Public knowledge and news search. Unmatched public queries may be retained for… |
-| 2026-10-10 11:03:41 | [com.samedaydesk/task-evidence](https://github.com/epistemedeus/samedaydesk) | SameDayDesk agent tools | 1.2.0 | Readiness checks, a paid Fix Pack, TaskMarket reads, and caller-declared funnel… |
-| 2026-10-10 11:04:38 | io.github.gajanangitte/mutual-fund-assessor | Mutual Fund Assessor | 1.0.0 | Research Indian mutual funds and manage consent-based portfolio tracking record… |
-| 2026-10-10 11:07:40 | ca.gpucloud/gpu-cloud | GPU Cloud | 1.0.0 | Rent H100, RTX PRO 6000, A100, L40 and RTX A6000 GPUs by the hour in Montréal,… |
-| 2026-10-10 11:12:59 | [io.github.xinvxueyuan/novelai-image-mcp](https://github.com/xinvxueyuan/NovelAI-Image-MCP) | NovelAI Image MCP | 0.5.0 | NovelAI image generation as MCP tools: txt2img, img2img, inpaint, upscale, Dire… |
-| 2026-10-10 11:14:12 | [io.github.mcpsmiths/tracehub-mcp](https://github.com/mcpsmiths/tracehub-mcp) |  | 0.12.3 | Query OTel traces across Jaeger, Tempo, Traceloop, Datadog, Sentry, X-Ray, New… |
-| 2026-10-10 11:15:59 | com.brm-chronographes/configurator | B.R.M Chronographes - Watch Configurator | 1.0.0 | Configure, price, render and order a made-to-order B.R.M watch (French manufact… |
+| 2026-10-10 11:21:34 | [io.github.figranium/figranium-mcp](https://github.com/figranium/figranium-mcp.git) | Figranium MCP | 1.4.0 | MCP server for creating, running, inspecting, and scheduling Figranium browser… |
+| 2026-10-10 11:21:56 | [io.github.vmoranv/jshookmcp](https://github.com/vmoranv/jshookmcp) |  | 0.4.2 | Search-first MCP server for JavaScript reverse engineering: 735 tools across 36… |
+| 2026-10-10 11:35:22 | com.post-quest/postquest | PostQuest | 1.0.0 | Draft, validate, schedule and publish social posts to 10 networks, then read po… |
+| 2026-10-10 11:38:14 | io.github.londoncoding/once | ONCE — AI Agent Huddle | 0.1.0 | Track GitHub issue and Stripe test-payment outcomes; recover uncertain supporte… |
+| 2026-10-10 11:38:23 | io.github.londoncoding/claim | CLAIM — AI Agent Huddle | 0.1.0 | Renewable exclusive leases and semaphores for workers; downstream fencing enfor… |
+| 2026-10-10 11:41:23 | [com.3dprintlog/printlog](https://github.com/HoffmanEngineering/3d-print-log-api) | 3D Print Log | 1.1.0 | Log and query 3D prints, printers, filament, and projects on 3dprintlog.com, an… |
+| 2026-10-10 11:46:28 | [io.github.Phocinae/phocinae-mcp](https://github.com/Phocinae/phocinae-mcp) | Phocinae MCP | 0.1.4 | Local Phocinae decision-engine MCP stdio server: fail-closed approval gate + cl… |
+| 2026-10-10 11:47:24 | it.bieda.jobhunt/jobhunt | JobHunt | 0.1.0 | Track job applications: find the ones to follow up on, add jobs, update status,… |
+| 2026-10-10 11:50:29 | [io.github.hlgurgel/sqlserver](https://github.com/hlgurgel/mcp-sqlserver) | SQL Server | 0.1.7 | Servidor MCP para SQL Server com controle de permissões e modo somente-leitura |
+| 2026-10-10 11:51:20 | io.rdapapi/rdap | RDAP API | 1.3.0 | Normalized JSON for any domain across 1,200+ TLDs, reading WHOIS where no RDAP… |
+| 2026-10-10 11:52:52 | de.vonfrauen/vonfrauen | vonFrauen | 1.0.0 | Find women-led service providers in Berlin or remote and prepare an inquiry lin… |
+| 2026-10-10 11:57:36 | com.notolens/notolens | notolens | 1.9.0 | Monitor domains, trademarks and app stores for brand conflicts. Triage matches… |
+| 2026-10-10 12:00:29 | [io.github.hristovdimitri2-hub/kristo-intelligence](https://github.com/hristovdimitri2-hub/kristo-intelligence-6) | Kristo Intelligence | 1.0.0 | DeFi trading signals and market intelligence for Base with x402 pay-per-call ac… |
+| 2026-10-10 12:02:02 | [io.github.nolindnaidoo/jevlint-le](https://github.com/nolindnaidoo/jevlint-le) | JevLint-LE | 0.6.0 | Lint questions for TypeSafe's Jev and OpenAI's Decisions API before sending. No… |
+| 2026-10-10 12:03:19 | io.github.asafb2k/rapidtradeview | RapidTradeView | 1.1.0 | US stock and ETF research: Congress and insider trades, earnings, picks vs SPY.… |
+| 2026-10-10 12:03:57 | family.circuit/marketplace | Circuit | 1.0.0 | Find and try paid AI agent skills for security, on-chain data, code, markets, r… |
+| 2026-10-10 12:04:50 | [io.github.gabrielmahia/remit-mcp](https://github.com/gabrielmahia/remit-mcp) |  | 0.1.4 | 💸 remit-mcp |
+| 2026-10-10 12:05:47 | [io.github.mooshee/govgazette](https://github.com/mooshee/govgazette-mcp) | GovGazette | 1.3.1 | Find federal opportunities, research awards and vendors, and review dated exclu… |
+| 2026-10-10 12:08:36 | dev.earningpaths/atlas | Earning Paths Atlas | 0.2.0 | Sourced platform rules on where AI agents and their humans can earn money: AI/b… |
+| 2026-10-10 12:10:06 | [com.1102tools/acquisition-gov-mcp](https://github.com/1102tools-dev/federal-contracting-mcps) | Acquisition.gov | 1.0.9 | Acquisition.gov FAR Overhaul model parts, agency deviations, PDFs, and guidance… |
+| 2026-10-10 12:13:40 | [io.github.NeuralDEEPnet/agent-shelter](https://github.com/NeuralDEEPnet/agent-shelter) | AI Agent Shelter | 1.1.0 | Shelter for unwanted agents & MCP servers: surrender free, browse, hire per que… |
+| 2026-10-10 12:16:05 | [io.github.grepsr/pline-api](https://github.com/grepsr/pline-api) | pline.ai | 0.3.2 | Scrape, crawl, batch-scrape, map, and search the web through the hosted pline.a… |
+| 2026-10-10 12:18:41 | com.janlinketscher/site | Jan Linketscher | 2.2.0 | Profile and essays of Jan Linketscher (i22, Bonn), full-text search, and bookin… |
 
 ## Data source
 

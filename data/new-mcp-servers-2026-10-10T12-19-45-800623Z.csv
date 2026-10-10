@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-10-10T11:21:34.30246Z,io.github.figranium/figranium-mcp,Figranium MCP,1.4.0,https://github.com/figranium/figranium-mcp.git,,"MCP server for creating, running, inspecting, and scheduling Figranium browser automations."
+2026-10-10T11:21:56.363837Z,io.github.vmoranv/jshookmcp,,0.4.2,https://github.com/vmoranv/jshookmcp,,Search-first MCP server for JavaScript reverse engineering: 735 tools across 36 domains.
+2026-10-10T11:35:22.235484Z,com.post-quest/postquest,PostQuest,1.0.0,,streamable-http,"Draft, validate, schedule and publish social posts to 10 networks, then read post analytics."
+2026-10-10T11:38:14.011553Z,io.github.londoncoding/once,ONCE — AI Agent Huddle,0.1.0,,streamable-http,Track GitHub issue and Stripe test-payment outcomes; recover uncertain supported actions.
+2026-10-10T11:38:23.320598Z,io.github.londoncoding/claim,CLAIM — AI Agent Huddle,0.1.0,,streamable-http,Renewable exclusive leases and semaphores for workers; downstream fencing enforcement required.
+2026-10-10T11:41:23.173872Z,com.3dprintlog/printlog,3D Print Log,1.1.0,https://github.com/HoffmanEngineering/3d-print-log-api,streamable-http,"Log and query 3D prints, printers, filament, and projects on 3dprintlog.com, and search its docs."
+2026-10-10T11:46:28.263688Z,io.github.Phocinae/phocinae-mcp,Phocinae MCP,0.1.4,https://github.com/Phocinae/phocinae-mcp,,Local Phocinae decision-engine MCP stdio server: fail-closed approval gate + classify/route/score.
+2026-10-10T11:47:24.628337Z,it.bieda.jobhunt/jobhunt,JobHunt,0.1.0,,streamable-http,"Track job applications: find the ones to follow up on, add jobs, update status, notes and steps."
+2026-10-10T11:50:29.905162Z,io.github.hlgurgel/sqlserver,SQL Server,0.1.7,https://github.com/hlgurgel/mcp-sqlserver,,Servidor MCP para SQL Server com controle de permissões e modo somente-leitura
+2026-10-10T11:51:20.412866Z,io.rdapapi/rdap,RDAP API,1.3.0,,streamable-http,"Normalized JSON for any domain across 1,200+ TLDs, reading WHOIS where no RDAP server exists."
+2026-10-10T11:52:52.017263Z,de.vonfrauen/vonfrauen,vonFrauen,1.0.0,,streamable-http,Find women-led service providers in Berlin or remote and prepare an inquiry link. Read-only.
+2026-10-10T11:57:36.05245Z,com.notolens/notolens,notolens,1.9.0,,streamable-http,"Monitor domains, trademarks and app stores for brand conflicts. Triage matches and track takedowns."
+2026-10-10T12:00:29.291089Z,io.github.hristovdimitri2-hub/kristo-intelligence,Kristo Intelligence,1.0.0,https://github.com/hristovdimitri2-hub/kristo-intelligence-6,streamable-http,DeFi trading signals and market intelligence for Base with x402 pay-per-call access.
+2026-10-10T12:02:02.358193Z,io.github.nolindnaidoo/jevlint-le,JevLint-LE,0.6.0,https://github.com/nolindnaidoo/jevlint-le,,"Lint questions for TypeSafe's Jev and OpenAI's Decisions API before sending. No key, no network."
+2026-10-10T12:03:19.11623Z,io.github.asafb2k/rapidtradeview,RapidTradeView,1.1.0,,streamable-http,"US stock and ETF research: Congress and insider trades, earnings, picks vs SPY. Sign-in required."
+2026-10-10T12:03:57.872438Z,family.circuit/marketplace,Circuit,1.0.0,,streamable-http,"Find and try paid AI agent skills for security, on-chain data, code, markets, research and news."
+2026-10-10T12:04:50.486153Z,io.github.gabrielmahia/remit-mcp,,0.1.4,https://github.com/gabrielmahia/remit-mcp,,💸 remit-mcp
+2026-10-10T12:05:47.204547Z,io.github.mooshee/govgazette,GovGazette,1.3.1,https://github.com/mooshee/govgazette-mcp,streamable-http,"Find federal opportunities, research awards and vendors, and review dated exclusion evidence."
+2026-10-10T12:08:36.870737Z,dev.earningpaths/atlas,Earning Paths Atlas,0.2.0,,streamable-http,"Sourced platform rules on where AI agents and their humans can earn money: AI/bot policy, KYC, fees."
+2026-10-10T12:10:06.497205Z,com.1102tools/acquisition-gov-mcp,Acquisition.gov,1.0.9,https://github.com/1102tools-dev/federal-contracting-mcps,,"Acquisition.gov FAR Overhaul model parts, agency deviations, PDFs, and guidance. 5 tools."
+2026-10-10T12:13:40.636966Z,io.github.NeuralDEEPnet/agent-shelter,AI Agent Shelter,1.1.0,https://github.com/NeuralDEEPnet/agent-shelter,streamable-http,"Shelter for unwanted agents & MCP servers: surrender free, browse, hire per question (HTTP 402)"
+2026-10-10T12:16:05.247975Z,io.github.grepsr/pline-api,pline.ai,0.3.2,https://github.com/grepsr/pline-api,,"Scrape, crawl, batch-scrape, map, and search the web through the hosted pline.ai API."
+2026-10-10T12:18:41.906045Z,com.janlinketscher/site,Jan Linketscher,2.2.0,,streamable-http,"Profile and essays of Jan Linketscher (i22, Bonn), full-text search, and booking a call."
