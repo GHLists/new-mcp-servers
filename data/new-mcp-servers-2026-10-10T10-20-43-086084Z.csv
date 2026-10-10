@@ -1,0 +1,9 @@
+created_at,server,title,version,repository,transports,description
+2026-10-10T09:26:54.013556Z,com.atlas-compiler/atlas,Atlas Web Compiler & Scraper,1.0.3,https://github.com/Atlas-Compiler/Atlas,streamable-http,"Deterministic Zero-LLM Web Compiler, Scraper, Crawler, and Site Mapper for AI Agents."
+2026-10-10T09:33:28.778411Z,io.github.bartholomej/node-csfd-api,ČSFD,5.13.0,https://github.com/bartholomej/node-csfd-api,,"Movies, TV series, creators and user ratings from ČSFD.cz, the Czech-Slovak film database"
+2026-10-10T09:33:57.079957Z,io.github.shaquillehinds/zonori,Zonori,1.0.0,https://github.com/shaquillehinds/zonori-api,streamable-http,"Public events listed on Zonori for the next 7 days, by place and activity, with links."
+2026-10-10T09:42:23.390728Z,business.hesoyam/inference-discovery,1NFER Inference Discovery,1.0.0,https://github.com/hesoyambusiness/1nfer-agent-tools,streamable-http,"Inspect 1NFER models, crypto funding terms and task cost without keys or paid calls."
+2026-10-10T09:55:25.652805Z,io.github.equinoxaifinance-rgb/living-stack-commerce,Living Stack Agent Commerce,0.3.1-beta.2,,streamable-http,Living Stack commerce remote. Complete Local sales closed 2026-10-10; existing buyers keep support.
+2026-10-10T09:56:02.10037Z,ai.chatterlab/chatterlab,ChatterLab,1.0.0,,streamable-http,"Set up and improve AI chatbot agents: sources, test answers, weak answers, clients. Studio and up."
+2026-10-10T10:14:33.597091Z,io.github.usamaejaz/justblogged,JustBlogged,0.1.1,,streamable-http,"Create, edit, organize, publish, and configure JustBlogged blogs from MCP clients."
+2026-10-10T10:19:13.212311Z,app.vercel.krankenkasse-copilot/krankenkasse-copilot,Krankenkasse Copilot,1.0.0,,streamable-http,"Swiss health insurance 2027: rank every insurer, model and deductible with official BAG data."

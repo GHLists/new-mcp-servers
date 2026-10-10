@@ -73,6 +73,7 @@
     "ai.catchmycall/cpaas",
     "ai.caybl/caybl",
     "ai.centralcity/central-city",
+    "ai.chatterlab/chatterlab",
     "ai.chinaapi/chinaapi",
     "ai.ciphyr.agentmart/agentmart",
     "ai.citepath/citepath",
@@ -622,6 +623,7 @@
     "app.trvlrr/trvlrr",
     "app.vaultbags/vaultbags",
     "app.vercel.codigo07/human-verification-peru",
+    "app.vercel.krankenkasse-copilot/krankenkasse-copilot",
     "app.vercel.stackfacts/stackfacts",
     "app.vidlet/vidlet",
     "app.web.yutai-mcp/yutai-mcp",
@@ -699,6 +701,7 @@
     "br.com.superdb/mcp",
     "br.com.tarodando/mcp",
     "build.exascale/osint",
+    "business.hesoyam/inference-discovery",
     "ca.arrowmem/arrowmem-mcp",
     "ca.assetlab/mcp-server",
     "ca.govradar/govradar",
@@ -1007,6 +1010,7 @@
     "com.astranl/crossing",
     "com.astranl/mcp",
     "com.atimeus/atimeus",
+    "com.atlas-compiler/atlas",
     "com.atly/places",
     "com.attestroom/site",
     "com.attestvio/site",
@@ -4911,6 +4915,7 @@
     "io.github.baronsigma/factrail",
     "io.github.baronsigma/fallback-agent-tools",
     "io.github.bartekrutkowski/watchgoose-mcp",
+    "io.github.bartholomej/node-csfd-api",
     "io.github.bartosz-kuc/skanfirmy",
     "io.github.basis-protocol/basis",
     "io.github.basitalisandhu/mcp-cron-tools",
@@ -5570,6 +5575,7 @@
     "io.github.epam/TimeBase-MCP",
     "io.github.epheterson/applemusic-mcp",
     "io.github.epistemedeus/ein-llc",
+    "io.github.equinoxaifinance-rgb/living-stack-commerce",
     "io.github.equinoxaifinance-rgb/pactwire",
     "io.github.eralpozcan/vision-squeezer",
     "io.github.erayendes/asc-mcp",
@@ -7466,6 +7472,7 @@
     "io.github.shanethelion/glazing-mcp",
     "io.github.shapeandshare/ember",
     "io.github.shaqmughal/seekstone",
+    "io.github.shaquillehinds/zonori",
     "io.github.sharafutdinovdi/revit-model-mcp",
     "io.github.sharan01x/usetested",
     "io.github.sharathkum05/hamilton-harness",
@@ -7893,6 +7900,7 @@
     "io.github.unvus/neosql-mcp",
     "io.github.upforge-dev/upforge",
     "io.github.upstash/context7",
+    "io.github.usamaejaz/justblogged",
     "io.github.usamahz/cpu-perf",
     "io.github.usekaneo/kaneo",
     "io.github.usertour/mcp",
@@ -9265,11 +9273,11 @@
     "za.co.cryptodecentral/sovereign"
   ],
   "list": {
-    "count": 17,
-    "from": "2026-10-10T08:22:05.048645Z",
-    "path": "data/new-mcp-servers-2026-10-10T09-20-57-591515Z.csv",
-    "to": "2026-10-10T09:20:57.591515Z"
+    "count": 8,
+    "from": "2026-10-10T09:20:57.591515Z",
+    "path": "data/new-mcp-servers-2026-10-10T10-20-43-086084Z.csv",
+    "to": "2026-10-10T10:20:43.086084Z"
   },
   "source_truncated": false,
-  "window": "2026-10-10T09:20:57.591515Z"
+  "window": "2026-10-10T10:20:43.086084Z"
 }
