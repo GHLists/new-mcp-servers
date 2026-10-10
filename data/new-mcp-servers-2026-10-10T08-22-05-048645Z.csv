@@ -1,0 +1,13 @@
+created_at,server,title,version,repository,transports,description
+2026-10-10T07:21:48.24766Z,io.github.yangzichao/mcp-server-overleaf,Overleaf,0.3.5,https://github.com/yangzichao/mcp-server-overleaf,,"Overleaf MCP server for Claude, Codex, ChatGPT, and Cursor with safe LaTeX editing and review."
+2026-10-10T07:23:29.553728Z,io.github.OniVe/weeeking,Weeeking,0.4.1,https://github.com/OniVe/weeeking,,"MCP server for Weeek with full public API coverage: tasks, projects, CRM, time tracking."
+2026-10-10T07:30:09.596329Z,jp.yomitasu/esprit-delasse-com,Esprit Delasse,1.0.1,,streamable-http,良質なスピリチュアルニュースをお届けするEsprit Delasse（エスプリ・デラッセ）。（esprit-delasse.com の内容を検索して答える。ヨミタス経由）
+2026-10-10T07:34:09.530414Z,jobs.aitraining/ai-training-jobs,AITraining.jobs,1.0.0,,streamable-http,Search open AI training jobs from 17 platforms and compare advertised hourly pay by kind of work.
+2026-10-10T07:43:34.044457Z,ai.rivalize/rivalize-mcp,Rivalize,0.3.2,https://github.com/Downshift/rivalize-mcp,,"Competitive intelligence for agents: competitor teardowns, pricing, ads, reviews and momentum."
+2026-10-10T07:51:33.643408Z,com.szymonpaluch/mcp,Claude certification practice exams and AI blog,1.0.0,,streamable-http,"Free, unofficial practice questions for four Claude certifications, plus an AI blog (EN/PL)."
+2026-10-10T08:04:34.667714Z,ru.sexpreparat/mcp,sexpreparat.ru,1.1.0,,streamable-http,"sexpreparat.ru catalog: articles, research, reader Q&A, blogs on sex & health, 6 languages."
+2026-10-10T08:13:37.795767Z,ai.audo/audo,Audo,1.0.0,https://github.com/audo-ai/audo-mcp,streamable-http,"Audio and video tools for your AI assistant: remove noise, enhance voices, transcribe, and more."
+2026-10-10T08:14:55.83051Z,io.github.mad4ms/comdirect-mcp,comdirect,0.4.0,https://github.com/mad4ms/comdirect-mcp,,"Read-only access to comdirect bank accounts, transactions, depots and postbox documents."
+2026-10-10T08:16:31.384292Z,mx.estiaje/estiaje,Estiaje,1.0.0,,streamable-http,"Business-process monitoring and grouped errors in your AI: money at risk, deploys, order journeys."
+2026-10-10T08:17:33.762845Z,day.yaba/yaba,YABA family budget,1.4.0,,streamable-http,"Family budget for couples: spending, budget, pace, bills and Monobank-synced entries. OAuth."
+2026-10-10T08:21:31.385191Z,io.github.sukrutkrdg/x402-bazaar-mcp,,0.3.0,https://github.com/sukrutkrdg/x402-bazaar-mcp,,"Check, then act, on Base and NEAR: token-safety gates, then swaps at the best price — over x402."
