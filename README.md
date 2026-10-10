@@ -9,23 +9,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 03:18 UTC
+## Latest list — 2026-10-10 04:21 UTC
 
-New MCP servers published between 2026-10-10 02:21 UTC and 2026-10-10 03:18 UTC.
+New MCP servers published between 2026-10-10 03:18 UTC and 2026-10-10 04:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-10T03-18-44-728929Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-10T04-21-05-218431Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-10 02:35:33 | com.fromerica.api/trade-data | Fromerica U.S. Trade Data | 1.1.0 | U.S. tariffs (HTS), Schedule B codes, export statistics, party screening and FM… |
-| 2026-10-10 02:45:36 | com.rowattest/rowattest | RowAttest | 1.0.0 | Runs an eight-stage isolation test against your staging Supabase and issues a s… |
-| 2026-10-10 02:48:10 | ai.klype/klype | Klype AI | 1.0.0 | Draft posts in your own voice from saved business context and check every draft… |
-| 2026-10-10 02:51:57 | [io.github.bountyoperator/bounty-operator](https://github.com/bountyoperator/bounty-operator) | Bounty Operator | 0.9.7 | Argues against a security finding or a draft bug bounty report before you submi… |
-| 2026-10-10 02:57:22 | [io.github.campfiresms/campfire-mcp](https://github.com/campfiresms/campfire-mcp) | Campfire SMS | 0.1.0 | Hosted two-way SMS bridge: your coding agent texts you when it needs an answer;… |
-| 2026-10-10 03:00:44 | [io.github.morvs-ai/morvs](https://github.com/morvs-ai/morvs-plugins) | MORVS | 0.1.0 | Keyless, read-only US public records for agents: SEC, FDA, enforcement, sanctio… |
-| 2026-10-10 03:06:27 | com.chiemem/chiemem | Chiemem | 1.0.0 | Create, publish and search AI prompt and how-to listings on Chiemem (Japanese A… |
-| 2026-10-10 03:12:59 | [io.nestr/mcp](https://github.com/nestr-dev/nestr-mcp) |  | 0.1.110 | Connect AI to Nestr for Holacracy, Sociocracy, and self-organizing teams. |
-| 2026-10-10 03:13:35 | [io.github.projectworks007/real-estate-listings-2](https://github.com/projectworks007/apify-data-mcp) | Real Estate Listings Data (part 2) | 1.0.0 | Property listings for sale and rent from immowelt, Fotocasa, Immoweb, Otodom, R… |
+| 2026-10-10 03:18:47 | [io.github.marvtub/nimo](https://github.com/marvtub/nimo-mcp) | nimo | 1.0.0 | Website monitoring: uptime alerts, page speed and Core Web Vitals with the next… |
+| 2026-10-10 03:22:29 | [ai.cueframe/cueframe](https://github.com/cueframe-ai/cueframe-mcp) | CueFrame | 1.2.0 | Turn footage into finished video: reframing, captions behind the subject, motio… |
+| 2026-10-10 03:24:31 | [io.github.koyourmoon/perspective-api-alternative](https://github.com/koyourmoon/perspective-api-alternative-mcp) | Perspective API Alternative (Toxicity D… | 1.0.9 | Toxicity scores (0-1) for text before an agent posts it. Perspective API compat… |
+| 2026-10-10 03:27:41 | us.nextbid/data | NextBid — Government Bids for AI | 0.9.36 | Search open U.S. federal, state and local government bids and read their docume… |
+| 2026-10-10 03:41:33 | io.marketcensus/market-census | Market Census | 1.0.3 | Quantitative research for US stocks, ETFs and crypto. General information, not… |
+| 2026-10-10 03:51:25 | io.github.alwaysarafath/thepaymentsnotes-ledger | thePaymentsNotes Ledger | 0.1.0-testnet | Human-verified status of agentic-commerce payment protocols (x402, MPP, AP2, AC… |
+| 2026-10-10 03:53:16 | [io.github.johnzfitch/pyghidra-lite](https://github.com/johnzfitch/pyghidra-lite) |  | 0.9.1 | Token-efficient Ghidra RE: decompile, xrefs, Swift/ObjC, ELF/Mach-O, async anal… |
+| 2026-10-10 03:57:57 | com.droneclearthailand/droneclear-thailand | DroneClear Thailand | 1.3.0 | Thailand drone rules for hobby pilots: CAAT/NBTC registration, insurance, fligh… |
+| 2026-10-10 04:00:52 | ai.bugtape/bugtape | BugTape | 1.0.0 | Production bugs with replay, network, console and stack, ranked for your coding… |
+| 2026-10-10 04:11:06 | [io.github.FunplayAI/funplay-godot-mcp](https://github.com/FunplayAI/funplay-godot-mcp) | Funplay Godot MCP | 0.10.1 | stdio bridge for the local Godot Editor MCP server from FunplayAI/funplay-godot… |
 
 ## Data source
 
