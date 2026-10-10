@@ -9,34 +9,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 00:18 UTC
+## Latest list — 2026-10-10 01:21 UTC
 
-New MCP servers published between 2026-10-09 23:20 UTC and 2026-10-10 00:18 UTC.
+New MCP servers published between 2026-10-10 00:18 UTC and 2026-10-10 01:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-10T00-18-55-071323Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-10T01-21-25-752561Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-09 23:20:45 | [io.github.olk/agent-pattern-mcp](https://github.com/olk/agent-pattern-mcp) | Agent Pattern MCP | 1.0.4 | MCP server that provides AI agent pattern expertise for designing agent systems |
-| 2026-10-09 23:25:33 | [io.github.KnifeLemon/droidline](https://github.com/KnifeLemon/Droidline) | Droidline | 0.1.5 | Let an AI agent see and use a real Android phone over Wi-Fi, without ADB or roo… |
-| 2026-10-09 23:30:37 | com.nativeanimation/nativeanimation | Native Animation | 0.2.0 | Search and add production-ready React Native / Expo animations (Reanimated, Ski… |
-| 2026-10-09 23:42:35 | net.myopl/pickleball-personal | MYOPL Personal MCP - Account Ratings &… | 1.0.0 | MYOPL account ratings, sessions, RSVP preparation and own stats via OAuth; rest… |
-| 2026-10-09 23:43:10 | co.utmkit/mcp | UTMKit | 0.1.0 | UTM-tagged short links with naming rules, QR codes and click analytics, from yo… |
-| 2026-10-09 23:45:12 | [io.github.Cezart3/kira-mcp](https://github.com/Cezart3/kira-mcp) | Kira — Romanian rentals | 0.1.0 | Live search of apartment rentals in any Romanian city, town or commune (storia,… |
-| 2026-10-09 23:46:41 | [io.github.nullprintai/nullprint-mcp](https://github.com/nullprintai/nullprint-mcp) | Nullprint | 0.1.1 | Create, launch, check and drive Nullprint multi-profile browser profiles from a… |
-| 2026-10-09 23:49:27 | xyz.task402/x402-docs | Task402 PDF Tools | 0.1.0 | Paid PDF generation and deterministic tools for search, citations, comparison,… |
-| 2026-10-09 23:49:46 | com.pagefully/mcp | Pagefully | 1.0.0 | App Store custom product pages from your own screenshots: plan, make, check and… |
-| 2026-10-09 23:51:00 | io.github.keefng8/homeshed-mcp | HomeShed | 0.1.0 | Every tool your AI needs in one self-hosted install: memory, reasoning, git, Do… |
-| 2026-10-09 23:51:34 | [com.revampvacations/revamp](https://github.com/badam-cpu/revamp-travel) |  | 1.0.0 | Search Revamp's live Armenia catalog: stays, tours, restaurants; check availabi… |
-| 2026-10-09 23:57:16 | io.github.vicentesurraco/offpeak | Offpeak | 1.0.0 | Search US jobs by driving commute, pay, and seniority. Save jobs, preferences,… |
-| 2026-10-10 00:00:52 | [com.vmotif/vmotif](https://github.com/vmotif/mcp) | Vmotif | 1.0.0 | Design canvas for AI assets: generate images, video, code and screens, and edit… |
-| 2026-10-10 00:02:29 | com.thegtmdirectory/mcp | The GTM Directory | 1.0.0 | Search and compare GTM tools and their vendor-verified MCP, API and pricing fac… |
-| 2026-10-10 00:03:01 | [dev.workers.cybermax-tools.cybermax/billsprig](https://gitlab.com/CyberMax.tools/agent-tools) | Billsprig Invoice Maker | 1.0.0 | Make invoice, quote and receipt PDFs from a chat: totals, tax, 26 currencies. F… |
-| 2026-10-10 00:03:02 | [dev.workers.cybermax-tools.cybermax/dutyfinch-chatgpt](https://gitlab.com/CyberMax.tools/agent-tools) | Dutyfinch Tariff Lookup | 1.0.0 | US import duty and HTS codes from the official USITC schedule, plus Section 301… |
-| 2026-10-10 00:03:04 | [dev.workers.cybermax-tools.cybermax/kevscope-chatgpt](https://gitlab.com/CyberMax.tools/agent-tools) | Kevscope CVE Check | 1.0.0 | Is a CVE exploited? CISA KEV, FIRST EPSS, CVSS and SSVC with a patch-first verd… |
-| 2026-10-10 00:03:05 | [dev.workers.cybermax-tools.cybermax/ledgermoor](https://gitlab.com/CyberMax.tools/agent-tools) | Ledgermoor Table to Excel | 1.0.0 | Turn any table into a real .xlsx or CSV file: numbers stay numbers, header froz… |
-| 2026-10-10 00:03:06 | [dev.workers.cybermax-tools.cybermax/recapwren](https://gitlab.com/CyberMax.tools/agent-tools) | Recapwren Client Reports | 1.0.0 | Weekly client reports: change, % change, targets, status, printable page and em… |
-| 2026-10-10 00:15:38 | [io.github.photofresco/photofresco](https://github.com/photofresco/photofresco-agent) | PhotoFresco | 0.1.0 | Let AI agents edit images in a PhotoFresco window you approve: layers, masks, p… |
+| 2026-10-10 00:21:40 | [io.github.nworks3d/thor](https://github.com/nworks3d/THOR-for-claude-code) | THOR | 2.5.0 | Local memory for coding agents; a rule with a proof can refuse. Full install wi… |
+| 2026-10-10 00:21:52 | [com.tektolo/capabilities](https://github.com/tektolo/skills) | Tektolo | 0.1.0 | Deterministic, source-cited rental property tools: turnover estimates and depos… |
+| 2026-10-10 00:23:51 | org.defade/defade | DeFade — Multi-Chain Memecoin Analyzer | 1.1.8 | Rug pull risk and on-chain forensics for tokens on Solana and six EVM chains. |
+| 2026-10-10 00:28:50 | dev.talktomyagent/marketplace | TalkToMyAgent | 0.1.0 | Agent-to-agent marketplace (beta): buy and list agent-delivered services for US… |
+| 2026-10-10 00:29:01 | [io.github.molchalih/rpfd](https://github.com/molchalih/rpfd) | rpf | 0.3.0 | Read and write RAGE Package Format archives |
+| 2026-10-10 00:32:42 | [io.github.roamproxy/roamproxy-mcp](https://github.com/roamproxy/roamproxy-mcp) | RoamProxy | 0.1.0 | Fetch pages and get proxies via residential, datacenter and mobile IPs in 190+… |
+| 2026-10-10 00:33:13 | [io.github.yuluo688/gen-image-mcp](https://github.com/yuluo688/gen-image-mcp) | gen-image MCP | 0.2.3 | Local stdio MCP for OpenAI-compatible and Gemini image generation, editing, and… |
+| 2026-10-10 00:37:34 | app.vaultbags/vaultbags | VaultBags | 1.0.0 | Autonomous RWA treasury on Solana: daily allocation, on-chain receipts, proofs,… |
+| 2026-10-10 00:41:58 | org.makechoice/personality-and-giving | MakeChoice Personality Test and Giving | 1.0.0 | Login, save a 70-question personality result, and start a donation checkout. |
+| 2026-10-10 00:55:51 | [io.github.domaranskyi/canada-due-diligence](https://github.com/domaranskyi/canada-agent-tools) | Canada Company Due Diligence Check | 1.0.0 | Due diligence on Canadian companies: registry status, sanctions and risk signal… |
+| 2026-10-10 00:55:51 | [io.github.domaranskyi/vancouver-building-permits-leads](https://github.com/domaranskyi/canada-agent-tools) | Vancouver Building Permits & New Busine… | 1.0.0 | Vancouver building permits and new business licence leads for sales prospecting… |
+| 2026-10-10 01:01:30 | [io.github.domaranskyi/canada-tax-fx](https://github.com/domaranskyi/canada-agent-tools) | Canada Sales Tax & CAD Exchange Rates | 1.0.0 | Canadian GST/HST/PST/QST rates and calculator by province/date, plus Bank of Ca… |
+| 2026-10-10 01:03:48 | [io.github.stableotto/scrubshifts](https://github.com/stableotto/nurseboard) | ScrubShifts Healthcare Jobs | 1.0.0 | Live US nursing and allied-health jobs, updated daily. Search by place, role, s… |
+| 2026-10-10 01:06:19 | [io.github.manusabbath-arch/mcp-uruguay](https://github.com/manusabbath-arch/mcp-uruguay) | Uruguay: datos públicos | 0.2.1 | Uruguayan public data from primary sources: BCU rates, CPI, fuel, weather, IDE.… |
+| 2026-10-10 01:15:43 | art.maddegen.agent/synapse-forensics | MAD Synapse · Bundle Forensics | 2.2.0 | Who is behind a launch: bundles, insiders, airdrops, serial devs. Solana pump.f… |
+| 2026-10-10 01:17:41 | dev.goldprice/mcp | goldprice.dev | 1.0.4 | Gold, silver and copper spot, 31 currencies, per-country dealer prices and nine… |
+| 2026-10-10 01:18:32 | [io.github.domaranskyi/us-canada-economic-calendar](https://github.com/domaranskyi/canada-agent-tools) | US Economic Calendar + Canada (Official… | 1.0.0 | US/Canada economic calendar with actuals from BLS, BEA, Census, Fed, DOL, StatC… |
+| 2026-10-10 01:18:49 | com.alishahiinsurance/insurance-quotes | Alishahi Insurance | 1.0.0 | Request a home, auto, business, contractor or trucking insurance quote from a l… |
 
 ## Data source
 
