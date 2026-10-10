@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-10-10T04:24:54.824977Z,app.kelpo/kelpo,Kelpo,1.0.0,,streamable-http,"Make short vertical social videos (Reels, TikTok, Shorts) by chatting, with AI actors and voices."
+2026-10-10T04:30:17.788596Z,com.gimmetext/gimmetext,GimmeText,1.1.0,,streamable-http,Turn any recording into text your AI can use — private speech-to-text over a remote MCP server.
+2026-10-10T04:38:23.216958Z,com.flomailr/flomailr,Flomailr,3.1.0,,streamable-http,"Design on-brand emails with your AI, preview them in chat, and send through server-side guardrails."
+2026-10-10T04:42:31.844491Z,io.github.willnewby/simpletel,simpletel,20261010.0405.59-8f36b35,https://github.com/willnewby/simpletel-mcp,,Query your simpletel OpenTelemetry traces and account usage from a coding agent.
+2026-10-10T04:46:31.372714Z,com.eldrick.api/fitting,ELDRICK Golf Club Fitting,1.3.0,,streamable-http,"Golf club fitting MCP server: fits drivers, woods, hybrids, irons and wedges; scores real clubs."
+2026-10-10T04:47:00.040866Z,com.semscraper/semscraper,Semscraper,1.0.0,,streamable-http,"Real Google and Google Maps SERPs for AI assistants: pixel positions, AI Overviews and sources."
+2026-10-10T04:51:37.86361Z,ee.stacktr/publish,Stacktree,0.8.1,https://github.com/stevysmith/stacktree-mcp,streamable-http,"Publish HTML to private, unguessable, replace-in-place URLs from any MCP-compatible AI agent."
+2026-10-10T04:53:22.601421Z,io.github.pipeworx-io/china-exchange-data,China Exchange Data,0.1.3,https://github.com/pipeworx-io/mcp-china-exchange-data,streamable-http,China Exchange Data MCP (SZSE + SSE). Keyless.
+2026-10-10T04:53:47.114802Z,io.github.pipeworx-io/congress,Congress,0.1.3,https://github.com/pipeworx-io/mcp-congress,streamable-http,"Congress MCP — US Congress data via GovTrack API (free, no auth required)"
+2026-10-10T04:53:58.313708Z,io.github.pipeworx-io/data-sf,Data Sf,0.1.3,https://github.com/pipeworx-io/mcp-data-sf,streamable-http,"DataSF MCP — San Francisco open data (data.sfgov.org, Socrata SODA API)."
+2026-10-10T04:54:20.825496Z,io.github.pipeworx-io/market-recap,Market Recap,0.1.3,https://github.com/pipeworx-io/mcp-market-recap,streamable-http,Market Recap MCP — a one-call 'what happened in markets' snapshot.
+2026-10-10T04:55:20.006206Z,io.github.pipeworx-io/osha,Osha,0.1.3,https://github.com/pipeworx-io/mcp-osha,streamable-http,"OSHA MCP — US workplace-safety standards (29 CFR Chapter XVII, parts 1900–1990)"
+2026-10-10T04:55:49.964344Z,io.github.pipeworx-io/stat-ee,Stat Ee,0.1.3,https://github.com/pipeworx-io/mcp-stat-ee,streamable-http,Statistics Estonia (andmed.stat.ee) PxWeb MCP. Keyless.
+2026-10-10T04:56:24.074364Z,io.github.pipeworx-io/inxight-drugs,Inxight Drugs,0.1.0,https://github.com/pipeworx-io/mcp-inxight-drugs,streamable-http,Inxight Drugs — NCATS drug development status by indication.
+2026-10-10T04:57:14.597087Z,io.github.pipeworx-io/overture-places,Overture Places,0.1.0,https://github.com/pipeworx-io/mcp-overture-places,streamable-http,"Overture Maps places — business and point-of-interest locations (name,"
+2026-10-10T04:58:05.328942Z,io.github.pipeworx-io/prozorro-sale,Prozorro Sale,0.1.0,https://github.com/pipeworx-io/mcp-prozorro-sale,streamable-http,Prozorro.Sale MCP — Ukraine's state and municipal asset sales and leases (keyless).
+2026-10-10T04:58:57.345698Z,io.github.pipeworx-io/puerto-rico-code,Puerto Rico Code,0.1.0,https://github.com/pipeworx-io/mcp-puerto-rico-code,streamable-http,"Puerto Rico statutes — 'leyes' (acts) of the Puerto Rico Legislature,"
+2026-10-10T05:00:33.754857Z,io.github.pipeworx-io/tennessee-code,Tennessee Code,0.1.0,https://github.com/pipeworx-io/mcp-tennessee-code,streamable-http,Tennessee Code Annotated (T.C.A.) — Tennessee state statutes by citation
+2026-10-10T05:01:22.23535Z,io.github.pipeworx-io/usgs-critical-deposits,Usgs Critical Deposits,0.1.0,https://github.com/pipeworx-io/mcp-usgs-critical-deposits,streamable-http,USGS Critical Mineral Deposits of the United States — fleet #2823.
+2026-10-10T05:02:12.472859Z,io.github.pipeworx-io/utah-code,Utah Code,0.1.0,https://github.com/pipeworx-io/mcp-utah-code,streamable-http,"Utah Code — state statutes by citation, plus topic search."
+2026-10-10T05:03:46.035825Z,io.github.pipeworx-io/who-ictrp,Who Ictrp,0.1.0,https://github.com/pipeworx-io/mcp-who-ictrp,streamable-http,WHO ICTRP — the International Clinical Trials Registry Platform search
+2026-10-10T05:04:10.559567Z,io.github.mrd-bdsmetro/openbtob,OpenBtoB,0.1.0,,streamable-http,OpenBtoB trade intelligence with 9 MCP tools.
+2026-10-10T05:04:58.575254Z,dev.voidless/voidless,Voidless,1.0.0,,,"Generate game assets: sprites, animations, tilesets, sound effects, music, video and 3D models."
+2026-10-10T05:06:41.265404Z,com.aiakiv/memory,AiAkiv Memory,1.0.1,https://github.com/AiAkiv/aiakiv-plugins,streamable-http,Shared long-term memory for AI agents: save and recall context as a searchable knowledge graph.
+2026-10-10T05:17:20.492319Z,io.github.thefiredev-cloud/protocol-guide,Protocol Guide,1.0.0,,streamable-http,"Cited US EMS protocol search by agency and state, with exact protocol-number lookup."
