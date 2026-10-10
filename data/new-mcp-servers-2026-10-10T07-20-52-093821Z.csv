@@ -1,0 +1,9 @@
+created_at,server,title,version,repository,transports,description
+2026-10-10T06:22:15.014993Z,io.kolmo.www/kolmo-mcp-server,,1.6.0,https://github.com/Kolmo-Construction/kolmo-mcp-server,streamable-http,"WA permit rules (city + state baseline, cited), parcel zoning, L&I checks, Seattle estimates & ROI"
+2026-10-10T06:23:06.209033Z,ru.proftechpol/mcp,ПрофТехПол — промышленные полы (Москва и МО),1.1.0,https://github.com/VladimirAmosov/proftechpol-mcp,streamable-http,"Услуги, цены, 262 кейса, FAQ и заявки подрядчика промышленных полов для ИИ-агентов"
+2026-10-10T06:36:42.083019Z,de.pflegegradpunkte/pflegegradpunkte,Pflegegradpunkte,1.1.0,,streamable-http,"Pflegegrad-Punkte nach SGB XI berechnen: Begutachtungsfragen, Punkte je Bereich, belegte Fakten."
+2026-10-10T06:42:01.087833Z,ltd.qianyuan/china-source,China Source · 中国信源,1.0.0,,streamable-http,"Structured Chinese official data for AI agents: 426 entries, JSON-LD, read-only. find/get/list"
+2026-10-10T06:50:26.144855Z,io.github.2ez4gcx/sketchup-mcp,SketchUp MCP,1.2.0,https://github.com/2ez4gcx/sketchup-mcp,,"Let AI assistants work in SketchUp: quantity takeoff, modeling, materials, screenshots, Ruby."
+2026-10-10T06:52:24.340046Z,io.github.iorpaul3/date-firme,,0.1.0,,streamable-http,"Romanian company data (ONRC/ANAF): KYB risk score, profile, financials. Pay per call via x402 USDC."
+2026-10-10T06:59:07.590564Z,br.com.superdb/mcp,SuperDB,1.0.0,,streamable-http,"Backend brasileiro (Postgres, login, storage): a IA cria tabelas, liga RLS e roda SQL no projeto."
+2026-10-10T07:14:57.962963Z,com.tryverifyemail/verifyemail,VerifyEmail,1.0.0,,streamable-http,Check whether an email address is real and will accept mail before you send to it.

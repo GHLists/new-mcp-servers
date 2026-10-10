@@ -691,6 +691,7 @@
     "br.com.scrypta/guapissimas",
     "br.com.sinthoma/conector",
     "br.com.sistemasinovadores/zp-nexus",
+    "br.com.superdb/mcp",
     "br.com.tarodando/mcp",
     "build.exascale/osint",
     "ca.arrowmem/arrowmem-mcp",
@@ -2646,6 +2647,7 @@
     "com.trykob.mcp/ops-audit",
     "com.trymimetic/mimetic",
     "com.tryplayhead/playhead",
+    "com.tryverifyemail/verifyemail",
     "com.tubexperto/tubexperto",
     "com.tulimoa/platform",
     "com.tuskcms/mcp",
@@ -2856,6 +2858,7 @@
     "de.nebenkostenpro/nebenkosten",
     "de.oqda/oqda",
     "de.overfit/overfit",
+    "de.pflegegradpunkte/pflegegradpunkte",
     "de.registercheck/registercheck",
     "de.relaex-engineers/boring-api",
     "de.sofortfax/fax",
@@ -3384,6 +3387,7 @@
     "io.github.19Alma98/trekking-mcp",
     "io.github.21J3phy/silk",
     "io.github.263311487-ux/dsh-verify",
+    "io.github.2ez4gcx/sketchup-mcp",
     "io.github.2pm-ninja/star-ninja",
     "io.github.34r7h/handoff",
     "io.github.4DA-Systems/4da-mcp-server",
@@ -5944,6 +5948,7 @@
     "io.github.inventor1975/ztl-judge",
     "io.github.investorphem/abapay",
     "io.github.invoicepdfs/mcp",
+    "io.github.iorpaul3/date-firme",
     "io.github.iowarp/adios-mcp",
     "io.github.iowarp/arxiv-mcp",
     "io.github.iowarp/chronolog-mcp",
@@ -8083,6 +8088,7 @@
     "io.kamaan/kamaan",
     "io.kamai/mcp",
     "io.keyban.prod.mcp/agent-wallet",
+    "io.kolmo.www/kolmo-mcp-server",
     "io.kryptos/kryptos",
     "io.landbot/mcp",
     "io.leadmagic/server",
@@ -8517,6 +8523,7 @@
     "lt.konfiguratorius/pc-builder",
     "lt.pricebee/pricebee",
     "ltd.perpetualsummer/coolours",
+    "ltd.qianyuan/china-source",
     "ltd.rednet/rednet",
     "ltd.testimonials/testimonials",
     "lv.panembrivdienu/mcp",
@@ -8747,6 +8754,7 @@
     "ru.evafarmstore/evafarm",
     "ru.gentender/tenders",
     "ru.mm7.www/company",
+    "ru.proftechpol/mcp",
     "ru.scanbase/scanbase",
     "ru.smartpdf/smartpdf",
     "ru.solvion/heating-energy-engineering",
@@ -9228,11 +9236,11 @@
     "za.co.cryptodecentral/sovereign"
   ],
   "list": {
-    "count": 9,
-    "from": "2026-10-10T05:19:30.985653Z",
-    "path": "data/new-mcp-servers-2026-10-10T06-18-51-679118Z.csv",
-    "to": "2026-10-10T06:18:51.679118Z"
+    "count": 8,
+    "from": "2026-10-10T06:18:51.679118Z",
+    "path": "data/new-mcp-servers-2026-10-10T07-20-52-093821Z.csv",
+    "to": "2026-10-10T07:20:52.093821Z"
   },
   "source_truncated": false,
-  "window": "2026-10-10T06:18:51.679118Z"
+  "window": "2026-10-10T07:20:52.093821Z"
 }

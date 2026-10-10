@@ -9,23 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 06:18 UTC
+## Latest list — 2026-10-10 07:20 UTC
 
-New MCP servers published between 2026-10-10 05:19 UTC and 2026-10-10 06:18 UTC.
+New MCP servers published between 2026-10-10 06:18 UTC and 2026-10-10 07:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-10T06-18-51-679118Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-10T07-20-52-093821Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-10 05:32:55 | com.usanaru/schools | USAnaru™ — U.S. boarding schools | 1.0.0 | U.S. boarding schools for international students: NCES data, SEVP F-1 status, v… |
-| 2026-10-10 05:34:00 | app.savehq/savehq | SaveHQ | 1.0.0 | Free save layer for AI apps: save links to a person's SaveHQ board and search i… |
-| 2026-10-10 05:38:20 | [io.github.masakaai/jet-browser](https://github.com/masakaai/jet-browser) | Jet Browser Verifier | 0.8.0 | Verify an isolated WPE WebKit runtime with native-input, DOM, PNG, and cleanup… |
-| 2026-10-10 05:59:30 | [com.fridayflightdeals/deals](https://github.com/jackculpan/friday-flight-deals) | Friday Flight Deals | 1.0.0 | The newest cheap flight deals from the Friday Flight Deals newsletter. |
-| 2026-10-10 05:59:55 | io.github.Wladefant/pinthread | Pinthread | 0.7.0 | Read, reply to and resolve website feedback threads from your coding agent. |
-| 2026-10-10 06:02:11 | [io.github.AitoDotAI/aito](https://github.com/AitoDotAI/aito-python-tools) | Aito | 1.2.0 | Predictions over your own data with $p and $why, no model training; says when A… |
-| 2026-10-10 06:02:15 | com.joovoice/joovoice | JooVoice | 1.0.0 | Lets your AI agent make real phone calls: bookings, appointments, cancellations… |
-| 2026-10-10 06:02:57 | [io.github.capsulatedev/capsulate](https://github.com/capsulatedev/capsulate) |  | 0.4.0 | Real Linux and Windows desktop VMs for AI agents: exec, files, computer-use and… |
-| 2026-10-10 06:05:08 | [io.github.ricciflow-api/soldfetch](https://github.com/ricciflow-api/soldfetch-mcp) | SoldFetch | 1.0.0 | Search eBay sold and active listings, browse categories, and retrieve item deta… |
+| 2026-10-10 06:22:15 | [io.kolmo.www/kolmo-mcp-server](https://github.com/Kolmo-Construction/kolmo-mcp-server) |  | 1.6.0 | WA permit rules (city + state baseline, cited), parcel zoning, L&I checks, Seat… |
+| 2026-10-10 06:23:06 | [ru.proftechpol/mcp](https://github.com/VladimirAmosov/proftechpol-mcp) | ПрофТехПол — промышленные полы (Москва… | 1.1.0 | Услуги, цены, 262 кейса, FAQ и заявки подрядчика промышленных полов для ИИ-аген… |
+| 2026-10-10 06:36:42 | de.pflegegradpunkte/pflegegradpunkte | Pflegegradpunkte | 1.1.0 | Pflegegrad-Punkte nach SGB XI berechnen: Begutachtungsfragen, Punkte je Bereich… |
+| 2026-10-10 06:42:01 | ltd.qianyuan/china-source | China Source · 中国信源 | 1.0.0 | Structured Chinese official data for AI agents: 426 entries, JSON-LD, read-only… |
+| 2026-10-10 06:50:26 | [io.github.2ez4gcx/sketchup-mcp](https://github.com/2ez4gcx/sketchup-mcp) | SketchUp MCP | 1.2.0 | Let AI assistants work in SketchUp: quantity takeoff, modeling, materials, scre… |
+| 2026-10-10 06:52:24 | io.github.iorpaul3/date-firme |  | 0.1.0 | Romanian company data (ONRC/ANAF): KYB risk score, profile, financials. Pay per… |
+| 2026-10-10 06:59:07 | br.com.superdb/mcp | SuperDB | 1.0.0 | Backend brasileiro (Postgres, login, storage): a IA cria tabelas, liga RLS e ro… |
+| 2026-10-10 07:14:57 | com.tryverifyemail/verifyemail | VerifyEmail | 1.0.0 | Check whether an email address is real and will accept mail before you send to… |
 
 ## Data source
 
