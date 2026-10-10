@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-10-10T22:20:47.647532Z,io.github.LdwS123/oqro,,1.0.0,https://github.com/LdwS123/oqro-mcp,streamable-http,"Insider, Congress, 13F and federal contract filings for US stocks, each linked to its source."
+2026-10-10T22:21:28.558314Z,io.github.pipeworx-io/wiza,Wiza,0.1.0,https://github.com/pipeworx-io/mcp-wiza,streamable-http,Wiza MCP — wraps the Wiza 'Individual Reveal' phone-lookup API (wiza.co)
+2026-10-10T22:22:26.3359Z,io.github.pipeworx-io/wyoming-code,Wyoming Code,0.1.0,https://github.com/pipeworx-io/mcp-wyoming-code,streamable-http,Wyoming Statutes (W.S.) — state statutes by citation and by topic.
+2026-10-10T22:25:43.17555Z,co.missedtakes/missedtakes,MissedTakes,1.0.0,,streamable-http,"Graded track records of NFL and election pundits: records, leaderboards, takes, game and race calls."
+2026-10-10T22:27:59.43996Z,com.manyscripts/transcripts,ManyScripts,1.0.3,,streamable-http; sse,"Transcript API and MCP server for public TikTok, YouTube, Instagram, X and Facebook video URLs."
+2026-10-10T22:31:52.667131Z,io.github.RalfIJ/google-trends,Google Trends Scraper,1.0.0,https://github.com/RalfIJ/google-trends-api,streamable-http,"Google Trends for any number of keywords on one scale: interest over time, regions, rising queries."
+2026-10-10T22:31:53.145389Z,io.github.RalfIJ/google-jobs,Google Jobs Scraper,1.0.0,https://github.com/RalfIJ/google-jobs-api,streamable-http,"Google Jobs listings with parsed salaries and direct apply links, more than 10 per search."
+2026-10-10T22:31:53.603589Z,io.github.RalfIJ/google-hotels,Google Hotels Scraper,1.0.0,https://github.com/RalfIJ/google-hotels-api,streamable-http,"Google Hotels prices for any city and dates: nightly and total price with taxes, ratings, amenities."
+2026-10-10T22:33:32.851622Z,io.github.feimacode/open-design,Open Design,0.2.0,https://github.com/feimacode/open-design-agent-kit,,"Design skills, design systems and artifact tools: landing pages, decks, prototypes, posters, more."
+2026-10-10T22:36:10.016903Z,io.github.rm-rf-prod/groundtruth,,8.0.0,https://github.com/rm-rf-prod/GroundTruth-MCP,,"Live docs MCP server. 793+ libraries, evidence-verified answers, code audit, snippets, dispatch."
+2026-10-10T22:55:56.895362Z,com.ufcalendar/fight-api,UFCalendar Fight API — MMA MCP server,1.5.1,https://github.com/UFCalendar/fight-api-skill,streamable-http,"Fight API MCP: UFC, PFL, BKFC, RIZIN, OKTAGON events, results, stats, rankings, judges scorecards."
+2026-10-10T23:00:13.448587Z,com.networthtrackr/networthtrackr,NetWorthTrackr,0.5.0,,streamable-http,"Your net worth, accounts, history and holdings from NetWorthTrackr. Read, record and edit."
+2026-10-10T23:00:17.294049Z,io.github.murtazox04/cue,Cue,0.1.0,https://github.com/murtazox04/Cue,,"Notify people through Cue: preferences, attention budgets, quiet hours and approval apply."
+2026-10-10T23:03:56.207933Z,io.github.pixeltable/mcp-server-pixeltable-developer,Pixeltable Developer,0.2.1,https://github.com/pixeltable/mcp-server-pixeltable-developer,,"Pixeltable MCP server for declarative multimodal tables, computed columns, and services."
+2026-10-10T23:10:13.411343Z,co.footballgpt/footballgpt,FootballGPT,1.0.0,,streamable-http,"Football coaching advice, session plans and animated practices from your AI assistant."
+2026-10-10T23:15:11.97328Z,io.github.zerohourzulu/continuity-evidence,,0.3.0-preview.12,https://github.com/zerohourzulu/continuity,,A bounded local evidence tool with current agent permission checks and durable retry handling.
+2026-10-10T23:15:12.874177Z,io.github.zerohourzulu/continuity-gateway,,0.3.0-preview.11,https://github.com/zerohourzulu/continuity,,"Local MCP gateway for approved jobs, current agent permissions and durable retry inspection."
+2026-10-10T23:16:59.588123Z,com.dardaris/mcp,Dardaris,1.0.0,,streamable-http,"Your rental portfolio from any assistant: leases, rent, buildings, tenants and documents."

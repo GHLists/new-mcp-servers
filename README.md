@@ -9,35 +9,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 22:20 UTC
+## Latest list — 2026-10-10 23:19 UTC
 
-New MCP servers published between 2026-10-10 21:18 UTC and 2026-10-10 22:20 UTC.
+New MCP servers published between 2026-10-10 22:20 UTC and 2026-10-10 23:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-10T22-20-31-520096Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-10T23-19-19-558907Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-10 21:18:52 | [io.github.omkardongre/veilquota](https://github.com/omkardongre/veilquota) | VeilQuota | 0.1.0 | Private OCR, web search, and attested AI chat, paid with anonymous credits boug… |
-| 2026-10-10 21:18:56 | [io.github.benethos-hub/benethos-mailbox-mcp](https://github.com/benethos-hub/mailbox) |  | 0.4.1 | MCP server that gives AI agents your mailboxes through mailbox-service, within… |
-| 2026-10-10 21:20:42 | sh.rentadomain/rentadomain |  | 1.0.0 | Rent a domain name by the month: find it, price it, read the lease terms. You a… |
-| 2026-10-10 21:22:59 | [com.productpillars/product-pillars](https://github.com/jeremybelcher/product-pillars-agent-kit) | Product Pillars | 1.4.0 | Flowcharts that people and agents edit together on one live canvas, exported as… |
-| 2026-10-10 21:26:44 | [io.github.raintree-technology/docpull](https://github.com/raintree-technology/docpull) | DocPull | 6.6.0 | Sync public web sources into cited context packs for AI agents, RAG, and MCP cl… |
-| 2026-10-10 21:35:07 | [io.github.fvossel/unicode-logic-kit](https://github.com/fvossel/unicode-logic-kit) | Unicode Logic Kit | 0.32.0 | Parse, check, prove and translate logic formulas: first-order, modal, descripti… |
-| 2026-10-10 21:35:39 | [io.github.urbankitstudio/mcp-atlas](https://github.com/urbankitstudio/mcp-atlas) |  | 0.2.21 | Owner and APN lookup across 280 US counties (291 ArcGIS endpoints). No API key… |
-| 2026-10-10 21:36:02 | [io.github.nirholas/papertrade-ai](https://github.com/nirholas/papertrade-ai) | Papertrade AI | 0.1.0 | Trade Papertrade BTC and ETH perps from Claude, ChatGPT, Codex, Cursor and any… |
-| 2026-10-10 21:36:54 | io.aipmlab/ai-pm-lab | AI PM Lab | 1.0.0 | Learn how AI products work: lessons, cost calculators, real experiments, spec a… |
-| 2026-10-10 21:38:36 | com.revisionme/revisionme | Revisionme | 1.0.0 | Visual feedback from your website's visitors as tasks for your coding agent. |
-| 2026-10-10 21:40:58 | ai.vicem/vicem | Vicem | 1.0.0 | See the calls your Vicem answered and ask it to call or message someone, with y… |
-| 2026-10-10 21:41:25 | dev.cowerx/dailymd | The Daily Markdown | 1.0.0 | Free AI news, ranked stories by section, and trending topics. No authentication… |
-| 2026-10-10 21:51:52 | com.sugufax/fax | すぐFAX SuguFAX – Fax to Japan from AI | 1.0.0 | Fax PDFs/photos to Japan from Claude/ChatGPT. OAuth: pay per fax from ¥400 or c… |
-| 2026-10-10 21:51:53 | com.sugufax/fax-payperuse | すぐFAX SuguFAX – Pay per fax (no account) | 1.0.0 | Fax to Japan from AI, no account: Stripe link per fax, from ¥400, up to 100 pag… |
-| 2026-10-10 21:51:53 | com.sugufax/fax-credits | すぐFAX SuguFAX – AI fax credits (API key) | 1.0.0 | Fax to Japan from AI with prepaid credits (Bearer sgx_ key), 1 credit = 1 fax.… |
-| 2026-10-10 21:52:53 | [io.github.secforge/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools MCP | 1.10.1004 | MCP server for Chrome DevTools |
-| 2026-10-10 21:53:28 | [io.vulnify/mcp](https://github.com/vulnify/vulnify-mcp) | Vulnify | 0.1.2 | Ask Vulnify before an AI agent acts. Check, record, and read policy decisions. |
-| 2026-10-10 22:10:27 | com.germandex/guides | Germandex Student Guides | 1.0.0 | Read-only student guides to Germany: ten cities, housing, banking, jobs and eve… |
-| 2026-10-10 22:17:00 | com.siftsmith/signals | Siftsmith Company Signals | 1.0.0 | Hiring, tech stack, buyer intent, email security and launch signals for any com… |
-| 2026-10-10 22:18:52 | com.ujeebu/mcp | Ujeebu | 1.0.0 | Web scraping, Google SERP, Markdown and ChatGPT/Gemini answers as typed tools f… |
-| 2026-10-10 22:19:06 | [io.github.pipeworx-io/arkansas-opinions](https://github.com/pipeworx-io/mcp-arkansas-opinions) | Arkansas Opinions | 0.1.0 | arkansas-opinions — current Arkansas Supreme Court and Court of Appeals |
+| 2026-10-10 22:20:47 | [io.github.LdwS123/oqro](https://github.com/LdwS123/oqro-mcp) |  | 1.0.0 | Insider, Congress, 13F and federal contract filings for US stocks, each linked… |
+| 2026-10-10 22:21:28 | [io.github.pipeworx-io/wiza](https://github.com/pipeworx-io/mcp-wiza) | Wiza | 0.1.0 | Wiza MCP — wraps the Wiza 'Individual Reveal' phone-lookup API (wiza.co) |
+| 2026-10-10 22:22:26 | [io.github.pipeworx-io/wyoming-code](https://github.com/pipeworx-io/mcp-wyoming-code) | Wyoming Code | 0.1.0 | Wyoming Statutes (W.S.) — state statutes by citation and by topic. |
+| 2026-10-10 22:25:43 | co.missedtakes/missedtakes | MissedTakes | 1.0.0 | Graded track records of NFL and election pundits: records, leaderboards, takes,… |
+| 2026-10-10 22:27:59 | com.manyscripts/transcripts | ManyScripts | 1.0.3 | Transcript API and MCP server for public TikTok, YouTube, Instagram, X and Face… |
+| 2026-10-10 22:31:52 | [io.github.RalfIJ/google-trends](https://github.com/RalfIJ/google-trends-api) | Google Trends Scraper | 1.0.0 | Google Trends for any number of keywords on one scale: interest over time, regi… |
+| 2026-10-10 22:31:53 | [io.github.RalfIJ/google-jobs](https://github.com/RalfIJ/google-jobs-api) | Google Jobs Scraper | 1.0.0 | Google Jobs listings with parsed salaries and direct apply links, more than 10… |
+| 2026-10-10 22:31:53 | [io.github.RalfIJ/google-hotels](https://github.com/RalfIJ/google-hotels-api) | Google Hotels Scraper | 1.0.0 | Google Hotels prices for any city and dates: nightly and total price with taxes… |
+| 2026-10-10 22:33:32 | [io.github.feimacode/open-design](https://github.com/feimacode/open-design-agent-kit) | Open Design | 0.2.0 | Design skills, design systems and artifact tools: landing pages, decks, prototy… |
+| 2026-10-10 22:36:10 | [io.github.rm-rf-prod/groundtruth](https://github.com/rm-rf-prod/GroundTruth-MCP) |  | 8.0.0 | Live docs MCP server. 793+ libraries, evidence-verified answers, code audit, sn… |
+| 2026-10-10 22:55:56 | [com.ufcalendar/fight-api](https://github.com/UFCalendar/fight-api-skill) | UFCalendar Fight API — MMA MCP server | 1.5.1 | Fight API MCP: UFC, PFL, BKFC, RIZIN, OKTAGON events, results, stats, rankings,… |
+| 2026-10-10 23:00:13 | com.networthtrackr/networthtrackr | NetWorthTrackr | 0.5.0 | Your net worth, accounts, history and holdings from NetWorthTrackr. Read, recor… |
+| 2026-10-10 23:00:17 | [io.github.murtazox04/cue](https://github.com/murtazox04/Cue) | Cue | 0.1.0 | Notify people through Cue: preferences, attention budgets, quiet hours and appr… |
+| 2026-10-10 23:03:56 | [io.github.pixeltable/mcp-server-pixeltable-developer](https://github.com/pixeltable/mcp-server-pixeltable-developer) | Pixeltable Developer | 0.2.1 | Pixeltable MCP server for declarative multimodal tables, computed columns, and… |
+| 2026-10-10 23:10:13 | co.footballgpt/footballgpt | FootballGPT | 1.0.0 | Football coaching advice, session plans and animated practices from your AI ass… |
+| 2026-10-10 23:15:11 | [io.github.zerohourzulu/continuity-evidence](https://github.com/zerohourzulu/continuity) |  | 0.3.0-preview.12 | A bounded local evidence tool with current agent permission checks and durable… |
+| 2026-10-10 23:15:12 | [io.github.zerohourzulu/continuity-gateway](https://github.com/zerohourzulu/continuity) |  | 0.3.0-preview.11 | Local MCP gateway for approved jobs, current agent permissions and durable retr… |
+| 2026-10-10 23:16:59 | com.dardaris/mcp | Dardaris | 1.0.0 | Your rental portfolio from any assistant: leases, rent, buildings, tenants and… |
 
 ## Data source
 
