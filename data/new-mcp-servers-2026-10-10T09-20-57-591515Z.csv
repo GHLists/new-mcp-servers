@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-10T08:23:24.434709Z,io.github.trackly-app/trackly,Trackly CLI,0.19.0,https://github.com/trackly-app/trackly-cli,streamable-http,"Job search for Claude, ChatGPT, Cursor. 250K+ jobs, 5,400+ companies. OAuth or stdio."
+2026-10-10T08:24:30.56749Z,io.github.vvvvking/novai-python,NovAI - Chinese AI Models Gateway,0.1.1,https://github.com/vvvvking/novai-python,,"Chinese frontier AI models as MCP tools via one OpenAI-compatible endpoint, zero platform fee."
+2026-10-10T08:24:31.647131Z,io.github.w3c-cg/sstim,SSTIM MCP: Sensory Stimulation Reference,0.2.0,https://github.com/w3c-cg/sstim,,"SSTIM sensory-stimulation ontology: definitions, relationships, mappings and provenance."
+2026-10-10T08:26:54.865697Z,ai.useimagine/benchmark,Imagine AI Benchmark,0.1.0,,streamable-http,"LinkedIn content benchmark for 900+ B2B companies and their teams, with an open scoring method."
+2026-10-10T08:35:26.39314Z,ai.ankra/platform,Ankra,1.0.0,,streamable-http,"Deploy and operate Kubernetes: clusters, stacks, apps, logs, metrics and security, with OAuth."
+2026-10-10T08:37:16.628213Z,io.github.sireto/custom-domain,Custom Domain API,0.11.1,https://github.com/sireto/custom-domain,,"Register a SaaS app's customer hostnames, show their DNS records and checks, recheck or delete them."
+2026-10-10T08:37:53.108903Z,io.github.chrisryugj/korean-law-mcp,Korean Law MCP,4.15.6,https://github.com/chrisryugj/korean-law-mcp,streamable-http,"Korean law: statutes, precedents, ordinances, treaties and citation verification (법제처 API)."
+2026-10-10T08:46:08.786506Z,io.github.alyiox/mcp-mssql,Microsoft SQL Server,1.7.0,https://github.com/alyiox/mcp-mssql,,"MCP server for SQL Server metadata, parameterized queries, plan analysis, and writes opt-in."
+2026-10-10T08:51:15.591547Z,app.quantcalc/retirement-engine,QuantCalc Retirement Engine,1.2.0,https://github.com/quantcalc-app/quantcalc-mcp-plugin,streamable-http,"Retirement Monte Carlo, tax-aware withdrawal and Roth-conversion plans, and a 2026 return estimate."
+2026-10-10T08:51:32.961303Z,io.github.gaozhao1989/pyjab-mcp,,0.1.1,https://github.com/gaozhao1989/pyjab-mcp,,"Drive Java desktop apps from an AI agent, through the JVM's own accessibility tree"
+2026-10-10T08:55:49.945314Z,io.pinbridge/pinbridge,,1.4.1,,streamable-http,Publish and schedule Pinterest pins from any MCP client. Token refresh and retries handled.
+2026-10-10T09:03:27.135392Z,com.adrenalinelist/adventures,Adrenaline List,1.0.0,,streamable-http,"Search published adrenaline adventures worldwide by destination, category, rating and season."
+2026-10-10T09:05:37.438399Z,com.wowreveal/wowreveal,WowReveal,1.0.0,,streamable-http,"Make narrated 9:16 shorts from video links: AI story, voiceover, captions, clips and AI video."
+2026-10-10T09:12:14.054583Z,io.github.isco-tec/mcp,,0.4.1,https://github.com/isco-tec/scorezilla-mcp,,Official MCP server for Scorezilla — add a leaderboard to your game from your AI coding assistant.
+2026-10-10T09:12:36.045887Z,me.formlm/cli,FormLM,0.5.2,https://github.com/formlm/cli,,"Build AI-powered forms, scored assessments and professional reports on FormLM, by natural language."
+2026-10-10T09:13:17.340856Z,net.blinkhub/wire,BlinkHub Wire,0.1.0,https://github.com/zzangpro/blink-wire,streamable-http,"Search and read government press releases from the US, Korea, UK, EU, New Zealand and Australia."
+2026-10-10T09:17:51.568064Z,io.github.sukrutkrdg/warden402-mcp,,0.2.0,https://github.com/sukrutkrdg/warden402.xyz,,Pre-execution security for AI agents on Base: guard token/tx/address + per-agent spend firewall.

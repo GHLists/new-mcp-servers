@@ -9,26 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 08:22 UTC
+## Latest list — 2026-10-10 09:20 UTC
 
-New MCP servers published between 2026-10-10 07:20 UTC and 2026-10-10 08:22 UTC.
+New MCP servers published between 2026-10-10 08:22 UTC and 2026-10-10 09:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-10T08-22-05-048645Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-10T09-20-57-591515Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-10 07:21:48 | [io.github.yangzichao/mcp-server-overleaf](https://github.com/yangzichao/mcp-server-overleaf) | Overleaf | 0.3.5 | Overleaf MCP server for Claude, Codex, ChatGPT, and Cursor with safe LaTeX edit… |
-| 2026-10-10 07:23:29 | [io.github.OniVe/weeeking](https://github.com/OniVe/weeeking) | Weeeking | 0.4.1 | MCP server for Weeek with full public API coverage: tasks, projects, CRM, time… |
-| 2026-10-10 07:30:09 | jp.yomitasu/esprit-delasse-com | Esprit Delasse | 1.0.1 | 良質なスピリチュアルニュースをお届けするEsprit Delasse（エスプリ・デラッセ）。（esprit-delasse.com の内容を検索して答える。ヨ… |
-| 2026-10-10 07:34:09 | jobs.aitraining/ai-training-jobs | AITraining.jobs | 1.0.0 | Search open AI training jobs from 17 platforms and compare advertised hourly pa… |
-| 2026-10-10 07:43:34 | [ai.rivalize/rivalize-mcp](https://github.com/Downshift/rivalize-mcp) | Rivalize | 0.3.2 | Competitive intelligence for agents: competitor teardowns, pricing, ads, review… |
-| 2026-10-10 07:51:33 | com.szymonpaluch/mcp | Claude certification practice exams and… | 1.0.0 | Free, unofficial practice questions for four Claude certifications, plus an AI… |
-| 2026-10-10 08:04:34 | ru.sexpreparat/mcp | sexpreparat.ru | 1.1.0 | sexpreparat.ru catalog: articles, research, reader Q&A, blogs on sex & health,… |
-| 2026-10-10 08:13:37 | [ai.audo/audo](https://github.com/audo-ai/audo-mcp) | Audo | 1.0.0 | Audio and video tools for your AI assistant: remove noise, enhance voices, tran… |
-| 2026-10-10 08:14:55 | [io.github.mad4ms/comdirect-mcp](https://github.com/mad4ms/comdirect-mcp) | comdirect | 0.4.0 | Read-only access to comdirect bank accounts, transactions, depots and postbox d… |
-| 2026-10-10 08:16:31 | mx.estiaje/estiaje | Estiaje | 1.0.0 | Business-process monitoring and grouped errors in your AI: money at risk, deplo… |
-| 2026-10-10 08:17:33 | day.yaba/yaba | YABA family budget | 1.4.0 | Family budget for couples: spending, budget, pace, bills and Monobank-synced en… |
-| 2026-10-10 08:21:31 | [io.github.sukrutkrdg/x402-bazaar-mcp](https://github.com/sukrutkrdg/x402-bazaar-mcp) |  | 0.3.0 | Check, then act, on Base and NEAR: token-safety gates, then swaps at the best p… |
+| 2026-10-10 08:23:24 | [io.github.trackly-app/trackly](https://github.com/trackly-app/trackly-cli) | Trackly CLI | 0.19.0 | Job search for Claude, ChatGPT, Cursor. 250K+ jobs, 5,400+ companies. OAuth or… |
+| 2026-10-10 08:24:30 | [io.github.vvvvking/novai-python](https://github.com/vvvvking/novai-python) | NovAI - Chinese AI Models Gateway | 0.1.1 | Chinese frontier AI models as MCP tools via one OpenAI-compatible endpoint, zer… |
+| 2026-10-10 08:24:31 | [io.github.w3c-cg/sstim](https://github.com/w3c-cg/sstim) | SSTIM MCP: Sensory Stimulation Reference | 0.2.0 | SSTIM sensory-stimulation ontology: definitions, relationships, mappings and pr… |
+| 2026-10-10 08:26:54 | ai.useimagine/benchmark | Imagine AI Benchmark | 0.1.0 | LinkedIn content benchmark for 900+ B2B companies and their teams, with an open… |
+| 2026-10-10 08:35:26 | ai.ankra/platform | Ankra | 1.0.0 | Deploy and operate Kubernetes: clusters, stacks, apps, logs, metrics and securi… |
+| 2026-10-10 08:37:16 | [io.github.sireto/custom-domain](https://github.com/sireto/custom-domain) | Custom Domain API | 0.11.1 | Register a SaaS app's customer hostnames, show their DNS records and checks, re… |
+| 2026-10-10 08:37:53 | [io.github.chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) | Korean Law MCP | 4.15.6 | Korean law: statutes, precedents, ordinances, treaties and citation verificatio… |
+| 2026-10-10 08:46:08 | [io.github.alyiox/mcp-mssql](https://github.com/alyiox/mcp-mssql) | Microsoft SQL Server | 1.7.0 | MCP server for SQL Server metadata, parameterized queries, plan analysis, and w… |
+| 2026-10-10 08:51:15 | [app.quantcalc/retirement-engine](https://github.com/quantcalc-app/quantcalc-mcp-plugin) | QuantCalc Retirement Engine | 1.2.0 | Retirement Monte Carlo, tax-aware withdrawal and Roth-conversion plans, and a 2… |
+| 2026-10-10 08:51:32 | [io.github.gaozhao1989/pyjab-mcp](https://github.com/gaozhao1989/pyjab-mcp) |  | 0.1.1 | Drive Java desktop apps from an AI agent, through the JVM's own accessibility t… |
+| 2026-10-10 08:55:49 | io.pinbridge/pinbridge |  | 1.4.1 | Publish and schedule Pinterest pins from any MCP client. Token refresh and retr… |
+| 2026-10-10 09:03:27 | com.adrenalinelist/adventures | Adrenaline List | 1.0.0 | Search published adrenaline adventures worldwide by destination, category, rati… |
+| 2026-10-10 09:05:37 | com.wowreveal/wowreveal | WowReveal | 1.0.0 | Make narrated 9:16 shorts from video links: AI story, voiceover, captions, clip… |
+| 2026-10-10 09:12:14 | [io.github.isco-tec/mcp](https://github.com/isco-tec/scorezilla-mcp) |  | 0.4.1 | Official MCP server for Scorezilla — add a leaderboard to your game from your A… |
+| 2026-10-10 09:12:36 | [me.formlm/cli](https://github.com/formlm/cli) | FormLM | 0.5.2 | Build AI-powered forms, scored assessments and professional reports on FormLM,… |
+| 2026-10-10 09:13:17 | [net.blinkhub/wire](https://github.com/zzangpro/blink-wire) | BlinkHub Wire | 0.1.0 | Search and read government press releases from the US, Korea, UK, EU, New Zeala… |
+| 2026-10-10 09:17:51 | [io.github.sukrutkrdg/warden402-mcp](https://github.com/sukrutkrdg/warden402.xyz) |  | 0.2.0 | Pre-execution security for AI agents on Base: guard token/tx/address + per-agen… |
 
 ## Data source
 
