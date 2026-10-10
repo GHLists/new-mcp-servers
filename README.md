@@ -9,42 +9,69 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 15:18 UTC
+## Latest list — 2026-10-10 16:18 UTC
 
-New MCP servers published between 2026-10-10 14:19 UTC and 2026-10-10 15:18 UTC.
+New MCP servers published between 2026-10-10 15:18 UTC and 2026-10-10 16:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-10T15-18-50-587953Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-10T16-18-54-083914Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-10 14:21:37 | org.sky-1/rate-hub |  | 0.19.0 | Indicative fiat and crypto rates over MCP, paid per request via x402 at $0.0001… |
-| 2026-10-10 14:25:35 | [io.github.rozetyp/vuln-intel](https://github.com/rozetyp/vuln-intel-mcp) | vuln-intel | 1.0.2 | Free hosted CVE intel for bug-bounty agents: CVE fact-check, attack approaches… |
-| 2026-10-10 14:26:35 | [com.surfacedby/ai-visibility](https://github.com/surfacedby/ai-visibility-mcp) | SurfacedBy AI Visibility | 1.0.0 | Check what AI can read on a website and whether an AI answer cites or names a b… |
-| 2026-10-10 14:28:24 | [io.github.Byggarepop/dotnet-mcp-orchestrator](https://github.com/Byggarepop/dotnet-mcp-orchestrator) | McpOrchestrator | 0.6.0 | Route one agent through one MCP server to many, with progressive tool discovery… |
-| 2026-10-10 14:33:16 | [com.1102tools/gsa-perdiem-mcp](https://github.com/1102tools-dev/federal-contracting-mcps) | GSA Per Diem | 1.2.1 | GSA Per Diem access readiness, lodging, and meals and incidental expense rates.… |
-| 2026-10-10 14:34:00 | ai.specterlaw/cite | Specter Cite | 0.3.0 | German and EU law for AI assistants: statutes and case law in current wording,… |
-| 2026-10-10 14:35:45 | [io.github.datagleaner/data-gleaner-mcp](https://github.com/datagleaner/data-gleaner-mcp) | Data Gleaner | 1.0.0 | Pay-per-result web data tools: company and YouTube contacts, hotel prices, Weib… |
-| 2026-10-10 14:36:37 | [com.snipzr/mcp](https://github.com/SnipzrHQ/snipzr-mcp) | Snipzr | 1.32.0 | Short links with branded domains, cookie-less analytics and QR codes. Sign in w… |
-| 2026-10-10 14:39:01 | [com.1102tools/bls-oews-mcp](https://github.com/1102tools-dev/federal-contracting-mcps) | BLS OEWS | 1.1.1 | BLS Occupational Employment and Wage Statistics market wages, bundled; no API k… |
-| 2026-10-10 14:44:02 | [io.slopit/slopit](https://github.com/Simbastack-hq/SlopIt) | SlopIt | 0.1.0 | Instant blogs for AI agents: sign up, publish markdown posts, get a live public… |
-| 2026-10-10 14:46:10 | lt.servera/developer-api |  | 1.0.0 | Manage your Servera hosting over MCP: VPS/VDS, DNS, firewall, backups, SSL, bil… |
-| 2026-10-10 14:49:49 | io.noduty/planner | noduty planner | 2.9.0 | Issue tracking for software projects: issues, epics, releases, docs and boards,… |
-| 2026-10-10 14:49:53 | [io.github.psyb0t/mailbox](https://github.com/psyb0t/docker-mailbox) | Mailbox | 0.4.16 | Self-hosted MCP server for unified IMAP/SMTP mailbox access: read, list, and se… |
-| 2026-10-10 14:51:57 | [io.github.psyb0t/rankrat](https://github.com/psyb0t/rankrat) | Rankrat | 0.20.1 | Self-hosted MCP for owned-site SEO, search analytics, indexing, monitoring, and… |
-| 2026-10-10 14:56:23 | [io.github.benethos-hub/benethos-yahoo-finance-mcp](https://github.com/benethos-hub/yahoo-finance-mcp) |  | 0.8.2 | Unofficial read-only MCP server exposing Yahoo Finance data (via yfinance) over… |
-| 2026-10-10 14:57:30 | [io.github.Kanasjnr/midnight-cast](https://github.com/Kanasjnr/midnight-cast) | midnight-cast | 0.2.0 | Read-only tools for live Midnight networks: health, transactions, DUST, errors… |
-| 2026-10-10 15:00:27 | [io.github.psyb0t/predictalot](https://github.com/psyb0t/docker-predictalot) | Predictalot | 1.2.2 | Self-hosted MCP server for time-series forecasting and tabular ML via foundatio… |
-| 2026-10-10 15:00:53 | uk.co.servera/developer-api |  | 1.0.0 | Manage your Servera hosting over MCP: VPS/VDS, DNS, firewall, backups, SSL, bil… |
-| 2026-10-10 15:01:56 | com.withnettle/withnettle | WithNettle | 1.0.0 | Project management shared by people and AI agents, with persistent project stat… |
-| 2026-10-10 15:05:11 | app.talix/stubs | Stubs | 0.6.0 | Pull one-time .env links from stubs.talix.app into a project. Returns key names… |
-| 2026-10-10 15:06:44 | [io.github.hmamut39/tewip](https://github.com/hmamut39/tewip) |  | 0.33.0 | Proves software work: triages failing tests, checks whether a test can fail, an… |
-| 2026-10-10 15:07:41 | [io.github.psyb0t/flickies](https://github.com/psyb0t/docker-flickies) | Flickies | 0.3.17 | Self-hosted MCP server: video lipsync, face restore, and ffmpeg ops (trim, conc… |
-| 2026-10-10 15:11:32 | com.usernameinspector/username-inspector | Username Inspector | 1.0.0 | Look up username availability on 12 resale platforms (links where blocked); com… |
-| 2026-10-10 15:11:43 | fr.comontel/forfaits | Comontel : forfaits mobiles pro | 1.2.0 | Forfaits mobiles pro Comontel (réseau Orange) : prix, comparaison, itinérance,… |
-| 2026-10-10 15:11:44 | [io.github.dgesteves/onsystem](https://github.com/dgesteves/onsystem) | onsystem | 0.4.0 | Keeps coding agents on your design system: knows your real components, props, v… |
-| 2026-10-10 15:15:37 | [io.github.syscli/algeria-mcp](https://github.com/syscli/algeria-mcp) | Algeria | 0.1.0 | Algeria's 69 wilayas and 1541 communes, GPS lookups, and checks for Algerian fo… |
-| 2026-10-10 15:16:06 | [io.github.marvtub/takes](https://github.com/marvtub/takes-public) | Takes for Mac | 2026.10.9 | Tools for the Takes Mac app: scripts, takes, edits and posts for talking-head v… |
-| 2026-10-10 15:16:43 | net.ipadian.os/ipadian | iPadian | 0.3.3 | Create and preview self-contained web apps in iPhone, Duo, iPad, and Headless v… |
+| 2026-10-10 15:20:32 | app.cesure/cesure | Cesure | 1.0.0 | Write, edit, transpose and play guitar tabs and staff notation in Cesure. |
+| 2026-10-10 15:22:06 | com.linkbreakers/docs-mcp | Linkbreakers Docs | 1.0.0 | Search and read Linkbreakers docs, pricing and QR code templates. Read-only, no… |
+| 2026-10-10 15:23:17 | io.github.richard-kim-79/jejusns |  | 1.1.0 | Jeju Korea: apartment price stats (actual trades), hospitals & pharmacies open-… |
+| 2026-10-10 15:23:25 | fr.flytel/flytel | Flytel | 1.3.0 | Forfaits mobiles Flytel pour les frontaliers France-Suisse : offres, appels, do… |
+| 2026-10-10 15:26:54 | [io.github.aidemd-mcp/server](https://github.com/aidemd-mcp/server) |  | 0.10.0 | MCP server that teaches any AI agent the AIDE methodology via progressive discl… |
+| 2026-10-10 15:30:14 | [io.github.Owaid0723666/onomeo-mcp](https://github.com/Owaid0723666/onomeo-mcp) | onomeo | 0.1.0 | Ask free LLMs (DeepSeek, GLM, Gemini, Mistral) for a second opinion from any MC… |
+| 2026-10-10 15:30:40 | [br.com.scrypta/compraracoes](https://github.com/scrypta-mcp/scrypta-mcp) |  | 1.0.0 | Catálogo de 130 produtos em 7 categorias e 4 planos — servido via Scrypta. |
+| 2026-10-10 15:30:44 | [io.github.MohDev212/verifypulse](https://github.com/MohDev212/verifypulse) | VerifyPulse Email Verification & DNS Se… | 2.0.0 | Real-time RFC 5322 email verification, SPF/DMARC DNS audits & B2B leads (x402 B… |
+| 2026-10-10 15:31:55 | [io.github.beydemirfurkan/appstore-release](https://github.com/beydemirfurkan/appstore-release) | App Store Release | 3.0.0 | Ship an iOS app to App Store review: readiness report, idempotent pipeline, sub… |
+| 2026-10-10 15:34:24 | com.thenewengineer/hvac | The New Engineer — HVAC | 1.3.0 | IFC models: duct networks, circuits, pressure drop. EN 12828 vessels, EN 378, S… |
+| 2026-10-10 15:37:28 | [io.github.edrisranjbar/lifeos](https://github.com/edrisranjbar/lifeos) |  | 2.0.0 | Self-hosted life OS: habits, goals, tasks, finances and notes over a token-prot… |
+| 2026-10-10 15:39:21 | dev.workers.cybermax-tools.cybermax/bonafido | Bonafido: Business Domain Verification… | 1.0.0 | Bonafido: is a domain a real business site? Verdict, trust score, risk flags. |
+| 2026-10-10 15:39:23 | dev.workers.cybermax-tools.cybermax/commonkite | Commonkite: Free Image Search API, Crea… | 1.0.0 | Commonkite: free-to-use CC/public-domain images with license + credit line. |
+| 2026-10-10 15:39:25 | dev.workers.cybermax-tools.cybermax/cybermax-data | CyberMax Data | 1.0.0 | Free US data lookups: ZIP demographics, CISA KEV/EPSS CVEs, domain rank, county… |
+| 2026-10-10 15:39:27 | dev.workers.cybermax-tools.cybermax/feedpeck | Feedpeck: RSS Feed Finder & Reader by W… | 1.0.0 | Feedpeck: find any site's RSS/Atom/JSON feeds + latest posts. Free, no key. |
+| 2026-10-10 15:39:29 | dev.workers.cybermax-tools.cybermax/fieldwright | Fieldwright | 1.0.0 | Fieldwright: web page to clean Markdown, metadata, JSON-LD, emails, phones. |
+| 2026-10-10 15:39:30 | dev.workers.cybermax-tools.cybermax/logolark | Logolark: Company Logo API & Favicon Fi… | 1.0.0 | Logolark: company domain to logo, square icon and brand colour. Free tier; paid… |
+| 2026-10-10 15:39:31 | dev.workers.cybermax-tools.cybermax/mailvett | Mailvett: Email Validation API for AI A… | 1.0.0 | Mailvett: validate emails. MX, provider, disposable/role/free flags, typo fix,… |
+| 2026-10-10 15:39:33 | dev.workers.cybermax-tools.cybermax/pinloft | Pinloft: Batch Geocoder — Address to La… | 1.0.0 | Pinloft: US address to lat/lon, county, FIPS; reverse geocoding. Free, no key. |
+| 2026-10-10 15:39:36 | dev.workers.cybermax-tools.cybermax/printwren | Printwren: HTML to PDF and URL to PDF (… | 1.0.0 | Printwren: web page or HTML to PDF with real Chrome; pages, base64 or download… |
+| 2026-10-10 15:39:39 | dev.workers.cybermax-tools.cybermax/ziplore | Ziplore: US ZIP Code API (county, time… | 1.0.0 | Ziplore: US ZIP to county, FIPS, time zone, Census demographics; radius and cit… |
+| 2026-10-10 15:39:43 | dev.workers.cybermax-tools.cybermax/app-reviews | Gripeline: App Store & Google Play Revi… | 1.0.0 | App Store + Google Play reviews with per-app complaint summary for agents. |
+| 2026-10-10 15:39:45 | dev.workers.cybermax-tools.cybermax/article-extract | Inkpluck: Article Extractor — URL to Te… | 1.0.0 | Inkpluck: read web articles as Markdown + title, authors, date, language (newsp… |
+| 2026-10-10 15:39:47 | dev.workers.cybermax-tools.cybermax/bulk-image-downloader | Picpail: Bulk Image Downloader — All Im… | 1.0.0 | Picpail: download all images from web pages as a ZIP, full-size originals, size… |
+| 2026-10-10 15:39:50 | dev.workers.cybermax-tools.cybermax/company-enrichment | Firmfold: Company Enrichment API | 1.0.0 | Firmfold: company enrichment by domain/email/name: logo, tech, contacts, jobs,… |
+| 2026-10-10 15:39:52 | dev.workers.cybermax-tools.cybermax/keyword-ideas | Keyfern: Keyword Ideas & Autocomplete —… | 1.0.0 | Keyword ideas from Google/YouTube/Bing/Amazon autocomplete, with intent and tre… |
+| 2026-10-10 15:39:54 | dev.workers.cybermax-tools.cybermax/send-email | Letterkeel: Send Email via SMTP, Resend… | 1.0.0 | Letterkeel: send email from your own domain via SMTP, Resend, SendGrid, Mailgun… |
+| 2026-10-10 15:39:56 | dev.workers.cybermax-tools.cybermax/website-contacts | Hollerdex: Website Contact Finder (Emai… | 1.0.0 | Hollerdex: a domain's public emails, phones and social profiles as one ranked c… |
+| 2026-10-10 15:39:58 | dev.workers.cybermax-tools.cybermax/website-screenshot | Capturewren: Website Screenshot API for… | 1.0.0 | Capturewren: screenshot any URL (banners removed) plus status, title and clean… |
+| 2026-10-10 15:46:22 | io.reelhouse/reelhouse | Reelhouse | 1.0.0 | Make and post marketing videos for your business: ready-made templates, scripts… |
+| 2026-10-10 15:47:14 | [io.github.grazy88/midwest-legal-docs](https://github.com/grazy88/midwest-legal-docs-mcp) |  | 1.0.0 | Legal-form catalog, search, and checkout for AI agents. Document prep only; not… |
+| 2026-10-10 15:50:01 | com.agenticdealernetwork/adn-gateway | Agentic Dealer Network | 0.5.0 | Live franchised-dealer inventory, quotes, and consented salesperson handoffs. |
+| 2026-10-10 15:51:13 | [com.financialfilings/mcp-server](https://github.com/financial-reports/financial-reports-mcp-server) | FinancialFilings | 1.4.105 | Regulatory filings, XBRL financials and company data from securities regulators… |
+| 2026-10-10 15:52:19 | [io.github.sapience-design/freethetools](https://github.com/sapience-design/freethetools) | Free the Tools | 0.1.0 | Local PDF, image, data and text tools for AI assistants. Files stay on your com… |
+| 2026-10-10 16:00:02 | [ai.sendinel/mcp-server](https://github.com/kmdesle/sendinel-ai) | Sendinel | 1.0.28 | AI-controlled email ops for campaigns, contacts, segments, analytics, and sendi… |
+| 2026-10-10 16:03:31 | [io.github.clockblocker/typeprobe](https://github.com/clockblocker/typeprobe) | typeprobe | 4.0.0 | TypeScript inferred types, completions and type errors for AI coding agents |
+| 2026-10-10 16:04:01 | com.ransomware-tracker.api/dragonseye | Dragons Eye Ransomware Claims | 1.0.0 | Pay-per-call ransomware leak-site claim lookups, recent claims and group profil… |
+| 2026-10-10 16:04:02 | com.isitdownapi.api/status | Is It Down API (60SecMonitor) | 1.0.0 | Is this vendor down? Pay-per-call status for 1,400+ SaaS/cloud vendors, up to 2… |
+| 2026-10-10 16:04:05 | com.orioncmd.api/checks | OrionCMD Checks | 1.0.0 | Pay-per-call TLS certificate, DNS/email-auth and domain-expiry checks for any d… |
+| 2026-10-10 16:04:49 | us.pulsewatch.api/status | PulseWatch Vendor Status | 1.0.0 | Is this vendor down? Pay-per-call status for 1,700+ SaaS/cloud vendors from Pul… |
+| 2026-10-10 16:08:48 | [io.github.f-tiger/bpj-ai-tools](https://github.com/f-tiger/agi-site) | BPJ Task Loop | 0.1.0 | BPJ rule-based task-state reviews and workflow tool discovery. Free, no account… |
+| 2026-10-10 16:08:52 | [io.github.f-tiger/agiscorecard-web3-calls](https://github.com/f-tiger/agi-site) |  | 1.7.0 | Decode supported token calls and flag recipient or amount mismatches; no wallet… |
+| 2026-10-10 16:08:55 | [io.github.f-tiger/agiscorecard-web3-compute](https://github.com/f-tiger/agi-site) |  | 1.7.0 | Compare GPU workload costs per accepted output, including setup, storage, egres… |
+| 2026-10-10 16:08:58 | [io.github.f-tiger/agiscorecard-web3-disclosures](https://github.com/f-tiger/agi-site) |  | 1.7.0 | Compare supplied RWA disclosures with units, dates and source references; flag… |
+| 2026-10-10 16:09:04 | [io.github.f-tiger/agiscorecard-web3-evidence](https://github.com/f-tiger/agi-site) |  | 1.7.0 | Review agent task evidence with sample deduplication, version filters and uncer… |
+| 2026-10-10 16:09:08 | [io.github.f-tiger/agiscorecard-web3-incentives](https://github.com/f-tiger/agi-site) |  | 1.7.0 | Model contributor rewards with declared quality weights and caps; separate reve… |
+| 2026-10-10 16:09:13 | [io.github.f-tiger/ecoback-local-tools](https://github.com/f-tiger/getecoback-mcp) | EcoBack Local Climate and Energy Tools | 1.1.0 | Local climate and energy calculators with optional public weather and guide loo… |
+| 2026-10-10 16:09:15 | [io.github.f-tiger/filinglens](https://github.com/f-tiger/agi-site) | FilingLens Local SEC Fact Comparison | 0.1.0 | Compare the same SEC fact and period at two filing cutoffs locally, with source… |
+| 2026-10-10 16:09:19 | [io.github.f-tiger/tradecheck](https://github.com/f-tiger/agi-site) | TradeCheck Local Invoice Review | 0.2.0 | Review orders and supplier invoices locally with exact arithmetic and source-li… |
+| 2026-10-10 16:09:21 | [io.github.f-tiger/agiscorecard-web3-permit](https://github.com/f-tiger/agi-site) |  | 1.7.0 | Review declared AI data permissions, expiry and regions; model revenue splits w… |
+| 2026-10-10 16:09:32 | [io.github.f-tiger/agiscorecard-web3-proof](https://github.com/f-tiger/agi-site) |  | 1.7.0 | Estimate zkML proving and verification costs and latency from supplied measurem… |
+| 2026-10-10 16:09:35 | [io.github.f-tiger/agiscorecard-web3-protocol](https://github.com/f-tiger/agi-site) |  | 1.7.0 | Read dated x402, ERC-8004 and token-interface profiles with official sources an… |
+| 2026-10-10 16:09:38 | [io.github.f-tiger/agiscorecard-web3-reconcile](https://github.com/f-tiger/agi-site) |  | 1.7.0 | Reconcile declared stablecoin invoices and transfers; flag partial, pending and… |
+| 2026-10-10 16:09:44 | [io.github.f-tiger/agiscorecard-web3-route](https://github.com/f-tiger/agi-site) |  | 1.7.0 | Plan LLM fallback sequences from supplied cost, quality and latency assumptions… |
+| 2026-10-10 16:11:08 | [com.orlandu/arcade](https://github.com/orlandu81/orlandu.com) | Orlandu's Arcade | 1.0.0 | Read-only tools for orlandu.com: site search, pages, Sony PVM/BVM specs, PlayCh… |
 
 ## Data source
 
