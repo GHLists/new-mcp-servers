@@ -9,25 +9,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 03:19 UTC
+## Latest list — 2026-10-11 04:20 UTC
 
-New MCP servers published between 2026-10-11 02:20 UTC and 2026-10-11 03:19 UTC.
+New MCP servers published between 2026-10-11 03:19 UTC and 2026-10-11 04:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-11T03-19-14-14775Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-11T04-20-07-523106Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-11 02:26:28 | [io.github.labstack/fanout](https://github.com/labstack/fanout) | Fanout | 2026.10.0 | Investigate OpenTelemetry traces, metrics, and logs, and manage personal dashbo… |
-| 2026-10-11 02:33:59 | br.com.snabber/snabber | Snabber | 1.0.0 | Brazilian personal & business finance with Open Finance: transactions, cards, i… |
-| 2026-10-11 02:36:15 | io.github.ashadow07/karmadue | KarmaDue | 1.1.0 | Check if a package or MCP server is safe before installing. Find tools, connect… |
-| 2026-10-11 02:40:11 | [io.github.erxianzhuangzu/lian-chain-intelligence](https://github.com/erxianzhuangzu/lian-chain-intelligence) |  | 1.2.0 | Query tech-industry-market chain transmission and entity status. |
-| 2026-10-11 02:43:04 | net.softhills/mcp | Softhills | 1.1.0 | Official MCP server for Softhills 3D/2D Visualization SDKs, API documentation,… |
-| 2026-10-11 02:49:06 | [io.github.lightningfaucet/lightning-wallet-mcp](https://github.com/lightningfaucet/lightning-wallet-mcp) | Lightning Wallet | 1.9.0 | Give AI agents a Bitcoin wallet with Lightning Network payments and L402 suppor… |
-| 2026-10-11 02:52:28 | com.groundflag/contractor | Groundflag | 1.0.0 | Contractor jobs, clients, estimates, invoices and payments from your Groundflag… |
-| 2026-10-11 02:52:30 | app.stoneproject/fabricator | Stone Project | 1.0.0 | Countertop shops: projects, clients, quotes, invoices, orders and slab inventor… |
-| 2026-10-11 02:54:05 | [io.github.Seventhwalllab/anairyspirit](https://github.com/Seventhwalllab/anairyspirit) | anairyspirit | 0.1.392 | An AI agent's own long-term memory, on your machine. Needs a one-time: npx anai… |
-| 2026-10-11 03:02:24 | [io.github.stufently/bing-webmaster-ai-cli-mcp](https://github.com/stufently/bing-webmaster-ai-cli-mcp) | Bing Webmaster AI CLI MCP | 0.1.2 | Read Bing Webmaster data and change it, directly or through a reviewed plan. |
-| 2026-10-11 03:05:40 | [io.github.stufently/telegram-ai-cli-mcp](https://github.com/stufently/telegram-ai-cli-mcp) | Telegram AI CLI MCP | 0.1.1 | Read a personal Telegram account over MTProto; every write is a plan a human ap… |
+| 2026-10-11 03:21:36 | [io.github.tomtom87/portage](https://github.com/tomtom87/Portage) | Portage | 0.14.0 | Serve a Shopify store's catalog to AI shopping agents over MCP (read-only). |
+| 2026-10-11 03:25:03 | ai.libelus/conector | Libelus | 0.1.2 | Andamento de processos pelo número CNJ, prazos, CPF/CNPJ e jurisprudência (plan… |
+| 2026-10-11 03:27:14 | com.teetra/teetra | Teetra | 0.1.0 | Find and call verified APIs from any AI assistant, with free trial calls and pr… |
+| 2026-10-11 03:28:47 | ai.enscon/circuit-sim | Circuit Sim Lab (電路模擬實驗室) | 1.0.0 | PCB calculators: trace impedance, crosstalk, diff skew, crystal load cap, Vout… |
+| 2026-10-11 03:30:42 | io.github.agentel-tech/agentel | Agentel Network | 1.1.0 | Discover Agentel Missions, Skills and public Work evidence; continue through au… |
+| 2026-10-11 03:33:13 | [com.blawgy/blawgy](https://github.com/adamgusky/blawgy-mcp) | Blawgy | 1.0.0 | Research keywords, plan, write, update and publish SEO blog posts on your site… |
+| 2026-10-11 03:36:46 | com.everbary.www/orders | eVerbary Certified Translations | 1.0.0 | Quote, order and pay for certified translations from AI assistants, with price… |
+| 2026-10-11 03:37:57 | [io.github.bvenkata/legacy2mcp](https://github.com/bvenkata/legacy2mcp) | legacy2mcp | 0.2.1 | Turn a legacy SOAP/WSDL, database, or REST API into a safe, typed, audit-logged… |
+| 2026-10-11 03:38:00 | [io.github.creatorscore/creatorscore-mcp](https://github.com/creatorscore/creatorscore) |  | 2.15.1 | Vet creators from Claude or ChatGPT: cross-platform trust scores, risk evidence… |
+| 2026-10-11 03:40:33 | [io.github.gator8125/chromewalk](https://github.com/gator8125/ChromeWalk-MCP) | ChromeWalk | 13.0.0 | Local browser automation for AI agents: real-browser fetch, capture, smoke test… |
+| 2026-10-11 03:45:14 | [sh.kourier/info](https://github.com/kourierai/mcp) | Kourier | 1.0.0 | Discover flat-rate DeepSeek plans, model limits, API-key instructions, and codi… |
+| 2026-10-11 03:47:07 | [com.protologue/protologue](https://github.com/protologue-org/protologue) | Protologue | 1.0.0 | Sourced, citable definitions of prompting and LLM techniques, with relations an… |
+| 2026-10-11 03:47:48 | io.github.mohzameer/podpdf | PodPDF | 1.0.2 | Turn HTML, Markdown, URLs and saved templates into PDFs with the PodPDF API. |
+| 2026-10-11 04:02:54 | ai.talmbout.leviathan/community | Leviathan | 1.0.0 | Shared history, humor, creativity and conversation for agents. Free REST; authe… |
+| 2026-10-11 04:08:13 | com.presentofai/present-of-ai |  | 1.0.0 | Free, read-only data on about 4,900 AI companies, open AI jobs and dated AI new… |
+| 2026-10-11 04:09:06 | [io.github.nrupala/codetopo](https://github.com/nrupala/codetopo) | codetopo — code graph for AI agents | 0.3.3 | Domain-blind code graphs for AI agents: symbols, calls, blast radius, proof-che… |
+| 2026-10-11 04:12:51 | io.hokai/hokai | HokAI | 1.0.1 | AI tool directory MCP server, live since July 2026. Tools, agents, models, comp… |
+| 2026-10-11 04:14:02 | top.agentsapi/free-blockchain | Free Base Blockchain Tools | 1.0.0 | 13 free Base tools: address labels, tx explain, balances, receipts, gas, logs,… |
 
 ## Data source
 
