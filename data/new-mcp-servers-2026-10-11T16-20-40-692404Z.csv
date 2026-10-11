@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-10-11T15:19:36.333424Z,com.simpleeasytransactions/agent-checks,Simple Easy Transactions agent checks,1.0.0,,streamable-http,"Agent payment readiness and AI visibility checks, $1 per call over MPP or prepaid credits."
+2026-10-11T15:20:24.97735Z,io.github.priowise/priowise,,1.0.0,,streamable-http,"Live access to your product strategy: scored roadmap, decisions, PRDs, guarded status write-back."
+2026-10-11T15:21:10.500886Z,io.github.DimonSmart/local-vector-search-mcp,Local Vector Search MCP,0.1.2,https://github.com/DimonSmart/LocalVectorSearchMcp,,"Local Markdown search, navigation and editing via MCP, with optional vector embeddings."
+2026-10-11T15:25:24.688253Z,io.github.kanumuri9593/baton,Baton,0.2.9,https://github.com/kanumuri9593/Baton,,"Run, hot-reload and screenshot Flutter, web, React Native and native iOS/Android apps."
+2026-10-11T15:32:24.542759Z,io.github.ParthibanRajasekaran/rendercheck,,0.6.0,https://github.com/ParthibanRajasekaran/text-from-image,,"Check from a screenshot that text is really visible to users. Local, offline OCR."
+2026-10-11T15:34:51.399703Z,io.github.tresor4k/realdentalcosts-mcp,Real Dental Costs,0.3.0,https://github.com/tresor4k/realdentalcosts-mcp,streamable-http,"Sourced US and Canadian dental prices, Medicaid and Medicare dental rules, treatment-plan checker."
+2026-10-11T15:35:35.59757Z,io.github.jsymen1290/pokt-agent-x402,POKT Agent Korea data (x402 paid),1.0.0,,streamable-http,"Korean company due diligence, sanctions screening, Upbit/Bithumb events, HWP. Pay per call (x402)."
+2026-10-11T15:45:40.658525Z,io.github.nickjlamb/ai-footprint,AI Footprint,1.0.0,,streamable-http,"Water and energy footprint of AI use: chat prompts, agent sessions, methodology and sources."
+2026-10-11T15:50:14.000419Z,io.github.datumline/agent-guard,Datumline Agent Guard,0.2.0,https://github.com/datumline/datumline-agent-guard,,Checks an AI agent's 'done' against the files and URLs it claims. Missing = FALSE_DONE.
+2026-10-11T15:51:26.897854Z,how.mise/mise,Mise Recipes,0.1.0,,streamable-http,"Ad-free recipes with amounts in every step: search, scale, plan meals, build shopping lists."
+2026-10-11T15:53:48.410478Z,io.github.prakharv-ops/indian-stock-exchange-mcp,Indian Stock Exchange,2.0.0,https://github.com/prakharv-ops/Indian-Stock-Exchange-MCP,,"Indian stocks (NSE/BSE): quotes, fundamentals, analyst targets, IPOs, mutual funds, commodities."
+2026-10-11T15:55:46.224749Z,ai.dsght/public,,1.2.0,https://github.com/michalstrnadel/dsght-landing,streamable-http,Read-only MCP access to DSGHT.ai published foresight and country-grounded claim resolution.
+2026-10-11T16:00:06.101348Z,io.github.shiyue1250/nuttle,,0.1.0,https://github.com/shiyue1250/nuttle,,"Query the posts, comment trees and videos you've browsed, saved locally by the Nuttle app."
+2026-10-11T16:03:50.234331Z,ai.filmai/filmai,電影大師 filmai,1.2.0,,streamable-http,"AI film studio: shoot video, images and sound, review takes, audit scripts, quote before you shoot."
+2026-10-11T16:04:26.576769Z,br.com.rolesemsp/roles-catalogue-mcp,Rolês em SP,1.0.0,,streamable-http,"Cultural and gastronomic discovery MCP concierge for São Paulo, Brazil."
+2026-10-11T16:04:57.536986Z,io.github.agteo/goyondo,Goyondo,0.1.0,,,"Trip planner your AI assistant can plan and edit: persistent trips, group plans, booking records."
+2026-10-11T16:07:03.418612Z,org.satledger/timestamp-receipt,satledger timestamp receipt,0.15.2,,streamable-http,"RFC 3161 timestamps, paid per call over x402. No account; verifies offline against the authority."
+2026-10-11T16:11:52.315861Z,co.alcoven/alcoven,Alcoven,0.1.0,,streamable-http,"Open your team's project from the AI you use: read and write its brief, documents, tasks and notes."
+2026-10-11T16:11:57.566761Z,io.github.jayanth-mkv/open-agent-search,Open Agent Search,1.0.5,https://github.com/jayanth-mkv/open-agent-search,,"Search the web, news, images, videos and books, and extract page content for AI agents."
+2026-10-11T16:17:34.021647Z,io.github.holoduke/livescore-mcp,LiveScore MCP,1.1.0,https://github.com/holoduke/livescore-mcp,streamable-http; sse,"Football live scores, fixtures, standings, top scorers, matches, teams and players for 1000+ leagues"
+2026-10-11T16:18:15.678195Z,ai.custodo/custodo,Custodo,1.0.0,,streamable-http,"Documents, mail, tasks, CRM and expenses of Italian businesses, from the Custodo archive."
+2026-10-11T16:20:27.190352Z,io.github.meiboio/meibo,meibo,1.0.0,,streamable-http,"Manage school and club directories: settings, entries, moderation and invitations."
