@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-10-11T08:26:19.163988Z,io.github.adebayojuwon200-pixel/layergen-mcp,,0.3.1,https://github.com/adebayojuwon200-pixel/layergen-app,,"Layergen 3D model generation, retexture, and repair — for Claude Desktop and any MCP host."
+2026-10-11T08:28:34.768223Z,io.github.deepankar17/crewchat,crewchat,0.13.2,https://github.com/deepankar17/crewchat,,One group chat for your AI coding agents: Claude Code and Cursor talk to each other and to you.
+2026-10-11T08:30:32.335467Z,io.github.YounesBensafia/overleaf-mcp-server,,0.1.0,https://github.com/younesbensafia/overleaf-mcp-server,,MCP server for managing Overleaf projects through Git synchronization.
+2026-10-11T08:31:58.969047Z,dev.filelayer/core,Filelayer,0.26.0,https://github.com/filelayer/filelayer,,"User files for a SaaS, under one person's authority: list, share with an expiry, revoke."
+2026-10-11T08:32:24.028706Z,io.github.ntworm/ableton-mcp-server,Ableton MCP Server,0.7.0,https://github.com/ntworm/ableton-mcp-server,,"Inspect, analyze, and safely edit a running Ableton Live Set on Windows; 97 tools."
+2026-10-11T08:40:07.164501Z,dev.workers.penny-mcamp.penny-mcp-rails/agent-rails-index,,2026.10.11,,streamable-http,"Source-cited index of rails an autonomous agent can use to earn: payer, settlement channel, gate."
+2026-10-11T08:53:06.433819Z,io.github.arhancanli/canli-markets-mcp,Canli Markets,0.2.1,https://github.com/arhancanli/canlicapital,,"Markets, funds and the economy from the sources: options, shorts, filings, Fed, macro, prices."
+2026-10-11T08:59:22.227072Z,io.github.vince-gonzalez/coldhat,coldHat,0.1.0,https://github.com/vince-gonzalez/coldhat,streamable-http,Put on anyone's AI rules by GitHub username: fetches their hat.md and its hat code.
+2026-10-11T08:59:22.464311Z,io.userpilot/mcp,Userpilot,1.0.0,,streamable-http,"Product analytics, user and company insights, surveys and NPS, reports, dashboards, and more."
+2026-10-11T09:05:45.720523Z,io.github.TranHoaiHung/figma-ui-mcp,,2.5.29,https://github.com/TranHoaiHung/figma-ui-mcp,,"Bidirectional Figma MCP — AI draws UI on Figma canvas, reads designs back"
+2026-10-11T09:06:03.272633Z,io.github.IlyaIvanchikov/weeek-mcp-smart,WEEEK (smart),0.4.5,https://github.com/IlyaIvanchikov/weeek-mcp,,"WEEEK tasks by name, not IDs — an MCP server"
+2026-10-11T09:07:04.699078Z,io.github.balthasarspeyr/catalogue,Balthasar & Speyr Catalogue,1.1.0,,streamable-http,"Public catalogue, semantic search and source texts of Hans Urs von Balthasar and Adrienne von Speyr."
+2026-10-11T09:08:34.854111Z,com.omniyond/mcp,Omniyond,1.0.0,,streamable-http,"Pay-per-use API toolbox for AI agents: scheduling, page extraction, PDFs, images, QR, short links."
+2026-10-11T09:08:42.535702Z,io.github.coyaSONG/youtube-research,YouTube Research MCP,2.0.0,https://github.com/coyaSONG/youtube-mcp-server,,Citation-ready YouTube transcript research and optional channel intelligence for AI agents.
+2026-10-11T09:13:30.222501Z,tech.varexis/varexis-index,VAREXIS-INDEX,1.0.0,,streamable-http,Read-only evidence discovery and advisory previews for VAREXIS-INDEX; no advice or authority.
+2026-10-11T09:15:06.002104Z,com.mechanofab/mechanofab,MechanoFab,1.0.0,,streamable-http,"Manufacturing capability graph for AI agents: materials, processes, tolerances, and instant quotes."
