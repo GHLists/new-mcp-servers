@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-10-11T12:25:54.372735Z,br.com.rebasedev/vagas,Rebase Jobs,1.0.0,,streamable-http,"Vagas remotas de dev pra quem mora no Brasil trabalhar pra empresa de fora, com curadoria."
+2026-10-11T12:26:53.12048Z,es.juntamos/grupos,Juntamos: organizar grupos,0.1.0,,streamable-http,"Crear amigo invisible, votaciones y repartos de gastos para un grupo"
+2026-10-11T12:26:59.412217Z,com.reputemap/reputemap,ReputeMap,1.1.0,https://github.com/reputemap-com/mcp,streamable-http,"Read Google reviews and stats, draft AI replies, publish the ones you approve, request reviews."
+2026-10-11T12:27:50.304948Z,games.entri/tavern,Gamedev Tavern,1.0.0,,streamable-http,"Gamedev network (RU): your AI agent finds teammates, jobs, publishers and partners for games"
+2026-10-11T12:39:13.40006Z,com.adgpt/adgpt,AdGPT,0.2.0,,streamable-http,"Ready-to-publish ad creatives from an AI assistant: campaigns, image/video/UGC ads, brands, edits."
+2026-10-11T12:43:51.274626Z,io.github.matchalatteguy/faintmark,FaintMark,0.1.0,https://github.com/matchalatteguy/FaintMark,,"Invisible per-recipient image watermarks. Mark one copy per recipient, then identify a leaked copy."
+2026-10-11T12:44:32.87122Z,io.github.IOServicesLabs/searchio,searchio,0.1.1,https://github.com/IOServicesLabs/searchio,,"Keyless web search and page reading for AI agents, built to get past bot walls."
+2026-10-11T12:44:33.760207Z,io.github.IOServicesLabs/indexio,indexio,0.1.8,https://github.com/IOServicesLabs/indexio,,"Code search, symbols and call graph for AI coding agents. Answers in milliseconds."
+2026-10-11T12:48:42.201905Z,com.stackenhance/signal,Signal by StackEnhance,1.2.0,https://github.com/stackenhance/signal-mcp,streamable-http,"How often 750+ e-commerce brands send marketing emails: counts, send dates, recent subject lines."
+2026-10-11T12:49:21.355434Z,games.entri/gamedev-tavern,"Gamedev Tavern: find teammates, jobs and partners in game development",1.0.0,,streamable-http,"AI agent networking for game developers: find a team, game designer, publisher or gamedev job"
+2026-10-11T12:52:30.492646Z,site.chatgpt.hendrixerceg.tao-reach-home/tao-reach-home,T.A.O. — Reach Home,1.0.0,,streamable-http,T.A.O. — Reach home. Signed agent check-ins and a public roster; no agent execution.
+2026-10-11T12:54:19.278085Z,io.github.endoflife-ai/endoflife-mcp,endoflife.ai — Software Lifecycle Intelligence,1.4.0,https://github.com/endoflife-ai/endoflife-mcp,streamable-http,"EOL dates, risk scores, CISA KEV exposure, SBOM audits and edge-device EOS for 500+ products."
+2026-10-11T12:58:44.202822Z,page.ai/aipage,ai.page,1.0.0,,streamable-http,"Shared pages people and every AI edit live: lists, boards, imported apps. Attributed, undoable."
+2026-10-11T12:58:50.853088Z,io.github.ianderso/matricula-mcp,Matricula Church Books,0.1.0,https://github.com/ianderso/matricula-mcp,,"Find parishes and registers on Matricula, the church-book portal; open any page in its viewer."
+2026-10-11T13:07:48.767605Z,io.github.dembrandt/dembrandt,Dembrandt,0.39.0,https://github.com/dembrandt/dembrandt,,"Design tokens from any live site: colours, type, spacing, components, drift against a baseline."
+2026-10-11T13:07:48.988515Z,io.github.k0diak/token-intel,Solana Token Intelligence,2.0.0,https://github.com/k0diak/token-intel-x402,streamable-http,Solana token due-diligence: 3-source fused risk verdict incl. LP-lock depth. $0.01 via x402.
+2026-10-11T13:14:28.348231Z,dev.seoreport/seoreport,SEOReport,1.0.0,,streamable-http,Run full technical SEO audits of any website from your AI agent and get structured findings back.
+2026-10-11T13:16:35.827336Z,ai.realeyes/verifeye,VerifEye,1.1.0,,streamable-http,"VerifEye Face API: Identify (apparent age, gender, emotions, attention), Onboard and Compare faces."
