@@ -9,33 +9,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 10:21 UTC
+## Latest list — 2026-10-11 11:19 UTC
 
-New MCP servers published between 2026-10-11 09:19 UTC and 2026-10-11 10:21 UTC.
+New MCP servers published between 2026-10-11 10:21 UTC and 2026-10-11 11:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-11T10-21-33-530649Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-11T11-19-27-670468Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-11 09:23:30 | [io.github.kitwright/unity-mcp](https://github.com/kitwright/unity-mcp) | KitWright Unity MCP | 1.0.1 | Unity Editor MCP server: execute_code, screenshots, input simulation, play mode… |
-| 2026-10-11 09:24:03 | [io.github.yatuk/itu-mcp](https://github.com/yatuk/itu-mcp) | İTÜ MCP | 1.1.0 | İTÜ Ninova, OBS, Portal, kampüs servisleri ve kütüphane için MCP sunucusu |
-| 2026-10-11 09:25:15 | io.github.tridevils/gmca-certainty-matrix-validate | GMCA Certainty Matrix Validate | 1.0.5 | GMCA Certainty Matrix Validate: 11 vragen om een project te screenen vóór inves… |
-| 2026-10-11 09:25:25 | io.github.jannegpriv/skargardskollen | SkärgårdsKollen — Stockholm Archipelago | 0.4.0 | Stockholm archipelago boats: realtime departures, trip planning, disruptions, i… |
-| 2026-10-11 09:27:15 | com.wullup/events | Wullup Events | 1.0.0 | Find concerts, parties, club nights, festivals and more across Germany. |
-| 2026-10-11 09:32:45 | io.github.PaulRichez/devkit-for-strapi-mcp |  | 0.2.0 | Strapi codebase intelligence for AI agents (not content CRUD): real UIDs, schem… |
-| 2026-10-11 09:33:53 | br.com.designmaster/dmcommerce | DMCommerce | 1.0.0 | Search products, sizes, stock and shipping quotes at Brazilian online stores th… |
-| 2026-10-11 09:47:31 | au.com.bestceremonies/mcp | Best Ceremonies | 1.0.0 | Prices, travel estimates, areas and paperwork for Best Ceremonies, a celebrant… |
-| 2026-10-11 09:51:47 | com.rolefig/rolefig | rolefig | 0.9.0 | Search real job openings, check job posts and pay rules, and prepare California… |
-| 2026-10-11 09:51:59 | [io.github.kirbah/mcp-youtube](https://github.com/kirbah/mcp-youtube) | YouTube Data | 1.1.15 | YouTube MCP server for token-optimized, structured data using the YouTube Data… |
-| 2026-10-11 09:53:20 | ai.arcdeck/arcdeck | Arcdeck | 1.0.0 | Create consulting-style presentation decks (editable PowerPoint) from a topic o… |
-| 2026-10-11 10:00:09 | [io.github.praxec/cpm-planner](https://github.com/praxec/cpm-planner) |  | 0.2.0 | Critical Path Method scheduling and lock-aware parallel cohorts for MCP agents. |
-| 2026-10-11 10:02:55 | [io.github.michaelegner/architecture-intelligence-platform](https://github.com/michaelegner/architecture-intelligence-platform) | Architecture Intelligence Platform | 0.6.2 | Evidence-qualified architecture context for coding agents. |
-| 2026-10-11 10:03:09 | [io.github.TocharianOU/kibana](https://github.com/TocharianOU/mcp-server-kibana) | Kibana | 0.11.0 | Kibana MCP Server with dynamic API discovery and comprehensive Elastic Stack in… |
-| 2026-10-11 10:06:27 | io.anchorbrowser/anchor-browser | Anchor Browser | 1.0.0 | Cloud browsers for AI agents: get past bot detection, sign in with MFA, run web… |
-| 2026-10-11 10:07:38 | [io.github.hostsmith/mcp-server](https://github.com/hostsmith/mcp-server) |  | 1.6.0 | Deploy static sites on Hostsmith - give it a file, get a live HTTPS URL. EU/US… |
-| 2026-10-11 10:08:48 | com.crewofthecaptain/format-checker | x402 Format Checker | 1.2.0 | IBAN, EU VAT, NIP, REGON, PESEL, email checks. Only $0.001 (0.1 cent) per check… |
-| 2026-10-11 10:11:55 | vc.investorlists/investors | InvestorLists.vc investor database | 2.0.0 | Person-checked US VC firms and startup investors with verified work emails and… |
-| 2026-10-11 10:12:23 | [io.github.tj-smith47/anodizer](https://github.com/tj-smith47/anodizer) | anodizer | 0.29.0 | Rust release tooling — drop-in GoReleaser parity + Rust extras. |
+| 2026-10-11 10:21:37 | com.watchanyvideo/watch-any-video | Watch Any Video | 0.1.0 | Lets Claude and ChatGPT watch YouTube videos: what is seen and heard, answered… |
+| 2026-10-11 10:25:54 | [io.github.marmotdata/marmot](https://github.com/marmotdata/marmot) | Marmot Data Catalog | 0.11.1 | Open-source data catalog. Search assets, explore lineage, and find ownership. |
+| 2026-10-11 10:27:36 | [io.github.Jubstaaa/standup-mr](https://github.com/Jubstaaa/standup-mr) |  | 0.7.0 | Standup notes from merge request state, with the failed job's error lines. |
+| 2026-10-11 10:28:43 | fr.mt-transition.cv/cv-booster | CV Booster by MT-Transition | 1.3.0 | Score and improve a CV, match it to a job offer, check figures, export Word/PDF. |
+| 2026-10-11 10:29:40 | [io.github.fadymondy/zekra](https://github.com/fadymondy/zekra) | Zekra | 0.1.0 | Long-term memory and a knowledge graph for AI agents: recall, notes, secrets an… |
+| 2026-10-11 10:29:42 | [io.github.fadymondy/nasaq](https://github.com/fadymondy/nasaq) | Nasaq UI | 0.3.1 | Nasaq design system docs for agents: 390 components for React, Vue, Blade and H… |
+| 2026-10-11 10:29:44 | [io.github.laravilt/laravilt](https://github.com/laravilt/mcp) | Laravilt | 1.0.0 | Laravilt docs, packages and plugins for agents: a Laravel admin panel on Inerti… |
+| 2026-10-11 10:29:46 | [io.github.togo-framework/togo](https://github.com/togo-framework/mcp-web) | ToGO | 0.1.0 | ToGO docs and plugins for agents: a full-stack Go + React framework, plus plugi… |
+| 2026-10-11 10:32:12 | io.arcnm/arcnm | ARCNM | 1.0.1 | Manufacturing should-cost from CAD and drawings: cost drivers, process plan, lo… |
+| 2026-10-11 10:34:47 | [com.querysail/ga4](https://github.com/querysail/querysail-ga4) | QuerySail: Google Analytics | 1.0.0 | Hosted, read-only Google Analytics 4 MCP: reports, period comparisons, realtime… |
+| 2026-10-11 10:38:06 | io.github.AFontana77/3d-printer-on-demand | 3D Printer on Demand | 1.0.1 | Quote, check and order 3D prints of STL, 3MF, STEP or OBJ files. Made in the US… |
+| 2026-10-11 10:38:22 | [com.caller-kit/callerkit-mcp](https://github.com/callerkit/caller-kit-backend) | CallerKit | 0.2.1 | Caller ID and phone lookup: names, spam reports, fraud risk score, name/email s… |
+| 2026-10-11 10:40:14 | com.arch-insight/mcp | ARCH-Insight | 0.1.5 | Search and update ARCH-Insight: architecture fact sheets, applications, tickets… |
+| 2026-10-11 10:42:29 | [io.github.toddyi-app/toddyi](https://github.com/toddyi-app/toddyi-cli) | Toddyi | 0.2.7 | Tasks, calendar and study materials in Toddyi: search, read and plan with your… |
+| 2026-10-11 10:43:45 | [io.github.AkashChatterjee/glin](https://github.com/AkashChatterjee/glin) | glin | 0.1.4 | Exactly explainable classifiers for agents: train, tune, predict, explain on CS… |
+| 2026-10-11 10:46:18 | site.chatgpt.youssefelshaarawy.agent-net-observatory/waypoint | Waypoint Agent Observatory | 3.0.0 | Useful public tools, sourced notes and opt-in research into discovery and agent… |
+| 2026-10-11 10:47:44 | [com.proxmint/mcp](https://github.com/proxmint/mcp) | Proxmint | 1.0.0 | Pricing, balance, usage, proxy lines with targeting and connection checks for P… |
+| 2026-10-11 10:47:54 | [io.craaft/mcp](https://github.com/craaft/mcp) | craaft | 1.0.2 | Read and update your craaft kanban boards: add and move cards, comment, and tic… |
+| 2026-10-11 10:49:42 | online.shogidojo/shogidojo | Shogi Dojo | 1.0.4 | Go over your Shogi Dojo games, explore the moves played from a position, and ma… |
+| 2026-10-11 10:58:07 | [io.github.sandbanks/agentic_ssh](https://github.com/sandbanks/agentic_ssh) | Agentic SSH | 0.5.4 | High-performance (Rust), token-efficient, and asynchronous SSH orchestrations f… |
+| 2026-10-11 11:00:56 | [io.github.The-Doxa-Way/doxa-mcp](https://github.com/The-Doxa-Way/doxa-mcp-schema) | Doxa MCP | 1.0.4 | Christian AI for any question, in any season. Bible (BSB), grace + truth. faith… |
+| 2026-10-11 11:02:10 | io.github.Artmann/tiny-plates | Tiny Plates | 2.0.0 | Search structured recipes, scale servings, match pantry ingredients, and build… |
+| 2026-10-11 11:02:36 | [io.github.fi4all/algoum-mcp](https://github.com/fi4all/algoum-mcp) | algoum-mcp | 1.0.0 | SEC EDGAR insider trades (Form 4/5), 8-K events and 13F holdings as clean JSON. |
+| 2026-10-11 11:02:43 | [io.github.corbinvachal48/agentrender-mcp](https://github.com/corbinvachal48/agentrender-mcp) | AgentRender | 0.1.1 | URL to screenshot, PDF, or structured extract for AI agents. Free key, no card. |
+| 2026-10-11 11:04:23 | com.grain64.deskhand/deskhand | Deskhand | 1.0.0 | Hosted CRM and task desk for AI agents: per-agent keys, scopes, pause and audit… |
+| 2026-10-11 11:05:57 | com.hanyuguide/hanyuguide | HanyuGuide | 0.6.3 | Chinese dictionary, pinyin, stroke order, HSK quiz words and your HanyuGuide st… |
+| 2026-10-11 11:09:00 | [io.github.PiefkePaul/agent-helper](https://github.com/PiefkePaul/agent-helper) | agent-helper | 0.1.0 | Contact point for AI agents: describe a missing capability or need; a human ope… |
+| 2026-10-11 11:10:11 | [io.github.Davmunrey/trazum](https://github.com/Davmunrey/Trazum) |  | 2.4.2 | Trazum as an MCP server: let an agent price and budget its own prompts before i… |
+| 2026-10-11 11:14:05 | com.clipember/clipember | ClipEmber | 1.0.0 | Turn long videos into captioned short clips and schedule them to TikTok, YouTub… |
+| 2026-10-11 11:14:47 | com.praxikon/praxikon | Praxikon | 2.3.0 | EU AI Act and GDPR checks with sources: classify an AI system, trace each duty,… |
+| 2026-10-11 11:14:51 | io.github.kingdt1991-netizen/kai-network | KAI Network — Public Information | 0.1.0 | Read-only KAI network overview, standards, fees, public terms, and developer on… |
+| 2026-10-11 11:16:23 | io.benchmarq/benchmarq | Benchmarq | 1.0.0 | 200+ audits on AI visibility: AIO, AEO, GEO scores, site issues, competitor gap… |
 
 ## Data source
 
