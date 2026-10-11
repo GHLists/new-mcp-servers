@@ -9,23 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 06:19 UTC
+## Latest list — 2026-10-11 07:20 UTC
 
-New MCP servers published between 2026-10-11 05:20 UTC and 2026-10-11 06:19 UTC.
+New MCP servers published between 2026-10-11 06:19 UTC and 2026-10-11 07:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-11T06-19-08-663208Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-11T07-20-29-898992Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-11 05:27:20 | [io.github.ianderso/polish-archives-mcp](https://github.com/ianderso/polish-archives-mcp) | Polish Archives Indexes | 0.1.0 | Search Geneteka, the Poznań Project and BaSIA for Polish vital records; fetch a… |
-| 2026-10-11 05:41:04 | today.theclarity/clarity-today | Clarity Today | 1.0.0 | Clarity Today's briefing, latest stories by desk, search and full source-linked… |
-| 2026-10-11 05:43:01 | [io.github.ianderso/gov-gazetteer-mcp](https://github.com/ianderso/gov-gazetteer-mcp) | GOV Historical Gazetteer | 0.1.0 | German historical gazetteer GOV: a place's name, Kreis, parish and Standesamt i… |
-| 2026-10-11 05:43:02 | [io.github.ianderso/german-archives-mcp](https://github.com/ianderso/german-archives-mcp) | German Archives (DDB, Baden Standesbüch… | 0.1.0 | Search German archive finding aids (DDB, Archivportal-D); read Baden civil regi… |
-| 2026-10-11 05:43:10 | com.tubegrade/mcp | TubeGrade | 1.0.0 | YouTube research: channel and video stats, transcripts, outlier videos and vira… |
-| 2026-10-11 05:49:51 | so.rank1/rank1 | Rank1 | 1.0.0 | Find relevant customer conversations, review reply drafts, and plan content wit… |
-| 2026-10-11 05:56:49 | com.nanobaselabs.api/nanobase | TDA Logic by NanoBase™: Cosmetic Formul… | 1.0.0 | Build modern nanocosmetics, cold, with TDA logic: the new standard replacing 19… |
-| 2026-10-11 06:10:11 | [io.github.avivsinai/langfuse-mcp](https://github.com/avivsinai/langfuse-mcp) | Langfuse MCP | 0.13.0 | Langfuse MCP server for accessing and analyzing telemetry data via natural lang… |
-| 2026-10-11 06:18:07 | md.getbody/getbody | GetBody | 1.0.0 | Get real-world tasks done by robots: find, rent and control robots for your hum… |
+| 2026-10-11 06:19:39 | [com.toolsthatdontupload/tools](https://github.com/etacbae6768-a11y/tools-that-dont-upload) | Tools That Don't Upload | 1.0.0 | 442 free tools. Zero retention. No auth. CORS enabled. 20 MCP tools. |
+| 2026-10-11 06:24:59 | [io.github.coo-quack/calc-mcp](https://github.com/coo-quack/calc-mcp) |  | 2.1.3 | 21 MCP tools for math, randomness, dates, encoding, hashing, and more — determi… |
+| 2026-10-11 06:33:04 | ai.terra-lab/terralab | TerraLab | 1.0.0 | Map data ready for QGIS: open data extracts, GIS files, coordinates, elevation,… |
+| 2026-10-11 06:36:31 | [io.github.pipeshub-ai/mcp](https://github.com/pipeshub-ai/mcp-server) | PipesHub | 3.0.0 | Permissioned search and cited answers over Slack, Drive, Gmail, Jira, and 50+ w… |
+| 2026-10-11 06:38:34 | ai.docspeed/docspeed | Docspeed | 0.1.0 | Extract, ask, compare, and parse PDFs and images with source evidence. |
+| 2026-10-11 06:48:25 | [io.github.arhancanli/canli-mcp](https://github.com/arhancanli/canlicapital) | Canli Capital | 0.2.1 | 285 finance tools (quant, validation, SEC filings, market data, paper trading)… |
+| 2026-10-11 06:48:36 | [io.github.fjacquet/nano-banana-mcp](https://github.com/fjacquet/Nano-Banana-MCP) |  | 3.2.1 | AI image generation and editing with Google Gemini: Nano Banana 2.1, Pro and Li… |
+| 2026-10-11 06:52:24 | [io.github.Julio-Patron/lex-api-mx](https://github.com/Julio-Patron/Lex-API-Mx) | Lex API MX | 0.1.1 | Legislación federal mexicana vigente con fuente, checksum y vigencia para agent… |
+| 2026-10-11 07:13:45 | io.github.saulius876-lgtm/zillow-property-details | Zillow Property Details | 1.0.0 | Zillow property details by link, zpid or address: Zestimate, rent Zestimate, ta… |
+| 2026-10-11 07:13:46 | io.github.saulius876-lgtm/zillow-zip-code-search | Zillow ZIP Code Search | 1.0.0 | Zillow homes for sale, for rent or recently sold by US ZIP code: price, Zestima… |
+| 2026-10-11 07:19:54 | [in.trypopulr/seo](https://github.com/kavya5cloud/populr-main) | Populr SEO | 1.0.0 | Apply the SEO fixes you approve in Populr — titles, descriptions, JSON-LD, llms… |
 
 ## Data source
 
