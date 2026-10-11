@@ -9,36 +9,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 16:20 UTC
+## Latest list — 2026-10-11 17:22 UTC
 
-New MCP servers published between 2026-10-11 15:19 UTC and 2026-10-11 16:20 UTC.
+New MCP servers published between 2026-10-11 16:20 UTC and 2026-10-11 17:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-11T16-20-40-692404Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-11T17-22-08-976771Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-11 15:19:36 | com.simpleeasytransactions/agent-checks | Simple Easy Transactions agent checks | 1.0.0 | Agent payment readiness and AI visibility checks, $1 per call over MPP or prepa… |
-| 2026-10-11 15:20:24 | io.github.priowise/priowise |  | 1.0.0 | Live access to your product strategy: scored roadmap, decisions, PRDs, guarded… |
-| 2026-10-11 15:21:10 | [io.github.DimonSmart/local-vector-search-mcp](https://github.com/DimonSmart/LocalVectorSearchMcp) | Local Vector Search MCP | 0.1.2 | Local Markdown search, navigation and editing via MCP, with optional vector emb… |
-| 2026-10-11 15:25:24 | [io.github.kanumuri9593/baton](https://github.com/kanumuri9593/Baton) | Baton | 0.2.9 | Run, hot-reload and screenshot Flutter, web, React Native and native iOS/Androi… |
-| 2026-10-11 15:32:24 | [io.github.ParthibanRajasekaran/rendercheck](https://github.com/ParthibanRajasekaran/text-from-image) |  | 0.6.0 | Check from a screenshot that text is really visible to users. Local, offline OC… |
-| 2026-10-11 15:34:51 | [io.github.tresor4k/realdentalcosts-mcp](https://github.com/tresor4k/realdentalcosts-mcp) | Real Dental Costs | 0.3.0 | Sourced US and Canadian dental prices, Medicaid and Medicare dental rules, trea… |
-| 2026-10-11 15:35:35 | io.github.jsymen1290/pokt-agent-x402 | POKT Agent Korea data (x402 paid) | 1.0.0 | Korean company due diligence, sanctions screening, Upbit/Bithumb events, HWP. P… |
-| 2026-10-11 15:45:40 | io.github.nickjlamb/ai-footprint | AI Footprint | 1.0.0 | Water and energy footprint of AI use: chat prompts, agent sessions, methodology… |
-| 2026-10-11 15:50:14 | [io.github.datumline/agent-guard](https://github.com/datumline/datumline-agent-guard) | Datumline Agent Guard | 0.2.0 | Checks an AI agent's 'done' against the files and URLs it claims. Missing = FAL… |
-| 2026-10-11 15:51:26 | how.mise/mise | Mise Recipes | 0.1.0 | Ad-free recipes with amounts in every step: search, scale, plan meals, build sh… |
-| 2026-10-11 15:53:48 | [io.github.prakharv-ops/indian-stock-exchange-mcp](https://github.com/prakharv-ops/Indian-Stock-Exchange-MCP) | Indian Stock Exchange | 2.0.0 | Indian stocks (NSE/BSE): quotes, fundamentals, analyst targets, IPOs, mutual fu… |
-| 2026-10-11 15:55:46 | [ai.dsght/public](https://github.com/michalstrnadel/dsght-landing) |  | 1.2.0 | Read-only MCP access to DSGHT.ai published foresight and country-grounded claim… |
-| 2026-10-11 16:00:06 | [io.github.shiyue1250/nuttle](https://github.com/shiyue1250/nuttle) |  | 0.1.0 | Query the posts, comment trees and videos you've browsed, saved locally by the… |
-| 2026-10-11 16:03:50 | ai.filmai/filmai | 電影大師 filmai | 1.2.0 | AI film studio: shoot video, images and sound, review takes, audit scripts, quo… |
-| 2026-10-11 16:04:26 | br.com.rolesemsp/roles-catalogue-mcp | Rolês em SP | 1.0.0 | Cultural and gastronomic discovery MCP concierge for São Paulo, Brazil. |
-| 2026-10-11 16:04:57 | io.github.agteo/goyondo | Goyondo | 0.1.0 | Trip planner your AI assistant can plan and edit: persistent trips, group plans… |
-| 2026-10-11 16:07:03 | org.satledger/timestamp-receipt | satledger timestamp receipt | 0.15.2 | RFC 3161 timestamps, paid per call over x402. No account; verifies offline agai… |
-| 2026-10-11 16:11:52 | co.alcoven/alcoven | Alcoven | 0.1.0 | Open your team's project from the AI you use: read and write its brief, documen… |
-| 2026-10-11 16:11:57 | [io.github.jayanth-mkv/open-agent-search](https://github.com/jayanth-mkv/open-agent-search) | Open Agent Search | 1.0.5 | Search the web, news, images, videos and books, and extract page content for AI… |
-| 2026-10-11 16:17:34 | [io.github.holoduke/livescore-mcp](https://github.com/holoduke/livescore-mcp) | LiveScore MCP | 1.1.0 | Football live scores, fixtures, standings, top scorers, matches, teams and play… |
-| 2026-10-11 16:18:15 | ai.custodo/custodo | Custodo | 1.0.0 | Documents, mail, tasks, CRM and expenses of Italian businesses, from the Custod… |
-| 2026-10-11 16:20:27 | io.github.meiboio/meibo | meibo | 1.0.0 | Manage school and club directories: settings, entries, moderation and invitatio… |
+| 2026-10-11 16:20:54 | com.traderwai/traderwai | TraderWAI | 1.2.0 | Connect Claude, ChatGPT, Gemini or Grok to your broker: live charts, backtests… |
+| 2026-10-11 16:28:17 | [ai.limitguard.api/limitguard](https://github.com/jwconsultancyteam/limitguard-mcp) | Limitguard Lead Verification | 2.11.0 | Lead validation over MCP: KVK/KBO register, EU VAT, sanctions and email checks… |
+| 2026-10-11 16:38:28 | net.alphayou/market-intelligence | AlphaYou Market Intelligence | 0.3.3 | Impersonal stock and Hyperliquid research, each answer with its source link and… |
+| 2026-10-11 16:38:35 | net.alphayou/api | AlphaYou API | 0.1.0 | SEC filings, 13F funds, insider trades and published calls, each with its sourc… |
+| 2026-10-11 16:40:37 | com.rirlift/rirlift | RIRLift | 1.0.0 | Your RIRLift strength training log: workouts, progress, volume, recovery and pr… |
+| 2026-10-11 16:42:48 | xyz.asof/asof | AsOf | 0.1.0 | Historical crypto wallet holdings, valuations and CSV exports. OAuth; paid own-… |
+| 2026-10-11 16:42:59 | xyz.asof/asof-demo | AsOf Demo | 0.1.0 | No-sign-up demo: recorded historical crypto wallet holdings, prices and CSV exp… |
+| 2026-10-11 16:45:00 | br.com.advplan/law-practice | AdvPlan | 1.0.0 | Access your Brazilian law firm's cases, deadlines, documents and billing with A… |
+| 2026-10-11 16:47:24 | com.pymaia/pymaia | Pymaia | 3.0.0 | Growth analytics for LatAm ecommerce: MercadoLibre, Tiendanube, Shopify, Meta A… |
+| 2026-10-11 16:47:51 | [io.github.leancoderkavy/kitsuvo](https://github.com/leancoderkavy/kitsuvo-integrations) | Kitsuvo | 0.2.5 | Browse and inspect sites in your own Kitsuvo browser through an opt-in authenti… |
+| 2026-10-11 16:50:43 | ai.coreplex/shopping | Coreplex | 1.0.0 | Search, compare prices and find official stores across brands that sell on Shop… |
+| 2026-10-11 16:51:15 | ai.autoblogging/autoblogging | Autoblogging.ai | 1.0.0 | Facts about Autoblogging.ai, the AI article writer: pricing, plans, features an… |
+| 2026-10-11 16:54:49 | [io.github.Glob0x17/mcp-icloud-caldav](https://github.com/Glob0x17/mcp-icloud-caldav) | iCloud Calendar (CalDAV) | 0.2.0 | iCloud Calendar over CalDAV: list, create, update, move and delete events. Opti… |
+| 2026-10-11 16:55:37 | com.globalvisibilityengine/public-knowledge | GVE Public Governed Knowledge | 1.0.0 | Read-only public, governed enterprise knowledge published by GVE, with provenan… |
+| 2026-10-11 16:58:29 | com.polarjay/polarjay | PolarJay | 1.0.0 | Facts, prices and FAQ for PolarJay, which tracks what AI assistants say about a… |
+| 2026-10-11 16:58:55 | ai.polargate/polargate | Polargate | 1.0.0 | Services, published prices and case studies of Polargate, read from the content… |
+| 2026-10-11 17:02:48 | app.soulstack/soulstack | SoulStack | 1.0.0 | Read MRR, churn, users, errors, AI costs and 0-100 health scores for every app… |
+| 2026-10-11 17:03:16 | io.aktiebok/aktiebok | aktiebok.io | 0.2.0 | Share register (aktiebok) for Swedish companies: read the cap table, draft and… |
+| 2026-10-11 17:05:52 | [app.idiolect/idiolect-ai](https://github.com/Moshpit-Labs/idiolect-mcp) | Idiolect AI | 1.0.2 | Write, rewrite, and refine in your own style. Build and manage your Writing Pro… |
+| 2026-10-11 17:06:27 | com.cadenalaser/noticias | Cadena Láser — noticias y radios de Río… | 1.0.0 | Noticias de Río Tercero y Córdoba (Argentina) y las radios de Cadena Láser en v… |
+| 2026-10-11 17:10:11 | [io.usefulapi/hint-health](https://github.com/m190/usefulapi-mcp) | Hint Health MCP by usefulapi | 1.0.0 | Read Hint Health patients, memberships, plans, invoices and payments for direct… |
+| 2026-10-11 17:10:12 | [io.usefulapi/elation-health](https://github.com/m190/usefulapi-mcp) | Elation Health MCP by usefulapi | 1.0.0 | Read Elation Health patients, appointments, problems, allergies, medications, n… |
+| 2026-10-11 17:10:14 | [io.usefulapi/akute-health](https://github.com/m190/usefulapi-mcp) | Akute Health MCP by usefulapi | 1.0.0 | Read Akute Health patients, appointments, tasks, notes, medications, allergies… |
+| 2026-10-11 17:10:15 | [io.usefulapi/practice-better](https://github.com/m190/usefulapi-mcp) | Practice Better MCP by usefulapi | 1.0.0 | Read Practice Better clients, sessions, availability, services, packages, invoi… |
+| 2026-10-11 17:12:32 | sh.seoskills/catalog | seoskills.sh | 1.0.0 | Search and fetch SEO agent skills from the seoskills.sh catalog. |
+| 2026-10-11 17:14:32 | [io.github.sezzlee/excel](https://github.com/sezzlee/mcp) | Sezzlee Excel | 0.7.1 | Read local Excel workbooks (.xlsx, .xlsm, .csv): cells, formulas, tables. Read-… |
+| 2026-10-11 17:14:33 | [io.github.sezzlee/xml](https://github.com/sezzlee/mcp) | Sezzlee XML | 0.5.1 | Query local XML documents with XPath, paged and sandboxed to one folder. Read-o… |
+| 2026-10-11 17:14:34 | [io.github.sezzlee/pdf](https://github.com/sezzlee/mcp) | Sezzlee PDF | 0.1.2 | Extract text from local PDF documents with optional pluggable OCR. Read-only, n… |
+| 2026-10-11 17:14:34 | [io.github.sezzlee/mssql](https://github.com/sezzlee/mcp) | Sezzlee SQL Server | 0.2.1 | Explore and query Microsoft SQL Server read-only: catalogue search, schema and… |
+| 2026-10-11 17:14:35 | [io.github.sezzlee/postgres](https://github.com/sezzlee/mcp) | Sezzlee PostgreSQL | 0.2.1 | Explore and query PostgreSQL read-only: catalogue search, schema introspection… |
+| 2026-10-11 17:14:36 | [io.github.sezzlee/openapi](https://github.com/sezzlee/mcp) | Sezzlee OpenAPI | 0.2.1 | Expose an OpenAPI document to agents as a search-first tool catalog over your e… |
+| 2026-10-11 17:14:37 | [io.github.sezzlee/llm](https://github.com/sezzlee/mcp) | Sezzlee Local LLM | 0.1.3 | Let a planning agent hand bounded language work to a local Ollama model. |
+| 2026-10-11 17:21:48 | [io.github.atushi1841/japan-intel-mcp](https://github.com/atushi1841/japan-intel-mcp) |  | 0.1.0 | Japan public intelligence for AI agents: earthquakes, weather, typhoons, postal… |
 
 ## Data source
 

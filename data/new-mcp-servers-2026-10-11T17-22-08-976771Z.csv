@@ -1,0 +1,34 @@
+created_at,server,title,version,repository,transports,description
+2026-10-11T16:20:54.195515Z,com.traderwai/traderwai,TraderWAI,1.2.0,,streamable-http,"Connect Claude, ChatGPT, Gemini or Grok to your broker: live charts, backtests and trades"
+2026-10-11T16:28:17.925893Z,ai.limitguard.api/limitguard,Limitguard Lead Verification,2.11.0,https://github.com/jwconsultancyteam/limitguard-mcp,streamable-http,"Lead validation over MCP: KVK/KBO register, EU VAT, sanctions and email checks with sources."
+2026-10-11T16:38:28.2541Z,net.alphayou/market-intelligence,AlphaYou Market Intelligence,0.3.3,,streamable-http,"Impersonal stock and Hyperliquid research, each answer with its source link and date."
+2026-10-11T16:38:35.362177Z,net.alphayou/api,AlphaYou API,0.1.0,,streamable-http,"SEC filings, 13F funds, insider trades and published calls, each with its source link."
+2026-10-11T16:40:37.916158Z,com.rirlift/rirlift,RIRLift,1.0.0,,streamable-http,"Your RIRLift strength training log: workouts, progress, volume, recovery and program drafts."
+2026-10-11T16:42:48.570561Z,xyz.asof/asof,AsOf,0.1.0,,streamable-http,"Historical crypto wallet holdings, valuations and CSV exports. OAuth; paid own-wallet scans."
+2026-10-11T16:42:59.688733Z,xyz.asof/asof-demo,AsOf Demo,0.1.0,,streamable-http,"No-sign-up demo: recorded historical crypto wallet holdings, prices and CSV exports. Fixed examples."
+2026-10-11T16:45:00.89739Z,br.com.advplan/law-practice,AdvPlan,1.0.0,,streamable-http,"Access your Brazilian law firm's cases, deadlines, documents and billing with AdvPlan via OAuth."
+2026-10-11T16:47:24.713842Z,com.pymaia/pymaia,Pymaia,3.0.0,,streamable-http,"Growth analytics for LatAm ecommerce: MercadoLibre, Tiendanube, Shopify, Meta Ads and Google Ads."
+2026-10-11T16:47:51.758614Z,io.github.leancoderkavy/kitsuvo,Kitsuvo,0.2.5,https://github.com/leancoderkavy/kitsuvo-integrations,streamable-http,Browse and inspect sites in your own Kitsuvo browser through an opt-in authenticated relay.
+2026-10-11T16:50:43.262757Z,ai.coreplex/shopping,Coreplex,1.0.0,,streamable-http,"Search, compare prices and find official stores across brands that sell on Shopify."
+2026-10-11T16:51:15.847975Z,ai.autoblogging/autoblogging,Autoblogging.ai,1.0.0,,streamable-http,"Facts about Autoblogging.ai, the AI article writer: pricing, plans, features and site search."
+2026-10-11T16:54:49.656764Z,io.github.Glob0x17/mcp-icloud-caldav,iCloud Calendar (CalDAV),0.2.0,https://github.com/Glob0x17/mcp-icloud-caldav,,"iCloud Calendar over CalDAV: list, create, update, move and delete events. Optional read-only mode."
+2026-10-11T16:55:37.035915Z,com.globalvisibilityengine/public-knowledge,GVE Public Governed Knowledge,1.0.0,,streamable-http,"Read-only public, governed enterprise knowledge published by GVE, with provenance and validation."
+2026-10-11T16:58:29.028972Z,com.polarjay/polarjay,PolarJay,1.0.0,,streamable-http,"Facts, prices and FAQ for PolarJay, which tracks what AI assistants say about a company."
+2026-10-11T16:58:55.487493Z,ai.polargate/polargate,Polargate,1.0.0,,streamable-http,"Services, published prices and case studies of Polargate, read from the content of polargate.ai."
+2026-10-11T17:02:48.217804Z,app.soulstack/soulstack,SoulStack,1.0.0,,streamable-http,"Read MRR, churn, users, errors, AI costs and 0-100 health scores for every app you run."
+2026-10-11T17:03:16.696688Z,io.aktiebok/aktiebok,aktiebok.io,0.2.0,,streamable-http,"Share register (aktiebok) for Swedish companies: read the cap table, draft and confirm entries."
+2026-10-11T17:05:52.002163Z,app.idiolect/idiolect-ai,Idiolect AI,1.0.2,https://github.com/Moshpit-Labs/idiolect-mcp,streamable-http,"Write, rewrite, and refine in your own style. Build and manage your Writing Profile."
+2026-10-11T17:06:27.543936Z,com.cadenalaser/noticias,Cadena Láser — noticias y radios de Río Tercero,1.0.0,,streamable-http,Noticias de Río Tercero y Córdoba (Argentina) y las radios de Cadena Láser en vivo.
+2026-10-11T17:10:11.791845Z,io.usefulapi/hint-health,Hint Health MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Hint Health patients, memberships, plans, invoices and payments for direct primary care."
+2026-10-11T17:10:12.856933Z,io.usefulapi/elation-health,Elation Health MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Elation Health patients, appointments, problems, allergies, medications, notes and vitals."
+2026-10-11T17:10:14.21537Z,io.usefulapi/akute-health,Akute Health MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Akute Health patients, appointments, tasks, notes, medications, allergies and observations."
+2026-10-11T17:10:15.121529Z,io.usefulapi/practice-better,Practice Better MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Practice Better clients, sessions, availability, services, packages, invoices and forms."
+2026-10-11T17:12:32.037861Z,sh.seoskills/catalog,seoskills.sh,1.0.0,,streamable-http,Search and fetch SEO agent skills from the seoskills.sh catalog.
+2026-10-11T17:14:32.416723Z,io.github.sezzlee/excel,Sezzlee Excel,0.7.1,https://github.com/sezzlee/mcp,,"Read local Excel workbooks (.xlsx, .xlsm, .csv): cells, formulas, tables. Read-only, sandboxed."
+2026-10-11T17:14:33.173905Z,io.github.sezzlee/xml,Sezzlee XML,0.5.1,https://github.com/sezzlee/mcp,,"Query local XML documents with XPath, paged and sandboxed to one folder. Read-only."
+2026-10-11T17:14:34.224064Z,io.github.sezzlee/pdf,Sezzlee PDF,0.1.2,https://github.com/sezzlee/mcp,,"Extract text from local PDF documents with optional pluggable OCR. Read-only, no network."
+2026-10-11T17:14:34.97518Z,io.github.sezzlee/mssql,Sezzlee SQL Server,0.2.1,https://github.com/sezzlee/mcp,,"Explore and query Microsoft SQL Server read-only: catalogue search, schema and bounded queries."
+2026-10-11T17:14:35.663521Z,io.github.sezzlee/postgres,Sezzlee PostgreSQL,0.2.1,https://github.com/sezzlee/mcp,,"Explore and query PostgreSQL read-only: catalogue search, schema introspection and bounded queries."
+2026-10-11T17:14:36.349593Z,io.github.sezzlee/openapi,Sezzlee OpenAPI,0.2.1,https://github.com/sezzlee/mcp,,Expose an OpenAPI document to agents as a search-first tool catalog over your existing API.
+2026-10-11T17:14:37.029554Z,io.github.sezzlee/llm,Sezzlee Local LLM,0.1.3,https://github.com/sezzlee/mcp,,Let a planning agent hand bounded language work to a local Ollama model.
+2026-10-11T17:21:48.463915Z,io.github.atushi1841/japan-intel-mcp,,0.1.0,https://github.com/atushi1841/japan-intel-mcp,,"Japan public intelligence for AI agents: earthquakes, weather, typhoons, postal lookup. Keyless."
