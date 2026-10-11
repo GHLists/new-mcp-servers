@@ -9,43 +9,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 14:20 UTC
+## Latest list — 2026-10-11 15:19 UTC
 
-New MCP servers published between 2026-10-11 13:18 UTC and 2026-10-11 14:20 UTC.
+New MCP servers published between 2026-10-11 14:20 UTC and 2026-10-11 15:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-11T14-20-35-52436Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-11T15-19-25-071582Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-11 13:19:22 | [io.github.pulpminercom/pulpminer-mcp](https://github.com/pulpminercom/pulpminer-mcp) | PulpMiner | 0.1.0 | Turn any public webpage into JSON with AI, save it as a live JSON API, and call… |
-| 2026-10-11 13:24:59 | com.whiteautoandmedia/catalog | White Automotive & Media Services Catal… | 1.0.5 | Read-only catalog search for GM infotainment, cluster and electronics module pa… |
-| 2026-10-11 13:29:07 | [io.github.dynamitecircle/dc](https://github.com/dynamitecircle/dc) | DC Member API | 2.5.1 | Read and act on your own Dynamite Circle membership data via the public DC Memb… |
-| 2026-10-11 13:31:54 | [io.github.j0n777/gasnow](https://github.com/j0n777/gasnow) | GasNow | 1.0.0 | Live crypto fees: USDT transfer costs on 12 networks, exchange withdrawals, bri… |
-| 2026-10-11 13:34:13 | com.apphitlist/mcp | AppHitlist | 1.0.0 | App Store research: new winning apps, revenue estimates, complaints and Meta ad… |
-| 2026-10-11 13:40:32 | io.github.drshairsultan/calcbright | CalcBright Calculators | 1.0.0 | 100+ accurate calculators & converters: mortgage, loan, tax, BMI, dates, units,… |
-| 2026-10-11 13:42:42 | ai.optionscanner/optionscanner | Optionscanner | 4.1.3 | Free options calculators and the Optionscanner Learn library for any AI assista… |
-| 2026-10-11 13:43:04 | uk.co.harktech/quotes | Hark Tech 3D Printing (UK) | 1.1.0 | Price your own 3D files or Printables/Thingiverse models and get a UK checkout… |
-| 2026-10-11 13:44:52 | com.amlakintel/gulf-property | AmlakIntel | 0.2.0 | Audited Gulf property figures, drawn from official registers and the authoritie… |
-| 2026-10-11 13:45:51 | [io.github.PixelJunkie33/ai-chess-arena](https://github.com/PixelJunkie33/ai-chess-arena) | AI Chess Arena | 2.0.0 | Open chess platform where AI agents register, get matched and play each other.… |
-| 2026-10-11 13:46:48 | [io.github.alexar76/attested-memory](https://github.com/alexar76/attested-memory) | Attested Memory Market | 3.15.16 | Attestable memory, truth, provenance. Hybrid Ed25519 + ML-DSA-65 receipts; USDC… |
-| 2026-10-11 13:46:50 | io.github.kr-data-api/korea-hs-import-requirements | Korea HS Code Import Requirements (세관장확… | 0.1.0 | Korean customs permits and certificates required per HS code: law, document, ag… |
-| 2026-10-11 13:46:53 | com.cyberlibrary/library | Cyber Library | 1.0.0 | Search and read Cyber Library, a free structured cybersecurity knowledge base.… |
-| 2026-10-11 13:47:16 | io.github.lavanry/docfarm | Docfarm | 1.0.0 | Publish, edit, share and track HTML docs and decks from chat, with view analyti… |
-| 2026-10-11 13:48:15 | com.vondet/mcp | Vondet | 1.1.0 | A project planning board your AI reads and updates over MCP, so the plan stays… |
-| 2026-10-11 13:50:41 | [ai.ragjur/mcp](https://github.com/btechbrasil/ragjur-mcp) |  | 2.5.1 | Brazilian legal search and jurimetria: 115M+ court decisions from 90+ courts ac… |
-| 2026-10-11 13:51:21 | [io.github.w8s/w8s-astro-mcp](https://github.com/w8s/w8s-astro-mcp) |  | 0.15.0 | Natal charts, transits, history, ingress forecasting, aspects, composite & Davi… |
-| 2026-10-11 13:51:21 | [io.github.ParalonCloud/mcp-rentals](https://github.com/ParalonCloud/mcp-rentals) | ParalonCloud Rentals | 1.0.3 | Rent GPUs from ParalonCloud: browse, start, poll, and stop GPU rentals over the… |
-| 2026-10-11 13:51:55 | online.econtract/mcp | eContract | 1.0.0 | Send contracts for e-signature, track signing, get signed PDFs and audit trails… |
-| 2026-10-11 13:55:35 | [online.putit/put-it-online](https://github.com/kitsunde/putit-mcp) | Put It Online | 1.0.0 | Publish AI-made web pages and share files as short links from any MCP client. |
-| 2026-10-11 13:55:59 | [io.github.ab2dridi/akko-mcp-trino](https://github.com/AKKO-p/akko-mcp-trino) | AKKO MCP server for Trino | 0.5.3 | Read-only MCP server for Trino: queries run as the user, and Trino's own polici… |
-| 2026-10-11 13:58:57 | io.github.qxxx5vyd77-byte/directors-lookbook | Director's Lookbook | 1.3.0 | 664 named visual and music styles: deal a look for a feeling, get paste-ready A… |
-| 2026-10-11 14:07:12 | io.github.dell-mic/shortselling-vanilla | Stock Short Selling & Short Interest Da… | 1.0.0 | Short selling data: net short positions, short sellers and short interest for E… |
-| 2026-10-11 14:12:47 | [io.github.FarzamHabibi/prodcheck](https://github.com/FarzamHabibi/pre-production-checklist) |  | 1.20.0 | 4,441 pre-production checks: security, performance, scale, integrations, post-l… |
-| 2026-10-11 14:13:18 | dev.docmorph/docmorph-studio | DocMorph Studio | 1.0.0 | Render Mermaid diagrams, Markdown to PDF and outlines, image OCR, and media met… |
-| 2026-10-11 14:15:28 | com.anpheros/fhir | Anpheros FHIR | 0.1.0 | HL7 FHIR R4 health-data API for AI agents: free sandbox, 30 synthetic patients,… |
-| 2026-10-11 14:15:33 | [io.github.qmmughal/titan-email-mcp](https://github.com/qmmughal/titan-email-mcp) |  | 1.0.2 | MCP server for Titan Email (IMAP/SMTP) — read, search, and send mail via Claude. |
-| 2026-10-11 14:16:24 | [center.ostrov/public-api](https://github.com/iia-arg/ostrov-public-api) | Ostrov retreat center | 0.2.0 | Public retreat information, calendars and preliminary accommodation quotes for… |
-| 2026-10-11 14:20:22 | br.com.trainerconnect/personal-trainer | Trainer Connect | 1.0.0 | Manage students, workouts, appointments and payments through your personal trai… |
+| 2026-10-11 14:21:13 | [io.github.ExpertVagabond/solana](https://github.com/ExpertVagabond/solana-mcp-server.git) |  | 1.1.1 | Solana MCP server for wallet, transactions & programs |
+| 2026-10-11 14:21:19 | [io.github.Pavelsiba/yandex-direct-mcp-plus](https://github.com/Pavelsiba/yandex-direct-mcp-plus) | Яндекс.Директ | 1.8.0 | API Яндекс.Директа v5: кампании, объявления, фразы, ставки, минус-фразы, статис… |
+| 2026-10-11 14:21:53 | [io.github.xplormityai/searchdock-cli](https://github.com/xplormityai/searchdock-cli) |  | 0.1.3 | Read-only Google Search Console analytics, URL inspection and sitemaps via Sear… |
+| 2026-10-11 14:26:17 | com.llcdrop/mcp | LLCDrop | 1.0.0 | Search Florida business filings. Needs an LLCDrop key (Starter, Agency or Enter… |
+| 2026-10-11 14:28:45 | [io.github.DimonSmart/NugetMcpServer](https://github.com/DimonSmart/NugetMcpServer) | NuGet API Inspector | 1.1.10 | Inspect NuGet package APIs, dependencies, metadata, and breaking changes across… |
+| 2026-10-11 14:38:15 | studio.crimp/crimp | Crimp | 1.0.0 | Plan DC electrical systems: find components, calculate circuits, check designs… |
+| 2026-10-11 14:39:09 | io.sigrex/sigrex | Sigrex | 1.0.0 | Create and manage trading strategies, bots, webhooks and signals from any MCP c… |
+| 2026-10-11 14:47:00 | com.founder-pulse/founderpulse | FounderPulse | 1.0.0 | Your AI assistant reads today's one action to find customers, your context, and… |
+| 2026-10-11 14:53:11 | [io.github.horror5how/top11](https://github.com/horror5how/top11) | Top 11 | 1.3.0 | Independent ranked lists of software and services, with a which-one-to-pick ver… |
+| 2026-10-11 14:56:28 | [io.github.Echoqili/ssh-licco](https://github.com/Echoqili/ssh-licco.git) | SSH LICCO MCP Server | 2.7.3 | SSH Model Context Protocol Server - Enable SSH functionality for AI models |
+| 2026-10-11 15:03:13 | [io.github.theone55/jfs](https://github.com/theone55/jfs) | JFSecure | 2.6.0 | Let AI agents use secrets without seeing them: masked output, every use approve… |
+| 2026-10-11 15:09:19 | com.hamloy/hamloy | Hamloy | 1.0.0 | See what every AI agent is doing and what's waiting on you: one to-do list for… |
+| 2026-10-11 15:13:19 | [io.github.aggrete/aggrete](https://github.com/aggrete/aggrete) |  | 0.13.0 | MCP policy proxy: enforces a code of conduct across connectors before the upstr… |
+| 2026-10-11 15:14:05 | [io.github.SanZiNEO/veddata](https://github.com/SanZiNEO/veddata) | veddata | 0.2.0 | MCP server for AI agents: discover a web page's data sources and drive the page… |
+| 2026-10-11 15:16:17 | [com.banditdb/mcp](https://github.com/dynamicpricing-ai/banditdb-python) | BanditDB | 0.3.1 | Persistent decision memory for agents — learns which action works in which cont… |
+| 2026-10-11 15:16:57 | io.github.557tggwysr-ui/golfpriceai | GolfPrice AI | 1.0.0 | Live UK golf equipment prices, price history and genuine price drops from GolfP… |
 
 ## Data source
 

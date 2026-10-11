@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-10-11T14:21:13.381768Z,io.github.ExpertVagabond/solana,,1.1.1,https://github.com/ExpertVagabond/solana-mcp-server.git,,"Solana MCP server for wallet, transactions & programs"
+2026-10-11T14:21:19.945855Z,io.github.Pavelsiba/yandex-direct-mcp-plus,Яндекс.Директ,1.8.0,https://github.com/Pavelsiba/yandex-direct-mcp-plus,,"API Яндекс.Директа v5: кампании, объявления, фразы, ставки, минус-фразы, статистика"
+2026-10-11T14:21:53.501673Z,io.github.xplormityai/searchdock-cli,,0.1.3,https://github.com/xplormityai/searchdock-cli,,"Read-only Google Search Console analytics, URL inspection and sitemaps via SearchDock CLI."
+2026-10-11T14:26:17.476092Z,com.llcdrop/mcp,LLCDrop,1.0.0,,streamable-http,"Search Florida business filings. Needs an LLCDrop key (Starter, Agency or Enterprise plan)."
+2026-10-11T14:28:45.741325Z,io.github.DimonSmart/NugetMcpServer,NuGet API Inspector,1.1.10,https://github.com/DimonSmart/NugetMcpServer,,"Inspect NuGet package APIs, dependencies, metadata, and breaking changes across versions."
+2026-10-11T14:38:15.180934Z,studio.crimp/crimp,Crimp,1.0.0,,streamable-http,"Plan DC electrical systems: find components, calculate circuits, check designs and create drafts."
+2026-10-11T14:39:09.307423Z,io.sigrex/sigrex,Sigrex,1.0.0,,streamable-http,"Create and manage trading strategies, bots, webhooks and signals from any MCP client."
+2026-10-11T14:47:00.973288Z,com.founder-pulse/founderpulse,FounderPulse,1.0.0,,streamable-http,"Your AI assistant reads today's one action to find customers, your context, and logs results."
+2026-10-11T14:53:11.306684Z,io.github.horror5how/top11,Top 11,1.3.0,https://github.com/horror5how/top11,streamable-http,"Independent ranked lists of software and services, with a which-one-to-pick verdict per list."
+2026-10-11T14:56:28.406396Z,io.github.Echoqili/ssh-licco,SSH LICCO MCP Server,2.7.3,https://github.com/Echoqili/ssh-licco.git,,SSH Model Context Protocol Server - Enable SSH functionality for AI models
+2026-10-11T15:03:13.189869Z,io.github.theone55/jfs,JFSecure,2.6.0,https://github.com/theone55/jfs,,"Let AI agents use secrets without seeing them: masked output, every use approved in JFSecure."
+2026-10-11T15:09:19.8632Z,com.hamloy/hamloy,Hamloy,1.0.0,,streamable-http,See what every AI agent is doing and what's waiting on you: one to-do list for agents and your team
+2026-10-11T15:13:19.067081Z,io.github.aggrete/aggrete,,0.13.0,https://github.com/aggrete/aggrete,,MCP policy proxy: enforces a code of conduct across connectors before the upstream is called.
+2026-10-11T15:14:05.198333Z,io.github.SanZiNEO/veddata,veddata,0.2.0,https://github.com/SanZiNEO/veddata,,MCP server for AI agents: discover a web page's data sources and drive the page to reach them.
+2026-10-11T15:16:17.576172Z,com.banditdb/mcp,BanditDB,0.3.1,https://github.com/dynamicpricing-ai/banditdb-python,,Persistent decision memory for agents — learns which action works in which context
+2026-10-11T15:16:57.266376Z,io.github.557tggwysr-ui/golfpriceai,GolfPrice AI,1.0.0,,streamable-http,"Live UK golf equipment prices, price history and genuine price drops from GolfPrice AI."
