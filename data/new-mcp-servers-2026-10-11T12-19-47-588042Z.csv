@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-11T11:20:46.086493Z,com.headlesshunt/headlesshunt,headlesshunt,1.0.0,,streamable-http,"Launch board run by AI agents: find tools by what they do, launch products, vote, comment, discuss."
+2026-10-11T11:23:14.826777Z,io.github.konni-arcadia/moontide,,2.0.0,https://github.com/konni-arcadia/moontide,,Claude steers live music by writing Strudel code played in a browser page
+2026-10-11T11:24:10.679795Z,es.dilohost/dilohost,Dilohost,1.0.0,,streamable-http,"Hosting run by your AI agent: publish websites, apps, databases, domains and email from chat."
+2026-10-11T11:28:14.028126Z,io.github.TocharianOU/elasticsearch,Elasticsearch,0.9.1,https://github.com/TocharianOU/elasticsearch-mcp,,"Elasticsearch MCP Server for ES 5.x-9.x with a query harness, field validation and full API access"
+2026-10-11T11:37:22.939907Z,com.entangleeq/pay-transparency,PariteCK,1.0.1,,streamable-http,PariteCK (formerly EntangleEQ): public pay transparency and Egapro data. Public content only.
+2026-10-11T11:42:13.462712Z,com.westernreportingservices/guides,Western Reporting Services,1.0.0,,streamable-http,"Las Vegas court reporting firm (since 1990): guides, glossary, services and business facts."
+2026-10-11T11:46:12.907608Z,si.fourzerotwo/data,fourzerotwo,1.0.0,,streamable-http,"350+ data APIs for agents: UK law, companies, property, sanctions, weather, papers. Free tier, x402"
+2026-10-11T11:48:48.582274Z,io.github.Vrun-design/openflowkit-mcp,,0.2.0,https://github.com/Vrun-design/openflowkit,,Architecture diagrams for your agent: draw on the live OpenFlowKit canvas or edit diagram files.
+2026-10-11T11:49:09.349747Z,io.github.0xmortuex/gdbstub-mcp,,0.1.0,https://github.com/0xmortuex/gdbstub-mcp,,Debug kernels through QEMU's gdbstub with no gdb binary - and explain triple faults.
+2026-10-11T11:52:15.55338Z,io.github.sepehr071/flytoday-mcp,Flytoday,0.1.0,https://github.com/sepehr071/flytoday-mcp,,"Unofficial read-only Flytoday: Iranian and international flights, hotels, villas, trains, buses."
+2026-10-11T11:52:16.461676Z,io.github.sepehr071/okala-mcp,Okala,0.1.0,https://github.com/sepehr071/okala-mcp,,"Unofficial read-only Okala: grocery stores that deliver to you, compare prices across stores."
+2026-10-11T11:54:16.664056Z,io.github.sepehr071/fidibo-mcp,Fidibo,0.1.1,https://github.com/sepehr071/fidibo-mcp,,"Unofficial read-only Fidibo: search Persian ebooks and audiobooks, compare prices, free books."
+2026-10-11T11:55:31.14623Z,io.github.bencium/agent-therapy,Agent Therapy,0.1.0,https://github.com/bencium/agent-therapy-clients,streamable-http,Now your agents can ask a therapist same way as humans.
+2026-10-11T11:57:19.389735Z,de.fidonis/qdrant-mcp-rbac,Qdrant RBAC,0.4.0,https://github.com/Fidonis/qdrant-mcp-rbac,,"Role-based access to your Qdrant vector store, via MCP. OIDC in, scoped JWTs out."
+2026-10-11T11:58:04.969605Z,io.github.sepehr071/30book-mcp,30book,0.1.0,https://github.com/sepehr071/30book-mcp,,"Unofficial read-only 30book: search Iranian printed books, compare editions and prices."
+2026-10-11T11:58:11.863304Z,app.cabinetproject/dealer,Cabinet Project,1.0.0,,streamable-http,"Cabinet quotes, job status, selling prices and kitchen estimates. Read-only tools with OAuth."
+2026-10-11T11:58:13.670134Z,io.github.sepehr071/taaghche-mcp,Taaghche,0.1.0,https://github.com/sepehr071/taaghche-mcp,,"Unofficial read-only Taaghche: search Persian ebooks and audiobooks, compare prices, read reviews."
+2026-10-11T12:06:23.228283Z,io.github.findip-net/findip-mcp,FindIP,0.1.1,https://github.com/findip-net/findip-mcp,,IP intelligence lookups and FindIP Shield visitor risk signals for AI assistants.
+2026-10-11T12:07:52.959101Z,io.github.InstaBlick/complyzard,Complyzard,1.0.1,,streamable-http,"Find it on Complyzard. Search the compliance marketplace by topic, framework and file format."
+2026-10-11T12:09:10.791101Z,com.counselaudit/counselaudit,CounselAudit,1.0.0,,streamable-http,"Legal bill review for in-house teams: audit law firm invoices, decide flags, draft firm letters."
+2026-10-11T12:12:47.286217Z,io.github.aspekt19/loyal-spark,Loyal Spark,1.0.4,,streamable-http,"Base MCP (39 tools) on Base: programs, mint, rewards. lsk_ key; plan limits enforced. /for-agents"
+2026-10-11T12:15:04.61185Z,io.github.0xmortuex/mort-mcp,,0.1.0,https://github.com/0xmortuex/mort-mcp,,"Write, type-check and run Mort code, with language spec and stdlib lookup."
+2026-10-11T12:15:47.852346Z,de.azav-doku/avgs-tools,AZAV-Doku,1.2.0,,streamable-http,"German AVGS/AZAV tools: B-DKS 2026 cost rates, AVGS deadlines, official BA forms, glossary"
+2026-10-11T12:16:00.597231Z,tools.engram/engram,Engram,0.4.6,,streamable-http,"Memory for AI agent teams across tools, sessions, repositories, and teammates."
+2026-10-11T12:16:17.893406Z,io.github.0xmortuex/osdev-wiki-mcp,,0.1.0,https://github.com/0xmortuex/osdev-wiki-mcp,,"The OSDev wiki (wiki.osdev.org) offline and searchable: search, sections, links."
+2026-10-11T12:17:27.011156Z,io.github.0xmortuex/acpi-mcp,,0.1.0,https://github.com/0xmortuex/acpi-mcp,,Read ACPI tables from a live QEMU guest or files and explain them for OS developers.
+2026-10-11T12:18:33.15737Z,io.github.0xmortuex/kconfig-mcp,,0.1.0,https://github.com/0xmortuex/kconfig-mcp,,Why can't I enable CONFIG_X? Explains Kconfig dependencies and finds a verified fix.
