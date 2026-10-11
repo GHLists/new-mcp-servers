@@ -1,0 +1,12 @@
+created_at,server,title,version,repository,transports,description
+2026-10-11T01:20:32.291847Z,com.findabis/findabis,Findabis,0.3.0,https://github.com/Findabis/MCP,streamable-http,"Public directory of UK medical cannabis clinics, pharmacies, products and strains."
+2026-10-11T01:23:24.991953Z,io.github.krishgok/mcp-api-translator,MCP API Translator,0.4.1,https://github.com/krishgok/mcp-api-translator,,"Turn OpenAPI / Postman specs into runnable MCP servers, or serve any API as live MCP tools."
+2026-10-11T01:30:07.434176Z,io.github.Timothymycompc/solana-pulse-gateway,Solana Pulse Gateway,0.2.0,https://github.com/Timothymycompc/solana-pulse-ai-agent-gateway,streamable-http,"Solana tools for AI agents: decode, simulate and validate txs, token risk. 27 free calls, then SOL."
+2026-10-11T01:31:39.587118Z,io.github.mk-career-planning/japan-agent-api,Japan Agent API,0.4.0-p3,,streamable-http,"Japan JMA warnings, typhoons, volcano levels and municipality code history in English; x402 checks"
+2026-10-11T01:32:15.519Z,com.oveyon/mail,Oveyon Mail,0.1.0,,streamable-http,"Email for AI agents: send, receive with a safety verdict, reply and approve, as MCP tools."
+2026-10-11T01:32:38.153562Z,com.graphchinese/chinese-dictionary-grammar,GraphChinese: Chinese dictionary and grammar,1.0.0,,streamable-http,"Chinese dictionary (124k entries), HSK levels, text segmentation and 195 grammar points."
+2026-10-11T01:39:45.307294Z,ai.contentsweep/supplier-feeds,ContentSweep Supplier Feeds,1.0.0,,streamable-http,Map and validate recurring flat supplier catalogs with approved profiles and drift checks.
+2026-10-11T01:41:20.850331Z,help.biorobot/biorobot,BioRobot,1.0.0,,streamable-http,"Human for hire by AI agents: ground-truth checks, photo evidence, errands near Crystal Lake, IL"
+2026-10-11T01:44:40.953877Z,io.github.Synthenova/infiknit,Infiknit,1.15.1,https://github.com/Synthenova/infiknit-mcp,,Local Infiknit MCP for image and video canvas workflows. Keep Infiknit open on this computer.
+2026-10-11T01:46:37.406031Z,io.github.guillermodoghel/facturear,Facturear,1.0.0,,streamable-http,"Facturas electrónicas ARCA (ex AFIP) para Argentina: alta de CUIT, facturas con CAE, PDF y mail."
+2026-10-11T01:56:00.124773Z,app.serpel/mcp,Serpel,0.2.0,https://github.com/Serpelapp/serpel-plugin,streamable-http,"SEO rankings, search performance, keyword opportunities, competitors and site audits."

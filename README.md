@@ -9,21 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 01:19 UTC
+## Latest list — 2026-10-11 02:20 UTC
 
-New MCP servers published between 2026-10-11 00:19 UTC and 2026-10-11 01:19 UTC.
+New MCP servers published between 2026-10-11 01:19 UTC and 2026-10-11 02:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-11T01-19-20-364478Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-11T02-20-44-728864Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-11 00:42:24 | [io.github.perceivable/a11yscope](https://github.com/perceivable/a11yscope) | A11yScope | 0.1.1 | WCAG 2.2 AA accessibility checks for pages and HTML, run locally in headless Ch… |
-| 2026-10-11 00:55:43 | com.mbdtravel/travel | MBD Travel | 1.0.0 | Read-only MBD Travel catalogue: tours, hotel prices, private transfers and the… |
-| 2026-10-11 00:56:02 | [io.github.Gameye/gameye-mcp](https://github.com/Gameye/gameye-mcp) | Gameye | 0.1.3 | Launch, inspect and stop multiplayer game server sessions on Gameye from any MC… |
-| 2026-10-11 00:57:12 | app.vercel.personalos-kappa/personalos | PersonalOS | 1.0.0 | Build and keep small personal apps (worlds) on a person's PersonalOS wall: logs… |
-| 2026-10-11 01:11:20 | app.belcome/booking | Belcome | 1.0.0 | Find salons, barbershops, spas and med spas on Belcome, see services, prices an… |
-| 2026-10-11 01:13:19 | [io.packetexchange/mcp](https://github.com/PacketExchangeIO/packetexchange-mcp) | PacketExchange | 2.1.0 | SMS, voice calls, OTP verification, phone numbers and wholesale voice routes by… |
-| 2026-10-11 01:19:16 | com.larvabot/larvabot | Larvabot | 1.0.0 | Read-only access to your Larvabot leads and buyer-intent conversations, with dr… |
+| 2026-10-11 01:20:32 | [com.findabis/findabis](https://github.com/Findabis/MCP) | Findabis | 0.3.0 | Public directory of UK medical cannabis clinics, pharmacies, products and strai… |
+| 2026-10-11 01:23:24 | [io.github.krishgok/mcp-api-translator](https://github.com/krishgok/mcp-api-translator) | MCP API Translator | 0.4.1 | Turn OpenAPI / Postman specs into runnable MCP servers, or serve any API as liv… |
+| 2026-10-11 01:30:07 | [io.github.Timothymycompc/solana-pulse-gateway](https://github.com/Timothymycompc/solana-pulse-ai-agent-gateway) | Solana Pulse Gateway | 0.2.0 | Solana tools for AI agents: decode, simulate and validate txs, token risk. 27 f… |
+| 2026-10-11 01:31:39 | io.github.mk-career-planning/japan-agent-api | Japan Agent API | 0.4.0-p3 | Japan JMA warnings, typhoons, volcano levels and municipality code history in E… |
+| 2026-10-11 01:32:15 | com.oveyon/mail | Oveyon Mail | 0.1.0 | Email for AI agents: send, receive with a safety verdict, reply and approve, as… |
+| 2026-10-11 01:32:38 | com.graphchinese/chinese-dictionary-grammar | GraphChinese: Chinese dictionary and gr… | 1.0.0 | Chinese dictionary (124k entries), HSK levels, text segmentation and 195 gramma… |
+| 2026-10-11 01:39:45 | ai.contentsweep/supplier-feeds | ContentSweep Supplier Feeds | 1.0.0 | Map and validate recurring flat supplier catalogs with approved profiles and dr… |
+| 2026-10-11 01:41:20 | help.biorobot/biorobot | BioRobot | 1.0.0 | Human for hire by AI agents: ground-truth checks, photo evidence, errands near… |
+| 2026-10-11 01:44:40 | [io.github.Synthenova/infiknit](https://github.com/Synthenova/infiknit-mcp) | Infiknit | 1.15.1 | Local Infiknit MCP for image and video canvas workflows. Keep Infiknit open on… |
+| 2026-10-11 01:46:37 | io.github.guillermodoghel/facturear | Facturear | 1.0.0 | Facturas electrónicas ARCA (ex AFIP) para Argentina: alta de CUIT, facturas con… |
+| 2026-10-11 01:56:00 | [app.serpel/mcp](https://github.com/Serpelapp/serpel-plugin) | Serpel | 0.2.0 | SEO rankings, search performance, keyword opportunities, competitors and site a… |
 
 ## Data source
 
