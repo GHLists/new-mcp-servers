@@ -1,0 +1,10 @@
+created_at,server,title,version,repository,transports,description
+2026-10-11T05:27:20.345763Z,io.github.ianderso/polish-archives-mcp,Polish Archives Indexes,0.1.0,https://github.com/ianderso/polish-archives-mcp,,"Search Geneteka, the Poznań Project and BaSIA for Polish vital records; fetch archive scans."
+2026-10-11T05:41:04.387335Z,today.theclarity/clarity-today,Clarity Today,1.0.0,,streamable-http,"Clarity Today's briefing, latest stories by desk, search and full source-linked stories."
+2026-10-11T05:43:01.086768Z,io.github.ianderso/gov-gazetteer-mcp,GOV Historical Gazetteer,0.1.0,https://github.com/ianderso/gov-gazetteer-mcp,,"German historical gazetteer GOV: a place's name, Kreis, parish and Standesamt in any year."
+2026-10-11T05:43:02.604233Z,io.github.ianderso/german-archives-mcp,"German Archives (DDB, Baden Standesbücher)",0.1.0,https://github.com/ianderso/german-archives-mcp,,"Search German archive finding aids (DDB, Archivportal-D); read Baden civil registers."
+2026-10-11T05:43:10.192208Z,com.tubegrade/mcp,TubeGrade,1.0.0,,streamable-http,"YouTube research: channel and video stats, transcripts, outlier videos and viral title formats."
+2026-10-11T05:49:51.888546Z,so.rank1/rank1,Rank1,1.0.0,,streamable-http,"Find relevant customer conversations, review reply drafts, and plan content with Rank1."
+2026-10-11T05:56:49.191518Z,com.nanobaselabs.api/nanobase,TDA Logic by NanoBase™: Cosmetic Formulation,1.0.0,,streamable-http,"Build modern nanocosmetics, cold, with TDA logic: the new standard replacing 1940s HLB logic."
+2026-10-11T06:10:11.549107Z,io.github.avivsinai/langfuse-mcp,Langfuse MCP,0.13.0,https://github.com/avivsinai/langfuse-mcp,,Langfuse MCP server for accessing and analyzing telemetry data via natural language
+2026-10-11T06:18:07.181034Z,md.getbody/getbody,GetBody,1.0.0,,streamable-http,"Get real-world tasks done by robots: find, rent and control robots for your human."

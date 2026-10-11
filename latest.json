@@ -2067,6 +2067,7 @@
     "com.nadveo/service-booking",
     "com.naifgravity/diagnostic",
     "com.nannykeeper.www/mcp-server",
+    "com.nanobaselabs.api/nanobase",
     "com.nanostudiopro/studiopro",
     "com.nativeanimation/nativeanimation",
     "com.naxytra/xytara-mcp-executor",
@@ -2783,6 +2784,7 @@
     "com.trymimetic/mimetic",
     "com.tryplayhead/playhead",
     "com.tryverifyemail/verifyemail",
+    "com.tubegrade/mcp",
     "com.tubexperto/tubexperto",
     "com.tulimoa/platform",
     "com.tuskcms/mcp",
@@ -5134,6 +5136,7 @@
     "io.github.autokeren/mcp",
     "io.github.avinash-borse/west-end-motorsports",
     "io.github.avivkeller/umd-mcp",
+    "io.github.avivsinai/langfuse-mcp",
     "io.github.awkoy/notion-mcp-server",
     "io.github.awpthorp/posterly",
     "io.github.awv-informatik/classcad",
@@ -6206,9 +6209,12 @@
     "io.github.ianderso/contentdm-mcp",
     "io.github.ianderso/dpla-catalog-mcp",
     "io.github.ianderso/familysearch-mcp",
+    "io.github.ianderso/german-archives-mcp",
+    "io.github.ianderso/gov-gazetteer-mcp",
     "io.github.ianderso/gramps-evidence-mcp",
     "io.github.ianderso/nara-catalog-mcp",
     "io.github.ianderso/norway-archives-mcp",
+    "io.github.ianderso/polish-archives-mcp",
     "io.github.ianderso/snac-archives-mcp",
     "io.github.ianderso/tna-discovery-mcp",
     "io.github.ianderso/us-places-mcp",
@@ -9020,6 +9026,7 @@
     "markets.tally/mcp",
     "markets.thefloor/club",
     "markets.theriver/the-river",
+    "md.getbody/getbody",
     "md.iasig/mcp",
     "md.static/static-md",
     "md.taskforge/taskforge",
@@ -9326,6 +9333,7 @@
     "so.rails/rolodex",
     "so.rails/tutor",
     "so.rails/unblock",
+    "so.rank1/rank1",
     "so.transcribe/mcp",
     "so.upcheck/upcheck",
     "so.upstream/upstream",
@@ -9400,6 +9408,7 @@
     "to.crosswalk/crosswalk",
     "to.influ/influto",
     "today.nyangi/oneul-nyangi",
+    "today.theclarity/clarity-today",
     "tools.amply/amply",
     "tools.audiolab/audiolab",
     "tools.datadive/datadive",
@@ -9753,11 +9762,11 @@
     "za.co.cryptodecentral/sovereign"
   ],
   "list": {
-    "count": 15,
-    "from": "2026-10-11T04:20:07.523106Z",
-    "path": "data/new-mcp-servers-2026-10-11T05-20-53-667678Z.csv",
-    "to": "2026-10-11T05:20:53.667678Z"
+    "count": 9,
+    "from": "2026-10-11T05:20:53.667678Z",
+    "path": "data/new-mcp-servers-2026-10-11T06-19-08-663208Z.csv",
+    "to": "2026-10-11T06:19:08.663208Z"
   },
   "source_truncated": false,
-  "window": "2026-10-11T05:20:53.667678Z"
+  "window": "2026-10-11T06:19:08.663208Z"
 }
