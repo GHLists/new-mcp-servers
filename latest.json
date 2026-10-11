@@ -439,6 +439,7 @@
     "app.automessage/mcp",
     "app.avatalks/avatalks",
     "app.awardia/awardia",
+    "app.belcome/booking",
     "app.blumee/flowers",
     "app.botgigs/mcp",
     "app.botnotice/mcp",
@@ -643,6 +644,7 @@
     "app.vaultbags/vaultbags",
     "app.vercel.codigo07/human-verification-peru",
     "app.vercel.krankenkasse-copilot/krankenkasse-copilot",
+    "app.vercel.personalos-kappa/personalos",
     "app.vercel.stackfacts/stackfacts",
     "app.veriql/veriql-mcp",
     "app.vidlet/vidlet",
@@ -1801,6 +1803,7 @@
     "com.landingconnect/landingconnect",
     "com.lanyardo/site",
     "com.laraue/boards",
+    "com.larvabot/larvabot",
     "com.lasermaterialscompare/site",
     "com.lastminutedealshq/company-signals",
     "com.launchdistro/launchdistro-mcp",
@@ -1964,6 +1967,7 @@
     "com.matthewduerstock/visiting-minds",
     "com.maximofn/content",
     "com.maxvideoai/maxvideoai",
+    "com.mbdtravel/travel",
     "com.mcpcharts/mcpcharts",
     "com.md-log/md-log-mcp",
     "com.measuredsize/fit",
@@ -3913,6 +3917,7 @@
     "io.github.GIT-access-ntwx/cubby-house",
     "io.github.GRQDigitalCapital/giggy-mcp",
     "io.github.Gadriel-ai/gadriel",
+    "io.github.Gameye/gameye-mcp",
     "io.github.GarAlex/promoshot",
     "io.github.GautamTalksDev/mcp-pin",
     "io.github.Gautamstar/fitfilesize",
@@ -7175,6 +7180,7 @@
     "io.github.pedropaf/burofacil",
     "io.github.pedrozapatadev/facturas-inbox-mcp",
     "io.github.pei-jz/jh-presentation",
+    "io.github.perceivable/a11yscope",
     "io.github.perlmanlegal/special-education-law-decisions",
     "io.github.pete-builds/unifi",
     "io.github.peter4leadson/local-workspace-mcp",
@@ -8541,6 +8547,7 @@
     "io.openwaters/ais",
     "io.optionwhales/options-flow",
     "io.ownkube/ownkube",
+    "io.packetexchange/mcp",
     "io.pagerender/pagerender",
     "io.painbase/painbase",
     "io.pinbridge/pinbridge",
@@ -9691,11 +9698,11 @@
     "za.co.cryptodecentral/sovereign"
   ],
   "list": {
-    "count": 19,
-    "from": "2026-10-10T23:19:19.558907Z",
-    "path": "data/new-mcp-servers-2026-10-11T00-19-51-621608Z.csv",
-    "to": "2026-10-11T00:19:51.621608Z"
+    "count": 7,
+    "from": "2026-10-11T00:19:51.621608Z",
+    "path": "data/new-mcp-servers-2026-10-11T01-19-20-364478Z.csv",
+    "to": "2026-10-11T01:19:20.364478Z"
   },
   "source_truncated": false,
-  "window": "2026-10-11T00:19:51.621608Z"
+  "window": "2026-10-11T01:19:20.364478Z"
 }
