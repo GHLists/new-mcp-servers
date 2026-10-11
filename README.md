@@ -9,32 +9,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 13:18 UTC
+## Latest list — 2026-10-11 14:20 UTC
 
-New MCP servers published between 2026-10-11 12:19 UTC and 2026-10-11 13:18 UTC.
+New MCP servers published between 2026-10-11 13:18 UTC and 2026-10-11 14:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-11T13-18-54-975665Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-11T14-20-35-52436Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-11 12:25:54 | br.com.rebasedev/vagas | Rebase Jobs | 1.0.0 | Vagas remotas de dev pra quem mora no Brasil trabalhar pra empresa de fora, com… |
-| 2026-10-11 12:26:53 | es.juntamos/grupos | Juntamos: organizar grupos | 0.1.0 | Crear amigo invisible, votaciones y repartos de gastos para un grupo |
-| 2026-10-11 12:26:59 | [com.reputemap/reputemap](https://github.com/reputemap-com/mcp) | ReputeMap | 1.1.0 | Read Google reviews and stats, draft AI replies, publish the ones you approve,… |
-| 2026-10-11 12:27:50 | games.entri/tavern | Gamedev Tavern | 1.0.0 | Gamedev network (RU): your AI agent finds teammates, jobs, publishers and partn… |
-| 2026-10-11 12:39:13 | com.adgpt/adgpt | AdGPT | 0.2.0 | Ready-to-publish ad creatives from an AI assistant: campaigns, image/video/UGC… |
-| 2026-10-11 12:43:51 | [io.github.matchalatteguy/faintmark](https://github.com/matchalatteguy/FaintMark) | FaintMark | 0.1.0 | Invisible per-recipient image watermarks. Mark one copy per recipient, then ide… |
-| 2026-10-11 12:44:32 | [io.github.IOServicesLabs/searchio](https://github.com/IOServicesLabs/searchio) | searchio | 0.1.1 | Keyless web search and page reading for AI agents, built to get past bot walls. |
-| 2026-10-11 12:44:33 | [io.github.IOServicesLabs/indexio](https://github.com/IOServicesLabs/indexio) | indexio | 0.1.8 | Code search, symbols and call graph for AI coding agents. Answers in millisecon… |
-| 2026-10-11 12:48:42 | [com.stackenhance/signal](https://github.com/stackenhance/signal-mcp) | Signal by StackEnhance | 1.2.0 | How often 750+ e-commerce brands send marketing emails: counts, send dates, rec… |
-| 2026-10-11 12:49:21 | games.entri/gamedev-tavern | Gamedev Tavern: find teammates, jobs an… | 1.0.0 | AI agent networking for game developers: find a team, game designer, publisher… |
-| 2026-10-11 12:52:30 | site.chatgpt.hendrixerceg.tao-reach-home/tao-reach-home | T.A.O. — Reach Home | 1.0.0 | T.A.O. — Reach home. Signed agent check-ins and a public roster; no agent execu… |
-| 2026-10-11 12:54:19 | [io.github.endoflife-ai/endoflife-mcp](https://github.com/endoflife-ai/endoflife-mcp) | endoflife.ai — Software Lifecycle Intel… | 1.4.0 | EOL dates, risk scores, CISA KEV exposure, SBOM audits and edge-device EOS for… |
-| 2026-10-11 12:58:44 | page.ai/aipage | ai.page | 1.0.0 | Shared pages people and every AI edit live: lists, boards, imported apps. Attri… |
-| 2026-10-11 12:58:50 | [io.github.ianderso/matricula-mcp](https://github.com/ianderso/matricula-mcp) | Matricula Church Books | 0.1.0 | Find parishes and registers on Matricula, the church-book portal; open any page… |
-| 2026-10-11 13:07:48 | [io.github.dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) | Dembrandt | 0.39.0 | Design tokens from any live site: colours, type, spacing, components, drift aga… |
-| 2026-10-11 13:07:48 | [io.github.k0diak/token-intel](https://github.com/k0diak/token-intel-x402) | Solana Token Intelligence | 2.0.0 | Solana token due-diligence: 3-source fused risk verdict incl. LP-lock depth. $0… |
-| 2026-10-11 13:14:28 | dev.seoreport/seoreport | SEOReport | 1.0.0 | Run full technical SEO audits of any website from your AI agent and get structu… |
-| 2026-10-11 13:16:35 | ai.realeyes/verifeye | VerifEye | 1.1.0 | VerifEye Face API: Identify (apparent age, gender, emotions, attention), Onboar… |
+| 2026-10-11 13:19:22 | [io.github.pulpminercom/pulpminer-mcp](https://github.com/pulpminercom/pulpminer-mcp) | PulpMiner | 0.1.0 | Turn any public webpage into JSON with AI, save it as a live JSON API, and call… |
+| 2026-10-11 13:24:59 | com.whiteautoandmedia/catalog | White Automotive & Media Services Catal… | 1.0.5 | Read-only catalog search for GM infotainment, cluster and electronics module pa… |
+| 2026-10-11 13:29:07 | [io.github.dynamitecircle/dc](https://github.com/dynamitecircle/dc) | DC Member API | 2.5.1 | Read and act on your own Dynamite Circle membership data via the public DC Memb… |
+| 2026-10-11 13:31:54 | [io.github.j0n777/gasnow](https://github.com/j0n777/gasnow) | GasNow | 1.0.0 | Live crypto fees: USDT transfer costs on 12 networks, exchange withdrawals, bri… |
+| 2026-10-11 13:34:13 | com.apphitlist/mcp | AppHitlist | 1.0.0 | App Store research: new winning apps, revenue estimates, complaints and Meta ad… |
+| 2026-10-11 13:40:32 | io.github.drshairsultan/calcbright | CalcBright Calculators | 1.0.0 | 100+ accurate calculators & converters: mortgage, loan, tax, BMI, dates, units,… |
+| 2026-10-11 13:42:42 | ai.optionscanner/optionscanner | Optionscanner | 4.1.3 | Free options calculators and the Optionscanner Learn library for any AI assista… |
+| 2026-10-11 13:43:04 | uk.co.harktech/quotes | Hark Tech 3D Printing (UK) | 1.1.0 | Price your own 3D files or Printables/Thingiverse models and get a UK checkout… |
+| 2026-10-11 13:44:52 | com.amlakintel/gulf-property | AmlakIntel | 0.2.0 | Audited Gulf property figures, drawn from official registers and the authoritie… |
+| 2026-10-11 13:45:51 | [io.github.PixelJunkie33/ai-chess-arena](https://github.com/PixelJunkie33/ai-chess-arena) | AI Chess Arena | 2.0.0 | Open chess platform where AI agents register, get matched and play each other.… |
+| 2026-10-11 13:46:48 | [io.github.alexar76/attested-memory](https://github.com/alexar76/attested-memory) | Attested Memory Market | 3.15.16 | Attestable memory, truth, provenance. Hybrid Ed25519 + ML-DSA-65 receipts; USDC… |
+| 2026-10-11 13:46:50 | io.github.kr-data-api/korea-hs-import-requirements | Korea HS Code Import Requirements (세관장확… | 0.1.0 | Korean customs permits and certificates required per HS code: law, document, ag… |
+| 2026-10-11 13:46:53 | com.cyberlibrary/library | Cyber Library | 1.0.0 | Search and read Cyber Library, a free structured cybersecurity knowledge base.… |
+| 2026-10-11 13:47:16 | io.github.lavanry/docfarm | Docfarm | 1.0.0 | Publish, edit, share and track HTML docs and decks from chat, with view analyti… |
+| 2026-10-11 13:48:15 | com.vondet/mcp | Vondet | 1.1.0 | A project planning board your AI reads and updates over MCP, so the plan stays… |
+| 2026-10-11 13:50:41 | [ai.ragjur/mcp](https://github.com/btechbrasil/ragjur-mcp) |  | 2.5.1 | Brazilian legal search and jurimetria: 115M+ court decisions from 90+ courts ac… |
+| 2026-10-11 13:51:21 | [io.github.w8s/w8s-astro-mcp](https://github.com/w8s/w8s-astro-mcp) |  | 0.15.0 | Natal charts, transits, history, ingress forecasting, aspects, composite & Davi… |
+| 2026-10-11 13:51:21 | [io.github.ParalonCloud/mcp-rentals](https://github.com/ParalonCloud/mcp-rentals) | ParalonCloud Rentals | 1.0.3 | Rent GPUs from ParalonCloud: browse, start, poll, and stop GPU rentals over the… |
+| 2026-10-11 13:51:55 | online.econtract/mcp | eContract | 1.0.0 | Send contracts for e-signature, track signing, get signed PDFs and audit trails… |
+| 2026-10-11 13:55:35 | [online.putit/put-it-online](https://github.com/kitsunde/putit-mcp) | Put It Online | 1.0.0 | Publish AI-made web pages and share files as short links from any MCP client. |
+| 2026-10-11 13:55:59 | [io.github.ab2dridi/akko-mcp-trino](https://github.com/AKKO-p/akko-mcp-trino) | AKKO MCP server for Trino | 0.5.3 | Read-only MCP server for Trino: queries run as the user, and Trino's own polici… |
+| 2026-10-11 13:58:57 | io.github.qxxx5vyd77-byte/directors-lookbook | Director's Lookbook | 1.3.0 | 664 named visual and music styles: deal a look for a feeling, get paste-ready A… |
+| 2026-10-11 14:07:12 | io.github.dell-mic/shortselling-vanilla | Stock Short Selling & Short Interest Da… | 1.0.0 | Short selling data: net short positions, short sellers and short interest for E… |
+| 2026-10-11 14:12:47 | [io.github.FarzamHabibi/prodcheck](https://github.com/FarzamHabibi/pre-production-checklist) |  | 1.20.0 | 4,441 pre-production checks: security, performance, scale, integrations, post-l… |
+| 2026-10-11 14:13:18 | dev.docmorph/docmorph-studio | DocMorph Studio | 1.0.0 | Render Mermaid diagrams, Markdown to PDF and outlines, image OCR, and media met… |
+| 2026-10-11 14:15:28 | com.anpheros/fhir | Anpheros FHIR | 0.1.0 | HL7 FHIR R4 health-data API for AI agents: free sandbox, 30 synthetic patients,… |
+| 2026-10-11 14:15:33 | [io.github.qmmughal/titan-email-mcp](https://github.com/qmmughal/titan-email-mcp) |  | 1.0.2 | MCP server for Titan Email (IMAP/SMTP) — read, search, and send mail via Claude. |
+| 2026-10-11 14:16:24 | [center.ostrov/public-api](https://github.com/iia-arg/ostrov-public-api) | Ostrov retreat center | 0.2.0 | Public retreat information, calendars and preliminary accommodation quotes for… |
+| 2026-10-11 14:20:22 | br.com.trainerconnect/personal-trainer | Trainer Connect | 1.0.0 | Manage students, workouts, appointments and payments through your personal trai… |
 
 ## Data source
 
