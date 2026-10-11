@@ -1,0 +1,30 @@
+created_at,server,title,version,repository,transports,description
+2026-10-11T20:23:20.686005Z,io.github.eliazv/scadenzario,Scadenzario,0.1.0,,streamable-http,"Read and create personal deadlines, bills and renewals in your Scadenzario account."
+2026-10-11T20:23:58.709675Z,io.rhinorank.app/rhino-rank,Rhino Rank,1.0.0,,streamable-http,"Quote, order and manage link building and press releases in your Rhino Rank account."
+2026-10-11T20:24:07.709987Z,io.github.iklobato/briar,briar,1.1.73,https://github.com/iklobato/briar,,"Local knowledge store built from GitHub, Jira, Linear and cloud history, served over MCP."
+2026-10-11T20:28:04.915133Z,io.github.qso-graph/qso-graph-contest-mcp,,0.0.1,https://github.com/qso-graph/qso-graph-contest-mcp,,"Contest calendar and rules MCP server: what is running, what is coming, and the rules"
+2026-10-11T20:30:06.684033Z,com.screenshotagent/mcp,ScreenshotAgent,1.0.0,,streamable-http,"Keep docs and help-center screenshots current: find, recapture, mark up and embed them."
+2026-10-11T20:31:01.454618Z,com.snagrelay/snagrelay,SnagRelay,1.0.0,https://github.com/snagrelay/agent-plugin,streamable-http,"Bug reports your coding agent can fix: real element, console errors, failing requests with bodies."
+2026-10-11T20:31:07.613172Z,com.xstocker/agent-mcp,xStocker,0.2.0,,,Build buy/sell orders for tokenized US stocks (xStocks) on Solana. Non-custodial.
+2026-10-11T20:33:00.514855Z,me.remem/bible-memory,Remember Me – Bible Memory,1.0.0,https://github.com/remem-me/bible-memory,streamable-http,"Memorize Bible verses with spaced repetition: add verses, get quizzed, follow a daily reading plan."
+2026-10-11T20:33:02.250066Z,me.remem/collections,Remember Me – Bible Verse Collections,1.1.0,https://gitlab.com/remem-me/server,streamable-http,"Browse Bible verse collections to memorize, in 48 languages. Public and read-only, no sign-in."
+2026-10-11T20:38:50.140166Z,io.github.ProspectAPIs/prospectapis-mcp,ProspectAPIs,0.2.3,https://github.com/ProspectAPIs/prospectapis-mcp,,MCP server for prospectapis.com: funding rounds and cited prospect research briefs.
+2026-10-11T20:41:05.119462Z,ca.acrescout/land,AcreScout,1.0.0,,streamable-http,"Land and acreages for sale across Canada: search by province, region, price, acres and water."
+2026-10-11T20:42:54.497662Z,io.daycal/daycal,Daycal,1.0.0,,streamable-http,"A booking page your AI assistant sets up and keeps right: trips, holidays, focus time, daily limits."
+2026-10-11T20:43:03.899909Z,tools.websitefeedback/website-feedback-tool,Website Feedback Tool,0.1.2,,streamable-http,"Read visual design reviews from live web pages: comments, CSS selectors, styles, console errors."
+2026-10-11T20:45:34.515363Z,io.github.harsh-chandak/shadowjoin,,0.3.0,https://github.com/harsh-chandak/shadowjoin,,"Measure the matches your exact join is silently dropping, and get the rule that fixes each."
+2026-10-11T20:51:57.471233Z,hr.adios/news,Adios: Croatian news,1.0.0,,streamable-http,"Croatian news from every major portal: latest, near any place, daily summaries, story timelines."
+2026-10-11T21:00:31.770052Z,io.paidpilot.api/invoice-tools,PaidPilot Invoice Tools,1.0.0,,streamable-http,"Pay-per-call invoice tools: payment reminders, late fees, payment terms, timesheet to invoice."
+2026-10-11T21:00:50.708834Z,io.github.drhelius/geartowns,Geartowns MCP Server,0.0.1,https://github.com/drhelius/geartowns,,MCP server for the Geartowns FM Towns emulator
+2026-10-11T21:01:44.414471Z,io.github.estevecastells/invokely,Invokely official statistics,1.0.0,,streamable-http; streamable-http,"Query official statistics through MCP, with periods, places and citable sources in every answer."
+2026-10-11T21:05:43.208812Z,ch.drivelab/booking,DriveLab Booking,1.0.0,,streamable-http,"Find Swiss driving lessons, live availability, VKU, first aid and WAB courses; book on the website."
+2026-10-11T21:07:23.765331Z,io.github.webloomhq/engine,WebLoom,0.3.12,https://github.com/webloomhq/engine,,86 tools: drive YOUR real Chrome via CDP + browse/install/publish Threads in chat. webloom.run.
+2026-10-11T21:10:56.418028Z,com.lunarasociety/intelligence,Lunara Intelligence,1.0.0,https://github.com/Lunara-Society/Lunara-Society.github.io,streamable-http,"EU AI Act and SB 942 obligations for AI systems: each date, the article setting it, signed sources"
+2026-10-11T21:11:02.641722Z,co.macrocyber/attack-surface,MacroCyber,1.2.0,,streamable-http,"Scan a site or AI-built app for exposed databases, keys and MCP endpoints, then verify the fixes."
+2026-10-11T21:18:13.900717Z,io.github.twojlogin/awesome-core,Awesome Core,2.0.0,https://github.com/twojlogin/awesome-core,,"Offline catalog of 187k developer tools from 1032 awesome lists: search, explain, facets."
+2026-10-11T21:18:21.185138Z,io.github.twojlogin/mailhunter-pro,MailHunterPro,1.0.0,https://github.com/twojlogin/MailHunterPro,,"Read-only queries on local phishing scan results: findings, IOCs, SPF/DKIM/DMARC."
+2026-10-11T21:19:27.10376Z,io.github.abhishekash/mcp-trace-inspector,AgentHawk,0.2.2,https://github.com/abhishekash/mcp-trace-inspector,,Query OpenTelemetry traces from agent runs through MCP.
+2026-10-11T21:20:14.007779Z,com.corporary/corporary,Corporary,1.0.0,,streamable-http,"French company data: SIREN search, legal profile, financials, changes, groups, filings, scores."
+2026-10-11T21:20:37.571181Z,io.github.estevecastells/ads-lighthouse,Ads Lighthouse MCP,1.0.0,,streamable-http,Access saved Google and Bing brand-search ad observations and reports through Ads Lighthouse.
+2026-10-11T21:20:43.03457Z,io.github.refined-element/lightning-enable-mcp,Lightning Enable MCP Server,2.1.0,https://github.com/refined-element/lightning-enable-mcp,,"AI agent Lightning payments: L402, invoices, wallets, API discovery, budgets, self-serve signup."
+2026-10-11T21:21:21.960661Z,ai.arabickeyboard/name-calligraphy,Arabic Name Calligraphy,1.0.0,,streamable-http,"Writes any name in Arabic and shows it in six calligraphy styles, with meaning and pronunciation."

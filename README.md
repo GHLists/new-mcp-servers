@@ -9,44 +9,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 20:20 UTC
+## Latest list — 2026-10-11 21:21 UTC
 
-New MCP servers published between 2026-10-11 19:20 UTC and 2026-10-11 20:20 UTC.
+New MCP servers published between 2026-10-11 20:20 UTC and 2026-10-11 21:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-11T20-20-58-201384Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-11T21-21-49-705756Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-11 19:21:16 | [io.github.IPGeolocation/ipgeolocation-io-mcp](https://github.com/IPGeolocation/ipgeolocation-io-mcp) | IPGeolocation.io MCP Server | 2.0.1 | IP geolocation, security, ASN, abuse, time zones, astronomy, and user-agent par… |
-| 2026-10-11 19:24:40 | [io.github.pixelsmasher13/gridpath](https://github.com/pixelsmasher13/gridpath) | GridPath | 0.1.9 | Edit real .xlsx files with your agent: live formulas, and you review every chan… |
-| 2026-10-11 19:25:20 | dev.pages.scrapemole/reader | ScrapeMole Reader | 1.0.0 | Pay-per-call web reading via x402 (USDC on Base): page to Markdown, link previe… |
-| 2026-10-11 19:25:21 | dev.pages.scrapemole/domains | ScrapeMole Domains | 1.0.0 | Pay-per-call DNS, WHOIS/RDAP, domain availability and email security via x402 (… |
-| 2026-10-11 19:25:21 | dev.pages.scrapemole/onchain | ScrapeMole Onchain | 1.0.0 | Pay-per-call Base/Ethereum data via x402: Chainlink prices, tokens, balances, t… |
-| 2026-10-11 19:31:38 | [io.github.Mopra/day3](https://github.com/Mopra/day3.app) | day3 | 1.0.0 | Draft email campaigns in day3 from Claude Code, Cursor or VS Code as editable c… |
-| 2026-10-11 19:33:10 | io.github.philpof102-svg/tokenizedblock |  | 1.0.0 | Plan swaps of Coinbase tokenized stocks and TokenizedBlock blocks on Base; your… |
-| 2026-10-11 19:35:25 | [io.github.wiresage/mikrotik-mcp](https://github.com/wiresage/mikrotik-mcp) |  | 0.24.1.0 | MCP server for MikroTik routers: firewall, NAT, routing, DHCP, DNS, WireGuard a… |
-| 2026-10-11 19:35:54 | stream.aidata/aidata | AIdata | 1.0.0 | Google Analytics, Search Console, Ads, CRM, Cloudflare and more for your sites,… |
-| 2026-10-11 19:35:56 | stream.aidata/site-search | AIdata site search | 1.0.0 | Read-only search over the aidata.stream documentation, blog, changelog, pricing… |
-| 2026-10-11 19:39:46 | app.invoicetable/invoice-table | Invoice Table | 0.4.3 | Review invoice records, flag duplicates, validate totals, and prepare spreadshe… |
-| 2026-10-11 19:40:25 | [io.github.BlanketByte/wise-mcp](https://github.com/BlanketByte/wise-mcp) |  | 1.0.0 | Wise balances, card payments, transfers and recipients, plus transfers you appr… |
-| 2026-10-11 19:44:49 | [io.github.omarmhaimdat/pepe](https://github.com/omarmhaimdat/pepe) | pepe | 0.36.1 | Load-test a URL, ping it by phase, ramp to find the capacity, compare runs: JSO… |
-| 2026-10-11 19:46:04 | [io.github.asish-singh/agent-readiness-auditor](https://github.com/asish-singh/agent-readiness-auditor) | Agent Readiness Auditor | 0.5.0 | Audits any website for AI agent readiness and safety, scoring prompt injection… |
-| 2026-10-11 19:48:53 | [io.github.ChelseaKR/gtfs-scorecard](https://github.com/ChelseaKR/gtfs-scorecard) | GTFS Scorecard | 1.5.1 | Read-only GTFS transit feed scorecards: grades, plain-language fixes, and histo… |
-| 2026-10-11 19:55:30 | com.swiftprobate/probate | SwiftProbate | 1.0.0 | Probate help for US executors: county courts, court forms, bank guides, and you… |
-| 2026-10-11 19:56:42 | com.letschatty/whatsapp | Chatty: WhatsApp Business | 1.0.0 | Your WhatsApp Business inbox in Claude or ChatGPT: who's waiting, follow-ups an… |
-| 2026-10-11 19:58:46 | dev.pages.scrapemole/companies | ScrapeMole Companies | 1.0.0 | Pay-per-call x402 SEC EDGAR data: company search, profiles, XBRL financials, fi… |
-| 2026-10-11 19:58:47 | dev.pages.scrapemole/wiki | ScrapeMole Wiki | 1.0.0 | Pay-per-call x402 Wikipedia summaries/search and Wikidata facts, with CC BY-SA… |
-| 2026-10-11 20:01:52 | dev.workers.jeffmarcilliat.proofrun-closed/proofrun |  | 0.1.0 | ProofRun: bounded HTTP acceptance checks for agent deployments. $0.01 USDC per… |
-| 2026-10-11 20:02:08 | com.getvigilia/vigilia | Vigilia | 1.0.0 | Watches your live app, explains every problem in plain language and writes the… |
-| 2026-10-11 20:04:11 | hr.svijet-beba/products | Svijet Beba — katalog dječje opreme | 1.1.0 | Croatian baby & kids catalogue: EUR prices, stock, delivery, variants, specs an… |
-| 2026-10-11 20:04:17 | [io.github.qso-graph/dxe-mcp](https://github.com/qso-graph/dxe-mcp) |  | 0.0.1 | DXpedition tracking MCP server: active and announced expeditions, QSL routes |
-| 2026-10-11 20:04:19 | [io.github.qso-graph/meteor-mcp](https://github.com/qso-graph/meteor-mcp) |  | 0.0.1 | Meteor scatter MCP server: shower timing, radiant windows, live flux and fireba… |
-| 2026-10-11 20:04:21 | [io.github.qso-graph/js8call-mcp](https://github.com/qso-graph/js8call-mcp) |  | 0.0.1 | JS8Call MCP server for HF messaging: decode stream, heard stations, message tra… |
-| 2026-10-11 20:06:54 | [io.github.dremok/gmail-agent](https://github.com/dremok/gmail-agent) | gmail-agent | 0.3.0 | Gmail for AI agents: search, read, download attachments, send, reply, drafts, l… |
-| 2026-10-11 20:11:01 | co.feeder/feeder | Feeder | 1.1.0 | Read, search and organize the RSS feeds you follow in Feeder. Tool calls need F… |
-| 2026-10-11 20:11:43 | [io.github.domaranskyi/ukraine-sanctions-screener-nsdc](https://github.com/domaranskyi/canada-agent-tools) | Ukraine Sanctions Screener (NSDC) | 1.0.0 | Screen names/IDs against Ukraine's NSDC State Sanctions Register (snapshot) via… |
-| 2026-10-11 20:13:12 | ing.whatareyoudo/whatcha | Whatcha | 1.0.0 | Read and write in your Whatcha diaries, including exchange diaries shared with… |
-| 2026-10-11 20:13:24 | [io.github.TomD4vs/prumo](https://github.com/TomD4vs/prumo) |  | 0.9.6 | Checks the context files a coding agent reads against the git index, and report… |
+| 2026-10-11 20:23:20 | io.github.eliazv/scadenzario | Scadenzario | 0.1.0 | Read and create personal deadlines, bills and renewals in your Scadenzario acco… |
+| 2026-10-11 20:23:58 | io.rhinorank.app/rhino-rank | Rhino Rank | 1.0.0 | Quote, order and manage link building and press releases in your Rhino Rank acc… |
+| 2026-10-11 20:24:07 | [io.github.iklobato/briar](https://github.com/iklobato/briar) | briar | 1.1.73 | Local knowledge store built from GitHub, Jira, Linear and cloud history, served… |
+| 2026-10-11 20:28:04 | [io.github.qso-graph/qso-graph-contest-mcp](https://github.com/qso-graph/qso-graph-contest-mcp) |  | 0.0.1 | Contest calendar and rules MCP server: what is running, what is coming, and the… |
+| 2026-10-11 20:30:06 | com.screenshotagent/mcp | ScreenshotAgent | 1.0.0 | Keep docs and help-center screenshots current: find, recapture, mark up and emb… |
+| 2026-10-11 20:31:01 | [com.snagrelay/snagrelay](https://github.com/snagrelay/agent-plugin) | SnagRelay | 1.0.0 | Bug reports your coding agent can fix: real element, console errors, failing re… |
+| 2026-10-11 20:31:07 | com.xstocker/agent-mcp | xStocker | 0.2.0 | Build buy/sell orders for tokenized US stocks (xStocks) on Solana. Non-custodia… |
+| 2026-10-11 20:33:00 | [me.remem/bible-memory](https://github.com/remem-me/bible-memory) | Remember Me – Bible Memory | 1.0.0 | Memorize Bible verses with spaced repetition: add verses, get quizzed, follow a… |
+| 2026-10-11 20:33:02 | [me.remem/collections](https://gitlab.com/remem-me/server) | Remember Me – Bible Verse Collections | 1.1.0 | Browse Bible verse collections to memorize, in 48 languages. Public and read-on… |
+| 2026-10-11 20:38:50 | [io.github.ProspectAPIs/prospectapis-mcp](https://github.com/ProspectAPIs/prospectapis-mcp) | ProspectAPIs | 0.2.3 | MCP server for prospectapis.com: funding rounds and cited prospect research bri… |
+| 2026-10-11 20:41:05 | ca.acrescout/land | AcreScout | 1.0.0 | Land and acreages for sale across Canada: search by province, region, price, ac… |
+| 2026-10-11 20:42:54 | io.daycal/daycal | Daycal | 1.0.0 | A booking page your AI assistant sets up and keeps right: trips, holidays, focu… |
+| 2026-10-11 20:43:03 | tools.websitefeedback/website-feedback-tool | Website Feedback Tool | 0.1.2 | Read visual design reviews from live web pages: comments, CSS selectors, styles… |
+| 2026-10-11 20:45:34 | [io.github.harsh-chandak/shadowjoin](https://github.com/harsh-chandak/shadowjoin) |  | 0.3.0 | Measure the matches your exact join is silently dropping, and get the rule that… |
+| 2026-10-11 20:51:57 | hr.adios/news | Adios: Croatian news | 1.0.0 | Croatian news from every major portal: latest, near any place, daily summaries,… |
+| 2026-10-11 21:00:31 | io.paidpilot.api/invoice-tools | PaidPilot Invoice Tools | 1.0.0 | Pay-per-call invoice tools: payment reminders, late fees, payment terms, timesh… |
+| 2026-10-11 21:00:50 | [io.github.drhelius/geartowns](https://github.com/drhelius/geartowns) | Geartowns MCP Server | 0.0.1 | MCP server for the Geartowns FM Towns emulator |
+| 2026-10-11 21:01:44 | io.github.estevecastells/invokely | Invokely official statistics | 1.0.0 | Query official statistics through MCP, with periods, places and citable sources… |
+| 2026-10-11 21:05:43 | ch.drivelab/booking | DriveLab Booking | 1.0.0 | Find Swiss driving lessons, live availability, VKU, first aid and WAB courses;… |
+| 2026-10-11 21:07:23 | [io.github.webloomhq/engine](https://github.com/webloomhq/engine) | WebLoom | 0.3.12 | 86 tools: drive YOUR real Chrome via CDP + browse/install/publish Threads in ch… |
+| 2026-10-11 21:10:56 | [com.lunarasociety/intelligence](https://github.com/Lunara-Society/Lunara-Society.github.io) | Lunara Intelligence | 1.0.0 | EU AI Act and SB 942 obligations for AI systems: each date, the article setting… |
+| 2026-10-11 21:11:02 | co.macrocyber/attack-surface | MacroCyber | 1.2.0 | Scan a site or AI-built app for exposed databases, keys and MCP endpoints, then… |
+| 2026-10-11 21:18:13 | [io.github.twojlogin/awesome-core](https://github.com/twojlogin/awesome-core) | Awesome Core | 2.0.0 | Offline catalog of 187k developer tools from 1032 awesome lists: search, explai… |
+| 2026-10-11 21:18:21 | [io.github.twojlogin/mailhunter-pro](https://github.com/twojlogin/MailHunterPro) | MailHunterPro | 1.0.0 | Read-only queries on local phishing scan results: findings, IOCs, SPF/DKIM/DMAR… |
+| 2026-10-11 21:19:27 | [io.github.abhishekash/mcp-trace-inspector](https://github.com/abhishekash/mcp-trace-inspector) | AgentHawk | 0.2.2 | Query OpenTelemetry traces from agent runs through MCP. |
+| 2026-10-11 21:20:14 | com.corporary/corporary | Corporary | 1.0.0 | French company data: SIREN search, legal profile, financials, changes, groups,… |
+| 2026-10-11 21:20:37 | io.github.estevecastells/ads-lighthouse | Ads Lighthouse MCP | 1.0.0 | Access saved Google and Bing brand-search ad observations and reports through A… |
+| 2026-10-11 21:20:43 | [io.github.refined-element/lightning-enable-mcp](https://github.com/refined-element/lightning-enable-mcp) | Lightning Enable MCP Server | 2.1.0 | AI agent Lightning payments: L402, invoices, wallets, API discovery, budgets, s… |
+| 2026-10-11 21:21:21 | ai.arabickeyboard/name-calligraphy | Arabic Name Calligraphy | 1.0.0 | Writes any name in Arabic and shows it in six calligraphy styles, with meaning… |
 
 ## Data source
 
