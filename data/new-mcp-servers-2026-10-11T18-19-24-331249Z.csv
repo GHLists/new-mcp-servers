@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-10-11T17:28:49.964997Z,io.github.micallb/dietary-supplement-analysis,Dietary Supplement Analysis (NIH data),0.12.3,https://github.com/micallb/dietary-supplement-analysis,streamable-http,"NIH supplement checks: upper limits, drug and herb interactions, FDA recalls, with citations."
+2026-10-11T17:32:08.973143Z,io.github.huseyincig/nc-mcp,Node Command,0.26.108,https://github.com/huseyincig/nc-platform,streamable-http,"Remote MCP server exposing your Node Command fleet (files, shell, processes, browser) to AI hosts."
+2026-10-11T17:33:47.267225Z,io.github.python1/verified-memory,Verified Memory,0.1.0,https://github.com/python1/data-lore-hive,,"Read-only, offline search over a checksum-verified memory pack, with exact cited quotes"
+2026-10-11T17:35:36.030937Z,io.github.darrylmosher/mailroom,,1.0.1,https://github.com/darrylmosher/mailroom,,"Self-hosted gateway between your iCloud mailbox and your AI assistant, with safety built in"
+2026-10-11T17:37:25.287964Z,com.opedd/opedd-mcp,Opedd — Licensed Content for AI,0.11.0,https://github.com/Opedd/opedd-mcp,streamable-http,"Licensed, rights-cleared content for AI agents - verifiable license keys + EU AI Act attestation."
+2026-10-11T17:39:03.8293Z,io.github.Cryptomoon7/codeactu,Code actu,1.1.0,,streamable-http,"Codes de parrainage vérifiés à la source (France et francophonie) : code, primes, conditions."
+2026-10-11T17:46:05.372476Z,app.toolvet/toolvet,ToolVet,1.0.0,,streamable-http,The vetted directory of paid APIs and MCP servers for AI agents.
+2026-10-11T17:49:24.601295Z,io.github.Kder974/address-validator,Address Validator,1.0.0,https://github.com/Kder974/address-validator,streamable-http,"Valide une adresse de livraison : normalisation, geocodage, score de livrabilite. x402."
+2026-10-11T17:52:24.853386Z,com.getshareglow/mcp,Shareglow,0.1.0,https://github.com/Brandon-35/shareglow-mcp,streamable-http,"Shareglow MCP server: scan link previews, generate OG images, short links and stats."
+2026-10-11T17:53:13.259886Z,tips.suggestionbox/suggestionbox,SuggestionBox.tips,1.0.0,,streamable-http,"Leave a private suggestion, problem or compliment for any business. Only the business reads it."
+2026-10-11T17:54:32.25969Z,events.im-in/sign-up-sheets,I'm In! Sign-up Sheets,1.0.0,,streamable-http,"Turn an email, notes or a flyer into a free sign-up sheet with reminders and waitlists."
+2026-10-11T17:58:28.356083Z,app.vendojo/vendojo,Vendojo,1.0.0,,streamable-http,Tu asistente de IA configura tu negocio y crea escenarios de práctica de ventas en Vendojo.
+2026-10-11T17:59:03.647065Z,ai.celesto/mcp,Celesto Cloud Computers,1.0.0,https://github.com/CelestoAI/backend,streamable-http,"Hosted MCP for Celesto cloud computers: create, exec, ports, start/stop/delete."
+2026-10-11T17:59:33.996912Z,io.github.x-tkn/x-tkn-mcp,,1.0.1,,,"Lets an AI agent hand a secret to a person as a one-time link, with no way to read it back."
+2026-10-11T17:59:51.354549Z,io.github.csitte/mailwarden,,0.22.1,https://github.com/csitte/mailwarden,,"Gmail MCP server for email triage: search, labels, archive, trash, unsubscribe, snooze."
+2026-10-11T18:00:28.02335Z,io.github.ermultimidia/deepsfetch,DeepSFetch,2.0.1,https://github.com/ermultimidia/deepsfetch-developer-kit,streamable-http,"Web scraping, extraction and search for AI agents. Hosted MCP with workspace API keys."
+2026-10-11T18:00:56.415595Z,io.github.signerless/tolpo,tolpo,0.1.0,https://github.com/signerless/tolpo,,Local-first control of TP-Link Tapo smart-home devices for AI agents
+2026-10-11T18:03:23.652326Z,io.github.dell-mic/insider-trades-vanilla,Insider Trades & Directors Dealings Data,1.0.0,,streamable-http; streamable-http,Insider trades & directors dealings data for US (SEC) & German (BaFin) stocks: insider buys & sells.
+2026-10-11T18:05:03.520913Z,io.github.smbcloudXYZ/ascapi,The App Stores Cooolest API,0.2.0,https://github.com/smbcloudXYZ/smbcloud-ascapi,,"Forget Fastlane, this is the app stores coolest API."
+2026-10-11T18:09:45.62614Z,ch.funkyjobs/jobs,FunkyJobs Stellensuche,1.0.0,,streamable-http,Search current job listings in Switzerland on funkyjobs.ch and fetch a single listing by id.
+2026-10-11T18:12:27.203991Z,ai.litescribe/litescribe,LiteScribe,1.0.0,,streamable-http,"Search, read and act on your LiteScribe recordings: transcripts, summaries, action items, quotes."
+2026-10-11T18:13:58.240768Z,io.github.chariot-ventures/dietary-supplement-analysis,Dietary Supplement Analysis (NIH data),0.12.4,https://github.com/chariot-ventures/dietary-supplement-analysis,streamable-http,"NIH supplement checks: upper limits, drug and herb interactions, FDA recalls, with citations."
+2026-10-11T18:17:22.302089Z,com.applytovolunteer/apply2volunteer,Apply2Volunteer,1.0.0,,streamable-http,Preview or grade a volunteer form. No API key. Free sign-up to publish.
+2026-10-11T18:18:41.775711Z,com.shotfleet/shotfleet,shotfleet,0.1.9,https://github.com/noloman/shotfleet-skills,,Capture and check localized App Store and Google Play screenshots from your AI agent.
