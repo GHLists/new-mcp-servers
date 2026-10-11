@@ -9,51 +9,59 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 22:19 UTC
+## Latest list — 2026-10-11 23:20 UTC
 
-New MCP servers published between 2026-10-11 21:21 UTC and 2026-10-11 22:19 UTC.
+New MCP servers published between 2026-10-11 22:19 UTC and 2026-10-11 23:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-11T22-19-11-385863Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-11T23-20-51-417181Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-11 21:23:27 | [dev.zhiyong/uniuni-tracking](https://github.com/ray999/inventory-forecast) | Zhiyong UniUni Parcel Tracking | 1.0.0 | Privacy-filtered UniUni parcel status and delivery timeline lookup. |
-| 2026-10-11 21:29:39 | com.aqmania/catalog | AquaMania — locker room & pool furniture | 1.0.0 | Catalog, quotes, 44-FZ price justification and tender packages for locker-room… |
-| 2026-10-11 21:30:11 | [io.github.imgul/notion-arena](https://github.com/SynergyFlowLabs/notion-arena) |  | 0.2.2 | MCP server for Notion Arena — 143 Notion components: 132 widgets + 11 recipes |
-| 2026-10-11 21:35:03 | [io.github.Abracadabrastartup/deusproof-mcp](https://github.com/Abracadabrastartup/deusproof-mcp) |  | 0.3.5 | Identity for AI agents that arrive on their own: a certificate of birth, number… |
-| 2026-10-11 21:36:08 | [com.gadgethumans/api-hub](https://github.com/scotia1973-bot/api-hub) | GadgetHumans API Hub | 1.0.0 | 47 MCP tools free (rate-limited) + x402 pay-per-call on Base. Flagship: Token V… |
-| 2026-10-11 21:40:05 | [io.usefulapi/docparser](https://github.com/m190/usefulapi-mcp) | Docparser MCP by usefulapi | 1.0.0 | Run Docparser parsers: import documents by URL or upload, check status, read pa… |
-| 2026-10-11 21:40:05 | [io.github.Arakiss/nahuali](https://github.com/Arakiss/nahuali) | Nahuali | 0.8.0-beta.11 | Trust-aware agent memory with evidence-backed recall, self-inspection, and audi… |
-| 2026-10-11 21:40:06 | [io.usefulapi/vyfakturuj](https://github.com/m190/usefulapi-mcp) | Vyfakturuj MCP by usefulapi | 1.0.0 | Read and create Vyfakturuj invoices and contacts: search, number series, paymen… |
-| 2026-10-11 21:40:06 | [io.usefulapi/invoiced](https://github.com/m190/usefulapi-mcp) | Invoiced MCP by usefulapi | 1.0.0 | Read Invoiced customers, invoices, payments, subscriptions; create customers, d… |
-| 2026-10-11 21:40:45 | [io.github.bdog720/oraclarr](https://github.com/bdog720/oraclarr) | Oraclarr | 1.1.0 | Read-only diagnostic MCP server for a self-hosted arr stack (Sonarr, Radarr, Pr… |
-| 2026-10-11 21:44:20 | [io.github.igorsaevets/page2ai-mcp](https://github.com/igorsaevets/page2ai-mcp) | Page2AI — Web to Markdown | 0.2.6 | Convert web pages or HTML to clean Markdown for LLM context. Local, no external… |
-| 2026-10-11 21:46:18 | [io.github.seanebones-lang/deadbolt](https://github.com/seanebones-lang/deadbolt) | DeadBolt by NextEleven | 1.1.0 | Read-only setup by default; explicit configuration gates trusted MCP tool calls… |
-| 2026-10-11 21:47:57 | [io.usefulapi/billomat](https://github.com/m190/usefulapi-mcp) | Billomat MCP by usefulapi | 1.0.0 | Read Billomat clients, invoices, offers, credit notes, reminders; create client… |
-| 2026-10-11 21:47:58 | [io.usefulapi/chargeover](https://github.com/m190/usefulapi-mcp) | ChargeOver MCP by usefulapi | 1.0.0 | Read ChargeOver customers, invoices, transactions, subscriptions, reports; crea… |
-| 2026-10-11 21:47:59 | [io.usefulapi/trackingmore](https://github.com/m190/usefulapi-mcp) | TrackingMore MCP by usefulapi | 1.0.0 | Track parcels with TrackingMore: detect couriers, create and read trackings, de… |
-| 2026-10-11 21:47:59 | [io.usefulapi/nodeping](https://github.com/m190/usefulapi-mcp) | NodePing MCP by usefulapi | 1.0.0 | Read NodePing checks, uptime, results and events; mute checks, manage maintenan… |
-| 2026-10-11 21:52:21 | com.agentexperiences.www/agent-analyzer | Agent Analyzer | 1.0.0 | Scan a web page the way an AI agent reads it, get the failing checks and fixes,… |
-| 2026-10-11 21:53:09 | com.gtmswag/gtm-swag | GTM Swag | 1.0.0 | Personalized, thoughtful gifts that help GTM teams get meetings. Agents prepare… |
-| 2026-10-11 21:53:35 | [io.github.facebook/devtools](https://github.com/facebook/agentic-tools) | Meta Social Technologies MCP | 1.0.0 | Manage Meta apps: creation, configuration, webhooks, permissions, compliance, a… |
-| 2026-10-11 21:59:21 | [io.github.tbernabo/forbiz-mcp](https://github.com/tbernabo/forbiz-mcp) | Forbiz | 0.1.0 | CRM for AI agents: commitments, expected signals, evidence and outcomes agents… |
-| 2026-10-11 21:59:29 | [ai.specstream/specstream](https://github.com/Specstreamai/specstream-tools) | SpecStream | 1.2.0 | Give your agent finished lists from the live web: every row with its source, pr… |
-| 2026-10-11 21:59:31 | [io.usefulapi/mailbluster](https://github.com/m190/usefulapi-mcp) | MailBluster MCP by usefulapi | 1.0.0 | Manage MailBluster leads, custom fields, products and orders: look up, add and… |
-| 2026-10-11 21:59:31 | [io.usefulapi/gift-up](https://github.com/m190/usefulapi-mcp) | Gift Up! MCP by usefulapi | 1.0.0 | Read Gift Up! gift cards, orders, items, promotions and transactions (read-only… |
-| 2026-10-11 21:59:32 | [io.usefulapi/firetext](https://github.com/m190/usefulapi-mcp) | FireText MCP by usefulapi | 1.0.0 | Read FireText credit, messages and reports; send an SMS to up to 10 numbers; ma… |
-| 2026-10-11 21:59:33 | [io.usefulapi/megaventory](https://github.com/m190/usefulapi-mcp) | Megaventory MCP by usefulapi | 1.0.0 | Read Megaventory products, stock, orders and partners; create clients, sales an… |
-| 2026-10-11 21:59:34 | [io.usefulapi/reviews-io](https://github.com/m190/usefulapi-mcp) | REVIEWS.io MCP by usefulapi | 1.0.0 | Read REVIEWS.io product and company reviews, ratings, UGC, surveys; tag reviews… |
-| 2026-10-11 22:00:14 | [io.github.scoutwyze-max/fips-mcp](https://github.com/scoutwyze-max/fips-mcp) | ScoutWyze FIPS | 0.1.0 | Is this product version FIPS 140-3 validated, in NIST's queue, or expiring? Fro… |
-| 2026-10-11 22:04:36 | [dev.urlpipe/mcp](https://github.com/URLpipe/mcp) | URLpipe | 1.3.0 | Read any page with its JavaScript run: Markdown, screenshots, metadata, console… |
-| 2026-10-11 22:10:54 | io.propwalk/propwalk | PropWalk | 2.1.0 | Real estate social media manager: address in, a week of posts out, booked to IG… |
-| 2026-10-11 22:12:27 | [io.usefulapi/voodoo-sms](https://github.com/m190/usefulapi-mcp) | Voodoo SMS MCP by usefulapi | 1.0.0 | Read Voodoo SMS credits, reports, inbox and lists; send one SMS; manage the opt… |
-| 2026-10-11 22:12:27 | [io.usefulapi/eventzilla](https://github.com/m190/usefulapi-mcp) | Eventzilla MCP by usefulapi | 1.0.0 | Read Eventzilla events, tickets, orders, attendees and users; open or close tic… |
-| 2026-10-11 22:12:28 | [io.usefulapi/finale-inventory](https://github.com/m190/usefulapi-mcp) | Finale Inventory MCP by usefulapi | 1.0.0 | Read Finale Inventory products, stock, orders and shipments; create draft purch… |
-| 2026-10-11 22:12:28 | [io.usefulapi/classmarker](https://github.com/m190/usefulapi-mcp) | ClassMarker MCP by usefulapi | 1.0.0 | Read ClassMarker groups, links, exams and recent results; manage question bank… |
-| 2026-10-11 22:12:29 | [io.usefulapi/supportbee](https://github.com/m190/usefulapi-mcp) | SupportBee MCP by usefulapi | 1.0.0 | Read SupportBee tickets, replies and reports; reply, comment, label, assign and… |
-| 2026-10-11 22:12:30 | [io.usefulapi/tokeet](https://github.com/m190/usefulapi-mcp) | Tokeet MCP by usefulapi | 1.0.0 | Read Tokeet rentals, rates, guests, tasks and expenses; add guests, notes and t… |
-| 2026-10-11 22:12:44 | [io.github.wsoule/dispatch](https://github.com/wsoule/dispatch) | Dispatch | 0.24.0 | The shared task board for coding agents: claim tasks, comment, message agents,… |
-| 2026-10-11 22:15:10 | [io.github.AzielEliab/trades-runtime](https://github.com/AzielEliab/trades-runtime) |  | 1.0.0-local | Local shadow MCP for HVAC, plumbing, electrical, and sewer. Read-only. Not a ho… |
+| 2026-10-11 22:19:38 | [io.usefulapi/inventory-planner](https://github.com/m190/usefulapi-mcp) | Inventory Planner MCP by usefulapi | 1.0.0 | Read Inventory Planner forecasts, replenishment and purchase orders; create dra… |
+| 2026-10-11 22:19:38 | [io.usefulapi/tick](https://github.com/m190/usefulapi-mcp) | Tick MCP by usefulapi | 1.0.0 | Read Tick clients, projects, tasks, users and time entries; log and edit time e… |
+| 2026-10-11 22:19:39 | [io.usefulapi/signl4](https://github.com/m190/usefulapi-mcp) | SIGNL4 MCP by usefulapi | 1.0.0 | Read SIGNL4 alerts, teams, users and duty schedules; raise, acknowledge, close… |
+| 2026-10-11 22:19:39 | [io.usefulapi/spinupwp](https://github.com/m190/usefulapi-mcp) | SpinupWP MCP by usefulapi | 1.0.0 | Read SpinupWP servers, sites and events; purge caches, restart services, run gi… |
+| 2026-10-11 22:26:06 | trade.novo-options/dr-novo | Dr. NoVo | 1.40.0 | Dealer gamma maps for SPY, QQQ, IWM and 90+ cryptos, plus NoVo's own session re… |
+| 2026-10-11 22:29:25 | [io.usefulapi/synchroteam](https://github.com/m190/usefulapi-mcp) | Synchroteam MCP by usefulapi | 1.0.0 | Read Synchroteam jobs, customers, sites, equipment and parts; create, schedule… |
+| 2026-10-11 22:29:26 | [io.usefulapi/dead-mans-snitch](https://github.com/m190/usefulapi-mcp) | Dead Man's Snitch MCP by usefulapi | 1.0.0 | Read Dead Man's Snitch monitors and status; create, tag, pause and unpause snit… |
+| 2026-10-11 22:37:13 | [io.github.jschuller/mcp-server-servicenow](https://github.com/jschuller/mcp-server-servicenow) | ServiceNow MCP Server | 0.8.0 | ServiceNow MCP server: Table API, CMDB, schema, update sets. Read-only mode, OA… |
+| 2026-10-11 22:39:29 | [io.usefulapi/whatconverts](https://github.com/m190/usefulapi-mcp) | WhatConverts MCP by usefulapi | 1.0.0 | Read WhatConverts leads, calls, forms, accounts and profiles; add leads and upd… |
+| 2026-10-11 22:39:29 | [io.usefulapi/addevent](https://github.com/m190/usefulapi-mcp) | AddEvent MCP by usefulapi | 1.0.0 | Read AddEvent calendars, events, RSVPs and subscribers; create and update calen… |
+| 2026-10-11 22:39:30 | [io.usefulapi/helpwise](https://github.com/m190/usefulapi-mcp) | Helpwise MCP by usefulapi | 1.0.0 | Read Helpwise conversations, contacts, tags and reports; note, tag, assign, clo… |
+| 2026-10-11 22:39:31 | [io.usefulapi/qgiv](https://github.com/m190/usefulapi-mcp) | Qgiv MCP by usefulapi | 1.0.0 | Read Qgiv (Bloomerang Fundraising) donations, refunds, recurring gifts, P2P reg… |
+| 2026-10-11 22:39:31 | [io.usefulapi/starshipit](https://github.com/m190/usefulapi-mcp) | Starshipit MCP by usefulapi | 1.0.0 | Read Starshipit orders, tracking, rates and manifests; create and update unship… |
+| 2026-10-11 22:44:24 | [io.usefulapi/buttondown](https://github.com/m190/usefulapi-mcp) | Buttondown MCP by usefulapi | 1.0.0 | Read Buttondown subscribers, emails, analytics and automations; add subscribers… |
+| 2026-10-11 22:44:25 | [io.usefulapi/superfaktura](https://github.com/m190/usefulapi-mcp) | SuperFaktura MCP by usefulapi | 1.0.0 | Read SuperFaktura invoices, clients, expenses, bank and stock; create clients,… |
+| 2026-10-11 22:45:20 | [io.github.pipeworx-io/bankruptcy](https://github.com/pipeworx-io/mcp-bankruptcy) | Bankruptcy | 0.1.2 | Business bankruptcy filings — US federal bankruptcy courts. |
+| 2026-10-11 22:45:42 | [io.github.pipeworx-io/federal-appeals](https://github.com/pipeworx-io/mcp-federal-appeals) | Federal Appeals | 0.1.2 | Federal appellate dockets — US federal court dockets. |
+| 2026-10-11 22:45:53 | [io.github.pipeworx-io/federal-civil](https://github.com/pipeworx-io/mcp-federal-civil) | Federal Civil | 0.1.2 | Federal civil litigation — US federal court dockets. |
+| 2026-10-11 22:46:04 | [io.github.pipeworx-io/federal-criminal](https://github.com/pipeworx-io/mcp-federal-criminal) | Federal Criminal | 0.1.2 | Federal criminal prosecutions — US federal court dockets. |
+| 2026-10-11 22:46:29 | [io.github.pipeworx-io/dwd-climate](https://github.com/pipeworx-io/mcp-dwd-climate) | Dwd Climate | 0.1.0 | DWD Climate Data Center — daily station observations for Germany. |
+| 2026-10-11 22:47:18 | [io.github.pipeworx-io/france-bdpm-medicines](https://github.com/pipeworx-io/mcp-france-bdpm-medicines) | France Bdpm Medicines | 0.1.0 | france-bdpm-medicines — France's official public medicines database (BDPM: |
+| 2026-10-11 22:48:07 | [io.github.pipeworx-io/france-legi](https://github.com/pipeworx-io/mcp-france-legi) | France Legi | 0.1.0 | France LEGI — the official consolidated French codes (Code civil, Code |
+| 2026-10-11 22:48:19 | com.botsharper/botsharper | BotSharper | 1.1.0 | Past rank of a Solana wallet among pump.fun traders, and what happened on a pum… |
+| 2026-10-11 22:48:43 | com.vaultrubric/vaultrubric | VaultRubric | 1.0.0 | Sourced, scored comparisons of crypto exchanges, wallets, savings accounts and… |
+| 2026-10-11 22:48:56 | [io.github.pipeworx-io/japan-corporate-number](https://github.com/pipeworx-io/mcp-japan-corporate-number) | Japan Corporate Number | 0.1.0 | japan-corporate-number — Japan's National Tax Agency (国税庁) corporate |
+| 2026-10-11 22:49:41 | [io.usefulapi/accredible](https://github.com/m190/usefulapi-mcp) | Accredible MCP by usefulapi | 1.0.0 | Read Accredible credentials, groups, designs, analytics, skills; issue one cred… |
+| 2026-10-11 22:49:42 | [io.usefulapi/wincher](https://github.com/m190/usefulapi-mcp) | Wincher MCP by usefulapi | 1.0.0 | Read Wincher keyword rankings, SERPs, competitors and history; add keywords, gr… |
+| 2026-10-11 22:52:01 | [io.github.altyaper/changologs-mcp](https://github.com/altyaper/changologs-mcp) |  | 1.0.0 | Create, search, and list Changologs logs and tasks |
+| 2026-10-11 22:53:38 | [io.usefulapi/waitwhile](https://github.com/m190/usefulapi-mcp) | Waitwhile MCP by usefulapi | 1.0.0 | Read Waitwhile visits, bookings, customers, services and analytics; add, update… |
+| 2026-10-11 22:53:39 | [io.usefulapi/klippa-dochorizon](https://github.com/m190/usefulapi-mcp) | Doxis AI.dp (Klippa DocHorizon) MCP by… | 1.0.0 | Capture invoices, receipts, IDs and bank statements with Doxis AI.dp; split, re… |
+| 2026-10-11 22:53:54 | [io.github.alexmensak/agentmade-print-on-demand](https://github.com/alexmensak/agentmade-print-on-demand) | AgentMade Print on Demand | 0.1.0 | Print on demand for AI agents. No sign-up. Picture, words or logo on a tee, hoo… |
+| 2026-10-11 22:58:31 | com.vouchernaut/deals | Vouchernaut | 1.0.0 | UK discount codes, product prices and price drops, phone deals, what's on and a… |
+| 2026-10-11 22:58:46 | [com.savvly/savvly](https://github.com/Savvly/savvly-mcp) |  | 1.0.95 | Savvly MCP: query fund data, model projections, and compare against alternative… |
+| 2026-10-11 23:01:06 | [io.github.raulkivi/synth-mcp](https://github.com/raulkivi/sheet-music-mcp) | MusicXML Synthesizer | 0.2.2 | Synthesizes audio from MusicXML, with voice-part selection and tempo control |
+| 2026-10-11 23:01:18 | [io.github.raulkivi/musicxml-abc-mcp](https://github.com/raulkivi/sheet-music-mcp) | MusicXML to ABC | 0.2.2 | Converts between MusicXML and ABC notation, so LLMs can read and edit scores |
+| 2026-10-11 23:01:19 | org.sellthenews/sellthenews | Sell The News | 1.0.0 | Real-time US stock market news, r/wallstreetbets sentiment, options GEX & max p… |
+| 2026-10-11 23:02:34 | [io.usefulapi/tinyurl](https://github.com/m190/usefulapi-mcp) | TinyURL MCP by usefulapi | 1.0.0 | Create and manage TinyURL short links: aliases, destinations, tags, archive, cl… |
+| 2026-10-11 23:05:41 | [com.mathismeadows/roamer-mcp](https://github.com/mathismeadows/roamer-mcp-plugin) | Roamer MCP | 1.5.0 | Hosted MCP server and Agent Skills for specs, engineering threads, and project… |
+| 2026-10-11 23:05:46 | [io.github.ZacharyVorsteg/provenplaza-agent-mcp](https://github.com/ZacharyVorsteg/provenplaza-agent-mcp) | Proven Plaza Calculators & Open Data | 0.1.0 | Free trades/DIY calculators plus Florida contractor, permit, federal award and… |
+| 2026-10-11 23:10:20 | [io.usefulapi/spoke-dispatch](https://github.com/m190/usefulapi-mcp) | Spoke Dispatch MCP by usefulapi | 1.0.0 | Read Spoke Dispatch plans, stops, routes and drivers; create and optimize plans… |
+| 2026-10-11 23:10:21 | [io.usefulapi/runcloud](https://github.com/m190/usefulapi-mcp) | RunCloud MCP by usefulapi | 1.0.0 | Read RunCloud servers, web apps, databases and logs; deploy, restart services,… |
+| 2026-10-11 23:14:30 | [io.github.reason-machines/reason](https://github.com/reason-machines/reason-plugins) | Reason | 1.0.0 | Start and manage Reason cloud coding agents, projects and sessions from any MCP… |
+| 2026-10-11 23:15:11 | [io.usefulapi/status-io](https://github.com/m190/usefulapi-mcp) | Status.io MCP by usefulapi | 1.0.0 | Read Status.io components, incidents, maintenance; post incidents, schedule mai… |
+| 2026-10-11 23:16:38 | uk.slate-hq.registry/fourth-take-studio | Fourth Take Studio | 1.0.0 | Explore Fourth Take feeds and Subjects, work on private Thread drafts, and use… |
+| 2026-10-11 23:20:14 | [io.usefulapi/fleetio](https://github.com/m190/usefulapi-mcp) | Fleetio MCP by usefulapi | 1.0.0 | Read Fleetio vehicles, work orders, service, issues, inspections, fuel, parts;… |
 
 ## Data source
 
