@@ -1,0 +1,12 @@
+created_at,server,title,version,repository,transports,description
+2026-10-11T02:26:28.829998Z,io.github.labstack/fanout,Fanout,2026.10.0,https://github.com/labstack/fanout,streamable-http,"Investigate OpenTelemetry traces, metrics, and logs, and manage personal dashboards."
+2026-10-11T02:33:59.838163Z,br.com.snabber/snabber,Snabber,1.0.0,,streamable-http,"Brazilian personal & business finance with Open Finance: transactions, cards, investments."
+2026-10-11T02:36:15.493986Z,io.github.ashadow07/karmadue,KarmaDue,1.1.0,,streamable-http; streamable-http,"Check if a package or MCP server is safe before installing. Find tools, connectors, datasets."
+2026-10-11T02:40:11.473291Z,io.github.erxianzhuangzu/lian-chain-intelligence,,1.2.0,https://github.com/erxianzhuangzu/lian-chain-intelligence,streamable-http,Query tech-industry-market chain transmission and entity status.
+2026-10-11T02:43:04.490415Z,net.softhills/mcp,Softhills,1.1.0,,streamable-http,"Official MCP server for Softhills 3D/2D Visualization SDKs, API documentation, and code examples."
+2026-10-11T02:49:06.767957Z,io.github.lightningfaucet/lightning-wallet-mcp,Lightning Wallet,1.9.0,https://github.com/lightningfaucet/lightning-wallet-mcp,,Give AI agents a Bitcoin wallet with Lightning Network payments and L402 support.
+2026-10-11T02:52:28.874781Z,com.groundflag/contractor,Groundflag,1.0.0,,streamable-http,"Contractor jobs, clients, estimates, invoices and payments from your Groundflag account (read-only)."
+2026-10-11T02:52:30.330943Z,app.stoneproject/fabricator,Stone Project,1.0.0,,streamable-http,"Countertop shops: projects, clients, quotes, invoices, orders and slab inventory in Stone Project."
+2026-10-11T02:54:05.45169Z,io.github.Seventhwalllab/anairyspirit,anairyspirit,0.1.392,https://github.com/Seventhwalllab/anairyspirit,,"An AI agent's own long-term memory, on your machine. Needs a one-time: npx anairyspirit setup"
+2026-10-11T03:02:24.734288Z,io.github.stufently/bing-webmaster-ai-cli-mcp,Bing Webmaster AI CLI MCP,0.1.2,https://github.com/stufently/bing-webmaster-ai-cli-mcp,,"Read Bing Webmaster data and change it, directly or through a reviewed plan."
+2026-10-11T03:05:40.980302Z,io.github.stufently/telegram-ai-cli-mcp,Telegram AI CLI MCP,0.1.1,https://github.com/stufently/telegram-ai-cli-mcp,,Read a personal Telegram account over MTProto; every write is a plan a human applies.
