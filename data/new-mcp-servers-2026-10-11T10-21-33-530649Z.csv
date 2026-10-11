@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-10-11T09:23:30.32459Z,io.github.kitwright/unity-mcp,KitWright Unity MCP,1.0.1,https://github.com/kitwright/unity-mcp,,"Unity Editor MCP server: execute_code, screenshots, input simulation, play mode automation."
+2026-10-11T09:24:03.733584Z,io.github.yatuk/itu-mcp,İTÜ MCP,1.1.0,https://github.com/yatuk/itu-mcp,,"İTÜ Ninova, OBS, Portal, kampüs servisleri ve kütüphane için MCP sunucusu"
+2026-10-11T09:25:15.638935Z,io.github.tridevils/gmca-certainty-matrix-validate,GMCA Certainty Matrix Validate,1.0.5,,streamable-http,GMCA Certainty Matrix Validate: 11 vragen om een project te screenen vóór investering.
+2026-10-11T09:25:25.383637Z,io.github.jannegpriv/skargardskollen,SkärgårdsKollen — Stockholm Archipelago,0.4.0,,streamable-http,"Stockholm archipelago boats: realtime departures, trip planning, disruptions, island guides."
+2026-10-11T09:27:15.225855Z,com.wullup/events,Wullup Events,1.0.0,,streamable-http,"Find concerts, parties, club nights, festivals and more across Germany."
+2026-10-11T09:32:45.713594Z,io.github.PaulRichez/devkit-for-strapi-mcp,,0.2.0,,,"Strapi codebase intelligence for AI agents (not content CRUD): real UIDs, schemas, refs, refactors."
+2026-10-11T09:33:53.546317Z,br.com.designmaster/dmcommerce,DMCommerce,1.0.0,,streamable-http,"Search products, sizes, stock and shipping quotes at Brazilian online stores that run on DMCommerce"
+2026-10-11T09:47:31.779292Z,au.com.bestceremonies/mcp,Best Ceremonies,1.0.0,,streamable-http,"Prices, travel estimates, areas and paperwork for Best Ceremonies, a celebrant near Murwillumbah."
+2026-10-11T09:51:47.013586Z,com.rolefig/rolefig,rolefig,0.9.0,,streamable-http,"Search real job openings, check job posts and pay rules, and prepare California offer letters."
+2026-10-11T09:51:59.237211Z,io.github.kirbah/mcp-youtube,YouTube Data,1.1.15,https://github.com/kirbah/mcp-youtube,,"YouTube MCP server for token-optimized, structured data using the YouTube Data API v3."
+2026-10-11T09:53:20.200537Z,ai.arcdeck/arcdeck,Arcdeck,1.0.0,,streamable-http,Create consulting-style presentation decks (editable PowerPoint) from a topic or notes.
+2026-10-11T10:00:09.762862Z,io.github.praxec/cpm-planner,,0.2.0,https://github.com/praxec/cpm-planner,,Critical Path Method scheduling and lock-aware parallel cohorts for MCP agents.
+2026-10-11T10:02:55.933111Z,io.github.michaelegner/architecture-intelligence-platform,Architecture Intelligence Platform,0.6.2,https://github.com/michaelegner/architecture-intelligence-platform,,Evidence-qualified architecture context for coding agents.
+2026-10-11T10:03:09.297846Z,io.github.TocharianOU/kibana,Kibana,0.11.0,https://github.com/TocharianOU/mcp-server-kibana,,Kibana MCP Server with dynamic API discovery and comprehensive Elastic Stack integration
+2026-10-11T10:06:27.777291Z,io.anchorbrowser/anchor-browser,Anchor Browser,1.0.0,,streamable-http,"Cloud browsers for AI agents: get past bot detection, sign in with MFA, run web tasks at scale."
+2026-10-11T10:07:38.619842Z,io.github.hostsmith/mcp-server,,1.6.0,https://github.com/hostsmith/mcp-server,streamable-http,"Deploy static sites on Hostsmith - give it a file, get a live HTTPS URL. EU/US residency."
+2026-10-11T10:08:48.789501Z,com.crewofthecaptain/format-checker,x402 Format Checker,1.2.0,,streamable-http,"IBAN, EU VAT, NIP, REGON, PESEL, email checks. Only $0.001 (0.1 cent) per check via x402 on Base"
+2026-10-11T10:11:55.904963Z,vc.investorlists/investors,InvestorLists.vc investor database,2.0.0,,streamable-http,Person-checked US VC firms and startup investors with verified work emails and LinkedIn profiles.
+2026-10-11T10:12:23.492473Z,io.github.tj-smith47/anodizer,anodizer,0.29.0,https://github.com/tj-smith47/anodizer,,Rust release tooling — drop-in GoReleaser parity + Rust extras.
