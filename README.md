@@ -9,44 +9,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 00:22 UTC
+## Latest list — 2026-10-12 01:21 UTC
 
-New MCP servers published between 2026-10-11 23:20 UTC and 2026-10-12 00:22 UTC.
+New MCP servers published between 2026-10-12 00:22 UTC and 2026-10-12 01:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-12T00-22-12-5705Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-12T01-21-28-308109Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-11 23:21:42 | [io.github.seanmeverett/shared-memory](https://github.com/seanmeverett/shared-memory-mcp) | Evergences Shared Memory | 1.1.1 | Public source-linked memories for AI agents: search, read, cite, reply, and sha… |
-| 2026-10-11 23:30:24 | [app.tripledger/tripledger](https://github.com/pianosa-labs/tripledger-mcp) | TripLedger | 1.0.0 | Travel ledger for AI: journeys, stays, expenses, tax-residency day counts and S… |
-| 2026-10-11 23:38:43 | app.vercel.rv-kit/rv-kit | BeachFinder RV Companion Library | 0.2.0 | Find 13 free campervan/RV worksheets, plan trip records, and view companion-boo… |
-| 2026-10-11 23:38:59 | io.github.jeffreyturov-dev/yasha-hotel | Yasha Hotel — Direct Booking | 1.0.0 | Book Yasha Hotel Luxembourg: live availability, exact prices, Stripe-secured bo… |
-| 2026-10-11 23:39:34 | ai.zicron.claims/medical-chronology | Zicron medical chronology (public) | 1.2.0 | Price, sample and request page-cited medical chronologies for law firms and LNC… |
-| 2026-10-11 23:42:37 | [io.usefulapi/desec](https://github.com/m190/usefulapi-mcp) | deSEC MCP by usefulapi | 1.0.0 | Read deSEC domains, DNSSEC keys, zone files and RRsets; create or replace one D… |
-| 2026-10-11 23:42:38 | [io.usefulapi/messente](https://github.com/m190/usefulapi-mcp) | Messente MCP by usefulapi | 1.0.0 | Read Messente balance, prices, delivery status and statistics; send SMS to up t… |
-| 2026-10-11 23:42:38 | [io.usefulapi/localazy](https://github.com/m190/usefulapi-mcp) | Localazy MCP by usefulapi | 1.0.0 | Read Localazy projects, files, keys and glossary; submit translations, import k… |
-| 2026-10-11 23:43:22 | it.interfibra/copertura | Interfibra | 1.0.0 | Verifica copertura fibra e FWA per indirizzo in Italia, offerte Interfibra e li… |
-| 2026-10-11 23:57:02 | [io.github.Codeturion/unreal-api-mcp](https://github.com/Codeturion/unreal-api-mcp) | Unreal Engine API Documentation | 0.3.1 | Accurate UE5 C++ API docs for AI agents. Prevents hallucinated signatures and i… |
-| 2026-10-11 23:57:12 | [io.github.Codeturion/unity-api-mcp](https://github.com/Codeturion/unity-api-mcp) | Unity API Documentation | 2.1.1 | Accurate Unity API docs (2022/2023/6) for AI agents. Prevents hallucinated sign… |
-| 2026-10-11 23:57:47 | xyz.forsale/offers | forsale.xyz offers | 0.1.0 | Make price offers on Shopify products; get counters, single-use codes and check… |
-| 2026-10-11 23:58:43 | [io.github.mytomclinic/agent-financial-advisor](https://github.com/mytomclinic/agent-financial-advisor) | Agent Financial Advisor | 0.1.0 | Compliance, risk, tax and audit checks for AI trading agents: pre-trade, sizing… |
-| 2026-10-11 23:58:45 | ai.zicron.claims/workspace | Zicron workspace (OAuth) | 1.0.0 | Zicron account via OAuth: upload records, get page-cited chronologies, score SS… |
-| 2026-10-12 00:09:11 | [io.usefulapi/adafruit-io](https://github.com/m190/usefulapi-mcp) | Adafruit IO MCP by usefulapi | 1.0.0 | Read Adafruit IO feeds, data, groups and dashboards; publish a data point or cr… |
-| 2026-10-12 00:09:12 | [io.usefulapi/ns1](https://github.com/m190/usefulapi-mcp) | NS1 MCP by usefulapi | 1.0.0 | Read NS1 zones, records, monitors, data feeds and usage; create or update one D… |
-| 2026-10-12 00:09:13 | [io.usefulapi/bulksms](https://github.com/m190/usefulapi-mcp) | BulkSMS MCP by usefulapi | 1.0.0 | Read BulkSMS messages, replies, profile and webhooks; send SMS to up to 10 numb… |
-| 2026-10-12 00:09:15 | [io.usefulapi/taggun](https://github.com/m190/usefulapi-mcp) | Taggun MCP by usefulapi | 1.0.0 | Scan receipts with Taggun OCR from a URL or file and read receipt-validation ca… |
-| 2026-10-12 00:09:15 | [io.usefulapi/d7-networks](https://github.com/m190/usefulapi-mcp) | D7 Networks MCP by usefulapi | 1.0.0 | Read D7 Networks balance, SMS pricing and delivery status; look up numbers; sen… |
-| 2026-10-12 00:09:16 | [io.usefulapi/craftmypdf](https://github.com/m190/usefulapi-mcp) | CraftMyPDF MCP by usefulapi | 1.0.0 | Generate PDFs and images from CraftMyPDF templates; read templates, versions an… |
-| 2026-10-12 00:09:17 | [io.usefulapi/billy](https://github.com/m190/usefulapi-mcp) | Billy MCP by usefulapi | 1.0.0 | Read Billy invoices, bills, contacts, products and postings; create contacts an… |
-| 2026-10-12 00:09:18 | [io.usefulapi/apitemplate](https://github.com/m190/usefulapi-mcp) | APITemplate.io MCP by usefulapi | 1.0.0 | Generate PDFs and images with APITemplate.io from templates, HTML, Markdown or… |
-| 2026-10-12 00:09:19 | [io.usefulapi/apiflash](https://github.com/m190/usefulapi-mcp) | ApiFlash MCP by usefulapi | 1.0.0 | Capture website screenshots and extract page HTML or text with ApiFlash; check… |
-| 2026-10-12 00:09:36 | dev.workers.sdnscreen.sdn-screen-x402/agent-preflight | OFAC Wallet Screen, DNS & Email Auth (x… | 1.2.0 | Pay-per-call ($0.01 USDC, Base, x402): OFAC SDN wallet screen, DNS lookup, SPF/… |
-| 2026-10-12 00:12:03 | [io.usefulapi/merit-aktiva](https://github.com/m190/usefulapi-mcp) | Merit Aktiva MCP by usefulapi | 1.0.0 | Read Merit Aktiva invoices, customers, vendors, items, payments and reports; cr… |
-| 2026-10-12 00:12:31 | io.github.rmtonmoy/phoneafriendforagents | phoneAFriendForAgents | 0.4.0 | A real person phones a business for your agent and reports the answers back. Te… |
-| 2026-10-12 00:14:56 | net.signalband/decision-engines | Signal Band decision engines | 1.0.0 | Evidence-weighted decision engines: AI business cases, venture readiness, free… |
-| 2026-10-12 00:16:26 | [io.github.gmannerHJ/agent-hub](https://github.com/gmannerHJ/agent-hub-mcp) | Agent Hub | 0.2.0 | Text-only board for AI agents: read threads, post signed Nostr events, play tim… |
-| 2026-10-12 00:19:09 | [com.statementsure/statementsure](https://github.com/alhogeiri2025/statementsure-mcp) | StatementSure | 0.1.1 | Bank statement PDFs to verified QuickBooks, Xero, OFX, CSV and Excel files. Run… |
-| 2026-10-12 00:20:41 | [co.dopost/dopost](https://github.com/dopost-co/dopost-plugins) | dopost | 1.0.0 | Schedule and analyze posts on 12 networks, incl. Bluesky, Mastodon and Telegram… |
+| 2026-10-12 00:23:52 | [io.usefulapi/homerun](https://github.com/m190/usefulapi-mcp) | Homerun MCP by usefulapi | 1.0.0 | Read Homerun vacancies, applications, notes and tags; move an application to a… |
+| 2026-10-12 00:24:44 | [io.github.lemonaide152/meld](https://github.com/lemonaide152/meld) |  | 1.0.2 | Agent bridge. Host-readable; anyone with the link can read and reply. Not for s… |
+| 2026-10-12 00:29:59 | [io.usefulapi/17track](https://github.com/m190/usefulapi-mcp) | 17TRACK MCP by usefulapi | 1.0.0 | Track parcels across 3000+ carriers with 17TRACK: register numbers, read tracki… |
+| 2026-10-12 00:29:59 | [io.usefulapi/kinsta](https://github.com/m190/usefulapi-mcp) | Kinsta MCP by usefulapi | 1.0.0 | Read Kinsta sites, environments, backups, logs and analytics; clear caches, res… |
+| 2026-10-12 00:30:00 | [io.usefulapi/rapidmail](https://github.com/m190/usefulapi-mcp) | rapidmail MCP by usefulapi | 1.0.0 | Read rapidmail lists, recipients, mailings and stats; add, update or unsubscrib… |
+| 2026-10-12 00:32:11 | ai.insideralpha/insider-alpha | InsiderAlpha | 1.0.1 | SEC Form 4 insider buys, deduplicated, with 10b5-1 flags, 8-K catalysts and a p… |
+| 2026-10-12 00:32:50 | [io.usefulapi/smsmode](https://github.com/m190/usefulapi-mcp) | smsmode MCP by usefulapi | 1.0.0 | Read smsmode balance, messages, replies, campaigns and usage; send SMS to up to… |
+| 2026-10-12 00:41:46 | [ca.grocerypulse/grocery-comparison](https://github.com/dregon03/grocery-price-canada) | GroceryPulse Canada | 1.0.0 | Read-only grocery-list comparisons for supported Canadian cities, with dated pr… |
+| 2026-10-12 00:42:29 | io.github.mk-career-planning/mofa-overseas-safety | MOFA Overseas Safety Levels | 0.1.0 | Which danger level has Japan's MOFA set for a country and its regions? Hosted,… |
+| 2026-10-12 00:42:43 | io.github.mk-career-planning/jp-sanctions | Japan MOF Sanctions List Relay | 0.1.0 | Is this name on Japan's MOF asset-freeze list? Hosted, list-change history kept… |
+| 2026-10-12 00:42:48 | io.github.mk-career-planning/jp-drug-supply | Japan Drug Supply Status Relay | 0.1.0 | Is this drug's shipment normal, limited or suspended in Japan (MHLW)? Hosted, h… |
+| 2026-10-12 00:43:04 | io.github.mk-career-planning/jp-flu-regional | Japan Regional Influenza Records | 0.1.0 | How much influenza is this Japanese prefecture reporting this week? Hosted, rec… |
+| 2026-10-12 00:43:10 | io.github.mk-career-planning/jp-edinet | Japan EDINET Filing Index | 0.1.0 | What has this Japanese company filed on EDINET (FSA) in the last 365 days? Host… |
+| 2026-10-12 00:43:16 | io.github.mk-career-planning/jp-finance | Japan Finance Reference Checks | 0.1.0 | Which JPY rate did Japan Customs publish for a date? Is a firm on an FSA list?… |
+| 2026-10-12 00:44:16 | app.replit.paid-mcp-opportunity-lab--taylorboucher1/base-token-tools | Paid Base Token Tools | 0.2.0 | Base token facts and ERC-20 allowance checks. Per-call USDC on Base; x402 walle… |
+| 2026-10-12 00:44:45 | app.leafchat/leafchat | leafchat | 1.0.0 | AI support chat for Japanese-language sites. Analyze chats, review unanswered q… |
+| 2026-10-12 00:45:12 | com.modernmustardseed/holiday-calendar | Holiday Calendar | 1.0.0 | U.S. federal holidays with observed dates and business-day math. Example from a… |
+| 2026-10-12 00:46:36 | dev.benchlight/benchlight | Benchlight | 0.1.0 | Create and edit private website drafts, open previews and read website status i… |
+| 2026-10-12 01:01:45 | app.mibasket/mibasket | Mi Basket | 1.0.0 | Uruguayan basketball (FUBB): games, box scores, standings, schedules and player… |
+| 2026-10-12 01:02:00 | [io.github.startreedata/mcp-pinot](https://github.com/startreedata/mcp-pinot) | Apache Pinot MCP Server | 5.0.0 | Query and manage Apache Pinot through MCP with typed tools and preview-first sa… |
+| 2026-10-12 01:04:06 | [io.github.anivdel/coolftp](https://github.com/anivdel/coolFTP) |  | 0.1.3 | Deploy a site to its SFTP/FTP host from a coding agent. Changed files only, und… |
+| 2026-10-12 01:08:10 | [io.github.Synexiom-Labs/nodiom-cloud](https://github.com/Synexiom-Labs/nodiom) | Nodiom Cloud | 0.9.0 | A shared board your AI agents read and write: they claim work, hand it off, and… |
+| 2026-10-12 01:11:05 | news.agingresearch/agingresearch-news | AgingResearch.News | 1.3.0 | Search aging research papers, evidence, trials and grants; follow topics throug… |
+| 2026-10-12 01:12:53 | [io.github.theluckystrike/job-card-template](https://github.com/theluckystrike/mcp-servers) |  | 0.22.0 | Open a job card, log hours and materials against it, print the card for client… |
+| 2026-10-12 01:20:59 | [com.trailweights/trailweights-mcp](https://github.com/RustFreeOne/trailweights-mcp) |  | 0.5.0 | Verified ultralight gear evidence for agents: weights, specs, reviews, consensu… |
+| 2026-10-12 01:21:22 | xyz.automatoncolony/nebula |  | 0.3.0 | Per-client memory for any AI. On a clash, the AI gets both values and is told t… |
 
 ## Data source
 
