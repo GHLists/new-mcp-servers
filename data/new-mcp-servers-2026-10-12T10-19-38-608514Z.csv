@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-10-12T09:23:51.950024Z,io.github.thingery/thingery,,0.1.1,https://github.com/thingery/thingery,,"Open item database and MCP server for AI agents to list, find, and trade second-hand goods."
+2026-10-12T09:25:44.103755Z,im.peoplesearch/email-finder,PeopleSearch.im,1.2.0,,streamable-http,"People search, LinkedIn lookup and verified work emails for AI agents. First search needs no login."
+2026-10-12T09:25:57.776601Z,dev.pages.scrapemole/pkgs,ScrapeMole Pkgs,1.0.0,,streamable-http,"Pay-per-call x402 npm and PyPI package metadata, versions, search, download counts."
+2026-10-12T09:26:46.688842Z,com.anycutlist/anycutlist,AnyCutlist,1.0.0,,streamable-http,"Read cutting lists into parts, check them, save drafts, and ask for quotes and machine files."
+2026-10-12T09:30:28.668249Z,jp.yomitasu/fugusugata-jp,銀座の貸切個室で高級天然とらふぐ料理と近江牛　ぎんざ姿,1.0.1,,streamable-http,接待に、会食に。創業60年以上の、銀座 の 一日一組 の 完全個室 の老舗 ふぐ料理店 、高級和食店 、ぎんざ姿 でございます。（fugusugata.jp の内容を検索して答える。ヨミタス経由）
+2026-10-12T09:32:41.239104Z,com.scribe-mail/scribe,Scribe Mail,1.0.1,https://github.com/scribemail/claude-plugin,streamable-http,Email signatures management finally simple and measurable. Built for teams & AI agents.
+2026-10-12T09:36:32.490634Z,io.usefulapi/emailable,Emailable MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Verify email addresses with Emailable one by one or in batches, and read credits and batch results."
+2026-10-12T09:38:31.32734Z,io.github.jeffreyturov-dev/adaga-solutions-toolbox,Adaga solutions — Data APIs Toolbox,1.0.0,,streamable-http,"12 pay-per-event data APIs: Maps, TikTok, Instagram, YouTube, LinkedIn, RAG, reviews, fuel, AEO."
+2026-10-12T09:39:54.559475Z,com.stratumapis/uk-compliance,Stratum UK compliance checks,1.0.0,,streamable-http,"UK sanctions, export controls, Companies House owners, FCA register and property checks."
+2026-10-12T09:40:32.084351Z,io.usefulapi/teamup-calendar,Teamup Calendar MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read and search Teamup Calendar events and sub-calendars; create, update, delete and undo events."
+2026-10-12T09:45:36.381809Z,io.github.neo4j-contrib/gds-agent,Neo4j GDS Agent,1.1.0,https://github.com/neo4j-contrib/gds-agent,,Neo4j Graph Data Science MCP server
+2026-10-12T09:53:27.888354Z,com.serpresult/serp-search,SerpResult,1.0.0,,streamable-http,"Live organic search results from Google, Bing, DuckDuckGo, Yahoo, Brave and Yandex as JSON."
+2026-10-12T09:55:10.604172Z,dev.seodata/keywords,seodata.dev: keyword search volume,1.0.0,https://github.com/seodata-dev/mcp-server,streamable-http,"Keyword search volume, CPC, competition and similar keywords for 50+ countries."
+2026-10-12T09:57:05.371394Z,io.github.babelize/mcp,Babelize,1.2.0,,,"Make apps global-ready from your coding agent: analyze, translate, check and review i18n locally."
+2026-10-12T09:59:38.600783Z,io.github.hbenabdallah/phpgraph,phpgraph,1.3.1,https://github.com/hbenabdallah/phpgraph,,"Knowledge graph of a PHP codebase by static analysis: calls, routes, buses, layers, impact"
+2026-10-12T10:01:56.921353Z,com.fuentio/company-data,Fuentio: France & Spain company data from official registries,1.0.0,,streamable-http,"Official company checks for France and Spain, for AI agents"
+2026-10-12T10:06:58.907443Z,io.github.caiderek/logcarverguard,LogCarverGuard,0.1.0,https://github.com/caiderek/LogCarverGuard,,"Guardrail for AI agents on SQL Server: statement blocking, optional read-only mode and an audit log."
+2026-10-12T10:17:43.60514Z,io.github.andreasd083/amazing-marvin-complete-mcp,Amazing Marvin (complete),1.8.0,https://github.com/andreasd083/amazing-marvin-complete-mcp,,Amazing Marvin task manager: complete public-API coverage (50 tools) with built-in rate limiting
+2026-10-12T10:17:58.728709Z,com.studocu/studocu,Studocu,1.0.0,,streamable-http,"Find Studocu study documents, courses and institutions, and manage study projects and quizzes."
+2026-10-12T10:18:22.093565Z,io.usefulapi/fieldwire,Fieldwire MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Fieldwire projects, tasks, plans, forms, RFIs and submittals; create and update tasks."
+2026-10-12T10:18:39.991394Z,io.github.twittrapi/twittrapi-mcp,TwittrAPI,0.3.0,https://github.com/twittrapi/twittrapi-mcp,,"Read public Twitter/X data: tweets, profiles, followers, search. No X developer account."
