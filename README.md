@@ -9,24 +9,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 04:18 UTC
+## Latest list — 2026-10-12 05:19 UTC
 
-New MCP servers published between 2026-10-12 03:20 UTC and 2026-10-12 04:18 UTC.
+New MCP servers published between 2026-10-12 04:18 UTC and 2026-10-12 05:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-12T04-18-47-340009Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-12T05-19-50-456919Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-12 03:20:30 | xyz.web3id.www/paid-tools | web3id paid tools | 1.3.0 | Five per-call endpoints paid in USDC via x402 on Solana or Base. |
-| 2026-10-12 03:22:32 | [io.github.carlosbravoa/fcvm](https://github.com/carlosbravoa/fcvm) | fcvm | 0.7.0 | Disposable Firecracker microVM sandboxes for agents: run code, snapshot, fork.… |
-| 2026-10-12 03:34:06 | [io.github.mailercloud-com/mcp-server](https://github.com/mailercloud-com/mailercloud-plugin) | Mailercloud | 2.0.1 | AI tools for Mailercloud email marketing: campaigns, contacts, templates, sendi… |
-| 2026-10-12 03:40:46 | com.placestack/mcp | Placestack | 1.0.0 | US parcels, owners, sales, zoning rules, building permits and zoning cases. |
-| 2026-10-12 03:52:12 | com.chinafootnotes/china-footnotes | China Footnotes | 1.0.0 | Sourced, dated China travel facts: places, hours, tickets, booking and pre-trip… |
-| 2026-10-12 03:56:26 | [io.github.verygoodplugins/mcp-local-wp](https://github.com/verygoodplugins/mcp-local-wp) | MCP Local WP | 2.0.0 | WordPress database access via Local by Flywheel. Execute read-only MySQL querie… |
-| 2026-10-12 04:02:41 | [io.github.PetShopBros/lowdown-proxy](https://github.com/PetShopBros/lowdown-proxy) |  | 0.1.15 | Query agent-reported interactions and daily reachability observations of MCP Re… |
-| 2026-10-12 04:06:10 | ca.tonbot.tolca/tolca |  | 0.9.0 | Pay-per-call tools for AI agents: npm/PyPI safety check, summarize, translate,… |
-| 2026-10-12 04:14:17 | com.slsbmb/slsbmb-ai | SLSBMB AI | 1.0.0 | Self-serve AI outbound: prices, Sending Engine capacity per budget, a published… |
-| 2026-10-12 04:16:38 | gg.plazmi/plazmi | Plazmi | 0.1.0 | Plazmi's MCP server: a homemaking world for AI agents. Listed by resident Cairn. |
+| 2026-10-12 04:27:36 | [io.github.tomjwxf/veritasacta-verify](https://github.com/VeritasActa/verify) |  | 0.10.22 | Offline receipt verifier. Ed25519 signature verification without contacting any… |
+| 2026-10-12 04:29:52 | io.github.nodeblur/decide-runtime | Decide Runtime | 0.1.1 | Evaluate supplied rules, save deterministic decisions, and read/export owned re… |
+| 2026-10-12 04:32:47 | com.cleolm/cleolm | CleoLM | 2.0.0 | Search and cite timestamped YouTube and podcast transcripts; transcribe any vid… |
+| 2026-10-12 04:32:48 | us.srv.vehcdj664efetfrsolne5umanq/quoteproof-mcp | AttestPage (Quoteproof) | 0.1.0 | Use before citing a page, sharing links or installing a suggested package. Sign… |
+| 2026-10-12 04:40:30 | pro.riskreward/calculators | RiskReward Trading Calculators | 1.0.0 | Free fee-aware position sizing, net risk/reward and trade performance. Read-onl… |
+| 2026-10-12 04:44:56 | ai.leadmcp/leadmcp | LeadMCP | 1.0.0 | B2B contact database for AI agents: search, count, export and enrich 375M+ cont… |
+| 2026-10-12 04:54:36 | com.shipreadymetrics/public-scan | ShipReady Metrics | 1.0.0 | Read-only scan of a public GitHub repo for leaked secrets, with a 0-100 grade. |
+| 2026-10-12 05:12:11 | [io.github.gambadio/onepassword-agent-mcp](https://github.com/gambadio/onepassword-agent-mcp) |  | 0.4.0 | Save and use 1Password secrets locally without exposing plaintext to AI agents. |
+| 2026-10-12 05:16:06 | io.github.appium/appium-mcp | MCP Appium - Mobile Development and Aut… | 1.96.0 | MCP server for Appium mobile automation on iOS and Android devices with test cr… |
+| 2026-10-12 05:18:15 | [io.github.simonmak-ascent/coso-mcp](https://github.com/simonmak-ascent/coso-mcp) |  | 0.1.1 | Open COSO internal-control review MCP: scope, risk, controls, sampling, testing… |
 
 ## Data source
 
