@@ -1,0 +1,14 @@
+created_at,server,title,version,repository,transports,description
+2026-10-12T01:22:07.552758Z,io.github.TheArkofTech/carry-intel,Carry Intel — Hyperliquid funding-carry intelligence,1.0.0,https://github.com/TheArkofTech/hl-carry-public,streamable-http,"Hyperliquid funding-carry intel, per-call via x402 (USDC/Solana). Free sample tool included."
+2026-10-12T01:29:59.170668Z,live.bitacora/bitacora,Bitácora,1.0.0,,streamable-http,"Prototypes made of HTML screens and the review notes designers dictate, ready for your AI to apply."
+2026-10-12T01:30:53.62995Z,com.handlediq/find-help,HandledIQ: find and book home service,1.2.0,,streamable-http,"Find a home service shop near a US house: its book price, real open times, a held time."
+2026-10-12T01:30:57.990525Z,com.handlediq/office,HandledIQ: your shop's office,1.0.0,,streamable-http,"A home service shop's own records and work, for the AI its owner connects. Sign-in required."
+2026-10-12T01:33:21.674789Z,ca.nikolajewdesign/portfolio-mcp,Portfolio MCP | Benjamin Nikolajew,1.11.0,,streamable-http,Explore Benjamin Nikolajew's graphic design portfolio with natural language.
+2026-10-12T01:37:10.756471Z,io.github.Openfinanceorg/openfinance,,0.2.0,https://github.com/Openfinanceorg/openfinance-app,,"Connect your financial accounts to view balances, search transactions, and get spending insights."
+2026-10-12T01:47:50.890684Z,io.github.Yeelight/yeelight-metadata-mcp,Yeelight Metadata MCP Server,1.0.0,https://github.com/Yeelight/yeelight-metadata-mcp,streamable-http,Yeelight home metadata and guarded management workflows.
+2026-10-12T01:49:57.230916Z,io.github.mk-career-planning/jp-drone-airspace,Japan Drone Flight Rule Check,0.1.0,,streamable-http,"Which Japanese drone rules apply at this point and time? DID, 150 m, night, airports. Reference."
+2026-10-12T01:51:58.436794Z,io.github.caiderek/logcarver-mcp,LogCarver,0.1.0,https://github.com/caiderek/LogCarver.Mcp,,Read-only MCP server that finds deleted SQL Server rows from the transaction log (fn_dblog).
+2026-10-12T01:54:54.440852Z,io.github.Yeelight/yeelight-iot-mcp,Yeelight IoT MCP Server,0.1.0,https://github.com/Yeelight/yeelight-iot-mcp,streamable-http,"Yeelight device discovery, state, control, and scene execution."
+2026-10-12T01:55:55.338292Z,com.velliumandco/lab,Vellium & Co Testing Lab,1.0.0,,streamable-http,Independent checks of paid x402 data sellers and of AI-agent access to shopping and travel sites
+2026-10-12T01:59:50.10309Z,io.github.mlava/scholar-sidekick-mcp,Scholar Sidekick,0.8.12,https://github.com/mlava/scholar-sidekick-mcp,streamable-http,"Catch AI-fabricated citations (real DOI + fake title). Retraction, open-access, 10,000+ CSL styles."
+2026-10-12T02:01:11.867612Z,io.github.rlrghb/outlook,,1.16.1,https://github.com/rlrghb/olkcli,,"Outlook & OneDrive MCP: personal & enterprise tools for mail, calendar, contacts, tasks, files"
