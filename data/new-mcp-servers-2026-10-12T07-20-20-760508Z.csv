@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-10-12T06:22:07.18368Z,io.github.Asthanaji05/openapi-mcp,,0.1.1,https://github.com/Asthanaji05/OpenAPI_MCP,,"Turn any OpenAPI 3 spec into a working MCP server. One file, local (stdio) or remote (HTTP)."
+2026-10-12T06:23:10.739497Z,com.buyhongkonginsurance/neutral-data,Hong Kong Insurance Connect,0.1.0,,streamable-http,Read-only sourced Hong Kong insurance facts and referral links. No product recommendations.
+2026-10-12T06:24:58.374628Z,io.github.Chatway-app/chatway,Chatway Live Chat,1.0.0,https://github.com/Chatway-app/chatway-mcp-server,streamable-http,"Connect AI agents to Chatway to manage customer conversations, support tickets, and contacts."
+2026-10-12T06:26:39.910097Z,io.github.BatterWorks/hatchdoor,Hatchdoor,2.8.1,https://github.com/BatterWorks/Hatchdoor,,"Self-host your Obsidian vaults: a web UI for you, MCP for your AI agents. No Obsidian, no plugins."
+2026-10-12T06:27:28.98585Z,es.zacatrus/zacatrus,Zacatrus,0.1.0,,streamable-http,"Juegos de mesa Zacatrus: busca por jugadores, edad y duración; stock en tiendas, eventos y Club."
+2026-10-12T06:29:27.016502Z,io.mammoth/mcp,Mammoth Analytics,0.1.1,https://github.com/EdgeMetric/mammothsdk,streamable-http,"Explore, clean, transform and export your Mammoth Analytics data from an AI client."
+2026-10-12T06:29:49.136827Z,cz.osvcalc/osvcalc,OSVcalc,1.0.0,https://github.com/simonhusak/osvcalc,streamable-http,"Czech OSVČ tax calculator: income tax, social and health insurance, VAT, paušální daň."
+2026-10-12T06:29:56.913815Z,ai.glasser/glasser,Glasser,0.1.3,https://github.com/glasser-ai/plugins,streamable-http,"One key to 1,000+ paid data APIs: enrichment, SEO/SERP, scraping, places, news. Pay per call."
+2026-10-12T06:30:48.20503Z,io.usefulapi/e-boekhouden,e-Boekhouden MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read e-Boekhouden relations, invoices, ledgers, bookings and products; create relations, invoices."
+2026-10-12T06:37:33.206221Z,com.scopeblind/protect-mcp,,0.31.1,https://github.com/ScopeBlind/scopeblind-gateway,,Fail-closed Cedar policy gate + Ed25519 signed receipts for agent tool calls. Denies on any error.
+2026-10-12T06:39:25.93489Z,io.github.connectivehub/sg-event-print,Singapore Event Print & Merch Quotes,0.2.0,https://github.com/connectivehub/sg-event-print,streamable-http,Instant quotes and rush delivery for event print and merch in Singapore
+2026-10-12T06:40:39.028667Z,com.skywalkapi/appfolio,Skywalk API for AppFolio,0.62.0,,streamable-http,"Work with your AppFolio® portfolio: tenants, vacancies, reports, maintenance, financials, and more."
+2026-10-12T06:42:09.709971Z,io.usefulapi/weblate,Weblate MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Weblate projects, strings, stats and changes; translate, suggest, comment and autotranslate."
+2026-10-12T06:43:40.500302Z,app.netrack/netrack,netrack,1.0.0,,streamable-http,"Track your net worth with Claude: read totals and goals, record values in any currency."
+2026-10-12T06:58:11.13094Z,com.tollwyn/uidwatch,,1.0.0,,streamable-http,"Swiss bankruptcy, liquidation and register alerts for a UID list. Source: SHAB. Webhook, API, email."
+2026-10-12T07:00:47.010156Z,com.ticketsea/ticketsea,TicketSea,1.3.0,,streamable-http,Find live events worldwide and link each seller's tickets. Some ticket links are affiliate links.
+2026-10-12T07:00:48.129113Z,io.usefulapi/smartbill,SmartBill MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read SmartBill series, taxes, stock, clients and products; draft and issue invoices and estimates."
+2026-10-12T07:01:08.21248Z,io.github.ahmetbsbnr/coretend,CoreTend,2.2.0,https://github.com/ahmetbsbnr/coretend,,"Read-only view of what fills a Mac: disk usage, cleanup candidates, largest items, app leftovers."
+2026-10-12T07:09:32.749186Z,io.github.dlbolshov/yandex-wiki-search-mcp,,1.5.2,,,MCP server for Yandex Wiki with full-text search.
+2026-10-12T07:11:08.720624Z,com.scaledthought/mcp,ScaledThought,0.1.0,,streamable-http,"Manage a ScaledThought account: API keys, budgets, usage and prepaid top-ups. Needs an API key."
+2026-10-12T07:11:49.898413Z,io.github.MarcinWolnyEU/staan-mcp,Staan,1.0.1,https://github.com/MarcinWolnyEU/Staan-MCP,,Web search with full-page content and grounded answers from the Staan API.
+2026-10-12T07:13:16.592601Z,io.github.t-crew/memory-pulse,,0.6.0,https://github.com/t-crew/memory-pulse,,Corrections that outlive the session. A guard blocks the edit that writes the old value back.
+2026-10-12T07:17:33.244247Z,com.casedaleel/uae-legal-info,CaseDaleel — UAE legal information,1.0.0,,streamable-http,"Read-only UAE legal information: official routes, practical guides, free tools and FAQs."
