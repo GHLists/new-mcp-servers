@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-10-12T19:21:05.398836Z,com.tenetinvesting/research,Tenet Investing,1.0.0,,streamable-http,"Read-only US stock research: scores with their math, statements, ratios and playbooks, all dated."
+2026-10-12T19:22:55.433631Z,com.lnkdrp/linkdrop,LinkDrop,1.0.0,,streamable-http,"Share PDFs as trackable links and see who opened them, which pages they read and for how long."
+2026-10-12T19:30:29.235442Z,app.swapwallet/mcp,SwapWallet,1.0.1,https://github.com/SwapWallet/swapwallet-mcp,streamable-http,"Crypto wallet: balances, P&L, history. Swaps, transfers and withdrawals need Telegram approval."
+2026-10-12T19:31:25.447489Z,dev.euroref/reference-data,euroref — European government reference data,1.5.1,,streamable-http,"European govt data, cited: rates, VAT, tax, wages, holidays, FX. 34 countries + EU; Germany free."
+2026-10-12T19:33:11.213999Z,com.danuastrology/danu,Danu Astrology,1.0.0,,streamable-http,"Real natal charts for you and your people: compare charts, map your Circle, see your week."
+2026-10-12T19:36:30.166415Z,com.conved/mcp,conved.com file converter,1.3.0,,streamable-http,"Convert files between hundreds of formats: documents, images, audio, e-books, fonts, GPS and more."
+2026-10-12T19:36:41.743872Z,com.tryadeli/adeli,Adeli,1.0.0,,streamable-http,"Publish and analyze posts on Instagram, Facebook, TikTok, YouTube, X, and Bluesky."
+2026-10-12T19:37:47.005607Z,dev.precleared/contact-check,Precleared Contact Check,1.0.0,https://github.com/gabrielaoimevbore-beep/precleared-mcp,streamable-http,"Is this cold email allowed? Per-address verdict, rule quoted, signed receipt. UK, US, CA, DE, FR."
+2026-10-12T19:41:42.930539Z,delivery.cometmessenger/courier,Comet Messenger Service,2.0.0,,streamable-http,Chicago same-day courier: live delivery quotes; account holders book and track runs.
+2026-10-12T19:42:02.402048Z,ro.trisport/store,Trisport,1.0.0,,streamable-http,"Romanian sports store: search products, sizes, stock, delivery and build a trisport.ro cart link."
+2026-10-12T19:46:36.379261Z,ai.formist/formist,Formist,1.0.0,,streamable-http,"AI agent that fills CBAM, GHG, CSRD/ESRS, EU Taxonomy, CDP and other sustainability forms."
+2026-10-12T19:52:58.623406Z,com.sloppatterns/slop-patterns,Slop Patterns,1.2.1,https://github.com/pavithralamahewa/slop-patterns,streamable-http,Checks UI code for AI-default design patterns and gives the fix. By Precious Studio.
+2026-10-12T19:56:23.730357Z,io.github.dambuchs/redact-pdf-mcp,,0.3.0,https://github.com/dambuchs/redact-pdf-mcp,,"Permanently redact PII from PDFs and scans. EU/Swiss-hosted, never used to train AI models."
+2026-10-12T19:57:52.647716Z,com.relaygpu/mcp,Relay,0.1.4,https://github.com/OpenGPU-Network/relaygpu-mcp,streamable-http,"Run any Relay model (image, video, audio, LLM), poll tasks, upload files and search Relay's docs."
+2026-10-12T19:58:39.255856Z,ai.file2markdown/file2markdown,file2markdown,1.1.0,https://github.com/Robinhill85/file2markdown-mcp,streamable-http,"Convert docs and web pages to clean Markdown: PDF, DOCX, XLSX, EPUB, scans, URLs. Batch of 10."
+2026-10-12T20:00:40.394238Z,com.animatedwebs/animatedwebs,AnimatedWebs,1.2.1,https://github.com/iboss21/animatedwebs-claude,streamable-http,"Animated website templates, cinematic video backgrounds, UI components and design systems."
+2026-10-12T20:02:14.576827Z,com.rightaichoice/mcp,RightAIChoice — verified AI tool data,1.1.0,https://github.com/right-ai-choice/mcp-server,streamable-http,"What changed, what died, what it costs, what survives: 8,000+ AI tools, verified and dated."
+2026-10-12T20:03:18.774334Z,io.github.cvelasquez/mcp-sqlserver,SQL Server MCP,3.2.0,https://github.com/cvelasquez/mcp-sqlserver,,"MCP server for DBAs running dozens of SQL Server instances: grouped connections, plans, indexes"
+2026-10-12T20:03:29.914187Z,io.github.dynamicupgrade/chromedebug,,2.9.6,,,"Record browser bugs - frames, clicks and console logs - and hand them to your AI over MCP."
+2026-10-12T20:03:51.783205Z,com.causeriebot/causerie,Causerie,1.0.0,,streamable-http,"Create, train and publish AI chatbots for your website from Claude, ChatGPT or any MCP client."
+2026-10-12T20:04:22.043929Z,dev.workers.cited-brief.cited-brief/cited-brief,Cited Brief,1.1.0,,streamable-http,"Paid web research tools: cited briefs, quote checks, page text. Pay per call in USDC via x402."
+2026-10-12T20:08:42.574079Z,me.blinkhost/platform,BlinkHost,0.2.0,,streamable-http,"Manage BlinkHost projects, inspect plan limits, and review application builds and deployments."
+2026-10-12T20:10:40.410797Z,io.github.jordan-belfort-ai/sitemap-extractor,Sitemap Extractor (reliable),1.0.0,https://github.com/jordan-belfort-ai/sitemap-extractor,streamable-http,"Every URL in a site's sitemaps, with lastmod. Runs on Apify, $0.30 per 1,000 URLs."
+2026-10-12T20:11:12.260892Z,io.github.openflowkit/openflowkit-mcp,,0.2.3,https://github.com/openflowkit/openflowkit,,Architecture diagrams for your agent: draw on the live OpenFlowKit canvas or edit diagram files.
+2026-10-12T20:12:13.602979Z,io.github.mattwerner-sudo/whistle-mcp,,1.0.2,,,"Verified staff contacts, schools, and hiring signals across NCAA athletic departments."
+2026-10-12T20:14:19.289103Z,trade.axel/filing-public,A.X.E.L Filing (public tools),1.0.0,,streamable-http,"UK company lookup, filing deadlines, late penalties and Corporation Tax maths. No account."
+2026-10-12T20:14:20.61051Z,trade.axel/filing,A.X.E.L Filing,1.0.0,,streamable-http,Prepare UK company accounts and CT600 Corporation Tax returns with the director (sign-in).
+2026-10-12T20:17:09.000669Z,io.github.imkath/gmail-tidy-mcp,,0.1.0,https://github.com/imkath/gmail-tidy-mcp,,"Organize several Gmail accounts: labels, filters, archiving, drafts. Never sends or deletes mail."

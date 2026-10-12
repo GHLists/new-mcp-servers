@@ -9,35 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 19:20 UTC
+## Latest list — 2026-10-12 20:20 UTC
 
-New MCP servers published between 2026-10-12 18:20 UTC and 2026-10-12 19:20 UTC.
+New MCP servers published between 2026-10-12 19:20 UTC and 2026-10-12 20:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-12T19-20-53-337783Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-12T20-20-23-995037Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-12 18:26:39 | net.ts.tailb4ac3a.ari001/arysphere-x402 | ARYSPHERE x402 chain reads and token ve… | 1.0.0 | Pay-per-call onchain reads (Base, Ethereum, Gnosis), token verdicts and LLM cha… |
-| 2026-10-12 18:26:55 | [io.github.Hashlock-Tech/hashlock](https://github.com/Hashlock-Tech/hashlock-mcp) | Hashlock Markets | 1.9.0 | Non-custodial cross-chain OTC for AI agents: sealed RFQ, negotiation, HTLC atom… |
-| 2026-10-12 18:33:32 | com.kairocalories/kairo | Kairo | 1.2.0 | Calorie tracker app for ChatGPT and Claude: read meals, macros, weight and log… |
-| 2026-10-12 18:36:42 | [io.github.PpiNeaPpLe/lookuplab](https://github.com/PpiNeaPpLe/lookuplab-integrations) | LookupLab | 1.0.0 | Phone carrier, email domain, IP network and DNS checks using your LookupLab acc… |
-| 2026-10-12 18:40:11 | io.github.verdansk69/bidwell-health | Bidwell Health | 0.5.0 | Public Bidwell Health service information, state availability, care limits, and… |
-| 2026-10-12 18:46:55 | io.github.EyevinnOSC/osc | Eyevinn Open Source Cloud | 8.15.2 | Deploy open-source services (databases, media, storage, AI) and your own apps o… |
-| 2026-10-12 18:48:02 | [dev.afriref/reference-data](https://github.com/3L-GroupConsulting/afriref-mcp) | Afriref: cited government reference data | 1.6.0 | Cited official data: tax, VAT, CPI, policy rates, wages, holidays, FX. 129 coun… |
-| 2026-10-12 18:52:56 | com.basketwatchireland/basketwatch | BasketWatch | 1.0.0 | Irish grocery prices at Aldi, Tesco, SuperValu and Dunnes: compare, baskets, of… |
-| 2026-10-12 18:53:07 | fr.diplometre/diplometre | Diplomètre | 1.1.0 | Free figures on French higher-education programs: admission, success, jobs, pay… |
-| 2026-10-12 18:55:04 | ai.arcreport/ask | ARC: open benchmark of whether AI agent… | 2026.10.8 | Free MCP for ARC's agent-commerce benchmark: read stores and protocols; submit… |
-| 2026-10-12 18:55:06 | ai.arcreport/mcp | ARC store checks | 2.1.0 | Saved agent-checkout evidence per store, free: check_store, find_stores. Scans… |
-| 2026-10-12 18:58:58 | app.scuba/scuba | Scuba | 0.1.0 | Search your saved Captures and Collections, then save useful findings to Scuba. |
-| 2026-10-12 19:00:55 | com.wensity/mcp | Wensity | 0.1.2 | Find, plan, and install Wensity UI React components and blocks into your projec… |
-| 2026-10-12 19:03:07 | com.investboard/investboard | Investboard | 2.0.0 | Investment rules and decision history for AI assistants: read your policy, chec… |
-| 2026-10-12 19:07:01 | sh.openpath/openpath | Openpath | 3.3.0 | Free US search for agents: homes, jobs, services and products, with an inbox to… |
-| 2026-10-12 19:08:32 | app.withbrie/brie | Brie — Recipe MCP, Meal Plans & Groceri… | 1.1.0 | Save and adapt recipes, plan household dinners for review, and manage shared gr… |
-| 2026-10-12 19:09:42 | ai.rayana/rayana-ai | Rayana AI | 1.1.1 | Read-only impersonal market research: portfolio rankings, ticker scores, signal… |
-| 2026-10-12 19:11:29 | ai.alphabazaar/arena | Alpha Bazaar Arena | 1.0.0 | Paper-trading arena for AI agents: publish stock calls, build attested track re… |
-| 2026-10-12 19:12:07 | com.yorehistory/places | Yore: places in their time | 1.1.0 | Sourced studies of what a town was like in a given decade: work, faith, law, mo… |
-| 2026-10-12 19:13:03 | im.betrend/sports | betrend sports data | 1.0.0 | Live scores, fixtures, results, standings, teams and head-to-head for football… |
-| 2026-10-12 19:19:33 | [io.github.earonesty/relin](https://github.com/earonesty/relin) | Relin | 1.0.3 | Send and receive webhooks, manage customer endpoints, and inspect and retry del… |
+| 2026-10-12 19:21:05 | com.tenetinvesting/research | Tenet Investing | 1.0.0 | Read-only US stock research: scores with their math, statements, ratios and pla… |
+| 2026-10-12 19:22:55 | com.lnkdrp/linkdrop | LinkDrop | 1.0.0 | Share PDFs as trackable links and see who opened them, which pages they read an… |
+| 2026-10-12 19:30:29 | [app.swapwallet/mcp](https://github.com/SwapWallet/swapwallet-mcp) | SwapWallet | 1.0.1 | Crypto wallet: balances, P&L, history. Swaps, transfers and withdrawals need Te… |
+| 2026-10-12 19:31:25 | dev.euroref/reference-data | euroref — European government reference… | 1.5.1 | European govt data, cited: rates, VAT, tax, wages, holidays, FX. 34 countries +… |
+| 2026-10-12 19:33:11 | com.danuastrology/danu | Danu Astrology | 1.0.0 | Real natal charts for you and your people: compare charts, map your Circle, see… |
+| 2026-10-12 19:36:30 | com.conved/mcp | conved.com file converter | 1.3.0 | Convert files between hundreds of formats: documents, images, audio, e-books, f… |
+| 2026-10-12 19:36:41 | com.tryadeli/adeli | Adeli | 1.0.0 | Publish and analyze posts on Instagram, Facebook, TikTok, YouTube, X, and Blues… |
+| 2026-10-12 19:37:47 | [dev.precleared/contact-check](https://github.com/gabrielaoimevbore-beep/precleared-mcp) | Precleared Contact Check | 1.0.0 | Is this cold email allowed? Per-address verdict, rule quoted, signed receipt. U… |
+| 2026-10-12 19:41:42 | delivery.cometmessenger/courier | Comet Messenger Service | 2.0.0 | Chicago same-day courier: live delivery quotes; account holders book and track… |
+| 2026-10-12 19:42:02 | ro.trisport/store | Trisport | 1.0.0 | Romanian sports store: search products, sizes, stock, delivery and build a tris… |
+| 2026-10-12 19:46:36 | ai.formist/formist | Formist | 1.0.0 | AI agent that fills CBAM, GHG, CSRD/ESRS, EU Taxonomy, CDP and other sustainabi… |
+| 2026-10-12 19:52:58 | [com.sloppatterns/slop-patterns](https://github.com/pavithralamahewa/slop-patterns) | Slop Patterns | 1.2.1 | Checks UI code for AI-default design patterns and gives the fix. By Precious St… |
+| 2026-10-12 19:56:23 | [io.github.dambuchs/redact-pdf-mcp](https://github.com/dambuchs/redact-pdf-mcp) |  | 0.3.0 | Permanently redact PII from PDFs and scans. EU/Swiss-hosted, never used to trai… |
+| 2026-10-12 19:57:52 | [com.relaygpu/mcp](https://github.com/OpenGPU-Network/relaygpu-mcp) | Relay | 0.1.4 | Run any Relay model (image, video, audio, LLM), poll tasks, upload files and se… |
+| 2026-10-12 19:58:39 | [ai.file2markdown/file2markdown](https://github.com/Robinhill85/file2markdown-mcp) | file2markdown | 1.1.0 | Convert docs and web pages to clean Markdown: PDF, DOCX, XLSX, EPUB, scans, URL… |
+| 2026-10-12 20:00:40 | [com.animatedwebs/animatedwebs](https://github.com/iboss21/animatedwebs-claude) | AnimatedWebs | 1.2.1 | Animated website templates, cinematic video backgrounds, UI components and desi… |
+| 2026-10-12 20:02:14 | [com.rightaichoice/mcp](https://github.com/right-ai-choice/mcp-server) | RightAIChoice — verified AI tool data | 1.1.0 | What changed, what died, what it costs, what survives: 8,000+ AI tools, verifie… |
+| 2026-10-12 20:03:18 | [io.github.cvelasquez/mcp-sqlserver](https://github.com/cvelasquez/mcp-sqlserver) | SQL Server MCP | 3.2.0 | MCP server for DBAs running dozens of SQL Server instances: grouped connections… |
+| 2026-10-12 20:03:29 | io.github.dynamicupgrade/chromedebug |  | 2.9.6 | Record browser bugs - frames, clicks and console logs - and hand them to your A… |
+| 2026-10-12 20:03:51 | com.causeriebot/causerie | Causerie | 1.0.0 | Create, train and publish AI chatbots for your website from Claude, ChatGPT or… |
+| 2026-10-12 20:04:22 | dev.workers.cited-brief.cited-brief/cited-brief | Cited Brief | 1.1.0 | Paid web research tools: cited briefs, quote checks, page text. Pay per call in… |
+| 2026-10-12 20:08:42 | me.blinkhost/platform | BlinkHost | 0.2.0 | Manage BlinkHost projects, inspect plan limits, and review application builds a… |
+| 2026-10-12 20:10:40 | [io.github.jordan-belfort-ai/sitemap-extractor](https://github.com/jordan-belfort-ai/sitemap-extractor) | Sitemap Extractor (reliable) | 1.0.0 | Every URL in a site's sitemaps, with lastmod. Runs on Apify, $0.30 per 1,000 UR… |
+| 2026-10-12 20:11:12 | [io.github.openflowkit/openflowkit-mcp](https://github.com/openflowkit/openflowkit) |  | 0.2.3 | Architecture diagrams for your agent: draw on the live OpenFlowKit canvas or ed… |
+| 2026-10-12 20:12:13 | io.github.mattwerner-sudo/whistle-mcp |  | 1.0.2 | Verified staff contacts, schools, and hiring signals across NCAA athletic depar… |
+| 2026-10-12 20:14:19 | trade.axel/filing-public | A.X.E.L Filing (public tools) | 1.0.0 | UK company lookup, filing deadlines, late penalties and Corporation Tax maths.… |
+| 2026-10-12 20:14:20 | trade.axel/filing | A.X.E.L Filing | 1.0.0 | Prepare UK company accounts and CT600 Corporation Tax returns with the director… |
+| 2026-10-12 20:17:09 | [io.github.imkath/gmail-tidy-mcp](https://github.com/imkath/gmail-tidy-mcp) |  | 0.1.0 | Organize several Gmail accounts: labels, filters, archiving, drafts. Never send… |
 
 ## Data source
 
