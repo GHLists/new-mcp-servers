@@ -1,0 +1,34 @@
+created_at,server,title,version,repository,transports,description
+2026-10-12T12:22:43.262297Z,space.studiosphere/pulse,StudioSphere Pulse — Audio Intelligence,1.0.3,https://github.com/notpaulb/studiosphere-pulse-mcp,streamable-http,"Free licensed loops and authorized audio analysis: BPM, key, waveform. Estimate before paid use."
+2026-10-12T12:23:48.11075Z,ai.edgaze/edgaze,Edgaze,1.0.0,,streamable-http,Find and run AI workflows from the Edgaze marketplace in your agent. Sign in with OAuth.
+2026-10-12T12:24:35.07275Z,com.curlship/directory,CurlShip,1.0.0,https://github.com/MarcinDudekDev/curlship,streamable-http,Read and submit the CurlShip directory. Paid actions return checkout_url.
+2026-10-12T12:25:20.895095Z,io.github.horizon-pulse/horizon-pulse,Horizon Pulse,0.1.0,https://github.com/horizon-pulse/horizon-pulse,streamable-http,"Pay-per-call x402 tools for agents: crypto data, web fetch/extract, x402 checks, marketplace."
+2026-10-12T12:26:47.951589Z,com.rightshold/rightshold,Rightshold,0.5.0,,streamable-http,"Know what your agent may use: license checks, entitlements you hold, signed rights manifests."
+2026-10-12T12:27:14.028215Z,com.almmity.api/pl-firmy,pl-firmy: Polish company check,0.3.0,,streamable-http,"Verify Polish companies: VAT white list (MF), KRS, VIES, payment audit PDF, monitoring."
+2026-10-12T12:27:58.178632Z,com.citedornot/ai-visibility,CitedOrNot - AI Search Visibility,1.0.0,,streamable-http,"AI search visibility for your brand: which AI engines name it, who wins instead, what to publish."
+2026-10-12T12:28:56.49512Z,app.fanzero/fanzero,FanZero,0.3.1,,streamable-http,Game distribution for Codex and Claude. Publish indie games and offer creator revenue-share pacts.
+2026-10-12T12:34:18.121873Z,io.usefulapi/abstract-api,Abstract API MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Validate emails, phones, IBAN, VAT; look up IPs and companies; rates, holidays, time via Abstract."
+2026-10-12T12:36:58.753734Z,dev.pages.scrapemole/arxiv,ScrapeMole Arxiv,1.0.0,,streamable-http,"Pay-per-call x402 arXiv paper search, metadata, abstracts, and category listings."
+2026-10-12T12:37:48.720324Z,io.tohuman/humanizer,ToHuman — Humanize AI Text,0.1.0,,streamable-http,"Rewrites AI text to read naturally. One tool: humanize(text, intensity). Free plan: 2,500 words/mo."
+2026-10-12T12:38:52.210344Z,ai.reviewpaper/reviewpaper,reviewpaper.ai,1.0.0,,streamable-http,"Review forms for 29 ML/NLP/CV venues, AI conference deadlines and ICLR acceptance odds."
+2026-10-12T12:42:29.739218Z,com.merchantcontext/merchant-context,Merchant Context,0.1.0,,streamable-http,"Sourced, verdict-labelled records for licensed home-service contractors in Pinellas County, FL"
+2026-10-12T12:44:30.465775Z,io.github.evergreen-it-dev/folio,Folio,0.1.0,https://github.com/evergreen-it-dev/folio,streamable-http; streamable-http,"Self-hosted Git-backed team wiki: search, read and edit pages, data tables and whiteboards."
+2026-10-12T12:49:55.019348Z,io.github.fredxhansson-cmyk/fuze,Fuze Data Tools,1.0.0,https://github.com/fredxhansson-cmyk/fuze,streamable-http,No-code web scraping & data-extraction Apify actors: scrape and enrich web data at scale.
+2026-10-12T12:50:18.22343Z,io.github.jianruntech/geo-score,geo-score,1.8.1,https://github.com/jianruntech/geo-score,,Free 0-100 score: can AI engines cite a site? Plus citation checks with your own API keys.
+2026-10-12T12:53:09.20549Z,net.appledger/appledger,AppLedger,0.2.1,https://github.com/contentasoftware/appledger,,"Plain-English security checks for AI-built apps (Trivy + Opengrep), with fix requests for agents"
+2026-10-12T12:53:57.575373Z,pro.tradermatrix/mcp,TraderMatrix,1.0.0,,streamable-http,"Options flow, GEX levels, unusual activity, IV rank, screeners and market health. 49 tools."
+2026-10-12T12:53:58.956632Z,pro.tradermatrix/free,TraderMatrix Free Gapper Scanner,1.0.0,,streamable-http,"Free, keyless pre-market and after-hours low-float gapper scanner from TraderMatrix."
+2026-10-12T12:54:49.611333Z,app.gingerguide/catalog,Gingerguide: European city walking tours,2.0.0,https://github.com/gingerguide/gingerguide,streamable-http,"Read-only European city sights: search, nearby, walking routes and itineraries in 6 languages."
+2026-10-12T12:58:19.160348Z,io.github.hamza-aziz-ai/codex-claude-council,Codex–Claude Council,0.11.2,https://github.com/hamza-aziz-ai/codex-claude-council,,"ChatGPT (Codex CLI) and Claude (Claude Code) discuss until they agree, on your own subscriptions."
+2026-10-12T13:01:19.666335Z,cloud.cloudhpc/mcp,cloudHPC,0.6.1,https://github.com/CFD-FEA-SERVICE/cloudhpc-mcp,streamable-http,"Run FDS, OpenFOAM, CalculiX and other engineering simulations on cloudHPC from your AI assistant."
+2026-10-12T13:03:57.037121Z,com.athenode/cli,Athenode,0.9.2,,,"Spec-driven development for AI coding agents: specs, skills, agents, rules and MCP servers."
+2026-10-12T13:06:26.559978Z,io.ozmoz/ozmoz,OZmoz,0.1.47,,,"Ready-to-use backend for AI-built apps, with Alex AI to analyze your data in plain language."
+2026-10-12T13:09:22.045117Z,de.kubora/self-storage,Kubora,1.0.0,,streamable-http,"Find self-storage near you: storage units, container parks and garages with sizes, prices and hours."
+2026-10-12T13:10:48.377427Z,finance.aggregate/aggregate,Aggregate,0.1.0,,streamable-http,"Every company's money in one ledger: cash, runway, invoices, payroll. Records money, never moves it."
+2026-10-12T13:10:55.73078Z,io.github.theluckystrike/hourly-rate,,0.22.5,https://github.com/theluckystrike/mcp-servers,,Freelance hourly-rate calculator with break-even and what-if scenarios.
+2026-10-12T13:12:37.455281Z,io.github.pantalytics/odoo-mcp-pro,Odoo MCP Pro,3.1.3,https://github.com/pantalytics/odoo-mcp-pro,streamable-http,"Connect AI to Odoo ERP 14-20: search, create, update and manage records in natural language."
+2026-10-12T13:14:33.211151Z,dev.workers.mike-tusa.plaingrade-api/plaingrade-api,PlainGrade,0.3.1,,streamable-http,"English readability scores (Flesch, Flesch-Kincaid, Fog, SMOG) and text stats. Text never stored."
+2026-10-12T13:18:13.513373Z,io.github.tenlean/claude-checkpoint-mcp,,0.1.0,https://github.com/tenlean/claude-checkpoint-mcp,,MCP server that checkpoints Claude Code session context to survive crashes and token limits
+2026-10-12T13:18:32.111818Z,com.gethrbr/harbor,Harbor (gethrbr),0.1.0,,streamable-http,"Team memory for coding agents: rules you approve, served to every agent, and which ones it cited."
+2026-10-12T13:19:17.22647Z,io.usefulapi/oblio,Oblio MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Oblio clients, products and documents; create proformas, issue, collect and cancel invoices."
+2026-10-12T13:19:53.650653Z,dev.workers.mike-tusa.domainage/domainage,DomainAge,0.2.0,,streamable-http,"Domain age and RDAP lookup: registration date, age, expiry, registrar, status and nameservers."
