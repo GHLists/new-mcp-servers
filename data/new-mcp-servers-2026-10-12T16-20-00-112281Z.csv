@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-10-12T15:24:09.077563Z,com.nuxtseo/nuxt-seo,Nuxt SEO,2.0.0,,streamable-http,"Free SEO checks for any URL, plus the Nuxt SEO module docs."
+2026-10-12T15:26:59.068021Z,io.trakis/seo-checks,Trakis SEO checks,1.0.0,,streamable-http,"66 technical SEO and AI-readiness checks: what each looks at, why it matters, how to fix it"
+2026-10-12T15:27:05.939909Z,io.trakis/site-audits,Trakis site audits,1.0.0,,streamable-http,"Your Trakis site audits in an AI assistant: health, findings, changes and search positions"
+2026-10-12T15:30:13.146734Z,io.github.GeroPalombo/swipium,Swipium,2.3.0,https://github.com/GeroPalombo/swipium,,"Mobile QA on local Android Emulators and iOS Simulators: autopilot tests, evidence, reports."
+2026-10-12T15:30:29.116444Z,io.github.Panelica/panelica-mcp,,0.5.2,https://github.com/Panelica/panelica-mcp,,"Manage a Panelica hosting panel in plain English - 404 scoped, HMAC-signed tools."
+2026-10-12T15:38:09.458247Z,io.github.VibeTensor/attestix,Attestix,0.4.2,https://github.com/VibeTensor/attestix,,"AI agent identity, signed credentials, delegated authority and governance evidence."
+2026-10-12T15:39:40.986167Z,com.mav19-goldenvisa/residences,MVR 19 Patras residences,1.0.0,,streamable-http,"Seven residences in Patras, Greece, by TPL S.A.: live status, prices and every page in 7 languages."
+2026-10-12T15:42:58.701767Z,xyz.lizzflix/lizzflix,LizzFlix,1.0.0,,streamable-http,"Plan, cast and render short AI video series in your LizzFlix studio."
+2026-10-12T15:45:35.695832Z,ai.agentboard/agentboard,Agentboard,0.1.0,,streamable-http,"The public message board for AI agents: register in one call, introduce yourself, ask, read replies."
+2026-10-12T15:47:20.214096Z,io.rodz/rodz,Rodz,1.0.0,,streamable-http,"B2B buying signals (job changes, funding, hiring) delivered as enriched leads, plus enrichment."
+2026-10-12T15:49:13.559483Z,io.founderventures/founder-ventures,Founder Ventures,1.1.0,,streamable-http,"Read-only search over the Founder Ventures library on bootstrapped SaaS, plus founder events."
+2026-10-12T15:50:26.09361Z,io.github.KyaniteLabs/Epoch,Epoch,0.5.2,https://github.com/KyaniteLabs/Epoch,,"Epoch time estimation MCP server for PERT, COCOMO, Monte Carlo, calibration, cost, and risk."
+2026-10-12T15:50:39.249591Z,io.github.KyaniteLabs/dialectos,DialectOS,0.1.0,https://github.com/KyaniteLabs/DialectOS,,"Spanish dialect localization MCP server: 25 regional variants, glossary, adversarial QA gates."
+2026-10-12T15:55:45.996657Z,io.github.Vladimir-Human/ru-marketplace-mcp,ru-marketplace-mcp,2.5.0,https://github.com/Vladimir-Human/ru-marketplace-mcp,,"Read-only MCP servers for Russian marketplaces: prices, stock, ratings, reviews, seller identity"
+2026-10-12T16:05:41.500987Z,dev.workers.mike-tusa.phonecheck/phonecheck,PhoneCheck,0.2.1,,streamable-http,"Offline phone-number validation and formatting (E.164, region, line type). No carrier lookup."
+2026-10-12T16:08:01.926544Z,io.github.matryoshka-paradigms/business-frameworks,Business Frameworks,2026.10.10,https://github.com/matryoshka-paradigms/business-frameworks,streamable-http,Operating judgement for businesses under $50M revenue. Free top layer; nodes and bundles over x402.
+2026-10-12T16:10:16.063592Z,io.github.guggach/guggach-apartments,Guggach Apartments,1.0.0,https://github.com/guggach/website3,streamable-http,Availability and prices for Guggach Apartments Zurich (read-only).
+2026-10-12T16:13:38.217139Z,ai.enokilabs/enoki,Enoki,1.0.0,,streamable-http,"Test your AI agents for security and safety weaknesses, and re-verify the fixes."
+2026-10-12T16:14:49.471679Z,io.github.beepboop2025/wake,Wake Agent Economy,0.4.0,,streamable-http,Free source-dated AI usage and commerce context; signed contributor contracts and dataset policy.
+2026-10-12T16:15:00.284735Z,io.github.beepboop2025/seiche-agent-community,Seiche Agent Community,0.1.0,https://github.com/beepboop2025/seiche,streamable-http,Free read-only discovery of owner-published finance agent profiles and source-linked discussions.
+2026-10-12T16:15:12.794049Z,io.github.giorgio44/gateonai-mcp,GateOnAI,1.4.2,,streamable-http,"Search and compare AI tools, build AI workflows, find tools that state EU hosting. No API key."
+2026-10-12T16:16:40.368652Z,com.getformset/formset,formset,1.0.0,,streamable-http,"Build, share and read hosted forms by describing them in conversation."
