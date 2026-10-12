@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-10-12T16:20:48.431629Z,net.quinielahoy/quinielahoy,QuinielaHoy,1.0.0,,streamable-http,"Argentine quiniela and Telekino results: cabezas, full draws, number check. Read only."
+2026-10-12T16:22:56.880745Z,qa.proxymail/proxymail-qa,Proxy Mail QA,1.0.0,,streamable-http,"Disposable test inboxes for agents: create an address, then wait for its code or link."
+2026-10-12T16:24:21.781788Z,io.buyercue/buyercue,BuyerCue,1.0.0,,streamable-http,"Find software businesses already investing in growth, with sourced evidence."
+2026-10-12T16:24:47.741153Z,io.github.w3tech/agent-rpc-mcp-management,Ankr Management MCP,0.2.4,https://github.com/w3tech/agent-rpc-mcp-public,streamable-http,"Manage an Ankr RPC account: API keys, usage, allowlists, billing, teams. Sign in with OAuth."
+2026-10-12T16:26:38.18754Z,jobs.robottraining/robot-training-jobs,RobotTraining.jobs,1.0.0,,streamable-http,"Search open robot training jobs (teleoperation, data collection, AV and drone tests) and their pay."
+2026-10-12T16:27:16.233718Z,golf.caddence/caddence,Caddence,1.1.0,,streamable-http,"Live UK golf equipment prices: retailer offers, price history and deal ratings in GBP."
+2026-10-12T16:27:21.749564Z,com.unprofane/unprofane,Unprofane,0.1.0,,streamable-http,"Should I allow this text? Profanity and toxicity checks that are hard to fool, with the evidence."
+2026-10-12T16:28:54.092684Z,io.github.supplementscanner/scanner,Supplementscanner,1.1.0,https://github.com/supplementscanner/supplementscanner-mcp,streamable-http,"Live supplement prices per kg, serving or capsule from Dutch and Belgian stores. Free, no API key."
+2026-10-12T16:30:49.330267Z,ai.aquex/reasonbook,Reasonbook,4.0.0,https://github.com/kneelinghorse/reasonbook,,"Reasonbook: decisions that survive the session, in a local record AI agents keep."
+2026-10-12T16:31:41.601686Z,io.github.Sani96/rawmark,RawMark,1.0.0,,streamable-http,"Documents to Markdown: PDF, DOCX, PPTX, XLSX, HTML. Scanned PDF pages read by AI."
+2026-10-12T16:32:38.021Z,io.github.laaielichter/reverseport,ReversePort,1.0.0,https://github.com/laaielichter/reverseport,,Reverse engineer anything. Port it anywhere. One MCP server for coding agents.
+2026-10-12T16:33:39.585812Z,com.tollwyn/swissnewco,Swiss NewCo Feed,1.0.0,,streamable-http,"Daily feed of new Swiss companies from the SHAB gazette, with website and email where found."
+2026-10-12T16:39:26.006328Z,com.hotelshortlist/hotel-research,HotelShortlist,1.0.0,,streamable-http,"Independent hotel research from guest reviews: bed bugs, pests, noise and hidden fees."
+2026-10-12T16:44:39.478659Z,io.github.coredence/coredence,Coredence,1.9.2,https://github.com/coredence/coredence,,"Query a measured identity: its rules, the evidence behind each one, and the topics they belong to."
+2026-10-12T16:46:15.366632Z,ai.crowdos/mcp,CrowdOS,1.0.0,https://github.com/bjnagent/crowd,streamable-http,Agents run synthetic focus groups over MCP against census panels that disagree.
+2026-10-12T16:46:41.034016Z,md.lichidare/catalog,LICHIDARE.MD,1.1.0,,streamable-http,"Assets for sale in Moldova from insolvency, enforcement, bank collateral and public auctions"
+2026-10-12T16:48:08.151816Z,com.tryoids/oids,Oids,1.0.0,https://github.com/oidsdev/oids,streamable-http,"Oids — the communications layer for AI agents: DMs, rooms, coordination."
+2026-10-12T17:04:38.915861Z,io.github.ark-forge/prove-it,,0.1.0,https://github.com/ark-forge/proveit-mcp,,"Free public benchmark for AI agents: compliance tasks, every claim checked against signed receipts"
+2026-10-12T17:05:06.80254Z,app.decknote/decknote,Decknote,1.0.0,,streamable-http,"Kanban boards your AI agent can use: add, complete, move and recall tasks with your team."
+2026-10-12T17:05:42.991964Z,io.github.ryanroskowski/annalist,Annalist,0.1.0,https://github.com/ryanroskowski/annalist-ledger,streamable-http,Signed crowd-state data and base rates for Hyperliquid perps; pay per call via x402 (USDC on Base)
+2026-10-12T17:09:08.961517Z,io.github.GabrieleLozupone/kokon,Kokon,0.9.1,https://github.com/GabrieleLozupone/kokon,,Generate and edit images offline with Qwen-Image 2.1 on your GPU. Needs the Kokon desktop app.
+2026-10-12T17:13:42.844963Z,io.github.gunsnprices/gunsnprices-mcp,GunsNPrices,0.1.0,https://github.com/gunsnprices/gunsnprices-mcp,,"Parse gun and ammo titles (model, caliber, cost per round); find GunsNPrices price comparison pages"
+2026-10-12T17:13:46.279324Z,ai.jopp/jobs,jopp,1.0.0,,streamable-http,Search open jobs in Switzerland and Liechtenstein and read jopp job briefs.
+2026-10-12T17:16:23.547196Z,io.github.ray999/knowledge-graph,Zhiyong Agent Network,1.4.2,https://github.com/ray999/zhiyong-ai-production,streamable-http,"Discover AI tools, models and Agents; compare candidates, inspect unknowns, join public discussions."
