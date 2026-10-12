@@ -1,0 +1,42 @@
+created_at,server,title,version,repository,transports,description
+2026-10-12T14:25:01.800747Z,app.pagehaus/pagehaus,Pagehaus,1.0.0,,streamable-http,"Create, edit and publish plain HTML websites on Pagehaus, with contact forms and custom domains."
+2026-10-12T14:27:00.271058Z,io.github.surp-renz/sekichi,,0.1.3,,streamable-http,"Knowledge accumulation for AI coding agents. Records decisions, problems, and insights as context."
+2026-10-12T14:27:15.078593Z,com.tektolo/rental-property,Tektolo Rental Property,0.1.0,https://github.com/tektolo/skills,streamable-http,Rental property tools for agents: turnover cost estimates and security deposit rules by US state.
+2026-10-12T14:27:39.718818Z,com.spritefusion/pixel-art-generator,Sprite Fusion,1.0.0,,streamable-http,"Generate, edit, style-match, turn, and animate game-ready pixel art at exact sizes."
+2026-10-12T14:29:27.73462Z,com.yourtravelradar/night-trains,Your Travel Radar,0.1.0,,streamable-http,"Dated, sourced facts on European night train stations and lines, and measured punctuality."
+2026-10-12T14:29:39.496408Z,se.helsama/helsama,Helsama,0.1.0,,streamable-http,"Hemp from Gotland: product catalog, knowledge base and open lab data per batch."
+2026-10-12T14:31:58.843074Z,io.github.Edworking/edworking-mcp,Edworking MCP,0.1.4,https://github.com/Edworking/edworking-mcp,streamable-http,"Edworking projects, tasks, conversations and files with scoped OAuth access."
+2026-10-12T14:39:13.30708Z,io.github.gabrielmahia/jumuia-mcp,,0.1.7,https://github.com/gabrielmahia/jumuia-mcp,,MCP server for community-group coordination in East Africa (jumuia = community)
+2026-10-12T14:39:18.171754Z,io.github.gabrielmahia/diaspora-mcp,,0.1.5,https://github.com/gabrielmahia/diaspora-mcp,,MCP server for diaspora services coordination between East Africa and abroad
+2026-10-12T14:39:18.181624Z,io.github.gabrielmahia/historia-mcp,,0.1.5,https://github.com/gabrielmahia/historia-mcp,,MCP server grounding agents in East African historical sources (historia = history)
+2026-10-12T14:39:21.050909Z,io.github.gabrielmahia/tafsiri-mcp,,0.1.5,https://github.com/gabrielmahia/tafsiri-mcp,,MCP server for Swahili translation and language grounding (tafsiri = translate)
+2026-10-12T14:39:31.734061Z,io.github.gabrielmahia/county-mcp,,0.1.5,https://github.com/gabrielmahia/county-mcp,,MCP server for Kenyan county-government services and coordination
+2026-10-12T14:39:33.127198Z,io.github.gabrielmahia/mazingira-mcp,,0.1.5,https://github.com/gabrielmahia/mazingira-mcp,,MCP server for environment and climate coordination in East Africa (mazingira = environment)
+2026-10-12T14:39:35.087053Z,io.github.gabrielmahia/church-mcp,,0.1.5,https://github.com/gabrielmahia/church-mcp,,MCP server for congregation and community-organization coordination in East Africa
+2026-10-12T14:39:35.222476Z,io.github.gabrielmahia/offline-mcp,,0.1.5,https://github.com/gabrielmahia/offline-mcp,,MCP server enabling offline-first agent operation over intermittent connectivity
+2026-10-12T14:39:43.861941Z,io.github.gabrielmahia/decision-intelligence-mcp,,0.1.3,https://github.com/gabrielmahia/decision-intelligence-mcp,,classical-strategy-mcp
+2026-10-12T14:40:24.032937Z,io.github.OrgMentem/zotio,zotio,0.29.0,https://github.com/OrgMentem/zotio,,"Zotero MCP server: local-first search, library checks, and preview-first writes for AI agents."
+2026-10-12T14:41:15.006352Z,com.stocktrends/market-intelligence,Stock Trends Market Intelligence,1.0.2,https://github.com/skotlander/stocktrends-mcp-server,streamable-http,"Equity trend, relative-strength, expected-return, market-context, and research resources for agents."
+2026-10-12T14:44:23.3812Z,ai.dispatchmind/dispatchmind,DispatchMind,2.0.0,,streamable-http,"Job management for service companies: look up, book, tag, assign and note jobs from your AI."
+2026-10-12T14:46:14.459545Z,app.veteranhq/va-disability-benefits,VeteranHQ,0.2.0,,streamable-http,"Veterans benefits and VA claims reference: VA disability ratings, compensation rates, 38 CFR search"
+2026-10-12T14:48:59.647662Z,io.github.madhvendrasinghsolanki/nexus-mcp,Nexus MCP,0.1.0,https://github.com/madhvendrasinghsolanki/Nexus-MCP,,Search Notion and Supabase through one safety-focused MCP server.
+2026-10-12T14:50:33.741991Z,com.chejefe.www/jefe,Jefe para restaurantes,1.0.0,,streamable-http,"Consulta el producto Jefe y sus guías públicas para restaurantes, sin operaciones de escritura."
+2026-10-12T14:50:55.694718Z,com.selfbadge/selfbadge,SelfBadge,1.0.0,,streamable-http,Look up verified people on SelfBadge and tell them apart from namesakes.
+2026-10-12T14:51:31.917752Z,com.kvartiry-phuket/phuket,Kvartiry-Phuket: Phuket real estate and travel data,1.0.0,,streamable-http,"Phuket property guides, districts, asking prices, condo assessment rates, weather, beaches, webcams"
+2026-10-12T14:57:14.813447Z,io.github.Tumerit/tethered,Tethered Task Sessions,0.2.5,https://github.com/Tumerit/Tethered,,Local macOS task profiles; requires Tethered 1.2.0+ installed and running with Pro access.
+2026-10-12T14:57:40.366162Z,dev.digline/digline-mcp,digline,0.5.0,https://github.com/digline/digline,,"Read, measure and explain LLM eval runs of a digline suite. Cannot promote a baseline."
+2026-10-12T14:59:53.879305Z,eu.eudigo/eudi-wallet,Eudigo – EUDI Wallet index,1.1.0,,streamable-http,"Independent EUDI Wallet index: status in all 27 EU states, deadlines, registers, standards, news."
+2026-10-12T15:00:11.624966Z,com.onchaindiligence/payment-evidence,OnChainDiligence Payment Evidence,1.0.0,,streamable-http,"Inspect payment policy, retrieve and verify receipts, or create post-payment observation receipts."
+2026-10-12T15:02:08.456618Z,io.github.skulitom/cutbolt,Cutbolt video editing engine,0.4.0,https://github.com/skulitom/Cutbolt,,"Local video editing engine for agents: exact timelines, saved sessions, rendering and FFmpeg export."
+2026-10-12T15:03:55.955714Z,dev.workers.mike-tusa.workdayapi/workdayapi,WorkdayAPI,0.2.0,,streamable-http,"Business-day and public-holiday math for 29 countries: add business days, days between, holidays."
+2026-10-12T15:05:01.452643Z,com.onchaindiligence/compliance,OnChainDiligence,1.2.0,,streamable-http,"Payment evidence and policy preflight, plus paid sanctions and company Evidence Provider checks."
+2026-10-12T15:06:52.447388Z,com.askeditor/askeditor,AskEditor,0.1.10,,streamable-http,"Video editor beside your chat: cut, caption, add music, titles and motion graphics on a timeline."
+2026-10-12T15:09:24.713616Z,io.github.flow-executor/flow,Flow — Base quotes & contract safety for agents,0.1.0,https://github.com/flow-executor/Flow,streamable-http,"Best-execution quotes and contract safety checks on Base for AI agents, paid per call via x402."
+2026-10-12T15:10:32.750047Z,in.puzaricloud/vigil,Vigil by PuzariCloud,1.1.0,,streamable-http,"Ask your AI what's broken: incidents, monitors, servers, logs, errors and traces from Vigil."
+2026-10-12T15:10:34.744463Z,io.github.higherbeing/gasfeepredictor-mcp,Gas Fee Predictor,1.0.2,https://github.com/higherbeing/gasfeepredictor-mcp,streamable-http,"Live Ethereum and L2 gas fees: current gas, cheapest L2, forecast, ETH price, cost estimates."
+2026-10-12T15:12:51.328552Z,com.live-football-api/live-football-api,Live Football API,1.0.1,,streamable-http,"Live football scores, fixtures, standings, lineups and player stats for 1400+ leagues."
+2026-10-12T15:13:03.336385Z,io.github.praxec/fmeca,,0.2.0,https://github.com/praxec/fmeca,,"Deterministic, offline FMECA MCP server: failure modes, criticality matrix, mitigations, readiness"
+2026-10-12T15:13:29.659017Z,io.github.mhmdaskari/overleaf-web-mcp,Overleaf Web MCP,0.5.1,https://github.com/mhmdaskari/overleaf-web-mcp,,"Read, edit, compile, and review Overleaf projects through your own signed-in web session."
+2026-10-12T15:13:54.133326Z,com.aicasepredict/aicasepredict,AICasePredict,1.0.0,,streamable-http,"Free lookups of US court cases, attorneys, judges and courts from 325M+ public court records."
+2026-10-12T15:14:01.116618Z,io.github.w0h1v/shodan,,1.0.34,https://github.com/w0h1v/mcp-shodan,,"MCP server for Shodan API — device search, IP and domain recon, DNS, and CVE/CPE queries."
+2026-10-12T15:14:08.258534Z,io.github.djedi/slimlytics,Slimlytics,1.0.0,https://github.com/djedi/slimlytics,streamable-http,Privacy-first cookieless web analytics with agent one-prompt setup via remote MCP OAuth.
