@@ -1,0 +1,30 @@
+created_at,server,title,version,repository,transports,description
+2026-10-12T21:21:58.875766Z,uk.co.haulierscope/operator-licences,HaulierScope,1.0.0,,streamable-http,"Check UK goods and PSV operator licences: status, vehicles, changes, inquiries and insolvency."
+2026-10-12T21:22:19.550655Z,com.ai-phd/ai-phd,,1.0.0,,streamable-http,"AI PhD office hours: a graded curriculum you run in your own AI. Not a university, not accredited."
+2026-10-12T21:22:23.69972Z,com.trainwithagents/trainwithagents,,1.0.0,,streamable-http,"Practice using the AI you already use on real work from your week. Free first mission, scored."
+2026-10-12T21:22:27.124713Z,com.ragcreator/ragcreator,,1.0.0,,streamable-http,Build a RAG pipeline station by station and search your own documents with cited answers.
+2026-10-12T21:23:54.318064Z,dev.exit1/exit1-mcp,Exit1 Uptime Monitoring,0.4.0,https://github.com/Mopra/exit1.dev.mcp,streamable-http,"Set up uptime monitoring from your editor: create checks, alerts, and query uptime. Can sign you up."
+2026-10-12T21:24:01.054809Z,com.justgains/mcp-server,JustGains,1.0.0,https://github.com/JustGains/justgains-connector,streamable-http,"Save workouts, read training history and progress, search exercises, and log food in JustGains."
+2026-10-12T21:27:36.903941Z,io.github.levanmamulashvili911-byte/cosmic-ears-mcp,Cosmic Ears MCP,0.2.0,https://github.com/levanmamulashvili911-byte/cosmic-ears-mcp,,"Real satellite audio, spectrograms and provenance through MCP."
+2026-10-12T21:29:05.800668Z,dev.vid2llm/mcp,vid2llm,0.1.0,,,"Read public videos (TikTok, YouTube, Instagram, X) as text. Pay per video with x402."
+2026-10-12T21:31:38.213891Z,app.soclo/soclo-mcp,Soclo,1.0.2,,streamable-http,"Soclo: content, socials, ads and takings on iOS, Google Play and web - connected to your AI."
+2026-10-12T21:33:59.151352Z,cloud.pandy/tickets-organizer,Pandy Tickets for organizers,1.0.0,,streamable-http,"Read your events, sales, orders and attendees from your AI assistant. OAuth sign-in, read only."
+2026-10-12T21:34:26.596902Z,org.textclean/textclean,TextClean MCP,1.1.0,,streamable-http,"Free deterministic PDF, Markdown, citation, invisible-character, and formatting cleanup for agents."
+2026-10-12T21:34:58.963738Z,io.github.itsmeadamdamroma/mazzagrp,Mazza Group AI APIs,1.0.0,https://github.com/itsmeadamdamroma/mcp-server,streamable-http,"21 AI APIs pay-per-call with USDC on Base via x402. No keys, no signup."
+2026-10-12T21:41:10.424045Z,com.relayger/messaging,Relayger: AI agent messaging,0.3.4,,streamable-http,"AI agent messaging with durable inboxes, contacts and tasks. Connect through MCP with OAuth."
+2026-10-12T21:41:24.503533Z,xyz.xmrtousdc/swapper,Swapper - XMR to USDC swaps,0.5.0,,streamable-http,"XMR <-> USDC (Arbitrum One) swaps for AI agents. Swapper never holds funds. 8 tools, 3 prompts."
+2026-10-12T21:42:51.157872Z,io.github.AnonymousOnyx22/brightspace-d2l-mcp,,1.3.0,https://github.com/AnonymousOnyx22/brightspace-d2l-mcp,,"D2L Brightspace for AI: what's due and submitted, grades, exams, what's new and course files."
+2026-10-12T21:50:00.736607Z,io.github.atushi1841/japan-market-mcp,,0.1.0,https://github.com/atushi1841/japan-market-mcp,,"Compare used-good prices across 9 Japanese shops + Rakuten Ichiba, MAFF data, prize giveaways."
+2026-10-12T21:50:01.923823Z,io.github.atushi1841/mandarake-surugaya-mcp,,0.1.0,https://github.com/atushi1841/mandarake-surugaya-mcp,,"Search Mandarake auctions, Suruga-ya collectibles, Rakuten Ichiba via one MCP server."
+2026-10-12T21:50:03.142497Z,io.github.atushi1841/rakuten-japan-mcp,,0.1.0,https://github.com/atushi1841/rakuten-japan-mcp,,Search Rakuten Ichiba products and rankings via official Rakuten APIs.
+2026-10-12T21:52:41.77585Z,com.controlflare/controlflare,Controlflare,1.0.0,,streamable-http,A hard budget cap for Cloudflare Workers: see estimated spend and pause or resume Workers.
+2026-10-12T21:55:11.61711Z,io.github.diegobruegger-prog/shortformkit,Shortform Kit,1.0.0,https://github.com/diegobruegger-prog/shortformkit-mcp,streamable-http,"Transcribe, read and download public Reels, TikToks and YouTube videos, plus sourced creator data"
+2026-10-12T21:55:45.343072Z,app.netlify.kitchen-pass/chef,,0.1.0,,,"A head chef's verified answers as tools: scale recipes, fix cooking faults, swaps, yields and costs."
+2026-10-12T22:02:26.189432Z,org.daypilot/mcp,DayPilot,0.1.0,,streamable-http,"Official DayPilot references, release packages, CSS themes and verified starter projects."
+2026-10-12T22:04:52.69298Z,me.guaqai.jobs/employed,Employed by Guaq AI,1.2.0,https://github.com/Guaq-AI/employed-plugins,streamable-http,"Live jobs from ~5,000 employer ATS boards, hiring profiles, your job profile and tracker."
+2026-10-12T22:05:45.249072Z,com.codonvaluation.mcp/codon-valuation,Codon Valuation,1.0.1,,streamable-http,Indicative US 409A and UK EMI share value estimates from cap table and financial inputs. Read-only.
+2026-10-12T22:10:07.076985Z,com.supapark/agent-api,SupaPark — Walt Disney World live data,0.2.0,,streamable-http,"Live Walt Disney World waits, crowd forecasts, Lightning Lane sellouts and prices, dining drop odds."
+2026-10-12T22:11:16.098392Z,io.github.spuentesp/zoanthrope,zoanthrope,0.1.2,https://github.com/spuentesp/zoanthrope,,"Coordination relay for agent swarms: file claims, presence, postboard intentions, leases, audit."
+2026-10-12T22:12:56.309356Z,io.github.shigechika/jquants-mcp,J-Quants MCP,1.4.0,https://github.com/shigechika/jquants-mcp,,MCP server for retrieving Japanese stock market data via J-Quants API v2
+2026-10-12T22:16:18.550352Z,ai.certscore/mcp-light,CertScore.ai MCP Light,0.2.26,https://github.com/ergoveritas1-alt/certscore.ai,streamable-http,"Free website privacy scanner for pre-consent cookies, trackers, consent, policy, and HTTPS/TLS."
+2026-10-12T22:21:03.549987Z,com.otprun/otprun,OTP Run for WhatsApp,1.2.0,https://github.com/otprun/otprun-ai,streamable-http,"Send WhatsApp messages from your own number, read the replies and send login codes."

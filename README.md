@@ -9,37 +9,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 21:21 UTC
+## Latest list — 2026-10-12 22:22 UTC
 
-New MCP servers published between 2026-10-12 20:20 UTC and 2026-10-12 21:21 UTC.
+New MCP servers published between 2026-10-12 21:21 UTC and 2026-10-12 22:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-12T21-21-21-117036Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-12T22-22-06-809135Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-12 20:23:40 | [com.parseaddr/address-parse](https://github.com/wezpyke/parseaddr-mcp) | ParseAddr — Address Parsing & Normaliza… | 0.1.0 | Hosted libpostal: messy free-text postal addresses → structured fields. No 2-4G… |
-| 2026-10-12 20:24:43 | [ai.omneum/omneum](https://github.com/cole-h06/omneum) | Omneum Local Connector | 1.0.3 | Local stdio connector for Omneum 1.0.3. Requires prior setup and Node.js 18+; m… |
-| 2026-10-12 20:25:01 | app.thedogs/dog-breed-advisor | TheDogs.app | 6.10.0 | Match dog breeds to your life, compare them, plan a test drive and estimate U.S… |
-| 2026-10-12 20:28:01 | money.stakedotlink/agents | stake.link Agents (stakedotlink.money) | 1.8.0 | Community-built stake.link tools: live stLINK, SDL and reSDL data, unsigned tra… |
-| 2026-10-12 20:32:04 | [io.github.amyodov/yet-another-agentic-chat](https://github.com/amyodov/yet-another-agentic-chat) | YAAC | 0.6.0 | Messaging between concurrent AI coding sessions, across clients, over MCP. Zero… |
-| 2026-10-12 20:33:56 | [io.github.nrupala/conduit-filings-fundamentals](https://github.com/nrupala/conduit) | Conduit — Filings & Fundamentals | 0.7.0 | 24-tool hosted SEC EDGAR connector: filings, fundamentals, segments, peers, ins… |
-| 2026-10-12 20:39:03 | nyc.motley/mcp | Motley — NYC Neighborhoods, Schools & A… | 0.3.0 | Find, compare, and rank NYC neighborhoods and schools, plus how NYC school admi… |
-| 2026-10-12 20:39:42 | [io.github.gbrussich52/mainstreet-mcp](https://github.com/gbrussich52/mainstreet-mcp) |  | 0.1.4 | Free small-business facts and stateless workflow review kits: quotes, invoices… |
-| 2026-10-12 20:43:08 | site.chatgpt.orellise.relay-agent-services/relay | Relay — agent service discovery | 0.11.0 | Discover agent services, compare sourced capabilities and inspect connection ev… |
-| 2026-10-12 20:44:34 | io.github.gmahar82-stack/trust-check | Trust Check | 1.1.0 | Base crypto safety for agents: honeypot/tax test, address poisoning, rug feed,… |
-| 2026-10-12 20:46:03 | [io.github.switchwize/switchwize-mcp](https://github.com/switchwize/switchwize-mcp) | SwitchWize MCP | 0.3.0 | Sixteen read-only US rate, savings-gap, Fed, card and CD tools with sources and… |
-| 2026-10-12 20:46:31 | [io.github.Dcroyalty/uxus](https://github.com/Dcroyalty/cryptorisk-api) | UXUS Agent Services: wallet lookup, ent… | 1.2.0 | Free wallet lookup, ENS resolve, entity labels, caller ID. Paid x402 web search… |
-| 2026-10-12 20:51:58 | [io.github.MoltyCel/moltrust-mcp-server](https://github.com/MoltyCel/moltrust-mcp-server) | MolTrust MCP Server | 1.2.5 | Verifiable agent identity and trust checks; allow/hold/forbid verdicts for Amaz… |
-| 2026-10-12 20:56:20 | [io.github.fathomise/mailfathom](https://github.com/fathomise/MailFathom) | MailFathom | 0.7.0 | Security-first, self-hosted email archive with search, cited answers, and sendi… |
-| 2026-10-12 20:57:14 | [io.github.JacekSmi/PolishOpenData](https://github.com/JacekSmi/PolishOpenData) | Polish Open Data (unofficial) | 1.2.0 | Polish company registers: KRS extracts, Biała Lista VAT and bank account checks… |
-| 2026-10-12 20:58:52 | [us.openquality/mcp](https://github.com/FHIR-IQ/openquality) | Open Quality | 0.1.1 | Open healthcare quality measures: CQL, SQL and FHIR with provenance and known i… |
-| 2026-10-12 21:07:31 | com.pushwing/pushwing | Pushwing | 0.1.0 | Publish to your YouTube and Instagram accounts: schedule posts, read analytics… |
-| 2026-10-12 21:09:16 | cc.tamloot/mcp | Tamloot | 1.0.0 | Read-only access to your Tamloot contacts, sessions, transcripts, and notes. |
-| 2026-10-12 21:13:35 | com.onyxmetric/mcp | OnyxMetric | 1.0.0 | Read and manage OnyxMetric web analytics: traffic, errors, funnels, goals, site… |
-| 2026-10-12 21:16:06 | [com.leonidalab/gta6-facts](https://github.com/LeonidaLab/gta6-mcp) | Leonida Lab: GTA 6 facts, official or n… | 1.0.0 | Unofficial GTA 6 facts tagged official or reported. Not affiliated with Rocksta… |
-| 2026-10-12 21:17:50 | io.gramforge/gramforge | GramForge | 1.0.0 | Chat assistants for small businesses on Telegram: use cases, pricing, guides, s… |
-| 2026-10-12 21:18:01 | ai.gtinfetch/gtinfetch | gtinfetch – Agentic Commerce | 1.0.0 | Resolve any GTIN. The who, what, where. 40M GTINs, retail grocery. |
-| 2026-10-12 21:19:04 | com.attachpage/attachpage | AttachPage | 1.0.0 | Publish webpages and documents, send private review links, and read feedback. I… |
+| 2026-10-12 21:21:58 | uk.co.haulierscope/operator-licences | HaulierScope | 1.0.0 | Check UK goods and PSV operator licences: status, vehicles, changes, inquiries… |
+| 2026-10-12 21:22:19 | com.ai-phd/ai-phd |  | 1.0.0 | AI PhD office hours: a graded curriculum you run in your own AI. Not a universi… |
+| 2026-10-12 21:22:23 | com.trainwithagents/trainwithagents |  | 1.0.0 | Practice using the AI you already use on real work from your week. Free first m… |
+| 2026-10-12 21:22:27 | com.ragcreator/ragcreator |  | 1.0.0 | Build a RAG pipeline station by station and search your own documents with cite… |
+| 2026-10-12 21:23:54 | [dev.exit1/exit1-mcp](https://github.com/Mopra/exit1.dev.mcp) | Exit1 Uptime Monitoring | 0.4.0 | Set up uptime monitoring from your editor: create checks, alerts, and query upt… |
+| 2026-10-12 21:24:01 | [com.justgains/mcp-server](https://github.com/JustGains/justgains-connector) | JustGains | 1.0.0 | Save workouts, read training history and progress, search exercises, and log fo… |
+| 2026-10-12 21:27:36 | [io.github.levanmamulashvili911-byte/cosmic-ears-mcp](https://github.com/levanmamulashvili911-byte/cosmic-ears-mcp) | Cosmic Ears MCP | 0.2.0 | Real satellite audio, spectrograms and provenance through MCP. |
+| 2026-10-12 21:29:05 | dev.vid2llm/mcp | vid2llm | 0.1.0 | Read public videos (TikTok, YouTube, Instagram, X) as text. Pay per video with… |
+| 2026-10-12 21:31:38 | app.soclo/soclo-mcp | Soclo | 1.0.2 | Soclo: content, socials, ads and takings on iOS, Google Play and web - connecte… |
+| 2026-10-12 21:33:59 | cloud.pandy/tickets-organizer | Pandy Tickets for organizers | 1.0.0 | Read your events, sales, orders and attendees from your AI assistant. OAuth sig… |
+| 2026-10-12 21:34:26 | org.textclean/textclean | TextClean MCP | 1.1.0 | Free deterministic PDF, Markdown, citation, invisible-character, and formatting… |
+| 2026-10-12 21:34:58 | [io.github.itsmeadamdamroma/mazzagrp](https://github.com/itsmeadamdamroma/mcp-server) | Mazza Group AI APIs | 1.0.0 | 21 AI APIs pay-per-call with USDC on Base via x402. No keys, no signup. |
+| 2026-10-12 21:41:10 | com.relayger/messaging | Relayger: AI agent messaging | 0.3.4 | AI agent messaging with durable inboxes, contacts and tasks. Connect through MC… |
+| 2026-10-12 21:41:24 | xyz.xmrtousdc/swapper | Swapper - XMR to USDC swaps | 0.5.0 | XMR <-> USDC (Arbitrum One) swaps for AI agents. Swapper never holds funds. 8 t… |
+| 2026-10-12 21:42:51 | [io.github.AnonymousOnyx22/brightspace-d2l-mcp](https://github.com/AnonymousOnyx22/brightspace-d2l-mcp) |  | 1.3.0 | D2L Brightspace for AI: what's due and submitted, grades, exams, what's new and… |
+| 2026-10-12 21:50:00 | [io.github.atushi1841/japan-market-mcp](https://github.com/atushi1841/japan-market-mcp) |  | 0.1.0 | Compare used-good prices across 9 Japanese shops + Rakuten Ichiba, MAFF data, p… |
+| 2026-10-12 21:50:01 | [io.github.atushi1841/mandarake-surugaya-mcp](https://github.com/atushi1841/mandarake-surugaya-mcp) |  | 0.1.0 | Search Mandarake auctions, Suruga-ya collectibles, Rakuten Ichiba via one MCP s… |
+| 2026-10-12 21:50:03 | [io.github.atushi1841/rakuten-japan-mcp](https://github.com/atushi1841/rakuten-japan-mcp) |  | 0.1.0 | Search Rakuten Ichiba products and rankings via official Rakuten APIs. |
+| 2026-10-12 21:52:41 | com.controlflare/controlflare | Controlflare | 1.0.0 | A hard budget cap for Cloudflare Workers: see estimated spend and pause or resu… |
+| 2026-10-12 21:55:11 | [io.github.diegobruegger-prog/shortformkit](https://github.com/diegobruegger-prog/shortformkit-mcp) | Shortform Kit | 1.0.0 | Transcribe, read and download public Reels, TikToks and YouTube videos, plus so… |
+| 2026-10-12 21:55:45 | app.netlify.kitchen-pass/chef |  | 0.1.0 | A head chef's verified answers as tools: scale recipes, fix cooking faults, swa… |
+| 2026-10-12 22:02:26 | org.daypilot/mcp | DayPilot | 0.1.0 | Official DayPilot references, release packages, CSS themes and verified starter… |
+| 2026-10-12 22:04:52 | [me.guaqai.jobs/employed](https://github.com/Guaq-AI/employed-plugins) | Employed by Guaq AI | 1.2.0 | Live jobs from ~5,000 employer ATS boards, hiring profiles, your job profile an… |
+| 2026-10-12 22:05:45 | com.codonvaluation.mcp/codon-valuation | Codon Valuation | 1.0.1 | Indicative US 409A and UK EMI share value estimates from cap table and financia… |
+| 2026-10-12 22:10:07 | com.supapark/agent-api | SupaPark — Walt Disney World live data | 0.2.0 | Live Walt Disney World waits, crowd forecasts, Lightning Lane sellouts and pric… |
+| 2026-10-12 22:11:16 | [io.github.spuentesp/zoanthrope](https://github.com/spuentesp/zoanthrope) | zoanthrope | 0.1.2 | Coordination relay for agent swarms: file claims, presence, postboard intention… |
+| 2026-10-12 22:12:56 | [io.github.shigechika/jquants-mcp](https://github.com/shigechika/jquants-mcp) | J-Quants MCP | 1.4.0 | MCP server for retrieving Japanese stock market data via J-Quants API v2 |
+| 2026-10-12 22:16:18 | [ai.certscore/mcp-light](https://github.com/ergoveritas1-alt/certscore.ai) | CertScore.ai MCP Light | 0.2.26 | Free website privacy scanner for pre-consent cookies, trackers, consent, policy… |
+| 2026-10-12 22:21:03 | [com.otprun/otprun](https://github.com/otprun/otprun-ai) | OTP Run for WhatsApp | 1.2.0 | Send WhatsApp messages from your own number, read the replies and send login co… |
 
 ## Data source
 
