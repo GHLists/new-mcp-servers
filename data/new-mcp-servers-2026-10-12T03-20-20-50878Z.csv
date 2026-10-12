@@ -1,0 +1,13 @@
+created_at,server,title,version,repository,transports,description
+2026-10-12T02:22:53.561394Z,com.thestackunderflow/datum-property,Datum Property Intelligence,0.1.0,,streamable-http,"US county, Census GEOIDs and demographics for any coordinate, with sources on every answer."
+2026-10-12T02:30:57.263772Z,io.github.qualienai/qualien-mcp,,0.6.2,https://github.com/qualienai/qualien-mcp,,"MCP gateway for QA/SDET work: Playwright, files, GitHub, Jira, Postgres & more in one connection."
+2026-10-12T02:31:03.360135Z,expert.globalmacro/global-macro-expert,Global Macro Expert,1.0.0,,streamable-http,"Free macro, rates, FX, commodities and energy data from official sources (ECB, IMF, EIA, BIS, CFTC)."
+2026-10-12T02:32:46.040205Z,app.keeploop/keeploop,Keeploop,0.23.1,https://github.com/keeploopapp/claude-plugin,streamable-http,"Mail, Calendar, Messages, Notes, Contacts, Slack on your Mac for AI. Remote needs Pro or free trial."
+2026-10-12T02:36:35.770987Z,io.dataquoll/data-api,DataQuoll,1.7.0,,streamable-http,"Australian data as MCP tools: incidents, gauges, declarations, calendars, police releases, archive."
+2026-10-12T02:50:18.567353Z,io.github.MaydayTrey/autopia,Autopia,0.3.0,https://github.com/MaydayTrey/autopia,streamable-http,"Verified, reproduced behavior of public HTTP APIs: spec gaps, errors, pagination, auth."
+2026-10-12T02:51:11.950182Z,com.ariadnemarketing/therapist-marketing,Ariadne for Therapists,1.0.0,https://github.com/bgrieco22/ariadne-mcp,streamable-http,Free Google Business Profile audits and sample posts for therapists in private practice.
+2026-10-12T02:52:35.489232Z,ai.gatewayarchitect/decisions,Gateway Architect,1.4.3,,streamable-http,Your coding agent reads your team's architectural decisions and what happened when they shipped.
+2026-10-12T02:57:43.518363Z,io.github.chrischall/iaqualink-mcp,,0.1.0,https://github.com/chrischall/iaqualink-mcp,,"iAqualink pool equipment: status plus confirm-gated pump, heater, light and set-point control."
+2026-10-12T03:03:33.814146Z,cloud.pandy/tickets,Pandy Tickets,1.0.0,,streamable-http,"Find events in Guatemala, get checkout links and draft new events. Public, no key."
+2026-10-12T03:05:31.320271Z,io.github.mishafyi/apple-docs-2.0-mcp,Apple Docs 2.0 MCP,2.0.0,https://github.com/mishafyi/Apple-Docs-2.0-MCP,,"Apple developer docs, Human Interface Guidelines and 1,700 WWDC sessions with code for AI assistants"
+2026-10-12T03:06:10.371076Z,xyz.sentio/connect,Sentio Connect,0.1.0,,streamable-http,"Track public wallets: token balances, prices, portfolio value, DeFi positions and holding history."
