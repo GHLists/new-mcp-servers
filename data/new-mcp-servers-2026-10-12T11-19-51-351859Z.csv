@@ -1,0 +1,46 @@
+created_at,server,title,version,repository,transports,description
+2026-10-12T10:20:24.29476Z,io.github.ZhongQuinnKing/caishi,,1.0.1,https://github.com/ZhongQuinnKing/caishi,,"Read Bilibili, Douyin, Xiaohongshu and any web page via your own logged-in Chrome."
+2026-10-12T10:22:11.180635Z,fr.hermetics/rgpd,Hermetics RGPD,0.2.0,,streamable-http,"EU data protection law for AI agents: GDPR, AI Act, EDPB, CJEU and national law, with status."
+2026-10-12T10:23:37.97213Z,io.github.TGM-Ventures/tgmcharts,TGMCharts,1.0.0,,streamable-http,"US stock fundamentals: SEC financial statements, valuation series, summaries, screens, chart images."
+2026-10-12T10:26:06.695741Z,io.github.minicoursegenerator/mcp,Mini Course Generator,0.2.0,https://github.com/minicoursegenerator/mini-course-generator-mcp,streamable-http,"Build, publish and track interactive micro-courses, quizzes and learner analytics."
+2026-10-12T10:27:40.048331Z,io.github.gndeepan/hermes-mcp,Hermes (Vajro),0.3.0,,streamable-http,"Manage a Vajro store through the Hermes API: themes, blocks, settings, plugins and more."
+2026-10-12T10:28:34.796742Z,io.github.vahtel/breeze,Breeze,0.2.0,,streamable-http,"Breeze project management: search projects, update tasks, to-dos and comments, and log time."
+2026-10-12T10:32:01.658384Z,io.useclick/mcp,useClick,1.0.0,,streamable-http,"Short links, QR codes, link and website analytics: create and edit links, read clicks and visitors."
+2026-10-12T10:32:38.470661Z,io.github.AION-Analytics-India/aion-indian-market-intelligence-mcp,AION Indian Market Intelligence,1.0.6,https://github.com/AION-Analytics-India/aion-mcp-server,,"Sector impact of Indian financial events as structured JSON, from a hosted API. Needs an API key."
+2026-10-12T10:32:38.599886Z,io.usefulapi/cashctrl,CashCtrl MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read CashCtrl accounts, journal, orders, people, articles, salaries and reports; book and create."
+2026-10-12T10:32:51.841418Z,io.github.alphorn-dev/mcp,Alphorn,0.1.1,https://github.com/alphorn-dev/mcp,,"Let AI agents notify you on Slack, Telegram, email, SMS, or push via an Alphorn webhook."
+2026-10-12T10:36:06.627452Z,uk.co.rentfig/rentfig,RentFig,1.0.0,,streamable-http,"Read-only RentFig data for UK landlords: properties, tenancies, arrears, compliance and P&L."
+2026-10-12T10:37:20.011195Z,io.usefulapi/zenserp,Zenserp MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Search Google, images, news, maps, shopping, YouTube, jobs, hotels, flights and trends with Zenserp."
+2026-10-12T10:42:22.627828Z,io.github.xang1234/stockscreen-mcp,Stock Screener,0.1.0,https://github.com/xang1234/stock-screener,,"Daily stock screens, RS ratings, market breadth and group rankings for 12 markets. No API keys."
+2026-10-12T10:43:00.855821Z,com.sankhyafarms/demo,Sankhya Farms Demo Orchard,1.0.0,,streamable-http,"Working demo of Sankhya's irrigation controls on a simulated orchard, with human approval."
+2026-10-12T10:44:26.400754Z,io.github.0design/qfactory,QFactory,0.5.0,,streamable-http,"Read-only QFactory catalog of agent workflows: search, get exact versions, schema, validate YAML."
+2026-10-12T10:44:31.865105Z,io.github.0design/unslop,Unslop,0.1.0,,streamable-http,"Read-only canon of design and copy rules for AI agents to audit generated UI, served as resources."
+2026-10-12T10:47:23.909882Z,ai.torgix/free-tools,Torgix Free Equipment Tools,0.1.0,,streamable-http,"Free equipment tools: cost per hour, repair vs replace, compliance, VIN, recalls, manuals."
+2026-10-12T10:51:47.657117Z,com.dovemails/mcp,Dovemails,1.1.0,,streamable-http,"Email inboxes for AI agents: send, wait for mail, reply in thread, forward and label."
+2026-10-12T10:52:17.272616Z,cloud.briq/briq,briq,1.0.0,,streamable-http,"Give your agent its own cloud: run Postgres, Redis or any Docker image on a microVM in one call."
+2026-10-12T10:53:39.335297Z,io.github.bitt3n/minxa,minxa,1.0.0,,streamable-http,"Read-only fashion and beauty product search across popular online shops, any price, any language."
+2026-10-12T10:55:35.846942Z,io.usefulapi/bill4time,Bill4Time MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Bill4Time clients, projects, time entries, expenses, invoices, payments, users and contacts."
+2026-10-12T10:58:08.35234Z,ai.shurco/llm-pricing,LLM API Pricing and Automation Tools by shurco.ai,1.0.0,,streamable-http,"Daily LLM API prices, cost estimates and automation ROI tools from shurco.ai"
+2026-10-12T11:02:45.81096Z,io.github.gaoruitech/genrelay-mcp,,0.1.1,https://github.com/gaoruitech/genrelay-mcp,,"Generate video and images (Veo 3.1, Grok Imagine, Nano Banana, GPT Image 2) via the GenRelay API."
+2026-10-12T11:02:58.707777Z,com.localscreenshot/localscreenshot,localscreenshot,1.0.0,,streamable-http; streamable-http,"Screenshot any public web page from 227 countries, with cookie banners and ads hidden."
+2026-10-12T11:03:10.826289Z,net.secretsantaraffle/mcp,Secret Santa Raffle,0.4.0,,streamable-http,Organise a Secret Santa from Claude or ChatGPT. Matchings never appear in the chat.
+2026-10-12T11:05:11.783386Z,pro.guiaflow/guiaflow,GuiaFlow,1.0.0,,streamable-http,"Build interactive product demos: guided tours, lead capture, WhatsApp CTA, AI copy/voice, analytics."
+2026-10-12T11:07:10.839319Z,xyz.unrent/unrent,UNRENT,1.0.0,,streamable-http,"Reclaim overpaid rent from Solana token accounts (SIMD-0437). Non-custodial, no API key."
+2026-10-12T11:07:17.874669Z,io.github.jyswee/buggazi,,2.15.1,https://github.com/jyswee/buggazi,streamable-http; sse,"Project management for coding agents. Bugs, features, sprints. Streamable HTTP + SSE remotes."
+2026-10-12T11:13:37.217775Z,io.github.jonny-1812/corebee,Corebee Customer Support,2.2.0,https://github.com/Corebee-AI/corebee-plugin,streamable-http,"Hosted support inbox over MCP: answer web chat, WhatsApp, email and SMS, manage knowledge."
+2026-10-12T11:15:18.848936Z,io.usefulapi/notifyre,Notifyre MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Notifyre SMS, replies, faxes, numbers, prices and contacts; send SMS to up to 10 numbers."
+2026-10-12T11:16:41.105866Z,app.colabro/colab,colabro,1.0.0,,streamable-http,"Shared workspaces of typed objects with views, changes and sharing, for AI agents and people."
+2026-10-12T11:18:00.782316Z,io.github.TeamDzX/drawpad-mcp,DrawPad,2.0.0,https://github.com/TeamDzX/drawpad-mcp,,"Design 3D-printable keychains, cookie cutters, signs and parts: watertight STL plus preview. macOS."
+2026-10-12T11:18:21.035223Z,com.mariadb/mariadb-docs,MariaDB Documentation,1.0.0,,streamable-http,"Search and read the official MariaDB documentation for every MariaDB product, plus release notes."
+2026-10-12T11:19:06.093645Z,kr.co.klisten.api/actioncheck,Klisten ActionCheck,0.1.0,,streamable-http,Check proposed actions against existing policies. Never executes actions. Customer key required.
+2026-10-12T11:19:08.383613Z,kr.co.klisten.api/agentescrow,Klisten AgentEscrow,0.1.0,,streamable-http,"Read unfunded contract drafts. No deposits, payouts or settlement. Customer key required."
+2026-10-12T11:19:11.351673Z,kr.co.klisten.api/agentscore,Klisten AgentScore,0.1.0,,streamable-http,"Read private agent activity, not identity or reputation scores. Customer key required."
+2026-10-12T11:19:13.066807Z,io.github.VicPitic/ugc-agent,UGC Agent,1.0.0,,streamable-http,"Find Instagram and TikTok UGC creators with public emails, and see which brands run UGC."
+2026-10-12T11:19:14.595488Z,kr.co.klisten.api/cleargate,Klisten ClearGate,0.1.0,,streamable-http,Check existing content grants and expiry. No content fetching. Customer key required.
+2026-10-12T11:19:17.152658Z,kr.co.klisten.api/deadlineengine,Klisten DeadlineEngine,0.1.0,,streamable-http,Compute explicit durations. No reminders or legal guarantees. Customer key required.
+2026-10-12T11:19:19.647255Z,kr.co.klisten.api/failbox,Klisten FailBox,0.1.0,,streamable-http,Persist failure simulations. No external fault injection or transfers. Customer key required.
+2026-10-12T11:19:23.070211Z,kr.co.klisten.api/metermcp,Klisten MeterMCP,0.1.0,,streamable-http,Read your organization usage records. No payments or transfers. Customer API key required.
+2026-10-12T11:19:23.443503Z,io.github.FinzData/finzdata-mcp,,0.1.0,,,"US stock prices, COT, FRED macro, short interest and SEC data for AI assistants. Free: 12 months."
+2026-10-12T11:19:25.723766Z,kr.co.klisten.api/schemashield,Klisten SchemaShield,0.1.0,,streamable-http,Store and compare organization JSON snapshots. No database crawling. Customer key required.
+2026-10-12T11:19:29.823643Z,kr.co.klisten.api/toolrank,Klisten ToolRank,0.1.0,,streamable-http,Search the tool catalog. Customer API key required. Catalog metadata is not a security guarantee.
+2026-10-12T11:19:48.650824Z,com.mcp-interfaces/layoutbridge-spm,LayoutBridge for Adobe InDesign®,1.0.2,,,"layoutbridge-spm – MCP server for Adobe® InDesign®: pages, frames, text, styles, tables, export"
