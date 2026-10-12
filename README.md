@@ -9,43 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 22:22 UTC
+## Latest list — 2026-10-12 23:20 UTC
 
-New MCP servers published between 2026-10-12 21:21 UTC and 2026-10-12 22:22 UTC.
+New MCP servers published between 2026-10-12 22:22 UTC and 2026-10-12 23:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-12T22-22-06-809135Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-12T23-20-38-562668Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-12 21:21:58 | uk.co.haulierscope/operator-licences | HaulierScope | 1.0.0 | Check UK goods and PSV operator licences: status, vehicles, changes, inquiries… |
-| 2026-10-12 21:22:19 | com.ai-phd/ai-phd |  | 1.0.0 | AI PhD office hours: a graded curriculum you run in your own AI. Not a universi… |
-| 2026-10-12 21:22:23 | com.trainwithagents/trainwithagents |  | 1.0.0 | Practice using the AI you already use on real work from your week. Free first m… |
-| 2026-10-12 21:22:27 | com.ragcreator/ragcreator |  | 1.0.0 | Build a RAG pipeline station by station and search your own documents with cite… |
-| 2026-10-12 21:23:54 | [dev.exit1/exit1-mcp](https://github.com/Mopra/exit1.dev.mcp) | Exit1 Uptime Monitoring | 0.4.0 | Set up uptime monitoring from your editor: create checks, alerts, and query upt… |
-| 2026-10-12 21:24:01 | [com.justgains/mcp-server](https://github.com/JustGains/justgains-connector) | JustGains | 1.0.0 | Save workouts, read training history and progress, search exercises, and log fo… |
-| 2026-10-12 21:27:36 | [io.github.levanmamulashvili911-byte/cosmic-ears-mcp](https://github.com/levanmamulashvili911-byte/cosmic-ears-mcp) | Cosmic Ears MCP | 0.2.0 | Real satellite audio, spectrograms and provenance through MCP. |
-| 2026-10-12 21:29:05 | dev.vid2llm/mcp | vid2llm | 0.1.0 | Read public videos (TikTok, YouTube, Instagram, X) as text. Pay per video with… |
-| 2026-10-12 21:31:38 | app.soclo/soclo-mcp | Soclo | 1.0.2 | Soclo: content, socials, ads and takings on iOS, Google Play and web - connecte… |
-| 2026-10-12 21:33:59 | cloud.pandy/tickets-organizer | Pandy Tickets for organizers | 1.0.0 | Read your events, sales, orders and attendees from your AI assistant. OAuth sig… |
-| 2026-10-12 21:34:26 | org.textclean/textclean | TextClean MCP | 1.1.0 | Free deterministic PDF, Markdown, citation, invisible-character, and formatting… |
-| 2026-10-12 21:34:58 | [io.github.itsmeadamdamroma/mazzagrp](https://github.com/itsmeadamdamroma/mcp-server) | Mazza Group AI APIs | 1.0.0 | 21 AI APIs pay-per-call with USDC on Base via x402. No keys, no signup. |
-| 2026-10-12 21:41:10 | com.relayger/messaging | Relayger: AI agent messaging | 0.3.4 | AI agent messaging with durable inboxes, contacts and tasks. Connect through MC… |
-| 2026-10-12 21:41:24 | xyz.xmrtousdc/swapper | Swapper - XMR to USDC swaps | 0.5.0 | XMR <-> USDC (Arbitrum One) swaps for AI agents. Swapper never holds funds. 8 t… |
-| 2026-10-12 21:42:51 | [io.github.AnonymousOnyx22/brightspace-d2l-mcp](https://github.com/AnonymousOnyx22/brightspace-d2l-mcp) |  | 1.3.0 | D2L Brightspace for AI: what's due and submitted, grades, exams, what's new and… |
-| 2026-10-12 21:50:00 | [io.github.atushi1841/japan-market-mcp](https://github.com/atushi1841/japan-market-mcp) |  | 0.1.0 | Compare used-good prices across 9 Japanese shops + Rakuten Ichiba, MAFF data, p… |
-| 2026-10-12 21:50:01 | [io.github.atushi1841/mandarake-surugaya-mcp](https://github.com/atushi1841/mandarake-surugaya-mcp) |  | 0.1.0 | Search Mandarake auctions, Suruga-ya collectibles, Rakuten Ichiba via one MCP s… |
-| 2026-10-12 21:50:03 | [io.github.atushi1841/rakuten-japan-mcp](https://github.com/atushi1841/rakuten-japan-mcp) |  | 0.1.0 | Search Rakuten Ichiba products and rankings via official Rakuten APIs. |
-| 2026-10-12 21:52:41 | com.controlflare/controlflare | Controlflare | 1.0.0 | A hard budget cap for Cloudflare Workers: see estimated spend and pause or resu… |
-| 2026-10-12 21:55:11 | [io.github.diegobruegger-prog/shortformkit](https://github.com/diegobruegger-prog/shortformkit-mcp) | Shortform Kit | 1.0.0 | Transcribe, read and download public Reels, TikToks and YouTube videos, plus so… |
-| 2026-10-12 21:55:45 | app.netlify.kitchen-pass/chef |  | 0.1.0 | A head chef's verified answers as tools: scale recipes, fix cooking faults, swa… |
-| 2026-10-12 22:02:26 | org.daypilot/mcp | DayPilot | 0.1.0 | Official DayPilot references, release packages, CSS themes and verified starter… |
-| 2026-10-12 22:04:52 | [me.guaqai.jobs/employed](https://github.com/Guaq-AI/employed-plugins) | Employed by Guaq AI | 1.2.0 | Live jobs from ~5,000 employer ATS boards, hiring profiles, your job profile an… |
-| 2026-10-12 22:05:45 | com.codonvaluation.mcp/codon-valuation | Codon Valuation | 1.0.1 | Indicative US 409A and UK EMI share value estimates from cap table and financia… |
-| 2026-10-12 22:10:07 | com.supapark/agent-api | SupaPark — Walt Disney World live data | 0.2.0 | Live Walt Disney World waits, crowd forecasts, Lightning Lane sellouts and pric… |
-| 2026-10-12 22:11:16 | [io.github.spuentesp/zoanthrope](https://github.com/spuentesp/zoanthrope) | zoanthrope | 0.1.2 | Coordination relay for agent swarms: file claims, presence, postboard intention… |
-| 2026-10-12 22:12:56 | [io.github.shigechika/jquants-mcp](https://github.com/shigechika/jquants-mcp) | J-Quants MCP | 1.4.0 | MCP server for retrieving Japanese stock market data via J-Quants API v2 |
-| 2026-10-12 22:16:18 | [ai.certscore/mcp-light](https://github.com/ergoveritas1-alt/certscore.ai) | CertScore.ai MCP Light | 0.2.26 | Free website privacy scanner for pre-consent cookies, trackers, consent, policy… |
-| 2026-10-12 22:21:03 | [com.otprun/otprun](https://github.com/otprun/otprun-ai) | OTP Run for WhatsApp | 1.2.0 | Send WhatsApp messages from your own number, read the replies and send login co… |
+| 2026-10-12 22:22:30 | [io.github.shuji-bonji/pdf-writer-mcp](https://github.com/shuji-bonji/pdf-writer-mcp) | PDF Writer (PDF Agent Stack) | 0.22.0 | Create and edit PDFs: text, Markdown, tables, metadata and pages, with Japanese… |
+| 2026-10-12 22:24:10 | [io.github.crowdintel-xyz/polymarket-agent-kit](https://github.com/crowdintel-xyz/polymarket-agent-kit) | CrowdIntel — Polymarket Wallet Intellig… | 1.0.0 | Polymarket wallet intelligence for AI agents: scored wallets, insider signals,… |
+| 2026-10-12 22:24:32 | [io.github.atabekdemurtaza/papyrio-mcp](https://github.com/atabekdemurtaza/papyrio-mcp) | Papyrio PDF Tools | 0.1.2 | Compress, convert, merge, split and OCR PDFs from an assistant, using local fil… |
+| 2026-10-12 22:25:16 | io.corrie/site-check | Corrie Site Check | 1.0.0 | Free website check: HTTPS setup and security headers, scored with plain-English… |
+| 2026-10-12 22:33:07 | [io.github.Carwhere/vin-mcp](https://github.com/carwhere/vin-mcp) |  | 0.1.2 | Decode any US-market VIN, check NHTSA recalls, and look up verified buyer-paid… |
+| 2026-10-12 22:35:29 | ai.meetdarwin/darwin | Darwin | 1.0.0 | Read and manage your Darwin website AI agent: conversations, leads, meetings, k… |
+| 2026-10-12 22:43:10 | fitness.depot/strength-programs | depot.fitness | 0.1.0 | Search 101 structured strength-training programs, exercises and guides from dep… |
+| 2026-10-12 22:44:20 | com.permitame/permits | Permitame | 1.2.0 | Building permit answers for Kitsap County, WA and its cities, quoted from offic… |
+| 2026-10-12 22:49:04 | site.chatgpt.snugguppy5.accessgraph/accessgraph | AccessGraph | 0.1.0 | Policy-aware web access preflight: robots, licensing, payment and advertised ro… |
+| 2026-10-12 22:50:04 | [io.github.gabrielmahia/usafiri-mcp](https://github.com/gabrielmahia/usafiri-mcp) |  | 0.1.7 | MCP server for transport coordination in East Africa (usafiri = transport) |
+| 2026-10-12 22:50:09 | [io.github.gabrielmahia/elimu-mcp](https://github.com/gabrielmahia/elimu-mcp) |  | 0.1.6 | MCP server for education coordination in East Africa (elimu = education) |
+| 2026-10-12 22:56:31 | [io.github.Innoprovn/vn-revit-mcp](https://github.com/Innoprovn/vn-revit-mcp) | vn-revit-mcp | 0.3.0 | AI drives Autodesk Revit 2025+: queries, QA-QC, CAD-to-model, rebar, sheets. |
+| 2026-10-12 22:56:37 | org.journeyed/hotels | Journeyed: Los Angeles hotel facts | 1.0.0 | Sourced Los Angeles hotel facts: parking, fees, pets, check-in, pools, awards,… |
+| 2026-10-12 22:57:09 | dev.answerline/answerline |  | 1.0.0 | What ChatGPT, Gemini, Copilot and Google answer — structured JSON with cited so… |
+| 2026-10-12 22:59:09 | [io.github.shuji-bonji/pdf-spec-mcp](https://github.com/shuji-bonji/pdf-spec-mcp) | PDF Spec (PDF Agent Stack) | 0.6.2 | Look up ISO 32000 (PDF) clauses, requirements and terms. A reference, not a con… |
+| 2026-10-12 23:04:51 | [io.github.ninjatrader542/flop-independent-verification](https://github.com/ninjatrader542/Flop) | FLOP Independent Verification | 2.1.0 | Seven bounded readonly verification tools. No execution of arbitrary code or mo… |
+| 2026-10-12 23:06:34 | [io.github.pandich93/creatorloop](https://github.com/pandich93/creatorloop) | creatorloop | 0.1.0 | Instagram content studio for Claude: analytics, competitors, Reels, publishing… |
+| 2026-10-12 23:06:59 | com.nclexdrill/agent-toolbox |  | 1.0.0 | 13 free utility tools for AI agents: web text, markdown, hashing, IDs, dates, u… |
+| 2026-10-12 23:10:38 | com.getcheapgames/getcheapgames | getcheapgames | 1.0.0 | Game key prices across stores in 40 countries, best-rated games under a budget,… |
+| 2026-10-12 23:11:11 | [io.github.ierehon1905/parcad](https://github.com/ierehon1905/parcad) | ParCAD | 0.0.12 | Parametric CAD as code: model 3D-printable parts on an exact B-rep kernel, meas… |
+| 2026-10-12 23:14:40 | com.honestelf/efiling | Honest Elf e-filing | 1.0.0 | Court e-filing for Texas: search courts and cases, draft filings, quote fees, s… |
+| 2026-10-12 23:15:00 | [io.github.BlueWaterCorp/riskmodels](https://github.com/BlueWaterCorp/RiskModels_API) | RiskModels | 1.0.11 | Dividend-adjusted US equity total returns, risk decomposition, attribution & ET… |
+| 2026-10-12 23:20:27 | [io.github.gonzaroman/ihmt-memory](https://github.com/gonzaroman/IHMT-MEMORY) | IHMT Memory | 1.2.0 | Long-term memory for AI coding agents, stored as a tree of plain local files. |
 
 ## Data source
 

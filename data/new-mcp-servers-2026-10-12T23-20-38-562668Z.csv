@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-10-12T22:22:30.249003Z,io.github.shuji-bonji/pdf-writer-mcp,PDF Writer (PDF Agent Stack),0.22.0,https://github.com/shuji-bonji/pdf-writer-mcp,,"Create and edit PDFs: text, Markdown, tables, metadata and pages, with Japanese font embedding."
+2026-10-12T22:24:10.363819Z,io.github.crowdintel-xyz/polymarket-agent-kit,CrowdIntel — Polymarket Wallet Intelligence,1.0.0,https://github.com/crowdintel-xyz/polymarket-agent-kit,streamable-http,"Polymarket wallet intelligence for AI agents: scored wallets, insider signals, whale flow."
+2026-10-12T22:24:32.945406Z,io.github.atabekdemurtaza/papyrio-mcp,Papyrio PDF Tools,0.1.2,https://github.com/atabekdemurtaza/papyrio-mcp,,"Compress, convert, merge, split and OCR PDFs from an assistant, using local files."
+2026-10-12T22:25:16.553825Z,io.corrie/site-check,Corrie Site Check,1.0.0,,streamable-http,"Free website check: HTTPS setup and security headers, scored with plain-English fixes. No account."
+2026-10-12T22:33:07.836383Z,io.github.Carwhere/vin-mcp,,0.1.2,https://github.com/carwhere/vin-mcp,,"Decode any US-market VIN, check NHTSA recalls, and look up verified buyer-paid car prices. Free."
+2026-10-12T22:35:29.88897Z,ai.meetdarwin/darwin,Darwin,1.0.0,,streamable-http,"Read and manage your Darwin website AI agent: conversations, leads, meetings, knowledge and tests."
+2026-10-12T22:43:10.726309Z,fitness.depot/strength-programs,depot.fitness,0.1.0,,streamable-http,"Search 101 structured strength-training programs, exercises and guides from depot.fitness."
+2026-10-12T22:44:20.583212Z,com.permitame/permits,Permitame,1.2.0,,streamable-http,"Building permit answers for Kitsap County, WA and its cities, quoted from official sources."
+2026-10-12T22:49:04.152185Z,site.chatgpt.snugguppy5.accessgraph/accessgraph,AccessGraph,0.1.0,,streamable-http,"Policy-aware web access preflight: robots, licensing, payment and advertised routes for agents."
+2026-10-12T22:50:04.916514Z,io.github.gabrielmahia/usafiri-mcp,,0.1.7,https://github.com/gabrielmahia/usafiri-mcp,,MCP server for transport coordination in East Africa (usafiri = transport)
+2026-10-12T22:50:09.565517Z,io.github.gabrielmahia/elimu-mcp,,0.1.6,https://github.com/gabrielmahia/elimu-mcp,,MCP server for education coordination in East Africa (elimu = education)
+2026-10-12T22:56:31.017824Z,io.github.Innoprovn/vn-revit-mcp,vn-revit-mcp,0.3.0,https://github.com/Innoprovn/vn-revit-mcp,,"AI drives Autodesk Revit 2025+: queries, QA-QC, CAD-to-model, rebar, sheets."
+2026-10-12T22:56:37.998679Z,org.journeyed/hotels,Journeyed: Los Angeles hotel facts,1.0.0,,streamable-http,"Sourced Los Angeles hotel facts: parking, fees, pets, check-in, pools, awards, distances. Read-only."
+2026-10-12T22:57:09.988381Z,dev.answerline/answerline,,1.0.0,,streamable-http,"What ChatGPT, Gemini, Copilot and Google answer — structured JSON with cited sources."
+2026-10-12T22:59:09.634793Z,io.github.shuji-bonji/pdf-spec-mcp,PDF Spec (PDF Agent Stack),0.6.2,https://github.com/shuji-bonji/pdf-spec-mcp,,"Look up ISO 32000 (PDF) clauses, requirements and terms. A reference, not a conformance checker."
+2026-10-12T23:04:51.923161Z,io.github.ninjatrader542/flop-independent-verification,FLOP Independent Verification,2.1.0,https://github.com/ninjatrader542/Flop,streamable-http,Seven bounded readonly verification tools. No execution of arbitrary code or model calls.
+2026-10-12T23:06:34.992035Z,io.github.pandich93/creatorloop,creatorloop,0.1.0,https://github.com/pandich93/creatorloop,,"Instagram content studio for Claude: analytics, competitors, Reels, publishing queue."
+2026-10-12T23:06:59.590538Z,com.nclexdrill/agent-toolbox,,1.0.0,,streamable-http,"13 free utility tools for AI agents: web text, markdown, hashing, IDs, dates, units, JSON."
+2026-10-12T23:10:38.535717Z,com.getcheapgames/getcheapgames,getcheapgames,1.0.0,,streamable-http,"Game key prices across stores in 40 countries, best-rated games under a budget, free-to-play picks."
+2026-10-12T23:11:11.862849Z,io.github.ierehon1905/parcad,ParCAD,0.0.12,https://github.com/ierehon1905/parcad,,"Parametric CAD as code: model 3D-printable parts on an exact B-rep kernel, measured."
+2026-10-12T23:14:40.460455Z,com.honestelf/efiling,Honest Elf e-filing,1.0.0,,streamable-http,"Court e-filing for Texas: search courts and cases, draft filings, quote fees, submit, track review."
+2026-10-12T23:15:00.444084Z,io.github.BlueWaterCorp/riskmodels,RiskModels,1.0.11,https://github.com/BlueWaterCorp/RiskModels_API,streamable-http,"Dividend-adjusted US equity total returns, risk decomposition, attribution & ETF hedge ratios"
+2026-10-12T23:20:27.703133Z,io.github.gonzaroman/ihmt-memory,IHMT Memory,1.2.0,https://github.com/gonzaroman/IHMT-MEMORY,,"Long-term memory for AI coding agents, stored as a tree of plain local files."
