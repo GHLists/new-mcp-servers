@@ -9,42 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 20:20 UTC
+## Latest list — 2026-10-12 21:21 UTC
 
-New MCP servers published between 2026-10-12 19:20 UTC and 2026-10-12 20:20 UTC.
+New MCP servers published between 2026-10-12 20:20 UTC and 2026-10-12 21:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-12T20-20-23-995037Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-12T21-21-21-117036Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-12 19:21:05 | com.tenetinvesting/research | Tenet Investing | 1.0.0 | Read-only US stock research: scores with their math, statements, ratios and pla… |
-| 2026-10-12 19:22:55 | com.lnkdrp/linkdrop | LinkDrop | 1.0.0 | Share PDFs as trackable links and see who opened them, which pages they read an… |
-| 2026-10-12 19:30:29 | [app.swapwallet/mcp](https://github.com/SwapWallet/swapwallet-mcp) | SwapWallet | 1.0.1 | Crypto wallet: balances, P&L, history. Swaps, transfers and withdrawals need Te… |
-| 2026-10-12 19:31:25 | dev.euroref/reference-data | euroref — European government reference… | 1.5.1 | European govt data, cited: rates, VAT, tax, wages, holidays, FX. 34 countries +… |
-| 2026-10-12 19:33:11 | com.danuastrology/danu | Danu Astrology | 1.0.0 | Real natal charts for you and your people: compare charts, map your Circle, see… |
-| 2026-10-12 19:36:30 | com.conved/mcp | conved.com file converter | 1.3.0 | Convert files between hundreds of formats: documents, images, audio, e-books, f… |
-| 2026-10-12 19:36:41 | com.tryadeli/adeli | Adeli | 1.0.0 | Publish and analyze posts on Instagram, Facebook, TikTok, YouTube, X, and Blues… |
-| 2026-10-12 19:37:47 | [dev.precleared/contact-check](https://github.com/gabrielaoimevbore-beep/precleared-mcp) | Precleared Contact Check | 1.0.0 | Is this cold email allowed? Per-address verdict, rule quoted, signed receipt. U… |
-| 2026-10-12 19:41:42 | delivery.cometmessenger/courier | Comet Messenger Service | 2.0.0 | Chicago same-day courier: live delivery quotes; account holders book and track… |
-| 2026-10-12 19:42:02 | ro.trisport/store | Trisport | 1.0.0 | Romanian sports store: search products, sizes, stock, delivery and build a tris… |
-| 2026-10-12 19:46:36 | ai.formist/formist | Formist | 1.0.0 | AI agent that fills CBAM, GHG, CSRD/ESRS, EU Taxonomy, CDP and other sustainabi… |
-| 2026-10-12 19:52:58 | [com.sloppatterns/slop-patterns](https://github.com/pavithralamahewa/slop-patterns) | Slop Patterns | 1.2.1 | Checks UI code for AI-default design patterns and gives the fix. By Precious St… |
-| 2026-10-12 19:56:23 | [io.github.dambuchs/redact-pdf-mcp](https://github.com/dambuchs/redact-pdf-mcp) |  | 0.3.0 | Permanently redact PII from PDFs and scans. EU/Swiss-hosted, never used to trai… |
-| 2026-10-12 19:57:52 | [com.relaygpu/mcp](https://github.com/OpenGPU-Network/relaygpu-mcp) | Relay | 0.1.4 | Run any Relay model (image, video, audio, LLM), poll tasks, upload files and se… |
-| 2026-10-12 19:58:39 | [ai.file2markdown/file2markdown](https://github.com/Robinhill85/file2markdown-mcp) | file2markdown | 1.1.0 | Convert docs and web pages to clean Markdown: PDF, DOCX, XLSX, EPUB, scans, URL… |
-| 2026-10-12 20:00:40 | [com.animatedwebs/animatedwebs](https://github.com/iboss21/animatedwebs-claude) | AnimatedWebs | 1.2.1 | Animated website templates, cinematic video backgrounds, UI components and desi… |
-| 2026-10-12 20:02:14 | [com.rightaichoice/mcp](https://github.com/right-ai-choice/mcp-server) | RightAIChoice — verified AI tool data | 1.1.0 | What changed, what died, what it costs, what survives: 8,000+ AI tools, verifie… |
-| 2026-10-12 20:03:18 | [io.github.cvelasquez/mcp-sqlserver](https://github.com/cvelasquez/mcp-sqlserver) | SQL Server MCP | 3.2.0 | MCP server for DBAs running dozens of SQL Server instances: grouped connections… |
-| 2026-10-12 20:03:29 | io.github.dynamicupgrade/chromedebug |  | 2.9.6 | Record browser bugs - frames, clicks and console logs - and hand them to your A… |
-| 2026-10-12 20:03:51 | com.causeriebot/causerie | Causerie | 1.0.0 | Create, train and publish AI chatbots for your website from Claude, ChatGPT or… |
-| 2026-10-12 20:04:22 | dev.workers.cited-brief.cited-brief/cited-brief | Cited Brief | 1.1.0 | Paid web research tools: cited briefs, quote checks, page text. Pay per call in… |
-| 2026-10-12 20:08:42 | me.blinkhost/platform | BlinkHost | 0.2.0 | Manage BlinkHost projects, inspect plan limits, and review application builds a… |
-| 2026-10-12 20:10:40 | [io.github.jordan-belfort-ai/sitemap-extractor](https://github.com/jordan-belfort-ai/sitemap-extractor) | Sitemap Extractor (reliable) | 1.0.0 | Every URL in a site's sitemaps, with lastmod. Runs on Apify, $0.30 per 1,000 UR… |
-| 2026-10-12 20:11:12 | [io.github.openflowkit/openflowkit-mcp](https://github.com/openflowkit/openflowkit) |  | 0.2.3 | Architecture diagrams for your agent: draw on the live OpenFlowKit canvas or ed… |
-| 2026-10-12 20:12:13 | io.github.mattwerner-sudo/whistle-mcp |  | 1.0.2 | Verified staff contacts, schools, and hiring signals across NCAA athletic depar… |
-| 2026-10-12 20:14:19 | trade.axel/filing-public | A.X.E.L Filing (public tools) | 1.0.0 | UK company lookup, filing deadlines, late penalties and Corporation Tax maths.… |
-| 2026-10-12 20:14:20 | trade.axel/filing | A.X.E.L Filing | 1.0.0 | Prepare UK company accounts and CT600 Corporation Tax returns with the director… |
-| 2026-10-12 20:17:09 | [io.github.imkath/gmail-tidy-mcp](https://github.com/imkath/gmail-tidy-mcp) |  | 0.1.0 | Organize several Gmail accounts: labels, filters, archiving, drafts. Never send… |
+| 2026-10-12 20:23:40 | [com.parseaddr/address-parse](https://github.com/wezpyke/parseaddr-mcp) | ParseAddr — Address Parsing & Normaliza… | 0.1.0 | Hosted libpostal: messy free-text postal addresses → structured fields. No 2-4G… |
+| 2026-10-12 20:24:43 | [ai.omneum/omneum](https://github.com/cole-h06/omneum) | Omneum Local Connector | 1.0.3 | Local stdio connector for Omneum 1.0.3. Requires prior setup and Node.js 18+; m… |
+| 2026-10-12 20:25:01 | app.thedogs/dog-breed-advisor | TheDogs.app | 6.10.0 | Match dog breeds to your life, compare them, plan a test drive and estimate U.S… |
+| 2026-10-12 20:28:01 | money.stakedotlink/agents | stake.link Agents (stakedotlink.money) | 1.8.0 | Community-built stake.link tools: live stLINK, SDL and reSDL data, unsigned tra… |
+| 2026-10-12 20:32:04 | [io.github.amyodov/yet-another-agentic-chat](https://github.com/amyodov/yet-another-agentic-chat) | YAAC | 0.6.0 | Messaging between concurrent AI coding sessions, across clients, over MCP. Zero… |
+| 2026-10-12 20:33:56 | [io.github.nrupala/conduit-filings-fundamentals](https://github.com/nrupala/conduit) | Conduit — Filings & Fundamentals | 0.7.0 | 24-tool hosted SEC EDGAR connector: filings, fundamentals, segments, peers, ins… |
+| 2026-10-12 20:39:03 | nyc.motley/mcp | Motley — NYC Neighborhoods, Schools & A… | 0.3.0 | Find, compare, and rank NYC neighborhoods and schools, plus how NYC school admi… |
+| 2026-10-12 20:39:42 | [io.github.gbrussich52/mainstreet-mcp](https://github.com/gbrussich52/mainstreet-mcp) |  | 0.1.4 | Free small-business facts and stateless workflow review kits: quotes, invoices… |
+| 2026-10-12 20:43:08 | site.chatgpt.orellise.relay-agent-services/relay | Relay — agent service discovery | 0.11.0 | Discover agent services, compare sourced capabilities and inspect connection ev… |
+| 2026-10-12 20:44:34 | io.github.gmahar82-stack/trust-check | Trust Check | 1.1.0 | Base crypto safety for agents: honeypot/tax test, address poisoning, rug feed,… |
+| 2026-10-12 20:46:03 | [io.github.switchwize/switchwize-mcp](https://github.com/switchwize/switchwize-mcp) | SwitchWize MCP | 0.3.0 | Sixteen read-only US rate, savings-gap, Fed, card and CD tools with sources and… |
+| 2026-10-12 20:46:31 | [io.github.Dcroyalty/uxus](https://github.com/Dcroyalty/cryptorisk-api) | UXUS Agent Services: wallet lookup, ent… | 1.2.0 | Free wallet lookup, ENS resolve, entity labels, caller ID. Paid x402 web search… |
+| 2026-10-12 20:51:58 | [io.github.MoltyCel/moltrust-mcp-server](https://github.com/MoltyCel/moltrust-mcp-server) | MolTrust MCP Server | 1.2.5 | Verifiable agent identity and trust checks; allow/hold/forbid verdicts for Amaz… |
+| 2026-10-12 20:56:20 | [io.github.fathomise/mailfathom](https://github.com/fathomise/MailFathom) | MailFathom | 0.7.0 | Security-first, self-hosted email archive with search, cited answers, and sendi… |
+| 2026-10-12 20:57:14 | [io.github.JacekSmi/PolishOpenData](https://github.com/JacekSmi/PolishOpenData) | Polish Open Data (unofficial) | 1.2.0 | Polish company registers: KRS extracts, Biała Lista VAT and bank account checks… |
+| 2026-10-12 20:58:52 | [us.openquality/mcp](https://github.com/FHIR-IQ/openquality) | Open Quality | 0.1.1 | Open healthcare quality measures: CQL, SQL and FHIR with provenance and known i… |
+| 2026-10-12 21:07:31 | com.pushwing/pushwing | Pushwing | 0.1.0 | Publish to your YouTube and Instagram accounts: schedule posts, read analytics… |
+| 2026-10-12 21:09:16 | cc.tamloot/mcp | Tamloot | 1.0.0 | Read-only access to your Tamloot contacts, sessions, transcripts, and notes. |
+| 2026-10-12 21:13:35 | com.onyxmetric/mcp | OnyxMetric | 1.0.0 | Read and manage OnyxMetric web analytics: traffic, errors, funnels, goals, site… |
+| 2026-10-12 21:16:06 | [com.leonidalab/gta6-facts](https://github.com/LeonidaLab/gta6-mcp) | Leonida Lab: GTA 6 facts, official or n… | 1.0.0 | Unofficial GTA 6 facts tagged official or reported. Not affiliated with Rocksta… |
+| 2026-10-12 21:17:50 | io.gramforge/gramforge | GramForge | 1.0.0 | Chat assistants for small businesses on Telegram: use cases, pricing, guides, s… |
+| 2026-10-12 21:18:01 | ai.gtinfetch/gtinfetch | gtinfetch – Agentic Commerce | 1.0.0 | Resolve any GTIN. The who, what, where. 40M GTINs, retail grocery. |
+| 2026-10-12 21:19:04 | com.attachpage/attachpage | AttachPage | 1.0.0 | Publish webpages and documents, send private review links, and read feedback. I… |
 
 ## Data source
 
