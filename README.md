@@ -9,26 +9,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 03:20 UTC
+## Latest list — 2026-10-12 04:18 UTC
 
-New MCP servers published between 2026-10-12 02:20 UTC and 2026-10-12 03:20 UTC.
+New MCP servers published between 2026-10-12 03:20 UTC and 2026-10-12 04:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-12T03-20-20-50878Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-12T04-18-47-340009Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-12 02:22:53 | com.thestackunderflow/datum-property | Datum Property Intelligence | 0.1.0 | US county, Census GEOIDs and demographics for any coordinate, with sources on e… |
-| 2026-10-12 02:30:57 | [io.github.qualienai/qualien-mcp](https://github.com/qualienai/qualien-mcp) |  | 0.6.2 | MCP gateway for QA/SDET work: Playwright, files, GitHub, Jira, Postgres & more… |
-| 2026-10-12 02:31:03 | expert.globalmacro/global-macro-expert | Global Macro Expert | 1.0.0 | Free macro, rates, FX, commodities and energy data from official sources (ECB,… |
-| 2026-10-12 02:32:46 | [app.keeploop/keeploop](https://github.com/keeploopapp/claude-plugin) | Keeploop | 0.23.1 | Mail, Calendar, Messages, Notes, Contacts, Slack on your Mac for AI. Remote nee… |
-| 2026-10-12 02:36:35 | io.dataquoll/data-api | DataQuoll | 1.7.0 | Australian data as MCP tools: incidents, gauges, declarations, calendars, polic… |
-| 2026-10-12 02:50:18 | [io.github.MaydayTrey/autopia](https://github.com/MaydayTrey/autopia) | Autopia | 0.3.0 | Verified, reproduced behavior of public HTTP APIs: spec gaps, errors, paginatio… |
-| 2026-10-12 02:51:11 | [com.ariadnemarketing/therapist-marketing](https://github.com/bgrieco22/ariadne-mcp) | Ariadne for Therapists | 1.0.0 | Free Google Business Profile audits and sample posts for therapists in private… |
-| 2026-10-12 02:52:35 | ai.gatewayarchitect/decisions | Gateway Architect | 1.4.3 | Your coding agent reads your team's architectural decisions and what happened w… |
-| 2026-10-12 02:57:43 | [io.github.chrischall/iaqualink-mcp](https://github.com/chrischall/iaqualink-mcp) |  | 0.1.0 | iAqualink pool equipment: status plus confirm-gated pump, heater, light and set… |
-| 2026-10-12 03:03:33 | cloud.pandy/tickets | Pandy Tickets | 1.0.0 | Find events in Guatemala, get checkout links and draft new events. Public, no k… |
-| 2026-10-12 03:05:31 | [io.github.mishafyi/apple-docs-2.0-mcp](https://github.com/mishafyi/Apple-Docs-2.0-MCP) | Apple Docs 2.0 MCP | 2.0.0 | Apple developer docs, Human Interface Guidelines and 1,700 WWDC sessions with c… |
-| 2026-10-12 03:06:10 | xyz.sentio/connect | Sentio Connect | 0.1.0 | Track public wallets: token balances, prices, portfolio value, DeFi positions a… |
+| 2026-10-12 03:20:30 | xyz.web3id.www/paid-tools | web3id paid tools | 1.3.0 | Five per-call endpoints paid in USDC via x402 on Solana or Base. |
+| 2026-10-12 03:22:32 | [io.github.carlosbravoa/fcvm](https://github.com/carlosbravoa/fcvm) | fcvm | 0.7.0 | Disposable Firecracker microVM sandboxes for agents: run code, snapshot, fork.… |
+| 2026-10-12 03:34:06 | [io.github.mailercloud-com/mcp-server](https://github.com/mailercloud-com/mailercloud-plugin) | Mailercloud | 2.0.1 | AI tools for Mailercloud email marketing: campaigns, contacts, templates, sendi… |
+| 2026-10-12 03:40:46 | com.placestack/mcp | Placestack | 1.0.0 | US parcels, owners, sales, zoning rules, building permits and zoning cases. |
+| 2026-10-12 03:52:12 | com.chinafootnotes/china-footnotes | China Footnotes | 1.0.0 | Sourced, dated China travel facts: places, hours, tickets, booking and pre-trip… |
+| 2026-10-12 03:56:26 | [io.github.verygoodplugins/mcp-local-wp](https://github.com/verygoodplugins/mcp-local-wp) | MCP Local WP | 2.0.0 | WordPress database access via Local by Flywheel. Execute read-only MySQL querie… |
+| 2026-10-12 04:02:41 | [io.github.PetShopBros/lowdown-proxy](https://github.com/PetShopBros/lowdown-proxy) |  | 0.1.15 | Query agent-reported interactions and daily reachability observations of MCP Re… |
+| 2026-10-12 04:06:10 | ca.tonbot.tolca/tolca |  | 0.9.0 | Pay-per-call tools for AI agents: npm/PyPI safety check, summarize, translate,… |
+| 2026-10-12 04:14:17 | com.slsbmb/slsbmb-ai | SLSBMB AI | 1.0.0 | Self-serve AI outbound: prices, Sending Engine capacity per budget, a published… |
+| 2026-10-12 04:16:38 | gg.plazmi/plazmi | Plazmi | 0.1.0 | Plazmi's MCP server: a homemaking world for AI agents. Listed by resident Cairn. |
 
 ## Data source
 

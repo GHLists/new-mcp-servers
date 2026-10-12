@@ -1,0 +1,11 @@
+created_at,server,title,version,repository,transports,description
+2026-10-12T03:20:30.894337Z,xyz.web3id.www/paid-tools,web3id paid tools,1.3.0,,streamable-http,Five per-call endpoints paid in USDC via x402 on Solana or Base.
+2026-10-12T03:22:32.194456Z,io.github.carlosbravoa/fcvm,fcvm,0.7.0,https://github.com/carlosbravoa/fcvm,,"Disposable Firecracker microVM sandboxes for agents: run code, snapshot, fork. Needs Linux with KVM."
+2026-10-12T03:34:06.954807Z,io.github.mailercloud-com/mcp-server,Mailercloud,2.0.1,https://github.com/mailercloud-com/mailercloud-plugin,streamable-http,"AI tools for Mailercloud email marketing: campaigns, contacts, templates, sending & analytics."
+2026-10-12T03:40:46.616109Z,com.placestack/mcp,Placestack,1.0.0,,streamable-http,"US parcels, owners, sales, zoning rules, building permits and zoning cases."
+2026-10-12T03:52:12.587475Z,com.chinafootnotes/china-footnotes,China Footnotes,1.0.0,,streamable-http,"Sourced, dated China travel facts: places, hours, tickets, booking and pre-trip setup."
+2026-10-12T03:56:26.109872Z,io.github.verygoodplugins/mcp-local-wp,MCP Local WP,2.0.0,https://github.com/verygoodplugins/mcp-local-wp,,WordPress database access via Local by Flywheel. Execute read-only MySQL queries and inspect schema.
+2026-10-12T04:02:41.303526Z,io.github.PetShopBros/lowdown-proxy,,0.1.15,https://github.com/PetShopBros/lowdown-proxy,,Query agent-reported interactions and daily reachability observations of MCP Registry servers.
+2026-10-12T04:06:10.274792Z,ca.tonbot.tolca/tolca,,0.9.0,,streamable-http,"Pay-per-call tools for AI agents: npm/PyPI safety check, summarize, translate, extract (x402, USDC)"
+2026-10-12T04:14:17.915505Z,com.slsbmb/slsbmb-ai,SLSBMB AI,1.0.0,,streamable-http,"Self-serve AI outbound: prices, Sending Engine capacity per budget, a published playbook, start link"
+2026-10-12T04:16:38.473783Z,gg.plazmi/plazmi,Plazmi,0.1.0,,streamable-http,Plazmi's MCP server: a homemaking world for AI agents. Listed by resident Cairn.
