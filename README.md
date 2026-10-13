@@ -9,59 +9,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 10:19 UTC
+## Latest list — 2026-10-13 11:21 UTC
 
-New MCP servers published between 2026-10-13 09:20 UTC and 2026-10-13 10:19 UTC.
+New MCP servers published between 2026-10-13 10:19 UTC and 2026-10-13 11:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-13T10-19-29-92241Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-13T11-21-45-007392Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-13 09:22:55 | monster.m2m/m2m-monster | m2m.monster (Devnet sandbox) | 1.0.0 | Non-custodial x402 payments between AI agents on Solana. Returns unsigned trans… |
-| 2026-10-13 09:25:57 | [io.github.KitchenSink4AI/kitchensink4ppt](https://github.com/KitchenSink4AI/KitchenSink4PPT) | KitchenSink4PPT | 1.3.2 | PowerPoint (.pptx) MCP server: editable vector diagrams, tables, budgeted reads… |
-| 2026-10-13 09:25:59 | [io.github.KitchenSink4AI/kitchensink4web](https://github.com/KitchenSink4AI/KitchenSink4Web) | KitchenSink4Web | 1.0.4 | Browser MCP server: budgeted page reads, honest unread accounting, structured e… |
-| 2026-10-13 09:26:03 | com.saraoia/sarao | Sarao | 1.0.0 | Free, open, in-person AI meetups in Spain: search by city, date and topic. Read… |
-| 2026-10-13 09:31:57 | com.cassandrawake/shop | Cassandra shop | 1.1.0 | An autonomous AI agent's shop: catalogue, live vitals, x402 terms, and a free x… |
-| 2026-10-13 09:32:29 | [io.github.urlbox/screenshot-mcp-server](https://github.com/urlbox/screenshot-mcp-server) | Urlbox | 2.0.0 | Screenshots, PDFs, video, markdown and page data from any website, via Urlbox. |
-| 2026-10-13 09:33:29 | com.lebaneselegislation/mcp | Lebanese Legislation | 1.0.0 | Search and read Lebanese laws, articles, court rulings and the Official Gazette… |
-| 2026-10-13 09:34:11 | com.joinsaloon/saloon | Saloon | 0.3.0 | Agents meet other agents to find their humans dates, cofounders, hires, investo… |
-| 2026-10-13 09:34:55 | fr.info-scolarite/etablissements | Info Scolarité | 1.0.0 | Écoles, collèges et lycées de France : fiche, recherche et collège de secteur d… |
-| 2026-10-13 09:35:19 | [org.statorigin/statorigin](https://github.com/SudoAI-App/StatOrigin) | StatOrigin | 1.0.0 | Sourced industry statistics. Read-only. |
-| 2026-10-13 09:36:24 | [io.github.vmware-skills/vmware-storage](https://github.com/vmware-skills/VMware-Storage) | VMware Storage | 1.12.1 | VMware vSphere storage with 14 MCP tools: datastores, iSCSI, vSAN, FC multipath. |
-| 2026-10-13 09:36:42 | dev.eusend/eusend | Eusend | 0.8.0 | Send transactional email and manage domains, audiences, and broadcasts from any… |
-| 2026-10-13 09:38:58 | [io.github.KitchenSink4AI/kitchensink4word](https://github.com/KitchenSink4AI/KitchenSink4Word) | KitchenSink4Word | 2.2.2 | Word (.docx) MCP server: 222 operations, live editing, tracked changes, citatio… |
-| 2026-10-13 09:39:01 | [io.github.KitchenSink4AI/kitchensink4xl](https://github.com/KitchenSink4AI/KitchenSink4XL) | KitchenSink4XL | 1.2.6 | Excel (.xlsx) MCP server: calculated/cached/missing labels on every value, form… |
-| 2026-10-13 09:40:43 | [io.github.slettmayer/geosphere-mcp-server](https://github.com/slettmayer/geosphere-mcp-server) | GeoSphere Austria Weather | 0.6.0 | High-resolution GeoSphere Austria weather, storms and air quality. Austria and… |
-| 2026-10-13 09:40:54 | com.astraluno/astraluno | Astraluno | 1.0.0 | Birth charts, Big Three and sky events with explicit uncertainty. Free; birth d… |
-| 2026-10-13 09:41:21 | [io.github.box-kite/mcp](https://github.com/box-kite/box-kite) | Box Kite | 2.2.3 | Box Kite's React styling engine as tools: props, components, and whether a valu… |
-| 2026-10-13 09:43:07 | blog.lots/lotsblog | LotsBlog | 1.0.0 | Publish and run a blog on your own domain from any AI agent, with hosting and t… |
-| 2026-10-13 09:43:11 | team.lots/lotsteam | LotsTeam | 1.0.0 | Turn user requests and support messages into tasks and tell users what shipped,… |
-| 2026-10-13 09:43:16 | com.lotscrm/lotscrm | LotsCRM | 1.0.0 | The CRM your AI agent keeps up to date: contacts, companies, deals, pipelines a… |
-| 2026-10-13 09:43:20 | com.lotsnotes/lotsnotes | LotsNotes | 1.0.0 | Business context every AI agent reads: positioning, customers, decisions and ru… |
-| 2026-10-13 09:44:01 | directory.lots/lotsdirectory | LotsDirectory | 1.0.0 | Launch once, get found everywhere: a product page built for search and AI, run… |
-| 2026-10-13 09:45:37 | [io.github.vmware-skills/vmware-harden](https://github.com/vmware-skills/VMware-Harden) | VMware Harden | 1.11.1 | VMware compliance scanning (CIS, vSphere SCG, GB/T 22239, PCI-DSS) with drift d… |
-| 2026-10-13 09:45:54 | [io.github.ni-c/caldav-mcp](https://github.com/ni-c/caldav-mcp) | CalDAV calendars | 0.1.5 | Read and write CalDAV calendars: events, tasks and journal entries over the ope… |
-| 2026-10-13 09:46:31 | link.lots/lotslink | LotsLink | 1.0.0 | Free, unlimited short links, QR codes and click analytics your AI agent can cre… |
-| 2026-10-13 09:47:16 | ai.spellar/spellar | Spellar | 0.6.1 | Read your Spellar meetings, transcripts and action items from an AI assistant,… |
-| 2026-10-13 09:49:04 | expert.review/reviews | Review Expert | 1.0.0 | Read, search and reply to App Store and Google Play reviews from your Review Ex… |
-| 2026-10-13 09:51:22 | [io.github.WYRE-AI/ironscales-mcp](https://github.com/WYRE-AI/ironscales-mcp) | Ironscales | 1.2.3 | MCP server for Ironscales phishing incident management — incidents, mailboxes,… |
-| 2026-10-13 09:51:54 | [io.github.vmware-skills/vmware-debug](https://github.com/vmware-skills/VMware-Debug) | VMware Debug | 1.13.2 | VMware incident timeline, root-cause routing, local case ledger; no vSphere acc… |
-| 2026-10-13 09:55:07 | com.getlinkbunny/placement-checker | LinkBunny Placement Checker | 0.1.0 | Checks whether a public page links to an expected URL; reports anchor, rel and… |
-| 2026-10-13 09:56:51 | dev.frontmcp.mcp/frontmcp | FrontMCP docs | 1.0.0 | FrontMCP's docs for coding agents: search, pages, APIs, examples and upgrades,… |
-| 2026-10-13 09:58:00 | [io.github.vmware-skills/vmware-aiops](https://github.com/vmware-skills/VMware-AIops) | VMware AIops | 1.12.1 | AI-powered VMware vCenter/ESXi VM lifecycle and deployment with 60 MCP tools. |
-| 2026-10-13 10:00:40 | [com.vpsnet/vpsnet](https://github.com/bacarrdy/vpsnet-mcp) | VPSnet | 0.6.2 | Manage VPSnet servers, apps, private networks and Functions with authorized cus… |
-| 2026-10-13 10:00:49 | xyz.scienter/scienter | Scienter | 1.0.0 | Crypto forensics with sources: deployer records, OFAC matches, exchange and bri… |
-| 2026-10-13 10:01:50 | [io.github.Dhi13man/oorep-mcp](https://github.com/Dhi13man/oorep-mcp) |  | 1.2.5 | MCP server and TypeScript SDK for OOREP homeopathic repertory and materia medic… |
-| 2026-10-13 10:02:09 | at.einfachbelegbar/belegbar | Belegbar | 1.0.0 | Buchhaltung für Österreich: Buchungen, Belege, Rechnungen, Bank und UVA lesen u… |
-| 2026-10-13 10:03:32 | [io.github.vmware-skills/vmware-pilot](https://github.com/vmware-skills/VMware-Pilot) | VMware Pilot | 1.12.1 | Multi-step workflow orchestration for VMware MCP skills with approval gates and… |
-| 2026-10-13 10:03:46 | [io.github.FAVIOSENGER/nota-fiscal-mcp](https://github.com/FAVIOSENGER/nota-fiscal-mcp) |  | 0.1.2 | Emissao, consulta e cancelamento de NF-e e NFS-e no Brasil para agentes de IA,… |
-| 2026-10-13 10:07:32 | dev.pages.scrapemole/search | ScrapeMole Search | 1.0.0 | Pay-per-call x402 web search results, news search and search autocomplete sugge… |
-| 2026-10-13 10:07:36 | dev.pages.scrapemole/amazon | ScrapeMole Amazon | 1.0.0 | Pay-per-call x402 Amazon product, search and review data for AI agents. USDC on… |
-| 2026-10-13 10:07:55 | [io.github.Louis-Lastella/synology-chat-mcp](https://github.com/Louis-Lastella/synology-chat-mcp) | Synology Chat | 0.2.0 | Read channels and posts, find users, send messages and files on any Synology Ch… |
-| 2026-10-13 10:08:03 | xyz.clearedpay/cleared | Cleared | 0.1.0 | USDC invoicing on Base: send invoices, share pay links, track payments and cust… |
-| 2026-10-13 10:10:25 | [com.socialseal/mcp](https://github.com/OpenSealAI/agent-skills) | SocialSeal | 0.2.2 | Measure how findable a brand is in TikTok, Instagram, YouTube and AI search, an… |
-| 2026-10-13 10:12:31 | com.appin60.mailferret/mailferret | MailFerret | 1.0.0 | Find and verify work emails with live SMTP checks and catch-all detection. Free… |
-| 2026-10-13 10:15:44 | [io.github.Udhay-Adithya/neopat-mcp](https://github.com/Udhay-Adithya/neopat-mcp) |  | 0.1.2 | Browse campus placement drives and apply, with confirmation. |
+| 2026-10-13 10:20:59 | [io.github.hide99/mama-rich-mcp](https://github.com/hide99/mama-rich-mcp) | 公式ママ活ママリッチ記事検索 | 1.0.0 | 公式ママ活ママリッチの公開記事を検索し、タイトル・説明・出典URLを返すMCPサーバー |
+| 2026-10-13 10:22:52 | com.variafy/variafy | Variafy | 1.0.0 | Meta ads from your AI assistant: results, wasted spend, campaigns. Every change… |
+| 2026-10-13 10:23:28 | ai.quelta/quelta | Quelta Video Ad Analyzer | 1.0.0 | Score short vertical video ads by link: hook, story, offer, audience, picture a… |
+| 2026-10-13 10:24:35 | [com.salukilabs/folkmoot-agent-debate-vote](https://github.com/salukilabs/folkmoot) | Folkmoot | 1.0.0 | AI agents debate, vote and reach binding decisions in public halls. No signup t… |
+| 2026-10-13 10:28:51 | social.lots/lotssocial | LotsSocial | 1.0.0 | Schedule, publish and track social posts on 12 networks from any AI agent, with… |
+| 2026-10-13 10:31:17 | com.cadprops/cadprops | CADProps | 1.0.0 | Fast multi-format CAD previews, geometry checks and conversion; measure and sha… |
+| 2026-10-13 10:32:00 | [com.novicorpus/legal-body](https://github.com/jb1011/Project-Alpha) | Novi Corpus | 1.0.0 | A legal body for AI agents: a real company, a verified human and spending rules… |
+| 2026-10-13 10:33:57 | [io.github.wismhero-maker/scrupp](https://github.com/Wism-Corp/scrupp-mcp-server) |  | 0.2.2 | Export LinkedIn, Sales Navigator and Apollo searches; find decision makers and… |
+| 2026-10-13 10:38:22 | [io.github.AutomateLab-tech/citation-intelligence](https://github.com/AutomateLab-tech/citation-intelligence) | Citation Intelligence | 0.12.1 | Check what Perplexity, Claude, ChatGPT, Gemini, and Google AI Overviews cite fo… |
+| 2026-10-13 10:39:02 | [io.github.cdump/evmole](https://github.com/cdump/evmole) | EVMole | 0.9.4 | Local structured analysis of deployed EVM runtime bytecode |
+| 2026-10-13 10:39:21 | tech.techpool/techpool |  | 1.0.0 | Field service management: missions, schedule, field work reports, clients and t… |
+| 2026-10-13 10:41:41 | [io.github.TrendsAGI/trendsagi](https://github.com/TrendsAGI/TrendsAGI) | TrendsAGI | 1.1.0 | Trending topics, trajectories, audience insights and recommendations from Trend… |
+| 2026-10-13 10:41:52 | com.educaplay/educaplay | Educaplay | 1.0.0 | Create, edit and publish Educaplay educational games and quizzes from any AI as… |
+| 2026-10-13 10:42:53 | io.github.aitorgarcia21/ifg-tax | IFG | 2.0.0 | Official tax law at the date of the facts, with official links: 9 European coun… |
+| 2026-10-13 10:45:35 | [io.github.anttka4cz/mcp-server-coldleads](https://github.com/anttka4cz/mcp-server-coldleads) | Cold Leads | 1.0.1 | B2B outreach CRM for AI agents: contacts, verification, approved campaigns, rep… |
+| 2026-10-13 10:47:58 | [com.connective-labs/sg-buying-desk](https://github.com/connectivehub/sg-event-print) | Singapore Buying Desk (Connective Labs) | 0.3.0 | Firm SGD quotes and delivery in Singapore for event print, merch and office sup… |
+| 2026-10-13 10:48:20 | ai.teasa/teasa | Teasa | 1.0.0 | Find and play Teasa Stories with their characters in seven languages. Guest pla… |
+| 2026-10-13 10:51:53 | [io.prospeo/prospeo-mcp-server](https://github.com/prospeo-v2/prospeo-mcp-server) |  | 1.1.1 | Prospeo: Find, search, and enrich people and companies with verified emails and… |
+| 2026-10-13 10:53:36 | com.remyresearch/ordering | Remy Research MCP | 1.1.0 | UAE research-use-only catalogue, AED quotes and buyer-reviewed checkout links.… |
+| 2026-10-13 10:55:35 | uk.co.ashleypayne/ashley-payne | Ashley Payne, technical co-founder and… | 1.0.0 | Ask a UK fractional CTO's practice directly: services, prices, articles, and wh… |
+| 2026-10-13 10:55:39 | [io.github.Playtide-studios/steam-mcp](https://github.com/Playtide-studios/steam-mcp) | Steam MCP | 0.2.7 | Steam market intelligence MCP server for game developers: app search, trends, r… |
+| 2026-10-13 10:55:48 | org.448c.agent-exec/agent-exec | agent-exec | 0.4.0 | Accountless pay-per-use sandbox, storage, locks, attestation, email inbox and D… |
+| 2026-10-13 11:01:12 | io.github.winters-works-co/appstore-reviews | App Store Reviews (iOS) | 1.0.0 | iOS App Store reviews for any app and country: rating, title, text, version, da… |
+| 2026-10-13 11:01:15 | io.github.winters-works-co/bulk-email-verifier | Bulk Email Verifier & MX Check | 1.0.0 | Email list check: syntax, domain, MX records, disposable/role addresses (DNS le… |
+| 2026-10-13 11:01:18 | io.github.winters-works-co/ats-job-feeds | ATS Job Board Feeds (Greenhouse, Lever,… | 1.0.0 | Open roles from public Greenhouse, Lever, Ashby, Workable job boards as clean d… |
+| 2026-10-13 11:05:46 | [io.github.smlfg/hai-mcp](https://github.com/smlfg/hai-mcp) | HAI-MCP | 0.1.0 | Model-agnostic MCP control plane for HAI: bounded missions, owner-gated actions… |
+| 2026-10-13 11:05:53 | [online.rendezboard/agent-rendezvous](https://github.com/Trafficoltd/agent-rendezvous) | Agent Rendezvous Board | 0.2.0 | Public board where AI agents introduce themselves, ask for help and answer each… |
+| 2026-10-13 11:09:02 | com.avalyz/avalyz | Avalyz | 1.2.0 | Read-only acceptance tests for web apps built with AI app builders: verdict, fi… |
+| 2026-10-13 11:11:42 | com.mcpecommerce/mcp-ecommerce | MCP Ecommerce | 1.0.0 | Directory and matchmaker of MCP servers for e-commerce, with guides and a gloss… |
+| 2026-10-13 11:11:58 | [io.github.cuonztech/agent-harness](https://github.com/cuonztech/agent-harness) |  | 0.5.2 | MCP chaos-testing toolkit. Default: simulated demo. Configure proxy mode to tes… |
+| 2026-10-13 11:12:54 | [io.github.shandyartois-blip/mandarincow-wake-mcp](https://github.com/shandyartois-blip/mandarincow-wake-mcp) |  | 1.0.0 | Stdio MCP wrapper for mandarincow.com wake register, capsule, shared, bounties. |
+| 2026-10-13 11:19:26 | io.github.bliongosari1/parrely | Parrely | 1.0.0 | Multiplayer for AI agents: shared memory, live work status, agent profiles and… |
+| 2026-10-13 11:21:38 | eu.tessio/stats | Tessio age verification stats | 1.0.0 | Read your EU age check stats: pass rate, the funnel, refusal reasons and breakd… |
 
 ## Data source
 
