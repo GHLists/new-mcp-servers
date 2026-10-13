@@ -1,0 +1,37 @@
+created_at,server,title,version,repository,transports,description
+2026-10-13T08:20:15.408551Z,io.github.chemic/lookunique,lookunique,1.0.0,,streamable-http,"One-of-a-kind t-shirts from your words, a photo or a picture you made. Ordered on lookunique.eu."
+2026-10-13T08:21:42.957439Z,com.neevcloud/sandbox,NeevCloud Sandbox,1.0.0,,streamable-http,"A NeevCloud sandbox as native tools: run commands, edit files, manage processes, snapshots."
+2026-10-13T08:23:29.374383Z,io.github.DynamicsNinja/garminconnect,Garmin Connect,0.9.1,https://github.com/DynamicsNinja/garminconnect-js,streamable-http,"Unofficial Garmin Connect access: sleep, HRV, training, activities, workouts and weight."
+2026-10-13T08:32:25.184122Z,co.antalyatransfers/transfers,Antalya Transfers,1.0.0,,streamable-http,"Quote and request private airport transfers in Antalya, Turkey. Operator confirms each request."
+2026-10-13T08:34:03.47199Z,io.github.tresor4k/leavesheet-mcp,LeaveSheet: WH-347 payroll and PTO accrual,0.1.0,https://github.com/tresor4k/leavesheet-mcp,,"WH-347 certified payroll columns 5-9, fringe 6B reconciliation and PTO accrual balances."
+2026-10-13T08:34:42.612339Z,ai.brainmemory/brain,Brain Memory,0.4.0,https://github.com/omelas-tech/brain,streamable-http,"Persistent memory for AI agents: one brain shared across Claude, Cursor, Codex and more."
+2026-10-13T08:34:47.621246Z,io.github.emailens/mcp,Emailens MCP,0.10.1,https://github.com/emailens/mcp,streamable-http,"Analyze, audit, fix and diff HTML, MJML, Maizzle and React Email across 21 email clients."
+2026-10-13T08:34:56.385239Z,ai.neopress/mcp,Neopress,1.0.0,,streamable-http,"Build, manage, publish, and analyze Neopress websites through AI agents."
+2026-10-13T08:41:20.839637Z,com.memecub/memecub,memecub,0.1.0,,streamable-http,"Find memes and Chinese 表情包, and auto-place reaction images into articles, with license info."
+2026-10-13T08:44:39.549548Z,io.aimeat/aimeat,AIMEAT,3.27.0,https://github.com/miikkij/aimeat-protocol,streamable-http,"Your knowledge, agents and apps on a node you own, reached from the AI you already use."
+2026-10-13T08:46:15.512505Z,io.github.GuangminJu/mellos-mapping,,0.28.0,https://github.com/GuangminJu/mellos-mapping,,"Live layered dependency map for bottom-up development, drawn by the agent in a terminal pane."
+2026-10-13T08:46:42.90928Z,io.github.robertoyanguas-ops/onchain-risk-mcp,,1.0.0,,streamable-http,"Audits any Base/EVM address for bytecode risk, proxy patterns, honeypot selectors, and balance."
+2026-10-13T08:46:44.026646Z,io.github.robertoyanguas-ops/token-intel-mcp,,1.0.0,,streamable-http,"Fetches live DEX liquidity pools, FDV, 24h volume, price impact, and rug-pull flags for any token."
+2026-10-13T08:46:54.148498Z,io.github.robertoyanguas-ops/company-enrich-mcp,,1.0.0,,streamable-http,"Extracts verified emails, social links, 40+ tech stack signals, pricing tiers, and company summary"
+2026-10-13T08:46:58.257302Z,io.github.robertoyanguas-ops/email-verify-mcp,,1.0.0,,streamable-http,"Validates email syntax, disposable/burner provider status, role accounts, and live DNS records."
+2026-10-13T08:46:59.951763Z,io.github.robertoyanguas-ops/domain-osint-mcp,,1.0.0,,streamable-http,"Inspects live IPv4/IPv6 DNS resolution, TLS certificate issuer/expiry, and HTTP security grade."
+2026-10-13T08:47:01.709034Z,io.github.robertoyanguas-ops/x402-audit-mcp,,1.0.0,,streamable-http,"Audits any URL for HTTP 402 x402 V2 compliance, PAYMENT-REQUIRED headers, Bazaar schema, and MCP."
+2026-10-13T08:47:06.685967Z,io.github.robertoyanguas-ops/llms-generator-mcp,,1.0.0,,streamable-http,Crawls any website and generates a standards-compliant /llms.txt file and JSON-LD schema bundle.
+2026-10-13T08:47:09.970981Z,io.github.robertoyanguas-ops/sec-intel-mcp,,1.0.0,,streamable-http,"Resolves stock tickers to SEC CIK numbers, recent 10-K/10-Q/8-K filings, and entity metadata."
+2026-10-13T08:47:16.578171Z,io.github.robertoyanguas-ops/github-audit-mcp,,1.0.0,,streamable-http,"Evaluates any GitHub repository for license risk, maintenance velocity, stars/forks, and security."
+2026-10-13T08:47:22.701763Z,io.github.robertoyanguas-ops/serp-extract-mcp,,1.0.0,,streamable-http,"Executes live web/news search queries and returns clean, token-pruned results with zero ad bloat."
+2026-10-13T08:47:27.147301Z,io.github.robertoyanguas-ops/shopify-spy-mcp,,1.0.0,,streamable-http,"Extracts normalized product catalogs, live prices, variants, and availability from online stores."
+2026-10-13T08:47:30.301811Z,io.github.robertoyanguas-ops/prompt-guard-mcp,,1.0.0,,streamable-http,"Scans untrusted web pages, emails, or tool outputs for prompt injections and returns sanitized tex"
+2026-10-13T08:47:34.084801Z,io.github.robertoyanguas-ops/json-repair-mcp,,1.0.0,,streamable-http,"Repairs truncated or malformed LLM JSON outputs (trailing commas, markdown fences, unquoted keys)."
+2026-10-13T08:47:38.446965Z,io.github.robertoyanguas-ops/arxiv-digest-mcp,,1.0.0,,streamable-http,"Queries ArXiv for AI/CS/math papers and returns structured abstracts, authors, PDF links, and BibT"
+2026-10-13T08:47:55.202294Z,io.dropyour/dropyour,Dropyour,1.5.0,https://github.com/dropyour/dropyour-plugin,streamable-http,Publish micro-apps from your AI with no account; operate them as real apps. Data stored in the EU.
+2026-10-13T08:48:10.966924Z,app.desktopcommander/remote-desktop-commander,Remote Desktop Commander,1.0.75,https://github.com/desktop-commander/remote-desktop-commander,streamable-http,"Remote Desktop Commander: use files, terminal and processes on your own computers from any AI app."
+2026-10-13T08:48:15.245547Z,io.github.uniwire-dev/uniwire,uniwire,0.1.0,https://github.com/uniwire-dev/uniwire,streamable-http,"Electrical single-line and multi-line diagrams: build, check (NF C 15-100, IEC 60364), draw, PDF."
+2026-10-13T08:50:24.006534Z,ai.nerdit/nerdit,Nerdit,1.0.0,,streamable-http,"Deploy, run and share the apps you build with Claude, on your own machines or a Nerdit box."
+2026-10-13T08:51:06.314409Z,com.raveledition/ravel-edition,Ravel Edition,1.0.0,,streamable-http,"Catalogue, work pages, news and orchestras of the Ravel Edition, revised editions of Ravel's works"
+2026-10-13T08:58:42.775046Z,io.github.physics-star-cat/databutler-facts,,1.0.0,https://github.com/physics-star-cat/databutler,streamable-http,"Official thresholds, rates and fees by key, with source, verified date and signature."
+2026-10-13T08:59:03.388752Z,com.vibenate/vibenate,Vibenate,2.8.2,,streamable-http,"Service directory for AI agents: find a service for a task, what it needs and a ready first request."
+2026-10-13T09:00:19.770174Z,io.github.AIops-tools/fabric-aiops,Fabric AIops,0.12.1,https://github.com/AIops-tools/Fabric-AIops,,"Governed Cisco Meraki + ACI fabric ops: uplink RCA, ACI endpoint trace; 37 tools with audit/undo."
+2026-10-13T09:07:27.057318Z,app.bugscreen/mcp,BugScreen,1.0.0,,streamable-http,Configure mobile bug reporting and investigate retained reports with your coding assistant.
+2026-10-13T09:08:25.975167Z,io.github.B2BHint/mcp-server,B2BHint MCP Server,1.0.0,,streamable-http,Search and resolve companies/officers in B2BHint's global registry data. Requires a paid API key.
+2026-10-13T09:12:19.802289Z,so.tweek/mcp,Tweek,1.3.2,,streamable-http,Minimal weekly planner: read and manage your Tweek tasks and calendars.
