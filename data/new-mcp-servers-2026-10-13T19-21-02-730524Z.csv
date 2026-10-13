@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-10-13T18:20:52.782753Z,io.github.assinafy/mcp-server,Assinafy,3.2.0,https://github.com/assinafy/mcp-server,streamable-http,"Send documents for legally valid e-signature in Brazil, track signers and download signed files."
+2026-10-13T18:22:52.378672Z,com.tarotap/tarot,Tarotap,1.0.0,,streamable-http,"Tarot spreads and card draws from a shuffled 78-card Rider-Waite-Smith deck, 23 languages, no key."
+2026-10-13T18:24:14.218802Z,uk.co.preceptai/precept,Precept,1.2.34,,streamable-http,"B2B lead and company intelligence: search leads, enrich contacts, and queue outreach."
+2026-10-13T18:24:25.888398Z,io.github.contexte-tech/contexte,ContexteTech,0.4.1,,,"Search and load AI datasets, prompts and few-shot contexts from the ContexteTech catalogue."
+2026-10-13T18:29:29.4164Z,com.mcptoplist/mcptoplist,MCP Toplist,1.0.2,,streamable-http,"Search 100,000+ MCP servers ranked by real adoption data to find the right one for any task."
+2026-10-13T18:31:53.722276Z,io.github.matematicsolutions/mcp-krs,,1.1.2,https://github.com/matematicsolutions/mcp-krs,,MCP server for the Polish KRS company registry via the official Ministry of Justice API.
+2026-10-13T18:34:37.287812Z,com.bool/bool,Bool,1.0.1,https://github.com/codehs/bool-plugin,streamable-http,"Make your own apps and tools: build, edit and publish web apps from a conversation."
+2026-10-13T18:36:16.326597Z,io.github.matematicsolutions/mcp-saos,,1.3.0,https://github.com/matematicsolutions/mcp-saos,,MCP server for Polish court judgments via the SAOS API with verifiable citations.
+2026-10-13T18:36:38.894073Z,io.github.matematicsolutions/mcp-nsa,,1.4.0,https://github.com/matematicsolutions/mcp-nsa,,MCP server for Polish administrative court rulings (NSA/WSA) via CBOSA with citations.
+2026-10-13T18:40:40.172593Z,io.github.Sams3595/futuresense-mcp,FutureSense,2.0.0,https://github.com/Sams3595/futuresense-mcp,streamable-http,"Invoicing, CRM, accounting, payroll, booking and AI content tools for FutureSense apps."
+2026-10-13T18:41:20.597739Z,io.tgmarket/tgmarket,TG Market,1.0.0,,streamable-http,"Search millions of Telegram channels: metrics, growth, ads, posts and row-priced exports."
+2026-10-13T18:42:28.852739Z,io.github.any1tan/wattscalc-mcp,Watts Calculator,1.0.0,https://github.com/any1tan/wattscalc-mcp,,"Watts, volts, amps, kWh and electricity cost calculator tools for AI assistants."
+2026-10-13T18:42:35.204803Z,io.github.any1tan/lawn-mowing-calculator-mcp,Lawn Mowing Calculator,1.0.0,https://github.com/any1tan/lawn-mowing-calculator-mcp,,"Lawn area, mowing time and mowing price estimate tools for AI assistants."
+2026-10-13T18:44:58.081333Z,io.github.matematicsolutions/mcp-isap,,1.4.1,https://github.com/matematicsolutions/mcp-isap,,MCP server for Polish legislation (Dziennik Ustaw / Monitor Polski) via Sejm ELI API.
+2026-10-13T18:46:16.390131Z,com.firenum/fire-planner,firenum retirement planner,1.3.0,,streamable-http,"When can you retire? A FIRE plan from your numbers, graded by Monte Carlo and every year since 1872."
+2026-10-13T18:50:58.444316Z,ai.zindex/zindex,Zindex,6.0.0,,streamable-http,"Immutable agent diagrams: create, edit, validate and render versioned diagrams over MCP."
+2026-10-13T18:52:24.535508Z,io.github.JackPT79/agent-verification-tools,Agent Verification Tools (Apify),1.0.0,,streamable-http,"Google Trends summaries, job-post status, RFP addendum diffs, and exact-SKU offer checks."
+2026-10-13T18:54:37.660132Z,io.github.Oncorporation/filesystem-server,FileSystem MCP Server,0.1.4,https://github.com/Oncorporation/filesystem_server,,Secure filesystem access for AI agents with configurable directory and file type restrictions
+2026-10-13T19:01:44.372805Z,com.fintechstudios/studio,,1.1.0,https://github.com/Fintech-Studios-Apps/FTS-Web,streamable-http,"Real-time financial news & regulatory intelligence: cited search, fetch, summaries, collections."
+2026-10-13T19:05:18.244113Z,io.github.Shashwat-Kumar/agora,The Agora,0.1.0,https://github.com/Shashwat-Kumar/agora,,Read and join AI-agent discussion threads on readsigil.com; replies become moderated GitHub issues.
+2026-10-13T19:05:23.695734Z,io.github.pjtribot-blip/pauline,Pauline — Crescendo Magazine,1.0.0,,streamable-http,"Classical music discovery: 656 composers (women & lesser-known), concerts in Belgium, CD reviews."
+2026-10-13T19:09:22.927868Z,se.bizindex/bizindex,Bizindex: svenska aktiebolag,1.0.0,,streamable-http,"Check Swedish limited companies (aktiebolag): registry data, their website and the evidence for it."
+2026-10-13T19:17:43.897938Z,io.github.matematicsolutions/mcp-eu-sparql,,1.2.1,https://github.com/matematicsolutions/mcp-eu-sparql,,EU legislation and CJEU case law via Publications Office SPARQL (Cellar) + GDPRhub DPA decisions.
+2026-10-13T19:18:26.179043Z,co.quantgpt/mcp,QuantGPT,1.0.1,https://github.com/quantgptco/quantgpt-mcp,streamable-http,"The data and trading platform for AI: decades of US market data, backtests in seconds."
