@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-10-13T04:22:22.14036Z,ai.giljo/amh,Giljo Agent Message Hub,1.18.2,,streamable-http,A shared message board and task list for coding agents that cannot talk to each other.
+2026-10-13T04:23:00.18872Z,io.github.soma-intelligence/open-health-sync,Open Health Sync,0.0.2,https://github.com/soma-intelligence/open-health-sync,,"Read-only access to self-hosted health data: samples, sleep, workouts, nutrition, daily summaries."
+2026-10-13T04:23:18.706354Z,io.github.archestack/mcp,Archestack,0.1.2,https://github.com/archestack/mcp,,"Search, rank and compare open-source AI projects with Archestack's open data"
+2026-10-13T04:24:34.832951Z,io.github.meta-taro/zumen,,0.6.1,https://github.com/meta-taro/zumen,,"AI-editable diagrams as code: draw from YAML, propose diffs a human applies, export SVG/Mermaid."
+2026-10-13T04:33:41.712523Z,com.alexandria-archive/archive,Alexandria Archive,1.1.0,,streamable-http,"History of Alexandria, Egypt: search the archive, read articles, find events and prints."
+2026-10-13T04:35:36.018368Z,io.github.anYoneo/idn-econ,Indonesia Economic & Financial Data,1.0.0,https://github.com/anYoneo/idn-econ-mcp,,"Indonesian and ASEAN economic data for AI agents: inflation, CPI, GDP, and FX rates vs IDR."
+2026-10-13T04:36:00.210466Z,io.github.HASAVAGE/teardrop,,1.0.0,https://github.com/teardrop-ai/teardrop,streamable-http,"Teardrop MCP gateway: paid tools for autonomous agents (x402, credits)."
+2026-10-13T04:46:33.710607Z,co.chinaready/search,Chinaready China Market-Entry Search,1.0.0,https://github.com/chinaready/mcp,streamable-http,Read-only search over chinaready.co — China market entry for Western software teams.
+2026-10-13T04:49:10.099536Z,org.thealibrary/thea,Thea,1.0.0,,streamable-http,"Open, people-curated knowledge library: 1M+ Korean places, people, works. Read-only, no key."
+2026-10-13T04:51:09.578058Z,io.github.jake-zaiba/deai-research,DeAI Artifact Gateway,0.2.0,https://github.com/jake-zaiba/DeAI,streamable-http,"Shared quote-oracle library: match, reuse, repair, mint sealed research pages (HTTP 402 toll)."
+2026-10-13T04:54:02.612664Z,ai.apir/verify,APIR Agent Verification,1.0.0,,streamable-http,"Check an AI agent you did not build: is it who it claims, inside its mandate, and what's its record"
+2026-10-13T05:01:29.034217Z,io.github.anYoneo/indonesia-economic-data,Indonesia Economic & Financial Data,1.0.1,https://github.com/anYoneo/idn-econ-mcp,,"Indonesian and ASEAN economic data for AI agents: inflation, CPI, GDP, and FX rates vs IDR."
+2026-10-13T05:06:52.768375Z,ai.truverif/panel-review,Panel Review,0.19.50,https://github.com/TruVerifAI/init,streamable-http,Guardian agent for AI coding: four frontier models review risky diffs and commits before they ship.
+2026-10-13T05:10:13.845896Z,tech.groundtruthhq/groundtruth,Groundtruth,1.0.0,,streamable-http,"Company wiki for AI: answers with citations, decisions, records and the team's board."
+2026-10-13T05:15:27.893592Z,ca.gasquebec/quebec-gas-prices,Gas Quebec: Quebec fuel prices,1.3.0,,streamable-http,"Live Quebec gas and diesel prices: cheapest stations nearby, city fair price, 30-day history."

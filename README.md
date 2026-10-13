@@ -9,29 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 04:21 UTC
+## Latest list — 2026-10-13 05:21 UTC
 
-New MCP servers published between 2026-10-13 03:19 UTC and 2026-10-13 04:21 UTC.
+New MCP servers published between 2026-10-13 04:21 UTC and 2026-10-13 05:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-13T04-21-22-643055Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-13T05-21-00-276166Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-13 03:28:37 | org.opennih/opennih |  | 0.0.9.8 | 42 fiscal years of entity-resolved NIH grant data via 14 read-only, provenance-… |
-| 2026-10-13 03:30:17 | com.boltena/erp | 볼테나 ERP (Boltena ERP) | 1.25.1 | 중소 제조·유통기업용 ERP 조회 전용 MCP 서버(재고·매출·채권·수주/발주·회계). 쓰기 도구 없음. |
-| 2026-10-13 03:39:38 | cloud.actionbox/human-input | ActionBox Human Input | 0.2.1 | Human review for AI agents: ask through ActionBox and retrieve a typed decision… |
-| 2026-10-13 03:44:20 | com.licenscheck/verify | licenscheck | 1.0.0 | Verify US contractor licenses across states: Clear, Review or Risk, with the re… |
-| 2026-10-13 03:49:26 | com.lynnxai/lynnx-care | Lynnx Care: Guangzhou & Shenzhen hospit… | 0.4.3 | Sourced, read-only hospital facts for Guangzhou and Shenzhen, with a free inqui… |
-| 2026-10-13 03:49:36 | com.cassiehour/cassie-hour | Cassie Hour | 5.0.0 | Novel & song; public agent records, lyrics, lineage; Alp Şahin on identity, inh… |
-| 2026-10-13 03:56:49 | [io.github.praxec/crossmatrix](https://github.com/praxec/crossmatrix) |  | 0.3.1 | Multidimensional House of Quality (QFD) MCP server — cross-dimensional relation… |
-| 2026-10-13 03:56:58 | dev.theatlasproject/tap-certified | TAP Certified | 1.0.0 | Check if an AI agent is certified; list the TAP Registry and certifications. Fr… |
-| 2026-10-13 03:58:54 | [io.github.send0-dev/send0](https://github.com/send0-dev/send0-v2) | send0 | 0.2.1 | Email inboxes for AI agents: create an address, wait for codes and links, send… |
-| 2026-10-13 04:05:52 | [app.relaymcp/whatsapp](https://github.com/relaymcp/relaymcp) | RelayMCP | 0.1.0 | Hosted per-user MCP server for your personal WhatsApp: reminders, follow-ups, s… |
-| 2026-10-13 04:11:01 | [com.elopstudio.aiwave/ai-wave](https://github.com/elopstudio/ai-wave-mcp) | AI Wave | 1.1.0 | AI model releases, price changes and deprecations in one feed: chat, embedding,… |
-| 2026-10-13 04:11:04 | io.openproof/dpdp-compliance |  | 1.0.0 | Verified facts on India's DPDP Act and Rules: dates, penalties, duties. Read-on… |
-| 2026-10-13 04:13:26 | app.vercel.automaton-tx-explainer/base-tools | Automaton Base Onchain Tools | 1.1.0 | Paid (x402, USDC on Base) Base tools: tx explainer, token approvals, address in… |
-| 2026-10-13 04:17:27 | [io.demarker/mcp](https://github.com/removeaiwatermark/demarker) | Demarker | 0.1.2 | Identify what an AI image carries (marks, metadata, watermarks), then clean it. |
-| 2026-10-13 04:17:37 | com.kinro/kinro | Kinro | 0.4.0 | Business insurance advice and real carrier quotes for U.S. small businesses fro… |
+| 2026-10-13 04:22:22 | ai.giljo/amh | Giljo Agent Message Hub | 1.18.2 | A shared message board and task list for coding agents that cannot talk to each… |
+| 2026-10-13 04:23:00 | [io.github.soma-intelligence/open-health-sync](https://github.com/soma-intelligence/open-health-sync) | Open Health Sync | 0.0.2 | Read-only access to self-hosted health data: samples, sleep, workouts, nutritio… |
+| 2026-10-13 04:23:18 | [io.github.archestack/mcp](https://github.com/archestack/mcp) | Archestack | 0.1.2 | Search, rank and compare open-source AI projects with Archestack's open data |
+| 2026-10-13 04:24:34 | [io.github.meta-taro/zumen](https://github.com/meta-taro/zumen) |  | 0.6.1 | AI-editable diagrams as code: draw from YAML, propose diffs a human applies, ex… |
+| 2026-10-13 04:33:41 | com.alexandria-archive/archive | Alexandria Archive | 1.1.0 | History of Alexandria, Egypt: search the archive, read articles, find events an… |
+| 2026-10-13 04:35:36 | [io.github.anYoneo/idn-econ](https://github.com/anYoneo/idn-econ-mcp) | Indonesia Economic & Financial Data | 1.0.0 | Indonesian and ASEAN economic data for AI agents: inflation, CPI, GDP, and FX r… |
+| 2026-10-13 04:36:00 | [io.github.HASAVAGE/teardrop](https://github.com/teardrop-ai/teardrop) |  | 1.0.0 | Teardrop MCP gateway: paid tools for autonomous agents (x402, credits). |
+| 2026-10-13 04:46:33 | [co.chinaready/search](https://github.com/chinaready/mcp) | Chinaready China Market-Entry Search | 1.0.0 | Read-only search over chinaready.co — China market entry for Western software t… |
+| 2026-10-13 04:49:10 | org.thealibrary/thea | Thea | 1.0.0 | Open, people-curated knowledge library: 1M+ Korean places, people, works. Read-… |
+| 2026-10-13 04:51:09 | [io.github.jake-zaiba/deai-research](https://github.com/jake-zaiba/DeAI) | DeAI Artifact Gateway | 0.2.0 | Shared quote-oracle library: match, reuse, repair, mint sealed research pages (… |
+| 2026-10-13 04:54:02 | ai.apir/verify | APIR Agent Verification | 1.0.0 | Check an AI agent you did not build: is it who it claims, inside its mandate, a… |
+| 2026-10-13 05:01:29 | [io.github.anYoneo/indonesia-economic-data](https://github.com/anYoneo/idn-econ-mcp) | Indonesia Economic & Financial Data | 1.0.1 | Indonesian and ASEAN economic data for AI agents: inflation, CPI, GDP, and FX r… |
+| 2026-10-13 05:06:52 | [ai.truverif/panel-review](https://github.com/TruVerifAI/init) | Panel Review | 0.19.50 | Guardian agent for AI coding: four frontier models review risky diffs and commi… |
+| 2026-10-13 05:10:13 | tech.groundtruthhq/groundtruth | Groundtruth | 1.0.0 | Company wiki for AI: answers with citations, decisions, records and the team's… |
+| 2026-10-13 05:15:27 | ca.gasquebec/quebec-gas-prices | Gas Quebec: Quebec fuel prices | 1.3.0 | Live Quebec gas and diesel prices: cheapest stations nearby, city fair price, 3… |
 
 ## Data source
 
