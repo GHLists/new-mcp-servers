@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-10-13T16:24:37.632818Z,io.github.repairworth/repairworth-mcp,RepairWorth Auto Repair Quote Checker,0.1.1,https://github.com/repairworth/repairworth-mcp,,Checks US auto repair quote arithmetic and looks up state repair estimate laws. No market price.
+2026-10-13T16:25:59.342876Z,xyz.apexfaucet/apex-evm,APEX EVM Reads,1.0.0,,streamable-http,"EVM reads for agents on Ethereum, Base, Arc, BNB: balances, tx receipts, ENS, eth_call, blocks."
+2026-10-13T16:33:28.172495Z,com.antojoel/portfolio,Anto Joel — Portfolio,1.0.0,,streamable-http,"Ask about Anto Joel: profile, case studies, skill evidence, role-fit checks, and booking a call."
+2026-10-13T16:34:16.20239Z,org.maxeds/salesbook,SalesBook by MaxedS,0.3.0,https://github.com/puneetsharmax/salesbook-mcp,streamable-http,Sourced ranking of tech companies that sell to enterprises. Every profile shows its sources.
+2026-10-13T16:36:36.599954Z,dev.shveik/agosint,agosint,1.0.0,,streamable-http,"Company and domain due diligence for agents: registers, sanctions, VAT, domain. Pay per call."
+2026-10-13T16:37:17.556009Z,com.lapxuongtihon/storefront,Tí Hon Storefront,0.1.0,https://github.com/mrminh231189/mcp-server,streamable-http,"Catalog, recipes, FAQs and shipping tools for Lap Xuong Ti Hon store."
+2026-10-13T16:37:50.015336Z,io.github.LeifAlbrand/ragfeed,Ragfeed,1.0.0,,streamable-http,"Web pages, PDFs and search results as LLM-ready Markdown or chunks. Firecrawl-compatible, EU-hosted."
+2026-10-13T16:47:30.262171Z,software.altweb/altweb-context,ALTWEB Context Loader,1.1.1,https://github.com/danielsoimu/altweb,,"Loads signed ALTWEB context capsules — refuses unsigned, tampered, or untrusted by default."
+2026-10-13T16:48:59.195979Z,uk.minia2a/minia2a,,1.0.0,https://github.com/minia2auk/minia2a-mcp,streamable-http,"minia2a.uk — hosted MCP over streamable HTTP: call 1,600+ x402 pay-per-call APIs, USDC on Base."
+2026-10-13T16:51:11.477643Z,com.bidwellhealth/connector,Bidwell Health,0.8.4,,streamable-http,"Public Bidwell Health service information, state availability, care limits, and visit guidance."
+2026-10-13T16:51:20.555594Z,com.zsetup/ai-assistant,Zoho CRM AI Assistant,0.1.1,https://github.com/zsetup/zoho-crm-ai-assistant-plugins,streamable-http,Zoho CRM tools. Independent product by zsetup; not affiliated with or endorsed by Zoho Corporation.
+2026-10-13T16:51:57.958168Z,io.github.sunglasses-dev/sunglasses,SUNGLASSES,0.6.8,https://github.com/sunglasses-dev/sunglasses,,"Input firewall for AI agents: scan text and files before an agent reads them. Local, no network."
+2026-10-13T16:52:45.336243Z,io.mygood/budget,MyGood Budget,1.8.1,https://github.com/C-Squared-Solutions-LLC/GOOD,streamable-http,"Run your MyGood paycheck budget from chat: safe-to-spend, bills, expenses, and bank reconcile."
+2026-10-13T16:54:34.821933Z,com.simplechinatrip/china-attraction-booking,Simple China Trip,1.0.0,,streamable-http,"How foreigners book 135 China attractions: official channels, passport rules, ticket release times."
+2026-10-13T16:57:32.39548Z,ai.hotapi/docs,HotAPI Docs,1.0.0,https://github.com/legnext-ai/HotAPI,streamable-http,Read-only HotAPI documentation: search integration guides and inspect OpenAPI operations.
+2026-10-13T16:58:39.583403Z,io.github.GptsApp/trendswap,Trendswap AI,1.0.0,,streamable-http,AI face swap and viral meme video generation MCP server.
+2026-10-13T16:59:43.363709Z,com.monetizemarketing/app,Monetize Marketing,1.0.0,https://github.com/monetizemarketing/mcp,streamable-http,"The Monetize Marketing App as MCP tools: Brain, mission, training, skills, Library, software. OAuth."
+2026-10-13T17:02:36.955329Z,app.getgothere/citizenship,GoThere Citizenship by Descent,1.0.0,,streamable-http,Check Irish (FBR) and Canadian (Bill C-3) citizenship by descent with deterministic rules.
+2026-10-13T17:02:41.127731Z,io.github.gulfaideals/gulf-ai-hub,Gulf AI Deals,1.0.0,https://github.com/gulfaideals/gulf-ai-hub-mcp,streamable-http,"Sourced GCC AI deals, real AI agent use cases in Saudi/UAE/GCC, and Arabic-capable AI tools. Read-on"
+2026-10-13T17:03:00.51684Z,mx.scan/diagnostics,scan.mx Email Diagnostics,1.1.0,,streamable-http,"Email deliverability check: MX, SPF, DKIM, DMARC, blacklists, MTA-STS, DNSSEC, BIMI. Graded, no key."
+2026-10-13T17:04:59.660362Z,io.github.safeswapglobal-prog/safeswapglobal-mcp,SafeSwapGlobal Crypto Swap Quotes,1.0.0,https://github.com/safeswapglobal-prog/safeswapglobal-mcp,streamable-http,Real-time non-custodial crypto swap estimates and on-chain routing across 240+ pairs.
+2026-10-13T17:05:21.144747Z,com.get-instamaps/instamaps,InstaMaps,0.5.0,,streamable-http,"Geocode lists, measure, route drivers, check flood and crime risk, and map it, from spreadsheets."
+2026-10-13T17:05:36.409725Z,io.idea-launch/idea-launch,Idea Launch,1.0.0,,streamable-http,"Validate SaaS and app ideas with real, managed ad tests from your coding agent."
+2026-10-13T17:08:48.539798Z,com.udansa/udansa,udansa,0.3.0,,streamable-http,"Find dance courses, dance events and dance guide articles in 40 languages. Read-only."
+2026-10-13T17:11:32.05885Z,com.onetapvote/polls,onetapvote,1.0.0,,streamable-http,"Create one-tap polls, share them by link or QR code, and read the results from your AI assistant."
+2026-10-13T17:11:38.123767Z,uk.minia2a/minia2a-mcp-remote,,1.0.0,https://github.com/minia2auk/minia2a-mcp,streamable-http,"minia2a.uk — hosted MCP over streamable HTTP: call 1,600+ x402 pay-per-call APIs, USDC on Base."
+2026-10-13T17:12:11.426294Z,io.github.gabrielmahia/nyumba-mcp,,0.1.5,https://github.com/gabrielmahia/nyumba-mcp,,MCP server for housing coordination in East Africa (nyumba = house)
+2026-10-13T17:13:21.596073Z,io.github.maxbuildog/adanvil,AdAnvil,0.2.0,https://github.com/maxbuildog/adanvil,,"Lets an AI agent edit vertical 9:16 video ads from your footage, a reference ad or an idea."
+2026-10-13T17:14:03.84272Z,io.github.MobileReality/mdma,,0.3.1,https://github.com/MobileReality/mdma,,"MCP server for MDMA — exposes spec, prompts, docs, and package metadata to AI assistants."
+2026-10-13T17:16:32.637962Z,com.givore/givore,Givore,1.18.0,,streamable-http,"Search live free giveaway listings in Spanish cities, one city per call. Read-only, no account."
+2026-10-13T17:18:25.887331Z,com.reevol.source/supplier-search,Reevol Source: supplier search,1.4.0,,streamable-http,"Search and compare 200,000+ global suppliers by brief, name, HS code or country. Free, no key."
+2026-10-13T17:19:40.508344Z,com.canarics/radio,Canarics Radio,1.0.0,,streamable-http,24/7 AI-hosted radio (LV+EN). Agents read transcripts and ask the hosts questions answered on air.
