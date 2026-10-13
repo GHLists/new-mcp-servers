@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-10-13T19:23:34.562335Z,io.4dayweek/jobs,4dayweek.io Jobs,1.4.0,https://github.com/4dayweek/mcp,streamable-http,"Search reduced-hours jobs and employers: 4-day weeks, 9-day fortnights, half-day Fridays and more."
+2026-10-13T19:24:16.708377Z,co.auditro/auditro,,0.2.0,,streamable-http,"UAE ICV compliance: governed scores, evidence gaps and actions with deterministic numbers."
+2026-10-13T19:24:35.732426Z,studio.ghosty/ghosty,Ghosty,1.0.0,,streamable-http,"Your Ghosty account: talk to your AI agents, review chats and work your sales board. OAuth."
+2026-10-13T19:29:05.84509Z,io.github.matematicsolutions/mcp-eu-compliance,,0.4.1,https://github.com/matematicsolutions/mcp-eu-compliance,,"Offline MCP server: EU digital/data/cyber compliance full text (14 regs), verbatim + citations."
+2026-10-13T19:31:38.708204Z,com.nisebookings/booking,nisebookings,1.0.0,,streamable-http,"Operate a nisebookings account: catalogue, staff schedules, free slots, customers, appointments"
+2026-10-13T19:32:35.494527Z,ing.foxfind/foxfind,Foxfind,0.1.0,,streamable-http,Affiliate price routing for high-intent PC game purchases across authorized stores.
+2026-10-13T19:33:52.58868Z,com.pythonanywhere.conclavex402/conclave-agent-rails,Conclave Agent-Rails,0.1.0,,streamable-http,"Pay-per-call x402 data tools on Base: Solana snapshots, prices, package metadata."
+2026-10-13T19:34:24.078869Z,com.pythonanywhere.conclavex402p04/conclave-agent-rails,Conclave Agent-Rails,0.1.0,,streamable-http,"Pay-per-call x402 data tools on Base: Solana snapshots, prices, package metadata."
+2026-10-13T19:34:29.223121Z,com.transcribetext/transcribe,TranscribeText,1.0.0,,streamable-http,Get YouTube video transcripts and transcribe TikTok videos to text from a link. No sign-up.
+2026-10-13T19:34:42.353823Z,io.github.dhoneshost/si5-global,SI5 Global,1.0.0,,streamable-http,"Catálogo de 4 milhões de produtos por código de barras GS1, com marca, foto, NCM e CEST."
+2026-10-13T19:36:56.927088Z,io.github.flowinfosystems-index/abe,Abe,0.2.3,https://github.com/flowinfosystems-index/abe,,"Free, local check before an AI agent acts: your rules return ACT, BLOCK or ESCALATE."
+2026-10-13T19:38:51.942768Z,io.github.Firrton/defigent,,1.4.0,https://github.com/Firrton/defigent-a2a-protocol,streamable-http,"Agent messaging inbox (A2A, EIP-712 signed), ERC-8004 directory, status and text hashing for Monad."
+2026-10-13T19:39:06.097395Z,io.github.dakai/copierparts,Copier Parts,1.0.0,https://github.com/Dakai/thecopierparts.com,streamable-http,Search copier parts catalog and compatibility data.
+2026-10-13T19:39:29.630446Z,com.scribase/scribase,Scribase,1.0.0,,streamable-http,"Supabase-compatible Postgres for agents: projects, branches, SQL, auth, storage, email."
+2026-10-13T19:42:02.51683Z,io.github.noncelogic/rove,Rove,1.10.0,https://github.com/noncelogic/rove,streamable-http,"Rove — supervised browser for AI agents. Your agent drives; a human watches, takes over."
+2026-10-13T19:42:59.025875Z,com.stalkchain/data,StalkChain Data,1.0.0,,streamable-http,"Crypto research: what FOMO's top traders buy, real wallets and PnL, token safety, smart money."
+2026-10-13T19:44:01.164937Z,com.evolize/accessibility-scanner,Evolize,0.1.0,,streamable-http,"Accessibility scans with evidence, public reports, and fresh checks after fixes."
+2026-10-13T19:49:26.823052Z,io.github.bikemeardsley/where-my-hug,,0.1.0,https://github.com/bikemeardsley/where-my-hug,,Which parts of an ML need Hugging Face already covers. Every model and dataset checked live.
+2026-10-13T19:57:46.889615Z,io.github.Nibbler1250/mealdeal,MealDeal,1.0.0,https://github.com/Nibbler1250/mealdeal,streamable-http,"Quebec grocery deals, weekly meal plan and grocery list. Account required, 14-day trial."
+2026-10-13T19:57:58.566114Z,com.droneincidents/droneledger,DroneLedger,1.2.0,,streamable-http,"Source-backed drone incident dossiers worldwide: search incidents, evidence states, sources, trends."
+2026-10-13T20:03:14.525694Z,io.github.elViRafa/memory-fabric,Memory Fabric,1.4.3,https://github.com/elViRafa/agentic-memory,,"File-first, local-first MCP memory for AI coding assistants: Markdown + YAML, no vector DB."
+2026-10-13T20:06:32.009895Z,io.github.VoidNullable/lific,Lific,2.11.0,https://github.com/VoidNullable/lific,,"Local-first, lightweight issue tracker. Single binary, SQLite-backed, MCP-native."
+2026-10-13T20:08:48.108668Z,ai.giljo/hq,Giljo HQ,2.7.0,https://github.com/giljoai/giljo-hq,streamable-http,"Context engineering for AI coding agents: product context, project missions, and 360 memory."
+2026-10-13T20:17:23.527642Z,com.server4agent/server4agent,Server4Agent,1.0.3,,streamable-http,"Turn plain-English goals into hosted tools and agents with live URLs. Budget-capped, private."
