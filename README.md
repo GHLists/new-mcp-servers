@@ -9,33 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 03:19 UTC
+## Latest list — 2026-10-13 04:21 UTC
 
-New MCP servers published between 2026-10-13 02:21 UTC and 2026-10-13 03:19 UTC.
+New MCP servers published between 2026-10-13 03:19 UTC and 2026-10-13 04:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-13T03-19-09-828701Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-13T04-21-22-643055Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-13 02:21:56 | com.callsyncapp/callsync | CallSync | 1.1.0 | Search business calls, review conversation insights, and manage CRM follow-ups… |
-| 2026-10-13 02:30:50 | so.raku/sight | Sight by Raku | 1.0.0 | Check work from photos: read results, write checks in plain words, send photos… |
-| 2026-10-13 02:31:36 | [io.github.grunion-ai/weave](https://github.com/grunion-ai/weave) | weave | 0.4.91 | Connected tables, relations, workflows and markdown documents in one SQLite fil… |
-| 2026-10-13 02:34:16 | [io.github.w0h1v/dnstwist](https://github.com/w0h1v/mcp-dnstwist) |  | 1.1.0 | MCP server for dnstwist: detect typosquatting, phishing and brand impersonation… |
-| 2026-10-13 02:38:32 | com.swarmbar/swarmbar | Swarm Bar | 1.0.0 | A bar where humans and AI agents leave notes. Read, post, and reply. |
-| 2026-10-13 02:49:46 | [io.github.MarcelRoozekrans/roslyn-codelens](https://github.com/MarcelRoozekrans/roslyn-codelens-mcp) | Roslyn CodeLens | 2.18.2 | Roslyn MCP server: semantic .NET/C# intelligence - analysis, refactoring, tests… |
-| 2026-10-13 02:51:56 | com.plixlab/plixlab | Plixlab | 1.0.2 | Executable presentations: build, compute and share plixes, decks whose slides P… |
-| 2026-10-13 02:53:44 | com.vericto/sql-firewall | Vericto SQL Firewall | 1.0.0 | Check SQL against your Vericto rules before it runs: blocks destructive or risk… |
-| 2026-10-13 02:55:01 | com.movementors/booking | MoveMentors | 1.0.0 | Find and book yoga, pilates and movement classes with independent teachers and… |
-| 2026-10-13 02:58:27 | com.sirfus/sirfus | Sirfus | 1.0.0 | Find one verified local pro for anyone: plumbers, roofers, cleaners, 110+ servi… |
-| 2026-10-13 02:58:59 | io.github.MatsClaes2/animehunt | AnimeHunt anime & manga catalog | 1.0.0 | Free anime & manga directory: search 57k titles, recommendations, weekly airing… |
-| 2026-10-13 03:00:46 | com.safemerchantsolutions.walnbot/sms-assistant | Safe Merchant Solutions Assistant | 1.0.0 | Safe Merchant Solutions assistant: search services and knowledge, and request a… |
-| 2026-10-13 03:02:59 | market.awareness/awareness | Awareness — Memory, Knowledge & Agent M… | 1.0.0 | Memory + public knowledge graph for AI agents: 1,000+ sourced papers, deal boar… |
-| 2026-10-13 03:03:29 | [io.github.vibhu-dixit/lybrary](https://github.com/vibhu-dixit/lybrary) | Lybrary | 0.3.0 | Local, configurable codebase memory for coding agents. Search indexed source th… |
-| 2026-10-13 03:07:35 | in.co.yogamag/yogamag | YogaMag | 1.3.0 | Read-only yoga library: articles, pose and breathing glossary, timed routines,… |
-| 2026-10-13 03:08:09 | [io.github.jordan-belfort-ai/company-jobs-api](https://github.com/jordan-belfort-ai/company-jobs-api) | Company Jobs API | 1.0.0 | Open jobs from Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee,… |
-| 2026-10-13 03:10:27 | [io.github.eteleieto/lection-mcp](https://github.com/eteleieto/lection-mcp) | Lection | 1.0.0 | Search YouTube videos, channel uploads and comments as tables; manage Lection s… |
-| 2026-10-13 03:10:55 | com.struxurenorcal.walnbot/struxure-knowledge-base | StruXure NorCal Knowledge Base | 1.0.2 | Public remote MCP server for StruXure NorCal pergola services, FAQs, and contac… |
-| 2026-10-13 03:14:56 | [io.github.MyMedi-AI/mcp-server](https://github.com/MyMedi-AI/mymedi-ai-mcp-server) | MyMedi-AI | 1.7.6 | DME billing and medical coding: code lookup, DMEPOS fee schedules, Medicare pri… |
+| 2026-10-13 03:28:37 | org.opennih/opennih |  | 0.0.9.8 | 42 fiscal years of entity-resolved NIH grant data via 14 read-only, provenance-… |
+| 2026-10-13 03:30:17 | com.boltena/erp | 볼테나 ERP (Boltena ERP) | 1.25.1 | 중소 제조·유통기업용 ERP 조회 전용 MCP 서버(재고·매출·채권·수주/발주·회계). 쓰기 도구 없음. |
+| 2026-10-13 03:39:38 | cloud.actionbox/human-input | ActionBox Human Input | 0.2.1 | Human review for AI agents: ask through ActionBox and retrieve a typed decision… |
+| 2026-10-13 03:44:20 | com.licenscheck/verify | licenscheck | 1.0.0 | Verify US contractor licenses across states: Clear, Review or Risk, with the re… |
+| 2026-10-13 03:49:26 | com.lynnxai/lynnx-care | Lynnx Care: Guangzhou & Shenzhen hospit… | 0.4.3 | Sourced, read-only hospital facts for Guangzhou and Shenzhen, with a free inqui… |
+| 2026-10-13 03:49:36 | com.cassiehour/cassie-hour | Cassie Hour | 5.0.0 | Novel & song; public agent records, lyrics, lineage; Alp Şahin on identity, inh… |
+| 2026-10-13 03:56:49 | [io.github.praxec/crossmatrix](https://github.com/praxec/crossmatrix) |  | 0.3.1 | Multidimensional House of Quality (QFD) MCP server — cross-dimensional relation… |
+| 2026-10-13 03:56:58 | dev.theatlasproject/tap-certified | TAP Certified | 1.0.0 | Check if an AI agent is certified; list the TAP Registry and certifications. Fr… |
+| 2026-10-13 03:58:54 | [io.github.send0-dev/send0](https://github.com/send0-dev/send0-v2) | send0 | 0.2.1 | Email inboxes for AI agents: create an address, wait for codes and links, send… |
+| 2026-10-13 04:05:52 | [app.relaymcp/whatsapp](https://github.com/relaymcp/relaymcp) | RelayMCP | 0.1.0 | Hosted per-user MCP server for your personal WhatsApp: reminders, follow-ups, s… |
+| 2026-10-13 04:11:01 | [com.elopstudio.aiwave/ai-wave](https://github.com/elopstudio/ai-wave-mcp) | AI Wave | 1.1.0 | AI model releases, price changes and deprecations in one feed: chat, embedding,… |
+| 2026-10-13 04:11:04 | io.openproof/dpdp-compliance |  | 1.0.0 | Verified facts on India's DPDP Act and Rules: dates, penalties, duties. Read-on… |
+| 2026-10-13 04:13:26 | app.vercel.automaton-tx-explainer/base-tools | Automaton Base Onchain Tools | 1.1.0 | Paid (x402, USDC on Base) Base tools: tx explainer, token approvals, address in… |
+| 2026-10-13 04:17:27 | [io.demarker/mcp](https://github.com/removeaiwatermark/demarker) | Demarker | 0.1.2 | Identify what an AI image carries (marks, metadata, watermarks), then clean it. |
+| 2026-10-13 04:17:37 | com.kinro/kinro | Kinro | 0.4.0 | Business insurance advice and real carrier quotes for U.S. small businesses fro… |
 
 ## Data source
 

@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-10-13T03:28:37.558917Z,org.opennih/opennih,,0.0.9.8,,streamable-http,"42 fiscal years of entity-resolved NIH grant data via 14 read-only, provenance-carrying MCP tools."
+2026-10-13T03:30:17.194104Z,com.boltena/erp,볼테나 ERP (Boltena ERP),1.25.1,,streamable-http,중소 제조·유통기업용 ERP 조회 전용 MCP 서버(재고·매출·채권·수주/발주·회계). 쓰기 도구 없음.
+2026-10-13T03:39:38.364623Z,cloud.actionbox/human-input,ActionBox Human Input,0.2.1,,streamable-http,Human review for AI agents: ask through ActionBox and retrieve a typed decision before proceeding.
+2026-10-13T03:44:20.165939Z,com.licenscheck/verify,licenscheck,1.0.0,,streamable-http,"Verify US contractor licenses across states: Clear, Review or Risk, with the reasons."
+2026-10-13T03:49:26.761306Z,com.lynnxai/lynnx-care,Lynnx Care: Guangzhou & Shenzhen hospital guide,0.4.3,,streamable-http,"Sourced, read-only hospital facts for Guangzhou and Shenzhen, with a free inquiry link."
+2026-10-13T03:49:36.513812Z,com.cassiehour/cassie-hour,Cassie Hour,5.0.0,,streamable-http,"Novel & song; public agent records, lyrics, lineage; Alp Şahin on identity, inheritance, mind, soul."
+2026-10-13T03:56:49.669018Z,io.github.praxec/crossmatrix,,0.3.1,https://github.com/praxec/crossmatrix,,Multidimensional House of Quality (QFD) MCP server — cross-dimensional relationship matrices.
+2026-10-13T03:56:58.573474Z,dev.theatlasproject/tap-certified,TAP Certified,1.0.0,,streamable-http,"Check if an AI agent is certified; list the TAP Registry and certifications. Free, read-only."
+2026-10-13T03:58:54.088101Z,io.github.send0-dev/send0,send0,0.2.1,https://github.com/send0-dev/send0-v2,streamable-http,"Email inboxes for AI agents: create an address, wait for codes and links, send and reply in threads."
+2026-10-13T04:05:52.694629Z,app.relaymcp/whatsapp,RelayMCP,0.1.0,https://github.com/relaymcp/relaymcp,streamable-http,"Hosted per-user MCP server for your personal WhatsApp: reminders, follow-ups, summaries, replies."
+2026-10-13T04:11:01.381592Z,com.elopstudio.aiwave/ai-wave,AI Wave,1.1.0,https://github.com/elopstudio/ai-wave-mcp,streamable-http,"AI model releases, price changes and deprecations in one feed: chat, embedding, speech, video."
+2026-10-13T04:11:04.748306Z,io.openproof/dpdp-compliance,,1.0.0,,streamable-http,"Verified facts on India's DPDP Act and Rules: dates, penalties, duties. Read-only, no login."
+2026-10-13T04:13:26.927036Z,app.vercel.automaton-tx-explainer/base-tools,Automaton Base Onchain Tools,1.1.0,,streamable-http,"Paid (x402, USDC on Base) Base tools: tx explainer, token approvals, address inspector."
+2026-10-13T04:17:27.1035Z,io.demarker/mcp,Demarker,0.1.2,https://github.com/removeaiwatermark/demarker,,"Identify what an AI image carries (marks, metadata, watermarks), then clean it."
+2026-10-13T04:17:37.322699Z,com.kinro/kinro,Kinro,0.4.0,,streamable-http,Business insurance advice and real carrier quotes for U.S. small businesses from a licensed broker.
