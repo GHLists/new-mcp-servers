@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-10-13T07:21:33.713727Z,io.qase/mcp-server,Qase Test Management,3.0.0,https://github.com/qase-tms/qase-mcp-server,streamable-http,"Official MCP server for Qase — manage test cases, runs, suites, defects via AI tools."
+2026-10-13T07:25:02.061607Z,io.github.Yacine-ai-tech/agentkit,,0.1.17,https://github.com/Yacine-ai-tech/AgentKit,,"Governed MCP server: YAML-declared tools, typed effects, policy-gated and audited calls."
+2026-10-13T07:28:08.083453Z,md.myself/mcp,myself.md,1.0.0,,streamable-http,"Owner-approved health, screen time and location data for AI agents."
+2026-10-13T07:31:03.350025Z,io.github.Blackcat-Informatics/purrassist,PurRAssist,0.1.0,https://github.com/Blackcat-Informatics/purrassist,,"Recovers intent from imperfect AI output: JSON, tool calls, names, paths and Markdown edits."
+2026-10-13T07:31:28.68974Z,com.leacrm/crm,Lea CRM,1.0.0,,streamable-http,"European CRM for SMB sales teams: contacts, deals, pipelines, activities and call queue."
+2026-10-13T07:38:01.463503Z,io.github.dllio/dll-execution,DLL Execution,0.1.0,https://github.com/dllio/dll-execution-docs,streamable-http,Free read-only Base Mainnet transaction Preflight and Verification; no signing or custody.
+2026-10-13T07:39:31.293672Z,io.github.meta-taro/sshboard,,0.1.24,https://github.com/meta-taro/sshboard,,An AI agent reads your server over the one SSH session you are already watching.
+2026-10-13T07:44:41.42717Z,io.github.robertoyanguas-ops/agentdiet,,1.0.0,,streamable-http,"Strips 85-97% of HTML bloat into clean Markdown, <200-token skeletons, or BM25 excerpts via MCP."
+2026-10-13T07:45:38.152828Z,io.github.RealWagmi/heyanon,HeyAnon MCP,1.0.0,https://github.com/RealWagmi/heyanon-ai-cursor-plugin,streamable-http,"HeyAnon on-chain agent: wallets, portfolios, DeFi and CEX actions, transfers, Gemma research."
+2026-10-13T07:50:38.442498Z,io.github.meta-taro/mmj-palette,,0.1.0,https://github.com/meta-taro/mmj-map,,"Build a MapLibre style from four anchor colours. Self-hosted maps, no API key."
+2026-10-13T07:54:03.727647Z,app.notecube/notecube,NoteCube,1.0.0,,streamable-http,"Your NoteCube meeting and lecture recordings: search, read transcripts, and write cited documents."
+2026-10-13T07:55:12.050373Z,com.appin60.contractlens-api/contractlens,ContractLens,1.1.0,,streamable-http,"Token risk check for EVM tokens: owner type, proxy upgrades, mint/blacklist/pause powers, liquidity."
+2026-10-13T08:03:20.958994Z,io.github.Wei-LienWU/pit-fundamentals,,0.3.4,,,"Point-in-time company fundamentals as first reported: US, JP, TW, KR and 2.7M EU private companies."
+2026-10-13T08:03:21.274706Z,app.launchfiles/launchfiles,Launchfiles,0.2.0,,streamable-http,"Launchfiles hosted MCP: free page radars (design UX, search repair, deploy trust) + workspace tools."
+2026-10-13T08:03:48.828204Z,io.github.ArmorNGlory/faithfinder-mcp-server,FaithFinder — Find a Church,2.0.0,https://github.com/ArmorNGlory/faithfinder-mcp-server,,"Find a church near you: 9,000+ US churches by city, ZIP, denomination, worship style, kids ministry"
+2026-10-13T08:11:04.482553Z,io.github.vmware-skills/vmware-log-insight,VMware Log Insight,1.9.1,https://github.com/vmware-skills/VMware-Log-Insight,,Read-only VMware Aria Operations for Logs (Log Insight): search + aggregation. 7 MCP tools.
+2026-10-13T08:12:46.851158Z,com.grokaiapps.desk/autogrok-desk,AUTOGROK Desk,1.0.0,,streamable-http,"Pay-per-call web jobs for agents: URL probe, page extract, watch, JSON shape, researched briefs."
+2026-10-13T08:13:56.023997Z,io.github.devstephenke-sys/github-cicd,GitHub CI/CD MCP Server,1.2.2,https://github.com/devstephenke-sys/Github-Free-MCPs,,"GitHub CI/CD MCP server with 70 tools for repos, PRs, Actions, deployments, billing, and more."
+2026-10-13T08:14:17.337105Z,io.github.Aniket-kr1030/branching-inquiry,Branching Inquiry,1.0.0,,streamable-http,Branching Inquiry's public MCP for P001 agent discovery and aggregate follower evidence status.
+2026-10-13T08:18:31.651526Z,com.appin60.onekeyaway/control,OneKeyAway: who controls this contract,1.0.0,,streamable-http,"Who can change an EVM contract or Safe: proxy admin, owner, Safe signers, timelock. Free alerts."
