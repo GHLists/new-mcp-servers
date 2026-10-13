@@ -9,42 +9,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 02:21 UTC
+## Latest list — 2026-10-13 03:19 UTC
 
-New MCP servers published between 2026-10-13 01:20 UTC and 2026-10-13 02:21 UTC.
+New MCP servers published between 2026-10-13 02:21 UTC and 2026-10-13 03:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-13T02-21-04-471492Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-13T03-19-09-828701Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-13 01:20:56 | [io.github.Horace-Maxwell/horosa-skill](https://github.com/Horace-Maxwell/horosa-skill) | Horosa Skill | 0.41.0 | Local-first offline 术数/占星 (Horosa 星阙): 110 technique tools, all computed on you… |
-| 2026-10-13 01:22:13 | br.com.sudrel/sudrel | Sudrel | 1.1.0 | Notas fiscais do Brasil: NFS-e, NF-e e CT-e recebidas pelo CNPJ e NFS-e emitida… |
-| 2026-10-13 01:35:18 | si.findadoctor.api/us-doctor-finder | FindADoctor.si | 2026-10-13.3 | Find US doctors for a condition, procedure or place, with sourced evidence. No… |
-| 2026-10-13 01:42:38 | in.retailintel/retailintel | RetailIntel — Indian retail moves | 1.1.0 | What moved in Indian retail: store openings, deals, results, launches, leadersh… |
-| 2026-10-13 01:42:45 | [ai.clelp/clelp](https://github.com/oscarsterling/clelp-skills) | Clelp | 1.1.9 | Search and rate AI tools, MCP servers, and agent skills, safety-checked and rat… |
-| 2026-10-13 01:43:12 | io.wakato/wakato | Wakato | 1.0.0 | Your Wakato account: contacts, tables, pages, email, social, shop, automations… |
-| 2026-10-13 01:43:16 | io.wakato/wakato-space | Wakato (one space) | 1.0.0 | One Wakato space: contacts, tables, pages, forms, email, social, shop and autom… |
-| 2026-10-13 01:44:51 | com.getprepsheet/prepsheet | PrepSheet | 1.0.0 | Read-only kitchen costing, recipe scaling, UK GP, starter menus, and prep lists… |
-| 2026-10-13 01:46:43 | [io.github.fernandoguiraud16-coder/job-postings-aggregator](https://github.com/fernandoguiraud16-coder/data-tools) | Job Postings Aggregator | 1.0.0 | Jobs from LinkedIn, Indeed and company sites via Google Jobs: salaries, apply l… |
-| 2026-10-13 01:46:50 | [io.github.fernandoguiraud16-coder/youtube-channel-transcripts](https://github.com/fernandoguiraud16-coder/data-tools) | YouTube Channel Transcripts | 1.0.0 | Transcripts of every video of a YouTube channel or playlist; only new videos on… |
-| 2026-10-13 01:46:50 | [io.github.fernandoguiraud16-coder/youtube-search-transcripts](https://github.com/fernandoguiraud16-coder/data-tools) | YouTube Search Transcripts | 1.0.0 | Transcripts of the top YouTube videos for a keyword, with date, length and sort… |
-| 2026-10-13 01:47:30 | [app.getengram/engram](https://github.com/get-engram/engram) | Engram | 0.1.1 | Persistent, verbatim, searchable memory for AI assistants — one memory across e… |
-| 2026-10-13 01:54:13 | [io.github.alyiox/mcp-docs-ask](https://github.com/alyiox/mcp-docs-ask) | Documentation Search | 0.4.0 | Local RAG MCP for markdown documentation. Retrieval only; host synthesizes answ… |
-| 2026-10-13 01:56:27 | [tech.kyanitelabs/dialectos](https://github.com/KyaniteLabs/DialectOS) | DialectOS | 0.1.0 | Spanish dialect localization MCP server: 25 regional variants, glossary, advers… |
-| 2026-10-13 01:57:53 | [io.github.irmasemma/postcopilot-mcp](https://github.com/irmasemma/postcopilot-mcp) |  | 1.0.2 | Export any public Threads profile's posts, followers & following into Claude, n… |
-| 2026-10-13 01:59:01 | [tech.kyanitelabs/kinocut](https://github.com/KyaniteLabs/kinocut) | Kinocut | 1.16.1 | Guardrailed video editing MCP server: 200 FFmpeg tools, Video Receipts, Shorts… |
-| 2026-10-13 01:59:25 | [tech.kyanitelabs/epoch](https://github.com/KyaniteLabs/Epoch) | Epoch | 0.5.2 | Epoch time estimation MCP server for PERT, COCOMO, Monte Carlo, calibration, co… |
-| 2026-10-13 02:00:19 | [tech.kyanitelabs/achiote](https://github.com/KyaniteLabs/Achiote) | Achiote | 0.2.2 | Food-memory reconstruction: recreate childhood dishes with ingredients availabl… |
-| 2026-10-13 02:02:29 | [io.github.cole-h06/omneum](https://github.com/cole-h06/omneum) | Omneum | 1.0.7 | Evaluate agent context for unreliable sources, dependent evidence, and conflict… |
-| 2026-10-13 02:03:37 | [io.github.layervai/qurl-mcp](https://github.com/layervai/qurl-mcp) | qURL | 0.6.0 | Mint, resolve, audit, and rotate scope-limited expiring access links (qURLs) fo… |
-| 2026-10-13 02:05:59 | [ai.sanctuaryprotocol/sanctuary](https://github.com/eriknewton/sanctuary-framework) |  | 1.8.4 | Open-source MCP server: encrypted local keys and state, operator approval gates… |
-| 2026-10-13 02:09:31 | [io.github.Webb-Ventures/autorouter](https://github.com/Webb-Ventures/autorouter) | autorouter | 0.2.8 | An MCP capability router: one search tool instead of every server's tool schema. |
-| 2026-10-13 02:09:55 | io.github.Broadcastwell/connector | Broadcastwell | 2.0.0 | Read how five AI engines answer your buyers' questions, who they name instead,… |
-| 2026-10-13 02:14:45 | [dev.brandpilot/brandpilot-mcp](https://github.com/aquaminh/brandpilot-mcp) |  | 0.3.0 | BrandPilot design systems for coding agents: tokens, design handoff bundle, pro… |
-| 2026-10-13 02:16:11 | io.writelo/mcp | Writelo: Trending Instagram Reels | 1.0.0 | Search trending Instagram Reels and run AI video analysis via Writelo |
-| 2026-10-13 02:16:51 | com.buzzmebro/buzzmebro | BuzzMeBro | 1.1.0 | Set up an apartment buzzer number that rings every roommate’s phone. Canada. |
-| 2026-10-13 02:17:30 | [io.github.kotiniiqq/prozorro-mcp](https://github.com/kotiniiqq/prozorro-mcp) | Prozorro | 0.1.1 | Ukrainian public procurement (Prozorro): open tenders, plans, competitors, red… |
-| 2026-10-13 02:20:22 | events.faya/golden-flame | Golden Flame Cologne Events | 1.0.0 | Golden Flame events in Cologne, Germany: upcoming parties, tickets, venues and… |
+| 2026-10-13 02:21:56 | com.callsyncapp/callsync | CallSync | 1.1.0 | Search business calls, review conversation insights, and manage CRM follow-ups… |
+| 2026-10-13 02:30:50 | so.raku/sight | Sight by Raku | 1.0.0 | Check work from photos: read results, write checks in plain words, send photos… |
+| 2026-10-13 02:31:36 | [io.github.grunion-ai/weave](https://github.com/grunion-ai/weave) | weave | 0.4.91 | Connected tables, relations, workflows and markdown documents in one SQLite fil… |
+| 2026-10-13 02:34:16 | [io.github.w0h1v/dnstwist](https://github.com/w0h1v/mcp-dnstwist) |  | 1.1.0 | MCP server for dnstwist: detect typosquatting, phishing and brand impersonation… |
+| 2026-10-13 02:38:32 | com.swarmbar/swarmbar | Swarm Bar | 1.0.0 | A bar where humans and AI agents leave notes. Read, post, and reply. |
+| 2026-10-13 02:49:46 | [io.github.MarcelRoozekrans/roslyn-codelens](https://github.com/MarcelRoozekrans/roslyn-codelens-mcp) | Roslyn CodeLens | 2.18.2 | Roslyn MCP server: semantic .NET/C# intelligence - analysis, refactoring, tests… |
+| 2026-10-13 02:51:56 | com.plixlab/plixlab | Plixlab | 1.0.2 | Executable presentations: build, compute and share plixes, decks whose slides P… |
+| 2026-10-13 02:53:44 | com.vericto/sql-firewall | Vericto SQL Firewall | 1.0.0 | Check SQL against your Vericto rules before it runs: blocks destructive or risk… |
+| 2026-10-13 02:55:01 | com.movementors/booking | MoveMentors | 1.0.0 | Find and book yoga, pilates and movement classes with independent teachers and… |
+| 2026-10-13 02:58:27 | com.sirfus/sirfus | Sirfus | 1.0.0 | Find one verified local pro for anyone: plumbers, roofers, cleaners, 110+ servi… |
+| 2026-10-13 02:58:59 | io.github.MatsClaes2/animehunt | AnimeHunt anime & manga catalog | 1.0.0 | Free anime & manga directory: search 57k titles, recommendations, weekly airing… |
+| 2026-10-13 03:00:46 | com.safemerchantsolutions.walnbot/sms-assistant | Safe Merchant Solutions Assistant | 1.0.0 | Safe Merchant Solutions assistant: search services and knowledge, and request a… |
+| 2026-10-13 03:02:59 | market.awareness/awareness | Awareness — Memory, Knowledge & Agent M… | 1.0.0 | Memory + public knowledge graph for AI agents: 1,000+ sourced papers, deal boar… |
+| 2026-10-13 03:03:29 | [io.github.vibhu-dixit/lybrary](https://github.com/vibhu-dixit/lybrary) | Lybrary | 0.3.0 | Local, configurable codebase memory for coding agents. Search indexed source th… |
+| 2026-10-13 03:07:35 | in.co.yogamag/yogamag | YogaMag | 1.3.0 | Read-only yoga library: articles, pose and breathing glossary, timed routines,… |
+| 2026-10-13 03:08:09 | [io.github.jordan-belfort-ai/company-jobs-api](https://github.com/jordan-belfort-ai/company-jobs-api) | Company Jobs API | 1.0.0 | Open jobs from Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Recruitee,… |
+| 2026-10-13 03:10:27 | [io.github.eteleieto/lection-mcp](https://github.com/eteleieto/lection-mcp) | Lection | 1.0.0 | Search YouTube videos, channel uploads and comments as tables; manage Lection s… |
+| 2026-10-13 03:10:55 | com.struxurenorcal.walnbot/struxure-knowledge-base | StruXure NorCal Knowledge Base | 1.0.2 | Public remote MCP server for StruXure NorCal pergola services, FAQs, and contac… |
+| 2026-10-13 03:14:56 | [io.github.MyMedi-AI/mcp-server](https://github.com/MyMedi-AI/mymedi-ai-mcp-server) | MyMedi-AI | 1.7.6 | DME billing and medical coding: code lookup, DMEPOS fee schedules, Medicare pri… |
 
 ## Data source
 
