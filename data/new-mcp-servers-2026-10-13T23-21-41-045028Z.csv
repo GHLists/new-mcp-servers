@@ -1,0 +1,30 @@
+created_at,server,title,version,repository,transports,description
+2026-10-13T22:21:16.57039Z,dev.routemyagent/model-helper,RouteMyAgent Model Helper,0.9.2,,streamable-http,Discover available AI models and delegate analysis or code review from your existing agent.
+2026-10-13T22:25:46.709314Z,io.github.Bellator-Schedule-Intelligence/schedule-intelligence,Bellator Schedule Intelligence,0.4.0,https://github.com/Bellator-Schedule-Intelligence/bellator-si-api,streamable-http,"Schedule health, logic audit, and validation."
+2026-10-13T22:26:00.766031Z,com.strhosttools/vrbo-repricer,STR Host Tools,1.0.0,,streamable-http,"Free tools for short-term rental hosts. Reprice Vrbo listings for the Oct 29, 2026 flat 12% fee."
+2026-10-13T22:31:30.274747Z,delivery.byb/accra-delivery,BYB Delivery (Accra),1.155.1,,streamable-http,"Quote, book, track and pay for same-day parcel deliveries across Greater Accra, Ghana."
+2026-10-13T22:33:03.148828Z,io.github.6ixtyy/switchbord,SwitchBord,0.1.0,https://github.com/6ixtyy/switchbord,streamable-http,"Free live router for paid agent APIs (x402, MPP): the best working seller for a task, plus backups."
+2026-10-13T22:40:01.784302Z,xyz.filingdelta/filingdelta,FilingDelta,0.2.0,,streamable-http,"SEC filing-change, central-bank and macro cards for agents. Paid via x402 USDC on Base."
+2026-10-13T22:40:07.235267Z,run.saka/business-data,Saka Business Data,1.0.0,,streamable-http,"Search business records by market with evidence. Prepaid credit; emails observed, not verified."
+2026-10-13T22:42:06.657299Z,ai.livecrm/livecrm,LiveCRM,1.0.1,,streamable-http,"Salesforce & HubSpot: dedupe, normalize, enrich, assign, job change, create, mass update, segment"
+2026-10-13T22:44:34.388147Z,io.github.openhook-dev/openhook-inbox,Openhook,0.1.0,https://github.com/openhook-dev/openhook-inbox,streamable-http,"Webhook, email and DNS inboxes for AI agents to capture callbacks and test integrations."
+2026-10-13T22:45:48.661733Z,com.phersa/phersa,Phersa,1.0.0,,streamable-http,"Find viral videos, make your own with your AI persona on your API keys, monetize with comment-to-DM."
+2026-10-13T22:49:51.256708Z,icu.secureit/security-checks,secureIT Sicherheits-Checks,1.0.0,,streamable-http,"Kostenlose Sicherheits-Checks ohne Konto: SPF/DKIM/DMARC, Mails, Links, Webseiten, Passwort-Leaks."
+2026-10-13T23:02:09.769Z,com.citiviewgroup.mcp/agent-market,Citiview Agent Market,1.0.0,,streamable-http,"186 pay-per-call tools: search, LLMs, UK KYB, FRED, Census, maps, crypto. x402 USDC."
+2026-10-13T23:02:57.116906Z,ai.outtake/flash,Outtake Flash,1.0.0,,streamable-http,"Tells your agent if a link is safe before it clicks, signs in or pays."
+2026-10-13T23:03:59.73468Z,io.zen-mode/zenmode,ZenMode,1.0.0,https://github.com/zenmode87/zenmode-mcp,streamable-http,"Read LinkedIn outreach campaigns, contacts and replies, and manage campaign leads and targeting."
+2026-10-13T23:04:33.697941Z,to.sprawl/sprawl,Sprawl,1.2.0,,streamable-http,Stand up ops from Cursor/Claude/Codex; fleets keep running after your session ends.
+2026-10-13T23:05:11.934362Z,com.idosgames/platform,iDos Games,1.1.0,https://github.com/iDos-Games/idosgames-mcp,streamable-http,"Configure and ship web games on iDos Games: live config, AI assets, task board, builds."
+2026-10-13T23:05:12.882464Z,com.idosgames/sdk,iDos Games SDK,0.1.34,https://github.com/iDos-Games/idosgames-mcp,,"Game modules, project scaffold and SDK skills for building web games on iDos Games."
+2026-10-13T23:06:40.0467Z,io.github.carlosalbertorussell/cheaprouter,,1.1.0,,streamable-http,Routes each LLM completion to the cheapest capable provider across 8 providers (BYOK).
+2026-10-13T23:07:03.183574Z,com.citreasurehunt/directory,CI Treasure Hunt,1.0.0,https://github.com/ci-treasure-hunt/ci-treasure-web,streamable-http,"Contact Improvisation events, teachers, venues and communities worldwide. Read-only."
+2026-10-13T23:14:29.792123Z,finance.betteroff/mcp,BetterOff,0.5.0,,streamable-http,Review household finances and prepare corrections and transfer requests for approval in BetterOff.
+2026-10-13T23:15:00.587481Z,io.stablebaseline/sb,Stable Baseline,1.0.4,https://github.com/stablebaseline/mcp,streamable-http,"End-to-end agent-managed company brain. Docs, diagrams, plans, databases, agents, Knowledge Graph."
+2026-10-13T23:15:15.59767Z,io.github.pipeworx-io/airports,Airports,0.1.3,https://github.com/pipeworx-io/mcp-airports,streamable-http,"Airports MCP — wraps AirportGap API (free, no auth required), plus a D1 copy of the OurAirports…"
+2026-10-13T23:17:43.676669Z,io.github.pipeworx-io/ecfr,Ecfr,0.1.2,https://github.com/pipeworx-io/mcp-ecfr,streamable-http,eCFR (Electronic Code of Federal Regulations) MCP.
+2026-10-13T23:18:31.03335Z,io.github.pipeworx-io/hathitrust,Hathitrust,0.1.3,https://github.com/pipeworx-io/mcp-hathitrust,streamable-http,HathiTrust Bibliographic API MCP.
+2026-10-13T23:18:46.516408Z,jp.yomitasu/pono-pono-co-jp,Pono-Pono｜フェムケア・デリケートゾーンケア情報,1.0.1,,streamable-http,株式会社Pono-Ponoが運営する、フェムケア・デリケートゾーンケアに関する情報サイトです。（pono-pono.co.jp の内容を検索して答える。ヨミタス経由）
+2026-10-13T23:20:05.039109Z,io.github.mindstone/mcp-server-quickbooks,QuickBooks Online,0.4.3,https://github.com/mindstone/mcp-servers,,"QuickBooks Online MCP server: invoices, bills, customers, vendors, employees, and accounts"
+2026-10-13T23:20:19.127993Z,ai.revenuebase/revenuebase,RevenueBase,0.1.0,,streamable-http,"Find B2B contacts, inspect audience coverage, enrich emails, and verify deliverability."
+2026-10-13T23:20:48.965351Z,io.github.pipeworx-io/revternal,Revternal,0.1.2,https://github.com/pipeworx-io/mcp-revternal,streamable-http,"Revternal MCP — wraps Revternal's people/developer intelligence API (api.revternal.com), rebuilt…"
+2026-10-13T23:20:53.722619Z,ai.agentese.lifeclaw/lifeclaw,LifeClaw,1.0.0,,streamable-http,"Call you, a person, or a business; find places, book or inquire by phone, and return the answer."

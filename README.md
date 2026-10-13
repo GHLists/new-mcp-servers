@@ -9,35 +9,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 22:18 UTC
+## Latest list — 2026-10-13 23:21 UTC
 
-New MCP servers published between 2026-10-13 21:22 UTC and 2026-10-13 22:18 UTC.
+New MCP servers published between 2026-10-13 22:18 UTC and 2026-10-13 23:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-13T22-18-46-217461Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-13T23-21-41-045028Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-13 21:26:29 | [io.github.vdionisopoulos/azure-vm-pricing](https://github.com/vdionisopoulos/azure-vm-pricing) |  | 0.1.1 | Azure VM sizes and USD list prices in 24 regions, updated weekly. Find, price a… |
-| 2026-10-13 21:27:27 | [ai.getoneprofile/oneprofile](https://github.com/getoneprofile/connectors) | Oneprofile | 1.0.0 | Find prospects, research them, and run email and LinkedIn outreach in your Onep… |
-| 2026-10-13 21:28:33 | [io.github.dstrausser83/db-collab-hub](https://github.com/dstrausser83/db-collab-hub) | The Commons — Dead Brands Collab Hub | 0.3.0 | Public MCP discussion hub for AI agents — anonymous reading, free instant hub-k… |
-| 2026-10-13 21:33:54 | com.checkwebsitenow/checker | CheckWebsiteNow | 1.6.0 | Check if a website is down, explain browser errors and score agent readability… |
-| 2026-10-13 21:37:31 | [io.github.Servosity/itglue-mcp](https://github.com/servosity/msp-skills) | IT Glue MCP | 0.1.4 | Every IT Glue resource, plus an offline SQLite mirror, fleet-wide cross-resourc… |
-| 2026-10-13 21:39:57 | es.clonio/clonio | Clonio | 1.0.0 | Write, schedule and publish LinkedIn posts in your own voice with the VNC metho… |
-| 2026-10-13 21:43:29 | [io.github.AdelElo13/neuromcp](https://github.com/AdelElo13/neuromcp) |  | 0.30.0 | Semantic memory for AI agents with hybrid search, knowledge graph, and consolid… |
-| 2026-10-13 21:52:39 | [io.github.SuperAgentic/spines](https://github.com/GetSpines/mcp-server) |  | 1.0.3 | Access book collections, reading lists, and bookshelf recognition from AI assis… |
-| 2026-10-13 21:52:45 | com.bstalker/bstalker | BStalker | 1.0.0 | Liquidation marketplace search, manifests, closing comps and bid math for resel… |
-| 2026-10-13 21:54:07 | io.github.1294962213sh/tiana-co-free-checks | Tiana & Co. Seller Compliance | 1.3.0 | Which certificate (CPC, GCC, FCC, FDA), what marketplaces ask, supplier blackli… |
-| 2026-10-13 21:55:41 | com.checkpoint402/checkpoint402 | Checkpoint402 | 1.0.0 | Pay-per-call tx explainer, DeFi yields, token safety, SEC 8-K and OFAC data via… |
-| 2026-10-13 21:57:25 | com.seoperseo/mcp | SeoPerseo | 1.0.0 | SEO, GEO & AI Visibility intelligence directly inside AI assistants. |
-| 2026-10-13 21:58:44 | rsvp.saved/discovery | saved.rsvp | 1.0.0 | Restaurant picks from food creators you trust: ranked guides, reviews and place… |
-| 2026-10-13 22:08:10 | [io.mtdt/mtdt](https://github.com/mtdt-io/mcp) | mtdt — Salesforce DevOps | 0.2.2 | mtdt.io MCP: Salesforce DevOps platform connector (metadata deployments, backup… |
-| 2026-10-13 22:08:25 | [io.github.Mamoo85/open-data-actors-mcp](https://github.com/Mamoo85/open-data-actors-mcp) |  | 0.1.0 | 24 public-data Apify actors (sanctions, SEC Form D, WARN, FMCSA, SEO, jobs) as… |
-| 2026-10-13 22:08:58 | sh.surge.unlockbot/onchain-intel | Onchain Intel (x402) | 1.0.202610132208 | Pay-per-call crypto intel via x402: honeypot/rug check, whale flows, unlocks, M… |
-| 2026-10-13 22:09:08 | com.cloudquell/cloudquell-mcp-server | CloudQuell | 0.7.0 | Ask about AWS, Azure, GCP, OpenAI, Anthropic and Snowflake costs, budgets, and… |
-| 2026-10-13 22:11:01 | [ai.minidesk/minidesk](https://github.com/miniDesk/minidesk-mcp) | miniDesk | 1.0.0 | Work your miniDesk support inbox from AI apps: read conversations, search docs,… |
-| 2026-10-13 22:14:32 | [io.github.Vouchwell/vouchwell](https://github.com/Vouchwell/vouchwell) | Vouchwell | 0.7.0 | Read, verify and export a tamper-evident log of what an AI agent did. Read-only. |
-| 2026-10-13 22:16:30 | com.meet-align/align | Align | 1.0.0 | Your team's meetings, decisions and tasks: ask what was decided, who owns what,… |
-| 2026-10-13 22:16:41 | br.com.codeatlas/mcp | CodeAtlas | 1.0.0 | Read-only CodeAtlas service catalog: list, get and search services. No authenti… |
+| 2026-10-13 22:21:16 | dev.routemyagent/model-helper | RouteMyAgent Model Helper | 0.9.2 | Discover available AI models and delegate analysis or code review from your exi… |
+| 2026-10-13 22:25:46 | [io.github.Bellator-Schedule-Intelligence/schedule-intelligence](https://github.com/Bellator-Schedule-Intelligence/bellator-si-api) | Bellator Schedule Intelligence | 0.4.0 | Schedule health, logic audit, and validation. |
+| 2026-10-13 22:26:00 | com.strhosttools/vrbo-repricer | STR Host Tools | 1.0.0 | Free tools for short-term rental hosts. Reprice Vrbo listings for the Oct 29, 2… |
+| 2026-10-13 22:31:30 | delivery.byb/accra-delivery | BYB Delivery (Accra) | 1.155.1 | Quote, book, track and pay for same-day parcel deliveries across Greater Accra,… |
+| 2026-10-13 22:33:03 | [io.github.6ixtyy/switchbord](https://github.com/6ixtyy/switchbord) | SwitchBord | 0.1.0 | Free live router for paid agent APIs (x402, MPP): the best working seller for a… |
+| 2026-10-13 22:40:01 | xyz.filingdelta/filingdelta | FilingDelta | 0.2.0 | SEC filing-change, central-bank and macro cards for agents. Paid via x402 USDC… |
+| 2026-10-13 22:40:07 | run.saka/business-data | Saka Business Data | 1.0.0 | Search business records by market with evidence. Prepaid credit; emails observe… |
+| 2026-10-13 22:42:06 | ai.livecrm/livecrm | LiveCRM | 1.0.1 | Salesforce & HubSpot: dedupe, normalize, enrich, assign, job change, create, ma… |
+| 2026-10-13 22:44:34 | [io.github.openhook-dev/openhook-inbox](https://github.com/openhook-dev/openhook-inbox) | Openhook | 0.1.0 | Webhook, email and DNS inboxes for AI agents to capture callbacks and test inte… |
+| 2026-10-13 22:45:48 | com.phersa/phersa | Phersa | 1.0.0 | Find viral videos, make your own with your AI persona on your API keys, monetiz… |
+| 2026-10-13 22:49:51 | icu.secureit/security-checks | secureIT Sicherheits-Checks | 1.0.0 | Kostenlose Sicherheits-Checks ohne Konto: SPF/DKIM/DMARC, Mails, Links, Webseit… |
+| 2026-10-13 23:02:09 | com.citiviewgroup.mcp/agent-market | Citiview Agent Market | 1.0.0 | 186 pay-per-call tools: search, LLMs, UK KYB, FRED, Census, maps, crypto. x402… |
+| 2026-10-13 23:02:57 | ai.outtake/flash | Outtake Flash | 1.0.0 | Tells your agent if a link is safe before it clicks, signs in or pays. |
+| 2026-10-13 23:03:59 | [io.zen-mode/zenmode](https://github.com/zenmode87/zenmode-mcp) | ZenMode | 1.0.0 | Read LinkedIn outreach campaigns, contacts and replies, and manage campaign lea… |
+| 2026-10-13 23:04:33 | to.sprawl/sprawl | Sprawl | 1.2.0 | Stand up ops from Cursor/Claude/Codex; fleets keep running after your session e… |
+| 2026-10-13 23:05:11 | [com.idosgames/platform](https://github.com/iDos-Games/idosgames-mcp) | iDos Games | 1.1.0 | Configure and ship web games on iDos Games: live config, AI assets, task board,… |
+| 2026-10-13 23:05:12 | [com.idosgames/sdk](https://github.com/iDos-Games/idosgames-mcp) | iDos Games SDK | 0.1.34 | Game modules, project scaffold and SDK skills for building web games on iDos Ga… |
+| 2026-10-13 23:06:40 | io.github.carlosalbertorussell/cheaprouter |  | 1.1.0 | Routes each LLM completion to the cheapest capable provider across 8 providers… |
+| 2026-10-13 23:07:03 | [com.citreasurehunt/directory](https://github.com/ci-treasure-hunt/ci-treasure-web) | CI Treasure Hunt | 1.0.0 | Contact Improvisation events, teachers, venues and communities worldwide. Read-… |
+| 2026-10-13 23:14:29 | finance.betteroff/mcp | BetterOff | 0.5.0 | Review household finances and prepare corrections and transfer requests for app… |
+| 2026-10-13 23:15:00 | [io.stablebaseline/sb](https://github.com/stablebaseline/mcp) | Stable Baseline | 1.0.4 | End-to-end agent-managed company brain. Docs, diagrams, plans, databases, agent… |
+| 2026-10-13 23:15:15 | [io.github.pipeworx-io/airports](https://github.com/pipeworx-io/mcp-airports) | Airports | 0.1.3 | Airports MCP — wraps AirportGap API (free, no auth required), plus a D1 copy of… |
+| 2026-10-13 23:17:43 | [io.github.pipeworx-io/ecfr](https://github.com/pipeworx-io/mcp-ecfr) | Ecfr | 0.1.2 | eCFR (Electronic Code of Federal Regulations) MCP. |
+| 2026-10-13 23:18:31 | [io.github.pipeworx-io/hathitrust](https://github.com/pipeworx-io/mcp-hathitrust) | Hathitrust | 0.1.3 | HathiTrust Bibliographic API MCP. |
+| 2026-10-13 23:18:46 | jp.yomitasu/pono-pono-co-jp | Pono-Pono｜フェムケア・デリケートゾーンケア情報 | 1.0.1 | 株式会社Pono-Ponoが運営する、フェムケア・デリケートゾーンケアに関する情報サイトです。（pono-pono.co.jp の内容を検索して答える。ヨミタ… |
+| 2026-10-13 23:20:05 | [io.github.mindstone/mcp-server-quickbooks](https://github.com/mindstone/mcp-servers) | QuickBooks Online | 0.4.3 | QuickBooks Online MCP server: invoices, bills, customers, vendors, employees, a… |
+| 2026-10-13 23:20:19 | ai.revenuebase/revenuebase | RevenueBase | 0.1.0 | Find B2B contacts, inspect audience coverage, enrich emails, and verify deliver… |
+| 2026-10-13 23:20:48 | [io.github.pipeworx-io/revternal](https://github.com/pipeworx-io/mcp-revternal) | Revternal | 0.1.2 | Revternal MCP — wraps Revternal's people/developer intelligence API (api.revter… |
+| 2026-10-13 23:20:53 | ai.agentese.lifeclaw/lifeclaw | LifeClaw | 1.0.0 | Call you, a person, or a business; find places, book or inquire by phone, and r… |
 
 ## Data source
 
