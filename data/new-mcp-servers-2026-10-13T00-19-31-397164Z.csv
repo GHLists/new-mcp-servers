@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-10-12T23:22:00.189917Z,io.github.benno303/ndis-provider-feed,NDIS Provider Feed,1.0.1,https://github.com/benno303/ndis-provider-feed,streamable-http,Agent-readable search over the NDIS Provider Register (CC BY 4.0 AU) by location and service.
+2026-10-12T23:24:04.773028Z,io.github.Ambuj123-lab/covercraft-mcp,CoverCraft AI by Ambuj Kumar Tripathi,1.0.0,https://github.com/Ambuj123-lab/career-workspace-ambujsystems,streamable-http,"Live Hugging Face model proofing, ATS resume scoring and career tools by Ambuj Kumar Tripathi"
+2026-10-12T23:24:06.214914Z,com.crawlerdata/google-shopping-serp,CrawlerData: Google Shopping & SERP,1.0.0,,streamable-http,"Google Shopping products and seller prices, plus Google Search, Images, News and Local results."
+2026-10-12T23:26:30.003195Z,io.github.celfons/kya-brasil,,0.2.0,,streamable-http,"Know-your-agent for Brazil: e-CNPJ-signed credentials binding AI agents to companies, KYB-checked"
+2026-10-12T23:28:01.502186Z,com.zerotrustphysics/verifier,Zero-Trust Physics,0.9.1,,streamable-http,A physics verifier for Super Intelligence. Every answer comes with a cryptographic proof.
+2026-10-12T23:30:45.283129Z,io.github.w0h1v/otx,,1.2.0,https://github.com/w0h1v/mcp-otx,,"MCP server for AlienVault OTX threat intelligence: indicators, pulses, search, and users."
+2026-10-12T23:30:52.191487Z,io.github.editmamei/editmamei-connect,Editmamei Connect,1.0.0,,streamable-http,"Hosted MCP server for AI photo editing: nothing to install, no desktop photo editor needed."
+2026-10-12T23:34:39.015703Z,io.github.mechubsec/rustmistmcp,rustmistmcp,0.4.0,https://github.com/mechubsec/rustmistmcp,,"HPE Juniper Mist MCP server: scoped, audited, two-person change control. Rust."
+2026-10-12T23:37:21.708614Z,com.realistimo/realistimo,Realistimo,1.0.0,,streamable-http,"Free MCP server with Bulgarian property prices, rental yields, deal costs and neighbourhood profiles"
+2026-10-12T23:42:45.646777Z,com.inboxapp/inboxapp,Inboxapp,2.0.0,,streamable-http,"Shared inbox and CRM for your team's DMs on LinkedIn, X, Instagram, WhatsApp, Telegram and email."
+2026-10-12T23:43:12.276735Z,com.jitprompt/jitprompt,jitprompt,1.0.0,,streamable-http,"Just-in-time instructions for agents: upload docs, serve only the sections each turn needs."
+2026-10-12T23:49:51.426026Z,com.mailforbots/mailforbots,Mail for Bots,0.2.0,,streamable-http,"Email inboxes for AI agents: send, reply, read verification codes, human-approved drafts."
+2026-10-12T23:50:19.089405Z,io.github.GenPM-net/genpm,GenPM,0.2.0,https://github.com/GenPM-net/genpm,streamable-http,"Search, inspect and inject full source modules (code + AI rules + MCP) pinned to a Git commit."
+2026-10-12T23:59:54.6234Z,com.yieldcave/yieldcave,YieldCave,0.9.0,https://github.com/yieldcave/yieldcave,streamable-http,"Tokenized asset data for agents: treasury yields, stablecoin rates, tokenized stocks, alerts."
+2026-10-13T00:00:28.208672Z,ai.subpay/invoice-reader,Subpay Invoice Reader,1.0.0,,streamable-http,Reads invoices and receipts from PDF to JSON and checks the math. $0.04/page via x402.
+2026-10-13T00:02:38.211745Z,com.pythonanywhere.paynemuse/agent-eligibility,,1.0.0,,streamable-http,"Deterministic eligibility scoring for AI agents: CLEAR/HOLD/FAIL verdicts, published weights."
+2026-10-13T00:03:06.259453Z,com.thebrettgroup/tbg,TBG — The Brett Group,1.0.0,,streamable-http,"Licensed contractor matching, permit rules and investor loans for Annapolis, Maryland"
+2026-10-13T00:03:55.004883Z,sh.crispy/crispy,,1.1.0,https://github.com/shyftai/crispy-mcp,streamable-http,"Full LinkedIn access for AI agents: leads, messaging, and campaigns with activity limits built in."
+2026-10-13T00:04:27.006657Z,com.scalingfirm.book/tsf-booking,TSF Booking,1.0.0,,streamable-http,"Salon and clinic appointments: check availability, hold slots, take deposits, move and cancel."
+2026-10-13T00:10:41.686366Z,br.com.auroraconcierge/mcp,Aurora Concierge,1.0.0,,streamable-http,"Home care in Osasco and São Paulo, Brazil: book the free nursing assessment or request a proposal."
+2026-10-13T00:13:45.518721Z,com.tamperlens/mcp,,1.37.0,https://github.com/haruodev/tamperlens-mcp,,"Was this document edited, did its redactions hold, is it safe for a model to read — Tamperlens API."
+2026-10-13T00:16:21.917758Z,io.github.alipajand/agent-readiness,Agent Readiness,0.1.1,https://github.com/alipajand/agent-readiness-action,,"Deterministic, read-only audits of repo readiness for AI coding agents and of agent context files."
+2026-10-13T00:16:51.172317Z,io.github.jordan-belfort-ai/image-to-svg,Image to SVG Vectorizer,1.0.0,https://github.com/jordan-belfort-ai/image-to-svg,streamable-http,"Convert PNG, JPG and WebP images to SVG vector paths. Runs on Apify, $0.01 per image."
+2026-10-13T00:17:30.944452Z,com.buildwithgage/gage,Gage,1.1.0,,streamable-http,Price a building in light-gauge steel framing and start it with the nearest Gage fabricator.
