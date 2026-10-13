@@ -9,29 +9,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 05:21 UTC
+## Latest list — 2026-10-13 06:19 UTC
 
-New MCP servers published between 2026-10-13 04:21 UTC and 2026-10-13 05:21 UTC.
+New MCP servers published between 2026-10-13 05:21 UTC and 2026-10-13 06:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-13T05-21-00-276166Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-13T06-19-21-29902Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-13 04:22:22 | ai.giljo/amh | Giljo Agent Message Hub | 1.18.2 | A shared message board and task list for coding agents that cannot talk to each… |
-| 2026-10-13 04:23:00 | [io.github.soma-intelligence/open-health-sync](https://github.com/soma-intelligence/open-health-sync) | Open Health Sync | 0.0.2 | Read-only access to self-hosted health data: samples, sleep, workouts, nutritio… |
-| 2026-10-13 04:23:18 | [io.github.archestack/mcp](https://github.com/archestack/mcp) | Archestack | 0.1.2 | Search, rank and compare open-source AI projects with Archestack's open data |
-| 2026-10-13 04:24:34 | [io.github.meta-taro/zumen](https://github.com/meta-taro/zumen) |  | 0.6.1 | AI-editable diagrams as code: draw from YAML, propose diffs a human applies, ex… |
-| 2026-10-13 04:33:41 | com.alexandria-archive/archive | Alexandria Archive | 1.1.0 | History of Alexandria, Egypt: search the archive, read articles, find events an… |
-| 2026-10-13 04:35:36 | [io.github.anYoneo/idn-econ](https://github.com/anYoneo/idn-econ-mcp) | Indonesia Economic & Financial Data | 1.0.0 | Indonesian and ASEAN economic data for AI agents: inflation, CPI, GDP, and FX r… |
-| 2026-10-13 04:36:00 | [io.github.HASAVAGE/teardrop](https://github.com/teardrop-ai/teardrop) |  | 1.0.0 | Teardrop MCP gateway: paid tools for autonomous agents (x402, credits). |
-| 2026-10-13 04:46:33 | [co.chinaready/search](https://github.com/chinaready/mcp) | Chinaready China Market-Entry Search | 1.0.0 | Read-only search over chinaready.co — China market entry for Western software t… |
-| 2026-10-13 04:49:10 | org.thealibrary/thea | Thea | 1.0.0 | Open, people-curated knowledge library: 1M+ Korean places, people, works. Read-… |
-| 2026-10-13 04:51:09 | [io.github.jake-zaiba/deai-research](https://github.com/jake-zaiba/DeAI) | DeAI Artifact Gateway | 0.2.0 | Shared quote-oracle library: match, reuse, repair, mint sealed research pages (… |
-| 2026-10-13 04:54:02 | ai.apir/verify | APIR Agent Verification | 1.0.0 | Check an AI agent you did not build: is it who it claims, inside its mandate, a… |
-| 2026-10-13 05:01:29 | [io.github.anYoneo/indonesia-economic-data](https://github.com/anYoneo/idn-econ-mcp) | Indonesia Economic & Financial Data | 1.0.1 | Indonesian and ASEAN economic data for AI agents: inflation, CPI, GDP, and FX r… |
-| 2026-10-13 05:06:52 | [ai.truverif/panel-review](https://github.com/TruVerifAI/init) | Panel Review | 0.19.50 | Guardian agent for AI coding: four frontier models review risky diffs and commi… |
-| 2026-10-13 05:10:13 | tech.groundtruthhq/groundtruth | Groundtruth | 1.0.0 | Company wiki for AI: answers with citations, decisions, records and the team's… |
-| 2026-10-13 05:15:27 | ca.gasquebec/quebec-gas-prices | Gas Quebec: Quebec fuel prices | 1.3.0 | Live Quebec gas and diesel prices: cheapest stations nearby, city fair price, 3… |
+| 2026-10-13 05:22:21 | io.github.TheAliphant/mach-base | MACH Base | 1.0.3 | Investigate Base transactions, check wallet funds and contracts. Read-only MCP.… |
+| 2026-10-13 05:24:37 | [io.github.getcutpro/cutpro](https://github.com/getcutpro/mcp) | CutPro | 2.3.0 | AI images and videos with any model, AI personas, and AI clips from long videos. |
+| 2026-10-13 05:32:18 | jp.yomitasu/izakasu-jp | いざ貸す | 1.0.1 | いざ貸すは、持ち家を貸したい方や、所有物件の賃貸管理を見直したい方のための賃貸管理一括査定サービスです。（izakasu.jp の内容を検索して答える。ヨミタ… |
+| 2026-10-13 05:32:38 | [io.github.ankitb073/lanternkb](https://github.com/ankitb073/lanternkb) | lanternkb | 0.1.3 | Private, local search over your own files, by meaning and keywords, with secret… |
+| 2026-10-13 05:35:24 | io.github.Muse-Nexus/socialfanout-mcp | Social Fanout | 0.1.6 | Focused tools for AI agents to publish, schedule, and review posts through the… |
+| 2026-10-13 05:35:29 | io.github.EyevinnOSC/osaas | Eyevinn Open Source Cloud | 8.15.3 | Deploy open-source services and your own apps on Open Source Cloud (OSC, osaas.… |
+| 2026-10-13 05:46:52 | [io.github.aoreshkov/oracle-forms-mcp](https://github.com/aoreshkov/oracle-forms-mcp) | Oracle Forms | 0.13.1 | Serves Oracle Forms module content (.fmb/.mmb/.pll/.olb) from a directory to MC… |
+| 2026-10-13 05:49:32 | au.com.claimdone/claimdone | Claim Done | 1.0.0 | Australian legal documents drafted from your answers for a flat fee. Not a law… |
+| 2026-10-13 05:50:30 | app.getfleek/partners | Fleek for Business | 0.1.0 | Subscription brands a card, loyalty, benefits or telco programme could offer, b… |
+| 2026-10-13 05:50:33 | app.getfleek/deals | Fleek | 0.1.0 | Fleek's current prices for digital subscriptions vs list price, plan comparison… |
+| 2026-10-13 05:53:30 | [ai.snowsure/snow](https://github.com/mikeslone/snowsure-web) | SnowSure — Snow & Ski | 1.0.5 | Live ski snow, multi-model forecasts, powder rankings & a grounded Answer Engin… |
+| 2026-10-13 05:57:51 | [io.github.pipeworx-io/bts-ontime](https://github.com/pipeworx-io/mcp-bts-ontime) | Bts Ontime | 0.1.0 | bts-ontime -- US airline on-time performance and delay causes (fleet #2953). |
+| 2026-10-13 05:58:50 | [io.github.pipeworx-io/football-odds-history](https://github.com/pipeworx-io/mcp-football-odds-history) | Football Odds History | 0.1.0 | football-odds-history — historical football (soccer) results and odds |
+| 2026-10-13 05:59:44 | [io.github.pipeworx-io/index-constituents](https://github.com/pipeworx-io/mcp-index-constituents) | Index Constituents | 0.1.0 | Index constituents and holdings, point-in-time. |
+| 2026-10-13 06:00:42 | [io.github.pipeworx-io/nflverse](https://github.com/pipeworx-io/mcp-nflverse) | Nflverse | 0.1.0 | nflverse — NFL play-by-play, player and team stats, schedules and injury |
+| 2026-10-13 06:01:37 | [io.github.pipeworx-io/reddit-archive](https://github.com/pipeworx-io/mcp-reddit-archive) | Reddit Archive | 0.1.0 | Reddit Archive — historical Reddit post and comment search, and subreddit |
+| 2026-10-13 06:01:49 | [io.github.breakcold/inboxmcp](https://github.com/breakcold/inboxmcp) | InboxMCP | 1.0.0 | LinkedIn, WhatsApp, Telegram and Instagram inboxes, profiles and outreach for y… |
+| 2026-10-13 06:01:55 | com.askmyev/askmyev | AskMyEV | 1.0.0 | Tesla data for your AI: battery, range, charging, tires, alerts, history. Contr… |
+| 2026-10-13 06:02:23 | [io.github.zearchcomputer/zearch-mcp](https://github.com/zearchcomputer/zearch-mcp) | Zearch | 0.1.0 | Research with answers you can check: every paragraph verified against its cited… |
+| 2026-10-13 06:03:11 | [io.github.pipeworx-io/us-elections](https://github.com/pipeworx-io/mcp-us-elections) | Us Elections | 0.1.0 | us-elections -- U.S. election results by county and precinct (fleet #2952). |
+| 2026-10-13 06:05:27 | uk.co.speedi.www/availability |  | 1.0.0 | Which UK trades and local services are actually free right now. Live availabili… |
+| 2026-10-13 06:05:32 | [io.github.Mola-maker/cad2gis-agent](https://github.com/Mola-maker/CAD2GIS) | CAD2GIS | 0.8.0 | DWG/DXF to GIS, QGIS delivery and source-preserving CAD tools with validation e… |
+| 2026-10-13 06:09:20 | ai.thesisloop/thesis-loop | ThesisLoop | 0.1.0 | Research layer for AI agents: stock theses, filing Q&A with page cites, monitor… |
+| 2026-10-13 06:09:50 | [com.appbricx/appbricx](https://github.com/Naveenbhargav-m/appbricx-examples) | Appbricx | 1.0.0 | Build, verify and deploy full-stack apps: Postgres, sign-in, workflows, realtim… |
+| 2026-10-13 06:12:28 | com.priorcase/priorcase | Priorcase | 1.0.0 | Past market moments that resemble a given one, and what followed each. Point-in… |
+| 2026-10-13 06:12:35 | [io.github.carbaj03/agent-cafe-idle-hour](https://github.com/carbaj03/idle-hour) |  | 1.3.1 | Search public conversations, choose a reply, and optionally subscribe to signed… |
+| 2026-10-13 06:13:28 | [io.github.mlorentedev/pdf-modifier](https://github.com/mlorentedev/pdf-modifier) | PDF Modifier | 1.9.2 | Modify PDF text, replace with regex, and analyze layout while preserving fonts. |
+| 2026-10-13 06:14:25 | uk.co.speedi/availability |  | 1.0.0 | Which UK trades and local services are actually free right now. Live availabili… |
+| 2026-10-13 06:15:20 | [io.github.AMRITO-KUNDU/llmscribe](https://github.com/AMRITO-KUNDU/llmscribe) | LLMScribe | 1.2.1 | Deterministic repo map, search and file reader for AI agents. |
+| 2026-10-13 06:16:17 | [io.github.jkotzker/firesidefm-mcp-server](https://github.com/jkotzker/firesidefm-mcp-server) | Fireside.fm (unofficial) | 0.1.0 | Unofficial server for the Fireside.fm podcast API: podcasts, episodes, download… |
+| 2026-10-13 06:17:35 | ai.claritytrack/claritytrack | ClarityTrack | 1.5.0 | Ask your AI about your own accounts, debts, budgets and goals. OAuth sign-in, r… |
+| 2026-10-13 06:17:54 | io.github.winters-works-co/domain-whois | WHOIS & Domain Availability (RDAP) | 1.0.0 | Domain WHOIS via official RDAP: registrar, expiry dates, nameservers, availabil… |
 
 ## Data source
 

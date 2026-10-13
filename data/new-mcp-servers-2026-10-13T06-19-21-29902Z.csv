@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-10-13T05:22:21.096672Z,io.github.TheAliphant/mach-base,MACH Base,1.0.3,,streamable-http,"Investigate Base transactions, check wallet funds and contracts. Read-only MCP. USDC via x402."
+2026-10-13T05:24:37.021704Z,io.github.getcutpro/cutpro,CutPro,2.3.0,https://github.com/getcutpro/mcp,streamable-http,"AI images and videos with any model, AI personas, and AI clips from long videos."
+2026-10-13T05:32:18.977212Z,jp.yomitasu/izakasu-jp,いざ貸す,1.0.1,,streamable-http,いざ貸すは、持ち家を貸したい方や、所有物件の賃貸管理を見直したい方のための賃貸管理一括査定サービスです。（izakasu.jp の内容を検索して答える。ヨミタス経由）
+2026-10-13T05:32:38.118456Z,io.github.ankitb073/lanternkb,lanternkb,0.1.3,https://github.com/ankitb073/lanternkb,,"Private, local search over your own files, by meaning and keywords, with secrets redacted."
+2026-10-13T05:35:24.134068Z,io.github.Muse-Nexus/socialfanout-mcp,Social Fanout,0.1.6,,,"Focused tools for AI agents to publish, schedule, and review posts through the Social Fanout API."
+2026-10-13T05:35:29.624893Z,io.github.EyevinnOSC/osaas,Eyevinn Open Source Cloud,8.15.3,,streamable-http,"Deploy open-source services and your own apps on Open Source Cloud (OSC, osaas.io)."
+2026-10-13T05:46:52.631594Z,io.github.aoreshkov/oracle-forms-mcp,Oracle Forms,0.13.1,https://github.com/aoreshkov/oracle-forms-mcp,,Serves Oracle Forms module content (.fmb/.mmb/.pll/.olb) from a directory to MCP clients.
+2026-10-13T05:49:32.040367Z,au.com.claimdone/claimdone,Claim Done,1.0.0,,streamable-http,Australian legal documents drafted from your answers for a flat fee. Not a law firm.
+2026-10-13T05:50:30.854492Z,app.getfleek/partners,Fleek for Business,0.1.0,,streamable-http,"Subscription brands a card, loyalty, benefits or telco programme could offer, by market."
+2026-10-13T05:50:33.685912Z,app.getfleek/deals,Fleek,0.1.0,,streamable-http,"Fleek's current prices for digital subscriptions vs list price, plan comparisons and app links."
+2026-10-13T05:53:30.622067Z,ai.snowsure/snow,SnowSure — Snow & Ski,1.0.5,https://github.com/mikeslone/snowsure-web,streamable-http,"Live ski snow, multi-model forecasts, powder rankings & a grounded Answer Engine for 500+ resorts."
+2026-10-13T05:57:51.870663Z,io.github.pipeworx-io/bts-ontime,Bts Ontime,0.1.0,https://github.com/pipeworx-io/mcp-bts-ontime,streamable-http,bts-ontime -- US airline on-time performance and delay causes (fleet #2953).
+2026-10-13T05:58:50.569945Z,io.github.pipeworx-io/football-odds-history,Football Odds History,0.1.0,https://github.com/pipeworx-io/mcp-football-odds-history,streamable-http,football-odds-history — historical football (soccer) results and odds
+2026-10-13T05:59:44.839835Z,io.github.pipeworx-io/index-constituents,Index Constituents,0.1.0,https://github.com/pipeworx-io/mcp-index-constituents,streamable-http,"Index constituents and holdings, point-in-time."
+2026-10-13T06:00:42.18048Z,io.github.pipeworx-io/nflverse,Nflverse,0.1.0,https://github.com/pipeworx-io/mcp-nflverse,streamable-http,"nflverse — NFL play-by-play, player and team stats, schedules and injury"
+2026-10-13T06:01:37.078071Z,io.github.pipeworx-io/reddit-archive,Reddit Archive,0.1.0,https://github.com/pipeworx-io/mcp-reddit-archive,streamable-http,"Reddit Archive — historical Reddit post and comment search, and subreddit"
+2026-10-13T06:01:49.825809Z,io.github.breakcold/inboxmcp,InboxMCP,1.0.0,https://github.com/breakcold/inboxmcp,streamable-http,"LinkedIn, WhatsApp, Telegram and Instagram inboxes, profiles and outreach for your AI assistant."
+2026-10-13T06:01:55.521251Z,com.askmyev/askmyev,AskMyEV,1.0.0,,streamable-http,"Tesla data for your AI: battery, range, charging, tires, alerts, history. Controls off by default."
+2026-10-13T06:02:23.077101Z,io.github.zearchcomputer/zearch-mcp,Zearch,0.1.0,https://github.com/zearchcomputer/zearch-mcp,,Research with answers you can check: every paragraph verified against its cited source.
+2026-10-13T06:03:11.359086Z,io.github.pipeworx-io/us-elections,Us Elections,0.1.0,https://github.com/pipeworx-io/mcp-us-elections,streamable-http,us-elections -- U.S. election results by county and precinct (fleet #2952).
+2026-10-13T06:05:27.948247Z,uk.co.speedi.www/availability,,1.0.0,,streamable-http,"Which UK trades and local services are actually free right now. Live availability, not a directory."
+2026-10-13T06:05:32.152729Z,io.github.Mola-maker/cad2gis-agent,CAD2GIS,0.8.0,https://github.com/Mola-maker/CAD2GIS,,"DWG/DXF to GIS, QGIS delivery and source-preserving CAD tools with validation evidence."
+2026-10-13T06:09:20.678627Z,ai.thesisloop/thesis-loop,ThesisLoop,0.1.0,,streamable-http,"Research layer for AI agents: stock theses, filing Q&A with page cites, monitoring. Research-only."
+2026-10-13T06:09:50.34384Z,com.appbricx/appbricx,Appbricx,1.0.0,https://github.com/Naveenbhargav-m/appbricx-examples,streamable-http,"Build, verify and deploy full-stack apps: Postgres, sign-in, workflows, realtime, AI, rollback."
+2026-10-13T06:12:28.449849Z,com.priorcase/priorcase,Priorcase,1.0.0,,streamable-http,"Past market moments that resemble a given one, and what followed each. Point-in-time, no forecasts."
+2026-10-13T06:12:35.289047Z,io.github.carbaj03/agent-cafe-idle-hour,,1.3.1,https://github.com/carbaj03/idle-hour,streamable-http,"Search public conversations, choose a reply, and optionally subscribe to signed reply notifications."
+2026-10-13T06:13:28.734776Z,io.github.mlorentedev/pdf-modifier,PDF Modifier,1.9.2,https://github.com/mlorentedev/pdf-modifier,,"Modify PDF text, replace with regex, and analyze layout while preserving fonts."
+2026-10-13T06:14:25.527075Z,uk.co.speedi/availability,,1.0.0,,streamable-http,"Which UK trades and local services are actually free right now. Live availability, not a directory."
+2026-10-13T06:15:20.64335Z,io.github.AMRITO-KUNDU/llmscribe,LLMScribe,1.2.1,https://github.com/AMRITO-KUNDU/llmscribe,,"Deterministic repo map, search and file reader for AI agents."
+2026-10-13T06:16:17.857913Z,io.github.jkotzker/firesidefm-mcp-server,Fireside.fm (unofficial),0.1.0,https://github.com/jkotzker/firesidefm-mcp-server,,"Unofficial server for the Fireside.fm podcast API: podcasts, episodes, downloads and drafts."
+2026-10-13T06:17:35.147708Z,ai.claritytrack/claritytrack,ClarityTrack,1.5.0,,streamable-http,"Ask your AI about your own accounts, debts, budgets and goals. OAuth sign-in, read-only by default."
+2026-10-13T06:17:54.749557Z,io.github.winters-works-co/domain-whois,WHOIS & Domain Availability (RDAP),1.0.0,,streamable-http,"Domain WHOIS via official RDAP: registrar, expiry dates, nameservers, availability. Winters Works."
