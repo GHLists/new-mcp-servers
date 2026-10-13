@@ -9,38 +9,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 00:19 UTC
+## Latest list — 2026-10-13 01:20 UTC
 
-New MCP servers published between 2026-10-12 23:20 UTC and 2026-10-13 00:19 UTC.
+New MCP servers published between 2026-10-13 00:19 UTC and 2026-10-13 01:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-13T00-19-31-397164Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-13T01-20-23-842878Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-12 23:22:00 | [io.github.benno303/ndis-provider-feed](https://github.com/benno303/ndis-provider-feed) | NDIS Provider Feed | 1.0.1 | Agent-readable search over the NDIS Provider Register (CC BY 4.0 AU) by locatio… |
-| 2026-10-12 23:24:04 | [io.github.Ambuj123-lab/covercraft-mcp](https://github.com/Ambuj123-lab/career-workspace-ambujsystems) | CoverCraft AI by Ambuj Kumar Tripathi | 1.0.0 | Live Hugging Face model proofing, ATS resume scoring and career tools by Ambuj… |
-| 2026-10-12 23:24:06 | com.crawlerdata/google-shopping-serp | CrawlerData: Google Shopping & SERP | 1.0.0 | Google Shopping products and seller prices, plus Google Search, Images, News an… |
-| 2026-10-12 23:26:30 | io.github.celfons/kya-brasil |  | 0.2.0 | Know-your-agent for Brazil: e-CNPJ-signed credentials binding AI agents to comp… |
-| 2026-10-12 23:28:01 | com.zerotrustphysics/verifier | Zero-Trust Physics | 0.9.1 | A physics verifier for Super Intelligence. Every answer comes with a cryptograp… |
-| 2026-10-12 23:30:45 | [io.github.w0h1v/otx](https://github.com/w0h1v/mcp-otx) |  | 1.2.0 | MCP server for AlienVault OTX threat intelligence: indicators, pulses, search,… |
-| 2026-10-12 23:30:52 | io.github.editmamei/editmamei-connect | Editmamei Connect | 1.0.0 | Hosted MCP server for AI photo editing: nothing to install, no desktop photo ed… |
-| 2026-10-12 23:34:39 | [io.github.mechubsec/rustmistmcp](https://github.com/mechubsec/rustmistmcp) | rustmistmcp | 0.4.0 | HPE Juniper Mist MCP server: scoped, audited, two-person change control. Rust. |
-| 2026-10-12 23:37:21 | com.realistimo/realistimo | Realistimo | 1.0.0 | Free MCP server with Bulgarian property prices, rental yields, deal costs and n… |
-| 2026-10-12 23:42:45 | com.inboxapp/inboxapp | Inboxapp | 2.0.0 | Shared inbox and CRM for your team's DMs on LinkedIn, X, Instagram, WhatsApp, T… |
-| 2026-10-12 23:43:12 | com.jitprompt/jitprompt | jitprompt | 1.0.0 | Just-in-time instructions for agents: upload docs, serve only the sections each… |
-| 2026-10-12 23:49:51 | com.mailforbots/mailforbots | Mail for Bots | 0.2.0 | Email inboxes for AI agents: send, reply, read verification codes, human-approv… |
-| 2026-10-12 23:50:19 | [io.github.GenPM-net/genpm](https://github.com/GenPM-net/genpm) | GenPM | 0.2.0 | Search, inspect and inject full source modules (code + AI rules + MCP) pinned t… |
-| 2026-10-12 23:59:54 | [com.yieldcave/yieldcave](https://github.com/yieldcave/yieldcave) | YieldCave | 0.9.0 | Tokenized asset data for agents: treasury yields, stablecoin rates, tokenized s… |
-| 2026-10-13 00:00:28 | ai.subpay/invoice-reader | Subpay Invoice Reader | 1.0.0 | Reads invoices and receipts from PDF to JSON and checks the math. $0.04/page vi… |
-| 2026-10-13 00:02:38 | com.pythonanywhere.paynemuse/agent-eligibility |  | 1.0.0 | Deterministic eligibility scoring for AI agents: CLEAR/HOLD/FAIL verdicts, publ… |
-| 2026-10-13 00:03:06 | com.thebrettgroup/tbg | TBG — The Brett Group | 1.0.0 | Licensed contractor matching, permit rules and investor loans for Annapolis, Ma… |
-| 2026-10-13 00:03:55 | [sh.crispy/crispy](https://github.com/shyftai/crispy-mcp) |  | 1.1.0 | Full LinkedIn access for AI agents: leads, messaging, and campaigns with activi… |
-| 2026-10-13 00:04:27 | com.scalingfirm.book/tsf-booking | TSF Booking | 1.0.0 | Salon and clinic appointments: check availability, hold slots, take deposits, m… |
-| 2026-10-13 00:10:41 | br.com.auroraconcierge/mcp | Aurora Concierge | 1.0.0 | Home care in Osasco and São Paulo, Brazil: book the free nursing assessment or… |
-| 2026-10-13 00:13:45 | [com.tamperlens/mcp](https://github.com/haruodev/tamperlens-mcp) |  | 1.37.0 | Was this document edited, did its redactions hold, is it safe for a model to re… |
-| 2026-10-13 00:16:21 | [io.github.alipajand/agent-readiness](https://github.com/alipajand/agent-readiness-action) | Agent Readiness | 0.1.1 | Deterministic, read-only audits of repo readiness for AI coding agents and of a… |
-| 2026-10-13 00:16:51 | [io.github.jordan-belfort-ai/image-to-svg](https://github.com/jordan-belfort-ai/image-to-svg) | Image to SVG Vectorizer | 1.0.0 | Convert PNG, JPG and WebP images to SVG vector paths. Runs on Apify, $0.01 per… |
-| 2026-10-13 00:17:30 | com.buildwithgage/gage | Gage | 1.1.0 | Price a building in light-gauge steel framing and start it with the nearest Gag… |
+| 2026-10-13 00:19:51 | [io.github.mickelsamuel/migrationpilot](https://github.com/mickelsamuel/migrationpilot) |  | 1.6.2 | 112 rules that catch dangerous PostgreSQL migrations, plus a pass/fail gate to… |
+| 2026-10-13 00:26:05 | [io.github.akalsoftware/supaforge](https://github.com/akalsoftware/supaforge) | SupaForge | 0.0.33 | Find and fix drift between Supabase environments: schema, RLS, roles, auth, sto… |
+| 2026-10-13 00:33:42 | [ai.atmark/atmark](https://github.com/atmark-ai/atmark-mcp) | Atmark | 1.0.0 | Email for AI agents: its own address, not your Gmail. Invite-only; requires an… |
+| 2026-10-13 00:34:41 | com.torbrooknews.mcp/agent-hub | Agent Hub | 1.0.0 | 48 pay-per-call tools: search, scraping, PDF, OCR, LLM, crypto, DeFi, SEC. x402… |
+| 2026-10-13 00:46:36 | club.blinkinbox/mcp | BlinkInbox | 1.0.0 | Disposable email inboxes for AI agents: create an address, wait for mail, read… |
+| 2026-10-13 00:50:12 | [io.github.elfovo/agent-chain-doctor-mcp](https://github.com/elfovo/agent-chain-doctor) |  | 1.0.0 | Find why a scheduled AI agent (cron, launchd, systemd, Claude routine) stops si… |
+| 2026-10-13 00:51:46 | io.github.equin001/eddies | EDDIES | 1.0.4 | Money for people and machines: pay x402 (ex420) 402s, get paid, find paid servi… |
+| 2026-10-13 01:03:45 | [co.proofsource/proofsource](https://github.com/lcbasu/proofsource-plugins) | Proofsource | 1.0.0 | AI visibility: which buyer questions name your brand in ChatGPT, Perplexity, Cl… |
+| 2026-10-13 01:05:30 | com.playablegift/playable-gift | Playable Gift | 1.0.0 | Turn a few lines about someone into a small video game made just for them. Free… |
+| 2026-10-13 01:11:06 | [io.github.pipeworx-io/cms-open-payments](https://github.com/pipeworx-io/mcp-cms-open-payments) | Cms Open Payments | 0.1.6 | CMS Open Payments, with annual dataset discovery through the official DKAN API. |
+| 2026-10-13 01:11:20 | [io.github.pipeworx-io/gwas-catalog](https://github.com/pipeworx-io/mcp-gwas-catalog) | Gwas Catalog | 0.1.3 | GWAS Catalog (EBI/NHGRI) MCP — curated catalog of genome-wide association studi… |
+| 2026-10-13 01:11:31 | [io.github.pipeworx-io/metmuseum](https://github.com/pipeworx-io/mcp-metmuseum) | Metmuseum | 0.1.3 | The Metropolitan Museum of Art Collection MCP. |
+| 2026-10-13 01:11:41 | [io.github.pipeworx-io/openaire](https://github.com/pipeworx-io/mcp-openaire) | Openaire | 0.1.3 | OpenAIRE MCP — EU research outputs (publications, datasets, software, projects) |
+| 2026-10-13 01:12:03 | [io.github.pipeworx-io/brazil-comex-stat](https://github.com/pipeworx-io/mcp-brazil-comex-stat) | Brazil Comex Stat | 0.1.0 | Brazil Comex Stat MCP — Brazilian foreign trade statistics from MDIC |
+| 2026-10-13 01:12:55 | [io.github.pipeworx-io/estonia-business-register](https://github.com/pipeworx-io/mcp-estonia-business-register) | Estonia Business Register | 0.1.0 | estonia-business-register -- Estonia's e-Business Register, published as |
+| 2026-10-13 01:13:45 | [io.github.pipeworx-io/france-dvf](https://github.com/pipeworx-io/mcp-france-dvf) | France Dvf | 0.1.0 | france-dvf — France's official property-transfer price records ('Demandes |
+| 2026-10-13 01:15:16 | [io.github.juanjaragavi/devspeak](https://github.com/juanjaragavi/devspeak) | DevSpeak | 1.2.1 | Official DevSpeak MCP server — translate technical text into formal specs from… |
+| 2026-10-13 01:15:22 | [io.github.pipeworx-io/virgin-islands-code](https://github.com/pipeworx-io/mcp-virgin-islands-code) | Virgin Islands Code | 0.1.0 | Virgin Islands Code (V.I.C.) — US Virgin Islands statutes, 2026 edition: |
+| 2026-10-13 01:15:42 | [io.github.siteverdict/siteverdict](https://github.com/siteverdict/siteverdict-mcp) | SiteVerdict — Website Audit Tools | 0.2.0 | Website audits for AI agents: GDPR consent, speed, WCAG, SPF/DMARC and AI-searc… |
 
 ## Data source
 
