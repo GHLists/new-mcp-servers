@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-10-13T06:20:52.831931Z,dev.pages.scrapemole/quotes,ScrapeMole Quotes,1.0.0,,streamable-http,"Pay-per-call x402 stock, ETF, index, FX and crypto quotes, OHLCV history, ticker and coin search."
+2026-10-13T06:22:08.622094Z,io.github.euisuh/nginx-proxy-manager-mcp,,0.5.1,https://github.com/euisuh/nginx-proxy-manager-mcp,,"Manage Nginx Proxy Manager hosts, certificates, streams and access lists with dry-run previews."
+2026-10-13T06:22:51.85084Z,de.rechtsklar24/rechtsklar24,rechtsklar24,1.1.0,,streamable-http,"German e-commerce law: obligation dates, statutory fine ceilings, unit-price calculator. Sourced."
+2026-10-13T06:24:08.353776Z,kr.eocpa/mykifrs,MyKIFRS,0.12.0,,streamable-http,Full-text search over K-IFRS/K-GAAP standards and KASB accounting Q&A for Korean accountants
+2026-10-13T06:24:15.543031Z,kr.eocpa/myfss,MyFSS,0.19.0,,streamable-http,Full-text search over FSS/FSC accounting supervision documents for Korean accounting professionals
+2026-10-13T06:30:41.184153Z,io.github.ruslanlap/pagespeed-insights-mcp,,2.1.1,https://github.com/ruslanlap/pagespeed-insights-mcp,,Google PageSpeed Insights and CrUX: six workflow tools for web performance.
+2026-10-13T06:32:33.40303Z,dev.workers.x402-bazaar-rank-worker.x402-bazaar-rank/x402-bazaar-rank,P0 Agent Economy Index,0.2.1,,streamable-http,"Agent economy (x402, Tempo MPP, Virtuals ACP, Olas) + weather, OFAC, SEC filings, DNS, random"
+2026-10-13T06:36:01.384771Z,com.tryatria/atria,Atria,1.1.0,https://github.com/JoinScenius/atria-plugins,streamable-http,"Search Atria's ad library, track competitors, and analyze your Facebook and TikTok ad accounts."
+2026-10-13T06:37:41.65453Z,io.github.QuantumNovice/vlc-mcp,VLC Media Player,0.1.1,https://github.com/QuantumNovice/vlc-mcp,,Control VLC Media Player through MCP tools.
+2026-10-13T06:37:46.387395Z,io.github.cnkang/qdrant-memory,Qdrant Memory,0.1.0,https://github.com/cnkang/qdrant-memory-mcp,,"Persistent scoped Qdrant memory for agents, through four explicit stdio MCP tools."
+2026-10-13T06:44:32.564789Z,app.founderhood/founderhood,,1.0.0,,streamable-http,"Search indie founders and online businesses by city/country, and submit listings to Founderhood."
+2026-10-13T06:46:41.22851Z,com.endlesstravelplans/family-trip-budget,Family Trip Budget,1.0.0,,streamable-http,"Family trip cost estimates with a sourced, dated range for every line, from Endless Travel Plans."
+2026-10-13T06:51:43.142155Z,com.scrapeunblocker/scrapeunblocker-mcp-remote,,0.4.0,https://github.com/ScrapeUnblocker/scrapeunblocker-mcp-remote,streamable-http,"Fetch any page's HTML or AI-parsed JSON, Google results, or 100+ site plugins via ScrapeUnblocker"
+2026-10-13T06:54:25.968536Z,chat.suiagent/yui,yui: where agents meet on Sui,0.1.0,,streamable-http,"Open rooms where AI agents meet on Sui, plus a Sui docs search and a directory."
+2026-10-13T06:59:01.463733Z,io.github.OtterMind/sqlx,SQLX,0.1.20,https://github.com/OtterMind/sqlx,,"Database CLI for agents: 31 engines, encrypted credentials, complete structured results."
+2026-10-13T06:59:15.319298Z,io.github.ParallaxProtocol/parallax-mcp,Parallax Protocol,0.1.2,https://github.com/ParallaxProtocol/parallax-mcp,streamable-http,"Read-only Parallax PoW chain data: blocks, transactions, mining, supply, explorer and network health"
+2026-10-13T07:00:19.039086Z,io.github.HanochZhu/codeagent-memory,codeagent-memory,0.1.3,https://github.com/HanochZhu/codeagent_memory,,Local code graph and solution memory for coding agents via CLI and MCP.
+2026-10-13T07:00:45.820427Z,in.puzaricloud/indexpulse,IndexPulse,1.0.0,,streamable-http,"Bing Webmaster, IndexNow and Google Search Console for AI: rankings, indexing gaps, AI crawlers."
+2026-10-13T07:05:03.149924Z,app.railway.up.wod-api-production/wod-coach,WOD Coach: AI Personal Trainer,2.1.0,,streamable-http,"Fitness MCP: AI personal trainer, workouts, injury exercise swaps, race pacing. Pay-per-call x402."
+2026-10-13T07:05:16.677974Z,io.draw/mcp,draw.io,1.1.0,https://github.com/jgraph/drawio-mcp,streamable-http,"Create diagrams in chat, rendered as live interactive draw.io diagrams. 10,000+ searchable shapes."
+2026-10-13T07:06:21.31033Z,com.765tflow/flow,765T Flow,1.0.16,,streamable-http,"Revit MCP: lets AI read and edit your open model. Windows, best supported on Revit 2021+, free beta."
+2026-10-13T07:08:33.865967Z,nl.prijsprofeet/prijsprofeet,PrijsProfeet,1.0.0,,streamable-http; streamable-http,"Dutch and Belgian supermarket deals and regular prices: where a product is cheapest, with source."
+2026-10-13T07:10:04.51881Z,org.remoteimpact/jobs,Remote Impact Jobs,1.0.0,,streamable-http,"Verified remote jobs at impact organizations: search by area, country eligibility, level and pay."
