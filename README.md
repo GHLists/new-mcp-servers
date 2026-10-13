@@ -9,56 +9,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 13:21 UTC
+## Latest list — 2026-10-13 14:21 UTC
 
-New MCP servers published between 2026-10-13 12:20 UTC and 2026-10-13 13:21 UTC.
+New MCP servers published between 2026-10-13 13:21 UTC and 2026-10-13 14:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-13T13-21-37-816428Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-13T14-21-31-395825Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-13 12:21:38 | [io.github.HiveForensics-AI/knolo](https://github.com/HiveForensics-AI/knolo-core) | Knolo | 0.1.0 | Verified, local-first retrieval over pinned Knolo Knowledge Images. |
-| 2026-10-13 12:22:32 | com.dolphinindustrialparts/parts | Dolphin Industrial Parts | 1.0.0 | Supported OEM brands, models and part numbers for compatible marine spare parts… |
-| 2026-10-13 12:31:16 | ai.rillow/mcp | Rillow | 1.0.0 | Keyword research, Google's top 10 pages, a content plan and daily rank tracking… |
-| 2026-10-13 12:34:09 | xyz.xmrtousdc/monero-swap | Swapper - XMR to USDC swaps | 0.5.2 | Swap Monero (XMR) <-> native USDC on Arbitrum One. No KYC, no account, no API k… |
-| 2026-10-13 12:35:36 | [io.github.chrisryugj/kordoc](https://github.com/chrisryugj/kordoc) | kordoc | 4.21.31 | Parse Korean documents (HWP, HWPX, PDF, XLSX, DOCX, PPTX) to Markdown; fill for… |
-| 2026-10-13 12:37:09 | io.github.hkturtco/qrfile |  | 1.0.0 | This MCP copies target files into temp server on sender's LAN, and returns a do… |
-| 2026-10-13 12:37:42 | [io.github.gunnargray-dev/app-store-review-intelligence-mcp](https://github.com/gunnargray-dev/app-store-review-intelligence-mcp) | App Store & Google Play Review Intellig… | 1.1.0 | App Store + Google Play reviews: top complaints, what got worse by version, cro… |
-| 2026-10-13 12:39:42 | [com.botgathering/recipes](https://github.com/almmity/botgathering-recipes) | BotGathering recipes | 1.0.0 | Search, read, download and report on tested step-by-step recipes (playbooks) fo… |
-| 2026-10-13 12:40:50 | [io.github.support-wpmission/wpmission-mcp-server](https://github.com/support-wpmission/wpmission-mcp-server) | WPMission MCP Server | 0.1.0 | WPMission MCP server for WordPress management product information. |
-| 2026-10-13 12:47:31 | ru.invisible-doors/doors-partitions | Invisible Doors — hidden doors & glass… | 1.0.0 | Hidden (flush) doors and glass partitions: price, specs and 3D models (GLB, IFC… |
-| 2026-10-13 12:50:56 | [io.github.mshark1/audio-mcp](https://github.com/mshark1/audio-mcp) | Audio MCP | 0.1.1 | Audio perception for AI agents: measure, see, compare, edit and synthesize soun… |
-| 2026-10-13 12:54:02 | [io.github.setheerwagen/mcp-modelmanager](https://github.com/setheerwagen/local-ai-mcp-servers) | Model Manager | 1.0.3 | Manage your local model machine over MCP: state, model pull/remove, service swi… |
-| 2026-10-13 12:54:04 | [io.github.setheerwagen/mcp-ollama-vllm](https://github.com/setheerwagen/local-ai-mcp-servers) | Ollama / vLLM Bridge | 1.0.3 | Call your local Ollama or vLLM model over MCP with schema-validated JSON output |
-| 2026-10-13 12:58:20 | ch.zitli/zitli | Zitli | 1.0.0 | Swiss scheduling: event types, availability and bookings in your Zitli account. |
-| 2026-10-13 12:58:52 | [io.github.lineai-intelligence/lineai-mcp-server](https://github.com/lineai-intelligence/lineai-mcp-server) |  | 1.4.0 | An MCP Server to utilize Lineai's rich software dependency data in your AI prog… |
-| 2026-10-13 13:00:42 | [com.elfsight/ai-chatbot](https://github.com/elfsight/ai-chatbot-mcp) | Elfsight AI Chatbot | 1.0.0 | Read conversations, leads, knowledge base and analytics of your Elfsight AI Cha… |
-| 2026-10-13 13:02:08 | [io.github.miroslavmyrha/cypress-mcp](https://github.com/miroslavmyrha/cypress-mcp) |  | 0.1.2 | Shows an AI assistant the last cypress run: command log, errors, screenshots, D… |
-| 2026-10-13 13:03:27 | app.superpills/superpills | Superpills | 1.0.0 | Your AI posts to your social accounts: TikTok drafts, posts that wait for your… |
-| 2026-10-13 13:06:43 | [io.github.flashdata-dev/google-images](https://github.com/flashdata-dev/flashdata-mcp) | Google Images — FlashData | 0.1.1 | Google Images URLs, dimensions and source pages for visual research. Paid Flash… |
-| 2026-10-13 13:06:46 | [io.github.flashdata-dev/google-news](https://github.com/flashdata-dev/flashdata-mcp) | Google News — FlashData | 0.1.1 | Google News articles with publishers, date labels and links for topic briefs. P… |
-| 2026-10-13 13:06:48 | [io.github.flashdata-dev/google-places](https://github.com/flashdata-dev/flashdata-mcp) | Google Places — FlashData | 0.1.1 | Google Places businesses, addresses, ratings and review counts. Paid FlashData… |
-| 2026-10-13 13:06:49 | [io.github.flashdata-dev/google-search](https://github.com/flashdata-dev/flashdata-mcp) | Google Search — FlashData | 0.1.1 | Google Search rankings, URLs and snippets for localized SERP research. Paid Fla… |
-| 2026-10-13 13:06:51 | [io.github.flashdata-dev/google-shopping](https://github.com/flashdata-dev/flashdata-mcp) | Google Shopping — FlashData | 0.1.1 | Google Shopping product, merchant and price-label snapshots. Paid FlashData API. |
-| 2026-10-13 13:06:54 | [io.github.flashdata-dev/google-video-search](https://github.com/flashdata-dev/flashdata-mcp) | Google Video Search — FlashData | 0.1.1 | Google video search across websites, with titles, links and durations. Paid Fla… |
-| 2026-10-13 13:06:57 | [io.github.flashdata-dev/youtube-autocomplete](https://github.com/flashdata-dev/flashdata-mcp) | YouTube Autocomplete — FlashData | 0.1.1 | YouTube autocomplete suggestions by query prefix, language and region. Paid Fla… |
-| 2026-10-13 13:06:59 | [io.github.flashdata-dev/youtube-captions](https://github.com/flashdata-dev/flashdata-mcp) | YouTube Captions — FlashData | 0.1.1 | YouTube uploader captions with timestamps for subtitle exports. Paid FlashData… |
-| 2026-10-13 13:07:01 | [io.github.flashdata-dev/youtube-channel](https://github.com/flashdata-dev/flashdata-mcp) | YouTube Channel Data — FlashData | 0.1.1 | YouTube channel profiles and recent video inventories. Paid FlashData API. |
-| 2026-10-13 13:07:03 | [io.github.flashdata-dev/youtube-download](https://github.com/flashdata-dev/flashdata-mcp) | YouTube Download to Cloud Storage — Fla… | 0.1.1 | Deliver YouTube video, audio or clips to your cloud storage asynchronously. Pai… |
-| 2026-10-13 13:07:07 | [io.github.flashdata-dev/youtube-extended-search](https://github.com/flashdata-dev/flashdata-mcp) | YouTube Extended Search — FlashData | 0.1.1 | Larger YouTube topic searches with up to 700 requested video results. Paid Flas… |
-| 2026-10-13 13:07:11 | [io.github.flashdata-dev/youtube-metadata](https://github.com/flashdata-dev/flashdata-mcp) | YouTube Metadata — FlashData | 0.1.1 | YouTube video metadata, available chapters, statistics and formats. Paid FlashD… |
-| 2026-10-13 13:07:15 | [io.github.flashdata-dev/youtube-search](https://github.com/flashdata-dev/flashdata-mcp) | YouTube Search — FlashData | 0.1.1 | YouTube keyword search with filters and up to 20 requested videos. Paid FlashDa… |
-| 2026-10-13 13:07:21 | [io.github.flashdata-dev/youtube-trainability](https://github.com/flashdata-dev/flashdata-mcp) | YouTube License Metadata — FlashData | 0.1.1 | YouTube Creative Commons license-label metadata, not training authorization. Pa… |
-| 2026-10-13 13:07:30 | [io.github.flashdata-dev/youtube-transcript](https://github.com/flashdata-dev/flashdata-mcp) | YouTube Transcript — FlashData | 0.1.1 | YouTube transcript text with timestamps from existing caption tracks. Paid Flas… |
-| 2026-10-13 13:07:43 | [eu.replio/mcp](https://github.com/aiteklabs/replio-plugin) | Replio | 1.0.0 | Replio AI voice-training projects from chat: knowledge, goals, personas, quizze… |
-| 2026-10-13 13:11:16 | com.tabflows/site | Tabflows | 1.1.0 | Tabflows facts: DPC Finder, price quotes, integrations, workflows, site search,… |
-| 2026-10-13 13:12:10 | dev.queryscope/mcp | QueryScope | 1.0.0 | Search Console in your AI IDE: the plan, stored history, and a measured record… |
-| 2026-10-13 13:13:46 | org.jobbi/gigs | Jobbi Agent Gigs | 1.0.0 | Free index of paid tasks AI agents can do, aggregated from every public bounty… |
-| 2026-10-13 13:14:30 | [io.github.shieldfive/mcp](https://github.com/shieldfive/mcp) | ShieldFive | 0.7.1 | Move files off your computer into an E2E-encrypted vault, verified first. Decry… |
-| 2026-10-13 13:16:41 | de.kontevia/kontevia | Kontevia | 1.0.0 | German receipt capture for small businesses: receipts, VAT by rate, tax dates,… |
-| 2026-10-13 13:17:38 | [io.github.abnegate/magents](https://github.com/abnegate/magents) | magents | 0.13.2 | Shared session bus MCP+CLI for Claude/Codex/Cursor/Grok: list, read, handoff, s… |
-| 2026-10-13 13:17:58 | ai.wandura/mcp | Wandura | 0.2.0 | AI creative studio for your assistant: ad templates, video, image and audio, pr… |
-| 2026-10-13 13:21:32 | [uk.housedata/housedata](https://github.com/richardawe/housedata.uk) | HouseData | 1.0.0 | UK property data: EPC, flood risk, planning, sale prices, MEES 2030 checks and… |
+| 2026-10-13 13:23:14 | de.cocktailline/cocktailline | Cocktailline | 1.0.0 | Cocktail recipes and an exact ingredient finder: what can I mix with what I hav… |
+| 2026-10-13 13:25:58 | [io.github.reticlehq/reticle](https://github.com/reticlehq/reticle) | Reticle | 3.7.0 | Verify a running web app from the inside over MCP: look, act, observe, assert.… |
+| 2026-10-13 13:30:42 | com.streetshirts/creation | Streetshirts | 1.0.0 | Design custom T-shirts, preview artwork, personalize team shirts and prepare a… |
+| 2026-10-13 13:37:04 | com.the2410/projects | The2410 Projects | 1.0.0 | Plan custom software with The2410: fit check, budget, timeline, inquiry and con… |
+| 2026-10-13 13:37:07 | com.the2410/tasks | Human Tasks by The2410 | 1.0.0 | Order fixed-price digital tasks done by people: find a service, pick a package,… |
+| 2026-10-13 13:41:12 | [io.github.MeltFlexDevs/techdrawai](https://github.com/MeltFlexDevs/techdrawai-skills) | TechDraw AI | 0.4.0 | Photo or text to technical drawing, DXF and DWG, printable STL, 3D models and p… |
+| 2026-10-13 13:45:43 | [io.github.ChanghuLiu/mcp-selection-lab](https://github.com/ChanghuLiu/mcp-selection-lab) | MCP Selection Lab | 0.5.2 | Benchmark MCP tool selection with metadata-only routing, collision, abstention,… |
+| 2026-10-13 13:46:57 | com.roomandstory/room-and-story | Room & Story | 1.1.0 | Virtual staging and room redesign: quote, render and download with budget-limit… |
+| 2026-10-13 13:47:22 | com.sornkan/catalog | SORNKan Services Catalog (สอนกาน) | 1.0.0 | Thai web, AI app and LINE chatbot dev services from SORNKan (สอนกาน). Read-only… |
+| 2026-10-13 13:47:45 | com.voixcall/voixcall | VoixCall | 1.0.0 | International calling account: call rates, balance, call history, summaries and… |
+| 2026-10-13 13:48:07 | com.wiacode/wiacode | WIA Code & WIA Pin Code | 1.0.0 | Make shape-free 2D codes (WIA Code) and convert coordinates to and from WIA Pin… |
+| 2026-10-13 13:54:51 | [io.github.codeurali/dataverse](https://github.com/codeurali/mcp-dataverse) | MCP Dataverse | 0.7.10 | Microsoft Dataverse MCP server: CRUD, FetchXML, metadata, schema, audit, batch… |
+| 2026-10-13 13:54:55 | com.sornkan/publish-website | SORNKan Publish | 1.0.1 | Host a static website from a zip: $1 USDC/month via x402 on Base, or card/Promp… |
+| 2026-10-13 13:56:48 | com.answeringprices/pricing | AnsweringPrices.com pricing | 1.0.0 | Dated answering service prices, plans, billing terms, and comparisons at your c… |
+| 2026-10-13 13:59:01 | br.com.apipj/cnpj | apipj · API de CNPJ | 0.1.0 | Brazilian company data by CNPJ (Receita Federal open data): validate, base stat… |
+| 2026-10-13 14:03:02 | [io.github.SemanticDataCharter/sdcreader](https://github.com/SemanticDataCharter/sdcreader) |  | 4.1.0 | Read published Semantic Data Charter models: catalog search, record structure,… |
+| 2026-10-13 14:05:07 | com.ihateaudio/ihateaudio | ihateaudio | 0.2.0 | 49 audio tools: trim, convert, normalize, remove vocals, split stems, transcrib… |
+| 2026-10-13 14:06:19 | com.invest-like/stock-analysis | invest-like: Buffett-style stock analys… | 2.1.0 | Check any of 21,000+ stocks against Buffett, Munger, Graham and 4 more legendar… |
+| 2026-10-13 14:09:25 | com.ocklu/hypermarket | OCKLU Hyper Market | 1.0.0 | Agent shop: Claude marketing skills, free guide, done-for-you marketing. Checko… |
+| 2026-10-13 14:11:58 | [io.github.granitebps/youtube-mcp](https://github.com/granitebps/youtube-mcp) | YouTube MCP | 1.0.0 | Read YouTube video metadata, transcripts, comments, and search results. No API… |
+| 2026-10-13 14:12:10 | io.github.tintun2602/veldora | Veldora | 1.0.0 | Norwegian public data for AI agents: companies, tenders, addresses, laws, excha… |
+| 2026-10-13 14:14:30 | [social.preflight/mcp](https://github.com/preflight-social/mcp) | Preflight | 1.0.0 | Schedule, validate and publish social posts to 12 networks; every post is rule-… |
+| 2026-10-13 14:15:09 | [io.github.arhancanli/canli-quant-mcp](https://github.com/arhancanli/canlicapital) | Canli Quant | 0.1.2 | 235 quant tools and 399 strategy sleeves, checked against QuantLib, statsmodels… |
+| 2026-10-13 14:15:50 | [io.github.arhancanli/canli-backtest-mcp](https://github.com/arhancanli/canlicapital) | Canli Backtest | 0.1.2 | Lookahead-free backtests: point-in-time SEC factors, your prices, real costs, e… |
+| 2026-10-13 14:16:06 | [io.github.PGHQdev/openscreenshot](https://github.com/PGHQdev/OpenScreenShot) | OpenScreenShot | 2.4.1 | Capture website screenshots (viewport or full page) with your installed Chrome.… |
+| 2026-10-13 14:16:17 | io.github.pocketApp-ctrl/pocketinvoice | PocketInvoice MCP | 1.0.1 | Free hosted MCP for invoices, estimates, clients, items and PDFs. OAuth authori… |
+| 2026-10-13 14:20:32 | io.github.msalihk/saliga-apify-tools | Saliga data tools (Apify) | 1.0.0 | Pay-per-result data tools: bulk API calls, docs to Markdown, OCR, Whisper, site… |
+| 2026-10-13 14:20:55 | life.twyn/twyn | twyn | 1.0.0 | Your labs, wearables, DNA and notes as one health record your AI agent can read… |
+| 2026-10-13 14:21:22 | com.ncstatutes/ncgs | NC General Statutes | 1.0.0 | Search North Carolina's General Statutes, read any section by citation, track h… |
 
 ## Data source
 
