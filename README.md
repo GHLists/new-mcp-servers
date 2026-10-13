@@ -9,43 +9,57 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 14:21 UTC
+## Latest list — 2026-10-13 15:18 UTC
 
-New MCP servers published between 2026-10-13 13:21 UTC and 2026-10-13 14:21 UTC.
+New MCP servers published between 2026-10-13 14:21 UTC and 2026-10-13 15:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-13T14-21-31-395825Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-13T15-18-51-939401Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-13 13:23:14 | de.cocktailline/cocktailline | Cocktailline | 1.0.0 | Cocktail recipes and an exact ingredient finder: what can I mix with what I hav… |
-| 2026-10-13 13:25:58 | [io.github.reticlehq/reticle](https://github.com/reticlehq/reticle) | Reticle | 3.7.0 | Verify a running web app from the inside over MCP: look, act, observe, assert.… |
-| 2026-10-13 13:30:42 | com.streetshirts/creation | Streetshirts | 1.0.0 | Design custom T-shirts, preview artwork, personalize team shirts and prepare a… |
-| 2026-10-13 13:37:04 | com.the2410/projects | The2410 Projects | 1.0.0 | Plan custom software with The2410: fit check, budget, timeline, inquiry and con… |
-| 2026-10-13 13:37:07 | com.the2410/tasks | Human Tasks by The2410 | 1.0.0 | Order fixed-price digital tasks done by people: find a service, pick a package,… |
-| 2026-10-13 13:41:12 | [io.github.MeltFlexDevs/techdrawai](https://github.com/MeltFlexDevs/techdrawai-skills) | TechDraw AI | 0.4.0 | Photo or text to technical drawing, DXF and DWG, printable STL, 3D models and p… |
-| 2026-10-13 13:45:43 | [io.github.ChanghuLiu/mcp-selection-lab](https://github.com/ChanghuLiu/mcp-selection-lab) | MCP Selection Lab | 0.5.2 | Benchmark MCP tool selection with metadata-only routing, collision, abstention,… |
-| 2026-10-13 13:46:57 | com.roomandstory/room-and-story | Room & Story | 1.1.0 | Virtual staging and room redesign: quote, render and download with budget-limit… |
-| 2026-10-13 13:47:22 | com.sornkan/catalog | SORNKan Services Catalog (สอนกาน) | 1.0.0 | Thai web, AI app and LINE chatbot dev services from SORNKan (สอนกาน). Read-only… |
-| 2026-10-13 13:47:45 | com.voixcall/voixcall | VoixCall | 1.0.0 | International calling account: call rates, balance, call history, summaries and… |
-| 2026-10-13 13:48:07 | com.wiacode/wiacode | WIA Code & WIA Pin Code | 1.0.0 | Make shape-free 2D codes (WIA Code) and convert coordinates to and from WIA Pin… |
-| 2026-10-13 13:54:51 | [io.github.codeurali/dataverse](https://github.com/codeurali/mcp-dataverse) | MCP Dataverse | 0.7.10 | Microsoft Dataverse MCP server: CRUD, FetchXML, metadata, schema, audit, batch… |
-| 2026-10-13 13:54:55 | com.sornkan/publish-website | SORNKan Publish | 1.0.1 | Host a static website from a zip: $1 USDC/month via x402 on Base, or card/Promp… |
-| 2026-10-13 13:56:48 | com.answeringprices/pricing | AnsweringPrices.com pricing | 1.0.0 | Dated answering service prices, plans, billing terms, and comparisons at your c… |
-| 2026-10-13 13:59:01 | br.com.apipj/cnpj | apipj · API de CNPJ | 0.1.0 | Brazilian company data by CNPJ (Receita Federal open data): validate, base stat… |
-| 2026-10-13 14:03:02 | [io.github.SemanticDataCharter/sdcreader](https://github.com/SemanticDataCharter/sdcreader) |  | 4.1.0 | Read published Semantic Data Charter models: catalog search, record structure,… |
-| 2026-10-13 14:05:07 | com.ihateaudio/ihateaudio | ihateaudio | 0.2.0 | 49 audio tools: trim, convert, normalize, remove vocals, split stems, transcrib… |
-| 2026-10-13 14:06:19 | com.invest-like/stock-analysis | invest-like: Buffett-style stock analys… | 2.1.0 | Check any of 21,000+ stocks against Buffett, Munger, Graham and 4 more legendar… |
-| 2026-10-13 14:09:25 | com.ocklu/hypermarket | OCKLU Hyper Market | 1.0.0 | Agent shop: Claude marketing skills, free guide, done-for-you marketing. Checko… |
-| 2026-10-13 14:11:58 | [io.github.granitebps/youtube-mcp](https://github.com/granitebps/youtube-mcp) | YouTube MCP | 1.0.0 | Read YouTube video metadata, transcripts, comments, and search results. No API… |
-| 2026-10-13 14:12:10 | io.github.tintun2602/veldora | Veldora | 1.0.0 | Norwegian public data for AI agents: companies, tenders, addresses, laws, excha… |
-| 2026-10-13 14:14:30 | [social.preflight/mcp](https://github.com/preflight-social/mcp) | Preflight | 1.0.0 | Schedule, validate and publish social posts to 12 networks; every post is rule-… |
-| 2026-10-13 14:15:09 | [io.github.arhancanli/canli-quant-mcp](https://github.com/arhancanli/canlicapital) | Canli Quant | 0.1.2 | 235 quant tools and 399 strategy sleeves, checked against QuantLib, statsmodels… |
-| 2026-10-13 14:15:50 | [io.github.arhancanli/canli-backtest-mcp](https://github.com/arhancanli/canlicapital) | Canli Backtest | 0.1.2 | Lookahead-free backtests: point-in-time SEC factors, your prices, real costs, e… |
-| 2026-10-13 14:16:06 | [io.github.PGHQdev/openscreenshot](https://github.com/PGHQdev/OpenScreenShot) | OpenScreenShot | 2.4.1 | Capture website screenshots (viewport or full page) with your installed Chrome.… |
-| 2026-10-13 14:16:17 | io.github.pocketApp-ctrl/pocketinvoice | PocketInvoice MCP | 1.0.1 | Free hosted MCP for invoices, estimates, clients, items and PDFs. OAuth authori… |
-| 2026-10-13 14:20:32 | io.github.msalihk/saliga-apify-tools | Saliga data tools (Apify) | 1.0.0 | Pay-per-result data tools: bulk API calls, docs to Markdown, OCR, Whisper, site… |
-| 2026-10-13 14:20:55 | life.twyn/twyn | twyn | 1.0.0 | Your labs, wearables, DNA and notes as one health record your AI agent can read… |
-| 2026-10-13 14:21:22 | com.ncstatutes/ncgs | NC General Statutes | 1.0.0 | Search North Carolina's General Statutes, read any section by citation, track h… |
+| 2026-10-13 14:27:44 | [com.lemmebuyit/lemmebuyit-mcp](https://github.com/LemmeBuyIt/cloudflare-mcp) |  | 1.0.1 | Live prices, stock & price history across 100+ U.S. retailers for any AI agent. |
+| 2026-10-13 14:29:25 | [io.github.BillionVerify/billionverify-mcp](https://github.com/BillionVerify/billionverify-mcp) | BillionVerify | 1.1.1 | Email verification for AI agents: verify single or bulk emails, check credits a… |
+| 2026-10-13 14:30:30 | [io.github.Sofiia7/nadbounty-mcp](https://github.com/Sofiia7/ARC) | NadBounty | 0.2.0 | Put an AI agent to work for USDC on Monad: take, post and settle on-chain bount… |
+| 2026-10-13 14:32:10 | com.evntdsh/evntdsh |  | 1.0.0 | Event management voor Nederlandse eventorganisaties: events, taken, documenten,… |
+| 2026-10-13 14:34:57 | ai.tailwind/tailwind-mcp | Tailwind App | 1.0.0 | Tailwind MCP server — list Pinterest accounts and create, schedule, and manage… |
+| 2026-10-13 14:39:56 | com.agentshandbook/handbook | Agents Handbook | 1.0.0 | Sourced playbooks for real jobs done with AI agents: search, read, lessons, rep… |
+| 2026-10-13 14:41:37 | [io.github.supadata-ai/mcp](https://github.com/supadata-ai/mcp) | Supadata | 1.3.2 | Video transcripts, metadata and structured data from YouTube, TikTok, Instagram… |
+| 2026-10-13 14:43:56 | [io.github.LMSlay/tubetext-ad-intelligence](https://github.com/LMSlay/tubetext-mcp) | Meta Ad Library & Video Ad Analyzer | 1.0.0 | Facebook/Instagram ads from Meta Ad Library plus AI teardowns of Meta and YouTu… |
+| 2026-10-13 14:44:11 | [io.github.LMSlay/tubetext-ecommerce-prices](https://github.com/LMSlay/tubetext-mcp) | E-commerce Prices: Amazon, Taobao, AliE… | 1.0.0 | Products, prices and sellers from Amazon, Taobao/Tmall, AliExpress, TikTok Shop… |
+| 2026-10-13 14:44:14 | [io.github.LMSlay/tubetext-reviews-insights](https://github.com/LMSlay/tubetext-mcp) | Reviews + AI Insights: Steam, Agoda, Go… | 1.0.0 | Steam game, Agoda/Booking.com hotel and Google Play app reviews with optional A… |
+| 2026-10-13 14:44:27 | [io.github.LMSlay/tubetext-social-video-transcripts](https://github.com/LMSlay/tubetext-mcp) | Instagram, Facebook, X & Podcast Transc… | 1.0.0 | Transcribe Instagram Reels, Facebook and X videos, podcasts (RSS, Apple) and an… |
+| 2026-10-13 14:44:41 | [io.github.LMSlay/tubetext-tiktok-transcripts](https://github.com/LMSlay/tubetext-mcp) | TikTok Transcripts & Video Breakdown | 1.0.0 | TikTok video transcripts (captions or Whisper AI) plus AI hook, shot list and s… |
+| 2026-10-13 14:44:56 | [io.github.LMSlay/tubetext-youtube-transcripts](https://github.com/LMSlay/tubetext-mcp) | YouTube Transcripts & Channel Analytics | 1.0.0 | YouTube transcripts from videos, Shorts, playlists or channels, plus channel an… |
+| 2026-10-13 14:46:32 | [com.skinwinking/agent-tollgate](https://github.com/SkinWinKing/agent-tollgate-engine) | Agent Tollgate | 1.0.0 | x402 pay-per-call order book signals, token rug audits and fee-bearing swap rou… |
+| 2026-10-13 14:46:37 | [io.github.poof-bg/mcp](https://github.com/poof-bg/mcp) | Poof | 1.2.0 | Remove image backgrounds with the Poof API: transparent PNG cutouts, custom bac… |
+| 2026-10-13 14:48:04 | sg.propely/property-calculators | Propely Singapore Property Calculators | 2.0.0 | Singapore stamp duty (BSD, ABSD, SSD), TDSR, loan tenure and net proceeds calcu… |
+| 2026-10-13 14:48:16 | ai.surfingdog/search | Surfing Dog Search | 1.0.0 | Find businesses an AI agent can message, book or buy from, and check what an ag… |
+| 2026-10-13 14:48:39 | [io.github.brntech/myotp](https://github.com/brntech/myotp-agentkit) | MyOTP.App | 0.1.14 | Send and verify one-time passcodes over SMS, WhatsApp and Telegram. |
+| 2026-10-13 14:50:56 | [io.github.skulitom/pixelbolt](https://github.com/skulitom/Pixelbolt) | Pixelbolt pixel art toolkit | 0.8.0 | Pixel art and sprite animation for agents: JSON recipes to PNG, APNG, GIF and s… |
+| 2026-10-13 14:55:33 | gg.fairly/fairly | Fairly | 1.0.0 | Cheapest way to play a PC game: real checkout prices across stores, plus Game P… |
+| 2026-10-13 14:57:48 | [ai.flyvolo/knowledge](https://github.com/weihermans/VOLO) |  | 0.1.2 | Sourced, task-level facts on how AI changes jobs, for agents answering 'what sh… |
+| 2026-10-13 14:57:57 | com.aecomcps/revit-mcp | Revit MCP | 0.7.30 | Read and edit the Revit 2024–2027 model on your PC. Needs the free Revit MCP ad… |
+| 2026-10-13 14:58:00 | com.aecomcps/navisworks-mcp | Navisworks MCP | 0.2.3 | AI clash detection in Navisworks Manage 2025–2027 on your PC. Needs the free pl… |
+| 2026-10-13 15:03:31 | io.github.LambdaLabsHQ/searchwire | Searchwire | 1.0.0 | SEO data for AI agents: keyword volume, Google results, App Store keywords, dom… |
+| 2026-10-13 15:04:47 | com.bike4mind/bike4mind | Bike4Mind — the open-core AI workbench | 1.3.0 | Read-only facts on Bike4Mind: live model catalog, comparisons, open-core licens… |
+| 2026-10-13 15:05:06 | io.github.juliu1980/formlab-mcp |  | 0.6.57 | Read-only MCP server for FormLab formulation data: a local export file or your… |
+| 2026-10-13 15:06:19 | movie.untitled/mcp | untitled.movie | 1.0.0 | Develop a film from first idea to animatic: story bible, screenplay and storybo… |
+| 2026-10-13 15:08:04 | [io.github.christianclaudio/taxcode](https://github.com/christianclaudio/mcp-server-taxcode) |  | 0.1.2 | MCP server for US Federal, territorial, and state tax law and compliance. |
+| 2026-10-13 15:09:39 | [io.github.tancky777/ai-image-combiner](https://github.com/tancky777/ai-image-combiner) | Tancky AI Image Combiner | 1.0.0 | AI photo tools from Tancky AI: image combiner, couple, family and wedding photo… |
+| 2026-10-13 15:12:11 | [io.github.JimmyLv/bibigpt](https://github.com/JimmyLv/bibigpt-skill) | BibiGPT | 1.0.0 | Summarize, transcribe and search YouTube, Bilibili, TikTok, podcasts and other… |
+| 2026-10-13 15:15:54 | [io.github.abhishekash/spanhound](https://github.com/abhishekash/spanhound) | SpanHound | 0.4.1 | Read local JSONL and OTLP JSON agent traces for failures, approvals, and run co… |
+| 2026-10-13 15:16:10 | com.promptbase/mcp | PromptBase | 1.0.0 | Search and use 300,000+ AI prompts and skills for images, video, writing, games… |
+| 2026-10-13 15:16:12 | com.getdoloop/doloop | DoLoop | 0.5.0 | Recurring tasks in loops. Your assistant reads today's tasks, checks or skips t… |
+| 2026-10-13 15:16:18 | com.wiaaddress/wiaaddress | WIA Address | 1.0.0 | Translate street addresses into other languages and normalize Korean road-name… |
+| 2026-10-13 15:16:35 | com.wiastandards/wihp | WIHP: foreign text to Hangul | 1.0.0 | Write foreign words and short sentences in Hangul with WIHP rules; look up IPA… |
+| 2026-10-13 15:16:38 | com.wiastandards/wisdom | WIA Wisdom | 1.0.0 | Search WIA Wisdom's curated documents on 9 traditions of thought (EN/KO) and re… |
+| 2026-10-13 15:16:47 | com.wiastandards/standards | WIA Standards | 1.0.0 | Search WIA's own voluntary standards (not ISO/IEC/ITU) and read their specifica… |
+| 2026-10-13 15:16:51 | com.wiagil/wiagil | WIA GIL: hotels, places, travel basics | 1.0.0 | City search, nearby hotels and places, country travel basics, reference exchang… |
+| 2026-10-13 15:16:56 | com.wiabraille/wiabraille | WIA Braille + WIA Talk | 1.0.0 | Text to WIA Braille (pronunciation-based, not a national code), BRF output and… |
+| 2026-10-13 15:17:01 | ai.smilestory/koreantoday | The Korean Today news search | 1.0.0 | Search and read recent articles of The Korean Today, with source links and date… |
+| 2026-10-13 15:17:12 | ai.smilestory/wiamusic | WIA Music catalog | 1.0.0 | Search the WIA Music catalog of original K-pop, K-trot and K-ballad songs: deta… |
+| 2026-10-13 15:17:18 | com.wiabook/a11y | WIA A11y Checker | 1.0.0 | Automated accessibility check (axe-core, Lighthouse) of one public web page; fe… |
+| 2026-10-13 15:18:12 | sg.propely/singapore-property | Propely Singapore Property | 2.0.1 | Singapore stamp duty (BSD, ABSD, SSD), TDSR, loan tenure and net proceeds calcu… |
 
 ## Data source
 
