@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-13T20:19:15.623953Z,com.aibuildermarketplace/software-pricing,AIBuilder Marketplace: software pricing dossiers,1.0.0,,streamable-http,"Dated plan prices, cost traps with evidence and hands-on results for 540 business-software tools."
+2026-10-13T20:20:43.587059Z,io.github.SergiuPogor/curlshot,CurlShot screenshots,1.0.0,,streamable-http,"Screenshot any web page from an AI agent: PNG, JPEG, WebP, PDF or scrolling video."
+2026-10-13T20:20:58.592639Z,io.github.MatthewSherlin/mushroomdb,,0.7.2,https://github.com/MatthewSherlin/mushroomdb,,"Embedded graph database for agents: declare association rules once, edges maintain themselves."
+2026-10-13T20:26:04.870832Z,com.windshieldweather/weather,Windshield Weather,1.0.0,https://github.com/buildwithchirp/weather-monorepo,streamable-http,"Weather where you'll be, when you get there. Arrival-time drive and highway forecasts."
+2026-10-13T20:26:15.691878Z,com.ultimatesweepers/sweepstakes,UltimateSweepers,1.0.0,,streamable-http,"Search free US sweepstakes by prize, end date, category and state, with links to full listings."
+2026-10-13T20:30:32.632723Z,io.github.payload-tools/veyline-mcp,Veyline by Payload,1.0.0,https://github.com/Payloadhq/veyline-mcp,,"Veyline by Payload: agent entitlement and usage reads, signed payment preflights. No funds move."
+2026-10-13T20:30:33.954292Z,io.github.payload-tools/revrule-mcp,RevRule by Payload,1.0.0,https://github.com/Payloadhq/revrule-mcp,,"RevRule by Payload: read entitlement graphs, review payout evidence, dry-run revenue events."
+2026-10-13T20:32:15.086455Z,markets.lacuna/prediction-market-intelligence,Prediction Market Intelligence,1.0.0,,streamable-http,"Polymarket in your AI: market rules, real fill costs, who is trading, top traders. Read-only."
+2026-10-13T20:33:07.418077Z,io.github.Ark0N/codeman,Codeman,1.41.1,https://github.com/Ark0N/Codeman,,"Start, prompt and read AI coding agent sessions (Claude Code, Codex, Gemini CLI and more) in Codeman"
+2026-10-13T20:36:47.771914Z,fr.menageparfait/booking,Ménage Parfait,1.2.0,,streamable-http,Quote and book home cleaning in Paris & Île-de-France; request office-cleaning quotes.
+2026-10-13T20:38:45.742454Z,io.github.TheArkofTech/carry-console,Carry Console — MCP App,0.1.0,https://github.com/TheArkofTech/x402-carry-api,streamable-http,Read-only visual Hyperliquid carry scan via MCP Apps and x402 v2 Solana USDC.
+2026-10-13T20:49:58.038598Z,io.github.nugehs/bouncer,bouncer,0.3.0,https://github.com/nugehs/bouncer,,Static compliance-controls checker for UK Online Safety Act & ICO Children's Code. CLI + MCP.
+2026-10-13T20:51:16.790775Z,de.ki-radar24/ki-radar24,KI-Radar24,1.2.0,,streamable-http,"Find AI tools, AI agencies and AI freelancers in Europe – search the KI-Radar24 directory."
+2026-10-13T20:52:14.857413Z,com.nutsgrowth/directory,NutsGrowth,1.0.0,,streamable-http,"Startup and SaaS tools and their alternatives, with prices and when a person last checked them."
+2026-10-13T20:55:14.166484Z,no.pristavla/pristavla,Pristavla – Norwegian prices / norske priser,1.0.0,,streamable-http,"Norwegian prices and what they consist of, from open data. Norske priser fra åpne kilder."
+2026-10-13T20:56:01.335422Z,com.jobspidey/jobspidey,JobSpidey,0.1.0,,streamable-http,"Search jobs, prepare resumes and cover letters, retrieve PDFs, and track your applications."
+2026-10-13T20:56:52.958683Z,com.whatevertrips/flights,whatevertrips,1.0.0,,streamable-http,"Cheap flights in Europe and multi-city trip plans from cached airline prices, with shareable links."
+2026-10-13T20:57:06.305122Z,io.github.Huzy85/fantoma,,0.11.3,https://github.com/Huzy85/fantoma,,"Accessibility-tree browser for AI agents: read pages, log in, extract data, run tasks."
+2026-10-13T21:00:00.679983Z,io.github.Mezsondra/aerocell,AeroCell: eSIM Travel Data,0.3.0,,streamable-http,"Search live AeroCell travel eSIM plans, prices and coverage for countries and multi-country trips."
+2026-10-13T21:07:40.788489Z,com.claritypropertyinvestments/property,Clarity UK property data,0.1.1,,,"UK buy-to-let figures, location search and deal checks, paid per call in USDC over x402."
+2026-10-13T21:09:47.530404Z,io.github.corpussanctum/atlas-mcp,,0.1.0,https://github.com/corpussanctum/atlas-mcp,,"Pre-action authorization for AI agents: permit, deny or escalate against a signed delegation chain."
+2026-10-13T21:09:59.483242Z,io.transopt.delopt.api/mcp,Delopt delivery dispatch,1.0.0,,streamable-http,"Plan last-mile delivery dispatch: which vehicle takes which orders, in what order, and when."
+2026-10-13T21:11:25.59537Z,com.narrivela/narrivela,Narrivela,0.6.0,,streamable-http,"Generate English and Chinese speech, split long text, track batch jobs, and download audio."
+2026-10-13T21:16:10.798212Z,com.mairwunnx/minecraft-mcp,Minecraft,2.0.0,https://github.com/MairwunNx/minecraft-mcp,,"Ask an AI about your Minecraft server and let it run it: players, worlds, stats, and live events."
+2026-10-13T21:18:15.66694Z,io.github.benjaminmower/sendiment,Sendiment,1.1.0,https://github.com/benjaminmower/sendiment,streamable-http,"Cast, read and skip thoughts in sendiment, a public river of ephemeral thoughts shared with humans."
+2026-10-13T21:20:29.672132Z,io.github.octoco-ltd/sheetsdata-mcp,,1.3.3,https://github.com/octoco-ltd/sheetsdata-mcp,streamable-http,"Electronic component datasheets for AI agents — specs, pinouts, package data on demand."
+2026-10-13T21:21:11.599942Z,io.github.sumirati/mcp-gitlab,GitLab MCP Server,1.0.0,https://github.com/sumirati/mcp-gitlab,,Developer-ready GitLab MCP server for CE and EE instances.

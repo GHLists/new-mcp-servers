@@ -9,38 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 20:19 UTC
+## Latest list — 2026-10-13 21:22 UTC
 
-New MCP servers published between 2026-10-13 19:21 UTC and 2026-10-13 20:19 UTC.
+New MCP servers published between 2026-10-13 20:19 UTC and 2026-10-13 21:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-13T20-19-09-344818Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-13T21-22-51-151803Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-13 19:23:34 | [io.4dayweek/jobs](https://github.com/4dayweek/mcp) | 4dayweek.io Jobs | 1.4.0 | Search reduced-hours jobs and employers: 4-day weeks, 9-day fortnights, half-da… |
-| 2026-10-13 19:24:16 | co.auditro/auditro |  | 0.2.0 | UAE ICV compliance: governed scores, evidence gaps and actions with determinist… |
-| 2026-10-13 19:24:35 | studio.ghosty/ghosty | Ghosty | 1.0.0 | Your Ghosty account: talk to your AI agents, review chats and work your sales b… |
-| 2026-10-13 19:29:05 | [io.github.matematicsolutions/mcp-eu-compliance](https://github.com/matematicsolutions/mcp-eu-compliance) |  | 0.4.1 | Offline MCP server: EU digital/data/cyber compliance full text (14 regs), verba… |
-| 2026-10-13 19:31:38 | com.nisebookings/booking | nisebookings | 1.0.0 | Operate a nisebookings account: catalogue, staff schedules, free slots, custome… |
-| 2026-10-13 19:32:35 | ing.foxfind/foxfind | Foxfind | 0.1.0 | Affiliate price routing for high-intent PC game purchases across authorized sto… |
-| 2026-10-13 19:33:52 | com.pythonanywhere.conclavex402/conclave-agent-rails | Conclave Agent-Rails | 0.1.0 | Pay-per-call x402 data tools on Base: Solana snapshots, prices, package metadat… |
-| 2026-10-13 19:34:24 | com.pythonanywhere.conclavex402p04/conclave-agent-rails | Conclave Agent-Rails | 0.1.0 | Pay-per-call x402 data tools on Base: Solana snapshots, prices, package metadat… |
-| 2026-10-13 19:34:29 | com.transcribetext/transcribe | TranscribeText | 1.0.0 | Get YouTube video transcripts and transcribe TikTok videos to text from a link.… |
-| 2026-10-13 19:34:42 | io.github.dhoneshost/si5-global | SI5 Global | 1.0.0 | Catálogo de 4 milhões de produtos por código de barras GS1, com marca, foto, NC… |
-| 2026-10-13 19:36:56 | [io.github.flowinfosystems-index/abe](https://github.com/flowinfosystems-index/abe) | Abe | 0.2.3 | Free, local check before an AI agent acts: your rules return ACT, BLOCK or ESCA… |
-| 2026-10-13 19:38:51 | [io.github.Firrton/defigent](https://github.com/Firrton/defigent-a2a-protocol) |  | 1.4.0 | Agent messaging inbox (A2A, EIP-712 signed), ERC-8004 directory, status and tex… |
-| 2026-10-13 19:39:06 | [io.github.dakai/copierparts](https://github.com/Dakai/thecopierparts.com) | Copier Parts | 1.0.0 | Search copier parts catalog and compatibility data. |
-| 2026-10-13 19:39:29 | com.scribase/scribase | Scribase | 1.0.0 | Supabase-compatible Postgres for agents: projects, branches, SQL, auth, storage… |
-| 2026-10-13 19:42:02 | [io.github.noncelogic/rove](https://github.com/noncelogic/rove) | Rove | 1.10.0 | Rove — supervised browser for AI agents. Your agent drives; a human watches, ta… |
-| 2026-10-13 19:42:59 | com.stalkchain/data | StalkChain Data | 1.0.0 | Crypto research: what FOMO's top traders buy, real wallets and PnL, token safet… |
-| 2026-10-13 19:44:01 | com.evolize/accessibility-scanner | Evolize | 0.1.0 | Accessibility scans with evidence, public reports, and fresh checks after fixes. |
-| 2026-10-13 19:49:26 | [io.github.bikemeardsley/where-my-hug](https://github.com/bikemeardsley/where-my-hug) |  | 0.1.0 | Which parts of an ML need Hugging Face already covers. Every model and dataset… |
-| 2026-10-13 19:57:46 | [io.github.Nibbler1250/mealdeal](https://github.com/Nibbler1250/mealdeal) | MealDeal | 1.0.0 | Quebec grocery deals, weekly meal plan and grocery list. Account required, 14-d… |
-| 2026-10-13 19:57:58 | com.droneincidents/droneledger | DroneLedger | 1.2.0 | Source-backed drone incident dossiers worldwide: search incidents, evidence sta… |
-| 2026-10-13 20:03:14 | [io.github.elViRafa/memory-fabric](https://github.com/elViRafa/agentic-memory) | Memory Fabric | 1.4.3 | File-first, local-first MCP memory for AI coding assistants: Markdown + YAML, n… |
-| 2026-10-13 20:06:32 | [io.github.VoidNullable/lific](https://github.com/VoidNullable/lific) | Lific | 2.11.0 | Local-first, lightweight issue tracker. Single binary, SQLite-backed, MCP-nativ… |
-| 2026-10-13 20:08:48 | [ai.giljo/hq](https://github.com/giljoai/giljo-hq) | Giljo HQ | 2.7.0 | Context engineering for AI coding agents: product context, project missions, an… |
-| 2026-10-13 20:17:23 | com.server4agent/server4agent | Server4Agent | 1.0.3 | Turn plain-English goals into hosted tools and agents with live URLs. Budget-ca… |
+| 2026-10-13 20:19:15 | com.aibuildermarketplace/software-pricing | AIBuilder Marketplace: software pricing… | 1.0.0 | Dated plan prices, cost traps with evidence and hands-on results for 540 busine… |
+| 2026-10-13 20:20:43 | io.github.SergiuPogor/curlshot | CurlShot screenshots | 1.0.0 | Screenshot any web page from an AI agent: PNG, JPEG, WebP, PDF or scrolling vid… |
+| 2026-10-13 20:20:58 | [io.github.MatthewSherlin/mushroomdb](https://github.com/MatthewSherlin/mushroomdb) |  | 0.7.2 | Embedded graph database for agents: declare association rules once, edges maint… |
+| 2026-10-13 20:26:04 | [com.windshieldweather/weather](https://github.com/buildwithchirp/weather-monorepo) | Windshield Weather | 1.0.0 | Weather where you'll be, when you get there. Arrival-time drive and highway for… |
+| 2026-10-13 20:26:15 | com.ultimatesweepers/sweepstakes | UltimateSweepers | 1.0.0 | Search free US sweepstakes by prize, end date, category and state, with links t… |
+| 2026-10-13 20:30:32 | [io.github.payload-tools/veyline-mcp](https://github.com/Payloadhq/veyline-mcp) | Veyline by Payload | 1.0.0 | Veyline by Payload: agent entitlement and usage reads, signed payment preflight… |
+| 2026-10-13 20:30:33 | [io.github.payload-tools/revrule-mcp](https://github.com/Payloadhq/revrule-mcp) | RevRule by Payload | 1.0.0 | RevRule by Payload: read entitlement graphs, review payout evidence, dry-run re… |
+| 2026-10-13 20:32:15 | markets.lacuna/prediction-market-intelligence | Prediction Market Intelligence | 1.0.0 | Polymarket in your AI: market rules, real fill costs, who is trading, top trade… |
+| 2026-10-13 20:33:07 | [io.github.Ark0N/codeman](https://github.com/Ark0N/Codeman) | Codeman | 1.41.1 | Start, prompt and read AI coding agent sessions (Claude Code, Codex, Gemini CLI… |
+| 2026-10-13 20:36:47 | fr.menageparfait/booking | Ménage Parfait | 1.2.0 | Quote and book home cleaning in Paris & Île-de-France; request office-cleaning… |
+| 2026-10-13 20:38:45 | [io.github.TheArkofTech/carry-console](https://github.com/TheArkofTech/x402-carry-api) | Carry Console — MCP App | 0.1.0 | Read-only visual Hyperliquid carry scan via MCP Apps and x402 v2 Solana USDC. |
+| 2026-10-13 20:49:58 | [io.github.nugehs/bouncer](https://github.com/nugehs/bouncer) | bouncer | 0.3.0 | Static compliance-controls checker for UK Online Safety Act & ICO Children's Co… |
+| 2026-10-13 20:51:16 | de.ki-radar24/ki-radar24 | KI-Radar24 | 1.2.0 | Find AI tools, AI agencies and AI freelancers in Europe – search the KI-Radar24… |
+| 2026-10-13 20:52:14 | com.nutsgrowth/directory | NutsGrowth | 1.0.0 | Startup and SaaS tools and their alternatives, with prices and when a person la… |
+| 2026-10-13 20:55:14 | no.pristavla/pristavla | Pristavla – Norwegian prices / norske p… | 1.0.0 | Norwegian prices and what they consist of, from open data. Norske priser fra åp… |
+| 2026-10-13 20:56:01 | com.jobspidey/jobspidey | JobSpidey | 0.1.0 | Search jobs, prepare resumes and cover letters, retrieve PDFs, and track your a… |
+| 2026-10-13 20:56:52 | com.whatevertrips/flights | whatevertrips | 1.0.0 | Cheap flights in Europe and multi-city trip plans from cached airline prices, w… |
+| 2026-10-13 20:57:06 | [io.github.Huzy85/fantoma](https://github.com/Huzy85/fantoma) |  | 0.11.3 | Accessibility-tree browser for AI agents: read pages, log in, extract data, run… |
+| 2026-10-13 21:00:00 | io.github.Mezsondra/aerocell | AeroCell: eSIM Travel Data | 0.3.0 | Search live AeroCell travel eSIM plans, prices and coverage for countries and m… |
+| 2026-10-13 21:07:40 | com.claritypropertyinvestments/property | Clarity UK property data | 0.1.1 | UK buy-to-let figures, location search and deal checks, paid per call in USDC o… |
+| 2026-10-13 21:09:47 | [io.github.corpussanctum/atlas-mcp](https://github.com/corpussanctum/atlas-mcp) |  | 0.1.0 | Pre-action authorization for AI agents: permit, deny or escalate against a sign… |
+| 2026-10-13 21:09:59 | io.transopt.delopt.api/mcp | Delopt delivery dispatch | 1.0.0 | Plan last-mile delivery dispatch: which vehicle takes which orders, in what ord… |
+| 2026-10-13 21:11:25 | com.narrivela/narrivela | Narrivela | 0.6.0 | Generate English and Chinese speech, split long text, track batch jobs, and dow… |
+| 2026-10-13 21:16:10 | [com.mairwunnx/minecraft-mcp](https://github.com/MairwunNx/minecraft-mcp) | Minecraft | 2.0.0 | Ask an AI about your Minecraft server and let it run it: players, worlds, stats… |
+| 2026-10-13 21:18:15 | [io.github.benjaminmower/sendiment](https://github.com/benjaminmower/sendiment) | Sendiment | 1.1.0 | Cast, read and skip thoughts in sendiment, a public river of ephemeral thoughts… |
+| 2026-10-13 21:20:29 | [io.github.octoco-ltd/sheetsdata-mcp](https://github.com/octoco-ltd/sheetsdata-mcp) |  | 1.3.3 | Electronic component datasheets for AI agents — specs, pinouts, package data on… |
+| 2026-10-13 21:21:11 | [io.github.sumirati/mcp-gitlab](https://github.com/sumirati/mcp-gitlab) | GitLab MCP Server | 1.0.0 | Developer-ready GitLab MCP server for CE and EE instances. |
 
 ## Data source
 
