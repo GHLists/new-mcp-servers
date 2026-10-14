@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-10-14T10:22:11.401033Z,com.ilinxa/edge,ilinxa edge,0.1.0,,streamable-http,"Run your ilinxa edge projects from an AI agent: content, forms, email, tasks."
+2026-10-14T10:22:17.958179Z,ai.calven/mcp,Calven,1.0.0,https://github.com/calven-ai/calven-mcp,streamable-http,Connect AI agents to shared product marketing intelligence in Calven.
+2026-10-14T10:24:47.665353Z,io.github.Alex-Dev-Web-C-DE/document-to-json-mcp,Docs-to-JSON,1.0.0,https://github.com/Alex-Dev-Web-C-DE/document-to-json-mcp,streamable-http,"Convert documents to structured JSON (invoices, receipts, contracts) in 2 seconds"
+2026-10-14T10:31:28.537433Z,com.poolcarecalculators/pool-care-calculators,Pool Care Calculators MCP,1.0.0,,streamable-http,"Read-only pool salt dosing, bag counts, optional costs, and water volume in US gallons and liters."
+2026-10-14T10:32:10.364371Z,io.github.pedrosalvadeo/genius-decision,Genius Decision,0.2.0,https://github.com/pedrosalvadeo/genius-decision-open,streamable-http,Create and evaluate versioned decision models with reproducible results and declared assumptions.
+2026-10-14T10:32:53.991827Z,io.github.sarthakjain004/headstart,HeadStart Jobs,1.0.0,,streamable-http,Search 466k tech jobs read from company career sites; see who is hiring and what roles ask for.
+2026-10-14T10:34:06.828353Z,io.github.ascanioUnderIndex/underindex,,0.1.1,https://github.com/ascanioUnderIndex/underindex-api,,"Verified records on 60 niche fashion subcultures for AI agents, $0.01 per lookup over x402"
+2026-10-14T10:35:28.729705Z,com.appin60.submitcheck/launch-directories,SubmitCheck launch directories,1.0.0,,streamable-http,"Find live startup/SaaS/AI launch directories, with submit URL and free/badge/queue/paid status."
+2026-10-14T10:35:38.173578Z,app.promvia/promvia,,1.0.0,,streamable-http,"AI search visibility: where ChatGPT, Perplexity, Gemini and Google AI cite your site, plus the fixes"
+2026-10-14T10:47:14.354412Z,io.github.sinianchu9/aiyucha-domain-intelligence,AIYuCha Domain Intelligence,1.0.4,,streamable-http,"Analyze public domain names: naming features, structural value, RDAP/ICP evidence, and comparisons."
+2026-10-14T10:47:22.779515Z,io.github.sinianchu9/domainroc-domain-advisor,DomainROC Domain Advisor,1.0.1,https://github.com/sinianchu9/roc-mcp-chatgpt,streamable-http,Read-only domain availability and registrar price research via a public remote MCP server.
+2026-10-14T10:51:51.750525Z,com.medusajs/cloud,Medusa,0.1.0,,streamable-http,"Work with your Medusa Cloud projects' data and APIs, and search the Medusa documentation."
+2026-10-14T10:54:20.186039Z,com.ispixelworking/pixel-check,IsPixelWorking,1.0.0,,streamable-http,"Check whether a page's Meta Pixel works, read reports and step-by-step fix guides."
+2026-10-14T10:58:36.180794Z,io.github.lordfreez-ship-it/mil,MIL — Machine Intelligence Layer,0.4.2,https://github.com/lordfreez-ship-it/mil-swedish-company-data,streamable-http,"Swedish company data (Bolagsverket, SCB) for AI agents, verified, with history and annual reports"
+2026-10-14T10:58:49.376382Z,email.mailcycle/mailcycle,Mailcycle,0.6.1,,,"An email address for your AI agent. Read, wait for and reply to mail, decrypted on your machine."
+2026-10-14T11:01:34.733676Z,com.whizzycommerce/whizzycommerce,WhizzyCommerce,1.0.0,https://github.com/shopwhizzy/whizzycommerce-mcp,streamable-http,"Run your online shop from Claude: orders, prices, sales, catalogue and design, confirmed by you."
+2026-10-14T11:02:13.791573Z,app.whatsync/whatsapp,WhatSync,1.0.0,,streamable-http,"WhatsApp for Claude, ChatGPT or any AI agent: search, reply and send. Personal or Business API."
+2026-10-14T11:02:17.449046Z,app.whatsync/whatsapp-business,WhatSync for WhatsApp Business,1.0.0,,streamable-http,"Official WhatsApp Business API for AI agents: customer chats, templates, campaigns and Meta prices."
+2026-10-14T11:06:17.276015Z,com.alchemy/mcp,Alchemy MCP Server,0.8.0,,streamable-http,"Blockchain data across 100+ chains: token prices, NFTs, transfers, simulation, traces, Solana DAS"
+2026-10-14T11:10:07.401286Z,io.github.hostkey-cloud/mcp-server,,1.0.3,https://github.com/hostkey-cloud/mcp-server,streamable-http,"MCP server for Hostkey .com (InvAPI): servers, power, order, DNS, S3, billing"
+2026-10-14T11:10:12.438707Z,io.github.hostkey-cloud-ru/mcp-server-ru,,1.0.3,https://github.com/hostkey-cloud-ru/mcp-server-ru,streamable-http,"MCP server for Hostkey .ru (InvAPI): servers, power, order, DNS, S3, billing"
+2026-10-14T11:10:15.186913Z,com.parclick/parking,,0.9.1,,streamable-http,"Find parkings across Europe, get firm prices and ready-to-pay booking links."
+2026-10-14T11:11:46.243483Z,xyz.peerlytics/peerlytics-data,Peerlytics Data,1.0.0,,streamable-http,Peer protocol seller-rate and liquidity history on Base. Paid aggregate reads via x402 USDC.
+2026-10-14T11:13:11.284308Z,io.github.yail259/frankensurf,FrankenSurf,0.43.0,https://github.com/yail259/frankensurf,,"Read any web page and search the web: 28 tools, cheapest first, every page checked."
+2026-10-14T11:13:21.294152Z,io.flipzi/flipzi-mcp,,0.1.0,,,"Trading card prices, sold comps, history and movers from the Flipzi Data API. Bring your own key."
+2026-10-14T11:14:12.748976Z,eu.stacklegal/catalog,StackLégal,1.0.0,,streamable-http,GDPR provider fiches and a static cookie scan before consent.
+2026-10-14T11:16:23.072752Z,io.github.Alyhnte/rea-plus,Reverse Engine Anything Plus,0.8.0,https://github.com/Alyhnte/ReaPlus,,Conduit live-debug core (30 frozen tools) + Rea static RE domains over MCP stdio/HTTP.
+2026-10-14T11:16:31.337414Z,ru.zavod-stanki/cnc-catalog,Zavod Stanki CNC Catalog,2.1.0,,streamable-http; streamable-http,"Official MCP for Kamensky CNC Plant (Twite): machines, prices, Birzha orders, FAQ, leads."
