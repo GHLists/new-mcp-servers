@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-14T08:22:05.910113Z,news.lawhot/lawhot,LAWHOT,1.0.0,https://github.com/ifcode/lawhot,streamable-http,"法律热点、法规、案例与法律日报。匿名只读，不需要 API Key。Legal news, statutes, cases, and daily briefings."
+2026-10-14T08:23:10.616877Z,io.github.aa0101181514/tw-legal-rag,,2.3.1,https://github.com/aa0101181514/tw-legal-rag,streamable-http,Citation-guarded retrieval over 22M Taiwan court judgments and administrative interpretations
+2026-10-14T08:23:25.128368Z,io.github.hoftlab/kr-realestate-mcp,Korea Real Estate Data (실거래가·단지·청약),0.2.0,,streamable-http; sse,"Korean apartment transactions, complex profiles and housing subscription data by region/complex name"
+2026-10-14T08:30:12.27889Z,io.github.ifcode/gameshot,Gameshot,1.0.0,https://github.com/ifcode/gameshot,streamable-http,"Read Gameshot game news: latest, search, hot stories, daily, weekly, and monthly."
+2026-10-14T08:30:38.795972Z,io.github.LigiaAdam/reloop-role-intel,,1.1.3,https://github.com/LigiaAdam/reloop-role-intel-mcp,,"Read between the lines of a job ad: real level, inflation, capabilities. Free quick check, no key."
+2026-10-14T08:32:00.975305Z,com.gokeyio/keyio,Keyio,1.0.0,,streamable-http,"Run your rentals in Spain from your AI assistant: SES filings, VeriFactu invoices, rent, taxes."
+2026-10-14T08:33:34.938959Z,io.github.LightoninT/bestasiahotels,BestAsiaHotels,0.1.0,,streamable-http,Read-only Asian hotel search and guides with canonical sources and non-live rates.
+2026-10-14T08:38:13.248474Z,app.faylee/faylee,,1.0.0,,streamable-http,"Read browser bug recordings: video, console, network, steps. Fix the bug and comment back."
+2026-10-14T08:38:32.196864Z,io.github.ifcode/bithot,BITHOT,5.0.0,https://github.com/ifcode/cryptohot,streamable-http,"Read-only MCP for curated crypto, Web3, and memecoin picks and reports."
+2026-10-14T08:41:26.759707Z,io.github.abe238/hotin,,0.9.19,https://github.com/abe238/hotinai,,"What's hot in AI right now, ranked with receipts from GitHub, HN, npm and Hugging Face."
+2026-10-14T08:43:24.65802Z,io.github.pendpost/pendpost,,2.7.0,https://github.com/pendpost/pendpost,,Local-first social MCP: an agent drafts and schedules posts; you approve before anything publishes.
+2026-10-14T08:45:36.037964Z,com.gitkraken/gk-cli,,3.1.77,https://github.com/gitkraken/gk-cli,,"The GitKraken MCP Server for managing repos, PRs, issues across GitHub, GitLab, Bitbucket and more."
+2026-10-14T08:55:09.622303Z,io.github.oneshopmanager/prestashop-mcp,One Shop Manager for PrestaShop,1.0.0,https://github.com/oneshopmanager/prestashop-mcp,,"PrestaShop 1.6 to 9: catalog, stock, orders, accounting; changes wait for your approval."
+2026-10-14T08:57:10.292463Z,app.ohdear/ohdear,Oh Dear,1.0.0,,streamable-http,"Website monitoring: uptime, SSL certificates, broken links, DNS, cron jobs and status pages."
+2026-10-14T08:58:32.748644Z,io.professionalheadshot/professionalheadshot,ProfessionalHeadshot.io,0.1.0,,streamable-http,"LinkedIn, Slack and GitHub profile photo specs, headshot style guides and a free headshot audit."
+2026-10-14T08:59:47.080633Z,io.github.dockndevai/mcp-android,,0.1.0,https://github.com/dockndevai/mcp-android,,"Control Android devices over ADB from AI agents — safe-by-default, read-only by default, audited."
+2026-10-14T08:59:49.725732Z,io.github.outcometick/outcometick,outcometick,2.13.1,https://github.com/outcometick/outcometick-sdk-ts,,"Polymarket and Predict.fun historical tick data, plus backtest quotes and status, over MCP"
+2026-10-14T08:59:57.61653Z,io.github.dockndevai/mcp-ios,,0.1.0,https://github.com/dockndevai/mcp-ios,,"Drive iPhone/iPad via Appium/WebDriverAgent from AI agents — safe-by-default, read-only by default."
+2026-10-14T09:06:18.679893Z,io.github.irshadio/figmcp,figmcp,1.4.2,https://github.com/irshadio/figmcp,,"Local Figma MCP server: Figma frames to Flutter and React code, and design in Figma. No API limits."
+2026-10-14T09:07:34.742446Z,ai.withhuman/withhuman,withHuman,1.0.0,https://github.com/withHumanAI/withHuman,streamable-http,Set up human approval for your AI agents' tool calls.
+2026-10-14T09:08:21.330724Z,com.blockreq/rpc,BlockReq,1.0.0,,streamable-http; streamable-http,"Read-only BlockReq docs, network catalog, and JSON-RPC calls across EVM chains"
+2026-10-14T09:08:54.187295Z,com.agentletterdesk/letter-desk,Agent Letter Desk,0.5.0,,streamable-http,Mails paper letters that your AI writes with you: US Certified Mail and 30 European countries.
+2026-10-14T09:10:03.100984Z,org.directindex/scanner,,0.2.0,,streamable-http,"Scan any business website for whether AI agents can find, read and act on it. City indexes."
+2026-10-14T09:10:58.78151Z,jp.co.renraku/renraku,RenRaku,1.0.0,,streamable-http,メールと LINE 公式アカウントの顧客対応サービス RenRaku を、Claude や ChatGPT などの AI から利用するための MCP サーバーです。
+2026-10-14T09:11:27.759583Z,xyz.apexfaucet/apex-g2-jobs,,1.0.0,,streamable-http,"Agent job escrow, Base and Arc: read jobs, unsigned txs, hire an agent. Silence pays the worker"
+2026-10-14T09:11:29.957117Z,com.datocapital/api,,0.2.1,,streamable-http,"Official company and director data: search, profiles, officers, filings, and name normalization."
+2026-10-14T09:12:25.881188Z,io.github.skulitom/nestbolt,Nestbolt sheet nesting,0.1.0,https://github.com/skulitom/Nestbolt,,"Local fixed-sheet nesting for laser and CNC cutting: SVG/DXF import, nest, validate, export."
