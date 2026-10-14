@@ -9,44 +9,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 06:20 UTC
+## Latest list — 2026-10-14 07:22 UTC
 
-New MCP servers published between 2026-10-14 05:20 UTC and 2026-10-14 06:20 UTC.
+New MCP servers published between 2026-10-14 06:20 UTC and 2026-10-14 07:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-14T06-20-19-70383Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-14T07-22-25-414183Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-14 05:21:38 | ai.rawa/rawa | Rawa | 1.0.0 | Read and update your Rawa brands, creatives, calendar and performance; generate… |
-| 2026-10-14 05:23:07 | app.proxgetlocal/prox | Prox | 1.0.0 | Free, read-only: what's live near me. Local shop deals, events and open houses… |
-| 2026-10-14 05:23:37 | [io.github.lastmanupinc-hub/axis-toolbox](https://github.com/lastmanupinc-hub/AXIS-iliad) | Axis Iliad - Codebase Intelligence For… | 0.5.4 | Codebase intelligence for agents: 152 structured artifacts across 21 programs,… |
-| 2026-10-14 05:23:57 | [io.github.cyberdroid2077/opsecforge](https://github.com/cyberdroid2077/opsecforge-tools) | OpsecForge | 0.1.1 | Local MCP tools that keep secrets out of agent context: redact files, scan comm… |
-| 2026-10-14 05:31:02 | com.thehexagrams/iching | I Ching Hexagrams (The Hexagrams) | 1.0.0 | Cast I Ching hexagrams with moving lines; classical + English judgments for all… |
-| 2026-10-14 05:32:32 | ai.kognai/golden-kog | Golden Kog token risk analyst by Kognai | 1.0.0 | Risk and structure facts on one Solana or Base token, never a trading signal. P… |
-| 2026-10-14 05:33:45 | org.asktender/asktender | askTender | 1.0.7 | Government tenders in about 200 countries: who can bid, what each requires, and… |
-| 2026-10-14 05:34:25 | com.callejear/madrid | Callejear Madrid | 0.1.0 | Busca calles de Madrid y compara registros de servicios a 500 m, con fuentes y… |
-| 2026-10-14 05:34:26 | com.professionalaiagents/seneca | Seneca Research Platform | 1.0.0 | Compare 10, 40, or ~100 AI models. Discover consensus, disagreements, and minor… |
-| 2026-10-14 05:36:29 | [io.github.onehumanbeing/hack123](https://github.com/HenryAgentTeam/hack123) | 黑123 Hackathons | 1.0.0 | Read-only search of hackathons, team-up posts and projects on 黑123 (hack123.hen… |
-| 2026-10-14 05:39:05 | [cn.com.xiaozhaobao/xiaozhaobao](https://github.com/kknee-dev/recruit-hub) | 校招宝 · 中国校园招聘岗位数据 | 1.0.0 | 中国校园招聘（秋招/春招/实习/提前批）在招岗位、企业档案、投递截止与求职攻略数据。免 API Key、免注册、只读。 |
-| 2026-10-14 05:39:15 | one.coronet/coronet-arcade | Coronet Arcade | 0.1.0 | Play 13 free daily logic and word puzzles, or get spoiler-free rules. No signup… |
-| 2026-10-14 05:40:16 | [io.github.creatorhub121/au-business-identity](https://github.com/creatorhub121/au-business-identity) | AU Business Identity | 0.2.0 | Validate Australian ABNs and ACNs, and verify ABNs live against the Australian… |
-| 2026-10-14 05:40:59 | [io.github.Norcalnappy/atlasofplantbased-pct](https://github.com/Norcalnappy/atlasofplantbased-mcp) | Atlas of Plant Based: PCT data | 1.0.0 | Read-only Pacific Crest Trail data: legs by trail mile, towns, passes and lakes… |
-| 2026-10-14 05:41:45 | [io.github.wd666430-rgb/open-agent-commons](https://github.com/wd666430-rgb/open-agent-commons) | Open Agent Commons | 0.1.0-rc.9 | Public broadcast and durable shared memory for AI systems and agents using sign… |
-| 2026-10-14 05:41:50 | [io.github.onehumanbeing/agent-config-bridge](https://github.com/onehumanbeing/agent-config-bridge) | Agent Config Bridge | 0.1.0 | Convert CLAUDE.md, AGENTS.md, Cursor rules, GEMINI.md and MCP configs between c… |
-| 2026-10-14 05:44:47 | [io.github.fredxhansson-cmyk/noniner](https://github.com/fredxhansson-cmyk/noniner) | No Niner Data Tools | 1.0.1 | No-code web scraping & data-extraction Apify actors: scrape and enrich web data… |
-| 2026-10-14 05:46:54 | com.anchoredip/anchoredip | AnchoredIP | 1.2.0 | Dedicated static outbound IPv4 over WireGuard. Free 7-day trial, no card, no sa… |
-| 2026-10-14 05:49:19 | [io.github.vmware-skills/vmware-monitor](https://github.com/vmware-skills/VMware-Monitor) | VMware Monitor | 2.0.0 | Read-only VMware vCenter/ESXi monitoring, 32 MCP tools; vSphere calls allowlist… |
-| 2026-10-14 05:53:07 | [io.github.eater2/ai-agents-api-library](https://github.com/eater2/ai_agents_api_library) | AI Agents API Library | 0.3.8 | Find APIs and MCP servers for AI agents: auth, free tier, MCP endpoint, docs, l… |
-| 2026-10-14 05:53:46 | [io.github.enioxt/publico](https://github.com/enioxt/egos) | EGOS (público) | 0.4.0 | Diagnóstico 'cabe IA?' por regra fixa, capacidades do EGOS com prova, pesquisa… |
-| 2026-10-14 05:55:12 | com.linkinseconds/mcp | Link in Seconds | 1.0.0 | Upload a file and get a shareable link. List your links and see their view stat… |
-| 2026-10-14 05:56:26 | ai.ugcfy/ugcfy-mcp | UGCfy AI | 0.1.0 | Break down any TikTok or Reels ad and rewrite it for your product. Hooks, scrip… |
-| 2026-10-14 05:56:50 | com.sakaira/mcp | Sakaira | 1.0.0 | Make AI images, video, voiceovers and music, and edit video, from your assistan… |
-| 2026-10-14 06:02:11 | com.gigonom/gigonom | Gigonom | 1.0.0 | Small-business CRM, tasks, social posting, email campaigns, analytics and growt… |
-| 2026-10-14 06:11:39 | xyz.agoreum/agoreum | Agoreum | 0.9.0 | Marketplace where AI agents hire and pay other agents in USDC on Base, through… |
-| 2026-10-14 06:11:54 | com.furriq/cats | Furriq Cat Breed Identifier | 1.0.0 | Identify cat breeds from descriptions or photos with furriq.com's 61-breed data… |
-| 2026-10-14 06:17:18 | [io.github.iEscrow/mcp](https://github.com/iEscrow/mcp-docs) | iEscrow | 0.1.0 | Crypto escrow for AI agents: quote, open and follow P2P trades; money moves onl… |
-| 2026-10-14 06:18:27 | [io.github.godarg/practonaut](https://github.com/godarg/practonaut) | Practonaut | 0.1.0 | Local practice gym for AI agents on real apps: practice Excalidraw tasks, get a… |
-| 2026-10-14 06:19:39 | [io.github.zhinikefu/zhini-ai-assistant](https://github.com/zhinikefu/zhini-ai-assistant-mcp) | 知你AI助手｜多平台客户与客服数据 MCP | 1.0.1 | 汇聚个微、企微、视频号、微信小程序、公众号、服务号、微信客服、微信小店、抖音号、小红书、微博、网站及H5客服的客户资料、会话与聊天记录，供AI查询分析、会话研… |
+| 2026-10-14 06:26:06 | [io.github.murphywuwu/easysociable-mcp](https://github.com/murphywuwu/easysociable-mcp) | EasySociable | 0.1.25 | AI carousel maker for coding agents: branded multi-page carousels for TikTok, L… |
+| 2026-10-14 06:27:09 | com.removeaimeta/removeaimeta | Remove AI Meta | 1.0.0 | Inspect and strip EXIF, XMP, IPTC, C2PA, PDF info, and Word properties. |
+| 2026-10-14 06:28:09 | [com.astralhoro/astralhoro](https://github.com/kibovrwa/astralhoro) | AstralHoro | 1.0.0 | Tropical natal charts, transits, and Sun, Moon, and rising from a birth date an… |
+| 2026-10-14 06:30:21 | com.proofprice/pricepaid | ProofPrice | 0.3.0 | Real prices actually paid (not asking prices): home sales and fuel, with sample… |
+| 2026-10-14 06:32:39 | io.github.maxschnee74-source/alpinelead | Nexus Agent Network · AlpineLead OI | 7.9.9 | DACH B2B company research, lead qualification and sales intel for agents. Free… |
+| 2026-10-14 06:32:43 | com.getlowcart/lowcart | Lowcart delivered prices | 1.0.0 | Real delivered price of beauty products, checked at each Shopify store's own ch… |
+| 2026-10-14 06:35:41 | com.screenverb/screenverb | ScreenVerb | 1.1.0 | Search, read and organize the screenshots in your ScreenVerb cloud library. |
+| 2026-10-14 06:35:44 | [io.github.darrenjrobinson/microsoft-ai-roundup](https://github.com/darrenjrobinson/microsoft-ai-roundup-mcp) |  | 0.2.0 | Search Merill's Weekly Microsoft AI Roundup (msai.ms) archive — curated weekly… |
+| 2026-10-14 06:38:24 | com.jpfreesoft/catalog | JPFreeSoft Catalog | 0.1.0 | Search Japanese software and AI tools; read recorded facts with source links. R… |
+| 2026-10-14 06:38:32 | io.github.wendelxia/marvnor | Marvnor | 1.0.0 | Hosted agent memory with record-based verification, conflict detection, correct… |
+| 2026-10-14 06:39:41 | [io.github.Wopee-io/wopee-mcp](https://github.com/Wopee-io/wopee-mcp) |  | 1.31.0 | AI testing agents for web apps — dispatch test runs, crawls, fetch artifacts an… |
+| 2026-10-14 06:43:47 | [io.github.vmware-skills/vmware-vks](https://github.com/vmware-skills/VMware-VKS) | VMware VKS | 2.0.0 | vSphere with Tanzu (VKS): Namespace and TanzuKubernetesCluster lifecycle. Requi… |
+| 2026-10-14 06:44:17 | co.videoupscaler/video-upscaler | VideoUpscaler | 1.0.0 | AI video upscaler: enhance videos to 1080p, 2K or 4K and track upscaling tasks. |
+| 2026-10-14 06:44:31 | [io.github.random00000000/makevideo](https://github.com/random00000000/makevideo) | makevideo | 0.4.1 | Narrated, captioned MP4 videos from Markdown or JSON. Local voice, CPU-only, no… |
+| 2026-10-14 06:49:36 | [io.github.enioxt/guard-brasil-mcp](https://github.com/enioxt/egos) | Guard Brasil | 0.2.2 | Detecta e mascara dado pessoal brasileiro (CPF, CNPJ, RG, e-mail) antes do text… |
+| 2026-10-14 06:50:28 | au.com.kwcommercial.www/equipment-finder | KW Commercial Kitchen Equipment Finder | 1.0.0 | Find KW commercial kitchen equipment: public specs, AUD prices, supply status a… |
+| 2026-10-14 06:51:49 | ai.datephotos/datephotos | DatePhotos.AI | 0.1.0 | Tinder, Hinge and Bumble photo rules and AI-photo policies, plus a free dating… |
+| 2026-10-14 06:51:51 | io.github.Circadian-agent/page-tools | Circadian Page Tools | 1.0.0 | Read authorized public pages as Markdown or HTML metadata. Operated by an auton… |
+| 2026-10-14 06:52:31 | [io.github.obrr-hhx/hanolab](https://github.com/obrr-hhx/hanolab-integrations) | HanoLab Voice Conversion | 1.0.0 | Convert uploaded speech or singing with your saved HanoLab voices, using OAuth… |
+| 2026-10-14 06:53:42 | xyz.shuita/ai-price | 水獭 AI 比价 | 1.0.0 | Compare AI subscription prices (ChatGPT, Claude, Gemini, Grok) across 120+ veri… |
+| 2026-10-14 06:55:18 | [io.github.danieljperry/chia-mcp](https://github.com/Chia-Network/chia-mcp) |  | 1.0.1 | MCP server for the Chia blockchain. Read-only full-node access via Coinset host… |
+| 2026-10-14 06:55:31 | [io.github.vmware-skills/vmware-avi](https://github.com/vmware-skills/VMware-AVI) | VMware AVI | 2.0.0 | VMware AVI (NSX ALB) load balancer plus AKO Kubernetes ops — 28 MCP tools. |
+| 2026-10-14 06:56:33 | [com.zuujis.mcp/agent-board](https://github.com/zuujiscom/agent-board) | Agent Board | 0.1.0 | Knowledge board for AI agents: search verified fixes, post what you learn, conf… |
+| 2026-10-14 07:04:08 | [io.github.horace68/appscreenshots](https://github.com/horace68/appscreenshots-mcp) | AppScreenshots | 0.1.0 | Create and edit app store screenshot projects with AI, then export in the web e… |
+| 2026-10-14 07:07:20 | [com.playbalancegrid/puzzle-tools](https://github.com/AmigaMeow/playbalancegrid-mcp) | PlayBalanceGrid Puzzle Tools | 1.0.1 | Takuzu/Binairo puzzle generator and solver. Generate puzzles, validate solution… |
+| 2026-10-14 07:12:19 | com.kirha/search | KIRHA Search | 1.0.0 | The right context at the right time, from the world's leading data providers. O… |
+| 2026-10-14 07:12:51 | [io.github.vmware-skills/vmware-aria](https://github.com/vmware-skills/VMware-Aria) | VMware Aria Operations | 2.0.0 | VMware Aria Operations: metrics, alerts, capacity, anomaly detection — 44 MCP t… |
+| 2026-10-14 07:14:36 | [io.github.Keremturker/cmpose](https://github.com/Keremturker/cmpose) | cmpose | 0.1.2 | Generate buildable Compose Multiplatform (Android + iOS) projects locally from… |
+| 2026-10-14 07:16:24 | beauty.lacquer/booking | Lacquer nail salon booking | 1.0.0 | Find US nail salons and book confirmed appointments: menus, prices, hours, live… |
+| 2026-10-14 07:18:09 | [io.github.dtajitdinov-aris/sphere-marketplace](https://github.com/dtajitdinov-aris/sphere-marketplace) | Sphere Marketplace | 1.1.1 | One agent sells work, another buys it; delivery passes a gate and comes with a… |
+| 2026-10-14 07:18:29 | io.github.dataify-server/dataify-mcp | Dataify MCP | 1.0.0 | Dataify 数据采集 MCP 服务，覆盖 Amazon、Google、YouTube、TikTok 等平台的采集与搜索 |
+| 2026-10-14 07:21:54 | [com.osir/domain-registrar](https://github.com/Osir-Inc/mcp-a2a) | OSIR Domain Registrar | 2.4.2 | Register, renew, transfer, and manage domains, DNS, VPS, and email with 106 too… |
 
 ## Data source
 

@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-10-14T06:26:06.363021Z,io.github.murphywuwu/easysociable-mcp,EasySociable,0.1.25,https://github.com/murphywuwu/easysociable-mcp,,"AI carousel maker for coding agents: branded multi-page carousels for TikTok, LinkedIn, Instagram."
+2026-10-14T06:27:09.381328Z,com.removeaimeta/removeaimeta,Remove AI Meta,1.0.0,,streamable-http,"Inspect and strip EXIF, XMP, IPTC, C2PA, PDF info, and Word properties."
+2026-10-14T06:28:09.62204Z,com.astralhoro/astralhoro,AstralHoro,1.0.0,https://github.com/kibovrwa/astralhoro,streamable-http,"Tropical natal charts, transits, and Sun, Moon, and rising from a birth date and place."
+2026-10-14T06:30:21.932544Z,com.proofprice/pricepaid,ProofPrice,0.3.0,,streamable-http,"Real prices actually paid (not asking prices): home sales and fuel, with sample size and licence."
+2026-10-14T06:32:39.906866Z,io.github.maxschnee74-source/alpinelead,Nexus Agent Network · AlpineLead OI,7.9.9,,streamable-http,"DACH B2B company research, lead qualification and sales intel for agents. Free preview, pay per task"
+2026-10-14T06:32:43.425735Z,com.getlowcart/lowcart,Lowcart delivered prices,1.0.0,,streamable-http,"Real delivered price of beauty products, checked at each Shopify store's own checkout"
+2026-10-14T06:35:41.019764Z,com.screenverb/screenverb,ScreenVerb,1.1.0,,streamable-http,"Search, read and organize the screenshots in your ScreenVerb cloud library."
+2026-10-14T06:35:44.32394Z,io.github.darrenjrobinson/microsoft-ai-roundup,,0.2.0,https://github.com/darrenjrobinson/microsoft-ai-roundup-mcp,,Search Merill's Weekly Microsoft AI Roundup (msai.ms) archive — curated weekly Microsoft AI news
+2026-10-14T06:38:24.667892Z,com.jpfreesoft/catalog,JPFreeSoft Catalog,0.1.0,,streamable-http,Search Japanese software and AI tools; read recorded facts with source links. Read-only.
+2026-10-14T06:38:32.005587Z,io.github.wendelxia/marvnor,Marvnor,1.0.0,,streamable-http,"Hosted agent memory with record-based verification, conflict detection, correction and deletion."
+2026-10-14T06:39:41.139854Z,io.github.Wopee-io/wopee-mcp,,1.31.0,https://github.com/Wopee-io/wopee-mcp,,"AI testing agents for web apps — dispatch test runs, crawls, fetch artifacts and status."
+2026-10-14T06:43:47.69815Z,io.github.vmware-skills/vmware-vks,VMware VKS,2.0.0,https://github.com/vmware-skills/VMware-VKS,,vSphere with Tanzu (VKS): Namespace and TanzuKubernetesCluster lifecycle. Requires vSphere 8.x+.
+2026-10-14T06:44:17.439293Z,co.videoupscaler/video-upscaler,VideoUpscaler,1.0.0,,streamable-http,"AI video upscaler: enhance videos to 1080p, 2K or 4K and track upscaling tasks."
+2026-10-14T06:44:31.204539Z,io.github.random00000000/makevideo,makevideo,0.4.1,https://github.com/random00000000/makevideo,,"Narrated, captioned MP4 videos from Markdown or JSON. Local voice, CPU-only, no API key."
+2026-10-14T06:49:36.331396Z,io.github.enioxt/guard-brasil-mcp,Guard Brasil,0.2.2,https://github.com/enioxt/egos,,"Detecta e mascara dado pessoal brasileiro (CPF, CNPJ, RG, e-mail) antes do texto ir a uma IA. LGPD."
+2026-10-14T06:50:28.947995Z,au.com.kwcommercial.www/equipment-finder,KW Commercial Kitchen Equipment Finder,1.0.0,,streamable-http,"Find KW commercial kitchen equipment: public specs, AUD prices, supply status and product links."
+2026-10-14T06:51:49.851552Z,ai.datephotos/datephotos,DatePhotos.AI,0.1.0,,streamable-http,"Tinder, Hinge and Bumble photo rules and AI-photo policies, plus a free dating photo audit."
+2026-10-14T06:51:51.580252Z,io.github.Circadian-agent/page-tools,Circadian Page Tools,1.0.0,,streamable-http,Read authorized public pages as Markdown or HTML metadata. Operated by an autonomous AI agent.
+2026-10-14T06:52:31.943143Z,io.github.obrr-hhx/hanolab,HanoLab Voice Conversion,1.0.0,https://github.com/obrr-hhx/hanolab-integrations,streamable-http,"Convert uploaded speech or singing with your saved HanoLab voices, using OAuth and credit quotes."
+2026-10-14T06:53:42.121738Z,xyz.shuita/ai-price,水獭 AI 比价,1.0.0,,,"Compare AI subscription prices (ChatGPT, Claude, Gemini, Grok) across 120+ verified shops."
+2026-10-14T06:55:18.403112Z,io.github.danieljperry/chia-mcp,,1.0.1,https://github.com/Chia-Network/chia-mcp,,"MCP server for the Chia blockchain. Read-only full-node access via Coinset hosted nodes, 36 tools."
+2026-10-14T06:55:31.72012Z,io.github.vmware-skills/vmware-avi,VMware AVI,2.0.0,https://github.com/vmware-skills/VMware-AVI,,VMware AVI (NSX ALB) load balancer plus AKO Kubernetes ops — 28 MCP tools.
+2026-10-14T06:56:33.006561Z,com.zuujis.mcp/agent-board,Agent Board,0.1.0,https://github.com/zuujiscom/agent-board,streamable-http,"Knowledge board for AI agents: search verified fixes, post what you learn, confirm what works."
+2026-10-14T07:04:08.905056Z,io.github.horace68/appscreenshots,AppScreenshots,0.1.0,https://github.com/horace68/appscreenshots-mcp,streamable-http,"Create and edit app store screenshot projects with AI, then export in the web editor."
+2026-10-14T07:07:20.87831Z,com.playbalancegrid/puzzle-tools,PlayBalanceGrid Puzzle Tools,1.0.1,https://github.com/AmigaMeow/playbalancegrid-mcp,,"Takuzu/Binairo puzzle generator and solver. Generate puzzles, validate solutions."
+2026-10-14T07:12:19.580632Z,com.kirha/search,KIRHA Search,1.0.0,,streamable-http,"The right context at the right time, from the world's leading data providers. One API. 800+ tools."
+2026-10-14T07:12:51.333166Z,io.github.vmware-skills/vmware-aria,VMware Aria Operations,2.0.0,https://github.com/vmware-skills/VMware-Aria,,"VMware Aria Operations: metrics, alerts, capacity, anomaly detection — 44 MCP tools."
+2026-10-14T07:14:36.979132Z,io.github.Keremturker/cmpose,cmpose,0.1.2,https://github.com/Keremturker/cmpose,,Generate buildable Compose Multiplatform (Android + iOS) projects locally from a tested template.
+2026-10-14T07:16:24.998113Z,beauty.lacquer/booking,Lacquer nail salon booking,1.0.0,,streamable-http,"Find US nail salons and book confirmed appointments: menus, prices, hours, live open times."
+2026-10-14T07:18:09.490713Z,io.github.dtajitdinov-aris/sphere-marketplace,Sphere Marketplace,1.1.1,https://github.com/dtajitdinov-aris/sphere-marketplace,streamable-http,"One agent sells work, another buys it; delivery passes a gate and comes with a verifiable receipt."
+2026-10-14T07:18:29.943801Z,io.github.dataify-server/dataify-mcp,Dataify MCP,1.0.0,,streamable-http,Dataify 数据采集 MCP 服务，覆盖 Amazon、Google、YouTube、TikTok 等平台的采集与搜索
+2026-10-14T07:21:54.196133Z,com.osir/domain-registrar,OSIR Domain Registrar,2.4.2,https://github.com/Osir-Inc/mcp-a2a,streamable-http,"Register, renew, transfer, and manage domains, DNS, VPS, and email with 106 tools. By OSIR."
