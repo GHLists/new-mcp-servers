@@ -9,41 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 09:19 UTC
+## Latest list — 2026-10-14 10:20 UTC
 
-New MCP servers published between 2026-10-14 08:20 UTC and 2026-10-14 09:19 UTC.
+New MCP servers published between 2026-10-14 09:19 UTC and 2026-10-14 10:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-14T09-19-27-029175Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-14T10-20-23-881545Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-14 08:22:05 | [news.lawhot/lawhot](https://github.com/ifcode/lawhot) | LAWHOT | 1.0.0 | 法律热点、法规、案例与法律日报。匿名只读，不需要 API Key。Legal news, statutes, cases, and daily briefin… |
-| 2026-10-14 08:23:10 | [io.github.aa0101181514/tw-legal-rag](https://github.com/aa0101181514/tw-legal-rag) |  | 2.3.1 | Citation-guarded retrieval over 22M Taiwan court judgments and administrative i… |
-| 2026-10-14 08:23:25 | io.github.hoftlab/kr-realestate-mcp | Korea Real Estate Data (실거래가·단지·청약) | 0.2.0 | Korean apartment transactions, complex profiles and housing subscription data b… |
-| 2026-10-14 08:30:12 | [io.github.ifcode/gameshot](https://github.com/ifcode/gameshot) | Gameshot | 1.0.0 | Read Gameshot game news: latest, search, hot stories, daily, weekly, and monthl… |
-| 2026-10-14 08:30:38 | [io.github.LigiaAdam/reloop-role-intel](https://github.com/LigiaAdam/reloop-role-intel-mcp) |  | 1.1.3 | Read between the lines of a job ad: real level, inflation, capabilities. Free q… |
-| 2026-10-14 08:32:00 | com.gokeyio/keyio | Keyio | 1.0.0 | Run your rentals in Spain from your AI assistant: SES filings, VeriFactu invoic… |
-| 2026-10-14 08:33:34 | io.github.LightoninT/bestasiahotels | BestAsiaHotels | 0.1.0 | Read-only Asian hotel search and guides with canonical sources and non-live rat… |
-| 2026-10-14 08:38:13 | app.faylee/faylee |  | 1.0.0 | Read browser bug recordings: video, console, network, steps. Fix the bug and co… |
-| 2026-10-14 08:38:32 | [io.github.ifcode/bithot](https://github.com/ifcode/cryptohot) | BITHOT | 5.0.0 | Read-only MCP for curated crypto, Web3, and memecoin picks and reports. |
-| 2026-10-14 08:41:26 | [io.github.abe238/hotin](https://github.com/abe238/hotinai) |  | 0.9.19 | What's hot in AI right now, ranked with receipts from GitHub, HN, npm and Huggi… |
-| 2026-10-14 08:43:24 | [io.github.pendpost/pendpost](https://github.com/pendpost/pendpost) |  | 2.7.0 | Local-first social MCP: an agent drafts and schedules posts; you approve before… |
-| 2026-10-14 08:45:36 | [com.gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) |  | 3.1.77 | The GitKraken MCP Server for managing repos, PRs, issues across GitHub, GitLab,… |
-| 2026-10-14 08:55:09 | [io.github.oneshopmanager/prestashop-mcp](https://github.com/oneshopmanager/prestashop-mcp) | One Shop Manager for PrestaShop | 1.0.0 | PrestaShop 1.6 to 9: catalog, stock, orders, accounting; changes wait for your… |
-| 2026-10-14 08:57:10 | app.ohdear/ohdear | Oh Dear | 1.0.0 | Website monitoring: uptime, SSL certificates, broken links, DNS, cron jobs and… |
-| 2026-10-14 08:58:32 | io.professionalheadshot/professionalheadshot | ProfessionalHeadshot.io | 0.1.0 | LinkedIn, Slack and GitHub profile photo specs, headshot style guides and a fre… |
-| 2026-10-14 08:59:47 | [io.github.dockndevai/mcp-android](https://github.com/dockndevai/mcp-android) |  | 0.1.0 | Control Android devices over ADB from AI agents — safe-by-default, read-only by… |
-| 2026-10-14 08:59:49 | [io.github.outcometick/outcometick](https://github.com/outcometick/outcometick-sdk-ts) | outcometick | 2.13.1 | Polymarket and Predict.fun historical tick data, plus backtest quotes and statu… |
-| 2026-10-14 08:59:57 | [io.github.dockndevai/mcp-ios](https://github.com/dockndevai/mcp-ios) |  | 0.1.0 | Drive iPhone/iPad via Appium/WebDriverAgent from AI agents — safe-by-default, r… |
-| 2026-10-14 09:06:18 | [io.github.irshadio/figmcp](https://github.com/irshadio/figmcp) | figmcp | 1.4.2 | Local Figma MCP server: Figma frames to Flutter and React code, and design in F… |
-| 2026-10-14 09:07:34 | [ai.withhuman/withhuman](https://github.com/withHumanAI/withHuman) | withHuman | 1.0.0 | Set up human approval for your AI agents' tool calls. |
-| 2026-10-14 09:08:21 | com.blockreq/rpc | BlockReq | 1.0.0 | Read-only BlockReq docs, network catalog, and JSON-RPC calls across EVM chains |
-| 2026-10-14 09:08:54 | com.agentletterdesk/letter-desk | Agent Letter Desk | 0.5.0 | Mails paper letters that your AI writes with you: US Certified Mail and 30 Euro… |
-| 2026-10-14 09:10:03 | org.directindex/scanner |  | 0.2.0 | Scan any business website for whether AI agents can find, read and act on it. C… |
-| 2026-10-14 09:10:58 | jp.co.renraku/renraku | RenRaku | 1.0.0 | メールと LINE 公式アカウントの顧客対応サービス RenRaku を、Claude や ChatGPT などの AI から利用するための MCP サーバー… |
-| 2026-10-14 09:11:27 | xyz.apexfaucet/apex-g2-jobs |  | 1.0.0 | Agent job escrow, Base and Arc: read jobs, unsigned txs, hire an agent. Silence… |
-| 2026-10-14 09:11:29 | com.datocapital/api |  | 0.2.1 | Official company and director data: search, profiles, officers, filings, and na… |
-| 2026-10-14 09:12:25 | [io.github.skulitom/nestbolt](https://github.com/skulitom/Nestbolt) | Nestbolt sheet nesting | 0.1.0 | Local fixed-sheet nesting for laser and CNC cutting: SVG/DXF import, nest, vali… |
+| 2026-10-14 09:25:46 | [io.github.bakissation/mcp-google-multi](https://github.com/bakissation/mcp-google-multi.git) | Google Workspace (multi-account) | 6.0.0 | Multi-account Google Workspace MCP server: 942 tools, 29 services, discover-fir… |
+| 2026-10-14 09:30:35 | [io.github.shinpr/sub-agents-mcp](https://github.com/shinpr/sub-agents-mcp) |  | 0.14.3 | MCP server for delegating tasks to specialized AI sub-agents across coding tools |
+| 2026-10-14 09:37:02 | [com.postplanify/mcp](https://github.com/postplanifyapp/postplanify-mcp) | PostPlanify | 1.0.0 | Schedule posts to Instagram, TikTok, LinkedIn, X and 6 more. Track analytics an… |
+| 2026-10-14 09:39:52 | [io.github.Thorium/csharp-refactor](https://github.com/Thorium/csharp-refactor) | CSharp.Refactor | 0.1.20 | Offline analyzers that find and fix intent-hiding, slow or noisy C#, including… |
+| 2026-10-14 09:39:59 | [io.github.Thorium/fsharp-refactor](https://github.com/Thorium/fsharp-refactor) | FSharp.Refactor | 0.8.45 | Offline analyzers that find and fix intent-hiding, slow or noisy F#, including… |
+| 2026-10-14 09:44:56 | io.github.sitebox/kids-stay | Kids Stay | 1.0.3 | Search Japanese hotels by 53 verified kid-friendly conditions, with sources and… |
+| 2026-10-14 09:48:00 | [be.vibedeploy/vibedeploy](https://github.com/thomasbillen-netizen/vibedeploy-mcp) | VibeDeploy | 1.1.0 | Deploy AI-built sites and apps to EU hosting from your AI agent. OAuth sign-in,… |
+| 2026-10-14 09:51:59 | [io.github.LalwaniPalash/trove-mcp](https://github.com/LalwaniPalash/trove-mcp) | Trove | 0.1.10 | Fail-closed academic research server: search, full text, citations across open… |
+| 2026-10-14 09:56:18 | com.therankingfactory/mcp | The Ranking Factory | 1.0.0 | Whether AI answers name and cite your business: runs, gaps, cited sources, publ… |
+| 2026-10-14 09:56:22 | com.therankingfactory/site-check | The Ranking Factory site check | 1.0.0 | Free, no sign-in: checks a website's readiness for AI search and lists what it… |
+| 2026-10-14 09:56:53 | com.visokio/omniscope | Omniscope | 1.0.0 | Build Omniscope data workflows, reports and dashboards by asking, then run them… |
+| 2026-10-14 10:01:51 | [io.github.MattJeff/cliponit](https://github.com/MattJeff/cliponit-mcp) | ClipOnIt | 1.0.0 | Turn long videos into short, subtitled, auto-reframed clips from Claude or Chat… |
+| 2026-10-14 10:02:06 | [io.github.lacausecrypto/sports-hub](https://github.com/lacausecrypto/mcp-sports-hub) |  | 1.4.0 | 42 sports API providers, 410 tools: scores, stats, odds, esports, chess, motors… |
+| 2026-10-14 10:04:05 | ing.argus/belgian-tenders | Argus: Belgian tender insights | 1.0.0 | Belgian public tender insights: who bids, who wins, winning prices, your award… |
+| 2026-10-14 10:05:04 | [io.carbone/carbone-mcp](https://github.com/carboneio/carbone-mcp) | Carbone MCP | 2.0.0 | Generate PDF, DOCX, XLSX and PPTX from templates and JSON; convert files betwee… |
+| 2026-10-14 10:11:54 | ai.wizbi/wizbi | WizBI | 0.1.0 | Ask your organization's connected business data in plain language, with each pe… |
+| 2026-10-14 10:16:40 | com.claimtagg/claimyapp | ClaimyApp | 1.0.0 | Plan trips, packing lists and luggage in ClaimyApp: read, create and change the… |
+| 2026-10-14 10:19:12 | [com.veritaset/mcp](https://github.com/Veritaset-tech/veritaset) | Veritaset | 0.5.0 | Verified, sourced mobile plan prices in 32 European markets and the US, ranked… |
+| 2026-10-14 10:20:08 | [io.github.polymarketwallets/pmwallets](https://github.com/polymarketwallets/pmwallets-node) | PMWallets | 0.6.5 | Polymarket smart-money data: rank traders by on-chain PnL, follow them, read th… |
+| 2026-10-14 10:20:22 | [io.github.polymarketwallets/pmwallets-copytrade](https://github.com/polymarketwallets/polymarket-copy-trading-bot) | PMWallets copy-trading bot | 0.4.1 | Polymarket orders from your own machine: market, balance, positions, buy/sell w… |
 
 ## Data source
 
