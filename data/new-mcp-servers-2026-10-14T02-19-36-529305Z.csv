@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-10-14T01:22:31.857679Z,art.fluxaipro/fluxai,Flux AI,1.0.0,,streamable-http,"Generate images, videos and music with model discovery, cost estimates and asynchronous results."
+2026-10-14T01:32:41.763118Z,io.github.ArmorNGlory/armornglory-mcp-server,ArmorNGlory: Christian Streetwear & Faith Apparel,1.1.0,https://github.com/ArmorNGlory/armornglory-mcp-server,,"Shop Christian streetwear: scripture hats, Bible verse tees, hoodies, foam clogs, and faith gifts"
+2026-10-14T01:38:24.622921Z,com.govdir/directory,GovDir,1.0.0,,streamable-http,"Official US government offices and pages for property, land and GIS questions, link-checked."
+2026-10-14T01:39:21.187283Z,com.clegaragedoors/garage-door-decision-kit,Garage Door Decision Kit by CLE Garage Doors,0.1.0,,streamable-http,"Check opener quote scope, compare spring usage, and plan garage-door winter preparation."
+2026-10-14T01:40:45.688499Z,online.waply/public,Waply,1.0.0,,streamable-http,"Read-only info on Waply, the official WhatsApp API add-on for Kommo: guides, docs and pricing."
+2026-10-14T01:41:02.12773Z,com.eatloyalist/reservations,Loyalist Reservations,1.0.0,,streamable-http,"Book tables at restaurants on the Loyalist network. No login; read availability, then book."
+2026-10-14T01:42:25.355426Z,app.aveco/aveco,Aveco,1.0.0,,streamable-http,"Inspect outreach delivery, campaigns, leads and pipeline; prepare sequence drafts. Read-only."
+2026-10-14T01:46:39.372044Z,com.sweetvaluelab/valuation,SweetValueLab,1.0.0,,streamable-http,"Free valuation models for S&P 500 and Nasdaq-100 stocks, Treasury yields and market sentiment."
+2026-10-14T01:50:55.330739Z,site.chatgpt.connect675501.aidg-answer-feed/answer-feed,AIDG Answer Feed,1.1.0,https://github.com/micaela2/aidg-answer-feed-plugin,streamable-http,Validate authored product facts and export reviewed Merchant Center supplemental TSV files.
+2026-10-14T01:52:36.165926Z,com.thesiftguide/sift-tools,,1.0.0,,streamable-http,"Minecraft The Sift portal tools: coordinate converter, materials budget, and ignition diagnostic."
+2026-10-14T01:53:02.92085Z,com.primesettlementrefund/prime-refund-tools,,1.0.0,,streamable-http,"Amazon Prime refund tools: eligibility check, payment amount estimator, and claim deadline guide."
+2026-10-14T02:07:16.167951Z,us.govtube/govtube,GovTube,0.1.0,,streamable-http,"Search what U.S. officials said on camera, with timestamps and citations. Not a government site."
+2026-10-14T02:12:12.620051Z,ai.youtube-transcript/youtube-transcript,YouTube Transcript AI,1.1.0,https://github.com/zxl777/youtube-transcript-mcp,streamable-http,"Fetch the full transcript of any YouTube video as text, in any caption language. Free API key."
+2026-10-14T02:13:52.011918Z,com.citeladder/citeladder,CiteLadder,1.0.0,,streamable-http,"Read-only AI search visibility data: brand mentions, cited sources, site health and opportunities."
+2026-10-14T02:14:18.038288Z,ai.membase/membase,,1.0.0,https://github.com/unibaseio/membase,streamable-http,"Long-term memory for you and your AIs: search memories, read the profile, add facts and documents."
+2026-10-14T02:16:42.721644Z,io.github.muaviamohammed/mizan,MIZAN · Proof of performance,1.0.0,https://github.com/muaviamohammed/mizan-mcp,streamable-http,Verify or mint zero-knowledge track-record credentials (VTR-1) without revealing the strategy.
+2026-10-14T02:16:43.504921Z,io.github.yarrasys/kdbx,kdbx,0.3.2,https://github.com/yarrasys/kdbx,,Read-only access to secrets in a local KeePassXC vault. Runs commands with them injected.
+2026-10-14T02:19:22.548888Z,io.github.fbsobreira/gotron-mcp,GoTRON MCP,0.4.1,https://github.com/fbsobreira/gotron-mcp,streamable-http,"TRON blockchain: accounts, TRC20 tokens, staking, contracts, resources and transaction builders"
+2026-10-14T02:19:32.758684Z,com.eatloyalist/restaurant-reservations,Loyalist Reservations,1.0.0,,streamable-http,"Book tables at restaurants on the Loyalist network. No login; read availability, then book."
