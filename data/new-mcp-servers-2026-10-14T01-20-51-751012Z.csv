@@ -1,0 +1,14 @@
+created_at,server,title,version,repository,transports,description
+2026-10-14T00:22:38.251056Z,io.github.kr-data-api/korea-apt-transactions,"Korea Apartment Transactions (MOLIT sale records, English)",0.1.0,,streamable-http,"Korean apartment sale transactions (MOLIT): price, area, floor, deal date, cancellations by district"
+2026-10-14T00:34:59.734355Z,com.rooquiz/rooquiz-mcp,RooQuiz,1.2.0,,streamable-http,"Create and manage quizzes, leads, and respondents on RooQuiz, a lead-capture assessment platform."
+2026-10-14T00:41:08.978582Z,io.github.ahoybuoy/buoy,,0.8.8,https://github.com/ahoybuoy/buoy,,The design system your coding agents check before they ship: tokens plus exact UI fixes.
+2026-10-14T00:42:19.890358Z,io.github.KonstantinStarovoytov/agent-docs,Agent Docs,0.1.0,https://github.com/KonstantinStarovoytov/rag-context-assembly,streamable-http,"Search the official docs of Claude Code, Cursor, OpenAI Codex and MCP, refreshed daily."
+2026-10-14T00:49:33.111201Z,net.balford/ask,Balford metalworking engineering answers,1.0.0,,streamable-http,"Metal stamping, deep drawing and DFM answers from Balford's own published engineering pages."
+2026-10-14T00:49:46.888548Z,app.altcoinchasershq/acai,AltcoinChasersHQ: Acai crypto research,1.1.0,,streamable-http,"Crypto research: launch, surge, daily picks, forensics, research jobs, monitors, rug checks."
+2026-10-14T00:50:46.236075Z,io.github.leidarljos/ljos,ljos,0.29.0,https://github.com/leidarljos/ljos,,"Local memory, a work tracker and a shell-command guard shared by coding agents on one machine."
+2026-10-14T00:55:53.177951Z,io.github.anderson-0/qh,qh,1.0.2,https://github.com/anderson-0/qh,,"Query PostgreSQL, MySQL, MariaDB, SQLite and MongoDB with two tools and few tokens."
+2026-10-14T00:59:52.005914Z,io.github.LMSlay/tubetext-china-data,"China Data: Taobao, Bilibili, WeChat, Trending",1.1.0,https://github.com/LMSlay/tubetext-mcp,streamable-http,"Taobao/Tmall, Bilibili videos + transcripts, WeChat articles, China hot search, suppliers by photo."
+2026-10-14T00:59:53.64557Z,io.github.LMSlay/tubetext-travel-local-prices,"Travel & Local Prices: Flights, Hotels, Gas",1.1.0,https://github.com/LMSlay/tubetext-mcp,streamable-http,"Google Flights fares and price calendar, Google Hotels rates by date, US/Canada gas station prices."
+2026-10-14T01:08:40.349466Z,io.github.Glittering/ai-browser,,1.2.1,https://github.com/Glittering/ai-browser,,"Visible Electron browser driven by a semantic accessibility tree: 17 MCP tools, no screenshots."
+2026-10-14T01:08:43.826082Z,com.acatrove/acatrove,AcaTrove,0.1.0,,streamable-http,"Cited answers from your own research library, plus projects, publications, grants, and lab records."
+2026-10-14T01:12:23.566143Z,io.github.virgoone/fluxai,Flux AI,1.0.0,,streamable-http,"Generate images, videos and music with model discovery, cost estimates and asynchronous results."
