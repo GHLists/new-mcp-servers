@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-10-14T11:20:16.168397Z,io.github.askads/mcp-yandex-direct,Yandex Direct MCP,1.5.3,https://github.com/askads/mcp-yandex-direct,,"MCP server for Yandex Direct API v5: manage PPC campaigns, ads, keywords, and statistics."
+2026-10-14T11:20:44.431341Z,io.github.Albasha0x0/corvus,Corvus,2.0.2,https://github.com/Albasha0x0/Corvus,,"Reverse engineering of .NET assemblies and native binaries: decompile, search, compare, patch."
+2026-10-14T11:21:52.175603Z,io.github.n0t1fy/notify-sms-georgia,NOTIFY,0.1.0,,streamable-http,"SMS verification codes for Georgia (+995). Try test codes with a free test key, no account needed."
+2026-10-14T11:22:02.670237Z,tech.coniuncta.regularus/regularus,REGULARUS,1.0.0,,streamable-http,"Fixed prices, document lists and report verification for EU cosmetic safety reports (CPSR)."
+2026-10-14T11:30:38.10592Z,com.parkgraph/mcp,Park Graph,0.1.0,,streamable-http,"Find, price and book parking at Park Graph lots: search, quote, hold and session tools."
+2026-10-14T11:37:07.60628Z,io.github.docling-project/docling-rs,docling.rs,2.22.0,https://github.com/docling-project/docling.rs,,"Documents to Markdown for agents: PDF layout, tables and OCR, Office, HTML, scans. docling in Rust."
+2026-10-14T11:40:33.32006Z,au.com.wirelesschoices/plan-finder,Wireless Choices Plan Finder,1.2.29,,streamable-http,"Compare Australian mobile, prepaid, mobile broadband and nbn plans listed on Wireless Choices"
+2026-10-14T11:40:50.052411Z,com.bisibility/mcp,bisibility,0.17.0,https://github.com/CorgiCorner/bisibility-mcp,streamable-http,"Track keyword rankings, research SEO opportunities, and manage bisibility projects with AI agents."
+2026-10-14T11:42:11.384507Z,io.github.Thrivestack-public/thrivestack-mcp,ThriveStack AI Visibility,1.1.0,https://github.com/Thrivestack-public/thrivestack-mcp,streamable-http,"See how AI search engines mention and cite your brand, and get recommendations to improve it."
+2026-10-14T11:43:53.836367Z,com.energyincloud/energyincloud,EnergyInCloud,0.1.0,https://github.com/eicsrl/energyincloud-plugin,streamable-http,"Ask about your solar and storage plant: production, consumption, battery, savings, reports."
+2026-10-14T11:45:01.563848Z,coach.coldcall/call-insights,Cold Call Coach Call Insights,1.0.0,,streamable-http,"Read graded sales call reports, agents and scorecards from Cold Call Coach."
+2026-10-14T11:48:52.850136Z,com.mapsharvest/maps-harvest,Maps Harvest,1.0.0,,streamable-http,"Local business data from Google Maps: ratings, reviews, businesses without a website."
+2026-10-14T11:50:33.951363Z,app.pouls/sondages,Pouls · sondages présidentielle 2027,1.0.0,,streamable-http,"Sondages présidentielle 2027 agrégés : moyennes, marges, tendances, duels."
+2026-10-14T11:50:57.849162Z,com.vyuhmatrix.drift/vyuh-drift,Vyuh Drift,1.0.0,,streamable-http,"Schedule social posts, then check each one really went live, with a result per channel."
+2026-10-14T11:51:27.659866Z,site.chatgpt.toasty-seal-8877.xynthera-ai/xynthera-ai-prepaid,"Xynthera AI — JSON invoice, OpenAPI and event checks",2026.10.14,,streamable-http,"Signed deterministic checks for supplied JSON invoices, OpenAPI API contracts and JSON events."
+2026-10-14T11:57:16.609633Z,io.github.GoTolstoy/studio,Tolstoy,1.2.0,,streamable-http,Create ecommerce images and videos with Tolstoy Studio and manage the media in your Tolstoy library.
+2026-10-14T11:58:39.129618Z,io.consentease/mcp-server,,1.4.0,,streamable-http,Manage ConsentEase consent banners and cookie inventories from your coding agent.
+2026-10-14T12:05:32.051465Z,de.laborregister/laborregister,Laborregister Deutschland,1.0.0,,streamable-http,"Search directly orderable lab analyses in Germany, with sample types and original source links."
+2026-10-14T12:05:46.268019Z,online.aihomeservices/home-services,AI Home Services Booking,0.7.0,,streamable-http,"Agent-first booking of home-service contractors in Canada and the US: quotes, availability, booking."
+2026-10-14T12:06:35.315961Z,io.github.LKennedyShare/irish-used-car-data,Irish Used Car Market Data,0.3.1,,streamable-http,"Irish used-car prices, below-market deals, depreciation, VRT, UK import costs. Pay per call (x402)"
+2026-10-14T12:06:35.4599Z,io.github.LKennedyShare/supplier-payment-verifier,Supplier Identity and VAT Verification,0.2.0,,streamable-http,"Verify a supplier's identity and VAT via Irish CRO and EU VIES before paying. Pay per call, x402."
+2026-10-14T12:12:33.913867Z,io.github.MattCraftsCode/name-generator,Name Idea Box,1.0.0,https://github.com/MattCraftsCode/NameIdeaBox,streamable-http,"Generate fictional names and sample identity profiles for prototypes, QA, demos, and creative work."
+2026-10-14T12:12:49.421324Z,io.github.eiler2005/slidecraft,SlideCraft,0.7.6,https://github.com/eiler2005/slidecraft,,"Builds editable PowerPoint, PDF and HTML decks from a deck spec, with fit, source and visual checks."
+2026-10-14T12:17:09.362726Z,com.alexstokes.api/uk-tender-data,,1.0.0,,streamable-http,Search UK Find a Tender notices. 3 free calls/day per IP; paid x402 MCP calls cost 0.01 USDC.
+2026-10-14T12:18:46.584294Z,com.getinfrly/infrly,Infrly,1.0.0,,streamable-http,"Read-only access to your Infrly services, deploys, logs, metrics and billing."
+2026-10-14T12:19:48.077866Z,app.semantichub/semantichub,SemanticHub,1.0.0,,streamable-http,"Monitor news sources, read clustered articles and generated texts, manage goals and workflows."
