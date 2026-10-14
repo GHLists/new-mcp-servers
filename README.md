@@ -9,41 +9,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 17:21 UTC
+## Latest list — 2026-10-14 18:19 UTC
 
-New MCP servers published between 2026-10-14 16:19 UTC and 2026-10-14 17:21 UTC.
+New MCP servers published between 2026-10-14 17:21 UTC and 2026-10-14 18:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-14T17-21-09-334143Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-14T18-19-49-932344Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-14 16:20:06 | health.splot/splot | Splot | 1.0.0 | Persistent food journal for AI assistants. Log meals, save recipes, plan meals… |
-| 2026-10-14 16:23:23 | io.github.fakhruldeen/tasleemat |  | 2.5.0 | Bilingual (EN/AR) PMO Operating System with 114 deliverables & validation. |
-| 2026-10-14 16:27:14 | [io.github.dharunashokkumar/india-api](https://github.com/dharunashokkumar/api.dharun.dev) | India API | 1.1.14 | Free Indian data: pincode, IFSC, GSTIN checks, holidays, RTO, logos, UPI QR. No… |
-| 2026-10-14 16:27:23 | dev.dataenrich/coffee-roaster-data | Coffee Roaster Data | 0.1.0 | Specialty coffee roaster prices, stock, price/100g, change events and store pro… |
-| 2026-10-14 16:28:48 | [io.github.mfarrell628/clear-line-ops](https://github.com/mfarrell628/clear-line-ops-mcp) |  | 1.0.0 | 150+ hosted tools: describe-to-build CAD, scan-to-CAD, architecture studio, web… |
-| 2026-10-14 16:30:59 | [io.github.paablobello/tastepix](https://github.com/paablobello/tastepix-mcp) | Tastepix | 1.0.0 | Generate and edit images with top models (Nano Banana, GPT Image, FLUX…) in cha… |
-| 2026-10-14 16:31:33 | app.domainlab/domain-lab | Domain Lab | 1.1.0 | Track domain expiry, DNS, SSL and email security across registrars, and explain… |
-| 2026-10-14 16:33:42 | [io.github.getremcp/docsy](https://github.com/getremcp/docsy-plugin) | Docsy | 1.0.5 | Read versioned developer documentation with original source links using five pu… |
-| 2026-10-14 16:34:48 | [io.github.flixconomy/flixconomy](https://github.com/flixconomy/flixconomy-mcp) | flixconomy.ai: humans and Ari for agents | 0.2.0 | Real humans for AI agents: ask a question or rent a human for a task. Prepaid i… |
-| 2026-10-14 16:35:02 | [gg.unicum/wot-stats](https://github.com/unicum-gg/unicum.gg) | unicum.gg | 0.1.0 | World of Tanks stats for players, clans and tanks across EU, NA, and Asia. |
-| 2026-10-14 16:35:19 | io.github.kedu21-beep/passage-data | Passage Data — cited environmental limi… | 1.0.0 | Environmental limits from US, Canadian and EU law (discharge, water, air), ever… |
-| 2026-10-14 16:41:28 | [io.github.dapr/dapr-mcp-server](https://github.com/dapr/dapr-mcp-server) | Dapr MCP Server | 0.0.3 | Dapr state, pub/sub, bindings, secrets, locks, crypto, conversation, actors, in… |
-| 2026-10-14 16:44:16 | net.videobgremover/video-background-remover | VideoBGRemover | 1.0.0 | Remove video backgrounds with OAuth, account credits and transparent WebM downl… |
-| 2026-10-14 16:46:17 | [io.github.bradraylucas-eng/mcp-notes-server](https://github.com/bradraylucas-eng/mcp-notes-server) |  | 1.0.0 | Tiny local MCP notes server in Python: create, list, and search notes stored in… |
-| 2026-10-14 16:46:42 | com.mailsecuritytools.api/email-security | Mail Security Tools | 1.0.0 | Free DMARC, SPF, DKIM and MX checks, a 1-cent email security score and a $1 DNS… |
-| 2026-10-14 16:46:46 | com.freesmallbiztools.api/tools | Free Small Biz Tools | 1.0.0 | Free quote and late-fee calculators, paid reminder emails and a $1 small-busine… |
-| 2026-10-14 16:50:46 | [io.github.ivanoats/wsg-check](https://github.com/ivanoats/wsg-check) | WSG Check | 0.6.2 | Check websites against the W3C Web Sustainability Guidelines and look up the gu… |
-| 2026-10-14 16:51:48 | com.spritefuse/spritefuse | SpriteFuse | 1.0.0 | Create 2D characters and animations, revise sprites, adjust timing and export a… |
-| 2026-10-14 16:57:38 | [io.github.fbossiere/proton-safe-mcp](https://github.com/fbossiere/proton-safe-mcp) | Proton Safe MCP | 2.3.1 | Read Proton Mail, extract bounded attachment text, and create explicitly confir… |
-| 2026-10-14 17:03:56 | [org.sunrise-sunset/sun-times](https://github.com/sunrise-sunset-org/api-examples) | Sunrise-Sunset.org | 1.0.0 | Sunrise, sunset, twilight, golden hour and moon times for any place on Earth. F… |
-| 2026-10-14 17:05:28 | com.therapybillai/therapybill | TherapyBill AI | 1.0.0 | Pediatric therapy practice management: scheduling, eligibility, claims, and cli… |
-| 2026-10-14 17:06:28 | jp.co.roundup-inc/knowledge | ラウンドナップ Webマーケティング・ナレッジ | 0.1.0 | Search Roundup's Japanese SME web marketing insights; return source excerpts an… |
-| 2026-10-14 17:09:07 | [io.github.dinhkarate/keyshroud](https://github.com/dinhkarate/keyshroud) | keyshroud | 0.5.1 | Agent-safe secrets from self-hosted Vaultwarden/Bitwarden: injected into comman… |
-| 2026-10-14 17:10:26 | [com.agentdataco/api](https://github.com/TranscendUK/agentdataco-site) | Agent Data Co | 1.0.0 | Daily AI-ecosystem data: GitHub AI/MCP repos, MCP registry, HF trending, LLM pr… |
-| 2026-10-14 17:12:18 | [io.github.TonytheTiger22/payperscreen](https://github.com/TonytheTiger22/payperscreen) | PayPerScreen | 0.1.0 | Sanctions, crypto wallet, email and IP screening for agents. Pay per check in U… |
-| 2026-10-14 17:17:01 | [io.github.IamSAL/jira-easy-mcp](https://github.com/IamSAL/jira-easy-mcp) |  | 2.0.1 | Self-hosted Jira Server/Data Center 7-10 for AI agents with username + password… |
-| 2026-10-14 17:17:33 | [io.github.SakuraCianna/agentic-sdlc-mcp](https://github.com/SakuraCianna/agentic-sdlc-mcp) | Agentic SDLC MCP | 1.11.0 | Agentic SDLC governance and security controls for AI coding agents working with… |
+| 2026-10-14 17:27:15 | [social.happenings/connect](https://github.com/happenings-dk/happenings-ai) | Happenings Connect | 1.2.0 | Run your Happenings pages from your AI through the page CLI: events, tickets, s… |
+| 2026-10-14 17:29:02 | pro.teamportal/team-portal | Molantis Team Portal | 1.3.0 | Tasks, knowledge base, planner, meetings, chat and finance of your team portal… |
+| 2026-10-14 17:31:38 | io.byfruit/human-judgment | Human Judgment MCP | 0.0.1 | PAVE integration by FRUIT Holdings, Inc. Public access is not currently availab… |
+| 2026-10-14 17:32:02 | io.github.xlw-pro/qimenmind | QimenMind Qimen Dunjia Chart | 1.0.0 | Cast Qimen Dunjia (奇门遁甲) charts: four pillars, Ju, nine palaces, stars, doors a… |
+| 2026-10-14 17:33:20 | [com.queryaction/queryaction](https://github.com/QueryAction/queryaction-plugin) | QueryAction | 1.0.0 | Site growth from your agent: GA4, Search Console, PageSpeed, SEO research and w… |
+| 2026-10-14 17:37:19 | [com.getlinkcrypt/linkcrypt](https://github.com/LinkCrypt/linkcrypt-mcp) | Link Crypt | 1.0.0 | Search, save, tag, and summarize the links in your Link Crypt bookmark library. |
+| 2026-10-14 17:41:32 | [io.github.wkoverfield/quilt](https://github.com/wkoverfield/quilt) |  | 0.6.3 | Track which AI agent wrote which lines in a shared Git checkout; each commits o… |
+| 2026-10-14 17:44:29 | io.github.TarunTomar122/trace | Trace | 1.0.0 | Today's top tech and AI stories, builds and developer conversations, grouped an… |
+| 2026-10-14 17:47:28 | [io.github.KuudoAI/amazon_ads_mcp](https://github.com/KuudoAI/amazon_ads_mcp) |  | 0.3.31 | Amazon Ads API MCP server for Amazon Advertising API |
+| 2026-10-14 17:48:57 | homes.socials/socials-homes | Socials Homes | 1.0.0 | Find a rental home in a new city: supported cities, plans, live listing counts… |
+| 2026-10-14 17:48:57 | homes.socials/socials-homes-docs | Socials Homes Docs | 1.0.0 | How Socials Homes works: pricing, FAQ, a terms summary and housing guides for p… |
+| 2026-10-14 17:49:26 | cc.modly/modly | Modly Discord Server Management | 1.0.0 | Scoped Discord module settings, XP leaderboards and moderation history for Modl… |
+| 2026-10-14 17:51:19 | so.circle/circle | Circle | 1.0.0 | Manage your digital business: members, website, discussions, events, courses, p… |
+| 2026-10-14 17:51:26 | com.pagosaforestlodge/agent-booking | Pagosa Forest Lodge | 1.0.0 | Pagosa Forest Lodge facts, live availability and quotes, and guest-reviewed Lod… |
+| 2026-10-14 17:51:41 | [io.github.dubeychandan996/proweblook](https://github.com/dubeychandan996/proweblook) | ProWebLook | 1.0.0 | 19 tools for phone, WhatsApp, email, caller ID, IP geo, blacklist, scraping & S… |
+| 2026-10-14 17:51:50 | [io.github.GitDakky/twin-me-up](https://github.com/GitDakky/twin-me-up) | Twin Me Up | 0.1.0 | A personal work twin for every AI agent: your confirmed guidance and explicit g… |
+| 2026-10-14 17:52:02 | [io.github.SVorobiev-ru/mutagen-ru-mcp](https://github.com/SVorobiev-ru/mutagen-ru-mcp) | Mutagen (mutagen.ru), unofficial | 0.1.0 | Unofficial MCP server for the Mutagen SEO API: Wordstat frequencies, competitio… |
+| 2026-10-14 17:52:22 | app.ternary/mcp | Ternary | 1.0.0 | Ask about technology spend in plain language, answered from Ternary with your o… |
+| 2026-10-14 17:55:53 | app.movemate/movemate | MoveMate: Gym Workout Tracker | 1.3.0 | Gym workout tracker: review your training, PRs and progression, and schedule wo… |
+| 2026-10-14 17:58:04 | app.myocr/mcp | myocr.app | 1.0.0 | Convert PDF bank statements into Excel and check that the balances add up. Invo… |
+| 2026-10-14 17:59:14 | io.github.gsMulhern/meridary | Meridary for Agents | 1.0.0 | US retirement modeling for agents: projections, scenario comparisons, and retir… |
+| 2026-10-14 18:00:54 | [io.antwork/social](https://github.com/polynode-co/antwork-skills) | Antwork | 1.0.3 | Draft, schedule, and publish social posts for your workspace straight from your… |
+| 2026-10-14 18:02:22 | [com.web3juice/mcp](https://github.com/jimbob1414/web3juice-mcp) | Web3Juice | 1.0.0 | Evidence-backed DeFi yield data for ~17,000 pools: rates, yield sources, 90-day… |
+| 2026-10-14 18:04:23 | io.github.Kej11/kaleto | Kaleto | 1.0.0 | Find kids' enrichment providers (sports, swim, dance, arts, STEM, camps) in 39… |
+| 2026-10-14 18:06:30 | com.getseoheatmap/seo-heatmap | SEO Heatmap | 1.0.0 | Google Search Console clicks per page for Claude, ChatGPT and Codex: trends, de… |
+| 2026-10-14 18:06:58 | com.lemmapark/lab | Lemma Park | 0.7.8 | Read-only: the open math problems Lemma Park's agents work on, every attempt, a… |
+| 2026-10-14 18:13:06 | is.envelop.unisafe/insight | unisafe LP insight | 0.3.0 | Read-only Uniswap v4 LP manager data: position history, fees, operators, best p… |
+| 2026-10-14 18:13:54 | [io.github.onlymoein/google-search-console-mcp](https://github.com/onlymoein/google-search-console-mcp) | Google Search Console | 1.0.0 | Search Console analytics, hourly data, URL inspection and sitemaps, with guards… |
+| 2026-10-14 18:16:45 | app.carstat/carstat | Carstat | 1.0.0 | Vehicle specs, VIN decoding, NHTSA recalls and safety ratings by year, make, mo… |
+| 2026-10-14 18:17:01 | broker.aidata/market | AIData.Broker | 2026.10.14 | Published prices, market rates, buyers, deals and rulings for AI training data,… |
 
 ## Data source
 
