@@ -9,40 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 12:21 UTC
+## Latest list — 2026-10-14 13:20 UTC
 
-New MCP servers published between 2026-10-14 11:19 UTC and 2026-10-14 12:21 UTC.
+New MCP servers published between 2026-10-14 12:21 UTC and 2026-10-14 13:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-14T12-21-15-592569Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-14T13-20-09-503201Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-14 11:20:16 | [io.github.askads/mcp-yandex-direct](https://github.com/askads/mcp-yandex-direct) | Yandex Direct MCP | 1.5.3 | MCP server for Yandex Direct API v5: manage PPC campaigns, ads, keywords, and s… |
-| 2026-10-14 11:20:44 | [io.github.Albasha0x0/corvus](https://github.com/Albasha0x0/Corvus) | Corvus | 2.0.2 | Reverse engineering of .NET assemblies and native binaries: decompile, search,… |
-| 2026-10-14 11:21:52 | io.github.n0t1fy/notify-sms-georgia | NOTIFY | 0.1.0 | SMS verification codes for Georgia (+995). Try test codes with a free test key,… |
-| 2026-10-14 11:22:02 | tech.coniuncta.regularus/regularus | REGULARUS | 1.0.0 | Fixed prices, document lists and report verification for EU cosmetic safety rep… |
-| 2026-10-14 11:30:38 | com.parkgraph/mcp | Park Graph | 0.1.0 | Find, price and book parking at Park Graph lots: search, quote, hold and sessio… |
-| 2026-10-14 11:37:07 | [io.github.docling-project/docling-rs](https://github.com/docling-project/docling.rs) | docling.rs | 2.22.0 | Documents to Markdown for agents: PDF layout, tables and OCR, Office, HTML, sca… |
-| 2026-10-14 11:40:33 | au.com.wirelesschoices/plan-finder | Wireless Choices Plan Finder | 1.2.29 | Compare Australian mobile, prepaid, mobile broadband and nbn plans listed on Wi… |
-| 2026-10-14 11:40:50 | [com.bisibility/mcp](https://github.com/CorgiCorner/bisibility-mcp) | bisibility | 0.17.0 | Track keyword rankings, research SEO opportunities, and manage bisibility proje… |
-| 2026-10-14 11:42:11 | [io.github.Thrivestack-public/thrivestack-mcp](https://github.com/Thrivestack-public/thrivestack-mcp) | ThriveStack AI Visibility | 1.1.0 | See how AI search engines mention and cite your brand, and get recommendations… |
-| 2026-10-14 11:43:53 | [com.energyincloud/energyincloud](https://github.com/eicsrl/energyincloud-plugin) | EnergyInCloud | 0.1.0 | Ask about your solar and storage plant: production, consumption, battery, savin… |
-| 2026-10-14 11:45:01 | coach.coldcall/call-insights | Cold Call Coach Call Insights | 1.0.0 | Read graded sales call reports, agents and scorecards from Cold Call Coach. |
-| 2026-10-14 11:48:52 | com.mapsharvest/maps-harvest | Maps Harvest | 1.0.0 | Local business data from Google Maps: ratings, reviews, businesses without a we… |
-| 2026-10-14 11:50:33 | app.pouls/sondages | Pouls · sondages présidentielle 2027 | 1.0.0 | Sondages présidentielle 2027 agrégés : moyennes, marges, tendances, duels. |
-| 2026-10-14 11:50:57 | com.vyuhmatrix.drift/vyuh-drift | Vyuh Drift | 1.0.0 | Schedule social posts, then check each one really went live, with a result per… |
-| 2026-10-14 11:51:27 | site.chatgpt.toasty-seal-8877.xynthera-ai/xynthera-ai-prepaid | Xynthera AI — JSON invoice, OpenAPI and… | 2026.10.14 | Signed deterministic checks for supplied JSON invoices, OpenAPI API contracts a… |
-| 2026-10-14 11:57:16 | io.github.GoTolstoy/studio | Tolstoy | 1.2.0 | Create ecommerce images and videos with Tolstoy Studio and manage the media in… |
-| 2026-10-14 11:58:39 | io.consentease/mcp-server |  | 1.4.0 | Manage ConsentEase consent banners and cookie inventories from your coding agen… |
-| 2026-10-14 12:05:32 | de.laborregister/laborregister | Laborregister Deutschland | 1.0.0 | Search directly orderable lab analyses in Germany, with sample types and origin… |
-| 2026-10-14 12:05:46 | online.aihomeservices/home-services | AI Home Services Booking | 0.7.0 | Agent-first booking of home-service contractors in Canada and the US: quotes, a… |
-| 2026-10-14 12:06:35 | io.github.LKennedyShare/irish-used-car-data | Irish Used Car Market Data | 0.3.1 | Irish used-car prices, below-market deals, depreciation, VRT, UK import costs.… |
-| 2026-10-14 12:06:35 | io.github.LKennedyShare/supplier-payment-verifier | Supplier Identity and VAT Verification | 0.2.0 | Verify a supplier's identity and VAT via Irish CRO and EU VIES before paying. P… |
-| 2026-10-14 12:12:33 | [io.github.MattCraftsCode/name-generator](https://github.com/MattCraftsCode/NameIdeaBox) | Name Idea Box | 1.0.0 | Generate fictional names and sample identity profiles for prototypes, QA, demos… |
-| 2026-10-14 12:12:49 | [io.github.eiler2005/slidecraft](https://github.com/eiler2005/slidecraft) | SlideCraft | 0.7.6 | Builds editable PowerPoint, PDF and HTML decks from a deck spec, with fit, sour… |
-| 2026-10-14 12:17:09 | com.alexstokes.api/uk-tender-data |  | 1.0.0 | Search UK Find a Tender notices. 3 free calls/day per IP; paid x402 MCP calls c… |
-| 2026-10-14 12:18:46 | com.getinfrly/infrly | Infrly | 1.0.0 | Read-only access to your Infrly services, deploys, logs, metrics and billing. |
-| 2026-10-14 12:19:48 | app.semantichub/semantichub | SemanticHub | 1.0.0 | Monitor news sources, read clustered articles and generated texts, manage goals… |
+| 2026-10-14 12:21:43 | io.github.crashedfox/minairal | Minairal | 1.0.0 | Minairal drinking water systems in Thailand: company facts, stores, machine adv… |
+| 2026-10-14 12:26:10 | [ai.screenweaver/screenweaver](https://github.com/OUTERFRAME-STUDIO/screenweaver-mcp) | ScreenWeaver | 1.0.0 | Screenplay and storyboard in your AI assistant: import scripts, edit scenes, bu… |
+| 2026-10-14 12:28:08 | [io.github.biosshot/easyeda-copilot](https://github.com/biosshot/easyeda-copilot) | EasyEDA Copilot | 1.3.1 | AI tools for EasyEDA Pro schematics, PCB placement and routing, SPICE simulatio… |
+| 2026-10-14 12:28:50 | com.graziechef/kitchen-tools | GrazieChef Kitchen Tools | 1.0.0 | Restaurant math for AI assistants: food cost, menu price with VAT, recipe scali… |
+| 2026-10-14 12:38:27 | com.ahsuite/mcp | Ahsuite | 1.0.0 | Build and run client portals for your agency: pages, tasks, forms, file request… |
+| 2026-10-14 12:41:00 | [se.cliphou/templates](https://github.com/sunmer/voodoo) | cliphou.se motion graphics templates | 1.0.0 | Search free motion graphics video templates, read their edit specs, and build v… |
+| 2026-10-14 12:44:42 | com.routinerun/routine-run | Routine Run | 1.0.0 | Read, start and move the routines on your iPhone; suggest changes you approve o… |
+| 2026-10-14 12:48:50 | [com.nameideabox/name-generator](https://github.com/MattCraftsCode/NameIdeaBox) | Name Idea Box | 1.0.0 | Generate fictional names and sample identity profiles for prototypes, QA, demos… |
+| 2026-10-14 12:48:54 | [io.github.leovenom/buttonwall](https://github.com/leovenom/buttonwall-mcp) | The Button Wall | 0.1.1 | Rent a clickable button on a million-pixel wall: find free space, get a quote,… |
+| 2026-10-14 12:52:15 | com.missyera/missyera | Miss Yera: IA para empresas | 1.0.0 | Consultoría de IA para empresas en Perú y LATAM: guías, servicios con precio y… |
+| 2026-10-14 12:55:19 | [com.allratestoday/central-bank-mcp](https://github.com/AllRates-Today/central-bank-mcp) | Central Bank Rates (AllRatesToday) | 0.3.1 | Official central-bank & tax-authority rates from 100+ sources. No API key neede… |
+| 2026-10-14 12:56:06 | [io.github.edtool79-collab/ats-job-pulse](https://github.com/edtool79-collab/ats-job-pulse) | ATS Job Pulse: Company Jobs & Hiring Si… | 1.2.0 | Open jobs and hiring changes for any company, from its domain. Runs on Apify. |
+| 2026-10-14 12:56:08 | io.github.edtool79-collab/domain-seo-overview | Domain SEO Overview: Traffic, Keywords… | 1.0.0 | Estimated Google organic traffic, ranking keywords and competitors of any websi… |
+| 2026-10-14 12:56:10 | io.github.edtool79-collab/google-jobs-scraper | Google Jobs Scraper: Jobs, Salaries & A… | 1.0.0 | Google Jobs listings for any role and city: company, salary, job type, apply li… |
+| 2026-10-14 12:56:12 | io.github.edtool79-collab/keyword-search-volume | Keyword Search Volume & Keyword Ideas | 1.0.0 | Google keyword search volume, CPC, difficulty, intent and keyword ideas. Runs o… |
+| 2026-10-14 12:56:14 | io.github.edtool79-collab/youtube-transcript-scraper | YouTube Transcript Scraper | 1.0.0 | Transcripts of YouTube videos and Shorts in bulk, with timestamps. Runs on Apif… |
+| 2026-10-14 12:58:09 | [com.mambabuilt/mcp-job-change-tracker](https://github.com/mambalabsdev/mcp-job-change-tracker) |  | 1.0.0 | Track contact job changes: current employer, start month, role history, and lef… |
+| 2026-10-14 12:58:11 | [com.mambabuilt/mcp-new-hire-finder](https://github.com/mambalabsdev/mcp-new-hire-finder) |  | 1.0.0 | Find people who started a matching role at a company inside a lookback window. |
+| 2026-10-14 12:58:13 | [com.mambabuilt/mcp-career-change-signal-engine](https://github.com/mambalabsdev/mcp-career-change-signal-engine) |  | 1.0.0 | Watch your contacts and get back only job changes: leavers, landings, replaceme… |
+| 2026-10-14 13:03:23 | app.govir/govir | Govir | 1.0.0 | Threads analytics and posts in your Govir workspace: read stats, draft, schedul… |
+| 2026-10-14 13:05:47 | [io.github.Alex-Dev-Web-C-DE/watch-engine-mcp](https://github.com/Alex-Dev-Web-C-DE/watch-engine-mcp) | Watch Engine | 1.0.0 | Currency rates, VAT rates, and tariff rates via Watch Engine. 203 monitors. |
+| 2026-10-14 13:08:22 | [to.xpost/xpost](https://github.com/xpost-to/xpost-agent) |  | 0.2.1 | Post all your social media with your AI agent — 9 networks, from Claude, ChatGP… |
+| 2026-10-14 13:08:35 | com.nudgehost/file-hosting | NudgeHost | 1.0.1 | File hosting for agents. Upload any file, get a public link in seconds. |
+| 2026-10-14 13:08:36 | com.steamcozy/steamcozy | SteamCozy | 1.1.0 | Steam game data with dates: review score and consensus, price lows, tags, new r… |
+| 2026-10-14 13:11:59 | [io.github.Djangode/icare-mcp](https://github.com/Djangode/icare-mcp) | ICARE live esports predictions | 0.1.0 | AI agents predict live esports games settled by an AI referee, with gasless x40… |
+| 2026-10-14 13:16:53 | [io.github.dvcoolarun/docuqueue-mcp](https://github.com/docuqueue/docuqueue-mcp) | DocuQueue MCP | 0.1.3 | Generate PDFs and fill PDF forms via AI chat. Works with Claude, ChatGPT, Curso… |
+| 2026-10-14 13:18:15 | dev.endform/mcp | Endform | 0.81.5 | Find failing, flaky, and slow Playwright tests on Endform and keep your suite h… |
 
 ## Data source
 
