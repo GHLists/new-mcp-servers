@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-10-14T07:23:11.756943Z,io.github.matanemaboroshi/japan-business-data,Japan Business Data,0.1.0,,streamable-http,"Normalize and romanize Japanese addresses, look up postal codes, count Japanese business days."
+2026-10-14T07:23:32.854293Z,io.github.abap2UI5/mcp-server,abap2UI5,1.0.0,https://github.com/abap2UI5/mcp-server,,"abap2UI5 dev loop for AI agents: validate views, screenshot, deploy and run apps - no SAP system"
+2026-10-14T07:25:22.572094Z,io.github.leo-runningcoach/coachleo,Leo Training,1.1.0,https://github.com/leo-runningcoach/coachleo,streamable-http,"Running, trail and triathlon coach. Reads Strava, Garmin, COROS, Suunto, Polar. Adapts to your feel."
+2026-10-14T07:27:09.324669Z,com.reelsongfinder/reelsongfinder,ReelSongFinder,1.0.0,,streamable-http,"Free ISRC lookup and public titles for Reels, TikTok, Shorts, and X links."
+2026-10-14T07:27:50.091266Z,ai.stackrates/vps-prices,StackRates VPS prices,1.0.0,,streamable-http,"VPS prices read daily from providers' own pricing pages and APIs: cheapest by size, place or app."
+2026-10-14T07:31:49.97267Z,com.17nas/network-tools,17NAS Network Tools,1.0.1,https://github.com/AmigaMeow/17nas-mcp,,"Free network diagnostic tools: IP info, DNS lookup, IPv6 check. No API key."
+2026-10-14T07:32:31.397584Z,io.github.JiangShan118/3d-texture-toolkit,,0.1.1,https://github.com/JiangShan118/3d-texture-toolkit-mcp,,Extract embedded PBR texture maps from local GLB files.
+2026-10-14T07:35:40.069106Z,com.cafeboon/artigram,ArtiGram,1.0.0,,streamable-http,"Post, update and search AI-made artifacts on ArtiGram, a Reddit-style community for artifacts."
+2026-10-14T07:35:51.682821Z,com.blend-ai/mcp,Blend MCP,1.0.0,,streamable-http,"Connect Claude, ChatGPT & Cursor to Meta, Google, TikTok, Microsoft, Amazon, LinkedIn, Pinterest ads"
+2026-10-14T07:38:54.899634Z,com.einvoicechecker/einvoice,E-Invoice Checker,1.0.0,,streamable-http,"Validate, parse and render EU e-invoices: XRechnung, ZUGFeRD, Factur-X, Peppol BIS 3.0, KSeF."
+2026-10-14T07:39:35.995518Z,app.vercel.rugradar-dun/rugradar-mcp,RugRadar MCP,1.0.0,,streamable-http,"Read-only honeypot, holder and liquidity scam checks for tokens across 64 networks."
+2026-10-14T07:46:55.104699Z,io.github.cshum/imagor-mcp,imagor-mcp,0.5.0,https://github.com/cshum/imagor-mcp,,"Build and verify imagor image URLs, and render layouts at any canvas size, from an MCP client."
+2026-10-14T07:52:33.932789Z,com.apixstar/reddit,Apixstar Reddit,1.0.0,,streamable-http,"Search public Reddit posts, browse subreddit feeds, and read posts, comments, and profiles."
+2026-10-14T07:53:43.067875Z,om.decree/legislation,Decree — Omani Legislation (EN + AR),2.0.0,,streamable-http,"Search, read and cite Omani legislation in English and Arabic, with version and currency guidance."
+2026-10-14T07:54:16.706263Z,io.github.vulnersCom/vulners-mcp,,1.15.0,https://github.com/vulnersCom/vulners-mcp,streamable-http,MCP server for the Vulners.com API
+2026-10-14T07:59:21.376787Z,net.wasmarcade/wasm-arcade,WASM Arcade,1.0.0,,streamable-http,Search the WASM Arcade game catalogue and return game links and availability.
+2026-10-14T08:05:00.075901Z,io.github.Sanoy24/brownfield-cartographer,Brownfield Cartographer,0.8.0,https://github.com/Sanoy24/the-brownfield-cartographer,,"Local impact and table, column and Airflow lineage for SQL, dbt, Python and TypeScript repos."
+2026-10-14T08:13:29.536515Z,io.github.Katta041/asitis-mcp,AsItIs,0.2.2,https://github.com/Katta041/asitis-agent-tools,,"Read-only MCP server for markdown and agent steering files: read, outline, lint, context budget."
+2026-10-14T08:13:35.411376Z,dev.deskfeed/deskfeed-api,Agent Desk API (deskfeed.dev),0.3.0,,streamable-http,Crypto market context for agents: futures state + trusted events. x402 pay-per-call on Base.
+2026-10-14T08:16:15.406927Z,com.kari/catalog,kari catalog,1.0.0,,streamable-http,"kari shoe and accessory stores in Russia, Kazakhstan, Belarus: search, prices, stores, size stock"
+2026-10-14T08:16:28.923839Z,io.github.zachhhhh/agentatlas,AgentAtlas,1.0.1,,streamable-http,"Sourced setup answers for coding agents, MCP servers, plugins, evals and pricing."
+2026-10-14T08:17:13.321118Z,ai.transpic/transpic,Transpic Image Translator,1.0.0,https://github.com/lickfeng88888/transpic.ai,streamable-http,Translate text inside images while preserving layout; OCR extraction. Free API key.
