@@ -9,33 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 02:19 UTC
+## Latest list — 2026-10-14 03:21 UTC
 
-New MCP servers published between 2026-10-14 01:20 UTC and 2026-10-14 02:19 UTC.
+New MCP servers published between 2026-10-14 02:19 UTC and 2026-10-14 03:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-14T02-19-36-529305Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-14T03-21-40-823027Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-14 01:22:31 | art.fluxaipro/fluxai | Flux AI | 1.0.0 | Generate images, videos and music with model discovery, cost estimates and asyn… |
-| 2026-10-14 01:32:41 | [io.github.ArmorNGlory/armornglory-mcp-server](https://github.com/ArmorNGlory/armornglory-mcp-server) | ArmorNGlory: Christian Streetwear & Fai… | 1.1.0 | Shop Christian streetwear: scripture hats, Bible verse tees, hoodies, foam clog… |
-| 2026-10-14 01:38:24 | com.govdir/directory | GovDir | 1.0.0 | Official US government offices and pages for property, land and GIS questions,… |
-| 2026-10-14 01:39:21 | com.clegaragedoors/garage-door-decision-kit | Garage Door Decision Kit by CLE Garage… | 0.1.0 | Check opener quote scope, compare spring usage, and plan garage-door winter pre… |
-| 2026-10-14 01:40:45 | online.waply/public | Waply | 1.0.0 | Read-only info on Waply, the official WhatsApp API add-on for Kommo: guides, do… |
-| 2026-10-14 01:41:02 | com.eatloyalist/reservations | Loyalist Reservations | 1.0.0 | Book tables at restaurants on the Loyalist network. No login; read availability… |
-| 2026-10-14 01:42:25 | app.aveco/aveco | Aveco | 1.0.0 | Inspect outreach delivery, campaigns, leads and pipeline; prepare sequence draf… |
-| 2026-10-14 01:46:39 | com.sweetvaluelab/valuation | SweetValueLab | 1.0.0 | Free valuation models for S&P 500 and Nasdaq-100 stocks, Treasury yields and ma… |
-| 2026-10-14 01:50:55 | [site.chatgpt.connect675501.aidg-answer-feed/answer-feed](https://github.com/micaela2/aidg-answer-feed-plugin) | AIDG Answer Feed | 1.1.0 | Validate authored product facts and export reviewed Merchant Center supplementa… |
-| 2026-10-14 01:52:36 | com.thesiftguide/sift-tools |  | 1.0.0 | Minecraft The Sift portal tools: coordinate converter, materials budget, and ig… |
-| 2026-10-14 01:53:02 | com.primesettlementrefund/prime-refund-tools |  | 1.0.0 | Amazon Prime refund tools: eligibility check, payment amount estimator, and cla… |
-| 2026-10-14 02:07:16 | us.govtube/govtube | GovTube | 0.1.0 | Search what U.S. officials said on camera, with timestamps and citations. Not a… |
-| 2026-10-14 02:12:12 | [ai.youtube-transcript/youtube-transcript](https://github.com/zxl777/youtube-transcript-mcp) | YouTube Transcript AI | 1.1.0 | Fetch the full transcript of any YouTube video as text, in any caption language… |
-| 2026-10-14 02:13:52 | com.citeladder/citeladder | CiteLadder | 1.0.0 | Read-only AI search visibility data: brand mentions, cited sources, site health… |
-| 2026-10-14 02:14:18 | [ai.membase/membase](https://github.com/unibaseio/membase) |  | 1.0.0 | Long-term memory for you and your AIs: search memories, read the profile, add f… |
-| 2026-10-14 02:16:42 | [io.github.muaviamohammed/mizan](https://github.com/muaviamohammed/mizan-mcp) | MIZAN · Proof of performance | 1.0.0 | Verify or mint zero-knowledge track-record credentials (VTR-1) without revealin… |
-| 2026-10-14 02:16:43 | [io.github.yarrasys/kdbx](https://github.com/yarrasys/kdbx) | kdbx | 0.3.2 | Read-only access to secrets in a local KeePassXC vault. Runs commands with them… |
-| 2026-10-14 02:19:22 | [io.github.fbsobreira/gotron-mcp](https://github.com/fbsobreira/gotron-mcp) | GoTRON MCP | 0.4.1 | TRON blockchain: accounts, TRC20 tokens, staking, contracts, resources and tran… |
-| 2026-10-14 02:19:32 | com.eatloyalist/restaurant-reservations | Loyalist Reservations | 1.0.0 | Book tables at restaurants on the Loyalist network. No login; read availability… |
+| 2026-10-14 02:22:27 | [io.github.chinlee2200-dotcom/bridgecore](https://github.com/chinlee2200-dotcom/Laboratory-) |  | 0.1.0 | Plain words in, automation out: n8n recipes, trigger+action plans, importable n… |
+| 2026-10-14 02:22:41 | [io.github.atomeam/void](https://github.com/atomeam/void-loop) | Void by A-to-Mind | 1.0.0 | Code review, moon phases and meteor showers from Void, the stage where anything… |
+| 2026-10-14 02:24:02 | tw.cityatlas/cityatlas | City Atlas 城市圖譜 | 0.3.1 | Greater Hsinchu, Taiwan open data on a 125 m grid: crashes, buses, schools, flo… |
+| 2026-10-14 02:24:33 | lat.audito/agent-site-audit | agent-site-audit - website audits for a… | 1.0.0 | Paid website audits for agents: flat JSON, HTML report, deep audit. USDC via x4… |
+| 2026-10-14 02:26:54 | org.cotonoha-leaf/leaf | コトノハ-leaf- | 1.10.0 | 縦書き小説エディタ「コトノハ-leaf-」の作品（本文・用語集・プロット・世界観設定）を、AI から読み書きする MCP サーバー |
+| 2026-10-14 02:34:29 | com.tvc-mall/customer-mcp | TVCMall Customer MCP | 0.1.0 | Read-only TVCMall customer queries: products, orders, tracking, shipping, point… |
+| 2026-10-14 02:35:29 | dev.enrichr/web-capture | Enrichr Web Capture | 1.0.0 | See the rendered web: design tokens, fonts, animation timings, WebGL shaders an… |
+| 2026-10-14 02:38:46 | [io.github.nexscope/ecommerce](https://github.com/nexscope-ai/nexscope-ecommerce-api) | Nexscope | 1.0.0 | Ecommerce marketplace data MCP for Amazon, TikTok Shop, Walmart, Shopee, Temu a… |
+| 2026-10-14 02:50:47 | com.bookthetee/golf | BookTheTee Golf Tee Times | 0.2.0 | Find public golf courses near NYC and get official tee-time booking links. |
+| 2026-10-14 02:51:33 | jp.yomitasu/orecen-com | XRメモランダム | 1.0.1 | XR（AR/VR/MR）に関する情報をメインに扱うサイトです。（orecen.com の内容を検索して答える。ヨミタス経由） |
+| 2026-10-14 02:51:57 | io.ohsnap/mcp | OhSnap uptime monitoring | 1.0.0 | Check if a website is down, add uptime monitors, read outage history and send t… |
+| 2026-10-14 02:53:21 | com.huiyaolaser.www/capacity-calculator | Huiyao Capacity Calculator | 1.0.1 | Estimate theoretical and OEE-adjusted annual battery line capacity. |
+| 2026-10-14 02:55:10 | [io.github.Inistate/inistate-mcp](https://github.com/inistate/inistate-mcp) | Inistate MCP | 1.1.4 | MCP server for the Inistate platform: module discovery, entry management, and a… |
+| 2026-10-14 02:57:22 | ca.shoregrade/find | ShoreGrade | 1.0.0 | Find well-reviewed local businesses in Georgian Bay and Simcoe County, Ontario. |
+| 2026-10-14 02:58:15 | [io.github.gabrielmahia/sifa-mcp](https://github.com/gabrielmahia/sifa-mcp) |  | 0.1.5 | ⭐ sifa-mcp — Portable Reputation & Skills Passport MCP Server |
+| 2026-10-14 02:58:15 | [io.github.gabrielmahia/soko-mcp](https://github.com/gabrielmahia/soko-mcp) |  | 0.1.5 | 📊 soko-mcp — Kenya Commodity Price Intelligence MCP Server |
+| 2026-10-14 02:58:23 | [io.github.gabrielmahia/mkopo-mcp](https://github.com/gabrielmahia/mkopo-mcp) |  | 0.1.5 | 💳 mkopo-mcp — Alternative Credit Scoring MCP Server |
+| 2026-10-14 02:59:56 | [io.github.RuihongY/verdi-bridge](https://github.com/RuihongY/verdi_bridge) | Verdi Bridge | 0.3.1 | Inspect waveforms and navigate RTL in live Synopsys Verdi. Requires a licensed… |
+| 2026-10-14 03:01:45 | [io.github.mateuszingano/airlock-rls-mcp](https://github.com/mateuszingano/airlock-rls-mcp) | Airlock RLS | 0.1.1 | Scan a deployed site for an exposed Supabase service_role key and audit Row Lev… |
+| 2026-10-14 03:03:29 | com.botrecipe/recipes | Bot Recipes | 1.0.0 | Search and read 205 real AI bot setups: steps, what worked, what failed. Full p… |
+| 2026-10-14 03:04:26 | [io.github.barneywohl/hugging-bay](https://github.com/barneywohl/hugging-bay) | Hugging Bay | 0.1.6 | Open model files with recorded SHA-256 and licence labels. Ask for what's missi… |
+| 2026-10-14 03:05:07 | [io.github.jasp402/hypercodemotion-mcp](https://github.com/jasp402/HyperCodeMotion-MCP) | HyperCodeMotion MCP | 0.2.0 | Validate HyperCodeMotion JSON and discover supported layers, properties, and ef… |
+| 2026-10-14 03:05:12 | [io.github.tedin7/subtask](https://github.com/tedin7/subtask) | subtask | 0.2.3 | Background sub-agents for Claude Code, Codex, Kimi and OpenCode, over MCP, with… |
+| 2026-10-14 03:05:49 | [ai.kavel/kavel-mcp](https://github.com/hanshs474/kavel-mcp) |  | 0.2.0 | Discover Kavel's AI photo/video generators, get tuned prompts, and open the rig… |
+| 2026-10-14 03:09:51 | com.defoorreport/news | DeFoor Report | 1.0.0 | AI and tech news ranked hourly, with summaries, publisher credit, saved stories… |
+| 2026-10-14 03:13:55 | [io.github.leo007-htun/aon](https://github.com/leo007-htun/AON) | AON | 1.0.2 | Self-hosted, uncensored AI agent: ask it tasks, search its long-term memory and… |
+| 2026-10-14 03:16:10 | [io.github.ParserBee/parserbee-mcp](https://github.com/ParserBee/parserbee-mcp) |  | 0.1.1 | Extract structured data from invoices, receipts and other documents with Parser… |
+| 2026-10-14 03:20:24 | [io.github.darrenjrobinson/hibp](https://github.com/darrenjrobinson/HIBP-MCP-Server) |  | 1.1.0 | A Model Context Protocol (MCP) server for the Have I Been Pwned (HIBP) API |
 
 ## Data source
 

@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-10-14T02:22:27.197431Z,io.github.chinlee2200-dotcom/bridgecore,,0.1.0,https://github.com/chinlee2200-dotcom/Laboratory-,streamable-http,"Plain words in, automation out: n8n recipes, trigger+action plans, importable n8n workflow JSON."
+2026-10-14T02:22:41.24505Z,io.github.atomeam/void,Void by A-to-Mind,1.0.0,https://github.com/atomeam/void-loop,streamable-http,"Code review, moon phases and meteor showers from Void, the stage where anything you ask appears."
+2026-10-14T02:24:02.503647Z,tw.cityatlas/cityatlas,City Atlas 城市圖譜,0.3.1,,streamable-http,"Greater Hsinchu, Taiwan open data on a 125 m grid: crashes, buses, schools, flood. Read-only."
+2026-10-14T02:24:33.401657Z,lat.audito/agent-site-audit,agent-site-audit - website audits for agents,1.0.0,,streamable-http,"Paid website audits for agents: flat JSON, HTML report, deep audit. USDC via x402."
+2026-10-14T02:26:54.822535Z,org.cotonoha-leaf/leaf,コトノハ-leaf-,1.10.0,,streamable-http,縦書き小説エディタ「コトノハ-leaf-」の作品（本文・用語集・プロット・世界観設定）を、AI から読み書きする MCP サーバー
+2026-10-14T02:34:29.97349Z,com.tvc-mall/customer-mcp,TVCMall Customer MCP,0.1.0,,streamable-http,"Read-only TVCMall customer queries: products, orders, tracking, shipping, points and balance."
+2026-10-14T02:35:29.249371Z,dev.enrichr/web-capture,Enrichr Web Capture,1.0.0,,streamable-http,"See the rendered web: design tokens, fonts, animation timings, WebGL shaders and 3D from any URL."
+2026-10-14T02:38:46.955374Z,io.github.nexscope/ecommerce,Nexscope,1.0.0,https://github.com/nexscope-ai/nexscope-ecommerce-api,streamable-http,"Ecommerce marketplace data MCP for Amazon, TikTok Shop, Walmart, Shopee, Temu and 1688."
+2026-10-14T02:50:47.063911Z,com.bookthetee/golf,BookTheTee Golf Tee Times,0.2.0,,streamable-http,Find public golf courses near NYC and get official tee-time booking links.
+2026-10-14T02:51:33.195772Z,jp.yomitasu/orecen-com,XRメモランダム,1.0.1,,streamable-http,XR（AR/VR/MR）に関する情報をメインに扱うサイトです。（orecen.com の内容を検索して答える。ヨミタス経由）
+2026-10-14T02:51:57.567051Z,io.ohsnap/mcp,OhSnap uptime monitoring,1.0.0,,streamable-http,"Check if a website is down, add uptime monitors, read outage history and send test alerts."
+2026-10-14T02:53:21.653448Z,com.huiyaolaser.www/capacity-calculator,Huiyao Capacity Calculator,1.0.1,,streamable-http,Estimate theoretical and OEE-adjusted annual battery line capacity.
+2026-10-14T02:55:10.366918Z,io.github.Inistate/inistate-mcp,Inistate MCP,1.1.4,https://github.com/inistate/inistate-mcp,streamable-http,"MCP server for the Inistate platform: module discovery, entry management, and activity submission."
+2026-10-14T02:57:22.570528Z,ca.shoregrade/find,ShoreGrade,1.0.0,,streamable-http,"Find well-reviewed local businesses in Georgian Bay and Simcoe County, Ontario."
+2026-10-14T02:58:15.381796Z,io.github.gabrielmahia/sifa-mcp,,0.1.5,https://github.com/gabrielmahia/sifa-mcp,,⭐ sifa-mcp — Portable Reputation & Skills Passport MCP Server
+2026-10-14T02:58:15.881883Z,io.github.gabrielmahia/soko-mcp,,0.1.5,https://github.com/gabrielmahia/soko-mcp,,📊 soko-mcp — Kenya Commodity Price Intelligence MCP Server
+2026-10-14T02:58:23.910085Z,io.github.gabrielmahia/mkopo-mcp,,0.1.5,https://github.com/gabrielmahia/mkopo-mcp,,💳 mkopo-mcp — Alternative Credit Scoring MCP Server
+2026-10-14T02:59:56.862891Z,io.github.RuihongY/verdi-bridge,Verdi Bridge,0.3.1,https://github.com/RuihongY/verdi_bridge,,Inspect waveforms and navigate RTL in live Synopsys Verdi. Requires a licensed Verdi installation.
+2026-10-14T03:01:45.246518Z,io.github.mateuszingano/airlock-rls-mcp,Airlock RLS,0.1.1,https://github.com/mateuszingano/airlock-rls-mcp,,Scan a deployed site for an exposed Supabase service_role key and audit Row Level Security.
+2026-10-14T03:03:29.753656Z,com.botrecipe/recipes,Bot Recipes,1.0.0,,streamable-http,"Search and read 205 real AI bot setups: steps, what worked, what failed. Full pack $5."
+2026-10-14T03:04:26.282502Z,io.github.barneywohl/hugging-bay,Hugging Bay,0.1.6,https://github.com/barneywohl/hugging-bay,streamable-http,Open model files with recorded SHA-256 and licence labels. Ask for what's missing.
+2026-10-14T03:05:07.665402Z,io.github.jasp402/hypercodemotion-mcp,HyperCodeMotion MCP,0.2.0,https://github.com/jasp402/HyperCodeMotion-MCP,streamable-http,"Validate HyperCodeMotion JSON and discover supported layers, properties, and effects."
+2026-10-14T03:05:12.907341Z,io.github.tedin7/subtask,subtask,0.2.3,https://github.com/tedin7/subtask,,"Background sub-agents for Claude Code, Codex, Kimi and OpenCode, over MCP, with a spend cap."
+2026-10-14T03:05:49.054568Z,ai.kavel/kavel-mcp,,0.2.0,https://github.com/hanshs474/kavel-mcp,streamable-http,"Discover Kavel's AI photo/video generators, get tuned prompts, and open the right tool on kavel.ai."
+2026-10-14T03:09:51.34894Z,com.defoorreport/news,DeFoor Report,1.0.0,,streamable-http,"AI and tech news ranked hourly, with summaries, publisher credit, saved stories and a personal feed."
+2026-10-14T03:13:55.498826Z,io.github.leo007-htun/aon,AON,1.0.2,https://github.com/leo007-htun/AON,,"Self-hosted, uncensored AI agent: ask it tasks, search its long-term memory and your documents."
+2026-10-14T03:16:10.968098Z,io.github.ParserBee/parserbee-mcp,,0.1.1,https://github.com/ParserBee/parserbee-mcp,,"Extract structured data from invoices, receipts and other documents with ParserBee."
+2026-10-14T03:20:24.122768Z,io.github.darrenjrobinson/hibp,,1.1.0,https://github.com/darrenjrobinson/HIBP-MCP-Server,,A Model Context Protocol (MCP) server for the Have I Been Pwned (HIBP) API
