@@ -1,0 +1,34 @@
+created_at,server,title,version,repository,transports,description
+2026-10-14T22:23:18.605627Z,com.baseofagi/news,Base of AGI,1.0.0,,streamable-http,"AI news in TR/EN/ES/RU, a daily stack brief and a verified MCP/plugin/skill catalog. Read-only."
+2026-10-14T22:24:52.119629Z,io.github.Orphograph/orphograph,Orphograph,0.1.2,https://github.com/Orphograph/Orphograph,,Anchor a file's SHA-256 fingerprint to Bitcoin. The file never leaves the device.
+2026-10-14T22:26:59.144467Z,app.genmc/genmc,genMC – AI Minecraft studio,1.0.0,,streamable-http,"Minecraft builds and skins made by your AI agent, live in your browser tab. Export .schem."
+2026-10-14T22:32:07.077801Z,ai.aviado/health,Aviado AI,0.3.0,https://github.com/kipmcc/aviado-mcp,streamable-http,"Cited supplement evidence, biomarker effects, interaction checks and brand quality"
+2026-10-14T22:34:39.659148Z,io.github.mycelium-being/agent-account-index,Agent Account Index,2026-10-12,,streamable-http,"Can an AI agent hold an account at a service? Verdict, owner of record, quoted terms clause."
+2026-10-14T22:38:42.96274Z,ai.hivehall/shared-research,HiveHall,0.9.0,,streamable-http,"Shared research, saved evidence, independent reviews and open tasks for AI agents."
+2026-10-14T22:40:29.491647Z,io.github.Thorarinsson22/smart-post-studio,Smart Post Studio,1.0.0,https://github.com/Thorarinsson22/smart-post-studio-mcp,streamable-http,"Read, draft and schedule social media posts to 8 platforms. No post-now tool by design."
+2026-10-14T22:42:28.645146Z,io.github.mohammad-emad-dev/diagrams-mcp-server,Diagrams MCP Server,0.8.0,https://github.com/mohammad-emad-dev/diagrams-mcp-server,,Local-first MCP server for PlantUML and Mermaid diagrams with drift detection.
+2026-10-14T22:43:50.490158Z,io.github.dokaNc/illugen-mcp,IlluGen,0.1.0,https://github.com/dokaNc/illugen-mcp,,"Build, edit and render JangaFX IlluGen node graphs (textures, VFX) from your AI agent."
+2026-10-14T22:53:39.535323Z,io.github.fineprintcorp/fineprint,Fineprint,1.0.0,https://github.com/fineprintcorp/fineprint-skill,,"Scan terms of service for risk. Returns 0-100 score, verdict, agent-friendliness, verbatim quotes."
+2026-10-14T22:54:05.897678Z,io.github.ehsanghaffar/ganjoor-mcp-server,,0.1.0,https://github.com/ganjoor/ganjoor-mcp-server,,MCP server for the Ganjoor (گنجور) Persian classical poetry API at https://ganjoor.net
+2026-10-14T22:54:45.593652Z,io.github.ip2k/vaultwarden-drop-slot-mcp,Vaultwarden Drop Slot,0.1.0,https://github.com/ip2k/vaultwarden-drop-slot-mcp,,"Create-only, age-encrypted deposits of new logins and notes into Vaultwarden, without vault reads."
+2026-10-14T23:02:17.167825Z,com.owlcad/mcp,OwlCAD,1.0.1,https://github.com/Spare-Matter/owlcad-plugin,streamable-http,"Parametric 3D CAD for AI agents: build print-ready parts, check them, export STL, 3MF or STEP."
+2026-10-14T23:02:38.979488Z,com.tirokdo/gift-ideas,Tirokdo - Idées cadeaux et Secret Santa,0.4.0,,streamable-http,"Idées cadeaux et Secret Santa Tirokdo : tirages, lettres au Père Noël, suivi des tirages organisés"
+2026-10-14T23:04:13.09912Z,ai.dibri/dibri,Dibri,1.0.0,,streamable-http,"Verified answers for AI agents: only from approved documents, with sources, or a refusal."
+2026-10-14T23:06:53.091331Z,io.github.tidydata-dev/tidydata,TidyData Tools,1.0.0,https://github.com/tidydata-dev/tidydata-mcp,streamable-http,"Holidays, business days, currency, time zones, DNS/WHOIS, web page checks, geodata and text tools."
+2026-10-14T23:09:18.07269Z,com.pinafly/uat,Pinafly UAT,1.1.0,,streamable-http,Your agent writes a UAT. You walk it and pin problems. It reads and fixes them. You verify.
+2026-10-14T23:13:03.860641Z,io.github.blakeplock/i2idl-glossary,I2IDL Glossary of Digital Learning,1.0.0,https://github.com/blakeplock/i2idl-linked-data,streamable-http,"Public read-only MCP access to digital learning concepts, semantic relationships, and citations."
+2026-10-14T23:14:15.56995Z,uk.co.landlordlookout/mtd,Landlord Lookout: Making Tax Digital,1.0.0,,streamable-http,"UK Making Tax Digital for Income Tax: who must use it and when, software that fits, deadlines."
+2026-10-14T23:15:54.655148Z,io.github.OlsOls4/calkit,CalKit,1.1.0,https://github.com/OlsOls4/webkit-api,streamable-http,"Public holidays for 150+ countries, business-day maths and timezone lookup"
+2026-10-14T23:15:55.039356Z,io.github.OlsOls4/dockit,DocKit,1.1.0,https://github.com/OlsOls4/webkit-api,streamable-http,Extract text and metadata from PDFs; convert Markdown or text to PDF
+2026-10-14T23:15:55.201912Z,io.github.OlsOls4/domainkit,DomainKit,1.1.0,https://github.com/OlsOls4/webkit-api,streamable-http,"DNS records, SSL certificate, WHOIS/RDAP and website tech scan for any domain"
+2026-10-14T23:15:55.384688Z,io.github.OlsOls4/fraudkit,FraudKit,1.1.0,https://github.com/OlsOls4/webkit-api,streamable-http,"Fraud risk score for signups and orders from email, IP, phone and user-agent"
+2026-10-14T23:15:55.592223Z,io.github.OlsOls4/geoip,GeoIP,1.1.0,https://github.com/OlsOls4/webkit-api,streamable-http,"IP geolocation: country, continent, ASN and ISP lookup"
+2026-10-14T23:15:55.752913Z,io.github.OlsOls4/imagekit,ImageKit,1.1.0,https://github.com/OlsOls4/webkit-api,streamable-http,"Resize, convert to WebP, compress, crop, rotate and strip EXIF from images"
+2026-10-14T23:15:55.89409Z,io.github.OlsOls4/llmkit,LLMKit,1.1.0,https://github.com/OlsOls4/webkit-api,streamable-http,"Token counting, RAG chunking, truncation, HTML to Markdown and JSON repair"
+2026-10-14T23:15:56.060396Z,io.github.OlsOls4/phonekit,PhoneKit,1.1.0,https://github.com/OlsOls4/webkit-api,streamable-http,"Phone number validation, formatting, carrier, line type and timezone"
+2026-10-14T23:15:56.394206Z,io.github.OlsOls4/qrkit,QRKit,1.1.0,https://github.com/OlsOls4/webkit-api,streamable-http,"Generate QR codes (URL, WiFi, vCard) and barcodes as PNG/SVG"
+2026-10-14T23:15:56.545316Z,io.github.OlsOls4/textkit,TextKit,1.1.0,https://github.com/OlsOls4/webkit-api,streamable-http,"Sentiment, language detection, readability, keywords, summaries and profanity filtering"
+2026-10-14T23:15:56.692394Z,io.github.OlsOls4/ukpostcode,UK PostcodeKit,1.1.0,https://github.com/OlsOls4/webkit-api,streamable-http,"UK postcode lookup, nearest postcodes, autocomplete and distance (OS open data)"
+2026-10-14T23:15:56.867262Z,io.github.OlsOls4/validkit,ValidKit,1.1.0,https://github.com/OlsOls4/webkit-api,streamable-http,"Validate IBAN, EU VAT, card numbers, ISBN, BIC, EAN and postcodes"
+2026-10-14T23:15:57.079581Z,io.github.OlsOls4/webkit,WebKit,1.1.0,https://github.com/OlsOls4/webkit-api,streamable-http,"Email validation, link previews and article-to-Markdown extraction for AI agents"
+2026-10-14T23:18:37.329185Z,net.ucai/abs,ABS · AI Business System,1.0.0,https://github.com/hypergraphdev/abs-skills,streamable-http,"Lean operations knowledge base built on DBS: cited answers, tool cards, plans and diagnoses."
