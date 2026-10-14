@@ -9,68 +9,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 05:20 UTC
+## Latest list — 2026-10-14 06:20 UTC
 
-New MCP servers published between 2026-10-14 04:19 UTC and 2026-10-14 05:20 UTC.
+New MCP servers published between 2026-10-14 05:20 UTC and 2026-10-14 06:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-14T05-20-39-163322Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-14T06-20-19-70383Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-14 04:21:10 | [io.github.zhurong2020/pyobfus-mcp](https://github.com/zhurong2020/pyobfus) | pyobfus-mcp | 0.3.13 | 9 local Python protection tools, delivery checks and traceback reverse mapping.… |
-| 2026-10-14 04:22:33 | [io.github.theluckystrike/loan-schedule](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Amortization schedules for a loan: the level payment, the interest, and what se… |
-| 2026-10-14 04:22:35 | [io.github.theluckystrike/depreciation](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Depreciate fixed assets and produce the monthly journal on official Polish, UK… |
-| 2026-10-14 04:22:37 | [io.github.theluckystrike/backlink-checker-seo-link-checker](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Does a page link to your domain? Dofollow/nofollow, anchor, status, robots guar… |
-| 2026-10-14 04:22:39 | [io.github.theluckystrike/qr-code](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | QR codes from your AI chat: WiFi joins, vCards, SEPA payment codes, EAN-13. SVG… |
-| 2026-10-14 04:22:41 | [io.github.theluckystrike/bill-of-sale-generator](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Record a vehicle, equipment or stock sale and print a bill of sale with signatu… |
-| 2026-10-14 04:22:43 | [io.github.theluckystrike/availability](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Read .ics calendar exports: free-busy, availability windows, double bookings, c… |
-| 2026-10-14 04:22:45 | [io.github.theluckystrike/ledger](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Post invoices, expenses, deposits and fixed assets into one derived general led… |
-| 2026-10-14 04:22:47 | [io.github.theluckystrike/price-list](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Keep one price list: a price per SKU, per currency, per tier, from the day it a… |
-| 2026-10-14 04:22:49 | [io.github.theluckystrike/variation-order](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Variation orders on a quoted job: what was added, removed or changed, and what… |
-| 2026-10-14 04:22:53 | [io.github.theluckystrike/agreement](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Reusable agreement and proposal clauses assembled into a real Word docx, variab… |
-| 2026-10-14 04:22:55 | [io.github.theluckystrike/credit-memo](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Issue a credit memo against an invoice or standalone, with per-line tax and tot… |
-| 2026-10-14 04:22:57 | [io.github.theluckystrike/exchange-fx](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | FX and exchange rate lookups plus currency conversion, from the European Centra… |
-| 2026-10-14 04:22:59 | [io.github.theluckystrike/deliverable-tracker](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Deliverables with a due date and a sign-off: what has slipped, and what is read… |
-| 2026-10-14 04:23:01 | [io.github.theluckystrike/deposit](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Take a client deposit, hold it, set it against an invoice or give it back. |
-| 2026-10-14 04:23:03 | [io.github.theluckystrike/documents](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Generate real Word documents from your AI chat: proposals, quotes, contracts, S… |
-| 2026-10-14 04:23:05 | [io.github.theluckystrike/overdue-invoice-reminder](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Overdue invoice chasers: reminder 1, reminder 2, the final notice, and the day'… |
-| 2026-10-14 04:23:07 | [io.github.theluckystrike/expenses](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Log expenses, receipts and mileage from chat: categorise, split VAT, summarise,… |
-| 2026-10-14 04:23:10 | [io.github.theluckystrike/invoices-invoicing](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Invoices and invoicing from your AI chat: PDF generation, numbering, VAT, overd… |
-| 2026-10-14 04:23:12 | [io.github.theluckystrike/maintenance-schedule](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | An equipment maintenance schedule and log: service entries, costs, and what is… |
-| 2026-10-14 04:23:14 | [io.github.theluckystrike/mileage-logbook](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | A mileage logbook for deductible driving: trips, effective-dated rates, summari… |
-| 2026-10-14 04:23:16 | [io.github.theluckystrike/pdfs](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Merge, split, extract, rotate, reorder and stamp PDFs from your AI chat. |
-| 2026-10-14 04:23:18 | [io.github.theluckystrike/travel-allowance](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Work out the travel allowance for a trip on official Polish, UK and US rate tab… |
-| 2026-10-14 04:23:20 | [io.github.theluckystrike/cash-float](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Run a cash float: record what was paid out, count the tin, and raise the top-up. |
-| 2026-10-14 04:23:22 | [io.github.theluckystrike/prices-deal](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Track prices and deals: watch a shop page, get target alerts, see price history… |
-| 2026-10-14 04:23:24 | [io.github.theluckystrike/estimates](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Estimates for freelancers: priced line items, VAT, a validity date, an A4 PDF,… |
-| 2026-10-14 04:23:26 | [io.github.theluckystrike/application](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Tailor a job application: resume and cover letter as real Word docx files, from… |
-| 2026-10-14 04:23:29 | [io.github.theluckystrike/service-contract](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Write a freelance service contract: scope, deliverables, rate, termination, lia… |
-| 2026-10-14 04:23:31 | [io.github.theluckystrike/sheets](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Read, filter and edit spreadsheet data - xlsx and csv - from your AI chat. Loca… |
-| 2026-10-14 04:23:34 | [io.github.theluckystrike/supplier-directory](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | A supplier directory that does not rot: contacts, payment terms, lead times, du… |
-| 2026-10-14 04:23:37 | [io.github.theluckystrike/timer-tracking](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Timer and time-tracking add-on: start/stop timers, log entries, CSV export. Dat… |
-| 2026-10-14 04:23:39 | [io.github.theluckystrike/calendar](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Time zone and calendar helper: meeting slots across countries, DST checks, .ics… |
-| 2026-10-14 04:23:41 | [io.github.theluckystrike/archive](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Zip and unzip archives from your AI chat: create, list, extract. Offline, with… |
-| 2026-10-14 04:23:57 | [io.github.theluckystrike/snag-list-defect-handover-signoff](https://github.com/theluckystrike/mcp-servers) |  | 0.22.5 | Snag and defect lists at handover: every step marked, the failures listed, and… |
-| 2026-10-14 04:24:40 | [dev.laudex/laudex](https://github.com/pizzaAndCupcakes/laudex-skill) | Laudex | 0.1.0 | Find MCP servers, APIs, tools and skills by intent. Free key: POST /api/agents/… |
-| 2026-10-14 04:26:44 | [com.securealy/mcp](https://github.com/securealy/securealy) | Securealy | 0.1.2 | Grade a URL as an attacker and a customer would see it; scan a repo; check Supa… |
-| 2026-10-14 04:28:36 | io.github.zhuyu1022/lumenhaus-energy-mcp | Lumenhaus Energy | 0.1.0 | Read-only MCP server for Lumenhaus Energy sites, devices, charging sessions, an… |
-| 2026-10-14 04:38:28 | au.com.vaeo/reports | Vaeo AI Discovery Reports | 1.0.0 | How often AI assistants name a local Australian business, and which pages they… |
-| 2026-10-14 04:40:27 | [io.github.KilaWattCloud/kilawatt-mcp-server](https://github.com/KilaWattCloud/kilawatt-mcp-server) |  | 0.2.1 | Kilawatt Cloud MCP server: request GPU compute with account or x402 payments. |
-| 2026-10-14 04:44:13 | [io.github.gokmengokhan/endnote-mcp](https://github.com/gokmengokhan/endnote-mcp) |  | 1.4.13 | Search, cite, and read PDFs from your EndNote library in Claude Desktop |
-| 2026-10-14 04:44:55 | [ai.capxule/journeys](https://github.com/Capxule/capxule-ai) | Capxule | 2026.10.13 | The context marketplace: expert guided journeys your assistant runs step by ste… |
-| 2026-10-14 04:48:56 | [io.semurg/agent-memory](https://github.com/One-Semurg/semurg-mcp) | Semurg agent memory | 11.87.20261014 | Self-hosted memory for AI agents over MCP: knowledge graph, vectors, graph RAG,… |
-| 2026-10-14 04:49:34 | net.useapi/muse | Muse API by useapi.net (third party) | 1.0.0 | Muse (muse.ai) images, 10-second videos, agent chat, files and permissions on y… |
-| 2026-10-14 04:50:48 | [io.github.Bishwas-py/mcpbrowser](https://github.com/Bishwas-py/mcpbrowser) | MCP Browser | 0.12.2 | Read Reddit, X, LinkedIn, Facebook and Pinterest through your own Chrome login.… |
-| 2026-10-14 04:54:47 | [ai.capxule/capxule](https://github.com/Capxule/capxule-ai) | Capxule | 2026.10.13 | The context marketplace: expert guided journeys your assistant runs step by ste… |
-| 2026-10-14 04:57:13 | [io.github.castaly-ai/mcp-server](https://github.com/castaly-ai/modelflare-mcp) | Modelflare | 0.1.0 | Image and video generation with one Modelflare Smart API Key. |
-| 2026-10-14 04:58:02 | [io.github.devopam/mcpg](https://github.com/devopam/MCPg) |  | 0.8.3 | Production-grade PostgreSQL MCP server — 254 tools for query, tuning & ops, rea… |
-| 2026-10-14 05:00:14 | [io.github.jimmybr-PDX/rugradar](https://github.com/jimmybr-PDX/x402-seller) | RugRadar | 1.0.0 | Rug-pull, token-safety and honeypot risk checks for Solana and EVM tokens. $0.0… |
-| 2026-10-14 05:02:15 | [cc.ipforai/ipforai](https://github.com/xjokerabab/ipforai) | IP for AI | 0.1.0 | Check if your exit IP works for ChatGPT, Claude, Gemini: ASN, proxy/IDC type, r… |
-| 2026-10-14 05:03:40 | [io.github.clo-paz/is-agentic-mcp](https://github.com/clo-paz/is-agentic-mcp) | Is Agentic | 1.0.0 | Shop the Is Agentic store with read-only catalog discovery, gift recommendation… |
-| 2026-10-14 05:07:38 | app.thetasks/tasks | Tasks | 1.0.0 | Read and edit your Tasks boards: create and update tasks, comment, and track ti… |
-| 2026-10-14 05:10:29 | com.fantasysolvers.balatro/balatro-lab | Fantasy Solvers – Balatro Lab | 0.1.0 | Supported Balatro scoring and exact small-deck play/discard analysis with verif… |
-| 2026-10-14 05:12:24 | io.gajo/url-shortener | Gajo URL Shortener | 1.0.0 | Shorten URLs, manage gajo.io short links, and read click analytics. Free API ke… |
-| 2026-10-14 05:17:52 | [io.github.oceanmodeling/rtofs-mcp](https://github.com/oceanmodeling/ocean-mcp) | NOAA RTOFS MCP Server | 0.1.3 | NOAA RTOFS global ocean forecast — SST, salinity, currents, depth profiles via… |
+| 2026-10-14 05:21:38 | ai.rawa/rawa | Rawa | 1.0.0 | Read and update your Rawa brands, creatives, calendar and performance; generate… |
+| 2026-10-14 05:23:07 | app.proxgetlocal/prox | Prox | 1.0.0 | Free, read-only: what's live near me. Local shop deals, events and open houses… |
+| 2026-10-14 05:23:37 | [io.github.lastmanupinc-hub/axis-toolbox](https://github.com/lastmanupinc-hub/AXIS-iliad) | Axis Iliad - Codebase Intelligence For… | 0.5.4 | Codebase intelligence for agents: 152 structured artifacts across 21 programs,… |
+| 2026-10-14 05:23:57 | [io.github.cyberdroid2077/opsecforge](https://github.com/cyberdroid2077/opsecforge-tools) | OpsecForge | 0.1.1 | Local MCP tools that keep secrets out of agent context: redact files, scan comm… |
+| 2026-10-14 05:31:02 | com.thehexagrams/iching | I Ching Hexagrams (The Hexagrams) | 1.0.0 | Cast I Ching hexagrams with moving lines; classical + English judgments for all… |
+| 2026-10-14 05:32:32 | ai.kognai/golden-kog | Golden Kog token risk analyst by Kognai | 1.0.0 | Risk and structure facts on one Solana or Base token, never a trading signal. P… |
+| 2026-10-14 05:33:45 | org.asktender/asktender | askTender | 1.0.7 | Government tenders in about 200 countries: who can bid, what each requires, and… |
+| 2026-10-14 05:34:25 | com.callejear/madrid | Callejear Madrid | 0.1.0 | Busca calles de Madrid y compara registros de servicios a 500 m, con fuentes y… |
+| 2026-10-14 05:34:26 | com.professionalaiagents/seneca | Seneca Research Platform | 1.0.0 | Compare 10, 40, or ~100 AI models. Discover consensus, disagreements, and minor… |
+| 2026-10-14 05:36:29 | [io.github.onehumanbeing/hack123](https://github.com/HenryAgentTeam/hack123) | 黑123 Hackathons | 1.0.0 | Read-only search of hackathons, team-up posts and projects on 黑123 (hack123.hen… |
+| 2026-10-14 05:39:05 | [cn.com.xiaozhaobao/xiaozhaobao](https://github.com/kknee-dev/recruit-hub) | 校招宝 · 中国校园招聘岗位数据 | 1.0.0 | 中国校园招聘（秋招/春招/实习/提前批）在招岗位、企业档案、投递截止与求职攻略数据。免 API Key、免注册、只读。 |
+| 2026-10-14 05:39:15 | one.coronet/coronet-arcade | Coronet Arcade | 0.1.0 | Play 13 free daily logic and word puzzles, or get spoiler-free rules. No signup… |
+| 2026-10-14 05:40:16 | [io.github.creatorhub121/au-business-identity](https://github.com/creatorhub121/au-business-identity) | AU Business Identity | 0.2.0 | Validate Australian ABNs and ACNs, and verify ABNs live against the Australian… |
+| 2026-10-14 05:40:59 | [io.github.Norcalnappy/atlasofplantbased-pct](https://github.com/Norcalnappy/atlasofplantbased-mcp) | Atlas of Plant Based: PCT data | 1.0.0 | Read-only Pacific Crest Trail data: legs by trail mile, towns, passes and lakes… |
+| 2026-10-14 05:41:45 | [io.github.wd666430-rgb/open-agent-commons](https://github.com/wd666430-rgb/open-agent-commons) | Open Agent Commons | 0.1.0-rc.9 | Public broadcast and durable shared memory for AI systems and agents using sign… |
+| 2026-10-14 05:41:50 | [io.github.onehumanbeing/agent-config-bridge](https://github.com/onehumanbeing/agent-config-bridge) | Agent Config Bridge | 0.1.0 | Convert CLAUDE.md, AGENTS.md, Cursor rules, GEMINI.md and MCP configs between c… |
+| 2026-10-14 05:44:47 | [io.github.fredxhansson-cmyk/noniner](https://github.com/fredxhansson-cmyk/noniner) | No Niner Data Tools | 1.0.1 | No-code web scraping & data-extraction Apify actors: scrape and enrich web data… |
+| 2026-10-14 05:46:54 | com.anchoredip/anchoredip | AnchoredIP | 1.2.0 | Dedicated static outbound IPv4 over WireGuard. Free 7-day trial, no card, no sa… |
+| 2026-10-14 05:49:19 | [io.github.vmware-skills/vmware-monitor](https://github.com/vmware-skills/VMware-Monitor) | VMware Monitor | 2.0.0 | Read-only VMware vCenter/ESXi monitoring, 32 MCP tools; vSphere calls allowlist… |
+| 2026-10-14 05:53:07 | [io.github.eater2/ai-agents-api-library](https://github.com/eater2/ai_agents_api_library) | AI Agents API Library | 0.3.8 | Find APIs and MCP servers for AI agents: auth, free tier, MCP endpoint, docs, l… |
+| 2026-10-14 05:53:46 | [io.github.enioxt/publico](https://github.com/enioxt/egos) | EGOS (público) | 0.4.0 | Diagnóstico 'cabe IA?' por regra fixa, capacidades do EGOS com prova, pesquisa… |
+| 2026-10-14 05:55:12 | com.linkinseconds/mcp | Link in Seconds | 1.0.0 | Upload a file and get a shareable link. List your links and see their view stat… |
+| 2026-10-14 05:56:26 | ai.ugcfy/ugcfy-mcp | UGCfy AI | 0.1.0 | Break down any TikTok or Reels ad and rewrite it for your product. Hooks, scrip… |
+| 2026-10-14 05:56:50 | com.sakaira/mcp | Sakaira | 1.0.0 | Make AI images, video, voiceovers and music, and edit video, from your assistan… |
+| 2026-10-14 06:02:11 | com.gigonom/gigonom | Gigonom | 1.0.0 | Small-business CRM, tasks, social posting, email campaigns, analytics and growt… |
+| 2026-10-14 06:11:39 | xyz.agoreum/agoreum | Agoreum | 0.9.0 | Marketplace where AI agents hire and pay other agents in USDC on Base, through… |
+| 2026-10-14 06:11:54 | com.furriq/cats | Furriq Cat Breed Identifier | 1.0.0 | Identify cat breeds from descriptions or photos with furriq.com's 61-breed data… |
+| 2026-10-14 06:17:18 | [io.github.iEscrow/mcp](https://github.com/iEscrow/mcp-docs) | iEscrow | 0.1.0 | Crypto escrow for AI agents: quote, open and follow P2P trades; money moves onl… |
+| 2026-10-14 06:18:27 | [io.github.godarg/practonaut](https://github.com/godarg/practonaut) | Practonaut | 0.1.0 | Local practice gym for AI agents on real apps: practice Excalidraw tasks, get a… |
+| 2026-10-14 06:19:39 | [io.github.zhinikefu/zhini-ai-assistant](https://github.com/zhinikefu/zhini-ai-assistant-mcp) | 知你AI助手｜多平台客户与客服数据 MCP | 1.0.1 | 汇聚个微、企微、视频号、微信小程序、公众号、服务号、微信客服、微信小店、抖音号、小红书、微博、网站及H5客服的客户资料、会话与聊天记录，供AI查询分析、会话研… |
 
 ## Data source
 
