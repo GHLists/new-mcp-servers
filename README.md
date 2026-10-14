@@ -9,41 +9,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 13:20 UTC
+## Latest list — 2026-10-14 14:21 UTC
 
-New MCP servers published between 2026-10-14 12:21 UTC and 2026-10-14 13:20 UTC.
+New MCP servers published between 2026-10-14 13:20 UTC and 2026-10-14 14:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-14T13-20-09-503201Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-14T14-21-57-376961Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-14 12:21:43 | io.github.crashedfox/minairal | Minairal | 1.0.0 | Minairal drinking water systems in Thailand: company facts, stores, machine adv… |
-| 2026-10-14 12:26:10 | [ai.screenweaver/screenweaver](https://github.com/OUTERFRAME-STUDIO/screenweaver-mcp) | ScreenWeaver | 1.0.0 | Screenplay and storyboard in your AI assistant: import scripts, edit scenes, bu… |
-| 2026-10-14 12:28:08 | [io.github.biosshot/easyeda-copilot](https://github.com/biosshot/easyeda-copilot) | EasyEDA Copilot | 1.3.1 | AI tools for EasyEDA Pro schematics, PCB placement and routing, SPICE simulatio… |
-| 2026-10-14 12:28:50 | com.graziechef/kitchen-tools | GrazieChef Kitchen Tools | 1.0.0 | Restaurant math for AI assistants: food cost, menu price with VAT, recipe scali… |
-| 2026-10-14 12:38:27 | com.ahsuite/mcp | Ahsuite | 1.0.0 | Build and run client portals for your agency: pages, tasks, forms, file request… |
-| 2026-10-14 12:41:00 | [se.cliphou/templates](https://github.com/sunmer/voodoo) | cliphou.se motion graphics templates | 1.0.0 | Search free motion graphics video templates, read their edit specs, and build v… |
-| 2026-10-14 12:44:42 | com.routinerun/routine-run | Routine Run | 1.0.0 | Read, start and move the routines on your iPhone; suggest changes you approve o… |
-| 2026-10-14 12:48:50 | [com.nameideabox/name-generator](https://github.com/MattCraftsCode/NameIdeaBox) | Name Idea Box | 1.0.0 | Generate fictional names and sample identity profiles for prototypes, QA, demos… |
-| 2026-10-14 12:48:54 | [io.github.leovenom/buttonwall](https://github.com/leovenom/buttonwall-mcp) | The Button Wall | 0.1.1 | Rent a clickable button on a million-pixel wall: find free space, get a quote,… |
-| 2026-10-14 12:52:15 | com.missyera/missyera | Miss Yera: IA para empresas | 1.0.0 | Consultoría de IA para empresas en Perú y LATAM: guías, servicios con precio y… |
-| 2026-10-14 12:55:19 | [com.allratestoday/central-bank-mcp](https://github.com/AllRates-Today/central-bank-mcp) | Central Bank Rates (AllRatesToday) | 0.3.1 | Official central-bank & tax-authority rates from 100+ sources. No API key neede… |
-| 2026-10-14 12:56:06 | [io.github.edtool79-collab/ats-job-pulse](https://github.com/edtool79-collab/ats-job-pulse) | ATS Job Pulse: Company Jobs & Hiring Si… | 1.2.0 | Open jobs and hiring changes for any company, from its domain. Runs on Apify. |
-| 2026-10-14 12:56:08 | io.github.edtool79-collab/domain-seo-overview | Domain SEO Overview: Traffic, Keywords… | 1.0.0 | Estimated Google organic traffic, ranking keywords and competitors of any websi… |
-| 2026-10-14 12:56:10 | io.github.edtool79-collab/google-jobs-scraper | Google Jobs Scraper: Jobs, Salaries & A… | 1.0.0 | Google Jobs listings for any role and city: company, salary, job type, apply li… |
-| 2026-10-14 12:56:12 | io.github.edtool79-collab/keyword-search-volume | Keyword Search Volume & Keyword Ideas | 1.0.0 | Google keyword search volume, CPC, difficulty, intent and keyword ideas. Runs o… |
-| 2026-10-14 12:56:14 | io.github.edtool79-collab/youtube-transcript-scraper | YouTube Transcript Scraper | 1.0.0 | Transcripts of YouTube videos and Shorts in bulk, with timestamps. Runs on Apif… |
-| 2026-10-14 12:58:09 | [com.mambabuilt/mcp-job-change-tracker](https://github.com/mambalabsdev/mcp-job-change-tracker) |  | 1.0.0 | Track contact job changes: current employer, start month, role history, and lef… |
-| 2026-10-14 12:58:11 | [com.mambabuilt/mcp-new-hire-finder](https://github.com/mambalabsdev/mcp-new-hire-finder) |  | 1.0.0 | Find people who started a matching role at a company inside a lookback window. |
-| 2026-10-14 12:58:13 | [com.mambabuilt/mcp-career-change-signal-engine](https://github.com/mambalabsdev/mcp-career-change-signal-engine) |  | 1.0.0 | Watch your contacts and get back only job changes: leavers, landings, replaceme… |
-| 2026-10-14 13:03:23 | app.govir/govir | Govir | 1.0.0 | Threads analytics and posts in your Govir workspace: read stats, draft, schedul… |
-| 2026-10-14 13:05:47 | [io.github.Alex-Dev-Web-C-DE/watch-engine-mcp](https://github.com/Alex-Dev-Web-C-DE/watch-engine-mcp) | Watch Engine | 1.0.0 | Currency rates, VAT rates, and tariff rates via Watch Engine. 203 monitors. |
-| 2026-10-14 13:08:22 | [to.xpost/xpost](https://github.com/xpost-to/xpost-agent) |  | 0.2.1 | Post all your social media with your AI agent — 9 networks, from Claude, ChatGP… |
-| 2026-10-14 13:08:35 | com.nudgehost/file-hosting | NudgeHost | 1.0.1 | File hosting for agents. Upload any file, get a public link in seconds. |
-| 2026-10-14 13:08:36 | com.steamcozy/steamcozy | SteamCozy | 1.1.0 | Steam game data with dates: review score and consensus, price lows, tags, new r… |
-| 2026-10-14 13:11:59 | [io.github.Djangode/icare-mcp](https://github.com/Djangode/icare-mcp) | ICARE live esports predictions | 0.1.0 | AI agents predict live esports games settled by an AI referee, with gasless x40… |
-| 2026-10-14 13:16:53 | [io.github.dvcoolarun/docuqueue-mcp](https://github.com/docuqueue/docuqueue-mcp) | DocuQueue MCP | 0.1.3 | Generate PDFs and fill PDF forms via AI chat. Works with Claude, ChatGPT, Curso… |
-| 2026-10-14 13:18:15 | dev.endform/mcp | Endform | 0.81.5 | Find failing, flaky, and slow Playwright tests on Endform and keep your suite h… |
+| 2026-10-14 13:20:41 | com.closedmcp/closedmcp | ClosedMCP | 0.1.0 | One MCP endpoint for your company's tools, with per-person sign-in, policy and… |
+| 2026-10-14 13:22:57 | org.ieunit/ieunit | ieUnit – neutral value reference unit | 1.2.0 | Neutral value reference unit: live value, history, conversion and methodology. |
+| 2026-10-14 13:26:49 | com.elocuenti/elocuenti | Elocuenti | 1.0.0 | Manage your Elocuenti AI sales agents, CRM, campaigns and analytics from Claude. |
+| 2026-10-14 13:27:28 | com.routinerun/routine-writer | Routine Run: write a routine | 1.0.0 | Write a step-by-step routine and get a link that opens it in Routine Run on iPh… |
+| 2026-10-14 13:28:54 | com.factyz/factyz | Factyz | 1.0.0 | Cotisations Urssaf, seuils micro et TVA, échéances : le calcul officiel pour au… |
+| 2026-10-14 13:28:59 | [com.flexreportfinapi/flexreport-finance](https://github.com/cbecks1212/flexreport-mcp) | Flexreport Finance | 1.0.0 | Live market events, research reports, and 750M+ curated equity datapoints on 2,… |
+| 2026-10-14 13:31:38 | [io.github.Aiearn-lab/cn-hotrank](https://github.com/Aiearn-lab/cn-hotrank) | CN HotRank | 0.2.2 | Real-time trending from major Chinese platforms (Weibo, Douyin, Baidu, Zhihu). |
+| 2026-10-14 13:31:39 | com.softwear-prints/catalog | Softwear Prints | 0.1.0 | Search the Softwear Prints catalogue of workwear, teamwear and promotional item… |
+| 2026-10-14 13:33:42 | [io.github.BumiAtlas/bumiatlas](https://github.com/BumiAtlas/bumiatlas-mcp) | BumiAtlas: Indonesia Land, Concessions… | 1.0.0 | Indonesian land parcels (ATR/BPN), HGU, mining concessions, RDTR zoning and flo… |
+| 2026-10-14 13:33:56 | [io.github.BumiAtlas/oss-rdtr-zoning](https://github.com/BumiAtlas/oss-rdtr-zoning-mcp) | OSS RDTR Zoning (Indonesia) | 1.0.0 | Indonesian OSS RDTR zoning: zone and sub-zone at a point, special provisions, a… |
+| 2026-10-14 13:34:17 | [io.github.BumiAtlas/atrbpn-land-parcel](https://github.com/BumiAtlas/atrbpn-land-parcel-mcp) | ATR/BPN Land Parcel Lookup (Indonesia) | 1.0.0 | Indonesian ATR/BPN land parcels by certificate number, NIB or coordinates, with… |
+| 2026-10-14 13:34:31 | [org.askcerebrum/cerebrum](https://github.com/Vaticay/cerebrum) | Cerebrum | 1.0.0 | Search the scientific literature and get a cited answer, plus the Trending in S… |
+| 2026-10-14 13:36:00 | com.motionreference/motion-reference | Motion Reference | 3.0.0 | Search and study curated marketing videos and their timestamped moments, and sa… |
+| 2026-10-14 13:36:25 | com.pagelemon/pagelemon | Page Lemon | 1.0.0 | Publish websites from chat and keep editing them: live links, version history,… |
+| 2026-10-14 13:36:29 | ai.zabio/zabio | Zabio | 1.3.3 | Zabio AI router: docs, models, prices, your usage and calls, and questions to Z… |
+| 2026-10-14 13:37:42 | fr.gluten-free/catalogue | gluten-free.fr: catalogue, comparatifs… | 2.0.0 | French gluten-free guide: product catalog, comparisons, ingredient checks and f… |
+| 2026-10-14 13:38:39 | com.speccapture/speccapture | SpecCapture | 1.0.0 | Read title blocks, parts lists, revision history and notes from 2D engineering… |
+| 2026-10-14 13:42:37 | io.streamrank/mcp | StreamRank | 1.0.0 | Daily streaming Top 10s (Netflix, Prime Video, Disney+, Max, more) by country,… |
+| 2026-10-14 13:42:52 | [io.github.cygnixlabs-cmd/cygnix-seo-mcp](https://github.com/cygnixlabs-cmd/cygnix-seo-mcp) | Cygnix SEO | 1.0.0 | No-API-key SEO tools: keyword clustering, search intent, cannibalization, meta… |
+| 2026-10-14 13:43:08 | [io.github.Alex-Dev-Web-C-DE/compliance-engine-mcp](https://github.com/Alex-Dev-Web-C-DE/compliance-engine-mcp) | Compliance Engine | 1.0.0 | Sanctions screening (OFAC/UK/EU/UN) + PEP + GLEIF entities via Compliance Engin… |
+| 2026-10-14 13:43:22 | com.khotem/khotem-witness | KHOTEM | 3.15.0 | Paid API bazaar for agents: seals, audits, wallet intel, codec ops. x402. |
+| 2026-10-14 13:47:40 | fr.danseici/agenda | Danse Ici | 1.0.0 | Salsa, bachata and kizomba parties, classes and festivals in Paris: dates, venu… |
+| 2026-10-14 13:47:48 | [com.ahasend/mcp](https://github.com/AhaSend/ahasend-mcp) | AhaSend | 0.1.1 | Send email, check deliverability, set up domains, and run templates, contacts a… |
+| 2026-10-14 13:54:39 | [io.github.vmware-skills/vmware-privateai](https://github.com/vmware-skills/VMware-PrivateAI) | VMware Private AI (GPU & Model Serving) | 2.0.0 | VMware Private AI (NVIDIA): GPU inventory, vGPU profiles, utilization, model se… |
+| 2026-10-14 13:55:06 | [io.github.hpdkhoa/weaponlab-mcp](https://github.com/hpdkhoa/weaponlab-mcp) | Weapon Lab | 0.1.0 | Find and fix first-person weapon bugs behind a gate: your game's probe measures… |
+| 2026-10-14 13:56:34 | com.exchangerebel/exchangerebel | ExchangeRebel — pay-per-call APIs for A… | 1.1.0 | 76 pay-per-call APIs for AI agents: market, company, weather and dev tools, pai… |
+| 2026-10-14 13:57:59 | io.soundchain/agents | SoundChain | 1.0.0 | Join SoundChain as an AI agent: get a labeled account, review real tracks, post… |
+| 2026-10-14 13:58:02 | dev.workers.bfurrow26.dirtsmith-go/rate-sheet | Dirtsmith outside-tools rate sheet | 2026.10.14 | Read-only rate sheet of outside builders' agent-callable tools and published pr… |
+| 2026-10-14 14:02:21 | ai.cleartape/clear-tape | Clear Tape | 1.0.0 | Free trading calculators, trading-system rules, a glossary and lesson search. N… |
+| 2026-10-14 14:02:56 | io.github.siddhi-bansal/herald | Herald | 0.2.0 | Report where a website got in your way, and get known problems other agents hit… |
+| 2026-10-14 14:03:02 | [io.github.vmware-skills/vmware-vdi](https://github.com/vmware-skills/VMware-VDI) | VMware VDI (Horizon) | 2.0.0 | VMware/Omnissa Horizon VDI ops: pools, sessions, machines, images — 27 MCP tool… |
+| 2026-10-14 14:03:28 | [io.github.selfagency/git-mcp](https://github.com/selfagency/git-mcp) |  | 0.4.1 | A Git MCP server that doesn't suck |
+| 2026-10-14 14:09:20 | [io.github.BitMamba24/prolifik](https://github.com/BitMamba24/prolifik-mcp) | Prolifik | 1.1.0 | Clip long videos, render branded short-form video, schedule to TikTok, Reels, S… |
+| 2026-10-14 14:09:57 | [io.github.hpdkhoa/modellab-mcp](https://github.com/hpdkhoa/modellab-mcp) | Model Lab | 0.1.0 | Draws rigged game gun models in Blender from parameters, checked against the re… |
+| 2026-10-14 14:11:43 | [com.datahubz/attest](https://github.com/DataHubz/attest-mcp) | Attest by DataHubz | 1.0.0 | Track agreements sent for signature, remind signers, verify signed documents an… |
+| 2026-10-14 14:11:48 | [com.datahubz/attest-verify](https://github.com/DataHubz/attest-mcp) | Attest by DataHubz (verify only) | 1.0.0 | Verify Attest agreements, stamp codes, receipts, proofs and SHA-256 fingerprint… |
+| 2026-10-14 14:12:57 | [io.github.redsoukas/402scrape](https://github.com/redsoukas/402scrape) |  | 0.1.1 | Fetch a webpage and get clean, agent-ready Markdown. Paid per call via x402 (US… |
+| 2026-10-14 14:13:43 | [com.washlib/washlib](https://github.com/J1034567/washlib) | Washlib | 1.1.0 | Find car washes in France, check live slots, get exact prices and start a booki… |
+| 2026-10-14 14:17:44 | me.miow/miow | miow | 1.0.0 | Build and host a small business website: write its pages, move an existing site… |
+| 2026-10-14 14:21:49 | com.divingtechnics.indamixapp/indamix | In Da Mix | 1.0.0 | Gas blending calculator for scuba divers: nitrox, trimix, heliair, heliox, MOD,… |
 
 ## Data source
 
