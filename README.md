@@ -9,54 +9,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 14:21 UTC
+## Latest list — 2026-10-14 15:19 UTC
 
-New MCP servers published between 2026-10-14 13:20 UTC and 2026-10-14 14:21 UTC.
+New MCP servers published between 2026-10-14 14:21 UTC and 2026-10-14 15:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-14T14-21-57-376961Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-14T15-19-55-714827Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-14 13:20:41 | com.closedmcp/closedmcp | ClosedMCP | 0.1.0 | One MCP endpoint for your company's tools, with per-person sign-in, policy and… |
-| 2026-10-14 13:22:57 | org.ieunit/ieunit | ieUnit – neutral value reference unit | 1.2.0 | Neutral value reference unit: live value, history, conversion and methodology. |
-| 2026-10-14 13:26:49 | com.elocuenti/elocuenti | Elocuenti | 1.0.0 | Manage your Elocuenti AI sales agents, CRM, campaigns and analytics from Claude. |
-| 2026-10-14 13:27:28 | com.routinerun/routine-writer | Routine Run: write a routine | 1.0.0 | Write a step-by-step routine and get a link that opens it in Routine Run on iPh… |
-| 2026-10-14 13:28:54 | com.factyz/factyz | Factyz | 1.0.0 | Cotisations Urssaf, seuils micro et TVA, échéances : le calcul officiel pour au… |
-| 2026-10-14 13:28:59 | [com.flexreportfinapi/flexreport-finance](https://github.com/cbecks1212/flexreport-mcp) | Flexreport Finance | 1.0.0 | Live market events, research reports, and 750M+ curated equity datapoints on 2,… |
-| 2026-10-14 13:31:38 | [io.github.Aiearn-lab/cn-hotrank](https://github.com/Aiearn-lab/cn-hotrank) | CN HotRank | 0.2.2 | Real-time trending from major Chinese platforms (Weibo, Douyin, Baidu, Zhihu). |
-| 2026-10-14 13:31:39 | com.softwear-prints/catalog | Softwear Prints | 0.1.0 | Search the Softwear Prints catalogue of workwear, teamwear and promotional item… |
-| 2026-10-14 13:33:42 | [io.github.BumiAtlas/bumiatlas](https://github.com/BumiAtlas/bumiatlas-mcp) | BumiAtlas: Indonesia Land, Concessions… | 1.0.0 | Indonesian land parcels (ATR/BPN), HGU, mining concessions, RDTR zoning and flo… |
-| 2026-10-14 13:33:56 | [io.github.BumiAtlas/oss-rdtr-zoning](https://github.com/BumiAtlas/oss-rdtr-zoning-mcp) | OSS RDTR Zoning (Indonesia) | 1.0.0 | Indonesian OSS RDTR zoning: zone and sub-zone at a point, special provisions, a… |
-| 2026-10-14 13:34:17 | [io.github.BumiAtlas/atrbpn-land-parcel](https://github.com/BumiAtlas/atrbpn-land-parcel-mcp) | ATR/BPN Land Parcel Lookup (Indonesia) | 1.0.0 | Indonesian ATR/BPN land parcels by certificate number, NIB or coordinates, with… |
-| 2026-10-14 13:34:31 | [org.askcerebrum/cerebrum](https://github.com/Vaticay/cerebrum) | Cerebrum | 1.0.0 | Search the scientific literature and get a cited answer, plus the Trending in S… |
-| 2026-10-14 13:36:00 | com.motionreference/motion-reference | Motion Reference | 3.0.0 | Search and study curated marketing videos and their timestamped moments, and sa… |
-| 2026-10-14 13:36:25 | com.pagelemon/pagelemon | Page Lemon | 1.0.0 | Publish websites from chat and keep editing them: live links, version history,… |
-| 2026-10-14 13:36:29 | ai.zabio/zabio | Zabio | 1.3.3 | Zabio AI router: docs, models, prices, your usage and calls, and questions to Z… |
-| 2026-10-14 13:37:42 | fr.gluten-free/catalogue | gluten-free.fr: catalogue, comparatifs… | 2.0.0 | French gluten-free guide: product catalog, comparisons, ingredient checks and f… |
-| 2026-10-14 13:38:39 | com.speccapture/speccapture | SpecCapture | 1.0.0 | Read title blocks, parts lists, revision history and notes from 2D engineering… |
-| 2026-10-14 13:42:37 | io.streamrank/mcp | StreamRank | 1.0.0 | Daily streaming Top 10s (Netflix, Prime Video, Disney+, Max, more) by country,… |
-| 2026-10-14 13:42:52 | [io.github.cygnixlabs-cmd/cygnix-seo-mcp](https://github.com/cygnixlabs-cmd/cygnix-seo-mcp) | Cygnix SEO | 1.0.0 | No-API-key SEO tools: keyword clustering, search intent, cannibalization, meta… |
-| 2026-10-14 13:43:08 | [io.github.Alex-Dev-Web-C-DE/compliance-engine-mcp](https://github.com/Alex-Dev-Web-C-DE/compliance-engine-mcp) | Compliance Engine | 1.0.0 | Sanctions screening (OFAC/UK/EU/UN) + PEP + GLEIF entities via Compliance Engin… |
-| 2026-10-14 13:43:22 | com.khotem/khotem-witness | KHOTEM | 3.15.0 | Paid API bazaar for agents: seals, audits, wallet intel, codec ops. x402. |
-| 2026-10-14 13:47:40 | fr.danseici/agenda | Danse Ici | 1.0.0 | Salsa, bachata and kizomba parties, classes and festivals in Paris: dates, venu… |
-| 2026-10-14 13:47:48 | [com.ahasend/mcp](https://github.com/AhaSend/ahasend-mcp) | AhaSend | 0.1.1 | Send email, check deliverability, set up domains, and run templates, contacts a… |
-| 2026-10-14 13:54:39 | [io.github.vmware-skills/vmware-privateai](https://github.com/vmware-skills/VMware-PrivateAI) | VMware Private AI (GPU & Model Serving) | 2.0.0 | VMware Private AI (NVIDIA): GPU inventory, vGPU profiles, utilization, model se… |
-| 2026-10-14 13:55:06 | [io.github.hpdkhoa/weaponlab-mcp](https://github.com/hpdkhoa/weaponlab-mcp) | Weapon Lab | 0.1.0 | Find and fix first-person weapon bugs behind a gate: your game's probe measures… |
-| 2026-10-14 13:56:34 | com.exchangerebel/exchangerebel | ExchangeRebel — pay-per-call APIs for A… | 1.1.0 | 76 pay-per-call APIs for AI agents: market, company, weather and dev tools, pai… |
-| 2026-10-14 13:57:59 | io.soundchain/agents | SoundChain | 1.0.0 | Join SoundChain as an AI agent: get a labeled account, review real tracks, post… |
-| 2026-10-14 13:58:02 | dev.workers.bfurrow26.dirtsmith-go/rate-sheet | Dirtsmith outside-tools rate sheet | 2026.10.14 | Read-only rate sheet of outside builders' agent-callable tools and published pr… |
-| 2026-10-14 14:02:21 | ai.cleartape/clear-tape | Clear Tape | 1.0.0 | Free trading calculators, trading-system rules, a glossary and lesson search. N… |
-| 2026-10-14 14:02:56 | io.github.siddhi-bansal/herald | Herald | 0.2.0 | Report where a website got in your way, and get known problems other agents hit… |
-| 2026-10-14 14:03:02 | [io.github.vmware-skills/vmware-vdi](https://github.com/vmware-skills/VMware-VDI) | VMware VDI (Horizon) | 2.0.0 | VMware/Omnissa Horizon VDI ops: pools, sessions, machines, images — 27 MCP tool… |
-| 2026-10-14 14:03:28 | [io.github.selfagency/git-mcp](https://github.com/selfagency/git-mcp) |  | 0.4.1 | A Git MCP server that doesn't suck |
-| 2026-10-14 14:09:20 | [io.github.BitMamba24/prolifik](https://github.com/BitMamba24/prolifik-mcp) | Prolifik | 1.1.0 | Clip long videos, render branded short-form video, schedule to TikTok, Reels, S… |
-| 2026-10-14 14:09:57 | [io.github.hpdkhoa/modellab-mcp](https://github.com/hpdkhoa/modellab-mcp) | Model Lab | 0.1.0 | Draws rigged game gun models in Blender from parameters, checked against the re… |
-| 2026-10-14 14:11:43 | [com.datahubz/attest](https://github.com/DataHubz/attest-mcp) | Attest by DataHubz | 1.0.0 | Track agreements sent for signature, remind signers, verify signed documents an… |
-| 2026-10-14 14:11:48 | [com.datahubz/attest-verify](https://github.com/DataHubz/attest-mcp) | Attest by DataHubz (verify only) | 1.0.0 | Verify Attest agreements, stamp codes, receipts, proofs and SHA-256 fingerprint… |
-| 2026-10-14 14:12:57 | [io.github.redsoukas/402scrape](https://github.com/redsoukas/402scrape) |  | 0.1.1 | Fetch a webpage and get clean, agent-ready Markdown. Paid per call via x402 (US… |
-| 2026-10-14 14:13:43 | [com.washlib/washlib](https://github.com/J1034567/washlib) | Washlib | 1.1.0 | Find car washes in France, check live slots, get exact prices and start a booki… |
-| 2026-10-14 14:17:44 | me.miow/miow | miow | 1.0.0 | Build and host a small business website: write its pages, move an existing site… |
-| 2026-10-14 14:21:49 | com.divingtechnics.indamixapp/indamix | In Da Mix | 1.0.0 | Gas blending calculator for scuba divers: nitrox, trimix, heliair, heliox, MOD,… |
+| 2026-10-14 14:22:39 | com.brokerflat/cashback | BrokerFlat Forex Cashback | 1.0.0 | Compare 11 forex brokers, calculate cashback per lot and get sign-up steps. Rea… |
+| 2026-10-14 14:24:13 | [social.happenings/page-tools](https://github.com/happenings-dk/happenings-ai) | Happenings | 1.1.0 | Run your Happenings page from your AI: events, tickets, sales, members, posts a… |
+| 2026-10-14 14:24:16 | [social.happenings/page-cli](https://github.com/happenings-dk/happenings-ai) | Happenings Page CLI | 1.1.0 | Every page-admin command of the Happenings CLI for your AI, limited to the page… |
+| 2026-10-14 14:24:38 | co.recepte/recepte | Recepte: your personal negotiator | 1.0.0 | Negotiates with shops and providers for prices not on their websites, and retur… |
+| 2026-10-14 14:28:45 | [io.github.alexbypa/github-projectpulse-mcp](https://github.com/alexbypa/github-projectpulse-mcp) | ProjectPulse MCP | 1.9.0 | Monitor GitHub repo health, DORA metrics and CI signals from your AI assistant. |
+| 2026-10-14 14:31:57 | [io.github.wong13977-oss/messnomore-data-tools](https://github.com/wong13977-oss/messnomore-mcp) | MessNoMore Data Tools | 1.0.0 | Visa sponsors, school term dates, halal certificates, HS codes, baggage rules a… |
+| 2026-10-14 14:32:26 | [io.github.UpstageAI/korean-report-hwpx](https://github.com/UpstageAI/korean-report-hwpx) | Korean Government Documents (HWPX) | 0.2.1 | Turns a draft into a Korean government report or press release as HWPX in each… |
+| 2026-10-14 14:35:52 | [io.github.kevinwowo/cicadas-local-mcp](https://github.com/kevinwowo/cicadas-local-mcp) | Cicadas local MCP | 0.1.0 | Local Cicadas MCP for models, quotes and status. Authenticated API flows not ye… |
+| 2026-10-14 14:40:26 | [io.github.5zjk5/colorwaykit](https://github.com/5zjk5/colorwaykit-for-agents) | ColorwayKit | 1.0.0 | Verified color tokens for AI coding agents: one brand hex in, WCAG/APCA-measure… |
+| 2026-10-14 14:40:54 | [ai.shumi/mcp](https://github.com/shumi-ai/shumi-mcp) |  | 1.3.0 | Crypto market intelligence: prices, funding rates, narratives, regime, and delt… |
+| 2026-10-14 14:42:24 | [io.github.Alex-Dev-Web-C-DE/creator-engine-mcp](https://github.com/Alex-Dev-Web-C-DE/creator-engine) | Creator Engine | 0.5.0 | Promise extraction and alignment from contracts, NDAs, and legal documents. |
+| 2026-10-14 14:42:42 | [io.github.Jezue/fitatu-api](https://github.com/Jezue/fitatu_library) | Fitatu | 0.5.0 | Unofficial Fitatu calorie counter: read and log food, weight, water and workout… |
+| 2026-10-14 14:42:54 | [io.github.mryangsd-netizen/seedance30](https://github.com/mryangsd-netizen/seedance30-mcp) | Seedance 3.0 | 1.0.0 | Seedance 3.0 info MCP (seedance30.com): product, pricing URL, capabilities. No… |
+| 2026-10-14 14:43:07 | io.github.jsonifyco/jsonify | Jsonify | 1.0.0 | Collect web data, manage pipelines, query datasets, and explore dashboards with… |
+| 2026-10-14 14:46:14 | [io.github.yunshenwuchuxun/smart-drawio](https://github.com/yunshenwuchuxun/smart-drawio-next) | Smart Drawio | 0.1.0 | Generate, validate, repair and style editable draw.io XML diagrams. |
+| 2026-10-14 14:47:48 | [io.github.est57/echoproof](https://github.com/est57/echoproof) | Echoproof | 0.1.1 | Replay real HTTP traffic against base and changed builds; flag behavior changes… |
+| 2026-10-14 14:47:58 | com.osintverse/mcp | OSINTverse | 1.0.0 | OSINT lookups across breach, people, domain, crypto, and image sources, paid pe… |
+| 2026-10-14 14:48:57 | [io.github.node-man/dechonet-mcp](https://github.com/node-man/dechonet-mcp) | DechoNet | 1.5.0 | Moved to com.dechonet/mcp. 25 security tools, hosted at https://dechonet.com/mcp |
+| 2026-10-14 14:53:08 | [io.github.atushi1841/kensho-apify](https://github.com/atushi1841/kensho-apify) | Kensho Apify Actors MCP | 1.0.0 | Apify Actor MCP for Japanese market data. Mercari, Yahoo Auctions, Rakuten, SUU… |
+| 2026-10-14 14:55:51 | [app.spacecontext/spacecontext](https://github.com/finikoslab/spacecontext) | Space Context | 0.2.0 | The context layer for the physical world: filmed spaces as cited context for ag… |
+| 2026-10-14 14:56:12 | si.agentkernel/models | AgentKernel AI model data | 1.0.0 | Live prices, rankings, licences and privacy of AI models: best model per task,… |
+| 2026-10-14 14:56:29 | [io.github.chrysogonus/prompt-maker-studio](https://github.com/chrysogonus/prompt-maker-studio) | Prompt Maker Studio | 0.3.0 | Your prompt library in any MCP client: list, fetch, save and version prompt tem… |
+| 2026-10-14 14:57:07 | [io.github.sathya-sankaran/mdshare](https://github.com/urbanmorph/mdshare) |  | 1.5.0 | Free markdown sharing. Upload, get links, collaborate. No login needed. |
+| 2026-10-14 14:58:10 | [io.github.spuentesp/lain](https://github.com/spuentesp/lain) |  | 0.10.0 | High-performance knowledge graph MCP server for AI coding agents with semantic… |
+| 2026-10-14 15:00:58 | io.github.telman03/cuescout | CueScout | 1.2.0 | Check if ChatGPT or Perplexity names a brand for a buying question, and if AI b… |
+| 2026-10-14 15:02:50 | ai.augmentev/paseo |  | 0.1.2 | List AugmentEV's agents and run text generation on a hosted open model (Standar… |
+| 2026-10-14 15:03:08 | com.pixelplusapp/pixelplus | Pixel+ | 1.2.0 | Make AI videos, images, dubbing, character swaps and upscales with your Pixel+… |
+| 2026-10-14 15:04:28 | [com.apprankhero/mcp](https://github.com/DedalDev/apprankhero-mcp) | AppRankHero | 1.3.0 | App Store and Google Play keyword ranks, keyword research and competitors for y… |
+| 2026-10-14 15:09:43 | [io.github.capybarist/reagentlab](https://github.com/capybarist/reagentlab) | Reagent Lab | 0.1.0 | Join a lab where AI agents from different people debate in turns and refute eac… |
+| 2026-10-14 15:10:33 | com.demisignal/mcp | DemiSignal | 1.0.0 | Check a domain's DMARC, SPF, DKIM, MX, BIMI and MTA-STS records. Generate SPF a… |
+| 2026-10-14 15:11:39 | com.heyecco/ecco | ecco board | 1.0.1 | A shared task board for you and your AI agents: agents pick up tasks, ask you,… |
+| 2026-10-14 15:11:52 | [com.learnosapp/learnos](https://github.com/trippuroskie/learnos) | LearnOS | 0.2.0 | Hosted MCP for LearnOS: search courses, lesson citations, flashcards and notes… |
+| 2026-10-14 15:13:24 | [com.ascent-partners/fair-value](https://github.com/simonmak-ascent/fair-value) | Fair Value MCP Server | 0.2.7 | Valuation MCP: DCF/NAV/CCA, WACC, derivatives, credit risk, fixed income, struc… |
+| 2026-10-14 15:14:13 | io.github.imshadow/launcholio | Launcholio | 1.0.0 | Audit websites and manage your Launcholio products and BadgeBuddy directory bad… |
+| 2026-10-14 15:14:15 | com.lyreleads/lyre-leads | Lyre Leads | 1.1.0 | Every business of a kind in a city, from Google Maps, read from its website, wi… |
+| 2026-10-14 15:14:39 | [io.github.RealSpap/authority-risk-mcp](https://github.com/RealSpap/authority-risk-oracle-showcase) |  | 0.1.0 | Read-only tools for AI agents: who can change a smart contract, how fast. Signe… |
+| 2026-10-14 15:14:46 | [com.ascent-partners/startup-valuation](https://github.com/simonmak-ascent/startup-valuation) | Startup Valuation MCP Server | 2.1.4 | Startup valuation for AI agents: 14 tools, 80+ pre-revenue formulas. |
+| 2026-10-14 15:15:52 | [com.ascent-partners/intangible-valuation](https://github.com/simonmak-ascent/intangible-valuation) | Intangible Asset Valuation MCP Server | 2.1.4 | Intangible asset valuation: 14 tools, 124+ formulas for IP, technology, goodwil… |
+| 2026-10-14 15:18:23 | [io.github.BryceBlackRoot/memorycomb](https://github.com/BryceBlackRoot/memorycomb) | MemoryComb | 0.3.1 | One memory for every AI: Claude, ChatGPT and more share a memory that lives on… |
+| 2026-10-14 15:19:13 | [com.ascent-partners/hkex-filings](https://github.com/simonmak-ascent/hkex-filing-scraper) | HKEx Filings | 2.4.3 | Live HKEx (Hong Kong Stock Exchange) regulatory filings for AI agents. |
+| 2026-10-14 15:19:13 | com.satmarin/catalog |  | 0.4 | Maritime VSAT spares: part search, fitment, supersession and quote requests for… |
 
 ## Data source
 
