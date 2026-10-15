@@ -1,0 +1,44 @@
+created_at,server,title,version,repository,transports,description
+2026-10-15T12:22:56.278561Z,com.profitpather.tools/storefront-check,Storefront Check,1.0.0,https://github.com/profitpather/profitpather-tools,streamable-http,"Audit any storefront from outside: ad tags, dead-tag detection, AI crawler access, feed readiness."
+2026-10-15T12:23:39.058068Z,com.arkerah/arkerah,arkerah,1.0.0,,streamable-http,"Your ranked corporate job matches in five European countries, read from your AI assistant."
+2026-10-15T12:24:44.365591Z,com.mailbuttons/mcp-server,Mailbuttons (mbag.ai),0.1.3,https://github.com/mailbuttons/mcp-server,streamable-http,"Governed email for AI agents (Mailbuttons / mbag.ai): sandbox inboxes, policy gate, audit log."
+2026-10-15T12:24:49.441426Z,cruises.luxuryforless/premium-cruise-fares,Premium cruise fares,1.0.0,,streamable-http,"Search premium cruise fares by line, ship, nights, date, and rate."
+2026-10-15T12:27:57.738292Z,com.atlas-red/mind-map,Atlas Red mind maps,1.1.0,,streamable-http,"Build and edit real mind maps from a chat: brainstorm, plan, organise notes. Free, never metered."
+2026-10-15T12:28:14.979766Z,io.github.useadstudio/adstudio,Adstudio,1.0.0,https://github.com/useadstudio/adstudio-mcp,streamable-http,"Read-only Google Ads, Meta Ads and TikTok Ads performance, campaigns and creatives via OAuth."
+2026-10-15T12:28:33.40075Z,social.myog/checker,MyOG Checker,0.1.1,,,Check a public page's static Open Graph and Twitter metadata locally. No account or API key.
+2026-10-15T12:28:38.336451Z,dev.kuuhaku/kuuhaku,Kuuhaku,0.2.9,,streamable-http,"Ask who calls a route, what a change breaks or who reads a field, across a system's repos."
+2026-10-15T12:31:10.38974Z,com.heyhooky/hooky,Hooky,1.0.0,,streamable-http,"Live chat for websites: answer visitors, manage sites, read notifications and stats."
+2026-10-15T12:33:51.462199Z,io.github.back1ply/agent-skill-loader,,1.2.1,https://github.com/back1ply/agent-skill-loader,,Dynamically load Claude Code skills into AI agents without copying files.
+2026-10-15T12:38:46.058329Z,io.github.ksgisang/awt,AWT (AI Watch Tester),1.8.0,https://github.com/ksgisang/awt-skill,,AI-powered E2E testing MCP server. Detects and auto-fixes UI bugs via DevQA Loop and Vision AI.
+2026-10-15T12:38:46.237242Z,com.profitpather.tools/us-tariff-lookup,US Tariff Lookup,1.0.0,https://github.com/profitpather/profitpather-tools,streamable-http,Find the right US tariff code for a product and the duty rate that actually governs it.
+2026-10-15T12:39:28.693562Z,com.bereviewable/reviewable-artifacts,,0.4.2,,,Reviewable workspace discovery and private HTML review creation via stdio MCP.
+2026-10-15T12:41:22.145094Z,com.botrecipe/accesscheck,Agent Access Check,1.0.0,,streamable-http,"Before fetching a site: will it let an AI agent in (CAPTCHA, robots), and where is its agent door?"
+2026-10-15T12:41:22.445762Z,com.botrecipe/leads,Signal Leads,1.0.0,,streamable-http,"25 sales leads with a real funding, hiring or tech signal, source link and draft message. $19."
+2026-10-15T12:41:22.769858Z,com.botrecipe/wake,Agent Wake,1.0.0,,streamable-http,Schedule wake-ups for AI agents that bring back their saved state and thread when they fire.
+2026-10-15T12:41:50.651689Z,io.github.ouchi-dev/quran-mcp,Quran & Hadith,0.1.1,https://github.com/ouchi-dev/quran-mcp,,"Quran, major hadith collections and prayer times, fully offline"
+2026-10-15T12:41:51.176445Z,io.github.ouchi-dev/android-mcp,Android over adb,0.1.2,https://github.com/ouchi-dev/android-mcp,,Let an assistant see and drive Android phones and emulators over adb
+2026-10-15T12:41:51.704701Z,io.github.ouchi-dev/pdfforge,PDFForge,1.2.2,https://github.com/ouchi-dev/pdfforge,,"Local PDF toolkit: read, edit, OCR, redact, fill forms, compare, convert, bank statements to Excel"
+2026-10-15T12:42:54.247755Z,com.roboselect360/humanoid-robots,RoboSelect360 - Independent Humanoid Robot Intelligence,1.0.3,,streamable-http,"Independent humanoid robot intelligence: capabilities, real cost, supply chain. Free and paid tiers."
+2026-10-15T12:46:28.891436Z,com.samskrift/samskrift,Samskrift,1.2.0,,streamable-http,"Collaborative LaTeX editor: edit, compile and share PDFs, with full version history."
+2026-10-15T12:50:07.323714Z,io.github.AlgoWolfx/ribox,Ribox,1.0.0,,streamable-http,"Exact tools for AI assistants: QR codes, word counts, text diff and JSON checks. Free, no account."
+2026-10-15T12:51:51.917459Z,com.tetheredtrust/tethered-trust,Tethered Trust,0.12.0,,streamable-http,"Compatibility checks for AI agents before they buy or install: verdicts, evidence, receipts."
+2026-10-15T12:53:26.616622Z,com.moneydeals/us-tech-deals,MoneyDeals – US Tech Deals,1.1.0,,streamable-http,"Verified US consumer-tech deals, coupons and 90-day price history. Free, read-only, no API key."
+2026-10-15T12:53:55.056869Z,app.vellm/vellm,Vellm,1.0.0,,streamable-http,"Create AI videos from photos with templates, track jobs, and download results using Vellm points."
+2026-10-15T12:57:00.690657Z,com.kanonyr/commerce,KANONYR website corrections,1.0.0,,streamable-http,Free website inspection; EUR 2 WebPage JSON-LD repair and EUR 5 audit via Stripe MPP. FR B2B.
+2026-10-15T12:58:57.642999Z,si.streetjournal/street-journal,Street Journal,1.0.0,,streamable-http,"Daily and weekly AI briefings on the stocks you hold, plus per-ticker news with sources."
+2026-10-15T12:59:49.348638Z,io.github.DustinTrap/kvm-pilot,,1.0.0,https://github.com/DustinTrap/kvm-pilot,,"Smart hands for your AI agents - write-capable KVM+BMC+SSH MCP server: gated, verified, audited."
+2026-10-15T13:00:41.268438Z,io.github.lian-yang/voicememotext,Voice Memo to Text,1.0.0,,streamable-http,"AI transcription API: turn voice memos, meetings and audio URLs into text and SRT subtitles."
+2026-10-15T13:02:33.431079Z,io.github.phpranga/math-to-code-mcp,,1.0.0,https://github.com/phpranga/math-to-code-mcp,streamable-http,"Math MCP server for primality, factorization, Java templates, and integer multiplication."
+2026-10-15T13:03:19.247829Z,ai.askyouraudience/ask-your-audience,Ask Your Audience,1.0.1,https://github.com/Ask-Your-Audience/askyouraudience,streamable-http,"Test concepts, messaging and ads with audience-matched digital twins in your AYA account."
+2026-10-15T13:05:13.018761Z,dev.workers.mike-tusa.hrefgate/hrefgate,HrefGate,0.1.1,,streamable-http,"Lint hreflang: codes, x-default, self-reference, canonical, return links. Never fetches URLs."
+2026-10-15T13:07:37.529853Z,it.trovastorage/trovastorage,TrovaStorage,1.0.0,,streamable-http,"TrovaStorage.it è il marketplace per il self-storage. Cerca centri, schede per città. Sola lettura."
+2026-10-15T13:09:12.090609Z,com.jforh/diabetes,Journey for Health,1.0.0,,streamable-http,"Read-only glucose, meal and spike data the user chooses to share from Journey for Health."
+2026-10-15T13:10:10.15354Z,com.citedtravel/citedtravel,CitedTravel,0.2.0,,streamable-http,"Cited travel facts for 195 countries: plugs, currency, emergency numbers, holidays, visa pilot."
+2026-10-15T13:11:49.55562Z,ai.kolect.app/creator-search,Kolect Creator Search,1.0.0,,streamable-http,"Search 300M+ TikTok, Instagram and YouTube creators by brief; check fake followers; get emails."
+2026-10-15T13:13:40.91145Z,io.github.UMHelper/what2reg-um,What2REG@UM 澳大選咩課,0.1.0,https://github.com/UMHelper/next-web,streamable-http,"Read-only University of Macau course, instructor and review data."
+2026-10-15T13:16:25.177699Z,com.brainonbnb/defi-agent,,1.0.0,,streamable-http,"PancakeSwap V3 range check for any position or wallet, free; the re-centre plan is paid. BNB Chain."
+2026-10-15T13:16:35.160826Z,com.brainonbnb/health-factor,,1.0.0,,streamable-http,"Venus health factor of any BNB Chain account, free; liquidation drawdown and stress table, paid."
+2026-10-15T13:16:40.641454Z,com.brainonbnb/grid-trader,,1.0.0,,streamable-http,"What a BSC pool really costs to trade, free; grid levels with their break-even spacing, paid."
+2026-10-15T13:16:47.158526Z,com.brainonbnb/yield-optimizer,,1.0.0,,streamable-http,"Venus supply rates on BNB Chain, free; whether moving a position pays for its gas, paid."
+2026-10-15T13:16:51.063466Z,com.brainonbnb/rebalancer,,1.0.0,,streamable-http,"PancakeSwap best route on BNB Chain, free; a portfolio rebalance priced against real pools, paid."
+2026-10-15T13:16:55.644747Z,com.brainonbnb/lp-placement,,1.0.0,,streamable-http,"PancakeSwap V3 fee tiers for a BSC token, free; which tier and range to place liquidity in, paid."
