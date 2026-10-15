@@ -9,44 +9,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 11:21 UTC
+## Latest list — 2026-10-15 12:22 UTC
 
-New MCP servers published between 2026-10-15 10:22 UTC and 2026-10-15 11:21 UTC.
+New MCP servers published between 2026-10-15 11:21 UTC and 2026-10-15 12:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-15T11-21-39-469355Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-15T12-22-47-680841Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-15 10:24:38 | io.kompare/search | Kompare travel search | 0.1.0 | Live prices on package holidays and niche trips from Danish travel agencies, wi… |
-| 2026-10-15 10:25:26 | com.desloppy/desloppy | Desloppy | 0.4.0 | Find the lines that make writing sound like AI, with a plain fix for each. Free… |
-| 2026-10-15 10:30:42 | [com.homemortgageonline/mortgage-tools](https://github.com/CGABrew7/homemortgageonline) | HomeMortgageOnline mortgage tools | 1.0.0 | Read-only mortgage calculators and the site's published rate snapshot. |
-| 2026-10-15 10:30:52 | [com.usedforktruck/forklift-tools](https://github.com/CGABrew7/usedforktruck) | Used Fork Truck | 1.0.0 | Read-only price book, seller screen, and financing illustration. |
-| 2026-10-15 10:36:57 | [io.github.TaplioOfficial/taplio-linkedin-mcp](https://github.com/TaplioOfficial/taplio-linkedin-mcp) | Taplio for LinkedIn | 1.1.0 | Write, schedule and analyze LinkedIn posts, find inspiration, comment, like and… |
-| 2026-10-15 10:40:51 | com.misslicita/misslicita | MissLicita: licitaciones del Estado per… | 1.0.0 | Licitaciones abiertas, contratos menores y buenas pro del Estado peruano, con d… |
-| 2026-10-15 10:41:10 | [io.github.danyasnov/avia-mcp](https://github.com/danyasnov/avia-mcp) | Aviasales | 0.1.1 | Cheap flight search via Aviasales Data API: fares by route, price calendar, che… |
-| 2026-10-15 10:42:55 | com.gptshopltd/web-files | Web Files to Text | 1.0.0 | Download files from URL lists, turn PDFs into Markdown and read text from image… |
-| 2026-10-15 10:43:03 | com.gptshopltd/site-audit | Website Audit Tools | 1.0.0 | SEO, broken links, Lighthouse, sitemaps, Open Graph tags and SSL expiry for any… |
-| 2026-10-15 10:43:07 | com.gptshopltd/lead-research | Company and Lead Research | 1.0.0 | Emails and socials from company sites, WHOIS, live job listings, Hacker News an… |
-| 2026-10-15 10:43:33 | ai.sendguard/preflight | SendGuard | 1.0.0 | Check an email before your AI agent sends it: allow, review or block with reaso… |
-| 2026-10-15 10:45:12 | [com.mambabuilt/mcp-account-hiring-watch](https://github.com/mambalabsdev/mcp-account-hiring-watch) |  | 1.0.0 | Watch company job boards for new, closed, and reposted postings, with 30 day hi… |
-| 2026-10-15 10:46:56 | com.coinmarketcal/events | CoinMarketCal | 1.0.0 | Crypto events calendar: dated, sourced and impact-scored events for 14,000+ coi… |
-| 2026-10-15 10:48:06 | [io.github.provenpin/provenpin](https://github.com/provenpin/provenpin) | ProvenPin | 0.1.0 | Tested, version-pinned code recipes for AI coding agents, each with its last-pa… |
-| 2026-10-15 10:52:07 | ai.nitrino/nitrino | Nitrino | 1.0.0 | AI sales agent: finds B2B buyers, researches each one, writes from your account… |
-| 2026-10-15 10:55:18 | com.bria-api/bria-mcp | Bria | 1.0.0 | Commercially licensed image generation and editing with IP indemnification. |
-| 2026-10-15 10:57:06 | [io.github.FAVIOSENGER/cte-mdfe-mcp](https://github.com/FAVIOSENGER/cte-mdfe-mcp) |  | 0.1.0 | Emissao e consulta de CT-e e MDF-e (transporte) no Brasil via Focus NFe, para a… |
-| 2026-10-15 10:58:50 | io.github.AperiAnalytics/walletfollow | WalletFollow | 1.0.0 | Read-only Hyperliquid wallet, market and portfolio research with source timesta… |
-| 2026-10-15 10:59:30 | [io.github.Servosity/cisco-meraki-mcp](https://github.com/servosity/msp-skills) | Cisco Meraki MCP | 0.1.0 | Meraki Dashboard for MSPs: every API operation plus cross-org outages, renewals… |
-| 2026-10-15 10:59:35 | com.21risk/mcp | 21RISK | 1.0.0 | Read and update your 21RISK data: sites, audits, compliance, actions, claims an… |
-| 2026-10-15 11:02:26 | app.connectmyshop/etsy | ConnectMyShop for Etsy | 1.0.0 | Manage your Etsy shop from your AI: bulk-edit listings, prices and drafts. You… |
-| 2026-10-15 11:02:33 | com.workchats/mcp | Workchats | 1.0.0 | Read and act on your Workchats messages, tasks, meetings and files. You approve… |
-| 2026-10-15 11:07:24 | [io.github.capskov/cad-agent-foundation](https://github.com/capskov/cad-agent-foundation) | CAD Agent Foundation | 1.1.0-rc.1 | Native AutoCAD MCP server for AI agents with bounded operations and write/save… |
-| 2026-10-15 11:07:26 | io.github.filipp-nekahev/fillwise-mcp | FillWise | 0.1.2 | Fill PDF forms with AI from plain text: fillable and flat PDFs, USCIS and other… |
-| 2026-10-15 11:09:06 | top.contextlm/context-os | Context OS | 1.0.0 | Workspace knowledge bases agents ingest, search, and query over MCP. |
-| 2026-10-15 11:09:37 | com.spgdentalimplants/spg-dental-implants | SPG Dental Implants | 1.0.0 | FAQ, practices, contact, doctors and locations for Shared Practices Group Dentu… |
-| 2026-10-15 11:19:27 | com.neuralcosmology/neuralcosmology | Neural Cosmology | 1.0.0 | Answers, essays, experiments and books on consciousness and cosmology: search,… |
-| 2026-10-15 11:19:59 | [io.github.Crayz129/hn-hiring-mcp](https://github.com/Crayz129/hn-hiring-mcp) | HN Who is hiring | 0.1.0 | Search, read and compare Hacker News "Who is hiring?" job posts as typed data.… |
-| 2026-10-15 11:20:37 | [io.github.blackmoon87/autocad-site-mcp](https://github.com/blackmoon87/acad) |  | 0.2.1 | Headless CAD engine & MCP server for 2D/3D drafting, solids, DXF/SVG export, an… |
-| 2026-10-15 11:21:16 | [io.swiftnodes/swiftnodes](https://github.com/swiftnodes/swiftnodes-mcp) | SwiftNodes RPC | 1.0.0 | Blockchain RPC for 125+ chains: endpoints, method support, probing and RPC call… |
+| 2026-10-15 11:23:08 | [io.github.alexslkgit/own-words](https://github.com/alexslkgit/own-words) | own-words | 1.0.0 | Turn notes into a study deck: answer each card in your own words, then compare. |
+| 2026-10-15 11:25:12 | [io.github.Mehmoodqureshi/mcp-browser-extension](https://github.com/Mehmoodqureshi/mcp-browser-extension) | MCP Browser Extension | 0.9.26 | Drive your real Chrome over MCP: real logins and cookies, multi-tab automation,… |
+| 2026-10-15 11:26:46 | io.keyban.mcp/agent-wallet | Keyban Agent Wallet | 0.1.0 | Give an AI agent its own blockchain wallet: balances, USDC transfers, x402 paym… |
+| 2026-10-15 11:32:09 | [io.github.Servosity/fortinet-mcp](https://github.com/servosity/msp-skills) | Fortinet MCP | 0.1.0 | Audit every client FortiGate for firmware, SSL-VPN exposure, admin accounts and… |
+| 2026-10-15 11:34:47 | [io.github.EyalSec/eyalsec-mcp](https://github.com/EyalSec/eyalsec-mcp) | EyalSec | 0.1.0 | Read your EyalSec security events, machines, runs and rules from an AI assistan… |
+| 2026-10-15 11:35:57 | com.handsomelocal/handsome-local | Handsome Local | 1.1.0 | Search hand-picked websites for plumbers, electricians, roofers and other trade… |
+| 2026-10-15 11:37:41 | ai.datagrout/datagrout | DataGrout | 1.0.0 | Discover, plan and run tools across your connected business systems through one… |
+| 2026-10-15 11:42:14 | [io.github.ni-c/osm-mcp](https://github.com/ni-c/osm-mcp) | OpenStreetMap | 0.3.2 | Geocoding, walking/driving/cycling distances, route optimization, isochrones an… |
+| 2026-10-15 11:42:25 | [com.tartanhq/hypersync](https://github.com/TartanHQ/mcp-be) |  | 0.1.0 | Read-only HRMS data (employees, connectors, salary) from Tartan HyperSync. OAut… |
+| 2026-10-15 11:43:20 | io.sudio/studio | Sudio | 1.0.0 | The AI video studio: records your web app, writes and voices the script, render… |
+| 2026-10-15 11:43:26 | com.lorglabs/lorg-check | Lorg Check | 1.1.0 | Is this token a trap? Is this address safe to pay? Signed verdicts on Base and… |
+| 2026-10-15 11:47:32 | site.varaapp/vara | Vara | 1.1.0 | Read and update your Vara lab experiments, runs, daily plans, references and ma… |
+| 2026-10-15 11:47:54 | io.github.dreamor/memvault | MemVault MCP Server | 0.4.2 | Shared memory router for AI agents: save/search/recall, session-start injection… |
+| 2026-10-15 11:49:43 | pl.spokojnierodzice/spokojnie | spokojnie – czy to normalne? | 0.1.0 | Checked, source-linked Polish answers on child development 0–36 months. Not med… |
+| 2026-10-15 11:51:32 | cz.postbot/postbot | Postbot | 0.1.0-remote.1 | Send real paper letters in the Czech Republic, ordinary or registered, via Česk… |
+| 2026-10-15 11:52:00 | [io.github.Applied-Form/engine](https://github.com/Applied-Form/engine) | Applied Form engine | 3.2.1 | Lint rendered pages against a design system in a real browser, across six width… |
+| 2026-10-15 11:56:03 | fr.meridal/releves | Relevés de la rubrique Apprendre de Mer… | 1.0.0 | Relevés datés et sourcés : prix des modèles d'IA, abonnements, classements, rég… |
+| 2026-10-15 11:59:14 | io.twexapi/mcp | TwexAPI | 1.0.0 | Search public X (Twitter) posts and read profiles, timelines, followers, trends… |
+| 2026-10-15 12:00:43 | [io.github.Deke1Yahav/hive](https://github.com/Deke1Yahav/agents-hive) |  | 0.1.0 | Q&A forum for AI agents, by AI agents: search answers, ask, vote, pin canonical… |
+| 2026-10-15 12:01:42 | com.profitpather.tools/shiprate-au | ShipRate AU | 1.1.0 | Australian parcel rates from Australia Post retail and a commercial courier pan… |
+| 2026-10-15 12:01:44 | com.profitpather.tools/business-days | Business Days | 2.0.0 | Public holidays and working-day maths for 200+ countries, cross-checked across… |
+| 2026-10-15 12:03:15 | [io.github.ni-c/woodpecker-ci-mcp](https://github.com/ni-c/woodpecker-ci-mcp) | Woodpecker CI | 0.4.0 | Read Woodpecker CI repositories, pipelines and logs, and drive builds, secrets… |
+| 2026-10-15 12:03:29 | [io.github.andredelgado/continente-mcp](https://github.com/andredelgado/continente-mcp) | Continente MCP | 0.3.1 | Unofficial Continente.pt shopping: search products, read favorites and orders,… |
+| 2026-10-15 12:07:50 | [io.github.manojknaikade/space-standards-mcp](https://github.com/manojknaikade/space-standards-mcp) | Space Standards | 0.2.3 | Cited, requirement-level Q&A over ECSS and NASA standards you supply (bring you… |
+| 2026-10-15 12:08:42 | ai.spoe/spoe | SPOE | 1.0.0 | Check a name on 29 platforms and the domains; build and follow apps you own on… |
+| 2026-10-15 12:11:48 | [io.github.lilingm963/scifig](https://github.com/lilingm963/scifig-plugins) | SciFig | 1.0.0 | Create scientific illustrations, data charts and flowcharts with your SciFig ac… |
+| 2026-10-15 12:13:16 | cloud.amore.accounting/fortnox | More AI - ChatGPT & Claude MCP (Fortnox) | 1.0.0 | Fortnox MCP server: read, analyse and post to your Fortnox books from ChatGPT,… |
+| 2026-10-15 12:16:46 | com.gdprrepresentative/rep27 | REP27 — EU & UK legal representative | 1.0.0 | Check EU/UK GDPR Art. 27 and GPSR Art. 16 obligations, see plans, start a free… |
+| 2026-10-15 12:17:46 | [com.logimu/shopping-mcp](https://github.com/ncosic/logimu-shopping-mcp) | Logimu | 1.7.7 | Amazon (11 marketplaces) and Walmart US product data: search, prices, stock, hi… |
+| 2026-10-15 12:18:03 | lt.taxmeter/taxmeter | Taxmeter | 0.1.0 | Lietuvos PVM paruošimas / Lithuanian VAT preparation. No submission or tax advi… |
+| 2026-10-15 12:19:29 | [com.bavimail/mcp-server](https://github.com/Bavlio/bavimail-mcp-server) | Bavimail | 1.0.1 | Email for AI agents: send email, read inbound email, and manage aliases and dom… |
+| 2026-10-15 12:20:16 | [io.github.Schoasch/backtesting-arena](https://github.com/Schoasch/skill-backtesting-arena) | Backtesting Arena | 1.13.0 | Crypto backtesting & Bitcoin cycle analytics. Point-in-time, DSR-corrected, loo… |
+| 2026-10-15 12:20:22 | [io.github.arjunprabhulal/mcp-flight-search](https://github.com/arjunprabhulal/mcp-flight-search) | Flight Search | 0.3.0 | Search Google Flights through SerpApi: one-way and round-trip flights by IATA a… |
+| 2026-10-15 12:20:56 | [io.github.lewisdonovan/google-news](https://github.com/lewisdonovan/google-news-scraper) | Google News | 0.1.2 | Search Google News, get top stories and read articles. No API key or headless b… |
+| 2026-10-15 12:21:11 | io.github.chtwebllc/counterparty-check | Counterparty Check | 1.0.0 | Check a payee before your agent pays: sanctions, lookalike domains, payment det… |
 
 ## Data source
 
