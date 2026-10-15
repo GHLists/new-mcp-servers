@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-15T02:21:22.656959Z,io.github.LuminariSoftwares/context-guardian,Context Guardian,0.10.0,https://github.com/LuminariSoftwares/context-guardian,,"Compacting proxy for OpenAI-compatible backends, with MCP tools to search the archived history."
+2026-10-15T02:25:26.961882Z,com.rentalanalytics/rent-tools,RentalAnalytics rent tools,1.0.0,https://github.com/CGABrew7/rentalanalytics,streamable-http,Read-only HUD rent lookup and the site's existing rental calculators.
+2026-10-15T02:27:10.209981Z,io.github.Joinware/healthcare-provider-intelligence,Healthcare Provider Intelligence,0.1.3,https://github.com/Joinware/healthcare-provider-intelligence,streamable-http; sse,"Provider intelligence API joining NPPES, CMS Open Payments, and OIG LEIE with source provenance."
+2026-10-15T02:27:12.511343Z,com.datacrate360/guides-and-fixes,DataCrate360 Guides & Fixes,1.0.1,,streamable-http,"Search verified fixes and guides for data tools (Snowflake, dbt, Airflow, Spark…). Paste an error."
+2026-10-15T02:30:29.260706Z,io.github.franzsy5/luvvoice-mcp,LuvVoice Text-to-Speech,1.0.2,,,Text-to-speech with 200+ voices in 70+ languages. Requires a LuvVoice API token.
+2026-10-15T02:35:14.613195Z,energy.mentor/mentor-energy,mentor.energy,1.0.0,,streamable-http,"Energy-industry careers: browse courses, read preview lessons, search articles, find mentors."
+2026-10-15T02:35:40.915556Z,com.carragent/carragent,Carragent,1.0.0,,streamable-http,"Carragent's AI agents for small businesses, its plans and prices. Read-only, no key."
+2026-10-15T02:38:16.131924Z,io.github.hpdkhoa/coatinglab-mcp,Coating Lab,0.1.0,https://github.com/hpdkhoa/coatinglab-mcp,,"Real surface finishes for game gun models: sourced finishes, variants, wear baked from use"
+2026-10-15T02:38:24.168767Z,com.marqpdf/marqpdf,MarqPDF,1.0.0,,streamable-http,"PDF tools for agents: compress to a size, Arabic + English OCR, Office conversion, JSON extraction."
+2026-10-15T02:38:50.249381Z,co.buzzfy/mcp,Buzzfy,0.1.0,https://github.com/Buzzfy/buzzfy,streamable-http,"Manage your Instagram in chat: stats, comments, DMs, publishing and scheduling after you approve."
+2026-10-15T02:42:36.168612Z,io.songlinks/songlinks,Songlinks,0.10.0,,streamable-http,"Find the songwriter behind a name or IPI name number, under every spelling and number."
+2026-10-15T02:43:01.687774Z,dev.workers.mike-tusa.profanity-api/profanity-api,CussCheck,0.2.0,,streamable-http,"English profanity filter: find and censor swear words, incl. obfuscations. Word list, not AI."
+2026-10-15T02:44:12.389098Z,md.marble/marble,Marble,1.0.0,,streamable-http,"Read, write, organise and share Markdown notes in Marble, the collaborative Markdown editor."
+2026-10-15T02:47:20.975909Z,io.github.hcpapi/housecall-pro-mcp,,1.19.0,https://github.com/hcpapi/housecall-pro-mcp,,"Independent MCP server for the Housecall Pro API: jobs, estimates, invoices, price book, schedule."
+2026-10-15T02:47:50.422121Z,io.github.demos-ra/void-os,,0.1.0,,,"Memory for AI agents: a data bank of MTSV relations, read through one tool."
+2026-10-15T02:53:48.145324Z,me.instadram/instadram,Instadram,1.0.0,,streamable-http,"Whisky & bourbon collection in AI: search the catalog, read and manage your shelf (OAuth)."
+2026-10-15T02:56:30.130636Z,app.lpsignal/lpsignal,LPSignal,1.0.0,,streamable-http,Uniswap/PancakeSwap/Aerodrome LP pools and price ranges ranked by net APR after impermanent loss
+2026-10-15T03:00:07.748539Z,io.github.arjunprabhulal/superpdf,superPDF AI,0.4.1,https://github.com/arjunprabhulal/superpdf,,"PDF tools on your computer: read, convert, edit, merge, fill and compare PDFs. Nothing is uploaded."
+2026-10-15T03:00:35.946889Z,dev.workers.mike-tusa.linkpulse/linkpulse,LinkPulse,0.3.0,,streamable-http,"Check one web page for broken links, redirect chains hop by hop and mixed content. Free, no key."
+2026-10-15T03:05:21.898635Z,io.github.nuncaeslupus/drawspec,drawspec,0.3.1,https://github.com/nuncaeslupus/drawspec,,Validate and render declarative diagram specs to clean SVG or PNG; no coordinates needed.
+2026-10-15T03:10:26.814492Z,ai.simpledock/simpledock,SimpleDock,1.2.0,,streamable-http,"Warehouse dock appointment scheduling: find open slots, book, reschedule, approve, check in trucks."
+2026-10-15T03:11:11.429971Z,com.socialgrowthengineers/mcp,Social Growth Engineers,1.0.0,,streamable-http,"Viral short-form videos, hooks, app growth playbooks and App Store data for marketers."
+2026-10-15T03:11:18.335042Z,com.shortimize/mcp,Shortimize,1.0.0,,streamable-http,"Track TikTok, Instagram Reels and YouTube Shorts accounts and videos: views, growth and analytics."
+2026-10-15T03:12:33.911702Z,ai.hiapi/mcp,HiAPI,0.4.0,,streamable-http,"Generate images, videos, speech, music and text with HiAPI's AI models. Bring your own API key."
+2026-10-15T03:12:52.440529Z,io.github.turbobeest/modelspec,ModelSpec,b8da9336f3c5a0b56d47987251a29006a5b0487b,https://github.com/turbobeest/modelspec,streamable-http,"Find AI models that fit a job from your requirements, sourced benchmarks and real cost."
+2026-10-15T03:15:01.342318Z,dev.workers.mike-tusa.ogforge/ogforge,OgForge,0.2.0,,streamable-http,Render 1200x630 Open Graph social preview images from templates; returns a cacheable PNG URL.
+2026-10-15T03:21:56.009527Z,io.github.marmot7775/sendermap,Sendermap,0.1.1,https://github.com/marmot7775/sendermap,,"Maps every service that sends email as a domain, with the public record behind each one."
