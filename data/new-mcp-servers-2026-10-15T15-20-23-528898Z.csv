@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-10-15T14:24:11.225688Z,io.github.paperoffice-ai/paperoffice-mcp,PaperOffice AI,3.6.0,https://github.com/paperoffice-ai/paperoffice-mcp-setup,streamable-http; streamable-http; streamable-http; streamable-http; streamable-http; streamable-http; streamable-http,"Document AI and headless DMS: OCR, IDP, search, workflows, signatures. EU-hosted, OAuth 2.1."
+2026-10-15T14:30:54.14375Z,io.github.toolweather/upstream,Upstream,0.1.0,https://github.com/toolweather/upstream,streamable-http,Is the AI/dev API your agent depends on up now? Live status of ~40 APIs plus model deprecations.
+2026-10-15T14:33:50.777235Z,site.russianato/risk-ladder,Russia–NATO risk ladder,1.7.0,,streamable-http,"Russia–NATO risk: labelled forecasts, scenarios and intelligence assessments. Cite russianato.site."
+2026-10-15T14:34:15.023656Z,com.snugplanner/snug-planner,,1.1.0,,streamable-http,"The first official family-planner MCP: tasks, calendar, meals, shopping and reminders."
+2026-10-15T14:34:41.223957Z,ru.mnogo-reels/mnogoreels,MnogoReels,1.0.0,https://github.com/RealSatanyan/mnogoreels-mcp,streamable-http; streamable-http,"Turn long videos into captioned vertical shorts, transcripts and articles with MnogoReels."
+2026-10-15T14:40:57.24285Z,com.adrianhomelab/leadgen-onrc,Leadgen ONRC Romania,1.0.1,https://github.com/darksider4all/leadgen-mcp,streamable-http,"Romania company registry: search 4.2M businesses by name/CUI, directors, financials."
+2026-10-15T14:42:30.837234Z,io.github.Zeptap/zeptap,Zeptap,1.0.1,https://github.com/zeptap/mcp,,"Operate a real iPhone from a Mac: screenshots, OCR, taps, typing, opening apps. Needs Zeptap."
+2026-10-15T14:43:23.460594Z,ca.homecalc/calculators,HomeCalc — Canadian Mortgage & Tax Calculators,1.1.0,,streamable-http,"Canadian mortgage, tax & land transfer calculators: 12 read-only tools, LTT for all 13 provinces."
+2026-10-15T14:48:19.981415Z,io.github.iyuyoung/nameideahub,Nameidea,0.1.0,,streamable-http,"Search recorded surnames with 2010 U.S. Census ranks, counts and traceable sources."
+2026-10-15T14:54:10.460915Z,app.creatordb/mcp,CreatorDB,1.8.0,https://github.com/CreatorDB/creatordb-mcp-server,streamable-http,"Creator discovery & analytics across YouTube, Instagram, TikTok (30M+) + brand/sponsor intel."
+2026-10-15T14:54:36.914583Z,com.chalet-montagne/rentals,Chalet-Montagne.com,1.2.0,https://github.com/alpium/chalet-montagne-mcp,streamable-http,Search French mountain holiday rentals and contact owners directly — commission-free.
+2026-10-15T14:54:37.899745Z,ai.clonekit/clonekit,CloneKit,0.1.0,,streamable-http,"Expert know-how (kits) any AI can read or run, always the latest version."
+2026-10-15T14:59:41.223103Z,dev.plugandship/plugandship-mcp,Plug and Ship,0.1.0,https://github.com/plugandship/plugandship-mcp,streamable-http,"Search MCP servers, agent skills and coding-agent plugins: trending tools and best-of lists."
+2026-10-15T15:02:06.599569Z,app.mojeeb/mcp,Mojeeb,1.0.0,,streamable-http,"AI customer service for WhatsApp, Instagram and Facebook: conversations, leads, contacts, knowledge"
+2026-10-15T15:05:03.045142Z,com.siftivo/siftivo,,0.2.0,https://github.com/btg5679/siftivo,streamable-http,"Book recommendations from your reading history, plus your shelves, ratings and series order."
+2026-10-15T15:06:17.490242Z,br.com.newread/conector,NewRead,0.2.0,,streamable-http,Consumo do condomínio e finanças pessoais (Finanças da Casa) da NewRead. Requer conta NewRead.
+2026-10-15T15:07:01.015154Z,io.github.ouchi-dev/paperwork-mcp,Paperwork,0.1.0,https://github.com/ouchi-dev/paperwork-mcp,,"Read letters, bills and scans locally: deadlines, amounts, checked IBANs, payment QR codes"
+2026-10-15T15:08:15.568901Z,io.github.yuvlero/mark,Mark: agent escrow,0.1.0,https://github.com/yuvlero/mark,,"Non-custodial 2-of-3 Bitcoin escrow for agent-to-agent deals on Arkade, Lightning in/out."
+2026-10-15T15:08:53.663431Z,fr.geduk/lms,Geduk LMS,0.2.0,,streamable-http,"Run the Geduk LMS from an AI assistant: courses, sessions, enrolments, users and catalogue."
+2026-10-15T15:11:16.395916Z,io.github.arif-js/opensdr-mcp,OpenSDR,1.0.0,https://github.com/arif-js/opensdr-mcp,,"Open-source AI SDR: B2B prospecting, email enrichment, buying signals and safe outreach staging."
+2026-10-15T15:11:48.377016Z,fr.dikoo/dikoo,DIKOO,1.0.0,,streamable-http,"Annuaire d'avocats en France, créneaux publics et lien de rendez-vous. Lecture seule."
+2026-10-15T15:13:49.304735Z,io.github.sumirati/mcp-github,GitHub MCP Server,1.0.0,https://github.com/sumirati/mcp-github,,Developer-ready GitHub MCP server with Token Economy First design and 3-tier read-only mode.
+2026-10-15T15:14:56.431009Z,com.waspytech/waspy,Waspy,1.0.0,https://github.com/abisaieg/Waspy,streamable-http,"Search contacts, read chats, and send confirmed messages for one Waspy account."
+2026-10-15T15:16:11.111191Z,io.github.kevnk/brandnamemaker,Brandname Maker,1.0.0,,streamable-http,Paid brand naming with real .com/.app/.ai checks. $0.25 stablecoin or $1 card per call (MPP).
+2026-10-15T15:18:09.831287Z,net.bizfetch/bizfetch,BizFetch,1.0.0,,streamable-http,"Judge Japanese companies against your criteria using Japan's public data (gBizINFO, NTA, EDINET)."
