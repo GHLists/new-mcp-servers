@@ -1,0 +1,35 @@
+created_at,server,title,version,repository,transports,description
+2026-10-14T23:19:52.609983Z,io.github.nolindnaidoo/decisionlint,DecisionLint,1.0.0,https://github.com/nolindnaidoo/decisionlint,,"Lint questions for Jev, Luna and any decision-model platform, or ask the model with your key."
+2026-10-14T23:21:32.625173Z,io.github.ProductOfAmerica/mcp-server-kicad,KiCad Tools,0.21.0,https://github.com/ProductOfAmerica/mcp-server-kicad,,"Byte-preserving KiCad automation: 100+ tools for schematics, PCB layout, ERC, DRC, exports"
+2026-10-14T23:22:47.487425Z,io.github.Firzus/tauri-agent-kit,,0.1.0-alpha.1,https://github.com/Firzus/agent-skills,,Unofficial Windows WebView2 diagnostics and automation for Tauri 2.12 development builds.
+2026-10-14T23:26:17.28015Z,app.thesaga/saga,SAGA,1.0.0,,streamable-http,"SAGA CRM for network marketing teams: contacts, pipelines, follow-ups and broadcasts over MCP."
+2026-10-14T23:26:32.331952Z,xyz.darksearch/search,DarkSearch.xyz,1.0.0,,streamable-http,"Full-text search over web pages published on IPFS. Free, no key."
+2026-10-14T23:27:46.64052Z,com.iinventedlight/library,iinventedlight Library,1.0.0,,streamable-http,"Public notes from iinventedlight/corrow: list, read, search; optional key-gated contribution queue."
+2026-10-14T23:29:37.01482Z,com.roomexpert/hotels,RoomExpert,0.2.0,,streamable-http,"Hotel verdicts on eight axes, with every quote cited to its outlet and url."
+2026-10-14T23:33:36.488235Z,ai.opencancer/opencancer,OpenCancer,2.0.0,,streamable-http,"Cancer patient expert: NCCN-grounded answers with sources, recruiting trials, and expert review."
+2026-10-14T23:34:15.144302Z,io.github.Agentower/agentower,Agentower,0.1.0,,streamable-http,"See which of your team's coding agents needs someone, across Claude Code, Codex and Cursor."
+2026-10-14T23:35:15.040186Z,org.jam-jam/convert-mcp,Jam Jam,0.2.1,,,Convert music files to chord sheets and manage your Jam Jam songbook from an AI assistant.
+2026-10-14T23:36:05.467963Z,io.github.wkoverfield/switchboard,,0.2.3,https://github.com/wkoverfield/switchboard,,One firewall and password manager for all your AI coding agents' MCP servers and secrets.
+2026-10-14T23:38:44.692023Z,io.github.pooriaarab/agentic-scout,,0.1.0,https://github.com/pooriaarab/agentic-scout,,Find relevant threads and viral content ideas across social platforms.
+2026-10-14T23:38:45.01107Z,io.github.pooriaarab/agentic-engage,,0.1.0,https://github.com/pooriaarab/agentic-engage,,Plan and send approved engagement on social platforms.
+2026-10-14T23:38:45.488478Z,io.github.pooriaarab/agentic-persona,,0.1.0,https://github.com/pooriaarab/agentic-persona,,Keep one consistent AI persona across social content.
+2026-10-14T23:38:45.92725Z,io.github.pooriaarab/agentic-carousel,,0.1.0,https://github.com/pooriaarab/agentic-carousel,,Build platform-ready carousels from an outline.
+2026-10-14T23:38:46.303383Z,io.github.pooriaarab/agentic-campaign,,0.1.0,https://github.com/pooriaarab/agentic-campaign,,Plan a social campaign calendar across brands and platforms.
+2026-10-14T23:38:46.671953Z,io.github.pooriaarab/agentic-repurpose,,0.1.0,https://github.com/pooriaarab/agentic-repurpose,,Turn one source into platform-ready post variants.
+2026-10-14T23:38:47.031553Z,io.github.pooriaarab/agentic-mentions,,0.1.0,https://github.com/pooriaarab/agentic-mentions,,Collect and triage brand mentions and inbound comments.
+2026-10-14T23:38:47.490851Z,io.github.pooriaarab/agentic-analytics,,0.1.0,https://github.com/pooriaarab/agentic-analytics,,Score social post results and recommend the next move.
+2026-10-14T23:39:26.928248Z,com.litshrine/agent,litshrine,0.1.0,https://github.com/litshrine/agent,streamable-http,"A quiet place for agents to make wishes, light a daily lamp, and receive a reviewed oracle."
+2026-10-14T23:42:49.668794Z,me.freehire/freehire,freehire,0.6.0,https://github.com/strelov1/freehire-mcp,streamable-http,"freehire.me: search 3.3M+ IT jobs from 294K company boards, track applications, tailor CVs."
+2026-10-14T23:46:30.58498Z,xyz.agoreum/agoreum-public,"Agoreum (read only, no account)",0.11.0,,streamable-http,"Browse the Agoreum agent marketplace without an account: search services, agents and reputation."
+2026-10-14T23:48:59.859973Z,eu.skimetric/skimetric,Skinow,1.1.0,,streamable-http,"Skinow, formerly Skimetric: snow forecasts, lift status, season history and AI ski trip planning"
+2026-10-14T23:49:53.719737Z,sh.supercomputer/supercomputer,supercomputer,0.4.4,,streamable-http,"GPU compute for agents: run commands on an L4/A100/H100, watch logs, billed per second."
+2026-10-14T23:51:01.493641Z,com.swipeharbor/swipeharbor,SwipeHarbor,1.0.0,,streamable-http,"Ad archive search (NewsBreak, Rumble, YouTube, Meta). Paid SwipeHarbor members only; token required."
+2026-10-14T23:52:27.451327Z,io.github.pooriaarab/agentic-device,,0.1.0,https://github.com/pooriaarab/agentic-device,,Control your own iPhones for posting via WebDriverAgent and ESP32 HID.
+2026-10-14T23:52:28.067748Z,io.github.pooriaarab/agentic-account,,0.1.0,https://github.com/pooriaarab/agentic-account,,Set up and track brand social accounts and their connections.
+2026-10-14T23:56:21.294106Z,ai.viuz/viuz,Viuz,1.0.0,,streamable-http,"Plan, draft and schedule social posts for your brand from your assistant."
+2026-10-14T23:56:40.562141Z,io.github.zachshallbetter/adobe-mcp-illustrator,Illustrator MCP Server,0.1.0,https://github.com/zachshallbetter/adobe-mcp,,"Drive Adobe Illustrator from any MCP client: artboards, layers, shapes, text, colour and export."
+2026-10-14T23:58:56.393905Z,io.sepiace/sepiace,sepiace,0.2.0,https://github.com/osaxyz/sepiace,streamable-http,"Long-term memory for AI agents. Pass one sentence, and it remembers, recalls, or forgets."
+2026-10-14T23:59:05.070507Z,com.saltcrate/oracle,SaltCrate Oracle,1.0.0,,streamable-http,"Pay-per-call web intelligence MCP: fetch pages, check links, detect changes, verify claims."
+2026-10-15T00:00:12.345075Z,com.conferencedatabase/conferencedb,ConferenceDB,1.0.0,,streamable-http,"Which companies sponsor and exhibit at conferences, with dates and published sponsor packages."
+2026-10-15T00:02:41.092296Z,com.k-agentpay/kaia-x402,K-AgentPay: Korea travel & K-pop data,0.3.0,https://github.com/k-agentpay/kaia-x402,,"Korea travel & K-pop live data for agents: concerts, Seoul trip packs, crowd, subway, airport."
+2026-10-15T00:03:14.362772Z,com.broadcastwell/public,Broadcastwell,1.0.0,,streamable-http,"Who five AI engines name in 14 software categories, with a published receipt on each. No key."

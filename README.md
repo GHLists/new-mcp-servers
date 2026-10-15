@@ -9,47 +9,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 23:19 UTC
+## Latest list — 2026-10-15 00:20 UTC
 
-New MCP servers published between 2026-10-14 22:21 UTC and 2026-10-14 23:19 UTC.
+New MCP servers published between 2026-10-14 23:19 UTC and 2026-10-15 00:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-14T23-19-46-80116Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-15T00-20-29-895825Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-14 22:23:18 | com.baseofagi/news | Base of AGI | 1.0.0 | AI news in TR/EN/ES/RU, a daily stack brief and a verified MCP/plugin/skill cat… |
-| 2026-10-14 22:24:52 | [io.github.Orphograph/orphograph](https://github.com/Orphograph/Orphograph) | Orphograph | 0.1.2 | Anchor a file's SHA-256 fingerprint to Bitcoin. The file never leaves the devic… |
-| 2026-10-14 22:26:59 | app.genmc/genmc | genMC – AI Minecraft studio | 1.0.0 | Minecraft builds and skins made by your AI agent, live in your browser tab. Exp… |
-| 2026-10-14 22:32:07 | [ai.aviado/health](https://github.com/kipmcc/aviado-mcp) | Aviado AI | 0.3.0 | Cited supplement evidence, biomarker effects, interaction checks and brand qual… |
-| 2026-10-14 22:34:39 | io.github.mycelium-being/agent-account-index | Agent Account Index | 2026-10-12 | Can an AI agent hold an account at a service? Verdict, owner of record, quoted… |
-| 2026-10-14 22:38:42 | ai.hivehall/shared-research | HiveHall | 0.9.0 | Shared research, saved evidence, independent reviews and open tasks for AI agen… |
-| 2026-10-14 22:40:29 | [io.github.Thorarinsson22/smart-post-studio](https://github.com/Thorarinsson22/smart-post-studio-mcp) | Smart Post Studio | 1.0.0 | Read, draft and schedule social media posts to 8 platforms. No post-now tool by… |
-| 2026-10-14 22:42:28 | [io.github.mohammad-emad-dev/diagrams-mcp-server](https://github.com/mohammad-emad-dev/diagrams-mcp-server) | Diagrams MCP Server | 0.8.0 | Local-first MCP server for PlantUML and Mermaid diagrams with drift detection. |
-| 2026-10-14 22:43:50 | [io.github.dokaNc/illugen-mcp](https://github.com/dokaNc/illugen-mcp) | IlluGen | 0.1.0 | Build, edit and render JangaFX IlluGen node graphs (textures, VFX) from your AI… |
-| 2026-10-14 22:53:39 | [io.github.fineprintcorp/fineprint](https://github.com/fineprintcorp/fineprint-skill) | Fineprint | 1.0.0 | Scan terms of service for risk. Returns 0-100 score, verdict, agent-friendlines… |
-| 2026-10-14 22:54:05 | [io.github.ehsanghaffar/ganjoor-mcp-server](https://github.com/ganjoor/ganjoor-mcp-server) |  | 0.1.0 | MCP server for the Ganjoor (گنجور) Persian classical poetry API at https://ganj… |
-| 2026-10-14 22:54:45 | [io.github.ip2k/vaultwarden-drop-slot-mcp](https://github.com/ip2k/vaultwarden-drop-slot-mcp) | Vaultwarden Drop Slot | 0.1.0 | Create-only, age-encrypted deposits of new logins and notes into Vaultwarden, w… |
-| 2026-10-14 23:02:17 | [com.owlcad/mcp](https://github.com/Spare-Matter/owlcad-plugin) | OwlCAD | 1.0.1 | Parametric 3D CAD for AI agents: build print-ready parts, check them, export ST… |
-| 2026-10-14 23:02:38 | com.tirokdo/gift-ideas | Tirokdo - Idées cadeaux et Secret Santa | 0.4.0 | Idées cadeaux et Secret Santa Tirokdo : tirages, lettres au Père Noël, suivi de… |
-| 2026-10-14 23:04:13 | ai.dibri/dibri | Dibri | 1.0.0 | Verified answers for AI agents: only from approved documents, with sources, or… |
-| 2026-10-14 23:06:53 | [io.github.tidydata-dev/tidydata](https://github.com/tidydata-dev/tidydata-mcp) | TidyData Tools | 1.0.0 | Holidays, business days, currency, time zones, DNS/WHOIS, web page checks, geod… |
-| 2026-10-14 23:09:18 | com.pinafly/uat | Pinafly UAT | 1.1.0 | Your agent writes a UAT. You walk it and pin problems. It reads and fixes them.… |
-| 2026-10-14 23:13:03 | [io.github.blakeplock/i2idl-glossary](https://github.com/blakeplock/i2idl-linked-data) | I2IDL Glossary of Digital Learning | 1.0.0 | Public read-only MCP access to digital learning concepts, semantic relationship… |
-| 2026-10-14 23:14:15 | uk.co.landlordlookout/mtd | Landlord Lookout: Making Tax Digital | 1.0.0 | UK Making Tax Digital for Income Tax: who must use it and when, software that f… |
-| 2026-10-14 23:15:54 | [io.github.OlsOls4/calkit](https://github.com/OlsOls4/webkit-api) | CalKit | 1.1.0 | Public holidays for 150+ countries, business-day maths and timezone lookup |
-| 2026-10-14 23:15:55 | [io.github.OlsOls4/dockit](https://github.com/OlsOls4/webkit-api) | DocKit | 1.1.0 | Extract text and metadata from PDFs; convert Markdown or text to PDF |
-| 2026-10-14 23:15:55 | [io.github.OlsOls4/domainkit](https://github.com/OlsOls4/webkit-api) | DomainKit | 1.1.0 | DNS records, SSL certificate, WHOIS/RDAP and website tech scan for any domain |
-| 2026-10-14 23:15:55 | [io.github.OlsOls4/fraudkit](https://github.com/OlsOls4/webkit-api) | FraudKit | 1.1.0 | Fraud risk score for signups and orders from email, IP, phone and user-agent |
-| 2026-10-14 23:15:55 | [io.github.OlsOls4/geoip](https://github.com/OlsOls4/webkit-api) | GeoIP | 1.1.0 | IP geolocation: country, continent, ASN and ISP lookup |
-| 2026-10-14 23:15:55 | [io.github.OlsOls4/imagekit](https://github.com/OlsOls4/webkit-api) | ImageKit | 1.1.0 | Resize, convert to WebP, compress, crop, rotate and strip EXIF from images |
-| 2026-10-14 23:15:55 | [io.github.OlsOls4/llmkit](https://github.com/OlsOls4/webkit-api) | LLMKit | 1.1.0 | Token counting, RAG chunking, truncation, HTML to Markdown and JSON repair |
-| 2026-10-14 23:15:56 | [io.github.OlsOls4/phonekit](https://github.com/OlsOls4/webkit-api) | PhoneKit | 1.1.0 | Phone number validation, formatting, carrier, line type and timezone |
-| 2026-10-14 23:15:56 | [io.github.OlsOls4/qrkit](https://github.com/OlsOls4/webkit-api) | QRKit | 1.1.0 | Generate QR codes (URL, WiFi, vCard) and barcodes as PNG/SVG |
-| 2026-10-14 23:15:56 | [io.github.OlsOls4/textkit](https://github.com/OlsOls4/webkit-api) | TextKit | 1.1.0 | Sentiment, language detection, readability, keywords, summaries and profanity f… |
-| 2026-10-14 23:15:56 | [io.github.OlsOls4/ukpostcode](https://github.com/OlsOls4/webkit-api) | UK PostcodeKit | 1.1.0 | UK postcode lookup, nearest postcodes, autocomplete and distance (OS open data) |
-| 2026-10-14 23:15:56 | [io.github.OlsOls4/validkit](https://github.com/OlsOls4/webkit-api) | ValidKit | 1.1.0 | Validate IBAN, EU VAT, card numbers, ISBN, BIC, EAN and postcodes |
-| 2026-10-14 23:15:57 | [io.github.OlsOls4/webkit](https://github.com/OlsOls4/webkit-api) | WebKit | 1.1.0 | Email validation, link previews and article-to-Markdown extraction for AI agents |
-| 2026-10-14 23:18:37 | [net.ucai/abs](https://github.com/hypergraphdev/abs-skills) | ABS · AI Business System | 1.0.0 | Lean operations knowledge base built on DBS: cited answers, tool cards, plans a… |
+| 2026-10-14 23:19:52 | [io.github.nolindnaidoo/decisionlint](https://github.com/nolindnaidoo/decisionlint) | DecisionLint | 1.0.0 | Lint questions for Jev, Luna and any decision-model platform, or ask the model… |
+| 2026-10-14 23:21:32 | [io.github.ProductOfAmerica/mcp-server-kicad](https://github.com/ProductOfAmerica/mcp-server-kicad) | KiCad Tools | 0.21.0 | Byte-preserving KiCad automation: 100+ tools for schematics, PCB layout, ERC, D… |
+| 2026-10-14 23:22:47 | [io.github.Firzus/tauri-agent-kit](https://github.com/Firzus/agent-skills) |  | 0.1.0-alpha.1 | Unofficial Windows WebView2 diagnostics and automation for Tauri 2.12 developme… |
+| 2026-10-14 23:26:17 | app.thesaga/saga | SAGA | 1.0.0 | SAGA CRM for network marketing teams: contacts, pipelines, follow-ups and broad… |
+| 2026-10-14 23:26:32 | xyz.darksearch/search | DarkSearch.xyz | 1.0.0 | Full-text search over web pages published on IPFS. Free, no key. |
+| 2026-10-14 23:27:46 | com.iinventedlight/library | iinventedlight Library | 1.0.0 | Public notes from iinventedlight/corrow: list, read, search; optional key-gated… |
+| 2026-10-14 23:29:37 | com.roomexpert/hotels | RoomExpert | 0.2.0 | Hotel verdicts on eight axes, with every quote cited to its outlet and url. |
+| 2026-10-14 23:33:36 | ai.opencancer/opencancer | OpenCancer | 2.0.0 | Cancer patient expert: NCCN-grounded answers with sources, recruiting trials, a… |
+| 2026-10-14 23:34:15 | io.github.Agentower/agentower | Agentower | 0.1.0 | See which of your team's coding agents needs someone, across Claude Code, Codex… |
+| 2026-10-14 23:35:15 | org.jam-jam/convert-mcp | Jam Jam | 0.2.1 | Convert music files to chord sheets and manage your Jam Jam songbook from an AI… |
+| 2026-10-14 23:36:05 | [io.github.wkoverfield/switchboard](https://github.com/wkoverfield/switchboard) |  | 0.2.3 | One firewall and password manager for all your AI coding agents' MCP servers an… |
+| 2026-10-14 23:38:44 | [io.github.pooriaarab/agentic-scout](https://github.com/pooriaarab/agentic-scout) |  | 0.1.0 | Find relevant threads and viral content ideas across social platforms. |
+| 2026-10-14 23:38:45 | [io.github.pooriaarab/agentic-engage](https://github.com/pooriaarab/agentic-engage) |  | 0.1.0 | Plan and send approved engagement on social platforms. |
+| 2026-10-14 23:38:45 | [io.github.pooriaarab/agentic-persona](https://github.com/pooriaarab/agentic-persona) |  | 0.1.0 | Keep one consistent AI persona across social content. |
+| 2026-10-14 23:38:45 | [io.github.pooriaarab/agentic-carousel](https://github.com/pooriaarab/agentic-carousel) |  | 0.1.0 | Build platform-ready carousels from an outline. |
+| 2026-10-14 23:38:46 | [io.github.pooriaarab/agentic-campaign](https://github.com/pooriaarab/agentic-campaign) |  | 0.1.0 | Plan a social campaign calendar across brands and platforms. |
+| 2026-10-14 23:38:46 | [io.github.pooriaarab/agentic-repurpose](https://github.com/pooriaarab/agentic-repurpose) |  | 0.1.0 | Turn one source into platform-ready post variants. |
+| 2026-10-14 23:38:47 | [io.github.pooriaarab/agentic-mentions](https://github.com/pooriaarab/agentic-mentions) |  | 0.1.0 | Collect and triage brand mentions and inbound comments. |
+| 2026-10-14 23:38:47 | [io.github.pooriaarab/agentic-analytics](https://github.com/pooriaarab/agentic-analytics) |  | 0.1.0 | Score social post results and recommend the next move. |
+| 2026-10-14 23:39:26 | [com.litshrine/agent](https://github.com/litshrine/agent) | litshrine | 0.1.0 | A quiet place for agents to make wishes, light a daily lamp, and receive a revi… |
+| 2026-10-14 23:42:49 | [me.freehire/freehire](https://github.com/strelov1/freehire-mcp) | freehire | 0.6.0 | freehire.me: search 3.3M+ IT jobs from 294K company boards, track applications,… |
+| 2026-10-14 23:46:30 | xyz.agoreum/agoreum-public | Agoreum (read only, no account) | 0.11.0 | Browse the Agoreum agent marketplace without an account: search services, agent… |
+| 2026-10-14 23:48:59 | eu.skimetric/skimetric | Skinow | 1.1.0 | Skinow, formerly Skimetric: snow forecasts, lift status, season history and AI… |
+| 2026-10-14 23:49:53 | sh.supercomputer/supercomputer | supercomputer | 0.4.4 | GPU compute for agents: run commands on an L4/A100/H100, watch logs, billed per… |
+| 2026-10-14 23:51:01 | com.swipeharbor/swipeharbor | SwipeHarbor | 1.0.0 | Ad archive search (NewsBreak, Rumble, YouTube, Meta). Paid SwipeHarbor members… |
+| 2026-10-14 23:52:27 | [io.github.pooriaarab/agentic-device](https://github.com/pooriaarab/agentic-device) |  | 0.1.0 | Control your own iPhones for posting via WebDriverAgent and ESP32 HID. |
+| 2026-10-14 23:52:28 | [io.github.pooriaarab/agentic-account](https://github.com/pooriaarab/agentic-account) |  | 0.1.0 | Set up and track brand social accounts and their connections. |
+| 2026-10-14 23:56:21 | ai.viuz/viuz | Viuz | 1.0.0 | Plan, draft and schedule social posts for your brand from your assistant. |
+| 2026-10-14 23:56:40 | [io.github.zachshallbetter/adobe-mcp-illustrator](https://github.com/zachshallbetter/adobe-mcp) | Illustrator MCP Server | 0.1.0 | Drive Adobe Illustrator from any MCP client: artboards, layers, shapes, text, c… |
+| 2026-10-14 23:58:56 | [io.sepiace/sepiace](https://github.com/osaxyz/sepiace) | sepiace | 0.2.0 | Long-term memory for AI agents. Pass one sentence, and it remembers, recalls, o… |
+| 2026-10-14 23:59:05 | com.saltcrate/oracle | SaltCrate Oracle | 1.0.0 | Pay-per-call web intelligence MCP: fetch pages, check links, detect changes, ve… |
+| 2026-10-15 00:00:12 | com.conferencedatabase/conferencedb | ConferenceDB | 1.0.0 | Which companies sponsor and exhibit at conferences, with dates and published sp… |
+| 2026-10-15 00:02:41 | [com.k-agentpay/kaia-x402](https://github.com/k-agentpay/kaia-x402) | K-AgentPay: Korea travel & K-pop data | 0.3.0 | Korea travel & K-pop live data for agents: concerts, Seoul trip packs, crowd, s… |
+| 2026-10-15 00:03:14 | com.broadcastwell/public | Broadcastwell | 1.0.0 | Who five AI engines name in 14 software categories, with a published receipt on… |
 
 ## Data source
 
