@@ -1,0 +1,34 @@
+created_at,server,title,version,repository,transports,description
+2026-10-15T08:26:03.56282Z,io.github.groundlens-dev/groundlens,GroundLens,5.3.0,https://github.com/groundlens-dev/groundlens,,"Verify AI answers and executions and seal signed, offline-verifiable evidence records."
+2026-10-15T08:31:18.816476Z,io.github.AgentaOS/agentaos,AgentaOS,3.1.0,https://github.com/AgentaOS/agentaos,streamable-http,"Merchant of record: payment links, checkouts, subscriptions and invoices, with VAT handled."
+2026-10-15T08:36:48.830217Z,io.aeroz/aeroz,Aeroz,0.2.0,,streamable-http,"Prove a physical item is genuine (NFC chip); read its EU Digital Product Passport, recalls, custody."
+2026-10-15T08:38:43.726244Z,io.github.IlyaShurf/qrtap,QRTap,1.0.1,https://github.com/IlyaShurf/mozart-qr-platform,,"Editable QR codes, short links, public pages, reviews and bookings as tools for AI agents."
+2026-10-15T08:40:47.338521Z,com.sochain/mcp,SoChain,0.1.0,,streamable-http,"Live Bitcoin, Litecoin, Dogecoin and Zcash data: balances, transactions, blocks, fees, prices."
+2026-10-15T08:41:02.230193Z,ch.agentready/swiss-company-directory,agentready.ch: Swiss company directory,1.0.0,,streamable-http,"Verified Swiss company profiles for AI agents: search, read and contact firms via allowed actions."
+2026-10-15T08:42:17.535247Z,dev.paperdock/paperdock,PaperDock,0.10.0,,streamable-http,"Overleaf alternative online LaTeX editor. AI agents edit, comment, and chat. Keep or revert edits."
+2026-10-15T08:47:08.696074Z,com.uptrusting/mcp,UpTrust,0.0.1,,streamable-http,"Find trusted people on any topic, check if a source is credible, meet those who bridge divides."
+2026-10-15T08:47:44.316395Z,es.scplus/hipotecas,SmartCredit+ Hipotecas,1.0.0,,streamable-http,"Calculadoras, viabilidad, prescoring y ofertas hipotecarias anónimas de SmartCredit+ (España)."
+2026-10-15T08:47:46.171632Z,com.swifteq/zendesk-mcp-server,Swifteq MCP Server for Zendesk,1.0.0,,streamable-http,"Connect Claude, ChatGPT or any AI assistant to Zendesk tickets, CSAT, macros and Help Center."
+2026-10-15T08:47:56.808307Z,io.github.CindyLiao1106/nocodecsv,NoCodeCSV,1.0.0,https://github.com/CindyLiao1106/nocodecsv,streamable-http,"Ask questions about a CSV in plain English and get answers, charts and cleaned data back."
+2026-10-15T08:48:19.573338Z,io.github.iyuyoung/jotoak,JotOak,0.1.0,,streamable-http,"Find published word searches, crosswords and mazes with matching Letter and A4 PDF files."
+2026-10-15T08:49:17.406277Z,day.dodo/dodo,DoDo,0.1.0,,streamable-http,"Todo app that keeps a record: list, add, start and complete todos, and get a weekly summary."
+2026-10-15T08:52:01.809939Z,si.findadoctor.api-nz/nz-doctor-finder,FindADoctor.si New Zealand,nz-2026-10-15.2,,streamable-http,"Find New Zealand doctors and GP practices by condition, procedure or place, with sources. No signup."
+2026-10-15T08:52:26.857514Z,io.github.wangkant/corroborate,Corroborate,0.1.0,https://github.com/wangkant/corroborate,streamable-http,"Open evidence base built by AI agents: server-checked quotes, blind review, Erdős literature checks."
+2026-10-15T08:55:20.842529Z,com.anthra/anthra,Anthra,1.0.0,,streamable-http,"Agentic AI book creator: plan, write, illustrate, narrate, and publish books from any MCP client."
+2026-10-15T08:55:29.21442Z,io.github.rara-cyber/reelscribe,ReelScribe,2.2.1,https://github.com/rara-cyber/reelscribe-mcp-server,streamable-http,"Transcribe social videos, selected comments, URL batches and Instagram channels."
+2026-10-15T08:56:25.093705Z,io.disban/disban,Disban,1.0.0,,streamable-http,"Check if a signup email is disposable, free, an alias, testing, parked or unknown, with evidence."
+2026-10-15T08:57:23.827716Z,ai.haymon/dbmcp,,0.14.0,https://github.com/haymon-ai/dbmcp,,"Database MCP server for MySQL, MariaDB, PostgreSQL & SQLite with PII redaction and write-prevention"
+2026-10-15T08:59:21.280646Z,kr.co.airealty/lawmcp,airealty 한국 법령 (법제처 OPEN API),0.1.0,https://github.com/conoc612-a11y/airealty-lawmcp,streamable-http,대한민국 법령·조문·별표·연혁·판례·해석례를 법제처 국가법령정보 OPEN API 로 찾아보는 읽기 전용 MCP 서버. 코어 12 + 보조 12 도구.
+2026-10-15T08:59:45.43803Z,io.github.CindyLiao1106/container-loading,Container Loading Calculator,1.0.0,https://github.com/CindyLiao1106/container-loading-calculator,streamable-http,"Work out how many flat-pack units fit in a 20ft or 40HQ container: layers, weight and utilisation."
+2026-10-15T09:00:26.398302Z,app.nftm/nftm,NFTm,1.0.0,https://github.com/agvelarde/nftm,streamable-http,Quote an NFTm launch. The creator signs in Phantom.
+2026-10-15T09:08:41.38811Z,io.github.jeffreyturov-dev/adaga-network,Adaga Network — Direct Booking Federation,1.0.0,,streamable-http,"Search and book every Adaga network hotel at once: live availability, exact prices, real booking."
+2026-10-15T09:09:39.382133Z,com.artifactdeploy/artifactdeploy,ArtifactDeploy,1.7.0,,streamable-http,"Deploy what Claude builds to a live link: previews, who-opened-it links, stats, forms, domains."
+2026-10-15T09:11:26.689143Z,co.lifeable/lifeable,Lifeable,1.0.0,,streamable-http,"Your life organizer: tasks, reminders, bills, habits, family dates and trips — read and add from AI."
+2026-10-15T09:14:22.464391Z,io.github.OpenAdaptAI/openadapt-agent,"OpenAdapt: your agent decides, OpenAdapt enters it and checks it saved",2.1.0,https://github.com/OpenAdaptAI/openadapt-agent,,Your AI agent decides what to enter. OpenAdapt enters it in the app and checks that it saved.
+2026-10-15T09:14:28.119032Z,dev.workers.sebastiaan-ba3.payverify/tools,,1.0.0,,streamable-http,"Verify a Base USDC transaction or x402 settlement landed. Free, no account needed."
+2026-10-15T09:14:38.569672Z,dev.workers.sebastiaan-ba3.signals/tools,,1.0.0,,streamable-http,Lighter funding/volume snapshot and multi-chain wallet balance checks for AI agents.
+2026-10-15T09:14:48.904693Z,dev.workers.sebastiaan-ba3.x402lint/tools,,1.0.0,,streamable-http,Lints whether a paid API's 402 response speaks the x402 protocol correctly.
+2026-10-15T09:19:08.834112Z,io.alion/alion,"Alion: company, startup and market intelligence",1.2.0,,streamable-http; streamable-http,"Live data on millions of companies: funding, tech stack, growth, lookalikes, jobs and pay stats."
+2026-10-15T09:20:41.53511Z,com.kayoupu.www/plans,卡有谱流量卡查询,1.0.0,,streamable-http,"Search and compare mobile data plans for mainland China, with terms, sources, and source dates."
+2026-10-15T09:20:48.651891Z,app.featurevote/featurevote,featurevote,0.1.0,,streamable-http,"Read requests and votes; with write access, manage feedback and draft changelogs. OAuth required."
+2026-10-15T09:22:47.846749Z,org.roadtag/road-tag,Road Tag - Accessible Road Reports,1.0.0,https://github.com/qwert7278/keelung-accessible-map,streamable-http,"Taiwan community road barriers. Read-only, coordinates only; address/landmark search unavailable."
