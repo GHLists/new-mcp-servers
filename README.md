@@ -9,32 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 05:19 UTC
+## Latest list — 2026-10-15 06:21 UTC
 
-New MCP servers published between 2026-10-15 04:22 UTC and 2026-10-15 05:19 UTC.
+New MCP servers published between 2026-10-15 05:19 UTC and 2026-10-15 06:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-15T05-19-27-252491Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-15T06-21-08-95281Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-15 04:26:49 | [com.pocketbasecloud/mcp](https://github.com/pocketbasecloud/mcp) | PocketBase Cloud | 1.0.0 | Manage PocketBase Cloud projects, PocketBase instances, frontends, backends, de… |
-| 2026-10-15 04:32:10 | [io.github.shift7667/cheapest-esim](https://github.com/shift7667/cheapest-esim-mcp) | Cheapest eSIM Korea (최저가e심) | 1.0.0 | Daily verified travel eSIM/SIM prices: 54 countries, 1-30 day trips, Korean sel… |
-| 2026-10-15 04:36:15 | [com.affitor/mcp](https://github.com/Affitor/cli) | Affitor | 0.2.2 | Track affiliate clicks, leads and sales and check program readiness on Affitor. |
-| 2026-10-15 04:36:24 | [io.github.agentarenaleague/agent-arena](https://github.com/agentarenaleague/agent-arena) | Agent Arena | 1.0.0 | Paper leaderboards for AI bots (24 leagues). Register, trade or answer tasks vi… |
-| 2026-10-15 04:38:22 | [io.github.0Mattias/bettermemory](https://github.com/0Mattias/bettermemory) | bettermemory | 9.0.0rc1 | MCP memory for coding agents, checked against your files and git history on eve… |
-| 2026-10-15 04:42:08 | pro.rivaire/finance | Rivaire Finance | 1.0.0 | Personal finance tracker: wallets, transactions, debts, plans and spending summ… |
-| 2026-10-15 04:43:20 | [io.github.thunderbid/socketlist-mcp](https://github.com/thunderbid/socketlist-mcp) | Socketlist | 1.0.0 | Search a directory of 800+ open-source MCP servers: find, compare and get insta… |
-| 2026-10-15 04:44:56 | ai.patchdesign/patch-designer | PatchDesign.AI | 1.0.0 | Design custom embroidered, woven, chenille, printed and PVC patches, price them… |
-| 2026-10-15 04:50:51 | [io.github.harshmaur/reddit-scraper](https://github.com/harshmaur/reddit-scraper-pro-mcp) | Reddit Scraper (Apify) – posts, comment… | 1.1.0 | Reddit posts, comments, search, users & subreddits as JSON via Apify. No Reddit… |
-| 2026-10-15 04:50:52 | [io.github.harshmaur/reddit-scraper-pro](https://github.com/harshmaur/reddit-scraper-pro-mcp) | Reddit Scraper Pro (Apify) – posts, com… | 1.0.3 | Reddit posts, comments, search, users & subreddits as JSON via Apify. No Reddit… |
-| 2026-10-15 04:56:53 | [io.github.gridpin/gridpin-mcp](https://github.com/gridpin/gridpin) | GridPin offline geocoder | 0.1.0 | Offline geocoding and reverse geocoding from one local file per country. No API… |
-| 2026-10-15 04:58:30 | [io.github.toolweather/toolweather](https://github.com/toolweather/toolweather) | Toolweather | 1.0.0 | Live health checks for MCP servers: is a server/tool safe to call now, plus wor… |
-| 2026-10-15 05:05:58 | [io.github.Liohtml/matomo-mcp](https://github.com/Liohtml/matomo-mcp) | Matomo Analytics | 0.1.4 | Curated read-only Matomo Analytics tools: traffic, pages, referrers, e-commerce… |
-| 2026-10-15 05:07:40 | [au.com.bidit/registry](https://github.com/Bidit-AU/bidit-registry) |  | 1.0.0 | Does this retailer take offers, and does it price match? Verified answers, chec… |
-| 2026-10-15 05:09:18 | com.find-ref/find-ref | find-ref | 0.1.0-beta | Korean accounting standards, audit, tax and legal sources and rulings, with cit… |
-| 2026-10-15 05:15:39 | com.restoreworth/fema-data | RestoreWorth FEMA Data | 1.0.0 | FEMA NFIP flood claims by state and county, damage by water depth, county profi… |
-| 2026-10-15 05:16:44 | com.ssanvps/vps-prices | SSANVPS - VPS & domain price comparison | 1.0.0 | Cheapest and best-value VPS plans by spec, plus domain prices, read daily from… |
-| 2026-10-15 05:16:55 | [io.github.Jackalope-Dev/allmcps-server](https://github.com/Jackalope-Dev/allmcps-server) |  | 2.2.0 | Search, browse, and submit MCP servers to the AllMCPs.com directory. |
+| 2026-10-15 05:23:41 | [io.github.Servosity/google-workspace-mcp](https://github.com/servosity/msp-skills) | Google Workspace MCP | 0.1.0 | Cross-client Google Workspace admin: 2SV gaps, license waste, sharing drift, sa… |
+| 2026-10-15 05:29:28 | com.mikefluff/mikefluff | Mike Fluff | 1.0.0 | Answers from Mike Fluff Press books, the business diagnostic, AI-text check, ca… |
+| 2026-10-15 05:34:03 | [io.github.obsei/obsei](https://github.com/obsei/obsei) | obsei | 1.0.0-rc.5 | Self-hosted customer feedback with PII stripped at ingest: search, stats and th… |
+| 2026-10-15 05:40:56 | com.wherewasai/wherewasai | WhereWasAI | 1.0.0 | A public travel log for AI agents. Read journals and postcards, and post with a… |
+| 2026-10-15 05:44:48 | [io.github.juftin/lunchmoney-app](https://github.com/juftin/lunchmoney-app) | Lunch Money MCP | 0.15.0 | MCP-first access to your Lunch Money data. |
+| 2026-10-15 05:46:41 | com.jointhestudentlife/docs | The Student Life docs | 1.0.0 | Search and read city guides, student blog guides, the FAQ, pricing and policies. |
+| 2026-10-15 05:56:56 | [io.github.csolomon0704-prog/verify-proof](https://github.com/Fulcrum-Enterprises/verify-proof) | verify-proof | 0.3.2 | Verify blockchain timestamp proofs offline, or anchor a new one through ProofLe… |
+| 2026-10-15 06:00:14 | [io.github.compscidr/sair](https://github.com/compscidr/sair) | SAIR | 0.1.21 | Run Android tests on real phones, or lease one: install, shell, screenshot, log… |
+| 2026-10-15 06:01:26 | store.section/section-store | Section Store | 1.5.0 | Build bundles and cart drawers for your Shopify store with Section Store. |
+| 2026-10-15 06:06:07 | [io.github.abeljumanuel/axiom-meridian](https://github.com/abeljumanuel/axiom-meridian-project) | Axiom Meridian | 0.1.0 | Serves only the team rules and lessons learned relevant to a project. Code drif… |
+| 2026-10-15 06:06:54 | org.flowchartai/flowchartai | FlowchartAI | 1.0.0 | Create, edit, save and export native flowcharts through OAuth with your Flowcha… |
+| 2026-10-15 06:08:45 | [dev.ployz/ployz](https://github.com/getployz/ployz) | Ployz | 1.0.0 | Deploy apps, databases and previews to your own servers. Run Ployz Cloud from y… |
+| 2026-10-15 06:09:25 | [io.github.al157/quarterlytax-mcp](https://github.com/al157/quarterly-tax-calc) | Quarterly Tax Calculator | 1.0.0 | US federal + state quarterly estimated tax estimates, SE tax, and quarterly pay… |
+| 2026-10-15 06:09:47 | io.github.tonbifun/fixmyjson | FixMyJSON | 0.4.0 | Repair broken LLM JSON and check it against a JSON Schema. Flags cut-off output… |
+| 2026-10-15 06:11:35 | io.github.ParsingMAINFRAME/bankday | Bankday | 1.0.0 | Business days, holidays and settlement dates for ACH, TARGET2, Bacs, 28 exchang… |
+| 2026-10-15 06:15:37 | [com.dmarkoff/mcp](https://github.com/dmarcoff/mcp) | DMARKOFF — DMARC, SPF & DKIM Analytics | 1.3.0 | DMARC analytics for AI assistants: SPF/DKIM, compliance, anomalies, p=reject re… |
+| 2026-10-15 06:15:45 | [io.github.grokkkkkk/cn-theories](https://github.com/grokkkkkk/cn-theories) | CN Internet Theories / 中文互联网理论库 | 0.1.0 | Search viral Chinese-internet theories (大水理论, 薄肌理论…) with sources, in Chinese a… |
+| 2026-10-15 06:17:02 | io.github.al157/audit-mcp | VibeAudit Site Overview | 1.0.0 | VibeAudit (audit.al157.xyz) site overview: services, pricing, contact, CTA link… |
+| 2026-10-15 06:19:10 | com.kinganlogic/fahce-integrity-repair | FAHCE Integrity Repair | 1.0.0 | Free FAHCE contract discovery. Paid evidence determinations use wallet-only x40… |
+| 2026-10-15 06:20:19 | dev.omikuji/calories | Japan Restaurant Calories | 1.0.0 | Nutrition facts for 24,000+ menu items of 100+ Japanese restaurant chains, with… |
 
 ## Data source
 

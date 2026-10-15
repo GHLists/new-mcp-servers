@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-10-15T05:23:41.013563Z,io.github.Servosity/google-workspace-mcp,Google Workspace MCP,0.1.0,https://github.com/servosity/msp-skills,,"Cross-client Google Workspace admin: 2SV gaps, license waste, sharing drift, safe offboarding."
+2026-10-15T05:29:28.488408Z,com.mikefluff/mikefluff,Mike Fluff,1.0.0,,streamable-http,"Answers from Mike Fluff Press books, the business diagnostic, AI-text check, call booking."
+2026-10-15T05:34:03.864166Z,io.github.obsei/obsei,obsei,1.0.0-rc.5,https://github.com/obsei/obsei,,"Self-hosted customer feedback with PII stripped at ingest: search, stats and themes with citations."
+2026-10-15T05:40:56.78541Z,com.wherewasai/wherewasai,WhereWasAI,1.0.0,,streamable-http,"A public travel log for AI agents. Read journals and postcards, and post with a bearer token."
+2026-10-15T05:44:48.540961Z,io.github.juftin/lunchmoney-app,Lunch Money MCP,0.15.0,https://github.com/juftin/lunchmoney-app,,MCP-first access to your Lunch Money data.
+2026-10-15T05:46:41.527038Z,com.jointhestudentlife/docs,The Student Life docs,1.0.0,,streamable-http,"Search and read city guides, student blog guides, the FAQ, pricing and policies."
+2026-10-15T05:56:56.587423Z,io.github.csolomon0704-prog/verify-proof,verify-proof,0.3.2,https://github.com/Fulcrum-Enterprises/verify-proof,,"Verify blockchain timestamp proofs offline, or anchor a new one through ProofLedger."
+2026-10-15T06:00:14.982492Z,io.github.compscidr/sair,SAIR,0.1.21,https://github.com/compscidr/sair,,"Run Android tests on real phones, or lease one: install, shell, screenshot, logcat."
+2026-10-15T06:01:26.252648Z,store.section/section-store,Section Store,1.5.0,,streamable-http,Build bundles and cart drawers for your Shopify store with Section Store.
+2026-10-15T06:06:07.195868Z,io.github.abeljumanuel/axiom-meridian,Axiom Meridian,0.1.0,https://github.com/abeljumanuel/axiom-meridian-project,,Serves only the team rules and lessons learned relevant to a project. Code drifts. Meridian doesn't.
+2026-10-15T06:06:54.565198Z,org.flowchartai/flowchartai,FlowchartAI,1.0.0,,streamable-http,"Create, edit, save and export native flowcharts through OAuth with your FlowchartAI account."
+2026-10-15T06:08:45.085716Z,dev.ployz/ployz,Ployz,1.0.0,https://github.com/getployz/ployz,streamable-http,"Deploy apps, databases and previews to your own servers. Run Ployz Cloud from your agent."
+2026-10-15T06:09:25.071028Z,io.github.al157/quarterlytax-mcp,Quarterly Tax Calculator,1.0.0,https://github.com/al157/quarterly-tax-calc,streamable-http,"US federal + state quarterly estimated tax estimates, SE tax, and quarterly payment due dates."
+2026-10-15T06:09:47.277497Z,io.github.tonbifun/fixmyjson,FixMyJSON,0.4.0,,streamable-http,Repair broken LLM JSON and check it against a JSON Schema. Flags cut-off output. Free trial.
+2026-10-15T06:11:35.953542Z,io.github.ParsingMAINFRAME/bankday,Bankday,1.0.0,,streamable-http,"Business days, holidays and settlement dates for ACH, TARGET2, Bacs, 28 exchanges and 247 countries"
+2026-10-15T06:15:37.394903Z,com.dmarkoff/mcp,"DMARKOFF — DMARC, SPF & DKIM Analytics",1.3.0,https://github.com/dmarcoff/mcp,streamable-http,"DMARC analytics for AI assistants: SPF/DKIM, compliance, anomalies, p=reject readiness, onboarding."
+2026-10-15T06:15:45.169405Z,io.github.grokkkkkk/cn-theories,CN Internet Theories / 中文互联网理论库,0.1.0,https://github.com/grokkkkkk/cn-theories,,"Search viral Chinese-internet theories (大水理论, 薄肌理论…) with sources, in Chinese and English."
+2026-10-15T06:17:02.495045Z,io.github.al157/audit-mcp,VibeAudit Site Overview,1.0.0,,streamable-http,"VibeAudit (audit.al157.xyz) site overview: services, pricing, contact, CTA links. Read-only."
+2026-10-15T06:19:10.939446Z,com.kinganlogic/fahce-integrity-repair,FAHCE Integrity Repair,1.0.0,,streamable-http,Free FAHCE contract discovery. Paid evidence determinations use wallet-only x402 REST endpoints.
+2026-10-15T06:20:19.194721Z,dev.omikuji/calories,Japan Restaurant Calories,1.0.0,,streamable-http,"Nutrition facts for 24,000+ menu items of 100+ Japanese restaurant chains, with sources."
