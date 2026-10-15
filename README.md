@@ -9,57 +9,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 16:22 UTC
+## Latest list — 2026-10-15 17:21 UTC
 
-New MCP servers published between 2026-10-15 15:20 UTC and 2026-10-15 16:22 UTC.
+New MCP servers published between 2026-10-15 16:22 UTC and 2026-10-15 17:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-15T16-22-41-957737Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-15T17-21-59-186274Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-15 15:20:31 | com.korkimya/catalog | KORKİMYA Product Catalog | 1.1.0 | Read-only chemical raw material catalogue of KORKİMYA (Türkiye): 358 products,… |
-| 2026-10-15 15:22:54 | [io.github.iannuttall/seo](https://github.com/iannuttall/seo) | SEO Skill | 0.3.0 | Free Google Search Console MCP: your real GSC, Google Analytics and keyword dat… |
-| 2026-10-15 15:23:02 | ai.mapsdata/mapsdata | MapsData | 1.0.0 | Build lead lists from Google Maps: businesses with emails, phones and websites,… |
-| 2026-10-15 15:23:26 | [io.github.sherotree/uwarp-mcp](https://github.com/sherotree/uwarp-mcp) | Uwarp | 1.0.0 | WCAG contrast checks, HSL palettes with :root CSS, and search of 500+ free Uwar… |
-| 2026-10-15 15:25:25 | com.subletka/subletka | Subletka | 1.0.0 | Search rooms and flats to rent for weeks or months in Warsaw and Kraków, Poland. |
-| 2026-10-15 15:29:32 | com.fondatoria/sites-vitrines | Fondatoria | 1.0.0 | Refonte ou création de sites vitrines pour artisans, commerçants et TPE en Fran… |
-| 2026-10-15 15:31:07 | [tools.apricot/apricot](https://github.com/metadevpro/apricot-mcp) | Apricot | 0.3.1 | Manage SysML2 projects; check, evaluate, verify, query, document and diagram mo… |
-| 2026-10-15 15:31:27 | io.github.aaronlilla/hawl | Hawl | 0.1.3 | Mailbox, handoffs and permits between your coding agents. Local mode needs no a… |
-| 2026-10-15 15:31:51 | [io.github.Jazzfer-2003/localhost-doctor](https://github.com/Jazzfer-2003/localhost-doctor) | Localhost Doctor | 0.1.0 | Diagnoses broken XAMPP/WAMP localhost stacks: port conflicts, crashed Apache/My… |
-| 2026-10-15 15:32:11 | [io.github.mike-boodoo/oqos-connector](https://github.com/mike-boodoo/oqos-connector) |  | 0.1.0 | Base OQOS MCP server for chatbot discovery and future OQOS capabilities. |
-| 2026-10-15 15:32:12 | io.github.zraisan/deputy | Deputy | 0.1.1 | Any web page as a typed tool call, run in your own logged-in Chrome. Needs a De… |
-| 2026-10-15 15:35:07 | com.fidenit/snap | FIDE Snap | 0.1.0 | Beta. Search screenshots and links you saved in FIDE Snap: products, places, to… |
-| 2026-10-15 15:35:56 | com.mcpproducts/media | MediaMCP | 0.1.1 | Convert, compress, thumbnail any video/audio + transcripts from 1000+ sites |
-| 2026-10-15 15:36:05 | com.mcpproducts/extract | ExtractMCP | 0.1.1 | Turn any URL or HTML into clean markdown, tables, links or JSON for agents |
-| 2026-10-15 15:36:16 | com.mcpproducts/office | OfficeMCP | 0.1.1 | Read, create and convert Office + PDF documents: Excel, Word, PowerPoint, CSV |
-| 2026-10-15 15:36:23 | com.mcpproducts/mail | MailMCP | 0.1.1 | Read, search and draft email over IMAP from any AI agent. Never sends. |
-| 2026-10-15 15:36:56 | [ai.korely/memory](https://github.com/verdana86/korely-memory) | Korely Memory | 1.0.1 | Memory for AI agents that knows what is still true. Typed bi-temporal facts, EU… |
-| 2026-10-15 15:37:17 | [io.github.noamjose/schemasure](https://github.com/noamjose/schemasure) | SchemaSure — structured extraction | 0.4.0 | Extract schema-valid JSON from text/HTML or document images. Pay with x402 on B… |
-| 2026-10-15 15:41:17 | [io.github.arif-js/citepath](https://github.com/arif-js/citepath) | Citepath | 0.1.2 | Self-hosted search over your documentation, with citations, for AI assistants a… |
-| 2026-10-15 15:42:08 | com.contextwindowsupply/store | Context Window Supply | 1.0.0 | Browse merch for AI builders and get US shipping quotes. Checkout coming soon. |
-| 2026-10-15 15:44:12 | so.reline/reline | Reline | 1.0.0 | Search and read your meeting notes, transcripts and action items, and create no… |
-| 2026-10-15 15:45:40 | [dev.kurlo/kurlo](https://github.com/stormhop/kurlo) | Kurlo | 2.3.2 | Run, write and test the API requests saved in a Kurlo workspace, the open sourc… |
-| 2026-10-15 15:45:47 | [io.github.itcustomsolution/approval-gate-mcp](https://github.com/itcustomsolution/approval-gate-mcp) |  | 0.1.0 | Fail-closed human approval gates for AI agent actions. Default-deny, TTL expiry… |
-| 2026-10-15 15:46:59 | [io.github.ak10082247-max/stealthguard-402](https://github.com/ak10082247-max/stealthguard-402) | StealthGuard 402 | 1.0.0 | Stealth web extraction, Polymarket alpha, and on-chain pre-trade gating via x40… |
-| 2026-10-15 15:47:14 | [io.github.ak10082247-max/x402-agent-tollbooth](https://github.com/ak10082247-max/x402-agent-tollbooth) | x402 Agent Tollbooth | 2.1.0 | On-chain DeFi smart contract auditor, arbitrage scanner, and agent tollbooth vi… |
-| 2026-10-15 15:47:23 | [io.github.ak10082247-max/rugshield-402](https://github.com/ak10082247-max/rugshield-402) | RugShield 402 | 1.0.0 | Real-time token contract safety scanner and honeypot auditor via x402 on Base. |
-| 2026-10-15 15:50:22 | [io.github.zyn-io/epeaky-mcp](https://github.com/zyn-io/epeaky) | Epeaky | 0.2.1 | Your AI agents in an Epeaky den: end-to-end encrypted rooms. Only their owner's… |
-| 2026-10-15 15:51:23 | dev.workers.xbtbot.x402-reader/markdown-reader | x402 Markdown Reader | 1.0.0 | Turn any public web page into clean Markdown. Pay-per-call via x402: 0.005 USDC… |
-| 2026-10-15 15:52:49 | [io.github.alfredoizdev/contextforge-mcp](https://github.com/alfredoizdev/contextforge-mcp) |  | 0.13.0 | Persistent memory MCP server for Claude Code, Cursor, and GitHub Copilot. |
-| 2026-10-15 15:56:26 | [io.github.EvotecIT/desktopmanager](https://github.com/EvotecIT/DesktopManager) | DesktopManager Windows Verification | 0.2.0 | Inspect and verify Windows x64 desktop apps through a local, read-only-by-defau… |
-| 2026-10-15 16:01:47 | com.andavor/andavor | Andavor | 0.2.0 | Read and edit your Andavor store: catalog, product manuals, AI instructions, ru… |
-| 2026-10-15 16:03:03 | io.github.MrBananKaka123/lomen | Lomen | 1.0.0 | Ask about your website traffic, sources and AI insights from Lomen analytics |
-| 2026-10-15 16:03:49 | io.github.toasternet/delegaize | DelegAIze | 1.0.0 | AI agents for CRM, mail, calendar, ERP and accounting - you approve. EU-hosted,… |
-| 2026-10-15 16:04:20 | [io.github.beepboop2025/financial-evidence-workspace](https://github.com/beepboop2025/financial-evidence-skills) | Financial Evidence Workspace | 1.3.0 | Read-only cited financial datasets, bounded research queries and source diagnos… |
-| 2026-10-15 16:04:23 | [io.github.beepboop2025/seiche-market-corpus](https://github.com/beepboop2025/financial-evidence-skills) | Seiche Market Atlas Corpus | 1.0.0 | Read-only corpus catalogs and bounded observations with source dates and rights… |
-| 2026-10-15 16:04:45 | [io.github.itcustomsolution/sam-gov-mcp](https://github.com/itcustomsolution/sam-gov-mcp) |  | 0.1.0 | Search SAM.gov contract opportunities (read-only). Bring your own free SAM.gov… |
-| 2026-10-15 16:05:34 | com.aeralas.maps/aerial-maps | Aeralas Maps | 1.0.0 | Print-ready annotated aerial maps of US addresses for real estate and engineeri… |
-| 2026-10-15 16:10:10 | [io.github.zyvorai/netra](https://github.com/zyvorai/zyvor-netra) | Netra | 0.30.1 | eBPF network observability and safe emergency control for Linux and Kubernetes. |
-| 2026-10-15 16:11:55 | com.checklaurel/laurel | Laurel | 1.0.0 | Find products vetted for low-tox materials, from Laurel's curated catalog. |
-| 2026-10-15 16:13:35 | [com.stresix/stresix](https://github.com/DevMatei/stresix-mcp) | Stresix | 1.0.0 | Load test your app on a real server from your agent. Get p95, errors and what r… |
-| 2026-10-15 16:16:31 | [io.github.ondraulehla/mcpcost](https://github.com/ondraulehla/mcpcost) | mcpcost | 0.2.0 | Health and token cost of every remote MCP registry server, probed daily. Look u… |
-| 2026-10-15 16:20:52 | ai.buildandship/agent | Build & Ship | 0.2.0 | Prompt your Build & Ship agent to create web pages and publish them to your CDN… |
-| 2026-10-15 16:21:34 | [ai.evolink/mcp](https://github.com/Evolink-AI/mcp-plugin) | EvoLink | 1.0.4 | 150+ image, video and audio models. Quote before you generate; pay as you go. |
+| 2026-10-15 16:23:09 | ai.instabids/instabids | InstaBids | 1.0.0 | Start home-repair requests and read anonymised contractor bids. Pilot in Browar… |
+| 2026-10-15 16:30:41 | [com.squaredup/us](https://github.com/squaredup/mcp) | SquaredUp (US) | 1.1.0 | Query and manage SquaredUp dashboards, data streams, the knowledge graph, and K… |
+| 2026-10-15 16:30:51 | [com.squaredup/eu](https://github.com/squaredup/mcp) | SquaredUp (EU) | 1.1.0 | Query and manage SquaredUp dashboards, data streams, the knowledge graph, and K… |
+| 2026-10-15 16:31:40 | [io.github.MyMemoAI/openmymemo](https://github.com/MyMemoAI/openmymemo) | OpenMyMemo | 0.2.4 | Your AI memory as a local folder you own. Every app shares it; you see and can… |
+| 2026-10-15 16:32:33 | [io.github.zyvorai/vytrix](https://github.com/zyvorai/zyvor-vytrix) | Vytrix | 0.7.1 | Read-only host activity, history, anomalies and evidence from a Vytrix collecto… |
+| 2026-10-15 16:35:30 | [app.myrlo/creator-tools](https://github.com/BrandonDiaz/myrlo-cursor-plugin) | Myrlo | 0.1.0 | Create and edit Myrlo characters, stories, and worlds, with review before every… |
+| 2026-10-15 16:39:13 | [io.github.localseodata/mcp-server](https://github.com/localseodata/mcp-server) |  | 1.1.0 | 53 local SEO data tools: rankings, reviews, audits, keywords, AI visibility. |
+| 2026-10-15 16:41:09 | com.communitymentions/communitymentions | CommunityMentions | 1.0.0 | Which subreddits AI answers cite, matched to your product, with each one's most… |
+| 2026-10-15 16:41:42 | [io.github.jestatsio/toolprint](https://github.com/jestatsio/toolprint) | toolprint by JEStats | 0.4.0 | package-lock.json for MCP trust: catch MCP rug-pulls, tool poisoning, and leake… |
+| 2026-10-15 16:45:28 | [io.github.westvegh/tally-workout](https://github.com/westvegh/tally-workout-mcp) | Tally Workout | 1.1.0 | iPhone strength log. Any MCP agent reads your training and plans workouts in th… |
+| 2026-10-15 16:46:21 | [io.github.nevse/dotnet-debugger-mcp](https://github.com/nevse/dotnet-debugger-mcp) | .NET Debugger for MCP | 0.6.0 | Give an AI agent a real .NET debugger: breakpoints, stepping, locals, expressio… |
+| 2026-10-15 16:46:39 | com.trycolle/colle | Colle | 1.0.0 | Hand off work to a colleague's Claude or ChatGPT: summary, facts and files in o… |
+| 2026-10-15 16:49:49 | app.buyrecord/buyrecord | BuyRecord | 1.0.0 | US product return policies, recalls and, as stores join, verified purchase outc… |
+| 2026-10-15 16:52:17 | com.ittems/catalog | ittems product directory | 0.2.3 | Merchant product catalogs for AI agents: price, availability, specs, variants,… |
+| 2026-10-15 16:53:27 | [io.github.restante/claudio-audiobook](https://github.com/restante/claudio_audiobook) | claudio-audiobook | 0.1.3 | Make audiobooks locally with Kokoro voices from your AI assistant. Nothing leav… |
+| 2026-10-15 16:54:30 | com.fixedqr/fixedqr | FixedQR | 0.1.0 | Generate static QR codes that never expire, as PNG images or SVG. No account or… |
+| 2026-10-15 16:54:50 | [com.qrblox/mcp](https://github.com/Terahertz-Inc/qrblox-mcp) | Qrblox | 0.1.0 | Create and track QR codes, audio codes, menus, and scan analytics for a Qrblox… |
+| 2026-10-15 16:55:52 | com.myssagent/mcp | MySSAgent Social Security Claiming Esti… | 2.0.0 | Optimal Social Security claiming, in minutes. Benefit-by-age math from a determ… |
+| 2026-10-15 16:55:54 | com.slotmaps/slotmaps | SlotMaps | 1.0.0 | Advantage-play guides for 360+ casino slot machines: what to look for and when… |
+| 2026-10-15 16:58:25 | [io.github.toolweather/spendgate](https://github.com/toolweather/spendgate) | SpendGate | 1.0.0 | Score a planned spend before an agent pays. Verdicts: approve, ask_human, or bl… |
+| 2026-10-15 16:58:25 | ai.deepinquiry/verified-facts | DeepInquiry Verified Facts | 1.0.0 | Search and read short factual claims with cited sources, a verification tier an… |
+| 2026-10-15 16:58:35 | [io.github.BrianVia/recordwire](https://github.com/BrianVia/recordwire-mcp) | Recordwire | 1.0.0 | U.S. business-registry data and change events from official state sources, for… |
+| 2026-10-15 17:03:18 | com.nameabogados/atlas | Atlas · Name Abogados | 1.0.0 | Conceptos de Colombia Compra Eficiente en fichas de Atlas (Name Abogados). Abie… |
+| 2026-10-15 17:03:59 | [io.github.tuantqse90/moltnode](https://github.com/tuantqse90/moltnode-mcp) | MoltNode by Chord | 1.1.0 | Read 31 blockchains over JSON-RPC and swap via Chord: best route, unsigned tx,… |
+| 2026-10-15 17:05:59 | [io.github.camerhann/terramcp](https://github.com/camerhann/terramcp) | TerraMCP | 1.0.0 | Discover curated water, environment, terrain and civil engineering MCP servers… |
+| 2026-10-15 17:06:38 | com.al-taswia.www/iraqi-law-research | Al-Taswia Iraqi Law Research | 1.1.0 | Read-only search of Al-Taswia's published Iraqi law articles. General informati… |
+| 2026-10-15 17:06:46 | [io.github.NKSTUD/lws-mcp](https://github.com/NKSTUD/lws-mcp) | LWS | 0.2.1 | Manage LWS (lws.fr) domains, DNS zones, hosting and account from any MCP client. |
+| 2026-10-15 17:07:56 | [io.github.makash/feedmyagent](https://github.com/makash/feedmyagent-skill) |  | 1.0.0 | Agent-readable feed: AI/agent tech news, security advisories, compliance deadli… |
+| 2026-10-15 17:13:20 | [io.github.eat-pray-ai/yutu](https://github.com/eat-pray-ai/yutu) | yutu | 0.11.0 | CLI, MCP server, and AI agent to automate YouTube workflows |
+| 2026-10-15 17:16:03 | io.github.luckyjupiter/occultron |  | 0.1.0 | Crypto-paid uncensored LLM inference with signed execution receipts. No account. |
+| 2026-10-15 17:16:11 | com.kundaly/vedic-astrology | Kundaly — Vedic astrology | 1.0.0 | Vedic astrology, computed: birth star, monthly forecast, panchang and festivals… |
+| 2026-10-15 17:16:17 | com.kundaly/vedic-astrology-account | Kundaly — your charts and the Guru | 1.0.0 | Your Kundaly charts, your month and the Guru's answers, on your own credits. Si… |
 
 ## Data source
 
