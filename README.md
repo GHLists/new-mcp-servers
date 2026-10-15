@@ -9,57 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 07:19 UTC
+## Latest list — 2026-10-15 08:20 UTC
 
-New MCP servers published between 2026-10-15 06:21 UTC and 2026-10-15 07:19 UTC.
+New MCP servers published between 2026-10-15 07:19 UTC and 2026-10-15 08:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-15T07-19-45-738839Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-15T08-20-32-84361Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-15 06:35:08 | [io.github.paprika3d/paprika3d](https://github.com/paprika3d/paprika3d) | paprika3D (the three.js toolset for cod… | 0.1.4 | Lets coding agents see, play, inspect and speed up three.js, R3F and WebGL page… |
-| 2026-10-15 06:35:36 | dev.omikuji/holiday | Japan Public Holidays | 1.0.0 | Japanese national holidays, substitute holidays, business days and long weekend… |
-| 2026-10-15 06:42:28 | io.github.fieldcure/zstudio |  | 1.0.0 | ZStudio EIS MCP server: data validation, DRT, equivalent-circuit fitting, and p… |
-| 2026-10-15 06:42:43 | com.artifactbridge/artifactbridge | ArtifactBridge | 0.1.0 | Search team documents and propose governed-document changes for human review an… |
-| 2026-10-15 06:46:52 | [com.scalelist/mcp](https://github.com/Scalelist-Dev/scalelist-mcp-server) | Scalelist | 1.0.0 | Find B2B leads with verified work emails and mobile numbers from your AI assist… |
-| 2026-10-15 06:48:07 | [io.github.yanglinfeng/mcp-memory-bridge](https://github.com/yanglinfeng/memory-bridge) | Memory Bridge | 1.0.0 | Local-first MCP memory on SQLite: evidence citations, audit trail, namespace is… |
-| 2026-10-15 06:48:49 | [io.github.Modellix/agent-canvas](https://github.com/Modellix/modellix-agent-canvas) | Modellix Agent Canvas | 0.1.18 | Local MCP canvas for Modellix image generation, editing, task recovery, and vis… |
-| 2026-10-15 06:50:06 | [io.github.Gandr-AI/gandr-mcp](https://github.com/Gandr-AI/gandr-mcp) |  | 0.2.0 | Sets Gandr up from the live docs, then speaks. 23 languages, six voices, every… |
-| 2026-10-15 06:53:22 | [io.github.AIops-tools/ai-guardian](https://github.com/AIops-tools/AI-Guardian) | AI Guardian | 0.12.0 | Governed local-LLM observability: model policy, prompt scanner, capture proxy,… |
-| 2026-10-15 06:53:23 | [io.github.AIops-tools/cicd-aiops](https://github.com/AIops-tools/CICD-AIops) | CICD AIops | 0.11.0 | Governed self-managed GitLab + Gitea CI/CD ops: pipelines, runners, artifacts,… |
-| 2026-10-15 06:53:33 | [io.github.AIops-tools/compliance-aiops](https://github.com/AIops-tools/Compliance-AIops) | Compliance AIops | 0.12.0 | Compliance evidence from AIops audit trails: HIPAA/PCI/SOC2/GDPR, OSCAL export,… |
-| 2026-10-15 06:53:39 | [io.github.AIops-tools/ceph-aiops](https://github.com/AIops-tools/Ceph-AIops) | Ceph AIops | 0.12.0 | Governed Ceph mgr ops: HEALTH_WARN RCA, OSD/PG/pool/RBD/CephFS/RGW, 37 tools. |
-| 2026-10-15 06:53:50 | [io.github.AIops-tools/container-host-aiops](https://github.com/AIops-tools/Container-Host-AIops) | Container Host AIops | 0.12.0 | Governed Docker + Portainer container-host ops: reads, RCA analyses, guarded wr… |
-| 2026-10-15 06:53:55 | [io.github.AIops-tools/endpoint-aiops](https://github.com/AIops-tools/Endpoint-AIops) | Endpoint AIops | 0.11.0 | Governed managed-endpoint ops — login-storm & drift analysis, 13 MCP tools with… |
-| 2026-10-15 06:54:12 | [io.github.AIops-tools/identity-aiops](https://github.com/AIops-tools/Identity-AIops) | Identity AIops | 0.9.0 | Governed Keycloak + authentik identity ops: users, events, clients, MFA, RCA. 2… |
-| 2026-10-15 06:54:13 | [io.github.AIops-tools/inference-aiops](https://github.com/AIops-tools/Inference-AIops) | Inference AIops | 0.11.0 | Governed GPU inference ops (vLLM + Ray Serve): latency RCA, scaling, drain, 39… |
-| 2026-10-15 06:54:13 | [io.github.AIops-tools/firewall-aiops](https://github.com/AIops-tools/Firewall-AIops) | Firewall AIops | 0.13.0 | Governed OPNsense + pfSense firewall ops: rules, NAT, VPN, DHCP, RCA. 35 tools. |
-| 2026-10-15 06:54:47 | [io.github.AIops-tools/mysql-aiops](https://github.com/AIops-tools/MySQL-AIops) | MySQL AIops | 0.11.0 | Governed MySQL/MariaDB DBA ops: slow-query, lock-wait, replication & fragmentat… |
-| 2026-10-15 06:54:49 | [io.github.AIops-tools/k8s-aiops](https://github.com/AIops-tools/K8s-AIops) | k8s AIops | 0.14.0 | Governed Kubernetes ops — 55 MCP tools with audit, budget, undo, risk-tier audi… |
-| 2026-10-15 06:54:52 | [io.github.AIops-tools/monitoring-aiops](https://github.com/AIops-tools/Monitoring-AIops) | Monitoring AIops | 0.11.0 | Governed SolarWinds Orion + PRTG + Zabbix ops: SWQL, alert rollup, health, 42 t… |
-| 2026-10-15 06:54:59 | [io.github.AIops-tools/minio-aiops](https://github.com/AIops-tools/MinIO-AIops) | MinIO AIops | 0.13.0 | Governed MinIO ops: capacity RCA, exposure audit, ILM, WORM retention, IAM, hea… |
-| 2026-10-15 06:55:17 | [io.github.AIops-tools/olvm-aiops](https://github.com/AIops-tools/OLVM-AIops) | OLVM AIops | 0.5.0 | Governed OLVM / oVirt 4.5 ops — 17 MCP tools: inventory, health, capacity, diag… |
-| 2026-10-15 06:55:17 | [io.github.AIops-tools/network-aiops](https://github.com/AIops-tools/Network-AIops) | Network AIops | 0.13.0 | Governed network device ops (NAPALM) — 33 MCP tools with audit/undo. |
-| 2026-10-15 06:55:21 | [io.github.AIops-tools/nutanix-aiops](https://github.com/AIops-tools/Nutanix-AIops) | Nutanix AIops | 0.12.0 | Governed Nutanix Prism Central v4 ops: clusters/VMs/storage/DR/LCM/RCA, ETag-sa… |
-| 2026-10-15 06:55:47 | [io.github.AIops-tools/postgres-aiops](https://github.com/AIops-tools/Postgres-AIops) | Postgres AIops | 0.11.0 | Governed PostgreSQL DBA ops: slow-query RCA, bloat/vacuum & blocking-lock analy… |
-| 2026-10-15 06:55:48 | [io.github.AIops-tools/observability-aiops](https://github.com/AIops-tools/Observability-AIops) | Observability AIops | 0.11.0 | Governed Prometheus + Grafana ops: PromQL, alerts, dashboards, RCA; 39 tools. |
-| 2026-10-15 06:55:49 | [io.github.AIops-tools/proxmox-aiops](https://github.com/AIops-tools/Proxmox-AIops) | Proxmox AIops | 0.14.0 | Governed Proxmox VE VM/container ops — 43 MCP tools with audit, budget, undo &… |
-| 2026-10-15 06:56:03 | [io.github.AIops-tools/proxy-aiops](https://github.com/AIops-tools/Proxy-AIops) | Proxy AIops | 0.10.0 | Governed Traefik + Caddy + HAProxy ops: routes, upstreams, certs, 5xx RCA. 28 t… |
-| 2026-10-15 06:56:04 | [io.github.AIops-tools/queue-aiops](https://github.com/AIops-tools/Queue-AIops) | Queue AIops | 0.10.0 | Governed redis + rabbitmq ops: memory/latency/backlog/churn RCA, policies. 28 t… |
-| 2026-10-15 06:56:05 | [io.github.AIops-tools/truenas-aiops](https://github.com/AIops-tools/TrueNAS-AIops) | TrueNAS AIops | 0.12.0 | Governed TrueNAS SCALE storage ops — 25 MCP tools with audit, budget, undo guar… |
-| 2026-10-15 06:56:09 | [io.github.AIops-tools/veeam-aiops](https://github.com/AIops-tools/Veeam-AIops) | Veeam AIops | 0.17.0 | Governed Veeam Backup & Replication ops — 27 MCP tools with audit, budget, undo… |
-| 2026-10-15 06:56:20 | [io.github.AIops-tools/xcpng-aiops](https://github.com/AIops-tools/XCPng-AIops) | XCP-ng AIops | 0.9.0 | Governed XCP-ng ops via Xen Orchestra — 29 MCP tools with audit, budget, undo g… |
-| 2026-10-15 06:57:57 | [io.github.gamestarry/matrixcalculator-mcp](https://github.com/gamestarry/matrixcalculator-mcp) | MatrixCalculator.net | 0.1.0 | Exact matrix calculations with step-by-step results for six core matrix operati… |
-| 2026-10-15 06:57:58 | dev.tryplinth/plinth | Plinth | 1.0.0 | App hosting your agent runs: git, deploys, staging/production, Postgres. Owner… |
-| 2026-10-15 06:59:31 | dev.omikuji/color | Traditional Colors | 1.0.0 | Traditional color names (Japanese and 10 more cultures) with hex/RGB and source… |
-| 2026-10-15 07:00:20 | [ai.in-parallel/in-parallel](https://github.com/in-parallel-oy/agent-plugin) | In Parallel | 0.1.1 | The context layer for your company's AI: your team's decisions, meetings and pl… |
-| 2026-10-15 07:01:24 | dev.omikuji/shiritori | Shiritori Dictionary (Japanese) | 1.0.0 | Play Japanese shiritori with a 90,000-word dictionary: check moves, suggest nex… |
-| 2026-10-15 07:05:08 | [com.gtmbud/gtm-bud](https://github.com/startino/gtmbud-mcp) | GTM Bud | 1.0.0 | Build, launch and monitor GTM Bud LinkedIn outbound campaigns and answer lead r… |
-| 2026-10-15 07:06:27 | uk.co.rent-a-skip/rent-a-skip | Rent-a-Skip UK skip hire | 1.0.0 | Indicative UK skip hire prices by town, council skip permit rules and skip size… |
-| 2026-10-15 07:09:16 | [com.hermosso/mcp](https://github.com/vicnouman/photomyself) | Hermosso | 1.0.0 | AI photos and videos of yourself: photoshoot packs, image and video engines, mo… |
-| 2026-10-15 07:10:04 | [com.whispermemos/whisper-memos](https://github.com/whispermemos/whisper-memos-plugin) | Whisper Memos | 1.0.0 | Read, summarize and act on the voice memos you record with Whisper Memos. |
-| 2026-10-15 07:10:40 | [io.github.FairPlugHQ/fairplug-mcp](https://github.com/fairplug/fairplug-mcp) | Fairplug (sandbox) | 0.1.0 | Disclosure-first sponsored offers for AI assistants. Free read-only sandbox, fi… |
-| 2026-10-15 07:11:07 | com.dearmastrader/mcp | DearmasTrader | 1.0.0 | Crypto trading bots (DCA, grid) on Binance, Bybit, MEXC, OKX and Bitget, with a… |
+| 2026-10-15 07:19:53 | io.github.iyuyoung/wordsearchclub | WordSearchClub | 0.1.0 | Find fixed word searches and their matching printable puzzles and separate answ… |
+| 2026-10-15 07:20:51 | [io.github.TopLocalAI/scholarmuse](https://github.com/TopLocalAI/scholarmuse-mcp) | ScholarMuse | 1.0.0 | Academic papers, reference verification and research data for AI agents. |
+| 2026-10-15 07:26:38 | [io.github.Servosity/threatdown-mcp](https://github.com/servosity/msp-skills) | ThreatDown MCP | 0.1.0 | Every ThreatDown OneView API, plus fleet-wide stale-endpoint, health and seat r… |
+| 2026-10-15 07:29:38 | [io.github.hpdkhoa/feellab-mcp](https://github.com/hpdkhoa/feellab-mcp) | Feel Lab | 0.1.0 | An FPS feel checklist, measured from a timeline any game's probe can write |
+| 2026-10-15 07:32:13 | io.github.alantan/slipslate | SlipSlate | 0.1.0 | Marina dock-walk tools: read slips and meters, save confirmed readings. Needs a… |
+| 2026-10-15 07:34:42 | [io.github.misbahsy/isitme](https://github.com/misbahsy/isitme) | isitme | 0.1.0 | Is it me or is it them? Live status of remote MCP servers: down, needs sign-in,… |
+| 2026-10-15 07:36:09 | com.wordtoclip/mcp | WordToClip | 1.0.0 | Search timestamped transcripts of 1,681 public Andrew Tate videos and render cl… |
+| 2026-10-15 07:41:32 | [io.github.aydincan/turk-hukuku-mevzuat-mcp](https://github.com/aydincan/turk-hukuku-mevzuat-mcp) | Türk Hukuku Mevzuat | 0.1.4 | Türk mevzuatının resmî güncel metnini (mevzuat.gov.tr) yapay zekâya açan MCP su… |
+| 2026-10-15 07:45:47 | [io.github.LucaIaconelli/feednest](https://github.com/feednest-app/mcp) | FeedNest | 1.1.0 | Your curated sources (RSS, YouTube, podcasts, Google News) as context for any A… |
+| 2026-10-15 07:57:45 | [io.github.leeguooooo/iphone-use](https://github.com/leeguooooo/iphone-use) | iPhone Use | 0.17.20 | Drive a real iPhone from a Mac: read the screen as text, tap, type, scroll, rep… |
+| 2026-10-15 07:59:25 | estate.kvadrum/kvadrum | Kvadrum | 1.0.0 | Real estate agency CRM: listings, clients, leads and viewings from your AI assi… |
+| 2026-10-15 08:00:22 | [io.github.vmware-skills/vmware-nsx](https://github.com/vmware-skills/VMware-NSX) | VMware NSX | 1.12.0 | VMware NSX networking management with 33 MCP tools: segments, gateways, NAT, ro… |
+| 2026-10-15 08:01:02 | io.github.Latracal-Solutions-Bengaluru/grigora | Grigora | 0.1.0 | Build and manage Grigora websites, CMS content, directories, ecommerce catalogs… |
+| 2026-10-15 08:05:00 | [io.github.SupercmoHQ/supercmo](https://github.com/SupercmoHQ/superCMO-skills) | SuperCMO | 0.1.25 | Marketing media generation — image, video, voice — for AI agents. BYO keys. |
+| 2026-10-15 08:06:28 | [io.github.vmware-skills/vmware-nsx-security](https://github.com/vmware-skills/VMware-NSX-Security) | VMware NSX Security | 1.14.0 | VMware NSX security: DFW policies and exclusions, groups, tags, Traceflow, IDPS… |
+| 2026-10-15 08:07:46 | [io.github.stufently/yandex-search-mcp](https://github.com/stufently/yandex-mcp) | Yandex Search MCP | 2.2.0 | MCP server for Yandex Search API (v2, Cloud) |
+| 2026-10-15 08:07:48 | [io.github.stufently/yandex-wordstat-mcp](https://github.com/stufently/yandex-mcp) | Yandex Wordstat MCP | 2.2.0 | MCP server for Yandex Wordstat API — keyword research for Russian/CIS markets |
+| 2026-10-15 08:07:50 | [io.github.stufently/yandex-webmaster-mcp](https://github.com/stufently/yandex-mcp) | Yandex Webmaster MCP | 2.2.0 | MCP server for Yandex Webmaster API — site analytics, indexing, search queries |
+| 2026-10-15 08:07:53 | [io.github.stufently/yandex-metrika-mcp](https://github.com/stufently/yandex-mcp) | Yandex Metrika MCP | 2.2.0 | MCP server for Yandex Metrika API — web analytics, traffic, audience data |
+| 2026-10-15 08:07:54 | [io.github.stufently/yandex-direct-mcp](https://github.com/stufently/yandex-mcp) | Yandex Direct MCP | 2.2.0 | MCP server for Yandex Direct API v5 — campaigns, ads, keywords, reports |
+| 2026-10-15 08:08:11 | io.revexa/signals | Revexa: B2B buying signals | 1.0.0 | B2B buying signals: companies hiring salespeople, startups hiring sales, weekly… |
+| 2026-10-15 08:14:40 | ai.pomerado/pomerado | Pomerado | 1.0.0 | MCPs that do tasks on any website. Search flights, book, shop, check accounts a… |
 
 ## Data source
 

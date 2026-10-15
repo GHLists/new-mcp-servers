@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-10-15T07:19:53.528291Z,io.github.iyuyoung/wordsearchclub,WordSearchClub,0.1.0,,streamable-http,Find fixed word searches and their matching printable puzzles and separate answer sheets.
+2026-10-15T07:20:51.876911Z,io.github.TopLocalAI/scholarmuse,ScholarMuse,1.0.0,https://github.com/TopLocalAI/scholarmuse-mcp,streamable-http,"Academic papers, reference verification and research data for AI agents."
+2026-10-15T07:26:38.775479Z,io.github.Servosity/threatdown-mcp,ThreatDown MCP,0.1.0,https://github.com/servosity/msp-skills,,"Every ThreatDown OneView API, plus fleet-wide stale-endpoint, health and seat reports across all"
+2026-10-15T07:29:38.620468Z,io.github.hpdkhoa/feellab-mcp,Feel Lab,0.1.0,https://github.com/hpdkhoa/feellab-mcp,,"An FPS feel checklist, measured from a timeline any game's probe can write"
+2026-10-15T07:32:13.536157Z,io.github.alantan/slipslate,SlipSlate,0.1.0,,streamable-http,"Marina dock-walk tools: read slips and meters, save confirmed readings. Needs a SlipSlate account."
+2026-10-15T07:34:42.679731Z,io.github.misbahsy/isitme,isitme,0.1.0,https://github.com/misbahsy/isitme,streamable-http,"Is it me or is it them? Live status of remote MCP servers: down, needs sign-in, or fine."
+2026-10-15T07:36:09.210738Z,com.wordtoclip/mcp,WordToClip,1.0.0,,streamable-http,"Search timestamped transcripts of 1,681 public Andrew Tate videos and render clips. Unofficial."
+2026-10-15T07:41:32.820205Z,io.github.aydincan/turk-hukuku-mevzuat-mcp,Türk Hukuku Mevzuat,0.1.4,https://github.com/aydincan/turk-hukuku-mevzuat-mcp,,Türk mevzuatının resmî güncel metnini (mevzuat.gov.tr) yapay zekâya açan MCP sunucusu.
+2026-10-15T07:45:47.719659Z,io.github.LucaIaconelli/feednest,FeedNest,1.1.0,https://github.com/feednest-app/mcp,streamable-http,"Your curated sources (RSS, YouTube, podcasts, Google News) as context for any AI agent."
+2026-10-15T07:57:45.876912Z,io.github.leeguooooo/iphone-use,iPhone Use,0.17.20,https://github.com/leeguooooo/iphone-use,,"Drive a real iPhone from a Mac: read the screen as text, tap, type, scroll, replay saved flows."
+2026-10-15T07:59:25.803162Z,estate.kvadrum/kvadrum,Kvadrum,1.0.0,,streamable-http,"Real estate agency CRM: listings, clients, leads and viewings from your AI assistant (OAuth)."
+2026-10-15T08:00:22.661218Z,io.github.vmware-skills/vmware-nsx,VMware NSX,1.12.0,https://github.com/vmware-skills/VMware-NSX,,"VMware NSX networking management with 33 MCP tools: segments, gateways, NAT, routing, IPAM."
+2026-10-15T08:01:02.462982Z,io.github.Latracal-Solutions-Bengaluru/grigora,Grigora,0.1.0,,streamable-http,"Build and manage Grigora websites, CMS content, directories, ecommerce catalogs, assets, and SEO."
+2026-10-15T08:05:00.574689Z,io.github.SupercmoHQ/supercmo,SuperCMO,0.1.25,https://github.com/SupercmoHQ/superCMO-skills,,"Marketing media generation — image, video, voice — for AI agents. BYO keys."
+2026-10-15T08:06:28.29722Z,io.github.vmware-skills/vmware-nsx-security,VMware NSX Security,1.14.0,https://github.com/vmware-skills/VMware-NSX-Security,,"VMware NSX security: DFW policies and exclusions, groups, tags, Traceflow, IDPS — 22 MCP tools."
+2026-10-15T08:07:46.58587Z,io.github.stufently/yandex-search-mcp,Yandex Search MCP,2.2.0,https://github.com/stufently/yandex-mcp,,"MCP server for Yandex Search API (v2, Cloud)"
+2026-10-15T08:07:48.988372Z,io.github.stufently/yandex-wordstat-mcp,Yandex Wordstat MCP,2.2.0,https://github.com/stufently/yandex-mcp,,MCP server for Yandex Wordstat API — keyword research for Russian/CIS markets
+2026-10-15T08:07:50.815105Z,io.github.stufently/yandex-webmaster-mcp,Yandex Webmaster MCP,2.2.0,https://github.com/stufently/yandex-mcp,,"MCP server for Yandex Webmaster API — site analytics, indexing, search queries"
+2026-10-15T08:07:53.203461Z,io.github.stufently/yandex-metrika-mcp,Yandex Metrika MCP,2.2.0,https://github.com/stufently/yandex-mcp,,"MCP server for Yandex Metrika API — web analytics, traffic, audience data"
+2026-10-15T08:07:54.871249Z,io.github.stufently/yandex-direct-mcp,Yandex Direct MCP,2.2.0,https://github.com/stufently/yandex-mcp,,"MCP server for Yandex Direct API v5 — campaigns, ads, keywords, reports"
+2026-10-15T08:08:11.126085Z,io.revexa/signals,Revexa: B2B buying signals,1.0.0,,streamable-http,"B2B buying signals: companies hiring salespeople, startups hiring sales, weekly funding rounds."
+2026-10-15T08:14:40.900783Z,ai.pomerado/pomerado,Pomerado,1.0.0,,streamable-http,"MCPs that do tasks on any website. Search flights, book, shop, check accounts and fill in forms."
