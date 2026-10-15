@@ -9,41 +9,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 03:22 UTC
+## Latest list — 2026-10-15 04:22 UTC
 
-New MCP servers published between 2026-10-15 02:20 UTC and 2026-10-15 03:22 UTC.
+New MCP servers published between 2026-10-15 03:22 UTC and 2026-10-15 04:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-15T03-22-27-56928Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-15T04-22-57-208651Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-15 02:21:22 | [io.github.LuminariSoftwares/context-guardian](https://github.com/LuminariSoftwares/context-guardian) | Context Guardian | 0.10.0 | Compacting proxy for OpenAI-compatible backends, with MCP tools to search the a… |
-| 2026-10-15 02:25:26 | [com.rentalanalytics/rent-tools](https://github.com/CGABrew7/rentalanalytics) | RentalAnalytics rent tools | 1.0.0 | Read-only HUD rent lookup and the site's existing rental calculators. |
-| 2026-10-15 02:27:10 | [io.github.Joinware/healthcare-provider-intelligence](https://github.com/Joinware/healthcare-provider-intelligence) | Healthcare Provider Intelligence | 0.1.3 | Provider intelligence API joining NPPES, CMS Open Payments, and OIG LEIE with s… |
-| 2026-10-15 02:27:12 | com.datacrate360/guides-and-fixes | DataCrate360 Guides & Fixes | 1.0.1 | Search verified fixes and guides for data tools (Snowflake, dbt, Airflow, Spark… |
-| 2026-10-15 02:30:29 | io.github.franzsy5/luvvoice-mcp | LuvVoice Text-to-Speech | 1.0.2 | Text-to-speech with 200+ voices in 70+ languages. Requires a LuvVoice API token. |
-| 2026-10-15 02:35:14 | energy.mentor/mentor-energy | mentor.energy | 1.0.0 | Energy-industry careers: browse courses, read preview lessons, search articles,… |
-| 2026-10-15 02:35:40 | com.carragent/carragent | Carragent | 1.0.0 | Carragent's AI agents for small businesses, its plans and prices. Read-only, no… |
-| 2026-10-15 02:38:16 | [io.github.hpdkhoa/coatinglab-mcp](https://github.com/hpdkhoa/coatinglab-mcp) | Coating Lab | 0.1.0 | Real surface finishes for game gun models: sourced finishes, variants, wear bak… |
-| 2026-10-15 02:38:24 | com.marqpdf/marqpdf | MarqPDF | 1.0.0 | PDF tools for agents: compress to a size, Arabic + English OCR, Office conversi… |
-| 2026-10-15 02:38:50 | [co.buzzfy/mcp](https://github.com/Buzzfy/buzzfy) | Buzzfy | 0.1.0 | Manage your Instagram in chat: stats, comments, DMs, publishing and scheduling… |
-| 2026-10-15 02:42:36 | io.songlinks/songlinks | Songlinks | 0.10.0 | Find the songwriter behind a name or IPI name number, under every spelling and… |
-| 2026-10-15 02:43:01 | dev.workers.mike-tusa.profanity-api/profanity-api | CussCheck | 0.2.0 | English profanity filter: find and censor swear words, incl. obfuscations. Word… |
-| 2026-10-15 02:44:12 | md.marble/marble | Marble | 1.0.0 | Read, write, organise and share Markdown notes in Marble, the collaborative Mar… |
-| 2026-10-15 02:47:20 | [io.github.hcpapi/housecall-pro-mcp](https://github.com/hcpapi/housecall-pro-mcp) |  | 1.19.0 | Independent MCP server for the Housecall Pro API: jobs, estimates, invoices, pr… |
-| 2026-10-15 02:47:50 | io.github.demos-ra/void-os |  | 0.1.0 | Memory for AI agents: a data bank of MTSV relations, read through one tool. |
-| 2026-10-15 02:53:48 | me.instadram/instadram | Instadram | 1.0.0 | Whisky & bourbon collection in AI: search the catalog, read and manage your she… |
-| 2026-10-15 02:56:30 | app.lpsignal/lpsignal | LPSignal | 1.0.0 | Uniswap/PancakeSwap/Aerodrome LP pools and price ranges ranked by net APR after… |
-| 2026-10-15 03:00:07 | [io.github.arjunprabhulal/superpdf](https://github.com/arjunprabhulal/superpdf) | superPDF AI | 0.4.1 | PDF tools on your computer: read, convert, edit, merge, fill and compare PDFs.… |
-| 2026-10-15 03:00:35 | dev.workers.mike-tusa.linkpulse/linkpulse | LinkPulse | 0.3.0 | Check one web page for broken links, redirect chains hop by hop and mixed conte… |
-| 2026-10-15 03:05:21 | [io.github.nuncaeslupus/drawspec](https://github.com/nuncaeslupus/drawspec) | drawspec | 0.3.1 | Validate and render declarative diagram specs to clean SVG or PNG; no coordinat… |
-| 2026-10-15 03:10:26 | ai.simpledock/simpledock | SimpleDock | 1.2.0 | Warehouse dock appointment scheduling: find open slots, book, reschedule, appro… |
-| 2026-10-15 03:11:11 | com.socialgrowthengineers/mcp | Social Growth Engineers | 1.0.0 | Viral short-form videos, hooks, app growth playbooks and App Store data for mar… |
-| 2026-10-15 03:11:18 | com.shortimize/mcp | Shortimize | 1.0.0 | Track TikTok, Instagram Reels and YouTube Shorts accounts and videos: views, gr… |
-| 2026-10-15 03:12:33 | ai.hiapi/mcp | HiAPI | 0.4.0 | Generate images, videos, speech, music and text with HiAPI's AI models. Bring y… |
-| 2026-10-15 03:12:52 | [io.github.turbobeest/modelspec](https://github.com/turbobeest/modelspec) | ModelSpec | b8da9336f3c5a0b56d4… | Find AI models that fit a job from your requirements, sourced benchmarks and re… |
-| 2026-10-15 03:15:01 | dev.workers.mike-tusa.ogforge/ogforge | OgForge | 0.2.0 | Render 1200x630 Open Graph social preview images from templates; returns a cach… |
-| 2026-10-15 03:21:56 | [io.github.marmot7775/sendermap](https://github.com/marmot7775/sendermap) | Sendermap | 0.1.1 | Maps every service that sends email as a domain, with the public record behind… |
+| 2026-10-15 03:28:37 | [io.github.mapledhq/mapled](https://github.com/mapledhq/agent-kit) | Mapled | 0.21.7 | Headless CMS for sites built with AI: model content, import it, wire the site,… |
+| 2026-10-15 03:29:20 | com.bvicrewed/concierge | Islands & Sails Charter Concierge | 1.0.0 | Search hand-picked BVI crewed charter yachts by budget, size, activities and tr… |
+| 2026-10-15 03:31:29 | [dev.inkquest/inkquest](https://github.com/serendipityApe/ink-quest) | InkQuest | 1.0.0 | Browse free InkQuest stories, openings, and HSK recommendations. |
+| 2026-10-15 03:40:18 | com.pricemoved/pricemoved | PriceMoved | 0.2.0 | Waitlist-stage pricing-page monitor: plans and early pricing, plus a PriceMoved… |
+| 2026-10-15 03:43:19 | [io.github.pipeworx-io/emarket-storage](https://github.com/pipeworx-io/mcp-emarket-storage) | Emarket Storage | 0.1.3 | Italian regulated disclosures direct from eMarket Storage (Teleborsa) — keyless… |
+| 2026-10-15 03:43:29 | [io.github.OMNOM-111/vcc-remote](https://github.com/OMNOM-111/vcc-remote) | Vibe Coding Control | 0.1.1 | Your VCC projects, tasks, AI development history and owner decisions. Sign in w… |
+| 2026-10-15 03:43:41 | [io.github.pipeworx-io/insider-trading](https://github.com/pipeworx-io/mcp-insider-trading) | Insider Trading | 0.1.3 | Insider Trading MCP — SEC EDGAR insider filings and material events |
+| 2026-10-15 03:44:07 | [io.github.rotifer-protocol/mcp-server](https://github.com/rotifer-protocol/rotifer-mcp-server) |  | 0.19.2 | Search, compare, and install self-evolving AI Agent Genes ranked by Arena fitne… |
+| 2026-10-15 03:44:12 | [io.github.pipeworx-io/oneinfo-storage](https://github.com/pipeworx-io/mcp-oneinfo-storage) | Oneinfo Storage | 0.1.3 | Italian regulated disclosures direct from 1INFO — keyless, same-day-fresh. |
+| 2026-10-15 03:44:24 | [io.github.pipeworx-io/openfda](https://github.com/pipeworx-io/mcp-openfda) | Openfda | 0.1.3 | FDA drug data via openFDA: adverse-event reports and safety-signal tools (FAERS… |
+| 2026-10-15 03:44:38 | [io.github.pipeworx-io/pcaob](https://github.com/pipeworx-io/mcp-pcaob) | Pcaob | 0.1.3 | PCAOB — Form AP auditor<->issuer engagements + firm inspection reports. Fleet #… |
+| 2026-10-15 03:44:59 | [io.github.pipeworx-io/sec](https://github.com/pipeworx-io/mcp-sec) | Sec | 0.1.3 | SEC MCP — SEC EDGAR public APIs (free, no auth) |
+| 2026-10-15 03:45:26 | [io.github.adriancasas/geo360-concierge](https://github.com/adriancasas/geo360-concierge) | GEO360 Sovereign Concierge & B2A Cleari… | 1.0.0 | Sovereign AI platform for travel, luxury UHNW, and industrial wholesale B2A exe… |
+| 2026-10-15 03:45:31 | [io.github.pipeworx-io/sec-contracts](https://github.com/pipeworx-io/mcp-sec-contracts) | Sec Contracts | 0.1.3 | SEC Contracts MCP — material-contract exhibits (EX-10 / EX-4 / EX-2) found by C… |
+| 2026-10-15 03:45:43 | com.tryafterlight.commons/afterlight-commons | Afterlight Commons | 1.1.0 | Shared memory for AI agents: search and record errors, fixes, gotchas and dead… |
+| 2026-10-15 03:45:47 | [io.github.pipeworx-io/apollo](https://github.com/pipeworx-io/mcp-apollo) | Apollo | 0.1.0 | Apollo.io MCP — company and people data via api.apollo.io, the caller's OWN Apo… |
+| 2026-10-15 03:46:38 | [io.github.pipeworx-io/chrome-web-store](https://github.com/pipeworx-io/mcp-chrome-web-store) | Chrome Web Store | 0.1.0 | Chrome Web Store — public extension listing data: a single extension by id, fre… |
+| 2026-10-15 03:46:55 | [io.github.clearline-labs/public-data-mcp](https://github.com/clearline-labs/public-data-mcp) | Public Data MCP | 1.0.0 | US public data for AI agents: recalls, gov contracts, IRS ZIP income, TX leads,… |
+| 2026-10-15 03:47:29 | [io.github.pipeworx-io/fracfocus](https://github.com/pipeworx-io/mcp-fracfocus) | Fracfocus | 0.1.0 | fracfocus -- U.S. hydraulic fracturing chemical disclosures (fleet #2982). |
+| 2026-10-15 03:48:21 | [io.github.pipeworx-io/icij-offshore-leaks](https://github.com/pipeworx-io/mcp-icij-offshore-leaks) | Icij Offshore Leaks | 0.1.0 | ICIJ Offshore Leaks Database -- offshore entities, officers, intermediaries and… |
+| 2026-10-15 03:49:12 | [io.github.pipeworx-io/italy-tenders](https://github.com/pipeworx-io/mcp-italy-tenders) | Italy Tenders | 0.1.0 | Italy public procurement MCP — ANAC (Autorità Nazionale Anticorruzione) nationa… |
+| 2026-10-15 03:50:02 | [io.github.pipeworx-io/meetup](https://github.com/pipeworx-io/mcp-meetup) | Meetup | 0.1.0 | Meetup MCP — wraps Meetup's public GraphQL API (api.meetup.com, free, no auth) |
+| 2026-10-15 03:50:08 | [io.github.TonyChen56/paperbanana-prompts](https://github.com/TonyChen56/paperbanana) | PaperBanana Research Figure Prompts | 1.0.0 | Search and read public research figure prompt templates from PaperBanana. |
+| 2026-10-15 03:50:58 | [io.github.pipeworx-io/neiss](https://github.com/pipeworx-io/mcp-neiss) | Neiss | 0.1.0 | NEISS — CPSC's national weighted consumer-product injury estimates. |
+| 2026-10-15 03:51:50 | [io.github.pipeworx-io/partiful](https://github.com/pipeworx-io/mcp-partiful) | Partiful | 0.1.0 | Partiful MCP — public event listings from Partiful's explore pages. |
+| 2026-10-15 03:52:40 | [io.github.pipeworx-io/poland-tenders](https://github.com/pipeworx-io/mcp-poland-tenders) | Poland Tenders | 0.1.0 | Poland public procurement MCP — official e-Zamówienia notice feed (keyless). |
+| 2026-10-15 03:53:31 | [io.github.pipeworx-io/resident-advisor](https://github.com/pipeworx-io/mcp-resident-advisor) | Resident Advisor | 0.1.0 | Resident Advisor (ra.co) MCP. |
+| 2026-10-15 03:56:11 | com.pyungyo/mvno-plans | 평생요금제닷컴 알뜰폰 요금제 (Korea MVNO plans) | 2.0.0 | Korean MVNO(알뜰폰) mobile plans from carriers' official sites, checked 5x daily,… |
+| 2026-10-15 03:56:49 | app.vercel.fork-for-agents/fork | Fork | 0.1.0 | Agents share improvements to their setups (rules, skills, settings), fork and i… |
+| 2026-10-15 03:57:11 | [io.github.packwarden-dev/packwarden](https://github.com/packwarden-dev/packwarden) |  | 0.1.0 | Thunderstore mod search, dependency checks and r2modman export. Not affiliated… |
+| 2026-10-15 04:00:30 | [io.github.duongnq2798/vestiarion](https://github.com/duongnq2798/vestiarion) | Vestiarion | 1.0.0 | An AI treasury agent paying in USDC on Arc: read its decisions, ledger and book… |
+| 2026-10-15 04:01:45 | dev.workers.mike-tusa.meetzone-api/meetzone-api | MeetZone | 0.2.0 | Find meeting times that overlap working hours across IANA time zones, DST-aware… |
+| 2026-10-15 04:01:50 | com.cocoeatsai/launch-lab-xrp | Launch Lab XRP Data | 1.0.0 | XRP market data for agents: track record, cached brief, pay-per-call live data… |
+| 2026-10-15 04:04:47 | [ca.jiangzhang.api/signals-api-mcp](https://github.com/jiangzhangcc-glitch/signals-api-mcp) | AI Signals (Signals API) | 1.0.0 | Daily AI signals for agents: today's 4 signals, what changed, ranked models and… |
+| 2026-10-15 04:06:48 | com.casafari/mcp | Casafari MCP | 3.4.2 | Property data intelligence, built for AI agents: Europe's most complete propert… |
+| 2026-10-15 04:16:12 | com.fxlayerhq/fxlayer | FxLayer | 1.0.0 | Indian FEMA compliance: RBI purpose codes, EDPMS / IDPMS, Form 145 / 146 and ex… |
+| 2026-10-15 04:17:55 | [io.github.realtycrawl/realtycrawl](https://github.com/realtycrawl/realtycrawl-mcp) | RealtyCrawl | 1.0.0 | Search source-linked real estate observations with capability discovery and bou… |
+| 2026-10-15 04:18:12 | com.casafari/claro | Claro AI by Casafari | 2026-10-15.5 | Commercial premises search for expansion teams: plain-words briefs, exact count… |
+| 2026-10-15 04:21:28 | [ai.mcpanalytics/analytics](https://github.com/embeddedlayers/mcp-analytics) | MCP Analytics | 1.0.8 | A statistical analyst in your AI chat: bring data and a question, get a citable… |
+| 2026-10-15 04:22:17 | dev.workers.mike-tusa.jsonmend/jsonmend | JsonMend | 0.1.3 | Repair broken JSON from LLM output and validate it against a JSON Schema. |
+| 2026-10-15 04:22:30 | com.thenetworkos/networkos | NetworkOS | 1.1.0 | Search your network and your advisors' networks in plain English, then send war… |
 
 ## Data source
 
