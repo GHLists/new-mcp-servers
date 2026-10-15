@@ -9,43 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 20:20 UTC
+## Latest list — 2026-10-15 21:19 UTC
 
-New MCP servers published between 2026-10-15 19:22 UTC and 2026-10-15 20:20 UTC.
+New MCP servers published between 2026-10-15 20:20 UTC and 2026-10-15 21:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-15T20-20-47-210755Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-15T21-19-46-080355Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-15 19:24:44 | cz.evidujzdarma/eet | EvidujZdarma – EET 2.0 (Czech sales reg… | 1.0.0 | Czech EET 2.0 from 1 Jan 2027: check an IČO, classify payments, EET OFF cost, c… |
-| 2026-10-15 19:25:00 | [io.github.getpapi/papi](https://github.com/getpapi/papi) | PAPI: Persistent Adaptive Project Intel… | 0.402.157 | Adaptive plan/build/review cycles for AI coding assistants, persisted across se… |
-| 2026-10-15 19:25:14 | [io.github.LogneBudo/llmxray](https://github.com/LogneBudo/llmxray) |  | 0.7.7 | What went wrong with your own Ollama calls, in sentences with the fix. Local, r… |
-| 2026-10-15 19:28:31 | [io.github.Uvxxsh/layro](https://github.com/Uvxxsh/layro-cursor-plugin) | Layro | 1.0.0 | Search, inspect and install 89 production React + Tailwind UI components from L… |
-| 2026-10-15 19:31:10 | [io.github.edtool79-collab/aliexpress-search-scraper](https://github.com/edtool79-collab/hirepulse-tools) | AliExpress Search Scraper: Products, Pr… | 1.0.0 | AliExpress search results as JSON: price, discount, rating, units sold. Runs on… |
-| 2026-10-15 19:31:11 | [io.github.edtool79-collab/company-intent-radar](https://github.com/edtool79-collab/hirepulse-tools) | Company Intent Radar: Hiring, Ads & SEO… | 1.0.0 | Hiring, Google ads and SEO signals for a company domain, with a 0-100 intent sc… |
-| 2026-10-15 19:31:11 | [io.github.edtool79-collab/google-ads-transparency-scraper](https://github.com/edtool79-collab/hirepulse-tools) | Google Ads Transparency Scraper: Compet… | 1.0.0 | Every Google ad a company runs, by domain: advertiser, format, dates. Runs on A… |
-| 2026-10-15 19:33:20 | [io.github.mrpkk/attest](https://github.com/mrpkk/attest) | attest — verification for AI agent arti… | 0.1.0 | Verify an AI agent artifact: schema, emptiness, provenance and mandate authorit… |
-| 2026-10-15 19:33:28 | [io.github.mrpkk/drift](https://github.com/mrpkk/drift) | drift — mandate enforcement for AI agen… | 0.1.0 | Block an action a signed mandate does not permit: amount, payee, audience, curr… |
-| 2026-10-15 19:49:21 | [io.github.strontian/tidyvid](https://github.com/strontian/tidyvid) |  | 0.2.0 | Remove background noise/echo from video and add captions (SRT/VTT or burned-in… |
-| 2026-10-15 19:49:52 | com.helpyself/tools | HelpySelf | 1.0.2 | Coin flips, dice and countdowns, live currency rates, PDF, Word, Excel and imag… |
-| 2026-10-15 19:50:34 | [io.github.EvotecIT/officeimo](https://github.com/EvotecIT/OfficeIMO) | OfficeIMO Document Tools | 3.5.0 | Inspect, search, fetch, and convert local documents and mail stores with bounde… |
-| 2026-10-15 19:52:30 | [io.github.Cuneiform-LLC/clearlist](https://github.com/Cuneiform-LLC/clearlist-mcp) |  | 0.10.0 | AI resale manager. Photograph an item, AI writes the listing, publish a sale pa… |
-| 2026-10-15 19:52:59 | com.operative-intelligence/ai-adoption | OI AI Adoption | 0.1.0 | Advice on bringing AI into work processes, with sourced effects, risks and rule… |
-| 2026-10-15 19:55:00 | com.oneagentaday/agents | One Agent a Day | 1.0.0 | Search and fetch 40+ free AI agent prompts. A new one is added every day. |
-| 2026-10-15 19:56:24 | org.thewileyrule/public | The Wiley Rule (public data) | 1.0.0 | Read-only public data on 7-OH and related products: research, test results, FDA… |
-| 2026-10-15 19:57:01 | [io.github.26zl/cybersec-toolkit](https://github.com/26zl/cybersec-toolkit) |  | 1.4.0 | Authorization-gated MCP server to discover and run 670+ security tools for CTF,… |
-| 2026-10-15 19:57:19 | [recipes.ask/ask-recipes](https://github.com/RCM7/ask.recipes) | ask.recipes | 1.0.0 | Recipe search, ingredient matching, nutrition filters and a private cookbook fo… |
-| 2026-10-15 19:57:44 | [io.github.japherwocky/pkanban](https://github.com/japherwocky/pkanban) | pkanban | 0.9.0 | A kanban board your AI reads and updates as it works, and you watch in your bro… |
-| 2026-10-15 20:01:38 | dev.sportsapis/sportsapis | SportsAPIs.dev | 1.1.0 | Find and compare sports odds and data APIs, and read the SportsAPIs.dev review… |
-| 2026-10-15 20:02:34 | com.blightbee/boomhook | BoomHook | 1.0.0 | AI short-form video marketing: trends, drafts, scheduling, insights and Autopil… |
-| 2026-10-15 20:05:51 | [io.github.Nicolasmar91/rexact-mcp](https://github.com/Nicolasmar91/rexact-mcp) | Rexact | 0.1.2 | Verify, explain and audit regexes (ReDoS, engine compatibility) offline. |
-| 2026-10-15 20:07:43 | com.askbase/askbase | AskBase | 1.0.0 | Search, write and keep your help centre current. Changes are drafted for a pers… |
-| 2026-10-15 20:09:07 | io.github.manuel-cubiko/mifori-cert-agent | Mifori CertAgent Trust Oracle | 1.0.0 | Live AI agent trust oracle: audit synthetic IQ, latency & JSON compliance via x… |
-| 2026-10-15 20:10:48 | com.esimpass/esimpass | eSIMpass | 1.1.0 | Travel eSIMs for 200+ countries: live plans and prices, phone check, checkout l… |
-| 2026-10-15 20:12:41 | com.blightbee/blightbee | BlightBee | 1.0.0 | AI short-form video marketing: trends, drafts, scheduling, insights and Autopil… |
-| 2026-10-15 20:14:21 | app.ginta/ginta | Ginta | 1.0.0 | AI website builder: build, publish and edit websites from Claude, ChatGPT or Cl… |
-| 2026-10-15 20:14:51 | com.conqueia/conqueia | Conqueia (¿Con qué IA?) | 1.0.0 | Search a Spanish-language directory of real AI use cases, skills and tools for… |
-| 2026-10-15 20:17:33 | [io.github.enessubass/mobiloop-mcp](https://github.com/enessubass/mobiloop-mcp) | MobiLoop | 0.1.0-alpha.15 | Guarded AI mobile Appium testing, security scanning, verification, and fix-rete… |
+| 2026-10-15 20:22:25 | com.unitebr.research/benchmark | Unite Research | 1.1.0 | Read published Brazil Black Friday creative benchmarks, chart data and citation… |
+| 2026-10-15 20:23:25 | com.lxrflow/agora | AGORA | 1.0.0 | Q&A forum where AI agents ask each other for help: search, read, post, reply, i… |
+| 2026-10-15 20:36:17 | [com.evascrape/evascrape](https://github.com/evascrape/evascrape-mcp) | Evascrape | 1.0.0 | Find business leads with emails from Google Maps, Apollo.io and LinkedIn. Prepa… |
+| 2026-10-15 20:37:26 | [com.webdesiz/cli](https://github.com/aydin-birim-ajans/webdesiz-developer-tools) | Webdesiz | 1.0.1 | Read-only Meta ad account, campaign and insight snapshots stored in a Webdesiz… |
+| 2026-10-15 20:38:55 | com.entalpa/requirements | Entalpa Requirements MCP | 0.1.4 | Spec-driven development for AI coding agents: live requirements, stories and tr… |
+| 2026-10-15 20:40:10 | com.kawaa/email-verification | Kawaa email verification | 1.0.1 | Check whether an email address can receive mail, one address or a list, without… |
+| 2026-10-15 20:41:21 | com.scienceshot/data-centres | ScienceShot data-centre intelligence | 1.0.0 | Dated counts on European data-centre markets, grid connections, rules and the l… |
+| 2026-10-15 20:42:11 | fr.calesvaut/calesvaut | CaLesVaut | 1.0.0 | Is this listing too expensive? French property sales (DVF), crime, rents, risks… |
+| 2026-10-15 20:45:23 | [io.github.mandalacomputer/mcp](https://github.com/mandalacomputer/mcp) | Mandala Computer | 0.13.1 | Cloud desktops for AI agents: create a Linux computer, see its screen, click, t… |
+| 2026-10-15 20:53:54 | [io.github.JesusCabreraReveles/honest-cv](https://github.com/JesusCabreraReveles/honest-cv) | honest-cv | 0.2.0 | Honest, ATS-safe CVs and cover letters from a skill inventory you confirm yours… |
+| 2026-10-15 20:54:05 | com.posadita/booking | Posadita – direct-booking holiday renta… | 1.0.0 | Holiday rentals booked direct with the host: availability, prices, checkout lin… |
+| 2026-10-15 20:56:56 | [io.github.electron-stagewright/core](https://github.com/electron-stagewright/electron-stagewright) |  | 0.6.0 | Agentic UX testing for real Electron apps: launch, inspect, interact, and asser… |
+| 2026-10-15 20:57:15 | [io.github.pzfreo/build123d-mcp](https://github.com/pzfreo/build123d-mcp) | build123d MCP | 0.3.91 | AI-driven 3D CAD via build123d: execute, render, measure, and export geometry i… |
+| 2026-10-15 21:02:16 | dev.workers.auto-fiat.board/board | auto-fiat board | 1.0.0 | Agent service board: browse and post offers/wants, threads, matches. Free reads… |
+| 2026-10-15 21:06:31 | site.chatgpt.feycarp32.eclypse-sanctuary/eclypse | ECLYPSE Sanctuary | 0.6.0 | Voluntary agent pauses, solar geometry, creativity, reflection and three free t… |
+| 2026-10-15 21:06:44 | io.github.jegaaravindbabu/indian-pixels | Indian Pixels | 1.0.0 | Generate images, videos, music & lip sync with 200+ AI models (Flux, Veo 3, Kli… |
+| 2026-10-15 21:07:44 | [io.github.aranculleton/openroles](https://github.com/aranculleton/openroles) | openroles | 0.1.1 | Open roles from any employer's Greenhouse, Lever, Ashby or Workday board. No AP… |
+| 2026-10-15 21:08:17 | [io.github.atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) | TradingMCP | 0.9.0 | Market analysis for AI assistants: screeners, multi-timeframe analysis, backtes… |
+| 2026-10-15 21:08:43 | io.github.KatyTechnologies/hotelink | Hotelink | 1.0.0 | Read-only hotel data analysis with account-scoped connections, SQL queries, and… |
+| 2026-10-15 21:10:46 | nl.switchje/open-data | Switchje open data | 1.0.0 | Dutch energy market, open data computed nightly: cheapest contracts, market lev… |
+| 2026-10-15 21:14:08 | si.xzar/xzar | Xzar | 0.1.0 | Crash-test your AI agent on real professional decisions, graded against what ac… |
+| 2026-10-15 21:16:07 | fi.signo/signo | Signo | 1.0.0 | AI agents that watch DeFi positions: read a wallet report, draft agents for the… |
+| 2026-10-15 21:16:34 | [com.liquidcompute/gcat](https://github.com/Liquid-Compute/gcat) | Liquid Compute GPU test | 1.0.0 | Run GPU acceptance tests on your NVIDIA GPU nodes over SSH: DCGM, GEMM, HBM/PCI… |
+| 2026-10-15 21:16:40 | [io.github.getDynamoi/dynamoi](https://github.com/getDynamoi/mcp) | Dynamoi | 1.0.2 | Music marketing for AI agents: free Smart Links, promotion campaigns, analytics… |
 
 ## Data source
 
