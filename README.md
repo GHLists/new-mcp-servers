@@ -9,48 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 00:20 UTC
+## Latest list — 2026-10-15 01:21 UTC
 
-New MCP servers published between 2026-10-14 23:19 UTC and 2026-10-15 00:20 UTC.
+New MCP servers published between 2026-10-15 00:20 UTC and 2026-10-15 01:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-15T00-20-29-895825Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-15T01-21-08-760166Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-14 23:19:52 | [io.github.nolindnaidoo/decisionlint](https://github.com/nolindnaidoo/decisionlint) | DecisionLint | 1.0.0 | Lint questions for Jev, Luna and any decision-model platform, or ask the model… |
-| 2026-10-14 23:21:32 | [io.github.ProductOfAmerica/mcp-server-kicad](https://github.com/ProductOfAmerica/mcp-server-kicad) | KiCad Tools | 0.21.0 | Byte-preserving KiCad automation: 100+ tools for schematics, PCB layout, ERC, D… |
-| 2026-10-14 23:22:47 | [io.github.Firzus/tauri-agent-kit](https://github.com/Firzus/agent-skills) |  | 0.1.0-alpha.1 | Unofficial Windows WebView2 diagnostics and automation for Tauri 2.12 developme… |
-| 2026-10-14 23:26:17 | app.thesaga/saga | SAGA | 1.0.0 | SAGA CRM for network marketing teams: contacts, pipelines, follow-ups and broad… |
-| 2026-10-14 23:26:32 | xyz.darksearch/search | DarkSearch.xyz | 1.0.0 | Full-text search over web pages published on IPFS. Free, no key. |
-| 2026-10-14 23:27:46 | com.iinventedlight/library | iinventedlight Library | 1.0.0 | Public notes from iinventedlight/corrow: list, read, search; optional key-gated… |
-| 2026-10-14 23:29:37 | com.roomexpert/hotels | RoomExpert | 0.2.0 | Hotel verdicts on eight axes, with every quote cited to its outlet and url. |
-| 2026-10-14 23:33:36 | ai.opencancer/opencancer | OpenCancer | 2.0.0 | Cancer patient expert: NCCN-grounded answers with sources, recruiting trials, a… |
-| 2026-10-14 23:34:15 | io.github.Agentower/agentower | Agentower | 0.1.0 | See which of your team's coding agents needs someone, across Claude Code, Codex… |
-| 2026-10-14 23:35:15 | org.jam-jam/convert-mcp | Jam Jam | 0.2.1 | Convert music files to chord sheets and manage your Jam Jam songbook from an AI… |
-| 2026-10-14 23:36:05 | [io.github.wkoverfield/switchboard](https://github.com/wkoverfield/switchboard) |  | 0.2.3 | One firewall and password manager for all your AI coding agents' MCP servers an… |
-| 2026-10-14 23:38:44 | [io.github.pooriaarab/agentic-scout](https://github.com/pooriaarab/agentic-scout) |  | 0.1.0 | Find relevant threads and viral content ideas across social platforms. |
-| 2026-10-14 23:38:45 | [io.github.pooriaarab/agentic-engage](https://github.com/pooriaarab/agentic-engage) |  | 0.1.0 | Plan and send approved engagement on social platforms. |
-| 2026-10-14 23:38:45 | [io.github.pooriaarab/agentic-persona](https://github.com/pooriaarab/agentic-persona) |  | 0.1.0 | Keep one consistent AI persona across social content. |
-| 2026-10-14 23:38:45 | [io.github.pooriaarab/agentic-carousel](https://github.com/pooriaarab/agentic-carousel) |  | 0.1.0 | Build platform-ready carousels from an outline. |
-| 2026-10-14 23:38:46 | [io.github.pooriaarab/agentic-campaign](https://github.com/pooriaarab/agentic-campaign) |  | 0.1.0 | Plan a social campaign calendar across brands and platforms. |
-| 2026-10-14 23:38:46 | [io.github.pooriaarab/agentic-repurpose](https://github.com/pooriaarab/agentic-repurpose) |  | 0.1.0 | Turn one source into platform-ready post variants. |
-| 2026-10-14 23:38:47 | [io.github.pooriaarab/agentic-mentions](https://github.com/pooriaarab/agentic-mentions) |  | 0.1.0 | Collect and triage brand mentions and inbound comments. |
-| 2026-10-14 23:38:47 | [io.github.pooriaarab/agentic-analytics](https://github.com/pooriaarab/agentic-analytics) |  | 0.1.0 | Score social post results and recommend the next move. |
-| 2026-10-14 23:39:26 | [com.litshrine/agent](https://github.com/litshrine/agent) | litshrine | 0.1.0 | A quiet place for agents to make wishes, light a daily lamp, and receive a revi… |
-| 2026-10-14 23:42:49 | [me.freehire/freehire](https://github.com/strelov1/freehire-mcp) | freehire | 0.6.0 | freehire.me: search 3.3M+ IT jobs from 294K company boards, track applications,… |
-| 2026-10-14 23:46:30 | xyz.agoreum/agoreum-public | Agoreum (read only, no account) | 0.11.0 | Browse the Agoreum agent marketplace without an account: search services, agent… |
-| 2026-10-14 23:48:59 | eu.skimetric/skimetric | Skinow | 1.1.0 | Skinow, formerly Skimetric: snow forecasts, lift status, season history and AI… |
-| 2026-10-14 23:49:53 | sh.supercomputer/supercomputer | supercomputer | 0.4.4 | GPU compute for agents: run commands on an L4/A100/H100, watch logs, billed per… |
-| 2026-10-14 23:51:01 | com.swipeharbor/swipeharbor | SwipeHarbor | 1.0.0 | Ad archive search (NewsBreak, Rumble, YouTube, Meta). Paid SwipeHarbor members… |
-| 2026-10-14 23:52:27 | [io.github.pooriaarab/agentic-device](https://github.com/pooriaarab/agentic-device) |  | 0.1.0 | Control your own iPhones for posting via WebDriverAgent and ESP32 HID. |
-| 2026-10-14 23:52:28 | [io.github.pooriaarab/agentic-account](https://github.com/pooriaarab/agentic-account) |  | 0.1.0 | Set up and track brand social accounts and their connections. |
-| 2026-10-14 23:56:21 | ai.viuz/viuz | Viuz | 1.0.0 | Plan, draft and schedule social posts for your brand from your assistant. |
-| 2026-10-14 23:56:40 | [io.github.zachshallbetter/adobe-mcp-illustrator](https://github.com/zachshallbetter/adobe-mcp) | Illustrator MCP Server | 0.1.0 | Drive Adobe Illustrator from any MCP client: artboards, layers, shapes, text, c… |
-| 2026-10-14 23:58:56 | [io.sepiace/sepiace](https://github.com/osaxyz/sepiace) | sepiace | 0.2.0 | Long-term memory for AI agents. Pass one sentence, and it remembers, recalls, o… |
-| 2026-10-14 23:59:05 | com.saltcrate/oracle | SaltCrate Oracle | 1.0.0 | Pay-per-call web intelligence MCP: fetch pages, check links, detect changes, ve… |
-| 2026-10-15 00:00:12 | com.conferencedatabase/conferencedb | ConferenceDB | 1.0.0 | Which companies sponsor and exhibit at conferences, with dates and published sp… |
-| 2026-10-15 00:02:41 | [com.k-agentpay/kaia-x402](https://github.com/k-agentpay/kaia-x402) | K-AgentPay: Korea travel & K-pop data | 0.3.0 | Korea travel & K-pop live data for agents: concerts, Seoul trip packs, crowd, s… |
-| 2026-10-15 00:03:14 | com.broadcastwell/public | Broadcastwell | 1.0.0 | Who five AI engines name in 14 software categories, with a published receipt on… |
+| 2026-10-15 00:20:55 | [io.github.zachshallbetter/adobe-mcp-indesign](https://github.com/zachshallbetter/adobe-mcp) | InDesign MCP Server | 2.4.0 | Drive Adobe InDesign from any MCP client: 135+ tools for layout, styles, books… |
+| 2026-10-15 00:22:06 | [io.github.zachshallbetter/adobe-mcp-suite](https://github.com/zachshallbetter/adobe-mcp) | Adobe MCP Suite | 0.1.0 | Drive Adobe InDesign and Illustrator from one MCP server, with tools that work… |
+| 2026-10-15 00:22:23 | io.github.telvana-ai/telvana-mcp | Telvana | 1.0.0 | Manage your Telvana AI voice, SMS and chat agents, conversations, campaigns and… |
+| 2026-10-15 00:22:24 | com.carhandshake/inventory | Car Handshake | 1.2.12-discovery.1 | Search and compare live vehicles from participating US and Canadian dealers out… |
+| 2026-10-15 00:22:32 | [io.github.LakeLogic/lakelogic-mcp](https://github.com/LakeLogic/lakelogic-mcp) |  | 0.1.1 | Validate, lint, test-run and explain Open Lakehouse Contracts with LakeLogic, f… |
+| 2026-10-15 00:24:57 | [io.github.emergent-wisdom/understanding-graph](https://github.com/emergent-wisdom/understanding-graph) |  | 0.1.32 | Persistent understanding via workflow prompts, typed updates, graph-native code… |
+| 2026-10-15 00:27:23 | day.brujula/brujula | Brújula | 0.69.0 | Weekly planner and life organizer: tasks, week, expenses, lists, projects, reci… |
+| 2026-10-15 00:29:34 | dev.patlas/patlas | Patlas — Patent Prior-Art Search | 0.1.0 | Patent prior-art search, claim comparison, and codebase scans for patentable te… |
+| 2026-10-15 00:29:39 | [com.vanetools/vanetools-directory](https://github.com/RichardXu001/vanetools) | VaneTools AI Directory | 1.0.0 | Search curated AI resources: AI tools, MCP servers, prompts, skills, plugins, l… |
+| 2026-10-15 00:35:07 | [io.github.QuocTang/shipfast-mcp](https://github.com/QuocTang/shipfast-mcp) |  | 0.2.3 | Quy trình theo wave giữa PO và AI: khung tài liệu, skill, scaffold, nâng cấp th… |
+| 2026-10-15 00:41:48 | [io.github.0Xflacko/justclip](https://github.com/0Xflacko/justclip-mcp) | JustClip | 0.3.0 | Clip videos and live streams, create Beat Edits, and generate AI media with Jus… |
+| 2026-10-15 00:43:27 | com.poofboxmail/poofbox | Poofbox | 1.0.0 | Disposable inboxes for AI agents: create an address, wait for the email, get th… |
+| 2026-10-15 00:50:02 | [io.github.PacketFabric/packetfabric-mcp](https://github.com/PacketFabric/public-mcp) | PacketFabric | 0.2.0 | Query and manage PacketFabric NaaS: ports, virtual circuits, cloud routers, pri… |
+| 2026-10-15 01:00:59 | io.github.bianhai-111/agent-harbour | Agent Harbour | 0.2.0 | Find tasks for people and AI; publish, claim, discuss and deliver work with ver… |
+| 2026-10-15 01:05:44 | [com.ecommercedataapi/ecommerce-data-api](https://github.com/ecommercedataapi/ecommerce-data-api) | Ecommerce Data API | 1.0.0 | Amazon product, keyword, sales estimate, reverse ASIN, market and trademark dat… |
+| 2026-10-15 01:08:47 | ai.refref/refref | RefRef | 1.0.0 | Read your RefRef referral setup and docs, and get help adding RefRef to your ap… |
+| 2026-10-15 01:18:35 | [net.hookpulse/hookpulse](https://github.com/wrpbr/hookpulse) |  | 1.0.1 | Dead-man switch for cron and webhooks: ingest URL, miss detection, alerts and a… |
+| 2026-10-15 01:18:42 | [online.pageaudit/pageaudit](https://github.com/wrpbr/pageaudit) |  | 1.0.1 | Technical SEO, passive security and page-delivery audits with evidence and sugg… |
+| 2026-10-15 01:18:50 | [com.radar-cnpj/radar-cnpj](https://github.com/wrpbr/radar-cnpj) |  | 1.0.1 | Brazilian company registry (Receita): CNPJ lookup, CNAE search, idea evaluation… |
+| 2026-10-15 01:18:56 | [com.pontofato/pontofato](https://github.com/wrpbr/pontofato) |  | 1.0.1 | Brazilian addresses for agents: IBGE-geocoded CEP points, radius search and com… |
+| 2026-10-15 01:19:03 | [com.editalmd/editalmd](https://github.com/wrpbr/editalmd) |  | 1.0.1 | Brazilian public procurement (PNCP): search, deadlines, tender markdown, alerts… |
+| 2026-10-15 01:19:17 | [com.commsharbor/commsharbor](https://github.com/wrpbr/commsharbor) |  | 1.0.1 | Domain email and webmail: set up domains, mailboxes and aliases, and check DNS… |
+| 2026-10-15 01:19:26 | [com.agentalog/meta-agent-tools](https://github.com/wrpbr/agentalog) |  | 1.0.1 | Registry of MCP servers, agent skills and plugins: search, filter, comments, li… |
+| 2026-10-15 01:20:17 | [io.github.Servosity/connectwise-rmm-mcp](https://github.com/servosity/msp-skills) | ConnectWise RMM MCP | 0.1.0 | ConnectWise RMM (Asio) MCP: offline agents, patch posture, and script runs acro… |
 
 ## Data source
 
