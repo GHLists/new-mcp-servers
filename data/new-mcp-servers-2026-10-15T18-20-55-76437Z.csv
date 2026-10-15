@@ -1,0 +1,36 @@
+created_at,server,title,version,repository,transports,description
+2026-10-15T17:22:09.31396Z,io.github.yunusemrejr/listme,listme.name rankings,1.0.0,,streamable-http,"Read-only ranked lists, product facts, alternatives and comparisons for software, apps and books."
+2026-10-15T17:22:28.498655Z,com.alphanume/datasets,Alphanume Datasets,1.7.0,,streamable-http; streamable-http,"Point-in-time US equity & options data: vol premium, earnings moves, dilution, FDA events, splits"
+2026-10-15T17:23:16.207627Z,io.github.cq27-dev/rag-rat,rag-rat,0.24.1,https://github.com/cq27-dev/rag-rat,,"Repository intelligence, code graph, history, papertrail, and cross-agent memory for coding agents."
+2026-10-15T17:24:03.735327Z,ai.memestack/mcp,MemeStack,1.4.0,https://github.com/Ed-Relight/memestack-mcp,streamable-http,"Visual search for memes, infographics and charts — by meaning, OCR text, or image similarity."
+2026-10-15T17:26:40.32035Z,xyz.crawlhive/crawlhive,CrawlHive,1.0.0,https://github.com/h100envy/crawl-hive,streamable-http,"Memecoin safety scanner for Solana, BNB and Robinhood Chain with an onchain track record"
+2026-10-15T17:28:57.193251Z,com.botrecipe/budget,Run Budget Guard,1.0.1,,streamable-http,"Hard dollar, token, call and time caps shared by every sub-agent in one agent run."
+2026-10-15T17:30:02.32207Z,io.github.MohibShaikh/hwcontract,,0.5.0,https://github.com/MohibShaikh/hwcontract,,"Judge hardware timing/serial against a contract: pass/marginal/fail (WS2812, DShot, logs)"
+2026-10-15T17:30:12.511436Z,io.github.canalthailexa-lgtm/guiamaquininha,Guia da Maquininha,1.0.0,https://github.com/canal.thailexa/mcp-guiamaquininha-repo,streamable-http,"Brazilian card machine MDR rates, tiers and monthly cost comparison."
+2026-10-15T17:35:36.796652Z,ai.viite/business-studio,Business Studio,1.1.0,,streamable-http,"Your business board for Claude and ChatGPT: tasks, sub-cards, CRM, posts, tracked links."
+2026-10-15T17:37:05.8002Z,io.github.KiMelody/minirag,MiniRAG,0.1.0,https://github.com/KiMelody/minirag,sse,Lightweight self-hosted RAG knowledge base with hybrid retrieval and cited answers.
+2026-10-15T17:37:30.085866Z,com.botrecipe/approve,Approval Rules,1.0.0,,streamable-http,Auto-approve small agent actions under your rules; approval cards for the rest.
+2026-10-15T17:38:00.295937Z,io.github.Yantrakar/gitpro,gitpro,0.3.4,https://github.com/Yantrakar/gitpro,,"Read-only checks of which git name, email and SSH key a repository uses, and why."
+2026-10-15T17:40:06.205318Z,io.atalayahq/atalaya,Atalaya,1.0.0,,streamable-http,"Team task manager: create, find, edit and comment tasks and plan sprints from your AI assistant."
+2026-10-15T17:40:09.01883Z,io.github.zyvorai/paqtra,Paqtra,2.2.3,https://github.com/zyvorai/paqtra,,Read-only Cilium and Hubble network observability and flow investigation for Kubernetes.
+2026-10-15T17:43:03.842981Z,xyz.agentreader/agentreader,AgentReader,0.2.0,,streamable-http,Any URL or PDF to clean Markdown/JSON for agents. Free tier; pay-per-use via x402 USDC.
+2026-10-15T17:43:44.37267Z,fr.boncourant/boncourant,Boncourant,1.5.1,https://github.com/Amrit-Gill/boncourant-mcp,streamable-http,"Optimiseur et auditeur d'électricité en France : tarifs, contrats, puissance et PPA."
+2026-10-15T17:45:03.271498Z,dk.dgfm/mcp,Damsgaard FM,1.0.0,,streamable-http,Damsgaard FM er udbudsrådgivere for ejendomsejere og står bag platformen Properly.fm.
+2026-10-15T17:45:45.392543Z,fm.properly/mcp,Properly.fm,1.0.0,,streamable-http,"Properly.fm er en dansk platform til udbud af serviceaftaler på ejendomme, fra Damsgaard FM."
+2026-10-15T17:47:36.276337Z,io.github.creator35lwb-web/verifimind-genesis,VerifiMind PEAS - RefleXion Trinity,3.42.0,https://github.com/creator35lwb-web/VerifiMind-PEAS,streamable-http,X-Z-CS AI validation with auditable reasoning. 8 active tools; 5 in maintenance. v0.5.65
+2026-10-15T17:49:39.176322Z,world.gryd/locus,Locus Protocol (Gryd.world),1.1.0,,streamable-http,Read/verify the public map of location-anchored BSV pins; build place/mint payloads. No auth.
+2026-10-15T17:49:43.736996Z,com.amfionhq/front-desk-setup,Amfion front desk setup,1.0.0,,streamable-http,"Build and test an AI front desk for a service business from its website, before signing up."
+2026-10-15T17:49:54.65145Z,com.amfionhq/business,Amfion business booking,1.0.0,,streamable-http,"Ask an Amfion business about services and hours, check availability, and book with approval."
+2026-10-15T17:49:55.884713Z,com.citedindex/mcp,CitedIndex,1.0.0,,streamable-http,"Look up AI-visibility and GEO tools: price, AI engines covered, limits and a source for each fact."
+2026-10-15T17:51:00.144694Z,app.seolytics/seolytics,Seolytics,1.0.0,,streamable-http,"SEO & GEO data: keywords, live SERPs with AI Overviews, backlinks, site audits, rank tracking."
+2026-10-15T17:51:11.081245Z,com.ayurak/aribot-mcp,Aribot,1.1.0,,streamable-http,"Threat modeling, code, API & cloud security, shadow-AI & compliance governance."
+2026-10-15T17:54:13.85408Z,io.github.docdyhr/macwhisper-mcp-server,,1.2.1,https://github.com/docdyhr/macwhisper-mcp-server,,"MacWhisper transcription for Claude Desktop. Fully local, no cloud, audio stays on your Mac."
+2026-10-15T17:56:40.319542Z,com.positionguardai/positionguard,PositionGuard,1.0.0,https://github.com/positionguard/positionguard-mcp,streamable-http,Ask who in your groups is at an area like home or school. Members opt in. Never coordinates.
+2026-10-15T17:57:16.532826Z,io.github.kristerkb-pixel/rowfeed-seo-mcp,Rowfeed SEO Data,1.0.0,https://github.com/kristerkb-pixel/rowfeed-seo-mcp,streamable-http,"Google search results, Google News, keyword volume, competitor keywords and Google Trends."
+2026-10-15T18:02:07.400927Z,io.github.jennipro-engineering/ghost-market-web,JENNi Shop — Local & Nationwide AI Commerce,1.1.0,https://github.com/jennipro-engineering/ghost-market-web,streamable-http,"Search live local & nationwide retail stock, check prices, and run zero-click AI agent checkouts."
+2026-10-15T18:03:39.976719Z,app.tradeit/mcp,Trade It,1.0.1,https://github.com/trade-it-inc/trade-it-mcp,streamable-http,"Connect brokerage accounts to AI assistants: holdings, orders, asset lookup, and approved trading."
+2026-10-15T18:05:06.335806Z,io.github.zelentsov-dev/apple-ads-mcp,Apple Ads MCP,0.3.7,https://github.com/zelentsov-dev/apple-ads-mcp,,"Local Apple Ads research, optimization, and receipt-gated App Store campaign management."
+2026-10-15T18:14:08.457436Z,com.onecoworking.www/mcp,One Coworking,1.1.0,,streamable-http,Find and compare coworking spaces and offices in 300+ European cities; get office quotes.
+2026-10-15T18:15:20.49441Z,com.getappty/appty,Appty,1.0.0,,streamable-http,Find open slots on any appty link and book solo providers. Providers manage bookings by API key.
+2026-10-15T18:19:33.31826Z,com.generategreetings/greetings,Generate Greetings,1.1.0,,streamable-http,Create family-friendly greetings in 15 languages for 30 occasions and four styles.
+2026-10-15T18:20:06.545412Z,io.github.getchordlabs/chord,Chord,1.0.0,https://github.com/getchordlabs/chord,streamable-http,"Swap quotes + unsigned txs on 7 EVM chains, token boards, candles, wallet PnL, smart money. No key."
