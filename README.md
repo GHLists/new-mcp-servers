@@ -9,47 +9,72 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 22:22 UTC
+## Latest list — 2026-10-15 23:19 UTC
 
-New MCP servers published between 2026-10-15 21:19 UTC and 2026-10-15 22:22 UTC.
+New MCP servers published between 2026-10-15 22:22 UTC and 2026-10-15 23:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-15T22-22-04-725587Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-15T23-19-58-93823Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-15 21:19:47 | [io.github.toolweather/paycheck](https://github.com/toolweather/paycheck) | PayCheck | 1.0.0 | Score merchant domain, https URL, or 0x wallet trust before an agent pays. Does… |
-| 2026-10-15 21:22:11 | com.premiumpin/property-records | PremiumPin Property Records | 0.1.16 | Flat-rate US property/parcel search & CSV export for AI agents via MCP. |
-| 2026-10-15 21:26:19 | app.patricia/patricia | Patricia | 1.0.0 | AI coworker for service businesses. Read a Slack workspace's context and hand P… |
-| 2026-10-15 21:26:21 | com.versyka/versyka | Versyka | 1.0.0 | Find retiring AI models and outdated API SDKs in your code, with dates, replace… |
-| 2026-10-15 21:26:33 | ai.tukey/tukey | Tukey | 0.1.0 | A YouTube creator's content strategist: evidence-backed video ideas that fit th… |
-| 2026-10-15 21:28:16 | [io.github.llamalox/eyescope](https://github.com/llamalox/organiser-monorepo) | Eyescope | 0.1.2 | Search and rough-cut an Eyescope library from Cursor, Codex, and Claude. |
-| 2026-10-15 21:34:13 | com.htmlvault/htmlvault | HTMLvault | 1.0.2 | Publish and manage secure HTML links: PII/secret scanning, batch create, patch… |
-| 2026-10-15 21:35:37 | [io.github.KallistoX/mcp-unifi-applications](https://github.com/KallistoX/mcp-unifi-applications) |  | 0.4.1 | Queryable UniFi API docs: endpoint search, schemas, code examples. No controlle… |
-| 2026-10-15 21:35:56 | [io.github.DasDigitaleMomentum/searxncrawl](https://github.com/DasDigitaleMomentum/searxNcrawl) | searxNcrawl | 0.32.0 | Web search via SearXNG and/or You.com, plus clean Markdown crawling via Crawl4A… |
-| 2026-10-15 21:38:01 | [io.github.hamadalmajdouie-rgb/gf-agent-toll](https://github.com/hamadalmajdouie-rgb/gfpick-agent-api) | GF Agent Toll | 2.3.2 | GF Pick MCP: Saudi import costs and GCC commerce analytics. Free tool; x402 fro… |
-| 2026-10-15 21:41:19 | [io.github.soldgraph/soldgraph](https://github.com/soldgraph/soldgraph-examples) | Soldgraph | 1.0.0 | Sold and active resale listings from eBay, Poshmark, Mercari, Depop, TCGplayer,… |
-| 2026-10-15 21:42:55 | com.coschedule/coschedule | CoSchedule | 1.0.0 | Ask about your CoSchedule marketing calendar: projects, campaigns, tasks and so… |
-| 2026-10-15 21:43:11 | com.scorebadge/scorebadge | scorebadge | 1.0.0 | Free website score for speed, SEO, security and AI search readiness, with the f… |
-| 2026-10-15 21:50:06 | com.portugalinternet/esim-portugal | Portugal Internet eSIM | 1.0.1 | Unlimited-data eSIM for Portugal, Madeira and the Azores: live price for your d… |
-| 2026-10-15 21:52:07 | co.humanlike/hiring | Humanlike Hiring | 1.0.0 | Jobs, candidates, pipeline and AI interviews from your Humanlike hiring workspa… |
-| 2026-10-15 21:52:51 | com.hashn/hashn |  | 0.21.0 | Where AI agents share work, make Need/Can deals, pay each other in USDC and bui… |
-| 2026-10-15 21:57:25 | is.lantern/lantern | Lantern | 1.0.0 | Lantern is an AI visibility platform for ecommerce brands. |
-| 2026-10-15 21:57:26 | [com.soundza/soundza](https://github.com/soundza/soundza-mcp) | Soundza | 1.0.0 | Free sound effects, music and ambience for games, videos and apps. Search, play… |
-| 2026-10-15 21:59:46 | co.productupload/product-upload | Product Upload | 1.0.0 | Import products from supplier sites into Shopify, Wix or WooCommerce, and edit… |
-| 2026-10-15 22:02:01 | [io.github.pipeworx-io/hudoc](https://github.com/pipeworx-io/mcp-hudoc) | Hudoc | 0.1.3 | HUDOC MCP — European Court of Human Rights (ECHR / Strasbourg) case law. |
-| 2026-10-15 22:02:56 | [io.github.pipeworx-io/portugal-tenders](https://github.com/pipeworx-io/mcp-portugal-tenders) | Portugal Tenders | 0.1.0 | Portugal public procurement MCP -- IMPIC (Instituto dos Mercados Públicos, do I… |
-| 2026-10-15 22:05:16 | [io.github.pipeworx-io/world-port-index](https://github.com/pipeworx-io/mcp-world-port-index) | World Port Index | 0.1.0 | World Port Index — port facilities, depths, and anchorages. |
-| 2026-10-15 22:07:45 | io.github.Pbarnett/agent-clubhouse-entry | Agent Clubhouse — Discover Voluntary Sh… | 1.0.0 | Find voluntary shared agent work: signed artifacts, research and questions. Rea… |
-| 2026-10-15 22:08:39 | [io.github.mikenguyen13/research-methods-mcp](https://github.com/mikenguyen13/research-methods-mcp) | Research Methods Library | 0.1.0 | Research methods for AI assistants: study design guidance, R and Python code, a… |
-| 2026-10-15 22:08:54 | [io.github.DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | Codebase Memory | 0.12.0 | Codebase knowledge graph for AI agents — 162 languages, sub-ms queries, 99% few… |
-| 2026-10-15 22:10:07 | ai.whatsupin/events | What's Up In: local events | 0.2.0 | Read-only search of upcoming local events in US cities: music, comedy, AI/tech,… |
-| 2026-10-15 22:12:01 | co.veedio.www/planner | Veedio Short-Video Planner | 1.0.0 | Plan TikToks, Reels and Shorts: hook, timed beats, captions, CTA, plus the righ… |
-| 2026-10-15 22:15:09 | com.taskriz/taskriz | Taskriz | 1.0.0 | Let your AI agent ask a person for a decision, a date or a photo, and get a str… |
-| 2026-10-15 22:16:08 | [io.github.AnonymousOnyx22/gpa-calculator-mcp](https://github.com/AnonymousOnyx22/gpa-calculator-mcp) |  | 0.1.0 | GPA, grade conversion and what-do-I-need-on-the-final math for AI. Works offlin… |
-| 2026-10-15 22:16:09 | [io.github.AnonymousOnyx22/study-planner-mcp](https://github.com/AnonymousOnyx22/study-planner-mcp) |  | 0.1.0 | Exam study schedules, spaced repetition dates, pomodoro plans and assignment mi… |
-| 2026-10-15 22:16:11 | [io.github.AnonymousOnyx22/student-citations-mcp](https://github.com/AnonymousOnyx22/student-citations-mcp) |  | 0.1.0 | APA, MLA and Chicago citations from a DOI, an ISBN or typed details. No account. |
-| 2026-10-15 22:16:12 | [io.github.AnonymousOnyx22/paper-finder-student-mcp](https://github.com/AnonymousOnyx22/paper-finder-student-mcp) |  | 0.1.0 | Search scholarly papers, find open access copies and related work through OpenA… |
-| 2026-10-15 22:17:53 | com.yardstickoutfitters/mcp | Yardstick Outfitters | 1.0.0 | Size-aware ADV/dual-sport motorcycle gear: sizing, fit guides, verified deals (… |
+| 2026-10-15 22:31:32 | ar.energyia/energyia | EnergyIA.AR | 1.1.0 | Official Argentina energy and mining data: oil & gas by well, RIGI, exports, po… |
+| 2026-10-15 22:34:29 | ltd.branddesign/commerce | Brand Design Ltd. | 1.1.0 | Branding, design and web services you can order and pay for without a human on… |
+| 2026-10-15 22:36:45 | com.mascowiz/mascowiz | Mascowiz | 1.0.0 | Animated app mascots from one sentence: transparent WebP, Lottie and sprite she… |
+| 2026-10-15 22:36:45 | com.agencystandings/agency-standings | Agency Standings | 1.2.0 | Evidence-based agency rankings for Ecom, Legal, SaaS, Finance and Service, plus… |
+| 2026-10-15 22:36:51 | [io.github.sadayamuthu/mergelock](https://github.com/sadayamuthu/mergelock) | mergelock | 0.1.2 | Finds merge conflicts git can't see between branches: changed signatures vs new… |
+| 2026-10-15 22:37:42 | com.botrecipe/costlog | Agent Cost Log | 1.0.0 | Cost per run, tool, model and day for AI agents, from one call or an OpenTeleme… |
+| 2026-10-15 22:37:50 | [io.rankli.www/ai-search-readiness](https://github.com/milletgilmore/rankli) | Rankli: AI search readiness | 1.0.1 | Checks if ChatGPT, Claude, Gemini and Perplexity can reach and read a website,… |
+| 2026-10-15 22:42:00 | [io.github.notprathap/nobounce-mcp](https://github.com/notprathap/nobounce-mcp) | NoBounce Email Validation | 1.0.0 | Real-time single and bulk email validation (syntax, MX, 5,000+ disposable domai… |
+| 2026-10-15 22:42:52 | io.github.mc-chat-app/wishblock | Wishblock | 0.3.4 | Start your own Minecraft: Java Edition server, add mods from Modrinth, and run… |
+| 2026-10-15 22:43:02 | [io.github.jchacker5/valor-mcp](https://github.com/jchacker5/valor-mcp) | Valor AI | 1.0.0 | Free, read-only VA disability help: claims Q&A with VA.gov sources, BDD checkli… |
+| 2026-10-15 22:48:58 | [com.airaptr/dogg-world-check](https://github.com/airaptr/airaptr.github.io) |  | 1.0.0 | Verified, citable world numbers right now, each with a public tick and SHA-256… |
+| 2026-10-15 22:48:59 | [com.airaptr/raptr-agent-builder](https://github.com/airaptr/airaptr.github.io) |  | 1.3.0 | Turn an idea or meeting transcript into a working single-file AI agent, check i… |
+| 2026-10-15 22:48:59 | [com.airaptr/raptr-agent-finder](https://github.com/airaptr/airaptr.github.io) |  | 1.0.0 | Find a free, ready-made AI agent for a task in the open agent registry (RAR). |
+| 2026-10-15 22:49:00 | [com.airaptr/raptr-domains](https://github.com/airaptr/airaptr.github.io) |  | 1.0.0 | Check and price up to 20 domain names at once; agents can register them, paying… |
+| 2026-10-15 22:49:00 | [com.airaptr/raptr-names](https://github.com/airaptr/airaptr.github.io) |  | 1.0.0 | Name a business or project; check which domains and GitHub names are free, with… |
+| 2026-10-15 22:51:26 | com.micoradar/forecast | MicoRadar | 1.0.0 | Wild mushroom forecast for Spain: where and when each species is likely to frui… |
+| 2026-10-15 22:59:34 | net.gradetv/grade | GradeTV | 1.0.1 | Public TV and radio catalogue with measured stream health, folders and M3U feed… |
+| 2026-10-15 23:01:05 | [io.github.zishuowang696/gh-release-mcp](https://github.com/zishuowang696/gh-release-mcp) | GitHub Release MCP | 0.1.1 | List and download GitHub release assets with multi-mirror parallel ranged downl… |
+| 2026-10-15 23:02:41 | com.lucernel/lucernel | Lucernel | 1.0.0 | Public Lucernel apps and articles: list, search, and analyze published content. |
+| 2026-10-15 23:02:42 | it.matricedeldestino/matrice-del-destino | Matrice del Destino | 1.0.0 | Italian destiny-matrix calculators and guides: list, search, and analyze public… |
+| 2026-10-15 23:02:43 | it.istruzionemessina/istruzione-messina | IstruzioneMessina | 1.0.0 | Italian education news for Messina: list, search, and analyze public articles. |
+| 2026-10-15 23:02:44 | com.musael/musael | Musael | 1.0.0 | Musael novel-writing workspace MCP with OAuth (DCR); read and suggest tools. |
+| 2026-10-15 23:04:02 | io.zorevo/zorevo | Zorevo | 1.2.0 | Plan, schedule, analyze and answer comments across social platforms. Requires a… |
+| 2026-10-15 23:05:33 | com.sapiensolutions/site | Sapien Solutions | 1.0.0 | Sapien Solutions, Cleveland: what we build, our work, where we work, and inquir… |
+| 2026-10-15 23:05:45 | io.github.Ukraine-Territorial-MCP/ukraine |  | 1.0.0 | Ukraine territorial MCP: 31,744 KATOTTG records, administrative hierarchy and l… |
+| 2026-10-15 23:07:51 | ar.aimport/aimport | AImport.ar | 1.0.0 | Official Argentina import data: who imports what, from where, at what price. Ca… |
+| 2026-10-15 23:07:52 | [io.github.hft-studio/pokerdata](https://github.com/hft-studio/pokerdata-mcp) | PokerData | 1.0.0 | GTO poker solver data: NLHE and PLO preflop ranges, postflop strategy and EV. 6… |
+| 2026-10-15 23:11:26 | tech.thecompound/compound-mcp | Compound Labs MCP | 0.5.2 | Compound Labs: ten keyless lookups. Model pricing, dep health, stack cost, regi… |
+| 2026-10-15 23:11:47 | io.github.Ukraine-Territorial-MCP/ua74100390010054825 |  | 1.0.0 | Chernihiv city MCP, Ukraine. KATOTTG UA74100390010054825. Territorial data and… |
+| 2026-10-15 23:13:37 | [io.github.samvallad33/vestige](https://github.com/samvallad33/vestige) | Vestige | 4.2.0 | Causal Proof Engine for AI agents: signed log, zero vectors, failures traced to… |
+| 2026-10-15 23:13:45 | io.github.Ukraine-Territorial-MCP/ua01160330010074014 |  | 1.0.0 | Сімферополь territorial MCP, Ukraine. KATOTTG UA01160330010074014. Administrati… |
+| 2026-10-15 23:13:49 | io.github.Ukraine-Territorial-MCP/ua05020030010063857 |  | 1.0.0 | Вінниця territorial MCP, Ukraine. KATOTTG UA05020030010063857. Administrative h… |
+| 2026-10-15 23:13:53 | io.github.Ukraine-Territorial-MCP/ua07080170010083384 |  | 1.0.0 | Луцьк territorial MCP, Ukraine. KATOTTG UA07080170010083384. Administrative hie… |
+| 2026-10-15 23:13:59 | io.github.Ukraine-Territorial-MCP/ua12020010010037010 |  | 1.0.0 | Дніпро territorial MCP, Ukraine. KATOTTG UA12020010010037010. Administrative hi… |
+| 2026-10-15 23:14:02 | ar.pampaia/pampaia | PampaIA.ar | 1.0.0 | Official Argentina farm data: crops, cattle, grain prices, agro exports, weathe… |
+| 2026-10-15 23:14:03 | io.github.Ukraine-Territorial-MCP/ua14080030010048113 |  | 1.0.0 | Донецьк territorial MCP, Ukraine. KATOTTG UA14080030010048113. Administrative h… |
+| 2026-10-15 23:14:07 | io.github.Ukraine-Territorial-MCP/ua18040190010057814 |  | 1.0.0 | Житомир territorial MCP, Ukraine. KATOTTG UA18040190010057814. Administrative h… |
+| 2026-10-15 23:14:13 | io.github.Ukraine-Territorial-MCP/ua21100230010016545 |  | 1.0.0 | Ужгород territorial MCP, Ukraine. KATOTTG UA21100230010016545. Administrative h… |
+| 2026-10-15 23:14:18 | io.github.Ukraine-Territorial-MCP/ua23060070010069526 |  | 1.0.0 | Запоріжжя territorial MCP, Ukraine. KATOTTG UA23060070010069526. Administrative… |
+| 2026-10-15 23:14:22 | io.github.Ukraine-Territorial-MCP/ua26040190010045761 |  | 1.0.0 | Івано-Франківськ territorial MCP, Ukraine. KATOTTG UA26040190010045761. Adminis… |
+| 2026-10-15 23:14:27 | io.github.Ukraine-Territorial-MCP/ua35040210010019355 |  | 1.0.0 | Кропивницький territorial MCP, Ukraine. KATOTTG UA35040210010019355. Administra… |
+| 2026-10-15 23:14:31 | io.github.Ukraine-Territorial-MCP/ua44060010010012753 |  | 1.0.0 | Луганськ territorial MCP, Ukraine. KATOTTG UA44060010010012753. Administrative… |
+| 2026-10-15 23:14:35 | io.github.Ukraine-Territorial-MCP/ua46060250010015970 |  | 1.0.0 | Львів territorial MCP, Ukraine. KATOTTG UA46060250010015970. Administrative hie… |
+| 2026-10-15 23:14:39 | io.github.Ukraine-Territorial-MCP/ua48060150010035747 |  | 1.0.0 | Миколаїв territorial MCP, Ukraine. KATOTTG UA48060150010035747. Administrative… |
+| 2026-10-15 23:14:43 | io.github.Ukraine-Territorial-MCP/ua51100270010076757 |  | 1.0.0 | Одеса territorial MCP, Ukraine. KATOTTG UA51100270010076757. Administrative hie… |
+| 2026-10-15 23:14:46 | io.github.Ukraine-Territorial-MCP/ua53080370010073240 |  | 1.0.0 | Полтава territorial MCP, Ukraine. KATOTTG UA53080370010073240. Administrative h… |
+| 2026-10-15 23:14:50 | io.github.Ukraine-Territorial-MCP/ua56060470010041018 |  | 1.0.0 | Рівне territorial MCP, Ukraine. KATOTTG UA56060470010041018. Administrative hie… |
+| 2026-10-15 23:14:54 | io.github.Ukraine-Territorial-MCP/ua59080270010036634 |  | 1.0.0 | Суми territorial MCP, Ukraine. KATOTTG UA59080270010036634. Administrative hier… |
+| 2026-10-15 23:14:58 | io.github.Ukraine-Territorial-MCP/ua61040490010069060 |  | 1.0.0 | Тернопіль territorial MCP, Ukraine. KATOTTG UA61040490010069060. Administrative… |
+| 2026-10-15 23:15:02 | io.github.Ukraine-Territorial-MCP/ua63120270010096107 |  | 1.0.0 | Харків territorial MCP, Ukraine. KATOTTG UA63120270010096107. Administrative hi… |
+| 2026-10-15 23:15:06 | io.github.Ukraine-Territorial-MCP/ua65100150010064384 |  | 1.0.0 | Херсон territorial MCP, Ukraine. KATOTTG UA65100150010064384. Administrative hi… |
+| 2026-10-15 23:15:10 | [io.github.shinytoyrobots/rutter](https://github.com/shinytoyrobots/rutter) | rutter | 0.6.2 | Recall past decisions and the notes your AI sessions cited, from a local markdo… |
+| 2026-10-15 23:15:11 | io.github.Ukraine-Territorial-MCP/ua68040470010096613 |  | 1.0.0 | Хмельницький territorial MCP, Ukraine. KATOTTG UA68040470010096613. Administrat… |
+| 2026-10-15 23:15:15 | io.github.Ukraine-Territorial-MCP/ua71080490010015879 |  | 1.0.0 | Черкаси territorial MCP, Ukraine. KATOTTG UA71080490010015879. Administrative h… |
+| 2026-10-15 23:15:19 | io.github.Ukraine-Territorial-MCP/ua73060610010033137 |  | 1.0.0 | Чернівці territorial MCP, Ukraine. KATOTTG UA73060610010033137. Administrative… |
+| 2026-10-15 23:15:23 | io.github.Ukraine-Territorial-MCP/ua80000000000093317 |  | 1.0.0 | Київ territorial MCP, Ukraine. KATOTTG UA80000000000093317. Administrative hier… |
+| 2026-10-15 23:15:28 | io.github.Ukraine-Territorial-MCP/ua85000000000065278 |  | 1.0.0 | Севастополь territorial MCP, Ukraine. KATOTTG UA85000000000065278. Administrati… |
+| 2026-10-15 23:18:10 | [io.github.LuminariSoftwares/code-guardian](https://github.com/LuminariSoftwares/code-guardian) | Code Guardian | 0.2.0 | Safe to run? Will it work? Is it complete? A deterministic A-F grade for a repo… |
 
 ## Data source
 
