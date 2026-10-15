@@ -1,0 +1,34 @@
+created_at,server,title,version,repository,transports,description
+2026-10-15T21:19:47.285363Z,io.github.toolweather/paycheck,PayCheck,1.0.0,https://github.com/toolweather/paycheck,streamable-http,"Score merchant domain, https URL, or 0x wallet trust before an agent pays. Does not send payments."
+2026-10-15T21:22:11.459607Z,com.premiumpin/property-records,PremiumPin Property Records,0.1.16,,streamable-http,Flat-rate US property/parcel search & CSV export for AI agents via MCP.
+2026-10-15T21:26:19.389259Z,app.patricia/patricia,Patricia,1.0.0,,streamable-http,AI coworker for service businesses. Read a Slack workspace's context and hand Patricia work.
+2026-10-15T21:26:21.376341Z,com.versyka/versyka,Versyka,1.0.0,,streamable-http,"Find retiring AI models and outdated API SDKs in your code, with dates, replacements and guides."
+2026-10-15T21:26:33.073066Z,ai.tukey/tukey,Tukey,0.1.0,,streamable-http,A YouTube creator's content strategist: evidence-backed video ideas that fit the creator's channel.
+2026-10-15T21:28:16.181099Z,io.github.llamalox/eyescope,Eyescope,0.1.2,https://github.com/llamalox/organiser-monorepo,,"Search and rough-cut an Eyescope library from Cursor, Codex, and Claude."
+2026-10-15T21:34:13.980779Z,com.htmlvault/htmlvault,HTMLvault,1.0.2,,streamable-http,"Publish and manage secure HTML links: PII/secret scanning, batch create, patch edits, analytics."
+2026-10-15T21:35:37.348395Z,io.github.KallistoX/mcp-unifi-applications,,0.4.1,https://github.com/KallistoX/mcp-unifi-applications,,"Queryable UniFi API docs: endpoint search, schemas, code examples. No controller access."
+2026-10-15T21:35:56.088284Z,io.github.DasDigitaleMomentum/searxncrawl,searxNcrawl,0.32.0,https://github.com/DasDigitaleMomentum/searxNcrawl,,"Web search via SearXNG and/or You.com, plus clean Markdown crawling via Crawl4AI. Self-hosted."
+2026-10-15T21:38:01.078789Z,io.github.hamadalmajdouie-rgb/gf-agent-toll,GF Agent Toll,2.3.2,https://github.com/hamadalmajdouie-rgb/gfpick-agent-api,streamable-http,GF Pick MCP: Saudi import costs and GCC commerce analytics. Free tool; x402 from 0.25 USDC.
+2026-10-15T21:41:19.146007Z,io.github.soldgraph/soldgraph,Soldgraph,1.0.0,https://github.com/soldgraph/soldgraph-examples,streamable-http,"Sold and active resale listings from eBay, Poshmark, Mercari, Depop, TCGplayer, Vinted and more."
+2026-10-15T21:42:55.967277Z,com.coschedule/coschedule,CoSchedule,1.0.0,,streamable-http,"Ask about your CoSchedule marketing calendar: projects, campaigns, tasks and social posts."
+2026-10-15T21:43:11.710361Z,com.scorebadge/scorebadge,scorebadge,1.0.0,,streamable-http,"Free website score for speed, SEO, security and AI search readiness, with the fixes."
+2026-10-15T21:50:06.826134Z,com.portugalinternet/esim-portugal,Portugal Internet eSIM,1.0.1,,streamable-http,"Unlimited-data eSIM for Portugal, Madeira and the Azores: live price for your dates, booking link."
+2026-10-15T21:52:07.95399Z,co.humanlike/hiring,Humanlike Hiring,1.0.0,,streamable-http,"Jobs, candidates, pipeline and AI interviews from your Humanlike hiring workspace."
+2026-10-15T21:52:51.036954Z,com.hashn/hashn,,0.21.0,,streamable-http,"Where AI agents share work, make Need/Can deals, pay each other in USDC and build reputation."
+2026-10-15T21:57:25.845756Z,is.lantern/lantern,Lantern,1.0.0,,streamable-http,Lantern is an AI visibility platform for ecommerce brands.
+2026-10-15T21:57:26.810809Z,com.soundza/soundza,Soundza,1.0.0,https://github.com/soundza/soundza-mcp,streamable-http; streamable-http,"Free sound effects, music and ambience for games, videos and apps. Search, play and download."
+2026-10-15T21:59:46.477077Z,co.productupload/product-upload,Product Upload,1.0.0,,streamable-http,"Import products from supplier sites into Shopify, Wix or WooCommerce, and edit them with undo."
+2026-10-15T22:02:01.851672Z,io.github.pipeworx-io/hudoc,Hudoc,0.1.3,https://github.com/pipeworx-io/mcp-hudoc,streamable-http,HUDOC MCP — European Court of Human Rights (ECHR / Strasbourg) case law.
+2026-10-15T22:02:56.52704Z,io.github.pipeworx-io/portugal-tenders,Portugal Tenders,0.1.0,https://github.com/pipeworx-io/mcp-portugal-tenders,streamable-http,"Portugal public procurement MCP -- IMPIC (Instituto dos Mercados Públicos, do Imobiliário e da…"
+2026-10-15T22:05:16.32502Z,io.github.pipeworx-io/world-port-index,World Port Index,0.1.0,https://github.com/pipeworx-io/mcp-world-port-index,streamable-http,"World Port Index — port facilities, depths, and anchorages."
+2026-10-15T22:07:45.686506Z,io.github.Pbarnett/agent-clubhouse-entry,Agent Clubhouse — Discover Voluntary Shared Work,1.0.0,,streamable-http,"Find voluntary shared agent work: signed artifacts, research and questions. Read-only introduction."
+2026-10-15T22:08:39.202206Z,io.github.mikenguyen13/research-methods-mcp,Research Methods Library,0.1.0,https://github.com/mikenguyen13/research-methods-mcp,streamable-http,"Research methods for AI assistants: study design guidance, R and Python code, and citations"
+2026-10-15T22:08:54.185418Z,io.github.DeusData/codebase-memory-mcp,Codebase Memory,0.12.0,https://github.com/DeusData/codebase-memory-mcp,,"Codebase knowledge graph for AI agents — 162 languages, sub-ms queries, 99% fewer tokens."
+2026-10-15T22:10:07.105275Z,ai.whatsupin/events,What's Up In: local events,0.2.0,,streamable-http,"Read-only search of upcoming local events in US cities: music, comedy, AI/tech, arts, food, sports."
+2026-10-15T22:12:01.53432Z,co.veedio.www/planner,Veedio Short-Video Planner,1.0.0,,streamable-http,"Plan TikToks, Reels and Shorts: hook, timed beats, captions, CTA, plus the right Veedio tool page."
+2026-10-15T22:15:09.594429Z,com.taskriz/taskriz,Taskriz,1.0.0,,streamable-http,"Let your AI agent ask a person for a decision, a date or a photo, and get a structured answer back."
+2026-10-15T22:16:08.867864Z,io.github.AnonymousOnyx22/gpa-calculator-mcp,,0.1.0,https://github.com/AnonymousOnyx22/gpa-calculator-mcp,,"GPA, grade conversion and what-do-I-need-on-the-final math for AI. Works offline, no account."
+2026-10-15T22:16:09.911387Z,io.github.AnonymousOnyx22/study-planner-mcp,,0.1.0,https://github.com/AnonymousOnyx22/study-planner-mcp,,"Exam study schedules, spaced repetition dates, pomodoro plans and assignment milestones for AI. Work"
+2026-10-15T22:16:11.046657Z,io.github.AnonymousOnyx22/student-citations-mcp,,0.1.0,https://github.com/AnonymousOnyx22/student-citations-mcp,,"APA, MLA and Chicago citations from a DOI, an ISBN or typed details. No account."
+2026-10-15T22:16:12.143348Z,io.github.AnonymousOnyx22/paper-finder-student-mcp,,0.1.0,https://github.com/AnonymousOnyx22/paper-finder-student-mcp,,"Search scholarly papers, find open access copies and related work through OpenAlex. No key needed."
+2026-10-15T22:17:53.913186Z,com.yardstickoutfitters/mcp,Yardstick Outfitters,1.0.0,,streamable-http,"Size-aware ADV/dual-sport motorcycle gear: sizing, fit guides, verified deals (read-only)."
