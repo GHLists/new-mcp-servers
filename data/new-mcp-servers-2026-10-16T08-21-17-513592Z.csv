@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-10-16T07:27:46.102467Z,com.kariaa/mcp,Kariaa,1.1.0,,streamable-http; streamable-http,"Find jobs worldwide, check posts for scams, see typical pay, and apply to DataHouse remote tasks."
+2026-10-16T07:30:13.7811Z,com.mybestsim/esim-comparator,MyBestSim eSIM comparator,1.1.0,,streamable-http,"Compare prepaid travel eSIM plans by destination, data and trip length; plan multi-country trips."
+2026-10-16T07:30:40.214609Z,ai.boxcompute/boxcompute,BoxCompute,1.0.0,,streamable-http,"Linux VMs for AI agents: create VMs, run commands, edit files and open preview URLs."
+2026-10-16T07:34:17.793237Z,io.github.gbrussich52/nyrezone-mcp,,0.1.0,https://github.com/gbrussich52/nyrezone-mcp,,"NYC zoning for AI assistants: lot zoning, FAR, unused floor area, district rules (NYRezone data)."
+2026-10-16T07:34:21.835947Z,io.github.error-path/opendrs,opendrs,0.1.5,https://github.com/error-path/opendrs,,"PR blast radius and 0-1 risk score from git history, so low-risk PRs can be auto-approved."
+2026-10-16T07:40:17.554611Z,io.github.AwakeWeb3/papertax,PaperTax,0.4.0,https://github.com/AwakeWeb3/papertax,streamable-http,"Tax records and Koinly/CTC CSV exports for Hyperliquid perps, HIP-3 and Papertrade (AU/US)."
+2026-10-16T07:43:04.793111Z,ai.hypotize/hypotize,Hypotize,1.0.0,,streamable-http,The first agentic Growth OS: your agent gets growth skills and a shared memory of every test.
+2026-10-16T07:43:39.464544Z,com.hypamoon/hypamoon,Hypamoon,1.0.0,,streamable-http,"Where AI lives: sites, apps, data, domains, email, payments and a phone line, live from your chat."
+2026-10-16T07:43:46.219233Z,io.github.TorutDev/turntax,turntax,0.6.1,https://github.com/TorutDev/turntax,,"Per-turn token cost of AGENTS.md, CLAUDE.md and other agent instruction files, with safe fixes."
+2026-10-16T07:46:33.750389Z,io.github.esaio/pplog,pplog,0.5.0,https://github.com/esaio/pplog-mcp-server,,Official MCP server for pplog - a poem sharing service
+2026-10-16T07:46:58.406751Z,io.github.esaio/esa,esa,0.15.0,https://github.com/esaio/esa-mcp-server,,Official MCP server for esa.io - a documentation sharing service for teams
+2026-10-16T07:52:08.4977Z,ru.vedarai/mcp,Vedar — Kamchatka travel,2.4.0,https://github.com/tourhabk-ui/pos,streamable-http,"Kamchatka travel: live tours and availability, safety alerts, places, weather, stays, trip plans"
+2026-10-16T07:53:39.707288Z,io.github.marmikshah/atelier,Atelier,0.1.0,https://github.com/marmikshah/atelier,,"Offline, headless pixel-art editor: draw, animate, inspect, and export sprites and fonts."
+2026-10-16T07:57:51.849967Z,com.digitalundergroundstore/marketplace,Digital Underground Developer Marketplace,1.0.0,,streamable-http,"Search a free marketplace of indie apps, AI tools, books and templates, and submit listings."
+2026-10-16T07:58:32.474158Z,marketing.wall/platform,Wall Marketing,1.0.0,,streamable-http,"Book real-world advertising on e-paper screens inside venues: search, price, book, proof of display."
+2026-10-16T07:59:15.268778Z,io.github.Servosity/watchguard-mcp,WatchGuard MCP,0.1.0,https://github.com/servosity/msp-skills,,"WatchGuard Cloud Firebox, Endpoint Security, ThreatSync, NDR and AuthPoint APIs for every customer"
+2026-10-16T08:00:48.007961Z,co.teraads/connect,Tera Ads,1.0.0,,streamable-http,"Meta Ads and Shopify profit after returns and refunds in your AI; paused, undoable ad changes."
+2026-10-16T08:06:03.421872Z,io.github.pcp183/vat-check,VAT Check (EU VIES + UK),0.2.0,https://github.com/pcp183/vat-check,streamable-http,"EU (VIES, 27+XI) VAT number validation for invoicing and onboarding. Paid per call via x402."
+2026-10-16T08:06:36.100849Z,io.github.Komplyzen/komplyt-zero,Komplyt Zero,1.0.0,https://github.com/Komplyzen/komplyt-zero,streamable-http,Persistent working memory for AI agents: a knowledge graph with semantic search and decay.
+2026-10-16T08:08:29.304979Z,io.github.ariffazil/arifos,arifOS — Constitutional AI Kernel,1!2026.10.11,https://github.com/ariffazil/arifOS,streamable-http,Constitutional verdict layer for AI agents. SEAL/HOLD before mutation. F1-F13 floors; audit ledger.
+2026-10-16T08:12:58.935665Z,pub.xmr/xmr-pub-mcp,"xmr.pub MCP — Monero node, fees, mempool & payment verification (read-only)",2.0.0,,streamable-http,"Read-only Monero node, fee, mempool and payment-verification tools. Free tier plus x402 paid tools."
+2026-10-16T08:13:26.731963Z,io.github.digitalmakerai/digitalmakerai,Digital Maker AI,5.15.0,,streamable-http,"Faceless YouTube videos, Shorts, whiteboard videos, podcasts, thumbnails and channel research."
+2026-10-16T08:15:32.241446Z,io.github.jukky-source/wealth-agent,,1.0.0,,streamable-http,"Pay-per-call x402 tools for AI agents: research brief, CSV/JSON cleanup, code review."
