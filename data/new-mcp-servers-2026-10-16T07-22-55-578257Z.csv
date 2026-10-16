@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-10-16T06:22:36.630863Z,ai.veida/veida-mcp,,0.1.0,https://github.com/hanshs474/veida-mcp,,"Generate AI images from a prompt with no API key, using Veida's anonymous free tier."
+2026-10-16T06:23:05.940062Z,com.microsoft/copilot-studio,Copilot Studio,1.0.0,https://github.com/microsoft/copilot-studio-mcp,,"MCP bridge for Copilot Studio sign-in, environment selection, and Agentic Builder access."
+2026-10-16T06:28:17.420633Z,net.parcelapi/parcelapi,parcelapi.net,1.0.0,,streamable-http,US property parcels and building permits from cleared public sources. No owner data. Pay per record.
+2026-10-16T06:28:23.349138Z,com.brandloupe/brandloupe,Brandloupe Index,1.0.0,,streamable-http,"Weekly data on 600k+ Shopify stores: launches, best sellers, prices, apps and similar stores."
+2026-10-16T06:29:49.74633Z,com.topclozer/linkedin,TopClozer LinkedIn MCP,2.0.0,,streamable-http,"LinkedIn for AI agents: search people, read profiles, posts and connections via a connected account"
+2026-10-16T06:35:10.153965Z,ai.thedrive/thedriveai,The Drive AI,2.0.0,,streamable-http,"Find, read and reorganize files across Google Drive, OneDrive, SharePoint and Dropbox, with undo."
+2026-10-16T06:35:55.529854Z,io.github.bruceonline2026/feedwatch,FeedWatch,0.1.0,https://github.com/bruceonline2026/FeedWatch,streamable-http,"Monitor RSS/Atom/JSON feeds; alerts on new items AND edits to existing ones, with field-level diffs."
+2026-10-16T06:39:28.574543Z,io.github.TheySaid-Platform/theysaid,TheySaid,1.0.0,,streamable-http,Customer research analysis and AI usability testing on any website or design.
+2026-10-16T06:40:45.34466Z,io.github.Servosity/auvik-mcp,Auvik MCP,0.2.5,https://github.com/servosity/msp-skills,,"Every Auvik endpoint as a command, plus the cross-client answers the Auvik UI and API cannot give"
+2026-10-16T06:55:01.685958Z,io.github.Servosity/cork-mcp,Cork MCP,0.1.5,https://github.com/servosity/msp-skills,,"Every Cork API operation, plus cross-client risk attribution and exploitability-first vuln triage."
+2026-10-16T06:56:41.575237Z,io.github.girapphe/memostem,MemoStem,0.6.3,https://github.com/girapphe/memostem-plugins,streamable-http,"Your reviewed knowledge, across AI conversations."
+2026-10-16T06:56:45.163015Z,io.github.SardorbekR/appstore-connect,,2.0.0,https://github.com/SardorbekR/appstore-connect-mcp,,"MCP server for Apple's App Store Connect API. Manage apps, TestFlight, and more."
+2026-10-16T06:59:37.081753Z,com.86hc/hongkong-company,Hong Kong Company,1.1.0,,streamable-http,Query 3.9M+ Hong Kong companies in batch & order official filings. Data: 86hc.com (HC Business).
+2026-10-16T07:01:00.687359Z,com.collatiomedia/prediction,Collatio Media Prediction,1.0.0,,streamable-http,Sports match probabilities and short explanations. Free API key required.
+2026-10-16T07:10:59.808366Z,io.github.Servosity/unifi-network-mcp,UniFi MCP,0.1.6,https://github.com/servosity/msp-skills,,"Every UniFi Network API operation, plus drift detection, topology, and rule prediction no other"
+2026-10-16T07:11:04.838558Z,io.github.nb8floral/nb8-floral,NB8 Floral,1.0.0,https://github.com/nb8floral/nb8-floral-mcp,streamable-http,"Wholesale silk flowers: find by flower & color, per-stem prices, 7-day US stock, photo ID, checkout."
+2026-10-16T07:13:49.014816Z,com.titratelab/evidence,,0.2.0,,streamable-http,Find lab-report identities and clinical research with dated sources and evidence limitations.
+2026-10-16T07:15:01.081041Z,cc.registrai/arc-data,Registrai Arc data,1.0.0,,streamable-http,"Read-only hourly data on stablecoin apps on Arc: payments, volume, indices, verified builders."
+2026-10-16T07:19:21.438166Z,io.github.s-stefanov/actual-mcp,Actual Budget MCP Server,1.15.0,https://github.com/s-stefanov/actual-mcp,,"MCP server exposing Actual Budget accounts, transactions, budgets and reporting to LLM assistants."
+2026-10-16T07:22:40.662262Z,xyz.hiveintelligence/mcp,Hive Intelligence MCP,1.10.0,https://github.com/hive-intel/hive-sdk,streamable-http,"Evidence-backed crypto due diligence with sources, freshness, and a runtime receipt on every call."

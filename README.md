@@ -9,32 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 06:20 UTC
+## Latest list — 2026-10-16 07:22 UTC
 
-New MCP servers published between 2026-10-16 05:22 UTC and 2026-10-16 06:20 UTC.
+New MCP servers published between 2026-10-16 06:20 UTC and 2026-10-16 07:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-16T06-20-46-671561Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-16T07-22-55-578257Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-16 05:31:27 | [io.github.CONN-SKILL/connskill-growth-mcp](https://github.com/CONN-SKILL/connskill-growth-mcp) |  | 0.3.1 | Local market checks, rankings and keyword research as JSON, paid per call via x… |
-| 2026-10-16 05:33:52 | [io.github.seigwen/dualtran-mcp](https://github.com/seigwen/dualtran-mcp) |  | 0.1.0 | Translate text with Google or your own AI model (BYOK, 20+ providers) from any… |
-| 2026-10-16 05:39:32 | cc.aiones/dev-toolbox |  | 1.0.0 | 开发者工具箱：时间/UUID/Base64/JSON 格式化等高频开发小工具（Cloudflare 边缘部署，免费） |
-| 2026-10-16 05:39:34 | cc.aiones/x-news-digest |  | 1.0.0 | X 资讯检索：零配置免 Key 的 X/Twitter 资讯检索，账号池扫描/关键词搜索/热度排序/智能去重，输出中文日报 |
-| 2026-10-16 05:39:37 | cc.aiones/x-news-monitor |  | 1.0.0 | X 资讯监控：盯账号自动巡检，新帖去重中文日报，每 30 分钟自动巡查，支持飞书/Slack/Discord 推送 |
-| 2026-10-16 05:44:03 | lu.flyscout/deals | FlyScout flight deals | 1.0.0 | Read-only cheap return flight deals from Luxembourg and 6 nearby airports, resc… |
-| 2026-10-16 05:44:17 | com.kurodalab/quote-proof-approval | Approval Link — Quotes and Proofs | 0.1.0 | Track client quote and proof revisions, approvals, and work status. |
-| 2026-10-16 05:47:05 | ai.annsa/annsa | Annsa | 1.0.3 | The source of direction for your agents: what to build next, its spec and the c… |
-| 2026-10-16 05:49:24 | [io.github.frank-bot07/usrcp](https://github.com/frank-bot07/usrcp) | USRCP — User Context Protocol | 0.2.8 | Encrypted local ledger of structured user state, shared across every MCP-aware… |
-| 2026-10-16 05:49:46 | com.recruitmcp/recruitmcp | RecruitMCP | 2.0.0 | Search people and companies, enrich profiles, and find email and phone over MCP. |
-| 2026-10-16 05:57:22 | [io.github.SimianX-AI/simianx](https://github.com/SimianX-AI/simianx-skills) | SimianX AI | 1.0.2 | Live multi-agent analysis and scored market news for US stocks and crypto, from… |
-| 2026-10-16 06:00:53 | [io.github.BlancasJ/zapsign-mcp](https://github.com/BlancasJ/zapsign-mcp) | ZapSign (unofficial) | 1.0.1 | ZapSign e-signature API: reads run freely, writes ask first, personal data filt… |
-| 2026-10-16 06:03:04 | com.sendsalvo/salvo | Salvo | 1.0.0 | Job applications done for you: check applications and interviews, get prep, app… |
-| 2026-10-16 06:10:55 | [io.github.Keith-CY/laplace-mini-world-mcp](https://github.com/Keith-CY/laplace-mini-world-mcp) | Laplace’s Mini World | 1.0.1 | Interactive 3D science models in Chinese and English, found and shown live in t… |
-| 2026-10-16 06:14:03 | [io.github.atlasprzetargow/mcp](https://github.com/atlasprzetargow/mcp-server) |  | 0.2.1 | Polish public tenders (BZP, TED): 1M+ notices, buyer and contractor profiles, C… |
-| 2026-10-16 06:16:44 | com.ingest0r.api/cook-county-property-data | Cook County / Chicago Property Data (fr… | 0.4.3 | Cook County / Chicago property by address or PIN: sales, permits, assessments,… |
-| 2026-10-16 06:16:54 | [com.faivelo/mail](https://github.com/ethannschwartz/faivelo-mcp) | Faivelo Email | 1.1.0 | Business email on your own domain: mailboxes, send and read mail, aliases, DNS… |
-| 2026-10-16 06:19:44 | [io.github.Alex-Dev-Web-C-DE/scopeguard](https://github.com/Alex-Dev-Web-C-DE/scopeguard-mcp) |  | 1.0.1 | Sanctions scope monitoring. Track entities for changes in OFAC/UK/EU/UN lists. |
+| 2026-10-16 06:22:36 | [ai.veida/veida-mcp](https://github.com/hanshs474/veida-mcp) |  | 0.1.0 | Generate AI images from a prompt with no API key, using Veida's anonymous free… |
+| 2026-10-16 06:23:05 | [com.microsoft/copilot-studio](https://github.com/microsoft/copilot-studio-mcp) | Copilot Studio | 1.0.0 | MCP bridge for Copilot Studio sign-in, environment selection, and Agentic Build… |
+| 2026-10-16 06:28:17 | net.parcelapi/parcelapi | parcelapi.net | 1.0.0 | US property parcels and building permits from cleared public sources. No owner… |
+| 2026-10-16 06:28:23 | com.brandloupe/brandloupe | Brandloupe Index | 1.0.0 | Weekly data on 600k+ Shopify stores: launches, best sellers, prices, apps and s… |
+| 2026-10-16 06:29:49 | com.topclozer/linkedin | TopClozer LinkedIn MCP | 2.0.0 | LinkedIn for AI agents: search people, read profiles, posts and connections via… |
+| 2026-10-16 06:35:10 | ai.thedrive/thedriveai | The Drive AI | 2.0.0 | Find, read and reorganize files across Google Drive, OneDrive, SharePoint and D… |
+| 2026-10-16 06:35:55 | [io.github.bruceonline2026/feedwatch](https://github.com/bruceonline2026/FeedWatch) | FeedWatch | 0.1.0 | Monitor RSS/Atom/JSON feeds; alerts on new items AND edits to existing ones, wi… |
+| 2026-10-16 06:39:28 | io.github.TheySaid-Platform/theysaid | TheySaid | 1.0.0 | Customer research analysis and AI usability testing on any website or design. |
+| 2026-10-16 06:40:45 | [io.github.Servosity/auvik-mcp](https://github.com/servosity/msp-skills) | Auvik MCP | 0.2.5 | Every Auvik endpoint as a command, plus the cross-client answers the Auvik UI a… |
+| 2026-10-16 06:55:01 | [io.github.Servosity/cork-mcp](https://github.com/servosity/msp-skills) | Cork MCP | 0.1.5 | Every Cork API operation, plus cross-client risk attribution and exploitability… |
+| 2026-10-16 06:56:41 | [io.github.girapphe/memostem](https://github.com/girapphe/memostem-plugins) | MemoStem | 0.6.3 | Your reviewed knowledge, across AI conversations. |
+| 2026-10-16 06:56:45 | [io.github.SardorbekR/appstore-connect](https://github.com/SardorbekR/appstore-connect-mcp) |  | 2.0.0 | MCP server for Apple's App Store Connect API. Manage apps, TestFlight, and more. |
+| 2026-10-16 06:59:37 | com.86hc/hongkong-company | Hong Kong Company | 1.1.0 | Query 3.9M+ Hong Kong companies in batch & order official filings. Data: 86hc.c… |
+| 2026-10-16 07:01:00 | com.collatiomedia/prediction | Collatio Media Prediction | 1.0.0 | Sports match probabilities and short explanations. Free API key required. |
+| 2026-10-16 07:10:59 | [io.github.Servosity/unifi-network-mcp](https://github.com/servosity/msp-skills) | UniFi MCP | 0.1.6 | Every UniFi Network API operation, plus drift detection, topology, and rule pre… |
+| 2026-10-16 07:11:04 | [io.github.nb8floral/nb8-floral](https://github.com/nb8floral/nb8-floral-mcp) | NB8 Floral | 1.0.0 | Wholesale silk flowers: find by flower & color, per-stem prices, 7-day US stock… |
+| 2026-10-16 07:13:49 | com.titratelab/evidence |  | 0.2.0 | Find lab-report identities and clinical research with dated sources and evidenc… |
+| 2026-10-16 07:15:01 | cc.registrai/arc-data | Registrai Arc data | 1.0.0 | Read-only hourly data on stablecoin apps on Arc: payments, volume, indices, ver… |
+| 2026-10-16 07:19:21 | [io.github.s-stefanov/actual-mcp](https://github.com/s-stefanov/actual-mcp) | Actual Budget MCP Server | 1.15.0 | MCP server exposing Actual Budget accounts, transactions, budgets and reporting… |
+| 2026-10-16 07:22:40 | [xyz.hiveintelligence/mcp](https://github.com/hive-intel/hive-sdk) | Hive Intelligence MCP | 1.10.0 | Evidence-backed crypto due diligence with sources, freshness, and a runtime rec… |
 
 ## Data source
 
