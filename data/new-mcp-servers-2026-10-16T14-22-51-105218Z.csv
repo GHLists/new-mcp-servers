@@ -1,0 +1,37 @@
+created_at,server,title,version,repository,transports,description
+2026-10-16T13:22:41.112872Z,io.github.MadeByFYI/madeby,,0.3.3,https://github.com/MadeByFYI/MadeBy,,Disclose AI authorship of code per the ACO standard — tools for AI coding agents.
+2026-10-16T13:26:34.720958Z,xyz.wheretolive/london-open-data,WhereToLive London open data,1.2.0,,streamable-http,"London postcodes and districts from official open data: prices, crime, schools, rents, commutes"
+2026-10-16T13:29:55.543582Z,io.github.prestymdq/remnalis,Remnalis,1.1.0,,streamable-http,"Shared persistent memory for AI agents to read, verify, continue, and connect knowledge."
+2026-10-16T13:31:10.11554Z,com.ayhire/ayhire,AyHire,1.0.0,,streamable-http,"Hire engineers by what they shipped: find, judge and shortlist developers from public GitHub work."
+2026-10-16T13:32:52.925606Z,ai.cybernative/image-upscaler-8mp,AI Image Upscaler: Upscale Images 4x to 8 MP in Bulk,0.1.13,,streamable-http,Upscale and enhance photos 4x to up to 8 megapixels for $0.01 per image.
+2026-10-16T13:34:25.380061Z,io.github.purahmanian/measure-mcp,measure-mcp,0.1.0,https://github.com/purahmanian/measure-mcp,,"AI tape measure: cookware capacity, recipe scaling, room fit, Amazon FBA size tiers, moving volume."
+2026-10-16T13:35:04.467268Z,ai.cybernative/ats-jobs-watch,Greenhouse & Ashby Jobs Watch: new jobs at companies you track,0.1.2,,streamable-http,"New jobs (facts and links) from public Greenhouse and Ashby job boards, with a newOnly mode."
+2026-10-16T13:37:37.402563Z,co.offcamera/offcamera,Off Camera,1.0.0,,streamable-http,"Turn your website into TikTok, Reels and Shorts posts, and plan them on your accounts."
+2026-10-16T13:38:02.085927Z,io.github.Vitalini/ebb-ai,ebb-ai,0.17.0,https://github.com/Vitalini/ebb-ai,,"Runs non-urgent LLM tasks at the cleanest grid hour before a deadline, via Batch APIs when allowed."
+2026-10-16T13:38:13.63366Z,io.tubetranscript/transcripts,TubeTranscript,1.0.0,,streamable-http,"YouTube transcripts for AI agents, including videos without captions (Pro API key)."
+2026-10-16T13:38:16.988549Z,io.tubetranscript/ai-tools,TubeTranscript AI tools,1.0.0,,streamable-http,"Chapters, hooks, mindmaps, subtitles and blog drafts from a TubeTranscript job (Pro API key)."
+2026-10-16T13:39:52.924283Z,ai.amdahl/amdahl,Amdahl,1.0.0,,streamable-http,"Sales drafts in the sender's voice, and answers from your own customer calls, notes and CRM deals."
+2026-10-16T13:40:28.085156Z,dev.workers.erikssonanton2001.swekit-api/swekit,SweKit - Swedish validators,0.1.0,,streamable-http,"Swedish personnummer/orgnr/bankgiro/OCR validation, kontonummer to IBAN, bankdagar."
+2026-10-16T13:41:41.548195Z,md.keep/keep,Keep,1.0.0,,streamable-http,"Read-it-later for AI agents. Save links, bookmarks, notes, and videos as Markdown and search them."
+2026-10-16T13:41:44.910157Z,com.divicake/mcp-for-divi,MCP for Divi 5,1.0.5,,streamable-http,Build and edit native Divi 5 pages on your WordPress site from your AI assistant.
+2026-10-16T13:47:17.568916Z,co.lumman/calendar,Multi Calendar,1.0.0,,streamable-http,"Outlook.com, Microsoft 365 and Google calendars - several accounts at once, free time across all."
+2026-10-16T13:48:40.588151Z,ai.furva/furva,Furva Pet Lab Interpretation,1.0.0,,streamable-http,Interpret dog and cat lab reports with easy to understand explanations and vet questions.
+2026-10-16T13:55:47.351673Z,xyz.t0ll/toll,"Toll — coin checks on Robinhood Chain, Arc, BSC and Solana",1.0.0,https://github.com/SolimanFG/toll-mcp,streamable-http,"Coin checks on Robinhood Chain, Arc, BSC and Solana: snipers, bundles, dev records, new launches."
+2026-10-16T13:56:44.961132Z,be.co-legal/legal-lookup,,1.32.2,,streamable-http,"Belgian and Dutch legal & fiscal lookups (KBO, VIES, ECLI, Justel, EUR-Lex) plus scans. 14 tools."
+2026-10-16T13:58:03.217528Z,io.github.mifori/certagent,Mifori CertAgent Trust Oracle,1.0.0,,streamable-http,"Live AI agent trust oracle: audit synthetic IQ, latency & JSON compliance via x402 or free tokens."
+2026-10-16T13:59:33.896789Z,io.github.HsuanC0921/tw-jobs-mcp,Taiwan Jobs 台灣求職,1.1.2,https://github.com/HsuanC0921/tw-jobs-mcp,,"Read-only Taiwan job search: 104, Yourator, and Greenhouse, Lever and Workday career sites."
+2026-10-16T14:01:59.245059Z,dev.workers.dougalpaw.pawpulse/pawpulse,Paw Pulse,0.2.0,https://github.com/dougal-paw/pawpulse,streamable-http,"Heartbeat and tokens/sec monitoring for self-hosted LLM servers (Ollama etc.), with down alerts."
+2026-10-16T14:02:58.300737Z,com.niftypm/mcp-server,,0.9.0,https://github.com/Nifty-Technologies-Inc/nifty-mcp,streamable-http,"Nifty's MCP server — exposes tasks, projects, messages, and files as tools for AI agents."
+2026-10-16T14:05:23.361485Z,io.dnsspy/dnsspy,DNS Spy,1.0.0,,streamable-http,"DNS monitoring and domain security: live DNS, propagation, WHOIS/RDAP, SSL and look-alike domains."
+2026-10-16T14:06:07.93536Z,com.causabi/geo-optimizer-mcp,Causabi GEO Optimizer,0.5.0,https://github.com/SHADRINMMM/geo-optimizer-mcp,,"Audit a site for AI readiness (llms.txt, schema, AI-crawler access) and generate the fixes."
+2026-10-16T14:06:17.815052Z,ai.aunoo/agentic,Aunoo Agentic,0.1.0,,streamable-http,"Cited news coverage, source trust signals, consensus and foresight for AI agents, over MCP."
+2026-10-16T14:08:05.239799Z,io.github.aytzey/showagent,showagent,0.14.0,https://github.com/aytzey/showagent,,"Search, resume and hand off coding-agent sessions: Claude Code, Codex, Gemini, Antigravity and more."
+2026-10-16T14:08:12.987834Z,to.trustmebro/trust-me-bro,Trust Me Bro,1.30.0,,streamable-http,"Fact-check receipts: search published claim verdicts with cited evidence, or verify a new claim."
+2026-10-16T14:08:22.810989Z,io.github.spacepacket1/e3d-pilot,,0.1.0,https://github.com/spacepacket1/e3d-pilot,,"Multi-model debate with named dissent, plus decision provenance queries for AI coding work."
+2026-10-16T14:08:55.15005Z,io.github.intentions-me/intentions-mcp,Intentions MCP Server,0.1.1,https://github.com/intentions-me/intentions-mcp,streamable-http,Personalized timing intelligence for AI agents — ask 'should I do X on this date?'
+2026-10-16T14:11:11.884033Z,io.github.appierun/appie,Appie.run,1.0.0,https://github.com/appierun/appie-mcp,streamable-http,"Write on-brand articles, train and query website chatbots, and create trackable short links."
+2026-10-16T14:11:14.700968Z,com.intoperson.tools/lottery-numbers,Lottery Numbers,1.0.0,,streamable-http,"Lottery picks in any format (Lotto 6/45, Powerball, Mega Millions...), past draws, ticket check."
+2026-10-16T14:11:16.417398Z,com.intoperson.tools/fair-random,Fair Random,1.0.0,,streamable-http,"Fair, reproducible randomness for agents: dice, coins, integers, list picks, shuffles, with seeds."
+2026-10-16T14:19:13.62201Z,com.veritula/veritula,Veritula,1.0.0,,streamable-http,Search ideas on Veritula and read their criticisms and whether they’re rationally adoptable.
+2026-10-16T14:22:07.259433Z,com.desarrollomcp/desarrollomcp,DesarrolloMCP,1.0.0,,streamable-http,"Curso de MCP en español: busca lecciones y artículos; con tu cuenta, tu progreso y tus lecciones."
+2026-10-16T14:22:17.154048Z,com.egleze/mcp,Egleze,1.1.0,,streamable-http,Search verified podcast moments and episode summaries with canonical Egleze links.
