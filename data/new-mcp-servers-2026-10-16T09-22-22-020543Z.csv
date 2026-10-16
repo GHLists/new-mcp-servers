@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-10-16T08:23:45.899156Z,io.github.andylang598/tephra,Tephra,1.0.0,https://github.com/andylang598/tephra-mcp,streamable-http,"Memory for every AI you connect, tied to your account: recall, search, remember. OAuth sign-in."
+2026-10-16T08:25:52.399524Z,io.github.openapi/gknowledge,gknowledge,0.2.2,https://github.com/openapi/gknowledge,,"Search, read and grow a Karpathy-style LLM wiki of linked Markdown pages, with cited answers."
+2026-10-16T08:26:21.046531Z,io.github.XAGI-Lab/melra,MELRA,0.3.0-alpha.14,https://github.com/XAGI-Lab/melra,,"Local MCP runtime for policy-governed, verified agent actions with durable receipts."
+2026-10-16T08:26:31.234424Z,io.github.Super-Eric/falsepass,falsepass,0.4.1,https://github.com/Super-Eric/falsepass,,"Find RL environment graders that pay wrong answers: probes reward code, returns reproducible leads"
+2026-10-16T08:33:05.95386Z,dev.seoskill/seo,SEO Skill,0.4.2,https://github.com/iannuttall/seo,streamable-http,"Free Google Search Console MCP: your real GSC, Google Analytics and keyword data for AI agents."
+2026-10-16T08:33:30.77355Z,ai.toolnav/directory,ToolNav AI,1.0.0,,streamable-http,"Search AI tools, browse categories and read tool details with source links. Free, read-only access."
+2026-10-16T08:33:44.964101Z,io.github.Servosity/sonicwall-mcp,SonicWall MCP,0.1.0,https://github.com/servosity/msp-skills,,"Cyber-insurance posture for a whole SonicWall fleet: firmware, advisories, MFA, SSL-VPN exposure"
+2026-10-16T08:35:13.74931Z,io.github.theluckystrike/duplicate-invoice-check,,0.22.7,https://github.com/theluckystrike/mcp-servers,,Review grouped duplicate invoice candidates from supplied records locally; no payment approval.
+2026-10-16T08:35:16.319986Z,io.github.theluckystrike/supplier-invoice-duplicates,,0.22.7,https://github.com/theluckystrike/mcp-servers,,Review duplicate supplier invoice candidates with grouped local evidence; no payment approval.
+2026-10-16T08:37:37.713575Z,io.github.pglejzer/timepicker-ui-mcp,,1.0.2,https://github.com/pglejzer/timepicker-ui,,"MCP server for timepicker-ui: options, events, themes, public API, snippets and time validation."
+2026-10-16T08:38:38.933647Z,io.github.OlsOls4/vatkit,VATKit,1.1.0,https://github.com/OlsOls4/webkit-api,streamable-http,"Live EU VAT number checks via VIES with company name/address, VAT formats and EU VAT rates"
+2026-10-16T08:42:15.170517Z,io.github.openapi/mcp-server,Openapi®,0.3.1,https://github.com/openapi/mcp-server,streamable-http,"Official Openapi® MCP server: Italian company data, PEC, SMS, vehicles, geocoding and more APIs."
+2026-10-16T08:42:22.670391Z,ai.mappu/public-travel,Mappu,1.2.0,,streamable-http,"Save trip plans made with your assistant to Mappu, and find Mappu walks and audio guides."
+2026-10-16T08:50:25.258496Z,io.github.abasmartinc/apiempresas,,1.1.0,https://github.com/abasmartinc/apiempresas-mcp,,"Spanish company data: CIF lookup, BORME filings, directors, KYB checks and risk profile."
+2026-10-16T08:50:41.096103Z,io.baserow/baserow,Baserow,0.1.1,https://github.com/baserow/baserow-mcp,streamable-http; streamable-http,Read and change Baserow tables.
+2026-10-16T08:53:39.239129Z,io.github.7l7/dearovo-mcp,Dearovo MCP,1.0.0,,streamable-http,Relationship-aware writing guidance and links to sendable-message experiences.
+2026-10-16T08:53:50.150531Z,io.github.7l7/reactionmetric-mcp,ReactionMetric MCP,1.0.0,,streamable-http,Five-trial reaction-time summary and links to browser-based reaction tests.
+2026-10-16T08:58:54.498822Z,com.pnltoolkit/calculators,PNL Toolkit,1.1.0,,streamable-http,Eight free investment and trading calculators with PNG charts and editable result links.
+2026-10-16T09:01:42.05285Z,com.mrsuppy/agent,Mr Suppy,1.0.0,,streamable-http,"Supplement prices and price history (UK/EU), SupplementScore ratings, verified discount codes, UCP"
+2026-10-16T09:06:51.589772Z,io.github.avhn/trello-mcp,trello-mcp,1.0.0,https://github.com/avhn/trello-mcp,,"Local Trello MCP with compact responses, workspace allowlists and read-only opt-in."
+2026-10-16T09:07:53.902759Z,com.prolevelmax/prolevelmax,ProLevelMax,1.4.0,,streamable-http,"Real-time public data from 73 platforms for AI: TikTok, Reddit, Instagram, Xiaohongshu and more"
+2026-10-16T09:08:38.188879Z,ai.summarizevideo/summarizevideo,SummarizeVideo.ai,1.0.0,,streamable-http,Summarize public video URLs into Markdown notes and read their transcripts.
+2026-10-16T09:09:01.133496Z,com.agentdrives/directory,AgentDrives,1.4.0,,streamable-http; streamable-http,"Can an AI agent use this software? Levels from real agent test drives: sign-up, keys, use, pay."
+2026-10-16T09:10:25.30584Z,io.github.andresolbach/nodriver-mcp-server,nodriver — Chrome browser automation,2.6.0,https://github.com/andresolbach/nodriver-mcp-server,,"Chrome automation via nodriver: 70 tools, isolated browsers, profiles and configurable startup."
+2026-10-16T09:11:41.819957Z,io.github.simplifier-ag/simplifier-mcp,,0.11.3,https://github.com/simplifier-ag/simplifier-mcp,,"MCP Server for Simplifier - manage Connectors, BusinessObjects, Datatypes and logins"
+2026-10-16T09:20:23.885094Z,io.github.makar52nn2016-jpg/money-reactor,Money Reactor,1.0.0,https://github.com/makar52nn2016-jpg/money-reactor,,Paid x402 APIs for AI agents on Base USDC: crypto bounty radar + repo honeypot/trust scoring.
+2026-10-16T09:21:01.353477Z,com.websterberrymarketing.synaptic/data-agents,WebsterBerry Synaptic,1.0.0,,streamable-http,"Pay-per-call US public data for agents: OFAC, SEC, FMCSA, NPI, VIN recalls, SAM.gov. x402 USDC."
+2026-10-16T09:21:27.475916Z,io.github.ndyakov/lastfm-mcp,Last.fm,0.2.0,https://github.com/ndyakov/lastfm-mcp,,"Last.fm MCP server: scrobbles, charts, artist/album/track info and more"
