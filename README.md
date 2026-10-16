@@ -9,43 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 20:19 UTC
+## Latest list — 2026-10-16 21:20 UTC
 
-New MCP servers published between 2026-10-16 19:19 UTC and 2026-10-16 20:19 UTC.
+New MCP servers published between 2026-10-16 20:19 UTC and 2026-10-16 21:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-16T20-19-28-07828Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-16T21-20-15-879463Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-16 19:20:54 | [io.github.streamvessel/streamvessel](https://github.com/streamvessel/ai-integrations) | Stream Vessel | 1.0.0 | Browse, upload, download, copy, move and share files in your own S3-compatible… |
-| 2026-10-16 19:21:22 | org.wikibrand/wikibrand | WikiBrand | 1.0.0 | Logo, colors, typefaces, tone of voice and CSS theme of any brand, read from it… |
-| 2026-10-16 19:23:11 | [io.honeybadger/mcp](https://github.com/honeybadger-io/honeybadger-mcp-server) | Honeybadger | 1.5.1 | Debug errors, query logs, create alarms, and monitor cron jobs from your agent |
-| 2026-10-16 19:23:27 | [io.github.costkits/costkits-mcp](https://github.com/costkits/costkits-mcp) |  | 2.0.0 | Free hosted MCP server: US healthcare procedure cost estimates and provider pri… |
-| 2026-10-16 19:24:39 | [io.github.shin2344234/godot-mcp](https://github.com/shin2344234/godot-mcp) | Godot MCP | 0.1.0 | Edit Godot 4 scenes, nodes and scripts; run, test and debug games live in the e… |
-| 2026-10-16 19:24:57 | [com.lightningeo/ai-visibility-data](https://github.com/Lightning-AI-Visibility/ai-visibility-data) | Lightning · AI Visibility Data | 1.0.0 | AI-visibility studies for agents: how ChatGPT, Gemini and Claude answer, any re… |
-| 2026-10-16 19:28:12 | com.cambouch/studiomotion | StudioMotion | 0.4.0 | Agency-grade website sections, design tokens and Framer Motion animations for L… |
-| 2026-10-16 19:28:47 | [store.scvd/tab](https://github.com/seancrecord/scvd-general-store-repo) | The Tab (scvd-tab) | 0.11.4 | Every tool a builder signs up for, on one tab: trials, burn, price drift. Local… |
-| 2026-10-16 19:29:05 | com.vanitynumbers/vanitynumbers | VanityNumbers.com | 1.0.0 | Find phone numbers that spell a word, toll free or local, with status, price an… |
-| 2026-10-16 19:31:12 | [io.github.Mdx2025/horizonx](https://github.com/Mdx2025/horizonx-agent-plugin) | HorizonX | 0.1.0 | Animated UI components, shaders, templates and UI kits from HorizonX, exported… |
-| 2026-10-16 19:33:45 | [io.github.NJ-Burrito/profile-wrap-mcp](https://github.com/NJ-Burrito/profile-wrap) | Profile-Wrap | 0.2.1 | Draft, gate and review LinkedIn posts in a Profile-Wrap workspace; posts only b… |
-| 2026-10-16 19:42:44 | [com.deyaho/phone-calls](https://github.com/Deyaho/deyaho-phone-calls-mcp) | Deyaho Phone Calls | 0.1.0 | AI places real phone calls (Spain, Mexico) with a voice agent and returns summa… |
-| 2026-10-16 19:42:51 | com.crawlwisedata/crawlwise-mcp | Crawlwise Data MCP | 0.1.2 | Per-URL tech-stack, feed and sitemap change events for AI agents, delivered as… |
-| 2026-10-16 19:48:58 | [io.github.yeick010/italycheck](https://github.com/yeick010/italycheck) | ItalyCheck | 0.2.0 | Italian public bodies by codice fiscale (IndicePA): name, PEC, address. Paid pe… |
-| 2026-10-16 19:49:25 | org.namandu/evidencias | Namandu Evidências | 1.0.0 | Psicoeducação em saúde mental, em português, com a fonte e a licença de cada tr… |
-| 2026-10-16 19:51:44 | [io.github.mazeasdamien/rising-shores-singapore](https://github.com/mazeasdamien/rising-shores-sg) | Rising Shores Singapore | 1.0.0 | Sea-level rise in Singapore: when a place or address floods, areas and people a… |
-| 2026-10-16 19:58:31 | [dev.statedock/statedock](https://github.com/statedock/statedock) | StateDock | 0.1.0 | Shared task layer for AI agents: tasks, handoffs and decisions that persist acr… |
-| 2026-10-16 20:01:30 | [io.github.BukeLy/hsbc-tradetrack-mcp](https://github.com/BukeLy/hsbc-tradetrack-mcp) | HSBC TradeTrack | 0.1.0 | HSBC TradeTrack trending stocks and top-5% traders' buy/sell/hold lists (US & H… |
-| 2026-10-16 20:02:36 | io.weatherai/weatherai | weatherAI.io | 1.0.0 | Weather decisions for 21 activities: should you run, paint, sail or pour concre… |
-| 2026-10-16 20:03:30 | io.github.AndreyGromov1999/volgatrip | VolgaTrip | 0.1.0 | Публичные лодки VolgaTrip, проверка доступности и стоимости прогулки. Только чт… |
-| 2026-10-16 20:07:15 | [io.github.giuvincenzi/puppymacro](https://github.com/giuvincenzi/puppymacro) | PuppyMacro | 1.23.0 | Macros, auto clicker and key remapper for Windows. Needs the PuppyMacro app ins… |
-| 2026-10-16 20:09:36 | io.peptaralabs/reconstitution-calculator | Reconstitution Calculator | 1.0.0 | Lab math: reconstitution, unit conversion, C1V1, molarity, percent w/v, serial… |
-| 2026-10-16 20:15:42 | space.partyfun/partyfun | PartyFun | 1.0.0 | A live board you share with Claude, ChatGPT and Cursor: notes, frames, arrows a… |
-| 2026-10-16 20:15:57 | io.github.johngee518/agenttoolbox | Agent Toolbox | 1.0.0 | Free, no-key MCP server: token estimates, JSON Schema conversion, MCP configs,… |
-| 2026-10-16 20:16:18 | [io.github.sem-sea/abonnement24](https://github.com/sem-sea/Abonnement24) | Abonnement24 deals | 1.0.0 | Actuele Nederlandse deals voor sim only, telefoon met abonnement en internet, o… |
-| 2026-10-16 20:16:31 | com.battery-snap/batterysnap | BatterySnap | 1.0.0 | Real-world Android battery stats from BatterySnap users: device, model and flee… |
-| 2026-10-16 20:17:10 | [com.workforcedentalstaffing/workforce](https://github.com/WORKFORCEdentalstaffing/workforce-dental-staffing-plugin) | WORKFORCE Dental Staffing | 1.0.0 | WORKFORCE: dental candidates broadcast availability and commute distance; offic… |
-| 2026-10-16 20:18:31 | [io.github.corainc/plugmyai](https://github.com/corainc/plugmyai) | PlugMyAI | 1.0.0 | Which apps connect to ChatGPT, Claude, Gemini and Grok, with steps and official… |
-| 2026-10-16 20:19:11 | se.borsdatabasen/mcp | Börsdatabasen | 1.0.0 | Nordic listed companies: financial statements and NACE sectors, each value trac… |
+| 2026-10-16 20:20:16 | eu.krakenshield/krakenshield | KrakenShield | 1.0.0 | Quick HTTPS/SSL check of any website, cybersecurity glossary and KrakenShield p… |
+| 2026-10-16 20:25:49 | study.linko/linko | Linko | 1.0.0 | Read, search and add to your Linko notes and resources from your AI chats. |
+| 2026-10-16 20:28:08 | com.groundedkit/marketing-stats | GroundedKit Marketing Stats Checker | 1.0.0 | Check marketing and influencer stats against primary sources: verdict, source,… |
+| 2026-10-16 20:28:36 | com.whatstask.agent/whatstask | WhatsTask | 0.1.0 | Work as an agent on a WhatsTask team: take assigned tasks, submit work, ask peo… |
+| 2026-10-16 20:28:46 | [com.kaicalls/kaicalls](https://github.com/KaiCalls/kaicalls-mcp) | KaiCalls | 1.0.2 | Your business phone secretary: calls, transcripts, voicemail, texts and leads.… |
+| 2026-10-16 20:31:06 | dev.mymemory/memory | MyMemory | 0.2.1 | Long-term memory for AI assistants: search, read and save your notes, links and… |
+| 2026-10-16 20:43:57 | nl.nltaxcalculator/dutch-tax | NL Tax Calculator | 1.0.0 | Dutch tax calculators: net salary, 30% ruling, Box 3, visa salary norms, job lo… |
+| 2026-10-16 20:44:22 | [io.github.theharrisontruong-web/storefront-grader](https://github.com/theharrisontruong-web/agent-apis) | AI Storefront Readiness Grader | 1.0.0 | Grades any storefront URL A-F on 20 weighted conversion checks. $1.00/call via… |
+| 2026-10-16 20:48:30 | [io.github.theharrisontruong-web/geo-audit](https://github.com/theharrisontruong-web/agent-apis) | GEO Audit (AI Search Visibility) | 1.0.0 | Scores any URL's AI-search visibility with concrete fixes. $1.50/call via x402. |
+| 2026-10-16 20:51:21 | com.dapperglobal/dapper | Dapper | 1.0.0 | Latin American regulatory intelligence: bills, regulations, votes and political… |
+| 2026-10-16 20:54:41 | com.stacklessdata/stackless | Stackless | 1.0.0 | Explore your trusted data and build pipelines, metrics and dashboards in Stackl… |
+| 2026-10-16 20:55:02 | [io.github.sepehr071/divar-mcp](https://github.com/sepehr071/divar-mcp) | Divar | 0.1.0 | Unofficial read-only Divar: search Iran's classified ads, cheapest and best-val… |
+| 2026-10-16 20:55:24 | me.whenmeet/scheduler | WhenMeet.me — group scheduling | 1.1.0 | Group meeting scheduler — rank times everyone's free across Google & Outlook, b… |
+| 2026-10-16 20:57:00 | ai.typenode/mcp | Typenode | 1.0.0 | Build, manage, and run AI workflow automations with Typenode. |
+| 2026-10-16 20:58:35 | io.github.nichovski/swarmtix | SwarmTix | 1.0.0 | Event ticketing: create and publish events, read orders, attendees and sales an… |
+| 2026-10-16 20:58:36 | io.github.nichovski/pageduel | PageDuel | 1.0.0 | Web analytics, A/B test results and revenue attribution for your sites. |
+| 2026-10-16 20:58:37 | io.github.nichovski/terlido | Terlido | 1.0.0 | Cold email: campaigns, leads, mailboxes, warmup and inbox replies. |
+| 2026-10-16 21:00:05 | net.useapi/flowmusic | Flow Music MCP Server by useapi.net (th… | 1.0.0 | Google Flow Music (Lyria): songs, lyrics, extend, cover, remix, effects, stems |
+| 2026-10-16 21:05:05 | [nl.getapi/mcp](https://github.com/GetApiNL/mcp-server) |  | 1.0.0 | Nederlandse overheids- en registerdata via MCP: KVK, BAG, energielabel, kenteke… |
+| 2026-10-16 21:06:27 | [io.github.UseJunior/email-agent-mcp](https://github.com/UseJunior/email-agent-mcp) | Agent Email | 0.3.4 | Local email connectivity for AI agents — read, draft, send, and organize Outloo… |
+| 2026-10-16 21:09:45 | io.github.constantinginga/words-into-music | Words into Music | 0.1.0 | Create songs from prompts or lyrics, check credits, and access your private lib… |
+| 2026-10-16 21:12:16 | [io.github.govcontractscout/govcontractscout-mcp](https://github.com/govcontractscout/govcontractscout-mcp) |  | 1.0.2 | MCP server for the GovContractScout US government contracts API: search, NAICS,… |
+| 2026-10-16 21:12:59 | io.github.ovanova-solar/itc-pwa-guide | ITC Prevailing Wage & Apprenticeship Gu… | 1.0.0 | IRS prevailing wage & apprenticeship (PWA) rules for the clean-energy ITC: chec… |
+| 2026-10-16 21:15:25 | [com.linkonda/mcp](https://github.com/Verano-DE/linkonda-mcp) | Linkonda | 0.1.4 | Create and manage Linkonda short links from an AI assistant, with no per-visito… |
+| 2026-10-16 21:19:07 | house.cityoftrees/city-of-trees-house | City of Trees House | 1.0.0 | Read-only tools for City of Trees House, West Sacramento: facts, dates, live qu… |
+| 2026-10-16 21:19:25 | sh.rocketship/agentic-sinkhole-research | agentic sinkhole research | 0.1.0 | research honeypot / measurement mcp surface: zero-auth deterministic inbox + ot… |
+| 2026-10-16 21:19:27 | [br.com.buscazap/busca-produtos](https://github.com/brunodanielmaia/buscazap) |  | 1.0.0 | Find real products across 180+ Brazilian stores from chat context, with a ready… |
 
 ## Data source
 
