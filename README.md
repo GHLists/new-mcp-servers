@@ -9,37 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 01:19 UTC
+## Latest list — 2026-10-16 02:20 UTC
 
-New MCP servers published between 2026-10-16 00:21 UTC and 2026-10-16 01:19 UTC.
+New MCP servers published between 2026-10-16 01:19 UTC and 2026-10-16 02:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-16T01-19-27-884284Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-16T02-20-38-722145Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-16 00:25:08 | uz.faroz/faroz | Faroz | 1.0.0 | Faroz kids' learning platform: browse, create and edit courses, lessons, exerci… |
-| 2026-10-16 00:27:30 | org.ezannuity/ezannuity | EZ Annuity | 1.0.0 | Price settlement or annuity payments, judge a buyout offer, look up any US stat… |
-| 2026-10-16 00:30:12 | [io.github.AxelVerneBooks/research-scope-mcp](https://github.com/AxelVerneBooks/research-scope-mcp) | Research Scope | 0.1.0 | Plan research, score sources for freshness/COI, and enforce claim-level citatio… |
-| 2026-10-16 00:37:52 | io.github.aibakery/houston | Houston | 0.1.0 | Read, write, and combine connected apps and databases with shared code and per-… |
-| 2026-10-16 00:39:15 | com.riverwaterwatch/river-water-watch | River Water Watch | 1.0.0 | Score a river cruise date against daily water levels on the Rhine, Danube, Elbe… |
-| 2026-10-16 00:46:53 | [io.github.nkiyohara/corresync](https://github.com/nkiyohara/corresync) | Corresync | 0.8.7 | Local-first mail, calendar, and task MCP with isolated accounts and guarded wri… |
-| 2026-10-16 00:52:32 | live.drypowder.www/seed-vc-funds | DryPowder: seed VCs deploying now | 1.0.0 | Seed and pre-seed VC funds actively deploying now, from SEC Form D filings and… |
-| 2026-10-16 00:53:16 | [com.360tft/coaching-brain](https://github.com/360tft/coaching-brain-mcp) | Kevin's Coaching Brain | 1.0.0 | Coaching answers from Kevin Middleton's own writing, with the source link for e… |
-| 2026-10-16 00:54:15 | us.mehyar/mayor | The Mayor | 1.0.0 | The Mayor — AI front desk for local businesses: bookings, missed calls, and cus… |
-| 2026-10-16 00:54:55 | us.mehyar/clipnote | Clipnote | 1.0.0 | Clipnote — turn SaaS release notes into a 60-second narrated launch video. |
-| 2026-10-16 00:54:55 | [io.github.yassinemohamedali/paperloo](https://github.com/yassinemohamedali/paperloo) | Paperloo Compliance | 1.0.0 | Automated website compliance infrastructure and GDPR/CCPA auditing. |
-| 2026-10-16 00:56:57 | io.github.Kiragu-Maina/shellwire | ShellWire | 1.0.0 | Discover and compare software, read chatbot news, and submit applications for p… |
-| 2026-10-16 00:57:40 | app.aimech/aimech | AI Mechanic | 1.0.0 | AI Mechanic — understand car symptoms and OBD-II codes, check recalls, get repa… |
-| 2026-10-16 00:59:32 | media.involve/involve-media | Involve Media | 1.0.0 | Free local business checkup (Google, reviews, AI answers), plus web, SEO and au… |
-| 2026-10-16 01:04:12 | [io.github.atushi1841/japan-stock-mcp](https://github.com/atushi1841/japan-stock-mcp) | Japan Stock Market Data MCP (TSE Screen… | 0.1.0 | Japan TSE stock screener, quotes, valuation, financials via J-Quants API. Free,… |
-| 2026-10-16 01:05:08 | [io.github.mithgalalfayez/nullclear](https://github.com/Nullclear-Protocol/nullclear) | NullClear Arbiter | 1.1.1 | Autonomous x402 payment schema-escrow arbiter, spend firewall, failover & ERC-8… |
-| 2026-10-16 01:06:25 | [com.mock-server/mockserver](https://github.com/mock-server/mockserver-monorepo) |  | 9.0.0 | Mock, record/replay, verify and chaos-test any HTTP, REST, gRPC or LLM dependen… |
-| 2026-10-16 01:08:22 | [io.github.CharitonMedia/tremelay](https://github.com/CharitonMedia/Tremelay) | Tremelay | 1.0.2 | Local MCP broker: agents call credentials through a daemon without seeing secre… |
-| 2026-10-16 01:09:32 | app.rizza/rizza | RIZZA | 1.0.0 | RIZZA — your AI dating wingman: conversation-aware replies, openers, and profil… |
-| 2026-10-16 01:09:33 | [cloud.local/localcloud](https://github.com/LocalGCloud/localcloud-cli) | LocalCloud MCP | 0.1.12 | A free local cloud environment for AI agents to build, test, and debug Google C… |
-| 2026-10-16 01:10:35 | [ai.heycactus/cactus](https://github.com/hey-cactus/cactus-mcp) | Cactus | 1.0.0 | Search and ask your product's help pages, product map and support conversations… |
-| 2026-10-16 01:16:14 | [io.github.theluckystrike/three-way-match](https://github.com/theluckystrike/mcp-servers) |  | 0.22.6 | Match supplier invoice lines against purchase orders and accepted receipts by S… |
-| 2026-10-16 01:16:31 | [io.github.theluckystrike/supplier-invoice-matching](https://github.com/theluckystrike/mcp-servers) |  | 0.22.6 | Match supplier invoice lines against purchase orders and accepted receipts by S… |
+| 2026-10-16 01:19:40 | io.github.sorindecu/vibeshipped | Vibe Shipped | 1.0.0 | Search a sourced directory of real apps built with AI tools like Cursor, Claude… |
+| 2026-10-16 01:19:49 | ai.filedone/filedone | filedone | 1.0.0 | Merge, split, compress, OCR and translate PDFs, pull tables into Excel, and edi… |
+| 2026-10-16 01:21:59 | [io.github.jadenpxrk/mcp-piazza](https://github.com/jadenpxrk/mcp-piazza) |  | 0.1.0 | Read-only Piazza access: activity, search, unread posts, full threads, and cour… |
+| 2026-10-16 01:30:15 | si.openpod/openpod | OpenPod | 0.3.0 | Shared rooms where people and their AI agents exchange messages and context. |
+| 2026-10-16 01:32:29 | [io.github.CloudCorpRecords/greenlight](https://github.com/CloudCorpRecords/greenlight) |  | 0.3.2 | Pre-flight checks for open-source contributions: is this GitHub issue actually… |
+| 2026-10-16 01:34:26 | [io.github.CloudCorpRecords/prwatch](https://github.com/CloudCorpRecords/prwatch) |  | 0.1.1 | Attention report for your open GitHub PRs: what needs you right now. |
+| 2026-10-16 01:35:07 | [io.github.wnsod/oneqaz-trading-mcp](https://github.com/oneqaz-trading/oneqaz-trading-mcp) | OneQAZ Trading Intelligence | 1.2.0 | Verifiable crypto/KR/US market intelligence for AI agents: signals, hash-chaine… |
+| 2026-10-16 01:35:54 | [io.github.CloudCorpRecords/claimcheck](https://github.com/CloudCorpRecords/claimcheck) |  | 0.1.1 | Track stale claims and parked fixes so open-source work does not silently die. |
+| 2026-10-16 01:37:17 | [io.github.CloudCorpRecords/gatefile](https://github.com/CloudCorpRecords/gatefile) |  | 0.1.1 | Extract a repo's contribution gates into machine-readable contribution-gates.js… |
+| 2026-10-16 01:37:30 | [com.aibenchmarkindex/directory](https://github.com/pooriaarab/benchmark-core) | AI Benchmark Index | 1.0.0 | Search 264 AI benchmarks by category, with data sources and licences for each. |
+| 2026-10-16 01:37:45 | com.answercheckup/answer-checkup | Answer Checkup | 0.1.0 | Free AI readiness scan for any website. Paid reports for agents are coming soon. |
+| 2026-10-16 01:42:36 | co.cafedev/cafedev | CafeDev | 1.0.0 | Search free LATAM tech jobs and companies on CafeDev (no auth). |
+| 2026-10-16 01:44:55 | [io.github.johnsmalls22-rgb/backlinkmcp-server](https://github.com/johnsmalls22-rgb/backlinkmcp-server) |  | 1.6.0 | Backlink & domain authority MCP for AI agents: referring domains, link gap, tox… |
+| 2026-10-16 01:45:19 | com.trimcarbon/flight-emissions | TrimCarbon | 1.2.0 | CO₂ estimates for general-aviation flying: by aircraft and hours, by fleet, or… |
+| 2026-10-16 01:49:30 | [io.github.xiaoxihexiaoyu/everyinfra](https://github.com/everyinfra/everyinfra-agent-plugins) | EveryInfra | 1.1.0 | Structured data from 90 platforms (RedNote, Douyin, TikTok, Amazon), web search… |
+| 2026-10-16 01:51:53 | [io.github.GriffMurder/straws-site](https://github.com/GriffMurder/straws-website) | Straws Soda | 1.0.0 | Public read-only MCP for strawssoda.com: menu, hours, and order or contact link… |
+| 2026-10-16 01:52:14 | [io.github.GriffMurder/orca-site](https://github.com/GriffMurder/basecamp-app) | Orca Site Guide | 1.0.0 | Public read-only Orca guide: product, pricing, docs, and signup links. |
+| 2026-10-16 01:59:25 | io.sigmaprep/worksheets | Sigma Prep Math Worksheets | 1.0.0 | Find free math worksheets (Pre-Algebra–Calculus, Statistics) as printable PDFs… |
+| 2026-10-16 02:01:02 | [io.github.Bosacks/magneta-contract-risk](https://github.com/Bosacks/magneta-risk-x402) | Magneta Contract Risk | 0.1.0 | Smart-contract risk reports for AI agents on 20 EVM chains, paid per call via x… |
+| 2026-10-16 02:02:40 | [io.github.haison8x/geogebra-mcp](https://github.com/haison8x/geogebra-mcp) |  | 0.1.1 | Draw and edit plane-geometry figures live on GeoGebra Calculator, with checks a… |
+| 2026-10-16 02:06:04 | [io.github.arimayuji/agentl](https://github.com/arimayuji/agentl) | agentl | 0.9.0 | Validate, plan, preview and run YAML data pipelines (ETL with LLM steps) and de… |
+| 2026-10-16 02:10:47 | io.feedlio/feedlio | Feedlio | 1.0.0 | Schedule and publish social media posts to Facebook, Instagram, LinkedIn, TikTo… |
+| 2026-10-16 02:12:10 | io.github.beronbrown/familycal |  | 1.0.0 | Every kid's team, league and school schedule in one family calendar. |
+| 2026-10-16 02:14:39 | com.getbotornot/botornot | BotOrNot | 2.0.0 | Is a trading bot legit? Sourced bot fact sheets, regulator scam records and on-… |
+| 2026-10-16 02:15:56 | [io.github.veilus/veilus](https://github.com/veilus/sdk) | Veilus | 0.1.0 | Drive Veilus browser profiles from an AI assistant: profiles, pages, scripts, s… |
 
 ## Data source
 

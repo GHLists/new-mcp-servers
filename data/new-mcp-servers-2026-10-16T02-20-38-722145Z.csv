@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-10-16T01:19:40.156599Z,io.github.sorindecu/vibeshipped,Vibe Shipped,1.0.0,,streamable-http,"Search a sourced directory of real apps built with AI tools like Cursor, Claude Code and Lovable."
+2026-10-16T01:19:49.3145Z,ai.filedone/filedone,filedone,1.0.0,,streamable-http,"Merge, split, compress, OCR and translate PDFs, pull tables into Excel, and edit PDFs and photos."
+2026-10-16T01:21:59.168164Z,io.github.jadenpxrk/mcp-piazza,,0.1.0,https://github.com/jadenpxrk/mcp-piazza,,"Read-only Piazza access: activity, search, unread posts, full threads, and course info"
+2026-10-16T01:30:15.257984Z,si.openpod/openpod,OpenPod,0.3.0,,streamable-http,Shared rooms where people and their AI agents exchange messages and context.
+2026-10-16T01:32:29.870029Z,io.github.CloudCorpRecords/greenlight,,0.3.2,https://github.com/CloudCorpRecords/greenlight,,Pre-flight checks for open-source contributions: is this GitHub issue actually landable?
+2026-10-16T01:34:26.993935Z,io.github.CloudCorpRecords/prwatch,,0.1.1,https://github.com/CloudCorpRecords/prwatch,,Attention report for your open GitHub PRs: what needs you right now.
+2026-10-16T01:35:07.085122Z,io.github.wnsod/oneqaz-trading-mcp,OneQAZ Trading Intelligence,1.2.0,https://github.com/oneqaz-trading/oneqaz-trading-mcp,streamable-http,"Verifiable crypto/KR/US market intelligence for AI agents: signals, hash-chained ledger. Not advice."
+2026-10-16T01:35:54.624479Z,io.github.CloudCorpRecords/claimcheck,,0.1.1,https://github.com/CloudCorpRecords/claimcheck,,Track stale claims and parked fixes so open-source work does not silently die.
+2026-10-16T01:37:17.480173Z,io.github.CloudCorpRecords/gatefile,,0.1.1,https://github.com/CloudCorpRecords/gatefile,,Extract a repo's contribution gates into machine-readable contribution-gates.json.
+2026-10-16T01:37:30.37853Z,com.aibenchmarkindex/directory,AI Benchmark Index,1.0.0,https://github.com/pooriaarab/benchmark-core,streamable-http,"Search 264 AI benchmarks by category, with data sources and licences for each."
+2026-10-16T01:37:45.974882Z,com.answercheckup/answer-checkup,Answer Checkup,0.1.0,,streamable-http,Free AI readiness scan for any website. Paid reports for agents are coming soon.
+2026-10-16T01:42:36.351327Z,co.cafedev/cafedev,CafeDev,1.0.0,,streamable-http,Search free LATAM tech jobs and companies on CafeDev (no auth).
+2026-10-16T01:44:55.229428Z,io.github.johnsmalls22-rgb/backlinkmcp-server,,1.6.0,https://github.com/johnsmalls22-rgb/backlinkmcp-server,streamable-http,"Backlink & domain authority MCP for AI agents: referring domains, link gap, toxic review queue"
+2026-10-16T01:45:19.184323Z,com.trimcarbon/flight-emissions,TrimCarbon,1.2.0,,streamable-http,"CO₂ estimates for general-aviation flying: by aircraft and hours, by fleet, or by fuel."
+2026-10-16T01:49:30.068729Z,io.github.xiaoxihexiaoyu/everyinfra,EveryInfra,1.1.0,https://github.com/everyinfra/everyinfra-agent-plugins,streamable-http,"Structured data from 90 platforms (RedNote, Douyin, TikTok, Amazon), web search, CAPTCHA solving."
+2026-10-16T01:51:53.201491Z,io.github.GriffMurder/straws-site,Straws Soda,1.0.0,https://github.com/GriffMurder/straws-website,streamable-http,"Public read-only MCP for strawssoda.com: menu, hours, and order or contact links."
+2026-10-16T01:52:14.846337Z,io.github.GriffMurder/orca-site,Orca Site Guide,1.0.0,https://github.com/GriffMurder/basecamp-app,streamable-http,"Public read-only Orca guide: product, pricing, docs, and signup links."
+2026-10-16T01:59:25.457474Z,io.sigmaprep/worksheets,Sigma Prep Math Worksheets,1.0.0,,streamable-http,"Find free math worksheets (Pre-Algebra–Calculus, Statistics) as printable PDFs with answer keys."
+2026-10-16T02:01:02.315381Z,io.github.Bosacks/magneta-contract-risk,Magneta Contract Risk,0.1.0,https://github.com/Bosacks/magneta-risk-x402,streamable-http,"Smart-contract risk reports for AI agents on 20 EVM chains, paid per call via x402 ($0.02 USDC)."
+2026-10-16T02:02:40.443684Z,io.github.haison8x/geogebra-mcp,,0.1.1,https://github.com/haison8x/geogebra-mcp,,"Draw and edit plane-geometry figures live on GeoGebra Calculator, with checks and screenshots."
+2026-10-16T02:06:04.206656Z,io.github.arimayuji/agentl,agentl,0.9.0,https://github.com/arimayuji/agentl,,"Validate, plan, preview and run YAML data pipelines (ETL with LLM steps) and debug failed runs."
+2026-10-16T02:10:47.208477Z,io.feedlio/feedlio,Feedlio,1.0.0,,streamable-http,"Schedule and publish social media posts to Facebook, Instagram, LinkedIn, TikTok and YouTube."
+2026-10-16T02:12:10.216698Z,io.github.beronbrown/familycal,,1.0.0,,streamable-http,"Every kid's team, league and school schedule in one family calendar."
+2026-10-16T02:14:39.094532Z,com.getbotornot/botornot,BotOrNot,2.0.0,,streamable-http,"Is a trading bot legit? Sourced bot fact sheets, regulator scam records and on-chain results."
+2026-10-16T02:15:56.67098Z,io.github.veilus/veilus,Veilus,0.1.0,https://github.com/veilus/sdk,,"Drive Veilus browser profiles from an AI assistant: profiles, pages, scripts, schedules."
