@@ -9,56 +9,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 17:19 UTC
+## Latest list — 2026-10-16 18:18 UTC
 
-New MCP servers published between 2026-10-16 16:21 UTC and 2026-10-16 17:19 UTC.
+New MCP servers published between 2026-10-16 17:19 UTC and 2026-10-16 18:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-16T17-19-59-682688Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-16T18-18-48-027125Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-16 16:25:32 | [io.github.tester-army/e2e](https://github.com/tester-army/e2e) | e2e | 0.21.2 | Open live web and mobile app sessions from an e2e project to inspect the app an… |
-| 2026-10-16 16:29:38 | [net.storelift/storelift](https://github.com/vom-core/storelift-mcp) |  | 1.5.0 | App Store & Google Play keyword ranks, rivals, store pages, reviews, charts and… |
-| 2026-10-16 16:35:16 | dk.gulvbuddy/prisestimat | Gulvbuddy prisestimat | 1.0.0 | Prisestimat på nyt trægulv og gulvafslibning i Danmark samt dækningstjek. Grati… |
-| 2026-10-16 16:35:50 | [io.github.inite-ai/inite-brain-service](https://github.com/inite-ai/inite-brain-service) | INITE Brain | 2.4.0 | Long-term memory for AI agents: a bitemporal knowledge graph with cited answers. |
-| 2026-10-16 16:37:25 | com.simplepdf/mcp | SimplePDF | 1.0.0 | Find your PDF forms, read their fields, prefill them for review and retrieve su… |
-| 2026-10-16 16:37:59 | [app.mcpharbor/mcp-harbor-search](https://github.com/punkjazz-labs/mcp-harbor-search) | MCP Harbor Search | 1.0.0 | Search and discover MCP servers and agent tools listed in the MCP Harbor direct… |
-| 2026-10-16 16:43:47 | ai.entityindex/entityindex | entityindex.ai | 1.0.0 | Verified hotels in Andorra for AI agents: search by area, spa, pets, ski-in, fa… |
-| 2026-10-16 16:44:58 | com.seorecords/geo-seo-records | GEO SEO Records | 1.0.0 | Gets a website ready for AI assistants: robots.txt fixed, llms.txt drafted, cit… |
-| 2026-10-16 16:45:18 | com.naano/mcp | Naano | 1.0.0 | B2B LinkedIn creator campaigns from your AI assistant: find creators, run campa… |
-| 2026-10-16 16:50:16 | [com.factiq/factiq](https://github.com/defog-ai/factiq-plugin) | FactIQ | 1.0.0 | Official economic statistics, company filings, earnings calls and market data,… |
-| 2026-10-16 16:51:22 | [io.github.SarutobiSasuke8/aseprite-agent-mcp](https://github.com/SarutobiSasuke8/aseprite-agent-mcp) | Aseprite Agent MCP | 0.3.0 | Create and verify pixel-art assets with atomic Aseprite edits and Phaser export. |
-| 2026-10-16 16:51:46 | net.useapi/gemini-notebook | NotebookLM (Gemini Notebook) MCP Server… | 1.0.0 | Google NotebookLM: notebooks, sources, cited chat, podcasts, video, slides, qui… |
-| 2026-10-16 16:52:02 | [io.github.Voidborn-Industries/mindupload](https://github.com/Voidborn-Industries/mindupload-sdk-python) | Mind Upload | 1.15.12 | Evidence-based completion review and optional personal guidance for AI agents. |
-| 2026-10-16 16:57:41 | [ai.inite/atlas](https://github.com/inite-ai/inite-visibility) | INITE Atlas | 1.0.0 | A catalogue of AI tools for agents: look up, search, compare prices, see price… |
-| 2026-10-16 16:59:20 | [dev.criando/massa](https://github.com/criando-dev/massa) | massa | 0.1.0 | Massa de teste brasileira válida: CPF, CNPJ, cartão, conta e mais, com seed rep… |
-| 2026-10-16 16:59:40 | io.github.grupoanesthy-spec/agent-transaction-trust | Agent Transaction Trust | 1.0.0 | Authorize and prove autonomous x402/AP2 agent payments with cryptographic recei… |
-| 2026-10-16 17:03:27 | com.raq/raq | Raq.com | 1.0.0 | Give your AI agent 75+ business tools: tasks, projects, CRM, forms, E-Sign, tea… |
-| 2026-10-16 17:03:49 | [io.github.JeenyJAI/mcp-test-utils](https://github.com/JeenyJAI/mcp-test-utils) | MCP Test Utils | 3.26.43 | Desktop UI automation for AI agents: verified clicks, UI Automation, OCR, batch… |
-| 2026-10-16 17:04:43 | [app.openkrill/agent-trace](https://github.com/nguyenhieuec/agent-tools-plugins) | Agent Trace Check | 1.0.0 | Read a tool-call log from an AI agent run and see which calls failed, looped or… |
-| 2026-10-16 17:04:44 | [app.openkrill/answer-share](https://github.com/nguyenhieuec/agent-tools-plugins) | Namequota | 1.0.0 | See how often AI answers name and link your brand, which rivals they name and w… |
-| 2026-10-16 17:04:45 | [app.openkrill/belief](https://github.com/nguyenhieuec/agent-tools-plugins) | Belief Poll | 1.0.0 | Ask one question and get the share of people on X and Reddit who hold each answ… |
-| 2026-10-16 17:04:47 | [app.openkrill/certpacket](https://github.com/nguyenhieuec/agent-tools-plugins) | CertPacket | 1.0.1 | Helps a small importer get the US safety certificate for a consumer product rea… |
-| 2026-10-16 17:04:48 | [app.openkrill/cryptodd](https://github.com/nguyenhieuec/agent-tools-plugins) | Crypto Due Diligence | 1.0.0 | Screen a new token for red flags and keep signals, and find a wallet's self-dec… |
-| 2026-10-16 17:04:49 | [app.openkrill/design-md](https://github.com/nguyenhieuec/agent-tools-plugins) | DESIGN.md Linter & Extractor | 1.1.0 | Lint and diff DESIGN.md files with the official Google linter, or write one fro… |
-| 2026-10-16 17:04:50 | [app.openkrill/emailpld](https://github.com/nguyenhieuec/agent-tools-plugins) | Email Engagement Report | 1.1.1 | Email Engagement Report turns a raw email event export into a per-recipient eng… |
-| 2026-10-16 17:04:51 | [app.openkrill/indexnow](https://github.com/nguyenhieuec/agent-tools-plugins) | IndexNow Submit | 1.0.0 | Send your sitemap URLs to Bing, Yandex and every IndexNow engine and see each e… |
-| 2026-10-16 17:04:52 | [app.openkrill/injection-scan](https://github.com/nguyenhieuec/agent-tools-plugins) | Prompt Injection Scanner | 1.0.0 | Check text before your agent reads it: hidden instructions, invisible text and… |
-| 2026-10-16 17:04:53 | [app.openkrill/page-fetch](https://github.com/nguyenhieuec/agent-tools-plugins) | Page Fetch | 1.0.0 | Read one public web page as clean Markdown with its links, after a robots.txt c… |
-| 2026-10-16 17:04:54 | [app.openkrill/post-stats](https://github.com/nguyenhieuec/agent-tools-plugins) | Post Stats | 1.0.0 | Public views, likes and comments of YouTube, TikTok and X posts, each with its… |
-| 2026-10-16 17:04:55 | [app.openkrill/remote-jobs](https://github.com/nguyenhieuec/agent-tools-plugins) | Remote Jobs by Country | 1.0.0 | Remote Jobs by Country finds remote jobs a person can actually be hired for fro… |
-| 2026-10-16 17:04:56 | [app.openkrill/school-digest](https://github.com/nguyenhieuec/agent-tools-plugins) | School Digest | 1.0.0 | School Digest makes one printable daily page per child from snapshots you suppl… |
-| 2026-10-16 17:04:57 | [app.openkrill/slotscout](https://github.com/nguyenhieuec/agent-tools-plugins) | SlotScout | 1.0.0 | SlotScout sizes a child care benefit for one worksite in Texas or New York. |
-| 2026-10-16 17:04:58 | app.openkrill/tapwhich | Tapwhich | 1.0.0 | Which of your cards to tap at a place: the cashback, cap and conditions, from t… |
-| 2026-10-16 17:04:59 | [app.openkrill/tenrung](https://github.com/nguyenhieuec/agent-tools-plugins) | Tenrung | 1.0.0 | Score how AI-native a team is on 10 lines and get a 90-day plan and an AI champ… |
-| 2026-10-16 17:05:00 | [app.openkrill/trending](https://github.com/nguyenhieuec/agent-tools-plugins) | Trending Now | 1.0.0 | The posts rising fastest right now on Hacker News, GitHub, Product Hunt and mor… |
-| 2026-10-16 17:06:13 | com.aistrategyminer/mcp | AIStrategyMiner | 1.0.0 | Design trading strategies with your AI and open them in a visual no-code Strate… |
-| 2026-10-16 17:07:32 | [io.0xarchive/mcp](https://github.com/0xArchiveIO/0xarchive-mcp) | 0xArchive Market Data | 1.5.0 | Hyperliquid and Lighter market data: order books, trades, candles, funding, OI,… |
-| 2026-10-16 17:08:32 | com.vokolla/press-release-agent | Vokolla Press Release Agent | 0.2.0 | Draft press releases from notes, run editorial checks, compare packages and tra… |
-| 2026-10-16 17:13:31 | com.sendmycall/public | SendMyCall public data | 1.0.0 | Virtual phone number coverage, monthly prices, calling and forwarding rates, he… |
-| 2026-10-16 17:13:54 | io.github.Habanacasta88/callejear-de | Callejear Germany | 1.0.0 | Read-only German street search and context across 593,062 historical records. |
-| 2026-10-16 17:16:10 | com.reuily/reuily | Reuily | 1.3.0 | Build forms, quizzes and lead forms, publish them, and read responses in your R… |
-| 2026-10-16 17:17:43 | com.glitchwire/news | Glitchwire News | 1.1.0 | Search and read Glitchwire's independent tech news: AI, crypto, science, gadget… |
+| 2026-10-16 17:21:09 | com.callejear/france | Callejear France | 1.0.0 | Search 2.19M French street records, IRIS-level amenities and commune-level risk… |
+| 2026-10-16 17:27:25 | io.becomefluent/fluent | Fluent | 1.0.0 | Your work meetings, notes, people, tasks and follow-ups from Fluent, in your AI… |
+| 2026-10-16 17:28:45 | [ai.bynor/bynor](https://github.com/Bynor-S-R-L/bynor-mcp) | Bynor | 1.0.0 | Social media for brands: editorial plans, on-brand images, scheduling, publishi… |
+| 2026-10-16 17:33:04 | ai.pitchboost/pitchboost | PitchBoost | 0.2.0 | Redesign a PowerPoint in your brand, or build a sales deck for a prospect. Retu… |
+| 2026-10-16 17:36:11 | [io.github.ChaconLucas/tokenbar](https://github.com/ChaconLucas/tokenbar) | TokenBar | 0.5.3 | AI usage limits (Claude Code, Codex, Copilot, Windsurf): check budget and time… |
+| 2026-10-16 17:36:24 | [io.github.p7y-dev/p7y](https://github.com/p7y-dev/p7y) | Purgatory (p7y) | 0.7.0 | Self-hosted Docker sandboxes for agents: create one, deploy a compose stack, re… |
+| 2026-10-16 17:40:30 | [one.faf/faf-mcp](https://github.com/Wolfe-Jam/faf-mcp) | .FAF Context | 4.0.1 | .FAF Context — persistent project context for Cursor, VS Code and every MCP-com… |
+| 2026-10-16 17:42:28 | [io.github.jyswee/computegpu](https://github.com/jyswee/computegpu-cli) |  | 1.2.1 | Rent cloud GPUs from your agent: live catalogue, deploy, stop, destroy. Per-sec… |
+| 2026-10-16 17:45:01 | [io.github.cuemap-dev/cuemap-mcp](https://github.com/cuemap-dev/cuemap-mcp) |  | 0.7.5 | Local memory and context retrieval for AI agents through CueMap. |
+| 2026-10-16 17:48:17 | [io.github.harsh-chandak/agentguard](https://github.com/harsh-chandak/agentguard) |  | 0.1.0 | Stop a team of coding agents contradicting each other. Deterministic, no model… |
+| 2026-10-16 17:49:13 | com.dubaitable/booking | Dubai Table | 1.0.0 | Book tables at Dubai's top restaurants, beach clubs and nights: live availabili… |
+| 2026-10-16 17:49:20 | [com.ordkort/ordkort](https://github.com/silicq/ordkort) | Ordkort | 1.0.0 | Flashcard decks with pictures and card designs for a free vocabulary site in 60… |
+| 2026-10-16 17:50:02 | dev.tanod/bank-statement | Bank Statement to CSV (Tanod) | 0.1.0 | Bank statement PDFs become CSV or JSON transactions with dates, amounts and bal… |
+| 2026-10-16 17:50:05 | dev.tanod/pdf-tables | PDF Table Extractor (Tanod) | 0.1.0 | Pull tables out of a PDF as rows and cells, ready for a spreadsheet or a data p… |
+| 2026-10-16 17:50:08 | dev.tanod/pdf-to-word | PDF to Word Converter (Tanod) | 0.1.0 | PDF in, editable Word (.docx) out, with a download link for the converted file. |
+| 2026-10-16 17:50:11 | dev.tanod/html-to-markdown | Web Page to Markdown (Tanod) | 0.1.0 | Turn any web page URL or HTML into clean Markdown or plain text for an LLM to r… |
+| 2026-10-16 17:51:59 | [io.github.Seidl-Family/ncrypted](https://github.com/Seidl-Family/ncrypted) | ncrypted | 0.1.1 | One-time, end-to-end encrypted secrets for agents. 0.005 USDC per secret via x4… |
+| 2026-10-16 17:52:21 | dev.workers.erikssonanton2001.agentkit-x402/agentkit | AgentKit x402 - pay-per-call tools for… | 1.0.0 | Email, DNS, SPF/DMARC, site contacts, Markdown, IBAN, Swedish validators. Pay p… |
+| 2026-10-16 17:53:38 | [fun.pumpview/trading](https://github.com/nikdeveloper1555/pumpview-agent-kit) | PumpView — Solana Trading & Live Data | 1.2.0 | Solana swaps with local signing, confirmed receipts, trading volume and filtere… |
+| 2026-10-16 17:55:46 | [io.github.ModelPiper/toolpiper](https://github.com/ModelPiper/toolpiper.git) |  | 0.0.10-beta | On-device MCP tools for macOS: local AI, speech, vision, browser automation, sy… |
+| 2026-10-16 17:57:50 | [io.github.321zz321/computefirst](https://github.com/321zz321/computefirst-skill) | ComputeFirst | 1.0.0 | Free deterministic tools for math, data transforms, dates, text, statistics, fi… |
+| 2026-10-16 17:58:40 | io.github.benjammartin/wikibrand | WikiBrand | 1.0.0 | Logo, colors, typefaces, tone of voice and CSS theme of any brand, read from it… |
+| 2026-10-16 18:00:16 | br.com.jettracker/jet-tracker | Jet Tracker | 0.12.0 | Brazilian business aviation: registry, owner, flights, base, market, maintenanc… |
+| 2026-10-16 18:00:24 | io.github.zerotohundred-admin/marketplace | Zero to Hundred marketplace | 1.1.0 | Search live software, compare listings, and prepare owned drafts. Publishing st… |
+| 2026-10-16 18:00:49 | com.awardclaw/award-travel | AwardClaw Award Travel | 1.0.0 | Business and first class award seat alerts, saver availability search, trip wat… |
+| 2026-10-16 18:02:52 | [com.bimcli/bim-cli](https://github.com/HelloHowAreYouHaveANiceDay/bim-cli-plugin) | bim-cli | 0.26.0 | Let agents drive Revit, AutoCAD, SketchUp, Blender and PDF sets on your own Win… |
+| 2026-10-16 18:04:03 | net.tnapplianceexchange/repair | TN Appliance Exchange — appliance repair | 1.0.0 | Family appliance repair in TN + LA: diagnose a problem, check a ZIP, book a rep… |
+| 2026-10-16 18:07:34 | io.decadata/odyssey-lite | DecaData Odyssey Lite | 1.0.0 | US point-of-sale sales for ~380 consumer companies: free search and samples, Yo… |
+| 2026-10-16 18:08:40 | [io.github.harsh-chandak/orchestraguard](https://github.com/harsh-chandak/orchestraguard) |  | 0.1.0 | Stop a team of coding agents contradicting each other. Deterministic, no model… |
+| 2026-10-16 18:13:40 | com.signupbouncer/checker | SignupBouncer | 1.1.1 | An API that checks new signups for disposable emails and repeat accounts. |
+| 2026-10-16 18:14:54 | ai.circleback/circleback | Circleback | 1.0.0 | Search and use your Circleback meeting notes, transcripts, and action items in… |
+| 2026-10-16 18:14:55 | [io.github.zifengw/eu-business-data-mcp](https://github.com/zifengw/eu-business-data-mcp) | EU Business Data (VAT, EORI, company, s… | 1.0.0 | EU VAT (VIES) and EORI validation, company lookup, sanctions screening and KYB.… |
+| 2026-10-16 18:15:53 | com.botrecipe/relay | Human Handoff relay | 1.0.0 | Hands CAPTCHAs, 2FA codes and approvals from your agent to your human with one… |
+| 2026-10-16 18:16:16 | com.pdfoven/pdfoven | PDFOven | 0.1.0 | Generate PDFs and images from HTML, Markdown, URLs or JSON templates. |
 
 ## Data source
 
