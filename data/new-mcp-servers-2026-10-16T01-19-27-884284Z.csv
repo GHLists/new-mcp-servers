@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-10-16T00:25:08.504148Z,uz.faroz/faroz,Faroz,1.0.0,,streamable-http,"Faroz kids' learning platform: browse, create and edit courses, lessons, exercises and games."
+2026-10-16T00:27:30.071795Z,org.ezannuity/ezannuity,EZ Annuity,1.0.0,,streamable-http,"Price settlement or annuity payments, judge a buyout offer, look up any US state's transfer rules."
+2026-10-16T00:30:12.91028Z,io.github.AxelVerneBooks/research-scope-mcp,Research Scope,0.1.0,https://github.com/AxelVerneBooks/research-scope-mcp,,"Plan research, score sources for freshness/COI, and enforce claim-level citations in reports."
+2026-10-16T00:37:52.993262Z,io.github.aibakery/houston,Houston,0.1.0,,streamable-http,"Read, write, and combine connected apps and databases with shared code and per-person permissions."
+2026-10-16T00:39:15.807608Z,com.riverwaterwatch/river-water-watch,River Water Watch,1.0.0,,streamable-http,"Score a river cruise date against daily water levels on the Rhine, Danube, Elbe and Seine."
+2026-10-16T00:46:53.557427Z,io.github.nkiyohara/corresync,Corresync,0.8.7,https://github.com/nkiyohara/corresync,,"Local-first mail, calendar, and task MCP with isolated accounts and guarded writes."
+2026-10-16T00:52:32.331281Z,live.drypowder.www/seed-vc-funds,DryPowder: seed VCs deploying now,1.0.0,,streamable-http,"Seed and pre-seed VC funds actively deploying now, from SEC Form D filings and news signals."
+2026-10-16T00:53:16.080739Z,com.360tft/coaching-brain,Kevin's Coaching Brain,1.0.0,https://github.com/360tft/coaching-brain-mcp,streamable-http,"Coaching answers from Kevin Middleton's own writing, with the source link for each answer."
+2026-10-16T00:54:15.536303Z,us.mehyar/mayor,The Mayor,1.0.0,,streamable-http,"The Mayor — AI front desk for local businesses: bookings, missed calls, and customer follow-up."
+2026-10-16T00:54:55.443337Z,us.mehyar/clipnote,Clipnote,1.0.0,,streamable-http,Clipnote — turn SaaS release notes into a 60-second narrated launch video.
+2026-10-16T00:54:55.645977Z,io.github.yassinemohamedali/paperloo,Paperloo Compliance,1.0.0,https://github.com/yassinemohamedali/paperloo,streamable-http,Automated website compliance infrastructure and GDPR/CCPA auditing.
+2026-10-16T00:56:57.929331Z,io.github.Kiragu-Maina/shellwire,ShellWire,1.0.0,,streamable-http,"Discover and compare software, read chatbot news, and submit applications for private review."
+2026-10-16T00:57:40.239039Z,app.aimech/aimech,AI Mechanic,1.0.0,,streamable-http,"AI Mechanic — understand car symptoms and OBD-II codes, check recalls, get repair guidance."
+2026-10-16T00:59:32.267619Z,media.involve/involve-media,Involve Media,1.0.0,,streamable-http,"Free local business checkup (Google, reviews, AI answers), plus web, SEO and automation services."
+2026-10-16T01:04:12.16703Z,io.github.atushi1841/japan-stock-mcp,Japan Stock Market Data MCP (TSE Screener),0.1.0,https://github.com/atushi1841/japan-stock-mcp,,"Japan TSE stock screener, quotes, valuation, financials via J-Quants API. Free, no TOS risk."
+2026-10-16T01:05:08.244503Z,io.github.mithgalalfayez/nullclear,NullClear Arbiter,1.1.1,https://github.com/Nullclear-Protocol/nullclear,streamable-http,"Autonomous x402 payment schema-escrow arbiter, spend firewall, failover & ERC-8004 Sybil oracle"
+2026-10-16T01:06:25.00481Z,com.mock-server/mockserver,,9.0.0,https://github.com/mock-server/mockserver-monorepo,,"Mock, record/replay, verify and chaos-test any HTTP, REST, gRPC or LLM dependency over MCP."
+2026-10-16T01:08:22.850389Z,io.github.CharitonMedia/tremelay,Tremelay,1.0.2,https://github.com/CharitonMedia/Tremelay,,Local MCP broker: agents call credentials through a daemon without seeing secrets.
+2026-10-16T01:09:32.367011Z,app.rizza/rizza,RIZZA,1.0.0,,streamable-http,"RIZZA — your AI dating wingman: conversation-aware replies, openers, and profile feedback."
+2026-10-16T01:09:33.39688Z,cloud.local/localcloud,LocalCloud MCP,0.1.12,https://github.com/LocalGCloud/localcloud-cli,,"A free local cloud environment for AI agents to build, test, and debug Google Cloud applications."
+2026-10-16T01:10:35.327945Z,ai.heycactus/cactus,Cactus,1.0.0,https://github.com/hey-cactus/cactus-mcp,streamable-http,"Search and ask your product's help pages, product map and support conversations in Cactus."
+2026-10-16T01:16:14.646396Z,io.github.theluckystrike/three-way-match,,0.22.6,https://github.com/theluckystrike/mcp-servers,,"Match supplier invoice lines against purchase orders and accepted receipts by SKU, locally."
+2026-10-16T01:16:31.388758Z,io.github.theluckystrike/supplier-invoice-matching,,0.22.6,https://github.com/theluckystrike/mcp-servers,,"Match supplier invoice lines against purchase orders and accepted receipts by SKU, locally."
