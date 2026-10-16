@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-10-16T05:31:27.899465Z,io.github.CONN-SKILL/connskill-growth-mcp,,0.3.1,https://github.com/CONN-SKILL/connskill-growth-mcp,,"Local market checks, rankings and keyword research as JSON, paid per call via x402 in USDC on Base."
+2026-10-16T05:33:52.848922Z,io.github.seigwen/dualtran-mcp,,0.1.0,https://github.com/seigwen/dualtran-mcp,,"Translate text with Google or your own AI model (BYOK, 20+ providers) from any MCP client."
+2026-10-16T05:39:32.643521Z,cc.aiones/dev-toolbox,,1.0.0,,streamable-http,开发者工具箱：时间/UUID/Base64/JSON 格式化等高频开发小工具（Cloudflare 边缘部署，免费）
+2026-10-16T05:39:34.572922Z,cc.aiones/x-news-digest,,1.0.0,,streamable-http,X 资讯检索：零配置免 Key 的 X/Twitter 资讯检索，账号池扫描/关键词搜索/热度排序/智能去重，输出中文日报
+2026-10-16T05:39:37.022682Z,cc.aiones/x-news-monitor,,1.0.0,,streamable-http,X 资讯监控：盯账号自动巡检，新帖去重中文日报，每 30 分钟自动巡查，支持飞书/Slack/Discord 推送
+2026-10-16T05:44:03.687008Z,lu.flyscout/deals,FlyScout flight deals,1.0.0,,streamable-http,"Read-only cheap return flight deals from Luxembourg and 6 nearby airports, rescanned daily."
+2026-10-16T05:44:17.452584Z,com.kurodalab/quote-proof-approval,Approval Link — Quotes and Proofs,0.1.0,,streamable-http,"Track client quote and proof revisions, approvals, and work status."
+2026-10-16T05:47:05.34641Z,ai.annsa/annsa,Annsa,1.0.3,,streamable-http,"The source of direction for your agents: what to build next, its spec and the calls you made."
+2026-10-16T05:49:24.044959Z,io.github.frank-bot07/usrcp,USRCP — User Context Protocol,0.2.8,https://github.com/frank-bot07/usrcp,,"Encrypted local ledger of structured user state, shared across every MCP-aware AI tool."
+2026-10-16T05:49:46.14354Z,com.recruitmcp/recruitmcp,RecruitMCP,2.0.0,,streamable-http,"Search people and companies, enrich profiles, and find email and phone over MCP."
+2026-10-16T05:57:22.21601Z,io.github.SimianX-AI/simianx,SimianX AI,1.0.2,https://github.com/SimianX-AI/simianx-skills,streamable-http,"Live multi-agent analysis and scored market news for US stocks and crypto, from SimianX AI."
+2026-10-16T06:00:53.579055Z,io.github.BlancasJ/zapsign-mcp,ZapSign (unofficial),1.0.1,https://github.com/BlancasJ/zapsign-mcp,,"ZapSign e-signature API: reads run freely, writes ask first, personal data filtered out."
+2026-10-16T06:03:04.10602Z,com.sendsalvo/salvo,Salvo,1.0.0,,streamable-http,"Job applications done for you: check applications and interviews, get prep, apply to a job by URL."
+2026-10-16T06:10:55.625035Z,io.github.Keith-CY/laplace-mini-world-mcp,Laplace’s Mini World,1.0.1,https://github.com/Keith-CY/laplace-mini-world-mcp,streamable-http,"Interactive 3D science models in Chinese and English, found and shown live in the chat."
+2026-10-16T06:14:03.178498Z,io.github.atlasprzetargow/mcp,,0.2.1,https://github.com/atlasprzetargow/mcp-server,,"Polish public tenders (BZP, TED): 1M+ notices, buyer and contractor profiles, CPV, stats, glossary."
+2026-10-16T06:16:44.315416Z,com.ingest0r.api/cook-county-property-data,"Cook County / Chicago Property Data (free tier, no wallet needed)",0.4.3,,streamable-http,"Cook County / Chicago property by address or PIN: sales, permits, assessments, comps. 100 free/day."
+2026-10-16T06:16:54.472839Z,com.faivelo/mail,Faivelo Email,1.1.0,https://github.com/ethannschwartz/faivelo-mcp,streamable-http,"Business email on your own domain: mailboxes, send and read mail, aliases, DNS setup, and campaigns."
+2026-10-16T06:19:44.82937Z,io.github.Alex-Dev-Web-C-DE/scopeguard,,1.0.1,https://github.com/Alex-Dev-Web-C-DE/scopeguard-mcp,,Sanctions scope monitoring. Track entities for changes in OFAC/UK/EU/UN lists.
