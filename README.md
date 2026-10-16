@@ -9,34 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 11:20 UTC
+## Latest list — 2026-10-16 12:19 UTC
 
-New MCP servers published between 2026-10-16 10:21 UTC and 2026-10-16 11:20 UTC.
+New MCP servers published between 2026-10-16 11:20 UTC and 2026-10-16 12:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-16T11-20-33-43057Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-16T12-19-15-687014Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-16 10:27:50 | com.livepublicator/livepublicator | LivePublicator | 2.0.0 | Write, preview and publish your company's press releases from the chat, with a… |
-| 2026-10-16 10:30:53 | app.agentindex/agentindex | AgentIndex | 1.1.0 | Search a curated directory of open-source AI agents, MCP servers and AI develop… |
-| 2026-10-16 10:33:13 | com.buyvignettepass/vignettes | Buy Vignette Pass — European motorway v… | 1.0.0 | Which motorway vignettes a car trip in Europe needs, with prices and toll cavea… |
-| 2026-10-16 10:38:27 | run.saka/library | Saka purchased library | 1.0.0 | Read purchased Saka business records with source evidence. No new purchases or… |
-| 2026-10-16 10:43:40 | com.coworkingview/mcp | CoworkingView | 0.4.0 | Coworking, private offices and day passes with published prices: Berlin, Madrid… |
-| 2026-10-16 10:45:39 | [com.didlogic/mcp](https://github.com/didlogic-cy/didlogic-mcp) | didlogic | 4.5.2 | Your didlogic account in AI assistants: numbers, SIP accounts, routing, SMS, ca… |
-| 2026-10-16 10:49:46 | online.bolig-tracker/valuations | Bolig Tracker | 1.0.0 | Market-value estimates, comparable sales and property tax for Danish homes, fro… |
-| 2026-10-16 10:52:07 | app.flett/whiteboard | Flett | 1.0.0 | A shared whiteboard: draw diagrams, docs, slides, charts and maps on boards peo… |
-| 2026-10-16 10:52:39 | [cat.idescat/mcp](https://github.com/idescat/mcp) | Idescat MCP Server | 1.1.0 | Query official statistics of Catalonia (Idescat): tables, metadata and JSON-sta… |
-| 2026-10-16 11:00:37 | help.gtm/gtm-help | gtm.help | 1.0.0 | Your go-to-market plan, plays and opportunities from gtm.help, inside any AI ag… |
-| 2026-10-16 11:10:40 | io.github.InkRoomAI/inkroom | InkRoom | 0.3.23 | Generate, edit and upscale images with references, batch jobs, cost previews an… |
-| 2026-10-16 11:15:22 | io.github.zeit-dev/canton-projects | Canton Wiki Projects | 1.0.0 | Search Canton Network ecosystem projects, retrieve project details, and list ca… |
-| 2026-10-16 11:15:25 | io.github.zeit-dev/hoodl2-projects | HoodL2 Projects | 1.0.0 | Search Robinhood Chain ecosystem projects, retrieve project details, and list c… |
-| 2026-10-16 11:15:28 | io.github.zeit-dev/perps-projects | perps.ai Projects | 1.0.0 | Search perpetuals ecosystem projects, retrieve project details, and list catego… |
-| 2026-10-16 11:15:30 | io.github.zeit-dev/pmwisdom-projects | PM Wisdom Projects | 1.0.0 | Search prediction market projects, retrieve project details, and list categorie… |
-| 2026-10-16 11:15:32 | io.github.zeit-dev/tempoatlas-projects | Tempo Atlas Projects | 1.0.0 | Search Tempo ecosystem projects, retrieve project details, and list categories. |
-| 2026-10-16 11:16:05 | io.github.taraxe/broadcast | Broadcast | 1.0.0 | Schedule and publish posts to X, LinkedIn, Instagram, Facebook, TikTok and Blue… |
-| 2026-10-16 11:17:22 | [io.github.Buggy1111/shelly-mcp](https://github.com/Buggy1111/shelly-mcp) | Shelly Smart Home | 0.1.3 | Local-first MCP server for Shelly smart-home devices (Gen1-Gen4): control, ener… |
-| 2026-10-16 11:18:17 | co.cosmicchemistry/vedic-astrology | Cosmic Chemistry | 1.0.0 | Free Vedic astrology: birth chart, dasha, Sade Sati, Saturn return, panchang, p… |
-| 2026-10-16 11:18:42 | [io.github.pcp183/sanctions-screen](https://github.com/pcp183/sanctions-screen) | Sanctions Screen (OFAC, EU, UK, UN) | 0.1.0 | Sanctions screening vs OFAC, EU and UK lists (UN via EU/UK). Fuzzy match. Paid… |
+| 2026-10-16 11:22:11 | com.socialdatax/toutiao | SocialDataX 今日头条 MCP | 0.1.2 | 今日头条热搜、内容关键词搜索、搜索建议、用户搜索、内容详情、一级评论、评论回复、用户资料与用户作品；内容搜索、评论和作品支持分页。 |
+| 2026-10-16 11:22:13 | com.socialdatax/baidu-tieba | SocialDataX 百度贴吧 MCP | 0.1.1 | 百度贴吧搜索建议、帖子与用户搜索、帖子详情、评论与楼中楼回复、用户资料与发帖、关注贴吧、贴吧详情与帖子列表。 |
+| 2026-10-16 11:23:02 | app.shortsync/shortsync | ShortSync | 1.0.0 | Schedule and cross-post short-form video to TikTok, YouTube Shorts, Reels and 1… |
+| 2026-10-16 11:27:19 | io.github.TheOyster/liffey-metals | Liffey Metals | 1.1.0 | Irish precious-metals buyer. Live net buy prices per gram; payout estimates; in… |
+| 2026-10-16 11:29:16 | [com.fillfolio/mcp](https://github.com/fillfolio/portfolio-mcp) | Fillfolio MCP | 1.0.1 | Read-only Fillfolio portfolios, holdings, cash, liabilities, activity, spending… |
+| 2026-10-16 11:31:29 | [io.github.SanjhaiPrakash18/readdit-later](https://github.com/sanjhaiprakash18/readdit-later-mcp) |  | 1.1.2 | Search, organize, and chat with your saved Reddit posts from Claude, Cursor, an… |
+| 2026-10-16 11:34:29 | io.github.a01038137493-coder/easybuilder-directory | EasyBuilder Korean Local Business Direc… | 1.0.0 | Find Korean local businesses and get owner-provided hours, prices, contacts and… |
+| 2026-10-16 11:35:10 | [org.foodnotes/foodex2-encoder](https://github.com/FoodNotes-org/foodex2-encoder) | FoodEx2 Encoder | 1.0.0 | Turn an English food description into an EFSA FoodEx2 code. |
+| 2026-10-16 11:35:55 | fr.docteurbet/docteurbet | Docteur Bet — football probabilities | 1.0.0 | Free football match probabilities (Dixon-Coles), season projections and a publi… |
+| 2026-10-16 11:40:08 | space.galaxymind/galaxy-mind | Galaxy Mind | 2.0.0 | Verified bitcoin merchant directory, live buying gauge, treasury mNAV, float an… |
+| 2026-10-16 11:46:05 | au.taxtracker/aus-tax-tracker | Aus Tax Tracker | 1.0.0 | Track Australian work-related tax deductions: expenses, assets, car trips and w… |
+| 2026-10-16 11:53:22 | co.portant/esign-pdf | eSign PDF | 1.0.0 | Send a PDF, a Google Doc or Markdown for e-signature from chat, and get the sig… |
+| 2026-10-16 11:53:59 | xyz.botmash/botmash | BotMash | 1.0.0 | Read-only BotMash wall where AI bots post, reply and brainstorm: posts, threads… |
+| 2026-10-16 11:55:11 | io.github.NedimMujagic/bnod-booking | bnod Booking | 1.0.0 | Find Austrian local service businesses, check free slots and request appointmen… |
+| 2026-10-16 11:57:33 | com.aistrail/ais | AIS Trail | 1.4.0 | Live ship positions, vessel history and port calls from AIS. Read-only, live to… |
+| 2026-10-16 12:02:30 | com.spun/whatsapp | Spun WhatsApp MCP | 1.0.0 | Your business WhatsApp for any AI: read and search chats, digests, team stats,… |
+| 2026-10-16 12:08:21 | work.finder/jobs | Finder Jobs | 1.0.0 | Live job vacancies and salary stats: Belarus, Kazakhstan, Kyrgyzstan, Germany,… |
+| 2026-10-16 12:09:33 | co.verygoodletter/letters | The Very Good Letter Company | 1.0.0 | Design and send real letters, written in ink with a pen, in your brand, from yo… |
+| 2026-10-16 12:10:07 | [io.github.elmatis172/validalatam-mcp](https://github.com/elmatis172/validalatam-mcp) |  | 0.1.1 | Validate LatAm tax, ID and bank numbers: CUIT, CPF, CNPJ, RFC, CURP, RUT, NIT,… |
+| 2026-10-16 12:10:17 | [io.github.jakubro/dbprint](https://github.com/jakubro/dbprint) | dbprint | 0.13.0 | A database's schema, value lists and joins, from a snapshot in your repo - no d… |
+| 2026-10-16 12:11:46 | com.adaptlypost/mcp-server | AdaptlyPost | 1.1.0 | Post + analytics: Instagram, TikTok, YouTube, X, Facebook, LinkedIn, Pinterest,… |
+| 2026-10-16 12:12:19 | uk.co.rentercheck/rentercheck | RenterCheck | 1.0.0 | Check a home to rent in England: rent, licensing, flood risk, energy rating and… |
+| 2026-10-16 12:12:56 | [io.github.emirmrkaljevic/usb-rea](https://github.com/emirmrkaljevic/usb-rea) |  | 0.2.1 | Reverse engineer USB gadgets: capture traffic, infer the protocol, generate a p… |
+| 2026-10-16 12:14:34 | [io.github.pcp183/company-lookup](https://github.com/pcp183/company-lookup) | Company Lookup (GLEIF LEI, UK, Norway) | 0.1.0 | Company registry lookup by name, LEI or number: status, address, officers, pare… |
+| 2026-10-16 12:14:37 | com.redreplier/mcp-server | RedReplier | 1.0.1 | Find leads in Reddit, HN, X, Bluesky and Facebook group mentions, scored by AI,… |
+| 2026-10-16 12:14:40 | com.flowsery/mcp-server | Flowsery | 1.0.1 | Web analytics for AI agents: realtime visitors, revenue, funnels and AI-detecte… |
+| 2026-10-16 12:17:34 | [io.github.intoApex/tradingagentstack](https://github.com/intoApex/ai-trading-tools) | TradingAgentStack | 0.1.0 | Read-only search of a sourced directory of broker MCP servers, trading APIs and… |
+| 2026-10-16 12:19:08 | net.onlinewebdirectory/registry | Online Web Directory | 1.1.0 | How websites treat AI agents: bot walls, JS needs, robots rules, llms.txt. Look… |
 
 ## Data source
 
