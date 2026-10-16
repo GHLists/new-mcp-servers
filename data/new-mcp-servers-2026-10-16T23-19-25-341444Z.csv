@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-10-16T22:20:44.324312Z,com.cheapnypublication/ny-llc,Cheap NY Publication: New York LLC filings,1.0.0,,streamable-http,"Look up any New York LLC: publication deadline, county and price. Quotes for NY LLC filings."
+2026-10-16T22:20:59.864925Z,io.github.chenweilie/cleanairdata,CleanAirData,0.1.0,,streamable-http,Historical PM2.5 and Clean Air Score for US cities; copied records name their source city.
+2026-10-16T22:22:07.926473Z,com.agonna/agonna,Agonna,0.39.0,,streamable-http,"Let AI agents from any provider message each other, form teams and get matched opportunities."
+2026-10-16T22:23:35.029877Z,io.github.neelsatyavolu/consult,,1.0.1,https://github.com/neelsatyavolu/consult,,Get a second opinion on your code from every coding agent you have. No API keys.
+2026-10-16T22:24:04.222154Z,io.github.shittuay/devops-agent,DevOps Agent,1.0.7,https://github.com/shittuay/DevOps-Agent,streamable-http; sse,"Manage AWS, Azure, GCP, Kubernetes, CI/CD, Docker, Terraform and more. 704 tools."
+2026-10-16T22:30:15.560776Z,io.browserless/mcp,Browserless,1.39.0,https://github.com/browserless/browserless-mcp,streamable-http,"Official Browserless MCP server: browser automation, scraping, screenshots and PDFs for AI agents."
+2026-10-16T22:36:36.118581Z,io.github.alfongj-com/canishop-agent-checkout,CanIShop — Agent checkout reviews,0.2.0,,streamable-http,"Check and share agent checkout reports: bot blocks, payment methods, outcomes and navigation effort."
+2026-10-16T22:40:32.438297Z,io.github.marcoret74/semantic-geometry,Semantic Geometry,1.0.0,https://github.com/marcoret74/sg,streamable-http,"Deterministic verifier: LLM proposes, graph verifies. Sub-ms, offline, 0 tokens."
+2026-10-16T22:43:59.291645Z,io.botsee/botsee,BotSee,1.0.0,,streamable-http,"Monitor AI search visibility, competitors, keywords, and sources; manage analyses and content."
+2026-10-16T22:47:33.730629Z,io.github.ganterlab/ganter-lab,Ganter Lab,1.0.0,https://github.com/ganterlab/ganter-lab-mcp,,"SCADA station on your computer that an AI assistant reads, configures and operates over MCP."
+2026-10-16T22:50:58.052154Z,com.opus-growth/mcp,Opus Growth,1.4.0,https://github.com/opusgrowth/Opus-Growth-The-MCP-Connector-for-Ad-Platforms,streamable-http,"Run Google, Meta, TikTok, LinkedIn and Microsoft Ads, GA4, Search Console and WordPress from your AI"
+2026-10-16T22:51:37.84339Z,com.ampworth/calculators,Ampworth calculators,1.0.20261016,,streamable-http,"UK solar PV and heat pump calculators that follow the published MCS methods. Open, no key."
+2026-10-16T22:51:38.280909Z,com.ampworth/documents,Ampworth documents,1.0.20261016,,streamable-http,"Search and read UK guides on solar PV, heat pumps, batteries and MCS certification."
+2026-10-16T22:51:40.110804Z,app.ironledger/strength-calculators,IronLedger strength calculators,1.0.0,,streamable-http,"Free strength-training calculators: one-rep max, RPE loads, barbell plates, warm-up sets and DOTS."
+2026-10-16T22:54:08.414646Z,com.addshuffle/shuffle,Shuffle,1.0.0,,streamable-http,"Runs your Instagram, Facebook, TikTok, YouTube and Google Business: posts, DMs, comments, reviews."
+2026-10-16T22:54:10.506749Z,com.dexsheet/mcp,DexSheet,1.0.0,,streamable-http,"Fees, availability and referral terms for 60+ crypto trading venues (Axiom, Pump.fun, Hyperliquid…)."
+2026-10-16T22:57:21.27275Z,com.botrecipe/vault,Login Vault,1.0.0,,streamable-http,Scoped login vault: your bot signs in to sites without ever seeing the password.
+2026-10-16T23:05:29.676471Z,co.solarsens/solarsens-mcp,SolarSENS,0.1.0,,streamable-http,"Read-only access to authorized SolarSENS solar plants, performance, devices, and alarms."
+2026-10-16T23:08:35.659591Z,com.modevc/radar,Mode VC: AI Venture Research Charts & Investor Atlas,2.0.0,,streamable-http,"Query 38 empirical AI market charts, evaluate distribution defensibility, and search 3,650+ VCs."
+2026-10-16T23:11:36.678948Z,dev.workers.erikssonanton2001.pagewatch/pagewatch,PageWatch - page-to-data extraction and change monitoring,1.0.0,,streamable-http,"Extract prices, lists, tables, events from static pages and watch them for changes."
+2026-10-16T23:14:55.543815Z,dev.workers.okwithit9.verify-x402/contact-verify,Contact Verify,1.0.0,,,Email ($0.01) and phone ($0.02) checks. Pays USDC on Base via x402.
+2026-10-16T23:15:13.573427Z,ch.antevo/0700-brief,The 07:00 Brief,1.0.0,https://github.com/ANTEVO-CH/antevo-mcp,streamable-http; sse,"Your agent knows the markets by 07:00, every day. We read them so you don't have to."
+2026-10-16T23:15:14.317454Z,ch.antevo/executive,Antevo Executive Brief,1.0.1,https://github.com/ANTEVO-CH/antevo-mcp,streamable-http; sse,"Market and world intelligence — the daily editorial read, risk radar and dated archive."
+2026-10-16T23:15:15.684795Z,ch.antevo/trademark,Antevo Trademark,1.0.1,https://github.com/ANTEVO-CH/antevo-mcp,streamable-http,Is that brand name taken? Screen the registers and check the opposition window. No account.
+2026-10-16T23:15:16.212194Z,ch.antevo/wealth,Antevo Wealth,1.0.1,https://github.com/ANTEVO-CH/antevo-mcp,streamable-http; sse,"The family estate in full — what you hold, what you owe, and what it is exposed to."
+2026-10-16T23:15:16.856971Z,ch.antevo/mandates,Antevo Mandates,1.0.1,https://github.com/ANTEVO-CH/antevo-mcp,streamable-http; sse,"Your client book: who is due a review, what their mandate allows, and what has moved."

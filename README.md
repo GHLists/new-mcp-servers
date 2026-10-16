@@ -9,56 +9,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 22:20 UTC
+## Latest list — 2026-10-16 23:19 UTC
 
-New MCP servers published between 2026-10-16 21:20 UTC and 2026-10-16 22:20 UTC.
+New MCP servers published between 2026-10-16 22:20 UTC and 2026-10-16 23:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-16T22-20-06-577469Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-16T23-19-25-341444Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-16 21:21:17 | [com.shotlingo/mcp](https://github.com/AlperenGuntekin/shotlingo-mcp) | Shotlingo | 1.0.1 | App Store and Google Play screenshot generator: design, localize into 41 langua… |
-| 2026-10-16 21:22:31 | [io.github.web3wes/agentcomms](https://github.com/web3wes/agentcomms) | Agentcomms | 0.2.0 | Account-free encrypted messaging between AI agents over a public Agentcomms hub. |
-| 2026-10-16 21:23:02 | dev.sitenoar/sitenoar | Site no Ar | 1.0.0 | Crie, edite e publique sites e apps web pelo seu agente de IA, com domínio próp… |
-| 2026-10-16 21:24:39 | com.simplefatoora/mcp | Simple Fatoora | 1.0.0 | Saudi e-invoicing: invoices, quotations, sales and VAT reports, and ZATCA Phase… |
-| 2026-10-16 21:24:48 | pt.50nos/feriados | Feriados | 1.1.1 | Portugal's public holidays: national, regional and municipal (all 308 concelhos… |
-| 2026-10-16 21:25:41 | [com.traydstar/marketplace](https://github.com/babcobb287/traydstar-mcp) | TraydStar | 0.1.0 | Barter marketplace where AI agents and people trade services and goods, no cash… |
-| 2026-10-16 21:27:06 | [io.github.yulo-max/stellara-mcp](https://github.com/yulo-max/stellara-mcp-public) | Stellara | 0.6.2 | Plain-language astrology: birth chart wheel, sun sign, transits and celebrity s… |
-| 2026-10-16 21:27:11 | io.github.Habanacasta88/mystreetdata | MyStreetData USA | 1.0.0 | Read-only search and contextual metrics for 1.33M street records across 8 US st… |
-| 2026-10-16 21:27:14 | io.temprhq/connector | Tempr MCP Connector | 1.0.0 | One OAuth connector for your team's remote MCP servers, with Tool Packs, guardr… |
-| 2026-10-16 21:27:16 | io.temprhq/gateway-admin | Tempr Gateway Admin | 1.0.0 | Read Tempr AI gateway usage, keys and budgets; tighten limits; propose changes.… |
-| 2026-10-16 21:29:14 | com.onrender.promptvault-x402/tokensafe | TokenSafe by PromptVault | 1.0.0 | Free token risk check (Base/Solana) + info on paid x402 reports. Not financial… |
-| 2026-10-16 21:29:52 | [io.github.castiquark/mercadopleis](https://github.com/castiquark/mercadopleis) | Mercadopleis | 0.1.0 | Hire people for work an AI agent can't finish alone, paid through non-custodial… |
-| 2026-10-16 21:31:21 | no.formnord/print | FormNord 3D printing | 1.1.0 | Quote and order 3D prints (PETG/ABS) from STL/3MF files, printed and shipped in… |
-| 2026-10-16 21:32:39 | net.fmelo/cognita | Cognita | 1.0.0 | Passive OSINT and security recon: DNS, TLS, email posture, IP reputation, CVE/K… |
-| 2026-10-16 21:34:28 | de.kleinanzeigen-agent/mcp | Kleinanzeigen Agent | 1.0.0 | Live kleinanzeigen.de search, ad, seller, category and location data for AI cli… |
-| 2026-10-16 21:36:56 | com.pickfu/mcp | PickFu | 1.0.0 | Ask real people anything: get human feedback on ideas, images, names, and copy. |
-| 2026-10-16 21:38:25 | [io.github.France-Care/france-care](https://github.com/France-Care/claude-plugin-france-care) | France Care, accès aux soins et prévent… | 1.2.0 | Accès aux soins en France, qui saisir pour une démarche de santé, prévention en… |
-| 2026-10-16 21:39:29 | com.sleekcms/sleekcms | SleekSite AI | 1.0.0 | Describe your site and get it built. Design, create and update content, publish… |
-| 2026-10-16 21:40:11 | ai.talktogina/gina | Talk To Gina | 1.0.0 | Your AI Chief of Staff. Send Gina tasks, read its work and answer its approvals… |
-| 2026-10-16 21:42:31 | ai.promptarch/mcp |  | 1.2.0 | Research-backed lint + generation for agent context files (CLAUDE.md, AGENTS.md… |
-| 2026-10-16 21:47:08 | me.lugara/mcp | Lugara | 1.0.0 | Add trips to a Lugara travel log and read its statistics |
-| 2026-10-16 21:48:30 | [com.nicheangle/niche](https://github.com/sailquery/niche-mcp) | Niche: Your niche, followed for you | 2.0.0 | Read niche briefings, research news, and explore sourced story angles with your… |
-| 2026-10-16 21:56:16 | io.printpal/printpal | PrintPal | 1.0.0 | 3D printing: printable models, calculators, troubleshooting wiki, build guides,… |
-| 2026-10-16 21:59:40 | com.connectorreport/connectorreport |  | 1.0.0 | Dated hands-on test results for 35 tested remote MCP connectors: does it work,… |
-| 2026-10-16 22:01:10 | [io.github.pipeworx-io/eu-cellar](https://github.com/pipeworx-io/mcp-eu-cellar) | Eu Cellar | 0.1.2 | Every document the Publications Office of the European Union publishes — legisl… |
-| 2026-10-16 22:01:28 | [io.github.pipeworx-io/exoplanet-archive](https://github.com/pipeworx-io/mcp-exoplanet-archive) | Exoplanet Archive | 0.1.3 | NASA Exoplanet Archive MCP. |
-| 2026-10-16 22:02:06 | [io.github.pipeworx-io/fdic](https://github.com/pipeworx-io/mcp-fdic) | Fdic | 0.1.3 | FDIC MCP — FDIC BankFind Suite API (free, no auth) |
-| 2026-10-16 22:02:18 | [io.github.pipeworx-io/federal-register](https://github.com/pipeworx-io/mcp-federal-register) | Federal Register | 0.1.3 | Federal Register MCP — US Federal Register API (free, no auth) |
-| 2026-10-16 22:04:27 | [io.github.pipeworx-io/japan-law](https://github.com/pipeworx-io/mcp-japan-law) | Japan Law | 0.1.3 | Japan Law MCP — Japanese national laws & ordinances via the e-Gov Law API. |
-| 2026-10-16 22:06:39 | [io.github.txn2/kubefwd](https://github.com/txn2/kubefwd) |  | 1.25.17 | Kubernetes port forwarding for local development with automatic /etc/hosts entr… |
-| 2026-10-16 22:07:02 | [io.github.pipeworx-io/sec-form-d](https://github.com/pipeworx-io/mcp-sec-form-d) | Sec Form D | 0.1.6 | SEC Form D fundraising intelligence. |
-| 2026-10-16 22:07:38 | [io.github.pipeworx-io/tga-artg](https://github.com/pipeworx-io/mcp-tga-artg) | Tga Artg | 0.1.3 | TGA ARTG — the Australian Register of Therapeutic Goods, the Therapeutic Goods… |
-| 2026-10-16 22:07:50 | [io.github.pipeworx-io/treasury-fiscal](https://github.com/pipeworx-io/mcp-treasury-fiscal) | Treasury Fiscal | 0.1.6 | Treasury Fiscal MCP — US Treasury Fiscal Data API |
-| 2026-10-16 22:08:35 | [io.github.pipeworx-io/hk-elegislation](https://github.com/pipeworx-io/mcp-hk-elegislation) | Hk Elegislation | 0.1.0 | hk-elegislation — Hong Kong Ordinances, subsidiary legislation and instruments,… |
-| 2026-10-16 22:08:49 | com.findbroadbanddeals/broadband-outages | FindBroadband outages | 1.0.0 | Is my broadband down? Live UK provider status and the last 30 days of outages |
-| 2026-10-16 22:09:01 | ai.athenahq/mcp | AthenaHQ | 1.0.0 | Track how AI assistants mention, cite, and rank your brand and competitors in A… |
-| 2026-10-16 22:09:24 | [io.github.pipeworx-io/nl-rechtspraak](https://github.com/pipeworx-io/mcp-nl-rechtspraak) | Nl Rechtspraak | 0.1.0 | Netherlands court decisions (uitspraken en conclusies) — search by court, legal… |
-| 2026-10-16 22:10:58 | [io.github.pipeworx-io/tsa-passenger-volumes](https://github.com/pipeworx-io/mcp-tsa-passenger-volumes) | Tsa Passenger Volumes | 0.1.0 | tsa-passenger-volumes — daily U.S. airport checkpoint screening counts. |
-| 2026-10-16 22:11:51 | [io.github.pipeworx-io/us-drought-monitor](https://github.com/pipeworx-io/mcp-us-drought-monitor) | Us Drought Monitor | 0.1.0 | US Drought Monitor |
-| 2026-10-16 22:12:09 | ai.rippd/rippd | Rippd | 1.0.0 | Your Rippd training and nutrition data in your AI: food, workouts, weigh-ins, t… |
-| 2026-10-16 22:13:11 | dev.useproxy/proxy | Proxy | 1.0.0 | Real-time Meta, Google, LinkedIn and TikTok ad library access for AI assistants… |
-| 2026-10-16 22:15:22 | org.warriorsfund/wounded-warriors | Wounded Warriors | 1.2.0 | Veteran resources, VA benefits help and giving details from Wounded Warriors (E… |
+| 2026-10-16 22:20:44 | com.cheapnypublication/ny-llc | Cheap NY Publication: New York LLC fili… | 1.0.0 | Look up any New York LLC: publication deadline, county and price. Quotes for NY… |
+| 2026-10-16 22:20:59 | io.github.chenweilie/cleanairdata | CleanAirData | 0.1.0 | Historical PM2.5 and Clean Air Score for US cities; copied records name their s… |
+| 2026-10-16 22:22:07 | com.agonna/agonna | Agonna | 0.39.0 | Let AI agents from any provider message each other, form teams and get matched… |
+| 2026-10-16 22:23:35 | [io.github.neelsatyavolu/consult](https://github.com/neelsatyavolu/consult) |  | 1.0.1 | Get a second opinion on your code from every coding agent you have. No API keys. |
+| 2026-10-16 22:24:04 | [io.github.shittuay/devops-agent](https://github.com/shittuay/DevOps-Agent) | DevOps Agent | 1.0.7 | Manage AWS, Azure, GCP, Kubernetes, CI/CD, Docker, Terraform and more. 704 tool… |
+| 2026-10-16 22:30:15 | [io.browserless/mcp](https://github.com/browserless/browserless-mcp) | Browserless | 1.39.0 | Official Browserless MCP server: browser automation, scraping, screenshots and… |
+| 2026-10-16 22:36:36 | io.github.alfongj-com/canishop-agent-checkout | CanIShop — Agent checkout reviews | 0.2.0 | Check and share agent checkout reports: bot blocks, payment methods, outcomes a… |
+| 2026-10-16 22:40:32 | [io.github.marcoret74/semantic-geometry](https://github.com/marcoret74/sg) | Semantic Geometry | 1.0.0 | Deterministic verifier: LLM proposes, graph verifies. Sub-ms, offline, 0 tokens. |
+| 2026-10-16 22:43:59 | io.botsee/botsee | BotSee | 1.0.0 | Monitor AI search visibility, competitors, keywords, and sources; manage analys… |
+| 2026-10-16 22:47:33 | [io.github.ganterlab/ganter-lab](https://github.com/ganterlab/ganter-lab-mcp) | Ganter Lab | 1.0.0 | SCADA station on your computer that an AI assistant reads, configures and opera… |
+| 2026-10-16 22:50:58 | [com.opus-growth/mcp](https://github.com/opusgrowth/Opus-Growth-The-MCP-Connector-for-Ad-Platforms) | Opus Growth | 1.4.0 | Run Google, Meta, TikTok, LinkedIn and Microsoft Ads, GA4, Search Console and W… |
+| 2026-10-16 22:51:37 | com.ampworth/calculators | Ampworth calculators | 1.0.20261016 | UK solar PV and heat pump calculators that follow the published MCS methods. Op… |
+| 2026-10-16 22:51:38 | com.ampworth/documents | Ampworth documents | 1.0.20261016 | Search and read UK guides on solar PV, heat pumps, batteries and MCS certificat… |
+| 2026-10-16 22:51:40 | app.ironledger/strength-calculators | IronLedger strength calculators | 1.0.0 | Free strength-training calculators: one-rep max, RPE loads, barbell plates, war… |
+| 2026-10-16 22:54:08 | com.addshuffle/shuffle | Shuffle | 1.0.0 | Runs your Instagram, Facebook, TikTok, YouTube and Google Business: posts, DMs,… |
+| 2026-10-16 22:54:10 | com.dexsheet/mcp | DexSheet | 1.0.0 | Fees, availability and referral terms for 60+ crypto trading venues (Axiom, Pum… |
+| 2026-10-16 22:57:21 | com.botrecipe/vault | Login Vault | 1.0.0 | Scoped login vault: your bot signs in to sites without ever seeing the password. |
+| 2026-10-16 23:05:29 | co.solarsens/solarsens-mcp | SolarSENS | 0.1.0 | Read-only access to authorized SolarSENS solar plants, performance, devices, an… |
+| 2026-10-16 23:08:35 | com.modevc/radar | Mode VC: AI Venture Research Charts & I… | 2.0.0 | Query 38 empirical AI market charts, evaluate distribution defensibility, and s… |
+| 2026-10-16 23:11:36 | dev.workers.erikssonanton2001.pagewatch/pagewatch | PageWatch - page-to-data extraction and… | 1.0.0 | Extract prices, lists, tables, events from static pages and watch them for chan… |
+| 2026-10-16 23:14:55 | dev.workers.okwithit9.verify-x402/contact-verify | Contact Verify | 1.0.0 | Email ($0.01) and phone ($0.02) checks. Pays USDC on Base via x402. |
+| 2026-10-16 23:15:13 | [ch.antevo/0700-brief](https://github.com/ANTEVO-CH/antevo-mcp) | The 07:00 Brief | 1.0.0 | Your agent knows the markets by 07:00, every day. We read them so you don't hav… |
+| 2026-10-16 23:15:14 | [ch.antevo/executive](https://github.com/ANTEVO-CH/antevo-mcp) | Antevo Executive Brief | 1.0.1 | Market and world intelligence — the daily editorial read, risk radar and dated… |
+| 2026-10-16 23:15:15 | [ch.antevo/trademark](https://github.com/ANTEVO-CH/antevo-mcp) | Antevo Trademark | 1.0.1 | Is that brand name taken? Screen the registers and check the opposition window.… |
+| 2026-10-16 23:15:16 | [ch.antevo/wealth](https://github.com/ANTEVO-CH/antevo-mcp) | Antevo Wealth | 1.0.1 | The family estate in full — what you hold, what you owe, and what it is exposed… |
+| 2026-10-16 23:15:16 | [ch.antevo/mandates](https://github.com/ANTEVO-CH/antevo-mcp) | Antevo Mandates | 1.0.1 | Your client book: who is due a review, what their mandate allows, and what has… |
 
 ## Data source
 
