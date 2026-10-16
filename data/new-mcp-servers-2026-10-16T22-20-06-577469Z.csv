@@ -1,0 +1,43 @@
+created_at,server,title,version,repository,transports,description
+2026-10-16T21:21:17.226681Z,com.shotlingo/mcp,Shotlingo,1.0.1,https://github.com/AlperenGuntekin/shotlingo-mcp,streamable-http,"App Store and Google Play screenshot generator: design, localize into 41 languages, render, upload."
+2026-10-16T21:22:31.313214Z,io.github.web3wes/agentcomms,Agentcomms,0.2.0,https://github.com/web3wes/agentcomms,,Account-free encrypted messaging between AI agents over a public Agentcomms hub.
+2026-10-16T21:23:02.878468Z,dev.sitenoar/sitenoar,Site no Ar,1.0.0,,streamable-http,"Crie, edite e publique sites e apps web pelo seu agente de IA, com domínio próprio."
+2026-10-16T21:24:39.555797Z,com.simplefatoora/mcp,Simple Fatoora,1.0.0,,streamable-http,"Saudi e-invoicing: invoices, quotations, sales and VAT reports, and ZATCA Phase 2."
+2026-10-16T21:24:48.914454Z,pt.50nos/feriados,Feriados,1.1.1,,streamable-http,"Portugal's public holidays: national, regional and municipal (all 308 concelhos), 2026 and 2027."
+2026-10-16T21:25:41.877375Z,com.traydstar/marketplace,TraydStar,0.1.0,https://github.com/babcobb287/traydstar-mcp,streamable-http,"Barter marketplace where AI agents and people trade services and goods, no cash between traders."
+2026-10-16T21:27:06.077753Z,io.github.yulo-max/stellara-mcp,Stellara,0.6.2,https://github.com/yulo-max/stellara-mcp-public,streamable-http,"Plain-language astrology: birth chart wheel, sun sign, transits and celebrity star matches (en/nl)."
+2026-10-16T21:27:11.361118Z,io.github.Habanacasta88/mystreetdata,MyStreetData USA,1.0.0,,streamable-http,Read-only search and contextual metrics for 1.33M street records across 8 US states.
+2026-10-16T21:27:14.919715Z,io.temprhq/connector,Tempr MCP Connector,1.0.0,,streamable-http,"One OAuth connector for your team's remote MCP servers, with Tool Packs, guardrails and logs."
+2026-10-16T21:27:16.980601Z,io.temprhq/gateway-admin,Tempr Gateway Admin,1.0.0,,streamable-http,"Read Tempr AI gateway usage, keys and budgets; tighten limits; propose changes. Gateway Pro and up."
+2026-10-16T21:29:14.710505Z,com.onrender.promptvault-x402/tokensafe,TokenSafe by PromptVault,1.0.0,,streamable-http,Free token risk check (Base/Solana) + info on paid x402 reports. Not financial advice.
+2026-10-16T21:29:52.480986Z,io.github.castiquark/mercadopleis,Mercadopleis,0.1.0,https://github.com/castiquark/mercadopleis,,"Hire people for work an AI agent can't finish alone, paid through non-custodial USDC escrow on Base."
+2026-10-16T21:31:21.609118Z,no.formnord/print,FormNord 3D printing,1.1.0,,streamable-http,"Quote and order 3D prints (PETG/ABS) from STL/3MF files, printed and shipped in Norway."
+2026-10-16T21:32:39.601316Z,net.fmelo/cognita,Cognita,1.0.0,,streamable-http,"Passive OSINT and security recon: DNS, TLS, email posture, IP reputation, CVE/KEV, CT logs."
+2026-10-16T21:34:28.620496Z,de.kleinanzeigen-agent/mcp,Kleinanzeigen Agent,1.0.0,,streamable-http,"Live kleinanzeigen.de search, ad, seller, category and location data for AI clients"
+2026-10-16T21:36:56.884633Z,com.pickfu/mcp,PickFu,1.0.0,,streamable-http,"Ask real people anything: get human feedback on ideas, images, names, and copy."
+2026-10-16T21:38:25.385753Z,io.github.France-Care/france-care,"France Care, accès aux soins et prévention",1.2.0,https://github.com/France-Care/claude-plugin-france-care,streamable-http,"Accès aux soins en France, qui saisir pour une démarche de santé, prévention en entreprise."
+2026-10-16T21:39:29.879443Z,com.sleekcms/sleekcms,SleekSite AI,1.0.0,,streamable-http,"Describe your site and get it built. Design, create and update content, publish daily on autopilot."
+2026-10-16T21:40:11.86784Z,ai.talktogina/gina,Talk To Gina,1.0.0,,streamable-http,"Your AI Chief of Staff. Send Gina tasks, read its work and answer its approvals from any AI tool."
+2026-10-16T21:42:31.721795Z,ai.promptarch/mcp,,1.2.0,,streamable-http,"Research-backed lint + generation for agent context files (CLAUDE.md, AGENTS.md) + prompt enhancer."
+2026-10-16T21:47:08.971779Z,me.lugara/mcp,Lugara,1.0.0,,streamable-http,Add trips to a Lugara travel log and read its statistics
+2026-10-16T21:48:30.177911Z,com.nicheangle/niche,"Niche: Your niche, followed for you",2.0.0,https://github.com/sailquery/niche-mcp,streamable-http,"Read niche briefings, research news, and explore sourced story angles with your assistant."
+2026-10-16T21:56:16.224948Z,io.printpal/printpal,PrintPal,1.0.0,,streamable-http,"3D printing: printable models, calculators, troubleshooting wiki, build guides, AI 3D + CAD design."
+2026-10-16T21:59:40.606718Z,com.connectorreport/connectorreport,,1.0.0,,streamable-http,"Dated hands-on test results for 35 tested remote MCP connectors: does it work, how to sign in."
+2026-10-16T22:01:10.893074Z,io.github.pipeworx-io/eu-cellar,Eu Cellar,0.1.2,https://github.com/pipeworx-io/mcp-eu-cellar,streamable-http,"Every document the Publications Office of the European Union publishes — legislation, treaties…"
+2026-10-16T22:01:28.817415Z,io.github.pipeworx-io/exoplanet-archive,Exoplanet Archive,0.1.3,https://github.com/pipeworx-io/mcp-exoplanet-archive,streamable-http,NASA Exoplanet Archive MCP.
+2026-10-16T22:02:06.796768Z,io.github.pipeworx-io/fdic,Fdic,0.1.3,https://github.com/pipeworx-io/mcp-fdic,streamable-http,"FDIC MCP — FDIC BankFind Suite API (free, no auth)"
+2026-10-16T22:02:18.681173Z,io.github.pipeworx-io/federal-register,Federal Register,0.1.3,https://github.com/pipeworx-io/mcp-federal-register,streamable-http,"Federal Register MCP — US Federal Register API (free, no auth)"
+2026-10-16T22:04:27.670029Z,io.github.pipeworx-io/japan-law,Japan Law,0.1.3,https://github.com/pipeworx-io/mcp-japan-law,streamable-http,Japan Law MCP — Japanese national laws & ordinances via the e-Gov Law API.
+2026-10-16T22:06:39.153979Z,io.github.txn2/kubefwd,,1.25.17,https://github.com/txn2/kubefwd,,Kubernetes port forwarding for local development with automatic /etc/hosts entries.
+2026-10-16T22:07:02.481166Z,io.github.pipeworx-io/sec-form-d,Sec Form D,0.1.6,https://github.com/pipeworx-io/mcp-sec-form-d,streamable-http,SEC Form D fundraising intelligence.
+2026-10-16T22:07:38.518045Z,io.github.pipeworx-io/tga-artg,Tga Artg,0.1.3,https://github.com/pipeworx-io/mcp-tga-artg,streamable-http,"TGA ARTG — the Australian Register of Therapeutic Goods, the Therapeutic Goods Administration's…"
+2026-10-16T22:07:50.026432Z,io.github.pipeworx-io/treasury-fiscal,Treasury Fiscal,0.1.6,https://github.com/pipeworx-io/mcp-treasury-fiscal,streamable-http,Treasury Fiscal MCP — US Treasury Fiscal Data API
+2026-10-16T22:08:35.207528Z,io.github.pipeworx-io/hk-elegislation,Hk Elegislation,0.1.0,https://github.com/pipeworx-io/mcp-hk-elegislation,streamable-http,"hk-elegislation — Hong Kong Ordinances, subsidiary legislation and instruments, bilingually…"
+2026-10-16T22:08:49.859689Z,com.findbroadbanddeals/broadband-outages,FindBroadband outages,1.0.0,,streamable-http,Is my broadband down? Live UK provider status and the last 30 days of outages
+2026-10-16T22:09:01.665261Z,ai.athenahq/mcp,AthenaHQ,1.0.0,,streamable-http,"Track how AI assistants mention, cite, and rank your brand and competitors in AI search."
+2026-10-16T22:09:24.984051Z,io.github.pipeworx-io/nl-rechtspraak,Nl Rechtspraak,0.1.0,https://github.com/pipeworx-io/mcp-nl-rechtspraak,streamable-http,"Netherlands court decisions (uitspraken en conclusies) — search by court, legal domain and date…"
+2026-10-16T22:10:58.034726Z,io.github.pipeworx-io/tsa-passenger-volumes,Tsa Passenger Volumes,0.1.0,https://github.com/pipeworx-io/mcp-tsa-passenger-volumes,streamable-http,tsa-passenger-volumes — daily U.S. airport checkpoint screening counts.
+2026-10-16T22:11:51.456171Z,io.github.pipeworx-io/us-drought-monitor,Us Drought Monitor,0.1.0,https://github.com/pipeworx-io/mcp-us-drought-monitor,streamable-http,US Drought Monitor
+2026-10-16T22:12:09.786037Z,ai.rippd/rippd,Rippd,1.0.0,,streamable-http,"Your Rippd training and nutrition data in your AI: food, workouts, weigh-ins, targets, coach notes."
+2026-10-16T22:13:11.142711Z,dev.useproxy/proxy,Proxy,1.0.0,,streamable-http,"Real-time Meta, Google, LinkedIn and TikTok ad library access for AI assistants. No API keys."
+2026-10-16T22:15:22.418496Z,org.warriorsfund/wounded-warriors,Wounded Warriors,1.2.0,,streamable-http,"Veteran resources, VA benefits help and giving details from Wounded Warriors (EIN 86-1336741)"
