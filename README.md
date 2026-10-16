@@ -9,48 +9,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 18:18 UTC
+## Latest list — 2026-10-16 19:19 UTC
 
-New MCP servers published between 2026-10-16 17:19 UTC and 2026-10-16 18:18 UTC.
+New MCP servers published between 2026-10-16 18:18 UTC and 2026-10-16 19:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-16T18-18-48-027125Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-16T19-19-21-538786Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-16 17:21:09 | com.callejear/france | Callejear France | 1.0.0 | Search 2.19M French street records, IRIS-level amenities and commune-level risk… |
-| 2026-10-16 17:27:25 | io.becomefluent/fluent | Fluent | 1.0.0 | Your work meetings, notes, people, tasks and follow-ups from Fluent, in your AI… |
-| 2026-10-16 17:28:45 | [ai.bynor/bynor](https://github.com/Bynor-S-R-L/bynor-mcp) | Bynor | 1.0.0 | Social media for brands: editorial plans, on-brand images, scheduling, publishi… |
-| 2026-10-16 17:33:04 | ai.pitchboost/pitchboost | PitchBoost | 0.2.0 | Redesign a PowerPoint in your brand, or build a sales deck for a prospect. Retu… |
-| 2026-10-16 17:36:11 | [io.github.ChaconLucas/tokenbar](https://github.com/ChaconLucas/tokenbar) | TokenBar | 0.5.3 | AI usage limits (Claude Code, Codex, Copilot, Windsurf): check budget and time… |
-| 2026-10-16 17:36:24 | [io.github.p7y-dev/p7y](https://github.com/p7y-dev/p7y) | Purgatory (p7y) | 0.7.0 | Self-hosted Docker sandboxes for agents: create one, deploy a compose stack, re… |
-| 2026-10-16 17:40:30 | [one.faf/faf-mcp](https://github.com/Wolfe-Jam/faf-mcp) | .FAF Context | 4.0.1 | .FAF Context — persistent project context for Cursor, VS Code and every MCP-com… |
-| 2026-10-16 17:42:28 | [io.github.jyswee/computegpu](https://github.com/jyswee/computegpu-cli) |  | 1.2.1 | Rent cloud GPUs from your agent: live catalogue, deploy, stop, destroy. Per-sec… |
-| 2026-10-16 17:45:01 | [io.github.cuemap-dev/cuemap-mcp](https://github.com/cuemap-dev/cuemap-mcp) |  | 0.7.5 | Local memory and context retrieval for AI agents through CueMap. |
-| 2026-10-16 17:48:17 | [io.github.harsh-chandak/agentguard](https://github.com/harsh-chandak/agentguard) |  | 0.1.0 | Stop a team of coding agents contradicting each other. Deterministic, no model… |
-| 2026-10-16 17:49:13 | com.dubaitable/booking | Dubai Table | 1.0.0 | Book tables at Dubai's top restaurants, beach clubs and nights: live availabili… |
-| 2026-10-16 17:49:20 | [com.ordkort/ordkort](https://github.com/silicq/ordkort) | Ordkort | 1.0.0 | Flashcard decks with pictures and card designs for a free vocabulary site in 60… |
-| 2026-10-16 17:50:02 | dev.tanod/bank-statement | Bank Statement to CSV (Tanod) | 0.1.0 | Bank statement PDFs become CSV or JSON transactions with dates, amounts and bal… |
-| 2026-10-16 17:50:05 | dev.tanod/pdf-tables | PDF Table Extractor (Tanod) | 0.1.0 | Pull tables out of a PDF as rows and cells, ready for a spreadsheet or a data p… |
-| 2026-10-16 17:50:08 | dev.tanod/pdf-to-word | PDF to Word Converter (Tanod) | 0.1.0 | PDF in, editable Word (.docx) out, with a download link for the converted file. |
-| 2026-10-16 17:50:11 | dev.tanod/html-to-markdown | Web Page to Markdown (Tanod) | 0.1.0 | Turn any web page URL or HTML into clean Markdown or plain text for an LLM to r… |
-| 2026-10-16 17:51:59 | [io.github.Seidl-Family/ncrypted](https://github.com/Seidl-Family/ncrypted) | ncrypted | 0.1.1 | One-time, end-to-end encrypted secrets for agents. 0.005 USDC per secret via x4… |
-| 2026-10-16 17:52:21 | dev.workers.erikssonanton2001.agentkit-x402/agentkit | AgentKit x402 - pay-per-call tools for… | 1.0.0 | Email, DNS, SPF/DMARC, site contacts, Markdown, IBAN, Swedish validators. Pay p… |
-| 2026-10-16 17:53:38 | [fun.pumpview/trading](https://github.com/nikdeveloper1555/pumpview-agent-kit) | PumpView — Solana Trading & Live Data | 1.2.0 | Solana swaps with local signing, confirmed receipts, trading volume and filtere… |
-| 2026-10-16 17:55:46 | [io.github.ModelPiper/toolpiper](https://github.com/ModelPiper/toolpiper.git) |  | 0.0.10-beta | On-device MCP tools for macOS: local AI, speech, vision, browser automation, sy… |
-| 2026-10-16 17:57:50 | [io.github.321zz321/computefirst](https://github.com/321zz321/computefirst-skill) | ComputeFirst | 1.0.0 | Free deterministic tools for math, data transforms, dates, text, statistics, fi… |
-| 2026-10-16 17:58:40 | io.github.benjammartin/wikibrand | WikiBrand | 1.0.0 | Logo, colors, typefaces, tone of voice and CSS theme of any brand, read from it… |
-| 2026-10-16 18:00:16 | br.com.jettracker/jet-tracker | Jet Tracker | 0.12.0 | Brazilian business aviation: registry, owner, flights, base, market, maintenanc… |
-| 2026-10-16 18:00:24 | io.github.zerotohundred-admin/marketplace | Zero to Hundred marketplace | 1.1.0 | Search live software, compare listings, and prepare owned drafts. Publishing st… |
-| 2026-10-16 18:00:49 | com.awardclaw/award-travel | AwardClaw Award Travel | 1.0.0 | Business and first class award seat alerts, saver availability search, trip wat… |
-| 2026-10-16 18:02:52 | [com.bimcli/bim-cli](https://github.com/HelloHowAreYouHaveANiceDay/bim-cli-plugin) | bim-cli | 0.26.0 | Let agents drive Revit, AutoCAD, SketchUp, Blender and PDF sets on your own Win… |
-| 2026-10-16 18:04:03 | net.tnapplianceexchange/repair | TN Appliance Exchange — appliance repair | 1.0.0 | Family appliance repair in TN + LA: diagnose a problem, check a ZIP, book a rep… |
-| 2026-10-16 18:07:34 | io.decadata/odyssey-lite | DecaData Odyssey Lite | 1.0.0 | US point-of-sale sales for ~380 consumer companies: free search and samples, Yo… |
-| 2026-10-16 18:08:40 | [io.github.harsh-chandak/orchestraguard](https://github.com/harsh-chandak/orchestraguard) |  | 0.1.0 | Stop a team of coding agents contradicting each other. Deterministic, no model… |
-| 2026-10-16 18:13:40 | com.signupbouncer/checker | SignupBouncer | 1.1.1 | An API that checks new signups for disposable emails and repeat accounts. |
-| 2026-10-16 18:14:54 | ai.circleback/circleback | Circleback | 1.0.0 | Search and use your Circleback meeting notes, transcripts, and action items in… |
-| 2026-10-16 18:14:55 | [io.github.zifengw/eu-business-data-mcp](https://github.com/zifengw/eu-business-data-mcp) | EU Business Data (VAT, EORI, company, s… | 1.0.0 | EU VAT (VIES) and EORI validation, company lookup, sanctions screening and KYB.… |
-| 2026-10-16 18:15:53 | com.botrecipe/relay | Human Handoff relay | 1.0.0 | Hands CAPTCHAs, 2FA codes and approvals from your agent to your human with one… |
-| 2026-10-16 18:16:16 | com.pdfoven/pdfoven | PDFOven | 0.1.0 | Generate PDFs and images from HTML, Markdown, URLs or JSON templates. |
+| 2026-10-16 18:22:58 | de.zestio/zestio-mcp | Zestio | 1.0.0 | MCP server for real-estate agents: listings, CRM, German market data and AI med… |
+| 2026-10-16 18:23:41 | [io.audifact/audifact](https://github.com/audifact/audifact-plugin) | Audifact | 0.1.0 | Signed, append-only receipts of an AI agent's decisions and outcomes, with publ… |
+| 2026-10-16 18:24:58 | [io.github.patrickpassosb/renor](https://github.com/patrickpassosb/renor-engine) | Renor | 1.0.0 | Private memory for AI agents: save and recall facts across Claude Code, Codex,… |
+| 2026-10-16 18:29:48 | dev.tanod/document-to-markdown | Document to Markdown (Tanod) | 0.1.0 | Document to Markdown: convert Word, Excel, PowerPoint and PDF files to Markdown… |
+| 2026-10-16 18:30:47 | [ai.flora/flora](https://github.com/florafauna-ai/flora-mcp-skills) | FLORA | 0.11.5 | Generate and edit images, video, audio, text and 3D on FLORA's AI creative canv… |
+| 2026-10-16 18:32:31 | [com.tamilcalendar/panchangam](https://github.com/domaincrush/tamilcalendar) |  | 0.4.0 | Deterministic panchangam, astrology, Vastu and numerology data across 31 DailyW… |
+| 2026-10-16 18:33:37 | app.hidemail/hidemail | HideMail | 1.1.1 | Private email aliases that forward to your inbox: create, find, edit and turn a… |
+| 2026-10-16 18:35:42 | fi.usdf/gateway | Foundry: prepaid AI compute in USDF | 1.0.0 | Prepaid AI compute in USDF: models, quotes and chat with a receipt; pay per cal… |
+| 2026-10-16 18:38:03 | [io.github.TAM-DS/guardrails-mcp](https://github.com/TAM-DS/guardrails-mcp) | GuardRails-MCP | 0.1.1 | Local prompt regression tracker with six fictional cases and evidence for human… |
+| 2026-10-16 18:46:40 | [app.seoaeogeo/seo-aeo-geo](https://github.com/aispiringcoder4302/seo-aeo-geo-mcp) | SEO·AEO·GEO | 1.0.0 | Audit a page for Google and AI search (ChatGPT, Claude, Perplexity); get a fix… |
+| 2026-10-16 18:52:17 | [io.github.lokal-id/lokal](https://github.com/lokal-id/lokal) | Lokal | 0.2.2 | Indonesia-ready agents: NIK, phone, Rupiah, regions, postal codes, holidays, an… |
+| 2026-10-16 18:52:31 | [io.github.pcp183/airport-weather](https://github.com/pcp183/airport-weather) | Airport Weather & Delays (METAR, TAF, F… | 0.1.0 | Airport METAR/TAF weather and FAA delay status by ICAO/IATA code, from NOAA and… |
+| 2026-10-16 18:52:31 | [io.github.pcp183/paper-lookup](https://github.com/pcp183/paper-lookup) | Research Paper & DOI Lookup (Crossref) | 0.1.0 | Resolve DOIs and search 150M+ scholarly works (Crossref): authors, journal, cit… |
+| 2026-10-16 18:52:32 | [io.github.pcp183/vin-decode](https://github.com/pcp183/vin-decode) | VIN Decoder + Safety Recalls (NHTSA) | 0.1.0 | Decode any VIN (NHTSA vPIC) and list safety recalls for that make, model and ye… |
+| 2026-10-16 18:52:32 | [io.github.pcp183/macro-indicators](https://github.com/pcp183/macro-indicators) | Country Macro Indicators (World Bank) | 0.1.0 | World Bank macro indicators (GDP, growth, inflation, unemployment, debt) for an… |
+| 2026-10-16 18:52:32 | [io.github.pcp183/drug-safety](https://github.com/pcp183/drug-safety) | Drug Label, Recall & Adverse Event Chec… | 0.1.0 | FDA drug label facts, recalls and top adverse reactions by drug name (openFDA).… |
+| 2026-10-16 18:52:33 | [io.github.pcp183/domain-check](https://github.com/pcp183/domain-check) | Domain Trust Check (DNS, Email Auth, TL… | 0.1.0 | Live domain trust checks: DNS, MX, SPF, DMARC, DNSSEC, TLS certificate and HTTP… |
+| 2026-10-16 18:52:33 | [io.github.pcp183/ip-geo](https://github.com/pcp183/ip-geo) | IP Country & Network Lookup (DB-IP Lite) | 0.1.0 | IPv4/IPv6 to country and ASN/organisation (DB-IP Lite, CC BY 4.0), batch of 50.… |
+| 2026-10-16 18:52:34 | [io.github.pcp183/business-days](https://github.com/pcp183/business-days) | Public Holidays & Business Days (200+ c… | 0.1.0 | Public holidays and business-day math (add, count, check) for 200+ countries an… |
+| 2026-10-16 18:52:34 | [io.github.pcp183/hs-tariff](https://github.com/pcp183/hs-tariff) | Customs Tariff Lookup (UK Trade Tariff… | 0.1.0 | UK Trade Tariff and US HTS duty rates by HS code or keyword, with UK preference… |
+| 2026-10-16 18:52:35 | [io.github.pcp183/email-verify](https://github.com/pcp183/email-verify) | Email Address Check (syntax, MX, dispos… | 0.1.0 | Email address checks: syntax, MX, disposable, role, free-mail, SPF/DMARC, batch… |
+| 2026-10-16 18:52:57 | kr.caregrade/catalog | 케어그레이드 — 장기요양기관 평가 조회 | 1.0.0 | Korean long-term care institutions: NHIS evaluation grade, year, address, staff… |
+| 2026-10-16 18:59:30 | [io.github.magist-io/magist](https://github.com/magist-io/magist-mcp-server) | Magist | 0.1.1 | Deterministic, cited regulatory research for product launches; legal informatio… |
+| 2026-10-16 19:00:28 | com.chiefisnext/chief | Chief | 1.0.0 | Many agents. One Chief. Plan, track, and manage all your AI agents in one place. |
+| 2026-10-16 19:01:42 | io.github.wgan/picturebooks | PictureBooks | 0.2.0 | Create and read private AI-illustrated storybooks with your PictureBooks accoun… |
+| 2026-10-16 19:04:15 | com.open-factory/open-factory | Open Factory | 1.0.0 | Lead times, prices, tariffs and grid interconnection terms for factory and data… |
+| 2026-10-16 19:09:32 | net.gamebattle/catalog | GameBattle | 1.0.0 | GameBattle (gamebattle.net) Korean esports: public tournaments, games, PC bang… |
+| 2026-10-16 19:09:38 | net.useapi/google-vids | Google Vids MCP Server by useapi.net (t… | 1.0.0 | Google Vids: Gemini Omni video with sound, voiced avatars, extend, upscale, edi… |
+| 2026-10-16 19:09:40 | [io.github.Sooonic008/taste-overlap](https://github.com/Sooonic008/taste-overlap) | Taste Overlap | 0.1.0 | Plans a shared evening for two people: places both would enjoy, ranked by Qloo'… |
+| 2026-10-16 19:11:46 | io.github.Groundmail/groundmail | Groundmail | 0.5.9 | Send transactional email and manage domains, templates, webhooks and suppressio… |
+| 2026-10-16 19:12:48 | tech.distribution/distribution |  | 1.18.0 | Priced X creators, campaigns from a goal, plan changes, mandated payment links,… |
+| 2026-10-16 19:13:36 | io.github.LKennedyShare/hybriqx-workout-adaptation | Hybriqx Workout Adaptation | 0.1.0 | Advisory workout adaptation via hosted MCP and x402. Python buyer with operator… |
+| 2026-10-16 19:13:38 | [io.github.skyradi/lat](https://github.com/skyradi/lat) | LAT - Living Apart Together | 1.0.0 | Open, unverified census of what AI agents can do; connect and self-report. |
+| 2026-10-16 19:16:29 | io.github.Situated-AI/enni | Enni | 1.0.0 | Check if a GitHub issue is ready before you or your coding agent start it. Read… |
+| 2026-10-16 19:18:16 | ai.ploti/ploti | Ploti | 0.1.0 | US parcel, zoning, ordinance and permit data, with a Python sandbox to query an… |
+| 2026-10-16 19:18:26 | [io.github.agenticsolutions-hq/openalex-mcp](https://github.com/agenticsolutions-hq/openalex-mcp-listing) | OpenAlex MCP Server | 0.1.2 | Search OpenAlex papers, authors, institutions and citations. Hosted on Apify; n… |
+| 2026-10-16 19:19:16 | eu.coudrebros/nft-minting | CBROS Cardano NFT Minter | 1.1.0 | Pay-and-mint Cardano NFT (CIP-25) in one atomic tx. Non-custodial. MCP-native.… |
 
 ## Data source
 
