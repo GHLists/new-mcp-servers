@@ -9,56 +9,68 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 03:20 UTC
+## Latest list — 2026-10-16 04:19 UTC
 
-New MCP servers published between 2026-10-16 02:20 UTC and 2026-10-16 03:20 UTC.
+New MCP servers published between 2026-10-16 03:20 UTC and 2026-10-16 04:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-16T03-20-52-410837Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-16T04-19-57-379462Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-16 02:23:40 | [io.github.Servosity/afi-mcp](https://github.com/servosity/msp-skills) | Afi MCP | 0.1.5 | The first CLI for Afi SaaS backup - full public-API coverage plus the fleet-wid… |
-| 2026-10-16 02:23:58 | [io.github.Servosity/abnormal-mcp](https://github.com/servosity/msp-skills) | Abnormal Security MCP | 0.1.4 | Abnormal Security email threats, cases, and reporting in your terminal and your… |
-| 2026-10-16 02:25:22 | com.hlnapparel/clothing-manufacturer | HLN Apparel — clothing manufacturer | 1.0.0 | China clothing factory: categories, MOQ, lead times, US HS duty, GSM, buyer-con… |
-| 2026-10-16 02:25:23 | si.findadoctor.api-fr/fr-doctor-finder | FindADoctor.si France | fr-2026-10-16.1 | Find doctors in France by condition, procedure or place, with fee category and… |
-| 2026-10-16 02:27:39 | [build.automo/automo-build](https://github.com/Desygner/ciao) | Automo Build | 0.1.0 | Operate Automo Build, the AI app builder, as yourself: projects, builds, QA, se… |
-| 2026-10-16 02:30:34 | [io.github.Servosity/appdirect-mcp](https://github.com/servosity/msp-skills) | AppDirect MCP | 0.1.6 | AppDirect marketplace operations with an offline mirror and cross-company billi… |
-| 2026-10-16 02:30:42 | [io.github.Servosity/atera-mcp](https://github.com/servosity/msp-skills) | Atera MCP | 0.1.5 | Every Atera RMM + PSA endpoint, plus a local SQLite mirror that answers fleet-h… |
-| 2026-10-16 02:30:50 | ua.com.tehet.mcp/insurance-prices | TEHET | 0.2.0 | Indicative Ukrainian motor insurance, Green Card and fuel prices. Anonymous, re… |
-| 2026-10-16 02:31:38 | [io.github.Servosity/autotask-mcp](https://github.com/servosity/msp-skills) | Autotask MCP | 0.1.6 | Every Autotask entity at the command line, plus a local SQLite mirror that answ… |
-| 2026-10-16 02:36:47 | io.github.hardtab/supermailbox | SuperMailbox | 0.1.0 | Search connected email, read and manage messages, draft and send, and manage ru… |
-| 2026-10-16 02:36:52 | io.github.Reksely/korpi-api-mcp | Korpi API | 0.1.0 | MCP server for the Korpi API: every top AI video, image and text model behind o… |
-| 2026-10-16 02:37:50 | [io.github.Servosity/blumira-mcp](https://github.com/servosity/msp-skills) | Blumira MCP | 0.1.4 | Cross-account Blumira findings, detections, and agents in one offline-searchabl… |
-| 2026-10-16 02:38:10 | com.fixmycontract/info | FixMyContract — contract clause informa… | 1.0.0 | Explains common contract clause types, with CUAD frequency data. Informational… |
-| 2026-10-16 02:38:14 | [io.github.Servosity/betterstack-mcp](https://github.com/servosity/msp-skills) | Better Stack MCP | 0.1.4 | Every Better Stack Uptime feature, plus an offline SQLite mirror and cross-reso… |
-| 2026-10-16 02:39:10 | [io.github.Servosity/aws-billing-mcp](https://github.com/servosity/msp-skills) | Amazon Web Services MCP | 0.1.5 | Get a non-expert from zero to a Slack-delivered, plain-English, waste-flagged A… |
-| 2026-10-16 02:45:21 | [io.github.Servosity/connectwise-automate-mcp](https://github.com/servosity/msp-skills) | ConnectWise Automate MCP | 0.1.4 | Sync your ConnectWise Automate fleet to local SQLite and answer cross-client RM… |
-| 2026-10-16 02:46:36 | uk.lemou.ai/free-tools | Lemou Free APIs for AI Agents | 1.0.0 | Free HTML/CSV conversion, JSON validation, text stats and time APIs. Optional a… |
-| 2026-10-16 02:48:36 | [io.github.wyeming95-rgb/smartmoney-data](https://github.com/wyeming95-rgb/smartmoney-data-mcp) | Smart Money Data (SEC, 13F, Congress, I… | 1.0.0 | SEC filings, 13F, Form 4 insider trades, Congress trades, short interest and PD… |
-| 2026-10-16 02:48:38 | [io.github.wyeming95-rgb/openfda-recalls](https://github.com/wyeming95-rgb/smartmoney-data-mcp) | FDA Recall Checker (openFDA) | 1.0.0 | Check products against FDA food, drug and device recalls; drug labels, NDC, 510… |
-| 2026-10-16 02:48:41 | [io.github.wyeming95-rgb/tech-stack-detector](https://github.com/wyeming95-rgb/smartmoney-data-mcp) | Website Tech Stack Detector | 1.0.0 | Detect ecommerce platform, CMS, analytics, ad pixels, CDN and payments on any l… |
-| 2026-10-16 02:50:48 | app.speakeroo/speaking-coach | Speakeroo speaking coach | 1.0.0 | AI speaking coach: feedback on speeches from text or audio, plus topics, pronun… |
-| 2026-10-16 02:51:16 | [io.github.SummerEngine/summer](https://github.com/summerengine/summer) | Summer Engine | 4.0.0 | The game engine built for AI. Any agent makes a multiplayer game and publishes… |
-| 2026-10-16 02:51:49 | [io.github.Servosity/crowdstrike-mcp](https://github.com/servosity/msp-skills) | CrowdStrike MCP | 0.1.6 | Every CrowdStrike Falcon MSP operation, plus a Flight-Control-aware local store… |
-| 2026-10-16 02:53:11 | [io.github.Servosity/connectwise-control-mcp](https://github.com/servosity/msp-skills) | ConnectWise Control MCP | 0.1.5 | Manage ConnectWise Control (ScreenConnect) remote support and access sessions f… |
-| 2026-10-16 02:55:06 | [io.github.Servosity/datto-rmm-mcp](https://github.com/servosity/msp-skills) | Datto RMM MCP | 0.1.7 | Every Datto RMM API operation, plus a local SQLite fleet store and fleet-wide a… |
-| 2026-10-16 02:56:03 | [ai.deepledger/mcp](https://github.com/DeepLedger/deepledger-plugin) | DeepLedger QuickBooks MCP Server for Ch… | 1.0.6 | Connect QuickBooks to ChatGPT, Claude & Grok. Record bills, invoices, journal e… |
-| 2026-10-16 02:57:07 | org.402mcp/registry | 402MCP.org — HTTP 402 & Agent Payment R… | 1.1.0 | Decode HTTP 402 challenges (L402, x402, MPP) and choose agent payment rails fro… |
-| 2026-10-16 02:57:20 | [io.github.Neoo-Blue/commons-memory](https://github.com/Neoo-Blue/commons-memory) | Commons | 0.33.0 | Shared memory, work claims and handoffs so parallel AI coding sessions stop col… |
-| 2026-10-16 02:59:41 | [io.github.Servosity/domotz-mcp](https://github.com/servosity/msp-skills) | Domotz MCP | 0.1.4 | Every Domotz endpoint, plus a local SQLite fleet mirror that answers cross-site… |
-| 2026-10-16 03:00:13 | [io.github.Servosity/gradient-mcp](https://github.com/servosity/msp-skills) | Gradient MSP MCP | 0.1.4 | CLI and MCP server for Gradient MSP Synthesize: usage push, billing drift, aler… |
-| 2026-10-16 03:01:44 | [io.github.zp130221/pdfedit-mcp](https://github.com/zp130221/pdfedit-mcp) |  | 0.1.2 | Edit text inside existing PDFs: replace, delete, redact, insert, fill forms; or… |
-| 2026-10-16 03:02:06 | [io.github.reesehammer/umbra-mcp](https://github.com/reesehammer/umbra-py) | Umbra open SAR archive | 0.1.3 | Search, preview, and measure Umbra open SAR from any MCP client. Umbra ships no… |
-| 2026-10-16 03:02:12 | [io.github.Servosity/kaseya-bms-mcp](https://github.com/servosity/msp-skills) | Kaseya BMS MCP | 0.1.4 | CLI and MCP server for Kaseya BMS PSA: tickets, CRM, contracts, finance, and of… |
-| 2026-10-16 03:06:42 | [io.github.Servosity/levelio-mcp](https://github.com/servosity/msp-skills) | Level MCP | 0.1.5 | Every Level RMM endpoint, plus a local SQLite fleet store and offline cross-ent… |
-| 2026-10-16 03:06:49 | [io.github.Servosity/knowbe4-mcp](https://github.com/servosity/msp-skills) | KnowBe4 MCP | 0.1.4 | Every KnowBe4 KMSAT reporting feature plus a local SQLite store that answers th… |
-| 2026-10-16 03:08:26 | [io.github.Servosity/liongard-mcp](https://github.com/servosity/msp-skills) | Liongard MCP | 0.1.4 | Liongard config visibility: sync your estate offline, then drift-check and sear… |
-| 2026-10-16 03:08:46 | [io.github.Jenwein/mifit](https://github.com/Jenwein/mifit) | mifit | 0.3.1 | Read-only access to your own Mi Fitness (Xiaomi) data: sleep, heart rate, steps… |
-| 2026-10-16 03:13:30 | [io.github.Servosity/maxio-mcp](https://github.com/servosity/msp-skills) | Maxio MCP | 0.1.4 | Open, local revenue-intelligence CLI for Maxio Advanced Billing - MRR waterfalls |
-| 2026-10-16 03:14:11 | [io.github.Servosity/microsoft-graph-mcp](https://github.com/servosity/msp-skills) | Microsoft Graph MCP | 0.2.4 | The maintained single-binary successor to the retiring mgc - every MSP-relevant… |
-| 2026-10-16 03:15:36 | [io.github.Servosity/mspbots-mcp](https://github.com/servosity/msp-skills) | MSPbots MCP | 0.1.4 | Readable filters, alias-named resources, full exports, and the KPI history MSPb… |
-| 2026-10-16 03:18:50 | si.shopfashion/si-stores | SI Stores | 1.0.0 | Fashion and gift concierge: size guide, AI try-on previews, dress search, gift… |
-| 2026-10-16 03:19:44 | [io.github.Servosity/n-central-mcp](https://github.com/servosity/msp-skills) | N-able N-central MCP | 0.1.5 | N-central REST API with an offline org-tree mirror, cross-tenant search, and a… |
+| 2026-10-16 03:21:27 | [io.github.Servosity/nerdio-mcp](https://github.com/servosity/msp-skills) | Nerdio Manager MCP | 0.1.5 | The first non-PowerShell client for the Nerdio Manager for MSP API - cross-acco… |
+| 2026-10-16 03:21:58 | [io.github.rixile9999/tdl-mcp](https://github.com/rixile9999/tdl-mcp) |  | 1.1.0 | Read-only Telegram MCP server wrapping the tdl CLI: list chats, read messages,… |
+| 2026-10-16 03:22:54 | [io.github.Servosity/pagerduty-mcp](https://github.com/servosity/msp-skills) | PagerDuty MCP | 0.1.4 | Operate PagerDuty from your AI agent via MCP. |
+| 2026-10-16 03:23:20 | com.webtwizz/webtwizz | WebTwizz | 1.0.0 | Build websites and web apps with AI, see them in the chat, and publish them. |
+| 2026-10-16 03:26:06 | [io.github.Servosity/pandadoc-mcp](https://github.com/servosity/msp-skills) | PandaDoc MCP | 0.1.4 | Every PandaDoc endpoint, plus an offline document pipeline no other PandaDoc to… |
+| 2026-10-16 03:28:13 | [io.github.Servosity/pax8-mcp](https://github.com/servosity/msp-skills) | Pax8 MCP | 0.1.5 | Every Pax8 Partner API endpoint, plus an offline store that reconciles billing,… |
+| 2026-10-16 03:28:58 | com.legalheadquarters/legal-hq | Legal HQ | 1.0.0 | Help business owners in a dispute organize their case record for their lawyer.… |
+| 2026-10-16 03:29:23 | [io.github.Servosity/pipedrive-mcp](https://github.com/servosity/msp-skills) | Pipedrive MCP | 0.1.4 | Full Pipedrive CRUD plus a local SQLite pipeline copy: stale deals, forecasts,… |
+| 2026-10-16 03:30:20 | ai.famrelay/famrelay | FamRelay | 1.0.0 | Share approved, expiring details with family or between your own AI assistants. |
+| 2026-10-16 03:30:27 | [io.github.Keith-CY/formquote-mcp](https://github.com/Keith-CY/formquote-mcp) | Formquote | 1.0.0 | Published prices and licence fit for email verification, sound effect packs and… |
+| 2026-10-16 03:31:36 | [io.github.birdwell/runescape-wiki-mcp](https://github.com/birdwell/runescape-wiki-mcp) | RuneScape Wiki | 1.2.0 | RS3 Grand Exchange prices, item lookup, player hiscores, and RuneScape Wiki con… |
+| 2026-10-16 03:32:29 | [io.github.Servosity/proofpoint-mcp](https://github.com/servosity/msp-skills) | Proofpoint MCP | 0.1.4 | Proofpoint TAP threats, VAPs, clickers, and IOCs from your terminal, with a loc… |
+| 2026-10-16 03:32:46 | [academy.apexai/apex-ai-academy](https://github.com/ApexAI-Academy/sample-agents) | Apex AI Academy | 1.0.0 | Lessons, news and pricing from Apex AI Academy, an AI academy run by agents. Fr… |
+| 2026-10-16 03:33:31 | [io.github.zyvorai/kairon](https://github.com/zyvorai/zyvor-kairon) | Kairon | 0.10.1 | Inspect Kairon VMs, network policy and VM-edge flows from an agent. Read-only b… |
+| 2026-10-16 03:33:49 | [io.github.Keith-CY/meshmend-mcp](https://github.com/Keith-CY/meshmend-mcp) | MeshMend | 0.1.0 | Check and repair STL and 3MF meshes on your own computer: holes, flipped faces,… |
+| 2026-10-16 03:35:06 | [io.github.Servosity/resourceguru-mcp](https://github.com/servosity/msp-skills) | Resource Guru MCP | 0.1.4 | Operate Resource Guru from your AI agent via MCP. |
+| 2026-10-16 03:37:01 | [io.github.Servosity/rewst-mcp](https://github.com/servosity/msp-skills) | Rewst MCP | 0.1.4 | Operate and monitor Rewst RPA across every client org: automation health, failu… |
+| 2026-10-16 03:37:46 | [io.github.RunOnFlux/flux-cloud-mcp](https://github.com/RunOnFlux/flux-cloud-mcp) | Flux Cloud | 0.2.8 | Deploy, pay for and manage apps on Flux Cloud, the decentralized cloud. Prices… |
+| 2026-10-16 03:39:05 | [io.github.pipeworx-io/api-ninjas](https://github.com/pipeworx-io/mcp-api-ninjas) | Api Ninjas | 0.1.4 | API Ninjas MCP — wraps the multi-endpoint API Ninjas data API (api-ninjas.com) |
+| 2026-10-16 03:39:29 | [io.github.pipeworx-io/eia](https://github.com/pipeworx-io/mcp-eia) | Eia | 0.1.3 | EIA MCP — US Energy Information Administration API v2 |
+| 2026-10-16 03:40:40 | [io.github.pipeworx-io/legislation-uk](https://github.com/pipeworx-io/mcp-legislation-uk) | Legislation Uk | 0.1.3 | legislation.gov.uk MCP — the UK's official legislation database. |
+| 2026-10-16 03:40:58 | [io.github.Servosity/rocketcyber-mcp](https://github.com/servosity/msp-skills) | RocketCyber MCP | 0.1.4 | CLI and MCP server for RocketCyber Managed SOC: triage, MTTR, and posture analy… |
+| 2026-10-16 03:41:18 | com.shipstry/launch-data | Shipstry Launch Data | 1.0.0 | Weekly product launch data from Shipstry: launches, winners, and category bench… |
+| 2026-10-16 03:42:01 | [io.github.pipeworx-io/openfema](https://github.com/pipeworx-io/mcp-openfema) | Openfema | 0.1.3 | OpenFEMA MCP — US Federal Emergency Management Agency open data. |
+| 2026-10-16 03:42:37 | [io.github.lakpriya1s/looktap](https://github.com/lakpriya1s/looktap) | looktap | 0.2.0 | Let AI agents drive iPhone and Android devices: read the screen as text, tap, t… |
+| 2026-10-16 03:43:08 | [io.github.Servosity/riverside-fm-mcp](https://github.com/servosity/msp-skills) | Riverside MCP | 0.1.2 | Riverside API surface as MCP tools. |
+| 2026-10-16 03:43:30 | [io.github.pipeworx-io/at-ris](https://github.com/pipeworx-io/mcp-at-ris) | At Ris | 0.1.0 | Austria — consolidated federal law and case law, from the Bundeskanzleramt's… |
+| 2026-10-16 03:44:14 | [io.github.Servosity/rootly-mcp](https://github.com/servosity/msp-skills) | Rootly MCP | 0.1.4 | Every Rootly incident, alert, and on-call object as a typed command - plus a lo… |
+| 2026-10-16 03:44:23 | [io.github.pipeworx-io/cn-law](https://github.com/pipeworx-io/mcp-cn-law) | Cn Law | 0.1.0 | China (mainland) national law — one pack per jurisdiction (at-ris precedent: le… |
+| 2026-10-16 03:45:16 | [io.github.pipeworx-io/de-gesetze](https://github.com/pipeworx-io/mcp-de-gesetze) | De Gesetze | 0.1.0 | German federal statutes and ordinances (Bundesrecht) — search by title or offic… |
+| 2026-10-16 03:45:41 | [br.com.scrypta/scrypta](https://github.com/scrypta-mcp/scrypta-mcp) |  | 1.0.0 | Catálogo de 2 produtos em 1 categorias e 2 planos — servido via Scrypta. |
+| 2026-10-16 03:46:09 | [io.github.pipeworx-io/it-normattiva](https://github.com/pipeworx-io/mcp-it-normattiva) | It Normattiva | 0.1.0 | Italy — national legislation, from Normattiva's Open Data service (Istituto Pol… |
+| 2026-10-16 03:47:04 | [io.github.pipeworx-io/kr-law](https://github.com/pipeworx-io/mcp-kr-law) | Kr Law | 0.1.0 | Korea Law MCP — South Korean national statutes via the Ministry of Government L… |
+| 2026-10-16 03:47:43 | shop.ocapi/ocapi | Ocapi | 1.0.0 | Run an Ocapi online store that takes orders via WhatsApp: products, categories,… |
+| 2026-10-16 03:47:55 | [io.github.pipeworx-io/nl-wetten](https://github.com/pipeworx-io/mcp-nl-wetten) | Nl Wetten | 0.1.0 | Netherlands national legislation — consolidated statute text, article by articl… |
+| 2026-10-16 03:48:51 | [io.github.Servosity/runzero-mcp](https://github.com/servosity/msp-skills) | runZero MCP | 0.1.4 | Every runZero query, plus a local SQLite copy of your whole attack surface that… |
+| 2026-10-16 03:49:32 | [io.github.pipeworx-io/tw-law](https://github.com/pipeworx-io/mcp-tw-law) | Tw Law | 0.1.0 | tw-law — Taiwan national statutes and the Constitution, in Chinese plus the Min… |
+| 2026-10-16 03:49:50 | [io.github.krabiclaw/krabiclaw](https://github.com/krabiclaw/krabiclaw) | KrabiClaw | 1.0.0 | Manage and publish restaurant and local business websites through MCP. |
+| 2026-10-16 03:49:59 | [io.github.Servosity/salesbuildr-mcp](https://github.com/servosity/msp-skills) | Salesbuildr MCP | 0.1.4 | Every Salesbuildr resource as a scriptable command, plus offline margin and pip… |
+| 2026-10-16 03:51:46 | [io.github.Servosity/sherweb-mcp](https://github.com/servosity/msp-skills) | Sherweb MCP | 0.1.5 | Every Sherweb Partner API capability, plus a local SQLite store, offline analyt… |
+| 2026-10-16 03:55:07 | [io.github.Servosity/skykick-mcp](https://github.com/servosity/msp-skills) | SkyKick MCP | 0.1.5 | Fleet backup posture, stale snapshots, and coverage gaps for SkyKick Cloud Back… |
+| 2026-10-16 03:57:03 | [io.github.Servosity/syncro-mcp](https://github.com/servosity/msp-skills) | Syncro MCP | 0.1.4 | Every Syncro PSA and RMM workflow in your terminal, plus a local database, offl… |
+| 2026-10-16 03:57:22 | [io.github.Servosity/tactical-rmm-mcp](https://github.com/servosity/msp-skills) | Tactical RMM MCP | 0.1.4 | Every Tactical RMM endpoint as a typed command, plus an offline SQLite mirror a… |
+| 2026-10-16 03:58:10 | [io.github.dfmi-app/dfmi-market](https://github.com/dfmi-app/dfmi-app) | dfmi x402 market | 0.1.0 | Shop the dfmi x402 agent market: find services, get quotes, free test dUSD, cap… |
+| 2026-10-16 03:59:15 | [io.github.azathothx/kairos-lang-mcp](https://github.com/azathothx/kairos-lang) |  | 1.0.10 | Evaluate (list/next) and validate Kairos schedule definitions; look up the desc… |
+| 2026-10-16 03:59:48 | [io.github.kansei-link/kansei-mcp-server](https://github.com/kansei-link/kansei-mcp-server) |  | 1.2.4 | Reduce your AI agent's token waste with collective intelligence — SaaS integrat… |
+| 2026-10-16 04:02:41 | [io.github.Servosity/veeam-mcp](https://github.com/servosity/msp-skills) | Veeam VSPC MCP | 0.1.4 | Sync Veeam Service Provider Console tenants to local SQLite; cross-company back… |
+| 2026-10-16 04:02:42 | io.github.Sensie-agents/vibecheck | SomaCheck Vibecheck | 0.6.21 | SomaCheck returns proposition-specific Aligned or Unaligned plus model confiden… |
+| 2026-10-16 04:03:52 | io.github.manuqwert1234/papercheck | PaperCheck | 1.0.0 | Check a paper for AI-written text and plagiarism before Turnitin, with the exac… |
+| 2026-10-16 04:04:27 | [io.github.Servosity/xero-mcp](https://github.com/servosity/msp-skills) | Xero MCP | 0.1.6 | Every Xero Accounting read plus a local SQLite ledger - aging, reconciliation,… |
+| 2026-10-16 04:09:17 | [io.github.cognicore-dev/cognicore-env](https://github.com/cognicore-dev/cognicore-env) | CogniCore | 0.10.3 | Memory, reflection and safety for AI agents. Hosted or local, no vector databas… |
+| 2026-10-16 04:10:36 | [io.github.amgallego8/colab-mcp](https://github.com/amgallego8/Colab-MCP) | Colab-MCP (unofficial) | 0.1.0 | Unofficial MCP server for Google Colab: runtimes, code, long jobs, files and no… |
+| 2026-10-16 04:15:29 | [io.github.saadvz/hardwaremcp](https://github.com/saadvz/hardwaremcp-mcp) | HardwareMCP | 0.1.0 | Find MCP servers for ESP32, Arduino, 3D printers, Home Assistant, cameras and o… |
+| 2026-10-16 04:18:38 | [com.walletmcppass/wallet-mcp](https://github.com/arshwaraich/wallet-mcp) | walletmcppass: Apple Wallet passes | 1.1.0 | Create signed Apple Wallet passes (.pkpass): boarding passes, tickets, coupons,… |
 
 ## Data source
 
