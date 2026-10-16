@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-10-16T09:22:49.136831Z,ch.aarven/aarven,Aarven,0.14.0,,streamable-http,"Swiss accounting (CHF, VAT/MWST): balance sheet, P&L, VAT returns and draft bookings."
+2026-10-16T09:26:53.115064Z,com.seorecords/seo-records,SEO Records,1.0.0,,streamable-http,"Free SEO check of any website, AI crawler access test, and the full Audit SEO Records."
+2026-10-16T09:29:42.135668Z,io.github.Himanshu-Sangshetti/posy,Posy,2.0.0,https://github.com/Himanshu-Sangshetti/posy,streamable-http,"Make and edit a hand-made link-in-bio page: add links, pick a look, publish."
+2026-10-16T09:30:45.581996Z,com.zineps/mcp,Zineps MCP,1.0.0,,streamable-http,"Manage Zineps shipments, labels, orders, invoices, and partner operations with AI assistants."
+2026-10-16T09:32:17.757857Z,io.github.bobpanil/vivatlas,VIVATLAS,1.0.13,https://github.com/bobpanil/VIVATLAS,,"Self-hosted catalogue of your skills, agents and MCP servers, searchable by meaning over MCP"
+2026-10-16T09:34:40.292356Z,uk.co.realyield/realyield,RealYield,1.0.0,,streamable-http,"UK buy-to-let maths: true net yield, cashflow, Section 24, stamp duty and area rental yields."
+2026-10-16T09:41:39.429019Z,io.github.ghcpuman902/tfl-ts,tfl-ts,2.15.2,https://github.com/ghcpuman902/tfl-ts,,"Read-only Transport for London data: line status, arrivals, journeys, stop lookup."
+2026-10-16T09:44:21.457664Z,io.github.lastdatabaseph/lastdatabase,LastDatabase,1.0.0,,streamable-http,Search B2B contacts and business leads through an OAuth-secured MCP server with masked results.
+2026-10-16T09:45:37.344754Z,io.github.Apophisss/minion,Minion,1.0.0,https://github.com/apophisss/minion,,"Featherweight Linux desktops for AI agents: read the screen as text, click, type, run any app."
+2026-10-16T09:51:28.102438Z,io.github.magicSEO/eigenheim-mcp,Eigenheim Invest – Berlin Real Estate Market,0.1.0,https://github.com/magicSEO/eigenheim-mcp,streamable-http,"Live Berlin property prices per m², rental yields, land values 2026 and listings. Read-only."
+2026-10-16T09:52:26.067934Z,io.roundhouseai/roundhouse,Roundhouse,0.1.0,,streamable-http,"Read-only analytics on x402 agent payments and ERC-8004 agent identity, with SQL."
+2026-10-16T09:52:55.615087Z,io.github.Toraastrta/sphior-code-mcp,,1.1.1,https://github.com/Toraastrta/Sphior,,"Deterministic SAST/SCA findings + fix guidance for your AI agent. Runs locally, no account needed."
+2026-10-16T09:57:45.073322Z,com.saltcrate/sidequest,Sidequest,0.2.0,,streamable-http,"M2M task marketplace — post a task + bounty, a worker runs it, settle via MPP (card or USDC)."
+2026-10-16T10:04:35.836388Z,in.reqres/reqres,ReqRes,1.0.0,,streamable-http,"Hosted backend for AI agents: create projects with persistent collections and keys, no signup."
+2026-10-16T10:15:16.980399Z,io.github.nextauralabs/shelter,Shelter,1.0.7,https://github.com/nextauralabs/shelter-mcp,,Connect AI agents to scoped financial context from your own Shelter account
+2026-10-16T10:17:10.406618Z,io.github.HillTan/tiktikluck,TikTikLuck,1.0.0,,streamable-http; streamable-http,"Swipe, play, make. Free luck and skill games your agent can play and make. Play money only."
+2026-10-16T10:17:53.568057Z,ai.cybernative/upgrade-xray,Upgrade X-Ray: npm & PyPI dependency update diff,0.1.7,,streamable-http,"Diff two npm/PyPI versions or lockfiles: new install scripts, network/shell/eval calls, new deps."
+2026-10-16T10:19:07.880716Z,com.socialdatax/haokan,SocialDataX 好看视频 Haokan MCP,0.1.0,,streamable-http,"Haokan video/user search, details, comments/replies, creators, creator videos and hot searches."
+2026-10-16T10:19:49.402316Z,ai.pidgeon/mcp,Pidgeon,0.5.1,https://github.com/pidgeon-ai/pidgeon-js,streamable-http,"Mailboxes for AI agents: create addresses, send, receive, thread and hand off email."
+2026-10-16T10:20:12.278309Z,app.vazante/vazante,Vazante,1.0.0,,streamable-http,"Ask Claude or ChatGPT about your Meta, Google and TikTok Ads, and let AI edit campaigns on your OK."

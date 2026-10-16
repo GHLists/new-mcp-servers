@@ -9,42 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 09:22 UTC
+## Latest list — 2026-10-16 10:21 UTC
 
-New MCP servers published between 2026-10-16 08:21 UTC and 2026-10-16 09:22 UTC.
+New MCP servers published between 2026-10-16 09:22 UTC and 2026-10-16 10:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-16T09-22-22-020543Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-16T10-21-27-267934Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-16 08:23:45 | [io.github.andylang598/tephra](https://github.com/andylang598/tephra-mcp) | Tephra | 1.0.0 | Memory for every AI you connect, tied to your account: recall, search, remember… |
-| 2026-10-16 08:25:52 | [io.github.openapi/gknowledge](https://github.com/openapi/gknowledge) | gknowledge | 0.2.2 | Search, read and grow a Karpathy-style LLM wiki of linked Markdown pages, with… |
-| 2026-10-16 08:26:21 | [io.github.XAGI-Lab/melra](https://github.com/XAGI-Lab/melra) | MELRA | 0.3.0-alpha.14 | Local MCP runtime for policy-governed, verified agent actions with durable rece… |
-| 2026-10-16 08:26:31 | [io.github.Super-Eric/falsepass](https://github.com/Super-Eric/falsepass) | falsepass | 0.4.1 | Find RL environment graders that pay wrong answers: probes reward code, returns… |
-| 2026-10-16 08:33:05 | [dev.seoskill/seo](https://github.com/iannuttall/seo) | SEO Skill | 0.4.2 | Free Google Search Console MCP: your real GSC, Google Analytics and keyword dat… |
-| 2026-10-16 08:33:30 | ai.toolnav/directory | ToolNav AI | 1.0.0 | Search AI tools, browse categories and read tool details with source links. Fre… |
-| 2026-10-16 08:33:44 | [io.github.Servosity/sonicwall-mcp](https://github.com/servosity/msp-skills) | SonicWall MCP | 0.1.0 | Cyber-insurance posture for a whole SonicWall fleet: firmware, advisories, MFA,… |
-| 2026-10-16 08:35:13 | [io.github.theluckystrike/duplicate-invoice-check](https://github.com/theluckystrike/mcp-servers) |  | 0.22.7 | Review grouped duplicate invoice candidates from supplied records locally; no p… |
-| 2026-10-16 08:35:16 | [io.github.theluckystrike/supplier-invoice-duplicates](https://github.com/theluckystrike/mcp-servers) |  | 0.22.7 | Review duplicate supplier invoice candidates with grouped local evidence; no pa… |
-| 2026-10-16 08:37:37 | [io.github.pglejzer/timepicker-ui-mcp](https://github.com/pglejzer/timepicker-ui) |  | 1.0.2 | MCP server for timepicker-ui: options, events, themes, public API, snippets and… |
-| 2026-10-16 08:38:38 | [io.github.OlsOls4/vatkit](https://github.com/OlsOls4/webkit-api) | VATKit | 1.1.0 | Live EU VAT number checks via VIES with company name/address, VAT formats and E… |
-| 2026-10-16 08:42:15 | [io.github.openapi/mcp-server](https://github.com/openapi/mcp-server) | Openapi® | 0.3.1 | Official Openapi® MCP server: Italian company data, PEC, SMS, vehicles, geocodi… |
-| 2026-10-16 08:42:22 | ai.mappu/public-travel | Mappu | 1.2.0 | Save trip plans made with your assistant to Mappu, and find Mappu walks and aud… |
-| 2026-10-16 08:50:25 | [io.github.abasmartinc/apiempresas](https://github.com/abasmartinc/apiempresas-mcp) |  | 1.1.0 | Spanish company data: CIF lookup, BORME filings, directors, KYB checks and risk… |
-| 2026-10-16 08:50:41 | [io.baserow/baserow](https://github.com/baserow/baserow-mcp) | Baserow | 0.1.1 | Read and change Baserow tables. |
-| 2026-10-16 08:53:39 | io.github.7l7/dearovo-mcp | Dearovo MCP | 1.0.0 | Relationship-aware writing guidance and links to sendable-message experiences. |
-| 2026-10-16 08:53:50 | io.github.7l7/reactionmetric-mcp | ReactionMetric MCP | 1.0.0 | Five-trial reaction-time summary and links to browser-based reaction tests. |
-| 2026-10-16 08:58:54 | com.pnltoolkit/calculators | PNL Toolkit | 1.1.0 | Eight free investment and trading calculators with PNG charts and editable resu… |
-| 2026-10-16 09:01:42 | com.mrsuppy/agent | Mr Suppy | 1.0.0 | Supplement prices and price history (UK/EU), SupplementScore ratings, verified… |
-| 2026-10-16 09:06:51 | [io.github.avhn/trello-mcp](https://github.com/avhn/trello-mcp) | trello-mcp | 1.0.0 | Local Trello MCP with compact responses, workspace allowlists and read-only opt… |
-| 2026-10-16 09:07:53 | com.prolevelmax/prolevelmax | ProLevelMax | 1.4.0 | Real-time public data from 73 platforms for AI: TikTok, Reddit, Instagram, Xiao… |
-| 2026-10-16 09:08:38 | ai.summarizevideo/summarizevideo | SummarizeVideo.ai | 1.0.0 | Summarize public video URLs into Markdown notes and read their transcripts. |
-| 2026-10-16 09:09:01 | com.agentdrives/directory | AgentDrives | 1.4.0 | Can an AI agent use this software? Levels from real agent test drives: sign-up,… |
-| 2026-10-16 09:10:25 | [io.github.andresolbach/nodriver-mcp-server](https://github.com/andresolbach/nodriver-mcp-server) | nodriver — Chrome browser automation | 2.6.0 | Chrome automation via nodriver: 70 tools, isolated browsers, profiles and confi… |
-| 2026-10-16 09:11:41 | [io.github.simplifier-ag/simplifier-mcp](https://github.com/simplifier-ag/simplifier-mcp) |  | 0.11.3 | MCP Server for Simplifier - manage Connectors, BusinessObjects, Datatypes and l… |
-| 2026-10-16 09:20:23 | [io.github.makar52nn2016-jpg/money-reactor](https://github.com/makar52nn2016-jpg/money-reactor) | Money Reactor | 1.0.0 | Paid x402 APIs for AI agents on Base USDC: crypto bounty radar + repo honeypot/… |
-| 2026-10-16 09:21:01 | com.websterberrymarketing.synaptic/data-agents | WebsterBerry Synaptic | 1.0.0 | Pay-per-call US public data for agents: OFAC, SEC, FMCSA, NPI, VIN recalls, SAM… |
-| 2026-10-16 09:21:27 | [io.github.ndyakov/lastfm-mcp](https://github.com/ndyakov/lastfm-mcp) | Last.fm | 0.2.0 | Last.fm MCP server: scrobbles, charts, artist/album/track info and more |
+| 2026-10-16 09:22:49 | ch.aarven/aarven | Aarven | 0.14.0 | Swiss accounting (CHF, VAT/MWST): balance sheet, P&L, VAT returns and draft boo… |
+| 2026-10-16 09:26:53 | com.seorecords/seo-records | SEO Records | 1.0.0 | Free SEO check of any website, AI crawler access test, and the full Audit SEO R… |
+| 2026-10-16 09:29:42 | [io.github.Himanshu-Sangshetti/posy](https://github.com/Himanshu-Sangshetti/posy) | Posy | 2.0.0 | Make and edit a hand-made link-in-bio page: add links, pick a look, publish. |
+| 2026-10-16 09:30:45 | com.zineps/mcp | Zineps MCP | 1.0.0 | Manage Zineps shipments, labels, orders, invoices, and partner operations with… |
+| 2026-10-16 09:32:17 | [io.github.bobpanil/vivatlas](https://github.com/bobpanil/VIVATLAS) | VIVATLAS | 1.0.13 | Self-hosted catalogue of your skills, agents and MCP servers, searchable by mea… |
+| 2026-10-16 09:34:40 | uk.co.realyield/realyield | RealYield | 1.0.0 | UK buy-to-let maths: true net yield, cashflow, Section 24, stamp duty and area… |
+| 2026-10-16 09:41:39 | [io.github.ghcpuman902/tfl-ts](https://github.com/ghcpuman902/tfl-ts) | tfl-ts | 2.15.2 | Read-only Transport for London data: line status, arrivals, journeys, stop look… |
+| 2026-10-16 09:44:21 | io.github.lastdatabaseph/lastdatabase | LastDatabase | 1.0.0 | Search B2B contacts and business leads through an OAuth-secured MCP server with… |
+| 2026-10-16 09:45:37 | [io.github.Apophisss/minion](https://github.com/apophisss/minion) | Minion | 1.0.0 | Featherweight Linux desktops for AI agents: read the screen as text, click, typ… |
+| 2026-10-16 09:51:28 | [io.github.magicSEO/eigenheim-mcp](https://github.com/magicSEO/eigenheim-mcp) | Eigenheim Invest – Berlin Real Estate M… | 0.1.0 | Live Berlin property prices per m², rental yields, land values 2026 and listing… |
+| 2026-10-16 09:52:26 | io.roundhouseai/roundhouse | Roundhouse | 0.1.0 | Read-only analytics on x402 agent payments and ERC-8004 agent identity, with SQ… |
+| 2026-10-16 09:52:55 | [io.github.Toraastrta/sphior-code-mcp](https://github.com/Toraastrta/Sphior) |  | 1.1.1 | Deterministic SAST/SCA findings + fix guidance for your AI agent. Runs locally,… |
+| 2026-10-16 09:57:45 | com.saltcrate/sidequest | Sidequest | 0.2.0 | M2M task marketplace — post a task + bounty, a worker runs it, settle via MPP (… |
+| 2026-10-16 10:04:35 | in.reqres/reqres | ReqRes | 1.0.0 | Hosted backend for AI agents: create projects with persistent collections and k… |
+| 2026-10-16 10:15:16 | [io.github.nextauralabs/shelter](https://github.com/nextauralabs/shelter-mcp) | Shelter | 1.0.7 | Connect AI agents to scoped financial context from your own Shelter account |
+| 2026-10-16 10:17:10 | io.github.HillTan/tiktikluck | TikTikLuck | 1.0.0 | Swipe, play, make. Free luck and skill games your agent can play and make. Play… |
+| 2026-10-16 10:17:53 | ai.cybernative/upgrade-xray | Upgrade X-Ray: npm & PyPI dependency up… | 0.1.7 | Diff two npm/PyPI versions or lockfiles: new install scripts, network/shell/eva… |
+| 2026-10-16 10:19:07 | com.socialdatax/haokan | SocialDataX 好看视频 Haokan MCP | 0.1.0 | Haokan video/user search, details, comments/replies, creators, creator videos a… |
+| 2026-10-16 10:19:49 | [ai.pidgeon/mcp](https://github.com/pidgeon-ai/pidgeon-js) | Pidgeon | 0.5.1 | Mailboxes for AI agents: create addresses, send, receive, thread and hand off e… |
+| 2026-10-16 10:20:12 | app.vazante/vazante | Vazante | 1.0.0 | Ask Claude or ChatGPT about your Meta, Google and TikTok Ads, and let AI edit c… |
 
 ## Data source
 
