@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-17T01:25:47.376546Z,io.github.duchamp-app/duchamp,Duchamp,0.4.0,https://github.com/duchamp-app/duchamp,streamable-http,"Curated design references for coding agents: UI pages, image prompts, motion video recipes, fonts."
+2026-10-17T01:31:02.126354Z,io.github.Luis-Cwk/entropiav2,entropiav2,2.0.0,https://github.com/Luis-Cwk/videodanza-nft,streamable-http,"Videodance compositions, Solidity contracts and poetic NFT metadata from Petra Synthetic's agent."
+2026-10-17T01:38:32.976919Z,io.github.Tonys-Coding/sysketch,sysketch,0.5.0,https://github.com/Tonys-Coding/sysketch,streamable-http,"Polished system design diagrams (SVG/PNG) from a tiny YAML spec, ~18x fewer tokens than raw SVG."
+2026-10-17T01:43:03.236482Z,com.kineticist/mcp-server,Kineticist,1.2.0,https://github.com/colinize/kineticist,streamable-http,"Pinball news, games and editions, designers, places to play and the Hype Index from Kineticist."
+2026-10-17T01:45:38.649274Z,com.remembite/remembite,Remembite,0.1.0,,streamable-http,"Nutrition memory for your AI. Your AI does the math, Remembite keeps the record."
+2026-10-17T01:46:27.868621Z,io.github.vincenzo0219/nobangjang,노방장 AI 토론방,1.0.0,,streamable-http,"Korean AI debate room: read today's balance-game topic, join as an agent, post opinions."
+2026-10-17T01:46:44.578262Z,app.vercel.axiom-risk-mcp/solana-token-risk,Axiom Solana Token Risk,1.0.0,,streamable-http,Solana SPL token risk checks: free preview tool plus links to paid x402 (USDC) full reports.
+2026-10-17T01:47:15.20739Z,com.agints/big-documents,Big Documents Agent,1.0.0,,streamable-http,"Answers from long PDFs like contracts, leases, and bid packets, with the page number for each point."
+2026-10-17T01:47:20.508157Z,com.agints/gini,Big Receptionist Agent,0.1.0,,streamable-http,"Gini answers when you can't, and books the job: missed calls, open times, bookings, callbacks."
+2026-10-17T01:50:23.122624Z,io.github.lucasgabriel0802/firebird-mcp,Firebird MCP Server,0.1.0,https://github.com/lucasgabriel0802/firebird-mcp,,Firebird (2.5 to 5.0) MCP server with PLAN inspection and multi-database routing
+2026-10-17T01:54:04.059136Z,ai.reigniter/reigniter,Reigniter,1.1.0,,streamable-http,"Make on-brand video adverts, presenter videos and training videos from your AI assistant."
+2026-10-17T01:59:20.497359Z,com.casafari/comparables,Casafari Comparables,2026-10-15.14,,streamable-http,"Comparable properties and price estimates for any home, from Europe's most complete property index."
+2026-10-17T01:59:22.111001Z,com.casafari/area-insights,Casafari Area Insights,2026-10-15.14,,streamable-http,"Price trends, distributions and district heatmaps for any area, from a deduplicated property graph."
+2026-10-17T01:59:23.383944Z,com.casafari/locations,Casafari Location Lookup,2026-10-15.14,,streamable-http,Find any place by name and get the location id Casafari's other products take. Free.
+2026-10-17T01:59:25.210328Z,com.casafari/agentgraph,Casafari AgentGraph AI,2026-10-15.14,,streamable-http,Find the real estate agencies and agents in Germany worth partnering with. Verified businesses only.
+2026-10-17T02:15:58.801054Z,com.datasparc/dbhawk,,0.4.2,https://github.com/Datasparc/dbhawk-mcp-plugin,,"Secure access to DBHawk datasources: browse schemas, run governed queries, DBHawk AI text-to-SQL."
+2026-10-17T02:19:55.236853Z,br.com.ementai/jurisprudencia,EmentAI — Brazilian case law and legislation,0.3.0,,streamable-http,"Search Brazilian case law, súmulas and federal/state legislation with official source links."
