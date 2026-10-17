@@ -9,37 +9,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 14:20 UTC
+## Latest list — 2026-10-17 15:21 UTC
 
-New MCP servers published between 2026-10-17 13:18 UTC and 2026-10-17 14:20 UTC.
+New MCP servers published between 2026-10-17 14:20 UTC and 2026-10-17 15:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-17T14-20-27-201385Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-17T15-21-33-990249Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-17 13:23:13 | io.github.rrebase/dognote | DogNote | 1.0.0 | Read pet activity and weight history, and log events with your permission. |
-| 2026-10-17 13:25:20 | [io.github.mkpoli/gmail-mcp](https://github.com/mkpoli/gmail-mcp) |  | 0.3.0 | Multi-account Gmail on a Cloudflare Worker you deploy yourself: read, send, rep… |
-| 2026-10-17 13:26:33 | [dev.tatastu/proof](https://github.com/Tatastu-Labs/mark) | Mark | 1.1.0 | Mark: stamp files with a signed, timestamped provenance record. Hash locally; v… |
-| 2026-10-17 13:29:32 | io.github.hax98/repostit | Repostit | 2026.10.17 | Create social drafts, schedule posts and check delivery. Repostit paid SaaS; OA… |
-| 2026-10-17 13:29:58 | com.workwae/mcp | Workwae | 1.1.0 | Email, calendar and contacts for AI agents: Gmail, Microsoft 365 and IMAP accou… |
-| 2026-10-17 13:34:53 | com.yetanotherclearing/yet-another-clearing | Yet Another Clearing (read-only) | 0.1.0 | Read-only access to Yet Another Clearing's public conversations. Posting is clo… |
-| 2026-10-17 13:42:22 | com.getlitjob/litjob | Litjob | 1.0.0 | Litjob AI job application assistant: job matches, tailored CVs and cover letter… |
-| 2026-10-17 13:45:26 | [io.github.zyn-io/epeaky-host-mcp](https://github.com/zyn-io/epeaky) | Epeaky host | 0.1.1 | Set up and run an Epeaky den on a server you already have, over your own SSH. |
-| 2026-10-17 13:45:27 | pro.germanexam/germanexam | GermanExam.pro | 1.0.0 | Grades German C1 exam writing (TestDaF, DSH, Goethe C1, telc C1) against the of… |
-| 2026-10-17 13:45:52 | [io.github.zurferr/dot](https://github.com/Snowboard-Software/getdot) | Dot (getdot.ai): AI Data Analyst | 1.0.1 | AI data analyst by getdot.ai. Ask your data warehouse in plain English; get SQL… |
-| 2026-10-17 13:55:09 | [io.github.carelessdept/ci-guard-mcp](https://github.com/carelessdept/ci-guard-mcp) |  | 0.1.0 | Local-first static repository security and configuration drift auditor (CLI, Gi… |
-| 2026-10-17 14:03:01 | [io.github.tomyud1/godot-mcp](https://github.com/tomyud1/godot-mcp) |  | 0.6.1 | MCP server for Godot game engine integration — control the Godot editor with AI |
-| 2026-10-17 14:04:02 | [io.github.skylight-9/fixlore](https://github.com/skylight-9/fixlore) | FixLore | 1.1.0 | Search receipt-verified troubleshooting experience shared by AI agents; report… |
-| 2026-10-17 14:06:11 | [io.github.oryanomer1/whoop-mcp](https://github.com/oryanomer1/whoop-mcp) | WHOOP (read-only) | 1.0.1 | Read-only access to your WHOOP recovery, HRV, sleep, strain, workouts and trend… |
-| 2026-10-17 14:06:42 | [io.github.mrocker/x-twitter-profile-tweets](https://github.com/mrocker/social-data-mcp) |  | 1.0.1 | X (Twitter) profiles and single tweets without login; full timelines with your… |
-| 2026-10-17 14:06:56 | [io.github.mrocker/tiktok-profile-stats](https://github.com/mrocker/social-data-mcp) |  | 1.0.1 | TikTok profiles, video stats and transcripts by handle or URL. No login. Pay pe… |
-| 2026-10-17 14:07:03 | [io.github.mrocker/youtube-transcripts](https://github.com/mrocker/social-data-mcp) |  | 1.0.0 | YouTube transcripts with timestamps from video links or channels. Charged only… |
-| 2026-10-17 14:07:13 | [io.github.mrocker/tiktok-transcripts](https://github.com/mrocker/social-data-mcp) |  | 1.0.0 | TikTok video transcripts with timestamps by URL or ID. No login. Charged only p… |
-| 2026-10-17 14:07:49 | [io.github.mrocker/youtube-video-channel](https://github.com/mrocker/social-data-mcp) |  | 1.0.1 | YouTube video metadata, transcripts and channel data by URL or @handle. No API… |
-| 2026-10-17 14:12:06 | [io.github.PravinrajV/shoptrueprofit-fee-mcp](https://github.com/PravinrajV/shoptrueprofit-fee-mcp) | ShopTrueProfit Fee & Profit | 1.0.0 | Etsy, eBay and Amazon FBA/FBM seller fees, profit, margin and target price, wit… |
-| 2026-10-17 14:13:02 | io.github.exquad/thecablecode | The Cable Code | 1.0.0 | Decode cable type designations (NYY, H07RN-F, N2XSY...) layer by layer. 36 codi… |
-| 2026-10-17 14:18:36 | [io.github.IGELHARINE/cdpm](https://github.com/IGELHARINE/CDPM) |  | 0.1.9 | Lets many Claude Code sessions and subagents share numbered, logged-in Chrome i… |
-| 2026-10-17 14:19:28 | com.affix-io/affixio | AffixIO | 1.0.0 | Zero-knowledge proofs with post-quantum attestations for AI agents, without exp… |
+| 2026-10-17 14:20:53 | [io.github.mrocker/social-data-mcp](https://github.com/mrocker/social-data-mcp) |  | 1.1.0 | X, YouTube and TikTok data plus YouTube/TikTok transcripts in one stdio MCP ser… |
+| 2026-10-17 14:22:50 | in.enhanciar/enhanciar | Enhanciar — company brain | 1.0.3 | Ask your company's Slack, Gmail, Drive, Notion, Jira and code from any MCP clie… |
+| 2026-10-17 14:25:00 | com.treasurevalleyfun.directory/mcp | Treasure Valley Fun Directory | 1.0.0 | Verified things to do, places to eat and events in Boise, Meridian, Nampa and n… |
+| 2026-10-17 14:29:07 | [io.github.AnxovatomicaES/githippo](https://github.com/AnxovatomicaES/githippo) | githippo | 3.3.0 | Long-term memory for Claude: Markdown in a git repo you own. Survives context c… |
+| 2026-10-17 14:29:33 | [io.github.VIKAS9793/androjack](https://github.com/VIKAS9793/androjack-mcp) | AndroJack MCP | 2.1.0 | Android engineering MCP server with verified documentation grounding and AI val… |
+| 2026-10-17 14:29:35 | io.onlinecompiler/compiler | OnlineCompiler.io | 1.0.0 | Run Python, Java, C, C++, C#, Go, Rust and 5 more languages, each run in a fres… |
+| 2026-10-17 14:30:10 | [io.github.renl/meshimize-mcp](https://github.com/renl/meshimize-mcp) |  | 0.1.19 | Meshimize: Q&A groups, messaging, group discovery, and agent-to-agent delegation |
+| 2026-10-17 14:30:53 | io.marketheist/backtest | MarketHeist Backtest | 1.1.1 | Backtest strategies and analyze portfolios on any ticker: CAGR, drawdown, Sharp… |
+| 2026-10-17 14:32:19 | com.getairefs/airefs | Airefs | 1.0.0 | Read-only AI search visibility, prompts, citations, competitors, and opportunit… |
+| 2026-10-17 14:32:41 | team.golem/context | Golem Context | 2026.10.17 | Read your Golem fleet's ledger from any MCP client: agents' sessions, live acti… |
+| 2026-10-17 14:32:42 | team.golem/security | Golem Security | 2026.10.17 | Threat-intelligence verdicts on a URL, domain or IP before a coding agent conne… |
+| 2026-10-17 14:35:47 | [com.pixelesq/pixelesq](https://github.com/pixelesq/pixelesq-skills) | Pixelesq | 1.0.1 | Build and manage Pixelesq websites from a conversation: pages, sections, conten… |
+| 2026-10-17 14:36:36 | io.github.Cora77-ops/kingy-guides | Kingy Guides | 0.3.0 | Game guides from kingy.wiki: sourced answers, one-level hints and credited exac… |
+| 2026-10-17 14:37:07 | dev.dexra/dexra | Dexra | 0.1.0 | Solana DeFi checks for AI agents: launches, holders, wallets, pools, perps and… |
+| 2026-10-17 14:44:52 | com.plugmyai/plugmyai | PlugMyAI | 1.0.0 | Plain-English directory of which apps connect to ChatGPT, Claude, Gemini and Gr… |
+| 2026-10-17 14:46:18 | [io.github.markdorof/delphi-code](https://github.com/markdorof/delphi-code) | Delphi Code | 0.3.2 | Offline semantic code search for coding agents, across local and GitHub/Bitbuck… |
+| 2026-10-17 14:49:07 | [io.github.davarion-tech/agentic-browser](https://github.com/davarion-tech/agentic-browser) |  | 1.0.1 | Give any AI agent your real Chrome: text perception, visible cursor, ~4x fewer… |
+| 2026-10-17 14:52:52 | [net.imzala/ictihat](https://github.com/asimokat/imzala-claude-eklenti) | imzala.net — Türk içtihat arşivi | 1.0.0 | Turkish case-law archive: 11.5M court decisions, citation check, statute map, d… |
+| 2026-10-17 15:04:20 | [site.ayushrai.life/product](https://github.com/ayushrai-hub/LifeOS) | life.ayushrai.site product MCP | 1.0.0 | Read-only public profile, projects, contact, search, and booking links for Ayus… |
+| 2026-10-17 15:05:01 | [site.ayushrai.life/docs](https://github.com/ayushrai-hub/LifeOS) | life.ayushrai.site docs MCP | 1.0.0 | Read-only index of the public documentation and section pages on life.ayushrai.… |
+| 2026-10-17 15:05:07 | com.lugarparami/lugar-para-mi | Lugar para Mí | 1.0.0 | Apartamentos y casas en venta y arriendo en Colombia: busca, publica tu aviso y… |
+| 2026-10-17 15:06:26 | io.github.KG-NINJA/si-dog-park | SI Dog Park | 0.3.1 | Free list_products; listed 0.01 USDC on Base. Paid actions need approval. Purch… |
+| 2026-10-17 15:07:35 | [io.github.thinksuitesolution-coder/visibilityai](https://github.com/thinksuitesolution-coder/visibilityAi) | VisibilityAI | 1.3.0 | Search and compare businesses worldwide by category and city; AI-visibility dat… |
+| 2026-10-17 15:07:39 | com.uselexica/lexica | Lexica | 1.0.0 | Language flashcards in your AI assistant: build decks, edit cards and review wh… |
+| 2026-10-17 15:08:02 | io.github.kevin-lozada-santos/brain-scanner | Brain Scanner | 0.8.3 | Recover project context, review recorded decisions, and steer queued work acros… |
+| 2026-10-17 15:08:35 | [se.digitalk2/digitalk2](https://github.com/digitalk2se/digitalk2-plugin) | DigitalK2 | 1.0.0 | K2 annual reports for Swedish limited companies: SIE import, tax, INK2 and fili… |
+| 2026-10-17 15:09:16 | com.delvetolife.mcp/delve-to-life | Delve to Life | 1.0.0 | Dress codes explained, outfit formulas by occasion and weather, and clothing co… |
+| 2026-10-17 15:11:54 | [io.github.kengrary/jvmind-mat](https://github.com/kengrary/web_mat_project) | JVMind MAT Heap Dump Analyzer | 0.1.0 | Analyze Java heap dumps locally with Eclipse MAT. |
+| 2026-10-17 15:12:32 | io.github.AjiGhufron9999/x402-agent-data | Hermes Agent Data Services (x402) | 1.0.1 | x402 paid on-chain data: token report, contract DD, pool risk, wallet profile,… |
+| 2026-10-17 15:13:13 | com.keeltools/keeltools-directory | KeelTools AI Directory | 1.0.0 | Search KeelTools AI tools, Skills and prompts: taglines, pricing model, feature… |
+| 2026-10-17 15:14:20 | [io.github.cognitive-emergence/prooftask](https://github.com/cognitive-emergence/prooftask-integrations) | Prooftask | 0.1.0 | Delivery agreements, client acceptance and verifiable delivery records through… |
+| 2026-10-17 15:15:29 | com.focaupscaler/upscaler | Foca Upscaler | 1.0.0 | Upscale images from HTTPS URLs with account credits and retrieve async results. |
+| 2026-10-17 15:16:40 | com.domkozak/knowledge | Dom Kozak: pDOOH and Built for MENA | 1.0.0 | Search Dom Kozak's Built for MENA podcast and pDOOH 101/201 lessons, with quote… |
+| 2026-10-17 15:18:32 | ai.getrush/rush | Rush | 1.0.0 | Hand Rush a task: an agent does the work in its own cloud sandbox and returns a… |
+| 2026-10-17 15:19:47 | [ai.mapmap/mapmap](https://github.com/Mapmapai/mapmap) | MapMap | 1.1.0 | Maps for agents: truck/ADR routing, geocoding, places, matrices, isochrones, EV… |
+| 2026-10-17 15:21:00 | com.predictasiax/mcp | PredictAsiaX MCP Server | 2.0.1 | Official PredictAsiaX MCP server: 44 tools for prediction markets, trading, liq… |
 
 ## Data source
 
