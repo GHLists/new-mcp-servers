@@ -1,0 +1,34 @@
+created_at,server,title,version,repository,transports,description
+2026-10-17T00:22:25.923059Z,io.github.owen282000/life-dashboard,Life Dashboard,1.1.0,https://github.com/owen282000/life-dashboard-stack,,Read-only health and screen time history from the Postgres of a self-hosted Life Dashboard Stack
+2026-10-17T00:29:17.785574Z,com.pipecorn/mcp,Pipecorn,0.1.0,https://github.com/Pipecorn/mcp-pipecorn,streamable-http,"Search B2B companies and people, then find verified work emails and mobiles across 100+ providers."
+2026-10-17T00:29:18.410995Z,com.pagepenny/pagepenny,PagePenny,1.0.0,,streamable-http,"Render PDFs and images (invoices, receipts, OG images) from templates or HTML. 1 cent each."
+2026-10-17T00:33:55.063912Z,dev.workers.erikssonanton2001.statementkit/statementkit,StatementKit - bank statement normalizer,1.0.0,,streamable-http,"Normalize bank statements (CSV, camt, MT940, OFX, QIF) to JSON, analyze, export."
+2026-10-17T00:38:21.663014Z,com.thingstodoapi/events,Things To Do API,0.1.0,,streamable-http,"Search local events in plain words: shows, pop-ups, markets, classes, with times, venues, prices."
+2026-10-17T00:41:14.40334Z,ai.paintcoatings/marindec,Marindec Paints Product Assistant,1.0.0,,streamable-http,"Marindec Paints (SA) coatings: products, systems, compatibility, datasheets. Access by application."
+2026-10-17T00:44:02.287688Z,io.github.praneeth12098/x402-factory,,1.0.0,https://github.com/praneeth12098/x402-factory-clients,streamable-http,"200+ x402 paid data APIs for AI agents: prediction markets, verified weather, econ, SEC filings"
+2026-10-17T00:46:34.101815Z,md.granite/granite,Granite,1.0.0,,streamable-http,"Encrypted Markdown notes and team knowledge base. Search, read and write notes in vaults you allow."
+2026-10-17T00:46:36.168467Z,ink.letl/letlink,Letlink,1.0.0,,streamable-http,"Create branded short links and QR codes, and pull click analytics by country, device and referrer."
+2026-10-17T00:50:10.381096Z,com.tickertrac/saved-records,TickerTrac saved records,1.3.2,,streamable-http,"Saved TickerTrac theses, retained changes and exact source evidence; owner-reviewed record changes."
+2026-10-17T00:50:52.749686Z,com.flipletters/mcp,FlipLetters,0.3.1,https://github.com/Terahertz-Inc/flipletters-mcp,streamable-http,"Draft, validate, render, and share split-flap and flip-dot board videos written in flipcode."
+2026-10-17T00:56:16.3994Z,com.visualizevolume/visualizevolume,VisualizeVolume,1.0.0,,streamable-http,"See what any amount really looks like: weight, volume, pile size and a true-scale photo."
+2026-10-17T00:56:43.003694Z,com.a1syntheticoil/a1-synthetic-oil,A1 Synthetic Oil (independent AMSOIL dealer),1.0.0,,streamable-http,"AMSOIL catalog search, account options, and dealer-referral shopping links from A1 Synthetic Oil"
+2026-10-17T00:56:45.321623Z,ai.tablethis/tablethis,TableThis,0.1.0,,streamable-http,"Shared tables and Markdown docs for teams and AI-built apps, with scoped access and audited changes."
+2026-10-17T00:57:37.45411Z,com.ce-net/ce-net,ce-net,1.0.0,,streamable-http,"Factories and public digital twins anywhere on Earth for your AI: find makers, request builds."
+2026-10-17T00:57:43.133782Z,com.boardroombob/boardroombob,Boardroom Bob,1.0.0,,streamable-http,"AI strategy consultant for founders: 19 frameworks like SWOT, Five Forces and Pre-Mortem."
+2026-10-17T00:59:21.653501Z,io.geogridapi/geogridapi,GeoGridAPI,1.0.0,,streamable-http,"Google Maps local rank grids for any Google Business Profile, paid per point, no subscription."
+2026-10-17T01:04:47.258137Z,io.github.WYRE-AI/telivy-mcp,Telivy,1.0.1,https://github.com/WYRE-AI/telivy-mcp,,MCP server for Telivy's security assessment API for MSPs.
+2026-10-17T01:05:11.745102Z,io.github.WYRE-AI/roboshadow-mcp,RoboShadow,1.0.1,https://github.com/WYRE-AI/roboshadow-mcp,,MCP server for RoboShadow's Rubicon Platform Data API.
+2026-10-17T01:05:12.342511Z,io.github.WYRE-AI/customer-thermometer-mcp,Customer Thermometer,1.0.4,https://github.com/WYRE-AI/customer-thermometer-mcp,,MCP server for Customer Thermometer's customer feedback / NPS survey API.
+2026-10-17T01:05:18.429086Z,io.github.WYRE-AI/slide-mcp,Slide,1.0.1,https://github.com/WYRE-AI/slide-mcp,,MCP server for Slide's backup/BDR (business continuity/disaster recovery) API.
+2026-10-17T01:05:20.391935Z,io.github.WYRE-AI/alloy-navigator-mcp,Alloy Navigator,1.0.1,https://github.com/WYRE-AI/alloy-navigator-mcp,,MCP server for Alloy Navigator's REST API - IT asset management and ITSM data for MSPs.
+2026-10-17T01:05:32.704304Z,io.github.WYRE-AI/island-mcp,Island Browser,1.0.2,https://github.com/WYRE-AI/island-mcp,,"MCP server for Island Browser's Admin Actions, Audit, Compromised Credential, and Device APIs."
+2026-10-17T01:06:12.612425Z,io.github.Weavetab/mcp,Weavetab MCP,2.5.0-beta.5,https://github.com/Weavetab/mcp,,"Give AI agents full control over live browsers and apps to navigate, click, extract, and automate."
+2026-10-17T01:06:39.533377Z,io.github.WYRE-AI/salesforce-mcp,Salesforce,1.0.6,https://github.com/WYRE-AI/salesforce-mcp,,"MCP server for Salesforce CRM — Accounts, Contacts, Opportunities, Leads, Cases."
+2026-10-17T01:07:00.928492Z,io.github.WYRE-AI/alternative-payments-mcp,Alternative Payments,1.0.11,https://github.com/WYRE-AI/alternative-payments-mcp,,"MCP server for Alternative Payments — customers, invoices, payment requests, payouts, webhooks."
+2026-10-17T01:08:53.698729Z,io.github.mirowbek-droid/polymarket-kalshi-odds,Polymarket & Kalshi Odds vs Pinnacle Fair Probability,0.1.4,,streamable-http,"Pinnacle no-vig fair odds vs live Polymarket & Kalshi sports prices, edge after fees. 19 leagues."
+2026-10-17T01:09:54.443492Z,io.github.rww90931-ops/product-discovery,EWIGSC Product Discovery,0.1.0,,,"Search and compare EWIGSC wigs, toppers, and extensions; find first-party care guidance."
+2026-10-17T01:11:40.340554Z,gift.dhamma/pali-canon,Dhamma.Gift — Pāli Canon,1.0.0,https://github.com/dhammagift/dg-node,streamable-http,Search and read the Pāli Canon: Pāli root texts with Russian and English translations.
+2026-10-17T01:12:58.20019Z,app.featury/featury,featury,1.0.0,,streamable-http,"Ask what your product does, triage requests and publish the changelog, from a map of your code."
+2026-10-17T01:16:44.970124Z,io.github.EasyGerber/easygerber,EasyGerber PCB Design and Layout,0.1.0,https://github.com/EasyGerber/easygerber-agent-plugin,streamable-http,"PCB design and PCB layout with catalog parts, routing, checks, Gerber export and schematic editing."
+2026-10-17T01:17:48.318295Z,io.helipod/helipod,Helipod,0.5.3,https://github.com/helipodapp/mcp,streamable-http,"Run your Helipod cloud: deploy apps, read logs, manage VPS, Postgres, domains, email and AI Gateway."
+2026-10-17T01:19:37.520755Z,com.coghelm/coghelm,Coghelm: AI tools for leaders,1.1.0,https://github.com/thelconsulting/coghelm-mcp,streamable-http,"Curated AI tools for leaders: recommend and compare tools by job, plus 1:1 and board templates."
