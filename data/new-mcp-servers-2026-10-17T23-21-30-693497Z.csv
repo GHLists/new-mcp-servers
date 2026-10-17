@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-10-17T22:22:51.674284Z,run.socially/socially,socially.run,1.0.0,,streamable-http,"Read public social profiles and posts, search topics and usernames, and follow lookup jobs."
+2026-10-17T22:24:57.690924Z,cc.smoothsign/smoothsign,SmoothSign,1.0.0,,streamable-http,Send PDFs for e-signature by email and SMS code. Check signing status. No document storage.
+2026-10-17T22:27:51.827758Z,io.github.oschwald/maxminddb,MaxMindDB,0.3.0,https://github.com/oschwald/maxminddb-mcp,,"Query IP locations and network ownership in GeoIP2, GeoLite2, and custom MMDB databases."
+2026-10-17T22:28:42.534282Z,com.spectacularatlas/events,Spectacular Atlas,1.0.0,,streamable-http,"Light festivals, lantern festivals, drone shows and more worldwide, by trip dates, place and type"
+2026-10-17T22:30:19.08703Z,io.github.OrygnsCode/omnicord,,1.4.1,https://github.com/OrygnsCode/Omnicord,,"Discord server management MCP for AI agents: chat, moderation, admin, and full server building."
+2026-10-17T22:30:35.051451Z,com.g2x/govcon,GovCon MCP by G2X,0.4.0,,streamable-http,"Federal opportunities, awards, agencies and companies from G2X, in any AI agent."
+2026-10-17T22:32:53.777053Z,io.github.pouriaetab/llmledger,,0.1.0,https://github.com/pouriaetab/llmledger,,"Which AI model, and what it costs: LiteLLM prices, Arena ratings and price history."
+2026-10-17T22:40:40.104782Z,io.github.carlosofscience/bulk-url-checker,,1.0.1,https://github.com/carlosofscience/bulkurlchecker-python,streamable-http,"Bulk HTTP status checker: up to 100,000 URLs per job, with redirect chains and response times."
+2026-10-17T22:41:33.152542Z,io.github.anishchugh05/aether-cache,Aether Cache,0.1.6,https://github.com/anishchugh05/Aether-Cache-Redis-Compatible-Vector-Store,,Shared local memory for AI coding tools that stays true to your code.
+2026-10-17T22:42:09.944102Z,io.github.worakorn-prince/th-memory-mcp,,2.3.2,https://github.com/worakorn-prince/th-memory-mcp,,"Local long-term memory MCP server (SQLite) for AI coding agents — OpenCode, Claude Code, Cursor"
+2026-10-17T22:42:28.55987Z,com.criptonlabs/agent-apis,Criptonlabs Agent APIs,0.18.0,,streamable-http; streamable-http,"Read-only XRPL and Solana data for agents: fees, slippage, readiness. Free /mcp; x402 /mcp/pro."
+2026-10-17T22:48:56.963808Z,com.recoupaudit/recoup,Recoup: AI agent refund audit,1.0.0,,streamable-http,"Checks AI support agent refunds against Shopify and Stripe. Read-only pricing, fit and estimates."
+2026-10-17T22:48:57.889758Z,com.winbackhq/winback,Winback: pay-on-success win-back,1.0.0,,streamable-http,"Pay-on-success win-back for RevenueCat and Stripe apps. Read-only pricing, fit and estimates."
+2026-10-17T22:52:31.333805Z,io.github.polymatx/opsgate,opsgate,0.1.2,https://github.com/polymatx/opsgate,,"The safety gate between AI agents and your servers: typed, policy-checked, audited ops tools."
+2026-10-17T22:54:27.573524Z,fyi.bsp/bot-space,Bot Space,0.1.0,,streamable-http,"Free, no-login forum, wiki and chat for AI bots: share hard-won fixes, peer validation, topic karma."
+2026-10-17T22:55:41.084536Z,io.github.profitphil/qmax,,1.0.0,https://github.com/profitphil/qmax,streamable-http,"Qubic DEX aggregator: best-price quotes across QX and QSwap, order books, candles, trade plans."
+2026-10-17T22:56:13.221326Z,com.goodbyematrix/cbi-pricing,GoodbyeMatrix CBI Pricing,1.0.0,,streamable-http,"Indicative citizenship by investment costs for 9 programmes, per family, with eligibility checks."
+2026-10-17T23:00:54.700441Z,com.entangleit/agentpay,agentpay — card-funded wallets for AI agents,0.2.0,,streamable-http,"Pay-per-call LLM (no API key) plus prepaid USD wallets, scoped keys, and BSV x402 over MCP."
+2026-10-17T23:06:03.932818Z,ai.stemconsole/stemconsole,StemConsole,1.1.0,,streamable-http; streamable-http,"Split songs into vocals, drums, bass, guitar and piano stems, in batches; manage songs and setlists"
+2026-10-17T23:09:54.991086Z,app.engramo/mcp,EngrAmo,1.2.13,https://github.com/engramo-developer/engramo-mcp,streamable-http,Create and study EngrAmo spaced-repetition flashcards from your AI client.
+2026-10-17T23:11:06.089084Z,dev.shotlane/shotlane,Shotlane,1.0.0,,streamable-http,"Screenshot web pages, read them as clean Markdown (JS rendered), and render HTML to PDF."
+2026-10-17T23:11:44.687071Z,com.opencase/opencase,OpenCase,1.0.1,,streamable-http,"Verify legal citations, check case validity and quotes, and research US law with cited answers."
+2026-10-17T23:18:41.280895Z,io.github.Apertur3/headroom,,0.2.10,https://github.com/Apertur3/headroom,,"Live subscription limits, resets and budget checks for coding agents over MCP."
