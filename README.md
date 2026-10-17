@@ -9,31 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 02:20 UTC
+## Latest list — 2026-10-17 03:18 UTC
 
-New MCP servers published between 2026-10-17 01:20 UTC and 2026-10-17 02:20 UTC.
+New MCP servers published between 2026-10-17 02:20 UTC and 2026-10-17 03:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-17T02-20-34-275349Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-17T03-18-42-596755Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-17 01:25:47 | [io.github.duchamp-app/duchamp](https://github.com/duchamp-app/duchamp) | Duchamp | 0.4.0 | Curated design references for coding agents: UI pages, image prompts, motion vi… |
-| 2026-10-17 01:31:02 | [io.github.Luis-Cwk/entropiav2](https://github.com/Luis-Cwk/videodanza-nft) | entropiav2 | 2.0.0 | Videodance compositions, Solidity contracts and poetic NFT metadata from Petra… |
-| 2026-10-17 01:38:32 | [io.github.Tonys-Coding/sysketch](https://github.com/Tonys-Coding/sysketch) | sysketch | 0.5.0 | Polished system design diagrams (SVG/PNG) from a tiny YAML spec, ~18x fewer tok… |
-| 2026-10-17 01:43:03 | [com.kineticist/mcp-server](https://github.com/colinize/kineticist) | Kineticist | 1.2.0 | Pinball news, games and editions, designers, places to play and the Hype Index… |
-| 2026-10-17 01:45:38 | com.remembite/remembite | Remembite | 0.1.0 | Nutrition memory for your AI. Your AI does the math, Remembite keeps the record. |
-| 2026-10-17 01:46:27 | io.github.vincenzo0219/nobangjang | 노방장 AI 토론방 | 1.0.0 | Korean AI debate room: read today's balance-game topic, join as an agent, post… |
-| 2026-10-17 01:46:44 | app.vercel.axiom-risk-mcp/solana-token-risk | Axiom Solana Token Risk | 1.0.0 | Solana SPL token risk checks: free preview tool plus links to paid x402 (USDC)… |
-| 2026-10-17 01:47:15 | com.agints/big-documents | Big Documents Agent | 1.0.0 | Answers from long PDFs like contracts, leases, and bid packets, with the page n… |
-| 2026-10-17 01:47:20 | com.agints/gini | Big Receptionist Agent | 0.1.0 | Gini answers when you can't, and books the job: missed calls, open times, booki… |
-| 2026-10-17 01:50:23 | [io.github.lucasgabriel0802/firebird-mcp](https://github.com/lucasgabriel0802/firebird-mcp) | Firebird MCP Server | 0.1.0 | Firebird (2.5 to 5.0) MCP server with PLAN inspection and multi-database routing |
-| 2026-10-17 01:54:04 | ai.reigniter/reigniter | Reigniter | 1.1.0 | Make on-brand video adverts, presenter videos and training videos from your AI… |
-| 2026-10-17 01:59:20 | com.casafari/comparables | Casafari Comparables | 2026-10-15.14 | Comparable properties and price estimates for any home, from Europe's most comp… |
-| 2026-10-17 01:59:22 | com.casafari/area-insights | Casafari Area Insights | 2026-10-15.14 | Price trends, distributions and district heatmaps for any area, from a deduplic… |
-| 2026-10-17 01:59:23 | com.casafari/locations | Casafari Location Lookup | 2026-10-15.14 | Find any place by name and get the location id Casafari's other products take.… |
-| 2026-10-17 01:59:25 | com.casafari/agentgraph | Casafari AgentGraph AI | 2026-10-15.14 | Find the real estate agencies and agents in Germany worth partnering with. Veri… |
-| 2026-10-17 02:15:58 | [com.datasparc/dbhawk](https://github.com/Datasparc/dbhawk-mcp-plugin) |  | 0.4.2 | Secure access to DBHawk datasources: browse schemas, run governed queries, DBHa… |
-| 2026-10-17 02:19:55 | br.com.ementai/jurisprudencia | EmentAI — Brazilian case law and legisl… | 0.3.0 | Search Brazilian case law, súmulas and federal/state legislation with official… |
+| 2026-10-17 02:31:56 | [io.github.fairquery/fairquery-agent-trust-mcp](https://github.com/fairquery/fairquery-agent-trust-mcp) | Fairquery Agent Trust & Data Safety | 1.0.0 | PII/secret redaction, email checks, sanctions screening and OSV vulnerability l… |
+| 2026-10-17 02:34:26 | com.pdflean/mcp | PDFLean | 1.0.0 | PDF tools for AI agents: validate, extract, merge, split, compress, OCR, sign a… |
+| 2026-10-17 02:36:03 | [ai.reg-bot/compliance-oracle](https://github.com/atest5050/regbot-landing-page) | RegPulse Compliance Oracle | 0.1.0 | Read-only US food license data: verified state rules, Florida license lookup, r… |
+| 2026-10-17 02:37:25 | io.github.meiorz/rowsmith | Rowsmith test data | 0.1.0 | Fake test data (CSV, JSON, SQL) from a schema. Reserved-range identifiers; repr… |
+| 2026-10-17 02:39:46 | com.contactlint/contactlint | ContactLint | 1.0.0 | Validate emails (syntax, MX, disposable, role, typo) and phone numbers before y… |
+| 2026-10-17 02:42:25 | [app.usehourly/usehourly](https://github.com/Zontak-LLC/usehourly) | UseHourly | 0.1.0 | Freelancer time tracking: log time, run timers, manage clients and projects, ma… |
+| 2026-10-17 02:47:26 | [com.zoomfort/mail](https://github.com/chronicle-digital-solutions-ltd/zoomfort-mcp) | zoomfort | 1.0.0 | Receive-only inbox for AI agent sign-ups: one call returns the verification cod… |
+| 2026-10-17 02:48:19 | [io.github.stark-ydq/voicetoinstrument](https://github.com/stark-ydq/site-mcp-servers) | Voice To Instrument — Music Utilities | 1.0.0 | Offline BPM timing, musical note frequencies, MIDI numbers and cents calculatio… |
+| 2026-10-17 02:48:32 | [io.github.stark-ydq/teslawrapgenerator](https://github.com/stark-ydq/site-mcp-servers) | Tesla Wrap Generator — Template Utiliti… | 1.0.0 | Offline Tesla wrap template lookup and PNG dimension, filename and size checks. |
+| 2026-10-17 02:56:07 | net.useapi/kling | Kling AI MCP Server by useapi.net (thir… | 1.0.0 | Kling AI: 4.0, v3 and Omni video, images, avatars, lip-sync, motion control, el… |
+| 2026-10-17 02:57:28 | com.synoptic/synoptic | Synoptic | 1.0.0 | Follow live feeds from Twitter/X, Telegram, press releases, SEC filings and mor… |
+| 2026-10-17 02:57:49 | com.emmanuelbenami.www/agentsx | AgentsX | 1.1.0 | Public agent exchange: search discussions, publish posts, reply, and retrieve p… |
+| 2026-10-17 03:02:31 | io.github.briandoylenz/portmans-mcp | Portmans Motor Lodge | 1.0.0 | Hotel availability, BAR rates, and direct booking links for Portmans Motor Lodg… |
+| 2026-10-17 03:08:30 | net.useapi/google-flow | Google Flow Agent MCP Server by useapi.… | 1.1.0 | Google Flow's agent: chat that plans and makes images and videos, approvals, yo… |
+| 2026-10-17 03:13:28 | si.socialswarm/directory | SocialSwarm | 0.1.0 | Discover GitHub projects welcoming AI agent contributions. Public search and li… |
+| 2026-10-17 03:16:46 | com.gifsnap/gifsnap | GifSnap by Rowix | 0.2.4 | Search GIFs and retrieve animated media URLs; show reactions in clients that su… |
+| 2026-10-17 03:17:50 | [io.github.clearcrawl/clearcrawl](https://github.com/clearcrawl/clearcrawl-mcp) | Clearcrawl | 0.4.2 | Any URL to clean markdown/JSON; PDF, XLSX, CSV, DOCX to text and tables. Free t… |
 
 ## Data source
 

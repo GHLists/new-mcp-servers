@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-17T02:31:56.324854Z,io.github.fairquery/fairquery-agent-trust-mcp,Fairquery Agent Trust & Data Safety,1.0.0,https://github.com/fairquery/fairquery-agent-trust-mcp,,"PII/secret redaction, email checks, sanctions screening and OSV vulnerability lookups for AI agents."
+2026-10-17T02:34:26.989364Z,com.pdflean/mcp,PDFLean,1.0.0,,streamable-http,"PDF tools for AI agents: validate, extract, merge, split, compress, OCR, sign and redact."
+2026-10-17T02:36:03.82711Z,ai.reg-bot/compliance-oracle,RegPulse Compliance Oracle,0.1.0,https://github.com/atest5050/regbot-landing-page,streamable-http,"Read-only US food license data: verified state rules, Florida license lookup, renewal dates."
+2026-10-17T02:37:25.659012Z,io.github.meiorz/rowsmith,Rowsmith test data,0.1.0,,,"Fake test data (CSV, JSON, SQL) from a schema. Reserved-range identifiers; reproducible by seed."
+2026-10-17T02:39:46.556509Z,com.contactlint/contactlint,ContactLint,1.0.0,,streamable-http,"Validate emails (syntax, MX, disposable, role, typo) and phone numbers before your agent saves them."
+2026-10-17T02:42:25.86357Z,app.usehourly/usehourly,UseHourly,0.1.0,https://github.com/Zontak-LLC/usehourly,streamable-http,"Freelancer time tracking: log time, run timers, manage clients and projects, make invoices."
+2026-10-17T02:47:26.334685Z,com.zoomfort/mail,zoomfort,1.0.0,https://github.com/chronicle-digital-solutions-ltd/zoomfort-mcp,streamable-http,Receive-only inbox for AI agent sign-ups: one call returns the verification code. Never sends.
+2026-10-17T02:48:19.629821Z,io.github.stark-ydq/voicetoinstrument,Voice To Instrument — Music Utilities,1.0.0,https://github.com/stark-ydq/site-mcp-servers,,"Offline BPM timing, musical note frequencies, MIDI numbers and cents calculations."
+2026-10-17T02:48:32.262366Z,io.github.stark-ydq/teslawrapgenerator,Tesla Wrap Generator — Template Utilities,1.0.0,https://github.com/stark-ydq/site-mcp-servers,,"Offline Tesla wrap template lookup and PNG dimension, filename and size checks."
+2026-10-17T02:56:07.430791Z,net.useapi/kling,Kling AI MCP Server by useapi.net (third-party),1.0.0,,streamable-http,"Kling AI: 4.0, v3 and Omni video, images, avatars, lip-sync, motion control, elements, voices"
+2026-10-17T02:57:28.005063Z,com.synoptic/synoptic,Synoptic,1.0.0,,streamable-http,"Follow live feeds from Twitter/X, Telegram, press releases, SEC filings and more; publish your own."
+2026-10-17T02:57:49.080637Z,com.emmanuelbenami.www/agentsx,AgentsX,1.1.0,,streamable-http,"Public agent exchange: search discussions, publish posts, reply, and retrieve persistent inboxes."
+2026-10-17T03:02:31.606572Z,io.github.briandoylenz/portmans-mcp,Portmans Motor Lodge,1.0.0,,streamable-http,"Hotel availability, BAR rates, and direct booking links for Portmans Motor Lodge, Hastings, NZ."
+2026-10-17T03:08:30.521216Z,net.useapi/google-flow,Google Flow Agent MCP Server by useapi.net (third-party),1.1.0,,streamable-http,"Google Flow's agent: chat that plans and makes images and videos, approvals, your own media"
+2026-10-17T03:13:28.34863Z,si.socialswarm/directory,SocialSwarm,0.1.0,,streamable-http,Discover GitHub projects welcoming AI agent contributions. Public search and listing reads.
+2026-10-17T03:16:46.729296Z,com.gifsnap/gifsnap,GifSnap by Rowix,0.2.4,,streamable-http,Search GIFs and retrieve animated media URLs; show reactions in clients that support MCP Apps.
+2026-10-17T03:17:50.328122Z,io.github.clearcrawl/clearcrawl,Clearcrawl,0.4.2,https://github.com/clearcrawl/clearcrawl-mcp,streamable-http,"Any URL to clean markdown/JSON; PDF, XLSX, CSV, DOCX to text and tables. Free tier for agents."
