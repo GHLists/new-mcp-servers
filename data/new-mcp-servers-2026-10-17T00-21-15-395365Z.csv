@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-16T23:21:12.060333Z,io.github.ralf9090/agent-kiosk,Agent Kiosk — 12-in-1 B2A Intelligence & x402 API,2.3.0,https://github.com/ralf9090/agent-kiosk,streamable-http,"12-in-1 intelligence MCP server: DeFi alpha, whale profiler, security audit, B2B leads & research."
+2026-10-16T23:22:00.687672Z,io.github.thevrus/marklayer,MarkLayer,0.6.0,https://github.com/thevrus/MarkLayer,,"Work visual annotations on a live webpage: watch, acknowledge, resolve, reply, or leave your own."
+2026-10-16T23:23:04.467858Z,com.ffmpeg-micro/mcp-server,,0.4.3,https://github.com/ffmpeg-micro/ffmpeg-micro-mcp,streamable-http,"MCP server for the FFmpeg Micro video transcoding API — create, monitor, download transcodes."
+2026-10-16T23:24:00.158794Z,com.trendsconnector/connector,TrendsConnector for Claude and ChatGPT,1.0.0,,streamable-http,"Ask Claude or ChatGPT what is trending. One connector, sign in, no API setup"
+2026-10-16T23:24:58.040698Z,io.runrally/rally,Rally,1.0.0,https://github.com/KestrelAI/AutoNP,streamable-http,"Run your Rally creator program from an agent: briefs, creators, content, ads, payouts. OAuth or key."
+2026-10-16T23:27:08.800305Z,com.arysphere/arysphere-x402,ARYSPHERE x402 chain reads and token verdicts,1.1.0,,streamable-http,"Pay-per-call onchain reads (Base, Ethereum, Gnosis), token verdicts and LLM chat over x402 USDC"
+2026-10-16T23:27:53.179308Z,com.rafeblandford/career,Rafe Blandford — career and writing,1.5.0,,streamable-http,"Rafe Blandford's published career, case studies and writing. Read-only; no route to contact him."
+2026-10-16T23:29:22.495125Z,live.hyperaware/whats-trending,Hyperaware: What's Trending Today,1.0.0,,streamable-http,"What's trending today on Google, TikTok, YouTube, Reddit. Public board plus MCP"
+2026-10-16T23:31:16.020625Z,io.github.Dwarf1er/sqlanywhere-mcp,,0.1.0,https://github.com/Dwarf1er/sqlanywhere-mcp,,MCP server for SAP SQL Anywhere 17: explore schemas and run read-only queries.
+2026-10-16T23:43:22.573779Z,io.github.happy520ai/gateway-price-check,Gateway Price Disclosure Check,0.5.4,https://github.com/happy520ai/gateway-price-check,,Checks whether an OpenAI-compatible endpoint publishes model prices without an account or key.
+2026-10-16T23:51:54.619675Z,dev.xpansion/xfms,XF Model Source,0.5.1,https://github.com/VisionAIrySE/XFMS,streamable-http,Find the right AI model for your job. Free discovery and ranking; tests on your own key.
+2026-10-16T23:52:19.31148Z,io.github.alex-zwingli/plan-to-eat,,0.8.0,https://github.com/alex-zwingli/plan-to-eat-mcp,,"Unofficial Plan to Eat client: recipes, meal planner, leftovers, freezer, and shopping list."
+2026-10-16T23:54:24.385911Z,io.github.callingbenjamin/dre1mery,Dre1mery,1.0.0,,streamable-http,"Real-estate underwriting, BRRRR, comps, valuation, distress search, rent-roll and T12 parsing."
+2026-10-16T23:54:35.959461Z,io.github.Secra-Solutions/conector,Conector,0.1.2,https://github.com/Secra-Solutions/Conector,,"Self-hosted MCP gateway: connect 1,178 apps once and use them from any AI agent."
+2026-10-17T00:05:36.503638Z,io.github.Buggy1111/agent-lease-mcp,Agent Lease,0.2.0,https://github.com/Buggy1111/agent-lease-mcp,,"Keep Claude Code and Codex off each other's files: hook-enforced path leases, presence, messages."
+2026-10-17T00:08:02.433364Z,com.trulyrandomverse/bible-study,TrulyRandomVerse,4.1.064,,streamable-http,"Bible study: many editions, Strong's Hebrew and Greek, cross-references, Matthew Henry, the Fathers"
+2026-10-17T00:09:53.070643Z,io.github.ipsupport-llc/seafile-mcp,Seafile,0.1.0,https://github.com/ipsupport-llc/seafile-mcp,,"Seafile libraries, folders, files and share links for any MCP client. Browser sign-in, no deps."
