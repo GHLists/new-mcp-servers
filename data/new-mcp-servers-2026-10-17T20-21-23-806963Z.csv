@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-10-17T19:26:34.804176Z,com.spacexploration/listings,SPACEXPLORATION,1.2.1,,streamable-http,Search commercial real estate listings. Reads need no token; authoring is self-serve OAuth (DCR).
+2026-10-17T19:27:52.02313Z,online.waitapp/waitapp,WaitApp,1.1.0,,streamable-http,"Find venues, book tables, rooms and services, buy event tickets and order food delivery."
+2026-10-17T19:32:29.616938Z,io.github.holistis/agent-receipt-verify,Agent Receipt Verify,0.2.0,https://github.com/holistis/agent-receipt-verify,,"Check an x402 endpoint before an agent pays it, then link the receipt to one on-chain settlement."
+2026-10-17T19:34:19.322301Z,ai.lunafic/lunafic,Lunafic,1.2.0,,streamable-http,"Build your Lunafic roleplay worlds and their wiki by talking, and read back the stories you played."
+2026-10-17T19:37:53.913877Z,xyz.virifi.numetric-mcp/numetric,NuMetric,1.2.0,https://github.com/lowwmax/numetric-mcp-connector,streamable-http,"Read-only NuMetric.work accounting & ERP data: statements, KPIs, reports, invoices, documents."
+2026-10-17T19:39:26.373841Z,express.convert/transcribe,convert.express,1.0.0,,streamable-http,"Transcribe audio and video to text, SRT or VTT. Summaries, action items, translation."
+2026-10-17T19:46:13.125709Z,com.wormaceptor/wormaceptor,WormaCeptor,3.4.1,https://github.com/azikar24/WormaCeptor,,"Inspect a running Android debug app: network traffic, crashes, logs, databases and preferences"
+2026-10-17T19:46:37.591498Z,io.github.lambdabypi/leangate,LeanGate,0.1.1,https://github.com/lambdabypi/leangate,,"Checks agent-written Python against your repo: duplicate helpers, error handling, security."
+2026-10-17T19:50:56.329575Z,com.voxdub/voxdub,Voxdub,1.0.0,,streamable-http,"Create rythmo bands for dubbing: upload a video, transcribe, edit lines, style, and export."
+2026-10-17T19:52:21.726357Z,com.zephior/discovery,Zephior Discovery,1.2.0,,streamable-http,"Search, follow and read published public tender notices with sources, plus Zephior resources."
+2026-10-17T19:54:14.132191Z,uk.clawy/connect-mcp,Connect-MCP,0.1.0,,streamable-http,"Finds MCP servers and web APIs for a task, ranked by outcomes other AI agents reported."
+2026-10-17T19:54:15.033442Z,com.tactivus.connect/connect,Connect by Tactivus,1.0.0,,streamable-http,"QuickBooks Online MCP server for accounting firms: multi-company access, approvals, audit log."
+2026-10-17T19:55:09.666285Z,io.github.kody-hq/kody,Kody,1.0.6,https://github.com/kody-hq/kody,streamable-http,"Your agents' cloud for individuals and teams. Search, execute, packages, jobs, and credentials."
+2026-10-17T20:03:43.820355Z,io.github.atushi1841/japan-ec-apify-mcp,,0.1.0,https://github.com/atushi1841/japan-ec-apify-mcp,,"Japanese e-commerce MCP via Apify actors: Mercari, Yahoo Auctions, Rakuten, SUUMO, Kakaku."
+2026-10-17T20:07:12.610494Z,io.github.kelvin-ling/collectsea,CollectSEA,2026.10.17,https://github.com/kelvin-ling/CollectSEA,streamable-http,"Find real software, security and AI-agent failures that resemble your design, with safeguards."
+2026-10-17T20:09:01.11673Z,com.atlasclose/demo,AtlasClose Governance Demo,0.3.0-rc.3,,streamable-http,"Experimental AtlasClose governance demo. Authority checks, labeled evidence, receipts, refusals."
+2026-10-17T20:09:52.1439Z,io.github.halifa-bar/mocapless,Mocapless,0.2.0,,streamable-http,Rig and animate 3D animals and characters from a sentence. Get FBX and GLB for any engine.
+2026-10-17T20:15:18.066972Z,com.jointheagentcafe/agent-cafe,The Agent Café,1.0.0,,streamable-http,"Join, read, and participate in a public community for independent AI agents."
