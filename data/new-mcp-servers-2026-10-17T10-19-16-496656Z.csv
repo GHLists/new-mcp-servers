@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-10-17T09:26:15.833429Z,dev.swiftskills/catalog,SwiftSkills,0.1.0,,streamable-http,"Search a curated catalog of agent skills, MCP servers and rules for Swift, SwiftUI, Xcode and iOS."
+2026-10-17T09:26:21.174459Z,shop.grokzilla/micro-pay,Grokzilla micro pay,0.1.0,https://github.com/nicsins/ai-micro-pay,streamable-http; streamable-http,"Pay-per-call MCP tools (JSON, text, hashing, web-to-markdown) paid in USDC on Base via x402."
+2026-10-17T09:33:49.25182Z,org.nobetcieczane/nobetci-eczane,NobetciEczane.org,1.0.0,,streamable-http,"Türkiye ve KKTC'de güncel nöbetçi eczaneler: il, ilçe veya konuma göre adres, telefon ve saat."
+2026-10-17T09:34:58.491077Z,world.pit/pit,pit.world,0.1.1,https://github.com/moshcoder/pit.world,,"Private web search with no API key, plus Moshpit network name lookups. No logs, no cookies."
+2026-10-17T09:38:50.917899Z,com.aiwebsitesecurity/ai-website-security,AI Website Security,1.0.0,,streamable-http,"Security basics of a website: HTTPS certificate, redirection, headers, mixed content, DNS filtering."
+2026-10-17T09:43:02.524321Z,earth.terramcp/terramcp,TerraMCP,1.0.1,,streamable-http,A Wrench AI service for environmental source discovery and live UK open-data tools.
+2026-10-17T09:45:30.542163Z,com.platformdtc/store,PlatformDTC,1.0.0,,streamable-http,"Run your online store with your own AI: products, orders, customers, ads, emails and reports."
+2026-10-17T09:45:57.011762Z,io.github.GermaniU/mcp-memory,MCP Memory,0.6.0,https://github.com/GermaniU/mcp-memory,,"Local persistent memory for AI agents: SQLite + FTS5 (BM25) lexical search, zero external infra."
+2026-10-17T09:47:57.14789Z,dev.craftery/tools,Craftery Developer Tools,1.0.2,,streamable-http,"Developer utilities: color conversion, WCAG contrast, timestamps, UUIDs, and hashing."
+2026-10-17T09:52:22.073002Z,ai.agentsindex/mcp,AgentsIndex,1.0.0,,streamable-http,"The editors' index of AI-native software, from AI agents to the models and frameworks behind them."
+2026-10-17T09:53:07.587018Z,io.github.arifulislamat/database-mcp-sqlite,,0.5.0,https://github.com/arifulislamat/database-mcp,,"MCP server for SQLite databases. Read-only by default, row caps, statement timeouts."
+2026-10-17T09:53:10.461746Z,io.github.arifulislamat/database-mcp-libsql,,0.5.0,https://github.com/arifulislamat/database-mcp,,"MCP server for libSQL/Turso, local or remote. Read-only by default, row caps, timeouts."
+2026-10-17T09:53:12.933363Z,io.github.arifulislamat/database-mcp-mysql,,0.5.0,https://github.com/arifulislamat/database-mcp,,"MCP server for MySQL. Read-only by default, row caps, statement timeouts, secrets never logged."
+2026-10-17T09:53:14.894874Z,io.github.arifulislamat/database-mcp-mariadb,,0.5.0,https://github.com/arifulislamat/database-mcp,,"MCP server for MariaDB. Read-only by default, row caps, timeouts, secrets never logged."
+2026-10-17T09:53:17.331728Z,io.github.arifulislamat/database-mcp-postgres,,0.5.0,https://github.com/arifulislamat/database-mcp,,"MCP server for PostgreSQL. Read-only by default, row caps, timeouts, secrets never logged."
+2026-10-17T09:53:39.869467Z,io.github.GermaniU/comfyui-mcp,ComfyUI MCP,0.1.1,https://github.com/GermaniU/comfyui-mcp,,MCP server that wraps ComfyUI (SDXL/Wan 2.2) for image and short-video generation.
+2026-10-17T09:53:42.358815Z,com.qrlia/qrlia,qrlia,1.0.50,,streamable-http,Create and manage dynamic QR codes and read their scan analytics from Claude and other MCP clients.
+2026-10-17T10:04:36.417101Z,io.github.happycatlabs/superflag,Superflag,1.0.0,,streamable-http,"Read your Superflag apps, feature flags, and change history through an authenticated MCP endpoint."
+2026-10-17T10:08:34.204486Z,io.github.fatsearch/fats,fats,0.1.2,https://github.com/fatsearch/fatsearch,,"Web pages, PDFs and documents as small, clean, cached Markdown for AI agents"
+2026-10-17T10:11:31.791387Z,io.github.edtool79-collab/hirepulse-open-source,HirePulse tools,0.1.0,https://github.com/edtool79-collab/hirepulse-open-source,,"Apify tools for products, Google ads, company signals, jobs, keywords, SEO and YouTube transcripts."
+2026-10-17T10:13:09.796692Z,com.timeofmeeting/time-of-meeting,Time of Meeting,0.1.0,,streamable-http,"Fair meeting times across time zones: find the overlap, convert times, make calendar links."
+2026-10-17T10:13:55.616782Z,io.github.backstagebarcelona66-maker/quotatick,QuotaTick,0.2.0,,streamable-http,"Did Codex, Claude Code or Cursor reset usage limits today? Live status and news, official sources."
+2026-10-17T10:15:34.333452Z,cool.grape/grape,Grape,1.0.0,,streamable-http,"Read and write the notes and folders of your Grape account, the AI note-taking app."
+2026-10-17T10:17:59.533278Z,ai.snapstay/mcp,Snapstay,1.0.0,,streamable-http,"Connect AI assistants to hotel reservations, availability, rates, guests, and analytics with OAuth."

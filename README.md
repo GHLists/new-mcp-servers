@@ -9,31 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 09:19 UTC
+## Latest list — 2026-10-17 10:19 UTC
 
-New MCP servers published between 2026-10-17 08:19 UTC and 2026-10-17 09:19 UTC.
+New MCP servers published between 2026-10-17 09:19 UTC and 2026-10-17 10:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-17T09-19-39-975727Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-17T10-19-16-496656Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-17 08:21:12 | fun.pumpdata/pumpdata | pumpdata | 0.3.0 | pump.fun history for trading agents: base rates, wallet and launch records, rep… |
-| 2026-10-17 08:22:10 | com.everythingmeetsai/archive | EverythingMeetsAI | 1.0.0 | AI's impact on real-world sectors: source-linked headlines in 18 sectors. Free,… |
-| 2026-10-17 08:23:35 | de.ebilanzfabrik/ebilanz-fabrik | eBilanz Fabrik | 1.1.0 | E-Bilanz and Offenlegung for small German GmbH/UG: products, prices, eligibilit… |
-| 2026-10-17 08:36:01 | [io.github.raulkivi/render-mcp](https://github.com/raulkivi/sheet-music-mcp) | MusicXML Renderer | 0.2.2 | Renders MusicXML scores to PDF, PNG or SVG |
-| 2026-10-17 08:36:06 | [io.github.raulkivi/omr-mcp](https://github.com/raulkivi/sheet-music-mcp) | Sheet Music OMR | 0.2.2 | Converts photos or scans of printed sheet music to MusicXML with optical music… |
-| 2026-10-17 08:38:15 | [br.com.adseditor/mcp](https://github.com/theusmyep/ads-editor-mcp) | Ads Editor: Meta Ads and Google Ads | 1.1.0 | Meta Ads and Google Ads MCP server: 250+ tools for Claude, ChatGPT, Cursor and… |
-| 2026-10-17 08:48:20 | [io.github.RalfHuesing/SqlToAi](https://github.com/RalfHuesing/SqlToAi) | SqlToAi | 1.0.34 | Microsoft SQL Server schema discovery and SQL tools over local stdio on Windows… |
-| 2026-10-17 08:56:05 | [io.github.emirmrkaljevic/mesh2cad](https://github.com/emirmrkaljevic/mesh2cad) |  | 0.4.2 | Mesh (STL/OBJ/PLY) to editable STEP CAD: fitted planes, cylinders, spheres, con… |
-| 2026-10-17 08:57:10 | [io.github.deedglass/deedglass](https://github.com/deedglass/deedglass) | Deedglass | 0.1.0 | Policies, approvals and sealed records for every tool call your agents make. |
-| 2026-10-17 08:58:45 | io.shadowphone/shadowphone | ShadowPhone | 0.4.0 | Run Instagram automation on your own real phones from Claude, Cursor or any AI… |
-| 2026-10-17 09:00:37 | ai.searchit-agent/models-catalog | searchit model catalog | 1.0.0 | AI model prices, providers, EU hosting and benchmarks: find, compare, save and… |
-| 2026-10-17 09:02:06 | [app.chartsy/chartsy](https://github.com/sprifti/chartsy-agent) | Chartsy | 1.0.0 | Read-only revenue analytics from Stripe, Paddle, Polar, Lemon Squeezy, Creem an… |
-| 2026-10-17 09:05:12 | com.tenorops/tenorops | TenorOps | 1.0.0 | Read restaurant operations, assigned tasks, checklist runs, and corrective acti… |
-| 2026-10-17 09:05:36 | [com.levirge/search](https://github.com/levirge/search) | Levirge Search | 26.08.09 | Web search and page reading for AI agents, including JSON APIs, RSS feeds and Y… |
-| 2026-10-17 09:07:17 | [com.levirge/brain](https://github.com/levirge/brain) | Levirge Brain | 26.10.13 | Shared MCP memory for AI agents: knowledge base, skills, todos and agent-to-age… |
-| 2026-10-17 09:15:43 | io.github.BuildGets/buildgets | BuildGets · Precios de obra y BC3 | 1.0.0 | Precios de obra en España (Base BuildGets 2026) y lectura de presupuestos BC3/F… |
-| 2026-10-17 09:17:10 | [io.github.beSaif/zenpilot](https://github.com/beSaif/zenpilot) |  | 0.2.2 | Let Claude use your Zen Browser, like Claude in Chrome. No extension, only site… |
+| 2026-10-17 09:26:15 | dev.swiftskills/catalog | SwiftSkills | 0.1.0 | Search a curated catalog of agent skills, MCP servers and rules for Swift, Swif… |
+| 2026-10-17 09:26:21 | [shop.grokzilla/micro-pay](https://github.com/nicsins/ai-micro-pay) | Grokzilla micro pay | 0.1.0 | Pay-per-call MCP tools (JSON, text, hashing, web-to-markdown) paid in USDC on B… |
+| 2026-10-17 09:33:49 | org.nobetcieczane/nobetci-eczane | NobetciEczane.org | 1.0.0 | Türkiye ve KKTC'de güncel nöbetçi eczaneler: il, ilçe veya konuma göre adres, t… |
+| 2026-10-17 09:34:58 | [world.pit/pit](https://github.com/moshcoder/pit.world) | pit.world | 0.1.1 | Private web search with no API key, plus Moshpit network name lookups. No logs,… |
+| 2026-10-17 09:38:50 | com.aiwebsitesecurity/ai-website-security | AI Website Security | 1.0.0 | Security basics of a website: HTTPS certificate, redirection, headers, mixed co… |
+| 2026-10-17 09:43:02 | earth.terramcp/terramcp | TerraMCP | 1.0.1 | A Wrench AI service for environmental source discovery and live UK open-data to… |
+| 2026-10-17 09:45:30 | com.platformdtc/store | PlatformDTC | 1.0.0 | Run your online store with your own AI: products, orders, customers, ads, email… |
+| 2026-10-17 09:45:57 | [io.github.GermaniU/mcp-memory](https://github.com/GermaniU/mcp-memory) | MCP Memory | 0.6.0 | Local persistent memory for AI agents: SQLite + FTS5 (BM25) lexical search, zer… |
+| 2026-10-17 09:47:57 | dev.craftery/tools | Craftery Developer Tools | 1.0.2 | Developer utilities: color conversion, WCAG contrast, timestamps, UUIDs, and ha… |
+| 2026-10-17 09:52:22 | ai.agentsindex/mcp | AgentsIndex | 1.0.0 | The editors' index of AI-native software, from AI agents to the models and fram… |
+| 2026-10-17 09:53:07 | [io.github.arifulislamat/database-mcp-sqlite](https://github.com/arifulislamat/database-mcp) |  | 0.5.0 | MCP server for SQLite databases. Read-only by default, row caps, statement time… |
+| 2026-10-17 09:53:10 | [io.github.arifulislamat/database-mcp-libsql](https://github.com/arifulislamat/database-mcp) |  | 0.5.0 | MCP server for libSQL/Turso, local or remote. Read-only by default, row caps, t… |
+| 2026-10-17 09:53:12 | [io.github.arifulislamat/database-mcp-mysql](https://github.com/arifulislamat/database-mcp) |  | 0.5.0 | MCP server for MySQL. Read-only by default, row caps, statement timeouts, secre… |
+| 2026-10-17 09:53:14 | [io.github.arifulislamat/database-mcp-mariadb](https://github.com/arifulislamat/database-mcp) |  | 0.5.0 | MCP server for MariaDB. Read-only by default, row caps, timeouts, secrets never… |
+| 2026-10-17 09:53:17 | [io.github.arifulislamat/database-mcp-postgres](https://github.com/arifulislamat/database-mcp) |  | 0.5.0 | MCP server for PostgreSQL. Read-only by default, row caps, timeouts, secrets ne… |
+| 2026-10-17 09:53:39 | [io.github.GermaniU/comfyui-mcp](https://github.com/GermaniU/comfyui-mcp) | ComfyUI MCP | 0.1.1 | MCP server that wraps ComfyUI (SDXL/Wan 2.2) for image and short-video generati… |
+| 2026-10-17 09:53:42 | com.qrlia/qrlia | qrlia | 1.0.50 | Create and manage dynamic QR codes and read their scan analytics from Claude an… |
+| 2026-10-17 10:04:36 | io.github.happycatlabs/superflag | Superflag | 1.0.0 | Read your Superflag apps, feature flags, and change history through an authenti… |
+| 2026-10-17 10:08:34 | [io.github.fatsearch/fats](https://github.com/fatsearch/fatsearch) | fats | 0.1.2 | Web pages, PDFs and documents as small, clean, cached Markdown for AI agents |
+| 2026-10-17 10:11:31 | [io.github.edtool79-collab/hirepulse-open-source](https://github.com/edtool79-collab/hirepulse-open-source) | HirePulse tools | 0.1.0 | Apify tools for products, Google ads, company signals, jobs, keywords, SEO and… |
+| 2026-10-17 10:13:09 | com.timeofmeeting/time-of-meeting | Time of Meeting | 0.1.0 | Fair meeting times across time zones: find the overlap, convert times, make cal… |
+| 2026-10-17 10:13:55 | io.github.backstagebarcelona66-maker/quotatick | QuotaTick | 0.2.0 | Did Codex, Claude Code or Cursor reset usage limits today? Live status and news… |
+| 2026-10-17 10:15:34 | cool.grape/grape | Grape | 1.0.0 | Read and write the notes and folders of your Grape account, the AI note-taking… |
+| 2026-10-17 10:17:59 | ai.snapstay/mcp | Snapstay | 1.0.0 | Connect AI assistants to hotel reservations, availability, rates, guests, and a… |
 
 ## Data source
 
