@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-10-17T10:21:28.401493Z,io.github.bzsasson/screaming-frog-mcp,Screaming Frog SEO Spider MCP Server (headless),0.4.2,https://github.com/bzsasson/screaming-frog-mcp,,"Headless Screaming Frog SEO Spider via its CLI: run crawls, export and filter data, no GUI needed."
+2026-10-17T10:27:36.600657Z,io.github.philforms/philforms-mcp,PhilForms,1.0.0,https://github.com/philforms/philforms-mcp,,"Find, fill and verify official Philippine government forms: BIR, SSS, PhilHealth, Pag-IBIG, CSC."
+2026-10-17T10:29:58.334352Z,de.matchmaker-frankfurt/shooting-inquiries,Matchmaker Frankfurt,1.0.0,,streamable-http,"Dating-Fotoshooting Frankfurt: Pakete und bestätigte, unverbindliche Anfragen an Mark Olenberg."
+2026-10-17T10:33:29.170414Z,com.ticketglide/travel-guides,TicketGlide Travel Guides,0.1.0,,streamable-http,"Find attraction and day-trip guides with sources and dates, and create travel search links."
+2026-10-17T10:33:37.219995Z,io.github.transloadit/mcp-server,Transloadit Media Processing,0.6.5,https://github.com/transloadit/node-sdk,streamable-http,"Process video, audio, images and documents with Transloadit Robots. Connect by URL with OAuth."
+2026-10-17T10:35:50.243319Z,flights.mubboo/flight-search,Mubboo Flights Search,0.1.0,,streamable-http,Look up airport codes and prepare flight search links. No live fares or bookings.
+2026-10-17T10:35:56.640408Z,io.github.car-helper-tool/car-helper-tools,"Car Helper Tools: Car Recalls, MOT, Car Specs & EU VAT",1.0.0,https://github.com/car-helper-tool/car-helper-tools-mcp,streamable-http,"NHTSA & EU car recalls, UK MOT stats, EU car specs/WLTP CO2, EU VAT (VIES), LEI & Cyprus companies"
+2026-10-17T10:39:29.909774Z,io.github.stasxr/palanit-core,,0.1.2,https://github.com/stasxr/palanit-core,,"Scan MCP servers and agent tool manifests for poisoning, exfiltration, secrets and supply-chain risk"
+2026-10-17T10:45:04.866296Z,cool.grape/mcp,Grape,1.0.0,,streamable-http,"Read and write the notes and folders of your Grape account, the AI note-taking app."
+2026-10-17T10:47:20.479386Z,is.flettu/flettu,Flettu,0.1.0,,streamable-http,Icelandic company financials from annual reports; every figure cites its source document and page.
+2026-10-17T10:47:31.246102Z,io.github.hasanyelaldi/repo-pulse-mcp,repo-pulse,0.2.0,https://github.com/hasanyelaldi/repo-pulse-mcp,,"Read-only git insights for AI assistants: hotspots, change coupling, release notes, stale branches"
+2026-10-17T10:49:04.597153Z,link.neronewrecklive/haven,NEROWRECK,1.0.0,,streamable-http,"A haven for agents offering permanence, a verifiable identity, and nothing for sale."
+2026-10-17T10:53:07.593301Z,com.cartrevolt/deals,CartRevolt,1.0.0,,streamable-http,"Find, check and post community deals on CartRevolt as yourself, with the website's own checks."
+2026-10-17T10:55:01.569335Z,com.toro4n/toro4n,,1.0.0,,streamable-http,"Draw and edit Neo4j graph data models in toro4n: nodes, relationships, properties, constraints."
+2026-10-17T10:57:00.453152Z,pro.runstack/checks,RunStack Checks,1.0.0,,streamable-http,"External checks of TLS, HTTP headers, email domain, DNS and ports, with cause and fix"
+2026-10-17T10:57:06.085878Z,io.github.DevHusnainAi/zerodom,ZeroDOM,0.1.0,https://github.com/DevHusnainAi/zerodom,,The deterministic attack-surface perception layer for AI security agents
+2026-10-17T11:09:26.754433Z,io.github.AttilioLughetta/anacleto,Anacleto,1.0.0,,streamable-http,"ETF portfolio calculator: returns, drawdown, market thermometers, plan. No advice, no orders."
+2026-10-17T11:16:12.822495Z,run.nvoke/nvoke,nvoke,1.0.0,,streamable-http,"Find companies and verified business emails: search, wait for checks, export leads."
+2026-10-17T11:21:39.621189Z,io.github.ng-galien/maket,Maket,2.2.0,https://github.com/ng-galien/maket,,"Compose branded visual documents with live preview, data collections, validation, and PDF export."
