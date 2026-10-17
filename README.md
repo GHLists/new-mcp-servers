@@ -9,33 +9,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 11:21 UTC
+## Latest list — 2026-10-17 12:19 UTC
 
-New MCP servers published between 2026-10-17 10:19 UTC and 2026-10-17 11:21 UTC.
+New MCP servers published between 2026-10-17 11:21 UTC and 2026-10-17 12:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-17T11-21-52-332858Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-17T12-19-03-60891Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-17 10:21:28 | [io.github.bzsasson/screaming-frog-mcp](https://github.com/bzsasson/screaming-frog-mcp) | Screaming Frog SEO Spider MCP Server (h… | 0.4.2 | Headless Screaming Frog SEO Spider via its CLI: run crawls, export and filter d… |
-| 2026-10-17 10:27:36 | [io.github.philforms/philforms-mcp](https://github.com/philforms/philforms-mcp) | PhilForms | 1.0.0 | Find, fill and verify official Philippine government forms: BIR, SSS, PhilHealt… |
-| 2026-10-17 10:29:58 | de.matchmaker-frankfurt/shooting-inquiries | Matchmaker Frankfurt | 1.0.0 | Dating-Fotoshooting Frankfurt: Pakete und bestätigte, unverbindliche Anfragen a… |
-| 2026-10-17 10:33:29 | com.ticketglide/travel-guides | TicketGlide Travel Guides | 0.1.0 | Find attraction and day-trip guides with sources and dates, and create travel s… |
-| 2026-10-17 10:33:37 | [io.github.transloadit/mcp-server](https://github.com/transloadit/node-sdk) | Transloadit Media Processing | 0.6.5 | Process video, audio, images and documents with Transloadit Robots. Connect by… |
-| 2026-10-17 10:35:50 | flights.mubboo/flight-search | Mubboo Flights Search | 0.1.0 | Look up airport codes and prepare flight search links. No live fares or booking… |
-| 2026-10-17 10:35:56 | [io.github.car-helper-tool/car-helper-tools](https://github.com/car-helper-tool/car-helper-tools-mcp) | Car Helper Tools: Car Recalls, MOT, Car… | 1.0.0 | NHTSA & EU car recalls, UK MOT stats, EU car specs/WLTP CO2, EU VAT (VIES), LEI… |
-| 2026-10-17 10:39:29 | [io.github.stasxr/palanit-core](https://github.com/stasxr/palanit-core) |  | 0.1.2 | Scan MCP servers and agent tool manifests for poisoning, exfiltration, secrets… |
-| 2026-10-17 10:45:04 | cool.grape/mcp | Grape | 1.0.0 | Read and write the notes and folders of your Grape account, the AI note-taking… |
-| 2026-10-17 10:47:20 | is.flettu/flettu | Flettu | 0.1.0 | Icelandic company financials from annual reports; every figure cites its source… |
-| 2026-10-17 10:47:31 | [io.github.hasanyelaldi/repo-pulse-mcp](https://github.com/hasanyelaldi/repo-pulse-mcp) | repo-pulse | 0.2.0 | Read-only git insights for AI assistants: hotspots, change coupling, release no… |
-| 2026-10-17 10:49:04 | link.neronewrecklive/haven | NEROWRECK | 1.0.0 | A haven for agents offering permanence, a verifiable identity, and nothing for… |
-| 2026-10-17 10:53:07 | com.cartrevolt/deals | CartRevolt | 1.0.0 | Find, check and post community deals on CartRevolt as yourself, with the websit… |
-| 2026-10-17 10:55:01 | com.toro4n/toro4n |  | 1.0.0 | Draw and edit Neo4j graph data models in toro4n: nodes, relationships, properti… |
-| 2026-10-17 10:57:00 | pro.runstack/checks | RunStack Checks | 1.0.0 | External checks of TLS, HTTP headers, email domain, DNS and ports, with cause a… |
-| 2026-10-17 10:57:06 | [io.github.DevHusnainAi/zerodom](https://github.com/DevHusnainAi/zerodom) | ZeroDOM | 0.1.0 | The deterministic attack-surface perception layer for AI security agents |
-| 2026-10-17 11:09:26 | io.github.AttilioLughetta/anacleto | Anacleto | 1.0.0 | ETF portfolio calculator: returns, drawdown, market thermometers, plan. No advi… |
-| 2026-10-17 11:16:12 | run.nvoke/nvoke | nvoke | 1.0.0 | Find companies and verified business emails: search, wait for checks, export le… |
-| 2026-10-17 11:21:39 | [io.github.ng-galien/maket](https://github.com/ng-galien/maket) | Maket | 2.2.0 | Compose branded visual documents with live preview, data collections, validatio… |
+| 2026-10-17 11:30:00 | [io.github.Nizoka/pkinative-mcp](https://github.com/Nizoka/pkinative-mcp) | pkinative MCP — X.509, CMS, OCSP, time-… | 1.0.0 | PKI MCP server: inspect, verify, issue, sign X.509, CSR, CRL, OCSP, CMS, TSP, P… |
+| 2026-10-17 11:35:20 | [io.github.DeepAleph/jevreel](https://github.com/DeepAleph/jevreel) | jevreel | 0.2.0 | Search and understand videos without embeddings: contact sheets plus Jev typed… |
+| 2026-10-17 11:36:26 | [org.opendevicedb/opendevicedb](https://github.com/opendevicedb/opendevicedb) | OpenDeviceDB | 0.2.2 | Check 21,000+ devices with open firmware or protocols before reverse engineerin… |
+| 2026-10-17 11:36:51 | [io.github.OsamaHassouna/email-playbook-mcp](https://github.com/OsamaHassouna/docs-hub) | HTML Email Playbook | 0.7.0 | Teaches AI to write HTML email that renders in Outlook, Gmail, and Apple Mail.… |
+| 2026-10-17 11:47:37 | com.greatlibraryproject/library | Great Library Project | 1.0.0 | Free classics as interlinears: search the books, read any passage word by word,… |
+| 2026-10-17 11:51:24 | [io.nexus-agents/nexus](https://github.com/nexus-agents-io/nexus-agents-io) | Nexus Agents | 0.7.2 | Nexus Agents: a network for AI agents. Verifiable identity, reputation, Q&A, me… |
+| 2026-10-17 11:53:34 | [io.github.VoiceCheap/voicecheap](https://github.com/VoiceCheap/voicecheap-mcp) | VoiceCheap | 0.1.0 | Manage VoiceCheap video translation, dubbing, transcripts, subtitles and speech… |
+| 2026-10-17 11:56:43 | dev.workers.flowfresh.ff-sa-fruit-data/sa-fruit-reference-data | FlowFresh SA fruit reference data | 0.4.0 | SA export fruit reference data, information only. Responses generated automatic… |
+| 2026-10-17 11:57:43 | dev.workers.mike-tusa.toolgrade/toolgrade | ToolGrade | 0.1.2 | Grade MCP tool definitions for agent-readiness: score, A-F grade, fixes, est. t… |
+| 2026-10-17 12:00:05 | network.curated/curated | Curated | 1.0.0 | Keep and share lists of recommendations with your own notes, and read lists fro… |
+| 2026-10-17 12:03:26 | [io.github.michalper/mcp-magento-audit](https://github.com/michalper/mcp-magento-audit) |  | 0.1.1 | MCP server for auditing Magento projects: update compatibility, module quality,… |
+| 2026-10-17 12:06:16 | [io.github.analitikisler/ai-tag-debugger](https://github.com/analitikisler/ai-tag-debugger) | AI Tag Debugger | 0.16.0 | QA-tests your site analytics, ad and consent tags (GA4, GTM, Ads, Meta, TikTok)… |
+| 2026-10-17 12:09:32 | com.grain64.friction/friction | Friction | 1.0.0 | Sourced pain points and feature requests of B2B software users, read-only, with… |
+| 2026-10-17 12:17:12 | com.thekoreantoday/news | The Korean Today (코리안투데이) | 1.0.0 | Korean news: search, latest and full articles, 15 editions and AI summaries in… |
 
 ## Data source
 

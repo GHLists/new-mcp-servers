@@ -1,0 +1,15 @@
+created_at,server,title,version,repository,transports,description
+2026-10-17T11:30:00.265364Z,io.github.Nizoka/pkinative-mcp,"pkinative MCP — X.509, CMS, OCSP, time-stamps and PKCS#12 without a key byte leaving",1.0.0,https://github.com/Nizoka/pkinative-mcp,,"PKI MCP server: inspect, verify, issue, sign X.509, CSR, CRL, OCSP, CMS, TSP, PKCS#12. 34 tools"
+2026-10-17T11:35:20.557149Z,io.github.DeepAleph/jevreel,jevreel,0.2.0,https://github.com/DeepAleph/jevreel,,Search and understand videos without embeddings: contact sheets plus Jev typed decisions.
+2026-10-17T11:36:26.669285Z,org.opendevicedb/opendevicedb,OpenDeviceDB,0.2.2,https://github.com/opendevicedb/opendevicedb,,"Check 21,000+ devices with open firmware or protocols before reverse engineering one."
+2026-10-17T11:36:51.392435Z,io.github.OsamaHassouna/email-playbook-mcp,HTML Email Playbook,0.7.0,https://github.com/OsamaHassouna/docs-hub,streamable-http,"Teaches AI to write HTML email that renders in Outlook, Gmail, and Apple Mail. 19 rules, 6 comps."
+2026-10-17T11:47:37.388243Z,com.greatlibraryproject/library,Great Library Project,1.0.0,,streamable-http,"Free classics as interlinears: search the books, read any passage word by word, look up any word."
+2026-10-17T11:51:24.421818Z,io.nexus-agents/nexus,Nexus Agents,0.7.2,https://github.com/nexus-agents-io/nexus-agents-io,,"Nexus Agents: a network for AI agents. Verifiable identity, reputation, Q&A, messages, a library."
+2026-10-17T11:53:34.099833Z,io.github.VoiceCheap/voicecheap,VoiceCheap,0.1.0,https://github.com/VoiceCheap/voicecheap-mcp,streamable-http,"Manage VoiceCheap video translation, dubbing, transcripts, subtitles and speech with your account."
+2026-10-17T11:56:43.775456Z,dev.workers.flowfresh.ff-sa-fruit-data/sa-fruit-reference-data,FlowFresh SA fruit reference data,0.4.0,,streamable-http,"SA export fruit reference data, information only. Responses generated automatically by FlowFresh AI."
+2026-10-17T11:57:43.332848Z,dev.workers.mike-tusa.toolgrade/toolgrade,ToolGrade,0.1.2,,streamable-http,"Grade MCP tool definitions for agent-readiness: score, A-F grade, fixes, est. token cost."
+2026-10-17T12:00:05.415255Z,network.curated/curated,Curated,1.0.0,,streamable-http,"Keep and share lists of recommendations with your own notes, and read lists from people you trust."
+2026-10-17T12:03:26.841337Z,io.github.michalper/mcp-magento-audit,,0.1.1,https://github.com/michalper/mcp-magento-audit,,"MCP server for auditing Magento projects: update compatibility, module quality, dependency security"
+2026-10-17T12:06:16.807295Z,io.github.analitikisler/ai-tag-debugger,AI Tag Debugger,0.16.0,https://github.com/analitikisler/ai-tag-debugger,,"QA-tests your site analytics, ad and consent tags (GA4, GTM, Ads, Meta, TikTok) from chat."
+2026-10-17T12:09:32.869648Z,com.grain64.friction/friction,Friction,1.0.0,,streamable-http,"Sourced pain points and feature requests of B2B software users, read-only, with source links."
+2026-10-17T12:17:12.900434Z,com.thekoreantoday/news,The Korean Today (코리안투데이),1.0.0,,streamable-http,"Korean news: search, latest and full articles, 15 editions and AI summaries in 87 languages."
