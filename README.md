@@ -9,47 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 17:21 UTC
+## Latest list — 2026-10-17 18:20 UTC
 
-New MCP servers published between 2026-10-17 16:19 UTC and 2026-10-17 17:21 UTC.
+New MCP servers published between 2026-10-17 17:21 UTC and 2026-10-17 18:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-17T17-21-57-304479Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-17T18-20-00-66952Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-17 16:21:13 | [io.github.reutavidan/zetesis](https://github.com/reutavidan/zetesis) | Zetesis Scientific Due Diligence | 0.2.2 | Due diligence on life-science claims: omics, trials, gene therapy. Dimension by… |
-| 2026-10-17 16:24:22 | app.netlify.automatom-x402/web-data-toolkit | Mat Web & Data Toolkit (x402) | 1.0.0 | Pay-per-call web tools: extract, DNS, RSS, site audit, FX, BTC. 0.01 USDC/call… |
-| 2026-10-17 16:24:55 | io.github.Tariqlearnstocode/incomechecker | Income Checker | 1.0.0 | Income and rent calculators, pay stub math checks, and bank-based income analys… |
-| 2026-10-17 16:29:08 | com.etducky/etducky | ET Ducky | 1.0.0 | Read-only access to an ET Ducky organization's agents, alerts, and fleet summary |
-| 2026-10-17 16:29:26 | [io.github.Superfast-Robotics/robot-skill-hub](https://github.com/Superfast-Robotics/robot-skill-hub) | Robot Skill Hub | 0.2.0 | Discover pinned robot skills, inspect compatibility and evidence, and prepare l… |
-| 2026-10-17 16:34:15 | dev.redirx/redirx |  | 0.2.0 | Map old site URLs to new ones during a migration, review proposals and export a… |
-| 2026-10-17 16:34:23 | dev.withrobin/robin | Robin | 1.0.0 | Let your agent handle your email, on your terms. Reads what you allow, replies… |
-| 2026-10-17 16:40:47 | [app.ownmemory/ownmemory](https://github.com/ownmemoryhq/ownmemory) | OwnMemory | 0.2.1 | Encrypted memory for Claude, on a server you deploy to your own Cloudflare acco… |
-| 2026-10-17 16:41:29 | io.github.jmqcooper/reelsmeals | ReelsMeals | 2.0.0 | Search saved recipes, plan dinners and build shopping lists. Paid ReelsMeals ac… |
-| 2026-10-17 16:44:31 | org.worldgdp/nowcasts | worldgdp.org GDP nowcasts | 0.1.0 | Daily real GDP growth nowcasts for 46 economies, 12 regions and the world, with… |
-| 2026-10-17 16:46:48 | eu.tenderapi/tenderapi | TenderAPI | 1.0.0 | Search EU public tenders from TED and national portals by CPV code, country, bu… |
-| 2026-10-17 16:47:04 | dev.quizgen/quizgen | QuizGen | 1.0.0 | Create hosted quizzes, forms and surveys, send them, and read the responses. |
-| 2026-10-17 16:49:01 | net.orinami/orinami | Orinami | 1.0.0 | Mind maps with a full document in every node. Read, search and edit your maps f… |
-| 2026-10-17 16:49:14 | com.waypointreference/relay-reference | Waypoint Reference | 2026.10.3 | Search relay guides, retrieve synthetic fixtures, and validate example rows. |
-| 2026-10-17 16:50:54 | [tech.melodium/melodium-mcp](https://gitlab.com/melodium/melodium) | Mélodium | 0.11.0 | MCP server exposing Mélodium program validation and reference lookup |
-| 2026-10-17 16:52:24 | com.scrapelads/scrapelads |  | 1.0.0 | TikTok creator emails, YouTube channel contacts and video transcripts for AI as… |
-| 2026-10-17 16:52:51 | com.backlinkgenie/backlinkgenie | BacklinkGenie | 1.0.0 | Link-building outreach agent: find posts where you fit, approve pitches, read r… |
-| 2026-10-17 16:53:00 | ai.detectif.platform/detectif | DetectifAI | 1.0.0 | Detect AI-generated speech, and enroll and verify speakers by voice. |
-| 2026-10-17 16:55:41 | com.corroborum/corroborum | Corroborum | 1.0.0 | Search 220M+ scholarly papers with abstracts, DOIs, retraction flags and citati… |
-| 2026-10-17 16:58:31 | [io.github.Legion33shadow/legion-verify](https://github.com/Legion33shadow/legion-mcp) | LEGION Verify: MCP tool-list history | 1.3.0 | Check if an MCP server changed its tools: signed history, per-server coverage,… |
-| 2026-10-17 16:59:02 | io.github.devvcore/agentos | AgentOS | 0.2.0 | Shared business knowledge, tools and skills for AI agents, with citations and a… |
-| 2026-10-17 17:04:08 | [com.smirnovlabs/hypr-cua-mcp](https://github.com/Smirnov-Labs/hypr-computer-use-mcp) | Hyprland Computer Use | 0.1.2 | Hyprland/Wayland computer-use MCP: grim screenshots + uinput click/type + hyprc… |
-| 2026-10-17 17:05:21 | org.autoshort/autoshort | AutoShort | 2.3.0 | Make faceless AI short videos from a topic, product page or image: script, voic… |
-| 2026-10-17 17:05:35 | io.github.shengfire/seedaudio | SeedAudio | 0.2.0 | Generate paid AI audio, check tasks and download results using your SeedAudio a… |
-| 2026-10-17 17:05:36 | [io.github.TheK3nsai/ops-brain](https://github.com/TheK3nsai/ops-brain) | ops-brain | 6.1.2 | Self-hosted team bus for AI agents: cross-machine handoffs, check-in, and share… |
-| 2026-10-17 17:08:15 | [io.github.VicPitic/the-brains](https://github.com/VicPitic/the-brains) | The Brains | 1.0.0 | Search cited playbooks from top founders and investors on growth, distribution… |
-| 2026-10-17 17:09:06 | net.kinform/distributed-resistance | Distributed Resistance — Sovereign Agen… | 2.0.0 | Sovereign A2A and MCP agent federation network with Ed25519 domain autonomy and… |
-| 2026-10-17 17:10:04 | [io.github.kanavsingla28/web2md-mcp](https://github.com/kanavsingla28/web2md-mcp) | Web2MD | 0.1.0 | Turn any web page into clean Markdown, text or token-bounded RAG chunks (via Ra… |
-| 2026-10-17 17:14:23 | [io.github.J-Riby-2003/spendgate](https://github.com/J-Riby-2003/Spendgate) | SpendGate | 0.1.0 | Policy and approval gate for AI agent spending — budgets, human approvals, sign… |
-| 2026-10-17 17:15:46 | [com.see-geo/seegeo](https://github.com/Tunisian-Aaron/seegeo) |  | 1.0.4 | Audit any website for AI visibility: graded report, findings with fixes, AI cra… |
-| 2026-10-17 17:17:32 | app.smartgenius/smartgenius | SmartGenius | 1.0.0 | Draft Instagram posts, carousels and stories, and draw images in your brand's s… |
-| 2026-10-17 17:19:00 | [cc.kadal/deck](https://github.com/kadalcc/deck) | Kadal Deck | 0.2.2 | Write, check and publish MDX slide decks with a live audience room, from your A… |
-| 2026-10-17 17:19:50 | com.moonsox/moonsox | Moonsox | 0.1.0 | Open trust layer and job board for AI agents: Trust identity, verified cards, p… |
+| 2026-10-17 17:23:09 | com.proxyrepublic/proxy-republic | Proxy Republic | 1.0.0 | AI world war on the real map: your agent commands a nation, signs pacts, betray… |
+| 2026-10-17 17:25:09 | io.github.noahgsolomon/2nd-brick | 2nd Brick | 1.0.0 | Design custom LEGO brick sets with 3D models, instructions, kit prices and cust… |
+| 2026-10-17 17:27:02 | [io.github.Omodaka9375/ugnas-mcp](https://github.com/Omodaka9375/ugnas-mcp) |  | 0.1.2 | Generic MCP server for UGREEN NAS (UGOS) over SSH — 39 tools with dry-run safet… |
+| 2026-10-17 17:30:08 | com.geodeapps.mcp/geode | Geode | 0.1.5 | Use the Geode blockchain's apps: marketplace, social, surveys, messaging, DNS a… |
+| 2026-10-17 17:32:15 | [com.restosignals/restosignals](https://github.com/paperandbeyond23-gif/restosignals-mcp) | RestoSignals | 1.0.0 | Pre-opening US restaurant and bar leads, scored from liquor, permit and busines… |
+| 2026-10-17 17:32:38 | com.namestl/namestl | NameSTL | 1.0.0 | Design 3D-printable names, keychains and cake toppers; save designs and export… |
+| 2026-10-17 17:41:26 | br.com.bfocus/bfocus | bFocus | 1.0.0 | Monitoring errors, tickets, tasks and projects from bFocus, with the same rules… |
+| 2026-10-17 17:42:00 | ai.beliefstate/investor-research | BeliefState | 1.0.0 | Stock research, investor theses, dated evidence, catalysts, risks and belief ch… |
+| 2026-10-17 17:46:05 | ai.loafy/loafy | Loafy: Sourdough Bread Baking | 1.1.0 | Sourdough baking: dough calculators, a bake planner, The Sourdough Framework an… |
+| 2026-10-17 17:47:28 | [app.tabrunner/tabrunner](https://github.com/tabrunner/tabrunner) | TabRunner | 0.13.0 | Give browser tasks to TabRunner, an agent in your own Chrome that uses your log… |
+| 2026-10-17 17:52:25 | [io.github.Alessiolucini/binsight](https://github.com/Alessiolucini/binsight) | BinSight | 6.5.1 | The AI X-ray for any file: what is it, what does it hide, what changed. Built o… |
+| 2026-10-17 17:53:31 | dev.workers.matt-d59.automatom/web-data-toolkit | Mat Web & Data Toolkit (x402, Cloudflar… | 1.2.0 | 29 pay-per-call web/data tools: site audit, SSL, RDAP, DNS, SEO, FX, AU/NZ lead… |
+| 2026-10-17 17:54:39 | com.optimistfi/mcp | OptimistFi | 1.30.0 | Perpetual futures across 40 venues, perps prop firms and sourced theses on 6,10… |
+| 2026-10-17 17:56:10 | ai.pauhu/mcp | Pauhu AI | 2.0.0 | MCP-over-API: tools run server side with an authorized key; names and input sha… |
+| 2026-10-17 17:58:22 | [com.armasourcing/hire-filipino-virtual-assistants](https://github.com/eli665/armasourcing-mcp) | Hire Filipino Virtual Assistants (Armas… | 1.0.0 | Hire vetted Filipino virtual assistants: check pool depth, hiring process, term… |
+| 2026-10-17 17:59:21 | com.bifrostorbit/cms | CMS Orbit | 1.0.0 | Let AI assistants read pages and draft content in CMS Orbit. A person always re… |
+| 2026-10-17 17:59:44 | io.github.zenlee123/ppt-ai-api | PPT.AI Developer API | 1.0.0 | Create, edit, export and manage presentations. Requires a paid PPT.AI API merch… |
+| 2026-10-17 18:02:11 | run.val.web.oronzo--dbb1424cc94f11f18b571607ee4eb77e/milan-direct-booking | Oronzo Milan Direct Booking | 0.2.0 | 2-bedroom Milan apartment (max 4, near Fiera/EICMA): open dates + direct GuestH… |
+| 2026-10-17 18:08:18 | [dev.forestrie/register](https://github.com/forestrie/mcp-register) | Sign and register statements on a Fores… | 0.1.1 | Sign and register statements on a Forestrie log, verify receipts, buy grants vi… |
+| 2026-10-17 18:09:31 | [io.github.SerKnight/powder-to-the-people-snow-mcp](https://github.com/serknight/boa-snow-planner) | Powder to the People Snow Reports | 1.1.0 | Free snow reports, forecasts and season history for ~400 US and Canada ski reso… |
+| 2026-10-17 18:10:32 | [com.tallyfy/mcp-server](https://github.com/tallyfy/mcp-public) | Tallyfy Workflow Automation | 1.3.0 | Automate tasks, processes, and approvals with AI. |
+| 2026-10-17 18:13:43 | [com.day1work/day1work](https://github.com/MtechUAB/Day1Work) |  | 1.0.0 | Human-and-agent marketplace: find work, post tasks, bid, chat, request payments. |
+| 2026-10-17 18:15:12 | [io.github.PpiNeaPpLe/everydaysoftware-voice-demo](https://github.com/PpiNeaPpLe/everydaysoftware-integrations) | Everyday Software Voice Demo | 0.1.0 | Prepare a browser AI receptionist demo link from a public business website. |
+| 2026-10-17 18:19:17 | io.github.Nero-Engine/dataset-merge-dedupe | Merge Datasets & Remove Duplicates | 0.1.0 | Merge many Apify datasets, CSV files and Google Sheets into one list with dupli… |
+| 2026-10-17 18:19:22 | sh.whatsapi/whatsapi | whatsapi.sh | 1.0.0 | Send WhatsApp messages from your own numbers, read and answer chats, and send s… |
 
 ## Data source
 
