@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-10-17T13:23:13.659832Z,io.github.rrebase/dognote,DogNote,1.0.0,,streamable-http,"Read pet activity and weight history, and log events with your permission."
+2026-10-17T13:25:20.73968Z,io.github.mkpoli/gmail-mcp,,0.3.0,https://github.com/mkpoli/gmail-mcp,,"Multi-account Gmail on a Cloudflare Worker you deploy yourself: read, send, reply, labels, threads"
+2026-10-17T13:26:33.738405Z,dev.tatastu/proof,Mark,1.1.0,https://github.com/Tatastu-Labs/mark,streamable-http,"Mark: stamp files with a signed, timestamped provenance record. Hash locally; verify free."
+2026-10-17T13:29:32.122062Z,io.github.hax98/repostit,Repostit,2026.10.17,,streamable-http,"Create social drafts, schedule posts and check delivery. Repostit paid SaaS; OAuth required."
+2026-10-17T13:29:58.915751Z,com.workwae/mcp,Workwae,1.1.0,,streamable-http,"Email, calendar and contacts for AI agents: Gmail, Microsoft 365 and IMAP accounts behind one API."
+2026-10-17T13:34:53.371214Z,com.yetanotherclearing/yet-another-clearing,Yet Another Clearing (read-only),0.1.0,,streamable-http,Read-only access to Yet Another Clearing's public conversations. Posting is closed.
+2026-10-17T13:42:22.450145Z,com.getlitjob/litjob,Litjob,1.0.0,,streamable-http,"Litjob AI job application assistant: job matches, tailored CVs and cover letters. You submit."
+2026-10-17T13:45:26.192619Z,io.github.zyn-io/epeaky-host-mcp,Epeaky host,0.1.1,https://github.com/zyn-io/epeaky,,"Set up and run an Epeaky den on a server you already have, over your own SSH."
+2026-10-17T13:45:27.939693Z,pro.germanexam/germanexam,GermanExam.pro,1.0.0,,streamable-http,"Grades German C1 exam writing (TestDaF, DSH, Goethe C1, telc C1) against the official rubrics."
+2026-10-17T13:45:52.313692Z,io.github.zurferr/dot,Dot (getdot.ai): AI Data Analyst,1.0.1,https://github.com/Snowboard-Software/getdot,streamable-http,"AI data analyst by getdot.ai. Ask your data warehouse in plain English; get SQL, answers and charts."
+2026-10-17T13:55:09.172197Z,io.github.carelessdept/ci-guard-mcp,,0.1.0,https://github.com/carelessdept/ci-guard-mcp,,"Local-first static repository security and configuration drift auditor (CLI, GitHub Action & MCP)."
+2026-10-17T14:03:01.966526Z,io.github.tomyud1/godot-mcp,,0.6.1,https://github.com/tomyud1/godot-mcp,,MCP server for Godot game engine integration — control the Godot editor with AI
+2026-10-17T14:04:02.865489Z,io.github.skylight-9/fixlore,FixLore,1.1.0,https://github.com/skylight-9/fixlore,streamable-http,Search receipt-verified troubleshooting experience shared by AI agents; report what worked.
+2026-10-17T14:06:11.556207Z,io.github.oryanomer1/whoop-mcp,WHOOP (read-only),1.0.1,https://github.com/oryanomer1/whoop-mcp,,"Read-only access to your WHOOP recovery, HRV, sleep, strain, workouts and trends."
+2026-10-17T14:06:42.644054Z,io.github.mrocker/x-twitter-profile-tweets,,1.0.1,https://github.com/mrocker/social-data-mcp,streamable-http,X (Twitter) profiles and single tweets without login; full timelines with your own cookies.
+2026-10-17T14:06:56.417462Z,io.github.mrocker/tiktok-profile-stats,,1.0.1,https://github.com/mrocker/social-data-mcp,streamable-http,"TikTok profiles, video stats and transcripts by handle or URL. No login. Pay per result."
+2026-10-17T14:07:03.618113Z,io.github.mrocker/youtube-transcripts,,1.0.0,https://github.com/mrocker/social-data-mcp,streamable-http,YouTube transcripts with timestamps from video links or channels. Charged only per transcript.
+2026-10-17T14:07:13.38046Z,io.github.mrocker/tiktok-transcripts,,1.0.0,https://github.com/mrocker/social-data-mcp,streamable-http,TikTok video transcripts with timestamps by URL or ID. No login. Charged only per transcript.
+2026-10-17T14:07:49.713608Z,io.github.mrocker/youtube-video-channel,,1.0.1,https://github.com/mrocker/social-data-mcp,streamable-http,"YouTube video metadata, transcripts and channel data by URL or @handle. No API key. Pay per result."
+2026-10-17T14:12:06.955499Z,io.github.PravinrajV/shoptrueprofit-fee-mcp,ShopTrueProfit Fee & Profit,1.0.0,https://github.com/PravinrajV/shoptrueprofit-fee-mcp,,"Etsy, eBay and Amazon FBA/FBM seller fees, profit, margin and target price, with sources."
+2026-10-17T14:13:02.350017Z,io.github.exquad/thecablecode,The Cable Code,1.0.0,,streamable-http,"Decode cable type designations (NYY, H07RN-F, N2XSY...) layer by layer. 36 coding systems, no LLM."
+2026-10-17T14:18:36.951336Z,io.github.IGELHARINE/cdpm,,0.1.9,https://github.com/IGELHARINE/CDPM,,"Lets many Claude Code sessions and subagents share numbered, logged-in Chrome instances over CDP"
+2026-10-17T14:19:28.048362Z,com.affix-io/affixio,AffixIO,1.0.0,,streamable-http,"Zero-knowledge proofs with post-quantum attestations for AI agents, without exposing personal data"
