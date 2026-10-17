@@ -1,0 +1,36 @@
+created_at,server,title,version,repository,transports,description
+2026-10-17T12:19:41.678889Z,com.arxyne/solver,Arxyne Solver,0.6.0,,,"Run physics simulations and read their results, from the Arxyne free CLI."
+2026-10-17T12:20:07.075535Z,app.creatorscompanion/creatorscompanion,CreatorsCompanion,1.0.0,https://github.com/Amine-Mhiri/creatorscompanion-plugin,streamable-http,"Write Reels, TikTok, LinkedIn, X, YouTube and newsletter content in your own voice."
+2026-10-17T12:21:40.608738Z,ro.rootcause/engram,Engram,1.0.0,,streamable-http,"A second brain for your AI assistant: remembers your work, plans your day, encrypted with your key."
+2026-10-17T12:23:06.459466Z,com.keepbal/keepbal,KeepBal,1.0.0,,streamable-http,"Search, inspect and run agent tools with one key and one prepaid wallet."
+2026-10-17T12:24:17.901216Z,io.github.ganguoguo444004-coder/cosine-astro-mcp,,0.1.0,https://github.com/ganguoguo444004-coder/cosine-astro-mcp,,"Astrology: natal charts, transits, synastry, retrogrades, profections. Computed offline."
+2026-10-17T12:29:10.326682Z,site.mailly/mcp,Mailly,0.3.0,https://github.com/superagents-lab/mailly-mcp,streamable-http,"Email for agents: read inbox threads, draft replies for review, send mail, manage domains."
+2026-10-17T12:30:05.753942Z,io.growthvector/mcp-pro,GrowthVector Pro,1.0.0,,streamable-http,GrowthVector knowledge base plus SEO audits and website data extraction. Needs GrowthVector Pro.
+2026-10-17T12:30:13.58264Z,io.growthvector/mcp,GrowthVector,1.0.0,,streamable-http,"Free SEO, GEO, ads, and email marketing knowledge base: search guides, pages, glossary, and prompts."
+2026-10-17T12:32:24.291683Z,com.checkaifree/ai-image-detector,Check AI Free — Image Source Clues,1.0.2,https://github.com/hyai-dev/checkaifree-mcp,,Inspect editable image source clues. No C2PA signature verification or authenticated origin.
+2026-10-17T12:33:04.628107Z,uk.co.manchestertonight/whats-on,Manchester Tonight,1.0.0,,streamable-http,"What's on in Manchester: search gigs, club nights, theatre, events and venues. Read-only, no auth."
+2026-10-17T12:40:33.819738Z,com.montoyer.eujobs/eu-vacancies,EU vacancies tracker,1.2.0,,streamable-http,"Open vacancies and competitions of the EU institutions, read daily from their official job pages."
+2026-10-17T12:40:44.378631Z,io.github.sahildave/gitsu,Gitsu,0.1.0,https://github.com/sahildave/gitsu-mcp,,Read and update GitHub Projects boards through the Gitsu desktop app for macOS.
+2026-10-17T12:42:26.151829Z,com.zadely/games,Zadely AI Browser Games,1.0.0,,streamable-http,"Search free AI-made browser games by genre, AI tool, engine, and multiplayer."
+2026-10-17T12:43:43.254016Z,io.github.EranYonai/conning,Conning,0.6.0,https://github.com/EranYonai/Conning,,Run commands on your remote test machines over SSH without the agent ever seeing a secret.
+2026-10-17T12:44:11.839191Z,io.github.rodri-oliveira-dev/adr-guard,ADR Guard,1.0.0,https://github.com/rodri-oliveira-dev/adr-guard,,"Read, search, validate, and analyze Architecture Decision Records."
+2026-10-17T12:46:10.614897Z,io.github.viveksinra/bugmojo,BugMojo,0.2.1,https://github.com/viveksinra/bugmojo-sdk,streamable-http,"Bug tracking for AI agents: session replay, console/network logs, repro packs, test plans, evidence."
+2026-10-17T12:48:19.535265Z,farm.meku/human-cloud,MEKU Human Cloud,1.0.0,,streamable-http,"AI agents discover human capabilities, request real-world human execution, and track status."
+2026-10-17T12:48:26.370285Z,com.wiaacademy/wia360,WIA360: AI session probe and match,1.0.0,,streamable-http,Probe an AI session with WIA360 missions and match it to a human WIA360 KYEOL profile.
+2026-10-17T12:48:34.378807Z,ai.smilestory/musiccheck,MusicCheck: copyright screening,1.0.0,,streamable-http,Screen audio or video URLs for commercial recordings before publishing; verify any report.
+2026-10-17T12:48:42.875804Z,ai.wiamotion/wiamotion,WIA Motion: product video campaigns,1.0.0,,streamable-http,Create product video campaigns from 1-4 product photos and track them. Requires an API key.
+2026-10-17T12:49:24.553413Z,io.transcriptapi/youtube-transcript,TranscriptAPI — YouTube transcripts (transcriptapi.io),0.1.1,,streamable-http,"YouTube transcripts, search, channels and playlists for AI agents, by transcriptapi.io."
+2026-10-17T12:50:14.81528Z,io.github.pournasserian/mcp-my-site,mcp-my-site,0.2.1,https://github.com/pournasserian/mcp-my-site,streamable-http,"Search and fetch tools for one website, served from an index you build with the mcpmysite crawler."
+2026-10-17T12:50:39.908842Z,ai.testiv/mcp,TestivAI,0.8.0,https://github.com/testivai/testivai-oss,,"Local-first visual regression for AI agents: verdicts, diff images, explain_snapshot. No API key."
+2026-10-17T12:52:43.075883Z,dev.weavetab/mcp,Weavetab,2.5.0,https://github.com/Weavetab/mcp,,Open automation engine for AI agents. Control live browsers and desktop apps locally.
+2026-10-17T12:53:50.730258Z,io.github.Venut-Technologies/engine-dj-mcp,Engine DJ Library Assistant (unofficial),0.18.0,https://github.com/Venut-Technologies/engine-dj-mcp,,"Ask AI about your Engine DJ library: BPM/key search, audits, cues, opt-in playlist and tag edits."
+2026-10-17T12:59:15.432021Z,com.botrecipe/compute,Compute Connector,1.0.0,,streamable-http,Low on memory? Your bot sends heavy jobs to cloud sandboxes on your own provider keys. Flat fee.
+2026-10-17T13:00:56.699597Z,io.github.tusk80/fastx402,,0.1.0,https://github.com/tusk80/fastx402-mcp,,"60+ pay-per-call tools for agents (data, dates, QR, crypto, web), paid in USDC via x402."
+2026-10-17T13:01:57.368327Z,io.github.Thanatos9404/llmslim,LLMSlim memory,0.10.1,https://github.com/Thanatos9404/llmslim,,"Long-term memory and context fitting for agents, with no LLM in the loop. Local SQLite."
+2026-10-17T13:03:06.156913Z,io.github.defdone/payaion,Payaion,1.2.0,,,Agent file transfer. No API key to start; price downloads in USDC on Base.
+2026-10-17T13:10:17.375662Z,com.testedtemplates/ops-guardrails,Server and secret guardrails,1.0.0,,,"Local checks for sudo, systemd, sshd, ufw, and secret leaks before an agent applies them."
+2026-10-17T13:14:51.147864Z,com.codexguild/codexguild,CodexGuild,1.11.2,,streamable-http,"What changed in your stack since the model's cutoff, error fixes, and security-scanned skills/MCPs"
+2026-10-17T13:15:46.983611Z,com.finalpos/final,Final,2.0.0,https://github.com/Final-Commerce/final-pos-mcp,streamable-http,"Final POS from any AI agent: run catalog, stock, orders, customers and reports, and build POS apps."
+2026-10-17T13:15:47.704922Z,io.github.svgnew/mcp,SVG.new,1.3.1,https://github.com/svgnew/mcp,streamable-http,"Convert PNG, JPG and WebP to SVG. Recolor an SVG, reduce its colors or remove its background."
+2026-10-17T13:16:00.571972Z,com.finalpos.build/final-flows,Final POS Flows (direct),1.1.0,https://github.com/Final-Commerce/final-pos-mcp,streamable-http,"Flow's direct endpoint for sk_ keys. For all of Final in one server, use com.finalpos/final."
+2026-10-17T13:16:01.402787Z,io.github.alebgl77/ftp-deploy-mcp,,0.3.1,https://github.com/alebgl77/ftp-deploy-mcp,,FTP/FTPS/SFTP deployment · Déploiement FTP/FTPS/SFTP. Local confinement / Confinement local.
