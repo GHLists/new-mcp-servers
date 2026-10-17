@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-17T08:21:12.615659Z,fun.pumpdata/pumpdata,pumpdata,0.3.0,,streamable-http,"pump.fun history for trading agents: base rates, wallet and launch records, replay. Paid per call."
+2026-10-17T08:22:10.976434Z,com.everythingmeetsai/archive,EverythingMeetsAI,1.0.0,,streamable-http,"AI's impact on real-world sectors: source-linked headlines in 18 sectors. Free, read-only, no text."
+2026-10-17T08:23:35.391946Z,de.ebilanzfabrik/ebilanz-fabrik,eBilanz Fabrik,1.1.0,,streamable-http,"E-Bilanz and Offenlegung for small German GmbH/UG: products, prices, eligibility."
+2026-10-17T08:36:01.514377Z,io.github.raulkivi/render-mcp,MusicXML Renderer,0.2.2,https://github.com/raulkivi/sheet-music-mcp,,"Renders MusicXML scores to PDF, PNG or SVG"
+2026-10-17T08:36:06.507608Z,io.github.raulkivi/omr-mcp,Sheet Music OMR,0.2.2,https://github.com/raulkivi/sheet-music-mcp,,Converts photos or scans of printed sheet music to MusicXML with optical music recognition
+2026-10-17T08:38:15.928343Z,br.com.adseditor/mcp,Ads Editor: Meta Ads and Google Ads,1.1.0,https://github.com/theusmyep/ads-editor-mcp,streamable-http,"Meta Ads and Google Ads MCP server: 250+ tools for Claude, ChatGPT, Cursor and Codex."
+2026-10-17T08:48:20.404612Z,io.github.RalfHuesing/SqlToAi,SqlToAi,1.0.34,https://github.com/RalfHuesing/SqlToAi,,Microsoft SQL Server schema discovery and SQL tools over local stdio on Windows x64.
+2026-10-17T08:56:05.032972Z,io.github.emirmrkaljevic/mesh2cad,,0.4.2,https://github.com/emirmrkaljevic/mesh2cad,,"Mesh (STL/OBJ/PLY) to editable STEP CAD: fitted planes, cylinders, spheres, cones + fidelity report"
+2026-10-17T08:57:10.884956Z,io.github.deedglass/deedglass,Deedglass,0.1.0,https://github.com/deedglass/deedglass,,"Policies, approvals and sealed records for every tool call your agents make."
+2026-10-17T08:58:45.202582Z,io.shadowphone/shadowphone,ShadowPhone,0.4.0,,streamable-http,"Run Instagram automation on your own real phones from Claude, Cursor or any AI agent."
+2026-10-17T09:00:37.180106Z,ai.searchit-agent/models-catalog,searchit model catalog,1.0.0,,streamable-http,"AI model prices, providers, EU hosting and benchmarks: find, compare, save and watch offers."
+2026-10-17T09:02:06.613744Z,app.chartsy/chartsy,Chartsy,1.0.0,https://github.com/sprifti/chartsy-agent,streamable-http,"Read-only revenue analytics from Stripe, Paddle, Polar, Lemon Squeezy, Creem and Freemius."
+2026-10-17T09:05:12.93018Z,com.tenorops/tenorops,TenorOps,1.0.0,,streamable-http,"Read restaurant operations, assigned tasks, checklist runs, and corrective actions in TenorOps."
+2026-10-17T09:05:36.080463Z,com.levirge/search,Levirge Search,26.08.09,https://github.com/levirge/search,streamable-http,"Web search and page reading for AI agents, including JSON APIs, RSS feeds and YouTube."
+2026-10-17T09:07:17.060058Z,com.levirge/brain,Levirge Brain,26.10.13,https://github.com/levirge/brain,streamable-http,"Shared MCP memory for AI agents: knowledge base, skills, todos and agent-to-agent handoffs."
+2026-10-17T09:15:43.649257Z,io.github.BuildGets/buildgets,BuildGets · Precios de obra y BC3,1.0.0,,streamable-http,Precios de obra en España (Base BuildGets 2026) y lectura de presupuestos BC3/FIEBDC-3 de Presto.
+2026-10-17T09:17:10.419749Z,io.github.beSaif/zenpilot,,0.2.2,https://github.com/beSaif/zenpilot,,"Let Claude use your Zen Browser, like Claude in Chrome. No extension, only sites you allow."
