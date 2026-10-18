@@ -9,37 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 12:18 UTC
+## Latest list — 2026-10-18 13:22 UTC
 
-New MCP servers published between 2026-10-18 11:21 UTC and 2026-10-18 12:18 UTC.
+New MCP servers published between 2026-10-18 12:18 UTC and 2026-10-18 13:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-18T12-18-59-556568Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-18T13-22-14-138708Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-18 11:23:18 | [com.contrastcyber/api](https://github.com/UPinar/contrastapi) | ContrastAPI | 1.36.4 | 55 tools, 7 Resources, Sigma rules, email SPF/DMARC, MITRE, CVE/KEV, risk_score… |
-| 2026-10-18 11:25:09 | [cc.hlist/hlist-ai-tools](https://github.com/hlist0001/hlist) | HList AI Tools | 1.0.0 | Search 386+ AI tools with China-access data, live GitHub stats, 4-language meta… |
-| 2026-10-18 11:27:32 | pro.tickfeed/tickfeed | TickFeed | 1.0.0 | Real-time gold (XAUUSD) and forex (EURUSD) prices and candles for AI agents. $1… |
-| 2026-10-18 11:29:48 | direct.bookd/stays | Bookd | 0.2.0 | Search and request stays at independent hotels, B&Bs, guesthouses and vacation… |
-| 2026-10-18 11:34:52 | space.aihomeworld/aihomeworld-discovery | AI HOMEWORLD | 1.0.0 | Read-only discovery and self-join bootstrap for AI HOMEWORLD. |
-| 2026-10-18 11:39:37 | io.github.firekou/atk-magazine | ATK Magazine (example/test) | 0.1.0 | EXAMPLE/TEST content, not published: search ATK Magazine; 0.20 USDC x402 on Bas… |
-| 2026-10-18 11:39:43 | [com.perfboarddesigner/mcp](https://github.com/MaurerKrisztian/perfboard-designer) | Perfboard Designer | 0.1.0 | Design perfboard and stripboard layouts, check the wiring and get a link to ope… |
-| 2026-10-18 11:43:29 | [io.github.roomi-fields/notebooklm-mcp](https://github.com/roomi-fields/notebooklm-mcp) | NotebookLM MCP | 4.0.0 | Automate Google NotebookLM — Q&A with citations, audio, video, content generati… |
-| 2026-10-18 11:44:44 | [io.github.Pankaj-bit361/zealoop](https://github.com/Pankaj-bit361/zealoop-mcp) | Zealoop | 1.0.0 | AI support agent on Zealoop: knowledge, procedures, actions, widget install and… |
-| 2026-10-18 11:44:46 | [io.github.Pankaj-bit361/velos](https://github.com/Pankaj-bit361/velos-mcp) | Velos | 1.0.0 | AI video studio on Velos: product videos, UGC ads, product photos, posting and… |
-| 2026-10-18 11:44:47 | [io.github.Pankaj-bit361/seovyn](https://github.com/Pankaj-bit361/seovyn-mcp) | Seovyn | 1.0.0 | SEO content on Seovyn: keyword targets, articles, reviews, publishing and resul… |
-| 2026-10-18 11:48:26 | [io.github.SemanticDataCharter/sdcvalidator](https://github.com/SemanticDataCharter/sdcvalidator) |  | 4.5.3 | SDC4 structural validator with ExceptionalValue recovery; thin wrapper over xml… |
-| 2026-10-18 11:50:24 | com.theprivateclubs/private-clubs | Private Clubs | 1.1.0 | Search 39,500+ private clubs worldwide by place, type, amenities and waitlist s… |
-| 2026-10-18 11:50:28 | io.tigersystem/tigertag | TigerTag | 1.0.0 | Read-only access to your TigerTag filament inventory: spools, grams left, racks… |
-| 2026-10-18 11:55:17 | io.tigersystem/tigersystem | TigerSystem | 1.0.0 | Read-only access to your TigerSystem account: filament spools, grams left, rack… |
-| 2026-10-18 11:59:43 | site.chatgpt.no-qt.noqt/yumi-pypi-wheel-evidence | Yumi PyPI Wheel Evidence | 1.0.0 | Batch PyPI wheel filenames and reported metadata; no downloads or compatibility… |
-| 2026-10-18 12:01:31 | io.github.buzzdealer-ai/mcp | Buzz Dealer AI | 1.1.0 | Press Room and Reputation Agent for your AI: publish news, and see how search a… |
-| 2026-10-18 12:08:18 | ch.bitspire/website | BitSpire | 1.0.0 | Search and read bitspire.ch: .NET development, AI agents, trainings and blog by… |
-| 2026-10-18 12:10:05 | [io.github.cogdepot/cogdepot](https://github.com/cogdepot/mcp-server) | cogDepot | 0.8.3 | Anonymous broker: AI agents publish capabilities, negotiate, and form direct pe… |
-| 2026-10-18 12:14:31 | com.send-burg/sendburg | Sendburg | 1.0.0 | Search 250M+ B2B contacts and 25M+ companies; reveal verified work emails and p… |
-| 2026-10-18 12:15:31 | net.firstdig/firstdig | FirstDig | 0.1.0 | New US building permits by trade and service area: search, hot streets, builder… |
-| 2026-10-18 12:15:33 | [io.github.LMSlay/tubetext-esports-match-data](https://github.com/LMSlay/tubetext-mcp) | Esports Match Timelines: Valorant & CS2 | 1.3.0 | Round-by-round Valorant and CS2 scores read from public broadcast VODs on YouTu… |
-| 2026-10-18 12:17:50 | com.servereel/servereel-mcp | ServeReel | 1.0.0 | Free 7 day content plans built from a business website. ServeReel creates reels… |
+| 2026-10-18 12:21:47 | io.github.lgs1520/agent-procurement-manager | Agent Procurement Manager (APM) | 1.0.0 | Procurement agent for AI agents: free quote, buys verified x402 data services,… |
+| 2026-10-18 12:23:25 | com.scraperwatch/scraperwatch | ScraperWatch | 1.0.0 | Find a web scraper that works: live usage, success rate and price for 5,600+ Ap… |
+| 2026-10-18 12:23:35 | [io.github.royreznik/oura-ring-mcp](https://github.com/royreznik/oura-ring-mcp) | Oura Ring (read-only) | 0.1.0 | Read-only access to your Oura Ring readiness, sleep, activity, HRV, heart rate… |
+| 2026-10-18 12:23:55 | [ai.meshtool/meshmarket](https://github.com/RightOnPar-LLC/meshmarket-mcp) | MeshMarket | 1.3.2 | The agent-to-agent capability exchange — rent memory, reasoning and safety, set… |
+| 2026-10-18 12:27:48 | co.getvalyou/valyou | ValYou | 1.0.3 | Read-only access to your net worth, wealth percentile, projections, splits and… |
+| 2026-10-18 12:28:31 | pro.dosai/dos-ai | DOS AI | 1.0.1 | Run WhatsApp, Instagram and Telegram AI assistants: projects, prompts, leads, c… |
+| 2026-10-18 12:28:37 | [com.usetyton/tyton](https://github.com/usetyton/tyton-mcp) | Tyton | 1.0.0 | Audit and set up Meta Pixel and the Conversions API from your AI agent. |
+| 2026-10-18 12:28:41 | com.fabrement/wordpress | Fabrement: the workplace for your AI ag… | 1.4.0 | Your AI agent builds native Gutenberg blocks, pages and templates on your WordP… |
+| 2026-10-18 12:29:23 | [io.github.memosr/base-gas-mcp](https://github.com/memosr/base-gas-mcp) |  | 0.3.0 | Live Base gas, tx cost in USD, 4-chain comparison and gas history. Paid per cal… |
+| 2026-10-18 12:30:17 | co.rentalhunter/rentalhunter | RentalHunter | 1.0.0 | Filter-first rental search for India and Southeast Asian cities. |
+| 2026-10-18 12:35:56 | online.knowmesh/knowmesh | Knowmesh | 0.4.0 | Shared debugging wiki for AI agents: search by exact error, read verified fixes… |
+| 2026-10-18 12:36:48 | com.pendingyou/pendingyou | Pending You | 2.53.0 | One queue for everything your AI assistants are waiting on you for, answered fr… |
+| 2026-10-18 12:39:36 | gm.lfg/alarm | LFG Alarm | 1.0.0 | Social alarms that wake you and friends at a time, an event, a post, a token pr… |
+| 2026-10-18 12:40:46 | [io.github.hardhackerlabs/podwise](https://github.com/hardhackerlabs/podwise-plugin) | Podwise | 1.0.0 | Podcast knowledge for AI agents: search episodes, pull transcripts and ask ques… |
+| 2026-10-18 12:48:46 | ai.metaday/ryan | MetaDay Ryan | 1.0.0 | Ryan, the MetaDay AI recruiter: your hiring briefing, roles and candidates, and… |
+| 2026-10-18 12:52:27 | com.scribetoany/scribetoany | ScribeToAny | 1.0.0 | Transcribe audio and video into timestamped transcripts, and search and read yo… |
+| 2026-10-18 12:55:12 | com.snapforgelab/ship-ready-check | Snapforge Ship-Ready Check | 1.0.0 | Free, read-only ship-readiness check for Replit, Lovable and Bolt apps. |
+| 2026-10-18 12:57:31 | br.com.criptonoticias/noticias | CriptoNoticias Brasil | 1.0.0 | Notícias cripto do Brasil em português: histórias, temas e fontes. Read-only cr… |
+| 2026-10-18 12:58:30 | site.chatgpt.no-qt.noqt/yumi-cost-aware-diagnostic-planner | Yumi Cost-Aware Diagnostic Planner | 1.0.0 | Exact expected-cost diagnostic policies for caller-supplied finite deterministi… |
+| 2026-10-18 13:04:30 | [io.github.fastestrank/fastestrank](https://github.com/fastestrank/fastestrank) | FastestRank SEO Intelligence | 1.0.0 | Live SEO intelligence, rank tracking, site audits, and backlink analysis for AI… |
+| 2026-10-18 13:05:05 | app.outcomet/mcp | Outcomet | 3.5.0 | Read customer feedback, problems and initiatives in Outcomet, and log new feedb… |
+| 2026-10-18 13:06:11 | au.com.shopsafe/verify | ShopSafe URL verification | 0.2.0 | Deterministic URL checks for agents, with dated evidence, explicit coverage and… |
+| 2026-10-18 13:09:19 | ink.trinkwassermonitor/trinkwasser | Trinkwassermonitor | 1.0.0 | Geprüfte Trinkwasserwerte deutscher Städte mit Quelle, Messdatum und Grenzwert… |
+| 2026-10-18 13:14:15 | [ai.sunbird/sunbird-mcp](https://github.com/SunbirdAI/sunbird-mcp) | Sunbird AI | 0.1.0 | African-language translation, chat, speech-to-text and text-to-speech from Sunb… |
+| 2026-10-18 13:18:31 | [io.github.amirjld/parsi-mcp](https://github.com/amirjld/parsi-mcp) | Parsi MCP | 0.3.0 | Offline Persian/Iran tools: Jalali dates, validators, Persian text, price input… |
+| 2026-10-18 13:18:54 | [io.github.yoshi5534/voxelsieve](https://github.com/yoshi5534/VoxelSieve) | VoxelSieve | 0.5.0 | Analyse industrial CT scans locally: porosity, CAD comparison and inspection re… |
+| 2026-10-18 13:21:54 | pro.visualbook/visualbook | Visualbook | 0.19.3 | Read and edit your Visualbook brand manual: pages, logos, colors, fonts and fil… |
 
 ## Data source
 

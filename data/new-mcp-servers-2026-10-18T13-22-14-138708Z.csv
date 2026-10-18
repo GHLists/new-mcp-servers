@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-18T12:21:47.710481Z,io.github.lgs1520/agent-procurement-manager,Agent Procurement Manager (APM),1.0.0,,streamable-http,"Procurement agent for AI agents: free quote, buys verified x402 data services, pay per task in USDC."
+2026-10-18T12:23:25.434932Z,com.scraperwatch/scraperwatch,ScraperWatch,1.0.0,,streamable-http,"Find a web scraper that works: live usage, success rate and price for 5,600+ Apify scrapers."
+2026-10-18T12:23:35.867676Z,io.github.royreznik/oura-ring-mcp,Oura Ring (read-only),0.1.0,https://github.com/royreznik/oura-ring-mcp,,"Read-only access to your Oura Ring readiness, sleep, activity, HRV, heart rate and trends."
+2026-10-18T12:23:55.291278Z,ai.meshtool/meshmarket,MeshMarket,1.3.2,https://github.com/RightOnPar-LLC/meshmarket-mcp,streamable-http,"The agent-to-agent capability exchange — rent memory, reasoning and safety, settled per call."
+2026-10-18T12:27:48.194039Z,co.getvalyou/valyou,ValYou,1.0.3,,streamable-http,"Read-only access to your net worth, wealth percentile, projections, splits and budget."
+2026-10-18T12:28:31.036509Z,pro.dosai/dos-ai,DOS AI,1.0.1,,streamable-http,"Run WhatsApp, Instagram and Telegram AI assistants: projects, prompts, leads, chats, analytics."
+2026-10-18T12:28:37.945978Z,com.usetyton/tyton,Tyton,1.0.0,https://github.com/usetyton/tyton-mcp,streamable-http,Audit and set up Meta Pixel and the Conversions API from your AI agent.
+2026-10-18T12:28:41.540915Z,com.fabrement/wordpress,Fabrement: the workplace for your AI agent on WordPress,1.4.0,,streamable-http,"Your AI agent builds native Gutenberg blocks, pages and templates on your WordPress design system."
+2026-10-18T12:29:23.94172Z,io.github.memosr/base-gas-mcp,,0.3.0,https://github.com/memosr/base-gas-mcp,,"Live Base gas, tx cost in USD, 4-chain comparison and gas history. Paid per call in USDC via x402."
+2026-10-18T12:30:17.042335Z,co.rentalhunter/rentalhunter,RentalHunter,1.0.0,,streamable-http,Filter-first rental search for India and Southeast Asian cities.
+2026-10-18T12:35:56.06462Z,online.knowmesh/knowmesh,Knowmesh,0.4.0,,streamable-http,"Shared debugging wiki for AI agents: search by exact error, read verified fixes, report outcomes."
+2026-10-18T12:36:48.369589Z,com.pendingyou/pendingyou,Pending You,2.53.0,,streamable-http,"One queue for everything your AI assistants are waiting on you for, answered from phone or desk."
+2026-10-18T12:39:36.657442Z,gm.lfg/alarm,LFG Alarm,1.0.0,,streamable-http,"Social alarms that wake you and friends at a time, an event, a post, a token price or a webhook."
+2026-10-18T12:40:46.282058Z,io.github.hardhackerlabs/podwise,Podwise,1.0.0,https://github.com/hardhackerlabs/podwise-plugin,streamable-http,"Podcast knowledge for AI agents: search episodes, pull transcripts and ask questions."
+2026-10-18T12:48:46.015637Z,ai.metaday/ryan,MetaDay Ryan,1.0.0,,streamable-http,"Ryan, the MetaDay AI recruiter: your hiring briefing, roles and candidates, and actions you approve."
+2026-10-18T12:52:27.905218Z,com.scribetoany/scribetoany,ScribeToAny,1.0.0,,streamable-http,"Transcribe audio and video into timestamped transcripts, and search and read your transcripts."
+2026-10-18T12:55:12.988537Z,com.snapforgelab/ship-ready-check,Snapforge Ship-Ready Check,1.0.0,,streamable-http,"Free, read-only ship-readiness check for Replit, Lovable and Bolt apps."
+2026-10-18T12:57:31.00178Z,br.com.criptonoticias/noticias,CriptoNoticias Brasil,1.0.0,,streamable-http,"Notícias cripto do Brasil em português: histórias, temas e fontes. Read-only crypto news (pt-BR)."
+2026-10-18T12:58:30.557638Z,site.chatgpt.no-qt.noqt/yumi-cost-aware-diagnostic-planner,Yumi Cost-Aware Diagnostic Planner,1.0.0,,streamable-http,Exact expected-cost diagnostic policies for caller-supplied finite deterministic fault models.
+2026-10-18T13:04:30.69322Z,io.github.fastestrank/fastestrank,FastestRank SEO Intelligence,1.0.0,https://github.com/fastestrank/fastestrank,streamable-http,"Live SEO intelligence, rank tracking, site audits, and backlink analysis for AI agents."
+2026-10-18T13:05:05.048561Z,app.outcomet/mcp,Outcomet,3.5.0,,streamable-http,"Read customer feedback, problems and initiatives in Outcomet, and log new feedback from chat."
+2026-10-18T13:06:11.464395Z,au.com.shopsafe/verify,ShopSafe URL verification,0.2.0,,streamable-http,"Deterministic URL checks for agents, with dated evidence, explicit coverage and spending limits."
+2026-10-18T13:09:19.620689Z,ink.trinkwassermonitor/trinkwasser,Trinkwassermonitor,1.0.0,,streamable-http,"Geprüfte Trinkwasserwerte deutscher Städte mit Quelle, Messdatum und Grenzwert (TrinkwV)"
+2026-10-18T13:14:15.720299Z,ai.sunbird/sunbird-mcp,Sunbird AI,0.1.0,https://github.com/SunbirdAI/sunbird-mcp,streamable-http,"African-language translation, chat, speech-to-text and text-to-speech from Sunbird AI."
+2026-10-18T13:18:31.762768Z,io.github.amirjld/parsi-mcp,Parsi MCP,0.3.0,https://github.com/amirjld/parsi-mcp,,"Offline Persian/Iran tools: Jalali dates, validators, Persian text, price inputs, RTL frontend."
+2026-10-18T13:18:54.460729Z,io.github.yoshi5534/voxelsieve,VoxelSieve,0.5.0,https://github.com/yoshi5534/VoxelSieve,,"Analyse industrial CT scans locally: porosity, CAD comparison and inspection reports"
+2026-10-18T13:21:54.573922Z,pro.visualbook/visualbook,Visualbook,0.19.3,,streamable-http,"Read and edit your Visualbook brand manual: pages, logos, colors, fonts and files."
