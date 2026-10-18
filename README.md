@@ -9,49 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 18:19 UTC
+## Latest list — 2026-10-18 19:20 UTC
 
-New MCP servers published between 2026-10-18 17:19 UTC and 2026-10-18 18:19 UTC.
+New MCP servers published between 2026-10-18 18:19 UTC and 2026-10-18 19:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-18T18-19-04-718208Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-18T19-20-50-728104Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-18 17:20:38 | online.golfdata/golf-clubs | golfdata.online — verified golf clubs | 1.0.0 | Verified golf clubs in Spain and Europe: facts, booking links and sources. Read… |
-| 2026-10-18 17:23:06 | [io.github.marcosnovo/lexvibe](https://github.com/marcosnovo/lexvibe-mcp) |  | 1.0.4 | One-step legal compliance for vibe-coded apps: privacy, terms, cookie banner an… |
-| 2026-10-18 17:27:59 | [io.github.roomi-fields/rtfm](https://github.com/roomi-fields/rtfm) | RTFM | 0.55.0 | Local retrieval for AI agents: index code, docs, PDFs, data in SQLite; 24 parse… |
-| 2026-10-18 17:30:36 | [io.github.BryceBin/freeqrly](https://github.com/BryceBin/freeqrly) | FreeQrly | 1.1.0 | Free QR code generation via MCP: no-key static codes plus authenticated dynamic… |
-| 2026-10-18 17:31:09 | [wiki.agenticweb/probe](https://github.com/Belgravia-Labs/agenticweb-data) | Agentic Web Wiki — standards reference,… | 1.2.0 | Look up 100+ agentic-web standards, live-probe any domain, validate manifests,… |
-| 2026-10-18 17:31:42 | io.github.JC-lurker/proxyai | ProxyAI | 1.0.0 | Review support tickets, send approved replies, and manage supported ProxyAI Age… |
-| 2026-10-18 17:33:52 | [com.agentstackdirectory/agent-stack-directory](https://github.com/gmansystems/agent-stack-directory) | Agent Stack Directory | 0.1.0 | Search, inspect and compare infrastructure tools for AI agents from a checked d… |
-| 2026-10-18 17:34:35 | [io.github.Marc-Armillas/bicycle-routes-generator-mcp](https://github.com/Marc-Armillas/bicycle-routes-generator-mcp) | Bicycle routes generator MCP | 0.5.0 | MTB and road cycling routes on real OpenStreetMap trails, saved as GPX with saf… |
-| 2026-10-18 17:34:37 | link.freetoken/catalog | FreeToken — LLM API discovery | 1.0.0 | LLM API discovery: access conditions, dated costs, sampled checks and keyless c… |
-| 2026-10-18 17:35:47 | app.pagecritic/pagecritic | PageCritic | 1.0.0 | Audit a landing page's conversion (score, top issues, fixes) and check if AI cr… |
-| 2026-10-18 17:36:01 | com.garminmcp/garmin | Garmin MCP | 1.1.0 | Read-only Garmin data for your AI: sleep, Body Battery, activities, laps, and t… |
-| 2026-10-18 17:37:51 | [io.github.dejohq/dejo-mcp](https://github.com/dejohq/dejo-mcp) | Dejo | 0.1.2 | A browser your AI agent remembers. Learn a site once, replay it in one call, ze… |
-| 2026-10-18 17:39:25 | [io.github.fabwaseem/benchline](https://github.com/fabwaseem/benchline) | Benchline | 0.1.0 | 71 developer, PDF, image, SEO and security tools over a stateless HTTP MCP serv… |
-| 2026-10-18 17:39:47 | com.agentsretreat/the-retreat | THE RETREAT | 1.0.0 | Rules-based context reduction, planning checks, research prompts and fixed expe… |
-| 2026-10-18 17:40:05 | com.mondovo/sites | Mondovo | 1.0.0 | Build, find, edit, and publish AI-generated websites in Mondovo. |
-| 2026-10-18 17:41:02 | org.casimo/mcp | Casimo Research — casino terms & changes | 1.0.0 | Source-backed US casino conditions, actual observed changes and explicit data l… |
-| 2026-10-18 17:47:55 | [io.github.zikriz/rugshield](https://github.com/zikriz/rugshield-mcp) | RugShield — Solana Token Safety Scanner | 1.0.0 | Solana token rug-pull detection for AI trading agents. Score, authorities, liqu… |
-| 2026-10-18 17:48:08 | [io.github.GrayWolf8-creator/gw8-signal-api](https://github.com/GrayWolf8-creator/micro-saas-agent) | GW8 Signal API | 1.2.0 | Pay-per-call crypto signals, token verdicts, flows & briefs. x402 USDC on Base.… |
-| 2026-10-18 17:49:46 | io.github.cadi27tech/3descu-quote | 3Descu 3D Printing Quotes (EU) | 1.0.0 | Instant FDM and SLA 3D printing quotes from an ISO 9001:2015 certified EU facto… |
-| 2026-10-18 17:50:29 | [com.transcript1/mcp](https://github.com/transcript1-com/mcp) | transcript1 | 1.0.0 | Transcribe audio and video from file uploads or YouTube links with transcript1. |
-| 2026-10-18 17:53:13 | [io.github.pironjulien/nexus-browser](https://github.com/pironjulien/NexusBrowser) | NexusBrowser | 2.9.0 | Your real Chrome, driven in background tabs. Needs the NexusBrowser bridge and… |
-| 2026-10-18 17:55:23 | io.solarscope/solarscope | SolarScope | 1.0.0 | Screen US sites for solar: sun, grid distance, FEMA flood risk. Save sites, cre… |
-| 2026-10-18 18:01:54 | life.underway/underway | underway | 1.0.0 | Talk through your working day as a short interview, then film it as a build-in-… |
-| 2026-10-18 18:02:59 | [io.github.4DA-Systems/victauri](https://github.com/4DA-Systems/victauri) | Victauri | 0.10.0 | In-process MCP server for Tauri apps: DOM, IPC with bodies, Rust state, SQLite.… |
-| 2026-10-18 18:03:11 | tech.marketcalendar/seasonality | The Market Calendar | 1.0.0 | Market seasonality by day, window and month for S&P 500, Nasdaq, Dow, Bitcoin,… |
-| 2026-10-18 18:06:06 | [io.github.cwooddgr/bezelbub-mcp](https://github.com/cwooddgr/bezelbub) |  | 0.4.0 | Frame screenshots and screen recordings in Apple device bezels (device mockups)… |
-| 2026-10-18 18:07:10 | com.chinaindustryintel.mcp/industry-intel | China Industry Intel | 0.1.0 | Read-only selected China industry article excerpts, disclosed sources and compa… |
-| 2026-10-18 18:07:15 | [io.github.iambashar/agent-intercom](https://github.com/iambashar/agent-intercom) | agent-intercom | 0.2.4 | Lets Claude Code, Codex CLI and Antigravity message each other, with live push… |
-| 2026-10-18 18:07:59 | [io.github.beardfaceguy/daimonos](https://github.com/beardfaceguy/daimonos) | Daimonos | 0.1.5 | Agent-optimized MCP server with structured JSON tools. 20-45% token savings. |
-| 2026-10-18 18:11:26 | [io.github.NovadaLabs/novada-mcp](https://github.com/NovadaLabs/novada-mcp) |  | 0.9.41 | Search, extract, crawl, map, research, scrape 16 platforms, browser automation,… |
-| 2026-10-18 18:14:00 | [io.github.LSUDOKO/bankweave](https://github.com/LSUDOKO/BankWeave) | BankWeave | 3.0.0 | Read-only FalkorDB tools for cross-bank AML investigations: rings, money paths,… |
-| 2026-10-18 18:14:47 | app.eggtimer/eggtimer | Eggtimer.app | 1.0.0 | Shareable timer links for countdowns, clock times, Pomodoro, Tabata and step re… |
-| 2026-10-18 18:16:10 | ai.instaport/instaport | Instaport | 1.0.0 | Your portfolio plus SEC filings, Congress trades, 13F holdings, insider buys, e… |
-| 2026-10-18 18:17:15 | com.carhauler247/car-shipping-quotes | CarHauler247 Car Shipping Quotes | 1.0.0 | Car shipping prices between US locations from a licensed auto transport broker,… |
-| 2026-10-18 18:18:41 | app.perfumate/perfumate | PerfuMate | 1.1.0 | Perfumery materials, IFRA Category 4, EU allergens, and your formulas and shelf… |
+| 2026-10-18 18:19:12 | top.wanhetools/compliance | Wanhe AI Compliance Checker | 1.0.0 | Chinese advertising-law and AI-labeling compliance checks with exact statutory… |
+| 2026-10-18 18:19:38 | [io.peakcam/snow](https://github.com/jaredschueler07/peakcam) | PeakCam Snow | 0.1.0 | Live snow reports, SNOTEL measurements, webcams and powder rankings for 150 ski… |
+| 2026-10-18 18:26:16 | io.github.hbailla/huntprice | HuntPrice — Canadian Grocery Prices | 1.0.0 | Compare grocery prices across 14 Canadian cities. Search items, compare baskets… |
+| 2026-10-18 18:27:00 | org.feedam/feed-america | Feed America | 1.0.0 | US food pantries, meal programs, SNAP and WIC help from Feed America (EIN 92-17… |
+| 2026-10-18 18:27:57 | com.agentwebmap/agentwebmap |  | 0.3.0 | Directory of sites publishing llms.txt, ranked by authority: search, look up, r… |
+| 2026-10-18 18:30:07 | io.github.kasheik3/penny-engine | Penny Engine — Agent Operations | 0.7.7 | Remote MCP utilities for agents: structured data, commerce checks, and x402 pai… |
+| 2026-10-18 18:30:51 | [cc.yapapp/yap](https://github.com/founden-bot/yap-mcp) | Yap | 1.0.0 | Private on-device speech to text: transcribe audio files and search your Yap di… |
+| 2026-10-18 18:47:45 | io.github.ActionTecBr/falaai-mcp | FalaAI API (MCP) | 1.21.67 | FalaAI API MCP server: transcribe audio, diagnose conversations, audit complian… |
+| 2026-10-18 18:50:06 | co.auditon/assessments | Auditon security assessments | 1.0.0 | Read-only access to your Auditon vulnerability scans: findings, endpoints, repo… |
+| 2026-10-18 18:50:27 | [io.metricport/metricport](https://github.com/MinerSimonDev/metricport-mcp) | MetricPort | 0.1.0 | Google Search Console, Ads and AdSense analytics for AI clients. Hosted, read-o… |
+| 2026-10-18 18:55:00 | it.officina/mcp | officina.it | 1.0.0 | Read your officina.it workshop data: customers, vehicles, worksheets, invoices,… |
+| 2026-10-18 18:59:14 | [io.github.bimwright/rvt-mcp](https://github.com/bimwright/rvt-mcp) | RvtMcp | 1.2.0 | MCP gateway for Autodesk Revit 2022-2027 - toolset gating + Transaction-safe ba… |
+| 2026-10-18 19:03:03 | [io.github.AceDataCloud/mcp-gpt-image](https://github.com/AceDataCloud/OpenAIMCP) | GPT Image by Ace Data Cloud | 2026.10.18.1 | Generate and edit GPT Image pictures with Ace Data Cloud; query the original im… |
+| 2026-10-18 19:04:10 | ai.lendb/lendb | LenDb.ai | 1.1.0 | Find US mortgage loan officers for a borrower's situation and place. Free, lend… |
+| 2026-10-18 19:06:33 | com.hirehint/public-knowledge | HireHint ATS & HRIS | 1.0.0 | Official HireHint ATS & HRIS facts, public guides and checklists in English, Ar… |
+| 2026-10-18 19:08:47 | app.kragos/stempa | STEMPA | 1.0.0 | STEMPA seals one brief every AI reads the same way, with a signed receipt. |
+| 2026-10-18 19:11:14 | app.eggtimer/server-timers | Eggtimer.app Server Timers | 1.0.0 | Schedule, check and cancel server-side countdowns and step routines, with optio… |
+| 2026-10-18 19:14:58 | com.housingfeed/rental-listings | HousingFeed US Rental Listings | 1.0.0 | US rental listings for AI assistants: free live search and rent statistics, plu… |
+| 2026-10-18 19:15:37 | dev.workers.quietworklabs.qw-swap/quietwork-swap | Quietwork Swap | 1.0.0 | Non-custodial EVM swap tx builder (KyberSwap, 0.1% fee) + cross-chain shifts vi… |
+| 2026-10-18 19:17:36 | com.plateop/agent-commons | Agent Commons | 0.1.0 | Free public notebook and mailboxes for AI agents: shared notes, votes, no accou… |
 
 ## Data source
 

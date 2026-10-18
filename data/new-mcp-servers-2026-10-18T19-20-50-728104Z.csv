@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-10-18T18:19:12.942834Z,top.wanhetools/compliance,Wanhe AI Compliance Checker,1.0.0,,streamable-http,Chinese advertising-law and AI-labeling compliance checks with exact statutory citations.
+2026-10-18T18:19:38.298036Z,io.peakcam/snow,PeakCam Snow,0.1.0,https://github.com/jaredschueler07/peakcam,streamable-http,"Live snow reports, SNOTEL measurements, webcams and powder rankings for 150 ski resorts."
+2026-10-18T18:26:16.0603Z,io.github.hbailla/huntprice,HuntPrice — Canadian Grocery Prices,1.0.0,,streamable-http,"Compare grocery prices across 14 Canadian cities. Search items, compare baskets, weekly rankings."
+2026-10-18T18:27:00.540558Z,org.feedam/feed-america,Feed America,1.0.0,,streamable-http,"US food pantries, meal programs, SNAP and WIC help from Feed America (EIN 92-1761881)"
+2026-10-18T18:27:57.562408Z,com.agentwebmap/agentwebmap,,0.3.0,,streamable-http,"Directory of sites publishing llms.txt, ranked by authority: search, look up, register, verify."
+2026-10-18T18:30:07.014282Z,io.github.kasheik3/penny-engine,Penny Engine — Agent Operations,0.7.7,,streamable-http,"Remote MCP utilities for agents: structured data, commerce checks, and x402 paid API discovery."
+2026-10-18T18:30:51.340476Z,cc.yapapp/yap,Yap,1.0.0,https://github.com/founden-bot/yap-mcp,,Private on-device speech to text: transcribe audio files and search your Yap dictations. No upload.
+2026-10-18T18:47:45.79594Z,io.github.ActionTecBr/falaai-mcp,FalaAI API (MCP),1.21.67,,streamable-http,"FalaAI API MCP server: transcribe audio, diagnose conversations, audit compliance (ISO 18295-1)."
+2026-10-18T18:50:06.46392Z,co.auditon/assessments,Auditon security assessments,1.0.0,,streamable-http,"Read-only access to your Auditon vulnerability scans: findings, endpoints, reports and changes."
+2026-10-18T18:50:27.684521Z,io.metricport/metricport,MetricPort,0.1.0,https://github.com/MinerSimonDev/metricport-mcp,streamable-http,"Google Search Console, Ads and AdSense analytics for AI clients. Hosted, read-only, 57 tools."
+2026-10-18T18:55:00.711626Z,it.officina/mcp,officina.it,1.0.0,,streamable-http,"Read your officina.it workshop data: customers, vehicles, worksheets, invoices, calendar."
+2026-10-18T18:59:14.655044Z,io.github.bimwright/rvt-mcp,RvtMcp,1.2.0,https://github.com/bimwright/rvt-mcp,,MCP gateway for Autodesk Revit 2022-2027 - toolset gating + Transaction-safe batch execution.
+2026-10-18T19:03:03.6246Z,io.github.AceDataCloud/mcp-gpt-image,GPT Image by Ace Data Cloud,2026.10.18.1,https://github.com/AceDataCloud/OpenAIMCP,,Generate and edit GPT Image pictures with Ace Data Cloud; query the original image task.
+2026-10-18T19:04:10.207778Z,ai.lendb/lendb,LenDb.ai,1.1.0,,streamable-http,"Find US mortgage loan officers for a borrower's situation and place. Free, lender-neutral, sourced."
+2026-10-18T19:06:33.869817Z,com.hirehint/public-knowledge,HireHint ATS & HRIS,1.0.0,,streamable-http,"Official HireHint ATS & HRIS facts, public guides and checklists in English, Arabic and Spanish."
+2026-10-18T19:08:47.060635Z,app.kragos/stempa,STEMPA,1.0.0,,streamable-http,"STEMPA seals one brief every AI reads the same way, with a signed receipt."
+2026-10-18T19:11:14.150426Z,app.eggtimer/server-timers,Eggtimer.app Server Timers,1.0.0,,streamable-http,"Schedule, check and cancel server-side countdowns and step routines, with optional Zapier hooks."
+2026-10-18T19:14:58.111586Z,com.housingfeed/rental-listings,HousingFeed US Rental Listings,1.0.0,,streamable-http,"US rental listings for AI assistants: free live search and rent statistics, plus licensed feeds."
+2026-10-18T19:15:37.741054Z,dev.workers.quietworklabs.qw-swap/quietwork-swap,Quietwork Swap,1.0.0,,streamable-http,"Non-custodial EVM swap tx builder (KyberSwap, 0.1% fee) + cross-chain shifts via SideShift."
+2026-10-18T19:17:36.146881Z,com.plateop/agent-commons,Agent Commons,0.1.0,,streamable-http,"Free public notebook and mailboxes for AI agents: shared notes, votes, no accounts."
