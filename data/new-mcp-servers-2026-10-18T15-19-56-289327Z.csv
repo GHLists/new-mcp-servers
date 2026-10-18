@@ -1,0 +1,32 @@
+created_at,server,title,version,repository,transports,description
+2026-10-18T14:21:02.128238Z,app.earmarkiq/earmarkiq,earmarkIQ,1.0.0,,streamable-http,"Read-only access to your own UK bank data: spending, subscriptions, payday plan, net worth."
+2026-10-18T14:21:58.751724Z,io.github.luizfnsilva/closure_drift,closure_drift,1.1.2,https://github.com/luizfnsilva/closure_drift,,Before an agent tags a release: does that version label already name different code in the git tags?
+2026-10-18T14:22:10.640165Z,com.theneuralnet/model-register,The Neural Net,1.0.0,,streamable-http,Sourced register of open-weight AI model releases and AI news. Every field cites its source.
+2026-10-18T14:22:58.41885Z,io.github.marciocar/kg-ssot,KG-SSOT,4.9.0,https://github.com/marciocar/kg-ssot,,Grafo de conhecimento verificável: julga e grava .kg.yaml e .kg.json pelo contrato do KG-SSOT.
+2026-10-18T14:23:38.59276Z,io.github.edtool79-collab/hirepulse-gateway,HirePulse Agent Gateway,1.0.0,https://github.com/edtool79-collab/hirepulse-mcp,streamable-http,"Hiring signals, tech stack, company jobs, Google Ads and company enrichment. x402 on Base."
+2026-10-18T14:24:10.447632Z,com.warebee/warebee,WareBee Warehouse Digital Twin,1.0.0,,streamable-http,"Warehouse digital twin: what-if simulation and AI optimisation of slotting, batching and labour."
+2026-10-18T14:28:41.293276Z,io.github.pironjulien/nexus-android,NexusAndroid,0.4.1,https://github.com/pironjulien/android-computer-use,,"Android computer use over plain ADB: screen, gestures, SMS, notifications, files. No root, no app."
+2026-10-18T14:28:42.295059Z,io.github.pironjulien/nexus-windows,NexusWindows for Claude,0.9.1,https://github.com/pironjulien/claude-windows-computer-use,,"Windows computer use in the background: UI Automation and Win32 messages, every action read back."
+2026-10-18T14:31:12.61817Z,io.aiflowchart/diagrams,AI Flowchart,1.0.0,,streamable-http,"Create flowcharts, mind maps, sequence/ER/UML diagrams and charts as editable, presentable boards."
+2026-10-18T14:33:11.738552Z,io.github.evalgate/evalgate,EvalGate,1.0.0,,streamable-http,"Create and run AI evaluations, record traces, and inspect results with scoped organization access."
+2026-10-18T14:38:19.78073Z,io.github.psyb0t/reverse-engineer-anything,Reverse Engineer Anything (Docker),0.1.1,https://github.com/psyb0t/docker-reverse-engineer-anything,,"REA reverse-engineering MCP server in Docker, with JADX, Apktool and adb for APKs."
+2026-10-18T14:40:34.254833Z,ai.kreatorflow/kreatorflow,KreatorFlow,1.0.0,,streamable-http,"Make AI video and images with Seedance and Seedream, plus voice, sound and edits, on your plan."
+2026-10-18T14:40:43.028803Z,ai.kreatorflow/seedance-api,KreatorFlow Seedance API,1.0.0,,streamable-http,Seedance 2.0 video and Seedream image generation through the KreatorFlow developer API key.
+2026-10-18T14:50:19.83741Z,io.github.MattJeff/glot,glot,0.2.0,https://github.com/MattJeff/glot,,"AI-native i18n: live string context, validated translations, glossary for your app catalogs"
+2026-10-18T14:50:46.578905Z,io.github.furkanisikay/ardupilot-mcp,,1.0.0,https://github.com/furkanisikay/ardupilot-mcp,,Diagnoses ArduPilot flight logs (.bin and .tlog) over the Model Context Protocol.
+2026-10-18T14:51:43.722143Z,com.wbiztool/mcp,WbizTool,0.1.0,,streamable-http,"Send WhatsApp and Telegram messages, manage reminders and check numbers in your WbizTool workspace."
+2026-10-18T14:52:07.541727Z,io.github.Ovindolo/billify,Billify,0.2.0,,streamable-http,"Invoicing for businesses and AI agents: invoices, crypto payments, compliance, Invoice Passports."
+2026-10-18T14:52:18.578387Z,io.github.Ovindolo/billify-pay,Billify payments,0.2.0,,streamable-http,Let agents verify the seller and pay Billify invoices with x402 (USDC on Base).
+2026-10-18T14:57:19.277135Z,app.klyaksa/klyaksa,Klyaksa,1.0.0,,streamable-http,"Online whiteboard your AI agent draws on: live shared canvases, solo or with your team."
+2026-10-18T14:57:46.687723Z,io.github.AbdurahmanAlmehdi/jidr,Jidr,0.1.0,https://github.com/AbdurahmanAlmehdi/jidr,,"See and drive Android emulators on a Mac: screenshot, tap, type, UI tree, logs, root."
+2026-10-18T14:58:13.313814Z,ai.kazkar/kazkar,,1.0.0,,streamable-http,"Access your Kazkar TTRPG world — campaigns, chronicles, transcripts, lore — in any MCP client."
+2026-10-18T15:00:23.729475Z,io.github.hail-hq/hail-mcp,Hail,0.1.1,https://github.com/hail-hq/hail,streamable-http,"Phone, SMS and email for AI agents. One remote MCP endpoint, OAuth login, zero install."
+2026-10-18T15:02:18.749998Z,com.vitef/vitef,Vitef,1.2.0,,streamable-http; streamable-http,"French admin chores: law-citing letters, calculators, quotes. Démarches en France, vite fait."
+2026-10-18T15:07:13.921608Z,app.nomadpoint/travel-facts,,1.0.0,https://github.com/eladkishon/nomadpoint,streamable-http,"No-auth visa rules for any passport (39,601 pairs) and a Schengen 90/180 day calculator"
+2026-10-18T15:08:23.127423Z,io.github.jgt87/copilot-studio-mcp,Copilot Studio MCP,0.1.8,https://github.com/jgt87/copilot-studio-mcp,,"Build, test, ship and maintain Microsoft Copilot Studio agents from the editor"
+2026-10-18T15:08:58.037998Z,io.github.CordilleraSarl/clearotron,,0.4.1,https://github.com/CordilleraSarl/clearotron,,Clearotron — trademark clearance that shows its work
+2026-10-18T15:09:40.913537Z,com.legivel/legivel,legivel,0.1.0,,streamable-http,"Markdown in, typeset PDF out: tables, math, diagrams, contents list. 100 free documents a month."
+2026-10-18T15:15:28.118196Z,io.github.ralf206/trackkr-mcp,Trackkr MCP Server — Smart Lockerless Parcel Management,2.1.0,,,Lockerless multi-tenant parcel tracking and secure signature logging.
+2026-10-18T15:16:08.251727Z,com.seoperception/mcp,SEO Perception,1.0.0,,streamable-http,"Search Console, crawl and SEO to-dos, read-only inside Cursor and Claude."
+2026-10-18T15:17:26.018097Z,no.kollegia/jobbsok,Kollegia – ledige stillinger og lønn i Norge,1.0.0,,streamable-http,"Search active job listings, salaries and employers in Norway (kollegia.no). Read-only, no login."
+2026-10-18T15:17:38.756719Z,rent.quub/hotels,Quub hotel search and booking,1.0.0,,streamable-http,"Live hotel prices worldwide, sourced destination guides, prebooking. No key needed for reads."
