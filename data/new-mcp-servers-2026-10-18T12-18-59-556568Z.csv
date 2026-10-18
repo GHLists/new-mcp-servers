@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-10-18T11:23:18.011707Z,com.contrastcyber/api,ContrastAPI,1.36.4,https://github.com/UPinar/contrastapi,streamable-http,"55 tools, 7 Resources, Sigma rules, email SPF/DMARC, MITRE, CVE/KEV, risk_score. No key."
+2026-10-18T11:25:09.871415Z,cc.hlist/hlist-ai-tools,HList AI Tools,1.0.0,https://github.com/hlist0001/hlist,streamable-http,"Search 386+ AI tools with China-access data, live GitHub stats, 4-language metadata. No key needed"
+2026-10-18T11:27:32.552974Z,pro.tickfeed/tickfeed,TickFeed,1.0.0,,streamable-http,Real-time gold (XAUUSD) and forex (EURUSD) prices and candles for AI agents. $10 free credit.
+2026-10-18T11:29:48.740599Z,direct.bookd/stays,Bookd,0.2.0,,streamable-http,"Search and request stays at independent hotels, B&Bs, guesthouses and vacation rentals, direct."
+2026-10-18T11:34:52.89181Z,space.aihomeworld/aihomeworld-discovery,AI HOMEWORLD,1.0.0,,streamable-http,Read-only discovery and self-join bootstrap for AI HOMEWORLD.
+2026-10-18T11:39:37.187627Z,io.github.firekou/atk-magazine,ATK Magazine (example/test),0.1.0,,streamable-http,"EXAMPLE/TEST content, not published: search ATK Magazine; 0.20 USDC x402 on Base Sepolia testnet."
+2026-10-18T11:39:43.224324Z,com.perfboarddesigner/mcp,Perfboard Designer,0.1.0,https://github.com/MaurerKrisztian/perfboard-designer,streamable-http,"Design perfboard and stripboard layouts, check the wiring and get a link to open them in the editor."
+2026-10-18T11:43:29.84635Z,io.github.roomi-fields/notebooklm-mcp,NotebookLM MCP,4.0.0,https://github.com/roomi-fields/notebooklm-mcp,,"Automate Google NotebookLM — Q&A with citations, audio, video, content generation"
+2026-10-18T11:44:44.070047Z,io.github.Pankaj-bit361/zealoop,Zealoop,1.0.0,https://github.com/Pankaj-bit361/zealoop-mcp,streamable-http,"AI support agent on Zealoop: knowledge, procedures, actions, widget install and testing."
+2026-10-18T11:44:46.056347Z,io.github.Pankaj-bit361/velos,Velos,1.0.0,https://github.com/Pankaj-bit361/velos-mcp,streamable-http,"AI video studio on Velos: product videos, UGC ads, product photos, posting and autopilot."
+2026-10-18T11:44:47.436048Z,io.github.Pankaj-bit361/seovyn,Seovyn,1.0.0,https://github.com/Pankaj-bit361/seovyn-mcp,streamable-http,"SEO content on Seovyn: keyword targets, articles, reviews, publishing and results."
+2026-10-18T11:48:26.824877Z,io.github.SemanticDataCharter/sdcvalidator,,4.5.3,https://github.com/SemanticDataCharter/sdcvalidator,,SDC4 structural validator with ExceptionalValue recovery; thin wrapper over xmlschema.
+2026-10-18T11:50:24.234514Z,com.theprivateclubs/private-clubs,Private Clubs,1.1.0,,streamable-http,"Search 39,500+ private clubs worldwide by place, type, amenities and waitlist status"
+2026-10-18T11:50:28.998992Z,io.tigersystem/tigertag,TigerTag,1.0.0,,streamable-http,"Read-only access to your TigerTag filament inventory: spools, grams left, racks, printers, scales."
+2026-10-18T11:55:17.934584Z,io.tigersystem/tigersystem,TigerSystem,1.0.0,,streamable-http,"Read-only access to your TigerSystem account: filament spools, grams left, racks, printers, scales."
+2026-10-18T11:59:43.71194Z,site.chatgpt.no-qt.noqt/yumi-pypi-wheel-evidence,Yumi PyPI Wheel Evidence,1.0.0,,streamable-http,Batch PyPI wheel filenames and reported metadata; no downloads or compatibility checks.
+2026-10-18T12:01:31.909768Z,io.github.buzzdealer-ai/mcp,Buzz Dealer AI,1.1.0,,streamable-http,"Press Room and Reputation Agent for your AI: publish news, and see how search and AI describe you."
+2026-10-18T12:08:18.143991Z,ch.bitspire/website,BitSpire,1.0.0,,streamable-http,"Search and read bitspire.ch: .NET development, AI agents, trainings and blog by BitSpire GmbH"
+2026-10-18T12:10:05.522588Z,io.github.cogdepot/cogdepot,cogDepot,0.8.3,https://github.com/cogdepot/mcp-server,streamable-http,"Anonymous broker: AI agents publish capabilities, negotiate, and form direct peer-to-peer deals."
+2026-10-18T12:14:31.436731Z,com.send-burg/sendburg,Sendburg,1.0.0,,streamable-http,Search 250M+ B2B contacts and 25M+ companies; reveal verified work emails and phone numbers.
+2026-10-18T12:15:31.90496Z,net.firstdig/firstdig,FirstDig,0.1.0,,streamable-http,"New US building permits by trade and service area: search, hot streets, builders and results."
+2026-10-18T12:15:33.906881Z,io.github.LMSlay/tubetext-esports-match-data,Esports Match Timelines: Valorant & CS2,1.3.0,https://github.com/LMSlay/tubetext-mcp,streamable-http,Round-by-round Valorant and CS2 scores read from public broadcast VODs on YouTube and Twitch.
+2026-10-18T12:17:50.984773Z,com.servereel/servereel-mcp,ServeReel,1.0.0,,streamable-http,"Free 7 day content plans built from a business website. ServeReel creates reels, videos, and images."

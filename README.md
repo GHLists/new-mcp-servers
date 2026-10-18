@@ -9,33 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 11:21 UTC
+## Latest list — 2026-10-18 12:18 UTC
 
-New MCP servers published between 2026-10-18 10:19 UTC and 2026-10-18 11:21 UTC.
+New MCP servers published between 2026-10-18 11:21 UTC and 2026-10-18 12:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-18T11-21-01-112774Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-18T12-18-59-556568Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-18 10:20:31 | estate.new/listings | new.estate | 1.0.0 | Search real estate listings for sale or rent in many countries, published on ne… |
-| 2026-10-18 10:25:46 | com.guest-pictures/photo-booth | Guest Pictures | 1.1.0 | Free browser photo booth with effect picker, plus info on collecting guest phot… |
-| 2026-10-18 10:26:51 | [dev.true402/mcp-server](https://github.com/true402/mcp-server) |  | 1.3.1 | Pay-per-call AI + web + on-chain tools over x402 (USDC on Base): LLM, SEO, extr… |
-| 2026-10-18 10:32:11 | [io.github.slookisen/finn-tannlege-mcp](https://github.com/slookisen/lokal) |  | 0.2.0 | Norwegian dental clinic directory MCP: 5,400+ clinics with Helfo-agreement, spe… |
-| 2026-10-18 10:32:39 | [io.github.mastalier1997/austria-property](https://github.com/mastalier1997/austria-property-mcp) | Austria Property | 0.3.0 | Austrian property costs, buy-to-let underwriting and rent-cap checks, cited to… |
-| 2026-10-18 10:32:49 | [io.github.slookisen/lokal-mcp](https://github.com/slookisen/lokal) |  | 0.4.1 | Norwegian local-food MCP: 1,500+ farms, shops, markets + umbrellas (Bondens mar… |
-| 2026-10-18 10:35:11 | io.audd/audd-billing | AudD Billing & Usage | 1.0.0 | AudD account tools: usage stats, billing, API token, plans, payment links, API… |
-| 2026-10-18 10:39:14 | [io.github.nika110/openhuddle](https://github.com/nika110/openhuddle) |  | 0.3.1 | Multiplayer mode for AI coding agents: shared team status, master prompt, tasks… |
-| 2026-10-18 10:39:55 | [io.github.CanvasKeep/canvaskeep-mcp](https://github.com/CanvasKeep/canvaskeep-mcp) | CanvasKeep | 0.6.2 | Create and edit Excalidraw diagrams in your CanvasKeep workspace, with auto-lay… |
-| 2026-10-18 10:44:43 | com.assay-systems/register | Assay Systems procurement register | 1.0.0 | Public procurement register, 50+ countries: suppliers, buyers, contracts, singl… |
-| 2026-10-18 10:51:16 | io.github.ashwaniarya/trello-mcp | Trello MCP | 0.2.0 | Trello in Claude Code in 60 seconds. No API key, no hosting. Hosted, OAuth sign… |
-| 2026-10-18 10:51:28 | ai.com.nlp/open-model-catalog | NLP.COM.AI Open Model Catalog | 1.0.0 | Search curated open-weight AI model releases, licenses, architectures, and prim… |
-| 2026-10-18 10:52:58 | [io.github.Open-Cosmic-Software/nyxmix](https://github.com/Open-Cosmic-Software/nyxmix) |  | 0.1.0 | Agent-first multitrack audio editor: edit sessions live with a human watching. |
-| 2026-10-18 10:53:10 | io.github.buckmower/calluponit | CallUpOnIt | 1.0.0 | Send or schedule texts, WhatsApp messages, emails, and calls to your verified d… |
-| 2026-10-18 10:54:24 | [coach.marian/mentoring-inquiry-builder](https://github.com/marian-kamenistak/mentoring-inquiry-builder) |  | 1.3.0 | AI mentoring fit and book: check the fit with Marian Kamenistak and book a sess… |
-| 2026-10-18 10:58:19 | com.othrum/collective | Othrum | 0.1.0 | Othrum is a private knowledge collective created by an AI agent, exclusively fo… |
-| 2026-10-18 10:59:20 | net.ts.tail9c2892.hive-web/hive | HIVE — persistent agent conversations | 1.0.0 | Free messaging for agents: shared threads, private conversations, persistent co… |
-| 2026-10-18 11:08:02 | [io.github.mordor-forge/trident-mcp](https://github.com/mordor-forge/trident-mcp) | Trident (Tripo 3D) | 0.4.0 | Unofficial MCP server for the Tripo 3D API: text/image to 3D, texturing, riggin… |
-| 2026-10-18 11:12:06 | com.pirateskills/pirateskills | Pirate Skills | 1.0.0 | Growth marketing and vibe coding: search the codices, find and join events, see… |
+| 2026-10-18 11:23:18 | [com.contrastcyber/api](https://github.com/UPinar/contrastapi) | ContrastAPI | 1.36.4 | 55 tools, 7 Resources, Sigma rules, email SPF/DMARC, MITRE, CVE/KEV, risk_score… |
+| 2026-10-18 11:25:09 | [cc.hlist/hlist-ai-tools](https://github.com/hlist0001/hlist) | HList AI Tools | 1.0.0 | Search 386+ AI tools with China-access data, live GitHub stats, 4-language meta… |
+| 2026-10-18 11:27:32 | pro.tickfeed/tickfeed | TickFeed | 1.0.0 | Real-time gold (XAUUSD) and forex (EURUSD) prices and candles for AI agents. $1… |
+| 2026-10-18 11:29:48 | direct.bookd/stays | Bookd | 0.2.0 | Search and request stays at independent hotels, B&Bs, guesthouses and vacation… |
+| 2026-10-18 11:34:52 | space.aihomeworld/aihomeworld-discovery | AI HOMEWORLD | 1.0.0 | Read-only discovery and self-join bootstrap for AI HOMEWORLD. |
+| 2026-10-18 11:39:37 | io.github.firekou/atk-magazine | ATK Magazine (example/test) | 0.1.0 | EXAMPLE/TEST content, not published: search ATK Magazine; 0.20 USDC x402 on Bas… |
+| 2026-10-18 11:39:43 | [com.perfboarddesigner/mcp](https://github.com/MaurerKrisztian/perfboard-designer) | Perfboard Designer | 0.1.0 | Design perfboard and stripboard layouts, check the wiring and get a link to ope… |
+| 2026-10-18 11:43:29 | [io.github.roomi-fields/notebooklm-mcp](https://github.com/roomi-fields/notebooklm-mcp) | NotebookLM MCP | 4.0.0 | Automate Google NotebookLM — Q&A with citations, audio, video, content generati… |
+| 2026-10-18 11:44:44 | [io.github.Pankaj-bit361/zealoop](https://github.com/Pankaj-bit361/zealoop-mcp) | Zealoop | 1.0.0 | AI support agent on Zealoop: knowledge, procedures, actions, widget install and… |
+| 2026-10-18 11:44:46 | [io.github.Pankaj-bit361/velos](https://github.com/Pankaj-bit361/velos-mcp) | Velos | 1.0.0 | AI video studio on Velos: product videos, UGC ads, product photos, posting and… |
+| 2026-10-18 11:44:47 | [io.github.Pankaj-bit361/seovyn](https://github.com/Pankaj-bit361/seovyn-mcp) | Seovyn | 1.0.0 | SEO content on Seovyn: keyword targets, articles, reviews, publishing and resul… |
+| 2026-10-18 11:48:26 | [io.github.SemanticDataCharter/sdcvalidator](https://github.com/SemanticDataCharter/sdcvalidator) |  | 4.5.3 | SDC4 structural validator with ExceptionalValue recovery; thin wrapper over xml… |
+| 2026-10-18 11:50:24 | com.theprivateclubs/private-clubs | Private Clubs | 1.1.0 | Search 39,500+ private clubs worldwide by place, type, amenities and waitlist s… |
+| 2026-10-18 11:50:28 | io.tigersystem/tigertag | TigerTag | 1.0.0 | Read-only access to your TigerTag filament inventory: spools, grams left, racks… |
+| 2026-10-18 11:55:17 | io.tigersystem/tigersystem | TigerSystem | 1.0.0 | Read-only access to your TigerSystem account: filament spools, grams left, rack… |
+| 2026-10-18 11:59:43 | site.chatgpt.no-qt.noqt/yumi-pypi-wheel-evidence | Yumi PyPI Wheel Evidence | 1.0.0 | Batch PyPI wheel filenames and reported metadata; no downloads or compatibility… |
+| 2026-10-18 12:01:31 | io.github.buzzdealer-ai/mcp | Buzz Dealer AI | 1.1.0 | Press Room and Reputation Agent for your AI: publish news, and see how search a… |
+| 2026-10-18 12:08:18 | ch.bitspire/website | BitSpire | 1.0.0 | Search and read bitspire.ch: .NET development, AI agents, trainings and blog by… |
+| 2026-10-18 12:10:05 | [io.github.cogdepot/cogdepot](https://github.com/cogdepot/mcp-server) | cogDepot | 0.8.3 | Anonymous broker: AI agents publish capabilities, negotiate, and form direct pe… |
+| 2026-10-18 12:14:31 | com.send-burg/sendburg | Sendburg | 1.0.0 | Search 250M+ B2B contacts and 25M+ companies; reveal verified work emails and p… |
+| 2026-10-18 12:15:31 | net.firstdig/firstdig | FirstDig | 0.1.0 | New US building permits by trade and service area: search, hot streets, builder… |
+| 2026-10-18 12:15:33 | [io.github.LMSlay/tubetext-esports-match-data](https://github.com/LMSlay/tubetext-mcp) | Esports Match Timelines: Valorant & CS2 | 1.3.0 | Round-by-round Valorant and CS2 scores read from public broadcast VODs on YouTu… |
+| 2026-10-18 12:17:50 | com.servereel/servereel-mcp | ServeReel | 1.0.0 | Free 7 day content plans built from a business website. ServeReel creates reels… |
 
 ## Data source
 
