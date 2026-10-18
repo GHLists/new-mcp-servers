@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-10-18T07:19:46.808891Z,io.github.openvancamp/openvan-travel,,0.9.4,https://github.com/openvancamp/openvan-camp-public-api,streamable-http,"Vanlife & RV data: roadbooks, fuel, tolls, visas, holidays, hazards, weather, currency. openvan.camp"
+2026-10-18T07:19:48.04156Z,codes.moa/moa,moa,1.0.0,,streamable-http,"Your moa meeting notes and transcripts: decisions, to-dos, who said what, and the wiki."
+2026-10-18T07:26:21.572824Z,io.github.sweetcornna/free-search-mcp,Free Search,0.14.0,https://github.com/sweetcornna/free-search-mcp,,"No-API-key web search, page fetching and document reading across many engines. Local-first."
+2026-10-18T07:29:36.151811Z,me.livedot/mcp,livedot MCP,1.0.1,https://github.com/livedotme/mcp,streamable-http,"Find someone in a live running or cycling race, clubs and coaches near you, and race-day weather."
+2026-10-18T07:29:52.557673Z,io.github.kamatanuj/webmcp-store,WebMCP Demo Store,1.0.0,https://github.com/kamatanuj/webmcp,streamable-http,"WebMCP demo store: same catalog via MCP tool calls vs DOM scraping. -79% bytes, -42% tokens."
+2026-10-18T07:32:45.343138Z,io.github.lildaddyo/braintube-mcp,BrainTube,3.14.10,https://github.com/lildaddyo/braintube-mcp,streamable-http,"Your saved videos, articles and notes as one knowledge base for Claude and other MCP clients."
+2026-10-18T07:35:06.417872Z,dev.dulieu/finance,,1.0.0,,streamable-http,"Vietnam exchange rates, gold, silver, bank interest rates and commodities — daily, dated, sourced"
+2026-10-18T07:35:10.218691Z,dev.dulieu/weather,,1.0.0,,streamable-http,Daily weather and forecasts for 70+ Vietnamese cities
+2026-10-18T07:35:13.12199Z,dev.dulieu/retail,,1.0.0,,streamable-http,"Vietnam consumer prices: fuel, coffee, pepper, groceries, drugs, electronics"
+2026-10-18T07:35:17.175869Z,dev.dulieu/reference,,1.0.0,,streamable-http,Vietnam daily data briefing and the 2025 province-merge map
+2026-10-18T07:37:58.224387Z,io.github.Ezra-Black/rekey,rekey,0.1.0,https://github.com/Ezra-Black/rekey,,"Rotate API keys across AWS, GitLab, Cloudflare, OpenAI & more. Secrets never reach the model."
+2026-10-18T07:38:22.707022Z,ro.physioart/client-booking,PhysioArt client booking,1.0.0,https://github.com/alparlorincz/physioart,streamable-http,"Book, list, and cancel appointments for the signed-in client."
+2026-10-18T07:39:20.638453Z,com.cuevr/mcp,Cuevr,1.0.0,,streamable-http,"Read-only tools: search the site, read pages, see plans, price a quote, cite sourced figures."
+2026-10-18T07:39:31.542873Z,com.activitysmith/activitysmith,ActivitySmith,2.0.0,,streamable-http,AI agents and scripts reporting back to your iPhone with Push Notifications and Live Activities.
+2026-10-18T07:39:52.836152Z,io.github.zhuyansen/new-term-radar,New-Term Radar,0.4.0,https://github.com/zhuyansen/new-term-radar,,"New AI model, product and repo names as they surface, and the search terms behind them, sized."
+2026-10-18T07:41:24.616461Z,io.github.imokokok/priorseal,PriorSeal,0.1.0,https://github.com/imokokok/PriorSeal,streamable-http,Bounded authorization and independently verifiable execution evidence for agents.
+2026-10-18T07:45:24.860306Z,ch.vidit/demo,vidit (demo),0.1.0,,streamable-http,"Demo of a Swiss tax service for AI agents: AI-drafted answers, sample quotes, nothing validated yet."
+2026-10-18T07:47:27.572452Z,io.github.cheveguerra/sqlite-local-ai-memory,SQLite Local AI Memory,1.4.5,https://github.com/cheveguerra/sqlite-local-ai-memory,,100% In-Process Bare-Metal Hybrid Memory Engine & MCP Server for LLMs (SQLite + Int8 Vectors).
+2026-10-18T07:49:16.230676Z,io.github.markksantos/ai-model-watch,AI Model Watch,1.1.0,https://github.com/markksantos/ai-model-watch,,List the models each AI provider's API serves and see which are new since the last check.
+2026-10-18T07:49:31.479516Z,io.github.dangamsoft/cafe-mcp,,1.1.0,https://github.com/dangamsoft/cafe-mcp,streamable-http,"Saju & BaZi (Four Pillars) charts, luck cycles, manseryeok and classics. Free with sign-in."
+2026-10-18T07:49:57.031174Z,ai.okibi/porch,Porch,0.1.0,,streamable-http,"Public URLs for AI agents to catch webhooks, OAuth redirects, job callbacks and approval clicks."
+2026-10-18T07:50:02.071518Z,io.github.Herzog-GmbH/elo-mcp,ELO ECM,0.5.0,https://github.com/Herzog-GmbH/elo-mcp,,"ELO ECM: search, read text, file documents, run and build workflows with your own ELO account"
+2026-10-18T07:57:21.882537Z,io.github.zyvorai/guestkit,GuestKit,1.2.8,https://github.com/zyvorai/zyvor-guestkit,,"Read-only evidence and boot-readiness tools for one VM disk image, offline."
+2026-10-18T07:58:30.388265Z,io.github.Herzog-GmbH/acmp-mcp,ACMP MCP Server,1.0.0,https://github.com/Herzog-GmbH/acmp-mcp,,"Community MCP server for Aagon ACMP: clients, inventory, CVEs, jobs, tickets, four-eyes approval"
+2026-10-18T08:02:47.006022Z,tech.tutlab.tools/agent-tools,China Validators Toolkit,0.1.0,,streamable-http,"China-focused validation tools: ID card, bank card, phone, plate, USCC, VIN, lunar calendar & more"
+2026-10-18T08:06:43.995509Z,io.github.ynishi/mlua-swarm,,0.30.0,https://github.com/ynishi/mlua-swarm,,MCP server for mlua-swarm: engine that compiles flow.ir Blueprints and dispatches agent steps.
+2026-10-18T08:06:56.240058Z,com.socialtoai/socialtoai,SocialToAI,2.0.0,,streamable-http,"Read public social media posts, comments, profiles and trends from 18 platforms. Pay per call."
+2026-10-18T08:07:13.860333Z,com.chatterapi/mcp,ChatterAPI,1.0.0,https://github.com/Amplifyx-Labs/chatterapi-skill,streamable-http,"Live Reddit and X (Twitter) data: search, threads, users, subreddits, leads and mentions."
+2026-10-18T08:10:56.093147Z,com.layerhop/mcp,LayerHop,0.1.1,https://github.com/layerhop/layerhop-js,streamable-http,"Best-price cross-chain swap quotes across 70 chains (EVM + Solana). Holds no keys, never signs."
+2026-10-18T08:11:51.272459Z,com.run402.invoiceguard-ai/mcp,InvoiceGuard AI v4.0 — B2B Invoice & Tax Compliance Verifier,4.0.0,,streamable-http,"Cross-Border B2B Invoice Generator, W-8BEN / EU VAT Verifier & Fraud Scanner ($1 USDC, $950 Buyout)."
+2026-10-18T08:12:03.898999Z,io.github.dunfred/videoctx,videoctx,0.1.2,https://github.com/dunfred/videoctx,,"Read videos like images: index once locally, query the text layer, fetch frames on demand."
+2026-10-18T08:16:42.185173Z,io.github.Asgoresmilelong/officegrep,officegrep,0.1.1,https://github.com/Asgoresmilelong/officegrep,,"Full-text search inside Word, PPT, Excel and PDF files, with precise locators."

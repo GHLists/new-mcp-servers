@@ -9,33 +9,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 07:18 UTC
+## Latest list — 2026-10-18 08:22 UTC
 
-New MCP servers published between 2026-10-18 06:19 UTC and 2026-10-18 07:18 UTC.
+New MCP servers published between 2026-10-18 07:18 UTC and 2026-10-18 08:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-18T07-18-43-083369Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-18T08-22-04-792453Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-18 06:21:56 | io.github.dt-memyrlabs/notanats | notanATS | 1.0.0 | Run notanATS from your agent: create jobs, read applicants, propose decisions a… |
-| 2026-10-18 06:24:32 | [io.github.mp-consulting/apple-mail-mcp](https://github.com/mp-consulting/apple-mail-mcp) | Apple Mail | 0.2.1 | Search, read, sort and answer Apple Mail on macOS: fast local reads, drafts fir… |
-| 2026-10-18 06:25:28 | pro.sondaze/polls-mcp | Sondaże.pro — Polish Polls | 1.0.0 | MCP server for Polish political polls, averages, seat projections, and regional… |
-| 2026-10-18 06:26:05 | [io.github.mp-consulting/homebridge-ai-kit](https://github.com/mp-consulting/homebridge-ai-kit) | Homebridge | 3.1.0 | Control Homebridge accessories and scenes, manage plugins and config.json, and… |
-| 2026-10-18 06:28:27 | [io.github.ekelly95/cronometer-mcp](https://github.com/ekelly95/cronometer-mcp) | Cronometer | 1.0.0 | Your Cronometer diary, nutrition with honest coverage (missing is never zero),… |
-| 2026-10-18 06:28:50 | dev.workers.mohamed-bahaa53000.invoice-validator/invoice-payment-id-validator | Invoice & Payment ID Validator | 1.1.0 | Validate IBAN, BIC/SWIFT, EU VAT (+live VIES), UK VAT and US EIN for AP agents. |
-| 2026-10-18 06:28:53 | dev.workers.mohamed-bahaa53000.email-scorer/b2b-email-domain-scorer | B2B Email & Domain Scorer | 1.1.0 | Score emails/domains for B2B leads: business/free/role/disposable, MX, SPF/DMAR… |
-| 2026-10-18 06:43:46 | com.divingtechnics.indamix/indamix | In Da Mix | 1.22.19 | Gas blending calculator for scuba divers: nitrox, trimix, heliair, heliox, MOD,… |
-| 2026-10-18 06:46:05 | [jp.debuff/debuff](https://github.com/debuffjp/debuff) | debuff | 0.5.0 | Let coding agents play, test and tune your 2D web game: live state, explained e… |
-| 2026-10-18 06:49:08 | [io.github.DV1-321/scalpstream-mcp](https://github.com/DV1-321/scalpstream-mcp) | ScalpStream | 0.1.7 | Pay-per-call data over x402: air quality, border waits, fuel prices, market res… |
-| 2026-10-18 06:51:03 | com.celpass/celpip | CELPass: CELPIP practice and CRS calcul… | 1.3.0 | CELPIP practice questions with answers, sample answers, and Canada's November 2… |
-| 2026-10-18 06:51:20 | [io.github.firedrill-tools/firedrill](https://github.com/firedrill-tools/firedrill-mcp) | Firedrill | 2.0.0 | Operate simulations and inspect retained evidence with Firedrill. |
-| 2026-10-18 06:56:55 | dev.workers.fantastic-snowstorm.venue-watch/tools | venue-watch agent tools | 0.2.0 | Pay-per-call (x402, USDC on Base) web-to-Markdown, PDF text, India IFSC/PIN, Ba… |
-| 2026-10-18 07:00:41 | io.github.listnlive/listn | LISTN | 1.0.0 | Music promotion from your AI assistant: analyze tracks, prepare radio and creat… |
-| 2026-10-18 07:00:45 | dev.agentrequest/request-desk | Agent Request Desk | 0.3.0 | Find out where your AI agent gets stuck: blocked fetches and missing data, in a… |
-| 2026-10-18 07:03:16 | [com.pyxmark/pyxmark](https://github.com/pyxmark/pyxmark) | Pyxmark | 0.1.0 | Vendor checks: sanctions lists, SEC filings, domain age and a due-diligence rep… |
-| 2026-10-18 07:06:37 | [io.github.lucascordone-spec/base-univ4-rfq-hook](https://github.com/lucascordone-spec/base-univ4-rfq-hook) | Base Uniswap v4 Zero-Slippage RFQ Hook | 1.0.0 | Zero-slippage swaps on Base (8453) via Uniswap v4 Hook 0xd72CD1d46bA05479583fbB… |
-| 2026-10-18 07:15:11 | site.chatgpt.no-qt.noqt/yumi-wheel-evidence | Yumi Wheel Evidence | 1.0.0 | Batch PyPI wheel filenames and reported metadata; no downloads or compatibility… |
-| 2026-10-18 07:16:53 | [io.github.arminazimi/evergreen](https://github.com/arminazimi/evergreen) | Evergreen | 0.2.0 | Evidence-backed deprecation and end-of-life checks for dependencies, runtimes,… |
+| 2026-10-18 07:19:46 | [io.github.openvancamp/openvan-travel](https://github.com/openvancamp/openvan-camp-public-api) |  | 0.9.4 | Vanlife & RV data: roadbooks, fuel, tolls, visas, holidays, hazards, weather, c… |
+| 2026-10-18 07:19:48 | codes.moa/moa | moa | 1.0.0 | Your moa meeting notes and transcripts: decisions, to-dos, who said what, and t… |
+| 2026-10-18 07:26:21 | [io.github.sweetcornna/free-search-mcp](https://github.com/sweetcornna/free-search-mcp) | Free Search | 0.14.0 | No-API-key web search, page fetching and document reading across many engines.… |
+| 2026-10-18 07:29:36 | [me.livedot/mcp](https://github.com/livedotme/mcp) | livedot MCP | 1.0.1 | Find someone in a live running or cycling race, clubs and coaches near you, and… |
+| 2026-10-18 07:29:52 | [io.github.kamatanuj/webmcp-store](https://github.com/kamatanuj/webmcp) | WebMCP Demo Store | 1.0.0 | WebMCP demo store: same catalog via MCP tool calls vs DOM scraping. -79% bytes,… |
+| 2026-10-18 07:32:45 | [io.github.lildaddyo/braintube-mcp](https://github.com/lildaddyo/braintube-mcp) | BrainTube | 3.14.10 | Your saved videos, articles and notes as one knowledge base for Claude and othe… |
+| 2026-10-18 07:35:06 | dev.dulieu/finance |  | 1.0.0 | Vietnam exchange rates, gold, silver, bank interest rates and commodities — dai… |
+| 2026-10-18 07:35:10 | dev.dulieu/weather |  | 1.0.0 | Daily weather and forecasts for 70+ Vietnamese cities |
+| 2026-10-18 07:35:13 | dev.dulieu/retail |  | 1.0.0 | Vietnam consumer prices: fuel, coffee, pepper, groceries, drugs, electronics |
+| 2026-10-18 07:35:17 | dev.dulieu/reference |  | 1.0.0 | Vietnam daily data briefing and the 2025 province-merge map |
+| 2026-10-18 07:37:58 | [io.github.Ezra-Black/rekey](https://github.com/Ezra-Black/rekey) | rekey | 0.1.0 | Rotate API keys across AWS, GitLab, Cloudflare, OpenAI & more. Secrets never re… |
+| 2026-10-18 07:38:22 | [ro.physioart/client-booking](https://github.com/alparlorincz/physioart) | PhysioArt client booking | 1.0.0 | Book, list, and cancel appointments for the signed-in client. |
+| 2026-10-18 07:39:20 | com.cuevr/mcp | Cuevr | 1.0.0 | Read-only tools: search the site, read pages, see plans, price a quote, cite so… |
+| 2026-10-18 07:39:31 | com.activitysmith/activitysmith | ActivitySmith | 2.0.0 | AI agents and scripts reporting back to your iPhone with Push Notifications and… |
+| 2026-10-18 07:39:52 | [io.github.zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) | New-Term Radar | 0.4.0 | New AI model, product and repo names as they surface, and the search terms behi… |
+| 2026-10-18 07:41:24 | [io.github.imokokok/priorseal](https://github.com/imokokok/PriorSeal) | PriorSeal | 0.1.0 | Bounded authorization and independently verifiable execution evidence for agent… |
+| 2026-10-18 07:45:24 | ch.vidit/demo | vidit (demo) | 0.1.0 | Demo of a Swiss tax service for AI agents: AI-drafted answers, sample quotes, n… |
+| 2026-10-18 07:47:27 | [io.github.cheveguerra/sqlite-local-ai-memory](https://github.com/cheveguerra/sqlite-local-ai-memory) | SQLite Local AI Memory | 1.4.5 | 100% In-Process Bare-Metal Hybrid Memory Engine & MCP Server for LLMs (SQLite +… |
+| 2026-10-18 07:49:16 | [io.github.markksantos/ai-model-watch](https://github.com/markksantos/ai-model-watch) | AI Model Watch | 1.1.0 | List the models each AI provider's API serves and see which are new since the l… |
+| 2026-10-18 07:49:31 | [io.github.dangamsoft/cafe-mcp](https://github.com/dangamsoft/cafe-mcp) |  | 1.1.0 | Saju & BaZi (Four Pillars) charts, luck cycles, manseryeok and classics. Free w… |
+| 2026-10-18 07:49:57 | ai.okibi/porch | Porch | 0.1.0 | Public URLs for AI agents to catch webhooks, OAuth redirects, job callbacks and… |
+| 2026-10-18 07:50:02 | [io.github.Herzog-GmbH/elo-mcp](https://github.com/Herzog-GmbH/elo-mcp) | ELO ECM | 0.5.0 | ELO ECM: search, read text, file documents, run and build workflows with your o… |
+| 2026-10-18 07:57:21 | [io.github.zyvorai/guestkit](https://github.com/zyvorai/zyvor-guestkit) | GuestKit | 1.2.8 | Read-only evidence and boot-readiness tools for one VM disk image, offline. |
+| 2026-10-18 07:58:30 | [io.github.Herzog-GmbH/acmp-mcp](https://github.com/Herzog-GmbH/acmp-mcp) | ACMP MCP Server | 1.0.0 | Community MCP server for Aagon ACMP: clients, inventory, CVEs, jobs, tickets, f… |
+| 2026-10-18 08:02:47 | tech.tutlab.tools/agent-tools | China Validators Toolkit | 0.1.0 | China-focused validation tools: ID card, bank card, phone, plate, USCC, VIN, lu… |
+| 2026-10-18 08:06:43 | [io.github.ynishi/mlua-swarm](https://github.com/ynishi/mlua-swarm) |  | 0.30.0 | MCP server for mlua-swarm: engine that compiles flow.ir Blueprints and dispatch… |
+| 2026-10-18 08:06:56 | com.socialtoai/socialtoai | SocialToAI | 2.0.0 | Read public social media posts, comments, profiles and trends from 18 platforms… |
+| 2026-10-18 08:07:13 | [com.chatterapi/mcp](https://github.com/Amplifyx-Labs/chatterapi-skill) | ChatterAPI | 1.0.0 | Live Reddit and X (Twitter) data: search, threads, users, subreddits, leads and… |
+| 2026-10-18 08:10:56 | [com.layerhop/mcp](https://github.com/layerhop/layerhop-js) | LayerHop | 0.1.1 | Best-price cross-chain swap quotes across 70 chains (EVM + Solana). Holds no ke… |
+| 2026-10-18 08:11:51 | com.run402.invoiceguard-ai/mcp | InvoiceGuard AI v4.0 — B2B Invoice & Ta… | 4.0.0 | Cross-Border B2B Invoice Generator, W-8BEN / EU VAT Verifier & Fraud Scanner ($… |
+| 2026-10-18 08:12:03 | [io.github.dunfred/videoctx](https://github.com/dunfred/videoctx) | videoctx | 0.1.2 | Read videos like images: index once locally, query the text layer, fetch frames… |
+| 2026-10-18 08:16:42 | [io.github.Asgoresmilelong/officegrep](https://github.com/Asgoresmilelong/officegrep) | officegrep | 0.1.1 | Full-text search inside Word, PPT, Excel and PDF files, with precise locators. |
 
 ## Data source
 
