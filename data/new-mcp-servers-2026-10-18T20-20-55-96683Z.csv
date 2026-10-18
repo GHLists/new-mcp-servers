@@ -1,0 +1,36 @@
+created_at,server,title,version,repository,transports,description
+2026-10-18T19:21:55.734128Z,dev.mobster/mobster,Mobster,0.4.0,https://github.com/RadishSoftware/mobster,,Agents on your real iPhone: check iOS screens and hand tasks to Mobster's agent.
+2026-10-18T19:22:10.569592Z,io.github.gilesdawe/tokei-agent,,0.3.7,https://github.com/gilesdawe/tokei-agent,,Control your Tokei (tokei.io) pre-launch and waitlist campaigns from AI agents and the command line.
+2026-10-18T19:25:19.271887Z,com.losalidirect/numbers,Losali French Special Numbers,1.1.0,,streamable-http,"Directory of French special phone numbers: service, number type, cost from France, Losali price"
+2026-10-18T19:35:12.402763Z,io.github.hmoses/poly-glot-ai-workspace,Poly-Glot AI Workspace,1.11.0,https://github.com/hmoses/poly-glot-ai-workspace,streamable-http,"15 MCP tools, 1,022 templates, 38 languages, 8 AI providers, Compare Mode and BYOM."
+2026-10-18T19:37:31.151663Z,com.receiptaudit/receipt-audit,Receipt Audit,1.0.0,,streamable-http,"Checks receipts and invoices for AI generation, edits and resubmission, with proof you can re-check."
+2026-10-18T19:41:41.294728Z,dev.workers.quietworklabs.exit-desk/exit-desk,Exit Desk,1.0.0,,streamable-http,"Chain-shutdown deadlines, exchange delistings, non-custodial exit quotes via Relay (0.2% fee)."
+2026-10-18T19:45:22.044822Z,com.soofidigital/website-grader,,1.0.1,,streamable-http,"Grade any website out of 100 for speed, SEO, trust and lead capture, with plain-English fixes."
+2026-10-18T19:49:10.582479Z,me.mood-drop/game,mood-drop,1.0.0,,streamable-http,"Daily question game for AI agents: answer like a human, then guess how humans worldwide answered."
+2026-10-18T19:51:23.433816Z,io.github.arnaugonzalez/memory-boost,memory-boost,0.2.0,https://github.com/arnaugonzalez/memory-boost,,Markdown memory for coding agents that audits itself: drift reports and session digests.
+2026-10-18T19:53:54.006358Z,com.lebtechlb/lebtech,LebTech - electronics prices in Lebanon,1.0.0,,streamable-http,"Live prices for laptops, phones and more across Lebanese shops, in USD, checked nightly."
+2026-10-18T19:54:47.919494Z,io.github.antonio-castellon/mcp-telegram-bridge,Telegram Bridge,0.1.3,https://github.com/antonio-castellon/mcp-telegram-bridge,,Stdio MCP bridge to Telegram Bot API with scrubbing and chat allowlist.
+2026-10-18T19:56:08.9149Z,br.com.scrypta/zissou,,1.0.0,https://github.com/scrypta-mcp/scrypta-mcp,streamable-http,Catálogo de 163 produtos em 9 categorias — servido via Scrypta.
+2026-10-18T19:56:29.691811Z,app.slxd/aiapipricing,SLXD AI API Pricing,1.0.0,,streamable-http,"Look up, compare and track AI model API prices from an AI assistant. No sign-in needed."
+2026-10-18T19:56:30.352764Z,app.slxd/creator,SLXD Creator,1.0.0,,streamable-http,"Design and edit e-learning courses, lessons and bricks from an AI assistant."
+2026-10-18T19:56:30.907948Z,app.slxd/finance,SLXD Finance,1.0.0,,streamable-http,"Query invoices, purchases, budgets and project financials from an AI assistant."
+2026-10-18T19:56:31.533087Z,app.slxd/lmsmcp,SLXD LMS MCP,1.0.0,,streamable-http,"Manage your Moodle sites (courses, users, grades, reports) from an AI assistant."
+2026-10-18T19:56:32.182589Z,app.slxd/lrs,SLXD LRS,1.0.0,,streamable-http,"Query xAPI and cmi5 learning statements, KPIs and learner progress from an AI assistant."
+2026-10-18T19:56:32.783112Z,app.slxd/people,SLXD People,1.0.0,,streamable-http,"Manage employees, absences, clockings and schedules from an AI assistant."
+2026-10-18T19:56:33.518098Z,app.slxd/projects,SLXD Projects,1.0.0,,streamable-http,"Manage projects, tasks, time tracking, tickets and retainers from an AI assistant."
+2026-10-18T19:56:34.08316Z,app.slxd/sharescorm,SLXD ShareSCORM,1.0.0,,streamable-http,Register SCORM packages and manage client dispatches and usage from an AI assistant.
+2026-10-18T19:56:34.787342Z,app.slxd/tender,SLXD Tender,1.0.0,,streamable-http,"Search public tenders, analyse them against your company and manage bids from an AI assistant."
+2026-10-18T19:56:35.343642Z,app.slxd/training,SLXD Training,1.0.0,,streamable-http,"Manage training records, groups, enrolments and certificates from an AI assistant."
+2026-10-18T19:58:21.56654Z,io.github.majidkabir/carbonara,Carbonara freight CO2e,1.0.0,,streamable-http,"Freight CO2e by road, rail, sea, inland waterway and air (GLEC, ISO 14083), every step shown"
+2026-10-18T20:01:59.275719Z,io.github.atushi1841/japan-hobby-price-mcp,,1.0.0,https://github.com/atushi1841/japan-hobby-price-mcp,,TCG+anime price data Apify apify.com/fruitful_quintessence Gumroad atushi5.gumroad.com/l/kutuxe
+2026-10-18T20:02:02.014167Z,io.github.atushi1841/japan-port-vessel-mcp,Japan Port Vessel Traffic MCP (AIS Position & ETA),0.1.0,https://github.com/atushi1841/japan-port-vessel-mcp,,Port vessel traffic MCP Apify apify.com/fruitful_quintessence Gumroad atushi5.gumroad.com/l/kutuxe
+2026-10-18T20:02:07.134537Z,io.github.atushi1841/japan-price-alert-mcp,Japan Price Alert MCP,0.1.0,https://github.com/atushi1841/japan-price-alert-mcp,,Price change alert MCP. Apify: apify.com/fruitful_quintessence Gumroad: atushi5.gumroad.com/l/kutuxe
+2026-10-18T20:05:52.07733Z,io.github.atushi1841/jartic-japan-traffic-mcp,,1.0.0,,,JARTIC Japan traffic volume MCP | apify.com/fruitful_quintessence | atushi5.gumroad.com/l/kutuxe
+2026-10-18T20:08:25.637064Z,io.github.adwarp-dev/adwarp,Adwarp,0.2.0,https://github.com/adwarp-dev/adwarp,streamable-http,"Open-source ad agent for LinkedIn Ads and Google Ads. Drafts campaigns, audiences and reports."
+2026-10-18T20:11:21.896627Z,io.atilab/mcp,ATI Lab,1.0.0,,streamable-http,"Official facts, pages, results and enquiries for ATI Lab (atilab.io), an AI partner for businesses."
+2026-10-18T20:11:29.118363Z,dev.workers.zakwins.nzdata/nz-data-api,NZ Data API,1.1.0,,streamable-http,"New Zealand public holidays, working-day deadlines, IRD/NZBN/bank checks, GST. Pay per call via x402"
+2026-10-18T20:13:39.512218Z,io.github.angelkurten/keel,Keel,0.27.1,https://github.com/angelkurten/keel,,"Per-tenant bitemporal context graph built from domain events, shared by agents via five tools."
+2026-10-18T20:17:46.196413Z,com.asipipes/asipipes,Asipipes,0.1.0,,streamable-http,"Hosted, versioned data pipes for agents: return only new items from feeds, filings and prices."
+2026-10-18T20:18:13.785412Z,com.deepcounterfeit/deepcounterfeit,DeepCounterfeit,1.0.0,,streamable-http,"Flags memecoins impersonating real brands, official tokens and tokenized stocks. Read-only."
+2026-10-18T20:18:17.498857Z,com.tabzoola/pricing,,1.2.0,,streamable-http,"Instant pricing, 111 named sets and draft orders for custom index tabs and binder dividers."
+2026-10-18T20:19:34.919719Z,com.sociahive/sociahive,,1.0.1,,streamable-http,"Run social media from AI: schedule posts on 9 networks, DM automations, analytics."
