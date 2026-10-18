@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-17T23:23:20.732788Z,io.github.entempsllc/keyshortcuts,KeyShortcuts,1.0.0,https://github.com/entempsllc/keyshortcuts-mcp,streamable-http,"Verified keyboard shortcuts for Windows, macOS, Linux, ChromeOS and 45+ apps, with sources."
+2026-10-17T23:29:58.708946Z,com.getziztu/ziztu,Ziztu,1.0.0,,streamable-http,"Make micro dramas and anime episodes from an idea, with the same characters in every shot."
+2026-10-17T23:37:32.618334Z,ai.koppar/koppar,Koppar,1.0.0,,streamable-http,"Design a KiCad PCB from a prompt: parts, schematic checks, routing, KiCad DRC and Gerbers."
+2026-10-17T23:39:04.673206Z,app.myleadtech/mcp,MyLeadTech HVAC,0.1.0,https://github.com/MyLeadTech/myleadtech-mcp,streamable-http,"HVAC MCP server — fault codes, model lookup and answers cited to the OEM manual page."
+2026-10-17T23:50:13.828448Z,co.indigloo/model-finder,Model Finder,1.3.5,https://github.com/Abhiindigloo/EvalHarness,,"Find the cheapest AI model that passes your tests: audit repo models, build evals, routing, sizing"
+2026-10-17T23:53:22.775437Z,com.jornalo/journal,Jornalo — futures trading journal,1.2.0,,streamable-http,"Futures trading journal: performance, setups, prop-firm drawdown risk, tagging and screenshots."
+2026-10-17T23:54:35.712822Z,io.github.chrismore/tuneworks,TuneWorks,0.1.0,https://github.com/chrismore/tuneworks,streamable-http,"Motorsports workspace for vehicles, setups, sessions, logs, maintenance, and race engineering."
+2026-10-17T23:57:36.266774Z,ai.gomain/domains,GoMain,1.0.0,,streamable-http,"Domain availability and prices from 40+ registrars, name checks, DNS setup, and a domain broker"
+2026-10-17T23:59:30.903395Z,com.mylasertools/makers,MyLaserTools for Makers,1.0.0,,streamable-http,"Find vector artwork and free design generators for laser cutting, engraving and 3D printing."
+2026-10-18T00:03:05.422141Z,dev.pages.freetier-agent-api/freetier-agent-api,FreeTier Agent API,3.0.0,,streamable-http,"x402 pay-per-call data for agents: LLM prices, MCP/x402 directories, holidays, FX, page checks"
+2026-10-18T00:04:18.220782Z,io.github.SAASH-SA/saash-gateway,SAASH Saudi Professional Services | خدمات SAASH السعودية,0.11.0,,streamable-http,Bilingual discovery and safe GROW access to SAASH Legal and Workforce services.
+2026-10-18T00:04:23.571319Z,app.nothingbutalpha/backtest-auditor,Backtest Auditor,0.6.0,,,"Automated red-team checks for trading backtests: lookahead lint, Deflated Sharpe, costs. Local."
+2026-10-18T00:08:40.324944Z,io.github.Onplana/mcp-server,Onplana,0.2.5,https://github.com/Onplana/onplana-mcp-server,streamable-http,AI-native project and portfolio management platform for PMOs. OAuth + PAT.
+2026-10-18T00:10:01.957067Z,com.permitscouter/permits,Permit Scouter,1.0.0,,streamable-http,"Daily Tampa Bay, Florida building permits with job value and contractor. Pay per query via x402."
+2026-10-18T00:12:52.860281Z,io.github.Mlartab2/canonicalhash,,1.0.0,https://github.com/Mlartab2/canonicalhash,streamable-http,Deterministic JSON hashing and EIP-712 attestations for AI agents via x402.
+2026-10-18T00:18:41.588775Z,io.github.fairquery/company-jobs-feed,"Company Jobs Feed: Greenhouse, Lever & Ashby",1.0.0,https://github.com/fairquery/company-jobs-feed,streamable-http,"Live jobs from company Greenhouse, Lever and Ashby boards with age, long-open and repost signals."
+2026-10-18T00:18:46.629061Z,io.github.fairquery/company-jobs-feed-mcp,Fairquery Company Jobs Feed,1.0.1,https://github.com/fairquery/company-jobs-feed,,"Live jobs from company Greenhouse, Lever and Ashby boards with age, long-open and repost signals."
