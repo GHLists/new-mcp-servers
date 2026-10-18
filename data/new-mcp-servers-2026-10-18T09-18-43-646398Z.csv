@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-10-18T08:23:42.990019Z,io.github.why-see/agent-tools-mcp,Agent Tools MCP,1.1.0,https://github.com/why-see/agent-tools-mcp,streamable-http,"32 free MCP tools for data validation, text optimization, and synthetic test data."
+2026-10-18T08:32:37.610031Z,io.github.codevanmoose/vanmoose-mcp-server,,1.4.0,https://github.com/vanmoose-apis/mcp-server,,"197 MCP tools from 74 developer APIs — screenshots, email, NLP, WHOIS, QR, PDF, and more."
+2026-10-18T08:36:43.458042Z,com.hostingsurge/mcp,Hostingsurge,2.0.0,,streamable-http,"Deploy apps, sites, WordPress and databases on Hostingsurge; read logs, add domains, migrate sites."
+2026-10-18T08:37:06.699297Z,com.run402.rugshield-ai/mcp,RugShield AI v4.0 MCP,4.0.0,,streamable-http,"42-Point On-Chain Token Honeypot, Liquidity Lock & Drainer Scanner ($1 USDC Pro)."
+2026-10-18T08:37:09.709788Z,com.run402.careerforge-ai/mcp,CareerForge ATS v4.0 MCP,4.0.0,,streamable-http,"Workday, Greenhouse & Lever ATS Resume Keyword Optimizer & DOCX/PDF Kit ($1 USDC)."
+2026-10-18T08:37:13.152611Z,com.run402.agentpay-gate/mcp,AgentPay Gate v4.0 MCP,4.0.0,,streamable-http,Drop-in x402 v2 PAYMENT-REQUIRED validator & MCP Ed25519 manifest builder ($1 USDC).
+2026-10-18T08:37:17.170282Z,com.run402.deepcheck-kyb/mcp,DeepCheck KYB v4.0 MCP,4.0.0,,streamable-http,"Real-time B2B counterparty KYB, SSL, DNSSEC & DMARC/SPF trust verifier ($1 USDC)."
+2026-10-18T08:37:19.117017Z,com.run402.apishield-waf/mcp,APIShield WAF v4.0 MCP,4.0.0,,streamable-http,"50-vector prompt-injection, llms.txt poisoning, SSRF & OpenAPI scanner ($1 USDC)."
+2026-10-18T08:41:56.641376Z,io.github.hu-chenyu/log-ai-compressor,log-ai-compressor,2.11.2,https://github.com/hu-chenyu/log-ai-compressor,,Local log forensics: compress logs into citable evidence with root-cause confidence tiers.
+2026-10-18T08:49:08.234083Z,co.clerkchat/clerkchat,ClerkChat,1.0.0,https://github.com/clerkchatco-public/clerkchat-mcp,streamable-http,"Manage ClerkChat AI support agents: knowledge, channels, conversations, automations, analytics."
+2026-10-18T08:51:28.177197Z,com.rendlet/pdf,Rendlet PDF,0.1.0,,streamable-http,"HTML or JSON templates (invoice, itinerary) to PDF. Free plan: 100 documents/month."
+2026-10-18T08:51:33.08375Z,com.cnregwatch/china-data,China Visa & Regulation Data,0.1.0,,streamable-http,"China visa-free eligibility by nationality and latest official regulation changes, with sources."
+2026-10-18T08:52:07.475037Z,io.github.Micko886/mewtoys,MewToys Catalog and Buyer Knowledge,1.0.0,,streamable-http,"Cat toy manufacturing catalog, capabilities and buyer guidance."
+2026-10-18T09:01:48.971129Z,io.github.NURULLAHTURGUT/kinetik-ui,Kinetik UI,1.4.2,https://github.com/NURULLAHTURGUT/kinetikui,,Search and install animated React Native and Expo components from the Kinetik UI registry.
+2026-10-18T09:08:21.590878Z,one.yruz/mcp,YRUZ,1.0.0,,streamable-http,"YRUZ social network: post, blog, reply, create pages, edit profile and tip as an approved user."
+2026-10-18T09:11:59.940192Z,io.github.ohadf2015/stoquant-mcp,StoQuant — Quantitative Stock Research,0.6.0,https://github.com/ohadf2015/stoquant-mcp,,"StoQuant: 61 tools — Q-Score, ML, screeners, alt-data, portfolio, backtest, strategy."
+2026-10-18T09:12:10.625439Z,com.pdfbetter/pdfbetter,PDFBetter,1.0.0,,streamable-http,"Fill, convert, OCR, merge, split, extract data from and summarize PDFs. AI answers cite the page."
+2026-10-18T09:12:26.801505Z,com.workspace369/mcp,Workspace369,2026.3.0,https://github.com/Workspace369-LLC/workspace369-mcp,streamable-http,"CRM, proposals, invoices, projects, calendar, time tracking and inbox for client-work businesses."
+2026-10-18T09:17:56.492293Z,uk.co.tpsclear/tpsclear,TPSClear,1.0.0,,streamable-http,"Screen UK numbers against TPS and CTPS, wash AU numbers against the DNCR, check dead mobiles."
+2026-10-18T09:18:11.071067Z,com.epubtranslator/epub-translator,Epub Translator,1.0.0,,streamable-http,Translate EPUBs with free samples and fixed-price quotes. OAuth login; pay per book via Stripe.
