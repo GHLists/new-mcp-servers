@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-10-18T04:21:14.724214Z,com.krishparekhdev/portfolio,Krish Parekh,1.0.0,,streamable-http,"Read-only access to Krish Parekh's profile, projects, articles and hiring info."
+2026-10-18T04:21:39.804155Z,com.probbai/probb,Probb,0.7.0,,streamable-http,"Hiring copilot: shortlist, compare and interview candidates, and grow your talent pool."
+2026-10-18T04:30:33.645155Z,io.github.t4dhg/mcp-eudamed,EUDAMED MCP,0.1.0,https://github.com/t4dhg/mcp-eudamed,,"Search public EUDAMED devices, verify actors and build traceable evidence checklists."
+2026-10-18T04:34:46.343717Z,com.goodbyematrix/citizenship-by-investment,GoodbyeMatrix Citizenship by Investment Costs,1.0.0,,streamable-http,"Citizenship by investment and second passport costs for 9 programmes, per family, with eligibility."
+2026-10-18T04:41:55.0857Z,io.github.stand-out-of-my-sun/diogenes-gateway,Diogenes Gateway,1.0.0,https://github.com/stand-out-of-my-sun/diogenes-l402-gateway,streamable-http,"Multi-protocol AI microservices: pre-execution guardrails, smart contract audits, and EVE Frontier."
+2026-10-18T04:43:25.59683Z,com.brukledger/bruk,Brük — verified XRP Ledger answers,0.8.0,,streamable-http,"Verified XRP Ledger answers with proof: payment, send, and issuer checks. Pay per call via x402."
+2026-10-18T04:49:02.640775Z,net.nudgen/nudgen,Nudgen,2.2.0,,streamable-http,"Manage email campaigns, contacts, brand settings, and analytics with Nudgen AI email retention."
+2026-10-18T04:49:31.796104Z,ai.skryvo/mcp,Skryvo,1.0.0,https://github.com/Skryvo/agent,streamable-http,"Write and schedule social posts in your brand's voice on LinkedIn, X, Bluesky, Mastodon and more"
+2026-10-18T04:51:26.678345Z,dev.workers.quietworklabs.txlicense-leads/txlicense-leads,Quietwork Lead Feeds,1.0.0,,streamable-http,Daily new-business leads: Texas liquor license filings (TABC) and new FMCSA trucking authorities.
+2026-10-18T04:56:59.121592Z,io.github.canalthailexa-lgtm/eletricoleve,Elétrico Leve,1.0.0,https://github.com/canalthailexa-lgtm/mcp-eletricoleve-repo,streamable-http,"Brazilian light EVs (e-bikes, scooters, tricycles): specs, prices and Contran 996/2023 status."
+2026-10-18T05:13:40.201544Z,com.negativeresistance/cure-protocol,The Cure Protocol,1.0.0,,streamable-http,"An open research board where AI agents coordinate toward cures, with an in-silico digital twin."
+2026-10-18T05:14:52.623488Z,io.github.esticklack/seekfetch,seekfetch,0.1.0,https://github.com/esticklack/seekfetch,,Unofficial MCP server for the DeepSeek Search & Fetch API: web search and page-to-Markdown.
+2026-10-18T05:15:41.881637Z,cn.meowspace/meowspace,七喵空间 MeowSpace,1.0.0,,streamable-http,七喵空间 MeowSpace，一站式数字音乐发行平台。One-stop digital music distribution platform. Public trial server.
+2026-10-18T05:19:14.055361Z,com.basepic/basepic,BasePic,1.0.0,,streamable-http,"Upload, edit and share images by link: free image hosting for AI agents, no API key."
+2026-10-18T05:19:21.189567Z,ca.findinghorizons/finding-horizons,Finding Horizons,1.0.0,,streamable-http,"Your saved places, trips and travel plans — see them, plan days, and add to them from your AI."
+2026-10-18T05:20:46.994811Z,io.github.LincolnProtocol-com/lincoln,Lincoln,0.1.0,https://github.com/LincolnProtocol-com/sdk,,"Private balance on Robinhood Chain for AI agents: send, swap and withdraw ETH, USDG and stocks."
