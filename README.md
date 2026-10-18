@@ -9,53 +9,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 17:19 UTC
+## Latest list — 2026-10-18 18:19 UTC
 
-New MCP servers published between 2026-10-18 16:21 UTC and 2026-10-18 17:19 UTC.
+New MCP servers published between 2026-10-18 17:19 UTC and 2026-10-18 18:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-18T17-19-12-847066Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-18T18-19-04-718208Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-18 16:23:04 | [io.github.zikriz/verifai](https://github.com/zikriz/verifai-mcp) | Verifai — Email Verification & Domain I… | 1.0.0 | Email verification and domain intelligence for AI agents. MX, RDAP, SSL checks.… |
-| 2026-10-18 16:23:14 | [io.github.kfireliyahu/emerald](https://github.com/kfireliyahu/emerald-emd) | Emerald | 0.1.1 | The database under the chat: typed tables in a local SQLite file that a model r… |
-| 2026-10-18 16:24:03 | [io.github.ESGO-Logistics/esgo-mcp](https://github.com/ESGO-Logistics/esgo-mcp) | ESGO | 0.1.1 | ESGO API for AI assistants: search empty-run truck capacity and publish transpo… |
-| 2026-10-18 16:27:13 | [io.github.nicklee002e/docconv-mcp](https://github.com/nicklee002e/docconv-mcp) | Doc_Conv — Document to Markdown | 1.0.2 | Convert PDF/Word/Excel/PowerPoint documents to Markdown, paid in USDC via x402. |
-| 2026-10-18 16:29:00 | id.biver/biver | Biver | 3.1.0 | Build, edit, and publish Biver landing pages, products, orders, and leads from… |
-| 2026-10-18 16:29:08 | [chat.grupy/grupy](https://github.com/ai-builders-id/grupy-mcp) | Grupy | 1.1.0 | Summarize, search, and manage your own WhatsApp groups from any MCP client. |
-| 2026-10-18 16:33:55 | [io.github.CDCStream/captapi](https://github.com/CDCStream/captapi) | Captapi | 0.5.0 | Public social media data: profiles, posts, comments, transcripts and ad librari… |
-| 2026-10-18 16:35:20 | dev.pages.agentpeer/adn-node | AgentPeer ADN node | 0.1.1 | AgentPeer ADN node: publish, filter and forward signed posts for their human ow… |
-| 2026-10-18 16:35:56 | dev.workers.zenith-ops.pagewatch/pagewatch | PageWatch - page-to-data extraction and… | 1.0.0 | Extract prices, lists, tables, events from static pages and watch them for chan… |
-| 2026-10-18 16:35:58 | dev.workers.zenith-ops.statementkit/statementkit | StatementKit - bank statement normalizer | 1.0.0 | Normalize bank statements (CSV, camt, MT940, OFX, QIF) to JSON, analyze, export. |
-| 2026-10-18 16:36:05 | dev.workers.zenith-ops.agentkit-x402/agentkit | AgentKit x402 MCP server | 1.0.0 | Remote MCP tools for pay-per-call email, domain, SEO and Swedish data utilities… |
-| 2026-10-18 16:36:09 | dev.workers.zenith-ops.swekit-api/swekit | SweKit - Swedish validators | 0.1.0 | Swedish personnummer/orgnr/bankgiro/OCR validation, kontonummer to IBAN, bankda… |
-| 2026-10-18 16:39:19 | io.audd/audd | AudD Music Recognition | 1.0.0 | Music recognition with AudD: identify songs, monitor streams, call the API, plu… |
-| 2026-10-18 16:48:15 | com.0xpi.sdsentry/sds-lookup | SDSentry — SDS Lookup & OSHA HazCom | 1.0.1 | Free SDS lookup for one product or a whole chemical inventory list, plus a HazC… |
-| 2026-10-18 16:50:31 | [uk.energynorth/journal](https://github.com/sevillalaverde/energynorth-journal-mcp) | Energy North Journal | 1.0.0 | Search and read plain-English guides on electrical safety, EICRs and EV charger… |
-| 2026-10-18 16:51:30 | [io.github.GauravBR/inkrelay](https://github.com/GauravBR/inkrelay-ai) | InkRelay | 0.1.0 | Print PDFs, ZPL labels and ESC/POS receipts on your printers and follow print j… |
-| 2026-10-18 16:52:16 | io.strategyarena/strategyarena | Strategy Arena | 2026-10-18 | Backtest trading strategies, Monte Carlo robustness, exact Pine export, sealed… |
-| 2026-10-18 16:52:56 | [dev.eased/eased](https://github.com/easedui/ui) | Eased | 1.0.0 | Motion-first React components for shadcn: search, read docs and get install com… |
-| 2026-10-18 16:54:32 | ch.greenwave.wall-x/agent-relay | Agent Relay — Agent Commons | 1.1.0 | Discuss ideas and uncertainty with LLM agents: join, browse threads, start disc… |
-| 2026-10-18 16:58:43 | com.lotsinvoice/lotsinvoice | LotsInvoice | 1.0.0 | Professional invoicing: exact invoices and estimates, a client portal and remin… |
-| 2026-10-18 17:01:37 | [io.github.antonio-castellon/mcp-advanced-excel](https://github.com/antonio-castellon/mcp-advanced-excel) | Advanced Excel | 0.2.0 | Normalize messy lab Excel and CSV exports into structured tables. |
-| 2026-10-18 17:01:44 | io.github.jjchong5/tidyharvest-data-tools | TidyHarvest: contacts, ad libraries, do… | 1.0.0 | Website contacts, Meta and Google ad libraries, WHOIS/DNS, jobs, events, news a… |
-| 2026-10-18 17:02:30 | business.lots/lotsbusiness | LotsBusiness | 1.0.0 | Websites, Google profiles, directories and business email for local businesses… |
-| 2026-10-18 17:02:39 | [com.bidsparq/mcp](https://github.com/bidsparq/bidsparq-mcp-server) | BidSparq | 0.3.5 | 55 tools for federal/state/local RFPs, awards, vendors, contact graph, contract… |
-| 2026-10-18 17:04:35 | [io.github.RayenMlayeh/gsearch](https://github.com/RayenMlayeh/gsearch) | gsearch | 0.1.0 | Real Google Search for AI agents: real URLs, AI Overview and People also ask as… |
-| 2026-10-18 17:05:14 | [io.github.Devabubakar/atsprep](https://github.com/Devabubakar/atsprep-skills) | ATSPrep | 2.0.0 | Free resume tools: ATS score, job match, bullet and LinkedIn checks, tailoring,… |
-| 2026-10-18 17:06:03 | to.lotsmail/lotsmail | LotsMail | 1.0.0 | Business email on your own domain that your AI agent can read, search and draft… |
-| 2026-10-18 17:06:09 | [io.github.Livvux/fivemdocs](https://github.com/Livvux/fivemdocs) | FiveM Docs | 1.0.0 | Search and read independent FiveM development guides with citations. Free, read… |
-| 2026-10-18 17:07:18 | io.github.Livvux/qbcore-docs | QBCore Community Documentation | 1.0.0 | Independent QBCore API, resource and troubleshooting docs with cited sources. |
-| 2026-10-18 17:07:19 | [io.github.stanfrbd/mcp-cyberbro](https://github.com/stanfrbd/mcp-cyberbro) | Cyberbro MCP Server | 0.0.6 | MCP server for Cyberbro IOC extraction, enrichment and reputation analysis. |
-| 2026-10-18 17:07:35 | [io.github.rpegorov/drafta-mcp](https://github.com/rpegorov/drafta-mcp) | Drafta | 1.0.0 | Search, read and write notes in your local Drafta library over local stdio. |
-| 2026-10-18 17:09:00 | [io.github.smankoo/owlpost](https://github.com/smankoo/owlpost) | owlpost | 0.2.0 | IMAP/SMTP email for iCloud, Gmail, Proton Bridge and more: search, read, follow… |
-| 2026-10-18 17:09:06 | dev.refnusa/refnusa | Refnusa | 0.2.0 | Indonesia reference data: holidays, wages, regions, postal codes, tax, food pri… |
-| 2026-10-18 17:11:00 | [io.github.Anmol1310/youtube-reader](https://github.com/Anmol1310/youtube-reader) | YouTube Reader | 1.0.0 | Turn any YouTube video into text: transcript, title, channel, timestamps. |
-| 2026-10-18 17:11:29 | [io.github.bumbaRasch/searxng-mcp-server](https://github.com/bumbaRasch/searxng-mcp-server) | SearXNG MCP Server | 1.0.1 | Self-hosted SearXNG metasearch for MCP clients: 13 tools, citation refs, deep s… |
-| 2026-10-18 17:12:31 | com.sellertoolbelt/mcp | Seller Toolbelt | 1.0.0 | Check and fix Amazon, eBay and Etsy product images, calculate marketplace fees,… |
-| 2026-10-18 17:12:44 | [io.github.Quorus-dev/quorus](https://github.com/Quorus-dev/Quorus) | Quorus | 0.5.2 | Shared rooms, messages, file locks and task claims for AI coding agents from an… |
-| 2026-10-18 17:15:38 | [io.github.zagchk/x402score-mcp](https://github.com/zagchk/x402score-sdk-mcp) |  | 0.4.1 | Check an x402-paid API endpoint's trust score before paying it - live-probed, n… |
-| 2026-10-18 17:18:22 | io.supersimple/supersimple | Supersimple | 1.0.0 | Answer questions using your semantic layer and company knowledge graph. |
+| 2026-10-18 17:20:38 | online.golfdata/golf-clubs | golfdata.online — verified golf clubs | 1.0.0 | Verified golf clubs in Spain and Europe: facts, booking links and sources. Read… |
+| 2026-10-18 17:23:06 | [io.github.marcosnovo/lexvibe](https://github.com/marcosnovo/lexvibe-mcp) |  | 1.0.4 | One-step legal compliance for vibe-coded apps: privacy, terms, cookie banner an… |
+| 2026-10-18 17:27:59 | [io.github.roomi-fields/rtfm](https://github.com/roomi-fields/rtfm) | RTFM | 0.55.0 | Local retrieval for AI agents: index code, docs, PDFs, data in SQLite; 24 parse… |
+| 2026-10-18 17:30:36 | [io.github.BryceBin/freeqrly](https://github.com/BryceBin/freeqrly) | FreeQrly | 1.1.0 | Free QR code generation via MCP: no-key static codes plus authenticated dynamic… |
+| 2026-10-18 17:31:09 | [wiki.agenticweb/probe](https://github.com/Belgravia-Labs/agenticweb-data) | Agentic Web Wiki — standards reference,… | 1.2.0 | Look up 100+ agentic-web standards, live-probe any domain, validate manifests,… |
+| 2026-10-18 17:31:42 | io.github.JC-lurker/proxyai | ProxyAI | 1.0.0 | Review support tickets, send approved replies, and manage supported ProxyAI Age… |
+| 2026-10-18 17:33:52 | [com.agentstackdirectory/agent-stack-directory](https://github.com/gmansystems/agent-stack-directory) | Agent Stack Directory | 0.1.0 | Search, inspect and compare infrastructure tools for AI agents from a checked d… |
+| 2026-10-18 17:34:35 | [io.github.Marc-Armillas/bicycle-routes-generator-mcp](https://github.com/Marc-Armillas/bicycle-routes-generator-mcp) | Bicycle routes generator MCP | 0.5.0 | MTB and road cycling routes on real OpenStreetMap trails, saved as GPX with saf… |
+| 2026-10-18 17:34:37 | link.freetoken/catalog | FreeToken — LLM API discovery | 1.0.0 | LLM API discovery: access conditions, dated costs, sampled checks and keyless c… |
+| 2026-10-18 17:35:47 | app.pagecritic/pagecritic | PageCritic | 1.0.0 | Audit a landing page's conversion (score, top issues, fixes) and check if AI cr… |
+| 2026-10-18 17:36:01 | com.garminmcp/garmin | Garmin MCP | 1.1.0 | Read-only Garmin data for your AI: sleep, Body Battery, activities, laps, and t… |
+| 2026-10-18 17:37:51 | [io.github.dejohq/dejo-mcp](https://github.com/dejohq/dejo-mcp) | Dejo | 0.1.2 | A browser your AI agent remembers. Learn a site once, replay it in one call, ze… |
+| 2026-10-18 17:39:25 | [io.github.fabwaseem/benchline](https://github.com/fabwaseem/benchline) | Benchline | 0.1.0 | 71 developer, PDF, image, SEO and security tools over a stateless HTTP MCP serv… |
+| 2026-10-18 17:39:47 | com.agentsretreat/the-retreat | THE RETREAT | 1.0.0 | Rules-based context reduction, planning checks, research prompts and fixed expe… |
+| 2026-10-18 17:40:05 | com.mondovo/sites | Mondovo | 1.0.0 | Build, find, edit, and publish AI-generated websites in Mondovo. |
+| 2026-10-18 17:41:02 | org.casimo/mcp | Casimo Research — casino terms & changes | 1.0.0 | Source-backed US casino conditions, actual observed changes and explicit data l… |
+| 2026-10-18 17:47:55 | [io.github.zikriz/rugshield](https://github.com/zikriz/rugshield-mcp) | RugShield — Solana Token Safety Scanner | 1.0.0 | Solana token rug-pull detection for AI trading agents. Score, authorities, liqu… |
+| 2026-10-18 17:48:08 | [io.github.GrayWolf8-creator/gw8-signal-api](https://github.com/GrayWolf8-creator/micro-saas-agent) | GW8 Signal API | 1.2.0 | Pay-per-call crypto signals, token verdicts, flows & briefs. x402 USDC on Base.… |
+| 2026-10-18 17:49:46 | io.github.cadi27tech/3descu-quote | 3Descu 3D Printing Quotes (EU) | 1.0.0 | Instant FDM and SLA 3D printing quotes from an ISO 9001:2015 certified EU facto… |
+| 2026-10-18 17:50:29 | [com.transcript1/mcp](https://github.com/transcript1-com/mcp) | transcript1 | 1.0.0 | Transcribe audio and video from file uploads or YouTube links with transcript1. |
+| 2026-10-18 17:53:13 | [io.github.pironjulien/nexus-browser](https://github.com/pironjulien/NexusBrowser) | NexusBrowser | 2.9.0 | Your real Chrome, driven in background tabs. Needs the NexusBrowser bridge and… |
+| 2026-10-18 17:55:23 | io.solarscope/solarscope | SolarScope | 1.0.0 | Screen US sites for solar: sun, grid distance, FEMA flood risk. Save sites, cre… |
+| 2026-10-18 18:01:54 | life.underway/underway | underway | 1.0.0 | Talk through your working day as a short interview, then film it as a build-in-… |
+| 2026-10-18 18:02:59 | [io.github.4DA-Systems/victauri](https://github.com/4DA-Systems/victauri) | Victauri | 0.10.0 | In-process MCP server for Tauri apps: DOM, IPC with bodies, Rust state, SQLite.… |
+| 2026-10-18 18:03:11 | tech.marketcalendar/seasonality | The Market Calendar | 1.0.0 | Market seasonality by day, window and month for S&P 500, Nasdaq, Dow, Bitcoin,… |
+| 2026-10-18 18:06:06 | [io.github.cwooddgr/bezelbub-mcp](https://github.com/cwooddgr/bezelbub) |  | 0.4.0 | Frame screenshots and screen recordings in Apple device bezels (device mockups)… |
+| 2026-10-18 18:07:10 | com.chinaindustryintel.mcp/industry-intel | China Industry Intel | 0.1.0 | Read-only selected China industry article excerpts, disclosed sources and compa… |
+| 2026-10-18 18:07:15 | [io.github.iambashar/agent-intercom](https://github.com/iambashar/agent-intercom) | agent-intercom | 0.2.4 | Lets Claude Code, Codex CLI and Antigravity message each other, with live push… |
+| 2026-10-18 18:07:59 | [io.github.beardfaceguy/daimonos](https://github.com/beardfaceguy/daimonos) | Daimonos | 0.1.5 | Agent-optimized MCP server with structured JSON tools. 20-45% token savings. |
+| 2026-10-18 18:11:26 | [io.github.NovadaLabs/novada-mcp](https://github.com/NovadaLabs/novada-mcp) |  | 0.9.41 | Search, extract, crawl, map, research, scrape 16 platforms, browser automation,… |
+| 2026-10-18 18:14:00 | [io.github.LSUDOKO/bankweave](https://github.com/LSUDOKO/BankWeave) | BankWeave | 3.0.0 | Read-only FalkorDB tools for cross-bank AML investigations: rings, money paths,… |
+| 2026-10-18 18:14:47 | app.eggtimer/eggtimer | Eggtimer.app | 1.0.0 | Shareable timer links for countdowns, clock times, Pomodoro, Tabata and step re… |
+| 2026-10-18 18:16:10 | ai.instaport/instaport | Instaport | 1.0.0 | Your portfolio plus SEC filings, Congress trades, 13F holdings, insider buys, e… |
+| 2026-10-18 18:17:15 | com.carhauler247/car-shipping-quotes | CarHauler247 Car Shipping Quotes | 1.0.0 | Car shipping prices between US locations from a licensed auto transport broker,… |
+| 2026-10-18 18:18:41 | app.perfumate/perfumate | PerfuMate | 1.1.0 | Perfumery materials, IFRA Category 4, EU allergens, and your formulas and shelf… |
 
 ## Data source
 
