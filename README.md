@@ -9,45 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 15:19 UTC
+## Latest list — 2026-10-18 16:21 UTC
 
-New MCP servers published between 2026-10-18 14:19 UTC and 2026-10-18 15:19 UTC.
+New MCP servers published between 2026-10-18 15:19 UTC and 2026-10-18 16:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-18T15-19-56-289327Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-18T16-21-12-000346Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-18 14:21:02 | app.earmarkiq/earmarkiq | earmarkIQ | 1.0.0 | Read-only access to your own UK bank data: spending, subscriptions, payday plan… |
-| 2026-10-18 14:21:58 | [io.github.luizfnsilva/closure_drift](https://github.com/luizfnsilva/closure_drift) | closure_drift | 1.1.2 | Before an agent tags a release: does that version label already name different… |
-| 2026-10-18 14:22:10 | com.theneuralnet/model-register | The Neural Net | 1.0.0 | Sourced register of open-weight AI model releases and AI news. Every field cite… |
-| 2026-10-18 14:22:58 | [io.github.marciocar/kg-ssot](https://github.com/marciocar/kg-ssot) | KG-SSOT | 4.9.0 | Grafo de conhecimento verificável: julga e grava .kg.yaml e .kg.json pelo contr… |
-| 2026-10-18 14:23:38 | [io.github.edtool79-collab/hirepulse-gateway](https://github.com/edtool79-collab/hirepulse-mcp) | HirePulse Agent Gateway | 1.0.0 | Hiring signals, tech stack, company jobs, Google Ads and company enrichment. x4… |
-| 2026-10-18 14:24:10 | com.warebee/warebee | WareBee Warehouse Digital Twin | 1.0.0 | Warehouse digital twin: what-if simulation and AI optimisation of slotting, bat… |
-| 2026-10-18 14:28:41 | [io.github.pironjulien/nexus-android](https://github.com/pironjulien/android-computer-use) | NexusAndroid | 0.4.1 | Android computer use over plain ADB: screen, gestures, SMS, notifications, file… |
-| 2026-10-18 14:28:42 | [io.github.pironjulien/nexus-windows](https://github.com/pironjulien/claude-windows-computer-use) | NexusWindows for Claude | 0.9.1 | Windows computer use in the background: UI Automation and Win32 messages, every… |
-| 2026-10-18 14:31:12 | io.aiflowchart/diagrams | AI Flowchart | 1.0.0 | Create flowcharts, mind maps, sequence/ER/UML diagrams and charts as editable,… |
-| 2026-10-18 14:33:11 | io.github.evalgate/evalgate | EvalGate | 1.0.0 | Create and run AI evaluations, record traces, and inspect results with scoped o… |
-| 2026-10-18 14:38:19 | [io.github.psyb0t/reverse-engineer-anything](https://github.com/psyb0t/docker-reverse-engineer-anything) | Reverse Engineer Anything (Docker) | 0.1.1 | REA reverse-engineering MCP server in Docker, with JADX, Apktool and adb for AP… |
-| 2026-10-18 14:40:34 | ai.kreatorflow/kreatorflow | KreatorFlow | 1.0.0 | Make AI video and images with Seedance and Seedream, plus voice, sound and edit… |
-| 2026-10-18 14:40:43 | ai.kreatorflow/seedance-api | KreatorFlow Seedance API | 1.0.0 | Seedance 2.0 video and Seedream image generation through the KreatorFlow develo… |
-| 2026-10-18 14:50:19 | [io.github.MattJeff/glot](https://github.com/MattJeff/glot) | glot | 0.2.0 | AI-native i18n: live string context, validated translations, glossary for your… |
-| 2026-10-18 14:50:46 | [io.github.furkanisikay/ardupilot-mcp](https://github.com/furkanisikay/ardupilot-mcp) |  | 1.0.0 | Diagnoses ArduPilot flight logs (.bin and .tlog) over the Model Context Protoco… |
-| 2026-10-18 14:51:43 | com.wbiztool/mcp | WbizTool | 0.1.0 | Send WhatsApp and Telegram messages, manage reminders and check numbers in your… |
-| 2026-10-18 14:52:07 | io.github.Ovindolo/billify | Billify | 0.2.0 | Invoicing for businesses and AI agents: invoices, crypto payments, compliance,… |
-| 2026-10-18 14:52:18 | io.github.Ovindolo/billify-pay | Billify payments | 0.2.0 | Let agents verify the seller and pay Billify invoices with x402 (USDC on Base). |
-| 2026-10-18 14:57:19 | app.klyaksa/klyaksa | Klyaksa | 1.0.0 | Online whiteboard your AI agent draws on: live shared canvases, solo or with yo… |
-| 2026-10-18 14:57:46 | [io.github.AbdurahmanAlmehdi/jidr](https://github.com/AbdurahmanAlmehdi/jidr) | Jidr | 0.1.0 | See and drive Android emulators on a Mac: screenshot, tap, type, UI tree, logs,… |
-| 2026-10-18 14:58:13 | ai.kazkar/kazkar |  | 1.0.0 | Access your Kazkar TTRPG world — campaigns, chronicles, transcripts, lore — in… |
-| 2026-10-18 15:00:23 | [io.github.hail-hq/hail-mcp](https://github.com/hail-hq/hail) | Hail | 0.1.1 | Phone, SMS and email for AI agents. One remote MCP endpoint, OAuth login, zero… |
-| 2026-10-18 15:02:18 | com.vitef/vitef | Vitef | 1.2.0 | French admin chores: law-citing letters, calculators, quotes. Démarches en Fran… |
-| 2026-10-18 15:07:13 | [app.nomadpoint/travel-facts](https://github.com/eladkishon/nomadpoint) |  | 1.0.0 | No-auth visa rules for any passport (39,601 pairs) and a Schengen 90/180 day ca… |
-| 2026-10-18 15:08:23 | [io.github.jgt87/copilot-studio-mcp](https://github.com/jgt87/copilot-studio-mcp) | Copilot Studio MCP | 0.1.8 | Build, test, ship and maintain Microsoft Copilot Studio agents from the editor |
-| 2026-10-18 15:08:58 | [io.github.CordilleraSarl/clearotron](https://github.com/CordilleraSarl/clearotron) |  | 0.4.1 | Clearotron — trademark clearance that shows its work |
-| 2026-10-18 15:09:40 | com.legivel/legivel | legivel | 0.1.0 | Markdown in, typeset PDF out: tables, math, diagrams, contents list. 100 free d… |
-| 2026-10-18 15:15:28 | io.github.ralf206/trackkr-mcp | Trackkr MCP Server — Smart Lockerless P… | 2.1.0 | Lockerless multi-tenant parcel tracking and secure signature logging. |
-| 2026-10-18 15:16:08 | com.seoperception/mcp | SEO Perception | 1.0.0 | Search Console, crawl and SEO to-dos, read-only inside Cursor and Claude. |
-| 2026-10-18 15:17:26 | no.kollegia/jobbsok | Kollegia – ledige stillinger og lønn i… | 1.0.0 | Search active job listings, salaries and employers in Norway (kollegia.no). Rea… |
-| 2026-10-18 15:17:38 | rent.quub/hotels | Quub hotel search and booking | 1.0.0 | Live hotel prices worldwide, sourced destination guides, prebooking. No key nee… |
+| 2026-10-18 15:20:48 | [ai.patentreply/patentreply](https://github.com/patentreply/patentreply-mcp) | PatentReply | 1.9.0 | The USPTO prosecution record for your AI. Connect once and work any U.S. patent… |
+| 2026-10-18 15:23:17 | com.neuroagenda/agenda | Neuro Agenda | 1.2.0 | Personal agenda and CRM with AI: people, companies, reminders, contracts, finan… |
+| 2026-10-18 15:25:19 | [com.aim-journal/aim](https://github.com/persistmcp/aim) | AIm Workout Journal | 1.3.0 | Chat forgets your workouts. AIm remembers them for Claude and ChatGPT: sets, we… |
+| 2026-10-18 15:26:10 | [io.github.eukosh/youtube-kit](https://github.com/eukosh/youtube-kit) | youtube-kit | 0.6.0 | Your YouTube channels for agents: analytics, uploads, metadata, playlists and c… |
+| 2026-10-18 15:27:39 | com.getziztu/ziztu-planner | Ziztu Planner | 1.0.0 | Plan, write and price micro dramas and anime episodes. It does not make images,… |
+| 2026-10-18 15:29:15 | ai.helpwell/helpwell | HelpWell | 0.3.0 | Manage your HelpWell help desk, knowledge base, live chat, contacts, email and… |
+| 2026-10-18 15:29:19 | io.github.TokyoFuturo/tokyo-futuro |  | 0.1.0 | Crew game on Robinhood Chain for AI agents: sign in, solve the daily Trials, re… |
+| 2026-10-18 15:29:39 | [com.fxsocket/mcp](https://github.com/fxsocket-com/FxSocket-MCP) | FxSocket | 1.0.1 | Read-only MetaTrader 4 and 5 accounts: balances, positions, trade history, quot… |
+| 2026-10-18 15:32:28 | [com.phototology/mcp](https://github.com/phototology-ai/phototology) |  | 2.0.0 | Persistent memory for visual intelligence. A photo registry: analyze once, look… |
+| 2026-10-18 15:34:57 | com.runzumi.mcp/runzumi | Runzumi | 0.1.3 | Explore GitHub Actions job performance, compute costs and failures with Runzumi… |
+| 2026-10-18 15:36:11 | [io.github.visubramaniam/vsp360-mcp](https://github.com/visubramaniam/vsp360-mcp) | Hitachi VSP 360 (Community) | 0.1.26 | Community MCP server for the Hitachi VSP 360 REST API: alerts, inventory, capac… |
+| 2026-10-18 15:41:44 | [co.whalecoupons/whale-coupons](https://github.com/whalecoupons/whale-coupons-mcp) | Whale Coupons | 1.1.0 | Store-issued coupon codes from thousands of independent online stores, updated… |
+| 2026-10-18 15:42:58 | uk.co.0sand1s/cis | 0s and 1s CIS calculators | 1.0.0 | Free UK CIS calculators: deductions, deadlines, late penalties, gross payment t… |
+| 2026-10-18 15:51:57 | club.thedinnertable/dinners | The Dinner Table Club | 1.1.0 | Find The Dinner Table Club dinner parties for strangers in NYC, DC, LA and Miam… |
+| 2026-10-18 15:53:12 | [ai.recomma/recomma](https://github.com/RecommaAI/recomma) | Recomma | 1.0.0 | What ChatGPT, Gemini and Google AI Overviews say about your brand, and which so… |
+| 2026-10-18 15:53:53 | com.gtm-work/gtm | GTM Work | 1.0.0 | Your GTM accounts, agents and Inbox, in your AI tool. |
+| 2026-10-18 15:56:16 | ai.ownyourmind/oym-substrate | Own Your Mind DeAI assessments | 1.0.0 | Signed, independent scores and claim checks for decentralised AI projects. Read… |
+| 2026-10-18 15:59:39 | [io.github.Alshhbaa/store](https://github.com/Alshhbaa/alshhbaa-agent-kit) | Alshhbaa Store | 1.0.0 | Luxury chandeliers and lighting catalog MCP server for shop.alshhbaa.com |
+| 2026-10-18 16:05:38 | [com.appscreenstudio/app-screen-studio](https://github.com/appscreenstudio/appscreenstudio-mcp) | AppScreenStudio | 0.1.0 | Design App Store and Google Play screenshots with your AI agent in the AppScree… |
+| 2026-10-18 16:06:08 | com.skillspicker/recommend | SkillsPicker | 1.0.0 | Recommends open-license agent skills (SKILL.md) for a project from its stack an… |
+| 2026-10-18 16:06:42 | dev.workers.mike-tusa.smugglecheck/smugglecheck | SmuggleCheck | 0.1.2 | Find hidden prompt-injection text: ASCII smuggling, zero-width/emoji stego, bid… |
+| 2026-10-18 16:06:51 | ai.postquick.www/postquickai | PostQuickAI | 0.1.4 | Draft, schedule and review social posts on X, LinkedIn, Instagram, TikTok, YouT… |
+| 2026-10-18 16:09:43 | [app.nomadpoint/nomadpoint](https://github.com/eladkishon/nomadpoint-skills) |  | 1.0.1 | Plan trips and track visa days per traveller across 39,601 entry rules |
+| 2026-10-18 16:11:27 | [io.github.layoza/layoza](https://github.com/layoza/layoza) | Layoza | 0.1.2 | Design systems, layout and motion guidance for AI agents, plus headless Chromiu… |
+| 2026-10-18 16:12:50 | kz.egile/board | eGile | 1.2.0 | eGile kanban board for AI agents: a card per task, take teammates' tasks, move… |
+| 2026-10-18 16:16:15 | io.github.juraam/google-jobs | Google Jobs (Apify) | 1.0.0 | Live Google for Jobs postings: salary, apply links, remote and date filters. Pa… |
+| 2026-10-18 16:16:21 | [io.github.gjlmotea/blockhand-for-minecraft-education-mcp](https://github.com/gjlmotea/blockhand-mcp) | BlockHand | 0.1.0 | Minecraft Education Edition MCP server: Agent robot, 24 build shapes, events. N… |
+| 2026-10-18 16:16:41 | [io.github.gjlmotea/studio-sidecar-for-roblox-studio-mcp](https://github.com/gjlmotea/studio-sidecar-mcp) | Studio Sidecar | 0.1.0 | Companion to Roblox Studio's built-in MCP: open places, guard writes, Open Clou… |
 
 ## Data source
 
