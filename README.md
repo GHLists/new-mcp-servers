@@ -9,31 +9,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 00:19 UTC
+## Latest list — 2026-10-18 01:21 UTC
 
-New MCP servers published between 2026-10-17 23:21 UTC and 2026-10-18 00:19 UTC.
+New MCP servers published between 2026-10-18 00:19 UTC and 2026-10-18 01:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-18T00-19-56-149914Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-18T01-21-00-322383Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-17 23:23:20 | [io.github.entempsllc/keyshortcuts](https://github.com/entempsllc/keyshortcuts-mcp) | KeyShortcuts | 1.0.0 | Verified keyboard shortcuts for Windows, macOS, Linux, ChromeOS and 45+ apps, w… |
-| 2026-10-17 23:29:58 | com.getziztu/ziztu | Ziztu | 1.0.0 | Make micro dramas and anime episodes from an idea, with the same characters in… |
-| 2026-10-17 23:37:32 | ai.koppar/koppar | Koppar | 1.0.0 | Design a KiCad PCB from a prompt: parts, schematic checks, routing, KiCad DRC a… |
-| 2026-10-17 23:39:04 | [app.myleadtech/mcp](https://github.com/MyLeadTech/myleadtech-mcp) | MyLeadTech HVAC | 0.1.0 | HVAC MCP server — fault codes, model lookup and answers cited to the OEM manual… |
-| 2026-10-17 23:50:13 | [co.indigloo/model-finder](https://github.com/Abhiindigloo/EvalHarness) | Model Finder | 1.3.5 | Find the cheapest AI model that passes your tests: audit repo models, build eva… |
-| 2026-10-17 23:53:22 | com.jornalo/journal | Jornalo — futures trading journal | 1.2.0 | Futures trading journal: performance, setups, prop-firm drawdown risk, tagging… |
-| 2026-10-17 23:54:35 | [io.github.chrismore/tuneworks](https://github.com/chrismore/tuneworks) | TuneWorks | 0.1.0 | Motorsports workspace for vehicles, setups, sessions, logs, maintenance, and ra… |
-| 2026-10-17 23:57:36 | ai.gomain/domains | GoMain | 1.0.0 | Domain availability and prices from 40+ registrars, name checks, DNS setup, and… |
-| 2026-10-17 23:59:30 | com.mylasertools/makers | MyLaserTools for Makers | 1.0.0 | Find vector artwork and free design generators for laser cutting, engraving and… |
-| 2026-10-18 00:03:05 | dev.pages.freetier-agent-api/freetier-agent-api | FreeTier Agent API | 3.0.0 | x402 pay-per-call data for agents: LLM prices, MCP/x402 directories, holidays,… |
-| 2026-10-18 00:04:18 | io.github.SAASH-SA/saash-gateway | SAASH Saudi Professional Services \| خدم… | 0.11.0 | Bilingual discovery and safe GROW access to SAASH Legal and Workforce services. |
-| 2026-10-18 00:04:23 | app.nothingbutalpha/backtest-auditor | Backtest Auditor | 0.6.0 | Automated red-team checks for trading backtests: lookahead lint, Deflated Sharp… |
-| 2026-10-18 00:08:40 | [io.github.Onplana/mcp-server](https://github.com/Onplana/onplana-mcp-server) | Onplana | 0.2.5 | AI-native project and portfolio management platform for PMOs. OAuth + PAT. |
-| 2026-10-18 00:10:01 | com.permitscouter/permits | Permit Scouter | 1.0.0 | Daily Tampa Bay, Florida building permits with job value and contractor. Pay pe… |
-| 2026-10-18 00:12:52 | [io.github.Mlartab2/canonicalhash](https://github.com/Mlartab2/canonicalhash) |  | 1.0.0 | Deterministic JSON hashing and EIP-712 attestations for AI agents via x402. |
-| 2026-10-18 00:18:41 | [io.github.fairquery/company-jobs-feed](https://github.com/fairquery/company-jobs-feed) | Company Jobs Feed: Greenhouse, Lever &… | 1.0.0 | Live jobs from company Greenhouse, Lever and Ashby boards with age, long-open a… |
-| 2026-10-18 00:18:46 | [io.github.fairquery/company-jobs-feed-mcp](https://github.com/fairquery/company-jobs-feed) | Fairquery Company Jobs Feed | 1.0.1 | Live jobs from company Greenhouse, Lever and Ashby boards with age, long-open a… |
+| 2026-10-18 00:29:09 | com.siteqwality/monitoring | Site Qwality | 1.0.0 | Manage uptime monitors and incidents and search logs, metrics and traces from a… |
+| 2026-10-18 00:29:50 | com.snagres/reservations | SnagRes | 1.1.0 | Live tables, release times and booking odds at hard-to-book restaurants in NYC,… |
+| 2026-10-18 00:34:12 | com.juzpost/mcp | JuzPost | 1.0.0 | Draft, schedule and publish social posts to X, LinkedIn, Instagram, TikTok, You… |
+| 2026-10-18 00:36:50 | [io.github.Omodaka9375/netexpert-mcp](https://github.com/Omodaka9375/netexpert-mcp) |  | 0.1.1 | Cross-platform local-network diagnostics & security-posture MCP server — 31 too… |
+| 2026-10-18 00:46:33 | [io.github.Moha2005269/etabs-mcp](https://github.com/Moha2005269/etabs-mcp) | ETABS MCP | 0.3.2 | Agentic MCP server for CSI ETABS v22+: model, load, analyse, design and inspect… |
+| 2026-10-18 00:49:37 | [io.github.nrupala/verdict](https://github.com/nrupala/verdict-filings) | Verdict — Send anything. Get the truth. | 1.1.0 | Send anything. Get the truth — REAL, SUSPICIOUS or LIKELY SCAM verdicts on mess… |
+| 2026-10-18 00:51:22 | io.github.brendoncampbell/camp-map | Cosmic's Camp Map | 1.0.0 | Can I camp here, and will I have signal? Land status, signal, weather and fires… |
+| 2026-10-18 00:51:23 | io.github.brendoncampbell/coast-map | Cosmic's Coast Map | 1.0.0 | Tides, currents, marine forecasts and warnings for paddlers, anglers and small… |
+| 2026-10-18 00:55:41 | dev.ipatlas/ipatlas | ipatlas IP geolocation | 1.0.0 | IP geolocation: country, EU status, region, city, time zone and ASN for any IPv… |
+| 2026-10-18 00:58:52 | [io.github.yayabough/tolca](https://github.com/yayabough/tolca) | Tolca | 1.0.0 | Know who you are paying before you pay: Québec contractor and company checks, p… |
+| 2026-10-18 01:07:37 | com.bidbudai/estimating | BidBud Estimating | 1.1.0 | Home-improvement cost estimates, tier comparisons, quote checks and permit guid… |
+| 2026-10-18 01:09:27 | [com.modevc/investor-atlas](https://github.com/harrybuild/modevc-mcp) | Mode VC Investor Atlas: 3,650+ VC Firms… | 2.0.2 | Search 3,650+ institutional venture capital firms and 13,000+ partners by stage… |
+| 2026-10-18 01:09:29 | [com.modevc/ai-charts](https://github.com/harrybuild/modevc-ai-charts-mcp) | Mode VC AI Chart Lab: 38 Empirical AI &… | 2.0.2 | Search and retrieve time-series data across 38 empirical AI adoption and ventur… |
+| 2026-10-18 01:10:55 | [com.modevc/valuation-benchmarks](https://github.com/harrybuild/modevc-valuation-benchmarks-mcp) | Mode VC Startup Distribution Moat & Val… | 2.0.2 | Evaluate startup distribution moat defensibility (Tier 1-5) and pre-seed valuat… |
+| 2026-10-18 01:10:57 | [com.modevc/llm-economics](https://github.com/harrybuild/modevc-ai-charts-mcp) | Mode VC LLM Token Economics & Model Rel… | 2.0.2 | Query empirical frontier LLM release velocity, inference token deflation, and e… |
+| 2026-10-18 01:12:11 | com.kbeautyverified/ingredients | KBeauty Verified™ — K-beauty ingredient… | 1.0.0 | K-beauty ingredients and products checked against Korea (MFDS), EU and U.S. FDA… |
+| 2026-10-18 01:16:14 | [io.github.gobeyondfj-cmd/boundra](https://github.com/gobeyondfj-cmd/boundra) | Boundra — Payment Approval Gateway for… | 0.1.0 | Policy decision point for agent payments — allow, ask, or veto before signing |
+| 2026-10-18 01:18:16 | [io.github.mlartab/agentwebintel](https://github.com/mlartab/marketplace-service-template) |  | 1.0.0 | Proxy-rotated web scraping and cross-platform intelligence for AI agents. |
 
 ## Data source
 
