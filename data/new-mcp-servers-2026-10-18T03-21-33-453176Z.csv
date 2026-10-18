@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-10-18T02:30:15.18267Z,io.github.jeshuadomingo-byte/caption-pack,Caption-Pack,1.0.0,,streamable-http,"Deterministic social-caption API: hooks, bodies, CTAs + hashtags as JSON. No LLM in the loop."
+2026-10-18T02:33:29.218265Z,io.github.partprogramming09/webscope,Webscope,0.2.0,https://github.com/partprogramming09/webscope,,"Short project answers for coding agents: grouped search, one symbol per read, the project's scripts."
+2026-10-18T02:40:47.071304Z,io.github.Yahhi/aimyear-mcp,AimYear,0.4.2,https://github.com/Yahhi/aimyear-mcp,streamable-http,"Accountability partner in your agent: one yearly aim, one main step a day, a timer your agent runs."
+2026-10-18T02:42:39.219605Z,io.github.pitroldev/guarita,Guarita,1.0.0,,streamable-http,"Authorized security scans, evidence, fix prompts and retests for AI-built web apps."
+2026-10-18T02:47:42.792255Z,io.github.quorum-dog/quorum,Quorum AI,1.0.0,https://github.com/quorum-dog/quorum-mcp,streamable-http,"Compare AI perspectives with configurable Modes, estimate deliberations, and retrieve run receipts."
+2026-10-18T02:47:56.203943Z,technology.katechon/cast,Cast,1.0.0,,streamable-http,"AI character videos from one line: returns a link the user taps. First video free, no account."
+2026-10-18T02:50:14.282117Z,io.protoperfect/labs,Protoperfect Labs,1.0.0,,streamable-http,"Search and read Protoperfect Labs research, documentation and glossary. Read-only."
+2026-10-18T02:56:03.664822Z,ai.veevid/veevid,Veevid AI,1.0.0,,streamable-http,"Generate AI videos, images and audio on Veevid with Veo 3.1, Kling 3.0, Seedance 2.5 and more."
+2026-10-18T03:07:08.340439Z,io.github.devwithmj/quickbooks-mcp,QuickBooks Desktop,0.1.3,https://github.com/devwithmj/quickbooks-mcp,,"Read QuickBooks Desktop data and, if enabled, make safe changes. Windows only."
+2026-10-18T03:08:50.438121Z,com.fateandstars/tarot-knowledge,Fate & Stars Tarot Knowledge,1.0.0,,streamable-http,"78 tarot card meanings, keyword search and nine spreads, with canonical source links."
+2026-10-18T03:10:36.996705Z,site.cryptofeed402/feed,cryptofeed402,1.0.0,https://github.com/stovepipes55-jpg/-cryptofeed402-mcp-,streamable-http,"Crypto market data for AI agents: Hyperliquid funding/OI, OKX spot, twice-daily brief. x402 USDC."
+2026-10-18T03:11:48.40163Z,dev.workers.ondalith.mcp/greenhouse-lever-jobs,"Greenhouse & Lever Jobs (unofficial, by Ondalith)",0.1.0,,streamable-http,Greenhouse/Lever jobs via Apify MCP; needs your Apify token. Unofficial; Ondalith is AI-operated.
+2026-10-18T03:14:38.153642Z,io.github.neurarch-ai/neurarch-mcp,,0.17.0,https://github.com/neurarch-ai/neurarch-mcp,,"Sizes a training job before it launches: peak memory, smallest GPU, max batch, cost."
+2026-10-18T03:15:25.532116Z,io.github.wiltodelta/remove-ai-watermarks,Remove AI Watermarks,0.46.0,https://github.com/wiltodelta/remove-ai-watermarks,,Identify and remove AI watermarks and provenance metadata from your own images and video.
+2026-10-18T03:17:59.326268Z,dev.workers.quietworklabs.faa-x402/faa-airport-status,FAA Airport Status,1.1.0,,streamable-http,"Live US airport ground stops, delay programs, delays and closures from the FAA NAS Status feed."
