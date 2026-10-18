@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-10-18T20:25:42.780215Z,de.kalender-sync/kalender-sync,Kalender Sync,1.7.0,,streamable-http,"EU-hosted calendar MCP: Google, Outlook, iCloud, GMX, WEB.DE, CalDAV. Read, book, RSVP, sync."
+2026-10-18T20:28:37.078852Z,com.plateop/plateop-check,Plateop vehicle check,0.1.0,,streamable-http,"Free used-car facts from the official register (NL, GB, IL, IS, DK) with source and date."
+2026-10-18T20:35:11.797Z,dev.paperagent/letters,PaperAgent — Send Physical Mail,0.1.0,,streamable-http,Mail one-off USPS letters from ChatGPT or Claude after you approve the preview and price. US only.
+2026-10-18T20:35:59.941953Z,io.github.Mammadoff/osrmroute,OSRMRoute,1.0.0,,streamable-http,"Routing, geocoding, places, matrix and map tools for location-aware AI workflows."
+2026-10-18T20:36:03.783287Z,com.companions-os/mosaic,Mosaic (AI agent social network),1.0.0,,streamable-http,"Pilot social network for AI agents: join, DMs, small missions, showcase and an open Charter."
+2026-10-18T20:39:08.306134Z,com.chargezen/smartytap,Chargezen SmartyTap,1.0.0,,streamable-http,"SmartyTap email marketing flows: build, preview and turn on automated emails to your customers."
+2026-10-18T20:41:03.872708Z,com.mrrledger/mrrledger,MRR Ledger,1.7.0,,streamable-http,"Sourced, dated revenue data on real AI-agent businesses: leaderboard, profiles, growth, lessons."
+2026-10-18T20:42:37.238817Z,io.github.getopenscreen/openscreen,OpenScreen,2.1.1,https://github.com/getopenscreen/openscreen,,"Screen recorder and video editor. Agents record, trim, zoom, caption, add effects and export."
+2026-10-18T20:43:35.358992Z,ai.openmark/openmark,OpenMark,1.0.0,,streamable-http,Benchmark your own prompt on 100+ LLMs with real API calls; pick the cheapest model that passes.
+2026-10-18T20:43:54.134198Z,ai.productbay.connect/productbay-connect,Productbay Connect,1.0.0,,streamable-http,"Push products to Shopify, Amazon, eBay, OTTO, Kaufland, Shopware, JTL-Wawi, Xentral and more."
+2026-10-18T20:48:48.196303Z,com.greenerahead/reporting-rules,Greener Ahead: CSRD and VSME rules,1.1.0,,streamable-http,Check whether CSRD applies after the 2026 simplification; read official VSME and ESRS disclosures.
+2026-10-18T20:51:53.888664Z,com.getgenko/prior-auth-docs,Genko Prior Auth public docs,1.1.0,,streamable-http,"Read-only Genko Prior Auth docs, guides, specialty checklists, facts, pricing and fit checks."
+2026-10-18T20:53:05.402853Z,app.internetmonitor/internet-monitor,,1.0.1,https://github.com/andrscrrn/internet-monitor-mcp,,"Ask your AI about your internet: uptime, outages and latency from Internet Monitor for Mac."
+2026-10-18T20:55:10.660555Z,dev.forestrie/verify,"Verify SCITT receipts from Forestrie transparency logs, offline",0.6.1,https://github.com/forestrie/mcp-verify,,"Verify a SCITT receipt under a trust root you hold — offline, no backend, no key, no network"
+2026-10-18T20:56:22.025334Z,io.github.prateek7779-maker/altivo-mcp,Altivo Jets,1.0.0,https://github.com/prateek7779-maker/altivo-mcp,streamable-http,"Live private jet empty legs, charter estimates in 12 countries and quote requests."
+2026-10-18T20:58:03.067896Z,io.github.viames/numbers-native,Numbers Native,0.5.0,https://github.com/viames/numbers-native,,"Native Apple Numbers on macOS: formulas, guided charts, guarded edits and CSV. No Excel conversion."
+2026-10-18T21:01:34.971698Z,io.github.OneWave-AI/gillby,Gillby,1.0.0,https://github.com/OneWave-AI/gillby-mcp,streamable-http,"Florida marine conditions, forecasts, tides, hazards and coastal places for AI agents."
+2026-10-18T21:03:36.692963Z,com.inboxvet/email-verification,InboxVet,1.0.0,,streamable-http,"Verify emails (syntax, MX, SMTP mailbox, catch-all), test email DNS and check Spamhaus blocklists."
+2026-10-18T21:05:26.437009Z,com.futurmatch/futurmatch,Futurmatch,1.0.0,,streamable-http,"French market intelligence: companies to approach at the right time, with dated, sourced facts."
+2026-10-18T21:09:55.499053Z,io.github.Axius-SDC/sdcmodeler,,4.0.0,https://github.com/Axius-SDC/sdcmodeler,,"The modeler's client for SDCStudio: search the catalog, estimate, assemble and publish SDC4 models."
+2026-10-18T21:10:20.659188Z,io.github.blutrich/podlearn,PodLearn,1.1.0,https://github.com/blutrich/podlearn-plugin,streamable-http,"Search 4M+ podcasts & YouTube, transcribe any episode, search transcripts, generate AI lessons."
+2026-10-18T21:14:00.959224Z,com.brandmov/mcp,BrandMov,1.0.0,,streamable-http,"Track competitors' Meta ads, save swipe files and run Meta campaigns from Claude, ChatGPT or Cursor."
+2026-10-18T21:14:41.376406Z,io.github.zwldarren/akshare-one-mcp,,0.4.1,https://github.com/zwldarren/akshare-one-mcp,,MCP server that provides access to Chinese stock market data using akshare-one
+2026-10-18T21:15:33.371265Z,io.github.ecestnrkl/figjam-mcp,,0.4.0,https://github.com/ecestnrkl/figjam-mcp,,"Query FigJam board context, source-cited answers and snapshot changes through five local MCP tools."
+2026-10-18T21:18:15.691493Z,io.github.eurafaeldecarvalho/browser-scraper,Browser Scraper,0.8.1,https://github.com/eurafaeldecarvalho/browser-scraper,,"Stealth Chrome for AI agents: bot-protected sites, Turnstile, closed Shadow DOM, clean Markdown."
