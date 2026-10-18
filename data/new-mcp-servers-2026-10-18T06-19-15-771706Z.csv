@@ -1,0 +1,10 @@
+created_at,server,title,version,repository,transports,description
+2026-10-18T05:30:19.300151Z,com.tenantback/cam-audit,Tenantback CAM Audit,1.0.0,,streamable-http,Audit a landlord's CAM reconciliation against the lease. Finds overcharges with clause citations.
+2026-10-18T05:38:47.579682Z,io.github.shreyassaw5394/dea,,0.2.0,https://github.com/shreyassaw5394/dea,,"Observe any running process from your agent. strace, py-spy, perf, lsof, tcpdump as evidence."
+2026-10-18T05:44:22.247126Z,io.github.zhouhengchang/code-refactor,Code Refactor,1.0.3,https://github.com/zhouhengchang/code-refactor,,"Refactor legacy code into modern, idiomatic code without changing its behavior."
+2026-10-18T05:46:06.62399Z,app.localcmd/local-commander,Local Commander,1.0.0,,streamable-http,"Work on approved projects on your Windows computer: read files and Git, run the checks you approve."
+2026-10-18T06:03:02.515589Z,io.github.sarisen/ascope-mcp,,0.1.0,https://github.com/sarisen/ascope-mcp,,"Daily App Store keyword ranks, popularity and difficulty, from Ascope for Mac"
+2026-10-18T06:04:20.422639Z,io.github.jeeva-m-21/shopfront,Shopfront Chennai Local Commerce,2.0.0,https://github.com/jeeva-m-21/shopfront,streamable-http,"Hyperlocal commerce and verified merchant directory MCP server for Chennai, India."
+2026-10-18T06:07:11.075951Z,com.moonshotlab1/inventory,Moonshot Lab (demo),1.0.0-demo,,streamable-http,"Agent car inventory index. Synthetic demo data, not real inventory, not an offer."
+2026-10-18T06:16:13.800853Z,io.github.Nessyuhh/solana-tokenguard,TokenGuard,1.0.0,,streamable-http,"Solana token rug check before you buy: SAFE/CAUTION/DANGER from chain state, paid per call via x402."
+2026-10-18T06:16:56.85176Z,dev.glitterball/glitterball,Glitterball,1.0.0,,streamable-http,"Guided walkthroughs that play on your real prototype, with your team's feedback for your agent."

@@ -776,6 +776,7 @@
     "app.lexpad/lexpad",
     "app.liquidvision/derivatives",
     "app.listspace/listspace",
+    "app.localcmd/local-commander",
     "app.longbook/mcp",
     "app.lovable.jessica-hill-holm/leadership-coach",
     "app.lovedone/family-inbox",
@@ -3253,6 +3254,7 @@
     "com.monthendly/site",
     "com.montoyer.eujobs/eu-vacancies",
     "com.mooncatcherwire/wire",
+    "com.moonshotlab1/inventory",
     "com.moonsox/moonsox",
     "com.moovtips/moovtips",
     "com.mosadd/mosadd-mcp",
@@ -4234,6 +4236,7 @@
     "com.telesherpa/ontology-platform",
     "com.temporevenue/proposals",
     "com.tempuslog/tempuslog",
+    "com.tenantback/cam-audit",
     "com.tenetinvesting/research",
     "com.tengence/geo",
     "com.tengence/geo-agent",
@@ -4816,6 +4819,7 @@
     "dev.geeklink/subtitle",
     "dev.genhttp/lambda",
     "dev.getbureau/about",
+    "dev.glitterball/glitterball",
     "dev.goldprice/mcp",
     "dev.goodbarber/goodbarber-public-mcp",
     "dev.gpufinder/gpufinder",
@@ -6717,6 +6721,7 @@
     "io.github.Nero-Engine/us-sales-tax-nexus-full",
     "io.github.Neschadin/askell-mcp",
     "io.github.Neschadin/sendgrid-mcp",
+    "io.github.Nessyuhh/solana-tokenguard",
     "io.github.NeuralDEEPnet/agent-shelter",
     "io.github.NexaLayer/nexalayer",
     "io.github.Nibbler1250/mealdeal",
@@ -9657,6 +9662,7 @@
     "io.github.jee1/memento-mcp-server",
     "io.github.jeet-dhandha/agent-webbridge",
     "io.github.jeet0007/mac-voice-mcp",
+    "io.github.jeeva-m-21/shopfront",
     "io.github.jeff-nasseri/mikrotik-mcp",
     "io.github.jeffreyturov-dev/adaga-network",
     "io.github.jeffreyturov-dev/adaga-solutions-toolbox",
@@ -11788,6 +11794,7 @@
     "io.github.sapientsai/dokploy-mcp-server",
     "io.github.sapiom/mcp",
     "io.github.saplq/folkso",
+    "io.github.sarisen/ascope-mcp",
     "io.github.sarooo17/event-intelligence",
     "io.github.sarthakjain004/headstart",
     "io.github.sarvin-tech/callflow-ai",
@@ -11982,6 +11989,7 @@
     "io.github.shiyue1250/nuttle",
     "io.github.shplep/diskdrive",
     "io.github.shrek9999/atena",
+    "io.github.shreyassaw5394/dea",
     "io.github.shteynu/ngx-json-render-ui",
     "io.github.shuji-bonji/houki-egov-mcp",
     "io.github.shuji-bonji/houki-nta-mcp",
@@ -12930,6 +12938,7 @@
     "io.github.zhitongblog/solomd",
     "io.github.zhixuli0406/duduclaw",
     "io.github.zhlei07/inboxmcp",
+    "io.github.zhouhengchang/code-refactor",
     "io.github.zhugejun/chartone",
     "io.github.zhurong2020/pyobfus-mcp",
     "io.github.zhuyu1022/lumenhaus-energy-mcp",
@@ -14750,11 +14759,11 @@
     "za.co.getlawed/sa-law"
   ],
   "list": {
-    "count": 16,
-    "from": "2026-10-18T04:20:28.146989Z",
-    "path": "data/new-mcp-servers-2026-10-18T05-21-11-941928Z.csv",
-    "to": "2026-10-18T05:21:11.941928Z"
+    "count": 9,
+    "from": "2026-10-18T05:21:11.941928Z",
+    "path": "data/new-mcp-servers-2026-10-18T06-19-15-771706Z.csv",
+    "to": "2026-10-18T06:19:15.771706Z"
   },
   "source_truncated": false,
-  "window": "2026-10-18T05:21:11.941928Z"
+  "window": "2026-10-18T06:19:15.771706Z"
 }
