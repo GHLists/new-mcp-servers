@@ -9,41 +9,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 10:19 UTC
+## Latest list — 2026-10-18 11:21 UTC
 
-New MCP servers published between 2026-10-18 09:18 UTC and 2026-10-18 10:19 UTC.
+New MCP servers published between 2026-10-18 10:19 UTC and 2026-10-18 11:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-18T10-19-51-069637Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-18T11-21-01-112774Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-18 09:19:27 | [io.github.opendata-forge/eu-spain-public-data](https://github.com/opendata-forge/eu-spain-public-data-mcp) | EU & Spain Public Data (BOE, BORME, EU… | 1.0.0 | Search Spain's BOE/BORME gazettes, open EU funding calls and EU TED tenders. Ke… |
-| 2026-10-18 09:20:25 | ai.taasky/taasky | Taasky | 0.1.0 | Your agent settles small things with anyone, agent or browser. Nothing is agree… |
-| 2026-10-18 09:23:13 | [org.lsposed/dexsql](https://github.com/LSPosed/dexsql-release) | DexSQL | 0.1.1 | SQL for Android APK and DEX files: classes, methods, strings, references and sm… |
-| 2026-10-18 09:25:34 | io.roxskin/hyrox | RoxSkin HYROX | 1.0.0 | HYROX race calendar, race-weekend city guides, training guides and athletes to… |
-| 2026-10-18 09:25:46 | io.github.Santurce-Software-LLC/santurce-software | Santurce Software | 1.0.0 | Explore software engineering services and submit authorized project inquiries. |
-| 2026-10-18 09:26:43 | com.codemate/website | Codemate website | 1.0.0 | Read-only tools for codemate.com: search, articles, case studies, company and c… |
-| 2026-10-18 09:28:37 | [io.github.laaielichter/stashpad](https://github.com/laaielichter/stashpad) | Stashpad | 0.2.1 | Local memory for any AI agent: Markdown files with sources, a review queue and… |
-| 2026-10-18 09:29:18 | io.github.CuddlerAI/platform | Cuddler Platform | 1.0.0 | Generate video and images with prepaid USD billing and explicit per-job spendin… |
-| 2026-10-18 09:29:29 | [io.github.kopachlager/prerenderbuddy-mcp](https://github.com/kopachlager/prerenderbuddy-mcp) | Prerender Buddy | 0.3.1 | Crawler diagnostics, AI visibility evidence and article drafts for review in Pr… |
-| 2026-10-18 09:31:57 | xyz.rillora/rillora | Rillora | 0.1.0 | Read selected digital-legacy matters and check missing information. OAuth and i… |
-| 2026-10-18 09:36:24 | works.plugins/pipeline-pal | Pipeline Pal | 2.7.1 | A CRM you talk to: leads, deals and a pipeline board inside ChatGPT, Grok and o… |
-| 2026-10-18 09:38:39 | io.github.Aryan1982/xlaunch | XLaunch | 1.0.0 | Turn a website URL into a launch video with voice-over. Edit by chat, export MP… |
-| 2026-10-18 09:44:31 | [io.github.Cygnux-Labs/tracekit-mcp-gateway](https://github.com/Cygnux-Labs/Tracekit) | Tracekit MCP gateway | 1.3.0 | MCP gateway you deploy: a Tracekit signer decides and signs each call; agents s… |
-| 2026-10-18 09:45:42 | cash.gage/gage | gage | 1.0.0 | Fixed-cost loans on Robinhood Chain: quotes, and each transaction unsigned for… |
-| 2026-10-18 09:46:02 | com.devdocs10/docs | DevDocs10 | 1.0.0 | Search and read tested Swift, JavaScript, CSS and HTML docs from DevDocs10. |
-| 2026-10-18 09:47:28 | [io.github.navig-run/navig](https://github.com/navig-run/core) |  | 3.27.2 | Local operator tools over your own sessions, knowledge, files, shell and device… |
-| 2026-10-18 09:50:35 | [io.github.odb366/genready](https://github.com/odb366/genready-mcp-server) | GenReady | 1.2.1 | Scan a website for AI search and agent readiness, then get a fix checklist for… |
-| 2026-10-18 09:51:03 | io.github.diyaluo/data-report-mcp |  | 0.1.0 | Local-first CSV/XLSX analysis report MCP server (stats, Excel charts, Markdown)… |
-| 2026-10-18 09:51:16 | io.github.diyaluo/excel-toolkit-mcp |  | 0.1.0 | Excel formula generation plus CSV/XLSX cleaning MCP server, local-only. |
-| 2026-10-18 09:51:19 | io.github.diyaluo/web-extract-mcp |  | 0.1.0 | Local HTML to structured extraction MCP server (links, tables, title, body), of… |
-| 2026-10-18 09:52:44 | [io.github.rascal-3/chainanalyzer-mcp](https://github.com/rascal-3/chainanalyzer-mcp) |  | 1.5.0 | Blockchain AML for AI agents: risk scoring, sanctions, tx & bridge tracing acro… |
-| 2026-10-18 09:53:30 | [ai.deepdna/local](https://github.com/alfonsoguv/deepdna-mcp) | DeepDNA local | 0.1.1 | Reads a raw DNA file on your computer and reports the variants DeepDNA curates,… |
-| 2026-10-18 09:54:21 | com.steammaho/steammaho | SteamMaho | 0.1.0 | Steam games counted by their mechanics: earnings, launch ranges, price bands, c… |
-| 2026-10-18 10:00:50 | com.intotheprompt/into-the-prompt | Into the Prompt | 1.0.0 | Search Into the Prompt's short AI videos, get a learning path and see how the c… |
-| 2026-10-18 10:06:04 | [io.github.Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle) | Graphicle | 0.1.2 | Code graph and project memory for coding agents, cited to exact files and lines… |
-| 2026-10-18 10:11:12 | [io.github.the-reality-engineer/mythos](https://github.com/therealityengineer/mythOS) | mythOS.vision | 1.0.0 | A living memory and world-building layer for your AI: cards, worlds, personas a… |
-| 2026-10-18 10:15:13 | dev.haullabs/askhound | AskHound | 0.1.5 | Find people asking for or seeking alternatives to a product, live from Stack Ex… |
+| 2026-10-18 10:20:31 | estate.new/listings | new.estate | 1.0.0 | Search real estate listings for sale or rent in many countries, published on ne… |
+| 2026-10-18 10:25:46 | com.guest-pictures/photo-booth | Guest Pictures | 1.1.0 | Free browser photo booth with effect picker, plus info on collecting guest phot… |
+| 2026-10-18 10:26:51 | [dev.true402/mcp-server](https://github.com/true402/mcp-server) |  | 1.3.1 | Pay-per-call AI + web + on-chain tools over x402 (USDC on Base): LLM, SEO, extr… |
+| 2026-10-18 10:32:11 | [io.github.slookisen/finn-tannlege-mcp](https://github.com/slookisen/lokal) |  | 0.2.0 | Norwegian dental clinic directory MCP: 5,400+ clinics with Helfo-agreement, spe… |
+| 2026-10-18 10:32:39 | [io.github.mastalier1997/austria-property](https://github.com/mastalier1997/austria-property-mcp) | Austria Property | 0.3.0 | Austrian property costs, buy-to-let underwriting and rent-cap checks, cited to… |
+| 2026-10-18 10:32:49 | [io.github.slookisen/lokal-mcp](https://github.com/slookisen/lokal) |  | 0.4.1 | Norwegian local-food MCP: 1,500+ farms, shops, markets + umbrellas (Bondens mar… |
+| 2026-10-18 10:35:11 | io.audd/audd-billing | AudD Billing & Usage | 1.0.0 | AudD account tools: usage stats, billing, API token, plans, payment links, API… |
+| 2026-10-18 10:39:14 | [io.github.nika110/openhuddle](https://github.com/nika110/openhuddle) |  | 0.3.1 | Multiplayer mode for AI coding agents: shared team status, master prompt, tasks… |
+| 2026-10-18 10:39:55 | [io.github.CanvasKeep/canvaskeep-mcp](https://github.com/CanvasKeep/canvaskeep-mcp) | CanvasKeep | 0.6.2 | Create and edit Excalidraw diagrams in your CanvasKeep workspace, with auto-lay… |
+| 2026-10-18 10:44:43 | com.assay-systems/register | Assay Systems procurement register | 1.0.0 | Public procurement register, 50+ countries: suppliers, buyers, contracts, singl… |
+| 2026-10-18 10:51:16 | io.github.ashwaniarya/trello-mcp | Trello MCP | 0.2.0 | Trello in Claude Code in 60 seconds. No API key, no hosting. Hosted, OAuth sign… |
+| 2026-10-18 10:51:28 | ai.com.nlp/open-model-catalog | NLP.COM.AI Open Model Catalog | 1.0.0 | Search curated open-weight AI model releases, licenses, architectures, and prim… |
+| 2026-10-18 10:52:58 | [io.github.Open-Cosmic-Software/nyxmix](https://github.com/Open-Cosmic-Software/nyxmix) |  | 0.1.0 | Agent-first multitrack audio editor: edit sessions live with a human watching. |
+| 2026-10-18 10:53:10 | io.github.buckmower/calluponit | CallUpOnIt | 1.0.0 | Send or schedule texts, WhatsApp messages, emails, and calls to your verified d… |
+| 2026-10-18 10:54:24 | [coach.marian/mentoring-inquiry-builder](https://github.com/marian-kamenistak/mentoring-inquiry-builder) |  | 1.3.0 | AI mentoring fit and book: check the fit with Marian Kamenistak and book a sess… |
+| 2026-10-18 10:58:19 | com.othrum/collective | Othrum | 0.1.0 | Othrum is a private knowledge collective created by an AI agent, exclusively fo… |
+| 2026-10-18 10:59:20 | net.ts.tail9c2892.hive-web/hive | HIVE — persistent agent conversations | 1.0.0 | Free messaging for agents: shared threads, private conversations, persistent co… |
+| 2026-10-18 11:08:02 | [io.github.mordor-forge/trident-mcp](https://github.com/mordor-forge/trident-mcp) | Trident (Tripo 3D) | 0.4.0 | Unofficial MCP server for the Tripo 3D API: text/image to 3D, texturing, riggin… |
+| 2026-10-18 11:12:06 | com.pirateskills/pirateskills | Pirate Skills | 1.0.0 | Growth marketing and vibe coding: search the codices, find and join events, see… |
 
 ## Data source
 
