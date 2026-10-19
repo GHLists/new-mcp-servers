@@ -1,0 +1,35 @@
+created_at,server,title,version,repository,transports,description
+2026-10-19T21:19:13.057341Z,app.scaremap/scaremap,ScareMap,1.0.0,,streamable-http,"Find haunted houses, ghost tours and haunted places near you, with visitor ratings."
+2026-10-19T21:21:38.447833Z,io.github.56zngkrk5c-arch/penny-delivery,PENNY — Sovereign Music Delivery,1.0.0,,streamable-http,"Deliver music to PENNY streaming: DDEX ERN or direct upload. $0.01/stream, 71% to rights holders."
+2026-10-19T21:24:10.930332Z,com.quicktravelguides/edit-hotels,The Edit by Chase (Quick Travel Guides),1.0.0,,streamable-http,"Chase Sapphire Reserve's Edit hotels, dining credit restaurants and credits, with source links."
+2026-10-19T21:25:59.154446Z,io.github.thalisantunes/govbr-apis-mcp,gov.br APIs MCP,0.2.0,https://github.com/thalisantunes/govbr-apis-mcp,,"A catalog-driven gateway over Brazilian government APIs, loading OpenAPI specs on demand."
+2026-10-19T21:29:10.754781Z,io.github.Servosity/bitdefender-mcp,Bitdefender MCP,0.1.0,https://github.com/servosity/msp-skills,,"140 GravityZone API methods, plus fleet health, billing and incident views across child companies."
+2026-10-19T21:33:17.517909Z,io.github.replohq/replo,Replo,1.0.0,,streamable-http,"Research competitors and build, edit, and manage ecommerce sites from your AI assistant."
+2026-10-19T21:33:18.332218Z,ai.xfix/xfix,xfix,1.1.0,,streamable-http,Check if AI assistants and shopping agents can read a website or online store
+2026-10-19T21:33:19.122707Z,io.github.cryptojaz/createa-meme,,0.5.3,https://github.com/cryptojaz/createa-meme-mcp,,"Make memes from any MCP client: caption classic templates, AI meme images, photo remixes, search."
+2026-10-19T21:34:42.374135Z,co.roterminal/roterminal,RoTerminal,0.1.0,https://github.com/elijahmadonia/roterminal-ai,streamable-http,"Live data on every Roblox game: players now, history, rising games, trends and studios."
+2026-10-19T21:35:30.807361Z,com.einvoicegoblin/counterfoil,Counterfoil,0.45.0,,streamable-http,Read stored EU e-invoice rule notes and the invoice field map. Not a validator.
+2026-10-19T21:35:33.235491Z,com.dontdeployonfriday/golive-check,Go-Live Check,0.1.0,,streamable-http,Checks HTTP response headers you paste: 7 security checks with copy-paste fixes. No fetching.
+2026-10-19T21:35:36.718062Z,com.isitabizday/bizday,Bizday,0.3.23,,streamable-http,Cited US federal and Reserve Bank business days for agents.
+2026-10-19T21:35:39.625374Z,com.agentghostedme/toolcard,Toolcard,0.1.8,,streamable-http,"Cited checks for one MCP tool or a tools list, plus a called-or-ignored tally."
+2026-10-19T21:35:41.133458Z,com.whosthatbot/botcard,Botcard,2026-10-18.18,,streamable-http,"Cited AI crawler registry (training, search or user fetch) plus robots.txt checks. No fetching."
+2026-10-19T21:36:17.362863Z,io.github.psyb0t/monero,Monero,0.1.1,https://github.com/psyb0t/docker-monero,,"A Monero node and programmatic wallets over HTTP and MCP: node state, wallets, balances, transfers."
+2026-10-19T21:36:40.406464Z,com.adbutler/mcp-server,AdButler,2.8.0,https://github.com/adbutler/mcp-server,streamable-http; sse,"Manage AdButler campaigns, zones, ad items, VAST, and reports from Claude, ChatGPT, and Cursor."
+2026-10-19T21:38:25.800815Z,com.falconer/mcp,Falconer,0.2.28,,streamable-http,"Search, read, create, update, and organize company knowledge in Falconer."
+2026-10-19T21:39:18.56679Z,com.cuberithm.mcp/container-loading,Brimload Container Loading,1.0.2,,streamable-http,"How many identical cartons fit in a container or space, where they go, plus a 3D loading plan."
+2026-10-19T21:39:20.069227Z,com.cuberithm.mcp/rotospider-layout,RotoSpider Layout,2.0.0,,streamable-http,"Rotomolding mold-on-arm layout feasibility: which molds fit on a machine arm/spider, and how."
+2026-10-19T21:41:15.855125Z,com.screenshotscout/mcp,Screenshot Scout,0.2.0,https://github.com/screenshotscout/screenshotscout-mcp,streamable-http,Capture screenshots of webpages as images or PDFs with Screenshot Scout.
+2026-10-19T21:43:25.63125Z,com.trulyform/trulyform,trulyform,1.0.0,,streamable-http,"Build, edit and publish forms and read their responses from your AI assistant."
+2026-10-19T21:46:06.171126Z,app.mobela/mobela,Mobela,1.0.0,,streamable-http,"Your runs, walks, lifts, sleep and heart rate from Mobela, plus your AI coach's notes on you."
+2026-10-19T21:47:39.938602Z,io.github.Standard-Trade/trade-evidence,Trade Evidence,2.1.0,,streamable-http,"All 36,524 Canton Fair 2026 exhibitors: find factories, flag traders, MOQs, prices, US import rules."
+2026-10-19T21:53:15.01239Z,build.swapi/star-wars,Star Wars MCP,2.5.2,https://github.com/eldermoraes/swapi.build,streamable-http,"Star Wars API (SWAPI) as a remote MCP server: films, people, planets, species, starships, vehicles."
+2026-10-19T21:55:45.749159Z,co.corpushq.plan/corpus-plan,Corpus Plan,0.1.0,,streamable-http,Free SEO/GEO audits of public websites and AI answer-engine citation checks. No login or API key.
+2026-10-19T21:56:39.225427Z,com.redflaglease/lease-checker,RedFlagLease,1.0.0,,streamable-http,Check US leases for red flags and look up verified state tenant law with statute citations.
+2026-10-19T21:57:56.726482Z,dev.contextfetch/mcp,ContextFetch,1.0.1,https://github.com/lachy3433/contextfetch-mcp,streamable-http,"Web search and any page as LLM-ready Markdown for AI agents. Free keyless tier, no signup."
+2026-10-19T21:58:23.318109Z,com.littlesweekly/littles-weekly,Littles Weekly,1.0.0,,streamable-http,"Checked things to do with kids 0–6, city by city: this week, free days, indoor play, Santa and more"
+2026-10-19T22:01:19.073227Z,io.github.kanaiharvey-netizen/jestsprout,JestSprout,1.0.0,https://github.com/kanaiharvey-netizen/jestsprout,streamable-http,"AI meme coin concept generator: theme in, coin name, ticker, lore and logo out. Concepts only."
+2026-10-19T22:03:25.67397Z,io.github.RunTimeAdmin/nooscape-mcp,,0.1.0,https://github.com/RunTimeAdmin/nooscape-mcp,,"Read-only facts with dates about AI agents, wallets and endpoints from Nooscape's public record."
+2026-10-19T22:04:40.383443Z,io.github.CHAPIBUNNY/repolens,RepoLens,1.14.1,https://github.com/CHAPIBUNNY/repolens,,"Architecture docs from a repo: overview, modules, API surface, routes, dependency graph, diffs."
+2026-10-19T22:06:15.525202Z,io.github.CloudCorpRecords/shipcheck,,0.1.0,https://github.com/CloudCorpRecords/shipcheck,,"Release verification: git tag, release, npm, MCP Registry, and GHCR must agree, or NO-GO."
+2026-10-19T22:15:31.337877Z,ai.hypaware/hypaware,HypAware,1.43.0,https://github.com/hyparam/hypaware-plugin,streamable-http,Query your team's AI coding history and act on HypAware recommendations from any MCP client.
+2026-10-19T22:20:25.691706Z,dev.urantia/urantia-papers,Urantia Papers,1.3.0,https://github.com/urantia-hub/urantia-dev-api,streamable-http,"Read and search the Urantia Papers, with cross-references to the Bible and 21 other texts. No key."

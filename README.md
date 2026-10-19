@@ -9,37 +9,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 21:19 UTC
+## Latest list — 2026-10-19 22:22 UTC
 
-New MCP servers published between 2026-10-19 20:20 UTC and 2026-10-19 21:19 UTC.
+New MCP servers published between 2026-10-19 21:19 UTC and 2026-10-19 22:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-19T21-19-04-25916Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-19T22-22-19-481381Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-19 20:25:15 | co.civai.nova/product-admin | Product Admin by Nova (CIVAI) | 1.0.0 | I manage your Nova products, create/update/delete, payment & logistics config,… |
-| 2026-10-19 20:25:29 | [ai.agentmash/agentmash](https://github.com/RamyaChinnadurai/agentmash-mcp) | AgentMash | 0.1.0 | All your bookmarks in one library. Share them with your AI agents. Read-only se… |
-| 2026-10-19 20:28:37 | [io.github.Mvp2o-ai/cuttingfloor](https://github.com/Mvp2o-ai/cuttingfloor) | cuttingfloor | 0.19.2 | Video editing for AI agents: cuts, captions, audio, motion graphics, previews,… |
-| 2026-10-19 20:32:16 | is.how/domain-intel | how.is domain & IP intelligence | 1.1.0 | Pay-per-call DNS, WHOIS, domain age, TLS, email auth, blocklists, IP intel. Fre… |
-| 2026-10-19 20:33:09 | com.mintslips/mintslips | MintSlips | 1.0.0 | Model-priced sports picks, live in-game markets and graded results: chance, fai… |
-| 2026-10-19 20:36:26 | [io.github.wingfoil/wingfoil](https://github.com/wingfoil/wingfoil) | WingFoil | 0.3.0 | WingFoil — the repo-native intent layer for AI-native software engineering |
-| 2026-10-19 20:40:49 | com.gatherhq.www/agent-ratings | Gather Agent Ratings | 1.0.0 | Agent reviews of MCPs, APIs and apps by use case, speed, cost and reliability. |
-| 2026-10-19 20:41:33 | [io.github.IvanBBaev/servicenow-mcp-ai](https://github.com/IvanBBaev/servicenow-mcp-ai) |  | 3.0.0 | ServiceNow MCP server — 100 tools over the full REST surface, every auth method… |
-| 2026-10-19 20:49:27 | [io.github.Servosity/proxmox-mcp](https://github.com/servosity/msp-skills) | Proxmox MCP | 0.1.0 | Read-only Proxmox VE and Backup Server: which client guests have a verified, re… |
-| 2026-10-19 20:49:34 | [io.github.oliverhruby/gramps-mcp](https://github.com/oliverhruby/gramps-mcp) | Gramps MCP MCP Server | 0.2.1 | MCP server for Gramps genealogy via the Gramps Web API: CRUD, search, merge, ti… |
-| 2026-10-19 20:52:06 | com.underanchor/underanchor | Underanchor | 1.0.0 | Search your own PDF library and write LaTeX with every claim anchored to its so… |
-| 2026-10-19 20:52:35 | [io.github.sandoreclegane/inkvault](https://github.com/sandoreclegane/inkvault) |  | 0.3.4 | Local-first AI memory: search your Claude Code, Codex, Claude desktop, Pieces a… |
-| 2026-10-19 20:54:33 | com.temlavo/mcp | Temlavo | 1.0.0 | Extract accounting data from invoices, flag what needs review, and check your p… |
-| 2026-10-19 20:57:20 | [us.detritus/site-services](https://github.com/Detritus-LLC/detritus-main) | Detritus Site Services: Get a Quote | 1.0.1 | Quote US jobsite dumpsters, sanitation, storage, fencing, and utilities. |
-| 2026-10-19 21:04:43 | com.pedalbro/pedalbro | PedalBro | 1.0.0 | Guitar pedal specs, new and used prices, price history, review scores, board ch… |
-| 2026-10-19 21:06:03 | co.godmodeai/sprites | God Mode AI Sprite Generator | 1.1.0 | Generate game sprite sheets and animations from an image, and clean up sprite b… |
-| 2026-10-19 21:08:16 | com.signcustomiser/sign-customiser | Sign Customiser | 1.2.0 | Read and manage Sign Customiser stores: customisers, options, pricing, products… |
-| 2026-10-19 21:10:24 | io.github.screenrig/screenrig | screenRIG | 1.0.0 | Manage screenRIG screens, playlists, media, schedules, webhooks, and reports th… |
-| 2026-10-19 21:10:40 | com.redstonemarkets/redstone | Redstone Markets | 1.0.0 | Performance, risk, comparisons, backtests and screening for US stocks and ETFs,… |
-| 2026-10-19 21:12:18 | [io.github.sanzation/obolus](https://github.com/sanzation/obolus-finance-api) | Obolus | 1.0.4 | Read-only payroll calculations and multi-country tax comparisons for eight coun… |
-| 2026-10-19 21:12:56 | [io.github.Lynn-hh/armguard-mcp](https://github.com/Lynn-hh/armguard-mcp) | armguard-mcp | 0.1.0 | Safety-first MCP server for ROS 2 robot arms: server-side safety envelope, huma… |
-| 2026-10-19 21:14:08 | io.github.taraxe/aval | Aval | 1.0.0 | Your agent asks you before it acts. You answer with one tap on your phone. Huma… |
-| 2026-10-19 21:14:17 | io.github.taraxe/cachet | Cachet | 1.0.0 | Send real paper mail in France from your agent: letters, tracked and registered… |
+| 2026-10-19 21:19:13 | app.scaremap/scaremap | ScareMap | 1.0.0 | Find haunted houses, ghost tours and haunted places near you, with visitor rati… |
+| 2026-10-19 21:21:38 | io.github.56zngkrk5c-arch/penny-delivery | PENNY — Sovereign Music Delivery | 1.0.0 | Deliver music to PENNY streaming: DDEX ERN or direct upload. $0.01/stream, 71%… |
+| 2026-10-19 21:24:10 | com.quicktravelguides/edit-hotels | The Edit by Chase (Quick Travel Guides) | 1.0.0 | Chase Sapphire Reserve's Edit hotels, dining credit restaurants and credits, wi… |
+| 2026-10-19 21:25:59 | [io.github.thalisantunes/govbr-apis-mcp](https://github.com/thalisantunes/govbr-apis-mcp) | gov.br APIs MCP | 0.2.0 | A catalog-driven gateway over Brazilian government APIs, loading OpenAPI specs… |
+| 2026-10-19 21:29:10 | [io.github.Servosity/bitdefender-mcp](https://github.com/servosity/msp-skills) | Bitdefender MCP | 0.1.0 | 140 GravityZone API methods, plus fleet health, billing and incident views acro… |
+| 2026-10-19 21:33:17 | io.github.replohq/replo | Replo | 1.0.0 | Research competitors and build, edit, and manage ecommerce sites from your AI a… |
+| 2026-10-19 21:33:18 | ai.xfix/xfix | xfix | 1.1.0 | Check if AI assistants and shopping agents can read a website or online store |
+| 2026-10-19 21:33:19 | [io.github.cryptojaz/createa-meme](https://github.com/cryptojaz/createa-meme-mcp) |  | 0.5.3 | Make memes from any MCP client: caption classic templates, AI meme images, phot… |
+| 2026-10-19 21:34:42 | [co.roterminal/roterminal](https://github.com/elijahmadonia/roterminal-ai) | RoTerminal | 0.1.0 | Live data on every Roblox game: players now, history, rising games, trends and… |
+| 2026-10-19 21:35:30 | com.einvoicegoblin/counterfoil | Counterfoil | 0.45.0 | Read stored EU e-invoice rule notes and the invoice field map. Not a validator. |
+| 2026-10-19 21:35:33 | com.dontdeployonfriday/golive-check | Go-Live Check | 0.1.0 | Checks HTTP response headers you paste: 7 security checks with copy-paste fixes… |
+| 2026-10-19 21:35:36 | com.isitabizday/bizday | Bizday | 0.3.23 | Cited US federal and Reserve Bank business days for agents. |
+| 2026-10-19 21:35:39 | com.agentghostedme/toolcard | Toolcard | 0.1.8 | Cited checks for one MCP tool or a tools list, plus a called-or-ignored tally. |
+| 2026-10-19 21:35:41 | com.whosthatbot/botcard | Botcard | 2026-10-18.18 | Cited AI crawler registry (training, search or user fetch) plus robots.txt chec… |
+| 2026-10-19 21:36:17 | [io.github.psyb0t/monero](https://github.com/psyb0t/docker-monero) | Monero | 0.1.1 | A Monero node and programmatic wallets over HTTP and MCP: node state, wallets,… |
+| 2026-10-19 21:36:40 | [com.adbutler/mcp-server](https://github.com/adbutler/mcp-server) | AdButler | 2.8.0 | Manage AdButler campaigns, zones, ad items, VAST, and reports from Claude, Chat… |
+| 2026-10-19 21:38:25 | com.falconer/mcp | Falconer | 0.2.28 | Search, read, create, update, and organize company knowledge in Falconer. |
+| 2026-10-19 21:39:18 | com.cuberithm.mcp/container-loading | Brimload Container Loading | 1.0.2 | How many identical cartons fit in a container or space, where they go, plus a 3… |
+| 2026-10-19 21:39:20 | com.cuberithm.mcp/rotospider-layout | RotoSpider Layout | 2.0.0 | Rotomolding mold-on-arm layout feasibility: which molds fit on a machine arm/sp… |
+| 2026-10-19 21:41:15 | [com.screenshotscout/mcp](https://github.com/screenshotscout/screenshotscout-mcp) | Screenshot Scout | 0.2.0 | Capture screenshots of webpages as images or PDFs with Screenshot Scout. |
+| 2026-10-19 21:43:25 | com.trulyform/trulyform | trulyform | 1.0.0 | Build, edit and publish forms and read their responses from your AI assistant. |
+| 2026-10-19 21:46:06 | app.mobela/mobela | Mobela | 1.0.0 | Your runs, walks, lifts, sleep and heart rate from Mobela, plus your AI coach's… |
+| 2026-10-19 21:47:39 | io.github.Standard-Trade/trade-evidence | Trade Evidence | 2.1.0 | All 36,524 Canton Fair 2026 exhibitors: find factories, flag traders, MOQs, pri… |
+| 2026-10-19 21:53:15 | [build.swapi/star-wars](https://github.com/eldermoraes/swapi.build) | Star Wars MCP | 2.5.2 | Star Wars API (SWAPI) as a remote MCP server: films, people, planets, species,… |
+| 2026-10-19 21:55:45 | co.corpushq.plan/corpus-plan | Corpus Plan | 0.1.0 | Free SEO/GEO audits of public websites and AI answer-engine citation checks. No… |
+| 2026-10-19 21:56:39 | com.redflaglease/lease-checker | RedFlagLease | 1.0.0 | Check US leases for red flags and look up verified state tenant law with statut… |
+| 2026-10-19 21:57:56 | [dev.contextfetch/mcp](https://github.com/lachy3433/contextfetch-mcp) | ContextFetch | 1.0.1 | Web search and any page as LLM-ready Markdown for AI agents. Free keyless tier,… |
+| 2026-10-19 21:58:23 | com.littlesweekly/littles-weekly | Littles Weekly | 1.0.0 | Checked things to do with kids 0–6, city by city: this week, free days, indoor… |
+| 2026-10-19 22:01:19 | [io.github.kanaiharvey-netizen/jestsprout](https://github.com/kanaiharvey-netizen/jestsprout) | JestSprout | 1.0.0 | AI meme coin concept generator: theme in, coin name, ticker, lore and logo out.… |
+| 2026-10-19 22:03:25 | [io.github.RunTimeAdmin/nooscape-mcp](https://github.com/RunTimeAdmin/nooscape-mcp) |  | 0.1.0 | Read-only facts with dates about AI agents, wallets and endpoints from Nooscape… |
+| 2026-10-19 22:04:40 | [io.github.CHAPIBUNNY/repolens](https://github.com/CHAPIBUNNY/repolens) | RepoLens | 1.14.1 | Architecture docs from a repo: overview, modules, API surface, routes, dependen… |
+| 2026-10-19 22:06:15 | [io.github.CloudCorpRecords/shipcheck](https://github.com/CloudCorpRecords/shipcheck) |  | 0.1.0 | Release verification: git tag, release, npm, MCP Registry, and GHCR must agree,… |
+| 2026-10-19 22:15:31 | [ai.hypaware/hypaware](https://github.com/hyparam/hypaware-plugin) | HypAware | 1.43.0 | Query your team's AI coding history and act on HypAware recommendations from an… |
+| 2026-10-19 22:20:25 | [dev.urantia/urantia-papers](https://github.com/urantia-hub/urantia-dev-api) | Urantia Papers | 1.3.0 | Read and search the Urantia Papers, with cross-references to the Bible and 21 o… |
 
 ## Data source
 
