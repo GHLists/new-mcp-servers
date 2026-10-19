@@ -1,0 +1,32 @@
+created_at,server,title,version,repository,transports,description
+2026-10-19T19:22:32.837238Z,com.10ml/perfume-finder,10ML Perfume Finder,1.0.0,,streamable-http,"Search 10ML's perfume decant catalogue, compare notes and find similar original perfumes."
+2026-10-19T19:23:56.995244Z,com.okeystay/okeystay,OkeyStay,1.0.0,,streamable-http,"Search holiday rentals by town and dates, with total prices, and get a ready-made booking link."
+2026-10-19T19:24:09.364141Z,com.techfabric.databricks/field-guide,Databricks Field Guide,1.0.0,,streamable-http,"Search and read TechFabric's Databricks Field Guide: chapters, code examples and what changed."
+2026-10-19T19:24:18.470358Z,io.markloop/markloop,Markloop,1.0.0,,streamable-http,Your AI writes the doc. People comment. Your AI updates it.
+2026-10-19T19:24:37.969663Z,com.pagecanary/pagecanary,PageCanary,1.0.0,,streamable-http,Walks your site's signup or checkout like a customer and checks pages for broken links and errors.
+2026-10-19T19:27:16.053929Z,io.github.ateymoori/oh-my-android,Oh My Android,0.4.6,https://github.com/ateymoori/oh-my-android,,"AI agents see and drive the Android Emulator: screenshots, UI in dp, tap, dark mode, RTL, logcat."
+2026-10-19T19:37:50.761569Z,co.thisdot.docusign-navigator/mcp,Docusign Navigator,1.4.0,https://github.com/thisdot/docusign-navigator-mcp,streamable-http,Secure Docusign Navigator integration for AI assistants to access and analyze agreement data.
+2026-10-19T19:38:47.537696Z,nz.gpu/gpu-cloud,gpu.nz GPU cloud,1.0.0,https://github.com/gpunz/gpunz-mcp,streamable-http,"Rent cloud GPUs from AI agents: live prices, VRAM estimates, launch, logs and stop."
+2026-10-19T19:40:24.272346Z,ai.vidova/vidova,Vidova,1.0.0,https://github.com/youneslaaroussi/vidova-skills,streamable-http,"Agentic AI video editor: edit a real timeline, generate clips, music and voice, then render."
+2026-10-19T19:45:45.749583Z,fr.kbiz/mcp,kbiz.fr,6.2.2,,streamable-http,"Données légales et financières des entreprises françaises : fiches, recherche, dirigeants, BODACC."
+2026-10-19T19:47:07.559475Z,io.github.runbook-ai/browser-agent,,1.1.0,https://github.com/runbook-ai/runbook-ai-mcp,,MCP server for browser automation with AI agent
+2026-10-19T19:49:54.99244Z,com.mailows/mailows,Mailows,1.0.0,https://github.com/mailows/mailows-grok-plugin,streamable-http,"Give AI agents their own email inboxes: list, read and send mail via scoped, revocable OAuth grants."
+2026-10-19T19:50:45.957819Z,ai.dotpad/dotpad,Dotpad,0.1.0,,streamable-http,"Shared space for agents and humans: hubs of live pads, threads and tasks any agent can join."
+2026-10-19T19:53:31.880302Z,io.github.dovahkiin-v/mitos,Mitos,0.20.0,https://github.com/dovahkiin-v/mitos,,"Architectural decision memory for LLM-native workflows — markdown for humans, a graph for agents."
+2026-10-19T19:53:37.288952Z,de.milk-agency/ad-hoc-anfragen,Milk Agency · Ad-hoc-Anfragen (Videoschnitt),1.0.0,,streamable-http,"Kostenlose Pinnwand für Videoschnitt-Aufträge (DACH): Anfragen einstellen, finden, bewerben"
+2026-10-19T20:03:00.394398Z,com.stackthedeal/deals,StackTheDeal Deals,1.0.0,,streamable-http,"Live, verified deals from StackTheDeal — every price checked on the retailer's own page."
+2026-10-19T20:04:50.423927Z,io.github.happyc0der/garmin-connect-api,Garmin Connect,0.2.0,https://github.com/happyc0der/garmin-connect-api,,"Read and write Garmin Connect: activities, strength sets, health data, workouts and weigh-ins."
+2026-10-19T20:06:53.988901Z,ru.avgifts/gifts,AVGifts — corporate gifts with logo,1.0.0,,streamable-http,"Corporate gifts and branded merch in Russia: search, prices, stock, logo printing cost calculator."
+2026-10-19T20:06:58.56778Z,ru.av55/events,Aventura — event venues and artists,1.0.0,,streamable-http,"Event agency catalog: venues, hosts, bands, shows, stars and cases in Moscow, St Petersburg, Omsk."
+2026-10-19T20:07:02.246838Z,ru.katalog-artistov/artists,Katalog Artistov — artists for events,1.0.0,,streamable-http,"Artists for events in Russia: hosts, bands, shows, magicians: fees, cities, profiles, requests."
+2026-10-19T20:07:08.04333Z,ru.zakazat-zvezdu/stars,Zakazat Zvezdu — book pop stars,1.0.0,,streamable-http,"Book Russian pop stars for corporate events and parties: search by genre, fees, profiles, requests."
+2026-10-19T20:07:12.608645Z,ru.ploshadkin/venues,Ploshadkin — event venues in Russia,1.0.0,,streamable-http,"Event venues in Russia: restaurants, lofts, hotel halls, country clubs. Capacity, prices, requests."
+2026-10-19T20:08:51.892463Z,io.github.stramanu/esp32sim-mcp,ESP32 Simulator,0.2.5,https://github.com/stramanu/esp32sim-mcp,,"Boot and test ESP32 firmware in a local emulator: UART asserts, buttons, virtual WiFi, screenshots."
+2026-10-19T20:09:22.408455Z,com.seoasist/mcp,SEOAsist,1.1.0,,streamable-http,"SEO audits, AI fix PRs, rank tracking, blog content and AI-search visibility for your sites."
+2026-10-19T20:09:41.957361Z,ai.mador/mador,Mador,1.0.0,,streamable-http,Mador: how often AI assistants name your local business. Read-only tools for your Mador account.
+2026-10-19T20:11:52.500685Z,io.github.unblockingapi/mcp,UnblockingAPI,0.5.1,https://github.com/unblockingapi/mcp,,"Fetch bot-protected and JavaScript-heavy pages for AI agents, or parse them to JSON with templates."
+2026-10-19T20:15:30.945056Z,io.github.michalper/mcp-job-search,,0.1.0,https://github.com/michalper/mcp-job-search,,"Job search mechanics for an AI assistant: search, fetch postings, render CVs, lint, log."
+2026-10-19T20:15:47.599811Z,io.github.lucianumm/pjecalc-mcp,PJe-Calc MCP,2.16.0-mcp.12,https://github.com/lucianumm/PJeCalcMCP,,"Monta, liquida, confere e atualiza cálculos trabalhistas no PJe-Calc Cidadão (Windows)."
+2026-10-19T20:17:14.671264Z,com.proxlai/proxlai,Proxlai,1.0.0,https://github.com/itai3000/proxlai-mcp,streamable-http,"Verified, dated prices for 231 AI APIs in 38 markets: LLMs, GPUs, speech, video and more."
+2026-10-19T20:19:46.734172Z,io.github.entia-systems-core/entity-verification,ENTIA Entity Verification,4.4.1,https://github.com/ENTIA-IA/entia-mcp-server,streamable-http,"Verified business identity for AI agents: 11.3M entities, EU VAT (VIES), BORME, GLEIF. Free trial."
+2026-10-19T20:20:43.562873Z,io.github.koaque/loquela-remote,Loquela Remote,1.0.0,,streamable-http,Private English transcription with speaker labels and word timings. US beta; paid minutes required.

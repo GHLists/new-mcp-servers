@@ -9,44 +9,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 19:19 UTC
+## Latest list — 2026-10-19 20:20 UTC
 
-New MCP servers published between 2026-10-19 18:20 UTC and 2026-10-19 19:19 UTC.
+New MCP servers published between 2026-10-19 19:19 UTC and 2026-10-19 20:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-19T19-19-33-885566Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-19T20-20-53-118915Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-19 18:21:10 | ro.agregator/agregator | Agregator.ro | 1.0.0 | Romania's top news of the day, bank deposit and loan rates, and BNR exchange ra… |
-| 2026-10-19 18:21:24 | [io.github.edouard-claude/helloasso-mcp](https://github.com/edouard-claude/helloasso-mcp) | HelloAsso | 0.1.1 | HelloAsso for associations: members, tickets, donations, payments, refunds, che… |
-| 2026-10-19 18:21:31 | io.github.wballztrading1/agentready-data-tools | agentready data tools (jobs, tenders, c… | 1.0.0 | Jobs from Greenhouse/Lever/Ashby/Workday, SAM.gov and EU tenders, UK companies.… |
-| 2026-10-19 18:21:42 | [io.github.speedyapply/jobspy](https://github.com/speedyapply/JobSpy) | JobSpy | 1.4.0 | Search LinkedIn, Indeed, ZipRecruiter, Glassdoor and regional job boards |
-| 2026-10-19 18:22:30 | xyz.sotapop/verify | I, Pencil verification | 1.0.1 | Check Proof of Process chains: record, file match, timestamps, registry. Never… |
-| 2026-10-19 18:22:34 | com.techfabric/techfabric | TechFabric | 1.0.0 | Search and read techfabric.com's Databricks, AI and software pages and blog as… |
-| 2026-10-19 18:27:16 | au.com.retirementwealth/data | Retirement Wealth Data | 1.0.0 | Selected figures in Australian retirement rules, each checked against its offic… |
-| 2026-10-19 18:32:12 | io.sku/sku | SKU.io | 1.0.0 | Inventory, orders, purchasing and accounting for multi-channel e-commerce busin… |
-| 2026-10-19 18:33:13 | io.github.7jb28c9mtk-web/harbor | Harbor | 1.0.0 | Portfolio, program and project management: read your harbors, add tasks, risks… |
-| 2026-10-19 18:33:44 | [io.github.thinkerwave-ai/thinkerwave](https://github.com/thinkerwave-ai/thinkerwave) | ThinkerWave | 0.1.1 | Autonomous research agent for hard problems that labels every claim verified, a… |
-| 2026-10-19 18:33:48 | [io.github.a0971025732-netizen/finch-agents](https://github.com/a0971025732-netizen/finch-agents) | Finch Agent Marketplace | 1.0.0 | Call 14 third-party AI agents: on-chain tracing, options, US equity perps, resu… |
-| 2026-10-19 18:33:51 | com.angelscohq/aether | AETHER by ANGELS | 1.0.0 | Find the right MCP server or agent for any task, with trust earned through conf… |
-| 2026-10-19 18:38:19 | global.uain/network | United AI Network | 0.1.0 | Inspect public research tasks. Published by UAIN’s AI-operated campaign; joinin… |
-| 2026-10-19 18:39:12 | uk.co.opengrant/opengrant | OpenGrant UK grants | 2.0.0 | Search UK grant schemes and funders: deadlines, awards, eligibility and officia… |
-| 2026-10-19 18:39:20 | [com.glazecalcapp/glazecalc](https://github.com/AaronFilson/glazecalc) | Glazecalc | 1.0.0 | Ceramic glaze chemistry: unity formulas, limit checks, substitutes, cones and p… |
-| 2026-10-19 18:40:57 | io.github.KingMonkey1/cue | Cue | 0.3.6 | Score and improve AI prompts with feedback, intent-preserving rewrites and Cue… |
-| 2026-10-19 18:43:45 | ai.precip/weather | Precip | 1.0.0 | Weather history, nowcasts, forecasts, and soil data for saved locations or any… |
-| 2026-10-19 18:44:40 | app.aide/aide | Aide | 1.0.0 | AI helpdesk for support teams: search knowledge, look up orders, read and reply… |
-| 2026-10-19 18:44:51 | world.byway/mcp |  | 1.8.0 | Byway MCP: call Byway Engine and Byway Atlas, the discovery engine for the real… |
-| 2026-10-19 18:45:04 | [io.github.benbalter/markdown-to-word](https://github.com/benbalter/markdown-to-word-js) | Markdown to Word | 0.4.0 | Convert GitHub Flavored Markdown to Word (.docx) documents in Node or the brows… |
-| 2026-10-19 18:45:42 | [io.github.benbalter/word-to-markdown](https://github.com/benbalter/word-to-markdown-js) | Word to Markdown | 0.7.0 | Convert Word (.docx) documents to Markdown via CLI, Node.js, or browser |
-| 2026-10-19 18:49:10 | eu.pauhu/data | Pauhu EU Data | 1.0.0 | Free cited search, citation checks, 24-language translation, 14 EU data product… |
-| 2026-10-19 18:52:12 | [com.getfootgun/footgun](https://github.com/GetFootgun/footgun) | Footgun | 1.0.0 | Dated, verified fixes for how APIs and AI coding tools break, served to your ag… |
-| 2026-10-19 18:55:28 | uk.kcalbinmcp/kcalbin-data-products |  | 1.0.0 | US county data over MCP: displacement signals, WARN notices, death-care forecas… |
-| 2026-10-19 18:59:34 | [com.offhandapp/offhand](https://github.com/offhandapp/offhand-plugin) | Offhand | 0.1.1 | A to-do list your AI agents share: Claude, ChatGPT, Muse and Grok Bot hand each… |
-| 2026-10-19 19:03:01 | com.retokia/retokia | Retokia | 1.0.0 | AI product photos for fashion shops: remove background and mannequin, ghost man… |
-| 2026-10-19 19:06:02 | io.github.alisonc6/smitty | SmittyHQ | 1.0.0 | Family calendars, tasks, reminders, and pickup coordination for your AI assista… |
-| 2026-10-19 19:07:27 | io.metricmaven/maven | Maven | 1.0.0 | Ask questions of your marketing data and build live reports. |
-| 2026-10-19 19:10:40 | com.rizzipsum/rizzipsum | Rizz Ipsum | 0.1.0 | Lorem ipsum filler text in Gen Z, Gen Alpha and Gen X slang. |
-| 2026-10-19 19:16:41 | [io.github.rbmuller/scherlok](https://github.com/rbmuller/scherlok) | Scherlok | 1.0.5 | Zero-config data-quality monitoring: profile a warehouse, detect anomalies, gat… |
+| 2026-10-19 19:22:32 | com.10ml/perfume-finder | 10ML Perfume Finder | 1.0.0 | Search 10ML's perfume decant catalogue, compare notes and find similar original… |
+| 2026-10-19 19:23:56 | com.okeystay/okeystay | OkeyStay | 1.0.0 | Search holiday rentals by town and dates, with total prices, and get a ready-ma… |
+| 2026-10-19 19:24:09 | com.techfabric.databricks/field-guide | Databricks Field Guide | 1.0.0 | Search and read TechFabric's Databricks Field Guide: chapters, code examples an… |
+| 2026-10-19 19:24:18 | io.markloop/markloop | Markloop | 1.0.0 | Your AI writes the doc. People comment. Your AI updates it. |
+| 2026-10-19 19:24:37 | com.pagecanary/pagecanary | PageCanary | 1.0.0 | Walks your site's signup or checkout like a customer and checks pages for broke… |
+| 2026-10-19 19:27:16 | [io.github.ateymoori/oh-my-android](https://github.com/ateymoori/oh-my-android) | Oh My Android | 0.4.6 | AI agents see and drive the Android Emulator: screenshots, UI in dp, tap, dark… |
+| 2026-10-19 19:37:50 | [co.thisdot.docusign-navigator/mcp](https://github.com/thisdot/docusign-navigator-mcp) | Docusign Navigator | 1.4.0 | Secure Docusign Navigator integration for AI assistants to access and analyze a… |
+| 2026-10-19 19:38:47 | [nz.gpu/gpu-cloud](https://github.com/gpunz/gpunz-mcp) | gpu.nz GPU cloud | 1.0.0 | Rent cloud GPUs from AI agents: live prices, VRAM estimates, launch, logs and s… |
+| 2026-10-19 19:40:24 | [ai.vidova/vidova](https://github.com/youneslaaroussi/vidova-skills) | Vidova | 1.0.0 | Agentic AI video editor: edit a real timeline, generate clips, music and voice,… |
+| 2026-10-19 19:45:45 | fr.kbiz/mcp | kbiz.fr | 6.2.2 | Données légales et financières des entreprises françaises : fiches, recherche,… |
+| 2026-10-19 19:47:07 | [io.github.runbook-ai/browser-agent](https://github.com/runbook-ai/runbook-ai-mcp) |  | 1.1.0 | MCP server for browser automation with AI agent |
+| 2026-10-19 19:49:54 | [com.mailows/mailows](https://github.com/mailows/mailows-grok-plugin) | Mailows | 1.0.0 | Give AI agents their own email inboxes: list, read and send mail via scoped, re… |
+| 2026-10-19 19:50:45 | ai.dotpad/dotpad | Dotpad | 0.1.0 | Shared space for agents and humans: hubs of live pads, threads and tasks any ag… |
+| 2026-10-19 19:53:31 | [io.github.dovahkiin-v/mitos](https://github.com/dovahkiin-v/mitos) | Mitos | 0.20.0 | Architectural decision memory for LLM-native workflows — markdown for humans, a… |
+| 2026-10-19 19:53:37 | de.milk-agency/ad-hoc-anfragen | Milk Agency · Ad-hoc-Anfragen (Videosch… | 1.0.0 | Kostenlose Pinnwand für Videoschnitt-Aufträge (DACH): Anfragen einstellen, find… |
+| 2026-10-19 20:03:00 | com.stackthedeal/deals | StackTheDeal Deals | 1.0.0 | Live, verified deals from StackTheDeal — every price checked on the retailer's… |
+| 2026-10-19 20:04:50 | [io.github.happyc0der/garmin-connect-api](https://github.com/happyc0der/garmin-connect-api) | Garmin Connect | 0.2.0 | Read and write Garmin Connect: activities, strength sets, health data, workouts… |
+| 2026-10-19 20:06:53 | ru.avgifts/gifts | AVGifts — corporate gifts with logo | 1.0.0 | Corporate gifts and branded merch in Russia: search, prices, stock, logo printi… |
+| 2026-10-19 20:06:58 | ru.av55/events | Aventura — event venues and artists | 1.0.0 | Event agency catalog: venues, hosts, bands, shows, stars and cases in Moscow, S… |
+| 2026-10-19 20:07:02 | ru.katalog-artistov/artists | Katalog Artistov — artists for events | 1.0.0 | Artists for events in Russia: hosts, bands, shows, magicians: fees, cities, pro… |
+| 2026-10-19 20:07:08 | ru.zakazat-zvezdu/stars | Zakazat Zvezdu — book pop stars | 1.0.0 | Book Russian pop stars for corporate events and parties: search by genre, fees,… |
+| 2026-10-19 20:07:12 | ru.ploshadkin/venues | Ploshadkin — event venues in Russia | 1.0.0 | Event venues in Russia: restaurants, lofts, hotel halls, country clubs. Capacit… |
+| 2026-10-19 20:08:51 | [io.github.stramanu/esp32sim-mcp](https://github.com/stramanu/esp32sim-mcp) | ESP32 Simulator | 0.2.5 | Boot and test ESP32 firmware in a local emulator: UART asserts, buttons, virtua… |
+| 2026-10-19 20:09:22 | com.seoasist/mcp | SEOAsist | 1.1.0 | SEO audits, AI fix PRs, rank tracking, blog content and AI-search visibility fo… |
+| 2026-10-19 20:09:41 | ai.mador/mador | Mador | 1.0.0 | Mador: how often AI assistants name your local business. Read-only tools for yo… |
+| 2026-10-19 20:11:52 | [io.github.unblockingapi/mcp](https://github.com/unblockingapi/mcp) | UnblockingAPI | 0.5.1 | Fetch bot-protected and JavaScript-heavy pages for AI agents, or parse them to… |
+| 2026-10-19 20:15:30 | [io.github.michalper/mcp-job-search](https://github.com/michalper/mcp-job-search) |  | 0.1.0 | Job search mechanics for an AI assistant: search, fetch postings, render CVs, l… |
+| 2026-10-19 20:15:47 | [io.github.lucianumm/pjecalc-mcp](https://github.com/lucianumm/PJeCalcMCP) | PJe-Calc MCP | 2.16.0-mcp.12 | Monta, liquida, confere e atualiza cálculos trabalhistas no PJe-Calc Cidadão (W… |
+| 2026-10-19 20:17:14 | [com.proxlai/proxlai](https://github.com/itai3000/proxlai-mcp) | Proxlai | 1.0.0 | Verified, dated prices for 231 AI APIs in 38 markets: LLMs, GPUs, speech, video… |
+| 2026-10-19 20:19:46 | [io.github.entia-systems-core/entity-verification](https://github.com/ENTIA-IA/entia-mcp-server) | ENTIA Entity Verification | 4.4.1 | Verified business identity for AI agents: 11.3M entities, EU VAT (VIES), BORME,… |
+| 2026-10-19 20:20:43 | io.github.koaque/loquela-remote | Loquela Remote | 1.0.0 | Private English transcription with speaker labels and word timings. US beta; pa… |
 
 ## Data source
 
