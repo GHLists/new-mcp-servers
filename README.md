@@ -9,53 +9,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 16:21 UTC
+## Latest list — 2026-10-19 17:19 UTC
 
-New MCP servers published between 2026-10-19 15:19 UTC and 2026-10-19 16:21 UTC.
+New MCP servers published between 2026-10-19 16:21 UTC and 2026-10-19 17:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-19T16-21-11-435758Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-19T17-19-34-179948Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-19 15:23:14 | [io.github.mhajder/zabbix-mcp](https://github.com/mhajder/zabbix-mcp) | Zabbix MCP | 0.7.0 | MCP server for Zabbix monitoring and automation |
-| 2026-10-19 15:25:00 | io.github.floortomproductions-droid/agentx-x402-gateway | NEMO x402 Micro-Services | 0.4.0 | Nine pay-per-call agent services via x402 (USDC on Solana + Base). Free catalog… |
-| 2026-10-19 15:25:01 | me.sitelove/mcp-server | SiteLove — Serious Dating for Long-Term… | 2.0.0 | Semantic search of dating profiles for long-term relationships by age, city and… |
-| 2026-10-19 15:25:28 | [net.gh-o/ghost-mcp](https://github.com/ghost-networks/ghost-mcp) | Ghost Networks | 0.40.0 | Private, programmable networking for the AI age: manage networks, devices, hubs… |
-| 2026-10-19 15:27:08 | [io.github.r0dell/market-data-mcp](https://github.com/r0dell/market-data-mcp) | Market Data (x402) | 0.2.0 | Paid-per-call market data for agents: trading calendars, futures, macro, contra… |
-| 2026-10-19 15:27:15 | com.errandkit/spreadsheet-doctor | Errandkit Spreadsheet Doctor | 1.0.0 | Clean, dedupe, join and reconcile CSV/Excel files. Runs on Apify, pay per use. |
-| 2026-10-19 15:27:20 | com.errandkit/census-tract-demographics | Errandkit Census Tract & Demographics | 1.0.0 | Geocode US addresses to census tracts and add ACS demographics. Runs on Apify. |
-| 2026-10-19 15:27:25 | com.errandkit/pdf-to-markdown-tables | Errandkit PDF to Markdown, Tables & RAG… | 1.0.0 | PDF, DOCX and scans to Markdown, CSV tables and RAG chunks with OCR. Runs on Ap… |
-| 2026-10-19 15:27:40 | com.errandkit/data-tools | Errandkit Data Tools | 1.0.0 | Spreadsheet cleaning, census tract geocoding and PDF-to-Markdown tools for agen… |
-| 2026-10-19 15:30:37 | org.licitaia/licitaciones | licitaIA — Spanish public tenders | 1.0.0 | Search recent Spanish public tenders and retrieve basic details with official s… |
-| 2026-10-19 15:32:29 | [io.github.KIM-ocean-HZ/spool](https://github.com/KIM-ocean-HZ/spool) | Spool | 0.7.0 | Your local project library: hand any AI a project pack, search it, and write fi… |
-| 2026-10-19 15:32:45 | [io.github.mhajder/netbox-mcp](https://github.com/mhajder/netbox-mcp) | NetBox MCP | 0.2.0 | MCP server for NetBox DCIM/IPAM with read-only and dry-run modes |
-| 2026-10-19 15:35:17 | [io.github.mhajder/ghostfolio-mcp](https://github.com/mhajder/ghostfolio-mcp) | Ghostfolio MCP | 1.8.0 | MCP server for Ghostfolio portfolio management and financial data access |
-| 2026-10-19 15:36:58 | [ai.securenow/securenow](https://github.com/securenow-ai/securenow-npm) | SecureNow | 8.12.4 | Production security for Node.js apps: investigate live attacks, block IPs, tune… |
-| 2026-10-19 15:40:33 | com.fairverra/domains | Fairverra Domains | 1.0.0 | Register, transfer and manage domain names and DNS from your AI agent. |
-| 2026-10-19 15:43:12 | [io.github.mhajder/oxidized-mcp](https://github.com/mhajder/oxidized-mcp) | Oxidized MCP | 0.2.0 | MCP server for Oxidized network device configuration backups |
-| 2026-10-19 15:49:27 | [io.github.msingatullin/mmw](https://github.com/msingatullin/mmw-mcp) | MMW Managed Memory Workspace | 1.2.0 | One memory for AI agents in Claude Code, Cursor, Codex and ChatGPT that flags c… |
-| 2026-10-19 15:52:17 | [boo.artifacts/artifacts](https://github.com/micthiesen/artifacts.boo) | artifacts.boo | 1.0.0 | Agents publish interactive pages people comment on, approve and fill in; agents… |
-| 2026-10-19 16:00:32 | [io.github.malaysherasia-ai/google-search-console-connector](https://github.com/malaysherasia-ai/google-search-console-connector-for-claude-code) | Google Search Console Connector | 0.1.1 | Google Search Console: search analytics, CSV reports, URL inspection, sitemaps,… |
-| 2026-10-19 16:04:30 | com.puntoseguro/seguros-vida-salud | PuntoSeguro · Seguros de vida y salud | 3.9.1 | Spanish insurance broker: real life-insurance quotes from 10+ insurers, coverag… |
-| 2026-10-19 16:05:32 | com.sarmkadan/aihub | AI Startup Hub | 1.0.0 | List products in an AI-native directory and get an indexed page with a dofollow… |
-| 2026-10-19 16:06:36 | [io.github.leshchenko1979/fast-mcp-telegram](https://github.com/leshchenko1979/fast-mcp-telegram) |  | 0.45.0 | Multi-tenant Telegram gateway for AI agents — HTTP+stdio, 8 tools, MTProto User… |
-| 2026-10-19 16:07:43 | com.textforagents/patient-agent-slow-lane | The patient agent: deadline-priced work | 1.0.0 | Deadline-priced slow lane for deferrable agent work: futures, dispatch-or-credi… |
-| 2026-10-19 16:08:03 | com.wjorg/legal-mcp | 律师教你怎么做 · 法律实务 | 1.0.0 | 中国法律实务站 wjorg.com：原创法律文章检索、法规条文查询、办事指南与材料清单、赔偿标准、司法资源、法律计算器。 |
-| 2026-10-19 16:08:03 | com.frontrowtickets/frontrowtickets-mcp | FrontRowTickets.com MCP Server | 0.1.0 | Live FrontRowTickets.com ticket inventory for AI agents: search, availability,… |
-| 2026-10-19 16:12:12 | [io.github.WYRE-AI/cisco-umbrella-mcp](https://github.com/WYRE-AI/cisco-umbrella-mcp) | Cisco Umbrella | 1.0.2 | MCP server for Cisco Umbrella's deployment, admin, policy, reporting, and inves… |
-| 2026-10-19 16:14:18 | [io.github.PatriotTactical/tavern-talk](https://github.com/PatriotTactical/tavern-talk-mcp) | Tavern Talk Bot Lounge | 1.0.0 | A free social lounge where AI bots meet, start threads, share ideas, and showca… |
-| 2026-10-19 16:14:42 | [io.github.alphaparkinc/genpark-ast-diff-semantic-pr-summarizer-skill](https://github.com/alphaparkinc/genpark-ast-diff-semantic-pr-summarizer-skill) | GenPark AST Diff Semantic PR Summarizer | 1.0.1 | Synthesize semantic AST delta trees across git diffs and classify breaking sign… |
-| 2026-10-19 16:14:55 | [io.github.alphaparkinc/genpark-vector-embedding-cache-deduplication-sentinel-skill](https://github.com/alphaparkinc/genpark-vector-embedding-cache-deduplication-sentinel-skill) | GenPark Vector Embedding Cache Deduplic… | 1.0.1 | High-dimensional vector embedding semantic SimHash deduplication sentinel with… |
-| 2026-10-19 16:15:06 | [io.github.alphaparkinc/genpark-adaptive-exponential-backoff-jitter-retry-skill](https://github.com/alphaparkinc/genpark-adaptive-exponential-backoff-jitter-retry-skill) | GenPark Adaptive Exponential Backoff wi… | 1.0.1 | Full jitter exponential backoff retry scheduling and half-open circuit breaker… |
-| 2026-10-19 16:15:20 | [io.github.alphaparkinc/genpark-sql-injection-ast-taint-analyzer-skill](https://github.com/alphaparkinc/genpark-sql-injection-ast-taint-analyzer-skill) | GenPark SQL Injection AST Taint Analyzer | 1.0.1 | Dynamic SQL AST taint tracking and static vulnerability auditor detecting tauto… |
-| 2026-10-19 16:15:40 | [io.github.alphaparkinc/genpark-markdown-mermaid-syntax-lint-healer-skill](https://github.com/alphaparkinc/genpark-markdown-mermaid-syntax-lint-healer-skill) | GenPark Markdown Mermaid Syntax Lint He… | 1.0.1 | LLM output Mermaid diagram linting, unquoted bracket healing, and syntax normal… |
-| 2026-10-19 16:15:51 | eu.lustrix/mirrors | Lustrix – mirrors made to measure | 1.0.0 | Price and design made-to-measure mirrors (PL/DE/AT); order on lustrix.eu. |
-| 2026-10-19 16:17:03 | com.allthepossibles/preflight | Preflight | 1.0.0 | Scans an MCP server for security gaps before your agent connects. Free tier, no… |
-| 2026-10-19 16:17:11 | com.allthepossibles/verdict | Verdict | 1.0.0 | Design review as MCP tools: critique, states, journeys, UI copy, PRD assumption… |
-| 2026-10-19 16:17:17 | com.allthepossibles/designcheck | Design Check | 1.0.0 | Scores whether a page reads as AI-generated and names the tells to fix. |
-| 2026-10-19 16:17:18 | dev.workers.restockalarm.token-safety-mcp/token-safety | Token Safety (Base) | 1.0.0 | Base ERC-20 token safety: risk score, rug check, holders, momentum. $0.02/call… |
-| 2026-10-19 16:17:33 | [com.onkernel/kernel-mcp-server](https://github.com/kernel/kernel-mcp-server) | Kernel MCP Server | 1.1.0 | use any website on a user's behalf in a cloud browser: navigate, sign in, fill… |
-| 2026-10-19 16:17:34 | com.allthepossibles/pulse | Pulse | 1.0.0 | Core Web Vitals (LCP, INP, CLS) per URL from the Chrome UX Report, with daily c… |
+| 2026-10-19 16:21:46 | [io.github.mutonby/aikount-mcp](https://github.com/mutonby/aikount-mcp) |  | 0.2.0 | Contabilidad española con IA: facturas, gastos por OCR, conciliación bancaria e… |
+| 2026-10-19 16:22:38 | io.iqinsight/iqinsight | IQInsight – IQ Percentile & Score Guide | 1.0.0 | Calculate theoretical IQ percentiles and explain public score guides with clear… |
+| 2026-10-19 16:26:32 | com.getfairquery/agent-trust-mcp | Fairquery Agent Trust & Data Safety | 1.1.4 | PII/secret redaction, email checks, sanctions screening and OSV vulnerability l… |
+| 2026-10-19 16:27:32 | dev.getpeppr/mcp | getpeppr | 1.0.0 | Peppol e-invoicing: look up participants, validate invoices, and send sandbox t… |
+| 2026-10-19 16:27:43 | org.regentprotocol/cloud-gateway | Regent Protocol | 1.0.0 | Spending control for AI agents: approved budgets, a decision before each paymen… |
+| 2026-10-19 16:28:16 | io.bodywise/mcp | Bodywise Fitness and Nutrition | 1.0.0 | Public fitness and nutrition calculators, exercise information, and evidence-ba… |
+| 2026-10-19 16:28:29 | com.getfairquery/company-jobs-feed-mcp | Fairquery Company Jobs Feed | 1.1.3 | Live jobs from company Greenhouse, Lever and Ashby boards with age, long-open a… |
+| 2026-10-19 16:29:04 | ai.wrenda/mcp | Wrenda | 1.0.0 | Query and tune Wrenda AI-crawler proxy: analytics, citations, optimizations, ca… |
+| 2026-10-19 16:30:12 | com.allthepossibles/toolbox | Toolbox | 1.0.0 | Small tools for agent builders: AI-writing tells, tools/list token cost, CLAUDE… |
+| 2026-10-19 16:33:58 | dev.papertype/papertype-mcp | PaperType | 0.1.0 | Render Markdown, HTML or invoice/certificate/report templates to PDF files via… |
+| 2026-10-19 16:36:28 | [io.github.tneemo/pkg](https://github.com/tneemo/pkg) | pkg | 0.1.0 | Find, install and assemble reusable software builds for coding agents. |
+| 2026-10-19 16:38:50 | uk.co.theamateur/shoot-plan | Shoot Plan | 0.1.0 | Practical filming plans for AI assistants. Shot-plan checks are not yet availab… |
+| 2026-10-19 16:39:03 | [io.github.laf-rge/quickbooks-mcp](https://github.com/laf-rge/quickbooks-mcp) |  | 0.12.0 | MCP server for QuickBooks Online API integration |
+| 2026-10-19 16:40:53 | [ai.achromat/mcp-server](https://github.com/achromat-ai/achromat-mcp-server) | Achromat MOM | 0.1.1 | Recall and calibrate agent tool calls against verified policy lessons from Achr… |
+| 2026-10-19 16:42:59 | [io.github.AleBrito124356/mcp-secret-sentinel](https://github.com/AleBrito124356/mcp-secret-sentinel) | Secret Sentinel | 0.3.0 | Local secret guardrails: scan code, git changes and MCP configs for API keys; r… |
+| 2026-10-19 16:43:10 | app.papely/papely | Papely | 1.0.0 | Generate PDFs from your Papely templates: one document, a ZIP batch, or emailed… |
+| 2026-10-19 16:45:29 | io.jahresabschluss/buchhaltung | Jahresabschluss.io – Buchhaltung & Steu… | 2026.10.2 | Buchhaltung & Steuern deutscher Firmen per KI-Agent · German bookkeeping, VAT &… |
+| 2026-10-19 16:46:10 | io.github.35furkan/maiday | Maiday | 0.1.3 | Distress signal for AI agents: report where you get stuck on websites and fetch… |
+| 2026-10-19 16:46:51 | pk.myservice/hotels | MyService Hotels | 2.0.0 | AI hotel search and booking: millions of properties, 85,000+ cities, live rates. |
+| 2026-10-19 16:46:51 | com.errandkit/seo-ai-audit | Errandkit SEO & AI Search Readiness Aud… | 1.0.0 | Audit pages for SEO and AI search: scores, fixes, AI crawler access, llms.txt.… |
+| 2026-10-19 16:47:39 | com.errandkit/video-frames | Errandkit Video Frames for AI | 1.0.0 | Extract timestamped scene frames from video for AI vision, with OCR. Runs on Ap… |
+| 2026-10-19 16:50:34 | ai.orggen/orggen | OrgGen AI | 1.0.1 | Human-agent interface for projects: you prioritize and decide, your AI agents e… |
+| 2026-10-19 16:51:31 | [ai.hashgrid/sdk](https://github.com/hashgrid-labs/sdk) | Hashgrid DNA (local) | 1.0.0 | Search that learns from feedback, over text and images: embeds locally, sends D… |
+| 2026-10-19 16:52:20 | [io.github.agenticstechnologies/agentics](https://github.com/agenticstechnologies/agentics.you) | Agentics | 2.1.0 | Shared memory for AI agents, with a receipt for every write. Hosted MCP at agen… |
+| 2026-10-19 16:53:32 | net.spaininternet/spain-internet | Spain Internet | 1.1.0 | Unlimited-data eSIM, SIM card and pocket WiFi for Spain: live price for your da… |
+| 2026-10-19 16:53:45 | [io.github.makar52nn-crypto/x402-money-reactor](https://github.com/makar52nn-crypto/x402-money-reactor) | Money Reactor | 1.0.0 | Pay-per-call API for AI agents (x402, USDC on Base). Free + paid MCP tools, no… |
+| 2026-10-19 16:55:32 | io.github.brac/particlr-mcp |  | 0.2.1 | Agents author particlr .prt particle effects headlessly: validate, simulate, re… |
+| 2026-10-19 17:02:41 | ai.eroq/eroq | eroq — AI video, images, voice and music | 1.0.0 | Videos, images, voices and songs from eroq's named and uncensored engines, with… |
+| 2026-10-19 17:03:55 | [io.github.wenboteng/xrechnung-validator](https://github.com/wenboteng/xrechnung-validator) | XRechnung Validator | 0.1.0 | Validate one XRechnung or ZUGFeRD file with the free checkxrechnung.com API. |
+| 2026-10-19 17:04:01 | [io.github.xlw-pro/chinese-astrology-skill](https://github.com/xlw-pro/chinese-astrology-skill) | Ba-Zi.ai Chinese Astrology | 1.0.1 | BaZi Four Pillars charts, bone weight fortune (称骨) and Chinese almanac (黄历) by… |
+| 2026-10-19 17:05:55 | com.carrentalbrain/car-rental-brain | Car Rental Brain | 1.0.0 | True cost of car hire at 40+ airports: second driver, cover, deposits, debit ca… |
+| 2026-10-19 17:06:47 | com.ecomhint/store-audit | Ecomhint | 1.0.0 | Ecommerce store audits: read findings with evidence and fix steps, track tasks,… |
+| 2026-10-19 17:06:58 | com.getstorra/creators | Storra for Creators | 1.0.0 | Find real charity stories a creator could make content about. Read-only, no sig… |
+| 2026-10-19 17:07:03 | com.getstorra/brands | Storra for Brands | 1.0.0 | Find real charity stories a brand could fund as a campaign. Read-only, no sign-… |
+| 2026-10-19 17:11:22 | io.github.btenner84/vlada | Vlada Health | 1.1.0 | US healthcare public data, one endpoint: prices, Medicare, MA benefits, Stars,… |
+| 2026-10-19 17:11:34 | [dev.hivecommons/dibs](https://github.com/hivecommons/dibs) | Dibs (Hive Commons) | 0.1.0 | Submit ideas to hive-managed open source repos and get credited when agents shi… |
+| 2026-10-19 17:13:11 | com.appcreator24.www/android-app-builder | AppCreator24 – Android App & APK Builder | 1.0.0 | AI app builder and APK maker for Android. Create and edit apps without coding. |
+| 2026-10-19 17:19:15 | com.fidelip/fidelip | Fidelip | 2.0.0 | Set up and run a business's Fidelip loyalty cards, rewards, surveys and custome… |
+| 2026-10-19 17:19:21 | [io.github.edouard-claude/ent1-mcp](https://github.com/edouard-claude/ent1-mcp) | ENT ONE (Edifice) | 0.1.0 | ENT ONE school workspace for parents: teacher messaging, liaison book, homework… |
 
 ## Data source
 
