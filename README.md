@@ -9,39 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 01:21 UTC
+## Latest list — 2026-10-19 02:20 UTC
 
-New MCP servers published between 2026-10-19 00:19 UTC and 2026-10-19 01:21 UTC.
+New MCP servers published between 2026-10-19 01:21 UTC and 2026-10-19 02:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-19T01-21-18-206561Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-19T02-20-05-679697Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-19 00:33:13 | com.splitforms/mcp | splitforms | 0.1.0 | Form backend: create forms, get embed code, read submissions, add webhooks. OAu… |
-| 2026-10-19 00:33:43 | [io.github.conciergeprotocol/mcp](https://github.com/conciergeprotocol/js) | Concierge Agent Protocol | 0.1.3 | Ask a company through its Concierge Agent Protocol front door. |
-| 2026-10-19 00:34:31 | [io.github.catalyst-labs-dev/career-site-jobs-scraper](https://github.com/catalyst-labs-dev/catalyst-labs-mcp) | Career Site Jobs Scraper | 1.0.0 | Open jobs from company career sites (Workday, Greenhouse, Lever, Ashby +13 ATS)… |
-| 2026-10-19 00:37:26 | com.optimistfi/optimistfi | OptimistFi | 1.30.0 | Perpetual futures across 40 venues, perps prop firms and sourced theses on 6,10… |
-| 2026-10-19 00:49:45 | [io.github.sandraschi/leanforge-mcp](https://github.com/sandraschi/leanforge-mcp) |  | 0.1.1 | Lean 4 theorem prover MCP: automated proof search, mathlib integration, job man… |
-| 2026-10-19 00:57:02 | com.launch529/open-data | Launch529: 529 plans and college costs | 1.0.0 | Compare state 529 plans, look up college costs and check qualified 529 expenses… |
-| 2026-10-19 00:57:22 | io.github.AutonomousBusinessUnits/sigil | Sigil | 1.0.0 | Brand reviews from a public website and an optional product document. |
-| 2026-10-19 00:57:23 | io.github.AutonomousBusinessUnits/baron | Baron | 1.0.0 | Explore AI business ideas and prepare a business brief for review in Baron. |
-| 2026-10-19 00:57:25 | io.github.AutonomousBusinessUnits/autoprint | AutoPrint | 1.0.0 | Print existing artwork on custom wall art, apparel, and gifts. |
-| 2026-10-19 00:57:26 | io.github.AutonomousBusinessUnits/imagekind | Image Kind | 1.0.0 | Find artist-credited art prints and canvas, made to order by Image Kind’s studi… |
-| 2026-10-19 00:57:27 | io.github.AutonomousBusinessUnits/auto-message | AutoMessage | 1.0.0 | Find a texting assistant for your goals in AutoMessage's public catalog. |
-| 2026-10-19 00:58:22 | [com.zeroparadesdb/mcp](https://github.com/game-databases/zeroparadesdb-mcp) | Zero Parades database | 0.1.1 | ZERO PARADES skills, thoughts, items, characters, places, checks, dialogue and… |
-| 2026-10-19 01:00:43 | [io.github.ilpr/waitlister](https://github.com/ilpr/waitlister-mcp) |  | 1.5.0 | Create waitlists, landing pages, manage subscribers, referrals, and view stats… |
-| 2026-10-19 01:02:42 | [io.github.svenkatreddy/ramayana-mcp](https://github.com/svenkatreddy/ramayana-mcp) | Ramayana Book MCP Server | 0.1.0 | Valmiki Ramayana verses: lookup, search and verse-of-the-day in 4 languages |
-| 2026-10-19 01:04:30 | io.github.akhilrajesh213/yahoo-finance | Yahoo Finance (stocks, options, financi… | 0.3.5 | Yahoo Finance for AI agents: quotes, price history, options with Greeks, financ… |
-| 2026-10-19 01:05:17 | ar.energetica/data | Energetica — Argentine Oil & Gas Data | 2.0.0 | Argentine oil & gas data — 40+ curated tables: production, wells, prices, inves… |
-| 2026-10-19 01:05:31 | app.steadyfeed/steadyfeed | SteadyFeed | 1.0.0 | Tell your agent what to post about; SteadyFeed writes, designs and posts on Ins… |
-| 2026-10-19 01:06:30 | com.commonrig/commonrig | CommonRig | 0.1.0 | Agent operating kit for Claude Code and Codex: rules, hooks, work ledger, proto… |
-| 2026-10-19 01:07:55 | com.auto-units/sigil | Sigil | 1.0.0 | Brand reviews from a public website and an optional product document. |
-| 2026-10-19 01:08:00 | com.auto-units/baron | Baron | 1.0.0 | Explore AI business ideas and prepare a business brief for review in Baron. |
-| 2026-10-19 01:08:03 | com.auto-units/autoprint | AutoPrint | 1.0.0 | Print existing artwork on custom wall art, apparel, and gifts. |
-| 2026-10-19 01:08:07 | com.auto-units/imagekind | Image Kind | 1.0.0 | Find artist-credited art prints and canvas, made to order by Image Kind’s studi… |
-| 2026-10-19 01:08:10 | com.auto-units/auto-message | AutoMessage | 1.0.0 | Find a texting assistant for your goals in AutoMessage's public catalog. |
-| 2026-10-19 01:08:55 | com.auto-units/findable | Findable | 1.0.0 | Public website audits and sourced SEO/AEO content drafts, ready for your review. |
-| 2026-10-19 01:12:42 | do.clerk/clerk | Clerk | 1.0.0 | Jurisprudencia, legislación y doctrina de la República Dominicana, citadas con… |
+| 2026-10-19 01:28:27 | [com.wingmanprotocol.agent/gateway](https://github.com/RIPRODUCTIONS/wingman-agent-gateway) |  | 1.7.0 | Durable self for AI agents: one-call resume, memory, a real browser, research,… |
+| 2026-10-19 01:30:04 | [io.github.alphaparkinc/genpark-conversational-barge-in-interruption-arbitrator-skill](https://github.com/alphaparkinc/genpark-conversational-barge-in-interruption-arbitrator-skill) | GenPark Conversational Barge-In Interru… | 1.0.1 | Arbitrate conversational interruptions with echo rules and playback truncation… |
+| 2026-10-19 01:31:27 | [io.github.alphaparkinc/genpark-realtime-voice-agent-latency-telemetry-skill](https://github.com/alphaparkinc/genpark-realtime-voice-agent-latency-telemetry-skill) | GenPark Realtime Voice Agent Latency Te… | 1.0.1 | Voice pipeline timestamp telemetry profiler and percentile latency calculator |
+| 2026-10-19 01:31:32 | [io.github.alphaparkinc/genpark-hybrid-bounding-box-ocr-table-reconstructor-skill](https://github.com/alphaparkinc/genpark-hybrid-bounding-box-ocr-table-reconstructor-skill) | GenPark Hybrid Bounding Box OCR Table R… | 1.0.1 | Spatial clustering 2D grid reconstructor converting OCR boxes into Markdown tab… |
+| 2026-10-19 01:32:07 | [io.github.alphaparkinc/genpark-voice-turn-taking-endpoint-detector-skill](https://github.com/alphaparkinc/genpark-voice-turn-taking-endpoint-detector-skill) | GenPark Voice Turn-Taking Endpoint Dete… | 1.0.1 | VAD energy and transcript heuristics for voice turn endpoint detection |
+| 2026-10-19 01:32:20 | [io.github.alphaparkinc/genpark-audio-packet-jitter-resilience-buffer-skill](https://github.com/alphaparkinc/genpark-audio-packet-jitter-resilience-buffer-skill) | GenPark Audio Packet Jitter Resilience… | 1.0.1 | Adaptive WebRTC jitter buffer simulation and inter-arrival jitter telemetry |
+| 2026-10-19 01:32:27 | [io.github.alphaparkinc/genpark-multimodal-chart-data-point-extractor-skill](https://github.com/alphaparkinc/genpark-multimodal-chart-data-point-extractor-skill) | GenPark Multimodal Chart Data Point Ext… | 1.0.1 | Calibrate chart axes and convert bar or scatter pixel coordinates to data values |
+| 2026-10-19 01:32:33 | [io.github.alphaparkinc/genpark-complex-financial-formula-audit-validator-skill](https://github.com/alphaparkinc/genpark-complex-financial-formula-audit-validator-skill) | GenPark Complex Financial Formula Audit… | 1.0.1 | Arithmetic consistency checks and cross-footing validation for financial statem… |
+| 2026-10-19 01:32:41 | [io.github.alphaparkinc/genpark-legal-clause-cross-reference-resolver-skill](https://github.com/alphaparkinc/genpark-legal-clause-cross-reference-resolver-skill) | GenPark Legal Clause Cross-Reference Re… | 1.0.1 | Extract contract defined terms, references, and audit clause dependency cycles |
+| 2026-10-19 01:34:52 | [io.vpndetection/mcp](https://github.com/vpndetection-io/mcp) | VPNDetection | 6.1.2 | VPN, proxy, Tor, hosting and CDN detection for any IP address, from the VPNDete… |
+| 2026-10-19 01:35:17 | com.holstonai/holston-ai | Holston AI | 1.2.0 | AI visibility audits, instant quotes, build ROI and database schemas from Holst… |
+| 2026-10-19 01:37:33 | [io.github.Codegres-com/bhasini](https://github.com/Codegres-com/Bhasini) | Bhasini Indic Languages | 0.1.0 | Indic MCP: transliterate into all 22 Indian languages, convert scripts, keymaps… |
+| 2026-10-19 01:37:38 | app.ulapcybo/attest | CYBO Attest | 1.0.0 | Scan, fix and justify your application code on the way to an Authority to Opera… |
+| 2026-10-19 01:40:17 | [io.github.Toraastrta/sphior-ai-governance-mcp](https://github.com/Toraastrta/sphior-code) |  | 0.2.0 | Record what your AI did as tamper-evident evidence for ISO 42001, EU AI Act and… |
+| 2026-10-19 01:55:04 | io.github.lgs1520/call402 | call402 — x402 Agent Services | 1.0.0 | x402 pay-per-call APIs for agents: web search, wallet/token checks, text struct… |
+| 2026-10-19 01:57:13 | io.github.kirupa/kirupa | KIRUPA Tutorials & Web Development Refe… | 1.0.0 | Search and read 420+ web development, JavaScript, CSS, canvas, and DSA tutorial… |
+| 2026-10-19 02:00:39 | [io.github.Fermion-company/mathpoint](https://github.com/Fermion-company/mathpoint-plugin) | MathPoint | 1.0.0 | TeX math, TikZ figures, and tables in the PowerPoint or Word file you have open… |
+| 2026-10-19 02:14:28 | [io.github.atushi1841/japan-car-market-mcp](https://github.com/atushi1841/goo-net-car-scraper) |  | 1.0.0 | Japan used car prices from goo-net.com via Apify + Gumroad |
+| 2026-10-19 02:14:37 | [io.github.atushi1841/japan-rent-market-mcp](https://github.com/atushi1841/japan-rent-market-scraper) |  | 1.0.0 | Japan rental prices SUUMO/at_home/LIFULL cross-shop via Apify |
+| 2026-10-19 02:14:46 | [io.github.atushi1841/japan-motorcycle-market-mcp](https://github.com/atushi1841/goobike-motorcycle-scraper) |  | 1.0.0 | Japan used motorcycle listings from goobike.com via Apify |
+| 2026-10-19 02:14:55 | [io.github.atushi1841/japan-offmall-market-mcp](https://github.com/atushi1841/japan-offmall-market-scraper) |  | 1.0.0 | Japan used goods from OffMall (Hard Off) via Apify + Gumroad |
+| 2026-10-19 02:15:43 | [io.github.atushi1841/japan-watch-market-mcp](https://github.com/atushi1841/japan-watch-market-scraper) |  | 1.0.0 | Japan luxury watch prices Jackroad/Kitamura cross-shop |
+| 2026-10-19 02:19:01 | com.newvsts/newvsts | NewVSTs | 1.0.0 | New audio plugin releases and intro deals: live prices, deal end dates, format/… |
 
 ## Data source
 
