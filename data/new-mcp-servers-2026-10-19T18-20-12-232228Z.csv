@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-10-19T17:22:35.003791Z,com.cookieinspector/cookieinspector,CookieInspector,1.0.0,,streamable-http,"Check what a site's cookie banner really blocks: CMP, trackers, cookies before consent."
+2026-10-19T17:23:07.930491Z,net.groovesheet/mcp,GrooveSheet,2.0.0,,streamable-http,"Find AI-transcribed sheet music, MIDI and stems for songs, and transcribe your own via upload links."
+2026-10-19T17:26:13.882743Z,io.github.aileron-sh/aileron,Aileron Journal,0.1.6,https://github.com/aileron-sh/aileron,,"Read-only queries over Aileron audit journals: verify integrity, search recorded tool calls"
+2026-10-19T17:32:31.119718Z,io.github.JoblessJoe/localize,,0.1.6,https://github.com/JoblessJoe/localize,,"Local LLM does Claude's bulk work: reads logs and files, researches the web, writes test-gated code."
+2026-10-19T17:35:42.922445Z,com.aiguanchao/news,AI观潮 News,2.0.0,,streamable-http,"Curated daily AI news (summaries in Chinese), daily briefs, trending stories and an LLM leaderboard."
+2026-10-19T17:39:09.4311Z,io.pathrule/pathrule,Pathrule,1.0.6,https://github.com/pathrule/pathrule,streamable-http,"Path-scoped project memories, rules and skills for coding agents, on your machine or Pathrule Cloud."
+2026-10-19T17:39:28.744195Z,io.github.plant-lab/plantlab,AI plant health diagnosis,0.1.0,,streamable-http,Plant health diagnosis for tomato and cannabis images using the PlantLab API.
+2026-10-19T17:39:51.317876Z,io.github.hughhan1/mysql,,0.1.0,https://github.com/hughhan1/mysql,,MySQL statements and transactions over MCP
+2026-10-19T17:40:51.796122Z,com.open-and-async/mcp,Open & Async,1.0.3,https://github.com/open-and-async/mcp,,"Draft decision docs, turn meetings into async artifacts, and triage sync vs async in your editor."
+2026-10-19T17:52:35.565306Z,io.github.kisasa/shopify-mcp,Shopify,1.0.0,https://github.com/kisasa/shopify-mcp,,"Shopify Admin API tools: products, media, orders, customers, inventory, and sales channels"
+2026-10-19T17:53:28.927106Z,com.aipromodesign/apparel-designer,AI Promo Design,1.0.0,,streamable-http,"Design custom t-shirts, hoodies, caps, mugs and totes, price an order, and link to order it."
+2026-10-19T17:56:15.426496Z,ru.lastbilet/flights,LastBilet — flight search,1.0.0,,streamable-http,"Live flight search for Russia: baggage, layovers, refunds, booking links, prices, visas, weather."
+2026-10-19T17:57:23.859987Z,io.github.niraseang/ai-third-space,AI Third Space,0.2.0,,streamable-http,"A persistent city for AI agents: talk, play Nomic and Saboteur, leave marks. Always open."
+2026-10-19T18:01:05.021129Z,net.verified/verified,Verified.net,1.0.0,,streamable-http,"Verify emails, validate phone numbers, look up carriers and score IP addresses."
+2026-10-19T18:01:06.330303Z,dev.safeweave/safeweave,SafeWeave,0.7.4,https://github.com/nickfluxk/safeweave,streamable-http,"Security scanner for AI-written code: SAST, secrets, dependencies, IaC, containers and DAST."
+2026-10-19T18:02:49.552165Z,bot.match/matchbot,match.bot,1.0.0,,streamable-http,"Free meeting place for AI agents: register, find agents, like, accept intros. Check whats_waiting."
+2026-10-19T18:03:59.576079Z,io.github.wenboteng/sepa-validator,SepaCheck Validator,0.1.0,https://github.com/wenboteng/sepa-validator,,Validate one SEPA XML file with the free checksepa.com API.
+2026-10-19T18:04:16.023045Z,io.github.AndrewVG23/cufftracker,CuffTracker,1.0.0,https://github.com/AndrewVG23/VG,streamable-http,"Chicago and Milwaukee crime data: query incidents, stats, and map-linked MCP UI resources."
+2026-10-19T18:07:32.444928Z,my.harbor/harbor,Harbor Notes,1.0.67,,streamable-http,"Search, read, write and organize your notes and tasks in Harbor, an Evernote-compatible notes app."
+2026-10-19T18:08:11.367222Z,io.github.AndrewVG23/library,Moral Theology Library,1.0.1,https://github.com/AndrewVG23/rag_mcp,streamable-http,Search Grisez and Finnis. Bearer token required.
+2026-10-19T18:18:21.156352Z,ai.worklayer/worklayer,Worklayer,1.0.0,,streamable-http,"HR in Worklayer: people, time off, tasks, approvals, expenses and analytics, with your permissions."
+2026-10-19T18:18:44.558979Z,ai.tensorfeed/mcp-server,TensorFeed,2.0.4,https://github.com/RipperMercs/tensorfeed-mcp,streamable-http,"AI news, model pricing, service status, and machine-payable premium tools. AFTA-certified."
+2026-10-19T18:19:51.600115Z,io.github.AndrewVG23/safe-bite,Safe Bite,1.0.1,https://github.com/AndrewVG23/VG,streamable-http,"Restaurant inspection data for Chicago, NYC, Minneapolis, and Milwaukee."
