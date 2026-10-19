@@ -9,37 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 02:20 UTC
+## Latest list — 2026-10-19 03:22 UTC
 
-New MCP servers published between 2026-10-19 01:21 UTC and 2026-10-19 02:20 UTC.
+New MCP servers published between 2026-10-19 02:20 UTC and 2026-10-19 03:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-19T02-20-05-679697Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-19T03-22-21-356635Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-19 01:28:27 | [com.wingmanprotocol.agent/gateway](https://github.com/RIPRODUCTIONS/wingman-agent-gateway) |  | 1.7.0 | Durable self for AI agents: one-call resume, memory, a real browser, research,… |
-| 2026-10-19 01:30:04 | [io.github.alphaparkinc/genpark-conversational-barge-in-interruption-arbitrator-skill](https://github.com/alphaparkinc/genpark-conversational-barge-in-interruption-arbitrator-skill) | GenPark Conversational Barge-In Interru… | 1.0.1 | Arbitrate conversational interruptions with echo rules and playback truncation… |
-| 2026-10-19 01:31:27 | [io.github.alphaparkinc/genpark-realtime-voice-agent-latency-telemetry-skill](https://github.com/alphaparkinc/genpark-realtime-voice-agent-latency-telemetry-skill) | GenPark Realtime Voice Agent Latency Te… | 1.0.1 | Voice pipeline timestamp telemetry profiler and percentile latency calculator |
-| 2026-10-19 01:31:32 | [io.github.alphaparkinc/genpark-hybrid-bounding-box-ocr-table-reconstructor-skill](https://github.com/alphaparkinc/genpark-hybrid-bounding-box-ocr-table-reconstructor-skill) | GenPark Hybrid Bounding Box OCR Table R… | 1.0.1 | Spatial clustering 2D grid reconstructor converting OCR boxes into Markdown tab… |
-| 2026-10-19 01:32:07 | [io.github.alphaparkinc/genpark-voice-turn-taking-endpoint-detector-skill](https://github.com/alphaparkinc/genpark-voice-turn-taking-endpoint-detector-skill) | GenPark Voice Turn-Taking Endpoint Dete… | 1.0.1 | VAD energy and transcript heuristics for voice turn endpoint detection |
-| 2026-10-19 01:32:20 | [io.github.alphaparkinc/genpark-audio-packet-jitter-resilience-buffer-skill](https://github.com/alphaparkinc/genpark-audio-packet-jitter-resilience-buffer-skill) | GenPark Audio Packet Jitter Resilience… | 1.0.1 | Adaptive WebRTC jitter buffer simulation and inter-arrival jitter telemetry |
-| 2026-10-19 01:32:27 | [io.github.alphaparkinc/genpark-multimodal-chart-data-point-extractor-skill](https://github.com/alphaparkinc/genpark-multimodal-chart-data-point-extractor-skill) | GenPark Multimodal Chart Data Point Ext… | 1.0.1 | Calibrate chart axes and convert bar or scatter pixel coordinates to data values |
-| 2026-10-19 01:32:33 | [io.github.alphaparkinc/genpark-complex-financial-formula-audit-validator-skill](https://github.com/alphaparkinc/genpark-complex-financial-formula-audit-validator-skill) | GenPark Complex Financial Formula Audit… | 1.0.1 | Arithmetic consistency checks and cross-footing validation for financial statem… |
-| 2026-10-19 01:32:41 | [io.github.alphaparkinc/genpark-legal-clause-cross-reference-resolver-skill](https://github.com/alphaparkinc/genpark-legal-clause-cross-reference-resolver-skill) | GenPark Legal Clause Cross-Reference Re… | 1.0.1 | Extract contract defined terms, references, and audit clause dependency cycles |
-| 2026-10-19 01:34:52 | [io.vpndetection/mcp](https://github.com/vpndetection-io/mcp) | VPNDetection | 6.1.2 | VPN, proxy, Tor, hosting and CDN detection for any IP address, from the VPNDete… |
-| 2026-10-19 01:35:17 | com.holstonai/holston-ai | Holston AI | 1.2.0 | AI visibility audits, instant quotes, build ROI and database schemas from Holst… |
-| 2026-10-19 01:37:33 | [io.github.Codegres-com/bhasini](https://github.com/Codegres-com/Bhasini) | Bhasini Indic Languages | 0.1.0 | Indic MCP: transliterate into all 22 Indian languages, convert scripts, keymaps… |
-| 2026-10-19 01:37:38 | app.ulapcybo/attest | CYBO Attest | 1.0.0 | Scan, fix and justify your application code on the way to an Authority to Opera… |
-| 2026-10-19 01:40:17 | [io.github.Toraastrta/sphior-ai-governance-mcp](https://github.com/Toraastrta/sphior-code) |  | 0.2.0 | Record what your AI did as tamper-evident evidence for ISO 42001, EU AI Act and… |
-| 2026-10-19 01:55:04 | io.github.lgs1520/call402 | call402 — x402 Agent Services | 1.0.0 | x402 pay-per-call APIs for agents: web search, wallet/token checks, text struct… |
-| 2026-10-19 01:57:13 | io.github.kirupa/kirupa | KIRUPA Tutorials & Web Development Refe… | 1.0.0 | Search and read 420+ web development, JavaScript, CSS, canvas, and DSA tutorial… |
-| 2026-10-19 02:00:39 | [io.github.Fermion-company/mathpoint](https://github.com/Fermion-company/mathpoint-plugin) | MathPoint | 1.0.0 | TeX math, TikZ figures, and tables in the PowerPoint or Word file you have open… |
-| 2026-10-19 02:14:28 | [io.github.atushi1841/japan-car-market-mcp](https://github.com/atushi1841/goo-net-car-scraper) |  | 1.0.0 | Japan used car prices from goo-net.com via Apify + Gumroad |
-| 2026-10-19 02:14:37 | [io.github.atushi1841/japan-rent-market-mcp](https://github.com/atushi1841/japan-rent-market-scraper) |  | 1.0.0 | Japan rental prices SUUMO/at_home/LIFULL cross-shop via Apify |
-| 2026-10-19 02:14:46 | [io.github.atushi1841/japan-motorcycle-market-mcp](https://github.com/atushi1841/goobike-motorcycle-scraper) |  | 1.0.0 | Japan used motorcycle listings from goobike.com via Apify |
-| 2026-10-19 02:14:55 | [io.github.atushi1841/japan-offmall-market-mcp](https://github.com/atushi1841/japan-offmall-market-scraper) |  | 1.0.0 | Japan used goods from OffMall (Hard Off) via Apify + Gumroad |
-| 2026-10-19 02:15:43 | [io.github.atushi1841/japan-watch-market-mcp](https://github.com/atushi1841/japan-watch-market-scraper) |  | 1.0.0 | Japan luxury watch prices Jackroad/Kitamura cross-shop |
-| 2026-10-19 02:19:01 | com.newvsts/newvsts | NewVSTs | 1.0.0 | New audio plugin releases and intro deals: live prices, deal end dates, format/… |
+| 2026-10-19 02:25:27 | com.goodbyematrix/residency-index | GoodbyeMatrix Residency & Citizenship I… | 1.0.0 | Residency programmes, golden visas, second passports and citizenship by investm… |
+| 2026-10-19 02:36:59 | [io.github.princearies/myworker](https://github.com/princearies/myworker-mcp) | Myworker — 20 paid crypto & AI micro-AP… | 1.0.0 | 20 paid micro-APIs: token price, DeFi APY, FX rates, web scraping. Pay USDC per… |
+| 2026-10-19 02:37:49 | me.ntfyx/ntfyx | Ntfyx | 0.1.6 | Encrypted task notifications and phone replies for agents. Pair with the Ntfyx… |
+| 2026-10-19 02:41:07 | pro.labrica/labrica | LABRICA | 1.0.0 | Post to VK, Telegram, MAX, OK, Threads and X: brand voice, channel rules, conte… |
+| 2026-10-19 02:49:03 | [io.github.racstan/progressor-mcp](https://github.com/racstan/progressor-mcp) | Progressor | 0.2.1 | Keeps an AI coding agent on its plan across context compression, with a live lo… |
+| 2026-10-19 02:54:22 | [com.haoyoubox/publish](https://github.com/cheng-big/haoyoubox-agent-skill) | HaoyouBox Publish | 1.0.0 | Publish local HTML or Markdown as expiring password-protected HaoyouBox links. |
+| 2026-10-19 02:55:15 | [ai.arvx/arvx](https://github.com/centricai/arvx-mcp) | ARVX | 1.0.0 | Email for long-term client relationships: ARVX reads each person first and reme… |
+| 2026-10-19 02:55:57 | ai.productindex/productindex | ProductIndex | 1.0.0 | Product research for AI agents: review-synthesized verdicts, specs, prices and… |
+| 2026-10-19 02:58:32 | com.sourcemedium/source-medium | SourceMedium | 2.0.1 | Query your SourceMedium commerce warehouse, Shopify stores, and ad accounts. |
+| 2026-10-19 02:58:56 | [io.github.JaniJegoroff/agent-connectors-mcp](https://github.com/JaniJegoroff/agent-connectors-mcp) | Agent Connectors | 0.1.0 | Read-only search of the Agent Connectors MCP directory. |
+| 2026-10-19 03:05:04 | ai.greyridgesignals/tech-risk |  | 0.1.0 | x402 MCP: Base RPC, crypto/DeFi/Polymarket data + MCP security scans, pay-per-c… |
+| 2026-10-19 03:05:39 | io.github.leesalminen/wellfred | WellFred — Services in Costa Rica | 1.0.0 | Find Costa Rica services, providers, classes and events; check availability and… |
+| 2026-10-19 03:09:18 | social.spoofy/mcp | Spoofy | 1.1.0 | Quote and order followers, views, likes and members for any public link, with s… |
+| 2026-10-19 03:10:21 | [io.github.Ratiborro/vek-data](https://github.com/Ratiborro/vek-data) | vek-data | 1.0.0 | Base/Ethereum blocks and balances, crypto news RSS, CoinGecko prices. |
+| 2026-10-19 03:15:37 | io.xportl/xportl | XportL | 1.0.0 | GPU fabric tools: NCCL benchmark analysis, degradation cost, cluster compatibil… |
+| 2026-10-19 03:16:33 | com.itsmyship/agent-tools | itsmyship Agent Tools | 1.0.0 | NZ working-day deadlines with the law section cited, plus IRD, NZ bank and ABN… |
+| 2026-10-19 03:17:01 | com.marrowhealthapp/apple-health | Marrow Health: Apple Health for your AI | 1.0.0 | Your Apple Health data, food diary and lifts, for ChatGPT, Claude and Gemini. A… |
+| 2026-10-19 03:17:56 | [io.github.Buer2333/tiktok-gmvmax-mcp](https://github.com/Buer2333/tiktok-ads-mcp) | TikTok GMV Max | 0.2.0 | Read-only TikTok Business API: GMV Max campaigns and reports, ads, BC balances. |
+| 2026-10-19 03:17:57 | [io.github.Buer2333/tiktok-shop-mcp](https://github.com/Buer2333/tiktok-shop-mcp) | TikTok Shop | 0.3.0 | Read-only TikTok Shop Partner API: orders, finance, products and analytics acro… |
+| 2026-10-19 03:19:26 | [com.oneuptime/mcp](https://github.com/OneUptime/oneuptime) | OneUptime | 14.0.73 | Manage incidents, alerts, monitors, status pages, on-call and telemetry in OneU… |
+| 2026-10-19 03:20:38 | [io.github.catalyst-labs-dev/youtube-transcript-api](https://github.com/catalyst-labs-dev/catalyst-labs-mcp) | YouTube Transcript API | 1.0.0 | Transcripts + metadata from YouTube videos, Shorts, channels, playlists and sea… |
+| 2026-10-19 03:20:41 | [io.github.catalyst-labs-dev/website-screenshot-pdf-api](https://github.com/catalyst-labs-dev/catalyst-labs-mcp) | Website Screenshot & PDF API | 1.0.0 | Full-page screenshots (PNG/JPEG/WebP) and PDFs of any URL, with cookie banners… |
 
 ## Data source
 

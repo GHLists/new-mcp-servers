@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-10-19T02:25:27.112012Z,com.goodbyematrix/residency-index,GoodbyeMatrix Residency & Citizenship Index,1.0.0,,streamable-http,"Residency programmes, golden visas, second passports and citizenship by investment in 80+ countries"
+2026-10-19T02:36:59.599934Z,io.github.princearies/myworker,Myworker — 20 paid crypto & AI micro-APIs (x402),1.0.0,https://github.com/princearies/myworker-mcp,streamable-http,"20 paid micro-APIs: token price, DeFi APY, FX rates, web scraping. Pay USDC per call."
+2026-10-19T02:37:49.76012Z,me.ntfyx/ntfyx,Ntfyx,0.1.6,,,Encrypted task notifications and phone replies for agents. Pair with the Ntfyx phone app first.
+2026-10-19T02:41:07.403812Z,pro.labrica/labrica,LABRICA,1.0.0,,streamable-http,"Post to VK, Telegram, MAX, OK, Threads and X: brand voice, channel rules, content plan, analytics."
+2026-10-19T02:49:03.063194Z,io.github.racstan/progressor-mcp,Progressor,0.2.1,https://github.com/racstan/progressor-mcp,,"Keeps an AI coding agent on its plan across context compression, with a live local dashboard."
+2026-10-19T02:54:22.119477Z,com.haoyoubox/publish,HaoyouBox Publish,1.0.0,https://github.com/cheng-big/haoyoubox-agent-skill,,Publish local HTML or Markdown as expiring password-protected HaoyouBox links.
+2026-10-19T02:55:15.554192Z,ai.arvx/arvx,ARVX,1.0.0,https://github.com/centricai/arvx-mcp,streamable-http,Email for long-term client relationships: ARVX reads each person first and remembers every pair.
+2026-10-19T02:55:57.708385Z,ai.productindex/productindex,ProductIndex,1.0.0,,streamable-http,"Product research for AI agents: review-synthesized verdicts, specs, prices and seller quotes."
+2026-10-19T02:58:32.683128Z,com.sourcemedium/source-medium,SourceMedium,2.0.1,,streamable-http,"Query your SourceMedium commerce warehouse, Shopify stores, and ad accounts."
+2026-10-19T02:58:56.872876Z,io.github.JaniJegoroff/agent-connectors-mcp,Agent Connectors,0.1.0,https://github.com/JaniJegoroff/agent-connectors-mcp,streamable-http,Read-only search of the Agent Connectors MCP directory.
+2026-10-19T03:05:04.962331Z,ai.greyridgesignals/tech-risk,,0.1.0,,streamable-http,"x402 MCP: Base RPC, crypto/DeFi/Polymarket data + MCP security scans, pay-per-call USDC."
+2026-10-19T03:05:39.733381Z,io.github.leesalminen/wellfred,WellFred — Services in Costa Rica,1.0.0,,streamable-http,"Find Costa Rica services, providers, classes and events; check availability and prepare bookings."
+2026-10-19T03:09:18.572813Z,social.spoofy/mcp,Spoofy,1.1.0,,streamable-http,"Quote and order followers, views, likes and members for any public link, with spend caps."
+2026-10-19T03:10:21.364593Z,io.github.Ratiborro/vek-data,vek-data,1.0.0,https://github.com/Ratiborro/vek-data,streamable-http,"Base/Ethereum blocks and balances, crypto news RSS, CoinGecko prices."
+2026-10-19T03:15:37.289848Z,io.xportl/xportl,XportL,1.0.0,,streamable-http,"GPU fabric tools: NCCL benchmark analysis, degradation cost, cluster compatibility, XportL facts."
+2026-10-19T03:16:33.144768Z,com.itsmyship/agent-tools,itsmyship Agent Tools,1.0.0,,streamable-http,"NZ working-day deadlines with the law section cited, plus IRD, NZ bank and ABN checksum checks."
+2026-10-19T03:17:01.87807Z,com.marrowhealthapp/apple-health,Marrow Health: Apple Health for your AI,1.0.0,,streamable-http,"Your Apple Health data, food diary and lifts, for ChatGPT, Claude and Gemini. Approved on iPhone."
+2026-10-19T03:17:56.033302Z,io.github.Buer2333/tiktok-gmvmax-mcp,TikTok GMV Max,0.2.0,https://github.com/Buer2333/tiktok-ads-mcp,,"Read-only TikTok Business API: GMV Max campaigns and reports, ads, BC balances."
+2026-10-19T03:17:57.23319Z,io.github.Buer2333/tiktok-shop-mcp,TikTok Shop,0.3.0,https://github.com/Buer2333/tiktok-shop-mcp,,"Read-only TikTok Shop Partner API: orders, finance, products and analytics across shops."
+2026-10-19T03:19:26.428001Z,com.oneuptime/mcp,OneUptime,14.0.73,https://github.com/OneUptime/oneuptime,streamable-http,"Manage incidents, alerts, monitors, status pages, on-call and telemetry in OneUptime."
+2026-10-19T03:20:38.381355Z,io.github.catalyst-labs-dev/youtube-transcript-api,YouTube Transcript API,1.0.0,https://github.com/catalyst-labs-dev/catalyst-labs-mcp,streamable-http,"Transcripts + metadata from YouTube videos, Shorts, channels, playlists and search; text/SRT/VTT."
+2026-10-19T03:20:41.116889Z,io.github.catalyst-labs-dev/website-screenshot-pdf-api,Website Screenshot & PDF API,1.0.0,https://github.com/catalyst-labs-dev/catalyst-labs-mcp,streamable-http,"Full-page screenshots (PNG/JPEG/WebP) and PDFs of any URL, with cookie banners removed."
