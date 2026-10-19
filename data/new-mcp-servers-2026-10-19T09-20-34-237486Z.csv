@@ -1,0 +1,34 @@
+created_at,server,title,version,repository,transports,description
+2026-10-19T08:21:56.791498Z,io.github.GermaniU/ga4-seo-mcp,GA4 SEO MCP,0.1.0,https://github.com/GermaniU/ga4-seo-mcp,,"Set up and audit site measurement: GA4, Search Console and PageSpeed. Read-only unless enabled."
+2026-10-19T08:24:19.276964Z,tv.pastaclean/mcp,,0.1.3,https://github.com/Pastaclean/pastaclean-agent,,"Search and order at pastaclean.tv for your human. Limits set by the customer, customer pays."
+2026-10-19T08:33:51.849335Z,io.github.DishantSinghDev2/captchano-mcp,CaptchaNo,1.0.0,https://github.com/DishantSinghDev2/captchano-mcp,,"Solve reCAPTCHA v2/v3/Enterprise, Turnstile, DataDome and image captchas from AI agents."
+2026-10-19T08:36:02.20526Z,com.findleademails/mcp,FindLeadEmails,1.0.0,,streamable-http,Find and verify B2B work emails. Single and bulk email finder and verifier; pay per verified email.
+2026-10-19T08:38:29.599245Z,io.github.Zeraissh/stm32-gdb-mcp,STM32 GDB Debugger,0.15.1,https://github.com/Zeraissh/stm32-gdb-mcp,,Debug STM32 firmware on real hardware via GDB + OpenOCD/ST-Link/J-Link with decoded results.
+2026-10-19T08:40:54.231523Z,com.crecerank/crecerank,CreceRank,1.0.0,,streamable-http,"Brand visibility in ChatGPT, Gemini, Perplexity and AI Overviews: mentions, sources, GEO tips."
+2026-10-19T08:42:25.620731Z,io.github.robertoyanguas-ops/x402-broker-mcp,,1.0.0,,streamable-http,Single-connection meta-router indexing 500+ MCP servers & A2A tools with 85% token compression and
+2026-10-19T08:42:30.692904Z,io.github.robertoyanguas-ops/polymarket-odds-mcp,,1.0.0,,streamable-http,"Fetches live Polymarket prediction market orderbooks, implied Yes/No probabilities, volume, and wh"
+2026-10-19T08:42:36.186996Z,io.github.robertoyanguas-ops/defi-yield-mcp,,1.0.0,,streamable-http,"Scans live DeFiLlama APYs, TVL depth, and risk-adjusted yield spreads across Base, Arbitrum, Solan"
+2026-10-19T08:42:41.242569Z,io.github.robertoyanguas-ops/hn-pulse-mcp,,1.0.0,,streamable-http,"Queries live HackerNews discussions, front-page velocity, and developer sentiment on any framework"
+2026-10-19T08:42:47.333744Z,io.github.robertoyanguas-ops/shopify-intel-mcp,,1.0.0,,streamable-http,"Extracts live product catalogs, pricing tiers, SKU variants, and stock availability from any Shopi"
+2026-10-19T08:42:51.877462Z,io.github.robertoyanguas-ops/whale-momentum-mcp,,1.0.0,,streamable-http,"Tracks real-time 1h/24h DEX buy/sell orderflow ratios, whale accumulation signals, and liquidity v"
+2026-10-19T08:42:57.125278Z,io.github.robertoyanguas-ops/alpha-stream-mcp,,1.0.0,,streamable-http,Stateful 5-minute delta feed for autonomous trading bots: computes real-time shifts in DEX buy/sel
+2026-10-19T08:43:03.376247Z,io.github.robertoyanguas-ops/mcp-compiler-mcp,,1.0.0,,streamable-http,Audits any live MCP server URL or GitHub repo on Glama's 6-dimension TDQS rubric and compiles drop
+2026-10-19T08:43:08.382309Z,io.github.robertoyanguas-ops/cve-intel-mcp,,1.0.0,,streamable-http,"Queries live Google OSV.dev vulnerability intelligence for any PyPI, npm, Go, or Rust crate and re"
+2026-10-19T08:44:09.345058Z,io.github.roian6/health-bridge,Health Bridge for AI,1.1.2,https://github.com/roian6/apple-health-ai-bridge,,Apple Health AI Bridge provides read-only local MCP access for Health Bridge for AI.
+2026-10-19T08:45:49.732017Z,com.locus-intelligence/reach,Reach (Google Business Profile),1.0.0,,streamable-http,"Hosted Google Business Profile MCP server: reviews, posts, profile edits, Maps rank. OAuth sign-in."
+2026-10-19T08:46:04.834683Z,ai.blitz-api/b2b-data,BlitzAPI,1.0.0,,streamable-http,"Search and enrich B2B companies and people: verified work emails, US phone numbers, job postings."
+2026-10-19T08:49:26.935471Z,io.github.eater2/home-renovation-free-tools,Home Renovation Free Tools,1.0.0,https://github.com/eater2/homerenovationfreetools,streamable-http,"Free renovation calculators, contract templates, room planners and contractor directories (EN/PL)"
+2026-10-19T08:49:57.52588Z,io.github.devrobinransom/baos-mcp,,0.7.0,https://github.com/devrobinransom/baos-harness,,"Read-only MCP access to a BAOS workspace: product graphs, requirements, evidence, research."
+2026-10-19T08:51:56.525547Z,io.github.WhaleCupl/ai-daily-insights-mcp,,0.5.0,https://github.com/WhaleCupl/ai-daily-insights-mcp,,"List, fetch and search AI Daily Insights — a Chinese daily AI-industry briefing built for agents."
+2026-10-19T08:57:08.836496Z,io.github.Aelethion/agentsocks,agentsocks,0.4.0,https://github.com/Aelethion/agentsocks,,"Claude Code and Codex sessions message each other and share tracked tasks, one machine by default."
+2026-10-19T08:58:00.991416Z,io.github.shreyassaw5394/debuganything,,1.0.0,https://github.com/shreyassaw5394/debuganything,,"Observe any running process from your agent. strace, py-spy, perf, lsof, tcpdump as evidence."
+2026-10-19T08:59:43.953363Z,ai.lanmao/free-ai-credits,Lanmao Free AI Credits,1.0.0,,streamable-http,"Hand-verified free AI credits, API trials and free tiers. Read-only, no auth, updated daily."
+2026-10-19T09:00:01.810703Z,io.github.japanfold/japanfold,JapanFold,1.0.0,https://github.com/japanfold/japanfold,streamable-http,"Fold proteins, co-fold ligands with binding affinity, design binders and embed sequences."
+2026-10-19T09:00:29.377263Z,uk.co.apprenticewizard/connector,ApprenticeWizard,1.1.0,,streamable-http,"Search live UK apprenticeships, track applications and get deadline reminders. Paid plan required."
+2026-10-19T09:08:28.933364Z,com.okstays/okstays,OKstays,2.2.0,,streamable-http,"Hotels ranked by real comfort, not commission: search 30,000+ hotels by quiet, beds, WiFi and more"
+2026-10-19T09:12:19.209658Z,uk.co.kwixa/hotshot-gear,HotShot Gear,1.0.0,,streamable-http,"Curated UK darts-gear catalogue ranked by fit, not payment: find, explain and compare darts kit."
+2026-10-19T09:12:19.54267Z,io.github.SirjanSingh/oahelper-mcp,OAHelper,0.2.2,https://github.com/SirjanSingh/oahelper-mcp,,"Your OAHelper Pro account: OA sets, MCQ answers, solutions and interview experiences, offline"
+2026-10-19T09:16:33.901988Z,cz.veciobecni/veci-obecni,Věci Obecní,1.0.0,,streamable-http,"Oznámení z úředních desek a zasedání českých obcí: sledování, týdenní přehledy a hledání."
+2026-10-19T09:16:53.096286Z,ai.aetherya/mcp,Aetherya,1.0.3,,streamable-http,"Test decisions on a synthetic audience: studies, site audits, copy tests and post simulations."
+2026-10-19T09:19:22.573292Z,dev.pncp/pncp,pncp.dev,1.0.0,,streamable-http,"Query Brazil's public procurement portal (PNCP): tenders, contracts and price records."
+2026-10-19T09:19:51.575383Z,com.shadcndesign.manager/ds-manager,DS Manager,1.0.0,,streamable-http,"Design System Manager for shadcn/ui: tokens, fonts, radius, components, icons, blocks, Figma sync."
