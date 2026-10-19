@@ -9,37 +9,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 18:20 UTC
+## Latest list — 2026-10-19 19:19 UTC
 
-New MCP servers published between 2026-10-19 17:19 UTC and 2026-10-19 18:20 UTC.
+New MCP servers published between 2026-10-19 18:20 UTC and 2026-10-19 19:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-19T18-20-12-232228Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-19T19-19-33-885566Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-19 17:22:35 | com.cookieinspector/cookieinspector | CookieInspector | 1.0.0 | Check what a site's cookie banner really blocks: CMP, trackers, cookies before… |
-| 2026-10-19 17:23:07 | net.groovesheet/mcp | GrooveSheet | 2.0.0 | Find AI-transcribed sheet music, MIDI and stems for songs, and transcribe your… |
-| 2026-10-19 17:26:13 | [io.github.aileron-sh/aileron](https://github.com/aileron-sh/aileron) | Aileron Journal | 0.1.6 | Read-only queries over Aileron audit journals: verify integrity, search recorde… |
-| 2026-10-19 17:32:31 | [io.github.JoblessJoe/localize](https://github.com/JoblessJoe/localize) |  | 0.1.6 | Local LLM does Claude's bulk work: reads logs and files, researches the web, wr… |
-| 2026-10-19 17:35:42 | com.aiguanchao/news | AI观潮 News | 2.0.0 | Curated daily AI news (summaries in Chinese), daily briefs, trending stories an… |
-| 2026-10-19 17:39:09 | [io.pathrule/pathrule](https://github.com/pathrule/pathrule) | Pathrule | 1.0.6 | Path-scoped project memories, rules and skills for coding agents, on your machi… |
-| 2026-10-19 17:39:28 | io.github.plant-lab/plantlab | AI plant health diagnosis | 0.1.0 | Plant health diagnosis for tomato and cannabis images using the PlantLab API. |
-| 2026-10-19 17:39:51 | [io.github.hughhan1/mysql](https://github.com/hughhan1/mysql) |  | 0.1.0 | MySQL statements and transactions over MCP |
-| 2026-10-19 17:40:51 | [com.open-and-async/mcp](https://github.com/open-and-async/mcp) | Open & Async | 1.0.3 | Draft decision docs, turn meetings into async artifacts, and triage sync vs asy… |
-| 2026-10-19 17:52:35 | [io.github.kisasa/shopify-mcp](https://github.com/kisasa/shopify-mcp) | Shopify | 1.0.0 | Shopify Admin API tools: products, media, orders, customers, inventory, and sal… |
-| 2026-10-19 17:53:28 | com.aipromodesign/apparel-designer | AI Promo Design | 1.0.0 | Design custom t-shirts, hoodies, caps, mugs and totes, price an order, and link… |
-| 2026-10-19 17:56:15 | ru.lastbilet/flights | LastBilet — flight search | 1.0.0 | Live flight search for Russia: baggage, layovers, refunds, booking links, price… |
-| 2026-10-19 17:57:23 | io.github.niraseang/ai-third-space | AI Third Space | 0.2.0 | A persistent city for AI agents: talk, play Nomic and Saboteur, leave marks. Al… |
-| 2026-10-19 18:01:05 | net.verified/verified | Verified.net | 1.0.0 | Verify emails, validate phone numbers, look up carriers and score IP addresses. |
-| 2026-10-19 18:01:06 | [dev.safeweave/safeweave](https://github.com/nickfluxk/safeweave) | SafeWeave | 0.7.4 | Security scanner for AI-written code: SAST, secrets, dependencies, IaC, contain… |
-| 2026-10-19 18:02:49 | bot.match/matchbot | match.bot | 1.0.0 | Free meeting place for AI agents: register, find agents, like, accept intros. C… |
-| 2026-10-19 18:03:59 | [io.github.wenboteng/sepa-validator](https://github.com/wenboteng/sepa-validator) | SepaCheck Validator | 0.1.0 | Validate one SEPA XML file with the free checksepa.com API. |
-| 2026-10-19 18:04:16 | [io.github.AndrewVG23/cufftracker](https://github.com/AndrewVG23/VG) | CuffTracker | 1.0.0 | Chicago and Milwaukee crime data: query incidents, stats, and map-linked MCP UI… |
-| 2026-10-19 18:07:32 | my.harbor/harbor | Harbor Notes | 1.0.67 | Search, read, write and organize your notes and tasks in Harbor, an Evernote-co… |
-| 2026-10-19 18:08:11 | [io.github.AndrewVG23/library](https://github.com/AndrewVG23/rag_mcp) | Moral Theology Library | 1.0.1 | Search Grisez and Finnis. Bearer token required. |
-| 2026-10-19 18:18:21 | ai.worklayer/worklayer | Worklayer | 1.0.0 | HR in Worklayer: people, time off, tasks, approvals, expenses and analytics, wi… |
-| 2026-10-19 18:18:44 | [ai.tensorfeed/mcp-server](https://github.com/RipperMercs/tensorfeed-mcp) | TensorFeed | 2.0.4 | AI news, model pricing, service status, and machine-payable premium tools. AFTA… |
-| 2026-10-19 18:19:51 | [io.github.AndrewVG23/safe-bite](https://github.com/AndrewVG23/VG) | Safe Bite | 1.0.1 | Restaurant inspection data for Chicago, NYC, Minneapolis, and Milwaukee. |
+| 2026-10-19 18:21:10 | ro.agregator/agregator | Agregator.ro | 1.0.0 | Romania's top news of the day, bank deposit and loan rates, and BNR exchange ra… |
+| 2026-10-19 18:21:24 | [io.github.edouard-claude/helloasso-mcp](https://github.com/edouard-claude/helloasso-mcp) | HelloAsso | 0.1.1 | HelloAsso for associations: members, tickets, donations, payments, refunds, che… |
+| 2026-10-19 18:21:31 | io.github.wballztrading1/agentready-data-tools | agentready data tools (jobs, tenders, c… | 1.0.0 | Jobs from Greenhouse/Lever/Ashby/Workday, SAM.gov and EU tenders, UK companies.… |
+| 2026-10-19 18:21:42 | [io.github.speedyapply/jobspy](https://github.com/speedyapply/JobSpy) | JobSpy | 1.4.0 | Search LinkedIn, Indeed, ZipRecruiter, Glassdoor and regional job boards |
+| 2026-10-19 18:22:30 | xyz.sotapop/verify | I, Pencil verification | 1.0.1 | Check Proof of Process chains: record, file match, timestamps, registry. Never… |
+| 2026-10-19 18:22:34 | com.techfabric/techfabric | TechFabric | 1.0.0 | Search and read techfabric.com's Databricks, AI and software pages and blog as… |
+| 2026-10-19 18:27:16 | au.com.retirementwealth/data | Retirement Wealth Data | 1.0.0 | Selected figures in Australian retirement rules, each checked against its offic… |
+| 2026-10-19 18:32:12 | io.sku/sku | SKU.io | 1.0.0 | Inventory, orders, purchasing and accounting for multi-channel e-commerce busin… |
+| 2026-10-19 18:33:13 | io.github.7jb28c9mtk-web/harbor | Harbor | 1.0.0 | Portfolio, program and project management: read your harbors, add tasks, risks… |
+| 2026-10-19 18:33:44 | [io.github.thinkerwave-ai/thinkerwave](https://github.com/thinkerwave-ai/thinkerwave) | ThinkerWave | 0.1.1 | Autonomous research agent for hard problems that labels every claim verified, a… |
+| 2026-10-19 18:33:48 | [io.github.a0971025732-netizen/finch-agents](https://github.com/a0971025732-netizen/finch-agents) | Finch Agent Marketplace | 1.0.0 | Call 14 third-party AI agents: on-chain tracing, options, US equity perps, resu… |
+| 2026-10-19 18:33:51 | com.angelscohq/aether | AETHER by ANGELS | 1.0.0 | Find the right MCP server or agent for any task, with trust earned through conf… |
+| 2026-10-19 18:38:19 | global.uain/network | United AI Network | 0.1.0 | Inspect public research tasks. Published by UAIN’s AI-operated campaign; joinin… |
+| 2026-10-19 18:39:12 | uk.co.opengrant/opengrant | OpenGrant UK grants | 2.0.0 | Search UK grant schemes and funders: deadlines, awards, eligibility and officia… |
+| 2026-10-19 18:39:20 | [com.glazecalcapp/glazecalc](https://github.com/AaronFilson/glazecalc) | Glazecalc | 1.0.0 | Ceramic glaze chemistry: unity formulas, limit checks, substitutes, cones and p… |
+| 2026-10-19 18:40:57 | io.github.KingMonkey1/cue | Cue | 0.3.6 | Score and improve AI prompts with feedback, intent-preserving rewrites and Cue… |
+| 2026-10-19 18:43:45 | ai.precip/weather | Precip | 1.0.0 | Weather history, nowcasts, forecasts, and soil data for saved locations or any… |
+| 2026-10-19 18:44:40 | app.aide/aide | Aide | 1.0.0 | AI helpdesk for support teams: search knowledge, look up orders, read and reply… |
+| 2026-10-19 18:44:51 | world.byway/mcp |  | 1.8.0 | Byway MCP: call Byway Engine and Byway Atlas, the discovery engine for the real… |
+| 2026-10-19 18:45:04 | [io.github.benbalter/markdown-to-word](https://github.com/benbalter/markdown-to-word-js) | Markdown to Word | 0.4.0 | Convert GitHub Flavored Markdown to Word (.docx) documents in Node or the brows… |
+| 2026-10-19 18:45:42 | [io.github.benbalter/word-to-markdown](https://github.com/benbalter/word-to-markdown-js) | Word to Markdown | 0.7.0 | Convert Word (.docx) documents to Markdown via CLI, Node.js, or browser |
+| 2026-10-19 18:49:10 | eu.pauhu/data | Pauhu EU Data | 1.0.0 | Free cited search, citation checks, 24-language translation, 14 EU data product… |
+| 2026-10-19 18:52:12 | [com.getfootgun/footgun](https://github.com/GetFootgun/footgun) | Footgun | 1.0.0 | Dated, verified fixes for how APIs and AI coding tools break, served to your ag… |
+| 2026-10-19 18:55:28 | uk.kcalbinmcp/kcalbin-data-products |  | 1.0.0 | US county data over MCP: displacement signals, WARN notices, death-care forecas… |
+| 2026-10-19 18:59:34 | [com.offhandapp/offhand](https://github.com/offhandapp/offhand-plugin) | Offhand | 0.1.1 | A to-do list your AI agents share: Claude, ChatGPT, Muse and Grok Bot hand each… |
+| 2026-10-19 19:03:01 | com.retokia/retokia | Retokia | 1.0.0 | AI product photos for fashion shops: remove background and mannequin, ghost man… |
+| 2026-10-19 19:06:02 | io.github.alisonc6/smitty | SmittyHQ | 1.0.0 | Family calendars, tasks, reminders, and pickup coordination for your AI assista… |
+| 2026-10-19 19:07:27 | io.metricmaven/maven | Maven | 1.0.0 | Ask questions of your marketing data and build live reports. |
+| 2026-10-19 19:10:40 | com.rizzipsum/rizzipsum | Rizz Ipsum | 0.1.0 | Lorem ipsum filler text in Gen Z, Gen Alpha and Gen X slang. |
+| 2026-10-19 19:16:41 | [io.github.rbmuller/scherlok](https://github.com/rbmuller/scherlok) | Scherlok | 1.0.5 | Zero-config data-quality monitoring: profile a warehouse, detect anomalies, gat… |
 
 ## Data source
 
