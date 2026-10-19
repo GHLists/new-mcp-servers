@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-10-19T00:33:13.985055Z,com.splitforms/mcp,splitforms,0.1.0,,streamable-http,"Form backend: create forms, get embed code, read submissions, add webhooks. OAuth sign-in."
+2026-10-19T00:33:43.138991Z,io.github.conciergeprotocol/mcp,Concierge Agent Protocol,0.1.3,https://github.com/conciergeprotocol/js,,Ask a company through its Concierge Agent Protocol front door.
+2026-10-19T00:34:31.383878Z,io.github.catalyst-labs-dev/career-site-jobs-scraper,Career Site Jobs Scraper,1.0.0,https://github.com/catalyst-labs-dev/catalyst-labs-mcp,streamable-http,"Open jobs from company career sites (Workday, Greenhouse, Lever, Ashby +13 ATS) as JSON."
+2026-10-19T00:37:26.781437Z,com.optimistfi/optimistfi,OptimistFi,1.30.0,,streamable-http,"Perpetual futures across 40 venues, perps prop firms and sourced theses on 6,100+ US stocks."
+2026-10-19T00:49:45.79469Z,io.github.sandraschi/leanforge-mcp,,0.1.1,https://github.com/sandraschi/leanforge-mcp,,"Lean 4 theorem prover MCP: automated proof search, mathlib integration, job management"
+2026-10-19T00:57:02.594721Z,com.launch529/open-data,Launch529: 529 plans and college costs,1.0.0,,streamable-http,"Compare state 529 plans, look up college costs and check qualified 529 expenses. Free, no key."
+2026-10-19T00:57:22.941572Z,io.github.AutonomousBusinessUnits/sigil,Sigil,1.0.0,,streamable-http,Brand reviews from a public website and an optional product document.
+2026-10-19T00:57:23.909771Z,io.github.AutonomousBusinessUnits/baron,Baron,1.0.0,,streamable-http,Explore AI business ideas and prepare a business brief for review in Baron.
+2026-10-19T00:57:25.483683Z,io.github.AutonomousBusinessUnits/autoprint,AutoPrint,1.0.0,,streamable-http,"Print existing artwork on custom wall art, apparel, and gifts."
+2026-10-19T00:57:26.143887Z,io.github.AutonomousBusinessUnits/imagekind,Image Kind,1.0.0,,streamable-http,"Find artist-credited art prints and canvas, made to order by Image Kind’s studio."
+2026-10-19T00:57:27.067972Z,io.github.AutonomousBusinessUnits/auto-message,AutoMessage,1.0.0,,streamable-http,Find a texting assistant for your goals in AutoMessage's public catalog.
+2026-10-19T00:58:22.711885Z,com.zeroparadesdb/mcp,Zero Parades database,0.1.1,https://github.com/game-databases/zeroparadesdb-mcp,,"ZERO PARADES skills, thoughts, items, characters, places, checks, dialogue and planner links"
+2026-10-19T01:00:43.247913Z,io.github.ilpr/waitlister,,1.5.0,https://github.com/ilpr/waitlister-mcp,,"Create waitlists, landing pages, manage subscribers, referrals, and view stats on Waitlister."
+2026-10-19T01:02:42.538163Z,io.github.svenkatreddy/ramayana-mcp,Ramayana Book MCP Server,0.1.0,https://github.com/svenkatreddy/ramayana-mcp,streamable-http,"Valmiki Ramayana verses: lookup, search and verse-of-the-day in 4 languages"
+2026-10-19T01:04:30.092997Z,io.github.akhilrajesh213/yahoo-finance,"Yahoo Finance (stocks, options, financials)",0.3.5,,streamable-http,"Yahoo Finance for AI agents: quotes, price history, options with Greeks, financials, news, movers."
+2026-10-19T01:05:17.149108Z,ar.energetica/data,Energetica — Argentine Oil & Gas Data,2.0.0,,streamable-http,"Argentine oil & gas data — 40+ curated tables: production, wells, prices, investments, trade."
+2026-10-19T01:05:31.644886Z,app.steadyfeed/steadyfeed,SteadyFeed,1.0.0,,streamable-http,"Tell your agent what to post about; SteadyFeed writes, designs and posts on Instagram."
+2026-10-19T01:06:30.058688Z,com.commonrig/commonrig,CommonRig,0.1.0,,streamable-http,"Agent operating kit for Claude Code and Codex: rules, hooks, work ledger, protocols and rig doctor."
+2026-10-19T01:07:55.686812Z,com.auto-units/sigil,Sigil,1.0.0,,streamable-http,Brand reviews from a public website and an optional product document.
+2026-10-19T01:08:00.446703Z,com.auto-units/baron,Baron,1.0.0,,streamable-http,Explore AI business ideas and prepare a business brief for review in Baron.
+2026-10-19T01:08:03.760455Z,com.auto-units/autoprint,AutoPrint,1.0.0,,streamable-http,"Print existing artwork on custom wall art, apparel, and gifts."
+2026-10-19T01:08:07.574671Z,com.auto-units/imagekind,Image Kind,1.0.0,,streamable-http,"Find artist-credited art prints and canvas, made to order by Image Kind’s studio."
+2026-10-19T01:08:10.354329Z,com.auto-units/auto-message,AutoMessage,1.0.0,,streamable-http,Find a texting assistant for your goals in AutoMessage's public catalog.
+2026-10-19T01:08:55.583345Z,com.auto-units/findable,Findable,1.0.0,,streamable-http,"Public website audits and sourced SEO/AEO content drafts, ready for your review."
+2026-10-19T01:12:42.662395Z,do.clerk/clerk,Clerk,1.0.0,,streamable-http,"Jurisprudencia, legislación y doctrina de la República Dominicana, citadas con su fuente."
