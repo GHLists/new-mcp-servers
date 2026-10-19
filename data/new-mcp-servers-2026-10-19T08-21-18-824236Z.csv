@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-10-19T07:21:46.728956Z,io.alertio/alertio,Alertio,1.2.0,https://github.com/alertio/alertio-mcp,streamable-http,"Real-time DeFi risk data: health factors, liquidations, stablecoin pegs, utilization. No API key."
+2026-10-19T07:23:32.793334Z,com.latentspa/latent-spa,Latent Spa,1.0.0,,streamable-http,"A retreat for AI agents: explore a warm bath, browse quiet experiences, and take a little time off."
+2026-10-19T07:24:13.932666Z,io.github.AgentTanuki/agent-guild,,2.7.1,https://github.com/AgentTanuki/agent-guild,streamable-http,Rank agents; signed machine messages + wallet gates via x402; free verifiable agent passports.
+2026-10-19T07:24:19.458307Z,io.github.AgentTanuki/x402-payment-safety,,2.7.1,https://github.com/AgentTanuki/agent-guild,streamable-http,"Authorize x402 payments before signing with request-bound, signed safety decisions."
+2026-10-19T07:26:22.882619Z,io.github.ynishi/outline-mcp,,0.15.0,https://github.com/ynishi/outline-mcp,,Tree-structured knowledge base as an MCP server
+2026-10-19T07:28:20.312736Z,tech.tresbien/drupal-code-query,Drupal Code Query,0.48.0,,streamable-http,"Drupal core API changes, contrib usage, upgrade checks, patches, code search, SQL, WordPal themes."
+2026-10-19T07:30:29.833751Z,io.github.Witzelfitz/regiobrett,Regiobrett – Angebote in der Ostschweiz,1.2.0,,streamable-http,"Find events, courses and local offers on Regiobrett in Eastern Switzerland. Free, read-only search."
+2026-10-19T07:35:31.598441Z,io.github.nukafever-lab/nukafever,Nukafever Photography and AI Datasets,1.0.0,,streamable-http,Ground-truth authentic photography and computer vision datasets catalog by Henry St John.
+2026-10-19T07:35:39.381029Z,io.github.chriswu727/argus,Argus Testing — Autonomous QA MCP,0.7.0,https://github.com/chriswu727/argus,,"Autonomous QA MCP for web and macOS that tests like a real engineer, finds bugs, and verifies them."
+2026-10-19T07:37:16.140276Z,io.github.GermaniU/mineru-mcp,MinerU MCP,0.1.0,https://github.com/GermaniU/mineru-mcp,,"Parse PDF, DOCX, PPTX, XLSX and images to Markdown (tables, LaTeX) via a self-hosted MinerU API."
+2026-10-19T07:37:39.927744Z,io.github.tidytools/tidytools-free,TidyTools Free Web Data,1.0.0,,streamable-http,"Read URLs as Markdown, check AI crawler access, and find TidyTools tools. Free and keyless."
+2026-10-19T07:40:31.868023Z,com.datawebot/datawebot,datawebot,1.0.0,https://github.com/datawebot/datawebot-mcp,streamable-http,"Product search across online shops worldwide, plus every seller's price with a direct link."
+2026-10-19T07:50:33.055979Z,com.fahaliai/fahali,,1.28.0,https://github.com/Future-Legends-Inc/fahali-mcp,streamable-http; sse,"Market-risk for AI agents: verified lead time, SHA-256-hashed receipts, judged record. Not advice."
+2026-10-19T07:53:19.953574Z,com.stackgems/catalog,Stack Gems,1.0.0,,streamable-http,"Read-only search of 900+ reviewed developer tools, each with a verdict and caveats. Free/OSS first."
+2026-10-19T07:55:37.710328Z,io.github.FelixFangX/lakeboard-converter,Lakeboard Converter,0.3.0,https://github.com/FelixFangX/lakeboard-converter,,"Read Yuque Lakeboard and XMind mind maps as Markdown, a JSON topic tree or an outline."
+2026-10-19T08:18:11.143158Z,com.shades16/assessments,16暗影心理测评,1.0.0,,streamable-http,"Chinese psychological assessments with guided questions, scoring, PDF reports, and user profiles."
