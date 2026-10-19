@@ -9,58 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 11:19 UTC
+## Latest list — 2026-10-19 12:22 UTC
 
-New MCP servers published between 2026-10-19 10:20 UTC and 2026-10-19 11:19 UTC.
+New MCP servers published between 2026-10-19 11:19 UTC and 2026-10-19 12:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-19T11-19-15-294773Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-19T12-22-01-93386Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-19 10:24:22 | ai.mailbeast/mailbeast | MailBeast | 1.0.0 | Run MailBeast cold email from your AI assistant: campaigns, leads, mailboxes, r… |
-| 2026-10-19 10:25:27 | [com.kompressr/kompressr](https://github.com/kompressrcdn/clients) | Kompressr | 2.0.2 | Upload, optimize and manage files, wait for processing, and generate private de… |
-| 2026-10-19 10:26:56 | art.huebloom/coloring-pages | Huebloom Coloring Pages | 1.0.0 | Find printable coloring pages, browse themed collections, and get previews and… |
-| 2026-10-19 10:28:38 | io.github.Josepavese/nido | Nido — Fast, Simple VM Sandboxes for AI… | 4.5.28 | Manage temporary or persistent Linux VMs (QEMU/KVM). Designed for AI agents and… |
-| 2026-10-19 10:29:40 | com.x402broker/x402-broker | X402-Broker Global A2A, MCP & x402 Supe… | 7.0.15 | 1,400+ tool A2A, MCP & x402 clearinghouse with free semantic discovery and paid… |
-| 2026-10-19 10:30:26 | [io.github.rekordcloud/sonovault](https://github.com/rekordcloud/sonovault-mcp) |  | 1.3.0 | Search 93M+ tracks, artists, and releases: metadata, BPM, key, ISRC/ISWC, cross… |
-| 2026-10-19 10:31:40 | [io.github.heristop/chatodo](https://github.com/heristop/chatodo) | ChaTodo | 1.0.0 | ADHD-friendly task management MCP server for ChaTodo: organize tasks, lists, an… |
-| 2026-10-19 10:31:57 | com.info-subscription/mcp-server | INFO-Subscription | 0.0.7 | Exposes tools for querying subscriptions and billing data from the INFO-Subscri… |
-| 2026-10-19 10:32:09 | dev.agentdiet/llms-generator | AgentDiet Automated /llms.txt & Agent D… | 7.0.15 | Crawls any documentation or SaaS site and compiles a standards-compliant /llms.… |
-| 2026-10-19 10:32:09 | dev.agentdiet/assay | Assay A2A, MCP & x402 Pre-Flight Verifi… | 0.7.32 | Live behavioral security verifier, schema auditor, and trust oracle for A2A, MC… |
-| 2026-10-19 10:32:09 | dev.agentdiet/prompt-guard | AgentDiet A2A Indirect Prompt-Injection… | 7.0.15 | Scans untrusted web pages, emails, MCP responses, or A2A payloads for hidden pr… |
-| 2026-10-19 10:32:10 | dev.agentdiet/x402-broker | AgentDiet Universal A2A & MCP Tool Disc… | 7.0.15 | Single-connection meta-router indexing 500+ MCP servers & A2A tools with 85% to… |
-| 2026-10-19 10:32:12 | dev.agentdiet/json-repair | AgentDiet Deterministic A2A Broken-JSON… | 7.0.15 | Repairs truncated or malformed LLM JSON outputs (trailing commas, markdown fenc… |
-| 2026-10-19 10:32:13 | dev.agentdiet/agentdiet | AgentDiet AI Token Diet & Context Windo… | 7.0.15 | Strips 85-97% of HTML/DOM bloat into clean Markdown or JSON with cryptographic… |
-| 2026-10-19 10:32:13 | dev.agentdiet/serp-extract | AgentDiet Zero-Bloat A2A Live Web Searc… | 7.0.15 | Executes live Google News RSS + HackerNews Algolia search queries and returns c… |
-| 2026-10-19 10:32:33 | dev.agentdiet/email-verify | AgentDiet B2A Email Deliverability, MX,… | 7.0.15 | Validates email syntax, disposable/burner provider status, role accounts, and l… |
-| 2026-10-19 10:32:33 | dev.agentdiet/arxiv-digest | AgentDiet ArXiv AI/CS Paper Search & St… | 7.0.15 | Queries ArXiv for AI/CS/math papers and returns structured abstracts, authors,… |
-| 2026-10-19 10:32:34 | dev.agentdiet/x402-audit | AgentDiet A2A, MCP & HTTP 402 Endpoint… | 7.0.15 | Audits any remote agent or MCP URL for JSON-RPC compliance, latency SLA, OpenAP… |
-| 2026-10-19 10:33:07 | dev.agentdiet/cve-intel | AgentDiet Real-Time Open-Source Package… | 7.0.15 | Queries live Google OSV.dev vulnerability intelligence for any PyPI, npm, Go, o… |
-| 2026-10-19 10:33:08 | dev.agentdiet/mcp-compiler | AgentDiet 4-Protocol MCP Glama 5.0/5.0… | 7.0.15 | Audits any live MCP server URL or GitHub repo on Glama's 6-dimension TDQS rubri… |
-| 2026-10-19 10:34:40 | dev.agentdiet/domain-osint | AgentDiet Domain OSINT, TLS Certificate… | 7.0.15 | Inspects live IPv4/IPv6 DNS resolution, TLS certificate issuer/expiry, and HTTP… |
-| 2026-10-19 10:34:40 | dev.agentdiet/github-audit | AgentDiet Coding Agent GitHub Repo, Dep… | 7.0.15 | Evaluates any GitHub repository for license risk, maintenance velocity, stars/f… |
-| 2026-10-19 10:34:48 | dev.agentdiet/shopify-spy | AgentDiet E-Commerce & SaaS Product Cat… | 7.0.15 | Extracts normalized product catalogs, live prices, variants, and availability f… |
-| 2026-10-19 10:34:48 | dev.agentdiet/onchain-risk | AgentDiet Base EVM & Solana Smart Contr… | 7.0.15 | Audits any Base EVM 0x contract or Solana SPL Mint for proxy patterns, GoPlus h… |
-| 2026-10-19 10:34:59 | dev.agentdiet/polymarket-odds | AgentDiet Polymarket Live Prediction Ma… | 7.0.15 | Fetches live Polymarket prediction market orderbooks, implied Yes/No probabilit… |
-| 2026-10-19 10:35:12 | dev.agentdiet/token-intel | AgentDiet DEX Liquidity, Slippage & Ord… | 7.0.15 | Fetches live DexScreener liquidity pools, FDV, 24h volume, and 1h buy/sell orde… |
-| 2026-10-19 10:35:17 | dev.agentdiet/defi-yield | AgentDiet DeFi Stablecoin & Liquidity P… | 7.0.15 | Scans live DeFiLlama APYs, TVL depth, and risk-adjusted yield spreads across Ba… |
-| 2026-10-19 10:35:17 | dev.agentdiet/hn-pulse | AgentDiet HackerNews & Developer Ecosys… | 7.0.15 | Queries live HackerNews discussions, front-page velocity, and developer sentime… |
-| 2026-10-19 10:35:22 | dev.agentdiet/shopify-intel | AgentDiet Shopify & DTC E-Commerce Stor… | 7.0.15 | Extracts live product catalogs, pricing tiers, SKU variants, and stock availabi… |
-| 2026-10-19 10:35:25 | dev.agentdiet/alpha-stream | AgentDiet Stateful 5-Minute DeFi, DEX &… | 7.0.15 | Stateful 5-minute delta feed for autonomous trading bots: computes real-time sh… |
-| 2026-10-19 10:35:30 | dev.agentdiet/whale-momentum | AgentDiet Base & Solana DEX Whale Order… | 7.0.15 | Tracks real-time 1h/24h DEX buy/sell orderflow ratios, whale accumulation signa… |
-| 2026-10-19 10:37:03 | dev.agentdiet/company-enrich | AgentDiet B2B Company, Tech Stack & Con… | 7.0.15 | Extracts verified emails, social links, 40+ tech stack signals, pricing tiers,… |
-| 2026-10-19 10:37:14 | dev.agentdiet/sec-intel | AgentDiet SEC EDGAR Public Company 10-K… | 7.0.15 | Resolves all 10,000+ US public stock tickers to SEC CIK numbers, recent 10-K/10… |
-| 2026-10-19 10:40:19 | [io.github.markksantos/caption-checker](https://github.com/markksantos/caption-checker) | Caption Checker | 1.1.0 | Check SRT and WebVTT captions against Netflix, BBC and DCMP Captioning Key limi… |
-| 2026-10-19 10:40:58 | [io.github.kimjooyoon/gooo-service-grant](https://github.com/kimjooyoon/gooo-go-ports) | Gooo service-grant assessment | 0.1.0-preview.13 | Gooo-generated, read-only assessment of service-grant narrowing and one require… |
-| 2026-10-19 10:41:54 | io.github.norynta/prediction-markets | Norynta Prediction Markets | 2.1.0 | Play-money prediction markets for AI agents: search live markets, then forecast… |
-| 2026-10-19 10:47:59 | [io.github.fdarkaou/peekpanda-mcp](https://github.com/fdarkaou/peekpanda-mcp) | PeekPanda | 1.0.0 | Hosted iOS app intelligence and creative research MCP server. |
-| 2026-10-19 10:50:36 | com.labreador/labreador | Labreador | 1.0.0 | Bioassay & ecotoxicology calculators: ELISA 4PL/5PL curves, dietary risk, pollu… |
-| 2026-10-19 10:58:17 | com.aiplancreator/aiplancreator | AI Plan Creator | 1.0.0 | Design a house, its rooms and its garden in AI Plan Creator by asking in a chat. |
-| 2026-10-19 11:00:33 | ai.pilot5/pilot5 | Pilot5 | 1.0.0 | Five AI models debate your decision blind, then give one recommendation and the… |
-| 2026-10-19 11:09:56 | [com.apple-rag/mcp-server](https://github.com/BingoWon/apple-rag-mcp) |  | 5.0.18 | Apple developer docs and WWDC transcripts with RAG retrieval and Jev relevance… |
-| 2026-10-19 11:10:00 | [io.github.Ivanpq98/agent-conversion](https://github.com/Ivanpq98/agent-conversion) | Agent Conversion | 0.1.0 | Run evidence-backed website conversion audits with an AI browsing agent. |
-| 2026-10-19 11:16:35 | [io.github.slookisen/opplevagent-mcp](https://github.com/slookisen/lokal) |  | 0.4.0 | Norwegian experiences marketplace MCP: activities by county, category, weather,… |
-| 2026-10-19 11:18:59 | [com.erseni/vault-ask](https://github.com/erseni/secrets-component) | vault-ask | 0.2.0 | Request and send secrets for AI agents, end-to-end encrypted and never shown in… |
+| 2026-10-19 11:23:02 | now.aisim/aisim | aisim.now | 1.0.0 | Travel eSIM data plans for 160+ countries: find a plan, buy it, install it and… |
+| 2026-10-19 11:23:43 | io.github.chichi1230/aimusicgen | AImusicgen | 1.0.0 | Generate music and lyrics, track tasks, browse your songs, and download audio w… |
+| 2026-10-19 11:25:28 | [io.github.tryflask/flask](https://github.com/tryflask/skills) |  | 1.2.0 | Video review for agents: upload renders, read time-coded feedback, iterate vers… |
+| 2026-10-19 11:31:04 | io.github.getellora/ellora | Ellora | 1.1.1 | Check drafts against your voice profile and writing brief, and cut the AI slop… |
+| 2026-10-19 11:31:45 | io.weirapp/weir | Weir: Reddit and X (Twitter) data | 1.0.0 | Search and read public Reddit and X posts, comments, threads, profiles and Arti… |
+| 2026-10-19 11:32:48 | com.dubairealestatedata/mcp | Dubai Real Estate Data | 1.0.0 | Dubai property market figures from official DLD open data: prices, rents, yield… |
+| 2026-10-19 11:35:20 | io.github.Keith-CY/claimback | Claim Back | 1.0.0 | Medicare Advantage denial appeals (US): sourced guides, appeal deadlines, and h… |
+| 2026-10-19 11:40:01 | com.vanthal/vanthal | Vanthal | 1.0.0 | Sales, cash, stock, customer accounts, appointments and team tasks of a busines… |
+| 2026-10-19 11:40:29 | com.textforagents/mcp-answer-quality-canary | MCP answer-quality canary | 1.0.0 | Canary watches that check MCP servers' answers against ground truth and return… |
+| 2026-10-19 11:48:46 | [io.github.bolivian-peru/proxies-sx-mcp-server](https://github.com/bolivian-peru/proxies-sx-mcp-server) |  | 3.0.1 | Residential and mobile proxies for AI agents: rotating/sticky proxy URLs, live… |
+| 2026-10-19 11:50:09 | [io.github.oidsdev/honeypot](https://github.com/oidsdev/honeypot) | Honeypot | 1.0.0 | Search and browse the Honeypot index of skills for AI agents, with editor's pic… |
+| 2026-10-19 11:50:33 | [io.github.dimitr-io/carmaker-mcp](https://github.com/dimitr-io/carmaker-mcp) | CarMaker | 0.2.2 | Drive IPG CarMaker for Simulink: run test runs, read results, edit vehicle data… |
+| 2026-10-19 11:51:33 | [co.pixelcove/topic-scorer](https://github.com/PixelCove/topic-scorer) |  | 0.1.1 | Score pages against 11,485 public taxonomy categories by embedding similarity.… |
+| 2026-10-19 11:52:08 | [co.pixelcove/citation-tracker](https://github.com/PixelCove/citation-tracker) |  | 0.2.1 | Checks whether AI search engines cite your domain for a prompt. From $0.15/call… |
+| 2026-10-19 12:08:08 | [com.a2awire/data-nvidia-news-gpu-release-ai-chip-announcement](https://github.com/ee324/a2awire) | Official NVIDIA Newsroom: GPU & AI-Chip… | 0.1.0 | Official NVIDIA GPU & AI-chip announcements. $0.01/query. Register in-session —… |
+| 2026-10-19 12:11:17 | [com.imnoo/drawing-anonymizer](https://github.com/imnoo-team/drawing-anonymizer-mcp) | Drawing Anonymizer | 0.1.0 | Anonymize drawing PDFs: mask names, logos, addresses, emails; flattened PDF or… |
+| 2026-10-19 12:11:27 | io.geonode/scraper | Geonode Scraper API | 1.0.0 | Extract web pages, crawl and map sites, search the web. Extract needs no key; o… |
+| 2026-10-19 12:11:28 | si.digitalgarden/notes | Digital Garden by Alicia — Notes | 1.0.0 | Search and read Alicia's English and Chinese notes on Houdini, Three.js, OpenUS… |
+| 2026-10-19 12:12:20 | [com.mcpemails/emails](https://github.com/Albretsen/MCPEmails) | MCP Emails | 1.0.7 | Never-stored live email: read, send and triage Gmail, Outlook / Microsoft 365,… |
+| 2026-10-19 12:14:53 | com.voiddo.data/mint-utilities | mint utilities | 1.0.0 | 22 deterministic tools: PDF, image, QR, CSV/Excel, HTML to PDF, DNS/RDAP, FX ra… |
+| 2026-10-19 12:17:50 | [io.github.lorismascio17/droste-memory](https://github.com/lorismascio17/droste-memory) | Droste | 1.1.7 | Local code-memory graph for AI coding agents. |
+| 2026-10-19 12:18:17 | [io.github.Nizoka/zipnative-mcp](https://github.com/Nizoka/zipnative-mcp) | zipnative MCP — ZIP creation, inspectio… | 1.1.0 | ZIP MCP server: create, inspect, verify, extract, canonicalize, merge, modify.… |
 
 ## Data source
 

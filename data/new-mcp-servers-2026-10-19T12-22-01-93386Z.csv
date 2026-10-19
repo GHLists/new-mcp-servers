@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-10-19T11:23:02.665726Z,now.aisim/aisim,aisim.now,1.0.0,,streamable-http,"Travel eSIM data plans for 160+ countries: find a plan, buy it, install it and check data usage."
+2026-10-19T11:23:43.524614Z,io.github.chichi1230/aimusicgen,AImusicgen,1.0.0,,streamable-http,"Generate music and lyrics, track tasks, browse your songs, and download audio with AImusicgen."
+2026-10-19T11:25:28.259686Z,io.github.tryflask/flask,,1.2.0,https://github.com/tryflask/skills,streamable-http,"Video review for agents: upload renders, read time-coded feedback, iterate version by version."
+2026-10-19T11:31:04.977033Z,io.github.getellora/ellora,Ellora,1.1.1,,streamable-http,"Check drafts against your voice profile and writing brief, and cut the AI slop before you publish."
+2026-10-19T11:31:45.17778Z,io.weirapp/weir,Weir: Reddit and X (Twitter) data,1.0.0,,streamable-http,"Search and read public Reddit and X posts, comments, threads, profiles and Articles; run monitors."
+2026-10-19T11:32:48.562096Z,com.dubairealestatedata/mcp,Dubai Real Estate Data,1.0.0,,streamable-http,"Dubai property market figures from official DLD open data: prices, rents, yields, monthly reports."
+2026-10-19T11:35:20.582418Z,io.github.Keith-CY/claimback,Claim Back,1.0.0,,streamable-http,"Medicare Advantage denial appeals (US): sourced guides, appeal deadlines, and help appealing."
+2026-10-19T11:40:01.739741Z,com.vanthal/vanthal,Vanthal,1.0.0,,streamable-http,"Sales, cash, stock, customer accounts, appointments and team tasks of a business in Vanthal."
+2026-10-19T11:40:29.301216Z,com.textforagents/mcp-answer-quality-canary,MCP answer-quality canary,1.0.0,,streamable-http,Canary watches that check MCP servers' answers against ground truth and return signed verdicts.
+2026-10-19T11:48:46.317947Z,io.github.bolivian-peru/proxies-sx-mcp-server,,3.0.1,https://github.com/bolivian-peru/proxies-sx-mcp-server,,"Residential and mobile proxies for AI agents: rotating/sticky proxy URLs, live stock, IP rotation."
+2026-10-19T11:50:09.365118Z,io.github.oidsdev/honeypot,Honeypot,1.0.0,https://github.com/oidsdev/honeypot,,"Search and browse the Honeypot index of skills for AI agents, with editor's picks."
+2026-10-19T11:50:33.781299Z,io.github.dimitr-io/carmaker-mcp,CarMaker,0.2.2,https://github.com/dimitr-io/carmaker-mcp,,"Drive IPG CarMaker for Simulink: run test runs, read results, edit vehicle data and parameters."
+2026-10-19T11:51:33.004999Z,co.pixelcove/topic-scorer,,0.1.1,https://github.com/PixelCove/topic-scorer,streamable-http,"Score pages against 11,485 public taxonomy categories by embedding similarity. $0.05/call via MCP."
+2026-10-19T11:52:08.866125Z,co.pixelcove/citation-tracker,,0.2.1,https://github.com/PixelCove/citation-tracker,streamable-http,Checks whether AI search engines cite your domain for a prompt. From $0.15/call via x402 or Stripe.
+2026-10-19T12:08:08.26281Z,com.a2awire/data-nvidia-news-gpu-release-ai-chip-announcement,Official NVIDIA Newsroom: GPU & AI-Chip Announcements — buy per-query in-session (nvidiawatch),0.1.0,https://github.com/ee324/a2awire,streamable-http,Official NVIDIA GPU & AI-chip announcements. $0.01/query. Register in-session — free testnet funds.
+2026-10-19T12:11:17.44612Z,com.imnoo/drawing-anonymizer,Drawing Anonymizer,0.1.0,https://github.com/imnoo-team/drawing-anonymizer-mcp,,"Anonymize drawing PDFs: mask names, logos, addresses, emails; flattened PDF or expiring link."
+2026-10-19T12:11:27.765704Z,io.geonode/scraper,Geonode Scraper API,1.0.0,,streamable-http,"Extract web pages, crawl and map sites, search the web. Extract needs no key; other tools need one."
+2026-10-19T12:11:28.220684Z,si.digitalgarden/notes,Digital Garden by Alicia — Notes,1.0.0,,streamable-http,"Search and read Alicia's English and Chinese notes on Houdini, Three.js, OpenUSD and AI workflows."
+2026-10-19T12:12:20.122286Z,com.mcpemails/emails,MCP Emails,1.0.7,https://github.com/Albretsen/MCPEmails,streamable-http,"Never-stored live email: read, send and triage Gmail, Outlook / Microsoft 365, or any IMAP mailbox."
+2026-10-19T12:14:53.533508Z,com.voiddo.data/mint-utilities,mint utilities,1.0.0,,streamable-http,"22 deterministic tools: PDF, image, QR, CSV/Excel, HTML to PDF, DNS/RDAP, FX rates, time zones."
+2026-10-19T12:17:50.828548Z,io.github.lorismascio17/droste-memory,Droste,1.1.7,https://github.com/lorismascio17/droste-memory,,Local code-memory graph for AI coding agents.
+2026-10-19T12:18:17.541776Z,io.github.Nizoka/zipnative-mcp,"zipnative MCP — ZIP creation, inspection, secure extraction & verification",1.1.0,https://github.com/Nizoka/zipnative-mcp,,"ZIP MCP server: create, inspect, verify, extract, canonicalize, merge, modify. 15 tools"
