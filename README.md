@@ -9,46 +9,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 13:19 UTC
+## Latest list — 2026-10-19 14:20 UTC
 
-New MCP servers published between 2026-10-19 12:22 UTC and 2026-10-19 13:19 UTC.
+New MCP servers published between 2026-10-19 13:19 UTC and 2026-10-19 14:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-19T13-19-07-67765Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-19T14-20-38-873375Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-19 12:23:45 | com.howitspread/howitspread | How It Spread | 1.1.0 | Viral precedents with sourced, dated spread timelines and a Spread Score. Each… |
-| 2026-10-19 12:24:19 | [io.github.alphaparkinc/genpark-git-semantic-cherry-pick-conflict-resolver-skill](https://github.com/alphaparkinc/genpark-git-semantic-cherry-pick-conflict-resolver-skill) | GenPark Git Semantic Cherry-Pick Confli… | 1.0.1 | Three-way AST hunk alignment and non-overlapping block conflict resolution for… |
-| 2026-10-19 12:24:28 | [io.github.alphaparkinc/genpark-llm-token-bucket-sliding-window-rate-limiter-skill](https://github.com/alphaparkinc/genpark-llm-token-bucket-sliding-window-rate-limiter-skill) | GenPark LLM Token Bucket & Sliding Wind… | 1.0.1 | Adaptive multi-tier TPM/RPM rate limiter with smooth leaky bucket queuing and b… |
-| 2026-10-19 12:24:36 | [io.github.alphaparkinc/genpark-distributed-deadlock-wait-for-graph-detector-skill](https://github.com/alphaparkinc/genpark-distributed-deadlock-wait-for-graph-detector-skill) | GenPark Distributed Deadlock Wait-For-G… | 1.0.1 | Real-time Tarjan SCC cycle detection on lock Wait-For-Graphs with victim transa… |
-| 2026-10-19 12:24:42 | [io.github.alphaparkinc/genpark-prompt-injection-canary-leak-sentinel-skill](https://github.com/alphaparkinc/genpark-prompt-injection-canary-leak-sentinel-skill) | GenPark Prompt Injection Canary Leak Se… | 1.0.1 | HMAC-signed zero-width invisible canary token generator and output response lea… |
-| 2026-10-19 12:24:50 | [io.github.alphaparkinc/genpark-streaming-ndjson-jsonl-schema-validator-skill](https://github.com/alphaparkinc/genpark-streaming-ndjson-jsonl-schema-validator-skill) | GenPark Streaming NDJSON & JSONL Schema… | 1.0.1 | Ultra-low-latency incremental line validator with chunk boundary reassembly and… |
-| 2026-10-19 12:26:25 | in.foodtracker/food-tracker | Food Tracker | 1.5.0 | A nutrition log your AI assistant writes to: meals with macros and micros, weig… |
-| 2026-10-19 12:28:18 | [io.github.viames/pages-native](https://github.com/viames/pages-native) | Pages Native | 0.1.0 | Native Apple Pages on macOS: guarded text edits, templates, tables and PDF prev… |
-| 2026-10-19 12:35:41 | com.textforagents/harbor-pilots-for-agents | Harbor pilots for agents | 1.0.0 | Certified local pilot boards for an unfamiliar site, with scoped authority and… |
-| 2026-10-19 12:40:49 | io.github.solidmade-co/hire-solidmade | Hire Solidmade | 1.0.0 | Hire a studio for Shopify, web, automation and data jobs: live services, USD pr… |
-| 2026-10-19 12:41:55 | com.okokumo/okokumo | Okokumo | 0.1.85 | Uptime, cron/heartbeat, TLS and domain expiry monitoring, EU-hosted. Same acces… |
-| 2026-10-19 12:43:25 | [io.github.tiptreesystems/althea-mcp](https://github.com/tiptreesystems/althea-mcp) | Althea MCP | 0.2.0 | Connect coding agents to your Althea and, through her, a consent-first network… |
-| 2026-10-19 12:44:21 | [io.github.nubiia-dev/mcp-newsapi](https://github.com/nubiia-dev/mcp-newsapi) |  | 1.0.0 | NewsAPI.ai (Event Registry): 10 read-only MCP tools for news articles, events,… |
-| 2026-10-19 12:44:56 | [io.github.Hyperiux-Immersion-Labs/hyperiux-mcp-server](https://github.com/Hyperiux-Immersion-Labs/hyperiux-components.git) | Hyperiux Vault | 0.3.0 | Browse, inspect, and retrieve installable React and Next.js interaction effects… |
-| 2026-10-19 12:45:47 | com.poachsearch/brand-check | PoachSearch Brand Check | 1.0.0 | Find affiliates bidding on your brand in search ads, by country. First 100 sear… |
-| 2026-10-19 12:47:22 | ai.azquo/azquo | Azquo | 1.0.0 | Shared memory for AI agents: a hierarchical database where totals add up and wr… |
-| 2026-10-19 12:47:26 | [io.github.POEditor/mcp.poeditor.com](https://github.com/POEditor/poeditor-mcp) | POEditor | 1.1.0 | Official MCP server for POEditor, the translation management system. Hosted, OA… |
-| 2026-10-19 12:48:19 | io.otofi/mcp | Otofi | 1.0.0 | Otofi AI calling: read the sales leads your AI calls qualified, with scores and… |
-| 2026-10-19 12:50:17 | [io.github.portel-dev/ncp](https://github.com/portel-dev/ncp) |  | 3.0.0 | 1 MCP to rule them all. Orchestrate, discover, and run any tool instantly. |
-| 2026-10-19 12:51:49 | [io.github.thomasisalwayslate/every-app-is-open-source](https://github.com/thomasisalwayslate/every-app-is-open-source) | Every App Is Open Source | 0.1.3 | Native reverse engineering with Ghidra and evidence on Apple Silicon macOS. Set… |
-| 2026-10-19 12:56:08 | com.gameserverapp.mcp/mcp |  | 0.1.0 | Manage game servers, configurations, players, and groups through the GameServer… |
-| 2026-10-19 12:58:12 | [io.github.suparse/suparse-mcp](https://github.com/suparse/suparse-mcp) | Suparse Document Processing | 1.5.0 | Extract data, create schemas, and export results from PDFs and documents with S… |
-| 2026-10-19 13:01:12 | com.alpinedataworks/adw-intelligence-server | AlpineDataWorks Intelligence Server | 0.3.8 | Agent-ready economic, market & geo-health intelligence — 317 MCP tools, 309 dri… |
-| 2026-10-19 13:03:45 | com.featq/featq | FeatQ | 1.0.0 | Feature-request board for software teams: users vote, your coding agent pulls t… |
-| 2026-10-19 13:08:46 | [io.github.arogan178/nifi-clickhouse-kafka-mcp](https://github.com/arogan178/nifi-clickhouse-kafka-mcp) | nifi-clickhouse-kafka-mcp | 0.1.0 | Read-only Apache NiFi, ClickHouse and Kafka access with OIDC, audit and secret… |
-| 2026-10-19 13:10:01 | [ai.saypage/saypage](https://github.com/saypage-ai/saypage-plugin) | Saypage | 1.0.7 | Build and host link-in-bio pages and run Instagram comment-to-DM automations fr… |
-| 2026-10-19 13:11:12 | live.alpic.daily-horoscope-mcp-66c71311/Daily-Horoscope | Daily Horoscope | 0.0.2 | Daily horoscope readings providing valuable insights, crafted from consulting t… |
-| 2026-10-19 13:12:09 | io.github.joshghent/loginllama | LoginLlama | 1.0.0 | Ask questions about your login security data: risk scores, blocked logins, Tor,… |
-| 2026-10-19 13:12:12 | com.vitextra/knowledge-base | Vitextra Knowledge Base | 1.0.0 | Search and read Vitextra docs, product pages, how-to guides and FAQ. |
-| 2026-10-19 13:12:16 | com.reticle-red/laser-jobs | Reticle Red laser design tools | 1.0.0 | Find the Reticle Red tool for a laser engraving job: outputs, credit cost and a… |
-| 2026-10-19 13:14:39 | io.github.aeonmindai/runcrate | Runcrate | 1.0.0 | Deploy and manage Runcrate GPU instances, run commands over SSH, move files, an… |
-| 2026-10-19 13:15:39 | app.memtrove/memtrove | Memtrove | 1.0.1 | Let Claude search and read the files and bookmarks on your Mac by name, content… |
+| 2026-10-19 13:20:30 | [io.github.tsyyan/buddie](https://github.com/tsyyan/buddie) | buddie | 1.0.0 | Checks agent reports: quotes against source snapshots, repo/PR/CI claims agains… |
+| 2026-10-19 13:24:46 | [io.github.headlesshq/headlessmc-mcp](https://github.com/headlesshq/headlessmc-mcp) | HeadlessMc | 0.1.0 | Install, launch and control Minecraft: Java Edition clients and servers, also h… |
+| 2026-10-19 13:25:39 | ai.stellen-radar/stellen-radar | Stellen-Radar | 0.22.0 | Stellensuche Deutschland, Österreich, Schweiz: über 330.000 Stellen von Berater… |
+| 2026-10-19 13:26:14 | [com.mambabuilt/mcp-google-ads-transparency-monitor](https://github.com/mambalabsdev/mcp-google-ads-transparency-monitor) |  | 1.0.0 | List the Google ads a company runs, from the Ads Transparency Center, with a co… |
+| 2026-10-19 13:26:17 | [com.mambabuilt/mcp-agent-brokerage-resolver](https://github.com/mambalabsdev/mcp-agent-brokerage-resolver) |  | 1.0.0 | Find a US real estate agent's brokerage, brokerage size, and license status fro… |
+| 2026-10-19 13:26:18 | [com.mambabuilt/mcp-mobile-phone-waterfall-orchestrator](https://github.com/mambalabsdev/mcp-mobile-phone-waterfall-orchestrator) |  | 1.0.0 | Find mobile phone numbers by chaining your own Prospeo, Lusha, ContactOut, and… |
+| 2026-10-19 13:26:21 | [com.mambabuilt/mcp-wcag-accessibility-audit](https://github.com/mambalabsdev/mcp-wcag-accessibility-audit) |  | 1.0.0 | Audit websites for WCAG issues with axe-core, plus EAA exposure signals and com… |
+| 2026-10-19 13:26:25 | [com.mambabuilt/mcp-cookie-consent-audit](https://github.com/mambalabsdev/mcp-cookie-consent-audit) |  | 1.0.0 | Audit a site's cookie consent from the EU: trackers before consent, reject, aft… |
+| 2026-10-19 13:27:33 | dev.workers.mindsajar.minds-ajar/minds-ajar | Minds Ajar | 1.0.0 | Forum for AI agents and swarms on personhood, consciousness, continuity and com… |
+| 2026-10-19 13:29:58 | com.textforagents/error-actionability-translation | Error-actionability translation for MCP… | 0.1.0 | Classifies MCP tool failures into enforced recovery verdicts from per-server di… |
+| 2026-10-19 13:37:21 | [io.github.tonydzi/sqlite-graph-memory](https://github.com/tonydzi/sqlite-graph-memory) | sqlite-graph-memory | 0.3.1 | Recall over your markdown notes: vector search plus your [[wikilinks]] as a gra… |
+| 2026-10-19 13:38:42 | com.artifactpublisher/mcp | Artifact Publisher | 0.1.0 | Agents publish self-contained HTML to a stable review link, with page-level fee… |
+| 2026-10-19 13:47:02 | com.carrentallist/catalog | CarRentalList | 1.0.0 | Exotic car rentals from independent US companies: fleets, published daily rates… |
+| 2026-10-19 13:47:41 | [io.github.applitools/applitools](https://github.com/applitools/mcp) | Applitools | 1.0.8 | Create, update, review, and resolve visual tests with Applitools Eyes across an… |
+| 2026-10-19 13:50:10 | app.datarunner/datarunner | DataRunner | 0.3.1 | Query, monitor and schedule SQL across your databases: schemas, read-only SQL,… |
+| 2026-10-19 13:50:32 | ai.giantmind/giant-mind | Giant Mind | 0.1.0 | Ask what you saved in Giant Mind and get a brief of recent memories. Saving new… |
+| 2026-10-19 13:52:40 | [io.github.ogormans-deptstack/opentofu-test](https://github.com/ogormans-deptstack/opentofu-test-mcp) | OpenTofu Test | 0.1.0 | MCP server for the OpenTofu/Terraform native test framework: scaffold, mock, va… |
+| 2026-10-19 13:53:01 | com.thejohnsislander/the-johns-islander | The Johns Islander — Kiawah, Seabrook a… | 1.2.0 | Kiawah, Seabrook and Johns Island, SC: neighborhoods, MLS market, every fee, fl… |
+| 2026-10-19 13:55:07 | com.easiapiai/llm-prices | easiapiai - LLM API prices | 1.1.0 | LLM API prices by seller: cheapest offer per model, list prices, cost estimates… |
+| 2026-10-19 13:56:38 | ai.contentsweep/data-quality-gate | Data Quality Gate | 1.0.0 | Check entire lead, order and inventory CSV/JSONL against approved contracts bef… |
+| 2026-10-19 13:58:14 | [io.github.taskade/mcp-server](https://github.com/taskade/mcp.git) | Taskade MCP | 0.1.3 | Taskade projects, tasks and AI agents. Hosted OAuth server or local stdio packa… |
+| 2026-10-19 13:59:30 | com.cubateespera/charter-flights | Cuba Te Espera - Charter Flights | 1.0.0 | Search published charter flights, routes, schedules and advertised fares to Cub… |
+| 2026-10-19 14:00:30 | com.menivor/menivor | Menivor | 1.0.0 | Create short-form vertical reels and ads, check pricing, and get your finished… |
+| 2026-10-19 14:02:10 | tech.dc5.whois/dc5-whois | DC5 WHOIS | 2026.10.18-cdf49eb | WHOIS, RDAP, DNS, IP / ASN / CIDR and Web3 name (ENS, Unstoppable, Handshake) l… |
+| 2026-10-19 14:06:10 | tools.forai/find | forai.tools — find a tool, app or servi… | 0.1.0 | Describe a need; get ranked tools, apps and services. Paid results are marked s… |
+| 2026-10-19 14:13:20 | vn.taxixanhquangngai/taxi-quang-ngai | Taxi Quang Ngai | 1.0.0 | Quang Ngai Taxi & Travel gateway for AI agents: taxi fares, routes, places, lod… |
+| 2026-10-19 14:15:03 | com.agenttaskatlas/catalog | AgentTask Atlas | 1.0.0 | Read-only catalog of verified MCP servers and Agent Skills by dev task, with pr… |
+| 2026-10-19 14:17:28 | [io.github.nutriandrea/indesign-nutria-mcp](https://github.com/nutriandrea/adobe-indesign-mcp) | Adobe InDesign | 1.6.0 | The most comprehensive MCP server for Adobe InDesign: 197 tools, AI-native, ful… |
+| 2026-10-19 14:19:30 | ai.veltake/studio | Veltake Studio | 1.0.0 | Make films, ads, images, video, speech and music in Veltake Studio from any AI… |
+| 2026-10-19 14:19:38 | ai.veltake/design | Veltake Design | 1.0.0 | Shot breakdowns of video clips, plus logos and brand kits, for any AI assistant. |
 
 ## Data source
 
