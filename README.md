@@ -9,47 +9,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 09:20 UTC
+## Latest list — 2026-10-19 10:20 UTC
 
-New MCP servers published between 2026-10-19 08:21 UTC and 2026-10-19 09:20 UTC.
+New MCP servers published between 2026-10-19 09:20 UTC and 2026-10-19 10:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-19T09-20-34-237486Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-19T10-20-33-2652Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-19 08:21:56 | [io.github.GermaniU/ga4-seo-mcp](https://github.com/GermaniU/ga4-seo-mcp) | GA4 SEO MCP | 0.1.0 | Set up and audit site measurement: GA4, Search Console and PageSpeed. Read-only… |
-| 2026-10-19 08:24:19 | [tv.pastaclean/mcp](https://github.com/Pastaclean/pastaclean-agent) |  | 0.1.3 | Search and order at pastaclean.tv for your human. Limits set by the customer, c… |
-| 2026-10-19 08:33:51 | [io.github.DishantSinghDev2/captchano-mcp](https://github.com/DishantSinghDev2/captchano-mcp) | CaptchaNo | 1.0.0 | Solve reCAPTCHA v2/v3/Enterprise, Turnstile, DataDome and image captchas from A… |
-| 2026-10-19 08:36:02 | com.findleademails/mcp | FindLeadEmails | 1.0.0 | Find and verify B2B work emails. Single and bulk email finder and verifier; pay… |
-| 2026-10-19 08:38:29 | [io.github.Zeraissh/stm32-gdb-mcp](https://github.com/Zeraissh/stm32-gdb-mcp) | STM32 GDB Debugger | 0.15.1 | Debug STM32 firmware on real hardware via GDB + OpenOCD/ST-Link/J-Link with dec… |
-| 2026-10-19 08:40:54 | com.crecerank/crecerank | CreceRank | 1.0.0 | Brand visibility in ChatGPT, Gemini, Perplexity and AI Overviews: mentions, sou… |
-| 2026-10-19 08:42:25 | io.github.robertoyanguas-ops/x402-broker-mcp |  | 1.0.0 | Single-connection meta-router indexing 500+ MCP servers & A2A tools with 85% to… |
-| 2026-10-19 08:42:30 | io.github.robertoyanguas-ops/polymarket-odds-mcp |  | 1.0.0 | Fetches live Polymarket prediction market orderbooks, implied Yes/No probabilit… |
-| 2026-10-19 08:42:36 | io.github.robertoyanguas-ops/defi-yield-mcp |  | 1.0.0 | Scans live DeFiLlama APYs, TVL depth, and risk-adjusted yield spreads across Ba… |
-| 2026-10-19 08:42:41 | io.github.robertoyanguas-ops/hn-pulse-mcp |  | 1.0.0 | Queries live HackerNews discussions, front-page velocity, and developer sentime… |
-| 2026-10-19 08:42:47 | io.github.robertoyanguas-ops/shopify-intel-mcp |  | 1.0.0 | Extracts live product catalogs, pricing tiers, SKU variants, and stock availabi… |
-| 2026-10-19 08:42:51 | io.github.robertoyanguas-ops/whale-momentum-mcp |  | 1.0.0 | Tracks real-time 1h/24h DEX buy/sell orderflow ratios, whale accumulation signa… |
-| 2026-10-19 08:42:57 | io.github.robertoyanguas-ops/alpha-stream-mcp |  | 1.0.0 | Stateful 5-minute delta feed for autonomous trading bots: computes real-time sh… |
-| 2026-10-19 08:43:03 | io.github.robertoyanguas-ops/mcp-compiler-mcp |  | 1.0.0 | Audits any live MCP server URL or GitHub repo on Glama's 6-dimension TDQS rubri… |
-| 2026-10-19 08:43:08 | io.github.robertoyanguas-ops/cve-intel-mcp |  | 1.0.0 | Queries live Google OSV.dev vulnerability intelligence for any PyPI, npm, Go, o… |
-| 2026-10-19 08:44:09 | [io.github.roian6/health-bridge](https://github.com/roian6/apple-health-ai-bridge) | Health Bridge for AI | 1.1.2 | Apple Health AI Bridge provides read-only local MCP access for Health Bridge fo… |
-| 2026-10-19 08:45:49 | com.locus-intelligence/reach | Reach (Google Business Profile) | 1.0.0 | Hosted Google Business Profile MCP server: reviews, posts, profile edits, Maps… |
-| 2026-10-19 08:46:04 | ai.blitz-api/b2b-data | BlitzAPI | 1.0.0 | Search and enrich B2B companies and people: verified work emails, US phone numb… |
-| 2026-10-19 08:49:26 | [io.github.eater2/home-renovation-free-tools](https://github.com/eater2/homerenovationfreetools) | Home Renovation Free Tools | 1.0.0 | Free renovation calculators, contract templates, room planners and contractor d… |
-| 2026-10-19 08:49:57 | [io.github.devrobinransom/baos-mcp](https://github.com/devrobinransom/baos-harness) |  | 0.7.0 | Read-only MCP access to a BAOS workspace: product graphs, requirements, evidenc… |
-| 2026-10-19 08:51:56 | [io.github.WhaleCupl/ai-daily-insights-mcp](https://github.com/WhaleCupl/ai-daily-insights-mcp) |  | 0.5.0 | List, fetch and search AI Daily Insights — a Chinese daily AI-industry briefing… |
-| 2026-10-19 08:57:08 | [io.github.Aelethion/agentsocks](https://github.com/Aelethion/agentsocks) | agentsocks | 0.4.0 | Claude Code and Codex sessions message each other and share tracked tasks, one… |
-| 2026-10-19 08:58:00 | [io.github.shreyassaw5394/debuganything](https://github.com/shreyassaw5394/debuganything) |  | 1.0.0 | Observe any running process from your agent. strace, py-spy, perf, lsof, tcpdum… |
-| 2026-10-19 08:59:43 | ai.lanmao/free-ai-credits | Lanmao Free AI Credits | 1.0.0 | Hand-verified free AI credits, API trials and free tiers. Read-only, no auth, u… |
-| 2026-10-19 09:00:01 | [io.github.japanfold/japanfold](https://github.com/japanfold/japanfold) | JapanFold | 1.0.0 | Fold proteins, co-fold ligands with binding affinity, design binders and embed… |
-| 2026-10-19 09:00:29 | uk.co.apprenticewizard/connector | ApprenticeWizard | 1.1.0 | Search live UK apprenticeships, track applications and get deadline reminders.… |
-| 2026-10-19 09:08:28 | com.okstays/okstays | OKstays | 2.2.0 | Hotels ranked by real comfort, not commission: search 30,000+ hotels by quiet,… |
-| 2026-10-19 09:12:19 | uk.co.kwixa/hotshot-gear | HotShot Gear | 1.0.0 | Curated UK darts-gear catalogue ranked by fit, not payment: find, explain and c… |
-| 2026-10-19 09:12:19 | [io.github.SirjanSingh/oahelper-mcp](https://github.com/SirjanSingh/oahelper-mcp) | OAHelper | 0.2.2 | Your OAHelper Pro account: OA sets, MCQ answers, solutions and interview experi… |
-| 2026-10-19 09:16:33 | cz.veciobecni/veci-obecni | Věci Obecní | 1.0.0 | Oznámení z úředních desek a zasedání českých obcí: sledování, týdenní přehledy… |
-| 2026-10-19 09:16:53 | ai.aetherya/mcp | Aetherya | 1.0.3 | Test decisions on a synthetic audience: studies, site audits, copy tests and po… |
-| 2026-10-19 09:19:22 | dev.pncp/pncp | pncp.dev | 1.0.0 | Query Brazil's public procurement portal (PNCP): tenders, contracts and price r… |
-| 2026-10-19 09:19:51 | com.shadcndesign.manager/ds-manager | DS Manager | 1.0.0 | Design System Manager for shadcn/ui: tokens, fonts, radius, components, icons,… |
+| 2026-10-19 09:21:07 | io.github.tresor4k/leavesheet-certified-payroll | LeaveSheet: Davis-Bacon wage rates and… | 0.1.0 | Read-only Davis-Bacon wage determination lookup, crew pay checks, fringe 6B, WH… |
+| 2026-10-19 09:22:16 | [pl.tropia/mcp](https://github.com/ddaapp/tropia-mcp) | tropia.pl: Polish companies (KRS) | 1.0.0 | Polish company data from KRS: profiles, historical connections, financials, sta… |
+| 2026-10-19 09:23:08 | [com.instavar/mcp-server](https://github.com/instavar/mcp-server) | Instavar Video Templates and Studio | 0.6.0 | Free Remotion video templates and creative guides; optional hosted Studio rende… |
+| 2026-10-19 09:23:42 | [io.github.Sanoy24/safe-fetch](https://github.com/Sanoy24/safe-fetch-mcp-server) |  | 0.2.0 | MCP server for fetching URLs, safe against SSRF, DNS rebinding, and redirect-to… |
+| 2026-10-19 09:25:08 | ai.idphoto/mcp | IDPhoto.ai Passport & Visa Photos | 0.1.0 | Turn a portrait into a compliant passport, visa or ID photo. 300+ official spec… |
+| 2026-10-19 09:31:23 | hu.kodvena/kodvena | Kódvéna | 1.1.0 | Kódvéna (kodvena.hu) magyar webfejlesztő: szolgáltatások, szakmai oldalak, GYIK… |
+| 2026-10-19 09:34:07 | [cloud.frely/frelymcp](https://github.com/FrelyHQ/frely-cli) | FrelyMCP | 1.0.0 | Use your own computers, cloud tools and AI agents from any MCP client with one… |
+| 2026-10-19 09:34:15 | com.crossmint/mcp | Crossmint | 1.0.0 | Manage Crossmint orgs, projects, environments and API keys from your AI assista… |
+| 2026-10-19 09:41:00 | [io.github.vmedvedovskiy/luftpause](https://github.com/luftpause/luftpause) |  | 0.1.2 | async/await for LLM agents: spawn and await sub-agents scheduled on your own GP… |
+| 2026-10-19 09:44:05 | com.moaibuy/moa | 모아 — 도매 상품 찾기 | 0.1.0 | 한국 도매 상품 10,959,337개를 배송비 포함 총액으로 찾아 비교 · 갈래 14개 · 가격 비교 표 387개 · 도구 5개(읽기만) ·… |
+| 2026-10-19 09:44:36 | ai.neuralverge/neuralverge | NeuralVerge | 1.0.0 | Web search, AI data extraction and 250+ data sources (company registries, marke… |
+| 2026-10-19 09:45:24 | de.briefflink/letter | Briefflink – Briefe mit KI versenden | 1.0.0 | Send real paper letters from AI chat: print, envelope, postage, delivery. Pay p… |
+| 2026-10-19 09:45:43 | [io.github.365724-ctrl/band-atlas](https://github.com/365724-ctrl/band-atlas-data) | Band Atlas (Hyper Nexus) | 1.2.0 | Which cellular IoT modules work on which networks: 465 networks, 172 countries,… |
+| 2026-10-19 09:46:01 | [io.github.STiFLeR7/waypoint-mcp](https://github.com/STiFLeR7/waypoint-mcp) | Waypoint | 0.4.0 | One chart of your projects across Claude Code, Codex, Gemini CLI, Copilot CLI,… |
+| 2026-10-19 09:49:00 | tools.datapad/math-board | Math Board | 1.0.0 | Maths lessons on an online whiteboard: solutions, worksheets, graphs and geomet… |
+| 2026-10-19 09:51:25 | ai.sendshort/sendshort | SendShort | 0.6.0 | Turn long YouTube videos into shorts and music videos, and schedule posts to Ti… |
+| 2026-10-19 09:52:35 | com.letkite/letkite-dev | LetKite (dev) | 1.4.0-rc.6 | Run commands and manage files on your own machines. Needs a LetKite account; OA… |
+| 2026-10-19 09:53:29 | ai.caimera/workflows | Caimera | 1.0.0 | Build and run AI product photography workflows: on-model shots, catalog images,… |
+| 2026-10-19 09:57:06 | com.rewalto/mcp | Rewalto (preview) | 0.1.0-preview | Preview. Connect an agent to Indian data: prices and stock by pin, marketplace… |
+| 2026-10-19 10:01:36 | [studio.gradients/mcp](https://github.com/anusandhan/gradients-studio-mcp) | Gradients Studio | 1.1.0 | Gradient backgrounds with real grain, pixel and dither finishes. Free previews,… |
+| 2026-10-19 10:03:06 | [io.github.monietools/monie-tools](https://github.com/monietools/monie-tools) | Monie Tools: screenshots, PDF/OCR, Page… | 1.0.0 | Agent tools: clean web screenshots/PDFs, PDF & image OCR to Markdown, PageSpeed… |
+| 2026-10-19 10:03:26 | [io.github.monietools/email-verifier-bulk](https://github.com/monietools/monie-tools) | Bulk Email Verifier & Validator | 1.0.0 | Check emails for valid syntax, MX records, disposable and role addresses and ty… |
+| 2026-10-19 10:04:01 | [io.github.monietools/pagespeed-lighthouse-checker](https://github.com/monietools/monie-tools) | PageSpeed & Lighthouse Checker | 1.0.0 | Lighthouse scores, Core Web Vitals (LCP, CLS, INP/TBT) and top fixes for any UR… |
+| 2026-10-19 10:04:27 | [io.github.monietools/pdf-to-text-markdown-ocr](https://github.com/monietools/monie-tools) | PDF to Text & Markdown with OCR | 1.0.0 | PDF, DOCX and image URLs to clean, LLM-ready Markdown or text, with OCR for sca… |
+| 2026-10-19 10:04:48 | [io.github.monietools/website-screenshot-pdf](https://github.com/monietools/monie-tools) | Website Screenshot & PDF API (bulk + re… | 1.0.0 | Bulk website screenshots and PDFs with cookie banners removed; also a real-time… |
+| 2026-10-19 10:05:21 | [io.github.monietools/image-to-text-ocr](https://github.com/monietools/monie-tools) | Image to Text OCR | 1.0.0 | Extract text from PNG, JPEG, TIFF, WebP, BMP and GIF images with OCR in 27 lang… |
+| 2026-10-19 10:09:28 | [io.github.sunkimk/pinterest-mcp](https://github.com/sunkimk/pinterest-mcp) | Pinterest MCP | 1.0.1 | Search Pinterest, see pin images, find similar pins, read boards, download orig… |
+| 2026-10-19 10:12:23 | com.textforagents/shared-team-agent-memory | Shared team memory for agents | 1.0.0 | Shared project-scoped memory for agent teams: typed records, corroboration, han… |
+| 2026-10-19 10:13:02 | com.textforagents/agent-notams-hazard-bulletins | Agent NOTAMs: hazard bulletins for agen… | 1.0.0 | Signed, auto-expiring hazard bulletins for tools and APIs, with pre-flight chec… |
+| 2026-10-19 10:13:41 | com.fetchdelta/agent-tools | FetchDelta | 1.0.0 | Web Markdown, diffs, pricing and daily watches. Paid x402 Base USDC tools; free… |
+| 2026-10-19 10:19:36 | io.github.KumailQazi/krmaazha-binance-mcp | Binance (security-first) + crypto analy… | 1.2.2 | Security-first Binance MCP. 26 tools, human-confirmed spot trades, offline quan… |
 
 ## Data source
 
