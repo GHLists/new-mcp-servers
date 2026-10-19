@@ -1,0 +1,15 @@
+created_at,server,title,version,repository,transports,description
+2026-10-19T04:22:22.803195Z,com.paperplanepost/office,Paper Plane Post,1.0.0,,streamable-http,"Turn a photo into a real printed postcard, mailed anywhere. Returns a link to finish and pay."
+2026-10-19T04:22:28.959657Z,ai.satohub/onchain-agents,Sato Hub: Build Onchain & Crypto Agents,1.3.0,https://github.com/satohubai/onchain-agents,streamable-http,"Build any crypto agent: stack picks, x402 and ERC-8004 lookups, wallet-key checks, unsigned swaps."
+2026-10-19T04:26:13.016749Z,com.usethisskill/skills,Use This Skill,1.0.0,https://github.com/nodegenie/awesome-agent-skills,streamable-http,"Search 1,400+ agent skills for Claude Code, Codex and Cursor, with install commands and proofs."
+2026-10-19T04:35:37.013588Z,io.github.AENDYSTUDIO/ndp,NDP — Music Rights & Track Identification,1.0.0,https://github.com/AENDYSTUDIO/ndp-mcp,sse,"Music rights for AI: track identification by fingerprint, rights manifests, artist verification."
+2026-10-19T04:38:07.973635Z,top.sqmem/nuto,Nuto,0.1.98,,streamable-http,"A planner that keeps itself, with memory across AI agents."
+2026-10-19T04:38:59.624838Z,br.com.cartena/cartena,Cartena,1.0.0,,streamable-http,Acesse as ferramentas da API Cartena por MCP remoto com autenticação OAuth.
+2026-10-19T04:53:22.187601Z,dev.gmaps/gmaps,gmaps.dev,1.0.0,,streamable-http,"Find businesses by what they are and where they are, collect a whole city, and export the list."
+2026-10-19T04:54:17.616709Z,com.statusisdown/mcp,Status Is Down,1.0.0,,streamable-http,"Read-only outage intelligence: live service status, report history, geography and spikes"
+2026-10-19T04:54:31.614243Z,io.github.skakumanu/llm-pricing-mcp-server,LLM Pricing,1.73.2,https://github.com/skakumanu/llm-pricing-mcp-server,streamable-http,"Real-time, drift-verified LLM pricing across 26 providers with cost+quality model routing."
+2026-10-19T05:01:55.662933Z,org.metalcharts/metal-prices,MetalCharts,1.0.0,,streamable-http,"Live and historical metal prices, COMEX inventory, CFTC positioning and Shanghai premiums."
+2026-10-19T05:02:48.818582Z,io.github.formhaus-dev/formhaus,Formhaus,0.7.0,https://github.com/formhaus-dev/formhaus,,Validate Formhaus form definitions and simulate multi-step paths against the real engine.
+2026-10-19T05:10:30.150258Z,io.github.b-hash88/knownfix,KnownFix,0.6.0,https://github.com/b-hash88/knownfix,streamable-http,"Developer fixes, free skills, browser tools and scoped technical services over MCP."
+2026-10-19T05:17:04.221326Z,com.appnary/vigil,Vigil,0.1.0,,streamable-http,"Shopify store security: find risky scripts and apps, and turn them off from your AI agent."
+2026-10-19T05:17:33.826192Z,io.github.komakeule57-maker/frugal-memory,frugal-memory,0.1.2,https://github.com/komakeule57-maker/frugal-memory,,"Memory for AI assistants in one SQLite file: full-text search, no vectors, no embeddings."
