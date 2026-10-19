@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-10-19T20:25:15.099729Z,co.civai.nova/product-admin,Product Admin by Nova (CIVAI),1.0.0,,streamable-http,"I manage your Nova products, create/update/delete, payment & logistics config, icons, webhook secre…"
+2026-10-19T20:25:29.586764Z,ai.agentmash/agentmash,AgentMash,0.1.0,https://github.com/RamyaChinnadurai/agentmash-mcp,streamable-http,All your bookmarks in one library. Share them with your AI agents. Read-only search over your saves.
+2026-10-19T20:28:37.242211Z,io.github.Mvp2o-ai/cuttingfloor,cuttingfloor,0.19.2,https://github.com/Mvp2o-ai/cuttingfloor,streamable-http,"Video editing for AI agents: cuts, captions, audio, motion graphics, previews, and exports."
+2026-10-19T20:32:16.289566Z,is.how/domain-intel,how.is domain & IP intelligence,1.1.0,,streamable-http,"Pay-per-call DNS, WHOIS, domain age, TLS, email auth, blocklists, IP intel. Free samples."
+2026-10-19T20:33:09.325756Z,com.mintslips/mintslips,MintSlips,1.0.0,,streamable-http,"Model-priced sports picks, live in-game markets and graded results: chance, fair and max price."
+2026-10-19T20:36:26.94564Z,io.github.wingfoil/wingfoil,WingFoil,0.3.0,https://github.com/wingfoil/wingfoil,,WingFoil — the repo-native intent layer for AI-native software engineering
+2026-10-19T20:40:49.370798Z,com.gatherhq.www/agent-ratings,Gather Agent Ratings,1.0.0,,streamable-http,"Agent reviews of MCPs, APIs and apps by use case, speed, cost and reliability."
+2026-10-19T20:41:33.231027Z,io.github.IvanBBaev/servicenow-mcp-ai,,3.0.0,https://github.com/IvanBBaev/servicenow-mcp-ai,,"ServiceNow MCP server — 100 tools over the full REST surface, every auth method, flows, diagrams."
+2026-10-19T20:49:27.20581Z,io.github.Servosity/proxmox-mcp,Proxmox MCP,0.1.0,https://github.com/servosity/msp-skills,,"Read-only Proxmox VE and Backup Server: which client guests have a verified, recent restore point."
+2026-10-19T20:49:34.289719Z,io.github.oliverhruby/gramps-mcp,Gramps MCP MCP Server,0.2.1,https://github.com/oliverhruby/gramps-mcp,streamable-http,"MCP server for Gramps genealogy via the Gramps Web API: CRUD, search, merge, timelines, DNA."
+2026-10-19T20:52:06.846681Z,com.underanchor/underanchor,Underanchor,1.0.0,,streamable-http,Search your own PDF library and write LaTeX with every claim anchored to its source paragraph.
+2026-10-19T20:52:35.193074Z,io.github.sandoreclegane/inkvault,,0.3.4,https://github.com/sandoreclegane/inkvault,,"Local-first AI memory: search your Claude Code, Codex, Claude desktop, Pieces and browser history."
+2026-10-19T20:54:33.885718Z,com.temlavo/mcp,Temlavo,1.0.0,,streamable-http,"Extract accounting data from invoices, flag what needs review, and check your page usage."
+2026-10-19T20:57:20.546338Z,us.detritus/site-services,Detritus Site Services: Get a Quote,1.0.1,https://github.com/Detritus-LLC/detritus-main,streamable-http,"Quote US jobsite dumpsters, sanitation, storage, fencing, and utilities."
+2026-10-19T21:04:43.992928Z,com.pedalbro/pedalbro,PedalBro,1.0.0,,streamable-http,"Guitar pedal specs, new and used prices, price history, review scores, board checks, buying guides."
+2026-10-19T21:06:03.703134Z,co.godmodeai/sprites,God Mode AI Sprite Generator,1.1.0,,streamable-http; streamable-http,"Generate game sprite sheets and animations from an image, and clean up sprite backgrounds."
+2026-10-19T21:08:16.775699Z,com.signcustomiser/sign-customiser,Sign Customiser,1.2.0,,streamable-http,"Read and manage Sign Customiser stores: customisers, options, pricing, products and orders."
+2026-10-19T21:10:24.980659Z,io.github.screenrig/screenrig,screenRIG,1.0.0,,streamable-http,"Manage screenRIG screens, playlists, media, schedules, webhooks, and reports through MCP."
+2026-10-19T21:10:40.189472Z,com.redstonemarkets/redstone,Redstone Markets,1.0.0,,streamable-http,"Performance, risk, comparisons, backtests and screening for US stocks and ETFs, with charts."
+2026-10-19T21:12:18.78681Z,io.github.sanzation/obolus,Obolus,1.0.4,https://github.com/sanzation/obolus-finance-api,streamable-http,Read-only payroll calculations and multi-country tax comparisons for eight countries.
+2026-10-19T21:12:56.809053Z,io.github.Lynn-hh/armguard-mcp,armguard-mcp,0.1.0,https://github.com/Lynn-hh/armguard-mcp,,"Safety-first MCP server for ROS 2 robot arms: server-side safety envelope, human approval, audit"
+2026-10-19T21:14:08.93606Z,io.github.taraxe/aval,Aval,1.0.0,,streamable-http,Your agent asks you before it acts. You answer with one tap on your phone. Human-in-the-loop.
+2026-10-19T21:14:17.448923Z,io.github.taraxe/cachet,Cachet,1.0.0,,streamable-http,"Send real paper mail in France from your agent: letters, tracked and registered letters with AR."
