@@ -449,6 +449,9 @@
     "ai.promptarch/mcp",
     "ai.pubfi/mcp",
     "ai.pulsegate/provenance",
+    "ai.qompass/eigenstyle",
+    "ai.qompass/fathom",
+    "ai.qompass/phlow",
     "ai.qualityclouds/norma",
     "ai.quelta/quelta",
     "ai.quickcasa/quickcasa",
@@ -2263,6 +2266,7 @@
     "com.divineapi/western",
     "com.divingtechnics.indamix/indamix",
     "com.divingtechnics.indamixapp/indamix",
+    "com.dmarcshark/email-dns-checker",
     "com.dmarkoff/mcp",
     "com.dmca/dmca-cases",
     "com.dmparrot/dmparrot",
@@ -2990,6 +2994,7 @@
     "com.leaveloadingcalculator/site",
     "com.lebaneselegislation/mcp",
     "com.lebtechlb/lebtech",
+    "com.legalfournier/spain-legal",
     "com.legalheadquarters/legal-hq",
     "com.legitfit/legitfit",
     "com.legivel/legivel",
@@ -4577,6 +4582,7 @@
     "com.uptrusting/mcp",
     "com.upwork.mcp/upwork-mcp",
     "com.usanaru/schools",
+    "com.useagentbank/agentbank",
     "com.useauditoria.pilot/auditor-ia",
     "com.usebondery/mcp",
     "com.usebrayer/brayer",
@@ -8846,6 +8852,7 @@
     "io.github.cyanheads/federal-reserve-mcp-server",
     "io.github.cyanheads/fema-mcp-server",
     "io.github.cyanheads/finnhub-mcp-server",
+    "io.github.cyanheads/first-epss-mcp-server",
     "io.github.cyanheads/gbif-biodiversity-mcp-server",
     "io.github.cyanheads/gdelt-mcp-server",
     "io.github.cyanheads/geonames-mcp-server",
@@ -13324,6 +13331,7 @@
     "io.github.zguiyang/pi-task-exec",
     "io.github.zguiyang/pi-worker-mcp",
     "io.github.zh-xx/antu",
+    "io.github.zhamburger/forwanderingagents",
     "io.github.zhaoxinghua09-cell/medxpert-library-connector",
     "io.github.zhaoxinghua09-cell/medxpert-reg-connector",
     "io.github.zhaoxinghua09-cell/medxpert-standards-connector",
@@ -14484,6 +14492,7 @@
     "ru.dashamail/mcp",
     "ru.evafarmstore/evafarm",
     "ru.gentender/tenders",
+    "ru.infokmv/news",
     "ru.invisible-doors/doors-partitions",
     "ru.mm7.www/company",
     "ru.mnogo-reels/mnogoreels",
@@ -15210,11 +15219,11 @@
     "za.co.getlawed/sa-law"
   ],
   "list": {
-    "count": 16,
-    "from": "2026-10-18T22:20:34.983651Z",
-    "path": "data/new-mcp-servers-2026-10-18T23-19-59-082259Z.csv",
-    "to": "2026-10-18T23:19:59.082259Z"
+    "count": 9,
+    "from": "2026-10-18T23:19:59.082259Z",
+    "path": "data/new-mcp-servers-2026-10-19T00-19-58-450725Z.csv",
+    "to": "2026-10-19T00:19:58.450725Z"
   },
   "source_truncated": false,
-  "window": "2026-10-18T23:19:59.082259Z"
+  "window": "2026-10-19T00:19:58.450725Z"
 }

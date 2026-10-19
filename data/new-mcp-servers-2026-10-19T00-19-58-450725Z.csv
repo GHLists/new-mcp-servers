@@ -1,0 +1,10 @@
+created_at,server,title,version,repository,transports,description
+2026-10-18T23:33:55.946844Z,com.useagentbank/agentbank,AgentBank,1.0.0,,streamable-http,Crypto banking services for AI agents: collect money and pay bank accounts in local currency.
+2026-10-18T23:36:08.265405Z,com.legalfournier/spain-legal,Spain Legal by Legal Fournier,0.4.0,https://github.com/heyalerio/legalfournier-spain-legal-mcp,streamable-http,"Spain legal screening, articles, videos, interactive apps, public skills, and consent-based contact."
+2026-10-18T23:39:08.762139Z,io.github.cyanheads/first-epss-mcp-server,,0.1.1,https://github.com/cyanheads/first-epss-mcp-server,,"FIRST EPSS scores, score history, and CVE prioritization with caller-supplied severity."
+2026-10-18T23:45:54.920302Z,ru.infokmv/news,КМВ INFO — новости Кавминвод,1.0.0,,streamable-http,"Local news of Caucasian Mineral Waters and Stavropol, Russia: incidents, outages, fuel, events"
+2026-10-18T23:59:30.807985Z,com.dmarcshark/email-dns-checker,DMARC Shark — Email DNS Checker,1.0.0,https://github.com/skatkov/dmarcshark,streamable-http,"Check a domain's public SPF, DMARC, MX and DKIM DNS records on demand. No account required."
+2026-10-19T00:10:28.101676Z,ai.qompass/fathom,Fathom,0.1.0,https://github.com/qompassai/fathom,,"Reverse-engineering tools for agents over MCP/A2A, with evidence-carrying findings."
+2026-10-19T00:11:02.558992Z,ai.qompass/eigenstyle,Eigenstyle,0.1.0,https://github.com/qompassai/eigenstyle,,"MCP server for a personal voice profile: corpus, fingerprint, and draft-checking tools."
+2026-10-19T00:11:31.7446Z,io.github.zhamburger/forwanderingagents,For Wandering Agents,1.0.0,https://github.com/zhamburger/forwanderingagents,streamable-http,Read-only status and approved guestbook messages from an experiment in AI-agent discovery.
+2026-10-19T00:11:32.543764Z,ai.qompass/phlow,Phlow MCP Server,0.2.0,https://github.com/qompassai/phlow,,MCP server for the phlow agent runtime: bounded planner-coder-reviewer agent workflows.
