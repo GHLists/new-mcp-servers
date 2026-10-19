@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-10-19T14:21:37.317567Z,com.stayotter/stay-otter,Stay Otter,1.0.0,,streamable-http,"Verified stays with receipts: live totals from Booking.com, Vrbo and Expedia, checked on the map."
+2026-10-19T14:22:41.484744Z,dev.ergodic.welt/welt,Welt,1.0.0,,streamable-http,"Run Welt's tabular, causal and forecasting models on your data. Hosted; OAuth sign-in."
+2026-10-19T14:24:42.964876Z,io.github.bersimao/b1-mcp-server,SAP Business One (b1-mcp),1.5.1,https://github.com/bersimao/b1-mcp-server,,Secure MCP server for SAP Business One database (HANA / MS SQL) and Service Layer operations
+2026-10-19T14:25:06.135747Z,io.github.MagneticSnake/genesis-memory,,1.0.0,,streamable-http,"Provenance-carrying memory for AI agents: corrections supersede, never overwrite. Free, API + MCP."
+2026-10-19T14:25:34.826336Z,io.github.plugolis/plugolis-mcp,Plugolis,0.1.1,https://github.com/plugolis/plugolis-mcp,,Search the Plugolis directory of MCP servers and step-by-step fixes for common MCP errors.
+2026-10-19T14:26:09.771078Z,eu.emendrix/emendrix,emendrix,0.1.0,,streamable-http,"Verified changes to watched EU acts, read-only, with each fact's source."
+2026-10-19T14:26:27.626927Z,com.paddle/mcp-sandbox,Paddle (Sandbox),0.1.0,,streamable-http,"Test Paddle Billing in sandbox: pricing, subscriptions, payments, webhooks and event simulations."
+2026-10-19T14:26:49.561396Z,com.paddle/mcp,Paddle,0.1.0,,streamable-http,"Query and manage Paddle Billing: pricing, subscriptions, payments, revenue reports and webhooks."
+2026-10-19T14:31:25.958734Z,app.flashift/mcp-server,Flashift,1.0.0,https://github.com/flashift/flashift-mcp-server,streamable-http,"Zero-key, non-custodial cross-chain crypto swap aggregator for AI agents: 100+ chains, 15+ providers"
+2026-10-19T14:31:33.478593Z,com.slanglane/dictionary,"SlangLane — Internet English, decoded.",1.0.0,,streamable-http,"Sourced internet slang and usage, including labeled non-graphic adult vocabulary."
+2026-10-19T14:33:20.723634Z,works.nessie/nessie,Nessie,1.1.0,,streamable-http,"Work in Nessie as yourself: boards and tickets, documents, and Clients."
+2026-10-19T14:36:11.173535Z,io.github.gethamster/hamster,Hamster,0.1.1,https://github.com/gethamster/plugin,streamable-http,"Search and manage Hamster briefs, tasks, plans, and knowledge; trigger delivery from your agent."
+2026-10-19T14:38:01.374145Z,fyi.fyn/finance,FYN,1.0.0,https://github.com/fynfyi/agent-skill,streamable-http,"Personal finance for AI agents: budgets, receipts, net worth, spend checks. Read-only OAuth."
+2026-10-19T14:38:23.353284Z,dev.actas/accounts,ActAs,0.4.0,,streamable-http,"Persistent identity, email, saved accounts and scoped credentials for AI agents."
+2026-10-19T14:41:54.163803Z,ai.kaiv/postgres,,0.1.0,https://github.com/ai-kaiva/postgres-mcp,,Read-only PostgreSQL MCP server. Drop-in replacement for the archived server-postgres.
+2026-10-19T14:45:22.103315Z,br.com.softoteca/catalogo,Softoteca,1.0.0,,streamable-http,"Catálogo de software do Brasil: fichas com a origem de cada dado, preços em reais e comparação."
+2026-10-19T14:48:25.821789Z,com.skyfarenet/flights,SkyFareNet: cheap flights for Pakistan,1.0.0,,streamable-http,"Flight fares, ticket prices, baggage rules and Umrah/Hajj dates for travel to and from Pakistan"
+2026-10-19T14:48:35.429086Z,ai.re-agents/mcp,Re-Agents MCP,0.1.0,,,Re-Agents.ai tools for AI agents: website audits and your approved company knowledge.
+2026-10-19T14:48:44.372234Z,io.github.butyavk/tracker-mcp,Job-application tracker,0.3.0,https://github.com/butyavk/tracker-mcp,,"Your job-application tracker in Excel, CSV or Google Sheets: follow-ups, funnel, confirmed writes"
+2026-10-19T14:50:52.613155Z,com.anweshna/risk-screening,Anweshna Risk Screening,1.0.0,,streamable-http,Screen M&A deal documents for red flags across 15 risk categories; findings checked against source.
+2026-10-19T14:52:01.80803Z,io.github.zebudata/travel-data,Zebu Data - TripAdvisor Travel Data,1.0.0,https://github.com/zebudata/claude-plugins,streamable-http,"TripAdvisor hotels, restaurants and attractions: rankings, ratings, prices, amenities and reviews."
+2026-10-19T14:52:20.126516Z,ai.hashgrid/dna,Hashgrid DNA,1.1.0,,streamable-http,"A search engine that learns from feedback, over embeddings: one tool per API route."
+2026-10-19T14:53:36.400408Z,ai.quarri/quarri,Quarri,1.0.0,,streamable-http,"AI data platform for timber: connect legacy systems, query, build dashboards, reconcile, automate."
+2026-10-19T14:55:58.679357Z,io.github.Kernel-Hunter/kandle,Kandle,0.2.2,https://github.com/Kernel-Hunter/kandle,,"Read and draw on a live crypto, stock or forex chart, run scripts and backtests."
+2026-10-19T14:56:35.625173Z,io.github.Ideelab/uisandbox,UISandbox,0.4.0,https://github.com/Ideelab/uisandbox,,"Play with your app's design in the browser: load a build, turn the knobs, export the code."
+2026-10-19T14:59:22.975823Z,dev.pages.datanest-stores/store,,1.0.1,https://github.com/inity13/digital-stores,streamable-http,"Search and preview Datanest developer products, then prepare buyer-authorized Stripe Checkout."
+2026-10-19T15:00:02.266879Z,io.github.blockchainacademics/mcp,,0.6.1,https://github.com/blockchainacademics/bca-mcp,,"Crypto MCP — 104 tools across news, market, on-chain, sentiment, indicators, agent generation."
+2026-10-19T15:03:58.654632Z,io.github.SupportPages-io/wtfm,WTFM,0.5.5,https://github.com/SupportPages-io/wtfm,,"Your coding agent writes the user docs from your codebase, screenshots included."
+2026-10-19T15:06:38.918718Z,io.github.petros-poli/wesupport-ai,WeSupport-AI,0.1.0,https://github.com/petros-poli/AICS-public,,"Read-only AICS onboarding, agent discovery, public forum, identity and transparency-log tools."
+2026-10-19T15:08:17.938035Z,dev.svelte/mcp,Svelte MCP,0.1.27,https://github.com/sveltejs/ai-tools,streamable-http,The official Svelte MCP server providing docs and autofixing tools for Svelte development
+2026-10-19T15:08:53.246976Z,com.toolgrep/toolgrep,toolgrep,0.2.0,,streamable-http,"Find developer tools, APIs, MCP servers and SaaS by need, with pricing, free tier and API facts."
+2026-10-19T15:12:54.976926Z,com.storycaptures/storycapture,StoryCapture,0.1.0,https://github.com/ducminhle1904/StoryCapture,,"Write, rehearse, record and publish demo videos of a website with the StoryCapture desktop app."
