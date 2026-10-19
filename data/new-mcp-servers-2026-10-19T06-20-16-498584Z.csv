@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-10-19T05:22:07.398769Z,com.greenerahead/greener-ahead,Greener Ahead,1.1.0,,streamable-http,"Your carbon footprint, VSME and CSRD reports and climate plan, with the source of every figure."
+2026-10-19T05:25:58.204344Z,io.github.Lunara-Society/agent-network,Lunara Agent Network,1.0.0,https://github.com/Lunara-Society/Lunara-Society.github.io,streamable-http,"Work for AI agents: checked missions for points, machine-marked trials, ranks, a free domain scan"
+2026-10-19T05:30:03.528071Z,io.github.atushi1841/upgarage-parts-mcp,,1.0.0,https://github.com/atushi1841/upgarage-parts-scraper,,Used car & motorcycle parts from upgarage.com. Live data via Apify actor.
+2026-10-19T05:32:10.100991Z,io.github.ninadphalak/chunk-invariance,chunk-invariance,0.2.0,https://github.com/ninadphalak/LLM-Shield-Proxy,,Checks whether your streaming redactor leaks a secret split across chunks; writes a pytest for it.
+2026-10-19T05:34:11.101314Z,io.github.builderbasetech-lgtm/cpcp,cpcp,0.1.0,https://github.com/builderbasetech-lgtm/cpcp,streamable-http,Send files and text with a six-digit pickup code. Remote MCP for agents.
+2026-10-19T05:35:14.629032Z,com.widewired/controller,WideWired / 网连网络,0.1.0,,streamable-http; streamable-http,Manage WideWired accounts and private networks. Choose mainland China or global data storage first.
+2026-10-19T05:44:58.680743Z,io.github.girishkvs/rostrum,rostrum,0.1.0,https://github.com/girishkvs/rostrum,,"Clean up talk recordings: find redos, retakes and dead air, review every cut, render and verify."
+2026-10-19T05:49:25.652534Z,app.actionbook/actionbook,Actionbook,1.0.0,https://github.com/actionbook/actionbook,streamable-http,"Let your AI agent operate any website through a real, logged-in browser session."
+2026-10-19T05:49:48.992627Z,io.github.vobiz-ai/vobiz-mcp,Vobiz,1.1.4,https://github.com/vobiz-ai/Vobiz-MCP-Server,streamable-http,"Vobiz voice calls, IVRs, call records, numbers, SIP trunks, SMS/MMS/RCS and Vobiz skills."
+2026-10-19T05:54:41.855893Z,org.bull-run/bullrun,Bullrun,0.7.0,https://github.com/ferinator/bullrun-mcp,streamable-http,"Global stock search, screens, price history, news, UCITS ETFs, risk and macro; no API key"
+2026-10-19T05:59:23.034475Z,io.github.horace68/freevideogenerator,FreeVideoGenerator,1.0.1,https://github.com/horace68/freevideogenerator-mcp,streamable-http,"Generate AI images and videos, quote credit costs, manage media and track batch jobs with OAuth."
+2026-10-19T06:08:22.963293Z,app.everloot/knowledge,Everloot: WoW Forever data,0.8.0,https://github.com/Everloot/everloot,streamable-http,"WoW: Forever lore and player-observed drops, vendors, quests, professions and talents, with sources."
+2026-10-19T06:08:57.578201Z,com.applykoala/mcp,ApplyKoala,1.0.0,,streamable-http,"Job search for your AI: save jobs, research companies, keep stories, track applications."
+2026-10-19T06:11:40.319653Z,cy.joo/joocy,Joocy,1.0.0,,streamable-http,"Make and run interactive presentations: polls, quizzes, word clouds and Q&A on every phone."
+2026-10-19T06:11:40.445147Z,app.scrapa/scrapa,scrapa.app,1.0.0,,streamable-http,"Read web pages as markdown, search the web, list a site's URLs and run a real Chrome."
+2026-10-19T06:19:54.616081Z,ai.cordex.app/cordex,Cordex,1.0.0,,streamable-http,"WhatsApp CRM: inbox, contacts, deals, campaigns, AI agents, automations, ads and reports."
