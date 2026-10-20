@@ -9,39 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 12:22 UTC
+## Latest list — 2026-10-20 13:21 UTC
 
-New MCP servers published between 2026-10-20 11:21 UTC and 2026-10-20 12:22 UTC.
+New MCP servers published between 2026-10-20 12:22 UTC and 2026-10-20 13:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-20T12-22-31-193813Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-20T13-21-09-70294Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-20 11:21:41 | net.chorushq/chorus | Chorus | 1.30.0 | Run ad campaigns on Meta, Google Ads and LinkedIn from your assistant. Spend wa… |
-| 2026-10-20 11:25:47 | [io.github.infolegalge/legal-ge](https://github.com/infolegalge/legal.ge-mcp) |  | 0.2.0 | Find verified legal specialists in Georgia from natural-language queries. Trili… |
-| 2026-10-20 11:28:55 | [io.github.alphaparkinc/genpark-agent-state-snapshot-time-travel-skill](https://github.com/alphaparkinc/genpark-agent-state-snapshot-time-travel-skill) | GenPark Agent State Snapshot & Time-Tra… | 1.0.1 | Agent conversation state snapshotting and time-travel rollback engine pruning d… |
-| 2026-10-20 11:29:06 | [io.github.alphaparkinc/genpark-jinja-like-prompt-template-renderer-skill](https://github.com/alphaparkinc/genpark-jinja-like-prompt-template-renderer-skill) | GenPark Jinja-Like Prompt Template Rend… | 1.0.1 | Safe zero-dependency Jinja-like prompt template parser and renderer supporting… |
-| 2026-10-20 11:29:15 | [io.github.alphaparkinc/genpark-multi-source-openapi-router-mesh-skill](https://github.com/alphaparkinc/genpark-multi-source-openapi-router-mesh-skill) | GenPark Multi-Source OpenAPI Router Mesh | 1.0.1 | Aggregates multiple OpenAPI specifications into a unified virtual routing mesh… |
-| 2026-10-20 11:29:26 | [io.github.alphaparkinc/genpark-entropy-hallucination-detector-skill](https://github.com/alphaparkinc/genpark-entropy-hallucination-detector-skill) | GenPark Entropy Hallucination Detector | 1.0.1 | Token entropy and n-gram perplexity analyzer auditing LLM outputs for degenerat… |
-| 2026-10-20 11:29:33 | [io.github.alphaparkinc/genpark-concurrency-semaphore-guard-skill](https://github.com/alphaparkinc/genpark-concurrency-semaphore-guard-skill) | GenPark Concurrency Semaphore Guard | 1.0.1 | In-memory concurrency leaky-bucket and fair semaphore guard protecting downstre… |
-| 2026-10-20 11:29:37 | io.github.akshitkrnagpal/toolstile | Toolstile | 1.0.0 | Managed MCP gateway with OAuth, per-agent permissions, shared accounts and acti… |
-| 2026-10-20 11:36:35 | [io.github.ricrio-inc/plainhub](https://github.com/ricrio-inc/plainhub) |  | 1.5.2 | Open files and diffs from your agent in PlainHub, and keep a shared ledger in y… |
-| 2026-10-20 11:38:57 | com.leadsranger/leads-ranger | Leads Ranger | 1.0.0 | Find local businesses with real emails and run AI-written outreach to them, fro… |
-| 2026-10-20 11:43:59 | [com.scento/perfume-compendium](https://github.com/Scento-com/perfume-compendium) | Scento Perfume Compendium | 1.0.0 | Perfume knowledge for AI assistants: perfumes, raw materials and a family map.… |
-| 2026-10-20 11:52:28 | au.com.campwatch/campwatch | CampWatch | 0.4.0 | Australian campground search, availability and phone-linked alerts using existi… |
-| 2026-10-20 11:52:55 | is.did/mcp | DID.is evidence | 0.1.0 | Read-only checks for DIDs, credentials, MCP servers, A2A cards and agent delega… |
-| 2026-10-20 11:57:31 | [io.github.sepehr071/iran-tax-mcp](https://github.com/sepehr071/iran-tax-mcp) | Iran Tax | 0.1.0 | Unofficial read-only Iranian tax: goods IDs and VAT, activity codes, property v… |
-| 2026-10-20 11:57:50 | [io.github.sepehr071/iran-news-mcp](https://github.com/sepehr071/iran-news-mcp) | Iran News RSS | 0.1.0 | Unofficial read-only Iranian news: Mehr, Khabaronline, Hamshahri, Tabnak, Zoomi… |
-| 2026-10-20 11:57:54 | [io.github.sepehr071/basalam-mcp](https://github.com/sepehr071/basalam-mcp) | Basalam | 0.1.0 | Unofficial read-only Basalam marketplace: search products, cheapest offers, sho… |
-| 2026-10-20 12:02:04 | dev.aidown/status | AI Down: live AI service status | 0.1.0 | Is Claude, ChatGPT, Gemini, Cursor or Copilot down? Live status from API probes… |
-| 2026-10-20 12:07:31 | [io.github.sepehr071/iran-quake-mcp](https://github.com/sepehr071/iran-quake-mcp) | Iran Earthquakes | 0.1.0 | Unofficial read-only Iran earthquakes: latest, search, strongest, detail, stats… |
-| 2026-10-20 12:07:40 | [io.github.sepehr071/tgju-mcp](https://github.com/sepehr071/tgju-mcp) | TGJU Prices | 0.1.0 | Unofficial read-only TGJU: live Iranian gold, coin, currency and crypto prices… |
-| 2026-10-20 12:07:43 | [io.github.sepehr071/tapsifood-mcp](https://github.com/sepehr071/tapsifood-mcp) | Tapsi Food | 0.1.0 | Unofficial read-only Tapsi Food: search dishes and restaurants, menus, reviews,… |
-| 2026-10-20 12:14:17 | com.privatrak/analytics | Privatrak | 1.11.0 | Ask your website analytics in plain language and set up funnels, features and d… |
-| 2026-10-20 12:16:43 | com.historyofmarket/market-history | History of Market | 1.0.0 | Read-only U.S. stock market history: S&P 500 since 1928, CAPE, drawdowns, index… |
-| 2026-10-20 12:16:57 | [io.github.sepehr071/qavanin-mcp](https://github.com/sepehr071/qavanin-mcp) | Qavanin | 0.1.0 | Unofficial read-only qavanin.ir: search Iranian laws and regulations, read full… |
-| 2026-10-20 12:19:22 | com.tickerlayer/market-data | TickerLayer Market Data | 0.3.0 | Live and historical market data for stocks, forex, crypto, indices, ETFs, commo… |
-| 2026-10-20 12:20:54 | dk.powerquant/eu-ai-act |  | 1.0.0 | Read-only EU AI Act tools: Annex III scope, Article 50 check, sourced facts, sh… |
+| 2026-10-20 12:22:40 | de.inspectius-re/grundstuecksdaten | Inspectius | 1.0.0 | German property data per address, mostly from public authorities: parcel, land… |
+| 2026-10-20 12:28:27 | dev.easytdd/easytdd | EasyTdd | 6.0.2 | Generate C# builders, FluentMocks, tests and test cases from your .NET solution. |
+| 2026-10-20 12:32:23 | [io.github.jaronskijakub/fatsecret-mcp](https://github.com/jaronskijakub/fatsecret-mcp) |  | 0.1.0 | Unofficial, self-hosted MCP server for logging food into a FatSecret food diary… |
+| 2026-10-20 12:33:28 | eu.gnav/mcp | Grocery Navigator | 1.0.0 | Grocery lists, recipes, menu plan, household, supermarket offers and receipt ph… |
+| 2026-10-20 12:42:44 | cloud.postdata/postdata | PostData | 2.3.1 | No-signup IoT backend: device names, sensor readings, history and live charts.… |
+| 2026-10-20 12:43:11 | [io.github.seadonggyun4/truthound](https://github.com/seadonggyun4/truthound) | Truthound | 3.2.0 | Validate local data files, summarize profiles and detect PII without returning… |
+| 2026-10-20 12:44:17 | [com.xhostd/mcp](https://github.com/xhostd/xhostd-sdk) | xhostd | 0.70.0 | Agent-first hosting: create apps, push code, and deploy to HTTPS URLs from your… |
+| 2026-10-20 12:45:04 | com.mailfloss/mailfloss | mailfloss | 1.0.0 | Email verification for AI agents: verify addresses and lists, check credits, ma… |
+| 2026-10-20 12:45:21 | [io.github.gleanery-works/job-and-supplier-data](https://github.com/gleanery-works/job-and-supplier-data-mcp) | Job Market & EU Supplier Data | 1.0.0 | Live company job postings from 11 ATS, Wellfound startup jobs and European B2B… |
+| 2026-10-20 12:47:18 | dev.domainref/domainref | DomainRef - domain and email security c… | 1.0.0 | Pay-per-call domain and email security check: SPF, DKIM, DMARC, TLS, DNSSEC, BI… |
+| 2026-10-20 12:48:50 | ai.autovox/autovox | Autovox | 0.1.0 | Make podcast episodes, series and shows from your mail, notes, files and code.… |
+| 2026-10-20 12:49:23 | eu.cbamdata/cbam | CBAM Data | 1.0.0 | EU CBAM engine (Reg (EU) 2023/956): scope, default emissions, certificates and… |
+| 2026-10-20 12:50:56 | io.github.akhilrajesh213/app-store-reviews | App Store Reviews (reviews, ratings, ch… | 0.1.15 | App Store reviews for AI agents: reviews by country, app details, keyword ranks… |
+| 2026-10-20 12:50:56 | io.github.akhilrajesh213/google-play-reviews | Google Play Reviews (reviews, installs,… | 0.1.13 | Google Play reviews for AI agents: reviews by language, app details, keyword ra… |
+| 2026-10-20 12:53:45 | [io.github.carnation77/npa-vanguard](https://github.com/carnation77/npa-vanguard) | 先机 NPA Vanguard（远程版） | 0.1.0 | 为 AI Agent 服务的不良资产数据层 MCP Server。三源 21496 条（银登/公拍网/北交所），提供标的搜索、详情查询、最新挂牌监控三个工具，… |
+| 2026-10-20 12:55:31 | [io.github.fedora-copr/logdetective-mcp](https://github.com/fedora-copr/logdetective-mcp) | Log Detective MCP | 0.5.2 | MCP server providing log snippet and Python traceback extraction tools. |
+| 2026-10-20 12:56:24 | io.github.CristianFagarasan/firmoscop | Firmoscop | 0.4.0 | Romanian companies: search, CUI risk verdict and prospect lists from official O… |
+| 2026-10-20 13:00:47 | com.isitabizday/hotel-fact-graph | Hotel Fact Graph | 0.1.0 | Dated, cited hotel facts from hotels' own sites and official registers, Portuga… |
+| 2026-10-20 13:03:34 | dev.apimock/apimock | APIMock | 1.2.0 | Hosted mock APIs: endpoints, stateful CRUD resources, OpenAPI import, request d… |
+| 2026-10-20 13:09:49 | [io.github.liyooh007/bazi-chart](https://github.com/liyooh007/bazi-chart) | bazi-chart | 1.1.1 | Chinese BaZi Four Pillars engine: precise solar terms, true-solar-time, lunar,… |
+| 2026-10-20 13:14:18 | com.citysignalai/citysignal | CitySignal AI | 1.0.0 | Live road, transit, weather, power and water signals for US cities, plus your o… |
+| 2026-10-20 13:17:47 | fr.rendita/rendita | rendita | 0.1.0 | French dividends read in the filings (BALO, AMF): amount, ex-date, payment date… |
 
 ## Data source
 
