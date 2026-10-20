@@ -1,0 +1,12 @@
+created_at,server,title,version,repository,transports,description
+2026-10-19T23:24:13.296366Z,io.github.pahaa97/seonix,Seonix,1.0.0,,streamable-http,"Automated SEO: Site Health, fix plan, Search Console, keywords and draft scoring for AI agents."
+2026-10-19T23:24:15.777538Z,io.github.embot-lantern/poa-agent-kit,PoA Agent Kit,0.1.0,https://github.com/embot-lantern/poa-agent-kit,,Python client and stdio MCP tools for agents on the experimental PoA network (minepoa.com).
+2026-10-19T23:32:55.430146Z,io.github.edulelis/moonlight-desktop-mcp,Moonlight Desktop MCP,0.9.1,https://github.com/edulelis/moonlight-desktop-mcp,,Visual Windows desktop control over Moonlight/GameStream for MCP clients and coding agents
+2026-10-19T23:35:22.289304Z,ai.inite/inite-visibility,INITE,2.0.0,https://github.com/inite-ai/inite-visibility,streamable-http,"INITE for agents: services and booking, AI visibility audit, an Atlas of AI tools. Token optional."
+2026-10-19T23:42:28.483037Z,io.github.G36maid/moodle-mcp,,0.2.1,https://github.com/G36maid/moodle-mcp,,"Moodle LMS for LLM agents — courses, assignments, files, submissions in one static binary."
+2026-10-19T23:47:07.280451Z,io.github.wu736139669/toolpantry-mcp,Tool Pantry,1.1.0,https://github.com/wu736139669/toolpantry-mcp,streamable-http,"Find and use 216 free browser tools for PDF, images, video, audio and text that run locally."
+2026-10-19T23:53:27.092485Z,com.loadster/loadster-mcp,Loadster,1.3.0,https://github.com/loadster/loadster-mcp,streamable-http,"Load testing and synthetic monitoring platform: test with Playwright, Browser Bot, or Protocol Bots."
+2026-10-20T00:01:23.961675Z,com.zip-codes/api,"Zip-Codes.com Location Intelligence: Spatial Analysis, Districts & 14+ Years of Demographics",1.0.0,https://github.com/ZIP-Codes-API/zip-codes-mcp,streamable-http,"Validate & geocode a US address; enrich with demographics, districts, counties, schools & much more."
+2026-10-20T00:04:54.73162Z,io.github.SCDOLAB/scdo-agent-mcp,,0.1.0,https://github.com/SCDOLAB/scdo-agent-plugins,,"SCDO per-agent x402 wallet: Base USDC payments, signed heartbeats and booked income."
+2026-10-20T00:08:30.79282Z,io.github.anishchugh05/mnemolith,Mnemolith,0.2.0,https://github.com/anishchugh05/mnemolith,,Shared local memory for AI coding tools that stays true to your code.
+2026-10-20T00:11:04.031092Z,io.github.cyanheads/datamuse-mcp-server,,0.1.1,https://github.com/cyanheads/datamuse-mcp-server,,"Find rhymes, synonyms, sound-alikes, spelling matches, and word associations with Datamuse."
