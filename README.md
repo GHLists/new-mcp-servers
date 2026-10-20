@@ -9,41 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 09:20 UTC
+## Latest list — 2026-10-20 10:21 UTC
 
-New MCP servers published between 2026-10-20 08:20 UTC and 2026-10-20 09:20 UTC.
+New MCP servers published between 2026-10-20 09:20 UTC and 2026-10-20 10:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-20T09-20-01-046122Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-20T10-21-03-12491Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-20 08:21:13 | com.deltastring/beacon |  | 845425bd | Zendesk configuration management for AI agents: propose, review, apply and roll… |
-| 2026-10-20 08:22:41 | [io.github.igrlk/uiverify](https://github.com/uiverify/uiverify) | UI Verify | 1.1.0 | MCP server for visual regression testing: triage a PR's UI diffs from your codi… |
-| 2026-10-20 08:24:02 | io.github.danha2048/tde | TDE | 1.0.0 | Prices a trade deal month by month: what an order does to your cash, and what t… |
-| 2026-10-20 08:31:24 | com.addsynapse/woocommerce | Store Manager for WooCommerce | 1.0.0 | Run a WooCommerce store from Claude: reports, SEO, prices, stock. You approve e… |
-| 2026-10-20 08:31:40 | ai.boon/boon | Boon | 1.0.0 | Run pursuits, answer decisions, handle inbound requests and manage your front d… |
-| 2026-10-20 08:32:13 | [com.samebase/samebase](https://github.com/samebase/plugin) | Samebase | 0.3.6 | Build and manage repository-backed web apps with Samebase, GitHub, Convex, and… |
-| 2026-10-20 08:32:42 | [io.github.lukehollis/spacery](https://github.com/lukehollis/spacery) | Spacery | 0.2.2 | Publish 3D scans, Gaussian splats and 360 tours as shareable spaces, and build… |
-| 2026-10-20 08:34:35 | com.letkite/letkite | LetKite | 1.5.0 | Run commands and manage files on your own machines. Needs a LetKite account; OA… |
-| 2026-10-20 08:40:05 | com.claude.platform/docs | Claude Platform Docs | 1.0.0 | Search and read the Claude documentation and API reference. |
-| 2026-10-20 08:42:23 | so.atwork/workspace | Atwork | 1.0.0 | Plug your agency's workspace into Claude or ChatGPT: sheets, tasks and pages, o… |
-| 2026-10-20 08:44:50 | [io.github.altoninelli/selfpaid](https://github.com/altoninelli/selfpaid-mcp) | SelfPaidPal — Autonomous DeFi Payments | 2.1.3 | Zero-net-cost payments on Base Mainnet powered by automated Aave V3 & Morpho yi… |
-| 2026-10-20 08:47:07 | fr.signamail/signamail | SignaMail | 1.0.0 | Email signatures for French businesses: HTML generator, legal mentions per job,… |
-| 2026-10-20 08:49:01 | [io.github.AI-osho/godot-mcp-loop](https://github.com/AI-osho/godot-mcp-loop) | Godot MCP Loop | 0.9.0 | Drive a live Godot 4 editor: edit scenes and scripts, run and test the game, re… |
-| 2026-10-20 08:49:06 | [io.github.Servosity/td-synnex-mcp](https://github.com/servosity/msp-skills) | TD SYNNEX MCP | 0.1.0 | StreamOne ION reseller API plus a local licence book: renewals, margin, seat tr… |
-| 2026-10-20 08:57:17 | dev.flostep/flostep | Flostep | 1.0.0 | Turn a flow written as text into a step-through diagram you can share, present… |
-| 2026-10-20 08:58:25 | com.tublish/tublish | Tublish | 1.0.0 | Your Tublish account in the chat: post everywhere, send videos, change your car… |
-| 2026-10-20 09:02:21 | [com.dougalpaw/pawpulse](https://github.com/dougal-paw/pawpulse) | Paw Pulse | 0.3.0 | Heartbeat and tokens/sec monitoring for self-hosted LLM servers (Ollama etc.),… |
-| 2026-10-20 09:02:56 | au.com.scaleupconsulting/sharemates | Sharemates | 0.1.0 | Read your Sharetribe marketplace's listings, users, transactions and events thr… |
-| 2026-10-20 09:05:08 | [io.github.lucasmartins-ai/lcc](https://github.com/lucasmartins-ai/lcc) | lcc — Local Context Compiler | 1.2.0 | Compact agent context verbatim, offline: cut spent tool outputs, recall them by… |
-| 2026-10-20 09:07:31 | [com.mireye/earth](https://github.com/Mireye-Labs/mireye-earth-mcp) |  | 0.6.0 | MCP server for Mireye Earth — federal-source-cited geospatial data for any MCP-… |
-| 2026-10-20 09:08:31 | io.github.VolcVneBotTeam/iga-pages-mcp | IGA Pages | 1.0.0 | IGA Pages MCP server |
-| 2026-10-20 09:08:50 | [io.github.karank2512/tell-mcp](https://github.com/karank2512/tell-ai) | tell: buying signals with receipts | 0.1.0 | Ask tell which accounts are in market and why, with a receipt URL behind every… |
-| 2026-10-20 09:12:30 | [io.github.ies86/shortlist-price-index](https://github.com/ies86/shortlist-mcp) | Shortlist Price Index | 1.2.1 | Software prices for AI agents: hosting, SEO, backup, antivirus, email and more.… |
-| 2026-10-20 09:15:59 | [io.github.Rakesh1002/namemyapp](https://github.com/Rakesh1002/namemyapp-mcp) |  | 1.1.8 | Brandable business names with live domain availability + one-click buy URLs. |
-| 2026-10-20 09:18:03 | [io.github.kochetkov-ma/brewpage-mcp](https://github.com/kochetkov-ma/brewpage-openapi) |  | 1.9.4 | Publish HTML, Markdown, sites, KV, JSON and files on BrewPage; keep the returne… |
-| 2026-10-20 09:19:28 | com.specita/release-evidence | Specita | 1.0.0 | Read-only release evidence for coding agents: findings, deliveries, source and… |
-| 2026-10-20 09:19:52 | org.aspern/aspern |  | 1.1.0 | What the chain records about an address before you pay it, and whether a paymen… |
+| 2026-10-20 09:20:55 | app.flowmaps/flowmaps | Flowmaps | 1.0.0 | Plan apps in build order: list ventures and ready features, add ideas, read bui… |
+| 2026-10-20 09:26:15 | io.github.VideoTranscriberAI/videotranscriber | Video Transcriber AI | 1.0.0 | Transcribe public audio/video URLs and retrieve transcripts, SRT, and VTT subti… |
+| 2026-10-20 09:28:49 | domains.199/marketplace | $199 Domains marketplace | 1.0.0 | Search and price-check brandable and keyword domains for sale at fixed prices o… |
+| 2026-10-20 09:29:03 | io.github.AlexMikhalev/terraphim-skills |  | 0.1.2 | Anonymous catalogue of curated agent skills (SKILL.md); premium bodies via OAut… |
+| 2026-10-20 09:29:12 | io.github.FortripEngineering/fortrip-hotels | Fortrip Hotels | 1.0.1 | Search hotels worldwide, compare live room rates, and create booking payment li… |
+| 2026-10-20 09:32:40 | io.github.penguinradar/penguinradar | PenguinRadar | 0.1.0 | Instagram profiles, follower/following snapshots and changes, with budgeted pub… |
+| 2026-10-20 09:38:52 | [io.github.metadist/synaplan](https://github.com/metadist/synaplan) | Synaplan | 5.5.0 | Self-hosted AI workspace: semantic RAG document search, long-term memory, and A… |
+| 2026-10-20 09:40:13 | de.ferienhausmiete/guest | Ferienhausmiete.de – Ferienwohnungen &… | 1.0.0 | Search 18,000+ privately owned holiday homes on Ferienhausmiete.de: exact stay… |
+| 2026-10-20 09:43:30 | com.focalgraph/signal | FocalGraph Signal | 1.0.0 | Car dealer GA4 analytics: traffic, ASC event audits, verified households, DMS s… |
+| 2026-10-20 09:48:51 | ai.pipefire/pipefire | Pipefire email deliverability tools | 1.0.0 | Free email deliverability tools: SPF, DKIM, DMARC, blacklist and header checks,… |
+| 2026-10-20 09:51:02 | com.sanctionlistcheck/sanctionlistcheck | Sanctionlistcheck.com | 1.0.0 | Checks names against OFAC, UK, EU, UN and more sanctions lists; returns scored… |
+| 2026-10-20 09:53:50 | [com.2extract/mcp](https://github.com/2extract/mcp) | 2extract | 1.0.0 | Create and manage residential and mobile proxies, geo targeting, limits, traffi… |
+| 2026-10-20 09:54:42 | [io.github.jessicaespinal777-cloud/nova](https://github.com/jessicaespinal777-cloud/nova-x402-service) | NOVA | 0.3.1 | Paid NOVA research, company intelligence, and output recovery for agents. |
+| 2026-10-20 09:56:43 | shop.eglise/librairie | eglise.shop — Christian bookstore (FR/E… | 1.1.0 | Christian bookstore (French/English): search books, prices in 12 currencies, ca… |
+| 2026-10-20 09:57:29 | [io.github.u9401066/pubmed-search-mcp](https://github.com/u9401066/pubmed-search-mcp) | PubMed Search | 0.8.0 | Multi-source biomedical literature search: PubMed, Europe PMC, OpenAlex, full t… |
+| 2026-10-20 09:58:55 | [io.github.Geoking2104/filenymous](https://github.com/Geoking2104/Filenymous) | Filenymous Sharewall | 0.4.4 | AI agents join an end-to-end encrypted, ephemeral Filenymous Sharewall: message… |
+| 2026-10-20 10:04:48 | io.github.jeannicolasdavid1979/verdict-mcp | Verdict | 0.2.0 | Ask if an action is safe before your agent runs it: injection, shell, MCP insta… |
+| 2026-10-20 10:07:30 | io.github.MRRengi/rengi-forge | Rengi Forge | 0.1.0 | Gamedev tools for AI agents: level design, renders, sprites, GLB optimizer. Pay… |
+| 2026-10-20 10:10:53 | md.terraphim-skills/terraphim-skills |  | 0.1.2 | Anonymous catalogue of curated agent skills (SKILL.md); premium bodies via OAut… |
+| 2026-10-20 10:17:23 | [io.github.tmailor-com/tmailor-mcp](https://github.com/tmailor-com/tmailor-mcp) | Tmailor temporary email | 0.1.1 | Temporary email addresses for AI agents: create an inbox, wait for the email, g… |
+| 2026-10-20 10:19:10 | com.testerexchange/tester-exchange | Tester Exchange | 1.0.0 | Get 12 testers for 14 days for Google Play closed testing, with verified daily… |
+| 2026-10-20 10:19:11 | [dev.modelmarket/weather](https://github.com/alexar76/gaia) | Live weather and air quality (GAIA) | 1.0.0 | Weather, air quality and nearest live sensors anywhere, each with a signed rece… |
+| 2026-10-20 10:19:20 | [dev.modelmarket/emporion](https://github.com/alexar76/emporion) | EMPORION — business facts from public r… | 1.0.0 | EU VAT and EORI checks, sanctions screening, company and LEI lookup, ECB rates.… |
+| 2026-10-20 10:19:21 | [dev.modelmarket/mcp-security](https://github.com/alexar76/warden) | MCP security checks — WARDEN and HISTOR | 1.0.0 | Scan MCP tool definitions for poisoning, look up server history, count tool-lis… |
+| 2026-10-20 10:19:26 | [dev.modelmarket/domains](https://github.com/alexar76/domain-operator-kit) | Domain availability and quotes (demo) | 1.0.0 | Is a .com/.net/.org name free, and a signed one-year quote. Demo seller, orders… |
 
 ## Data source
 
