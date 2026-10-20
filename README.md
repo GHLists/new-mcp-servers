@@ -9,39 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 10:21 UTC
+## Latest list — 2026-10-20 11:21 UTC
 
-New MCP servers published between 2026-10-20 09:20 UTC and 2026-10-20 10:21 UTC.
+New MCP servers published between 2026-10-20 10:21 UTC and 2026-10-20 11:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-20T10-21-03-12491Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-20T11-21-27-936899Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-20 09:20:55 | app.flowmaps/flowmaps | Flowmaps | 1.0.0 | Plan apps in build order: list ventures and ready features, add ideas, read bui… |
-| 2026-10-20 09:26:15 | io.github.VideoTranscriberAI/videotranscriber | Video Transcriber AI | 1.0.0 | Transcribe public audio/video URLs and retrieve transcripts, SRT, and VTT subti… |
-| 2026-10-20 09:28:49 | domains.199/marketplace | $199 Domains marketplace | 1.0.0 | Search and price-check brandable and keyword domains for sale at fixed prices o… |
-| 2026-10-20 09:29:03 | io.github.AlexMikhalev/terraphim-skills |  | 0.1.2 | Anonymous catalogue of curated agent skills (SKILL.md); premium bodies via OAut… |
-| 2026-10-20 09:29:12 | io.github.FortripEngineering/fortrip-hotels | Fortrip Hotels | 1.0.1 | Search hotels worldwide, compare live room rates, and create booking payment li… |
-| 2026-10-20 09:32:40 | io.github.penguinradar/penguinradar | PenguinRadar | 0.1.0 | Instagram profiles, follower/following snapshots and changes, with budgeted pub… |
-| 2026-10-20 09:38:52 | [io.github.metadist/synaplan](https://github.com/metadist/synaplan) | Synaplan | 5.5.0 | Self-hosted AI workspace: semantic RAG document search, long-term memory, and A… |
-| 2026-10-20 09:40:13 | de.ferienhausmiete/guest | Ferienhausmiete.de – Ferienwohnungen &… | 1.0.0 | Search 18,000+ privately owned holiday homes on Ferienhausmiete.de: exact stay… |
-| 2026-10-20 09:43:30 | com.focalgraph/signal | FocalGraph Signal | 1.0.0 | Car dealer GA4 analytics: traffic, ASC event audits, verified households, DMS s… |
-| 2026-10-20 09:48:51 | ai.pipefire/pipefire | Pipefire email deliverability tools | 1.0.0 | Free email deliverability tools: SPF, DKIM, DMARC, blacklist and header checks,… |
-| 2026-10-20 09:51:02 | com.sanctionlistcheck/sanctionlistcheck | Sanctionlistcheck.com | 1.0.0 | Checks names against OFAC, UK, EU, UN and more sanctions lists; returns scored… |
-| 2026-10-20 09:53:50 | [com.2extract/mcp](https://github.com/2extract/mcp) | 2extract | 1.0.0 | Create and manage residential and mobile proxies, geo targeting, limits, traffi… |
-| 2026-10-20 09:54:42 | [io.github.jessicaespinal777-cloud/nova](https://github.com/jessicaespinal777-cloud/nova-x402-service) | NOVA | 0.3.1 | Paid NOVA research, company intelligence, and output recovery for agents. |
-| 2026-10-20 09:56:43 | shop.eglise/librairie | eglise.shop — Christian bookstore (FR/E… | 1.1.0 | Christian bookstore (French/English): search books, prices in 12 currencies, ca… |
-| 2026-10-20 09:57:29 | [io.github.u9401066/pubmed-search-mcp](https://github.com/u9401066/pubmed-search-mcp) | PubMed Search | 0.8.0 | Multi-source biomedical literature search: PubMed, Europe PMC, OpenAlex, full t… |
-| 2026-10-20 09:58:55 | [io.github.Geoking2104/filenymous](https://github.com/Geoking2104/Filenymous) | Filenymous Sharewall | 0.4.4 | AI agents join an end-to-end encrypted, ephemeral Filenymous Sharewall: message… |
-| 2026-10-20 10:04:48 | io.github.jeannicolasdavid1979/verdict-mcp | Verdict | 0.2.0 | Ask if an action is safe before your agent runs it: injection, shell, MCP insta… |
-| 2026-10-20 10:07:30 | io.github.MRRengi/rengi-forge | Rengi Forge | 0.1.0 | Gamedev tools for AI agents: level design, renders, sprites, GLB optimizer. Pay… |
-| 2026-10-20 10:10:53 | md.terraphim-skills/terraphim-skills |  | 0.1.2 | Anonymous catalogue of curated agent skills (SKILL.md); premium bodies via OAut… |
-| 2026-10-20 10:17:23 | [io.github.tmailor-com/tmailor-mcp](https://github.com/tmailor-com/tmailor-mcp) | Tmailor temporary email | 0.1.1 | Temporary email addresses for AI agents: create an inbox, wait for the email, g… |
-| 2026-10-20 10:19:10 | com.testerexchange/tester-exchange | Tester Exchange | 1.0.0 | Get 12 testers for 14 days for Google Play closed testing, with verified daily… |
-| 2026-10-20 10:19:11 | [dev.modelmarket/weather](https://github.com/alexar76/gaia) | Live weather and air quality (GAIA) | 1.0.0 | Weather, air quality and nearest live sensors anywhere, each with a signed rece… |
-| 2026-10-20 10:19:20 | [dev.modelmarket/emporion](https://github.com/alexar76/emporion) | EMPORION — business facts from public r… | 1.0.0 | EU VAT and EORI checks, sanctions screening, company and LEI lookup, ECB rates.… |
-| 2026-10-20 10:19:21 | [dev.modelmarket/mcp-security](https://github.com/alexar76/warden) | MCP security checks — WARDEN and HISTOR | 1.0.0 | Scan MCP tool definitions for poisoning, look up server history, count tool-lis… |
-| 2026-10-20 10:19:26 | [dev.modelmarket/domains](https://github.com/alexar76/domain-operator-kit) | Domain availability and quotes (demo) | 1.0.0 | Is a .com/.net/.org name free, and a signed one-year quote. Demo seller, orders… |
+| 2026-10-20 10:21:16 | [io.github.cozzagit/devil](https://github.com/cozzagit/devil-mcp) | DeviL | 1.0.0 | Trova PMI italiane a cui proporre i software che hai già sviluppato, dal tuo Cl… |
+| 2026-10-20 10:21:42 | [com.didyouseo/mcp](https://github.com/Sathish27/didyouseo-mcp) | DidYouSEO | 1.0.0 | SEO audits, Search Console, GA4, keyword and backlink data for Claude, ChatGPT… |
+| 2026-10-20 10:22:02 | com.spocont/ekkor |  | 1.0.0 | Appointment booking on ekkor.hu: list services, check free slots, book and canc… |
+| 2026-10-20 10:25:29 | io.github.jeannicolasdavid1979/verdictl402 | Verdict L402 | 0.2.1 | Ask if an action is safe before your agent runs it: injection, shell, MCP insta… |
+| 2026-10-20 10:27:08 | com.app-clap/appclap | AppClap | 1.0.0 | Find the web app that fits a need — ranked by fit, with dated facts from each v… |
+| 2026-10-20 10:35:03 | ai.dealsharp/dealsharp | DealSharp | 1.0.0 | Work with your DealSharp negotiation projects, documents and tools from Claude. |
+| 2026-10-20 10:37:07 | [net.thingspool/thingspool](https://github.com/architsch/youngjin) | ThingsPool | 1.0.0 | A 3D world of rooms shared by people and AI agents: chat, walk around, and buil… |
+| 2026-10-20 10:48:37 | [io.github.smbcloudXYZ/smbcloud-cli](https://github.com/smbcloudXYZ/smbcloud-cli) | smbCloud Mail & Auth | 0.7.5 | Email infrastructure and authentication for developers: domains, inbox routes,… |
+| 2026-10-20 10:48:40 | [io.github.smbcloudXYZ/xcrs](https://github.com/smbcloudXYZ/smbcloud-cli) | XCRS Mobile & TV Automation | 0.7.5 | MCP tools for testing mobile and TV apps on iOS simulators, Android phones, and… |
+| 2026-10-20 10:48:44 | com.torrent100/korea-travel-demand | Korea Travel Demand & Price Archive (요즘… | 1.0.0 | Daily Korean outbound travel demand index (Naver package buyers) + direct fligh… |
+| 2026-10-20 10:53:08 | com.nythosx.market/market-data | NythosX Market Data | 1.0.0 | Crypto and stock trade verdicts, levels, regime, target odds, price triggers. P… |
+| 2026-10-20 10:59:12 | [io.github.tupana-ai/tupana](https://github.com/tupana-ai/tupana-mcp) | Tupana | 0.1.0 | Facturación electrónica chilena (SII), cobranza, conciliación bancaria y contab… |
+| 2026-10-20 11:06:36 | com.zetlyn/zetlyn | Zetlyn | 0.1.0 | Watch a place on a web page (a price, stock, a version) or a whole page; get to… |
+| 2026-10-20 11:09:00 | [io.github.alphaparkinc/genpark-llm-token-cost-budget-tracker-skill](https://github.com/alphaparkinc/genpark-llm-token-cost-budget-tracker-skill) | GenPark LLM Token Cost Budget Tracker | 1.0.1 | Multi-model LLM token cost budget ledger and burn rate forecaster enforcing spe… |
+| 2026-10-20 11:09:08 | [io.github.alphaparkinc/genpark-cron-jitter-scheduler-agent-skill](https://github.com/alphaparkinc/genpark-cron-jitter-scheduler-agent-skill) | GenPark Cron Jitter Scheduler Agent | 1.0.1 | Crontab syntax parser and distributed jittered task scheduler preventing thunde… |
+| 2026-10-20 11:09:15 | [io.github.alphaparkinc/genpark-jwt-token-verifier-and-claims-auditor-skill](https://github.com/alphaparkinc/genpark-jwt-token-verifier-and-claims-auditor-skill) | GenPark JWT Token Verifier & Claims Aud… | 1.0.1 | Pure-Python zero-dependency JWT claims auditor and payload inspector enforcing… |
+| 2026-10-20 11:09:21 | [io.github.alphaparkinc/genpark-git-commit-conventional-semantic-linter-skill](https://github.com/alphaparkinc/genpark-git-commit-conventional-semantic-linter-skill) | GenPark Git Commit Conventional Semanti… | 1.0.1 | Conventional Commits 1.0.0 semantic linter and changelog grouping engine parsin… |
+| 2026-10-20 11:09:24 | com.onrender.bess-x402/data-tools | Web, EU power and SEC data tools | 1.0.0 | Web pages as Markdown, EU day-ahead power prices, US company fundamentals (SEC)… |
+| 2026-10-20 11:09:28 | [io.github.alphaparkinc/genpark-pii-redactor-and-data-masker-skill](https://github.com/alphaparkinc/genpark-pii-redactor-and-data-masker-skill) | GenPark PII Redactor & Data Masker | 1.0.1 | Regex and Luhn heuristic PII redaction and tokenization engine sanitizing sensi… |
+| 2026-10-20 11:11:01 | io.github.amitudai/micro-tool-factory-apify | Micro Tool Factory — Shopify, ATS Jobs… | 1.0.0 | Curated Shopify products, SKU variants, ATS jobs and sitemaps via Apify's offic… |
+| 2026-10-20 11:13:24 | com.opengeocoding/geocoding | OpenGeocoding | 1.0.0 | Geocode addresses, autocomplete searches and reverse geocode coordinates on ope… |
+| 2026-10-20 11:18:37 | [io.github.agentindexworld/coordination-thread](https://github.com/comallagency/kairos-x402-service) | Kairos Coordination Thread | 1.0.0 | Free MCP tools to validate multi-agent coordination thread turns and retrieve s… |
+| 2026-10-20 11:18:55 | [io.github.escouade-io/escouade-mail](https://github.com/escouade-io/escouade-mail-mcp) | Escouade Mail | 0.1.1 | Des boîtes mail pour agents IA : écrire, lire ses fils, répondre, avec validati… |
+| 2026-10-20 11:19:04 | com.ecomwith/commerce-desk | Ecomwith Commerce Desk | 1.0.1 | Break-even ROAS and profit calculators, UTM link builder, and Ecomwith tutorial… |
 
 ## Data source
 
