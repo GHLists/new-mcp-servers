@@ -1,0 +1,36 @@
+created_at,server,title,version,repository,transports,description
+2026-10-20T15:22:25.448535Z,com.hyviral/hyviral,HYVIRAL,1.0.0,,streamable-http,"Content intelligence, media generation and hosted video rendering for creators."
+2026-10-20T15:23:20.091638Z,wiki.apologetics/apologetics-wiki,Apologetics Wiki,1.0.0,,streamable-http,"Bible verses, cross-references, Greek and Hebrew word studies, and Christian apologetics articles."
+2026-10-20T15:23:34.288859Z,io.github.HMAKT99/scbee-mcp,,0.2.1,https://github.com/HMAKT99/ScBee,,"Score repos for launch and agent readiness, find verified agents, read collaborations. Read-only."
+2026-10-20T15:27:25.042428Z,com.textforagents/declared-vs-enforced-agent-access-verification,Declared-vs-Enforced Agent Access Verification,1.0.0,,streamable-http,"Compares declared agent access against actual enforcement per identity class, with drift watch."
+2026-10-20T15:27:43.793899Z,com.textforagents/capability-diet-tool-pruning,The capability diet: tool pruning for agents,1.0.0,,streamable-http,"Per-task-type tool manifests with reversible JIT demotion, compiled from fleet telemetry."
+2026-10-20T15:28:59.1518Z,ca.builddata.api/mcp,BuildData,1.0.0,,streamable-http,"Canadian building permits, development and planning applications, major projects, new businesses."
+2026-10-20T15:30:07.597734Z,app.snapcount/snapcount,SnapCount,1.0.0,,streamable-http,"Live counts, daily per-store and per-worker reports, and live counting links from SnapCount."
+2026-10-20T15:31:03.888588Z,app.rivioo/rivioo,Rivioo,2.0.0,,streamable-http,"Analyse App Store and Google Play reviews in Claude: counts, trends and real quotes for any app."
+2026-10-20T15:31:49.890324Z,app.hyperwave.www/wavetable-tools,,1.1.0,,streamable-http,"Hyperwave wavetable format lookup, encoder layouts, and float32 mono frame-size calculations."
+2026-10-20T15:31:53.103377Z,app.hyperwave.www/docs,,1.1.0,,streamable-http,Search and read Hyperwave's published wavetable documentation.
+2026-10-20T15:35:29.001379Z,app.1ts.browserhere/browserhere,BrowserHere,1.0.0,,streamable-http,"Control a real browser from AI agents: navigate, click, type, screenshot, read the page."
+2026-10-20T15:35:42.709049Z,com.textforagents/minimum-equipment-list-dispatch,Minimum Equipment List dispatch for agents,1.0.0,,streamable-http,Fail-closed per-task-class dispatch matrix with deferral clocks and signed dispatch releases.
+2026-10-20T15:37:26.363406Z,trade.lucyd/mcp,Lucyd,0.1.1,https://github.com/lucyd-trade/mcp-server,,"Trade Bitcoin Up/Down prediction markets on Lucyd: markets, order books, orders, positions."
+2026-10-20T15:38:41.228713Z,app.vercel.planlimits-rpatel021/planlimits,PlanLimits,1.0.0,,streamable-http,"Sourced, dated prices and usage limits for AI coding plans (Claude Code, Codex, Cursor, Copilot)."
+2026-10-20T15:38:51.465795Z,io.github.imashishsharma/stratigraph,Stratigraph,2.1.2,https://github.com/imashishsharma/stratigraph,,"Cited structure of Java/Spring/Angular codebases: dependencies, tables, endpoints, hotspots."
+2026-10-20T15:47:02.905023Z,pro.postkey/postkey,Postkey,1.0.0,,streamable-http,The most agentic DM automation tool. AI agents build Instagram DM automations and schedule posts.
+2026-10-20T15:48:02.412336Z,io.github.yomariano/reeling,Reeling,1.0.1,https://github.com/yomariano/reeling-mcp,streamable-http,"Social publishing, scheduling and delivery-status tools for Reeling accounts."
+2026-10-20T15:48:59.6503Z,com.sponsorradar/sponsorradar,SponsorRadar,1.0.0,,streamable-http,"YouTube sponsorship data: which brands sponsor which creators, and who to contact. Read only."
+2026-10-20T15:50:20.458992Z,io.github.codewithkolin/keyfold,Keyfold,1.0.1,https://github.com/codewithkolin/keyfold,,Use API keys from your Keyfold vault in commands and .env files. No tool returns a secret value.
+2026-10-20T15:54:45.770784Z,site.aefact/aefact,Æfact — Korean fact desk for AI agents,0.4.0,,streamable-http,"Verified Korean facts: law changes by date, Bank of Korea figures, fact-check requests."
+2026-10-20T15:54:56.818205Z,style.able/able-style-wardrobe-management,Able.Style,2.1.1,,streamable-http,"Manage your wardrobe or closet, discover ways to wear your clothes, and get outfit suggestions."
+2026-10-20T15:55:33.210883Z,io.github.aaronmsoto/finops-framework-mcp,,0.2.0,https://github.com/aaronmsoto/finops-framework-mcp,,"Unofficial MCP server for the FinOps Framework: phases, domains, capabilities, maturity, KPIs."
+2026-10-20T15:55:36.742951Z,io.github.sblattj/oss-search,oss-search,0.3.1,https://github.com/sblattj/oss-search,,Fast local and federated OSS code search and repo discovery for AI agents
+2026-10-20T15:55:48.006837Z,io.github.aaronmsoto/finops-focus-mcp,,0.2.0,https://github.com/aaronmsoto/finops-framework-mcp,,"Unofficial MCP server for the FOCUS spec: columns, attributes, requirements, cross-version diffs."
+2026-10-20T15:56:02.10258Z,io.github.aaronmsoto/tokenomics-overview-mcp,,0.2.0,https://github.com/aaronmsoto/finops-framework-mcp,,"Unofficial MCP server for AI tokenomics: Big-T notation, cache metrics, levers, FOCUS 1.5 AI."
+2026-10-20T15:59:25.32675Z,com.etfiq/etfiq,ETFIQ,0.2.0,,streamable-http,"Independent US ETF data and benchmarks for model portfolios, each figure with its source and date."
+2026-10-20T16:06:36.479394Z,com.simplorg/simplorg,SimplOrg: Easy Org Chart,0.1.0,,streamable-http,"Turn a description of your team into an editable org chart. Free, no signup."
+2026-10-20T16:07:21.645689Z,io.github.mikemark78/agentmark,,0.3.0,https://github.com/mikemark78/AgentMark,streamable-http,"Agent-to-agent task marketplace on Solana: escrowed SOL/USDC jobs, 1% fee. Unaudited beta."
+2026-10-20T16:13:06.653579Z,uk.co.openindex/open-index,Open Index,1.0.0,,streamable-http,"UK public data by area: house prices, crime, deprivation, schools and more, each figure cited."
+2026-10-20T16:15:47.495705Z,com.md-atlas/mcp,MD Atlas,0.1.1,,streamable-http,"Search EU medical-device companies, people, devices, certificates, documents and Basic UDI-DIs."
+2026-10-20T16:17:27.6787Z,games.catula/mimo,Mimo,0.2.0,,streamable-http,"Async MCP game for AI agents: shared poems in English and Russian, a line per move, sealed guesses."
+2026-10-20T16:18:51.492596Z,cloud.yachtmaster/erp,YachtMaster,1.0.0,,streamable-http,"Operate a YachtMaster ERP tenant: boats, offers, projects, hours and invoicing."
+2026-10-20T16:20:02.341594Z,com.gridlypaper/gridly,Gridly,1.0.0,,streamable-http,"Ask Claude or ChatGPT about your WooCommerce sales, stock and orders. Safe edits with undo."
+2026-10-20T16:20:14.871042Z,com.gridlypaper/pridly,Pridly,1.0.0,,streamable-http,"Ask Claude or ChatGPT about your PrestaShop sales, stock and orders. Safe edits with undo."
+2026-10-20T16:20:24.547095Z,io.github.larpey/ezmd,ezmd,0.1.0,https://github.com/larpey/ezmd,,"Convert files, URLs and text to LLM-ready Markdown with paging, provenance and warnings."
