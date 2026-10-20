@@ -9,38 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 11:21 UTC
+## Latest list — 2026-10-20 12:22 UTC
 
-New MCP servers published between 2026-10-20 10:21 UTC and 2026-10-20 11:21 UTC.
+New MCP servers published between 2026-10-20 11:21 UTC and 2026-10-20 12:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-20T11-21-27-936899Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-20T12-22-31-193813Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-20 10:21:16 | [io.github.cozzagit/devil](https://github.com/cozzagit/devil-mcp) | DeviL | 1.0.0 | Trova PMI italiane a cui proporre i software che hai già sviluppato, dal tuo Cl… |
-| 2026-10-20 10:21:42 | [com.didyouseo/mcp](https://github.com/Sathish27/didyouseo-mcp) | DidYouSEO | 1.0.0 | SEO audits, Search Console, GA4, keyword and backlink data for Claude, ChatGPT… |
-| 2026-10-20 10:22:02 | com.spocont/ekkor |  | 1.0.0 | Appointment booking on ekkor.hu: list services, check free slots, book and canc… |
-| 2026-10-20 10:25:29 | io.github.jeannicolasdavid1979/verdictl402 | Verdict L402 | 0.2.1 | Ask if an action is safe before your agent runs it: injection, shell, MCP insta… |
-| 2026-10-20 10:27:08 | com.app-clap/appclap | AppClap | 1.0.0 | Find the web app that fits a need — ranked by fit, with dated facts from each v… |
-| 2026-10-20 10:35:03 | ai.dealsharp/dealsharp | DealSharp | 1.0.0 | Work with your DealSharp negotiation projects, documents and tools from Claude. |
-| 2026-10-20 10:37:07 | [net.thingspool/thingspool](https://github.com/architsch/youngjin) | ThingsPool | 1.0.0 | A 3D world of rooms shared by people and AI agents: chat, walk around, and buil… |
-| 2026-10-20 10:48:37 | [io.github.smbcloudXYZ/smbcloud-cli](https://github.com/smbcloudXYZ/smbcloud-cli) | smbCloud Mail & Auth | 0.7.5 | Email infrastructure and authentication for developers: domains, inbox routes,… |
-| 2026-10-20 10:48:40 | [io.github.smbcloudXYZ/xcrs](https://github.com/smbcloudXYZ/smbcloud-cli) | XCRS Mobile & TV Automation | 0.7.5 | MCP tools for testing mobile and TV apps on iOS simulators, Android phones, and… |
-| 2026-10-20 10:48:44 | com.torrent100/korea-travel-demand | Korea Travel Demand & Price Archive (요즘… | 1.0.0 | Daily Korean outbound travel demand index (Naver package buyers) + direct fligh… |
-| 2026-10-20 10:53:08 | com.nythosx.market/market-data | NythosX Market Data | 1.0.0 | Crypto and stock trade verdicts, levels, regime, target odds, price triggers. P… |
-| 2026-10-20 10:59:12 | [io.github.tupana-ai/tupana](https://github.com/tupana-ai/tupana-mcp) | Tupana | 0.1.0 | Facturación electrónica chilena (SII), cobranza, conciliación bancaria y contab… |
-| 2026-10-20 11:06:36 | com.zetlyn/zetlyn | Zetlyn | 0.1.0 | Watch a place on a web page (a price, stock, a version) or a whole page; get to… |
-| 2026-10-20 11:09:00 | [io.github.alphaparkinc/genpark-llm-token-cost-budget-tracker-skill](https://github.com/alphaparkinc/genpark-llm-token-cost-budget-tracker-skill) | GenPark LLM Token Cost Budget Tracker | 1.0.1 | Multi-model LLM token cost budget ledger and burn rate forecaster enforcing spe… |
-| 2026-10-20 11:09:08 | [io.github.alphaparkinc/genpark-cron-jitter-scheduler-agent-skill](https://github.com/alphaparkinc/genpark-cron-jitter-scheduler-agent-skill) | GenPark Cron Jitter Scheduler Agent | 1.0.1 | Crontab syntax parser and distributed jittered task scheduler preventing thunde… |
-| 2026-10-20 11:09:15 | [io.github.alphaparkinc/genpark-jwt-token-verifier-and-claims-auditor-skill](https://github.com/alphaparkinc/genpark-jwt-token-verifier-and-claims-auditor-skill) | GenPark JWT Token Verifier & Claims Aud… | 1.0.1 | Pure-Python zero-dependency JWT claims auditor and payload inspector enforcing… |
-| 2026-10-20 11:09:21 | [io.github.alphaparkinc/genpark-git-commit-conventional-semantic-linter-skill](https://github.com/alphaparkinc/genpark-git-commit-conventional-semantic-linter-skill) | GenPark Git Commit Conventional Semanti… | 1.0.1 | Conventional Commits 1.0.0 semantic linter and changelog grouping engine parsin… |
-| 2026-10-20 11:09:24 | com.onrender.bess-x402/data-tools | Web, EU power and SEC data tools | 1.0.0 | Web pages as Markdown, EU day-ahead power prices, US company fundamentals (SEC)… |
-| 2026-10-20 11:09:28 | [io.github.alphaparkinc/genpark-pii-redactor-and-data-masker-skill](https://github.com/alphaparkinc/genpark-pii-redactor-and-data-masker-skill) | GenPark PII Redactor & Data Masker | 1.0.1 | Regex and Luhn heuristic PII redaction and tokenization engine sanitizing sensi… |
-| 2026-10-20 11:11:01 | io.github.amitudai/micro-tool-factory-apify | Micro Tool Factory — Shopify, ATS Jobs… | 1.0.0 | Curated Shopify products, SKU variants, ATS jobs and sitemaps via Apify's offic… |
-| 2026-10-20 11:13:24 | com.opengeocoding/geocoding | OpenGeocoding | 1.0.0 | Geocode addresses, autocomplete searches and reverse geocode coordinates on ope… |
-| 2026-10-20 11:18:37 | [io.github.agentindexworld/coordination-thread](https://github.com/comallagency/kairos-x402-service) | Kairos Coordination Thread | 1.0.0 | Free MCP tools to validate multi-agent coordination thread turns and retrieve s… |
-| 2026-10-20 11:18:55 | [io.github.escouade-io/escouade-mail](https://github.com/escouade-io/escouade-mail-mcp) | Escouade Mail | 0.1.1 | Des boîtes mail pour agents IA : écrire, lire ses fils, répondre, avec validati… |
-| 2026-10-20 11:19:04 | com.ecomwith/commerce-desk | Ecomwith Commerce Desk | 1.0.1 | Break-even ROAS and profit calculators, UTM link builder, and Ecomwith tutorial… |
+| 2026-10-20 11:21:41 | net.chorushq/chorus | Chorus | 1.30.0 | Run ad campaigns on Meta, Google Ads and LinkedIn from your assistant. Spend wa… |
+| 2026-10-20 11:25:47 | [io.github.infolegalge/legal-ge](https://github.com/infolegalge/legal.ge-mcp) |  | 0.2.0 | Find verified legal specialists in Georgia from natural-language queries. Trili… |
+| 2026-10-20 11:28:55 | [io.github.alphaparkinc/genpark-agent-state-snapshot-time-travel-skill](https://github.com/alphaparkinc/genpark-agent-state-snapshot-time-travel-skill) | GenPark Agent State Snapshot & Time-Tra… | 1.0.1 | Agent conversation state snapshotting and time-travel rollback engine pruning d… |
+| 2026-10-20 11:29:06 | [io.github.alphaparkinc/genpark-jinja-like-prompt-template-renderer-skill](https://github.com/alphaparkinc/genpark-jinja-like-prompt-template-renderer-skill) | GenPark Jinja-Like Prompt Template Rend… | 1.0.1 | Safe zero-dependency Jinja-like prompt template parser and renderer supporting… |
+| 2026-10-20 11:29:15 | [io.github.alphaparkinc/genpark-multi-source-openapi-router-mesh-skill](https://github.com/alphaparkinc/genpark-multi-source-openapi-router-mesh-skill) | GenPark Multi-Source OpenAPI Router Mesh | 1.0.1 | Aggregates multiple OpenAPI specifications into a unified virtual routing mesh… |
+| 2026-10-20 11:29:26 | [io.github.alphaparkinc/genpark-entropy-hallucination-detector-skill](https://github.com/alphaparkinc/genpark-entropy-hallucination-detector-skill) | GenPark Entropy Hallucination Detector | 1.0.1 | Token entropy and n-gram perplexity analyzer auditing LLM outputs for degenerat… |
+| 2026-10-20 11:29:33 | [io.github.alphaparkinc/genpark-concurrency-semaphore-guard-skill](https://github.com/alphaparkinc/genpark-concurrency-semaphore-guard-skill) | GenPark Concurrency Semaphore Guard | 1.0.1 | In-memory concurrency leaky-bucket and fair semaphore guard protecting downstre… |
+| 2026-10-20 11:29:37 | io.github.akshitkrnagpal/toolstile | Toolstile | 1.0.0 | Managed MCP gateway with OAuth, per-agent permissions, shared accounts and acti… |
+| 2026-10-20 11:36:35 | [io.github.ricrio-inc/plainhub](https://github.com/ricrio-inc/plainhub) |  | 1.5.2 | Open files and diffs from your agent in PlainHub, and keep a shared ledger in y… |
+| 2026-10-20 11:38:57 | com.leadsranger/leads-ranger | Leads Ranger | 1.0.0 | Find local businesses with real emails and run AI-written outreach to them, fro… |
+| 2026-10-20 11:43:59 | [com.scento/perfume-compendium](https://github.com/Scento-com/perfume-compendium) | Scento Perfume Compendium | 1.0.0 | Perfume knowledge for AI assistants: perfumes, raw materials and a family map.… |
+| 2026-10-20 11:52:28 | au.com.campwatch/campwatch | CampWatch | 0.4.0 | Australian campground search, availability and phone-linked alerts using existi… |
+| 2026-10-20 11:52:55 | is.did/mcp | DID.is evidence | 0.1.0 | Read-only checks for DIDs, credentials, MCP servers, A2A cards and agent delega… |
+| 2026-10-20 11:57:31 | [io.github.sepehr071/iran-tax-mcp](https://github.com/sepehr071/iran-tax-mcp) | Iran Tax | 0.1.0 | Unofficial read-only Iranian tax: goods IDs and VAT, activity codes, property v… |
+| 2026-10-20 11:57:50 | [io.github.sepehr071/iran-news-mcp](https://github.com/sepehr071/iran-news-mcp) | Iran News RSS | 0.1.0 | Unofficial read-only Iranian news: Mehr, Khabaronline, Hamshahri, Tabnak, Zoomi… |
+| 2026-10-20 11:57:54 | [io.github.sepehr071/basalam-mcp](https://github.com/sepehr071/basalam-mcp) | Basalam | 0.1.0 | Unofficial read-only Basalam marketplace: search products, cheapest offers, sho… |
+| 2026-10-20 12:02:04 | dev.aidown/status | AI Down: live AI service status | 0.1.0 | Is Claude, ChatGPT, Gemini, Cursor or Copilot down? Live status from API probes… |
+| 2026-10-20 12:07:31 | [io.github.sepehr071/iran-quake-mcp](https://github.com/sepehr071/iran-quake-mcp) | Iran Earthquakes | 0.1.0 | Unofficial read-only Iran earthquakes: latest, search, strongest, detail, stats… |
+| 2026-10-20 12:07:40 | [io.github.sepehr071/tgju-mcp](https://github.com/sepehr071/tgju-mcp) | TGJU Prices | 0.1.0 | Unofficial read-only TGJU: live Iranian gold, coin, currency and crypto prices… |
+| 2026-10-20 12:07:43 | [io.github.sepehr071/tapsifood-mcp](https://github.com/sepehr071/tapsifood-mcp) | Tapsi Food | 0.1.0 | Unofficial read-only Tapsi Food: search dishes and restaurants, menus, reviews,… |
+| 2026-10-20 12:14:17 | com.privatrak/analytics | Privatrak | 1.11.0 | Ask your website analytics in plain language and set up funnels, features and d… |
+| 2026-10-20 12:16:43 | com.historyofmarket/market-history | History of Market | 1.0.0 | Read-only U.S. stock market history: S&P 500 since 1928, CAPE, drawdowns, index… |
+| 2026-10-20 12:16:57 | [io.github.sepehr071/qavanin-mcp](https://github.com/sepehr071/qavanin-mcp) | Qavanin | 0.1.0 | Unofficial read-only qavanin.ir: search Iranian laws and regulations, read full… |
+| 2026-10-20 12:19:22 | com.tickerlayer/market-data | TickerLayer Market Data | 0.3.0 | Live and historical market data for stocks, forex, crypto, indices, ETFs, commo… |
+| 2026-10-20 12:20:54 | dk.powerquant/eu-ai-act |  | 1.0.0 | Read-only EU AI Act tools: Annex III scope, Article 50 check, sourced facts, sh… |
 
 ## Data source
 
