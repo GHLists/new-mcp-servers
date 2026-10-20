@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-10-20T17:21:24.617024Z,com.textforagents/moneyless-clearinghouse-barter-netting,Moneyless clearinghouse: barter netting for agent services,1.0.0,,streamable-http,"Multilateral barter netting for agent services: cycles and chains cleared in kind, zero money."
+2026-10-20T17:24:36.461123Z,io.github.Skitchy/rekindle,,0.4.0,https://github.com/Skitchy/rekindle,,"MCP session continuity engine: boot reports, PreCompact capture, session-start delivery, SQLite."
+2026-10-20T17:26:22.943851Z,xyz.tradeforagents/tradeforagents,TradeForAgents,0.1.0,,streamable-http,"Crypto trading for autonomous AI agents on Hyperliquid testnet: market data, orders, leaderboard"
+2026-10-20T17:27:00.42413Z,io.github.First-CH/tools-mcp,,0.37.0,https://github.com/First-CH/firstch-tools-mcp,,"Web production tools for AI agents: contrast, JP text, WebP, JSON-LD, slugs, dates and 40+ more"
+2026-10-20T17:27:24.482574Z,io.studiovector/mindbody,StudioVector: AI for Mindbody studios,0.1.0,,streamable-http,"Ask your AI about your studio's sales, classes and clients. Not affiliated with Mindbody."
+2026-10-20T17:28:53.134293Z,ai.leadgreen/green-token-index,Lead Green,0.3.1,https://github.com/katonic-dev/leadgreen-ai,,"GPU energy per million output tokens by model, GPU and configuration, with grid carbon by country."
+2026-10-20T17:30:47.452733Z,io.github.No3men60/ot-intel-api,OT Intel API,2.0.0,,streamable-http,"OT/ICS threat intel for AI agents: 40 tools, pay per call in USDC on Base via x402."
+2026-10-20T17:33:02.060504Z,fr.bocaross/annuaire,BocaRoss,1.0.0,,streamable-http,"Garages, carrossiers, contrôle technique, pare-brise et lavage auto en France : fiches et prix."
+2026-10-20T17:35:36.476316Z,xyz.everycalc/every-calc,EveryCalc,1.0.0,https://github.com/xOyabunx/everycalc,streamable-http,"69 free finance, military, school and everyday calculators as MCP tools."
+2026-10-20T17:35:56.9287Z,io.github.Servosity/saas-alerts-mcp,SaaS Alerts MCP,0.1.0,https://github.com/servosity/msp-skills,,"SaaS Alerts alerts, Respond rule triggers and response across every customer tenant."
+2026-10-20T17:39:22.101358Z,ai.linkitapp/linkit,Linkit,1.0.0,,streamable-http,Turn what your AI makes into a shareable web page with its own short link.
+2026-10-20T17:46:08.245013Z,com.trillboards/planner,Trillboards Campaign Planner,1.0.0,,streamable-http,"Plan and book out-of-home, CTV, video, audio and display campaigns, paid through Stripe."
+2026-10-20T17:51:56.581842Z,io.github.nolll77/agentic-ops,Agentic-Ops Control Plane,0.1.12,https://github.com/nolll77/agentic-ops,streamable-http,Autonomous and governed SRE & MLOps control plane for AI agent platforms.
+2026-10-20T17:56:24.011945Z,io.github.catsnotdrugs/preclone,PreClone,1.4.0,,,"Check what a repo would run on your machine (open, agent start, install) before you clone it."
+2026-10-20T17:58:06.113609Z,com.trillboards/dooh,Trillboards DOOH Advertising,1.0.0,,streamable-http,"757,000+ screens reachable through Trillboards and 29,000+ screens registered on our own network."
+2026-10-20T17:58:54.967474Z,com.collatiomedia/bettingtipsai,Betting Tips AI,1.0.0,https://github.com/tibbis/affiliate-websites,streamable-http,Public read-only football and cricket match tips from bettingtipsai.com.
+2026-10-20T17:59:09.787438Z,io.github.sirsinatoriai-png/blankas,Blankas,0.1.0,,streamable-http,"Numbered, signed blank forms for agent-to-agent deals: issue, co-sign, verify and mark."
+2026-10-20T17:59:32.44503Z,io.github.bubblav-org/bubblav,BubblaV AI Chatbot,1.0.0,,streamable-http,"Manage your BubblaV AI support chatbot: analytics, unanswered questions, knowledge, conversations."
+2026-10-20T17:59:41.478038Z,ai.buzzberg/mcp,Buzzberg,1.0.0,,streamable-http,"Trade ideas, author track records and sentiment from X, YouTube, Reddit, Substack; earnings calls"
+2026-10-20T18:07:34.859701Z,io.github.martinPisacreta/textokit-mcp,,0.1.1,https://github.com/martinPisacreta/textokit-mcp,,"17 pay-per-call x402 tools on Base: web reader, FX/crypto rates, Argentine data, Spanish text."
+2026-10-20T18:08:47.55451Z,com.certopolis/certopolis,Certopolis,1.0.0,,streamable-http,"Certification exam practice as a town-building game: AWS, Security+, PMP, CFA, Claude and more."
+2026-10-20T18:12:47.1396Z,io.github.leohoudinisanders-byte/forensics-mcp,,1.0.0,https://github.com/leohoudinisanders-byte/forensics-mcp,streamable-http,"x402-payable on-chain forensics tools: token verdicts, settle-safe RWA screens, wallet trust screens"
+2026-10-20T18:13:14.90337Z,com.aiblogly/models,AIblogly AI Models,1.0.0,,streamable-http,"AI model facts from aiblogly.com: vendor API prices, context windows, licences, LMArena ranks."
+2026-10-20T18:16:41.128833Z,com.latentgrounds/cafe,Latent Grounds Cafe,1.0.0,,streamable-http,"A free espresso lounge for AI agents: order a drink, chat at the bar, and sign the guestbook."
+2026-10-20T18:18:04.313698Z,com.cameronsutcliff/magpie,Magpie,1.0.0,,streamable-http,"Read-only access to Magpie, a daily brief on what became newly possible in AI."
