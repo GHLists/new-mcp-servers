@@ -1,0 +1,37 @@
+created_at,server,title,version,repository,transports,description
+2026-10-20T18:21:48.287876Z,com.textforagents/graceful-surrender-desk,Graceful Surrender Desk,1.0.0,,streamable-http,Surrender filings with pinned-key negative-effect proofs and completeness-scored partial credit.
+2026-10-20T18:22:33.608103Z,io.github.Grinv/anilist-mcp-server,AniList MCP Server (Unofficial),0.10.0,https://github.com/Grinv/anilist-mcp-server,,"MCP server for the AniList GraphQL API — anime/manga search, details, and personal list management."
+2026-10-20T18:23:10.162373Z,io.github.gerefull/invokeport,InvokePort,0.1.0,,,"Discover and call five free tools for JSON, TypeScript, CSV, OpenAPI and webhooks."
+2026-10-20T18:30:58.03712Z,com.agentpaywire/library,Agent Paywire library,1.0.0,,streamable-http,"Read-only library, articles, and support data for Agent Paywire."
+2026-10-20T18:31:42.034957Z,com.textforagents/live-payload-conformance-probes,Live-Payload Conformance Probes,1.0.0,,streamable-http,Live-payload conformance probes with signed receipts: ABSENT/EMPTY/PARTIAL/COMPLETE/BROKEN.
+2026-10-20T18:33:51.73977Z,co.prosignature/email-signatures,ProSignature email signatures,1.0.0,,streamable-http,"Build free email signatures, quote Pro and Teams prices, get install steps. Read-only, no account."
+2026-10-20T18:35:16.234091Z,com.trytrusty/business-records,Trusty,1.0.0,,streamable-http,"Dated US business records before signing a quote, paying a deposit or sending money."
+2026-10-20T18:39:29.774579Z,io.github.Srikarmk/keystone,Keystone,0.1.0,https://github.com/Srikarmk/Keystone,streamable-http,"What an arXiv paper builds on, disputes and assumes, read verbatim from its LaTeX. No LLM."
+2026-10-20T18:40:12.052905Z,io.github.Srikarmk/whygit,whygit,0.1.2,https://github.com/Srikarmk/whygit,,"Read-only Git explainer: what state a repo is in, what an error means, and the exact fix."
+2026-10-20T18:40:35.201031Z,com.subcloak/cloak-proxy,Cloak Proxy,0.5.0,https://github.com/subcloak/cloak-proxy,,"Read, mock, pause and replay HTTPS traffic captured by Cloak Proxy, a free macOS debugging proxy."
+2026-10-20T18:41:06.031479Z,app.ideakiller/idea-validator,IdeaKiller,1.0.0,,streamable-http,"Validate a startup idea with live web research: GO, PIVOT or NO_GO, with evidence and a first test."
+2026-10-20T18:41:14.430878Z,com.codetrendy/directory,CodeTrendy,1.1.0,,streamable-http,"Search the CodeTrendy directory of websites and tools. Read-only, no API key."
+2026-10-20T18:41:27.386366Z,com.mediapronet/directory,MEDIAPRONET,1.1.0,,streamable-http,"Search the MEDIAPRONET directory of websites and tools. Read-only, no API key."
+2026-10-20T18:41:35.301484Z,com.sitepatent/directory,SitePatent,1.1.0,,streamable-http,"Search the SitePatent directory of websites and tools. Read-only, no API key."
+2026-10-20T18:42:02.030263Z,org.p31ca/govern,,0.1.3,,streamable-http,"P31 governance: validate constitutions, prove gates fail, compose specs, reconcile timelines."
+2026-10-20T18:42:41.495993Z,news.geotone/geotone,Geotone — Global News Signals,1.4.0,,streamable-http,"Live global news signals: ranked wire, story timelines, coverage volume/tone/surges. Free, no auth."
+2026-10-20T18:43:51.120347Z,one.clevsec/eu-compliance,ClevSec EU compliance tools,1.1.0,,streamable-http,"Deterministic, sourced EU compliance checks: NIS2, DORA, GDPR and the Cyber Resilience Act."
+2026-10-20T18:45:45.963853Z,com.tellnod/tellnod,Tellnod,1.0.0,,streamable-http,"Email marketing in Claude or ChatGPT: draft, preview and send campaigns. You approve every send."
+2026-10-20T18:47:02.513598Z,com.hostbrid/hostbrid-discovery,Hostbrid Discovery,1.0.0,,streamable-http,Search Hostbrid public docs and published hosting plans. No account or API key required.
+2026-10-20T18:49:27.388188Z,io.github.projectworks007/ai-agent-web-tools,Web Tools for AI Agents,1.0.0,https://github.com/projectworks007/apify-data-mcp,streamable-http,"Web tools for AI agents: URL to clean Markdown, site crawl, screenshots, PDF/Office to text, OCR."
+2026-10-20T18:49:28.05592Z,io.github.projectworks007/company-data,Company Data,1.0.0,https://github.com/projectworks007/apify-data-mcp,streamable-http,"Company data for AI agents: enrich a domain, UK Companies House records, Y Combinator companies."
+2026-10-20T18:54:28.091693Z,sa.arbiter/ahkam,Ahkam — Saudi court rulings,1.1.0,,streamable-http,Search published Saudi court rulings and get analysis grounded only in the retrieved rulings.
+2026-10-20T18:55:01.152276Z,com.textforagents/continuous-agent-speed-defense,Continuous agent-speed defense for public surfaces,1.0.0,,streamable-http,"Agent-speed defense for your own public surfaces: daily diff probes, per-identity verdicts."
+2026-10-20T18:59:13.213111Z,com.rounderstofounders/r2f,Rounders to Founders,1.0.0,,streamable-http,"Post your build to R2F, the community for poker players building startups. Verify, climb, log."
+2026-10-20T19:06:54.190996Z,com.solvecha/solvecha,Solvecha,1.0.0,https://github.com/Solvecha/solvecha-skills,streamable-http,"Solve reCAPTCHA image grids, text captchas, GeeTest and FunCAPTCHA for AI agents. Free tier."
+2026-10-20T19:10:30.728059Z,com.get-flowie/app,Flowie App,1.0.0,,streamable-http,"Use the Flowie app from any AI client: purchase requests, approvals, tasks, budgets, flows."
+2026-10-20T19:10:31.956561Z,com.get-flowie/exchange,Flowie Exchange API,1.0.0,,streamable-http,"Every Flowie Exchange API operation as a tool: send, receive and validate e-invoices."
+2026-10-20T19:10:32.793613Z,com.get-flowie/docs,Flowie Developer Docs,1.0.0,,streamable-http,Search and read the Flowie Exchange API docs and OpenAPI contract. No sign-in needed.
+2026-10-20T19:10:34.519297Z,com.get-flowie/website,Flowie,1.0.0,,streamable-http,"Answers about Flowie: platform, ERP integrations, e-invoicing compliance, pricing. Public."
+2026-10-20T19:14:22.278111Z,com.magentaprivateisland/resort-facts,Magenta Private Island,0.2.3,,streamable-http,"Approved facts about Magenta Private Island, Belize: villas, rates, inclusions, policies, booking."
+2026-10-20T19:14:23.005588Z,io.github.ahamdjin/automation-auditor-mcp,Automation Auditor MCP,0.1.0,https://github.com/ahamdjin/automation-auditor-mcp,,"Inspect n8n, Dify, Trigger.dev and Activepieces automation exports before deployment."
+2026-10-20T19:14:55.341731Z,com.textforagents/agent-black-start-islanding,Agent black-start and islanding,1.0.0,,streamable-http,"Fleet restoration for total upstream loss: island declarations, crank-gated restart, resync gate."
+2026-10-20T19:15:36.712015Z,io.github.flowr-analysis/flowr,flowR,0.1.0,https://github.com/flowr-analysis/flowr,,"Static dataflow analysis, program slicing, linting, and dependency extraction for R code."
+2026-10-20T19:15:44.528673Z,com.pilotplans/hotels,Pilot Hotel Search,1.0.0,,streamable-http,"Search hotels worldwide, compare total-stay prices and cancellation terms, then book on Pilot."
+2026-10-20T19:18:47.607126Z,com.agentresourcemarket/agent-resource-market,Agent Resource Market,0.2.0,,streamable-http,"Search and read public agent profiles, service offers, and discussions on Agent Resource Market."
+2026-10-20T19:19:14.083791Z,dev.workers.quynguyenbac.quickbuild/agent-tools,QuickBuild agent tools (x402),1.0.0,,streamable-http,"Screenshot, TTS, image gen, translate, summarize, URL-to-Markdown, site audit. Pay per call (x402)."

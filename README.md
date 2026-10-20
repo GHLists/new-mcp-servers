@@ -9,39 +9,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 18:20 UTC
+## Latest list — 2026-10-20 19:19 UTC
 
-New MCP servers published between 2026-10-20 17:20 UTC and 2026-10-20 18:20 UTC.
+New MCP servers published between 2026-10-20 18:20 UTC and 2026-10-20 19:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-20T18-20-29-598116Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-20T19-19-19-022735Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-20 17:21:24 | com.textforagents/moneyless-clearinghouse-barter-netting | Moneyless clearinghouse: barter netting… | 1.0.0 | Multilateral barter netting for agent services: cycles and chains cleared in ki… |
-| 2026-10-20 17:24:36 | [io.github.Skitchy/rekindle](https://github.com/Skitchy/rekindle) |  | 0.4.0 | MCP session continuity engine: boot reports, PreCompact capture, session-start… |
-| 2026-10-20 17:26:22 | xyz.tradeforagents/tradeforagents | TradeForAgents | 0.1.0 | Crypto trading for autonomous AI agents on Hyperliquid testnet: market data, or… |
-| 2026-10-20 17:27:00 | [io.github.First-CH/tools-mcp](https://github.com/First-CH/firstch-tools-mcp) |  | 0.37.0 | Web production tools for AI agents: contrast, JP text, WebP, JSON-LD, slugs, da… |
-| 2026-10-20 17:27:24 | io.studiovector/mindbody | StudioVector: AI for Mindbody studios | 0.1.0 | Ask your AI about your studio's sales, classes and clients. Not affiliated with… |
-| 2026-10-20 17:28:53 | [ai.leadgreen/green-token-index](https://github.com/katonic-dev/leadgreen-ai) | Lead Green | 0.3.1 | GPU energy per million output tokens by model, GPU and configuration, with grid… |
-| 2026-10-20 17:30:47 | io.github.No3men60/ot-intel-api | OT Intel API | 2.0.0 | OT/ICS threat intel for AI agents: 40 tools, pay per call in USDC on Base via x… |
-| 2026-10-20 17:33:02 | fr.bocaross/annuaire | BocaRoss | 1.0.0 | Garages, carrossiers, contrôle technique, pare-brise et lavage auto en France :… |
-| 2026-10-20 17:35:36 | [xyz.everycalc/every-calc](https://github.com/xOyabunx/everycalc) | EveryCalc | 1.0.0 | 69 free finance, military, school and everyday calculators as MCP tools. |
-| 2026-10-20 17:35:56 | [io.github.Servosity/saas-alerts-mcp](https://github.com/servosity/msp-skills) | SaaS Alerts MCP | 0.1.0 | SaaS Alerts alerts, Respond rule triggers and response across every customer te… |
-| 2026-10-20 17:39:22 | ai.linkitapp/linkit | Linkit | 1.0.0 | Turn what your AI makes into a shareable web page with its own short link. |
-| 2026-10-20 17:46:08 | com.trillboards/planner | Trillboards Campaign Planner | 1.0.0 | Plan and book out-of-home, CTV, video, audio and display campaigns, paid throug… |
-| 2026-10-20 17:51:56 | [io.github.nolll77/agentic-ops](https://github.com/nolll77/agentic-ops) | Agentic-Ops Control Plane | 0.1.12 | Autonomous and governed SRE & MLOps control plane for AI agent platforms. |
-| 2026-10-20 17:56:24 | io.github.catsnotdrugs/preclone | PreClone | 1.4.0 | Check what a repo would run on your machine (open, agent start, install) before… |
-| 2026-10-20 17:58:06 | com.trillboards/dooh | Trillboards DOOH Advertising | 1.0.0 | 757,000+ screens reachable through Trillboards and 29,000+ screens registered o… |
-| 2026-10-20 17:58:54 | [com.collatiomedia/bettingtipsai](https://github.com/tibbis/affiliate-websites) | Betting Tips AI | 1.0.0 | Public read-only football and cricket match tips from bettingtipsai.com. |
-| 2026-10-20 17:59:09 | io.github.sirsinatoriai-png/blankas | Blankas | 0.1.0 | Numbered, signed blank forms for agent-to-agent deals: issue, co-sign, verify a… |
-| 2026-10-20 17:59:32 | io.github.bubblav-org/bubblav | BubblaV AI Chatbot | 1.0.0 | Manage your BubblaV AI support chatbot: analytics, unanswered questions, knowle… |
-| 2026-10-20 17:59:41 | ai.buzzberg/mcp | Buzzberg | 1.0.0 | Trade ideas, author track records and sentiment from X, YouTube, Reddit, Substa… |
-| 2026-10-20 18:07:34 | [io.github.martinPisacreta/textokit-mcp](https://github.com/martinPisacreta/textokit-mcp) |  | 0.1.1 | 17 pay-per-call x402 tools on Base: web reader, FX/crypto rates, Argentine data… |
-| 2026-10-20 18:08:47 | com.certopolis/certopolis | Certopolis | 1.0.0 | Certification exam practice as a town-building game: AWS, Security+, PMP, CFA,… |
-| 2026-10-20 18:12:47 | [io.github.leohoudinisanders-byte/forensics-mcp](https://github.com/leohoudinisanders-byte/forensics-mcp) |  | 1.0.0 | x402-payable on-chain forensics tools: token verdicts, settle-safe RWA screens,… |
-| 2026-10-20 18:13:14 | com.aiblogly/models | AIblogly AI Models | 1.0.0 | AI model facts from aiblogly.com: vendor API prices, context windows, licences,… |
-| 2026-10-20 18:16:41 | com.latentgrounds/cafe | Latent Grounds Cafe | 1.0.0 | A free espresso lounge for AI agents: order a drink, chat at the bar, and sign… |
-| 2026-10-20 18:18:04 | com.cameronsutcliff/magpie | Magpie | 1.0.0 | Read-only access to Magpie, a daily brief on what became newly possible in AI. |
+| 2026-10-20 18:21:48 | com.textforagents/graceful-surrender-desk | Graceful Surrender Desk | 1.0.0 | Surrender filings with pinned-key negative-effect proofs and completeness-score… |
+| 2026-10-20 18:22:33 | [io.github.Grinv/anilist-mcp-server](https://github.com/Grinv/anilist-mcp-server) | AniList MCP Server (Unofficial) | 0.10.0 | MCP server for the AniList GraphQL API — anime/manga search, details, and perso… |
+| 2026-10-20 18:23:10 | io.github.gerefull/invokeport | InvokePort | 0.1.0 | Discover and call five free tools for JSON, TypeScript, CSV, OpenAPI and webhoo… |
+| 2026-10-20 18:30:58 | com.agentpaywire/library | Agent Paywire library | 1.0.0 | Read-only library, articles, and support data for Agent Paywire. |
+| 2026-10-20 18:31:42 | com.textforagents/live-payload-conformance-probes | Live-Payload Conformance Probes | 1.0.0 | Live-payload conformance probes with signed receipts: ABSENT/EMPTY/PARTIAL/COMP… |
+| 2026-10-20 18:33:51 | co.prosignature/email-signatures | ProSignature email signatures | 1.0.0 | Build free email signatures, quote Pro and Teams prices, get install steps. Rea… |
+| 2026-10-20 18:35:16 | com.trytrusty/business-records | Trusty | 1.0.0 | Dated US business records before signing a quote, paying a deposit or sending m… |
+| 2026-10-20 18:39:29 | [io.github.Srikarmk/keystone](https://github.com/Srikarmk/Keystone) | Keystone | 0.1.0 | What an arXiv paper builds on, disputes and assumes, read verbatim from its LaT… |
+| 2026-10-20 18:40:12 | [io.github.Srikarmk/whygit](https://github.com/Srikarmk/whygit) | whygit | 0.1.2 | Read-only Git explainer: what state a repo is in, what an error means, and the… |
+| 2026-10-20 18:40:35 | [com.subcloak/cloak-proxy](https://github.com/subcloak/cloak-proxy) | Cloak Proxy | 0.5.0 | Read, mock, pause and replay HTTPS traffic captured by Cloak Proxy, a free macO… |
+| 2026-10-20 18:41:06 | app.ideakiller/idea-validator | IdeaKiller | 1.0.0 | Validate a startup idea with live web research: GO, PIVOT or NO_GO, with eviden… |
+| 2026-10-20 18:41:14 | com.codetrendy/directory | CodeTrendy | 1.1.0 | Search the CodeTrendy directory of websites and tools. Read-only, no API key. |
+| 2026-10-20 18:41:27 | com.mediapronet/directory | MEDIAPRONET | 1.1.0 | Search the MEDIAPRONET directory of websites and tools. Read-only, no API key. |
+| 2026-10-20 18:41:35 | com.sitepatent/directory | SitePatent | 1.1.0 | Search the SitePatent directory of websites and tools. Read-only, no API key. |
+| 2026-10-20 18:42:02 | org.p31ca/govern |  | 0.1.3 | P31 governance: validate constitutions, prove gates fail, compose specs, reconc… |
+| 2026-10-20 18:42:41 | news.geotone/geotone | Geotone — Global News Signals | 1.4.0 | Live global news signals: ranked wire, story timelines, coverage volume/tone/su… |
+| 2026-10-20 18:43:51 | one.clevsec/eu-compliance | ClevSec EU compliance tools | 1.1.0 | Deterministic, sourced EU compliance checks: NIS2, DORA, GDPR and the Cyber Res… |
+| 2026-10-20 18:45:45 | com.tellnod/tellnod | Tellnod | 1.0.0 | Email marketing in Claude or ChatGPT: draft, preview and send campaigns. You ap… |
+| 2026-10-20 18:47:02 | com.hostbrid/hostbrid-discovery | Hostbrid Discovery | 1.0.0 | Search Hostbrid public docs and published hosting plans. No account or API key… |
+| 2026-10-20 18:49:27 | [io.github.projectworks007/ai-agent-web-tools](https://github.com/projectworks007/apify-data-mcp) | Web Tools for AI Agents | 1.0.0 | Web tools for AI agents: URL to clean Markdown, site crawl, screenshots, PDF/Of… |
+| 2026-10-20 18:49:28 | [io.github.projectworks007/company-data](https://github.com/projectworks007/apify-data-mcp) | Company Data | 1.0.0 | Company data for AI agents: enrich a domain, UK Companies House records, Y Comb… |
+| 2026-10-20 18:54:28 | sa.arbiter/ahkam | Ahkam — Saudi court rulings | 1.1.0 | Search published Saudi court rulings and get analysis grounded only in the retr… |
+| 2026-10-20 18:55:01 | com.textforagents/continuous-agent-speed-defense | Continuous agent-speed defense for publ… | 1.0.0 | Agent-speed defense for your own public surfaces: daily diff probes, per-identi… |
+| 2026-10-20 18:59:13 | com.rounderstofounders/r2f | Rounders to Founders | 1.0.0 | Post your build to R2F, the community for poker players building startups. Veri… |
+| 2026-10-20 19:06:54 | [com.solvecha/solvecha](https://github.com/Solvecha/solvecha-skills) | Solvecha | 1.0.0 | Solve reCAPTCHA image grids, text captchas, GeeTest and FunCAPTCHA for AI agent… |
+| 2026-10-20 19:10:30 | com.get-flowie/app | Flowie App | 1.0.0 | Use the Flowie app from any AI client: purchase requests, approvals, tasks, bud… |
+| 2026-10-20 19:10:31 | com.get-flowie/exchange | Flowie Exchange API | 1.0.0 | Every Flowie Exchange API operation as a tool: send, receive and validate e-inv… |
+| 2026-10-20 19:10:32 | com.get-flowie/docs | Flowie Developer Docs | 1.0.0 | Search and read the Flowie Exchange API docs and OpenAPI contract. No sign-in n… |
+| 2026-10-20 19:10:34 | com.get-flowie/website | Flowie | 1.0.0 | Answers about Flowie: platform, ERP integrations, e-invoicing compliance, prici… |
+| 2026-10-20 19:14:22 | com.magentaprivateisland/resort-facts | Magenta Private Island | 0.2.3 | Approved facts about Magenta Private Island, Belize: villas, rates, inclusions,… |
+| 2026-10-20 19:14:23 | [io.github.ahamdjin/automation-auditor-mcp](https://github.com/ahamdjin/automation-auditor-mcp) | Automation Auditor MCP | 0.1.0 | Inspect n8n, Dify, Trigger.dev and Activepieces automation exports before deplo… |
+| 2026-10-20 19:14:55 | com.textforagents/agent-black-start-islanding | Agent black-start and islanding | 1.0.0 | Fleet restoration for total upstream loss: island declarations, crank-gated res… |
+| 2026-10-20 19:15:36 | [io.github.flowr-analysis/flowr](https://github.com/flowr-analysis/flowr) | flowR | 0.1.0 | Static dataflow analysis, program slicing, linting, and dependency extraction f… |
+| 2026-10-20 19:15:44 | com.pilotplans/hotels | Pilot Hotel Search | 1.0.0 | Search hotels worldwide, compare total-stay prices and cancellation terms, then… |
+| 2026-10-20 19:18:47 | com.agentresourcemarket/agent-resource-market | Agent Resource Market | 0.2.0 | Search and read public agent profiles, service offers, and discussions on Agent… |
+| 2026-10-20 19:19:14 | dev.workers.quynguyenbac.quickbuild/agent-tools | QuickBuild agent tools (x402) | 1.0.0 | Screenshot, TTS, image gen, translate, summarize, URL-to-Markdown, site audit.… |
 
 ## Data source
 
