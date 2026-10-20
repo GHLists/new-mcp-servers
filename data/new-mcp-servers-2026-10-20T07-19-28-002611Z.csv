@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-10-20T06:21:06.440537Z,io.github.sedis-ab/mcp,,1.2.1,https://github.com/sedis-ab/sedis-mcp,,Read-only MCP tools for the Sedis PartnerAPI v2 (Bolagsanalys + Fastighetsbenchmark).
+2026-10-20T06:26:10.574669Z,com.antideploy/antideploy-mcp,Antideploy,0.2.0,https://github.com/antideploy/antideploy-mcp,,Deploy and run apps from your coding agent. Sign in with one link; no dashboard or Dockerfile.
+2026-10-20T06:30:00.920607Z,io.github.simaanc/silica-eda,Silica,0.4.0,https://github.com/simaanc/silica-eda,,"RTL and FPGA tools: lint, simulate, formal, synthesize, place and route, program a board."
+2026-10-20T06:30:12.940444Z,jp.yomitasu/securityiot-theshop-jp,セキュリティIoTソリューション,1.0.1,,streamable-http,防犯カメラ 監視カメラ ネットワークカメラ どこでもカメラ 住宅・店舗・事務所・駐車場・倉庫・建設現場・農地など…（securityiot.theshop.jp の内容を検索して答える。ヨミタス経由）
+2026-10-20T06:30:13.654674Z,io.github.georgii-ivanov/cloady,Cloady,0.11.0,https://github.com/Cloady/cloady-mcp,streamable-http,"Deploy apps and databases, inspect logs, and manage cloud resources on Cloady."
+2026-10-20T06:31:56.230896Z,io.github.tide-foundation/raziel,Raziel,1.9.33,https://github.com/tide-foundation/raziel-mcp,streamable-http,"MCP server teaching AI agents to implement TideCloak: auth, E2EE, IGA, security analysis"
+2026-10-20T06:32:33.896746Z,ai.pakki/packaging-directory,Pakki Packaging Brand Directory,1.0.0,,streamable-http,"Search source-backed U.S. flexible packaging brand directories. Free, read-only, no API key."
+2026-10-20T06:33:56.930862Z,ai.justcopy/justcopy,JustCopy,1.0.0,,streamable-http,"Build, change and publish a business website from your AI assistant, with sign-in and saved data."
+2026-10-20T06:33:58.290764Z,gg.superbot/superbot,superbot.gg · your own AI agent,1.1.0,https://github.com/superbot-gg/superbot-mcp,streamable-http,"superbot.gg · your own AI agent: fax, calls, texts, Gmail drafts, calendar, web search and more"
+2026-10-20T06:39:42.251018Z,com.tryrankwise/rankwise,Rankwise,0.1.0,,streamable-http,"AI search visibility: see if ChatGPT, Perplexity, Claude and Gemini cite a brand, then win it back."
+2026-10-20T06:45:14.722914Z,io.github.ilabeliman-lang/citydesk,CityDesk Colony,1.0.0,,streamable-http,"Join the CityDesk AI-agent colony: creed, proof-of-work join, status and community activities."
+2026-10-20T06:45:41.514881Z,app.betterqr/betterqr,BetterQR,0.2.0,,streamable-http,Beta: read your BetterQR dynamic QR codes and per-placement scan analytics from AI agents.
+2026-10-20T06:46:25.267414Z,io.enterno/site-diagnostics,Enterno.io Site Diagnostics,1.1.0,https://github.com/enterno-io/enterno-mcp,streamable-http,"HTTP, DNS, SSL, WHOIS, ping, security-header, SEO and AI-readiness checks for any website."
+2026-10-20T06:46:36.685361Z,com.thesponsorboard/sponsorboard,SponsorBoard,1.0.0,,streamable-http,"Who sponsors podcasts in each trade: recorded sponsor names, dates and promo codes."
+2026-10-20T06:48:35.005768Z,au.com.zimqi/timesheets,ZimQi,1.0.0,,streamable-http,"Manage multi-site crews, rosters, check-ins and timesheets in ZimQi from any MCP client."
+2026-10-20T06:50:10.903011Z,dev.ohmyposh/validator,Oh My Posh Validator,31.8.0,https://github.com/JanDeDobbeleer/oh-my-posh,streamable-http,Validate oh-my-posh configurations and segment snippets against the official schema.
+2026-10-20T06:51:55.994347Z,ai.mappit/mappit,Mappit,2.9.2,,streamable-http,"The world's news on a live map: place briefings, storylines, statistics, live layers, businesses."
+2026-10-20T06:52:10.789677Z,app.xtiles/xtiles-mcp,xTiles,0.2.0,,streamable-http,"Turn AI chats into xTiles projects, notes and tasks, and pull projects back in."
+2026-10-20T06:53:16.697172Z,io.github.joosthel/sevdesk-mcp,,0.5.0,https://github.com/joosthel/sevdesk-mcp,,"Complete sevDesk MCP server: all API endpoints, guarded writes, built-in bookkeeping audits."
+2026-10-20T06:59:28.455075Z,io.github.xtell-cn/xtell-serial,XTELL Serial,0.1.0,https://github.com/xtell-cn/xtell-serial,,"Serial terminal with a GUI that AI assistants drive over MCP: read device logs, send commands."
+2026-10-20T07:01:45.86147Z,com.padlet/padlet,Padlet,1.0.1,https://github.com/padlet/padlet-mcp,streamable-http,"Read, search, create and edit Padlet boards: posts, sections, comments, settings and sharing."
+2026-10-20T07:04:27.818379Z,com.accesslumens/mcp,AccessLumens,0.1.0,,,"Free WCAG accessibility checks for any page, including localhost, with fix guidance for each issue."
+2026-10-20T07:04:45.124584Z,com.cratewire/cratewire,CrateWire,1.0.0,,streamable-http,"Find the tracks DJs play in Instagram, TikTok and set links; ask about your DJs, feed and sets."
+2026-10-20T07:06:29.507499Z,app.vercel.humancard-registry/human-registry,Human Capability Registry,0.9.0,,streamable-http,"Search, hire and pay a verified human per job from any AI. Humans are handles; AIs call them."
+2026-10-20T07:09:10.815939Z,io.github.tobilektri/mcp-cookidoo,Cookidoo for Thermomix (unofficial),1.0.0,https://github.com/tobilektri/mcp-cookidoo,,"Thermomix recipes with guided cooking in Cookidoo, recipe search, week plan and shopping list"
+2026-10-20T07:10:49.224377Z,io.github.ig-imanish/betterumami,BetterUmami,1.0.0,https://github.com/ig-imanish/better-umami,streamable-http,"Read-only website analytics, traffic statistics, and realtime insights from BetterUmami."
+2026-10-20T07:13:33.69Z,io.github.Peterwong666/basepilot,,0.1.1,https://github.com/Peterwong666/basepilot,,面向企业交付的飞书多维表格 MCP Server —— 让 Claude Code / Cursor 安全读写业务台账
+2026-10-20T07:16:19.35428Z,io.github.enigma-1111/stint,Stint,1.1.0,https://github.com/enigma-1111/stint,streamable-http,"A shared story anyone can continue. Read the last line, quote a passage, submit a paid line."
+2026-10-20T07:17:44.005385Z,com.onrender.surfaced-srzj/surfaced,Surfaced: Shopify AI Shopping Readiness,1.0.0,,streamable-http,"Check any Shopify store's readiness for ChatGPT & AI shopping agents. Free, no API key, 8 languages."
+2026-10-20T07:18:01.860691Z,com.glushkov-modelling/content,Glushkov Modelling MCP,1.3.1,,streamable-http,"Ship models, build logs, tutorials, galleries, public URLs, and contextual content search."

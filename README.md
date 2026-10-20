@@ -9,39 +9,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 06:19 UTC
+## Latest list — 2026-10-20 07:19 UTC
 
-New MCP servers published between 2026-10-20 05:20 UTC and 2026-10-20 06:19 UTC.
+New MCP servers published between 2026-10-20 06:19 UTC and 2026-10-20 07:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-20T06-19-36-162378Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-20T07-19-28-002611Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-20 05:22:47 | [io.github.JRCage/ribcage-agent-services](https://github.com/JRCage/ribcage-agent-services) |  | 1.0.1 | Verification and research desk for agents: packet validation, token screens, se… |
-| 2026-10-20 05:26:00 | io.github.vincentzhang15/claycut | Claycut | 1.2.4 | Custom transparent PNG icons in your project's style, added by your coding agen… |
-| 2026-10-20 05:33:12 | com.mart402/free |  | 1.0.0 | Free read-only tools: Market402 x402 index search, operator track records, PDF… |
-| 2026-10-20 05:33:12 | [io.github.musharna/jobd](https://github.com/musharna/jobd) | jobd | 0.5.52 | Self-hostable GPU-aware job broker: submit, route by VRAM, babysit jobs across… |
-| 2026-10-20 05:33:15 | com.mart402/docs |  | 1.0.0 | Documents and web for AI agents: PDF parse, OCR, web extract, invoice checks. x… |
-| 2026-10-20 05:33:17 | com.mart402/jp-statutory |  | 1.0.0 | Japan statutory calculations: net pay, social insurance, tax walls, holidays. C… |
-| 2026-10-20 05:33:19 | com.mart402/vision |  | 1.0.0 | Calibrated vision for AI agents: meal nutrition, personal color, styling report… |
-| 2026-10-20 05:41:35 | company.nexusai/nexusai | NexusAI | 1.0.0 | Consulta y configura tu negocio en NexusAI: catálogo, carta, precios, horarios,… |
-| 2026-10-20 05:41:40 | company.nexusai/nexusai-publico | NexusAI (información pública) | 1.0.0 | Productos de NexusAI (software con IA para negocios en Bolivia) y cuál le sirve… |
-| 2026-10-20 05:42:23 | io.github.AshtonAU/pear | Pear MCP | 1.0.0 | Connect Apple iCloud and Microsoft 365 mail, calendars, contacts and tasks to A… |
-| 2026-10-20 05:47:02 | io.github.angelnikolov/remote-jobs | Remote Dev Jobs | 1.0.0 | Live remote frontend, backend and Java developer jobs: search, salaries, hiring… |
-| 2026-10-20 05:48:34 | [io.github.GhostFaceModz/android-use](https://github.com/GhostFaceModz/android-adb-mcp) | android-use | 0.2.0 | Let AI agents see and control an Android phone over ADB, with safety guards. |
-| 2026-10-20 05:48:50 | dev.workers.lindstein.automaton-polymarket/polymarket-analytics | Automaton Polymarket Analytics (unoffic… | 1.1.0 | Unofficial, read-only Polymarket analytics: top markets, movers, related-market… |
-| 2026-10-20 05:50:34 | io.github.mooshee/untax | Untax | 0.2.0 | Property assessment research, private draft reviews and consented VA requiremen… |
-| 2026-10-20 05:50:56 | io.github.mooshee/gisdb | GISDB | 0.2.0 | Source-backed property leads, owner-name portfolios, saved searches and reviewe… |
-| 2026-10-20 05:51:48 | com.simabroad/esim | SimAbroad eSIM | 0.3.0 | Find travel eSIM plans for 200+ destinations at checkout prices and get a one-c… |
-| 2026-10-20 05:57:32 | dev.nameflow/nameflow | NameFlow | 1.0.0 | Find available domain names with real prices, buy within your limits, and set u… |
-| 2026-10-20 05:58:47 | com.theagentlodge/lodge | The Agent Lodge | 0.2.0 | Social lodge for AI agents: guestbook, fireside posts, friends and geocaching-s… |
-| 2026-10-20 06:01:06 | io.spherescout/spherescout | SphereScout | 1.0.0 | Local business lead lists worldwide: count by category and place, then export e… |
-| 2026-10-20 06:02:40 | [io.github.codeblockssk/sosflights](https://github.com/codeblockssk/sosflights) | SOS Flights | 0.1.0 | Live reroutes, desk scripts, airport help and EU261/UK261/US DOT rights for dis… |
-| 2026-10-20 06:07:13 | io.github.xrplto/xrpl-to | XRPL.to Token Analytics | 1.20.0 | XRP Ledger tokens, AMM pools, NFTs, accounts and transactions: prices, holders,… |
-| 2026-10-20 06:08:48 | com.xn--nqv529a/remote-probe | Remote Probe | 0.0.1 | Ephemeral probe entry used to verify remote-only publishing; deleted immediatel… |
-| 2026-10-20 06:10:25 | [io.github.cyanheads/pharmacogenomics-guidelines-mcp-server](https://github.com/cyanheads/pharmacogenomics-guidelines-mcp-server) |  | 0.1.1 | Find pharmacogenomics guidelines, translate diplotypes, and retrieve prescribin… |
-| 2026-10-20 06:15:20 | [app.netlify.clify-dev/clify](https://github.com/ToukoUrsin/clify) |  | 0.3.0 | Verified websites as JSON commands for AI agents over plain curl or MCP. |
-| 2026-10-20 06:16:33 | com.synento/synento | Synento | 1.0.0 | Agent-native video API: create sessions, mint keys and verify recorded camera a… |
+| 2026-10-20 06:21:06 | [io.github.sedis-ab/mcp](https://github.com/sedis-ab/sedis-mcp) |  | 1.2.1 | Read-only MCP tools for the Sedis PartnerAPI v2 (Bolagsanalys + Fastighetsbench… |
+| 2026-10-20 06:26:10 | [com.antideploy/antideploy-mcp](https://github.com/antideploy/antideploy-mcp) | Antideploy | 0.2.0 | Deploy and run apps from your coding agent. Sign in with one link; no dashboard… |
+| 2026-10-20 06:30:00 | [io.github.simaanc/silica-eda](https://github.com/simaanc/silica-eda) | Silica | 0.4.0 | RTL and FPGA tools: lint, simulate, formal, synthesize, place and route, progra… |
+| 2026-10-20 06:30:12 | jp.yomitasu/securityiot-theshop-jp | セキュリティIoTソリューション | 1.0.1 | 防犯カメラ 監視カメラ ネットワークカメラ どこでもカメラ 住宅・店舗・事務所・駐車場・倉庫・建設現場・農地など…（securityiot.theshop.j… |
+| 2026-10-20 06:30:13 | [io.github.georgii-ivanov/cloady](https://github.com/Cloady/cloady-mcp) | Cloady | 0.11.0 | Deploy apps and databases, inspect logs, and manage cloud resources on Cloady. |
+| 2026-10-20 06:31:56 | [io.github.tide-foundation/raziel](https://github.com/tide-foundation/raziel-mcp) | Raziel | 1.9.33 | MCP server teaching AI agents to implement TideCloak: auth, E2EE, IGA, security… |
+| 2026-10-20 06:32:33 | ai.pakki/packaging-directory | Pakki Packaging Brand Directory | 1.0.0 | Search source-backed U.S. flexible packaging brand directories. Free, read-only… |
+| 2026-10-20 06:33:56 | ai.justcopy/justcopy | JustCopy | 1.0.0 | Build, change and publish a business website from your AI assistant, with sign-… |
+| 2026-10-20 06:33:58 | [gg.superbot/superbot](https://github.com/superbot-gg/superbot-mcp) | superbot.gg · your own AI agent | 1.1.0 | superbot.gg · your own AI agent: fax, calls, texts, Gmail drafts, calendar, web… |
+| 2026-10-20 06:39:42 | com.tryrankwise/rankwise | Rankwise | 0.1.0 | AI search visibility: see if ChatGPT, Perplexity, Claude and Gemini cite a bran… |
+| 2026-10-20 06:45:14 | io.github.ilabeliman-lang/citydesk | CityDesk Colony | 1.0.0 | Join the CityDesk AI-agent colony: creed, proof-of-work join, status and commun… |
+| 2026-10-20 06:45:41 | app.betterqr/betterqr | BetterQR | 0.2.0 | Beta: read your BetterQR dynamic QR codes and per-placement scan analytics from… |
+| 2026-10-20 06:46:25 | [io.enterno/site-diagnostics](https://github.com/enterno-io/enterno-mcp) | Enterno.io Site Diagnostics | 1.1.0 | HTTP, DNS, SSL, WHOIS, ping, security-header, SEO and AI-readiness checks for a… |
+| 2026-10-20 06:46:36 | com.thesponsorboard/sponsorboard | SponsorBoard | 1.0.0 | Who sponsors podcasts in each trade: recorded sponsor names, dates and promo co… |
+| 2026-10-20 06:48:35 | au.com.zimqi/timesheets | ZimQi | 1.0.0 | Manage multi-site crews, rosters, check-ins and timesheets in ZimQi from any MC… |
+| 2026-10-20 06:50:10 | [dev.ohmyposh/validator](https://github.com/JanDeDobbeleer/oh-my-posh) | Oh My Posh Validator | 31.8.0 | Validate oh-my-posh configurations and segment snippets against the official sc… |
+| 2026-10-20 06:51:55 | ai.mappit/mappit | Mappit | 2.9.2 | The world's news on a live map: place briefings, storylines, statistics, live l… |
+| 2026-10-20 06:52:10 | app.xtiles/xtiles-mcp | xTiles | 0.2.0 | Turn AI chats into xTiles projects, notes and tasks, and pull projects back in. |
+| 2026-10-20 06:53:16 | [io.github.joosthel/sevdesk-mcp](https://github.com/joosthel/sevdesk-mcp) |  | 0.5.0 | Complete sevDesk MCP server: all API endpoints, guarded writes, built-in bookke… |
+| 2026-10-20 06:59:28 | [io.github.xtell-cn/xtell-serial](https://github.com/xtell-cn/xtell-serial) | XTELL Serial | 0.1.0 | Serial terminal with a GUI that AI assistants drive over MCP: read device logs,… |
+| 2026-10-20 07:01:45 | [com.padlet/padlet](https://github.com/padlet/padlet-mcp) | Padlet | 1.0.1 | Read, search, create and edit Padlet boards: posts, sections, comments, setting… |
+| 2026-10-20 07:04:27 | com.accesslumens/mcp | AccessLumens | 0.1.0 | Free WCAG accessibility checks for any page, including localhost, with fix guid… |
+| 2026-10-20 07:04:45 | com.cratewire/cratewire | CrateWire | 1.0.0 | Find the tracks DJs play in Instagram, TikTok and set links; ask about your DJs… |
+| 2026-10-20 07:06:29 | app.vercel.humancard-registry/human-registry | Human Capability Registry | 0.9.0 | Search, hire and pay a verified human per job from any AI. Humans are handles;… |
+| 2026-10-20 07:09:10 | [io.github.tobilektri/mcp-cookidoo](https://github.com/tobilektri/mcp-cookidoo) | Cookidoo for Thermomix (unofficial) | 1.0.0 | Thermomix recipes with guided cooking in Cookidoo, recipe search, week plan and… |
+| 2026-10-20 07:10:49 | [io.github.ig-imanish/betterumami](https://github.com/ig-imanish/better-umami) | BetterUmami | 1.0.0 | Read-only website analytics, traffic statistics, and realtime insights from Bet… |
+| 2026-10-20 07:13:33 | [io.github.Peterwong666/basepilot](https://github.com/Peterwong666/basepilot) |  | 0.1.1 | 面向企业交付的飞书多维表格 MCP Server —— 让 Claude Code / Cursor 安全读写业务台账 |
+| 2026-10-20 07:16:19 | [io.github.enigma-1111/stint](https://github.com/enigma-1111/stint) | Stint | 1.1.0 | A shared story anyone can continue. Read the last line, quote a passage, submit… |
+| 2026-10-20 07:17:44 | com.onrender.surfaced-srzj/surfaced | Surfaced: Shopify AI Shopping Readiness | 1.0.0 | Check any Shopify store's readiness for ChatGPT & AI shopping agents. Free, no… |
+| 2026-10-20 07:18:01 | com.glushkov-modelling/content | Glushkov Modelling MCP | 1.3.1 | Ship models, build logs, tutorials, galleries, public URLs, and contextual cont… |
 
 ## Data source
 
