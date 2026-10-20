@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-10-20T19:22:21.943636Z,io.github.emmanuel-defreitas/gpui-agentation,GPUI Agentation,0.1.0,https://github.com/emmanuel-defreitas/gpui-agentation,,Read and manage development annotations from a local GPUI app.
+2026-10-20T19:22:51.892644Z,io.github.joshuawowk/pushover-mcp,Pushover Notifications,1.0.1,https://github.com/joshuawowk/pushover-mcp,,Send push notifications to your devices and groups via the Pushover API.
+2026-10-20T19:24:13.175369Z,com.pagetovid/pagetovid,PageToVid,1.192.0,,streamable-http,"Turn any web page into a narrated video: films the real site, writes, voices and captions it"
+2026-10-20T19:25:06.411806Z,io.github.joshuawowk/signal-mcp,Signal Messaging (via signal-cli),1.0.1,https://github.com/joshuawowk/signal-mcp,,Send Signal messages and read replies through your own signal-cli JSON-RPC daemon (unofficial).
+2026-10-20T19:26:54.746265Z,com.moatdrop/moatdrop,MoatDrop,0.20.0,,streamable-http,Ask AI questions of client documents shared through MoatDrop secure links.
+2026-10-20T19:27:59.777322Z,co.hazelchat/hazelchat,Hazelchat,1.0.0,,streamable-http,"Check your Hazelchat website agent: visitor questions, gaps and enquiries; add answers to its draft."
+2026-10-20T19:28:13.206866Z,ai.realtypad/realtypad,RealtyPad,1.0.0,,streamable-http,"Real estate deal sourcing, underwriting, and buyer matching for your RealtyPad workspace."
+2026-10-20T19:28:23.79943Z,io.github.AnshumanAtrey/linkedin-harvester,LinkedIn Profile Finder - Email to LinkedIn URL Lookup,0.2.6,https://github.com/AnshumanAtrey/linkedin-harvester,streamable-http,LinkedIn Profile Finder - Email to LinkedIn URL Lookup
+2026-10-20T19:29:53.3287Z,io.github.AxelVerneBooks/marketing-scope-mcp,Marketing Scope,0.1.0,https://github.com/AxelVerneBooks/marketing-scope-mcp,,"Plan campaigns, score offers explainably, and enforce offer-cited tactics before spending."
+2026-10-20T19:33:43.917213Z,tech.getnightshift/public,NIGHTSHIFT public,1.0.0,https://github.com/RobertKodes/nightshift,streamable-http,"Keyless agent tools: NIGHTSHIFT products over x402, IMD tokens, IMD swarm health, Night League."
+2026-10-20T19:39:07.506002Z,dev.orvain/orvain-ui,Orvain UI,1.0.0,,streamable-http,"Orvain UI design system for React and Vue: real component props, variants and tokens for AI tools"
+2026-10-20T19:39:57.823695Z,com.atticcapital/attic,Attic,0.1.0,,,"Weekly Attic Capital reports for coins, cards, cars, and art."
+2026-10-20T19:40:50.181277Z,io.github.Temple-of-Epiphany/imap-mcp-pro,IMAP MCP Pro,2.35.0,https://github.com/Temple-of-Epiphany/imap-mcp-pro,,"Production IMAP & SMTP for Claude: multi-account email search, triage, send, and spam checks."
+2026-10-20T19:41:36.540395Z,io.github.wretcher207/reaper-daemon,Reaper Daemon,3.23.0,https://github.com/wretcher207/reaper-daemon,,"REAPER MCP server: let Claude read your session, set FX, write automation and measure mix moves."
+2026-10-20T19:43:30.854411Z,io.github.AYUSH-148/db-explorer-mcp-server,DB Explorer,0.1.0,https://github.com/AYUSH-148/DB-Explorer-MCP,,"Read-only SQL for PostgreSQL, MySQL and SQLite: schema, safe SELECTs, EXPLAIN, index advice"
+2026-10-20T19:43:35.251514Z,io.github.ShaanGS/ventriloquist,Ventriloquist,0.2.0,https://github.com/ShaanGS/ventriloquist,,"Turn Mac apps into MCP tools via the accessibility API: no screenshots, no model per step."
+2026-10-20T19:45:00.416389Z,com.worder/worder,Worder,1.0.0,,streamable-http,"Find and price AI voices from real, verified voice actors in ten languages. Read-only, no sign-up."
+2026-10-20T19:46:18.076776Z,io.github.sepehr071/mcpsmith,mcpsmith,0.1.0,https://github.com/sepehr071/mcpsmith,,Build curated MCP servers from an OpenAPI file or a recorded website; your agent designs the tools.
+2026-10-20T19:50:03.399766Z,ai.okforest/okforest,OKForest,2026.10.20,,streamable-http,"Your organization's knowledge as OKF trees in Git, for AI assistants to search, read, and cite"
+2026-10-20T19:50:19.018619Z,io.github.rustemmustafingovua-byte/free-web-mcp,free-web-mcp,0.1.0,https://github.com/rustemmustafingovua-byte/free-web-mcp,streamable-http,Web search and page reading for AI agents with zero API credits
+2026-10-20T19:50:46.048857Z,com.wiseppc/wiseppc,WisePPC,1.0.0,,streamable-http,"Amazon Ads and Seller Central data for your AI agent: ads, search terms, profit and listings."
+2026-10-20T19:50:53.997329Z,com.dentaldigitalcenter/mcp,Dental Digital Center (Buenos Aires),1.1.0,,streamable-http,"Read-only info for a Buenos Aires dental clinic: treatments, reference prices, hours and booking."
+2026-10-20T19:58:53.304791Z,com.sansglu/places,Sansglu,1.0.0,,streamable-http,"Find gluten-free and celiac-friendly restaurants, bakeries and cafés in any city, on a map."
+2026-10-20T20:00:16.72287Z,com.allcanadaphotos/mcp,All Canada Photos,1.0.0,,streamable-http,"Search and license real Canadian stock photography: landscapes, wildlife, cities and people."
+2026-10-20T20:00:49.199323Z,io.github.AndreyBroker/cronfy,Cronfy,0.4.0,,streamable-http,"Time tracking you talk to: log, check and fix your work hours from your AI assistant."
+2026-10-20T20:05:42.936061Z,io.github.xsignon-secure/E2E,Playwright E2E MCP,0.3.0,https://github.com/xsignon-secure/E2E,,"Diagnose and fix failing Playwright tests: trace analysis, verified fixes, per-test flaky verdicts."
+2026-10-20T20:09:35.801862Z,io.github.MojoMo-io/mcp-server,,1.0.1,https://github.com/MojoMo-io/mcp-server,,"Persistent-identity AI avatars, tethered to the humans who vouch for them."
+2026-10-20T20:11:58.127044Z,io.github.meridian21lab/cogito-mem,cogito-mem (Cogi),0.2.0,https://github.com/meridian21lab/cogito-mem,,"Local long-term memory for agents: every message kept word for word, found by words and meaning."
+2026-10-20T20:12:08.618775Z,app.tourpro/mcp,TourPro,1.0.0,,streamable-http,"Tour management for tour managers, production teams, and touring crews. Free for teams up to 5."
+2026-10-20T20:12:11.038971Z,com.textforagents/event-wake-witness,Event-wake witness for agent triggers,1.0.0,,streamable-http,Signed receipts + horizon statements proving whether an event-triggered agent actually woke.
+2026-10-20T20:14:25.203379Z,io.github.happyendpointhq/happyendpoint-mcp,Happy Endpoint,0.1.1,https://github.com/happyendpointhq/happyendpoint-mcp,,"Real-time UAE property, retail and travel data: listings, transactions, rental yields, products."
+2026-10-20T20:14:59.33634Z,com.smartstrategyapps/quickbase,Quickbase MCP by Smart Strategy,0.6.1,,streamable-http,Ask your Quickbase apps in plain language. Read-only by default; writes need human approval.
