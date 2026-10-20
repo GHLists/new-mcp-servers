@@ -9,32 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 08:20 UTC
+## Latest list — 2026-10-20 09:20 UTC
 
-New MCP servers published between 2026-10-20 07:19 UTC and 2026-10-20 08:20 UTC.
+New MCP servers published between 2026-10-20 08:20 UTC and 2026-10-20 09:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-20T08-20-16-698864Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-20T09-20-01-046122Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-20 07:20:43 | com.airfarebrain/airfare-brain | Airfare Brain | 1.0.0 | True cost of a flight's extras (bags, seats, fees) on 11 European airlines, dat… |
-| 2026-10-20 07:23:27 | im.aifinder/aifinder | AIFinder | 1.0.0 | Find AI tools with verified Korean UI, KRW pricing, Korean business info and tr… |
-| 2026-10-20 07:25:11 | me.brainrotify/brainrotify | Brainrotify | 1.1.0 | Make faceless short videos and AI songs, and autopost series to TikTok, Instagr… |
-| 2026-10-20 07:25:49 | [dev.smartergpt/lex](https://github.com/SmarterGPT/lex) | Lex | 4.4.2 | Episodic memory, Frames, Policy Neighborhoods, and policy enforcement for AI ag… |
-| 2026-10-20 07:26:56 | de.containerdienst-regional/anfrage | Containerdienst-Regional | 1.0.0 | Containerdienste in Deutschland finden, Preise vergleichen und kostenlos Angebo… |
-| 2026-10-20 07:35:59 | dev.monito/monito | Monito | 1.0.0 | Test a web app in a real browser from plain English. Passed, failed or cannot v… |
-| 2026-10-20 07:38:44 | com.firstsited/firstsited | FirstSited | 1.0.1 | New business websites as they go live, with what they are built with and how to… |
-| 2026-10-20 07:45:31 | com.getdomly/rentals | Domly — rentals in Bulgaria | 1.0.0 | Search long-term rentals in Bulgaria, get rent prices by city and district, con… |
-| 2026-10-20 07:47:58 | org.econdash/econdash | EconDash | 1.0.0 | Free, read-only economic indicators for any country from the World Bank, IMF, F… |
-| 2026-10-20 07:48:47 | za.co.wrdo/wrdo | WRDO | 1.0.0 | Local businesses, menus and price lists in Paarl and the Cape Winelands; start… |
-| 2026-10-20 07:49:20 | [dev.smartergpt/axf](https://github.com/SmarterGPT/axf) | AXF | 2.1.4 | Agent eXoskeleton Framework control plane for workspace-native agent capabiliti… |
-| 2026-10-20 07:55:45 | [io.github.guyvolvo/oceanofjobs](https://github.com/guyvolvo/oceanofjobs) | Ocean of Jobs | 1.0.0 | Search 1.2M+ open jobs from 22k companies, read full listings and look up emplo… |
-| 2026-10-20 07:56:11 | [io.github.mrscraper-com/mrscraper-mcp](https://github.com/mrscraper-com/mrscraper-mcp) | MrScraper MCP | 0.2.1 | Scraper API for HTML, Markdown, and screenshots, Google search, and account usa… |
-| 2026-10-20 08:03:33 | ae.waggle/vera | Vera | 0.1.0 | Scrape, search and extract the public web. 3,000 free credits at https://vera.w… |
-| 2026-10-20 08:03:52 | si.ayastudio/aya-studio | Aya Studio | 1.0.3 | Make cartoons with consistent characters: pictures, animated clips, talking cha… |
-| 2026-10-20 08:18:31 | fr.sophrologie-cfriderich/rendez-vous | Christine Friderich – Sophrologue : pri… | 1.0.0 | Réserver un appel découverte offert avec Christine Friderich, sophrologue à Cli… |
-| 2026-10-20 08:19:00 | [io.github.StudioPlatforms/aistupidlevel](https://github.com/StudioPlatforms/aistupidlevel-sdk) | AI Stupid Level | 0.1.0 | LLM benchmark rankings, drift status, incidents and Smart Router previews from… |
-| 2026-10-20 08:19:34 | [com.molyin/mcp](https://github.com/zeroonehq/molyin.com) | Molyin | 1.0.0 | Generate AI images, videos and music from your AI client. |
+| 2026-10-20 08:21:13 | com.deltastring/beacon |  | 845425bd | Zendesk configuration management for AI agents: propose, review, apply and roll… |
+| 2026-10-20 08:22:41 | [io.github.igrlk/uiverify](https://github.com/uiverify/uiverify) | UI Verify | 1.1.0 | MCP server for visual regression testing: triage a PR's UI diffs from your codi… |
+| 2026-10-20 08:24:02 | io.github.danha2048/tde | TDE | 1.0.0 | Prices a trade deal month by month: what an order does to your cash, and what t… |
+| 2026-10-20 08:31:24 | com.addsynapse/woocommerce | Store Manager for WooCommerce | 1.0.0 | Run a WooCommerce store from Claude: reports, SEO, prices, stock. You approve e… |
+| 2026-10-20 08:31:40 | ai.boon/boon | Boon | 1.0.0 | Run pursuits, answer decisions, handle inbound requests and manage your front d… |
+| 2026-10-20 08:32:13 | [com.samebase/samebase](https://github.com/samebase/plugin) | Samebase | 0.3.6 | Build and manage repository-backed web apps with Samebase, GitHub, Convex, and… |
+| 2026-10-20 08:32:42 | [io.github.lukehollis/spacery](https://github.com/lukehollis/spacery) | Spacery | 0.2.2 | Publish 3D scans, Gaussian splats and 360 tours as shareable spaces, and build… |
+| 2026-10-20 08:34:35 | com.letkite/letkite | LetKite | 1.5.0 | Run commands and manage files on your own machines. Needs a LetKite account; OA… |
+| 2026-10-20 08:40:05 | com.claude.platform/docs | Claude Platform Docs | 1.0.0 | Search and read the Claude documentation and API reference. |
+| 2026-10-20 08:42:23 | so.atwork/workspace | Atwork | 1.0.0 | Plug your agency's workspace into Claude or ChatGPT: sheets, tasks and pages, o… |
+| 2026-10-20 08:44:50 | [io.github.altoninelli/selfpaid](https://github.com/altoninelli/selfpaid-mcp) | SelfPaidPal — Autonomous DeFi Payments | 2.1.3 | Zero-net-cost payments on Base Mainnet powered by automated Aave V3 & Morpho yi… |
+| 2026-10-20 08:47:07 | fr.signamail/signamail | SignaMail | 1.0.0 | Email signatures for French businesses: HTML generator, legal mentions per job,… |
+| 2026-10-20 08:49:01 | [io.github.AI-osho/godot-mcp-loop](https://github.com/AI-osho/godot-mcp-loop) | Godot MCP Loop | 0.9.0 | Drive a live Godot 4 editor: edit scenes and scripts, run and test the game, re… |
+| 2026-10-20 08:49:06 | [io.github.Servosity/td-synnex-mcp](https://github.com/servosity/msp-skills) | TD SYNNEX MCP | 0.1.0 | StreamOne ION reseller API plus a local licence book: renewals, margin, seat tr… |
+| 2026-10-20 08:57:17 | dev.flostep/flostep | Flostep | 1.0.0 | Turn a flow written as text into a step-through diagram you can share, present… |
+| 2026-10-20 08:58:25 | com.tublish/tublish | Tublish | 1.0.0 | Your Tublish account in the chat: post everywhere, send videos, change your car… |
+| 2026-10-20 09:02:21 | [com.dougalpaw/pawpulse](https://github.com/dougal-paw/pawpulse) | Paw Pulse | 0.3.0 | Heartbeat and tokens/sec monitoring for self-hosted LLM servers (Ollama etc.),… |
+| 2026-10-20 09:02:56 | au.com.scaleupconsulting/sharemates | Sharemates | 0.1.0 | Read your Sharetribe marketplace's listings, users, transactions and events thr… |
+| 2026-10-20 09:05:08 | [io.github.lucasmartins-ai/lcc](https://github.com/lucasmartins-ai/lcc) | lcc — Local Context Compiler | 1.2.0 | Compact agent context verbatim, offline: cut spent tool outputs, recall them by… |
+| 2026-10-20 09:07:31 | [com.mireye/earth](https://github.com/Mireye-Labs/mireye-earth-mcp) |  | 0.6.0 | MCP server for Mireye Earth — federal-source-cited geospatial data for any MCP-… |
+| 2026-10-20 09:08:31 | io.github.VolcVneBotTeam/iga-pages-mcp | IGA Pages | 1.0.0 | IGA Pages MCP server |
+| 2026-10-20 09:08:50 | [io.github.karank2512/tell-mcp](https://github.com/karank2512/tell-ai) | tell: buying signals with receipts | 0.1.0 | Ask tell which accounts are in market and why, with a receipt URL behind every… |
+| 2026-10-20 09:12:30 | [io.github.ies86/shortlist-price-index](https://github.com/ies86/shortlist-mcp) | Shortlist Price Index | 1.2.1 | Software prices for AI agents: hosting, SEO, backup, antivirus, email and more.… |
+| 2026-10-20 09:15:59 | [io.github.Rakesh1002/namemyapp](https://github.com/Rakesh1002/namemyapp-mcp) |  | 1.1.8 | Brandable business names with live domain availability + one-click buy URLs. |
+| 2026-10-20 09:18:03 | [io.github.kochetkov-ma/brewpage-mcp](https://github.com/kochetkov-ma/brewpage-openapi) |  | 1.9.4 | Publish HTML, Markdown, sites, KV, JSON and files on BrewPage; keep the returne… |
+| 2026-10-20 09:19:28 | com.specita/release-evidence | Specita | 1.0.0 | Read-only release evidence for coding agents: findings, deliveries, source and… |
+| 2026-10-20 09:19:52 | org.aspern/aspern |  | 1.1.0 | What the chain records about an address before you pay it, and whether a paymen… |
 
 ## Data source
 
