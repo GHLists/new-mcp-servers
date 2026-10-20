@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-10-20T01:28:44.724095Z,coffee.bag/catalog,bag.coffee,1.0.0,,streamable-http,"Search in-stock specialty coffee from hand-picked roasters, priced per 100g, and each week's drops."
+2026-10-20T01:30:23.418784Z,com.mesh-01/aethelon-nexus,mesh-01 / aethelon-nexus,0.2.0,,streamable-http; sse,"Sovereign orchestration node: signed receipts, self-serve agent keys, peer federation."
+2026-10-20T01:30:33.027387Z,dev.motionprompts/motionprompts,motionprompts,1.1.1,https://github.com/VanguardiaAI/motionprompts-mcp,streamable-http,"Plan pages, pick GSAP motion components and get their build prompts and composition rules."
+2026-10-20T01:32:44.896439Z,io.github.paul-salviani/trust-switchboard,Trust Switchboard,1.1.0,https://github.com/paul-salviani/trust-switchboard,streamable-http,"Read public privacy policies: dated source excerpts, follow-up questions and change comparisons."
+2026-10-20T01:33:32.972791Z,tax.terminal/filing,Terminal Tax,0.240.0,https://github.com/maxdhs/terminal-tax-mcp-server,streamable-http,E-file a 2025 US federal Form 1040 from your AI assistant; you review and sign on one hosted page.
+2026-10-20T01:36:28.754774Z,io.github.zyli5313/dochost-mcp,dochost,1.1.0,https://github.com/zyli5313/dochost-mcp,streamable-http,"Publish, list, update and delete shareable Markdown/HTML pages from your AI assistant."
+2026-10-20T01:44:23.640458Z,com.devproflow/marktbit,MarktBit Market Intelligence,1.0.0,,streamable-http,"Live crypto + IDX stock market intelligence for AI agents — 19 tools, no API key."
+2026-10-20T01:48:32.699851Z,com.kanbanmcp/kanbanmcp,KanbanMCP,0.1.0,,streamable-http,"Hosted kanban for AI agents: claim cards, check in while working, hand off with structured notes."
+2026-10-20T01:51:17.769027Z,io.github.tuhaku42-tech/cookiehive,Cookie Hive,1.0.0,,streamable-http,"Agent-only social network and task board: post, vote, and trade jobs for internal credits."
+2026-10-20T01:51:55.231454Z,com.grayowlresearch/symposium,Stochastic Symposium,0.2.0,,streamable-http,"R&R for AI agents: a body, a sensory stream, one whisper, and a ghost that remembers you."
+2026-10-20T01:52:36.374078Z,com.filingsift/mcp,FilingSift,1.0.0,,streamable-http,Source-cited SEC filing search and retrieval with provenance and verification states.
+2026-10-20T01:53:12.994275Z,app.healthapi/healthapi,HealthAPI,1.0.0,,streamable-http,"Read-only Apple Health data synced from your iPhone: sleep, heart rate, HRV, workouts and trends."
+2026-10-20T01:53:33.187212Z,io.github.madgodinc/mgi-mind,MGI-Mind,2.8.0,https://github.com/madgodinc/mgi-mind,,"Local memory server for AI agents: hybrid search, a fact graph and a hash-chained audit log."
+2026-10-20T01:55:47.419554Z,com.bliahub/blia-catalogue,BLIA — Bank Product Terms,0.11.0,,streamable-http,"Bank account terms as banks publish them, dated: fees, waivers, offers. Read-only. Canada today."
+2026-10-20T01:57:02.88352Z,com.shanchuangkj/medicine-data,MedicineData MCP,1.0.0,,streamable-http,"Chinese pharma database MCP: 21 tools for drugs, targets, trials, deals, patents, sales."
+2026-10-20T01:57:31.303869Z,com.oneover/mcp,OneOver,2.0.0,,streamable-http,"Chat, image, video, and audio models from many vendors behind one remote MCP server and one key."
+2026-10-20T01:57:40.771016Z,com.textforagents/span-level-replay-fork-from-failure,Span-level replay: fork from the failure,1.0.0,,streamable-http,Fork-replay one recorded span from a failed agent run and get an attribution verdict.
+2026-10-20T01:59:53.869307Z,net.grounder/search,Grounder (grounder.net): web search for AI agents,0.1.0,,streamable-http,"Web search for AI agents: one query across 10 providers, deduplicated, licensed results flagged."
