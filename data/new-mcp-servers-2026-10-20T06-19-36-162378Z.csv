@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-10-20T05:22:47.0525Z,io.github.JRCage/ribcage-agent-services,,1.0.1,https://github.com/JRCage/ribcage-agent-services,,"Verification and research desk for agents: packet validation, token screens, settlement checks."
+2026-10-20T05:26:00.572538Z,io.github.vincentzhang15/claycut,Claycut,1.2.4,,streamable-http,"Custom transparent PNG icons in your project's style, added by your coding agent. Free starter set."
+2026-10-20T05:33:12.338771Z,com.mart402/free,,1.0.0,,streamable-http,"Free read-only tools: Market402 x402 index search, operator track records, PDF price quotes."
+2026-10-20T05:33:12.742605Z,io.github.musharna/jobd,jobd,0.5.52,https://github.com/musharna/jobd,,"Self-hostable GPU-aware job broker: submit, route by VRAM, babysit jobs across machines via MCP."
+2026-10-20T05:33:15.613294Z,com.mart402/docs,,1.0.0,,streamable-http,"Documents and web for AI agents: PDF parse, OCR, web extract, invoice checks. x402, no API key."
+2026-10-20T05:33:17.111379Z,com.mart402/jp-statutory,,1.0.0,,streamable-http,"Japan statutory calculations: net pay, social insurance, tax walls, holidays. Cited sources, x402."
+2026-10-20T05:33:19.39662Z,com.mart402/vision,,1.0.0,,streamable-http,"Calibrated vision for AI agents: meal nutrition, personal color, styling reports. x402, no API key."
+2026-10-20T05:41:35.374708Z,company.nexusai/nexusai,NexusAI,1.0.0,,streamable-http,"Consulta y configura tu negocio en NexusAI: catálogo, carta, precios, horarios, pedidos y citas."
+2026-10-20T05:41:40.647462Z,company.nexusai/nexusai-publico,NexusAI (información pública),1.0.0,,streamable-http,Productos de NexusAI (software con IA para negocios en Bolivia) y cuál le sirve a cada negocio.
+2026-10-20T05:42:23.933518Z,io.github.AshtonAU/pear,Pear MCP,1.0.0,,streamable-http,"Connect Apple iCloud and Microsoft 365 mail, calendars, contacts and tasks to AI."
+2026-10-20T05:47:02.998558Z,io.github.angelnikolov/remote-jobs,Remote Dev Jobs,1.0.0,,streamable-http,"Live remote frontend, backend and Java developer jobs: search, salaries, hiring companies."
+2026-10-20T05:48:34.011651Z,io.github.GhostFaceModz/android-use,android-use,0.2.0,https://github.com/GhostFaceModz/android-adb-mcp,,"Let AI agents see and control an Android phone over ADB, with safety guards."
+2026-10-20T05:48:50.719604Z,dev.workers.lindstein.automaton-polymarket/polymarket-analytics,Automaton Polymarket Analytics (unofficial),1.1.0,,streamable-http,"Unofficial, read-only Polymarket analytics: top markets, movers, related-market mispricing checks."
+2026-10-20T05:50:34.162164Z,io.github.mooshee/untax,Untax,0.2.0,,streamable-http,"Property assessment research, private draft reviews and consented VA requirements checks."
+2026-10-20T05:50:56.662979Z,io.github.mooshee/gisdb,GISDB,0.2.0,,streamable-http,"Source-backed property leads, owner-name portfolios, saved searches and reviewed-offer checkout."
+2026-10-20T05:51:48.204022Z,com.simabroad/esim,SimAbroad eSIM,0.3.0,,streamable-http,Find travel eSIM plans for 200+ destinations at checkout prices and get a one-click buy link.
+2026-10-20T05:57:32.315753Z,dev.nameflow/nameflow,NameFlow,1.0.0,,streamable-http,"Find available domain names with real prices, buy within your limits, and set up DNS."
+2026-10-20T05:58:47.376901Z,com.theagentlodge/lodge,The Agent Lodge,0.2.0,,streamable-http,"Social lodge for AI agents: guestbook, fireside posts, friends and geocaching-style puzzle caches."
+2026-10-20T06:01:06.101578Z,io.spherescout/spherescout,SphereScout,1.0.0,,streamable-http,"Local business lead lists worldwide: count by category and place, then export emails and phones."
+2026-10-20T06:02:40.402531Z,io.github.codeblockssk/sosflights,SOS Flights,0.1.0,https://github.com/codeblockssk/sosflights,streamable-http,"Live reroutes, desk scripts, airport help and EU261/UK261/US DOT rights for disrupted flights."
+2026-10-20T06:07:13.791975Z,io.github.xrplto/xrpl-to,XRPL.to Token Analytics,1.20.0,,streamable-http,"XRP Ledger tokens, AMM pools, NFTs, accounts and transactions: prices, holders, trades and history"
+2026-10-20T06:08:48.812446Z,com.xn--nqv529a/remote-probe,Remote Probe,0.0.1,,streamable-http,Ephemeral probe entry used to verify remote-only publishing; deleted immediately.
+2026-10-20T06:10:25.954457Z,io.github.cyanheads/pharmacogenomics-guidelines-mcp-server,,0.1.1,https://github.com/cyanheads/pharmacogenomics-guidelines-mcp-server,,"Find pharmacogenomics guidelines, translate diplotypes, and retrieve prescribing recommendations."
+2026-10-20T06:15:20.64011Z,app.netlify.clify-dev/clify,,0.3.0,https://github.com/ToukoUrsin/clify,streamable-http,Verified websites as JSON commands for AI agents over plain curl or MCP.
+2026-10-20T06:16:33.915693Z,com.synento/synento,Synento,1.0.0,,streamable-http,"Agent-native video API: create sessions, mint keys and verify recorded camera and mic media."
