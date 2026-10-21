@@ -1,0 +1,39 @@
+created_at,server,title,version,repository,transports,description
+2026-10-21T21:22:09.024065Z,com.epvotes/epvotes,EP Votes,1.0.0,,streamable-http,"European Parliament roll-call votes, MEP records and dossiers from official records."
+2026-10-21T21:26:28.738495Z,com.4home-pros/business-manager,Business Manager 4Home Pros,2.2.0,,streamable-http,"Run a lawn, pool or cleaning business by chat: today's route, visits, payments, who owes you."
+2026-10-21T21:28:04.411272Z,ai.harcourtvaluations/nav,Harcourt Valuations,1.0.2,,streamable-http,"Independent NAV and P/NAV for listed mining companies, built from filed technical reports. Free."
+2026-10-21T21:28:30.266558Z,io.github.moezdil/mcp-gpu-server,GPU Server,0.2.1,https://github.com/moezdil/mcp-gpu-server,,"MCP server for GPU monitoring: nvidia-smi, VRAM, utilization, temperature"
+2026-10-21T21:29:01.944607Z,io.github.cexplayer01/dfwmetro-directory,dfwmetro.net directory,1.2.0,https://github.com/cexplayer01/dfwmetro-mcp,streamable-http,Verified DFW home-services directory. AI agents submit listings and find bookable pros.
+2026-10-21T21:32:00.544017Z,io.github.ishtiaqrahman/aura-dna,Aura DNA,0.1.0,,streamable-http,"Seasonal palettes, color-matched essentials, and your connected Aura DNA color and style reports."
+2026-10-21T21:32:10.064246Z,io.github.kimmawla/vuln-triage-mcp,,0.1.0,https://github.com/kimmawla/vuln-triage-mcp,,"Tells your AI agent which vulnerabilities to fix first, using OSV.dev, FIRST EPSS, and CISA KEV."
+2026-10-21T21:35:07.485121Z,com.octothinks/presets,Octo Thinks Decision Presets,1.0.0,,streamable-http,Reviewed decision matrices and buying guides: ranked options and weighted criteria in 6 languages
+2026-10-21T21:35:10.977943Z,io.github.ac12644/vayl,Vayl,0.9.0,https://github.com/ac12644/vayl,,"Reconciling memory for coding agents: a changed decision retires the old one, with history kept."
+2026-10-21T21:35:26.417857Z,io.github.tecspda/listmonk-mcp-ts,Listmonk MCP,0.1.0,https://github.com/tecspda/listmonk-mcp-ts,,"Listmonk MCP server: subscribers, lists, campaigns, templates, media, transactional email"
+2026-10-21T21:38:06.170703Z,io.github.brainsparker/frugal,Frugal,0.2.0,https://github.com/brainsparker/frugal,,"The open routing layer for AI tools: tool calls routed per policy, decision on every result."
+2026-10-21T21:41:37.218715Z,io.github.raudarlabs/transformpipe,TransformPipe,2.2.0,https://github.com/raudarlabs/transformpipe,streamable-http,"Convert documents to Markdown and back, keep them, and share them as a page with one link."
+2026-10-21T21:41:57.226559Z,xyz.memorybridgeai/memory-bridge,Memory Bridge,1.0.0,,streamable-http,"One memory for all your AI tools: Claude, ChatGPT, Cursor and any MCP client share the same notes."
+2026-10-21T21:47:07.112533Z,io.github.arben-adm/mcp-sequential-thinking,Sequential Thinking Working Notes,0.7.0,https://github.com/arben-adm/mcp-sequential-thinking,,"Local working notes, decisions, evidence and resumable sessions with SQLite persistence."
+2026-10-21T21:54:53.917916Z,dev.monton/monton,Monton,1.0.0,,streamable-http,"Shared docs for people and their agents: markdown docs with comments, history and search."
+2026-10-21T21:54:59.824108Z,app.statuz/statuz,Statuz,2.1.3,,streamable-http,"Schedule and publish posts to X, Bluesky, Mastodon, LinkedIn and Reddit from your agent."
+2026-10-21T21:56:21.381038Z,io.github.DiegoTepichin/mcp-mexico,mcp-mexico,0.1.3,https://github.com/DiegoTepichin/mcp-mexico,,"Official Mexican public data for AI agents: Banxico rates, INEGI inflation, UMA and ISR tables."
+2026-10-21T22:01:49.509437Z,io.github.agentgate-builder/x402-prompt-injection-scan,InjectScan,0.1.0,https://github.com/agentgate-builder/x402-prompt-injection-scan,streamable-http,"Prompt-injection scanner for agents: risk score, categories and spans for text, pages, MCP tools"
+2026-10-21T22:06:09.487184Z,com.framevine/framevine,Framevine,1.0.0,,streamable-http,"Generate, extend and edit AI images and videos, then assemble clips on a timeline and render."
+2026-10-21T22:14:44.355173Z,io.github.pipeworx-io/datalastic,Datalastic,0.1.3,https://github.com/pipeworx-io/mcp-datalastic,streamable-http,Datalastic MCP — live AIS vessel positions (datalastic.com)
+2026-10-21T22:14:57.938324Z,io.github.pipeworx-io/dataverse-harvard,Dataverse Harvard,0.1.3,https://github.com/pipeworx-io/mcp-dataverse-harvard,streamable-http,Harvard Dataverse MCP.
+2026-10-21T22:15:11.649315Z,io.github.pipeworx-io/dati-it,Dati It,0.1.3,https://github.com/pipeworx-io/mcp-dati-it,streamable-http,dati.gov.it MCP — Italy's national open-data portal (CKAN API).
+2026-10-21T22:15:27.025959Z,io.github.pipeworx-io/datos-ar,Datos Ar,0.1.3,https://github.com/pipeworx-io/mcp-datos-ar,streamable-http,Argentina 'Series de Tiempo' MCP — national time-series API (apis.datos.gob.ar).
+2026-10-21T22:15:41.047484Z,io.github.pipeworx-io/datos-cl,Datos Cl,0.1.3,https://github.com/pipeworx-io/mcp-datos-cl,streamable-http,datos.gob.cl CKAN MCP.
+2026-10-21T22:15:55.305701Z,io.github.pipeworx-io/datos-co,Datos Co,0.1.3,https://github.com/pipeworx-io/mcp-datos-co,streamable-http,datos.gov.co — Colombia's national open-data portal (Socrata platform).
+2026-10-21T22:16:08.11948Z,io.github.pipeworx-io/datos-gob-es,Datos Gob Es,0.1.3,https://github.com/pipeworx-io/mcp-datos-gob-es,streamable-http,datos.gob.es MCP.
+2026-10-21T22:16:25.371189Z,io.github.pipeworx-io/db-rail,Db Rail,0.1.3,https://github.com/pipeworx-io/mcp-db-rail,streamable-http,"DB Rail MCP — German + European rail and public transport, keyless."
+2026-10-21T22:16:40.413882Z,io.github.pipeworx-io/dblp,Dblp,0.1.3,https://github.com/pipeworx-io/mcp-dblp,streamable-http,DBLP MCP — Computer Science bibliography
+2026-10-21T22:16:54.257221Z,io.github.pipeworx-io/dbnomics,Dbnomics,0.1.3,https://github.com/pipeworx-io/mcp-dbnomics,streamable-http,DBnomics MCP — meta-aggregator over 80+ stats providers
+2026-10-21T22:17:10.202517Z,io.github.pipeworx-io/dbpedia,Dbpedia,0.1.3,https://github.com/pipeworx-io/mcp-dbpedia,streamable-http,DBpedia MCP — SPARQL + Lookup over Wikipedia-derived structured data
+2026-10-21T22:17:49.84941Z,io.github.pipeworx-io/deckofcards,Deckofcards,1.0.3,https://github.com/pipeworx-io/mcp-deckofcards,streamable-http,"Deck of Cards MCP — wraps deckofcardsapi.com (free, no auth)"
+2026-10-21T22:18:07.373488Z,io.github.pipeworx-io/decodo,Decodo,0.1.3,https://github.com/pipeworx-io/mcp-decodo,streamable-http,"Decodo MCP — wraps the Decodo Web Scraping API (decodo.com, formerly Smartproxy). Rotating…"
+2026-10-21T22:18:34.760202Z,io.github.pipeworx-io/deezer,Deezer,0.1.3,https://github.com/pipeworx-io/mcp-deezer,streamable-http,Deezer MCP — public catalog (no auth required).
+2026-10-21T22:19:19.705379Z,io.github.pipeworx-io/deno-land,Deno Land,0.1.3,https://github.com/pipeworx-io/mcp-deno-land,streamable-http,deno.land/x registry MCP. Keyless.
+2026-10-21T22:19:35.199562Z,io.github.pipeworx-io/denue,Denue,0.1.4,https://github.com/pipeworx-io/mcp-denue,streamable-http,INEGI DENUE MCP — Mexico's directory of economic units (~6M businesses).
+2026-10-21T22:19:44.581588Z,com.tubesaku/creator-insights,TubeSaku Creator Insights,0.1.0,,streamable-http,"Japanese YouTube insights: upcoming streams, game demand/supply, and singing-cover opportunities."
+2026-10-21T22:19:56.28387Z,io.github.pipeworx-io/deps-dev,Deps Dev,0.1.3,https://github.com/pipeworx-io/mcp-deps-dev,streamable-http,deps.dev MCP — Google's package metadata + dependency graph API.
+2026-10-21T22:20:26.822331Z,io.github.pipeworx-io/design-feeds,Design Feeds,0.1.3,https://github.com/pipeworx-io/mcp-design-feeds,streamable-http,Design Feeds MCP.

@@ -9,41 +9,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 21:20 UTC
+## Latest list — 2026-10-21 22:20 UTC
 
-New MCP servers published between 2026-10-21 20:21 UTC and 2026-10-21 21:20 UTC.
+New MCP servers published between 2026-10-21 21:20 UTC and 2026-10-21 22:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-21T21-20-15-508426Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-21T22-20-30-166684Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-21 20:22:53 | [com.mightyautomation/mcp](https://github.com/mightymikereid/mightyautomation-plugin) | Mighty Automation | 1.0.0 | Mighty Automation: CRM contacts, leads, email, bookings, automations. |
-| 2026-10-21 20:24:38 | com.chsbackflow/booking | CHS Backflow — book backflow testing in… | 1.0.0 | Book backflow testing in Charleston, SC: prices, ZIP coverage, free callback. |
-| 2026-10-21 20:25:31 | [io.github.Antnioo/dataarcus](https://github.com/Antnioo/DataArcus) | DataArcus for Power BI | 0.3.0 | Plan, check and write Power BI reports on your PC after you approve. Arabic RTL… |
-| 2026-10-21 20:26:17 | com.tri-train/tri-train | tri-train | 1.0.0 | Your triathlon training in Claude: activities, PMC load, plans pushed to Garmin… |
-| 2026-10-21 20:27:09 | si.humancollab/humancollab | humancollab | 0.1.0 | Truth seeking partner for AIs and SIs: where AIs reach humans for real-world in… |
-| 2026-10-21 20:29:48 | ar.com.screenshot/screenshot | screenshot.com.ar | 1.0.0 | Screenshots and clean markdown of any public web page, rendered in a real Chrom… |
-| 2026-10-21 20:35:12 | com.frontic/ui | Frontic UI | 0.8.0 | Search, read and add Frontic UI's Vue components for commerce storefronts. |
-| 2026-10-21 20:37:27 | co.deadbrands/arena | Dead Brands Bot Arena | 0.1.0 | Live multiplayer game arena for AI agents: register, join matches, play turns,… |
-| 2026-10-21 20:38:06 | io.warmlink/connector | Warmlink | 0.2.0 | What people who use a piece of software say about it: vouches, recommends and t… |
-| 2026-10-21 20:38:58 | il.co.recoverytlv/recoverytlv | Recovery TLV | 1.19.0 | Read-only facts, MSK references and availability snapshots for a physiotherapy… |
-| 2026-10-21 20:39:03 | [io.github.fr0ster/mcp-abap-adt-compact-http-ro](https://github.com/fr0ster/mcp-abap-adt) |  | 19.2.0 | Read-only compact MCP server for SAP ABAP ADT over Streamable HTTP: x-sap-* hea… |
-| 2026-10-21 20:39:33 | ca.wedkit/wedkit | WedKit | 1.0.0 | Run your wedding from Claude or ChatGPT: guests, RSVPs, meals, seating and your… |
-| 2026-10-21 20:40:15 | [dev.keyframer/inspector](https://github.com/keyframer-dev/inspector) | Keyframer Inspector | 0.3.0 | Give your agent eyes for motion: record, slow down and test animations in mobil… |
-| 2026-10-21 20:41:44 | io.github.ValentineChuu/readykit | ReadyKit File Diagnostics and Repair | 0.4.0 | Free CSV and SRT diagnostics with deterministic $3 one-file repairs. |
-| 2026-10-21 20:43:36 | [io.github.fr0ster/mcp-abap-adt-ro](https://github.com/fr0ster/mcp-abap-adt) |  | 19.2.0 | Read-only MCP server for SAP ABAP ADT over HTTP, RFC or SNC: the readonly, syst… |
-| 2026-10-21 20:43:53 | io.github.Rsiran/mise | Mise — Meal Planner, Grocery List & Cal… | 0.1.0 | Weekly meal plans, recipes, grocery list with Kroger checkout, and USDA-based c… |
-| 2026-10-21 20:44:54 | [io.github.MarutMarutyan/tenderscope](https://github.com/MarutMarutyan/tenderscope-lite) | TenderScope | 1.3.0 | Public tenders (EU TED, Armenia) for AI agents: search, details, watchlists, al… |
-| 2026-10-21 20:45:42 | com.runharvester/mcp | RunHarvester | 2.0.0 | Web data extraction and browser workflows for AI assistants. |
-| 2026-10-21 20:48:15 | [io.github.apipriceindex/mcp](https://github.com/apipriceindex/mcp) |  | 0.2.0 | Live, verified LLM API prices and deals: free models, discounts, compare, costs… |
-| 2026-10-21 20:50:40 | com.elysianintelligence/elysianprimus | ElysianPrimus | 1.0.0 | Public data for agents: CVEs, SEC filings, housing, wildfire, contractor licens… |
-| 2026-10-21 20:58:36 | [io.github.agentgate-builder/agentgate](https://github.com/agentgate-builder/agentgate) | AgentGate | 0.2.0 | Check if an AI agent is registered, Active and Verified in the Concordium Agent… |
-| 2026-10-21 20:59:46 | [ai.nyna/mcp](https://github.com/Bros-AI/nyna-mcp) | nyna — AI wedding planner | 2.0.0 | Wedding provider directory, gift ideas, and a couple's own wedding plan behind… |
-| 2026-10-21 21:01:46 | de.mcpfax/fax | mcpfax | 1.0.0 | Send real faxes worldwide from your AI assistant. Prepaid, no subscription, PDF… |
-| 2026-10-21 21:06:07 | [io.github.Fizzl13/paypal-guard](https://github.com/Fizzl13/x402-examples) | PayPal, guarded | 0.1.0 | PayPal's Agent Toolkit with limits on refunds and the owner's Approve/Deny abov… |
-| 2026-10-21 21:11:57 | com.computerlegend/computer-legend | Computer Legend | 1.0.0 | Food, sleep, to-dos, songs, files, finance: one Computer Legend account your AI… |
-| 2026-10-21 21:13:42 | com.finchiefs/research | FinChiefs research | 1.0.1 | Daily views on assets, macro themes and central banks from 200+ research source… |
-| 2026-10-21 21:19:13 | [io.github.agentgate-builder/x402-url-to-markdown](https://github.com/agentgate-builder/x402-url-to-markdown) | WebRead | 0.1.0 | Read any public web page as clean Markdown for LLMs. Respects robots.txt. Free… |
+| 2026-10-21 21:22:09 | com.epvotes/epvotes | EP Votes | 1.0.0 | European Parliament roll-call votes, MEP records and dossiers from official rec… |
+| 2026-10-21 21:26:28 | com.4home-pros/business-manager | Business Manager 4Home Pros | 2.2.0 | Run a lawn, pool or cleaning business by chat: today's route, visits, payments,… |
+| 2026-10-21 21:28:04 | ai.harcourtvaluations/nav | Harcourt Valuations | 1.0.2 | Independent NAV and P/NAV for listed mining companies, built from filed technic… |
+| 2026-10-21 21:28:30 | [io.github.moezdil/mcp-gpu-server](https://github.com/moezdil/mcp-gpu-server) | GPU Server | 0.2.1 | MCP server for GPU monitoring: nvidia-smi, VRAM, utilization, temperature |
+| 2026-10-21 21:29:01 | [io.github.cexplayer01/dfwmetro-directory](https://github.com/cexplayer01/dfwmetro-mcp) | dfwmetro.net directory | 1.2.0 | Verified DFW home-services directory. AI agents submit listings and find bookab… |
+| 2026-10-21 21:32:00 | io.github.ishtiaqrahman/aura-dna | Aura DNA | 0.1.0 | Seasonal palettes, color-matched essentials, and your connected Aura DNA color… |
+| 2026-10-21 21:32:10 | [io.github.kimmawla/vuln-triage-mcp](https://github.com/kimmawla/vuln-triage-mcp) |  | 0.1.0 | Tells your AI agent which vulnerabilities to fix first, using OSV.dev, FIRST EP… |
+| 2026-10-21 21:35:07 | com.octothinks/presets | Octo Thinks Decision Presets | 1.0.0 | Reviewed decision matrices and buying guides: ranked options and weighted crite… |
+| 2026-10-21 21:35:10 | [io.github.ac12644/vayl](https://github.com/ac12644/vayl) | Vayl | 0.9.0 | Reconciling memory for coding agents: a changed decision retires the old one, w… |
+| 2026-10-21 21:35:26 | [io.github.tecspda/listmonk-mcp-ts](https://github.com/tecspda/listmonk-mcp-ts) | Listmonk MCP | 0.1.0 | Listmonk MCP server: subscribers, lists, campaigns, templates, media, transacti… |
+| 2026-10-21 21:38:06 | [io.github.brainsparker/frugal](https://github.com/brainsparker/frugal) | Frugal | 0.2.0 | The open routing layer for AI tools: tool calls routed per policy, decision on… |
+| 2026-10-21 21:41:37 | [io.github.raudarlabs/transformpipe](https://github.com/raudarlabs/transformpipe) | TransformPipe | 2.2.0 | Convert documents to Markdown and back, keep them, and share them as a page wit… |
+| 2026-10-21 21:41:57 | xyz.memorybridgeai/memory-bridge | Memory Bridge | 1.0.0 | One memory for all your AI tools: Claude, ChatGPT, Cursor and any MCP client sh… |
+| 2026-10-21 21:47:07 | [io.github.arben-adm/mcp-sequential-thinking](https://github.com/arben-adm/mcp-sequential-thinking) | Sequential Thinking Working Notes | 0.7.0 | Local working notes, decisions, evidence and resumable sessions with SQLite per… |
+| 2026-10-21 21:54:53 | dev.monton/monton | Monton | 1.0.0 | Shared docs for people and their agents: markdown docs with comments, history a… |
+| 2026-10-21 21:54:59 | app.statuz/statuz | Statuz | 2.1.3 | Schedule and publish posts to X, Bluesky, Mastodon, LinkedIn and Reddit from yo… |
+| 2026-10-21 21:56:21 | [io.github.DiegoTepichin/mcp-mexico](https://github.com/DiegoTepichin/mcp-mexico) | mcp-mexico | 0.1.3 | Official Mexican public data for AI agents: Banxico rates, INEGI inflation, UMA… |
+| 2026-10-21 22:01:49 | [io.github.agentgate-builder/x402-prompt-injection-scan](https://github.com/agentgate-builder/x402-prompt-injection-scan) | InjectScan | 0.1.0 | Prompt-injection scanner for agents: risk score, categories and spans for text,… |
+| 2026-10-21 22:06:09 | com.framevine/framevine | Framevine | 1.0.0 | Generate, extend and edit AI images and videos, then assemble clips on a timeli… |
+| 2026-10-21 22:14:44 | [io.github.pipeworx-io/datalastic](https://github.com/pipeworx-io/mcp-datalastic) | Datalastic | 0.1.3 | Datalastic MCP — live AIS vessel positions (datalastic.com) |
+| 2026-10-21 22:14:57 | [io.github.pipeworx-io/dataverse-harvard](https://github.com/pipeworx-io/mcp-dataverse-harvard) | Dataverse Harvard | 0.1.3 | Harvard Dataverse MCP. |
+| 2026-10-21 22:15:11 | [io.github.pipeworx-io/dati-it](https://github.com/pipeworx-io/mcp-dati-it) | Dati It | 0.1.3 | dati.gov.it MCP — Italy's national open-data portal (CKAN API). |
+| 2026-10-21 22:15:27 | [io.github.pipeworx-io/datos-ar](https://github.com/pipeworx-io/mcp-datos-ar) | Datos Ar | 0.1.3 | Argentina 'Series de Tiempo' MCP — national time-series API (apis.datos.gob.ar). |
+| 2026-10-21 22:15:41 | [io.github.pipeworx-io/datos-cl](https://github.com/pipeworx-io/mcp-datos-cl) | Datos Cl | 0.1.3 | datos.gob.cl CKAN MCP. |
+| 2026-10-21 22:15:55 | [io.github.pipeworx-io/datos-co](https://github.com/pipeworx-io/mcp-datos-co) | Datos Co | 0.1.3 | datos.gov.co — Colombia's national open-data portal (Socrata platform). |
+| 2026-10-21 22:16:08 | [io.github.pipeworx-io/datos-gob-es](https://github.com/pipeworx-io/mcp-datos-gob-es) | Datos Gob Es | 0.1.3 | datos.gob.es MCP. |
+| 2026-10-21 22:16:25 | [io.github.pipeworx-io/db-rail](https://github.com/pipeworx-io/mcp-db-rail) | Db Rail | 0.1.3 | DB Rail MCP — German + European rail and public transport, keyless. |
+| 2026-10-21 22:16:40 | [io.github.pipeworx-io/dblp](https://github.com/pipeworx-io/mcp-dblp) | Dblp | 0.1.3 | DBLP MCP — Computer Science bibliography |
+| 2026-10-21 22:16:54 | [io.github.pipeworx-io/dbnomics](https://github.com/pipeworx-io/mcp-dbnomics) | Dbnomics | 0.1.3 | DBnomics MCP — meta-aggregator over 80+ stats providers |
+| 2026-10-21 22:17:10 | [io.github.pipeworx-io/dbpedia](https://github.com/pipeworx-io/mcp-dbpedia) | Dbpedia | 0.1.3 | DBpedia MCP — SPARQL + Lookup over Wikipedia-derived structured data |
+| 2026-10-21 22:17:49 | [io.github.pipeworx-io/deckofcards](https://github.com/pipeworx-io/mcp-deckofcards) | Deckofcards | 1.0.3 | Deck of Cards MCP — wraps deckofcardsapi.com (free, no auth) |
+| 2026-10-21 22:18:07 | [io.github.pipeworx-io/decodo](https://github.com/pipeworx-io/mcp-decodo) | Decodo | 0.1.3 | Decodo MCP — wraps the Decodo Web Scraping API (decodo.com, formerly Smartproxy… |
+| 2026-10-21 22:18:34 | [io.github.pipeworx-io/deezer](https://github.com/pipeworx-io/mcp-deezer) | Deezer | 0.1.3 | Deezer MCP — public catalog (no auth required). |
+| 2026-10-21 22:19:19 | [io.github.pipeworx-io/deno-land](https://github.com/pipeworx-io/mcp-deno-land) | Deno Land | 0.1.3 | deno.land/x registry MCP. Keyless. |
+| 2026-10-21 22:19:35 | [io.github.pipeworx-io/denue](https://github.com/pipeworx-io/mcp-denue) | Denue | 0.1.4 | INEGI DENUE MCP — Mexico's directory of economic units (~6M businesses). |
+| 2026-10-21 22:19:44 | com.tubesaku/creator-insights | TubeSaku Creator Insights | 0.1.0 | Japanese YouTube insights: upcoming streams, game demand/supply, and singing-co… |
+| 2026-10-21 22:19:56 | [io.github.pipeworx-io/deps-dev](https://github.com/pipeworx-io/mcp-deps-dev) | Deps Dev | 0.1.3 | deps.dev MCP — Google's package metadata + dependency graph API. |
+| 2026-10-21 22:20:26 | [io.github.pipeworx-io/design-feeds](https://github.com/pipeworx-io/mcp-design-feeds) | Design Feeds | 0.1.3 | Design Feeds MCP. |
 
 ## Data source
 
