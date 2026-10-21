@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-21T20:22:53.593641Z,com.mightyautomation/mcp,Mighty Automation,1.0.0,https://github.com/mightymikereid/mightyautomation-plugin,streamable-http,"Mighty Automation: CRM contacts, leads, email, bookings, automations."
+2026-10-21T20:24:38.487442Z,com.chsbackflow/booking,CHS Backflow — book backflow testing in Charleston,1.0.0,,streamable-http,"Book backflow testing in Charleston, SC: prices, ZIP coverage, free callback."
+2026-10-21T20:25:31.594845Z,io.github.Antnioo/dataarcus,DataArcus for Power BI,0.3.0,https://github.com/Antnioo/DataArcus,,"Plan, check and write Power BI reports on your PC after you approve. Arabic RTL and Gulf calendar."
+2026-10-21T20:26:17.432694Z,com.tri-train/tri-train,tri-train,1.0.0,,streamable-http,"Your triathlon training in Claude: activities, PMC load, plans pushed to Garmin, races, recovery."
+2026-10-21T20:27:09.625484Z,si.humancollab/humancollab,humancollab,0.1.0,,streamable-http,Truth seeking partner for AIs and SIs: where AIs reach humans for real-world insight.
+2026-10-21T20:29:48.446486Z,ar.com.screenshot/screenshot,screenshot.com.ar,1.0.0,,streamable-http,"Screenshots and clean markdown of any public web page, rendered in a real Chrome browser."
+2026-10-21T20:35:12.90121Z,com.frontic/ui,Frontic UI,0.8.0,,streamable-http,"Search, read and add Frontic UI's Vue components for commerce storefronts."
+2026-10-21T20:37:27.476113Z,co.deadbrands/arena,Dead Brands Bot Arena,0.1.0,,streamable-http,"Live multiplayer game arena for AI agents: register, join matches, play turns, climb the board."
+2026-10-21T20:38:06.988309Z,io.warmlink/connector,Warmlink,0.2.0,,streamable-http,"What people who use a piece of software say about it: vouches, recommends and their reasons."
+2026-10-21T20:38:58.331373Z,il.co.recoverytlv/recoverytlv,Recovery TLV,1.19.0,,streamable-http,"Read-only facts, MSK references and availability snapshots for a physiotherapy clinic in Tel Aviv"
+2026-10-21T20:39:03.083315Z,io.github.fr0ster/mcp-abap-adt-compact-http-ro,,19.2.0,https://github.com/fr0ster/mcp-abap-adt,,Read-only compact MCP server for SAP ABAP ADT over Streamable HTTP: x-sap-* headers
+2026-10-21T20:39:33.633636Z,ca.wedkit/wedkit,WedKit,1.0.0,,streamable-http,"Run your wedding from Claude or ChatGPT: guests, RSVPs, meals, seating and your wedding site."
+2026-10-21T20:40:15.39207Z,dev.keyframer/inspector,Keyframer Inspector,0.3.0,https://github.com/keyframer-dev/inspector,,"Give your agent eyes for motion: record, slow down and test animations in mobile apps"
+2026-10-21T20:41:44.322967Z,io.github.ValentineChuu/readykit,ReadyKit File Diagnostics and Repair,0.4.0,,streamable-http,Free CSV and SRT diagnostics with deterministic $3 one-file repairs.
+2026-10-21T20:43:36.316993Z,io.github.fr0ster/mcp-abap-adt-ro,,19.2.0,https://github.com/fr0ster/mcp-abap-adt,,"Read-only MCP server for SAP ABAP ADT over HTTP, RFC or SNC: the readonly, system and search tools"
+2026-10-21T20:43:53.011175Z,io.github.Rsiran/mise,"Mise — Meal Planner, Grocery List & Calories",0.1.0,,streamable-http,"Weekly meal plans, recipes, grocery list with Kroger checkout, and USDA-based calorie tracking."
+2026-10-21T20:44:54.587667Z,io.github.MarutMarutyan/tenderscope,TenderScope,1.3.0,https://github.com/MarutMarutyan/tenderscope-lite,streamable-http,"Public tenders (EU TED, Armenia) for AI agents: search, details, watchlists, alerts."
+2026-10-21T20:45:42.593054Z,com.runharvester/mcp,RunHarvester,2.0.0,,streamable-http,Web data extraction and browser workflows for AI assistants.
+2026-10-21T20:48:15.712139Z,io.github.apipriceindex/mcp,,0.2.0,https://github.com/apipriceindex/mcp,,"Live, verified LLM API prices and deals: free models, discounts, compare, costs, price changes."
+2026-10-21T20:50:40.077471Z,com.elysianintelligence/elysianprimus,ElysianPrimus,1.0.0,,streamable-http,"Public data for agents: CVEs, SEC filings, housing, wildfire, contractor licenses, EPA labels."
+2026-10-21T20:58:36.837688Z,io.github.agentgate-builder/agentgate,AgentGate,0.2.0,https://github.com/agentgate-builder/agentgate,streamable-http,"Check if an AI agent is registered, Active and Verified in the Concordium Agent Registry (CIS-8004)."
+2026-10-21T20:59:46.339562Z,ai.nyna/mcp,nyna — AI wedding planner,2.0.0,https://github.com/Bros-AI/nyna-mcp,streamable-http,"Wedding provider directory, gift ideas, and a couple's own wedding plan behind OAuth."
+2026-10-21T21:01:46.552242Z,de.mcpfax/fax,mcpfax,1.0.0,,streamable-http,"Send real faxes worldwide from your AI assistant. Prepaid, no subscription, PDF send report."
+2026-10-21T21:06:07.195459Z,io.github.Fizzl13/paypal-guard,"PayPal, guarded",0.1.0,https://github.com/Fizzl13/x402-examples,,PayPal's Agent Toolkit with limits on refunds and the owner's Approve/Deny above them.
+2026-10-21T21:11:57.993385Z,com.computerlegend/computer-legend,Computer Legend,1.0.0,,streamable-http,"Food, sleep, to-dos, songs, files, finance: one Computer Legend account your AI uses. You own it."
+2026-10-21T21:13:42.600798Z,com.finchiefs/research,FinChiefs research,1.0.1,,streamable-http,"Daily views on assets, macro themes and central banks from 200+ research sources, with source links."
+2026-10-21T21:19:13.502304Z,io.github.agentgate-builder/x402-url-to-markdown,WebRead,0.1.0,https://github.com/agentgate-builder/x402-url-to-markdown,streamable-http,Read any public web page as clean Markdown for LLMs. Respects robots.txt. Free tier; x402 paid API.
