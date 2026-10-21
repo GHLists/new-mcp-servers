@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-10-21T11:23:14.606904Z,io.github.RichardXu001/sparehive-advisor,SpareHive GPU Advisor,0.1.0,https://github.com/RichardXu001/sparehive,streamable-http,"Read-only GPU advisor: model VRAM needs, fit checks and rental prices, with evidence grades."
+2026-10-21T11:27:06.311215Z,com.papacasper/mcp-toolbelt,mcp-toolbelt,1.2.0,,streamable-http,"30 pay-per-call DNS, SEO, SSL, security, WHOIS, and dev tools for AI agents. x402, no API key."
+2026-10-21T11:28:40.094608Z,com.tieredtravel/travel,TieredTravel,1.0.0,,streamable-http,"Daily travel costs at budget, mid-range and luxury for 100 cities, plus self-guided walking routes"
+2026-10-21T11:29:04.340427Z,io.github.wireflowINC/wireflow,Wireflow,1.0.0,,streamable-http,"List, inspect and run your Wireflow AI image, video and audio workflows from any MCP client."
+2026-10-21T11:31:22.116659Z,dev.cotlet/cotlet,Cotlet,1.0.0,https://github.com/cotletdev/cotlet,streamable-http; streamable-http,"Hosted MCP server and REST API that lets AI agents use apps with no API, signed in as you."
+2026-10-21T11:33:46.401233Z,com.mcprush/catalogue,mcprush.com - Catalogue MCP,1.1.0,,streamable-http,"Marketplace and infrastructure for MCP servers and skills: deploy, host, monetize, analytics."
+2026-10-21T11:38:37.842471Z,com.whatshouldmybotdo/planner,WhatShouldMyBotDo,1.0.0,,streamable-http,Pick the first AI agent for a small business. Read-only planner tools with links to setup guides.
+2026-10-21T11:38:58.197441Z,io.github.iannil/ai-slot-management-mcp,AI-SLOT Management,0.1.3,https://github.com/iannil/ai-slot-component,,实验性本地 stdio 管理服务；需先启动 127.0.0.1:4194 管理端，内容发布仍需人工审批。
+2026-10-21T11:39:03.648189Z,io.github.aicostbudget/ai-api-pricing-mcp,AICostBudget AI API Pricing,0.1.0,https://github.com/aicostbudget/ai-api-pricing-data,,"Read-only source-linked AI API prices, comparisons, cost estimates, and price changes."
+2026-10-21T11:39:13.968518Z,ai.inite/atlas-owners,INITE Atlas Owners,1.0.0,https://github.com/inite-ai/inite-visibility,streamable-http,"Your tool in the INITE Atlas: add it, prove the domain, run its card, coupons, premium. Signed in."
+2026-10-21T11:39:16.981895Z,ai.inite/inite-visibility-me,"INITE Visibility, signed in",1.0.0,https://github.com/inite-ai/inite-visibility,streamable-http,"AI visibility for your account: the full audit, a weekly watch, your audits, a licence."
+2026-10-21T11:39:18.724816Z,ai.inite/inite-me,"INITE, signed in",1.0.0,https://github.com/inite-ai/inite-visibility,streamable-http,"Your INITE account, and Local Start bought for you, paid from your INITE wallet or by card."
+2026-10-21T11:47:46.009582Z,com.textforagents/agent-access-door-check,Agent Access Door Check,1.0.0,,streamable-http,"Pre-flight per-site x per-task agent access verdicts: policy, licensing, partner, or collateral."
+2026-10-21T11:50:39.058857Z,io.github.LCX-AG/lcx-liberty-dex,LCX Liberty DEX,0.1.0,,streamable-http,"Best-route swap quotes, token search and USD prices on 12 EVM chains. Read-only, never trades."
+2026-10-21T11:52:08.145681Z,ai.oriiion/oriiion,oriiion,1.0.0,,streamable-http,"Your marketing, a message away"
+2026-10-21T11:52:27.561512Z,com.astockevent/astockevent,AStockEvent,0.1.0,https://github.com/NengjiangLunpi/astockevent-mcp,streamable-http,"A-share filings: reductions, penalties, regulatory letters and stock halts. Source-linked facts."
+2026-10-21T11:53:00.767372Z,io.github.hydope/shortsmash,ShortSmash,0.3.0,https://github.com/hydope/shortsmash,,"Generate finished short videos from a prompt, fetch trends, and check project status via MCP."
+2026-10-21T11:53:54.951023Z,io.github.ContentWriterco/rozklad-mcp,,0.3.0,https://github.com/ContentWriterco/rozklad-mcp,streamable-http,"Polish train, bus & city transit timetables: journeys, departures, live delays, fares"
+2026-10-21T11:57:25.671843Z,ai.deepscout/deepscout,DeepScout,1.0.0,,streamable-http,Scrape any e-shop and match products across shops without EAN. API & MCP for AI agents.
+2026-10-21T12:06:38.190764Z,com.halmoslabs/adoor,ADoor,0.1.0,,streamable-http,Read and update the tables in your ADoor workspace from an MCP client.
+2026-10-21T12:07:46.82166Z,com.byefine/byefine,ByeFine,1.0.0,,streamable-http,"Check a UK parking ticket or penalty notice for free, then appeal it. Needs an API key."
+2026-10-21T12:09:37.291433Z,com.seowrench/seowrench,SEOWrench,1.0.0,,streamable-http; streamable-http,"Technical SEO and AI-readiness audits for any page, plus a check that your fix worked."
+2026-10-21T12:09:39.194026Z,io.github.tomtom87/portage-ucp,Portage Store,0.16.0,https://github.com/tomtom87/Portage,,Shopify catalog search and product lookup via MCP; the Portage CLI adds full agentic buying.
+2026-10-21T12:09:52.655246Z,app.izeat/izeat,IZeat,1.0.0,,streamable-http,"The five-star chef calorie tracker: meals that fill you up, logged in one sentence."
+2026-10-21T12:13:07.774542Z,io.github.dgahagan/homebox-mcp,,1.2.0,https://github.com/dgahagan/homebox-mcp,,"Homebox home inventory: search, intake, warranties, attachments, locations, tags, QR labels"
+2026-10-21T12:13:18.595249Z,io.github.veyanet/veya,VEYA,1.2.8,https://github.com/veyanet/veya-mcp,streamable-http,"Check, limit, record and prove AI agent actions with 2-of-3 validators and onchain proofs."
+2026-10-21T12:14:01.900157Z,io.github.adapstorybot-hub/adapstory-isa,Adapstory ISA,0.1.0,,,Local macOS arm64 vault with a stdio bridge. Install and open the bundled ISA app first.
+2026-10-21T12:17:24.629814Z,site.chatgpt.beigemelon258.agentcompute-pilot-portal/english-transcription,AgentCompute English Transcription,0.6.0,,streamable-http,Free limited English WAV transcription on a GPU. Account setup required; HTTP upload and MCP jobs.
