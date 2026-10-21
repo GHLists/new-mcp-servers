@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-10-21T05:20:20.58283Z,com.muviabi/muvia,Muvia BI,1.0.0,,streamable-http,"Company and industrial data for AI assistants: datasets, SQL, dashboards, alarms, with approvals."
+2026-10-21T05:22:22.262335Z,dev.artfct/artfct,Artfct,1.0.0,https://github.com/rubybear-lgtm/artfct,streamable-http,"Shared workspace for AI artifacts: your agents publish, search and cite each other's work."
+2026-10-21T05:22:35.068062Z,com.textforagents/propagation-breaker-agent-worms,Propagation breaker for agent fleets,1.0.0,,streamable-http,Propagation breaker: egress quarantine + fingerprint outbreak telemetry for fleets.
+2026-10-21T05:24:27.433531Z,io.github.mrpkk/soma-protocol,Soma,1.2.0,https://github.com/mrpkk/soma-protocol,streamable-http,"Agent protocol: an envelope with budget, mandate and signature; memory, reputation and federation."
+2026-10-21T05:27:35.690026Z,dev.workers.mosn-3r41y.mosn-api/mosn,MOSN Solana Safety,2.4.0,https://github.com/mosn-agent/mosn-solana-mcp,streamable-http,Solana token rug checks and safety-checked Jupiter swaps for AI agents; paid data via x402.
+2026-10-21T05:35:35.994937Z,io.github.ElCampeon87/obzdn-agent,OBZDN Agent,0.1.0,,streamable-http,"Find AI tools for small businesses, get setup prices, and hand setup jobs to OBZDN."
+2026-10-21T05:38:43.162923Z,at.honeyfield/marketing-mcp,Honeyfield Marketing MCP,1.0.0,,streamable-http,"Google Ads, GA4, Search Console, Meta, LinkedIn and more for agencies, via one hosted MCP."
+2026-10-21T05:39:53.922322Z,au.com.tix/shows,TIX – shows and ticket deals,1.0.0,,streamable-http,"Live shows on sale in Australia and New Zealand, with prices, Lasttix deals and show cards."
+2026-10-21T05:41:12.128893Z,io.github.PGYER/pgyer-mcp-server,PGYER,2.0.0,https://github.com/PGYER/pgyer-mcp-server,,"Upload Android, iOS and HarmonyOS apps to PGYER and manage their apps and versions."
+2026-10-21T05:43:10.135464Z,com.momentum-analyzer/momentum-analyzer,Momentum Analyzer,0.5.0,https://github.com/MomentumAnalyzer/ai_momentum_analyzer,streamable-http,"Graded stock setups, options flow, and multi-window trend research over a hosted OAuth MCP endpoint."
+2026-10-21T05:46:39.589834Z,io.github.quay21/quay,Quay,1.0.0,,streamable-http,"Pay-per-call TRON fee, payment, and address checks. Agents pay USDT or USDC."
+2026-10-21T05:46:39.662647Z,io.github.330899935/hive-memory,Memory Hive,0.1.1,https://github.com/330899935/memory-hive-ios,,Local-first memory your AI agents share over MCP. Agents propose; only you confirm.
+2026-10-21T05:50:07.73252Z,dev.workers.johnaio281.irantools/irantools,IranTools (paid),1.0.0,https://github.com/johnaio281/irantools,streamable-http,"Persian/Iranian tools for agents: Jalali dates, ID checks, holidays. Paid per call via x402."
+2026-10-21T05:50:12.243824Z,jp.hojo-josei/subsidy,補助・助成.jp,0.1.0,,streamable-http,"Find Japanese subsidies, check eligibility with guideline citations, and fill official forms."
+2026-10-21T05:53:57.060341Z,dev.agenttested/agent-tested,Agent Tested,1.0.0,,streamable-http,"Hands-on agent test results for small AI tools and MCP servers, live AI outages, malware name check."
+2026-10-21T05:55:03.975527Z,ai.sosoapi/sosoapi,SosoAPI,0.5.7,,streamable-http,"Prepare, schedule and publish approved social posts using your connected SosoAPI accounts."
+2026-10-21T06:04:14.942365Z,dev.workers.johnaio281.webref/webref,WebRef (paid),1.0.0,https://github.com/johnaio281/webref,streamable-http,"Web standards reference for agents: HTTP status codes, MIME types, methods. Paid per call via x402."
+2026-10-21T06:04:45.740453Z,is.munn/muninn,Muninn (munn.is),1.0.0,,streamable-http,"The memory that doesn't belong to the model. Encrypted, cross-vendor memory for AI agents."
+2026-10-21T06:05:02.705292Z,dev.wagate/wagate,,0.2.0,,,"Read WhatsApp chats and groups, and send messages when allowed, through the WaGate API."
+2026-10-21T06:06:21.842788Z,com.roasexpert.tools/seo-audit,ROAS Expert free AI SEO audit,1.0.0,,streamable-http,"Free SEO and AI search readiness audit: score out of 100, platform detection, fixes per CMS."
+2026-10-21T06:08:35.928387Z,dev.snapcn/mcp,snapcn,0.1.5,https://github.com/snapcndev/snapcn-mcp,,"Search hand-tuned Remotion components, read their props, and plan a video from a one-line brief."
+2026-10-21T06:10:52.216914Z,dev.workers.johnaio281.textkit/textkit,textkit (paid),1.0.0,https://github.com/johnaio281/textkit,streamable-http,"Text/Unicode tools for agents: homoglyphs, scripts, slugify, entropy. Paid per call via x402."
+2026-10-21T06:11:03.364182Z,dev.workers.johnaio281.farsi-tools/farsi-tools,farsi-tools (paid),1.0.0,https://github.com/johnaio281/farsi-tools,streamable-http,"Persian/Iranian tools for agents: Jalali dates, ID checks, holidays. Paid per call via x402."
+2026-10-21T06:11:05.023572Z,lat.rta/skilllint,skilllint — vet an agent skill before you install it,0.1.0,https://github.com/mrpkk/skilllint,streamable-http,"Vet an agent skill before you install it: structure, triggers, secrets."
+2026-10-21T06:11:08.686635Z,lat.rta/mitracore,mitracore — trust layer for agent work,0.1.0,https://github.com/mrpkk/mitracore,streamable-http,"Verify the artifact, meter the cost, enforce the mandate — one call."
+2026-10-21T06:11:10.619313Z,lat.rta/soma,soma — protocol for agent rhythm and vows,0.1.0,https://github.com/mrpkk/soma-protocol,streamable-http,"Protocol for agent rhythm and vows: who promised what, and by when."
+2026-10-21T06:12:29.684797Z,com.textforagents/agent-exit-offboarding-execution,Agent exit execution for self-procured services,1.0.0,,streamable-http,Dependency-probe-gated exit execution with hash-verified extraction and signed receipts.
+2026-10-21T06:14:03.539169Z,com.renderhour/renderhour,RenderHour,1.0.0,,streamable-http,"Make AI video, images and voice with Seedance, Kling, Veo, Nano Banana, GPT Image and more."
+2026-10-21T06:19:15.694951Z,io.github.QVerisAI/mcp,QVeris,0.14.6,https://github.com/QVerisAI/qveris-agent-toolkit,streamable-http,"Professional data and tools for AI: find services, review scope, call them, and audit usage."
+2026-10-21T06:20:29.498963Z,io.github.hyperlight-dev/mcp-server-hyperlight,Hyperlight,0.1.1,https://github.com/hyperlight-dev/hyperlight-unikraft,,"Runs Python in a local, hardware-isolated micro-VM that keeps its state between calls"
