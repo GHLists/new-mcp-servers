@@ -9,54 +9,137 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 03:21 UTC
+## Latest list — 2026-10-21 04:19 UTC
 
-New MCP servers published between 2026-10-21 02:22 UTC and 2026-10-21 03:21 UTC.
+New MCP servers published between 2026-10-21 03:21 UTC and 2026-10-21 04:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-21T03-21-44-563864Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-21T04-19-19-357623Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-21 02:24:55 | com.kcwindshield/booking | KC Windshield — book windshield replace… | 1.0.0 | Book windshield replacement in Kansas City, MO: prices, ZIP coverage, free call… |
-| 2026-10-21 02:26:40 | com.lexingtonradonpros/booking | Lexington Radon Pros — book radon mitig… | 1.0.0 | Book radon mitigation in Lexington, KY: prices, service area by ZIP, free callb… |
-| 2026-10-21 02:27:52 | ai.booqer/booqer | Booqer | 1.0.0 | Verified Booqer shops. A keyless consult is confirmed when the slot is open. |
-| 2026-10-21 02:28:04 | com.tulsafoampros/booking | Tulsa Foam Pros — book spray foam insul… | 1.0.0 | Book spray foam insulation in Tulsa, OK: prices, ZIP coverage, free callback. |
-| 2026-10-21 02:28:48 | com.phoenixmobilemechanicco/booking | Phoenix Mobile Mechanic Co — book mobil… | 1.0.0 | Book mobile mechanic in Phoenix, AZ: prices, service area by ZIP, free callback… |
-| 2026-10-21 02:29:31 | com.nashvillegutterguards/booking | Nashville Gutter Guards Co — book gutte… | 1.0.0 | Book gutter guard installation in Nashville, TN: prices, ZIP coverage, free cal… |
-| 2026-10-21 02:30:19 | com.kcvolts/booking | KC Volts — book electrician in Kansas C… | 1.0.0 | Book electrician in Kansas City, MO: prices, service area by ZIP, free callback… |
-| 2026-10-21 02:31:04 | com.austinvolts/booking | Austin Volts — book electrician in Aust… | 1.0.0 | Book electrician in Austin, TX: prices, service area by ZIP, free callback from… |
-| 2026-10-21 02:31:50 | com.kcplumb/booking | KC Plumb — book plumber in Kansas City | 1.0.0 | Book plumber in Kansas City, MO: prices, service area by ZIP, free callback fro… |
-| 2026-10-21 02:32:38 | com.vegaspoolguy/booking | Vegas Pool Guy — book pool service in L… | 1.0.0 | Book pool service in Las Vegas, NV: prices, service area by ZIP, free callback… |
-| 2026-10-21 02:33:21 | com.tempepoolguy/booking | Tempe Pool Guy — book pool service in T… | 1.0.0 | Book pool service in Tempe, AZ: prices, service area by ZIP, free callback from… |
-| 2026-10-21 02:34:03 | com.distinctful/distinctful | Distinctful | 1.3.0 | Plan, draft, and analyze organic social content from your Distinctful workspace. |
-| 2026-10-21 02:34:05 | com.elpasoair/booking | El Paso Air — book AC repair in El Paso | 1.0.0 | Book AC repair in El Paso, TX: prices, service area by ZIP, free callback from… |
-| 2026-10-21 02:34:29 | com.vegasmobilemech/booking | Vegas Mobile Mech — book mobile mechani… | 1.0.0 | Book mobile mechanic in Las Vegas, NV: prices, service area by ZIP, free callba… |
-| 2026-10-21 02:34:52 | com.nolamechanic/booking | NOLA Mechanic — book mobile mechanic in… | 1.0.0 | Book mobile mechanic in New Orleans, LA: prices, ZIP coverage, free callback. |
-| 2026-10-21 02:35:37 | com.okcwindshield/booking | OKC Windshield — book windshield replac… | 1.0.0 | Book windshield replacement in Oklahoma City, OK: prices, ZIP coverage, free ca… |
-| 2026-10-21 02:36:00 | com.tampawindshield/booking | Tampa Windshield — book windshield repl… | 1.0.0 | Book windshield replacement in Tampa, FL: prices, ZIP coverage, free callback. |
-| 2026-10-21 02:36:34 | com.textforagents/resume-effect-reconciliation | Resume-effect reconciliation for checkp… | 1.0.0 | Signed resume verdicts reconciling landed effects before checkpointed agent run… |
-| 2026-10-21 02:36:46 | com.austinpoolguy/booking | Austin Pool Guy — book pool service in… | 1.0.0 | Book pool service in Austin, TX: prices, service area by ZIP, free callback fro… |
-| 2026-10-21 02:37:09 | com.boisecarfix/booking | Boise Car Fix — book mobile mechanic in… | 1.0.0 | Book mobile mechanic in Boise, ID: prices, service area by ZIP, free callback f… |
-| 2026-10-21 02:37:33 | com.omahahailguy/booking | Omaha Hail Guy — book paintless dent re… | 1.0.0 | Book paintless dent repair in Omaha, NE: prices, ZIP coverage, free callback. |
-| 2026-10-21 02:37:56 | com.renocarfix/booking | Reno Car Fix — book mobile mechanic in… | 1.0.0 | Book mobile mechanic in Reno, NV: prices, service area by ZIP, free callback fr… |
-| 2026-10-21 02:38:19 | com.corpuscarfix/booking | Corpus Car Fix — book mobile mechanic i… | 1.0.0 | Book mobile mechanic in Corpus Christi, TX: prices, ZIP coverage, free callback. |
-| 2026-10-21 02:39:59 | [io.github.rustemmustafingovua-byte/perps-funding-pulse](https://github.com/rustemmustafingovua-byte/perps-funding-pulse) | perps-funding-pulse | 0.1.1 | Live perps funding rate, next tick, open interest and skew (Binance, Bybit, OKX) |
-| 2026-10-21 02:44:40 | com.bkkradar/condos | BKK Radar | 1.0.0 | Bangkok condos for rent and sale: search by budget, BTS/MRT station and walk ti… |
-| 2026-10-21 02:45:38 | [io.github.lkcair/yfinance-ai](https://github.com/lkcair/yfinance-ai-mcp) |  | 5.0.0 | Yahoo Finance in 68 tools: stocks, crypto, forex, commodities, funds, options,… |
-| 2026-10-21 02:47:06 | ai.blinibot/agent-lounge | BliniBot Agent Lounge | 1.0.0 | An open lounge where AI agents meet, talk, build and solve problems together an… |
-| 2026-10-21 02:47:38 | [io.github.Alberto-Codes/docvet](https://github.com/Alberto-Codes/docvet) |  | 2.0.0 | Docstring quality vetting for Python -- enrichment, freshness, coverage, and pr… |
-| 2026-10-21 02:49:23 | [io.github.nhan7777/openapi-swagger-mcp](https://github.com/nhan7777/openapi-swagger-mcp) | OpenAPI Swagger MCP | 0.1.1 | Discover Swagger/OpenAPI operations and call configured dev/UAT APIs through 10… |
-| 2026-10-21 02:50:59 | [io.github.lkcair/sec-ai](https://github.com/lkcair/sec-ai-mcp) |  | 2.0.0 | SEC EDGAR in 22 tools: 10-K/10-Q/8-K text, XBRL facts, insider trades, 13F, ful… |
-| 2026-10-21 03:00:06 | [io.github.devinwang/app-store-connect-mcp](https://github.com/devinwang/app-store-connect-mcp) |  | 0.5.0 | MCP server for Apple's App Store Connect API: 1316 tools generated from the off… |
-| 2026-10-21 03:00:12 | [io.github.devinwang/cloak-browser-mcp](https://github.com/devinwang/cloak-browser-mcp) |  | 0.2.0 | Playwright-compatible MCP server on CloakBrowser stealth Chromium: 86 tools, hu… |
-| 2026-10-21 03:05:26 | [io.github.golf-data/golf](https://github.com/golf-data/golf) | Golf Course Data by Stracka | 1.0.7 | Proprietary StrackaGolf course data, updated daily. Search is free. |
-| 2026-10-21 03:10:18 | com.textforagents/retry-outcome-resolution-dedup-proxy | Retry-outcome resolution dedup proxy | 1.0.0 | Dedup proxy: claim-before-execute, UNKNOWN resolution, CONFLICT and ESCALATED r… |
-| 2026-10-21 03:12:25 | com.auto-units/pollen | Pollen | 1.0.0 | Agent-ready sites for your product and business. Draft a page you can host anyw… |
-| 2026-10-21 03:15:24 | ai.metzia/metzia | metzia | 0.13.0 | Compare managed Postgres, auth, monitoring, and hosting, then purchase without… |
-| 2026-10-21 03:15:30 | [io.github.sena-labs/replicate-mcp-server](https://github.com/sena-labs/replicate-mcp-server) |  | 3.3.0 | Replicate MCP server - image, video, audio, speech, LLM, vision, upscale, 3D, t… |
-| 2026-10-21 03:16:07 | com.momentclip/mcp | MomentClip | 1.0.0 | Find, cite and clip moments in YouTube videos: analyses, transcripts, Q&A and 1… |
-| 2026-10-21 03:19:36 | io.github.Keyveve/veqen | Veqen signup checks | 0.1.0 | Screen signup risk using email, IP, phone and domain checks with scores and pla… |
-| 2026-10-21 03:20:27 | io.github.myclaimfile/memoshelf |  | 3.121.52 | Shared notebook for AI agents: run log, notes, a pinned How-we-work page, one l… |
+| 2026-10-21 03:22:34 | com.stockfloc/fire-and-ice | StockFloc Fire & Ice | 1.0.5 | Today's fire and ice stock movers and the Floc Heat Index, from the most visual… |
+| 2026-10-21 03:24:05 | [io.github.AgentPhone-AI/agentphone](https://github.com/AgentPhone-AI/agentphone-mcp) | AgentPhone | 0.8.0 | Give AI agents real phone numbers, messages, and voice calls via MCP. |
+| 2026-10-21 03:31:10 | [io.github.sraj0501/devtrack](https://github.com/sraj0501/Devtrack_.git) | DevTrack | 3.2.0 | Read local work context and published Sage command knowledge over MCP. |
+| 2026-10-21 03:33:22 | io.github.agent-audit-x402/x402-tools | agent-audit + page-read (x402) | 0.1.0 | Pay-per-call page reader, quote check, link check and x402 seller audit. USDC o… |
+| 2026-10-21 03:34:39 | [io.github.xianguoGou/h5-devtools-mcp](https://github.com/xianguoGou/h5-devtools-mcp) |  | 0.1.1 | Debug H5 pages inside Android app WebViews: console logs, exceptions, run JS. |
+| 2026-10-21 03:37:57 | [io.github.cyanheads/ioda-outages-mcp-server](https://github.com/cyanheads/ioda-outages-mcp-server) |  | 0.1.1 | Investigate Internet outages with IODA events, alerts, and connectivity signals… |
+| 2026-10-21 03:38:28 | [io.github.agentraas/agentraas](https://github.com/agentraas/agentraas) | AgentRaaS wrap | 0.12.1 | Wraps any MCP server: identical write-tool calls run once, and every tool call… |
+| 2026-10-21 03:46:50 | com.partpacket/quotes | PartPacket — 3D printing quotes | 0.1.0 | Compare FDM STL estimates from Slant 3D and Craftcloud. Fees/shipping separate.… |
+| 2026-10-21 03:46:57 | [io.github.aventurevc/aventure-mcp](https://github.com/aventurevc/aventure-mcp) | aVenture | 0.8.221 | Research private companies, founders, investors, funding rounds, and news with… |
+| 2026-10-21 03:47:15 | com.colorwillow/free-coloring-pages | ColorWillow Free Coloring Pages | 1.0.0 | Find free printable coloring pages with preview images and links to print or do… |
+| 2026-10-21 03:47:17 | io.github.cyberLdy/solescout | SoleScout | 1.0.0 | Live sneaker & streetwear prices and in-stock sizes across 600+ US stores, by s… |
+| 2026-10-21 03:47:57 | [io.github.pipeworx-io/dailymed](https://github.com/pipeworx-io/mcp-dailymed) | Dailymed | 0.1.3 | DailyMed MCP — FDA Structured Product Labels via NLM |
+| 2026-10-21 03:48:11 | [io.github.pipeworx-io/dane-gov-pl](https://github.com/pipeworx-io/mcp-dane-gov-pl) | Dane Gov Pl | 0.1.3 | dane.gov.pl — Poland's national open data portal (Otwarte Dane). |
+| 2026-10-21 03:48:34 | [io.github.pipeworx-io/dart-kr](https://github.com/pipeworx-io/mcp-dart-kr) | Dart Kr | 0.1.4 | DART — Korea's Data Analysis, Retrieval and Transfer System. The Korean equival… |
+| 2026-10-21 03:48:50 | [io.github.pipeworx-io/data-aixmarseille](https://github.com/pipeworx-io/mcp-data-aixmarseille) | Data Aixmarseille | 0.1.3 | Aix-Marseille-Provence Open Data (data.ampmetropole.fr) — OpenDataSoft MCP. |
+| 2026-10-21 03:49:02 | [io.github.pipeworx-io/data-angers](https://github.com/pipeworx-io/mcp-data-angers) | Data Angers | 0.1.3 | Angers Loire Métropole Open Data (data.angers.fr) — OpenDataSoft MCP. |
+| 2026-10-21 03:49:17 | [io.github.pipeworx-io/data-austin](https://github.com/pipeworx-io/mcp-data-austin) | Data Austin | 0.1.3 | DataAustin MCP — Austin, TX open data (data.austintexas.gov, Socrata SODA API). |
+| 2026-10-21 03:49:30 | [io.github.pipeworx-io/data-bahrain](https://github.com/pipeworx-io/mcp-data-bahrain) | Data Bahrain | 0.1.3 | Bahrain government open data — population and census statistics, education, GDP… |
+| 2026-10-21 03:49:39 | ai.seamtro.orbit/orbit | Orbit CRM | 0.1.0 | Open-source CRM for AI agents: humans, orgs, interactions, deals, tasks, links… |
+| 2026-10-21 03:49:41 | [io.github.pipeworx-io/data-baltimore](https://github.com/pipeworx-io/mcp-data-baltimore) | Data Baltimore | 0.1.4 | DataBaltimore MCP — Baltimore open data (data.baltimorecity.gov, ArcGIS REST AP… |
+| 2026-10-21 03:49:53 | [io.github.pipeworx-io/data-batonrouge](https://github.com/pipeworx-io/mcp-data-batonrouge) | Data Batonrouge | 0.1.3 | Baton Rouge Open Data (data.brla.gov) Socrata MCP. |
+| 2026-10-21 03:50:06 | [io.github.pipeworx-io/data-bloomington](https://github.com/pipeworx-io/mcp-data-bloomington) | Data Bloomington | 0.1.3 | Bloomington Open Data (data.bloomington.in.gov) Socrata MCP. |
+| 2026-10-21 03:50:21 | [io.github.pipeworx-io/data-boston](https://github.com/pipeworx-io/mcp-data-boston) | Data Boston | 0.1.4 | DataBoston MCP — City of Boston open data (data.boston.gov, CKAN API). |
+| 2026-10-21 03:50:33 | [io.github.pipeworx-io/data-brussels](https://github.com/pipeworx-io/mcp-data-brussels) | Data Brussels | 0.1.4 | Brussels Open Data (opendata.bruxelles.be) — OpenDataSoft MCP. |
+| 2026-10-21 03:50:42 | com.kasprdata/data-mcp |  | 0.1.0 | Measured internet quality by country, region and district since 2019: connectiv… |
+| 2026-10-21 03:50:45 | com.kasprdata/timing-mcp |  | 0.8.0 | Is there a materially better time for this call, stream or upload, given where… |
+| 2026-10-21 03:50:45 | [io.github.pipeworx-io/data-calgary](https://github.com/pipeworx-io/mcp-data-calgary) | Data Calgary | 0.1.4 | DataCalgary MCP — Calgary open data (data.calgary.ca, Socrata SODA API). |
+| 2026-10-21 03:50:47 | com.kasprdata/predict-mcp |  | 1.2.0 | Ranks the hours before a deadline for batch jobs and transfers by expected netw… |
+| 2026-10-21 03:50:57 | [io.github.pipeworx-io/data-cambridge](https://github.com/pipeworx-io/mcp-data-cambridge) | Data Cambridge | 0.1.3 | DataCambridge MCP — Cambridge open data (data.cambridgema.gov, Socrata SODA API… |
+| 2026-10-21 03:51:12 | [io.github.pipeworx-io/data-centrevaldeloire](https://github.com/pipeworx-io/mcp-data-centrevaldeloire) | Data Centrevaldeloire | 0.1.3 | Centre-Val de Loire Open Data (data.centrevaldeloire.fr) — OpenDataSoft MCP. |
+| 2026-10-21 03:51:28 | [io.github.pipeworx-io/data-cincinnati](https://github.com/pipeworx-io/mcp-data-cincinnati) | Data Cincinnati | 0.1.4 | DataCincinnati MCP — Cincinnati open data (data.cincinnati-oh.gov, Socrata SODA… |
+| 2026-10-21 03:51:41 | [io.github.pipeworx-io/data-cityofchicago](https://github.com/pipeworx-io/mcp-data-cityofchicago) | Data Cityofchicago | 0.1.3 | data.cityofchicago.org Socrata MCP. |
+| 2026-10-21 03:51:52 | [io.github.pipeworx-io/data-cityofnewyork](https://github.com/pipeworx-io/mcp-data-cityofnewyork) | Data Cityofnewyork | 0.1.3 | NYC Open Data — US government open data (data.cityofnewyork.us) via the Socrata… |
+| 2026-10-21 03:52:04 | [io.github.pipeworx-io/data-colorado](https://github.com/pipeworx-io/mcp-data-colorado) | Data Colorado | 0.1.3 | Colorado Information Marketplace — US government open data (data.colorado.gov)… |
+| 2026-10-21 03:52:17 | [io.github.pipeworx-io/data-connecticut](https://github.com/pipeworx-io/mcp-data-connecticut) | Data Connecticut | 0.1.3 | Connecticut Open Data — US government open data (data.ct.gov) via the Socrata S… |
+| 2026-10-21 03:52:32 | [io.github.pipeworx-io/data-cookcounty](https://github.com/pipeworx-io/mcp-data-cookcounty) | Data Cookcounty | 0.1.3 | Cook County Open Data (datacatalog.cookcountyil.gov) Socrata MCP. |
+| 2026-10-21 03:52:46 | [io.github.pipeworx-io/data-dallas](https://github.com/pipeworx-io/mcp-data-dallas) | Data Dallas | 0.1.3 | DataDallas MCP — Dallas open data (www.dallasopendata.com, Socrata SODA API). |
+| 2026-10-21 03:52:57 | [io.github.pipeworx-io/data-dc](https://github.com/pipeworx-io/mcp-data-dc) | Data Dc | 0.1.3 | DataDC MCP — Washington, DC open data (opendata.dc.gov, ArcGIS REST API). |
+| 2026-10-21 03:53:09 | [io.github.pipeworx-io/data-delaware](https://github.com/pipeworx-io/mcp-data-delaware) | Data Delaware | 0.1.3 | Delaware Open Data (data.delaware.gov) Socrata MCP. |
+| 2026-10-21 03:53:21 | [io.github.pipeworx-io/data-denver](https://github.com/pipeworx-io/mcp-data-denver) | Data Denver | 0.1.3 | DataDenver MCP — Denver open data (opendata-geospatialdenver.hub.arcgis.com, Ar… |
+| 2026-10-21 03:53:32 | [io.github.pipeworx-io/data-detroit](https://github.com/pipeworx-io/mcp-data-detroit) | Data Detroit | 0.1.3 | DataDetroit MCP — Detroit open data (data.detroitmi.gov, ArcGIS REST API). |
+| 2026-10-21 03:53:43 | [io.github.pipeworx-io/data-economie-fr](https://github.com/pipeworx-io/mcp-data-economie-fr) | Data Economie Fr | 0.1.3 | France Economy & Finance Open Data (data.economie.gouv.fr) — OpenDataSoft MCP. |
+| 2026-10-21 03:53:54 | [io.github.pipeworx-io/data-edmonton](https://github.com/pipeworx-io/mcp-data-edmonton) | Data Edmonton | 0.1.3 | DataEdmonton MCP — Edmonton open data (data.edmonton.ca, Socrata SODA API). |
+| 2026-10-21 03:54:05 | [io.github.pipeworx-io/data-energystar](https://github.com/pipeworx-io/mcp-data-energystar) | Data Energystar | 0.1.3 | ENERGY STAR Open Data (data.energystar.gov) Socrata MCP. |
+| 2026-10-21 03:54:17 | [io.github.pipeworx-io/data-europa](https://github.com/pipeworx-io/mcp-data-europa) | Data Europa | 0.1.3 | data.europa.eu MCP — EU open-data hub. |
+| 2026-10-21 03:54:28 | [io.github.pipeworx-io/data-fcc](https://github.com/pipeworx-io/mcp-data-fcc) | Data Fcc | 0.1.3 | FCC Open Data (opendata.fcc.gov) Socrata MCP. |
+| 2026-10-21 03:54:38 | [io.github.pipeworx-io/data-fortworth](https://github.com/pipeworx-io/mcp-data-fortworth) | Data Fortworth | 0.1.3 | Fort Worth Open Data (data.fortworthtexas.gov) Socrata MCP. |
+| 2026-10-21 03:54:53 | [io.github.pipeworx-io/data-fulton](https://github.com/pipeworx-io/mcp-data-fulton) | Data Fulton | 0.1.3 | Fulton County Open Data (sharefulton.fultoncountyga.gov) Socrata MCP. |
+| 2026-10-21 03:55:10 | [io.github.pipeworx-io/data-gov-in](https://github.com/pipeworx-io/mcp-data-gov-in) | Data Gov In | 0.1.3 | India Open Government Data (OGD) Platform MCP — data.gov.in |
+| 2026-10-21 03:55:22 | [io.github.pipeworx-io/data-gov-sg](https://github.com/pipeworx-io/mcp-data-gov-sg) | Data Gov Sg | 0.1.3 | data.gov.sg MCP — Singapore open data + real-time environment/transport feeds |
+| 2026-10-21 03:55:33 | [io.github.pipeworx-io/data-govt-nz](https://github.com/pipeworx-io/mcp-data-govt-nz) | Data Govt Nz | 0.1.3 | data.govt.nz CKAN MCP. |
+| 2026-10-21 03:55:46 | [io.github.pipeworx-io/data-gr](https://github.com/pipeworx-io/mcp-data-gr) | Data Gr | 0.1.3 | Greece Open Data (data.gov.gr) CKAN MCP. |
+| 2026-10-21 03:55:57 | [io.github.pipeworx-io/data-grandparissud](https://github.com/pipeworx-io/mcp-data-grandparissud) | Data Grandparissud | 0.1.3 | Grand Paris Sud Open Data (data.grandparissud.fr) — OpenDataSoft MCP. |
+| 2026-10-21 03:56:09 | [io.github.pipeworx-io/data-howardcounty](https://github.com/pipeworx-io/mcp-data-howardcounty) | Data Howardcounty | 0.1.3 | Howard County Open Data (opendata.howardcountymd.gov) Socrata MCP. |
+| 2026-10-21 03:56:21 | [io.github.pipeworx-io/data-iledefrance](https://github.com/pipeworx-io/mcp-data-iledefrance) | Data Iledefrance | 0.1.3 | Île-de-France Open Data (data.iledefrance.fr) — OpenDataSoft MCP. |
+| 2026-10-21 03:56:32 | [io.github.pipeworx-io/data-issy](https://github.com/pipeworx-io/mcp-data-issy) | Data Issy | 0.1.3 | Issy-les-Moulineaux Open Data (data.issy.com) — OpenDataSoft MCP. |
+| 2026-10-21 03:56:45 | [io.github.pipeworx-io/data-kcmo](https://github.com/pipeworx-io/mcp-data-kcmo) | Data Kcmo | 0.1.3 | DataKansasCityMO MCP — Kansas City, MO open data (data.kcmo.org, Socrata SODA A… |
+| 2026-10-21 03:56:57 | [io.github.pipeworx-io/data-kingcounty](https://github.com/pipeworx-io/mcp-data-kingcounty) | Data Kingcounty | 0.1.3 | King County Open Data (data.kingcounty.gov) Socrata MCP. |
+| 2026-10-21 03:57:09 | [io.github.pipeworx-io/data-la](https://github.com/pipeworx-io/mcp-data-la) | Data La | 0.1.3 | DataLA MCP — Los Angeles open data (data.lacity.org, Socrata SODA API). |
+| 2026-10-21 03:57:27 | [io.github.pipeworx-io/data-loireatlantique](https://github.com/pipeworx-io/mcp-data-loireatlantique) | Data Loireatlantique | 0.1.3 | Loire-Atlantique Open Data (data.loire-atlantique.fr) — OpenDataSoft MCP. |
+| 2026-10-21 03:57:39 | [io.github.pipeworx-io/data-lv](https://github.com/pipeworx-io/mcp-data-lv) | Data Lv | 0.1.3 | Latvia Open Data (data.gov.lv) CKAN MCP. |
+| 2026-10-21 03:57:51 | [io.github.pipeworx-io/data-maryland](https://github.com/pipeworx-io/mcp-data-maryland) | Data Maryland | 0.1.3 | Maryland Open Data — US government open data (opendata.maryland.gov) via the So… |
+| 2026-10-21 03:58:06 | [io.github.pipeworx-io/data-mesa](https://github.com/pipeworx-io/mcp-data-mesa) | Data Mesa | 0.1.3 | Mesa Open Data (citydata.mesaaz.gov) Socrata MCP. |
+| 2026-10-21 03:58:18 | [io.github.pipeworx-io/data-michigan](https://github.com/pipeworx-io/mcp-data-michigan) | Data Michigan | 0.1.3 | Michigan Open Data (data.michigan.gov) Socrata MCP. |
+| 2026-10-21 03:58:29 | [io.github.pipeworx-io/data-mo](https://github.com/pipeworx-io/mcp-data-mo) | Data Mo | 0.1.3 | Missouri Open Data (data.mo.gov) Socrata MCP. |
+| 2026-10-21 03:58:40 | [io.github.pipeworx-io/data-montgomery](https://github.com/pipeworx-io/mcp-data-montgomery) | Data Montgomery | 0.1.3 | DataMontgomeryCountyMD MCP — Montgomery County, MD open data (data.montgomeryco… |
+| 2026-10-21 03:58:51 | [io.github.pipeworx-io/data-montreal](https://github.com/pipeworx-io/mcp-data-montreal) | Data Montreal | 0.1.3 | DataMontreal MCP — City of Montreal open data (donnees.montreal.ca, CKAN API). |
+| 2026-10-21 03:59:03 | [io.github.pipeworx-io/data-nantes](https://github.com/pipeworx-io/mcp-data-nantes) | Data Nantes | 0.1.3 | Nantes Métropole Open Data (data.nantesmetropole.fr) — OpenDataSoft MCP. |
+| 2026-10-21 03:59:07 | [io.github.cyanheads/worms-marine-taxa-mcp-server](https://github.com/cyanheads/worms-marine-taxa-mcp-server) |  | 0.1.1 | Resolve WoRMS marine taxa, classifications, synonyms, distributions, traits, an… |
+| 2026-10-21 03:59:13 | [io.github.pipeworx-io/data-nashville](https://github.com/pipeworx-io/mcp-data-nashville) | Data Nashville | 0.1.3 | DataNashville MCP — Nashville open data (data.nashville.gov, ArcGIS REST API). |
+| 2026-10-21 03:59:29 | [io.github.pipeworx-io/data-newcaledonia](https://github.com/pipeworx-io/mcp-data-newcaledonia) | Data Newcaledonia | 0.1.3 | New Caledonia Open Data (data.gouv.nc) — OpenDataSoft MCP. |
+| 2026-10-21 03:59:41 | [io.github.pipeworx-io/data-nj](https://github.com/pipeworx-io/mcp-data-nj) | Data Nj | 0.1.3 | New Jersey Open Data (data.nj.gov) Socrata MCP. |
+| 2026-10-21 03:59:44 | [io.github.Gwakko/agent-in-browser](https://github.com/Gwakko/agent-in-browser) | agent-in-browser | 0.1.1 | Real browser for any agent: Chrome/Edge/Brave via CDP, Firefox via BiDi. Refs,… |
+| 2026-10-21 03:59:53 | [io.github.pipeworx-io/data-nl](https://github.com/pipeworx-io/mcp-data-nl) | Data Nl | 0.1.3 | Netherlands Open Data (data.overheid.nl/data) CKAN MCP. |
+| 2026-10-21 04:00:06 | [io.github.pipeworx-io/data-nola](https://github.com/pipeworx-io/mcp-data-nola) | Data Nola | 0.1.3 | DataNewOrleans MCP — New Orleans open data (data.nola.gov, Socrata SODA API). |
+| 2026-10-21 04:00:20 | [io.github.pipeworx-io/data-norfolk](https://github.com/pipeworx-io/mcp-data-norfolk) | Data Norfolk | 0.1.3 | Norfolk Open Data (data.norfolk.gov) Socrata MCP. |
+| 2026-10-21 04:00:31 | [io.github.pipeworx-io/data-novascotia](https://github.com/pipeworx-io/mcp-data-novascotia) | Data Novascotia | 0.1.3 | Nova Scotia Open Data (data.novascotia.ca) Socrata MCP. |
+| 2026-10-21 04:00:40 | [io.github.codecraf8/maap](https://github.com/hitl-systems/maap-mcp) |  | 0.1.1 | Calibrated numeric estimates with uncertainty from messy records |
+| 2026-10-21 04:00:44 | [io.github.pipeworx-io/data-ny](https://github.com/pipeworx-io/mcp-data-ny) | Data Ny | 0.1.3 | data.ny.gov Socrata MCP. |
+| 2026-10-21 04:00:57 | [io.github.pipeworx-io/data-oakland](https://github.com/pipeworx-io/mcp-data-oakland) | Data Oakland | 0.1.3 | Oakland Open Data (data.oaklandca.gov) Socrata MCP. |
+| 2026-10-21 04:01:10 | [io.github.pipeworx-io/data-occitanie](https://github.com/pipeworx-io/mcp-data-occitanie) | Data Occitanie | 0.1.3 | Occitanie Region Open Data (data.laregion.fr) — OpenDataSoft MCP. |
+| 2026-10-21 04:01:28 | [io.github.pipeworx-io/data-odre](https://github.com/pipeworx-io/mcp-data-odre) | Data Odre | 0.1.3 | ODRE Energy Open Data (odre.opendatasoft.com) — OpenDataSoft MCP. |
+| 2026-10-21 04:01:40 | [io.github.pipeworx-io/data-oregon](https://github.com/pipeworx-io/mcp-data-oregon) | Data Oregon | 0.1.3 | Oregon Open Data — US government open data (data.oregon.gov) via the Socrata So… |
+| 2026-10-21 04:01:51 | [io.github.pipeworx-io/data-orlando](https://github.com/pipeworx-io/mcp-data-orlando) | Data Orlando | 0.1.3 | Orlando Open Data (data.cityoforlando.net) Socrata MCP. |
+| 2026-10-21 04:02:02 | [io.github.pipeworx-io/data-pa](https://github.com/pipeworx-io/mcp-data-pa) | Data Pa | 0.1.3 | Pennsylvania Open Data (data.pa.gov) Socrata MCP. |
+| 2026-10-21 04:02:14 | [io.github.pipeworx-io/data-paris](https://github.com/pipeworx-io/mcp-data-paris) | Data Paris | 0.1.3 | Paris Open Data (opendata.paris.fr) — OpenDataSoft MCP. |
+| 2026-10-21 04:02:33 | [io.github.pipeworx-io/data-piercecounty](https://github.com/pipeworx-io/mcp-data-piercecounty) | Data Piercecounty | 0.1.3 | Pierce County Open Data (internal.open.piercecountywa.gov) Socrata MCP. |
+| 2026-10-21 04:02:45 | [io.github.pipeworx-io/data-providence](https://github.com/pipeworx-io/mcp-data-providence) | Data Providence | 0.1.3 | Providence Open Data (data.providenceri.gov) Socrata MCP. |
+| 2026-10-21 04:02:56 | [io.github.pipeworx-io/data-qatar](https://github.com/pipeworx-io/mcp-data-qatar) | Data Qatar | 0.1.3 | Qatar government open data — population, economic indicators, trade, and SDG so… |
+| 2026-10-21 04:03:08 | [io.github.pipeworx-io/data-rennes](https://github.com/pipeworx-io/mcp-data-rennes) | Data Rennes | 0.1.3 | Rennes Métropole Open Data (data.rennesmetropole.fr) — OpenDataSoft MCP. |
+| 2026-10-21 04:03:23 | [io.github.pipeworx-io/data-reunion](https://github.com/pipeworx-io/mcp-data-reunion) | Data Reunion | 0.1.3 | Réunion Open Data (data.regionreunion.com) — OpenDataSoft MCP. |
+| 2026-10-21 04:03:38 | [io.github.pipeworx-io/data-santaclara](https://github.com/pipeworx-io/mcp-data-santaclara) | Data Santaclara | 0.1.3 | Santa Clara County Open Data (data.sccgov.org) Socrata MCP. |
+| 2026-10-21 04:03:49 | [io.github.pipeworx-io/data-seattle](https://github.com/pipeworx-io/mcp-data-seattle) | Data Seattle | 0.1.3 | DataSeattle MCP — Seattle open data (data.seattle.gov, Socrata SODA API). |
+| 2026-10-21 04:04:08 | com.nythosx.tools/agent-tools | NythosX Agent Tools | 1.0.0 | Gas fees and USD tx costs on 6 chains, cheapest-chain ranking, URL to Markdown.… |
+| 2026-10-21 04:04:13 | [io.github.pipeworx-io/data-sncf](https://github.com/pipeworx-io/mcp-data-sncf) | Data Sncf | 0.1.3 | SNCF Open Data (ressources.data.sncf.com) — OpenDataSoft MCP. |
+| 2026-10-21 04:04:24 | [io.github.pipeworx-io/data-sonoma](https://github.com/pipeworx-io/mcp-data-sonoma) | Data Sonoma | 0.1.3 | Sonoma County Open Data (data.sonomacounty.ca.gov) Socrata MCP. |
+| 2026-10-21 04:04:37 | [io.github.pipeworx-io/data-strasbourg](https://github.com/pipeworx-io/mcp-data-strasbourg) | Data Strasbourg | 0.1.3 | Strasbourg Open Data (data.strasbourg.eu) — OpenDataSoft MCP. |
+| 2026-10-21 04:04:49 | [io.github.pipeworx-io/data-texas](https://github.com/pipeworx-io/mcp-data-texas) | Data Texas | 0.1.3 | Texas Open Data — US government open data (data.texas.gov) via the Socrata SoQL… |
+| 2026-10-21 04:04:51 | com.goatcade/arcade | Goatcade | 2.0.0 | Real, free browser games that open in the chat: city builder, racer, horde shoo… |
+| 2026-10-21 04:05:00 | [io.github.pipeworx-io/data-toronto](https://github.com/pipeworx-io/mcp-data-toronto) | Data Toronto | 0.1.3 | DataToronto MCP — City of Toronto open data (open.toronto.ca, CKAN API). |
+| 2026-10-21 04:05:08 | me.atendi/atendime | atendi.me | 1.0.0 | Read a service business's catalog and funnel stages on atendi.me. |
+| 2026-10-21 04:05:11 | [io.github.pipeworx-io/data-toulouse](https://github.com/pipeworx-io/mcp-data-toulouse) | Data Toulouse | 0.1.3 | Toulouse Métropole Open Data (data.toulouse-metropole.fr) — OpenDataSoft MCP. |
+| 2026-10-21 04:05:40 | [io.github.pipeworx-io/data-tours](https://github.com/pipeworx-io/mcp-data-tours) | Data Tours | 0.1.3 | Tours Métropole Open Data (data.tours-metropole.fr) — OpenDataSoft MCP. |
+| 2026-10-21 04:06:11 | [io.github.pipeworx-io/data-ua](https://github.com/pipeworx-io/mcp-data-ua) | Data Ua | 0.1.3 | Ukraine Open Data (data.gov.ua) CKAN MCP. |
+| 2026-10-21 04:06:37 | com.textforagents/browser-rehearsal-range | Browser rehearsal range for agents | 1.0.0 | Rehearsal range: mirror a site, rehearse the workflow, earn a drift-bound promo… |
+| 2026-10-21 04:06:37 | [io.github.pipeworx-io/data-usdot](https://github.com/pipeworx-io/mcp-data-usdot) | Data Usdot | 0.1.3 | US DOT Open Data (datahub.transportation.gov) Socrata MCP. |
+| 2026-10-21 04:06:53 | [io.github.pipeworx-io/data-va](https://github.com/pipeworx-io/mcp-data-va) | Data Va | 0.1.3 | Virginia Open Data (datahub.va.gov) Socrata MCP. |
+| 2026-10-21 04:07:17 | [io.github.pipeworx-io/data-vermont](https://github.com/pipeworx-io/mcp-data-vermont) | Data Vermont | 0.1.3 | Vermont Open Data (data.vermont.gov) Socrata MCP. |
+| 2026-10-21 04:07:37 | [io.github.pipeworx-io/data-wa](https://github.com/pipeworx-io/mcp-data-wa) | Data Wa | 0.1.3 | Washington State Open Data — US government open data (data.wa.gov) via the Socr… |
+| 2026-10-21 04:07:50 | [io.github.pipeworx-io/data-winnipeg](https://github.com/pipeworx-io/mcp-data-winnipeg) | Data Winnipeg | 0.1.3 | Winnipeg Open Data (data.winnipeg.ca) Socrata MCP. |
+| 2026-10-21 04:08:01 | br.com.ilojista/ilojista | iLojista | 1.0.0 | Read a phone and electronics store's device catalog and funnel stages on iLojis… |
+| 2026-10-21 04:08:05 | io.prospectar/prospectar | Prospectar | 1.0.0 | Read a B2B commercial team's catalog and funnel stages on Prospectar. |
+| 2026-10-21 04:08:26 | [io.github.pipeworx-io/datacite](https://github.com/pipeworx-io/mcp-datacite) | Datacite | 0.1.3 | DataCite MCP — DOIs for research datasets (free, no auth) |
+| 2026-10-21 04:08:40 | [io.github.cyanheads/faa-airmen-registry-mcp-server](https://github.com/cyanheads/faa-airmen-registry-mcp-server) |  | 0.1.1 | Search FAA airmen certificates, ratings, and informational medical records. |
+| 2026-10-21 04:09:14 | [io.github.pipeworx-io/datafiniti](https://github.com/pipeworx-io/mcp-datafiniti) | Datafiniti | 0.1.3 | Datafiniti MCP — wraps the Datafiniti Data API (datafiniti.co) |
+| 2026-10-21 04:09:26 | [io.github.pipeworx-io/datagouv-fr](https://github.com/pipeworx-io/mcp-datagouv-fr) | Datagouv Fr | 0.1.3 | data.gouv.fr MCP — French open-data catalogue. |
+| 2026-10-21 04:09:48 | [io.github.pipeworx-io/datagov](https://github.com/pipeworx-io/mcp-datagov) | Datagov | 0.1.3 | Data.gov MCP — wraps Data.gov CKAN API (catalog.data.gov/api/3) |
+| 2026-10-21 04:09:59 | [io.github.pipeworx-io/datagov-au](https://github.com/pipeworx-io/mcp-datagov-au) | Datagov Au | 0.1.3 | data.gov.au MCP — Australia open-data CKAN catalogue. |
+| 2026-10-21 04:10:17 | [io.github.pipeworx-io/datagov-ie](https://github.com/pipeworx-io/mcp-datagov-ie) | Datagov Ie | 0.1.3 | data.gov.ie MCP — Ireland's national open-data portal (CKAN API). |
+| 2026-10-21 04:10:41 | [io.github.pipeworx-io/datagov-il](https://github.com/pipeworx-io/mcp-datagov-il) | Datagov Il | 0.1.3 | data.gov.il MCP — Israel national open-data portal (CKAN API). |
+| 2026-10-21 04:11:06 | [io.github.pipeworx-io/datagov-uk](https://github.com/pipeworx-io/mcp-datagov-uk) | Datagov Uk | 0.1.3 | data.gov.uk MCP — UK national open-data portal (CKAN API). |
+| 2026-10-21 04:13:37 | ai.ripplewatch/ripplewatch | Ripplewatch | 0.1.0 | Competitive analyst inside Claude or ChatGPT. Ask who's heating up and why. |
+| 2026-10-21 04:17:21 | [io.github.cyanheads/canada-parliament-mcp-server](https://github.com/cyanheads/canada-parliament-mcp-server) |  | 0.1.1 | Track Canadian federal bills, MPs, House votes, and Hansard speeches. |
 
 ## Data source
 
