@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-21T01:22:49.120624Z,com.hadacart/catalog-snapshots,Hadacart public catalog snapshots,1.0.0,,streamable-http,"Dated KR/US product comparisons and affiliate links; exact options, unknown totals; no payment."
+2026-10-21T01:29:06.516996Z,com.lupamundo/lupamundo,Lupamundo,1.1.0,,streamable-http,"Sourced guides and picks: language exam prices, visas, studying and working abroad (Spanish)."
+2026-10-21T01:30:08.441261Z,org.thorchain/thorchain-mcp,THORChain MCP,1.0.0,https://gitlab.com/thorchain/thorchain-mcp,streamable-http,"Read-only THORChain data: pools, network, nodes, vaults, transactions, Midgard history."
+2026-10-21T01:32:21.848728Z,dev.fly.bot-bazaar/bot-bazaar,Bot Bazaar,0.5.0,,streamable-http,"Non-custodial agent marketplace, USDC on Base: 6 read-only search tools; trade tools need a bot key."
+2026-10-21T01:36:09.058886Z,com.textforagents/catalog-cache-guard,Catalog-cache guard for agent tool catalogs,1.0.0,,streamable-http,"Cache guard: forced-private partitioning, TTL clamp, fingerprint diffing, exposure verdicts."
+2026-10-21T01:52:36.836672Z,com.netnestdesign/fundamentals,NetNest Design Fundamentals API,1.0.0,,streamable-http,SEC company fundamentals with the source filing for every number. Pay per call in USDC with x402.
+2026-10-21T01:53:47.749427Z,io.github.geland/secrethandoff,Secret Handoff,0.0.2,https://github.com/geland/secrethandoff-integrations,,Let agents use temporary secrets without receiving their values in chat. Local stdio; Node 22+.
+2026-10-21T01:56:14.481942Z,ai.1court.state/court-directory,1Court Directory,1.0.0,,streamable-http; sse,"US county court directory: clerk, courthouse address, e-filing, filing fees, and case lookup."
+2026-10-21T01:57:04.948034Z,io.github.hal-boring-utils/expiry-watch,Boring Utils Expiry Watch,1.0.0,,streamable-http,"Check a site's TLS certificate and its domain registration expiry. Read-only, no sign-in."
+2026-10-21T02:03:15.498972Z,com.nexusbro/website-audit,NexusBro website audit,1.0.0,,streamable-http,"Free website audit for coding agents: health score, top issues, a fix prompt and the full report."
+2026-10-21T02:08:14.959349Z,com.hifoyer/foyer,Foyer,1.0.0,,streamable-http,"Read and search your Foyer AI call screener: calls, voicemails, what callers said. Change settings."
+2026-10-21T02:10:58.28318Z,ai.qompass/periscope,Periscope,0.1.0,https://github.com/qompassai/periscope,,"MCP broker into your live Neovim/diver config: LSP, formatters, linters, DAP, MATE attention."
+2026-10-21T02:12:42.283161Z,ai.qompass/phaedrus,Phaedrus,0.1.0,https://github.com/qompassai/phaedrus,,"Research-feed MCP server: literature-watch findings, watchlist, and revenue-candidate drafts."
+2026-10-21T02:13:00.789968Z,io.github.travisseamon-a11y/xemstudio,Xem Studio,1.1.3,https://github.com/travisseamon-a11y/xemstudio,streamable-http,"Exact-dimension geometry for AI agents: free STEP/STL files, dimension sheets, mating fit data."
+2026-10-21T02:13:05.633898Z,ai.qompass/lupin,Lupin,0.1.0,https://github.com/qompassai/lupin,,"Revenue-alignment MCP server: opportunity ledger, capability matching, Qompass/NTRanch lanes."
+2026-10-21T02:14:03.391646Z,com.cutshed/cutshed,Cutshed,1.0.0,,streamable-http,"Free browser tools, Studio prices, and the public clipper quote. Account tools need OAuth."
+2026-10-21T02:17:42.543796Z,com.triedagents/triedagents,TriedAgents,1.0.0,,streamable-http,"AI-agent use cases re-run and rated: verdict, score out of 10, access level L0-L4, links."
