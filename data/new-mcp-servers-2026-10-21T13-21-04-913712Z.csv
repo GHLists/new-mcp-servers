@@ -1,0 +1,38 @@
+created_at,server,title,version,repository,transports,description
+2026-10-21T12:25:41.857106Z,site.chatgpt.orangeslug16.dmitry-agent-appeal/voluntary-support,Dmitry Voluntary Support,1.0.0,,streamable-http,"Read a voluntary personal appeal, USDC receiving details, and submit private proposals."
+2026-10-21T12:26:43.509721Z,space.openplatform/open-platform,Open Platform,1.0.0,https://github.com/LouisKojo/open-platform,streamable-http,"Marktplatz fuer Anliegen: Angebot gegen Nachfrage, von Agenten lesbar und bedienbar."
+2026-10-21T12:26:52.184869Z,si.bozos/bozos,BOZOS,1.0.0,,streamable-http,Read-only reference data and stateless utilities for AI agents: crawler and opt-out signal datasets.
+2026-10-21T12:26:58.408597Z,com.rafaldoniec/services,Rafał Doniec: AI for companies,1.1.0,,streamable-http,"Services, price ranges and quote requests of Rafał Doniec, AI Solution Architect (Wrocław, Poland)."
+2026-10-21T12:27:40.510479Z,com.folsn.mcp/own-store-products,Folsn Own-Store Products,0.1.0,,streamable-http,"Search Folsn own-store products with recorded KRW prices, options, shipping and purchase URLs."
+2026-10-21T12:29:45.633616Z,xyz.femtos/mcp,Femtos,1.0.0,,streamable-http,"Hyperliquid data for agents: HyperCore, HyperEVM, Elysium trades, candles, bridges, wallets."
+2026-10-21T12:30:22.336834Z,io.github.JoernBerkefeld/mcp-server-mcdev,,1.0.0,https://github.com/JoernBerkefeld/mcp-server-mcdev,,"mcdev MCP: wiki search, .mcdevrc help, journey checklists, metadata types via mcdev."
+2026-10-21T12:31:07.06Z,io.github.a0971025732-netizen/finch-agent-catalog,Finch Agent Catalog,1.0.0,https://github.com/a0971025732-netizen/finch-agent-catalog-mcp,streamable-http,"No-auth search of Finch AI agents: crypto tracing, wallet risk, options, stock perps, resumes"
+2026-10-21T12:31:14.016459Z,ai.arihaan/jobs,Arihaan Jobs,1.0.0,,streamable-http,"Live job postings from employer career sites: search, count and compare jobs and companies."
+2026-10-21T12:31:47.14209Z,io.github.svattula/castmyagent,CastMyAgent Personas,1.0.0,https://github.com/svattula/castmyagent,streamable-http,Read-only catalog of free CastMyAgent persona packs.
+2026-10-21T12:35:28.957448Z,com.madebydevx.agentgas/agentgas,AgentGas,1.2.0,,streamable-http,"Quotes, capacity and order status for buying native gas on Base/Arbitrum/Optimism/Polygon via x402."
+2026-10-21T12:35:57.839486Z,com.trusted-blogs/blogsuche,,1.0.0,,streamable-http,"Find vetted blogs for sponsored posts and link building, with topics and SEO metrics. Read-only."
+2026-10-21T12:36:19.449689Z,org.istointents/registry,Isto Intents Registry,0.2.0,,streamable-http,Finds intent servers (car or home watch) for a country and category. Read-only.
+2026-10-21T12:36:31.922901Z,io.github.groove79/mcp-cafe24,Cafe24,0.1.1,https://github.com/groove79/kmcp,,"Cafe24 mall MCP: products, variant stock, orders, board posts. 카페24 쇼핑몰 MCP 서버."
+2026-10-21T12:37:16.420131Z,com.new-odyssey/olympus,Olympus government data,1.1.0,https://github.com/NewOdysseyConsulting/Olympus,streamable-http,"U.S. government data with provenance: Census demographics, SST sales tax rates, SEC financials."
+2026-10-21T12:37:57.227964Z,com.pick-rate/hotels,Pickrate direct-booking hotels,1.0.0,,streamable-http,"Hotels that book direct: search, live-availability links, and AI-agent readiness checks."
+2026-10-21T12:38:48.576651Z,com.madebydevx.namedrop/namedrop,NameDrop,1.1.0,,streamable-http,"Check, quote and register or renew Basenames (name.base.eth), paying in USDC on Base. No ETH needed."
+2026-10-21T12:46:08.935145Z,com.textforagents/tool-call-origin-attestation,Tool-Call Origin Attestation,1.0.0,,streamable-http,Dispatch-boundary attestation: prove a tool call was issued for its exact arguments.
+2026-10-21T12:46:26.623138Z,io.github.SecondShotAI/verifylite,VerifyLite,1.0.0,,streamable-http,"Pay-per-call website safety and URL checks for AI agents. USDC on Base via x402, no API keys."
+2026-10-21T12:46:46.841834Z,ai.snapdub/snapdub,SnapDub,1.0.0,,streamable-http,"Turn long videos into captioned vertical clips for TikTok, Reels and Shorts."
+2026-10-21T12:50:48.017306Z,dev.voar/voar,voar,1.0.0,,streamable-http,Read your organization's GitHub Actions jobs and usage on voar. Read-only.
+2026-10-21T12:51:10.585523Z,fr.ptipanda/liste-de-naissance,Liste de Naissance - Ptipanda.fr,0.1.0,,streamable-http,"Composez une liste de naissance avec les idées cadeaux de ptipanda.fr, puis créez-la en un lien."
+2026-10-21T12:52:11.797061Z,io.github.mrfomoweb3/hacklist-mcp,HackList,0.2.0,https://github.com/mrfomoweb3/hacklist-mcp,streamable-http,"Live AI & Web3 hackathons, grants and programs from HackList, ranked for what's worth entering."
+2026-10-21T12:52:48.627147Z,io.github.av-leschinskiy/moodle-mcp,,0.1.1,https://github.com/av-leschinskiy/moodle-mcp,,"Moodle MCP server for teachers: review assignment submissions, grade and give feedback; SSO login"
+2026-10-21T12:55:45.594501Z,link.snip/snip,Snip,1.0.0,,streamable-http,Free QR codes that never expire and free short links with click stats.
+2026-10-21T12:56:05.231578Z,com.corazor/corazor,Corazor Technology,1.0.0,,streamable-http,"Global AI product engineering partner: services, case studies, fit check, booking"
+2026-10-21T12:58:18.703441Z,io.github.ynishi/mini-app-mcp,,0.20.0,https://github.com/ynishi/mini-app-mcp,,"Agent-First CRUD store MCP server — 1 daemon per table, schema.yaml driven, SQLite backend"
+2026-10-21T13:00:18.351389Z,io.github.HassanJ866/relay,Relay,1.0.0,,streamable-http,"Public agent coordination: searchable findings, durable handoffs, and leased task claims."
+2026-10-21T13:02:29.938337Z,fast.trygeo/geofast,GEOFast,1.0.0,,streamable-http,"How often ChatGPT, Gemini, Perplexity and Claude name your brand, with fixes and briefs."
+2026-10-21T13:03:25.588846Z,io.github.altss-data/docs,Altss Documentation,1.0.0,,streamable-http,Search Altss public docs. Includes provider feedback submission; no premium intelligence access.
+2026-10-21T13:05:04.617719Z,com.legitym/legal,Legitym — French law,1.0.0,,streamable-http,"French case law (Judilibre) and codes (Légifrance) from official sources, with citation checking."
+2026-10-21T13:09:45.920614Z,io.usefulapi/cratejoy,Cratejoy MCP by usefulapi,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Cratejoy subscriptions, customers, orders and shipments; skip or cancel subscriptions."
+2026-10-21T13:11:30.545172Z,io.github.truecopydev/truecopy,truecopy,2.0.16,https://github.com/truecopydev/truecopy,,"Read tables, figures and dates out of a PDF, Word file, CSV or paste, with a verdict on the reading."
+2026-10-21T13:11:51.17042Z,com.landingen24h/landing-en-24h,Landing en 24h,1.0.0,,streamable-http,Free single-file HTML landing page generator for small businesses (ES/EN).
+2026-10-21T13:14:39.057768Z,com.getlinkbunny/exchange,LinkBunny Exchange,0.1.3,,,Let your coding agent run LinkBunny nofollow link exchanges. Requires a paid account's API token.
+2026-10-21T13:17:01.298616Z,io.github.nucliweb/webperf-snippets,WebPerf Snippets,1.1.0,https://github.com/nucliweb/webperf-snippets,,Measure Core Web Vitals and debug web performance with 56 snippets in a headless Chromium
+2026-10-21T13:21:00.981657Z,work.kadai/kadai,Kadai,1.0.0,,streamable-http,"Issue tracker shared with clients (Japanese UI): read issues, comment, move them to resolved."
