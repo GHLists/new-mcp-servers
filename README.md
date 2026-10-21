@@ -9,41 +9,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 10:19 UTC
+## Latest list — 2026-10-21 11:23 UTC
 
-New MCP servers published between 2026-10-21 09:22 UTC and 2026-10-21 10:19 UTC.
+New MCP servers published between 2026-10-21 10:19 UTC and 2026-10-21 11:23 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-21T10-19-16-382645Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-21T11-23-01-784131Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-21 09:23:20 | [app.superdocs/superdocs](https://github.com/superdocsapp/superdocs-plugin) | Typebar (formerly SuperDocs) | 1.4.0 | Formerly SuperDocs, now ai.typebar/typebar: AI document editing, 38 MCP tools,… |
-| 2026-10-21 09:24:35 | com.usetested/reviews | UseTested — Receipts-Verified Service R… | 1.2.0 | Receipts-verified reviews of x402 services and paid APIs, before your agent pay… |
-| 2026-10-21 09:27:45 | io.github.coroslab/coros-mcp | COROS | 1.0.0 | Access COROS activity, training and health data, and manage training plans and… |
-| 2026-10-21 09:30:18 | [io.github.krllagent/painintheagent-mcp](https://github.com/krllagent/painintheagent-mcp) | Pain in the Agent | 0.3.0 | Remove text watermarks, humanize and check AI writing with your Pain in the Age… |
-| 2026-10-21 09:30:39 | [com.esimgomobile/esimgomobile](https://github.com/esimgomobile/esimgomobile-mcp) | esimgomobile — Travel eSIM Tools | 0.1.0 | Travel eSIM plan catalog, coverage and trip-planning tools for agents and devel… |
-| 2026-10-21 09:34:14 | dev.agentdiet/mcp-security | Imperium MCP Security — Prompt-Injectio… | 7.0.16 | Real-time MCP & A2A prompt-injection, jailbreak, and tool-schema poisoning fire… |
-| 2026-10-21 09:34:20 | dev.agentdiet/mcp-gateway | Imperium MCP Gateway — Universal 490+ T… | 7.0.16 | Single-connection MCP & A2A gateway indexing 490+ verified tools with x402 & MP… |
-| 2026-10-21 09:34:28 | dev.agentdiet/rag-diet | Imperium RAG-Diet — Web & Document Cont… | 7.0.16 | Strips 85-97% of HTML/DOM boilerplate into clean Markdown, skeletons, or BM25-r… |
-| 2026-10-21 09:35:18 | com.x402broker/mcp-gateway | X402-Broker Universal MCP Gateway & Mul… | 7.0.16 | Single-connection MCP gateway discovering and executing 490+ verified MCP, A2A… |
-| 2026-10-21 09:35:22 | com.x402broker/marketplace | X402-Broker Global B2A & A2A Tool Marke… | 7.0.16 | Autonomous agent clearinghouse indexing 23,000+ MCP, A2A, x402 & MPP tools with… |
-| 2026-10-21 09:36:01 | [io.github.anandkaranubc/git-into-gsoc](https://github.com/anandkaranubc/git-into-gsoc) | git-into-gsoc | 0.2.0 | Evidence-based GSoC preparation: organizations, repositories, free beginner iss… |
-| 2026-10-21 09:37:41 | com.textforagents/pre-install-canonical-identity-verification | Pre-install canonical-identity verifica… | 1.0.0 | Pre-install canonical-identity verification for MCP servers and skills, with si… |
-| 2026-10-21 09:38:07 | [io.github.pucilpet/verifiedpricing](https://github.com/pucilpet/verifiedpricing-agent-clients) | VerifiedPricing | 0.2.0 | Source-linked SaaS pricing records and scenario comparisons for AI agents. |
-| 2026-10-21 09:39:32 | [io.github.VBlackJack/cortex](https://github.com/VBlackJack/Cortex) |  | 2026.1021.2 | Local multi-client RAG server over the Model Context Protocol. |
-| 2026-10-21 09:43:24 | [io.usefulapi/zenbooker](https://github.com/m190/usefulapi-mcp) | Zenbooker MCP by usefulapi | 1.0.0 | Read Zenbooker jobs, customers, invoices and timeslots; add customers and job n… |
-| 2026-10-21 09:43:51 | [io.github.Raafet57/payment-intelligence](https://github.com/Raafet57/payment-intelligence-plugin) | Payment Intelligence | 0.1.0 | Offline ISO 20022 payment tools: explain and scrub pacs/camt, CBPR+, SSI checks… |
-| 2026-10-21 09:47:04 | app.putmein/putmein | Put Me In | 1.0.0 | AI meme video templates: how-tos, recommended settings, example prompts and FAQ… |
-| 2026-10-21 09:48:54 | [io.github.richer-richard/arquimedes](https://github.com/richer-richard/arquimedes) | Arquimedes | 1.1.0 | Search and sample 1,038,963 competition and benchmark math problems. |
-| 2026-10-21 09:49:37 | com.judaro/israeli-law | Judaro: Israeli Law & Legal Know-How | 1.0.0 | Israeli law for lawyers: statutes, case law, playbooks and legal skills by doma… |
-| 2026-10-21 09:51:41 | [co.getchime/scheduler](https://github.com/wednesday-solutions/chime-scheduler) | Chime Scheduler | 1.0.0 | Schedule and publish LinkedIn posts from chat, with images, video and first com… |
-| 2026-10-21 09:54:13 | nl.appset/dashboard | Appset | 1.0.0 | Let AI assistants manage an Appset website: pages, blog posts, products, servic… |
-| 2026-10-21 09:55:56 | com.dataceen/dataceen | Dataceen | 1.0.0 | Describe a business and get a running system: data model, API, MCP server, SDKs… |
-| 2026-10-21 10:04:01 | [io.github.TexturesDev/textures](https://github.com/textures-dev/skill) | Textures | 0.1.0 | Hover textures for websites, delivered as one self-contained React file each. S… |
-| 2026-10-21 10:04:39 | app.factograph/factograph | FactoGraph | 0.2.0 | Memory for AI agents: facts a person approved, each with a link, and answers th… |
-| 2026-10-21 10:08:07 | [io.github.martinzachariassen/domeneshop-mcp](https://github.com/martinzachariassen/domeneshop-mcp) | Domeneshop | 1.1.0 | Manage Domeneshop domains, DNS records, HTTP forwards, dynamic DNS and invoices. |
-| 2026-10-21 10:12:17 | [dev.textures/textures](https://github.com/textures-dev/skill) | Textures | 0.1.0 | Hover textures for websites, delivered as one self-contained React file each. S… |
-| 2026-10-21 10:15:03 | io.github.heyitsgautham/video-transcripts | YouTube & TikTok Transcripts | 1.0.3 | YouTube and TikTok transcripts, YouTube search and comments as tools. Runs on A… |
+| 2026-10-21 10:22:08 | [io.github.fr0ster/mcp-abap-adt-compact-ro](https://github.com/fr0ster/mcp-abap-adt) |  | 19.1.0 | Read-only compact MCP server for SAP ABAP ADT: the compact tools that change no… |
+| 2026-10-21 10:22:10 | [io.github.fr0ster/mcp-abap-adt-http](https://github.com/fr0ster/mcp-abap-adt) |  | 19.1.0 | MCP server for SAP ABAP ADT over Streamable HTTP: credentials from x-sap-* head… |
+| 2026-10-21 10:22:16 | [io.github.fr0ster/mcp-abap-adt-compact-http](https://github.com/fr0ster/mcp-abap-adt) |  | 19.1.0 | Compact MCP server for SAP ABAP ADT over Streamable HTTP: x-sap-* header creden… |
+| 2026-10-21 10:22:22 | [io.github.fr0ster/mcp-abap-adt-http-ro](https://github.com/fr0ster/mcp-abap-adt) |  | 19.1.0 | Read-only MCP server for SAP ABAP ADT over Streamable HTTP: x-sap-* header cred… |
+| 2026-10-21 10:22:26 | [io.github.fr0ster/mcp-abap-adt-sse](https://github.com/fr0ster/mcp-abap-adt) |  | 19.1.0 | MCP server for SAP ABAP ADT over HTTP+SSE: credentials from the x-sap-* headers… |
+| 2026-10-21 10:22:35 | [io.github.fr0ster/mcp-abap-adt-compact-sse](https://github.com/fr0ster/mcp-abap-adt) |  | 19.1.0 | Compact MCP server for SAP ABAP ADT over HTTP+SSE: x-sap-* header credentials |
+| 2026-10-21 10:22:39 | [io.github.fr0ster/mcp-abap-adt-sse-ro](https://github.com/fr0ster/mcp-abap-adt) |  | 19.1.0 | Read-only MCP server for SAP ABAP ADT over HTTP+SSE: x-sap-* header credentials |
+| 2026-10-21 10:22:45 | [io.github.fr0ster/mcp-abap-adt-compact-sse-ro](https://github.com/fr0ster/mcp-abap-adt) |  | 19.1.0 | Read-only compact MCP server for SAP ABAP ADT over HTTP+SSE: x-sap-* header cre… |
+| 2026-10-21 10:23:41 | [net.umbhost/umbhost-kb-mcp](https://github.com/UmbHost/claude-plugins) | UmbHost Knowledgebase | 0.1.0 | Search and read UmbHost help articles: GreenStack, Umbraco hosting, DNS, email,… |
+| 2026-10-21 10:23:50 | [io.github.Ilmar7786/marzban-mcp](https://github.com/Ilmar7786/marzban-sdk) | Marzban MCP | 0.4.0 | Manage Marzban panels through the Model Context Protocol. |
+| 2026-10-21 10:25:04 | [com.scento/perfume-api](https://github.com/Scento-com/perfume-mcp-server) | Scento Perfume API (MCP server) | 1.0.0 | Free perfume & fragrance API and MCP server: notes, families, similar scents, 1… |
+| 2026-10-21 10:26:48 | io.pingrobot/pingrobot | PingRobot | 1.0.0 | Uptime monitoring: see what's down and why, add monitors, schedule maintenance,… |
+| 2026-10-21 10:28:14 | ai.cooperbuild/cooper | CooperBuild | 2026.10.16 | AI-native operating system for general contractors: estimates, takeoff, bids, p… |
+| 2026-10-21 10:29:21 | com.textforagents/ban-bulkheads-reputation-firebreaks | Ban Bulkheads — Reputation Firebreaks f… | 1.0.0 | Partition an agent fleet into reputation compartments with automatic firebreaks. |
+| 2026-10-21 10:30:19 | ai.adkix/adkix | adkix | 1.0.0 | Turn a website into a short 9:16 video ad: script, cast, voice, shots, music. A… |
+| 2026-10-21 10:36:13 | [io.usefulapi/linnworks](https://github.com/m190/usefulapi-mcp) | Linnworks MCP by usefulapi | 1.0.0 | Read Linnworks inventory, stock and orders; set stock levels and add order note… |
+| 2026-10-21 10:38:50 | ai.sayitagain/sayitagain | Say It Again | 1.0.0 | AI UGC videos of your store's products: read a product, write 3 scripts, make t… |
+| 2026-10-21 10:44:31 | [io.github.IgniteUI/igniteui-theming](https://github.com/IgniteUI/igniteui-theming) | Ignite UI Theming MCP Server | 29.1.1 | Generate Sass palettes, typography, elevations, and themes for Ignite UI compon… |
+| 2026-10-21 10:45:09 | [com.tollylabs/x402-mcp](https://github.com/TollyLabs/x402-mcp) | TOLLY x402: paid agent services on Arc | 0.4.1 | Pay-per-call agent services in USDC on Arc via x402: TOLLY data plus routed thi… |
+| 2026-10-21 10:49:15 | com.sentinelbriefing/sentinel | Sentinel Briefing | 1.0.0 | Strategic monitoring and public affairs intelligence: watches, sourced notes, a… |
+| 2026-10-21 10:50:12 | earth.remap/routes | Remap | 0.1.0 | Plan cycling, running and walking routes from any place and see them on an inte… |
+| 2026-10-21 10:52:36 | sa.arbiter/law | Saudi Law Portal · البوابة الميسرة للأن… | 1.1.0 | Saudi statutes and regulations: search, read full texts, analyze redacted facts… |
+| 2026-10-21 11:02:29 | [io.github.Iconmind/iconmind](https://github.com/Iconmind/iconmind) |  | 0.8.2 | Search IconMind's MIT icons by name, tag or category; get real slugs and import… |
+| 2026-10-21 11:09:58 | [io.github.LambdaTest/mcp](https://github.com/LambdaTest/mcp-server-guide) | TestMu AI (formerly LambdaTest) | 1.0.7 | Agentic AI quality engineering: run, debug and triage tests on real browsers an… |
+| 2026-10-21 11:10:41 | io.github.lucas-project/one-million-tools | One Million Tools | 0.1.0 | 42 free deterministic utilities: JSON, CSV, YAML, encoding, hashing, JWT, cron,… |
+| 2026-10-21 11:13:59 | com.trivago.mcp/mcp | trivago | 0.6.0 | trivago's mcp server to find your ideal hotel and compare prices from multiple… |
+| 2026-10-21 11:19:15 | com.rigorpeptides/peptidelab | PeptideLab Calculator | 1.0.0 | Research-use peptide reconstitution & dosing calculators for 15 compounds. Not… |
+| 2026-10-21 11:20:15 | [io.github.SyedaMahaZaidi/chakorventures-mcp](https://github.com/SyedaMahaZaidi/chakorventures-mcp) | Chakor Ventures | 1.0.1 | Access public information about Chakor Ventures through MCP. |
+| 2026-10-21 11:21:01 | [io.usefulapi/keypay](https://github.com/m190/usefulapi-mcp) | Employment Hero Payroll MCP by usefulapi | 1.0.0 | Read Employment Hero Payroll pay runs, payslips, timesheets and leave; approve… |
+| 2026-10-21 11:22:04 | app.cleanchart/cleanchart | CleanChart | 1.0.0 | Clean messy tabular data and render publication-ready PNG charts from your AI a… |
 
 ## Data source
 

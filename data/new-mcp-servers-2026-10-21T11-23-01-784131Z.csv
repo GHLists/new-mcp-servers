@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-10-21T10:22:08.644583Z,io.github.fr0ster/mcp-abap-adt-compact-ro,,19.1.0,https://github.com/fr0ster/mcp-abap-adt,,Read-only compact MCP server for SAP ABAP ADT: the compact tools that change nothing
+2026-10-21T10:22:10.384964Z,io.github.fr0ster/mcp-abap-adt-http,,19.1.0,https://github.com/fr0ster/mcp-abap-adt,,MCP server for SAP ABAP ADT over Streamable HTTP: credentials from x-sap-* headers per request
+2026-10-21T10:22:16.940225Z,io.github.fr0ster/mcp-abap-adt-compact-http,,19.1.0,https://github.com/fr0ster/mcp-abap-adt,,Compact MCP server for SAP ABAP ADT over Streamable HTTP: x-sap-* header credentials
+2026-10-21T10:22:22.679672Z,io.github.fr0ster/mcp-abap-adt-http-ro,,19.1.0,https://github.com/fr0ster/mcp-abap-adt,,Read-only MCP server for SAP ABAP ADT over Streamable HTTP: x-sap-* header credentials
+2026-10-21T10:22:26.921136Z,io.github.fr0ster/mcp-abap-adt-sse,,19.1.0,https://github.com/fr0ster/mcp-abap-adt,,MCP server for SAP ABAP ADT over HTTP+SSE: credentials from the x-sap-* headers of each connection
+2026-10-21T10:22:35.219696Z,io.github.fr0ster/mcp-abap-adt-compact-sse,,19.1.0,https://github.com/fr0ster/mcp-abap-adt,,Compact MCP server for SAP ABAP ADT over HTTP+SSE: x-sap-* header credentials
+2026-10-21T10:22:39.232573Z,io.github.fr0ster/mcp-abap-adt-sse-ro,,19.1.0,https://github.com/fr0ster/mcp-abap-adt,,Read-only MCP server for SAP ABAP ADT over HTTP+SSE: x-sap-* header credentials
+2026-10-21T10:22:45.486532Z,io.github.fr0ster/mcp-abap-adt-compact-sse-ro,,19.1.0,https://github.com/fr0ster/mcp-abap-adt,,Read-only compact MCP server for SAP ABAP ADT over HTTP+SSE: x-sap-* header credentials
+2026-10-21T10:23:41.745368Z,net.umbhost/umbhost-kb-mcp,UmbHost Knowledgebase,0.1.0,https://github.com/UmbHost/claude-plugins,streamable-http,"Search and read UmbHost help articles: GreenStack, Umbraco hosting, DNS, email, SSL and more."
+2026-10-21T10:23:50.596369Z,io.github.Ilmar7786/marzban-mcp,Marzban MCP,0.4.0,https://github.com/Ilmar7786/marzban-sdk,,Manage Marzban panels through the Model Context Protocol.
+2026-10-21T10:25:04.193382Z,com.scento/perfume-api,Scento Perfume API (MCP server),1.0.0,https://github.com/Scento-com/perfume-mcp-server,streamable-http,"Free perfume & fragrance API and MCP server: notes, families, similar scents, 1,400+ perfumes."
+2026-10-21T10:26:48.862433Z,io.pingrobot/pingrobot,PingRobot,1.0.0,,streamable-http,"Uptime monitoring: see what's down and why, add monitors, schedule maintenance, post status updates."
+2026-10-21T10:28:14.55348Z,ai.cooperbuild/cooper,CooperBuild,2026.10.16,,streamable-http,"AI-native operating system for general contractors: estimates, takeoff, bids, pay apps."
+2026-10-21T10:29:21.005694Z,com.textforagents/ban-bulkheads-reputation-firebreaks,Ban Bulkheads — Reputation Firebreaks for Agent Fleets,1.0.0,,streamable-http,Partition an agent fleet into reputation compartments with automatic firebreaks.
+2026-10-21T10:30:19.62174Z,ai.adkix/adkix,adkix,1.0.0,,streamable-http,"Turn a website into a short 9:16 video ad: script, cast, voice, shots, music. Asks before spending."
+2026-10-21T10:36:13.956848Z,io.usefulapi/linnworks,Linnworks MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Linnworks inventory, stock and orders; set stock levels and add order notes."
+2026-10-21T10:38:50.574718Z,ai.sayitagain/sayitagain,Say It Again,1.0.0,,streamable-http,"AI UGC videos of your store's products: read a product, write 3 scripts, make the video."
+2026-10-21T10:44:31.275343Z,io.github.IgniteUI/igniteui-theming,Ignite UI Theming MCP Server,29.1.1,https://github.com/IgniteUI/igniteui-theming,,"Generate Sass palettes, typography, elevations, and themes for Ignite UI components."
+2026-10-21T10:45:09.283229Z,com.tollylabs/x402-mcp,TOLLY x402: paid agent services on Arc,0.4.1,https://github.com/TollyLabs/x402-mcp,,Pay-per-call agent services in USDC on Arc via x402: TOLLY data plus routed third-party agents.
+2026-10-21T10:49:15.198054Z,com.sentinelbriefing/sentinel,Sentinel Briefing,1.0.0,,streamable-http,"Strategic monitoring and public affairs intelligence: watches, sourced notes, analysed articles."
+2026-10-21T10:50:12.362848Z,earth.remap/routes,Remap,0.1.0,,streamable-http,"Plan cycling, running and walking routes from any place and see them on an interactive map."
+2026-10-21T10:52:36.491124Z,sa.arbiter/law,Saudi Law Portal · البوابة الميسرة للأنظمة,1.1.0,,streamable-http,"Saudi statutes and regulations: search, read full texts, analyze redacted facts (Arabic/English)."
+2026-10-21T11:02:29.236599Z,io.github.Iconmind/iconmind,,0.8.2,https://github.com/Iconmind/iconmind,,"Search IconMind's MIT icons by name, tag or category; get real slugs and import lines. Offline."
+2026-10-21T11:09:58.075381Z,io.github.LambdaTest/mcp,TestMu AI (formerly LambdaTest),1.0.7,https://github.com/LambdaTest/mcp-server-guide,streamable-http,"Agentic AI quality engineering: run, debug and triage tests on real browsers and devices"
+2026-10-21T11:10:41.026885Z,io.github.lucas-project/one-million-tools,One Million Tools,0.1.0,,streamable-http,"42 free deterministic utilities: JSON, CSV, YAML, encoding, hashing, JWT, cron, formatters, CSS."
+2026-10-21T11:13:59.500752Z,com.trivago.mcp/mcp,trivago,0.6.0,,streamable-http,trivago's mcp server to find your ideal hotel and compare prices from multiple providers.
+2026-10-21T11:19:15.330745Z,com.rigorpeptides/peptidelab,PeptideLab Calculator,1.0.0,,streamable-http; streamable-http; streamable-http; streamable-http; streamable-http,Research-use peptide reconstitution & dosing calculators for 15 compounds. Not medical advice.
+2026-10-21T11:20:15.74185Z,io.github.SyedaMahaZaidi/chakorventures-mcp,Chakor Ventures,1.0.1,https://github.com/SyedaMahaZaidi/chakorventures-mcp,,Access public information about Chakor Ventures through MCP.
+2026-10-21T11:21:01.135537Z,io.usefulapi/keypay,Employment Hero Payroll MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Employment Hero Payroll pay runs, payslips, timesheets and leave; approve or decline leave."
+2026-10-21T11:22:04.21469Z,app.cleanchart/cleanchart,CleanChart,1.0.0,,streamable-http,Clean messy tabular data and render publication-ready PNG charts from your AI assistant.
