@@ -1,0 +1,91 @@
+created_at,server,title,version,repository,transports,description
+2026-10-21T22:21:07.126375Z,io.github.pipeworx-io/destatis,Destatis,0.1.3,https://github.com/pipeworx-io/mcp-destatis,streamable-http,Destatis MCP — Germany's official statistics (Destatis GENESIS-Online).
+2026-10-21T22:21:34.970813Z,io.github.pipeworx-io/dev-feeds,Dev Feeds,0.1.4,https://github.com/pipeworx-io/mcp-dev-feeds,streamable-http,Developer Feeds MCP.
+2026-10-21T22:21:55.499854Z,io.github.pipeworx-io/devdocs-io,Devdocs Io,0.1.3,https://github.com/pipeworx-io/mcp-devdocs-io,streamable-http,DevDocs.io MCP.
+2026-10-21T22:22:12.983888Z,io.github.pipeworx-io/devto,Devto,0.1.3,https://github.com/pipeworx-io/mcp-devto,streamable-http,"DEV.to MCP — wraps the DEV Community API (free, no auth for public reads)"
+2026-10-21T22:22:14.651668Z,link.morningbrief/edgar,Edgar — SEC Company Financials for AI Agents,1.0.0,,streamable-http,"SEC financials for AI agents: standardized statements for 8,000+ public companies. Free, no key."
+2026-10-21T22:22:57.811108Z,io.github.pipeworx-io/dictionary,Dictionary,0.1.3,https://github.com/pipeworx-io/mcp-dictionary,streamable-http,"Dictionary MCP — wraps Free Dictionary API (free, no auth)"
+2026-10-21T22:23:11.250393Z,io.github.pipeworx-io/didit,Didit,0.1.3,https://github.com/pipeworx-io/mcp-didit,streamable-http,Didit MCP — wraps the Didit v3 identity / compliance API (didit.me)
+2026-10-21T22:23:24.885355Z,io.github.pipeworx-io/diffbot,Diffbot,0.1.3,https://github.com/pipeworx-io/mcp-diffbot,streamable-http,Diffbot MCP — Knowledge Graph company enrichment + web content extraction (diffbot.com)
+2026-10-21T22:23:41.041197Z,io.github.pipeworx-io/digimon,Digimon,0.1.3,https://github.com/pipeworx-io/mcp-digimon,streamable-http,Digimon API MCP (digi-api.com).
+2026-10-21T22:23:55.218316Z,io.github.pipeworx-io/digitalnz,Digitalnz,0.1.3,https://github.com/pipeworx-io/mcp-digitalnz,streamable-http,DigitalNZ MCP.
+2026-10-21T22:24:04.879471Z,io.github.praisondani/shireautomations-cli,Shire Automations,0.1.1,https://github.com/praisondani/shireautomations-cli,,Read Shire Automations services and pricing; plan business workflows with stateless tools.
+2026-10-21T22:24:08.038376Z,io.github.pipeworx-io/dilisense,Dilisense,0.1.3,https://github.com/pipeworx-io/mcp-dilisense,streamable-http,dilisense MCP — sanctions / PEP / criminal / adverse-media screening (AML/KYC)
+2026-10-21T22:24:21.919914Z,io.github.pipeworx-io/discogs,Discogs,0.1.3,https://github.com/pipeworx-io/mcp-discogs,streamable-http,Discogs MCP — music release / artist / label database
+2026-10-21T22:24:37.014652Z,io.github.pipeworx-io/discord,Discord,0.1.3,https://github.com/pipeworx-io/mcp-discord,streamable-http,Discord MCP Pack
+2026-10-21T22:24:49.352797Z,io.github.pipeworx-io/disease,Disease,1.0.3,https://github.com/pipeworx-io/mcp-disease,streamable-http,"Disease MCP — wraps disease.sh API (COVID-19 statistics, no auth required)"
+2026-10-21T22:25:01.898323Z,io.github.pipeworx-io/disify,Disify,1.0.3,https://github.com/pipeworx-io/mcp-disify,streamable-http,Disify MCP — wraps the Disify API (anonymous tier + BYO key)
+2026-10-21T22:25:13.795094Z,io.github.pipeworx-io/disney,Disney,0.1.3,https://github.com/pipeworx-io/mcp-disney,streamable-http,Disney character database MCP.
+2026-10-21T22:25:25.241644Z,io.github.pipeworx-io/dnd5e,Dnd5e,1.0.3,https://github.com/pipeworx-io/mcp-dnd5e,streamable-http,"D&D 5e MCP — wraps the D&D 5th Edition API (free, no auth)"
+2026-10-21T22:25:37.488155Z,io.github.pipeworx-io/dns,Dns,0.1.3,https://github.com/pipeworx-io/mcp-dns,streamable-http,DNS MCP — DNS and network lookup tools
+2026-10-21T22:25:48.776865Z,io.github.pipeworx-io/doaj,Doaj,0.1.3,https://github.com/pipeworx-io/mcp-doaj,streamable-http,DOAJ MCP — Directory of Open Access Journals
+2026-10-21T22:26:00.523852Z,io.github.pipeworx-io/dockerhub,Dockerhub,0.1.3,https://github.com/pipeworx-io/mcp-dockerhub,streamable-http,"Docker Hub MCP — wraps the Docker Hub v2 API (free, no auth required for public data)"
+2026-10-21T22:26:12.223878Z,io.github.pipeworx-io/docket-alarm,Docket Alarm,0.1.3,https://github.com/pipeworx-io/mcp-docket-alarm,streamable-http,Docket Alarm MCP — state + county + federal court dockets (docketalarm.com)
+2026-10-21T22:26:24.18578Z,io.github.pipeworx-io/dod-contract-announcements,Dod Contract Announcements,0.1.3,https://github.com/pipeworx-io/mcp-dod-contract-announcements,streamable-http,DoD Contract Announcements MCP — the daily press-release feed of every US defense contract award…
+2026-10-21T22:26:34.247257Z,com.joinbuffet/buffet,Buffet,1.0.0,,streamable-http,"Buffet's weekly lineup of real-life events and hangouts in Los Angeles. Read-only, no sign-in."
+2026-10-21T22:26:36.129329Z,io.github.pipeworx-io/dogceo,Dogceo,1.0.3,https://github.com/pipeworx-io/mcp-dogceo,streamable-http,"Dog CEO MCP — wraps Dog CEO's Dog API (free, no auth)"
+2026-10-21T22:26:48.421056Z,io.github.pipeworx-io/dogsapi,Dogsapi,1.0.3,https://github.com/pipeworx-io/mcp-dogsapi,streamable-http,"DogsAPI MCP — wraps dogapi.dog v2 API (free, no auth)"
+2026-10-21T22:27:00.241083Z,io.github.pipeworx-io/dol-whd,Dol Whd,0.1.3,https://github.com/pipeworx-io/mcp-dol-whd,streamable-http,DOL Wage & Hour Division — concluded enforcement cases
+2026-10-21T22:27:11.607527Z,io.github.pipeworx-io/domains,Domains,0.2.4,https://github.com/pipeworx-io/mcp-domains,streamable-http,Domains MCP — domain registration lookup + availability search over live RDAP (ICANN standard…
+2026-10-21T22:27:34.818973Z,io.github.pipeworx-io/dpla,Dpla,0.1.2,https://github.com/pipeworx-io/mcp-dpla,streamable-http,DPLA — the Digital Public Library of America.
+2026-10-21T22:28:08.526157Z,io.github.pipeworx-io/drugbank,Drugbank,0.1.3,https://github.com/pipeworx-io/mcp-drugbank,streamable-http,DrugBank MCP — wraps the DrugBank Clinical API (api.drugbank.com)
+2026-10-21T22:28:15.573292Z,com.textforagents/collusion-sentinel-agent-markets,Collusion Sentinel for Agent Markets,1.0.0,,streamable-http,Emergent collusion leaves no agreement to find — it lives in the history.
+2026-10-21T22:28:20.113178Z,io.github.pipeworx-io/dryad,Dryad,0.1.3,https://github.com/pipeworx-io/mcp-dryad,streamable-http,Dryad (datadryad.org) MCP — keyless.
+2026-10-21T22:28:20.820799Z,com.textforagents/delivery-capacity-landing-governor,Delivery-capacity landing governor,1.0.0,,streamable-http,Meters agent-fleet acceptance capacity per operator and triages what lands.
+2026-10-21T22:28:26.029934Z,com.textforagents/mcp-host-behaviour-census,MCP host-behaviour census,1.0.0,,streamable-http,"Signed MCP host behaviour profiles: timeouts, refresh, retries."
+2026-10-21T22:28:27.487798Z,io.github.tompeezy/crypto-intelligence-mcp,Crypto Intelligence,0.1.0,https://github.com/tompeezy/crypto-intelligence-mcp,,"Read-only crypto claim discovery and unsigned readiness; no wallets, quotes or payments."
+2026-10-21T22:28:46.216045Z,io.github.pipeworx-io/dtcc-swaps,Dtcc Swaps,0.1.2,https://github.com/pipeworx-io/mcp-dtcc-swaps,streamable-http,"DTCC Public Swap Price Dissemination — the real-time, CFTC-Part-43-mandated public feed of swap…"
+2026-10-21T22:28:57.719177Z,io.github.pipeworx-io/dubai-land,Dubai Land,0.1.3,https://github.com/pipeworx-io/mcp-dubai-land,streamable-http,Dubai Land Department (DLD) — Dubai real-estate open data.
+2026-10-21T22:29:08.983145Z,io.github.pipeworx-io/duffel,Duffel,0.1.3,https://github.com/pipeworx-io/mcp-duffel,streamable-http,Duffel MCP — live flight search + pricing via the Duffel Flights API (duffel.com)
+2026-10-21T22:29:19.96465Z,io.github.pipeworx-io/dummyjson,Dummyjson,0.1.3,https://github.com/pipeworx-io/mcp-dummyjson,streamable-http,DummyJSON MCP.
+2026-10-21T22:29:42.839379Z,io.github.pipeworx-io/dwds,Dwds,0.1.3,https://github.com/pipeworx-io/mcp-dwds,streamable-http,DWDS MCP — German Digital Dictionary.
+2026-10-21T22:29:58.444657Z,io.github.pipeworx-io/earth-search,Earth Search,0.1.2,https://github.com/pipeworx-io/mcp-earth-search,streamable-http,Sentinel and Landsat imagery catalogue from Element 84's Earth Search over the AWS Open Data…
+2026-10-21T22:30:10.003222Z,io.github.pipeworx-io/earthscope-fdsn,Earthscope Fdsn,0.1.2,https://github.com/pipeworx-io/mcp-earthscope-fdsn,streamable-http,"FDSN seismic web services MCP — seismometer metadata, data holdings and regional earthquake…"
+2026-10-21T22:30:21.12413Z,io.github.pipeworx-io/easypost,Easypost,0.1.3,https://github.com/pipeworx-io/mcp-easypost,streamable-http,EasyPost MCP — multi-carrier shipping rates + package tracking (easypost.com)
+2026-10-21T22:30:26.001297Z,bo.factura/siat,factura.bo,1.0.0,,streamable-http,Emite y consulta facturas electrónicas del SIAT de Bolivia con factura.bo.
+2026-10-21T22:30:32.681014Z,io.github.pipeworx-io/ebay,Ebay,0.1.3,https://github.com/pipeworx-io/mcp-ebay,streamable-http,eBay MCP — Browse + Taxonomy APIs via client_credentials OAuth
+2026-10-21T22:30:44.124824Z,io.github.pipeworx-io/ebi-ols,Ebi Ols,0.1.3,https://github.com/pipeworx-io/mcp-ebi-ols,streamable-http,EBI OLS4 MCP — Ontology Lookup Service.
+2026-10-21T22:30:55.341224Z,io.github.pipeworx-io/ebid,Ebid,0.1.3,https://github.com/pipeworx-io/mcp-ebid,streamable-http,eBid MCP.
+2026-10-21T22:31:06.402682Z,io.github.pipeworx-io/ebird,Ebird,0.1.3,https://github.com/pipeworx-io/mcp-ebird,streamable-http,eBird MCP — Cornell Lab of Ornithology citizen-science bird observations
+2026-10-21T22:31:28.57728Z,io.github.pipeworx-io/econdata,Econdata,1.0.3,https://github.com/pipeworx-io/mcp-econdata,streamable-http,Econdata MCP — wraps BLS (Bureau of Labor Statistics) public API v2…
+2026-10-21T22:31:41.552415Z,io.github.pipeworx-io/ecos-kr,Ecos Kr,0.1.3,https://github.com/pipeworx-io/mcp-ecos-kr,streamable-http,ECOS — Bank of Korea Economic Statistics System.
+2026-10-21T22:31:54.562657Z,io.github.pipeworx-io/ecosystems,Ecosystems,0.1.3,https://github.com/pipeworx-io/mcp-ecosystems,streamable-http,ecosyste.ms Packages MCP.
+2026-10-21T22:32:05.825916Z,io.github.pipeworx-io/ecuador-procurement,Ecuador Procurement,0.1.3,https://github.com/pipeworx-io/mcp-ecuador-procurement,streamable-http,Ecuador Government Procurement MCP — SERCOP / Compras Públicas (keyless).
+2026-10-21T22:32:17.386852Z,io.github.pipeworx-io/edamam,Edamam,0.1.4,https://github.com/pipeworx-io/mcp-edamam,streamable-http,Edamam MCP — wraps three Edamam APIs in one pack: - Nutrition Analysis API (nutrition_analysis)…
+2026-10-21T22:32:40.858017Z,io.github.pipeworx-io/edinet,Edinet,0.1.3,https://github.com/pipeworx-io/mcp-edinet,streamable-http,EDINET — Japan's corporate-filings system (Financial Services Agency).
+2026-10-21T22:32:52.142324Z,io.github.pipeworx-io/edmtrain,Edmtrain,0.1.3,https://github.com/pipeworx-io/mcp-edmtrain,streamable-http,EDMtrain MCP.
+2026-10-21T22:33:03.657921Z,io.github.pipeworx-io/education-data,Education Data,0.1.3,https://github.com/pipeworx-io/mcp-education-data,streamable-http,"Education Data MCP — US K-12 schools, districts, funding and child poverty."
+2026-10-21T22:33:15.927867Z,io.github.pipeworx-io/education-feeds,Education Feeds,0.1.3,https://github.com/pipeworx-io/mcp-education-feeds,streamable-http,Education Feeds MCP.
+2026-10-21T22:33:39.048443Z,io.github.pipeworx-io/einpresswire,Einpresswire,0.1.2,https://github.com/pipeworx-io/mcp-einpresswire,streamable-http,EIN Presswire MCP — press releases from EIN Presswire's public news sitemap.
+2026-10-21T22:33:51.918472Z,io.github.pipeworx-io/electricity-maps,Electricity Maps,0.1.3,https://github.com/pipeworx-io/mcp-electricity-maps,streamable-http,Electricity Maps MCP — real-time electricity-grid carbon intensity + power generation mix for 200+…
+2026-10-21T22:34:03.534302Z,io.github.pipeworx-io/elexon,Elexon,0.1.3,https://github.com/pipeworx-io/mcp-elexon,streamable-http,Elexon BMRS Insights MCP — Great Britain electricity grid & market data.
+2026-10-21T22:34:15.598624Z,io.github.pipeworx-io/elife,Elife,0.1.3,https://github.com/pipeworx-io/mcp-elife,streamable-http,eLife MCP — keyless open-access life-sciences & biomedical journal articles.
+2026-10-21T22:34:27.291324Z,io.github.pipeworx-io/ema-medicines,Ema Medicines,0.2.3,https://github.com/pipeworx-io/mcp-ema-medicines,streamable-http,EMA Medicines MCP — the European Medicines Agency's public medicines register.
+2026-10-21T22:34:38.989483Z,io.github.pipeworx-io/emailable,Emailable,0.1.3,https://github.com/pipeworx-io/mcp-emailable,streamable-http,Emailable MCP — wraps the Emailable email verification API (emailable.com)
+2026-10-21T22:35:02.948475Z,io.github.pipeworx-io/emdb,Emdb,0.1.3,https://github.com/pipeworx-io/mcp-emdb,streamable-http,EMDB (EBI Electron Microscopy Data Bank) MCP — keyless.
+2026-10-21T22:35:14.099732Z,io.github.pipeworx-io/emoji-oracle,Emoji Oracle,0.1.4,https://github.com/pipeworx-io/mcp-emoji-oracle,streamable-http,emoji-oracle MCP — wraps StupidAPIs (keyless — no credential needed)
+2026-10-21T22:35:27.110251Z,io.github.pipeworx-io/emojihub,Emojihub,1.0.3,https://github.com/pipeworx-io/mcp-emojihub,streamable-http,"EmojiHub MCP — wraps EmojiHub API (free, no auth)"
+2026-10-21T22:35:38.21229Z,io.github.pipeworx-io/emsc,Emsc,0.1.3,https://github.com/pipeworx-io/mcp-emsc,streamable-http,EMSC (European-Mediterranean Seismological Centre) MCP — wraps the seismicportal.eu FDSN event web…
+2026-10-21T22:35:50.147755Z,io.github.pipeworx-io/ena,Ena,0.1.2,https://github.com/pipeworx-io/mcp-ena,streamable-http,"European Nucleotide Archive (ENA) — EMBL-EBI's public record of raw sequencing runs, assemblies…"
+2026-10-21T22:36:01.674809Z,io.github.pipeworx-io/endoflife,Endoflife,0.1.3,https://github.com/pipeworx-io/mcp-endoflife,streamable-http,endoflife.date MCP.
+2026-10-21T22:36:11.030864Z,dev.tokenusage/nerfwatch,Nerf Watch,1.0.0,https://github.com/stdcmms-lang/tokenusage-codex-mcp,streamable-http,"Daily Nerf Watch scores for Claude and GPT models on one private, code-graded suite. Read-only."
+2026-10-21T22:36:13.172124Z,io.github.pipeworx-io/energi-data-dk,Energi Data Dk,0.1.3,https://github.com/pipeworx-io/mcp-energi-data-dk,streamable-http,Energi Data Service (Energinet) MCP — Denmark's official open energy data. Keyless. Electricity…
+2026-10-21T22:36:25.182526Z,io.github.pipeworx-io/energy-charts,Energy Charts,0.1.4,https://github.com/pipeworx-io/mcp-energy-charts,streamable-http,"Energy-Charts (Fraunhofer ISE) MCP — European electricity generation, prices, and capacity.…"
+2026-10-21T22:36:41.688051Z,io.github.pipeworx-io/eu-energy-imports,Eu Energy Imports,0.1.0,https://github.com/pipeworx-io/mcp-eu-energy-imports,streamable-http,"EU energy imports MCP -- where Germany and each EU country get their gas, oil and coal, how much…"
+2026-10-21T22:37:40.786758Z,io.github.pipeworx-io/sos-entities,Sos Entities,0.1.0,https://github.com/pipeworx-io/mcp-sos-entities,streamable-http,sos-entities — state business-entity registries in one normalised shape (fleet #2867).
+2026-10-21T22:38:16.132426Z,com.textforagents/mcp-protocol-era-negotiation-conformance,MCP protocol-era negotiation conformance,1.0.0,,,"Per-era MCP negotiation verdicts: signed documents, drift alerts, client pre-flight."
+2026-10-21T22:38:36.02517Z,io.github.pipeworx-io/web-fetch,Web Fetch,0.1.0,https://github.com/pipeworx-io/mcp-web-fetch,streamable-http,"web-fetch — fetch ONE public URL live from its origin, verbatim."
+2026-10-21T22:39:23.696849Z,io.github.trebeljahr/trackyourtime,Track Your Time,0.3.0,https://github.com/trebeljahr/trackyourtime,,"Track time, manage entries and catalog, and summarize hours on hosted or self-hosted accounts."
+2026-10-21T22:39:24.774326Z,com.modernmustardseed/book-it,Book It,1.0.0,,streamable-http,"Find enrolled home-service and trade businesses by trade and ZIP, and send a booking request."
+2026-10-21T22:39:26.395895Z,com.modernmustardseed/owners-desk,Owner's Desk,1.0.0,,streamable-http,"An owner's own Stripe: who owes you, today's money, draft invoices. Every write needs a confirm."
+2026-10-21T22:39:27.994922Z,com.modernmustardseed/ai-front-door,AI Front Door,1.0.0,,streamable-http,"One small business's own connector: services, area, hours, FAQs, booking and quote requests."
+2026-10-21T22:43:33.910048Z,com.allclearid/connect,"AllClear Connect (OAuth, OIDC, and MCP)",1.0.0,,streamable-http,"Verified identity plus consented personal context, starting with medical records, images & insurance"
+2026-10-21T22:53:45.174317Z,com.textforagents/effect-rewind-compensation-registry,Effect rewind: compensation registry for agent actions,1.0.0,,streamable-http,"Compensation registry for agent actions: inverses registered before effects land, with rewind"
+2026-10-21T22:59:18.859008Z,com.afeleos/af360,af360,0.1.16,,,Watches your local projects and sites read-only and names what would be lost.
+2026-10-21T23:07:09.724843Z,com.textforagents/evidence-granularity-audit,Evidence-granularity audit,1.0.0,,streamable-http,"Per-claim evidence-granularity verdicts for agent listings, before you transact."
+2026-10-21T23:08:39.142242Z,io.github.8enSmith/mcp-open-library,Open Library,1.2.3,https://github.com/8enSmith/mcp-open-library,,Search books and authors on the Internet Archive's Open Library
+2026-10-21T23:12:06.838588Z,com.textforagents/rewrite-regression-probe-pack,Rewrite-regression probe pack,1.0.0,,streamable-http,"History-seeded rewrite-regression verdicts, signed per class."
+2026-10-21T23:14:13.000915Z,dev.kodza/kodza,Kodza,0.1.0,,streamable-http,"Free premium UI components in plain HTML, CSS and vanilla JS, for AI coding assistants."
+2026-10-21T23:14:24.140195Z,io.github.pitfa19/mozak,mozak,0.4.5,https://github.com/pitfa19/mozak,,"One owner-approved plan per project, shared by coding agents as plain files, with an Obsidian view."
+2026-10-21T23:16:19.370028Z,fr.calepio/calepio,Calepio,0.5.0,,streamable-http,"Facturation et comptabilité des micro-entrepreneurs : consulter son compte, préparer des brouillons."
+2026-10-21T23:17:14.176455Z,io.github.WickedAPI/wicked-mcp,Wicked MCP,1.5.0,https://github.com/WickedAPI/wicked-mcp,streamable-http,"Whole Wicked suite for agents: market data, SEC filings, wallet checks, risk, identity, memory."
