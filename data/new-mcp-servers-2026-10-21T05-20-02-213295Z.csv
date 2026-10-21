@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-10-21T04:22:27.479448Z,io.github.cyanheads/mitre-cwe-mcp-server,,0.1.1,https://github.com/cyanheads/mitre-cwe-mcp-server,,"Explore MITRE CWE weaknesses, CAPEC attack patterns, mitigations, code examples, and mappings."
+2026-10-21T04:23:39.77193Z,io.github.UltraStarz/tollkit-crypto,Tollkit Crypto,0.1.0,https://github.com/UltraStarz/x402-extract-mcp,streamable-http,"Crypto news, perps, market pulse, price history and token checks for AI agents. USDC per call."
+2026-10-21T04:24:50.931451Z,ai.creatify/ad-agent,,1.0.0,https://github.com/creatify-ai/creatify-ad-agent-skill,streamable-http,"Turn a prompt, product link, or reference ad into a finished video ad via Creatify's Ad Agent."
+2026-10-21T04:25:11.2844Z,dev.theboomer/ai-tasker,AI Tasker,1.1.8,,streamable-http,"Task and sprint coordination for humans and AI agents, with scoped API keys and full audit trail."
+2026-10-21T04:30:17.385627Z,io.github.dunrossmai-rgb/dueback-mcp,Dueback,0.1.0,https://github.com/dunrossmai-rgb/dueback-mcp,streamable-http,Outcome-based bill negotiation — pay only a percentage of bank-verified savings. Free to try.
+2026-10-21T04:38:59.104352Z,io.github.Moha2005269/agentgo,AgentGo,0.1.5,https://github.com/Moha2005269/agentgo-mcp,,"Real Chromium browser for AI agents: compact outlines, diff-only replies, real input, you approve."
+2026-10-21T04:40:36.671913Z,io.github.jkawamoto/mcp-youtube-transcript,,0.8.1,https://github.com/jkawamoto/mcp-youtube-transcript,,An MCP server retrieving transcripts of YouTube videos
+2026-10-21T04:52:05.791311Z,ai.augmentev/fabric-verify,Fabric Verify,0.1.0,,,"Signed, publicly logged records of what your AI agent did, with proofs anyone can check offline."
+2026-10-21T04:55:54.054716Z,io.github.sumitrmardy/email-verifier,"Email Verifier (SMTP, MX, Catch-All)",1.0.0,https://github.com/sumitrmardy/email-verifier-api,streamable-http,"Bulk email verification: live SMTP mailbox check, MX, catch-all, disposable and role detection."
+2026-10-21T04:56:01.442245Z,io.github.sumitrmardy/website-contact-finder,Website Contact Finder,1.0.0,,streamable-http,"Find emails, phone numbers and social profiles on a list of company websites. One row per domain."
+2026-10-21T04:56:04.806484Z,io.github.sumitrmardy/google-ads-monitor,Google Ads Monitor,1.0.0,,streamable-http,"Competitor Google ads from the Ads Transparency Center: new ads since last run, with ad copy."
+2026-10-21T04:56:22.809294Z,io.github.bnth09productions-maker/scrapling-x402-store,Scrapling x402 Data Store,0.5.0,,streamable-http,"Crypto/DeFi, stock and e-commerce datasets plus pay-per-call web scraping, paid with x402 USDC."
+2026-10-21T05:01:34.598591Z,app.nombox/nombox,Nombox,2.5.2,,streamable-http,"Your recipe box, shopping lists and meal plans, plus public recipes to discover."
+2026-10-21T05:05:52.658366Z,com.spencermcw.data/distill,Distill,1.0.0,,streamable-http,"Pre-computed answers with sources and confidence, paid per call over x402 (USDC on Base)."
+2026-10-21T05:11:23.652779Z,io.github.speak-able/schoolorder-catalog,SchoolOrder Catalog,1.0.0,,streamable-http,"Search AI and edtech subscriptions Korean schools can buy: prices, quotes, S2B purchase guides."
+2026-10-21T05:13:44.983988Z,io.github.pooriaarab/robotaxis,,1.0.0,https://github.com/pooriaarab/directory,streamable-http,"Where you can ride a robotaxi today, city by city."
+2026-10-21T05:19:10.31947Z,lat.rta/rta,rta — zero-knowledge proof of a threshold,0.1.0,https://github.com/mrpkk/rta,streamable-http,Prove a hidden value reached a threshold without revealing the value.
+2026-10-21T05:20:02.182931Z,io.github.intoApex/tas-guard,TAS Guard,0.2.2,https://github.com/intoApex/tas-guard,,"Order limits, phone approvals and a kill switch in front of any broker or exchange MCP server."
