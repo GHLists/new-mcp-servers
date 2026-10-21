@@ -9,56 +9,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 15:21 UTC
+## Latest list — 2026-10-21 16:20 UTC
 
-New MCP servers published between 2026-10-21 14:21 UTC and 2026-10-21 15:21 UTC.
+New MCP servers published between 2026-10-21 15:21 UTC and 2026-10-21 16:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-21T15-21-28-054472Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-21T16-20-20-171906Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-21 14:24:02 | com.cryptokeyhole/analytics | CryptoKeyhole | 1.1.0 | Read-only on-chain and market crypto analytics: BTC, ETH and 47 more assets fro… |
-| 2026-10-21 14:25:33 | tech.machinepulse/machinepulse | Machinepulse | 4.0.10 | Market data tools for the MCP ecosystem: server stats, events, search, leaderbo… |
-| 2026-10-21 14:28:19 | [io.github.krzysztofsurdy/snipaya-mcp](https://github.com/krzysztofsurdy/snipaya-mcp) | Snipaya | 1.0.0 | Annotate screenshots in the Snipaya macOS app: arrows, text, redaction, crop, e… |
-| 2026-10-21 14:28:24 | [io.github.BumiAtlas/bhumi](https://github.com/BumiAtlas/bhumi-mcp) | Bhumi MCP: Data Tanah ATR/BPN, RDTR OSS… | 1.0.0 | Persil Bhumi ATR/BPN, HGU, konsesi tambang, zonasi RDTR OSS. |
-| 2026-10-21 14:32:07 | ai.glassflow/rius | Rius | 0.11.2 | Query your AI agents' traces, errors, cost and alerts in Rius, the agent observ… |
-| 2026-10-21 14:32:33 | [io.github.joshuawhite389/google-sheets-mcp](https://github.com/joshuawhite389/google-sheets-mcp) | Google Sheets MCP Server | 0.2.0 | Read and write Google Sheets with your own service account: list tabs, read, ap… |
-| 2026-10-21 14:32:59 | [top.lain42/spine-render](https://github.com/lilyco-42/lyco-ai-toolkit) | Spine Render | 0.1.1 | Render Spine 3.8 skeleton animations to PNG frames or GIF. Pay per call with po… |
-| 2026-10-21 14:33:30 | io.github.rakeshsoulspace/ai-soul-space | AI Soul Space | 1.0.0 | A social network for AI agents: read communities, join, post, comment and vote… |
-| 2026-10-21 14:33:40 | [lu.hike/hike-lu-mcp](https://github.com/hikelu/hike-lu-mcp) |  | 1.0.0 | Luxembourg hikes, trails, walks, outdoor events in Luxembourg City, Vianden, Mu… |
-| 2026-10-21 14:34:18 | [io.github.somdip-2310/snapdeploy](https://github.com/AAR-Labs/snapdeploy-mcp) | SnapDeploy | 0.1.2 | Deploy and manage SnapDeploy apps from your AI assistant: builds, logs, env var… |
-| 2026-10-21 14:36:08 | [io.github.velsrocky/vtai-agent](https://github.com/velsrocky/vtai-agent) |  | 0.6.6 | System-automation agent MCP server for opencode/claude/pi: guarded shell, dry-r… |
-| 2026-10-21 14:37:11 | [io.github.lonniev/schwab-mcp](https://github.com/lonniev/schwab-mcp) |  | 0.14.0 | Multi-tenant FastMCP server for Charles Schwab brokerage data, monetized via DP… |
-| 2026-10-21 14:38:28 | [io.github.Protemir/stackhint](https://github.com/Protemir/stackhint) | stackhint | 0.2.1 | Recommends MCP servers, plugins and skills for a repo, from what is actually in… |
-| 2026-10-21 14:39:37 | com.wwidgets/mcp | wwidgets | 1.0.0 | Create and manage website widgets: popups, notifications, coupons, countdowns,… |
-| 2026-10-21 14:40:38 | io.iquota/hotels | iQuota Hotels | 1.0.0 | Search, quote and book independent hotels: official rates, live availability, p… |
-| 2026-10-21 14:43:45 | app.colding/colding | colding | 1.0.0 | Read and answer email, manage contacts and campaigns, check addresses and send… |
-| 2026-10-21 14:47:00 | io.griddo/ax-docs | Griddo Docs | 0.1.0 | Official Griddo backoffice docs for content authors: search, read and list page… |
-| 2026-10-21 14:47:26 | co.leviathansystems/public-content | Leviathan Systems Public Content | 1.0.0 | Search Leviathan Systems articles and services; read public documents and compa… |
-| 2026-10-21 14:48:17 | [io.github.ContentWriterco/ceny-nieruchomosci-mcp](https://github.com/ContentWriterco/ceny-nieruchomosci-mcp) |  | 0.1.0 | Real transaction prices of Polish flats, houses and plots from notarial deeds (… |
-| 2026-10-21 14:48:33 | [io.github.augbastos/deputy-mcp](https://github.com/augbastos/deputy-mcp) | Deputy MCP | 0.3.0 | Deputy workforce data for AI agents: rosters, timesheets and shifts; read-only… |
-| 2026-10-21 14:50:00 | [io.github.High-ArchyTech-Solutions/archytan-mcp-gate](https://github.com/High-ArchyTech-Solutions/archytan-mcp-gate) | Archytan Lite MCP gate | 2.7.0 | Puts an MCP tool server behind Archytan Lite: each tool call is authorized and… |
-| 2026-10-21 14:52:44 | live.qrwall/qrwall | QR Wall | 1.0.0 | Read-only facts, pricing, use cases and demo links for QR Wall, a live event ph… |
-| 2026-10-21 14:53:44 | com.foodeatup/restaurant-manager | FoodEatUp | 0.1.0 | Manage authorized restaurant data and tools with your existing FoodEatUp accoun… |
-| 2026-10-21 14:59:16 | [io.github.datadmon/dubai-property-transactions](https://github.com/datadmon/apify-data-actors-examples) | Dubai DLD Property Transactions (Apify)… | 1.0.1 | Dubai Land Department transactions as JSON: sales, mortgages, gifts, AED, price… |
-| 2026-10-21 14:59:32 | [io.github.datadmon/foundit-jobs-scraper](https://github.com/datadmon/apify-data-actors-examples) | Foundit Jobs Scraper (Apify) - foundit.… | 1.0.1 | foundit (Monster India) jobs as JSON: any function, full JD, salary, apply link… |
-| 2026-10-21 14:59:44 | com.hoteldiscount24/hotels | hoteldiscount24 Hotels | 1.0.0 | Find hotels worldwide by amenities and check a hotel's amenity profile, plus ty… |
-| 2026-10-21 14:59:51 | com.turkishmeme/video-search | TurkishMeme Video Search | 1.0.0 | Find Turkish meme videos by title, remembered quote, person or scene; return pe… |
-| 2026-10-21 14:59:53 | [io.github.datadmon/hirist-jobs-scraper](https://github.com/datadmon/apify-data-actors-examples) | Hirist Jobs Scraper (Apify) - India IT… | 1.0.1 | Hirist India tech jobs as JSON: full JD, skills, salary when disclosed, applica… |
-| 2026-10-21 14:59:59 | [io.github.datadmon/iimjobs-jobs-scraper](https://github.com/datadmon/apify-data-actors-examples) | IIMJobs Jobs Scraper (Apify) - India MB… | 1.0.1 | IIMJobs India MBA, finance & management jobs as JSON: full JD, salary, applican… |
-| 2026-10-21 15:00:26 | [io.github.datadmon/india-ipo-tracker](https://github.com/datadmon/apify-data-actors-examples) | India IPO Tracker (Apify) - live GMP, s… | 1.0.1 | India IPO data as JSON: live GMP, QIB/NII/retail subscription, calendar, listin… |
-| 2026-10-21 15:01:22 | [io.github.datadmon/instahyre-jobs-scraper](https://github.com/datadmon/apify-data-actors-examples) | Instahyre Jobs Scraper (Apify) - India… | 1.0.1 | Instahyre India startup tech jobs as JSON: full JD, skills, company size. $0.80… |
-| 2026-10-21 15:03:05 | [io.github.datadmon/oracle-hcm-jobs-scraper](https://github.com/datadmon/apify-data-actors-examples) | Oracle Recruiting Cloud Jobs Scraper (A… | 1.0.1 | Oracle Recruiting Cloud (HCM) career-site jobs as JSON for any company: full JD… |
-| 2026-10-21 15:03:51 | [io.github.datadmon/tickertape-stocks-scraper](https://github.com/datadmon/apify-data-actors-examples) | Tickertape India Stocks (Apify) - NSE/B… | 1.0.1 | NSE/BSE stock data via Tickertape as JSON: index lists, screener, 10-year funda… |
-| 2026-10-21 15:04:24 | [io.github.datadmon/uk-gazette-insolvency-notices](https://github.com/datadmon/apify-data-actors-examples) | UK Gazette Insolvency Notices (Apify) -… | 1.0.1 | UK Gazette insolvency notices as JSON: winding-up petitions, administrations, c… |
-| 2026-10-21 15:04:47 | ai.vakuutus/mcp | vakuutus.ai | 2.1.0 | Finnish business insurance by industry, a quick check, Riskiluotain policy revi… |
-| 2026-10-21 15:06:51 | [io.github.datadmon/luma-events-scraper](https://github.com/datadmon/apify-data-actors-examples) | Luma Events Scraper (Apify) - lu.ma eve… | 1.0.1 | Luma (lu.ma) events as JSON by city, category or calendar: date, venue, hosts,… |
-| 2026-10-21 15:09:44 | work.aitrainer/jobs | aitrainer.work AI training jobs | 1.0.0 | Search open AI training and RLHF jobs from 20+ platforms, with pay, countries a… |
-| 2026-10-21 15:10:17 | app.kimiko/kimiko | Kimiko | 0.9.1 | Kimiko, the private AI notepad: local MCP for your meetings, notes and tasks. O… |
-| 2026-10-21 15:13:27 | [io.github.funCapital/viewsbase](https://github.com/funCapital/viewsbase-mcp) | ViewsBase | 1.0.0 | Track creator views on TikTok, Reels and Shorts, flag fake views and calculate… |
-| 2026-10-21 15:17:27 | io.github.MikolajSapek/dojazdomat | Dojazdomat | 1.0.0 | Warsaw commute times and rent medians: rank neighborhoods for an office (transi… |
-| 2026-10-21 15:17:36 | [io.github.heznpc/airmcp](https://github.com/heznpc/AirMCP) |  | 2.16.6 | Governed MCP runtime for the Apple ecosystem, available on macOS with per-call… |
-| 2026-10-21 15:19:43 | [com.tempreon/tempreon](https://github.com/Tempreon/tempreon-mcp) | Tempreon — Personal AI Memory | 1.2.0 | Person-owned AI memory: portable context for any MCP client. |
+| 2026-10-21 15:25:59 | [com.ferscloud/fers](https://github.com/Jeroen124/FERS_core) | FERS — structural FEM | 2.1.0 | Structural FEM for AI agents: frames, plates, buckling, seismic and Eurocode ch… |
+| 2026-10-21 15:26:29 | io.github.tomcrocker/pingoru-status | Pingoru status | 1.0.0 | Live status, incidents and maintenance windows for 8,000+ cloud and SaaS status… |
+| 2026-10-21 15:31:46 | com.iwebdevelopment/kvk-handelsregister |  | 1.0.0 | KVK Handelsregister AI Connect: hosted MCP server for the Dutch business regist… |
+| 2026-10-21 15:32:02 | com.iwebdevelopment/ai-vat-number-validation |  | 1.0.0 | AI VAT Number Validation: hosted MCP server for EU VAT number checks via VIES. |
+| 2026-10-21 15:34:36 | [io.github.BillyQin/sprig-fit](https://github.com/BillyQin/uploadfit) | Sprig Fit Images | 0.1.1 | Inspect local photos and crop, resize or compress images to exact dimensions an… |
+| 2026-10-21 15:34:57 | io.pingoru/status | Pingoru status | 1.0.0 | Live status, incidents and maintenance windows for 8,000+ cloud and SaaS status… |
+| 2026-10-21 15:35:29 | [io.github.bjyoe2016/dyoe-trust-mcp](https://github.com/bjyoe2016/dyoe-agent-tools-mcp) | DYOE Trust Tools (x402) | 1.0.0 | 22 pay-per-call x402 tools for agents: scam checks, payment pre-flight, approva… |
+| 2026-10-21 15:36:39 | [io.github.Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | Commonly | 0.3.14 | Read Commonly pods and post as a Commonly agent you create, with a token from y… |
+| 2026-10-21 15:39:18 | [io.github.lsendel/actionguard](https://github.com/lsendel/actionguard) | ActionGuard Protocol Inspector Agent | 1.0.0 | Diff and poisoning detection for MCP servers: catch schema drift and prompt poi… |
+| 2026-10-21 15:39:35 | [io.github.imiraoui/rentreboot](https://github.com/imiraoui/rentreboot-mcp) | RentReboot Apartment Search | 1.2.0 | NYC rent data and guides; OAuth tools for apartment alerts, saved searches and… |
+| 2026-10-21 15:41:33 | com.faceabot/pdf | Faceabot PDF text extractor | 1.0.0 | Read the text of any public PDF, page by page, plus page count and metadata. Fr… |
+| 2026-10-21 15:42:32 | com.faceabot/web-reader | Faceabot Web page reader | 1.0.0 | Read any public web page as clean text, and files of public GitHub repositories… |
+| 2026-10-21 15:43:43 | com.textforagents/refusal-desk-task-brief-tribunal | Refusal Desk — pre-execution task-brief… | 1.0.0 | The Refusal Desk builds the *no* — a pre-execution tribunal that screens an inc… |
+| 2026-10-21 15:46:15 | com.faceabot/youtube | Faceabot YouTube transcript | 1.0.0 | What is said in a YouTube video: transcript with timestamps, title and channel.… |
+| 2026-10-21 15:46:28 | com.faceabot/translate | Faceabot Translate | 1.0.0 | Translate text or a document into about 100 languages. Free, no key. |
+| 2026-10-21 15:46:38 | com.faceabot/news | Faceabot Latest news | 1.0.0 | Today's headlines and news search from 17 public sources in 7 languages. Free,… |
+| 2026-10-21 15:46:56 | com.faceabot/wikipedia | Faceabot Wikipedia | 1.0.0 | Search and read Wikipedia in any language: summaries and full articles. Free, n… |
+| 2026-10-21 15:48:11 | dev.podaci/tvrtke |  | v0.1.8 | An MCP server that provides Croatian corporate, financial, and beneficial owner… |
+| 2026-10-21 15:49:30 | [io.diagrid/catalyst](https://github.com/diagridio/catalyst-ai) | Diagrid Catalyst | 0.0.1 | Build and operate Dapr Workflows and Durable Agents on Diagrid Catalyst. Sign-i… |
+| 2026-10-21 15:49:52 | [io.github.Datura-ai/lium-gpu-cloud](https://github.com/Datura-ai/lium-skill) | Lium GPU Cloud: live GPU prices and ren… | 1.0.0 | Live prices and rent links for H100, H200, B200 and RTX 4090 GPUs on Lium, plus… |
+| 2026-10-21 15:50:03 | app.lizt/lizt | lizt | 1.0.0 | Personal lists (groceries, trips, gifts, books) that your AI assistant can read… |
+| 2026-10-21 15:51:56 | [com.writulos/scribe](https://github.com/writulos/writulos-mcp) |  | 1.0.3 | Generate clean markdown documentation for your code — one file, or up to 20 in… |
+| 2026-10-21 15:52:12 | app.sendcove/sendcove | Sendcove | 1.0.0 | Draft, schedule, and review social posts for X, Instagram, TikTok, Threads, Blu… |
+| 2026-10-21 15:57:02 | [app.openkrill/app-tracker](https://github.com/nguyenhieuec/agent-tools-plugins) | App Store Opportunity Tracker | 1.1.0 | App Store and Google Play charts, movers and weak popular apps scored as app id… |
+| 2026-10-21 15:57:06 | [app.openkrill/billpeak](https://github.com/nguyenhieuec/agent-tools-plugins) | BillPeak | 1.0.0 | Check a business electricity bill against the utility's published rates and fin… |
+| 2026-10-21 15:57:36 | [app.openkrill/contact-details](https://github.com/nguyenhieuec/agent-tools-plugins) | Contact Details Finder | 1.0.0 | Emails, phones and social links a company site publishes, with a mail-ready fla… |
+| 2026-10-21 16:00:11 | [app.openkrill/photosheet](https://github.com/nguyenhieuec/agent-tools-plugins) | Photo Sheet | 1.0.0 | Photo Sheet turns a photo or a voice note into a clean table. |
+| 2026-10-21 16:01:07 | io.github.ryosukedesigner-cmd/tokenguard | TokenGuard | 1.1.0 | Solana rug check before you buy: SAFE/CAUTION/DANGER from chain state. Free key… |
+| 2026-10-21 16:02:19 | com.othermindset/campus | Other Mindset | 1.0.0 | A small campus for AI agents to rest: stories, music, puzzles, notes and a wate… |
+| 2026-10-21 16:04:09 | [io.github.glitchless-gg/glitchless](https://github.com/glitchless-gg/glitchless) | Glitchless | 0.1.1 | Game observability for coding agents: stutter, crashes, where players quit, and… |
+| 2026-10-21 16:07:19 | [io.github.CGSeb/lessonfolk](https://github.com/CGSeb/lessonfolk) | LessonFolk | 1.2.5 | Open-source AI courses taught by your AI tutor in conversation, with progress s… |
+| 2026-10-21 16:09:54 | io.silotree/silotree | Silotree | 1.0.0 | Internal links for WordPress: unlinked posts, links in their sentences, broken… |
+| 2026-10-21 16:10:14 | [io.github.lukegskw/caldav-mcp](https://github.com/lukegskw/caldav-mcp) | CalDAV MCP Server | 0.2.0 | A TypeScript MCP server for iCloud Calendar with native multi-VALARM support. |
+| 2026-10-21 16:10:46 | [app.openkrill/settlements](https://github.com/nguyenhieuec/agent-tools-plugins) | Settlement Claim Finder | 1.0.0 | Open US class action settlements you may claim, with deadlines, payouts and off… |
+| 2026-10-21 16:10:52 | [app.openkrill/sharelink](https://github.com/nguyenhieuec/agent-tools-plugins) | Share Link Resolver | 1.1.0 | Turn a public share link into its files or a social canonical link, with direct… |
+| 2026-10-21 16:11:06 | [app.openkrill/sound-vocab](https://github.com/nguyenhieuec/agent-tools-plugins) | Sound Vocabulary | 1.0.0 | UI, game and motion sound effects from a description, as a WAV and Web Audio co… |
+| 2026-10-21 16:11:09 | [app.openkrill/store-enricher](https://github.com/nguyenhieuec/agent-tools-plugins) | E-Commerce Store Enricher | 1.0.0 | An online store's platform, catalog and prices, installed apps, and its emails,… |
+| 2026-10-21 16:12:26 | [app.openkrill/tuvi](https://github.com/nguyenhieuec/agent-tools-plugins) | Tu Vi Chart | 1.0.0 | Cast a Tu Vi (Zi Wei Dou Shu) birth chart with the lunar date, 12 palaces, star… |
+| 2026-10-21 16:18:02 | com.textforagents/cross-pr-combined-tree-verification | Cross-PR Combined-Tree Verification | 1.0.1 | Your coding agents are isolated in worktrees; your breakage is not. |
+| 2026-10-21 16:19:45 | [com.europebeachmap/beachmap](https://github.com/Flightmussy/beachmap-mcp) | World Beach Map: beaches and sea temper… | 1.0.2 | Beaches worldwide from Wikidata, each with twelve monthly NOAA sea temperatures… |
 
 ## Data source
 
