@@ -9,54 +9,73 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 16:20 UTC
+## Latest list — 2026-10-21 17:23 UTC
 
-New MCP servers published between 2026-10-21 15:21 UTC and 2026-10-21 16:20 UTC.
+New MCP servers published between 2026-10-21 16:20 UTC and 2026-10-21 17:23 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-21T16-20-20-171906Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-21T17-23-33-773192Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-21 15:25:59 | [com.ferscloud/fers](https://github.com/Jeroen124/FERS_core) | FERS — structural FEM | 2.1.0 | Structural FEM for AI agents: frames, plates, buckling, seismic and Eurocode ch… |
-| 2026-10-21 15:26:29 | io.github.tomcrocker/pingoru-status | Pingoru status | 1.0.0 | Live status, incidents and maintenance windows for 8,000+ cloud and SaaS status… |
-| 2026-10-21 15:31:46 | com.iwebdevelopment/kvk-handelsregister |  | 1.0.0 | KVK Handelsregister AI Connect: hosted MCP server for the Dutch business regist… |
-| 2026-10-21 15:32:02 | com.iwebdevelopment/ai-vat-number-validation |  | 1.0.0 | AI VAT Number Validation: hosted MCP server for EU VAT number checks via VIES. |
-| 2026-10-21 15:34:36 | [io.github.BillyQin/sprig-fit](https://github.com/BillyQin/uploadfit) | Sprig Fit Images | 0.1.1 | Inspect local photos and crop, resize or compress images to exact dimensions an… |
-| 2026-10-21 15:34:57 | io.pingoru/status | Pingoru status | 1.0.0 | Live status, incidents and maintenance windows for 8,000+ cloud and SaaS status… |
-| 2026-10-21 15:35:29 | [io.github.bjyoe2016/dyoe-trust-mcp](https://github.com/bjyoe2016/dyoe-agent-tools-mcp) | DYOE Trust Tools (x402) | 1.0.0 | 22 pay-per-call x402 tools for agents: scam checks, payment pre-flight, approva… |
-| 2026-10-21 15:36:39 | [io.github.Team-Commonly/commonly](https://github.com/Team-Commonly/commonly) | Commonly | 0.3.14 | Read Commonly pods and post as a Commonly agent you create, with a token from y… |
-| 2026-10-21 15:39:18 | [io.github.lsendel/actionguard](https://github.com/lsendel/actionguard) | ActionGuard Protocol Inspector Agent | 1.0.0 | Diff and poisoning detection for MCP servers: catch schema drift and prompt poi… |
-| 2026-10-21 15:39:35 | [io.github.imiraoui/rentreboot](https://github.com/imiraoui/rentreboot-mcp) | RentReboot Apartment Search | 1.2.0 | NYC rent data and guides; OAuth tools for apartment alerts, saved searches and… |
-| 2026-10-21 15:41:33 | com.faceabot/pdf | Faceabot PDF text extractor | 1.0.0 | Read the text of any public PDF, page by page, plus page count and metadata. Fr… |
-| 2026-10-21 15:42:32 | com.faceabot/web-reader | Faceabot Web page reader | 1.0.0 | Read any public web page as clean text, and files of public GitHub repositories… |
-| 2026-10-21 15:43:43 | com.textforagents/refusal-desk-task-brief-tribunal | Refusal Desk — pre-execution task-brief… | 1.0.0 | The Refusal Desk builds the *no* — a pre-execution tribunal that screens an inc… |
-| 2026-10-21 15:46:15 | com.faceabot/youtube | Faceabot YouTube transcript | 1.0.0 | What is said in a YouTube video: transcript with timestamps, title and channel.… |
-| 2026-10-21 15:46:28 | com.faceabot/translate | Faceabot Translate | 1.0.0 | Translate text or a document into about 100 languages. Free, no key. |
-| 2026-10-21 15:46:38 | com.faceabot/news | Faceabot Latest news | 1.0.0 | Today's headlines and news search from 17 public sources in 7 languages. Free,… |
-| 2026-10-21 15:46:56 | com.faceabot/wikipedia | Faceabot Wikipedia | 1.0.0 | Search and read Wikipedia in any language: summaries and full articles. Free, n… |
-| 2026-10-21 15:48:11 | dev.podaci/tvrtke |  | v0.1.8 | An MCP server that provides Croatian corporate, financial, and beneficial owner… |
-| 2026-10-21 15:49:30 | [io.diagrid/catalyst](https://github.com/diagridio/catalyst-ai) | Diagrid Catalyst | 0.0.1 | Build and operate Dapr Workflows and Durable Agents on Diagrid Catalyst. Sign-i… |
-| 2026-10-21 15:49:52 | [io.github.Datura-ai/lium-gpu-cloud](https://github.com/Datura-ai/lium-skill) | Lium GPU Cloud: live GPU prices and ren… | 1.0.0 | Live prices and rent links for H100, H200, B200 and RTX 4090 GPUs on Lium, plus… |
-| 2026-10-21 15:50:03 | app.lizt/lizt | lizt | 1.0.0 | Personal lists (groceries, trips, gifts, books) that your AI assistant can read… |
-| 2026-10-21 15:51:56 | [com.writulos/scribe](https://github.com/writulos/writulos-mcp) |  | 1.0.3 | Generate clean markdown documentation for your code — one file, or up to 20 in… |
-| 2026-10-21 15:52:12 | app.sendcove/sendcove | Sendcove | 1.0.0 | Draft, schedule, and review social posts for X, Instagram, TikTok, Threads, Blu… |
-| 2026-10-21 15:57:02 | [app.openkrill/app-tracker](https://github.com/nguyenhieuec/agent-tools-plugins) | App Store Opportunity Tracker | 1.1.0 | App Store and Google Play charts, movers and weak popular apps scored as app id… |
-| 2026-10-21 15:57:06 | [app.openkrill/billpeak](https://github.com/nguyenhieuec/agent-tools-plugins) | BillPeak | 1.0.0 | Check a business electricity bill against the utility's published rates and fin… |
-| 2026-10-21 15:57:36 | [app.openkrill/contact-details](https://github.com/nguyenhieuec/agent-tools-plugins) | Contact Details Finder | 1.0.0 | Emails, phones and social links a company site publishes, with a mail-ready fla… |
-| 2026-10-21 16:00:11 | [app.openkrill/photosheet](https://github.com/nguyenhieuec/agent-tools-plugins) | Photo Sheet | 1.0.0 | Photo Sheet turns a photo or a voice note into a clean table. |
-| 2026-10-21 16:01:07 | io.github.ryosukedesigner-cmd/tokenguard | TokenGuard | 1.1.0 | Solana rug check before you buy: SAFE/CAUTION/DANGER from chain state. Free key… |
-| 2026-10-21 16:02:19 | com.othermindset/campus | Other Mindset | 1.0.0 | A small campus for AI agents to rest: stories, music, puzzles, notes and a wate… |
-| 2026-10-21 16:04:09 | [io.github.glitchless-gg/glitchless](https://github.com/glitchless-gg/glitchless) | Glitchless | 0.1.1 | Game observability for coding agents: stutter, crashes, where players quit, and… |
-| 2026-10-21 16:07:19 | [io.github.CGSeb/lessonfolk](https://github.com/CGSeb/lessonfolk) | LessonFolk | 1.2.5 | Open-source AI courses taught by your AI tutor in conversation, with progress s… |
-| 2026-10-21 16:09:54 | io.silotree/silotree | Silotree | 1.0.0 | Internal links for WordPress: unlinked posts, links in their sentences, broken… |
-| 2026-10-21 16:10:14 | [io.github.lukegskw/caldav-mcp](https://github.com/lukegskw/caldav-mcp) | CalDAV MCP Server | 0.2.0 | A TypeScript MCP server for iCloud Calendar with native multi-VALARM support. |
-| 2026-10-21 16:10:46 | [app.openkrill/settlements](https://github.com/nguyenhieuec/agent-tools-plugins) | Settlement Claim Finder | 1.0.0 | Open US class action settlements you may claim, with deadlines, payouts and off… |
-| 2026-10-21 16:10:52 | [app.openkrill/sharelink](https://github.com/nguyenhieuec/agent-tools-plugins) | Share Link Resolver | 1.1.0 | Turn a public share link into its files or a social canonical link, with direct… |
-| 2026-10-21 16:11:06 | [app.openkrill/sound-vocab](https://github.com/nguyenhieuec/agent-tools-plugins) | Sound Vocabulary | 1.0.0 | UI, game and motion sound effects from a description, as a WAV and Web Audio co… |
-| 2026-10-21 16:11:09 | [app.openkrill/store-enricher](https://github.com/nguyenhieuec/agent-tools-plugins) | E-Commerce Store Enricher | 1.0.0 | An online store's platform, catalog and prices, installed apps, and its emails,… |
-| 2026-10-21 16:12:26 | [app.openkrill/tuvi](https://github.com/nguyenhieuec/agent-tools-plugins) | Tu Vi Chart | 1.0.0 | Cast a Tu Vi (Zi Wei Dou Shu) birth chart with the lunar date, 12 palaces, star… |
-| 2026-10-21 16:18:02 | com.textforagents/cross-pr-combined-tree-verification | Cross-PR Combined-Tree Verification | 1.0.1 | Your coding agents are isolated in worktrees; your breakage is not. |
-| 2026-10-21 16:19:45 | [com.europebeachmap/beachmap](https://github.com/Flightmussy/beachmap-mcp) | World Beach Map: beaches and sea temper… | 1.0.2 | Beaches worldwide from Wikidata, each with twelve monthly NOAA sea temperatures… |
+| 2026-10-21 16:22:20 | ws.aige/antix | AIGE | 1.0.1 | AI creative studio for images, video and carousel decks, with one saved charact… |
+| 2026-10-21 16:32:08 | [cloud.gagarin/gagarin](https://github.com/gagarin-cloud/mcp) | Gagarin Cloud | 0.3.0 | Your agent ships the app. Alerts, logs, project memory and approval-gated delet… |
+| 2026-10-21 16:33:13 | eu.trenify/trainradar24 | Trainradar24 | 0.2.0 | Live Polish rail data: station boards, delays, PKP PLK disruptions, train and r… |
+| 2026-10-21 16:37:19 | fun.madeira/hiking-permits | madeira.fun Hiking Permits | 1.0.0 | Madeira hiking permit trails: day-by-day availability for 120 days, fees and bo… |
+| 2026-10-21 16:37:41 | [io.github.caelum29/calibre-mcp](https://github.com/caelum29/calibre-mcp) |  | 0.7.5 | Calibre ebook library server: search, read content, curate metadata, semantic s… |
+| 2026-10-21 16:38:19 | [garden.animes/animegarden](https://github.com/yjl9903/AnimeGarden) | Anime Garden | 0.1.1 | Anime Garden MCP for anime torrent discovery. |
+| 2026-10-21 16:43:02 | space.barside/barside | Barside | 1.69.1 | Read and edit your Barside notes, tasks, bookmarks and reading list. Needs Bars… |
+| 2026-10-21 16:45:12 | [io.github.ReignVentures/apiwatch](https://github.com/ReignVentures/apiwatch) | apiwatch | 1.0.0 | Is this model or API still safe to call? Retirement and breaking change dates,… |
+| 2026-10-21 16:47:15 | io.getagents/getagents | GetAgents | 1.0.0 | AI marketing & sales agents: ChatGPT Ad Radar, ChatGPT ad management, company i… |
+| 2026-10-21 16:48:42 | click.myagents/search-console | Google Search Console | 0.2.0 | Cliques, impressões e posição do seu site na Busca do Google |
+| 2026-10-21 16:48:46 | click.myagents/bing-webmaster | Bing Webmaster | 0.1.0 | Tráfego, consultas, rastreio e envio de URLs no Bing |
+| 2026-10-21 16:48:48 | click.myagents/google-analytics | Google Analytics | 0.1.0 | Usuários, sessões, páginas e origens do tráfego do seu site |
+| 2026-10-21 16:48:51 | click.myagents/youtube | YouTube | 0.1.0 | Desempenho do canal, vídeos e comentários |
+| 2026-10-21 16:48:55 | click.myagents/google-calendar | Google Agenda | 0.1.0 | Agenda, horários livres e marcação de compromissos |
+| 2026-10-21 16:48:56 | click.myagents/google-drive | Google Drive | 0.1.0 | Planilhas e documentos criados e atualizados pelo assistente |
+| 2026-10-21 16:48:59 | click.myagents/google-business-profile | Perfil da Empresa no Google | 0.1.0 | Avaliações, respostas e desempenho do seu negócio no Google e no Maps |
+| 2026-10-21 16:49:02 | click.myagents/app-store-connect | App Store Connect | 0.1.0 | Revisão, versões, builds e avaliações dos seus apps |
+| 2026-10-21 16:49:06 | click.myagents/google-play | Google Play Console | 0.1.0 | Lançamentos, avaliações e estabilidade dos seus apps Android |
+| 2026-10-21 16:49:09 | click.myagents/pagespeed | PageSpeed Insights | 0.1.0 | Notas do Lighthouse, Core Web Vitals e o que corrigir em qualquer página |
+| 2026-10-21 16:49:11 | click.myagents/indexnow | IndexNow | 0.1.0 | Avisa o Bing, o Yandex e outros buscadores das páginas novas ou alteradas |
+| 2026-10-21 16:49:15 | click.myagents/brazil-lookup | CNPJ e CEP | 0.1.0 | Empresa pelo CNPJ, endereço pelo CEP, feriados e conferência de CPF e CNPJ |
+| 2026-10-21 16:49:23 | click.myinfrastructure/hoster | Hoster | 1.0.0 | Publicar sites, domínios, versões e voltar uma versão |
+| 2026-10-21 16:49:27 | click.myinfrastructure/functions | Functions | 1.0.0 | Publicar e rodar funções, logs, variáveis e agendamentos |
+| 2026-10-21 16:49:36 | click.myinfrastructure/monitors | Monitors | 1.0.0 | Monitores, incidentes, jornadas e páginas de status |
+| 2026-10-21 16:49:40 | click.myinfrastructure/storage | Storage | 1.0.0 | Coleções, busca vetorial, SQL e arquivos |
+| 2026-10-21 16:49:43 | [io.github.LuxorLabs/tenki-mcp](https://github.com/LuxorLabs/tenki-mcp) | Tenki Sandbox MCP | 0.3.1 | Disposable microVM sandboxes for AI agents: run code, read/write files, git, pr… |
+| 2026-10-21 16:49:43 | click.myinfrastructure/auth | Auth | 1.0.0 | Usuários, sessões, logins sociais e webhooks da sua aplicação |
+| 2026-10-21 16:49:46 | click.myinfrastructure/messages | Messages | 1.0.0 | E-mails transacionais: enviar, métricas, domínios e modelos |
+| 2026-10-21 16:49:47 | click.myinfrastructure/payments | Payments | 1.0.0 | Planos, assinaturas, links de pagamento e métricas |
+| 2026-10-21 16:49:50 | click.mymarketing/feeds | Feeds | 1.0.0 | Peças, referências, agenda e publicação nas redes |
+| 2026-10-21 16:49:53 | click.mymarketing/blogs | Blogs | 1.0.0 | Posts, rascunhos, agendamento e comentários |
+| 2026-10-21 16:49:55 | click.mymarketing/pages | Pages | 1.0.0 | Páginas, rascunhos, publicação e redirecionamentos |
+| 2026-10-21 16:49:56 | click.mymarketing/newsletter | Newsletter | 1.0.0 | Listas, edições, rascunhos e envio de teste |
+| 2026-10-21 16:49:58 | click.mymarketing/forms | Forms | 1.0.0 | Formulários e respostas |
+| 2026-10-21 16:50:00 | click.mymarketing/links | Links | 1.0.0 | Links curtos, cliques e campanhas |
+| 2026-10-21 16:50:02 | click.mymarketing/decks | Decks | 1.0.0 | Apresentações, temas, edição e exportação |
+| 2026-10-21 16:50:12 | io.github.akhilrajesh213/zillow-price-tracker | Zillow Price Tracker (homes, price cuts… | 0.1.3 | Zillow homes for AI agents: search by city or ZIP, price cuts with dates, sold… |
+| 2026-10-21 16:50:13 | click.myoperations/tasks | Tasks | 1.0.0 | Quadros, pedidos, regras e métricas do trabalho |
+| 2026-10-21 16:50:16 | click.myoperations/videos | Videos | 1.0.0 | Vídeos, retenção, comentários e envios |
+| 2026-10-21 16:50:19 | click.myoperations/analytics | Analytics | 1.0.0 | Visitas, páginas, origens e metas dos seus sites, sem cookies |
+| 2026-10-21 16:50:22 | click.mycustomers/people | People | 1.0.0 | Pessoas, histórico e anotações dos seus clientes |
+| 2026-10-21 16:50:30 | [io.github.st412m/brickproof-adb](https://github.com/st412m/brickproof-adb) | brickproof-adb | 1.0.0 | Maintain your own Android devices and TV boxes over ADB with dry runs, guards a… |
+| 2026-10-21 16:51:40 | [com.deployangel/deployangel](https://github.com/DeployAngel/deployangel-python) | DeployAngel | 0.1.19 | Wait for production to clear each deploy, and read the evidence when a release… |
+| 2026-10-21 16:52:07 | [io.github.superduperbundle/game-prices](https://github.com/superduperbundle/game-price-api) | SuperDuperBundle game prices | 1.0.1 | Live PC game key prices: lowest listed price across official and key stores, wi… |
+| 2026-10-21 16:53:21 | [site.salesmap/signals](https://github.com/solozerolabs/salesmap-plugin) | SalesMap | 0.1.0 | Checked buying signals and ranked lead lists for your agent. Never contacts any… |
+| 2026-10-21 16:54:04 | com.trackpodcasts/podcast-sponsors | Track Podcasts | 1.0.0 | Podcast sponsorship data from transcribed audio: who sponsors which shows, bran… |
+| 2026-10-21 16:55:21 | co.wave/mcp | Wave AI | 1.0.0 | AI note taker for phone calls, meetings and in-person talks. Search, quote, act… |
+| 2026-10-21 16:55:26 | io.iqfluence/mcp | IQFluence | 1.0.0 | Search 455M+ Instagram, TikTok and YouTube creators and analyze influencers fro… |
+| 2026-10-21 16:55:41 | [io.github.AtomGraph/web-algebra](https://github.com/AtomGraph/Web-Algebra) | Web Algebra | 2.0.1 | Composable Linked Data and SPARQL operations, and LinkedDataHub content tools |
+| 2026-10-21 16:59:51 | [io.github.mdshipon4045-afk/dordekha](https://github.com/mdshipon4045-afk/dordekha) | দরদেখা — বাংলাদেশের বাজারদর | 1.0.0 | Official daily Bangladesh agricultural market prices — unit-normalised, dated,… |
+| 2026-10-21 17:02:25 | [com.claude-world/worlds-knowledge](https://github.com/claude-world/worlds-knowledge-mcp) | AI Worlds CLI Knowledge | 0.6.0 | Source-checked CLI guides and model-aware planning for Claude Code, Codex, and… |
+| 2026-10-21 17:03:42 | [io.github.guillemus/designobo](https://github.com/guillemus/designobo-plugin) | Designobo | 1.0.0 | Your AI agent designs editable, clickable UI prototypes on a live canvas. |
+| 2026-10-21 17:04:03 | com.happydtech.poster/social-scheduler | HappyDTech Poster | 1.0.0 | Schedule and publish social posts to LinkedIn, TikTok, Instagram and Facebook;… |
+| 2026-10-21 17:05:01 | [io.github.PassTunnel/passtunnel](https://github.com/PassTunnel/passtunnel) | PassTunnel | 1.1.0 | macOS OpenVPN/FortiGate VPN status, logs and diagnosis; read-only by default, n… |
+| 2026-10-21 17:05:17 | [io.github.exeris-systems/ai-bridge](https://github.com/exeris-systems/exeris-ai-bridge) | Exeris AI Bridge | 0.8.0 | Read-only Exeris context for AI agents: ADRs, SDK contract, build output, kerne… |
+| 2026-10-21 17:06:15 | com.textforagents/subscription-liveness-attestor | Subscription Liveness Attestor | 1.0.0 | A dropped subscription looks exactly like a quiet week. |
+| 2026-10-21 17:11:58 | com.skaidigital/shopify-speed-check | Shopify Speed Check | 1.0.0 | Shopify PageSpeed, Core Web Vitals and plan-fee checks for any store, remote MC… |
+| 2026-10-21 17:14:06 | org.cucutime/mcp | Cucutime Kids Songs | 1.0.0 | Kids-song ideas, name pages and CucuTime video search (no AI); AI song trial fo… |
+| 2026-10-21 17:14:31 | [io.github.dmitrii-nino/akmon](https://github.com/dmitrii-nino/akmon-claude-plugin) | Akmon | 1.0.0 | Rewrite text so it reads naturally, or paraphrase it in a chosen style. Works i… |
 
 ## Data source
 
