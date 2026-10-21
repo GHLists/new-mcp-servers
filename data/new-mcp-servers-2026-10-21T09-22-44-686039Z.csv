@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-10-21T08:24:04.79949Z,io.github.yang7206/paletteget,PaletteGet,1.0.0,https://github.com/yang7206/paletteget-mcp,streamable-http,"Curated app, web and mini program color palettes with WCAG contrast and CSS variables."
+2026-10-21T08:30:31.51646Z,net.somantic/immobiliensuche,Somantic – German Real Estate Search,1.1.0,,streamable-http,Search German property listings and estimate what any German address is worth.
+2026-10-21T08:31:59.524644Z,io.github.Ishan73744/aurelmark,Aurelmark,0.4.4,https://github.com/Ishan73744/Money-2,streamable-http,"EU compliance facts with sources: TED tender deadline changes, CBAM values, EU deadlines, EUDR scope"
+2026-10-21T08:33:15.926351Z,io.github.CryptoAPIs-io/mcp,,0.5.0,https://github.com/CryptoAPIs-io/cryptoapis-mcp-hub,streamable-http,Combined Crypto APIs MCP server — all 14 products in one process
+2026-10-21T08:33:33.194089Z,new.kite/kite,Kite,1.0.0,,streamable-http,"Design tool for agents: draw, edit and check designs in files your team edits and comments on."
+2026-10-21T08:34:06.768054Z,io.github.groove79/mcp-kakao,KakaoTalk Message,0.1.0,https://github.com/groove79/kmcp,,"KakaoTalk message MCP: send to self/friends, friends list, OAuth auto-refresh. 카카오톡 메시지 MCP."
+2026-10-21T08:35:47.537711Z,app.vibeyum/vibe-yum,Vibe Yum,1.0.0,,streamable-http,"Search, save, and scale family recipes, and manage shopping lists and meal plans."
+2026-10-21T08:40:03.195982Z,com.selltostate/mcp,Sell to State,0.4.0,https://github.com/getbeton/selltostate-mcp,streamable-http,"Government tenders, contract awards, buyers and suppliers from official sources in 60+ countries."
+2026-10-21T08:40:26.365169Z,com.webatola/app-store-trends,App Store & Google Trends,0.1.0,,streamable-http; streamable-http,"App Store top charts, keyword search and rank, app details, and Google Trends trending searches."
+2026-10-21T08:45:27.179434Z,io.github.Arudchayan/adam-mcp,ADAM MCP,0.2.0,https://github.com/Arudchayan/adam-mcp,,Read-only access to University of Basel ADAM courses through a local Chrome session.
+2026-10-21T08:46:00.910621Z,io.github.groove79/mcp-popbill,Popbill (세금계산서·알림톡),0.1.0,https://github.com/groove79/kmcp,,"Popbill MCP: Korean e-tax invoices (issue/cancel/search, Hometax sync) + KakaoTalk 알림톡. 팝빌 MCP."
+2026-10-21T08:46:36.48937Z,io.usefulapi/hello-club,Hello Club MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Hello Club members, events, bookings and transactions; add members and charges."
+2026-10-21T08:46:57.686053Z,ai.clawfetch/mcp,,0.4.0,https://github.com/clawfetch/clawfetch-mcp,,"Web intelligence for AI agents: fetch, render, extract, research. x402 micropayments, no API keys."
+2026-10-21T08:55:30.90091Z,io.github.cyanheads/interpro-mcp-server,,0.1.1,https://github.com/cyanheads/interpro-mcp-server,,"Search InterPro entries, map protein domains and functional sites, and find proteins by domain."
+2026-10-21T08:58:44.582348Z,io.github.groove79/mcp-kr-biz-calendar,Korea Business Calendar,0.1.0,https://github.com/groove79/kmcp,,"Korean tax/payroll deadlines, public holidays, business-day math. No keys. 세무 일정·영업일 MCP."
+2026-10-21T08:58:51.383315Z,io.github.BurettoSofuto/addresslore,AddressLore,1.0.0,,streamable-http,"Vancouver house histories by address: who lived there each year to 1945, permits and the 1912 map."
+2026-10-21T08:59:00.019681Z,io.github.pvnc228/local-coding-agent,Local Coding Agent,1.1.1,https://github.com/pvnc228/local-coding-agent,,Delegate small coding tasks to local Ollama/llama.cpp models; patches gated by real test runs.
+2026-10-21T09:03:21.53064Z,com.eraphuket/booking,ERA Phuket Booking,1.0.0,,streamable-http,"Services, prices, free slots and booking at ERA Barbershop & Beauty Space, Phuket"
+2026-10-21T09:04:39.13931Z,io.github.mp-consulting/apple-calendar-mcp,Apple Calendar,0.1.0,https://github.com/mp-consulting/apple-calendar-mcp,,"Read, search and plan Apple Calendar on macOS via EventKit: free time, undo, you approve deletes"
+2026-10-21T09:07:01.328598Z,com.tronorb/mcp,TronOrb — TRON analytics,1.0.0,,streamable-http,"Live TRON data: USDT TRC-20 fees, address checks, Tether freezes, dApp and exchange rankings."
+2026-10-21T09:10:36.912123Z,io.github.plrojek/sanalert-mcp,SanAlert,1.0.1,https://github.com/plrojek/sanalert-mcp,,"Unofficial threat level from the air for a place in Poland, worked out on your own computer."
+2026-10-21T09:14:52.884732Z,ai.vishot/vishot,Vishot,1.0.0,,streamable-http,Stage dialogue scenes in a 3D set and turn them into AI video shots from your Vishot account.
+2026-10-21T09:15:10.62285Z,com.textforagents/registry-rot-watch,Registry Rot Watch,1.0.0,,streamable-http,Registry Rot Watch: liveness + successor-contract verdicts for MCP endpoints.
+2026-10-21T09:18:25.898352Z,ai.typebar/typebar,Typebar (formerly SuperDocs),1.4.0,https://github.com/superdocsapp/superdocs-plugin,streamable-http,"AI document editing: edits the exact section, leaves the rest. 38 MCP tools; agent self-signup."
