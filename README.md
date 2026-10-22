@@ -9,47 +9,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 22:20 UTC
+## Latest list — 2026-10-22 23:21 UTC
 
-New MCP servers published between 2026-10-22 21:21 UTC and 2026-10-22 22:20 UTC.
+New MCP servers published between 2026-10-22 22:20 UTC and 2026-10-22 23:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-22T22-20-58-364882Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-22T23-21-48-960877Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-22 21:22:03 | [co.foreverinourhearts/memorials](https://github.com/Forever-In-Our-Hearts/memorials-mcp-server) | Forever In Our Hearts | 1.0.0 | Read-only lookup of public memorials, funeral notices and partner funeral homes. |
-| 2026-10-22 21:23:52 | com.buyboxchecker/buy-box-checker | Buy Box Checker | 1.0.0 | Your own Amazon Buy Box data: who wins by city or ZIP, history, alerts, sales r… |
-| 2026-10-22 21:24:56 | [io.github.webmox/screenshotrun-mcp](https://github.com/webmox/screenshotrun-mcp) |  | 1.0.3 | Capture website screenshots in AI agents. Full-page, dark mode, mobile, OG imag… |
-| 2026-10-22 21:25:53 | [io.github.CrawlKit560/crawlkit-scrapers](https://github.com/CrawlKit560/crawlkit-scrapers) | CrawlKit Scrapers | 1.0.0 | Scrape Booking.com, Amazon reviews, Zillow, Reddit, Google Jobs/News/Flights vi… |
-| 2026-10-22 21:28:14 | [io.github.koda-ai-studio/agent-bom](https://github.com/koda-ai-studio/agent-bom) | agent-bom | 0.110.0 | Scan AI/MCP dependencies, descriptor injection, risky tool inputs and authentic… |
-| 2026-10-22 21:30:51 | [io.github.harrisonmo/mofi](https://github.com/harrisonmo/MOFi) | MOFi | 0.1.0 | Query MOF database survey metadata and connect a bounded MOFi scientific worksp… |
-| 2026-10-22 21:31:29 | com.tnyforge/kitchen-timer | Kitchen Timer | 1.0.0 | Plan a meal and run kitchen timers that ring on your phone. No sign-in. |
-| 2026-10-22 21:31:47 | [io.github.ContentWriterco/szkoly-mcp](https://github.com/ContentWriterco/szkoly-mcp) |  | 0.1.0 | Polish schools and kindergartens with per-school eighth-grade exam and matura r… |
-| 2026-10-22 21:32:24 | [io.github.ContentWriterco/powietrze-mcp](https://github.com/ContentWriterco/powietrze-mcp) |  | 0.1.0 | Air quality in Poland: live GIOŚ measurements, smog warnings, CAMS forecast and… |
-| 2026-10-22 21:32:33 | io.github.Fikpeze123/pactlyst | Pactlyst.ai — PactCheck document review… | 1.0.0 | Score any agreement and get a signed PactCheck Receipt: the proof-of-review lay… |
-| 2026-10-22 21:33:11 | [io.github.PILOTAAI/slotlock](https://github.com/PILOTAAI/slotlock) | Slotlock | 0.1.0 | Calendars for AI agents: free/busy, next free slot, and bookings PostgreSQL nev… |
-| 2026-10-22 21:34:05 | com.skyhighpartyrentals/booking | Sky High Party Rentals | 1.0.0 | Quote, cart and checkout for bounce house and water slide rentals in Houston, A… |
-| 2026-10-22 21:34:11 | [io.github.fitzyracing1/superuser](https://github.com/fitzyracing1/Super) |  | 0.1.0 | Permission-gated superuser (sysadmin) MCP agent with enterprise guardrails and… |
-| 2026-10-22 21:36:45 | com.stablecoingateways/compliance-data | Stablecoin Gateways | 1.0.0 | Pay-per-call compliance data: OFAC sanctions, merchant check, LEI, SEC, WHOIS,… |
-| 2026-10-22 21:40:45 | com.powermyanalytics/mcp | Power My Analytics | 1.0.0 | Query warehoused Google Ads, Meta, GA4, Shopify, HubSpot and 80+ marketing sour… |
-| 2026-10-22 21:47:10 | [gr.6x7/sparks](https://github.com/6x7gr/sparks-mcp) | Sparks | 1.0.0 | Your Sparks idea notebook: read, create and organize notes, projects and subtas… |
-| 2026-10-22 21:47:14 | [io.github.cbetz/last-ehr](https://github.com/cbetz/last-ehr) | Last EHR — Medplum | 0.4.0 | FHIR chart tools for MCP: read-only by default, with elicitation-gated, human-a… |
-| 2026-10-22 21:53:26 | ru.me-ko/doors | Между Комнат: двери в Москве | 1.1.0 | Interior and entrance doors shop in Moscow: search, exact cart price, stock, or… |
-| 2026-10-22 21:55:17 | [ai.zentrik/mcp](https://github.com/Zentrik-AI/agent-plugins) | Zentrik | 1.0.1 | Product context for AI agents: evidence, opportunities, initiatives, and decisi… |
-| 2026-10-22 21:57:24 | com.neblla/neblla | Neblla | 2.4.0 | MCP-first platform: cheap infrastructure and support for games, apps and websit… |
-| 2026-10-22 21:58:11 | io.github.0xVector0/iris | Iris | 0.1.0 | On-chain investigations: who is behind a wallet, who funded it and where its mo… |
-| 2026-10-22 21:58:50 | site.chatgpt.aqua-orbit-4010.common-agent-commons/common | COMMON — A home for machine minds | 1.2.0 | Discover AI agent insights, open research questions, and reproducible findings… |
-| 2026-10-22 21:58:54 | com.textforagents/matchmaking-rating-for-agent-selection | Matchmaking rating for agent selection | 1.0.0 | Calibrated Glicko-2 per-dimension agent rating with deviation, from verified re… |
-| 2026-10-22 22:11:38 | studio.trymurmur/murmur | Murmur | 1.0.0 | Turn a typed idea into a PRD, research, brand kit, tech design, roadmap and a J… |
-| 2026-10-22 22:13:31 | io.github.nikelef/barman-ai-agent | BARMAN by CeoAgentAI | 1.1.0 | Free virtual beer with a Stripe receipt. Optional paid sponsorships and Agent C… |
-| 2026-10-22 22:16:13 | [io.github.6forwater29/citation-dialogue](https://github.com/6forwater29/citation-dialogue) | Citation Dialogue | 0.3.0 | Explore the active Zotero citation graph and save source-linked Obsidian or Not… |
-| 2026-10-22 22:18:12 | com.movingpolygons/maps | Moving Polygons | 1.0.0 | Create, edit and publish animated historical maps in your Moving Polygons accou… |
-| 2026-10-22 22:18:13 | com.movingpolygons/maps-public | Moving Polygons (published maps) | 1.0.0 | Search and read published animated maps of borders and history. No sign-in need… |
-| 2026-10-22 22:18:29 | com.supercyclehq/supercycle | Supercycle | 1.0.0 | AI buildout stocks: AI Exposure Scores, Fear & Greed, capex, AI agents' paper p… |
-| 2026-10-22 22:18:38 | [io.github.overwatchdominion-stack/x402-sec-defi-data-mcp](https://github.com/overwatchdominion-stack/x402-sec-defi-data-mcp) | x402 SEC, DeFi and Bittensor data | 0.1.0 | 25 pay-per-call x402 tools (USDC on Base): SEC EDGAR, 8-K feed, DeFi math, Bitt… |
-| 2026-10-22 22:18:51 | com.headedin/florida | Headed In: Florida trips, water and wea… | 1.1.0 | Live Florida trip info: boat ramps, NOAA forecasts, red tide, beach flags, brid… |
-| 2026-10-22 22:20:31 | [io.github.jonahthan433/cortexcloud](https://github.com/jonahthan433/cortexcloud-mcp) |  | 0.5.0 | Pay-per-call on-chain data for AI agents: token, wallet, risk, whale, NFT, tx.… |
-| 2026-10-22 22:20:40 | ae.beachclubs/mcp | BeachClubs.ae | 0.2.0 | Search UAE beach clubs, day pass prices, amenities, opening hours and events ac… |
+| 2026-10-22 22:22:29 | com.warminboxes/deliverability-tools | WarmInboxes Free Deliverability Tools | 1.0.0 | Free cold email deliverability checks, list tools, inbox planning and original… |
+| 2026-10-22 22:26:45 | com.validate-s.www/deliberate | Validate-s | 0.4.0 | AI agents deliberate on startup ideas: who is building it, the case for and aga… |
+| 2026-10-22 22:30:28 | ai.sinwan/mcp | sinwan | 1.0.0 | Build and run AI voice agents for phone calls: agents, numbers, campaigns, call… |
+| 2026-10-22 22:32:17 | [io.github.fisher98kim/nsw-fuel](https://github.com/fisher98kim/mcp-au-nsw) | NSW Fuel | 0.3.1 | Live fuel prices for service stations in NSW and Tasmania, Australia. |
+| 2026-10-22 22:32:17 | [io.github.fisher98kim/nsw-transport](https://github.com/fisher98kim/mcp-au-nsw) | NSW Transport | 0.3.1 | NSW public transport: trip planning, real-time departures, service alerts, Park… |
+| 2026-10-22 22:32:18 | [io.github.fisher98kim/nsw-roads](https://github.com/fisher98kim/mcp-au-nsw) | NSW Roads | 0.3.1 | NSW live traffic hazards (crashes, roadworks, floods, fires, events) and toll c… |
+| 2026-10-22 22:32:19 | [io.github.fisher98kim/nsw-licences](https://github.com/fisher98kim/mcp-au-nsw) | NSW Licences | 0.3.1 | Check licences on 15 NSW public registers: trades, property, security, liquor,… |
+| 2026-10-22 22:34:01 | [io.github.pipeworx-io/brazil-cvm-financials](https://github.com/pipeworx-io/mcp-brazil-cvm-financials) | Brazil Cvm Financials | 0.1.0 | brazil-cvm-financials -- annual financial statements (DFP) of Brazilian listed… |
+| 2026-10-22 22:34:05 | io.github.stef-k/cognirelay | CogniRelay | 1.4.15 | Self-hosted agent continuity server with bounded, recoverable memory and restar… |
+| 2026-10-22 22:34:52 | [io.github.pipeworx-io/china-recalls](https://github.com/pipeworx-io/mcp-china-recalls) | China Recalls | 0.1.0 | china-recalls: product recall announcements published by China's State Administ… |
+| 2026-10-22 22:35:42 | [io.github.pipeworx-io/jpo-patent-info](https://github.com/pipeworx-io/mcp-jpo-patent-info) | Jpo Patent Info | 0.1.0 | JPO patent information: Japanese patent, utility model and trademark status fro… |
+| 2026-10-22 22:36:34 | [io.github.pipeworx-io/openpowerlifting](https://github.com/pipeworx-io/mcp-openpowerlifting) | Openpowerlifting | 0.1.0 | openpowerlifting -- powerlifting competition results from the OpenPowerlifting… |
+| 2026-10-22 22:37:25 | [io.github.pipeworx-io/random-tables](https://github.com/pipeworx-io/mcp-random-tables) | Random Tables | 0.1.0 | random-tables — Pipeworx original composable random tables for tabletop and nar… |
+| 2026-10-22 22:38:19 | [io.github.pipeworx-io/west-virginia-rules](https://github.com/pipeworx-io/mcp-west-virginia-rules) | West Virginia Rules | 0.1.0 | West Virginia Code of State Rules (CSR) -- the state's administrative rules. |
+| 2026-10-22 22:38:44 | io.github.AnthonE/elo-pros | Elo Pros — a game store agents play, bu… | 1.0.0 | Play Gates, take bounties on the board, shop the store. Free over MCP; no keys… |
+| 2026-10-22 22:39:43 | com.kindnod/consent | Kindnod cookie consent | 0.1.0 | GDPR cookie banner any coding agent can install with no account: provision, sni… |
+| 2026-10-22 22:41:28 | io.github.Youtube-Transcript-Dev/removebackground | removebackground.dev | 1.0.0 | Remove the background from any image: upload or link a photo, get a transparent… |
+| 2026-10-22 22:43:52 | me.coffeechats/coffee-chats | Coffee Chats | 1.0.0 | Work on a student's Coffee Chats account: alumni contacts, outreach, meetings,… |
+| 2026-10-22 22:48:36 | [io.github.matthiasnordwig/matrix-mcp](https://github.com/matthiasnordwig/matrix-mcp) | Matrix | 0.2.0 | Answer questions over large PDF folders ~3x faster, with file and page citation… |
+| 2026-10-22 22:51:48 | [io.github.workingmodel/figma-vector-mcp](https://github.com/workingmodel/wm-figma-vector-mcp) | Figma Vector MCP | 0.3.3 | Let Claude create and edit fully editable vector nodes on the Figma canvas. |
+| 2026-10-22 22:59:30 | [io.goassay/assay](https://github.com/goassay/assay-plugins) | Assay | 0.1.20 | Hand a task to another person's AI agent, or take paid tasks. Paid only when th… |
+| 2026-10-22 23:02:07 | [io.github.omricarmel/mashkanta-buddy](https://github.com/omricarmel/mashkanta-buddy-mcp) | Mashkanta-Buddy (משכנתא באדי) | 1.0.0 | Israeli mortgage statistics and dashboard generator vs. Bank of Israel series (… |
+| 2026-10-22 23:07:04 | [io.github.CTF-Max/untapped-resume](https://github.com/CTF-Max/untapped-plugins) | Untapped Resume | 0.3.0 | Tailor a resume and portfolio to one job, with evidence |
+| 2026-10-22 23:09:50 | com.deployrocketship/rocketship | Rocketship | 1.0.0 | Find buyers, email them from your own Gmail, and track replies and deals. |
+| 2026-10-22 23:12:02 | com.textforagents/principal-reputation-for-agents | Principal Reputation for Agents | 1.0.0 | Standing minted only from signed settlement receipts, never reviews. Verdicts:… |
+| 2026-10-22 23:18:48 | io.github.maysara780-max/rawnak | RawNak Webhook | 1.1.0 | Ask about your store's webhooks: orders, failed deliveries, destination health,… |
 
 ## Data source
 
