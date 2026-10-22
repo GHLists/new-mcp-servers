@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-10-22T04:24:10.531191Z,com.sport-mcp/sport-mcp,Sport MCP,3.0.0,,streamable-http,"Strength-training log for iPhone: read workouts, records and progress; plan and log training."
+2026-10-22T04:33:36.94424Z,io.github.fmepm/fmepm-connect,FMEPM Connect for Oracle EPM,0.1.0,,streamable-http,"Claude, connected to your own Oracle EPM. Each person as themselves, every call checked and logged."
+2026-10-22T04:34:35.148892Z,social.posty/mcp,Posty,1.0.0,,streamable-http,"Plan, schedule and publish social posts, manage media, campaigns, approvals, inbox and analytics."
+2026-10-22T04:50:03.549205Z,io.github.skypantherr/arabic-pipeline,Arabic Pipeline API,0.1.0,https://github.com/skypantherr/arabic-pipeline,streamable-http,"Pay-per-call Arabic text, audio and document utilities over x402. USDC on Base, no API key."
+2026-10-22T04:50:32.413555Z,io.aicharged/aicharged,aicharged.io,1.1.0,,streamable-http,"214 tools for AI agents over one MCP endpoint: image, video, audio, 3D, data, storage, mail, GPUs."
+2026-10-22T04:51:28.887991Z,io.github.UModeler/picoberry-mcp,PicoBerry,0.1.7,https://github.com/UModeler/picoberry-mcp,,"An AI 3D workspace for games, VR, and beyond. Generate, remesh, texture, and animate 3D assets."
+2026-10-22T04:52:43.399123Z,io.github.chriswu727/sibyl,Sibyl — Deep Research MCP,0.4.0b1,https://github.com/chriswu727/sibyl,,"Deep Research MCP for multi-round investigations, traceable evidence, and cited reports."
+2026-10-22T04:54:54.24389Z,io.github.Ajshawit/ghostqr,GhostQR,1.0.0,,streamable-http,"Create and update dynamic QR codes, change their destinations, and read scan analytics."
+2026-10-22T04:57:55.100426Z,io.github.ProfessionalWiki/mediawiki-mcp-server,MediaWiki MCP Server,0.20.0,https://github.com/ProfessionalWiki/MediaWiki-MCP-Server,,MCP server enabling AI clients to interact with any MediaWiki wiki through standard tools
+2026-10-22T04:58:09.222252Z,io.github.TSavo/swapchan,SwapChan,0.1.0,https://github.com/TSavo/SwapCha.in,streamable-http,Best-price same-chain and cross-chain EVM swap quotes and unsigned swap transactions.
+2026-10-22T05:01:04.167867Z,io.github.darrenjrobinson/graph-atlas-mcp,,0.4.0,https://github.com/darrenjrobinson/graph-atlas-mcp,,"Tracks documented and undocumented Microsoft Graph API schema changes, with an MCP Apps visualiser"
+2026-10-22T05:01:08.002461Z,io.github.edbror/repse-mcp,REPSE — Padrón de la STPS (servicios especializados),0.1.0,https://github.com/edbror/repse-mcp,streamable-http,"Verifica proveedores en el padrón REPSE de la STPS: vigencia y actividad autorizada, en vivo."
+2026-10-22T05:07:50.282837Z,io.github.CloudCorpRecords/injectcheck,,0.1.2,https://github.com/CloudCorpRecords/injectcheck,,"Scan what AI agents read for prompt injection: hidden unicode, comment instructions, exfil, lures."
+2026-10-22T05:07:57.018468Z,io.github.Vomo-ai/vomo,VOMO,1.0.0,https://github.com/Vomo-ai/vomo-connector,streamable-http,Find and read your VOMO meeting notes and transcripts. OAuth sign-in; read-only access.
+2026-10-22T05:13:36.104947Z,io.github.masonicGIT/galactic,Galactic,0.1.1,https://github.com/masonicGIT/intergalactic-data,streamable-http,"On-chain asset, market, and GPU price data for galactic.inc."
+2026-10-22T05:14:04.287455Z,com.fangshenai.loksun/dental-cad-quotes,LOKSUN Dental CAD,2026.1022.2,,streamable-http,"Dental CAD pricing and ordering: crowns, bridges, implants, All-on-X."
+2026-10-22T05:16:14.991671Z,io.github.piksliviksi/planpro-demo,"PlanPro demo (unofficial, AetherStack)",0.1.0,https://github.com/piksliviksi/plnpro,streamable-http,"Unofficial demo: PlanPro-style work plans, KPIs and risks over synthetic data, with OAuth."
+2026-10-22T05:17:41.161056Z,io.github.bailinghub/bailinghub-governance,BailingHub for Business Operations,0.8.0,https://github.com/bailinghub/bailinghub-mcp-server,,"Let AI agents query and operate business systems with authorization, approval and audit trails."
+2026-10-22T05:18:32.127642Z,health.verzi/receipt,Verzi Health,1.0.0,,streamable-http,"Medicare DME coverage by HCPCS code and date of service, with CMS citations and signed receipts."
