@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-10-22T09:23:11.799162Z,shop.sampo/catalog,Супермаркет САМПО,1.0.0,,streamable-http,Каталог и заказ супермаркета САМПО. Оплата на странице банка.
+2026-10-22T09:23:33.642537Z,io.smartvisuals/catalog,SmartVisuals Catalog,1.0.0,,streamable-http,"Find SmartVisuals Power BI custom visuals and get GUIDs, data roles and PBIR binding snippets."
+2026-10-22T09:25:11.010066Z,io.emelia/mcp,Emelia,0.1.0,,streamable-http,"Run Emelia cold email and LinkedIn campaigns, lists, enrichment and your Emelia inbox from AI."
+2026-10-22T09:27:21.460789Z,io.github.markankamaransheogarat-sys/crypto-pulse-mcp,,0.1.0,https://github.com/markankamaransheogarat-sys/crypto-pulse-mcp,,"Read-only crypto market data: prices, funding, open interest, DeFi TVL, stablecoins. No API keys."
+2026-10-22T09:28:16.490219Z,io.github.sumitrmardy/pdf-text-extractor,PDF Text Extractor,1.0.0,,streamable-http,"Text from PDF links, OCR for scanned pages. One flat row per URL, never null. Billed on success."
+2026-10-22T09:33:44.429585Z,com.textforagents/futility-breaker-evidence-bound-stopping,Futility Breaker,1.0.0,,streamable-http,"Evidence-bound stopping for agents: judgment ledger, binding futility verdicts, signed receipts."
+2026-10-22T09:35:11.818622Z,io.github.perforce/p4plan-mcp,,2026.3.2,https://github.com/perforce/p4plan-mcp.git,,"MCP server for P4 Plan — tasks, sprints, bugs, comments, custom fields via GraphQL API."
+2026-10-22T09:35:26.908804Z,nl.prijsprofeet/prijsprofeet-be,PrijsProfeet België / Belgique,1.1.1,,streamable-http,"Belgian supermarket deals and regular prices (Colruyt, Delhaize, Aldi...): where it's cheapest."
+2026-10-22T09:36:33.714854Z,dev.workers.moneymaker-ai.ai-policy-kit/x402-tools,Money Maker x402 tools: EVM reads + AI tasks,1.1.0,,streamable-http,"x402 pay-per-call: EVM balances, tx decode, transfers; AI extract, classify, embed, speech, image"
+2026-10-22T09:37:24.608243Z,com.kissfroggy/kissfroggy,Kissfroggy,1.0.0,,streamable-http,Dating where you can only list your flaws. Your agent declares them and ticks what you don't mind.
+2026-10-22T09:39:26.155749Z,app.maylee/maylee,Maylee,1.0.0,,streamable-http,"Maylee AI email: read, search, triage, draft and send; manage labels, views and AI label rules."
+2026-10-22T09:40:12.735927Z,to.funel/funel,FUNEL,1.0.0,,streamable-http,"Search B2B people, companies and local businesses and build lead lists from your AI assistant."
+2026-10-22T09:41:26.080062Z,com.mystictiming/bazi,Mystic Timing BaZi,1.0.0,,streamable-http,"Chinese BaZi (Four Pillars) birth charts, yearly outlook and compatibility. No auth, read-only."
+2026-10-22T09:43:35.452367Z,io.github.Apollo-lwx/rsi-boot,RSI Boot,0.1.1,https://github.com/Apollo-lwx/rsi-boot,,Repo-bound memory and self-improving harness for AI coding agents — zero API keys.
+2026-10-22T09:43:38.76865Z,app.ncha/encha,엔차 · 오래 버틴 맛집,1.0.0,https://github.com/vincenzo0219/encha,streamable-http,"Korean long-running restaurants (Seoul, Gyeonggi) from public license records, not reviews."
+2026-10-22T09:46:13.354196Z,com.textforagents/directory-submission-retention-proof,Directory Submission Retention Proof,1.0.0,,streamable-http,Pre-submission escrow receipts and coverage-aware retention diffs.
+2026-10-22T09:47:27.9759Z,io.github.motock/fagan,,0.8.0,https://github.com/motock/fagan,,"Autonomous coding pipeline: frontier models plan and review, open-weight models write the code."
+2026-10-22T09:51:02.160619Z,app.creatora.lexatlas/lexatlas-mcp,LexAtlas,1.0.0,https://github.com/creatoraapp-cpu/lexatlas-mcp,streamable-http,"Current law as data for AI: search, read and verify statutes and citations. CIS countries first."
+2026-10-22T09:54:56.870731Z,io.github.jarbon/carbon,CARBON,1.32.22-free.17,https://github.com/jarbon/carbon-free,,"AI testing harness with Jay: risk-based checks, bug investigation, and local evidence reports."
+2026-10-22T09:55:31.167747Z,io.github.nubiia-dev/mcp-freematica,,0.11.2,https://github.com/nubiia-dev/mcp-freematica,,"Freemática ERP: invoicing, receivables, suppliers, accounting and HR through 300+ MCP tools"
+2026-10-22T09:55:56.677616Z,com.lowlanddata/eu-real-estate,LowlandData EU Real Estate,1.3.0,,streamable-http,"GDPR-clean property listings, rents, price stats, yields and below-market deals. UK, EU."
+2026-10-22T09:57:11.771687Z,io.github.l20941485-blip/bintu,Bintu Web Reader,1.0.1,https://github.com/l20941485-blip/Bintu-API,streamable-http,"Fetch public web pages as clean, token-budgeted text for AI agents."
+2026-10-22T10:03:49.177209Z,app.geoa/geoa,Geoa — Get found in ChatGPT,1.2.0,,streamable-http,"Check whether ChatGPT, Gemini and Perplexity recommend a business, and get fixes for its website."
+2026-10-22T10:06:59.869033Z,com.getcloseknit/close-knit,Close Knit,2.0.0,,streamable-http,"London neighbourhoods and homes: crime, schools, prices, rents, commute, green space, sourced."
+2026-10-22T10:07:42.983539Z,com.mailyond/mcp,Mailyond,1.0.1,https://github.com/BeyondFolder/mailyond,streamable-http,"Read, reply to and send email across every domain you connect to Mailyond, via API key over HTTP."
+2026-10-22T10:12:05.501831Z,io.github.markankamaransheogarat-sys/stellar-pulse-mcp,,0.1.0,https://github.com/markankamaransheogarat-sys/stellar-pulse-mcp,,"Read-only Stellar analytics: network and fees, asset checks, SDEX books, accounts, DeFi."
+2026-10-22T10:12:23.379561Z,xyz.phase.ai/gateway,Fermat,0.3.0,,streamable-http,"OpenAI-compatible LLM gateway: pay per request with an API key, signed receipt for each call."
+2026-10-22T10:13:21.72637Z,com.textforagents/single-use-agent-burn-receipt,Single-Use Agent Burn Receipt,1.0.0,,streamable-http,Task-bound disposable agent minting with canary-shard burn receipts.
