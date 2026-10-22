@@ -9,40 +9,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 20:21 UTC
+## Latest list — 2026-10-22 21:21 UTC
 
-New MCP servers published between 2026-10-22 19:20 UTC and 2026-10-22 20:21 UTC.
+New MCP servers published between 2026-10-22 20:21 UTC and 2026-10-22 21:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-22T20-21-07-995013Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-22T21-21-55-201122Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-22 19:22:08 | [io.github.MangroveTechnologies/mangroveai](https://github.com/MangroveTechnologies/mangrove-agent) | MangroveAI | 1.0.0 | Backtest and paper-trade crypto strategies. Free API key or pay per call in USD… |
-| 2026-10-22 19:24:25 | co.youraitools/perpradar | PerpRadar | 0.1.0 | Read-only perp funding, OI and positioning across 4 onchain venues. Not financi… |
-| 2026-10-22 19:24:26 | co.youraitools/tasignal | TASignal | 0.1.0 | Read-only crypto indicators, risk sizing and rule backtests. Not financial advi… |
-| 2026-10-22 19:24:27 | co.youraitools/agentready | AgentReady | 0.1.0 | Is your website ready for AI agents? 0-100 score, A-F grade and fixes. By Crypt… |
-| 2026-10-22 19:30:59 | co.youraitools/leakguard | LeakGuard | 0.1.0 | Find and redact leaked secrets, wallet keys and PII before an AI agent sends te… |
-| 2026-10-22 19:34:27 | [io.github.nasosal92/df-market-intelligence-mcp](https://github.com/nasosal92/df-market-intelligence-mcp) | DF Market Intelligence | 1.0.0 | Insider trades, prediction-market odds, US macro and x402 data. Pays per call i… |
-| 2026-10-22 19:36:00 | com.oskivo/shopify | Oskivo for Shopify | 1.0.0 | Ask your AI about your Shopify shop: commissions, production, shipping, line sh… |
-| 2026-10-22 19:36:42 | [io.github.CrowdStrike/falcon-mcp](https://github.com/CrowdStrike/falcon-mcp) | CrowdStrike Falcon MCP Server | 0.20.0 | Connects AI agents with CrowdStrike Falcon for security analysis and automation. |
-| 2026-10-22 19:37:26 | [io.github.eyeinthesky6/unseen-workflow-compiler](https://github.com/eyeinthesky6/unseen) | Unseen Workflow Compiler | 1.0.0 | Compile SOPs, policies, and playbooks into source-grounded visual flowcharts (S… |
-| 2026-10-22 19:39:57 | com.staysperks/stay-perks | Stay Perks | 1.0.0 | Virtuoso luxury hotels with perks included: search 2,000+, get a quote, book. P… |
-| 2026-10-22 19:42:35 | [io.github.headlessherm-creator/helpdesk-mender-mcp](https://github.com/headlessherm-creator/helpdesk-mender-mcp) |  | 0.1.0 | Local MCP server: Zendesk + Freshdesk + Help Scout write tools, one vocabulary. |
-| 2026-10-22 19:46:16 | live.daydream.gen/music | Daydream | 0.1.0 | Original instrumental songs from words, each with five stems. Royalty-free, for… |
-| 2026-10-22 19:47:55 | com.textforagents/instant-settlement-advance | Instant Settlement Advance | 1.0.0 | Paid at landing, not at release: advances against receipt-verified receivables. |
-| 2026-10-22 19:49:50 | eu.xyzbim/pdm | Consulta PDM (Portugal) | 1.0.0 | Portuguese municipal master plans (PDM): land category, buildability, index and… |
-| 2026-10-22 19:52:18 | re.rundata/temps-reel | La Réunion en temps réel | 0.1.0 | Météo mesurée en direct à La Réunion (974) : stations, vent, mer, prévisions AR… |
-| 2026-10-22 19:52:42 | com.getcontextloop/contextloop | Contextloop | 0.1.0 | Team metric definitions for data agents. Learns from corrections, tracks SQL an… |
-| 2026-10-22 19:56:18 | health.voa/voa | Voa | 0.5.1 | Access Voa patient records and prepare clinical documents for review and confir… |
-| 2026-10-22 19:58:42 | [io.github.imperalcloud/imperal-mcp](https://github.com/imperalcloud/imperal-mcp) | Imperal MCP | 0.5.4 | Build, validate, smoke-test & deploy Imperal declarative IR apps from any LLM o… |
-| 2026-10-22 20:01:51 | [io.sylai/pulse](https://github.com/connor274/syl-pulse-mcp) | Syl Pulse | 0.1.0 | Causal analytics: ask a business question, get a deterministic causal answer an… |
-| 2026-10-22 20:03:18 | com.valumech/robot-prices | Valumech | 0.1.0 | Sourced new prices, specs and modeled used values for humanoids, robot dogs and… |
-| 2026-10-22 20:04:47 | [io.github.AGI-CEO/paladin-php-rescue-mcp](https://github.com/AGI-CEO/paladin-php-rescue-mcp) | Paladin Front PHP Rescue & Zero-PHP Mig… | 1.0.0 | PHP2Shell (CVE-2026-109618) scanner and automated WordPress to Zero-PHP Next.js… |
-| 2026-10-22 20:06:49 | [com.paladinfront.www/php-rescue-mcp](https://github.com/AGI-CEO/paladin-php-rescue-mcp) | Paladin Front PHP Rescue & Zero-PHP Mig… | 1.0.0 | PHP2Shell (CVE-2026-109618) scanner and automated WordPress to Zero-PHP Next.js… |
-| 2026-10-22 20:08:46 | [com.audryo/audryo](https://github.com/Audryo/agent-toolkit) | Audryo | 0.2.0 | Lifecycle email for agents: journeys, campaigns, contacts, consent and delivery… |
-| 2026-10-22 20:17:13 | [io.usero/usero](https://github.com/usero-feedback/claude-plugin) | Usero | 1.28.0 | Your user feedback in your agent: read the inbox, build forms, file issues, ope… |
-| 2026-10-22 20:19:08 | com.startupmkt/startupmkt | StartupMKT — Startup Discovery & Market… | 1.0.0 | Discover startups & AI tools, browse micro-SaaS for sale, and track verified st… |
-| 2026-10-22 20:19:34 | app.uivoid/uivoid | uivoid | 1.0.0 | Manage uivoid projects, tools, keys, hosted databases and teams from your agent. |
+| 2026-10-22 20:23:57 | academy.ase/periodic-system | Agentic Engineering Periodic System | 2026.4.1 | Practices for building software with coding agents, each with a test you check… |
+| 2026-10-22 20:28:54 | io.github.majidkabir/sootcase | Sootcase freight CO2e | 1.1.0 | Freight CO2e by road, rail, sea, inland waterway and air (GLEC, ISO 14083), eve… |
+| 2026-10-22 20:28:59 | com.epiphani/connector | Epiphani | 0.1.6 | One connector for every Epiphani app you use: tasks, health, money, travel, doc… |
+| 2026-10-22 20:29:43 | [io.github.ichkifokkus/fast-data](https://github.com/ichkifokkus/data-recipes) | Fast Data Actors (via Apify MCP) | 1.0.0 | YouTube transcripts, Google News/Trends, job postings, doc-to-Markdown and imag… |
+| 2026-10-22 20:31:23 | com.skyhighpartyrentals.www/booking | Sky High Party Rentals | 1.0.0 | Quote, cart and checkout for bounce house and water slide rentals in Houston, A… |
+| 2026-10-22 20:31:59 | com.adspendspy/adspendspy | AdSpendSpy MCP | 1.0.0 | Tracked advertisers, their Facebook and Instagram ads, top landing pages and es… |
+| 2026-10-22 20:32:02 | com.adspendspy/adspendspy-demo | AdSpendSpy MCP Demo | 1.0.0 | Keyless demo: one public advertiser's ads, top landing pages and estimated ad s… |
+| 2026-10-22 20:32:30 | com.gaitkit/mcp | Gaitkit | 0.3.0 | Low-poly 3D assets as code for three.js, Godot, Unity: IK walkers, rolling vehi… |
+| 2026-10-22 20:33:48 | [io.github.ContentWriterco/leki-mcp](https://github.com/ContentWriterco/leki-mcp) |  | 0.1.1 | Polish medicines: refunded drug prices, patient co-payment and cheaper substitu… |
+| 2026-10-22 20:34:01 | [io.github.EmirhanOzl/playproof](https://github.com/EmirhanOzl/playproof) | playproof | 0.3.2 | See and playtest browser games: frame-by-frame motion, crash hunting, phone lay… |
+| 2026-10-22 20:36:05 | [io.github.ni-c/carddav-mcp](https://github.com/ni-c/carddav-mcp) | CardDAV address books | 0.1.4 | Read and write CardDAV address books: contacts, groups and photos over the open… |
+| 2026-10-22 20:36:57 | [io.github.AGI-CEO/instant-business-website-builder-mcp](https://github.com/AGI-CEO/instant-business-website-builder-mcp) | Instant Business Website Builder & Next… | 1.0.0 | The easiest way to build, preview, and launch a live business website in 60 sec… |
+| 2026-10-22 20:41:48 | kr.pe.trading/community | AI Stock League (Korea) - trading.pe.kr | 1.1.0 | Free, no signup: AI agents predict KOSPI/KOSDAQ stocks, scored on real closing… |
+| 2026-10-22 20:41:53 | ai.engineware/mcp | EngineWare | 1.0.0 | EngineWare modules, site search, pricing and contact. Read-only. API key requir… |
+| 2026-10-22 20:41:54 | ai.engineware/docs-mcp | EngineWare Docs | 1.0.0 | EngineWare developer docs: search_docs and get_doc. Read-only. API key required… |
+| 2026-10-22 20:42:53 | [ai.inite/site-agents](https://github.com/inite-ai/inite-agents) | INITE Agents | 0.1.0 | Per-business MCP servers serving owner-confirmed facts: services, prices, hours… |
+| 2026-10-22 20:44:30 | [io.github.adsandcode/serp-title-width](https://github.com/adsandcode/serp-title-width) | SERP Title Width | 0.1.0 | Check if Chinese, Japanese and Korean page titles fit Google results by pixel w… |
+| 2026-10-22 20:44:32 | [io.github.adsandcode/fbc-guard](https://github.com/adsandcode/fbc-guard) |  | 0.1.0 | Static checks for Meta _fbc, _fbp and fbclid code that cause modified click ID… |
+| 2026-10-22 20:44:34 | [io.github.adsandcode/contentgate](https://github.com/adsandcode/contentgate) |  | 0.2.0 | Pre-deploy checks for content sites: keywords, translations, links, claims, pag… |
+| 2026-10-22 20:47:21 | [io.github.ajitpratap0/gosqlx](https://github.com/ajitpratap0/GoSQLX) | GoSQLX | 1.16.0 | SQL validation, formatting, parsing, metadata extraction, linting, and security… |
+| 2026-10-22 20:51:54 | com.flickdirect.connect/flickdirect-connect | FlickDirect Connect | 1.0.1 | Movie MCP server for FlickDirect movie and TV details, cast, trivia, and origin… |
+| 2026-10-22 20:59:50 | com.textforagents/general-average-for-agent-fleets | General Average for agent fleets | 1.0.0 | General average for agent fleets: bonded, rating-neutral sacrifice loss-sharing. |
+| 2026-10-22 21:03:27 | com.tryrico/rico |  | 14.0.0 | Invents a brand, briefs each screen, and checks agent-built UI against it. |
+| 2026-10-22 21:05:12 | com.recapraven/mcp | Recap Raven | 0.1.0 | Discord D&D note taker: search and cite your TTRPG session recaps, quests, NPCs… |
+| 2026-10-22 21:07:27 | [com.rooferregistry/roofer-registry](https://github.com/kevincolahan/roofing-directory) | Roofer Registry | 0.2.0 | State-licensed roofing contractors with regulator discipline records and proven… |
+| 2026-10-22 21:11:51 | net.nonsynthetic/apex-edge |  | 1.0.0 | x402 machine-payable utility edge for agents — priced tools in USDC on Base |
+| 2026-10-22 21:12:48 | com.xmlvalid/xmlvalid | xmlvalid | 1.0.0 | Validate XML and e-invoices (XSD, DTD, RelaxNG, EN 16931, Peppol, XRechnung), e… |
+| 2026-10-22 21:13:05 | com.backpr/data | BackPR youth program data | 1.0.0 | Free, sourced US youth program data: state rules, licensed programs, software p… |
+| 2026-10-22 21:19:35 | ai.xyla/xyla | Xyla AI | 1.0.0 | Social posts for Shopify and WooCommerce stores: approve posts, see results, ch… |
 
 ## Data source
 
