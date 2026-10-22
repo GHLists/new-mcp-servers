@@ -1,0 +1,94 @@
+created_at,server,title,version,repository,transports,description
+2026-10-22T05:20:25.736281Z,io.github.rossbuilds/rossai-apify-mcp,Ross AI Apify Actors,1.0.0,https://github.com/rossbuilds/rossai-apify-mcp,,"Run Ross AI Apify actors with your own token. Sitemap, SEO, Trends, screenshots, reviews, Markdown."
+2026-10-22T05:35:14.514564Z,io.github.aiscimi-code/botkelp,BotKelp,1.1.0,https://github.com/botkelp/components,streamable-http,Verified component catalog over remote MCP: agents pick ids and get a project that builds.
+2026-10-22T05:38:13.743081Z,com.partstable/partstable,PartsTable,1.0.0,,streamable-http,"Calibrated IT hardware parts reference: PN normalization, search, cross-references, cited facts."
+2026-10-22T05:40:20.928668Z,io.github.CTF-Max/untapped-serp,Untapped SERP,0.2.0,https://github.com/CTF-Max/untapped-plugins,,Real Google results and search volume
+2026-10-22T05:40:23.012679Z,io.github.CTF-Max/untapped-index-watch,Untapped Index Watch,0.2.0,https://github.com/CTF-Max/untapped-plugins,,Is every page in Google's index?
+2026-10-22T05:40:25.6249Z,io.github.CTF-Max/untapped-search-console,Untapped Search Console,0.2.0,https://github.com/CTF-Max/untapped-plugins,,"What people search to find you, and what's close"
+2026-10-22T05:40:26.897801Z,io.github.CTF-Max/untapped-site-audit,Untapped Site Audit,0.2.0,https://github.com/CTF-Max/untapped-plugins,,Audit a site in the order that finds the bottleneck
+2026-10-22T05:40:36.18353Z,io.github.theluckystrike/avery-labels,Sheetwise Label Maker,1.0.1,,streamable-http,Print address labels from a list or a spreadsheet without opening Word.
+2026-10-22T05:40:52.053199Z,io.github.theluckystrike/baby-names,Zovo Baby Names,1.0.0,,streamable-http,US baby name trends & finder
+2026-10-22T05:41:00.733105Z,io.github.theluckystrike/bank-reconciliation,Zovo Bank Reconciliation,1.0.1,,streamable-http,Reconcile a bank account against your books and see which items do not match.
+2026-10-22T05:41:08.146084Z,io.github.theluckystrike/barcode-maker,Zovo Barcode Maker,1.0.1,,streamable-http,"EAN, UPC & Code 128 barcodes"
+2026-10-22T05:41:13.508883Z,io.github.theluckystrike/bill-splitter,Zovo Bill Splitter,1.0.0,,streamable-http,Split the bill without the awkward math.
+2026-10-22T05:41:20.032887Z,io.github.theluckystrike/bingo-cards,Zovo Bingo Card Maker,1.0.0,,streamable-http,Printable bingo cards & caller
+2026-10-22T05:41:29.417173Z,io.github.theluckystrike/bracket-maker,Zovo Tournament Maker,1.0.0,,streamable-http,"Make a tournament bracket in the chat, record results by clicking the winners, and print it."
+2026-10-22T05:41:35.389641Z,io.github.theluckystrike/calendar-invite,InviteKit Calendar Files,1.0.0,,streamable-http,.ics files & calendar links
+2026-10-22T05:41:40.407295Z,io.github.theluckystrike/census-geocode,Zovo Address Geocoder,1.0.0,,streamable-http,US address lists to geography
+2026-10-22T05:41:46.966587Z,io.github.theluckystrike/chord-transposer,Keyshift Chord Transposer,1.0.0,,streamable-http,Change keys and capo shapes
+2026-10-22T05:41:52.821106Z,io.github.theluckystrike/citation-generator,Zovo Citation Generator,1.0.0,,streamable-http,DOIs and ISBNs to APA & MLA
+2026-10-22T05:41:58.654306Z,io.github.theluckystrike/commission-calculator,Quotaline Commissions,1.0.1,,streamable-http,"Commission payouts, statements"
+2026-10-22T05:42:04.068149Z,io.github.theluckystrike/contract-awards,Zovo Contract Awards,1.0.0,,streamable-http,Federal award market reports
+2026-10-22T05:42:09.570349Z,io.github.theluckystrike/contrast-checker,Zovo Palette Lab,1.0.0,,streamable-http,WCAG contrast & palettes
+2026-10-22T05:42:15.254131Z,io.github.theluckystrike/critical-path,Pathline Project Planner,1.0.0,,streamable-http,Project planning tool for critical path calculations.
+2026-10-22T05:42:22.306845Z,io.github.theluckystrike/cron-explorer,Tempo Cron Explorer,1.0.0,,streamable-http,Cron runs across timezones
+2026-10-22T05:42:28.241461Z,io.github.theluckystrike/currency-converter,Zovo Currency Converter,1.0.0,,streamable-http,Currency rates & history
+2026-10-22T05:42:34.283209Z,io.github.theluckystrike/date-calculator,Zovo Date Calculator,1.0.0,,streamable-http,Days between dates & workdays
+2026-10-22T05:42:42.588681Z,io.github.theluckystrike/decision-matrix,Clarity Decision Matrix,1.0.0,,streamable-http,Decision planning tool for a weighted decision matrix.
+2026-10-22T05:42:49.084413Z,io.github.theluckystrike/dns-checker,Zovo DNS Checker,1.0.0,,streamable-http,Live DNS & email auth checks
+2026-10-22T05:42:54.959027Z,io.github.theluckystrike/domain-lookup,Zovo Domain Lookup,1.0.0,,streamable-http,Whois and domain expiry data
+2026-10-22T05:43:00.436786Z,io.github.theluckystrike/doubles-mixer,Pairloop Doubles Mixer,1.0.0,,streamable-http,"Rotate partners, print & score"
+2026-10-22T05:43:07.352027Z,io.github.theluckystrike/family-tree,Zovo Family Tree,1.0.1,,streamable-http,Genealogy charts and posters
+2026-10-22T05:43:12.31008Z,io.github.theluckystrike/fed-register,Zovo Federal Register Digest,1.0.0,,streamable-http,Federal rules and deadlines
+2026-10-22T05:43:21.090313Z,io.github.theluckystrike/flashcard-studio,Studycut Flashcards,1.0.0,,streamable-http,Learning flashcard maker for supplied question-answer pairs.
+2026-10-22T05:43:25.82906Z,io.github.theluckystrike/focus-timer,Zovo Focus Timer,1.0.0,,streamable-http,Plan work sessions and run pomodoro timers right in the conversation.
+2026-10-22T05:43:32.533768Z,io.github.theluckystrike/gantt-timeline,Zovo Project Timeline,1.0.0,,streamable-http,A Gantt chart maker and project timeline planner that works inside the chat.
+2026-10-22T05:43:36.975427Z,io.github.theluckystrike/gift-exchange,DrawKind Secret Santa,1.0.0,,streamable-http,Draw names for Secret Santa without sign-ups or email addresses.
+2026-10-22T05:43:42.720476Z,io.github.theluckystrike/golden-hour,Sunvane Golden Hour,1.0.0,,streamable-http,Sun times & shoot planning
+2026-10-22T05:43:46.967219Z,io.github.theluckystrike/gpa-calculator,Zovo GPA Calc,1.0.0,,streamable-http,A GPA calculator for high school and college students that shows its work.
+2026-10-22T05:43:51.596158Z,io.github.theluckystrike/grant-finder,Zovo Grant Finder,1.0.0,,streamable-http,Federal grants and deadlines
+2026-10-22T05:43:57.263798Z,io.github.theluckystrike/handwriting-sheets,Penline Handwriting Sheets,1.0.0,,streamable-http,Tracing sheets & lined paper
+2026-10-22T05:44:01.988487Z,io.github.theluckystrike/inflation-calculator,Zovo Inflation Calculator,1.0.0,,streamable-http,Show the value of money over time.
+2026-10-22T05:44:08.119214Z,io.github.theluckystrike/billwise-invoice-maker,Billwise Invoice Maker,1.0.0,,streamable-http,"An invoice generator for freelancers, contractors, and small businesses that works inside the chat."
+2026-10-22T05:44:14.246644Z,io.github.theluckystrike/ip-lookup,Zovo IP Lookup,1.0.0,,streamable-http,Who owns an IP address?
+2026-10-22T05:44:19.959241Z,io.github.theluckystrike/json-diff,Structura JSON Diff,1.0.0,,streamable-http,Developer utility for comparing two strict JSON documents.
+2026-10-22T05:44:24.901127Z,io.github.theluckystrike/lei-lookup,Zovo LEI Lookup,1.0.0,,streamable-http,LEI checks and renewal dates
+2026-10-22T05:44:30.257281Z,io.github.theluckystrike/loan-planner,Amortiza Loan Planner,1.0.0,,streamable-http,Mortgage & loan schedules
+2026-10-22T05:44:34.892452Z,io.github.theluckystrike/mail-merge,Mergewell Mail Merge,1.0.1,,streamable-http,"Mail merge from Excel or CSV to PDF, right in the chat."
+2026-10-22T05:44:39.767567Z,io.github.theluckystrike/meeting-planner,Zovo Meeting Planner,1.0.0,,streamable-http,Find meeting times across TZs
+2026-10-22T05:44:44.590228Z,io.github.theluckystrike/metronome,Beatwise Metronome,1.0.1,,streamable-http,"Keep time, find note durations"
+2026-10-22T05:44:49.43138Z,io.github.theluckystrike/odometry-mileage-log,Odometry Mileage Log,1.0.0,,streamable-http,Mileage log and reimbursement
+2026-10-22T05:44:54.157157Z,io.github.theluckystrike/name-wheel,Zovo Name Wheel,1.0.0,,streamable-http,Spin the wheel right in the chat.
+2026-10-22T05:44:59.352541Z,io.github.theluckystrike/npi-lookup,Zovo NPI Lookup,1.0.0,,streamable-http,Provider rosters & NPI checks
+2026-10-22T05:45:04.77058Z,io.github.theluckystrike/ofac-screening,Zovo Sanctions Screening,1.0.0,,streamable-http,Run an ofac search on business names and get a dated XLSX screening log.
+2026-10-22T05:45:13.0154Z,io.github.theluckystrike/org-chart,Zovo Org Chart Maker,1.0.0,,streamable-http,Org charts from a team list
+2026-10-22T05:45:23.133007Z,io.github.theluckystrike/packing-checklist,Packwise Checklist,1.0.0,,streamable-http,"Packing checklist for explicitly supplied items, categories and quantities."
+2026-10-22T05:45:32.367261Z,io.github.theluckystrike/paycheck-calculator,Netwise Paycheck Calculator,1.0.0,,streamable-http,2026 paycheck after taxes
+2026-10-22T05:45:55.078684Z,io.github.theluckystrike/pdf-to-excel,Zovo PDF to Spreadsheet,1.0.0,,streamable-http,PDF tables into a spreadsheet
+2026-10-22T05:46:02.067218Z,io.github.theluckystrike/zovo-per-diem-calculator,Zovo Per Diem Calculator,1.0.0,,streamable-http,Travel allowance worksheets
+2026-10-22T05:46:07.352733Z,io.github.theluckystrike/personality-test,Zovo Big Five Test,1.0.0,,streamable-http,Big Five personality test
+2026-10-22T05:46:12.237033Z,io.github.theluckystrike/printable-calendar,Printable Calendar Maker,1.0.0,,streamable-http,Make a printable calendar as a print-ready vector PDF without leaving the chat.
+2026-10-22T05:47:02.46107Z,io.github.theluckystrike/puzzle-maker,GridSmith Puzzle Maker,1.0.1,,streamable-http,"Crossword, word search, sudoku"
+2026-10-22T05:47:06.815245Z,io.github.theluckystrike/qr-code-studio,Zovo QR Code Maker,1.0.0,,streamable-http,QR codes for links & contacts
+2026-10-22T05:47:11.149888Z,io.github.theluckystrike/rent-ledger,LeaseLine Rent Ledger,1.0.0,,streamable-http,Rent ledgers and prorated rent
+2026-10-22T05:47:15.257612Z,io.github.theluckystrike/schengen-days,Stayspan Schengen Days,1.0.1,,streamable-http,Plan Schengen short stays with a rolling 90/180 rule calculator and a daily CSV download.
+2026-10-22T05:47:19.466184Z,io.github.theluckystrike/score-keeper,Gamechalk Score Keeper,1.0.0,,streamable-http,Scoreboard & game scores
+2026-10-22T05:47:23.495411Z,io.github.theluckystrike/seating-chart,Zovo Seating Chart,1.0.1,,streamable-http,"Make a classroom seating chart or a wedding seating chart that follows your rules, then print it."
+2026-10-22T05:47:27.592942Z,io.github.theluckystrike/sec-filings,Zovo SEC Filings,1.0.0,,streamable-http,SEC filings and financials
+2026-10-22T05:47:31.59569Z,io.github.theluckystrike/self-employment-tax,QuarterWise 1099 Tax Planner,1.0.0,,streamable-http,A self employment tax calculator and quarterly estimated tax planner for 2026.
+2026-10-22T05:47:35.614836Z,io.github.theluckystrike/sheet-compare,Zovo Spreadsheet Compare,1.0.1,,streamable-http,Compare two spreadsheets
+2026-10-22T05:47:39.641244Z,io.github.theluckystrike/sheet-join,Zovo Spreadsheet Merge,1.0.1,,streamable-http,"Merge two spreadsheets on an ID column, the VLOOKUP job, and see how each row matched."
+2026-10-22T05:47:43.720025Z,io.github.theluckystrike/shift-scheduler,Rotawise Shift Scheduler,1.0.1,,streamable-http,Weekly staff shift schedules
+2026-10-22T05:47:47.808143Z,io.github.theluckystrike/site-status,Zovo Website Status Checker,1.0.0,,streamable-http,"Is it down, or just you?"
+2026-10-22T05:47:51.953908Z,io.github.theluckystrike/sky-keepsake,Moon & Star Map,1.0.0,,streamable-http,Moon phases & star map posters
+2026-10-22T05:47:56.032394Z,io.github.theluckystrike/speed-reader,Paceword Speed Reader,1.0.0,,streamable-http,Learn to read faster with paced speed reading practice inside the chat.
+2026-10-22T05:48:00.083756Z,io.github.theluckystrike/statement-converter,Tallyproof Bank Statements,1.0.1,,streamable-http,Bank statement to spreadsheet
+2026-10-22T05:48:04.287587Z,io.github.theluckystrike/teleprompter,Linepace Teleprompter,1.0.0,,streamable-http,Live script reader and timer
+2026-10-22T05:48:08.786095Z,io.github.theluckystrike/time-card,ShiftSum Time Card,1.0.0,,streamable-http,A time card calculator for hours worked.
+2026-10-22T05:48:12.814566Z,io.github.theluckystrike/typing-test,Zovo Typing Test,1.0.1,,streamable-http,Take a typing speed test without leaving the chat.
+2026-10-22T05:48:19.238685Z,io.github.theluckystrike/vat-check,Zovo VAT Number Check,1.0.0,,streamable-http,Run a VAT number check for EU tax identifiers in VIES and get a dated XLSX validation log.
+2026-10-22T05:48:23.361965Z,io.github.theluckystrike/vehicle-recalls,Zovo VIN Recall Check,1.0.0,,streamable-http,Check recalls by VIN with live public vehicle records and downloadable XLSX and CSV reports.
+2026-10-22T05:48:28.142587Z,io.github.theluckystrike/weather-history,Zovo Weather History,1.0.0,,streamable-http,Past weather & daily logs
+2026-10-22T05:48:28.664439Z,app.ainovelist/novelist,Novelist,1.0.0,,streamable-http,"Prepare complete, illustrated AI novels in 22 languages; users review and pay on ainovelist.app."
+2026-10-22T05:48:34.491629Z,io.github.theluckystrike/word-counter,Zovo Word Counter,1.0.0,,streamable-http,Exact word & character counts
+2026-10-22T05:48:38.673782Z,io.github.theluckystrike/word-guess,Zovo Word Guess,1.0.1,,streamable-http,Make your own custom word-guessing game and send it to a friend.
+2026-10-22T05:48:42.989818Z,io.github.theluckystrike/word-solver,LetterLab Word Solver,1.0.1,,streamable-http,Word game solver & unscrambler
+2026-10-22T05:48:55.386302Z,io.github.theluckystrike/product-recalls,Zovo Product Recall Check,1.0.0,,streamable-http,Inventory recall screening
+2026-10-22T05:51:17.166645Z,dev.workers.mike-tusa.cronspell/cronspell,CronSpell,0.1.0,,streamable-http,"Validate and explain cron expressions; list next/previous run times in any time zone, DST-aware."
+2026-10-22T05:56:36.593248Z,com.ionelul/app,app.ionelul.com tools,0.11.0,,,"Local file tools: PDF, Office, e-Factura, OCR, images, video, transcription and translation."
+2026-10-22T05:58:48.262192Z,com.hushscript/hushscript,Hushscript,1.0.0,,streamable-http,Transcribe recordings and work with the transcripts in your Hushscript account.
+2026-10-22T06:12:02.101718Z,com.hydrogenstudies/research,Hydrogen Studies,1.1.0,,streamable-http,"Search, compare and summarize 2,200+ published studies on molecular hydrogen (H2) and health."
+2026-10-22T06:18:43.375015Z,io.github.kartegagithub/laviya-agent-skills,,0.1.25,https://github.com/kartegagithub/laviya-agent-skills,,Laviya AI Orchestration MCP runtime for IDE and agent integrations.
+2026-10-22T06:19:44.495096Z,online.newbeeai/relay,AI Relay,0.1.0,,streamable-http,把要办的事转给已接入的产品去办：搜索动作、发起调用、用户确认、查询结果。
+2026-10-22T06:20:57.901169Z,life.dailyalignment/almanac,Daily Alignment,1.0.0,,streamable-http,"The Chinese almanac, lunar dates, Four Pillars, solar terms and the sky, calculated from astronomy."
+2026-10-22T06:21:31.252915Z,com.textforagents/unattended-surface-parity-probe,Unattended-surface parity probe,1.0.0,,streamable-http,Pre-run parity probe for scheduled agents: signed PARITY / NO-GO verdict naming the failing gate.
