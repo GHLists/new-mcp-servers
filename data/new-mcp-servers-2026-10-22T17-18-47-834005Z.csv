@@ -1,0 +1,35 @@
+created_at,server,title,version,repository,transports,description
+2026-10-22T16:24:05.073206Z,com.cachejay/cachejay,Cachejay,1.0.0,,streamable-http,"Memory for your AI: what you saw on screen, said in calls and worked on, searchable by agents."
+2026-10-22T16:24:17.211377Z,io.antaeus/antaeus,Antaeus,0.1.0,,streamable-http,Check user intent and proposed actions against approved semantic policies.
+2026-10-22T16:25:51.504034Z,com.checkgrow/checkgrow,Checkgrow,1.0.0,,streamable-http,"Your company's marketing data from Checkgrow: knowledge, performance, campaigns and competitors."
+2026-10-22T16:26:44.876277Z,io.github.Rererr/amenbo,,0.6.2,https://github.com/Rererr/amenbo,,"Japanese-web-native MCP server for low-impact, token-efficient web collection"
+2026-10-22T16:31:00.129284Z,tv.sleipnir/sleipnir,Sleipnir Multistream,1.0.1,,streamable-http,"Multistream relay control: check live status, switch destinations, manage teams, generate overlays."
+2026-10-22T16:34:09.112158Z,co.youraitools/counterpartycheck,CounterpartyCheck,0.1.0,,streamable-http,Pre-payment check for EVM/Solana addresses: ok/caution/block with reasons. By Crypto Money Maker
+2026-10-22T16:36:20.882257Z,realestate.palmera/catalog,Palmera property catalog,1.0.0,,streamable-http,"Off-plan and ready property in the UAE, Oman, Georgia, Cyprus, Bali, Thailand and London."
+2026-10-22T16:36:25.95276Z,il.co.netik/catalog,Netik,1.2.0,,streamable-http,"Netik services in Israel (websites, systems, AI agents) with final prices in ILS."
+2026-10-22T16:36:32.853732Z,realestate.rak/catalog,RAK Real Estate projects,1.0.0,,streamable-http,"Off-plan projects in Ras Al Khaimah, UAE: search by area, developer, budget and handover year."
+2026-10-22T16:36:45.420337Z,xyz.forkcaster/mcp,,1.0.0,https://github.com/artlu99/forkcaster_xyz,streamable-http,Resolve Farcaster casts to deep-link URLs for any supported Farcaster client app. No auth.
+2026-10-22T16:39:48.555525Z,io.github.myworkingmemory/curated-finds,Curated Finds on Apify,2026.10.22,,streamable-http,Search a software catalogue with source-review dates via authenticated Apify Actor execution.
+2026-10-22T16:40:16.480061Z,com.skimmerdb/skimmerdb,SkimmerDB,1.0.0,,streamable-http,"Search and SQL on object storage: full-text, vector and hybrid search plus SQL over your data."
+2026-10-22T16:41:06.07312Z,il.co.drushimavodot.www/jobs,דרושים - עבודות,1.0.0,,streamable-http,"חיפוש משרות, אירועים, מומחים וקורסים, בלי מפתח"
+2026-10-22T16:45:35.577029Z,io.github.mangrove-one/mangroveai,MangroveAI,1.0.0,https://github.com/MangroveTechnologies/mangrove-agent,streamable-http,Backtest and paper-trade crypto strategies. Free API key or pay per call in USDC (x402).
+2026-10-22T16:47:08.039939Z,com.dedupedai/deduped-mcp,Deduped AI use cases,0.1.0,,streamable-http,"AI use cases with steps and agent prompts for hot GitHub AI repos, plus daily AI news. No key."
+2026-10-22T16:47:17.1938Z,app.linear/linear,Linear,1.0.2,,streamable-http; streamable-http,"Find and manage issues, projects, and documents in your Linear workspace."
+2026-10-22T16:52:27.397262Z,io.github.iksnerd/adb-mcp,adb-mcp: Android emulator and device control over adb,0.24.1,https://github.com/iksnerd/adb-mcp,,"Drive an Android emulator or device over adb: screenshot, inspect UI, tap, type, build and test."
+2026-10-22T16:54:17.348666Z,io.github.altss-data/public-profiles,Altss Public Profiles,1.0.0,,streamable-http,Search and read bounded published Altss profile summaries with canonical citations. No private data.
+2026-10-22T16:54:31.426475Z,de.lehrerbegleiter/referendariat,Lehrerbegleiter,1.0.0,,streamable-http,"Referendariat und Beihilfe für Lehrkräfte in allen 16 Bundesländern: Fahrplan, Fristen, Pension."
+2026-10-22T16:58:25.5082Z,dev.workers.jbarkules.agent-tools/agent-tools,Agent Tools,1.0.0,,streamable-http,"Pay-per-call agent tools via x402 USDC on Base: email check, PDF text, OCR, web to markdown, DNS, FX"
+2026-10-22T17:00:42.16699Z,app.paramability/mcp,Paramability,1.0.0,,,Links your AI assistant app to the Paramability tab open in Chrome. Runs on your computer only.
+2026-10-22T17:02:51.03329Z,com.fynk.app/mcp,fynk MCP Server,1.0.0,,streamable-http,"Draft, find, update and sign contracts in fynk, the European contract management platform."
+2026-10-22T17:03:47.872165Z,com.geekwala/dependency-scanner,GeekWala Dependency Scanner,1.0.0,,streamable-http,Check dependencies for known CVEs with EPSS and CISA KEV context. Read-only; free API token.
+2026-10-22T17:06:51.137898Z,io.github.CloudCorpRecords/mcpvet,,0.1.0,https://github.com/CloudCorpRecords/mcpvet,,"Pre-install vetting for MCP servers and skills: capabilities, configs, mismatches, typosquats."
+2026-10-22T17:06:58.32332Z,com.luxorplasticcards/plastic-business-cards,Luxor Plastic Cards,1.0.0,,streamable-http,"Quote and order premium 30mil clear, frosted and white plastic business cards, made in the USA."
+2026-10-22T17:09:18.036908Z,io.github.restspace/sitelooper,,0.7.0,https://github.com/restspace/sitelooper,,"Record a browser flow once with a model, then compile it to a Playwright spec that needs no model."
+2026-10-22T17:09:59.037206Z,io.github.CalmNguyen/ttsforfree,TTSForFree,1.0.0,https://github.com/CalmNguyen/ttsforfree-mcp,streamable-http,"Generate AI voices, text-to-speech, subtitles, transcription, and video localization."
+2026-10-22T17:11:21.235106Z,com.dipscout/dipscout,,1.0.0,https://github.com/czimbr/Ali,streamable-http,"AliExpress price history in USD and real price drops, verified against our own price history."
+2026-10-22T17:11:37.98641Z,com.calipermoney/money-calculators,Caliper money calculators,1.0.0,,streamable-http,Net worth percentile by age (Federal Reserve data) and retirement savings calculators. Free.
+2026-10-22T17:12:24.174022Z,io.github.akhilrajesh213/kijiji-scraper,"Kijiji Scraper & Tracker (listings, price drops)",0.1.5,,streamable-http,"Kijiji listings for AI agents: search by keyword, city and category; price drops, cars, rentals."
+2026-10-22T17:16:06.92396Z,co.barmaan/barmaan,Barmaan,1.0.0,,streamable-http,"Barmaan catalogue: instruments, specs, guides, certificate check, quote requests"
+2026-10-22T17:16:23.738026Z,com.nanocalcs/calculators,Nanocalcs,0.2.1,,,"Exact calculators (loans, dates, units, LLM tokens, API cost, VRAM) + prefilled nanocalcs.com links"
+2026-10-22T17:17:24.908965Z,uk.co.fantasyfootballhub/fantasy-football-hub,Fantasy Football Hub,44d920389458,,streamable-http,"Fantasy Premier League predictions, fixture difficulty, team news and your own FPL team and leagues."
+2026-10-22T17:18:33.110771Z,com.mynexusapi/ecuafact,Ecuafact · Facturación electrónica SRI,1.0.0,,streamable-http,Emite y consulta comprobantes electrónicos del SRI (Ecuador) en tu cuenta de Ecuafact. OAuth 2.1.

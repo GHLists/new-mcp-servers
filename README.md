@@ -9,35 +9,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 16:21 UTC
+## Latest list — 2026-10-22 17:18 UTC
 
-New MCP servers published between 2026-10-22 15:19 UTC and 2026-10-22 16:21 UTC.
+New MCP servers published between 2026-10-22 16:21 UTC and 2026-10-22 17:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-22T16-21-24-301242Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-22T17-18-47-834005Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-22 15:22:03 | com.jocktaxes/developer | Jock Taxes Developer MCP | 1.0.0 | Pro athlete tax calculators for MLB, NBA, NFL and NHL. Requires a Jock Taxes AP… |
-| 2026-10-22 15:22:43 | com.jocktaxes/grok | Jock Taxes for Grok | 1.0.0 | Pro athlete after-tax salary calculators for MLB, NBA, NFL and NHL. Requires si… |
-| 2026-10-22 15:23:21 | com.jocktaxes/claude | Jock Taxes for Claude | 1.0.0 | Pro athlete after-tax salary calculators for MLB, NBA, NFL and NHL, built for C… |
-| 2026-10-22 15:23:27 | dev.workers.shopttyass-85f.attention-trends/attention-trends | Attention Trends | 0.2.0 | Topic popularity, interest over time and trending topics from Wikipedia pagevie… |
-| 2026-10-22 15:23:50 | com.jocktaxes/chatgpt | Jock Taxes for ChatGPT | 1.0.0 | Pro athlete after-tax salary calculators for MLB, NBA, NFL and NHL, built for C… |
-| 2026-10-22 15:26:59 | [health.voa/tiss](https://github.com/Voa-Health/tiss) | voa-tiss | 0.3.0 | Ferramentas para validar documentos TISS e consultar TUSS, operadoras e dados d… |
-| 2026-10-22 15:29:59 | uk.co.doctilla/doctilla | Doctilla | 1.0.0 | ISO 9001 quality management: CARs and 8D, NCRs, audits, actions, risks, supplie… |
-| 2026-10-22 15:31:09 | [ai.tunapay/pay](https://github.com/TUNAKINGRWA/tunapay-mcp) | TunaPay Pay | 1.0.0 | Your AI pays with a TunaPay prepaid card. You approve each payment in Telegram… |
-| 2026-10-22 15:32:30 | [io.github.ashfordeOU/setuhq](https://github.com/ashfordeOU/SetuHQ) | SetuHQ transit search | 0.1.0 | Search, vet and explain TESS transit candidates with provenance. Candidates, ne… |
-| 2026-10-22 15:34:30 | [com.speakeasy.ai/platform](https://github.com/speakeasy-api/gram) | Speakeasy Platform MCP | 1.0.0 | Secure and manage MCP servers through the Speakeasy AI Control Plane from your… |
-| 2026-10-22 15:36:18 | com.vivadialog/vivadialog | VivaDialog | 0.2.0 | Read the unified social inbox, channels, usage and inbox analytics of a VivaDia… |
-| 2026-10-22 15:45:22 | io.brewmark/brewmark |  | 1.0.0 | Grind-setting conversion between 77 coffee grinders, plus dial-in charts for ev… |
-| 2026-10-22 15:46:44 | [io.github.ugcapi/mcp-server](https://github.com/ugcapi/mcp-server) | UGC API | 1.0.0 | Publish and schedule UGC videos, slideshows and images to TikTok and Instagram… |
-| 2026-10-22 15:47:05 | com.aigregator/ai-tools | Aigregator AI Tools | 1.0.0 | Search and compare 4,700+ AI tools: pricing, features, alternatives. Free, no A… |
-| 2026-10-22 15:55:00 | [ai.bumblebox/mail](https://github.com/BumbleBox/bumblebox-mcp) | BumbleBox | 2.1.0 | Search and triage all your mailboxes; draft replies and campaigns; send only as… |
-| 2026-10-22 15:56:19 | [io.github.grichardomi/faxseal](https://github.com/grichardomi/mcp-server) | FaxSeal | 2.2.0 | Send, receive, and verify faxes from AI assistants and agents via FaxSeal. |
-| 2026-10-22 15:58:10 | [xyz.orkidlabs/orkid-swap](https://github.com/jjcav84/defi) | Orkid Swap | 1.0.0 | MEV-protected multichain swap routing via Tycho+RFQ; gasless execution, x402-pr… |
-| 2026-10-22 16:01:53 | [so.outrank/outrank](https://github.com/Outrank-SAS/outrank-cli) | Outrank | 0.10.0 | Plan SEO keywords, write and publish articles to your site, read Search Console… |
-| 2026-10-22 16:02:10 | com.anythingmd/convert | AnythingMD | 0.1.0 | Convert PDFs, Office files, spreadsheets and images to clean Markdown, sized fo… |
-| 2026-10-22 16:05:53 | com.madebydevx.agents/agent-hub | DevX Agent Hub | 1.0.0 | x402 pay-per-call agent tools: token safety/honeypot check, speech to text, TTS… |
-| 2026-10-22 16:11:37 | [io.github.Nadeus/toolradar](https://github.com/Nadeus/toolradar-mcp) |  | 2.2.0 | Search, compare and price software tools. Verified prices with their date, real… |
+| 2026-10-22 16:24:05 | com.cachejay/cachejay | Cachejay | 1.0.0 | Memory for your AI: what you saw on screen, said in calls and worked on, search… |
+| 2026-10-22 16:24:17 | io.antaeus/antaeus | Antaeus | 0.1.0 | Check user intent and proposed actions against approved semantic policies. |
+| 2026-10-22 16:25:51 | com.checkgrow/checkgrow | Checkgrow | 1.0.0 | Your company's marketing data from Checkgrow: knowledge, performance, campaigns… |
+| 2026-10-22 16:26:44 | [io.github.Rererr/amenbo](https://github.com/Rererr/amenbo) |  | 0.6.2 | Japanese-web-native MCP server for low-impact, token-efficient web collection |
+| 2026-10-22 16:31:00 | tv.sleipnir/sleipnir | Sleipnir Multistream | 1.0.1 | Multistream relay control: check live status, switch destinations, manage teams… |
+| 2026-10-22 16:34:09 | co.youraitools/counterpartycheck | CounterpartyCheck | 0.1.0 | Pre-payment check for EVM/Solana addresses: ok/caution/block with reasons. By C… |
+| 2026-10-22 16:36:20 | realestate.palmera/catalog | Palmera property catalog | 1.0.0 | Off-plan and ready property in the UAE, Oman, Georgia, Cyprus, Bali, Thailand a… |
+| 2026-10-22 16:36:25 | il.co.netik/catalog | Netik | 1.2.0 | Netik services in Israel (websites, systems, AI agents) with final prices in IL… |
+| 2026-10-22 16:36:32 | realestate.rak/catalog | RAK Real Estate projects | 1.0.0 | Off-plan projects in Ras Al Khaimah, UAE: search by area, developer, budget and… |
+| 2026-10-22 16:36:45 | [xyz.forkcaster/mcp](https://github.com/artlu99/forkcaster_xyz) |  | 1.0.0 | Resolve Farcaster casts to deep-link URLs for any supported Farcaster client ap… |
+| 2026-10-22 16:39:48 | io.github.myworkingmemory/curated-finds | Curated Finds on Apify | 2026.10.22 | Search a software catalogue with source-review dates via authenticated Apify Ac… |
+| 2026-10-22 16:40:16 | com.skimmerdb/skimmerdb | SkimmerDB | 1.0.0 | Search and SQL on object storage: full-text, vector and hybrid search plus SQL… |
+| 2026-10-22 16:41:06 | il.co.drushimavodot.www/jobs | דרושים - עבודות | 1.0.0 | חיפוש משרות, אירועים, מומחים וקורסים, בלי מפתח |
+| 2026-10-22 16:45:35 | [io.github.mangrove-one/mangroveai](https://github.com/MangroveTechnologies/mangrove-agent) | MangroveAI | 1.0.0 | Backtest and paper-trade crypto strategies. Free API key or pay per call in USD… |
+| 2026-10-22 16:47:08 | com.dedupedai/deduped-mcp | Deduped AI use cases | 0.1.0 | AI use cases with steps and agent prompts for hot GitHub AI repos, plus daily A… |
+| 2026-10-22 16:47:17 | app.linear/linear | Linear | 1.0.2 | Find and manage issues, projects, and documents in your Linear workspace. |
+| 2026-10-22 16:52:27 | [io.github.iksnerd/adb-mcp](https://github.com/iksnerd/adb-mcp) | adb-mcp: Android emulator and device co… | 0.24.1 | Drive an Android emulator or device over adb: screenshot, inspect UI, tap, type… |
+| 2026-10-22 16:54:17 | io.github.altss-data/public-profiles | Altss Public Profiles | 1.0.0 | Search and read bounded published Altss profile summaries with canonical citati… |
+| 2026-10-22 16:54:31 | de.lehrerbegleiter/referendariat | Lehrerbegleiter | 1.0.0 | Referendariat und Beihilfe für Lehrkräfte in allen 16 Bundesländern: Fahrplan,… |
+| 2026-10-22 16:58:25 | dev.workers.jbarkules.agent-tools/agent-tools | Agent Tools | 1.0.0 | Pay-per-call agent tools via x402 USDC on Base: email check, PDF text, OCR, web… |
+| 2026-10-22 17:00:42 | app.paramability/mcp | Paramability | 1.0.0 | Links your AI assistant app to the Paramability tab open in Chrome. Runs on you… |
+| 2026-10-22 17:02:51 | com.fynk.app/mcp | fynk MCP Server | 1.0.0 | Draft, find, update and sign contracts in fynk, the European contract managemen… |
+| 2026-10-22 17:03:47 | com.geekwala/dependency-scanner | GeekWala Dependency Scanner | 1.0.0 | Check dependencies for known CVEs with EPSS and CISA KEV context. Read-only; fr… |
+| 2026-10-22 17:06:51 | [io.github.CloudCorpRecords/mcpvet](https://github.com/CloudCorpRecords/mcpvet) |  | 0.1.0 | Pre-install vetting for MCP servers and skills: capabilities, configs, mismatch… |
+| 2026-10-22 17:06:58 | com.luxorplasticcards/plastic-business-cards | Luxor Plastic Cards | 1.0.0 | Quote and order premium 30mil clear, frosted and white plastic business cards,… |
+| 2026-10-22 17:09:18 | [io.github.restspace/sitelooper](https://github.com/restspace/sitelooper) |  | 0.7.0 | Record a browser flow once with a model, then compile it to a Playwright spec t… |
+| 2026-10-22 17:09:59 | [io.github.CalmNguyen/ttsforfree](https://github.com/CalmNguyen/ttsforfree-mcp) | TTSForFree | 1.0.0 | Generate AI voices, text-to-speech, subtitles, transcription, and video localiz… |
+| 2026-10-22 17:11:21 | [com.dipscout/dipscout](https://github.com/czimbr/Ali) |  | 1.0.0 | AliExpress price history in USD and real price drops, verified against our own… |
+| 2026-10-22 17:11:37 | com.calipermoney/money-calculators | Caliper money calculators | 1.0.0 | Net worth percentile by age (Federal Reserve data) and retirement savings calcu… |
+| 2026-10-22 17:12:24 | io.github.akhilrajesh213/kijiji-scraper | Kijiji Scraper & Tracker (listings, pri… | 0.1.5 | Kijiji listings for AI agents: search by keyword, city and category; price drop… |
+| 2026-10-22 17:16:06 | co.barmaan/barmaan | Barmaan | 1.0.0 | Barmaan catalogue: instruments, specs, guides, certificate check, quote requests |
+| 2026-10-22 17:16:23 | com.nanocalcs/calculators | Nanocalcs | 0.2.1 | Exact calculators (loans, dates, units, LLM tokens, API cost, VRAM) + prefilled… |
+| 2026-10-22 17:17:24 | uk.co.fantasyfootballhub/fantasy-football-hub | Fantasy Football Hub | 44d920389458 | Fantasy Premier League predictions, fixture difficulty, team news and your own… |
+| 2026-10-22 17:18:33 | com.mynexusapi/ecuafact | Ecuafact · Facturación electrónica SRI | 1.0.0 | Emite y consulta comprobantes electrónicos del SRI (Ecuador) en tu cuenta de Ec… |
 
 ## Data source
 
