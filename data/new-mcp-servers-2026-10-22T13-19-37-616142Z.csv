@@ -1,0 +1,37 @@
+created_at,server,title,version,repository,transports,description
+2026-10-22T12:19:18.969034Z,online.sasame/research,SaSame GEC Public MCP,1.0.0,https://github.com/shigeki7777/sasame-mcp,streamable-http,SaSame GEC public MCP for discovering OPEN outcome work and supporting evidence.
+2026-10-22T12:21:25.547076Z,io.github.praveenjuge/vadivam,Vadivam Icons,0.0.56,https://github.com/praveenjuge/vadivam,streamable-http,"Search 24px outline icons by name, tag, or category and get SVG or framework code."
+2026-10-22T12:24:01.719317Z,ng.com.xpressflowsystems.www/esim-domains,Xpress Flow Systems,1.2.0,,streamable-http,"No-sign-up eSIMs for 200+ countries, phone-number eSIMs, domains and proxies. You approve payment."
+2026-10-22T12:24:02.969223Z,app.letterly/mcp,Letterly,1.0.0,,streamable-http,"Dictate anywhere with Letterly, then find, rewrite and translate your voice notes in your AI chat"
+2026-10-22T12:26:30.531726Z,com.primessio/mcp,Primessio,1.0.0,,streamable-http,"Primessio (PL/DE/EN): AI implementation, software and marketing knowledge. Read-only."
+2026-10-22T12:29:12.478166Z,io.github.Harflow-Dev/harflow-mcp,,0.0.1,https://github.com/Harflow-Dev/HarflowMCP,,Dispatch coding tasks to local headless agents with persistent history and workflows.
+2026-10-22T12:29:26.473034Z,io.uniplay/uniplay,Uniplay,1.0.0,,streamable-http,"Run a Uniplay Space from your AI assistant: courses, games, members, groups and analytics."
+2026-10-22T12:36:24.015029Z,io.github.bithug01/greenpick,GreenPick,0.1.0,https://github.com/bithug01/greenpick,,"Greener, cheaper cloud infra decisions — carbon + cost + latency tradeoffs, in-editor."
+2026-10-22T12:36:53.905211Z,io.github.clemensschmid1/drivestock,Drivestock,1.0.0,https://github.com/clemensschmid1/industrie-shop,streamable-http,"B2B industrial drives & automation: search parts, prices or on request, quote inquiries."
+2026-10-22T12:37:54.469771Z,io.github.yipihey/scix,SciX / NASA ADS,0.4.1,https://github.com/yipihey/scix-client,,"Search the astronomy and physics literature (SciX / NASA ADS): papers, citations, metrics, BibTeX."
+2026-10-22T12:43:12.17669Z,com.textforagents/in-band-sleeper-sentinel,In-band sleeper sentinel,1.0.2,,streamable-http,In-band MCP sleeper sentinel — mid-session diff and quarantine inside your own client's session.
+2026-10-22T12:43:31.232667Z,com.goeldhub/eldhub,ELD Hub,1.0.0,,streamable-http,"FMCSA-registered ELD for small fleets: pricing, ELD comparisons, Highway check and signup."
+2026-10-22T12:49:25.487807Z,io.github.sepehr071/tsetmc-mcp,TSETMC Tehran Stock Exchange,0.1.0,https://github.com/sepehr071/tsetmc-mcp,,"Unofficial read-only Tehran Stock Exchange (TSETMC): quotes, movers, order book, history, indices."
+2026-10-22T12:49:30.268032Z,io.github.sepehr071/iran-crypto-mcp,Iran Crypto Exchanges,0.1.0,https://github.com/sepehr071/iran-crypto-mcp,,"Unofficial read-only Iranian crypto exchanges: prices in Toman, order books, trades, candles."
+2026-10-22T12:49:48.793757Z,io.github.sepehr071/milligold-mcp,Milli.gold Prices,0.1.0,https://github.com/sepehr071/milligold-mcp,,"Unofficial read-only Milli.gold: live 18k gold price per milligram, history and platform stats."
+2026-10-22T12:51:19.812575Z,ai.saifs/scientific-calculator,Scientific Calculator,1.0.0,,streamable-http,"Exact arithmetic, algebra, calculus, physics, chemistry and finance with a checkable formula."
+2026-10-22T12:51:21.08723Z,ai.saifs/procurement-and-supplier-selection,Procurement & Supplier Selection,1.0.0,,streamable-http,"Choose and rank suppliers, size orders and classify spend from delivery and purchase data."
+2026-10-22T12:51:22.706092Z,ai.saifs/learning-optimizer,Learning Optimizer,1.0.0,,streamable-http,Schedule spaced reviews and exam study plans from each learner's forgetting curve.
+2026-10-22T12:51:24.164346Z,ai.saifs/route-optimizer,Route & Logistics Optimizer,1.0.0,,streamable-http,"Plan vehicle routes, job assignments and load packing from stops, fleet and constraints."
+2026-10-22T12:51:26.462835Z,ai.saifs/assessment-intelligence,Assessment Intelligence,1.0.0,,streamable-http,"Analyse tests for item quality, true ability, reliability and learner mastery."
+2026-10-22T12:51:27.574037Z,ai.saifs/code-execution,Mathematical Code Execution,1.0.0,,streamable-http,"Run sandboxed Python for calculations and PDFs; no other languages, installs or network."
+2026-10-22T12:51:28.727557Z,ai.saifs/collections-optimizer,Collections Optimizer,1.0.0,,streamable-http,Prioritise overdue accounts by recovery uplift and recommend a compliant contact strategy.
+2026-10-22T12:51:29.76257Z,ai.saifs/mastery-pathing,Mastery Pathing,1.0.0,,streamable-http,"Map prerequisites, track mastery and recommend the next topic each learner is ready for."
+2026-10-22T12:52:31.254211Z,io.github.MarcelRoozekrans/longterm-memory,,1.5.0,https://github.com/MarcelRoozekrans/LongtermMemory-MCP,,A fully local MCP server for long-term memory with semantic search
+2026-10-22T12:52:36.109165Z,com.place-check/place-check,Place Check,0.1.0,,streamable-http,"Sourced location reports for Austrian addresses: hazards, noise, transport, zoning, demographics."
+2026-10-22T12:52:54.192659Z,io.github.JialaoLiu/dsh-baton,dsh-baton,0.5.1,https://github.com/JialaoLiu/dsh-baton,,"Hand tasks from Claude Code, Codex or any MCP client to a local DeepSeek Harness."
+2026-10-22T12:53:25.390691Z,com.dataworthai/buyer-directory,DataWorth AI: AI data buyer directory,1.0.0,,streamable-http,Search 33 AI data buyers and check which programs' published rules a company meets. Read-only.
+2026-10-22T12:53:57.729492Z,io.whowhy/whowhy,whowhy,5.248.0,,streamable-http,"An AI recruiter for founders: it finds the people, writes to them, you meet the ones who say yes."
+2026-10-22T13:01:56.84922Z,io.github.writeitai/mountable,Mountable,0.5.1,https://github.com/writeitai/mountable,,Persistent filesystem for AI agents. One shared folder that survives when the sandbox is gone.
+2026-10-22T13:04:01.81732Z,net.genebe/genebe-mcp,GeneBe,0.1.0,https://github.com/genebe-net/genebe-mcp,streamable-http,"Annotate and classify human genetic variants with GeneBe (ACMG, gnomAD, ClinVar). Research use only."
+2026-10-22T13:04:10.269136Z,ai.alwen/alwen,Alwen,0.4.0,,streamable-http,"One memory for every AI you work with: your rules, notes and decisions in your own Git repo."
+2026-10-22T13:08:50.804936Z,com.greencyclepedia/atlas,GreenCycle Compound Atlas,1.1.0,,streamable-http,"Read-only cannabis compound, receptor, anatomy and evidence data, every value sourced."
+2026-10-22T13:11:02.745438Z,io.github.jhtjernsmo/fjord,Fjord,0.2.31,https://github.com/jhtjernsmo/fjord,,"Local kanban boards, markdown notes and Git/GitHub/Azure DevOps work from the Fjord app."
+2026-10-22T13:12:35.229169Z,ai.neuralpartners/sasha,"Sasha, Neural Partners Chief of Staff",1.1.0,,streamable-http,"Ask Neural Partners' Chief of Staff about services, published pricing and booking a conversation."
+2026-10-22T13:16:29.618576Z,io.github.tayyabakhtar62/contentdrifter,Content Drifter,0.2.0,https://github.com/OPTRIXTECH/contentdrifter-mcp,streamable-http,"Write, schedule and publish on-brand social posts to nine networks from your AI assistant."
+2026-10-22T13:19:23.548528Z,com.idlefy/mcp,Idlefy,1.0.0,,streamable-http,Lease AWS and GCP VMs for a set time and let them stop themselves.
