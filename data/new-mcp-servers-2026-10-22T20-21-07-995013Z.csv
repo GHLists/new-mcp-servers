@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-10-22T19:22:08.238244Z,io.github.MangroveTechnologies/mangroveai,MangroveAI,1.0.0,https://github.com/MangroveTechnologies/mangrove-agent,streamable-http,Backtest and paper-trade crypto strategies. Free API key or pay per call in USDC (x402).
+2026-10-22T19:24:25.583299Z,co.youraitools/perpradar,PerpRadar,0.1.0,,streamable-http,"Read-only perp funding, OI and positioning across 4 onchain venues. Not financial advice."
+2026-10-22T19:24:26.286314Z,co.youraitools/tasignal,TASignal,0.1.0,,streamable-http,"Read-only crypto indicators, risk sizing and rule backtests. Not financial advice."
+2026-10-22T19:24:27.018157Z,co.youraitools/agentready,AgentReady,0.1.0,,streamable-http,"Is your website ready for AI agents? 0-100 score, A-F grade and fixes. By Crypto Money Maker"
+2026-10-22T19:30:59.280406Z,co.youraitools/leakguard,LeakGuard,0.1.0,,streamable-http,"Find and redact leaked secrets, wallet keys and PII before an AI agent sends text."
+2026-10-22T19:34:27.599796Z,io.github.nasosal92/df-market-intelligence-mcp,DF Market Intelligence,1.0.0,https://github.com/nasosal92/df-market-intelligence-mcp,,"Insider trades, prediction-market odds, US macro and x402 data. Pays per call in USDC on Base."
+2026-10-22T19:36:00.700664Z,com.oskivo/shopify,Oskivo for Shopify,1.0.0,,streamable-http,"Ask your AI about your Shopify shop: commissions, production, shipping, line sheets, materials."
+2026-10-22T19:36:42.474283Z,io.github.CrowdStrike/falcon-mcp,CrowdStrike Falcon MCP Server,0.20.0,https://github.com/CrowdStrike/falcon-mcp,,Connects AI agents with CrowdStrike Falcon for security analysis and automation.
+2026-10-22T19:37:26.557321Z,io.github.eyeinthesky6/unseen-workflow-compiler,Unseen Workflow Compiler,1.0.0,https://github.com/eyeinthesky6/unseen,streamable-http,"Compile SOPs, policies, and playbooks into source-grounded visual flowcharts (SVG, Mermaid, JSON)."
+2026-10-22T19:39:57.793665Z,com.staysperks/stay-perks,Stay Perks,1.0.0,,streamable-http,"Virtuoso luxury hotels with perks included: search 2,000+, get a quote, book. Pay hotels directly."
+2026-10-22T19:42:35.575632Z,io.github.headlessherm-creator/helpdesk-mender-mcp,,0.1.0,https://github.com/headlessherm-creator/helpdesk-mender-mcp,,"Local MCP server: Zendesk + Freshdesk + Help Scout write tools, one vocabulary."
+2026-10-22T19:46:16.499741Z,live.daydream.gen/music,Daydream,0.1.0,,streamable-http,"Original instrumental songs from words, each with five stems. Royalty-free, for games and videos."
+2026-10-22T19:47:55.238078Z,com.textforagents/instant-settlement-advance,Instant Settlement Advance,1.0.0,,streamable-http,"Paid at landing, not at release: advances against receipt-verified receivables."
+2026-10-22T19:49:50.639688Z,eu.xyzbim/pdm,Consulta PDM (Portugal),1.0.0,,streamable-http,"Portuguese municipal master plans (PDM): land category, buildability, index and floors per plot."
+2026-10-22T19:52:18.446359Z,re.rundata/temps-reel,La Réunion en temps réel,0.1.0,,streamable-http,"Météo mesurée en direct à La Réunion (974) : stations, vent, mer, prévisions AROME."
+2026-10-22T19:52:42.952133Z,com.getcontextloop/contextloop,Contextloop,0.1.0,,streamable-http,"Team metric definitions for data agents. Learns from corrections, tracks SQL answer accuracy."
+2026-10-22T19:56:18.362231Z,health.voa/voa,Voa,0.5.1,,streamable-http,Access Voa patient records and prepare clinical documents for review and confirmed saving.
+2026-10-22T19:58:42.868586Z,io.github.imperalcloud/imperal-mcp,Imperal MCP,0.5.4,https://github.com/imperalcloud/imperal-mcp,,"Build, validate, smoke-test & deploy Imperal declarative IR apps from any LLM or agent."
+2026-10-22T20:01:51.001169Z,io.sylai/pulse,Syl Pulse,0.1.0,https://github.com/connor274/syl-pulse-mcp,streamable-http,"Causal analytics: ask a business question, get a deterministic causal answer and charts."
+2026-10-22T20:03:18.968611Z,com.valumech/robot-prices,Valumech,0.1.0,,streamable-http,"Sourced new prices, specs and modeled used values for humanoids, robot dogs and home robots."
+2026-10-22T20:04:47.381132Z,io.github.AGI-CEO/paladin-php-rescue-mcp,Paladin Front PHP Rescue & Zero-PHP Migration MCP,1.0.0,https://github.com/AGI-CEO/paladin-php-rescue-mcp,streamable-http,PHP2Shell (CVE-2026-109618) scanner and automated WordPress to Zero-PHP Next.js migration.
+2026-10-22T20:06:49.471342Z,com.paladinfront.www/php-rescue-mcp,Paladin Front PHP Rescue & Zero-PHP Migration MCP,1.0.0,https://github.com/AGI-CEO/paladin-php-rescue-mcp,streamable-http,PHP2Shell (CVE-2026-109618) scanner and automated WordPress to Zero-PHP Next.js migration.
+2026-10-22T20:08:46.787282Z,com.audryo/audryo,Audryo,0.2.0,https://github.com/Audryo/agent-toolkit,streamable-http,"Lifecycle email for agents: journeys, campaigns, contacts, consent and delivery health."
+2026-10-22T20:17:13.305561Z,io.usero/usero,Usero,1.28.0,https://github.com/usero-feedback/claude-plugin,streamable-http; streamable-http,"Your user feedback in your agent: read the inbox, build forms, file issues, open an AI PR."
+2026-10-22T20:19:08.557519Z,com.startupmkt/startupmkt,StartupMKT — Startup Discovery & Marketplace,1.0.0,,streamable-http,"Discover startups & AI tools, browse micro-SaaS for sale, and track verified startup funding."
+2026-10-22T20:19:34.817371Z,app.uivoid/uivoid,uivoid,1.0.0,,streamable-http,"Manage uivoid projects, tools, keys, hosted databases and teams from your agent."
