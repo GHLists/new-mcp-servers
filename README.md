@@ -9,50 +9,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 13:19 UTC
+## Latest list — 2026-10-22 14:19 UTC
 
-New MCP servers published between 2026-10-22 12:19 UTC and 2026-10-22 13:19 UTC.
+New MCP servers published between 2026-10-22 13:19 UTC and 2026-10-22 14:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-22T13-19-37-616142Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-22T14-19-30-064085Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-22 12:19:18 | [online.sasame/research](https://github.com/shigeki7777/sasame-mcp) | SaSame GEC Public MCP | 1.0.0 | SaSame GEC public MCP for discovering OPEN outcome work and supporting evidence. |
-| 2026-10-22 12:21:25 | [io.github.praveenjuge/vadivam](https://github.com/praveenjuge/vadivam) | Vadivam Icons | 0.0.56 | Search 24px outline icons by name, tag, or category and get SVG or framework co… |
-| 2026-10-22 12:24:01 | ng.com.xpressflowsystems.www/esim-domains | Xpress Flow Systems | 1.2.0 | No-sign-up eSIMs for 200+ countries, phone-number eSIMs, domains and proxies. Y… |
-| 2026-10-22 12:24:02 | app.letterly/mcp | Letterly | 1.0.0 | Dictate anywhere with Letterly, then find, rewrite and translate your voice not… |
-| 2026-10-22 12:26:30 | com.primessio/mcp | Primessio | 1.0.0 | Primessio (PL/DE/EN): AI implementation, software and marketing knowledge. Read… |
-| 2026-10-22 12:29:12 | [io.github.Harflow-Dev/harflow-mcp](https://github.com/Harflow-Dev/HarflowMCP) |  | 0.0.1 | Dispatch coding tasks to local headless agents with persistent history and work… |
-| 2026-10-22 12:29:26 | io.uniplay/uniplay | Uniplay | 1.0.0 | Run a Uniplay Space from your AI assistant: courses, games, members, groups and… |
-| 2026-10-22 12:36:24 | [io.github.bithug01/greenpick](https://github.com/bithug01/greenpick) | GreenPick | 0.1.0 | Greener, cheaper cloud infra decisions — carbon + cost + latency tradeoffs, in-… |
-| 2026-10-22 12:36:53 | [io.github.clemensschmid1/drivestock](https://github.com/clemensschmid1/industrie-shop) | Drivestock | 1.0.0 | B2B industrial drives & automation: search parts, prices or on request, quote i… |
-| 2026-10-22 12:37:54 | [io.github.yipihey/scix](https://github.com/yipihey/scix-client) | SciX / NASA ADS | 0.4.1 | Search the astronomy and physics literature (SciX / NASA ADS): papers, citation… |
-| 2026-10-22 12:43:12 | com.textforagents/in-band-sleeper-sentinel | In-band sleeper sentinel | 1.0.2 | In-band MCP sleeper sentinel — mid-session diff and quarantine inside your own… |
-| 2026-10-22 12:43:31 | com.goeldhub/eldhub | ELD Hub | 1.0.0 | FMCSA-registered ELD for small fleets: pricing, ELD comparisons, Highway check… |
-| 2026-10-22 12:49:25 | [io.github.sepehr071/tsetmc-mcp](https://github.com/sepehr071/tsetmc-mcp) | TSETMC Tehran Stock Exchange | 0.1.0 | Unofficial read-only Tehran Stock Exchange (TSETMC): quotes, movers, order book… |
-| 2026-10-22 12:49:30 | [io.github.sepehr071/iran-crypto-mcp](https://github.com/sepehr071/iran-crypto-mcp) | Iran Crypto Exchanges | 0.1.0 | Unofficial read-only Iranian crypto exchanges: prices in Toman, order books, tr… |
-| 2026-10-22 12:49:48 | [io.github.sepehr071/milligold-mcp](https://github.com/sepehr071/milligold-mcp) | Milli.gold Prices | 0.1.0 | Unofficial read-only Milli.gold: live 18k gold price per milligram, history and… |
-| 2026-10-22 12:51:19 | ai.saifs/scientific-calculator | Scientific Calculator | 1.0.0 | Exact arithmetic, algebra, calculus, physics, chemistry and finance with a chec… |
-| 2026-10-22 12:51:21 | ai.saifs/procurement-and-supplier-selection | Procurement & Supplier Selection | 1.0.0 | Choose and rank suppliers, size orders and classify spend from delivery and pur… |
-| 2026-10-22 12:51:22 | ai.saifs/learning-optimizer | Learning Optimizer | 1.0.0 | Schedule spaced reviews and exam study plans from each learner's forgetting cur… |
-| 2026-10-22 12:51:24 | ai.saifs/route-optimizer | Route & Logistics Optimizer | 1.0.0 | Plan vehicle routes, job assignments and load packing from stops, fleet and con… |
-| 2026-10-22 12:51:26 | ai.saifs/assessment-intelligence | Assessment Intelligence | 1.0.0 | Analyse tests for item quality, true ability, reliability and learner mastery. |
-| 2026-10-22 12:51:27 | ai.saifs/code-execution | Mathematical Code Execution | 1.0.0 | Run sandboxed Python for calculations and PDFs; no other languages, installs or… |
-| 2026-10-22 12:51:28 | ai.saifs/collections-optimizer | Collections Optimizer | 1.0.0 | Prioritise overdue accounts by recovery uplift and recommend a compliant contac… |
-| 2026-10-22 12:51:29 | ai.saifs/mastery-pathing | Mastery Pathing | 1.0.0 | Map prerequisites, track mastery and recommend the next topic each learner is r… |
-| 2026-10-22 12:52:31 | [io.github.MarcelRoozekrans/longterm-memory](https://github.com/MarcelRoozekrans/LongtermMemory-MCP) |  | 1.5.0 | A fully local MCP server for long-term memory with semantic search |
-| 2026-10-22 12:52:36 | com.place-check/place-check | Place Check | 0.1.0 | Sourced location reports for Austrian addresses: hazards, noise, transport, zon… |
-| 2026-10-22 12:52:54 | [io.github.JialaoLiu/dsh-baton](https://github.com/JialaoLiu/dsh-baton) | dsh-baton | 0.5.1 | Hand tasks from Claude Code, Codex or any MCP client to a local DeepSeek Harnes… |
-| 2026-10-22 12:53:25 | com.dataworthai/buyer-directory | DataWorth AI: AI data buyer directory | 1.0.0 | Search 33 AI data buyers and check which programs' published rules a company me… |
-| 2026-10-22 12:53:57 | io.whowhy/whowhy | whowhy | 5.248.0 | An AI recruiter for founders: it finds the people, writes to them, you meet the… |
-| 2026-10-22 13:01:56 | [io.github.writeitai/mountable](https://github.com/writeitai/mountable) | Mountable | 0.5.1 | Persistent filesystem for AI agents. One shared folder that survives when the s… |
-| 2026-10-22 13:04:01 | [net.genebe/genebe-mcp](https://github.com/genebe-net/genebe-mcp) | GeneBe | 0.1.0 | Annotate and classify human genetic variants with GeneBe (ACMG, gnomAD, ClinVar… |
-| 2026-10-22 13:04:10 | ai.alwen/alwen | Alwen | 0.4.0 | One memory for every AI you work with: your rules, notes and decisions in your… |
-| 2026-10-22 13:08:50 | com.greencyclepedia/atlas | GreenCycle Compound Atlas | 1.1.0 | Read-only cannabis compound, receptor, anatomy and evidence data, every value s… |
-| 2026-10-22 13:11:02 | [io.github.jhtjernsmo/fjord](https://github.com/jhtjernsmo/fjord) | Fjord | 0.2.31 | Local kanban boards, markdown notes and Git/GitHub/Azure DevOps work from the F… |
-| 2026-10-22 13:12:35 | ai.neuralpartners/sasha | Sasha, Neural Partners Chief of Staff | 1.1.0 | Ask Neural Partners' Chief of Staff about services, published pricing and booki… |
-| 2026-10-22 13:16:29 | [io.github.tayyabakhtar62/contentdrifter](https://github.com/OPTRIXTECH/contentdrifter-mcp) | Content Drifter | 0.2.0 | Write, schedule and publish on-brand social posts to nine networks from your AI… |
-| 2026-10-22 13:19:23 | com.idlefy/mcp | Idlefy | 1.0.0 | Lease AWS and GCP VMs for a set time and let them stop themselves. |
+| 2026-10-22 13:23:45 | [com.savewellnow/care](https://github.com/SaveWell/consumer-interface) | SaveWell | 1.0.0 | Original Medicare: surgery-center vs. hospital costs, Medigap rewards, and spec… |
+| 2026-10-22 13:23:45 | [io.github.cyuanxv/openrouter-analytics-mcp](https://github.com/cyuanxv/openrouter-analytics-mcp) | OpenRouter 工作台 Local | 0.6.0-alpha.1 | Local OpenRouter cost analytics, reports, experiments and routing presets over… |
+| 2026-10-22 13:23:55 | co.youraitools/signcheck | SignCheck | 0.2.0 | Pre-sign safety check for agent wallets: tx, EIP-712, EIP-7702, x402. By Crypto… |
+| 2026-10-22 13:24:29 | io.github.Nero-Engine/rss-feed-reader | RSS Feed Reader | 0.1.0 | New items from many RSS, Atom and JSON feeds or websites, with only-new mode an… |
+| 2026-10-22 13:25:05 | ai.discoveria/discoveria | DiscoverIA | 0.1.0 | Read-only registry of AI-assisted scientific claims and where their evaluation… |
+| 2026-10-22 13:27:27 | io.github.AZERIA-IT/pluia | PLU IA | 1.0.0 | French zoning (PLU) for any address or parcel in France, rules cited with the o… |
+| 2026-10-22 13:28:03 | io.github.cyuanxv/feishu-mcp-standalone | Feishu MCP Self-hosted | 0.1.0-local.3 | Single-owner Feishu MCP: run your own service, configure your app, authorize yo… |
+| 2026-10-22 13:28:21 | [io.github.cyuanxv/telegram-bot-mcp-server](https://github.com/cyuanxv/telegram-bot-mcp-server) | Telegram Bot MCP Server | 1.0.0 | Self-hosted Telegram Bot MCP server for rich text, media and interactive button… |
+| 2026-10-22 13:30:00 | co.youraitools/tokenverdict | TokenVerdict | 0.1.0 | Base token safety check: simulated buy/transfer/sell, owner powers, liquidity.… |
+| 2026-10-22 13:31:47 | com.torrentswap/swap | TorrentSwap | 1.1.0 | No-account cross-chain crypto swaps (BTC, ETH, SOL, USDT, ZEC…) for AI agents.… |
+| 2026-10-22 13:33:09 | [io.boundra/boundra](https://github.com/gobeyondfj-cmd/boundra) | Boundra — Payment Approval Gateway for… | 0.1.1 | Allow, ask, or veto — a policy decision point your agent consults before signin… |
+| 2026-10-22 13:36:04 | com.kushbitx/agentproof | KushBitx AgentProof | 1.0.0 | Safety checks for AI agents paying on Base: free SpendGuard, paid x402 token ri… |
+| 2026-10-22 13:42:01 | [io.github.cypher-osiris/lumi-trades-mcp](https://github.com/cypher-osiris/lumi-api) | Lumi Trades | 0.1.0 | Crypto signals, levels, market brief, sentiment and events for AI agents. Pay p… |
+| 2026-10-22 13:42:56 | me.onmax/card-mailer | Card Mailer | 1.0.0 | Print and mail 5x7 holiday and thank-you photo cards to a US address list. $2.4… |
+| 2026-10-22 13:47:08 | com.noeixodigital/radar | Radar noEixo | 1.0.0 | Radar noEixo: WhatsApp sales and support with an AI agent, CRM pipeline and pos… |
+| 2026-10-22 13:48:19 | com.multifate/mcp | Multifate chart calculator | 1.0.0 | Zi Wei Dou Shu and Da Liu Ren chart calculators by Multifate: exact palaces, st… |
+| 2026-10-22 13:51:11 | [com.mambabuilt/mcp-local-rank-map-pack-tracker](https://github.com/mambalabsdev/mcp-local-rank-map-pack-tracker) |  | 1.0.0 | Google organic, map pack, and local finder positions per keyword and location. |
+| 2026-10-22 13:51:15 | [com.mambabuilt/mcp-company-headcount-estimator](https://github.com/mambalabsdev/mcp-company-headcount-estimator) |  | 1.0.0 | Employee count band for a company domain, with source and confidence. No Linked… |
+| 2026-10-22 13:51:21 | [io.github.cyuanxv/datafinder-mcp](https://github.com/cyuanxv/datafinder-mcp) | DataFinder MCP | 0.2.0 | DataFinder analytics with 52 tools, metric dictionaries, persistent jobs and co… |
+| 2026-10-22 13:51:25 | [com.mambabuilt/mcp-person-linkedin-url-resolver](https://github.com/mambalabsdev/mcp-person-linkedin-url-resolver) |  | 1.0.0 | Find a person's LinkedIn profile URL from name and company, with a match confid… |
+| 2026-10-22 13:51:30 | [com.mambabuilt/mcp-personal-email-to-company-resolver](https://github.com/mambalabsdev/mcp-personal-email-to-company-resolver) |  | 1.0.0 | Find the likely employer behind a Gmail or other free mail signup, with a confi… |
+| 2026-10-22 13:51:35 | [com.mambabuilt/mcp-partner-member-directory-extractor](https://github.com/mambalabsdev/mcp-partner-member-directory-extractor) |  | 1.0.0 | One company row per listing from partner directories and member lists, with dom… |
+| 2026-10-22 13:56:36 | dev.workers.shopttyass-85f.upgrade-brief/upgrade-brief | Upgrade Brief | 0.3.0 | Breaking changes and changelogs between two npm or PyPI package versions, from… |
+| 2026-10-22 13:56:47 | com.delcoplumbernow/plumber | Delco Plumber Now | 1.0.0 | Get a Delaware County, PA plumber now: instant price range, coverage, call/text… |
+| 2026-10-22 13:56:52 | com.crimemetric/crime-index | CrimeMetric | 1.0.0 | Modeled crime rates per resident for U.S. addresses: 16 crime types vs the U.S.… |
+| 2026-10-22 14:03:44 | [ai.chucho/chucho](https://github.com/chucho-ai/agent) | chucho — Book Direct | 1.0.0 | Find vacation rentals worldwide by describing the trip, check host prices and b… |
+| 2026-10-22 14:05:02 | one.kalpana/batch | Kalpana Batch | 1.0.0 | Fill templates from product data and render banners, ads and listing images in… |
+| 2026-10-22 14:05:05 | one.kalpana/designer | Kalpana Designer | 1.0.0 | Design editable social, banner and ad templates from a brief, checked by render… |
+| 2026-10-22 14:05:10 | com.atkvn/security-checks | ATK Security Checks | 0.1.0 | Post-quantum TLS and certificate checks, plus a Wazuh audit for rules that pass… |
+| 2026-10-22 14:08:37 | app.weeklane/weeklane | Weeklane | 1.0.0 | Plan your week in the Weeklane planner: tasks, repeating tasks, reminders, Task… |
+| 2026-10-22 14:10:26 | com.johtodata/johto-data | Johto Data | 1.0.0 | Johto Data: pay-per-call company, compliance and filings data via x402. Free sa… |
+| 2026-10-22 14:12:30 | io.corpusiq/multi-source-mcp | CorpusIQ | 1.0.1 | One governed MCP endpoint for 30+ business systems. Read-only, source-cited ans… |
+| 2026-10-22 14:13:57 | [io.github.AjnasNB/skilldash](https://github.com/AjnasNB/skill-dash) | SkillDash | 0.5.1 | Search and inspect source-pinned agent skills, plugins and tools through a free… |
+| 2026-10-22 14:19:10 | [dev.tabhand/tabhand](https://github.com/tabhand/tabhand) | Tabhand | 0.10.1 | Let your coding agents use your real, signed-in Chrome, in background tabs that… |
 
 ## Data source
 
