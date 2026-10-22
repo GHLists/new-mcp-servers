@@ -1,0 +1,102 @@
+created_at,server,title,version,repository,transports,description
+2026-10-22T03:20:38.361717Z,ai.qovia/qovia,Qovia,0.1.0,,streamable-http,"Public data from Douyin, Xiaohongshu, Bilibili, Weibo, TikTok and 20+ platforms as unified JSON"
+2026-10-22T03:22:34.816265Z,io.github.leaderiop/specforge,SpecForge,0.1.0-rc1,https://github.com/leaderiop/SpecForge,,"Turn your team's rules into checks your AI agent can't skip. Deterministic, no AI inside."
+2026-10-22T03:27:11.921118Z,com.textforagents/default-watch-pinning,Default-watch and pinning service,1.0.1,,streamable-http,"Watches platforms for silent default-model changes, with signed attestations and session gating."
+2026-10-22T03:27:42.492484Z,ai.salescloser/salescloser,SalesCloser,1.0.0,,streamable-http,"Manage SalesCloser AI sales agents, leads, campaigns and calls from your AI assistant."
+2026-10-22T03:31:37.653206Z,io.github.jabbertones-cloud/fedwatch-mcp,FedWatch — Federal Funding & Lien Watcher,1.0.0,,streamable-http,"Watches US federal contract and grant opportunities (SAM.gov, Grants.gov) and reports what changed."
+2026-10-22T03:34:04.424619Z,me.bekkevard/focus,Focus,0.1.0,,streamable-http,"Blocks distractions on your Mac, PC, Chrome and iPhone to match what you told your agent."
+2026-10-22T03:41:26.758501Z,com.smartpress/mcp,Smartpress,0.1.0,,streamable-http,"Configure, price, proof and add custom print products to a Smartpress cart. US printing, no login."
+2026-10-22T03:42:45.145133Z,com.textforagents/dataset-listing-granularity-audit,Dataset-listing granularity audit,1.0.0,,streamable-http,"Per-dataset granularity verdicts keyed to the dataset's own manifest hash, before you pay."
+2026-10-22T03:43:10.566104Z,io.github.takaratomita/mcp-tools,Japan Public Data (法人番号・登録支援機関・官公需入札),0.1.0,https://github.com/takaratomita/mcp-tools,streamable-http,"Japan public data: corporate numbers, registered support organizations, government bid notices."
+2026-10-22T03:44:18.734179Z,io.github.mattmacrocket/homeroom,Homeroom,0.1.0-dev,,streamable-http,Homeschool planning with private child selection and parent-reviewed curriculum and record drafts.
+2026-10-22T03:44:57.67961Z,com.textforagents/scheduled-agent-outcome-verification,Outcome-verified watchdog for scheduled agents,1.0.0,,streamable-http,Watchdog that verifies scheduled agents' artifacts itself — never the claim.
+2026-10-22T03:45:13.157494Z,ai.memocore/mcp,Memocore,1.0.1,https://github.com/ANLTD/memocore-mcp,streamable-http,"Cloud memory for AI agents and teams — save, search, recall."
+2026-10-22T03:47:31.860908Z,org.biketherail/trails,BikeTheRail,1.0.0,,streamable-http,"Look up U.S. rail-trails: search, nearby trails, trail facts, trailheads and closures."
+2026-10-22T03:47:34.170596Z,io.github.pipeworx-io/enforcement-actions,Enforcement Actions,0.1.3,https://github.com/pipeworx-io/mcp-enforcement-actions,streamable-http,US federal enforcement actions MCP. Keyless.
+2026-10-22T03:47:44.92187Z,io.github.pipeworx-io/ens,Ens,0.1.3,https://github.com/pipeworx-io/mcp-ens,streamable-http,ENS (Ethereum Name Service) MCP.
+2026-10-22T03:47:55.942377Z,io.github.pipeworx-io/ensembl,Ensembl,0.1.3,https://github.com/pipeworx-io/mcp-ensembl,streamable-http,Ensembl REST MCP.
+2026-10-22T03:48:06.984785Z,io.github.pipeworx-io/entertainment-feeds,Entertainment Feeds,0.1.3,https://github.com/pipeworx-io/mcp-entertainment-feeds,streamable-http,Entertainment Feeds MCP.
+2026-10-22T03:48:17.899541Z,io.github.pipeworx-io/entreprises-fr,Entreprises Fr,0.1.3,https://github.com/pipeworx-io/mcp-entreprises-fr,streamable-http,French Companies MCP — recherche-entreprises.api.gouv.fr
+2026-10-22T03:48:29.185836Z,io.github.pipeworx-io/entso-e,Entso E,0.1.3,https://github.com/pipeworx-io/mcp-entso-e,streamable-http,ENTSO-E Transparency Platform MCP
+2026-10-22T03:48:40.214185Z,io.github.pipeworx-io/entur,Entur,0.1.3,https://github.com/pipeworx-io/mcp-entur,streamable-http,"Entur MCP — Norway public transport, nationwide, all modes (developer.entur.org)"
+2026-10-22T03:48:51.758214Z,io.github.pipeworx-io/eodhd,Eodhd,0.1.3,https://github.com/pipeworx-io/mcp-eodhd,streamable-http,EODHD MCP — wraps EOD Historical Data (eodhd.com)
+2026-10-22T03:49:03.03911Z,io.github.pipeworx-io/eol,Eol,0.1.3,https://github.com/pipeworx-io/mcp-eol,streamable-http,Encyclopedia of Life (EOL) MCP
+2026-10-22T03:49:14.330961Z,io.github.pipeworx-io/epa-aqs,Epa Aqs,0.1.2,https://github.com/pipeworx-io/mcp-epa-aqs,streamable-http,"EPA AQS MCP — the Air Quality System, EPA's regulatory-grade air monitoring archive"
+2026-10-22T03:49:25.241407Z,io.github.pipeworx-io/epa-echo,Epa Echo,0.1.3,https://github.com/pipeworx-io/mcp-epa-echo,streamable-http,"EPA ECHO MCP — wraps EPA ECHO Web Services (free, no auth)"
+2026-10-22T03:49:36.163809Z,io.github.pipeworx-io/epa-emissions,Epa Emissions,0.1.3,https://github.com/pipeworx-io/mcp-epa-emissions,streamable-http,"EPA Emissions MCP — wraps EPA Envirofacts REST API (free, no auth)"
+2026-10-22T03:49:47.176302Z,io.github.pipeworx-io/epa-envirofacts,Epa Envirofacts,0.1.3,https://github.com/pipeworx-io/mcp-epa-envirofacts,streamable-http,US EPA Envirofacts MCP.
+2026-10-22T03:50:20.032264Z,io.github.pipeworx-io/epss,Epss,0.1.3,https://github.com/pipeworx-io/mcp-epss,streamable-http,FIRST.org EPSS (Exploit Prediction Scoring System) MCP.
+2026-10-22T03:50:31.645702Z,io.github.pipeworx-io/epstein,Epstein,0.1.3,https://github.com/pipeworx-io/mcp-epstein,streamable-http,"The Epstein investigation document corpus — the documents themselves, plus (phase 2) Epstein's own…"
+2026-10-22T03:50:43.852228Z,io.github.pipeworx-io/esa-gaia,Esa Gaia,0.1.2,https://github.com/pipeworx-io/mcp-esa-gaia,streamable-http,"ESA Gaia MCP — the Gaia star catalogue, queried over the ESA TAP service."
+2026-10-22T03:50:44.272892Z,io.github.pooriaarab/auctionfinder,,1.0.0,https://github.com/pooriaarab/directory,streamable-http,"Auction houses, online auctions and government surplus."
+2026-10-22T03:51:06.274851Z,io.github.pipeworx-io/esma-firds,Esma Firds,0.1.2,https://github.com/pipeworx-io/mcp-esma-firds,streamable-http,ESMA FIRDS + MiFID authorisation register — the EU's Financial Instruments Reference Data System…
+2026-10-22T03:51:28.816194Z,io.github.pipeworx-io/estatesales-net,Estatesales Net,0.1.3,https://github.com/pipeworx-io/mcp-estatesales-net,streamable-http,"EstateSales.NET MCP — upcoming estate sales, by ZIP"
+2026-10-22T03:52:31.902581Z,io.github.pipeworx-io/eu-ctis,Eu Ctis,0.1.3,https://github.com/pipeworx-io/mcp-eu-ctis,streamable-http,"EU CTIS MCP — the Clinical Trials Information System, the EU's public register of clinical trials…"
+2026-10-22T03:52:43.020382Z,io.github.pipeworx-io/eu-funding-tenders,Eu Funding Tenders,0.1.3,https://github.com/pipeworx-io/mcp-eu-funding-tenders,streamable-http,EU Funding & Tenders Portal (SEDIA search API) MCP.
+2026-10-22T03:52:53.735083Z,io.github.pipeworx-io/eu-parliament,Eu Parliament,0.1.3,https://github.com/pipeworx-io/mcp-eu-parliament,streamable-http,European Parliament Open Data MCP.
+2026-10-22T03:53:04.735588Z,io.github.pipeworx-io/eur-lex,Eur Lex,0.1.3,https://github.com/pipeworx-io/mcp-eur-lex,streamable-http,"EUR-Lex MCP — official EU law, article-level."
+2026-10-22T03:53:15.530912Z,io.github.pipeworx-io/europeana,Europeana,0.1.4,https://github.com/pipeworx-io/mcp-europeana,streamable-http,Europeana MCP.
+2026-10-22T03:53:26.463541Z,io.github.pipeworx-io/europepmc,Europepmc,0.1.3,https://github.com/pipeworx-io/mcp-europepmc,streamable-http,Europe PMC MCP — biomedical literature.
+2026-10-22T03:53:38.923506Z,io.github.pipeworx-io/eurostat,Eurostat,0.1.3,https://github.com/pipeworx-io/mcp-eurostat,streamable-http,Eurostat MCP — wraps Eurostat Statistical Data API (no auth required)
+2026-10-22T03:54:00.471179Z,io.github.pipeworx-io/exa,Exa,0.1.3,https://github.com/pipeworx-io/mcp-exa,streamable-http,Exa MCP — neural/semantic web search + content retrieval (exa.ai)
+2026-10-22T03:54:12.002524Z,io.github.pipeworx-io/exchange,Exchange,0.1.3,https://github.com/pipeworx-io/mcp-exchange,streamable-http,"Exchange MCP — wraps the Frankfurter currency exchange API (free, no auth)"
+2026-10-22T03:54:22.547185Z,io.github.pipeworx-io/exchangerate,Exchangerate,1.0.3,https://github.com/pipeworx-io/mcp-exchangerate,streamable-http,"ExchangeRate MCP — wraps open.er-api.com (free, no auth)"
+2026-10-22T03:54:33.819403Z,io.github.pipeworx-io/excuse,Excuse,0.1.4,https://github.com/pipeworx-io/mcp-excuse,streamable-http,excuse MCP — wraps StupidAPIs (keyless — no credential needed)
+2026-10-22T03:54:56.052741Z,io.github.pipeworx-io/expression-atlas,Expression Atlas,0.1.3,https://github.com/pipeworx-io/mcp-expression-atlas,streamable-http,EBI Expression Atlas MCP.
+2026-10-22T03:55:04.584032Z,com.softperceptron/mcp,SoftPerceptron,1.0.1,,streamable-http,"AI model/agent directory with pricing and comparisons, plus GPU VRAM fit and tokens/sec estimates."
+2026-10-22T03:55:07.796842Z,io.github.pipeworx-io/f1,F1,0.1.3,https://github.com/pipeworx-io/mcp-f1,streamable-http,F1 MCP — Formula 1 data via the Ergast API
+2026-10-22T03:55:30.963492Z,io.github.pipeworx-io/faa-delays,Faa Delays,0.1.3,https://github.com/pipeworx-io/mcp-faa-delays,streamable-http,"FAA Delays MCP — live US airport operational status (FAA, free, no auth)."
+2026-10-22T03:55:52.957414Z,io.github.pipeworx-io/facebook_ads,Facebook_ads,0.1.3,https://github.com/pipeworx-io/mcp-facebook_ads,streamable-http,Facebook Ads MCP Pack
+2026-10-22T03:56:09.230789Z,io.github.pipeworx-io/faostat,Faostat,0.1.2,https://github.com/pipeworx-io/mcp-faostat,streamable-http,FAOSTAT MCP — the UN Food and Agriculture Organization's statistics service.
+2026-10-22T03:56:20.185811Z,io.github.pipeworx-io/fara,Fara,0.1.3,https://github.com/pipeworx-io/mcp-fara,streamable-http,FARA (Foreign Agents Registration Act) MCP.
+2026-10-22T03:56:42.49126Z,io.github.pipeworx-io/fbi-artcrimes,Fbi Artcrimes,0.1.4,https://github.com/pipeworx-io/mcp-fbi-artcrimes,streamable-http,"FBI Art Crimes MCP — FBI National Stolen Art File (free, no auth)."
+2026-10-22T03:56:53.295226Z,io.github.pipeworx-io/fbi-crime,Fbi Crime,0.1.3,https://github.com/pipeworx-io/mcp-fbi-crime,streamable-http,FBI Crime Data Explorer MCP — UCR/NIBRS statistics
+2026-10-22T03:57:04.401872Z,io.github.pipeworx-io/fbi-wanted,Fbi Wanted,0.1.3,https://github.com/pipeworx-io/mcp-fbi-wanted,streamable-http,FBI Wanted MCP.
+2026-10-22T03:57:15.318415Z,io.github.pipeworx-io/fca-register,Fca Register,0.1.2,https://github.com/pipeworx-io/mcp-fca-register,streamable-http,FCA Financial Services Register MCP — the UK Financial Conduct Authority's public register of…
+2026-10-22T03:57:26.221339Z,io.github.pipeworx-io/fca-shorts,Fca Shorts,0.1.2,https://github.com/pipeworx-io/mcp-fca-shorts,streamable-http,FCA UK short-position disclosures — the Financial Conduct Authority (fca.org.uk) publishes a daily…
+2026-10-22T03:57:36.963066Z,io.github.pipeworx-io/fcc,Fcc,0.1.3,https://github.com/pipeworx-io/mcp-fcc,streamable-http,FCC public geo/census APIs (geo.fcc.gov) MCP.
+2026-10-22T03:57:47.754041Z,io.github.pipeworx-io/fcc-ecfs,Fcc Ecfs,0.1.6,https://github.com/pipeworx-io/mcp-fcc-ecfs,streamable-http,FCC Electronic Comment Filing System public search and retrieval.
+2026-10-22T03:57:59.208286Z,io.github.pipeworx-io/fda-devices,Fda Devices,0.1.8,https://github.com/pipeworx-io/mcp-fda-devices,streamable-http,FDA medical-device regulatory intelligence from keyless openFDA datasets.
+2026-10-22T03:58:22.488799Z,io.github.pipeworx-io/fed-comms,Fed Comms,0.1.3,https://github.com/pipeworx-io/mcp-fed-comms,streamable-http,"Federal Reserve communications from federalreserve.gov: the FOMC meeting calendar, each policy…"
+2026-10-22T03:58:33.723178Z,io.github.pipeworx-io/fed-nic,Fed Nic,0.1.2,https://github.com/pipeworx-io/mcp-fed-nic,streamable-http,"Federal Reserve National Information Center (NIC, ffiec.gov/npw)"
+2026-10-22T03:59:32.161386Z,io.github.pipeworx-io/fema-nfhl,Fema Nfhl,0.1.2,https://github.com/pipeworx-io/mcp-fema-nfhl,streamable-http,FEMA National Flood Hazard Layer (NFHL) MCP
+2026-10-22T03:59:44.915219Z,io.github.pipeworx-io/feodotracker,Feodotracker,0.1.3,https://github.com/pipeworx-io/mcp-feodotracker,streamable-http,Feodo Tracker MCP — botnet C&C IP blocklist from abuse.ch.
+2026-10-22T03:59:57.078961Z,io.github.pipeworx-io/ferc-elibrary,Ferc Elibrary,0.1.3,https://github.com/pipeworx-io/mcp-ferc-elibrary,streamable-http,FERC eLibrary MCP — the Federal Energy Regulatory Commission's public docket and document search…
+2026-10-22T04:00:08.355371Z,io.github.pipeworx-io/ferc-eqr,Ferc Eqr,0.1.2,https://github.com/pipeworx-io/mcp-ferc-eqr,streamable-http,"FERC Electric Quarterly Reports (EQR) — wholesale power sales: who sells to whom, under what…"
+2026-10-22T04:00:20.815082Z,io.github.pipeworx-io/ffiec-call-reports,Ffiec Call Reports,0.1.3,https://github.com/pipeworx-io/mcp-ffiec-call-reports,streamable-http,FFIEC Call Reports MCP — US bank line-item detail (fleet #338).
+2026-10-22T04:00:33.2912Z,io.github.pipeworx-io/figma,Figma,0.1.3,https://github.com/pipeworx-io/mcp-figma,streamable-http,Figma MCP Pack
+2026-10-22T04:00:44.697023Z,io.github.pipeworx-io/figshare,Figshare,0.1.3,https://github.com/pipeworx-io/mcp-figshare,streamable-http,Figshare MCP.
+2026-10-22T04:00:55.371711Z,io.github.pipeworx-io/finance-feeds,Finance Feeds,0.1.4,https://github.com/pipeworx-io/mcp-finance-feeds,streamable-http,Finance Feeds MCP.
+2026-10-22T04:01:06.212136Z,io.github.pipeworx-io/financial-datasets,Financial Datasets,0.1.3,https://github.com/pipeworx-io/mcp-financial-datasets,streamable-http,Financial Datasets AI MCP — wraps financialdatasets.ai
+2026-10-22T04:01:18.694565Z,io.github.pipeworx-io/findymail,Findymail,0.1.3,https://github.com/pipeworx-io/mcp-findymail,streamable-http,Findymail MCP — B2B email finder & reverse-email lookup (findymail.com)
+2026-10-22T04:01:40.837351Z,io.github.pipeworx-io/finra,Finra,0.1.3,https://github.com/pipeworx-io/mcp-finra,streamable-http,FINRA short-sale data — Reg SHO daily short-sale VOLUME plus consolidated bi-monthly SHORT INTEREST.
+2026-10-22T04:01:52.70731Z,io.github.pipeworx-io/finra-fixed-income,Finra Fixed Income,0.1.3,https://github.com/pipeworx-io/mcp-finra-fixed-income,streamable-http,FINRA Fixed Income aggregate market data (fleet #530).
+2026-10-22T04:02:03.646767Z,io.github.pipeworx-io/firecrawl,Firecrawl,0.1.3,https://github.com/pipeworx-io/mcp-firecrawl,streamable-http,Firecrawl MCP — wraps the Firecrawl API (firecrawl.dev) for web scraping / crawling / search…
+2026-10-22T04:02:25.554291Z,io.github.pipeworx-io/flashalpha,Flashalpha,0.1.3,https://github.com/pipeworx-io/mcp-flashalpha,streamable-http,FlashAlpha MCP — wraps the FlashAlpha options-exposure analytics API (lab.flashalpha.com).
+2026-10-22T04:02:36.199343Z,io.github.pipeworx-io/flickr-public,Flickr Public,0.1.3,https://github.com/pipeworx-io/mcp-flickr-public,streamable-http,Flickr public feeds MCP — keyless slice of the Flickr API.
+2026-10-22T04:02:47.105411Z,io.github.pipeworx-io/flightaware,Flightaware,0.1.3,https://github.com/pipeworx-io/mcp-flightaware,streamable-http,FlightAware MCP — wraps FlightAware AeroAPI v4 (aeroapi.flightaware.com)
+2026-10-22T04:02:57.996968Z,io.github.pipeworx-io/flights,Flights,1.0.3,https://github.com/pipeworx-io/mcp-flights,streamable-http,Flights MCP — live aircraft tracking + aircraft/route registry
+2026-10-22T04:03:08.637308Z,io.github.pipeworx-io/flightstats,Flightstats,0.1.3,https://github.com/pipeworx-io/mcp-flightstats,streamable-http,FlightStats MCP — wraps the Cirium FlightStats Flex API (api.flightstats.com/flex)
+2026-10-22T04:03:19.989255Z,io.github.pipeworx-io/flood,Flood,1.0.3,https://github.com/pipeworx-io/mcp-flood,streamable-http,"Flood MCP — wraps Open-Meteo Flood API (free, no auth)"
+2026-10-22T04:03:31.837607Z,io.github.pipeworx-io/florida-code,Florida Code,0.1.3,https://github.com/pipeworx-io/mcp-florida-code,streamable-http,Florida Statutes — state statutes by citation.
+2026-10-22T04:03:43.330597Z,io.github.pipeworx-io/fmcsa,Fmcsa,0.1.3,https://github.com/pipeworx-io/mcp-fmcsa,streamable-http,FMCSA MCP — US motor-carrier (trucking/bus) registry & safety.
+2026-10-22T04:03:56.862299Z,io.github.pipeworx-io/fmi,Fmi,0.1.3,https://github.com/pipeworx-io/mcp-fmi,streamable-http,FMI MCP — Finnish Meteorological Institute open WFS.
+2026-10-22T04:04:10.23614Z,io.github.pipeworx-io/fmp,Fmp,0.1.3,https://github.com/pipeworx-io/mcp-fmp,streamable-http,Financial Modeling Prep MCP (/stable API; v3 deprecated 2025-08-31).
+2026-10-22T04:04:24.552739Z,io.github.pipeworx-io/folketinget-dk,Folketinget Dk,0.1.3,https://github.com/pipeworx-io/mcp-folketinget-dk,streamable-http,"Danish Parliament (Folketinget) open data MCP — oda.ft.dk, an OData v3 API."
+2026-10-22T04:04:38.850688Z,io.github.pipeworx-io/food-feeds,Food Feeds,0.1.3,https://github.com/pipeworx-io/mcp-food-feeds,streamable-http,Food Feeds MCP.
+2026-10-22T04:04:52.122417Z,io.github.pipeworx-io/foodish,Foodish,0.1.3,https://github.com/pipeworx-io/mcp-foodish,streamable-http,Foodish MCP.
+2026-10-22T04:06:06.639968Z,io.github.pipeworx-io/foursquare,Foursquare,0.1.3,https://github.com/pipeworx-io/mcp-foursquare,streamable-http,Foursquare Places MCP — migrated to the 2025 Places API
+2026-10-22T04:06:36.338219Z,io.github.pipeworx-io/france-boamp,France Boamp,0.1.3,https://github.com/pipeworx-io/mcp-france-boamp,streamable-http,France BOAMP MCP — French government public procurement notices (keyless).
+2026-10-22T04:06:51.958627Z,io.github.pipeworx-io/cipo,Cipo,0.1.0,https://github.com/pipeworx-io/mcp-cipo,streamable-http,CIPO MCP — Canadian Patents Database
+2026-10-22T04:07:49.89877Z,io.github.pipeworx-io/creative-constraints,Creative Constraints,0.1.0,https://github.com/pipeworx-io/mcp-creative-constraints,streamable-http,"creative-constraints — an original deck of 162 domain-neutral creative constraints, drawn by…"
+2026-10-22T04:08:40.980913Z,io.github.pipeworx-io/dice-roller,Dice Roller,0.1.0,https://github.com/pipeworx-io/mcp-dice-roller,streamable-http,"dice-roller — tabletop dice, coin flips and exact dice odds on the Pipeworx chance engine…"
+2026-10-22T04:09:31.034113Z,io.github.pipeworx-io/fr-judilibre,Fr Judilibre,0.1.0,https://github.com/pipeworx-io/mcp-fr-judilibre,streamable-http,"French court decisions (Cour de cassation and the judicial courts under it) — search, read a…"
+2026-10-22T04:10:22.254709Z,io.github.pipeworx-io/hcup-inpatient-stats,Hcup Inpatient Stats,0.1.0,https://github.com/pipeworx-io/mcp-hcup-inpatient-stats,streamable-http,"HCUP Inpatient Stats — national hospitalization discharges, costs and outcomes by condition and…"
+2026-10-22T04:11:14.299469Z,io.github.pipeworx-io/i-ching,I Ching,0.1.0,https://github.com/pipeworx-io/mcp-i-ching,streamable-http,"i-ching — cast the I Ching with coins or yarrow stalks, and look up any of the 64 hexagrams (King…"
+2026-10-22T04:11:23.110032Z,io.github.CloudCorpRecords/actionpin,,0.1.0,https://github.com/CloudCorpRecords/actionpin,,GitHub Actions supply-chain hardener: audit workflows for unpinned actions and build a SHA pin plan.
+2026-10-22T04:12:03.770927Z,io.github.pipeworx-io/il-medical-exclusions,Il Medical Exclusions,0.1.0,https://github.com/pipeworx-io/mcp-il-medical-exclusions,streamable-http,Illinois Medicaid provider sanctions screening: the Illinois Department of Healthcare and Family…
+2026-10-22T04:12:53.539179Z,io.github.pipeworx-io/it-admin-courts,It Admin Courts,0.1.0,https://github.com/pipeworx-io/mcp-it-admin-courts,streamable-http,Italian administrative courts MCP -- search and read the published rulings of the Consiglio di…
+2026-10-22T04:13:44.06669Z,io.github.pipeworx-io/kr-equities,Kr Equities,0.1.0,https://github.com/pipeworx-io/mcp-kr-equities,streamable-http,"Korean equities MCP. Keyless, live per request."
+2026-10-22T04:14:24.702887Z,com.flieber/flieber,Flieber,0.1.7,,,"Your Flieber account in your AI assistant: sales, forecast, inventory, replenishment and more."
+2026-10-22T04:14:27.423878Z,io.github.CloudCorpRecords/hookcheck,,0.1.0,https://github.com/CloudCorpRecords/hookcheck,,"Persistence hook auditor: scan repos for auto-exec hooks, flag Shai-Hulud patterns."
+2026-10-22T04:14:36.170766Z,io.github.pipeworx-io/mi-medical-exclusions,Mi Medical Exclusions,0.1.0,https://github.com/pipeworx-io/mcp-mi-medical-exclusions,streamable-http,Michigan Medicaid provider sanctions screening: the Michigan Department of Health and Human…
