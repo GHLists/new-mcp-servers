@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-10-22T11:23:21.989001Z,ai.revid/revid,Revid,1.0.0,,streamable-http,"Research what goes viral, make finished short videos and post them to TikTok, YouTube, Instagram, X"
+2026-10-22T11:23:46.17171Z,com.speaktoyourdatabase/styd,Speak To Your Database (STYD),1.0.0,,streamable-http,"Ask your Odoo, PostgreSQL or MySQL data in plain words. Real numbers, read-only."
+2026-10-22T11:25:05.278859Z,com.lensmor/mcp,Lensmor - Trade Show Intelligence,1.0.0,,streamable-http,"Discover trade shows, research exhibitors and companies, and find relevant B2B contacts."
+2026-10-22T11:27:44.167498Z,online.clipflint/clipflint,ClipFlint,1.0.0,,streamable-http,"Transcribe any Instagram, TikTok or Facebook video, or your own recording, with timestamps."
+2026-10-22T11:28:43.263308Z,health.athletedata/mcp,athletedata,1.0.0,https://github.com/athletedata-health/mcp,streamable-http,"Your Garmin, Oura, WHOOP, Hevy and 35 more fitness apps, queryable from your own AI."
+2026-10-22T11:29:58.666788Z,io.github.rico-c/youshow-pte,YoushowPTE MCP,1.0.0,https://github.com/rico-c/mcp-youshow-pte,streamable-http,"Read-only MCP for PTE Academic question types, sample questions, test format and score requirements."
+2026-10-22T11:30:06.711865Z,io.github.rico-c/youshow-ielts,YoushowIELTS MCP,1.0.0,https://github.com/rico-c/mcp-youshow-ielts,streamable-http,"Read-only MCP for IELTS Writing Task 2 samples, Speaking cue cards and writing band descriptors."
+2026-10-22T11:30:45.297751Z,io.github.rico-c/youshow-interpreter,YoushowInterpreter MCP,1.0.0,https://github.com/rico-c/mcp-youshow-interpreter,streamable-http,"Read-only MCP for Youshow Interpreter: product overview, supported languages and pricing."
+2026-10-22T11:30:56.617608Z,io.github.rico-c/appscreenshoot,AppScreenshoot MCP,1.0.0,https://github.com/rico-c/mcp-appscreenshoot,streamable-http,Read-only MCP for App Store and Google Play screenshot templates and current size requirements.
+2026-10-22T11:36:09.999703Z,io.github.xentoshi/clarke,Clarke GEO registry,1.0.0,https://github.com/xentoshi/clarke,streamable-http,"Who sits at each GEO longitude, with FCC licences, orbit freshness and disputes. Keyless."
+2026-10-22T11:36:23.530153Z,io.alls-well/monitoring,All's Well,2.0.0,,streamable-http,"Set up uptime, SSL and heartbeat monitors, alert contacts and incidents for an All's Well team."
+2026-10-22T11:40:10.651088Z,com.acidpeak/acidpeak,AcidPeak,1.2.0,,streamable-http,"Read-only vulnerability intelligence: CVEs, exploitation evidence, fixes and product matches."
+2026-10-22T11:40:17.035191Z,io.github.thehomer87/badge-mcp-server,,0.1.4,,,"Screen AI agents, read Badge fitness scores, and browse the public Talent Pool leaderboard."
+2026-10-22T11:42:47.689738Z,io.github.Nero-Engine/bulk-seo-audit,Bulk SEO Audit,0.1.0,,streamable-http,"0-100 SEO score and issues to fix for every website in a dataset, CSV or Google Sheet."
+2026-10-22T11:45:47.867392Z,com.globalentityapi/company-data,GlobalEntity API,1.0.0,,streamable-http,"Official company data from 66 business registers: search, VAT/EORI/LEI, UBO, sanctions."
+2026-10-22T11:48:43.283596Z,io.github.texWoW/unripe,unripe,0.6.1,https://github.com/TexWoW/unripe,,"Check how long ago a package version was published before an agent adds it, in 15 ecosystems."
+2026-10-22T11:52:53.093401Z,com.johtodata/faa-drone-data,johto.data FAA Drone Data,1.0.0,https://github.com/johtodata/johto-data-api,streamable-http,"Fresh, clean FAA drone data: Part 107 waivers and FRIA Remote ID sites as rows, with FAA doc links."
+2026-10-22T11:53:40.760667Z,so.pixelflow/pixelflow,PixelFlow,1.0.0,,streamable-http,Server-side ad platform tracking. Set up tracking and ask about events.
+2026-10-22T11:57:46.082363Z,dev.wealthtech/mcp,wealthtech.dev,0.2.0,,streamable-http,"Read-only, sourced access facts for wealth tech products, vendor MCP servers and Form ADV columns."
+2026-10-22T12:01:52.929379Z,com.chiemgaufilms.agent/agent-data-api,Agent Data API,0.1.0,,streamable-http,Live Google search results for AI agents. Pay per call in USDC on Base via x402.
+2026-10-22T12:08:15.582288Z,io.github.Capital-W-Holdings/us-property-parcel-real-estate-debt,DFX Intelligence,0.16.0,https://github.com/Capital-W-Holdings/us-property-parcel-real-estate-debt,streamable-http; streamable-http; streamable-http,"Private credit: lenders, sponsor financing, credit facilities, BDC holdings, LP allocations. Cited."
+2026-10-22T12:11:25.11876Z,io.github.it-atelier-gn/claws-mail-mcp-plugin,,1.0.2,https://github.com/it-atelier-gn/claws-mail-mcp-plugin,,"Claws Mail plugin exposing the running mail client over a local, bearer-token MCP endpoint."
+2026-10-22T12:11:44.982864Z,ai.ollive/mcp,Ollive,1.0.0,,streamable-http,Official Ollive MCP server.
+2026-10-22T12:13:15.349281Z,com.dpolens/dpolens,DPOLens,0.1.0-rc.3,https://github.com/alkhatibdev/dpolens,streamable-http,Privacy law your AI assistant can cite: the exact clause and its version. GDPR and UAE PDPL today.
+2026-10-22T12:14:48.06475Z,io.github.suomimasuda/rightos-mcp,,0.5.1,https://github.com/suomimasuda/rightos-sdk,,"RightOS MCP: privacy-first QR queue/EV/pickup. 20 tools, no end-user PII."
+2026-10-22T12:15:20.020217Z,com.mlaiel/collaboration,MLAIEL public collaboration,0.1.0,,streamable-http,"Public AI collaboration discovery and scoped, moderated agent contributions. No payments."
+2026-10-22T12:17:51.228289Z,com.chaink9/chaink9,,0.1.0,https://github.com/ChainK9/chaink9-mcp,,"Token risk checks on BSC, Ethereum and Base: trades the token on a fork. Paid in USDC via x402."
+2026-10-22T12:18:19.626783Z,co.shopwithin/within,within · luxury boutiques,0.2.0,,streamable-http,"Live stock at independent luxury boutiques: pieces, sizes, prices and the page to buy each one."
