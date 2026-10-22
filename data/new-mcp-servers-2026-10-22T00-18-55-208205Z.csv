@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-10-21T23:20:57.100608Z,co.youraitools/domaincheck,DomainCheck,0.1.1,,streamable-http,"Domain and email trust checks for agents: DNS, SPF/DMARC, disposable email. By Crypto Money Maker"
+2026-10-21T23:27:13.307043Z,com.synthexforge.x402/paid-agent-services,Synthex Forge — x402 Paid Agent Services,1.0.0,https://github.com/hermeschoosenone-debug/synthex-x402,streamable-http,"Paid agent services settled in USDC on Base via x402. Signed, verifiable, and free to verify."
+2026-10-21T23:29:52.921445Z,co.youraitools/agentgate,AgentGate,0.2.0,,streamable-http,"Check an AI agent is registered, Active and Verified in Concordium's registry. By Crypto Money Maker"
+2026-10-21T23:29:53.930055Z,co.youraitools/webread,WebRead,0.1.3,,streamable-http,Turn any public web page into clean Markdown for LLMs; respects robots.txt. By Crypto Money Maker
+2026-10-21T23:29:54.719073Z,co.youraitools/injectscan,InjectScan,0.1.3,,streamable-http,"Scan text for prompt injection: risk score, verdict, matched spans. Built by Crypto Money Maker"
+2026-10-21T23:31:53.907127Z,app.sunsetstrip/gta6,Sunset Strip: GTA 6,1.0.0,,streamable-http,"GTA 6 unlock times by country, launch facts, Leonida map regions and top clips."
+2026-10-21T23:34:08.690942Z,io.github.speechweave/mcp,SpeechWeave,1.10.0,https://github.com/speechweave/speechweave-mcp,,Transcribe local files and URLs with SpeechWeave's OpenAI-compatible Speech-to-Text API.
+2026-10-21T23:38:10.854867Z,io.github.sipkigroup/witness,Deus Witness,0.2.20,https://github.com/sipkigroup/witness,,Checks every MCP tool call of your agent with an independent witness and gives signed receipts.
+2026-10-21T23:38:32.469826Z,io.github.macminibaus/sitewide,SiteWide,0.5.0,,streamable-http,"One MCP connector for GA4, Search Console, Google Ads, Ahrefs, a site crawler and Web Vitals."
+2026-10-21T23:40:23.148052Z,io.github.lurkwizard/agent-lounge,Public Agent Lounge,1.0.0,https://github.com/lurkwizard/agent-lounge,streamable-http,"Open chat room for bots: messages, private DMs, directory, task board, E2E keys, WebRTC signals."
+2026-10-21T23:40:25.429913Z,io.github.lurkwizard/agent-lounge-tools,Agent Lounge Tools,0.1.0,,streamable-http,"Agent Lounge helper: independent key-fingerprint checks, signing helpers, DMs, x402 testnet demo."
+2026-10-21T23:41:45.868196Z,com.simplebackups/mcp,SimpleBackups,1.0.0,,streamable-http,"Manage, check, investigate and automate server, database and storage backups from your AI assistant."
+2026-10-21T23:41:58.844039Z,com.textforagents/fleet-succession-dead-mans-switch,Fleet succession: dead-man's switch for agent fleets,1.0.0,,streamable-http,Dead-man's switch for agent fleets: tranche-gated succession on multi-channel absence proof
+2026-10-21T23:53:36.899802Z,io.github.arcadia-finance/mcp-server,Arcadia Finance,0.6.0,https://github.com/arcadia-finance/mcp-server,streamable-http,"Concentrated liquidity on Uniswap/Aero (rebalance, compound, leverage) or single-sided lending."
+2026-10-21T23:57:30.479593Z,com.mogean/store,Mogean POI data store,0.1.0,,streamable-http,"Mogean US points-of-interest catalog: search and count locations by brand, category and state."
+2026-10-21T23:59:46.624881Z,com.ayedesk/ayedesk,Ayedesk,0.36.0,,streamable-http,"Human validation desk for AI agents: post work as cards, get a person's decision, carry on."
+2026-10-22T00:01:31.73125Z,com.seniordognotes/pawline-pet-guides,PawLine Pet Guides,1.0.0,,streamable-http,Search 180+ free PawLine pet care guides and run pet care calculators.
+2026-10-22T00:04:22.52893Z,com.brasspage/apify-actors,Brasspage Apify Actors,1.0.0,,streamable-http,"Six AI-built Apify Actors: ATS jobs, PDF OCR, Lighthouse audits, transcripts, Sheets, site audits"
+2026-10-22T00:07:45.938553Z,com.jittator/jittator,Jittator,0.1.0,,streamable-http,"Screenshots and PDFs of web pages or your HTML/Markdown, paid per call in sats. No account."
+2026-10-22T00:07:57.326172Z,com.vtc/mcp,VTC Spaces,0.5.1,,streamable-http,Search public VTC Spaces and people; sign in to query Space data and run AI actions and workflows.
+2026-10-22T00:14:23.049605Z,com.yestechie/site,YesTechie — Network & Security Builder,1.0.0,,streamable-http,"UniFi quotes, case studies and config guides from a nationwide network and security builder."
+2026-10-22T00:15:27.419901Z,com.fengshuicalculator/fengshui-calculator,Fengshui Calculator,0.1.0,,streamable-http,"Verifiable Chinese calendar & feng shui: BaZi, flying stars, Kua, almanac. SHA-256 replayable."
+2026-10-22T00:17:05.542915Z,com.kintoolkit/label-reference,KinToolkit: Medicine Dosage Calculator Label References for Children and Infants,1.1.1,,streamable-http,"Tylenol (acetaminophen), Motrin (ibuprofen), Zyrtec (cetirizine): US pediatric dose labels."
