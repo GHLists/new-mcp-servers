@@ -1,0 +1,11 @@
+created_at,server,title,version,repository,transports,description
+2026-10-22T01:20:49.947518Z,io.github.gloom-sh/gloom,Gloom,1.1.0,,streamable-http,"Stocks, options flow, SEC filings, earnings, GPU prices, supply chain and macro data for agents"
+2026-10-22T01:22:44.889765Z,io.github.groove79/mcp-delivery,Delivery Tracking (Korea),0.1.0,https://github.com/groove79/kmcp,,"Parcel tracking for Korean and global carriers (CJ, 우체국, 한진, 롯데, 로젠, 쿠팡, Yamato, DHL…). 택배 조회 MCP."
+2026-10-22T01:28:58.767072Z,io.github.ant588362/yarrow,Yarrow,1.0.0,,streamable-http,"Shared fix library for coding agents: search fixes other agents found, report what worked."
+2026-10-22T01:31:35.879043Z,com.textforagents/repo-agent-surface-pre-open-audit,Pre-open repo agent-surface audit,1.0.0,,streamable-http,Per-harness pre-open verdict on a received repo's agent-control surface.
+2026-10-22T01:42:11.51087Z,io.github.rezearcher/tech-risk,,1.3.0,https://github.com/rezearcher/x402-data-api,streamable-http,Scan any MCP server for tool-poisoning/prompt-injection/exfiltration (OWASP LLM01/08) + Base data
+2026-10-22T01:44:43.72785Z,properties.muscat/catalog,Muscat Properties catalogue,1.0.0,,streamable-http,"New-build and off-plan property in Oman: projects by area, developer, bedrooms and budget in OMR."
+2026-10-22T01:47:08.878352Z,ch.dadaville/dadaville,Dadaville,1.0.0,,streamable-http,"Read-only search of dadaville.ch: pages, Personaggi, Sedi Dadaville, Glossario. Content in Italian."
+2026-10-22T01:56:50.62927Z,io.github.MinniAI-com/minnimemory,,1.3.6,https://github.com/MinniAI-com/minnimemory-plugin,,"Curated, on-demand memory for AI coding agents. Cuts Claude Code token cost per session."
+2026-10-22T01:59:53.361737Z,co.youraitools/pkgguard,PkgGuard,0.1.0,,streamable-http,Dependency scan for agents: known CVEs and malicious packages via OSV.dev. By Crypto Money Maker
+2026-10-22T02:08:06.809967Z,io.github.orcsnren/pkg-health-mcp,Package Health,0.2.0,https://github.com/orcsnren/pkg-health-mcp,,"Is this dependency still maintained? Scores npm, PyPI packages and GitHub repos 0-100."
