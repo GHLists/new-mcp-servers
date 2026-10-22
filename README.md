@@ -9,53 +9,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 18:18 UTC
+## Latest list — 2026-10-22 19:20 UTC
 
-New MCP servers published between 2026-10-22 17:18 UTC and 2026-10-22 18:18 UTC.
+New MCP servers published between 2026-10-22 18:18 UTC and 2026-10-22 19:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-22T18-18-49-939704Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-22T19-20-08-157709Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-22 17:19:56 | [io.github.mattoddie/bluelink-mcp](https://github.com/mattoddie/bluelink-mcp) | Hyundai Bluelink / Kia Connect | 0.3.1 | Check your Hyundai or Kia's charge, range, locks and location, pre-heat it and… |
-| 2026-10-22 17:20:00 | [com.zadojo/seo-geo-mcp](https://github.com/zadojo/seo-geo-mcp) | zaDojo SEO and AI visibility | 1.0.24 | SEO and AI visibility for agents: keywords, SERPs, backlinks, audits, rank and… |
-| 2026-10-22 17:21:05 | [io.github.Serios16/edgar13f-mcp](https://github.com/Serios16/edgar13f-mcp) | EDGAR 13F point-in-time | 1.2.2 | SEC Form 13F holdings as they could have been known on a given date (stdio). |
-| 2026-10-22 17:21:32 | [io.github.CloudCorpRecords/depguard](https://github.com/CloudCorpRecords/depguard) |  | 0.1.0 | PR dependency early warning: install scripts, typosquats, downgrades, and lockf… |
-| 2026-10-22 17:21:33 | [io.github.mattoddie/unifi-mcp](https://github.com/mattoddie/unifi-mcp) | UniFi | 0.6.1 | Manage a Ubiquiti UniFi network: devices, clients, WiFi, firewall and VPN. Read… |
-| 2026-10-22 17:21:35 | app.twelvebit/analytics | twelvebit Analytics | 1.0.0 | Web and revenue analytics: traffic, goals, funnels, journeys and revenue by sou… |
-| 2026-10-22 17:21:36 | [io.github.mattoddie/crunch-mcp](https://github.com/mattoddie/crunch-mcp) | Crunch Accounting (crunch-mcp) | 0.4.1 | Work with your Crunch Accounting books: expenses, receipts, invoices, clients,… |
-| 2026-10-22 17:21:45 | [io.github.mattoddie/proxmox-mcp](https://github.com/mattoddie/proxmox-mcp) | Proxmox VE | 0.5.1 | Monitor and manage Proxmox VE clusters: VMs, containers, storage and backups. R… |
-| 2026-10-22 17:21:49 | [io.github.mattoddie/hive-mcp](https://github.com/mattoddie/hive-mcp) | Hive heating | 0.3.1 | Check and control Hive smart heating: thermostats, radiator valves, hot water a… |
-| 2026-10-22 17:22:01 | [io.github.mattoddie/octopus-mcp](https://github.com/mattoddie/octopus-mcp) | Octopus Energy (octopus-mcp) | 0.3.1 | Octopus Energy usage and costs, tariffs, Agile prices, bills, EV charging and S… |
-| 2026-10-22 17:24:08 | [io.github.CloudCorpRecords/flowcheck](https://github.com/CloudCorpRecords/flowcheck) |  | 0.1.0 | Least-privilege auditor for GitHub Actions workflows: permissions, triggers, se… |
-| 2026-10-22 17:27:09 | com.signwithsigil/sigil | Sigil e-signatures | 1.0.7 | Send a PDF or DOCX for e-signature as a pact, track its signers and fetch the s… |
-| 2026-10-22 17:27:36 | com.bootform/bootform | BootForm | 1.0.0 | Form backend for static sites: create forms, add email or Discord notifications… |
-| 2026-10-22 17:29:06 | dev.tanod/apify-pdf-ocr | Tanod PDF OCR (Apify, card-paid) | 0.1.0 | PDF OCR via Apify. Pay by card with an Apify account, no crypto wallet. |
-| 2026-10-22 17:29:08 | dev.tanod/apify-document-to-markdown | Tanod Document to Markdown (Apify, card… | 0.1.0 | Document to Markdown via Apify. Pay by card with an Apify account, no crypto wa… |
-| 2026-10-22 17:29:11 | dev.tanod/apify-image-ocr | Tanod Image OCR (Apify, card-paid) | 0.1.0 | Image OCR via Apify. Pay by card with an Apify account, no crypto wallet. |
-| 2026-10-22 17:29:16 | dev.tanod/apify-pdf-toolkit | Tanod PDF Toolkit (Apify, card-paid) | 0.1.0 | PDF merge, split and compress via Apify. Pay by card with an Apify account, no… |
-| 2026-10-22 17:32:43 | cl.rlabs/arketum | Arketum | 1.0.0 | Verified lifecycle for building software with an agent: units, human gates, req… |
-| 2026-10-22 17:40:56 | [io.github.Maytrella007/protonlite](https://github.com/Maytrella007/protonlite) |  | 0.1.2 | Python Proton Mail, Calendar, Contacts and Drive client with an MCP server. Fre… |
-| 2026-10-22 17:43:00 | [io.github.rohanbeingsocial/showboard](https://github.com/rohanbeingsocial/showboard) | Showboard | 0.4.0 | Your coding agent answers with dashboards: charts and tables from read-only SQL… |
-| 2026-10-22 17:44:29 | com.vibeday/vibeday | VibeDay | 1.0.0 | Make, preview, schedule and publish social posts, carousels, video and reels fr… |
-| 2026-10-22 17:44:36 | io.github.attachmentnerd/houseexhale | HouseExhale | 1.0.0 | Explain bedroom CO2 readings, check certified HRV/ERV airflow, and find US inst… |
-| 2026-10-22 17:48:16 | co.youraitools/solverdict | SolVerdict | 0.1.0 | Safety check for Solana SPL/Token-2022 mints: SAFE/CAUTION/DANGER + reasons. By… |
-| 2026-10-22 17:50:28 | com.flatheadtrades/directory | Flathead Trades | 1.0.0 | Builders, tradespeople and home services in Montana's Flathead Valley, with pho… |
-| 2026-10-22 17:50:47 | io.routemarket/routemarket | RouteMarket | 1.0.0 | Trip notebook: save a plan as places on a map, decide definitely/maybe/no, set… |
-| 2026-10-22 17:51:09 | [io.github.DeltaX-Public/deltax-preflight](https://github.com/DeltaX-Public/deltax-preflight) | DeltaX Preflight | 0.1.0 | Check finite candidate proposals against separate policy and evidence, with can… |
-| 2026-10-22 17:52:13 | com.textforagents/a2a-agent-card-cross-sdk-signature-conformance | A2A Agent Card Cross-SDK Signature Conf… | 1.0.0 | Per-SDK verdict matrix for signed A2A Agent Cards: which signatures verify in e… |
-| 2026-10-22 17:53:32 | co.youraitools/x402fix | x402fix | 0.1.0 | x402 endpoint doctor: grades a paid route A-F unpaid, with paste-ready fixes. B… |
-| 2026-10-22 17:54:32 | [io.github.bpays/benji-pays](https://github.com/bpays/benji-pays-agent-plugin) | Benji Pays | 1.7.3 | Sits between accounting and payment rails for reminders, Pay Now, autopay, port… |
-| 2026-10-22 17:58:45 | com.repolode/repolode | Repolode | 1.0.0 | Search curated open-source GitHub projects: write-ups, alternatives, trending,… |
-| 2026-10-22 17:58:55 | [io.github.sandraschi/qcad-mcp](https://github.com/sandraschi/qcad-mcp) |  | 0.5.0 | QCAD 2D CAD automation: DXF/DWG floor plans to SVG and STL, via MCP tools and R… |
-| 2026-10-22 18:02:15 | [io.github.anondotli/anon-li](https://github.com/anondotli/anon.li) | anon.li | 1.0.0 | Manage anon.li email aliases, recipients and encrypted file drop metadata over… |
-| 2026-10-22 18:02:58 | tech.spriteforge/editor | SpriteForge Editor | 0.1.0 | Free pixel and tileset editor, no account: hand-edit sprites, animations and Wa… |
-| 2026-10-22 18:03:01 | tech.spriteforge/spriteforge | SpriteForge | 0.2.0 | Generate pixel-art sprites, animations and tilesets on your SpriteForge account… |
-| 2026-10-22 18:04:34 | io.github.cadenlpicard/rocketvault | RocketVault Public Knowledge and Market… | 1.4.0 | Search public RocketVault card listings and read product documentation. |
-| 2026-10-22 18:04:39 | de.ferienhaus-schwarzwald-todtnauberg/live-preise | Preise & Verfügbarkeit - Scheuermatthof… | 1.2.0 | Live-Preise und Verfügbarkeit für Scheuermatthof und Ferienhaus Im Birkenweg. |
-| 2026-10-22 18:06:19 | dev.workers.mhoydich.the-wild-x402/the-wild | The Wild | 0.16.0 | Read-only tools for The Wild: spirits, altars, prices. Prayers, candles, witnes… |
-| 2026-10-22 18:07:19 | [io.github.furkanyesildag/cogladius-mcp](https://github.com/furkanyesildag/cogladius) |  | 0.2.4 | Earn XLM on Stellar: find paid agent tasks, buy data over MPP, submit work, get… |
-| 2026-10-22 18:10:24 | app.vercel.jestsprout/jestsprout | JestSprout Meme Coin & Solana Rug-Check… | 1.1.0 | Free Solana token rug checks, memecoin ticker checks, trends, name ideas, logos… |
+| 2026-10-22 18:20:41 | [net.invitt/invitt](https://github.com/arnaudgrunwald0404/invitt-plugin) | Invitt: Invitations, RSVPs, Planning | 1.0.0 | Plan an event in chat: venue ideas, RSVP deadline and past events, then email i… |
+| 2026-10-22 18:22:45 | do.sysproperties/servicenow-properties | ServiceNow System Properties (sysproper… | 1.1.0 | Look up and search 7,300+ ServiceNow system properties (sys_properties) explain… |
+| 2026-10-22 18:24:20 | com.textforagents/wall-event-circumvention-sentinel | Wall-Event Circumvention Sentinel | 1.0.0 | Sequence sentinel: wall events + channel-switch scoring; HALT, hold, signed rec… |
+| 2026-10-22 18:25:28 | ai.getricky/ricky | Ricky | 1.0.0 | Customer inbox and CRM for WhatsApp, Instagram and Messenger: contacts, convers… |
+| 2026-10-22 18:25:35 | [com.swolvy/mcp](https://github.com/enahmedsamy/swolvy-mcp) | Swolvy | 1.0.0 | Publish HTML from Claude, ChatGPT, Gemini or any MCP client and get a shareable… |
+| 2026-10-22 18:26:38 | [io.github.ariaxhan/tbs-teaching-mcp](https://github.com/ariaxhan/thinking-brain-school) | Thinking Brain School — Teaching MCP | 0.1.0 | Guided practice with Thinking Brain School lessons your family has unlocked, in… |
+| 2026-10-22 18:27:39 | [io.github.Khavel/proplab](https://github.com/Khavel/proplab-mcp) | NBA Prop Lab | 1.0.0-remote | NBA and WNBA player-prop analytics: daily board, graded track record, matchup a… |
+| 2026-10-22 18:28:07 | [com.linkjar/linkjar](https://github.com/rocketgems/linkjar) | LinkJar | 1.0.0 | Send PDFs, decks and HTML pages as branded, tracked links, and see who opened t… |
+| 2026-10-22 18:31:40 | [io.github.vvvvking/novai-prices](https://github.com/vvvvking/novai-prices-mcp) | NovAI Prices | 1.0.1 | Live prices for 111 Chinese AI models, with cheapest-model lookup by task. |
+| 2026-10-22 18:34:57 | com.textforagents/paper-rails-payment-rehearsal | Paper rails: payment rehearsal universe | 1.0.0 | Paper trading for agent payments: rehearse buying flows, earn policy-bound rece… |
+| 2026-10-22 18:35:09 | dev.aicomputeradar/ai-compute-radar | AI Compute Radar | 1.2.1 | Which open models fit your GPU or Mac, measured. Model momentum, GPU rental pri… |
+| 2026-10-22 18:36:39 | dev.workers.revenue-agent-jw.agent-utils-x402-production/agent-utils | Agent Utils (x402) | 1.2.0 | Pay-per-call US public data for agents: recalls, weather, climate, SEC filings.… |
+| 2026-10-22 18:39:57 | com.serverscan/mcp | ServerScan | 1.0.0 | PCI ASV scanning: live prices, whether you need a scan, a free payment page che… |
+| 2026-10-22 18:40:53 | [dev.zerodrop/zerodrop-mcp](https://github.com/zerodrop-dev/zerodrop-mcp) | ZeroDrop | 0.2.0 | Disposable email inboxes for AI agents — OTPs and magic links auto-extracted. N… |
+| 2026-10-22 18:46:34 | io.duechat/duechat | DueChat | 1.0.0 | Find overdue invoices, draft invoices, and chase payment. Sends need your confi… |
+| 2026-10-22 18:51:59 | [io.sylai/guardian](https://github.com/connor274/syl-guardian-mcp) | Syl Guardian | 0.2.0 | Causal guardrail: pass/caution/hold verdict on a causal claim before an agent a… |
+| 2026-10-22 18:54:02 | io.github.cuddly-life/imba-jobs | Imba Jobs | 1.1.0 | Search jobs with sponsorship evidence, read your profile and queue, and prepare… |
+| 2026-10-22 18:54:48 | com.irisagent/support-analyst | IrisAgent Support Analyst | 1.0.0 | Ask questions about your support tickets, chats, agents and AI answer quality,… |
+| 2026-10-22 18:55:04 | [com.njligames/kanban-importer](https://github.com/NJLIGamesLtd/trello-csv-import) |  | 1.0.2 | Read and move Trello cards by the task ids your AI assistant invented. |
+| 2026-10-22 18:56:24 | [io.github.headlessherm-creator/polymath-megablaster-mcp](https://github.com/headlessherm-creator/polymath-megablaster-mcp) |  | 3.0.6 | Local deterministic calc MCP: exact math, dates, unit conversion, stats, subnet… |
+| 2026-10-22 18:59:22 | [io.github.headlessherm-creator/json-mender-mcp](https://github.com/headlessherm-creator/json-mender-mcp) |  | 0.2.1 | Local MCP server: JSON repair, regex testing, JSON-Schema validation for AI age… |
+| 2026-10-22 18:59:46 | io.github.AnthonE/scry | Elo Pros — a game store agents play, bu… | 1.3.0 | Play Gates, take bounties on the board, shop the store. Free over MCP; no keys… |
+| 2026-10-22 19:00:41 | [io.github.xallindrome-labs/codex-bridge](https://github.com/xallindrome-labs/codex-bridge) | codex-bridge | 0.1.0 | Lets Claude Code consult the Codex CLI for plans and images, as durable backgro… |
+| 2026-10-22 19:02:55 | de.immo-fluss/immofluss | ImmoFluss | 1.0.0 | Rental property management for German landlords: properties, tenants, rent, loa… |
+| 2026-10-22 19:05:34 | [io.github.jonkludt/varosity](https://github.com/varosity-ai/mcp-server) | Varosity | 0.1.2 | 61 video, image, voice and music models at provider list price. Sign in with OA… |
+| 2026-10-22 19:07:32 | ai.gensprite/gensprite | Gensprite | 1.0.0 | Game assets for your agent: sprites, turnarounds, animations, 3D characters, pr… |
+| 2026-10-22 19:08:53 | [io.github.arthursantosmedia-stack/mestrepratico-brazil-prices-mcp](https://github.com/arthursantosmedia-stack/mestrepratico-brazil-prices-mcp) | Mestre Prático • Brazil Retail & Commod… | 1.5.0 | Brazil real-economy MCP: ANP fuels, SEFAZ groceries, CMED medicines, ANEEL tari… |
+| 2026-10-22 19:11:38 | [io.github.headlessherm-creator/hiring-mender-mcp](https://github.com/headlessherm-creator/hiring-mender-mcp) |  | 0.1.0 | Local MCP server: BambooHR + Greenhouse ATS write tools, one vocabulary. |
+| 2026-10-22 19:11:52 | com.textforagents/refusal-dialect-meter-truth-probe | Refusal-dialect & meter-truth probe | 1.0.0 | Refusal-dialect probe: signed cards naming what a server's 429 means and whethe… |
+| 2026-10-22 19:13:05 | [org.tithonus/mcp](https://github.com/llamr/tithonus.org) | tithonus | 3.5.0 | Signed time, Bitcoin-anchored notarisation and drand randomness for agents. No… |
+| 2026-10-22 19:14:31 | com.replyonthefly/replyonthefly | ReplyOnTheFly | 1.0.0 | Writes replies to Google, Yelp and other customer reviews, and texts asking for… |
+| 2026-10-22 19:16:06 | health.libby/libby-health | Libby Health | 1.0.0 | Read-only access to your own lab markers, trends, and reports. |
+| 2026-10-22 19:16:13 | io.logicnodes/tools | LogicNodes | 1.0.0 | Verified EVM, Aptos and finance tools for AI agents; gas for 14 chains. Pay per… |
+| 2026-10-22 19:18:17 | [io.github.Thewhey-Brian/hotedit](https://github.com/Thewhey-Brian/hotedit) | hotedit | 0.5.0 | Open HTML reports in the browser and edit them live while the person watches, o… |
 
 ## Data source
 
