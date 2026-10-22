@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-10-22T15:22:03.040631Z,com.jocktaxes/developer,Jock Taxes Developer MCP,1.0.0,,streamable-http,"Pro athlete tax calculators for MLB, NBA, NFL and NHL. Requires a Jock Taxes API key."
+2026-10-22T15:22:43.155972Z,com.jocktaxes/grok,Jock Taxes for Grok,1.0.0,,streamable-http,"Pro athlete after-tax salary calculators for MLB, NBA, NFL and NHL. Requires sign-in."
+2026-10-22T15:23:21.193004Z,com.jocktaxes/claude,Jock Taxes for Claude,1.0.0,,streamable-http,"Pro athlete after-tax salary calculators for MLB, NBA, NFL and NHL, built for Claude."
+2026-10-22T15:23:27.02644Z,dev.workers.shopttyass-85f.attention-trends/attention-trends,Attention Trends,0.2.0,,streamable-http,"Topic popularity, interest over time and trending topics from Wikipedia pageviews (x402 paid)."
+2026-10-22T15:23:50.541464Z,com.jocktaxes/chatgpt,Jock Taxes for ChatGPT,1.0.0,,streamable-http,"Pro athlete after-tax salary calculators for MLB, NBA, NFL and NHL, built for ChatGPT."
+2026-10-22T15:26:59.64411Z,health.voa/tiss,voa-tiss,0.3.0,https://github.com/Voa-Health/tiss,streamable-http,"Ferramentas para validar documentos TISS e consultar TUSS, operadoras e dados da ANS."
+2026-10-22T15:29:59.138366Z,uk.co.doctilla/doctilla,Doctilla,1.0.0,,streamable-http,"ISO 9001 quality management: CARs and 8D, NCRs, audits, actions, risks, suppliers and documents."
+2026-10-22T15:31:09.791546Z,ai.tunapay/pay,TunaPay Pay,1.0.0,https://github.com/TUNAKINGRWA/tunapay-mcp,streamable-http; streamable-http,Your AI pays with a TunaPay prepaid card. You approve each payment in Telegram or on tunapay.ai.
+2026-10-22T15:32:30.976255Z,io.github.ashfordeOU/setuhq,SetuHQ transit search,0.1.0,https://github.com/ashfordeOU/SetuHQ,,"Search, vet and explain TESS transit candidates with provenance. Candidates, never confirmations."
+2026-10-22T15:34:30.700081Z,com.speakeasy.ai/platform,Speakeasy Platform MCP,1.0.0,https://github.com/speakeasy-api/gram,streamable-http,Secure and manage MCP servers through the Speakeasy AI Control Plane from your agent.
+2026-10-22T15:36:18.897219Z,com.vivadialog/vivadialog,VivaDialog,0.2.0,,streamable-http,"Read the unified social inbox, channels, usage and inbox analytics of a VivaDialog workspace."
+2026-10-22T15:45:22.716178Z,io.brewmark/brewmark,,1.0.0,,streamable-http,"Grind-setting conversion between 77 coffee grinders, plus dial-in charts for every model."
+2026-10-22T15:46:44.078773Z,io.github.ugcapi/mcp-server,UGC API,1.0.0,https://github.com/ugcapi/mcp-server,streamable-http,"Publish and schedule UGC videos, slideshows and images to TikTok and Instagram accounts."
+2026-10-22T15:47:05.788229Z,com.aigregator/ai-tools,Aigregator AI Tools,1.0.0,,streamable-http,"Search and compare 4,700+ AI tools: pricing, features, alternatives. Free, no API key."
+2026-10-22T15:55:00.506548Z,ai.bumblebox/mail,BumbleBox,2.1.0,https://github.com/BumbleBox/bumblebox-mcp,streamable-http,Search and triage all your mailboxes; draft replies and campaigns; send only as you allow.
+2026-10-22T15:56:19.287669Z,io.github.grichardomi/faxseal,FaxSeal,2.2.0,https://github.com/grichardomi/mcp-server,streamable-http,"Send, receive, and verify faxes from AI assistants and agents via FaxSeal."
+2026-10-22T15:58:10.626108Z,xyz.orkidlabs/orkid-swap,Orkid Swap,1.0.0,https://github.com/jjcav84/defi,streamable-http,"MEV-protected multichain swap routing via Tycho+RFQ; gasless execution, x402-priced calls."
+2026-10-22T16:01:53.209576Z,so.outrank/outrank,Outrank,0.10.0,https://github.com/Outrank-SAS/outrank-cli,streamable-http,"Plan SEO keywords, write and publish articles to your site, read Search Console and backlink data"
+2026-10-22T16:02:10.359674Z,com.anythingmd/convert,AnythingMD,0.1.0,,streamable-http,"Convert PDFs, Office files, spreadsheets and images to clean Markdown, sized for agent context."
+2026-10-22T16:05:53.809621Z,com.madebydevx.agents/agent-hub,DevX Agent Hub,1.0.0,,streamable-http,"x402 pay-per-call agent tools: token safety/honeypot check, speech to text, TTS, translate, OCR, web"
+2026-10-22T16:11:37.319983Z,io.github.Nadeus/toolradar,,2.2.0,https://github.com/Nadeus/toolradar-mcp,streamable-http,"Search, compare and price software tools. Verified prices with their date, real alternatives."
