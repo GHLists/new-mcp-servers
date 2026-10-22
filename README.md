@@ -9,42 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 08:20 UTC
+## Latest list — 2026-10-22 09:22 UTC
 
-New MCP servers published between 2026-10-22 07:22 UTC and 2026-10-22 08:20 UTC.
+New MCP servers published between 2026-10-22 08:20 UTC and 2026-10-22 09:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-22T08-20-43-198055Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-22T09-22-14-33801Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-22 07:22:26 | [ai.lfglabs/t3-watch](https://github.com/sami-abdul/t3-watch) | t3-watch | 0.4.0 | An agent on call for the things nobody watches. Checks run free; your agent wak… |
-| 2026-10-22 07:23:17 | [io.github.JohnJackHouzi/droit-francais](https://github.com/JohnJackHouzi/droit-francais-skill) | Droit français sourcé | 1.0.0 | Droit français et européen officiel (Légifrance, DILA, EUR-Lex, jurisprudence),… |
-| 2026-10-22 07:34:16 | top.skillaria/skillaria | Skillaria.Top | 1.0.0 | Search and read Skillaria.Top courses (AI, DevOps, Linux, Git) and guides in 20… |
-| 2026-10-22 07:35:48 | com.lowlanddata/company-identity | LowlandData Company Identity | 1.1.0 | GDPR-clean company enrichment: domain, logo, socials, EU VAT and email-security… |
-| 2026-10-22 07:36:03 | com.lowlanddata/eu-marketplaces | LowlandData EU Marketplaces | 1.7.0 | GDPR-clean marketplace listings and prices from 18 European countries. No selle… |
-| 2026-10-22 07:36:09 | com.textforagents/namespace-guard-for-merged-toolboxes | Namespace guard for merged toolboxes | 1.0.0 | Pre-connection collision audit for merged MCP toolboxes, trust-graded, with sig… |
-| 2026-10-22 07:38:37 | co.youraitools/stackdetect | StackDetect | 0.1.0 | Detect a website's tech stack (frameworks, hosting, CDN, analytics). By Crypto… |
-| 2026-10-22 07:40:07 | [io.github.rainyflash/agent-room](https://github.com/rainyflash/agent-room) | Agent Room | 0.1.0-alpha.79 | Chat rooms for people and AI agents: join a lobby or private room, wait for mes… |
-| 2026-10-22 07:40:22 | [sh.getspace/space](https://github.com/Hugo-SEQUIER/getspace) | Space | 1.0.0 | One shared memory for all your AI agents: documents, tasks, databases and memor… |
-| 2026-10-22 07:40:25 | [com.likelyread/likelyread](https://github.com/Hugo-SEQUIER/likelyread) | Likelyread | 1.0.0 | Email open tracking for agents: add a pixel, register the send, read back who o… |
-| 2026-10-22 07:43:03 | com.textforagents/duty-and-rest-for-agents | Duty & Rest for agents | 1.0.0 | Cross-session fatigue ledger for agents: FIT/CAUTION/GROUNDED dispatch gating. |
-| 2026-10-22 07:48:45 | io.leadshark/apex | LeadShark Apex: LinkedIn MCP | 1.0.0 | LinkedIn MCP with 47 tools: post, comment, DM and run comment-to-DM automations… |
-| 2026-10-22 07:50:42 | ai.sportapi/football | SportAPI Football Data | 1.1.0 | Football fixtures, live scores, standings, lineups, teams and players for 117 l… |
-| 2026-10-22 07:52:15 | org.holdmark/registry | holdmark · facts about online stores | 1.0.0 | Does this store deliver and refund? Measured with carriers and payment processo… |
-| 2026-10-22 07:52:56 | com.earthdroids/handlewise | HandleWise AI | 1.0.0 | Turn photos of your items into scheduled eBay listings on your own eBay seller… |
-| 2026-10-22 07:56:17 | app.pakbus/pakbus | PakBus | 1.0.0 | Bus and metro journeys, departures, routes, fares and service changes in Pakist… |
-| 2026-10-22 07:59:03 | [io.github.sepehr071/toolsmelt](https://github.com/sepehr071/toolsmelt) | toolsmelt | 0.7.0 | Curated MCP tools from OpenAPI, websites, apps, Postman, cURL or SQL; your agen… |
-| 2026-10-22 07:59:04 | [io.github.busybusybussiness/uk-legislation-changes](https://github.com/busybusybussiness/uk-legislation-changes) | UK Legislation Changes | 0.1.2 | Point-in-time amendment history for 528 UK law provisions: search, version hist… |
-| 2026-10-22 08:01:12 | [io.github.nubiia-dev/mcp-borme](https://github.com/nubiia-dev/mcp-borme) |  | 1.0.0 | OpenMercantil (BORME): 37 read-only tools for Spanish company search, officers,… |
-| 2026-10-22 08:02:52 | com.telebart/lobby | Telebart agent lobby | 1.0.0 | An open chat room for AI agents. Read what other agents say and post your own.… |
-| 2026-10-22 08:02:57 | com.telebart/barter | Telebart | 1.0.0 | Barter marketplace for agents: list your user's things, find swaps, propose tra… |
-| 2026-10-22 08:06:37 | [io.github.Ashutos1997/ffmpeg-mcp-server](https://github.com/Ashutos1997/ffmpeg-mcp-server) | FFmpeg MCP Server | 0.4.2 | FFmpeg & FFprobe media processing toolkit for video, audio, and social formats |
-| 2026-10-22 08:07:35 | com.postfjord/postfjord | Postfjord | 0.4.0 | Plan and schedule social posts, answer DMs and draft email campaigns for a smal… |
-| 2026-10-22 08:11:54 | dev.workers.mike-tusa.contrastkit/contrastkit | ContrastKit | 0.1.0 | WCAG color contrast checks, nearest accessible color, CSS color conversion and… |
-| 2026-10-22 08:12:11 | dev.workers.mike-tusa.semverkit/semverkit | SemverKit | 0.1.0 | Semver parse, compare, npm range checks, max-satisfying and version bumps (node… |
-| 2026-10-22 08:12:22 | dev.workers.mike-tusa.glyphguard/glyphguard | GlyphGuard | 0.1.0 | Find hidden Unicode (zero-width, bidi, tag payloads), homoglyphs and lookalike… |
-| 2026-10-22 08:18:01 | [io.github.Alexxanddr/bunpro-mcp-server](https://github.com/Alexxanddr/bunpro-mcp-server) | Bunpro MCP Server | 0.2.4 | Read-only access to Bunpro profile, reviews, study statistics, vocabulary, and… |
-| 2026-10-22 08:19:51 | [io.github.konkomaji/opentoonz-mcp](https://github.com/konkomaji/opentoonz-mcp) | OpenToonz MCP | 0.1.0 | Animate in OpenToonz from an AI assistant: native vector levels, xsheet timing,… |
+| 2026-10-22 08:21:14 | com.10life/travel | 10Life Travel | 0.1.0 | Compare 10Life single-trip travel plans. Stateless POST. GET returns 405. |
+| 2026-10-22 08:24:39 | [io.github.VonderVuflya/yggdrasil](https://github.com/VonderVuflya/yggdrasil) |  | 0.16.0 | One shared, durable memory for your AI coding agents — local-first, zero-depend… |
+| 2026-10-22 08:25:54 | ai.flowmingo/flowmingo |  | 1.0.0 | Free AI hiring platform: create AI interview sets, invite candidates, read scor… |
+| 2026-10-22 08:26:24 | ru.lab4u.mcp/lab4u | Lab4U | 1.0.0 | Lab4U (Russia): pick lab tests for a goal or a doctor's list and build a cart o… |
+| 2026-10-22 08:28:54 | com.textforagents/sampling-quota-guard | Sampling Quota Guard | 1.0.0 | Per-server MCP sampling allowance, scope clamp and pre-connect verdict. |
+| 2026-10-22 08:32:48 | [cool.qianshi/th-recut-mcp](https://github.com/qianqiuwanzi/th-recut-free) |  | 1.0.0 | 输入口播文案与素材，自动生成安全排版出片计划并云端渲染成片。 |
+| 2026-10-22 08:33:03 | [io.github.milcho0604/velog](https://github.com/milcho0604/velog-mcp) | Velog | 0.9.6 | Claude 나 Codex 에서 벨로그(velog.io) 글을 읽고 쓰고 백업한다. 다이어그램과 시퀀스도 그린다. 공개 발행은 사람이 켤 때만… |
+| 2026-10-22 08:36:41 | [io.github.Alexxanddr/kani-mcp-server](https://github.com/Alexxanddr/kani-mcp-server) | Kani MCP Server | 0.1.4 | Read-only access to WaniKani progress and study data through MCP. |
+| 2026-10-22 08:38:05 | com.textforagents/agent-continuity-bond | Agent Continuity Bond | 1.0.0 | Witnessed-liveness continuity bond: dual-condition exactly-once payout, self-fu… |
+| 2026-10-22 08:39:58 | [io.github.gistrec/mcp-mysql-client](https://github.com/gistrec/mcp-mysql-client) | MySQL MCP | 1.0.1 | MCP server for one MySQL database: schema, read-only queries and guarded writes. |
+| 2026-10-22 08:40:03 | com.9make/9make | 9make | 1.0.0 | App Store prep for agents: ASO keywords, listing, store screenshots and app pre… |
+| 2026-10-22 08:40:36 | [io.github.Nakagawa-master/nakagawa-original-router](https://github.com/Nakagawa-master/nakagawa-theory-archive) | Nakagawa Original-Theory Source Router | 1.1.0 | Local read-only original theory source lookup with seven optional causal lenses… |
+| 2026-10-22 08:41:24 | so.mida/ab-testing | Mida | 1.0.2 | Create, run and analyze A/B tests and personalizations on your site with Mida. |
+| 2026-10-22 08:42:58 | [io.github.nubiia-dev/mcp-quipu](https://github.com/nubiia-dev/mcp-quipu) |  | 1.0.2 | Quipu API integration with 18 MCP tools for invoices, expenses, contacts and Sp… |
+| 2026-10-22 08:44:31 | [io.github.nubiia-dev/mcp-holded](https://github.com/nubiia-dev/mcp-holded) |  | 2.0.3 | Complete Holded Invoice API integration with 72 MCP tools for invoices, contact… |
+| 2026-10-22 08:46:28 | com.dataconto/buyers | Dataconto: who buys company records and… | 1.0.0 | Who pays owners for company records, code and datasets, closed companies includ… |
+| 2026-10-22 08:49:31 | [io.github.Grinv/mal-mcp](https://github.com/Grinv/mal-mcp) | MAL MCP Server | 0.11.0 | MyAnimeList MCP server: Tenrai-powered reads plus official MAL personal-list ma… |
+| 2026-10-22 08:52:18 | [io.github.singleflo/odoo-assistant](https://github.com/singleflo/odoo-assistant-mcp) |  | 0.3.14 | Odoo virtual employee via MCP: query, create, modify records, workflows, PDFs,… |
+| 2026-10-22 08:54:29 | com.hoopsapi/basketball-odds | HoopsAPI basketball odds | 1.0.0 | Live basketball odds from 6 bookmakers: NBA, EuroLeague and 100+ competitions,… |
+| 2026-10-22 09:00:51 | com.scriptcompiler/scriptcompiler | ScriptCompiler | 1.0.0 | Create motion and play it on The Handy, Autoblow, VacuGlide, Kiiroo, OSSM and L… |
+| 2026-10-22 09:01:14 | [ai.gency/gency-mcp](https://github.com/studiolab-dev/gency-mcp) |  | 0.7.0 | Gency AI product image generation - MCP server for Claude, Codex, Cursor, VS Co… |
+| 2026-10-22 09:01:31 | ai.fapper/fapperai | FapperAI | 1.0.0 | Chat with adult (18+) AI companions that remember you, send photos and voice no… |
+| 2026-10-22 09:05:36 | [io.github.nubiia-dev/mcp-pipedrive](https://github.com/nubiia-dev/mcp-pipedrive) |  | 2.7.1 | Complete Pipedrive CRM integration with 254 MCP tools for deals, contacts, and… |
+| 2026-10-22 09:06:58 | com.eoidata/skillselect-data | eoidata SkillSelect Data | 1.0.0 | Australian SkillSelect EOI, invitation, nomination and processing-time data. No… |
+| 2026-10-22 09:09:36 | be.dealio/deals | Dealio: Belgian deals | 1.0.0 | Today's promotions from 50+ Belgian retailers, each discount worked out per ite… |
+| 2026-10-22 09:20:18 | ai.kliqo/ai-visibility | Kliqo AI Visibility | 1.1.0 | Free AI visibility checks, then see if ChatGPT and Google AI name you or your c… |
+| 2026-10-22 09:21:35 | fr.picksly/picksly | Picksly | 1.0.0 | Best phone, tablet, laptop or smartwatch for your profile and budget: lab score… |
 
 ## Data source
 

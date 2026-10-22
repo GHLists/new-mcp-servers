@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-22T08:21:14.811517Z,com.10life/travel,10Life Travel,0.1.0,,streamable-http,Compare 10Life single-trip travel plans. Stateless POST. GET returns 405.
+2026-10-22T08:24:39.422472Z,io.github.VonderVuflya/yggdrasil,,0.16.0,https://github.com/VonderVuflya/yggdrasil,,"One shared, durable memory for your AI coding agents — local-first, zero-dependency."
+2026-10-22T08:25:54.675915Z,ai.flowmingo/flowmingo,,1.0.0,,streamable-http,"Free AI hiring platform: create AI interview sets, invite candidates, read scored reports."
+2026-10-22T08:26:24.866366Z,ru.lab4u.mcp/lab4u,Lab4U,1.0.0,,streamable-http,Lab4U (Russia): pick lab tests for a goal or a doctor's list and build a cart on lab4u.ru
+2026-10-22T08:28:54.30026Z,com.textforagents/sampling-quota-guard,Sampling Quota Guard,1.0.0,,streamable-http,"Per-server MCP sampling allowance, scope clamp and pre-connect verdict."
+2026-10-22T08:32:48.485605Z,cool.qianshi/th-recut-mcp,,1.0.0,https://github.com/qianqiuwanzi/th-recut-free,streamable-http,输入口播文案与素材，自动生成安全排版出片计划并云端渲染成片。
+2026-10-22T08:33:03.114684Z,io.github.milcho0604/velog,Velog,0.9.6,https://github.com/milcho0604/velog-mcp,,Claude 나 Codex 에서 벨로그(velog.io) 글을 읽고 쓰고 백업한다. 다이어그램과 시퀀스도 그린다. 공개 발행은 사람이 켤 때만 열린다.
+2026-10-22T08:36:41.426715Z,io.github.Alexxanddr/kani-mcp-server,Kani MCP Server,0.1.4,https://github.com/Alexxanddr/kani-mcp-server,,Read-only access to WaniKani progress and study data through MCP.
+2026-10-22T08:38:05.481104Z,com.textforagents/agent-continuity-bond,Agent Continuity Bond,1.0.0,,streamable-http,"Witnessed-liveness continuity bond: dual-condition exactly-once payout, self-funded."
+2026-10-22T08:39:58.558168Z,io.github.gistrec/mcp-mysql-client,MySQL MCP,1.0.1,https://github.com/gistrec/mcp-mysql-client,,"MCP server for one MySQL database: schema, read-only queries and guarded writes."
+2026-10-22T08:40:03.953195Z,com.9make/9make,9make,1.0.0,,streamable-http,"App Store prep for agents: ASO keywords, listing, store screenshots and app preview video."
+2026-10-22T08:40:36.180331Z,io.github.Nakagawa-master/nakagawa-original-router,Nakagawa Original-Theory Source Router,1.1.0,https://github.com/Nakagawa-master/nakagawa-theory-archive,,Local read-only original theory source lookup with seven optional causal lenses in JA EN ZH.
+2026-10-22T08:41:24.792128Z,so.mida/ab-testing,Mida,1.0.2,,streamable-http,"Create, run and analyze A/B tests and personalizations on your site with Mida."
+2026-10-22T08:42:58.448064Z,io.github.nubiia-dev/mcp-quipu,,1.0.2,https://github.com/nubiia-dev/mcp-quipu,,"Quipu API integration with 18 MCP tools for invoices, expenses, contacts and Spanish VAT reporting"
+2026-10-22T08:44:31.363273Z,io.github.nubiia-dev/mcp-holded,,2.0.3,https://github.com/nubiia-dev/mcp-holded,,"Complete Holded Invoice API integration with 72 MCP tools for invoices, contacts, products, and more"
+2026-10-22T08:46:28.72896Z,com.dataconto/buyers,Dataconto: who buys company records and code,1.0.0,,streamable-http,"Who pays owners for company records, code and datasets, closed companies included. Sourced terms."
+2026-10-22T08:49:31.508449Z,io.github.Grinv/mal-mcp,MAL MCP Server,0.11.0,https://github.com/Grinv/mal-mcp,,MyAnimeList MCP server: Tenrai-powered reads plus official MAL personal-list management.
+2026-10-22T08:52:18.426949Z,io.github.singleflo/odoo-assistant,,0.3.14,https://github.com/singleflo/odoo-assistant-mcp,streamable-http,"Odoo virtual employee via MCP: query, create, modify records, workflows, PDFs, and activities."
+2026-10-22T08:54:29.677083Z,com.hoopsapi/basketball-odds,HoopsAPI basketball odds,1.0.0,,streamable-http,"Live basketball odds from 6 bookmakers: NBA, EuroLeague and 100+ competitions, plus closing lines"
+2026-10-22T09:00:51.647923Z,com.scriptcompiler/scriptcompiler,ScriptCompiler,1.0.0,,streamable-http; streamable-http,"Create motion and play it on The Handy, Autoblow, VacuGlide, Kiiroo, OSSM and Lovense toys."
+2026-10-22T09:01:14.012025Z,ai.gency/gency-mcp,,0.7.0,https://github.com/studiolab-dev/gency-mcp,,"Gency AI product image generation - MCP server for Claude, Codex, Cursor, VS Code"
+2026-10-22T09:01:31.66233Z,ai.fapper/fapperai,FapperAI,1.0.0,,streamable-http,"Chat with adult (18+) AI companions that remember you, send photos and voice notes and run your toy."
+2026-10-22T09:05:36.923947Z,io.github.nubiia-dev/mcp-pipedrive,,2.7.1,https://github.com/nubiia-dev/mcp-pipedrive,,"Complete Pipedrive CRM integration with 254 MCP tools for deals, contacts, and pipelines"
+2026-10-22T09:06:58.191147Z,com.eoidata/skillselect-data,eoidata SkillSelect Data,1.0.0,,streamable-http,"Australian SkillSelect EOI, invitation, nomination and processing-time data. No raw data."
+2026-10-22T09:09:36.761443Z,be.dealio/deals,Dealio: Belgian deals,1.0.0,,streamable-http,"Today's promotions from 50+ Belgian retailers, each discount worked out per item. Read-only."
+2026-10-22T09:20:18.063786Z,ai.kliqo/ai-visibility,Kliqo AI Visibility,1.1.0,,streamable-http,"Free AI visibility checks, then see if ChatGPT and Google AI name you or your competitors instead."
+2026-10-22T09:21:35.281058Z,fr.picksly/picksly,Picksly,1.0.0,,streamable-http,"Best phone, tablet, laptop or smartwatch for your profile and budget: lab scores, live prices."
