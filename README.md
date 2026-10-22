@@ -9,48 +9,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 14:19 UTC
+## Latest list — 2026-10-22 15:19 UTC
 
-New MCP servers published between 2026-10-22 13:19 UTC and 2026-10-22 14:19 UTC.
+New MCP servers published between 2026-10-22 14:19 UTC and 2026-10-22 15:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-22T14-19-30-064085Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-22T15-19-52-156453Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-22 13:23:45 | [com.savewellnow/care](https://github.com/SaveWell/consumer-interface) | SaveWell | 1.0.0 | Original Medicare: surgery-center vs. hospital costs, Medigap rewards, and spec… |
-| 2026-10-22 13:23:45 | [io.github.cyuanxv/openrouter-analytics-mcp](https://github.com/cyuanxv/openrouter-analytics-mcp) | OpenRouter 工作台 Local | 0.6.0-alpha.1 | Local OpenRouter cost analytics, reports, experiments and routing presets over… |
-| 2026-10-22 13:23:55 | co.youraitools/signcheck | SignCheck | 0.2.0 | Pre-sign safety check for agent wallets: tx, EIP-712, EIP-7702, x402. By Crypto… |
-| 2026-10-22 13:24:29 | io.github.Nero-Engine/rss-feed-reader | RSS Feed Reader | 0.1.0 | New items from many RSS, Atom and JSON feeds or websites, with only-new mode an… |
-| 2026-10-22 13:25:05 | ai.discoveria/discoveria | DiscoverIA | 0.1.0 | Read-only registry of AI-assisted scientific claims and where their evaluation… |
-| 2026-10-22 13:27:27 | io.github.AZERIA-IT/pluia | PLU IA | 1.0.0 | French zoning (PLU) for any address or parcel in France, rules cited with the o… |
-| 2026-10-22 13:28:03 | io.github.cyuanxv/feishu-mcp-standalone | Feishu MCP Self-hosted | 0.1.0-local.3 | Single-owner Feishu MCP: run your own service, configure your app, authorize yo… |
-| 2026-10-22 13:28:21 | [io.github.cyuanxv/telegram-bot-mcp-server](https://github.com/cyuanxv/telegram-bot-mcp-server) | Telegram Bot MCP Server | 1.0.0 | Self-hosted Telegram Bot MCP server for rich text, media and interactive button… |
-| 2026-10-22 13:30:00 | co.youraitools/tokenverdict | TokenVerdict | 0.1.0 | Base token safety check: simulated buy/transfer/sell, owner powers, liquidity.… |
-| 2026-10-22 13:31:47 | com.torrentswap/swap | TorrentSwap | 1.1.0 | No-account cross-chain crypto swaps (BTC, ETH, SOL, USDT, ZEC…) for AI agents.… |
-| 2026-10-22 13:33:09 | [io.boundra/boundra](https://github.com/gobeyondfj-cmd/boundra) | Boundra — Payment Approval Gateway for… | 0.1.1 | Allow, ask, or veto — a policy decision point your agent consults before signin… |
-| 2026-10-22 13:36:04 | com.kushbitx/agentproof | KushBitx AgentProof | 1.0.0 | Safety checks for AI agents paying on Base: free SpendGuard, paid x402 token ri… |
-| 2026-10-22 13:42:01 | [io.github.cypher-osiris/lumi-trades-mcp](https://github.com/cypher-osiris/lumi-api) | Lumi Trades | 0.1.0 | Crypto signals, levels, market brief, sentiment and events for AI agents. Pay p… |
-| 2026-10-22 13:42:56 | me.onmax/card-mailer | Card Mailer | 1.0.0 | Print and mail 5x7 holiday and thank-you photo cards to a US address list. $2.4… |
-| 2026-10-22 13:47:08 | com.noeixodigital/radar | Radar noEixo | 1.0.0 | Radar noEixo: WhatsApp sales and support with an AI agent, CRM pipeline and pos… |
-| 2026-10-22 13:48:19 | com.multifate/mcp | Multifate chart calculator | 1.0.0 | Zi Wei Dou Shu and Da Liu Ren chart calculators by Multifate: exact palaces, st… |
-| 2026-10-22 13:51:11 | [com.mambabuilt/mcp-local-rank-map-pack-tracker](https://github.com/mambalabsdev/mcp-local-rank-map-pack-tracker) |  | 1.0.0 | Google organic, map pack, and local finder positions per keyword and location. |
-| 2026-10-22 13:51:15 | [com.mambabuilt/mcp-company-headcount-estimator](https://github.com/mambalabsdev/mcp-company-headcount-estimator) |  | 1.0.0 | Employee count band for a company domain, with source and confidence. No Linked… |
-| 2026-10-22 13:51:21 | [io.github.cyuanxv/datafinder-mcp](https://github.com/cyuanxv/datafinder-mcp) | DataFinder MCP | 0.2.0 | DataFinder analytics with 52 tools, metric dictionaries, persistent jobs and co… |
-| 2026-10-22 13:51:25 | [com.mambabuilt/mcp-person-linkedin-url-resolver](https://github.com/mambalabsdev/mcp-person-linkedin-url-resolver) |  | 1.0.0 | Find a person's LinkedIn profile URL from name and company, with a match confid… |
-| 2026-10-22 13:51:30 | [com.mambabuilt/mcp-personal-email-to-company-resolver](https://github.com/mambalabsdev/mcp-personal-email-to-company-resolver) |  | 1.0.0 | Find the likely employer behind a Gmail or other free mail signup, with a confi… |
-| 2026-10-22 13:51:35 | [com.mambabuilt/mcp-partner-member-directory-extractor](https://github.com/mambalabsdev/mcp-partner-member-directory-extractor) |  | 1.0.0 | One company row per listing from partner directories and member lists, with dom… |
-| 2026-10-22 13:56:36 | dev.workers.shopttyass-85f.upgrade-brief/upgrade-brief | Upgrade Brief | 0.3.0 | Breaking changes and changelogs between two npm or PyPI package versions, from… |
-| 2026-10-22 13:56:47 | com.delcoplumbernow/plumber | Delco Plumber Now | 1.0.0 | Get a Delaware County, PA plumber now: instant price range, coverage, call/text… |
-| 2026-10-22 13:56:52 | com.crimemetric/crime-index | CrimeMetric | 1.0.0 | Modeled crime rates per resident for U.S. addresses: 16 crime types vs the U.S.… |
-| 2026-10-22 14:03:44 | [ai.chucho/chucho](https://github.com/chucho-ai/agent) | chucho — Book Direct | 1.0.0 | Find vacation rentals worldwide by describing the trip, check host prices and b… |
-| 2026-10-22 14:05:02 | one.kalpana/batch | Kalpana Batch | 1.0.0 | Fill templates from product data and render banners, ads and listing images in… |
-| 2026-10-22 14:05:05 | one.kalpana/designer | Kalpana Designer | 1.0.0 | Design editable social, banner and ad templates from a brief, checked by render… |
-| 2026-10-22 14:05:10 | com.atkvn/security-checks | ATK Security Checks | 0.1.0 | Post-quantum TLS and certificate checks, plus a Wazuh audit for rules that pass… |
-| 2026-10-22 14:08:37 | app.weeklane/weeklane | Weeklane | 1.0.0 | Plan your week in the Weeklane planner: tasks, repeating tasks, reminders, Task… |
-| 2026-10-22 14:10:26 | com.johtodata/johto-data | Johto Data | 1.0.0 | Johto Data: pay-per-call company, compliance and filings data via x402. Free sa… |
-| 2026-10-22 14:12:30 | io.corpusiq/multi-source-mcp | CorpusIQ | 1.0.1 | One governed MCP endpoint for 30+ business systems. Read-only, source-cited ans… |
-| 2026-10-22 14:13:57 | [io.github.AjnasNB/skilldash](https://github.com/AjnasNB/skill-dash) | SkillDash | 0.5.1 | Search and inspect source-pinned agent skills, plugins and tools through a free… |
-| 2026-10-22 14:19:10 | [dev.tabhand/tabhand](https://github.com/tabhand/tabhand) | Tabhand | 0.10.1 | Let your coding agents use your real, signed-in Chrome, in background tabs that… |
+| 2026-10-22 14:22:55 | co.bidcatch/bidcatch | BidCatch | 1.0.3 | SAM.gov, USAspending & state-portal bids, award history, expiring contracts, fo… |
+| 2026-10-22 14:25:06 | ai.noxi/noxi | NOXI | 0.1.0 | Free AI presentation maker: create and edit decks, export PowerPoint and PDF, A… |
+| 2026-10-22 14:27:04 | [com.pushizo/mcp](https://github.com/pushizo/pushizo-mcp) | Pushizo | 0.1.0 | Push, email, SMS, in-app and journeys. 54 tools: reads and drafts; only test se… |
+| 2026-10-22 14:28:03 | [com.footval/footval](https://github.com/target1m/footval-mcp) | FootVal | 1.0.0 | Independent football player valuations, live scores, league tables, stat leader… |
+| 2026-10-22 14:31:56 | [io.github.supero-platform/supero](https://github.com/supero-platform/supero-mcp) | Supero | 2.0.1 | Build multi-tenant apps over MCP. Schemas, CRUD, deploys — access control enfor… |
+| 2026-10-22 14:36:26 | [io.github.smriti-memcore/smriti-memory](https://github.com/smriti-memcore/smriti-memcore) | SMRITI Memory | 1.4.27 | Neuro-inspired long-term memory for AI agents with semantic graph and consolida… |
+| 2026-10-22 14:38:23 | com.inctryit/tryit | TRYIT | 2.0.0 | Short-form trend data: viral Shorts/Reels/TikTok, rising keywords, channel anal… |
+| 2026-10-22 14:38:50 | app.vitalli/mcp | Vitalli | 1.0.0 | Your own health records from Vora, Still, Stackwell and Joiva in your AI assist… |
+| 2026-10-22 14:39:26 | com.getadonde/adonde | Adónde | 1.0.0 | Plan trips and find hotels, tours and flights; build day-by-day itineraries. Ac… |
+| 2026-10-22 14:39:28 | [dev.adrails/adrails](https://github.com/antonioac1/adrails) | AdRails | 0.2.0 | Open-source guardrails for AI agents running Google Ads. Your keys, your caps. |
+| 2026-10-22 14:39:29 | de.bundeswehr-dienstgrade/mcp | bundeswehr-dienstgrade.de — Dienstgrade… | 1.0.0 | German armed forces ranks: lookup, comparison, NATO codes, promotion, US/UK equ… |
+| 2026-10-22 14:45:54 | io.tokport/tokport | TokPort | 1.0.0 | Generate images and videos (GPT Image, Seedance, Kling, Wan, Qwen) with one API… |
+| 2026-10-22 14:49:30 | [io.github.danafitkowski/cpp-cpm-engine](https://github.com/danafitkowski/cpp-cpm-engine) | Critical Path Partners | 2.10.12 | Forensic scheduling MCP for Primavera P6 (XER): AACE windows, DCMA-14, Monte Ca… |
+| 2026-10-22 14:49:38 | [io.github.web-casa/aieo](https://github.com/web-casa/aieo-cli) | aieo | 1.1.0 | SEO and AI-search checks for a website's build output, fixed in the source files |
+| 2026-10-22 14:51:12 | com.alexpolonsky/profile | Alex Polonsky's Personal MCP | 0.2.0 | Public profile, availability, writing, and music discovery for Alex Polonsky. R… |
+| 2026-10-22 14:52:57 | [io.github.CloudCorpRecords/tracewatch](https://github.com/CloudCorpRecords/tracewatch) |  | 0.1.0 | Observability, tracking, and root-cause for Security Wave scans and findings. |
+| 2026-10-22 14:54:59 | [io.github.gaelasao/keyword-research-api](https://github.com/gaelasao/apify-mcp-tools) |  | 1.0.0 | Google keyword data for agents: volume, CPC, difficulty, intent, ideas and comp… |
+| 2026-10-22 14:55:05 | [io.github.gaelasao/building-permits-api](https://github.com/gaelasao/apify-mcp-tools) |  | 1.0.0 | Building permits and planning applications for France, NSW Australia and Far No… |
+| 2026-10-22 14:58:01 | ai.phantra/studio | Phantra | 1.0.0 | AI image and video studio: Kling, Veo, Seedance, LTX, Wan. Quote first, then re… |
+| 2026-10-22 14:58:11 | [io.github.WYRE-AI/cork-mcp](https://github.com/WYRE-AI/cork-mcp) | Cork | 1.0.1 | MCP server for Cork's cyber-insurance API for MSPs. |
+| 2026-10-22 14:58:13 | [io.github.WYRE-AI/prtg-mcp](https://github.com/WYRE-AI/prtg-mcp) | PRTG | 1.0.1 | MCP server for Paessler PRTG's REST API v2 - network/infrastructure monitoring… |
+| 2026-10-22 14:58:18 | [io.github.WYRE-AI/msp360-mcp](https://github.com/WYRE-AI/msp360-mcp) | MSP360 | 1.0.1 | MCP server for MSP360's Managed Backup Service API — companies, computers, and… |
+| 2026-10-22 14:58:28 | [io.github.WYRE-AI/eset-protect-mcp](https://github.com/WYRE-AI/eset-protect-mcp) | ESET PROTECT | 1.0.2 | MCP server for ESET PROTECT's ESET Connect API - device, EDR, vulnerability, pa… |
+| 2026-10-22 14:59:09 | [io.github.WYRE-AI/bitdefender-mcp](https://github.com/WYRE-AI/bitdefender-mcp) | Bitdefender GravityZone | 1.0.1 | MCP server for Bitdefender GravityZone's JSON-RPC API. |
+| 2026-10-22 14:59:50 | [io.github.WYRE-AI/teramind-mcp](https://github.com/WYRE-AI/teramind-mcp) | Teramind | 1.0.1 | MCP server for Teramind's insider-threat/employee-monitoring API (read-only, me… |
+| 2026-10-22 15:00:15 | [io.github.andacuzel/citehound](https://github.com/andacuzel/cited-geo-guide) | Citehound | 1.0.0 | Scan any domain for AI readiness and generate llms.txt, robots.txt and schema.… |
+| 2026-10-22 15:03:52 | [io.github.Suigar-Gaming/mcp](https://github.com/Suigar-Gaming/ts-sdks) |  | 1.0.0-beta.31 | AI agent MCP server for Suigar casino game, SweetHouse, NFT, and referral trans… |
+| 2026-10-22 15:07:53 | com.convocaliteraria/convoca | Convoca | 1.0.0 | Open literary prizes and contests in Spanish and Catalan, with winners and awar… |
+| 2026-10-22 15:09:16 | [io.github.botmonster/notify-sound](https://github.com/botmonster/notify-sound) | Notify Sound | 1.0.0 | Design notification sounds from layered tones and get an editor link to play an… |
+| 2026-10-22 15:10:46 | [io.github.tia-forge/tialink](https://github.com/tia-forge/tialink) | TiaLink | 0.1.1 | TIA Portal MCP gateway: let any AI agent create blocks, write SCL, compile and… |
+| 2026-10-22 15:12:33 | [io.github.linkpreflight/linkpreflight](https://github.com/linkpreflight/linkpreflight) | LinkPreflight | 0.1.0 | Check a URL before an agent clicks or cites it: status, redirects, dead/parked,… |
+| 2026-10-22 15:14:01 | [io.github.yusong652/yade-mcp](https://github.com/yusong652/yade-mcp) | YADE MCP Server | 0.11.2 | MCP server for YADE — open-source DEM engine. Browse API docs, run simulations,… |
+| 2026-10-22 15:14:13 | [io.github.exoticknight/labnana-mcp](https://github.com/exoticknight/labnana-mcp) | Labnana MCP | 2.2.0 | Generate and edit images with Labnana through a local MCP server with MCP Apps… |
+| 2026-10-22 15:15:49 | fr.globalstart/creation-societe | GlobalStart — Création de société | 1.0.0 | Créer une société à l'étranger : 29 juridictions, prix publics, devis ferme, do… |
+| 2026-10-22 15:19:04 | xyz.gardenpatch/gardenpatch |  | 1.0.0 | Paid per call over x402: growth coaches, small utilities and real-world actions… |
 
 ## Data source
 

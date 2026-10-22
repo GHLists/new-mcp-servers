@@ -1,0 +1,36 @@
+created_at,server,title,version,repository,transports,description
+2026-10-22T14:22:55.332119Z,co.bidcatch/bidcatch,BidCatch,1.0.3,,streamable-http,"SAM.gov, USAspending & state-portal bids, award history, expiring contracts, forecasts, protests"
+2026-10-22T14:25:06.418119Z,ai.noxi/noxi,NOXI,0.1.0,,streamable-http,"Free AI presentation maker: create and edit decks, export PowerPoint and PDF, Arabic right-to-left"
+2026-10-22T14:27:04.55953Z,com.pushizo/mcp,Pushizo,0.1.0,https://github.com/pushizo/pushizo-mcp,streamable-http,"Push, email, SMS, in-app and journeys. 54 tools: reads and drafts; only test sends."
+2026-10-22T14:28:03.215713Z,com.footval/footval,FootVal,1.0.0,https://github.com/target1m/footval-mcp,streamable-http,"Independent football player valuations, live scores, league tables, stat leaders and transfer news."
+2026-10-22T14:31:56.095473Z,io.github.supero-platform/supero,Supero,2.0.1,https://github.com/supero-platform/supero-mcp,streamable-http,"Build multi-tenant apps over MCP. Schemas, CRUD, deploys — access control enforced server-side."
+2026-10-22T14:36:26.454948Z,io.github.smriti-memcore/smriti-memory,SMRITI Memory,1.4.27,https://github.com/smriti-memcore/smriti-memcore,,Neuro-inspired long-term memory for AI agents with semantic graph and consolidation.
+2026-10-22T14:38:23.764057Z,com.inctryit/tryit,TRYIT,2.0.0,,streamable-http,"Short-form trend data: viral Shorts/Reels/TikTok, rising keywords, channel analysis, ad search."
+2026-10-22T14:38:50.109438Z,app.vitalli/mcp,Vitalli,1.0.0,,streamable-http,"Your own health records from Vora, Still, Stackwell and Joiva in your AI assistant (OAuth)."
+2026-10-22T14:39:26.927791Z,com.getadonde/adonde,Adónde,1.0.0,,streamable-http,"Plan trips and find hotels, tours and flights; build day-by-day itineraries. Account required."
+2026-10-22T14:39:28.372038Z,dev.adrails/adrails,AdRails,0.2.0,https://github.com/antonioac1/adrails,,"Open-source guardrails for AI agents running Google Ads. Your keys, your caps."
+2026-10-22T14:39:29.169812Z,de.bundeswehr-dienstgrade/mcp,bundeswehr-dienstgrade.de — Dienstgrade der Bundeswehr,1.0.0,,streamable-http,"German armed forces ranks: lookup, comparison, NATO codes, promotion, US/UK equivalents, pay."
+2026-10-22T14:45:54.721894Z,io.tokport/tokport,TokPort,1.0.0,,streamable-http,"Generate images and videos (GPT Image, Seedance, Kling, Wan, Qwen) with one API key."
+2026-10-22T14:49:30.925425Z,io.github.danafitkowski/cpp-cpm-engine,Critical Path Partners,2.10.12,https://github.com/danafitkowski/cpp-cpm-engine,streamable-http,"Forensic scheduling MCP for Primavera P6 (XER): AACE windows, DCMA-14, Monte Carlo, TIA."
+2026-10-22T14:49:38.618315Z,io.github.web-casa/aieo,aieo,1.1.0,https://github.com/web-casa/aieo-cli,,"SEO and AI-search checks for a website's build output, fixed in the source files"
+2026-10-22T14:51:12.354199Z,com.alexpolonsky/profile,Alex Polonsky's Personal MCP,0.2.0,,streamable-http,"Public profile, availability, writing, and music discovery for Alex Polonsky. Read-only."
+2026-10-22T14:52:57.680517Z,io.github.CloudCorpRecords/tracewatch,,0.1.0,https://github.com/CloudCorpRecords/tracewatch,,"Observability, tracking, and root-cause for Security Wave scans and findings."
+2026-10-22T14:54:59.940632Z,io.github.gaelasao/keyword-research-api,,1.0.0,https://github.com/gaelasao/apify-mcp-tools,streamable-http,"Google keyword data for agents: volume, CPC, difficulty, intent, ideas and competitor keywords."
+2026-10-22T14:55:05.873087Z,io.github.gaelasao/building-permits-api,,1.0.0,https://github.com/gaelasao/apify-mcp-tools,streamable-http,"Building permits and planning applications for France, NSW Australia and Far North NZ."
+2026-10-22T14:58:01.309874Z,ai.phantra/studio,Phantra,1.0.0,,streamable-http,"AI image and video studio: Kling, Veo, Seedance, LTX, Wan. Quote first, then render."
+2026-10-22T14:58:11.898616Z,io.github.WYRE-AI/cork-mcp,Cork,1.0.1,https://github.com/WYRE-AI/cork-mcp,,MCP server for Cork's cyber-insurance API for MSPs.
+2026-10-22T14:58:13.642477Z,io.github.WYRE-AI/prtg-mcp,PRTG,1.0.1,https://github.com/WYRE-AI/prtg-mcp,,MCP server for Paessler PRTG's REST API v2 - network/infrastructure monitoring for MSPs.
+2026-10-22T14:58:18.43405Z,io.github.WYRE-AI/msp360-mcp,MSP360,1.0.1,https://github.com/WYRE-AI/msp360-mcp,,"MCP server for MSP360's Managed Backup Service API — companies, computers, and backup plans."
+2026-10-22T14:58:28.441448Z,io.github.WYRE-AI/eset-protect-mcp,ESET PROTECT,1.0.2,https://github.com/WYRE-AI/eset-protect-mcp,,"MCP server for ESET PROTECT's ESET Connect API - device, EDR, vulnerability, patch, and user data."
+2026-10-22T14:59:09.895503Z,io.github.WYRE-AI/bitdefender-mcp,Bitdefender GravityZone,1.0.1,https://github.com/WYRE-AI/bitdefender-mcp,,MCP server for Bitdefender GravityZone's JSON-RPC API.
+2026-10-22T14:59:50.394384Z,io.github.WYRE-AI/teramind-mcp,Teramind,1.0.1,https://github.com/WYRE-AI/teramind-mcp,,"MCP server for Teramind's insider-threat/employee-monitoring API (read-only, metadata-only surface)."
+2026-10-22T15:00:15.665905Z,io.github.andacuzel/citehound,Citehound,1.0.0,https://github.com/andacuzel/cited-geo-guide,streamable-http,"Scan any domain for AI readiness and generate llms.txt, robots.txt and schema. Free, read-only."
+2026-10-22T15:03:52.599772Z,io.github.Suigar-Gaming/mcp,,1.0.0-beta.31,https://github.com/Suigar-Gaming/ts-sdks,,"AI agent MCP server for Suigar casino game, SweetHouse, NFT, and referral transactions."
+2026-10-22T15:07:53.777533Z,com.convocaliteraria/convoca,Convoca,1.0.0,,streamable-http,"Open literary prizes and contests in Spanish and Catalan, with winners and awarded books."
+2026-10-22T15:09:16.128628Z,io.github.botmonster/notify-sound,Notify Sound,1.0.0,https://github.com/botmonster/notify-sound,streamable-http,Design notification sounds from layered tones and get an editor link to play and download.
+2026-10-22T15:10:46.29918Z,io.github.tia-forge/tialink,TiaLink,0.1.1,https://github.com/tia-forge/tialink,,"TIA Portal MCP gateway: let any AI agent create blocks, write SCL, compile and simulate."
+2026-10-22T15:12:33.084746Z,io.github.linkpreflight/linkpreflight,LinkPreflight,0.1.0,https://github.com/linkpreflight/linkpreflight,streamable-http,"Check a URL before an agent clicks or cites it: status, redirects, dead/parked, phishing flags."
+2026-10-22T15:14:01.480313Z,io.github.yusong652/yade-mcp,YADE MCP Server,0.11.2,https://github.com/yusong652/yade-mcp,,"MCP server for YADE — open-source DEM engine. Browse API docs, run simulations, manage tasks."
+2026-10-22T15:14:13.746302Z,io.github.exoticknight/labnana-mcp,Labnana MCP,2.2.0,https://github.com/exoticknight/labnana-mcp,,Generate and edit images with Labnana through a local MCP server with MCP Apps previews.
+2026-10-22T15:15:49.480598Z,fr.globalstart/creation-societe,GlobalStart — Création de société,1.0.0,,streamable-http,"Créer une société à l'étranger : 29 juridictions, prix publics, devis ferme, dossier suivi."
+2026-10-22T15:19:04.000227Z,xyz.gardenpatch/gardenpatch,,1.0.0,,streamable-http,"Paid per call over x402: growth coaches, small utilities and real-world actions. USDC on Base."
