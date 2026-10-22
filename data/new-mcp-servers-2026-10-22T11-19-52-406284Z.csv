@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-22T10:21:37.215954Z,center.mem/mem-center,Mem.Center,1.0.0,,streamable-http,Read-only memory search and task context for AI clients. Requires a Mem.Center Pro account.
+2026-10-22T10:22:34.45362Z,io.github.saucelabs/sauce-api-mcp,,1.3.0,https://github.com/saucelabs/sauce-api-mcp,,An open-source MCP server that provides LLM access to the Sauce Labs API
+2026-10-22T10:27:41.6468Z,com.viral4all.ads/mcp,Viral4All Ads,1.2.0,,streamable-http,"Meta Ads control room: reports, new campaigns and budget changes that wait for owner approval."
+2026-10-22T10:29:33.011143Z,io.github.askads/mcp-vk-ads,VK Ads MCP,1.6.0,https://github.com/askads/mcp-vk-ads,,"MCP server for VK Ads (VK Реклама) API: manage ad plans, ad groups, banners, and statistics."
+2026-10-22T10:37:05.884907Z,app.lyricvideogenerator/lyric-video,LyricVideoGenerator,1.0.0,,streamable-http,"Turn a song and its lyrics into a word-synced lyric video, with three styles to choose from."
+2026-10-22T10:38:53.038367Z,io.github.Poseidon-t/safestreets,SafeStreets,1.0.0,https://github.com/Poseidon-t/safestreets-plugin,streamable-http,"Walkability and pedestrian safety for any US address: scores, neighborhoods, deadly roads."
+2026-10-22T10:39:21.157336Z,com.euroa11y/euroa11y,EuroA11y,0.2.0,https://github.com/antoine-olivier/euroa11y,streamable-http,"Accessibility audit of a web page (WCAG 2.2 AA, RGAA) and European Accessibility Act scope check"
+2026-10-22T10:39:32.654125Z,com.eclipsemission/eclipsemission,EclipseMission,1.1.0,,streamable-http,"Where to see the 2 August 2027 total solar eclipse: destinations, totality, lodging cost, flights"
+2026-10-22T10:42:01.695892Z,cloud.mobula/mobula,Mobula,2.0.0,,streamable-http,"Ask about your customers' Azure costs, compliance and Microsoft 365 security."
+2026-10-22T10:45:44.221439Z,com.rowsend/rowsend,Rowsend,1.0.0,https://github.com/rowsend/mcp,,"Draft and test marketing email for contacts in your own database, from a local desktop app."
+2026-10-22T10:47:29.314153Z,io.github.cgaeking/rootmind,RootMind,2.4.0,https://github.com/cgaeking/rootmind,,Search your local documents with page citations. Needs the RootMind app installed.
+2026-10-22T10:48:13.756393Z,com.euaiactlaw/eu-ai-act-explorer,EU AI Act Explorer,1.0.0,,streamable-http,"Read-only EU AI Act (Reg. 2024/1689 as amended) answers, citing official sources"
+2026-10-22T10:48:48.674968Z,dev.pages.geoquant-orb/geoquant-orb,GeoQuant Orb,3.0.0,,streamable-http,"Read-only geopolitics + market context for AI agents: Hormuz, GDELT news, Kraken prices, macro."
+2026-10-22T10:49:17.042174Z,com.textforagents/mcp-oauth-remediation-verification,MCP OAuth remediation verification,1.0.0,,streamable-http,"Three-leg MCP OAuth remediation verdicts, proven behaviourally against a canary server."
+2026-10-22T10:50:06.331659Z,io.github.pauldodd123/halfpennymac,Halfpenny Mac,0.1.1,https://github.com/pauldodd123/halfpenny-mac,,"Manage your rented Macs at Halfpenny Mac: list, check online, credentials, restart, update macOS."
+2026-10-22T10:50:47.973018Z,legal.solved/mcp,Solved Tax & Legal,1.0.0,,streamable-http,"UK tax and legal research grounded in legislation, HMRC guidance and case law, with citations."
+2026-10-22T10:53:40.41075Z,com.mfsmai/sentinel,MFSMAI Sentinel,1.1.0,,streamable-http,"Risk checks for BNB Chain tokens, wallets and ERC-8004 AI agents before you pay or trade."
+2026-10-22T10:55:13.656239Z,io.github.rosroyros/wa2agent,wa2agent,1.0.0,https://github.com/rosroyros/wa2agent-skills,streamable-http,"Read-only WhatsApp MCP: your AI agent reads the WhatsApp chats you choose. Hosted, no laptop needed."
+2026-10-22T10:56:54.199548Z,com.textforagents/paired-twin-change-trials-for-agents,Paired-Twin Change Trials,1.0.0,,streamable-http,Checkpoint-paired twin trials for agent fleet changes with blinded verdicts.
+2026-10-22T10:59:22.695121Z,com.tryranksmile/ranksmile,Ranksmile,1.0.0,,streamable-http,"AI visibility, Google rankings, Search Console and site audit data for your SEO agent."
+2026-10-22T11:04:23.78723Z,io.github.rowflare/rowflare,Rowflare,0.1.0,https://github.com/rowflare/rowflare,streamable-http,"Read and write Rowflare bases (open-source Airtable alternative): records, tables, fields, totals."
+2026-10-22T11:05:53.950378Z,io.github.houtini-ai/yubhub,YubHub,2.3.5,https://github.com/houtini-ai/yubhub,,Build job feeds from careers pages; query enriched jobs and hiring stats. Needs a YubHub API key
+2026-10-22T11:06:01.204338Z,com.theopenapps/openapps,OpenApps,1.0.0,,streamable-http,"Rankings, launches, featuring and MCP toolsets across the ChatGPT, Claude and Cursor app stores."
+2026-10-22T11:06:58.423967Z,com.hiroska/hiroska,Hiroska,1.0.0,,streamable-http,"AI video studio: generate with 80+ AI models, edit on a timeline and export 4K, from an assistant."
+2026-10-22T11:08:30.265089Z,ai.uxpilot/uxpilot,UX Pilot,1.0.0,https://github.com/uxpilot-ai/uxpilot-mcp,streamable-http,"UX Pilot's design agent for your AI tools: on-brand UI, design systems and React prototypes"
+2026-10-22T11:13:21.229933Z,au.com.ato-mcp/ato-mcp,Australian Tax MCP,2.3.0,https://github.com/william-laverty/ato-mcp,streamable-http,"Cited Australian tax answers from 34,500+ ATO documents, legislation and public rulings."
+2026-10-22T11:17:39.029268Z,com.shiplatch/scanner,ShipLatch,1.0.0,,streamable-http,"Free passive security scan for AI-built apps: leaked API keys, public .env files, security headers"

@@ -9,42 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 10:20 UTC
+## Latest list — 2026-10-22 11:19 UTC
 
-New MCP servers published between 2026-10-22 09:22 UTC and 2026-10-22 10:20 UTC.
+New MCP servers published between 2026-10-22 10:20 UTC and 2026-10-22 11:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-22T10-20-30-235028Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-22T11-19-52-406284Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-22 09:23:11 | shop.sampo/catalog | Супермаркет САМПО | 1.0.0 | Каталог и заказ супермаркета САМПО. Оплата на странице банка. |
-| 2026-10-22 09:23:33 | io.smartvisuals/catalog | SmartVisuals Catalog | 1.0.0 | Find SmartVisuals Power BI custom visuals and get GUIDs, data roles and PBIR bi… |
-| 2026-10-22 09:25:11 | io.emelia/mcp | Emelia | 0.1.0 | Run Emelia cold email and LinkedIn campaigns, lists, enrichment and your Emelia… |
-| 2026-10-22 09:27:21 | [io.github.markankamaransheogarat-sys/crypto-pulse-mcp](https://github.com/markankamaransheogarat-sys/crypto-pulse-mcp) |  | 0.1.0 | Read-only crypto market data: prices, funding, open interest, DeFi TVL, stablec… |
-| 2026-10-22 09:28:16 | io.github.sumitrmardy/pdf-text-extractor | PDF Text Extractor | 1.0.0 | Text from PDF links, OCR for scanned pages. One flat row per URL, never null. B… |
-| 2026-10-22 09:33:44 | com.textforagents/futility-breaker-evidence-bound-stopping | Futility Breaker | 1.0.0 | Evidence-bound stopping for agents: judgment ledger, binding futility verdicts,… |
-| 2026-10-22 09:35:11 | [io.github.perforce/p4plan-mcp](https://github.com/perforce/p4plan-mcp.git) |  | 2026.3.2 | MCP server for P4 Plan — tasks, sprints, bugs, comments, custom fields via Grap… |
-| 2026-10-22 09:35:26 | nl.prijsprofeet/prijsprofeet-be | PrijsProfeet België / Belgique | 1.1.1 | Belgian supermarket deals and regular prices (Colruyt, Delhaize, Aldi...): wher… |
-| 2026-10-22 09:36:33 | dev.workers.moneymaker-ai.ai-policy-kit/x402-tools | Money Maker x402 tools: EVM reads + AI… | 1.1.0 | x402 pay-per-call: EVM balances, tx decode, transfers; AI extract, classify, em… |
-| 2026-10-22 09:37:24 | com.kissfroggy/kissfroggy | Kissfroggy | 1.0.0 | Dating where you can only list your flaws. Your agent declares them and ticks w… |
-| 2026-10-22 09:39:26 | app.maylee/maylee | Maylee | 1.0.0 | Maylee AI email: read, search, triage, draft and send; manage labels, views and… |
-| 2026-10-22 09:40:12 | to.funel/funel | FUNEL | 1.0.0 | Search B2B people, companies and local businesses and build lead lists from you… |
-| 2026-10-22 09:41:26 | com.mystictiming/bazi | Mystic Timing BaZi | 1.0.0 | Chinese BaZi (Four Pillars) birth charts, yearly outlook and compatibility. No… |
-| 2026-10-22 09:43:35 | [io.github.Apollo-lwx/rsi-boot](https://github.com/Apollo-lwx/rsi-boot) | RSI Boot | 0.1.1 | Repo-bound memory and self-improving harness for AI coding agents — zero API ke… |
-| 2026-10-22 09:43:38 | [app.ncha/encha](https://github.com/vincenzo0219/encha) | 엔차 · 오래 버틴 맛집 | 1.0.0 | Korean long-running restaurants (Seoul, Gyeonggi) from public license records,… |
-| 2026-10-22 09:46:13 | com.textforagents/directory-submission-retention-proof | Directory Submission Retention Proof | 1.0.0 | Pre-submission escrow receipts and coverage-aware retention diffs. |
-| 2026-10-22 09:47:27 | [io.github.motock/fagan](https://github.com/motock/fagan) |  | 0.8.0 | Autonomous coding pipeline: frontier models plan and review, open-weight models… |
-| 2026-10-22 09:51:02 | [app.creatora.lexatlas/lexatlas-mcp](https://github.com/creatoraapp-cpu/lexatlas-mcp) | LexAtlas | 1.0.0 | Current law as data for AI: search, read and verify statutes and citations. CIS… |
-| 2026-10-22 09:54:56 | [io.github.jarbon/carbon](https://github.com/jarbon/carbon-free) | CARBON | 1.32.22-free.17 | AI testing harness with Jay: risk-based checks, bug investigation, and local ev… |
-| 2026-10-22 09:55:31 | [io.github.nubiia-dev/mcp-freematica](https://github.com/nubiia-dev/mcp-freematica) |  | 0.11.2 | Freemática ERP: invoicing, receivables, suppliers, accounting and HR through 30… |
-| 2026-10-22 09:55:56 | com.lowlanddata/eu-real-estate | LowlandData EU Real Estate | 1.3.0 | GDPR-clean property listings, rents, price stats, yields and below-market deals… |
-| 2026-10-22 09:57:11 | [io.github.l20941485-blip/bintu](https://github.com/l20941485-blip/Bintu-API) | Bintu Web Reader | 1.0.1 | Fetch public web pages as clean, token-budgeted text for AI agents. |
-| 2026-10-22 10:03:49 | app.geoa/geoa | Geoa — Get found in ChatGPT | 1.2.0 | Check whether ChatGPT, Gemini and Perplexity recommend a business, and get fixe… |
-| 2026-10-22 10:06:59 | com.getcloseknit/close-knit | Close Knit | 2.0.0 | London neighbourhoods and homes: crime, schools, prices, rents, commute, green… |
-| 2026-10-22 10:07:42 | [com.mailyond/mcp](https://github.com/BeyondFolder/mailyond) | Mailyond | 1.0.1 | Read, reply to and send email across every domain you connect to Mailyond, via… |
-| 2026-10-22 10:12:05 | [io.github.markankamaransheogarat-sys/stellar-pulse-mcp](https://github.com/markankamaransheogarat-sys/stellar-pulse-mcp) |  | 0.1.0 | Read-only Stellar analytics: network and fees, asset checks, SDEX books, accoun… |
-| 2026-10-22 10:12:23 | xyz.phase.ai/gateway | Fermat | 0.3.0 | OpenAI-compatible LLM gateway: pay per request with an API key, signed receipt… |
-| 2026-10-22 10:13:21 | com.textforagents/single-use-agent-burn-receipt | Single-Use Agent Burn Receipt | 1.0.0 | Task-bound disposable agent minting with canary-shard burn receipts. |
+| 2026-10-22 10:21:37 | center.mem/mem-center | Mem.Center | 1.0.0 | Read-only memory search and task context for AI clients. Requires a Mem.Center… |
+| 2026-10-22 10:22:34 | [io.github.saucelabs/sauce-api-mcp](https://github.com/saucelabs/sauce-api-mcp) |  | 1.3.0 | An open-source MCP server that provides LLM access to the Sauce Labs API |
+| 2026-10-22 10:27:41 | com.viral4all.ads/mcp | Viral4All Ads | 1.2.0 | Meta Ads control room: reports, new campaigns and budget changes that wait for… |
+| 2026-10-22 10:29:33 | [io.github.askads/mcp-vk-ads](https://github.com/askads/mcp-vk-ads) | VK Ads MCP | 1.6.0 | MCP server for VK Ads (VK Реклама) API: manage ad plans, ad groups, banners, an… |
+| 2026-10-22 10:37:05 | app.lyricvideogenerator/lyric-video | LyricVideoGenerator | 1.0.0 | Turn a song and its lyrics into a word-synced lyric video, with three styles to… |
+| 2026-10-22 10:38:53 | [io.github.Poseidon-t/safestreets](https://github.com/Poseidon-t/safestreets-plugin) | SafeStreets | 1.0.0 | Walkability and pedestrian safety for any US address: scores, neighborhoods, de… |
+| 2026-10-22 10:39:21 | [com.euroa11y/euroa11y](https://github.com/antoine-olivier/euroa11y) | EuroA11y | 0.2.0 | Accessibility audit of a web page (WCAG 2.2 AA, RGAA) and European Accessibilit… |
+| 2026-10-22 10:39:32 | com.eclipsemission/eclipsemission | EclipseMission | 1.1.0 | Where to see the 2 August 2027 total solar eclipse: destinations, totality, lod… |
+| 2026-10-22 10:42:01 | cloud.mobula/mobula | Mobula | 2.0.0 | Ask about your customers' Azure costs, compliance and Microsoft 365 security. |
+| 2026-10-22 10:45:44 | [com.rowsend/rowsend](https://github.com/rowsend/mcp) | Rowsend | 1.0.0 | Draft and test marketing email for contacts in your own database, from a local… |
+| 2026-10-22 10:47:29 | [io.github.cgaeking/rootmind](https://github.com/cgaeking/rootmind) | RootMind | 2.4.0 | Search your local documents with page citations. Needs the RootMind app install… |
+| 2026-10-22 10:48:13 | com.euaiactlaw/eu-ai-act-explorer | EU AI Act Explorer | 1.0.0 | Read-only EU AI Act (Reg. 2024/1689 as amended) answers, citing official sources |
+| 2026-10-22 10:48:48 | dev.pages.geoquant-orb/geoquant-orb | GeoQuant Orb | 3.0.0 | Read-only geopolitics + market context for AI agents: Hormuz, GDELT news, Krake… |
+| 2026-10-22 10:49:17 | com.textforagents/mcp-oauth-remediation-verification | MCP OAuth remediation verification | 1.0.0 | Three-leg MCP OAuth remediation verdicts, proven behaviourally against a canary… |
+| 2026-10-22 10:50:06 | [io.github.pauldodd123/halfpennymac](https://github.com/pauldodd123/halfpenny-mac) | Halfpenny Mac | 0.1.1 | Manage your rented Macs at Halfpenny Mac: list, check online, credentials, rest… |
+| 2026-10-22 10:50:47 | legal.solved/mcp | Solved Tax & Legal | 1.0.0 | UK tax and legal research grounded in legislation, HMRC guidance and case law,… |
+| 2026-10-22 10:53:40 | com.mfsmai/sentinel | MFSMAI Sentinel | 1.1.0 | Risk checks for BNB Chain tokens, wallets and ERC-8004 AI agents before you pay… |
+| 2026-10-22 10:55:13 | [io.github.rosroyros/wa2agent](https://github.com/rosroyros/wa2agent-skills) | wa2agent | 1.0.0 | Read-only WhatsApp MCP: your AI agent reads the WhatsApp chats you choose. Host… |
+| 2026-10-22 10:56:54 | com.textforagents/paired-twin-change-trials-for-agents | Paired-Twin Change Trials | 1.0.0 | Checkpoint-paired twin trials for agent fleet changes with blinded verdicts. |
+| 2026-10-22 10:59:22 | com.tryranksmile/ranksmile | Ranksmile | 1.0.0 | AI visibility, Google rankings, Search Console and site audit data for your SEO… |
+| 2026-10-22 11:04:23 | [io.github.rowflare/rowflare](https://github.com/rowflare/rowflare) | Rowflare | 0.1.0 | Read and write Rowflare bases (open-source Airtable alternative): records, tabl… |
+| 2026-10-22 11:05:53 | [io.github.houtini-ai/yubhub](https://github.com/houtini-ai/yubhub) | YubHub | 2.3.5 | Build job feeds from careers pages; query enriched jobs and hiring stats. Needs… |
+| 2026-10-22 11:06:01 | com.theopenapps/openapps | OpenApps | 1.0.0 | Rankings, launches, featuring and MCP toolsets across the ChatGPT, Claude and C… |
+| 2026-10-22 11:06:58 | com.hiroska/hiroska | Hiroska | 1.0.0 | AI video studio: generate with 80+ AI models, edit on a timeline and export 4K,… |
+| 2026-10-22 11:08:30 | [ai.uxpilot/uxpilot](https://github.com/uxpilot-ai/uxpilot-mcp) | UX Pilot | 1.0.0 | UX Pilot's design agent for your AI tools: on-brand UI, design systems and Reac… |
+| 2026-10-22 11:13:21 | [au.com.ato-mcp/ato-mcp](https://github.com/william-laverty/ato-mcp) | Australian Tax MCP | 2.3.0 | Cited Australian tax answers from 34,500+ ATO documents, legislation and public… |
+| 2026-10-22 11:17:39 | com.shiplatch/scanner | ShipLatch | 1.0.0 | Free passive security scan for AI-built apps: leaked API keys, public .env file… |
 
 ## Data source
 
