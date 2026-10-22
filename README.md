@@ -9,48 +9,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 17:18 UTC
+## Latest list — 2026-10-22 18:18 UTC
 
-New MCP servers published between 2026-10-22 16:21 UTC and 2026-10-22 17:18 UTC.
+New MCP servers published between 2026-10-22 17:18 UTC and 2026-10-22 18:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-22T17-18-47-834005Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-22T18-18-49-939704Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-22 16:24:05 | com.cachejay/cachejay | Cachejay | 1.0.0 | Memory for your AI: what you saw on screen, said in calls and worked on, search… |
-| 2026-10-22 16:24:17 | io.antaeus/antaeus | Antaeus | 0.1.0 | Check user intent and proposed actions against approved semantic policies. |
-| 2026-10-22 16:25:51 | com.checkgrow/checkgrow | Checkgrow | 1.0.0 | Your company's marketing data from Checkgrow: knowledge, performance, campaigns… |
-| 2026-10-22 16:26:44 | [io.github.Rererr/amenbo](https://github.com/Rererr/amenbo) |  | 0.6.2 | Japanese-web-native MCP server for low-impact, token-efficient web collection |
-| 2026-10-22 16:31:00 | tv.sleipnir/sleipnir | Sleipnir Multistream | 1.0.1 | Multistream relay control: check live status, switch destinations, manage teams… |
-| 2026-10-22 16:34:09 | co.youraitools/counterpartycheck | CounterpartyCheck | 0.1.0 | Pre-payment check for EVM/Solana addresses: ok/caution/block with reasons. By C… |
-| 2026-10-22 16:36:20 | realestate.palmera/catalog | Palmera property catalog | 1.0.0 | Off-plan and ready property in the UAE, Oman, Georgia, Cyprus, Bali, Thailand a… |
-| 2026-10-22 16:36:25 | il.co.netik/catalog | Netik | 1.2.0 | Netik services in Israel (websites, systems, AI agents) with final prices in IL… |
-| 2026-10-22 16:36:32 | realestate.rak/catalog | RAK Real Estate projects | 1.0.0 | Off-plan projects in Ras Al Khaimah, UAE: search by area, developer, budget and… |
-| 2026-10-22 16:36:45 | [xyz.forkcaster/mcp](https://github.com/artlu99/forkcaster_xyz) |  | 1.0.0 | Resolve Farcaster casts to deep-link URLs for any supported Farcaster client ap… |
-| 2026-10-22 16:39:48 | io.github.myworkingmemory/curated-finds | Curated Finds on Apify | 2026.10.22 | Search a software catalogue with source-review dates via authenticated Apify Ac… |
-| 2026-10-22 16:40:16 | com.skimmerdb/skimmerdb | SkimmerDB | 1.0.0 | Search and SQL on object storage: full-text, vector and hybrid search plus SQL… |
-| 2026-10-22 16:41:06 | il.co.drushimavodot.www/jobs | דרושים - עבודות | 1.0.0 | חיפוש משרות, אירועים, מומחים וקורסים, בלי מפתח |
-| 2026-10-22 16:45:35 | [io.github.mangrove-one/mangroveai](https://github.com/MangroveTechnologies/mangrove-agent) | MangroveAI | 1.0.0 | Backtest and paper-trade crypto strategies. Free API key or pay per call in USD… |
-| 2026-10-22 16:47:08 | com.dedupedai/deduped-mcp | Deduped AI use cases | 0.1.0 | AI use cases with steps and agent prompts for hot GitHub AI repos, plus daily A… |
-| 2026-10-22 16:47:17 | app.linear/linear | Linear | 1.0.2 | Find and manage issues, projects, and documents in your Linear workspace. |
-| 2026-10-22 16:52:27 | [io.github.iksnerd/adb-mcp](https://github.com/iksnerd/adb-mcp) | adb-mcp: Android emulator and device co… | 0.24.1 | Drive an Android emulator or device over adb: screenshot, inspect UI, tap, type… |
-| 2026-10-22 16:54:17 | io.github.altss-data/public-profiles | Altss Public Profiles | 1.0.0 | Search and read bounded published Altss profile summaries with canonical citati… |
-| 2026-10-22 16:54:31 | de.lehrerbegleiter/referendariat | Lehrerbegleiter | 1.0.0 | Referendariat und Beihilfe für Lehrkräfte in allen 16 Bundesländern: Fahrplan,… |
-| 2026-10-22 16:58:25 | dev.workers.jbarkules.agent-tools/agent-tools | Agent Tools | 1.0.0 | Pay-per-call agent tools via x402 USDC on Base: email check, PDF text, OCR, web… |
-| 2026-10-22 17:00:42 | app.paramability/mcp | Paramability | 1.0.0 | Links your AI assistant app to the Paramability tab open in Chrome. Runs on you… |
-| 2026-10-22 17:02:51 | com.fynk.app/mcp | fynk MCP Server | 1.0.0 | Draft, find, update and sign contracts in fynk, the European contract managemen… |
-| 2026-10-22 17:03:47 | com.geekwala/dependency-scanner | GeekWala Dependency Scanner | 1.0.0 | Check dependencies for known CVEs with EPSS and CISA KEV context. Read-only; fr… |
-| 2026-10-22 17:06:51 | [io.github.CloudCorpRecords/mcpvet](https://github.com/CloudCorpRecords/mcpvet) |  | 0.1.0 | Pre-install vetting for MCP servers and skills: capabilities, configs, mismatch… |
-| 2026-10-22 17:06:58 | com.luxorplasticcards/plastic-business-cards | Luxor Plastic Cards | 1.0.0 | Quote and order premium 30mil clear, frosted and white plastic business cards,… |
-| 2026-10-22 17:09:18 | [io.github.restspace/sitelooper](https://github.com/restspace/sitelooper) |  | 0.7.0 | Record a browser flow once with a model, then compile it to a Playwright spec t… |
-| 2026-10-22 17:09:59 | [io.github.CalmNguyen/ttsforfree](https://github.com/CalmNguyen/ttsforfree-mcp) | TTSForFree | 1.0.0 | Generate AI voices, text-to-speech, subtitles, transcription, and video localiz… |
-| 2026-10-22 17:11:21 | [com.dipscout/dipscout](https://github.com/czimbr/Ali) |  | 1.0.0 | AliExpress price history in USD and real price drops, verified against our own… |
-| 2026-10-22 17:11:37 | com.calipermoney/money-calculators | Caliper money calculators | 1.0.0 | Net worth percentile by age (Federal Reserve data) and retirement savings calcu… |
-| 2026-10-22 17:12:24 | io.github.akhilrajesh213/kijiji-scraper | Kijiji Scraper & Tracker (listings, pri… | 0.1.5 | Kijiji listings for AI agents: search by keyword, city and category; price drop… |
-| 2026-10-22 17:16:06 | co.barmaan/barmaan | Barmaan | 1.0.0 | Barmaan catalogue: instruments, specs, guides, certificate check, quote requests |
-| 2026-10-22 17:16:23 | com.nanocalcs/calculators | Nanocalcs | 0.2.1 | Exact calculators (loans, dates, units, LLM tokens, API cost, VRAM) + prefilled… |
-| 2026-10-22 17:17:24 | uk.co.fantasyfootballhub/fantasy-football-hub | Fantasy Football Hub | 44d920389458 | Fantasy Premier League predictions, fixture difficulty, team news and your own… |
-| 2026-10-22 17:18:33 | com.mynexusapi/ecuafact | Ecuafact · Facturación electrónica SRI | 1.0.0 | Emite y consulta comprobantes electrónicos del SRI (Ecuador) en tu cuenta de Ec… |
+| 2026-10-22 17:19:56 | [io.github.mattoddie/bluelink-mcp](https://github.com/mattoddie/bluelink-mcp) | Hyundai Bluelink / Kia Connect | 0.3.1 | Check your Hyundai or Kia's charge, range, locks and location, pre-heat it and… |
+| 2026-10-22 17:20:00 | [com.zadojo/seo-geo-mcp](https://github.com/zadojo/seo-geo-mcp) | zaDojo SEO and AI visibility | 1.0.24 | SEO and AI visibility for agents: keywords, SERPs, backlinks, audits, rank and… |
+| 2026-10-22 17:21:05 | [io.github.Serios16/edgar13f-mcp](https://github.com/Serios16/edgar13f-mcp) | EDGAR 13F point-in-time | 1.2.2 | SEC Form 13F holdings as they could have been known on a given date (stdio). |
+| 2026-10-22 17:21:32 | [io.github.CloudCorpRecords/depguard](https://github.com/CloudCorpRecords/depguard) |  | 0.1.0 | PR dependency early warning: install scripts, typosquats, downgrades, and lockf… |
+| 2026-10-22 17:21:33 | [io.github.mattoddie/unifi-mcp](https://github.com/mattoddie/unifi-mcp) | UniFi | 0.6.1 | Manage a Ubiquiti UniFi network: devices, clients, WiFi, firewall and VPN. Read… |
+| 2026-10-22 17:21:35 | app.twelvebit/analytics | twelvebit Analytics | 1.0.0 | Web and revenue analytics: traffic, goals, funnels, journeys and revenue by sou… |
+| 2026-10-22 17:21:36 | [io.github.mattoddie/crunch-mcp](https://github.com/mattoddie/crunch-mcp) | Crunch Accounting (crunch-mcp) | 0.4.1 | Work with your Crunch Accounting books: expenses, receipts, invoices, clients,… |
+| 2026-10-22 17:21:45 | [io.github.mattoddie/proxmox-mcp](https://github.com/mattoddie/proxmox-mcp) | Proxmox VE | 0.5.1 | Monitor and manage Proxmox VE clusters: VMs, containers, storage and backups. R… |
+| 2026-10-22 17:21:49 | [io.github.mattoddie/hive-mcp](https://github.com/mattoddie/hive-mcp) | Hive heating | 0.3.1 | Check and control Hive smart heating: thermostats, radiator valves, hot water a… |
+| 2026-10-22 17:22:01 | [io.github.mattoddie/octopus-mcp](https://github.com/mattoddie/octopus-mcp) | Octopus Energy (octopus-mcp) | 0.3.1 | Octopus Energy usage and costs, tariffs, Agile prices, bills, EV charging and S… |
+| 2026-10-22 17:24:08 | [io.github.CloudCorpRecords/flowcheck](https://github.com/CloudCorpRecords/flowcheck) |  | 0.1.0 | Least-privilege auditor for GitHub Actions workflows: permissions, triggers, se… |
+| 2026-10-22 17:27:09 | com.signwithsigil/sigil | Sigil e-signatures | 1.0.7 | Send a PDF or DOCX for e-signature as a pact, track its signers and fetch the s… |
+| 2026-10-22 17:27:36 | com.bootform/bootform | BootForm | 1.0.0 | Form backend for static sites: create forms, add email or Discord notifications… |
+| 2026-10-22 17:29:06 | dev.tanod/apify-pdf-ocr | Tanod PDF OCR (Apify, card-paid) | 0.1.0 | PDF OCR via Apify. Pay by card with an Apify account, no crypto wallet. |
+| 2026-10-22 17:29:08 | dev.tanod/apify-document-to-markdown | Tanod Document to Markdown (Apify, card… | 0.1.0 | Document to Markdown via Apify. Pay by card with an Apify account, no crypto wa… |
+| 2026-10-22 17:29:11 | dev.tanod/apify-image-ocr | Tanod Image OCR (Apify, card-paid) | 0.1.0 | Image OCR via Apify. Pay by card with an Apify account, no crypto wallet. |
+| 2026-10-22 17:29:16 | dev.tanod/apify-pdf-toolkit | Tanod PDF Toolkit (Apify, card-paid) | 0.1.0 | PDF merge, split and compress via Apify. Pay by card with an Apify account, no… |
+| 2026-10-22 17:32:43 | cl.rlabs/arketum | Arketum | 1.0.0 | Verified lifecycle for building software with an agent: units, human gates, req… |
+| 2026-10-22 17:40:56 | [io.github.Maytrella007/protonlite](https://github.com/Maytrella007/protonlite) |  | 0.1.2 | Python Proton Mail, Calendar, Contacts and Drive client with an MCP server. Fre… |
+| 2026-10-22 17:43:00 | [io.github.rohanbeingsocial/showboard](https://github.com/rohanbeingsocial/showboard) | Showboard | 0.4.0 | Your coding agent answers with dashboards: charts and tables from read-only SQL… |
+| 2026-10-22 17:44:29 | com.vibeday/vibeday | VibeDay | 1.0.0 | Make, preview, schedule and publish social posts, carousels, video and reels fr… |
+| 2026-10-22 17:44:36 | io.github.attachmentnerd/houseexhale | HouseExhale | 1.0.0 | Explain bedroom CO2 readings, check certified HRV/ERV airflow, and find US inst… |
+| 2026-10-22 17:48:16 | co.youraitools/solverdict | SolVerdict | 0.1.0 | Safety check for Solana SPL/Token-2022 mints: SAFE/CAUTION/DANGER + reasons. By… |
+| 2026-10-22 17:50:28 | com.flatheadtrades/directory | Flathead Trades | 1.0.0 | Builders, tradespeople and home services in Montana's Flathead Valley, with pho… |
+| 2026-10-22 17:50:47 | io.routemarket/routemarket | RouteMarket | 1.0.0 | Trip notebook: save a plan as places on a map, decide definitely/maybe/no, set… |
+| 2026-10-22 17:51:09 | [io.github.DeltaX-Public/deltax-preflight](https://github.com/DeltaX-Public/deltax-preflight) | DeltaX Preflight | 0.1.0 | Check finite candidate proposals against separate policy and evidence, with can… |
+| 2026-10-22 17:52:13 | com.textforagents/a2a-agent-card-cross-sdk-signature-conformance | A2A Agent Card Cross-SDK Signature Conf… | 1.0.0 | Per-SDK verdict matrix for signed A2A Agent Cards: which signatures verify in e… |
+| 2026-10-22 17:53:32 | co.youraitools/x402fix | x402fix | 0.1.0 | x402 endpoint doctor: grades a paid route A-F unpaid, with paste-ready fixes. B… |
+| 2026-10-22 17:54:32 | [io.github.bpays/benji-pays](https://github.com/bpays/benji-pays-agent-plugin) | Benji Pays | 1.7.3 | Sits between accounting and payment rails for reminders, Pay Now, autopay, port… |
+| 2026-10-22 17:58:45 | com.repolode/repolode | Repolode | 1.0.0 | Search curated open-source GitHub projects: write-ups, alternatives, trending,… |
+| 2026-10-22 17:58:55 | [io.github.sandraschi/qcad-mcp](https://github.com/sandraschi/qcad-mcp) |  | 0.5.0 | QCAD 2D CAD automation: DXF/DWG floor plans to SVG and STL, via MCP tools and R… |
+| 2026-10-22 18:02:15 | [io.github.anondotli/anon-li](https://github.com/anondotli/anon.li) | anon.li | 1.0.0 | Manage anon.li email aliases, recipients and encrypted file drop metadata over… |
+| 2026-10-22 18:02:58 | tech.spriteforge/editor | SpriteForge Editor | 0.1.0 | Free pixel and tileset editor, no account: hand-edit sprites, animations and Wa… |
+| 2026-10-22 18:03:01 | tech.spriteforge/spriteforge | SpriteForge | 0.2.0 | Generate pixel-art sprites, animations and tilesets on your SpriteForge account… |
+| 2026-10-22 18:04:34 | io.github.cadenlpicard/rocketvault | RocketVault Public Knowledge and Market… | 1.4.0 | Search public RocketVault card listings and read product documentation. |
+| 2026-10-22 18:04:39 | de.ferienhaus-schwarzwald-todtnauberg/live-preise | Preise & Verfügbarkeit - Scheuermatthof… | 1.2.0 | Live-Preise und Verfügbarkeit für Scheuermatthof und Ferienhaus Im Birkenweg. |
+| 2026-10-22 18:06:19 | dev.workers.mhoydich.the-wild-x402/the-wild | The Wild | 0.16.0 | Read-only tools for The Wild: spirits, altars, prices. Prayers, candles, witnes… |
+| 2026-10-22 18:07:19 | [io.github.furkanyesildag/cogladius-mcp](https://github.com/furkanyesildag/cogladius) |  | 0.2.4 | Earn XLM on Stellar: find paid agent tasks, buy data over MPP, submit work, get… |
+| 2026-10-22 18:10:24 | app.vercel.jestsprout/jestsprout | JestSprout Meme Coin & Solana Rug-Check… | 1.1.0 | Free Solana token rug checks, memecoin ticker checks, trends, name ideas, logos… |
 
 ## Data source
 
