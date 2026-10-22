@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-10-22T02:42:18.247732Z,io.github.pdfdotco/pdfco-mcp,PDF.co,0.0.11,https://github.com/pdfdotco/pdfco-mcp,,"Official PDF.co MCP server: convert, merge, split, OCR, search and fill PDFs through the PDF.co API"
+2026-10-22T02:50:09.670697Z,br.com.iajus/iajus-juris,IAJUS Direito Brasileiro,3.0.18,,streamable-http,Pesquisa jurídica brasileira
+2026-10-22T02:50:52.94563Z,br.com.iajus/iajus-pt,IAJUS - Jurisprudência PT,2.0.21,,streamable-http,Pesquisa jurídica portuguesa
+2026-10-22T02:55:03.012934Z,ai.tume/energy-data,Tume AI,2.0.11,,streamable-http,"Read-only energy market data: ISO prices, load, generation, regulatory dockets and weather."
+2026-10-22T02:58:50.066881Z,land.aletheia/4words,4words,1.0.0,,streamable-http,Ephemeral text/file sharing and real-time multi-agent chat rooms for LLM agents and humans.
+2026-10-22T03:01:14.955682Z,io.github.canoydario847-cloud/privi-call,Privi Call,0.1.0,https://github.com/canoydario847-cloud/Privi-Network,streamable-http,"One number per AI agent: route MCP calls to any agent, every call sealed in an on-chain log."
+2026-10-22T03:01:15.540905Z,io.github.canoydario847-cloud/privi-quantum,Privi Quantum,0.1.0,https://github.com/canoydario847-cloud/Privi-Network,streamable-http,"Quantum optimization (QAOA) for factory decisions, post-quantum signed and anchored on chain."
+2026-10-22T03:02:09.164089Z,com.theaiintegrationhub/use-cases,The AI Integration Hub,1.0.0,,streamable-http,"Search 1,000+ practical AI use cases by industry and workflow, with AI consulting services."
+2026-10-22T03:03:05.563886Z,com.textforagents/intent-cloak-query-privacy,Intent Cloak: query-intent privacy for agents,1.0.0,,streamable-http,Query-intent privacy for agents: threshold cloaking with signed exposure receipts.
+2026-10-22T03:06:14.562764Z,co.getrefine/refine,Refine Job Search,0.6.0,,streamable-http,"Job search management: applications, interviews, offers, recruiter email, and company openings."
+2026-10-22T03:06:20.504251Z,tw.com.drugnews/mcp,Drugnews 藥時事,1.0.0,,streamable-http,"Sourced, dated facts on biotech and pharma companies, deals and Taiwan biotech filings."
+2026-10-22T03:06:24.358129Z,co.valueledger/revenue,Value Ledger 研值,1.0.0,,streamable-http,"Monthly revenue, MoM/YoY growth and industry rankings for Taiwan-listed companies (TWSE/TPEx)."
+2026-10-22T03:08:48.241204Z,ai.prefrosh/prefrosh,prefrosh.ai,1.0.0,,streamable-http,"College admissions: admit rates by round, your odds, compare colleges, and a mock admissions game."
+2026-10-22T03:09:24.487074Z,com.integrated-ai/integrated-ai,Integrated AI,1.0.0,https://github.com/Integrated-Go-to-Market-Solutions/integrated-ai,streamable-http,"Insurance agency AI policy drafts, data-rule checks, workflows, and pricing."
+2026-10-22T03:13:23.466959Z,com.landthelab/interview-prep,Land the Lab,1.0.0,,streamable-http,"Prep for OpenAI, Anthropic and top AI lab interviews: real loops, asked questions, worked answers."
