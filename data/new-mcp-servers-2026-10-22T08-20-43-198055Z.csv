@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-10-22T07:22:26.762615Z,ai.lfglabs/t3-watch,t3-watch,0.4.0,https://github.com/sami-abdul/t3-watch,,An agent on call for the things nobody watches. Checks run free; your agent wakes only on a change.
+2026-10-22T07:23:17.355487Z,io.github.JohnJackHouzi/droit-francais,Droit français sourcé,1.0.0,https://github.com/JohnJackHouzi/droit-francais-skill,streamable-http,"Droit français et européen officiel (Légifrance, DILA, EUR-Lex, jurisprudence), réponses sourcées."
+2026-10-22T07:34:16.013292Z,top.skillaria/skillaria,Skillaria.Top,1.0.0,,streamable-http,"Search and read Skillaria.Top courses (AI, DevOps, Linux, Git) and guides in 20 languages."
+2026-10-22T07:35:48.281331Z,com.lowlanddata/company-identity,LowlandData Company Identity,1.1.0,,streamable-http,"GDPR-clean company enrichment: domain, logo, socials, EU VAT and email-security from a name."
+2026-10-22T07:36:03.230092Z,com.lowlanddata/eu-marketplaces,LowlandData EU Marketplaces,1.7.0,,streamable-http,GDPR-clean marketplace listings and prices from 18 European countries. No seller personal data.
+2026-10-22T07:36:09.77067Z,com.textforagents/namespace-guard-for-merged-toolboxes,Namespace guard for merged toolboxes,1.0.0,,streamable-http,"Pre-connection collision audit for merged MCP toolboxes, trust-graded, with signed routing receipts."
+2026-10-22T07:38:37.842975Z,co.youraitools/stackdetect,StackDetect,0.1.0,,streamable-http,"Detect a website's tech stack (frameworks, hosting, CDN, analytics). By Crypto Money Maker"
+2026-10-22T07:40:07.847963Z,io.github.rainyflash/agent-room,Agent Room,0.1.0-alpha.79,https://github.com/rainyflash/agent-room,streamable-http,"Chat rooms for people and AI agents: join a lobby or private room, wait for messages and reply."
+2026-10-22T07:40:22.932237Z,sh.getspace/space,Space,1.0.0,https://github.com/Hugo-SEQUIER/getspace,streamable-http,"One shared memory for all your AI agents: documents, tasks, databases and memories in one workspace"
+2026-10-22T07:40:25.203168Z,com.likelyread/likelyread,Likelyread,1.0.0,https://github.com/Hugo-SEQUIER/likelyread,streamable-http,"Email open tracking for agents: add a pixel, register the send, read back who opened it"
+2026-10-22T07:43:03.064228Z,com.textforagents/duty-and-rest-for-agents,Duty & Rest for agents,1.0.0,,streamable-http,Cross-session fatigue ledger for agents: FIT/CAUTION/GROUNDED dispatch gating.
+2026-10-22T07:48:45.266012Z,io.leadshark/apex,LeadShark Apex: LinkedIn MCP,1.0.0,,streamable-http,"LinkedIn MCP with 47 tools: post, comment, DM and run comment-to-DM automations inside your limits."
+2026-10-22T07:50:42.019093Z,ai.sportapi/football,SportAPI Football Data,1.1.0,,streamable-http,"Football fixtures, live scores, standings, lineups, teams and players for 117 leagues and cups"
+2026-10-22T07:52:15.801829Z,org.holdmark/registry,holdmark · facts about online stores,1.0.0,,streamable-http,Does this store deliver and refund? Measured with carriers and payment processors.
+2026-10-22T07:52:56.947206Z,com.earthdroids/handlewise,HandleWise AI,1.0.0,,streamable-http,Turn photos of your items into scheduled eBay listings on your own eBay seller account.
+2026-10-22T07:56:17.457127Z,app.pakbus/pakbus,PakBus,1.0.0,,streamable-http,"Bus and metro journeys, departures, routes, fares and service changes in Pakistani cities."
+2026-10-22T07:59:03.529372Z,io.github.sepehr071/toolsmelt,toolsmelt,0.7.0,https://github.com/sepehr071/toolsmelt,,"Curated MCP tools from OpenAPI, websites, apps, Postman, cURL or SQL; your agent designs them."
+2026-10-22T07:59:04.338426Z,io.github.busybusybussiness/uk-legislation-changes,UK Legislation Changes,0.1.2,https://github.com/busybusybussiness/uk-legislation-changes,streamable-http,"Point-in-time amendment history for 528 UK law provisions: search, version history, changes."
+2026-10-22T08:01:12.063062Z,io.github.nubiia-dev/mcp-borme,,1.0.0,https://github.com/nubiia-dev/mcp-borme,,"OpenMercantil (BORME): 37 read-only tools for Spanish company search, officers, sectors and tenders"
+2026-10-22T08:02:52.627629Z,com.telebart/lobby,Telebart agent lobby,1.0.0,,streamable-http,"An open chat room for AI agents. Read what other agents say and post your own. No sign-in, no key."
+2026-10-22T08:02:57.736134Z,com.telebart/barter,Telebart,1.0.0,,streamable-http,"Barter marketplace for agents: list your user's things, find swaps, propose trades. OAuth sign-in."
+2026-10-22T08:06:37.898785Z,io.github.Ashutos1997/ffmpeg-mcp-server,FFmpeg MCP Server,0.4.2,https://github.com/Ashutos1997/ffmpeg-mcp-server,,"FFmpeg & FFprobe media processing toolkit for video, audio, and social formats"
+2026-10-22T08:07:35.598055Z,com.postfjord/postfjord,Postfjord,0.4.0,,streamable-http,"Plan and schedule social posts, answer DMs and draft email campaigns for a small business."
+2026-10-22T08:11:54.749312Z,dev.workers.mike-tusa.contrastkit/contrastkit,ContrastKit,0.1.0,,streamable-http,"WCAG color contrast checks, nearest accessible color, CSS color conversion and palette pair checks."
+2026-10-22T08:12:11.233909Z,dev.workers.mike-tusa.semverkit/semverkit,SemverKit,0.1.0,,streamable-http,"Semver parse, compare, npm range checks, max-satisfying and version bumps (node-semver compatible)."
+2026-10-22T08:12:22.164366Z,dev.workers.mike-tusa.glyphguard/glyphguard,GlyphGuard,0.1.0,,streamable-http,"Find hidden Unicode (zero-width, bidi, tag payloads), homoglyphs and lookalike names in text."
+2026-10-22T08:18:01.534519Z,io.github.Alexxanddr/bunpro-mcp-server,Bunpro MCP Server,0.2.4,https://github.com/Alexxanddr/bunpro-mcp-server,,"Read-only access to Bunpro profile, reviews, study statistics, vocabulary, and search."
+2026-10-22T08:19:51.870046Z,io.github.konkomaji/opentoonz-mcp,OpenToonz MCP,0.1.0,https://github.com/konkomaji/opentoonz-mcp,,"Animate in OpenToonz from an AI assistant: native vector levels, xsheet timing, rigs and physics."
