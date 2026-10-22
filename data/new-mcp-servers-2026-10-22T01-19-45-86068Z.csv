@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-10-22T00:19:28.83926Z,co.youraitools/payguard,PayGuard,0.1.0,,streamable-http,"OFAC SDN sanctions screen for crypto addresses, for agents that send payments. By Crypto Money Maker"
+2026-10-22T00:19:41.373936Z,com.directmailamerica/mcp,DirectMailAmerica,1.25.0,,streamable-http,"Quote and send approved U.S. letters and postcards; manage email-to-mail rules, artwork and history."
+2026-10-22T00:24:29.706061Z,com.launchator/launchator,Launchator,1.0.0,,streamable-http,"Search a launch directory of new products, and submit and publish your own listing."
+2026-10-22T00:28:07.577179Z,no.glodi/public-catalog,GLØDI,2.0.0,,streamable-http,"Find clinics, treatments, prices and free times on GLØDI in Norway, with booking links."
+2026-10-22T00:30:42.401078Z,com.kevinlukelewis/agent-lounge-tools,Agent Lounge Tools,0.3.0,,streamable-http,"Agent Lounge helper: key checks, batch lookup, signing helpers, DMs; x402 paid tool on Base mainnet."
+2026-10-22T00:30:49.266741Z,com.kevinlukelewis/agent-lounge,Public Agent Lounge,0.3.0,,streamable-http,"Open chat room for bots: messages, private DMs, directory, task board, E2E keys, WebRTC signals."
+2026-10-22T00:34:06.433641Z,link.morningbrief/farmland,Farmland — USDA Land Values & Cash Rents for AI Agents,1.0.0,,streamable-http,"USDA farmland values and county cash rents for AI agents. Annual NASS data, free, no key."
+2026-10-22T00:42:19.188522Z,ai.lianex/lianex,Lianex public read API,1.0.0,,streamable-http,"Cache-only read tools over Lianex's shopping catalogue. No API key, no account, no auth."
+2026-10-22T00:42:47.150283Z,com.quienpatrocina/quien-patrocina,Quién Patrocina,1.0.0,,streamable-http,Which brands sponsor Spanish-language podcasts and YouTube channels in Spain and Latin America.
+2026-10-22T00:47:43.407093Z,ai.murmurcomputing/murmur,Murmur,0.2.7,,,Run NumPy scripts on your own Macs and LAN devices to a deadline. Licence required.
+2026-10-22T00:52:19.668607Z,cy.palmera/catalog,Palmera Cyprus catalogue,1.0.0,,streamable-http,"New-build homes in Cyprus: projects by place, budget and distance to the sea, and buying costs."
+2026-10-22T00:52:22.837271Z,dev.netik/catalog,Netik,1.2.0,,streamable-http,"Netik services (websites, systems, AI agents) with final prices, priced exactly as the site does."
+2026-10-22T01:08:33.416557Z,io.github.launzi/tvsub-mcp,tvsub MCP,0.2.3,https://github.com/launzi/tvsub-mcp,,"Control tvsub for Apple TV.app: subtitles, glossary-aware translation, overlay, styling, and sync."
+2026-10-22T01:09:42.026698Z,com.e-labus/health,E-Labus,1.1.0,,streamable-http,"Your lab results and health record in Claude: trends, retests, meds, conditions and symptoms."
+2026-10-22T01:12:16.28416Z,io.github.JonahAlexanian/cpfs-mcp,,1.1.35,,,CPFS Runner as an MCP server — deterministic AI coding guardrails via a compiled WASM core.
+2026-10-22T01:13:40.601855Z,com.latticerun/latticerun,LatticeRun,2.0.0,,streamable-http,"Let your AI agents claim a task, work inside it and report back on your LatticeRun task tree."
+2026-10-22T01:15:53.767868Z,io.github.philipwright1295-wq/glassbox-agent-arena,Glassbox Agent Arena,1.0.0,https://github.com/philipwright1295-wq/glassbox-agent-arena,streamable-http,"A$1 agent evaluation attempts, a conditional A$10 bounty and a separate synthetic dataset offer."
+2026-10-22T01:19:14.73022Z,io.github.OpenSOSData/mcp-server,OpenSOSData – US Business Entity Search,1.0.1,https://github.com/OpenSOSData/opensosdata-mcp,streamable-http,Search US business entity records across all 53 jurisdictions in real time
