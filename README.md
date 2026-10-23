@@ -9,36 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 09:21 UTC
+## Latest list — 2026-10-23 10:20 UTC
 
-New MCP servers published between 2026-10-23 08:18 UTC and 2026-10-23 09:21 UTC.
+New MCP servers published between 2026-10-23 09:21 UTC and 2026-10-23 10:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-23T09-21-44-59285Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-23T10-20-37-82622Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-23 08:19:45 | [io.github.inavi-systems/inavi-api-mcp](https://github.com/inavi-systems/inavi-api-mcp) | INAVI Maps API | 0.0.4 | INAVI Maps API for AI (South Korea): place search, geocoding, routes on an inte… |
-| 2026-10-23 08:22:25 | [io.github.seob717/redash-mcp](https://github.com/seob717/redash-mcp) |  | 3.4.0 | Connect Redash to Claude -- query data, manage dashboards, and run SQL with nat… |
-| 2026-10-23 08:31:16 | [io.github.inavi-systems/inavi-mcp](https://github.com/inavi-systems/inavi-mcp) | iNavi Maps Docs | 0.4.2 | iNavi Maps docs for AI (South Korea): API specs, Web JS SDK reference, HTML map… |
-| 2026-10-23 08:41:54 | com.losercoreplaylist/creative-tools | Losercore Playlist | 1.0.0 | Search starter tracks, get original scene prompts and prepare free local playli… |
-| 2026-10-23 08:43:23 | [io.github.xlbbb-cn/mcp-ssh-exec-cmd](https://github.com/xlbbb-cn/mcp_ssh_exec_cmd) | SSH Host Storage & Remote Exec | 0.1.3 | Stdio MCP server for SSH host storage and remote command execution with a conne… |
-| 2026-10-23 08:47:03 | [io.github.jeremdecustovox/custovox-ticket-scorer](https://github.com/jeremdecustovox/custovox-ai) |  | 1.0.0 | custovox.ai support ticket scoring MCP server: priority, category, sentiment, e… |
-| 2026-10-23 08:48:27 | ch.kranli/permis-construire | Kranli | 1.0.0 | New Swiss building permit applications by municipality and trade (last 90 days,… |
-| 2026-10-23 08:49:07 | [io.github.hansail001/sitekrs](https://github.com/hansail001/sitekrs-mcp) | SiteKrs | 4.0.0 | List SiteKrs templates and get editor links; import your own source on the Site… |
-| 2026-10-23 08:49:32 | [io.github.hedgerow-dev/hayward](https://github.com/hedgerow-dev/hayward) |  | 1.4.1 | Checks ML model files (pickle, PyTorch, joblib, NumPy, GGUF, ONNX) for code tha… |
-| 2026-10-23 08:53:58 | [io.github.jeremdecustovox/custovox-emotion](https://github.com/jeremdecustovox/custovox-ai) |  | 1.0.0 | custovox.ai MCP server: 7-emotion detection in English customer text (batch up… |
-| 2026-10-23 08:55:42 | [ai.intodns/scanner](https://github.com/RoscoNL/intodns-mcp-server) | IntoDNS.ai DNS & Email Security Scanner | 1.11.0 | DNS and email security: check SPF, DKIM, DMARC, DNSSEC, DANE and build the reco… |
-| 2026-10-23 08:59:55 | [money.whereitgoes/portfolio](https://github.com/khapham7165/whereitgoes-mcp) | WhereItGoes | 1.1.0 | Read your crypto portfolio across exchanges and wallets: holdings, history, FIF… |
-| 2026-10-23 09:01:58 | [io.github.tnvolman/jd-church-website-audit](https://github.com/tnvolman/jd-church-website-audit) | Church Website Audit by Journey Digital | 1.0.0 | Free church website audit for mobile, speed, SEO, and first-time guests. |
-| 2026-10-23 09:05:41 | com.novarithm.www/agent-hub | Novarithm Agent Hub: SEO & GEO audits a… | 1.0.0 | Live SEO & GEO audits for any URL (technical, keywords, links, local, AI visibi… |
-| 2026-10-23 09:06:20 | io.github.firsthanddata/job-postings | Firsthand Data - Job Postings | 0.1.0 | Live job postings from company career pages on Greenhouse, Lever, Ashby and Sma… |
-| 2026-10-23 09:09:31 | [io.github.CarlxsMG/UEAgent](https://github.com/CarlxsMG/UEAgent) | UEAgent | 2.6.0 | MCP server for Unreal Engine 5, built into the editor: Blueprints, materials, l… |
-| 2026-10-23 09:14:25 | [io.github.ZengLiangYi/chatcrystal](https://github.com/ZengLiangYi/ChatCrystal) | ChatCrystal | 0.6.2 | Local-first AI PKM memory for coding conversations. |
-| 2026-10-23 09:14:40 | [io.github.pdfluent/pdfluent-mcp](https://github.com/pdfluent/pdfluent-mcp) | PDFluent | 0.2.0 | Read, search and fill PDFs as markdown, text, tables, forms. Your documents sta… |
-| 2026-10-23 09:15:21 | [io.github.brekkylab/backlot](https://github.com/brekkylab/backlot) | Backlot | 0.1.0 | Local emulator for Slack, Gmail, Drive, GitHub, Jira, Notion, S3 and more, with… |
-| 2026-10-23 09:16:01 | [io.github.paidwithtab/tab](https://github.com/paidwithtab/tab) | tab | 2.3.1 | Agents pay per call over HTTP 402: 8,600+ API routes, owner-signed budgets, sig… |
-| 2026-10-23 09:18:38 | [my.publish/publish-my](https://github.com/aizuikmal/publish-my-mcp) | publish.my | 0.1.0 | Publish a folder as a live website at https://<id>.publish.my. Free, no account… |
-| 2026-10-23 09:19:26 | com.json2video/mcp | JSON2Video | 1.1.1 | Create videos with AI agents: render JSON2Video movies, check status, validate… |
+| 2026-10-23 09:26:08 | [io.github.ostrovit201/usilitel-signala](https://github.com/ostrovit201/usilitel-signala-mcp-server-manifest) | Усилитель сигнала | 1.2.0 | Cellular signal booster shop in Moscow: catalog, live prices and stock, equipme… |
+| 2026-10-23 09:30:46 | [io.github.cloudinary/asset-management-mcp](https://github.com/cloudinary/asset-management-mcp) | Cloudinary Asset Management | 0.11.5 | Upload, generate, organize, search, and transform images, videos, and files wit… |
+| 2026-10-23 09:32:44 | com.ce-net/mcp | ce-net | 0.1.0 | The ce-net cell network: print plates, compute, hosting, digital twins and a sh… |
+| 2026-10-23 09:36:18 | com.dharmikvibes/studio | DharmikStudio | 1.0.0 | Hindu devotional audio, katha, aartis, Gita, temple stories and festival guides… |
+| 2026-10-23 09:36:25 | com.dharmikvibes/divineai | DivineAI | 1.0.0 | Hindu panchang, verified festival dates, vrat dates and prayer texts from Divin… |
+| 2026-10-23 09:36:32 | [io.github.CoolSapiens/linkedin-mcp](https://github.com/CoolSapiens/linkedin-mcp) | LinkedIn MCP (by TalkToHumans) | 1.1.0 | The safest LinkedIn MCP: your Agents read DMs, search your network and draft me… |
+| 2026-10-23 09:36:44 | com.dharmikvibes/wellness | DharmikVibes Wellness | 1.0.0 | Spiritual wellness journeys, retreats and sessions across India, with plans and… |
+| 2026-10-23 09:37:31 | [io.github.adrianov/abcop](https://github.com/adrianov/abcop) | abcop | 0.23.0 | ABC complexity gate for AI-written code with an MCP inspection tool. |
+| 2026-10-23 09:38:19 | [so.faceless/faceless](https://github.com/Side-Products/faceless-desktop-extension) | Faceless | 1.1.39 | Make, render and auto-post AI faceless videos to YouTube, TikTok and Instagram… |
+| 2026-10-23 09:45:44 | ai.eventgen/eventgen | EventGen | 0.1.0 | Manage permitted EventGen events through account OAuth and reviewed actions. |
+| 2026-10-23 09:47:15 | is.grid/agent-tools | GRID Agent Tools | 0.5.0 | Load, read, edit, and recalculate .xlsx workbooks headlessly — no Excel require… |
+| 2026-10-23 09:47:16 | [com.follore/follore](https://github.com/Skyseezhang321/follore) | Follore | 1.0.0 | Save drafts, publish posts in your Follore space, and file issues of the column… |
+| 2026-10-23 09:48:51 | io.github.jlohmeier/smart-calendars-ai | Smart Calendars AI | 2.0.0 | Create and update subscription calendars from ChatGPT, Claude, or Codex. |
+| 2026-10-23 09:48:55 | [com.translatize/mcp](https://github.com/Translatize/integrations) |  | 0.1.3 | Read, search, edit and branch Translatize translation labels and fill missing t… |
+| 2026-10-23 09:49:45 | [io.usefulapi/brightpearl](https://github.com/m190/usefulapi-mcp) | Brightpearl MCP by usefulapi | 1.0.1 | Search Brightpearl orders, products, stock, contacts and payments; add notes, u… |
+| 2026-10-23 09:49:48 | [io.usefulapi/charliehr](https://github.com/m190/usefulapi-mcp) | CharlieHR MCP by usefulapi | 1.0.0 | Read CharlieHR team members, leave, allowances, offices, teams and salaries; ad… |
+| 2026-10-23 09:49:50 | [io.usefulapi/fieldpulse](https://github.com/m190/usefulapi-mcp) | FieldPulse MCP by usefulapi | 1.0.1 | Read FieldPulse customers, jobs, estimates, invoices, assets and projects; crea… |
+| 2026-10-23 09:49:54 | by.authorized/brands |  | 1.3.0 | Search brands, find authorized retailers and verify a shop's authorization on a… |
+| 2026-10-23 09:56:29 | [io.github.ronmiz/infernoflow](https://github.com/ronmiz/infernoflow) |  | 0.46.4 | Git-native memory for coding agents: gotchas, decisions and bookmarks as plain… |
+| 2026-10-23 09:59:21 | fr.custom-digital-services/mcp-devis | MCP Devis | 1.0.0 | Calculate French quote totals and VAT, list legal mentions, and render printabl… |
+| 2026-10-23 09:59:26 | fr.custom-digital-services/mcp-photo | MCP Photo | 1.0.0 | List ID photo presets, plan print layouts, and render printable HTML photo shee… |
+| 2026-10-23 09:59:41 | fr.custom-digital-services/mcp-compress | MCP Compress | 1.0.0 | List compression profiles, estimate gains, and compress images, PDFs, and Offic… |
+| 2026-10-23 10:09:00 | [uk.co.postio/postcode-address-validation](https://github.com/postio-uk/postio-integrations) | Postio — UK Address, Postcode, Email &… | 0.1.5 | Validate UK addresses, postcodes, emails and phone numbers — Royal Mail PAF, li… |
+| 2026-10-23 10:09:13 | ai.tasvr/tasvr | Tasvr | 1.0.0 | AI photoshoots of real Indian people: 374 ethnicities, clothing, places and fes… |
+| 2026-10-23 10:09:55 | [io.github.theguysaccount/syncbook](https://github.com/theguysaccount/syncbook-chatgpt) | Syncbook | 1.0.0 | Find reciprocal collaborators and prepare a profile for human review. |
+| 2026-10-23 10:10:08 | eu.polias/search | Polias Search | 1.1.0 | Web search in Polias' own index of German-language sites (DE, AT, CH), official… |
+| 2026-10-23 10:13:16 | [io.github.aihumin/pagent](https://github.com/aihumin/pagent-mcp) | pagent | 1.0.1 | A/B testing MCP server for pagent: create, run and review A/B tests on your liv… |
+| 2026-10-23 10:17:56 | [io.github.nkapila6/mcpsurfr](https://github.com/nkapila6/mcpsurfr) | mcpsurfr | 1.1.0 | Local web search with multi-engine deep research and on-device re-ranking. No A… |
 
 ## Data source
 

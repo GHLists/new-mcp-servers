@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-10-23T09:26:08.390249Z,io.github.ostrovit201/usilitel-signala,Усилитель сигнала,1.2.0,https://github.com/ostrovit201/usilitel-signala-mcp-server-manifest,streamable-http,"Cellular signal booster shop in Moscow: catalog, live prices and stock, equipment picks, order link"
+2026-10-23T09:30:46.698308Z,io.github.cloudinary/asset-management-mcp,Cloudinary Asset Management,0.11.5,https://github.com/cloudinary/asset-management-mcp,streamable-http,"Upload, generate, organize, search, and transform images, videos, and files with AI-powered tools."
+2026-10-23T09:32:44.400452Z,com.ce-net/mcp,ce-net,0.1.0,,streamable-http,"The ce-net cell network: print plates, compute, hosting, digital twins and a shared task pool."
+2026-10-23T09:36:18.809327Z,com.dharmikvibes/studio,DharmikStudio,1.0.0,,streamable-http,"Hindu devotional audio, katha, aartis, Gita, temple stories and festival guides in Hindi and English"
+2026-10-23T09:36:25.878526Z,com.dharmikvibes/divineai,DivineAI,1.0.0,,streamable-http,"Hindu panchang, verified festival dates, vrat dates and prayer texts from DivineAI"
+2026-10-23T09:36:32.46632Z,io.github.CoolSapiens/linkedin-mcp,LinkedIn MCP (by TalkToHumans),1.1.0,https://github.com/CoolSapiens/linkedin-mcp,streamable-http,"The safest LinkedIn MCP: your Agents read DMs, search your network and draft messages you send."
+2026-10-23T09:36:44.715868Z,com.dharmikvibes/wellness,DharmikVibes Wellness,1.0.0,,streamable-http,"Spiritual wellness journeys, retreats and sessions across India, with plans and published prices"
+2026-10-23T09:37:31.42632Z,io.github.adrianov/abcop,abcop,0.23.0,https://github.com/adrianov/abcop,,ABC complexity gate for AI-written code with an MCP inspection tool.
+2026-10-23T09:38:19.203578Z,so.faceless/faceless,Faceless,1.1.39,https://github.com/Side-Products/faceless-desktop-extension,streamable-http,"Make, render and auto-post AI faceless videos to YouTube, TikTok and Instagram from any MCP client."
+2026-10-23T09:45:44.072435Z,ai.eventgen/eventgen,EventGen,0.1.0,,streamable-http,Manage permitted EventGen events through account OAuth and reviewed actions.
+2026-10-23T09:47:15.337677Z,is.grid/agent-tools,GRID Agent Tools,0.5.0,,,"Load, read, edit, and recalculate .xlsx workbooks headlessly — no Excel required."
+2026-10-23T09:47:16.200015Z,com.follore/follore,Follore,1.0.0,https://github.com/Skyseezhang321/follore,streamable-http,"Save drafts, publish posts in your Follore space, and file issues of the columns you run."
+2026-10-23T09:48:51.796649Z,io.github.jlohmeier/smart-calendars-ai,Smart Calendars AI,2.0.0,,streamable-http,"Create and update subscription calendars from ChatGPT, Claude, or Codex."
+2026-10-23T09:48:55.34707Z,com.translatize/mcp,,0.1.3,https://github.com/Translatize/integrations,,"Read, search, edit and branch Translatize translation labels and fill missing translations."
+2026-10-23T09:49:45.094521Z,io.usefulapi/brightpearl,Brightpearl MCP by usefulapi,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Search Brightpearl orders, products, stock, contacts and payments; add notes, update order status."
+2026-10-23T09:49:48.720151Z,io.usefulapi/charliehr,CharlieHR MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read CharlieHR team members, leave, allowances, offices, teams and salaries; add team member notes."
+2026-10-23T09:49:50.872565Z,io.usefulapi/fieldpulse,FieldPulse MCP by usefulapi,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Read FieldPulse customers, jobs, estimates, invoices, assets and projects; create and update jobs."
+2026-10-23T09:49:54.856407Z,by.authorized/brands,,1.3.0,,streamable-http,"Search brands, find authorized retailers and verify a shop's authorization on authorized.by"
+2026-10-23T09:56:29.066618Z,io.github.ronmiz/infernoflow,,0.46.4,https://github.com/ronmiz/infernoflow,,"Git-native memory for coding agents: gotchas, decisions and bookmarks as plain text in your repo."
+2026-10-23T09:59:21.003912Z,fr.custom-digital-services/mcp-devis,MCP Devis,1.0.0,,streamable-http,"Calculate French quote totals and VAT, list legal mentions, and render printable HTML quotes."
+2026-10-23T09:59:26.513477Z,fr.custom-digital-services/mcp-photo,MCP Photo,1.0.0,,streamable-http,"List ID photo presets, plan print layouts, and render printable HTML photo sheets."
+2026-10-23T09:59:41.407532Z,fr.custom-digital-services/mcp-compress,MCP Compress,1.0.0,,streamable-http,"List compression profiles, estimate gains, and compress images, PDFs, and Office files."
+2026-10-23T10:09:00.302763Z,uk.co.postio/postcode-address-validation,"Postio — UK Address, Postcode, Email & Phone Validation",0.1.5,https://github.com/postio-uk/postio-integrations,,"Validate UK addresses, postcodes, emails and phone numbers — Royal Mail PAF, live SMTP and HLR."
+2026-10-23T10:09:13.470877Z,ai.tasvr/tasvr,Tasvr,1.0.0,,streamable-http,"AI photoshoots of real Indian people: 374 ethnicities, clothing, places and festivals in one call."
+2026-10-23T10:09:55.395015Z,io.github.theguysaccount/syncbook,Syncbook,1.0.0,https://github.com/theguysaccount/syncbook-chatgpt,streamable-http,Find reciprocal collaborators and prepare a profile for human review.
+2026-10-23T10:10:08.830719Z,eu.polias/search,Polias Search,1.1.0,,streamable-http,"Web search in Polias' own index of German-language sites (DE, AT, CH), official sources optional"
+2026-10-23T10:13:16.131434Z,io.github.aihumin/pagent,pagent,1.0.1,https://github.com/aihumin/pagent-mcp,streamable-http,"A/B testing MCP server for pagent: create, run and review A/B tests on your live website."
+2026-10-23T10:17:56.932338Z,io.github.nkapila6/mcpsurfr,mcpsurfr,1.1.0,https://github.com/nkapila6/mcpsurfr,,Local web search with multi-engine deep research and on-device re-ranking. No API keys.
