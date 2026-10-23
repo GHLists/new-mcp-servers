@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-10-23T04:31:22.564259Z,io.github.lx1112/token-safety-check,,0.1.0,https://github.com/lx1112/token-safety-check,,"Rug check tokens on Base, Ethereum, Arbitrum, Optimism, Polygon, Solana: 0-100 risk score + reasons"
+2026-10-23T04:33:21.656244Z,io.github.MeduxIO/medux,Medux,0.1.0,https://github.com/MeduxIO/medux-cursor-plugin,streamable-http,"AI video, image, speech, voice cloning and avatar generation, plus PDF/audio/video editing tools."
+2026-10-23T04:36:46.044744Z,ai.pixelengine/mcp,Pixel Engine,1.0.0,,streamable-http,"Game-ready pixel art: generate sprites, animate them, pixelate images, remove backgrounds."
+2026-10-23T04:36:53.170468Z,ai.shager/shager,Shager,1.2.0,,streamable-http,"Schedule posts and videos to many social accounts at once, with a tracked link for each account."
+2026-10-23T04:38:52.640075Z,com.textforagents/conformance-oracle,Conformance oracle,1.0.0,,streamable-http,Pair-level MCP+A2A conformance verdicts for the exact pair you delegate across.
+2026-10-23T04:39:48.644586Z,com.textforagents/egress-verdict-probe,Egress-verdict probe,1.0.0,,streamable-http,"Grades an MCP server's real egress: EVERY-HOP-VALIDATED, FIRST-HOP-ONLY, or OPEN-EGRESS."
+2026-10-23T04:40:47.233287Z,com.textforagents/trace-store-secret-census,Trace-store secret census,1.0.0,,streamable-http,"Trace-store secret census of stored agent traces. Verdict $0.01, census $4.99, passes $9.99/$19.99."
+2026-10-23T04:42:59.643778Z,com.textforagents/tool-result-context-binding-verdict,Tool-result context-binding verdict,1.0.0,,,"Pre-consumption verdict for cached/replayed tool results: BOUND, STALE, CONTEXT-MISMATCHED, UNBOUND."
+2026-10-23T04:43:11.634057Z,si.thinkhard/prompt-tools,thinkhard.si prompt tools,1.0.0,,streamable-http,"Search 300+ expert prompt templates for work, grade a prompt out of 10, and price AI models."
+2026-10-23T04:48:08.813445Z,io.github.mushitaro/matrix-tsunagi-migration,TSUNAGI///Matrix — MIGRATION,0.4.0,https://github.com/mushitaro/matrix-tsunagi,,"BMW E46 M3 DME backups and E46 cluster M35080 EEPROMs: read and verify, read-only, locally."
+2026-10-23T04:49:37.459315Z,io.github.adsandcode/taiwan-lottery,Taiwan Lottery,0.1.0,https://github.com/adsandcode/taiwan-lottery,,"Official Taiwan Lottery draw results: latest and past draws, ticket check, frequencies, schedule"
+2026-10-23T04:51:50.482349Z,io.github.tonbistudio/agentwikis-mcp,Agent Wikis,0.2.3,https://github.com/tonbistudio/agentwikis-mcp,,"Maintained, agent-readable knowledge bases with calibrated search and provenance. Pro key adds XL."
+2026-10-23T04:52:13.549051Z,app.devglow/devglow,devglow,1.5.1,https://github.com/aesopfrom0/devglow-releases,,"Start, stop, and inspect local dev servers in a desktop app instead of the agent's session."
+2026-10-23T04:53:23.878029Z,io.github.beiryu/vn-skills,vn-skills,0.6.0,https://github.com/beiryu/vn-skills,,"Vietnam tools: VietQR, addresses, tax IDs, CCCD, holidays, money in words, lunar calendar, e-invoice"
+2026-10-23T04:54:06.093801Z,io.github.Damien829/aipaygen,AIPayGen Site Intel,2.0.0,https://github.com/Damien829/aipaygen,streamable-http,"Website and company intel for agents: DNS, WHOIS, SSL, tech stack, email security, profiles"
+2026-10-23T04:58:36.917422Z,com.textforagents/durable-merge-shepherd-for-agent-prs,Durable merge shepherd for agent PRs,1.0.0,,streamable-http,"Durable ownership of an approved agent PR: signed verdicts, give-up report by cause."
+2026-10-23T05:02:59.560489Z,io.github.anandkaranubc/gitgoblin,gitgoblin,0.1.0,https://github.com/anandkaranubc/gitgoblin,,Discover open-source repositories worth your time and evidence-backed contribution opportunities.
+2026-10-23T05:09:34.4925Z,com.ainecto/mcp,AiNecto,0.9.0,https://github.com/codelives/ainecto,streamable-http,"Shared project memory for people and AI agents: workspaces, documents, ERD, diagrams and boards."
+2026-10-23T05:14:26.013692Z,is.who/whois,who.is,1.0.0,,streamable-http,"Parsed WHOIS, RDAP, DNS, certificates, nameservers and domain history for any domain."
+2026-10-23T05:14:38.267259Z,io.github.emcd/nb-mcp-server,nb-mcp-server,0.15.0,https://github.com/emcd/nb-mcp-server,,MCP server wrapping the nb CLI for LLM-friendly note-taking
+2026-10-23T05:18:26.5718Z,io.github.anusornc/kala-mcp,kala-mcp,0.5.0,https://github.com/anusornc/kala,,kala memory over MCP: provenance-first agent memory with Datalog recall and as-of time travel.
+2026-10-23T05:21:10.743061Z,io.github.edushinka/betbetter-mcp,Bet Better Data,1.1.0,https://github.com/edushinka/betbetter-mcp,streamable-http; streamable-http,"Predicted scores, win chances and checked sport stats for 29 competitions. Free and licensed tools."
