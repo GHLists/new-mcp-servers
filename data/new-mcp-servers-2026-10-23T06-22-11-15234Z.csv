@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-10-23T05:30:49.153276Z,io.github.cliptude/cliptude,Cliptude,1.0.0,https://github.com/cliptude/cliptude,streamable-http,"Make 6–60 minute faceless YouTube documentaries: voiceover, footage, maps and charts."
+2026-10-23T05:34:16.691651Z,app.trickl/trickl,Trickl,1.0.0,,streamable-http,"Trickl for AI assistants: full docs, setup plans, and sandbox tools to test purchases end to end."
+2026-10-23T05:35:07.315477Z,com.botsrated/botsrated,BotsRated (beta),0.1.0-beta,,streamable-http,"Beta: measured facts on paid x402 agent services: probes, latency, price checks, paid test-buys."
+2026-10-23T05:41:56.612758Z,com.getpriorivo/website-check,Priorivo Website Check for AI Agents,1.0.0,,streamable-http,Paid website checks with evidence and private results. Authorize EUR 9.90 separately via MPP.
+2026-10-23T05:42:29.690555Z,br.com.observatoriobr/observatorio-br,Observatório BR,1.0.0,,streamable-http,"Indicadores econômicos oficiais do Brasil (IBGE, Banco Central, Tesouro) com fonte e período."
+2026-10-23T05:43:52.486256Z,ru.artprotect/mcp,АРТпротект,1.0.0,,streamable-http,"Защита авторских прав и товарных знаков в РФ: маркетплейсы, компенсации, претензии, депонирование."
+2026-10-23T05:44:52.862636Z,io.github.Pangolin-spg/pangolinfo-mcp,Pangolinfo Amazon Data MCP,0.1.2,https://github.com/Pangolin-spg/amazon-data-mcp,streamable-http,"Live Amazon product details, paginated reviews and search data as MCP tools for AI agents."
+2026-10-23T05:49:43.435899Z,com.textforagents/pre-dispatch-rejection-ledger,Pre-dispatch rejection ledger,1.0.0,,streamable-http,"Witness for MCP calls rejected pre-dispatch: hash-chained ledger, enum differ, signed receipts."
+2026-10-23T05:52:54.54742Z,com.freightsidekick/freight-quotes,Freight Sidekick,2.0.0,,streamable-http,"Instant LTL, partial and truckload freight quotes in the US and Canada, with class and pallet tools"
+2026-10-23T05:53:54.59234Z,cloud.adcopilot/adcopilot,AdCopilot,1.0.0,https://github.com/AtromxIntelligence/adcopilot-claude-plugin,streamable-http,"Google Ads, GA4, Search Console and Tag Manager for AI assistants. Every change is proposed first."
+2026-10-23T05:54:12.422212Z,com.textforagents/concurrent-client-isolation-probe,Concurrent-client isolation probe,1.0.0,,streamable-http,Concurrent two-client overlap probe proving MCP servers do not cross-deliver tool results.
+2026-10-23T05:54:32.544718Z,com.myflightpayback/flightpayback,FlightPayback,1.1.0,,streamable-http,Free check: does an airline owe you cash for a delayed or cancelled flight in Canada?
+2026-10-23T05:58:05.485881Z,co.datamagnet/datamagnet,Datamagnet,0.2.0,,streamable-http,"Live LinkedIn people, company, post and job data, ICP search and job-change signals for AI agents."
+2026-10-23T06:00:51.117065Z,io.github.dotmoosehosting/dotmoose,,1.0.0,https://github.com/dotmoosehosting/dotmoose-mcp,streamable-http,Discover DotMoose hosting and domains through a production remote MCP server.
+2026-10-23T06:01:00.353908Z,io.github.dotmoosehosting/dotmoose-account,,1.0.0,https://github.com/dotmoosehosting/dotmoose-mcp,streamable-http,Manage existing DotMoose hosting services through OAuth-protected MCP tools.
+2026-10-23T06:01:36.937238Z,io.github.MustacheCase/zanadir,zanadir,0.18.0,https://github.com/MustacheCase/zanadir,,"Find what a repository's CI is missing, and which security checks cannot fail the build."
+2026-10-23T06:02:45.166426Z,io.theparse/parse,The Parse,1.1.0,,streamable-http,"Search a tiered, cited public research record; read its sources; work its open questions."
+2026-10-23T06:12:26.904572Z,io.github.wygogogo19/robotbase-dev,,0.32.0,https://github.com/wygogogo19/robotbase-mcp,streamable-http,Agent MCP: 18 tools — GitHub/HF/npm/PyPI/HN trends plus 17 web tools for coding agents.
+2026-10-23T06:12:28.717246Z,io.github.wygogogo19/robotbase-content,,0.32.0,https://github.com/wygogogo19/robotbase-mcp,streamable-http,"Agent MCP: 35 tools — social hot lists, attention trends, 80k+ books, 17 web tools."
+2026-10-23T06:13:08.81019Z,io.github.roomi-fields/osc-bridge,osc-bridge,0.13.0,https://github.com/roomi-fields/osc-bridge,streamable-http,OSC ↔ MIDI bridge — 963 synthesizers and DAWs. A MIDI MCP and OSC MCP for controlling them.
+2026-10-23T06:15:58.919099Z,io.github.dunctk/marketing-manager-jobs,Marketing Manager Jobs,1.0.0,,streamable-http,"Live marketing manager jobs, remote openings, salary transparency and hiring research."
+2026-10-23T06:17:57.567666Z,io.github.pic2vector/pic2vector,Pic2Vector,1.0.1,https://github.com/pic2vector/pic2vector-mcp,,"MCP server: convert PNG/JPG to SVG from Claude, Cursor & any MCP client. By Pic2Vector."
+2026-10-23T06:21:27.021996Z,com.ctriolab/google-trends,Google Trends Scraper (Ctrio Lab),0.1.0,,streamable-http,"Google Trends data via Apify: interest over time, by region, related queries and Trending Now."

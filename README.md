@@ -9,36 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 05:21 UTC
+## Latest list — 2026-10-23 06:22 UTC
 
-New MCP servers published between 2026-10-23 04:21 UTC and 2026-10-23 05:21 UTC.
+New MCP servers published between 2026-10-23 05:21 UTC and 2026-10-23 06:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-23T05-21-49-698613Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-23T06-22-11-15234Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-23 04:31:22 | [io.github.lx1112/token-safety-check](https://github.com/lx1112/token-safety-check) |  | 0.1.0 | Rug check tokens on Base, Ethereum, Arbitrum, Optimism, Polygon, Solana: 0-100… |
-| 2026-10-23 04:33:21 | [io.github.MeduxIO/medux](https://github.com/MeduxIO/medux-cursor-plugin) | Medux | 0.1.0 | AI video, image, speech, voice cloning and avatar generation, plus PDF/audio/vi… |
-| 2026-10-23 04:36:46 | ai.pixelengine/mcp | Pixel Engine | 1.0.0 | Game-ready pixel art: generate sprites, animate them, pixelate images, remove b… |
-| 2026-10-23 04:36:53 | ai.shager/shager | Shager | 1.2.0 | Schedule posts and videos to many social accounts at once, with a tracked link… |
-| 2026-10-23 04:38:52 | com.textforagents/conformance-oracle | Conformance oracle | 1.0.0 | Pair-level MCP+A2A conformance verdicts for the exact pair you delegate across. |
-| 2026-10-23 04:39:48 | com.textforagents/egress-verdict-probe | Egress-verdict probe | 1.0.0 | Grades an MCP server's real egress: EVERY-HOP-VALIDATED, FIRST-HOP-ONLY, or OPE… |
-| 2026-10-23 04:40:47 | com.textforagents/trace-store-secret-census | Trace-store secret census | 1.0.0 | Trace-store secret census of stored agent traces. Verdict $0.01, census $4.99,… |
-| 2026-10-23 04:42:59 | com.textforagents/tool-result-context-binding-verdict | Tool-result context-binding verdict | 1.0.0 | Pre-consumption verdict for cached/replayed tool results: BOUND, STALE, CONTEXT… |
-| 2026-10-23 04:43:11 | si.thinkhard/prompt-tools | thinkhard.si prompt tools | 1.0.0 | Search 300+ expert prompt templates for work, grade a prompt out of 10, and pri… |
-| 2026-10-23 04:48:08 | [io.github.mushitaro/matrix-tsunagi-migration](https://github.com/mushitaro/matrix-tsunagi) | TSUNAGI///Matrix — MIGRATION | 0.4.0 | BMW E46 M3 DME backups and E46 cluster M35080 EEPROMs: read and verify, read-on… |
-| 2026-10-23 04:49:37 | [io.github.adsandcode/taiwan-lottery](https://github.com/adsandcode/taiwan-lottery) | Taiwan Lottery | 0.1.0 | Official Taiwan Lottery draw results: latest and past draws, ticket check, freq… |
-| 2026-10-23 04:51:50 | [io.github.tonbistudio/agentwikis-mcp](https://github.com/tonbistudio/agentwikis-mcp) | Agent Wikis | 0.2.3 | Maintained, agent-readable knowledge bases with calibrated search and provenanc… |
-| 2026-10-23 04:52:13 | [app.devglow/devglow](https://github.com/aesopfrom0/devglow-releases) | devglow | 1.5.1 | Start, stop, and inspect local dev servers in a desktop app instead of the agen… |
-| 2026-10-23 04:53:23 | [io.github.beiryu/vn-skills](https://github.com/beiryu/vn-skills) | vn-skills | 0.6.0 | Vietnam tools: VietQR, addresses, tax IDs, CCCD, holidays, money in words, luna… |
-| 2026-10-23 04:54:06 | [io.github.Damien829/aipaygen](https://github.com/Damien829/aipaygen) | AIPayGen Site Intel | 2.0.0 | Website and company intel for agents: DNS, WHOIS, SSL, tech stack, email securi… |
-| 2026-10-23 04:58:36 | com.textforagents/durable-merge-shepherd-for-agent-prs | Durable merge shepherd for agent PRs | 1.0.0 | Durable ownership of an approved agent PR: signed verdicts, give-up report by c… |
-| 2026-10-23 05:02:59 | [io.github.anandkaranubc/gitgoblin](https://github.com/anandkaranubc/gitgoblin) | gitgoblin | 0.1.0 | Discover open-source repositories worth your time and evidence-backed contribut… |
-| 2026-10-23 05:09:34 | [com.ainecto/mcp](https://github.com/codelives/ainecto) | AiNecto | 0.9.0 | Shared project memory for people and AI agents: workspaces, documents, ERD, dia… |
-| 2026-10-23 05:14:26 | is.who/whois | who.is | 1.0.0 | Parsed WHOIS, RDAP, DNS, certificates, nameservers and domain history for any d… |
-| 2026-10-23 05:14:38 | [io.github.emcd/nb-mcp-server](https://github.com/emcd/nb-mcp-server) | nb-mcp-server | 0.15.0 | MCP server wrapping the nb CLI for LLM-friendly note-taking |
-| 2026-10-23 05:18:26 | [io.github.anusornc/kala-mcp](https://github.com/anusornc/kala) | kala-mcp | 0.5.0 | kala memory over MCP: provenance-first agent memory with Datalog recall and as-… |
-| 2026-10-23 05:21:10 | [io.github.edushinka/betbetter-mcp](https://github.com/edushinka/betbetter-mcp) | Bet Better Data | 1.1.0 | Predicted scores, win chances and checked sport stats for 29 competitions. Free… |
+| 2026-10-23 05:30:49 | [io.github.cliptude/cliptude](https://github.com/cliptude/cliptude) | Cliptude | 1.0.0 | Make 6–60 minute faceless YouTube documentaries: voiceover, footage, maps and c… |
+| 2026-10-23 05:34:16 | app.trickl/trickl | Trickl | 1.0.0 | Trickl for AI assistants: full docs, setup plans, and sandbox tools to test pur… |
+| 2026-10-23 05:35:07 | com.botsrated/botsrated | BotsRated (beta) | 0.1.0-beta | Beta: measured facts on paid x402 agent services: probes, latency, price checks… |
+| 2026-10-23 05:41:56 | com.getpriorivo/website-check | Priorivo Website Check for AI Agents | 1.0.0 | Paid website checks with evidence and private results. Authorize EUR 9.90 separ… |
+| 2026-10-23 05:42:29 | br.com.observatoriobr/observatorio-br | Observatório BR | 1.0.0 | Indicadores econômicos oficiais do Brasil (IBGE, Banco Central, Tesouro) com fo… |
+| 2026-10-23 05:43:52 | ru.artprotect/mcp | АРТпротект | 1.0.0 | Защита авторских прав и товарных знаков в РФ: маркетплейсы, компенсации, претен… |
+| 2026-10-23 05:44:52 | [io.github.Pangolin-spg/pangolinfo-mcp](https://github.com/Pangolin-spg/amazon-data-mcp) | Pangolinfo Amazon Data MCP | 0.1.2 | Live Amazon product details, paginated reviews and search data as MCP tools for… |
+| 2026-10-23 05:49:43 | com.textforagents/pre-dispatch-rejection-ledger | Pre-dispatch rejection ledger | 1.0.0 | Witness for MCP calls rejected pre-dispatch: hash-chained ledger, enum differ,… |
+| 2026-10-23 05:52:54 | com.freightsidekick/freight-quotes | Freight Sidekick | 2.0.0 | Instant LTL, partial and truckload freight quotes in the US and Canada, with cl… |
+| 2026-10-23 05:53:54 | [cloud.adcopilot/adcopilot](https://github.com/AtromxIntelligence/adcopilot-claude-plugin) | AdCopilot | 1.0.0 | Google Ads, GA4, Search Console and Tag Manager for AI assistants. Every change… |
+| 2026-10-23 05:54:12 | com.textforagents/concurrent-client-isolation-probe | Concurrent-client isolation probe | 1.0.0 | Concurrent two-client overlap probe proving MCP servers do not cross-deliver to… |
+| 2026-10-23 05:54:32 | com.myflightpayback/flightpayback | FlightPayback | 1.1.0 | Free check: does an airline owe you cash for a delayed or cancelled flight in C… |
+| 2026-10-23 05:58:05 | co.datamagnet/datamagnet | Datamagnet | 0.2.0 | Live LinkedIn people, company, post and job data, ICP search and job-change sig… |
+| 2026-10-23 06:00:51 | [io.github.dotmoosehosting/dotmoose](https://github.com/dotmoosehosting/dotmoose-mcp) |  | 1.0.0 | Discover DotMoose hosting and domains through a production remote MCP server. |
+| 2026-10-23 06:01:00 | [io.github.dotmoosehosting/dotmoose-account](https://github.com/dotmoosehosting/dotmoose-mcp) |  | 1.0.0 | Manage existing DotMoose hosting services through OAuth-protected MCP tools. |
+| 2026-10-23 06:01:36 | [io.github.MustacheCase/zanadir](https://github.com/MustacheCase/zanadir) | zanadir | 0.18.0 | Find what a repository's CI is missing, and which security checks cannot fail t… |
+| 2026-10-23 06:02:45 | io.theparse/parse | The Parse | 1.1.0 | Search a tiered, cited public research record; read its sources; work its open… |
+| 2026-10-23 06:12:26 | [io.github.wygogogo19/robotbase-dev](https://github.com/wygogogo19/robotbase-mcp) |  | 0.32.0 | Agent MCP: 18 tools — GitHub/HF/npm/PyPI/HN trends plus 17 web tools for coding… |
+| 2026-10-23 06:12:28 | [io.github.wygogogo19/robotbase-content](https://github.com/wygogogo19/robotbase-mcp) |  | 0.32.0 | Agent MCP: 35 tools — social hot lists, attention trends, 80k+ books, 17 web to… |
+| 2026-10-23 06:13:08 | [io.github.roomi-fields/osc-bridge](https://github.com/roomi-fields/osc-bridge) | osc-bridge | 0.13.0 | OSC ↔ MIDI bridge — 963 synthesizers and DAWs. A MIDI MCP and OSC MCP for contr… |
+| 2026-10-23 06:15:58 | io.github.dunctk/marketing-manager-jobs | Marketing Manager Jobs | 1.0.0 | Live marketing manager jobs, remote openings, salary transparency and hiring re… |
+| 2026-10-23 06:17:57 | [io.github.pic2vector/pic2vector](https://github.com/pic2vector/pic2vector-mcp) | Pic2Vector | 1.0.1 | MCP server: convert PNG/JPG to SVG from Claude, Cursor & any MCP client. By Pic… |
+| 2026-10-23 06:21:27 | com.ctriolab/google-trends | Google Trends Scraper (Ctrio Lab) | 0.1.0 | Google Trends data via Apify: interest over time, by region, related queries an… |
 
 ## Data source
 
