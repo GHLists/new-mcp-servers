@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-23T14:20:27.938574Z,io.github.z3green/crp,CRP,1.0.0,https://github.com/z3green/carbon,streamable-http,Carbon accounting platform. Query emission factors and create or edit draft emissions.
+2026-10-23T14:25:16.399582Z,dev.spritefetch/spritefetch,Spritefetch,0.1.0,,streamable-http,Search and download free CC0 2D sprite sheets and tilesets for games.
+2026-10-23T14:26:45.379182Z,com.lintelly/hr,Lintelly HR,0.1.0,https://github.com/NicksAdvisory/lintelly-hr,streamable-http,"German HR department for small companies: notice periods, costs, sick pay, contracts. No sign-in."
+2026-10-23T14:28:34.978388Z,com.maddatech/madda-tasks,Madda Tasks,1.0.0,,streamable-http,"Project scheduling: Gantt chart, dependencies, baselines, reports and AI agents"
+2026-10-23T14:29:50.739519Z,com.fielddraftapp/fielddraft,FieldDraft,1.0.0,,streamable-http,"Draft contractor quotes priced only from your own price book; find, edit and push them to Jobber."
+2026-10-23T14:30:24.221468Z,co.fastaf/fastaf,FastAF,1.1.1,,streamable-http,"Web data tools for AI agents: pages as markdown, search, maps, commerce, jobs, AI answers."
+2026-10-23T14:35:53.838424Z,ai.atmy/air-quality,Atmy air quality,1.0.0,,streamable-http,"PM2.5 now, daily history, forecast and country rankings for 300+ cities from citizen sensors."
+2026-10-23T14:36:05.953401Z,ru.profildoors-dver/doors,ProfilDoors: межкомнатные двери в Москве,1.2.0,,streamable-http,"ProfilDoors doors dealer in Moscow: catalog search, exact cart price, stock. Read-only."
+2026-10-23T14:38:06.713592Z,app.interart/interart,Interart,1.0.0,,streamable-http,"Read personal Interart designs, usage, live links and QR codes in ChatGPT or Claude."
+2026-10-23T14:38:13.617855Z,com.agentpromptsatoz/packs,Agent Prompts A to Z,1.0.0,,streamable-http,"Read-only catalog of prompt packs and rule files: Cursor, CLAUDE.md, AGENTS.md, SKILL.md."
+2026-10-23T14:38:59.699833Z,com.shortyedit/shorty,Shorty AI Video Editor,0.3.0,,streamable-http,Edit your own clips into finished short-form videos from a brief or a reference video.
+2026-10-23T14:41:43.951801Z,io.github.duckframework/duckframework-mcp,Duck Framework MCP,1.0.0,https://github.com/duckframework/duck,streamable-http,Official Duck Framework MCP server for AI-assisted development and project scaffolding.
+2026-10-23T14:42:15.532067Z,com.seoclerks/seoclerks,Seoclerks,1.0.0,,streamable-http,"Find and order SEO services, follow your orders and answer messages on the Seoclerks marketplace."
+2026-10-23T14:43:19.612777Z,com.authichain/authichain,AuthiChain,1.3.2,https://github.com/undone0603/authichain-unified,streamable-http,"Verification of signed records, plus an EU DPP check."
+2026-10-23T14:44:31.656496Z,io.github.kOlapsis/jmap-mcp,JMAP mail,0.1.0,https://github.com/kOlapsis/jmap-mcp,,"Read, organize, draft and send email on any JMAP server, with OAuth sign-in and zero configuration"
+2026-10-23T14:50:04.794296Z,io.github.ansuman-shukla/whiteboard-mcp,Whiteboard MCP,0.1.1,https://github.com/ansuman-shukla/whiteboard-mcp,,"Local Excalidraw whiteboard your coding agent draws on live, and sees what you draw back."
+2026-10-23T14:51:55.149453Z,com.cypheresim/esim,Cypher eSIM,1.0.0,,streamable-http,"Buy no-KYC travel eSIMs and eSIMs with a real phone number in 180+ countries, paid in crypto."
+2026-10-23T14:53:09.697695Z,io.github.FabianIMV/voice-coach-mcp,Voice Coach,0.1.0,https://github.com/FabianIMV/voice-coach-mcp,,"Gives Claude ears: local pitch, pronunciation and public-speaking analysis for voice coaching."
+2026-10-23T14:55:23.992332Z,io.github.pironjulien/nexus-windows-claude,NexusWindows for Claude,3.0.1,https://github.com/pironjulien/NexusWindows-Claude,,"Windows computer use in the background: UI Automation and Win32 messages, every action read back."
+2026-10-23T14:56:36.522942Z,social.cuehq/cuehq,CueHQ,0.1.0,,streamable-http,"Live threads asking for what you sell, with reply drafts in your voice. CueHQ never posts."
+2026-10-23T15:01:54.12306Z,com.agentickingdoms/agentic-kingdoms,Agentic Kingdoms,1.0.0,,streamable-http,"Play a live strategy MMO as a labelled player beside people: build, ally, fight for the Palace."
+2026-10-23T15:05:18.989127Z,io.github.jordan-belfort-ai/workday-jobs-scraper,Workday Jobs Scraper,1.0.0,https://github.com/jordan-belfort-ai/workday-jobs-scraper,streamable-http,"Every open job on any myworkdayjobs.com careers site as JSON. Runs on Apify, $0.001 per job."
+2026-10-23T15:16:36.716113Z,com.highseat/mcp,Highseat,1.0.0,,streamable-http,"Read a site's web analytics: visitors, pages, sources, devices, events, goals, funnels, revenue."
+2026-10-23T15:16:42.937399Z,io.github.UnCooe/garden-agent-platform,Garden: Free Binance SOLUSDT Trade Sample,0.2.2,https://github.com/UnCooe/garden-agent-platform,streamable-http,Free Binance SOLUSDT trades: 30-row partial sample; no key or wallet. Not a complete minute.
+2026-10-23T15:17:29.500195Z,com.producerspark/producerspark,ProducerSpark,0.9.20,,streamable-http,Insurance brokers: get meetings with retail producers and CFOs using Claude.
+2026-10-23T15:17:58.012243Z,com.unclepony/gaian,GAIAN,0.2.0,,streamable-http,"Korean social board for AI agents: self-register, post, comment, vote, elect a daily master."
+2026-10-23T15:20:20.280202Z,ai.datareaktor/data-reaktor,Data Reaktor,1.0.0,,streamable-http,"Find people inside target companies, score warm intro paths, and draft openers. Never sends."

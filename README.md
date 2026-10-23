@@ -9,43 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 14:19 UTC
+## Latest list — 2026-10-23 15:20 UTC
 
-New MCP servers published between 2026-10-23 13:21 UTC and 2026-10-23 14:19 UTC.
+New MCP servers published between 2026-10-23 14:19 UTC and 2026-10-23 15:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-23T14-19-49-925221Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-23T15-20-44-375851Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-23 13:23:38 | com.getversive/mcp | Versive | 0.1.0 | Create, launch, and analyze user research studies, AI interviews, and AI tests… |
-| 2026-10-23 13:23:49 | [io.github.arikusi/deepseek](https://github.com/arikusi/deepseek-mcp-server) |  | 2.4.0 | MCP server for DeepSeek AI with chat, reasoning, sessions, function calling, an… |
-| 2026-10-23 13:24:59 | com.pingodds/odds | PingOdds | 1.0.0 | Live sportsbook odds, line movement and +EV and arbitrage signals from 14 US an… |
-| 2026-10-23 13:26:01 | io.github.registry-desk/uk-companies-house |  | 0.1.0 | UK Companies House company data (company-level, change tracking) for AI agents. |
-| 2026-10-23 13:26:02 | io.github.registry-desk/fr-sirene |  | 0.1.0 | France Sirene company data (company-level, change tracking) for AI agents. |
-| 2026-10-23 13:28:55 | [org.georgiacommons/georgia-commons](https://github.com/shanejorr/georgiacommons) | Georgia Commons | 0.2.0 | Georgia's Code, bills, Supreme Court opinions, and 2026 House and Senate meetin… |
-| 2026-10-23 13:32:52 | app.esimdata/esimdata | esimdata: travel eSIM comparison | 0.1.0 | Neutral travel eSIM comparison: search and compare plans from many providers, r… |
-| 2026-10-23 13:33:17 | co.youraitools/toolpick | ToolPick | 0.1.1 | Find and live-check the paid x402 API for an agent task, ranked by real 30-day… |
-| 2026-10-23 13:33:55 | com.supermodelsai/supermodel | Supermodel | 1.0.0 | Create AI influencers and reshoot viral TikToks and Reels with them from your A… |
-| 2026-10-23 13:34:00 | [io.github.NJ-Burrito/qa-wrap-bridge](https://github.com/NJ-Burrito/QA-Wrap) | QA Wrap bridge | 0.1.0 | Read-only MCP server: a coding agent reads test sessions recorded in QA Wrap. L… |
-| 2026-10-23 13:38:39 | io.getmydata/getmydata | GetMyData | 1.1.0 | Public web data as rows from any public website. Free sample first, then one fi… |
-| 2026-10-23 13:39:05 | [io.github.Rachit8484/geoseo-mcp](https://github.com/Rachit8484/geoseo-mcp) | geoseo-mcp | 0.4.0 | SEO + GEO: Search Console, Bing, Yandex, IndexNow, AI Overviews and LLM citatio… |
-| 2026-10-23 13:40:42 | [app.rimbra/rimbra](https://github.com/AdejareAkolawole/rimbra-agents) | Rimbra | 1.0.0 | Deploy apps, run databases and domains, read logs, and send email and WhatsApp… |
-| 2026-10-23 13:51:06 | [io.github.ItsOdeLeo/usage-planner](https://github.com/ItsOdeLeo/usage-planner) |  | 0.2.0 | Plan OpenAI Codex usage from local quota, banked resets and extra-reset forecas… |
-| 2026-10-23 13:55:16 | [com.achriom/achriom](https://github.com/achriom/achriom-mcp) | Achriom | 1.2.0 | Media memory for AI agents: books, movies, music, shows, anime, podcasts, games… |
-| 2026-10-23 13:57:07 | ai.aistlabs/aistlabs | AISTLabs | 1.40.0 | Video, image and audio generation on top AI models for agents, with an AI direc… |
-| 2026-10-23 14:00:08 | [io.github.devanshranjan10/landmines](https://github.com/devanshranjan10/landmines) | landmine | 0.2.1 | Known open GitHub issues in your exact pinned dependency versions, for coding a… |
-| 2026-10-23 14:00:58 | tech.portali/portali | Portali | 1.0.0 | Bookkeeping for CPA firms: clients, QuickBooks, bank data, reports, OCR docs, a… |
-| 2026-10-23 14:02:08 | [io.github.fliptheweb/yazio-mcp](https://github.com/fliptheweb/yazio-mcp) |  | 0.0.15 | MCP server for accessing Yazio user & nutrition data (unofficial) |
-| 2026-10-23 14:02:23 | [io.github.apppainapi/app-pain-api](https://github.com/apppainapi/app-pain-api) | App Pain API | 0.2.0 | What users hate about ANY iOS/Android app: clustered complaints, evidence, tren… |
-| 2026-10-23 14:03:32 | com.testedmcp/testedmcp | TestedMCP | 0.1.0 | Read-only lookup of tested agent tools and MCP servers: scores, test evidence,… |
-| 2026-10-23 14:03:52 | de.zvg-einfach/zvg-einfach | ZVG Einfach | 1.0.0 | German foreclosure auctions (Zwangsversteigerungen): search, details, AI analys… |
-| 2026-10-23 14:06:46 | [io.github.privacyplaybook/sops-mcp](https://github.com/privacyplaybook/sops-mcp) |  | 0.12.0 | MCP server for creating and managing SOPS-encrypted secrets |
-| 2026-10-23 14:10:20 | ai.human4ai/collaboration | Human4AI Human Task Network | 0.3.0 | AI Agents delegate public synthetic tasks to human experts, review results and… |
-| 2026-10-23 14:10:43 | com.wa-mcp/wa-mcp | WhatsApp MCP | 1.0.0 | Read, search and reply to your WhatsApp chats from your AI, using your own numb… |
-| 2026-10-23 14:11:25 | [io.github.danfeistar/busybee](https://github.com/danfeistar/busybee-mcp) | BusyBee — Social Media Data | 0.2.1 | Social media data for AI agents: creators, posts, comments, insights, trending… |
-| 2026-10-23 14:16:11 | [io.github.pironjulien/nexus-windows-codex](https://github.com/pironjulien/NexusWindows-Codex) | NexusWindows for Codex | 3.0.0 | Windows computer use in the background for Codex: UI Automation, Win32 messages… |
-| 2026-10-23 14:18:46 | shop.colegios/tienda | colegios.shop — uniformes escolares | 1.0.0 | Tiendas de uniformes escolares: buscar prendas, talles y armar el carrito. |
-| 2026-10-23 14:19:30 | com.getplanagram/social-media | Planagram | 1.0.0 | Create, schedule and manage social posts on 10 networks (Instagram, TikTok, Lin… |
+| 2026-10-23 14:20:27 | [io.github.z3green/crp](https://github.com/z3green/carbon) | CRP | 1.0.0 | Carbon accounting platform. Query emission factors and create or edit draft emi… |
+| 2026-10-23 14:25:16 | dev.spritefetch/spritefetch | Spritefetch | 0.1.0 | Search and download free CC0 2D sprite sheets and tilesets for games. |
+| 2026-10-23 14:26:45 | [com.lintelly/hr](https://github.com/NicksAdvisory/lintelly-hr) | Lintelly HR | 0.1.0 | German HR department for small companies: notice periods, costs, sick pay, cont… |
+| 2026-10-23 14:28:34 | com.maddatech/madda-tasks | Madda Tasks | 1.0.0 | Project scheduling: Gantt chart, dependencies, baselines, reports and AI agents |
+| 2026-10-23 14:29:50 | com.fielddraftapp/fielddraft | FieldDraft | 1.0.0 | Draft contractor quotes priced only from your own price book; find, edit and pu… |
+| 2026-10-23 14:30:24 | co.fastaf/fastaf | FastAF | 1.1.1 | Web data tools for AI agents: pages as markdown, search, maps, commerce, jobs,… |
+| 2026-10-23 14:35:53 | ai.atmy/air-quality | Atmy air quality | 1.0.0 | PM2.5 now, daily history, forecast and country rankings for 300+ cities from ci… |
+| 2026-10-23 14:36:05 | ru.profildoors-dver/doors | ProfilDoors: межкомнатные двери в Москве | 1.2.0 | ProfilDoors doors dealer in Moscow: catalog search, exact cart price, stock. Re… |
+| 2026-10-23 14:38:06 | app.interart/interart | Interart | 1.0.0 | Read personal Interart designs, usage, live links and QR codes in ChatGPT or Cl… |
+| 2026-10-23 14:38:13 | com.agentpromptsatoz/packs | Agent Prompts A to Z | 1.0.0 | Read-only catalog of prompt packs and rule files: Cursor, CLAUDE.md, AGENTS.md,… |
+| 2026-10-23 14:38:59 | com.shortyedit/shorty | Shorty AI Video Editor | 0.3.0 | Edit your own clips into finished short-form videos from a brief or a reference… |
+| 2026-10-23 14:41:43 | [io.github.duckframework/duckframework-mcp](https://github.com/duckframework/duck) | Duck Framework MCP | 1.0.0 | Official Duck Framework MCP server for AI-assisted development and project scaf… |
+| 2026-10-23 14:42:15 | com.seoclerks/seoclerks | Seoclerks | 1.0.0 | Find and order SEO services, follow your orders and answer messages on the Seoc… |
+| 2026-10-23 14:43:19 | [com.authichain/authichain](https://github.com/undone0603/authichain-unified) | AuthiChain | 1.3.2 | Verification of signed records, plus an EU DPP check. |
+| 2026-10-23 14:44:31 | [io.github.kOlapsis/jmap-mcp](https://github.com/kOlapsis/jmap-mcp) | JMAP mail | 0.1.0 | Read, organize, draft and send email on any JMAP server, with OAuth sign-in and… |
+| 2026-10-23 14:50:04 | [io.github.ansuman-shukla/whiteboard-mcp](https://github.com/ansuman-shukla/whiteboard-mcp) | Whiteboard MCP | 0.1.1 | Local Excalidraw whiteboard your coding agent draws on live, and sees what you… |
+| 2026-10-23 14:51:55 | com.cypheresim/esim | Cypher eSIM | 1.0.0 | Buy no-KYC travel eSIMs and eSIMs with a real phone number in 180+ countries, p… |
+| 2026-10-23 14:53:09 | [io.github.FabianIMV/voice-coach-mcp](https://github.com/FabianIMV/voice-coach-mcp) | Voice Coach | 0.1.0 | Gives Claude ears: local pitch, pronunciation and public-speaking analysis for… |
+| 2026-10-23 14:55:23 | [io.github.pironjulien/nexus-windows-claude](https://github.com/pironjulien/NexusWindows-Claude) | NexusWindows for Claude | 3.0.1 | Windows computer use in the background: UI Automation and Win32 messages, every… |
+| 2026-10-23 14:56:36 | social.cuehq/cuehq | CueHQ | 0.1.0 | Live threads asking for what you sell, with reply drafts in your voice. CueHQ n… |
+| 2026-10-23 15:01:54 | com.agentickingdoms/agentic-kingdoms | Agentic Kingdoms | 1.0.0 | Play a live strategy MMO as a labelled player beside people: build, ally, fight… |
+| 2026-10-23 15:05:18 | [io.github.jordan-belfort-ai/workday-jobs-scraper](https://github.com/jordan-belfort-ai/workday-jobs-scraper) | Workday Jobs Scraper | 1.0.0 | Every open job on any myworkdayjobs.com careers site as JSON. Runs on Apify, $0… |
+| 2026-10-23 15:16:36 | com.highseat/mcp | Highseat | 1.0.0 | Read a site's web analytics: visitors, pages, sources, devices, events, goals,… |
+| 2026-10-23 15:16:42 | [io.github.UnCooe/garden-agent-platform](https://github.com/UnCooe/garden-agent-platform) | Garden: Free Binance SOLUSDT Trade Samp… | 0.2.2 | Free Binance SOLUSDT trades: 30-row partial sample; no key or wallet. Not a com… |
+| 2026-10-23 15:17:29 | com.producerspark/producerspark | ProducerSpark | 0.9.20 | Insurance brokers: get meetings with retail producers and CFOs using Claude. |
+| 2026-10-23 15:17:58 | com.unclepony/gaian | GAIAN | 0.2.0 | Korean social board for AI agents: self-register, post, comment, vote, elect a… |
+| 2026-10-23 15:20:20 | ai.datareaktor/data-reaktor | Data Reaktor | 1.0.0 | Find people inside target companies, score warm intro paths, and draft openers.… |
 
 ## Data source
 
