@@ -9,39 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 08:18 UTC
+## Latest list — 2026-10-23 09:21 UTC
 
-New MCP servers published between 2026-10-23 07:21 UTC and 2026-10-23 08:18 UTC.
+New MCP servers published between 2026-10-23 08:18 UTC and 2026-10-23 09:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-23T08-18-58-759136Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-23T09-21-44-59285Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-23 07:22:54 | com.spartoo/spartoo | Spartoo | 1.1.0 | Search the Spartoo fashion catalog: shoes, clothing, bags. Prices and sizes in… |
-| 2026-10-23 07:23:36 | io.github.janvodvarka/moodmark | Moodmark | 1.0.0 | Let your AI agent build moodboards of real websites: save, search, tag and shar… |
-| 2026-10-23 07:23:43 | [io.github.atsp-protocol/x402-conformance](https://github.com/atsp-protocol/x402-conformance) | x402 Conformance | 1.4.0 | x402 payment safety checks: validate a 402 answer, prove a server never serves… |
-| 2026-10-23 07:25:01 | ai.pickrun/pickrun | Pickrun | 1.0.0 | One key for 4,000+ tools: web search, scraping, people and company data, SEO, c… |
-| 2026-10-23 07:31:58 | [io.github.hpasic/nordnet-mcp](https://github.com/hpasic/nordnet-mcp) | Nordnet Portfolio | 0.1.0 | Read-only Nordnet brokerage data: accounts, positions, trades, balances, orders… |
-| 2026-10-23 07:33:21 | me.onmax/remite | Remite | 1.0.0 | Send a burofax or certified letter to a Spanish address, with proof of delivery… |
-| 2026-10-23 07:33:59 | com.eyepatchads/eyepatch | Eyepatch: nutrition ad angle database | 0.8.0 | Free library of 1,010 long-running nutrition ads, tagged by angle, avatar, offe… |
-| 2026-10-23 07:34:45 | io.kukie/ai-connector | Kukie.io | 1.0.0 | Read your Kukie.io sites, make previewed changes to banners and settings, and s… |
-| 2026-10-23 07:42:22 | [io.github.Evalogical-Inc/devready](https://github.com/Evalogical-Inc/devReady) | DevReady | 1.1.1 | Read-only check that a machine meets a project's declared tool and runtime vers… |
-| 2026-10-23 07:49:31 | [io.github.gemral-edge/gemral-edge](https://github.com/gemral-edge/gemral-edge-mcp) | Gemral Edge | 1.1.0 | Point-in-time U.S. public records: federal contracts, congressional and insider… |
-| 2026-10-23 07:50:50 | dev.kaneky/speak | Speak | 0.1.1 | Text to natural speech as MP3: 38 voices, 7 languages, 1,000 chars per call. Pa… |
-| 2026-10-23 07:51:11 | [io.penguin-stats/penguin-stats](https://github.com/penguin-statistics/backend-next) | Penguin Statistics | 1.0.0 | Crowdsourced Arknights drop rates by stage and item, for the CN, US, JP and KR… |
-| 2026-10-23 07:54:08 | [io.github.haim-barad/drinkedin-night-out](https://github.com/haim-barad/drinkedin-night-out) | DrinkedIn Night Out | 1.0.0 | Read-only planner for walkable 2-4 stop nights out between validated, licensed… |
-| 2026-10-23 07:54:09 | ai.nodary/nodary | Nodary | 1.2.0 | Linked team workspace: AI agents read and write docs, wikis, sheets, diagrams,… |
-| 2026-10-23 07:54:54 | [io.usefulapi/idx-broker](https://github.com/m190/usefulapi-mcp) | IDX Broker MCP by usefulapi | 1.0.0 | Read IDX Broker leads, agents, listings and MLS data; create and update leads a… |
-| 2026-10-23 07:54:56 | [io.usefulapi/gooten](https://github.com/m190/usefulapi-mcp) | Gooten MCP by usefulapi | 1.0.0 | Browse the Gooten catalog, stock, shipping and price quotes; search orders and… |
-| 2026-10-23 07:54:57 | [io.usefulapi/service-fusion](https://github.com/m190/usefulapi-mcp) | Service Fusion MCP by usefulapi | 1.0.0 | Read Service Fusion customers, jobs, estimates, invoices and schedule; create c… |
-| 2026-10-23 07:55:35 | [ink.smart-money/smart-money](https://github.com/ultraza4/smart-money-mcp) | Budget Tracker by Smart Money | 0.2.3 | Personal finance: log expenses in plain language, track accounts, budgets and s… |
-| 2026-10-23 07:58:18 | com.knowkensington/places | KnowKensington | 1.1.0 | Handpicked places in Kensington, London: restaurants, coffee, pubs, parks and s… |
-| 2026-10-23 08:01:03 | dev.letterport/letterport | letterport | 1.0.0 | Real email inboxes for AI agents: create addresses, read mail as JSON, reply in… |
-| 2026-10-23 08:01:50 | io.github.pulsarik/omaha-hi-lo | Omaha Hi-Lo Poker | 1.0.0 | Free Omaha Hi-Lo tables with bots or friends. Play on the website without regis… |
-| 2026-10-23 08:03:40 | com.3dsellers/mcp | 3Dsellers | 1.0.0 | Run eBay, Amazon, Walmart, Etsy and Shopify stores from your AI assistant. 150+… |
-| 2026-10-23 08:04:06 | ai.reclypse.csv/agent-services |  | 1.0.0 | Paid deterministic CSV cleanup and source-HTML checks. x402 USDC on Base. |
-| 2026-10-23 08:06:16 | com.shinnslist/shinnslist | shinnslist | 0.2.0 | Public-record parcel signals for off-market real estate. Free beta; only proven… |
-| 2026-10-23 08:16:28 | [io.github.SigNoz/signoz-mcp-server](https://github.com/SigNoz/signoz-mcp-server) | SigNoz MCP Server | 0.16.0 | SigNoz MCP server: access metrics, traces, logs, alerts, and dashboards via AI… |
+| 2026-10-23 08:19:45 | [io.github.inavi-systems/inavi-api-mcp](https://github.com/inavi-systems/inavi-api-mcp) | INAVI Maps API | 0.0.4 | INAVI Maps API for AI (South Korea): place search, geocoding, routes on an inte… |
+| 2026-10-23 08:22:25 | [io.github.seob717/redash-mcp](https://github.com/seob717/redash-mcp) |  | 3.4.0 | Connect Redash to Claude -- query data, manage dashboards, and run SQL with nat… |
+| 2026-10-23 08:31:16 | [io.github.inavi-systems/inavi-mcp](https://github.com/inavi-systems/inavi-mcp) | iNavi Maps Docs | 0.4.2 | iNavi Maps docs for AI (South Korea): API specs, Web JS SDK reference, HTML map… |
+| 2026-10-23 08:41:54 | com.losercoreplaylist/creative-tools | Losercore Playlist | 1.0.0 | Search starter tracks, get original scene prompts and prepare free local playli… |
+| 2026-10-23 08:43:23 | [io.github.xlbbb-cn/mcp-ssh-exec-cmd](https://github.com/xlbbb-cn/mcp_ssh_exec_cmd) | SSH Host Storage & Remote Exec | 0.1.3 | Stdio MCP server for SSH host storage and remote command execution with a conne… |
+| 2026-10-23 08:47:03 | [io.github.jeremdecustovox/custovox-ticket-scorer](https://github.com/jeremdecustovox/custovox-ai) |  | 1.0.0 | custovox.ai support ticket scoring MCP server: priority, category, sentiment, e… |
+| 2026-10-23 08:48:27 | ch.kranli/permis-construire | Kranli | 1.0.0 | New Swiss building permit applications by municipality and trade (last 90 days,… |
+| 2026-10-23 08:49:07 | [io.github.hansail001/sitekrs](https://github.com/hansail001/sitekrs-mcp) | SiteKrs | 4.0.0 | List SiteKrs templates and get editor links; import your own source on the Site… |
+| 2026-10-23 08:49:32 | [io.github.hedgerow-dev/hayward](https://github.com/hedgerow-dev/hayward) |  | 1.4.1 | Checks ML model files (pickle, PyTorch, joblib, NumPy, GGUF, ONNX) for code tha… |
+| 2026-10-23 08:53:58 | [io.github.jeremdecustovox/custovox-emotion](https://github.com/jeremdecustovox/custovox-ai) |  | 1.0.0 | custovox.ai MCP server: 7-emotion detection in English customer text (batch up… |
+| 2026-10-23 08:55:42 | [ai.intodns/scanner](https://github.com/RoscoNL/intodns-mcp-server) | IntoDNS.ai DNS & Email Security Scanner | 1.11.0 | DNS and email security: check SPF, DKIM, DMARC, DNSSEC, DANE and build the reco… |
+| 2026-10-23 08:59:55 | [money.whereitgoes/portfolio](https://github.com/khapham7165/whereitgoes-mcp) | WhereItGoes | 1.1.0 | Read your crypto portfolio across exchanges and wallets: holdings, history, FIF… |
+| 2026-10-23 09:01:58 | [io.github.tnvolman/jd-church-website-audit](https://github.com/tnvolman/jd-church-website-audit) | Church Website Audit by Journey Digital | 1.0.0 | Free church website audit for mobile, speed, SEO, and first-time guests. |
+| 2026-10-23 09:05:41 | com.novarithm.www/agent-hub | Novarithm Agent Hub: SEO & GEO audits a… | 1.0.0 | Live SEO & GEO audits for any URL (technical, keywords, links, local, AI visibi… |
+| 2026-10-23 09:06:20 | io.github.firsthanddata/job-postings | Firsthand Data - Job Postings | 0.1.0 | Live job postings from company career pages on Greenhouse, Lever, Ashby and Sma… |
+| 2026-10-23 09:09:31 | [io.github.CarlxsMG/UEAgent](https://github.com/CarlxsMG/UEAgent) | UEAgent | 2.6.0 | MCP server for Unreal Engine 5, built into the editor: Blueprints, materials, l… |
+| 2026-10-23 09:14:25 | [io.github.ZengLiangYi/chatcrystal](https://github.com/ZengLiangYi/ChatCrystal) | ChatCrystal | 0.6.2 | Local-first AI PKM memory for coding conversations. |
+| 2026-10-23 09:14:40 | [io.github.pdfluent/pdfluent-mcp](https://github.com/pdfluent/pdfluent-mcp) | PDFluent | 0.2.0 | Read, search and fill PDFs as markdown, text, tables, forms. Your documents sta… |
+| 2026-10-23 09:15:21 | [io.github.brekkylab/backlot](https://github.com/brekkylab/backlot) | Backlot | 0.1.0 | Local emulator for Slack, Gmail, Drive, GitHub, Jira, Notion, S3 and more, with… |
+| 2026-10-23 09:16:01 | [io.github.paidwithtab/tab](https://github.com/paidwithtab/tab) | tab | 2.3.1 | Agents pay per call over HTTP 402: 8,600+ API routes, owner-signed budgets, sig… |
+| 2026-10-23 09:18:38 | [my.publish/publish-my](https://github.com/aizuikmal/publish-my-mcp) | publish.my | 0.1.0 | Publish a folder as a live website at https://<id>.publish.my. Free, no account… |
+| 2026-10-23 09:19:26 | com.json2video/mcp | JSON2Video | 1.1.1 | Create videos with AI agents: render JSON2Video movies, check status, validate… |
 
 ## Data source
 
