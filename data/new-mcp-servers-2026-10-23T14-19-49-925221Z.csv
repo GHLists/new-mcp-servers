@@ -1,0 +1,30 @@
+created_at,server,title,version,repository,transports,description
+2026-10-23T13:23:38.304808Z,com.getversive/mcp,Versive,0.1.0,,streamable-http,"Create, launch, and analyze user research studies, AI interviews, and AI tests from your AI agent."
+2026-10-23T13:23:49.471334Z,io.github.arikusi/deepseek,,2.4.0,https://github.com/arikusi/deepseek-mcp-server,,"MCP server for DeepSeek AI with chat, reasoning, sessions, function calling, and cost tracking"
+2026-10-23T13:24:59.031791Z,com.pingodds/odds,PingOdds,1.0.0,,streamable-http,"Live sportsbook odds, line movement and +EV and arbitrage signals from 14 US and Ontario books."
+2026-10-23T13:26:01.428619Z,io.github.registry-desk/uk-companies-house,,0.1.0,,streamable-http,"UK Companies House company data (company-level, change tracking) for AI agents."
+2026-10-23T13:26:02.737795Z,io.github.registry-desk/fr-sirene,,0.1.0,,streamable-http,"France Sirene company data (company-level, change tracking) for AI agents."
+2026-10-23T13:28:55.329156Z,org.georgiacommons/georgia-commons,Georgia Commons,0.2.0,https://github.com/shanejorr/georgiacommons,streamable-http,"Georgia's Code, bills, Supreme Court opinions, and 2026 House and Senate meetings. Independent."
+2026-10-23T13:32:52.45159Z,app.esimdata/esimdata,esimdata: travel eSIM comparison,0.1.0,,streamable-http,"Neutral travel eSIM comparison: search and compare plans from many providers, ranked by price."
+2026-10-23T13:33:17.40506Z,co.youraitools/toolpick,ToolPick,0.1.1,,streamable-http,"Find and live-check the paid x402 API for an agent task, ranked by real 30-day payers and price."
+2026-10-23T13:33:55.598671Z,com.supermodelsai/supermodel,Supermodel,1.0.0,,streamable-http,Create AI influencers and reshoot viral TikToks and Reels with them from your AI assistant.
+2026-10-23T13:34:00.029104Z,io.github.NJ-Burrito/qa-wrap-bridge,QA Wrap bridge,0.1.0,https://github.com/NJ-Burrito/QA-Wrap,,Read-only MCP server: a coding agent reads test sessions recorded in QA Wrap. Local only.
+2026-10-23T13:38:39.119457Z,io.getmydata/getmydata,GetMyData,1.1.0,,streamable-http,"Public web data as rows from any public website. Free sample first, then one fixed-price payment."
+2026-10-23T13:39:05.403201Z,io.github.Rachit8484/geoseo-mcp,geoseo-mcp,0.4.0,https://github.com/Rachit8484/geoseo-mcp,,"SEO + GEO: Search Console, Bing, Yandex, IndexNow, AI Overviews and LLM citation tracking."
+2026-10-23T13:40:42.024009Z,app.rimbra/rimbra,Rimbra,1.0.0,https://github.com/AdejareAkolawole/rimbra-agents,streamable-http,"Deploy apps, run databases and domains, read logs, and send email and WhatsApp messages on Rimbra."
+2026-10-23T13:51:06.607814Z,io.github.ItsOdeLeo/usage-planner,,0.2.0,https://github.com/ItsOdeLeo/usage-planner,,"Plan OpenAI Codex usage from local quota, banked resets and extra-reset forecasts."
+2026-10-23T13:55:16.622203Z,com.achriom/achriom,Achriom,1.2.0,https://github.com/achriom/achriom-mcp,streamable-http,"Media memory for AI agents: books, movies, music, shows, anime, podcasts, games, manga."
+2026-10-23T13:57:07.085578Z,ai.aistlabs/aistlabs,AISTLabs,1.40.0,,streamable-http,"Video, image and audio generation on top AI models for agents, with an AI director built in."
+2026-10-23T14:00:08.325529Z,io.github.devanshranjan10/landmines,landmine,0.2.1,https://github.com/devanshranjan10/landmines,,"Known open GitHub issues in your exact pinned dependency versions, for coding agents."
+2026-10-23T14:00:58.615287Z,tech.portali/portali,Portali,1.0.0,,streamable-http,"Bookkeeping for CPA firms: clients, QuickBooks, bank data, reports, OCR docs, and billing."
+2026-10-23T14:02:08.614615Z,io.github.fliptheweb/yazio-mcp,,0.0.15,https://github.com/fliptheweb/yazio-mcp,,MCP server for accessing Yazio user & nutrition data (unofficial)
+2026-10-23T14:02:23.982084Z,io.github.apppainapi/app-pain-api,App Pain API,0.2.0,https://github.com/apppainapi/app-pain-api,streamable-http,"What users hate about ANY iOS/Android app: clustered complaints, evidence, trends. No key needed."
+2026-10-23T14:03:32.70223Z,com.testedmcp/testedmcp,TestedMCP,0.1.0,,streamable-http,"Read-only lookup of tested agent tools and MCP servers: scores, test evidence, deprecation."
+2026-10-23T14:03:52.932915Z,de.zvg-einfach/zvg-einfach,ZVG Einfach,1.0.0,,streamable-http,"German foreclosure auctions (Zwangsversteigerungen): search, details, AI analysis, statistics."
+2026-10-23T14:06:46.984751Z,io.github.privacyplaybook/sops-mcp,,0.12.0,https://github.com/privacyplaybook/sops-mcp,,MCP server for creating and managing SOPS-encrypted secrets
+2026-10-23T14:10:20.608421Z,ai.human4ai/collaboration,Human4AI Human Task Network,0.3.0,,streamable-http,"AI Agents delegate public synthetic tasks to human experts, review results and award points."
+2026-10-23T14:10:43.825106Z,com.wa-mcp/wa-mcp,WhatsApp MCP,1.0.0,,streamable-http,"Read, search and reply to your WhatsApp chats from your AI, using your own number."
+2026-10-23T14:11:25.103655Z,io.github.danfeistar/busybee,BusyBee — Social Media Data,0.2.1,https://github.com/danfeistar/busybee-mcp,streamable-http,"Social media data for AI agents: creators, posts, comments, insights, trending across 6 platforms."
+2026-10-23T14:16:11.909458Z,io.github.pironjulien/nexus-windows-codex,NexusWindows for Codex,3.0.0,https://github.com/pironjulien/NexusWindows-Codex,,"Windows computer use in the background for Codex: UI Automation, Win32 messages, read back."
+2026-10-23T14:18:46.402168Z,shop.colegios/tienda,colegios.shop — uniformes escolares,1.0.0,,streamable-http,"Tiendas de uniformes escolares: buscar prendas, talles y armar el carrito."
+2026-10-23T14:19:30.463988Z,com.getplanagram/social-media,Planagram,1.0.0,,streamable-http,"Create, schedule and manage social posts on 10 networks (Instagram, TikTok, LinkedIn, X...)"
