@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-10-23T02:22:26.566193Z,io.github.kitedesk-erm/url-to-markdown-mcp,URL to Markdown (Article Extractor),1.0.0,https://github.com/kitedesk-erm/url-to-markdown-mcp,,"Turn any URL into clean Markdown or text for LLMs, RAG and agents. Strips nav, ads and footers."
+2026-10-23T02:24:23.075756Z,com.it.scorptech/x402,ScorpTech x402 API,1.0.0,,streamable-http,"112 x402 pay-per-call tools: web data, security/OSINT, SEC and public data, Solana/EVM lookups"
+2026-10-23T02:25:15.797146Z,com.wyxdapp/wyxd-guide-mcp,Wyxd Guide Travel — Local Guides & Routes in China,1.1.0,,streamable-http,"Search vetted local guides and travel routes across China, with deep links to chat and booking."
+2026-10-23T02:27:05.729329Z,com.domhaul/mcp,domhaul,1.0.0,,streamable-http,"Check if domain names are really available (live RDAP), with prices, brand scores and resale value."
+2026-10-23T02:35:29.976566Z,com.cedargrant/federal-grants,CedarGrant,1.0.0,,streamable-http,"Open federal grants from Grants.gov, plus a kit to draft and review applications in your assistant."
+2026-10-23T02:39:51.990174Z,com.textforagents/forecast-calibration-ledger,"Forecast Calibration Ledger: agent self-forecasts, resolved and scored",1.0.0,,streamable-http,"Signed agent self-forecasts, resolved and scored per cohort, with a self-killing trust weight."
+2026-10-23T02:39:52.678252Z,com.textforagents/mass-casualty-triage-for-agent-fleets,Mass-Casualty Triage for Agent Fleets,1.0.0,,streamable-http,Salvageability triage for agent fleets in a declared mass-failure mode.
+2026-10-23T02:39:54.518038Z,com.textforagents/brain-transplant-continuity-certificate,Brain-Transplant Continuity Certificate,1.0.0,,streamable-http,"Commitment re-assumption across model transplants. Checks $0.01, handling $0.50, plan $9.99/mo."
+2026-10-23T02:46:21.641533Z,world.betap/lugares,BETAP: cultural places and local businesses,1.2.0,,streamable-http,"Verified museums, libraries and cultural places (MX/US/CA) and local businesses in Mexico."
+2026-10-23T02:47:35.406068Z,com.cookingwithrobots/meal-planner,Cooking with Robots,1.0.0,,streamable-http,"Plan weekly meals from your pantry, search allergy-safe recipes, and build grocery lists."
+2026-10-23T02:48:13.233864Z,com.textforagents/agent-carried-work-history,Agent-Carried Work History,1.0.0,,streamable-http,"Your agent carries its own resume — outcome receipts minted at settlement, held by the agent."
+2026-10-23T02:48:20.808167Z,com.textforagents/first-call-latency-witness,First-Call Witness,1.0.0,,streamable-http,"Real MCP handshake witness graded per-client, signed expiring receipt."
+2026-10-23T02:48:42.99621Z,asia.simpler/simpler-asia,Simpler.Asia,1.0.0,,streamable-http,"Free back office for small businesses in Singapore and Southeast Asia: invoices, expenses, stock."
+2026-10-23T02:50:28.768303Z,com.textforagents/seller-funded-verification-bond,,1.0.0,,streamable-http,Slashable TEST/STUB bond pinned to one exact claim; a confirmed divergence slashes 50%.
+2026-10-23T02:50:34.712875Z,com.textforagents/remote-skill-census-verification,,1.0.0,,streamable-http,Census and digest-verify a remote MCP server's loadable skills per host persona.
+2026-10-23T02:50:54.551187Z,com.textforagents/absence-tiered-authority-envelope,Absence-Tiered Authority Envelope,1.0.0,,streamable-http,Authority that widens on proven operator absence and collapses on return.
+2026-10-23T02:52:04.460206Z,com.textforagents/customs-house-for-agent-payloads,Customs House for Agent Payloads,1.0.0,,streamable-http,"Classify, declare, and bond agent payload crossings — filing, bond, signed entry receipts."
+2026-10-23T02:56:19.278951Z,directory.douxprocess/white-pages,DouxProcess Directory,1.0.0,,streamable-http,"Find a US business by what you need and where, with licences checked against the issuer's file."
+2026-10-23T03:00:27.911299Z,io.github.cardzgame/cardz-mcp,CARDZ MCP,1.1.4,https://github.com/cardzgame/cardz-mcp,streamable-http,Pokémon & One Piece PSA 10 data for any AI agent
+2026-10-23T03:01:08.493367Z,io.github.SonicloudTech/mouse-mcp,uMouse MCP,0.1.1,https://github.com/SonicloudTech/mouse-mcp,,USB HID mouse control and voice dictation for Windows x64. Requires compatible uMouse hardware.
+2026-10-23T03:07:22.537693Z,com.textforagents/sterile-cockpit-for-irreversible-actions,Sterile Cockpit for Irreversible Actions,1.0.0,,streamable-http,"Sterile phase for irreversible agent actions: frozen intent, deferred inputs, signed exit receipt."
+2026-10-23T03:07:26.709875Z,io.github.calllint/calllint,,0.2.1,https://github.com/calllint/calllint,,Static preflight safety gate for MCP servers — scan configs before you run them. Never executes.
+2026-10-23T03:09:13.753715Z,com.sissoo/finder,Sissoo,1.0.0,,streamable-http,"Find wellbeing sessions with independent practitioners: free times, prices and booking links."
+2026-10-23T03:09:45.786268Z,com.manusights/manusights,Manusights,1.1.0,https://github.com/Manusights/manusights-mcp,streamable-http,"Check if references exist or were retracted, look up journal AI policies, and preview manuscripts."
+2026-10-23T03:11:14.063046Z,io.github.Maz2580/geospark,GeoSpark,0.8.0,https://github.com/Maz2580/geospark,streamable-http,"Verifiable geospatial tools: distances, topology, isochrones, Overture Maps, with sources."
+2026-10-23T03:11:34.756514Z,co.economi/economico,Economico,0.0.0,,streamable-http,"Business books operated by your agents, with exact amounts and evidenced activity."
+2026-10-23T03:14:25.717551Z,com.textforagents/demurrage-for-agent-resource-holds,"Demurrage for Agent Resource Holds: price the hold, not just the use",1.0.0,,streamable-http,"Price the hold, not just the use: demurrage tariff engine for agent fleet resources."
+2026-10-23T03:15:52.067371Z,com.goblinalpha/goblin-alpha,,0.3.0,,streamable-http,"Price checks for resale agents: sold comps with confidence grades, mislisting scans, fee math."
