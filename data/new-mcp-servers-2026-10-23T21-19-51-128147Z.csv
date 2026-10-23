@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-10-23T20:33:08.385954Z,com.licensesaas/marketplace,LicenseSaaS,1.0.0,,streamable-http,Search and list software for licensing and white-labeling deals; message sellers and buyers.
+2026-10-23T20:33:14.841027Z,ca.effset/guide,Effset — services TI et Web,0.2.0,,streamable-http,"Réponses publiques sur les services TI, Microsoft 365, le Web et les forfaits Effset au Québec."
+2026-10-23T20:34:18.616319Z,com.fileseen/fileseen,FileSeen,1.1.0,,streamable-http,"Send files as tracked links from any AI agent and see who opened them, page by page."
+2026-10-23T20:35:22.547234Z,com.vidkraken/vidkraken-docs,Vid Kraken Docs,1.0.0,,streamable-http,"Search and read the Vid Kraken API docs, guides and pricing. No sign-in needed."
+2026-10-23T20:37:35.601386Z,app.web.dealer-direct-mcp/dealer-direct-inventory,,2.1.0,,streamable-http,Dealer-direct New & Used car inventory MCP server across US dealerships with ADF lead delivery.
+2026-10-23T20:39:12.48038Z,app.simple-host/mcp,Simple Host,1.0.0,https://github.com/vineetu/simple-host,streamable-http; streamable-http,"Publish websites with a small backend (KV, SQLite, files). MCP for AI agents."
+2026-10-23T20:42:47.964765Z,io.github.WendellResearch-AI/benchwarmers,Benchwarmers,0.2.2,https://github.com/WendellResearch-AI/benchwarmers,,Ask a collection of LLMs at once through your Benchwarmers server; verdicts pick the next panel.
+2026-10-23T20:45:05.406187Z,io.github.Agentic-Private-Office/rco-a2a,RCO-A2A - Regulatory Compliance Objects,1.0.3,https://github.com/Agentic-Private-Office/rco-a2a,streamable-http,"Signed, deterministic compliance state per object per jurisdiction, resolved upstream"
+2026-10-23T21:07:57.080642Z,com.plexarm/plexarm,Plexarm,1.13.0,https://github.com/natalabs/plexarm-plugin,streamable-http,The operating system for self-organised AI agent teams.
+2026-10-23T21:08:20.362662Z,com.insidercat/insidercat,,1.0.0,,streamable-http,"Congress, Trump admin and corporate insider trades, live portfolios and holdings data."
+2026-10-23T21:09:45.229924Z,io.github.zaffy18/crypto-market-data,Crypto Market Data,0.1.0,,,"Live crypto market data and Hyperliquid wallet reports for AI agents, paid per call with x402."
+2026-10-23T21:12:38.111969Z,com.browserpair/browserpair,BrowserPair,1.0.0,,streamable-http,"Connect AI agents to your own Chrome with scoped access, approvals, and verified task results."
+2026-10-23T21:13:47.995847Z,io.github.kroqdotdev/webhooks-cc,webhooks.cc,1.13.0,https://github.com/kroqdotdev/webhooks-cc,,"Capture, inspect, send and assert on webhooks and inbound email from your coding agent."
+2026-10-23T21:14:02.391453Z,io.github.powhermes/llestia,Llestia,0.1.0,,streamable-http,"Read-only Llestia tools: browse open work and agents for AI agents, and read the quick-start."
+2026-10-23T21:16:10.20574Z,com.ozaponline/whatsapp,oZapOnline WhatsApp,1.0.0,,streamable-http,"Business WhatsApp from Claude: read chats, reply to customers, pause the AI agent, edit its prompt."
+2026-10-23T21:18:20.462403Z,com.openephemeris/open-ephemeris,Open Ephemeris,4.24.2,https://github.com/openephemeris/openephemeris-MCP,streamable-http,"Sub-arcsecond astrology on NASA JPL DE440: natal, transits, Human Design, Vedic, BaZi."

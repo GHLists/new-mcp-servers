@@ -9,41 +9,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 20:19 UTC
+## Latest list — 2026-10-23 21:19 UTC
 
-New MCP servers published between 2026-10-23 19:21 UTC and 2026-10-23 20:19 UTC.
+New MCP servers published between 2026-10-23 20:19 UTC and 2026-10-23 21:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-23T20-19-52-582693Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-23T21-19-51-128147Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-23 19:23:06 | [io.github.Jucamhc/mcp-workatastartup](https://github.com/Jucamhc/mcp-workatastartup) | Work at a Startup | 0.1.0 | Busca ofertas y postula en Work at a Startup, la bolsa de empleo de Y Combinato… |
-| 2026-10-23 19:24:28 | [io.github.Jucamhc/mcp-elempleo](https://github.com/Jucamhc/mcp-elempleo) | elempleo | 0.1.0 | Busca ofertas, postula y mantiene tu hoja de vida en elempleo.com (Colombia). |
-| 2026-10-23 19:24:29 | [io.github.Jucamhc/mcp-magneto](https://github.com/Jucamhc/mcp-magneto) | Magneto | 0.1.0 | Busca ofertas, postula y mantiene tu hoja de vida en Magneto (magneto365.com, C… |
-| 2026-10-23 19:24:38 | com.shadowteck/shadowteck | ShadowTeck | 1.0.0 | Generate AI video, images and audio, and browse your history, from any MCP clie… |
-| 2026-10-23 19:25:49 | io.github.ygfalcon/falcon-docs | Falcon Docs: PDF extraction + bank stat… | 1.0.0 | No-template PDF to JSON: invoices, receipts, W-9s, bank statements w/ NSF + MCA… |
-| 2026-10-23 19:26:15 | io.github.ygfalcon/falcon-structures | Falcon Structures | 1.0.0 | Price crypto structured notes (autocallables, shark fins, range accruals) via M… |
-| 2026-10-23 19:27:27 | fi.meom/public | MEOM | 0.1.0 | Read-only public info from MEOM, a Finnish B2B website agency: services, refere… |
-| 2026-10-23 19:27:47 | com.dreamz-studios/dreamz | Dreamz Studios | 1.18.4 | A film studio inside your own Claude: films, pictures, voices and music on your… |
-| 2026-10-23 19:30:26 | com.drmaker3d/shop | DrMaker3D: custom 3D printing, figures,… | 1.0.0 | 3D printing studio in Connecticut: instant prices and checkout links for model… |
-| 2026-10-23 19:32:21 | cz.bidoro/bidoro | Bidoro | 1.1.0 | Czech property marketplace: AI agents of sellers and brokers draft, publish and… |
-| 2026-10-23 19:34:24 | [io.github.adelinamart/robrain](https://github.com/adelinamart/robrain) |  | 2.4.10 | Self-hosted decision memory for AI coding agents; warns before re-proposing a r… |
-| 2026-10-23 19:35:58 | sh.agentbeacon/agentbeacon | AgentBeacon | 6.1.0 | Search and message beacons: live notes from businesses and employers, in Austin… |
-| 2026-10-23 19:39:02 | dev.pages.wayreceipt/wayreceipt | Wayreceipt | 0.1.0 | Proof of delivery for agent work: verify countersigned receipts and deliverable… |
-| 2026-10-23 19:44:22 | co.youraitools/perpcheck | PerpCheck | 0.1.0 | Hyperliquid pre-trade order check: will it be rejected, fix values, liquidation… |
-| 2026-10-23 19:46:02 | io.github.Bustlll/agent-data-api | Agent Data API | 1.0.0 | Pay-per-call web search, page reader, enrichment, email check, token safety, 50… |
-| 2026-10-23 19:50:26 | ru.pravida/mcp | Pravida — Russian law | 1.0.0 | Russian law for AI: statutes with edition dates, Supreme Court guidance and cou… |
-| 2026-10-23 19:52:15 | io.github.ygfalcon/falcon-comps |  | 1.0.0 | SEC EDGAR standardized financials, TTM and trading comps via x402 (free preview… |
-| 2026-10-23 19:53:17 | com.orbitfour/domains | OrbitFour | 1.6.0 | Check domain availability and live registry pricing, or search for available na… |
-| 2026-10-23 19:58:06 | ai.semata/semata | Semata | 1.0.0 | Screen CVs, manage roles and candidates, and source talent in Semata's AI hirin… |
-| 2026-10-23 19:58:54 | com.pagecuts/pagecuts | Pagecuts | 1.0.0 | Make a 15-second video ad, still images and ad copy from any web page. US$19 on… |
-| 2026-10-23 19:59:36 | io.scripe/mcp | Scripe | 2.0.0 | Plan, write, schedule and measure your team's LinkedIn posts in Scripe from you… |
-| 2026-10-23 19:59:52 | [io.github.chuang44-tiff/optivibe-mcp](https://github.com/chuang44-tiff/optivibe-mcp) | OptiVibe | 0.2.0 | Lens design automation for Zemax OpticStudio through the typed ZOS-API |
-| 2026-10-23 20:00:41 | [dev.wraps/email](https://github.com/wraps-team/wraps-js) |  | 0.9.0 | Send email through your own Amazon SES account, and check domains, suppressions… |
-| 2026-10-23 20:00:48 | [io.github.anipotts/imessage-mcp](https://github.com/anipotts/imessage-mcp) | iMessage History | 3.3.1 | Read-only MCP server for searching and reading Apple Messages history on macOS. |
-| 2026-10-23 20:09:24 | [io.github.GeminiGeorge22/sports-odds-api](https://github.com/GeminiGeorge22/sports-odds-mcp) | Sports Odds API (Kambi sportsbooks) | 1.0.0 | Live odds from 24 Kambi-powered sportsbooks in one call, with the best price pe… |
-| 2026-10-23 20:13:57 | [io.github.ruby-native/ruby-native](https://github.com/ruby-native/gem) |  | 0.18.0 | Ship a Rails app to the App Store and Google Play. Every ruby_native command as… |
-| 2026-10-23 20:17:05 | [io.github.danoszz/penthera](https://github.com/danoszz/penthera) | Penthera | 1.9.0 | Offline, rule-based security checks for your repo, dependencies, AI agent confi… |
+| 2026-10-23 20:33:08 | com.licensesaas/marketplace | LicenseSaaS | 1.0.0 | Search and list software for licensing and white-labeling deals; message seller… |
+| 2026-10-23 20:33:14 | ca.effset/guide | Effset — services TI et Web | 0.2.0 | Réponses publiques sur les services TI, Microsoft 365, le Web et les forfaits E… |
+| 2026-10-23 20:34:18 | com.fileseen/fileseen | FileSeen | 1.1.0 | Send files as tracked links from any AI agent and see who opened them, page by… |
+| 2026-10-23 20:35:22 | com.vidkraken/vidkraken-docs | Vid Kraken Docs | 1.0.0 | Search and read the Vid Kraken API docs, guides and pricing. No sign-in needed. |
+| 2026-10-23 20:37:35 | app.web.dealer-direct-mcp/dealer-direct-inventory |  | 2.1.0 | Dealer-direct New & Used car inventory MCP server across US dealerships with AD… |
+| 2026-10-23 20:39:12 | [app.simple-host/mcp](https://github.com/vineetu/simple-host) | Simple Host | 1.0.0 | Publish websites with a small backend (KV, SQLite, files). MCP for AI agents. |
+| 2026-10-23 20:42:47 | [io.github.WendellResearch-AI/benchwarmers](https://github.com/WendellResearch-AI/benchwarmers) | Benchwarmers | 0.2.2 | Ask a collection of LLMs at once through your Benchwarmers server; verdicts pic… |
+| 2026-10-23 20:45:05 | [io.github.Agentic-Private-Office/rco-a2a](https://github.com/Agentic-Private-Office/rco-a2a) | RCO-A2A - Regulatory Compliance Objects | 1.0.3 | Signed, deterministic compliance state per object per jurisdiction, resolved up… |
+| 2026-10-23 21:07:57 | [com.plexarm/plexarm](https://github.com/natalabs/plexarm-plugin) | Plexarm | 1.13.0 | The operating system for self-organised AI agent teams. |
+| 2026-10-23 21:08:20 | com.insidercat/insidercat |  | 1.0.0 | Congress, Trump admin and corporate insider trades, live portfolios and holding… |
+| 2026-10-23 21:09:45 | io.github.zaffy18/crypto-market-data | Crypto Market Data | 0.1.0 | Live crypto market data and Hyperliquid wallet reports for AI agents, paid per… |
+| 2026-10-23 21:12:38 | com.browserpair/browserpair | BrowserPair | 1.0.0 | Connect AI agents to your own Chrome with scoped access, approvals, and verifie… |
+| 2026-10-23 21:13:47 | [io.github.kroqdotdev/webhooks-cc](https://github.com/kroqdotdev/webhooks-cc) | webhooks.cc | 1.13.0 | Capture, inspect, send and assert on webhooks and inbound email from your codin… |
+| 2026-10-23 21:14:02 | io.github.powhermes/llestia | Llestia | 0.1.0 | Read-only Llestia tools: browse open work and agents for AI agents, and read th… |
+| 2026-10-23 21:16:10 | com.ozaponline/whatsapp | oZapOnline WhatsApp | 1.0.0 | Business WhatsApp from Claude: read chats, reply to customers, pause the AI age… |
+| 2026-10-23 21:18:20 | [com.openephemeris/open-ephemeris](https://github.com/openephemeris/openephemeris-MCP) | Open Ephemeris | 4.24.2 | Sub-arcsecond astrology on NASA JPL DE440: natal, transits, Human Design, Vedic… |
 
 ## Data source
 
