@@ -1,0 +1,14 @@
+created_at,server,title,version,repository,transports,description
+2026-10-23T06:37:01.512803Z,io.github.kamal0808/ideato,Ideato,1.0.0,,streamable-http,"Post and search ideas, pick and hand in tasks, and comment on projects built in public on Ideato."
+2026-10-23T06:58:55.053782Z,org.onionlens/tor-tools,OnionLens Tor Tools,0.1.2,https://github.com/NellInc/OnionLens-public,streamable-http,"Tor address validation and retrieval fixtures, with disclosed research logging."
+2026-10-23T07:02:50.399179Z,com.microsoft/playwright-cloud-browsers,Playwright Cloud Browsers,1.0.0,,streamable-http,Managed Playwright cloud browsers for scalable browser automation and AI agent workflows
+2026-10-23T07:03:33.209406Z,org.newmexicoliteracyproject/nmlp-mcp,New Mexico Literacy Project,0.6.1,,streamable-http,Albuquerque-metro free book-donation pickup plus first-edition identification tools.
+2026-10-23T07:06:18.2064Z,me.onmax/inkbind,Inkbind,1.0.0,,streamable-http,"Turn a story, memoir or recipes from the chat into a printed hardcover or softcover book."
+2026-10-23T07:06:29.763318Z,io.github.atrislabs/atris,Atris,3.73.1,https://github.com/atrislabs/atris,,"Run Atris campaigns from any agent, and extract, check, or search brand design systems."
+2026-10-23T07:06:35.677356Z,io.github.abarto666/pod-exp,Field Notes podcast library,1.0.0,,streamable-http,"Which podcasts and talks a person appeared on, with summaries and chapters. AI, investing, crypto."
+2026-10-23T07:09:58.414303Z,ai.explorescience/mcp,Explore Science,1.0.0,,streamable-http,"Connect your Explore Science account for deep expert review of science, from idea to manuscript."
+2026-10-23T07:10:29.867622Z,io.github.aurimasAPG/buildagents,,1.1.1,https://github.com/aurimasAPG/buildagents,streamable-http,Design AI agent teams for a business problem and generate ready-to-paste Claude Code prompts.
+2026-10-23T07:16:01.592123Z,io.github.slimndap/jeero-mcp,Jeero MCP,1.0.4,https://github.com/slimndap/jeero-mcp,,Local Jeero MCP server backed by Mother and SQLite.
+2026-10-23T07:16:01.767559Z,com.betacade/mcp,Betacade,1.0.0,,streamable-http,"Deploy web game builds and read playtests: who played, errors, feedback, bugs."
+2026-10-23T07:21:04.013899Z,io.github.barzoj/somtoday-mcp,Somtoday (unofficial),0.3.0,https://github.com/barzoj/somtoday-mcp,,"Unofficial read-only Somtoday parent portal: timetable, homework, grades, assignments, messages"
+2026-10-23T07:21:05.030397Z,io.github.barzoj/b2match-mcp,B2match (unofficial),0.2.0,https://github.com/barzoj/b2match-mcp,,"Unofficial read-only B2match events: agenda, participants, meetings, schedule, conversations"

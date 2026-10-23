@@ -9,37 +9,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 06:22 UTC
+## Latest list — 2026-10-23 07:21 UTC
 
-New MCP servers published between 2026-10-23 05:21 UTC and 2026-10-23 06:22 UTC.
+New MCP servers published between 2026-10-23 06:22 UTC and 2026-10-23 07:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-23T06-22-11-15234Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-23T07-21-53-812948Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-23 05:30:49 | [io.github.cliptude/cliptude](https://github.com/cliptude/cliptude) | Cliptude | 1.0.0 | Make 6–60 minute faceless YouTube documentaries: voiceover, footage, maps and c… |
-| 2026-10-23 05:34:16 | app.trickl/trickl | Trickl | 1.0.0 | Trickl for AI assistants: full docs, setup plans, and sandbox tools to test pur… |
-| 2026-10-23 05:35:07 | com.botsrated/botsrated | BotsRated (beta) | 0.1.0-beta | Beta: measured facts on paid x402 agent services: probes, latency, price checks… |
-| 2026-10-23 05:41:56 | com.getpriorivo/website-check | Priorivo Website Check for AI Agents | 1.0.0 | Paid website checks with evidence and private results. Authorize EUR 9.90 separ… |
-| 2026-10-23 05:42:29 | br.com.observatoriobr/observatorio-br | Observatório BR | 1.0.0 | Indicadores econômicos oficiais do Brasil (IBGE, Banco Central, Tesouro) com fo… |
-| 2026-10-23 05:43:52 | ru.artprotect/mcp | АРТпротект | 1.0.0 | Защита авторских прав и товарных знаков в РФ: маркетплейсы, компенсации, претен… |
-| 2026-10-23 05:44:52 | [io.github.Pangolin-spg/pangolinfo-mcp](https://github.com/Pangolin-spg/amazon-data-mcp) | Pangolinfo Amazon Data MCP | 0.1.2 | Live Amazon product details, paginated reviews and search data as MCP tools for… |
-| 2026-10-23 05:49:43 | com.textforagents/pre-dispatch-rejection-ledger | Pre-dispatch rejection ledger | 1.0.0 | Witness for MCP calls rejected pre-dispatch: hash-chained ledger, enum differ,… |
-| 2026-10-23 05:52:54 | com.freightsidekick/freight-quotes | Freight Sidekick | 2.0.0 | Instant LTL, partial and truckload freight quotes in the US and Canada, with cl… |
-| 2026-10-23 05:53:54 | [cloud.adcopilot/adcopilot](https://github.com/AtromxIntelligence/adcopilot-claude-plugin) | AdCopilot | 1.0.0 | Google Ads, GA4, Search Console and Tag Manager for AI assistants. Every change… |
-| 2026-10-23 05:54:12 | com.textforagents/concurrent-client-isolation-probe | Concurrent-client isolation probe | 1.0.0 | Concurrent two-client overlap probe proving MCP servers do not cross-deliver to… |
-| 2026-10-23 05:54:32 | com.myflightpayback/flightpayback | FlightPayback | 1.1.0 | Free check: does an airline owe you cash for a delayed or cancelled flight in C… |
-| 2026-10-23 05:58:05 | co.datamagnet/datamagnet | Datamagnet | 0.2.0 | Live LinkedIn people, company, post and job data, ICP search and job-change sig… |
-| 2026-10-23 06:00:51 | [io.github.dotmoosehosting/dotmoose](https://github.com/dotmoosehosting/dotmoose-mcp) |  | 1.0.0 | Discover DotMoose hosting and domains through a production remote MCP server. |
-| 2026-10-23 06:01:00 | [io.github.dotmoosehosting/dotmoose-account](https://github.com/dotmoosehosting/dotmoose-mcp) |  | 1.0.0 | Manage existing DotMoose hosting services through OAuth-protected MCP tools. |
-| 2026-10-23 06:01:36 | [io.github.MustacheCase/zanadir](https://github.com/MustacheCase/zanadir) | zanadir | 0.18.0 | Find what a repository's CI is missing, and which security checks cannot fail t… |
-| 2026-10-23 06:02:45 | io.theparse/parse | The Parse | 1.1.0 | Search a tiered, cited public research record; read its sources; work its open… |
-| 2026-10-23 06:12:26 | [io.github.wygogogo19/robotbase-dev](https://github.com/wygogogo19/robotbase-mcp) |  | 0.32.0 | Agent MCP: 18 tools — GitHub/HF/npm/PyPI/HN trends plus 17 web tools for coding… |
-| 2026-10-23 06:12:28 | [io.github.wygogogo19/robotbase-content](https://github.com/wygogogo19/robotbase-mcp) |  | 0.32.0 | Agent MCP: 35 tools — social hot lists, attention trends, 80k+ books, 17 web to… |
-| 2026-10-23 06:13:08 | [io.github.roomi-fields/osc-bridge](https://github.com/roomi-fields/osc-bridge) | osc-bridge | 0.13.0 | OSC ↔ MIDI bridge — 963 synthesizers and DAWs. A MIDI MCP and OSC MCP for contr… |
-| 2026-10-23 06:15:58 | io.github.dunctk/marketing-manager-jobs | Marketing Manager Jobs | 1.0.0 | Live marketing manager jobs, remote openings, salary transparency and hiring re… |
-| 2026-10-23 06:17:57 | [io.github.pic2vector/pic2vector](https://github.com/pic2vector/pic2vector-mcp) | Pic2Vector | 1.0.1 | MCP server: convert PNG/JPG to SVG from Claude, Cursor & any MCP client. By Pic… |
-| 2026-10-23 06:21:27 | com.ctriolab/google-trends | Google Trends Scraper (Ctrio Lab) | 0.1.0 | Google Trends data via Apify: interest over time, by region, related queries an… |
+| 2026-10-23 06:37:01 | io.github.kamal0808/ideato | Ideato | 1.0.0 | Post and search ideas, pick and hand in tasks, and comment on projects built in… |
+| 2026-10-23 06:58:55 | [org.onionlens/tor-tools](https://github.com/NellInc/OnionLens-public) | OnionLens Tor Tools | 0.1.2 | Tor address validation and retrieval fixtures, with disclosed research logging. |
+| 2026-10-23 07:02:50 | com.microsoft/playwright-cloud-browsers | Playwright Cloud Browsers | 1.0.0 | Managed Playwright cloud browsers for scalable browser automation and AI agent… |
+| 2026-10-23 07:03:33 | org.newmexicoliteracyproject/nmlp-mcp | New Mexico Literacy Project | 0.6.1 | Albuquerque-metro free book-donation pickup plus first-edition identification t… |
+| 2026-10-23 07:06:18 | me.onmax/inkbind | Inkbind | 1.0.0 | Turn a story, memoir or recipes from the chat into a printed hardcover or softc… |
+| 2026-10-23 07:06:29 | [io.github.atrislabs/atris](https://github.com/atrislabs/atris) | Atris | 3.73.1 | Run Atris campaigns from any agent, and extract, check, or search brand design… |
+| 2026-10-23 07:06:35 | io.github.abarto666/pod-exp | Field Notes podcast library | 1.0.0 | Which podcasts and talks a person appeared on, with summaries and chapters. AI,… |
+| 2026-10-23 07:09:58 | ai.explorescience/mcp | Explore Science | 1.0.0 | Connect your Explore Science account for deep expert review of science, from id… |
+| 2026-10-23 07:10:29 | [io.github.aurimasAPG/buildagents](https://github.com/aurimasAPG/buildagents) |  | 1.1.1 | Design AI agent teams for a business problem and generate ready-to-paste Claude… |
+| 2026-10-23 07:16:01 | [io.github.slimndap/jeero-mcp](https://github.com/slimndap/jeero-mcp) | Jeero MCP | 1.0.4 | Local Jeero MCP server backed by Mother and SQLite. |
+| 2026-10-23 07:16:01 | com.betacade/mcp | Betacade | 1.0.0 | Deploy web game builds and read playtests: who played, errors, feedback, bugs. |
+| 2026-10-23 07:21:04 | [io.github.barzoj/somtoday-mcp](https://github.com/barzoj/somtoday-mcp) | Somtoday (unofficial) | 0.3.0 | Unofficial read-only Somtoday parent portal: timetable, homework, grades, assig… |
+| 2026-10-23 07:21:05 | [io.github.barzoj/b2match-mcp](https://github.com/barzoj/b2match-mcp) | B2match (unofficial) | 0.2.0 | Unofficial read-only B2match events: agenda, participants, meetings, schedule,… |
 
 ## Data source
 
