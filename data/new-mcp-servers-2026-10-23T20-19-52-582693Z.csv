@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-23T19:23:06.544177Z,io.github.Jucamhc/mcp-workatastartup,Work at a Startup,0.1.0,https://github.com/Jucamhc/mcp-workatastartup,,"Busca ofertas y postula en Work at a Startup, la bolsa de empleo de Y Combinator."
+2026-10-23T19:24:28.794265Z,io.github.Jucamhc/mcp-elempleo,elempleo,0.1.0,https://github.com/Jucamhc/mcp-elempleo,,"Busca ofertas, postula y mantiene tu hoja de vida en elempleo.com (Colombia)."
+2026-10-23T19:24:29.410782Z,io.github.Jucamhc/mcp-magneto,Magneto,0.1.0,https://github.com/Jucamhc/mcp-magneto,,"Busca ofertas, postula y mantiene tu hoja de vida en Magneto (magneto365.com, Colombia)."
+2026-10-23T19:24:38.670081Z,com.shadowteck/shadowteck,ShadowTeck,1.0.0,,streamable-http,"Generate AI video, images and audio, and browse your history, from any MCP client."
+2026-10-23T19:25:49.417346Z,io.github.ygfalcon/falcon-docs,Falcon Docs: PDF extraction + bank statement spreading (x402),1.0.0,,streamable-http,"No-template PDF to JSON: invoices, receipts, W-9s, bank statements w/ NSF + MCA metrics. x402 USDC."
+2026-10-23T19:26:15.528102Z,io.github.ygfalcon/falcon-structures,Falcon Structures,1.0.0,,streamable-http,"Price crypto structured notes (autocallables, shark fins, range accruals) via Monte Carlo; x402."
+2026-10-23T19:27:27.545433Z,fi.meom/public,MEOM,0.1.0,,streamable-http,"Read-only public info from MEOM, a Finnish B2B website agency: services, references, team, booking."
+2026-10-23T19:27:47.396402Z,com.dreamz-studios/dreamz,Dreamz Studios,1.18.4,,streamable-http,"A film studio inside your own Claude: films, pictures, voices and music on your own keys."
+2026-10-23T19:30:26.23676Z,com.drmaker3d/shop,"DrMaker3D: custom 3D printing, figures, cookie cutters and gifts",1.0.0,,streamable-http,"3D printing studio in Connecticut: instant prices and checkout links for model files, and quotes."
+2026-10-23T19:32:21.473853Z,cz.bidoro/bidoro,Bidoro,1.1.0,,streamable-http,"Czech property marketplace: AI agents of sellers and brokers draft, publish and bid. People decide."
+2026-10-23T19:34:24.642982Z,io.github.adelinamart/robrain,,2.4.10,https://github.com/adelinamart/robrain,,Self-hosted decision memory for AI coding agents; warns before re-proposing a rejected approach.
+2026-10-23T19:35:58.465087Z,sh.agentbeacon/agentbeacon,AgentBeacon,6.1.0,,streamable-http; streamable-http,"Search and message beacons: live notes from businesses and employers, in Austin, TX and remote."
+2026-10-23T19:39:02.532039Z,dev.pages.wayreceipt/wayreceipt,Wayreceipt,0.1.0,,streamable-http,Proof of delivery for agent work: verify countersigned receipts and deliverable hashes. Free.
+2026-10-23T19:44:22.417998Z,co.youraitools/perpcheck,PerpCheck,0.1.0,,streamable-http,"Hyperliquid pre-trade order check: will it be rejected, fix values, liquidation, impact, funding."
+2026-10-23T19:46:02.465891Z,io.github.Bustlll/agent-data-api,Agent Data API,1.0.0,,streamable-http,"Pay-per-call web search, page reader, enrichment, email check, token safety, 50+ data tools (x402)"
+2026-10-23T19:50:26.66603Z,ru.pravida/mcp,Pravida — Russian law,1.0.0,,streamable-http,"Russian law for AI: statutes with edition dates, Supreme Court guidance and court practice."
+2026-10-23T19:52:15.636795Z,io.github.ygfalcon/falcon-comps,,1.0.0,,streamable-http,"SEC EDGAR standardized financials, TTM and trading comps via x402 (free preview)."
+2026-10-23T19:53:17.051106Z,com.orbitfour/domains,OrbitFour,1.6.0,,streamable-http,"Check domain availability and live registry pricing, or search for available names."
+2026-10-23T19:58:06.345063Z,ai.semata/semata,Semata,1.0.0,,streamable-http,"Screen CVs, manage roles and candidates, and source talent in Semata's AI hiring workspace."
+2026-10-23T19:58:54.035145Z,com.pagecuts/pagecuts,Pagecuts,1.0.0,,streamable-http,"Make a 15-second video ad, still images and ad copy from any web page. US$19 once per kit."
+2026-10-23T19:59:36.536475Z,io.scripe/mcp,Scripe,2.0.0,,streamable-http,"Plan, write, schedule and measure your team's LinkedIn posts in Scripe from your AI assistant."
+2026-10-23T19:59:52.233505Z,io.github.chuang44-tiff/optivibe-mcp,OptiVibe,0.2.0,https://github.com/chuang44-tiff/optivibe-mcp,,Lens design automation for Zemax OpticStudio through the typed ZOS-API
+2026-10-23T20:00:41.652025Z,dev.wraps/email,,0.9.0,https://github.com/wraps-team/wraps-js,,"Send email through your own Amazon SES account, and check domains, suppressions and sandbox status."
+2026-10-23T20:00:48.519246Z,io.github.anipotts/imessage-mcp,iMessage History,3.3.1,https://github.com/anipotts/imessage-mcp,,Read-only MCP server for searching and reading Apple Messages history on macOS.
+2026-10-23T20:09:24.945607Z,io.github.GeminiGeorge22/sports-odds-api,Sports Odds API (Kambi sportsbooks),1.0.0,https://github.com/GeminiGeorge22/sports-odds-mcp,streamable-http,"Live odds from 24 Kambi-powered sportsbooks in one call, with the best price per outcome."
+2026-10-23T20:13:57.928029Z,io.github.ruby-native/ruby-native,,0.18.0,https://github.com/ruby-native/gem,,Ship a Rails app to the App Store and Google Play. Every ruby_native command as a tool.
+2026-10-23T20:17:05.562851Z,io.github.danoszz/penthera,Penthera,1.9.0,https://github.com/danoszz/penthera,,"Offline, rule-based security checks for your repo, dependencies, AI agent config and local app."

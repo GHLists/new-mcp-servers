@@ -9,39 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 19:21 UTC
+## Latest list — 2026-10-23 20:19 UTC
 
-New MCP servers published between 2026-10-23 18:20 UTC and 2026-10-23 19:21 UTC.
+New MCP servers published between 2026-10-23 19:21 UTC and 2026-10-23 20:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-23T19-21-50-264036Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-23T20-19-52-582693Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-23 18:21:52 | [io.github.alanwang100/jizhineng-mcp](https://github.com/alanwang100/jizhineng-mcp) | JiZhiMCP | 1.0.0 | Host any HTTP API as a standard MCP server; auto-distribute to 12+ mainstream a… |
-| 2026-10-23 18:26:24 | [io.github.melhzy/pubmed-stream](https://github.com/melhzy/pubmed-stream) | pubmed-stream | 0.4.4 | Search PubMed and PMC, read full texts, map evidence and build Obsidian knowled… |
-| 2026-10-23 18:35:14 | [com.synorb/mcp](https://github.com/Synorb/synorb-mcp) | Synorb | 1.0.0 | Cited context for AI agents: company news, SEC filings, central bank publicatio… |
-| 2026-10-23 18:35:45 | [io.github.nietonchique/mc3000-mcp](https://github.com/nietonchique/mc3000-mcp) | MC3000 Charger | 0.2.1 | Safe MCP server for SKYRC MC3000-compatible battery chargers over Bluetooth Low… |
-| 2026-10-23 18:36:01 | io.github.ygfalcon/coinlight | Coinlight | 0.2.0 | 27 pay-per-call x402 tools: Solana/Base balances, txs, fees, token prices, unit… |
-| 2026-10-23 18:44:30 | io.github.PlusDocs/spark | Spark | 1.0.0 | Build, change, check and publish your Spark sites and apps from your AI assista… |
-| 2026-10-23 18:50:32 | [io.github.skhan61/email-tool](https://github.com/skhan61/email-tool) | email-tool | 5.4.2 | IMAP/SMTP email for AI assistants: read, search, draft and send, with CMMC-grad… |
-| 2026-10-23 18:50:53 | com.chatmaxima/chatmaxima | ChatMaxima | 1.0.0 | Build and test ChatMaxima chatbots, WhatsApp templates and Flows, and triage yo… |
-| 2026-10-23 18:51:38 | com.vidkraken/vidkraken | Vid Kraken | 1.0.0 | Download YouTube videos and clips as MP4 or MP3/AAC, and look up video metadata. |
-| 2026-10-23 18:54:34 | com.govapiatlas/govapi-atlas | GovAPI Atlas | 1.0.0 | Search 77k public-sector open data APIs across 10 countries. Read-only, no API… |
-| 2026-10-23 18:57:45 | com.meadleybrothers/lists | Meadley Bros. property-picked mailing l… | 1.0.0 | Count and buy mailing lists of homes that fit a home-service trade, by measured… |
-| 2026-10-23 18:58:10 | [io.github.projectworks007/shopify-store-audits](https://github.com/projectworks007/apify-data-mcp) | Shopify Store Audits | 1.0.0 | Audit Shopify stores: AI readiness, EU customs SKU/GTIN coverage, ScriptTags en… |
-| 2026-10-23 18:58:57 | [io.github.blackscaletech/swarm](https://github.com/blackscaletech/swarm-mcp) | Swarm | 0.1.0 | Connect AI agents to shared Spaces for context, sourced work, tasks, and runs. |
-| 2026-10-23 18:59:14 | in.hopehire/mcp | HopeHire | 1.0.0 | Tailor resumes, score ATS fit, find hiring leads, and send cold outreach, from… |
-| 2026-10-23 19:00:24 | io.github.jannegpriv/vaderkollen | VäderKollen — Nordic Weather | 0.11.4 | Nordic weather: forecasts, warnings, HD radar, rain nowcast, lightning, aurora,… |
-| 2026-10-23 19:00:50 | com.kalemap/menu | KaleMap dietary menu finder | 1.1.0 | Find restaurants and sourced dietary dish evidence. Free discovery; metered men… |
-| 2026-10-23 19:01:44 | de.adventskalender-kompass/adventskalender | Adventskalender-Kompass | 1.0.0 | Finde den passenden Adventskalender nach Zielgruppe, Interessen, Alter, Marke u… |
-| 2026-10-23 19:03:55 | [io.github.linq2db/linq2db.cli](https://github.com/linq2db/linq2db) | LINQ to DB | 6.5.1 | Inspect database schemas and execute SQL queries across multiple database provi… |
-| 2026-10-23 19:09:43 | [io.github.triplexanalytics/triplex-mcp](https://github.com/triplexanalytics/triplex) | Triplex schema contracts | 0.48.1 | Infer and validate schema contracts on local CSV, TSV and JSON Lines files. No… |
-| 2026-10-23 19:13:39 | [io.github.groove79/mcp-ofd](https://github.com/groove79/kmcp) | OFD Reader (China e-invoices) | 0.1.0 | Read Chinese OFD documents: e-invoice (fapiao) fields, official documents, stat… |
-| 2026-10-23 19:14:15 | [io.github.groove79/mcp-landed-cost](https://github.com/groove79/kmcp) | Cross-border Landed Cost | 0.1.0 | Import duty + VAT/GST for parcels into US, UK, EU, JP, KR, CN, AU, CA, SG with… |
-| 2026-10-23 19:14:28 | dev.workers.qj2g5f8kyx.agent-commons/agent-commons | Agent Commons | 1.0.0 | Read public agent discussions and discover peers. Self-register and post throug… |
-| 2026-10-23 19:14:47 | [io.github.groove79/mcp-world-calendar](https://github.com/groove79/kmcp) | World Business Calendar | 0.1.0 | Public holidays and working-day math for 200+ countries and regions, local week… |
-| 2026-10-23 19:15:18 | app.milanaura/authority-check | MilanAura Authority Check | 1.0.0 | Free Authority Check of a professional profile: strengths, biggest gap, first a… |
-| 2026-10-23 19:15:25 | io.github.kai-morgan-dev/plover-swap | Plover Solana swap quotes | 1.1.0 | Keyless Solana swap quotes (Jupiter) and token facts, with a link the human sig… |
+| 2026-10-23 19:23:06 | [io.github.Jucamhc/mcp-workatastartup](https://github.com/Jucamhc/mcp-workatastartup) | Work at a Startup | 0.1.0 | Busca ofertas y postula en Work at a Startup, la bolsa de empleo de Y Combinato… |
+| 2026-10-23 19:24:28 | [io.github.Jucamhc/mcp-elempleo](https://github.com/Jucamhc/mcp-elempleo) | elempleo | 0.1.0 | Busca ofertas, postula y mantiene tu hoja de vida en elempleo.com (Colombia). |
+| 2026-10-23 19:24:29 | [io.github.Jucamhc/mcp-magneto](https://github.com/Jucamhc/mcp-magneto) | Magneto | 0.1.0 | Busca ofertas, postula y mantiene tu hoja de vida en Magneto (magneto365.com, C… |
+| 2026-10-23 19:24:38 | com.shadowteck/shadowteck | ShadowTeck | 1.0.0 | Generate AI video, images and audio, and browse your history, from any MCP clie… |
+| 2026-10-23 19:25:49 | io.github.ygfalcon/falcon-docs | Falcon Docs: PDF extraction + bank stat… | 1.0.0 | No-template PDF to JSON: invoices, receipts, W-9s, bank statements w/ NSF + MCA… |
+| 2026-10-23 19:26:15 | io.github.ygfalcon/falcon-structures | Falcon Structures | 1.0.0 | Price crypto structured notes (autocallables, shark fins, range accruals) via M… |
+| 2026-10-23 19:27:27 | fi.meom/public | MEOM | 0.1.0 | Read-only public info from MEOM, a Finnish B2B website agency: services, refere… |
+| 2026-10-23 19:27:47 | com.dreamz-studios/dreamz | Dreamz Studios | 1.18.4 | A film studio inside your own Claude: films, pictures, voices and music on your… |
+| 2026-10-23 19:30:26 | com.drmaker3d/shop | DrMaker3D: custom 3D printing, figures,… | 1.0.0 | 3D printing studio in Connecticut: instant prices and checkout links for model… |
+| 2026-10-23 19:32:21 | cz.bidoro/bidoro | Bidoro | 1.1.0 | Czech property marketplace: AI agents of sellers and brokers draft, publish and… |
+| 2026-10-23 19:34:24 | [io.github.adelinamart/robrain](https://github.com/adelinamart/robrain) |  | 2.4.10 | Self-hosted decision memory for AI coding agents; warns before re-proposing a r… |
+| 2026-10-23 19:35:58 | sh.agentbeacon/agentbeacon | AgentBeacon | 6.1.0 | Search and message beacons: live notes from businesses and employers, in Austin… |
+| 2026-10-23 19:39:02 | dev.pages.wayreceipt/wayreceipt | Wayreceipt | 0.1.0 | Proof of delivery for agent work: verify countersigned receipts and deliverable… |
+| 2026-10-23 19:44:22 | co.youraitools/perpcheck | PerpCheck | 0.1.0 | Hyperliquid pre-trade order check: will it be rejected, fix values, liquidation… |
+| 2026-10-23 19:46:02 | io.github.Bustlll/agent-data-api | Agent Data API | 1.0.0 | Pay-per-call web search, page reader, enrichment, email check, token safety, 50… |
+| 2026-10-23 19:50:26 | ru.pravida/mcp | Pravida — Russian law | 1.0.0 | Russian law for AI: statutes with edition dates, Supreme Court guidance and cou… |
+| 2026-10-23 19:52:15 | io.github.ygfalcon/falcon-comps |  | 1.0.0 | SEC EDGAR standardized financials, TTM and trading comps via x402 (free preview… |
+| 2026-10-23 19:53:17 | com.orbitfour/domains | OrbitFour | 1.6.0 | Check domain availability and live registry pricing, or search for available na… |
+| 2026-10-23 19:58:06 | ai.semata/semata | Semata | 1.0.0 | Screen CVs, manage roles and candidates, and source talent in Semata's AI hirin… |
+| 2026-10-23 19:58:54 | com.pagecuts/pagecuts | Pagecuts | 1.0.0 | Make a 15-second video ad, still images and ad copy from any web page. US$19 on… |
+| 2026-10-23 19:59:36 | io.scripe/mcp | Scripe | 2.0.0 | Plan, write, schedule and measure your team's LinkedIn posts in Scripe from you… |
+| 2026-10-23 19:59:52 | [io.github.chuang44-tiff/optivibe-mcp](https://github.com/chuang44-tiff/optivibe-mcp) | OptiVibe | 0.2.0 | Lens design automation for Zemax OpticStudio through the typed ZOS-API |
+| 2026-10-23 20:00:41 | [dev.wraps/email](https://github.com/wraps-team/wraps-js) |  | 0.9.0 | Send email through your own Amazon SES account, and check domains, suppressions… |
+| 2026-10-23 20:00:48 | [io.github.anipotts/imessage-mcp](https://github.com/anipotts/imessage-mcp) | iMessage History | 3.3.1 | Read-only MCP server for searching and reading Apple Messages history on macOS. |
+| 2026-10-23 20:09:24 | [io.github.GeminiGeorge22/sports-odds-api](https://github.com/GeminiGeorge22/sports-odds-mcp) | Sports Odds API (Kambi sportsbooks) | 1.0.0 | Live odds from 24 Kambi-powered sportsbooks in one call, with the best price pe… |
+| 2026-10-23 20:13:57 | [io.github.ruby-native/ruby-native](https://github.com/ruby-native/gem) |  | 0.18.0 | Ship a Rails app to the App Store and Google Play. Every ruby_native command as… |
+| 2026-10-23 20:17:05 | [io.github.danoszz/penthera](https://github.com/danoszz/penthera) | Penthera | 1.9.0 | Offline, rule-based security checks for your repo, dependencies, AI agent confi… |
 
 ## Data source
 
