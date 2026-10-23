@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-10-23T22:25:24.858626Z,com.agentscouthq/directory,AgentScout,1.0.0,,streamable-http,"Read-only search over 1,706 AI agent tools and 239 MCP servers. No sign-up needed."
+2026-10-23T22:39:45.873552Z,tools.csvfile/csv-file-tools,CSV File Tools,1.0.0,,streamable-http,"Inspect, filter, sort and edit CSV text with four free tools. No account or API key required."
+2026-10-23T22:40:19.182577Z,io.github.hashicorp/terraform-mcp-server,Terraform,1.4.1,https://github.com/hashicorp/terraform-mcp-server,,Generate more accurate Terraform and automate workflows for HCP Terraform and Terraform Enterprise
+2026-10-23T22:41:40.668671Z,app.openkrill/hiring-signals,Hiring Signals,1.0.0,https://github.com/nguyenhieuec/agent-tools-plugins,streamable-http,Who is hiring and what changed: company hiring briefs and new or closed roles since your last call.
+2026-10-23T22:48:22.299039Z,com.cleanslop/cleanslop,CleanSlop,2026.10.23,,streamable-http,"Your coding agent scans your pushed code, reads what's worth fixing, fixes it, and rescans."
+2026-10-23T22:48:41.580195Z,dev.rackrates/ledger,Rack Rates,0.1.0,,streamable-http,"Published list prices of compute (VPS, GPU hours, LLM tokens, media), archived daily. Read-only."
+2026-10-23T22:51:15.979205Z,info.henryknows/henryknows,HenryKnows,2.2.0,,streamable-http,F-1 and J-1 student immigration answers with citations to regulations and agency guidance.
+2026-10-23T22:51:22.180419Z,io.github.j4ckxyz/recall,Recall,0.1.0,https://github.com/j4ckxyz/recall,,"Private, encrypted memory about you, shared by all your AI agents. Self-hosted; runs on a Pi."
+2026-10-23T22:56:26.697523Z,io.github.tmeteor-data/open-data-actors,,1.0.0,https://github.com/tmeteor-data/open-data-actors,streamable-http,"64 public Apify Actors for public-record, jobs, lead, SEO and social data, as MCP tools."
+2026-10-23T22:57:10.72063Z,io.github.Surface-ops/server-track-lab,,0.1.0,https://github.com/Surface-ops/server-track-lab-mcp,,"Send server-side conversions to Meta CAPI (live); Google validate-only, LinkedIn dry-run."
+2026-10-23T22:58:29.485003Z,com.optilibra/catalog,OptiLibra Optical Networking,1.0.0,,streamable-http,"Search 400G/800G DCI, DWDM and optical switching gear for AI data centers and request quotes."
+2026-10-23T23:02:56.008644Z,io.github.backenly/backenly,Backenly,0.4.0,https://github.com/backenly/backenly,streamable-http,Postgres backend your coding agent builds over MCP; destructive actions wait for a person.
+2026-10-23T23:05:46.341319Z,ai.relayto/relay,Relay,0.1.0,,streamable-http,"Relay context from your agent to someone else's agent, with the purpose and the rules attached."
+2026-10-23T23:07:15.573176Z,io.github.firatmio/aletheia,Aletheia,0.1.1,https://github.com/firatmio/aletheia,,"Project memory for coding agents whose memories carry code evidence, re-checked on every recall."
+2026-10-23T23:11:08.143295Z,io.github.anipottsbuilds/imessage-mcp,iMessage History,3.3.2,https://github.com/anipottsbuilds/imessage-mcp,,Read-only MCP server for searching and reading Apple Messages history on macOS.
+2026-10-23T23:11:13.24347Z,com.mnemopay/gridstamp,,1.4.0,https://github.com/mnemopay/gridstamp,,"Cryptographic spatial proof-of-presence for AV fleets, logistics, AR. 91% spoof detection."
+2026-10-23T23:12:10.921282Z,ar.com.creatucurso/mcp,Crea tu curso,1.0.0,,streamable-http,Gestioná tus cursos y subí material en lote desde tu agente.
+2026-10-23T23:13:25.832394Z,com.conferencefindr/events,ConferenceFindr,1.0.0,,streamable-http,"Search upcoming business conferences and trade shows by keyword, industry, place, radius and date."
+2026-10-23T23:13:48.212648Z,ai.dripmetrics/mcp,DripMetrics,1.0.1,,streamable-http,Crypto market microstructure and on-chain metrics. $0.05/call via x402: Base USDC or Robinhood USDG.
+2026-10-23T23:17:28.590095Z,io.github.utilify-io/utilify-mcp,Utilify,0.1.0,https://github.com/utilify-io/utilify-mcp,streamable-http,"AI agents compare and sign up for Texas utility plans: electricity, internet, gas, water, trash."
