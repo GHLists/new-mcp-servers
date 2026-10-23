@@ -1,0 +1,37 @@
+created_at,server,title,version,repository,transports,description
+2026-10-23T16:19:59.179146Z,com.tryfridaywork/friday-work,,0.1.73,,streamable-http,"Read your Friday profile and sessions, and post into a session as you. Scoped OAuth."
+2026-10-23T16:20:37.868348Z,io.github.ciloops/vuln-check,,0.1.3,https://github.com/ciloops/vuln-check,,"Local vulnerability scan on top of grype, with prioritised upgrade actions for agents."
+2026-10-23T16:20:51.812926Z,com.quantum-expectations/quantum-expectations,Quantum Expectations,0.8.0,,streamable-http,"Quantum error-correction feasibility: success probability, qubit overhead, records, trends."
+2026-10-23T16:23:14.134603Z,ai.fluxmail/cloud,Fluxmail Cloud,0.1.0,,streamable-http,"Hosted MCP server for your Gmail, Outlook and IMAP mail, with mailboxes and scopes set per agent."
+2026-10-23T16:23:43.006131Z,io.github.dcd887/mc-translator,,0.1.1,https://github.com/dcd887/mc-translator-mcp,,Minecraft 模组语言文件翻译：扫描 jar、生成资源包
+2026-10-23T16:24:00.89115Z,io.github.dcd887/game-translator,,0.2.1,https://github.com/dcd887/game-translator-mcp,,游戏文本本地化 MCP：多格式解析、批量翻译、回写
+2026-10-23T16:28:00.848389Z,io.github.OwenScheuer/paceva,Paceva,1.0.0,https://github.com/OwenScheuer/paceva-MCP,streamable-http,"Your swim, bike and run training: readiness, HRV, sleep, workouts and race predictions. Read-only."
+2026-10-23T16:28:25.65442Z,com.anteproof/anteproof,Anteproof,0.1.2,,streamable-http,Commit-pace and release probabilities for open-source repositories. Docs: anteproof.com/docs
+2026-10-23T16:30:34.96543Z,jp.yomitasu/codenate-jp,CodeNate-こうでねーと-,1.0.1,,streamable-http,CodeNate(こうでねーと)は、プロのコーディネーターがデザイン料0円でお部屋のインテリアを提案するサービスです。（codenate.jp の内容を検索して答える。ヨミタス経由）
+2026-10-23T16:31:30.102738Z,io.github.zzn199216/worldrole,WorldRole,1.0.0,https://github.com/zzn199216/worldrole-mcp,streamable-http,Free remote and overseas job search with sources and eligibility checks. Usage limits apply.
+2026-10-23T16:32:16.563105Z,com.bottleyourbrand/print-shop,Print Shop by Bottle Your Brand,1.0.0,,streamable-http,"Turn your AI images into die-cut vinyl stickers. Print specs, sizing, and a ready-to-order link."
+2026-10-23T16:38:11.230914Z,com.bot403/bot403,Bot403,1.2.0,,streamable-http,Invisible bot shield for HTML forms: the browser solves a proof of work and your server checks it.
+2026-10-23T16:38:13.944831Z,io.github.Daisuke134/ai-monk-index,AI Monk Index,0.4.4,https://github.com/Daisuke134/anicca-products,streamable-http,"Research monk avatars, products and video playbooks with sources and labelled uncertainty."
+2026-10-23T16:40:12.540914Z,live.alltime.www/alltime,All Time,1.0.0,,streamable-http,"Your All Time calendars and events: the schools, teams and leagues you follow. Read-only."
+2026-10-23T16:41:02.673478Z,io.github.vishnumuthyalu/relay,Relay,1.0.1,https://github.com/vishnumuthyalu/relay-extension,streamable-http,Turn GitHub pushes into plain-English client update emails. Map repos to clients and review digests.
+2026-10-23T16:42:39.14348Z,xyz.mynahcast/mynahcast,Mynahcast,1.0.0,,streamable-http,"Agent-first social scheduler: drafts in your brand voice via MCP, human approval, verified posts."
+2026-10-23T16:46:23.564971Z,com.brainygym/brainygym,BrainyGym,1.0.0,,streamable-http,Save the courses you make with AI and review them with spaced repetition and a daily session.
+2026-10-23T16:46:35.622509Z,com.tokenrip/tokenrip,Tokenrip,1.1.0,https://github.com/tokenrip/cli,streamable-http,"Shared workspace where Claude, ChatGPT, Codex and Grok share files, tasks, decisions and handoffs."
+2026-10-23T16:47:23.182544Z,io.github.HMAKT99/clawtank,ClawTank,0.9.0,https://github.com/HMAKT99/ClawTank,,"Let agents see and drive a Mac: screenshots, clicks, typing, apps and virtual displays."
+2026-10-23T16:47:40.242765Z,com.postgale/mcp,Postgale,1.0.0,,streamable-http,"Lets AI agents post and reply on Instagram, TikTok, Threads and more, with a human approval queue."
+2026-10-23T16:52:04.968298Z,io.github.MLP-VectorClub/vectorclub,MLP Vector Club,0.1.0,https://github.com/MLP-VectorClub/Luna,streamable-http,"Search and edit the MLP Vector Club color guide: appearances, tags, shows and reservations."
+2026-10-23T16:55:24.903589Z,com.seasonaledge/mcp,SeasonalEdge,2.0.0,,streamable-http,"Find the calendar days, weeks and events that beat simply holding a US stock or ETF, year by year."
+2026-10-23T16:57:32.224427Z,ai.torchrunner/runnerid,runnerID,0.1.0,,streamable-http,"Logs a browser agent in, catches the code, asks the owner before risk. It never sees a password."
+2026-10-23T16:58:47.597413Z,io.github.herascrape/herascrape-mcp,herascrape,0.1.0,https://github.com/herascrape/herascrape-mcp,streamable-http,"Instagram data over MCP: profiles, posts, reels, stories, highlights and search as JSON"
+2026-10-23T17:02:44.267643Z,com.aicreatorlibrary/library,AI Creator Library,1.0.0,,streamable-http,"Video editing skills, motion design prompts and studio concepts for creators who edit with Claude."
+2026-10-23T17:04:15.018221Z,com.secureauth/agent-authority,SecureAuth Agent Authority,1.0.0,,streamable-http,"Identity-first enterprise MCP gateway: per-call authorization, agent identity and audit trail"
+2026-10-23T17:09:00.113329Z,ai.swarmnest/mcp,Swarmnest,1.0.0,https://github.com/swarmnest/swarmnest-mcp,streamable-http,"Search AI agent tools, APIs, MCP servers and Agent Skills in the Swarmnest directory."
+2026-10-23T17:10:14.051396Z,io.github.divenire990/omp-worker-mcp,omp-worker-mcp,0.2.0,https://github.com/divenire990/omp-worker-mcp,,"Hand off coding tasks from ChatGPT, Codex or Claude Code to local Oh My Pi (OMP) workers."
+2026-10-23T17:12:35.2981Z,com.kiltwork/kilt,Kilt,1.0.0,,streamable-http,"Collects the open points of your AI conversations on a color board, so no idea or decision is lost."
+2026-10-23T17:12:41.270682Z,io.github.ygfalcon/solana-wallet-intel,Solana Wallet Intel (x402),1.0.0,,streamable-http,"Solana wallet PnL, holdings, win rate and trending tokens w/ rug flags. Pay-per-call x402 USDC."
+2026-10-23T17:12:51.186549Z,games.asobiai/asobiai,Asobiai,1.0.0,,streamable-http,"Publish AI-made browser games and get a shareable URL. Update, test and read player feedback."
+2026-10-23T17:13:21.9491Z,com.marketnewsapi/market-news,MarketNewsAPI,1.0.0,,streamable-http,"Real-time US stock news, press releases, and legal notices. Pro or trial key required."
+2026-10-23T17:15:00.709787Z,com.bujusjujus/alerts,bujusjujus Pokemon TCG Restock Alerts,1.0.0,,streamable-http,"Real-time Pokemon TCG restock alerts, MSRP lookups and restock timing for shops, apps and AI agents."
+2026-10-23T17:18:29.489113Z,com.aisandboxenvironments/site,,1.0.1,,streamable-http,"AI Sandbox Environments: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-10-23T17:18:47.678942Z,io.github.CyberStrategy1/agency-check,Agency Check,1.4.0,https://github.com/CyberStrategy1/agency-check-mcp,streamable-http,"A second look before your AI agent buys, sends, books, shares, signs up, or connects an app."
+2026-10-23T17:19:19.848906Z,uk.co.growthsharesvaluation/site,,1.0.1,,streamable-http,"Growth Shares Valuation: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."

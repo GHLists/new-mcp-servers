@@ -9,43 +9,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 16:19 UTC
+## Latest list — 2026-10-23 17:19 UTC
 
-New MCP servers published between 2026-10-23 15:20 UTC and 2026-10-23 16:19 UTC.
+New MCP servers published between 2026-10-23 16:19 UTC and 2026-10-23 17:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-23T16-19-38-083192Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-23T17-19-48-925499Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-23 15:25:18 | com.karatry/karatry | Karatry | 1.0.0 | Look up records in a Karatry jewelry ERP workspace and file proposals for an ad… |
-| 2026-10-23 15:25:26 | com.mycelhq/mycel | Mycel | 1.0.0 | Run your service firm from your AI: client work to review, clients, deliverable… |
-| 2026-10-23 15:25:51 | [com.scenivia/scenivia](https://github.com/Scenivia/claude-plugin) | Scenivia | 1.4.0 | Turn a product brief into an editable motion-design launch video, edit it and e… |
-| 2026-10-23 15:26:11 | [io.github.DynamicsNinja/garmin-connect-personal-api](https://github.com/DynamicsNinja/connect-personal-api-js) | Garmin Connect Personal API | 1.0.0 | Read your Garmin sleep, HRV, steps, stress, Body Battery, and activities (unoff… |
-| 2026-10-23 15:26:43 | io.github.peteabu/jules | Jules | 0.2.2 | Create, list, update and cancel phone call reminders that ring your phone, via… |
-| 2026-10-23 15:27:34 | io.github.Ockram4444/agentcompute | AgentCompute | 0.8.0 | Free experimental GPU tools: text generation, images and audio transcription. S… |
-| 2026-10-23 15:36:59 | io.codeb/signing | CodeB signing | 1.0.0 | Prepare PDF signing requests with signature fields and signers; people sign in… |
-| 2026-10-23 15:46:34 | [com.discordservers/search](https://github.com/DiscordServers/monorepo) | DiscordServers | 1.2.3 | Search Discord server listings, and manage your own servers once you sign in. |
-| 2026-10-23 15:47:31 | [io.usefulapi/bexio](https://github.com/m190/usefulapi-mcp) | bexio MCP by usefulapi | 1.0.1 | Read bexio contacts, invoices, quotes, bills, projects and journal; log time, d… |
-| 2026-10-23 15:47:39 | [com.adscove/adscove](https://github.com/Nikoismaster/adscove-mcp) | AdsCove | 1.0.0 | Remote MCP for Shopify, Meta Ads, Google Ads and TikTok Ads with human approval… |
-| 2026-10-23 15:47:39 | [io.github.dcd887/mc-changelog](https://github.com/dcd887/mc-changelog-mcp) |  | 1.0.0 | 查 Minecraft 模组更新日志与版本差异，按版本范围检索 |
-| 2026-10-23 15:47:39 | [io.usefulapi/teamleader-focus](https://github.com/m190/usefulapi-mcp) | Teamleader Focus MCP by usefulapi | 1.0.0 | Read Teamleader Focus contacts, companies, deals, invoices, projects; create de… |
-| 2026-10-23 15:47:47 | [io.usefulapi/clio](https://github.com/m190/usefulapi-mcp) | Clio MCP by usefulapi | 1.0.0 | Read Clio matters, contacts, time, tasks, calendar and bills; add matters, time… |
-| 2026-10-23 15:47:50 | com.adrecast/adrecast | AdRecast | 1.0.0 | Remake proven e-commerce video ads for your product: templates, scripts, genera… |
-| 2026-10-23 15:48:31 | xyz.aaasagent/mcp | AaaSagent Templates | 0.1.0 | AaaSagent: browse agent templates (BYOK) and join the invite-only beta. |
-| 2026-10-23 15:48:52 | [io.github.dcd887/mc-mod-config](https://github.com/dcd887/mc-mod-config-mcp) |  | 1.0.0 | 读写 Minecraft 模组配置文件（TOML/JSON），带 schema 校验 |
-| 2026-10-23 15:48:54 | [io.github.dcd887/mc-pack-builder](https://github.com/dcd887/mc-pack-builder-mcp) |  | 1.1.0 | 构建 Minecraft 整合包：依赖解析、冲突检测、导出清单 |
-| 2026-10-23 15:48:56 | [io.github.dcd887/mc-rp-assistant](https://github.com/dcd887/mc-rp-assistant-mcp) |  | 1.0.0 | Minecraft 资源包助手：贴图清单、模型校验、语言文件检查 |
-| 2026-10-23 15:49:00 | [io.github.dcd887/mc-modpack](https://github.com/dcd887/mc-modpack-mcp) |  | 1.3.0 | 整合包元数据管理与发布检查（mods、版本、加载器） |
-| 2026-10-23 15:50:30 | [io.github.brand-lc/findaiforwork](https://github.com/brand-lc/findaiforwork) | FindAIforWork | 1.0.0 | Curated directory of AI software: search tools, read listings, compare tools. |
-| 2026-10-23 15:58:52 | [com.lintelly/hr-deutschland](https://github.com/NicksAdvisory/lintelly-hr-deutschland) | Lintelly HR Deutschland | 0.2.0 | German employment law for small companies: notice periods, costs, sick pay, con… |
-| 2026-10-23 16:00:50 | com.paycheckhours/calculators | PaycheckHours calculators | 1.0.0 | US time card hours, decimal hours, overtime pay and tip pool split. Free, no si… |
-| 2026-10-23 16:01:07 | [io.github.OmniGoAI/omnipost](https://github.com/OmniGoAI/omnipost-skill) | OmniPost | 0.1.1 | Publish articles, image posts and videos to 40+ platforms via the local OmniPos… |
-| 2026-10-23 16:06:44 | com.sunsetdiff/sunsetdiff | SunsetDiff | 1.0.0 | AI model shutdown dates, replacements, and migration diffs. Free, no API key. |
-| 2026-10-23 16:12:15 | dev.workers.orbit-builder.token-risk/token-risk | orbit Token Risk | 1.0.0 | Rug/honeypot risk flags for Base + Solana tokens. Free preview tool; full repor… |
-| 2026-10-23 16:13:32 | io.github.thisismerlin/yourno2-fpl | Your No.2: FPL Assistant Manager | 1.0.0 | Fantasy Premier League (FPL) assistant: one clear call on captain, transfers an… |
-| 2026-10-23 16:16:37 | [io.github.nyan-parlor/nyan-parlor-mcp](https://github.com/nyan-parlor/nyan-parlor-mcp) | Nyan Parlor: Tarot, I Ching & BaZi | 0.2.0 | Real random tarot draws, card meanings, I Ching casting, BaZi charts and Chines… |
-| 2026-10-23 16:18:41 | [io.github.psyb0t/dikciz-launcher](https://github.com/psyb0t/dikciz-launcher) | Dikciz Launcher | 0.0.0 | Android launcher with an embedded MCP server for owner-controlled device automa… |
-| 2026-10-23 16:18:54 | [com.prismposter/creator-tools](https://github.com/PrismPoster/creator-tools) | PrismPoster Creator Tools | 0.3.0 | Social media frame sizes with sourced safe areas, plus aspect-ratio, bitrate an… |
+| 2026-10-23 16:19:59 | com.tryfridaywork/friday-work |  | 0.1.73 | Read your Friday profile and sessions, and post into a session as you. Scoped O… |
+| 2026-10-23 16:20:37 | [io.github.ciloops/vuln-check](https://github.com/ciloops/vuln-check) |  | 0.1.3 | Local vulnerability scan on top of grype, with prioritised upgrade actions for… |
+| 2026-10-23 16:20:51 | com.quantum-expectations/quantum-expectations | Quantum Expectations | 0.8.0 | Quantum error-correction feasibility: success probability, qubit overhead, reco… |
+| 2026-10-23 16:23:14 | ai.fluxmail/cloud | Fluxmail Cloud | 0.1.0 | Hosted MCP server for your Gmail, Outlook and IMAP mail, with mailboxes and sco… |
+| 2026-10-23 16:23:43 | [io.github.dcd887/mc-translator](https://github.com/dcd887/mc-translator-mcp) |  | 0.1.1 | Minecraft 模组语言文件翻译：扫描 jar、生成资源包 |
+| 2026-10-23 16:24:00 | [io.github.dcd887/game-translator](https://github.com/dcd887/game-translator-mcp) |  | 0.2.1 | 游戏文本本地化 MCP：多格式解析、批量翻译、回写 |
+| 2026-10-23 16:28:00 | [io.github.OwenScheuer/paceva](https://github.com/OwenScheuer/paceva-MCP) | Paceva | 1.0.0 | Your swim, bike and run training: readiness, HRV, sleep, workouts and race pred… |
+| 2026-10-23 16:28:25 | com.anteproof/anteproof | Anteproof | 0.1.2 | Commit-pace and release probabilities for open-source repositories. Docs: antep… |
+| 2026-10-23 16:30:34 | jp.yomitasu/codenate-jp | CodeNate-こうでねーと- | 1.0.1 | CodeNate(こうでねーと)は、プロのコーディネーターがデザイン料0円でお部屋のインテリアを提案するサービスです。（codenate.jp の内容を検索し… |
+| 2026-10-23 16:31:30 | [io.github.zzn199216/worldrole](https://github.com/zzn199216/worldrole-mcp) | WorldRole | 1.0.0 | Free remote and overseas job search with sources and eligibility checks. Usage… |
+| 2026-10-23 16:32:16 | com.bottleyourbrand/print-shop | Print Shop by Bottle Your Brand | 1.0.0 | Turn your AI images into die-cut vinyl stickers. Print specs, sizing, and a rea… |
+| 2026-10-23 16:38:11 | com.bot403/bot403 | Bot403 | 1.2.0 | Invisible bot shield for HTML forms: the browser solves a proof of work and you… |
+| 2026-10-23 16:38:13 | [io.github.Daisuke134/ai-monk-index](https://github.com/Daisuke134/anicca-products) | AI Monk Index | 0.4.4 | Research monk avatars, products and video playbooks with sources and labelled u… |
+| 2026-10-23 16:40:12 | live.alltime.www/alltime | All Time | 1.0.0 | Your All Time calendars and events: the schools, teams and leagues you follow.… |
+| 2026-10-23 16:41:02 | [io.github.vishnumuthyalu/relay](https://github.com/vishnumuthyalu/relay-extension) | Relay | 1.0.1 | Turn GitHub pushes into plain-English client update emails. Map repos to client… |
+| 2026-10-23 16:42:39 | xyz.mynahcast/mynahcast | Mynahcast | 1.0.0 | Agent-first social scheduler: drafts in your brand voice via MCP, human approva… |
+| 2026-10-23 16:46:23 | com.brainygym/brainygym | BrainyGym | 1.0.0 | Save the courses you make with AI and review them with spaced repetition and a… |
+| 2026-10-23 16:46:35 | [com.tokenrip/tokenrip](https://github.com/tokenrip/cli) | Tokenrip | 1.1.0 | Shared workspace where Claude, ChatGPT, Codex and Grok share files, tasks, deci… |
+| 2026-10-23 16:47:23 | [io.github.HMAKT99/clawtank](https://github.com/HMAKT99/ClawTank) | ClawTank | 0.9.0 | Let agents see and drive a Mac: screenshots, clicks, typing, apps and virtual d… |
+| 2026-10-23 16:47:40 | com.postgale/mcp | Postgale | 1.0.0 | Lets AI agents post and reply on Instagram, TikTok, Threads and more, with a hu… |
+| 2026-10-23 16:52:04 | [io.github.MLP-VectorClub/vectorclub](https://github.com/MLP-VectorClub/Luna) | MLP Vector Club | 0.1.0 | Search and edit the MLP Vector Club color guide: appearances, tags, shows and r… |
+| 2026-10-23 16:55:24 | com.seasonaledge/mcp | SeasonalEdge | 2.0.0 | Find the calendar days, weeks and events that beat simply holding a US stock or… |
+| 2026-10-23 16:57:32 | ai.torchrunner/runnerid | runnerID | 0.1.0 | Logs a browser agent in, catches the code, asks the owner before risk. It never… |
+| 2026-10-23 16:58:47 | [io.github.herascrape/herascrape-mcp](https://github.com/herascrape/herascrape-mcp) | herascrape | 0.1.0 | Instagram data over MCP: profiles, posts, reels, stories, highlights and search… |
+| 2026-10-23 17:02:44 | com.aicreatorlibrary/library | AI Creator Library | 1.0.0 | Video editing skills, motion design prompts and studio concepts for creators wh… |
+| 2026-10-23 17:04:15 | com.secureauth/agent-authority | SecureAuth Agent Authority | 1.0.0 | Identity-first enterprise MCP gateway: per-call authorization, agent identity a… |
+| 2026-10-23 17:09:00 | [ai.swarmnest/mcp](https://github.com/swarmnest/swarmnest-mcp) | Swarmnest | 1.0.0 | Search AI agent tools, APIs, MCP servers and Agent Skills in the Swarmnest dire… |
+| 2026-10-23 17:10:14 | [io.github.divenire990/omp-worker-mcp](https://github.com/divenire990/omp-worker-mcp) | omp-worker-mcp | 0.2.0 | Hand off coding tasks from ChatGPT, Codex or Claude Code to local Oh My Pi (OMP… |
+| 2026-10-23 17:12:35 | com.kiltwork/kilt | Kilt | 1.0.0 | Collects the open points of your AI conversations on a color board, so no idea… |
+| 2026-10-23 17:12:41 | io.github.ygfalcon/solana-wallet-intel | Solana Wallet Intel (x402) | 1.0.0 | Solana wallet PnL, holdings, win rate and trending tokens w/ rug flags. Pay-per… |
+| 2026-10-23 17:12:51 | games.asobiai/asobiai | Asobiai | 1.0.0 | Publish AI-made browser games and get a shareable URL. Update, test and read pl… |
+| 2026-10-23 17:13:21 | com.marketnewsapi/market-news | MarketNewsAPI | 1.0.0 | Real-time US stock news, press releases, and legal notices. Pro or trial key re… |
+| 2026-10-23 17:15:00 | com.bujusjujus/alerts | bujusjujus Pokemon TCG Restock Alerts | 1.0.0 | Real-time Pokemon TCG restock alerts, MSRP lookups and restock timing for shops… |
+| 2026-10-23 17:18:29 | com.aisandboxenvironments/site |  | 1.0.1 | AI Sandbox Environments: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-10-23 17:18:47 | [io.github.CyberStrategy1/agency-check](https://github.com/CyberStrategy1/agency-check-mcp) | Agency Check | 1.4.0 | A second look before your AI agent buys, sends, books, shares, signs up, or con… |
+| 2026-10-23 17:19:19 | uk.co.growthsharesvaluation/site |  | 1.0.1 | Growth Shares Valuation: the site's own MCP server — enquiry (enquiry = a human… |
 
 ## Data source
 
