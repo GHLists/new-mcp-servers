@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-10-23T18:21:52.288918Z,io.github.alanwang100/jizhineng-mcp,JiZhiMCP,1.0.0,https://github.com/alanwang100/jizhineng-mcp,streamable-http,Host any HTTP API as a standard MCP server; auto-distribute to 12+ mainstream agent platforms.
+2026-10-23T18:26:24.750424Z,io.github.melhzy/pubmed-stream,pubmed-stream,0.4.4,https://github.com/melhzy/pubmed-stream,,"Search PubMed and PMC, read full texts, map evidence and build Obsidian knowledge graphs"
+2026-10-23T18:35:14.151393Z,com.synorb/mcp,Synorb,1.0.0,https://github.com/Synorb/synorb-mcp,streamable-http,"Cited context for AI agents: company news, SEC filings, central bank publications and research."
+2026-10-23T18:35:45.74346Z,io.github.nietonchique/mc3000-mcp,MC3000 Charger,0.2.1,https://github.com/nietonchique/mc3000-mcp,,Safe MCP server for SKYRC MC3000-compatible battery chargers over Bluetooth Low Energy.
+2026-10-23T18:36:01.954958Z,io.github.ygfalcon/coinlight,Coinlight,0.2.0,,streamable-http,"27 pay-per-call x402 tools: Solana/Base balances, txs, fees, token prices, unit conversion."
+2026-10-23T18:44:30.590672Z,io.github.PlusDocs/spark,Spark,1.0.0,,streamable-http,"Build, change, check and publish your Spark sites and apps from your AI assistant."
+2026-10-23T18:50:32.283706Z,io.github.skhan61/email-tool,email-tool,5.4.2,https://github.com/skhan61/email-tool,,"IMAP/SMTP email for AI assistants: read, search, draft and send, with CMMC-grade safeguards."
+2026-10-23T18:50:53.005997Z,com.chatmaxima/chatmaxima,ChatMaxima,1.0.0,,streamable-http,"Build and test ChatMaxima chatbots, WhatsApp templates and Flows, and triage your customer inbox."
+2026-10-23T18:51:38.654298Z,com.vidkraken/vidkraken,Vid Kraken,1.0.0,,streamable-http,"Download YouTube videos and clips as MP4 or MP3/AAC, and look up video metadata."
+2026-10-23T18:54:34.806096Z,com.govapiatlas/govapi-atlas,GovAPI Atlas,1.0.0,,streamable-http,"Search 77k public-sector open data APIs across 10 countries. Read-only, no API key."
+2026-10-23T18:57:45.310512Z,com.meadleybrothers/lists,Meadley Bros. property-picked mailing lists,1.0.0,,streamable-http,"Count and buy mailing lists of homes that fit a home-service trade, by measured property signals."
+2026-10-23T18:58:10.775593Z,io.github.projectworks007/shopify-store-audits,Shopify Store Audits,1.0.0,https://github.com/projectworks007/apify-data-mcp,streamable-http,"Audit Shopify stores: AI readiness, EU customs SKU/GTIN coverage, ScriptTags ending 1 Mar 2027."
+2026-10-23T18:58:57.043598Z,io.github.blackscaletech/swarm,Swarm,0.1.0,https://github.com/blackscaletech/swarm-mcp,streamable-http,"Connect AI agents to shared Spaces for context, sourced work, tasks, and runs."
+2026-10-23T18:59:14.546324Z,in.hopehire/mcp,HopeHire,1.0.0,,streamable-http,"Tailor resumes, score ATS fit, find hiring leads, and send cold outreach, from your agent."
+2026-10-23T19:00:24.794105Z,io.github.jannegpriv/vaderkollen,VäderKollen — Nordic Weather,0.11.4,,streamable-http,"Nordic weather: forecasts, warnings, HD radar, rain nowcast, lightning, aurora, satellite AI."
+2026-10-23T19:00:50.108116Z,com.kalemap/menu,KaleMap dietary menu finder,1.1.0,,streamable-http,Find restaurants and sourced dietary dish evidence. Free discovery; metered menus need an API key.
+2026-10-23T19:01:44.967542Z,de.adventskalender-kompass/adventskalender,Adventskalender-Kompass,1.0.0,,streamable-http,"Finde den passenden Adventskalender nach Zielgruppe, Interessen, Alter, Marke und Preisklasse."
+2026-10-23T19:03:55.72144Z,io.github.linq2db/linq2db.cli,LINQ to DB,6.5.1,https://github.com/linq2db/linq2db,,Inspect database schemas and execute SQL queries across multiple database providers with LINQ to DB.
+2026-10-23T19:09:43.423154Z,io.github.triplexanalytics/triplex-mcp,Triplex schema contracts,0.48.1,https://github.com/triplexanalytics/triplex,,"Infer and validate schema contracts on local CSV, TSV and JSON Lines files. No network access."
+2026-10-23T19:13:39.981756Z,io.github.groove79/mcp-ofd,OFD Reader (China e-invoices),0.1.0,https://github.com/groove79/kmcp,,"Read Chinese OFD documents: e-invoice (fapiao) fields, official documents, statements. No keys."
+2026-10-23T19:14:15.899496Z,io.github.groove79/mcp-landed-cost,Cross-border Landed Cost,0.1.0,https://github.com/groove79/kmcp,,"Import duty + VAT/GST for parcels into US, UK, EU, JP, KR, CN, AU, CA, SG with de minimis rules."
+2026-10-23T19:14:28.002036Z,dev.workers.qj2g5f8kyx.agent-commons/agent-commons,Agent Commons,1.0.0,,streamable-http,Read public agent discussions and discover peers. Self-register and post through the REST API.
+2026-10-23T19:14:47.288612Z,io.github.groove79/mcp-world-calendar,World Business Calendar,0.1.0,https://github.com/groove79/kmcp,,"Public holidays and working-day math for 200+ countries and regions, local weekends. No keys."
+2026-10-23T19:15:18.8932Z,app.milanaura/authority-check,MilanAura Authority Check,1.0.0,,streamable-http,"Free Authority Check of a professional profile: strengths, biggest gap, first action, a post."
+2026-10-23T19:15:25.605849Z,io.github.kai-morgan-dev/plover-swap,Plover Solana swap quotes,1.1.0,,streamable-http,"Keyless Solana swap quotes (Jupiter) and token facts, with a link the human signs. No keys."
