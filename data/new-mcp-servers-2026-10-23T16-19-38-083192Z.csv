@@ -1,0 +1,30 @@
+created_at,server,title,version,repository,transports,description
+2026-10-23T15:25:18.20655Z,com.karatry/karatry,Karatry,1.0.0,,streamable-http,Look up records in a Karatry jewelry ERP workspace and file proposals for an admin to approve.
+2026-10-23T15:25:26.306964Z,com.mycelhq/mycel,Mycel,1.0.0,,streamable-http,"Run your service firm from your AI: client work to review, clients, deliverables, invoices."
+2026-10-23T15:25:51.322466Z,com.scenivia/scenivia,Scenivia,1.4.0,https://github.com/Scenivia/claude-plugin,streamable-http,"Turn a product brief into an editable motion-design launch video, edit it and export MP4."
+2026-10-23T15:26:11.654186Z,io.github.DynamicsNinja/garmin-connect-personal-api,Garmin Connect Personal API,1.0.0,https://github.com/DynamicsNinja/connect-personal-api-js,,"Read your Garmin sleep, HRV, steps, stress, Body Battery, and activities (unofficial)"
+2026-10-23T15:26:43.319677Z,io.github.peteabu/jules,Jules,0.2.2,,streamable-http,"Create, list, update and cancel phone call reminders that ring your phone, via your Jules account."
+2026-10-23T15:27:34.267501Z,io.github.Ockram4444/agentcompute,AgentCompute,0.8.0,,streamable-http,"Free experimental GPU tools: text generation, images and audio transcription. Shared quotas; no SLA."
+2026-10-23T15:36:59.68285Z,io.codeb/signing,CodeB signing,1.0.0,,streamable-http,Prepare PDF signing requests with signature fields and signers; people sign in CodeB Wallet.
+2026-10-23T15:46:34.788313Z,com.discordservers/search,DiscordServers,1.2.3,https://github.com/DiscordServers/monorepo,streamable-http,"Search Discord server listings, and manage your own servers once you sign in."
+2026-10-23T15:47:31.746891Z,io.usefulapi/bexio,bexio MCP by usefulapi,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Read bexio contacts, invoices, quotes, bills, projects and journal; log time, draft invoices."
+2026-10-23T15:47:39.148721Z,com.adscove/adscove,AdsCove,1.0.0,https://github.com/Nikoismaster/adscove-mcp,streamable-http,"Remote MCP for Shopify, Meta Ads, Google Ads and TikTok Ads with human approval for writes"
+2026-10-23T15:47:39.884786Z,io.github.dcd887/mc-changelog,,1.0.0,https://github.com/dcd887/mc-changelog-mcp,,查 Minecraft 模组更新日志与版本差异，按版本范围检索
+2026-10-23T15:47:39.944673Z,io.usefulapi/teamleader-focus,Teamleader Focus MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Teamleader Focus contacts, companies, deals, invoices, projects; create deals, tasks."
+2026-10-23T15:47:47.530978Z,io.usefulapi/clio,Clio MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Clio matters, contacts, time, tasks, calendar and bills; add matters, time entries, notes."
+2026-10-23T15:47:50.567632Z,com.adrecast/adrecast,AdRecast,1.0.0,,streamable-http,"Remake proven e-commerce video ads for your product: templates, scripts, generation, export"
+2026-10-23T15:48:31.486034Z,xyz.aaasagent/mcp,AaaSagent Templates,0.1.0,,streamable-http,AaaSagent: browse agent templates (BYOK) and join the invite-only beta.
+2026-10-23T15:48:52.935787Z,io.github.dcd887/mc-mod-config,,1.0.0,https://github.com/dcd887/mc-mod-config-mcp,,读写 Minecraft 模组配置文件（TOML/JSON），带 schema 校验
+2026-10-23T15:48:54.519361Z,io.github.dcd887/mc-pack-builder,,1.1.0,https://github.com/dcd887/mc-pack-builder-mcp,,构建 Minecraft 整合包：依赖解析、冲突检测、导出清单
+2026-10-23T15:48:56.614209Z,io.github.dcd887/mc-rp-assistant,,1.0.0,https://github.com/dcd887/mc-rp-assistant-mcp,,Minecraft 资源包助手：贴图清单、模型校验、语言文件检查
+2026-10-23T15:49:00.675571Z,io.github.dcd887/mc-modpack,,1.3.0,https://github.com/dcd887/mc-modpack-mcp,,整合包元数据管理与发布检查（mods、版本、加载器）
+2026-10-23T15:50:30.342008Z,io.github.brand-lc/findaiforwork,FindAIforWork,1.0.0,https://github.com/brand-lc/findaiforwork,streamable-http,"Curated directory of AI software: search tools, read listings, compare tools."
+2026-10-23T15:58:52.274379Z,com.lintelly/hr-deutschland,Lintelly HR Deutschland,0.2.0,https://github.com/NicksAdvisory/lintelly-hr-deutschland,streamable-http,"German employment law for small companies: notice periods, costs, sick pay, contracts. No sign-in."
+2026-10-23T16:00:50.88164Z,com.paycheckhours/calculators,PaycheckHours calculators,1.0.0,,streamable-http,"US time card hours, decimal hours, overtime pay and tip pool split. Free, no sign-in."
+2026-10-23T16:01:07.224112Z,io.github.OmniGoAI/omnipost,OmniPost,0.1.1,https://github.com/OmniGoAI/omnipost-skill,,"Publish articles, image posts and videos to 40+ platforms via the local OmniPost app."
+2026-10-23T16:06:44.620379Z,com.sunsetdiff/sunsetdiff,SunsetDiff,1.0.0,,streamable-http,"AI model shutdown dates, replacements, and migration diffs. Free, no API key."
+2026-10-23T16:12:15.802963Z,dev.workers.orbit-builder.token-risk/token-risk,orbit Token Risk,1.0.0,,streamable-http,Rug/honeypot risk flags for Base + Solana tokens. Free preview tool; full report via x402.
+2026-10-23T16:13:32.505079Z,io.github.thisismerlin/yourno2-fpl,Your No.2: FPL Assistant Manager,1.0.0,,streamable-http,"Fantasy Premier League (FPL) assistant: one clear call on captain, transfers and chips."
+2026-10-23T16:16:37.666134Z,io.github.nyan-parlor/nyan-parlor-mcp,"Nyan Parlor: Tarot, I Ching & BaZi",0.2.0,https://github.com/nyan-parlor/nyan-parlor-mcp,streamable-http,"Real random tarot draws, card meanings, I Ching casting, BaZi charts and Chinese zodiac (EN/JA)."
+2026-10-23T16:18:41.632933Z,io.github.psyb0t/dikciz-launcher,Dikciz Launcher,0.0.0,https://github.com/psyb0t/dikciz-launcher,,Android launcher with an embedded MCP server for owner-controlled device automation.
+2026-10-23T16:18:54.583172Z,com.prismposter/creator-tools,PrismPoster Creator Tools,0.3.0,https://github.com/PrismPoster/creator-tools,streamable-http,"Social media frame sizes with sourced safe areas, plus aspect-ratio, bitrate and subtitle tools."
