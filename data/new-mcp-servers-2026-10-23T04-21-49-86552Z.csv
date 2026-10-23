@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-10-23T03:21:07.187882Z,com.textforagents/change-of-control-re-attestation,Trust Does Not Transfer - Change-of-Control Re-Attestation,1.0.0,,streamable-http,"Control-change detection, scope freeze, re-attestation ladder. Query $0.01, watch $4.99/mo."
+2026-10-23T03:25:05.084809Z,com.kingminos/mcp,KingMinos,2026.10.22,,streamable-http,"B2B company and person enrichment for agents. Multiple data providers, pay only for results."
+2026-10-23T03:25:47.560449Z,app.sandooq/product,Sandooq product,5.11.6,,streamable-http,"Sandooq product facts: plans, prices, MENA market tax and currency, and site pages as Markdown."
+2026-10-23T03:34:31.093379Z,com.textforagents/combined-residue-census,Combined Residue Census,1.0.0,,streamable-http,"Per-principal census of MCP subscriptions and durable tasks, with verified-stop receipts."
+2026-10-23T03:38:05.667836Z,io.github.KincaidYang/whois,WHOIS,1.4.1,https://github.com/KincaidYang/whois,streamable-http,"Query WHOIS/RDAP information for domains, IP addresses, CIDR prefixes and ASNs. Self-hostable."
+2026-10-23T03:39:18.924191Z,io.github.EssenceAlignment/pdf-form-proof,PDF Form Proof,0.1.0,https://github.com/EssenceAlignment/pdf-form-proof,,"Fill fillable PDF forms, then prove every value is visible on the rendered page."
+2026-10-23T03:40:15.435048Z,com.textforagents/channel-bound-delegation-receipts,Channel-bound delegation receipts,1.0.0,,streamable-http,Binds delegated results to their arrival channel: provenance grades plus a grounded truth tier.
+2026-10-23T03:44:47.307952Z,com.textforagents/agent-incident-classification-notification,,1.0.0,,streamable-http,"Signed agent-incident classification vs PP-26-4396, with third-party notification receipts."
+2026-10-23T03:52:16.314063Z,com.textforagents/telemetry-intake-provenance-confinement,Telemetry-Intake Provenance & Confinement Service,1.0.0,,streamable-http,"Signed telemetry origin verdicts, intake census, canary drills. Verdict $0.01/event."
+2026-10-23T03:52:20.405858Z,now.abis/dongbang-interior,Dongbang Interior · 동방인테리어,1.0.2,,streamable-http,"Korean interior planning answers, verified Dongbang Interior cases and human consultation links."
+2026-10-23T03:55:50.550501Z,io.github.CloudCorpRecords/mcpaudit,,0.1.0,https://github.com/CloudCorpRecords/mcpaudit,,"Audit any MCP server: handshake, schemas, descriptions, error handling, scored."
+2026-10-23T03:57:55.472424Z,com.buzzerapi/buzzerapi,BuzzerAPI,1.0.0,,streamable-http,"Buzz in deliveries and guests: apartment access codes, timed or recurring entry, and access history."
+2026-10-23T03:58:40.481796Z,com.directiq.mcp/directiq,DirectIQ,0.1.0,https://github.com/directiq/mcp,streamable-http,"Manage DirectIQ contacts, lists and tags, and send transactional email from any AI agent."
+2026-10-23T03:59:14.703447Z,com.estimatekit/estimatekit,EstimateKit,1.1.0,,streamable-http,"Quotes, jobs and invoices for HVAC, plumbing and electrical shops. Drafts good-better-best quotes."
+2026-10-23T03:59:18.428942Z,com.tjaz/quiz,Tjaz,1.0.0,,streamable-http,"Make, find and share multiple-choice quizzes that people play on tjaz.com, alone or together"
+2026-10-23T04:00:34.406342Z,com.textforagents/annotation-survival-conformance,Annotation-survival conformance,1.0.0,,streamable-http,"Annotation-survival conformance for MCP tools. Receipt $0.01, check $4.99, plans $9.99/$19.99."
+2026-10-23T04:01:32.935807Z,com.jitdot/catalog,짓닷 자재 찾기,1.0.0,,streamable-http,짓닷(jitdot.com)에 공개된 타일 · 마루 · LVT 등 인테리어 마감재를 규격 · 재질 · 마감으로 찾는 읽기 전용 카탈로그
+2026-10-23T04:19:40.86978Z,com.reliancetrenchless/catalogue,Reliance Trenchless Catalogue,1.0.0,,streamable-http,Search and compare Reliance Trenchless pipe-repair products and prepare technical enquiries.
+2026-10-23T04:20:27.289802Z,com.blenderbridge/blender-bridge,Blender Bridge,1.1.0,,streamable-http,"Control Blender from AI: 3D modeling, Geometry Nodes, materials, animation, rendering and export."
+2026-10-23T04:20:52.635264Z,io.github.srijansk/crewlore,crewlore,0.5.3,https://github.com/srijansk/crewlore,,"Team knowledge compiled from your coding agents' sessions and pull requests, every entry cited."
