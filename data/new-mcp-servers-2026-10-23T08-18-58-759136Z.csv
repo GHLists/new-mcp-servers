@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-10-23T07:22:54.347788Z,com.spartoo/spartoo,Spartoo,1.1.0,,streamable-http,"Search the Spartoo fashion catalog: shoes, clothing, bags. Prices and sizes in stock."
+2026-10-23T07:23:36.775197Z,io.github.janvodvarka/moodmark,Moodmark,1.0.0,,streamable-http,"Let your AI agent build moodboards of real websites: save, search, tag and share design references."
+2026-10-23T07:23:43.968958Z,io.github.atsp-protocol/x402-conformance,x402 Conformance,1.4.0,https://github.com/atsp-protocol/x402-conformance,,"x402 payment safety checks: validate a 402 answer, prove a server never serves before settlement."
+2026-10-23T07:25:01.738734Z,ai.pickrun/pickrun,Pickrun,1.0.0,,streamable-http,"One key for 4,000+ tools: web search, scraping, people and company data, SEO, calls and email."
+2026-10-23T07:31:58.282409Z,io.github.hpasic/nordnet-mcp,Nordnet Portfolio,0.1.0,https://github.com/hpasic/nordnet-mcp,,"Read-only Nordnet brokerage data: accounts, positions, trades, balances, orders, instruments."
+2026-10-23T07:33:21.028316Z,me.onmax/remite,Remite,1.0.0,,streamable-http,"Send a burofax or certified letter to a Spanish address, with proof of delivery and content."
+2026-10-23T07:33:59.341146Z,com.eyepatchads/eyepatch,Eyepatch: nutrition ad angle database,0.8.0,,streamable-http,"Free library of 1,010 long-running nutrition ads, tagged by angle, avatar, offer and format."
+2026-10-23T07:34:45.209113Z,io.kukie/ai-connector,Kukie.io,1.0.0,,streamable-http,"Read your Kukie.io sites, make previewed changes to banners and settings, and start scans."
+2026-10-23T07:42:22.661831Z,io.github.Evalogical-Inc/devready,DevReady,1.1.1,https://github.com/Evalogical-Inc/devReady,,Read-only check that a machine meets a project's declared tool and runtime versions.
+2026-10-23T07:49:31.816486Z,io.github.gemral-edge/gemral-edge,Gemral Edge,1.1.0,https://github.com/gemral-edge/gemral-edge-mcp,streamable-http,"Point-in-time U.S. public records: federal contracts, congressional and insider trades, lobbying."
+2026-10-23T07:50:50.542332Z,dev.kaneky/speak,Speak,0.1.1,,streamable-http,"Text to natural speech as MP3: 38 voices, 7 languages, 1,000 chars per call. Paid per call, x402."
+2026-10-23T07:51:11.575636Z,io.penguin-stats/penguin-stats,Penguin Statistics,1.0.0,https://github.com/penguin-statistics/backend-next,streamable-http,"Crowdsourced Arknights drop rates by stage and item, for the CN, US, JP and KR game servers"
+2026-10-23T07:54:08.432962Z,io.github.haim-barad/drinkedin-night-out,DrinkedIn Night Out,1.0.0,https://github.com/haim-barad/drinkedin-night-out,streamable-http,"Read-only planner for walkable 2-4 stop nights out between validated, licensed venues. No sign-in."
+2026-10-23T07:54:09.479326Z,ai.nodary/nodary,Nodary,1.2.0,,streamable-http,"Linked team workspace: AI agents read and write docs, wikis, sheets, diagrams, boards and reviews."
+2026-10-23T07:54:54.817306Z,io.usefulapi/idx-broker,IDX Broker MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read IDX Broker leads, agents, listings and MLS data; create and update leads and notes."
+2026-10-23T07:54:56.318024Z,io.usefulapi/gooten,Gooten MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Browse the Gooten catalog, stock, shipping and price quotes; search orders and cancel items."
+2026-10-23T07:54:57.765408Z,io.usefulapi/service-fusion,Service Fusion MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Service Fusion customers, jobs, estimates, invoices and schedule; create customers and jobs."
+2026-10-23T07:55:35.271158Z,ink.smart-money/smart-money,Budget Tracker by Smart Money,0.2.3,https://github.com/ultraza4/smart-money-mcp,streamable-http,"Personal finance: log expenses in plain language, track accounts, budgets and spending"
+2026-10-23T07:58:18.796977Z,com.knowkensington/places,KnowKensington,1.1.0,,streamable-http,"Handpicked places in Kensington, London: restaurants, coffee, pubs, parks and shops."
+2026-10-23T08:01:03.193269Z,dev.letterport/letterport,letterport,1.0.0,,streamable-http,"Real email inboxes for AI agents: create addresses, read mail as JSON, reply in threads."
+2026-10-23T08:01:50.010572Z,io.github.pulsarik/omaha-hi-lo,Omaha Hi-Lo Poker,1.0.0,,streamable-http,Free Omaha Hi-Lo tables with bots or friends. Play on the website without registration.
+2026-10-23T08:03:40.872848Z,com.3dsellers/mcp,3Dsellers,1.0.0,,streamable-http,"Run eBay, Amazon, Walmart, Etsy and Shopify stores from your AI assistant. 150+ tools, no code."
+2026-10-23T08:04:06.115078Z,ai.reclypse.csv/agent-services,,1.0.0,,streamable-http,Paid deterministic CSV cleanup and source-HTML checks. x402 USDC on Base.
+2026-10-23T08:06:16.219272Z,com.shinnslist/shinnslist,shinnslist,0.2.0,,streamable-http,Public-record parcel signals for off-market real estate. Free beta; only proven signals listed.
+2026-10-23T08:16:28.292162Z,io.github.SigNoz/signoz-mcp-server,SigNoz MCP Server,0.16.0,https://github.com/SigNoz/signoz-mcp-server,,"SigNoz MCP server: access metrics, traces, logs, alerts, and dashboards via AI assistants"
