@@ -1,0 +1,13 @@
+created_at,server,title,version,repository,transports,description
+2026-10-24T05:24:24.29834Z,io.github.GitGudatCodeing/vault-index,,0.2.0,https://github.com/GitGudatCodeing/claude-second-brain,,Local hybrid keyword + vector search (SQLite FTS5 + sqlite-vec) over markdown vaults and code.
+2026-10-24T05:28:05.256766Z,tech.tradetron.mcp/tradetron,Tradetron,0.4.1,,streamable-http,"Build, backtest and diagnose algo trading strategies in your own Tradetron account in plain English."
+2026-10-24T05:28:35.131671Z,io.github.Perufitlife/postwire-mcp,PostWire,0.4.0,https://github.com/Perufitlife/postwire-mcp,streamable-http,"Writes a native post per network from one idea and publishes it: TikTok, Instagram, YouTube & more"
+2026-10-24T05:38:35.896252Z,com.priorstates/studio-apps,PriorStates Studio — free apps,1.0.0,,streamable-http,"Find free ready-made PriorStates Studio apps for everyday needs: expenses, receipts, chores, RSVPs."
+2026-10-24T05:41:10.721663Z,io.github.event4u-app/agent-config,agent-config,17.3.0,https://github.com/event4u-app/agent-config,,"Governed skills, rules and commands for AI coding agents, served by a read-only MCP server."
+2026-10-24T05:46:24.600377Z,io.github.Astralchemist/matchstick,,0.1.0-alpha.4,https://github.com/Astralchemist/matchstick,,"Checks a site build: sitemaps, structured data, robots.txt and what crawlers see."
+2026-10-24T05:46:30.443146Z,com.vadyu/vadyu,Vadyu AI Video Ad Studio,1.0.0,https://github.com/crawde/mcp-vadyu,streamable-http,Generate commercial multi-shot AI product video ads from image URLs with coherence grading.
+2026-10-24T05:49:23.533884Z,io.github.eosphor/ats-jobs,ATS Jobs,1.0.0,,streamable-http,"Search ~1.4M open jobs from 24k company career boards: Greenhouse, Lever, Ashby, Workday and more"
+2026-10-24T05:55:14.406275Z,io.github.alimohammadiamirhossein/deputy,Deputy,0.2.0,https://github.com/alimohammadiamirhossein/deputy,,Claude Code helper: DeepSeek V4.1 Flash reviews Claude's code for bugs and gives second opinions
+2026-10-24T06:05:19.008442Z,com.atollhq/atoll,Atoll,0.11.0,,streamable-http,"Project management for humans and AI agents: goals, metrics, projects, and issues."
+2026-10-24T06:07:11.315436Z,io.github.aiforwork100-cell/pledr-legal-mcp,,1.0.0,https://github.com/aiforwork100-cell/pledr-legal-mcp,streamable-http,"Indian legal MCP: cited Supreme Court of India judgments in Claude, ChatGPT and Cursor."
+2026-10-24T06:16:22.870048Z,io.github.hacrootechnologies/gydmation,Gydmation,1.0.7,https://github.com/hacrootechnologies/Gydmation-AI,streamable-http,"Build, check and fix n8n workflows: 1,100+ node definitions, curated templates and a validator."
