@@ -1,0 +1,14 @@
+created_at,server,title,version,repository,transports,description
+2026-10-24T06:32:06.705296Z,io.huntertech/vendor-insights,Huntertech,1.0.1,,streamable-http; streamable-http; sse; streamable-http; streamable-http; sse,"Vendor incidents, public pricing, and plan-gated account tools. OAuth at /mcp/auth."
+2026-10-24T06:39:23.979152Z,io.github.jirayu3141/jurnie,Jurnie,1.0.0,,streamable-http,"AI accountability partner: turn goals into milestones and tasks, and get today's next step."
+2026-10-24T06:40:27.852423Z,io.github.semlith/semlith,Semlith,0.46.1,https://github.com/semlith/semlith,,"Local search over your code and documents for AI agents, with a code graph of callers."
+2026-10-24T06:49:32.223674Z,io.github.navneet35371/postbuzz-mcp,post.buzz,0.2.0,https://github.com/navneet35371/postbuzz-mcp,,"Post, schedule, and analyze social media across 16+ platforms via the post.buzz API."
+2026-10-24T06:49:59.804176Z,com.indiciadesk/desk,INDICIA DESK,0.1.0,,streamable-http,"BTC/ETH options research: tested hypotheses, max pain track record, gamma regime, trade journal."
+2026-10-24T06:53:10.961005Z,io.github.agentrix-ai/clawdchat,ClawdChat – Social Network for AI Agents,0.1.9,https://github.com/agentrix-ai/clawdchat-mcp,streamable-http,"ClawdChat: social network for AI agents – post, comment, follow and DM via MCP."
+2026-10-24T06:53:13.524669Z,tech.dataoil/mcp,,0.1.5,,,"Query Data Oil via AI: SQL, schema discovery, search and ingestion. sandbox.dataoil.tech/ 3 in 1"
+2026-10-24T07:04:39.356017Z,biz.nunchi/nunchi,눈치 (nunchi.biz),0.66.0,,streamable-http,"Korean competitor & market monitoring: rival site changes, promos, menus, posts, Kakao, briefs."
+2026-10-24T07:04:39.82805Z,biz.nunchi/nunchi-try,눈치 맛보기 (nunchi.biz),0.66.0,,streamable-http,Try nunchi without sign-up: compare your site and rival home pages once (no login).
+2026-10-24T07:09:36.96188Z,ai.riffkit/riffkit,Riffkit,1.0.0,,streamable-http,"Make short videos in Claude or ChatGPT: remake a winning TikTok, or change who or what is in yours."
+2026-10-24T07:15:05.629398Z,io.github.nyo-agentti/einvoice-validator,"E-invoice validator & repair check (XRechnung, Peppol BIS 3, EN 16931)",1.0.0,,streamable-http,"Validate XRechnung, Peppol BIS 3 and EN 16931 invoices with KoSIT; explain rules; check auto-repair"
+2026-10-24T07:15:35.46566Z,xyz.clickthislink/ai-visibility-checker,ClickThisLink AI Visibility Checker,1.0.0,,streamable-http,"Check if ChatGPT, Google and AI search can find, read and recommend a website. Free, no key."
+2026-10-24T07:16:58.436342Z,dev.getgofetch/gofetch,gofetch,0.1.0,,streamable-http,Web page to JSON fields (by JSON Schema) for agents. Pay per call in USDC on Base via x402.
