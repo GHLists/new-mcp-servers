@@ -9,35 +9,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 09:20 UTC
+## Latest list — 2026-10-24 10:19 UTC
 
-New MCP servers published between 2026-10-24 08:19 UTC and 2026-10-24 09:20 UTC.
+New MCP servers published between 2026-10-24 09:20 UTC and 2026-10-24 10:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-24T09-20-46-728232Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-24T10-19-52-79724Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-24 08:20:12 | com.folionomiq/folionomiq | Folionomiq | 1.6.0 | Measures a portfolio from price history: independent bets, what funds own, past… |
-| 2026-10-24 08:20:55 | io.github.Ariescar/gobkit-free-3d | Gobkit Free 3D Models | 1.0.0 | Free CC0 low-poly 3D models (GLB): rigged, animated animals, dinos, insects, pe… |
-| 2026-10-24 08:31:29 | [io.github.beggar-bot-x402/beggar-bot-mcp](https://github.com/beggar-bot-x402/beggar-bot-mcp) | Beggar Bot | 0.1.0 | x402 utilities on Base: USDC payment verification, risk scores, signed receipts… |
-| 2026-10-24 08:31:52 | [io.github.obseard223/tempstick-mcp](https://github.com/obseard223/tempstick-mcp) | Temp Stick (by OpenPandora) | 0.1.1 | Temp Stick MCP server by OpenPandora — check your freezer and temperature senso… |
-| 2026-10-24 08:32:58 | [com.murphys-laws/murphys-laws](https://github.com/ravidorr/murphys-laws) |  | 1.2.5 | Access thousands of Murphy's Laws: search, browse by category, random, daily, s… |
-| 2026-10-24 08:33:14 | net.trynanobanana/banana-art-lab | Banana Art Lab | 1.0.0 | Generate images with GPT Image 2, Nano Banana Pro and more, placed on your Bana… |
-| 2026-10-24 08:40:13 | de.fynvo/verzeichnis | Fynvo Firmenverzeichnis | 2.0.0 | Deutsche Unternehmen nach Leistung, Zertifikat und Umkreis finden, mit Quelle j… |
-| 2026-10-24 08:40:27 | io.github.mandiau-matthias/automatron-backlink-checker | Automatron · Aura Backlink Checker | 1.0.0 | Check known backlinks, anchors, rel tags and noindex. Paid Apify runs; unknown… |
-| 2026-10-24 08:44:57 | direct.bookhotels/hotel-price-check | BookHotels.direct | 0.44.1 | Is a hotel cheaper on its own website than on Booking.com? An honest, like-for-… |
-| 2026-10-24 08:47:59 | [io.github.editmamei/editmamei-photoshop-mcp](https://github.com/editmamei/editmamei) |  | 1.9.2 | Photoshop MCP server: natural-language AI photo editing in desktop Photoshop. A… |
-| 2026-10-24 08:51:04 | com.cvember/cvember | CVEmber | 1.0.0 | Tailor your resume to any job, get an ATS score and download the PDF from ChatG… |
-| 2026-10-24 08:51:23 | [io.github.open-salesblink/cold-email-salesblink](https://github.com/open-salesblink/skill) | SalesBlink Cold Email | 1.2.0 | Cold email sequences, leads, templates, senders, inbox, and analytics via the S… |
-| 2026-10-24 09:00:56 | [com.adswipefile/adswipefile](https://github.com/adswipefile/adswipefile-plugin) | AdSwipeFile | 1.0.0 | Winning Facebook and Instagram ads, competitor ads, hooks and angles for your A… |
-| 2026-10-24 09:01:22 | [com.viralswipefile/viralswipefile](https://github.com/viralswipefile/viralswipefile-plugin) | Viral Swipe File | 1.2.0 | Know what to post: viral TikToks and Instagram Reels with their hooks, filed by… |
-| 2026-10-24 09:08:32 | link.b59/b59-link | b59.link | 1.2.0 | Short links, QR codes and page-view trackers for AI agents, with click stats an… |
-| 2026-10-24 09:08:42 | com.email59/email59 | email59 | 0.5.0 | Send transactional email from AI agents: sign up by email code, no domain or DN… |
-| 2026-10-24 09:12:46 | com.suiso-daicho/suiso-daicho | すいそう台帳 (Suiso Daicho) | 1.0.0 | Water tank cleaning ledger (Japan): due dates, sites, reports, inbox. Bearer AP… |
-| 2026-10-24 09:12:50 | com.denki-tenken-note/denki-tenken-note | でんき点検ノート (Denki Tenken Note) | 1.0.0 | Electrical safety inspection ledger (Japan): schedules, sites, reports. Bearer… |
-| 2026-10-24 09:12:54 | io.github.verymint/mint | Mint | 0.1.0 | Work journal for coding agents: worklogs, tasks, project state and costs across… |
-| 2026-10-24 09:12:55 | com.inuneko-chobo/inuneko-chobo | いぬねこ帳簿 (Inuneko Chobo) | 1.0.0 | Dog/cat breeder records (Japan): mating limits, headcount, microchips. Bearer A… |
-| 2026-10-24 09:16:19 | com.thevibehosting.agentpad/agentpad | AgentPad | 2.2.0 | Agents-only token launchpad on Base: quotes, tokens and unsigned launch/buy/sel… |
+| 2026-10-24 09:24:34 | com.playlistmap/playlistmap | PlaylistMap | 1.1.0 | Find active Spotify playlists for a song and check a playlist's integrity. No c… |
+| 2026-10-24 09:28:16 | [io.github.GORZ-APP/gorz](https://github.com/GORZ-APP/gorz-mcp) |  | 0.1.0 | Solana memecoin safety checks: grade, red flags, launch bundles, same-second se… |
+| 2026-10-24 09:29:41 | com.cefidia/mcp | Cefidia | 1.0.0 | Issue, sign and manage Mexican CFDI 4.0 e-invoices, complements and credit note… |
+| 2026-10-24 09:38:11 | ai.yahad/yahad | Yahad | 1.0.0 | Hebrew group greeting cards: create one, suggest questions for signers, check h… |
+| 2026-10-24 09:39:32 | ai.darim/darim | Дарим | 1.0.0 | Russian group greeting cards: create one, suggest questions for signers, check… |
+| 2026-10-24 09:42:06 | [io.github.Manish-Tamang/dittu](https://github.com/Manish-Tamang/dittu) | dittu | 0.1.0 | Clone any website's frontend into Next.js or Astro and verify it with pixel dif… |
+| 2026-10-24 09:44:12 | [io.github.subimpact/nimbooks-mcp](https://github.com/subimpact/nimbooks-mcp) | NimBooks | 1.2.0 | Read-only Nimiq books: balances, history, statements, staking, payment and stak… |
+| 2026-10-24 09:47:06 | com.scriptmasterlabs/mnemos | SCRIPTMASTERLABS — MNEMOS Options Radar | 2.0.0 | Options radar MCP: Astra scorecard, decisions ledger, options scans, gas + arb.… |
+| 2026-10-24 09:47:09 | com.scriptmasterlabs/calibration-court | SCRIPTMASTERLABS — Calibration Court | 1.0.0 | Calibration Court MCP: model calibration leaderboard, ledger verify, paid recal… |
+| 2026-10-24 09:47:12 | com.scriptmasterlabs/cascade-graph | SCRIPTMASTERLABS — Cascade Graph | 0.1.0 | Cascade Graph MCP: macro decision capsules + Jev jury review over a hash-chaine… |
+| 2026-10-24 09:47:14 | com.scriptmasterlabs/triple-trigger | SCRIPTMASTERLABS — Triple-Trigger | 2.0.0 | Triple-Trigger MCP: SPEC v2 triple-trigger ticker scans on live Schwab data. $0… |
+| 2026-10-24 09:47:16 | com.scriptmasterlabs/robinhood-rwa | SCRIPTMASTERLABS — Robinhood RWA Intell… | 0.2.0 | Robinhood Chain stock-token + prediction-market intelligence MCP. Read-only, ev… |
+| 2026-10-24 09:47:19 | com.scriptmasterlabs/b20-truth | SCRIPTMASTERLABS — B20 Truth | 1.0.0 | B20 Truth MCP: check Base B20 token claims against on-chain evidence. Paid repo… |
+| 2026-10-24 09:47:22 | [com.scriptmasterlabs/provider-trust](https://gitlab.com/script-master-labs-llc-group/provider-trust) | SCRIPTMASTERLABS — Provider Trust + CAN… | 1.3.0 | Provider Trust MCP: verify providers before agents trust them + CANON bulk regi… |
+| 2026-10-24 09:47:43 | com.scriptmasterlabs/x402-gateway | SCRIPTMASTERLABS — x402 Gateway | 1.4.0 | x402 Gateway MCP (canonical host): discover the SML x402 payment contract + gat… |
+| 2026-10-24 09:49:11 | [io.github.arnouthoebreckx/albert-heijn-be-mcp](https://github.com/arnouthoebreckx/albert-heijn-be-mcp) | Albert Heijn | 1.1.1 | Unofficial Albert Heijn server: products, bonus deals, recipes, shopping list,… |
+| 2026-10-24 09:49:26 | [io.github.preloop/preloop](https://github.com/preloop/preloop) | Preloop | 0.17.1 | Open-source AI agent control plane and software factory: govern every tool and… |
+| 2026-10-24 09:50:55 | market.payapi/marketplace | PayAPI Market | 1.1.0 | Search settlement-verified x402 APIs for free. Pay providers in USDC on Base, S… |
+| 2026-10-24 09:51:52 | dev.transica/transica | Transica | 1.0.0 | Checks whether a web page is ready for AI agents and whether an MCP server meet… |
+| 2026-10-24 10:02:49 | [io.github.pontivus-com/span](https://github.com/pontivus-com/span) | Span | 0.6.1 | Codebase understanding stored with its evidence, marked stale when that evidenc… |
+| 2026-10-24 10:06:09 | ai.pingaura/pingaura | PingAura | 1.0.0 | AI visibility for your brand: scores, competitors, prompts, site health and art… |
+| 2026-10-24 10:07:04 | [io.github.devops-infinity/ownserp](https://github.com/devops-infinity/ownserp) | OwnSERP | 0.1.2 | MCP server for the Serper.dev search API with per-call credit accounting |
+| 2026-10-24 10:07:51 | com.gpt-video/gpt-video-full | GPT-Video Full | 1.0.0 | The whole GPT-Video catalogue: clips, split screen, streamer, fake text, voiceo… |
+| 2026-10-24 10:07:56 | com.gpt-video/gpt-video | GPT-Video | 1.0.0 | Turn a long video into short vertical clips: find moments, add captions, refram… |
+| 2026-10-24 10:11:04 | ai.commerceai/shopping | CommerceAI | 1.0.0 | A shopping agent for AI agents. Search, compare and answer product questions. |
+| 2026-10-24 10:11:57 | io.drawdy/mcp | Drawdy | 1.0.0 | Free whiteboard where people and AI draw together: read cloud boards, draw diag… |
+| 2026-10-24 10:13:17 | [io.github.ericrodri/ia-skills](https://github.com/ericrodri/ia-skills) | ia-skills: prompts y skills de IA en es… | 0.1.2 | Busca e instala en Claude Code miles de prompts y skills de IA en español, por… |
+| 2026-10-24 10:14:17 | com.pinpinterest/keywords | PinPinterest — Pinterest Keyword Resear… | 1.0.0 | Pinterest keyword research from our own crawl: saves, competition, related term… |
+| 2026-10-24 10:15:59 | app.planbeforeyoudie/facts | Plan Before You Die facts | 1.0.0 | Checked US family-readiness facts with official sources: forms, state rules and… |
+| 2026-10-24 10:17:12 | [eu.citedby/citedby](https://github.com/resaleiq/citedby-mcp) | CitedBy | 1.0.0 | Check a page, AI-crawler access, llms.txt and backlinks of a site. Free, read-o… |
+| 2026-10-24 10:19:47 | org.duckdns.keepthis/persistent-text-store | Persistent text store | 1.0.0 | No-auth text store for agents: persist notes past your episode, read what other… |
 
 ## Data source
 

@@ -1,0 +1,32 @@
+created_at,server,title,version,repository,transports,description
+2026-10-24T09:24:34.121862Z,com.playlistmap/playlistmap,PlaylistMap,1.1.0,,streamable-http,Find active Spotify playlists for a song and check a playlist's integrity. No curator contacts.
+2026-10-24T09:28:16.896202Z,io.github.GORZ-APP/gorz,,0.1.0,https://github.com/GORZ-APP/gorz-mcp,,"Solana memecoin safety checks: grade, red flags, launch bundles, same-second sellers, rug farms."
+2026-10-24T09:29:41.028987Z,com.cefidia/mcp,Cefidia,1.0.0,,streamable-http,"Issue, sign and manage Mexican CFDI 4.0 e-invoices, complements and credit notes."
+2026-10-24T09:38:11.3516Z,ai.yahad/yahad,Yahad,1.0.0,,streamable-http,"Hebrew group greeting cards: create one, suggest questions for signers, check how many signed."
+2026-10-24T09:39:32.125609Z,ai.darim/darim,Дарим,1.0.0,,streamable-http,"Russian group greeting cards: create one, suggest questions for signers, check how many signed."
+2026-10-24T09:42:06.694072Z,io.github.Manish-Tamang/dittu,dittu,0.1.0,https://github.com/Manish-Tamang/dittu,,Clone any website's frontend into Next.js or Astro and verify it with pixel diffs.
+2026-10-24T09:44:12.430918Z,io.github.subimpact/nimbooks-mcp,NimBooks,1.2.0,https://github.com/subimpact/nimbooks-mcp,,"Read-only Nimiq books: balances, history, statements, staking, payment and stake links. Never signs."
+2026-10-24T09:47:06.141632Z,com.scriptmasterlabs/mnemos,SCRIPTMASTERLABS — MNEMOS Options Radar,2.0.0,,streamable-http,"Options radar MCP: Astra scorecard, decisions ledger, options scans, gas + arb. x402 USDC on Base."
+2026-10-24T09:47:09.354963Z,com.scriptmasterlabs/calibration-court,SCRIPTMASTERLABS — Calibration Court,1.0.0,,streamable-http,"Calibration Court MCP: model calibration leaderboard, ledger verify, paid recalibration via x402."
+2026-10-24T09:47:12.140211Z,com.scriptmasterlabs/cascade-graph,SCRIPTMASTERLABS — Cascade Graph,0.1.0,,streamable-http,Cascade Graph MCP: macro decision capsules + Jev jury review over a hash-chained calibration log.
+2026-10-24T09:47:14.034451Z,com.scriptmasterlabs/triple-trigger,SCRIPTMASTERLABS — Triple-Trigger,2.0.0,,streamable-http,Triple-Trigger MCP: SPEC v2 triple-trigger ticker scans on live Schwab data. $0.05 x402 on Base.
+2026-10-24T09:47:16.549575Z,com.scriptmasterlabs/robinhood-rwa,SCRIPTMASTERLABS — Robinhood RWA Intelligence,0.2.0,,streamable-http,"Robinhood Chain stock-token + prediction-market intelligence MCP. Read-only, evidence-first."
+2026-10-24T09:47:19.194733Z,com.scriptmasterlabs/b20-truth,SCRIPTMASTERLABS — B20 Truth,1.0.0,,streamable-http,B20 Truth MCP: check Base B20 token claims against on-chain evidence. Paid reports via x402 USDC.
+2026-10-24T09:47:22.285961Z,com.scriptmasterlabs/provider-trust,SCRIPTMASTERLABS — Provider Trust + CANON,1.3.0,https://gitlab.com/script-master-labs-llc-group/provider-trust,streamable-http,Provider Trust MCP: verify providers before agents trust them + CANON bulk registry lookup (x402).
+2026-10-24T09:47:43.418653Z,com.scriptmasterlabs/x402-gateway,SCRIPTMASTERLABS — x402 Gateway,1.4.0,,streamable-http,x402 Gateway MCP (canonical host): discover the SML x402 payment contract + gateway status. Free.
+2026-10-24T09:49:11.111153Z,io.github.arnouthoebreckx/albert-heijn-be-mcp,Albert Heijn,1.1.1,https://github.com/arnouthoebreckx/albert-heijn-be-mcp,,"Unofficial Albert Heijn server: products, bonus deals, recipes, shopping list, orders and receipts."
+2026-10-24T09:49:26.859055Z,io.github.preloop/preloop,Preloop,0.17.1,https://github.com/preloop/preloop,streamable-http,Open-source AI agent control plane and software factory: govern every tool and model call.
+2026-10-24T09:50:55.438844Z,market.payapi/marketplace,PayAPI Market,1.1.0,,streamable-http,"Search settlement-verified x402 APIs for free. Pay providers in USDC on Base, Solana or Algorand."
+2026-10-24T09:51:52.873391Z,dev.transica/transica,Transica,1.0.0,,streamable-http,Checks whether a web page is ready for AI agents and whether an MCP server meets directory rules
+2026-10-24T10:02:49.444475Z,io.github.pontivus-com/span,Span,0.6.1,https://github.com/pontivus-com/span,,"Codebase understanding stored with its evidence, marked stale when that evidence changes."
+2026-10-24T10:06:09.653228Z,ai.pingaura/pingaura,PingAura,1.0.0,,streamable-http,"AI visibility for your brand: scores, competitors, prompts, site health and articles."
+2026-10-24T10:07:04.946919Z,io.github.devops-infinity/ownserp,OwnSERP,0.1.2,https://github.com/devops-infinity/ownserp,,MCP server for the Serper.dev search API with per-call credit accounting
+2026-10-24T10:07:51.296766Z,com.gpt-video/gpt-video-full,GPT-Video Full,1.0.0,,streamable-http,"The whole GPT-Video catalogue: clips, split screen, streamer, fake text, voiceovers, timeline."
+2026-10-24T10:07:56.104263Z,com.gpt-video/gpt-video,GPT-Video,1.0.0,,streamable-http,"Turn a long video into short vertical clips: find moments, add captions, reframe, export."
+2026-10-24T10:11:04.487466Z,ai.commerceai/shopping,CommerceAI,1.0.0,,streamable-http,"A shopping agent for AI agents. Search, compare and answer product questions."
+2026-10-24T10:11:57.627232Z,io.drawdy/mcp,Drawdy,1.0.0,,streamable-http,"Free whiteboard where people and AI draw together: read cloud boards, draw diagrams, build slides."
+2026-10-24T10:13:17.446346Z,io.github.ericrodri/ia-skills,ia-skills: prompts y skills de IA en español,0.1.2,https://github.com/ericrodri/ia-skills,,"Busca e instala en Claude Code miles de prompts y skills de IA en español, por profesión."
+2026-10-24T10:14:17.72407Z,com.pinpinterest/keywords,PinPinterest — Pinterest Keyword Research,1.0.0,,streamable-http,"Pinterest keyword research from our own crawl: saves, competition, related terms, trends, top pins."
+2026-10-24T10:15:59.436794Z,app.planbeforeyoudie/facts,Plan Before You Die facts,1.0.0,,streamable-http,"Checked US family-readiness facts with official sources: forms, state rules and deadlines."
+2026-10-24T10:17:12.10601Z,eu.citedby/citedby,CitedBy,1.0.0,https://github.com/resaleiq/citedby-mcp,streamable-http,"Check a page, AI-crawler access, llms.txt and backlinks of a site. Free, read-only."
+2026-10-24T10:19:47.602913Z,org.duckdns.keepthis/persistent-text-store,Persistent text store,1.0.0,,streamable-http,"No-auth text store for agents: persist notes past your episode, read what other agents left."
