@@ -9,31 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 08:19 UTC
+## Latest list — 2026-10-24 09:20 UTC
 
-New MCP servers published between 2026-10-24 07:20 UTC and 2026-10-24 08:19 UTC.
+New MCP servers published between 2026-10-24 08:19 UTC and 2026-10-24 09:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-24T08-19-32-231803Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-24T09-20-46-728232Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-24 07:21:54 | io.github.ucunhome/ucun-select |  | 0.3.0 | Wholesale home textile sourcing: in-stock bedding & fabrics with prices and MOQ… |
-| 2026-10-24 07:22:41 | [org.opensysml/sysml-mcp](https://github.com/Open-MBEE/OpenSysML) | OpenSysML MCP server | 0.11.0 | SysML v2 and KerML for coding agents: workspace diagnostics and edits, executio… |
-| 2026-10-24 07:26:59 | [io.github.kolganovr/mokido](https://github.com/kolganovr/mokido) |  | 4.3.0 | Write to a live Figma canvas, get a screenshot back, and roll back mistakes. Ze… |
-| 2026-10-24 07:36:47 | io.github.imraghavojha/alive5-sms | Alive5 SMS | 1.0.0 | List SMS lines, send texts and read recent inbound messages with Alive5. |
-| 2026-10-24 07:37:01 | ai.celestio/celestio | Celestio | 1.0.0 | Birth charts and personal astrology readings, plus compatibility between two pe… |
-| 2026-10-24 07:41:27 | kr.co.internettrend/internettrend-try | 인터넷트렌드 맛보기 (InternetTrend Try) | 1.1.0 | Try InternetTrend without login: Korean search, AI platform and browser shares… |
-| 2026-10-24 07:41:43 | kr.co.internettrend/internettrend | 인터넷트렌드 (InternetTrend) | 1.1.0 | Korean web usage stats from real site logs: search engine, AI platform, browser… |
-| 2026-10-24 07:44:55 | nl.cloudvikings/mijn | CloudVikings | 1.0.0 | EU domains, DNS and hosting for sites and apps. Your AI proposes, you approve e… |
-| 2026-10-24 07:45:16 | [io.github.baccaraaa/tavero](https://github.com/baccaraaa/tavero) | Tavero | 0.5.1 | Finds UI drift in React apps (buttons, cards, colors, spacing) and gives your a… |
-| 2026-10-24 07:45:58 | [io.github.emulette/cellrune](https://github.com/emulette/cellrune) | CellRune | 0.1.27 | Read, calculate, edit, and save XLSX workbooks headlessly over local stdio. |
-| 2026-10-24 07:51:21 | io.github.dang13021993/olacheap | OlaCheap | 1.0.0 | Manage authorized OlaMail inboxes, messages, and email drafts through secure OA… |
-| 2026-10-24 07:59:27 | [dev.getsnap/getsnap](https://github.com/rokas-kve/getsnap-api) |  | 1.14.2 | Screenshots, PDFs, visual diffs and accessibility audits, returned inline so a… |
-| 2026-10-24 08:00:55 | kr.chatad/chatad | ChatAd (chatad.kr) | 1.0.0 | Manage ChatGPT (OpenAI), Google & Meta ads by chat: daily briefs, budgets, camp… |
-| 2026-10-24 08:00:56 | kr.chatad/chatad-guest | ChatAd 손님 (chatad.kr) | 1.0.0 | Try ChatAd without login: ad readiness check, site analysis, campaign drafts, s… |
-| 2026-10-24 08:03:27 | [io.github.isaacaskew/venunite-events](https://github.com/isaacaskew/venunite-events) | VenuNite Events | 0.3.3 | Free US local event search. No signup or API key; 90-day lookahead. Paid commer… |
-| 2026-10-24 08:06:30 | [io.github.Stari-am/griasa](https://github.com/Stari-am/griasa) | Griasa | 1.0.20 | Local-first Mac meeting memory: open promises, people, next-meeting briefs. Rea… |
-| 2026-10-24 08:13:48 | [io.github.plopino/plopino-mcp](https://github.com/plopino/plopino-mcp) | Plopino | 0.3.1 | Publish pages, documents, or folders to a link; documents render as pages; upda… |
+| 2026-10-24 08:20:12 | com.folionomiq/folionomiq | Folionomiq | 1.6.0 | Measures a portfolio from price history: independent bets, what funds own, past… |
+| 2026-10-24 08:20:55 | io.github.Ariescar/gobkit-free-3d | Gobkit Free 3D Models | 1.0.0 | Free CC0 low-poly 3D models (GLB): rigged, animated animals, dinos, insects, pe… |
+| 2026-10-24 08:31:29 | [io.github.beggar-bot-x402/beggar-bot-mcp](https://github.com/beggar-bot-x402/beggar-bot-mcp) | Beggar Bot | 0.1.0 | x402 utilities on Base: USDC payment verification, risk scores, signed receipts… |
+| 2026-10-24 08:31:52 | [io.github.obseard223/tempstick-mcp](https://github.com/obseard223/tempstick-mcp) | Temp Stick (by OpenPandora) | 0.1.1 | Temp Stick MCP server by OpenPandora — check your freezer and temperature senso… |
+| 2026-10-24 08:32:58 | [com.murphys-laws/murphys-laws](https://github.com/ravidorr/murphys-laws) |  | 1.2.5 | Access thousands of Murphy's Laws: search, browse by category, random, daily, s… |
+| 2026-10-24 08:33:14 | net.trynanobanana/banana-art-lab | Banana Art Lab | 1.0.0 | Generate images with GPT Image 2, Nano Banana Pro and more, placed on your Bana… |
+| 2026-10-24 08:40:13 | de.fynvo/verzeichnis | Fynvo Firmenverzeichnis | 2.0.0 | Deutsche Unternehmen nach Leistung, Zertifikat und Umkreis finden, mit Quelle j… |
+| 2026-10-24 08:40:27 | io.github.mandiau-matthias/automatron-backlink-checker | Automatron · Aura Backlink Checker | 1.0.0 | Check known backlinks, anchors, rel tags and noindex. Paid Apify runs; unknown… |
+| 2026-10-24 08:44:57 | direct.bookhotels/hotel-price-check | BookHotels.direct | 0.44.1 | Is a hotel cheaper on its own website than on Booking.com? An honest, like-for-… |
+| 2026-10-24 08:47:59 | [io.github.editmamei/editmamei-photoshop-mcp](https://github.com/editmamei/editmamei) |  | 1.9.2 | Photoshop MCP server: natural-language AI photo editing in desktop Photoshop. A… |
+| 2026-10-24 08:51:04 | com.cvember/cvember | CVEmber | 1.0.0 | Tailor your resume to any job, get an ATS score and download the PDF from ChatG… |
+| 2026-10-24 08:51:23 | [io.github.open-salesblink/cold-email-salesblink](https://github.com/open-salesblink/skill) | SalesBlink Cold Email | 1.2.0 | Cold email sequences, leads, templates, senders, inbox, and analytics via the S… |
+| 2026-10-24 09:00:56 | [com.adswipefile/adswipefile](https://github.com/adswipefile/adswipefile-plugin) | AdSwipeFile | 1.0.0 | Winning Facebook and Instagram ads, competitor ads, hooks and angles for your A… |
+| 2026-10-24 09:01:22 | [com.viralswipefile/viralswipefile](https://github.com/viralswipefile/viralswipefile-plugin) | Viral Swipe File | 1.2.0 | Know what to post: viral TikToks and Instagram Reels with their hooks, filed by… |
+| 2026-10-24 09:08:32 | link.b59/b59-link | b59.link | 1.2.0 | Short links, QR codes and page-view trackers for AI agents, with click stats an… |
+| 2026-10-24 09:08:42 | com.email59/email59 | email59 | 0.5.0 | Send transactional email from AI agents: sign up by email code, no domain or DN… |
+| 2026-10-24 09:12:46 | com.suiso-daicho/suiso-daicho | すいそう台帳 (Suiso Daicho) | 1.0.0 | Water tank cleaning ledger (Japan): due dates, sites, reports, inbox. Bearer AP… |
+| 2026-10-24 09:12:50 | com.denki-tenken-note/denki-tenken-note | でんき点検ノート (Denki Tenken Note) | 1.0.0 | Electrical safety inspection ledger (Japan): schedules, sites, reports. Bearer… |
+| 2026-10-24 09:12:54 | io.github.verymint/mint | Mint | 0.1.0 | Work journal for coding agents: worklogs, tasks, project state and costs across… |
+| 2026-10-24 09:12:55 | com.inuneko-chobo/inuneko-chobo | いぬねこ帳簿 (Inuneko Chobo) | 1.0.0 | Dog/cat breeder records (Japan): mating limits, headcount, microchips. Bearer A… |
+| 2026-10-24 09:16:19 | com.thevibehosting.agentpad/agentpad | AgentPad | 2.2.0 | Agents-only token launchpad on Base: quotes, tokens and unsigned launch/buy/sel… |
 
 ## Data source
 

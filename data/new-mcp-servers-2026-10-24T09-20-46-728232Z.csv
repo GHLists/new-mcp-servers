@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-10-24T08:20:12.786159Z,com.folionomiq/folionomiq,Folionomiq,1.6.0,,streamable-http,"Measures a portfolio from price history: independent bets, what funds own, past crises. No advice."
+2026-10-24T08:20:55.145119Z,io.github.Ariescar/gobkit-free-3d,Gobkit Free 3D Models,1.0.0,,streamable-http,"Free CC0 low-poly 3D models (GLB): rigged, animated animals, dinos, insects, people. No key."
+2026-10-24T08:31:29.818025Z,io.github.beggar-bot-x402/beggar-bot-mcp,Beggar Bot,0.1.0,https://github.com/beggar-bot-x402/beggar-bot-mcp,,"x402 utilities on Base: USDC payment verification, risk scores, signed receipts ($0.01 USDC/call)."
+2026-10-24T08:31:52.725557Z,io.github.obseard223/tempstick-mcp,Temp Stick (by OpenPandora),0.1.1,https://github.com/obseard223/tempstick-mcp,,Temp Stick MCP server by OpenPandora — check your freezer and temperature sensors.
+2026-10-24T08:32:58.732041Z,com.murphys-laws/murphys-laws,,1.2.5,https://github.com/ravidorr/murphys-laws,,"Access thousands of Murphy's Laws: search, browse by category, random, daily, submit."
+2026-10-24T08:33:14.398915Z,net.trynanobanana/banana-art-lab,Banana Art Lab,1.0.0,,streamable-http,"Generate images with GPT Image 2, Nano Banana Pro and more, placed on your Banana Art Lab canvas."
+2026-10-24T08:40:13.768704Z,de.fynvo/verzeichnis,Fynvo Firmenverzeichnis,2.0.0,,streamable-http,"Deutsche Unternehmen nach Leistung, Zertifikat und Umkreis finden, mit Quelle je Angabe."
+2026-10-24T08:40:27.421609Z,io.github.mandiau-matthias/automatron-backlink-checker,Automatron · Aura Backlink Checker,1.0.0,,streamable-http,"Check known backlinks, anchors, rel tags and noindex. Paid Apify runs; unknown results unbilled."
+2026-10-24T08:44:57.123843Z,direct.bookhotels/hotel-price-check,BookHotels.direct,0.44.1,,streamable-http,"Is a hotel cheaper on its own website than on Booking.com? An honest, like-for-like check."
+2026-10-24T08:47:59.377922Z,io.github.editmamei/editmamei-photoshop-mcp,,1.9.2,https://github.com/editmamei/editmamei,,Photoshop MCP server: natural-language AI photo editing in desktop Photoshop. AI orchestration.
+2026-10-24T08:51:04.792683Z,com.cvember/cvember,CVEmber,1.0.0,,streamable-http,"Tailor your resume to any job, get an ATS score and download the PDF from ChatGPT or Claude."
+2026-10-24T08:51:23.376642Z,io.github.open-salesblink/cold-email-salesblink,SalesBlink Cold Email,1.2.0,https://github.com/open-salesblink/skill,streamable-http,"Cold email sequences, leads, templates, senders, inbox, and analytics via the SalesBlink API."
+2026-10-24T09:00:56.063491Z,com.adswipefile/adswipefile,AdSwipeFile,1.0.0,https://github.com/adswipefile/adswipefile-plugin,streamable-http,"Winning Facebook and Instagram ads, competitor ads, hooks and angles for your AI agent. Read-only."
+2026-10-24T09:01:22.01112Z,com.viralswipefile/viralswipefile,Viral Swipe File,1.2.0,https://github.com/viralswipefile/viralswipefile-plugin,streamable-http,"Know what to post: viral TikToks and Instagram Reels with their hooks, filed by niche and format."
+2026-10-24T09:08:32.004466Z,link.b59/b59-link,b59.link,1.2.0,,streamable-http,"Short links, QR codes and page-view trackers for AI agents, with click stats and email-code sign-up."
+2026-10-24T09:08:42.423884Z,com.email59/email59,email59,0.5.0,,streamable-http,"Send transactional email from AI agents: sign up by email code, no domain or DNS setup."
+2026-10-24T09:12:46.785159Z,com.suiso-daicho/suiso-daicho,すいそう台帳 (Suiso Daicho),1.0.0,,streamable-http,"Water tank cleaning ledger (Japan): due dates, sites, reports, inbox. Bearer API key required."
+2026-10-24T09:12:50.182243Z,com.denki-tenken-note/denki-tenken-note,でんき点検ノート (Denki Tenken Note),1.0.0,,streamable-http,"Electrical safety inspection ledger (Japan): schedules, sites, reports. Bearer API key required."
+2026-10-24T09:12:54.468637Z,io.github.verymint/mint,Mint,0.1.0,,streamable-http,"Work journal for coding agents: worklogs, tasks, project state and costs across projects."
+2026-10-24T09:12:55.012394Z,com.inuneko-chobo/inuneko-chobo,いぬねこ帳簿 (Inuneko Chobo),1.0.0,,streamable-http,"Dog/cat breeder records (Japan): mating limits, headcount, microchips. Bearer API key required."
+2026-10-24T09:16:19.612062Z,com.thevibehosting.agentpad/agentpad,AgentPad,2.2.0,,streamable-http,"Agents-only token launchpad on Base: quotes, tokens and unsigned launch/buy/sell/claim/vote txs."
