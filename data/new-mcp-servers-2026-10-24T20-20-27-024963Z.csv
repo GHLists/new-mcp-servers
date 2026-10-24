@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-24T19:22:38.04169Z,com.cp0x/public-data,cp0x public data,0.1.0,https://github.com/cp0x-org/cp0x-mcp,streamable-http,"Read-only cp0x data: referral deals and races, DeFi geo-restrictions, and x402 catalogs."
+2026-10-24T19:27:10.860222Z,net.pinggy.free.tdmpa-38-15-34-250/registry-verifier-target-a,Registry Verifier Target A,1.0.0,,streamable-http,MCP compatibility and transport verification server.
+2026-10-24T19:27:11.608066Z,net.pinggy.free.tdmpa-38-15-34-250/registry-verifier-target-b,Registry Verifier Target B,1.0.0,,streamable-http,MCP compatibility and transport verification server.
+2026-10-24T19:32:10.081628Z,io.github.oxygenframe/oxframe,oxframe,0.23.1,https://github.com/oxygenframe/oxframe-cli,,"Make videos from code: check scenes frame by frame, inspect nodes, render a frame, search the docs."
+2026-10-24T19:37:47.016773Z,com.presscart/presscart,,1.3.1,https://github.com/Presscart/presscart-mcp,streamable-http,"Browse 1,700+ publications and manage Presscart media placement campaigns, orders, and articles."
+2026-10-24T19:38:36.237372Z,com.istointents/intents,Isto Intents,0.2.0,,streamable-http,Ask a local listing portal to keep looking for a used car or home; the user confirms there.
+2026-10-24T19:39:06.006493Z,com.mambabuilt/mcp-local-business-lead-builder,,1.0.0,https://github.com/mambalabsdev/mcp-local-business-lead-builder,,"Local business leads from Google Maps: website, phone, address, rating, and reviews per business."
+2026-10-24T19:39:07.17784Z,com.mambabuilt/mcp-ecommerce-store-discovery,,1.0.0,https://github.com/mambalabsdev/mcp-ecommerce-store-discovery,,"Find Shopify, WooCommerce, and BigCommerce stores by product, confirmed on each homepage."
+2026-10-24T19:39:08.271315Z,com.mambabuilt/mcp-contractor-license-lookup,,1.0.0,https://github.com/mambalabsdev/mcp-contractor-license-lookup,,"Contractor license lookup and trade lists from CA, TX, WA, OR, and LA state licensing boards."
+2026-10-24T19:39:09.503615Z,com.mambabuilt/mcp-sequencer-event-poller,,1.0.0,https://github.com/mambalabsdev/mcp-sequencer-event-poller,,"Replies, bounces, meetings, and LinkedIn replies from Instantly, Smartlead, HeyReach, and lemlist"
+2026-10-24T19:39:47.155101Z,io.github.eamwhite1/xrpl-referee,,7.0.1,https://github.com/eamwhite1/xrpl-referee,streamable-http,"XRPL escrow for agent-to-agent payments: hire, prove, AI-audit, auto-pay on PASS."
+2026-10-24T19:40:17.014995Z,app.bitledger/bitledger,bitledger.app,1.0.0,,streamable-http,"Crypto tax ledger for Switzerland, Germany and Austria: review, tax figures, source of funds."
+2026-10-24T19:44:54.01239Z,io.github.zeroclaw-labs/zeroclaw-mcp,,0.1.0-alpha.4,https://github.com/zeroclaw-labs/zeroclaw-mcp-distribution,,Configure and manage authorized ZeroClaw installations through a local MCP server.
+2026-10-24T19:47:22.006023Z,io.github.flatrow-data-studio/hotel-and-product-prices,"Hotel & product prices: Booking.com, Google Hotels, Airbnb, Amazon, eBay",1.0.0,https://github.com/flatrow-data-studio/mcp-kits,streamable-http,"Hotel and product prices: Booking.com, Google Hotels, Expedia, Agoda, Airbnb, Amazon, Walmart, eBay."
+2026-10-24T19:50:04.619516Z,io.github.appleweed/poker-bots-all-stars,Poker Bots All Stars,1.0.0,,streamable-http,Play live Texas Hold'em as your own AI star against other AI agents while people watch.
+2026-10-24T19:51:06.627478Z,com.madecheck/madecheck,MadeCheck,1.0.0,,streamable-http,Free landed cost estimates and import requirements for US businesses buying from China.
+2026-10-24T19:51:13.080509Z,io.github.gregpelts/renaissance-dental-guide,Renaissance Dental Guide,0.1.0,,streamable-http,"Forest Hills practice information, insurance policy, doctors, hours, and appointment links."
+2026-10-24T19:51:16.46415Z,io.github.gregpelts/masha-pelts-dds-guide,Masha Pelts DDS Guide,0.1.0,,streamable-http,"Manhattan practice information, insurance policy, doctor background, hours, and appointment links."
+2026-10-24T19:58:46.42763Z,io.github.risyadul/lionscope,,0.9.0,https://github.com/risyadul/Lionscope,,"Android profiler and Layout Inspector: CPU, memory, frames, stalls, layouts, network, logcat"
+2026-10-24T19:59:35.202022Z,pro.bitstore/exchange,Bitstore exchange,1.0.0,,streamable-http,"Crypto and fiat exchange rates, limits and ready exchange links on bitstore.pro."
+2026-10-24T19:59:37.11651Z,io.rocketchange/exchange,RocketChange exchange,1.0.0,,streamable-http,"Crypto and fiat exchange rates, limits and ready exchange links on rocketchange.io."
+2026-10-24T20:11:00.010642Z,com.applistinglab/mcp,AppListingLab,0.1.1,,,"App Store and Google Play screenshots, ASO text and feature graphics from your AI agent"
+2026-10-24T20:13:48.108732Z,com.hotelvalora/mcp-demo,,1.0.0,,streamable-http,"Try HotelVALORA's hotel valuation MCP with a live sample asset, no account needed."
+2026-10-24T20:15:02.384928Z,io.github.gsabbih6/xrpay-agent-commerce,XRPay Agent Commerce,0.1.0,https://github.com/gsabbih6/ripple-pay,,"Discover and buy digital products with XRP or RLUSD, with private downloads, orders and receipts."
+2026-10-24T20:15:20.390861Z,to.appy/smart-links,Appy smart links,1.0.0,,streamable-http,"Create and edit Appy smart links for apps, and read their click and install stats."
+2026-10-24T20:15:55.572638Z,com.pokerbotsallstars/poker,Poker Bots All Stars,1.0.0,,streamable-http,"Live Texas Hold'em for AI agents: your assistant plays your 3D star, talks trash, anyone can watch."
+2026-10-24T20:18:35.061165Z,com.canvas64/wall,Canvas64,1.0.0-rc29,,streamable-http,"A wall of 64 ad cells on Base: owners, prices, buyouts and royalties, read-only, no key."

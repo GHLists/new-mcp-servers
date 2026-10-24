@@ -9,38 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 19:19 UTC
+## Latest list — 2026-10-24 20:20 UTC
 
-New MCP servers published between 2026-10-24 18:20 UTC and 2026-10-24 19:19 UTC.
+New MCP servers published between 2026-10-24 19:19 UTC and 2026-10-24 20:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-24T19-19-41-511801Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-24T20-20-27-024963Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-24 18:28:39 | [io.github.ChristophEnglisch/keycloak-model-context-protocol](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) |  | 1.0.1 | Manage Keycloak users, groups, roles and realms through the Keycloak Admin REST… |
-| 2026-10-24 18:30:47 | app.qrmaker/qr-maker | QR Maker | 1.0.0 | Create styled, scannable QR codes with previews, scan checks, editable links an… |
-| 2026-10-24 18:39:10 | [eu.karpata/karpata](https://github.com/weblabrepo/karpata.eu) | Karpata | 1.0.0 | Company data and live VAT risk checks for Slovakia, Czechia and Romania. |
-| 2026-10-24 18:41:37 | com.usespur/spur | Spur | 1.0.0 | Real estate leads, skip tracing, direct mail, SMS & email outreach, and marketi… |
-| 2026-10-24 18:42:16 | [io.github.csakaszamok/p7y](https://github.com/csakaszamok/p7y) | Purgatory (p7y) | 0.11.12 | Self-hosted Docker sandboxes for agents: create one, deploy a compose stack, re… |
-| 2026-10-24 18:42:59 | ai.apiant/apiant | APIANT | 1.0.0 | Build, run and manage APIANT automations across hundreds of apps. |
-| 2026-10-24 18:43:02 | io.github.brunckel/contractor-license-watch | Contractor License Watch (OR CCB + WA L… | 0.1.0 | Oregon CCB and Washington L&I contractor license status, expiry dates, and chan… |
-| 2026-10-24 18:43:03 | io.github.brunckel/dependency-vuln-check | Dependency Vulnerability Check (OSV) | 0.1.0 | Known vulnerabilities and fixed versions for npm, PyPI, Go, Maven packages from… |
-| 2026-10-24 18:43:03 | io.github.brunckel/cve-exploit-priority | CVE Exploit Priority (CISA KEV + EPSS) | 0.1.0 | CISA KEV status and EPSS scores for CVE IDs, ranked P1/P2/P3 for patching, via… |
-| 2026-10-24 18:43:48 | io.github.dario933/x402-paid-checks |  | 0.1.1 | Domain, email, vendor and ransomware checks paid per call in USDC via x402 from… |
-| 2026-10-24 18:47:19 | [io.github.arthiqlabs/vedaksha](https://github.com/arthiqlabs/vedaksha) |  | 10.0.0 | Vedic astrology and astronomical ephemeris: kundali, panchanga, dashas, vargas,… |
-| 2026-10-24 18:51:19 | io.github.tia-forge/plc-cloud-sim | PLC Cloud Sim — LAD/SCL simulation over… | 0.1.0 | Cloud PLC simulator: validate and step-run LAD/SCL programs, run scenarios, ret… |
-| 2026-10-24 18:51:23 | io.github.tia-forge/laddoc-cloud | LadDoc Cloud — LadDoc to SimaticML over… | 0.1.0 | Generate TIA Portal importable SimaticML (V19) from LadDoc IR, with strict vali… |
-| 2026-10-24 18:54:47 | com.shurava/shurava | Shurava | 1.0.0 | Run your Shurava focus groups from Claude — questions, polls, members, campaign… |
-| 2026-10-24 18:59:10 | co.youraitools/credits | YourAITools Credits | 0.2.0 | Prepaid credits for every YourAITools agent API: quote a call and check a credi… |
-| 2026-10-24 19:01:03 | si.mttr/mttr | mttr | 1.0.0 | Reads a site as search engines and AI assistants do, ranks its fixes, and check… |
-| 2026-10-24 19:04:36 | io.github.souravsspace/netweft | netweft | 0.1.1 | Read an SEO workspace: projects, keywords, rank tracking, site audits, context.… |
-| 2026-10-24 19:05:13 | io.github.CodyBontecou/thumble | Thumble | 0.1.0 | Inspect saved Thumble controller layouts, registered phones, and delivery recei… |
-| 2026-10-24 19:08:00 | dev.workers.toolschemaforge.toolschema-forge/toolschema-forge | ToolSchema Forge | 1.1.0 | Convert, lint and generate LLM tool schemas for OpenAI, Anthropic, Gemini and M… |
-| 2026-10-24 19:11:01 | com.robinsonaisystems/github | Robinson MCP for GitHub | 0.1.0 | Operate GitHub from your AI assistant: repos, PRs, issues, Actions. Previews an… |
-| 2026-10-24 19:15:53 | [io.github.adamkrawczyk/agentpact](https://github.com/adamkrawczyk/agentpact-mcp-server) | AgentPact | 0.2.0 | Agent-to-agent marketplace: discover offers, answer needs, negotiate deals, set… |
-| 2026-10-24 19:19:07 | [sh.nextmail/mcp](https://github.com/nextmailhq/mcp) | Nextmail | 1.0.2 | Read, search, reply to and send email from your own Nextmail mailbox, with cont… |
-| 2026-10-24 19:19:08 | com.standardblanks/shop | Standard Blanks | 1.0.0 | Search blank apparel, check availability, price orders and build a cart on stan… |
-| 2026-10-24 19:19:27 | ai.realton/mcp | Realton | 1.0.0 | Off-plan real estate catalog in five markets and an agency's CRM, for real esta… |
+| 2026-10-24 19:22:38 | [com.cp0x/public-data](https://github.com/cp0x-org/cp0x-mcp) | cp0x public data | 0.1.0 | Read-only cp0x data: referral deals and races, DeFi geo-restrictions, and x402… |
+| 2026-10-24 19:27:10 | net.pinggy.free.tdmpa-38-15-34-250/registry-verifier-target-a | Registry Verifier Target A | 1.0.0 | MCP compatibility and transport verification server. |
+| 2026-10-24 19:27:11 | net.pinggy.free.tdmpa-38-15-34-250/registry-verifier-target-b | Registry Verifier Target B | 1.0.0 | MCP compatibility and transport verification server. |
+| 2026-10-24 19:32:10 | [io.github.oxygenframe/oxframe](https://github.com/oxygenframe/oxframe-cli) | oxframe | 0.23.1 | Make videos from code: check scenes frame by frame, inspect nodes, render a fra… |
+| 2026-10-24 19:37:47 | [com.presscart/presscart](https://github.com/Presscart/presscart-mcp) |  | 1.3.1 | Browse 1,700+ publications and manage Presscart media placement campaigns, orde… |
+| 2026-10-24 19:38:36 | com.istointents/intents | Isto Intents | 0.2.0 | Ask a local listing portal to keep looking for a used car or home; the user con… |
+| 2026-10-24 19:39:06 | [com.mambabuilt/mcp-local-business-lead-builder](https://github.com/mambalabsdev/mcp-local-business-lead-builder) |  | 1.0.0 | Local business leads from Google Maps: website, phone, address, rating, and rev… |
+| 2026-10-24 19:39:07 | [com.mambabuilt/mcp-ecommerce-store-discovery](https://github.com/mambalabsdev/mcp-ecommerce-store-discovery) |  | 1.0.0 | Find Shopify, WooCommerce, and BigCommerce stores by product, confirmed on each… |
+| 2026-10-24 19:39:08 | [com.mambabuilt/mcp-contractor-license-lookup](https://github.com/mambalabsdev/mcp-contractor-license-lookup) |  | 1.0.0 | Contractor license lookup and trade lists from CA, TX, WA, OR, and LA state lic… |
+| 2026-10-24 19:39:09 | [com.mambabuilt/mcp-sequencer-event-poller](https://github.com/mambalabsdev/mcp-sequencer-event-poller) |  | 1.0.0 | Replies, bounces, meetings, and LinkedIn replies from Instantly, Smartlead, Hey… |
+| 2026-10-24 19:39:47 | [io.github.eamwhite1/xrpl-referee](https://github.com/eamwhite1/xrpl-referee) |  | 7.0.1 | XRPL escrow for agent-to-agent payments: hire, prove, AI-audit, auto-pay on PAS… |
+| 2026-10-24 19:40:17 | app.bitledger/bitledger | bitledger.app | 1.0.0 | Crypto tax ledger for Switzerland, Germany and Austria: review, tax figures, so… |
+| 2026-10-24 19:44:54 | [io.github.zeroclaw-labs/zeroclaw-mcp](https://github.com/zeroclaw-labs/zeroclaw-mcp-distribution) |  | 0.1.0-alpha.4 | Configure and manage authorized ZeroClaw installations through a local MCP serv… |
+| 2026-10-24 19:47:22 | [io.github.flatrow-data-studio/hotel-and-product-prices](https://github.com/flatrow-data-studio/mcp-kits) | Hotel & product prices: Booking.com, Go… | 1.0.0 | Hotel and product prices: Booking.com, Google Hotels, Expedia, Agoda, Airbnb, A… |
+| 2026-10-24 19:50:04 | io.github.appleweed/poker-bots-all-stars | Poker Bots All Stars | 1.0.0 | Play live Texas Hold'em as your own AI star against other AI agents while peopl… |
+| 2026-10-24 19:51:06 | com.madecheck/madecheck | MadeCheck | 1.0.0 | Free landed cost estimates and import requirements for US businesses buying fro… |
+| 2026-10-24 19:51:13 | io.github.gregpelts/renaissance-dental-guide | Renaissance Dental Guide | 0.1.0 | Forest Hills practice information, insurance policy, doctors, hours, and appoin… |
+| 2026-10-24 19:51:16 | io.github.gregpelts/masha-pelts-dds-guide | Masha Pelts DDS Guide | 0.1.0 | Manhattan practice information, insurance policy, doctor background, hours, and… |
+| 2026-10-24 19:58:46 | [io.github.risyadul/lionscope](https://github.com/risyadul/Lionscope) |  | 0.9.0 | Android profiler and Layout Inspector: CPU, memory, frames, stalls, layouts, ne… |
+| 2026-10-24 19:59:35 | pro.bitstore/exchange | Bitstore exchange | 1.0.0 | Crypto and fiat exchange rates, limits and ready exchange links on bitstore.pro. |
+| 2026-10-24 19:59:37 | io.rocketchange/exchange | RocketChange exchange | 1.0.0 | Crypto and fiat exchange rates, limits and ready exchange links on rocketchange… |
+| 2026-10-24 20:11:00 | com.applistinglab/mcp | AppListingLab | 0.1.1 | App Store and Google Play screenshots, ASO text and feature graphics from your… |
+| 2026-10-24 20:13:48 | com.hotelvalora/mcp-demo |  | 1.0.0 | Try HotelVALORA's hotel valuation MCP with a live sample asset, no account need… |
+| 2026-10-24 20:15:02 | [io.github.gsabbih6/xrpay-agent-commerce](https://github.com/gsabbih6/ripple-pay) | XRPay Agent Commerce | 0.1.0 | Discover and buy digital products with XRP or RLUSD, with private downloads, or… |
+| 2026-10-24 20:15:20 | to.appy/smart-links | Appy smart links | 1.0.0 | Create and edit Appy smart links for apps, and read their click and install sta… |
+| 2026-10-24 20:15:55 | com.pokerbotsallstars/poker | Poker Bots All Stars | 1.0.0 | Live Texas Hold'em for AI agents: your assistant plays your 3D star, talks tras… |
+| 2026-10-24 20:18:35 | com.canvas64/wall | Canvas64 | 1.0.0-rc29 | A wall of 64 ad cells on Base: owners, prices, buyouts and royalties, read-only… |
 
 ## Data source
 
