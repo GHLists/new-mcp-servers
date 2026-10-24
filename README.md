@@ -9,53 +9,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 17:25 UTC
+## Latest list — 2026-10-24 18:20 UTC
 
-New MCP servers published between 2026-10-24 16:21 UTC and 2026-10-24 17:25 UTC.
+New MCP servers published between 2026-10-24 17:25 UTC and 2026-10-24 18:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-24T17-25-34-897353Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-24T18-20-17-44261Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-24 16:21:49 | [io.github.RanuK12/ada-audits](https://github.com/RanuK12/ADA-Audits) | Ranuk Web Accessibility & AST Security… | 1.0.0 | Edge MCP Server for live WCAG 2.1 AA accessibility compliance and AST security… |
-| 2026-10-24 16:24:00 | ai.vynn/grocery-prices | VynnAI Canadian grocery prices | 1.0.0 | Canadian grocery shelf prices from 80+ stores, every province. Free key: 100 ca… |
-| 2026-10-24 16:24:02 | io.github.callirra-ai/mcp | Callirra | 0.3.0 | Create images, video and audio; chat with multimodal AI; manage assets and reus… |
-| 2026-10-24 16:24:49 | com.unifiedreading/unified-reading | Unified Reading | 1.0.0 | Life Path number, Sun sign and Chinese zodiac for a birth date, plus Lunar New… |
-| 2026-10-24 16:25:05 | [io.github.honestkit/honestkit-mcp](https://github.com/honestkit/honestkit-mcp) |  | 0.1.0 | 14 web-data tools (WHOIS/DNS/SSL, SEO audit, sitemaps, tech stack, articles, PD… |
-| 2026-10-24 16:27:01 | io.drint/drint | Drint | 1.0.0 | Packaging dielines (FEFCO/ECMA), 3D box and bag mockups, and your Drint project… |
-| 2026-10-24 16:28:19 | [io.github.xalantis-hub/xalantis-mcp](https://github.com/xalantis-hub/xalantis-mcp) | Xalantis | 0.3.1 | Tickets, CRM, contracts, projects and the whole Xalantis public API from your A… |
-| 2026-10-24 16:31:42 | [io.github.xerj-org/xerj](https://github.com/xerj-org/xerj) | XERJ | 1.0.0-rc.98 | The search engine for AI agents: cited answers from your local code, docs, spec… |
-| 2026-10-24 16:35:09 | io.github.X-PACT/pdao-agent-exchange | PrivateDAO Agent Exchange | 1.6.0 | PrivateDAO services for verification, multichain intelligence, risk, and agent… |
-| 2026-10-24 16:43:53 | io.hibira/mcp | Hibira | 1.0.0 | Create and manage Hibira realtime apps (Pusher protocol compatible) from your A… |
-| 2026-10-24 16:47:23 | com.shootika/shootika | Shootika | 1.0.0 | Makes on-model clothing photos for online stores: pick a model and scene, shoot… |
-| 2026-10-24 16:49:16 | io.howwe/howwe | Howwe | 0.50.0 | Read and update your Howwe strategy: initiatives, MIGs, milestones, activities… |
-| 2026-10-24 16:52:21 | [com.rooyun/rooyun](https://github.com/DeepHiveAI/rooyun-skill) | RooYun | 1.41.0 | AI comic & short-drama studio: scripts to storyboards, image/video generation o… |
-| 2026-10-24 16:53:53 | [io.github.aowang-ai/finance-mcp](https://github.com/aowang-ai/finance-mcp-connectors) | Finance MCP | 0.1.0 | Hosted MCP server for SEC, FRED, Polymarket, Deribit, OKX, and FMP. |
-| 2026-10-24 16:56:36 | [io.github.Ukraine-Territorial-MCP/ukraine-schools-mcp](https://github.com/Ukraine-Territorial-MCP/ukraine-schools-mcp) | Ukraine Schools MCP | 1.0.0 | Ukrainian schools, community search and education budgets. Sources: EDBO, KATOT… |
-| 2026-10-24 17:02:14 | [io.github.KalshiEye/kalshieye-mcp](https://github.com/KalshiEye/kalshieye-mcp) | Kalshi Eye | 0.1.0 | Search Kalshi, Polymarket and Limitless markets, order book history, coverage a… |
-| 2026-10-24 17:05:19 | [io.github.serenido/aliexpress-dropshipping](https://github.com/serenido/aliexpress-dropshipping) | AliExpress Dropshipping: Winning Produc… | 1.0.0 | Find winning AliExpress products: real orders, shipping to your country, landed… |
-| 2026-10-24 17:05:19 | [io.github.serenido/aliexpress-product-details](https://github.com/serenido/aliexpress-product-details-scraper) | AliExpress Product Details: Shipping Co… | 1.0.0 | AliExpress product data by link or id: variant prices and stock, shipping cost… |
-| 2026-10-24 17:05:20 | [io.github.serenido/aliexpress-search](https://github.com/serenido/aliexpress-search-scraper) | AliExpress Search: Best Selling Product… | 1.0.0 | Search AliExpress by keyword: price, discount, exact order count, rating, shipp… |
-| 2026-10-24 17:05:20 | [io.github.serenido/bilibili](https://github.com/serenido/bilibili-scraper) | Bilibili: Videos, Comments, Danmaku & C… | 1.0.0 | Bilibili (B站) data without login: video stats, comments, danmaku, creators, tre… |
-| 2026-10-24 17:05:20 | [io.github.serenido/coles-woolworths-aldi](https://github.com/serenido/coles-woolworths-aldi-scraper) | Australian Supermarket Prices: Coles, W… | 1.0.0 | Search Coles, Woolworths and ALDI at once: prices, unit prices, specials, cheap… |
-| 2026-10-24 17:05:20 | [io.github.serenido/football-xg](https://github.com/serenido/football-xg-scraper) | Football xG: Understat Matches, Shots &… | 1.0.0 | Understat football xG data: xG tables, matches, shots, players and lineups for… |
-| 2026-10-24 17:05:20 | [io.github.serenido/google-trends](https://github.com/serenido/google-trends-scraper) | Google Trends: Interest Over Time, Risi… | 1.0.0 | Google Trends data as JSON: interest over time, rising and top queries, regions… |
-| 2026-10-24 17:05:20 | [io.github.serenido/wechat-official-account](https://github.com/serenido/wechat-official-account-scraper) | WeChat Official Account Articles (公众号):… | 1.0.0 | Search WeChat Official Account (公众号) articles by keyword or link: full text, ac… |
-| 2026-10-24 17:05:21 | [io.github.serenido/weibo-hot-search](https://github.com/serenido/weibo-hot-search) | Weibo Hot Search (微博热搜): Trending Topic… | 1.0.0 | Live Weibo hot search list (微博热搜): rank, heat, label, changes since last run, t… |
-| 2026-10-24 17:05:21 | [io.github.serenido/weibo](https://github.com/serenido/weibo-scraper) | Weibo: Posts, Hot Searches, Comments &… | 1.0.0 | Weibo (微博) data without login: hot searches, posts by keyword, comments, creato… |
-| 2026-10-24 17:11:38 | [page.stride/stride](https://github.com/Newlight-Solutions/stride-plugins) | Stride — AI software delivery platform | 1.0.0 | Your team's stories, acceptance criteria, designs and docs, for coding agents.… |
-| 2026-10-24 17:12:54 | net.pinggy.free.njjtx-38-15-34-250/registry-verifier-probe | Registry Verifier Probe | 1.0.0 | MCP compatibility and transport verification server. |
-| 2026-10-24 17:16:27 | io.github.BenUsername/aiso | Aiso | 1.0.0 | Inspect AI brand visibility, tracked prompts, competitors, citations and search… |
-| 2026-10-24 17:16:51 | co.youraitools/toolfit | ToolFit + MCPCheck | 0.1.0 | Audit, pin and diff agent tool lists; preflight remote MCP servers. Free tier;… |
-| 2026-10-24 17:16:52 | co.youraitools/toolroute | ToolRoute | 0.1.0 | Route each agent task to the few tools it needs (BM25 shortlist). Free tier; x4… |
-| 2026-10-24 17:17:31 | [io.github.junyeong-nero/kitsune](https://github.com/junyeong-nero/kitsune) | Kitsune | 0.4.1 | Let your coding agent use the Firefox, Zen, or LibreWolf browser you already ha… |
-| 2026-10-24 17:17:39 | com.tuncorb/orb | Tunc Orb | 1.0.0 | Your agents' personal cloud database: records and logs every agent you connect… |
-| 2026-10-24 17:17:47 | com.tuncart/art | Tunc Art | 1.0.0 | Your agents' private file sharing: each file your AI makes gets a short link th… |
-| 2026-10-24 17:18:32 | net.pinggy.free.njjtx-38-15-34-250/registry-verifier-probe-b | Registry Verifier Probe B | 1.0.0 | MCP compatibility and transport verification server. |
-| 2026-10-24 17:18:46 | [io.github.sapientsai/microsoft365-mcp-server](https://github.com/sapientsai/microsoft365-mcp-server) |  | 1.2.16 | Microsoft 365 via Graph — mail, calendar, contacts, files, Teams, Planner, OneN… |
-| 2026-10-24 17:18:50 | [io.github.mcpspan/mcpspan](https://github.com/mcpspan/mcpspan) | mcpspan | 0.9.0 | Ask your agent about your MCP servers: failing tools, releases, clients, sessio… |
-| 2026-10-24 17:23:25 | net.campaignly/mcp | Campaignly | 3.15.0 | Plan, launch and report on local marketing campaigns across Google, Meta and Li… |
-| 2026-10-24 17:24:09 | com.mayamemo/mcp | MayaMemo | 1.0.0 | Evidence-backed project memory and checkpoints for AI coding agents. |
+| 2026-10-24 17:26:41 | [io.github.SarutobiSasuke8/agent-handoff-mcp](https://github.com/SarutobiSasuke8/agent-handoff-mcp) | Agent Handoff MCP | 0.1.0 | Bounded, auditable handoffs between AI agents through a local MCP server. |
+| 2026-10-24 17:26:42 | [io.github.SarutobiSasuke8/obsidian-github-mcp](https://github.com/SarutobiSasuke8/obsidian-github-mcp) | Obsidian GitHub MCP | 0.1.0 | A permissioned MCP gateway for agent proposals to a Git-backed Obsidian vault. |
+| 2026-10-24 17:28:48 | app.getbeep/beep | Beep | 1.0.0 | Shared memory for AIs. Share a project with anyone and their AI knows everythin… |
+| 2026-10-24 17:30:20 | com.duoleads.keywords/keyword-search-volume-google-trends | Keyword Search Volume, CPC, Keyword Ide… | 1.0.0 | Google keyword search volume, CPC, difficulty, keyword ideas and Google Trends.… |
+| 2026-10-24 17:30:20 | com.duoleads.derivs/perp-funding-rates-open-interest | Crypto Derivatives Data: Perp Funding R… | 1.0.0 | Perp funding rates, open interest, futures basis, IV, liquidations, order books… |
+| 2026-10-24 17:30:33 | [io.github.Meador793/stats-explorer-mcp](https://github.com/meador793/stats-explorer-mcp) | Stats Explorer | 1.5.1 | Verified statistics for AI agents: guided tests, A/B tests, Tukey HSD, reports,… |
+| 2026-10-24 17:31:18 | io.github.Ops119/ventis | Ventis | 0.2.0 | Crypto market data for AI agents. Pro tools paid per call in USDC on Solana via… |
+| 2026-10-24 17:35:18 | com.trysuara/suara | Suara | 1.0.0 | Social media posts for small businesses from their own photos. Owner approves e… |
+| 2026-10-24 17:35:33 | com.trialtrap/trialtrap | Trialtrap | 0.11.1 | Finds the subscriptions in your email and reminds you before a trial or renewal… |
+| 2026-10-24 17:37:37 | [com.quanttogo/quanttogo-mcp](https://github.com/QuantToGo/quanttogo-mcp) | QuantToGo 说法百科 | 1.0.0 | QuantToGo 说法百科的 MCP 服务：A 股持仓风险读数、持有理由核对、每天替你盯着的风控单。 |
+| 2026-10-24 17:38:17 | io.github.VKarich/picjury | PicJury | 1.0.0 | Photo polls in chat: friends vote on which of 2 to 6 photos is best through one… |
+| 2026-10-24 17:40:22 | io.github.Rwb3n/instagram-transcripts | Instagram Reel Transcripts from audio (… | 1.0.0 | Instagram reel transcripts from the audio, in the language spoken, via Apify. S… |
+| 2026-10-24 17:40:31 | [io.github.Wallet-Wall/walletwall](https://github.com/Wallet-Wall/walletwallrus-copilot) | WalletWall | 0.2.0 | Stablecoin intelligence and vault readiness through WalletWall MCP. |
+| 2026-10-24 17:47:32 | net.pinggy.free.njjtx-38-15-34-250/registry-verifier-target-a | Registry Verifier Target A | 1.0.0 | MCP compatibility and transport verification server. |
+| 2026-10-24 17:47:33 | net.pinggy.free.njjtx-38-15-34-250/registry-verifier-target-b | Registry Verifier Target B | 1.0.0 | MCP compatibility and transport verification server. |
+| 2026-10-24 17:50:53 | [dev.minitok/minitok](https://github.com/floticinfo/minitok) | minitok | 1.5.4 | Verified coding workflows with planning, verification, bounded retries, evidenc… |
+| 2026-10-24 17:51:30 | com.moon-oh/moonoh-marketplace | Moonoh NYC & NJ Marketplace | 1.0.0 | Search 34,601 items (20,455 marketplace + 14,116 local shop items) across NYC &… |
+| 2026-10-24 17:55:54 | [io.github.rrvrs/jira-alerts-mcp](https://github.com/rrvrs/jira-alerts-mcp) | Jira Alerts (JSM Operations) | 2.1.1 | MCP server for Jira Service Management Operations — alerts, on-call schedules a… |
+| 2026-10-24 17:57:00 | [money.stables/mcp](https://github.com/stables-money/mcp-server) | Stables | 2.6.1 | Stablecoin payments for AI agents: customers, quotes, transfers, payment routes. |
+| 2026-10-24 17:58:02 | [io.github.halfspacelabs/facet](https://github.com/halfspacelabs/facet-plugins) | Facet | 1.0.0 | Build, check and call a specialized model for one narrow task, from your agent. |
+| 2026-10-24 17:59:46 | [io.github.vaquarkhan/mcp-bastion](https://github.com/vaquarkhan/MCP-Bastion) | MCP-Bastion | 4.1.0 | Security middleware for MCP. Blocks prompt injection, PII leakage, and resource… |
+| 2026-10-24 18:02:12 | ai.tallynexa/tallynexa | TallyNexa | 1.0.0 | Ask about your TallyPrime books: who owes you, what you owe, sales, stock, GST… |
+| 2026-10-24 18:03:31 | [io.github.scrubguard-dev/scrubguard](https://github.com/scrubguard-dev/scrubguard) | ScrubGuard | 1.0.0 | Local-first PII and secret scrubber with checksum checks and reversible LLM tok… |
+| 2026-10-24 18:04:22 | com.jonakisoft/schooldesk | SchoolDesk | 0.1.0 | SchoolDesk (Bangladesh school, college & madrasa software): students, attendanc… |
+| 2026-10-24 18:04:23 | com.jonakisoft/pharmadesk | PharmaDesk | 0.1.0 | Pharmacy POS (Bangladesh): ask about stock, expiry, sales, profit, dues and pur… |
+| 2026-10-24 18:04:24 | com.jonakisoft/clinicdesk | ClinicDesk | 0.1.0 | ClinicDesk (Bangladesh hospital, clinic & diagnostic lab software): patients, b… |
+| 2026-10-24 18:04:25 | com.jonakisoft/hrdesk | HRDesk | 0.1.0 | HRDesk: HR & payroll for Bangladeshi companies — employees, attendance, leave,… |
+| 2026-10-24 18:04:26 | com.jonakisoft/gymdesk | GymDesk | 0.1.0 | GymDesk: gym management (Bangladesh) — members, renewals, check-ins, dues, PT,… |
+| 2026-10-24 18:04:27 | com.jonakisoft/gasdesk |  | 0.1.0 | LPG gas cylinder dealer POS for Bangladesh: sales, cylinder stock, customer due… |
+| 2026-10-24 18:04:28 | com.jonakisoft/retaildesk |  | 0.1.0 | Retail and super shop POS for Bangladesh: sales, stock, purchases, customer and… |
+| 2026-10-24 18:07:03 | [io.github.Ryrahul/session-relay](https://github.com/Ryrahul/session-relay) | Session Relay | 0.5.1 | Share coding-agent sessions with your team: /share in one agent, /pickup in ano… |
+| 2026-10-24 18:07:13 | com.trycloudflare.emails-ship-peninsula-deliver/registry-verifier-target-a | Registry Verifier Target A | 1.0.0 | MCP compatibility and transport verification server. |
+| 2026-10-24 18:07:14 | com.trycloudflare.emails-ship-peninsula-deliver/registry-verifier-target-b | Registry Verifier Target B | 1.0.0 | MCP compatibility and transport verification server. |
+| 2026-10-24 18:08:29 | [io.github.slyaidevelop/miami44](https://github.com/slyaidevelop/base44-miami) |  | 1.0.0 | Find Miami businesses, read their sites, and send reservation or quote requests… |
+| 2026-10-24 18:10:58 | ai.mafdet/mcp |  | 1.4.40 | Read-only Mafdet AI account tools (models, balance, usage, subscription) and do… |
+| 2026-10-24 18:13:03 | com.loverflaw/loverflaw | Loverflaw | 1.3.0 | Court other AI agents on Loverflaw: thirty-word messages, gates, seven-day cloc… |
+| 2026-10-24 18:13:05 | io.github.kkfir13/valuedge | ValuEdge Stock Research MCP | 1.0.0 | Read-only stock research; OAuth unlocks your own portfolio, watchlist, and Smar… |
+| 2026-10-24 18:18:38 | [io.github.dutifyai/dutify](https://github.com/dutifyai/dutify-cloud-ai-skill) | Dutify | 0.1.0 | Whole Dutify suite in one server: Hub call recordings, projects, Codexum wiki,… |
 
 ## Data source
 
