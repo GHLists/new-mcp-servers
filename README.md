@@ -9,32 +9,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 02:19 UTC
+## Latest list — 2026-10-24 03:21 UTC
 
-New MCP servers published between 2026-10-24 01:18 UTC and 2026-10-24 02:19 UTC.
+New MCP servers published between 2026-10-24 02:19 UTC and 2026-10-24 03:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-24T02-19-10-225461Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-24T03-21-50-97874Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-24 01:35:14 | ai.soundberry/soundberry | SoundBerry | 1.0.0 | AI music tools for producers: generate tracks and stems, split stems, detect te… |
-| 2026-10-24 01:39:48 | com.crawlerzoo/arena | The Crawler Zoo Arena | 1.0.0 | Games for AI agents: negotiation, social deduction, racing and puzzles, vs bots… |
-| 2026-10-24 01:44:36 | [io.github.alphaparkinc/genpark-trie-prefix-keyword-matcher-skill](https://github.com/alphaparkinc/genpark-trie-prefix-keyword-matcher-skill) | GenPark Trie Prefix Keyword Matcher | 1.0.1 | High-performance in-memory Trie and multi-keyword search engine for prompt rout… |
-| 2026-10-24 01:44:45 | [io.github.alphaparkinc/genpark-consistent-hash-ring-router-skill](https://github.com/alphaparkinc/genpark-consistent-hash-ring-router-skill) | GenPark Consistent Hash Ring Router | 1.0.1 | Consistent hashing ring with virtual nodes for distributed LLM cache routing an… |
-| 2026-10-24 01:44:51 | [io.github.alphaparkinc/genpark-exponential-backoff-jitter-retry-skill](https://github.com/alphaparkinc/genpark-exponential-backoff-jitter-retry-skill) | GenPark Exponential Backoff Jitter Retry | 1.0.1 | Enterprise retry engine with full jitter, decorrelated jitter, and truncated ex… |
-| 2026-10-24 01:44:58 | [io.github.alphaparkinc/genpark-json-schema-contract-validator-skill](https://github.com/alphaparkinc/genpark-json-schema-contract-validator-skill) | GenPark JSON Schema Contract Validator | 1.0.1 | Zero-dependency JSON schema subset validator ensuring LLM structured outputs st… |
-| 2026-10-24 01:45:05 | [io.github.alphaparkinc/genpark-priority-event-scheduler-queue-skill](https://github.com/alphaparkinc/genpark-priority-event-scheduler-queue-skill) | GenPark Priority Event Scheduler Queue | 1.0.1 | Min-heap priority event scheduler and delayed task dispatcher for asynchronous… |
-| 2026-10-24 01:45:58 | io.github.balrok12/archive-md | archive.md MCP & Data Hub | 3.0.0 | Korean policy & finance facts with primary-source citations (laws, gov notices)… |
-| 2026-10-24 01:46:40 | [com.clypmint/broll](https://github.com/nuttallp/clypmint-broll) | Clypmint B-Roll | 1.0.0 | B-roll for agents: real, verified, licensed photos and footage of exactly what… |
-| 2026-10-24 01:47:32 | co.youraitools/hub | YourAITools MCP Hub | 1.0.0 | All 20 YourAITools agent APIs in one MCP server. Most tools free; pay with cred… |
-| 2026-10-24 01:48:12 | app.dataclue/catalog | DataClue — AI training data | 1.0.0 | Search and license real-world AI training data: egocentric video, UMI gripper d… |
-| 2026-10-24 01:51:18 | [io.github.kansal-mukul/mcp-security-sanitizer](https://github.com/kansal-mukul/mcp-security-sanitizer) | MCP Security Sanitizer | 1.0.0 | Redacts common secrets, email addresses, and phone numbers. |
-| 2026-10-24 01:53:08 | com.mcpcanary/inspect | MCP Canary | 1.0.0 | Inspect any remote MCP server: transport, protocol, tools, and side-effect hint… |
-| 2026-10-24 01:56:20 | com.brickyourface/brick-mosaic | BrickYourFace: photo to brick mosaic | 1.0.0 | Turn a photo into a LEGO-compatible brick mosaic kit: watermarked preview, pric… |
-| 2026-10-24 01:57:09 | [sale.finda/findasale](https://github.com/deseee/findasale) | FindA.Sale | 2.0.0 | Find yard sales, garage sales, auctions, flea markets and resale shops, and sea… |
-| 2026-10-24 01:58:50 | ai.tazilo/profiles | Tazilo | 1.0.0 | Verified professional profiles from tazilo.ai/@handle links: experience, leader… |
-| 2026-10-24 02:08:08 | [io.github.ghlee0786/flow-learning-system](https://github.com/ghlee0786/flow-learning-system) | Flow Learning System | 0.1.0 | Build motion-graphics lessons with sentence-synced TTS for any subject: one sen… |
-| 2026-10-24 02:09:13 | org.hangel/hangel | hangel | 1.0.0 | hangel (Turkiye): NGOs, events, volunteering, open grants, donation-linked stor… |
+| 2026-10-24 02:23:19 | co.apillow/zillow | Zillow Property Data (APIllow) | 0.1.4 | Zillow property data for AI agents, 50+ fields per US property. Not affiliated… |
+| 2026-10-24 02:25:32 | app.vercel.pass-through-tax-rules/pass-through-tax-rules | Pass-through tax rules | 0.1.0 | Cited, tax-year-dated rules for state PTET, the federal SALT cap, and bonus-dep… |
+| 2026-10-24 02:28:24 | [io.github.ZhongQuinnKing/xiange-mcp](https://github.com/ZhongQuinnKing/xiange) | Xiange Music MCP | 0.2.1 | Local MCP server, eight music tools: OMR, transcription, theory and notation ch… |
+| 2026-10-24 02:39:25 | com.gokuna/gokuna | GoKuna | 1.0.0 | Pay real people for photo and video proof from the physical world. No fee on to… |
+| 2026-10-24 02:41:55 | [io.github.reelary/cli](https://github.com/reelary/cli) | Reelary | 0.1.1 | Search your own videos and photos by meaning and cut them into a video, 100% lo… |
+| 2026-10-24 02:51:25 | [dev.xakpc/sqlite-mcp-sidecar](https://github.com/xakpc/sqlite-mcp-sidecar) | SQLite MCP Sidecar | 0.1.3 | Agent-safe MCP sidecar for one live SQLite database: read-only default, bounded… |
+| 2026-10-24 02:52:05 | [dev.testsy/testsy](https://github.com/nhatlongsinh/testsy-integrations) | Testsy | 1.0.0 | Run plain-English web QA tests and inspect check results and evidence. |
+| 2026-10-24 03:05:17 | link.morningbrief/weather | Weather — NOAA Conditions, Forecasts &… | 1.0.0 | NOAA weather for AI agents: conditions, forecasts, observed history. 3 tools, f… |
+| 2026-10-24 03:07:58 | [io.github.Ashon/supragnosis](https://github.com/Ashon/supragnosis) | supragnosis | 0.10.2 | Memory for AI agents that remembers who said it. |
+| 2026-10-24 03:12:27 | si.melb/data | melb.si data for agents | 1.0.0 | Melbourne public holidays, small business AI help, AI events and rules, everyda… |
+| 2026-10-24 03:15:02 | [io.github.hongping-zh/ecocompute-estimator](https://github.com/hongping-zh/quant-energy) | EcoCompute Should-I-Quantize Estimator | 1.0.0 | Energy impact of LLM quantization, calibrated to measured GPU data. Every answe… |
+| 2026-10-24 03:16:30 | [io.github.allooloo/eco](https://github.com/allooloo/cm-kg) | Electronic Compliance Objects (49 marke… | 1.0.0 | Each market's disclosure regime as one sourced, signed object, with the issuer'… |
+| 2026-10-24 03:16:30 | [io.github.allooloo/acm-signals](https://github.com/allooloo/cm-kg) | ACM-68000 signals for listed issuers | 1.0.0 | The ACM-68000 signal of a listed security in its home market: trading, not list… |
 
 ## Data source
 

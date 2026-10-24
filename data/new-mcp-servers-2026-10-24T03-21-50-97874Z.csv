@@ -1,0 +1,14 @@
+created_at,server,title,version,repository,transports,description
+2026-10-24T02:23:19.051951Z,co.apillow/zillow,Zillow Property Data (APIllow),0.1.4,,,"Zillow property data for AI agents, 50+ fields per US property. Not affiliated with Zillow Group."
+2026-10-24T02:25:32.542887Z,app.vercel.pass-through-tax-rules/pass-through-tax-rules,Pass-through tax rules,0.1.0,,streamable-http,"Cited, tax-year-dated rules for state PTET, the federal SALT cap, and bonus-depreciation conformity."
+2026-10-24T02:28:24.753436Z,io.github.ZhongQuinnKing/xiange-mcp,Xiange Music MCP,0.2.1,https://github.com/ZhongQuinnKing/xiange,,"Local MCP server, eight music tools: OMR, transcription, theory and notation checks, convert."
+2026-10-24T02:39:25.207524Z,com.gokuna/gokuna,GoKuna,1.0.0,,streamable-http,Pay real people for photo and video proof from the physical world. No fee on top.
+2026-10-24T02:41:55.753254Z,io.github.reelary/cli,Reelary,0.1.1,https://github.com/reelary/cli,,"Search your own videos and photos by meaning and cut them into a video, 100% local."
+2026-10-24T02:51:25.35021Z,dev.xakpc/sqlite-mcp-sidecar,SQLite MCP Sidecar,0.1.3,https://github.com/xakpc/sqlite-mcp-sidecar,,"Agent-safe MCP sidecar for one live SQLite database: read-only default, bounded writes."
+2026-10-24T02:52:05.605943Z,dev.testsy/testsy,Testsy,1.0.0,https://github.com/nhatlongsinh/testsy-integrations,streamable-http,Run plain-English web QA tests and inspect check results and evidence.
+2026-10-24T03:05:17.159945Z,link.morningbrief/weather,"Weather — NOAA Conditions, Forecasts & History for AI Agents",1.0.0,,streamable-http,"NOAA weather for AI agents: conditions, forecasts, observed history. 3 tools, free, no key."
+2026-10-24T03:07:58.316789Z,io.github.Ashon/supragnosis,supragnosis,0.10.2,https://github.com/Ashon/supragnosis,,Memory for AI agents that remembers who said it.
+2026-10-24T03:12:27.028056Z,si.melb/data,melb.si data for agents,1.0.0,,streamable-http,"Melbourne public holidays, small business AI help, AI events and rules, everyday questions. EN/ZH."
+2026-10-24T03:15:02.110319Z,io.github.hongping-zh/ecocompute-estimator,EcoCompute Should-I-Quantize Estimator,1.0.0,https://github.com/hongping-zh/quant-energy,streamable-http,"Energy impact of LLM quantization, calibrated to measured GPU data. Every answer states its basis."
+2026-10-24T03:16:30.105789Z,io.github.allooloo/eco,Electronic Compliance Objects (49 markets),1.0.0,https://github.com/allooloo/cm-kg,streamable-http,"Each market's disclosure regime as one sourced, signed object, with the issuer's ACM-68000 signal."
+2026-10-24T03:16:30.556902Z,io.github.allooloo/acm-signals,ACM-68000 signals for listed issuers,1.0.0,https://github.com/allooloo/cm-kg,streamable-http,"The ACM-68000 signal of a listed security in its home market: trading, not listed, read the filing."
