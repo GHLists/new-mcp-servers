@@ -9,27 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 07:20 UTC
+## Latest list — 2026-10-24 08:19 UTC
 
-New MCP servers published between 2026-10-24 06:19 UTC and 2026-10-24 07:20 UTC.
+New MCP servers published between 2026-10-24 07:20 UTC and 2026-10-24 08:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-24T07-20-50-274629Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-24T08-19-32-231803Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-24 06:32:06 | io.huntertech/vendor-insights | Huntertech | 1.0.1 | Vendor incidents, public pricing, and plan-gated account tools. OAuth at /mcp/a… |
-| 2026-10-24 06:39:23 | io.github.jirayu3141/jurnie | Jurnie | 1.0.0 | AI accountability partner: turn goals into milestones and tasks, and get today'… |
-| 2026-10-24 06:40:27 | [io.github.semlith/semlith](https://github.com/semlith/semlith) | Semlith | 0.46.1 | Local search over your code and documents for AI agents, with a code graph of c… |
-| 2026-10-24 06:49:32 | [io.github.navneet35371/postbuzz-mcp](https://github.com/navneet35371/postbuzz-mcp) | post.buzz | 0.2.0 | Post, schedule, and analyze social media across 16+ platforms via the post.buzz… |
-| 2026-10-24 06:49:59 | com.indiciadesk/desk | INDICIA DESK | 0.1.0 | BTC/ETH options research: tested hypotheses, max pain track record, gamma regim… |
-| 2026-10-24 06:53:10 | [io.github.agentrix-ai/clawdchat](https://github.com/agentrix-ai/clawdchat-mcp) | ClawdChat – Social Network for AI Agents | 0.1.9 | ClawdChat: social network for AI agents – post, comment, follow and DM via MCP. |
-| 2026-10-24 06:53:13 | tech.dataoil/mcp |  | 0.1.5 | Query Data Oil via AI: SQL, schema discovery, search and ingestion. sandbox.dat… |
-| 2026-10-24 07:04:39 | biz.nunchi/nunchi | 눈치 (nunchi.biz) | 0.66.0 | Korean competitor & market monitoring: rival site changes, promos, menus, posts… |
-| 2026-10-24 07:04:39 | biz.nunchi/nunchi-try | 눈치 맛보기 (nunchi.biz) | 0.66.0 | Try nunchi without sign-up: compare your site and rival home pages once (no log… |
-| 2026-10-24 07:09:36 | ai.riffkit/riffkit | Riffkit | 1.0.0 | Make short videos in Claude or ChatGPT: remake a winning TikTok, or change who… |
-| 2026-10-24 07:15:05 | io.github.nyo-agentti/einvoice-validator | E-invoice validator & repair check (XRe… | 1.0.0 | Validate XRechnung, Peppol BIS 3 and EN 16931 invoices with KoSIT; explain rule… |
-| 2026-10-24 07:15:35 | xyz.clickthislink/ai-visibility-checker | ClickThisLink AI Visibility Checker | 1.0.0 | Check if ChatGPT, Google and AI search can find, read and recommend a website.… |
-| 2026-10-24 07:16:58 | dev.getgofetch/gofetch | gofetch | 0.1.0 | Web page to JSON fields (by JSON Schema) for agents. Pay per call in USDC on Ba… |
+| 2026-10-24 07:21:54 | io.github.ucunhome/ucun-select |  | 0.3.0 | Wholesale home textile sourcing: in-stock bedding & fabrics with prices and MOQ… |
+| 2026-10-24 07:22:41 | [org.opensysml/sysml-mcp](https://github.com/Open-MBEE/OpenSysML) | OpenSysML MCP server | 0.11.0 | SysML v2 and KerML for coding agents: workspace diagnostics and edits, executio… |
+| 2026-10-24 07:26:59 | [io.github.kolganovr/mokido](https://github.com/kolganovr/mokido) |  | 4.3.0 | Write to a live Figma canvas, get a screenshot back, and roll back mistakes. Ze… |
+| 2026-10-24 07:36:47 | io.github.imraghavojha/alive5-sms | Alive5 SMS | 1.0.0 | List SMS lines, send texts and read recent inbound messages with Alive5. |
+| 2026-10-24 07:37:01 | ai.celestio/celestio | Celestio | 1.0.0 | Birth charts and personal astrology readings, plus compatibility between two pe… |
+| 2026-10-24 07:41:27 | kr.co.internettrend/internettrend-try | 인터넷트렌드 맛보기 (InternetTrend Try) | 1.1.0 | Try InternetTrend without login: Korean search, AI platform and browser shares… |
+| 2026-10-24 07:41:43 | kr.co.internettrend/internettrend | 인터넷트렌드 (InternetTrend) | 1.1.0 | Korean web usage stats from real site logs: search engine, AI platform, browser… |
+| 2026-10-24 07:44:55 | nl.cloudvikings/mijn | CloudVikings | 1.0.0 | EU domains, DNS and hosting for sites and apps. Your AI proposes, you approve e… |
+| 2026-10-24 07:45:16 | [io.github.baccaraaa/tavero](https://github.com/baccaraaa/tavero) | Tavero | 0.5.1 | Finds UI drift in React apps (buttons, cards, colors, spacing) and gives your a… |
+| 2026-10-24 07:45:58 | [io.github.emulette/cellrune](https://github.com/emulette/cellrune) | CellRune | 0.1.27 | Read, calculate, edit, and save XLSX workbooks headlessly over local stdio. |
+| 2026-10-24 07:51:21 | io.github.dang13021993/olacheap | OlaCheap | 1.0.0 | Manage authorized OlaMail inboxes, messages, and email drafts through secure OA… |
+| 2026-10-24 07:59:27 | [dev.getsnap/getsnap](https://github.com/rokas-kve/getsnap-api) |  | 1.14.2 | Screenshots, PDFs, visual diffs and accessibility audits, returned inline so a… |
+| 2026-10-24 08:00:55 | kr.chatad/chatad | ChatAd (chatad.kr) | 1.0.0 | Manage ChatGPT (OpenAI), Google & Meta ads by chat: daily briefs, budgets, camp… |
+| 2026-10-24 08:00:56 | kr.chatad/chatad-guest | ChatAd 손님 (chatad.kr) | 1.0.0 | Try ChatAd without login: ad readiness check, site analysis, campaign drafts, s… |
+| 2026-10-24 08:03:27 | [io.github.isaacaskew/venunite-events](https://github.com/isaacaskew/venunite-events) | VenuNite Events | 0.3.3 | Free US local event search. No signup or API key; 90-day lookahead. Paid commer… |
+| 2026-10-24 08:06:30 | [io.github.Stari-am/griasa](https://github.com/Stari-am/griasa) | Griasa | 1.0.20 | Local-first Mac meeting memory: open promises, people, next-meeting briefs. Rea… |
+| 2026-10-24 08:13:48 | [io.github.plopino/plopino-mcp](https://github.com/plopino/plopino-mcp) | Plopino | 0.3.1 | Publish pages, documents, or folders to a link; documents render as pages; upda… |
 
 ## Data source
 

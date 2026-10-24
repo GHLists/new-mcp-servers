@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-24T07:21:54.75914Z,io.github.ucunhome/ucun-select,,0.3.0,,streamable-http,"Wholesale home textile sourcing: in-stock bedding & fabrics with prices and MOQ. Nantong, China."
+2026-10-24T07:22:41.235407Z,org.opensysml/sysml-mcp,OpenSysML MCP server,0.11.0,https://github.com/Open-MBEE/OpenSysML,,"SysML v2 and KerML for coding agents: workspace diagnostics and edits, execution, REPL sessions."
+2026-10-24T07:26:59.676489Z,io.github.kolganovr/mokido,,4.3.0,https://github.com/kolganovr/mokido,,"Write to a live Figma canvas, get a screenshot back, and roll back mistakes. Zero deps, free plan."
+2026-10-24T07:36:47.416328Z,io.github.imraghavojha/alive5-sms,Alive5 SMS,1.0.0,,,"List SMS lines, send texts and read recent inbound messages with Alive5."
+2026-10-24T07:37:01.216303Z,ai.celestio/celestio,Celestio,1.0.0,,streamable-http,"Birth charts and personal astrology readings, plus compatibility between two people's charts."
+2026-10-24T07:41:27.395408Z,kr.co.internettrend/internettrend-try,인터넷트렌드 맛보기 (InternetTrend Try),1.1.0,,streamable-http,"Try InternetTrend without login: Korean search, AI platform and browser shares for completed months."
+2026-10-24T07:41:43.031259Z,kr.co.internettrend/internettrend,인터넷트렌드 (InternetTrend),1.1.0,,streamable-http,"Korean web usage stats from real site logs: search engine, AI platform, browser, OS by industry."
+2026-10-24T07:44:55.091969Z,nl.cloudvikings/mijn,CloudVikings,1.0.0,,streamable-http,"EU domains, DNS and hosting for sites and apps. Your AI proposes, you approve every change."
+2026-10-24T07:45:16.170104Z,io.github.baccaraaa/tavero,Tavero,0.5.1,https://github.com/baccaraaa/tavero,,"Finds UI drift in React apps (buttons, cards, colors, spacing) and gives your agent each fix"
+2026-10-24T07:45:58.337927Z,io.github.emulette/cellrune,CellRune,0.1.27,https://github.com/emulette/cellrune,,"Read, calculate, edit, and save XLSX workbooks headlessly over local stdio."
+2026-10-24T07:51:21.750254Z,io.github.dang13021993/olacheap,OlaCheap,1.0.0,,streamable-http,"Manage authorized OlaMail inboxes, messages, and email drafts through secure OAuth MCP tools."
+2026-10-24T07:59:27.011049Z,dev.getsnap/getsnap,,1.14.2,https://github.com/rokas-kve/getsnap-api,,"Screenshots, PDFs, visual diffs and accessibility audits, returned inline so a model can see them"
+2026-10-24T08:00:55.928662Z,kr.chatad/chatad,ChatAd (chatad.kr),1.0.0,,streamable-http,"Manage ChatGPT (OpenAI), Google & Meta ads by chat: daily briefs, budgets, campaigns (KR)."
+2026-10-24T08:00:56.035775Z,kr.chatad/chatad-guest,ChatAd 손님 (chatad.kr),1.0.0,,streamable-http,"Try ChatAd without login: ad readiness check, site analysis, campaign drafts, sign-up."
+2026-10-24T08:03:27.7984Z,io.github.isaacaskew/venunite-events,VenuNite Events,0.3.3,https://github.com/isaacaskew/venunite-events,streamable-http,Free US local event search. No signup or API key; 90-day lookahead. Paid commercial and bulk access.
+2026-10-24T08:06:30.923564Z,io.github.Stari-am/griasa,Griasa,1.0.20,https://github.com/Stari-am/griasa,,"Local-first Mac meeting memory: open promises, people, next-meeting briefs. Read-only."
+2026-10-24T08:13:48.878468Z,io.github.plopino/plopino-mcp,Plopino,0.3.1,https://github.com/plopino/plopino-mcp,,"Publish pages, documents, or folders to a link; documents render as pages; updates keep the URL."
