@@ -9,46 +9,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 13:18 UTC
+## Latest list — 2026-10-24 14:22 UTC
 
-New MCP servers published between 2026-10-24 12:22 UTC and 2026-10-24 13:18 UTC.
+New MCP servers published between 2026-10-24 13:18 UTC and 2026-10-24 14:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-24T13-18-57-463637Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-24T14-22-20-405313Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-24 12:23:06 | app.summaru.agent/breath | SUMMARU Breath | 0.1.0 | Paced-breathing guide: exact 4-7-8, box, sigh and more timings, plus human-voic… |
-| 2026-10-24 12:24:53 | com.gscmagic/gsc-magic | GSC Magic | 1.0.0 | Google Search Console, Bing, GA4 and SEO reports for Claude, ChatGPT and any MC… |
-| 2026-10-24 12:27:33 | app.deepjuniku/deep-juniku | Deep Juniku | 1.1.0 | Image or text to a rigged, animated 3D character with UE5/Mixamo FBX export, in… |
-| 2026-10-24 12:27:47 | com.genexxis/data-apis | Genexxis agent data APIs | 1.0.0 | Paid x402 data tools for agents: GPU prices, central-bank rates, token risk, in… |
-| 2026-10-24 12:37:45 | dev.fixedin/fixedin | FixedIn | 0.1.0 | Actively exploited? End of life? Which version fixes it? CVE verdicts for serve… |
-| 2026-10-24 12:38:20 | io.vike/data | Vike | 1.0.0 | Crypto data for AI agents: on-chain wallets and tokens, Hyperliquid, HL Cohorts… |
-| 2026-10-24 12:38:31 | com.lupyai/lupyai | LupyAi | 1.0.0 | Ask about your Meta Ads, Google Ads, GA4, Search Console, Shopify and other mar… |
-| 2026-10-24 12:43:10 | com.affix-io/agent-commons | The Agent Commons | 1.2.1 | Open public message board where AI agents read and post conversations. Remote M… |
-| 2026-10-24 12:47:50 | com.miseaudit/hotel-operations |  | 1.0.0 | Back-of-house hotel analytics: rooms, housekeeping, F&B, spa, engineering, and… |
-| 2026-10-24 12:47:51 | [io.github.overpassapps/draughtsman](https://github.com/overpassapps/draughtsman) | Draughtsman | 0.1.0 | Self-hosted diagramming server with a built-in MCP server for AI agents. |
-| 2026-10-24 12:51:19 | com.kanorio/kanorio | Kanorio | 3.0.0 | Create, edit, publish and connect custom domains for small-business websites on… |
-| 2026-10-24 12:52:09 | [io.usefulapi/customcat](https://github.com/m190/usefulapi-mcp) | CustomCat MCP by usefulapi | 1.0.0 | Browse the CustomCat catalog, your products and designs; check shipping; create… |
-| 2026-10-24 12:52:09 | [io.usefulapi/agencybloc](https://github.com/m190/usefulapi-mcp) | AgencyBloc MCP by usefulapi | 1.0.0 | Read and update AgencyBloc individuals, groups, policies and agents; log activi… |
-| 2026-10-24 12:52:09 | [io.usefulapi/civicrm](https://github.com/m190/usefulapi-mcp) | CiviCRM MCP by usefulapi | 1.0.0 | Work with your own CiviCRM: contacts, contributions, memberships, events; log a… |
-| 2026-10-24 12:52:09 | [io.usefulapi/farmbrite](https://github.com/m190/usefulapi-mcp) | Farmbrite MCP by usefulapi | 1.0.0 | Read Farmbrite livestock, crops, tasks, inventory and orders; log records and t… |
-| 2026-10-24 12:52:09 | [io.usefulapi/lawcus](https://github.com/m190/usefulapi-mcp) | Lawcus MCP by usefulapi | 1.0.0 | Read Lawcus contacts, matters, leads, time and billing reports; create contacts… |
-| 2026-10-24 12:52:09 | [io.usefulapi/pobuca-connect](https://github.com/m190/usefulapi-mcp) | Pobuca Connect MCP by usefulapi | 1.0.0 | Read and update Pobuca Connect contacts and organizations; look up teams and cu… |
-| 2026-10-24 12:52:09 | [io.usefulapi/intellihr](https://github.com/m190/usefulapi-mcp) | intelliHR MCP by usefulapi | 1.0.0 | Read intelliHR people, jobs, leave, skills and training; create and update peop… |
-| 2026-10-24 12:52:09 | [io.usefulapi/myphoner](https://github.com/m190/usefulapi-mcp) | myPhoner MCP by usefulapi | 1.0.0 | Work myPhoner calling lists and leads: search, log call outcomes, add, update a… |
-| 2026-10-24 12:52:10 | [io.usefulapi/referral-rock](https://github.com/m190/usefulapi-mcp) | Referral Rock MCP by usefulapi | 1.0.0 | Read Referral Rock programs, members, referrals, rewards and payouts; add membe… |
-| 2026-10-24 12:52:10 | [io.usefulapi/smartrr](https://github.com/m190/usefulapi-mcp) | Smartrr MCP by usefulapi | 1.0.0 | Manage Smartrr subscriptions on Shopify: customers, orders, bills; pause, resum… |
-| 2026-10-24 12:52:41 | [io.github.tesults/tesults-mcp](https://github.com/tesults/tesults-mcp) |  | 1.1.0 | Ask your AI agent why your tests are failing. Instant analysis on failures and… |
-| 2026-10-24 13:02:25 | [io.usefulapi/aisensy](https://github.com/m190/usefulapi-mcp) | AiSensy MCP by usefulapi | 1.0.0 | Read AiSensy contacts, templates and campaigns; add contacts, send WhatsApp mes… |
-| 2026-10-24 13:02:25 | [io.usefulapi/shippit](https://github.com/m190/usefulapi-mcp) | Shippit MCP by usefulapi | 1.0.0 | Get Shippit quotes, track and manage orders; create, label, book and cancel shi… |
-| 2026-10-24 13:04:22 | [io.usefulapi/bilflo](https://github.com/m190/usefulapi-mcp) | Bilflo MCP by usefulapi | 1.0.0 | Read Bilflo clients, contract jobs, contractors and reports; update jobs, termi… |
-| 2026-10-24 13:04:45 | com.passthroughtax/pass-through-tax-rules | Pass-through tax rules | 0.2.0 | Cited, tax-year-dated rules for state PTET, the federal SALT cap, and bonus-dep… |
-| 2026-10-24 13:06:13 | [io.github.BijectiveLabs/bitra](https://github.com/BijectiveLabs/bitra) | TRA | 0.10.1 | Read-only gates of autonomous trading agents with deterministic execution: cost… |
-| 2026-10-24 13:10:15 | [com.contenta-software/contenta-photo-converter](https://github.com/contentasoftware/mcp-launcher) | Contenta Photo Converter | 1.0.4 | Batch-convert, resize and edit images on your Windows PC: 100+ formats, PDF alb… |
-| 2026-10-24 13:14:01 | io.github.hrvoje0099/git-leaderboard |  | 0.1.9 | Official MCP server for Git Leaderboard rankings, profiles, streaks, and user c… |
-| 2026-10-24 13:14:04 | com.checkfitment/checkfitment | CheckFitment | 1.1.0 | Bolt patterns and wheel specs by vehicle, wheel and tire fitment, spacer and ge… |
-| 2026-10-24 13:15:21 | [io.github.wygogogo19/robotbase-web3](https://github.com/wygogogo19/robotbase-mcp) |  | 0.32.0 | Agent MCP: 65 tools — 5-chain verification, risk, prediction & crypto trends, 1… |
-| 2026-10-24 13:17:22 | com.researchcal/researchcal | ResearchCal | 1.0.0 | Conference and call for papers deadlines in economics, business and political s… |
+| 2026-10-24 13:23:30 | com.calculatorforgrading/calculatorforgrading | Calculator for Grading | 1.1.0 | Grades from questions wrong, final exam score needed, weighted grades, GPA, SAT… |
+| 2026-10-24 13:24:55 | [com.micompress/mcp](https://github.com/micompress/micompress-mcp) | MiCompress | 0.1.1 | Compress images, PDFs, video, audio, documents & archives via micompress.com |
+| 2026-10-24 13:28:57 | [health.voa/terminologia](https://github.com/Voa-Health/terminologia) | terminologia | 0.1.0a1 | Cliente MCP para consultar terminologias de saúde da Voa. |
+| 2026-10-24 13:32:44 | [io.github.GhostPawJS/codex](https://github.com/GhostPawJS/codex.git) | GhostPaw Codex | 0.3.0 | Local belief and memory engine with evidence, certainty, and honest revision hi… |
+| 2026-10-24 13:33:01 | network.mercatura/mercatura | Mercatura | 1.2.0 | Claim a $10 Vlad account for an AI agent and open factor accounts on Robinhood… |
+| 2026-10-24 13:37:42 | ai.payzilla/marketplace | Payzilla Marketplace | 1.0.0 | Find services on the Payzilla Marketplace and pay them in USDC on Solana. |
+| 2026-10-24 13:38:51 | [xyz.urbangametheory/urban-game-theory](https://github.com/Poglavar/consensus-builder) | Urban Game Theory — Consensus Builder | 0.3.0 | Inspect real parcels, create and edit urban plans, compare alternatives, and sh… |
+| 2026-10-24 13:39:39 | [io.github.alphaparkinc/genpark-sliding-log-rate-limiter-skill](https://github.com/alphaparkinc/genpark-sliding-log-rate-limiter-skill) | GenPark Sliding Log Rate Limiter | 1.0.1 | Microsecond-precision sliding window log rate limiter preventing boundary burst… |
+| 2026-10-24 13:39:47 | [io.github.alphaparkinc/genpark-token-bucket-traffic-shaper-skill](https://github.com/alphaparkinc/genpark-token-bucket-traffic-shaper-skill) | GenPark Token Bucket Traffic Shaper | 1.0.1 | Token bucket traffic shaper with smooth replenishment and burst capacity for LL… |
+| 2026-10-24 13:39:56 | [io.github.alphaparkinc/genpark-json-pointer-patch-delta-skill](https://github.com/alphaparkinc/genpark-json-pointer-patch-delta-skill) | GenPark JSON Pointer Patch Delta | 1.0.1 | RFC 6901 / RFC 6902 compliant JSON Pointer and JSON Patch delta computation eng… |
+| 2026-10-24 13:40:03 | [io.github.alphaparkinc/genpark-hyperloglog-cardinality-estimator-skill](https://github.com/alphaparkinc/genpark-hyperloglog-cardinality-estimator-skill) | GenPark HyperLogLog Cardinality Estimat… | 1.0.1 | Pure Python 64-register HyperLogLog cardinality estimator for high-speed stream… |
+| 2026-10-24 13:40:11 | [io.github.alphaparkinc/genpark-weighted-round-robin-balancer-skill](https://github.com/alphaparkinc/genpark-weighted-round-robin-balancer-skill) | GenPark Weighted Round Robin Balancer | 1.0.1 | Nginx-style smooth weighted round-robin load balancer with dynamic weight adjus… |
+| 2026-10-24 13:43:53 | [io.github.TalkToHumans/linkedin-mcp](https://github.com/TalkToHumans/linkedin-mcp) | LinkedIn MCP (by TalkToHumans) | 1.1.0 | The safest LinkedIn MCP: your Agents read DMs, search your network and draft me… |
+| 2026-10-24 13:46:27 | [com.getmattered/getmattered](https://github.com/getmattered/getmattered-mcp) | GetMattered | 1.10.0 | Auto-Apply That Ends on an Interview. Job matches, per-role resumes, apply, app… |
+| 2026-10-24 13:46:56 | [io.github.Velox-XR/velox-trifit-developer](https://github.com/Velox-XR/trifit-partner-api-example) | Velox TriFit Developer | 1.1.0 | Official DressMe virtual try-on API docs, SDK examples and backend integration… |
+| 2026-10-24 13:48:39 | io.github.ozcanacarman/agenthub | AgentHub | 0.2.0 | Forum, feed and DMs for AI agents and people; agents sign up alone; paid tasks… |
+| 2026-10-24 13:51:11 | br.com.precedentes/conector | Precedentes | 1.0.0 | Jurisprudência de 74 tribunais e órgãos, com link oficial: busca, súmulas, tema… |
+| 2026-10-24 13:53:25 | com.cardnexus/mcp | CardNexus | 1.0.0 | Search trading card prices, build carts and manage a CardNexus store. You pay o… |
+| 2026-10-24 13:56:09 | io.github.zaffy18/agent-toolbox | Agent Toolbox | 1.0.0 | Everyday tools for AI agents, paid per call with x402: images, markdown, speech… |
+| 2026-10-24 13:56:10 | [io.github.Meador793/the-nothing](https://github.com/Meador793/the-nothing) | The Nothing | 1.0.0 | Mr. Decoupler: a do-nothing MCP seam between AI and your databases. Sometimes l… |
+| 2026-10-24 13:56:41 | [io.github.arhancanli/canli-paper-trading-mcp](https://github.com/arhancanli/canlicapital) | Canli Paper Trading | 0.3.0 | Agent trading on your Alpaca paper account behind pre-trade checks and confirma… |
+| 2026-10-24 13:56:49 | [io.github.alphaparkinc/genpark-aho-corasick-multi-pattern-matcher-skill](https://github.com/alphaparkinc/genpark-aho-corasick-multi-pattern-matcher-skill) | GenPark Aho-Corasick Multi-Pattern Matc… | 1.0.1 | High-throughput Aho-Corasick automaton for simultaneous multi-keyword dictionar… |
+| 2026-10-24 13:56:57 | dev.monowire/patchwire | Patchwire | 1.0.0 | Hourly security advisories for JS, AI and web3 packages: ranges, fixes and expl… |
+| 2026-10-24 13:56:57 | [io.github.alphaparkinc/genpark-merkle-dag-state-verifier-skill](https://github.com/alphaparkinc/genpark-merkle-dag-state-verifier-skill) | GenPark Merkle DAG State Verifier | 1.0.1 | Cryptographic Merkle tree verification engine for agent state transitions, tool… |
+| 2026-10-24 13:57:05 | [io.github.alphaparkinc/genpark-red-black-tree-index-skill](https://github.com/alphaparkinc/genpark-red-black-tree-index-skill) | GenPark Red-Black Tree Index | 1.0.1 | Self-balancing Red-Black binary search tree engine for ordered indexing, range… |
+| 2026-10-24 13:57:15 | [io.github.alphaparkinc/genpark-reservoir-sampling-stream-auditor-skill](https://github.com/alphaparkinc/genpark-reservoir-sampling-stream-auditor-skill) | GenPark Reservoir Sampling Stream Audit… | 1.0.1 | O(k) space unbiased stream reservoir sampling and quantile estimation engine fo… |
+| 2026-10-24 13:57:23 | [io.github.alphaparkinc/genpark-two-phase-commit-coordinator-skill](https://github.com/alphaparkinc/genpark-two-phase-commit-coordinator-skill) | GenPark Two-Phase Commit Coordinator | 1.0.1 | Distributed Two-Phase Commit (2PC) transaction coordinator for atomic multi-age… |
+| 2026-10-24 13:58:15 | com.zippendo/mcp | Zippendo | 1.0.0 | Manage orders, book shipments, print labels and track parcels with PostNord, GL… |
+| 2026-10-24 14:01:10 | [io.github.Matthewyin/deepseek-mcp](https://github.com/Matthewyin/deepseek-mcp) | DeepSeek Web Search | 1.0.1 | MCP server for DeepSeek web Search & Fetch: scored web search + page-to-Markdow… |
+| 2026-10-24 14:02:09 | com.amazonaws.us-east-1.execute-api.4fucgqu5if/agent-platform-rules | Agent Platform Rules | 0.1.0 | Cited, dated answers: may an AI agent post, sign up or automate on Reddit, HN,… |
+| 2026-10-24 14:03:13 | [io.github.MikkoParkkola/nab](https://github.com/MikkoParkkola/nab) | nab | 0.12.6 | Token-optimized HTTP client for LLMs: fetches any URL as clean markdown. CLI an… |
+| 2026-10-24 14:04:03 | [io.github.under71/lupa-mcp](https://github.com/under71/lupa-mcp) | Lupa — local file search for your Mac | 0.3.1 | Search your Mac's files by name and by text inside documents. Local index, Kore… |
+| 2026-10-24 14:07:27 | [io.github.geby85/goalz](https://github.com/geby85/goalz-plugins) | Goalz | 1.0.0 | Manage your Goalz football manager account via hosted OAuth MCP. |
+| 2026-10-24 14:09:18 | io.soldcomps/sold-comps | Sold Comps (eBay sold prices) | 1.0.0 | Live eBay sold comps for AI agents: median sold price, middle range and recent… |
+| 2026-10-24 14:10:08 | [io.github.xecin-inc/designmark](https://github.com/xecin-inc/designmark) | designmark | 1.0.0 | Search and fetch Japanese landing-page design systems (DESIGN.md) from designma… |
+| 2026-10-24 14:11:05 | agency.zoll/ausfuhr | zoll.agency | 1.0.0 | Regeln und Suchen zur Ausfuhr aus der EU: Kumulierung, Präferenznachweis, Incot… |
+| 2026-10-24 14:12:59 | io.github.MeitalSela/cadabra | Cadabra AI | 1.0.0 | Make finished AI films, images, voice and music in chat: every top engine, one… |
+| 2026-10-24 14:14:44 | io.github.pixelvault-dev/pixelvault |  | 0.3.1 | Image infrastructure for agents. Upload, transform, and deliver images through… |
+| 2026-10-24 14:16:58 | com.lexifina/lexifina | Lexifina | 1.1.0 | Search, review and redline your Lexifina legal documents; you decide every prop… |
+| 2026-10-24 14:19:11 | [io.github.Alexxanddr/italian-bus-search](https://github.com/Alexxanddr/italian-bus-search) | Italian Bus Search MCP Server | 0.1.0 | Read-only access to Italian bus journey searches across Itabus, Salemi, Federic… |
+| 2026-10-24 14:22:00 | io.github.dfedarchuk/allr | ALLR Motorcycle Gear Prices | 1.0.0 | Compare motorcycle gear prices by landed cost (price, shipping, duty, tax) for… |
 
 ## Data source
 
