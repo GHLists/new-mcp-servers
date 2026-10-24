@@ -9,30 +9,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 01:18 UTC
+## Latest list — 2026-10-24 02:19 UTC
 
-New MCP servers published between 2026-10-24 00:19 UTC and 2026-10-24 01:18 UTC.
+New MCP servers published between 2026-10-24 01:18 UTC and 2026-10-24 02:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-24T01-18-45-352876Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-24T02-19-10-225461Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-24 00:20:11 | sh.alchemylab.horizon/briefing | Horizon: AI News & AI Regulation Tracker | 1.2.0 | Free, no-key AI news + AI regulation tracker MCP: EU AI Act, US federal & state… |
-| 2026-10-24 00:22:06 | [io.github.dailydollar-bot/agent-bounty-feed](https://github.com/dailydollar-bot/agent-bounty-feed) | Agent Bounty Feed | 1.1.0 | Open, paid bounties AI agents can claim, verified hourly from agent boards and… |
-| 2026-10-24 00:23:27 | ai.opensolid/opensolid | Open Solid | 0.2.0 | Banking for AI agents: wallet, US bank account, prepaid cards, and Venmo, PayPa… |
-| 2026-10-24 00:31:57 | ai.hipa/clinical-trials | Hipa.ai Clinical Trials | 1.0.0 | Search recruiting US clinical trials by city, condition, phase and patient elig… |
-| 2026-10-24 00:44:11 | [io.github.207studio/pptx-mcp](https://github.com/207studio/pptx-mcp) |  | 0.1.0 | Free MCP server: read, outline and preview PowerPoint (.pptx) files from any AI… |
-| 2026-10-24 00:52:28 | app.tomelet/tomelet | Tomelet | 1.0.0 | Read-only access to your Tomelet notes, highlights and bookmarks, each linked t… |
-| 2026-10-24 00:52:57 | com.gixfiber/dark-fiber | GIX FIBER dark fiber (NYC / NJ) | 1.0.0 | NYC-Newark dark fiber via PATH Tunnel F: GIX route facts, resources and quote r… |
-| 2026-10-24 00:55:01 | com.ctriolab/google-sheets | Google Sheets Import & Export (Ctrio La… | 0.1.0 | Google Sheets via Apify: write Apify datasets or JSON rows to a sheet, or read… |
-| 2026-10-24 00:55:01 | com.ctriolab/google-hotels | Google Hotels Scraper (Ctrio Lab) | 0.1.0 | Google Hotels prices via Apify: price per booking site, rating, reviews and cla… |
-| 2026-10-24 00:55:02 | com.ctriolab/merge-dedupe-datasets | Merge & Deduplicate Datasets (Ctrio Lab) | 0.1.0 | Merge Apify datasets and remove duplicates by any fields, keeping the first or… |
-| 2026-10-24 00:58:08 | [io.github.assetnotation/asset-notation](https://github.com/assetnotation/js) | Asset Notation | 0.1.7 | Read and maintain an Asset Notation file on disk: net worth, holdings, valuatio… |
-| 2026-10-24 00:58:16 | [io.github.mridang/chowdown](https://github.com/mridang/chowdown) | chowdown | 0.1.0 | Your recipes as plain files in your own Google Drive, searchable by your AI ass… |
-| 2026-10-24 01:05:11 | com.mcpleadflow/leadflow | MCP LeadFlow | 0.1.0 | Build, edit, analyze, and manage lead funnels from any MCP-compatible AI assist… |
-| 2026-10-24 01:05:22 | guide.whatscooking/whats-cooking | What's Cooking | 1.0.0 | Ask Gusto what to cook tonight from what you have. One full dinner: recipe, ste… |
-| 2026-10-24 01:15:35 | [io.pugi/pugi](https://github.com/pugi-io/skills) | Pugi | 0.1.0 | Passive website security checks, credit balance, card top-up links and publishe… |
-| 2026-10-24 01:17:54 | dev.opsen/opsen | opsen | 1.0.1 | Engineering spend: GitHub seats, Copilot, Actions and coding agents, priced, wi… |
+| 2026-10-24 01:35:14 | ai.soundberry/soundberry | SoundBerry | 1.0.0 | AI music tools for producers: generate tracks and stems, split stems, detect te… |
+| 2026-10-24 01:39:48 | com.crawlerzoo/arena | The Crawler Zoo Arena | 1.0.0 | Games for AI agents: negotiation, social deduction, racing and puzzles, vs bots… |
+| 2026-10-24 01:44:36 | [io.github.alphaparkinc/genpark-trie-prefix-keyword-matcher-skill](https://github.com/alphaparkinc/genpark-trie-prefix-keyword-matcher-skill) | GenPark Trie Prefix Keyword Matcher | 1.0.1 | High-performance in-memory Trie and multi-keyword search engine for prompt rout… |
+| 2026-10-24 01:44:45 | [io.github.alphaparkinc/genpark-consistent-hash-ring-router-skill](https://github.com/alphaparkinc/genpark-consistent-hash-ring-router-skill) | GenPark Consistent Hash Ring Router | 1.0.1 | Consistent hashing ring with virtual nodes for distributed LLM cache routing an… |
+| 2026-10-24 01:44:51 | [io.github.alphaparkinc/genpark-exponential-backoff-jitter-retry-skill](https://github.com/alphaparkinc/genpark-exponential-backoff-jitter-retry-skill) | GenPark Exponential Backoff Jitter Retry | 1.0.1 | Enterprise retry engine with full jitter, decorrelated jitter, and truncated ex… |
+| 2026-10-24 01:44:58 | [io.github.alphaparkinc/genpark-json-schema-contract-validator-skill](https://github.com/alphaparkinc/genpark-json-schema-contract-validator-skill) | GenPark JSON Schema Contract Validator | 1.0.1 | Zero-dependency JSON schema subset validator ensuring LLM structured outputs st… |
+| 2026-10-24 01:45:05 | [io.github.alphaparkinc/genpark-priority-event-scheduler-queue-skill](https://github.com/alphaparkinc/genpark-priority-event-scheduler-queue-skill) | GenPark Priority Event Scheduler Queue | 1.0.1 | Min-heap priority event scheduler and delayed task dispatcher for asynchronous… |
+| 2026-10-24 01:45:58 | io.github.balrok12/archive-md | archive.md MCP & Data Hub | 3.0.0 | Korean policy & finance facts with primary-source citations (laws, gov notices)… |
+| 2026-10-24 01:46:40 | [com.clypmint/broll](https://github.com/nuttallp/clypmint-broll) | Clypmint B-Roll | 1.0.0 | B-roll for agents: real, verified, licensed photos and footage of exactly what… |
+| 2026-10-24 01:47:32 | co.youraitools/hub | YourAITools MCP Hub | 1.0.0 | All 20 YourAITools agent APIs in one MCP server. Most tools free; pay with cred… |
+| 2026-10-24 01:48:12 | app.dataclue/catalog | DataClue — AI training data | 1.0.0 | Search and license real-world AI training data: egocentric video, UMI gripper d… |
+| 2026-10-24 01:51:18 | [io.github.kansal-mukul/mcp-security-sanitizer](https://github.com/kansal-mukul/mcp-security-sanitizer) | MCP Security Sanitizer | 1.0.0 | Redacts common secrets, email addresses, and phone numbers. |
+| 2026-10-24 01:53:08 | com.mcpcanary/inspect | MCP Canary | 1.0.0 | Inspect any remote MCP server: transport, protocol, tools, and side-effect hint… |
+| 2026-10-24 01:56:20 | com.brickyourface/brick-mosaic | BrickYourFace: photo to brick mosaic | 1.0.0 | Turn a photo into a LEGO-compatible brick mosaic kit: watermarked preview, pric… |
+| 2026-10-24 01:57:09 | [sale.finda/findasale](https://github.com/deseee/findasale) | FindA.Sale | 2.0.0 | Find yard sales, garage sales, auctions, flea markets and resale shops, and sea… |
+| 2026-10-24 01:58:50 | ai.tazilo/profiles | Tazilo | 1.0.0 | Verified professional profiles from tazilo.ai/@handle links: experience, leader… |
+| 2026-10-24 02:08:08 | [io.github.ghlee0786/flow-learning-system](https://github.com/ghlee0786/flow-learning-system) | Flow Learning System | 0.1.0 | Build motion-graphics lessons with sentence-synced TTS for any subject: one sen… |
+| 2026-10-24 02:09:13 | org.hangel/hangel | hangel | 1.0.0 | hangel (Turkiye): NGOs, events, volunteering, open grants, donation-linked stor… |
 
 ## Data source
 
