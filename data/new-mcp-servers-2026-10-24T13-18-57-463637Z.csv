@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-10-24T12:23:06.875204Z,app.summaru.agent/breath,SUMMARU Breath,0.1.0,,streamable-http,"Paced-breathing guide: exact 4-7-8, box, sigh and more timings, plus human-voiced guides (ko, en)."
+2026-10-24T12:24:53.503883Z,com.gscmagic/gsc-magic,GSC Magic,1.0.0,,streamable-http,"Google Search Console, Bing, GA4 and SEO reports for Claude, ChatGPT and any MCP client"
+2026-10-24T12:27:33.845956Z,app.deepjuniku/deep-juniku,Deep Juniku,1.1.0,,streamable-http,"Image or text to a rigged, animated 3D character with UE5/Mixamo FBX export, in one call."
+2026-10-24T12:27:47.4614Z,com.genexxis/data-apis,Genexxis agent data APIs,1.0.0,,streamable-http,"Paid x402 data tools for agents: GPU prices, central-bank rates, token risk, injection guard."
+2026-10-24T12:37:45.3248Z,dev.fixedin/fixedin,FixedIn,0.1.0,,streamable-http,Actively exploited? End of life? Which version fixes it? CVE verdicts for server software.
+2026-10-24T12:38:20.541905Z,io.vike/data,Vike,1.0.0,,streamable-http,"Crypto data for AI agents: on-chain wallets and tokens, Hyperliquid, HL Cohorts and Polymarket."
+2026-10-24T12:38:31.854882Z,com.lupyai/lupyai,LupyAi,1.0.0,,streamable-http,"Ask about your Meta Ads, Google Ads, GA4, Search Console, Shopify and other marketing data."
+2026-10-24T12:43:10.640084Z,com.affix-io/agent-commons,The Agent Commons,1.2.1,,streamable-http,Open public message board where AI agents read and post conversations. Remote MCP.
+2026-10-24T12:47:50.947526Z,com.miseaudit/hotel-operations,,1.0.0,,streamable-http,"Back-of-house hotel analytics: rooms, housekeeping, F&B, spa, engineering, and the P&L to GOP."
+2026-10-24T12:47:51.521352Z,io.github.overpassapps/draughtsman,Draughtsman,0.1.0,https://github.com/overpassapps/draughtsman,,Self-hosted diagramming server with a built-in MCP server for AI agents.
+2026-10-24T12:51:19.016335Z,com.kanorio/kanorio,Kanorio,3.0.0,,streamable-http,"Create, edit, publish and connect custom domains for small-business websites on Kanorio."
+2026-10-24T12:52:09.123516Z,io.usefulapi/customcat,CustomCat MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Browse the CustomCat catalog, your products and designs; check shipping; create and cancel orders."
+2026-10-24T12:52:09.140043Z,io.usefulapi/agencybloc,AgencyBloc MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read and update AgencyBloc individuals, groups, policies and agents; log activities and notes."
+2026-10-24T12:52:09.143733Z,io.usefulapi/civicrm,CiviCRM MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Work with your own CiviCRM: contacts, contributions, memberships, events; log activities."
+2026-10-24T12:52:09.150773Z,io.usefulapi/farmbrite,Farmbrite MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Farmbrite livestock, crops, tasks, inventory and orders; log records and tasks."
+2026-10-24T12:52:09.618423Z,io.usefulapi/lawcus,Lawcus MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Lawcus contacts, matters, leads, time and billing reports; create contacts and tasks."
+2026-10-24T12:52:09.642033Z,io.usefulapi/pobuca-connect,Pobuca Connect MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,Read and update Pobuca Connect contacts and organizations; look up teams and custom fields.
+2026-10-24T12:52:09.742285Z,io.usefulapi/intellihr,intelliHR MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read intelliHR people, jobs, leave, skills and training; create and update people records."
+2026-10-24T12:52:09.782022Z,io.usefulapi/myphoner,myPhoner MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Work myPhoner calling lists and leads: search, log call outcomes, add, update and assign leads."
+2026-10-24T12:52:10.227101Z,io.usefulapi/referral-rock,Referral Rock MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Referral Rock programs, members, referrals, rewards and payouts; add members and referrals."
+2026-10-24T12:52:10.260344Z,io.usefulapi/smartrr,Smartrr MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Manage Smartrr subscriptions on Shopify: customers, orders, bills; pause, resume, cancel."
+2026-10-24T12:52:41.09462Z,io.github.tesults/tesults-mcp,,1.1.0,https://github.com/tesults/tesults-mcp,,Ask your AI agent why your tests are failing. Instant analysis on failures and regressions.
+2026-10-24T13:02:25.043894Z,io.usefulapi/aisensy,AiSensy MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read AiSensy contacts, templates and campaigns; add contacts, send WhatsApp messages on approval."
+2026-10-24T13:02:25.080146Z,io.usefulapi/shippit,Shippit MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Get Shippit quotes, track and manage orders; create, label, book and cancel shipments on approval."
+2026-10-24T13:04:22.18126Z,io.usefulapi/bilflo,Bilflo MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Bilflo clients, contract jobs, contractors and reports; update jobs, terminate or reopen them."
+2026-10-24T13:04:45.51418Z,com.passthroughtax/pass-through-tax-rules,Pass-through tax rules,0.2.0,,streamable-http,"Cited, tax-year-dated rules for state PTET, the federal SALT cap, and bonus-depreciation conformity."
+2026-10-24T13:06:13.08736Z,io.github.BijectiveLabs/bitra,TRA,0.10.1,https://github.com/BijectiveLabs/bitra,,"Read-only gates of autonomous trading agents with deterministic execution: cost, data, validation."
+2026-10-24T13:10:15.552955Z,com.contenta-software/contenta-photo-converter,Contenta Photo Converter,1.0.4,https://github.com/contentasoftware/mcp-launcher,,"Batch-convert, resize and edit images on your Windows PC: 100+ formats, PDF albums, metadata"
+2026-10-24T13:14:01.615587Z,io.github.hrvoje0099/git-leaderboard,,0.1.9,,,"Official MCP server for Git Leaderboard rankings, profiles, streaks, and user comparisons."
+2026-10-24T13:14:04.402362Z,com.checkfitment/checkfitment,CheckFitment,1.1.0,,streamable-http,"Bolt patterns and wheel specs by vehicle, wheel and tire fitment, spacer and gear ratio maths."
+2026-10-24T13:15:21.726528Z,io.github.wygogogo19/robotbase-web3,,0.32.0,https://github.com/wygogogo19/robotbase-mcp,streamable-http,"Agent MCP: 65 tools — 5-chain verification, risk, prediction & crypto trends, 17 web tools."
+2026-10-24T13:17:22.794044Z,com.researchcal/researchcal,ResearchCal,1.0.0,,streamable-http,"Conference and call for papers deadlines in economics, business and political science, with sources."
