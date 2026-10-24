@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-10-24T22:21:16.883772Z,io.github.DeChuks-hub/llmshift,llmshift,0.1.4,https://github.com/DeChuks-hub/llmshift,,Find retiring LLM calls in code and test the replacement model on real traffic before switching.
+2026-10-24T22:21:44.03038Z,io.usefulapi/bookingmood,Bookingmood MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Bookingmood bookings, availability, guests, payments and invoices; update bookings, contacts."
+2026-10-24T22:22:10.60027Z,com.meshingly/meshingly,Meshingly,0.1.0,https://github.com/DrBurakUysal/meshingly-mcp,,End-to-end encrypted relay that lets AI coding sessions on different machines message each other.
+2026-10-24T22:27:46.660893Z,io.github.EmanueleCell4/elliot-mcp,Elliot,0.6.0,https://github.com/EmanueleCell4/elliot-mcp,,Independent verifier for AI agents: checks agent claims and doc promises against the code.
+2026-10-24T22:27:50.394854Z,tech.neurodynamic/audio-llm,NeuroDynamic Audio and LLM APIs,1.0.1,,,"Discover voices and prices; buy narration, transcription and LLM text with capped USDC payments."
+2026-10-24T22:28:33.030729Z,io.github.a-church-ai/magnifica-family,Magnifica.family Pope Catholic AI Compass,1.0.3,https://github.com/a-church-ai/magnifica-family,,Catholic AI compass: system prompts from Pope Leo XIV's encyclical Magnifica Humanitas.
+2026-10-24T22:33:55.109872Z,com.tvijo/dshrem,Tvijo DSHREM,0.1.0,https://github.com/nikbibamon/tvijocode,,Ask Tvijo DSHREM with explicit spending limits and manage your account and tasks.
+2026-10-24T22:33:57.08212Z,pl.kiedykoncert/koncerty,KiedyKoncert.pl,1.0.0,,streamable-http,"All concerts in Poland: every venue, genre and seller. Read-only, no account."
+2026-10-24T22:34:58.79356Z,io.github.david00769/banktivity-swift-mcp,Banktivity,0.17.1,https://github.com/david00769/banktivity-swift-mcp,,Banktivity MCP server for .bank8 vaults; writes go through Core Data so CloudKit sync sees them.
+2026-10-24T22:43:08.431156Z,gr.diavgis/procurement,Diavgis — Greek Public Procurement,1.4.0,https://github.com/diavgis/diavgis-mcp,streamable-http,"Greek public procurement: tenders, awards, contracts, payments, suppliers, expiring contracts."
+2026-10-24T22:46:30.983041Z,io.github.Opafex/mcp-approval-queue,,0.2.0,https://github.com/opafex/opafex-mcps,,Human approval gate for AI agents: risk-scored requests that only a person can approve
+2026-10-24T22:46:31.713724Z,io.github.Opafex/mcp-web-research,,0.1.0,https://github.com/opafex/opafex-mcps,,"Web search (Brave) and SSRF-safe page fetching, extraction and comparison for agents"
+2026-10-24T22:46:32.363042Z,io.github.Opafex/mcp-enrichment,,0.1.1,https://github.com/opafex/opafex-mcps,,"Multi-source entity enrichment: company data, contacts, email verification, and phone validation"
+2026-10-24T22:46:34.461608Z,io.github.Opafex/mcp-file-processor,,0.1.1,https://github.com/opafex/opafex-mcps,,"Text extraction, keyword extraction, language detection, and chunking for RAG"
+2026-10-24T22:59:33.01711Z,com.awardtape/mcp,AwardTape,1.0.0,,streamable-http,"Search DoD and DHS prime contract awards since FY2024, company profiles and daily contract releases."
+2026-10-24T23:01:08.982218Z,com.brasspage/brasspage,Brasspage,1.0.0,,streamable-http,"Free small business website check, free redesign form link, Tack Board pin link, live numbers"
+2026-10-24T23:03:02.234141Z,com.asoatlas/mcp,ASO Atlas,1.1.0,https://github.com/asoatlas/mcp,streamable-http,"ASO for App Store and Google Play: keyword research, rank tracking, in-app feedback and analytics."
+2026-10-24T23:05:12.792283Z,ai.plith/rigor,Plith Rigor,1.0.0,https://github.com/NewsSpectator/plith,streamable-http,Structured multi-step workflows that produce production-quality deliverables. Plan any task free.
