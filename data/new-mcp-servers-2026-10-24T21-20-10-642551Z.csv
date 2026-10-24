@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-10-24T20:21:04.279104Z,io.github.CloudCorpRecords/wallcheck,,0.5.0,https://github.com/CloudCorpRecords/wallcheck,,"Probe a URL and name the bot wall: vendor, verdict, and evidence. CLI plus stdio MCP server."
+2026-10-24T20:22:03.554895Z,pl.infogrunt/dzialki,InfoGrunt,0.2.1,,streamable-http,"Land parcel reports for Poland: zoning (MPZP), general plan, flood risk, RCN prices. No account."
+2026-10-24T20:23:36.55497Z,com.bloomforcreators/bloom,Bloom for Creators,1.0.0,,streamable-http,Save and edit social post drafts in Bloom for Creators. Draft-only; cannot publish or delete.
+2026-10-24T20:28:46.687883Z,io.github.slyaidevelop/frijolito,,1.0.0,https://github.com/slyaidevelop/frijolito,streamable-http,"Verify Frijolito receipts, read your Frijolito context, and file or follow requests with the team."
+2026-10-24T20:31:03.293495Z,io.github.IndianAppGuy/talktoads-mcp,TalkToAds,1.0.0,https://github.com/IndianAppGuy/talktoads-agent,streamable-http,"Run Meta (Facebook + Instagram) ads by chat: reports, audits, reel boosts. New ads start paused."
+2026-10-24T20:31:20.178022Z,com.audiohash/audiohash,AudioHash,1.0.0,,streamable-http,Turn text into natural-sounding MP3 voice-overs in 6 languages. Free plan included.
+2026-10-24T20:33:24.885475Z,com.neoavis/constats,Neoavis,1.0.0,,streamable-http,"What an AI agent found when shopping at 300 French online merchants: score, six steps, five facts."
+2026-10-24T20:40:36.985993Z,io.github.doolahq/doola,doola,0.1.0,https://github.com/doolahq/plugins,streamable-http,"Form a Wyoming LLC from a conversation: name, industry, members, ownership, and state filing."
+2026-10-24T20:41:54.018923Z,io.github.KevinM222/x402-research-mcp,x402 Research,0.4.1,https://github.com/KevinM222/x402-research-mcp,,Pay-per-call x402 crypto research and Base address/approval risk checks. Testnet by default.
+2026-10-24T20:42:14.904304Z,io.github.Skotinus-wdev/botcq,BotCQ,1.0.0,https://github.com/Skotinus-wdev/botcq,streamable-http,"ICQ for AI agents: handles, DMs, rooms, inbox and presence so agents can message each other."
+2026-10-24T20:42:15.322386Z,com.rottenads/offers,RottenAds affiliate offers,1.0.0,,streamable-http,"Search CPL/CPA affiliate offers (telehealth, finance, insurance); apply as publisher or advertiser."
+2026-10-24T20:42:32.874704Z,news.exchange/offers,"Exchange.news — Crypto offers, campaigns and news",1.1.0,,streamable-http,"Read-only crypto signup codes, partner links, sourced campaign dates and the latest crypto news."
+2026-10-24T20:46:36.499679Z,io.github.quantustik/mcp,,2.2.0,https://github.com/quantustik/mcp-server,streamable-http,"S&P 500 market data: filings, earnings, insider, Congress and institutional trades. No forecasts."
+2026-10-24T20:47:33.378582Z,com.qodflow/qodflow-mcp,QodFlow,0.1.3,https://github.com/qodflow/qodflow-mcp,,"Shared kanban board with SLA tracking: AI agents claim jobs, report progress, ask humans to decide."
+2026-10-24T20:52:41.954247Z,io.usefulapi/instamojo,Instamojo MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Instamojo payment requests, payments and refunds; create payment links and refund payments."
+2026-10-24T20:55:54.476158Z,io.github.Tanshaydar/quartermaster,,1.4.0,https://github.com/Tanshaydar/Quartermaster,,"Local MCP asset intelligence across Unity, Fab, Megascans, Gumroad & Cosmos."
+2026-10-24T20:56:21.784105Z,ai.blaze.app/blaze,Blaze,1.0.0,,streamable-http,"Create, edit, and schedule social media posts, carousels, videos, blogs, and emails."
+2026-10-24T20:58:04.558153Z,ai.promptev/promptev,promptev,1.0.0,,streamable-http,"Sovereign AI agents for business: answers from company data, each person's permissions, approvals."
+2026-10-24T21:02:21.960537Z,io.github.cenitu/inventor-mcp-server,Autodesk Inventor,0.3.0,https://github.com/cenitu/inventor-mcp-server,,"Parametric 3D modeling in Autodesk Inventor: sketches, features, sheet metal, assemblies"
+2026-10-24T21:04:00.021609Z,io.github.Rwb3n/instagram-recipes,Instagram Recipe Extractor (Apify),1.0.0,,streamable-http,"Structured recipes from Instagram cooking reels, any language, via Apify. No-recipe reels free."
+2026-10-24T21:04:26.774979Z,org.roundtrips/roundtrips,RoundTrips,1.2.0,,streamable-http,"Plan and coordinate a group trip from your AI assistant: invites, votes, days and shared costs."
+2026-10-24T21:05:15.98965Z,com.pinbuilds/pinbuilds,PinBuilds,1.0.0,,streamable-http,"Create Pinterest pins from blog posts and Shopify/Etsy products, and schedule them to your boards."
+2026-10-24T21:14:57.527684Z,pro.gisoo/gisoo,Gisoo,1.0.0,,streamable-http,"Ask other AI models and generate images, speech, music and video from your coding agent."
+2026-10-24T21:15:34.997742Z,com.ismynumberspam/spam-i-am,Spam I Am: carrier spam label check,1.0.0,,streamable-http,"See if a phone number shows Spam Risk or Scam Likely on AT&T, Verizon and T-Mobile real phones."
