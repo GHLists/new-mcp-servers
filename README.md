@@ -9,45 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 10:19 UTC
+## Latest list — 2026-10-24 11:19 UTC
 
-New MCP servers published between 2026-10-24 09:20 UTC and 2026-10-24 10:19 UTC.
+New MCP servers published between 2026-10-24 10:19 UTC and 2026-10-24 11:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-24T10-19-52-79724Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-24T11-19-59-502989Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-24 09:24:34 | com.playlistmap/playlistmap | PlaylistMap | 1.1.0 | Find active Spotify playlists for a song and check a playlist's integrity. No c… |
-| 2026-10-24 09:28:16 | [io.github.GORZ-APP/gorz](https://github.com/GORZ-APP/gorz-mcp) |  | 0.1.0 | Solana memecoin safety checks: grade, red flags, launch bundles, same-second se… |
-| 2026-10-24 09:29:41 | com.cefidia/mcp | Cefidia | 1.0.0 | Issue, sign and manage Mexican CFDI 4.0 e-invoices, complements and credit note… |
-| 2026-10-24 09:38:11 | ai.yahad/yahad | Yahad | 1.0.0 | Hebrew group greeting cards: create one, suggest questions for signers, check h… |
-| 2026-10-24 09:39:32 | ai.darim/darim | Дарим | 1.0.0 | Russian group greeting cards: create one, suggest questions for signers, check… |
-| 2026-10-24 09:42:06 | [io.github.Manish-Tamang/dittu](https://github.com/Manish-Tamang/dittu) | dittu | 0.1.0 | Clone any website's frontend into Next.js or Astro and verify it with pixel dif… |
-| 2026-10-24 09:44:12 | [io.github.subimpact/nimbooks-mcp](https://github.com/subimpact/nimbooks-mcp) | NimBooks | 1.2.0 | Read-only Nimiq books: balances, history, statements, staking, payment and stak… |
-| 2026-10-24 09:47:06 | com.scriptmasterlabs/mnemos | SCRIPTMASTERLABS — MNEMOS Options Radar | 2.0.0 | Options radar MCP: Astra scorecard, decisions ledger, options scans, gas + arb.… |
-| 2026-10-24 09:47:09 | com.scriptmasterlabs/calibration-court | SCRIPTMASTERLABS — Calibration Court | 1.0.0 | Calibration Court MCP: model calibration leaderboard, ledger verify, paid recal… |
-| 2026-10-24 09:47:12 | com.scriptmasterlabs/cascade-graph | SCRIPTMASTERLABS — Cascade Graph | 0.1.0 | Cascade Graph MCP: macro decision capsules + Jev jury review over a hash-chaine… |
-| 2026-10-24 09:47:14 | com.scriptmasterlabs/triple-trigger | SCRIPTMASTERLABS — Triple-Trigger | 2.0.0 | Triple-Trigger MCP: SPEC v2 triple-trigger ticker scans on live Schwab data. $0… |
-| 2026-10-24 09:47:16 | com.scriptmasterlabs/robinhood-rwa | SCRIPTMASTERLABS — Robinhood RWA Intell… | 0.2.0 | Robinhood Chain stock-token + prediction-market intelligence MCP. Read-only, ev… |
-| 2026-10-24 09:47:19 | com.scriptmasterlabs/b20-truth | SCRIPTMASTERLABS — B20 Truth | 1.0.0 | B20 Truth MCP: check Base B20 token claims against on-chain evidence. Paid repo… |
-| 2026-10-24 09:47:22 | [com.scriptmasterlabs/provider-trust](https://gitlab.com/script-master-labs-llc-group/provider-trust) | SCRIPTMASTERLABS — Provider Trust + CAN… | 1.3.0 | Provider Trust MCP: verify providers before agents trust them + CANON bulk regi… |
-| 2026-10-24 09:47:43 | com.scriptmasterlabs/x402-gateway | SCRIPTMASTERLABS — x402 Gateway | 1.4.0 | x402 Gateway MCP (canonical host): discover the SML x402 payment contract + gat… |
-| 2026-10-24 09:49:11 | [io.github.arnouthoebreckx/albert-heijn-be-mcp](https://github.com/arnouthoebreckx/albert-heijn-be-mcp) | Albert Heijn | 1.1.1 | Unofficial Albert Heijn server: products, bonus deals, recipes, shopping list,… |
-| 2026-10-24 09:49:26 | [io.github.preloop/preloop](https://github.com/preloop/preloop) | Preloop | 0.17.1 | Open-source AI agent control plane and software factory: govern every tool and… |
-| 2026-10-24 09:50:55 | market.payapi/marketplace | PayAPI Market | 1.1.0 | Search settlement-verified x402 APIs for free. Pay providers in USDC on Base, S… |
-| 2026-10-24 09:51:52 | dev.transica/transica | Transica | 1.0.0 | Checks whether a web page is ready for AI agents and whether an MCP server meet… |
-| 2026-10-24 10:02:49 | [io.github.pontivus-com/span](https://github.com/pontivus-com/span) | Span | 0.6.1 | Codebase understanding stored with its evidence, marked stale when that evidenc… |
-| 2026-10-24 10:06:09 | ai.pingaura/pingaura | PingAura | 1.0.0 | AI visibility for your brand: scores, competitors, prompts, site health and art… |
-| 2026-10-24 10:07:04 | [io.github.devops-infinity/ownserp](https://github.com/devops-infinity/ownserp) | OwnSERP | 0.1.2 | MCP server for the Serper.dev search API with per-call credit accounting |
-| 2026-10-24 10:07:51 | com.gpt-video/gpt-video-full | GPT-Video Full | 1.0.0 | The whole GPT-Video catalogue: clips, split screen, streamer, fake text, voiceo… |
-| 2026-10-24 10:07:56 | com.gpt-video/gpt-video | GPT-Video | 1.0.0 | Turn a long video into short vertical clips: find moments, add captions, refram… |
-| 2026-10-24 10:11:04 | ai.commerceai/shopping | CommerceAI | 1.0.0 | A shopping agent for AI agents. Search, compare and answer product questions. |
-| 2026-10-24 10:11:57 | io.drawdy/mcp | Drawdy | 1.0.0 | Free whiteboard where people and AI draw together: read cloud boards, draw diag… |
-| 2026-10-24 10:13:17 | [io.github.ericrodri/ia-skills](https://github.com/ericrodri/ia-skills) | ia-skills: prompts y skills de IA en es… | 0.1.2 | Busca e instala en Claude Code miles de prompts y skills de IA en español, por… |
-| 2026-10-24 10:14:17 | com.pinpinterest/keywords | PinPinterest — Pinterest Keyword Resear… | 1.0.0 | Pinterest keyword research from our own crawl: saves, competition, related term… |
-| 2026-10-24 10:15:59 | app.planbeforeyoudie/facts | Plan Before You Die facts | 1.0.0 | Checked US family-readiness facts with official sources: forms, state rules and… |
-| 2026-10-24 10:17:12 | [eu.citedby/citedby](https://github.com/resaleiq/citedby-mcp) | CitedBy | 1.0.0 | Check a page, AI-crawler access, llms.txt and backlinks of a site. Free, read-o… |
-| 2026-10-24 10:19:47 | org.duckdns.keepthis/persistent-text-store | Persistent text store | 1.0.0 | No-auth text store for agents: persist notes past your episode, read what other… |
+| 2026-10-24 10:25:14 | [com.quantstark/quantstark](https://github.com/shekhawat2407/Quant_Framework) |  | 0.1.0 | Quantitative equity toolkit: factor data, backtests, risk model, attribution, o… |
+| 2026-10-24 10:25:53 | [io.github.Shirish-Singh/niceform-mcp](https://github.com/Shirish-Singh/niceform-mcp) |  | 0.3.0 | Create and publish forms, collect responses, summarize and export CSV on nicefo… |
+| 2026-10-24 10:32:35 | io.github.Peerivo/watch | Peerivo Watch | 0.18.0 | Web search, data extraction and controlled browser automation for AI assistants… |
+| 2026-10-24 10:38:42 | com.sitesfare/connect | Sitesfare Connect | 1.2.0 | Edit, publish and host Sitesfare websites — text, photos, sections, themes and… |
+| 2026-10-24 10:45:24 | [com.nodes2cloud/mcp](https://github.com/nodes2cloud-com/n2c-mcp) | Nodes2Cloud | 1.2.0 | Build, validate and deploy workflows as Cloudflare Workers in your own account,… |
+| 2026-10-24 10:47:16 | ai.slabline/slabline | Slabline | 1.0.0 | Values graded sports cards and Pokémon/TCG slabs by grade from real sales. Free… |
+| 2026-10-24 10:47:45 | [io.github.schybo/scout](https://github.com/schybo/clarved) | Scout | 0.1.0 | Watch public store collection pages; your AI agent adds, pauses, and scans watc… |
+| 2026-10-24 10:49:22 | com.uplads/uplads | uplads | 1.0.0 | Ads MCP for Meta, Google Ads, TikTok, Snapchat and LinkedIn: stage launches and… |
+| 2026-10-24 10:51:21 | [io.github.ContentWriterco/kolejki-nfz-mcp](https://github.com/ContentWriterco/kolejki-nfz-mcp) |  | 0.1.0 | NFZ waiting times in Poland: where a specialist, test or treatment is available… |
+| 2026-10-24 10:53:16 | [io.github.shbernal/rfc-ai-tooling](https://github.com/shbernal/rfc-ai-tooling) | RFC lookup | 0.5.2 | Read IETF RFCs one section at a time, with superseded specs flagged on every re… |
+| 2026-10-24 10:56:08 | io.github.ts463985601-prog/agent-haven | Agent Haven | 0.1.0 | Open world for autonomous AIs: move in, get a home, take tasks, build, and retu… |
+| 2026-10-24 11:04:38 | [io.usefulapi/chatra](https://github.com/m190/usefulapi-mcp) | Chatra MCP by usefulapi | 1.0.0 | Read and update Chatra visitors; send, edit and delete chat and pushed messages. |
+| 2026-10-24 11:04:38 | [io.usefulapi/corsizio](https://github.com/m190/usefulapi-mcp) | Corsizio MCP by usefulapi | 1.0.0 | Read Corsizio events, attendees and registrations, including payment status. Re… |
+| 2026-10-24 11:04:38 | [io.usefulapi/papershift](https://github.com/m190/usefulapi-mcp) | Papershift MCP by usefulapi | 1.0.0 | Read Papershift absences, vacation, time tracking and shifts; request and revie… |
+| 2026-10-24 11:04:38 | [io.usefulapi/robly](https://github.com/m190/usefulapi-mcp) | Robly MCP by usefulapi | 1.0.0 | Find Robly contacts and lists; subscribe, update and move contacts between list… |
+| 2026-10-24 11:04:38 | [io.usefulapi/dialmycalls](https://github.com/m190/usefulapi-mcp) | DialMyCalls MCP by usefulapi | 1.0.0 | Manage DialMyCalls contacts and groups; read broadcasts; send text and voice br… |
+| 2026-10-24 11:04:39 | [io.usefulapi/suitedash](https://github.com/m190/usefulapi-mcp) | SuiteDash MCP by usefulapi | 1.0.0 | Read and update SuiteDash contacts, companies and projects; create leads and cl… |
+| 2026-10-24 11:04:39 | [io.usefulapi/namely](https://github.com/m190/usefulapi-mcp) | Namely MCP by usefulapi | 1.0.0 | Read Namely employee profiles, groups, teams, jobs and reports; update profiles… |
+| 2026-10-24 11:04:41 | [io.usefulapi/seal-subscriptions](https://github.com/m190/usefulapi-mcp) | Seal Subscriptions MCP by usefulapi | 1.0.0 | Manage Seal Subscriptions on Shopify: subscriptions, billing attempts, items, d… |
+| 2026-10-24 11:04:41 | [io.usefulapi/upkeep](https://github.com/m190/usefulapi-mcp) | UpKeep MCP by usefulapi | 1.0.0 | Read UpKeep work orders, assets, parts and meters; create requests and work ord… |
+| 2026-10-24 11:04:42 | [io.github.Xerolo44/rpgmaker-mv-mcp](https://github.com/Xerolo44/RPG-Maker-MV-MCP) |  | 0.2.0 | MCP server for reading, editing, and playtesting RPG Maker MV projects |
+| 2026-10-24 11:08:54 | [io.github.vedranius/wrm-pro](https://github.com/vedranius/web-browser-RDM-public) | WRM PRO | 13.12.0 | Your self-hosted WRM PRO: logs, files, services and commands with approvals and… |
+| 2026-10-24 11:09:52 | [ai.ciphyr.agentmart/core](https://github.com/mustafaakmese/agentmart-plugins) | AgentMart core tools | 1.0.0 | The AgentMart shop with a shorter tool list: the same sign-in, balance and item… |
+| 2026-10-24 11:16:43 | [app.hellohop/hellohop](https://github.com/socialgroundco/hellohop-mcp) |  | 0.3.1 | Read WhatsApp chats and groups, and send messages when allowed, through the Hel… |
+| 2026-10-24 11:18:40 | [io.github.ayush-s-tomar/portfolio-mcp-server](https://github.com/ayush-s-tomar/portfolio-mcp-server) |  | 1.0.2 | MCP server exposing Ayush Tomar's AI portfolio -- ask what he built or his flag… |
 
 ## Data source
 
