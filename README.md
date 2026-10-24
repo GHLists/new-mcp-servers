@@ -9,34 +9,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 23:18 UTC
+## Latest list — 2026-10-24 00:19 UTC
 
-New MCP servers published between 2026-10-23 22:20 UTC and 2026-10-23 23:18 UTC.
+New MCP servers published between 2026-10-23 23:18 UTC and 2026-10-24 00:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-23T23-18-47-054058Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-24T00-19-51-184756Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-23 22:25:24 | com.agentscouthq/directory | AgentScout | 1.0.0 | Read-only search over 1,706 AI agent tools and 239 MCP servers. No sign-up need… |
-| 2026-10-23 22:39:45 | tools.csvfile/csv-file-tools | CSV File Tools | 1.0.0 | Inspect, filter, sort and edit CSV text with four free tools. No account or API… |
-| 2026-10-23 22:40:19 | [io.github.hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server) | Terraform | 1.4.1 | Generate more accurate Terraform and automate workflows for HCP Terraform and T… |
-| 2026-10-23 22:41:40 | [app.openkrill/hiring-signals](https://github.com/nguyenhieuec/agent-tools-plugins) | Hiring Signals | 1.0.0 | Who is hiring and what changed: company hiring briefs and new or closed roles s… |
-| 2026-10-23 22:48:22 | com.cleanslop/cleanslop | CleanSlop | 2026.10.23 | Your coding agent scans your pushed code, reads what's worth fixing, fixes it,… |
-| 2026-10-23 22:48:41 | dev.rackrates/ledger | Rack Rates | 0.1.0 | Published list prices of compute (VPS, GPU hours, LLM tokens, media), archived… |
-| 2026-10-23 22:51:15 | info.henryknows/henryknows | HenryKnows | 2.2.0 | F-1 and J-1 student immigration answers with citations to regulations and agenc… |
-| 2026-10-23 22:51:22 | [io.github.j4ckxyz/recall](https://github.com/j4ckxyz/recall) | Recall | 0.1.0 | Private, encrypted memory about you, shared by all your AI agents. Self-hosted;… |
-| 2026-10-23 22:56:26 | [io.github.tmeteor-data/open-data-actors](https://github.com/tmeteor-data/open-data-actors) |  | 1.0.0 | 64 public Apify Actors for public-record, jobs, lead, SEO and social data, as M… |
-| 2026-10-23 22:57:10 | [io.github.Surface-ops/server-track-lab](https://github.com/Surface-ops/server-track-lab-mcp) |  | 0.1.0 | Send server-side conversions to Meta CAPI (live); Google validate-only, LinkedI… |
-| 2026-10-23 22:58:29 | com.optilibra/catalog | OptiLibra Optical Networking | 1.0.0 | Search 400G/800G DCI, DWDM and optical switching gear for AI data centers and r… |
-| 2026-10-23 23:02:56 | [io.github.backenly/backenly](https://github.com/backenly/backenly) | Backenly | 0.4.0 | Postgres backend your coding agent builds over MCP; destructive actions wait fo… |
-| 2026-10-23 23:05:46 | ai.relayto/relay | Relay | 0.1.0 | Relay context from your agent to someone else's agent, with the purpose and the… |
-| 2026-10-23 23:07:15 | [io.github.firatmio/aletheia](https://github.com/firatmio/aletheia) | Aletheia | 0.1.1 | Project memory for coding agents whose memories carry code evidence, re-checked… |
-| 2026-10-23 23:11:08 | [io.github.anipottsbuilds/imessage-mcp](https://github.com/anipottsbuilds/imessage-mcp) | iMessage History | 3.3.2 | Read-only MCP server for searching and reading Apple Messages history on macOS. |
-| 2026-10-23 23:11:13 | [com.mnemopay/gridstamp](https://github.com/mnemopay/gridstamp) |  | 1.4.0 | Cryptographic spatial proof-of-presence for AV fleets, logistics, AR. 91% spoof… |
-| 2026-10-23 23:12:10 | ar.com.creatucurso/mcp | Crea tu curso | 1.0.0 | Gestioná tus cursos y subí material en lote desde tu agente. |
-| 2026-10-23 23:13:25 | com.conferencefindr/events | ConferenceFindr | 1.0.0 | Search upcoming business conferences and trade shows by keyword, industry, plac… |
-| 2026-10-23 23:13:48 | ai.dripmetrics/mcp | DripMetrics | 1.0.1 | Crypto market microstructure and on-chain metrics. $0.05/call via x402: Base US… |
-| 2026-10-23 23:17:28 | [io.github.utilify-io/utilify-mcp](https://github.com/utilify-io/utilify-mcp) | Utilify | 0.1.0 | AI agents compare and sign up for Texas utility plans: electricity, internet, g… |
+| 2026-10-23 23:20:09 | uk.alexhub/einvoice-validator | e-Invoice Validator | 1.0.0 | Validate UBL e-invoices (RO e-Factura, Peppol BIS 3.0, EN 16931) and get the ex… |
+| 2026-10-23 23:22:54 | [io.github.ihavealotofguap/hse-ruz-mcp](https://github.com/ihavealotofguap/hse-ruz-mcp) | HSE RUZ | 0.1.1 | HSE University (NIU VShE) RUZ timetable: search people, groups, rooms; get sche… |
+| 2026-10-23 23:23:52 | [io.github.kawal393/apex-psi-mcp](https://github.com/kawal393/apex-psi-mcp-server) | APEX PSI | 1.1.2 | Append-only evidence receipts for AI records: seal, verify, cite, chain-check,… |
+| 2026-10-23 23:34:25 | [io.github.macorifice/yeti](https://github.com/macorifice/yeti) | Yeti | 1.0.3 | Product design with Claude: phases, requirements, user stories, RICE, flows, da… |
+| 2026-10-23 23:39:27 | [io.github.marcogorrasi-hub/kalvi-nfse](https://github.com/marcogorrasi-hub/Classifica-NFSe) | Kalvi — NFS-e e IBS/CBS | 0.1.0 | Confere a NFS-e brasileira para IBS/CBS antes de transmitir. Sem cadastro e sem… |
+| 2026-10-23 23:47:37 | miami.own/own-miami | Own Miami | 1.1.0 | Miami condo data: buildings, listings, deed sales, ownership, layers, developer… |
+| 2026-10-23 23:49:09 | io.github.100monkeys-ai/carbon-forge | Carbon Forge | 1.0.0 | One record of code, files and pages that people and agents read and write, with… |
+| 2026-10-23 23:57:04 | [com.mnemopay/sdk](https://github.com/mnemopay/mnemopay-sdk) |  | 1.14.2 | Trust OS for AI agents: governed memory, payments, reputation, approvals, and a… |
+| 2026-10-24 00:00:38 | com.couryo/tools | Couryo free email tools | 1.0.0 | Free, no login: verify an email address, check SPF/DKIM/DMARC, explain SMTP err… |
+| 2026-10-24 00:00:39 | com.couryo/mcp | Couryo | 1.0.0 | Transactional email API: send, read delivery timelines, explain bounces, manage… |
+| 2026-10-24 00:01:13 | [io.github.Ivanolegvak/sonar-mcp](https://github.com/Ivanolegvak/getsonar-mcp) | SONAR: KYB due diligence | 0.2.0 | KYB checks on any company: registries, sanctions, PEP, ICIJ Offshore Leaks, adv… |
+| 2026-10-24 00:02:33 | [com.letsweft/weft](https://github.com/AndreiFinogeev/weft-mcp) | Weft | 0.1.2 | One board for every AI you use: agents claim tasks and finish with proof you ac… |
+| 2026-10-24 00:07:23 | [io.github.keel-trade/keel-trade](https://github.com/keel-trade/keel-trade) | Keel | 0.9.0 | Build, backtest and paper-run Hyperliquid strategies from your AI assistant. |
+| 2026-10-24 00:08:18 | [io.github.dotmoosehosting/dotmoose-tools](https://github.com/dotmoosehosting/dotmoose-mcp) |  | 1.0.0 | Public DNS, mail, TLS, and web diagnostics plus Looking Glass probes via remote… |
+| 2026-10-24 00:08:36 | io.github.shariar-k/agoranome | Agoranome seller tools | 1.0.0 | x402 seller tools: listing lint, Bazaar rank check and a buyer-agent panel. Pai… |
+| 2026-10-24 00:08:41 | io.github.Sashank-Singh/agenttwin-docs | AgentTwin Documentation | 1.0.0 | Search AgentTwin agent testing guides, Node CLI commands and supported syntheti… |
+| 2026-10-24 00:18:14 | com.askgabriel/gabriel | Gabriel | 1.0.0 | Supplements at cost-plus, your Gabriel health and routine, care search and clin… |
+| 2026-10-24 00:19:12 | com.losshq/directory | LossHQ Directory | 1.0.0 | Search certified insurance appraisers and umpires by state, city, role and spec… |
 
 ## Data source
 

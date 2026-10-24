@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-10-23T23:20:09.718336Z,uk.alexhub/einvoice-validator,e-Invoice Validator,1.0.0,,streamable-http,"Validate UBL e-invoices (RO e-Factura, Peppol BIS 3.0, EN 16931) and get the exact fix per error"
+2026-10-23T23:22:54.97689Z,io.github.ihavealotofguap/hse-ruz-mcp,HSE RUZ,0.1.1,https://github.com/ihavealotofguap/hse-ruz-mcp,,"HSE University (NIU VShE) RUZ timetable: search people, groups, rooms; get schedules"
+2026-10-23T23:23:52.896496Z,io.github.kawal393/apex-psi-mcp,APEX PSI,1.1.2,https://github.com/kawal393/apex-psi-mcp-server,,"Append-only evidence receipts for AI records: seal, verify, cite, chain-check, anchor status."
+2026-10-23T23:34:25.473192Z,io.github.macorifice/yeti,Yeti,1.0.3,https://github.com/macorifice/yeti,,"Product design with Claude: phases, requirements, user stories, RICE, flows, dashboard, Jira."
+2026-10-23T23:39:27.442723Z,io.github.marcogorrasi-hub/kalvi-nfse,Kalvi — NFS-e e IBS/CBS,0.1.0,https://github.com/marcogorrasi-hub/Classifica-NFSe,streamable-http,Confere a NFS-e brasileira para IBS/CBS antes de transmitir. Sem cadastro e sem chave.
+2026-10-23T23:47:37.110215Z,miami.own/own-miami,Own Miami,1.1.0,,streamable-http,"Miami condo data: buildings, listings, deed sales, ownership, layers, developers, market index."
+2026-10-23T23:49:09.128097Z,io.github.100monkeys-ai/carbon-forge,Carbon Forge,1.0.0,,streamable-http; streamable-http,"One record of code, files and pages that people and agents read and write, with lanes and git."
+2026-10-23T23:57:04.533526Z,com.mnemopay/sdk,,1.14.2,https://github.com/mnemopay/mnemopay-sdk,,"Trust OS for AI agents: governed memory, payments, reputation, approvals, and audit evidence."
+2026-10-24T00:00:38.494998Z,com.couryo/tools,Couryo free email tools,1.0.0,,streamable-http,"Free, no login: verify an email address, check SPF/DKIM/DMARC, explain SMTP errors, build SPF/DMARC."
+2026-10-24T00:00:39.403566Z,com.couryo/mcp,Couryo,1.0.0,,streamable-http,"Transactional email API: send, read delivery timelines, explain bounces, manage domains (OAuth)."
+2026-10-24T00:01:13.856908Z,io.github.Ivanolegvak/sonar-mcp,SONAR: KYB due diligence,0.2.0,https://github.com/Ivanolegvak/getsonar-mcp,,"KYB checks on any company: registries, sanctions, PEP, ICIJ Offshore Leaks, adverse media."
+2026-10-24T00:02:33.32012Z,com.letsweft/weft,Weft,0.1.2,https://github.com/AndreiFinogeev/weft-mcp,streamable-http,One board for every AI you use: agents claim tasks and finish with proof you accept or return.
+2026-10-24T00:07:23.153775Z,io.github.keel-trade/keel-trade,Keel,0.9.0,https://github.com/keel-trade/keel-trade,streamable-http,"Build, backtest and paper-run Hyperliquid strategies from your AI assistant."
+2026-10-24T00:08:18.301092Z,io.github.dotmoosehosting/dotmoose-tools,,1.0.0,https://github.com/dotmoosehosting/dotmoose-mcp,streamable-http,"Public DNS, mail, TLS, and web diagnostics plus Looking Glass probes via remote MCP."
+2026-10-24T00:08:36.090163Z,io.github.shariar-k/agoranome,Agoranome seller tools,1.0.0,,streamable-http,"x402 seller tools: listing lint, Bazaar rank check and a buyer-agent panel. Paid in USDC."
+2026-10-24T00:08:41.71259Z,io.github.Sashank-Singh/agenttwin-docs,AgentTwin Documentation,1.0.0,,streamable-http,"Search AgentTwin agent testing guides, Node CLI commands and supported synthetic service contracts."
+2026-10-24T00:18:14.29344Z,com.askgabriel/gabriel,Gabriel,1.0.0,,streamable-http,"Supplements at cost-plus, your Gabriel health and routine, care search and clinician-reviewed Rx."
+2026-10-24T00:19:12.45823Z,com.losshq/directory,LossHQ Directory,1.0.0,,streamable-http,"Search certified insurance appraisers and umpires by state, city, role and specialty."
