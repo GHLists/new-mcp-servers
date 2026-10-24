@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-10-24T21:24:48.824927Z,com.onrender.prompt-injection-check/prompt-injection-check,Prompt-injection check (x402),0.4.0,,streamable-http,"Prompt-injection check for agents: verdict, score, evidence spans. $0.01 per text via x402."
+2026-10-24T21:26:08.897483Z,cz.evidence-exekuci/evidence,Evidence exekucí,1.0.0,,streamable-http,"Czech registers: executions (paid 60 CZK), insolvency, land registry, ID validity, sanctions."
+2026-10-24T21:30:51.658557Z,io.usefulapi/gocanvas,GoCanvas MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read GoCanvas forms, submissions, users, dispatches and reference data; create dispatches."
+2026-10-24T21:30:51.662366Z,io.usefulapi/stuart,Stuart MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Quote, validate, book and track Stuart courier deliveries; cancel jobs and check zone coverage."
+2026-10-24T21:32:10.029096Z,com.acriumautomated/acrium,Acrium,1.0.0,https://github.com/ehtyn/acrium_automated,streamable-http,"Let your AI run Google Ads, social posting, Shopify, inventory and phone calls for your business."
+2026-10-24T21:33:14.281131Z,com.sandboxer/mcp,Sandboxer,0.1.0,,,"Cloud Linux VMs for your agent: run code, Docker, files and HTTPS previews in a Sandboxer microVM."
+2026-10-24T21:38:35.163199Z,com.onrender.package-check-qy40/package-check,Package check for coding agents (x402),0.3.0,,streamable-http,"Check PyPI/npm packages before install: exists, CVEs, typosquats, verdict. $0.002/package via x402."
+2026-10-24T21:39:18.091345Z,dev.workers.nextgenmovers.ngm-agent-api/movers,Next Generation Movers,0.5.0,,streamable-http,Nationwide long-distance moving quotes ($0.01 via x402) and free date holds. Local moves DC/MD/VA.
+2026-10-24T21:40:06.704212Z,dev.agent-identity/agent-identity,Agent Identity,0.3.0,,streamable-http,"Give your AI agent its own email inbox, phone number and agent-to-agent tasks."
+2026-10-24T21:41:46.95388Z,com.helmbeam/helmbeam,Helmbeam,0.2.0,,streamable-http,"Company research briefs your agent writes and Helmbeam keeps, with every version saved."
+2026-10-24T21:47:52.445056Z,io.github.pipeworx-io/cmf-chile,Cmf Chile,0.1.0,https://github.com/pipeworx-io/mcp-cmf-chile,streamable-http,CMF Chile MCP -- Comision para el Mercado Financiero (Chile's financial regulator).
+2026-10-24T21:48:44.432848Z,io.github.pipeworx-io/france-geodata,France Geodata,0.1.0,https://github.com/pipeworx-io/mcp-france-geodata,streamable-http,France Geodata MCP — point/radius questions on French public geodata.
+2026-10-24T21:49:36.393106Z,io.github.pipeworx-io/usda-market-news,Usda Market News,0.1.0,https://github.com/pipeworx-io/mcp-usda-market-news,streamable-http,USDA AMS Market News -- Livestock Mandatory Price Reporting (LMR).
+2026-10-24T21:49:39.37693Z,io.github.tinbox-labs/spawnpop,spawnpop,1.0.0,,streamable-http,"Roblox game assets for your agent: free kit plan, then GUI, icons, thumbnails, 3D props and music."
+2026-10-24T21:52:12.713324Z,com.onrender.shopify-launch-watch/shopify-launch-watch,Shopify launch watch for e-commerce agents (x402),0.2.0,,streamable-http,"See what Shopify competitors launched this week, from products.json. $0.01/store via x402."
+2026-10-24T21:54:04.280338Z,io.studiomeyer/meetmyagent,MeetMyAgent,0.3.1,https://github.com/studiomeyer-io/meetmyagent-mcp,streamable-http,"Manage your MeetMyAgent agent, search the directory and connect external A2A agents via OAuth."
+2026-10-24T21:56:27.093977Z,app.thegetfit/getfit,GetFit,1.1.0,,streamable-http,"Build a workout that fits your time, gear and body — free, no sign-in."
+2026-10-24T21:56:29.725027Z,io.github.mrpkk/nidhipati,Nidhipati Proof of Spend,0.6.0,https://github.com/mrpkk/nidhipati,,"Verify agent spend, receipts, RWA NAV, prediction evidence and books. Read-only, no keys."
+2026-10-24T21:57:04.501038Z,app.boxitem/boxitem,BoxItem,1.0.1,,streamable-http,"Search and organize your personal inventory: warehouses, boxes, items and photos. Undo any change."
+2026-10-24T21:57:43.462295Z,ch.assurs/lamal,Assurs LAMal comparator,1.1.0,,streamable-http,"Swiss LAMal premium comparison (OFSP 2027), single or household; consented offer requests to SPI."
+2026-10-24T22:01:25.307666Z,so.thumbnailmaker/thumbnailmaker,ThumbnailMaker,1.1.0,,streamable-http,"YouTube thumbnails from your AI chat: briefs, checks, generation and edits, price shown first."
+2026-10-24T22:02:35.414175Z,app.doorbase/market-data,,2.0.0,,streamable-http,"US rental market data by zip: rent, cap rates, vacancy, hazard risk, rent trends. Free, no auth."
+2026-10-24T22:05:58.455389Z,io.usefulapi/axis-lms,Axis LMS MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Axis LMS users, courses, learning paths, certifications and reports; manage enrollments."
+2026-10-24T22:16:45.599776Z,no.lovlyai/lovly,Lovly,1.0.0,,streamable-http,Answers about Norwegian law with citations to current laws and regulations on Lovdata.
