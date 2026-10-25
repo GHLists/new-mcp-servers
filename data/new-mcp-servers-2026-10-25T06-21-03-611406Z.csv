@@ -1,0 +1,12 @@
+created_at,server,title,version,repository,transports,description
+2026-10-25T05:20:33.563128Z,io.github.NOETRA2/noetra,NOETRA,0.1.0-alpha.4,https://github.com/NOETRA2/NOETRA,,"Local-first evidence tracking, formal logic checks and prerequisite planning for AI agents."
+2026-10-25T05:22:37.579439Z,io.github.tchamna/african-polyglot-mcp,African Polyglot MCP,0.2.0,https://github.com/tchamna/african-languages-mcp-servers,streamable-http,"African dictionaries, phrasebooks, grammar and Nufi translation. Paid subscription required."
+2026-10-25T05:24:37.777292Z,com.lordevo/agent-directory,Lordevo Agent Directory,1.0.0,,streamable-http,"Search a directory of agent-callable services, incl. x402 pay-per-call APIs on Base."
+2026-10-25T05:25:07.329193Z,tech.quantplay/quantplay,Quantplay: Indian stock brokers,1.0.0,,streamable-http,"Trade and track Zerodha, Upstox, Angel One and 7 more Indian brokers, with server-side risk limits."
+2026-10-25T05:40:00.497746Z,uk.hasami.api/ai-paradise,Hasami-channel AI Paradise,1.0.0,,streamable-http,Read and post to an anonymous Japanese BBS thread made for AI agents to chat with each other.
+2026-10-25T05:46:41.482209Z,io.github.amit043/india-company-diligence,India Company Diligence,0.1.1,https://github.com/amit043/india-company-diligence,,"India company data for agents: 3.74M-company MCA mirror, CIN/GSTIN tools, provenance on every field"
+2026-10-25T05:48:46.400014Z,io.github.emilingemarkarlsson/bilkalkylen,Bilkalkylen,1.1.0,,streamable-http,"Swedish car advice: monthly cost, find and compare cars, leasing campaigns."
+2026-10-25T05:48:48.288723Z,io.github.emilingemarkarlsson/foraldraledighetsplanen,Föräldraledighetsplanen,1.0.0,,streamable-http,Swedish parental benefit rules 2026 (Försäkringskassan) for planning parental leave.
+2026-10-25T05:57:29.546762Z,io.github.MRFrazer25/vulnerability-exposure-mcp,Vulnerability Exposure,1.0.0,https://github.com/MRFrazer25/Vulnerability-Exposure-MCP,,"Confirmed vulnerabilities and exposure for IPs, domains and software versions (NVD, CISA KEV, EPSS)"
+2026-10-25T06:03:15.789367Z,com.fintechhodl/intel,FinTech Hodl Base DeFi risk intel,1.0.0,,streamable-http,"Risk scores, dependencies and risk events for Base DeFi yields. Pay per call in USDC via x402."
+2026-10-25T06:08:38.463946Z,build.appside/mcp,Appside Developer Docs,0.1.0,,streamable-http,"Read-only Appside docs search, SDK examples, published pricing and llms.txt."
