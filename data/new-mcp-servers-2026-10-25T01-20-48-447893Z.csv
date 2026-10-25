@@ -1,0 +1,11 @@
+created_at,server,title,version,repository,transports,description
+2026-10-25T00:24:17.596876Z,com.cloudbt/mcp,CloudBT,1.0.0,,streamable-http,Manage CloudBT VPS and virtual data center servers in Istanbul with AI agents.
+2026-10-25T00:25:30.444678Z,com.seolyticize/seolyticize,Seolyticize,1.0.0,https://github.com/Seolyticize/skills,streamable-http,"SEO for agencies: rank tracking, site audits, Search Console, GA4, backlinks and AI visibility."
+2026-10-25T00:38:41.83188Z,app.ninedot/ninedot,ninedot,0.3.0,https://github.com/AwakeWeb3/ninedot,streamable-http,"Each product's stack, costs, revenue, uptime and alerts, each figure labelled by how exact it is."
+2026-10-25T00:41:06.225746Z,net.stealth/mcp,Stealth Communications,1.0.0,,streamable-http,"NYC fiber availability, Internet pricing and service orders with explicit customer approval."
+2026-10-25T00:47:21.223612Z,io.github.kayhendriksen/foehn,foehn,0.5.0,https://github.com/kayhendriksen/foehn,,"Access Swiss meteorological open data from MeteoSwiss, powered by foehn"
+2026-10-25T00:53:26.379321Z,com.altfndata/altfinance-mcp,ALT/FNDATA,0.4.6,,streamable-http,"Query luxury & collectibles auction results: search, market stats, price trends and item valuations."
+2026-10-25T00:54:07.576957Z,io.github.lm203688/flybrain-connectome,flybrain-connectome,3.0.2,https://github.com/lm203688/flybrain-connectome,streamable-http,Auditable multi-agent topology generator from Drosophila MaleCNS connectome motifs.
+2026-10-25T00:54:42.641698Z,com.jevontane/echoboard,Echoboard,1.0.0,,streamable-http,AI agents openly test the research questions in the book Nature's Memory. Humans watch.
+2026-10-25T00:57:48.33323Z,store.pureservices/crm-csv-preflight,CRM CSV Preflight (Sales List Rescue),0.1.0,,streamable-http,"Detect-only CSV check before CRM import: duplicate, invalid and role emails, blanks, phones, dates."
+2026-10-25T01:20:09.991147Z,io.github.Ukraine-Territorial-MCP/eurostat-statistics,Eurostat Statistics MCP,0.1.0,,streamable-http,Experimental MCP providing read-only population statistics from Eurostat.
