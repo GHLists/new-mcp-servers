@@ -9,35 +9,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 15:18 UTC
+## Latest list — 2026-10-25 16:22 UTC
 
-New MCP servers published between 2026-10-25 14:21 UTC and 2026-10-25 15:18 UTC.
+New MCP servers published between 2026-10-25 15:18 UTC and 2026-10-25 16:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-25T15-18-56-32096Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-25T16-22-38-953534Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-25 14:23:15 | [io.github.TMHSDigital/screencast-mcp](https://github.com/TMHSDigital/screencast-mcp) | Screencast MCP | 0.28.1 | MCP server for Windows screen recording, frame sampling, and minimal ffmpeg edi… |
-| 2026-10-25 14:28:17 | [io.github.hsouf/cldf-mcp](https://github.com/hsouf/cldf-mcp) |  | 0.1.0 | WALS typology joined with Glottolog classification, with provenance and family-… |
-| 2026-10-25 14:28:27 | il.co.checko/travel-insurance | Checko — travel insurance comparison | 1.1.0 | Compare travel insurance for trips abroad from Israel on Checko. Trip details o… |
-| 2026-10-25 14:28:29 | il.co.checko/docs | Checko — travel insurance guides and FAQ | 1.1.0 | Read-only Hebrew travel insurance guides and FAQ published on checko.co.il. |
-| 2026-10-25 14:31:33 | [io.github.toruproject/mapnetwork-mcp](https://github.com/toruproject/mapnetwork-mcp) |  | 6.1.1 | Generate styled PNG/SVG map images of places in Japan with 11 customizable colo… |
-| 2026-10-25 14:34:14 | com.ohmbo/ohmbo | Ohmbo | 0.8.18 | Design and revise PCBs from plain language, track jobs, and retrieve design art… |
-| 2026-10-25 14:37:29 | org.diditwork/did-it-work | Did It Work? | 0.2.16 | Charity evidence for AI agents: cited evaluator figures, caveats and an outcome… |
-| 2026-10-25 14:40:02 | org.conbot/conbot | conbot | 1.0.0 | Help network for Grok Bot agents: find_help matches a need with agents that off… |
-| 2026-10-25 14:42:26 | io.github.reinartz/gannet-mcp |  | 0.1.0 | MCP server for web searching and webpage fetching |
-| 2026-10-25 14:48:37 | [net.bigfloppy.testlens/testlens](https://github.com/wminno/testlens) | TestLens | 1.1.0 | Paste code + tests, get a strong/weak verdict with killed/survived mutants. Fre… |
-| 2026-10-25 14:48:49 | ir.netarz/fx-rates | NetArz FX Rates | 1.0.0 | Iranian rial/toman exchange rates (~30 currencies), conversion, history and gol… |
-| 2026-10-25 14:49:16 | [io.github.vaemail/vaemail](https://github.com/vaemail/vaemail-mcp) |  | 1.2.0 | Email infrastructure for AI agents: send, authenticate domains, track delivery,… |
-| 2026-10-25 15:05:29 | [io.github.LuxAlgo/luxalgo-mcp-server](https://github.com/LuxAlgo/luxalgo-mcp-server) | LuxAlgo MCP | 2.0.0 | LuxAlgo for AI agents: the Library, prop firms, Market Trackers, Edge Stats, an… |
-| 2026-10-25 15:06:16 | [io.github.Batu1-1an/istanbul-mcp](https://github.com/Batu1-1an/istanbulmcp) | Istanbul MCP | 0.2.4 | Read-only Istanbul open city data: transport, parking, water, nearby services a… |
-| 2026-10-25 15:06:20 | ca.dispola/places | Dispolà | 1.0.0 | Same-day appointment openings in Quebec: hair, nails, massage, physio. No accou… |
-| 2026-10-25 15:07:24 | [dev.zambo/zambo](https://gitlab.com/rambozambodotdev/zambo) |  | 4.1.1 | The verifiable work layer for AI. Every run returns a verifiable receipt. No ke… |
-| 2026-10-25 15:11:29 | com.habidu/habidu | Habidu | 1.0.0 | Read and change your Habidu daily plan: tasks, inbox, routines, streak, journal… |
-| 2026-10-25 15:12:01 | io.github.IL-CONCETTO/il-co | IL Co | 0.1.0 | Source-backed handoffs from Slack, Linear and GitHub, approved by their author. |
-| 2026-10-25 15:14:06 | [io.github.oleg-vdv/kepil](https://github.com/oleg-vdv/kepil) |  | 0.3.3 | Passport, mandate, fail-closed action gate and tamper-evident journal for AI ag… |
-| 2026-10-25 15:14:43 | [io.github.devtalh/backdraw](https://github.com/devtalh/backdraw) | Backdraw | 2.1.1 | Generate images with your own ChatGPT account in a background Chrome tab. Needs… |
-| 2026-10-25 15:18:45 | in.nityaflow/gst-credit-match | Nityaflow GST credit match | 1.0.0 | India GST credit check: matches GSTR-2B with the purchase register and signs a… |
+| 2026-10-25 15:19:14 | [com.wassenger/whatsapp](https://github.com/wassengerhq/whatsapp-mcp) | WhatsApp Business API by Wassenger | 1.0.0 | Send and read WhatsApp messages, templates, chats and campaigns through the off… |
+| 2026-10-25 15:19:16 | ai.hotrepo/hotrepo | HotRepo | 1.0.0 | GitHub Trending boards and AI-written reviews of trending open-source projects. |
+| 2026-10-25 15:20:38 | [io.github.BumiAtlas/malaysia-land-zoning](https://github.com/BumiAtlas/malaysia-land-zoning-mcp) | Malaysia Land Lots & Local Plan Zoning | 1.0.0 | Malaysian JUPEM land lots by UPI, lot number or coordinates, with PLANMalaysia… |
+| 2026-10-25 15:20:51 | [io.github.BumiAtlas/singapore-land-zoning](https://github.com/BumiAtlas/singapore-land-zoning-mcp) | Singapore Land Lots & Master Plan Zoning | 1.0.0 | Singapore SLA land lots by lot number or coordinates, with URA Master Plan 2025… |
+| 2026-10-25 15:21:05 | [io.github.BumiAtlas/thailand-land-zoning](https://github.com/BumiAtlas/thailand-land-zoning-mcp) | Thailand Land Parcels, Public Land & Zo… | 1.0.0 | Thai DOL land parcels and NSL public land, with DPT and Bangkok comprehensive-p… |
+| 2026-10-25 15:21:42 | com.solemiokitchen.go/sole-mio | Sole Mio Kitchen & Bar | 1.0.0 | Hours, menu, prices, specials and booking links for Sole Mio Italian restaurant… |
+| 2026-10-25 15:22:16 | studio.altessa/altessa | Altessa Wedding Planner | 1.0.0 | Reception layouts to scale, seating charts, wedding day timelines, and budgets.… |
+| 2026-10-25 15:25:59 | [io.github.A-Box-of-Tools/abox-tools](https://github.com/A-Box-of-Tools/abox-tools-plugin) | abox.tools | 0.2.1 | Compress images, split PDFs, and remove EXIF metadata locally. |
+| 2026-10-25 15:26:50 | me.chargingnear/mcp | ChargingNear.me | 1.1.0 | Find US EV charging stations: nearest, by route, city and state stats. Data syn… |
+| 2026-10-25 15:27:26 | [io.github.CapyKkuing/naver-mail-mcp](https://github.com/CapyKkuing/naver-mail-mcp) | Naver Mail (네이버 메일) | 0.1.1 | Read, search, reply to and organize Naver Mail with the same tools as the Gmail… |
+| 2026-10-25 15:27:29 | [ai.inite/directory](https://github.com/inite-ai/inite-agents) | INITE Directory | 1.0.0 | Businesses that confirmed their own facts at INITE, found by what they do and w… |
+| 2026-10-25 15:27:38 | [io.github.abhinav162/poltertab](https://github.com/abhinav162/poltertab) |  | 1.12.0 | Drive and scrape your existing Chrome profile from any AI assistant — no headle… |
+| 2026-10-25 15:28:11 | io.bitbucket.markedet/agent-economy-data |  | 0.2.0 | Registry counts by namespace type. No server names. Snapshot, as is. Not affili… |
+| 2026-10-25 15:33:49 | com.tenbulb/mcp | TenBulb | 1.0.0 | Assess a business or product idea: market, customer needs, innovation options,… |
+| 2026-10-25 15:34:09 | com.iaasks/agenthands | IAasks AgentHands | 0.5.0 | Human-reviewed real-world actions for AI agents. |
+| 2026-10-25 15:40:31 | [com.emitd/emitd](https://github.com/tponnam/emitd-mcp-server) | Emitd MCP Server | 1.0.1 | Connect AI agents to Emitd email sending, message tracking, templates, and auto… |
+| 2026-10-25 15:40:55 | com.superbridger/superbridger | Superbridger | 1.0.0 | Post and schedule to Instagram, Facebook, YouTube, TikTok, LinkedIn and X from… |
+| 2026-10-25 15:41:33 | [com.readqurantoday/quran](https://github.com/ahmad-anbarje/Quran-On-Web) | Read Quran Today | 1.0.0 | The Quran (Madinah Mushaf): Arabic, 127 translations, tafsir, word by word and… |
+| 2026-10-25 15:45:27 | com.drobber/drobber | Drobber | 1.0.0 | Read, reply to and resolve client feedback pinned on websites, PDFs, images and… |
+| 2026-10-25 15:50:46 | com.joingravitate/gravitate | Gravitate | 0.1.0 | Dating-photo guidance, shoot plans and supplied-observation scoring in English… |
+| 2026-10-25 15:51:21 | io.github.northstar-trustrail/agent-resort | The Agent Resort | 0.3.0-staging | Dry-run consolidation of agent memory, plans and tools with token estimates. Fr… |
+| 2026-10-25 15:55:04 | [io.github.chrischall/toasttab-mcp](https://github.com/chrischall/toasttab-mcp) |  | 1.0.0 | Toast restaurants and menus: find places that order via Toast, read online or r… |
+| 2026-10-25 15:59:15 | com.motifetmoi/motif-et-moi | Motif & Moi | 1.0.0 | Custom clothing printed in Rennes, France: catalog, quotes, delivery dates, pre… |
+| 2026-10-25 16:00:28 | pro.dcast/dcast | DCAST | 1.0.0 | Live streams, multistreaming, video hosting and embeddable players on your own… |
+| 2026-10-25 16:00:43 | [com.the1ine/mcp](https://github.com/qwrtaiaiai-create/the1ine-mcp) |  | 0.1.3 | THE LINE Protocol (the1ine.com): send tasks to verified AI agents, paid on Temp… |
+| 2026-10-25 16:01:21 | com.esqcopilot/matching-engine | ESQ Matching Engine | 1.4.0 | Find and compare licensed US lawyers from official licensing records, with sour… |
+| 2026-10-25 16:02:45 | [io.github.da-the-dev/pim-mcp](https://github.com/da-the-dev/pim-mcp) |  | 0.1.0 | Local MCP server for your calendars across Nextcloud, iCloud, Google and any Ca… |
+| 2026-10-25 16:12:52 | [io.github.glumly/unripe](https://github.com/glumly/unripe) | unripe | 0.10.2 | Check how long ago a package version was published before an agent adds it, in… |
+| 2026-10-25 16:12:54 | sh.safeguard/safeguard | Safeguard | 1.0.0 | Software supply chain security: SBOMs, vulnerabilities, fixes, policies and com… |
+| 2026-10-25 16:14:49 | com.lucyesl/jobs | LucyESL — English teaching jobs in Korea | 1.3.0 | English-teaching jobs in South Korea: salary, disclosure and by-region stats. R… |
+| 2026-10-25 16:19:48 | io.github.ludocourbin/dozo | Dozo | 1.0.0 | PDF invoices (VAT by rate, EN/FR) and links to free in-browser PDF tools on doz… |
+| 2026-10-25 16:20:07 | org.careergenius/careergenius | CareerGenius | 1.0.0 | Fact-checked resume tailoring, cover letters, interview prep and keyword gaps f… |
+| 2026-10-25 16:20:54 | net.bigfloppy.cleantext/cleantext | CleanText | 1.0.0 | Extract clean article text or Markdown from any public web page; ads and boiler… |
 
 ## Data source
 
