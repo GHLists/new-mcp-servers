@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-10-25T18:26:14.833307Z,pl.tatry-planer/tatry-planer,Tatry Planer,0.3.0,,streamable-http,"Hiking routes in the Polish and Slovak Tatras: walking times, trail closures, route planning"
+2026-10-25T18:27:20.226051Z,io.github.webdriverio/mcp,,4.0.1,https://github.com/webdriverio/mcp,,MCP server with WebdriverIO for browser and mobile app automation (iOS/Android via Appium)
+2026-10-25T18:31:51.046131Z,dev.spxi/gnosis,SPXI-gnΩsis,0.21.5,https://github.com/leesharks000/spxignosis,streamable-http,Opens Wikipedia sentences against their cited sources; builds sourced knowledge objects into /non.
+2026-10-25T18:39:07.467679Z,io.usefulapi/papierkram,Papierkram MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Papierkram invoices, vouchers, contacts, projects, time; create contacts, time, draft invoices."
+2026-10-25T18:39:08.519889Z,io.usefulapi/payspace,PaySpace MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read PaySpace employees, organization, payroll runs, payslips and leave records. Read-only."
+2026-10-25T18:39:29.621285Z,net.2anki/mcp,2anki,1.0.0,https://github.com/2anki/server,streamable-http,"Turn text, files, URLs, or photos into Anki flashcard decks from your AI assistant."
+2026-10-25T18:41:51.631467Z,cc.perfectclock/perfect-clock,Perfect Clock,1.0.0,,streamable-http,Find meeting times across time zones and compare working hours.
+2026-10-25T18:44:32.07205Z,io.github.seankarltonlee/tickermint,TickerMint,1.0.1,,streamable-http,"Trading card prices: daily TCGplayer market, history since 2024, set totals, movers. 6 games."
+2026-10-25T18:48:25.474934Z,io.github.hudsonkit/arc,Arc,0.14.1,https://github.com/hudsonkit/arc,,"Author, validate, lay out, render, and diff architecture diagrams as code."
+2026-10-25T18:52:08.499309Z,co.catchloop/catchloop,CatchLoop,1.0.0,,streamable-http,"Product feedback portal for SaaS teams: read top requests, import feedback, move statuses."
+2026-10-25T18:54:24.305929Z,trade.secbot/secbot,SecBot,1.0.0,,streamable-http,"US market data from public filings: SEC, insider and congressional trades, 13F, FDA, contracts."
+2026-10-25T19:00:32.645871Z,io.github.nccurry/mtg-mcp,mtg-mcp,0.10.0,https://github.com/nccurry/mtg-mcp,,An evidence-first .NET MCP server for Magic: The Gathering deckbuilding workflows.
+2026-10-25T19:02:36.629442Z,com.frankox/trade-intelligence,FrankoX,1.0.0,,streamable-http,Verified opt-in trade profiles and consented manufacturer drafts; no private customer data.
+2026-10-25T19:03:29.319733Z,com.prenotomenu/menu,PRENOTO Menu,1.0.0,,streamable-http,"Create digital QR menus for restaurants, bars and hotels from a menu photo, PDF or text."
+2026-10-25T19:03:49.596465Z,app.trywhatevr/whatevr,whatevr,1.0.2,,streamable-http,Log meals and read calories and macros from any AI assistant. Pairs with the whatevr iPhone app.
+2026-10-25T19:12:01.268328Z,io.github.Maty403/esp-idf-mcp,ESP-IDF MCP,1.1.0,https://github.com/Maty403/esp-idf-mcp,,"Build, flash, monitor, and test ESP-IDF projects on real hardware."
+2026-10-25T19:12:42.751253Z,es.citeri/citeri,Citeri,1.0.0,,streamable-http,"Bookings, clients, services and invoices of your beauty salon on Citeri (Spain) from your AI."
+2026-10-25T19:14:27.116267Z,uk.zarvo/padel,Zarvo,2.0.0,,streamable-http,"Find UK padel courts, live availability and public games, then hand booking to the provider."
+2026-10-25T19:15:54.440348Z,com.constituchat/constitucion,ConstituChat: Constitución de Venezuela,1.0.0,,streamable-http,"Busca y lee los 350 artículos de la Constitución de Venezuela (1999), con cita y fuente oficial."
+2026-10-25T19:17:49.054414Z,io.github.heuristicolab/ctxfw,,4.1.1,https://github.com/heuristicolab/ctxfw,,"Zero-egress AI Agent Firewall: SARA prompt injection defense, AST context pruning & MCP governance."
+2026-10-25T19:21:26.905129Z,io.usefulapi/sapo,Sapo MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Sapo store products, orders, customers and stock levels; edit order notes and stock."
+2026-10-25T19:21:26.999753Z,io.usefulapi/sarbacane,Sarbacane MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Sarbacane campaigns, stats, lists and blacklists; manage contacts and draft email campaigns."
