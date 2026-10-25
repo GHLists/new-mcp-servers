@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-25T19:25:22.040783Z,io.github.autosugges/autosugges-mcp,AutoSugges,0.1.0,https://github.com/autosugges/autosugges-js,,"Autocomplete over edge-served reference lists (countries, NAICS, airports), plus catalog and setup."
+2026-10-25T19:32:50.07191Z,com.facturasmartpro/invoicing,FacturaSmart Pro,1.0.0,,streamable-http,"Invoicing your AI agent runs for you: invoices, quotes, expenses, VAT books. Veri*factu for Spain."
+2026-10-25T19:39:58.542236Z,dev.signops/signops,SignOps,1.0.0,,streamable-http,"Send push to Android, iOS and the web, and ask a trusted phone to approve a login, from your agent."
+2026-10-25T19:41:52.127928Z,com.strongsaga/gear-lookup,Strong Saga Home Gym Gear Lookup,1.1.0,,streamable-http,"Find home gym gear that fits your ceiling, budget, floor space and weight needs. Free, no key."
+2026-10-25T19:49:26.066949Z,com.beachesofmallorca/beaches,Beaches of Mallorca,1.0.0,,streamable-http,Live swimming and family conditions and reviewed guides for 77 Mallorca beaches
+2026-10-25T19:53:39.758304Z,io.github.ihavealotofguap/hse-mcp,HSE SmartLMS and personal account,0.1.1,https://github.com/ihavealotofguap/hse-mcp,,HSE University (NIU VShE) SmartLMS and personal account (lk.hse.ru) via browser SSO
+2026-10-25T19:57:35.124253Z,dev.parsehub/parsehub,ParseHub.dev (documents to records),0.1.0,https://gitlab.com/cdobratz/mcp-server,streamable-http,"Turn your CSV, PDF and Word files into searchable records, meeting notes and Q&A. Not parsehub.com."
+2026-10-25T19:58:03.232598Z,com.diffinery/diffinery,Diffinery,0.1.0,https://github.com/codician-team/diffinery,streamable-http,"Open-source git forge with Actions-compatible CI: repos, pull requests, CI runs, logs and issues."
+2026-10-25T20:01:53.12387Z,app.frame24/frame24,Frame24,1.0.0,,streamable-http,"Make narrated, on-brand product videos of your real app from your coding agent or AI assistant."
+2026-10-25T20:07:44.989027Z,party.cartelera/cartelera,Cartelera,1.0.0,,streamable-http,"AI video studio: animate photos, ads, series and music videos with original songs, from chat."
+2026-10-25T20:09:10.474976Z,com.radiance-app/radiance,Radiance,1.0.0,,streamable-http,"Translate, dub and publish videos to TikTok, YouTube, Instagram and more from your AI agent."
+2026-10-25T20:15:07.610014Z,com.sakuraweb.yamagishi/physics-papers,Yamagishi Lab: math-physics papers and separators,0.1.0,,streamable-http,"Search 1,094 math-physics preprints (JA/EN, CC BY 4.0); prompts for separators and pi-factor roots."
+2026-10-25T20:15:20.964222Z,com.yy-algo/japan-data,"ALGO BIZ: Japan towns, jobs and industries",0.1.1,,streamable-http,"Japanese government statistics: 1,889 municipalities, job-openings ratios, 62 industries."
+2026-10-25T20:15:29.377789Z,jp.aluzza/marine,ALUZZA MARINE: Japan boat trade and tide tables,0.2.0,,streamable-http,"Japan boat, yacht and outboard trade 2011-2025 and tide tables for 239 ports (JMA, 2026-2027)."
+2026-10-25T20:15:33.128732Z,jp.aluzza/wages-risk,Yamagishi Sync Lab: wages and business risks,0.1.1,,streamable-http,"Same-job hourly wages in Japan, US, UK, Germany, France; ranks of 31 business risks, Japan vs US."
+2026-10-25T20:17:43.731481Z,io.github.gaelasao/ai-visibility-tracker,,1.0.0,https://github.com/gaelasao/apify-mcp-tools,streamable-http,"Is your brand mentioned and cited in ChatGPT, Perplexity, Gemini and Google AI answers?"
+2026-10-25T20:20:11.512021Z,eu.scopematch/labs,ScopeMatch,1.0.0,,streamable-http,Search accredited testing labs and verify lab scope evidence from ScopeMatch.
