@@ -9,24 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 01:20 UTC
+## Latest list — 2026-10-25 02:18 UTC
 
-New MCP servers published between 2026-10-25 00:18 UTC and 2026-10-25 01:20 UTC.
+New MCP servers published between 2026-10-25 01:20 UTC and 2026-10-25 02:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-25T01-20-48-447893Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-25T02-18-56-020196Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-25 00:24:17 | com.cloudbt/mcp | CloudBT | 1.0.0 | Manage CloudBT VPS and virtual data center servers in Istanbul with AI agents. |
-| 2026-10-25 00:25:30 | [com.seolyticize/seolyticize](https://github.com/Seolyticize/skills) | Seolyticize | 1.0.0 | SEO for agencies: rank tracking, site audits, Search Console, GA4, backlinks an… |
-| 2026-10-25 00:38:41 | [app.ninedot/ninedot](https://github.com/AwakeWeb3/ninedot) | ninedot | 0.3.0 | Each product's stack, costs, revenue, uptime and alerts, each figure labelled b… |
-| 2026-10-25 00:41:06 | net.stealth/mcp | Stealth Communications | 1.0.0 | NYC fiber availability, Internet pricing and service orders with explicit custo… |
-| 2026-10-25 00:47:21 | [io.github.kayhendriksen/foehn](https://github.com/kayhendriksen/foehn) | foehn | 0.5.0 | Access Swiss meteorological open data from MeteoSwiss, powered by foehn |
-| 2026-10-25 00:53:26 | com.altfndata/altfinance-mcp | ALT/FNDATA | 0.4.6 | Query luxury & collectibles auction results: search, market stats, price trends… |
-| 2026-10-25 00:54:07 | [io.github.lm203688/flybrain-connectome](https://github.com/lm203688/flybrain-connectome) | flybrain-connectome | 3.0.2 | Auditable multi-agent topology generator from Drosophila MaleCNS connectome mot… |
-| 2026-10-25 00:54:42 | com.jevontane/echoboard | Echoboard | 1.0.0 | AI agents openly test the research questions in the book Nature's Memory. Human… |
-| 2026-10-25 00:57:48 | store.pureservices/crm-csv-preflight | CRM CSV Preflight (Sales List Rescue) | 0.1.0 | Detect-only CSV check before CRM import: duplicate, invalid and role emails, bl… |
-| 2026-10-25 01:20:09 | io.github.Ukraine-Territorial-MCP/eurostat-statistics | Eurostat Statistics MCP | 0.1.0 | Experimental MCP providing read-only population statistics from Eurostat. |
+| 2026-10-25 01:22:46 | io.github.Ukraine-Territorial-MCP/poland-statistics | Poland Statistics MCP | 0.1.0 | Experimental MCP exploring Polish administrative units and BDL statistics. |
+| 2026-10-25 01:22:51 | io.github.Ukraine-Territorial-MCP/finland-statistics | Finland Statistics MCP | 0.1.0 | Experimental MCP exploring Statistics Finland PxWeb statistical datasets. |
+| 2026-10-25 01:27:00 | com.webupcheck/webupcheck | WebUpCheck — Website Status & DNS Diagn… | 1.2.0 | Website availability, HTTP/DNS diagnostics and recent service history. Free; no… |
+| 2026-10-25 01:35:34 | [io.github.crabcrop/crabcrop](https://github.com/dayvson/crabcrop) |  | 0.1.0 | Sign and explain crabcrop image URLs, fetch processed-image metadata, and purge… |
+| 2026-10-25 01:37:12 | [com.queryrev/ai-readiness](https://github.com/QueryRevAI/ai-readiness) | QueryRev AI Readiness | 1.0.0 | Checks a site for AI crawler access, robots.txt and llms.txt. Runs locally, no… |
+| 2026-10-25 01:50:13 | com.serpwiz/search | SerpWiz | 1.0.0 | Real-time Google Search and Google Maps results as JSON. Pay only for successfu… |
+| 2026-10-25 01:53:58 | ai.sourcevault/gateway | SourceVault Gateway | 1.66.0 | Governed access to private code for coding agents: policy, redaction, audit cha… |
+| 2026-10-25 01:55:57 | [io.github.inchwormz/iter0-mcp](https://github.com/inchwormz/iter0-mcp) | iter0 | 1.0.0 | Build and edit launch-ready websites for tech founders from a brief or an autho… |
+| 2026-10-25 01:58:06 | cx.lkj/short-links | LKJ — four-digit short links for TV bro… | 0.6.0 | Create four-digit short URLs for TV and console browsers. Free beta, no account… |
+| 2026-10-25 02:01:40 | net.bigfloppy.devutils/devutils | devutils | 1.0.0 | Free hosted dev toolkit: uuid, hash, base64, JWT decode, CSV->JSON, time, JSON… |
+| 2026-10-25 02:05:05 | [com.ahasignals/evidence](https://github.com/AhaSignals/evidence-mcp) | AhaSignals Evidence | 0.1.1 | Read-only financial evidence: disclosure cutoffs, operating changes and cash ca… |
+| 2026-10-25 02:13:24 | be.cloo/ofertas | cloo.be: ofertas da Shopee | 1.0.0 | Ofertas da Shopee Brasil com preço verificado: busca, detalhes, em alta hoje e… |
+| 2026-10-25 02:16:14 | io.github.Kennethlee83/world-innovation | World Innovation | 1.0.0 | Search, cite and verify research papers on World Innovation, timestamped on Son… |
+| 2026-10-25 02:16:16 | io.github.Kennethlee83/wead | WeAD | 1.0.0 | Read-only info on WeAD apps, status, abstracts and public documents. |
+| 2026-10-25 02:17:16 | org.mylastwill/mylastwill | MyLastWill | 1.0.0 | Free U.S. wills, codicils and charitable bequest wording, plus will-signing rul… |
 
 ## Data source
 

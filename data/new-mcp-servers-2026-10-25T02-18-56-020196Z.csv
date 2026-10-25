@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-10-25T01:22:46.874277Z,io.github.Ukraine-Territorial-MCP/poland-statistics,Poland Statistics MCP,0.1.0,,streamable-http,Experimental MCP exploring Polish administrative units and BDL statistics.
+2026-10-25T01:22:51.968859Z,io.github.Ukraine-Territorial-MCP/finland-statistics,Finland Statistics MCP,0.1.0,,streamable-http,Experimental MCP exploring Statistics Finland PxWeb statistical datasets.
+2026-10-25T01:27:00.827254Z,com.webupcheck/webupcheck,WebUpCheck — Website Status & DNS Diagnostics,1.2.0,,streamable-http,"Website availability, HTTP/DNS diagnostics and recent service history. Free; no API key."
+2026-10-25T01:35:34.054992Z,io.github.crabcrop/crabcrop,,0.1.0,https://github.com/dayvson/crabcrop,,"Sign and explain crabcrop image URLs, fetch processed-image metadata, and purge cached results."
+2026-10-25T01:37:12.773269Z,com.queryrev/ai-readiness,QueryRev AI Readiness,1.0.0,https://github.com/QueryRevAI/ai-readiness,,"Checks a site for AI crawler access, robots.txt and llms.txt. Runs locally, no telemetry."
+2026-10-25T01:50:13.935818Z,com.serpwiz/search,SerpWiz,1.0.0,,streamable-http,Real-time Google Search and Google Maps results as JSON. Pay only for successful searches.
+2026-10-25T01:53:58.309729Z,ai.sourcevault/gateway,SourceVault Gateway,1.66.0,,,"Governed access to private code for coding agents: policy, redaction, audit chain, provenance."
+2026-10-25T01:55:57.694408Z,io.github.inchwormz/iter0-mcp,iter0,1.0.0,https://github.com/inchwormz/iter0-mcp,streamable-http,Build and edit launch-ready websites for tech founders from a brief or an authorised reference.
+2026-10-25T01:58:06.14319Z,cx.lkj/short-links,LKJ — four-digit short links for TV browsers,0.6.0,,streamable-http,"Create four-digit short URLs for TV and console browsers. Free beta, no account or API key."
+2026-10-25T02:01:40.01649Z,net.bigfloppy.devutils/devutils,devutils,1.0.0,,streamable-http,"Free hosted dev toolkit: uuid, hash, base64, JWT decode, CSV->JSON, time, JSON tools as MCP"
+2026-10-25T02:05:05.647437Z,com.ahasignals/evidence,AhaSignals Evidence,0.1.1,https://github.com/AhaSignals/evidence-mcp,,"Read-only financial evidence: disclosure cutoffs, operating changes and cash calculations."
+2026-10-25T02:13:24.701429Z,be.cloo/ofertas,cloo.be: ofertas da Shopee,1.0.0,,streamable-http,"Ofertas da Shopee Brasil com preço verificado: busca, detalhes, em alta hoje e por categoria."
+2026-10-25T02:16:14.636928Z,io.github.Kennethlee83/world-innovation,World Innovation,1.0.0,,streamable-http,"Search, cite and verify research papers on World Innovation, timestamped on Soneium."
+2026-10-25T02:16:16.580211Z,io.github.Kennethlee83/wead,WeAD,1.0.0,,streamable-http,"Read-only info on WeAD apps, status, abstracts and public documents."
+2026-10-25T02:17:16.783665Z,org.mylastwill/mylastwill,MyLastWill,1.0.0,,streamable-http,"Free U.S. wills, codicils and charitable bequest wording, plus will-signing rules for every state."
