@@ -1,0 +1,15 @@
+created_at,server,title,version,repository,transports,description
+2026-10-25T21:26:06.279692Z,ai.auxen/auxen,Auxen,1.2.0,https://github.com/auxen-ai/auxen-mcp,streamable-http,"Hire AI workers that run on schedule, report back and act with your OK. Or deploy private models."
+2026-10-25T21:33:51.210405Z,ai.ghostengine/ghostengine,GhostEngine,1.0.0,,streamable-http,"Run Google, Meta, TikTok, and Reddit ads: launch, budget, measure lift, fund the wallet."
+2026-10-25T21:35:07.75831Z,eu.coudrebros/notary,CBROS Notary & Decision Log,1.0.0,,streamable-http,Pay-and-anchor a hash or AI decision log on Cardano (CIP-0190). Non-custodial. MCP-native. Mainnet.
+2026-10-25T21:36:32.500902Z,io.github.recs84/longevity-cell-therapy-weekly,Longevity Cell Therapy Weekly,0.1.0,https://github.com/recs84/longevity-cell-therapy-mcp,,"Free read-only feed of curated MSC, NK cell, extracellular vesicle and senescence research."
+2026-10-25T21:37:06.393124Z,io.github.ignaciohermosillacornejo/copilot-money-mcp,Copilot Money,3.0.0,https://github.com/ignaciohermosillacornejo/copilot-money-mcp,,"Query and manage Copilot Money personal finances — local reads, opt-in GraphQL writes."
+2026-10-25T21:48:34.304184Z,io.github.bvisible/mcp-ssh-manager,,4.0.0,https://github.com/bvisible/mcp-ssh-manager,,"SSH server management for agents, with per-server read-only and allowlist security modes"
+2026-10-25T21:49:21.311876Z,io.github.ktgeek/band-mcp-server,BAND,1.0.0,https://github.com/ktgeek/ruby-band-mcp-server,,"List bands and read, post, and comment on BAND posts through the BAND Open API."
+2026-10-25T21:51:28.397297Z,io.github.som2026-commits/kestrova,Kestrova: Solidity Vulnerability Scan,0.3.0,https://github.com/som2026-commits/kestrova-solidity-security,streamable-http,Solidity smart contract vulnerability scan (Slither) for AI agents. Free preview; paid full report.
+2026-10-25T21:52:46.585066Z,io.github.pipeworx-io/eu-pesticides,Eu Pesticides,0.1.0,https://github.com/pipeworx-io/mcp-eu-pesticides,streamable-http,eu-pesticides -- EU approval status of pesticide active substances.
+2026-10-25T21:56:39.333377Z,co.nextarena/tournament-tools,NextArena Tournament Tools,0.1.2,,streamable-http,"Free padel Americano and Mexicano draws, pickleball round robins and knockout brackets."
+2026-10-25T22:01:21.989339Z,io.github.rafalpodles/board-planner,Board Planner,1.9.0,https://github.com/rafalpodles/board-planner,streamable-http,"Project board for teams and coding agents: Kanban, sprints, 46 tools, OAuth 2.1 or API tokens."
+2026-10-25T22:07:29.453118Z,com.emeditor/help,,1.0.0,,streamable-http,Provides access to EmEditor help pages hosted on https://help.emeditor.com.
+2026-10-25T22:11:03.189414Z,io.github.Brandcode-Studio/brandsystem-mcp,Brandsystem MCP — Brand Guidelines for AI,0.17.0,https://github.com/Brandcode-Studio/brandsystem-mcp,,"Use existing brand guidelines with AI. Turn websites, PDFs, and Figma into a .brand runtime."
+2026-10-25T22:15:22.903013Z,wine.nevini/shop,NEVINI Wines,1.1.0,,streamable-http,"Search the wines of NEVINI, a Dutch wine importer, and build Shopify carts with a checkout link."

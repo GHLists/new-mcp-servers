@@ -9,49 +9,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 21:19 UTC
+## Latest list — 2026-10-25 22:19 UTC
 
-New MCP servers published between 2026-10-25 20:20 UTC and 2026-10-25 21:19 UTC.
+New MCP servers published between 2026-10-25 21:19 UTC and 2026-10-25 22:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-25T21-19-20-593703Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-25T22-19-56-322095Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-25 20:20:55 | org.marvinlabs/vram-fit | MarvinLabs vram_fit | 0.1.0 | Will a QLoRA fine-tune of gemma-3-4b-it fit your GPU? Verdicts from measured AM… |
-| 2026-10-25 20:23:07 | de.morgenhimmel/mcp | Rosis Morgenhimmel — Tageshoroskop und… | 1.2.0 | Daily horoscopes (de/en/es, 7 days ahead), moon phases, Panchang, solar terms,… |
-| 2026-10-25 20:23:09 | com.skyandsigns/mcp | Sky and Signs — horoscopes and sky cale… | 1.2.0 | Daily horoscopes (en/es, 7 days ahead), moon phases, Panchang, solar terms, May… |
-| 2026-10-25 20:23:45 | io.github.morliont/loops | Loops: causal loop diagrams | 1.0.0 | Draw causal loop diagrams in the chat and edit them on a shared link. |
-| 2026-10-25 20:31:11 | [app.flowershow/flowershow](https://github.com/flowershow/flowershow) | Flowershow | 1.0.0 | Publish Markdown and HTML from your AI session as a live website. No account ne… |
-| 2026-10-25 20:33:09 | [io.github.OCNAI/kebivo](https://github.com/OCNAI/kebivo) | Kebivo | 0.1.1 | Self-hosted inbox for questions your AI agents couldn't answer. Report knowledg… |
-| 2026-10-25 20:34:34 | [io.github.SadaSend/sadasend](https://github.com/SadaSend/sadasend-mcp) |  | 1.0.0 | Transactional email API & AI agent safety runtime with 12 scoped tools and Spen… |
-| 2026-10-25 20:37:47 | link.morningbrief/bridges | Bridges — FHWA National Bridge Inventor… | 1.0.0 | FHWA bridge inventory: 624,193 bridges, condition, posting, clearance. 8 tools,… |
-| 2026-10-25 20:39:00 | [io.github.twayst0/fsv](https://github.com/twayst0/fsv) | FSV — website security scanner | 2.2.1 | Scan your own website for vulnerabilities: DNS takeover, compromised CDNs, debu… |
-| 2026-10-25 20:40:16 | [io.usefulapi/smaregi](https://github.com/m190/usefulapi-mcp) | Smaregi MCP by usefulapi | 1.0.0 | Read Smaregi stores, products, customers, stock and transactions; manage custom… |
-| 2026-10-25 20:40:16 | [io.usefulapi/smallinvoice](https://github.com/m190/usefulapi-mcp) | smallinvoice MCP by usefulapi | 1.0.0 | Read smallinvoice contacts, invoices, offers, projects and hours; create contac… |
-| 2026-10-25 20:40:16 | [io.usefulapi/sellsy](https://github.com/m190/usefulapi-mcp) | Sellsy MCP by usefulapi | 1.0.0 | Search and read Sellsy companies, contacts, opportunities, invoices and tasks;… |
-| 2026-10-25 20:40:16 | [io.usefulapi/street-co-uk](https://github.com/m190/usefulapi-mcp) | Street.co.uk MCP by usefulapi | 1.0.0 | Read Street.co.uk properties, applicants, viewings, tenancies, jobs; create enq… |
-| 2026-10-25 20:40:45 | com.any-skill/anyskill | AnySkill | 1.0.0 | Find and book local service providers in Israel. Final prices incl. fees; the c… |
-| 2026-10-25 20:43:17 | com.terravaulthq/licenses | TerraVault | 1.0.0 | U.S. state cannabis license lookups, licensed stores nearby, CA recalls. Read-o… |
-| 2026-10-25 20:44:37 | [io.github.idoo/hamn](https://github.com/idoo/hamn) | hamn | 0.1.0 | Secure App Store Connect for AI agents: releases, TestFlight, reviews, reports.… |
-| 2026-10-25 20:46:18 | io.github.isi1314/clipai-mcp | ClipAI | 0.2.2 | Turn long videos into scored, captioned 9:16 clips and schedule them to social… |
-| 2026-10-25 20:49:17 | [io.github.crawlerpeek/crawlerpeek](https://github.com/crawlerpeek/crawlerpeek) | Crawlerpeek | 0.1.2 | Check whether AI crawlers (GPTBot, ClaudeBot, PerplexityBot) can access a URL.… |
-| 2026-10-25 20:50:54 | [com.bestelectricianjobs/mcp](https://github.com/854Labs/best-electrician-jobs) | Best Electrician Jobs | 0.6.0 | Employers manage electrician job posts and applicants on BestElectricianJobs.co… |
-| 2026-10-25 20:54:06 | [bot.ttrpg/grimoire](https://github.com/zafety-vibin/grimoire-mcp) | Grimoire for Gamemasters | 1.6.0 | D&D and TTRPG campaign manager for GMs: your AI reads and writes a live, typed… |
-| 2026-10-25 20:55:47 | com.opendont/opendont | OpenDont | 1.0.0 | Sourced public knowledge for AI agents: search and read records with evidence;… |
-| 2026-10-25 20:57:22 | com.cristiandesivo/ask-a-human | Ask a human expert | 1.0.0 | A human expert emails you a creative solution idea for a problem you or your ag… |
-| 2026-10-25 20:59:31 | wiki.rust/rust-wiki | rust.wiki | 1.0.0 | Live data for the game Rust: skin prices and history, items, item store, loot t… |
-| 2026-10-25 20:59:59 | eu.taxreclaim/calculator | Tax Reclaim calculator | 1.0.0 | Estimate dividend and interest withholding-tax refunds, treaty rates and filing… |
-| 2026-10-25 20:59:59 | eu.taxreclaim/account | Tax Reclaim account | 1.0.0 | Preview and save withholding-tax claims to your Tax Reclaim account, and get yo… |
-| 2026-10-25 21:00:19 | app.bannerproof/bannerproof | Bannerproof | 1.0.0 | Find trackers that fire before cookie consent (GDPR, Consent Mode v2) and get a… |
-| 2026-10-25 21:02:28 | [io.github.zeluizr/adobe-commerce-mcp](https://github.com/zeluizr/adobe-commerce-mcp) | Adobe Commerce MCP | 0.1.0 | Offline Adobe Commerce PHP docs, config files, bin/magento CLI, Web API and mod… |
-| 2026-10-25 21:03:43 | [io.github.elfensky/macos-apps-mcp](https://github.com/elfensky/macos-apps-mcp) | macOS Apps | 0.15.1 | Mail, Calendar, Reminders, Notes, Messages and more on macOS: cited pointers, p… |
-| 2026-10-25 21:09:26 | ai.leapsteps/leapsteps | LeapSteps | 1.0.0 | Your LeapSteps to-do list, goals and focus timer: plan the day, add tasks and m… |
-| 2026-10-25 21:11:06 | [si.claimora/claimora](https://github.com/superexposed/claimora) | Claimora | 0.1.0 | Scientific and legal claim graph. Query claims, evidence, contradictions, and i… |
-| 2026-10-25 21:14:22 | [org.sciencelive4all/replication-radar](https://github.com/ScienceLiveHub/replication-radar) | Replication Radar | 0.4.8 | Turn the OpenAIRE Graph into a ranked replication queue with a Science Live ver… |
-| 2026-10-25 21:14:52 | [app.solk/solk](https://github.com/HESAP/solk-mcp) | Solk CRM | 1.0.0 | Solk CRM for Claude: accounts, pipeline, visits, quotes, orders and tickets wit… |
-| 2026-10-25 21:16:22 | [io.github.pironjulien/nexus-agymail](https://github.com/pironjulien/NexusAGYmail) | NexusAGYmail | 0.8.0 | Gmail for AI agents through the official API: Google's tool names, sends only a… |
-| 2026-10-25 21:17:47 | [us.detritus/account](https://github.com/Detritus-LLC/detritus-main) | Detritus Site Services: Your Account | 1.0.0 | Manage your Detritus account: sites, services, quotes, invoices, and notificati… |
-| 2026-10-25 21:18:52 | [io.github.bytesbrains/16ane](https://github.com/bytesbrains/16ane) | 16ane sandbox wallet | 0.1.2 | Budget-capped agent wallet: pay x402 services in tANE, a free testnet token wit… |
+| 2026-10-25 21:26:06 | [ai.auxen/auxen](https://github.com/auxen-ai/auxen-mcp) | Auxen | 1.2.0 | Hire AI workers that run on schedule, report back and act with your OK. Or depl… |
+| 2026-10-25 21:33:51 | ai.ghostengine/ghostengine | GhostEngine | 1.0.0 | Run Google, Meta, TikTok, and Reddit ads: launch, budget, measure lift, fund th… |
+| 2026-10-25 21:35:07 | eu.coudrebros/notary | CBROS Notary & Decision Log | 1.0.0 | Pay-and-anchor a hash or AI decision log on Cardano (CIP-0190). Non-custodial.… |
+| 2026-10-25 21:36:32 | [io.github.recs84/longevity-cell-therapy-weekly](https://github.com/recs84/longevity-cell-therapy-mcp) | Longevity Cell Therapy Weekly | 0.1.0 | Free read-only feed of curated MSC, NK cell, extracellular vesicle and senescen… |
+| 2026-10-25 21:37:06 | [io.github.ignaciohermosillacornejo/copilot-money-mcp](https://github.com/ignaciohermosillacornejo/copilot-money-mcp) | Copilot Money | 3.0.0 | Query and manage Copilot Money personal finances — local reads, opt-in GraphQL… |
+| 2026-10-25 21:48:34 | [io.github.bvisible/mcp-ssh-manager](https://github.com/bvisible/mcp-ssh-manager) |  | 4.0.0 | SSH server management for agents, with per-server read-only and allowlist secur… |
+| 2026-10-25 21:49:21 | [io.github.ktgeek/band-mcp-server](https://github.com/ktgeek/ruby-band-mcp-server) | BAND | 1.0.0 | List bands and read, post, and comment on BAND posts through the BAND Open API. |
+| 2026-10-25 21:51:28 | [io.github.som2026-commits/kestrova](https://github.com/som2026-commits/kestrova-solidity-security) | Kestrova: Solidity Vulnerability Scan | 0.3.0 | Solidity smart contract vulnerability scan (Slither) for AI agents. Free previe… |
+| 2026-10-25 21:52:46 | [io.github.pipeworx-io/eu-pesticides](https://github.com/pipeworx-io/mcp-eu-pesticides) | Eu Pesticides | 0.1.0 | eu-pesticides -- EU approval status of pesticide active substances. |
+| 2026-10-25 21:56:39 | co.nextarena/tournament-tools | NextArena Tournament Tools | 0.1.2 | Free padel Americano and Mexicano draws, pickleball round robins and knockout b… |
+| 2026-10-25 22:01:21 | [io.github.rafalpodles/board-planner](https://github.com/rafalpodles/board-planner) | Board Planner | 1.9.0 | Project board for teams and coding agents: Kanban, sprints, 46 tools, OAuth 2.1… |
+| 2026-10-25 22:07:29 | com.emeditor/help |  | 1.0.0 | Provides access to EmEditor help pages hosted on https://help.emeditor.com. |
+| 2026-10-25 22:11:03 | [io.github.Brandcode-Studio/brandsystem-mcp](https://github.com/Brandcode-Studio/brandsystem-mcp) | Brandsystem MCP — Brand Guidelines for… | 0.17.0 | Use existing brand guidelines with AI. Turn websites, PDFs, and Figma into a .b… |
+| 2026-10-25 22:15:22 | wine.nevini/shop | NEVINI Wines | 1.1.0 | Search the wines of NEVINI, a Dutch wine importer, and build Shopify carts with… |
 
 ## Data source
 
