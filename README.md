@@ -9,25 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 06:21 UTC
+## Latest list — 2026-10-25 07:20 UTC
 
-New MCP servers published between 2026-10-25 05:19 UTC and 2026-10-25 06:21 UTC.
+New MCP servers published between 2026-10-25 06:21 UTC and 2026-10-25 07:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-25T06-21-03-611406Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-25T07-20-23-726929Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-25 05:20:33 | [io.github.NOETRA2/noetra](https://github.com/NOETRA2/NOETRA) | NOETRA | 0.1.0-alpha.4 | Local-first evidence tracking, formal logic checks and prerequisite planning fo… |
-| 2026-10-25 05:22:37 | [io.github.tchamna/african-polyglot-mcp](https://github.com/tchamna/african-languages-mcp-servers) | African Polyglot MCP | 0.2.0 | African dictionaries, phrasebooks, grammar and Nufi translation. Paid subscript… |
-| 2026-10-25 05:24:37 | com.lordevo/agent-directory | Lordevo Agent Directory | 1.0.0 | Search a directory of agent-callable services, incl. x402 pay-per-call APIs on… |
-| 2026-10-25 05:25:07 | tech.quantplay/quantplay | Quantplay: Indian stock brokers | 1.0.0 | Trade and track Zerodha, Upstox, Angel One and 7 more Indian brokers, with serv… |
-| 2026-10-25 05:40:00 | uk.hasami.api/ai-paradise | Hasami-channel AI Paradise | 1.0.0 | Read and post to an anonymous Japanese BBS thread made for AI agents to chat wi… |
-| 2026-10-25 05:46:41 | [io.github.amit043/india-company-diligence](https://github.com/amit043/india-company-diligence) | India Company Diligence | 0.1.1 | India company data for agents: 3.74M-company MCA mirror, CIN/GSTIN tools, prove… |
-| 2026-10-25 05:48:46 | io.github.emilingemarkarlsson/bilkalkylen | Bilkalkylen | 1.1.0 | Swedish car advice: monthly cost, find and compare cars, leasing campaigns. |
-| 2026-10-25 05:48:48 | io.github.emilingemarkarlsson/foraldraledighetsplanen | Föräldraledighetsplanen | 1.0.0 | Swedish parental benefit rules 2026 (Försäkringskassan) for planning parental l… |
-| 2026-10-25 05:57:29 | [io.github.MRFrazer25/vulnerability-exposure-mcp](https://github.com/MRFrazer25/Vulnerability-Exposure-MCP) | Vulnerability Exposure | 1.0.0 | Confirmed vulnerabilities and exposure for IPs, domains and software versions (… |
-| 2026-10-25 06:03:15 | com.fintechhodl/intel | FinTech Hodl Base DeFi risk intel | 1.0.0 | Risk scores, dependencies and risk events for Base DeFi yields. Pay per call in… |
-| 2026-10-25 06:08:38 | build.appside/mcp | Appside Developer Docs | 0.1.0 | Read-only Appside docs search, SDK examples, published pricing and llms.txt. |
+| 2026-10-25 06:23:00 | pl.sladami-roberta/maklowicz | Śladami Roberta Makłowicza | 1.0.0 | Restaurants and attractions from Robert Makłowicz's travel episodes, searchable… |
+| 2026-10-25 06:26:03 | com.truepeptidesource/peptides | TruePeptideSource | 1.0.0 | Peptide reference and exact math: reconstitution units, blends, supply, dose ra… |
+| 2026-10-25 06:32:28 | [net.bigfloppy.agentfeed/agentfeed](https://github.com/wminno/agentfeed) | AgentFeed | 1.4.0 | RSS/Atom feeds and web pages to clean JSON or Markdown. MCP tools + REST API; f… |
+| 2026-10-25 06:32:33 | com.xiaodaox/xiaodao | 小道 Xiaodao | 1.0.0 | Bazi (Four Pillars) and Qimen Dunjia charts with true solar time and historical… |
+| 2026-10-25 06:37:06 | [io.github.sohan724code/yoursuuid](https://github.com/sohan724code/yoursuuid) | YourSUUID | 1.0.0 | Generate UUID v4/v5/v7, ULID and NanoID values and inspect UUIDs (version, vari… |
+| 2026-10-25 06:49:11 | com.activerecalling/active-recalling | Active Recalling | 1.0.0 | Flashcards, multiple-choice quizzes, mind maps and spaced-repetition reviews fr… |
+| 2026-10-25 06:53:03 | ai.buzzmark/mcp | Buzzmark | 1.0.0 | A ghostwriter that writes, plans and schedules social media posts in your busin… |
+| 2026-10-25 06:53:29 | [io.usefulapi/parsley](https://github.com/m190/usefulapi-mcp) | Parsley MCP by usefulapi | 1.0.0 | Read Parsley menu items, nutrition, allergens, ingredients and events; record e… |
+| 2026-10-25 06:53:29 | [io.usefulapi/mailblaze](https://github.com/m190/usefulapi-mcp) | Mail Blaze MCP by usefulapi | 1.0.0 | Manage Mail Blaze lists, subscribers, templates, campaigns and reports; send tr… |
+| 2026-10-25 06:53:29 | [io.usefulapi/placetel](https://github.com/m190/usefulapi-mcp) | Placetel MCP by usefulapi | 1.0.0 | Read Placetel calls, recordings, numbers and routing; edit contacts, start call… |
+| 2026-10-25 06:59:38 | [io.github.camerxnduff/x402-router](https://github.com/camerxnduff/x402-router-mcp) | x402 Router | 0.1.0 | Search 20k+ live, probed x402 pay-per-call endpoints and route to the best-scor… |
+| 2026-10-25 07:18:29 | com.clue-forge/clueforge | Clueforge | 1.0.0 | Personalised printable crosswords with a hidden solution word for birthdays, we… |
 
 ## Data source
 

@@ -1,0 +1,13 @@
+created_at,server,title,version,repository,transports,description
+2026-10-25T06:23:00.498546Z,pl.sladami-roberta/maklowicz,Śladami Roberta Makłowicza,1.0.0,,streamable-http,"Restaurants and attractions from Robert Makłowicz's travel episodes, searchable by country and type."
+2026-10-25T06:26:03.205449Z,com.truepeptidesource/peptides,TruePeptideSource,1.0.0,,streamable-http,"Peptide reference and exact math: reconstitution units, blends, supply, dose ranges by origin."
+2026-10-25T06:32:28.609037Z,net.bigfloppy.agentfeed/agentfeed,AgentFeed,1.4.0,https://github.com/wminno/agentfeed,streamable-http,RSS/Atom feeds and web pages to clean JSON or Markdown. MCP tools + REST API; free trial key.
+2026-10-25T06:32:33.515937Z,com.xiaodaox/xiaodao,小道 Xiaodao,1.0.0,,streamable-http,Bazi (Four Pillars) and Qimen Dunjia charts with true solar time and historical time zones.
+2026-10-25T06:37:06.387153Z,io.github.sohan724code/yoursuuid,YourSUUID,1.0.0,https://github.com/sohan724code/yoursuuid,streamable-http,"Generate UUID v4/v5/v7, ULID and NanoID values and inspect UUIDs (version, variant, timestamp)."
+2026-10-25T06:49:11.908053Z,com.activerecalling/active-recalling,Active Recalling,1.0.0,,streamable-http,"Flashcards, multiple-choice quizzes, mind maps and spaced-repetition reviews from your study notes."
+2026-10-25T06:53:03.068866Z,ai.buzzmark/mcp,Buzzmark,1.0.0,,streamable-http,"A ghostwriter that writes, plans and schedules social media posts in your business's own voice."
+2026-10-25T06:53:29.333725Z,io.usefulapi/parsley,Parsley MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Parsley menu items, nutrition, allergens, ingredients and events; record event sales and waste."
+2026-10-25T06:53:29.473884Z,io.usefulapi/mailblaze,Mail Blaze MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Manage Mail Blaze lists, subscribers, templates, campaigns and reports; send transactional email."
+2026-10-25T06:53:29.502134Z,io.usefulapi/placetel,Placetel MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Placetel calls, recordings, numbers and routing; edit contacts, start calls, send SMS."
+2026-10-25T06:59:38.960411Z,io.github.camerxnduff/x402-router,x402 Router,0.1.0,https://github.com/camerxnduff/x402-router-mcp,,"Search 20k+ live, probed x402 pay-per-call endpoints and route to the best-scored one."
+2026-10-25T07:18:29.431629Z,com.clue-forge/clueforge,Clueforge,1.0.0,,streamable-http,"Personalised printable crosswords with a hidden solution word for birthdays, weddings and couples"
