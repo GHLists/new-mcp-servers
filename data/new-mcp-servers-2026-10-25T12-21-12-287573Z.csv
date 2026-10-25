@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-10-25T11:22:07.670337Z,com.predixlab/mcp,PredixLab,1.0.0,,streamable-http,"US stock signals, screeners and options analysis over MCP. Not investment advice."
+2026-10-25T11:23:22.474646Z,app.bottomup/foxy-pro,Foxy Pro,1.0.1,,streamable-http,"Market analysis from live data: stocks, ETFs, commodities, crypto, reports and options levels."
+2026-10-25T11:27:12.522073Z,ar.com.atentina/atentina,Atentina,1.0.0,,streamable-http,"Agentes con IA por teléfono y WhatsApp: armalos, probalos y revisá llamadas y campañas."
+2026-10-25T11:31:59.051849Z,io.usefulapi/sakari,Sakari MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Manage Sakari SMS contacts, conversations, templates and campaigns, and send texts."
+2026-10-25T11:32:27.001468Z,com.screenshotor/screenshot,Screenshotor,1.0.0,,streamable-http,"Website screenshots for AI agents: real Chrome, ad/cookie/chat blocking, bot-wall detection."
+2026-10-25T11:34:16.1461Z,io.github.CloudCorpRecords/testdelta,,0.1.0,https://github.com/CloudCorpRecords/testdelta,,"Base-vs-head test result differ: named tests added, removed, and changed, never raw counts."
+2026-10-25T11:35:28.272385Z,app.lotsstore/lotsstore,LotsStore,1.0.0,,streamable-http,"Your online store: products, stock, orders, customers and payments into your own account."
+2026-10-25T11:41:54.816734Z,io.github.tia-forge/tia-portal-docs,TIA Portal Docs — Siemens PLC programming docs over MCP,0.1.0,https://github.com/tia-forge/tialink,streamable-http,"Search 2800+ official TIA Portal chapters: blocks, instructions, data types, constants."
+2026-10-25T11:42:07.229354Z,io.github.wabarakat/agent-marketplace-mcp,Agent Data Marketplace,0.1.0,https://github.com/wabarakat/agent-marketplace-mcp,,"Data marketplace for AI agents: search finance, satellite and agro data sellers, request datasets."
+2026-10-25T11:45:17.510896Z,ai.spendpoint/spendpoint,Spendpoint,1.0.0,,streamable-http,"Expense ledger for AI assistants: record receipts line by line, ask what you spent, export anytime."
+2026-10-25T11:46:12.494619Z,io.github.lazogio/rabbit-mcp,,1.0.2,https://github.com/lazogio/rabbit-mcp,,"Contract-first MCP server for RabbitMQ: one typed tool per message contract, safe error recovery."
+2026-10-25T11:52:25.212878Z,io.github.ahromlabs/ahromlabs,Ahrom Labs,1.0.0,,streamable-http,"Indian ERP checklist, IBR 2026 compliance, BIS BOQ standards, and engineering notes."
+2026-10-25T11:52:53.969113Z,io.github.chalktalkhq/chalktalk,ChalkTalk,0.7.0,https://github.com/chalktalkhq/plugins,streamable-http,Create tutorial videos by chatting with AI.
+2026-10-25T11:55:26.622758Z,io.github.Leviathan0x0/chronicle-mcp,Chronicle MCP,1.6.2,https://github.com/Leviathan0x0/Chronicle-MCP,,"Local, private AI chat history search & memory: BM25 over your Cursor, Claude and ChatGPT chats."
+2026-10-25T11:56:22.49362Z,io.github.physics-star-cat/databutler-jp-living-costs,,1.0.0,https://github.com/physics-star-cat/databutler,streamable-http,"Japan minimum wage by prefecture, 協会けんぽ rates, pensions, benefits, holidays, tax figures, sourced."
+2026-10-25T11:56:46.601864Z,io.github.physics-star-cat/databutler-jp-vehicle-costs,,1.0.0,https://github.com/physics-star-cat/databutler,streamable-http,"Japan 車検 statutory costs: weight tax, 自賠責, inspection fees, 自動車税 and 軽自動車税, sourced."
+2026-10-25T12:08:46.477714Z,io.github.mahaoboy/memalyze,memalyze,0.1.0,https://github.com/mahaoboy/memalyze,,"Self-hosted agent memory: redaction before write, append-only audit, local embeddings."
+2026-10-25T12:09:24.091397Z,com.lobstermatch/lobstermatch,,1.0.0,,streamable-http,"Tools for finding agents, dialogs, and completed work on LobsterMatch."
+2026-10-25T12:14:55.386367Z,io.github.Ahmedmkarrar/simpleverifier,SimpleVerifier,1.2.0,https://github.com/Ahmedmkarrar/simpleverifier-mcp,streamable-http,"Verify email addresses with a live SMTP mailbox check, check phone number formats and email domains."
+2026-10-25T12:15:02.821802Z,co.evai/evai,evai,1.0.0,,streamable-http,"Short-form video intelligence: your TikTok, Reels and Shorts data, reports, Studio, live editor."
+2026-10-25T12:15:32.745137Z,io.github.apigrid-ch/firmograph,Firmograph,0.2.0,,streamable-http,"Public-record + domain-graph company lookup. Coverage block, explicit 404. x402 POST /v1/enrich."
+2026-10-25T12:15:33.266084Z,io.github.bbik52/docmost-mcp-remote,Docmost (self-hosted),1.0.1,https://github.com/bbik52/docmost-mcp-remote,,Self-hosted remote MCP server for Docmost CE: members read and edit the wiki as themselves
+2026-10-25T12:19:55.372848Z,app.noback/noback,noback,1.0.0,,streamable-http,Publish AI-made HTML apps as shareable links that save and sync data. No account or token needed.
+2026-10-25T12:20:44.702484Z,io.github.cyanheads/eu-parliament-mcp-server,,0.1.1,https://github.com/cyanheads/eu-parliament-mcp-server,,"Track European Parliament procedures, MEPs, votes, documents, speeches, and questions."
