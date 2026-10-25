@@ -9,45 +9,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 13:21 UTC
+## Latest list — 2026-10-25 14:21 UTC
 
-New MCP servers published between 2026-10-25 12:21 UTC and 2026-10-25 13:21 UTC.
+New MCP servers published between 2026-10-25 13:21 UTC and 2026-10-25 14:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-25T13-21-51-339606Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-25T14-21-40-389728Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-25 12:22:58 | com.holdingsintel/mcp | HoldingsIntel | 2.0.0 | Hedge fund 13F holdings, insider trades, activist stakes and Congress trades, i… |
-| 2026-10-25 12:23:24 | fm.podhome/podhome | Podhome | 1.0.0 | Manage Podhome podcasts: episodes, chapters, transcripts, clips, people and ana… |
-| 2026-10-25 12:23:32 | [io.github.joeyg6393/agentbreakwatch-mcp](https://github.com/joeyg6393/agentbreakwatch-mcp) | AgentBreakWatch | 1.1.0 | Audit AI Agent SDKs and MCP servers for breaking changes, schema drift, and mig… |
-| 2026-10-25 12:23:52 | com.fet112/fet112 | FET112 | 1.0.0 | Security intelligence for AI agents monitoring Ethereum before actions. |
-| 2026-10-25 12:25:11 | [io.github.cyanheads/usitc-tariffs-mcp-server](https://github.com/cyanheads/usitc-tariffs-mcp-server) |  | 0.1.1 | Search USITC tariff schedules, inspect heading trees, and look up published dut… |
-| 2026-10-25 12:26:00 | in.bldt/blue-dot-brdg | Blue Dot Brdg (BLDT) | 1.0.0 | India market entry, ecommerce and fulfilment for consumer brands (Blue Dot Brdg… |
-| 2026-10-25 12:26:04 | [io.github.cyanheads/sweden-parliament-mcp-server](https://github.com/cyanheads/sweden-parliament-mcp-server) |  | 0.1.1 | Search Swedish parliamentary documents, speeches, votes, members, and statutes. |
-| 2026-10-25 12:26:46 | [io.github.Hermit-CRM/hermit-crm](https://github.com/Hermit-CRM/hermit-crm) | Hermit CRM | 0.8.0 | A local CRM as Markdown files in git: read and update pipeline, contacts and in… |
-| 2026-10-25 12:28:48 | [io.hubtub/youtube-analytics](https://github.com/hubtub-io/youtube-mcp) | HubTub Pulse: YouTube Analytics | 1.0.0 | Your YouTube channels’ private analytics for AI assistants: revenue, views, ret… |
-| 2026-10-25 12:31:09 | company.ai-first/evidence | AI-first company: evidence on AI adopti… | 0.3.6 | Rated evidence on AI adoption: practices, company cases, claim checks and readi… |
-| 2026-10-25 12:32:28 | [io.github.CloudCorpRecords/contextbudget](https://github.com/CloudCorpRecords/contextbudget) |  | 0.1.0 | Token budget auditor for agent context: per-file estimates, top offenders, excl… |
-| 2026-10-25 12:32:36 | [io.usefulapi/funraise](https://github.com/m190/usefulapi-mcp) | Funraise MCP by usefulapi | 1.0.0 | Read Funraise supporters, donations, recurring gifts and forms; add notes, task… |
-| 2026-10-25 12:32:36 | [io.usefulapi/icontact](https://github.com/m190/usefulapi-mcp) | iContact MCP by usefulapi | 1.0.0 | Read iContact contacts, lists, campaigns and message stats; add contacts and ma… |
-| 2026-10-25 12:32:36 | [io.usefulapi/freshsales](https://github.com/m190/usefulapi-mcp) | Freshsales MCP by usefulapi | 1.0.0 | Manage Freshsales contacts, accounts, deals, tasks and appointments; add notes. |
-| 2026-10-25 12:32:36 | [io.usefulapi/hiveage](https://github.com/m190/usefulapi-mcp) | Hiveage MCP by usefulapi | 1.0.0 | Manage Hiveage clients, invoices, estimates and payments; send invoices and rec… |
-| 2026-10-25 12:32:36 | [io.usefulapi/hiboutik](https://github.com/m190/usefulapi-mcp) | Hiboutik MCP by usefulapi | 1.0.0 | Read Hiboutik products, stock, customers, sales and turnover; edit customers an… |
-| 2026-10-25 12:32:36 | com.voiddo.data/utilities | vøiddo utilities | 1.1.2 | 26 deterministic tools: PDF, image, QR, CSV/Excel, HTML to PDF, DNS/RDAP, FX ra… |
-| 2026-10-25 12:33:29 | [io.github.roystondwork-dev/portcheck](https://github.com/roystondwork-dev/portcheck) | portcheck | 0.10.1 | See which process holds a port, find free ports, and stop a dev server safely. |
-| 2026-10-25 12:36:39 | br.com.omofi/mofi | Mofi | 1.0.0 | Ask your AI about your Brazilian bank spending. Read-only Open Finance bank con… |
-| 2026-10-25 12:36:55 | [io.github.kenawak/jami-mcp](https://github.com/kenawak/jami-mcp) | Jami | 0.3.0 | Jami creator payouts for your agent: ETB checkouts, orders, payouts, webhooks.… |
-| 2026-10-25 12:45:03 | fun.design-events/afisha | Дизайн-афиша | 0.1.0 | Афиша для дизайнеров: лекции, митапы, выставки. Поиск по городу, датам, теме, т… |
-| 2026-10-25 12:45:06 | [io.github.manuvamp/orano-personal-context-mcp](https://github.com/manuvamp/orano-mcp-examples) | ORANO MCP | 2.0.0 | Agents save, analyze and act on videos and links: transcripts, research, tasks,… |
-| 2026-10-25 12:55:17 | [ai.agentplaybooks/agentplaybooks](https://github.com/matebenyovszky/agentplaybooks) | AgentPlaybooks | 0.7.0 | Vendor-neutral home for portable agents: skills, MCP tools, memory, canvas, and… |
-| 2026-10-25 12:57:10 | [io.github.mitigant/mitigant-mcp](https://github.com/mitigant/mitigant-external-api) | Mitigant | 0.1.0 | Run real, auto-recovered cloud attacks on AWS, Azure and GCP to test your defen… |
-| 2026-10-25 12:57:13 | [io.github.cyanheads/epa-drinking-water-mcp-server](https://github.com/cyanheads/epa-drinking-water-mcp-server) |  | 0.1.1 | Query EPA drinking water systems, violations, and contaminant records. |
-| 2026-10-25 13:03:34 | [org.sciencelive4all/forrt-research-mcp](https://github.com/ScienceLiveHub/forrt-research-mcp) | FORRT Research | 0.2.0 | Produce verifiable FORRT nanopublication chains: grounded quote checks and Scie… |
-| 2026-10-25 13:14:01 | [io.github.npiwho/npiwho](https://github.com/npiwho/mcp) | NPI Who | 1.0.0 | US health care providers by NPI, name or phone, with payments, Medicare, OIG an… |
-| 2026-10-25 13:14:17 | io.github.lian-yang/wordradar | WordRadar | 1.0.0 | Keyword intelligence via MCP: emerging search terms, SERP difficulty, site rada… |
-| 2026-10-25 13:15:44 | net.bigfloppy.tinytoolbox/tinytoolbox | tinytoolbox | 1.1.0 | PDF tools + QR over MCP: merge, split, rotate, text, metadata, malicious-conten… |
-| 2026-10-25 13:17:42 | ai.nexrex/nexrex | NexRex | 1.0.0 | Running training and coaching: activities, plans, recovery, rosters and plan dr… |
-| 2026-10-25 13:19:13 | ai.topped/topped | Topped | 1.0.0 | Make, approve, schedule and measure your Product's TikTok, Instagram and YouTub… |
+| 2026-10-25 13:24:14 | com.ryecentral/consensus | RyeCentral Consensus | 1.0.0 | Rye whiskey consensus scores compiled from published reviews, with confidence b… |
+| 2026-10-25 13:25:27 | app.tandemcrm/crm | Tandem CRM | 1.0.0 | The CRM your AI agent works in: companies, people, deals, tasks and buying sign… |
+| 2026-10-25 13:26:19 | [io.github.cyanheads/us-lobbying-mcp-server](https://github.com/cyanheads/us-lobbying-mcp-server) |  | 0.1.1 | Search US lobbying disclosures and foreign-agent registrations via MCP. |
+| 2026-10-25 13:31:52 | jp.bestcalendar/koyomi | ベストカレンダー 暦データ | 1.0.0 | Japanese calendar data (rokuyo, lucky days, solar terms, holidays, moon, sunris… |
+| 2026-10-25 13:39:50 | net.postandshare/solana-token-launch |  | 0.1.0 | Create, launch and rug-check Solana SPL tokens over x402. Non-custodial, no key… |
+| 2026-10-25 13:40:20 | [io.github.cyanheads/uk-parliament-mcp-server](https://github.com/cyanheads/uk-parliament-mcp-server) |  | 0.1.1 | Search UK Parliament bills, members, votes, Hansard, written questions, and com… |
+| 2026-10-25 13:40:50 | [dev.dudko/tabellum](https://github.com/dudko-dev/tabellum-mcp-setup) | Tabellum | 0.1.2 | MCP bridge to the Tabellum database client: schema, reads, SQL drafts; writes a… |
+| 2026-10-25 13:40:56 | [dev.dudko/baton](https://github.com/dudko-dev/baton-mcp-setup) | Baton | 0.2.0 | Local MCP server for Baton: edit git-native API requests, collections, environm… |
+| 2026-10-25 13:44:52 | [app.singitai/singit](https://github.com/bubon-ik/SingItAI) | SingIt | 0.1.0 | Prices, web search, page reading and market data for agents, paid in Base USDC… |
+| 2026-10-25 13:45:06 | [com.arugulanet/arugula](https://github.com/ArugulaNet/arugula) | Arugula | 1.0.0 | Find offers that fit what you want, ranked by fit only, with links to buy. |
+| 2026-10-25 13:45:28 | fr.cadorama02/shop | Cadorama | 1.1.0 | Asian grocery & gift shop in France: search products, promos, store hours, Stri… |
+| 2026-10-25 13:49:38 | com.whichsensor/products | Which Sensor Industrial Sensors | 1.1.0 | Search industrial sensors: specs, list and customer prices, datasheets, alterna… |
+| 2026-10-25 13:51:44 | app.svgme/svgme | SVG Me | 1.0.0 | Convert PNG, JPG and WebP images, including AI-generated ones, to clean SVG, PD… |
+| 2026-10-25 13:52:30 | me.proxyhub/mcp | ProxyHub Free Proxy MCP | 1.0.0 | Query free proxies by country, protocol and anonymity. Read-only access; no acc… |
+| 2026-10-25 13:52:58 | me.vpnhub/mcp | VPNHub Free VPN MCP | 1.0.0 | Find free VPN servers by country and protocol. Read-only access; no account or… |
+| 2026-10-25 13:55:57 | [io.github.SemanticDataCharter/sdc-mapper](https://github.com/SemanticDataCharter/sdc-mapper) |  | 4.1.1 | Map Governed Data Records to documented formats, reporting what happened to eve… |
+| 2026-10-25 13:56:30 | io.github.shubhankarsd/basiiik | Basiiik | 0.5.0 | Design system for coding agents: component specs, rules, tokens, icons and chec… |
+| 2026-10-25 13:57:57 | [io.github.ai-ronin-systems/appsec-toolbox-mcp](https://github.com/ai-ronin-systems/appsec-toolbox-mcp) | AppSec Toolbox MCP | 0.3.0 | Passive AppSec scanners as eight parameterless MCP tools; the audited repositor… |
+| 2026-10-25 14:00:00 | [io.github.cyanheads/switzerland-parliament-mcp-server](https://github.com/cyanheads/switzerland-parliament-mcp-server) |  | 0.1.1 | Search Swiss parliamentary business, votes, debates, members, and declared inte… |
+| 2026-10-25 14:02:07 | in.alphamotion/alphamotion | Alphamotion | 1.0.0 | Digital, ecommerce, operations, compliance and finance for brands in India. |
+| 2026-10-25 14:04:20 | [work.nacre/nacre](https://github.com/nacre-work/nacre) | Nacre | 0.41.0 | Self-hosted permission-aware context layer. Search returns only what the caller… |
+| 2026-10-25 14:04:33 | io.github.olostep/olostep-mcp-server | Olostep MCP Server | 1.0.18 | Search, scrape, and crawl the web for AI agents. Batch scraping and answers wit… |
+| 2026-10-25 14:06:20 | [io.github.hawaleska/arn-konsumenttvist](https://github.com/hawaleska/arn-konsumenttvist-mcp) | ARN Konsumenttvist | 1.0.0 | Svensk MCP-server för sökning och analys av ARN-beslut och konsumenttvister. |
+| 2026-10-25 14:10:17 | [io.github.planetabhi/ai-tool-radar-mcp](https://github.com/planetabhi/riseofmachine) | Rise of Machine — AI Tool Radar | 0.1.0 | MCP server for the Rise of Machine AI tools directory. |
+| 2026-10-25 14:11:46 | [io.github.CloudCorpRecords/logdigest](https://github.com/CloudCorpRecords/logdigest) |  | 0.1.0 | Condense a CI log to its failure sections and root-cause lines, with original l… |
+| 2026-10-25 14:12:32 | com.trytrimi/trimi-health-plans | Trimi Health plan, policy and verificat… | 1.1.0 | Trimi Health plan prices, billing terms, state availability, pharmacy and clini… |
+| 2026-10-25 14:12:53 | co.maisoneclaire/shop | Maison Éclaire | 1.0.0 | Read-only catalogue, gift ideas and delivery terms of a handmade candle shop in… |
+| 2026-10-25 14:14:26 | io.github.nyo-agentti/pdfua-check | PDF/UA accessibility check (veraPDF) wi… | 1.0.0 | Check PDFs against PDF/UA-1 with veraPDF; see which failures an automatic fix r… |
+| 2026-10-25 14:18:50 | [io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/white-report](https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/white-report-mcp) | The White Report | 0.1.0 | The White Report news archive: crypto and AI stories, search, full text, ticker… |
+| 2026-10-25 14:20:43 | com.calculatepool/calculatepool | Calculate Pool | 1.1.0 | Swimming pool math: volume in gallons, chemical doses, pump flow and heater BTU… |
+| 2026-10-25 14:20:46 | com.superhotgeo/superhotgeo | SuperhotGeo | 1.1.0 | Superhot rock geothermal: well registry with failures at temperature, projects,… |
 
 ## Data source
 
