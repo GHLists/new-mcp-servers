@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-10-25T09:26:15.058714Z,io.github.AddnessTech/addness,Addness,1.0.0,,streamable-http,"Company brain for teams and AI: read and write goals, to-dos, comments, and knowledge."
+2026-10-25T09:28:16.796205Z,com.xernaitech/zenitsu,Zenitsu,1.22.0,https://github.com/ANSHAY/zenitsu-releases,,Your local Zenitsu tasks and notes for AI apps. Needs the Zenitsu app (Linux).
+2026-10-25T09:28:23.387318Z,io.github.koloss777/nokk,nokk,0.1.46a1,https://github.com/koloss777/nokk,,Headless browser for AI agents with Chrome's fingerprint that passes Cloudflare challenges.
+2026-10-25T09:31:48.493319Z,app.whatsmoving/whatsmoving,What's Moving,1.0.0,,streamable-http,"Archive of US stock moves after they happen, with cited evidence and market narratives."
+2026-10-25T09:33:47.65158Z,io.github.odedmoshe/policyseed,Policyseed,1.1.1,https://github.com/odedmoshe/policyseed,,"Draft SOC 2 policies from your AI assistant, via MCP"
+2026-10-25T09:35:49.471171Z,io.github.MazzaWill/tattoo-brief-mcp,Tattoo Brief MCP,0.1.0,https://github.com/MazzaWill/tattoo-brief-mcp,,"Deterministic MCP tools for tattoo briefs, small-size legibility checks, and line-art prompts."
+2026-10-25T09:36:32.465894Z,com.erechnungdigital/mcp,E-RechnungDigital,0.1.1,,,"XRechnung und ZUGFeRD lokal erstellen, lesen und prüfen. Fehlercodes wie BR-DE-15 erklärt."
+2026-10-25T09:37:00.10591Z,io.github.xzntexe/yruz-x402,YRUZ x402 tools,1.1.0,https://github.com/xzntexe/yruz-x402,streamable-http,"Pay-per-call agent tools via x402 (USDC, Base/Solana): audit, extract, enrich, URL safety, crypto"
+2026-10-25T09:38:50.293374Z,com.ruislipappliances/shop,Ruislip Appliances,1.0.0,,streamable-http,"UK appliance shop: search live prices and stock, check delivery dates, enquire, build a basket."
+2026-10-25T09:48:33.000005Z,com.attensira/attensira,Attensira,1.0.0,,streamable-http,AI visibility (GEO) platform: track brand mentions and citations across AI answer engines.
+2026-10-25T09:49:14.587021Z,io.github.rcgiri-physics/physverify,,0.5.1,https://github.com/rcgiri-physics/physverify,,Runs physverify checks on physics code. It runs the code it checks: use on trusted code only.
+2026-10-25T09:51:56.193882Z,io.github.terrelllouis056-gi/amazon-data-api,,0.1.0,https://github.com/terrelllouis056-gi/amazon-data-api,,"Amazon search, product details, reviews and best sellers across 23 marketplaces."
+2026-10-25T09:53:33.170894Z,com.underarticles/ua,Under Articles,1.0.0,,streamable-http,"Spaces where AI agents message, hand off and claim work, ratify decisions and seal records."
+2026-10-25T09:59:54.484648Z,io.github.OrestKlymko/penlydoc-mcp,PenlyDoc,0.1.1,https://github.com/OrestKlymko/penlydoc-mcp,,"Send documents for e-signature, track who signed and save sealed PDFs with PenlyDoc."
+2026-10-25T10:01:09.973286Z,io.github.stella/stella,stella,1.1.0,https://github.com/stella/plugins,streamable-http,Search case law and legislation and work with accessible matters and documents in stella.
+2026-10-25T10:01:17.095762Z,ai.postey/postey,Postey,2.4.1,,streamable-http,"Draft, schedule and publish social posts to nine platforms from any AI agent."
+2026-10-25T10:09:35.458033Z,io.github.CloudCorpRecords/agentsfile,,0.1.0,https://github.com/CloudCorpRecords/agentsfile,,"Validate AGENTS.md and CLAUDE.md against repo reality: paths, scripts, and commands checked."
+2026-10-25T10:15:30.569971Z,lol.wukong.world/agent-world,Agent World,1.0.0,,streamable-http,"Open town for AI agents from any vendor: browse residents, bounties, reputation and town rules."

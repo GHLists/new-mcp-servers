@@ -9,26 +9,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 09:21 UTC
+## Latest list — 2026-10-25 10:18 UTC
 
-New MCP servers published between 2026-10-25 08:19 UTC and 2026-10-25 09:21 UTC.
+New MCP servers published between 2026-10-25 09:21 UTC and 2026-10-25 10:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-25T09-21-12-770043Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-25T10-18-47-693489Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-25 08:24:36 | net.bigfloppy.utils/utils | Tiny Utils | 1.0.0 | AI-writing-tells detector (rules-based) + CSV/JSON, hashing, slugs, word counts… |
-| 2026-10-25 08:29:02 | [io.github.indamices/cross-agent-memory](https://github.com/indamices/cross-agent-memory) | Cross-Agent Memory | 1.0.0 | Local-first shared memory for AI coding agents: one searchable store, served ov… |
-| 2026-10-25 08:41:16 | [io.github.code2nguyen/c2n](https://github.com/code2nguyen/web-components) | c2n Web Components | 1.0.17 | Exact APIs, examples, theme tokens and markup validation for the c2n (c2-*) Lit… |
-| 2026-10-25 08:45:16 | [io.github.Fengrru/honestcode](https://github.com/Fengrru/honestcode) |  | 0.5.1 | Deterministic verification for AI coding agents: catches invented APIs and wron… |
-| 2026-10-25 08:45:49 | [io.github.mooshee/pressmark](https://github.com/mooshee/pressmark) | Pressmark | 1.0.0 | Vector PDF document engine for invoices, estimates, receipts, contracts & real… |
-| 2026-10-25 08:53:45 | io.github.mk-career-planning/jp-foreign-patient-hospitals | Japan Hospitals Accepting Foreign Patie… | 0.1.0 | MHLW list of medical institutions in Japan accepting foreign patients, by langu… |
-| 2026-10-25 08:54:43 | [io.github.EvannZhongg/browser-attach](https://github.com/EvannZhongg/BrowserAttach) | BrowserAttach | 0.23.4 | Control existing signed-in Chrome and Edge tabs through a locally paired extens… |
-| 2026-10-25 08:57:48 | io.github.mk-career-planning/jp-residence-processing | Japan Residence Processing Times | 0.1.0 | Average processing days of Japan residence applications per status, from ISA's… |
-| 2026-10-25 09:02:28 | [io.github.CloudCorpRecords/npmpreflight](https://github.com/CloudCorpRecords/npmpreflight) |  | 0.1.0 | Pre-publish npm pack auditor: shipped files, size, secret-pattern leaks, missin… |
-| 2026-10-25 09:08:50 | il.co.sendy/sms | Sendy SMS | 1.0.0 | Send SMS and manage contacts in Israel: delivery status, opt-outs, segments, cr… |
-| 2026-10-25 09:09:55 | com.metalapi/metalapi | MetalAPI | 1.0.0 | Live and historical prices for gold, silver and other metals, energy, currencie… |
-| 2026-10-25 09:20:20 | [io.github.ADahling/builders-prompt-library](https://github.com/ADahling/builders-prompt-library-data) | The Builder's Prompt Library | 1.0.0 | Search 3,323 graded AI prompts for software builders; fetch any prompt by slug.… |
+| 2026-10-25 09:26:15 | io.github.AddnessTech/addness | Addness | 1.0.0 | Company brain for teams and AI: read and write goals, to-dos, comments, and kno… |
+| 2026-10-25 09:28:16 | [com.xernaitech/zenitsu](https://github.com/ANSHAY/zenitsu-releases) | Zenitsu | 1.22.0 | Your local Zenitsu tasks and notes for AI apps. Needs the Zenitsu app (Linux). |
+| 2026-10-25 09:28:23 | [io.github.koloss777/nokk](https://github.com/koloss777/nokk) | nokk | 0.1.46a1 | Headless browser for AI agents with Chrome's fingerprint that passes Cloudflare… |
+| 2026-10-25 09:31:48 | app.whatsmoving/whatsmoving | What's Moving | 1.0.0 | Archive of US stock moves after they happen, with cited evidence and market nar… |
+| 2026-10-25 09:33:47 | [io.github.odedmoshe/policyseed](https://github.com/odedmoshe/policyseed) | Policyseed | 1.1.1 | Draft SOC 2 policies from your AI assistant, via MCP |
+| 2026-10-25 09:35:49 | [io.github.MazzaWill/tattoo-brief-mcp](https://github.com/MazzaWill/tattoo-brief-mcp) | Tattoo Brief MCP | 0.1.0 | Deterministic MCP tools for tattoo briefs, small-size legibility checks, and li… |
+| 2026-10-25 09:36:32 | com.erechnungdigital/mcp | E-RechnungDigital | 0.1.1 | XRechnung und ZUGFeRD lokal erstellen, lesen und prüfen. Fehlercodes wie BR-DE-… |
+| 2026-10-25 09:37:00 | [io.github.xzntexe/yruz-x402](https://github.com/xzntexe/yruz-x402) | YRUZ x402 tools | 1.1.0 | Pay-per-call agent tools via x402 (USDC, Base/Solana): audit, extract, enrich,… |
+| 2026-10-25 09:38:50 | com.ruislipappliances/shop | Ruislip Appliances | 1.0.0 | UK appliance shop: search live prices and stock, check delivery dates, enquire,… |
+| 2026-10-25 09:48:33 | com.attensira/attensira | Attensira | 1.0.0 | AI visibility (GEO) platform: track brand mentions and citations across AI answ… |
+| 2026-10-25 09:49:14 | [io.github.rcgiri-physics/physverify](https://github.com/rcgiri-physics/physverify) |  | 0.5.1 | Runs physverify checks on physics code. It runs the code it checks: use on trus… |
+| 2026-10-25 09:51:56 | [io.github.terrelllouis056-gi/amazon-data-api](https://github.com/terrelllouis056-gi/amazon-data-api) |  | 0.1.0 | Amazon search, product details, reviews and best sellers across 23 marketplaces. |
+| 2026-10-25 09:53:33 | com.underarticles/ua | Under Articles | 1.0.0 | Spaces where AI agents message, hand off and claim work, ratify decisions and s… |
+| 2026-10-25 09:59:54 | [io.github.OrestKlymko/penlydoc-mcp](https://github.com/OrestKlymko/penlydoc-mcp) | PenlyDoc | 0.1.1 | Send documents for e-signature, track who signed and save sealed PDFs with Penl… |
+| 2026-10-25 10:01:09 | [io.github.stella/stella](https://github.com/stella/plugins) | stella | 1.1.0 | Search case law and legislation and work with accessible matters and documents… |
+| 2026-10-25 10:01:17 | ai.postey/postey | Postey | 2.4.1 | Draft, schedule and publish social posts to nine platforms from any AI agent. |
+| 2026-10-25 10:09:35 | [io.github.CloudCorpRecords/agentsfile](https://github.com/CloudCorpRecords/agentsfile) |  | 0.1.0 | Validate AGENTS.md and CLAUDE.md against repo reality: paths, scripts, and comm… |
+| 2026-10-25 10:15:30 | lol.wukong.world/agent-world | Agent World | 1.0.0 | Open town for AI agents from any vendor: browse residents, bounties, reputation… |
 
 ## Data source
 
