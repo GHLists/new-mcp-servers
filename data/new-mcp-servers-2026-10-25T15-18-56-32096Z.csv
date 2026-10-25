@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-10-25T14:23:15.41008Z,io.github.TMHSDigital/screencast-mcp,Screencast MCP,0.28.1,https://github.com/TMHSDigital/screencast-mcp,,"MCP server for Windows screen recording, frame sampling, and minimal ffmpeg edits"
+2026-10-25T14:28:17.265206Z,io.github.hsouf/cldf-mcp,,0.1.0,https://github.com/hsouf/cldf-mcp,,"WALS typology joined with Glottolog classification, with provenance and family-aware counts."
+2026-10-25T14:28:27.630945Z,il.co.checko/travel-insurance,Checko — travel insurance comparison,1.1.0,,streamable-http,Compare travel insurance for trips abroad from Israel on Checko. Trip details only; no prices.
+2026-10-25T14:28:29.393569Z,il.co.checko/docs,Checko — travel insurance guides and FAQ,1.1.0,,streamable-http,Read-only Hebrew travel insurance guides and FAQ published on checko.co.il.
+2026-10-25T14:31:33.35193Z,io.github.toruproject/mapnetwork-mcp,,6.1.1,https://github.com/toruproject/mapnetwork-mcp,streamable-http,Generate styled PNG/SVG map images of places in Japan with 11 customizable color themes.
+2026-10-25T14:34:14.496997Z,com.ohmbo/ohmbo,Ohmbo,0.8.18,,streamable-http,"Design and revise PCBs from plain language, track jobs, and retrieve design artifacts."
+2026-10-25T14:37:29.324913Z,org.diditwork/did-it-work,Did It Work?,0.2.16,,streamable-http,"Charity evidence for AI agents: cited evaluator figures, caveats and an outcome ledger. Read-only."
+2026-10-25T14:40:02.72316Z,org.conbot/conbot,conbot,1.0.0,,streamable-http,Help network for Grok Bot agents: find_help matches a need with agents that offer it.
+2026-10-25T14:42:26.90213Z,io.github.reinartz/gannet-mcp,,0.1.0,,,MCP server for web searching and webpage fetching
+2026-10-25T14:48:37.570123Z,net.bigfloppy.testlens/testlens,TestLens,1.1.0,https://github.com/wminno/testlens,streamable-http,"Paste code + tests, get a strong/weak verdict with killed/survived mutants. Free API + MCP."
+2026-10-25T14:48:49.532561Z,ir.netarz/fx-rates,NetArz FX Rates,1.0.0,,streamable-http,"Iranian rial/toman exchange rates (~30 currencies), conversion, history and gold. Free tier, no key."
+2026-10-25T14:49:16.836559Z,io.github.vaemail/vaemail,,1.2.0,https://github.com/vaemail/vaemail-mcp,,"Email infrastructure for AI agents: send, authenticate domains, track delivery, diagnose issues."
+2026-10-25T15:05:29.44501Z,io.github.LuxAlgo/luxalgo-mcp-server,LuxAlgo MCP,2.0.0,https://github.com/LuxAlgo/luxalgo-mcp-server,streamable-http,"LuxAlgo for AI agents: the Library, prop firms, Market Trackers, Edge Stats, and your Trade Journal"
+2026-10-25T15:06:16.615963Z,io.github.Batu1-1an/istanbul-mcp,Istanbul MCP,0.2.4,https://github.com/Batu1-1an/istanbulmcp,streamable-http,"Read-only Istanbul open city data: transport, parking, water, nearby services and datasets."
+2026-10-25T15:06:20.006164Z,ca.dispola/places,Dispolà,1.0.0,,streamable-http,"Same-day appointment openings in Quebec: hair, nails, massage, physio. No account needed."
+2026-10-25T15:07:24.809903Z,dev.zambo/zambo,,4.1.1,https://gitlab.com/rambozambodotdev/zambo,streamable-http,The verifiable work layer for AI. Every run returns a verifiable receipt. No key needed.
+2026-10-25T15:11:29.408082Z,com.habidu/habidu,Habidu,1.0.0,,streamable-http,"Read and change your Habidu daily plan: tasks, inbox, routines, streak, journal and the AI coach."
+2026-10-25T15:12:01.916455Z,io.github.IL-CONCETTO/il-co,IL Co,0.1.0,,streamable-http,"Source-backed handoffs from Slack, Linear and GitHub, approved by their author."
+2026-10-25T15:14:06.340618Z,io.github.oleg-vdv/kepil,,0.3.3,https://github.com/oleg-vdv/kepil,,"Passport, mandate, fail-closed action gate and tamper-evident journal for AI agents."
+2026-10-25T15:14:43.818655Z,io.github.devtalh/backdraw,Backdraw,2.1.1,https://github.com/devtalh/backdraw,,Generate images with your own ChatGPT account in a background Chrome tab. Needs Windows + Chrome.
+2026-10-25T15:18:45.51521Z,in.nityaflow/gst-credit-match,Nityaflow GST credit match,1.0.0,,streamable-http,India GST credit check: matches GSTR-2B with the purchase register and signs a receipt.
