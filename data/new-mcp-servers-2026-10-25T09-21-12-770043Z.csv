@@ -1,0 +1,13 @@
+created_at,server,title,version,repository,transports,description
+2026-10-25T08:24:36.049996Z,net.bigfloppy.utils/utils,Tiny Utils,1.0.0,,streamable-http,"AI-writing-tells detector (rules-based) + CSV/JSON, hashing, slugs, word counts, UUIDs. Free."
+2026-10-25T08:29:02.117659Z,io.github.indamices/cross-agent-memory,Cross-Agent Memory,1.0.0,https://github.com/indamices/cross-agent-memory,,"Local-first shared memory for AI coding agents: one searchable store, served over MCP. MIT."
+2026-10-25T08:41:16.203455Z,io.github.code2nguyen/c2n,c2n Web Components,1.0.17,https://github.com/code2nguyen/web-components,,"Exact APIs, examples, theme tokens and markup validation for the c2n (c2-*) Lit web components."
+2026-10-25T08:45:16.981624Z,io.github.Fengrru/honestcode,,0.5.1,https://github.com/Fengrru/honestcode,,Deterministic verification for AI coding agents: catches invented APIs and wrong calls.
+2026-10-25T08:45:49.397323Z,io.github.mooshee/pressmark,Pressmark,1.0.0,https://github.com/mooshee/pressmark,streamable-http,"Vector PDF document engine for invoices, estimates, receipts, contracts & real estate agreements."
+2026-10-25T08:53:45.698899Z,io.github.mk-career-planning/jp-foreign-patient-hospitals,Japan Hospitals Accepting Foreign Patients,0.1.0,,streamable-http,"MHLW list of medical institutions in Japan accepting foreign patients, by language. Tracks changes."
+2026-10-25T08:54:43.978961Z,io.github.EvannZhongg/browser-attach,BrowserAttach,0.23.4,https://github.com/EvannZhongg/BrowserAttach,,Control existing signed-in Chrome and Edge tabs through a locally paired extension.
+2026-10-25T08:57:48.039356Z,io.github.mk-career-planning/jp-residence-processing,Japan Residence Processing Times,0.1.0,,streamable-http,"Average processing days of Japan residence applications per status, from ISA's published PDFs."
+2026-10-25T09:02:28.086862Z,io.github.CloudCorpRecords/npmpreflight,,0.1.0,https://github.com/CloudCorpRecords/npmpreflight,,"Pre-publish npm pack auditor: shipped files, size, secret-pattern leaks, missing fields."
+2026-10-25T09:08:50.280934Z,il.co.sendy/sms,Sendy SMS,1.0.0,,streamable-http,"Send SMS and manage contacts in Israel: delivery status, opt-outs, segments, credits."
+2026-10-25T09:09:55.157129Z,com.metalapi/metalapi,MetalAPI,1.0.0,,streamable-http,"Live and historical prices for gold, silver and other metals, energy, currencies and crypto."
+2026-10-25T09:20:20.674347Z,io.github.ADahling/builders-prompt-library,The Builder's Prompt Library,1.0.0,https://github.com/ADahling/builders-prompt-library-data,streamable-http,"Search 3,323 graded AI prompts for software builders; fetch any prompt by slug. No key needed."
