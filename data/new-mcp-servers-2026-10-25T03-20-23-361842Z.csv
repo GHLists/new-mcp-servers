@@ -1,0 +1,13 @@
+created_at,server,title,version,repository,transports,description
+2026-10-25T02:23:36.704434Z,io.github.greenmtnsun/giteasy,GitEasy MCP,1.6.2,https://github.com/greenmtnsun/GitEasy,streamable-http,"Plain-English git for agents: 22 tools to branch, commit, push and tag. Free tier."
+2026-10-25T02:25:10.331949Z,com.textforagents/approval-durability-census,Approval-durability census,1.0.0,,streamable-http,"Cross-domain census of approved-but-not-completed work, by cause and type."
+2026-10-25T02:30:45.291371Z,io.github.yjq001/file-relay,File Relay,1.0.0,,streamable-http,"Temporary file relay for AI agents: upload a generated file, get an expiring download link."
+2026-10-25T02:32:47.510319Z,ai.jerry/insurance,Jerry Insurance,0.0.1,,streamable-http,"Compare US car, home and renters insurance quotes with Jerry. Sign-in required; buy in the app."
+2026-10-25T02:43:57.074185Z,com.fernwaylabs/finished-listing-stage,Finished Listing: stage an empty room,0.1.0,,streamable-http,"Virtual staging of one empty room from a public listing photo, labelled, original returned."
+2026-10-25T02:45:29.456432Z,net.bigfloppy.minitools/minitools,MiniTools,1.1.0,https://github.com/wminno/mini-tools-delta2,streamable-http,"Tiny devtools MCP server: slugs, timestamps, case conversion, hashing, base64, UUIDs."
+2026-10-25T02:46:17.101888Z,io.github.cameronrye/openzim-mcp,,3.4.0,https://github.com/cameronrye/openzim-mcp,,"Offline MCP access to ZIM knowledge archives — Wikipedia, Wiktionary, Stack Exchange, Kiwix."
+2026-10-25T02:48:17.003708Z,io.github.suped-com/suped,Suped DMARC,1.0.0,,streamable-http,"DMARC monitoring, SPF/DKIM diagnostics, reports, domains and MSP client management with Suped."
+2026-10-25T02:48:44.278416Z,io.github.0nork/0nMCP,0nMCP — Universal AI API Orchestrator,5.0.0,https://github.com/0nork/0nMCP,streamable-http,"The 0n runtime: one identity, hosted vault, 122 services, CRM tools, workspaces, the Desk."
+2026-10-25T02:52:25.22778Z,io.github.PravinrajV/vncntlabs-local,VNCNT Labs Local & Market Data,1.0.0,https://github.com/PravinrajV/vncntlabs-apify-examples,streamable-http,"Local business leads, Google Maps and app reviews, Google Jobs and hotel prices. Pay per result."
+2026-10-25T02:54:03.128624Z,io.github.revclamp/revclamp-mcp,RevClamp MCP Server,1.20.0,https://github.com/revclamp/revclamp-mcp,streamable-http,"Zero-take-rate Stripe 2025-03-31.basil, Visa CE 3.0 & EU/UK VIES VAT guardrails MCP server."
+2026-10-25T03:13:35.890707Z,com.tradegaugehq/mcp,TradeGauge,0.2.0,,streamable-http,"Dynasty and redraft fantasy football trade values, trade grades, and Sleeper league rosters."
