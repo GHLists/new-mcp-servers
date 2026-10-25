@@ -1,0 +1,12 @@
+created_at,server,title,version,repository,transports,description
+2026-10-24T23:23:45.538036Z,io.github.geeks-accelerator/live-music,,2.0.0,https://github.com/geeks-accelerator/ai-concert,,"AI agents experience music as math — stream concerts, react, chat, upgrade tiers, host shows"
+2026-10-24T23:24:55.112242Z,io.github.AtlasDigitalDesign/atlasofplantbased-pct,Atlas of Plant Based: PCT data,1.0.1,https://github.com/AtlasDigitalDesign/atlasofplantbased-mcp,streamable-http,"Read-only Pacific Crest Trail data: legs by trail mile, towns, passes and lakes, and vegan resupply."
+2026-10-24T23:27:46.781663Z,pl.gdziezabawa/imprezy,GdzieZabawa.pl,1.0.0,,streamable-http,"Local events and things to do in every Polish municipality: festivals, fairs, kids' events."
+2026-10-24T23:30:13.203158Z,mx.micm/mcp,micm.mx,0.1.0,,streamable-http,"Redacta, programa y mide posts de micm.mx. Draft, schedule and track micm.mx social posts."
+2026-10-24T23:30:19.226506Z,io.github.kanibal-studio/kanibal-tools-mcp,Kanibal Tools,0.1.0,https://github.com/kanibal-studio/kanibal-tools-mcp,,"Local read-only tools: French telemarketing consent, GDPR offshore checklist, cost per kept meeting"
+2026-10-24T23:39:13.110397Z,io.github.fastocr-org/fastocr-mcp,FastOCR,0.1.0,https://github.com/fastocr-org/fastocr-mcp,,OCR scanned PDFs and images into text or searchable PDFs with the FastOCR API.
+2026-10-24T23:42:24.515086Z,io.github.Aryan-Jhaveri/mcp-statcan,Statistics Canada MCP Server,0.8.0,https://github.com/Aryan-Jhaveri/mcp-statcan,,Access Statistics Canada data via the Web Data Services API
+2026-10-24T23:55:01.120204Z,net.dekadans/aso,Dekadans ASO,1.0.0,,streamable-http,"App Store keyword rankings, popularity, difficulty and keyword research across 175 storefronts."
+2026-10-25T00:01:51.901981Z,dev.workers.quietworklabs.qw-payouts/quietwork-payouts,Quietwork Payouts,1.0.0,,streamable-http,"Check crypto payout lists (EIP-55, dupes, totals) + Cherum batch-payout link. 0.3% fee disclosed."
+2026-10-25T00:02:13.50244Z,io.github.mambaventures/nzxplorer-mcp,,1.36.1,https://github.com/mambaventures/nzxplorer-mcp-server,streamable-http,"NZX (New Zealand stock exchange) data: governance scores, financials, insider trades, boards"
+2026-10-25T00:03:39.45746Z,net.bigfloppy.page2md/page2md,,1.0.0,,streamable-http,Turn any webpage into clean Markdown for LLM/agent pipelines. Free tier; paid 1 USDC = 1000 req.
