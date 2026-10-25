@@ -9,26 +9,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 03:20 UTC
+## Latest list — 2026-10-25 04:19 UTC
 
-New MCP servers published between 2026-10-25 02:18 UTC and 2026-10-25 03:20 UTC.
+New MCP servers published between 2026-10-25 03:20 UTC and 2026-10-25 04:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-25T03-20-23-361842Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-25T04-19-27-350869Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-25 02:23:36 | [io.github.greenmtnsun/giteasy](https://github.com/greenmtnsun/GitEasy) | GitEasy MCP | 1.6.2 | Plain-English git for agents: 22 tools to branch, commit, push and tag. Free ti… |
-| 2026-10-25 02:25:10 | com.textforagents/approval-durability-census | Approval-durability census | 1.0.0 | Cross-domain census of approved-but-not-completed work, by cause and type. |
-| 2026-10-25 02:30:45 | io.github.yjq001/file-relay | File Relay | 1.0.0 | Temporary file relay for AI agents: upload a generated file, get an expiring do… |
-| 2026-10-25 02:32:47 | ai.jerry/insurance | Jerry Insurance | 0.0.1 | Compare US car, home and renters insurance quotes with Jerry. Sign-in required;… |
-| 2026-10-25 02:43:57 | com.fernwaylabs/finished-listing-stage | Finished Listing: stage an empty room | 0.1.0 | Virtual staging of one empty room from a public listing photo, labelled, origin… |
-| 2026-10-25 02:45:29 | [net.bigfloppy.minitools/minitools](https://github.com/wminno/mini-tools-delta2) | MiniTools | 1.1.0 | Tiny devtools MCP server: slugs, timestamps, case conversion, hashing, base64,… |
-| 2026-10-25 02:46:17 | [io.github.cameronrye/openzim-mcp](https://github.com/cameronrye/openzim-mcp) |  | 3.4.0 | Offline MCP access to ZIM knowledge archives — Wikipedia, Wiktionary, Stack Exc… |
-| 2026-10-25 02:48:17 | io.github.suped-com/suped | Suped DMARC | 1.0.0 | DMARC monitoring, SPF/DKIM diagnostics, reports, domains and MSP client managem… |
-| 2026-10-25 02:48:44 | [io.github.0nork/0nMCP](https://github.com/0nork/0nMCP) | 0nMCP — Universal AI API Orchestrator | 5.0.0 | The 0n runtime: one identity, hosted vault, 122 services, CRM tools, workspaces… |
-| 2026-10-25 02:52:25 | [io.github.PravinrajV/vncntlabs-local](https://github.com/PravinrajV/vncntlabs-apify-examples) | VNCNT Labs Local & Market Data | 1.0.0 | Local business leads, Google Maps and app reviews, Google Jobs and hotel prices… |
-| 2026-10-25 02:54:03 | [io.github.revclamp/revclamp-mcp](https://github.com/revclamp/revclamp-mcp) | RevClamp MCP Server | 1.20.0 | Zero-take-rate Stripe 2025-03-31.basil, Visa CE 3.0 & EU/UK VIES VAT guardrails… |
-| 2026-10-25 03:13:35 | com.tradegaugehq/mcp | TradeGauge | 0.2.0 | Dynasty and redraft fantasy football trade values, trade grades, and Sleeper le… |
+| 2026-10-25 03:36:08 | [io.github.jamesknightzhou-arch/image-to-layers](https://github.com/afredzhou/image-to-layers) | ImageToLayers | 1.0.0 | Split images into editable layers (PSD/PNG), outpaint images, and generate clea… |
+| 2026-10-25 03:36:18 | [com.luniumpay/pix-brazilian-payments](https://github.com/LuniumPay/lunium-agent-skills) | Lunium — Brazilian PIX and stablecoin p… | 1.1.0 | Accept Pix in Brazil and settle in USDT/USDC; pay Pix with crypto; verify a Pix… |
+| 2026-10-25 03:40:13 | [com.docs-md/markdown-share](https://github.com/invisible-hand/docs-md.com) | Docs MD — Markdown Share | 1.2.0 | Share markdown as public links from your AI assistant — expiring or permanent,… |
+| 2026-10-25 03:45:57 | si.divux/divux | divux | 1.0.0 | Real US store prices at the buy step, official recalls, ENERGY STAR, travel adv… |
+| 2026-10-25 04:03:57 | dev.workers.regnotes.apac-regnotes/regnotes | APAC Reg Notes | 1.0.0 | Bilingual EN/zh summaries of APAC financial and AI regulatory notices (HKMA, SF… |
+| 2026-10-25 04:04:04 | dev.workers.regnotes.workday-calendar/workday-calendar | Workday Calendar | 1.0.0 | Public holidays and business-day math (T+N, counts) for many countries; pay per… |
+| 2026-10-25 04:04:04 | dev.workers.regnotes.fx-reference-rates/fx-reference-rates | FX Reference Rates | 1.0.0 | ECB euro reference FX rates: cross rates, conversion, history, time series; pay… |
+| 2026-10-25 04:04:05 | dev.workers.regnotes.apac-license-lookup/license-lookup | APAC Licensed-Entity Lookup | 1.0.0 | Check if a company is on HKMA, Japan FSA or Taiwan FSC licence registers; pay p… |
+| 2026-10-25 04:06:11 | com.renderster/renderster | Renderster | 1.0.0 | Long video in, captioned vertical clips out: clip, dub, transcribe and auto edi… |
+| 2026-10-25 04:18:05 | [co.com.elyraon/workflow-rescue](https://github.com/colt2822/Drex-Dotz) | ELYREON Workflow Rescue | 1.0.0 | Free static n8n workflow validation: broken references, duplicate nodes and str… |
+| 2026-10-25 04:18:35 | [com.sunoboard/sunoboard](https://github.com/YellowKode-Academy/suno-mcp) | SunoBoard | 1.0.0 | AI music and sound effects for games and videos: Suno, Lyria, Stable Audio, Min… |
+| 2026-10-25 04:18:52 | online.vnpulse/vnpulse | VNPulse | 1.0.0 | Vietnam stock market data: HOSE/HNX/UPCOM prices, foreign flow, order book, fin… |
+| 2026-10-25 04:19:06 | [io.github.WaHaiLong/kingdee-mcp](https://github.com/WaHaiLong/KingdeeMCP) | Kingdee K3Cloud (Cloud Galaxy) ERP | 0.2.2 | Third-party open-source MCP server for Kingdee K3Cloud ERP - 99 tools, 16 domai… |
 
 ## Data source
 
