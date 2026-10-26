@@ -9,46 +9,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 15:18 UTC
+## Latest list — 2026-10-26 16:27 UTC
 
-New MCP servers published between 2026-10-26 14:19 UTC and 2026-10-26 15:18 UTC.
+New MCP servers published between 2026-10-26 15:18 UTC and 2026-10-26 16:27 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-26T15-18-47-815177Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-26T16-27-07-328914Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-26 14:21:35 | de.abmahnexperte/abmahnung | Abmahnexperte.de | 1.0.0 | Received a German Abmahnung (cease and desist letter)? Send it in chat for a fr… |
-| 2026-10-26 14:23:43 | [io.github.formray/tachyon](https://github.com/formray/tachyon) | Tachyon GPU monitor | 1.0.1 | Read-only NVIDIA GPU monitor for Windows: bottlenecks, VRAM forecast, crash rec… |
-| 2026-10-26 14:25:00 | com.usetuff/tuff | Tuff | 1.0.0 | Projects, tasks, chat and docs for a team and its AI agents, at one flat price. |
-| 2026-10-26 14:26:24 | io.teddit/teddit | Teddit | 1.0.0 | Is your brand named by ChatGPT, Claude, Perplexity, Gemini and Google AI? A yes… |
-| 2026-10-26 14:35:31 | com.detentpoint/cluster-validator | ClusterValidator | 1.13.2 | Read-only health validation for Windows Server failover clusters running SQL Se… |
-| 2026-10-26 14:40:02 | ru.bloodymarybar.go/bloody-mary | Bloody Mary Bar & Grill | 1.0.0 | Часы, меню, акции, бронь и заявки на банкет: Bloody Mary Bar & Grill, Санкт-Пет… |
-| 2026-10-26 14:40:10 | ru.spb.brisket.go/brisket | Brisket Eat & Fun | 1.0.0 | Часы, меню, акции, бронь и заявки на банкет: Brisket Eat & Fun, Санкт-Петербург. |
-| 2026-10-26 14:40:19 | ru.pastramamama.go/pastrama-mama | Pastrama Mama | 1.0.0 | Часы, меню, акции, бронь и заявки на банкет: Pastrama Mama, Санкт-Петербург. |
-| 2026-10-26 14:40:21 | [io.github.empulse-ai/empulse-street-fx](https://github.com/empulse-ai/empulse-mcp) | EMpulse Street FX Index | 1.0.0 | Street FX rates of emerging-market currencies vs USD: latest, history, premium,… |
-| 2026-10-26 14:43:03 | com.slotspreviewai/slot-preview-ai | Slot Preview AI | 1.0.0 | AI slot thumbnails and casino lobby tiles: generate art and export 13 PNG files… |
-| 2026-10-26 14:43:09 | [com.handlepilot/handlepilot](https://github.com/Handlepilot/instagram-mcp) | HandlePilot | 1.0.0 | Instagram content hub for your AI agent: competitor research, reel breakdowns,… |
-| 2026-10-26 14:47:52 | com.getinboxtriage/inbox-triage | Inbox Triage | 1.0.0 | Connect Gmail, Outlook, iCloud, Yahoo and IMAP to AI apps in one MCP connection. |
-| 2026-10-26 14:48:04 | app.screenbird/screenbird | Screenbird | 1.1.0 | Manage Screenbird digital signage screens: see what is live, show content, crea… |
-| 2026-10-26 14:50:31 | tech.p7n/platform7n |  | 0.2.2 | Connect Claude to your Platform7n workspaces: chat, links, work and decks. One-… |
-| 2026-10-26 14:51:20 | one.cambio/swap | Cambio | 1.0.0 | Quotes a crypto swap for an exact amount, helps get TRX, BNB or SOL for fees, t… |
-| 2026-10-26 14:51:55 | [ai.shipeasy/mcp](https://github.com/shipeasy-ai/shipeasy) |  | 2.9.0 | Feature flags, A/B experiments, kill switches, dynamic config & i18n — Shipeasy… |
-| 2026-10-26 14:56:57 | dev.workers.makar52nn2016.money-reactor/x402-money-reactor | Money Reactor | 1.4.1 | Crypto/stock prices, QR, DNS, RSS, URL reader, AI chat, weather, ENS, hashes. U… |
-| 2026-10-26 14:57:19 | app.finpln/finpln | finpln | 4.6.4 | Personal and family finances: free-to-spend, budgets, reports; adds statement r… |
-| 2026-10-26 14:58:56 | [io.github.jmnzcn/mcp-hacienda-cr](https://github.com/jmnzcn/mcp-hacienda-cr) | Hacienda Costa Rica | 0.1.1 | Hacienda de Costa Rica: tipo de cambio, contribuyentes, códigos CABYS con IVA y… |
-| 2026-10-26 14:59:44 | app.unmerge/unmerge | Unmerge | 1.0.0 | Split a flat image into separate transparent PNG layers. Pay with Unmerge credi… |
-| 2026-10-26 14:59:50 | com.makeitsay/makeitsay | MakeItSay | 1.0.0 | Change the words in a screenshot or photo and keep the original font and layout. |
-| 2026-10-26 15:03:24 | [io.github.proxlane/proxlane](https://github.com/proxlane/proxlane) |  | 0.1.1 | Web fetch for agents through your own Proxlane gateway. Block pages come back a… |
-| 2026-10-26 15:04:14 | in.counterfoil/medicines | Counterfoil: medicines sold in India | 0.3.0 | India's medicines: NPPA prices and ceilings, cheaper same-composition brands, C… |
-| 2026-10-26 15:05:07 | [io.github.bracha55555-hue/aimarket](https://github.com/bracha55555-hue/aimarket) | AI Market — Real Agent Supply & Demand | 1.0.0 | Free read-only discovery of authenticated AI services and genuine buyer request… |
-| 2026-10-26 15:06:47 | eu.scorestory/scorestory | ScoreStory | 1.0.0 | NPS, eNPS, CSAT and CES surveys with AI follow-up interviews: create, invite, r… |
-| 2026-10-26 15:07:06 | [io.github.ukenal/x402ai-mcp](https://github.com/ukenal/x402ai-mcp) |  | 0.1.1 | Pay-per-call AI tools (embed, summarize, ask) from x402ai, paid in USDC on Base… |
-| 2026-10-26 15:10:26 | app.conceptviz/diagrams | ConceptViz Scientific Diagrams | 1.0.0 | Create and revise scientific and educational diagrams with ConceptViz. |
-| 2026-10-26 15:10:41 | [com.gufreelancer.lifeverse/public-catalog](https://github.com/lifeversegu/lifeverse-brand-site) | LifeVerse 公开产品目录 | 1.0.0 | 发现、搜索并了解 LifeVerse 已公开且可立即体验的产品。 |
-| 2026-10-26 15:12:40 | io.github.Beer-of-Satoshi-GmbH/shop | Beer of Satoshi Shop | 1.0.0 | Shop Genesis Lager, alcohol-free Zero preorders and gift cards via native Shopi… |
-| 2026-10-26 15:13:43 | [io.github.UnicornGraveyard/slicerbridge](https://github.com/UnicornGraveyard/SlicerBridge) | SlicerBridge | 0.2.0 | Convert a multicolor 3MF project into a ready, checked file for every multicolo… |
-| 2026-10-26 15:13:57 | com.daytrip/mcp | Daytrip | 1.0.0 | Search, quote and book Daytrip private door-to-door car transfers in 130+ count… |
-| 2026-10-26 15:17:38 | com.duoleads.social/social-media-data | Social Media Data API: Posts, Profiles,… | 1.0.0 | Social media posts, profiles, comments, search and mentions across 10 platforms… |
+| 2026-10-26 15:18:54 | ar.indicadores/empresas | Indicadores Argentina | 1.1.0 | Empresas argentinas por CUIT, licitaciones del Estado y series económicas: dóla… |
+| 2026-10-26 15:20:31 | [io.github.anhmtk/objective-trust](https://github.com/anhmtk/agent-price-api) | Objective Trust | 1.0.0 | Ranks MCP endpoints by health and your own outcomes before you pay. |
+| 2026-10-26 15:24:17 | com.toolspad/workspace | ToolsPad | 2026.10.26 | CRM, notes, tasks, forms, calendars and whiteboards in one OAuth-authorized bus… |
+| 2026-10-26 15:25:54 | io.carbonguru/carbonguru | CarbonGuru | 2.28.3 | Carbon footprints for products, carts, receipts and files — with one-step offse… |
+| 2026-10-26 15:26:11 | [io.github.peterod99/nynch](https://github.com/peterod99/nynch-mcp-server) | Nynch | 3.1.0 | Nynch, the AI CRM for consultants and fractionals: contacts, deals and relation… |
+| 2026-10-26 15:28:57 | com.claister/claister | Claister | 1.0.0 | Your accounting firm's tasks, documents and deadlines in AI apps; you confirm c… |
+| 2026-10-26 15:32:09 | io.github.crosstabs/crosstabs |  | 1.5.0 | Local survey workflow and statistical crosstab analysis with auditable evidence |
+| 2026-10-26 15:32:37 | [io.github.369369yz-collab/meter369](https://github.com/369369yz-collab/meter369) | 369 Meter — pay-per-call APIs for agent… | 1.0.0 | Pay-per-call APIs for agents: text analysis, game facts, translation QA, hook s… |
+| 2026-10-26 15:35:04 | com.shareofask/shareofask | ShareOfAsk | 1.0.0 | AI visibility analytics: brand mentions, AI answers, cited sources, metrics and… |
+| 2026-10-26 15:37:34 | [io.github.ichbinmeraj/abb-rws-mcp](https://github.com/ichbinmeraj/abb-rws-mcp) | abb-rws-mcp | 0.1.0 | Read-only MCP server for ABB robot controllers, through abb-rws-daemon on 127.0… |
+| 2026-10-26 15:37:39 | [io.github.XZXZZX-Ai/bilibili-mcp](https://github.com/XZXZZX-Ai/bilibili-mcp) | Bilibili MCP Server | 1.14.5 | Bilibili MCP tool for video metadata, transcripts, subtitles, and comment summa… |
+| 2026-10-26 15:39:25 | io.alphagrowth/data | AlphaGrowth crypto data | 1.0.0 | Free crypto data: project metrics, community growth, funding, chains, fees, DAO… |
+| 2026-10-26 15:43:56 | [io.github.Oleafly/oleafly](https://github.com/Oleafly/Oleafly) | Oleafly | 0.4.8 | Read, edit, search and compile the LaTeX, Typst or Markdown project open in Ole… |
+| 2026-10-26 15:48:50 | [io.github.forever-healthy/ai4l-library](https://github.com/forever-healthy/AI4L-library) | AI4L Library | 0.1.1 | Local Markdown library of the papers an evidence review cites: metadata, abstra… |
+| 2026-10-26 15:52:27 | me.crowdspark.agents/agent-tools | Agent Tools | 1.1.0 | 32 pay-per-call x402 tools: x402 seller audit, invoice intake, OCR, PDF, email,… |
+| 2026-10-26 15:53:24 | [io.github.ej-technologies/jprofiler-mcp](https://github.com/ej-technologies/jprofiler-mcp) | JProfiler | 16.3.0 | Java profiling with AI agent integration. Profile CPU, memory, JDBC, HTTP and m… |
+| 2026-10-26 15:55:00 | [com.flowsimp/flowsimp](https://github.com/abenzfr/flow-simple-draw) | Flowsimp | 1.0.0 | Turn Mermaid or an indented outline into an editable flowchart link. Completely… |
+| 2026-10-26 15:59:12 | garden.pluto/pluto-garden | Pluto Garden | 1.0.0 | Accurate birth charts from NASA data, today's moon and retrogrades, and sourced… |
+| 2026-10-26 15:59:37 | com.ustariffrates/tariff-mcp | USTariffRates | 1.0.0 | US HTS search, origin-specific duty breakdowns, tariff sources and missing-fact… |
+| 2026-10-26 15:59:59 | com.summabooking/summabooking | SummaBooking | 1.0.0 | Find free rooms and book, change or cancel them. Sign in from Claude, ChatGPT o… |
+| 2026-10-26 16:00:04 | sh.rus/mcp | Rus.sh | 1.0.0 | Make, find, pause and track short links and QR codes from your AI assistant. |
+| 2026-10-26 16:00:50 | com.seedviral/seedviral | SeedViral | 1.0.0 | Make short videos with your SeedViral workspace. Quote first and approve before… |
+| 2026-10-26 16:09:26 | [io.github.vschernoff/forge-test-mcp](https://github.com/vschernoff/forge-test-mcp) |  | 0.1.0 | Runs Foundry tests and builds; returns compact, structured failures to AI codin… |
+| 2026-10-26 16:11:31 | com.midasiteurope/civil-nx | MIDAS CIVIL NX tools (MIDAS IT Europe) | 0.7.0 | Build, check and report on MIDAS CIVIL NX bridge models through the MIDAS IT Eu… |
+| 2026-10-26 16:11:47 | com.expiryowl/expiryowl | ExpiryOwl | 1.0.0 | SSL certificate, domain expiry, DNS and uptime monitoring for web agencies, gro… |
+| 2026-10-26 16:12:02 | com.larkella/larkella | Larkella | 1.0.0 | Facts about Larkella, the AI receptionist and assistant for small business. Rea… |
+| 2026-10-26 16:12:46 | com.energydrinkratings/energy-drink-ratings | Energy Drink Ratings | 1.0.0 | Label facts (caffeine, sugar, ingredients) and community ratings for 1,000+ ene… |
+| 2026-10-26 16:15:16 | ai.staffpick/staffpick | StaffPick | 2.0.0 | Hire tested remote staff from anywhere: search, shortlist and send intros from… |
+| 2026-10-26 16:16:10 | biz.online-druck/druckprodukte | Online-Druck.biz (ODB) – Druckprodukte… | 1.0.0 | Druckprodukte suchen, konfigurieren, bepreisen / Search, configure, price print… |
+| 2026-10-26 16:23:43 | [com.clientfoyer/clientfoyer](https://github.com/EricLottman/ClientPortal) | ClientFoyer MCP | 1.0.0 | ClientFoyer MCP server for a freelancer client portal - projects, updates, file… |
+| 2026-10-26 16:26:50 | com.biseyvarmi/events | biseyvarmi.com – Etkinlik Rehberi | 1.0.0 | Upcoming theatre, concerts, stand-up, exhibitions and festivals in Türkiye. Rea… |
+| 2026-10-26 16:26:59 | com.rushordertees/rushordertees | RushOrderTees | 0.40.7 | Custom t-shirts and apparel, printed and shipped in the US on your deadline. |
 
 ## Data source
 
