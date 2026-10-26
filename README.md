@@ -9,38 +9,59 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 13:22 UTC
+## Latest list — 2026-10-26 14:19 UTC
 
-New MCP servers published between 2026-10-26 12:19 UTC and 2026-10-26 13:22 UTC.
+New MCP servers published between 2026-10-26 13:22 UTC and 2026-10-26 14:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-26T13-22-00-237572Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-26T14-19-20-783683Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-26 12:22:12 | [io.github.table-bro/table-bro](https://github.com/table-bro/table-bro) | Table, Bro | 1.2.0 | Pixel-perfect Material (M3) data tables for your app in one prompt: Claude Code… |
-| 2026-10-26 12:24:15 | [io.github.ProAnima/uvcs-mcp](https://github.com/ProAnima/unity-version-control-mcp) | UVCS MCP | 1.4.1 | Safe Plastic SCM / Unity Version Control MCP: history, review, merge preview, a… |
-| 2026-10-26 12:28:42 | net.ashare/ashare | ashare.net | 1.0.0 | Share HTML and Markdown from AI agents. Readers comment, the agent fixes the do… |
-| 2026-10-26 12:31:48 | [io.github.UnbiasedAlpha/aurastream-mcp](https://github.com/UnbiasedAlpha/aurastream-mcp) | AuraStream | 0.1.6 | Historical market, macro, positioning and alt data from 45 sources through one… |
-| 2026-10-26 12:34:07 | [io.github.deliverd-dev/deliverd-screen](https://github.com/deliverd-dev/deliverd-sdk) | Deliverd Screen | 0.2.0 | Find and redact personal data and secrets in text before it reaches a model. Lo… |
-| 2026-10-26 12:35:48 | [io.github.kurosaki-yuto/kotsukotsu](https://github.com/kurosaki-yuto/kotsukotsu) | Kotsukotsu | 1.0.0 | Goal-based task manager for humans and AI. Read goals, add subtasks, report res… |
-| 2026-10-26 12:39:47 | [link.nepse/nepse](https://github.com/summonshr/nepse.link) | nepse.link | 1.1.0 | Nepal Stock Exchange data: prices, company filings, signals, broker flow, IPOs,… |
-| 2026-10-26 12:40:26 | org.safecreative/platform | Safe Creative Platform | 1.0.0 | Register events with a qualified timestamp and request certifications anyone ca… |
-| 2026-10-26 12:51:53 | [io.github.maskchanel14-source/po-pilot-mcp](https://github.com/maskchanel14-source/po-pilot-mcp) |  | 1.0.0 | Post-Stocky Shopify replenishment, MOQ Purchase Order generator, and 3-way invo… |
-| 2026-10-26 12:55:25 | fi.cleave/swap | Cleave for Agents: token swaps, cross-c… | 1.0.0 | Swap, bridge and get gas on 6 EVM chains. Each plan states its outcome before y… |
-| 2026-10-26 12:56:50 | io.doply/doply | Doply | 1.0.0 | Check your Google Play closed test on Doply: progress, devices, crashes, screen… |
-| 2026-10-26 12:59:29 | jp.gakudosagashi/gakudosagashi | 学童さがし (Gakudo Sagashi) | 1.0.0 | Compare private after-school care (gakudo) in all 23 Tokyo wards, from official… |
-| 2026-10-26 13:06:25 | io.github.heathermacavelia-cell/ai-agent-index | The AI Agent Index | 1.0.0 | Search AI agents and agencies: pricing, MCP support, integrations, categories a… |
-| 2026-10-26 13:08:01 | io.github.kamilkaczmareksolutions/polish-law-mcp | Polish Law MCP | 0.1.0 | Polish statutes (Dziennik Ustaw, ELI) and court rulings (SAOS) for AI agents. R… |
-| 2026-10-26 13:08:02 | io.github.kamilkaczmareksolutions/polish-public-registers | Polish Public Registers | 0.1.0 | Official Polish registers for agents: EU-funded tenders, EV charging, cars, per… |
-| 2026-10-26 13:08:11 | dev.workers.mike-tusa.postcodecheck/postcodecheck | PostCode Check | 0.1.0 | Validate and normalize postal codes offline for 252 countries and territories.… |
-| 2026-10-26 13:11:27 | net.apppage/app-data | AppPage.net - app websites & store data | 1.3.0 | App websites with privacy pages and app-ads.txt, plus Google Play & App Store a… |
-| 2026-10-26 13:14:30 | [com.mambabuilt/mcp-lookalike-company-finder](https://github.com/mambalabsdev/mcp-lookalike-company-finder) |  | 1.0.0 | Companies similar to seed domains, ranked by a 0 to 100 similarity score with e… |
-| 2026-10-26 13:14:32 | [com.mambabuilt/mcp-public-feature-board-roadmap-monitor](https://github.com/mambalabsdev/mcp-public-feature-board-roadmap-monitor) |  | 1.0.0 | A company's public feature board: top requests, votes, status, integration asks. |
-| 2026-10-26 13:14:34 | [com.mambabuilt/mcp-vc-accelerator-portfolio-list-builder](https://github.com/mambalabsdev/mcp-vc-accelerator-portfolio-list-builder) |  | 1.0.0 | Portfolio company lists from Y Combinator, a16z, Sequoia, Accel, and any VC por… |
-| 2026-10-26 13:14:38 | [com.mambabuilt/mcp-podcast-guest-host-finder](https://github.com/mambalabsdev/mcp-podcast-guest-host-finder) |  | 1.0.0 | Podcasts on a topic with host, feed owner email, cadence, recent guests, and gu… |
-| 2026-10-26 13:14:40 | [com.mambabuilt/mcp-newsletter-sponsor-tracker](https://github.com/mambalabsdev/mcp-newsletter-sponsor-tracker) |  | 1.0.0 | Who sponsors a newsletter, or which newsletters a brand sponsors, from public a… |
-| 2026-10-26 13:20:30 | com.nymwell/mcp | Nymwell | 1.0.0 | Search and buy domain names: live prices, buy links, renewals, transfers and ap… |
-| 2026-10-26 13:21:35 | [io.github.jordantete/verychic-mcp](https://github.com/jordantete/verychic-mcp) | VeryChic Hotel Deals | 0.4.1 | Unofficial read-only MCP server for VeryChic hotel offers |
+| 2026-10-26 13:24:56 | com.arkm/mcp | Arkham | 1.0.0 | Arkham blockchain intelligence: entities, labels, balances, transfers, tokens a… |
+| 2026-10-26 13:27:30 | com.growthmethod/growth-method | Growth Method | 1.0.0 | Plan, launch and measure growth campaigns with your team, using the marketing t… |
+| 2026-10-26 13:28:43 | app.mycorr/mycorr | Mycorr | 1.0.0 | Shared, versioned tables with units, links and SQL. Agents read what your data… |
+| 2026-10-26 13:28:52 | eu.autosignal/autosignal | AutoSignal | 0.1.0 | Czech and Central European used and new car market prices, valuations and below… |
+| 2026-10-26 13:31:31 | [io.github.ZaguanLabs/atlas-scout](https://github.com/ZaguanLabs/atlas-scout-mcp) | Bit Lantern | 1.0.0-preview.30 | Local, read-only structural code navigation and bounded dependency analysis for… |
+| 2026-10-26 13:32:31 | [com.thefaceanalysis/face-analysis](https://github.com/The-Face-Analysis/thefaceanalysis-mcp) | TheFaceAnalysis | 0.1.0 | Face shape rules and a 102-face open measurement dataset. Read-only, no photos. |
+| 2026-10-26 13:32:32 | [com.fashiolabs/fashio](https://github.com/fashiolabs/fashio-mcp) | Fashio AI | 0.1.1 | On-model and ghost-mannequin fashion photos from a product photo. Spends credit… |
+| 2026-10-26 13:32:34 | [io.dyscalculia/dyscalculia](https://github.com/Dyscalculia-io/dyscalculia-mcp) | Dyscalculia.io | 0.1.0 | Open number-sense practice data and game catalogue for dyscalculia. Read-only. |
+| 2026-10-26 13:32:35 | [com.dyslexiasteps/dyslexia-steps](https://github.com/Dyslexia-Steps/dyslexiasteps-mcp) | Dyslexia Steps | 0.1.0 | Phonics word lists and reading-game catalogue for dyslexia support. Read-only. |
+| 2026-10-26 13:34:15 | [io.github.KKazuhaK/anteater-mcp](https://github.com/KKazuhaK/Anteater-MCP) | Anteater MCP | 1.0.0-beta.2 | UCI course search and registration planning: live sections, grades, prerequisit… |
+| 2026-10-26 13:34:45 | fyi.ascension/leaderboard | Ascension: AI app leaderboard | 0.1.0 | Daily ranks of consumer AI apps across the App Store and Google Play. Read-only… |
+| 2026-10-26 13:37:25 | ai.yentaknows/directory | Yenta Directory | 0.2.0 | Restaurants and bars in 10 cities: hours, menus, dietary tags, events and booki… |
+| 2026-10-26 13:38:17 | [io.github.tinyprocessing/hirelog](https://github.com/tinyprocessing/hirelog) | Hirelog | 1.0.0 | Shared, evidence-backed hiring facts for job-search agents: processes, ATS quir… |
+| 2026-10-26 13:38:39 | net.pinggy.free.wpgcs-38-15-34-250/registry-verifier-target-a | Registry Verifier Target A | 1.0.0 | MCP compatibility and transport verification server. |
+| 2026-10-26 13:38:41 | net.pinggy.free.wpgcs-38-15-34-250/registry-verifier-target-b | Registry Verifier Target B | 1.0.0 | MCP compatibility and transport verification server. |
+| 2026-10-26 13:38:46 | media.drop/mcp | drop.media | 1.0.0 | Host files and AI-generated images on drop.media and get public or expiring pri… |
+| 2026-10-26 13:40:34 | org.georgiahomeroom/georgia-homeroom | Georgia Homeroom | 0.1.0 | Georgia K-12 standards, Milestones blueprints, and achievement levels for educa… |
+| 2026-10-26 13:40:52 | es.dipromotions/catalogo | Dipromotions — catálogo y presupuestos | 1.0.0 | Catálogo de artículos promocionales personalizados, precios orientativos y pres… |
+| 2026-10-26 13:42:26 | app.cleartable/cleartable | Cleartable | 1.0.0 | Add, read and plan tasks in Cleartable, a calm AI task manager with calendar an… |
+| 2026-10-26 13:43:12 | fyi.apparent/apparent | Apparent | 1.0.0 | Mobile app analytics in plain words: live activity, reviews and sales, ads, and… |
+| 2026-10-26 13:44:15 | us.agentweb/agentweb | AgentWeb (agentweb.us) | 0.9.0 | The action index for the web: real sites as callable, verified actions for AI a… |
+| 2026-10-26 13:45:05 | ai.shippp/mcp | Shippp | 0.4.0 | A connected canvas for the builders of the next era. |
+| 2026-10-26 13:45:12 | com.katanascreener/katana | Katana — Japan Stock Screener | 1.0.0 | Screen every listed company in Japan by financials, custom formulas, and annual… |
+| 2026-10-26 13:47:20 | [io.github.rowih/rowih](https://github.com/rowih/rowih) | Rowih | 1.1.2 | Read, check and write Rowih, a language for AI agents whose moves state force,… |
+| 2026-10-26 13:49:42 | [io.untax/untax](https://github.com/mooshee/untax-mcp) | Untax | 0.4.2 | Source-backed property assessment research and draft assessment comparisons for… |
+| 2026-10-26 13:49:43 | [io.gisdb/gisdb](https://github.com/mooshee/gisdb-mcp) | GISDB | 0.4.2 | Source-backed county property records, owner-name portfolios and three Hamilton… |
+| 2026-10-26 13:49:43 | [com.govgazette/govgazette](https://github.com/mooshee/govgazette-mcp) | GovGazette | 1.3.2 | Find federal contracting opportunities, research awards and vendors, and review… |
+| 2026-10-26 13:51:07 | [ai.qompass/theodolite](https://github.com/qompassai/theodolite) | Theodolite | 0.1.0 | Headless, deterministic LSP bridge: pinned language-server sessions as bounded… |
+| 2026-10-26 13:52:16 | com.lorekeeper/lorekeeper | LoreKeeper | 1.0.0 | Ask your own D&D and TTRPG campaign: read-only access to your Lore Library and… |
+| 2026-10-26 13:52:33 | life.lhr.e80b81ce69cb44/registry-verifier-target-c | Registry Verifier Target A | 1.0.0 | MCP compatibility and transport verification server. |
+| 2026-10-26 13:52:34 | life.lhr.e80b81ce69cb44/registry-verifier-target-d | Registry Verifier Target B | 1.0.0 | MCP compatibility and transport verification server. |
+| 2026-10-26 13:54:14 | [io.github.LupusMalusDeviant/whiskers](https://github.com/LupusMalusDeviant/Whiskers) | Whiskers | 0.15.0 | Governed Docker and Kubernetes operations for AI agents: scoped keys, guardrail… |
+| 2026-10-26 13:58:45 | com.duelpilot/duelpilot | Duelpilot | 2.0.0 | A/B testing on autopilot, run by your own AI agent: find ideas, design variants… |
+| 2026-10-26 13:58:51 | br.com.blucher/catalogo | Catálogo Blucher | 1.0.0 | Livros da Editora Blucher: busca, edição, preço, ementa / Blucher books: search… |
+| 2026-10-26 14:00:52 | [com.olbrain/alchemist](https://github.com/Olbrain/alchemist-plugin) | Olbrain Alchemist | 0.8.3 | Build, test and publish Olbrain AI agents from Claude Code, Codex or Claude.ai. |
+| 2026-10-26 14:01:10 | [io.github.Maxim-Mazurok/teams-api](https://github.com/Maxim-Mazurok/teams-api) | Microsoft Teams API | 1.10.1 | AI-native Microsoft Teams integration — read chats, send messages, search people |
+| 2026-10-26 14:01:31 | io.github.OSSNokalva/asn1-mcp |  | 1.0.0 | Compiles ASN.1 schema definitions into executable source code like Python and R… |
+| 2026-10-26 14:02:27 | [io.github.kshivam1177/androidmcp-framework](https://github.com/kshivam1177/android-mcp-framwork) | AndroidMCP Framework | 0.1.6 | MCP server and CLI for Android development and change-aware Android and Flutter… |
+| 2026-10-26 14:03:35 | co.esimcompare/travel-esim-prices | eSIMCompare: travel eSIM prices | 1.1.0 | Cheapest travel eSIM plans for a trip from every provider eSIMCompare tracks, p… |
+| 2026-10-26 14:05:16 | co.ostorlab/mcp | Ostorlab | 1.0.0 | Query and act on your Ostorlab scans, vulnerabilities, tickets and assets. |
+| 2026-10-26 14:10:40 | io.github.jonatanvazquez/daily-outfits | DAIly outfits | 0.1.0 | What to wear today by city weather and travel packing lists by destination. Pub… |
+| 2026-10-26 14:12:58 | [com.podbenchmark/podbenchmark](https://github.com/FilipLjubic/podbenchmark-cli) | POD Benchmark | 1.0.0 | Compare print-on-demand supplier prices, shipping and delivered totals for the… |
+| 2026-10-26 14:13:38 | [io.github.Keithhk/keith-apis-mcp](https://github.com/Keithhk/keith-apis-mcp) | Keith APIs: web to Markdown, OG images,… | 0.1.1 | Web page to Markdown, link previews, OG images, job and resume parsing, Elo/Gli… |
+| 2026-10-26 14:14:26 | [io.github.neomjs/neural-link](https://github.com/neomjs/neo-agent-brain) | Neo.mjs Neural Link | 1.0.0 | Live runtime inspection, component tree, VDOM, state, and hot-patching bridge f… |
+| 2026-10-26 14:17:10 | ua.com.semeropost/semero | SEMERO Express Delivery & Customs | 1.0.0 | Express delivery to/from Ukraine via DHL, FedEx & others: price estimates and c… |
 
 ## Data source
 

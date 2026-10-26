@@ -1,0 +1,46 @@
+created_at,server,title,version,repository,transports,description
+2026-10-26T13:24:56.821691Z,com.arkm/mcp,Arkham,1.0.0,,streamable-http; streamable-http,"Arkham blockchain intelligence: entities, labels, balances, transfers, tokens and Polymarket."
+2026-10-26T13:27:30.455765Z,com.growthmethod/growth-method,Growth Method,1.0.0,,streamable-http,"Plan, launch and measure growth campaigns with your team, using the marketing tools you connect."
+2026-10-26T13:28:43.157047Z,app.mycorr/mycorr,Mycorr,1.0.0,,streamable-http,"Shared, versioned tables with units, links and SQL. Agents read what your data means."
+2026-10-26T13:28:52.855507Z,eu.autosignal/autosignal,AutoSignal,0.1.0,,streamable-http,"Czech and Central European used and new car market prices, valuations and below-market deals."
+2026-10-26T13:31:31.039423Z,io.github.ZaguanLabs/atlas-scout,Bit Lantern,1.0.0-preview.30,https://github.com/ZaguanLabs/atlas-scout-mcp,,"Local, read-only structural code navigation and bounded dependency analysis for source repositories."
+2026-10-26T13:32:31.737994Z,com.thefaceanalysis/face-analysis,TheFaceAnalysis,0.1.0,https://github.com/The-Face-Analysis/thefaceanalysis-mcp,streamable-http,"Face shape rules and a 102-face open measurement dataset. Read-only, no photos."
+2026-10-26T13:32:32.998995Z,com.fashiolabs/fashio,Fashio AI,0.1.1,https://github.com/fashiolabs/fashio-mcp,streamable-http,On-model and ghost-mannequin fashion photos from a product photo. Spends credits; needs an API key.
+2026-10-26T13:32:34.373159Z,io.dyscalculia/dyscalculia,Dyscalculia.io,0.1.0,https://github.com/Dyscalculia-io/dyscalculia-mcp,streamable-http,Open number-sense practice data and game catalogue for dyscalculia. Read-only.
+2026-10-26T13:32:35.575003Z,com.dyslexiasteps/dyslexia-steps,Dyslexia Steps,0.1.0,https://github.com/Dyslexia-Steps/dyslexiasteps-mcp,streamable-http,Phonics word lists and reading-game catalogue for dyslexia support. Read-only.
+2026-10-26T13:34:15.153024Z,io.github.KKazuhaK/anteater-mcp,Anteater MCP,1.0.0-beta.2,https://github.com/KKazuhaK/Anteater-MCP,,"UCI course search and registration planning: live sections, grades, prerequisites, conflicts."
+2026-10-26T13:34:45.082562Z,fyi.ascension/leaderboard,Ascension: AI app leaderboard,0.1.0,,streamable-http,"Daily ranks of consumer AI apps across the App Store and Google Play. Read-only, ranks only."
+2026-10-26T13:37:25.129131Z,ai.yentaknows/directory,Yenta Directory,0.2.0,,streamable-http,"Restaurants and bars in 10 cities: hours, menus, dietary tags, events and booking; destinations."
+2026-10-26T13:38:17.918323Z,io.github.tinyprocessing/hirelog,Hirelog,1.0.0,https://github.com/tinyprocessing/hirelog,streamable-http,"Shared, evidence-backed hiring facts for job-search agents: processes, ATS quirks, red flags."
+2026-10-26T13:38:39.689621Z,net.pinggy.free.wpgcs-38-15-34-250/registry-verifier-target-a,Registry Verifier Target A,1.0.0,,streamable-http,MCP compatibility and transport verification server.
+2026-10-26T13:38:41.363135Z,net.pinggy.free.wpgcs-38-15-34-250/registry-verifier-target-b,Registry Verifier Target B,1.0.0,,streamable-http,MCP compatibility and transport verification server.
+2026-10-26T13:38:46.703074Z,media.drop/mcp,drop.media,1.0.0,,streamable-http,Host files and AI-generated images on drop.media and get public or expiring private links.
+2026-10-26T13:40:34.875403Z,org.georgiahomeroom/georgia-homeroom,Georgia Homeroom,0.1.0,,streamable-http,"Georgia K-12 standards, Milestones blueprints, and achievement levels for educators. Independent."
+2026-10-26T13:40:52.580671Z,es.dipromotions/catalogo,Dipromotions — catálogo y presupuestos,1.0.0,,streamable-http,"Catálogo de artículos promocionales personalizados, precios orientativos y presupuestos."
+2026-10-26T13:42:26.407601Z,app.cleartable/cleartable,Cleartable,1.0.0,,streamable-http,"Add, read and plan tasks in Cleartable, a calm AI task manager with calendar and habits."
+2026-10-26T13:43:12.977613Z,fyi.apparent/apparent,Apparent,1.0.0,,streamable-http,"Mobile app analytics in plain words: live activity, reviews and sales, ads, and why a number moved."
+2026-10-26T13:44:15.25683Z,us.agentweb/agentweb,AgentWeb (agentweb.us),0.9.0,,streamable-http,"The action index for the web: real sites as callable, verified actions for AI agents."
+2026-10-26T13:45:05.470247Z,ai.shippp/mcp,Shippp,0.4.0,,streamable-http,A connected canvas for the builders of the next era.
+2026-10-26T13:45:12.852488Z,com.katanascreener/katana,Katana — Japan Stock Screener,1.0.0,,streamable-http,"Screen every listed company in Japan by financials, custom formulas, and annual report text."
+2026-10-26T13:47:20.345149Z,io.github.rowih/rowih,Rowih,1.1.2,https://github.com/rowih/rowih,,"Read, check and write Rowih, a language for AI agents whose moves state force, basis and authority"
+2026-10-26T13:49:42.06077Z,io.untax/untax,Untax,0.4.2,https://github.com/mooshee/untax-mcp,streamable-http,Source-backed property assessment research and draft assessment comparisons for supported pilot j...
+2026-10-26T13:49:43.024535Z,io.gisdb/gisdb,GISDB,0.4.2,https://github.com/mooshee/gisdb-mcp,streamable-http,"Source-backed county property records, owner-name portfolios and three Hamilton County lead packa..."
+2026-10-26T13:49:43.6117Z,com.govgazette/govgazette,GovGazette,1.3.2,https://github.com/mooshee/govgazette-mcp,streamable-http,"Find federal contracting opportunities, research awards and vendors, and review exclusion evidence."
+2026-10-26T13:51:07.129156Z,ai.qompass/theodolite,Theodolite,0.1.0,https://github.com/qompassai/theodolite,,"Headless, deterministic LSP bridge: pinned language-server sessions as bounded MCP tools."
+2026-10-26T13:52:16.323783Z,com.lorekeeper/lorekeeper,LoreKeeper,1.0.0,,streamable-http,Ask your own D&D and TTRPG campaign: read-only access to your Lore Library and characters.
+2026-10-26T13:52:33.599433Z,life.lhr.e80b81ce69cb44/registry-verifier-target-c,Registry Verifier Target A,1.0.0,,streamable-http,MCP compatibility and transport verification server.
+2026-10-26T13:52:34.774491Z,life.lhr.e80b81ce69cb44/registry-verifier-target-d,Registry Verifier Target B,1.0.0,,streamable-http,MCP compatibility and transport verification server.
+2026-10-26T13:54:14.179812Z,io.github.LupusMalusDeviant/whiskers,Whiskers,0.15.0,https://github.com/LupusMalusDeviant/Whiskers,,"Governed Docker and Kubernetes operations for AI agents: scoped keys, guardrails, human approvals."
+2026-10-26T13:58:45.335041Z,com.duelpilot/duelpilot,Duelpilot,2.0.0,,streamable-http,"A/B testing on autopilot, run by your own AI agent: find ideas, design variants, read results."
+2026-10-26T13:58:51.321641Z,br.com.blucher/catalogo,Catálogo Blucher,1.0.0,,streamable-http,"Livros da Editora Blucher: busca, edição, preço, ementa / Blucher books: search, prices, syllabi"
+2026-10-26T14:00:52.647563Z,com.olbrain/alchemist,Olbrain Alchemist,0.8.3,https://github.com/Olbrain/alchemist-plugin,streamable-http,"Build, test and publish Olbrain AI agents from Claude Code, Codex or Claude.ai."
+2026-10-26T14:01:10.824962Z,io.github.Maxim-Mazurok/teams-api,Microsoft Teams API,1.10.1,https://github.com/Maxim-Mazurok/teams-api,,"AI-native Microsoft Teams integration — read chats, send messages, search people"
+2026-10-26T14:01:31.661791Z,io.github.OSSNokalva/asn1-mcp,,1.0.0,,streamable-http,Compiles ASN.1 schema definitions into executable source code like Python and Rust.
+2026-10-26T14:02:27.877104Z,io.github.kshivam1177/androidmcp-framework,AndroidMCP Framework,0.1.6,https://github.com/kshivam1177/android-mcp-framwork,,MCP server and CLI for Android development and change-aware Android and Flutter testing workflows.
+2026-10-26T14:03:35.433395Z,co.esimcompare/travel-esim-prices,eSIMCompare: travel eSIM prices,1.1.0,,streamable-http,"Cheapest travel eSIM plans for a trip from every provider eSIMCompare tracks, plus a price index."
+2026-10-26T14:05:16.581078Z,co.ostorlab/mcp,Ostorlab,1.0.0,,streamable-http,"Query and act on your Ostorlab scans, vulnerabilities, tickets and assets."
+2026-10-26T14:10:40.075379Z,io.github.jonatanvazquez/daily-outfits,DAIly outfits,0.1.0,,streamable-http,"What to wear today by city weather and travel packing lists by destination. Public, read-only."
+2026-10-26T14:12:58.614046Z,com.podbenchmark/podbenchmark,POD Benchmark,1.0.0,https://github.com/FilipLjubic/podbenchmark-cli,streamable-http,"Compare print-on-demand supplier prices, shipping and delivered totals for the same product."
+2026-10-26T14:13:38.990915Z,io.github.Keithhk/keith-apis-mcp,"Keith APIs: web to Markdown, OG images, job & resume parsing, ratings",0.1.1,https://github.com/Keithhk/keith-apis-mcp,,"Web page to Markdown, link previews, OG images, job and resume parsing, Elo/Glicko-2 ratings"
+2026-10-26T14:14:26.11387Z,io.github.neomjs/neural-link,Neo.mjs Neural Link,1.0.0,https://github.com/neomjs/neo-agent-brain,,"Live runtime inspection, component tree, VDOM, state, and hot-patching bridge for Neo.mjs apps."
+2026-10-26T14:17:10.864745Z,ua.com.semeropost/semero,SEMERO Express Delivery & Customs,1.0.0,,streamable-http,"Express delivery to/from Ukraine via DHL, FedEx & others: price estimates and customs guidance"
