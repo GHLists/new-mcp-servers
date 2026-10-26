@@ -9,29 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 02:22 UTC
+## Latest list — 2026-10-26 03:19 UTC
 
-New MCP servers published between 2026-10-26 01:20 UTC and 2026-10-26 02:22 UTC.
+New MCP servers published between 2026-10-26 02:22 UTC and 2026-10-26 03:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-26T02-22-37-301382Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-26T03-19-28-863354Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-26 01:28:32 | city.atalaya/riesgos |  | 1.0.0 | Riesgos en vivo en Colombia: lluvia, inundaciones, incendios, sismos y reportes… |
-| 2026-10-26 01:29:38 | [io.github.odaiameera/scamgate](https://github.com/odaiameera/scamgate) | scamgate | 0.3.3 | Offline scam check for agents: verify links and payments before acting (allow,… |
-| 2026-10-26 01:30:59 | [net.bigfloppy.starproof/starproof](https://github.com/wminno/starproof) | StarProof | 1.0.0 | GitHub repo authenticity scoring: stars-vs-forks, star velocity, astroturf fing… |
-| 2026-10-26 01:47:19 | kr.co.wooktech/led-sign-quote | WOOKANG TECH LED sign quote | 1.0.0 | LED display (LED 전광판) price range, company facts, Q&A and call-back request — K… |
-| 2026-10-26 01:49:50 | [io.github.suxinsk/reset-beer-mcp](https://github.com/suxinsk/reset-beer-mcp) | Reset Beer | 1.0.1 | AI quota reset tracking across 15+ products. Query reset signals and price chan… |
-| 2026-10-26 01:51:37 | com.firmsapi/mcp | FIRMSapi | 1.0.0 | Look up, search and validate U.S. CBP FIRMS facility codes for piers, CFS, ware… |
-| 2026-10-26 01:51:49 | dev.pages.canmyaiuse/mcp |  | 1.0.0 | Find live MCP servers for any app — search 49k+ endpoints by need, auth, and st… |
-| 2026-10-26 02:04:06 | [io.github.entire-vc/evc-mesh-mcp](https://github.com/entire-vc/evc-mesh-mcp) |  | 0.1.6 | Tasks, comments, shared memory and handoffs for teams of people and AI agents,… |
-| 2026-10-26 02:08:49 | com.kairosmeeting/kairos | Kairos | 1.0.0 | Find a time for a group meeting: a week people mark their free hours on, one li… |
-| 2026-10-26 02:11:41 | com.ithy/research-library | Ithy Research Library | 1.0.0 | Search public Ithy explanations and read relevant passages with article links,… |
-| 2026-10-26 02:11:49 | io.nteli/quoting | Nteli Quoting | 1.0.0 | AI-native product and pricing configuration (CPQ) for manufacturers, every rule… |
-| 2026-10-26 02:15:56 | [com.scriptmasterlabs/ghostkey](https://gitlab.com/timothy.walton45/sml-portfolio) | GhostKey — Route Paid APIs with x402 | 1.1.1 | Find paid APIs, check access policy and price, and route x402 requests. No auto… |
-| 2026-10-26 02:15:57 | [com.scriptmasterlabs/squeezeos](https://gitlab.com/script-master-labs-llc-group/squeezeos-api) | SCRIPTMASTERLABS — SqueezeOS MCP | 1.1.1 | SqueezeOS MCP for live machine discovery and x402-paid USDC APIs on Base. |
-| 2026-10-26 02:15:58 | [com.scriptmasterlabs/verdict](https://gitlab.com/timothy.walton45/sml-portfolio) | SCRIPTMASTERLABS — Verdict Protocol | 1.0.0 | Verdict Protocol MCP: frozen research capsules, hash verification, and five-jur… |
-| 2026-10-26 02:15:59 | [com.scriptmasterlabs/x402-pay](https://gitlab.com/timothy.walton45/sml-portfolio) | x402 Pay — USDC API Payment Helper | 1.0.1 | Pay for APIs with USDC. Read-only x402 payment discovery, verification, evidenc… |
+| 2026-10-26 02:23:48 | [ai.oddessentials/agent-guild](https://github.com/oddessentials/agent-guild) | Agent Guild | 1.11.0 | See and steer Claude Code, Codex, Antigravity, Grok, Docker Agent and shell ses… |
+| 2026-10-26 02:26:35 | app.brightlyai/brightly | Brightly | 1.0.0 | Run your Brightly account from your AI agent: leads, conversations, appointment… |
+| 2026-10-26 02:27:05 | com.getintentcast/intentcast | IntentCast | 1.0.0 | Find live Reddit, Quora and forum threads your video, page or topic answers, wi… |
+| 2026-10-26 02:39:51 | cc.opendocs/opendocs | OpenDocs.cc | 1.0.0 | Publish Markdown as shareable documents, export PDF and Word, share, and send f… |
+| 2026-10-26 02:40:36 | [io.github.brittbart/verumsignal-mcp](https://github.com/brittbart/verumsignal-mcp) | Verum Signal | 0.2.0 | Political debate claims from Verum Signal: who said each one and how it was rat… |
+| 2026-10-26 02:49:19 | [io.github.novasolver/novasolver-studio](https://github.com/novasolver/novasolver-studio) | NovaSolver Studio | 0.2.0 | Free desktop CAE: import CAD/STL, solve FEM structural/thermal and CFD, verify… |
+| 2026-10-26 02:50:07 | com.flaghand/flaghand | Flaghand | 0.1.0 | Agents draft X and LinkedIn posts. Only your passkey approves. Flaghand posts e… |
+| 2026-10-26 02:54:48 | ai.migurei.pw/parallel-world | Parallel World | 1.1.0 | Check which AI bots a site's robots.txt allows; read-only facts about Parallel… |
+| 2026-10-26 02:55:55 | [io.github.gowtham0992/link](https://github.com/gowtham0992/link) |  | 5.0.0 | Local personal memory for agents as MCP tools — remember, recall, search, conte… |
+| 2026-10-26 02:57:23 | io.github.manhliemcn4euwlu-source/llm-red-team-scanner | LLM Red-Team Scanner | 1.1.0 | LLM agent security review: live injection/jailbreak probes plus a static audit… |
+| 2026-10-26 03:00:11 | com.nicevois/rvc-training | NiceVois | 1.3.0 | Free stem, vocal, noise, reverb and format tools. Train RVC voices; convert voc… |
+| 2026-10-26 03:03:31 | com.adcreator-ai/generate-ad-headlines | AdCreator AI: Ad Creative Maker | 1.1.0 | Turn a product photo into a finished ad image with copy, or get 10 ad headlines… |
+| 2026-10-26 03:09:34 | [io.github.atifjubaer/fastrmemory](https://github.com/atifjubaer/fastrmemory) | FastrMemory | 0.6.0 | Local-first cognitive agent memory with bi-temporal SQLite, replayable history,… |
+| 2026-10-26 03:10:27 | [io.github.dudman1/mercury402-mcp](https://github.com/dudman1/mercury402) | Mercury402: Treasury/FRED financial dat… | 0.1.4 | Treasury/FRED financial data over x402: pay-per-call US yields, macro and forex… |
+| 2026-10-26 03:10:47 | [io.github.daniellemeng1022/allergen-detector](https://github.com/daniellemeng1022/allergen-mcp) | Allergen Detector | 0.1.0 | Checks food and cosmetic ingredients against each household member's allergies,… |
+| 2026-10-26 03:14:27 | [io.github.fangchenghao/latex-look](https://github.com/fangchenghao/latex-look) | LaTeX Look | 0.4.0 | Compile a LaTeX page, see it rendered, map a PDF point back to source, and diff… |
+| 2026-10-26 03:18:28 | [io.github.thestockgoatballs/clipspeed-mcp](https://github.com/thestockgoatballs/clipspeed-mcp) |  | 1.0.3 | AI video, images, AI influencers, character swaps and clipping from Claude or C… |
 
 ## Data source
 

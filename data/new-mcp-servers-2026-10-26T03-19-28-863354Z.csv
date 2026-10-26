@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-26T02:23:48.44372Z,ai.oddessentials/agent-guild,Agent Guild,1.11.0,https://github.com/oddessentials/agent-guild,,"See and steer Claude Code, Codex, Antigravity, Grok, Docker Agent and shell sessions in Agent Guild."
+2026-10-26T02:26:35.12158Z,app.brightlyai/brightly,Brightly,1.0.0,,streamable-http,"Run your Brightly account from your AI agent: leads, conversations, appointments, sequences."
+2026-10-26T02:27:05.869491Z,com.getintentcast/intentcast,IntentCast,1.0.0,,streamable-http,"Find live Reddit, Quora and forum threads your video, page or topic answers, with draft replies."
+2026-10-26T02:39:51.976769Z,cc.opendocs/opendocs,OpenDocs.cc,1.0.0,,streamable-http,"Publish Markdown as shareable documents, export PDF and Word, share, and send for e-signature."
+2026-10-26T02:40:36.694439Z,io.github.brittbart/verumsignal-mcp,Verum Signal,0.2.0,https://github.com/brittbart/verumsignal-mcp,,Political debate claims from Verum Signal: who said each one and how it was rated.
+2026-10-26T02:49:19.179955Z,io.github.novasolver/novasolver-studio,NovaSolver Studio,0.2.0,https://github.com/novasolver/novasolver-studio,,"Free desktop CAE: import CAD/STL, solve FEM structural/thermal and CFD, verify the answer."
+2026-10-26T02:50:07.450834Z,com.flaghand/flaghand,Flaghand,0.1.0,,streamable-http,Agents draft X and LinkedIn posts. Only your passkey approves. Flaghand posts exactly that.
+2026-10-26T02:54:48.344937Z,ai.migurei.pw/parallel-world,Parallel World,1.1.0,,streamable-http,Check which AI bots a site's robots.txt allows; read-only facts about Parallel World
+2026-10-26T02:55:55.828878Z,io.github.gowtham0992/link,,5.0.0,https://github.com/gowtham0992/link,,"Local personal memory for agents as MCP tools — remember, recall, search, context, graph traversal."
+2026-10-26T02:57:23.670214Z,io.github.manhliemcn4euwlu-source/llm-red-team-scanner,LLM Red-Team Scanner,1.1.0,,streamable-http,LLM agent security review: live injection/jailbreak probes plus a static audit of missing guardrails
+2026-10-26T03:00:11.629306Z,com.nicevois/rvc-training,NiceVois,1.3.0,,streamable-http,"Free stem, vocal, noise, reverb and format tools. Train RVC voices; convert vocals and whole songs."
+2026-10-26T03:03:31.525364Z,com.adcreator-ai/generate-ad-headlines,AdCreator AI: Ad Creative Maker,1.1.0,,streamable-http,"Turn a product photo into a finished ad image with copy, or get 10 ad headlines. Free, no signup."
+2026-10-26T03:09:34.335621Z,io.github.atifjubaer/fastrmemory,FastrMemory,0.6.0,https://github.com/atifjubaer/fastrmemory,,"Local-first cognitive agent memory with bi-temporal SQLite, replayable history, hybrid retrieval."
+2026-10-26T03:10:27.208559Z,io.github.dudman1/mercury402-mcp,Mercury402: Treasury/FRED financial data over x402,0.1.4,https://github.com/dudman1/mercury402,streamable-http,"Treasury/FRED financial data over x402: pay-per-call US yields, macro and forex in USDC on Base"
+2026-10-26T03:10:47.125117Z,io.github.daniellemeng1022/allergen-detector,Allergen Detector,0.1.0,https://github.com/daniellemeng1022/allergen-mcp,streamable-http,"Checks food and cosmetic ingredients against each household member's allergies, incl. hidden names."
+2026-10-26T03:14:27.05806Z,io.github.fangchenghao/latex-look,LaTeX Look,0.4.0,https://github.com/fangchenghao/latex-look,,"Compile a LaTeX page, see it rendered, map a PDF point back to source, and diff builds."
+2026-10-26T03:18:28.431018Z,io.github.thestockgoatballs/clipspeed-mcp,,1.0.3,https://github.com/thestockgoatballs/clipspeed-mcp,streamable-http,"AI video, images, AI influencers, character swaps and clipping from Claude or ChatGPT."
