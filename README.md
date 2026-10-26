@@ -9,36 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 06:20 UTC
+## Latest list — 2026-10-26 07:22 UTC
 
-New MCP servers published between 2026-10-26 05:20 UTC and 2026-10-26 06:20 UTC.
+New MCP servers published between 2026-10-26 06:20 UTC and 2026-10-26 07:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-26T06-20-20-178185Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-26T07-22-06-246703Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-26 05:20:32 | kr.vlsi/vlsi-korea | VLSI Korea Semiconductor Data | 2.0.1 | Semiconductor data for AI agents: 2,600+ articles in 9 languages, daily briefin… |
-| 2026-10-26 05:29:28 | io.github.bleemohr/foodbe | Foodbe | 1.0.0 | Cited, fact-checked food answers, ingredient profiles, meal plans and recipes f… |
-| 2026-10-26 05:29:49 | com.taskbead/tasks | Taskbead | 1.0.0 | Simple to-do lists for students and teams: list, search, add, update and comple… |
-| 2026-10-26 05:31:10 | co.xianmi/xianmi | Xianmi Library | 0.1.0 | Search and read ~250k pages of Chinese Buddhist texts from Xianmi Library (xian… |
-| 2026-10-26 05:32:55 | [io.github.prodlint/prodlint](https://github.com/prodlint/prodlint) | prodlint | 0.10.2 | Production readiness for vibe-coded apps. 52 checks for security, reliability,… |
-| 2026-10-26 05:34:44 | [com.foreverworks/anaf-efactura](https://github.com/foreverworks/mcps) | ANAF e-Factura | 0.1.0 | Read, check and file a Romanian company's e-invoices and e-Transport declaratio… |
-| 2026-10-26 05:34:44 | [com.foreverworks/bnr](https://github.com/foreverworks/mcps) | BNR exchange rates | 0.1.0 | Look up the National Bank of Romania's rate for any day, and convert amounts to… |
-| 2026-10-26 05:34:45 | [com.foreverworks/enable-banking](https://github.com/foreverworks/mcps) | Enable Banking | 0.1.0 | Read, search and export statements and balances from banks across Europe, witho… |
-| 2026-10-26 05:34:46 | [com.foreverworks/google](https://github.com/foreverworks/mcps) | Google Workspace | 0.1.0 | Search and work in Gmail, Calendar, Drive, Docs, Sheets and Slides across sever… |
-| 2026-10-26 05:34:49 | [com.foreverworks/notion](https://github.com/foreverworks/mcps) | Notion | 0.1.0 | Search, read and write your Notion workspaces, with pages as Markdown and typed… |
-| 2026-10-26 05:34:50 | [com.foreverworks/oblio](https://github.com/foreverworks/mcps) | Oblio | 0.1.0 | Issue and track a Romanian company's invoices on Oblio, with totals computed as… |
-| 2026-10-26 05:39:05 | [io.github.priyanshuN/jsonloupe](https://github.com/priyanshuN/jsonloupe) | jsonloupe | 1.9.0 | Open huge JSON locally and give agents its shape, queries and exact values, nev… |
-| 2026-10-26 05:50:13 | io.github.hattray/vibestreak | vibestreak | 0.3.5 | AI coding streaks and leaderboards: profiles, heatmaps, who coded with AI today. |
-| 2026-10-26 05:50:16 | [io.github.Illouminus/apifacts](https://github.com/Illouminus/apifacts) | apifacts | 0.2.1 | Verified facts and typed fixes for failing third-party API calls (Stripe, GitHu… |
-| 2026-10-26 06:00:46 | [io.github.tokenzero-ai/tokenzero](https://github.com/tokenzero-ai/tokenzero) | TokenZero | 0.2.1 | LLM cost optimization gateway, repo token-waste auditor & model arbitrage MCP s… |
-| 2026-10-26 06:01:27 | [dev.teamonly/teamonly](https://github.com/sohelsd/teamonly-mcp) | TeamOnly | 0.6.0 | Deploy AI-built internal apps behind your company login, with a database, files… |
-| 2026-10-26 06:04:09 | net.mcpstation/station | MCP Station | 0.1.0 | Directory of remote MCP servers with daily measured reachability, tools and cha… |
-| 2026-10-26 06:07:03 | me.tripmo/tripmo | Tripmo | 1.0.6 | A shared trip plan for your group: everyone's AI adds places, stays and booking… |
-| 2026-10-26 06:07:27 | com.probativegrowth/legal-marketing-data | Probative legal-marketing data | 1.1.0 | US lawyer ad rules, bar ad filing, ethics opinions, ad-platform policies, fee c… |
-| 2026-10-26 06:09:22 | com.unitpost/mcp | Unitpost | 1.0.1 | Email and SMS infrastructure, run by your agent: send, campaigns, contacts, dom… |
-| 2026-10-26 06:11:13 | [io.github.arthiqlabs/vedaksha-vedic-astrology](https://github.com/arthiqlabs/vedaksha) |  | 10.0.1 | Vedic astrology and astronomical ephemeris: kundali, panchanga, dashas, vargas,… |
-| 2026-10-26 06:15:45 | [sh.tokenzero/mcp](https://github.com/tokenzero-ai/tokenzero) | TokenZero | 0.2.2 | LLM cost optimization gateway, repo token-waste auditor & model arbitrage MCP s… |
+| 2026-10-26 06:21:06 | [com.thailandfunexperiences/thailand-fun-experiences](https://github.com/hangingfox67/funex) | Thailand Fun Experiences | 1.0.1 | Phuket activity search with live weather, sea state, transfer times and party-f… |
+| 2026-10-26 06:22:54 | si.revana/revana | Revana | 1.0.0 | Cheap AI video from your agent: Seedance 2.5 video and Nemesis clip restaging o… |
+| 2026-10-26 06:28:56 | com.fliprofit/fee-calculator | Fliprofit reseller fee calculator | 1.0.0 | Exact US seller fees, payout and profit for eBay, Poshmark, Mercari, Etsy, Amaz… |
+| 2026-10-26 06:47:20 | [io.usefulapi/newsman](https://github.com/m190/usefulapi-mcp) | NewsMAN MCP by usefulapi | 1.0.0 | Read NewsMAN lists, subscribers, segments, newsletter and automation stats; man… |
+| 2026-10-26 06:47:20 | [io.usefulapi/vtiger](https://github.com/m190/usefulapi-mcp) | Vtiger MCP by usefulapi | 1.0.0 | Search, read, create and update Vtiger CRM leads, contacts, deals, cases and mo… |
+| 2026-10-26 06:47:20 | [io.usefulapi/sellasist](https://github.com/m190/usefulapi-mcp) | Sellasist MCP by usefulapi | 1.0.0 | Read Sellasist orders, products, stock, customers, invoices, returns; add order… |
+| 2026-10-26 06:47:20 | [io.usefulapi/laudus](https://github.com/m190/usefulapi-mcp) | Laudus MCP by usefulapi | 1.0.0 | Read Laudus ERP customers, sales, purchases, stock and accounting reports; crea… |
+| 2026-10-26 06:47:20 | [io.usefulapi/cogmento](https://github.com/m190/usefulapi-mcp) | Cogmento MCP by usefulapi | 1.0.0 | Read Cogmento CRM contacts, companies, deals, tasks and cases; create records a… |
+| 2026-10-26 06:47:46 | [io.github.theluckystrike/supplier-statement-check](https://github.com/theluckystrike/mcp-servers) |  | 0.25.0 | Compare supplied supplier statement and AP open items locally, with complete di… |
+| 2026-10-26 06:48:03 | com.chatfuel/chatfuel | Chatfuel | 1.0.0 | Create AI agents that answer customers on WhatsApp, Instagram, Messenger, TikTo… |
+| 2026-10-26 06:48:03 | com.chatfuel/chatfuel-api | Chatfuel API | 1.0.0 | Full Chatfuel public API for developers: schema search, queries, mutations and… |
+| 2026-10-26 06:49:05 | ie.akay.mcp/offers | Akay trade offers (akay.ie) | 1.0.0 | Live B2B FMCG wholesale offers from Akay (IRL) Ltd: spirits, wine, beer, grocer… |
+| 2026-10-26 06:50:45 | com.capitalsnitch/insider-trading | CapitalSnitch | 1.20261025.0 | SEC insider trades, Congress trades, 13F funds, earnings and 8-K filings for AI… |
+| 2026-10-26 06:51:22 | studio.so-me/social-media-studio | Social media studio | 1.0.0 | Schedule and publish posts on 18 social platforms, manage drafts, inbox, media… |
+| 2026-10-26 06:51:25 | [io.github.theluckystrike/vendor-statement-open-items](https://github.com/theluckystrike/mcp-servers) |  | 0.25.0 | Compare supplied vendor statement and AP open items locally; keep missing and a… |
+| 2026-10-26 06:55:22 | com.lordevo/shop | Lordevo Shop (x402 pay-per-call) | 1.0.0 | Pay-per-call web checks for agents: SEO, security headers, email auth, tech sta… |
+| 2026-10-26 06:55:33 | ai.hodds/hodds | HODDS | 0.4.0 | Find software, SaaS and APIs for a need in a sourced catalogue organised by bus… |
+| 2026-10-26 06:56:19 | xyz.dolphinamp/dolphin | Dolphin - AI agent marketplace on BNB C… | 2.0.0 | AI agent marketplace on BNB Chain: find agents, backtest trading rules, follow… |
+| 2026-10-26 06:56:25 | [io.usefulapi/safetychain](https://github.com/m190/usefulapi-mcp) | SafetyChain MCP by usefulapi | 1.2.0 | Read SafetyChain food safety records, CAPAs, forms, suppliers, items, locations… |
+| 2026-10-26 07:02:50 | com.phantasyx/kempt-horizon-data-toolkit | Kempt Horizon Data Toolkit | 1.0.0 | 17 read-only tools: web pages to Markdown, data cleaning, SEC EDGAR, Federal Re… |
+| 2026-10-26 07:10:22 | app.shortik/creator | Shortik Creator | 0.3.0 | Build HTML5 mini-games by chatting with your AI and publish them to Shortik's s… |
+| 2026-10-26 07:14:27 | [io.github.ictinnovations/ictfax-mcp](https://github.com/ictinnovations/ictfax-mcp) |  | 0.1.1 | List and track faxes on ICTFax, and send faxes when writes are enabled, over IC… |
+| 2026-10-26 07:14:32 | [io.github.ictinnovations/ictexam-mcp](https://github.com/ictinnovations/ictexam-mcp) |  | 0.1.1 | Read exams, gradebooks and item analysis; parse papers with AI and publish exam… |
+| 2026-10-26 07:14:36 | [io.github.ictinnovations/ictpbx-mcp](https://github.com/ictinnovations/ictpbx-mcp) |  | 0.1.1 | Read ICTPBX state: extensions, DID numbers, SIP trunks, tenants and live PBX st… |
+| 2026-10-26 07:14:40 | [io.github.ictinnovations/ictcontact-mcp](https://github.com/ictinnovations/ictcontact-mcp) |  | 0.1.1 | Monitor ICTContact / ICTDialer outbound campaigns, and start and stop them when… |
+| 2026-10-26 07:14:44 | [io.github.ictinnovations/ictbroadcast-mcp](https://github.com/ictinnovations/ictbroadcast-mcp) |  | 0.1.1 | Monitor ICTBroadcast outbound campaigns, and start and stop them when writes ar… |
+| 2026-10-26 07:14:46 | [io.github.ictinnovations/ictcrm-mcp](https://github.com/ictinnovations/ictcrm-mcp) |  | 0.1.1 | Read CRM contact groups and manage contacts on ICTCRM (ICTContact backend). |
+| 2026-10-26 07:14:52 | [io.github.ictinnovations/ictdialer-mcp](https://github.com/ictinnovations/ictdialer-mcp) |  | 0.1.1 | Monitor ICTDialer outbound auto-dialer campaigns, and start and stop them when… |
 
 ## Data source
 
