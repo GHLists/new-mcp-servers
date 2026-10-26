@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-10-26T01:28:32.173019Z,city.atalaya/riesgos,,1.0.0,,streamable-http,"Riesgos en vivo en Colombia: lluvia, inundaciones, incendios, sismos y reportes de vecinos."
+2026-10-26T01:29:38.969725Z,io.github.odaiameera/scamgate,scamgate,0.3.3,https://github.com/odaiameera/scamgate,,"Offline scam check for agents: verify links and payments before acting (allow, ask or deny)."
+2026-10-26T01:30:59.209443Z,net.bigfloppy.starproof/starproof,StarProof,1.0.0,https://github.com/wminno/starproof,streamable-http,"GitHub repo authenticity scoring: stars-vs-forks, star velocity, astroturf fingerprints. Free API."
+2026-10-26T01:47:19.578788Z,kr.co.wooktech/led-sign-quote,WOOKANG TECH LED sign quote,1.0.0,,streamable-http,"LED display (LED 전광판) price range, company facts, Q&A and call-back request — Korea"
+2026-10-26T01:49:50.518898Z,io.github.suxinsk/reset-beer-mcp,Reset Beer,1.0.1,https://github.com/suxinsk/reset-beer-mcp,,AI quota reset tracking across 15+ products. Query reset signals and price changes.
+2026-10-26T01:51:37.894453Z,com.firmsapi/mcp,FIRMSapi,1.0.0,,streamable-http,"Look up, search and validate U.S. CBP FIRMS facility codes for piers, CFS, warehouses and FTZs."
+2026-10-26T01:51:49.830391Z,dev.pages.canmyaiuse/mcp,,1.0.0,,streamable-http,"Find live MCP servers for any app — search 49k+ endpoints by need, auth, and status."
+2026-10-26T02:04:06.56787Z,io.github.entire-vc/evc-mesh-mcp,,0.1.6,https://github.com/entire-vc/evc-mesh-mcp,streamable-http; sse,"Tasks, comments, shared memory and handoffs for teams of people and AI agents, over MCP."
+2026-10-26T02:08:49.246635Z,com.kairosmeeting/kairos,Kairos,1.0.0,,streamable-http,"Find a time for a group meeting: a week people mark their free hours on, one link to send."
+2026-10-26T02:11:41.63313Z,com.ithy/research-library,Ithy Research Library,1.0.0,,streamable-http,"Search public Ithy explanations and read relevant passages with article links, sources and dates."
+2026-10-26T02:11:49.932412Z,io.nteli/quoting,Nteli Quoting,1.0.0,,streamable-http,"AI-native product and pricing configuration (CPQ) for manufacturers, every rule checked."
+2026-10-26T02:15:56.183385Z,com.scriptmasterlabs/ghostkey,GhostKey — Route Paid APIs with x402,1.1.1,https://gitlab.com/timothy.walton45/sml-portfolio,streamable-http,"Find paid APIs, check access policy and price, and route x402 requests. No autonomous spending."
+2026-10-26T02:15:57.821299Z,com.scriptmasterlabs/squeezeos,SCRIPTMASTERLABS — SqueezeOS MCP,1.1.1,https://gitlab.com/script-master-labs-llc-group/squeezeos-api,streamable-http,SqueezeOS MCP for live machine discovery and x402-paid USDC APIs on Base.
+2026-10-26T02:15:58.852338Z,com.scriptmasterlabs/verdict,SCRIPTMASTERLABS — Verdict Protocol,1.0.0,https://gitlab.com/timothy.walton45/sml-portfolio,streamable-http,"Verdict Protocol MCP: frozen research capsules, hash verification, and five-juror Jev decisions."
+2026-10-26T02:15:59.792884Z,com.scriptmasterlabs/x402-pay,x402 Pay — USDC API Payment Helper,1.0.1,https://gitlab.com/timothy.walton45/sml-portfolio,streamable-http,"Pay for APIs with USDC. Read-only x402 payment discovery, verification, evidence, and status."

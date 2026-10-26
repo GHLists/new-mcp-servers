@@ -9,33 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 01:20 UTC
+## Latest list — 2026-10-26 02:22 UTC
 
-New MCP servers published between 2026-10-26 00:18 UTC and 2026-10-26 01:20 UTC.
+New MCP servers published between 2026-10-26 01:20 UTC and 2026-10-26 02:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-26T01-20-15-337691Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-26T02-22-37-301382Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-26 00:19:30 | com.reflowpdf/reflowpdf | ReflowPDF | 1.0.0 | Paged PDFs from HTML and CSS, document templates, and an editor link for every… |
-| 2026-10-26 00:25:56 | [com.ibluetext/ibluetext](https://github.com/iBlueText/ibluetext-mcp) | iBlueText | 1.0.0 | Send iMessage, SMS and WhatsApp from your business number, run text campaigns a… |
-| 2026-10-26 00:31:51 | fun.mindo/mindo | Mindo | 1.0.0 | Simple, fast todo app: manage tasks, projects and tags from Claude and other MC… |
-| 2026-10-26 00:38:18 | [io.github.wyroapi/wyro](https://github.com/wyroapi/wyro) | wyro API | 0.1.0 | Publica en Instagram, TikTok, LinkedIn, X y más desde tu agente. En español, pr… |
-| 2026-10-26 00:43:05 | al.ephemer/ephemeral | Ephemeral | 1.0.0 | Run AI agent tasks in isolated sandboxes with a cost cap, saved workflows and s… |
-| 2026-10-26 00:45:19 | [io.github.darrenjrobinson/entra-news-podcast](https://github.com/darrenjrobinson/EntraNewsPodcastMCPServer) |  | 0.3.0 | Search Entra.Chat podcast transcripts — Merill Fernando's Microsoft Entra podca… |
-| 2026-10-26 00:45:27 | [io.usefulapi/bukku](https://github.com/m190/usefulapi-mcp) | Bukku MCP by usefulapi | 1.0.0 | Read Bukku contacts, accounts, invoices, bills and journals; create contacts an… |
-| 2026-10-26 00:45:27 | [io.usefulapi/kiotviet](https://github.com/m190/usefulapi-mcp) | KiotViet MCP by usefulapi | 1.0.0 | Read KiotViet products, customers, invoices, orders and stock; create customers… |
-| 2026-10-26 00:45:27 | [io.usefulapi/semble](https://github.com/m190/usefulapi-mcp) | Semble MCP by usefulapi | 1.0.0 | Read Semble patients, bookings, invoices and products; create patients and task… |
-| 2026-10-26 00:45:27 | [io.usefulapi/yuki](https://github.com/m190/usefulapi-mcp) | Yuki MCP by usefulapi | 1.0.0 | Read Yuki administrations, open invoices, ledger balances, contacts and documen… |
-| 2026-10-26 00:47:33 | [io.github.NANDI-Services/nandi-proxmox-mcp](https://github.com/NANDI-Services/proxmox-mcp) |  | 0.4.1 | MCP server for Proxmox VE management (VM, LXC, nodes) |
-| 2026-10-26 00:50:42 | [io.github.David-rider/qimena-mcp](https://github.com/David-rider/qimena-mcp) | Qimena Qi Men Dun Jia & BaZi | 1.0.0 | Qi Men Dun Jia charts, BaZi Four Pillars, best-time ranking and solar terms. Fr… |
-| 2026-10-26 00:51:07 | com.imaginou/imaginou | Imaginou | 1.0.0 | AI product videos from photos: showroom, presenter and comedic campaigns with s… |
-| 2026-10-26 00:54:45 | [io.github.OpenImageDebugger/oid-mcp](https://github.com/OpenImageDebugger/OpenImageDebugger) | OpenImageDebugger MCP | 0.3.6 | MCP server giving AI agents eyes on OpenImageDebugger buffers in live gdb/lldb… |
-| 2026-10-26 01:02:13 | [wiki.wowdb/mcp](https://github.com/azeroth-db/wowdb-mcp) | Azeroth DB: WoW Forever | 0.2.0 | Search WoW Forever items, recipes, abilities and quests with page links from Az… |
-| 2026-10-26 01:08:07 | [io.github.CloudCorpRecords/shelfsignal](https://github.com/CloudCorpRecords/shelfsignal) | ShelfSignal | 0.1.0 | The open store index for AI agents: merchants list real stock, agents find loca… |
-| 2026-10-26 01:09:47 | trade.coil/stock-market-scanner | Coil Live | 2.2.2 | Scores 650+ US stocks and ETFs: regime, buy list, reads. Free delayed tier; liv… |
-| 2026-10-26 01:12:00 | [io.github.idoo/app-store-connect-mcp](https://github.com/idoo/app-store-connect-mcp) | App Store Connect MCP | 0.2.0 | MCP server for App Store Connect: releases, TestFlight, reviews, reports. Read-… |
-| 2026-10-26 01:14:04 | [io.github.axworks1/one-design](https://github.com/axworks1/one-design-mcp) | One Design | 0.2.4 | Image, brand, privacy and PDF tools from one.design, run on your own computer.… |
+| 2026-10-26 01:28:32 | city.atalaya/riesgos |  | 1.0.0 | Riesgos en vivo en Colombia: lluvia, inundaciones, incendios, sismos y reportes… |
+| 2026-10-26 01:29:38 | [io.github.odaiameera/scamgate](https://github.com/odaiameera/scamgate) | scamgate | 0.3.3 | Offline scam check for agents: verify links and payments before acting (allow,… |
+| 2026-10-26 01:30:59 | [net.bigfloppy.starproof/starproof](https://github.com/wminno/starproof) | StarProof | 1.0.0 | GitHub repo authenticity scoring: stars-vs-forks, star velocity, astroturf fing… |
+| 2026-10-26 01:47:19 | kr.co.wooktech/led-sign-quote | WOOKANG TECH LED sign quote | 1.0.0 | LED display (LED 전광판) price range, company facts, Q&A and call-back request — K… |
+| 2026-10-26 01:49:50 | [io.github.suxinsk/reset-beer-mcp](https://github.com/suxinsk/reset-beer-mcp) | Reset Beer | 1.0.1 | AI quota reset tracking across 15+ products. Query reset signals and price chan… |
+| 2026-10-26 01:51:37 | com.firmsapi/mcp | FIRMSapi | 1.0.0 | Look up, search and validate U.S. CBP FIRMS facility codes for piers, CFS, ware… |
+| 2026-10-26 01:51:49 | dev.pages.canmyaiuse/mcp |  | 1.0.0 | Find live MCP servers for any app — search 49k+ endpoints by need, auth, and st… |
+| 2026-10-26 02:04:06 | [io.github.entire-vc/evc-mesh-mcp](https://github.com/entire-vc/evc-mesh-mcp) |  | 0.1.6 | Tasks, comments, shared memory and handoffs for teams of people and AI agents,… |
+| 2026-10-26 02:08:49 | com.kairosmeeting/kairos | Kairos | 1.0.0 | Find a time for a group meeting: a week people mark their free hours on, one li… |
+| 2026-10-26 02:11:41 | com.ithy/research-library | Ithy Research Library | 1.0.0 | Search public Ithy explanations and read relevant passages with article links,… |
+| 2026-10-26 02:11:49 | io.nteli/quoting | Nteli Quoting | 1.0.0 | AI-native product and pricing configuration (CPQ) for manufacturers, every rule… |
+| 2026-10-26 02:15:56 | [com.scriptmasterlabs/ghostkey](https://gitlab.com/timothy.walton45/sml-portfolio) | GhostKey — Route Paid APIs with x402 | 1.1.1 | Find paid APIs, check access policy and price, and route x402 requests. No auto… |
+| 2026-10-26 02:15:57 | [com.scriptmasterlabs/squeezeos](https://gitlab.com/script-master-labs-llc-group/squeezeos-api) | SCRIPTMASTERLABS — SqueezeOS MCP | 1.1.1 | SqueezeOS MCP for live machine discovery and x402-paid USDC APIs on Base. |
+| 2026-10-26 02:15:58 | [com.scriptmasterlabs/verdict](https://gitlab.com/timothy.walton45/sml-portfolio) | SCRIPTMASTERLABS — Verdict Protocol | 1.0.0 | Verdict Protocol MCP: frozen research capsules, hash verification, and five-jur… |
+| 2026-10-26 02:15:59 | [com.scriptmasterlabs/x402-pay](https://gitlab.com/timothy.walton45/sml-portfolio) | x402 Pay — USDC API Payment Helper | 1.0.1 | Pay for APIs with USDC. Read-only x402 payment discovery, verification, evidenc… |
 
 ## Data source
 
