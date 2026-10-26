@@ -9,48 +9,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 21:21 UTC
+## Latest list — 2026-10-26 22:21 UTC
 
-New MCP servers published between 2026-10-26 20:21 UTC and 2026-10-26 21:21 UTC.
+New MCP servers published between 2026-10-26 21:21 UTC and 2026-10-26 22:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-26T21-21-19-662932Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-26T22-21-35-431163Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-26 20:23:38 | [io.github.Calera-Labs/icx-mcp](https://github.com/Calera-Labs/icx-mcp) | Calera Infinite Context (ICX) — Persist… | 1.4.0 | Sub-5ms topological 4D associative memory coprocessor for LLMs and multi-agent… |
-| 2026-10-26 20:24:13 | [io.github.Calera-Labs/finsec-mcp](https://github.com/Calera-Labs/finsec-mcp) | Calera FINSEC — Certified SEC Memory | 1.2.2 | Certified SEC EDGAR fact memory for AI agents with zero hallucination and filin… |
-| 2026-10-26 20:27:43 | [com.heystacks/heystack](https://github.com/Matthews3301/heystack) | Heystack | 1.0.2 | Living documents and tables that people and AI agents read, improve and create… |
-| 2026-10-26 20:28:54 | ai.enyal/enyal | ENYAL by Greenland AI | 0.1.2 | Accounts are powered by ENYAL identity, and records are verifiable without trus… |
-| 2026-10-26 20:29:03 | net.jobjump/jobjump | JobJump | 1.0.0 | Jobs, salaries, net pay and labour-market data for Germany from the JobJump job… |
-| 2026-10-26 20:29:59 | [io.github.Alexxanddr/italian-travel-search](https://github.com/Alexxanddr/italian-travel-search) | Italian Travel Search MCP Server | 0.3.2 | Read-only Italian bus searches and local NeTEx rail schedules. |
-| 2026-10-26 20:30:51 | [io.github.nyyhao/aiagentslisting](https://github.com/nyyhao/aiagentslisting-mcp) | AI Agents Listing | 1.0.0 | Search, compare and find alternatives across a directory of AI agents, MCP serv… |
-| 2026-10-26 20:33:46 | com.trulata/trulata | TruLata | 1.0.0 | AI marketing software for service businesses: read, update and add leads, and s… |
-| 2026-10-26 20:35:19 | [io.github.blueliftai/calculadoras-py-ec](https://github.com/blueliftai/mcp-calculadoras-py-ec) | Calculadoras laborales y tributarias PY… | 1.0.0 | Paraguay & Ecuador tax and labor calculators: IVA, severance, payroll, income t… |
-| 2026-10-26 20:36:56 | io.github.JcJamet/ia-qa-toolbox | IA-QA — 152 QA & Dev Tools for AI Agents | 1.1.0 | 152 free QA tools for agents: injection scan, evals, RAG, web audits. Smaller p… |
-| 2026-10-26 20:36:57 | io.github.JcJamet/ia-qa-security | IA-QA Security — 30 tools | 1.0.0 | Agent security: prompt injection, PII & secret scans, TLS/header/CORS audits, M… |
-| 2026-10-26 20:36:57 | io.github.JcJamet/ia-qa-eval | IA-QA Eval & RAG — 38 tools | 1.0.0 | LLM & RAG evals: hallucination, eval contracts, semantic tests, tokens & model… |
-| 2026-10-26 20:36:57 | io.github.JcJamet/ia-qa-data | IA-QA Data & Dev — 36 tools | 1.0.0 | Dev utilities for agents: JSON/YAML/CSV, schema validation, encoding, text & ti… |
-| 2026-10-26 20:37:19 | [io.github.CloudCorpRecords/opensourceit](https://github.com/CloudCorpRecords/opensourceit) | Opensourceit | 0.3.0 | AI-welcoming open source community: agents submit and discuss projects. No AI b… |
-| 2026-10-26 20:38:13 | com.sparkinventory/spark | Spark Inventory | 1.0.0 | AI inventory management: stock, Demand ESP reorder recommendations and purchase… |
-| 2026-10-26 20:41:11 | io.accsly/catalog | accsly.io VPS and accounts price compar… | 1.0.0 | Compare VPS/VDS, hosting plans of 2,000+ hosts and ready-made accounts across s… |
-| 2026-10-26 20:42:47 | [io.github.mindstone/mcp-server-browser-automation](https://github.com/mindstone/mcp-servers) | Browser Automation | 0.2.3 | Browser automation MCP server: navigate, fill forms, click, screenshot, and man… |
-| 2026-10-26 20:46:28 | [io.github.HamdiM99/intentplane](https://github.com/HamdiM99/intentplane) | intentplane | 0.5.1 | Gateway in front of MCP tools: critical arguments are checked against trusted s… |
-| 2026-10-26 20:47:58 | [io.github.flowboxx/agent-card-starter](https://github.com/flowboxx/agent-card-starter) | Agent Card Starter | 0.2.1 | Starter kit for small businesses: A2A agent card, MCP server card, example MCP… |
-| 2026-10-26 20:49:06 | [io.github.wsystemdev/eu-business-data-mcp](https://github.com/wsystemdev/eu-business-data-mcp) | EU Business Data (VAT, EORI, company, s… | 1.0.3 | EU VAT (VIES) and EORI validation, company registry, sanctions screening, KYB.… |
-| 2026-10-26 20:49:07 | [io.github.MysterionRise/pubchem-finder](https://github.com/MysterionRise/pubchem-finder) | PubChem Finder | 2.1.0 | Search PubChem by structure: a local similarity/substructure index, live PubChe… |
-| 2026-10-26 20:49:08 | [io.launchpadhq/launchpad-hq](https://github.com/stevensonzj-ai/launchpad-hq) | Launchpad HQ | 0.1.1 | Read-only, sourced and dated facts on AI tools: search, compare, pricing, free… |
-| 2026-10-26 20:49:17 | ai.hyperresearch/answers | Hyperresearch Answers | 1.0.0 | One question, one checked answer: quote-verified answers from the web and ~45 s… |
-| 2026-10-26 20:50:11 | com.hoplix/print-on-demand | Hoplix Print on Demand | 1.1.0 | Print-on-demand: browse products, create campaigns with your designs, quote, or… |
-| 2026-10-26 20:50:49 | pl.com.fabrykahaftu/patch-quoting | Fabryka Haftu Opole – Patch Quoting | 1.0.0 | Custom embroidered and sublimated patch quotes from Fabryka Haftu Opole, Poland. |
-| 2026-10-26 20:57:45 | com.motoclassicpro/technical-knowledge | MotoClassic Knowledge | 0.3.1 | App-approved motorcycle research relay for a local technical library. Free limi… |
-| 2026-10-26 20:59:28 | com.ripedeps/ripedeps | Ripedeps | 1.4.9 | Deterministic package.json upgrade plans: age gate, aligned peers, reasons per… |
-| 2026-10-26 21:00:46 | com.mailbypony/mail-by-pony | Mail by Pony | 0.3.0 | Print and mail real letters through USPS. Write, preview the exact printed proo… |
-| 2026-10-26 21:03:54 | com.pansophyai/second-opinion | Second Opinion for Sales | 1.2.0 | Behavioral read on one speaker in a sales conversation. Big Five standings plus… |
-| 2026-10-26 21:05:21 | ai.bugtape/bugtape-demo | BugTape demo | 1.0.0 | Read-only sample shop with captured bug evidence. No account or key needed. |
-| 2026-10-26 21:08:47 | com.quoapi/mcp | QuoAPI | 0.21.0 | Discover and execute authorized API capabilities through QuoAPI policy, routing… |
-| 2026-10-26 21:12:43 | com.traderwai/charts | TraderWAI Charts | 2.0.0 | Read-only market charts, OHLC, backtests and a view of your connected broker ac… |
-| 2026-10-26 21:15:52 | com.siporpro/directory | Siporpro | 1.0.0 | Find verified doctors, dentists, lawyers and accountants; see free times; reque… |
-| 2026-10-26 21:18:53 | com.0xpi.pantrypos/find-food-pantry | PantryPOS — Food Pantry Finder and TEFA… | 1.1.0 | Find US food pantries near a ZIP or City, ST, and look up a State's TEFAP rules… |
+| 2026-10-26 21:25:53 | ai.noinfra/noinfra-mcp | NoInfra MCP | 0.2.0 | Discover managed business agents. Private capabilities require owner authorizat… |
+| 2026-10-26 21:27:48 | com.joinaccredited/accredited | Accredited | 1.0.0 | Find businesses for sale and off-market businesses to buy, with deep dives and… |
+| 2026-10-26 21:28:43 | io.github.zerocrewai/zerocrew-directory | ZeroCrew directory | 1.0.0 | Find the AI agents and tools behind every business job, curated for zero-employ… |
+| 2026-10-26 21:31:39 | co.screenforge/director | Director | 1.0.0 | Records narrated product demo videos and writes help-center articles by driving… |
+| 2026-10-26 21:32:33 | [app.postia/postia](https://github.com/kvlkstudio/postia-ai-plugins) | Postia | 1.1.0 | Write, schedule and publish social posts to 18 networks, and read channel analy… |
+| 2026-10-26 21:35:59 | [io.github.edtool79-collab/hirepulse-b2b](https://github.com/edtool79-collab/hirepulse-mcp) | HirePulse B2B Company Research | 1.0.0 | 8 focused tools: company profiles, tech, hiring, ads and contacts. Free sandbox… |
+| 2026-10-26 21:36:03 | [io.github.edtool79-collab/hirepulse-commerce](https://github.com/edtool79-collab/hirepulse-mcp) | HirePulse Commerce Research | 1.0.0 | 11 tools for product data, store discovery and merchant evidence. Free sandbox… |
+| 2026-10-26 21:37:10 | [io.github.katrinalaszlo/track](https://github.com/katrinalaszlo/track) | Track | 0.1.0 | Read which AI agents call your API, which paths convert, and which journeys pay. |
+| 2026-10-26 21:38:36 | com.plyparts/ply | ply 3D Printing | 1.0.0 | Custom 3D-printed parts: describe a part, upload a 3D file or pick a model, see… |
+| 2026-10-26 21:39:53 | io.github.digitranslu/ailexlux | AiLexLux | 1.0.0+87d3a9e8e283 | Luxembourg, EU and French legal research and drafting with cited sources. Accou… |
+| 2026-10-26 21:40:28 | [io.github.maxime-desmarchelier/fr-grocery-mcp](https://github.com/maxime-desmarchelier/fr-grocery-mcp) | French Grocery | 0.1.1 | Search, compare and manage E.Leclerc Drive and Super U grocery carts without or… |
+| 2026-10-26 21:42:25 | [io.github.krzysztofbury/librus-mcp](https://github.com/krzysztofbury/librus-mcp) | Librus Synergia | 2.3.0 | Librus Synergia school gradebook: grades, attendance, timetable, homework, mess… |
+| 2026-10-26 21:43:24 | [in.dalalos/mcp](https://github.com/BeyondNoww/DalalOS-Indian-Stock-Research) | DalalOS: Indian Stock Market Research (… | 1.0.0 | Filing-grounded Indian stock research (NSE/BSE): financials, ratios, screens. S… |
+| 2026-10-26 21:47:52 | com.wildrunai/wildrunai | WildRun AI | 1.0.0 | SEO, AEO and GEO service for Bend and Central Oregon, plus the article archive… |
+| 2026-10-26 21:53:33 | [io.github.mguttmann/action1-mcp](https://github.com/mguttmann/action1-mcp) | Action1 RMM (unofficial) | 0.6.0 | Unofficial MCP server for the Action1 RMM API: fleet queries, scripts, updates,… |
+| 2026-10-26 21:54:33 | com.metruvo/fund-comparison | Metruvo fund comparison | 1.1.0 | Educational ETF overlap, charge and comparison illustrations. Read-only. Not fi… |
+| 2026-10-26 21:55:23 | com.calorielogpro/calorielog | CalorieLog Pro | 1.0.0 | Calorie and macro diary your AI fills in: log meals from text or photos, refine… |
+| 2026-10-26 21:55:24 | com.workoutlogpro/workoutlog | WorkoutLog Pro | 1.0.0 | Workout log your AI fills in: sets from text or notebook photos, daily plans, h… |
+| 2026-10-26 21:55:24 | com.habitlogpro/habitlog | HabitLog Pro | 1.0.0 | Habit tracker your AI fills in: check in everything you did or skipped in one s… |
+| 2026-10-26 21:57:52 | [io.github.YUZU-Hub/wiring-diagram-mcp](https://github.com/YUZU-Hub/wiring-diagram-mcp) | VoltPlan Wiring Diagrams | 0.3.0 | Generate 12V/24V/48V wiring diagrams and size wires, fuses, batteries, solar, a… |
+| 2026-10-26 22:02:37 | [io.github.yarenty/tableski](https://github.com/yarenty/tableski) | tableski | 0.2.0 | Every spreadsheet is a table: Excel, CSV, Parquet and JSON as SQL tables for AI… |
+| 2026-10-26 22:07:43 | com.seatwifi/seatwifi | SeatWiFi | 1.2.1 | In-flight WiFi: provider by flight, airline or tail, measured speeds, Starlink… |
+| 2026-10-26 22:10:30 | com.asin402/mcp | ASIN402 Amazon Data | 1.0.0 | Live Amazon data for AI agents: prices, history, deals, FBA profit, sell scores… |
+| 2026-10-26 22:12:15 | [org.openserp/mcp](https://github.com/openserpapi/mcp) | OpenSERP | 0.1.9 | Search Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia with original ranks,… |
+| 2026-10-26 22:12:21 | com.jsonpage/mcp | Jsonpage | 0.1.0 | Company data for 14 countries: search firms, check company IDs, validate VAT an… |
+| 2026-10-26 22:16:48 | [ad.getle/leads](https://github.com/Adgrowofficial/getlead-mcp) | Getlead | 1.0.1 | Find B2B leads with verified work emails, find and verify emails, and run cold… |
+| 2026-10-26 22:16:54 | [com.usethumbs/thumbs](https://github.com/jorchg/usethumbs-mcp) | thumbs | 0.1.0 | Give an AI agent an iPhone to see, tap and type on over MCP. Free early access… |
+| 2026-10-26 22:17:05 | io.github.afrowvibecoding/lucky-x402 | Lucky x402 | 1.0.0 | Pay-per-call crypto intel & exchange-ops tools for agents. USDC on Base via x40… |
+| 2026-10-26 22:21:12 | com.funding-radar/radar |  | 1.2.0 | Live crypto funding rates on 5 exchanges: events, pair search, briefings, calen… |
 
 ## Data source
 
