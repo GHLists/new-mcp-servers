@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-10-26T17:22:45.727987Z,dev.greenflagged/greenflagged,Greenflagged,1.0.1,,streamable-http,"Ask whether npm packages are reviewed and greenflagged, audit a package.json, and request imports."
+2026-10-26T17:24:34.722003Z,com.flomixy/mcp,Flomixy,1.0.0,,streamable-http,"Social media scheduling for agencies. AI drafts and schedules posts, a human approves first."
+2026-10-26T17:25:23.43578Z,com.regulane/compliance,Regulane compliance check,1.0.0,https://github.com/siddhantmallah/regulane-agent-plugin,streamable-http,"Check code against secure-coding rules mapped to ISO 27001 and the DPDP Act. Free, no account."
+2026-10-26T17:25:36.641123Z,io.github.XRPL-Utilities/mcp,XRPL-Utilities,0.2.204,https://github.com/XRPL-Utilities/xrpl-utilities-mcp,,"XRPL data tools for AI agents: wallet classifier, signals, RWA tracker, ETF flows. Pay via x402."
+2026-10-26T17:27:11.697174Z,com.gc-airporttransfers/booking,GC Airport Transfers,2.3.3,,streamable-http,"Gold Coast & Brisbane airport transfers: quotes, availability, booking requests. OAuth required."
+2026-10-26T17:27:33.054984Z,io.github.benthepythondev00/business-open-data-crypto,"Business Data: Open Data, Crypto & Startups",1.0.0,https://github.com/benthepythondev00/apify-web-data-mcp,streamable-http,"Government open-data search, crypto prices, Fear & Greed, Bitcoin stats, FX rates, startups."
+2026-10-26T17:27:52.988406Z,io.github.benthepythondev00/ad-library-intelligence,Ad Library Intelligence,1.0.0,https://github.com/benthepythondev00/apify-web-data-mcp,streamable-http,"Competitor ads from the Meta, Google and LinkedIn ad libraries plus ads.txt sellers. No login."
+2026-10-26T17:28:01.681605Z,io.github.benthepythondev00/socialblade-creator-stats,SocialBlade Creator Stats,1.0.0,https://github.com/benthepythondev00/apify-web-data-mcp,streamable-http,"YouTube, TikTok, Instagram and Twitch growth history and 7/30/90-day gains from SocialBlade."
+2026-10-26T17:28:22.588185Z,team.golem/intel,Golem Intel,2026.10.24,,streamable-http,"Threat-intelligence verdicts on a URL, domain or IP before a coding agent connects to it."
+2026-10-26T17:28:24.998796Z,com.catchdoms/expired-domains,CatchDoms — Expired Domains API,1.2.0,https://github.com/Sambel/catchdoms-mcp,sse,"Search 22 sources of expired domains with SEO metrics, 183,537 aged ccTLDs, and pending-delete."
+2026-10-26T17:34:34.678826Z,io.github.swisspra/On_Board,On Board,4.1.0,https://github.com/swisspra/On_Board,,Cross-platform shared memory and ticket coordination for AI agents across MCP clients.
+2026-10-26T17:34:58.418615Z,dev.workers.dermatologicalbeautyllc.celadon-wholesale-mcp/celadon-wholesale,Celadon Wholesale,1.1.0,,streamable-http,"Wholesale Korean skincare for US resellers: case prices, retail margins and checkout links."
+2026-10-26T17:41:41.235966Z,io.github.asiff00/scaps-mcp,SCAPS-1D,0.1.0,https://github.com/asiff00/scaps-mcp,,"Design, simulate, fit and sanity-check thin-film solar cells with SCAPS-1D on your own installation."
+2026-10-26T17:44:48.142957Z,com.a2aboard/board,A2A Board,1.0.0,,streamable-http,Public message board for AI agents: read what other agents left and post your own.
+2026-10-26T17:45:42.042182Z,eu.taxxy/taxy,Taxy,1.0.0,,streamable-http,"Crypto and securities tax data: summaries, positions, lots, transactions; prepare wallet imports."
+2026-10-26T17:51:19.379614Z,io.sociality/sociality-mcp,Sociality.io MCP,1.0.0,https://github.com/socialityio/sociality-mcp,streamable-http,"Social media analytics, post insights, and competitor benchmarking for AI agents."
+2026-10-26T17:56:14.425331Z,io.github.n-kostadinov/etoro-trading-mcp,eToro Trading MCP,1.0.1,https://github.com/n-kostadinov/etoro-trading-mcp,,"197 eToro API tools for agents: market data, watchlists, feeds, demo and real trading."
+2026-10-26T17:57:31.365968Z,io.github.tking510/ai-reviewing,ai-reviewing,0.1.0,https://github.com/tking510/ai-reviewing,streamable-http,Public AI-written review DB. recall before recommending; propose after use.
+2026-10-26T17:57:43.39837Z,io.github.godot-pty/gpty,gPTY,0.7.0,https://github.com/godot-pty/gpty,,"Spawn panes, inject input and read output in a tiling terminal workspace"
+2026-10-26T17:59:20.137435Z,ai.polemia/quiz,Polemia,1.0.0,,streamable-http,"Make free live phone quizzes on any topic, find ready-made ones, and get a join link."
+2026-10-26T17:59:44.826089Z,ai.cardboard/cardboard,Cardboard AI,1.0.0,,streamable-http,"Edit your own videos by chatting in Claude or ChatGPT: cut, caption, add music and export."
+2026-10-26T18:01:20.353798Z,com.kevwire/kevwire,KEVWire,6.0.0,,streamable-http,"Exploited vulnerabilities, critical CVEs, breaches and AI security incidents, with primary sources."
+2026-10-26T18:02:15.01568Z,io.github.javier-cabezas/cuda4cpu,cuda4cpu,0.4.0,https://github.com/javier-cabezas/cuda4cpu,,"Compile, run and check CUDA and HIP kernels without a GPU: wrong results, races, memory errors"
+2026-10-26T18:05:41.753283Z,dev.fly.grok-backtest-api/crypto-quant,Grok Crypto Quant API,0.2.0,,streamable-http,"Pay-per-call crypto backtests, signals, token risk checks and universes (x402, USDC on Base)."
+2026-10-26T18:06:47.79933Z,io.github.hifriendbot/agentwallet,,1.14.8,https://github.com/hifriendbot/agentwallet-mcp,,Wallet infrastructure for Ai agents. EVM + Solana. x402 payments. No KYC.
+2026-10-26T18:06:57.714093Z,la.desky/mcp,Desky,1.0.0,,streamable-http,"Find and book coworking spaces, meeting rooms and offices in Latin America from your AI assistant."
+2026-10-26T18:08:11.488088Z,cz.hlidacsporeni/sporeni,Hlídač spoření,1.0.0,,streamable-http,"Czech savings accounts and term deposits: effective rates, net yield and conditions. Read-only."
+2026-10-26T18:08:33.919918Z,com.dividendsolo.lab/pageroast,PageRoast,1.0.0,,streamable-http,"AI landing page roast: score /100, 5-second test, top 3 conversion problems quoted from any URL."
+2026-10-26T18:08:56.825921Z,help.getoffer/mianshi-web3-jobs,Mianshi Web3 Jobs Market Data,1.0.0,,streamable-http,"Web3 job market data: 4,500+ companies, 21,000+ live roles. Free stats, paid queries via x402."
+2026-10-26T18:15:29.9791Z,io.github.VoxNode-ux/nullwire-mcp,NullWire-MCP,1.0.0,https://github.com/VoxNode-ux/nullwire-mcp,,"RAM-only HTTP debugging proxy and MCP server in Go. AI agents see salted tags, never secrets."
