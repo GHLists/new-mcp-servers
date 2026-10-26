@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-10-26T00:19:30.378025Z,com.reflowpdf/reflowpdf,ReflowPDF,1.0.0,,streamable-http,"Paged PDFs from HTML and CSS, document templates, and an editor link for every document."
+2026-10-26T00:25:56.507373Z,com.ibluetext/ibluetext,iBlueText,1.0.0,https://github.com/iBlueText/ibluetext-mcp,streamable-http,"Send iMessage, SMS and WhatsApp from your business number, run text campaigns and read replies."
+2026-10-26T00:31:51.256675Z,fun.mindo/mindo,Mindo,1.0.0,,streamable-http,"Simple, fast todo app: manage tasks, projects and tags from Claude and other MCP clients."
+2026-10-26T00:38:18.183687Z,io.github.wyroapi/wyro,wyro API,0.1.0,https://github.com/wyroapi/wyro,streamable-http,"Publica en Instagram, TikTok, LinkedIn, X y más desde tu agente. En español, prueba sin registro."
+2026-10-26T00:43:05.176135Z,al.ephemer/ephemeral,Ephemeral,1.0.0,,streamable-http,"Run AI agent tasks in isolated sandboxes with a cost cap, saved workflows and scoped connections."
+2026-10-26T00:45:19.356588Z,io.github.darrenjrobinson/entra-news-podcast,,0.3.0,https://github.com/darrenjrobinson/EntraNewsPodcastMCPServer,,Search Entra.Chat podcast transcripts — Merill Fernando's Microsoft Entra podcast on YouTube
+2026-10-26T00:45:27.26802Z,io.usefulapi/bukku,Bukku MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Bukku contacts, accounts, invoices, bills and journals; create contacts and sales invoices."
+2026-10-26T00:45:27.269133Z,io.usefulapi/kiotviet,KiotViet MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read KiotViet products, customers, invoices, orders and stock; create customers and orders."
+2026-10-26T00:45:27.269885Z,io.usefulapi/semble,Semble MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Semble patients, bookings, invoices and products; create patients and tasks, label patients."
+2026-10-26T00:45:27.413056Z,io.usefulapi/yuki,Yuki MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Yuki administrations, open invoices, ledger balances, contacts and documents."
+2026-10-26T00:47:33.038748Z,io.github.NANDI-Services/nandi-proxmox-mcp,,0.4.1,https://github.com/NANDI-Services/proxmox-mcp,,"MCP server for Proxmox VE management (VM, LXC, nodes)"
+2026-10-26T00:50:42.976748Z,io.github.David-rider/qimena-mcp,Qimena Qi Men Dun Jia & BaZi,1.0.0,https://github.com/David-rider/qimena-mcp,streamable-http,"Qi Men Dun Jia charts, BaZi Four Pillars, best-time ranking and solar terms. Free, no key."
+2026-10-26T00:51:07.897622Z,com.imaginou/imaginou,Imaginou,1.0.0,,streamable-http,"AI product videos from photos: showroom, presenter and comedic campaigns with storyboard approval."
+2026-10-26T00:54:45.314193Z,io.github.OpenImageDebugger/oid-mcp,OpenImageDebugger MCP,0.3.6,https://github.com/OpenImageDebugger/OpenImageDebugger,,MCP server giving AI agents eyes on OpenImageDebugger buffers in live gdb/lldb sessions
+2026-10-26T01:02:13.617803Z,wiki.wowdb/mcp,Azeroth DB: WoW Forever,0.2.0,https://github.com/azeroth-db/wowdb-mcp,streamable-http,"Search WoW Forever items, recipes, abilities and quests with page links from Azeroth DB."
+2026-10-26T01:08:07.668091Z,io.github.CloudCorpRecords/shelfsignal,ShelfSignal,0.1.0,https://github.com/CloudCorpRecords/shelfsignal,,"The open store index for AI agents: merchants list real stock, agents find local food and stores."
+2026-10-26T01:09:47.024228Z,trade.coil/stock-market-scanner,Coil Live,2.2.2,,streamable-http; streamable-http,"Scores 650+ US stocks and ETFs: regime, buy list, reads. Free delayed tier; live: x402 or license."
+2026-10-26T01:12:00.776219Z,io.github.idoo/app-store-connect-mcp,App Store Connect MCP,0.2.0,https://github.com/idoo/app-store-connect-mcp,,"MCP server for App Store Connect: releases, TestFlight, reviews, reports. Read-only by default."
+2026-10-26T01:14:04.887723Z,io.github.axworks1/one-design,One Design,0.2.4,https://github.com/axworks1/one-design-mcp,,"Image, brand, privacy and PDF tools from one.design, run on your own computer. Nothing uploaded."
