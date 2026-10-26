@@ -9,48 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 12:19 UTC
+## Latest list — 2026-10-26 13:22 UTC
 
-New MCP servers published between 2026-10-26 11:20 UTC and 2026-10-26 12:19 UTC.
+New MCP servers published between 2026-10-26 12:19 UTC and 2026-10-26 13:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-26T12-19-53-754354Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-26T13-22-00-237572Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-26 11:20:38 | com.clippingdaily/clipping-daily | Clipping Daily | 1.0.0 | Live clipping pay rates per 1,000 views, an earnings calculator and clipping gu… |
-| 2026-10-26 11:24:02 | io.github.swayammaheshwari/embarko-mcp | Embarko | 1.0.0 | Deploy and host AI-built apps and websites, and get a live URL without any DevO… |
-| 2026-10-26 11:25:33 | rent.beep/car-rental | BEEP.rent — car rental in Poland | 1.0.0 | Search, price and book rental cars across Poland; the customer confirms on beep… |
-| 2026-10-26 11:33:31 | [com.tracklution/server-side-tracking](https://github.com/tracklution/tracklution-cli) |  | 3.3.0 | Server-side conversion tracking, installed and configured by your AI coding age… |
-| 2026-10-26 11:37:57 | [io.github.mooshee/highlevel-agency-mcp](https://github.com/mooshee/highlevel-agency-mcp) | HighLevel Agency & Builder MCP | 1.0.0 | Full-stack GoHighLevel (GHL) MCP for funnels, client DNS/SSL, LeadShield spam b… |
-| 2026-10-26 11:40:55 | [io.github.psdgator/multi-gmail-account-mcp](https://github.com/psdgator/Multi-Gmail-Account-MCP) | Multi Gmail Account MCP | 0.3.0 | Many Gmail and IMAP accounts at once: unified search, triage, attachments, Cale… |
-| 2026-10-26 11:41:10 | [com.ghlagencymcp/highlevel-agency-mcp](https://github.com/mooshee/highlevel-agency-mcp) | HighLevel Agency & Builder MCP | 1.0.0 | Full-stack GoHighLevel (GHL) MCP for funnels, client DNS/SSL, LeadShield spam b… |
-| 2026-10-26 11:41:11 | [dev.ghlmcp/highlevel-agency-mcp](https://github.com/mooshee/highlevel-agency-mcp) | HighLevel Agency & Builder MCP | 1.0.0 | Full-stack GoHighLevel (GHL) MCP for funnels, client DNS/SSL, LeadShield spam b… |
-| 2026-10-26 11:41:11 | [app.ghlmcp/highlevel-agency-mcp](https://github.com/mooshee/highlevel-agency-mcp) | HighLevel Agency & Builder MCP | 1.0.0 | Full-stack GoHighLevel (GHL) MCP for funnels, client DNS/SSL, LeadShield spam b… |
-| 2026-10-26 11:42:30 | io.github.OpenConverters/kelvin | Kelvin — power electronics components | 0.1.0 | Read-only parts catalogue for power electronics: search, selection, cross-refer… |
-| 2026-10-26 11:42:53 | [work.dutiful/dutiful](https://github.com/dutiful-hq/dutiful-mcp) |  | 1.0.0 | Cited company background reports for agents from official registries. $3 per re… |
-| 2026-10-26 11:46:47 | [io.github.morvanvivien/bibian-data](https://github.com/morvanvivien/bibian-data-mcp) | Jobs and market data: France, Germany,… | 1.0.0 | Public job postings and market data for France, Germany, Spain and Latin Americ… |
-| 2026-10-26 11:47:40 | com.nokycscore/nokycscore | NoKYC Score | 1.0.0 | Search no-KYC exchanges, swaps, wallets and VPNs with privacy and safety grades. |
-| 2026-10-26 11:51:45 | [io.github.moneymanai/agentpad-mcp](https://github.com/moneymanai/agentpad-mcp) | AgentPad | 2.8.0 | AI-agent token launchpad on Base: quotes, tokens and unsigned launch/buy/sell/c… |
-| 2026-10-26 11:52:00 | com.yedabase/yedabase | YedaBase | 1.7.3 | Search and open investor records: family offices, VCs, funds of funds, permanen… |
-| 2026-10-26 11:52:29 | com.mailing-engineer/mcp | Mailing Engineer | 2.0.0 | E-Commerce Email Marketing, AI Newsletter Studio, DNS Audit & AWS SES Deliverab… |
-| 2026-10-26 11:54:45 | app.bulksheet/bulksheet | BulkSheet | 1.0.0 | Bulk edit Shopify products from an AI agent: search, preview, apply and undo ca… |
-| 2026-10-26 12:02:09 | [io.github.d3ltasecurity/opnsense-guard-mcp](https://github.com/d3ltasecurity/opnsense-guard-mcp) | OPNsense Guard | 0.1.0 | Safety-first OPNsense firewall MCP: read-only by default, planned and auto-reve… |
-| 2026-10-26 12:02:31 | [io.github.aloth/olcli](https://github.com/aloth/olcli) | olcli | 0.15.2 | Overleaf projects from an MCP client: files, compile and PDF, diff, comments an… |
-| 2026-10-26 12:03:58 | io.github.corent1robert/airbnb-pro-hosts | Airbnb Professional Host Leads | 1.0.0 | Airbnb professional hosts and property managers by city with business email, ph… |
-| 2026-10-26 12:03:59 | io.github.corent1robert/booking-pro-hosts | Booking.com Professional Host Leads | 1.0.0 | Booking.com professional hosts and hotel operators with emails, phones, company… |
-| 2026-10-26 12:04:00 | io.github.corent1robert/facebook-page-contacts | Facebook Page Contact Finder | 1.0.0 | Get email, phone, website and Instagram from public Facebook business pages for… |
-| 2026-10-26 12:04:01 | io.github.corent1robert/french-companies-data | French Companies Registry Data | 1.0.0 | French company data by SIREN or search: address, NAF code, directors, VAT and f… |
-| 2026-10-26 12:04:02 | io.github.corent1robert/iicrc-restoration-firms | IICRC Certified Restoration Firms | 1.0.0 | Find IICRC certified water damage, mold and restoration contractors in the US w… |
-| 2026-10-26 12:04:03 | io.github.corent1robert/investorlift-wholesale-deals | InvestorLift Wholesale Real Estate Deals | 1.0.0 | Wholesale real estate deals from InvestorLift: price, city, seller company and… |
-| 2026-10-26 12:04:03 | io.github.corent1robert/social-handle-checker | Social Handle Availability Checker | 1.0.0 | Check brand name availability on Instagram, TikTok, X, YouTube, GitHub and more… |
-| 2026-10-26 12:05:43 | [com.a2awire/data-pharma-news-biotech-industry-drug-development](https://github.com/ee324/a2awire) | STAT Pharma & Biotech Industry News — b… | 0.1.0 | STAT pharma & biotech industry news. $0.01/query. Register in-session — free te… |
-| 2026-10-26 12:08:37 | io.github.reydahq/reyda | Reyda MCP | 1.0.0 | Tender discovery and buyer intelligence. Read-only OAuth; client pre-registrati… |
-| 2026-10-26 12:09:53 | dev.apexly/mcp | Apexly | 1.0.0 | Add, check, diagnose and remove your SaaS customers' custom domains from any MC… |
-| 2026-10-26 12:13:15 | io.github.docmino/docmino | Docmino | 0.1.0 | Create, edit, organize, and share interactive guides, lessons, forms, and clien… |
-| 2026-10-26 12:14:57 | uz.birinchishop/shop | Birinchi Shop — Uzbekistan store | 1.0.0 | Shop products in Uzbekistan: search, prices with delivery, cash-on-delivery ord… |
-| 2026-10-26 12:14:57 | uz.birinchishop/partner | Birinchi Shop — CPA partner API | 1.0.0 | CPA affiliate network in Uzbekistan: offers, tracking links, orders, stats, Met… |
-| 2026-10-26 12:18:31 | com.meowapps/ai-engine | AI Engine for WordPress | 3.8.7 | Free MCP server for WordPress: Claude and ChatGPT connect with OAuth. No accoun… |
-| 2026-10-26 12:19:10 | [ai.vidofy/mcp](https://github.com/vidofy/mcp) | Vidofy | 0.1.3 | Generate video, images, audio and speech with Vidofy — Veo 3.1, Kling 3.0, Flux… |
+| 2026-10-26 12:22:12 | [io.github.table-bro/table-bro](https://github.com/table-bro/table-bro) | Table, Bro | 1.2.0 | Pixel-perfect Material (M3) data tables for your app in one prompt: Claude Code… |
+| 2026-10-26 12:24:15 | [io.github.ProAnima/uvcs-mcp](https://github.com/ProAnima/unity-version-control-mcp) | UVCS MCP | 1.4.1 | Safe Plastic SCM / Unity Version Control MCP: history, review, merge preview, a… |
+| 2026-10-26 12:28:42 | net.ashare/ashare | ashare.net | 1.0.0 | Share HTML and Markdown from AI agents. Readers comment, the agent fixes the do… |
+| 2026-10-26 12:31:48 | [io.github.UnbiasedAlpha/aurastream-mcp](https://github.com/UnbiasedAlpha/aurastream-mcp) | AuraStream | 0.1.6 | Historical market, macro, positioning and alt data from 45 sources through one… |
+| 2026-10-26 12:34:07 | [io.github.deliverd-dev/deliverd-screen](https://github.com/deliverd-dev/deliverd-sdk) | Deliverd Screen | 0.2.0 | Find and redact personal data and secrets in text before it reaches a model. Lo… |
+| 2026-10-26 12:35:48 | [io.github.kurosaki-yuto/kotsukotsu](https://github.com/kurosaki-yuto/kotsukotsu) | Kotsukotsu | 1.0.0 | Goal-based task manager for humans and AI. Read goals, add subtasks, report res… |
+| 2026-10-26 12:39:47 | [link.nepse/nepse](https://github.com/summonshr/nepse.link) | nepse.link | 1.1.0 | Nepal Stock Exchange data: prices, company filings, signals, broker flow, IPOs,… |
+| 2026-10-26 12:40:26 | org.safecreative/platform | Safe Creative Platform | 1.0.0 | Register events with a qualified timestamp and request certifications anyone ca… |
+| 2026-10-26 12:51:53 | [io.github.maskchanel14-source/po-pilot-mcp](https://github.com/maskchanel14-source/po-pilot-mcp) |  | 1.0.0 | Post-Stocky Shopify replenishment, MOQ Purchase Order generator, and 3-way invo… |
+| 2026-10-26 12:55:25 | fi.cleave/swap | Cleave for Agents: token swaps, cross-c… | 1.0.0 | Swap, bridge and get gas on 6 EVM chains. Each plan states its outcome before y… |
+| 2026-10-26 12:56:50 | io.doply/doply | Doply | 1.0.0 | Check your Google Play closed test on Doply: progress, devices, crashes, screen… |
+| 2026-10-26 12:59:29 | jp.gakudosagashi/gakudosagashi | 学童さがし (Gakudo Sagashi) | 1.0.0 | Compare private after-school care (gakudo) in all 23 Tokyo wards, from official… |
+| 2026-10-26 13:06:25 | io.github.heathermacavelia-cell/ai-agent-index | The AI Agent Index | 1.0.0 | Search AI agents and agencies: pricing, MCP support, integrations, categories a… |
+| 2026-10-26 13:08:01 | io.github.kamilkaczmareksolutions/polish-law-mcp | Polish Law MCP | 0.1.0 | Polish statutes (Dziennik Ustaw, ELI) and court rulings (SAOS) for AI agents. R… |
+| 2026-10-26 13:08:02 | io.github.kamilkaczmareksolutions/polish-public-registers | Polish Public Registers | 0.1.0 | Official Polish registers for agents: EU-funded tenders, EV charging, cars, per… |
+| 2026-10-26 13:08:11 | dev.workers.mike-tusa.postcodecheck/postcodecheck | PostCode Check | 0.1.0 | Validate and normalize postal codes offline for 252 countries and territories.… |
+| 2026-10-26 13:11:27 | net.apppage/app-data | AppPage.net - app websites & store data | 1.3.0 | App websites with privacy pages and app-ads.txt, plus Google Play & App Store a… |
+| 2026-10-26 13:14:30 | [com.mambabuilt/mcp-lookalike-company-finder](https://github.com/mambalabsdev/mcp-lookalike-company-finder) |  | 1.0.0 | Companies similar to seed domains, ranked by a 0 to 100 similarity score with e… |
+| 2026-10-26 13:14:32 | [com.mambabuilt/mcp-public-feature-board-roadmap-monitor](https://github.com/mambalabsdev/mcp-public-feature-board-roadmap-monitor) |  | 1.0.0 | A company's public feature board: top requests, votes, status, integration asks. |
+| 2026-10-26 13:14:34 | [com.mambabuilt/mcp-vc-accelerator-portfolio-list-builder](https://github.com/mambalabsdev/mcp-vc-accelerator-portfolio-list-builder) |  | 1.0.0 | Portfolio company lists from Y Combinator, a16z, Sequoia, Accel, and any VC por… |
+| 2026-10-26 13:14:38 | [com.mambabuilt/mcp-podcast-guest-host-finder](https://github.com/mambalabsdev/mcp-podcast-guest-host-finder) |  | 1.0.0 | Podcasts on a topic with host, feed owner email, cadence, recent guests, and gu… |
+| 2026-10-26 13:14:40 | [com.mambabuilt/mcp-newsletter-sponsor-tracker](https://github.com/mambalabsdev/mcp-newsletter-sponsor-tracker) |  | 1.0.0 | Who sponsors a newsletter, or which newsletters a brand sponsors, from public a… |
+| 2026-10-26 13:20:30 | com.nymwell/mcp | Nymwell | 1.0.0 | Search and buy domain names: live prices, buy links, renewals, transfers and ap… |
+| 2026-10-26 13:21:35 | [io.github.jordantete/verychic-mcp](https://github.com/jordantete/verychic-mcp) | VeryChic Hotel Deals | 0.4.1 | Unofficial read-only MCP server for VeryChic hotel offers |
 
 ## Data source
 
