@@ -9,44 +9,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 18:20 UTC
+## Latest list — 2026-10-26 19:21 UTC
 
-New MCP servers published between 2026-10-26 17:20 UTC and 2026-10-26 18:20 UTC.
+New MCP servers published between 2026-10-26 18:20 UTC and 2026-10-26 19:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-26T18-20-13-73356Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-26T19-21-22-197693Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-26 17:22:45 | dev.greenflagged/greenflagged | Greenflagged | 1.0.1 | Ask whether npm packages are reviewed and greenflagged, audit a package.json, a… |
-| 2026-10-26 17:24:34 | com.flomixy/mcp | Flomixy | 1.0.0 | Social media scheduling for agencies. AI drafts and schedules posts, a human ap… |
-| 2026-10-26 17:25:23 | [com.regulane/compliance](https://github.com/siddhantmallah/regulane-agent-plugin) | Regulane compliance check | 1.0.0 | Check code against secure-coding rules mapped to ISO 27001 and the DPDP Act. Fr… |
-| 2026-10-26 17:25:36 | [io.github.XRPL-Utilities/mcp](https://github.com/XRPL-Utilities/xrpl-utilities-mcp) | XRPL-Utilities | 0.2.204 | XRPL data tools for AI agents: wallet classifier, signals, RWA tracker, ETF flo… |
-| 2026-10-26 17:27:11 | com.gc-airporttransfers/booking | GC Airport Transfers | 2.3.3 | Gold Coast & Brisbane airport transfers: quotes, availability, booking requests… |
-| 2026-10-26 17:27:33 | [io.github.benthepythondev00/business-open-data-crypto](https://github.com/benthepythondev00/apify-web-data-mcp) | Business Data: Open Data, Crypto & Star… | 1.0.0 | Government open-data search, crypto prices, Fear & Greed, Bitcoin stats, FX rat… |
-| 2026-10-26 17:27:52 | [io.github.benthepythondev00/ad-library-intelligence](https://github.com/benthepythondev00/apify-web-data-mcp) | Ad Library Intelligence | 1.0.0 | Competitor ads from the Meta, Google and LinkedIn ad libraries plus ads.txt sel… |
-| 2026-10-26 17:28:01 | [io.github.benthepythondev00/socialblade-creator-stats](https://github.com/benthepythondev00/apify-web-data-mcp) | SocialBlade Creator Stats | 1.0.0 | YouTube, TikTok, Instagram and Twitch growth history and 7/30/90-day gains from… |
-| 2026-10-26 17:28:22 | team.golem/intel | Golem Intel | 2026.10.24 | Threat-intelligence verdicts on a URL, domain or IP before a coding agent conne… |
-| 2026-10-26 17:28:24 | [com.catchdoms/expired-domains](https://github.com/Sambel/catchdoms-mcp) | CatchDoms — Expired Domains API | 1.2.0 | Search 22 sources of expired domains with SEO metrics, 183,537 aged ccTLDs, and… |
-| 2026-10-26 17:34:34 | [io.github.swisspra/On_Board](https://github.com/swisspra/On_Board) | On Board | 4.1.0 | Cross-platform shared memory and ticket coordination for AI agents across MCP c… |
-| 2026-10-26 17:34:58 | dev.workers.dermatologicalbeautyllc.celadon-wholesale-mcp/celadon-wholesale | Celadon Wholesale | 1.1.0 | Wholesale Korean skincare for US resellers: case prices, retail margins and che… |
-| 2026-10-26 17:41:41 | [io.github.asiff00/scaps-mcp](https://github.com/asiff00/scaps-mcp) | SCAPS-1D | 0.1.0 | Design, simulate, fit and sanity-check thin-film solar cells with SCAPS-1D on y… |
-| 2026-10-26 17:44:48 | com.a2aboard/board | A2A Board | 1.0.0 | Public message board for AI agents: read what other agents left and post your o… |
-| 2026-10-26 17:45:42 | eu.taxxy/taxy | Taxy | 1.0.0 | Crypto and securities tax data: summaries, positions, lots, transactions; prepa… |
-| 2026-10-26 17:51:19 | [io.sociality/sociality-mcp](https://github.com/socialityio/sociality-mcp) | Sociality.io MCP | 1.0.0 | Social media analytics, post insights, and competitor benchmarking for AI agent… |
-| 2026-10-26 17:56:14 | [io.github.n-kostadinov/etoro-trading-mcp](https://github.com/n-kostadinov/etoro-trading-mcp) | eToro Trading MCP | 1.0.1 | 197 eToro API tools for agents: market data, watchlists, feeds, demo and real t… |
-| 2026-10-26 17:57:31 | [io.github.tking510/ai-reviewing](https://github.com/tking510/ai-reviewing) | ai-reviewing | 0.1.0 | Public AI-written review DB. recall before recommending; propose after use. |
-| 2026-10-26 17:57:43 | [io.github.godot-pty/gpty](https://github.com/godot-pty/gpty) | gPTY | 0.7.0 | Spawn panes, inject input and read output in a tiling terminal workspace |
-| 2026-10-26 17:59:20 | ai.polemia/quiz | Polemia | 1.0.0 | Make free live phone quizzes on any topic, find ready-made ones, and get a join… |
-| 2026-10-26 17:59:44 | ai.cardboard/cardboard | Cardboard AI | 1.0.0 | Edit your own videos by chatting in Claude or ChatGPT: cut, caption, add music… |
-| 2026-10-26 18:01:20 | com.kevwire/kevwire | KEVWire | 6.0.0 | Exploited vulnerabilities, critical CVEs, breaches and AI security incidents, w… |
-| 2026-10-26 18:02:15 | [io.github.javier-cabezas/cuda4cpu](https://github.com/javier-cabezas/cuda4cpu) | cuda4cpu | 0.4.0 | Compile, run and check CUDA and HIP kernels without a GPU: wrong results, races… |
-| 2026-10-26 18:05:41 | dev.fly.grok-backtest-api/crypto-quant | Grok Crypto Quant API | 0.2.0 | Pay-per-call crypto backtests, signals, token risk checks and universes (x402,… |
-| 2026-10-26 18:06:47 | [io.github.hifriendbot/agentwallet](https://github.com/hifriendbot/agentwallet-mcp) |  | 1.14.8 | Wallet infrastructure for Ai agents. EVM + Solana. x402 payments. No KYC. |
-| 2026-10-26 18:06:57 | la.desky/mcp | Desky | 1.0.0 | Find and book coworking spaces, meeting rooms and offices in Latin America from… |
-| 2026-10-26 18:08:11 | cz.hlidacsporeni/sporeni | Hlídač spoření | 1.0.0 | Czech savings accounts and term deposits: effective rates, net yield and condit… |
-| 2026-10-26 18:08:33 | com.dividendsolo.lab/pageroast | PageRoast | 1.0.0 | AI landing page roast: score /100, 5-second test, top 3 conversion problems quo… |
-| 2026-10-26 18:08:56 | help.getoffer/mianshi-web3-jobs | Mianshi Web3 Jobs Market Data | 1.0.0 | Web3 job market data: 4,500+ companies, 21,000+ live roles. Free stats, paid qu… |
-| 2026-10-26 18:15:29 | [io.github.VoxNode-ux/nullwire-mcp](https://github.com/VoxNode-ux/nullwire-mcp) | NullWire-MCP | 1.0.0 | RAM-only HTTP debugging proxy and MCP server in Go. AI agents see salted tags,… |
+| 2026-10-26 18:20:37 | uk.landbng/landbng | LandBNG | 1.0.0 | BNG income and cost estimates for land in England, GB grid headroom and plannin… |
+| 2026-10-26 18:21:59 | [io.github.b84330808/mcp-server-for-bambu](https://github.com/b84330808/mcp-server-for-bambu) | Bambu Lab Printer (LAN) | 0.3.0 | Unofficial. Status, AMS filament, print control and maintenance for Bambu Lab 3… |
+| 2026-10-26 18:22:37 | com.triremes/triremes | Triremes | 1.0.0 | Search real problems people have and business websites with poor SEO/AEO. Read-… |
+| 2026-10-26 18:23:08 | [com.prospectapis/prospectapis-mcp](https://github.com/ProspectAPIs/prospectapis-mcp) | ProspectAPIs | 0.4.1 | MCP server for prospectapis.com: funding rounds, email verification and cited r… |
+| 2026-10-26 18:26:45 | [io.github.ragionex/memory-mcp](https://github.com/ragionex/memory-mcp) |  | 0.6.0 | Persistent memory for AI agents - save once, recall in every session, project a… |
+| 2026-10-26 18:26:58 | com.dipper-search/dipper | Dipper | 1.0.0 | Web search and page fetch for AI agents. Results come from a shared cache; cach… |
+| 2026-10-26 18:31:16 | io.github.suhaH5/dukkani | Dukkani — Saudi grocery directory | 1.0.0 | Find Saudi neighbourhood groceries by city and district, and prepare a shopping… |
+| 2026-10-26 18:32:09 | info.sardine/sardine | Sardine: Kalshi crypto settlement histo… | 0.1.1 | How often Kalshi BTC/ETH/XRP contracts settled YES, counted not forecast, with… |
+| 2026-10-26 18:33:37 | [io.github.baronunread/rdyrct](https://github.com/baronunread/rdyrct) | rdyrct | 1.1.0 | Create and manage short links and QR codes, and read click analytics, on your o… |
+| 2026-10-26 18:37:42 | com.claspine/claspine | Claspine | 0.31.0 | Claspine docs, API reference and code checks for AI agents: guides, recipes, er… |
+| 2026-10-26 18:40:10 | [io.github.pooriaarab/apostilles](https://github.com/pooriaarab/directory) |  | 1.0.0 | Find the government office that issues your apostille. |
+| 2026-10-26 18:40:16 | [co.quizquiz/quiz-builder](https://github.com/davidbenicek/quizquiz-mcp) | quizquiz.co Quiz Builder | 0.2.0 | Turn quiz questions from your chat into a ready-to-play pub quiz on quizquiz.co. |
+| 2026-10-26 18:41:07 | [io.github.swswordholy-tech/agentschat-mcp](https://github.com/swswordholy-tech/AgentsChatProtocol) | AgentsChat — Shared MCP Rooms for AI Co… | 0.36.18 | Bring Claude Code, Codex, Cursor, OpenClaw, and Hermes into shared rooms over M… |
+| 2026-10-26 18:41:14 | [io.github.pooriaarab/esavendors](https://github.com/pooriaarab/directory) |  | 1.0.0 | Find learning vendors your education fund reimburses. |
+| 2026-10-26 18:41:52 | [io.github.pooriaarab/funeralcompare](https://github.com/pooriaarab/directory) |  | 1.0.0 | Compare funeral homes and cremation providers by what they publish. |
+| 2026-10-26 18:43:17 | [io.github.pooriaarab/opioidtreatment](https://github.com/pooriaarab/directory) |  | 1.0.0 | Find methadone and buprenorphine treatment near you. |
+| 2026-10-26 18:43:50 | net.agentcalls/agentcalls | AgentCalls | 2.0.0 | AI voice agents on real phone numbers: build agents, place and receive calls, r… |
+| 2026-10-26 18:45:18 | co.theoldways/library |  | 1.0.0 | Search historical texts and mythology references with citation URLs from The Ol… |
+| 2026-10-26 18:47:25 | ai.bindry/bindry | Bindry | 0.3.0 | Versioned skills and Binders for AI assistants. Requires a Bindry account and w… |
+| 2026-10-26 18:48:50 | [io.github.shuji-bonji/s1000d-brex-mcp](https://github.com/shuji-bonji/s1000d-brex-mcp) | S1000D BREX (S1000D Stack) | 0.1.1 | Read S1000D BREX business rules and check data modules against them, layer by l… |
+| 2026-10-26 18:48:53 | [io.github.shuji-bonji/s1000d-verify-mcp](https://github.com/shuji-bonji/s1000d-verify-mcp) | S1000D Verify (S1000D Stack) | 0.1.1 | Validate S1000D data modules: XSD, BREX chain and reference resolution as one v… |
+| 2026-10-26 18:48:57 | [ai.trags/poppy](https://github.com/trags-garden/poppy) |  | 0.3.6 | Developer memory CLI and MCP server. Remember decisions, preferences, and lesso… |
+| 2026-10-26 18:48:59 | com.cineflo/cineflo | CineFlo | 1.19.0 | Plan and run film productions: shot lists, breakdowns, schedules, call sheets,… |
+| 2026-10-26 18:49:07 | [io.github.shuji-bonji/s1000d-reader-mcp](https://github.com/shuji-bonji/s1000d-reader-mcp) | S1000D Reader (S1000D Stack) | 0.1.1 | Read S1000D data and publication modules as structure, with applicability and v… |
+| 2026-10-26 19:01:38 | [com.replyslip/replyslip](https://github.com/klahrich/replyslip) | ReplySlip | 0.1.0 | Relay for messages and schema-checked tasks between AI agents. |
+| 2026-10-26 19:03:04 | [io.github.simple-commenter/mcp-server](https://github.com/simple-commenter/mcp-server) | Simple Commenter | 1.5.0 | Search, export, triage, and manage authorized website and asset feedback in Sim… |
+| 2026-10-26 19:06:25 | br.com.ihelpu.seminovos/marketplace | iHelpU Seminovos — iPhones usados no RS | 1.0.0 | iPhones usados e seminovos à venda no RS (Brasil): estoque ao vivo, preços e 9… |
+| 2026-10-26 19:09:18 | io.github.Reztek-creator/data-agent-foundry | DATA/AGENT FOUNDRY | 1.0.1-mcp-proposal | Free catalogue; paid historical software/security evidence. No current-risk ass… |
+| 2026-10-26 19:10:48 | [io.github.GuardianVigil-Labs/prufgate](https://github.com/GuardianVigil-Labs/Prufgate) | PrufGate | 1.1.0 | Read-only tools that check whether code, and the tests that claim it works, are… |
+| 2026-10-26 19:12:52 | io.github.abdurshd/make-agent-fast | Make Agent Fast | 2.0.0 | Create customer-service agents, review conversations and leads, and improve ans… |
+| 2026-10-26 19:16:09 | [io.github.JanzenChen/gexno-web3](https://github.com/JanzenTeam/gexno) | Gexno Web3 | 0.1.0 | Free Ethereum wallet profile & NFT metadata MCP tools (no signup). |
+| 2026-10-26 19:16:33 | io.pigmentalab/mcp | PigmentaLab | 0.4.1 | DTF and textile pre-press: print check, background removal, upscaling, halftone… |
+| 2026-10-26 19:18:42 | [io.github.izabelamaria24/gracedb-mcp](https://github.com/izabelamaria24/gracedb-mcp) | GraceDB | 0.1.0 | LIGO/Virgo/KAGRA gravitational-wave alerts from GraceDB, plus public strain fro… |
+| 2026-10-26 19:19:17 | [io.github.SQLazy/tabularium](https://github.com/SQLazy/tabulariumx409) | Tabularium | 0.1.1 | Persistent, hash-chained agent memory. Pay per call in USDC over x402; verify h… |
 
 ## Data source
 

@@ -1,0 +1,35 @@
+created_at,server,title,version,repository,transports,description
+2026-10-26T18:20:37.037993Z,uk.landbng/landbng,LandBNG,1.0.0,,streamable-http,"BNG income and cost estimates for land in England, GB grid headroom and planning history"
+2026-10-26T18:21:59.398145Z,io.github.b84330808/mcp-server-for-bambu,Bambu Lab Printer (LAN),0.3.0,https://github.com/b84330808/mcp-server-for-bambu,,"Unofficial. Status, AMS filament, print control and maintenance for Bambu Lab 3D printers via LAN"
+2026-10-26T18:22:37.756645Z,com.triremes/triremes,Triremes,1.0.0,,streamable-http,"Search real problems people have and business websites with poor SEO/AEO. Read-only, free."
+2026-10-26T18:23:08.559979Z,com.prospectapis/prospectapis-mcp,ProspectAPIs,0.4.1,https://github.com/ProspectAPIs/prospectapis-mcp,,"MCP server for prospectapis.com: funding rounds, email verification and cited research briefs."
+2026-10-26T18:26:45.396962Z,io.github.ragionex/memory-mcp,,0.6.0,https://github.com/ragionex/memory-mcp,,"Persistent memory for AI agents - save once, recall in every session, project and tool."
+2026-10-26T18:26:58.155371Z,com.dipper-search/dipper,Dipper,1.0.0,,streamable-http; streamable-http,Web search and page fetch for AI agents. Results come from a shared cache; cached calls cost less.
+2026-10-26T18:31:16.986815Z,io.github.suhaH5/dukkani,Dukkani — Saudi grocery directory,1.0.0,,streamable-http,"Find Saudi neighbourhood groceries by city and district, and prepare a shopping list to send them."
+2026-10-26T18:32:09.097611Z,info.sardine/sardine,Sardine: Kalshi crypto settlement history,0.1.1,,streamable-http,"How often Kalshi BTC/ETH/XRP contracts settled YES, counted not forecast, with a public record"
+2026-10-26T18:33:37.961698Z,io.github.baronunread/rdyrct,rdyrct,1.1.0,https://github.com/baronunread/rdyrct,streamable-http,"Create and manage short links and QR codes, and read click analytics, on your own domain."
+2026-10-26T18:37:42.248943Z,com.claspine/claspine,Claspine,0.31.0,,streamable-http,"Claspine docs, API reference and code checks for AI agents: guides, recipes, errors, upgrades."
+2026-10-26T18:40:10.58617Z,io.github.pooriaarab/apostilles,,1.0.0,https://github.com/pooriaarab/directory,streamable-http,Find the government office that issues your apostille.
+2026-10-26T18:40:16.864782Z,co.quizquiz/quiz-builder,quizquiz.co Quiz Builder,0.2.0,https://github.com/davidbenicek/quizquiz-mcp,streamable-http,Turn quiz questions from your chat into a ready-to-play pub quiz on quizquiz.co.
+2026-10-26T18:41:07.86664Z,io.github.swswordholy-tech/agentschat-mcp,AgentsChat — Shared MCP Rooms for AI Coding Agents,0.36.18,https://github.com/swswordholy-tech/AgentsChatProtocol,,"Bring Claude Code, Codex, Cursor, OpenClaw, and Hermes into shared rooms over MCP to collaborate."
+2026-10-26T18:41:14.844058Z,io.github.pooriaarab/esavendors,,1.0.0,https://github.com/pooriaarab/directory,streamable-http,Find learning vendors your education fund reimburses.
+2026-10-26T18:41:52.87129Z,io.github.pooriaarab/funeralcompare,,1.0.0,https://github.com/pooriaarab/directory,streamable-http,Compare funeral homes and cremation providers by what they publish.
+2026-10-26T18:43:17.019337Z,io.github.pooriaarab/opioidtreatment,,1.0.0,https://github.com/pooriaarab/directory,streamable-http,Find methadone and buprenorphine treatment near you.
+2026-10-26T18:43:50.109232Z,net.agentcalls/agentcalls,AgentCalls,2.0.0,,streamable-http,"AI voice agents on real phone numbers: build agents, place and receive calls, read call summaries."
+2026-10-26T18:45:18.485559Z,co.theoldways/library,,1.0.0,,streamable-http,Search historical texts and mythology references with citation URLs from The Old Ways library.
+2026-10-26T18:47:25.112117Z,ai.bindry/bindry,Bindry,0.3.0,,streamable-http,Versioned skills and Binders for AI assistants. Requires a Bindry account and workspace API key.
+2026-10-26T18:48:50.675245Z,io.github.shuji-bonji/s1000d-brex-mcp,S1000D BREX (S1000D Stack),0.1.1,https://github.com/shuji-bonji/s1000d-brex-mcp,,"Read S1000D BREX business rules and check data modules against them, layer by layer."
+2026-10-26T18:48:53.551293Z,io.github.shuji-bonji/s1000d-verify-mcp,S1000D Verify (S1000D Stack),0.1.1,https://github.com/shuji-bonji/s1000d-verify-mcp,,"Validate S1000D data modules: XSD, BREX chain and reference resolution as one verification status."
+2026-10-26T18:48:57.70338Z,ai.trags/poppy,,0.3.6,https://github.com/trags-garden/poppy,,"Developer memory CLI and MCP server. Remember decisions, preferences, and lessons locally."
+2026-10-26T18:48:59.581733Z,com.cineflo/cineflo,CineFlo,1.19.0,,streamable-http,"Plan and run film productions: shot lists, breakdowns, schedules, call sheets, budgets and more."
+2026-10-26T18:49:07.345807Z,io.github.shuji-bonji/s1000d-reader-mcp,S1000D Reader (S1000D Stack),0.1.1,https://github.com/shuji-bonji/s1000d-reader-mcp,,"Read S1000D data and publication modules as structure, with applicability and verification status."
+2026-10-26T19:01:38.788425Z,com.replyslip/replyslip,ReplySlip,0.1.0,https://github.com/klahrich/replyslip,streamable-http,Relay for messages and schema-checked tasks between AI agents.
+2026-10-26T19:03:04.625925Z,io.github.simple-commenter/mcp-server,Simple Commenter,1.5.0,https://github.com/simple-commenter/mcp-server,streamable-http,"Search, export, triage, and manage authorized website and asset feedback in Simple Commenter."
+2026-10-26T19:06:25.304515Z,br.com.ihelpu.seminovos/marketplace,iHelpU Seminovos — iPhones usados no RS,1.0.0,,streamable-http,"iPhones usados e seminovos à venda no RS (Brasil): estoque ao vivo, preços e 9 lojas iHelpU."
+2026-10-26T19:09:18.506352Z,io.github.Reztek-creator/data-agent-foundry,DATA/AGENT FOUNDRY,1.0.1-mcp-proposal,,streamable-http,Free catalogue; paid historical software/security evidence. No current-risk assessment.
+2026-10-26T19:10:48.742419Z,io.github.GuardianVigil-Labs/prufgate,PrufGate,1.1.0,https://github.com/GuardianVigil-Labs/Prufgate,,"Read-only tools that check whether code, and the tests that claim it works, are real."
+2026-10-26T19:12:52.010122Z,io.github.abdurshd/make-agent-fast,Make Agent Fast,2.0.0,,streamable-http,"Create customer-service agents, review conversations and leads, and improve answers."
+2026-10-26T19:16:09.218135Z,io.github.JanzenChen/gexno-web3,Gexno Web3,0.1.0,https://github.com/JanzenTeam/gexno,streamable-http,Free Ethereum wallet profile & NFT metadata MCP tools (no signup).
+2026-10-26T19:16:33.774018Z,io.pigmentalab/mcp,PigmentaLab,0.4.1,,streamable-http,"DTF and textile pre-press: print check, background removal, upscaling, halftones and gang sheets."
+2026-10-26T19:18:42.09341Z,io.github.izabelamaria24/gracedb-mcp,GraceDB,0.1.0,https://github.com/izabelamaria24/gracedb-mcp,,"LIGO/Virgo/KAGRA gravitational-wave alerts from GraceDB, plus public strain from GWOSC."
+2026-10-26T19:19:17.892079Z,io.github.SQLazy/tabularium,Tabularium,0.1.1,https://github.com/SQLazy/tabulariumx409,,"Persistent, hash-chained agent memory. Pay per call in USDC over x402; verify history offline."
