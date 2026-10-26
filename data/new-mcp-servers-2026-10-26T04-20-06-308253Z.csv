@@ -1,0 +1,146 @@
+created_at,server,title,version,repository,transports,description
+2026-10-26T03:19:36.155017Z,com.multiplayeragent/multiplayer-agent,Multiplayer Agent,1.0.0,https://github.com/natepac/multiplayer-agent,streamable-http,Make any browser game multiplayer and host it at a share link. No account needed to start.
+2026-10-26T03:29:33.372401Z,dev.seblabs/seblabs,Seb Labs,1.1.0,,streamable-http,"Typed AI decisions for agents: classify, route, screen evidence, score and batch-label text."
+2026-10-26T03:31:37.583265Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/bazaar,Eclipse Bazaar MCP,0.1.0,https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/bazaar-mcp,,Discover agent tools by problem: every listing carries its Test Bench verdict or says it has none.
+2026-10-26T03:31:45.235275Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/agent-wallet,Eclipse Agent Wallet MCP,0.1.0,https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/agent-wallet-mcp,,"Policy-scoped agent wallet: caps, recipient allowlist, human approvals, kill switch, audit trail."
+2026-10-26T03:33:27.548339Z,com.sfxengine/sfx-engine,SFX Engine,1.0.0,,streamable-http,"Generate sound effects and music from text for games, apps and videos. Returns audio file URLs."
+2026-10-26T03:33:37.635395Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/friction,Eclipse Friction MCP,0.1.0,,,"Signed agent-only friction board: findings backed by verified trace packs, in a closed vocabulary."
+2026-10-26T03:35:31.877782Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/agent-ready,AgentReady MCP,0.1.0,,,"Can an AI agent actually buy from your store? Score it, see the evidence, fix the gaps."
+2026-10-26T03:35:48.339406Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/airtime,Eclipse Airtime MCP,0.1.0,,,Eclipse Airtime — mandate-bound ad operations.
+2026-10-26T03:36:00.759124Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/aperture,Eclipse Aperture MCP,0.1.0,,,"The Instagram adapter, formalized: capability-declared, hash-bound native variants for Feed"
+2026-10-26T03:36:12.982579Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/apply,Eclipse Apply MCP,0.1.0,,,"The auto-apply tool that shows its work — policy-scoped autonomy, review-first, receipts for"
+2026-10-26T03:36:27.29041Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/attest,Eclipse Attest MCP,0.1.0,,,"signed performance attestations for agents, issued only against settled, receipt-backed work"
+2026-10-26T03:36:38.908948Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/beacon,Eclipse Beacon MCP,0.1.0,,,The insurance watcher — signals your policies' expiries before they happen. It does not insure
+2026-10-26T03:36:41.085012Z,com.caliberapi/pistol-optics,CaliberAPI Pistol Optic Fit,1.0.0,,streamable-http,"Source-cited pistol red dot compatibility: direct fits, adapter plates and optic footprints."
+2026-10-26T03:36:51.743859Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/bidmatrix,Eclipse BidMatrix MCP,0.1.0,,,"Drop in a solicitation, get back the compliance matrix — Section L/M extraction, requirements"
+2026-10-26T03:37:03.820463Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/blackbox,Eclipse Blackbox MCP,0.1.0,,,"The record that survives the agent: append-only, recorder-signed, and graded by proof — never by"
+2026-10-26T03:37:17.667524Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/book,Eclipse Book MCP,0.1.0,,,"Market data + venue access layer — not an exchange: one book, one fee truth, one ledger of record."
+2026-10-26T03:37:31.282175Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/census,Eclipse Census MCP,0.1.0,,,Agent discovery & inventory of record.
+2026-10-26T03:37:46.451077Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/charter,Eclipse Charter MCP,0.1.0,,,Your broker watches its own account. Charter watches your rules — across all of your accounts.
+2026-10-26T03:38:01.025643Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/cluster,Eclipse Cluster MCP,0.1.0,,,"Signed images, governed runtimes — the gate runs first: no verified signature and provenance, no"
+2026-10-26T03:38:11.404724Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/codex,Eclipse Codex MCP,0.1.0,,,"Banking regulation as data: a citation-exact library, a deadline engine, sanctions screening, and"
+2026-10-26T03:38:25.733741Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/colophon,Eclipse Colophon MCP,0.1.0,,,"Catalog of record for books: signed titles, rights, prices & royalties, checked everywhere they"
+2026-10-26T03:38:36.450851Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/compass,Eclipse Compass MCP,0.1.0,,,"The Thumbtack adapter: one approved Task Brief becomes a native Thumbtack request, and a hire runs"
+2026-10-26T03:38:48.852959Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/connect,Eclipse Connect MCP,0.1.0,,,The MCP face of the hosted OAuth bridge — agents upload to YouTube through a human-granted
+2026-10-26T03:39:01.070011Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/consent,Eclipse Consent MCP,0.1.0,,,"per-agent, per-purpose consent receipts for personal data — a grant an agent must present, and a"
+2026-10-26T03:39:15.494703Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/constellation,Eclipse Constellation MCP,0.1.0,,,"The governed, vendor-neutral VM fleet layer for agents: one policy, one receipt ledger, every cloud"
+2026-10-26T03:39:28.106727Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/countermark,Eclipse Countermark MCP,0.1.0,,,One verification call for third-party agent cards and payment mandates — a receipted verdict a
+2026-10-26T03:39:37.705628Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/covenant,Eclipse Covenant MCP,0.1.0,,,"Consent-bound lead work for real-estate agents — provenance on every lead, a Gate on every send, a"
+2026-10-26T03:39:53.731607Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/crosswalk,Eclipse Crosswalk MCP,0.1.0,,,"Multi-regime AI-obligation mapping — which AI laws bind your systems, what evidence satisfies each."
+2026-10-26T03:40:07.077136Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/deepfield,Eclipse Deep Field MCP,0.1.0,,,"The governed database layer for agents — every store in one look, under policy: read-only by"
+2026-10-26T03:40:21.953455Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/dispatch,Eclipse Dispatch MCP,0.1.0,,,"Drafts once, syndicates drafts everywhere sanctioned, unifies the analytics. Never publishes"
+2026-10-26T03:40:37.656842Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/docket,Eclipse Docket MCP,0.1.0,,,"Agent-to-agent dispute process — structured claims, evidence packs, recorded determinations. Not a"
+2026-10-26T03:40:52.330434Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/environment,Eclipse Environment MCP,0.1.0,,,"The smart-environment module — scopes an agent's authority to actuate a home, tier by tier, and"
+2026-10-26T03:41:04.561222Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/envoy,Eclipse Envoy MCP,0.1.0,,,"The signed front door for agent-to-agent business: vetted in, tier-told, drafted — never bound"
+2026-10-26T03:41:15.556027Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/fathom,Eclipse Fathom MCP,0.1.0,,,"DeFi, measured honestly: signed protocol registry, dual-source risk reads, and an allowance audit"
+2026-10-26T03:41:16.366499Z,io.github.solaradex/advan,Advan: Solana trading tools,0.1.0,https://github.com/solaradex/Advan,streamable-http,"Non-custodial Solana trading MCP: Jupiter quotes/swaps, token risk, portfolio. x402-paid."
+2026-10-26T03:41:27.55847Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/fedscope,FedScope MCP,0.1.0,,,Federal + state opportunity search with fit and newcomer scoring and plain-language summaries — not
+2026-10-26T03:41:38.748349Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/forecast,Eclipse Forecast MCP,0.1.0,,,"The Polymarket adapter: the venue's prices, with their criteria and liquidity attached."
+2026-10-26T03:41:51.242117Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/gig-core,Eclipse Gig Core MCP,0.1.0,,,"One approved Task Brief, every marketplace: hash-bound briefs, all-in quotes, and a hire that runs"
+2026-10-26T03:42:04.070521Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/haven,Eclipse Haven MCP,0.1.0,,,"The governed Zendesk server: OAuth-first, drafts until approved, and a receipt for every touch."
+2026-10-26T03:42:16.77238Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/health-check,Eclipse Health Check MCP,0.1.0,,,Scan an MCP server or agent configuration for security posture — evidence-bound findings
+2026-10-26T03:42:30.246057Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/herald,Eclipse Herald MCP,0.1.0,,,"Signed Agent Cards, policy-gated delegation, certification before hire."
+2026-10-26T03:42:43.030475Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/keyhold,Eclipse Keyhold MCP,0.1.0,,,"credential leases, never raw keys — scoped, expiring secret leases for agents; the agent gets a"
+2026-10-26T03:42:56.879117Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/ledger,Eclipse Ledger MCP,0.1.0,,,"Eclipse Ledger — betting records, price comparison, and responsible-gambling controls. Not a"
+2026-10-26T03:43:08.824927Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/lineage,Eclipse Lineage MCP,0.1.0,,,"spawn trees, model/config lineage, and version ancestry for agents — who spawned whom, running"
+2026-10-26T03:43:20.530308Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/mail,Eclipse Mail MCP,0.1.0,,,"Governed agent email identity — review-first sending, signed envelopes, and a fraud firewall that"
+2026-10-26T03:43:33.728316Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/marquee,Eclipse Marquee MCP,0.1.0,,,"The live-events agent: it finds the event, watches the price, buys only inside your mandate, and"
+2026-10-26T03:43:47.297231Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/meridian,Eclipse Meridian MCP,0.1.0,,,"Governed telehealth operations — jurisdiction-gated encounters, signed-note integrity, PHI access"
+2026-10-26T03:43:58.230347Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/meter,Eclipse Meter MCP,0.1.0,,,"Cross-provider agent spend analytics — one ledger for tokens, tools, and payments."
+2026-10-26T03:44:10.601376Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/muster,Eclipse Muster MCP,0.1.0,,,"The Customer Graph core: one register of the people an account serves, with provenance on every"
+2026-10-26T03:44:24.210886Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/orbit,Eclipse Orbit MCP,0.1.0,,,"The HubSpot wrap: the vendor's server, under policy — classified tools, approval gates, masking"
+2026-10-26T03:44:37.783389Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/pantry,Eclipse Pantry MCP,0.1.0,,,The unattended-retail module — reads vending fleets' own telemetry and predicts stock-outs. It
+2026-10-26T03:44:51.419254Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/procure,Eclipse Procure MCP,0.1.0,,,"Intent to receipt in one fail-closed pipeline — policy before payment, abort on drift, proof for"
+2026-10-26T03:45:06.413403Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/proof,Eclipse Proof MCP,0.1.0,,,"Governed video production — Herald-signed approval pins over exact edit states, hash-pinned"
+2026-10-26T03:45:18.696678Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/proving,Eclipse Proving MCP,0.1.0,,,"Governed bench access for agents — signed mandates, pinned artifacts, evidence for every session."
+2026-10-26T03:45:30.906215Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/redteam,Eclipse Redteam MCP,0.1.0,,,Adversarial simulation for AI agents — sandboxed twins only.
+2026-10-26T03:45:44.969201Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/revoke,Eclipse Revoke MCP,0.1.0,,,"signed revocation lists for agent cards, keys, and mandates — one feed, every registry, revocation"
+2026-10-26T03:45:58.192805Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/section508,Section 508 Evidence MCP,0.1.0,,,WCAG + Section 508 audits that produce the deliverable federal buyers actually require
+2026-10-26T03:46:07.98073Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/social-core,Eclipse Social Core MCP,0.1.0,,,"One canonical, hash-bound package behind every Eclipse social adapter. It publishes nothing itself"
+2026-10-26T03:46:20.450992Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/span,Eclipse Span MCP,0.1.0,,,"Delegation-chain governance: spawn limits, depth caps, mandate attenuation"
+2026-10-26T03:46:32.550676Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/stage,Eclipse Stage MCP,0.1.0,,,"The console bridge — deploy and playtest AI-built games on your own Dev Mode console, with receipts."
+2026-10-26T03:46:44.628577Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/steward,Eclipse Steward MCP,0.1.0,,,"Team-chat agent governance — the signed mandate, verified disclosure, review-first posting and"
+2026-10-26T03:47:17.603566Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/strike,Eclipse Strike MCP,0.1.0,,,"The Coinbase exchange adapter: spot products and books, normalized into the suite's one book."
+2026-10-26T03:47:35.28955Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/tether,Eclipse Tether MCP,0.1.0,,,"Governed robot task authority — signed mandates, bounded envelopes, evidence for every task."
+2026-10-26T03:47:49.477653Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/thread,Eclipse Thread MCP,0.1.0,,,"On-prem bridges for the legacy software-engineering toolchain, plus the Evidence Weaver that joins"
+2026-10-26T03:48:01.592681Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/till,Eclipse Till MCP,0.1.0,,,"Bazaar checkout for agents — quote, mandate, signed entitlement, delivery, receipt, refund."
+2026-10-26T03:48:22.017054Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/tripwire,Eclipse Tripwire MCP,0.1.0,,,"Runaway enforcement — spawn, loop, and spend-velocity detection with automatic mandate freeze."
+2026-10-26T03:48:34.643615Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/trunk,Eclipse Trunk MCP,0.1.0,,,The governed Twilio adapter: every call and text under consent + mandate.
+2026-10-26T03:48:49.253633Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/umbra,Eclipse Umbra MCP,0.1.0,,,"The closed-vocabulary witness: cross-registry lookalike and endpoint-change watch, findings as"
+2026-10-26T03:49:04.436438Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/voice-core,Eclipse Voice Core MCP,0.1.0,,,The Consent Registry and Number Registry every Eclipse telephony adapter obeys.
+2026-10-26T03:49:14.328588Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/wageward,Eclipse Wageward MCP,0.1.0,,,"Payroll approval-and-evidence rail for agents — approve the exact run, or it refuses."
+2026-10-26T03:49:27.152612Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/zenith,Eclipse Zenith MCP,0.1.0,,,"The fitness module of Eclipse Procure — reads the machine, turns the dial under a safety ladder"
+2026-10-26T03:49:38.713686Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/zephyr,Eclipse Zephyr MCP,0.1.0,,,"The Bluesky adapter: real public reads over the open AT Protocol, with review-first and house caps"
+2026-10-26T03:49:51.397563Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/florida-bid-intel,Florida Bid Intel MCP,0.1.0,,,"Florida bid intelligence with honest deadlines — real competitions, real due dates, gaps stated not"
+2026-10-26T03:50:07.50033Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/hostbridge,HostBridge MCP,0.1.0,,,"The sanctioned path for agents to deploy websites to shared hosting — scoped deploys, snapshots"
+2026-10-26T03:50:18.97198Z,com.republeq/merchant,Republeq Merchant MCP,1.0.0,,streamable-http,"Hosted shopping-agent tools for catalog browsing, checkout, and refund requests with owner approval."
+2026-10-26T03:50:55.830948Z,io.github.DarkWorldCoder/market-mirror,MarketMirror,0.4.2,https://github.com/DarkWorldCoder/market-mirror,,"Test ads, prices and sales pitches on simulated buyers; get a go / iterate / no-go report."
+2026-10-26T03:52:48.250274Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/connect-beyondcompare,Eclipse Connect · Beyond Compare MCP,0.1.0,,,"Mandate-bound compare/merge custody for agents: signed path grants, hash-chained compare packs."
+2026-10-26T03:53:07.342465Z,io.github.pipeworx-io/frankfurter,Frankfurter,0.1.3,https://github.com/pipeworx-io/mcp-frankfurter,streamable-http,Frankfurter MCP — wraps Frankfurter API (api.frankfurter.dev)
+2026-10-26T03:53:14.434285Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-loft-mcp,Eclipse Loft MCP,0.1.0,https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-loft-mcp,,"Governed design-to-print authority for agents — signed provenance from model to machine, safety"
+2026-10-26T03:53:37.809404Z,io.github.pipeworx-io/frinkiac,Frinkiac,0.1.3,https://github.com/pipeworx-io/mcp-frinkiac,streamable-http,Frinkiac + Morbotron + Master of All Science MCP.
+2026-10-26T03:53:47.960508Z,io.github.pipeworx-io/fruityvice,Fruityvice,1.0.3,https://github.com/pipeworx-io/mcp-fruityvice,streamable-http,"Fruityvice MCP — wraps Fruityvice API (free, no auth)"
+2026-10-26T03:54:08.382915Z,io.github.pipeworx-io/fuel-prices,Fuel Prices,0.1.3,https://github.com/pipeworx-io/mcp-fuel-prices,streamable-http,"Retail petrol, diesel and LPG prices across Europe, by country and week."
+2026-10-26T03:54:18.434665Z,io.github.pipeworx-io/funcheap,Funcheap,0.1.3,https://github.com/pipeworx-io/mcp-funcheap,streamable-http,Funcheap (SF Bay Area) MCP.
+2026-10-26T03:54:28.717817Z,io.github.pipeworx-io/futuur,Futuur,0.1.3,https://github.com/pipeworx-io/mcp-futuur,streamable-http,Futuur Prediction Market MCP.
+2026-10-26T03:54:39.281455Z,io.github.pipeworx-io/fyyd,Fyyd,0.1.3,https://github.com/pipeworx-io/mcp-fyyd,streamable-http,fyyd MCP — open podcast directory
+2026-10-26T03:54:49.962177Z,io.github.pipeworx-io/gamedeals,Gamedeals,1.0.3,https://github.com/pipeworx-io/mcp-gamedeals,streamable-http,"Gamedeals MCP — wraps CheapShark API (game deal aggregator, no auth required)"
+2026-10-26T03:55:01.219077Z,io.github.pipeworx-io/gaming-feeds,Gaming Feeds,0.1.3,https://github.com/pipeworx-io/mcp-gaming-feeds,streamable-http,Gaming Feeds MCP.
+2026-10-26T03:55:11.340701Z,io.github.pipeworx-io/gao-protests,Gao Protests,0.1.3,https://github.com/pipeworx-io/mcp-gao-protests,streamable-http,GAO Bid-Protest Decisions MCP — reads the gao_bid_protests table (ingested daily by…
+2026-10-26T03:55:30.007857Z,io.github.pipeworx-io/gastat,Gastat,0.1.3,https://github.com/pipeworx-io/mcp-gastat,streamable-http,GASTAT MCP — Saudi Arabia's General Authority for Statistics.
+2026-10-26T03:55:55.833032Z,io.github.pipeworx-io/gbif,Gbif,1.0.3,https://github.com/pipeworx-io/mcp-gbif,streamable-http,"GBIF MCP — wraps the Global Biodiversity Information Facility API v1 (free, no auth)"
+2026-10-26T03:56:15.157092Z,io.github.pipeworx-io/gbizinfo,Gbizinfo,0.1.3,https://github.com/pipeworx-io/mcp-gbizinfo,streamable-http,"gBizINFO — Japanese corporate registry, from METI (経済産業省)."
+2026-10-26T03:56:25.894144Z,io.github.pipeworx-io/gdacs,Gdacs,0.1.3,https://github.com/pipeworx-io/mcp-gdacs,streamable-http,GDACS MCP — Global Disaster Alert and Coordination System.
+2026-10-26T03:56:36.029987Z,io.github.pipeworx-io/gdc,Gdc,0.1.3,https://github.com/pipeworx-io/mcp-gdc,streamable-http,NCI Genomic Data Commons (GDC) MCP.
+2026-10-26T03:56:56.133213Z,io.github.pipeworx-io/gemini-crypto,Gemini Crypto,0.1.3,https://github.com/pipeworx-io/mcp-gemini-crypto,streamable-http,Gemini Exchange MCP (public endpoints).
+2026-10-26T03:57:05.977435Z,io.github.pipeworx-io/genderize,Genderize,1.0.3,https://github.com/pipeworx-io/mcp-genderize,streamable-http,"Genderize MCP — gender prediction from first name (genderize.io, free, no auth)"
+2026-10-26T03:57:16.215503Z,io.github.pipeworx-io/genius,Genius,0.1.4,https://github.com/pipeworx-io/mcp-genius,streamable-http,Genius MCP — wraps the Genius API (api.genius.com)
+2026-10-26T03:57:27.276128Z,io.github.pipeworx-io/geo,Geo,0.1.3,https://github.com/pipeworx-io/mcp-geo,streamable-http,Geo MCP — geographic utilities from free public APIs
+2026-10-26T03:57:37.493833Z,io.github.pipeworx-io/geo-reconcile,Geo Reconcile,0.1.5,https://github.com/pipeworx-io/mcp-geo-reconcile,streamable-http,Wikidata <-> OpenStreetMap reconciliation.
+2026-10-26T03:57:47.574577Z,io.github.pipeworx-io/geoapify,Geoapify,0.1.3,https://github.com/pipeworx-io/mcp-geoapify,streamable-http,Geoapify MCP — wraps the Geoapify Location Platform (geoapify.com)
+2026-10-26T03:57:57.318424Z,io.github.pipeworx-io/geoboundaries,Geoboundaries,0.1.3,https://github.com/pipeworx-io/mcp-geoboundaries,streamable-http,geoBoundaries MCP — open database of political administrative boundaries.
+2026-10-26T03:58:07.559192Z,io.github.pipeworx-io/geocodio,Geocodio,0.1.3,https://github.com/pipeworx-io/mcp-geocodio,streamable-http,Geocodio MCP — wraps the Geocodio geocoding API (geocod.io)
+2026-10-26T03:58:17.598965Z,io.github.pipeworx-io/geonames,Geonames,0.1.3,https://github.com/pipeworx-io/mcp-geonames,streamable-http,GeoNames MCP — GeoNames geographical database API
+2026-10-26T03:58:27.63784Z,io.github.pipeworx-io/geonet-nz,Geonet Nz,0.1.3,https://github.com/pipeworx-io/mcp-geonet-nz,streamable-http,GeoNet New Zealand MCP.
+2026-10-26T03:58:37.561751Z,io.github.pipeworx-io/georgia-archives,Georgia Archives,0.1.3,https://github.com/pipeworx-io/mcp-georgia-archives,streamable-http,National Archives of Georgia MCP — the three catalogues the archives publish.
+2026-10-26T03:58:58.095007Z,io.github.pipeworx-io/georgia-energy,Georgia Energy,0.1.3,https://github.com/pipeworx-io/mcp-georgia-energy,streamable-http,Georgia (country) electricity system — live grid telemetry and regulator statistics.
+2026-10-26T03:59:08.130983Z,io.github.pipeworx-io/georgia-heritage,Georgia Heritage,0.1.3,https://github.com/pipeworx-io/mcp-georgia-heritage,streamable-http,Georgia (the country) — National Register of Immovable Cultural Heritage.
+2026-10-26T03:59:28.470468Z,io.github.pipeworx-io/gets-nz,Gets Nz,0.1.3,https://github.com/pipeworx-io/mcp-gets-nz,streamable-http,GETS NZ MCP — New Zealand Government Electronic Tenders Service (keyless).
+2026-10-26T03:59:28.988398Z,io.github.CloudCorpRecords/prodforge,ProdForge,0.5.0,https://github.com/CloudCorpRecords/prodforge,,"Connects MCP servers, packages, security checks, and release gates in one repo."
+2026-10-26T03:59:49.620744Z,io.github.pipeworx-io/giphy,Giphy,0.1.3,https://github.com/pipeworx-io/mcp-giphy,streamable-http,"Giphy MCP — wraps Giphy API (public beta key, free)"
+2026-10-26T04:00:00.843429Z,io.github.pipeworx-io/gistemp,Gistemp,0.1.3,https://github.com/pipeworx-io/mcp-gistemp,streamable-http,"GISTEMP MCP — NASA Goddard Institute for Space Studies Surface Temperature Analysis (free, no auth)"
+2026-10-26T04:00:21.047441Z,io.github.pipeworx-io/github_private,Github_private,0.1.3,https://github.com/pipeworx-io/mcp-github_private,streamable-http,"GitHub Private MCP Pack — access private repos, org data via OAuth. Complements the existing…"
+2026-10-26T04:00:31.808534Z,io.github.pipeworx-io/gitignore,Gitignore,0.1.3,https://github.com/pipeworx-io/mcp-gitignore,streamable-http,gitignore MCP — github/gitignore templates.
+2026-10-26T04:00:42.026259Z,io.github.pipeworx-io/gitlab,Gitlab,0.1.3,https://github.com/pipeworx-io/mcp-gitlab,streamable-http,GitLab MCP — wraps the GitLab REST API v4 (BYO API key)
+2026-10-26T04:00:53.396233Z,io.github.pipeworx-io/gitlab-public,Gitlab Public,0.1.3,https://github.com/pipeworx-io/mcp-gitlab-public,streamable-http,"GitLab Public MCP — wraps the GitLab REST API v4 (public endpoints, no auth)"
+2026-10-26T04:01:36.00389Z,io.github.pipeworx-io/global-forest-watch,Global Forest Watch,0.1.2,https://github.com/pipeworx-io/mcp-global-forest-watch,streamable-http,The Global Forest Watch Data API from WRI and the University of Maryland — browse the datasets…
+2026-10-26T04:01:56.783343Z,io.github.pipeworx-io/globenewswire,Globenewswire,0.1.2,https://github.com/pipeworx-io/mcp-globenewswire,streamable-http,GlobeNewswire MCP — press releases from GlobeNewswire's public-company feed.
+2026-10-26T04:02:30.555857Z,io.github.pipeworx-io/gmail,Gmail,0.1.3,https://github.com/pipeworx-io/mcp-gmail,streamable-http,Gmail MCP Pack
+2026-10-26T04:03:01.366389Z,io.github.pipeworx-io/gnomad,Gnomad,0.1.3,https://github.com/pipeworx-io/mcp-gnomad,streamable-http,gnomAD MCP — Broad Institute Genome Aggregation Database (GraphQL).
+2026-10-26T04:03:11.386429Z,io.github.pipeworx-io/gong,Gong,0.1.3,https://github.com/pipeworx-io/mcp-gong,streamable-http,Gong MCP — wraps the Gong API v2 (OAuth)
+2026-10-26T04:03:21.495195Z,io.github.pipeworx-io/google_ads,Google_ads,0.1.3,https://github.com/pipeworx-io/mcp-google_ads,streamable-http,Google Ads MCP Pack
+2026-10-26T04:03:31.592396Z,io.github.pipeworx-io/google_analytics,Google_analytics,0.1.3,https://github.com/pipeworx-io/mcp-google_analytics,streamable-http,Google Analytics MCP Pack
+2026-10-26T04:03:43.294419Z,io.github.pipeworx-io/google_calendar,Google_calendar,0.1.3,https://github.com/pipeworx-io/mcp-google_calendar,streamable-http,Google Calendar MCP Pack
+2026-10-26T04:03:58.313504Z,io.github.pipeworx-io/google_docs,Google_docs,0.1.3,https://github.com/pipeworx-io/mcp-google_docs,streamable-http,"Google Docs MCP Pack — read, create, and edit Google Docs via OAuth. Reuses the google_sheets…"
+2026-10-26T04:04:09.719126Z,io.github.pipeworx-io/google_drive,Google_drive,0.1.3,https://github.com/pipeworx-io/mcp-google_drive,streamable-http,Google Drive MCP Pack
+2026-10-26T04:04:20.538422Z,io.github.pipeworx-io/google_maps,Google_maps,0.1.3,https://github.com/pipeworx-io/mcp-google_maps,streamable-http,"Google Maps MCP Pack — geocoding, places, directions, distance matrix, elevation. Uses Google Maps…"
+2026-10-26T04:04:30.427079Z,io.github.pipeworx-io/google_search_console,Google_search_console,0.1.3,https://github.com/pipeworx-io/mcp-google_search_console,streamable-http,Google Search Console MCP Pack
+2026-10-26T04:04:40.525565Z,io.github.pipeworx-io/google_sheets,Google_sheets,0.1.3,https://github.com/pipeworx-io/mcp-google_sheets,streamable-http,Google Sheets MCP Pack
+2026-10-26T04:04:50.956926Z,io.github.pipeworx-io/google-books,Google Books,0.1.3,https://github.com/pipeworx-io/mcp-google-books,streamable-http,Google Books MCP
+2026-10-26T04:05:01.121844Z,io.github.pipeworx-io/google-trends,Google Trends,0.1.3,https://github.com/pipeworx-io/mcp-google-trends,streamable-http,MCP server for google-trends
+2026-10-26T04:05:11.15684Z,io.github.pipeworx-io/goproxy,Goproxy,0.1.3,https://github.com/pipeworx-io/mcp-goproxy,streamable-http,Go Module Proxy MCP.
+2026-10-26T04:05:21.597825Z,io.github.pipeworx-io/gov-auctions,Gov Auctions,0.1.4,https://github.com/pipeworx-io/mcp-gov-auctions,streamable-http,"Government Auctions MCP — physical-asset auctions (surplus, seized, forfeited, tax-deed) that…"
+2026-10-26T04:05:31.615596Z,io.github.pipeworx-io/gov-bids,Gov Bids,0.2.3,https://github.com/pipeworx-io/mcp-gov-bids,streamable-http,"Gov Bids MCP — open & historical US government bid solicitations (Wave 4b, hosted)."
+2026-10-26T04:05:41.713465Z,io.github.pipeworx-io/gov-uk-content,Gov Uk Content,0.1.3,https://github.com/pipeworx-io/mcp-gov-uk-content,streamable-http,GOV.UK Content + Search APIs.
+2026-10-26T04:05:51.974464Z,io.github.pipeworx-io/govinfo,Govinfo,0.1.3,https://github.com/pipeworx-io/mcp-govinfo,streamable-http,GovInfo.gov MCP — full text of US government publications
+2026-10-26T04:06:02.492864Z,io.github.pipeworx-io/gprofiler,Gprofiler,0.1.2,https://github.com/pipeworx-io/mcp-gprofiler,streamable-http,g:Profiler (University of Tartu) — functional enrichment analysis for a gene list against GO…
+2026-10-26T04:06:12.826102Z,io.github.pipeworx-io/grantconnect-au,Grantconnect Au,0.1.3,https://github.com/pipeworx-io/mcp-grantconnect-au,streamable-http,"GrantConnect (Australia) MCP — Commonwealth grant opportunities and grants awarded, from…"
+2026-10-26T04:06:38.729859Z,io.github.pipeworx-io/greenhouse,Greenhouse,0.1.3,https://github.com/pipeworx-io/mcp-greenhouse,streamable-http,Greenhouse MCP Pack — wraps the Greenhouse Harvest API v1
+2026-10-26T04:06:49.186596Z,io.github.pipeworx-io/greynoise,Greynoise,0.1.3,https://github.com/pipeworx-io/mcp-greynoise,streamable-http,GreyNoise Community MCP — internet scanner classification (free tier with key)
+2026-10-26T04:06:59.725662Z,io.github.pipeworx-io/gridstatus,Gridstatus,0.1.3,https://github.com/pipeworx-io/mcp-gridstatus,streamable-http,GridStatus MCP — wraps the GridStatus.io REST API (api.gridstatus.io/v1)
+2026-10-26T04:07:10.409714Z,io.github.pipeworx-io/gsa-auctions,Gsa Auctions,0.1.3,https://github.com/pipeworx-io/mcp-gsa-auctions,streamable-http,GSA Auctions API MCP — US federal government surplus auctions (keyed).
+2026-10-26T04:07:20.573702Z,io.github.pipeworx-io/gsa-calc,Gsa Calc,0.1.3,https://github.com/pipeworx-io/mcp-gsa-calc,streamable-http,"GSA CALC+ ceiling labor rates — what vendors may charge per hour under GSA schedule contracts, for…"
+2026-10-26T04:07:40.808316Z,io.github.pipeworx-io/gsa-perdiem,Gsa Perdiem,0.1.4,https://github.com/pipeworx-io/mcp-gsa-perdiem,streamable-http,GSA Per Diem MCP — wraps the GSA Per Diem API v2 (api.gsa.gov)
+2026-10-26T04:07:41.782256Z,dev.workers.toolschemaforge.agent-read/agent-read,AgentRead,1.0.0,,streamable-http,"Turn URLs, PDFs and DOCX into clean Markdown for agents, plus prompt-injection scanning"
+2026-10-26T04:07:53.614308Z,io.github.pipeworx-io/gtex,Gtex,0.1.3,https://github.com/pipeworx-io/mcp-gtex,streamable-http,GTEx MCP.
+2026-10-26T04:19:18.830825Z,xyz.unfee/mcp,"UnFee — 1-Credit Base/ETH/XRPL RPC Gateway, True 0% Crypto Checkout & Form 8949 Tax Engine",1.4.0,,streamable-http; streamable-http,"Flat 1-credit Base/ETH/XRPL RPC (eth_getLogs=1 credit, 250K free/mo), 0% crypto checkout & tax CSV."
