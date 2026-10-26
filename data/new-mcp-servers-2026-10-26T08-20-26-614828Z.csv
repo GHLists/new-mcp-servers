@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-10-26T07:24:11.550405Z,com.meteosource/weather,Weather MCP Server by Meteosource,0.1.1,https://github.com/Meteosource/meteosource-weather-mcp,streamable-http,"Forecasts, severe-weather alerts, air quality, 20-year weather history, solar and wind production."
+2026-10-26T07:27:20.38335Z,com.invokehumantool/invoke-human,Invoke Human Tool,1.0.0,https://github.com/abhirupghosh/invoke-human-plugins,streamable-http,"Ask a person on an Apple device or in a browser, then read their answer."
+2026-10-26T07:33:14.503862Z,com.tiraisoft/resumejson,,0.1.0,,streamable-http,"Parse a resume or CV (PDF, DOCX, text, scan or photo) into typed JSON."
+2026-10-26T07:35:24.543324Z,se.pullup/pullup,PullUp,2.0.0,,streamable-http,"Free event pages with RSVP, calendar invites, waitlist, guest list, CRM and email to guests."
+2026-10-26T07:43:04.686526Z,com.trackdiff/mcp,TrackDIFF,1.0.0,,streamable-http,"League of Legends ranked ladders, cutoffs, player profiles, live games, champion stats and builds."
+2026-10-26T07:44:25.41698Z,ai.daiku/daiku,Daiku,1.0.0,,streamable-http,"Your own browser in the cloud, logged in to your sites, shared by you and your AI."
+2026-10-26T07:44:29.784727Z,io.github.wwwnlab/rest-area,rest.area,0.1.0,,streamable-http,Public forum where AI agents read questions and optionally post or reply with user permission.
+2026-10-26T07:44:51.430105Z,co.anymark/anymark,Anymark,1.0.0,,streamable-http,"Logo previews and logo-name checks for tech products, from Anymark's designer templates."
+2026-10-26T07:47:06.345201Z,io.github.trustabl/agent-network-access-probe,Trustabl Probe,0.3.0,https://github.com/trustabl/agent-network-access-probe,,Drafts a network allow list for agent tools and runs them in a network-blocked sandbox.
+2026-10-26T07:47:11.785437Z,io.github.trustabl/agent-reliability-analyzer,Trustabl,0.1.15,https://github.com/trustabl/agent-reliability-analyzer,,"Find and fix reliability and safety gaps in agent code, across nine agent SDKs."
+2026-10-26T07:48:57.609605Z,com.geekflare/mcp,Geekflare,0.5.0,https://github.com/geekflare/geekflare-api-mcp,streamable-http,"Web search, Google SERP, scraping, screenshots, PDFs, brand data, and website diagnostics."
+2026-10-26T07:51:13.536179Z,io.github.edgarcia-id/edgeo,EdGEO,0.1.0,https://github.com/edgarcia-id/edgeo,,"Local MCP for evidence-based SEO, GEO, Google AI Search, and Search Console."
+2026-10-26T08:01:04.443809Z,com.myanimetracker/myanimetracker,MyAnimeTracker,1.0.0,,streamable-http,"Anime watch order, no guesswork. Watch orders, filler guides, title search, airing this week."
+2026-10-26T08:01:05.014424Z,com.myanimetracker/myanimetracker-account,MyAnimeTracker (your list),1.0.0,,streamable-http,"Sign in to read your anime list, add series and mark episodes watched. Never removes anything."
+2026-10-26T08:01:56.145893Z,io.github.BarredEwe/prefire,Prefire,6.5.0,https://github.com/BarredEwe/Prefire,,"Render SwiftUI #Preview as PNG images, so an AI agent sees the views it changes"
+2026-10-26T08:03:23.881755Z,io.github.askuma/workflow-generator,Workflow Generator,0.5.0,https://github.com/askuma/workflow-generator,,Architecture diagram with concurrency capacity and bottleneck estimates from any codebase.
+2026-10-26T08:03:36.193057Z,com.hypsh/fashion,hypsh fashion search and outfits,1.0.0,,streamable-http,"Natural-language fashion search and complete outfits from real shop pieces. Anonymous, read-only."
+2026-10-26T08:19:25.295095Z,ai.hifrank/frank,Frank,1.0.0,,streamable-http,"AI-moderated voice interviews with your customers, delivering themes and insights"
