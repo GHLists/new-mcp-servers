@@ -9,40 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 10:21 UTC
+## Latest list — 2026-10-26 11:20 UTC
 
-New MCP servers published between 2026-10-26 09:20 UTC and 2026-10-26 10:21 UTC.
+New MCP servers published between 2026-10-26 10:21 UTC and 2026-10-26 11:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-26T10-21-24-651403Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-26T11-20-33-308102Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-26 09:22:15 | [io.github.mariusbolik/librepass](https://github.com/mariusbolik/librepass) | LibrePass eSIM | 1.0.0 | Privacy-by-design eSIM plans by country — read-only catalogue, no purchases. |
-| 2026-10-26 09:22:33 | fun.trnch/trnch | TRNCH | 1.0.0 | Trade new Robinhood Chain tokens: live Heat feed, TIA rug screening, best of si… |
-| 2026-10-26 09:25:25 | [io.github.kironovlaziz-del/provenza](https://github.com/kironovlaziz-del/provenza) | Provenza | 0.2.0 | Governed MCP gateway: approved tools only, each call policy-checked and recorde… |
-| 2026-10-26 09:29:41 | [io.github.flogvit/bible](https://github.com/flogvit/bible.flogvit.com) | FLOGVIT.bible | 1.0.0 | Read and search the Bible: open translations, Hebrew and Greek source text, and… |
-| 2026-10-26 09:31:57 | [io.github.Unselfisheologism/supercarto](https://github.com/Unselfisheologism/supercarto) | supercarto | 0.6.0 | Token-budgeted map context for any coordinate: OSM graph, terrain, weather, day… |
-| 2026-10-26 09:32:27 | com.jirventures/property-listings | JIR Ventures Property Listings | 1.0.0 | Offices and homes for rent or sale in Damascus, Syria. Request a viewing. |
-| 2026-10-26 09:32:29 | com.jirventures/sales-agent | JIR Ventures Sales Agent | 1.0.0 | Finds verified B2B leads and writes an outreach email in English or Arabic. |
-| 2026-10-26 09:32:32 | com.jirventures/knowledge | JIR Knowledge | 1.0.0 | Read-only knowledge base published by JIR Ventures, searchable by meaning. |
-| 2026-10-26 09:34:09 | [vn.datacore/datacore-a2a](https://github.com/DataCore-VietNam/datacore-a2a-mcp) | DataCore A2A | 0.2.2 | Normalise Vietnamese addresses and look up companies by name or tax code, throu… |
-| 2026-10-26 09:35:17 | com.theoutcomelayer/outcome-layer | The Outcome Layer | 1.1.0 | AI-vs-consultant cost estimates, adjustable task proposals and opt-in handoff t… |
-| 2026-10-26 09:40:07 | app.nomac/session | NoMac Session | 1.0.0 | The cloud Mac alone, with Xcode, for AI agents: run commands, build and test, u… |
-| 2026-10-26 09:45:50 | io.github.sumitrmardy/image-to-text-ocr | Image to Text OCR | 1.0.0 | OCR text from image URLs, 30 languages, lines with boxes. One flat row per imag… |
-| 2026-10-26 09:46:01 | [io.github.daddariotech/whmcs-mcp](https://github.com/daddariotech/whmcs-mcp) | WHMCS MCP Server | 2.3.8 | Connect Claude, ChatGPT, and Cursor to live WHMCS over MCP. |
-| 2026-10-26 09:49:42 | eu.einvoice-api/mcp | EU E-Invoice API | 1.0.0 | Validate, parse and generate EU e-invoices: XRechnung, ZUGFeRD, Peppol BIS, KSe… |
-| 2026-10-26 09:51:25 | com.innguma/mcp | Innguma | 0.23.0 | Competitive intelligence and technology monitoring: alerts, sources and news. |
-| 2026-10-26 09:59:00 | io.github.EmeroAI/emero | Emero | 1.5.10 | Teach your AI assistant to make pro images, video, music and speech with every… |
-| 2026-10-26 09:59:40 | com.bestsaaswebdesigns/catalog | BestSaaSWebDesigns | 1.1.0 | Search 400+ real SaaS marketing websites by category, section, style, stack, pa… |
-| 2026-10-26 10:04:21 | com.ai-architectures/mcp | AI Architectures | 1.0.0 | Search ~500 free house plans and have AI-drafted CAD floor plans (DXF, DWG, PDF… |
-| 2026-10-26 10:08:25 | [io.github.joverman/xrplink](https://github.com/joverman/xrplink) | XRPLink | 0.3.0 | Verify XRP payments on Flare FDC. Agents subscribe or pay per attestation via x… |
-| 2026-10-26 10:09:08 | [io.github.zhuyansen/backlink-guard](https://github.com/zhuyansen/backlink-guard) | backlink-guard | 0.10.0 | Vet link sources before you submit, verify listings, and audit your backlinks f… |
-| 2026-10-26 10:11:21 | de.objelio/immobiliensuche | Objelio Immobiliensuche | 1.0.0 | Search apartments, houses and plots for sale or rent in Germany, listed by real… |
-| 2026-10-26 10:11:30 | [io.github.markatdataandbeyond/open-data-mcp](https://github.com/markatdataandbeyond/open-data-mcp) |  | 1.0.0 | 10 tools on official open data: EU VAT/LEI, TED tenders, PubMed, trials, regist… |
-| 2026-10-26 10:11:57 | [dev.pressmark/pressmark](https://github.com/mooshee/pressmark) | Pressmark | 1.2.1 | Vector PDF document engine for invoices, estimates, receipts, contracts & real… |
-| 2026-10-26 10:13:15 | watch.pcprice/used-prices | pcprice.watch used PC part prices | 1.0.0 | Real eBay sold prices for used GPUs, CPUs, RAM and more in 7 markets, and eBay… |
-| 2026-10-26 10:14:31 | com.313automations/site | 313 Automations | 1.0.0 | Read-only facts, starting prices, pages as Markdown and site search for 313 Aut… |
-| 2026-10-26 10:14:54 | [org.dictionaryofml/dictionary](https://github.com/alexjungaalto/dictionaryofml) | Dictionary of Applied Machine Learning | 1.0.0 | Look up, search and cross-reference machine-learning terms from dictionaryofml.… |
+| 2026-10-26 10:21:48 | com.rycrentals/deals | RYC yacht charter deals | 1.3.0 | Live discounted yacht charters in 11 destinations: search boats, full boat data… |
+| 2026-10-26 10:24:56 | [uk.co.postandpresent/gifts](https://github.com/tobinbc/post-and-present) | Post & Present | 1.0.0 | Buy and send UK digital gift cards with a message from chat. |
+| 2026-10-26 10:26:15 | com.shopyourcolorseason/mcp | Shop Your Color Season | 1.0.0 | Find clothes in your colour season (seasonal colour analysis) from shops in you… |
+| 2026-10-26 10:26:47 | com.getgyeol.app/site-maker | GYEOL Site Maker | 0.1.0 | Free multi-page website draft for a small business; the owner signs in to keep… |
+| 2026-10-26 10:27:08 | [com.hattricklocal/directory](https://github.com/Build-Stuff-Fast/hat-trick-local-directory) | Hat Trick Local Directory | 1.0.1 | US youth sports clubs and sports stores: registration windows, fees, tryouts an… |
+| 2026-10-26 10:44:03 | [com.krusgraph/krusgraph](https://github.com/Krusmaster/fabric-backend) | Krusgraph | 0.6.0 | Turn Microsoft Fabric tables into an explainable graph and a GraphQL API. |
+| 2026-10-26 10:44:27 | app.hypefox/hypefox | HypeFox | 1.0.0 | AI app that makes and posts Shorts, Reels and TikToks on autopilot, with or wit… |
+| 2026-10-26 10:48:02 | link.rentgpu/gpu-market | rentgpu GPU rental price market data | 1.0.0 | Hourly GPU rental prices for 23 models across 26 platforms. Free listing, paid… |
+| 2026-10-26 10:50:27 | [ai.justdomain/just-domain](https://github.com/just-done/just-domain-mcp) | Just Domain | 0.8.2 | Check a domain name, both prices and whether it can transfer in. You register i… |
+| 2026-10-26 10:50:29 | [io.github.danielhagever/career-site-jobs](https://github.com/danielhagever/company-career-page-scraper) | Career Site Jobs: Workday, Oracle, Gree… | 1.0.0 | Open jobs from any company's careers site by name or domain, plus a search acro… |
+| 2026-10-26 10:50:33 | [io.github.danielhagever/app-store-charts](https://github.com/danielhagever/app-store-top-charts) | App Store and Google Play Top Charts | 1.0.0 | Top Free, Paid and Grossing app charts by country for the App Store and Google… |
+| 2026-10-26 10:54:57 | [io.github.jsirp-dev/nestjs-mcp](https://github.com/jsirp-dev/nestjs-mcp) |  | 0.1.0 | Runtime inspector embedded in a NestJS app: graph, routes, logs, request traces… |
+| 2026-10-26 10:55:33 | com.aiskilldir/directory | AI Skill Directory | 1.0.0 | Search and fetch curated AI agent skills, prompts and MCP servers. |
+| 2026-10-26 10:59:50 | [io.github.sculptdotfun/viberank](https://github.com/sculptdotfun/viberank) | viberank | 1.2.0 | Submit your AI coding usage (Claude Code, Codex, Gemini CLI) to viberank and re… |
+| 2026-10-26 11:01:25 | com.contractlily/contract-lily | Contract Lily | 1.0.0 | UK tenancy and employment rule checks: deposits, notice, rent increases, holida… |
+| 2026-10-26 11:04:27 | io.github.swayammaheshwari/docstar-mcp | Docstar | 1.0.0 | Publish your API docs so AI assistants can look up endpoints and call your API… |
+| 2026-10-26 11:06:52 | [io.github.Nyarlathoteppppp/pi-durateam](https://github.com/Nyarlathoteppppp/pi-durateam) | Pi Durateam | 0.7.12 | Pi agent teams on any provider: parallel delegates, forks, MCP tools; runs buil… |
+| 2026-10-26 11:08:41 | [io.github.Klievan/jlink-mcp](https://github.com/Klievan/jlink-mcp) | J-Link MCP | 0.8.0 | Debug embedded firmware on real hardware: J-Link probes, Cortex-M faults, RTT l… |
+| 2026-10-26 11:10:20 | [pro.rtfx/rtfx](https://github.com/yogevgab/artifacts-server) | rtfx.pro | 1.0.0 | Publish what Claude makes (HTML, PDF, small site) to a private link only chosen… |
+| 2026-10-26 11:11:05 | io.prisma/mcp | Prisma Postgres and Prisma Compute | 1.1.0 | Manage Prisma Postgres and existing Prisma Compute apps. Requires sign-in; does… |
+| 2026-10-26 11:13:48 | [com.themachinerecord/register](https://github.com/vzolot/tmr-pipeline) | The Machine Record | 1.0.0 | Verified robot and AV incidents, first report to court outcome, plus the NHTSA… |
+| 2026-10-26 11:14:08 | ai.flydocs/flydocs | FlyDocs | 1.3.28 | Spec-driven development workflow: your agent works issues, sessions and the sta… |
+| 2026-10-26 11:14:33 | com.pathista/pathista | Pathista | 1.0.1 | Step-by-step workflows for ChatGPT, Claude and Claude Code: the AI gets one ste… |
+| 2026-10-26 11:17:04 | com.gta6times/gta6times | GTA6 Times | 1.0.0 | GTA 6 unlock time and price by country, confirmed facts versus rumors, trailers… |
+| 2026-10-26 11:17:16 | [io.github.benthepythondev00/listingrail](https://github.com/benthepythondev00/apify-web-data-mcp) | Listingrail property listings | 1.0.0 | Live sale and rental listings from Zillow, Rightmove, Idealista and 15 more por… |
+| 2026-10-26 11:18:25 | [io.github.makinglyai/docket-room](https://github.com/makinglyai/docket-room-mcp) | Docket Room | 1.0.0 | Bills, hearings, votes and legislators for all 50 US states, DC and Congress, f… |
+| 2026-10-26 11:19:55 | [io.github.ppcvote/mindthread](https://github.com/ppcvote/mindthread-mcp) | MindThread | 0.2.0 | Threads scheduler for AI agents: write, schedule and publish posts, review repl… |
 
 ## Data source
 
