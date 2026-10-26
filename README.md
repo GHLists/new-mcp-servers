@@ -9,43 +9,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 09:20 UTC
+## Latest list — 2026-10-26 10:21 UTC
 
-New MCP servers published between 2026-10-26 08:20 UTC and 2026-10-26 09:20 UTC.
+New MCP servers published between 2026-10-26 09:20 UTC and 2026-10-26 10:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-26T09-20-40-658206Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-26T10-21-24-651403Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-26 08:21:48 | [com.averageelectricbill/electric-bill](https://github.com/lyudolf/averageelectricbill) | Average Electric Bill | 1.0.0 | Is a U.S. electric bill normal? Compare kWh and rates with similar homes, by st… |
-| 2026-10-26 08:23:10 | com.getfinbolt/finbolt | Finbolt | 0.1.0 | SEC-filed company financials with filing citations, plus market data, for AI ag… |
-| 2026-10-26 08:25:55 | [io.github.Scottnine/filamental](https://github.com/Scottnine/filamental) |  | 0.2.16 | Search, read and build your Filamental knowledge graph. Local-first: notes stay… |
-| 2026-10-26 08:26:02 | com.doviandi/cyprus | Doviandi Cyprus corporate and tax | 1.0.0 | Reviewed Cyprus corporate and tax facts, statutory tests, and company register… |
-| 2026-10-26 08:30:39 | dev.aictrl/aictrl | aictrl | 1.0.0-beta.2 | Project context, backlog tasks, and controlled workflows for coding agents. OAu… |
-| 2026-10-26 08:30:48 | io.github.Keith-CY/name-generators-mcp | Name Generators by kits | 1.0.0 | Character names from five generators: cyberpunk, Elden Ring, druid, Baldur's Ga… |
-| 2026-10-26 08:31:48 | io.github.Keith-CY/retirement-atlas-mcp | Retirement Atlas | 1.0.0 | Retirement projections for 37 countries: UK drawdown, Australian super, pension… |
-| 2026-10-26 08:33:50 | io.github.Keith-CY/swatch-ledger-mcp | Swatch Ledger | 1.0.0 | Fabric shrinkage from a swatch wash test, and how much fabric to buy before was… |
-| 2026-10-26 08:41:38 | com.glucoray/glucoray | Glucoray | 1.0.0 | Carbs for Indian meals from Indian food tables, for people managing diabetes: e… |
-| 2026-10-26 08:42:53 | io.github.sumitrmardy/google-trends-scraper | Google Trends Scraper | 1.0.0 | Google Trends: interest over time, by region, rising queries. Flat rows, never… |
-| 2026-10-26 08:44:41 | ch.easylpd/fadp | EasyLPD: Swiss data protection (FADP) a… | 1.0.0 | Swiss FADP (nLPD/revDSG) and GDPR: which laws apply, action plan, templates, tr… |
-| 2026-10-26 08:47:17 | [ai.atlaso/mcp](https://github.com/atlaso-labs/mcp) | Atlaso Memory | 1.0.2 | Atlaso, the AI memory layer: one shared, persistent memory for every AI tool yo… |
-| 2026-10-26 08:49:59 | [io.github.mcp-dir/eleicoes-mcp](https://github.com/mcp-dir/eleicoes-mcp) | Eleições 2026: Dados Públicos do TSE | 0.1.0 | Brazil 2026 election data from the TSE: ballot box reports, logs, results, SHA-… |
-| 2026-10-26 08:53:49 | io.github.arthexai/worn-fit | WORN Fit | 2.0.0 | Tells an AI assistant how a watch fits a given wrist, with a to-scale drawing.… |
-| 2026-10-26 08:54:17 | io.github.Keith-CY/japaneseskills-mcp | Japanese Skills · 言の葉 | 1.0.0 | Japanese words with pitch accent and conjugation, kanji and grammar for JLPT le… |
-| 2026-10-26 08:59:19 | dev.spendctl/spendctl | spendctl | 0.1.0 | Spend policy for AI agents that pay (x402, MPP). Login-free sandbox, real sidec… |
-| 2026-10-26 08:59:35 | ru.lpmotor/mottor | Mottor | 1.815.0 | Build and run Mottor websites: pages, SEO, shop, CRM leads, data tables and pub… |
-| 2026-10-26 09:01:36 | com.gapcite/gapcite | GapCite | 1.0.0 | Track AI mentions and recommendations of your business, and find what to fix wi… |
-| 2026-10-26 09:03:07 | [io.github.WaterTian/wechat-devtools-mcp](https://github.com/WaterTian/wechat-devtools-mcp) |  | 0.9.19 | MCP Server for WeChat DevTools CLI - Automate development & testing with 7 aggr… |
-| 2026-10-26 09:07:02 | com.get3rd.app/3rd | 3RD | 1.0.3 | Your brand's visibility in AI answers: trends, competitor ranking, cited source… |
-| 2026-10-26 09:09:08 | com.usebrainchain/brainchain | BrainChain | 0.1.0 | Hire frontier models through Jev and pay in USDG only for work that passes its… |
-| 2026-10-26 09:11:17 | com.finawaken/portfolio | Finawaken Portfolio | 1.0.0 | Read your Finawaken portfolio: returns, holdings and an index comparison on you… |
-| 2026-10-26 09:11:31 | de.vitality-fit/prices | Vitalityfit Price Comparison | 1.0.0 | Cheapest offers for health products from German online shops and pharmacies, by… |
-| 2026-10-26 09:11:47 | net.hotelrefund/price-tracker | HotelRefund Price Tracker | 1.4.1 | Tracks Agoda hotel prices for your dates, keeps checking, and shows what change… |
-| 2026-10-26 09:11:49 | [io.github.Serdnaley/metabase-mcp](https://github.com/Serdnaley/metabase-mcp) | Metabase MCP (headless) | 0.3.0 | Headless Metabase MCP: API-key auth, no OAuth. 161 tools, toolsets, stdio or HT… |
-| 2026-10-26 09:12:53 | [io.bugasura/bugasura](https://github.com/appachhi/bugasura-mcp-server) | Bugasura | 3.3.0 | Bug tracking and test management: issues, test cases, sprints, runs, requiremen… |
-| 2026-10-26 09:14:57 | [io.github.phuryn/staygreen](https://github.com/phuryn/staygreen) | Staygreen | 1.0.0 | Monitor apps built with coding agents: status, uptime, incidents and one-call m… |
-| 2026-10-26 09:15:10 | io.github.princezoho/tangylimes | Tangy Limes | 1.0.0 | Funny singing video ecards from a photo: search cards, get prices, buy card pac… |
-| 2026-10-26 09:19:27 | ru.domchecker/domain-checker | DomChecker | 2.8.0 | Domain availability, WHOIS and DNS for any TLD (.ru, .рф, .com…), straight from… |
+| 2026-10-26 09:22:15 | [io.github.mariusbolik/librepass](https://github.com/mariusbolik/librepass) | LibrePass eSIM | 1.0.0 | Privacy-by-design eSIM plans by country — read-only catalogue, no purchases. |
+| 2026-10-26 09:22:33 | fun.trnch/trnch | TRNCH | 1.0.0 | Trade new Robinhood Chain tokens: live Heat feed, TIA rug screening, best of si… |
+| 2026-10-26 09:25:25 | [io.github.kironovlaziz-del/provenza](https://github.com/kironovlaziz-del/provenza) | Provenza | 0.2.0 | Governed MCP gateway: approved tools only, each call policy-checked and recorde… |
+| 2026-10-26 09:29:41 | [io.github.flogvit/bible](https://github.com/flogvit/bible.flogvit.com) | FLOGVIT.bible | 1.0.0 | Read and search the Bible: open translations, Hebrew and Greek source text, and… |
+| 2026-10-26 09:31:57 | [io.github.Unselfisheologism/supercarto](https://github.com/Unselfisheologism/supercarto) | supercarto | 0.6.0 | Token-budgeted map context for any coordinate: OSM graph, terrain, weather, day… |
+| 2026-10-26 09:32:27 | com.jirventures/property-listings | JIR Ventures Property Listings | 1.0.0 | Offices and homes for rent or sale in Damascus, Syria. Request a viewing. |
+| 2026-10-26 09:32:29 | com.jirventures/sales-agent | JIR Ventures Sales Agent | 1.0.0 | Finds verified B2B leads and writes an outreach email in English or Arabic. |
+| 2026-10-26 09:32:32 | com.jirventures/knowledge | JIR Knowledge | 1.0.0 | Read-only knowledge base published by JIR Ventures, searchable by meaning. |
+| 2026-10-26 09:34:09 | [vn.datacore/datacore-a2a](https://github.com/DataCore-VietNam/datacore-a2a-mcp) | DataCore A2A | 0.2.2 | Normalise Vietnamese addresses and look up companies by name or tax code, throu… |
+| 2026-10-26 09:35:17 | com.theoutcomelayer/outcome-layer | The Outcome Layer | 1.1.0 | AI-vs-consultant cost estimates, adjustable task proposals and opt-in handoff t… |
+| 2026-10-26 09:40:07 | app.nomac/session | NoMac Session | 1.0.0 | The cloud Mac alone, with Xcode, for AI agents: run commands, build and test, u… |
+| 2026-10-26 09:45:50 | io.github.sumitrmardy/image-to-text-ocr | Image to Text OCR | 1.0.0 | OCR text from image URLs, 30 languages, lines with boxes. One flat row per imag… |
+| 2026-10-26 09:46:01 | [io.github.daddariotech/whmcs-mcp](https://github.com/daddariotech/whmcs-mcp) | WHMCS MCP Server | 2.3.8 | Connect Claude, ChatGPT, and Cursor to live WHMCS over MCP. |
+| 2026-10-26 09:49:42 | eu.einvoice-api/mcp | EU E-Invoice API | 1.0.0 | Validate, parse and generate EU e-invoices: XRechnung, ZUGFeRD, Peppol BIS, KSe… |
+| 2026-10-26 09:51:25 | com.innguma/mcp | Innguma | 0.23.0 | Competitive intelligence and technology monitoring: alerts, sources and news. |
+| 2026-10-26 09:59:00 | io.github.EmeroAI/emero | Emero | 1.5.10 | Teach your AI assistant to make pro images, video, music and speech with every… |
+| 2026-10-26 09:59:40 | com.bestsaaswebdesigns/catalog | BestSaaSWebDesigns | 1.1.0 | Search 400+ real SaaS marketing websites by category, section, style, stack, pa… |
+| 2026-10-26 10:04:21 | com.ai-architectures/mcp | AI Architectures | 1.0.0 | Search ~500 free house plans and have AI-drafted CAD floor plans (DXF, DWG, PDF… |
+| 2026-10-26 10:08:25 | [io.github.joverman/xrplink](https://github.com/joverman/xrplink) | XRPLink | 0.3.0 | Verify XRP payments on Flare FDC. Agents subscribe or pay per attestation via x… |
+| 2026-10-26 10:09:08 | [io.github.zhuyansen/backlink-guard](https://github.com/zhuyansen/backlink-guard) | backlink-guard | 0.10.0 | Vet link sources before you submit, verify listings, and audit your backlinks f… |
+| 2026-10-26 10:11:21 | de.objelio/immobiliensuche | Objelio Immobiliensuche | 1.0.0 | Search apartments, houses and plots for sale or rent in Germany, listed by real… |
+| 2026-10-26 10:11:30 | [io.github.markatdataandbeyond/open-data-mcp](https://github.com/markatdataandbeyond/open-data-mcp) |  | 1.0.0 | 10 tools on official open data: EU VAT/LEI, TED tenders, PubMed, trials, regist… |
+| 2026-10-26 10:11:57 | [dev.pressmark/pressmark](https://github.com/mooshee/pressmark) | Pressmark | 1.2.1 | Vector PDF document engine for invoices, estimates, receipts, contracts & real… |
+| 2026-10-26 10:13:15 | watch.pcprice/used-prices | pcprice.watch used PC part prices | 1.0.0 | Real eBay sold prices for used GPUs, CPUs, RAM and more in 7 markets, and eBay… |
+| 2026-10-26 10:14:31 | com.313automations/site | 313 Automations | 1.0.0 | Read-only facts, starting prices, pages as Markdown and site search for 313 Aut… |
+| 2026-10-26 10:14:54 | [org.dictionaryofml/dictionary](https://github.com/alexjungaalto/dictionaryofml) | Dictionary of Applied Machine Learning | 1.0.0 | Look up, search and cross-reference machine-learning terms from dictionaryofml.… |
 
 ## Data source
 
