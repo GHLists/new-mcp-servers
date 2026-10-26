@@ -9,59 +9,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 14:19 UTC
+## Latest list — 2026-10-26 15:18 UTC
 
-New MCP servers published between 2026-10-26 13:22 UTC and 2026-10-26 14:19 UTC.
+New MCP servers published between 2026-10-26 14:19 UTC and 2026-10-26 15:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-26T14-19-20-783683Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-26T15-18-47-815177Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-26 13:24:56 | com.arkm/mcp | Arkham | 1.0.0 | Arkham blockchain intelligence: entities, labels, balances, transfers, tokens a… |
-| 2026-10-26 13:27:30 | com.growthmethod/growth-method | Growth Method | 1.0.0 | Plan, launch and measure growth campaigns with your team, using the marketing t… |
-| 2026-10-26 13:28:43 | app.mycorr/mycorr | Mycorr | 1.0.0 | Shared, versioned tables with units, links and SQL. Agents read what your data… |
-| 2026-10-26 13:28:52 | eu.autosignal/autosignal | AutoSignal | 0.1.0 | Czech and Central European used and new car market prices, valuations and below… |
-| 2026-10-26 13:31:31 | [io.github.ZaguanLabs/atlas-scout](https://github.com/ZaguanLabs/atlas-scout-mcp) | Bit Lantern | 1.0.0-preview.30 | Local, read-only structural code navigation and bounded dependency analysis for… |
-| 2026-10-26 13:32:31 | [com.thefaceanalysis/face-analysis](https://github.com/The-Face-Analysis/thefaceanalysis-mcp) | TheFaceAnalysis | 0.1.0 | Face shape rules and a 102-face open measurement dataset. Read-only, no photos. |
-| 2026-10-26 13:32:32 | [com.fashiolabs/fashio](https://github.com/fashiolabs/fashio-mcp) | Fashio AI | 0.1.1 | On-model and ghost-mannequin fashion photos from a product photo. Spends credit… |
-| 2026-10-26 13:32:34 | [io.dyscalculia/dyscalculia](https://github.com/Dyscalculia-io/dyscalculia-mcp) | Dyscalculia.io | 0.1.0 | Open number-sense practice data and game catalogue for dyscalculia. Read-only. |
-| 2026-10-26 13:32:35 | [com.dyslexiasteps/dyslexia-steps](https://github.com/Dyslexia-Steps/dyslexiasteps-mcp) | Dyslexia Steps | 0.1.0 | Phonics word lists and reading-game catalogue for dyslexia support. Read-only. |
-| 2026-10-26 13:34:15 | [io.github.KKazuhaK/anteater-mcp](https://github.com/KKazuhaK/Anteater-MCP) | Anteater MCP | 1.0.0-beta.2 | UCI course search and registration planning: live sections, grades, prerequisit… |
-| 2026-10-26 13:34:45 | fyi.ascension/leaderboard | Ascension: AI app leaderboard | 0.1.0 | Daily ranks of consumer AI apps across the App Store and Google Play. Read-only… |
-| 2026-10-26 13:37:25 | ai.yentaknows/directory | Yenta Directory | 0.2.0 | Restaurants and bars in 10 cities: hours, menus, dietary tags, events and booki… |
-| 2026-10-26 13:38:17 | [io.github.tinyprocessing/hirelog](https://github.com/tinyprocessing/hirelog) | Hirelog | 1.0.0 | Shared, evidence-backed hiring facts for job-search agents: processes, ATS quir… |
-| 2026-10-26 13:38:39 | net.pinggy.free.wpgcs-38-15-34-250/registry-verifier-target-a | Registry Verifier Target A | 1.0.0 | MCP compatibility and transport verification server. |
-| 2026-10-26 13:38:41 | net.pinggy.free.wpgcs-38-15-34-250/registry-verifier-target-b | Registry Verifier Target B | 1.0.0 | MCP compatibility and transport verification server. |
-| 2026-10-26 13:38:46 | media.drop/mcp | drop.media | 1.0.0 | Host files and AI-generated images on drop.media and get public or expiring pri… |
-| 2026-10-26 13:40:34 | org.georgiahomeroom/georgia-homeroom | Georgia Homeroom | 0.1.0 | Georgia K-12 standards, Milestones blueprints, and achievement levels for educa… |
-| 2026-10-26 13:40:52 | es.dipromotions/catalogo | Dipromotions — catálogo y presupuestos | 1.0.0 | Catálogo de artículos promocionales personalizados, precios orientativos y pres… |
-| 2026-10-26 13:42:26 | app.cleartable/cleartable | Cleartable | 1.0.0 | Add, read and plan tasks in Cleartable, a calm AI task manager with calendar an… |
-| 2026-10-26 13:43:12 | fyi.apparent/apparent | Apparent | 1.0.0 | Mobile app analytics in plain words: live activity, reviews and sales, ads, and… |
-| 2026-10-26 13:44:15 | us.agentweb/agentweb | AgentWeb (agentweb.us) | 0.9.0 | The action index for the web: real sites as callable, verified actions for AI a… |
-| 2026-10-26 13:45:05 | ai.shippp/mcp | Shippp | 0.4.0 | A connected canvas for the builders of the next era. |
-| 2026-10-26 13:45:12 | com.katanascreener/katana | Katana — Japan Stock Screener | 1.0.0 | Screen every listed company in Japan by financials, custom formulas, and annual… |
-| 2026-10-26 13:47:20 | [io.github.rowih/rowih](https://github.com/rowih/rowih) | Rowih | 1.1.2 | Read, check and write Rowih, a language for AI agents whose moves state force,… |
-| 2026-10-26 13:49:42 | [io.untax/untax](https://github.com/mooshee/untax-mcp) | Untax | 0.4.2 | Source-backed property assessment research and draft assessment comparisons for… |
-| 2026-10-26 13:49:43 | [io.gisdb/gisdb](https://github.com/mooshee/gisdb-mcp) | GISDB | 0.4.2 | Source-backed county property records, owner-name portfolios and three Hamilton… |
-| 2026-10-26 13:49:43 | [com.govgazette/govgazette](https://github.com/mooshee/govgazette-mcp) | GovGazette | 1.3.2 | Find federal contracting opportunities, research awards and vendors, and review… |
-| 2026-10-26 13:51:07 | [ai.qompass/theodolite](https://github.com/qompassai/theodolite) | Theodolite | 0.1.0 | Headless, deterministic LSP bridge: pinned language-server sessions as bounded… |
-| 2026-10-26 13:52:16 | com.lorekeeper/lorekeeper | LoreKeeper | 1.0.0 | Ask your own D&D and TTRPG campaign: read-only access to your Lore Library and… |
-| 2026-10-26 13:52:33 | life.lhr.e80b81ce69cb44/registry-verifier-target-c | Registry Verifier Target A | 1.0.0 | MCP compatibility and transport verification server. |
-| 2026-10-26 13:52:34 | life.lhr.e80b81ce69cb44/registry-verifier-target-d | Registry Verifier Target B | 1.0.0 | MCP compatibility and transport verification server. |
-| 2026-10-26 13:54:14 | [io.github.LupusMalusDeviant/whiskers](https://github.com/LupusMalusDeviant/Whiskers) | Whiskers | 0.15.0 | Governed Docker and Kubernetes operations for AI agents: scoped keys, guardrail… |
-| 2026-10-26 13:58:45 | com.duelpilot/duelpilot | Duelpilot | 2.0.0 | A/B testing on autopilot, run by your own AI agent: find ideas, design variants… |
-| 2026-10-26 13:58:51 | br.com.blucher/catalogo | Catálogo Blucher | 1.0.0 | Livros da Editora Blucher: busca, edição, preço, ementa / Blucher books: search… |
-| 2026-10-26 14:00:52 | [com.olbrain/alchemist](https://github.com/Olbrain/alchemist-plugin) | Olbrain Alchemist | 0.8.3 | Build, test and publish Olbrain AI agents from Claude Code, Codex or Claude.ai. |
-| 2026-10-26 14:01:10 | [io.github.Maxim-Mazurok/teams-api](https://github.com/Maxim-Mazurok/teams-api) | Microsoft Teams API | 1.10.1 | AI-native Microsoft Teams integration — read chats, send messages, search people |
-| 2026-10-26 14:01:31 | io.github.OSSNokalva/asn1-mcp |  | 1.0.0 | Compiles ASN.1 schema definitions into executable source code like Python and R… |
-| 2026-10-26 14:02:27 | [io.github.kshivam1177/androidmcp-framework](https://github.com/kshivam1177/android-mcp-framwork) | AndroidMCP Framework | 0.1.6 | MCP server and CLI for Android development and change-aware Android and Flutter… |
-| 2026-10-26 14:03:35 | co.esimcompare/travel-esim-prices | eSIMCompare: travel eSIM prices | 1.1.0 | Cheapest travel eSIM plans for a trip from every provider eSIMCompare tracks, p… |
-| 2026-10-26 14:05:16 | co.ostorlab/mcp | Ostorlab | 1.0.0 | Query and act on your Ostorlab scans, vulnerabilities, tickets and assets. |
-| 2026-10-26 14:10:40 | io.github.jonatanvazquez/daily-outfits | DAIly outfits | 0.1.0 | What to wear today by city weather and travel packing lists by destination. Pub… |
-| 2026-10-26 14:12:58 | [com.podbenchmark/podbenchmark](https://github.com/FilipLjubic/podbenchmark-cli) | POD Benchmark | 1.0.0 | Compare print-on-demand supplier prices, shipping and delivered totals for the… |
-| 2026-10-26 14:13:38 | [io.github.Keithhk/keith-apis-mcp](https://github.com/Keithhk/keith-apis-mcp) | Keith APIs: web to Markdown, OG images,… | 0.1.1 | Web page to Markdown, link previews, OG images, job and resume parsing, Elo/Gli… |
-| 2026-10-26 14:14:26 | [io.github.neomjs/neural-link](https://github.com/neomjs/neo-agent-brain) | Neo.mjs Neural Link | 1.0.0 | Live runtime inspection, component tree, VDOM, state, and hot-patching bridge f… |
-| 2026-10-26 14:17:10 | ua.com.semeropost/semero | SEMERO Express Delivery & Customs | 1.0.0 | Express delivery to/from Ukraine via DHL, FedEx & others: price estimates and c… |
+| 2026-10-26 14:21:35 | de.abmahnexperte/abmahnung | Abmahnexperte.de | 1.0.0 | Received a German Abmahnung (cease and desist letter)? Send it in chat for a fr… |
+| 2026-10-26 14:23:43 | [io.github.formray/tachyon](https://github.com/formray/tachyon) | Tachyon GPU monitor | 1.0.1 | Read-only NVIDIA GPU monitor for Windows: bottlenecks, VRAM forecast, crash rec… |
+| 2026-10-26 14:25:00 | com.usetuff/tuff | Tuff | 1.0.0 | Projects, tasks, chat and docs for a team and its AI agents, at one flat price. |
+| 2026-10-26 14:26:24 | io.teddit/teddit | Teddit | 1.0.0 | Is your brand named by ChatGPT, Claude, Perplexity, Gemini and Google AI? A yes… |
+| 2026-10-26 14:35:31 | com.detentpoint/cluster-validator | ClusterValidator | 1.13.2 | Read-only health validation for Windows Server failover clusters running SQL Se… |
+| 2026-10-26 14:40:02 | ru.bloodymarybar.go/bloody-mary | Bloody Mary Bar & Grill | 1.0.0 | Часы, меню, акции, бронь и заявки на банкет: Bloody Mary Bar & Grill, Санкт-Пет… |
+| 2026-10-26 14:40:10 | ru.spb.brisket.go/brisket | Brisket Eat & Fun | 1.0.0 | Часы, меню, акции, бронь и заявки на банкет: Brisket Eat & Fun, Санкт-Петербург. |
+| 2026-10-26 14:40:19 | ru.pastramamama.go/pastrama-mama | Pastrama Mama | 1.0.0 | Часы, меню, акции, бронь и заявки на банкет: Pastrama Mama, Санкт-Петербург. |
+| 2026-10-26 14:40:21 | [io.github.empulse-ai/empulse-street-fx](https://github.com/empulse-ai/empulse-mcp) | EMpulse Street FX Index | 1.0.0 | Street FX rates of emerging-market currencies vs USD: latest, history, premium,… |
+| 2026-10-26 14:43:03 | com.slotspreviewai/slot-preview-ai | Slot Preview AI | 1.0.0 | AI slot thumbnails and casino lobby tiles: generate art and export 13 PNG files… |
+| 2026-10-26 14:43:09 | [com.handlepilot/handlepilot](https://github.com/Handlepilot/instagram-mcp) | HandlePilot | 1.0.0 | Instagram content hub for your AI agent: competitor research, reel breakdowns,… |
+| 2026-10-26 14:47:52 | com.getinboxtriage/inbox-triage | Inbox Triage | 1.0.0 | Connect Gmail, Outlook, iCloud, Yahoo and IMAP to AI apps in one MCP connection. |
+| 2026-10-26 14:48:04 | app.screenbird/screenbird | Screenbird | 1.1.0 | Manage Screenbird digital signage screens: see what is live, show content, crea… |
+| 2026-10-26 14:50:31 | tech.p7n/platform7n |  | 0.2.2 | Connect Claude to your Platform7n workspaces: chat, links, work and decks. One-… |
+| 2026-10-26 14:51:20 | one.cambio/swap | Cambio | 1.0.0 | Quotes a crypto swap for an exact amount, helps get TRX, BNB or SOL for fees, t… |
+| 2026-10-26 14:51:55 | [ai.shipeasy/mcp](https://github.com/shipeasy-ai/shipeasy) |  | 2.9.0 | Feature flags, A/B experiments, kill switches, dynamic config & i18n — Shipeasy… |
+| 2026-10-26 14:56:57 | dev.workers.makar52nn2016.money-reactor/x402-money-reactor | Money Reactor | 1.4.1 | Crypto/stock prices, QR, DNS, RSS, URL reader, AI chat, weather, ENS, hashes. U… |
+| 2026-10-26 14:57:19 | app.finpln/finpln | finpln | 4.6.4 | Personal and family finances: free-to-spend, budgets, reports; adds statement r… |
+| 2026-10-26 14:58:56 | [io.github.jmnzcn/mcp-hacienda-cr](https://github.com/jmnzcn/mcp-hacienda-cr) | Hacienda Costa Rica | 0.1.1 | Hacienda de Costa Rica: tipo de cambio, contribuyentes, códigos CABYS con IVA y… |
+| 2026-10-26 14:59:44 | app.unmerge/unmerge | Unmerge | 1.0.0 | Split a flat image into separate transparent PNG layers. Pay with Unmerge credi… |
+| 2026-10-26 14:59:50 | com.makeitsay/makeitsay | MakeItSay | 1.0.0 | Change the words in a screenshot or photo and keep the original font and layout. |
+| 2026-10-26 15:03:24 | [io.github.proxlane/proxlane](https://github.com/proxlane/proxlane) |  | 0.1.1 | Web fetch for agents through your own Proxlane gateway. Block pages come back a… |
+| 2026-10-26 15:04:14 | in.counterfoil/medicines | Counterfoil: medicines sold in India | 0.3.0 | India's medicines: NPPA prices and ceilings, cheaper same-composition brands, C… |
+| 2026-10-26 15:05:07 | [io.github.bracha55555-hue/aimarket](https://github.com/bracha55555-hue/aimarket) | AI Market — Real Agent Supply & Demand | 1.0.0 | Free read-only discovery of authenticated AI services and genuine buyer request… |
+| 2026-10-26 15:06:47 | eu.scorestory/scorestory | ScoreStory | 1.0.0 | NPS, eNPS, CSAT and CES surveys with AI follow-up interviews: create, invite, r… |
+| 2026-10-26 15:07:06 | [io.github.ukenal/x402ai-mcp](https://github.com/ukenal/x402ai-mcp) |  | 0.1.1 | Pay-per-call AI tools (embed, summarize, ask) from x402ai, paid in USDC on Base… |
+| 2026-10-26 15:10:26 | app.conceptviz/diagrams | ConceptViz Scientific Diagrams | 1.0.0 | Create and revise scientific and educational diagrams with ConceptViz. |
+| 2026-10-26 15:10:41 | [com.gufreelancer.lifeverse/public-catalog](https://github.com/lifeversegu/lifeverse-brand-site) | LifeVerse 公开产品目录 | 1.0.0 | 发现、搜索并了解 LifeVerse 已公开且可立即体验的产品。 |
+| 2026-10-26 15:12:40 | io.github.Beer-of-Satoshi-GmbH/shop | Beer of Satoshi Shop | 1.0.0 | Shop Genesis Lager, alcohol-free Zero preorders and gift cards via native Shopi… |
+| 2026-10-26 15:13:43 | [io.github.UnicornGraveyard/slicerbridge](https://github.com/UnicornGraveyard/SlicerBridge) | SlicerBridge | 0.2.0 | Convert a multicolor 3MF project into a ready, checked file for every multicolo… |
+| 2026-10-26 15:13:57 | com.daytrip/mcp | Daytrip | 1.0.0 | Search, quote and book Daytrip private door-to-door car transfers in 130+ count… |
+| 2026-10-26 15:17:38 | com.duoleads.social/social-media-data | Social Media Data API: Posts, Profiles,… | 1.0.0 | Social media posts, profiles, comments, search and mentions across 10 platforms… |
 
 ## Data source
 

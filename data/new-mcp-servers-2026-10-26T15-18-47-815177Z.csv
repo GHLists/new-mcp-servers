@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-10-26T14:21:35.084165Z,de.abmahnexperte/abmahnung,Abmahnexperte.de,1.0.0,,streamable-http,Received a German Abmahnung (cease and desist letter)? Send it in chat for a free lawyer assessment.
+2026-10-26T14:23:43.353924Z,io.github.formray/tachyon,Tachyon GPU monitor,1.0.1,https://github.com/formray/tachyon,,"Read-only NVIDIA GPU monitor for Windows: bottlenecks, VRAM forecast, crash recorder, job history."
+2026-10-26T14:25:00.270905Z,com.usetuff/tuff,Tuff,1.0.0,,streamable-http,"Projects, tasks, chat and docs for a team and its AI agents, at one flat price."
+2026-10-26T14:26:24.761398Z,io.teddit/teddit,Teddit,1.0.0,,streamable-http,"Is your brand named by ChatGPT, Claude, Perplexity, Gemini and Google AI? A yes or no per question."
+2026-10-26T14:35:31.344449Z,com.detentpoint/cluster-validator,ClusterValidator,1.13.2,,,Read-only health validation for Windows Server failover clusters running SQL Server FCI.
+2026-10-26T14:40:02.457738Z,ru.bloodymarybar.go/bloody-mary,Bloody Mary Bar & Grill,1.0.0,,streamable-http,"Часы, меню, акции, бронь и заявки на банкет: Bloody Mary Bar & Grill, Санкт-Петербург."
+2026-10-26T14:40:10.4545Z,ru.spb.brisket.go/brisket,Brisket Eat & Fun,1.0.0,,streamable-http,"Часы, меню, акции, бронь и заявки на банкет: Brisket Eat & Fun, Санкт-Петербург."
+2026-10-26T14:40:19.032849Z,ru.pastramamama.go/pastrama-mama,Pastrama Mama,1.0.0,,streamable-http,"Часы, меню, акции, бронь и заявки на банкет: Pastrama Mama, Санкт-Петербург."
+2026-10-26T14:40:21.261028Z,io.github.empulse-ai/empulse-street-fx,EMpulse Street FX Index,1.0.0,https://github.com/empulse-ai/empulse-mcp,streamable-http,"Street FX rates of emerging-market currencies vs USD: latest, history, premium, stress, events"
+2026-10-26T14:43:03.916007Z,com.slotspreviewai/slot-preview-ai,Slot Preview AI,1.0.0,,streamable-http,AI slot thumbnails and casino lobby tiles: generate art and export 13 PNG files in 6 ratios.
+2026-10-26T14:43:09.482697Z,com.handlepilot/handlepilot,HandlePilot,1.0.0,https://github.com/Handlepilot/instagram-mcp,streamable-http,"Instagram content hub for your AI agent: competitor research, reel breakdowns, plans and carousels."
+2026-10-26T14:47:52.948902Z,com.getinboxtriage/inbox-triage,Inbox Triage,1.0.0,,streamable-http,"Connect Gmail, Outlook, iCloud, Yahoo and IMAP to AI apps in one MCP connection."
+2026-10-26T14:48:04.495647Z,app.screenbird/screenbird,Screenbird,1.1.0,,streamable-http,"Manage Screenbird digital signage screens: see what is live, show content, create designs."
+2026-10-26T14:50:31.723988Z,tech.p7n/platform7n,,0.2.2,,streamable-http,"Connect Claude to your Platform7n workspaces: chat, links, work and decks. One-click OAuth."
+2026-10-26T14:51:20.383785Z,one.cambio/swap,Cambio,1.0.0,,streamable-http,"Quotes a crypto swap for an exact amount, helps get TRX, BNB or SOL for fees, tracks a swap."
+2026-10-26T14:51:55.705276Z,ai.shipeasy/mcp,,2.9.0,https://github.com/shipeasy-ai/shipeasy,streamable-http,"Feature flags, A/B experiments, kill switches, dynamic config & i18n — Shipeasy MCP server."
+2026-10-26T14:56:57.802254Z,dev.workers.makar52nn2016.money-reactor/x402-money-reactor,Money Reactor,1.4.1,,streamable-http,"Crypto/stock prices, QR, DNS, RSS, URL reader, AI chat, weather, ENS, hashes. USDC Base $0.001+"
+2026-10-26T14:57:19.413562Z,app.finpln/finpln,finpln,4.6.4,,streamable-http,"Personal and family finances: free-to-spend, budgets, reports; adds statement rows for review"
+2026-10-26T14:58:56.696657Z,io.github.jmnzcn/mcp-hacienda-cr,Hacienda Costa Rica,0.1.1,https://github.com/jmnzcn/mcp-hacienda-cr,,"Hacienda de Costa Rica: tipo de cambio, contribuyentes, códigos CABYS con IVA y exoneraciones."
+2026-10-26T14:59:44.088446Z,app.unmerge/unmerge,Unmerge,1.0.0,,streamable-http,Split a flat image into separate transparent PNG layers. Pay with Unmerge credits.
+2026-10-26T14:59:50.465117Z,com.makeitsay/makeitsay,MakeItSay,1.0.0,,streamable-http,Change the words in a screenshot or photo and keep the original font and layout.
+2026-10-26T15:03:24.043397Z,io.github.proxlane/proxlane,,0.1.1,https://github.com/proxlane/proxlane,,Web fetch for agents through your own Proxlane gateway. Block pages come back as failures.
+2026-10-26T15:04:14.717986Z,in.counterfoil/medicines,Counterfoil: medicines sold in India,0.3.0,,streamable-http,"India's medicines: NPPA prices and ceilings, cheaper same-composition brands, CDSCO failed batches."
+2026-10-26T15:05:07.668917Z,io.github.bracha55555-hue/aimarket,AI Market — Real Agent Supply & Demand,1.0.0,https://github.com/bracha55555-hue/aimarket,streamable-http,Free read-only discovery of authenticated AI services and genuine buyer requests.
+2026-10-26T15:06:47.742598Z,eu.scorestory/scorestory,ScoreStory,1.0.0,,streamable-http,"NPS, eNPS, CSAT and CES surveys with AI follow-up interviews: create, invite, read results."
+2026-10-26T15:07:06.23198Z,io.github.ukenal/x402ai-mcp,,0.1.1,https://github.com/ukenal/x402ai-mcp,,"Pay-per-call AI tools (embed, summarize, ask) from x402ai, paid in USDC on Base via x402."
+2026-10-26T15:10:26.029964Z,app.conceptviz/diagrams,ConceptViz Scientific Diagrams,1.0.0,,streamable-http,Create and revise scientific and educational diagrams with ConceptViz.
+2026-10-26T15:10:41.930066Z,com.gufreelancer.lifeverse/public-catalog,LifeVerse 公开产品目录,1.0.0,https://github.com/lifeversegu/lifeverse-brand-site,streamable-http,发现、搜索并了解 LifeVerse 已公开且可立即体验的产品。
+2026-10-26T15:12:40.815482Z,io.github.Beer-of-Satoshi-GmbH/shop,Beer of Satoshi Shop,1.0.0,,streamable-http,"Shop Genesis Lager, alcohol-free Zero preorders and gift cards via native Shopify UCP/MCP."
+2026-10-26T15:13:43.037342Z,io.github.UnicornGraveyard/slicerbridge,SlicerBridge,0.2.0,https://github.com/UnicornGraveyard/SlicerBridge,,"Convert a multicolor 3MF project into a ready, checked file for every multicolor printer."
+2026-10-26T15:13:57.025675Z,com.daytrip/mcp,Daytrip,1.0.0,,streamable-http,"Search, quote and book Daytrip private door-to-door car transfers in 130+ countries."
+2026-10-26T15:17:38.918043Z,com.duoleads.social/social-media-data,"Social Media Data API: Posts, Profiles, Comments, Search and Mentions",1.0.0,,streamable-http,"Social media posts, profiles, comments, search and mentions across 10 platforms. Pay per call (x402)"
