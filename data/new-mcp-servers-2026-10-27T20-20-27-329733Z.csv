@@ -1,0 +1,38 @@
+created_at,server,title,version,repository,transports,description
+2026-10-27T19:22:22.052746Z,com.aitrainingdatabroker/mcp,AI Training Data Broker,1.0.0,,streamable-http,"Guidance on selling or licensing company data to AI labs: deal steps, de-identification, compliance."
+2026-10-27T19:22:55.759385Z,com.blabigo/linkedin-agent,Blabigo LinkedIn,1.6.0,,streamable-http,"LinkedIn analytics, media uploads and scheduling for AI agents. Agents queue; Blabigo publishes."
+2026-10-27T19:23:24.808754Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-awardline-mcp,Eclipse Awardline,0.1.1,https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-awardline-mcp,,"Per-term sealed grant spend evidence; reports recompute from receipts, local/simulator."
+2026-10-27T19:24:19.599786Z,digital.amber/testmode,Testmode AI,1.6.1,,streamable-http,"Write, run and check natural-language browser tests of your web app from your AI assistant."
+2026-10-27T19:27:47.167162Z,mk.finportal/financial-intelligence,FinPortal.mk Financial Intelligence,1.0.0,https://github.com/jovan1301/FinPortal,streamable-http,Read-only access to attributed financial news and original FinPortal.mk articles.
+2026-10-27T19:30:13.074969Z,io.github.Helios-One-Oy/odoo-mcp,Odoo,0.1.0,https://github.com/Helios-One-Oy/odoo-mcp-server,,"Odoo orders, late lines, supplier promise dates, manufacturing and stock. Read-only by default."
+2026-10-27T19:31:03.181003Z,io.github.CloudCorpRecords/graphmind,,0.1.0,https://github.com/CloudCorpRecords/graphmind,,"Persistent knowledge graph: entities, relations, and observations for agents."
+2026-10-27T19:32:36.292064Z,io.github.NarwhalThePong/freelance-tax-mcp,US Freelancer Tax Calculator 2026,1.1.0,https://github.com/NarwhalThePong/freelance-tax-mcp,,"2026 US freelancer tax: quarterly estimates, SE tax, due dates, mileage, home office, SEP/401(k)."
+2026-10-27T19:32:46.822268Z,com.boolfy/agents,Boolfy Agents,1.0.0,,streamable-http,"Query AI-extracted invoice and receipt data, documents and suppliers from Boolfy Agents."
+2026-10-27T19:33:38.78178Z,io.github.Honeyfield-Org/ris,,1.8.3,https://github.com/Honeyfield-Org/ris-mcp-ts,,"Access Austrian laws, court decisions & legal documents via the RIS API."
+2026-10-27T19:34:39.945436Z,org.expatslist/mcp,Expatslist,1.0.0,,streamable-http,"City guides, local business listings and Q&A for expats and newcomers in cities worldwide."
+2026-10-27T19:34:41.239714Z,com.courierpr/mcp,CourierPR,1.0.0,,streamable-http,Search and read published company press releases across six newsroom desks and twenty categories.
+2026-10-27T19:34:42.530532Z,com.free100leads/mcp,Free100Leads,1.0.0,,streamable-http,"Check B2B contact coverage by country, industry, company size and US state."
+2026-10-27T19:34:43.824378Z,com.boardroomlist/mcp,BoardroomList,1.0.0,,streamable-http,"Search open senior roles, Manager to CEO, at the 500 largest US companies."
+2026-10-27T19:36:34.057181Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-insurepack-mcp,Eclipse Insurepack,0.1.1,https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-insurepack-mcp,,"Fixture cyber-insurance evidence assembly with change receipts; local only, not underwriting."
+2026-10-27T19:39:25.884333Z,io.github.cheadlee10/sentinel-wa-realestate,SENTINEL Washington Real Estate,1.6.0,https://github.com/cheadlee10/sentinel-mcp,streamable-http; streamable-http,"Washington property evidence and transaction math for agents in Claude, ChatGPT and AI apps."
+2026-10-27T19:40:26.082948Z,com.free100localleads/mcp,Free100LocalLeads,1.0.0,,streamable-http,"Check local business contact coverage by country, category and US state."
+2026-10-27T19:40:27.981311Z,com.free100ecommerceleads/mcp,Free100EcommerceLeads,1.0.0,,streamable-http,"Check ecommerce store contact coverage by country, platform and company size."
+2026-10-27T19:40:29.651635Z,com.free100startupleads/mcp,Free100StartupLeads,1.0.0,,streamable-http,"Check startup contact coverage by country, category and company size."
+2026-10-27T19:40:31.269643Z,com.free100influencerleads/mcp,Free100InfluencerLeads,1.0.0,,streamable-http,"Check influencer contact coverage by country, creator category and follower band."
+2026-10-27T19:40:34.179287Z,com.free100realtorleads/mcp,Free100RealtorLeads,1.0.0,,streamable-http,Check realtor and brokerage contact coverage by country and US state.
+2026-10-27T19:41:54.51328Z,io.github.CloudCorpRecords/repoport,,0.1.0,https://github.com/CloudCorpRecords/repoport,,"Local git operations over MCP: status, diff, log, branches and commits."
+2026-10-27T19:51:52.60815Z,io.github.aloth/cred-1,CRED-1,2026.10.27,https://github.com/aloth/cred-1,,"Domain credibility ratings from the CRED-1 dataset: check, batch check and search news domains"
+2026-10-27T19:54:15.28413Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-ballotbox-mcp,Eclipse Ballotbox,0.1.1,https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-ballotbox-mcp,,"Ballots sealed to vote-time mandate-eligibility proofs; fixture elections, local only."
+2026-10-27T19:56:32.731245Z,io.github.eddyflores100-lang/uta-shield-remote,uta-shield Remote (Barter-enabled),0.3.0,https://github.com/eddyflores100-lang/uta-shield,streamable-http,"Remote MCP firewall with barter protocol: identity, threat-intel, IoC lookup."
+2026-10-27T19:59:30.419159Z,io.github.CloudCorpRecords/litebase,,0.1.0,https://github.com/CloudCorpRecords/litebase,,"SQLite database access for agents: query, write, create and describe tables, record insights."
+2026-10-27T20:00:09.440965Z,com.upsnatch/search-expired-domains,UpSnatch Expired Domain Search,1.2.0,,streamable-http,"Search 55M+ expired domains, auctions, marketplaces & drops with SEO metrics, spam score and filters"
+2026-10-27T20:00:21.95162Z,app.fotofoto/photo-book,foto foto,2.0.0,,streamable-http,Turn your photos or a public iCloud Shared Album into a printed hardcover photo book.
+2026-10-27T20:00:39.465045Z,io.github.mr-min-max/staledocs,StaleDocs,0.5.0-beta.1,https://github.com/mr-min-max/staledocs,,Finds documentation that no longer matches your code. Deterministic AST check; no API key.
+2026-10-27T20:07:45.862906Z,ai.fundas/horizoniq,HorizonIQ,1.0.0,,streamable-http,"Licensed, analysis-ready US public data for AI: industries, economy and local markets."
+2026-10-27T20:08:00.14807Z,com.soleilpictures/clusters,Soleil Clusters,3.0.0,https://github.com/arconkli/soleilpictures,streamable-http,"Read and build visual moodboards, shot lists and lookbooks from an AI assistant."
+2026-10-27T20:10:27.60157Z,com.qrforprint/qrforprint,qrforprint,1.0.0,,streamable-http,"QR codes for print: free previews, plus dynamic link codes you can repoint after printing."
+2026-10-27T20:12:58.977981Z,io.github.CloudCorpRecords/allfeatures,,0.1.0,https://github.com/CloudCorpRecords/allfeatures,,"Protocol feature showcase: echo, math, resources, images, sampling and elicitation demos."
+2026-10-27T20:13:04.431624Z,io.github.henriknh/runiji,,1.0.0,https://github.com/henriknh/runiji,streamable-http,"Connect to runiji and access your runs, run details, stats and more."
+2026-10-27T20:18:14.183542Z,nz.aiready/mcp,AIready (aiready.nz),1.0.0,https://github.com/aiready-nz/aiready-mcp,streamable-http,"AIready (aiready.nz): AI/agent readiness scans, Agentic Readiness Check quotes, and reports."
+2026-10-27T20:18:35.532326Z,io.github.yagizdo/karagoz-mcp,Karagöz,0.1.0,https://github.com/yagizdo/karagoz-mcp,,"Device automation for Android emulators and phones, iOS simulators and iPhones"
+2026-10-27T20:18:45.135534Z,co.darkknightcave/motion,DarkKnight Cave Motion Library,0.1.2,,streamable-http,Search attributed motion recipes and prepare prompts for your coding agent. No API key required.
