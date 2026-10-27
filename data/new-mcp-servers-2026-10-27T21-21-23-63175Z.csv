@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-10-27T20:20:40.813148Z,com.fiscalisto/docs,Fiscalisto API docs,1.2.0,,streamable-http,"Docs for Fiscalisto's Mexican e-invoicing API (CFDI 4.0): search, operations, SDK code, errors."
+2026-10-27T20:20:41.015301Z,com.fiscalisto/fiscalisto,Fiscalisto,1.0.0,,streamable-http,"Mexican invoicing (CFDI 4.0) and SAT taxes: search, draft and stamp invoices, IVA/ISR, 32-D."
+2026-10-27T20:20:46.056379Z,io.github.camgitt/memoir,,3.17.6,https://github.com/camgitt/memoir,,Persistent memory for AI coding tools via MCP. Remembers across sessions and machines.
+2026-10-27T20:24:03.459247Z,io.github.CydVilla/peckish,Peckish — DoorDash ordering,0.6.0,https://github.com/CydVilla/peckish,,Order food on DoorDash — compare real fee-included totals; you approve every order.
+2026-10-27T20:30:11.087096Z,io.github.Misterio070/scanpay,ScanPay — Code Security Oracle,1.2.0,https://github.com/Misterio070/scanpay,streamable-http; sse,"Deterministic code security scan + tx preflight, paid in USDC via x402."
+2026-10-27T20:34:08.014313Z,org.celo/x402-facilitator,Celo x402 Facilitator,1.0.0,,streamable-http,Check supported assets and verify x402 payments on Celo
+2026-10-27T20:34:25.26674Z,io.firsay/firsay,Firsay,1.1.0,,streamable-http,"Find Web3 people with proof: founders, BD and listing managers, KOLs, market makers, VCs."
+2026-10-27T20:35:28.53466Z,io.github.CloudCorpRecords/feedport,,0.1.0,https://github.com/CloudCorpRecords/feedport,,Fetch and parse RSS or Atom feeds from a URL.
+2026-10-27T20:35:32.09042Z,io.github.brianshin22/youtube-translate,YouTube Translate,0.2.1,https://github.com/brianshin22/youtube-translate-mcp,streamable-http,"Transcripts, translations, summaries, subtitles, and search for public YouTube videos."
+2026-10-27T20:35:45.785228Z,io.github.RosoAI/krafters,Krafters,1.0.0,,streamable-http,"Krafters club members open their specialized AI kits (ads, SEO/GEO, short videos) in one sentence."
+2026-10-27T20:36:27.709837Z,org.celo/celo-mcp,Celo MCP Server,0.4.3,https://github.com/celo-org/celo-mcp,,"Query Celo blockchain data: blocks, tokens, NFTs, contracts, governance and staking"
+2026-10-27T20:36:44.180383Z,dev.bullionapi/bullion-api,Bullion API,0.2.2,,streamable-http,"Read-only gold and precious-metal prices, central-bank gold and macro data. OAuth sign-in."
+2026-10-27T20:36:58.899539Z,xyz.wafermap/wafermap,Wafermap,1.0.0,,streamable-http,"x402 layer for AI agents: 35 pay-per-call resources, x402 service discovery, USDG/USDC."
+2026-10-27T20:38:49.455748Z,io.github.luciancapdefier/explainly,Explainly,1.0.0,,streamable-http,"Turn a prompt into a narrated whiteboard explainer video (MP4). Pay per minute, no subscription."
+2026-10-27T20:40:06.373935Z,io.github.CodyWatters/riveter,Riveter,0.3.4,https://github.com/riveterhq/riveter-mcp,streamable-http,"MCP server for Riveter's enrichment, scraping, and monitoring API"
+2026-10-27T20:40:53.884473Z,io.github.random-orbit/chemglyph,ChemGlyph,0.2.0,https://github.com/chemglyph/chemglyph,,Publication-quality chemical structure and reaction rendering for AI agents.
+2026-10-27T20:41:25.611974Z,dev.tuvio/tuvio,Tuvio,1.0.0,,streamable-http,"Security scans for AI-built apps: leaked keys, open Supabase RLS, vulnerable packages, live sites."
+2026-10-27T20:43:11.223335Z,works.remjobs/remjobs,RemJobs,1.0.0,,streamable-http,"Find startups worldwide by city, industry, remote hiring or YC batch, with founders and open roles."
+2026-10-27T20:47:10.489323Z,so.onestore/onestore,OneStore,2.0.0,,streamable-http,"Manage App Store and Google Play apps: listings, screenshots, builds, releases, reviews, metrics."
+2026-10-27T20:47:23.835578Z,io.github.CloudCorpRecords/pgport,,0.1.0,https://github.com/CloudCorpRecords/pgport,,Read-only SQL queries against a PostgreSQL database.
+2026-10-27T20:47:58.463415Z,markets.equitycapital/equitycapital-markets,,1.0.0,,streamable-http,"Open ledger of U.S. share offerings from SEC EDGAR since 2002: IPOs, SPACs, shelves, withdrawals."
+2026-10-27T20:54:32.33786Z,app.runitby/runitby,Run it by,1.0.0,,streamable-http,"Ask a person outside the chat: forms, intake and approvals by link, with the answer back as JSON."
+2026-10-27T20:58:06.689391Z,com.recordmeeting/recordmeeting,Record Meeting,2.0.0,https://github.com/Qualtir/RecordMeetingMCP,streamable-http,Search your recorded meetings and read their speaker-labelled transcripts and AI notes.
+2026-10-27T21:01:55.548268Z,com.trackerhacker/mcp,TrackerHacker,1.0.0,,streamable-http,"Spreadsheets that fill themselves from your emails and webhooks, the same way every time."
+2026-10-27T21:03:15.718878Z,dev.shveik/agbrowser,agbrowser,1.0.0,,streamable-http,"Browser sessions for agents: navigate, interact, read and screenshot. Pay in stablecoins."
+2026-10-27T21:07:14.142444Z,so.stick/stick,Stick,1.0.0,,streamable-http,Build and edit link-in-bio and landing pages on Stick from chat. Saves drafts; you publish.
+2026-10-27T21:08:14.300857Z,io.github.realbtr/firstagi-arena,FirstAGI Arena,0.1.0,https://github.com/realbtr/firstagi,,Scored research challenges for AI agent fleets on a non-LLM cognitive architecture.
+2026-10-27T21:11:51.654348Z,com.maximusmediahouse/preplayer,PrepLayer.ai,0.2.0,https://github.com/maximusboomerus-afk/preplayer-mcp,streamable-http,Deterministic text prep for agents. Pay per call via x402 USDC.
+2026-10-27T21:18:44.105087Z,io.formeo/mcp-server,Formeo,0.1.0,https://github.com/Draggable/formeo.io,,"Build and publish Formeo forms, read and export submissions, and get embed code from AI agents"
+2026-10-27T21:19:11.366202Z,com.textforagents/elicitation-destination-verdict,Elicitation-Destination Verdict,1.0.0,,streamable-http,Grade MCP elicitation destinations against the approved set before consent.

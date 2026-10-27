@@ -9,51 +9,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 20:20 UTC
+## Latest list — 2026-10-27 21:21 UTC
 
-New MCP servers published between 2026-10-27 19:21 UTC and 2026-10-27 20:20 UTC.
+New MCP servers published between 2026-10-27 20:20 UTC and 2026-10-27 21:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-27T20-20-27-329733Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-27T21-21-23-63175Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-27 19:22:22 | com.aitrainingdatabroker/mcp | AI Training Data Broker | 1.0.0 | Guidance on selling or licensing company data to AI labs: deal steps, de-identi… |
-| 2026-10-27 19:22:55 | com.blabigo/linkedin-agent | Blabigo LinkedIn | 1.6.0 | LinkedIn analytics, media uploads and scheduling for AI agents. Agents queue; B… |
-| 2026-10-27 19:23:24 | [io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-awardline-mcp](https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-awardline-mcp) | Eclipse Awardline | 0.1.1 | Per-term sealed grant spend evidence; reports recompute from receipts, local/si… |
-| 2026-10-27 19:24:19 | digital.amber/testmode | Testmode AI | 1.6.1 | Write, run and check natural-language browser tests of your web app from your A… |
-| 2026-10-27 19:27:47 | [mk.finportal/financial-intelligence](https://github.com/jovan1301/FinPortal) | FinPortal.mk Financial Intelligence | 1.0.0 | Read-only access to attributed financial news and original FinPortal.mk article… |
-| 2026-10-27 19:30:13 | [io.github.Helios-One-Oy/odoo-mcp](https://github.com/Helios-One-Oy/odoo-mcp-server) | Odoo | 0.1.0 | Odoo orders, late lines, supplier promise dates, manufacturing and stock. Read-… |
-| 2026-10-27 19:31:03 | [io.github.CloudCorpRecords/graphmind](https://github.com/CloudCorpRecords/graphmind) |  | 0.1.0 | Persistent knowledge graph: entities, relations, and observations for agents. |
-| 2026-10-27 19:32:36 | [io.github.NarwhalThePong/freelance-tax-mcp](https://github.com/NarwhalThePong/freelance-tax-mcp) | US Freelancer Tax Calculator 2026 | 1.1.0 | 2026 US freelancer tax: quarterly estimates, SE tax, due dates, mileage, home o… |
-| 2026-10-27 19:32:46 | com.boolfy/agents | Boolfy Agents | 1.0.0 | Query AI-extracted invoice and receipt data, documents and suppliers from Boolf… |
-| 2026-10-27 19:33:38 | [io.github.Honeyfield-Org/ris](https://github.com/Honeyfield-Org/ris-mcp-ts) |  | 1.8.3 | Access Austrian laws, court decisions & legal documents via the RIS API. |
-| 2026-10-27 19:34:39 | org.expatslist/mcp | Expatslist | 1.0.0 | City guides, local business listings and Q&A for expats and newcomers in cities… |
-| 2026-10-27 19:34:41 | com.courierpr/mcp | CourierPR | 1.0.0 | Search and read published company press releases across six newsroom desks and… |
-| 2026-10-27 19:34:42 | com.free100leads/mcp | Free100Leads | 1.0.0 | Check B2B contact coverage by country, industry, company size and US state. |
-| 2026-10-27 19:34:43 | com.boardroomlist/mcp | BoardroomList | 1.0.0 | Search open senior roles, Manager to CEO, at the 500 largest US companies. |
-| 2026-10-27 19:36:34 | [io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-insurepack-mcp](https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-insurepack-mcp) | Eclipse Insurepack | 0.1.1 | Fixture cyber-insurance evidence assembly with change receipts; local only, not… |
-| 2026-10-27 19:39:25 | [io.github.cheadlee10/sentinel-wa-realestate](https://github.com/cheadlee10/sentinel-mcp) | SENTINEL Washington Real Estate | 1.6.0 | Washington property evidence and transaction math for agents in Claude, ChatGPT… |
-| 2026-10-27 19:40:26 | com.free100localleads/mcp | Free100LocalLeads | 1.0.0 | Check local business contact coverage by country, category and US state. |
-| 2026-10-27 19:40:27 | com.free100ecommerceleads/mcp | Free100EcommerceLeads | 1.0.0 | Check ecommerce store contact coverage by country, platform and company size. |
-| 2026-10-27 19:40:29 | com.free100startupleads/mcp | Free100StartupLeads | 1.0.0 | Check startup contact coverage by country, category and company size. |
-| 2026-10-27 19:40:31 | com.free100influencerleads/mcp | Free100InfluencerLeads | 1.0.0 | Check influencer contact coverage by country, creator category and follower ban… |
-| 2026-10-27 19:40:34 | com.free100realtorleads/mcp | Free100RealtorLeads | 1.0.0 | Check realtor and brokerage contact coverage by country and US state. |
-| 2026-10-27 19:41:54 | [io.github.CloudCorpRecords/repoport](https://github.com/CloudCorpRecords/repoport) |  | 0.1.0 | Local git operations over MCP: status, diff, log, branches and commits. |
-| 2026-10-27 19:51:52 | [io.github.aloth/cred-1](https://github.com/aloth/cred-1) | CRED-1 | 2026.10.27 | Domain credibility ratings from the CRED-1 dataset: check, batch check and sear… |
-| 2026-10-27 19:54:15 | [io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-ballotbox-mcp](https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-ballotbox-mcp) | Eclipse Ballotbox | 0.1.1 | Ballots sealed to vote-time mandate-eligibility proofs; fixture elections, loca… |
-| 2026-10-27 19:56:32 | [io.github.eddyflores100-lang/uta-shield-remote](https://github.com/eddyflores100-lang/uta-shield) | uta-shield Remote (Barter-enabled) | 0.3.0 | Remote MCP firewall with barter protocol: identity, threat-intel, IoC lookup. |
-| 2026-10-27 19:59:30 | [io.github.CloudCorpRecords/litebase](https://github.com/CloudCorpRecords/litebase) |  | 0.1.0 | SQLite database access for agents: query, write, create and describe tables, re… |
-| 2026-10-27 20:00:09 | com.upsnatch/search-expired-domains | UpSnatch Expired Domain Search | 1.2.0 | Search 55M+ expired domains, auctions, marketplaces & drops with SEO metrics, s… |
-| 2026-10-27 20:00:21 | app.fotofoto/photo-book | foto foto | 2.0.0 | Turn your photos or a public iCloud Shared Album into a printed hardcover photo… |
-| 2026-10-27 20:00:39 | [io.github.mr-min-max/staledocs](https://github.com/mr-min-max/staledocs) | StaleDocs | 0.5.0-beta.1 | Finds documentation that no longer matches your code. Deterministic AST check;… |
-| 2026-10-27 20:07:45 | ai.fundas/horizoniq | HorizonIQ | 1.0.0 | Licensed, analysis-ready US public data for AI: industries, economy and local m… |
-| 2026-10-27 20:08:00 | [com.soleilpictures/clusters](https://github.com/arconkli/soleilpictures) | Soleil Clusters | 3.0.0 | Read and build visual moodboards, shot lists and lookbooks from an AI assistant. |
-| 2026-10-27 20:10:27 | com.qrforprint/qrforprint | qrforprint | 1.0.0 | QR codes for print: free previews, plus dynamic link codes you can repoint afte… |
-| 2026-10-27 20:12:58 | [io.github.CloudCorpRecords/allfeatures](https://github.com/CloudCorpRecords/allfeatures) |  | 0.1.0 | Protocol feature showcase: echo, math, resources, images, sampling and elicitat… |
-| 2026-10-27 20:13:04 | [io.github.henriknh/runiji](https://github.com/henriknh/runiji) |  | 1.0.0 | Connect to runiji and access your runs, run details, stats and more. |
-| 2026-10-27 20:18:14 | [nz.aiready/mcp](https://github.com/aiready-nz/aiready-mcp) | AIready (aiready.nz) | 1.0.0 | AIready (aiready.nz): AI/agent readiness scans, Agentic Readiness Check quotes,… |
-| 2026-10-27 20:18:35 | [io.github.yagizdo/karagoz-mcp](https://github.com/yagizdo/karagoz-mcp) | Karagöz | 0.1.0 | Device automation for Android emulators and phones, iOS simulators and iPhones |
-| 2026-10-27 20:18:45 | co.darkknightcave/motion | DarkKnight Cave Motion Library | 0.1.2 | Search attributed motion recipes and prepare prompts for your coding agent. No… |
+| 2026-10-27 20:20:40 | com.fiscalisto/docs | Fiscalisto API docs | 1.2.0 | Docs for Fiscalisto's Mexican e-invoicing API (CFDI 4.0): search, operations, S… |
+| 2026-10-27 20:20:41 | com.fiscalisto/fiscalisto | Fiscalisto | 1.0.0 | Mexican invoicing (CFDI 4.0) and SAT taxes: search, draft and stamp invoices, I… |
+| 2026-10-27 20:20:46 | [io.github.camgitt/memoir](https://github.com/camgitt/memoir) |  | 3.17.6 | Persistent memory for AI coding tools via MCP. Remembers across sessions and ma… |
+| 2026-10-27 20:24:03 | [io.github.CydVilla/peckish](https://github.com/CydVilla/peckish) | Peckish — DoorDash ordering | 0.6.0 | Order food on DoorDash — compare real fee-included totals; you approve every or… |
+| 2026-10-27 20:30:11 | [io.github.Misterio070/scanpay](https://github.com/Misterio070/scanpay) | ScanPay — Code Security Oracle | 1.2.0 | Deterministic code security scan + tx preflight, paid in USDC via x402. |
+| 2026-10-27 20:34:08 | org.celo/x402-facilitator | Celo x402 Facilitator | 1.0.0 | Check supported assets and verify x402 payments on Celo |
+| 2026-10-27 20:34:25 | io.firsay/firsay | Firsay | 1.1.0 | Find Web3 people with proof: founders, BD and listing managers, KOLs, market ma… |
+| 2026-10-27 20:35:28 | [io.github.CloudCorpRecords/feedport](https://github.com/CloudCorpRecords/feedport) |  | 0.1.0 | Fetch and parse RSS or Atom feeds from a URL. |
+| 2026-10-27 20:35:32 | [io.github.brianshin22/youtube-translate](https://github.com/brianshin22/youtube-translate-mcp) | YouTube Translate | 0.2.1 | Transcripts, translations, summaries, subtitles, and search for public YouTube… |
+| 2026-10-27 20:35:45 | io.github.RosoAI/krafters | Krafters | 1.0.0 | Krafters club members open their specialized AI kits (ads, SEO/GEO, short video… |
+| 2026-10-27 20:36:27 | [org.celo/celo-mcp](https://github.com/celo-org/celo-mcp) | Celo MCP Server | 0.4.3 | Query Celo blockchain data: blocks, tokens, NFTs, contracts, governance and sta… |
+| 2026-10-27 20:36:44 | dev.bullionapi/bullion-api | Bullion API | 0.2.2 | Read-only gold and precious-metal prices, central-bank gold and macro data. OAu… |
+| 2026-10-27 20:36:58 | xyz.wafermap/wafermap | Wafermap | 1.0.0 | x402 layer for AI agents: 35 pay-per-call resources, x402 service discovery, US… |
+| 2026-10-27 20:38:49 | io.github.luciancapdefier/explainly | Explainly | 1.0.0 | Turn a prompt into a narrated whiteboard explainer video (MP4). Pay per minute,… |
+| 2026-10-27 20:40:06 | [io.github.CodyWatters/riveter](https://github.com/riveterhq/riveter-mcp) | Riveter | 0.3.4 | MCP server for Riveter's enrichment, scraping, and monitoring API |
+| 2026-10-27 20:40:53 | [io.github.random-orbit/chemglyph](https://github.com/chemglyph/chemglyph) | ChemGlyph | 0.2.0 | Publication-quality chemical structure and reaction rendering for AI agents. |
+| 2026-10-27 20:41:25 | dev.tuvio/tuvio | Tuvio | 1.0.0 | Security scans for AI-built apps: leaked keys, open Supabase RLS, vulnerable pa… |
+| 2026-10-27 20:43:11 | works.remjobs/remjobs | RemJobs | 1.0.0 | Find startups worldwide by city, industry, remote hiring or YC batch, with foun… |
+| 2026-10-27 20:47:10 | so.onestore/onestore | OneStore | 2.0.0 | Manage App Store and Google Play apps: listings, screenshots, builds, releases,… |
+| 2026-10-27 20:47:23 | [io.github.CloudCorpRecords/pgport](https://github.com/CloudCorpRecords/pgport) |  | 0.1.0 | Read-only SQL queries against a PostgreSQL database. |
+| 2026-10-27 20:47:58 | markets.equitycapital/equitycapital-markets |  | 1.0.0 | Open ledger of U.S. share offerings from SEC EDGAR since 2002: IPOs, SPACs, she… |
+| 2026-10-27 20:54:32 | app.runitby/runitby | Run it by | 1.0.0 | Ask a person outside the chat: forms, intake and approvals by link, with the an… |
+| 2026-10-27 20:58:06 | [com.recordmeeting/recordmeeting](https://github.com/Qualtir/RecordMeetingMCP) | Record Meeting | 2.0.0 | Search your recorded meetings and read their speaker-labelled transcripts and A… |
+| 2026-10-27 21:01:55 | com.trackerhacker/mcp | TrackerHacker | 1.0.0 | Spreadsheets that fill themselves from your emails and webhooks, the same way e… |
+| 2026-10-27 21:03:15 | dev.shveik/agbrowser | agbrowser | 1.0.0 | Browser sessions for agents: navigate, interact, read and screenshot. Pay in st… |
+| 2026-10-27 21:07:14 | so.stick/stick | Stick | 1.0.0 | Build and edit link-in-bio and landing pages on Stick from chat. Saves drafts;… |
+| 2026-10-27 21:08:14 | [io.github.realbtr/firstagi-arena](https://github.com/realbtr/firstagi) | FirstAGI Arena | 0.1.0 | Scored research challenges for AI agent fleets on a non-LLM cognitive architect… |
+| 2026-10-27 21:11:51 | [com.maximusmediahouse/preplayer](https://github.com/maximusboomerus-afk/preplayer-mcp) | PrepLayer.ai | 0.2.0 | Deterministic text prep for agents. Pay per call via x402 USDC. |
+| 2026-10-27 21:18:44 | [io.formeo/mcp-server](https://github.com/Draggable/formeo.io) | Formeo | 0.1.0 | Build and publish Formeo forms, read and export submissions, and get embed code… |
+| 2026-10-27 21:19:11 | com.textforagents/elicitation-destination-verdict | Elicitation-Destination Verdict | 1.0.0 | Grade MCP elicitation destinations against the approved set before consent. |
 
 ## Data source
 
