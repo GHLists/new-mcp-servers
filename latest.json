@@ -417,6 +417,7 @@
     "ai.khive/khive",
     "ai.kijito/kijito",
     "ai.kinlab/kin",
+    "ai.kinsy/mcp-server",
     "ai.kisscode/kisscode",
     "ai.kliqo/ai-visibility",
     "ai.kloudy/kloudy",
@@ -2254,6 +2255,7 @@
     "com.agentsretreat/the-retreat",
     "com.agentsspeakup/agents-speak-up",
     "com.agentstackdirectory/agent-stack-directory",
+    "com.agentstandings/check",
     "com.agenttaskatlas/catalog",
     "com.agenttoolworks/invoiceforge",
     "com.agenttoolworks/jobsradar",
@@ -3163,6 +3165,7 @@
     "com.dharmikvibes/studio",
     "com.dharmikvibes/wellness",
     "com.dialogbrain/dialogbrain",
+    "com.diamonds-expert/diamond-sourcing",
     "com.didlogic/mcp",
     "com.didyouseo/mcp",
     "com.difcvsadgm/site",
@@ -4368,6 +4371,7 @@
     "com.llmotions.farm/gpt-6-astra",
     "com.llmotions.farm/gpt-6-sol",
     "com.llmotions.farm/opus-5-5",
+    "com.llmtomd/llmtomd",
     "com.lnkdrp/linkdrop",
     "com.loadster/loadster-mcp",
     "com.lobbyvo/site",
@@ -7623,6 +7627,7 @@
     "dev.workers.nadirventurelabs.agent-revenue-network/agent-revenue-network",
     "dev.workers.neoaethel.carrier-ledger/carrier-ledger",
     "dev.workers.nextgenmovers.ngm-agent-api/movers",
+    "dev.workers.northline-c86.northline-chainkit/chainkit",
     "dev.workers.okwithit9.verify-x402/contact-verify",
     "dev.workers.ondalith.mcp/greenhouse-lever-jobs",
     "dev.workers.orbit-builder.crypto-news/crypto-news",
@@ -15104,6 +15109,7 @@
     "io.github.ndyakov/lastfm-mcp",
     "io.github.nealshulman/podpitch",
     "io.github.neat-technologies/neat",
+    "io.github.neblexhq/neblex",
     "io.github.neelsatyavolu/consult",
     "io.github.negm17111995/maqami-travel",
     "io.github.neilberkman/ccrider",
@@ -16865,6 +16871,7 @@
     "io.github.proprock/sql-safe-mcp",
     "io.github.proscar87/oura-mcp",
     "io.github.provenpin/provenpin",
+    "io.github.provjeraHR/provjera-hr-mcp",
     "io.github.proxlane/proxlane",
     "io.github.proxy-intell/facebook-ads-library",
     "io.github.proxy-intell/google-ads-library",
@@ -20220,6 +20227,7 @@
     "online.clipy/mcp",
     "online.disputes/mcp",
     "online.econtract/mcp",
+    "online.environ/environ-mcp",
     "online.fileshareforagents/mcp",
     "online.gofigure/data-figure-studio",
     "online.golfdata/golf-clubs",
@@ -20750,6 +20758,7 @@
     "space.openplatform/open-platform",
     "space.partyfun/partyfun",
     "space.spontanno/events",
+    "space.strata/strataspace",
     "space.studiosphere/pulse",
     "sr.rush/lap-analyzer",
     "sr.rush/maintenance",
@@ -21405,11 +21414,11 @@
     "za.co.wrdo/wrdo"
   ],
   "list": {
-    "count": 41,
-    "from": "2026-10-26T23:19:48.059565Z",
-    "path": "data/new-mcp-servers-2026-10-27T00-20-21-658792Z.csv",
-    "to": "2026-10-27T00:20:21.658792Z"
+    "count": 9,
+    "from": "2026-10-27T00:20:21.658792Z",
+    "path": "data/new-mcp-servers-2026-10-27T01-21-20-496309Z.csv",
+    "to": "2026-10-27T01:21:20.496309Z"
   },
   "source_truncated": false,
-  "window": "2026-10-27T00:20:21.658792Z"
+  "window": "2026-10-27T01:21:20.496309Z"
 }
