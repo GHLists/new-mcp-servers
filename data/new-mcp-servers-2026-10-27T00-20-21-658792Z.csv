@@ -1,0 +1,42 @@
+created_at,server,title,version,repository,transports,description
+2026-10-26T23:19:48.879003Z,io.github.pipeworx-io/idigbio,Idigbio,0.1.3,https://github.com/pipeworx-io/mcp-idigbio,streamable-http,iDigBio biodiversity specimen MCP.
+2026-10-26T23:20:00.231103Z,io.github.pipeworx-io/ietf-datatracker,Ietf Datatracker,0.1.3,https://github.com/pipeworx-io/mcp-ietf-datatracker,streamable-http,IETF Datatracker MCP.
+2026-10-26T23:20:11.111997Z,io.github.pipeworx-io/ifsc-in,Ifsc In,0.1.3,https://github.com/pipeworx-io/mcp-ifsc-in,streamable-http,ifsc-in MCP — Indian bank branch IFSC code lookup via Razorpay's open IFSC API…
+2026-10-26T23:20:16.227196Z,com.suumer/events,Suumer,1.0.0,,streamable-http,"Local US events by town, date and kind (trivia, live music, karaoke...), each checked at its source."
+2026-10-26T23:20:21.906262Z,io.github.pipeworx-io/igdb,Igdb,0.1.3,https://github.com/pipeworx-io/mcp-igdb,streamable-http,"IGDB — the Internet Game Database (Twitch/Amazon), the reference catalogue for video games."
+2026-10-26T23:20:55.641793Z,io.github.pipeworx-io/imdb,Imdb,0.1.3,https://github.com/pipeworx-io/mcp-imdb,streamable-http,"IMDB MCP — title metadata, ratings, episodes, and crew from IMDB's official non-commercial bulk…"
+2026-10-26T23:21:06.83358Z,io.github.pipeworx-io/imf,Imf,0.1.3,https://github.com/pipeworx-io/mcp-imf,streamable-http,IMF MCP — wraps the IMF SDMX 2.1 REST API (api.imf.org)
+2026-10-26T23:21:17.828654Z,io.github.pipeworx-io/imf-portwatch,Imf Portwatch,0.1.3,https://github.com/pipeworx-io/mcp-imf-portwatch,streamable-http,"IMF PortWatch MCP — global maritime trade & chokepoint signals (free, no auth)"
+2026-10-26T23:21:29.136426Z,io.github.pipeworx-io/imgflip,Imgflip,1.0.3,https://github.com/pipeworx-io/mcp-imgflip,streamable-http,"Imgflip MCP — wraps Imgflip API (free, no auth for template listing)"
+2026-10-26T23:21:40.263601Z,io.github.pipeworx-io/inaturalist,Inaturalist,0.1.3,https://github.com/pipeworx-io/mcp-inaturalist,streamable-http,"iNaturalist MCP — citizen-science species observations (free, no auth for read-only)"
+2026-10-26T23:22:36.548687Z,io.github.pipeworx-io/ine-es,Ine Es,0.1.3,https://github.com/pipeworx-io/mcp-ine-es,streamable-http,INE Spain (Instituto Nacional de Estadística) Tempus3 JSON API MCP.
+2026-10-26T23:22:47.521418Z,io.github.pipeworx-io/ine-pt,Ine Pt,0.1.3,https://github.com/pipeworx-io/mcp-ine-pt,streamable-http,Statistics Portugal (INE) JSON indicator MCP.
+2026-10-26T23:22:58.528956Z,io.github.pipeworx-io/inegi,Inegi,0.1.3,https://github.com/pipeworx-io/mcp-inegi,streamable-http,INEGI MCP — Mexico's national statistics office (INEGI) Indicators API.
+2026-10-26T23:23:09.693619Z,io.github.pipeworx-io/insee,Insee,0.1.3,https://github.com/pipeworx-io/mcp-insee,streamable-http,INSEE MCP — France's SIRENE business registry (INSEE).
+2026-10-26T23:23:32.495534Z,io.github.pipeworx-io/inspire-hep,Inspire Hep,0.1.3,https://github.com/pipeworx-io/mcp-inspire-hep,streamable-http,INSPIRE-HEP MCP — high-energy physics literature.
+2026-10-26T23:23:43.563627Z,io.github.pipeworx-io/insurance-denials,Insurance Denials,0.1.2,https://github.com/pipeworx-io/mcp-insurance-denials,streamable-http,"US health-insurance claim denials and appeal outcomes, by insurer."
+2026-10-26T23:23:54.380457Z,io.github.pipeworx-io/intact,Intact,0.1.3,https://github.com/pipeworx-io/mcp-intact,streamable-http,IntAct (EBI) molecular-interaction database MCP. Keyless.
+2026-10-26T23:24:05.435724Z,io.github.pipeworx-io/intercom,Intercom,0.1.3,https://github.com/pipeworx-io/mcp-intercom,streamable-http,"Intercom MCP Pack — contacts, conversations, companies via OAuth."
+2026-10-26T23:24:16.787409Z,io.github.pipeworx-io/interpro,Interpro,0.1.3,https://github.com/pipeworx-io/mcp-interpro,streamable-http,InterPro MCP (EBI) — protein family / domain / functional-site classification.
+2026-10-26T23:24:27.644494Z,io.github.pipeworx-io/intrinio,Intrinio,0.1.3,https://github.com/pipeworx-io/mcp-intrinio,streamable-http,Intrinio MCP — premium financial data (intrinio.com)
+2026-10-26T23:24:49.505028Z,io.github.pipeworx-io/ioos-erddap,Ioos Erddap,0.1.2,https://github.com/pipeworx-io/mcp-ioos-erddap,streamable-http,US IOOS — regional ocean observing data via ERDDAP.
+2026-10-26T23:25:02.507415Z,studio.novaeon/novaeon-studio,Novaeon Studio,1.0.0,,streamable-http,"Read Novaeon Studio (AI agent factory, SAP agents) as markdown and send an inquiry."
+2026-10-26T23:25:11.202208Z,io.github.pipeworx-io/ipify,Ipify,0.1.3,https://github.com/pipeworx-io/mcp-ipify,streamable-http,ipify MCP.
+2026-10-26T23:25:22.069258Z,io.github.pipeworx-io/ipinfo,Ipinfo,1.0.3,https://github.com/pipeworx-io/mcp-ipinfo,streamable-http,"IPInfo MCP — wraps ipinfo.io (free tier, no auth required for basic usage)"
+2026-10-26T23:25:32.866442Z,io.github.pipeworx-io/iplookup,Iplookup,0.1.3,https://github.com/pipeworx-io/mcp-iplookup,streamable-http,"IP Lookup MCP — ip-api.com (free, no auth for basic usage)"
+2026-10-26T23:25:43.891285Z,io.github.pipeworx-io/ipqualityscore,Ipqualityscore,0.1.3,https://github.com/pipeworx-io/mcp-ipqualityscore,streamable-http,IPQualityScore MCP — wraps the IPQualityScore fraud-prevention API (ipqualityscore.com).
+2026-10-26T23:25:58.830044Z,io.github.pipeworx-io/indiana-court-rules,Indiana Court Rules,0.1.0,https://github.com/pipeworx-io/mcp-indiana-court-rules,streamable-http,Indiana court rules.
+2026-10-26T23:26:17.751876Z,io.github.scarrico/mlreferee,ML Referee,1.1.0,,streamable-http,Evaluate ML features beyond a baseline and test bounded feature repairs. Invite-only beta.
+2026-10-26T23:26:48.644314Z,io.github.pipeworx-io/ip-australia,Ip Australia,0.1.0,https://github.com/pipeworx-io/mcp-ip-australia,streamable-http,"ip-australia -- Australian patent, trade mark and design search, plus patent legal status, from IP…"
+2026-10-26T23:33:03.341086Z,pl.commerceos/integrator,Commerce OS Integrator,1.1.0,,streamable-http,"Cennik, kalkulator oszczędności i blog Commerce OS Integrator, alternatywy dla BaseLinkera."
+2026-10-26T23:33:39.491852Z,com.helpforsupport/caisey,Caisey,1.0.0,,streamable-http,"Troubleshoot enrolled client PCs from your AI client, with human approval and an audit trail."
+2026-10-26T23:39:11.408608Z,io.github.aarif86/nsd-sg,NSD.SG,0.13.42,,streamable-http,"Put the page your AI made online at yourname.nsd.sg. Publish, update, list and remove sites."
+2026-10-26T23:44:09.205013Z,fyi.entry/entry,Entry,1.0.0,https://github.com/entry-fyi/mcp,streamable-http,"Read your Entry profile and drafts, write drafts and request publication. You approve changes."
+2026-10-26T23:46:26.967548Z,cloud.xiximm/feeling-search,Feeling Search — Art Style Reference & Prompt Encyclopedia,0.1.1,https://github.com/xixi048/feeling-search-mcp,streamable-http,One sentence into 762 feeling words and 598 visual styles: art-style prompt encyclopedia.
+2026-10-26T23:48:35.501624Z,dev.workers.jeffpersons.botcheck/botcheck,bot-check: Bitcoin Self-Custody & WorkSats MCP,0.1.0,,streamable-http,"Verify Bitcoin PSBTs, addresses, and descriptors; earn or spend WorkSats bearer credits."
+2026-10-26T23:49:03.73671Z,dev.workers.jeffpersons.botcheck/bitcoin-psbt-descriptor-l402-worksats,"Bitcoin PSBT, Address & Descriptor Verifier + WorkSats L402 MCP",0.1.0,,streamable-http,"Verify Bitcoin PSBTs, addresses, and BIP380 descriptors; earn or spend WorkSats L402 bearer credits."
+2026-10-26T23:50:18.402952Z,io.github.starlordz12/inav-mcp,,1.0.0,https://github.com/starlordz12/inav-mcp,,MCP server for iNAV flight-controller configuration and diagnostics
+2026-10-26T23:54:22.597474Z,io.github.sniffpup/sniffpup,SniffPup,1.0.0,,streamable-http,"Free passive outside security scan of a live web app: leaked keys, exposed files, open Supabase"
+2026-10-27T00:07:35.263775Z,com.permitinfobroker/permits,PermitInfoBroker,1.0.0,,streamable-http,Daily US building permits for 30 cities and counties. Free counts; records paid per call via x402.
+2026-10-27T00:12:45.061011Z,io.github.vishnu-77/openreflex,OpenReflex,0.10.0,https://github.com/vishnu-77/openreflex,,Optional diagnostics MCP server for OpenReflex's ambient project muscle memory.
+2026-10-27T00:18:13.535383Z,com.gatherhq.synthetic/research-reports,Gather Research Reports,1.0.0,,streamable-http,Turn a business question into a customer research report from simulated interviews.
