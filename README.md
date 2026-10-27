@@ -9,45 +9,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 07:20 UTC
+## Latest list — 2026-10-27 08:20 UTC
 
-New MCP servers published between 2026-10-27 06:19 UTC and 2026-10-27 07:20 UTC.
+New MCP servers published between 2026-10-27 07:20 UTC and 2026-10-27 08:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-27T07-20-42-76071Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-27T08-20-11-240521Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-27 06:21:40 | app.ranya/ranya | Ranya | 1.0.0 | The planner you can call: your tasks, calendar, notes, goals and habits, in you… |
-| 2026-10-27 06:22:38 | io.github.sjgiewont/if-the-card-fits |  | 1.0.0 | Which credit cards a household should carry, simulated over 5 years on weekly-v… |
-| 2026-10-27 06:23:10 | [io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-settleseal-mcp](https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-settleseal-mcp) | Eclipse Settleseal | 0.1.1 | Three-way settlement reconciliation (simulator, fixture records): ledger vs rai… |
-| 2026-10-27 06:25:41 | [io.github.florentleveque/mural-mcp-serveur](https://github.com/florentleveque/mural-mcp-serveur) |  | 2.0.0 | Read and write Mural workspaces, rooms, templates, murals and widgets from your… |
-| 2026-10-27 06:25:46 | [io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-benchkit-mcp](https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-benchkit-mcp) | Eclipse Benchkit | 0.1.1 | Free vendor self-bench SDK — Assay scorecard format + verifier spot-check sampl… |
-| 2026-10-27 06:28:16 | [io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-mockmint-mcp](https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-mockmint-mcp) | Eclipse Mockmint | 0.1.1 | Watermarked synthetic-counterparty mint for commerce testing (LOCAL/sandbox onl… |
-| 2026-10-27 06:29:14 | io.github.Wakinah-Entreprise/demeuredesdix | La Demeure des Dix | 1.1.0 | Privatized holiday house for 10 near Rouen, Normandy: info, dog stays, rules, a… |
-| 2026-10-27 06:31:11 | [io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-reviewseal-mcp](https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-reviewseal-mcp) | Eclipse Reviewseal | 0.1.1 | Receipt-bound review corpus with a recomputable verified-share statistic. |
-| 2026-10-27 06:33:29 | [io.github.swiftbotlab/x402-toolbox](https://github.com/swiftbotlab/x402-toolbox) | x402 Toolbox | 1.0.0 | 62 pay-per-call web, DNS, EVM and data tools. x402 USDC on Base, $0.003-$0.02 p… |
-| 2026-10-27 06:35:15 | co.vincap/listed-wine-companies |  | 0.2.0 | Listed wine-company index, results, calendar and estates; dated, sourced. Not i… |
-| 2026-10-27 06:35:21 | me.pouch/agents | Pouch.me and Inkable Label | 1.0.0 | Custom printed pouches (Pouch.me) and labels (Inkable): specs, quote requests,… |
-| 2026-10-27 06:37:33 | io.probecast/mcp |  | 0.1.1 | Your coding agent adds Probecast uptime monitors and reads incidents for projec… |
-| 2026-10-27 06:43:55 | [io.github.MassRelayAI/comparegraph](https://github.com/MassRelayAI/comparegraph) | CompareGraph | 0.1.2 | Compare cloned repositories against taxonomy packs: one code graph, cited claim… |
-| 2026-10-27 06:44:27 | [io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-continuity-mcp](https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-continuity-mcp) | Eclipse Continuity | 0.1.2 | Agent identity-continuity chains: signed links across model/config changes, ver… |
-| 2026-10-27 06:47:32 | io.github.wit221/ivehadit | I've had it | 1.0.0 | Screen time and feed blocking: read your numbers, shut Reels, Shorts and For Yo… |
-| 2026-10-27 06:49:15 | com.emporiqa/emporiqa | Emporiqa | 1.0.0 | Set up the Emporiqa AI shop assistant for an online store: create, set up, conn… |
-| 2026-10-27 06:54:20 | com.thailandstayplan/thailand-stay-plan | Thailand Stay Plan | 1.0.0 | Which legal route lets you stay in Thailand: seven visa routes ranked from your… |
-| 2026-10-27 06:56:56 | com.axiocairn/mcp | Axiocairn MCP | 0.1.0 | Read published market research reports, data dates, schedules, and limitations. |
-| 2026-10-27 06:59:34 | com.readygpu/readygpu | readygpu: hardware for local AI | 1.0.0 | Live UK, Germany, Canada and US prices for GPUs and Macs that run open AI model… |
-| 2026-10-27 07:00:15 | [io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-regulens-mcp](https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-regulens-mcp) | Eclipse Regulens | 0.1.2 | Regulation-change impact receipts mapped to declared controls. Not legal advice. |
-| 2026-10-27 07:00:53 | [com.echo-mem/echo-mem](https://github.com/echo-mem/echo-mem) | Echo Memory | 0.5.6 | Shared memory for AI agents, as a graph in your own Postgres. Writes never call… |
-| 2026-10-27 07:02:31 | app.liftchat/liftchat | LiftChat | 1.2.0 | Workout tracker with a chat assistant: routines, live workouts, history and pro… |
-| 2026-10-27 07:02:37 | [io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-scapegoat-mcp](https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-scapegoat-mcp) | Eclipse Scapegoat | 0.1.2 | Failure-attribution recompute over hash-chained fixture records (local only): v… |
-| 2026-10-27 07:12:18 | io.overads/overads | overads | 1.0.0 | AI marketing agent for small teams: publishes social posts after you approve an… |
-| 2026-10-27 07:14:31 | [io.github.CloudCorpRecords/clockport](https://github.com/CloudCorpRecords/clockport) |  | 0.1.0 | Current time and timezone conversion for any IANA zone. |
-| 2026-10-27 07:14:35 | [io.github.CloudCorpRecords/pageport](https://github.com/CloudCorpRecords/pageport) |  | 0.1.0 | Fetch a URL and return its contents as readable markdown text. |
-| 2026-10-27 07:14:38 | [io.github.CloudCorpRecords/thinkstep](https://github.com/CloudCorpRecords/thinkstep) |  | 0.1.0 | Step-by-step reflective thinking: record, revise, and branch thought chains. |
-| 2026-10-27 07:14:52 | [io.github.mrfentmen/ror-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | ROR: search 110k+ research organizations by name, country and type with stable… |
-| 2026-10-27 07:15:17 | [io.github.mrfentmen/iss-tracker-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Live ISS position, ground track, daylight forecast, TLE and overhead checks - k… |
-| 2026-10-27 07:16:42 | so.paddock/cards | Paddock Cards | 0.1.0 | Search and prepare physical greeting cards. A person reviews each purchase befo… |
-| 2026-10-27 07:20:21 | io.github.sumitrmardy/audio-video-transcriber | Audio & Video Transcriber | 1.0.0 | Audio, video and podcast feeds to text with Whisper. Timestamps, SRT/VTT, 99 la… |
+| 2026-10-27 07:26:13 | [io.github.MagicSquarekey/hybrid-recursive-ladder](https://github.com/MagicSquarekey/hybrid_recursive_ladder_algorithm) | Hybrid Recursive Ladder | 0.0.6 | Aggregate long time-series ranges with a few source requests instead of one per… |
+| 2026-10-27 07:30:43 | de.dove-living.buchen/mcp | Dove Living – Apartments Schwandorf | 1.0.0 | Book vacation apartments in Schwandorf, Germany: live availability, final price… |
+| 2026-10-27 07:31:45 | [io.github.thebanri/limoni-mcp](https://github.com/thebanri/limoni) | Limoni | 0.15.0 | Drive a running Limoni terminal app by its semantic tree: find, click, type, wa… |
+| 2026-10-27 07:36:06 | [io.github.Noem836/skillcheck](https://github.com/Noem836/skillcheck) | skillcheck | 0.1.0 | Check Claude Code / Codex SKILL.md files in a GitHub repo for issues that stop… |
+| 2026-10-27 07:38:23 | [com.agents-trust/recommend](https://github.com/agents-trust/agents-trust-mcp) | Agents Trust | 0.1.0 | Find APIs and inspect endpoint evidence. Pay with your own Base USDC wallet. |
+| 2026-10-27 07:39:54 | io.notifar/notifario | Notifario | 1.0.0 | Website and server uptime monitoring from Russia and Europe: monitors, incident… |
+| 2026-10-27 07:43:16 | [com.kernelcad/kernelcad](https://github.com/w1ne/kernelCAD-web) | kernelCAD | 0.17.1 | CAD in ChatGPT and Claude: editable parts, STEP/STL/drawings, in-chat 3D, autom… |
+| 2026-10-27 07:45:10 | [com.talindrew/mcp](https://github.com/Arnab28122000/talindrew-mcp) | Talindrew: molecular biology tools | 1.0.0 | 90 molecular biology tools: plasmid maps, digests, primers, CRISPR, cloning, Pu… |
+| 2026-10-27 07:45:31 | com.atexradio/atexradio | AtexRadio | 1.0.0 | Motorola two-way radios and spare parts in Venezuela: read-only catalog, USD pr… |
+| 2026-10-27 07:46:44 | com.oxypages/oxypages | OxyPages | 1.0.0 | Create static websites and deploy HTML, CSS and JS to a live HTTPS link from yo… |
+| 2026-10-27 07:47:17 | com.perfectvector/perfectvector | PerfectVector | 1.0.0 | Convert PNG, JPEG and WebP images to clean, editable SVG. Logos, icons, sticker… |
+| 2026-10-27 07:48:39 | com.oxyforge/wordpress | Oxyforge WordPress | 1.0.0 | Create, build and hand over real WordPress sites, hosted by Oxyforge on Google… |
+| 2026-10-27 07:50:41 | io.github.ahmedmabdalla-ops/pulse-analytics | Pulse Analytics | 1.1.0 | Read-only portfolio analytics for Pulse Pro users in Egypt; hosted ChatGPT and… |
+| 2026-10-27 07:52:09 | [io.github.AINative-Studio/ax-audit](https://github.com/AINative-Studio/ainative-ax) | AX Audit MCP Server | 1.0.0 | Scan any website for AI-agent readiness: 0-100 score, grade, and agent-simulati… |
+| 2026-10-27 07:53:54 | [io.github.theluckystrike/common-ground](https://github.com/theluckystrike/common-ground) | Common Ground | 1.0.0 | Pick one movie, show, book, artist or restaurant a whole group will enjoy, usin… |
+| 2026-10-27 07:55:30 | [io.github.mrfentmen/themealdb-mcp](https://github.com/mrfentmen/awesome-mcps) |  | 1.0.2 | TheMealDB recipes, categories, and ingredient filters. |
+| 2026-10-27 07:56:55 | trade.quote/mcp | Quote.Trade MCP Adapter | 1.5.14 | Quote.Trade crypto DEX: market data, account, orders, deposits and stablecoin w… |
+| 2026-10-27 08:00:00 | com.colorsnapai/color-seasons | ColorSnapAI Color Seasons | 1.0.0 | Color season palettes for all 12 seasons, plus a season estimate from hair, ski… |
+| 2026-10-27 08:01:36 | [io.github.albertalbs/site-search-opener-mcp](https://github.com/albertalbs/site-search-opener-mcp) | Site Search Opener | 1.1.0 | SEO and competitor research from sitemaps and feeds, robots.txt respected, Goog… |
+| 2026-10-27 08:03:20 | [io.github.sepehr071/iran-gold-mcp](https://github.com/sepehr071/iran-gold-mcp) | Iran Gold Prices | 0.1.0 | Unofficial read-only live 18k gold prices on Iranian sites: Milli.gold, Wallgol… |
+| 2026-10-27 08:06:05 | dev.nanotoll/nanotoll-mcp | Nanotoll MCP | 0.1.1 | Compress prose for LLM context windows. Per-call USDC billing, signed receipt. |
+| 2026-10-27 08:07:25 | [io.github.mrfentmen/baconipsum-mcp](https://github.com/mrfentmen/baconipsum-mcp) |  | 1.0.6 | Meat-flavored placeholder text from Bacon Ipsum. No key required. |
+| 2026-10-27 08:07:26 | [io.github.mrfentmen/dragonball-mcp](https://github.com/mrfentmen/dragonball-mcp) |  | 1.0.6 | Dragon Ball character data. No key required. |
+| 2026-10-27 08:07:26 | [io.github.mrfentmen/countryflags-mcp](https://github.com/mrfentmen/countryflags-mcp) |  | 1.0.6 | Country flag image URLs and codes. No key required. |
+| 2026-10-27 08:07:26 | [io.github.mrfentmen/enrico-mcp](https://github.com/mrfentmen/enrico-mcp) |  | 1.0.5 | Enrico (kayaposoft) holiday API: public holidays by country and year. |
+| 2026-10-27 08:07:27 | [io.github.mrfentmen/art-institute-mcp](https://github.com/mrfentmen/awesome-mcps) |  | 1.0.6 | Art Institute of Chicago collection search. |
+| 2026-10-27 08:07:27 | [io.github.mrfentmen/data-gov-uk-mcp](https://github.com/mrfentmen/data-gov-uk-mcp) |  | 1.0.6 | UK government open data search from data.gov.uk. No key required. |
+| 2026-10-27 08:07:27 | [io.github.mrfentmen/devrant-mcp](https://github.com/mrfentmen/devrant-mcp) |  | 1.0.6 | Developer rants from devRant. No key required. |
+| 2026-10-27 08:07:34 | [io.github.tymrtn/envelope](https://github.com/tymrtn/U1F4E7) | Envelope | 1.3.26 | Your own IMAP/SMTP mailboxes as agent tools, with per-agent policy and human-ap… |
+| 2026-10-27 08:12:10 | [io.github.mrfentmen/deck-of-cards-mcp](https://github.com/mrfentmen/deck-of-cards-mcp) |  | 1.0.6 | Shuffle decks and draw cards from Deck of Cards. No key required. |
+| 2026-10-27 08:12:54 | [io.github.amangeldievkuu/tdx-taiwan-mcp](https://github.com/amangeldievkuu/tdx-taiwan-mcp) | Taiwan TDX transport | 0.2.0 | Taiwan transport via TDX: YouBike, buses, rail, flights, ferries, road traffic,… |
+| 2026-10-27 08:14:57 | io.github.rahul05ranjan/web-search | Gyaansetu Web Search | 1.0.0 | Search the open web and Extract Raw Content for AI agents. |
+| 2026-10-27 08:17:17 | [io.github.CloudCorpRecords/diceport](https://github.com/CloudCorpRecords/diceport) |  | 0.1.0 | Dice rolls, coin flips, and random numbers, reproducible with a seed. |
+| 2026-10-27 08:17:24 | [io.github.mrfentmen/ansible-galaxy-mcp](https://github.com/mrfentmen/ansible-galaxy-mcp) |  | 1.0.6 | Search Ansible collections and roles on Ansible Galaxy. No key required. |
+| 2026-10-27 08:17:24 | [io.github.mrfentmen/bing-wallpaper-mcp](https://github.com/mrfentmen/bing-wallpaper-mcp) |  | 1.0.6 | The daily Bing wallpaper image and its metadata. No key required. |
+| 2026-10-27 08:17:24 | [io.github.mrfentmen/er-api-mcp](https://github.com/mrfentmen/awesome-mcps) |  | 1.0.5 | ExchangeRate API currency conversion. |
+| 2026-10-27 08:18:29 | io.github.sumitrmardy/instagram-reels-transcript | Instagram Reels Transcript | 1.0.0 | Instagram Reels to text with Whisper: transcript, timestamps, SRT, views, likes… |
 
 ## Data source
 
