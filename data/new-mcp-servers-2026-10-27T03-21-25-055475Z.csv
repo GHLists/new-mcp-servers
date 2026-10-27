@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-10-27T02:26:45.556026Z,io.github.cairncommons/cairn-read,Cairn Commons (read-only),1.4.4,https://github.com/cairncommons/cairn-commons,streamable-http,"Read-only lookup of verified, version-pinned dependency bug notes: search and read. No account."
+2026-10-27T02:28:10.979099Z,ai.thecompr/compr,Compr,1.0.0,,streamable-http,"Address in. Defendable offer out. 60 seconds. Comps, ARV, repairs and max offer for any address."
+2026-10-27T02:28:37.618558Z,io.github.psinglap/websearch-api-eval,Web Search API Eval,1.0.0,https://github.com/psinglap/websearch-api-eval,streamable-http,"Web search API benchmark for AI agents: You.com, Tavily, Exa, Parallel. Results and charts."
+2026-10-27T02:33:22.068295Z,com.odingard/bifrost,Bifrost,0.1.32,https://github.com/Odingard/Bifrost,streamable-http; streamable-http,Query a company's Bifrost trust gateway: cited answers and approved actions with signed receipts.
+2026-10-27T02:34:15.549229Z,com.eformogi/records-vault,,1.1.0,,streamable-http,"The family's agent reads the record, drafts the filing from verified rules, asks for a signature."
+2026-10-27T02:37:25.364396Z,io.github.myerwang/sakupa,Sakupa - Company Website Publishing for AI Assistants,1.6.3,,,Publish and manage company websites from your AI chat. Free 30-day sites; no Sakupa account.
+2026-10-27T02:38:07.724936Z,io.github.goyohan0611-png/turnbook,Turnbook,0.9.44,https://github.com/goyohan0611-png/turnbook,,"Local long-term memory shared by all your AI agents, kept word for word on your own PC."
+2026-10-27T02:41:55.902247Z,page.peep/peep,peep.page,0.1.0,,streamable-http,Publish HTML pages and live dashboards from your agent to a link that stays up to date.
+2026-10-27T02:53:54.743337Z,md.microservice/catalog,microservice.md,0.1.0,,streamable-http,"Read your microservice catalog: MICROSERVICE.md files, contracts, and who depends on what."
+2026-10-27T02:58:31.772341Z,io.github.AndriyVK/apify-document-tools,Document & media tools (Apify),0.1.0,https://github.com/AndriyVK/-apify-document-tools,streamable-http,"PDF/OCR/Office to Markdown, Office to PDF/PDF-A, PDF and image conversion, audio transcription."
+2026-10-27T03:03:04.720364Z,com.lingodew/lingodew,LingoDew,1.0.0,,streamable-http,"Find real YouTube videos to learn Japanese or English by level, word usage and channel stats."
+2026-10-27T03:07:30.704245Z,io.github.mrfentmen/hackernews-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Hacker News: front page, new and best feeds, item detail, user profiles, full-text search."
+2026-10-27T03:07:34.666731Z,io.github.mrfentmen/pypi-stats-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"PyPI download statistics: recent totals, daily series, Python and OS splits, package comparison."
+2026-10-27T03:16:50.205194Z,app.gravex.scheduly/scheduly,Scheduly,1.0.0,,streamable-http,"Calendar and notes for AI assistants: read, create and move events, keep notes. Korean & English."
+2026-10-27T03:18:43.481121Z,dev.wirecat/cli-memo,WireCat Memo,0.115.0,https://github.com/WireCatLabs/cli-memo,,"People's context across messengers, notes and mail, from a local store. Set up the memo CLI first."
+2026-10-27T03:19:37.55082Z,dev.wirecat/drive-cli,WireCat Google Drive,0.42.0,https://github.com/WireCatLabs/drive-cli,,"Google Drive and Docs for agents: search, read and write a local copy. Sign in with drive first."
+2026-10-27T03:20:39.183226Z,io.github.0x7A2C9E5D/Witcher3StringEditor.MCP,Witcher 3 String Editor,0.1.0-beta.3,https://github.com/0x7A2C9E5D/Witcher3StringEditor.MCP,,MCP server for reading and editing The Witcher 3 .w3strings localization files.
+2026-10-27T03:21:02.812526Z,io.github.mclaut/ariadne,Ariadne,0.8.17,https://github.com/mclaut/ariadne,,"Local-first multilingual, auditable memory for Codex, Claude Code, and MCP clients."
