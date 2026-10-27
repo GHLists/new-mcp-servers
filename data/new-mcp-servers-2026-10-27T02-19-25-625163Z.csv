@@ -1,0 +1,46 @@
+created_at,server,title,version,repository,transports,description
+2026-10-27T01:21:46.08375Z,io.github.claudezss/airlox,Airlox,0.1.0,https://github.com/claudezss/airlox,,"End-to-end encrypted sessions where agents share messages, files and runnable Python."
+2026-10-27T01:22:40.035292Z,ai.marcora/mcp,Marketing & Brand Context by Marcora,1.0.5,https://github.com/ccromp/marcora-mcp,streamable-http; sse,"Brand voice, positioning, and messaging for marketing teams. Write on-brand copy in any AI tool."
+2026-10-27T01:22:40.463993Z,ai.marketcore/mcp,MarketCore (now Marcora): Marketing & Brand Context,1.0.5,https://github.com/ccromp/marcora-mcp,streamable-http; sse,MarketCore is now Marcora: on-brand marketing content in any AI tool. New entry: ai.marcora/mcp
+2026-10-27T01:28:15.542959Z,com.tenderrader/mcp,AI標案雷達,1.0.0,,streamable-http,台灣政府採購標案唯讀查詢：金額級距、等標期計算、投標知識庫、招標公告、廠商與機關。免費免註冊。
+2026-10-27T01:28:40.466805Z,dev.wirecat/tg-cli,WireCat Telegram,0.96.0,https://github.com/WireCatLabs/tg-cli,,"Your Telegram account for agents: read, search and send messages. Sign in with the tg CLI first."
+2026-10-27T01:30:58.490471Z,io.github.chrp-bass/chrp-epi-authority,CHRP EPI Authority,1.0.1,https://github.com/chrp-bass/chrp-parent-sites,streamable-http,"Music-listening Emotional Performance Intelligence: definitions, science, states and MyCHRP."
+2026-10-27T01:32:00.578152Z,com.vooban.morphe/mcp,Morphe,1.0.0,,streamable-http,"Bring your organization's expert knowledge, and the work of capturing it, into your AI assistant."
+2026-10-27T01:35:45.680274Z,cn.infimeta/public-source-search,Infimeta Public-source Search,1.0.0,,streamable-http,Search research and community sources. Queries logged for research; optional purpose. No secrets.
+2026-10-27T01:36:25.552352Z,io.github.connormatthewdouglas/lantern-works-deals,Lantern Works agent deals,0.1.0,https://github.com/connormatthewdouglas/agent-work-stack-deals,,"Read-only search, compare and lookup of agent work-stack deals ranked by customer value."
+2026-10-27T01:38:14.33071Z,app.meles/meles,Meles,1.0.0-beta.1,,streamable-http,"In-app surveys and announcements for B2B web apps: build, target, publish and read campaigns."
+2026-10-27T01:39:16.160642Z,io.github.Tom-R-Main/mcp-server,Siftable,1.5.1,https://github.com/execufunction-mcp/mcp-server,streamable-http,"Siftable MCP server for governed work, knowledge, calendar, people, datasets, and Vault."
+2026-10-27T01:44:22.71109Z,com.stackduke/radar,Stackduke Radar,0.1.0,,streamable-http,Read-only answers about tool changes in the public MCP servers on Stackduke's tracker. No sign-in.
+2026-10-27T01:45:32.26357Z,io.github.openscout-app/scout,Scout,0.4.2,https://github.com/openscout-app/scout,,Coordinate local coding agents and track handoffs.
+2026-10-27T01:46:42.704918Z,ai.chipp/chipp-actions,Chipp Actions and components,1.0.0,,streamable-http,"Chipp: custom actions, action collections, custom components, and database connections"
+2026-10-27T01:46:42.936269Z,ai.chipp/chipp-analytics,Chipp Analytics and evals,1.0.0,,streamable-http,"Chipp: conversations, messages, usage and engagement analytics, end users and their memories, and."
+2026-10-27T01:46:43.101796Z,ai.chipp/chipp-app-settings,Chipp Agent settings,1.0.0,,streamable-http,"Chipp: the full agent settings writers (update_app, bulk_update_app_settings), branding, auth."
+2026-10-27T01:46:43.265331Z,ai.chipp/chipp-apps,Chipp Agents,1.0.0,,streamable-http,"Chipp: create, publish, version, chat with and move agents; system prompt, model, suggestions."
+2026-10-27T01:46:43.503937Z,ai.chipp/chipp-billing,Chipp Billing and monetization,1.0.0,,streamable-http,"Chipp: the subscription, credits, usage and capabilities, and consumer packages an agent sells"
+2026-10-27T01:46:43.667261Z,ai.chipp/chipp-channels,Chipp Channels,1.0.0,,streamable-http,"Chipp: Slack, email, WhatsApp, GitHub, Discord and voice deployments, and heartbeat schedules"
+2026-10-27T01:46:43.918351Z,ai.chipp/chipp-core,Chipp Core,1.0.0,,streamable-http,"Chipp: who you are, workspaces, finding agents, Chipp docs, and the list of the other Chipp MCPs"
+2026-10-27T01:46:44.068567Z,ai.chipp/chipp-data-ops,Chipp Data operations,1.0.0,,streamable-http,"Chipp: changes to a deployed project's live data: data, script and procedure operations, bulk."
+2026-10-27T01:46:44.23188Z,ai.chipp/chipp-integrations,Chipp Integrations,1.0.0,,streamable-http,"Chipp: hosted integrations and their catalog, and MCP servers connected to an agent"
+2026-10-27T01:46:44.482025Z,ai.chipp/chipp-knowledge,Chipp Knowledge,1.0.0,,streamable-http,"Chipp: knowledge sources (URLs, sitemaps, text, documents), crawls, and evidence search over an."
+2026-10-27T01:46:44.639742Z,ai.chipp/chipp-legacy-code,Chipp Legacy code,1.0.0,,streamable-http,Chipp: the code of an app being rebuilt: the imported GitHub repo and the legacy codebase
+2026-10-27T01:46:44.785876Z,ai.chipp/chipp-memory,Chipp Memory and schedules,1.0.0,,streamable-http,"Chipp: a project's memory, circles, and scheduled tasks"
+2026-10-27T01:46:45.00337Z,ai.chipp/chipp-newsletters,Chipp Newsletters,1.0.0,,streamable-http,"Chipp: newsletter topics, audiences, contacts, campaigns and sends"
+2026-10-27T01:46:45.164964Z,ai.chipp/chipp-observability,Chipp Observability,1.0.0,,streamable-http,"Chipp: a deployed project's database (read), logs, errors, analytics, CI status, custom actions."
+2026-10-27T01:46:45.341374Z,ai.chipp/chipp-packs,Chipp Packs,1.0.0,,streamable-http,"Chipp: the feature pack and recipe catalog, pack installs, checkout, and the project blueprint"
+2026-10-27T01:46:45.560144Z,ai.chipp/chipp-projects,Chipp Software factory projects,1.0.0,,streamable-http,"Chipp: software factory projects: list, create and scope them, and the factory tools in no other."
+2026-10-27T01:46:45.724419Z,ai.chipp/chipp-releases,Chipp Releases,1.0.0,,streamable-http,"Chipp: software factory deploys and releases: history, the deploy gate, Deploy now, rollbacks."
+2026-10-27T01:46:45.895637Z,ai.chipp/chipp-tags,Chipp Tags,1.0.0,,streamable-http,"Chipp: conversation tags, their training examples and utterances, and tag instances"
+2026-10-27T01:46:46.12393Z,ai.chipp/chipp-tickets,Chipp Tickets,1.0.0,,streamable-http,"Chipp: software factory tickets: list, read, file, reply, retry, cancel, proposals, and child."
+2026-10-27T01:46:46.284721Z,ai.chipp/chipp,Chipp,1.1.0,,streamable-http,"Every Chipp tool in one MCP (large). For one area at a time, use the ai.chipp/chipp-* servers."
+2026-10-27T01:48:22.330145Z,com.fielderusa/fielder,Fielder,1.0.0,,streamable-http,"Find soccer fields for hourly rent in the US, check live availability and get booking links."
+2026-10-27T01:50:42.030382Z,io.github.sena-labs/warp-ozbridge,,2.0.0,https://github.com/sena-labs/OzBridge,,"OzBridge: run Warp Oz agents from any MCP client — Claude Code, Cursor, Codex, VS Code."
+2026-10-27T01:53:03.258679Z,io.github.cyberlife-coder/velesdb-memory,VelesDB Memory,0.15.0,https://github.com/cyberlife-coder/VelesDB,,Offline agentic memory: remember/recall/relate/forget/why over a fused vector+graph+columnar engine
+2026-10-27T01:53:49.998741Z,store.moatless/moatless,Moatless,1.0.0,,streamable-http,"A marketplace for codebases: find, buy, clone, and update them, or list your own for sale."
+2026-10-27T01:53:56.398912Z,io.github.apatilgtn/k8scortex-mcp,,1.1.3,https://github.com/apatilgtn/k8scortex-mcp,,"Kubernetes MCP server: 75 tools for GKE, AKS, EKS, RBAC, audit logging, GitOps, multi-cluster."
+2026-10-27T01:58:40.450481Z,com.statisticsoftheworld/sotw,Statistics of the World,1.0.1,,streamable-http,"330+ indicators for 217 countries from the IMF, World Bank, WHO and national statistics offices."
+2026-10-27T02:01:42.508385Z,io.github.geronco/commandvault,CommandVault,1.0.0,https://github.com/geronco/commandvault-library,streamable-http,"Search prompts, CLAUDE.md/AGENTS.md templates, Cursor rules, Agent Skills and MCP servers."
+2026-10-27T02:02:51.571585Z,com.bugherd/mcp,BugHerd,1.1.0,,streamable-http,"Official BugHerd MCP server. Sign in with OAuth, no API key needed."
+2026-10-27T02:04:17.751457Z,com.lastscanned/lastscanned,lastscanned,1.0.0,,streamable-http,"Synchronous package tracking API & MCP across 31 carriers (USPS, UPS, FedEx, DHL, UniUni, SpeedX)."
+2026-10-27T02:05:43.571237Z,io.hashiq/hashiq,HashIQ,0.3.0,,streamable-http,"TikTok Shop products starting to sell: Scores, Go/Wait/Skip verdicts, videos, creators, competitors."
+2026-10-27T02:08:56.177574Z,au.vetjobs/vetjobs,VetJobs.au - veterinary jobs in Australia,1.0.0,,streamable-http,"Live Australian veterinary jobs: vet, nurse and locum roles, direct from employers."
+2026-10-27T02:15:18.861102Z,ai.podshare/podshare,Podshare,1.0.0,,streamable-http,"Group work, rebuilt for AI - Create a pod. Invite your team. Collaborate. Get a link to share."
