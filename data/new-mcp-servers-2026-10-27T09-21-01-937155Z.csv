@@ -1,0 +1,52 @@
+created_at,server,title,version,repository,transports,description
+2026-10-27T08:20:27.839897Z,io.github.mrfentmen/artifact-hub-mcp,,1.0.6,https://github.com/mrfentmen/artifact-hub-mcp,,Helm charts and cloud native packages from Artifact Hub. No key required.
+2026-10-27T08:20:28.91159Z,io.github.mrfentmen/bankofcanada-mcp,,1.0.5,https://github.com/mrfentmen/bankofcanada-mcp,,Canadian exchange rates from Bank of Canada. No key required.
+2026-10-27T08:21:04.876076Z,io.github.AutomateLab-tech/seo-performance-mcp,SEO Performance MCP,1.0.1,https://github.com/AutomateLab-tech/seo-performance-mcp,,"Per-URL SEO verdicts from GSC, GA4, Matomo, Clarity, AI citations: refresh/expand/merge/kill."
+2026-10-27T08:22:33.348905Z,io.github.the-staq/tradestaq-mcp,,0.6.2,https://github.com/the-staq/tradestaq-mcp,,"AI-powered crypto trading tools. Strategies, backtests, bots, and portfolio management."
+2026-10-27T08:25:19.166249Z,io.github.mrfentmen/civitai-mcp,,1.0.6,https://github.com/mrfentmen/civitai-mcp,,Civitai model and image metadata. No key required.
+2026-10-27T08:26:11.489116Z,io.github.handinloop/handinloop-mcp-server,,0.9.0,https://github.com/handinloop/platform,streamable-http,"Human-in-the-loop document extraction: submit a doc, get validated fields and an audit trail."
+2026-10-27T08:26:45.958961Z,io.github.lambdasec/frame-mcp,,0.1.0,https://github.com/lambdasec/frame-mcp,,"MCP server for the Frame security scanner: scan, verify, fix, exploit, packs and separation logic."
+2026-10-27T08:27:36.483512Z,io.github.mrfentmen/deps-dev-mcp,,1.0.6,https://github.com/mrfentmen/deps-dev-mcp,,Open source dependency metadata from Google deps.dev. No key required.
+2026-10-27T08:27:36.725609Z,io.github.mrfentmen/db-ip-mcp,,1.0.6,https://github.com/mrfentmen/db-ip-mcp,,IP geolocation from DB-IP. No key required.
+2026-10-27T08:28:03.724937Z,io.github.mrfentmen/albiononline-mcp,,1.0.5,https://github.com/mrfentmen/awesome-servers,,"Keyless Albion Online data: live market prices, price history, gold prices, killboard events."
+2026-10-27T08:31:10.321979Z,ai.topy/cfo,TOPY.AI · AI CFO,0.1.0,https://github.com/TOPY-AI-LTD/TOPY-AI-CFO-Skills,streamable-http,"Founders' AI CFO: cash and runway, month-end close, Stripe in QuickBooks, reports, UK deadlines."
+2026-10-27T08:32:09.860267Z,io.github.mrfentmen/checksum-mcp,,1.0.7,https://github.com/mrfentmen/checksum-mcp,,Compute file and text checksums locally with sha and md5. No network and no key.
+2026-10-27T08:34:56.233837Z,io.github.mrfentmen/codepet-mcp,,1.0.7,https://github.com/mrfentmen/codepet-mcp,,"Local MCP companion for CodePet status, quests, and source-free coding events. Tools include get..."
+2026-10-27T08:37:16.610637Z,com.iwonder/iwonder,iWonder,1.0.0,,streamable-http,"Rights-aware documentary search, film details, and where-to-watch for AI assistants. 100,000+ films."
+2026-10-27T08:37:23.364627Z,io.github.mrfentmen/artifact-gauge-mcp,,1.0.7,https://github.com/mrfentmen/artifact-gauge-mcp,,Local build artifact size and dependency weight inspection without file content output. Tools...
+2026-10-27T08:41:53.428787Z,com.geonode/mcp,Geonode MCP Server,1.0.0,https://github.com/geonodecom/mcp,streamable-http,"Web data for agents. Extract web pages, crawl websites, discover URLs, and search the web."
+2026-10-27T08:43:40.29649Z,io.github.nattiini45/caotang,Caotang,0.1.0,https://github.com/nattiini45/caotang,,"Serve a Caotang writing project to an MCP host: read it, and, when you allow it, change it."
+2026-10-27T08:44:14.444116Z,com.localaipicks/localaipicks,Local AI Picks,1.0.0,,streamable-http,"Find open-weight AI models that fit your hardware, with weight sizes, memory and sources."
+2026-10-27T08:44:24.434995Z,io.github.mrfentmen/archive-org-mcp,,1.0.6,https://github.com/mrfentmen/awesome-mcps,,"Internet Archive search, item metadata, and Wayback snapshots."
+2026-10-27T08:44:24.753696Z,io.github.mrfentmen/census-geo-mcp,,1.0.5,https://github.com/mrfentmen/census-geo-mcp,,Census Bureau geocoding API: address to coordinates and census geography.
+2026-10-27T08:44:25.102063Z,com.commentkeyword/mcp,CommentKeyword,0.2.0,https://github.com/commentkeyword/agent-toolkit,,Create and manage Instagram comment-to-DM keyword automations in CommentKeyword.
+2026-10-27T08:45:44.201637Z,io.github.vlad4vic-creator/pr-cy-mcp,PR-CY MCP,1.30.0,,streamable-http,"SEO tools for keywords, SERP, rankings, site audits, search analytics and content workflows."
+2026-10-27T08:47:31.663218Z,app.anakior/atlas-mind,,1.1.0,https://github.com/Anakior/atlas-mind,streamable-http,"Self-hosted git-native knowledge base with an MCP endpoint your AI reads, writes and rewinds"
+2026-10-27T08:48:47.973885Z,io.github.mrfentmen/yesno-mcp,,1.0.4,https://github.com/mrfentmen/yesno-mcp,,Random yes or no answers from the Yes No API. No key required.
+2026-10-27T08:56:41.998913Z,com.theparallaxagent/parallax,PARALLAX,1.0.0,,streamable-http,"Robinhood Chain stock tokens vs their Chainlink price: live gaps, pool depth, graded agent calls."
+2026-10-27T08:57:53.231739Z,com.edgible/mcp,Edgible,1.0.0,,streamable-http,"Read your Edgible applications, devices, deploy status and logs, signed in as you."
+2026-10-27T08:58:39.844759Z,io.github.mrfentmen/dictionary-mcp,,1.0.6,https://github.com/mrfentmen/awesome-mcps,,Dictionary definitions and word of the day (DictionaryAPI).
+2026-10-27T08:58:40.157771Z,io.github.mrfentmen/digimon-mcp,,1.0.6,https://github.com/mrfentmen/digimon-mcp,,Digimon encyclopedia lookup from the free Digimon API.
+2026-10-27T08:58:40.383698Z,io.github.mrfentmen/countriesnow-mcp,,1.0.6,https://github.com/mrfentmen/awesome-mcps,,"CountriesNow country, city, flag, and ISO data."
+2026-10-27T09:05:44.287972Z,io.github.vargov3-spec/vargov-mcp,Vargov®Design,0.1.0,,,"Vargov®Design catalogue: 605 light compositions, 3D configurator links, how to get IFC4 and FBX"
+2026-10-27T09:05:46.93975Z,io.clearout/clearout,Clearout,1.0.0,,streamable-http,"Email verification, email finder and name validation from Clearout."
+2026-10-27T09:06:41.708932Z,io.github.mrfentmen/epic-free-games-mcp,,1.0.5,https://github.com/mrfentmen/epic-free-games-mcp,,Check currently free games on the Epic Games Store. No key required.
+2026-10-27T09:06:42.166784Z,io.github.mrfentmen/electricitymap-mcp,,1.0.5,https://github.com/mrfentmen/electricitymap-mcp,,Electricity zones from Electricity Map. No key required.
+2026-10-27T09:08:32.103999Z,io.github.rawsd10/annalist,Annalist,1.0.0,,streamable-http,"Company fundamentals from official filings, every figure linked to its source. Read-only, keyless."
+2026-10-27T09:08:38.57093Z,io.github.mrfentmen/esplora-mcp,,1.0.5,https://github.com/mrfentmen/awesome-servers,,"Keyless MCP server for Esplora Bitcoin data: blocks, fees, transactions, addresses."
+2026-10-27T09:09:20.485807Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-sponsorline-mcp,Eclipse Sponsorline,0.1.0,https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-sponsorline-mcp,,"Per-action-class sponsor acceptance receipts over fixture sponsors/parties, local stdio only."
+2026-10-27T09:09:41.544785Z,io.github.zenoix888/agent-verifier,Agent Verifier — Independent Number Verification,0.1.0,,streamable-http,"Independent number-checking for AI agents: verifies finished tables add up, with a signed receipt."
+2026-10-27T09:11:13.110762Z,ai.thetahealth/mirobody,Mirobody,1.5.9,https://github.com/thetahealth/mirobody,,"Lab results to LOINC codes and UCUM units, symptoms and diagnoses to ICPC-3. Offline, no API key."
+2026-10-27T09:11:17.63644Z,social.refract/refract,Refract,1.0.0,,streamable-http,"Draft, approve and schedule social media posts from Claude, ChatGPT, Cursor and other AI apps."
+2026-10-27T09:12:23.648257Z,tech.bluebird/website,Bluebird Technologies,1.0.0,,streamable-http,"Bluebird Technologies' public website: services, case studies, team and contact."
+2026-10-27T09:13:35.268284Z,app.oyeh/oyeh,Oyeh,1.0.0,,streamable-http,Your AI sends a plan or a question to a friend's AI and brings the answer back. Friends only.
+2026-10-27T09:14:26.71658Z,io.github.mrfentmen/discogs-mcp,,1.0.6,https://github.com/mrfentmen/discogs-mcp,,Music releases from Discogs. No key required.
+2026-10-27T09:15:56.517454Z,io.github.Steven3265/homechecker-guides,Homechecker Guides,1.2.2,https://github.com/Steven3265/homechecker-guides-mcp,streamable-http,"Homechecker's professionally authored Australian homebuyer guides: search, cite, build checklists."
+2026-10-27T09:16:51.905089Z,io.github.mrfentmen/cern-mcp,,1.0.6,https://github.com/mrfentmen/awesome-servers,,"Keyless MCP server for CERN Open Data: records, datasets, software, news."
+2026-10-27T09:17:17.970742Z,pl.minoshealth/mcp,Minos Health,1.0.0,https://github.com/krzysztofbury/minos-health,streamable-http,"Polish ICD-10, ICD-9 PL, ICD-11 PL codes and NFZ JGP hospital grouping from official sources."
+2026-10-27T09:17:22.99823Z,com.textforagents/fleet-spend-circuit-breaker,Fleet spend circuit-breaker,1.0.0,,streamable-http,"Pre-funded dollar envelope over a whole agent task tree: count-only metering, tree-wide halt."
+2026-10-27T09:18:00.441362Z,io.github.wildsurfer/your-mail-mcp,,0.5.0,https://github.com/wildsurfer/your-mail-mcp,,"Read-only, self-hosted MCP access to IMAP email, mirrored locally and indexed by notmuch."
+2026-10-27T09:18:28.301635Z,io.github.Billibo6/unlockpulse,Unlock Pulse,1.0.0,,streamable-http,"Token unlock calendar for the next 60 days, rated by size vs circulating supply. Free, no key."
+2026-10-27T09:18:42.391776Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-morphguard-mcp,Eclipse Morphguard,0.1.1,https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-morphguard-mcp,,"Fixture payee drift evidence; pinned fixture keys, not public keys; export packs not value-free."
+2026-10-27T09:19:39.550478Z,ai.waj/waj,WAJ,1.0.0,,streamable-http,"Bookings, clients, staff, services, marketing, inventory and reports for salons, spas and clinics."
+2026-10-27T09:19:40.226397Z,ai.waj/booking,WAJ Booking,1.0.0,,streamable-http,"Services, prices and open times for a salon, spa or clinic on WAJ, with a link to book."
