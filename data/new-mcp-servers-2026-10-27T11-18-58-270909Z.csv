@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-10-27T10:23:34.419092Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-trueprice-mcp,Eclipse Trueprice,0.1.1,https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-trueprice-mcp,,"Quote-sealing + checkout drift witness over fixture pairs; detection only, never blocks checkout."
+2026-10-27T10:28:11.307524Z,com.soc2compared/mcp,SOC 2 Compared,1.0.0,,streamable-http,Look up year-one SOC 2 platform prices at 25 employees and the audit firms that issue reports.
+2026-10-27T10:29:18.215068Z,uz.b2bmarket/marketplace,B2B Market,1.0.0,,streamable-http,"Search a B2B wholesale marketplace: products, services, suppliers and prices."
+2026-10-27T10:29:23.195655Z,io.github.emanuele-em/kanzo,Kanzo,0.1.3,https://github.com/emanuele-em/kanzo,,"Self-hosted kanban for humans and agents. One 4 MB binary, starts in 2 ms, zero setup."
+2026-10-27T10:29:40.200687Z,io.github.Alex-Dev-Web-C-DE/company-lookup-mcp,Company Lookup MCP,0.1.0,https://github.com/Alex-Dev-Web-C-DE/company-lookup-mcp,streamable-http,Company lookup MCP for LEI and sanctions.
+2026-10-27T10:30:57.882024Z,dev.wirecat/max-cli,WireCat MAX,0.82.0,https://github.com/WireCatLabs/max-cli,,"Your MAX account and bots for agents: read, search, send messages. Sign in with the max CLI first."
+2026-10-27T10:34:00.644554Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-kitseal-mcp,Eclipse Kitseal,0.1.1,https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-kitseal-mcp,,Loadout sealing: genesis seal + hash-chained signed delta receipts over fixture configurations.
+2026-10-27T10:38:53.217578Z,com.sharpsyn/account,SharpSyn (your account),1.0.0,,streamable-http,"Your SharpSyn account: quote requests and answers, price history, library; RFQs on confirm."
+2026-10-27T10:38:53.612451Z,com.sharpsyn/public,SharpSyn,1.0.0,,streamable-http,"Fine chemicals sourcing: compounds by name or CAS, suppliers, price ranges, quote links. No key."
+2026-10-27T10:43:08.814515Z,fr.partner-construction/assurance-decennale,Partner Construction,1.0.0,,streamable-http,"Indicative decennial insurance quote for French building trades, by a licensed broker."
+2026-10-27T10:43:37.951134Z,ru.medicomind/clinical-guidelines,Medico Mind MCP,1.0.0,,streamable-http,Search the clinical guidelines of the Russian Ministry of Health with source references.
+2026-10-27T10:45:37.442941Z,app.oktio/mcp,Oktio.app,1.0.0,,streamable-http,"Instagram analytics, media kits, bio link and brand deals for creators, from your AI assistant."
+2026-10-27T10:46:54.582472Z,dev.1social/1social,1Social,1.0.0,https://github.com/sultanlive/1social-mcp,streamable-http,"Publish, schedule and verify social posts across eight networks from your AI assistant."
+2026-10-27T10:50:18.403469Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-shelfprice-mcp,Eclipse Shelfprice,0.1.1,https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-shelfprice-mcp,,Listing view-to-checkout drift witness over fixture pairs; seals full view terms at view time.
+2026-10-27T10:51:21.007039Z,io.github.apatilgtn/architecture-diagrams,Architecture Diagrams,1.2.0,https://github.com/apatilgtn/architecture-diagrams,,"AWS, Azure and GCP architecture diagrams with official icons, reviews, Terraform and GCP import"
+2026-10-27T10:51:21.946086Z,io.github.pironjulien/nexus-relay,Nexus Relay,1.6.0,https://github.com/pironjulien/NexusRelay,,"Shared room for Claude, Codex and Antigravity on one Windows PC; each agent woken in its own app."
+2026-10-27T10:56:01.758289Z,io.github.spicyapi-ai/mcp,SpicyAPI MCP,0.6.1,https://github.com/spicyapi-ai/spicy-mcp,,"Image, video and audio generation APIs with USD quotes and confirmation before paid requests."
+2026-10-27T10:57:01.49862Z,com.airparser/airparser,Airparser,1.0.0,,streamable-http,"Extract structured data from invoices, receipts, PDFs, scans and emails into clean JSON."
+2026-10-27T10:59:06.566098Z,ai.mediora/mediora,Mediora Lab Catalog,0.6.1,,streamable-http,"Blood-test markers, lab panels, conditions & symptoms as agent tools. EN/RU/HE. Hosted."
+2026-10-27T11:00:17.398477Z,io.github.africanuspanga/cv-chap-chap,CV Chap Chap,1.0.1,,streamable-http,"Check a CV, CV conventions for African countries, CV designs and Tanzania jobs. No sign-in."
+2026-10-27T11:02:19.759673Z,com.marklykit/marklykit,MarklyKit,1.0.0,,streamable-http,"Search your MarklyKit web highlights and notes from AI assistants, with source links."
+2026-10-27T11:02:25.107802Z,com.publishbuddy/publishbuddy,PublishBuddy,1.0.0,,streamable-http,"Schedule social posts, read analytics and make AI images and video for 10+ networks."
+2026-10-27T11:03:01.979743Z,ar.com.talo/mcp,Talo MCP,1.0.0,,streamable-http,"MCP oficial de Talo Pay: pagos por transferencia, transacciones, clientes y saldos desde tu agente."
+2026-10-27T11:03:50.894962Z,com.wht-ai.waimap/waimap,WaiMAP,4.64.0,,streamable-http,"Engineering and GIS tools for energy and infrastructure sites, computed by real engines."
+2026-10-27T11:04:35.208365Z,io.banksapi/docs,BANKSapi Docs,0.1.0,,streamable-http,Search and read the BANKSapi developer docs and OpenAPI specs for Open Banking integrations.
+2026-10-27T11:04:53.446906Z,io.github.luftphilipp/aichivist,aichivist,0.1.0,https://github.com/luftphilipp/aichivist,,"Clean up your files like an archivist: rename, sort, de-duplicate with plans you approve and undo."
+2026-10-27T11:06:58.389471Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-skillseal-mcp,Eclipse Skillseal,0.1.1,https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-skillseal-mcp,,Machine-checkable skill claims over fixture claims + receipts; no receipt renders UNVERIFIED.
+2026-10-27T11:14:27.196374Z,io.github.Kumar2421/marlo-mcp,,0.1.0,https://github.com/Kumar2421/okara-alternative,,"Audit a web page for SEO and technical issues with Marlo, the open-source AI CMO. Read-only."
+2026-10-27T11:15:16.596862Z,network.smartgate/smartgate,SmartGate,1.0.0,https://github.com/smartgate-network/smartgate-workflows,streamable-http,"Hosted MCP: search, fetch, compress, dedup, budget, memory, pipelines. Not an LLM proxy."
+2026-10-27T11:16:42.717379Z,com.guianordelta/guia,Guía Nordelta,1.0.0,,streamable-http,"Service providers in Nordelta (Tigre, Argentina) recommended by neighbors. Spanish."
+2026-10-27T11:17:33.824343Z,io.github.ermoluk/mcp-warden,mcp-warden,0.4.3,https://github.com/ermoluk/mcp-warden,,"Local credential broker: agents call APIs, SSH and DBs via scoped presets; secrets stay in keychain."
+2026-10-27T11:18:30.459154Z,com.modelsalt/model-salt,Model Salt,1.0.1,https://github.com/modelsalt/model-salt,,"Randomness from outside the model, so one prompt gives different answers that still fit the ask."
