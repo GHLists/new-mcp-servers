@@ -1,0 +1,62 @@
+created_at,server,title,version,repository,transports,description
+2026-10-27T22:21:29.149174Z,com.selfoperate/tools,SelfOperate Tools,1.0.0,,streamable-http,"Pay-per-call web and business intelligence tools for AI agents (x402, USDC)."
+2026-10-27T22:22:30.602015Z,place.alexandria/connector,alexandria.,1.0.0,,streamable-http,"know the people in your life from what each of them chooses to share, and keep your own page"
+2026-10-27T22:26:33.342821Z,io.github.aien-dev/omega-mcp,,0.1.0,https://github.com/aien-dev/omega-mcp,,"Compile and run Omega (.om) programs in a sandbox, and look up Omega errors and keywords."
+2026-10-27T22:27:06.327377Z,ai.aeoengine/best-ai-search-agency-aeo-report,Best AI Search Agency AEO Report,2.0.0,,streamable-http,Free AEO visibility report MCP — run AI search audits for any domain.
+2026-10-27T22:34:34.186992Z,io.github.minanyang/nameable,Nameable,2.0.1,https://github.com/minanyang/nameable,,"Check whether a name is free on package registries, app stores, agent directories and domains."
+2026-10-27T22:35:40.241419Z,io.github.skatkov/posh,POSH — Ruby documentation,0.39.0,,,Search and read local Ruby and gem documentation matched to your project's versions.
+2026-10-27T22:37:05.928461Z,io.github.NTRanch/ardor,Ardor,0.1.0,https://github.com/NTRanch/ardor,,"NTRanch maker MCP: authoring, safety gates, playtest QA and release handoffs for adult games/apps."
+2026-10-27T22:39:01.683886Z,com.it.justclaw/justclaw-it,JustClaw-It,1.7.0,,streamable-http,"Licence-cleared, quality-scored code components for coding agents. Free search, metered pulls."
+2026-10-27T22:48:06.726699Z,app.wishlistme/wishlistme,Wishlistme,1.2.1,,streamable-http,"Manage gift wishlists, reserve gifts on friends' lists and run a Secret Santa from a chat."
+2026-10-27T22:49:08.71152Z,io.github.GetUserProof/userproof,,3.3.0,https://github.com/GetUserProof/userproof,,"The top conversion fix from real visitor sessions, with file and line, checked after you ship."
+2026-10-27T22:49:27.034805Z,tech.polydoc/polydoc-mcp,PolyDoc,0.1.9,https://github.com/polydoc-tech/polydoc-mcp,,"HTML/URL to PDF, screenshots, e-invoices. PDF/A and PDF/UA output with optional veraPDF verify."
+2026-10-27T22:56:03.528091Z,ch.antevo/tremor-watch,Tremor Watch,1.0.0,https://github.com/ANTEVO-CH/antevo-mcp,streamable-http,"How many market relationships stopped behaving this week: the Antevo Tremor Index, since 1997."
+2026-10-27T23:03:03.573312Z,ai.coworker/mcp,Coworker,1.0.0,,,Enterprise context layer for AI across 50+ work apps. Enterprise-only: book a demo for access.
+2026-10-27T23:04:04.674988Z,io.github.ak10082247-max/pulse402-oracle,Pulse402 Oracle,1.2.0,https://github.com/ak10082247-max/pulse402-oracle,streamable-http,Consumable x402 data oracle providing Base DEX liquidity & Polymarket velocity for AI agents.
+2026-10-27T23:04:44.394705Z,io.github.pipeworx-io/marketdata-app,Marketdata App,0.1.3,https://github.com/pipeworx-io/mcp-marketdata-app,streamable-http,Market Data App MCP — wraps the Market Data App API (marketdata.app)
+2026-10-27T23:04:54.240236Z,io.github.pipeworx-io/maryland-code,Maryland Code,0.1.3,https://github.com/pipeworx-io/mcp-maryland-code,streamable-http,Maryland Code — state statutes by citation.
+2026-10-27T23:05:07.741576Z,io.github.pipeworx-io/massachusetts-code,Massachusetts Code,0.1.3,https://github.com/pipeworx-io/mcp-massachusetts-code,streamable-http,Massachusetts General Laws — state statutes by citation.
+2026-10-27T23:05:18.184665Z,io.github.pipeworx-io/mast-nasa,Mast Nasa,0.1.3,https://github.com/pipeworx-io/mcp-mast-nasa,streamable-http,MAST MCP — Space Telescopes archive.
+2026-10-27T23:05:28.435789Z,io.github.pipeworx-io/mastodon,Mastodon,0.1.3,https://github.com/pipeworx-io/mcp-mastodon,streamable-http,Mastodon MCP — public Mastodon data via mastodon.social (no auth required)
+2026-10-27T23:05:38.346464Z,io.github.pipeworx-io/materials,Materials,0.1.3,https://github.com/pipeworx-io/mcp-materials,streamable-http,Materials MCP — computed (DFT) materials structures & thermodynamic properties.
+2026-10-27T23:05:48.196575Z,io.github.pipeworx-io/mathjs,Mathjs,0.1.3,https://github.com/pipeworx-io/mcp-mathjs,streamable-http,"Math.js MCP — wraps the mathjs.org API (free, no auth)"
+2026-10-27T23:05:58.315695Z,io.github.pipeworx-io/matomo,Matomo,0.1.3,https://github.com/pipeworx-io/mcp-matomo,streamable-http,MCP server for matomo
+2026-10-27T23:06:08.395727Z,io.github.pipeworx-io/maven-central,Maven Central,0.1.3,https://github.com/pipeworx-io/mcp-maven-central,streamable-http,Maven Central MCP — Java/JVM artifact registry
+2026-10-27T23:06:18.783754Z,io.github.pipeworx-io/mbta,Mbta,0.1.3,https://github.com/pipeworx-io/mcp-mbta,streamable-http,MBTA MCP — Boston real-time transit via the MBTA v3 API (api-v3.mbta.com)
+2026-10-27T23:06:28.611296Z,io.github.pipeworx-io/mdn-search,Mdn Search,0.1.3,https://github.com/pipeworx-io/mcp-mdn-search,streamable-http,MDN Search MCP
+2026-10-27T23:06:38.540072Z,io.github.pipeworx-io/mediastack,Mediastack,0.1.3,https://github.com/pipeworx-io/mcp-mediastack,streamable-http,Mediastack MCP — wraps Mediastack API (api.mediastack.com/v1)
+2026-10-27T23:06:48.914987Z,io.github.pipeworx-io/medicaid-intelligence,Medicaid Intelligence,0.1.3,https://github.com/pipeworx-io/mcp-medicaid-intelligence,streamable-http,"Investor-oriented Medicaid drug utilization, managed-care, and enrollment signals."
+2026-10-27T23:06:59.103901Z,io.github.pipeworx-io/medical-codes,Medical Codes,0.1.3,https://github.com/pipeworx-io/mcp-medical-codes,streamable-http,Medical codes MCP.
+2026-10-27T23:07:09.718763Z,io.github.pipeworx-io/medicare-coverage,Medicare Coverage,0.1.7,https://github.com/pipeworx-io/mcp-medicare-coverage,streamable-http,Medicare national and local coverage policy from the official CMS Coverage API.
+2026-10-27T23:07:18.83574Z,ai.securelend/lender,SecureLend Underwriting,1.0.0,https://github.com/SecureLend/mcp-underwriting,streamable-http,"Open a credit file, chase gaps, screen sanctions, draft a cited memo. Person decides."
+2026-10-27T23:07:32.178123Z,io.github.pipeworx-io/medlineplus,Medlineplus,0.1.3,https://github.com/pipeworx-io/mcp-medlineplus,streamable-http,MedlinePlus MCP — NIH consumer health info
+2026-10-27T23:07:52.421849Z,io.github.pipeworx-io/mempool-space,Mempool Space,0.1.3,https://github.com/pipeworx-io/mcp-mempool-space,streamable-http,mempool.space MCP — Bitcoin block explorer + mempool/fee stats
+2026-10-27T23:07:53.708197Z,io.github.chaoscypherinc/chaoscypher,Chaos Cypher,0.6.0,https://github.com/chaoscypherinc/chaoscypher,,"Local-first knowledge graphs from your documents: build, search (GraphRAG) and edit on your machine."
+2026-10-27T23:08:02.485969Z,io.github.pipeworx-io/meps,Meps,0.1.3,https://github.com/pipeworx-io/mcp-meps,streamable-http,"MEPS — what Americans actually take, and what for."
+2026-10-27T23:08:12.288866Z,io.github.pipeworx-io/mercury-number,Mercury Number,0.1.4,https://github.com/pipeworx-io/mcp-mercury-number,streamable-http,mercury-number MCP — wraps StupidAPIs (keyless — no credential needed)
+2026-10-27T23:08:22.521601Z,io.github.pipeworx-io/merriam-webster,Merriam Webster,0.1.4,https://github.com/pipeworx-io/mcp-merriam-webster,streamable-http,Merriam-Webster MCP — wraps the Merriam-Webster Collegiate Dictionary and Collegiate Thesaurus…
+2026-10-27T23:08:32.803723Z,io.github.pipeworx-io/mesh,Mesh,0.1.3,https://github.com/pipeworx-io/mcp-mesh,streamable-http,NLM MeSH (Medical Subject Headings) MCP.
+2026-10-27T23:08:43.826221Z,io.github.pipeworx-io/met-no,Met No,0.1.3,https://github.com/pipeworx-io/mcp-met-no,streamable-http,"MET Norway (api.met.no) MCP — global weather, Nordics specials."
+2026-10-27T23:08:53.82859Z,io.github.pipeworx-io/metabolights,Metabolights,0.1.3,https://github.com/pipeworx-io/mcp-metabolights,streamable-http,MetaboLights MCP — EBI's metabolomics study repository.
+2026-10-27T23:08:58.080475Z,com.thesepticguide/thesepticguide,The Septic Guide,0.2.0,https://github.com/archer-clawbot/thesepticguide-mcp,streamable-http,"U.S. septic licensing by state, license-matched septic companies, and cited septic cost guides."
+2026-10-27T23:09:03.984671Z,io.github.pipeworx-io/metals-api,Metals Api,0.1.3,https://github.com/pipeworx-io/mcp-metals-api,streamable-http,Metals API MCP — wraps Metals-API (metals-api.com)
+2026-10-27T23:09:13.890128Z,io.github.pipeworx-io/meteors,Meteors,0.1.3,https://github.com/pipeworx-io/mcp-meteors,streamable-http,"Meteors MCP — NASA fireball, near-Earth asteroid, and close approach data"
+2026-10-27T23:09:23.671635Z,io.github.pipeworx-io/meteostat,Meteostat,0.2.3,https://github.com/pipeworx-io/mcp-meteostat,streamable-http,Meteostat MCP — historical weather from 11k+ stations (no auth)
+2026-10-27T23:09:33.84811Z,io.github.pipeworx-io/meteoswiss,Meteoswiss,0.1.2,https://github.com/pipeworx-io/mcp-meteoswiss,streamable-http,Swiss weather and federal geodata from MeteoSwiss and swisstopo on data.geo.admin.ch — find…
+2026-10-27T23:09:54.24712Z,io.github.pipeworx-io/mfapi-india,Mfapi India,0.1.3,https://github.com/pipeworx-io/mcp-mfapi-india,streamable-http,MFAPI.in MCP — Indian mutual-fund NAV (net asset value) data.
+2026-10-27T23:10:04.170553Z,io.github.pipeworx-io/mgnify,Mgnify,0.1.2,https://github.com/pipeworx-io/mcp-mgnify,streamable-http,"MGnify — EMBL-EBI's metagenomics resource: public microbiome studies, the biome vocabulary they…"
+2026-10-27T23:10:14.740384Z,io.github.pipeworx-io/mhra-alerts,Mhra Alerts,0.1.3,https://github.com/pipeworx-io/mcp-mhra-alerts,streamable-http,"MHRA drug and device safety alerts, recalls and Drug Safety Update bulletins, sourced from the…"
+2026-10-27T23:10:24.78225Z,io.github.pipeworx-io/mhra-uk,Mhra Uk,0.1.3,https://github.com/pipeworx-io/mcp-mhra-uk,streamable-http,MHRA (UK Medicines and Healthcare products Regulatory Agency) — the public products register…
+2026-10-27T23:10:34.775196Z,io.github.pipeworx-io/mhw,Mhw,0.1.6,https://github.com/pipeworx-io/mcp-mhw,streamable-http,"MHW MCP — Monster Hunter World data (mhw-db.com, free, no auth)"
+2026-10-27T23:10:44.767938Z,io.github.pipeworx-io/michigan-code,Michigan Code,0.1.3,https://github.com/pipeworx-io/mcp-michigan-code,streamable-http,Michigan Compiled Laws — state statutes by citation.
+2026-10-27T23:10:54.788635Z,io.github.pipeworx-io/microlink,Microlink,0.1.3,https://github.com/pipeworx-io/mcp-microlink,streamable-http,"Microlink MCP — wraps Microlink API (free tier, no auth required)"
+2026-10-27T23:11:04.753966Z,io.github.pipeworx-io/microsoft-onenote,Microsoft Onenote,0.1.4,https://github.com/pipeworx-io/mcp-microsoft-onenote,streamable-http,Microsoft OneNote (Microsoft 365) MCP Pack
+2026-10-27T23:11:14.616006Z,io.github.pipeworx-io/microsoft-todo,Microsoft Todo,0.1.4,https://github.com/pipeworx-io/mcp-microsoft-todo,streamable-http,Microsoft To Do (Microsoft 365) MCP Pack
+2026-10-27T23:11:34.27014Z,io.github.pipeworx-io/minnesota-code,Minnesota Code,0.1.3,https://github.com/pipeworx-io/mcp-minnesota-code,streamable-http,Minnesota Statutes — state statutes by citation.
+2026-10-27T23:11:44.023286Z,io.github.pipeworx-io/miso,Miso,0.1.2,https://github.com/pipeworx-io/mcp-miso,streamable-http,"Real-time electricity data for MISO, the grid operator for 15 US states from Louisiana to…"
+2026-10-27T23:12:04.624928Z,io.github.pipeworx-io/missouri-code,Missouri Code,0.1.3,https://github.com/pipeworx-io/mcp-missouri-code,streamable-http,Missouri Revised Statutes — state statutes by citation.
+2026-10-27T23:12:18.558449Z,io.github.pipeworx-io/mitre-attck,Mitre Attck,0.1.3,https://github.com/pipeworx-io/mcp-mitre-attck,streamable-http,MITRE ATT&CK MCP — STIX bundles from github.com/mitre/cti.
+2026-10-27T23:12:28.498698Z,io.github.pipeworx-io/mitre-cwe,Mitre Cwe,0.1.3,https://github.com/pipeworx-io/mcp-mitre-cwe,streamable-http,MITRE CWE API MCP.
+2026-10-27T23:12:38.552264Z,io.github.pipeworx-io/mixpanel,Mixpanel,0.1.3,https://github.com/pipeworx-io/mcp-mixpanel,streamable-http,Mixpanel MCP — wraps Mixpanel Data Export API (mixpanel.com/api)
+2026-10-27T23:12:48.479278Z,io.github.pipeworx-io/mlb-stats,Mlb Stats,0.3.2,https://github.com/pipeworx-io/mcp-mlb-stats,streamable-http,MLB Stats API MCP — official MLB statistics (keyless).
+2026-10-27T23:16:00.567155Z,io.github.mobymedia/polymarket-news-mcp,,0.2.2,https://github.com/mobymedia/polymarket-news-mcp,,Match news headlines to the Polymarket prediction markets they move - live odds and deep links
