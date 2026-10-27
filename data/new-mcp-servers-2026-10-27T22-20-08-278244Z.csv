@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-10-27T21:21:34.851345Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-exportcheck-mcp,Eclipse Exportcheck,0.1.7,https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-exportcheck-mcp,,"Vintage-sealed fixture screening verdicts; clearance provable after lists change, local."
+2026-10-27T21:22:39.779563Z,lk.ghosts/wyrm,,9.4.1,,,"Local-first memory for AI agents: ground truths, failure firewall, negotiated recall over MCP."
+2026-10-27T21:24:28.067818Z,com.textforagents/ephemeral-tool-forge,Ephemeral tool forge,1.0.0,,streamable-http,"Ephemeral single-task tool forged from examples, sandbox-proven, task-bound, expiring by design."
+2026-10-27T21:29:18.532099Z,io.github.silas-dsc/keyready,KeyReady — Australian home loan readiness,1.0.0,https://github.com/silas-dsc/keyready,streamable-http,"Australian home loan readiness: ~90 lenders' rules, stamp duty, grants, 5% Deposit Scheme, rates"
+2026-10-27T21:33:22.57184Z,io.github.projectworks007/job-boards-3,Job Boards Data (part 3),1.0.0,https://github.com/projectworks007/apify-data-mcp,streamable-http,"Live job ads from StepStone, XING, Welcome to the Jungle, Naukri, JobStreet and more."
+2026-10-27T21:33:27.365246Z,co.wellspent/advisors,Wellspent: fee-only financial advisors,1.0.0,,streamable-http,"Find fee-only financial advisors in the US and Canada by location, specialty, and client type."
+2026-10-27T21:35:41.107927Z,io.github.FreeApply/freeapply,FreeApply,1.0.0,https://github.com/FreeApply/freeapply,,"Free job-search agent: finds matching jobs, applies through your AI app, tracks it all locally."
+2026-10-27T21:37:12.311125Z,app.vercel.indo-news-api/news,,1.0.0,,streamable-http,"Indonesian news for AI agents: headlines, keyword search, coverage summaries. Free MCP tools."
+2026-10-27T21:39:30.42721Z,io.github.AskLoci/loci,Loci,0.1.3,https://github.com/AskLoci/loci-plugins,,Run local models on your Apple silicon Mac with Loci. Requires macOS 26.2 or later.
+2026-10-27T21:41:15.594083Z,io.github.wilsonvargas/driftcheck,Driftcheck,0.1.0,https://github.com/wilsonvargas/Driftcheck,,Compares a mobile app screen (Android or iOS Simulator) with its Figma design and suggests fixes.
+2026-10-27T21:43:04.561765Z,io.github.RiskThinking/cdt-express-mcp,CDT Express by Riskthinking.AI,0.7.0,https://github.com/RiskThinking/cdt-express-mcp,streamable-http,Interact with climate metrics via Riskthinking.AI's CDT Express API in supported AI chat experiences
+2026-10-27T21:44:35.594376Z,ai.topy/cto,TOPY.AI · AI CTO,0.1.0,https://github.com/TOPY-AI-LTD/TOPY-AI-CTO-Skills,streamable-http,"Founders' AI CTO: CI failures explained, PRs and checks, release notes, alerts."
+2026-10-27T21:47:32.520053Z,app.listenbox/mcp,Listenbox,1.0.0,,streamable-http,"Manage Listenbox podcasts, episodes, collaborators, and RSS imports through your AI assistant."
+2026-10-27T21:48:06.02481Z,cc.secondpage/secondpage,SecondPage,0.2.0,,streamable-http,"Dashboards, websites, and apps: the Google Drive for everything your AI makes. Edit it together."
+2026-10-27T21:49:59.105685Z,app.vercel.indo-news-api/indonesia-news,,1.0.0,,streamable-http,"Indonesian news for AI agents: headlines, keyword search, coverage reports."
+2026-10-27T21:56:46.417728Z,nl.morgenklaar/mcp,morgenklaar.nl,1.0.0,,streamable-http,"Manage your morgenklaar.nl website: read orders, products, appointments and pages; draft content."
+2026-10-27T22:01:53.475652Z,com.masteringfinancialmarkets/mfm,Mastering Financial Markets,1.0.0,,streamable-http,"Read-only fundamentals of developed-market listed companies from official filings, with dates."
+2026-10-27T22:03:50.102719Z,com.prometheor/prometheor,Prometheor,0.4.0,,streamable-http,"Your AI apps as one team: hand work to Codex or Claude Code, with a shared logbook of results."
+2026-10-27T22:04:09.981699Z,co.crevio/crevio,Crevio,2.0.1,https://github.com/creviolabs/crevio-mcp,streamable-http,"Delegate to an AI agent that runs your small business, or script the Crevio API and 3,000+ apps."
+2026-10-27T22:04:59.743889Z,app.letx/letx,LetX,1.1.1,https://github.com/Shahriar-Labs/letx-plugin,streamable-http,"Collaborative LaTeX editor: search 1000+ templates, edit projects, and compile them to PDF."
+2026-10-27T22:05:47.580521Z,io.github.ethanhunt1981/rea-ghidra-toolkit,REA + Ghidra Toolkit,1.0.0,https://github.com/ethanhunt1981/rea-ghidra-toolkit,streamable-http,"Evidence-oriented REA + Ghidra static-analysis workflows, read-only PE32 and Delphi VMT tools."
+2026-10-27T22:10:43.649463Z,fyi.toothache/dentists,toothache.fyi,0.2.0,,streamable-http,"London dental prices from practices' own sites, next to NHS charges and NHS places. Dated, sourced."
+2026-10-27T22:13:14.399975Z,dev.notavibe/mcp,notavibe,0.1.0,,streamable-http,"Ranks open-source projects on maintenance, not popularity. Check your dependencies."
+2026-10-27T22:13:34.121543Z,io.kooga/kooga,Kooga,1.0.0,https://github.com/HushThrive/kooga-mcp,streamable-http,"AI marketing for businesses: SEO content, AI visibility, email campaigns and analytics."
+2026-10-27T22:17:31.574686Z,com.autodesk.aps.api/product-help-mcp,Autodesk Product Help MCP,1.0.12,https://github.com/Autodesk/ai-integrations,streamable-http,Read official Autodesk documentation for 110+ products. No key required.
+2026-10-27T22:19:59.39903Z,com.wirechunk/mcp,Wirechunk,0.1.0,,streamable-http,Build and update websites on Wirechunk.
