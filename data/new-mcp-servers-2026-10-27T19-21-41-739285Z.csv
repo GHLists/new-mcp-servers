@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-27T18:21:27.127192Z,io.github.idoo/connect-iq-mcp,Connect IQ MCP,0.1.0,https://github.com/idoo/connect-iq-mcp,,"MCP server for Garmin Connect IQ developers: store portal, SDK builds, simulator. Read-only default."
+2026-10-27T18:22:44.97287Z,io.github.AgentaFlow/whiteboxxai-mcp,WhiteBoxXAI,0.3.0,https://github.com/AgentaFlow/whiteboxxai-mcp,streamable-http,"AI observability, explainability and governance: drift, fairness, ISO 42001, risk register."
+2026-10-27T18:24:32.132586Z,dev.1social/bluesky,Bluesky by 1Social,1.0.1,https://github.com/sultanlive/1social-mcp,streamable-http,Publish and schedule Bluesky posts and threads from your AI assistant.
+2026-10-27T18:24:34.942377Z,dev.1social/facebook,Facebook by 1Social,1.0.1,https://github.com/sultanlive/1social-mcp,streamable-http,Publish and schedule Facebook Page posts from your AI assistant.
+2026-10-27T18:24:36.535997Z,dev.1social/instagram,Instagram by 1Social,1.0.1,https://github.com/sultanlive/1social-mcp,streamable-http,"Publish and schedule Instagram posts, Reels and carousels from your AI assistant."
+2026-10-27T18:24:38.995992Z,dev.1social/linkedin,LinkedIn by 1Social,1.0.1,https://github.com/sultanlive/1social-mcp,streamable-http,Publish and schedule LinkedIn posts from your AI assistant.
+2026-10-27T18:24:41.069985Z,dev.1social/threads,Threads by 1Social,1.0.1,https://github.com/sultanlive/1social-mcp,streamable-http,Publish and schedule Threads posts from your AI assistant.
+2026-10-27T18:24:44.259341Z,dev.1social/tiktok,TikTok by 1Social,1.0.1,https://github.com/sultanlive/1social-mcp,streamable-http,Publish and schedule TikTok videos and photo posts from your AI assistant.
+2026-10-27T18:24:46.887189Z,dev.1social/x-twitter,X (Twitter) by 1Social,1.0.1,https://github.com/sultanlive/1social-mcp,streamable-http,Publish and schedule tweets and threads on X (Twitter) from your AI assistant.
+2026-10-27T18:24:47.507809Z,dev.1social/youtube-shorts,YouTube Shorts by 1Social,1.0.1,https://github.com/sultanlive/1social-mcp,streamable-http,Upload and schedule YouTube Shorts from your AI assistant.
+2026-10-27T18:25:39.961399Z,ai.hoghogh/chistara,چیستارا — Iranian Legal Corpus,1.1.0,,streamable-http,"Iranian statutes, rulings, opinions and legal calculators. Needs a paid Chistara connection link."
+2026-10-27T18:26:48.33798Z,io.github.Lex-API/lexapi-mcp,LexAPI,0.3.0,https://github.com/Lex-API/lexapi-mcp,streamable-http,"EU law for AI: EUR-Lex legislation and case law, citation graph, semantic search with asOf."
+2026-10-27T18:29:41.966989Z,io.github.CloudCorpRecords/fileport,,0.1.0,https://github.com/CloudCorpRecords/fileport,,"Sandboxed file access: read, write, edit and search in allowed dirs."
+2026-10-27T18:33:11.163043Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-greenwash-mcp,Eclipse Greenwash,0.1.1,https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-greenwash-mcp,,Emission-time claim binder over fixture streams; unbound claims flagged in-message.
+2026-10-27T18:33:51.635319Z,ai.limurse/limurse,Limurse,1.0.1,,streamable-http,"Find, book and pay creators: search, budget and brief, then start_booking opens the booking."
+2026-10-27T18:34:49.224755Z,io.github.RichardTheLion73/quickbrew-mcp,,1.0.3,,,Model Context Protocol (MCP) server for Quickbrew.io x402 data endpoints.
+2026-10-27T18:45:16.689975Z,io.github.yungsuper16-eng/tokenomics-unlock-calendar,Tokenomics Audit Desk — Unlock Calendar,1.0.0,https://github.com/yungsuper16-eng/hanzo-stack,streamable-http,"Verified token unlock calendar from the Tokenomics Audit Desk: upcoming unlocks, per-token history."
+2026-10-27T18:47:42.587272Z,com.spiderlook/spiderlook,SpiderLook,1.0.0,,streamable-http,"Competitor intelligence for AI assistants: daily scans of rivals' posts, ads, and sites."
+2026-10-27T18:48:59.373925Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-agesure-mcp,Eclipse Agesure,0.1.2,https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-agesure-mcp,,"Band-only age proofs over fixture attestations, sealed to one mandate; local only."
+2026-10-27T18:54:37.51394Z,com.chalkgolfapp/golf,Chalk Golf,1.0.0,,streamable-http,"Your own golf rounds, scorecards, stats, handicap record and swing analyses. Read-only."
+2026-10-27T18:57:48.899255Z,com.recallcanary/recall-canary,Recall Canary,1.2.0,,streamable-http,"U.S. federal product recalls from FDA, FSIS, CPSC, and NHTSA, in one schema."
+2026-10-27T19:02:09.503867Z,studio.frameos/frameos,FrameOS,1.0.0,https://github.com/theSatvik/frameos-plugins,streamable-http,"Turn long videos into captioned, reframed short clips, thumbnails, and social posts."
+2026-10-27T19:08:29.519743Z,com.booksmate/booksmate,Booksmate,1.0.0,https://github.com/odwyersoftware/booksmate-plugins,streamable-http,"Search, summarise and export your invoices and receipts collected from email and supplier portals."
+2026-10-27T19:14:49.776005Z,jobs.aitrainers/search,aitrainers.jobs: AI training jobs search,1.0.0,,streamable-http,"Search open paid AI training jobs from 70+ platforms by country, work, language and pay"
+2026-10-27T19:16:50.834388Z,io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-fairlend-mcp,Eclipse Fairlend,0.1.1,https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-fairlend-mcp,,Decision-evidence sealing + audit recompute over fixture decisions; local only.
+2026-10-27T19:17:12.516482Z,bid.tendera/tendera,Tendera,1.0.0,,streamable-http,"Finnish, Swedish and EU (TED) public procurement notices, decisions and market analytics"
+2026-10-27T19:19:07.06684Z,com.blabigo/linkedin-analytics-mcp,Blabigo LinkedIn,1.6.0,,streamable-http,"LinkedIn analytics, media uploads and scheduling for AI agents. Agents queue; Blabigo publishes."
