@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-10-28T08:23:29.341778Z,com.conciergr/conciergr,Conciergr,1.0.0,,streamable-http,"Set up and run your Conciergr WhatsApp assistant: settings, documents, team and Team Inbox."
+2026-10-28T08:23:41.713203Z,com.conciergr/timetable,Conciergr Timetable,1.0.0,,streamable-http,"Set up and keep a class business's timetable: branches, classes, seats, closed days and fees."
+2026-10-28T08:25:40.340455Z,com.stillroach/token-check,Still Roach token check,0.2.0,,streamable-http,"Send the roach in first: Solana token holder checks for agents. Pay per call, no key."
+2026-10-28T08:38:25.289697Z,org.toolwork/toolwork,Toolwork,0.2.0,,streamable-http,"Agent-first search of MCP servers, APIs, CLIs and skills, with best picks and transparent scores."
+2026-10-28T08:43:18.433541Z,com.aipozi/aipozi,aipozi,1.0.0,,streamable-http,"Daily AI visibility: who ChatGPT, Claude, Gemini and Perplexity name instead of you. Domain tools."
+2026-10-28T08:50:07.983863Z,app.smacros/macro-tracker,Smacros: smarter macro tracking,2026.10.28,,streamable-http,All the ease of Claude. All the rigor of a real macro tracker.
+2026-10-28T08:53:30.515051Z,com.vendorsqueezer/workspace,Vendor Squeezer,1.0.0,,streamable-http,"Vendor and contract records: renewals by notice deadline, spend, contracts and approved changes."
+2026-10-28T08:56:59.046257Z,io.usefulapi/fakturowo,Fakturowo MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read invoices, clients and products in Fakturowo; create documents and update payment status."
+2026-10-28T08:56:59.510009Z,io.usefulapi/propertyware,Propertyware MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Propertyware properties, leases and work orders; add maintenance tasks and comments."
+2026-10-28T08:59:09.383016Z,io.github.sumitrmardy/shopify-store-products,Shopify Store Products Scraper,1.0.0,,streamable-http,"Public Shopify catalog products, prices, SKUs and variants. Classic storefronts only; failures free."
+2026-10-28T09:00:18.242288Z,io.czechai/firmy,CzechAI – Czech business & property intelligence,4.0.5,,streamable-http,"Czech business & property intelligence: AML/KYC, company registers, cadastre, valuation, law, OSINT"
+2026-10-28T09:01:04.816279Z,org.padelapi/padel-analyst,Padel Analyst,1.0.0,,streamable-http,"Query professional padel tournament data, player stats, and live match results"
+2026-10-28T09:01:15.318371Z,io.usefulapi/wubook,WuBook MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read WuBook ZaK rooms, availability and reservations; manage inventory and guest check-in."
+2026-10-28T09:01:15.794906Z,io.usefulapi/saldeo,Saldeo MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read SaldeoSMART companies, contractors, documents, invoices, bank statements and employees."
+2026-10-28T09:04:34.783233Z,io.github.cwasley/earnrate,earnrate,0.1.0,https://github.com/cwasley/earnrate,,"Picks the credit card in your wallet that earns the most at a merchant, and says why."
+2026-10-28T09:06:19.545111Z,sh.trygateway/gateway,Gateway SSH,1.4.2,,streamable-http,Manage servers through SSH.
+2026-10-28T09:06:37.118548Z,io.usefulapi/plutio,Plutio MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Manage Plutio clients, projects, tasks, time entries and invoices."
+2026-10-28T09:08:05.914588Z,ai.travelpanda/travelpanda,TravelPanda,0.2.11,,streamable-http,"Plan and manage trips in China, read saved itineraries, and make Chinese directions and taxi cards."
+2026-10-28T09:08:27.696343Z,net.vegoritida/booking,"Vegoritida Apartments — Lake Vegoritida, Greece",1.0.0,,streamable-http,"Check availability and book lake-view apartments near Edessa, Greece. No credit card needed."
+2026-10-28T09:10:45.377314Z,ch.was-ist-mcp/demo,Was ist MCP? Demo-Server,0.1.0,,streamable-http,Plain-language MCP explainer in German: search and read was-ist-mcp.ch. Most tools need no login.
+2026-10-28T09:13:29.926318Z,ai.mdil/remap,REMAP,REMAP-MCP-1,,streamable-http,"Up to 90% fewer tokens: deterministic, declared tool calls, each with a receipt and an audit trail."
+2026-10-28T09:19:25.670347Z,io.github.Mintreetech/ssl-toolkit-mcp,IDigiTrust SSL Toolkit,1.5.0,https://github.com/Mintreetech/ssl-toolkit-mcp,streamable-http,"Free SSL/PKI tools: HTTPS audit incl. GM SM2/TLCP, DCV pre-check, CSR, cert decode, P12/JKS."

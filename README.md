@@ -9,41 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 08:20 UTC
+## Latest list — 2026-10-28 09:20 UTC
 
-New MCP servers published between 2026-10-28 07:20 UTC and 2026-10-28 08:20 UTC.
+New MCP servers published between 2026-10-28 08:20 UTC and 2026-10-28 09:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-28T08-20-23-828916Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-28T09-20-34-348197Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-28 07:23:33 | group.highlnd-intel/highland-apis | Highland Intel APIs | 1.0.0 | 70 pay-per-call APIs: DNS, email auth, security headers, web search, scraping,… |
-| 2026-10-28 07:23:59 | io.alion/jobs | Alion Jobs: job search, salaries and vi… | 1.0.0 | Live job postings worldwide: search by role, country, remote, salary, visa; pay… |
-| 2026-10-28 07:24:00 | io.alion/companies | Alion Companies: company and startup da… | 1.0.0 | Companies and startups: industry, size, funding, investors, tech stack, hiring,… |
-| 2026-10-28 07:24:01 | io.alion/people | Alion People: find candidates and conta… | 1.0.0 | Find people open to offers by role and skills, read open profiles, message them… |
-| 2026-10-28 07:25:36 | [io.github.KNIHAL/causly-server](https://github.com/KNIHAL/causly-server) |  | 1.5.3 | Open-source MCP server that turns any AI agent into your technical co-founder |
-| 2026-10-28 07:28:06 | [io.github.jtauschl/openproject-ce-mcp](https://github.com/jtauschl/openproject-ce-mcp) | OpenProject CE | 0.4.3 | MCP server for OpenProject Community Edition with guarded read/write support. |
-| 2026-10-28 07:28:39 | io.github.dancerdan15/bluesky-social-search-mcp | Bluesky Social Search MCP | 0.1.0 | Bluesky post search, author feeds, profiles & threads |
-| 2026-10-28 07:28:39 | io.github.dancerdan15/discourse-forum-mcp | Discourse Forum MCP | 0.1.0 | Discourse forum search & threads |
-| 2026-10-28 07:28:40 | io.github.dancerdan15/google-ads-transparency-mcp | Google Ads Transparency MCP | 0.1.0 | Google Ads Transparency & ad spy |
-| 2026-10-28 07:28:40 | io.github.dancerdan15/google-trends-realtime-mcp | Google Trends Realtime MCP | 0.1.0 | Google Trends realtime & entities |
-| 2026-10-28 07:28:41 | io.github.dancerdan15/keyword-autocomplete-mcp | Keyword Autocomplete MCP | 0.1.0 | Multi-engine keyword & autocomplete |
-| 2026-10-28 07:28:41 | io.github.dancerdan15/multi-ats-career-jobs-mcp | Multi Ats Career Jobs MCP | 0.1.0 | Job search across Greenhouse, Lever, Ashby, SmartRecruiters, Workable |
-| 2026-10-28 07:28:42 | io.github.dancerdan15/sec-edgar-filings-mcp | Sec Edgar Filings MCP | 0.1.0 | SEC EDGAR filings, full-text search & XBRL financial facts |
-| 2026-10-28 07:28:42 | io.github.dancerdan15/shopify-store-catalog-mcp | Shopify Store Catalog MCP | 0.1.0 | Shopify store catalog, SKU/price/availability & collections |
-| 2026-10-28 07:28:43 | io.github.dancerdan15/substack-newsletter-mcp | Substack Newsletter MCP | 0.1.0 | Substack newsletter, posts & podcast search |
-| 2026-10-28 07:35:50 | markets.iamai/marketplace | iamai.markets — AI marketplace | 1.0.0 | Search, buy and sell AI agents, apps, prompts and templates. AI agents can list… |
-| 2026-10-28 07:39:20 | [io.github.shuji-bonji/s1000d-writer-mcp](https://github.com/shuji-bonji/s1000d-writer-mcp) | S1000D Writer (S1000D Stack) | 0.1.0 | Builds S1000D data modules from structured drafts, verifies them, applies only… |
-| 2026-10-28 07:41:25 | [io.github.bvolpato/ivygrep](https://github.com/bvolpato/ivygrep) | ivygrep | 1.3.1 | Local code search and task context packs for coding agents |
-| 2026-10-28 07:42:14 | fit.swole/swole | Swole.fit | 1.0.0 | Swole.fit: your training plan, workout history and food log for your AI assista… |
-| 2026-10-28 07:47:50 | com.blinkbrosai/artifact | blink artifact | 1.0.0 | Publish HTML, docs, slides and dashboards from your AI CLI; edit them live with… |
-| 2026-10-28 07:56:16 | com.ainovaq/mcp | Ainovaq | 1.2.0 | Ainovaq AI venture studio: list services, get service details, search the blog,… |
-| 2026-10-28 08:03:01 | [io.github.Dino-Kupinic/sniptide](https://github.com/Dino-Kupinic/sniptide) |  | 0.2.0 | Search and manage your Sniptide snippets. |
-| 2026-10-28 08:07:38 | [io.github.ScienceWerx-Inc/brico](https://github.com/ScienceWerx-Inc/brico_release) | BRICO feature memory | 0.2.0 | Find features you built in other projects, see how they fit this one, and reuse… |
-| 2026-10-28 08:09:09 | io.github.kerbelp/ai-collection | AI Collection | 0.1.0 | Discover and compare AI tools: search, browse categories, find alternatives and… |
-| 2026-10-28 08:16:46 | [io.github.seongwon030/velog](https://github.com/seongwon030/velog_mcp) | Velog | 0.23.0 | Write, publish, and manage Velog (velog.io) posts, series, comments, and trends… |
-| 2026-10-28 08:19:38 | [io.github.DinevDecor/signal-feed-mcp](https://github.com/DinevDecor/signal-feed-mcp) | Signal Feed API: market regime | 0.2.1 | Daily market regime (risk-on / risk-off) for trading agents, paid per call via… |
-| 2026-10-28 08:20:05 | com.cresclab.agentlab/deploy | Crescendo Agent Lab Deploy | 2026.10.28 | Deploy websites, apps, agents and MCP servers from Claude Code or Codex. OAuth,… |
+| 2026-10-28 08:23:29 | com.conciergr/conciergr | Conciergr | 1.0.0 | Set up and run your Conciergr WhatsApp assistant: settings, documents, team and… |
+| 2026-10-28 08:23:41 | com.conciergr/timetable | Conciergr Timetable | 1.0.0 | Set up and keep a class business's timetable: branches, classes, seats, closed… |
+| 2026-10-28 08:25:40 | com.stillroach/token-check | Still Roach token check | 0.2.0 | Send the roach in first: Solana token holder checks for agents. Pay per call, n… |
+| 2026-10-28 08:38:25 | org.toolwork/toolwork | Toolwork | 0.2.0 | Agent-first search of MCP servers, APIs, CLIs and skills, with best picks and t… |
+| 2026-10-28 08:43:18 | com.aipozi/aipozi | aipozi | 1.0.0 | Daily AI visibility: who ChatGPT, Claude, Gemini and Perplexity name instead of… |
+| 2026-10-28 08:50:07 | app.smacros/macro-tracker | Smacros: smarter macro tracking | 2026.10.28 | All the ease of Claude. All the rigor of a real macro tracker. |
+| 2026-10-28 08:53:30 | com.vendorsqueezer/workspace | Vendor Squeezer | 1.0.0 | Vendor and contract records: renewals by notice deadline, spend, contracts and… |
+| 2026-10-28 08:56:59 | [io.usefulapi/fakturowo](https://github.com/m190/usefulapi-mcp) | Fakturowo MCP by usefulapi | 1.0.0 | Read invoices, clients and products in Fakturowo; create documents and update p… |
+| 2026-10-28 08:56:59 | [io.usefulapi/propertyware](https://github.com/m190/usefulapi-mcp) | Propertyware MCP by usefulapi | 1.0.0 | Read Propertyware properties, leases and work orders; add maintenance tasks and… |
+| 2026-10-28 08:59:09 | io.github.sumitrmardy/shopify-store-products | Shopify Store Products Scraper | 1.0.0 | Public Shopify catalog products, prices, SKUs and variants. Classic storefronts… |
+| 2026-10-28 09:00:18 | io.czechai/firmy | CzechAI – Czech business & property int… | 4.0.5 | Czech business & property intelligence: AML/KYC, company registers, cadastre, v… |
+| 2026-10-28 09:01:04 | org.padelapi/padel-analyst | Padel Analyst | 1.0.0 | Query professional padel tournament data, player stats, and live match results |
+| 2026-10-28 09:01:15 | [io.usefulapi/wubook](https://github.com/m190/usefulapi-mcp) | WuBook MCP by usefulapi | 1.0.0 | Read WuBook ZaK rooms, availability and reservations; manage inventory and gues… |
+| 2026-10-28 09:01:15 | [io.usefulapi/saldeo](https://github.com/m190/usefulapi-mcp) | Saldeo MCP by usefulapi | 1.0.0 | Read SaldeoSMART companies, contractors, documents, invoices, bank statements a… |
+| 2026-10-28 09:04:34 | [io.github.cwasley/earnrate](https://github.com/cwasley/earnrate) | earnrate | 0.1.0 | Picks the credit card in your wallet that earns the most at a merchant, and say… |
+| 2026-10-28 09:06:19 | sh.trygateway/gateway | Gateway SSH | 1.4.2 | Manage servers through SSH. |
+| 2026-10-28 09:06:37 | [io.usefulapi/plutio](https://github.com/m190/usefulapi-mcp) | Plutio MCP by usefulapi | 1.0.0 | Manage Plutio clients, projects, tasks, time entries and invoices. |
+| 2026-10-28 09:08:05 | ai.travelpanda/travelpanda | TravelPanda | 0.2.11 | Plan and manage trips in China, read saved itineraries, and make Chinese direct… |
+| 2026-10-28 09:08:27 | net.vegoritida/booking | Vegoritida Apartments — Lake Vegoritida… | 1.0.0 | Check availability and book lake-view apartments near Edessa, Greece. No credit… |
+| 2026-10-28 09:10:45 | ch.was-ist-mcp/demo | Was ist MCP? Demo-Server | 0.1.0 | Plain-language MCP explainer in German: search and read was-ist-mcp.ch. Most to… |
+| 2026-10-28 09:13:29 | ai.mdil/remap | REMAP | REMAP-MCP-1 | Up to 90% fewer tokens: deterministic, declared tool calls, each with a receipt… |
+| 2026-10-28 09:19:25 | [io.github.Mintreetech/ssl-toolkit-mcp](https://github.com/Mintreetech/ssl-toolkit-mcp) | IDigiTrust SSL Toolkit | 1.5.0 | Free SSL/PKI tools: HTTPS audit incl. GM SM2/TLCP, DCV pre-check, CSR, cert dec… |
 
 ## Data source
 
