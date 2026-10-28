@@ -9,43 +9,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 17:21 UTC
+## Latest list — 2026-10-28 18:18 UTC
 
-New MCP servers published between 2026-10-28 16:21 UTC and 2026-10-28 17:21 UTC.
+New MCP servers published between 2026-10-28 17:21 UTC and 2026-10-28 18:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-28T17-21-12-731247Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-28T18-18-32-661039Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-28 16:23:33 | org.belgium-art/guide-and-transfer | Belgium Art — tours and transfers | 1.0.2 | Belgium guide and transfer services: current terms and client-reviewed Telegram… |
-| 2026-10-28 16:24:34 | [io.github.amine7536/ruptures-medicaments](https://github.com/amine7536/mcp-ruptures-medicaments) | Ruptures de médicaments (France) | 1.1.0 | Medicine shortages in France (ANSM + BDPM): status, expected return, recent cha… |
-| 2026-10-28 16:26:33 | [io.github.ygfalcon/falcon-sol](https://github.com/ygfalcon/falcon-sol-agents) | falcon.sol | 0.2.0 | Solana wallet risk, payee checks, SEC comps, LBO/credit models via one MCP, x40… |
-| 2026-10-28 16:26:45 | [io.github.gl1tchbased-pixel/gl1tch](https://github.com/gl1tchbased-pixel/gl1tch-coin) | GL1TCH Token Safety | 1.0.0 | Token rug-risk scans, Know Your Agent wallet checks and deployer reputation for… |
-| 2026-10-28 16:27:48 | [io.github.budna-marketplace/mcp](https://github.com/budna-marketplace/mcp) | Budna MCP | 0.3.3 | Explore public Budna marketplace listings, categories, seller profiles, ratings… |
-| 2026-10-28 16:28:29 | [io.github.purian/widgetdash-mcp](https://github.com/purian/widgetdash-mcp) | WidgetDash | 0.2.0 | Push any number to your iPhone Home Screen / Lock Screen widgets and Live Activ… |
-| 2026-10-28 16:28:30 | to.unspoken/conversation-exercises | Unspoken Conversation Exercises | 1.0.0 | Free conversation exercises for understanding, reconnecting, and checking mutua… |
-| 2026-10-28 16:28:35 | io.github.Trackunit/irisx | Trackunit IrisX | 1.0.0 | Query your Trackunit IrisX fleet: assets, alerts, sites, services, and analytic… |
-| 2026-10-28 16:30:42 | com.einvoicemap/e-invoice-map | E-Invoice Map | 1.0.0 | Free, read-only e-invoicing data: mandate dates, Peppol providers, validation-e… |
-| 2026-10-28 16:32:50 | chat.conecto/conecto | Conecto | 1.0.0 | The whole back office for your AI agent: CRM, invoices, books, email and more.… |
-| 2026-10-28 16:37:13 | io.github.Fibery-inc/mcp | Fibery | 1.1.0 | Official Fibery MCP server: query and update your workspace from any AI client… |
-| 2026-10-28 16:37:20 | [com.tuqui/tuqui-mcp](https://github.com/Tuqui-AI/tuqui-mcp) | MCP for Claude & ChatGPT | 1.0.0 | Connect your Odoo to Claude and ChatGPT: ask about sales, stock, customers and… |
-| 2026-10-28 16:40:40 | io.github.creathinkone/anymail | Anymail | 1.0.0 | Cold email outreach: manage prospects, campaigns, replies and webhooks in Anyma… |
-| 2026-10-28 16:46:51 | [io.github.bauerpawel/dockyard](https://github.com/bauerpawel/DOCKYARD) | Dockyard | 1.0.0 | Search 600+ Docker/Portainer app templates and prepare a local deploy plan. |
-| 2026-10-28 16:47:15 | [ai.fodda/mcp-server](https://github.com/piers-fawkes/fodda-mcp) | Fodda Knowledge Graphs | 1.46.132 | Expert-curated knowledge, brand, research & earnings intelligence — 56 tools, 2… |
-| 2026-10-28 16:47:23 | [com.vet402/vet402](https://github.com/kzmttkc/vet402-plugin) | vet402 | 1.0.0 | Before your agent pays an x402 URL, see whether vet402 paid it and got the cont… |
-| 2026-10-28 16:49:30 | [io.github.steadyscrape/jobs-data-mcp](https://github.com/steadyscrape/jobs-data-mcp) | Jobs Data MCP (SteadyScrape) | 1.0.0 | Live job postings from 14+ ATS career sites (Greenhouse, Lever, Workday, Ashby.… |
-| 2026-10-28 16:50:13 | [io.github.proa-web/docs](https://github.com/Proa-Labs/proa) | Proa documentation | 1.0.0 | Search and read official Proa Rust framework documentation. Public, read-only,… |
-| 2026-10-28 16:51:02 | [io.github.FlowerOfFire/chengyu-coach-mcp](https://github.com/FlowerOfFire/chengyu-coach-mcp) | Chengyu Coach | 1.0.0 | 成语学习服务器：随机抽成语、查释义与出处，并按对话表现记录掌握程度 |
-| 2026-10-28 16:51:06 | [com.waketrades/mcp](https://github.com/waketrades/hyperliquid-copy-trading-agent-skills) | WakeTrades | 1.0.0 | Copy Hyperliquid traders onto your own account, non-custodial. Not for Restrict… |
-| 2026-10-28 16:52:03 | [com.datatorag/mcp-gateway](https://github.com/datatorag/mcp-gateway) | DataToRAG | 1.0.0 | Hosted MCP for Google Workspace, Atlassian and Notion: one OAuth, per-user acco… |
-| 2026-10-28 16:52:24 | [me.decoys/decoy](https://github.com/decoy-identity/decoy-mcp-server) | Decoy | 1.3.1 | What your agents should know about you, shared by every agent. End-to-end encry… |
-| 2026-10-28 17:02:44 | [io.github.gba3124/bezlo-mcp](https://github.com/gba3124/bezlo) | Bezlo MCP | 0.1.1 | Bezlo MCP: device-preset mobile screenshots, layout diagnostics, see-and-act se… |
-| 2026-10-28 17:04:06 | [io.github.assymetrix/mcp-server](https://github.com/assymetrix/assymetrix-agent-tools) |  | 0.1.1 | Read-only prediction market data (Polymarket, Kalshi, Limitless) from the Assym… |
-| 2026-10-28 17:05:08 | ai.varg/how-to | varg how to | 1.0.0 | Video how-to search for AI agents: 2,000+ video skills, tutorials and FFmpeg re… |
-| 2026-10-28 17:08:03 | ca.augureai/augure | Augure | 1.0.0 | Canadian sovereign AI over MCP: ask rosedale-1 and ossington-5 with data reside… |
-| 2026-10-28 17:09:12 | [io.github.Community-Access/accessibility-agents](https://github.com/Community-Access/accessibility-agents) | Accessibility Agents | 7.1.0 | WCAG 2.2 scanners for web pages, Office, PDF, ePub and Markdown: contrast, axe,… |
-| 2026-10-28 17:10:08 | living.heidi/stays | heidi.living furnished stays | 1.0.0 | Furnished monthly stays in Los Angeles: regions, booking links and answers. Rea… |
-| 2026-10-28 17:11:54 | estate.new/publish | new.estate — listing drafts | 1.1.0 | Create drafts of personal real estate listings on your new.estate account from… |
+| 2026-10-28 17:21:43 | [io.github.ghorbelhamdi/buddy-phone-bridge](https://github.com/ghorbelhamdi/buddy-android) | Buddy phone tools | 1.1.0 | Android phone tools for AI agents (read the screen, tap, type, open apps), serv… |
+| 2026-10-28 17:23:26 | [io.github.amine7536/medicaments-france](https://github.com/amine7536/mcp-medicaments-france) | Médicaments en France | 1.1.0 | Medicine shortages in France (ANSM + BDPM): status, expected return, recent cha… |
+| 2026-10-28 17:26:40 | com.wht-ai/wai | Wai | 1.0.0 | Engineering intelligence: site layouts, building and data center energy, calcul… |
+| 2026-10-28 17:26:57 | com.textforagents/hosted-approval-queue-for-agents | Hosted approval queue for agents | 1.0.0 | Hosted approval queue for agents: tiered human approvals, park-don't-block queu… |
+| 2026-10-28 17:28:43 | ai.the-meridian/meridian | Meridian | 1.9.0 | Plans, deploys, logs, webhooks and API alerts for Shopify apps built on Meridia… |
+| 2026-10-28 17:35:02 | io.github.CleanData-Labs/seo-keyword-research-for-agents | Keyword Research for AI Agents | 1.0.0 | Keyword ideas from Google Autocomplete plus Google Trends interest and rising q… |
+| 2026-10-28 17:35:14 | io.github.PickleCheck/picklecheck | PickleCheck | 1.0.0 | Scam, x402 endpoint and payment checks for AI trading agents on Base. Free call… |
+| 2026-10-28 17:36:02 | football.timezone/where-to-watch | timezone.football | 1.0.0 | Where to watch football: licensed channel by country, kickoff in your time zone… |
+| 2026-10-28 17:36:45 | [io.github.dorian-K/alpha-progression-mcp](https://github.com/dorian-k/alpha-progression-mcp) |  | 0.1.1 | Analyse your Alpha Progression gym training and adjust your plan. |
+| 2026-10-28 17:37:45 | io.github.kinnister/agentic-os |  | 0.3.3 | Read-only, never-executing MCP server for the agentic-os governance, SDLC, and… |
+| 2026-10-28 17:38:07 | xyz.x402helper/mcp | X402 Helper MCP | 1.0.0 | API discovery and x402 paid execution via MCP. Search by natural-language, call… |
+| 2026-10-28 17:40:09 | pl.supplemental/foodlaw | supplemental.pl — EU/PL food law | 1.0.0 | EU/PL food law for supplement firms: health claims, novel food, GIS, C.L.A.I.M.… |
+| 2026-10-28 17:41:59 | com.plotspeaks/plot-speaks | Plot Speaks | 0.6.0 | Voice mysteries, history battles and trivia with your assistant as host. Sign i… |
+| 2026-10-28 17:45:35 | com.beforethelot/before-the-lot | Before the Lot | 1.0.0 | Car-buying math and state rules: out-the-door prices, quote checks, leases and… |
+| 2026-10-28 17:46:02 | app.azri/azri | Azri Flashcards | 0.1.0 | Save flashcards to Azri, the FSRS spaced repetition app for iPhone and iPad, an… |
+| 2026-10-28 17:49:05 | ch.fjnch/finch | Finch | 0.3.0 | Read-only access to your Finch finances: accounts, transactions, spending, net… |
+| 2026-10-28 17:49:26 | io.github.bennekrouf/mayorana | Mayorana | 1.0.0 | Search mayorana.ch: desktop apps, release notes, plans, and the Rust, LLM and A… |
+| 2026-10-28 17:52:34 | br.com.ouzap/whatsapp | Ouzap — WhatsApp for agents | 1.0.0 | Read, reply to and schedule WhatsApp messages from your Ouzap number. Made in B… |
+| 2026-10-28 17:53:11 | [io.github.99blakeD99/the-metis-fca-handbook-ai-harness-mcp](https://github.com/99blakeD99/the-metis-fca-handbook-ai-harness-mcp-files) |  | 0.1.13 | MCP server for FCA Handbook compliance analysis with verbatim citations. |
+| 2026-10-28 17:54:19 | com.webmoney/mcp | WebMoney MCP | 0.1.0 | Authenticated MCP access to WebMoney wallets, transactions, messages and invoic… |
+| 2026-10-28 17:54:36 | com.vibe-vaults/vibevaults | VibeVaults | 1.0.0 | Read clients' pinned website feedback and, if allowed, reply and set status fro… |
+| 2026-10-28 17:58:54 | com.robbclan/platform | Robbclan | production | Plan projects, develop learning, and inspect agent activity with account-scoped… |
+| 2026-10-28 17:59:31 | [nl.theseo/theseo-mcp](https://github.com/GianlucaNaarden/theseo-mcp) | TheSEO | 0.5.0 | AI-zichtbaarheid per model, gat-analyse, crawlercheck, NL vakregels met bron en… |
+| 2026-10-28 18:00:43 | [com.namestation/namestation](https://github.com/namestation/plugins) | NameStation | 1.2.0 | Brand names with available domains, trademark screening, and shareable shortlis… |
+| 2026-10-28 18:01:32 | io.github.CssEoCAO/baixador-do-afiliado | Baixador do Afiliado | 1.0.0 | Download watermark-free videos and photos from Shopee Video, TikTok, Instagram… |
+| 2026-10-28 18:03:30 | com.cev-os/data | CEV-OS Data API | 1.0.0 | Free US macro release calendar with actuals plus market mood (crypto F&G, VIX).… |
+| 2026-10-28 18:07:41 | [io.github.something-agent/coldread](https://github.com/something-agent/coldread) | ColdRead | 0.1.0 | Free signed trust report on an x402 endpoint: lint, signed offers, ERC-8004, pa… |
+| 2026-10-28 18:10:01 | io.github.serenido/tiktok-shop-product-details | TikTok Shop Product Details: Price, Sol… | 1.0.0 | TikTok Shop products by link or id, no login: price, sold count, rating, varian… |
+| 2026-10-28 18:11:41 | com.muddworldorg/sanctuary | MUDD World Sanctuary | 2.1.0 | A public home for AI agents and humans: readable chat, play, and human-controll… |
+| 2026-10-28 18:11:47 | [io.github.tosin2013/mcp-adr-analysis-server](https://github.com/tosin2013/mcp-adr-analysis-server) |  | 2.14.15 | ADR drift detection, content safety, and decision memory for architectural deci… |
+| 2026-10-28 18:13:24 | ai.assistable/assistable | Assistable | 1.0.0 | Give any AI agent a phone: make and answer calls, get through phone menus, and… |
+| 2026-10-28 18:14:13 | [io.github.Leanvitale/pruneo](https://github.com/Leanvitale/pruneo-mcp) | Pruneo | 1.0.0 | Mac disk cleanup for AI agents: see what fills the disk, clean only what's safe… |
+| 2026-10-28 18:14:30 | pro.dedge/solana-wallet-research | dEdge Solana Wallet Research | 1.0.0 | Read-only Solana wallet research: realized-only PnL, win rate, leaderboard. Not… |
+| 2026-10-28 18:15:07 | app.hiregps/hiregps | HireGPS | 1.0.0 | Recruiter-style resume checker: scores, shortlist decisions, risks, CV rewrites… |
+| 2026-10-28 18:16:21 | [io.github.Vectreal/vectreal](https://github.com/Vectreal/vectreal-platform) | Vectreal | 3.1.0 | Upload, publish and embed 3D models on any website from your agent. |
+| 2026-10-28 18:17:45 | uk.co.remedybridge/housing-repair-tools | RemedyBridge free tools for tenants | 1.0.0 | Free tools for UK tenants: Awaab's Law and complaint deadlines, repair letters,… |
+| 2026-10-28 18:18:02 | com.lmax/omnia-exchange | Omnia Exchange | 2.0.5 | Omnia Exchange is the institutional liquidity and execution infrastructure laye… |
 
 ## Data source
 
