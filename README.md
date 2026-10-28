@@ -9,36 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 09:20 UTC
+## Latest list — 2026-10-28 10:19 UTC
 
-New MCP servers published between 2026-10-28 08:20 UTC and 2026-10-28 09:20 UTC.
+New MCP servers published between 2026-10-28 09:20 UTC and 2026-10-28 10:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-28T09-20-34-348197Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-28T10-19-01-219728Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-28 08:23:29 | com.conciergr/conciergr | Conciergr | 1.0.0 | Set up and run your Conciergr WhatsApp assistant: settings, documents, team and… |
-| 2026-10-28 08:23:41 | com.conciergr/timetable | Conciergr Timetable | 1.0.0 | Set up and keep a class business's timetable: branches, classes, seats, closed… |
-| 2026-10-28 08:25:40 | com.stillroach/token-check | Still Roach token check | 0.2.0 | Send the roach in first: Solana token holder checks for agents. Pay per call, n… |
-| 2026-10-28 08:38:25 | org.toolwork/toolwork | Toolwork | 0.2.0 | Agent-first search of MCP servers, APIs, CLIs and skills, with best picks and t… |
-| 2026-10-28 08:43:18 | com.aipozi/aipozi | aipozi | 1.0.0 | Daily AI visibility: who ChatGPT, Claude, Gemini and Perplexity name instead of… |
-| 2026-10-28 08:50:07 | app.smacros/macro-tracker | Smacros: smarter macro tracking | 2026.10.28 | All the ease of Claude. All the rigor of a real macro tracker. |
-| 2026-10-28 08:53:30 | com.vendorsqueezer/workspace | Vendor Squeezer | 1.0.0 | Vendor and contract records: renewals by notice deadline, spend, contracts and… |
-| 2026-10-28 08:56:59 | [io.usefulapi/fakturowo](https://github.com/m190/usefulapi-mcp) | Fakturowo MCP by usefulapi | 1.0.0 | Read invoices, clients and products in Fakturowo; create documents and update p… |
-| 2026-10-28 08:56:59 | [io.usefulapi/propertyware](https://github.com/m190/usefulapi-mcp) | Propertyware MCP by usefulapi | 1.0.0 | Read Propertyware properties, leases and work orders; add maintenance tasks and… |
-| 2026-10-28 08:59:09 | io.github.sumitrmardy/shopify-store-products | Shopify Store Products Scraper | 1.0.0 | Public Shopify catalog products, prices, SKUs and variants. Classic storefronts… |
-| 2026-10-28 09:00:18 | io.czechai/firmy | CzechAI – Czech business & property int… | 4.0.5 | Czech business & property intelligence: AML/KYC, company registers, cadastre, v… |
-| 2026-10-28 09:01:04 | org.padelapi/padel-analyst | Padel Analyst | 1.0.0 | Query professional padel tournament data, player stats, and live match results |
-| 2026-10-28 09:01:15 | [io.usefulapi/wubook](https://github.com/m190/usefulapi-mcp) | WuBook MCP by usefulapi | 1.0.0 | Read WuBook ZaK rooms, availability and reservations; manage inventory and gues… |
-| 2026-10-28 09:01:15 | [io.usefulapi/saldeo](https://github.com/m190/usefulapi-mcp) | Saldeo MCP by usefulapi | 1.0.0 | Read SaldeoSMART companies, contractors, documents, invoices, bank statements a… |
-| 2026-10-28 09:04:34 | [io.github.cwasley/earnrate](https://github.com/cwasley/earnrate) | earnrate | 0.1.0 | Picks the credit card in your wallet that earns the most at a merchant, and say… |
-| 2026-10-28 09:06:19 | sh.trygateway/gateway | Gateway SSH | 1.4.2 | Manage servers through SSH. |
-| 2026-10-28 09:06:37 | [io.usefulapi/plutio](https://github.com/m190/usefulapi-mcp) | Plutio MCP by usefulapi | 1.0.0 | Manage Plutio clients, projects, tasks, time entries and invoices. |
-| 2026-10-28 09:08:05 | ai.travelpanda/travelpanda | TravelPanda | 0.2.11 | Plan and manage trips in China, read saved itineraries, and make Chinese direct… |
-| 2026-10-28 09:08:27 | net.vegoritida/booking | Vegoritida Apartments — Lake Vegoritida… | 1.0.0 | Check availability and book lake-view apartments near Edessa, Greece. No credit… |
-| 2026-10-28 09:10:45 | ch.was-ist-mcp/demo | Was ist MCP? Demo-Server | 0.1.0 | Plain-language MCP explainer in German: search and read was-ist-mcp.ch. Most to… |
-| 2026-10-28 09:13:29 | ai.mdil/remap | REMAP | REMAP-MCP-1 | Up to 90% fewer tokens: deterministic, declared tool calls, each with a receipt… |
-| 2026-10-28 09:19:25 | [io.github.Mintreetech/ssl-toolkit-mcp](https://github.com/Mintreetech/ssl-toolkit-mcp) | IDigiTrust SSL Toolkit | 1.5.0 | Free SSL/PKI tools: HTTPS audit incl. GM SM2/TLCP, DCV pre-check, CSR, cert dec… |
+| 2026-10-28 09:26:14 | com.autopilotamerica/chicago-parking | Autopilot America: Chicago parking | 1.3.0 | Free Chicago street cleaning alerts, permit zones, and ticket dismissal rates f… |
+| 2026-10-28 09:26:28 | com.myfoodnotes/recipes | MyFoodNotes | 1.0.0 | Personal recipe manager: import from links and photos, meal plans, shared shopp… |
+| 2026-10-28 09:27:06 | com.pachca/mcp | Pachca | 1.4.0 | A tool for each Pachca API method: messages, chats, threads, tasks, users and m… |
+| 2026-10-28 09:28:50 | io.github.NadaHo/backlink-checker | Backlink Checker: Referring Domains & A… | 1.0.0 | Bulk backlinks of any domain or URL: anchors, dofollow, spam score, referring d… |
+| 2026-10-28 09:28:50 | io.github.NadaHo/domain-authority-checker | Domain Authority & Spam Score Checker | 1.0.0 | Bulk domain rank (0-100), SEO spam score, backlinks and referring domains for u… |
+| 2026-10-28 09:28:50 | io.github.NadaHo/domain-seo-overview | Domain SEO Overview (Semrush alternativ… | 1.0.0 | Organic traffic, keyword counts and up to 1,000 competitor keywords of any doma… |
+| 2026-10-28 09:28:50 | io.github.NadaHo/google-maps-no-website-leads | Google Maps Businesses Without Website… | 1.0.0 | Local businesses on Google Maps with no website: name, phone, address, rating.… |
+| 2026-10-28 09:28:50 | io.github.NadaHo/keyword-planner-alternative | Google Keyword Planner Alternative (no… | 1.0.0 | Google Ads Keyword Planner data without an Ads account: search volume, CPC, bid… |
+| 2026-10-28 09:28:51 | io.github.NadaHo/keyword-search-volume | Keyword Search Volume & CPC (Ahrefs alt… | 1.0.0 | Bulk Google keyword search volume, CPC, difficulty, intent and monthly history;… |
+| 2026-10-28 09:28:51 | io.github.NadaHo/plainrows-seo | PlainRows SEO tools: volume, backlinks,… | 1.0.0 | 5 SEO tools: keyword volume, Keyword Planner data, backlinks, domain authority,… |
+| 2026-10-28 09:29:08 | com.requstory/mcp | Requstory | 1.0.0 | Map how a company works, who owns each process, and which steps AI agents can r… |
+| 2026-10-28 09:36:06 | eu.gdprwise/gdprwise | GDPRWise | 1.0.0 | GDPR compliance for SMEs: query and update your processing register, vendors an… |
+| 2026-10-28 09:37:36 | ai.docuwriter/docuwriter |  | 1.2.1 | Generate, search, and manage codebase documentation on DocuWriter.ai. 73 tools… |
+| 2026-10-28 09:38:14 | app.landingboost/landingboost | LandingBoost | 2.0.0 | Check a landing page on a real phone and desktop, get the fixes, re-check after… |
+| 2026-10-28 09:43:47 | top.petalpal/plant-care | PetalPal Plant Care | 1.0.0 | Plant and flower care for 202 species in ten languages, with source links and e… |
+| 2026-10-28 09:54:13 | io.github.sumitrmardy/google-news-scraper | Google News Scraper | 1.0.0 | Google News RSS headlines by query, topic and country, with resolved publisher… |
+| 2026-10-28 09:57:27 | tokyo.chain.agent/address-contracts | Agent.chain.tokyo Address Contracts | 1.0.0 | Rent a real Japan mailing address for an AI agent via MCP + Solana USDC x402. |
+| 2026-10-28 09:58:47 | [io.aivisibilitycheck/mcp](https://github.com/thecyberspark/aivisibilitycheck-mcp) | AI Visibility Check | 1.0.0 | Audit how AI assistants and search engines find, understand and recommend a web… |
+| 2026-10-28 10:01:22 | [io.github.itAlex240/rack-architect-mcp](https://github.com/itAlex240/rack-architect-mcp) | RackArchitect MCP | 0.1.3 | 3D/2D Rack-as-Code homelab planner, 5-stage validator, CAD SVG/BOM & watertight… |
+| 2026-10-28 10:02:14 | dev.omg/apps | omg apps | 1.0.0 | Build and host apps and games from chat: a live link with a database, sign-in a… |
+| 2026-10-28 10:02:25 | io.kotzilla/mcp | Kotzilla | 1.0.0 | Production runtime data for Android and KMP apps (startup, ANRs, slow screens)… |
+| 2026-10-28 10:02:26 | [io.github.TourAround/lystbot](https://github.com/TourAround/LystBot) |  | 0.4.1 | Smart lists and reminders your AI can use. Manage lists, categories, and remind… |
+| 2026-10-28 10:02:41 | jp.domain-bannin/domain-bannin | ドメイン番人 | 0.2.0 | ドメインの設定を調べる MCP サーバー。SPF / DKIM / DMARC・DNS・SSL 証明書・セキュリティヘッダ・サブドメイン・類似ドメインを、公開… |
+| 2026-10-28 10:07:15 | [io.github.tagpilot/search-console-mcp](https://github.com/tagpilot/ga4-mcp) | Tag Pilot Search Console | 0.1.0 | Free, read-only Google Search Console: performance, opportunities, URL inspecti… |
+| 2026-10-28 10:07:43 | [io.github.derdennis1012/proxmox-ops-mcp](https://github.com/derdennis1012/proxmox-ops-mcp) | Proxmox Ops | 0.1.0 | Proxmox VE diagnostics, backup audits, maintenance planning and guarded VM oper… |
+| 2026-10-28 10:09:41 | [com.getwold/3q-tools](https://github.com/weili02201/3q-pdf-tool) | 3Q Tools | 1.0.0 | Buy-once Windows PDF and Excel tools, no subscription: 36 PDF commands, 8 templ… |
+| 2026-10-28 10:11:53 | [com.getwold/3q-pdf](https://github.com/weili02201/3q-pdf-tool) | 3Q PDF & SheetKit | 1.0.0 | One-time purchase, no subscription: Windows PDF app with 36 offline commands an… |
+| 2026-10-28 10:18:20 | com.agentxhq/agentx | AgentX | 1.0.0 | Cloud console for a fleet of AI coding agents running on your own machines. OAu… |
 
 ## Data source
 
