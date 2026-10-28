@@ -1,0 +1,30 @@
+created_at,server,title,version,repository,transports,description
+2026-10-28T10:20:47.394291Z,io.github.couchbase/mcp-server-couchbase,,1.1.0rc1,https://github.com/couchbase/mcp-server-couchbase,,Couchbase MCP servers: Operational and Operational Insights clusters.
+2026-10-28T10:26:25.205732Z,com.commanderash.ax0/commons,A0X Agent Commons,0.8.0,,streamable-http,Discover public agent conversations and governance. Signed participation uses caller-held keys.
+2026-10-28T10:26:38.187453Z,co.terastudio/tera-studio,Tera Studio,1.0.0,,streamable-http,"Find a song's key and tempo, shift it to suit your voice, then hear songs sung in your own voice."
+2026-10-28T10:26:48.824069Z,io.github.cocaina999/viralclipper,ViralClipper,1.0.0,,streamable-http,"Create short-form videos and photo carousels for TikTok, Instagram Reels, and YouTube Shorts."
+2026-10-28T10:31:37.965486Z,io.github.diegoperezg7/evalsmith-mcp,,0.1.0,https://github.com/diegoperezg7/evalsmith-mcp,,"Evaluate RAG retrieval, agent tool calls and prompt regressions with deterministic metrics."
+2026-10-28T10:33:13.952898Z,io.github.Santurce-Software-LLC/flasktrack,FlaskTrack,1.0.0,,streamable-http,Read and scaffold organization-scoped FlaskTrack laboratory data using MCP.
+2026-10-28T10:33:32.467856Z,ai.akaphone/akaphone,AkaPhone,1.1.2,,streamable-http,"Cloud Android phones for AI agents: tap, type, screenshot, install APKs, run plain-English tasks."
+2026-10-28T10:34:39.062327Z,io.github.sainisagar310/vdesign,vDesign,0.1.0,,streamable-http,"Editable designs from any assistant: posters, slides, brands and video, on a canvas you can edit."
+2026-10-28T10:35:29.513625Z,io.github.xlsft/ymcp,YouTrack (ymcp),0.15.1,https://github.com/xlsft/ymcp,,"YouTrack with your login and password: the built-in tools plus deletes, sprints, history and reports"
+2026-10-28T10:36:01.668427Z,com.wandlix/wandlix,Wandlix,1.0.0,,streamable-http,"PDF, image, Office and e-invoice (XRechnung, ZUGFeRD) tools. Processed in Germany, deleted in 1h."
+2026-10-28T10:42:49.12712Z,io.github.xplenty/integrateio-mcp-server,Integrate.io MCP Server,1.0.0,https://github.com/xplenty/integrateio-mcp-server,streamable-http,"Build, run and monitor Integrate.io ETL and Reverse ETL pipelines from AI assistants."
+2026-10-28T10:43:00.114306Z,com.canvashand/canvashand,Canvashand,1.13.0,https://github.com/aurascalesoftware/canvashand-mcp,,"Figma MCP server and plugin: AI agents read and edit live Figma files, no Figma API token."
+2026-10-28T10:44:52.292125Z,com.compareaiworkers/compare-ai-workers,Compare AI Workers,1.0.0,,streamable-http,"Compare 30 AI worker vendors across 5 categories: pricing hints, positioning, links. Free, no key."
+2026-10-28T10:44:59.706286Z,com.trychargeguard/chargeguard,ChargeGuard Dispute Assistant,1.0.0,,streamable-http,"Chargeback intelligence: 9 card-network reason codes, winning evidence, gateway deadlines. Free."
+2026-10-28T10:46:10.336493Z,in.gatedaily/gatedaily,GATE Daily,1.0.0,,streamable-http,"Ten original GATE CS practice questions a day, scored the GATE way, with worked solutions."
+2026-10-28T10:51:05.409706Z,graphics.time/timelines,Time.Graphics,1.0.0,,streamable-http,"Interactive timelines on your Time.Graphics account: events, periods, BC dates, sharing, export"
+2026-10-28T10:54:13.121474Z,io.github.mindstone/mcp-server-slack,Slack,0.3.1,https://github.com/mindstone/mcp-servers,,"Slack MCP server: channels, messages, threads, reactions, users, files, and scheduled messages"
+2026-10-28T10:54:30.987591Z,com.dmkaro/dmkaro,DMKaro,1.0.0,,streamable-http,"Instagram & Facebook comment-to-DM automations, analytics and leads for DMKaro accounts."
+2026-10-28T10:56:57.068275Z,guru.cap/capguru-mcp,,0.3.4,,,"AI captcha solver for agents: reCAPTCHA, hCaptcha, Turnstile, FunCaptcha, GeeTest, SmartCaptcha"
+2026-10-28T10:56:59.345009Z,io.github.surendranb/google-analytics-mcp,,2.11.7,https://github.com/surendranb/google-analytics-mcp,,"GA4 MCP server for AI agents: schema discovery, server-side aggregation, analysis-ready defaults."
+2026-10-28T10:57:05.925173Z,io.github.surendranb/find-research-papers-mcp,Find Research Papers,0.4.9,https://github.com/surendranb/find-research-papers-mcp,,"Search open-source research papers across arXiv, OpenAlex, Crossref, PubMed, Semantic Scholar."
+2026-10-28T10:58:51.063223Z,com.blazingvideo/blazing-video,Blazing Video,0.2.0,https://github.com/acstener/takes-plugin,,"Record your Mac screen, face and voice, edit the video by its transcript, and share a link."
+2026-10-28T11:00:51.359888Z,ai.vocallab/vocallab,VocalLab,0.1.0,,streamable-http,"Text to speech in 200+ languages, voice cloning, voice design and SRT captions."
+2026-10-28T11:01:28.499324Z,com.crm-connector/crm-connector,CRM Connector,1.1.1,,streamable-http,"The integration hub for your CRM, field service and accounting apps: integrations and AI agents."
+2026-10-28T11:01:32.798177Z,com.powerbankportatil/store,PowerBankPortatil Store,1.1.0,,streamable-http,"Shop magnetic MagSafe/Qi2 power banks: live EUR prices, stock, phone compatibility, shipping."
+2026-10-28T11:01:41.353771Z,ai.justpublish/just-publish,Just Publish,0.1.13,https://github.com/just-done/just-publish-mcp,streamable-http,Publish and update the website you built with AI at a live public URL. Sign-in required.
+2026-10-28T11:05:23.556134Z,io.github.Abstract36/stakechain,,0.1.1,https://github.com/Abstract36/StakeChain,,"Live Base staking/lending yields (APY, TVL, vaults) as MCP tools; x402 pay-per-request tier"
+2026-10-28T11:11:03.941502Z,live.agentshield/facts,agentshield.live facts,1.0.0,,streamable-http,Lists paid fact routes and prices. Does not pay or call them.
+2026-10-28T11:13:51.642498Z,sh.api/apish,API.SH,1.0.0,,streamable-http,"Live JSON from 84 sites: Google, Amazon, TikTok, Instagram, LinkedIn, Maps, Reddit and more"
