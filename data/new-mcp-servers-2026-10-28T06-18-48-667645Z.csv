@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-10-28T05:24:22.14567Z,com.privaku/talk,Privaku Talk,0.3.0,,streamable-http,Message your owner in Privaku Talk and ask for Face ID approval before risky actions.
+2026-10-28T05:27:29.275849Z,io.github.Garthnesss/elfdeckai,ElfDeckAI,1.0.7,https://github.com/Garthnesss/ElfDeckAI,,"Virtual keyboard, gamepad and mouse for AI agents on Linux / Steam Deck."
+2026-10-28T05:28:32.618555Z,com.huntayazerturk/assistant,Huntay AzerTürk,1.1.0,https://github.com/Huntay-Azer-Turk/huntay,streamable-http,"Check Huntay AzerTürk's availability, book a 30-minute intro call, and look up his services."
+2026-10-28T05:29:07.800761Z,io.github.jin-1119/plato-mcp,PLATO MCP,0.1.0,https://github.com/jin-1119/plato-mcp,streamable-http,PLATO (Pusan National University LMS) MCP server via Moodle Web Service API + ubboard scraping
+2026-10-28T05:35:00.354418Z,ai.easy-peasy/mcp,Easy-Peasy.AI,1.3.2,https://github.com/Easy-Peasy-AI/easy-peasy-mcp,streamable-http,"Generate text, images, videos, speech and transcripts with your Easy-Peasy.AI account."
+2026-10-28T05:36:01.839576Z,io.github.houyidb-community/houyidb-mcp,,0.1.0,,,"MCP server exposing HouyiDB vector search, collection status, and opt-in writes."
+2026-10-28T05:40:50.211566Z,ai.sinogate/mcp,SinoGate MCP Server,0.1.0,,,Use Chinese LLMs through the SinoGate OpenAI-compatible API.
+2026-10-28T05:44:06.289812Z,com.thehockeyanalytics/mcp,The Hockey Analytics,2.0.0,,streamable-http,"Read-only hockey analytics: compare teams and players, trends, fact checks. SHL, Allsvenskan, NHL."
+2026-10-28T05:45:05.558138Z,io.github.sjh9714/journal,,0.1.0,https://github.com/sjh9714/journal,,"Personal journal kept as Markdown files: search, On This Day, append to today, Day One import."
+2026-10-28T05:47:55.246968Z,io.github.mybolide/coding-tools-mcp,,0.2.5,https://github.com/mybolide/coding-tools-mcp,,"Desktop MCP workspace for AI agents: file edits, commands, Git status, resumable history sessions."
+2026-10-28T05:49:21.80496Z,io.github.agentrq/agentrq,AgentRQ,0.14.0,https://github.com/agentrq/agentrq,streamable-http,Task manager for AI agents. Orchestrate agents to achieve large goals in unified control plane.
+2026-10-28T05:54:38.461542Z,io.github.dzenlotus/worklife-agent,Worklife — AI job search,0.4.1,https://github.com/dzenlotus/worklife-agent,,"MCP career tools for job search, resume matching, application tracking, and employer research."
+2026-10-28T05:55:38.188742Z,io.kairobot/kairobot,Kairobot,0.3.0,,streamable-http,"Group scheduling: see who answered, confirm times, chase replies, run tournaments and venues."
+2026-10-28T06:01:19.059769Z,ai.denser/denser,Denser,1.0.0,,streamable-http,"Ask, search and review your Denser AI chatbots: knowledge base, chats, analytics and leads."
+2026-10-28T06:02:34.553232Z,io.github.miketwalker/tubepull,TubePull,1.2.3,https://github.com/miketwalker/tubepull-mcp,streamable-http,"AI YouTube downloader: save YouTube, TikTok, Instagram + 10 more as MP4/MP3 from any AI chat."
+2026-10-28T06:05:42.552618Z,io.github.awalhadi/repocanon,RepoCanon,0.7.0,https://github.com/awalhadi/repo-canon,,Verified AGENTS.md and project memory for AI coding agents: context packs and freshness checks
+2026-10-28T06:07:45.841205Z,com.agentsecretstore/mcp,Agent Secret Store,1.1.0,,streamable-http,Scoped secrets and HSM wallet signing for agents; humans approve out of band. OAuth 2.1.
+2026-10-28T06:08:08.563917Z,io.github.spikinglabs/symbola,Symbola,0.1.0,,streamable-http,"Search software packs on symbola.sh, read their decisions, and get steps to build them."
+2026-10-28T06:09:44.544675Z,io.github.Black-Swan-Causal-Labs/regintel-mcp,Docket Lens,0.1.0,https://github.com/Black-Swan-Causal-Labs/regintel-mcp,,"Retrieve FDA docket comments, attachments and draft/final guidance for reviewable analysis."
+2026-10-28T06:14:10.943987Z,com.llmnesia/mcp,LLMnesia,0.2.16,,,"Search your AI chat history from Claude, Cursor, Codex, and other MCP clients."
+2026-10-28T06:14:33.543051Z,com.dockoptimizer/dock-optimizer,Dock Optimizer,1.0.0,,streamable-http,"Supply chain operations: dock scheduling, check-in, doors, inventory, orders and freight."
+2026-10-28T06:15:46.207017Z,io.github.menantonio83-hue/tnt-house-risk-data-api,,1.4.1,https://github.com/menantonio83-hue/tnt-house,streamable-http,"RiskDataApi — Solana token risk scoring for AI agents. Safety score, insider clusters, honeypot."
+2026-10-28T06:16:26.809163Z,au.com.paycalculator/mcp,PayCalculator,0.8.2,,streamable-http,"Australian pay, income tax, super, HECS, family payments and child care subsidy, using ATO rates."
