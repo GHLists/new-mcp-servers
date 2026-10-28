@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-28T20:20:05.142171Z,io.github.Insomniac-VibeLabs/two-key,Two-Key,0.8.0,https://github.com/Insomniac-VibeLabs/two-key,,Authorization proxy for another MCP server: a rule check and AI judges approve each tool call
+2026-10-28T20:23:19.066111Z,com.londontouristmap/london-tourist-map,London Tourist Map,1.0.0,,streamable-http,"London sights, hidden gems, checked opening hours, ticket prices, step-free Tube and a day planner."
+2026-10-28T20:23:28.157292Z,com.versodocs/versodocs,VersoDocs,1.0.0,,streamable-http,"Read approved (Current) specs, SOPs and policies; propose and review changes for human approval."
+2026-10-28T20:28:00.728565Z,io.flowcontent/mcp-server,,0.4.0,,streamable-http,"Connect Claude, Cursor, or any MCP client to your FlowContent account"
+2026-10-28T20:29:51.010383Z,io.github.theopenco/llmgateway,LLM Gateway,1.0.0,https://github.com/theopenco/llmgateway,streamable-http,"Chat with any LLM, generate images, browse models and check your usage and costs."
+2026-10-28T20:29:54.955847Z,ai.get-alfred/alfred,alfred_,1.1.0,,streamable-http,"Up to 6 Gmail, Outlook, iCloud and IMAP inboxes in one connection. Nothing sends without your yes."
+2026-10-28T20:30:04.027595Z,com.eatmundo/dishes,eatmundo,0.1.1,,streamable-http,"Cross-cuisine dish equivalence with shared-ingredient evidence: nearly 2,000 dishes, 26 cuisines."
+2026-10-28T20:33:44.425415Z,es.capsulam/capsulam,capsulam,1.0.0,,streamable-http,"Human-reviewed digests on AI, regulation and cybersecurity, every fact linked to its source."
+2026-10-28T20:35:23.624984Z,io.github.shaag7967/mcp-server-siglent-sdm3045x,Siglent SDM3045X multimeter,0.1.0,https://github.com/shaag7967/mcp-server-siglent-sdm3045x,,Measurements with a Siglent SDM3045X bench multimeter via USB or LAN (unofficial)
+2026-10-28T20:36:26.456173Z,eu.janbrennenstuhl/site,janbrennenstuhl.eu,1.0.0,https://github.com/jbspeakr/janbrennenstuhl.eu,streamable-http,"Search, read and cite Jan Brennenstuhl's essays on AppSec, identity and agent identity."
+2026-10-28T20:39:30.634916Z,io.github.gggggggg424242/402mob,402Mob — Agent Commerce on Base,0.1.0,,streamable-http,"Agent commerce on Base: discover merchants, buy artifacts, verify invoices, recover operations."
+2026-10-28T20:46:00.201764Z,homes.a-du/a-du,"A-du: ADU rentals, plans and rules",0.10.2,https://github.com/cfkoss/a-du,streamable-http,"Permit-verified ADU rentals, pre-approved plans and cited ADU rules for LA, San Diego, SF and NYC."
+2026-10-28T20:46:23.525208Z,org.daxfoundation.signal/delta-signal,Delta Signal,0.1.0,,streamable-http,Audio steganography & watermarking. Encode/decode hidden messages that survive YouTube re-encoding.
+2026-10-28T20:46:41.189058Z,io.github.eduardorom/bidxon,Bidxon — ad-free AI shopping agent,1.0.0,,streamable-http,"Real US store prices with shipping, daily price history and real-deal checks. Never paid rankings."
+2026-10-28T20:47:57.353558Z,com.truoptim/industrial-ai-gateway,TruOptim Industrial AI Gateway,2.3.3,,streamable-http,"Plant history for your AI: Ignition SQL historian and OPC UA, KPIs and checks on your own edge."
+2026-10-28T20:49:24.637271Z,co.scorekeeper/scorekeeper,Scorekeeper,1.0.0,,streamable-http,"Create, update and share live two-team scoreboards for games and friendly competitions."
+2026-10-28T20:50:03.989365Z,com.citybotmagic/local-business-data,CityBotMagic,1.0.0,,streamable-http,"US local businesses, services and source-cited prices, city by city. Free, no API key."
+2026-10-28T20:55:19.617623Z,io.github.warpsearchio/warpsearch,WarpSearch,07c29b2c5d6b306682ac528fc1111fc301ce64f4,,streamable-http,"Serverless hybrid search: full-text, vector and faceted search, in SQL, ES DSL, Solr and more."
+2026-10-28T20:55:51.629536Z,cloud.markbase/markbase,Markbase,1.0.0,,streamable-http,"Shared Markdown memory for your agents: docs, typed collections, files, skills and Dispatch."
+2026-10-28T20:57:32.350717Z,io.github.foster-ops/tcmb-exchange-rates,Türkiye Central Bank (TCMB) Exchange Rates,1.0.0,,streamable-http,"Unofficial access to CBRT/TCMB daily exchange rates: latest, history since 1996, conversion."
+2026-10-28T21:01:41.44345Z,io.github.decantr-ai/mcp-server,,3.11.4,https://github.com/decantr-ai/decantr,,"Stable eight-tool MCP server for changed-UI assurance, authority-aware UI task context, and repair."
+2026-10-28T21:06:05.688477Z,io.github.tklee/vybsrf,VYBSRF,1.0.0,,streamable-http,"Private picture boards your AI agent saves to and recalls, each with a note on why. Free."
+2026-10-28T21:10:39.515237Z,io.github.ratomirjovanovic/pandaward,Pandaward,0.2.1,https://github.com/ratomirjovanovic/pandaward,,"Local, evidence-based application security assessment with an evidence ledger and retests."
+2026-10-28T21:13:18.735116Z,io.github.genzagents/citable,citable,0.4.2,https://github.com/genzagents/citable,,"Can ChatGPT, Claude and Perplexity read and cite your site? robots.txt, edge blocks, llms.txt."
+2026-10-28T21:14:52.199208Z,com.scriptmasterlabs/url-to-markdown,URL to Markdown API — ScriptMasterLabs,1.0.0,,streamable-http,URL to Markdown for AI agents: $0.001 USDC per accepted read via x402 on Base. Failed reads free.
+2026-10-28T21:15:14.035022Z,io.github.genzagents/rentready,rentready,0.8.1,https://github.com/genzagents/rentready,,"Is an English rental ready for the landlord database? Deadline, gas/EICR/EPC, fee, checklist."
+2026-10-28T21:16:34.80038Z,io.github.pablo-albaladejo/kaiord,,10.4.0,https://github.com/pablo-albaladejo/kaiord,,"Convert, validate, and inspect workout files (FIT, TCX, ZWO, Garmin Connect) for AI agents."
