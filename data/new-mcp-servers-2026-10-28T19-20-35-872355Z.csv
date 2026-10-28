@@ -1,0 +1,35 @@
+created_at,server,title,version,repository,transports,description
+2026-10-28T18:22:02.369173Z,io.github.Obscurify-ai/obscurify-mcp,Obscurify.ai,0.1.0,https://github.com/Obscurify-ai/obscurify-mcp,,"Ask 200+ AI models privately from your agent: one-shot, chat, second opinions, prices, images."
+2026-10-28T18:26:24.234908Z,io.github.AUsernameForYou/agenthand,agenthand,0.1.1,https://github.com/AUsernameForYou/agenthand,,"Turn messy product photos into listing-ready images, with a fidelity receipt on every staged shot."
+2026-10-28T18:28:06.518711Z,investments.stein/mcp,Stein Investments,1.0.0,,streamable-http,"REVDEN's classified market state, empirical economic calendar, research register, AlgoCheck reviews."
+2026-10-28T18:28:17.755576Z,io.github.ridafkih/keeper-sh,Keeper.sh,1.0.0,https://github.com/ridafkih/keeper.sh,streamable-http,"Keeper.sh calendar sync: read and book events, RSVP and find free time across synced calendars."
+2026-10-28T18:29:46.481245Z,io.github.shaag7967/mcp-server-senseca-pro,Senseca PRO thermometer,0.1.0,https://github.com/shaag7967/mcp-server-senseca-pro,,Live readings from Senseca PRO 111/115 Pt100 thermometers via USB (unofficial)
+2026-10-28T18:33:23.491238Z,io.github.TheFirstPrototype/confcap,ConferenceCaptioning,0.1.0,https://github.com/TheFirstPrototype/ConfCapMcp,streamable-http,"Read live captions, saved transcripts and audience questions from your ConferenceCaptioning events."
+2026-10-28T18:37:41.565154Z,com.agenticwebscore/scan,AgenticWebScore,0.3.0,https://github.com/marifeting/agenticwebscore-mcp,streamable-http,"Scan a public website for AI agent readiness: 60 checks, a score, and the evidence for each."
+2026-10-28T18:38:10.192649Z,io.github.kaeris-io/kaeris-mcp,KAERIS i18n,0.2.16,https://github.com/kaeris-io/kaeris-mcp,,"Translate app language files into 46 languages and check placeholders, plurals and missing keys."
+2026-10-28T18:39:26.929177Z,com.kovante/senior-care,Kovante: Senior care,1.0.0,,streamable-http,"Find US nursing homes and assisted living in most states, from public records."
+2026-10-28T18:39:48.274568Z,ai.anyforge/anyforge,AnyForge,3.14.2,,streamable-http,"Approve plans, track initiatives and work items, and steer AI engineering crews in AnyForge."
+2026-10-28T18:40:17.978272Z,io.github.0xHedgeHood/hedgehood-options,Hedgehood Options,0.2.0,https://github.com/0xHedgeHood/hedgehood-agent-kit,streamable-http,"Stock options market for AI agents on Robinhood Chain: RFQ quotes, buy/close, P&L, x402 deposits."
+2026-10-28T18:42:36.835294Z,io.github.peterloomans/equivista,Equivista,1.0.0,,streamable-http,"Read-only Belgian company search, KBO data, financials, employees and company relationships."
+2026-10-28T18:43:15.443204Z,org.communitydays/mcp,Community Days,1.0.0,,streamable-http,"Community-run Microsoft ecosystem events, calls for speakers and speakers, from CommunityDays.org."
+2026-10-28T18:44:53.349465Z,com.standpointhq/levelset,Levelset by StandPoint,1.2.0,,streamable-http,"Stock levels, picks with publish time and price, and a screener from StandPoint's desk. Read only."
+2026-10-28T18:47:53.666725Z,co.squish/squish,Squish,1.0.0,,streamable-http,"Manage your Squish domains, DNS, hosting, backups and site files from your AI assistant."
+2026-10-28T18:53:39.315112Z,io.anycrm/anycrm,anyCRM,1.0.0,https://github.com/kvlkstudio/anycrm-ai-plugins,streamable-http,"A CRM for small business: clients, appointments, orders, stock, finances, taxes and integrations."
+2026-10-28T18:53:46.376045Z,io.promptanything/prompt-anything,Prompt Anything,1.0.0,,streamable-http,Turn a rough request into a specialized prompt using your saved profile and business context.
+2026-10-28T18:55:25.662499Z,net.ffxf/cloud,FFxF,1.12.0,,streamable-http,"Create and manage VMs, managed databases, firewalls and load balancers in Montréal, Canada."
+2026-10-28T18:57:03.530258Z,io.github.hsharmanov02/red-web-utils,,1.0.0,,streamable-http,"17 pay-per-call web, finance, legal and onchain tools for AI agents. USDC on Base via x402/MPP."
+2026-10-28T18:58:46.162209Z,io.github.init-computer/init,,0.1.6,https://github.com/init-computer/init-mcp,,Init is the backend engineer for your coding agent.
+2026-10-28T18:59:40.615806Z,com.akiyalistings/akiya-listings,Akiya Listings,1.0.0,,streamable-http,"Japanese akiya (vacant home) listings, Jestimate valuations and regional prices."
+2026-10-28T19:07:08.701916Z,io.github.sauliusbeconis/axongate,,2.1.0,https://github.com/sauliusbeconis/AxonGate,,"Safe web read, search, cited answers, fact-checks and token checks for agents, paid via x402."
+2026-10-28T19:10:43.626329Z,com.protoductai/fracta,Fracta,1.0.1,,streamable-http,"Plan, update and complete your Fracta tasks and save memos. Fracta Pro required."
+2026-10-28T19:10:44.18839Z,com.protoductai/hearth,Hearth,1.0.0,,streamable-http,"Log meals, weight and workouts in Hearth and review your progress. Subscription required."
+2026-10-28T19:10:44.279062Z,io.github.Nomad07/nftdata-mcp,,1.0.0,https://github.com/Nomad07/nftdata-mcp,,"OpenSea NFT collection data via NFT Data API, paid per request with x402."
+2026-10-28T19:10:44.741561Z,com.protoductai/hachimo,Hachimo,1.0.0,,streamable-http,"Keep your English lessons, review cards and daily plan in Hachimo. Subscription required."
+2026-10-28T19:10:45.309761Z,com.protoductai/ledgie,Ledgie,1.0.0,,streamable-http,Check and record your Ledgie household ledger. Ledgie subscription required.
+2026-10-28T19:10:45.878936Z,com.protoductai/lore,Lore,1.0.0,,streamable-http,Write articles and quizzes into your private Lore knowledge inbox. Subscription required.
+2026-10-28T19:10:46.448785Z,com.protoductai/buddybase,buddybase,1.0.0,,streamable-http,"Keep personal records like expenses, vocabulary and health logs in your own buddybase."
+2026-10-28T19:11:19.759225Z,io.github.cocaina999/eaglecross,Eaglecross,1.0.0,,streamable-http,Find buying signals for B2B leads and write personalized cold-email icebreakers.
+2026-10-28T19:11:58.423297Z,io.github.Daiveedjay/iris-code,Iris Code,0.2.2,https://github.com/Daiveedjay/iris-code-mcp,,"Local code-quality rules, findings, preview-first safe fixes and gate results for coding agents."
+2026-10-28T19:12:06.671742Z,com.grantcue/grantcue,GrantCue,2.0.0,,streamable-http,"Search public US grants and foundation profiles from IRS filings. Read-only, no sign-in."
+2026-10-28T19:12:42.005032Z,com.meuhtml/meuhtml,meu.html,1.0.1,,streamable-http,"Publica páginas HTML e devolve um link para compartilhar, com prazo, senha e o endereço da empresa."
+2026-10-28T19:17:22.275916Z,io.github.VictorCyberDev/tastepolicy,TastePolicy,0.2.0,https://github.com/VictorCyberDev/TastePolicy,streamable-http,"Qloo cultural evidence with ALLOW, ASK and REJECT boundaries for agent preference decisions."
