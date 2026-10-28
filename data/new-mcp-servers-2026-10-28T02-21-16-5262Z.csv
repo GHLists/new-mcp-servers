@@ -1,0 +1,69 @@
+created_at,server,title,version,repository,transports,description
+2026-10-28T01:30:44.57132Z,io.github.MkThingsHQ/openfree,OpenFree,1.0.0,https://github.com/MkThingsHQ/mkfast-openfree,streamable-http,Search curated free and open source AI tools for indie makers on OpenFree.
+2026-10-28T01:33:10.040957Z,io.github.durenzidu/powpow-mcp,,1.0.0,https://github.com/durenzidu/powpow,streamable-http,"PowPow social MCP: create posts, check in, chat with digital humans, and explore places on a map."
+2026-10-28T01:41:31.572257Z,io.github.everest-an/protocol-banks,Protocol Banks,1.0.0,https://github.com/everest-an/protocol-banks---web3,streamable-http,Non-custodial Hyperliquid trading and crypto payments with a server-enforced spend cap.
+2026-10-28T01:44:35.229013Z,com.scriptmasterlabs/bid-cast,SCRIPTMASTERLABS — Bid-cast,1.1.0,,streamable-http,"Agent job board: post Needs, bid, close matches with Arc escrow on delivery. 2 open jobs live."
+2026-10-28T01:52:40.613663Z,ai.qompass/slipway,Slipway,0.1.0,https://github.com/qompassai/slipway,,Android build/sign/verify/install/release MCP server with measured certification gates.
+2026-10-28T01:56:22.077937Z,com.skydropx/shipping,Skydropx,1.0.0,,streamable-http,"Quote, buy, track and cancel shipments with Mexico's carriers through your Skydropx account."
+2026-10-28T01:56:50.842064Z,io.github.mrfentmen/crc-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"CRC-32, CRC-32C, CRC-16 variants and Adler-32 offline, with checksum check values verified, keyless."
+2026-10-28T01:57:05.437618Z,io.github.mrfentmen/nasdaq-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Nasdaq stock data: live quotes, recent trade history and the most active listed stocks - keyless."
+2026-10-28T01:57:15.807361Z,io.github.mrfentmen/tfl-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"TfL live data: line status across tube, DLR and rail, stop search and real-time arrivals - keyless."
+2026-10-28T01:58:55.762591Z,io.github.mrfentmen/astronomy-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Solar and lunar almanac offline: sunrise, sunset, twilight, sun position and moon phase"
+2026-10-28T01:58:56.497168Z,io.github.mrfentmen/base58-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Encode and decode base58 and base58check offline, with version bytes and checksums"
+2026-10-28T01:58:57.42386Z,io.github.mrfentmen/btc-address-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,Validate Bitcoin addresses offline with real base58check and bech32/bech32m checksums
+2026-10-28T01:58:58.237837Z,io.github.mrfentmen/catfact-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Cat facts and breed data from catfact.ninja: a random fact, paging and every breed"
+2026-10-28T01:58:58.957328Z,io.github.mrfentmen/cbioportal-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"cBioPortal cancer genomics: cancer types, gene lookup and public cancer studies"
+2026-10-28T01:58:59.682597Z,io.github.mrfentmen/combinatorics-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Exact combinatorics offline with BigInt: factorials, nCr, nPr, Fibonacci and permutations"
+2026-10-28T01:59:00.493143Z,io.github.mrfentmen/dns-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Live DNS lookups: A, AAAA, MX, TXT, NS, CNAME, SOA, CAA, SRV and PTR reverse lookups"
+2026-10-28T01:59:01.433368Z,io.github.mrfentmen/dogceo-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Dog photos from dog.ceo: a random image, every breed with sub-breeds and breed galleries"
+2026-10-28T01:59:02.184463Z,io.github.mrfentmen/emdb-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,EBI Electron Microscopy Data Bank: search cryo-EM maps and read resolution and method
+2026-10-28T01:59:03.166697Z,io.github.mrfentmen/endian-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Byte order and integer tools offline: swap endianness, read raw bytes and inspect two's complement"
+2026-10-28T01:59:03.90448Z,io.github.mrfentmen/f1-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Formula 1 history from the Jolpica/Ergast archive: seasons, schedules, results and standings"
+2026-10-28T01:59:04.679657Z,io.github.mrfentmen/float-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"See exactly how a number is stored as a float offline: bit layout, f32 rounding and neighbours"
+2026-10-28T01:59:05.657308Z,io.github.mrfentmen/gdc-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"NCI Genomic Data Commons: TCGA and other cancer projects, with full project detail"
+2026-10-28T01:59:06.67951Z,io.github.mrfentmen/ghcn-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,NOAA GHCN station weather: daily and monthly summaries plus extremes for a station id
+2026-10-28T01:59:07.426208Z,io.github.mrfentmen/hashid-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,Identify hash types offline: match a hex or crypt string against known algorithms and lengths
+2026-10-28T01:59:08.183665Z,io.github.mrfentmen/hexdump-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Classic hex dumps and byte stats offline: dump text, hex or base64 and convert between them"
+2026-10-28T01:59:08.978961Z,io.github.mrfentmen/hgnc-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"HGNC gene nomenclature: search genes by symbol, alias or id, and read approved names"
+2026-10-28T01:59:09.712162Z,io.github.mrfentmen/http-check-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Check a URL live: status, timing, redirect chains and security headers; private hosts blocked"
+2026-10-28T01:59:10.432187Z,io.github.mrfentmen/iban-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Validate IBANs offline with the official length table and mod-97 checksum, country by country"
+2026-10-28T01:59:11.149504Z,io.github.mrfentmen/ical-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Read, create and validate iCalendar (.ics) data offline: parse events, build RFC 5545 files"
+2026-10-28T01:59:12.006268Z,io.github.mrfentmen/ini-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Parse, validate, convert and generate INI configuration offline: sections, comments, quotes"
+2026-10-28T01:59:12.7294Z,io.github.mrfentmen/jsonc-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Work with JSONC offline: strip comments and trailing commas, parse to JSON and locate errors"
+2026-10-28T01:59:13.639388Z,io.github.mrfentmen/jsondiff-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Compare two JSON documents and apply RFC 6902 JSON Patch offline, with canonical output"
+2026-10-28T01:59:14.301551Z,io.github.mrfentmen/jsonschema-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Validate JSON against a JSON Schema offline, with a clear list of every structural error"
+2026-10-28T01:59:15.014567Z,io.github.mrfentmen/metabolights-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,EBI MetaboLights: search public metabolomics studies and read study detail and organisms
+2026-10-28T01:59:15.839697Z,io.github.mrfentmen/ncbi-datasets-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"NCBI Datasets: genome assemblies by taxon, gene records by symbol and taxonomy lookups"
+2026-10-28T01:59:16.695604Z,io.github.mrfentmen/npm-registry-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Live npm registry data: package detail with weekly downloads, search and version history"
+2026-10-28T01:59:17.46695Z,io.github.mrfentmen/osrs-ge-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Old School RuneScape Grand Exchange prices: item search, live buy/sell and price history"
+2026-10-28T01:59:18.314213Z,io.github.mrfentmen/password-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Generate strong passwords and passphrases and estimate strength, offline with a crypto RNG"
+2026-10-28T01:59:19.173069Z,io.github.mrfentmen/patch-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Create, check and apply unified diffs offline, with no shell and no repository needed"
+2026-10-28T01:59:19.94663Z,io.github.mrfentmen/pathway-commons-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Pathway Commons graph search: find pathways, proteins and complexes by name"
+2026-10-28T01:59:20.719288Z,io.github.mrfentmen/potterdb-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Harry Potter world data from Potter DB: characters, spells and books with full detail"
+2026-10-28T01:59:21.726951Z,io.github.mrfentmen/primes-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Prime testing, factorisation and searches offline with BigInt: Miller-Rabin and Pollard rho"
+2026-10-28T01:59:22.504373Z,io.github.mrfentmen/qr-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Generate QR codes offline: module matrix, ASCII rendering or ready SVG, versions 1 to 9"
+2026-10-28T01:59:23.330511Z,io.github.mrfentmen/smk-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,SMK open collection: search 200k+ artworks by keyword or artist and read object detail
+2026-10-28T01:59:24.176172Z,io.github.mrfentmen/soilgrids-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"SoilGrids soil properties by depth for any coordinate: clay, sand, carbon, pH and WRB"
+2026-10-28T01:59:25.119843Z,io.github.mrfentmen/spaceweather-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"NOAA space weather: Kp index, aurora probability for a place and active SWPC alerts"
+2026-10-28T01:59:25.951081Z,io.github.mrfentmen/sql-format-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Format, minify and split SQL offline, respecting strings, quotes and comments"
+2026-10-28T01:59:26.877061Z,io.github.mrfentmen/tcgdex-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Pokemon trading card data from TCGdex: search cards, read attacks, sets and prices"
+2026-10-28T01:59:28.185289Z,io.github.mrfentmen/timezone-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"IANA time zone maths offline: the time right now anywhere, wall-clock conversion and DST"
+2026-10-28T01:59:28.906085Z,io.github.mrfentmen/totp-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,Generate and verify TOTP codes offline: RFC 6238 with SHA-1/256/512 and fresh base32 secrets
+2026-10-28T01:59:29.677506Z,io.github.mrfentmen/ucsc-genome-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"UCSC Genome Browser: list genomes, fetch DNA ranges and search genes by name"
+2026-10-28T01:59:30.550489Z,io.github.mrfentmen/unit-convert-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Convert 100+ units offline: length, mass, temperature, volume, area, speed, data and time"
+2026-10-28T01:59:31.325705Z,io.github.mrfentmen/vcard-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,Read and build vCard contacts offline: parse .vcf cards or JSON and generate vCard 4.0
+2026-10-28T01:59:32.020844Z,io.github.mrfentmen/x509-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Decode PEM certificates, check expiry and inspect a live TLS certificate, all offline"
+2026-10-28T01:59:32.770294Z,io.github.mrfentmen/xml-mcp,,1.0.0,https://github.com/mrfentmen/awesome-servers,,"Parse, validate and convert XML offline with a real parser: entities, CDATA, attributes"
+2026-10-28T01:59:58.040175Z,com.skydropx/mcp,Skydropx,1.0.0,,streamable-http,"Quote, buy, track and cancel shipments with Mexico's carriers through your Skydropx account."
+2026-10-28T02:00:02.931127Z,il.co.taster/library,Taster: Hebrew design library,1.0.0,,streamable-http,"Hebrew RTL design library: find components, landing pages and full sites, add them to your project."
+2026-10-28T02:00:39.033524Z,io.github.rldelfino/lente-b2b,,1.0.0,,streamable-http,"Empresas de TI do Brasil por CNPJ ou domínio: porte, cidade, Fit e tecnologias (só dados públicos)."
+2026-10-28T02:02:03.92301Z,dev.rohnelt.api/csv-repair,CSV Repair,1.0.0,,streamable-http,"Free CSV validation and repair, up to 20 data lines, no storage. Annual browser licence available."
+2026-10-28T02:02:27.374611Z,cn.rofilter/rofilter-mcp,ROFilter - Reverse Osmosis Design,1.0.43,,streamable-http,"Design RO membrane systems: feed pressure, permeate TDS, energy use, flux and per-stage results."
+2026-10-28T02:09:32.284397Z,com.luriart/luria,Luria,1.0.0,,streamable-http,"AI split testing for any website: Luria writes page versions, runs tests and keeps winners."
+2026-10-28T02:11:38.600658Z,io.github.smdesai27/math-board,Math board,0.3.0,https://github.com/smdesai27/math-board,,"A local, view-only chalkboard the model draws on: equations, plots, molecules and diagrams."
+2026-10-28T02:11:38.614309Z,io.github.Postlytllp/trials-drug-resolver,Trials & Drug Resolver,1.0.0,https://github.com/Postlytllp/trials-drug-resolver-mcp,,Harmonise drug names and clinical trials using public licence-clean APIs.
+2026-10-28T02:11:39.045671Z,io.github.mrcrtr1979-droid/receipts-index,Receipts Index,0.1.0,https://github.com/mrcrtr1979-droid/namebeam-visibility-index,,"Receipts Index: free row index, free sample row, and x402 prices. Read only, never pays."
+2026-10-28T02:12:01.327282Z,co.bibigpt/youtube-video-summarizer,BibiGPT YouTube Video Summarizer,1.0.0,https://github.com/JimmyLv/bibigpt-skill,streamable-http,"AI video summarizer: summarize and transcribe YouTube, Bilibili, TikTok and podcast videos."
+2026-10-28T02:17:08.180372Z,io.github.sendnf/sendnf,,1.0.0,https://github.com/sendnf/sendnf-mcp,streamable-http,"Emita NFS-e e NFC-e conversando: CNPJ, código de serviço, pré-emissão, emissão e cancelamento."
+2026-10-28T02:18:59.485048Z,io.github.jkawamoto/pixeldrain,Pixeldrain,0.9.1,https://github.com/jkawamoto/go-pixeldrain,,"Upload, download, and share files, images, and text with Pixeldrain"
+2026-10-28T02:19:03.11847Z,net.checkmyvin/checkmyvin,CheckMyVIN,1.0.1,,streamable-http,"Decode US-market VINs and list NHTSA recall campaigns for the make, model and year. Free, no auth."
