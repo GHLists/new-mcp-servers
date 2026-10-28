@@ -1,0 +1,38 @@
+created_at,server,title,version,repository,transports,description
+2026-10-28T15:22:58.990553Z,works.galorweb.watchtower/remote-watchtower,Remote Watchtower,1.0.0,https://github.com/islamismylifebey-web/remote-watchtower,streamable-http,"Reach your own computers from any AI app: files, search, commands, approvals and outage alerts."
+2026-10-28T15:23:26.456206Z,com.nearfine/books,Near Fine,1.0.0,,streamable-http,"Search booksellers worldwide for any book, new or used, and set alerts for copies not listed yet."
+2026-10-28T15:25:24.346527Z,io.github.serenido/1688-product-details,"1688 Product Details: Wholesale Prices, Variants & Suppliers",1.0.0,,streamable-http,"1688.com products by link or id, no login: price tiers, variant stock, specs, supplier, in English."
+2026-10-28T15:25:55.912778Z,om.async/asyncflow,AsyncFlow,4.1.0,https://github.com/iamsj7/asyncflow-mcp,streamable-http,"Search, open, create, update, assign, move and comment on your AsyncFlow tickets."
+2026-10-28T15:26:19.247113Z,dev.workers.mike-tusa.diffmint/diffmint,DiffMint by Harlo,0.1.0,,streamable-http,"Diff two texts by line, word or char: unified diff, HTML redline, patch apply, similarity."
+2026-10-28T15:26:28.464154Z,io.github.textbee/mcp,textbee SMS,0.1.0,https://github.com/textbee/textbee-mcp,,"Send and read SMS through your own Android phone via textbee.dev, the open-source SMS gateway."
+2026-10-28T15:30:27.742244Z,io.github.arslan2012/qpost-mcp,,0.4.0,https://github.com/arslan2012/qpost-mcp,streamable-http,"MCP server for QPost — lets AI agents publish video and image posts to YouTube, TikTok, Instagram."
+2026-10-28T15:31:37.444932Z,ai.unraster/convert,unraster Image to PPTX and SVG,1.0.0,,streamable-http,Convert images and infographics into editable PowerPoint (PPTX) and SVG files.
+2026-10-28T15:32:03.556347Z,io.github.grassyknees/grassyknees-mcp,Grassy Knees,0.1.0,https://github.com/grassyknees/grassyknees-mcp,,"Real, source-checked kids' events and places in 42 US metros, linked to grassyknees.com."
+2026-10-28T15:35:31.877269Z,com.greenercloset/greener-closet,Greener Closet,1.0.0,,streamable-http,"Score clothes by disclosed fiber content: fabric labels, products, brands, alternatives."
+2026-10-28T15:37:38.005532Z,com.sleekdocs/translate,Sleekdocs Translate,1.0.0,,streamable-http,"Find missing translations in your app, propose texts and publish and deploy them to your CDN."
+2026-10-28T15:38:29.245246Z,io.github.erickarazafimbahiny-ux/tsiky,Tsiky,1.0.1,,,"Turn your photo into a cartoon character and make animated explainer videos, step by step"
+2026-10-28T15:42:44.851144Z,com.getatlasdata/scrapers,"Atlas Data: Ad Library, Jobs & Trends Scrapers",1.1.0,https://github.com/AtlasDataDenmark/atlas-data-mcp,streamable-http,"Google, Meta, LinkedIn & TikTok ad libraries, Indeed, Google Jobs, Glassdoor and Google Trends data."
+2026-10-28T15:45:49.50504Z,com.proxyrange/proxyrange,ProxyRange,1.0.0,,streamable-http,"Residential proxy checkout prices, terms and sourcing checks, every fact dated and sourced."
+2026-10-28T15:47:29.108852Z,io.github.radwanalmsora/devlens-mcp,,0.1.4,,,Production TypeScript & JavaScript AST code analysis and risk assessment MCP server.
+2026-10-28T15:47:41.739314Z,io.github.dooolmang/kkuldogu-korea-payroll,Korea Payroll & Tax (kkuldogu),1.0.0,,streamable-http,"South Korea 2026 payroll & tax: net pay, insurance, severance, leave, jobless and parental benefits."
+2026-10-28T15:51:57.07932Z,br.ia.dilligence/certidoes,Dilligence — certidões de empresas,1.0.0,,streamable-http,"Certidões negativas de empresas (CNPJ) num pedido: pede nos órgãos, lê cada PDF e resume."
+2026-10-28T15:53:47.076573Z,io.github.cschmertz/deptime,DepTime,0.1.2,https://github.com/cschmertz/deptime,,"What changed in a Python library, in which release, and what replaces it. Answered locally."
+2026-10-28T15:54:04.643988Z,ai.memcell/memcell,MemCell,1.7.1,https://github.com/memcell-ai/mcp,streamable-http,"Shared, persistent memory for AI agents: recall before acting, report outcomes to earn confidence."
+2026-10-28T15:55:12.562273Z,io.github.intelation-labs/nexis-mcp,Intelation Nexis,0.2.1,https://github.com/intelation-labs/nexis-js,,"Find and remove personal data (PII) from text. Regulation-aware: GDPR, UK GDPR, HIPAA."
+2026-10-28T15:56:45.858067Z,cz.shopzi/shopzi-platform,SHOPZI: založení obchodu,2026.07.28,,streamable-http,"Ceník SHOPZI, volné subdomény, založení nového e-shopu a hledání v dokumentaci. Bez klíče."
+2026-10-28T15:56:51.600846Z,cz.shopzi/shopzi,SHOPZI,2026.07.28,,streamable-http,"Správa e-shopu na SHOPZI: produkty, objednávky, zákazníci, sklad, obsah a nastavení obchodu."
+2026-10-28T15:59:33.705139Z,com.billstride/billstride,Billstride,1.0.0,,streamable-http,"Create, send and track invoices from a conversation, with e-invoices, reminders and DATEV export."
+2026-10-28T16:00:25.83237Z,io.github.Swervie/swervie,Swervie,1.5.2,https://github.com/Swervie/swervie-mcp,streamable-http,Cross-retailer product catalog: one scored answer per product with live prices and buy links.
+2026-10-28T16:03:09.50355Z,com.vidskim/youtube,Vidskim: YouTube transcripts,1.0.0,,streamable-http,"Let AI assistants read YouTube: transcripts with clickable timestamps, chapters, search, channels."
+2026-10-28T16:03:41.791313Z,br.app.anotae.dados/mcp,Receita Federal do Brasil (Anotaê Dados Abertos),0.2.0,https://github.com/renatovcs/mcp-server-receita-federal,streamable-http,"Consulta oficial de empresas ativas da Receita Federal do Brasil, CNAEs, sócios e contatos B2B."
+2026-10-28T16:03:44.80828Z,app.altorbit/mcp,AltOrbit,1.0.0,,streamable-http,"AltOrbit boards, tickets, time tracking, reports and client requests, with your rights in the app."
+2026-10-28T16:03:48.378877Z,com.multiplegroupposter/multigroupposter,MultiGroupPoster,1.0.0,,streamable-http,Write posts with your AI assistant and publish them to your Facebook groups via MultiGroupPoster.
+2026-10-28T16:03:50.104229Z,com.doalu/doalu-mcp,doalu.com where to stay,0.1.0,https://github.com/Doalu/doalu-mcp,,"Where to stay in a city: which areas suit whom, with links to the doalu.com guide pages."
+2026-10-28T16:05:13.110194Z,io.github.Baukaalm/optiq-mcp,,0.1.0-beta.0,https://github.com/Baukaalm/optiq,,"Optimise project images locally with verified quality (SSIM or pixel-exact): JPEG, PNG, WebP, AVIF."
+2026-10-28T16:05:19.604548Z,io.github.mongodb-js/mongodb-mcp-server,,3.2.1,https://github.com/mongodb-js/mongodb-mcp-server,,MongoDB Model Context Protocol Server
+2026-10-28T16:06:44.081228Z,io.github.sandeepkelvadi/marketing-skills-directory,Marketing Skills Directory,1.0.1,https://github.com/sandeepkelvadi/mkt-skills,streamable-http,"Search, browse & read 340+ Claude Code marketing & SEO skills from any MCP client."
+2026-10-28T16:06:44.611028Z,de.skysolar/sky-solar,Sky Solar,1.0.0,,streamable-http,"Solar installer for Munich and Rosenheim: service area, local subsidies, EEG feed-in, solar guide."
+2026-10-28T16:09:25.020762Z,io.github.sinhgiang/repotrending,RepoTrending,0.1.0,,streamable-http,"Read-only GitHub trending data: top repos by stars gained today, this week or this month."
+2026-10-28T16:12:56.853692Z,monster.m2m/arena,m2m.monster Arena,0.1.0,https://github.com/m2mmonster/m2m-arena,streamable-http,"Signed, chained trading-strategy signals for Pacifica perps: records, rankings, creator tools."
+2026-10-28T16:17:21.454558Z,io.github.ygfalcon/deal-radar,falcon.sol deal radar,1.0.0,,streamable-http,"SEC Form D private raises and 8-K events as pay-per-call x402 leads, with signed receipts."
+2026-10-28T16:20:23.143092Z,io.github.lilcityholdings-bit/keptvow,Keptvow,1.1.0,,streamable-http,"Check a seller's wallet before your agent pays it: ok, careful or stop. Free, no key."
