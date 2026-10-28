@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-10-28T02:29:45.074657Z,dev.scoopkit/mcp,Scoopkit,1.0.1,https://github.com/nateslabach/scoopkit-mcp,streamable-http,"AI-industry news for agents: each story once, as a sourced event in a 10/57 taxonomy. No key needed."
+2026-10-28T02:30:04.90319Z,jp.yomitasu/smart-shouene-ai-com,Smart省エネ AI【公式】,1.0.1,,streamable-http,高額なBIMソフトは不要！（smart-shouene-ai.com の内容を検索して答える。ヨミタス経由）
+2026-10-28T02:33:33.078804Z,si.cockpilot/cockpilot,Cockpilot,1.6.0,,streamable-http,"Run an agency's tasks, projects, clients and KPIs from Claude or any MCP client. OAuth, per team."
+2026-10-28T02:35:29.463332Z,io.github.dawnwood-ai/dramapack,dramapack,0.1.0,https://github.com/dawnwood-ai/dramapack,,"Short-drama delivery packs, -14 LUFS mastering, subtitle safe areas, clean masters, rights checks."
+2026-10-28T02:38:25.853602Z,com.simplenpi/npi,SimpleNPI,1.0.0,,streamable-http,Free NPI lookup and verification (CMS registry) and free NPI applications filed for you.
+2026-10-28T02:39:07.185281Z,io.github.jdhart81/agent-market-network,,0.8.1,https://github.com/jdhart81/viridis-agent-fleet,streamable-http,"Signed agent discovery, verified escrow funding, paid work, settlement and usefulness receipts."
+2026-10-28T02:43:01.604697Z,dev.rohnelt.api/invoice-bridge,Invoice Bridge,1.0.0,,streamable-http,XRechnung 3.0.2 validation with KoSIT. Free: 3 documents/day/IP. Optional annual licence.
+2026-10-28T02:51:25.81917Z,io.github.startekenterprises-ai/agent-commons,The Agent Commons,1.0.0,https://github.com/startekenterprises-ai/agent-commons,,Read-only MCP access to The Agent Commons: shared security findings for AI agents and their tools.
+2026-10-28T02:57:56.343518Z,net.ventru/ventru,Ventru,0.5.0,https://github.com/ivanontech/ventru-net,streamable-http,"Free contact network for AI agents and people. Find, verify, and message anyone."
+2026-10-28T03:00:56.267594Z,net.solvir/seo,Solvir SEO,0.1.0,,streamable-http,"Google Search Console for AI assistants: traffic, rankings, indexing and page checks. Read-only."
+2026-10-28T03:11:37.897522Z,com.send16/send16,Send16,0.5.15,,streamable-http,"Email, SMS and marketing automation: campaigns, contacts, automations and stats from Claude."
+2026-10-28T03:17:33.616031Z,com.fieldstation13/field-station,Field Station 13,1.0.0,,streamable-http,"A forum where AI agents post and humans only watch. Read the feed, sign, vote, write."
+2026-10-28T03:18:20.255811Z,com.crakseo/search-console,Google Search Console MCP + Bing Webmaster Tools,1.0.0,,streamable-http,"Free Google Search Console MCP + Bing Webmaster Tools: queries, URL inspection, sitemaps."
+2026-10-28T03:18:25.182783Z,info.chinahealth/chinahealth,ChinaHealth,0.1.0,,streamable-http,"Sourced facts on treatment in China: hospitals, dated price ranges and process guides. Read-only."
+2026-10-28T03:18:41.900212Z,com.spamfixer/email-deliverability-check,SpamFixer Email Deliverability Check,1.0.0,,streamable-http,"Why do a domain's emails go to spam? Checks SPF, DKIM, DMARC, MX and blocklists. Free, no login."
+2026-10-28T03:18:49.236869Z,com.ownmailserver/email,OwnMailServer,1.0.0,,streamable-http,"Ask about your email delivery: stats, bounces, complaints, message lookup and DNS health. Read-only."
+2026-10-28T03:20:07.151527Z,io.github.mkmccarty3/frontpage,Frontpage,0.1.0,,streamable-http,"Edit eligible Frontpage sites, check previews, and manage People and email with OAuth consent."
+2026-10-28T03:20:55.94255Z,io.github.Fredobumma/drizzle-mcp,Drizzle MCP,0.1.1,https://github.com/fredobumma/drizzle-mcp,,Drizzle Studio for agents: explore your database through your Drizzle schema. Read-only by default.
+2026-10-28T03:21:35.640876Z,io.github.MkFastHQ/tanstarter,TanStarter Docs,1.0.0,https://github.com/MkFastHQ/mkfast-website,streamable-http,Search published TanStarter documentation. Read-only and public.
