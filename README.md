@@ -9,37 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 06:18 UTC
+## Latest list — 2026-10-28 07:20 UTC
 
-New MCP servers published between 2026-10-28 05:20 UTC and 2026-10-28 06:18 UTC.
+New MCP servers published between 2026-10-28 06:18 UTC and 2026-10-28 07:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-28T06-18-48-667645Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-28T07-20-37-539712Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-28 05:24:22 | com.privaku/talk | Privaku Talk | 0.3.0 | Message your owner in Privaku Talk and ask for Face ID approval before risky ac… |
-| 2026-10-28 05:27:29 | [io.github.Garthnesss/elfdeckai](https://github.com/Garthnesss/ElfDeckAI) | ElfDeckAI | 1.0.7 | Virtual keyboard, gamepad and mouse for AI agents on Linux / Steam Deck. |
-| 2026-10-28 05:28:32 | [com.huntayazerturk/assistant](https://github.com/Huntay-Azer-Turk/huntay) | Huntay AzerTürk | 1.1.0 | Check Huntay AzerTürk's availability, book a 30-minute intro call, and look up… |
-| 2026-10-28 05:29:07 | [io.github.jin-1119/plato-mcp](https://github.com/jin-1119/plato-mcp) | PLATO MCP | 0.1.0 | PLATO (Pusan National University LMS) MCP server via Moodle Web Service API + u… |
-| 2026-10-28 05:35:00 | [ai.easy-peasy/mcp](https://github.com/Easy-Peasy-AI/easy-peasy-mcp) | Easy-Peasy.AI | 1.3.2 | Generate text, images, videos, speech and transcripts with your Easy-Peasy.AI a… |
-| 2026-10-28 05:36:01 | io.github.houyidb-community/houyidb-mcp |  | 0.1.0 | MCP server exposing HouyiDB vector search, collection status, and opt-in writes. |
-| 2026-10-28 05:40:50 | ai.sinogate/mcp | SinoGate MCP Server | 0.1.0 | Use Chinese LLMs through the SinoGate OpenAI-compatible API. |
-| 2026-10-28 05:44:06 | com.thehockeyanalytics/mcp | The Hockey Analytics | 2.0.0 | Read-only hockey analytics: compare teams and players, trends, fact checks. SHL… |
-| 2026-10-28 05:45:05 | [io.github.sjh9714/journal](https://github.com/sjh9714/journal) |  | 0.1.0 | Personal journal kept as Markdown files: search, On This Day, append to today,… |
-| 2026-10-28 05:47:55 | [io.github.mybolide/coding-tools-mcp](https://github.com/mybolide/coding-tools-mcp) |  | 0.2.5 | Desktop MCP workspace for AI agents: file edits, commands, Git status, resumabl… |
-| 2026-10-28 05:49:21 | [io.github.agentrq/agentrq](https://github.com/agentrq/agentrq) | AgentRQ | 0.14.0 | Task manager for AI agents. Orchestrate agents to achieve large goals in unifie… |
-| 2026-10-28 05:54:38 | [io.github.dzenlotus/worklife-agent](https://github.com/dzenlotus/worklife-agent) | Worklife — AI job search | 0.4.1 | MCP career tools for job search, resume matching, application tracking, and emp… |
-| 2026-10-28 05:55:38 | io.kairobot/kairobot | Kairobot | 0.3.0 | Group scheduling: see who answered, confirm times, chase replies, run tournamen… |
-| 2026-10-28 06:01:19 | ai.denser/denser | Denser | 1.0.0 | Ask, search and review your Denser AI chatbots: knowledge base, chats, analytic… |
-| 2026-10-28 06:02:34 | [io.github.miketwalker/tubepull](https://github.com/miketwalker/tubepull-mcp) | TubePull | 1.2.3 | AI YouTube downloader: save YouTube, TikTok, Instagram + 10 more as MP4/MP3 fro… |
-| 2026-10-28 06:05:42 | [io.github.awalhadi/repocanon](https://github.com/awalhadi/repo-canon) | RepoCanon | 0.7.0 | Verified AGENTS.md and project memory for AI coding agents: context packs and f… |
-| 2026-10-28 06:07:45 | com.agentsecretstore/mcp | Agent Secret Store | 1.1.0 | Scoped secrets and HSM wallet signing for agents; humans approve out of band. O… |
-| 2026-10-28 06:08:08 | io.github.spikinglabs/symbola | Symbola | 0.1.0 | Search software packs on symbola.sh, read their decisions, and get steps to bui… |
-| 2026-10-28 06:09:44 | [io.github.Black-Swan-Causal-Labs/regintel-mcp](https://github.com/Black-Swan-Causal-Labs/regintel-mcp) | Docket Lens | 0.1.0 | Retrieve FDA docket comments, attachments and draft/final guidance for reviewab… |
-| 2026-10-28 06:14:10 | com.llmnesia/mcp | LLMnesia | 0.2.16 | Search your AI chat history from Claude, Cursor, Codex, and other MCP clients. |
-| 2026-10-28 06:14:33 | com.dockoptimizer/dock-optimizer | Dock Optimizer | 1.0.0 | Supply chain operations: dock scheduling, check-in, doors, inventory, orders an… |
-| 2026-10-28 06:15:46 | [io.github.menantonio83-hue/tnt-house-risk-data-api](https://github.com/menantonio83-hue/tnt-house) |  | 1.4.1 | RiskDataApi — Solana token risk scoring for AI agents. Safety score, insider cl… |
-| 2026-10-28 06:16:26 | au.com.paycalculator/mcp | PayCalculator | 0.8.2 | Australian pay, income tax, super, HECS, family payments and child care subsidy… |
+| 2026-10-28 06:22:49 | [com.blackswancausallabs/regintel-mcp](https://github.com/Black-Swan-Causal-Labs/regintel-mcp) | Docket Lens | 0.1.0 | Retrieve FDA docket comments, attachments and draft/final guidance for reviewab… |
+| 2026-10-28 06:33:55 | [io.github.jangsejong/tistory-mcp](https://github.com/jangsejong/tistory-mcp) | Tistory MCP (Unofficial) | 0.2.0 | Unofficial MCP server for Tistory blogs: publish, edit, drafts, images. Private… |
+| 2026-10-28 06:50:16 | io.github.Farhanyousaf729/postlefy | Postlefy | 1.0.0 | Post to 11 social platforms from Claude or ChatGPT. Your AI writes; Postlefy pr… |
+| 2026-10-28 06:57:04 | app.klappa/klappa | Klappa flashcards | 1.0.0 | Create and review spaced-repetition flashcards in your free Klappa decks from a… |
+| 2026-10-28 07:00:24 | info.known/known | Known | 1.0.0 | The company model your agents share: Known's wikis, tables and history, read an… |
+| 2026-10-28 07:00:48 | [io.github.sadofriod/graphrag-ts](https://github.com/sadofriod/graphrag-ts) | graphrag-ts citation provenance | 0.1.22 | Source-tiered retraction and citation judgments for DOIs; abstains when evidenc… |
+| 2026-10-28 07:03:03 | com.hydrafetch/web | Hydrafetch | 1.0.1 | Clean web data for agents: any URL to Markdown or JSON, plus search, crawls and… |
+| 2026-10-28 07:07:24 | [tax.awaken/awaken](https://github.com/awakentax/plugin) | Awaken Tax | 1.0.0 | Review crypto transactions, cost basis, gains, income and tax reports in your A… |
+| 2026-10-28 07:07:28 | [io.github.make0-official/brain-oss](https://github.com/make0-official/brain-oss) | Make0 Brain | 0.1.2 | One shared, versioned memory for Claude Code, Cursor, Codex and every MCP agent… |
+| 2026-10-28 07:09:31 | com.zinc.www/mcp | Zinc | 1.0.0 | Shop Amazon, Walmart, Target and Best Buy from chat: search, pay by card, track… |
+| 2026-10-28 07:12:39 | io.invilabs/iphone | Invi Labs: control real iPhones | 0.1.13 | Let your AI agent control real iPhones: screenshots, tap, swipe, type and open… |
+| 2026-10-28 07:14:45 | [io.github.baharmaulidiii/sharphy](https://github.com/baharmaulidiii/sharphy) | Sharphy | 1.0.6 | CLR Intelligence and Runtime Forensic Bridge for AI Coding Agents. |
+| 2026-10-28 07:16:07 | [com.pokemontcgapi/mcp](https://github.com/pokemontcgapi/mcp-server) | Pokémon TCG API | 0.1.9 | English, Japanese and Chinese Pokémon cards: search, sets, illustrators, prices… |
+| 2026-10-28 07:20:02 | [io.github.KevinChu1110/driftnet](https://github.com/KevinChu1110/driftnet) | driftnet | 0.1.1 | Search, save and rate AI tools people shared in chats. Local catalogue, any mod… |
+| 2026-10-28 07:20:16 | app.nexusol/mcp | Nexusol | 0.1.0 | Search Solana ecosystem projects and read sourced Solana news from Nexusol. |
 
 ## Data source
 

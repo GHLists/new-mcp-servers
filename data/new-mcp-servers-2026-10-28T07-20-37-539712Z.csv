@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-10-28T06:22:49.23188Z,com.blackswancausallabs/regintel-mcp,Docket Lens,0.1.0,https://github.com/Black-Swan-Causal-Labs/regintel-mcp,,"Retrieve FDA docket comments, attachments and draft/final guidance for reviewable analysis."
+2026-10-28T06:33:55.196357Z,io.github.jangsejong/tistory-mcp,Tistory MCP (Unofficial),0.2.0,https://github.com/jangsejong/tistory-mcp,,"Unofficial MCP server for Tistory blogs: publish, edit, drafts, images. Private by default."
+2026-10-28T06:50:16.67651Z,io.github.Farhanyousaf729/postlefy,Postlefy,1.0.0,,streamable-http,Post to 11 social platforms from Claude or ChatGPT. Your AI writes; Postlefy previews and posts.
+2026-10-28T06:57:04.606086Z,app.klappa/klappa,Klappa flashcards,1.0.0,,streamable-http,Create and review spaced-repetition flashcards in your free Klappa decks from any AI assistant.
+2026-10-28T07:00:24.596216Z,info.known/known,Known,1.0.0,,streamable-http,"The company model your agents share: Known's wikis, tables and history, read and written over MCP."
+2026-10-28T07:00:48.471121Z,io.github.sadofriod/graphrag-ts,graphrag-ts citation provenance,0.1.22,https://github.com/sadofriod/graphrag-ts,streamable-http,Source-tiered retraction and citation judgments for DOIs; abstains when evidence is thin.
+2026-10-28T07:03:03.955565Z,com.hydrafetch/web,Hydrafetch,1.0.1,,streamable-http,"Clean web data for agents: any URL to Markdown or JSON, plus search, crawls and company brand data."
+2026-10-28T07:07:24.981731Z,tax.awaken/awaken,Awaken Tax,1.0.0,https://github.com/awakentax/plugin,streamable-http,"Review crypto transactions, cost basis, gains, income and tax reports in your Awaken Tax account."
+2026-10-28T07:07:28.529265Z,io.github.make0-official/brain-oss,Make0 Brain,0.1.2,https://github.com/make0-official/brain-oss,,"One shared, versioned memory for Claude Code, Cursor, Codex and every MCP agent. Local and offline."
+2026-10-28T07:09:31.451024Z,com.zinc.www/mcp,Zinc,1.0.0,,streamable-http,"Shop Amazon, Walmart, Target and Best Buy from chat: search, pay by card, track orders."
+2026-10-28T07:12:39.217328Z,io.invilabs/iphone,Invi Labs: control real iPhones,0.1.13,,streamable-http,"Let your AI agent control real iPhones: screenshots, tap, swipe, type and open apps."
+2026-10-28T07:14:45.731482Z,io.github.baharmaulidiii/sharphy,Sharphy,1.0.6,https://github.com/baharmaulidiii/sharphy,,CLR Intelligence and Runtime Forensic Bridge for AI Coding Agents.
+2026-10-28T07:16:07.43742Z,com.pokemontcgapi/mcp,Pokémon TCG API,0.1.9,https://github.com/pokemontcgapi/mcp-server,,"English, Japanese and Chinese Pokémon cards: search, sets, illustrators, prices, photo lookup."
+2026-10-28T07:20:02.347189Z,io.github.KevinChu1110/driftnet,driftnet,0.1.1,https://github.com/KevinChu1110/driftnet,,"Search, save and rate AI tools people shared in chats. Local catalogue, any model or none."
+2026-10-28T07:20:16.796021Z,app.nexusol/mcp,Nexusol,0.1.0,,streamable-http,Search Solana ecosystem projects and read sourced Solana news from Nexusol.
