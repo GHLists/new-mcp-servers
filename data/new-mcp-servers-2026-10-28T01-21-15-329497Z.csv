@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-10-28T00:21:35.608673Z,dev.corsair/mcp,Corsair,0.1.2,https://github.com/corsairdev/agent-plugins,streamable-http,"Use your connected apps from your agent: search synced data, act in apps and set up automations."
+2026-10-28T00:22:56.873976Z,io.github.VitalyTolstik/janosik,,0.1.1,https://github.com/VitalyTolstik/janosik,,Drive a Janosik Kanban board from any MCP client with a personal API key.
+2026-10-28T00:25:26.166538Z,markets.chameleons/polymarket,Chameleons,1.0.0,,streamable-http,Polymarket traders checked for copy trading: 1–5★ or Can't copy. 90 d · modelled · not advice.
+2026-10-28T00:28:13.974246Z,com.scriptmasterlabs/agent-verify,SCRIPTMASTERLABS — Agent Verify,1.0.1,,streamable-http,"Proof, not ratings: verified paid agent-job records on Arc + a $0.05 signed Proof Check."
+2026-10-28T00:35:30.318501Z,io.github.NoPaperSpray/veilleur,Veilleur,0.1.0,https://github.com/NoPaperSpray/Veilleur,,Windows Discord MCP server with human-approved plans and local backups.
+2026-10-28T00:43:55.898962Z,com.ultimatebusinessmachines/ubm,Ultimate Business Machines,0.2.0,,streamable-http,"Run a service business from your AI agent: CRM, leads, scheduling, invoicing, jobs and more."
+2026-10-28T00:43:56.155782Z,com.ultimatebusinessmachines/ubm-public,Ultimate Business Machines (no account),0.2.0,,streamable-http,"Learn what Ultimate Business Machines does, tailor a plan to a business, price it and sign up."
+2026-10-28T00:53:29.732001Z,io.github.paigy-ai/mcp,Paigy,0.40.42,https://github.com/paigy-ai/mcp,,"Lets your AI agents call you when they need a decision, and hear your answer."
+2026-10-28T00:53:50.799704Z,app.tahona.mcp/tahona,Tahona,1.0.0,,streamable-http,"Your agave spirits shelf, tasting notes and the collectors you follow, from Tahona."
+2026-10-28T00:53:58.660164Z,io.github.blisspixel/recon,recon,2.27.0,https://github.com/blisspixel/recon,,"Public DNS, certificate transparency, and identity observations."
+2026-10-28T00:54:23.094821Z,io.github.Immersive-Media-Technologies/aftereffects-mcp-imt,AE-MCP-IMT — After Effects for AI agents,0.5.8,https://github.com/Immersive-Media-Technologies/aftereffects-mcp-imt,,"Adobe After Effects for AI agents: ~270 undo-safe operations, checkpoints, dialog detection, skill"
+2026-10-28T00:54:28.293892Z,io.github.Immersive-Media-Technologies/photoshop-mcp-imt,PS-MCP-IMT — Photoshop for AI agents,0.4.6,https://github.com/Immersive-Media-Technologies/photoshop-mcp-imt,,"Adobe Photoshop for AI agents: 134 tools behind a 9-tool facade, UXP bridge that works when modal"
+2026-10-28T00:54:29.861354Z,io.github.Immersive-Media-Technologies/premiere-mcp-imt,PR-MCP-IMT — Premiere Pro for AI agents,0.1.0,https://github.com/Immersive-Media-Technologies/premiere-mcp-imt,,"Adobe Premiere Pro for AI agents: ~380 readback-verified operations behind 9 tools, AI-tools skill"
+2026-10-28T01:02:15.937314Z,com.tubescribed/mcp,TubeScribed,1.0.0,,streamable-http,"Turn captioned YouTube videos into transcripts, blog posts, SOPs, emails and social posts."
+2026-10-28T01:04:01.452177Z,io.avocart/avocart,Avocart,1.0.0,,streamable-http,"Meal plans, USDA-based nutrition and Instacart groceries for every diet in your household."
+2026-10-28T01:05:40.991806Z,com.chockstonelabs/chockstone-labs,Chockstone Labs,1.0.0,,streamable-http,"Run social media from Claude: draft, schedule and approve posts, answer comments, read results."
+2026-10-28T01:06:33.664976Z,com.koddeo/koddeo,Koddeo,1.0.0,,streamable-http,"Find community referral codes for 200+ brands, and publish, refresh or boost your own."
+2026-10-28T01:09:35.622148Z,io.github.ayers-software-repair/lancelot,Lancelot,0.3.0,https://github.com/ayers-software-repair/lancelot,,An MCP server for search and retrieval over a local LanceDB database
+2026-10-28T01:16:20.125469Z,tickets.upfront/upfront,UPFRONT,1.0.0,,streamable-http,"All-in ticket prices across ticket sites, seat views and venue guides for US events."
+2026-10-28T01:18:42.241387Z,com.helprism/mcp,Helprism,1.3.2,,streamable-http,Your coding agent keeps your help center current: it drafts article fixes after code changes.
+2026-10-28T01:20:13.337088Z,io.github.saeedmsdi-ugchooks/mcp-server,,1.0.0,https://github.com/saeedmsdi-ugchooks/mcp-server,streamable-http,UGCHooks MCP: turn product links into TikTok and Reels post batches; read hooks and captions.
