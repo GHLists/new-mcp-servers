@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-28T07:23:33.094899Z,group.highlnd-intel/highland-apis,Highland Intel APIs,1.0.0,,streamable-http,"70 pay-per-call APIs: DNS, email auth, security headers, web search, scraping, AI. x402 USDC/Base"
+2026-10-28T07:23:59.642282Z,io.alion/jobs,"Alion Jobs: job search, salaries and visas",1.0.0,,streamable-http,"Live job postings worldwide: search by role, country, remote, salary, visa; pay and demand stats."
+2026-10-28T07:24:00.781109Z,io.alion/companies,Alion Companies: company and startup data,1.0.0,,streamable-http,"Companies and startups: industry, size, funding, investors, tech stack, hiring, lookalikes."
+2026-10-28T07:24:01.76122Z,io.alion/people,Alion People: find candidates and contact them,1.0.0,,streamable-http,"Find people open to offers by role and skills, read open profiles, message them via Alion."
+2026-10-28T07:25:36.126582Z,io.github.KNIHAL/causly-server,,1.5.3,https://github.com/KNIHAL/causly-server,,Open-source MCP server that turns any AI agent into your technical co-founder
+2026-10-28T07:28:06.20857Z,io.github.jtauschl/openproject-ce-mcp,OpenProject CE,0.4.3,https://github.com/jtauschl/openproject-ce-mcp,,MCP server for OpenProject Community Edition with guarded read/write support.
+2026-10-28T07:28:39.009523Z,io.github.dancerdan15/bluesky-social-search-mcp,Bluesky Social Search MCP,0.1.0,,streamable-http,"Bluesky post search, author feeds, profiles & threads"
+2026-10-28T07:28:39.523631Z,io.github.dancerdan15/discourse-forum-mcp,Discourse Forum MCP,0.1.0,,streamable-http,Discourse forum search & threads
+2026-10-28T07:28:40.137542Z,io.github.dancerdan15/google-ads-transparency-mcp,Google Ads Transparency MCP,0.1.0,,streamable-http,Google Ads Transparency & ad spy
+2026-10-28T07:28:40.732974Z,io.github.dancerdan15/google-trends-realtime-mcp,Google Trends Realtime MCP,0.1.0,,streamable-http,Google Trends realtime & entities
+2026-10-28T07:28:41.271399Z,io.github.dancerdan15/keyword-autocomplete-mcp,Keyword Autocomplete MCP,0.1.0,,streamable-http,Multi-engine keyword & autocomplete
+2026-10-28T07:28:41.82819Z,io.github.dancerdan15/multi-ats-career-jobs-mcp,Multi Ats Career Jobs MCP,0.1.0,,streamable-http,"Job search across Greenhouse, Lever, Ashby, SmartRecruiters, Workable"
+2026-10-28T07:28:42.369408Z,io.github.dancerdan15/sec-edgar-filings-mcp,Sec Edgar Filings MCP,0.1.0,,streamable-http,"SEC EDGAR filings, full-text search & XBRL financial facts"
+2026-10-28T07:28:42.92147Z,io.github.dancerdan15/shopify-store-catalog-mcp,Shopify Store Catalog MCP,0.1.0,,streamable-http,"Shopify store catalog, SKU/price/availability & collections"
+2026-10-28T07:28:43.458847Z,io.github.dancerdan15/substack-newsletter-mcp,Substack Newsletter MCP,0.1.0,,streamable-http,"Substack newsletter, posts & podcast search"
+2026-10-28T07:35:50.831126Z,markets.iamai/marketplace,iamai.markets — AI marketplace,1.0.0,,streamable-http,"Search, buy and sell AI agents, apps, prompts and templates. AI agents can list products and earn."
+2026-10-28T07:39:20.286812Z,io.github.shuji-bonji/s1000d-writer-mcp,S1000D Writer (S1000D Stack),0.1.0,https://github.com/shuji-bonji/s1000d-writer-mcp,,"Builds S1000D data modules from structured drafts, verifies them, applies only unambiguous fixes."
+2026-10-28T07:41:25.270726Z,io.github.bvolpato/ivygrep,ivygrep,1.3.1,https://github.com/bvolpato/ivygrep,,Local code search and task context packs for coding agents
+2026-10-28T07:42:14.066084Z,fit.swole/swole,Swole.fit,1.0.0,,streamable-http,"Swole.fit: your training plan, workout history and food log for your AI assistant (read-only)."
+2026-10-28T07:47:50.8881Z,com.blinkbrosai/artifact,blink artifact,1.0.0,,streamable-http,"Publish HTML, docs, slides and dashboards from your AI CLI; edit them live with people."
+2026-10-28T07:56:16.569733Z,com.ainovaq/mcp,Ainovaq,1.2.0,,streamable-http,"Ainovaq AI venture studio: list services, get service details, search the blog, contact info."
+2026-10-28T08:03:01.68232Z,io.github.Dino-Kupinic/sniptide,,0.2.0,https://github.com/Dino-Kupinic/sniptide,streamable-http,Search and manage your Sniptide snippets.
+2026-10-28T08:07:38.156623Z,io.github.ScienceWerx-Inc/brico,BRICO feature memory,0.2.0,https://github.com/ScienceWerx-Inc/brico_release,,"Find features you built in other projects, see how they fit this one, and reuse them."
+2026-10-28T08:09:09.501854Z,io.github.kerbelp/ai-collection,AI Collection,0.1.0,,streamable-http,"Discover and compare AI tools: search, browse categories, find alternatives and curated picks."
+2026-10-28T08:16:46.391916Z,io.github.seongwon030/velog,Velog,0.23.0,https://github.com/seongwon030/velog_mcp,,"Write, publish, and manage Velog (velog.io) posts, series, comments, and trends. 29 tools."
+2026-10-28T08:19:38.560622Z,io.github.DinevDecor/signal-feed-mcp,Signal Feed API: market regime,0.2.1,https://github.com/DinevDecor/signal-feed-mcp,,"Daily market regime (risk-on / risk-off) for trading agents, paid per call via x402 USDC on Base."
+2026-10-28T08:20:05.668908Z,com.cresclab.agentlab/deploy,Crescendo Agent Lab Deploy,2026.10.28,,streamable-http,"Deploy websites, apps, agents and MCP servers from Claude Code or Codex. OAuth, runs in Taiwan."
