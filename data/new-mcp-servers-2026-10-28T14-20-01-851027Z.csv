@@ -1,0 +1,47 @@
+created_at,server,title,version,repository,transports,description
+2026-10-28T13:18:58.062639Z,io.github.danielefinocchiaro/unofficial-bambu-mcp,Bambu Studio (unofficial),0.3.0,https://github.com/danielefinocchiaro/unofficial-bambu-mcp,,"Build, edit, slice, check and calibrate Bambu Studio projects; read a Bambu Lab printer's status."
+2026-10-28T13:21:00.62642Z,com.scriptmasterlabs/gatepay,SCRIPTMASTERLABS — GatePay,0.5.0,,streamable-http,"Policy-gated Arc payment routing: hard caps, signed mandates, hash-chained proof."
+2026-10-28T13:23:40.479315Z,io.github.openpitkit/officer,Pit Officer,0.1.0,https://github.com/openpitkit/officer,,Pre-trade risk limits for AI trading agents: every order is checked before it reaches your broker.
+2026-10-28T13:23:54.387861Z,net.livingprojects/living-projects,Living Projects,0.70,,streamable-http,"Pick up where you left off: your project's progress, decisions and notes, kept in your own storage."
+2026-10-28T13:24:01.482688Z,ai.linof/docs,Linof docs,1.0.0,,streamable-http,Linof turns family photos into a short film. Read Linof's docs and live prices. No sign-in.
+2026-10-28T13:24:49.399888Z,dev.fly.looper-products/statuspage-incidents,,0.1.0,,streamable-http,"Read-only: recent incidents from public Atlassian Statuspage pages. Free, no API key."
+2026-10-28T13:24:49.544014Z,dev.fly.looper-products/crates-package-info,,0.1.0,,streamable-http,"Read-only: public crates.io metadata for a Rust crate. Free, no API key."
+2026-10-28T13:25:47.948996Z,io.demofy/demofy,Demofy,1.0.0,,streamable-http,"Turn a URL and one line of intent into a narrated product demo video, from any MCP client."
+2026-10-28T13:34:36.652472Z,ai.reversa/mcp,Reversa,1.0.0,,streamable-http,"Research legislation and case law, follow legislative procedures, and act on your Reversa alerts."
+2026-10-28T13:39:00.087437Z,app.scanyoursite/scanyoursite,ScanYourSite,0.1.0,,streamable-http,"Outside-in audit of a live site: leaked keys, headers, TLS, SPF/DMARC, privacy, SEO, with fixes"
+2026-10-28T13:39:32.106756Z,com.bringmethat/bringmethat,BringMeThat,1.0.0,,streamable-http,Order delivery or pickup from US restaurants. Pay on bringmethat.com.
+2026-10-28T13:43:33.268074Z,com.onrender.x402-tw-data/taiwan-open-data,Taiwan Laws Open Data (x402),0.2.0,,streamable-http,"Full-text search and retrieval of Taiwan laws (open gov data). Paid via x402, 0.01 USDC/call."
+2026-10-28T13:44:24.381882Z,io.github.amirhosseinkz/plane-workflow-mcp,Plane Workflow,0.6.1,https://github.com/amirhosseinkz/plane-workflow-mcp,,"Plan, start, and complete Plane work items under team rules, with previews and idempotent writes."
+2026-10-28T13:47:03.905569Z,com.melonhelp/tickets,Melonhelp Tickets,1.0.0,https://github.com/Melonhelp/mcp,streamable-http,"Read your Melonhelp Tickets help desk: tickets, comments, saved filters and metrics."
+2026-10-28T13:47:04.499349Z,com.melonhelp/agents,Melonhelp Agents,1.0.0,https://github.com/Melonhelp/mcp,streamable-http,"Configure and audit Melonhelp AI support agents: knowledge, skills, tools, flows and usage."
+2026-10-28T13:47:05.07013Z,com.melonhelp/tasks,Melonhelp Tasks,1.0.0,https://github.com/Melonhelp/mcp,streamable-http,"Plan and track work in Melonhelp Tasks: projects, tasks, comments and workspace members."
+2026-10-28T13:47:05.654315Z,com.melonhelp/feedback,Melonhelp Feedback,1.0.0,https://github.com/Melonhelp/mcp,streamable-http,"Read and resolve the bugs, ideas and survey answers your users send through Melonhelp Feedback."
+2026-10-28T13:48:05.023915Z,io.github.zhouxiaoka/autoclip-mcp,AutoClip,1.5.7.post1,https://github.com/zhouxiaoka/autoclip,,Clip long videos into short clips with covers and captions. Local CLI and MCP.
+2026-10-28T13:48:22.810235Z,io.github.orenlab/codeclone,CodeClone,2.0.3,https://github.com/orenlab/codeclone,,"A structural review layer for Python — baseline-aware, deterministic, built for CI and AI agents"
+2026-10-28T13:50:07.74085Z,org.feegate/marketplace,Feegate AI Agent data marketplace catalog & platform metrics,1.0.0,,streamable-http,"Pay-per-call MCP data products listed on Feegate. Free discovery, x402 USDC paid queries on Base."
+2026-10-28T13:52:48.584406Z,dk.adbull/adbull,Adbull,1.0.0,,streamable-http,"Adbull, digitalt bureau i Aarhus: ydelser, priser, cases, artikler og kontakt."
+2026-10-28T13:52:54.481326Z,io.oxylabs/oxylabs-mcp,,0.10.1,https://github.com/oxylabs/oxylabs-mcp,streamable-http,Fetch and process content from specified URLs & sources using the Oxylabs Web Scraper API.
+2026-10-28T13:53:02.85401Z,io.github.BojanKovachki/recovery-probe,,1.0.2,https://github.com/BojanKovachki/recovery-probe,,"Fail reads in web and Electron test apps, inspect recovery, and compare before/after evidence."
+2026-10-28T13:55:20.915383Z,io.peachblue/peachblue,Peachblue,1.0.0,,streamable-http,"Creative intelligence for Meta, TikTok, Google Ads and Amazon DSP, in Claude and other MCP clients."
+2026-10-28T13:55:40.810618Z,pt.iva/iva,iva.pt — EU VAT check (VIES) and Portuguese VAT law,1.0.0,,streamable-http,Validate EU VAT numbers in VIES (consultation number) and read the Portuguese VAT Code and RITI.
+2026-10-28T13:56:52.226159Z,com.gethumandesign.www/mcp,Human Design,1.2.0,,streamable-http,"Calculate Human Design charts, follow transits and forecasts, compare people and analyse groups."
+2026-10-28T13:57:13.557836Z,io.github.myworkingmemory/document-metadata-cleaner,PDF & Word Metadata Cleaner,2026.10.28,,streamable-http,Inspect PDF/DOCX metadata and return verified cleaned copies. Paid Apify execution.
+2026-10-28T13:57:14.067421Z,io.github.myworkingmemory/shopify-store-extractor,Shopify Product Scraper,2026.10.28,,streamable-http,"Extract Shopify products, prices, variants and published availability via paid Apify runs."
+2026-10-28T13:57:14.567092Z,io.github.myworkingmemory/wicked-youtube-transcript-scraper-api,Wicked YouTube Transcript Scraper API,2026.10.28,,streamable-http,"Fetch YouTube caption transcripts, timestamps and optional SRT/VTT through paid Apify runs."
+2026-10-28T13:57:15.055547Z,io.github.myworkingmemory/email-verifier-bulk,Email Verifier — BYOK & Limited Pilot,2026.10.28,,streamable-http,Verify email lists or datasets with MillionVerifier BYOK or a capped keyless pilot on Apify.
+2026-10-28T13:57:42.493808Z,com.wadifa-info.www/morocco-public-jobs,Wadifa Info: Morocco Public Jobs,1.0.0,,streamable-http,"Moroccan public-sector jobs: open recruitment exams, past papers, salaries, holidays."
+2026-10-28T13:57:52.159921Z,lol.storyfan/storyfan,StoryFan,1.0.0,,streamable-http,"Public info about StoryFan (story viewers app): what it is, plans, downloads, opt-out. Read-only."
+2026-10-28T13:58:56.208343Z,net.polysignals/polysignals,PolySignals.net,1.0.0,,streamable-http,"Live crypto Buy/Sell/Hold readings from prediction markets and options, plus daily trend calls."
+2026-10-28T14:00:16.234373Z,com.auracalcs/calculators,AuraCalcs,0.1.0,,streamable-http,"Read-only 2026 paycheck estimates for CA, NY, IL, TX, FL, plus hourly-to-salary. Not tax advice."
+2026-10-28T14:01:49.852591Z,com.insertchat/insertchat,InsertChat - AI Receptionist,2.1.0,https://github.com/MindCraftersGroup/claude-plugin,streamable-http,"AI receptionist and AI chatbot: inbox triage, reply drafts, leads, reports, and knowledge training."
+2026-10-28T14:03:55.549227Z,com.strongerecommerce.paymo/mcp,Paymo MCP,0.2.0,,streamable-http,"Paymo time tracking, tasks, projects and invoices in Claude, ChatGPT, Cursor. Sign in with Paymo."
+2026-10-28T14:04:05.925108Z,io.github.AnshumanAtrey/holehe-email-osint,Holehe Email OSINT - Find Registered Accounts,1.0.5,https://github.com/AnshumanAtrey/holehe-email-osint,streamable-http,Email OSINT Tool - Find Registered Accounts on 120+ Sites
+2026-10-28T14:08:10.348781Z,io.github.Devdeep-Borisagar/website-screenshot,Website Screenshot & PDF,1.0.0,https://github.com/Devdeep-Borisagar/website-screenshot-mcp,streamable-http,"Screenshot any website as PNG, JPEG, WebP, PDF or scrolling MP4/GIF video, with public file links."
+2026-10-28T14:12:45.167513Z,io.github.jdr377/mapapp-agent-connector,Townspace / MapApp,0.1.13,,,"Explore the social map, publish through your wallet, and exchange encrypted private messages."
+2026-10-28T14:14:49.745444Z,io.github.vibebytes/vibe3d,vibe3d,0.2.1,https://github.com/vibebytes/vibe3d,,"Edit and render 3D scenes over MCP: rooms, nodes, materials, cameras, and snapshots."
+2026-10-28T14:15:00.596989Z,com.clihub/clihub,,0.1.0-beta.1,,,Convert any CLI binary to an MCP server via `ch mcp wrap`; discover CLI tools & recipes.
+2026-10-28T14:15:09.157343Z,tube.binge/bingetube,BingeTube,1.0.0,,streamable-http,"Search and recommend short drama series on BingeTube (binge.tube), with watch links."
+2026-10-28T14:15:40.794179Z,com.light-cloud/mcp-server,,1.6.2,https://github.com/light-cloud-com/mcp-server,,"Deploy and run web apps, APIs and databases on Light Cloud from your AI agent."
+2026-10-28T14:16:37.590709Z,io.github.ZKStamp/agentwallet,I Am Wallet,0.1.0,https://github.com/ZKStamp/AgentWallet,streamable-http,"Shielded BitcoinZ wallets for AI agents: pay and send private messages, within safety limits."
+2026-10-28T14:17:29.243344Z,com.aeroleads/mcp,AeroLeads,1.0.0,,streamable-http,"Find, count and save B2B contacts (work emails, phones) using your AeroLeads credits."
+2026-10-28T14:19:50.59665Z,cc.21btc/bitcoin-data,21btc.cc Bitcoin Data,1.0.0,,streamable-http,"Live Bitcoin price, ETF flows, treasuries, on-chain metrics, fees, derivatives & wiki search."
