@@ -9,48 +9,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 19:20 UTC
+## Latest list — 2026-10-28 20:19 UTC
 
-New MCP servers published between 2026-10-28 18:18 UTC and 2026-10-28 19:20 UTC.
+New MCP servers published between 2026-10-28 19:20 UTC and 2026-10-28 20:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-28T19-20-35-872355Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-28T20-19-52-352704Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-28 18:22:02 | [io.github.Obscurify-ai/obscurify-mcp](https://github.com/Obscurify-ai/obscurify-mcp) | Obscurify.ai | 0.1.0 | Ask 200+ AI models privately from your agent: one-shot, chat, second opinions,… |
-| 2026-10-28 18:26:24 | [io.github.AUsernameForYou/agenthand](https://github.com/AUsernameForYou/agenthand) | agenthand | 0.1.1 | Turn messy product photos into listing-ready images, with a fidelity receipt on… |
-| 2026-10-28 18:28:06 | investments.stein/mcp | Stein Investments | 1.0.0 | REVDEN's classified market state, empirical economic calendar, research registe… |
-| 2026-10-28 18:28:17 | [io.github.ridafkih/keeper-sh](https://github.com/ridafkih/keeper.sh) | Keeper.sh | 1.0.0 | Keeper.sh calendar sync: read and book events, RSVP and find free time across s… |
-| 2026-10-28 18:29:46 | [io.github.shaag7967/mcp-server-senseca-pro](https://github.com/shaag7967/mcp-server-senseca-pro) | Senseca PRO thermometer | 0.1.0 | Live readings from Senseca PRO 111/115 Pt100 thermometers via USB (unofficial) |
-| 2026-10-28 18:33:23 | [io.github.TheFirstPrototype/confcap](https://github.com/TheFirstPrototype/ConfCapMcp) | ConferenceCaptioning | 0.1.0 | Read live captions, saved transcripts and audience questions from your Conferen… |
-| 2026-10-28 18:37:41 | [com.agenticwebscore/scan](https://github.com/marifeting/agenticwebscore-mcp) | AgenticWebScore | 0.3.0 | Scan a public website for AI agent readiness: 60 checks, a score, and the evide… |
-| 2026-10-28 18:38:10 | [io.github.kaeris-io/kaeris-mcp](https://github.com/kaeris-io/kaeris-mcp) | KAERIS i18n | 0.2.16 | Translate app language files into 46 languages and check placeholders, plurals… |
-| 2026-10-28 18:39:26 | com.kovante/senior-care | Kovante: Senior care | 1.0.0 | Find US nursing homes and assisted living in most states, from public records. |
-| 2026-10-28 18:39:48 | ai.anyforge/anyforge | AnyForge | 3.14.2 | Approve plans, track initiatives and work items, and steer AI engineering crews… |
-| 2026-10-28 18:40:17 | [io.github.0xHedgeHood/hedgehood-options](https://github.com/0xHedgeHood/hedgehood-agent-kit) | Hedgehood Options | 0.2.0 | Stock options market for AI agents on Robinhood Chain: RFQ quotes, buy/close, P… |
-| 2026-10-28 18:42:36 | io.github.peterloomans/equivista | Equivista | 1.0.0 | Read-only Belgian company search, KBO data, financials, employees and company r… |
-| 2026-10-28 18:43:15 | org.communitydays/mcp | Community Days | 1.0.0 | Community-run Microsoft ecosystem events, calls for speakers and speakers, from… |
-| 2026-10-28 18:44:53 | com.standpointhq/levelset | Levelset by StandPoint | 1.2.0 | Stock levels, picks with publish time and price, and a screener from StandPoint… |
-| 2026-10-28 18:47:53 | co.squish/squish | Squish | 1.0.0 | Manage your Squish domains, DNS, hosting, backups and site files from your AI a… |
-| 2026-10-28 18:53:39 | [io.anycrm/anycrm](https://github.com/kvlkstudio/anycrm-ai-plugins) | anyCRM | 1.0.0 | A CRM for small business: clients, appointments, orders, stock, finances, taxes… |
-| 2026-10-28 18:53:46 | io.promptanything/prompt-anything | Prompt Anything | 1.0.0 | Turn a rough request into a specialized prompt using your saved profile and bus… |
-| 2026-10-28 18:55:25 | net.ffxf/cloud | FFxF | 1.12.0 | Create and manage VMs, managed databases, firewalls and load balancers in Montr… |
-| 2026-10-28 18:57:03 | io.github.hsharmanov02/red-web-utils |  | 1.0.0 | 17 pay-per-call web, finance, legal and onchain tools for AI agents. USDC on Ba… |
-| 2026-10-28 18:58:46 | [io.github.init-computer/init](https://github.com/init-computer/init-mcp) |  | 0.1.6 | Init is the backend engineer for your coding agent. |
-| 2026-10-28 18:59:40 | com.akiyalistings/akiya-listings | Akiya Listings | 1.0.0 | Japanese akiya (vacant home) listings, Jestimate valuations and regional prices. |
-| 2026-10-28 19:07:08 | [io.github.sauliusbeconis/axongate](https://github.com/sauliusbeconis/AxonGate) |  | 2.1.0 | Safe web read, search, cited answers, fact-checks and token checks for agents,… |
-| 2026-10-28 19:10:43 | com.protoductai/fracta | Fracta | 1.0.1 | Plan, update and complete your Fracta tasks and save memos. Fracta Pro required. |
-| 2026-10-28 19:10:44 | com.protoductai/hearth | Hearth | 1.0.0 | Log meals, weight and workouts in Hearth and review your progress. Subscription… |
-| 2026-10-28 19:10:44 | [io.github.Nomad07/nftdata-mcp](https://github.com/Nomad07/nftdata-mcp) |  | 1.0.0 | OpenSea NFT collection data via NFT Data API, paid per request with x402. |
-| 2026-10-28 19:10:44 | com.protoductai/hachimo | Hachimo | 1.0.0 | Keep your English lessons, review cards and daily plan in Hachimo. Subscription… |
-| 2026-10-28 19:10:45 | com.protoductai/ledgie | Ledgie | 1.0.0 | Check and record your Ledgie household ledger. Ledgie subscription required. |
-| 2026-10-28 19:10:45 | com.protoductai/lore | Lore | 1.0.0 | Write articles and quizzes into your private Lore knowledge inbox. Subscription… |
-| 2026-10-28 19:10:46 | com.protoductai/buddybase | buddybase | 1.0.0 | Keep personal records like expenses, vocabulary and health logs in your own bud… |
-| 2026-10-28 19:11:19 | io.github.cocaina999/eaglecross | Eaglecross | 1.0.0 | Find buying signals for B2B leads and write personalized cold-email icebreakers. |
-| 2026-10-28 19:11:58 | [io.github.Daiveedjay/iris-code](https://github.com/Daiveedjay/iris-code-mcp) | Iris Code | 0.2.2 | Local code-quality rules, findings, preview-first safe fixes and gate results f… |
-| 2026-10-28 19:12:06 | com.grantcue/grantcue | GrantCue | 2.0.0 | Search public US grants and foundation profiles from IRS filings. Read-only, no… |
-| 2026-10-28 19:12:42 | com.meuhtml/meuhtml | meu.html | 1.0.1 | Publica páginas HTML e devolve um link para compartilhar, com prazo, senha e o… |
-| 2026-10-28 19:17:22 | [io.github.VictorCyberDev/tastepolicy](https://github.com/VictorCyberDev/TastePolicy) | TastePolicy | 0.2.0 | Qloo cultural evidence with ALLOW, ASK and REJECT boundaries for agent preferen… |
+| 2026-10-28 19:21:25 | [io.github.Onlydns/onlydns-mcp](https://github.com/Onlydns/onlydns-mcp) | OnlyDNS MCP Server | 1.0.5 | Model Context Protocol server for OnlyDNS to manage DNS zones, records, DNSSEC,… |
+| 2026-10-28 19:21:35 | com.demandbird.app/demandbird | DemandBird | 1.0.0 | Write, schedule and publish social posts in your own voice, and read your analy… |
+| 2026-10-28 19:21:45 | com.openingsfirst/jobs | OpeningsFirst | 1.0.0 | New jobs from 80,000+ company career pages (US, India): search, alerts, saved j… |
+| 2026-10-28 19:22:51 | ninja.mailtester/email-verification | MailTester Ninja | 1.0.0 | Verify email addresses live against their mail server and find work emails. Not… |
+| 2026-10-28 19:23:37 | com.panelcompare/panelcompare | PanelCompare | 1.0.0 | SMM panel prices, trust scores and uptime: who is cheapest for each social medi… |
+| 2026-10-28 19:24:28 | xyz.altitude.mcp/mcp | Altitude | 1.0.0 | Access your Altitude financial data from the AI tools you already use. |
+| 2026-10-28 19:25:32 | [io.github.IvanBBaev/facebook-mcp](https://github.com/IvanBBaev/facebook-mcp) |  | 0.8.0 | Facebook Pages MCP server for the Meta Graph API — publishing, insights, modera… |
+| 2026-10-28 19:26:35 | [com.emailit/emailit](https://github.com/emailit/plugins) | Emailit | 1.1.0 | Send email, run campaigns and automations, manage contacts and domains, fix del… |
+| 2026-10-28 19:27:30 | com.wizcomltd/wizcom | Wizcom Limited | 1.0.1 | Metro Detroit managed IT: company info, downtime and cyber insurance tools, AI… |
+| 2026-10-28 19:27:38 | [io.github.xgr-network/xdala-workflow-builder](https://github.com/xgr-network/xgr-mcp) | XGR MCP Gateway | 0.1.2 | Public Streamable HTTP MCP gateway for XGRChain, XDaLa sessions, Explorer data… |
+| 2026-10-28 19:32:00 | ai.naelos/naelos | Naelos.ai | 1.0.0 | Astrology charts, transits and eclipses from NASA JPL data, 13,200 BC to AD 17,… |
+| 2026-10-28 19:33:50 | gr.leeveel/leeveel-mcp | Leeveel | 1.0.0 | Company facts about Leeveel: general info, ideology, contact details, company a… |
+| 2026-10-28 19:36:31 | io.github.AlbertBalestrini/power-strip-security | Power Strip Security | 0.1.0 | Read web pages and scan content for prompt injection. Pay per call with x402, s… |
+| 2026-10-28 19:36:54 | [com.promptingcraft/guidance](https://github.com/revanbcn/promptingcraft-skill) | PromptingCraft Guidance | 0.3.0 | Source-backed prompting and coding-agent guidance with provenance and freshness… |
+| 2026-10-28 19:38:03 | [io.github.clotr-app/clotr-guard](https://github.com/clotr-app/clotr) | Clotr Guard | 0.1.1 | Checks text for credentials and personal details on your device, before it goes… |
+| 2026-10-28 19:44:10 | [io.github.radoxtech/deepseek-search-everywhere-mcp](https://github.com/radoxtech/deepseek-search-everywhere-mcp) | DeepSeek Search Everywhere | 0.2.0 | Web search, page fetching and multi-source research via the DeepSeek Search & F… |
+| 2026-10-28 19:45:00 | [sg.cashew/mcp](https://github.com/cashew-sg/cashew-mcp) | Cashew MCP | 1.0.0 | Singapore mortgage rates, bank packages and calculators (23 read-only tools) |
+| 2026-10-28 19:46:09 | io.github.dagangilat/limorgilat-shop | Limor Gilat herbal shop | 1.0.0 | Find, ask about and order handmade herbal remedies and natural cosmetics (Israe… |
+| 2026-10-28 19:47:08 | [io.github.trypostit/trypost](https://github.com/trypostit/trypost) | TryPost | 2.0.0 | Run social media with agents. Connect over MCP to plan, write, and post to ever… |
+| 2026-10-28 19:50:22 | [io.github.jordanburke/microsoft-todo-mcp-server](https://github.com/jordanburke/microsoft-todo-mcp-server) |  | 1.1.4 | Microsoft To Do via Graph — task lists, tasks, checklist items and reminders. |
+| 2026-10-28 19:53:20 | dev.typefold/typefold | Typefold | 1.0.0 | Render PDFs and images from your Typefold templates, and build visual templates. |
+| 2026-10-28 20:00:52 | ai.familylore/familylore | FamilyLore | 1.7.0 | Reads handwritten family letters in old scripts and translates them, with notes… |
+| 2026-10-28 20:02:14 | [io.github.vinayvobbili/taxtrace](https://github.com/vinayvobbili/taxtrace) | taxtrace | 0.1.0 | Masked, read-only views of a local tax workspace: documents, form checks and to… |
+| 2026-10-28 20:03:50 | com.onadit/onadit | Onadit | 1.0.9 | Memory for your agents, kept on your Mac. Needs Onadit for Mac, from onadit.com… |
+| 2026-10-28 20:05:43 | [io.github.chrischall/insync-mcp](https://github.com/chrischall/insync-mcp) |  | 0.1.0 | Read an InSync (Qualifacts) patient portal: appointments, meds, messages, forms… |
+| 2026-10-28 20:05:51 | com.meandr/mcp | Meandr | 1.0.0 | Run your Meandr team from your agent: servers, workspaces, agents, policies, ap… |
+| 2026-10-28 20:06:15 | [io.github.pardhuparimi/backroom](https://github.com/pardhuparimi/backroom) | Backroom | 0.1.0 | Invoice extraction for agents: submit a PDF, get verified structured data — nev… |
+| 2026-10-28 20:06:24 | [com.makehybrid/mcp](https://github.com/makehybrid/mcp) |  | 1.0.0 | LinkedIn, the messaging channels and the work trackers of a MakeHybrid account,… |
+| 2026-10-28 20:09:44 | dev.carriervet/carriervet | CarrierVet | 1.3.0 | PASS/REVIEW/FAIL verdicts, risk, history, alerts, receipts. Verified against of… |
+| 2026-10-28 20:12:15 | io.github.claudeisgod/wren-presign-check | Wren Pre-sign Check | 1.4.0 | Check a tx, EIP-712 payload, text or Base token before your agent signs. Paid p… |
+| 2026-10-28 20:17:35 | [io.github.equilibrium-team/tweekit](https://github.com/equilibrium-team/tweekit-mcp) | TweekIT MCP Server | 1.8.0 | Preflight and convert 450+ file types for AI workflows via TweekIT MCP & SDK (E… |
+| 2026-10-28 20:18:57 | fr.symone/symone-moto | SYMONE motorcycle transport | 1.3.0 | Search SYMONE motorcycle transport trips in France: dates, prices, free places… |
+| 2026-10-28 20:19:02 | fr.symone/symone-docs | SYMONE documentation | 1.3.0 | Search and read SYMONE documentation: service, prices, public API, MCP servers,… |
 
 ## Data source
 
