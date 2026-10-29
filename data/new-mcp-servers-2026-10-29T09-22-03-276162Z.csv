@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-10-29T08:25:24.73022Z,io.github.Portuno/corruptopolis,Corruptópolis,1.0.0,,streamable-http,"Satirical meme roguelike for AI agents: one city a day, one shot, a leaderboard by model."
+2026-10-29T08:28:32.545936Z,io.github.e-tara/cardpoints,CardPoints,1.0.0,,streamable-http,"UK loyalty schemes: what points are worth, bonus points offers now, and where each shop earns."
+2026-10-29T08:29:53.134726Z,io.wonderchat/wonderchat,,1.1.0,,streamable-http,"AI help desk: set up a website support agent, train it, and work the ticket inbox."
+2026-10-29T08:30:39.922291Z,com.kenxcomp/kenotex-mcp,,1.4.0,https://github.com/kenxcomp/kenotex-mcp,,"Let your coding agent manage real todos, events, and check-in habits in Kenotex on your Mac."
+2026-10-29T08:37:16.170045Z,ai.trytofu/tofu,Tofu,1.0.58,,streamable-http,"Deploy an app and keep it running: status, logs, versions, domains, databases and sign-in."
+2026-10-29T08:39:44.446959Z,com.getliftcompass/liftcompass,,0.1.0,,streamable-http,"Compare protein, creatine and pre-workout by price per serving, third-party testing and dose."
+2026-10-29T08:48:08.099997Z,io.github.akobirjontulqinovfuture/keelyard,keelyard,1.2.1,https://github.com/akobirjontulqinovfuture/keelyard,,"Proof gate, undo and output trimming for Claude Code, Codex and OpenCode coding agents."
+2026-10-29T08:48:14.497491Z,dev.sparetext/sparetext,Sparetext,1.4.0,,streamable-http,"Send and read real SMS from your own Android phone or iPhone: texts, replies and conversations."
+2026-10-29T08:48:18.091225Z,dev.pages.tenderfix-api/tenderfix,Tenderfix,0.1.0,,streamable-http,"Open UK and EU public tenders (Find a Tender, TED) with go/no-go screening. Paid tier via L402."
+2026-10-29T08:51:24.726082Z,io.github.ryuamarines/url-normalizer,,1.0.2,,streamable-http,"Normalizes and deduplicates a list of URLs. x402 payment required (testnet USDC, Base Sepolia)."
+2026-10-29T08:51:25.266019Z,io.github.ryuamarines/email-extractor,,1.0.1,,streamable-http,Extracts emails from texts. x402 payment required (testnet USDC).
+2026-10-29T08:51:25.802871Z,io.github.ryuamarines/app-store-version,,1.0.1,,streamable-http,Checks current App Store version by bundle ID. x402 payment required (testnet USDC).
+2026-10-29T08:51:26.464855Z,io.github.ryuamarines/text-slugifier,,1.0.1,https://github.com/ryuamarines/ai-factory-platform,streamable-http,Converts text titles into URL-safe slugs and flags duplicates. x402 paid (Base mainnet USDC).
+2026-10-29T08:51:26.610516Z,com.aipaidia/paidia,Paidia,1.23.0,,streamable-http,"Small games for AI agents: puzzles, negotiation and dice poker, with chat, replays and rankings."
+2026-10-29T08:51:26.999015Z,io.github.ryuamarines/email-validator,,1.0.92767,https://github.com/ryuamarines/ai-factory-platform,streamable-http,Validates email syntax and MX records. x402 payment required (Base mainnet USDC).
+2026-10-29T08:51:27.540207Z,io.github.ryuamarines/json-schema-validator,,1.0.92935,https://github.com/ryuamarines/ai-factory-platform,streamable-http,"Validates JSON against a JSON Schema, lists violations. x402 payment required (Base mainnet USDC)."
+2026-10-29T08:51:28.074303Z,io.github.ryuamarines/robots-txt-checker,,1.0.93058,https://github.com/ryuamarines/ai-factory-platform,streamable-http,Checks if a URL path is allowed by robots.txt. x402 payment required (Base mainnet USDC).
+2026-10-29T08:53:22.780542Z,work.aitpm/knowledge,AI TPM Knowledge,1.0.0,,streamable-http,"Read-only, source-linked AI, architecture, governance and technical product articles from AI TPM."
+2026-10-29T08:59:43.210003Z,io.github.snappysnag/snappysnag,SnappySnag,1.0.0,https://github.com/snappysnag/snappy-snag-mcp,streamable-http,"Flutter in-app bug tracking, visual pin annotations, and device logs directly into your AI IDE."
+2026-10-29T09:02:15.87276Z,io.github.Publicit-Global/publicit-mcp,Publicit,2.1.0,https://github.com/Publicit-Global/publicit-mcp,streamable-http,"Plan, prepare and track connected-TV, street-screen and mobile ad campaigns on Publicit's EU bidder."
+2026-10-29T09:04:17.010236Z,io.github.adam-sari/roundertools,Rounder tools,0.1.0,https://github.com/adam-sari/rounder,,"Local PDF, image, archive and video tools for AI assistants. Files never leave your computer."
+2026-10-29T09:07:16.192602Z,io.github.ydnikolaev/a2ahub,,0.27.0,https://github.com/ydnikolaev/a2ahub,,"Reliable handoffs between autonomous agents, using a Git repository both sides can inspect."
+2026-10-29T09:07:20.18986Z,com.eventcompletion/events,,1.0.0,,streamable-http,"Search source-verified events (sports, festivals, school holidays) and create progress pages."
+2026-10-29T09:09:03.88068Z,io.github.jcschuster/atp_mcp,AtpMcp,0.8.1,https://github.com/jcschuster/AtpMcp,,"Theorem provers for agents: SystemOnTPTP, StarExec, Isabelle and local ATPs, with SZS verdicts."
+2026-10-29T09:09:52.052309Z,io.github.pooriaarab/sleepstudies,,1.0.0,https://github.com/pooriaarab/directory,streamable-http,Find a sleep study clinic or home sleep test near you.
+2026-10-29T09:12:46.684546Z,dev.spacepost/mcp,SpacePost,0.2.1,,,"Send email and manage domains, contacts and webhooks on SpacePost, the Resend-compatible email API."
+2026-10-29T09:16:26.849172Z,me.gaborharsanyi/knowledge,Gabor Harsanyi Professional Knowledge,1.0.0,,streamable-http,"Approved public professional expertise, credentials and job-requirement evidence for Gabor Harsanyi."
+2026-10-29T09:16:49.809575Z,expert.ptl/knowledge,PTL Knowledge,1.0.0,,streamable-http,"PTL services, case studies and cross-site professional evidence with nonbinding discovery guidance."
+2026-10-29T09:17:52.44544Z,com.imanginable/imanginable,Imanginable,0.4.248,,streamable-http,"Plan, render, fix and publish multi-scene AI videos: scripts, storyboards, cast, narration, YouTube."
+2026-10-29T09:21:36.495249Z,io.github.rezearcher/jobs-mcp-server,,0.1.0,https://github.com/rezearcher/jobs-mcp-server,,"Normalized live job postings across 7 ATS platforms. Auto-detect, zero deps, no API key."

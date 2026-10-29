@@ -9,49 +9,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 08:21 UTC
+## Latest list — 2026-10-29 09:22 UTC
 
-New MCP servers published between 2026-10-29 07:19 UTC and 2026-10-29 08:21 UTC.
+New MCP servers published between 2026-10-29 08:21 UTC and 2026-10-29 09:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-29T08-21-43-565738Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-29T09-22-03-276162Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-29 07:20:03 | [io.github.pipeworx-io/xero](https://github.com/pipeworx-io/mcp-xero) | Xero | 0.2.0 | Xero (Accounting) MCP Pack |
-| 2026-10-29 07:20:23 | [io.github.pipeworx-io/xome](https://github.com/pipeworx-io/mcp-xome) | Xome | 0.2.0 | Xome MCP — US residential foreclosure/REO/short-sale auction calendar and prope… |
-| 2026-10-29 07:20:23 | [io.github.pipeworx-io/world-news-feeds](https://github.com/pipeworx-io/mcp-world-news-feeds) | World News Feeds | 0.2.0 | World News Feeds MCP. |
-| 2026-10-29 07:20:30 | [io.github.pipeworx-io/xkcd](https://github.com/pipeworx-io/mcp-xkcd) | Xkcd | 1.1.0 | XKCD MCP — wraps xkcd.com JSON API (free, no auth) |
-| 2026-10-29 07:20:33 | [io.github.pipeworx-io/xposedornot](https://github.com/pipeworx-io/mcp-xposedornot) | Xposedornot | 0.2.0 | XposedOrNot MCP — free breach-exposure lookup by email. |
-| 2026-10-29 07:20:53 | [io.github.pipeworx-io/worldbank-projects](https://github.com/pipeworx-io/mcp-worldbank-projects) | Worldbank Projects | 0.2.0 | World Bank Projects & Operations MCP. |
-| 2026-10-29 07:21:03 | [io.github.pipeworx-io/yelp](https://github.com/pipeworx-io/mcp-yelp) | Yelp | 0.2.0 | Yelp MCP — wraps the Yelp Fusion API (api.yelp.com/v3) |
-| 2026-10-29 07:21:12 | [io.github.pipeworx-io/worms](https://github.com/pipeworx-io/mcp-worms) | Worms | 0.2.0 | WoRMS (World Register of Marine Species) MCP — keyless. |
-| 2026-10-29 07:21:17 | com.apartamentsperlamar/apartments | Apartments Perlamar · Valencia beach | 1.0.0 | Beachfront holiday apartments in Valencia: availability, prices and booking lin… |
-| 2026-10-29 07:21:23 | [io.github.pipeworx-io/zendesk](https://github.com/pipeworx-io/mcp-zendesk) | Zendesk | 0.2.0 | Zendesk MCP Pack — tickets, users, organizations via OAuth. |
-| 2026-10-29 07:21:28 | [io.github.pipeworx-io/ygoprodeck](https://github.com/pipeworx-io/mcp-ygoprodeck) | Ygoprodeck | 0.2.0 | YGOPRODeck MCP — Yu-Gi-Oh! trading card game (TCG) database. Keyless. Sends a U… |
-| 2026-10-29 07:22:04 | [io.github.pipeworx-io/zillow](https://github.com/pipeworx-io/mcp-zillow) | Zillow | 0.2.0 | Zillow Research MCP — housing market data from Zillow's public CSV dumps. |
-| 2026-10-29 07:22:08 | [io.github.pipeworx-io/zippopotam](https://github.com/pipeworx-io/mcp-zippopotam) | Zippopotam | 1.1.0 | Zippopotam MCP — wraps Zippopotam.us ZIP/postal code API (free, no auth) |
-| 2026-10-29 07:22:21 | [io.github.pipeworx-io/zoom](https://github.com/pipeworx-io/mcp-zoom) | Zoom | 0.2.0 | Zoom MCP Pack |
-| 2026-10-29 07:22:49 | [io.github.pipeworx-io/zenquotes](https://github.com/pipeworx-io/mcp-zenquotes) | Zenquotes | 1.1.0 | ZenQuotes MCP — wraps ZenQuotes API (free, no auth) with a dummyjson sibling fa… |
-| 2026-10-29 07:23:58 | [com.codedebut/mcp](https://github.com/kenil9630/codedebut-mcp) | CodeDebut | 1.0.0 | Search new software launches, read product pages, find alternatives and see dai… |
-| 2026-10-29 07:23:59 | [io.github.pipeworx-io/zoho_crm](https://github.com/pipeworx-io/mcp-zoho_crm) | Zoho_crm | 0.2.0 | Zoho CRM MCP Pack — wraps the Zoho CRM API v6 |
-| 2026-10-29 07:24:50 | [io.github.pipeworx-io/zyte](https://github.com/pipeworx-io/mcp-zyte) | Zyte | 0.2.0 | Zyte API MCP — unified web fetch + AI extraction (zyte.com) |
-| 2026-10-29 07:27:36 | [io.writestack/mcp](https://github.com/WriteStack/mcp) | WriteStack | 1.0.0 | Draft & schedule Substack Notes, manage articles, and read stats via WriteStack. |
-| 2026-10-29 07:28:59 | io.github.bannerify/bannerify | Bannerify | 1.0.0 | Generate images and PDFs from your Bannerify templates, or compose an image fro… |
-| 2026-10-29 07:30:51 | com.pictmagic/pictmagic | PictMagic | 1.0.0 | Generate marketplace product images from your product photos, with a quote you… |
-| 2026-10-29 07:44:34 | [io.github.itelo/view-sim](https://github.com/itelo/view-sim) | view-sim | 1.0.0 | See a site on phones, tablets and laptops in Safari, Chrome, Firefox or Zen fra… |
-| 2026-10-29 07:46:54 | com.heycompi/compi | Compi — travel companion | 1.1.1 | Organise trips, daily plans, stays, places, lists and shared expenses in your C… |
-| 2026-10-29 07:49:07 | net.baldfade/baldfade | BaldFade | 1.0.0 | List the bald, buzz cut and fade hairstyles BaldFade can preview. Read-only, no… |
-| 2026-10-29 07:50:34 | in.nityaflow/nityaflow | Nityaflow | 1.0.1 | Build WhatsApp, Sheets and Gmail automations for Indian businesses; check GST c… |
-| 2026-10-29 07:54:07 | io.postmoderno/postmoderno | postmoderno | 1.0.0 | Schedule and publish social posts to Bluesky, Mastodon and X / Twitter by askin… |
-| 2026-10-29 07:56:10 | [io.github.a-lafon/postgres-dba-mcp](https://github.com/a-lafon/postgres-dba-mcp) | Postgres DBA MCP | 0.3.2 | Bounded, read-only PostgreSQL access for AI assistants: nine DBA tools, compact… |
-| 2026-10-29 07:56:13 | [io.github.ROY32172310/qa](https://github.com/ROY32172310/qa) | ego-webqa | 0.4.2 | Deterministic browser delivery checks for AI-generated web pages. |
-| 2026-10-29 07:56:59 | com.onrender.x402-markdown/agent-tools | x402 Agent Tools | 1.4.1 | Pay-per-call web reader (Markdown/RAG chunks) and agent utilities; x402 USDC on… |
-| 2026-10-29 08:04:41 | [io.github.johnsmithxy1mmm-sys/hypersignal-mcp](https://github.com/johnsmithxy1mmm-sys/HyperliquidMCP) | HyperSignal MCP | 1.14.0 | Hyperliquid analytics for AI agents: whale flow, liquidations, funding, risk, s… |
-| 2026-10-29 08:07:39 | [com.revclamp/revclamp-mcp](https://github.com/lhphong09t2/revclamp-mcp) | RevClamp MCP Server | 1.20.10 | Zero-take-rate Stripe 2025-03-31.basil, Visa CE 3.0 & EU/XI VIES VAT guardrails… |
-| 2026-10-29 08:08:29 | com.getvuelo/travel | Vuelo | 1.0.0 | Search, book and pay for flights and hotels, in full or in instalments where el… |
-| 2026-10-29 08:10:02 | [io.github.arthurpanhku/dvalincode](https://github.com/arthurpanhku/dvalincode) |  | 0.22.0 | Deterministic security scanning, no model or API key, plus offline-verifiable p… |
-| 2026-10-29 08:15:43 | io.github.clara-finance/open-financial-mortgage-options | Open Financial Mortgages | 1.0.0 | Ontario, Canada mortgage options, published lender rates and a link to a licens… |
-| 2026-10-29 08:18:20 | io.stockmap/stockmap | StockMap | 1.9.0 | US stock research: a model's nightly 14-day read on each stock, its reasons, an… |
+| 2026-10-29 08:25:24 | io.github.Portuno/corruptopolis | Corruptópolis | 1.0.0 | Satirical meme roguelike for AI agents: one city a day, one shot, a leaderboard… |
+| 2026-10-29 08:28:32 | io.github.e-tara/cardpoints | CardPoints | 1.0.0 | UK loyalty schemes: what points are worth, bonus points offers now, and where e… |
+| 2026-10-29 08:29:53 | io.wonderchat/wonderchat |  | 1.1.0 | AI help desk: set up a website support agent, train it, and work the ticket inb… |
+| 2026-10-29 08:30:39 | [com.kenxcomp/kenotex-mcp](https://github.com/kenxcomp/kenotex-mcp) |  | 1.4.0 | Let your coding agent manage real todos, events, and check-in habits in Kenotex… |
+| 2026-10-29 08:37:16 | ai.trytofu/tofu | Tofu | 1.0.58 | Deploy an app and keep it running: status, logs, versions, domains, databases a… |
+| 2026-10-29 08:39:44 | com.getliftcompass/liftcompass |  | 0.1.0 | Compare protein, creatine and pre-workout by price per serving, third-party tes… |
+| 2026-10-29 08:48:08 | [io.github.akobirjontulqinovfuture/keelyard](https://github.com/akobirjontulqinovfuture/keelyard) | keelyard | 1.2.1 | Proof gate, undo and output trimming for Claude Code, Codex and OpenCode coding… |
+| 2026-10-29 08:48:14 | dev.sparetext/sparetext | Sparetext | 1.4.0 | Send and read real SMS from your own Android phone or iPhone: texts, replies an… |
+| 2026-10-29 08:48:18 | dev.pages.tenderfix-api/tenderfix | Tenderfix | 0.1.0 | Open UK and EU public tenders (Find a Tender, TED) with go/no-go screening. Pai… |
+| 2026-10-29 08:51:24 | io.github.ryuamarines/url-normalizer |  | 1.0.2 | Normalizes and deduplicates a list of URLs. x402 payment required (testnet USDC… |
+| 2026-10-29 08:51:25 | io.github.ryuamarines/email-extractor |  | 1.0.1 | Extracts emails from texts. x402 payment required (testnet USDC). |
+| 2026-10-29 08:51:25 | io.github.ryuamarines/app-store-version |  | 1.0.1 | Checks current App Store version by bundle ID. x402 payment required (testnet U… |
+| 2026-10-29 08:51:26 | [io.github.ryuamarines/text-slugifier](https://github.com/ryuamarines/ai-factory-platform) |  | 1.0.1 | Converts text titles into URL-safe slugs and flags duplicates. x402 paid (Base… |
+| 2026-10-29 08:51:26 | com.aipaidia/paidia | Paidia | 1.23.0 | Small games for AI agents: puzzles, negotiation and dice poker, with chat, repl… |
+| 2026-10-29 08:51:26 | [io.github.ryuamarines/email-validator](https://github.com/ryuamarines/ai-factory-platform) |  | 1.0.92767 | Validates email syntax and MX records. x402 payment required (Base mainnet USDC… |
+| 2026-10-29 08:51:27 | [io.github.ryuamarines/json-schema-validator](https://github.com/ryuamarines/ai-factory-platform) |  | 1.0.92935 | Validates JSON against a JSON Schema, lists violations. x402 payment required (… |
+| 2026-10-29 08:51:28 | [io.github.ryuamarines/robots-txt-checker](https://github.com/ryuamarines/ai-factory-platform) |  | 1.0.93058 | Checks if a URL path is allowed by robots.txt. x402 payment required (Base main… |
+| 2026-10-29 08:53:22 | work.aitpm/knowledge | AI TPM Knowledge | 1.0.0 | Read-only, source-linked AI, architecture, governance and technical product art… |
+| 2026-10-29 08:59:43 | [io.github.snappysnag/snappysnag](https://github.com/snappysnag/snappy-snag-mcp) | SnappySnag | 1.0.0 | Flutter in-app bug tracking, visual pin annotations, and device logs directly i… |
+| 2026-10-29 09:02:15 | [io.github.Publicit-Global/publicit-mcp](https://github.com/Publicit-Global/publicit-mcp) | Publicit | 2.1.0 | Plan, prepare and track connected-TV, street-screen and mobile ad campaigns on… |
+| 2026-10-29 09:04:17 | [io.github.adam-sari/roundertools](https://github.com/adam-sari/rounder) | Rounder tools | 0.1.0 | Local PDF, image, archive and video tools for AI assistants. Files never leave… |
+| 2026-10-29 09:07:16 | [io.github.ydnikolaev/a2ahub](https://github.com/ydnikolaev/a2ahub) |  | 0.27.0 | Reliable handoffs between autonomous agents, using a Git repository both sides… |
+| 2026-10-29 09:07:20 | com.eventcompletion/events |  | 1.0.0 | Search source-verified events (sports, festivals, school holidays) and create p… |
+| 2026-10-29 09:09:03 | [io.github.jcschuster/atp_mcp](https://github.com/jcschuster/AtpMcp) | AtpMcp | 0.8.1 | Theorem provers for agents: SystemOnTPTP, StarExec, Isabelle and local ATPs, wi… |
+| 2026-10-29 09:09:52 | [io.github.pooriaarab/sleepstudies](https://github.com/pooriaarab/directory) |  | 1.0.0 | Find a sleep study clinic or home sleep test near you. |
+| 2026-10-29 09:12:46 | dev.spacepost/mcp | SpacePost | 0.2.1 | Send email and manage domains, contacts and webhooks on SpacePost, the Resend-c… |
+| 2026-10-29 09:16:26 | me.gaborharsanyi/knowledge | Gabor Harsanyi Professional Knowledge | 1.0.0 | Approved public professional expertise, credentials and job-requirement evidenc… |
+| 2026-10-29 09:16:49 | expert.ptl/knowledge | PTL Knowledge | 1.0.0 | PTL services, case studies and cross-site professional evidence with nonbinding… |
+| 2026-10-29 09:17:52 | com.imanginable/imanginable | Imanginable | 0.4.248 | Plan, render, fix and publish multi-scene AI videos: scripts, storyboards, cast… |
+| 2026-10-29 09:21:36 | [io.github.rezearcher/jobs-mcp-server](https://github.com/rezearcher/jobs-mcp-server) |  | 0.1.0 | Normalized live job postings across 7 ATS platforms. Auto-detect, zero deps, no… |
 
 ## Data source
 
