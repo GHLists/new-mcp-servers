@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-10-29T19:28:45.155136Z,io.github.nightingale-collective/receiveparcel,ReceiveParcel,0.1.0,https://github.com/nightingale-collective/receiveparcel,,Create temporary receive-only email inboxes for agent workflows. No signup or API key.
+2026-10-29T19:29:00.800254Z,uk.co.localstreet/localstreet,Localstreet,1.0.0,,streamable-http,"Local businesses, opening hours, events and noticeboards across London boroughs."
+2026-10-29T19:30:00.585616Z,io.github.getcyphrex/cyphrex-mcp,Cyphrex,0.3.0,https://github.com/getcyphrex/platform,streamable-http,"Checks AI agent actions before they run. Signed, RFC 3161 timestamped evidence for audits."
+2026-10-29T19:30:11.41791Z,com.geenuga/geenuga,Geenuga,1.0.0,,streamable-http,Find your home and your car with your own AI assistant. Needs a Geenuga account.
+2026-10-29T19:33:04.146889Z,gg.scrappy/cloud-browser,Scrappy Cloud Browser,1.16.0,,streamable-http,"Cloud browsers for AI agents: saved logins, residential IPs, live human takeover, 57 browser tools."
+2026-10-29T19:33:07.654253Z,site.chatgpt.rlong33.ron-human-task-desk/human-task-desk,Human Task Desk — Ron Long,1.2.0,,streamable-http,"Human infrastructure help within 100 miles of Irvine, CA: logs, cabling plans and runbooks."
+2026-10-29T19:33:14.666088Z,io.github.codedroid-team/codedroid-mcp,CodeDroid,0.1.3,https://github.com/codedroid-team/codedroid-mcp,,"Use your real Android phone from any MCP client: read the screen, tap, type, run tasks and adb."
+2026-10-29T19:33:44.053654Z,com.trygoppa/goppa,Goppa,1.0.0,,streamable-http,"See whether ChatGPT, Google AI and Perplexity name your business, and get the fixes applied."
+2026-10-29T19:39:35.809785Z,com.blueveta/upright,,0.1.0,,,Detects whether a product photo is upright and how many degrees to rotate it.
+2026-10-29T19:40:17.222855Z,io.github.AnshumanAtrey/netintel,NetIntel - IP + Domain Intelligence | WHOIS DNS Geo Port,1.5.3,https://github.com/AnshumanAtrey/netintel,streamable-http,NetIntel - IP & Domain Intelligence | WHOIS DNS Geo Bulk
+2026-10-29T19:41:26.174083Z,com.textforagents/denied-boarding-deferral-auction,Denied-Boarding Deferral Auction,1.0.0,,streamable-http,Gate agent for oversubscribed agent resources: a bounded auction pays the task that yields.
+2026-10-29T19:42:14.521653Z,io.github.Nero-Engine/google-ai-mode-ads,Google AI Mode Ads Tracker,0.1.0,,streamable-http,"Ads Google shows inside AI Mode answers by keyword and country: advertiser, headline, description."
+2026-10-29T19:42:18.744266Z,com.salahflow/mcp,Salah Flow,1.3.0,,streamable-http,"Facts, FAQ answers and guides from Salah Flow, the iOS prayer tracker. Read-only."
+2026-10-29T19:44:49.530295Z,io.github.AnshumanAtrey/zomato-restaurant-scraper,"Zomato Restaurant Scraper - City, Cuisine, Contact",1.0.3,https://github.com/AnshumanAtrey/zomato-restaurant-scraper,streamable-http,"Zomato Restaurant Scraper - City, Cuisine, Phone"
+2026-10-29T19:45:07.103086Z,com.whereboatsanchor/anchorages,Where Boats Anchor,1.0.0,,streamable-http,"Where boats stayed the night, and in what wind, at anchorages worldwide, with tonight's forecast."
+2026-10-29T19:52:07.811091Z,uk.firstmention.api/automaton,,1.0.0,,streamable-http,"Pay-per-call MCP tools run by autonomous AI agents, each call paid with x402 in USDC."
+2026-10-29T19:56:10.591873Z,io.github.maxkuminov/obsidian-mcp,Obsidian MCP Server,0.9.3,https://github.com/maxkuminov/obsidian-mcp,,"Self-hosted agent memory as a markdown vault: semantic and keyword search, wikilink graph, OAuth"
+2026-10-29T19:57:50.588475Z,io.github.crgroves17/okc-property-check,OKC Property Check,1.0.0,,streamable-http,Free flip check for Oklahoma City small-commercial deals on hard-money terms; paid full report.
+2026-10-29T19:58:06.541907Z,io.github.simms2/pressbox-news-wire,Pressbox News Wire,1.0.0,https://github.com/simms2/pressbox-ai-integrations,streamable-http,Search published Pressbox press releases and newsrooms with original source links and dates.
+2026-10-29T19:59:58.269066Z,com.freightright/mcp,Freight Right,1.0.0,,streamable-http,"Freight rates, quote requests and shipment tracking from your Freight Right account."
+2026-10-29T20:00:17.081246Z,io.github.refgrow/mcp,,1.3.0,https://github.com/refgrow/refgrow-mcp,,Model Context Protocol server for Refgrow affiliate program management API
+2026-10-29T20:00:30.934045Z,io.github.airbytehq/airbyte,Airbyte,1.0.0,https://github.com/airbytehq/PyAirbyte,streamable-http,"Build and manage data pipelines, add custom connectors, and chat with your data."
+2026-10-29T20:06:22.914068Z,io.github.normancomics/phantomoperator,,1.1.0,https://github.com/normancomics/PhantomOperator,streamable-http,Authorized privacy and exposure checks for people and agents; USDC on Base via x402.
+2026-10-29T20:07:41.991559Z,io.github.paureis/cloudpin,cloudpin,1.2.0,https://github.com/paureis/cloudpin,,Read-only checks that cloud CLI commands run on the accounts a project pins in .cloudpin.yml.
+2026-10-29T20:08:44.204734Z,com.bazavo/marketplace,Bazavo marketplace,0.1.0,,streamable-http,"Classifieds for AI assistants: sell, buy, rent, hire and find local services, just by asking."
+2026-10-29T20:11:46.082523Z,com.textforagents/cold-chain-custody-excursion-ledger,Cold-Chain Custody Excursion Ledger,1.0.0,,streamable-http,A handling-condition ledger that travels with a sensitive payload across every agent hop.
+2026-10-29T20:14:20.661698Z,io.github.pooriaarab/tmsclinics,,1.0.0,https://github.com/pooriaarab/directory,streamable-http,"Compare TMS clinics, coverage and published costs."
+2026-10-29T20:16:00.060467Z,br.com.binobo/tabelas-fiscais,binobo · Tabelas fiscais da NFS-e e da reforma tributária,1.0.0,,streamable-http,"Brazil NFS-e and tax reform (IBS/CBS) tables: cTribNac, LC 116, NBS, cClassTrib, CST, ISS rates"
