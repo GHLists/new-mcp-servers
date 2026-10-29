@@ -1,0 +1,49 @@
+created_at,server,title,version,repository,transports,description
+2026-10-29T04:20:40.563084Z,com.playfacetoface/play-face-to-face,Play Face to Face,0.1.0,,streamable-http,Create instant multiplayer browser-game rooms friends join from a link. No account or app needed.
+2026-10-29T04:21:10.68256Z,io.github.pipeworx-io/ipma-pt,Ipma Pt,0.2.0,https://github.com/pipeworx-io/mcp-ipma-pt,streamable-http,"IPMA Portugal MCP — weather, UV, sea state, and earthquakes from the Instituto Português do Mar e…"
+2026-10-29T04:21:31.890889Z,io.github.pipeworx-io/isin,Isin,0.2.0,https://github.com/pipeworx-io/mcp-isin,streamable-http,Securities-identifier validation MCP (ISIN / CUSIP).
+2026-10-29T04:21:54.319008Z,io.github.pipeworx-io/isbn,Isbn,0.2.0,https://github.com/pipeworx-io/mcp-isbn,streamable-http,ISBN validation & conversion MCP.
+2026-10-29T04:24:10.004906Z,com.myspainvisa/spain-visa,My Spain Visa: Spain visa helper,1.0.0,,streamable-http,"Spain visa rules 2026, Schengen 90/180 calculator and consulate wait times, by immigration lawyers"
+2026-10-29T04:24:10.876905Z,com.mynomadworld/where-to-live,MyNomadWorld: where should I live?,1.0.0,,streamable-http,"Ranks 197 countries for remote workers: tax, cost of living, climate, safety, visas, internet"
+2026-10-29T04:25:00.544268Z,io.github.sheepk95/the-cartographer,The Cartographer,0.1.0,https://github.com/sheepk95/The-Cartographer,,Ask which agent skills fit a task before you start it: picks from a vetted skill catalogue.
+2026-10-29T04:27:06.268165Z,io.github.pipeworx-io/json,Json,0.2.0,https://github.com/pipeworx-io/mcp-json,streamable-http,JSON tools MCP.
+2026-10-29T04:27:35.835132Z,io.github.pipeworx-io/jsonschema,Jsonschema,0.2.0,https://github.com/pipeworx-io/mcp-jsonschema,streamable-http,JSON Schema validation MCP.
+2026-10-29T04:28:12.568412Z,io.github.pipeworx-io/jwt,Jwt,0.2.0,https://github.com/pipeworx-io/mcp-jwt,streamable-http,JWT decoder MCP.
+2026-10-29T04:29:43.13403Z,io.github.atharv-santosh/tracerlab,,0.1.6,https://github.com/atharv-santosh/tracerlab,,Build and verify Cisco Packet Tracer networks from an AI agent.
+2026-10-29T04:33:58.603609Z,tools.model/model-tools-mcp,model.tools — Zero-Auth Agent Utilities,1.3.0,https://github.com/maceip/model-tools-mcp,streamable-http,"Zero-auth email OTP extractor, KV checkpoints, webhook bins, wake timers, and markdown reader."
+2026-10-29T04:34:34.317251Z,io.github.sumitrmardy/airbnb-listing-details,Airbnb Listing Details,1.0.0,,streamable-http,"Public Airbnb details, amenities, photos, host profile fields and numeric category ratings."
+2026-10-29T04:36:45.942117Z,io.github.Evilander/audrey,,2.1.0,https://github.com/Evilander/Audrey,,"Local-first biological memory for coding agents: recall, consolidation, and pre-action Guard checks."
+2026-10-29T04:39:06.088523Z,ai.probitylabs/wallet-reputation,Probity Wallet Reputation,1.0.4,,streamable-http,"Pre-transaction risk screening for Ethereum addresses: signed score, sanctions, audit trail."
+2026-10-29T04:40:55.287126Z,io.github.pipeworx-io/lorem,Lorem,1.1.0,https://github.com/pipeworx-io/mcp-lorem,streamable-http,"Lorem MCP — placeholder text, generated locally."
+2026-10-29T04:41:25.724013Z,io.github.pipeworx-io/luchtmeetnet,Luchtmeetnet,0.2.0,https://github.com/pipeworx-io/mcp-luchtmeetnet,streamable-http,"Luchtmeetnet MCP — official Netherlands air quality (RIVM Luchtmeetnet, api.luchtmeetnet.nl)"
+2026-10-29T04:42:19.65565Z,com.quasarui/mcp,QuasarUI,1.0.0,https://github.com/quasarui/quasarui-mcp,streamable-http,Find Quasar Framework(Vue) UI Components and paste their source. Free Components need no key.
+2026-10-29T04:44:52.052999Z,io.github.pipeworx-io/markdown,Markdown,0.2.0,https://github.com/pipeworx-io/mcp-markdown,streamable-http,Markdown utilities MCP.
+2026-10-29T04:45:10.623091Z,io.github.pipeworx-io/market-spread,Market Spread,0.2.0,https://github.com/pipeworx-io/mcp-market-spread,streamable-http,market-spread MCP — cross-venue prediction-market landscape scanner.
+2026-10-29T04:46:20.988827Z,io.github.Phonic-Co/phonic,Phonic,0.2.0,,streamable-http,"Create and manage voice agents, discover voices, review conversations, and search Phonic docs."
+2026-10-29T04:46:33.168502Z,com.faxette/faxette,Faxette,0.3.0,https://github.com/goosegods/faxette-plugins,streamable-http,Send a fax to the US or Canada from a chat. The person checks it and pays per fax on Faxette.
+2026-10-29T04:46:33.295771Z,com.faxette/faxette-eu,Faxette EU,0.3.0,https://github.com/goosegods/faxette-plugins,streamable-http,"Send a fax to the EU, the UK, Switzerland and more of Europe from a chat. Pay per fax on Faxette."
+2026-10-29T04:46:51.220006Z,ai.hrum/baro,HRUM 바로,1.0.0,,streamable-http,Draft copy and design changes for a 바로 site; only the site owner can publish them.
+2026-10-29T04:47:08.197564Z,io.github.pipeworx-io/md-dmv,Md Dmv,0.2.0,https://github.com/pipeworx-io/mcp-md-dmv,streamable-http,Maryland DMV MCP — monthly registered-vehicle counts and electric/plug-in hybrid adoption by…
+2026-10-29T04:47:30.590076Z,net.tipmaster/coach,TipMaster Coach,1.0.2,https://github.com/We-The-Flywheel/tipmaster-mcp,streamable-http,"Play your TipMaster soccer prediction game: competitions, confirmed scores, results and standings."
+2026-10-29T04:47:56.295704Z,io.github.Meta-consciousness-AI/mcai-knowledge,元意识知识库,0.2.1,https://github.com/Meta-consciousness-AI/mcai-agent,,元意识学说知识库：术语定义、概念关系与原文出处，供 AI / Agent 通过 MCP 调用
+2026-10-29T04:48:42.176934Z,io.github.aaalzk/dsh2vs,dsh2vs — VS C++ bridge (unofficial),0.1.0,https://github.com/aaalzk/dsh2vs,,"Unofficial, independent (not DeepSeek AI/Microsoft). VS C++ build+debug via MSBuild and cdb."
+2026-10-29T04:53:26.676938Z,io.github.pipeworx-io/mime,Mime,0.2.0,https://github.com/pipeworx-io/mcp-mime,streamable-http,MIME type lookup MCP.
+2026-10-29T04:55:04.453016Z,io.github.pipeworx-io/mockdata,Mockdata,0.2.0,https://github.com/pipeworx-io/mcp-mockdata,streamable-http,Mock data generator MCP.
+2026-10-29T04:55:32.838431Z,io.github.pipeworx-io/mo-dmv,Mo Dmv,0.2.0,https://github.com/pipeworx-io/mcp-mo-dmv,streamable-http,"Missouri DMV MCP — the Department of Revenue's driver and motor-vehicle license offices, with…"
+2026-10-29T05:01:44.763816Z,io.github.pipeworx-io/nato,Nato,0.2.0,https://github.com/pipeworx-io/mcp-nato,streamable-http,Phonetic & Morse code MCP.
+2026-10-29T05:02:02.299956Z,science.transaction.wai/quantum-jobs,WAI Quantum job service,0.2.0,,streamable-http,"A free quantum job service: OpenQASM 3 run, checked and signed, with no account or key."
+2026-10-29T05:03:14.871834Z,dev.moltbound/sandbox,Moltbound Sandbox,1.0.0,,streamable-http,Test-only US sandbox: AI agents get simulated quotes for 20 services; purchases need a passkey.
+2026-10-29T05:03:22.691315Z,io.github.pipeworx-io/neso,Neso,0.2.0,https://github.com/pipeworx-io/mcp-neso,streamable-http,NESO MCP — Great Britain electricity grid open data (api.neso.energy)
+2026-10-29T05:05:16.355473Z,io.github.pipeworx-io/netherlands-tenders,Netherlands Tenders,0.2.0,https://github.com/pipeworx-io/mcp-netherlands-tenders,streamable-http,Netherlands TenderNed MCP — Dutch government public procurement notices (keyless).
+2026-10-29T05:07:27.268939Z,io.fluxtime/fluxtime,FluxTime,0.2.0,,streamable-http,"Read and update your FluxTime goals, projects, tasks, events, reminders and journal time logs."
+2026-10-29T05:07:43.33686Z,io.github.pipeworx-io/nj-mvc,Nj Mvc,0.2.0,https://github.com/pipeworx-io/mcp-nj-mvc,streamable-http,"New Jersey MVC MCP — Motor Vehicle Commission inspection and emission-repair facilities, and the…"
+2026-10-29T05:08:20.606905Z,com.siftclips/sift-clips,Sift Clips,1.0.14,,streamable-http,"Search video footage an editor shared with you by what's on screen, what's said or who's in it."
+2026-10-29T05:09:33.69699Z,io.github.FSQ-lab/autogenesis-appium,AutoGenesis Appium,0.3.1,https://github.com/FSQ-lab/AutoGenesis,,"BDD automation runtime for iOS, Android, and macOS through Appium."
+2026-10-29T05:09:33.836334Z,io.github.FSQ-lab/autogenesis-windows,AutoGenesis Windows,0.3.1,https://github.com/FSQ-lab/AutoGenesis,,BDD automation runtime for Windows desktop applications through pywinauto.
+2026-10-29T05:10:16.519426Z,io.github.YoungsoonLee/korea-data-mcp,Korea Data MCP,0.1.1,https://github.com/YoungsoonLee/korea-data-mcp,,"Korean public data: corporate filings, stock prices, apartment trades, statutes, court rulings"
+2026-10-29T05:14:33.191895Z,com.dunnestates/aspen-penthouse,Dunn Estates Aspen: The Galena Penthouse,1.0.0,,streamable-http,"Live availability, all-in quotes and facts for a ski-in Aspen penthouse for two."
+2026-10-29T05:15:04.288055Z,io.github.chadixearth/graphyloop,GraphyLoop,0.6.0,https://github.com/chadixearth/graphyloop,,"Workflow planner, wave dispatcher, persistent swarm memory, and deploy preflight for AI agents."
+2026-10-29T05:15:59.618623Z,io.github.pipeworx-io/numbers,Numbers,0.2.0,https://github.com/pipeworx-io/mcp-numbers,streamable-http,Number utilities MCP.
+2026-10-29T05:16:31.038308Z,io.github.b1tninja/hardly,hardly,1.0.0,https://github.com/b1tninja/hardly,,Generic HAR analysis MCP server: index and query captures without burning tokens on raw files.
+2026-10-29T05:17:16.112642Z,io.github.pipeworx-io/ny-dmv,Ny Dmv,0.2.0,https://github.com/pipeworx-io/mcp-ny-dmv,streamable-http,"New York State DMV MCP — registered vehicles and EV adoption by county/ZIP/make, DMV office…"
+2026-10-29T05:20:31.563052Z,io.github.snmzzcenk/4dgspl,4dgspl.at — 4D Gaussian Splatting,0.1.0,https://github.com/snmzzcenk/4dgspl-tools,,Turn multi-camera video or Blender renders into 4D Gaussian Splatting (4DGS) on 4dgspl.at.
