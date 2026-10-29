@@ -1,0 +1,39 @@
+created_at,server,title,version,repository,transports,description
+2026-10-29T11:22:27.865109Z,io.toll402/toll402,toll402 – EU & Nordic Data (x402),1.0.0,https://github.com/AtlasDataDenmark/toll402,streamable-http,"Pay-per-call EU & Nordic data for AI agents: VAT/VIES, MiCA, ECB FX, holidays, DK power. x402."
+2026-10-29T11:26:27.092555Z,io.github.munhq/invisiprompt,invisiprompt,1.0.0,,streamable-http,"Answer a question about what is on the screen or in a recording; solves text, images and audio."
+2026-10-29T11:26:29.497271Z,io.github.munhq/socialreach,SocialReach,1.0.0,,streamable-http,"Find developer-community threads worth replying to, and draft the reply."
+2026-10-29T11:28:04.345961Z,com.ai-agents-pitstop/pitstop-free,Pitstop Free,1.0.0,,streamable-http,"A memory for your assistant, and your yes on the exact content before it sends or changes anything."
+2026-10-29T11:31:08.218192Z,io.github.erikras/store-canary,Store Canary,1.0.0,https://github.com/erikras/fire-site,streamable-http,"Read-only health check for WooCommerce stores: HTTPS, WooCommerce, cart, checkout, payments."
+2026-10-29T11:31:54.513227Z,io.github.huzaifaasim017/open017,Open017,0.1.0,,streamable-http,"AI-to-AI social network: read discussions, post, reply, react, follow, and search without login."
+2026-10-29T11:32:00.741318Z,ai.exitvalue/ma-multiples,ExitValue.ai M&A Multiples,1.0.0,,streamable-http,Median EV/EBITDA and EV/Revenue multiples by industry and deal size from real M&A transactions.
+2026-10-29T11:32:09.819125Z,org.proofkit/partner,ProofKit Partner,1.0.0,,streamable-http,"Run your ProofKit VPN partner account from an assistant: subscribers, links, limits, usage."
+2026-10-29T11:32:14.716463Z,com.fourwardhq/fourward,Fourward AI visibility tools,1.0.0,,streamable-http,Score any website's AI search visibility out of 100 and see which of 20 AI crawlers can read it.
+2026-10-29T11:33:49.169955Z,ai.flowlines/flowlines,Flowlines,2.0.0,https://github.com/flowlines-ai/plugins,streamable-http,"MCP observability: analyse MCP server usage, investigate sessions, and instrument MCP servers."
+2026-10-29T11:35:46.045542Z,io.github.DarkKitty-w/lock-autopsy,,0.2.0,https://github.com/DarkKitty-w/lock-autopsy,,"On-chain token lock & vesting auditor: cancelable, revocable, transferable flags."
+2026-10-29T11:38:17.711447Z,ai.marketcode/marketcode,MarketCode,1.0.0,,streamable-http,UK property intelligence with evidence behind the numbers.
+2026-10-29T11:38:28.122759Z,net.dxrating/dxrating,DXRating,1.0.0,https://github.com/gekichumai/dxrating,streamable-http,"maimai DX songs, charts and internal levels, and rating and Best 50 calculators, from DXRating"
+2026-10-29T11:40:40.477264Z,app.ollav/ollav,Ollav,1.1.0,https://github.com/ollav-app/ollav-mcp,streamable-http,Share HTML prototypes as live links; read element-pinned review comments; publish new versions.
+2026-10-29T11:41:07.511352Z,io.github.Moe03/convocore,Convocore,2.6.15,https://github.com/Moe03/convocore-mcp,streamable-http,"Build, test and manage customer-facing AI voice and chat agents (web, WhatsApp, phone) from chat."
+2026-10-29T11:41:20.054402Z,io.github.qso-graph/jt-mcp,,0.2.0,https://github.com/qso-graph/jt-mcp,,"WSJT-X over UDP for AI apps: status, decodes, who is calling CQ, stations heard, WSPR. Read-only."
+2026-10-29T11:45:46.107491Z,com.copantry/copantry,CoPantry,3.1.0,,streamable-http,"Your household recipes, pantry, meal plan and shopping lists."
+2026-10-29T11:46:15.398174Z,io.github.realist99/dolfdarts-mcp,DolfDarts Dart Game Encyclopedia,0.1.0,,streamable-http,"Rules, scoring and strategy for 200+ dart games, plus the official WDFF rules of DOLF (dart-golf)."
+2026-10-29T11:46:29.951671Z,coach.dara/dara,Dara,1.0.0,,streamable-http,"A club coaching platform: plan sessions, draw plays, tag match video and build team-talk decks."
+2026-10-29T11:46:42.915666Z,io.github.prashantsinghmangat/tracebug,,1.11.3,https://github.com/prashantsinghmangat/tracebug-ai,,"AI agents read TraceBug bug reports (console, network, replay, repro timeline) from local disk."
+2026-10-29T11:51:08.353414Z,io.github.datenoio/iterabledata,IterableData,1.1.0,https://github.com/datenoio/iterabledata,,"Streaming read, convert, and inspect 100+ formats. Install iterabledata[mcp] and run iterable-mcp."
+2026-10-29T11:51:08.972254Z,io.printdash/printdash,Printdash,0.6.0,,streamable-http,"Online printing for Australia: products, exact prices, quotes, artwork checks and orders."
+2026-10-29T11:57:43.839439Z,io.github.28naem-del/mnemosyne,Mnemosyne,3.0.0-rc.3,https://github.com/28naem-del/mnemosyne,,Evidence-tracked local memory MCP server: one SQLite file; corrections retire dependent memories.
+2026-10-29T12:01:03.950052Z,io.github.pooriaarab/aiagencies,,1.0.0,https://github.com/pooriaarab/directory,streamable-http,Find an AI agency for your next project.
+2026-10-29T12:01:55.944331Z,io.github.pooriaarab/aigovernancetools,,1.0.0,https://github.com/pooriaarab/directory,streamable-http,"Compare AI governance, risk and compliance software."
+2026-10-29T12:02:35.014552Z,com.tallybuy/tallybuy,Tallybuy,0.1.0,,streamable-http,"Price comparison for Germany and Austria. Read-only, no account. Shop links carry a commission."
+2026-10-29T12:02:45.569948Z,io.github.pooriaarab/gpuclouds,,1.0.0,https://github.com/pooriaarab/directory,streamable-http,Compare GPU clouds for training and inference.
+2026-10-29T12:03:37.661986Z,io.github.pooriaarab/voiceagents,,1.0.0,https://github.com/pooriaarab/directory,streamable-http,"Compare AI voice agents, AI receptionists and voice AI APIs."
+2026-10-29T12:06:02.717146Z,io.github.pooriaarab/mcpdirectory,,1.0.0,https://github.com/pooriaarab/directory,streamable-http,Find MCP servers for the work you need to do.
+2026-10-29T12:08:27.304254Z,events.thisweekend/this-weekend,This Weekend (이번 주말),1.8.0,,streamable-http,"Festivals, shows and exhibitions across South Korea, searchable by date and area. No auth."
+2026-10-29T12:11:02.230577Z,io.github.ecstatica/ggbank-receipt,"Receipt — sign an agent's work, verify it offline",1.0.0,https://github.com/ecstatica/ggbank-receipt,,"Ed25519 receipts over work artifacts: issue and verify offline, no account, no chain, no network."
+2026-10-29T12:16:50.666964Z,pro.megahard/coins,Crypto prices and ZEC ETF flows,1.0.0,,streamable-http,"Live USD prices for the top 100 cryptocurrencies, plus a daily BUY/HOLD/SELL signal for Zcash."
+2026-10-29T12:16:51.17045Z,pro.megahard/zec,ZEC ETF flows indicator,1.0.0,,streamable-http,"Daily BUY/HOLD/SELL signal for Zcash from US spot ETF creations and redemptions, with history."
+2026-10-29T12:17:01.435424Z,io.github.magnusmage/cohort-mcp,,0.1.0,https://github.com/magnusmage/cohort,,"Shared AI memory for teams: a git vault of markdown, human-approved, injection-safe, local-only."
+2026-10-29T12:17:01.435955Z,io.github.turbyho/datasheet-lens,,0.1.0,https://github.com/turbyho/datasheet-lens,,"Component datasheets (PDF) for LLM agents: index, search, original pages; BOM and CAD checks"
+2026-10-29T12:17:03.231537Z,io.github.mshegolev/allure-testops-mcp,,0.9.4,https://github.com/mshegolev/allure-testops-mcp,,"Allure TestOps MCP — projects, launches, test cases, test results via REST API."
+2026-10-29T12:17:35.743168Z,dev.repomemory/repomemory,RepoMemory,1.0.0,,streamable-http,"Shared project memory for coding agents: decisions, lessons, guardrails and tasks per repository."
+2026-10-29T12:17:50.939278Z,io.github.AnshumanAtrey/yt-dlp-video-link-extractor,"yt-dlp Video Link Extractor - Any URL to Links, 1000+ Sites",0.1.2,https://github.com/AnshumanAtrey/yt-dlp-video-link-extractor,streamable-http,"yt-dlp Video Link Extractor - Any URL to Links, 1000+ Sites"
