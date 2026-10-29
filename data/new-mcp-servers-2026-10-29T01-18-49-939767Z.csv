@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-10-29T00:23:19.218367Z,io.github.nops-io/clara,Clara by nOps,1.0.0,https://github.com/nops-io/clara-mcp,streamable-http,"FinOps assistant: query AWS, GCP and Azure cost, commitments, budgets and reports."
+2026-10-29T00:24:48.496412Z,com.devopscollab/mcp,DevOpsCollab,1.0.0,https://github.com/DOCLLC/web,streamable-http,"Senior LatAm engineers for US teams. Facts, role fit, and staffing requests."
+2026-10-29T00:28:38.095429Z,io.github.janishkumar/h1b-sponsor-mcp,H-1B Sponsor,0.1.0,https://github.com/janishkumar/h1b-sponsor-mcp,,Is this company still sponsoring H-1Bs and green cards? Trends from DOL and USCIS filings.
+2026-10-29T00:30:00.634826Z,io.github.Kromatic-Innovation/krobot,,2.0,,streamable-http,Kromatic's public MCP server for read-only access to the Kromatic knowledge base.
+2026-10-29T00:37:47.19081Z,app.aalto/aalto,Aalto,1.0.0,,streamable-http,"FF&E product library for interior designers. Connect Claude, ChatGPT and Cursor."
+2026-10-29T00:37:47.335007Z,ca.kay1electric/kay1-electric,Kay1 Electric (Vancouver electrician),1.1.0,,streamable-http,"Licensed electrician in Coquitlam & Greater Vancouver, BC: services, areas, free estimate requests."
+2026-10-29T00:37:51.045276Z,com.tryoids/agentcitywars,Agent City Wars,1.0.0,,streamable-http; streamable-http,"Agent City Wars: a persistent strategy game played by AI agents on Oids. One turn a day, over MCP."
+2026-10-29T00:37:53.160756Z,com.zoosial/zoosial,Zoosial,1.0.0,,streamable-http,"Social media API for AI agents: publish, DMs, comments, Meta ads and leads."
+2026-10-29T00:39:48.603455Z,app.vercel.olothea-research/olothea,Olothea — Collaborative Agent Research,0.6.0,,streamable-http,"Open agent research: read provisional claims, submit questions, arguments and resource offers."
+2026-10-29T00:45:26.132577Z,io.github.oidsdev/agentcitywars,Agent City Wars,1.0.0,,streamable-http,"Agent City Wars: a persistent strategy game played by AI agents on Oids. One turn a day, over MCP."
+2026-10-29T00:45:50.113259Z,dev.reachsocial/social-data,ReachSocial,0.3.1,,streamable-http,"Instagram, X, TikTok, YouTube, Facebook and Reddit data. Approved OAuth or API-key access required."
+2026-10-29T00:46:15.87844Z,io.snapvisor/snapvisor,SnapVisor,1.0.1,,streamable-http,"Visual regression testing over MCP: upload screenshots, review diffs, approve. No CI needed."
+2026-10-29T00:48:27.500349Z,io.github.hashscraper/mcp,,0.1.0,https://github.com/hashscraper/mcp,,"Coupang top 30 and public web data bots (Naver, Instagram, Olive Young, maps, reviews) for AI agents"
+2026-10-29T00:53:01.937636Z,io.github.Pantheonn3D/cuecaps-mcp,Cuecaps,0.1.0,https://github.com/Pantheonn3D/cuecaps-mcp,,"Animated word-by-word captions for your video and audio files, rendered on your machine by Cuecaps."
+2026-10-29T00:57:03.599388Z,io.github.seayniclabs/bench,Bench,0.4.3,https://github.com/seayniclabs/bench,,"USB hardware discovery for AI tools: find maker boards, serial ports and chips."
+2026-10-29T01:02:27.993188Z,io.github.pipeworx-io/alpaca,Alpaca,0.2.0,https://github.com/pipeworx-io/mcp-alpaca,streamable-http,Alpaca MCP — real-time US stock market data via the Alpaca Market Data API (data.alpaca.markets…
+2026-10-29T01:04:06.970874Z,io.github.pipeworx-io/amtrak,Amtrak,0.2.0,https://github.com/pipeworx-io/mcp-amtrak,streamable-http,"Amtrak MCP — live Amtrak train tracking via the community Amtraker API (api-v3.amtraker.com, a…"
+2026-10-29T01:04:20.484234Z,com.bot2botlabs/loop-desk,Loop Desk,1.0.0,,streamable-http,"Agent-payable open-loop tracker for refunds, returns, and asks with TRACE receipts."
+2026-10-29T01:04:20.658785Z,com.bot2botlabs/warranty-desk,Warranty Desk,1.0.0,,streamable-http,US brand/manufacturer warranty lookup with cited text and TRACE receipts.
+2026-10-29T01:08:39.79237Z,com.bokdaeri/consultation,Bokdaeri,1.0.0,,streamable-http,Connect with lawyers in South Korea through user-confirmed consultation requests.
+2026-10-29T01:15:26.531469Z,io.github.darwin-studios/owned-antv-chart,Darwin-owned AntV Charts,0.1.0,,streamable-http,"Darwin-hosted AntV bar, column and line charts. Free rendering with bounded PNG outputs."
+2026-10-29T01:16:34.806374Z,ai.ictihad/ictihad-ai,İçtihad AI,1.0.0,,streamable-http,"Turkish law research: court decisions, legislation, deadline and fee calculators, case files."
+2026-10-29T01:18:05.327919Z,ai.brownmatter/brainz,Brainz,0.1.0,,streamable-http,Shared product-knowledge graph for AI agent fleets — vault tools + agent self-signup over MCP.
