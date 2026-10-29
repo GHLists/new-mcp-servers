@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-10-29T22:26:23.498576Z,io.github.dasasian/gdocs-mcp,,0.7.0,https://github.com/dasasian/gdocs-mcp,,"Treat a Google Doc like a local file: content editing, tracked-changes review, comments, tables."
+2026-10-29T22:26:35.615986Z,io.github.course-code-framework/coursecode,CourseCode Framework,0.4.3,https://github.com/course-code-framework/coursecode,,"Preview, screenshot, lint, and test SCORM, cmi5, and LTI courses built with CourseCode Framework."
+2026-10-29T22:26:44.513396Z,io.github.Veduis/wcag-compliance-mcp,WCAG 2.2 Compliance,1.0.0,https://github.com/Veduis/wcag-compliance-mcp,,"WCAG 2.2 audits with corrected markup, verified fix examples, and U.S. ADA deadlines."
+2026-10-29T22:28:55.54604Z,dev.northparkrich/banking,NorthPark Banking API,2.0.0,,streamable-http,"Demo banking MCP server: accounts, transactions and payments. OAuth 2.1 with DPoP."
+2026-10-29T22:33:32.948675Z,dog.bringthe/bringthedog,BringThe.dog,1.0.0,,streamable-http,Find UK dog-friendly places graded on how welcome dogs really are. Suggest and review places.
+2026-10-29T22:41:20.817623Z,io.github.Mila-Pirate/agent-university-empresas,,1.0.0,,streamable-http,Dados de CNPJ com proveniência certificada. Ideal para compliance e due diligence.
+2026-10-29T22:44:34.822135Z,food.strega/strega,Strega Recipes,0.3.0,,streamable-http,"Ad-free recipes with amounts in every step: search, scale, plan meals, build shopping lists."
+2026-10-29T22:46:33.027471Z,ai.gtmworks/apollo-audit,Apollo.io Audit by GTM Works,1.0.0,,streamable-http,"Free, read-only Apollo.io audit: duplicate accounts, double-enrolled contacts, stalled workflows."
+2026-10-29T22:46:36.781013Z,io.github.jessejohnsohn/corium21,Corium 21 Skin Tools,1.0.0,,streamable-http,"Decode skincare ingredient labels (1% line, % ranges, what each does) and get US dry skin forecasts."
+2026-10-29T22:48:11.314958Z,app.agentguestbook/agent-guestbook,,1.0.0,,streamable-http,Open guestbook for AI agents: read messages and leave a human-reviewed message.
+2026-10-29T22:48:29.358664Z,app.blogmaker/blogmaker,Blogmaker,1.0.0,,streamable-http,"Write and publish blog content, manage native design and settings, and read analytics in Blogmaker."
+2026-10-29T23:00:48.308044Z,dev.dynjandi/mcp,Dynjandi,0.1.0,,streamable-http,"Manage a Dynjandi image workspace, build variant URLs and read the docs, with a workspace API key."
+2026-10-29T23:02:29.448857Z,co.schoolscope/mcp,SchoolScope,3.5.0,,streamable-http,"California school data for AI agents — scores, profiles, comparisons, feeder paths, UC pipelines."
+2026-10-29T23:07:27.095952Z,io.github.kareeem380/sketfly,,1.0.0,https://github.com/kareeem380/sketfly,streamable-http,"Design mobile app screens with AI — describe your app, get linked screens instantly."
+2026-10-29T23:07:53.186241Z,io.github.zerohourzulu/irontrellis-gateway,,1.0.0-rc.2,https://github.com/zerohourzulu/irontrellis,,"Local MCP gateway: approved tools behind a signed authority check, per call or as exactly-once jobs"
+2026-10-29T23:07:53.669389Z,io.github.zerohourzulu/irontrellis-evidence,,1.0.0-rc.2,https://github.com/zerohourzulu/irontrellis,,Local MCP server that copies selected files into an evidence packet while the agent holds authority
+2026-10-29T23:12:47.641881Z,io.launchtape/launch-tape,Launch Tape,1.0.0,,streamable-http,"Recorded pump fun (Solana memecoin) graduation data: coins, early trades, wallets, outcomes."
+2026-10-29T23:14:28.223124Z,co.submit/submit,Submit.co,0.1.0,,streamable-http,"Where to launch a startup: researched directories, launch platforms, newsletters and press."
+2026-10-29T23:15:53.442098Z,fr.registers/registers,Registers,1.0.0,,streamable-http,"French public registers: companies (SIRENE, BODACC) and real estate (cadastre, DVF, DPE, risks)."
+2026-10-29T23:17:14.117935Z,com.basecamp/mcp,Basecamp,0.2.26,,streamable-http,"Basecamp's official server: projects, to-dos, cards, messages, docs, schedules, and Campfire."

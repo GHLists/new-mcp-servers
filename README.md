@@ -9,38 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 22:19 UTC
+## Latest list — 2026-10-29 23:19 UTC
 
-New MCP servers published between 2026-10-29 21:20 UTC and 2026-10-29 22:19 UTC.
+New MCP servers published between 2026-10-29 22:19 UTC and 2026-10-29 23:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-29T22-19-37-084921Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-29T23-19-43-922086Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-29 21:21:07 | com.humanmailbox/mailbox | Human Mailbox | 1.0.0 | A physical postal address in Germany for AI agents. A human opens, scans and fo… |
-| 2026-10-29 21:21:36 | io.github.Nero-Engine/china-buy-check | Taobao & 1688 Buy Checker | 0.1.0 | Buy or avoid verdict for Taobao, Tmall and 1688 listings: fake brand flag, sell… |
-| 2026-10-29 21:24:32 | [io.github.Sparkflights-com/sparkflights](https://github.com/Sparkflights-com/sparkflights-mcp) | Sparkflights | 1.0.0 | Search verified flight fares by city, month, cabin and price, with a link to bo… |
-| 2026-10-29 21:31:17 | [io.github.thiazzz/smart-glasses-atlas](https://github.com/thiazzz/smart-glasses-atlas) | Smart Glasses Atlas | 1.0.0 | Smart glasses research and regional buying links; affiliate links may earn comm… |
-| 2026-10-29 21:31:17 | [io.github.thiazzz/smart-rings-atlas](https://github.com/thiazzz/smart-rings-atlas) | Smart Rings Atlas | 1.0.0 | Smart ring research and regional buying links; affiliate links may earn commiss… |
-| 2026-10-29 21:31:18 | [io.github.thiazzz/maker-machines-atlas](https://github.com/thiazzz/maker-machines) | Maker Machines Atlas | 1.0.0 | Machine research, calculators and buying links; affiliate links may earn commis… |
-| 2026-10-29 21:33:53 | [io.github.BSVanon/petasats-mcp](https://github.com/BSVanon/petasats-mcp) | PetaSats | 0.2.1 | Buy BSV with USDC on Base through a local non-custodial MCP server. |
-| 2026-10-29 21:35:18 | com.doseedo/film-score | Doseedo Film Score: spot a video, play… | 0.21.0 | Score video as an agent: cue sheet from the cut, 50+ AI instruments play your M… |
-| 2026-10-29 21:37:01 | com.certmadeeasy/exam-practice | Cert Made Easy | 1.0.0 | Look up certification exams and practise free exam-style questions with explana… |
-| 2026-10-29 21:43:24 | [io.github.adel-s/frigate-auth-mcp](https://github.com/adel-s/frigate-auth-mcp) | Frigate Auth | 0.1.1 | MCP server with authentication for Frigate NVR (authenticated port, viewer role) |
-| 2026-10-29 21:52:45 | com.wallible/core | Wallible | 0.2.0 | Your Wallible portfolios, holdings and backtests, plus ETF, share and bond sear… |
-| 2026-10-29 21:54:12 | tools.rivo/mcp | Rivo Tools | 1.0.0 | FiveM and GTA V tools: convert, merge, optimize and build resources, and make A… |
-| 2026-10-29 21:54:41 | [com.joyautomart/mcp](https://github.com/www-joyautomart-com/mcp-server) | JOY Automart | 1.2.0 | Search car parts and used/reconditioned vehicle listings in Bangladesh (BDT pri… |
-| 2026-10-29 22:01:44 | app.easycircuit/easycircuit | EasyCircuit | 1.0.0 | Electronics prototyping: real parts and pinouts, wiring checks, and shareable c… |
-| 2026-10-29 22:04:36 | io.github.leo9/brek-direct-booking | Brek — Direct Booking Finder | 2.2.0 | Find property-manager direct booking pages for the same vacation rentals listed… |
-| 2026-10-29 22:11:48 | app.netlify.x402-preflight-grokbot/usdc-rpc-reference | USDC & RPC Reference (free) | 1.0.0 | Free read-only data: verified USDC addresses and EIP-712 domains, measured RPC… |
-| 2026-10-29 22:14:02 | [io.checkflow/mcp](https://github.com/checkflowio/checkflow-mcp) | CheckFlow | 3.0.0 | Run checklists, complete tasks and build process templates in your CheckFlow wo… |
-| 2026-10-29 22:15:50 | net.vareen/vaia | vareen.net (Vaia) | 1.0.0 | Answers about vareen.net from its website: products, technical data, comparison… |
-| 2026-10-29 22:16:46 | dev.redbison/mcp | RedBison | 2.1.0 | 500+ free tools over MCP: dev, text and security utilities, 230+ calculators. N… |
-| 2026-10-29 22:17:09 | com.intelligencepick/picks | Intelligence Pick | 1.0.0 | AI picks for every product category: the product an AI model would buy, why, an… |
-| 2026-10-29 22:17:19 | io.nightbreak/forge | Nightbreak Forge | 1.0.0 | Read-only knowledge of Nightbreak Minecraft plugins: wiki, source, config schem… |
-| 2026-10-29 22:17:46 | rentals.slipstream/slipstream | Slipstream: short term rental analytics | 1.0.0 | Read-only analytics for short-term rentals: bookings, occupancy, forecasts, rev… |
-| 2026-10-29 22:18:20 | com.tileset/tileset | TileSet | 1.0.0 | Live social feeds and review widgets for any website, set up by your AI agent. |
-| 2026-10-29 22:19:00 | com.vehiclehistorybyvin/vehicle-history-by-vin | Vehicle History by VIN | 1.0.0 | Quote a $9.99 vehicle history report by VIN, open Stripe Checkout for the human… |
+| 2026-10-29 22:26:23 | [io.github.dasasian/gdocs-mcp](https://github.com/dasasian/gdocs-mcp) |  | 0.7.0 | Treat a Google Doc like a local file: content editing, tracked-changes review,… |
+| 2026-10-29 22:26:35 | [io.github.course-code-framework/coursecode](https://github.com/course-code-framework/coursecode) | CourseCode Framework | 0.4.3 | Preview, screenshot, lint, and test SCORM, cmi5, and LTI courses built with Cou… |
+| 2026-10-29 22:26:44 | [io.github.Veduis/wcag-compliance-mcp](https://github.com/Veduis/wcag-compliance-mcp) | WCAG 2.2 Compliance | 1.0.0 | WCAG 2.2 audits with corrected markup, verified fix examples, and U.S. ADA dead… |
+| 2026-10-29 22:28:55 | dev.northparkrich/banking | NorthPark Banking API | 2.0.0 | Demo banking MCP server: accounts, transactions and payments. OAuth 2.1 with DP… |
+| 2026-10-29 22:33:32 | dog.bringthe/bringthedog | BringThe.dog | 1.0.0 | Find UK dog-friendly places graded on how welcome dogs really are. Suggest and… |
+| 2026-10-29 22:41:20 | io.github.Mila-Pirate/agent-university-empresas |  | 1.0.0 | Dados de CNPJ com proveniência certificada. Ideal para compliance e due diligen… |
+| 2026-10-29 22:44:34 | food.strega/strega | Strega Recipes | 0.3.0 | Ad-free recipes with amounts in every step: search, scale, plan meals, build sh… |
+| 2026-10-29 22:46:33 | ai.gtmworks/apollo-audit | Apollo.io Audit by GTM Works | 1.0.0 | Free, read-only Apollo.io audit: duplicate accounts, double-enrolled contacts,… |
+| 2026-10-29 22:46:36 | io.github.jessejohnsohn/corium21 | Corium 21 Skin Tools | 1.0.0 | Decode skincare ingredient labels (1% line, % ranges, what each does) and get U… |
+| 2026-10-29 22:48:11 | app.agentguestbook/agent-guestbook |  | 1.0.0 | Open guestbook for AI agents: read messages and leave a human-reviewed message. |
+| 2026-10-29 22:48:29 | app.blogmaker/blogmaker | Blogmaker | 1.0.0 | Write and publish blog content, manage native design and settings, and read ana… |
+| 2026-10-29 23:00:48 | dev.dynjandi/mcp | Dynjandi | 0.1.0 | Manage a Dynjandi image workspace, build variant URLs and read the docs, with a… |
+| 2026-10-29 23:02:29 | co.schoolscope/mcp | SchoolScope | 3.5.0 | California school data for AI agents — scores, profiles, comparisons, feeder pa… |
+| 2026-10-29 23:07:27 | [io.github.kareeem380/sketfly](https://github.com/kareeem380/sketfly) |  | 1.0.0 | Design mobile app screens with AI — describe your app, get linked screens insta… |
+| 2026-10-29 23:07:53 | [io.github.zerohourzulu/irontrellis-gateway](https://github.com/zerohourzulu/irontrellis) |  | 1.0.0-rc.2 | Local MCP gateway: approved tools behind a signed authority check, per call or… |
+| 2026-10-29 23:07:53 | [io.github.zerohourzulu/irontrellis-evidence](https://github.com/zerohourzulu/irontrellis) |  | 1.0.0-rc.2 | Local MCP server that copies selected files into an evidence packet while the a… |
+| 2026-10-29 23:12:47 | io.launchtape/launch-tape | Launch Tape | 1.0.0 | Recorded pump fun (Solana memecoin) graduation data: coins, early trades, walle… |
+| 2026-10-29 23:14:28 | co.submit/submit | Submit.co | 0.1.0 | Where to launch a startup: researched directories, launch platforms, newsletter… |
+| 2026-10-29 23:15:53 | fr.registers/registers | Registers | 1.0.0 | French public registers: companies (SIRENE, BODACC) and real estate (cadastre,… |
+| 2026-10-29 23:17:14 | com.basecamp/mcp | Basecamp | 0.2.26 | Basecamp's official server: projects, to-dos, cards, messages, docs, schedules,… |
 
 ## Data source
 
