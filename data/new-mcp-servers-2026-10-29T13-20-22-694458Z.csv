@@ -1,0 +1,41 @@
+created_at,server,title,version,repository,transports,description
+2026-10-29T12:23:40.071554Z,io.github.y110692/mixerai-mcp,Mixer AI,1.0.0,https://github.com/y110692/mixerai-mcp,streamable-http,"Create and edit images, video, music and voice with 100+ AI models and Canvas."
+2026-10-29T12:27:06.78318Z,com.oilpicker/oilpicker,OilPicker,1.0.0,,streamable-http,"Korean local-currency fuel discounts: rates, effective fuel prices, OilPicker deep links."
+2026-10-29T12:27:56.897347Z,io.github.reowens/qsys-mcp,Q-SYS MCP,0.6.1,https://github.com/reowens/qsys-tools,,Control QSC Q-SYS systems over QRC from AI agents or Claude.
+2026-10-29T12:29:39.459802Z,dk.selskabsinfo/cvr,SelskabsInfo — Danish company data,1.0.0,,streamable-http,"Danish company data from CVR: owners, management, accounts, credit risk, court cases, bankruptcies."
+2026-10-29T12:39:49.340534Z,com.fincodesapi/fincodesapi,Fin Codes API,1.0.0,,streamable-http,"Validate IBANs and bank codes, verify payee names, and screen names against sanctions lists."
+2026-10-29T12:41:45.951068Z,io.usefulapi/toconline,TOConline MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read TOConline customers, suppliers, products, sales documents, receipts and purchases."
+2026-10-29T12:42:53.437174Z,com.rrrfirstchat/uxen,Uxen,1.0.0,,streamable-http,"Your Telegram, WhatsApp, Instagram, mail and calendar in Claude or ChatGPT. Never sends messages."
+2026-10-29T12:43:15.251118Z,io.github.smeet666/mcp-ptitchef,,1.0.2,https://github.com/smeet666/mcp-ptitchef,,"Search Ptitchef recipes, read one, and rescale it to any servings. No API key."
+2026-10-29T12:45:40.892486Z,app.runsentinel/sentinel,Sentinel for Stacks,0.35.0,,streamable-http,"Stacks contract monitoring: add a watch in one line, get alerts. Hosted, browser sign-in."
+2026-10-29T12:46:00.896709Z,nl.eastpole.sidekick/indesign,Sidekick for InDesign,1.0.35,,,Lets Claude (or any other AI assistant) work in your open Adobe InDesign documents.
+2026-10-29T12:46:05.855141Z,io.github.vortex-303/vortex-notes,Vortex Notes,0.1.10,https://github.com/vortex-303/vortex-notes,,"E2E-encrypted markdown notes as shared memory for you and your agents, with local semantic search."
+2026-10-29T12:46:42.27792Z,io.github.coroniumio/coronium-proxy-mcp,Coronium mobile proxies,2.2.0,https://github.com/coroniumio/coronium-proxy-mcp,,"Manage your Coronium 4G/5G mobile proxies: test, rotate, replace, plans, stock and quotes."
+2026-10-29T12:46:43.822999Z,ge.fxhub/rates,FXHUB,1.0.0,,streamable-http,"Live FXHUB exchange rates in Georgia: online and cash, amount calculator, hours and limits."
+2026-10-29T12:46:56.127641Z,io.github.purasim/purasim-mcp,PuraSIM travel eSIM,1.0.0,https://github.com/purasim/purasim-mcp,streamable-http,Search and compare PuraSIM travel eSIM data plans for 187 countries and get a link to buy them.
+2026-10-29T12:47:13.418997Z,com.despromesses/declarations,DesPromesses,1.0.0,,streamable-http,Déclarations sourcées des candidats à la présidentielle française 2027 (lecture seule).
+2026-10-29T12:47:34.566771Z,io.github.maggat/hardware-wallet-chooser,,1.0.0,,streamable-http,"Independent hardware wallet directory (BitBox, Ledger, Trezor): official descriptions, checklist"
+2026-10-29T12:47:35.71911Z,io.github.maggat/kryptoskatt-k4,,1.0.0,,streamable-http,"Swedish crypto-tax guide (K4, Skatteverket rules) and sourced list of crypto tax tools"
+2026-10-29T12:47:36.611699Z,io.github.maggat/ai-companion-apps,,1.0.0,,streamable-http,"Adults-only (18+) sourced directory of AI companion apps: official descriptions, checklist, tips"
+2026-10-29T12:50:03.024599Z,com.assetfeed/market-data,AssetFeed Market Data,1.3.0,https://github.com/assetfeed/assetfeed-mcp,streamable-http,"Read-only mention counts, recaps and market data for crypto, stocks, ETFs, forex and commodities."
+2026-10-29T12:50:03.739248Z,com.assetfeed/ai-detection,AssetFeed AI Detection,1.0.0,https://github.com/assetfeed/assetfeed-mcp,streamable-http,"Estimate how much of an English text or web page reads as AI-written. Read-only, two tools."
+2026-10-29T12:50:44.920984Z,io.github.Metricall-AI-Lab/groundrule,Groundrule,0.23.1,https://github.com/Metricall-AI-Lab/groundrule-oss,,"Your repository's engineering standards for coding agents: rules per file, CI check, rule proposals."
+2026-10-29T12:53:53.200854Z,com.runcabin/cabin,RunCabin,1.2.0,,streamable-http,"Publish and update websites from your AI app: free HTTPS address, your own domain, forms, photos."
+2026-10-29T12:54:37.799931Z,io.github.OrderlyNetwork/orderly-mcp,,1.5.4,https://github.com/OrderlyNetwork/orderly-mcp,streamable-http,MCP Server for Orderly Network - Documentation and SDK patterns
+2026-10-29T12:55:35.605669Z,com.mcjars/minecraft,MCJars,1.0.0,,streamable-http,"Free Minecraft server builds, versions, downloads and configurations for AI assistants."
+2026-10-29T12:58:39.463498Z,com.spoolfield/spoolfield,Spoolfield,1.0.8,,streamable-http,"Vertical Shorts with word-by-word captions, transcripts and file conversion from a video link."
+2026-10-29T13:02:23.078386Z,io.github.krystonschwarze/coolicons,coolicons,5.0.0-beta.2,https://github.com/krystonschwarze/coolicons,,"Search coolicons by meaning, then get SVG source and the right import in any style and radius"
+2026-10-29T13:03:37.346071Z,io.github.mariohahn/locli,locli,0.1.3,https://github.com/mariohahn/locli,,"Find, add, push and pull an app's user-facing texts in locli (iOS, Android, web, backend)."
+2026-10-29T13:05:18.459535Z,io.github.ryanwaits/secondlayer,,11.2.3,https://github.com/ryanwaits/secondlayer,,"MCP server for Stacks chain data: contracts, events, transfers, subgraphs. Key-authenticated."
+2026-10-29T13:05:43.324932Z,com.quantwright/agent-api,QuantWright,1.0.0,,streamable-http,"Backtests with costs, a held-out test that counts once, a score that counts every version tried."
+2026-10-29T13:06:01.638027Z,com.kushalsm.nexus/nexus,Nexus,1.0.0,,streamable-http,"Calorie, workout and body-weight log inside ChatGPT and Claude. Log meals by text, photo or voice."
+2026-10-29T13:06:34.499213Z,ai.tendeck/crm,Tendeck: free real estate CRM,1.0.0,,streamable-http,"Free AI-native CRM for real estate agents and brokers: Today's 10, deals, goals, drips."
+2026-10-29T13:12:21.915985Z,ai.saifs/payment-reconciliation,Payment Reconciliation & Matching,1.0.0,https://github.com/Saify-Technologies/saifs-ai-mcps-docs,streamable-http,"Match bank receipts and payments to invoices with confidence, deductions and exceptions."
+2026-10-29T13:12:22.797604Z,ai.saifs/process-control,Statistical Process Control & Anomaly Alerts,1.0.0,https://github.com/Saify-Technologies/saifs-ai-mcps-docs,streamable-http,Monitor metric streams with control charts and alert only on statistically real drift.
+2026-10-29T13:12:23.733242Z,ai.saifs/revenue-optimization,Dynamic Pricing & Overbooking,1.0.0,https://github.com/Saify-Technologies/saifs-ai-mcps-docs,streamable-http,"Set prices, protection levels and overbooking limits from demand and remaining capacity."
+2026-10-29T13:12:24.665907Z,ai.saifs/optimization-solver,Optimization Solver (LP / MIP Scheduling),1.0.0,https://github.com/Saify-Technologies/saifs-ai-mcps-docs,streamable-http,"Solve production, blending, transport and scheduling problems with LP and MIP."
+2026-10-29T13:13:38.652807Z,com.freename/mcp,,1.0.0,,streamable-http,"Search, register & manage Web2/Web3 domains, edit DNS records, and build & deploy AI websites."
+2026-10-29T13:13:52.499Z,cv.takemeup/takemeup,TakeMeUp.cv – CV & Resume Builder,0.3.1,https://github.com/dsdev-d/takemeup-mcp,streamable-http,"CV & resume builder: country formats in 14 languages, ATS checks, cover letters, job tracker."
+2026-10-29T13:16:13.786373Z,io.github.TubeToTranscript/tubetotranscript,TubeToTranscript,1.1.1,https://github.com/TubeToTranscript/tubetotranscript-mcp,streamable-http,"YouTube transcripts for AI agents: captions with timestamps, languages, TXT, SRT and VTT export."
+2026-10-29T13:17:03.104045Z,com.yusr-ai/yusr,Yusr,1.0.0,,streamable-http,"Run a Yusr AI customer-service workspace: inbox, customers, orders, assistants, WhatsApp."
+2026-10-29T13:18:54.882039Z,fr.ilicompta/cabinets,Ilicompta — cabinets d'expertise comptable en France,1.0.0,,streamable-http,"Cabinets comptables en France : recherche par ville, sources citables et couverture du catalogue."
