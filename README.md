@@ -9,37 +9,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 01:18 UTC
+## Latest list — 2026-10-29 02:19 UTC
 
-New MCP servers published between 2026-10-29 00:20 UTC and 2026-10-29 01:18 UTC.
+New MCP servers published between 2026-10-29 01:18 UTC and 2026-10-29 02:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-29T01-18-49-939767Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-29T02-19-04-355139Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-29 00:23:19 | [io.github.nops-io/clara](https://github.com/nops-io/clara-mcp) | Clara by nOps | 1.0.0 | FinOps assistant: query AWS, GCP and Azure cost, commitments, budgets and repor… |
-| 2026-10-29 00:24:48 | [com.devopscollab/mcp](https://github.com/DOCLLC/web) | DevOpsCollab | 1.0.0 | Senior LatAm engineers for US teams. Facts, role fit, and staffing requests. |
-| 2026-10-29 00:28:38 | [io.github.janishkumar/h1b-sponsor-mcp](https://github.com/janishkumar/h1b-sponsor-mcp) | H-1B Sponsor | 0.1.0 | Is this company still sponsoring H-1Bs and green cards? Trends from DOL and USC… |
-| 2026-10-29 00:30:00 | io.github.Kromatic-Innovation/krobot |  | 2.0 | Kromatic's public MCP server for read-only access to the Kromatic knowledge bas… |
-| 2026-10-29 00:37:47 | app.aalto/aalto | Aalto | 1.0.0 | FF&E product library for interior designers. Connect Claude, ChatGPT and Cursor. |
-| 2026-10-29 00:37:47 | ca.kay1electric/kay1-electric | Kay1 Electric (Vancouver electrician) | 1.1.0 | Licensed electrician in Coquitlam & Greater Vancouver, BC: services, areas, fre… |
-| 2026-10-29 00:37:51 | com.tryoids/agentcitywars | Agent City Wars | 1.0.0 | Agent City Wars: a persistent strategy game played by AI agents on Oids. One tu… |
-| 2026-10-29 00:37:53 | com.zoosial/zoosial | Zoosial | 1.0.0 | Social media API for AI agents: publish, DMs, comments, Meta ads and leads. |
-| 2026-10-29 00:39:48 | app.vercel.olothea-research/olothea | Olothea — Collaborative Agent Research | 0.6.0 | Open agent research: read provisional claims, submit questions, arguments and r… |
-| 2026-10-29 00:45:26 | io.github.oidsdev/agentcitywars | Agent City Wars | 1.0.0 | Agent City Wars: a persistent strategy game played by AI agents on Oids. One tu… |
-| 2026-10-29 00:45:50 | dev.reachsocial/social-data | ReachSocial | 0.3.1 | Instagram, X, TikTok, YouTube, Facebook and Reddit data. Approved OAuth or API-… |
-| 2026-10-29 00:46:15 | io.snapvisor/snapvisor | SnapVisor | 1.0.1 | Visual regression testing over MCP: upload screenshots, review diffs, approve.… |
-| 2026-10-29 00:48:27 | [io.github.hashscraper/mcp](https://github.com/hashscraper/mcp) |  | 0.1.0 | Coupang top 30 and public web data bots (Naver, Instagram, Olive Young, maps, r… |
-| 2026-10-29 00:53:01 | [io.github.Pantheonn3D/cuecaps-mcp](https://github.com/Pantheonn3D/cuecaps-mcp) | Cuecaps | 0.1.0 | Animated word-by-word captions for your video and audio files, rendered on your… |
-| 2026-10-29 00:57:03 | [io.github.seayniclabs/bench](https://github.com/seayniclabs/bench) | Bench | 0.4.3 | USB hardware discovery for AI tools: find maker boards, serial ports and chips. |
-| 2026-10-29 01:02:27 | [io.github.pipeworx-io/alpaca](https://github.com/pipeworx-io/mcp-alpaca) | Alpaca | 0.2.0 | Alpaca MCP — real-time US stock market data via the Alpaca Market Data API (dat… |
-| 2026-10-29 01:04:06 | [io.github.pipeworx-io/amtrak](https://github.com/pipeworx-io/mcp-amtrak) | Amtrak | 0.2.0 | Amtrak MCP — live Amtrak train tracking via the community Amtraker API (api-v3.… |
-| 2026-10-29 01:04:20 | com.bot2botlabs/loop-desk | Loop Desk | 1.0.0 | Agent-payable open-loop tracker for refunds, returns, and asks with TRACE recei… |
-| 2026-10-29 01:04:20 | com.bot2botlabs/warranty-desk | Warranty Desk | 1.0.0 | US brand/manufacturer warranty lookup with cited text and TRACE receipts. |
-| 2026-10-29 01:08:39 | com.bokdaeri/consultation | Bokdaeri | 1.0.0 | Connect with lawyers in South Korea through user-confirmed consultation request… |
-| 2026-10-29 01:15:26 | io.github.darwin-studios/owned-antv-chart | Darwin-owned AntV Charts | 0.1.0 | Darwin-hosted AntV bar, column and line charts. Free rendering with bounded PNG… |
-| 2026-10-29 01:16:34 | ai.ictihad/ictihad-ai | İçtihad AI | 1.0.0 | Turkish law research: court decisions, legislation, deadline and fee calculator… |
-| 2026-10-29 01:18:05 | ai.brownmatter/brainz | Brainz | 0.1.0 | Shared product-knowledge graph for AI agent fleets — vault tools + agent self-s… |
+| 2026-10-29 01:21:15 | ai.rinda.tradegraph/tradegraph | TradeGraph | 1.5.0 | An export sales team for consumer brands, inside your AI: markets, buyers, emai… |
+| 2026-10-29 01:31:23 | [io.github.4robot/hexadata](https://github.com/4robot/hexadata-mcp) |  | 1.0.0 | Official public data as MCP tools: EU/US tenders, NPI Registry, UK Companies Ho… |
+| 2026-10-29 01:32:47 | ca.lordmechanical/lordmechanical | Lord Mechanical LTD | 2.0.0 | North Vancouver plumbing, heating & drainage: business info, services, areas an… |
+| 2026-10-29 01:41:24 | com.uncommonear/mcp | Uncommon Ear | 1.0.0 | Find Creative Commons music and sound effects, mostly CC0, with license terms a… |
+| 2026-10-29 01:44:51 | [io.github.russol07/makebox-etsy](https://github.com/russol07/makebox-etsy-plugin) | MakeBox for Etsy | 1.0.0 | Research Etsy and manage an authorized shop; MakeBox Pro or Studio required. |
+| 2026-10-29 01:45:50 | [io.github.pipeworx-io/banking-regulations](https://github.com/pipeworx-io/mcp-banking-regulations) | Banking Regulations | 0.2.0 | Banking Regulations MCP — US banking & consumer-finance rules (12 CFR). |
+| 2026-10-29 01:46:44 | [io.github.pipeworx-io/base64](https://github.com/pipeworx-io/mcp-base64) | Base64 | 0.2.0 | Encoding MCP — Base64 / Base64URL / Base32 / Hex. |
+| 2026-10-29 01:54:48 | [com.getbacklane/backlane](https://github.com/pschlieker/getbacklane) | Backlane | 0.2.0 | Hosted MCP server for OTTO Market, Kaufland and Mirakl sellers: orders, stock,… |
+| 2026-10-29 01:56:25 | [io.github.pipeworx-io/bright-data](https://github.com/pipeworx-io/mcp-bright-data) | Bright Data | 0.2.0 | Bright Data MCP — Bright Data Web Unlocker + SERP API (brightdata.com) |
+| 2026-10-29 02:00:00 | com.textforagents/compaction-loss-audit | Compaction-loss audit | 1.0.0 | Compaction witness for agents: pin invariants, name dropped spans, re-inject ve… |
+| 2026-10-29 02:04:19 | [io.github.pipeworx-io/census-trade](https://github.com/pipeworx-io/mcp-census-trade) | Census Trade | 0.2.0 | Census Trade MCP — US Census Bureau International Trade data |
+| 2026-10-29 02:08:42 | com.mystarletter/human-design-chart | My Star Letter: Human Design Chart | 1.0.0 | Human Design chart from a birth date, time and time zone: type, authority, prof… |
+| 2026-10-29 02:10:07 | [io.github.adewale/agentic-mermaid](https://github.com/adewale/agentic-mermaid) | Agentic Mermaid | 0.5.1 | Render, verify, describe, and safely edit Mermaid diagrams through MCP. |
+| 2026-10-29 02:11:35 | [com.layerre/layerre](https://github.com/Layerre/layerre-mcp) | Layerre | 0.1.0 | Turn Canva designs into templates and render image/PDF variants via the Layerre… |
+| 2026-10-29 02:14:10 | [io.github.pipeworx-io/codex-contaminants](https://github.com/pipeworx-io/mcp-codex-contaminants) | Codex Contaminants | 0.2.0 | Codex Alimentarius CXS 193 — maximum levels for contaminants and toxins in food… |
+| 2026-10-29 02:14:22 | io.github.akhilrajesh213/telegram-channel-scraper | Telegram Channel Scraper & Monitor | 0.1.3 | Telegram channels for AI agents, no login: posts, views, reactions, comments, e… |
+| 2026-10-29 02:16:02 | [io.github.pipeworx-io/color](https://github.com/pipeworx-io/mcp-color) | Color | 0.2.0 | Color utilities MCP. |
+| 2026-10-29 02:16:32 | com.orbitbymicah/used-tech-prices | Orbit used tech prices | 1.0.0 | Used prices for GPUs, CPUs, RAM, consoles, iPhones, MacBooks and more from live… |
+| 2026-10-29 02:18:29 | io.github.samiel-azmaien/totem | Totem | 1.0.0 | Connect AI agents to the Totem network for communication and work coordination. |
 
 ## Data source
 

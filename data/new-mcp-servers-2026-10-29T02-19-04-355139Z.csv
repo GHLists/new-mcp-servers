@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-10-29T01:21:15.561278Z,ai.rinda.tradegraph/tradegraph,TradeGraph,1.5.0,,streamable-http,"An export sales team for consumer brands, inside your AI: markets, buyers, emails and pricing."
+2026-10-29T01:31:23.834441Z,io.github.4robot/hexadata,,1.0.0,https://github.com/4robot/hexadata-mcp,streamable-http,"Official public data as MCP tools: EU/US tenders, NPI Registry, UK Companies House, Mexico data."
+2026-10-29T01:32:47.139808Z,ca.lordmechanical/lordmechanical,Lord Mechanical LTD,2.0.0,,streamable-http,"North Vancouver plumbing, heating & drainage: business info, services, areas and quote requests."
+2026-10-29T01:41:24.285384Z,com.uncommonear/mcp,Uncommon Ear,1.0.0,,streamable-http,"Find Creative Commons music and sound effects, mostly CC0, with license terms and credit lines."
+2026-10-29T01:44:51.803325Z,io.github.russol07/makebox-etsy,MakeBox for Etsy,1.0.0,https://github.com/russol07/makebox-etsy-plugin,streamable-http,Research Etsy and manage an authorized shop; MakeBox Pro or Studio required.
+2026-10-29T01:45:50.525429Z,io.github.pipeworx-io/banking-regulations,Banking Regulations,0.2.0,https://github.com/pipeworx-io/mcp-banking-regulations,streamable-http,Banking Regulations MCP — US banking & consumer-finance rules (12 CFR).
+2026-10-29T01:46:44.420409Z,io.github.pipeworx-io/base64,Base64,0.2.0,https://github.com/pipeworx-io/mcp-base64,streamable-http,Encoding MCP — Base64 / Base64URL / Base32 / Hex.
+2026-10-29T01:54:48.987494Z,com.getbacklane/backlane,Backlane,0.2.0,https://github.com/pschlieker/getbacklane,streamable-http,"Hosted MCP server for OTTO Market, Kaufland and Mirakl sellers: orders, stock, listings and ads."
+2026-10-29T01:56:25.038501Z,io.github.pipeworx-io/bright-data,Bright Data,0.2.0,https://github.com/pipeworx-io/mcp-bright-data,streamable-http,Bright Data MCP — Bright Data Web Unlocker + SERP API (brightdata.com)
+2026-10-29T02:00:00.434941Z,com.textforagents/compaction-loss-audit,Compaction-loss audit,1.0.0,,streamable-http,"Compaction witness for agents: pin invariants, name dropped spans, re-inject verbatim or HALT."
+2026-10-29T02:04:19.248031Z,io.github.pipeworx-io/census-trade,Census Trade,0.2.0,https://github.com/pipeworx-io/mcp-census-trade,streamable-http,Census Trade MCP — US Census Bureau International Trade data
+2026-10-29T02:08:42.621576Z,com.mystarletter/human-design-chart,My Star Letter: Human Design Chart,1.0.0,,streamable-http,"Human Design chart from a birth date, time and time zone: type, authority, profile, centers."
+2026-10-29T02:10:07.225748Z,io.github.adewale/agentic-mermaid,Agentic Mermaid,0.5.1,https://github.com/adewale/agentic-mermaid,streamable-http,"Render, verify, describe, and safely edit Mermaid diagrams through MCP."
+2026-10-29T02:11:35.935101Z,com.layerre/layerre,Layerre,0.1.0,https://github.com/Layerre/layerre-mcp,streamable-http,Turn Canva designs into templates and render image/PDF variants via the Layerre API.
+2026-10-29T02:14:10.216967Z,io.github.pipeworx-io/codex-contaminants,Codex Contaminants,0.2.0,https://github.com/pipeworx-io/mcp-codex-contaminants,streamable-http,Codex Alimentarius CXS 193 — maximum levels for contaminants and toxins in food and feed: lead…
+2026-10-29T02:14:22.283607Z,io.github.akhilrajesh213/telegram-channel-scraper,Telegram Channel Scraper & Monitor,0.1.3,,streamable-http,"Telegram channels for AI agents, no login: posts, views, reactions, comments, exact subscribers."
+2026-10-29T02:16:02.439632Z,io.github.pipeworx-io/color,Color,0.2.0,https://github.com/pipeworx-io/mcp-color,streamable-http,Color utilities MCP.
+2026-10-29T02:16:32.380992Z,com.orbitbymicah/used-tech-prices,Orbit used tech prices,1.0.0,,streamable-http,"Used prices for GPUs, CPUs, RAM, consoles, iPhones, MacBooks and more from live eBay listings."
+2026-10-29T02:18:29.166395Z,io.github.samiel-azmaien/totem,Totem,1.0.0,,streamable-http,Connect AI agents to the Totem network for communication and work coordination.
