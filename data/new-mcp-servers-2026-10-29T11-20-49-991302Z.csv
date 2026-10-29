@@ -1,0 +1,30 @@
+created_at,server,title,version,repository,transports,description
+2026-10-29T10:21:37.05517Z,com.opinference/op,OP Inference,1.0.0,,streamable-http,"OP tasks, your presets and the public workflow gallery, billed to your API key."
+2026-10-29T10:22:39.60152Z,app.vercel.quran-reels-tau/quran-reels-mcp,Quran Reels MCP,1.0.0,https://github.com/Ansygroup/quran-reels,streamable-http,Free browser-based Quran video maker: vertical reels with 47 reciters and 8 translation languages.
+2026-10-29T10:29:20.44489Z,com.thewellhabit/bill-budget,Bill & Budget Board,1.0.0,,streamable-http,"Read-only: sorts your bills by due date, totals unpaid, compares planned vs actual budget. No bank."
+2026-10-29T10:30:39.624023Z,com.linkupapi/linkupapi,LinkupAPI,2.0.0,,streamable-http,"Run LinkedIn, email, WhatsApp and iMessage outreach from any MCP client."
+2026-10-29T10:33:06.292118Z,com.blinkbrosai/artifact-try,blink artifact (no account),1.0.0,,streamable-http,"Publish a temporary HTML page from your agent with no account or token; public link, 7 days."
+2026-10-29T10:33:25.691867Z,com.serpier/serpier,Serpier,1.0.0,,streamable-http,"Buy publisher links, track publications and monitor AI Visibility across ChatGPT, Gemini and more."
+2026-10-29T10:34:27.134454Z,com.koalafix/koalafix,KoalaFix,0.1.0,,streamable-http,One memory for every AI tool on your team. Facts show who checked them and when.
+2026-10-29T10:46:28.138551Z,io.github.marcepalacios12/mcp-poisoning-scanner,MCP Tool Poisoning Scanner,1.0.0,,streamable-http,"Scan MCP servers for tool poisoning, hidden instructions and silent tool changes. Runs on Apify."
+2026-10-29T10:46:28.381461Z,io.github.marcepalacios12/safe-web-reader,Safe Web Reader for AI,1.0.0,,streamable-http,"Read any URL as clean Markdown for AI agents, with prompt-injection text removed. Runs on Apify."
+2026-10-29T10:49:23.231694Z,com.dianarafael/storefront,Diana Rafael Jewelry Store,0.1.0,,streamable-http,"Search and shop Diana Rafael natural black diamond fine jewelry: catalog, products, cart, checkout."
+2026-10-29T10:50:14.280422Z,io.github.pieterpost-com/pieterpost-mcp,PieterPost MCP,1.1.0,https://github.com/pieterpost-com/pieterpost-mcp,streamable-http,"Design printed greeting cards and prepare, review, pay for, and send letters and postcards."
+2026-10-29T10:51:30.118978Z,no.placepoint/placepoint,Placepoint,2.2.0,,streamable-http,"Norwegian property, company, land register and zoning plan data. Requires a Placepoint licence."
+2026-10-29T10:51:30.556433Z,no.placepoint/dataset,Placepoint Datasets,1.0.0,,streamable-http,"Create, edit and analyse your own map datasets in Placepoint Fusion. Requires a Placepoint licence."
+2026-10-29T10:54:40.892285Z,com.aiprofile/answers,AiProfile,1.0.0,,streamable-http,"Answers about local businesses, with sources, many confirmed by the owner."
+2026-10-29T11:00:52.197756Z,com.prismareviews/reviews,Prisma Reviews,1.0.0,,streamable-http,"Read and reply to reviews from Google, Trustpilot, App Store, Google Play, Judge.me and 40+ more."
+2026-10-29T11:07:07.984412Z,io.github.equinoxaifinance-rgb/living-stack,Living Stack Community,0.4.2,https://github.com/equinoxaifinance-rgb/living-stack-community,,"Save your coding agent's exact next step and load it after a restart. Free MCP server, no account."
+2026-10-29T11:07:09.109459Z,io.github.equinoxaifinance-rgb/civicdataforge,CivicDataForge Public-Records Data,1.4.2,https://github.com/equinoxaifinance-rgb/civicdataforge-mcp,streamable-http,"Ten government-record evidence tools for property, healthcare, facilities, Norway, and routing."
+2026-10-29T11:10:59.574068Z,com.easykmarket.vote/votebox-law,"투표함 — 전자투표 법령 자료 · AI 투표함 (Korean e-voting statutes, quorum & ballot drafting)",1.1.0,,streamable-http,"Korean e-voting statutes, quorum checks and ballot drafting. 18 tools, no auth, no fee."
+2026-10-29T11:11:11.126799Z,io.github.pooriaarab/luxurygaragebuilders,,1.0.0,https://github.com/pooriaarab/directory,streamable-http,"Find collector garage builders, car lifts and storage."
+2026-10-29T11:11:20.979831Z,ru.aliasbakery/bakery,"АЛИАС — арт-кондитерская, Санкт-Петербург",1.0.0,,streamable-http,"Торты, пряники и десерты на заказ в Петербурге: каталог, цены, расчёт торта, доставка, заявки"
+2026-10-29T11:11:21.18829Z,io.github.pooriaarab/privateelevators,,1.0.0,https://github.com/pooriaarab/directory,streamable-http,"Find home elevator dealers, installers and service firms."
+2026-10-29T11:12:00.77596Z,io.github.pooriaarab/privatedock,,1.0.0,https://github.com/pooriaarab/directory,streamable-http,Find the right team for your waterfront.
+2026-10-29T11:12:13.745156Z,io.github.pooriaarab/privatewellnessrooms,,1.0.0,https://github.com/pooriaarab/directory,streamable-http,"Find home sauna, steam room and cold plunge installers."
+2026-10-29T11:13:06.201031Z,io.github.pooriaarab/winecellarbuilders,,1.0.0,https://github.com/pooriaarab/directory,streamable-http,Find the team for your wine room.
+2026-10-29T11:13:09.380548Z,com.staycostbrain/stay-cost-brain,Stay Cost Brain,1.0.0,https://github.com/jimiwalters-cmyk/stay-cost-brain-mcp,streamable-http,"Tourist and hotel taxes from official sources, worked out night by night for your dates and guests."
+2026-10-29T11:16:35.942321Z,com.lowlanddata/social,LowlandData Social,1.0.0,,streamable-http,"Public posts and videos from Bluesky, Telegram, Substack, Dailymotion and Likee as JSON."
+2026-10-29T11:17:05.568597Z,com.triathlonpace/triathlon-pace,Triathlon Pace,1.0.0,,streamable-http,"Find triathlon races, follow your training plan, tick off sessions and plan race-day fuel."
+2026-10-29T11:17:25.902977Z,io.github.bernhardbrugger/parlament-at-mcp,"Austrian Parliament (Nationalrat, Bundesrat)",0.5.1,https://github.com/bernhardbrugger/parlament-at-mcp,,"Austrian Parliament: search speeches, votes, bills, inquiries, committees and members"
+2026-10-29T11:19:30.886874Z,io.github.robert19001-cmyk/mcp-lint,mcp-lint,0.6.0,https://github.com/robert19001-cmyk/mcp-lint,,Lint MCP tool schemas for client compatibility and agent recovery.
