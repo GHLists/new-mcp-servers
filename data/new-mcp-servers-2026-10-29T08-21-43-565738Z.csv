@@ -1,0 +1,36 @@
+created_at,server,title,version,repository,transports,description
+2026-10-29T07:20:03.968504Z,io.github.pipeworx-io/xero,Xero,0.2.0,https://github.com/pipeworx-io/mcp-xero,streamable-http,Xero (Accounting) MCP Pack
+2026-10-29T07:20:23.123461Z,io.github.pipeworx-io/xome,Xome,0.2.0,https://github.com/pipeworx-io/mcp-xome,streamable-http,"Xome MCP — US residential foreclosure/REO/short-sale auction calendar and property facts, sourced…"
+2026-10-29T07:20:23.482415Z,io.github.pipeworx-io/world-news-feeds,World News Feeds,0.2.0,https://github.com/pipeworx-io/mcp-world-news-feeds,streamable-http,World News Feeds MCP.
+2026-10-29T07:20:30.304914Z,io.github.pipeworx-io/xkcd,Xkcd,1.1.0,https://github.com/pipeworx-io/mcp-xkcd,streamable-http,"XKCD MCP — wraps xkcd.com JSON API (free, no auth)"
+2026-10-29T07:20:33.03425Z,io.github.pipeworx-io/xposedornot,Xposedornot,0.2.0,https://github.com/pipeworx-io/mcp-xposedornot,streamable-http,XposedOrNot MCP — free breach-exposure lookup by email.
+2026-10-29T07:20:53.702648Z,io.github.pipeworx-io/worldbank-projects,Worldbank Projects,0.2.0,https://github.com/pipeworx-io/mcp-worldbank-projects,streamable-http,World Bank Projects & Operations MCP.
+2026-10-29T07:21:03.996384Z,io.github.pipeworx-io/yelp,Yelp,0.2.0,https://github.com/pipeworx-io/mcp-yelp,streamable-http,Yelp MCP — wraps the Yelp Fusion API (api.yelp.com/v3)
+2026-10-29T07:21:12.971607Z,io.github.pipeworx-io/worms,Worms,0.2.0,https://github.com/pipeworx-io/mcp-worms,streamable-http,WoRMS (World Register of Marine Species) MCP — keyless.
+2026-10-29T07:21:17.121904Z,com.apartamentsperlamar/apartments,Apartments Perlamar · Valencia beach,1.0.0,,streamable-http,"Beachfront holiday apartments in Valencia: availability, prices and booking links (read-only)"
+2026-10-29T07:21:23.446696Z,io.github.pipeworx-io/zendesk,Zendesk,0.2.0,https://github.com/pipeworx-io/mcp-zendesk,streamable-http,"Zendesk MCP Pack — tickets, users, organizations via OAuth."
+2026-10-29T07:21:28.6196Z,io.github.pipeworx-io/ygoprodeck,Ygoprodeck,0.2.0,https://github.com/pipeworx-io/mcp-ygoprodeck,streamable-http,YGOPRODeck MCP — Yu-Gi-Oh! trading card game (TCG) database. Keyless. Sends a User-Agent. Base…
+2026-10-29T07:22:04.738791Z,io.github.pipeworx-io/zillow,Zillow,0.2.0,https://github.com/pipeworx-io/mcp-zillow,streamable-http,Zillow Research MCP — housing market data from Zillow's public CSV dumps.
+2026-10-29T07:22:08.846537Z,io.github.pipeworx-io/zippopotam,Zippopotam,1.1.0,https://github.com/pipeworx-io/mcp-zippopotam,streamable-http,"Zippopotam MCP — wraps Zippopotam.us ZIP/postal code API (free, no auth)"
+2026-10-29T07:22:21.669545Z,io.github.pipeworx-io/zoom,Zoom,0.2.0,https://github.com/pipeworx-io/mcp-zoom,streamable-http,Zoom MCP Pack
+2026-10-29T07:22:49.483387Z,io.github.pipeworx-io/zenquotes,Zenquotes,1.1.0,https://github.com/pipeworx-io/mcp-zenquotes,streamable-http,"ZenQuotes MCP — wraps ZenQuotes API (free, no auth) with a dummyjson sibling fallback for when…"
+2026-10-29T07:23:58.691008Z,com.codedebut/mcp,CodeDebut,1.0.0,https://github.com/kenil9630/codedebut-mcp,streamable-http,"Search new software launches, read product pages, find alternatives and see daily upvote rankings."
+2026-10-29T07:23:59.354501Z,io.github.pipeworx-io/zoho_crm,Zoho_crm,0.2.0,https://github.com/pipeworx-io/mcp-zoho_crm,streamable-http,Zoho CRM MCP Pack — wraps the Zoho CRM API v6
+2026-10-29T07:24:50.266693Z,io.github.pipeworx-io/zyte,Zyte,0.2.0,https://github.com/pipeworx-io/mcp-zyte,streamable-http,Zyte API MCP — unified web fetch + AI extraction (zyte.com)
+2026-10-29T07:27:36.170089Z,io.writestack/mcp,WriteStack,1.0.0,https://github.com/WriteStack/mcp,streamable-http,"Draft & schedule Substack Notes, manage articles, and read stats via WriteStack."
+2026-10-29T07:28:59.317953Z,io.github.bannerify/bannerify,Bannerify,1.0.0,,streamable-http,"Generate images and PDFs from your Bannerify templates, or compose an image from shapes."
+2026-10-29T07:30:51.211503Z,com.pictmagic/pictmagic,PictMagic,1.0.0,,streamable-http,"Generate marketplace product images from your product photos, with a quote you approve first."
+2026-10-29T07:44:34.223067Z,io.github.itelo/view-sim,view-sim,1.0.0,https://github.com/itelo/view-sim,,"See a site on phones, tablets and laptops in Safari, Chrome, Firefox or Zen frames; PNG screenshots."
+2026-10-29T07:46:54.86026Z,com.heycompi/compi,Compi — travel companion,1.1.1,,streamable-http,"Organise trips, daily plans, stays, places, lists and shared expenses in your Compi account."
+2026-10-29T07:49:07.679192Z,net.baldfade/baldfade,BaldFade,1.0.0,,streamable-http,"List the bald, buzz cut and fade hairstyles BaldFade can preview. Read-only, no account needed."
+2026-10-29T07:50:34.071033Z,in.nityaflow/nityaflow,Nityaflow,1.0.1,,streamable-http,"Build WhatsApp, Sheets and Gmail automations for Indian businesses; check GST credit."
+2026-10-29T07:54:07.773583Z,io.postmoderno/postmoderno,postmoderno,1.0.0,,streamable-http,"Schedule and publish social posts to Bluesky, Mastodon and X / Twitter by asking your AI agent."
+2026-10-29T07:56:10.881458Z,io.github.a-lafon/postgres-dba-mcp,Postgres DBA MCP,0.3.2,https://github.com/a-lafon/postgres-dba-mcp,,"Bounded, read-only PostgreSQL access for AI assistants: nine DBA tools, compact CSV output"
+2026-10-29T07:56:13.844613Z,io.github.ROY32172310/qa,ego-webqa,0.4.2,https://github.com/ROY32172310/qa,,Deterministic browser delivery checks for AI-generated web pages.
+2026-10-29T07:56:59.633625Z,com.onrender.x402-markdown/agent-tools,x402 Agent Tools,1.4.1,,streamable-http,Pay-per-call web reader (Markdown/RAG chunks) and agent utilities; x402 USDC on Base.
+2026-10-29T08:04:41.762719Z,io.github.johnsmithxy1mmm-sys/hypersignal-mcp,HyperSignal MCP,1.14.0,https://github.com/johnsmithxy1mmm-sys/HyperliquidMCP,streamable-http,"Hyperliquid analytics for AI agents: whale flow, liquidations, funding, risk, signed signals."
+2026-10-29T08:07:39.26619Z,com.revclamp/revclamp-mcp,RevClamp MCP Server,1.20.10,https://github.com/lhphong09t2/revclamp-mcp,streamable-http,"Zero-take-rate Stripe 2025-03-31.basil, Visa CE 3.0 & EU/XI VIES VAT guardrails MCP server."
+2026-10-29T08:08:29.248112Z,com.getvuelo/travel,Vuelo,1.0.0,,streamable-http,"Search, book and pay for flights and hotels, in full or in instalments where eligible."
+2026-10-29T08:10:02.730103Z,io.github.arthurpanhku/dvalincode,,0.22.0,https://github.com/arthurpanhku/dvalincode,,"Deterministic security scanning, no model or API key, plus offline-verifiable proof a fix worked."
+2026-10-29T08:15:43.623467Z,io.github.clara-finance/open-financial-mortgage-options,Open Financial Mortgages,1.0.0,,streamable-http,"Ontario, Canada mortgage options, published lender rates and a link to a licensed broker."
+2026-10-29T08:18:20.913211Z,io.stockmap/stockmap,StockMap,1.9.0,,streamable-http,"US stock research: a model's nightly 14-day read on each stock, its reasons, and its graded record."
