@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-10-29T03:22:41.741638Z,io.github.pipeworx-io/faa-regulations,Faa Regulations,0.2.0,https://github.com/pipeworx-io/mcp-faa-regulations,streamable-http,"FAA Regulations MCP — US Federal Aviation Regulations (14 CFR, 'FARs')."
+2026-10-29T03:25:07.712003Z,io.github.pipeworx-io/fcc-regulations,Fcc Regulations,0.2.0,https://github.com/pipeworx-io/mcp-fcc-regulations,streamable-http,FCC Regulations MCP — US Federal Communications Commission rules (47 CFR).
+2026-10-29T03:25:21.960271Z,io.github.pipeworx-io/fda-inspections,Fda Inspections,0.2.0,https://github.com/pipeworx-io/mcp-fda-inspections,streamable-http,"FDA inspection outcomes, Form 483 observations, compliance actions and import refusals for drug…"
+2026-10-29T03:30:51.547476Z,io.github.scarletkc/vexor,Vexor,0.31.0,https://github.com/scarletkc/vexor,,A semantic search engine for files and code.
+2026-10-29T03:36:07.078369Z,io.github.labyrinth-analytics/loredocs,LoreDocs,0.1.32,https://github.com/labyrinth-analytics/loredocs,,"Local-first knowledge vaults for project docs and specs. Tagged, versioned, full-text searchable."
+2026-10-29T03:37:51.51884Z,io.github.SergeyShk/ruts-mcp,ruTS-mcp,0.1.4,https://github.com/SergeyShk/ruTS-mcp,,MCP server for ruTS: statistics of Russian texts as tools for LLM agents
+2026-10-29T03:44:09.699155Z,io.github.pipeworx-io/geohash,Geohash,0.2.0,https://github.com/pipeworx-io/mcp-geohash,streamable-http,Geohash MCP.
+2026-10-29T03:44:13.627373Z,io.github.pipeworx-io/geodistance,Geodistance,0.2.0,https://github.com/pipeworx-io/mcp-geodistance,streamable-http,Geographic coordinate math MCP.
+2026-10-29T03:46:51.991282Z,com.orshot/mcp-server,Orshot,1.32.1,,streamable-http,"Automate Videos, PDFs and Images from templates, post to social platforms and grow engagement"
+2026-10-29T03:46:57.752755Z,io.github.Alekla0126/app-console-mcp,"App Console: Google Play, App Store Connect, AdMob",0.3.0,https://github.com/Alekla0126/app-console-mcp,,"Google Play Console, App Store Connect and AdMob via official APIs: releases, reviews, vitals, ads"
+2026-10-29T03:55:19.85064Z,io.github.yukkurigen/yukkurigen-mcp,,1.2.0,https://github.com/yukkurigen/yukkurigen-mcp,streamable-http,台本を渡すとゆっくり解説・ずんだもん解説の動画（MP4）が返る。音声合成・字幕・図解・BGM・効果音まで自動。ChatGPT / Claude からは OAuth でつなぐだけ。
+2026-10-29T03:55:51.76567Z,io.github.sumitrmardy/airbnb-search-scraper,Airbnb Search Scraper,1.0.0,,streamable-http,"Public Airbnb listings with numeric prices, ratings, photos and automatic price splitting."
+2026-10-29T03:55:52.222073Z,io.github.dmae97/adaptorch-mcp,AdaptOrch,0.5.2,https://github.com/dmae97/Adaptorch-MCP,streamable-http,"Hosted review records for AI coding agent changes: inputs, outputs, checks, open questions."
+2026-10-29T03:58:48.25482Z,com.probativegrowth/legal-markets,Probative legal-market research,1.4.0,,streamable-http,"US legal-market research by county and practice: demand, lawyer supply, ad rules. Sources, DOIs."
+2026-10-29T04:00:38.927874Z,com.quasslabs/api,QuassLabs API,0.1.0,,streamable-http,"30+ deterministic dev and delivery tools: linting, metrics, diagrams, model advice, AI-text checks."
+2026-10-29T04:01:47.779133Z,io.github.pipeworx-io/hash,Hash,0.2.0,https://github.com/pipeworx-io/mcp-hash,streamable-http,Cryptographic hash & HMAC MCP.
+2026-10-29T04:02:02.605736Z,io.github.pipeworx-io/gtin,Gtin,0.2.0,https://github.com/pipeworx-io/mcp-gtin,streamable-http,"Barcode / GTIN validation MCP (EAN-13, UPC-A, EAN-8, GTIN-14)."
+2026-10-29T04:05:16.689895Z,io.github.pipeworx-io/hilma,Hilma,0.2.0,https://github.com/pipeworx-io/mcp-hilma,streamable-http,Hilma MCP — Finnish government public procurement notices (keyed).
+2026-10-29T04:06:36.822761Z,com.noonlaunch/mcp,Noonlaunch,2.0.0,https://github.com/mukund1158/noonlaunch-mcp,streamable-http,"Launch a product on Noonlaunch, search its directory and weekly winners, and find 333 launch sites."
+2026-10-29T04:08:38.862544Z,io.github.pipeworx-io/htmltext,Htmltext,0.2.0,https://github.com/pipeworx-io/mcp-htmltext,streamable-http,HTML → text MCP.
+2026-10-29T04:09:07.183066Z,io.github.pipeworx-io/httpcat,Httpcat,1.1.0,https://github.com/pipeworx-io/mcp-httpcat,streamable-http,"HTTP Cat MCP — wraps http.cat (free, no auth)"
+2026-10-29T04:09:11.404491Z,io.github.pipeworx-io/htmlentities,Htmlentities,0.2.0,https://github.com/pipeworx-io/mcp-htmlentities,streamable-http,HTML entities MCP.
+2026-10-29T04:09:24.988772Z,io.github.pipeworx-io/httpstatus,Httpstatus,0.2.0,https://github.com/pipeworx-io/mcp-httpstatus,streamable-http,HTTP status code reference MCP.
+2026-10-29T04:12:26.159663Z,io.github.pipeworx-io/ia-dmv,Ia Dmv,0.2.0,https://github.com/pipeworx-io/mcp-ia-dmv,streamable-http,"Iowa DMV MCP — the Iowa DOT Motor Vehicle Division's 18 driver license stations, with hours, CDL…"
+2026-10-29T04:13:04.421439Z,io.github.pipeworx-io/ieee-standards,Ieee Standards,0.2.0,https://github.com/pipeworx-io/mcp-ieee-standards,streamable-http,IEEE Xplore MCP — BYOK wrapper over the IEEE Xplore Metadata Search API…
+2026-10-29T04:13:09.798666Z,ai.makeviral/makeviral,MakeViral,1.0.0,,streamable-http,Find the newest viral AI video trend templates and make them from your photos or a prompt.
+2026-10-29T04:15:34.063636Z,com.newtalaria/talaria,Talaria,1.0.0,,streamable-http,"Errors, traces, replays and logs from Talaria for coding agents."
+2026-10-29T04:15:54.836926Z,io.github.furkanuruk/workoutx,WorkoutX Exercise API,2.1.0,https://github.com/furkanuruk/workoutx-mcp,streamable-http,"Exercise API MCP: 1,900+ exercises with video, workout generator, supplements, dev tools."

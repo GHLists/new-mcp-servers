@@ -9,57 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 03:21 UTC
+## Latest list — 2026-10-29 04:19 UTC
 
-New MCP servers published between 2026-10-29 02:19 UTC and 2026-10-29 03:21 UTC.
+New MCP servers published between 2026-10-29 03:21 UTC and 2026-10-29 04:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-29T03-21-40-263317Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-29T04-19-20-003474Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-29 02:20:49 | [io.github.etchv-labs/mcp-server](https://github.com/etchv-labs/mcp-server) | Etchv | 1.6.0 | Invisible watermarking and watermark detection for images, PDFs and videos with… |
-| 2026-10-29 02:21:00 | [dev.threadmine/mcp](https://github.com/maschiojv/threadmine-mcp) |  | 0.2.0 | Analyze JVM thread dumps with ThreadMine: deadlocks, CPU spikes, pool exhaustio… |
-| 2026-10-29 02:21:35 | [io.github.pipeworx-io/countries](https://github.com/pipeworx-io/mcp-countries) | Countries | 0.2.0 | Countries MCP — world country data. |
-| 2026-10-29 02:24:42 | org.helprabbit/helprabbit | HelpRabbit | 1.0.0 | Work your HelpRabbit help desk: tickets, replies, customers, the AI agent and i… |
-| 2026-10-29 02:25:00 | com.bastionhelix/agent-lens | Bastion Helix Agent Lens | 1.0.0 | Web pages for AI agents: may-I-use checks, prompt-injection flags, Markdown, JS… |
-| 2026-10-29 02:25:26 | [net.bigfloppy.vibescan/vibescan](https://github.com/wminno/vibescan) |  | 1.0.0 | Free security scan for AI-written GitHub repos: leaked keys, .env, eval, SQLi,… |
-| 2026-10-29 02:26:31 | io.github.sumitrmardy/app-reviews-scraper | App Reviews Scraper | 1.0.0 | Google Play and App Store written reviews in one schema, with ratings and app m… |
-| 2026-10-29 02:26:33 | [io.github.pipeworx-io/crawlgraph](https://github.com/pipeworx-io/mcp-crawlgraph) | Crawlgraph | 0.2.0 | CrawlGraph MCP — backlink intelligence on the public Common Crawl webgraph (4.4… |
-| 2026-10-29 02:26:34 | com.scriptmasterlabs/quant-terminal | SCRIPTMASTERLABS — Quant Terminal | 1.1.0 | AMC/GME + any US ticker: real-data levels, 2021-squeeze mirror projection, anal… |
-| 2026-10-29 02:26:34 | com.scriptmasterlabs/perpetual-roadmap | SCRIPTMASTERLABS — Perpetual Roadmap | 1.0.0 | AMC/GME 25-session DTW price roadmaps from real market data; paid via x402 USDC… |
-| 2026-10-29 02:26:34 | com.scriptmasterlabs/scriptdocs | SCRIPTMASTERLABS — ScriptDocs | 1.0.0 | Live npm, PyPI and crates.io package facts, READMEs and vulnerability checks fo… |
-| 2026-10-29 02:26:56 | [io.github.pipeworx-io/creditcard](https://github.com/pipeworx-io/mcp-creditcard) | Creditcard | 0.2.0 | Credit-card number validation MCP. |
-| 2026-10-29 02:27:06 | [io.github.pipeworx-io/crc](https://github.com/pipeworx-io/mcp-crc) | Crc | 0.2.0 | Checksum MCP — CRC-32 & Adler-32. |
-| 2026-10-29 02:27:44 | [io.github.pipeworx-io/crontab](https://github.com/pipeworx-io/mcp-crontab) | Crontab | 0.2.0 | Crontab expression MCP. |
-| 2026-10-29 02:28:04 | [io.github.pipeworx-io/crs-reports](https://github.com/pipeworx-io/mcp-crs-reports) | Crs Reports | 0.2.0 | Congressional Research Service reports — Congress's own nonpartisan analysis, s… |
-| 2026-10-29 02:28:45 | [com.xcopybook/xcopybook](https://github.com/maxand98/XCOPYBook) | XCOPYBook | 3.0.0 | Read-only XCOPYBook: book chapters, search, collector profiles and the XCOPY wo… |
-| 2026-10-29 02:28:52 | [app.itemnumbers/itemnumbers-mbs](https://github.com/maxand98/item-ai) | itemnumbers MBS schedule | 1.0.0 | Read-only Medicare Benefits Schedule lookup: items, history, relationships and… |
-| 2026-10-29 02:28:55 | [xyz.bd5d/bd5d-archive](https://github.com/maxand98/bd5d) | BD5D BrainDrops archive | 1.0.0 | Read-only archive of early BrainDrops releases, artists, holdings and editorial… |
-| 2026-10-29 02:28:58 | [com.maxand98/maxand98](https://github.com/maxand98/personal-website) | maxand98 public corpus | 1.0.0 | Read-only access to approved maxand98 publications, citations, claims and evide… |
-| 2026-10-29 02:29:40 | [io.github.pipeworx-io/ct-dmv](https://github.com/pipeworx-io/mcp-ct-dmv) | Ct Dmv | 0.2.0 | Connecticut DMV MCP — electric-vehicle registrations at vehicle level, aggregat… |
-| 2026-10-29 02:29:57 | [io.github.pipeworx-io/currencyformat](https://github.com/pipeworx-io/mcp-currencyformat) | Currencyformat | 0.2.0 | Number & currency formatting MCP. |
-| 2026-10-29 02:30:40 | [io.github.pipeworx-io/csv](https://github.com/pipeworx-io/mcp-csv) | Csv | 0.2.0 | CSV <-> JSON MCP. |
-| 2026-10-29 02:31:17 | fr.devoria/mcp | Devoria MCP | 1.0.0 | Ship iOS apps with Claude Code: Apple review pre-check, App Store listing, Expo… |
-| 2026-10-29 02:33:17 | [ai.wiro/mcp](https://github.com/wiroai/Wiro-MCP) | Wiro AI | 1.3.2 | Run image, video, audio and LLM models on Wiro AI straight from your AI assista… |
-| 2026-10-29 02:35:52 | com.tabbygolf/marketing | Grey Tabby Golf | 1.0.0 | Golf group software: games, scoring, features, pricing, demos, and a 30-day fre… |
-| 2026-10-29 02:36:17 | io.github.hubeiqiao/joe-speaking | Joe Speaking | 2.1.0 | Review IELTS and CELPIP speaking practice, progress and feedback saved in Joe S… |
-| 2026-10-29 02:45:59 | [com.tealmac/ui](https://github.com/productapp264/tealmac-ui) | tealmac UI | 1.0.0 | Search shadcn registry items, read props and get exact install commands for Rea… |
-| 2026-10-29 02:49:40 | [io.github.pipeworx-io/datecalc](https://github.com/pipeworx-io/mcp-datecalc) | Datecalc | 0.2.0 | Date calculator MCP. |
-| 2026-10-29 02:50:50 | [io.github.pipeworx-io/dc-dmv](https://github.com/pipeworx-io/mcp-dc-dmv) | Dc Dmv | 0.2.0 | District of Columbia DMV MCP — DMV service centers, the record-level vehicle-in… |
-| 2026-10-29 02:51:12 | [io.github.pipeworx-io/de-dmv](https://github.com/pipeworx-io/mcp-de-dmv) | De Dmv | 0.2.0 | Delaware DMV MCP — registered vehicles by fuel type, EV adoption, the state's e… |
-| 2026-10-29 02:54:30 | [io.github.pipeworx-io/dicebear](https://github.com/pipeworx-io/mcp-dicebear) | Dicebear | 1.1.0 | DiceBear MCP — wraps DiceBear Avatar API v7 (free, no auth) |
-| 2026-10-29 02:56:24 | [io.github.pipeworx-io/diff](https://github.com/pipeworx-io/mcp-diff) | Diff | 0.2.0 | Text diff MCP. |
-| 2026-10-29 02:56:33 | [io.github.pipeworx-io/digitraffic-ais](https://github.com/pipeworx-io/mcp-digitraffic-ais) | Digitraffic Ais | 0.2.0 | Digitraffic AIS MCP — live vessel positions in Finnish and Baltic Sea waters. |
-| 2026-10-29 02:57:15 | [io.github.Richard-Ewing/exogram](https://github.com/Richard-Ewing/exogram-sdk) | Exogram ? Personal Neural Network & Mem… | 0.2.0 | Encrypted Personal Neural Network & cross-LLM memory vault for Claude, Cursor,… |
-| 2026-10-29 02:59:11 | io.github.sarmadahsan/paidfor | paidfor | 0.3.0 | Check an x402 seller before paying: verdict, failure rate and evidence from pai… |
-| 2026-10-29 02:59:55 | com.evroamer/roamer | Roamer for Rivian | 2.0.0 | Requires Roamer Plus. Works with Rivian vehicles. Not affiliated with Rivian Au… |
-| 2026-10-29 03:05:46 | [io.github.pipeworx-io/duration](https://github.com/pipeworx-io/mcp-duration) | Duration | 0.2.0 | ISO 8601 duration MCP. |
-| 2026-10-29 03:06:49 | [io.github.AgentTools-Cloud/agent-tools-mcp](https://github.com/AgentTools-Cloud/AgentToolsCollection) | agent-tools (x402 + MCP + A2A directory) | 0.3.0 | Discover x402 services, MCP servers and A2A agents by intent — agent-tools.clou… |
-| 2026-10-29 03:09:16 | com.getpylot/pylot | Pylot AI | 1.0.0 | Draft, schedule and publish on-brand social posts and images for a small busine… |
-| 2026-10-29 03:11:37 | [io.github.pipeworx-io/ema-article57](https://github.com/pipeworx-io/mcp-ema-article57) | Ema Article57 | 0.2.0 | EMA Article 57 product data — every medicine with a valid marketing authorisati… |
-| 2026-10-29 03:13:49 | [io.github.pipeworx-io/emoji](https://github.com/pipeworx-io/mcp-emoji) | Emoji | 0.2.0 | Emoji MCP. |
-| 2026-10-29 03:16:17 | [io.github.pipeworx-io/epa-regulations](https://github.com/pipeworx-io/mcp-epa-regulations) | Epa Regulations | 0.2.0 | EPA Regulations MCP — US Environmental Protection Agency regulations (40 CFR). |
-| 2026-10-29 03:18:57 | com.usepeaje/peaje | Peaje | 1.0.0 | Your Peaje agent: tasks to get your site cited by AI, its score, and answers ab… |
+| 2026-10-29 03:22:41 | [io.github.pipeworx-io/faa-regulations](https://github.com/pipeworx-io/mcp-faa-regulations) | Faa Regulations | 0.2.0 | FAA Regulations MCP — US Federal Aviation Regulations (14 CFR, 'FARs'). |
+| 2026-10-29 03:25:07 | [io.github.pipeworx-io/fcc-regulations](https://github.com/pipeworx-io/mcp-fcc-regulations) | Fcc Regulations | 0.2.0 | FCC Regulations MCP — US Federal Communications Commission rules (47 CFR). |
+| 2026-10-29 03:25:21 | [io.github.pipeworx-io/fda-inspections](https://github.com/pipeworx-io/mcp-fda-inspections) | Fda Inspections | 0.2.0 | FDA inspection outcomes, Form 483 observations, compliance actions and import r… |
+| 2026-10-29 03:30:51 | [io.github.scarletkc/vexor](https://github.com/scarletkc/vexor) | Vexor | 0.31.0 | A semantic search engine for files and code. |
+| 2026-10-29 03:36:07 | [io.github.labyrinth-analytics/loredocs](https://github.com/labyrinth-analytics/loredocs) | LoreDocs | 0.1.32 | Local-first knowledge vaults for project docs and specs. Tagged, versioned, ful… |
+| 2026-10-29 03:37:51 | [io.github.SergeyShk/ruts-mcp](https://github.com/SergeyShk/ruTS-mcp) | ruTS-mcp | 0.1.4 | MCP server for ruTS: statistics of Russian texts as tools for LLM agents |
+| 2026-10-29 03:44:09 | [io.github.pipeworx-io/geohash](https://github.com/pipeworx-io/mcp-geohash) | Geohash | 0.2.0 | Geohash MCP. |
+| 2026-10-29 03:44:13 | [io.github.pipeworx-io/geodistance](https://github.com/pipeworx-io/mcp-geodistance) | Geodistance | 0.2.0 | Geographic coordinate math MCP. |
+| 2026-10-29 03:46:51 | com.orshot/mcp-server | Orshot | 1.32.1 | Automate Videos, PDFs and Images from templates, post to social platforms and g… |
+| 2026-10-29 03:46:57 | [io.github.Alekla0126/app-console-mcp](https://github.com/Alekla0126/app-console-mcp) | App Console: Google Play, App Store Con… | 0.3.0 | Google Play Console, App Store Connect and AdMob via official APIs: releases, r… |
+| 2026-10-29 03:55:19 | [io.github.yukkurigen/yukkurigen-mcp](https://github.com/yukkurigen/yukkurigen-mcp) |  | 1.2.0 | 台本を渡すとゆっくり解説・ずんだもん解説の動画（MP4）が返る。音声合成・字幕・図解・BGM・効果音まで自動。ChatGPT / Claude からは OAu… |
+| 2026-10-29 03:55:51 | io.github.sumitrmardy/airbnb-search-scraper | Airbnb Search Scraper | 1.0.0 | Public Airbnb listings with numeric prices, ratings, photos and automatic price… |
+| 2026-10-29 03:55:52 | [io.github.dmae97/adaptorch-mcp](https://github.com/dmae97/Adaptorch-MCP) | AdaptOrch | 0.5.2 | Hosted review records for AI coding agent changes: inputs, outputs, checks, ope… |
+| 2026-10-29 03:58:48 | com.probativegrowth/legal-markets | Probative legal-market research | 1.4.0 | US legal-market research by county and practice: demand, lawyer supply, ad rule… |
+| 2026-10-29 04:00:38 | com.quasslabs/api | QuassLabs API | 0.1.0 | 30+ deterministic dev and delivery tools: linting, metrics, diagrams, model adv… |
+| 2026-10-29 04:01:47 | [io.github.pipeworx-io/hash](https://github.com/pipeworx-io/mcp-hash) | Hash | 0.2.0 | Cryptographic hash & HMAC MCP. |
+| 2026-10-29 04:02:02 | [io.github.pipeworx-io/gtin](https://github.com/pipeworx-io/mcp-gtin) | Gtin | 0.2.0 | Barcode / GTIN validation MCP (EAN-13, UPC-A, EAN-8, GTIN-14). |
+| 2026-10-29 04:05:16 | [io.github.pipeworx-io/hilma](https://github.com/pipeworx-io/mcp-hilma) | Hilma | 0.2.0 | Hilma MCP — Finnish government public procurement notices (keyed). |
+| 2026-10-29 04:06:36 | [com.noonlaunch/mcp](https://github.com/mukund1158/noonlaunch-mcp) | Noonlaunch | 2.0.0 | Launch a product on Noonlaunch, search its directory and weekly winners, and fi… |
+| 2026-10-29 04:08:38 | [io.github.pipeworx-io/htmltext](https://github.com/pipeworx-io/mcp-htmltext) | Htmltext | 0.2.0 | HTML → text MCP. |
+| 2026-10-29 04:09:07 | [io.github.pipeworx-io/httpcat](https://github.com/pipeworx-io/mcp-httpcat) | Httpcat | 1.1.0 | HTTP Cat MCP — wraps http.cat (free, no auth) |
+| 2026-10-29 04:09:11 | [io.github.pipeworx-io/htmlentities](https://github.com/pipeworx-io/mcp-htmlentities) | Htmlentities | 0.2.0 | HTML entities MCP. |
+| 2026-10-29 04:09:24 | [io.github.pipeworx-io/httpstatus](https://github.com/pipeworx-io/mcp-httpstatus) | Httpstatus | 0.2.0 | HTTP status code reference MCP. |
+| 2026-10-29 04:12:26 | [io.github.pipeworx-io/ia-dmv](https://github.com/pipeworx-io/mcp-ia-dmv) | Ia Dmv | 0.2.0 | Iowa DMV MCP — the Iowa DOT Motor Vehicle Division's 18 driver license stations… |
+| 2026-10-29 04:13:04 | [io.github.pipeworx-io/ieee-standards](https://github.com/pipeworx-io/mcp-ieee-standards) | Ieee Standards | 0.2.0 | IEEE Xplore MCP — BYOK wrapper over the IEEE Xplore Metadata Search API… |
+| 2026-10-29 04:13:09 | ai.makeviral/makeviral | MakeViral | 1.0.0 | Find the newest viral AI video trend templates and make them from your photos o… |
+| 2026-10-29 04:15:34 | com.newtalaria/talaria | Talaria | 1.0.0 | Errors, traces, replays and logs from Talaria for coding agents. |
+| 2026-10-29 04:15:54 | [io.github.furkanuruk/workoutx](https://github.com/furkanuruk/workoutx-mcp) | WorkoutX Exercise API | 2.1.0 | Exercise API MCP: 1,900+ exercises with video, workout generator, supplements,… |
 
 ## Data source
 
