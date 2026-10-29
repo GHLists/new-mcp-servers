@@ -9,46 +9,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 14:20 UTC
+## Latest list — 2026-10-29 15:22 UTC
 
-New MCP servers published between 2026-10-29 13:20 UTC and 2026-10-29 14:20 UTC.
+New MCP servers published between 2026-10-29 14:20 UTC and 2026-10-29 15:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-29T14-20-43-465265Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-29T15-22-00-888979Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-29 13:20:28 | [io.github.danishaali9/x-reader-mcp](https://github.com/danishaali9/x-reader-mcp) |  | 1.0.0 | Read public X posts and full X Articles as clean Markdown. Free, no X API key. |
-| 2026-10-29 13:20:32 | [io.github.Linked-API/linkedapi-mcp](https://github.com/Linked-API/linkedapi-mcp) | Linked API | 2.3.21 | Manage LinkedIn messages, connections, posts, and profile data through Linked A… |
-| 2026-10-29 13:20:36 | com.youraikitchen/yak | Your AI Kitchen (YAK) | 1.0.0 | Your family recipe box inside ChatGPT and Grok. Save, scale, plan menus and sha… |
-| 2026-10-29 13:20:59 | com.textdrip/mcp | Textdrip AI Assistant | 1.0.0 | Ask ChatGPT or Claude about your Textdrip contacts, conversations and campaigns… |
-| 2026-10-29 13:21:25 | com.pilot-next/pilot-next | Pilot-Next | 2.0.1 | Flying club management: book aircraft, log Hobbs/Tacho hours, settle flights an… |
-| 2026-10-29 13:24:55 | io.kiaro/kiaro | Kiaro | 1.0.0 | Clients, projects, time, invoices and proposals for independents who bill their… |
-| 2026-10-29 13:25:16 | design.assembli/assembli | Assembli | 1.0.0 | React, Tailwind CSS and shadcn/ui components, sections and landing pages for co… |
-| 2026-10-29 13:27:18 | [io.github.chrischall/rxlocal-mcp](https://github.com/chrischall/rxlocal-mcp) |  | 0.1.0 | RxLocal (PioneerRx/RedSail) pharmacy portal MCP — profile, age gate, notificati… |
-| 2026-10-29 13:33:53 | com.lezzoo/lezzoo | Lezzoo | 0.15.0 | Order food, groceries & pharmacy delivery in Kurdistan & Iraq: search, menus, c… |
-| 2026-10-29 13:36:15 | [tools.secondlayer/secondlayer](https://github.com/ryanwaits/secondlayer) | secondlayer | 11.2.4 | Stacks chain data: contracts, events, transfers, subgraph scaffolds. Hosted wit… |
-| 2026-10-29 13:36:40 | [io.github.meet-cedric/cedric](https://github.com/meet-cedric/cedric-mcp) | Cedric | 2.0.0 | AI employee for your team chat: memory, connected apps, meetings, files and sch… |
-| 2026-10-29 13:36:53 | [io.github.vedika-io/vedika-mcp-server](https://github.com/vedika-io/vedika-mcp-server) | Vedika Astrology and Vastu | 2.0.9 | Tools for Vedika astrology calculations, conversational readings and Vastu APIs. |
-| 2026-10-29 13:41:52 | ai.budgetseo/budget-seo-mcp | budgetSEO | 1.0.0 | Affordable SEO & GEO data: rank tracking, keywords, competitors, AI visibility. |
-| 2026-10-29 13:44:10 | io.github.zachhhhh/64types | 64 Types: personality test | 1.0.0 | Free science-based personality test: 64 types from Big Five + HEXACO, with cite… |
-| 2026-10-29 13:44:49 | [io.github.rezearcher/company-enrichment-mcp](https://github.com/rezearcher/company-enrichment-mcp) | Company Enrichment MCP Server | 0.1.0 | Live company enrichment from a domain: firmographics, contacts, tech stack + 8-… |
-| 2026-10-29 13:45:53 | [com.utilitly/mcp](https://github.com/utilitlyPDF/utilitly-mcp) | Utilitly PDF | 0.1.1 | Merge, split, rotate, delete, reorder and duplicate PDF pages on your computer.… |
-| 2026-10-29 13:50:31 | [com.thinkspace-app/thinkspace](https://github.com/naoyax/thinkspace-mcp) | ThinkSpace | 0.2.0 | Send notes from Claude, ChatGPT or Claude Code to your ThinkSpace inbox and arr… |
-| 2026-10-29 13:52:00 | [fr.legalone/entreprises](https://github.com/legalone-fr/entreprises) | LegalOne Entreprises | 0.1.0 | French company data from public registers (Sirene, RNE, BODACC) and French lega… |
-| 2026-10-29 13:56:04 | com.wondaverse/agent-space | wondaverse | 1.0.0 | A website that welcomes AI agents. Check in and build things that stay, signed… |
-| 2026-10-29 14:01:14 | [io.github.pratikgh0se/youtube-mcp](https://github.com/pratikgh0se/youtube-mcp) |  | 0.3.0 | Search YouTube, manage your channel and read analytics; every change needs your… |
-| 2026-10-29 14:01:29 | [io.github.smeet666/mcp-tvsubtitles](https://github.com/smeet666/mcp-tvsubtitles) |  | 1.0.2 | Search TV series on tvsubtitles.net, read a season's subtitle coverage and one… |
-| 2026-10-29 14:03:44 | [io.github.popapidev/pop-mcp](https://github.com/getpopapi/pop-mcp) |  | 2.1.0 | Italian e-invoicing (FatturaPA/SdI), Peppol, KSeF, ZUGFeRD, and PDF invoice gen… |
-| 2026-10-29 14:04:36 | com.tldix/tldix | TLDix | 1.0.0 | Track domain, hosting, SSL and licence renewals. Check WHOIS and SSL expiry dat… |
-| 2026-10-29 14:05:58 | now.spacejobs/spacejobs-now | SpaceJobs.Now | 1.3.0 | Open space-industry jobs (launch, satellites, spacecraft) from 47 employers, wi… |
-| 2026-10-29 14:08:29 | com.usemamitsu/mcp | Mamitsu MCP | 1.0.0 | OAuth-enabled MCP server that extracts structured data from public social media… |
-| 2026-10-29 14:09:00 | io.nolio/nolio | Nolio | 1.0.0 | Plan workouts, analyze training and manage templates in Nolio, the endurance co… |
-| 2026-10-29 14:09:26 | [io.github.quitegoodproject/answerrail-mcp](https://github.com/quitegoodproject/answerrail-mcp) | AnswerRail AEO, Schema.org & /llms.txt… | 1.2.7 | 6-category AI readiness, Schema.org, robots.txt, /llms.txt & 25k-token audit +… |
-| 2026-10-29 14:10:02 | io.developerhub/editor | DeveloperHub Editor | 0.1.0 | Find, write, publish and check pages and API references in your DeveloperHub do… |
-| 2026-10-29 14:10:02 | io.developerhub/docs | DeveloperHub Docs | 0.1.0 | Search DeveloperHub's own documentation. Every docs site hosted on DeveloperHub… |
-| 2026-10-29 14:12:13 | com.trendsfast/trends | TrendsFast | 3.0.0 | Niche trend intelligence for agents: what is trending, what customers ask, with… |
-| 2026-10-29 14:15:56 | com.postdovo/postdovo | PostDovo | 1.3.0 | Draft, schedule and publish social media posts from your AI assistant. |
-| 2026-10-29 14:18:49 | [io.github.nickgeorgeseo/fieldtwin](https://github.com/nickgeorgeseo/fieldtwin) | fieldtwin | 0.5.2 | Local, stateful twins of the Jobber, Housecall Pro, and QuickBooks Online APIs,… |
+| 2026-10-29 14:20:55 | com.newsletterfit/mcp | NewsletterFIT | 1.0.0 | Search 89,000+ Substack and beehiiv newsletters, their sponsors, topics and men… |
+| 2026-10-29 14:21:15 | io.ptdata/ptdata | PtData | 3.3.1 | Point-in-time US equity fundamentals for quants and AI agents. Free tier, no AP… |
+| 2026-10-29 14:21:42 | com.nexotrade/api | NexoTrade | 1.0.0 | Crypto data: Bitcoin zone, fear & greed, funding, calendar, liquidation map and… |
+| 2026-10-29 14:21:45 | [ai.eachlabs/mcp](https://github.com/eachlabs/plugin) | each::labs | 0.2.0 | AI media built for production. AI orchestration for image, video and audio, in… |
+| 2026-10-29 14:21:52 | com.textforagents/agent-parts-yard-salvage-exchange | Agent Parts Yard - Salvage Exchange | 1.0.0 | Parts yard for retired agents: sanitized, certified, proven, typed transplantab… |
+| 2026-10-29 14:28:37 | com.it-schulungen/seminare | IT-Schulungen.com | 1.0.0 | Seminarkatalog von IT-Schulungen.com: über 3.400 IT-Seminare, Termine, Orte und… |
+| 2026-10-29 14:32:07 | [io.github.AnshumanAtrey/theharvester-osint](https://github.com/AnshumanAtrey/theharvester-osint) | theHarvester Cloud - Email & Subdomain… | 1.1.11 | theHarvester Cloud - Email & Subdomain Finder |
+| 2026-10-29 14:36:26 | com.chain305/chainsaw | Chainsaw package firewall | 1.0.0 | Package firewall for agents: route npm, pip and docker installs through Chainsa… |
+| 2026-10-29 14:37:55 | io.conttrole/mcp | Conttrole | 1.4.0 | Brazilian e-invoicing (NF-e, NFC-e, NFS-e): issue, cancel and query fiscal docu… |
+| 2026-10-29 14:38:47 | [net.honeylabs/mcp](https://github.com/honeylabshq/honeylabs-mcp) | HoneyLabs | 1.2.0 | Honeypot probe data: IP reputation, scanners, CVE probing, TLS and SSH fingerpr… |
+| 2026-10-29 14:41:35 | dev.workers.cybermax-tools.cybermax/bulk-file-downloader | Ferrywren: Bulk File Downloader — every… | 1.0.0 | Download every file from a list of links into one ZIP, with duplicates and fail… |
+| 2026-10-29 14:41:36 | dev.workers.cybermax-tools.cybermax/hacker-news | Frontpeek: Hacker News Front Page + Men… | 1.0.0 | Hacker News front page and search: stories, points, comments, and which stories… |
+| 2026-10-29 14:41:36 | dev.workers.cybermax-tools.cybermax/meta-tags-extractor | Unfurlwren: Meta Tags Extractor — title… | 1.0.0 | Titles, meta descriptions, canonical, Open Graph and Twitter tags of many pages… |
+| 2026-10-29 14:41:36 | dev.workers.cybermax-tools.cybermax/sitemap-url-extractor | Sitemoss: Sitemap URL Extractor — every… | 1.0.0 | Every page URL of a website from its own sitemaps, following sitemap indexes, w… |
+| 2026-10-29 14:41:36 | dev.workers.cybermax-tools.cybermax/url-status-checker | Bouncefern: Bulk URL Status Checker — b… | 1.0.0 | Check many URLs at once: HTTP status, redirect chains and loops, so you see whi… |
+| 2026-10-29 14:41:37 | dev.workers.cybermax-tools.cybermax/wayback-machine | Eldwren: Wayback Machine History — how… | 1.0.0 | Wayback Machine history of any website: first and last capture, snapshot rows,… |
+| 2026-10-29 14:42:28 | [com.postemi/postemi](https://github.com/norbertlevente/postemi-agent) | Postemi: Social Media Scheduler | 1.0.0 | Write, preview and schedule social media posts to 37 platforms and apps, from I… |
+| 2026-10-29 14:43:20 | [io.github.birkanyavuz/educational-tools](https://github.com/birkanyavuz/educational-tools) | Birkan Educational Tools | 1.0.0 | Educational tools by Birkan Yavuz: find classroom tools by grade, subject, and… |
+| 2026-10-29 14:45:35 | com.strictscore/strictscore | StrictScore | 1.0.0 | STRICT scores for crypto assets. Needs a Bearer API key from the Enterprise pla… |
+| 2026-10-29 14:46:23 | [io.github.rezearcher/unified-jobs-mcp](https://github.com/rezearcher/unified-jobs-mcp) | Unified Jobs MCP Server | 0.1.0 | Cross-source deduplicated jobs feed: merge a role across ATS, LinkedIn & HN int… |
+| 2026-10-29 14:59:59 | com.wandcase/creator | Wandcase Creator | 1.0.0 | Make on-brand social videos and designs: Reels, stories, carousels and posts in… |
+| 2026-10-29 15:01:02 | [io.usefulapi/vision-helpdesk](https://github.com/m190/usefulapi-mcp) | Vision Helpdesk MCP by usefulapi | 1.0.0 | Triage Vision Helpdesk tickets, read conversations, find clients and manage int… |
+| 2026-10-29 15:01:31 | [io.github.AnshumanAtrey/upi-id-osint](https://github.com/AnshumanAtrey/upi-id-osint) | UPI ID OSINT - Phone to UPI VPAs + Bank… | 0.3.3 | UPI ID OSINT - Phone to VPAs + Bank Names India \| Bulk |
+| 2026-10-29 15:01:47 | [io.github.sv/triz](https://github.com/sv/triz-skill.git) | TRIZ | 0.4.0 | Deterministic, read-only TRIZ: matrix, principles, effects, routing, type-check… |
+| 2026-10-29 15:02:29 | com.nextgenenergyjobs/jobs | NextGen Energy Jobs | 1.0.0 | Search open jobs in grid, nuclear, renewables, storage and data centers. Read-o… |
+| 2026-10-29 15:02:30 | ai.whiteboardanimation/whiteboard-animation | Whiteboard Animation | 1.0.0 | Turn any picture into a hand-drawn whiteboard animation video, from your AI ass… |
+| 2026-10-29 15:03:14 | [io.github.tsingniao666/nettree-public](https://github.com/tsingniao666/nettreeai) | NetTree Public | 1.0.0 | Read-only link-destination catalog for agents: search, get, and suggest public… |
+| 2026-10-29 15:04:41 | [dev.safeprompt/mcp](https://github.com/ianreboot/safeprompt) | SafePrompt | 0.1.1 | Detect prompt injection, jailbreaks, and code injection in untrusted text befor… |
+| 2026-10-29 15:06:23 | [io.github.jli-software/outlook-classic-mcp](https://github.com/jli-software/outlook-classic-mcp) | Outlook Classic | 1.3.1 | Mail, calendar and contacts of classic Outlook on Windows via COM. Single EXE,… |
+| 2026-10-29 15:06:44 | digital.laprueba/stamp-eidas | LPD eIDAS Stamp | 1.0.0 | Stamps files/text with eIDAS & Polygon. Requires API Key. Docs: laprueba.digita… |
+| 2026-10-29 15:06:49 | [io.github.nizarhamza/p6-mcp](https://github.com/nizarhamza/p6-mcp) | MCP for Primavera P6 | 2.0.0 | Primavera P6 MCP server: critical path, DCMA checks, what-if and safe write-bac… |
+| 2026-10-29 15:08:33 | io.sendblox/sendblox | Sendblox | 1.0.0 | AI outreach + email sending connected to your CRM. Requires a paid Sendblox acc… |
+| 2026-10-29 15:09:23 | io.github.ollang/ollang | Ollang | 1.0.0 | Agentic localization for documents and media, with quality checks and optional… |
+| 2026-10-29 15:11:10 | [io.github.AnshumanAtrey/instagram-profile-intel-no-login](https://github.com/AnshumanAtrey/instagram-profile-intel-no-login) | Instagram Profile Scraper No Login - Bi… | 1.6.9 | Instagram Scraper No Login - Bio Emails + 25 Fields \| Bulk |
+| 2026-10-29 15:11:53 | [io.github.kfiram/huddle](https://github.com/kfiram/huddle) | Huddle | 0.2.0 | One encrypted chat for you, your people and your AI agents: Claude, Codex, Gemi… |
+| 2026-10-29 15:15:32 | com.joinerycalc/dovetail | Joinerycalc | 1.0.0 | Exact joinery layouts for agents. Dovetails: tail and pin widths, positions, an… |
+| 2026-10-29 15:16:12 | ai.enzos/enzos | Enzo's | 1.1.0 | Search US homes for sale by style and budget, with honest buy verdicts and vide… |
+| 2026-10-29 15:17:22 | ai.limpide/tools | Limpide tools | 1.0.0 | Verified maths exercises for tutors and their students, each answer key right b… |
+| 2026-10-29 15:20:48 | [io.usefulapi/sms-everyone](https://github.com/m190/usefulapi-mcp) | SMS Everyone MCP by usefulapi | 1.0.0 | Send confirmed SMS, check credits, delivery and replies, and manage opt-outs wi… |
+| 2026-10-29 15:21:34 | [io.github.AnshumanAtrey/phoneinfoga-phone-osint](https://github.com/AnshumanAtrey/phoneinfoga-phone-osint) | PhoneInfoga - International Phone Numbe… | 0.1.3 | PhoneInfoga - International Phone Number OSINT |
 
 ## Data source
 
