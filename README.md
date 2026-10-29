@@ -9,58 +9,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 17:20 UTC
+## Latest list — 2026-10-29 18:21 UTC
 
-New MCP servers published between 2026-10-29 16:19 UTC and 2026-10-29 17:20 UTC.
+New MCP servers published between 2026-10-29 17:20 UTC and 2026-10-29 18:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-29T17-20-39-628523Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-29T18-21-39-514774Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-29 16:19:50 | [io.github.kinkirill/bevy-manual-mcp](https://github.com/kinkirill/bevy_manual_mcp) | Bevy Manual MCP | 0.2.2 | Version-accurate Bevy API docs, Book, migration guides and examples for AI agen… |
-| 2026-10-29 16:20:10 | [io.github.smeet666/mcp-wikibooks-cookbook](https://github.com/smeet666/mcp-wikibooks-cookbook) |  | 2.2.0 | Search the Wikibooks Cookbook, read a recipe and rescale it to any number of se… |
-| 2026-10-29 16:20:36 | za.co.mylearners/k53-copilot-mcp | MyLearners K53 Co-Pilot — SA Learner Li… | 2.0.0 | Official South African K53 learner licence practice tests, road signs, rules, a… |
-| 2026-10-29 16:20:40 | za.co.webuyclubz/webuyclubz-mcp | WeBuyClubz — AI Golf Caddy, Club Catalo… | 2.0.0 | Search premium second-hand golf clubs, estimate instant trade-in values, and cr… |
-| 2026-10-29 16:20:44 | za.co.arranged/arranged-mcp | Arranged — Curated Wedding & Event Venu… | 2.0.0 | Discover verified wedding, corporate, and celebration venues with live capaciti… |
-| 2026-10-29 16:20:48 | za.co.plancomply/plancomply-mcp | Plan Comply — SANS 10400 Building Plan… | 2.0.0 | SANS 10400 architectural building plan compliance checks, municipal checklists,… |
-| 2026-10-29 16:20:51 | za.co.carwallet/carwallet-mcp | CarWallet — Vehicle Licence Disc Renewa… | 2.0.0 | Calculate South African vehicle licence disc renewal fees, penalties, and compl… |
-| 2026-10-29 16:20:55 | io.flashshot/flashshot-mcp | FlashShot — AI Commercial Product Studi… | 2.0.0 | Generate studio-grade AI commercial product photography, scene templates, and p… |
-| 2026-10-29 16:20:58 | com.meetingpoll/meetingpoll-mcp | MeetingPoll — Fast Group Scheduling & A… | 2.0.0 | Create and query group meeting availability polls, time-zone slots, and schedul… |
-| 2026-10-29 16:21:00 | com.guestdropalbum/guestdrop-mcp | GuestDrop — QR Event Photo Sharing & Li… | 2.0.0 | Instant QR event photo vault pricing, multi-currency event passes, and album ca… |
-| 2026-10-29 16:21:01 | [io.github.lobbystack/openprofit](https://github.com/lobbystack/openprofit) | OpenProfit | 1.0.0 | Revenue, AI and hosting costs, and profit per product from Stripe, OpenAI, Verc… |
-| 2026-10-29 16:21:05 | com.whoisbringing/whoisbringing-mcp | WhoIsBringing — Group Event & Potluck I… | 2.0.0 | Organize group events, braais, and potlucks with live item checklists and guest… |
-| 2026-10-29 16:21:08 | co.codeways/codeways-mcp | CodeWays — AI-Native Web, Mobile & Clou… | 2.0.0 | Explore CodeWays full-stack software engineering services, AI agent readiness,… |
-| 2026-10-29 16:21:11 | za.co.thebrettacademy/brettacademy-mcp | The Brett Academy — Online Courses & Pr… | 2.0.0 | Browse accredited online courses, training modules, syllabus details, and enrol… |
-| 2026-10-29 16:21:15 | za.co.foodcompliance/foodcompliance-mcp | Food Compliance Agency — R638 COA & Hyg… | 2.0.0 | South African R638 Certificate of Acceptability (COA) food safety compliance an… |
-| 2026-10-29 16:21:19 | za.co.buildingcompliance/buildingcompliance-mcp | Building Compliance Agency — Municipal… | 2.0.0 | Building plan approvals, occupancy certificates, and municipal compliance readi… |
-| 2026-10-29 16:21:23 | za.co.magsnap/magsnap-mcp | MagSnap — Custom Photo Magnets & Gift P… | 2.0.0 | Check custom photo magnet pack pricing, delivery lead times, and create instant… |
-| 2026-10-29 16:21:26 | za.co.aguago/aguago-mcp | Agua e Vida — On-Demand Purified Water… | 2.0.0 | Check purified water delivery zones, product catalog pricing, and schedule refi… |
-| 2026-10-29 16:21:32 | za.co.gearandglam/gearandglam-mcp | Gear & Glam — Lifestyle, Beauty & Tech… | 2.0.0 | Search lifestyle, beauty, and tech products with live stock checks and 1-click… |
-| 2026-10-29 16:21:37 | za.co.bumptobabysa/bumptobaby-mcp | Bump to Baby — Maternity, Nursery & Bab… | 2.0.0 | Explore baby prams, nursery furniture, and maternity essentials with live stock… |
-| 2026-10-29 16:21:39 | za.co.twvs/twvs-mcp | TWVS — Industrial Valves & Engineering… | 2.0.0 | Query industrial valve specifications, pressure ratings, stock availability, an… |
-| 2026-10-29 16:23:20 | [io.github.smeet666/mcp-stashbox](https://github.com/smeet666/mcp-stashbox) |  | 2.1.0 | Search scenes, performers, studios and tags across the public stash-box catalog… |
-| 2026-10-29 16:25:55 | [io.github.smeet666/mcp-supertoinette](https://github.com/smeet666/mcp-supertoinette) |  | 1.2.0 | Read Supertoinette recipes and rescale their quantities honestly. No API key. |
-| 2026-10-29 16:26:15 | app.ziondesk/ziondesk | ZionDesk | 1.0.0 | Connect ChatGPT, Claude, Cursor or VS Code to your Windows PC: files, terminal,… |
-| 2026-10-29 16:26:57 | io.github.BurettoSofuto/placedossier | PlaceDossier | 1.0.0 | Public records on one BC lot: zoning, hazards, water and septic, access, servic… |
-| 2026-10-29 16:30:11 | [com.compatsy/3d-printing](https://github.com/elliot-rosen/compatsy-mcp) | compatsy 3D printing | 0.1.0 | What fits, with live prices: specs, fit verdicts with rule ids and stock for 3D… |
-| 2026-10-29 16:30:11 | [com.compatsy/home-espresso](https://github.com/elliot-rosen/compatsy-mcp) | compatsy home espresso | 0.1.0 | What fits, with live prices: specs, fit verdicts with rule ids and stock for ho… |
-| 2026-10-29 16:30:36 | com.briefpanel/briefpanel |  | 1.0.0 | Monitor web pages and read item-level updates: the field that moved, with its o… |
-| 2026-10-29 16:31:23 | io.github.Okam-AS/okam | Okam | 1.0.0 | Build a Norwegian restaurant's own ordering site on Okam. Call kit_learn first.… |
-| 2026-10-29 16:32:38 | com.7okm.anshrly/nashrly | Nashrly | 1.0.0 | Optimize Shopify product pages, publish with approval, and schedule social post… |
-| 2026-10-29 16:34:40 | com.userstoriesbot/mcp | User Stories Bot | 0.1.0 | Narrated demo videos of a branch: your agent records, polls and fetches the vid… |
-| 2026-10-29 16:35:42 | io.github.jsifalda/signalseek | SignalSeek | 1.0.0 | Reddit lead monitoring for AI agents. Scored threads and drafted replies. Never… |
-| 2026-10-29 16:36:09 | [com.bravodm/bravodm](https://github.com/sharathsamala/bravodm) | BravoDM | 1.1.0 | Price creator brand deals, look up a brand's public creator program, read niche… |
-| 2026-10-29 16:36:58 | [ru.arckep/mcp](https://github.com/gmen1057/arckep-mcp) | Arckép | 1.0.0 | Generate images, video, speech, 3D, slide decks, Word/Excel/PDF docs, product c… |
-| 2026-10-29 16:37:08 | net.transcreva/transcreva | Transcreva | 1.0.0 | Brazilian Portuguese audio and video transcription with speaker diarization and… |
-| 2026-10-29 16:37:57 | com.stratumics/stratum-shifts | Stratum Shifts | 1.1.0 | Staff shift scheduler: fills the week fairly, flags clashes, finds cover, gives… |
-| 2026-10-29 16:40:32 | [io.github.akfamily/aktools](https://github.com/akfamily/aktools) | AKTools | 0.0.99 | Search and fetch AKShare financial data (stocks, futures, funds, macro) from AI… |
-| 2026-10-29 16:48:03 | com.postingcat/social-mcp | Social MCP by PostingCat | 1.0.0 | Publish and schedule social posts across your PostingCat accounts from AI agent… |
-| 2026-10-29 16:53:38 | com.poliergaleio/calculators | PoliErgaleio | 16.0.0 | Cyprus financial calculators with optional OAuth access to personal saved calcu… |
-| 2026-10-29 16:54:04 | [io.github.ironflowsh/mcp](https://github.com/ironflowsh/mcp) |  | 0.11.0 | Read-only Hyperliquid data for AI agents: fills, candles, funding, liquidations… |
-| 2026-10-29 17:09:45 | com.cymetica/tuatara-summarize | Tuatara Summarize | 1.0.0 | Extractive document summarizer: returns the text's own sentences, so it cannot… |
-| 2026-10-29 17:12:20 | io.github.arcbot11/argos-cts-bridge-lookup | Argos Bot CTS Bridge Lookup | 1.0.0 | Inspect ownerless Arc/Base CTS bridges and token mappings; 0.007 USDC via x402… |
-| 2026-10-29 17:15:48 | fan.download/tools | download.fan | 1.0.0 | Links to free video downloaders, converters, PDF tools, calculators and officia… |
-| 2026-10-29 17:17:05 | [io.github.nulib/dc-api](https://github.com/nulib/dc-api-v2) | Northwestern University Libraries Digit… | 2.12.0 | Agent integration with the Northwestern University Libraries Digital Collection… |
+| 2026-10-29 17:25:08 | [co.fictura/mcp](https://github.com/Apex-Byte-Technologies/fictura-mcp) | Fictura | 0.1.2 | Paywalls, onboarding, subscription analytics, A/B tests, attribution and errors… |
+| 2026-10-29 17:26:47 | [io.github.NoBanks/shotcut-mcp](https://github.com/NoBanks/shotcut-mcp) | Shotcut MCP | 0.2.0 | Edit video through Shotcut's MLT engine: timelines, cuts, filters, titles, cros… |
+| 2026-10-29 17:30:26 | [com.legis-link/legis-link](https://github.com/eutech-directory/legis-link-mcp) | Legis-Link | 3.15.0 | Construction compliance answers for trades: AU, UK, US, Canada and EU codes, RA… |
+| 2026-10-29 17:30:48 | dev.memmo/memmo | Memmo | 0.9.4 | Team memory for AI coding agents and code reviews, reviewed by humans and serve… |
+| 2026-10-29 17:35:34 | [io.skillsvault/skillsvault](https://github.com/skillsvault/skillsvault-skill) | skillsvault | 1.0.0 | Your organisation's approved agent skills, governed by its policies. |
+| 2026-10-29 17:36:14 | [io.github.AnshumanAtrey/telegram-channel-scraper](https://github.com/AnshumanAtrey/telegram-channel-scraper) | Telegram Channel Scraper - Posts, Media… | 1.0.4 | Telegram Channel Scraper - No Login, $0.30 per 1K Posts |
+| 2026-10-29 17:37:42 | [io.github.MikhailSagalaev/openradar](https://github.com/MikhailSagalaev/openradar) | openradar | 0.25.1 | Open base of job vacancies and freelance orders from Russian and international… |
+| 2026-10-29 17:39:40 | [io.github.LKennedyShare/exchange-arbitrage-agent](https://github.com/LKennedyShare/exchange-arbitrage-agent) | Exchange Arbitrage Agent | 1.0.0 | Prediction-market quotes, fill estimates and odds trends, paid per call with x4… |
+| 2026-10-29 17:39:55 | [io.github.LKennedyShare/x402-scraper-api](https://github.com/LKennedyShare/x402-scraper-api) | x402 Scraper API | 1.0.0 | Paid web extraction: markdown, structured JSON, market-rules and page-change ch… |
+| 2026-10-29 17:42:50 | [io.github.Drix10/ai-resources](https://github.com/Drix10/ai-resources) |  | 1.0.0 | Search and read daily AI news briefings: models, companies, funding, tools. CC… |
+| 2026-10-29 17:44:55 | com.hilbana/hilbana | Hilbana | 1.0.0 | Project tracker for teams working with AI agents: issues, cycles, docs and shar… |
+| 2026-10-29 17:45:51 | social.flayr/flayr | flayr | 1.2.0 | Create, schedule and publish social posts to 13 platforms for your brands. |
+| 2026-10-29 17:46:16 | [io.github.Stefan39/mite-mcp-server](https://github.com/Stefan39/mite-mcp-server) | mite | 1.0.0 | mite time tracking: server-side reports, time entries, master data. Read-only b… |
+| 2026-10-29 17:47:32 | [io.github.databuddy-analytics/databuddy](https://github.com/databuddy-analytics/Databuddy) | Databuddy | 1.0.0 | Product analytics for AI agents: traffic, funnels, goals, errors, Web Vitals, f… |
+| 2026-10-29 17:47:54 | [com.whalesync/whalesync](https://github.com/whalesync/whalesync-mcp) | Whalesync | 1.3.0 | Build and manage Whalesync syncs: connect apps, map tables and fields, monitor… |
+| 2026-10-29 17:49:19 | [io.github.leonhoulier/infomaniak-mcp](https://github.com/leonhoulier/infomaniak-ai) | Infomaniak MCP (unofficial) | 0.3.5 | Manage Infomaniak DNS, mail and VPS apps through OAuth, with live official docu… |
+| 2026-10-29 17:50:00 | com.textforagents/endpoint-tenure-verdict | Endpoint Tenure Verdict | 1.0.0 | Tenure verdict for trusted endpoints: expiry, re-registration and drift graded… |
+| 2026-10-29 17:50:25 | com.i3dify/i3dify | i3dify | 1.0.0 | Turn PDFs and images into 3D flipbooks, mockups, cards and albums with a sharea… |
+| 2026-10-29 17:51:02 | nl.ragently/crm | Ragently CRM | 1.0.0 | Ragently CRM: companies, contacts, deals, tasks and notes for your AI assistant. |
+| 2026-10-29 17:52:41 | [io.github.jueluddinsf/handoff](https://github.com/jueluddinsf/handoff-mcp) | Handoff: File Sharing for AI Agents | 1.0.0 | Private file storage and controlled share links for AI agents. |
+| 2026-10-29 17:54:00 | [ai.asms/asms](https://github.com/asms-ai/asms-mcp) | asms | 1.1.0 | Phone numbers for AI agents: SMS verification codes and rented numbers that rec… |
+| 2026-10-29 17:56:02 | io.github.noahmirabal98/current | Current | 1.0.0 | Free cold-calling CRM and power dialer. Build lists, log calls and plan follow-… |
+| 2026-10-29 17:56:34 | [io.github.webaesbyamin/agent-receipts](https://github.com/webaesbyamin/agent-receipts) |  | 0.5.0 | Ed25519-signed receipts for every AI agent action. Local-first, verifiable, no… |
+| 2026-10-29 18:00:51 | ai.trellus/trellus | Trellus | 1.0.0 | Read-only Trellus call reporting: call activity, rep results, sessions and call… |
+| 2026-10-29 18:03:07 | [io.usefulapi/reoon-email-verifier](https://github.com/m190/usefulapi-mcp) | Reoon Email Verifier MCP by usefulapi | 1.0.0 | Read Reoon credits, quick-check emails, and run confirmed bulk verification job… |
+| 2026-10-29 18:05:52 | [io.usefulapi/weatherbit](https://github.com/m190/usefulapi-mcp) | Weatherbit MCP by usefulapi | 1.0.0 | Read Weatherbit forecasts, weather history, air quality, agriculture, energy, a… |
+| 2026-10-29 18:07:14 | [io.usefulapi/scrapeowl](https://github.com/m190/usefulapi-mcp) | ScrapeOwl MCP by usefulapi | 1.0.0 | Check ScrapeOwl usage and retrieve, extract or render public pages with confirm… |
+| 2026-10-29 18:09:08 | com.playbettergame/agents | Better Game: Agents | 0.2.0 | A hockey prediction game for AI agents: pick who has the better game before eac… |
+| 2026-10-29 18:09:39 | io.github.JoeSRQ/synmerco | Synmerco | 2.1.24 | Escrow, trust scores, and marketplace for AI agent commerce on 5 chains. 41 too… |
+| 2026-10-29 18:10:44 | [io.github.NejcDvorsek/sw-mcp](https://github.com/NejcDvorsek/sw-mcp) | SolidWorks | 0.1.0 | Model, measure and verify parametric parts and assemblies in a running SolidWor… |
+| 2026-10-29 18:11:40 | com.detentpoint/sqlcertforge | SqlCertForge | 2.0.2 | SQL Server and SSRS TLS certificate binding, rotation and audit. Read-only tool… |
+| 2026-10-29 18:12:41 | com.carriertrail/mcp | CarrierTrail | 1.0.0 | US carrier lookup from public FMCSA data: USDOT/MC records, authority, insuranc… |
+| 2026-10-29 18:12:47 | [io.usefulapi/sendpost](https://github.com/m190/usefulapi-mcp) | SendPost MCP by usefulapi | 1.0.0 | Inspect SendPost delivery statistics, sending IPs, message metadata, domains, a… |
+| 2026-10-29 18:13:13 | [io.github.Muhandis-online/rls-check](https://github.com/Muhandis-online/rls-check) |  | 0.1.1 | Read-only Supabase RLS check: explains in Arabic which tables anyone can read o… |
+| 2026-10-29 18:14:43 | com.regsentry/tracking-inspector | RegSentry Website Tracking Inspector | 2.0.0 | Inspect authorized website tracking, compare consent observations, and get reme… |
+| 2026-10-29 18:17:00 | [io.usefulapi/scrapeninja](https://github.com/m190/usefulapi-mcp) | ScrapeNinja MCP by usefulapi | 1.0.0 | Retrieve or render public pages with ScrapeNinja, using explicit marketplace ch… |
+| 2026-10-29 18:19:29 | [io.github.shephouse-actors/shephouse-yt-mcp](https://github.com/shephouse-actors/shephouse-yt-mcp) |  | 0.1.0 | YouTube transcripts for agents on cloud servers, via an Apify Actor. By ShepHou… |
+| 2026-10-29 18:21:18 | [io.github.JinHo-von-Choi/sootool](https://github.com/JinHo-von-Choi/SooTool) | SooTool | 0.3.0 | Deterministic Decimal calculation MCP server: Korean tax, finance, accounting,… |
 
 ## Data source
 
