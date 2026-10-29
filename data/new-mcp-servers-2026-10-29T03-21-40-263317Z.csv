@@ -1,0 +1,44 @@
+created_at,server,title,version,repository,transports,description
+2026-10-29T02:20:49.531987Z,io.github.etchv-labs/mcp-server,Etchv,1.6.0,https://github.com/etchv-labs/mcp-server,,"Invisible watermarking and watermark detection for images, PDFs and videos with Etchv."
+2026-10-29T02:21:00.413404Z,dev.threadmine/mcp,,0.2.0,https://github.com/maschiojv/threadmine-mcp,,"Analyze JVM thread dumps with ThreadMine: deadlocks, CPU spikes, pool exhaustion, health score."
+2026-10-29T02:21:35.162894Z,io.github.pipeworx-io/countries,Countries,0.2.0,https://github.com/pipeworx-io/mcp-countries,streamable-http,Countries MCP — world country data.
+2026-10-29T02:24:42.461199Z,org.helprabbit/helprabbit,HelpRabbit,1.0.0,,streamable-http,"Work your HelpRabbit help desk: tickets, replies, customers, the AI agent and its knowledge."
+2026-10-29T02:25:00.960587Z,com.bastionhelix/agent-lens,Bastion Helix Agent Lens,1.0.0,,streamable-http,"Web pages for AI agents: may-I-use checks, prompt-injection flags, Markdown, JSON, screenshots"
+2026-10-29T02:25:26.617895Z,net.bigfloppy.vibescan/vibescan,,1.0.0,https://github.com/wminno/vibescan,streamable-http,"Free security scan for AI-written GitHub repos: leaked keys, .env, eval, SQLi, CORS."
+2026-10-29T02:26:31.72877Z,io.github.sumitrmardy/app-reviews-scraper,App Reviews Scraper,1.0.0,,streamable-http,"Google Play and App Store written reviews in one schema, with ratings and app metadata."
+2026-10-29T02:26:33.843517Z,io.github.pipeworx-io/crawlgraph,Crawlgraph,0.2.0,https://github.com/pipeworx-io/mcp-crawlgraph,streamable-http,"CrawlGraph MCP — backlink intelligence on the public Common Crawl webgraph (4.4B edges, 120M…"
+2026-10-29T02:26:34.814191Z,com.scriptmasterlabs/quant-terminal,SCRIPTMASTERLABS — Quant Terminal,1.1.0,,streamable-http,"AMC/GME + any US ticker: real-data levels, 2021-squeeze mirror projection, analog scan; x402."
+2026-10-29T02:26:34.838832Z,com.scriptmasterlabs/perpetual-roadmap,SCRIPTMASTERLABS — Perpetual Roadmap,1.0.0,,streamable-http,AMC/GME 25-session DTW price roadmaps from real market data; paid via x402 USDC on Base.
+2026-10-29T02:26:34.867099Z,com.scriptmasterlabs/scriptdocs,SCRIPTMASTERLABS — ScriptDocs,1.0.0,,streamable-http,"Live npm, PyPI and crates.io package facts, READMEs and vulnerability checks for coding agents."
+2026-10-29T02:26:56.748131Z,io.github.pipeworx-io/creditcard,Creditcard,0.2.0,https://github.com/pipeworx-io/mcp-creditcard,streamable-http,Credit-card number validation MCP.
+2026-10-29T02:27:06.525343Z,io.github.pipeworx-io/crc,Crc,0.2.0,https://github.com/pipeworx-io/mcp-crc,streamable-http,Checksum MCP — CRC-32 & Adler-32.
+2026-10-29T02:27:44.04984Z,io.github.pipeworx-io/crontab,Crontab,0.2.0,https://github.com/pipeworx-io/mcp-crontab,streamable-http,Crontab expression MCP.
+2026-10-29T02:28:04.302629Z,io.github.pipeworx-io/crs-reports,Crs Reports,0.2.0,https://github.com/pipeworx-io/mcp-crs-reports,streamable-http,"Congressional Research Service reports — Congress's own nonpartisan analysis, searchable and…"
+2026-10-29T02:28:45.640806Z,com.xcopybook/xcopybook,XCOPYBook,3.0.0,https://github.com/maxand98/XCOPYBook,streamable-http,"Read-only XCOPYBook: book chapters, search, collector profiles and the XCOPY works registry."
+2026-10-29T02:28:52.210156Z,app.itemnumbers/itemnumbers-mbs,itemnumbers MBS schedule,1.0.0,https://github.com/maxand98/item-ai,streamable-http,"Read-only Medicare Benefits Schedule lookup: items, history, relationships and combinations."
+2026-10-29T02:28:55.162696Z,xyz.bd5d/bd5d-archive,BD5D BrainDrops archive,1.0.0,https://github.com/maxand98/bd5d,streamable-http,"Read-only archive of early BrainDrops releases, artists, holdings and editorial research."
+2026-10-29T02:28:58.356478Z,com.maxand98/maxand98,maxand98 public corpus,1.0.0,https://github.com/maxand98/personal-website,streamable-http,"Read-only access to approved maxand98 publications, citations, claims and evidence records."
+2026-10-29T02:29:40.488268Z,io.github.pipeworx-io/ct-dmv,Ct Dmv,0.2.0,https://github.com/pipeworx-io/mcp-ct-dmv,streamable-http,"Connecticut DMV MCP — electric-vehicle registrations at vehicle level, aggregated on demand by…"
+2026-10-29T02:29:57.524631Z,io.github.pipeworx-io/currencyformat,Currencyformat,0.2.0,https://github.com/pipeworx-io/mcp-currencyformat,streamable-http,Number & currency formatting MCP.
+2026-10-29T02:30:40.224111Z,io.github.pipeworx-io/csv,Csv,0.2.0,https://github.com/pipeworx-io/mcp-csv,streamable-http,CSV <-> JSON MCP.
+2026-10-29T02:31:17.070183Z,fr.devoria/mcp,Devoria MCP,1.0.0,,streamable-http,"Ship iOS apps with Claude Code: Apple review pre-check, App Store listing, Expo migration."
+2026-10-29T02:33:17.43816Z,ai.wiro/mcp,Wiro AI,1.3.2,https://github.com/wiroai/Wiro-MCP,streamable-http,"Run image, video, audio and LLM models on Wiro AI straight from your AI assistant."
+2026-10-29T02:35:52.185786Z,com.tabbygolf/marketing,Grey Tabby Golf,1.0.0,,streamable-http,"Golf group software: games, scoring, features, pricing, demos, and a 30-day free trial."
+2026-10-29T02:36:17.283452Z,io.github.hubeiqiao/joe-speaking,Joe Speaking,2.1.0,,streamable-http,"Review IELTS and CELPIP speaking practice, progress and feedback saved in Joe Speaking."
+2026-10-29T02:45:59.982301Z,com.tealmac/ui,tealmac UI,1.0.0,https://github.com/productapp264/tealmac-ui,streamable-http,"Search shadcn registry items, read props and get exact install commands for React components."
+2026-10-29T02:49:40.195008Z,io.github.pipeworx-io/datecalc,Datecalc,0.2.0,https://github.com/pipeworx-io/mcp-datecalc,streamable-http,Date calculator MCP.
+2026-10-29T02:50:50.622848Z,io.github.pipeworx-io/dc-dmv,Dc Dmv,0.2.0,https://github.com/pipeworx-io/mcp-dc-dmv,streamable-http,"District of Columbia DMV MCP — DMV service centers, the record-level vehicle-inspection file, and…"
+2026-10-29T02:51:12.155235Z,io.github.pipeworx-io/de-dmv,De Dmv,0.2.0,https://github.com/pipeworx-io/mcp-de-dmv,streamable-http,"Delaware DMV MCP — registered vehicles by fuel type, EV adoption, the state's electric vehicle and…"
+2026-10-29T02:54:30.522352Z,io.github.pipeworx-io/dicebear,Dicebear,1.1.0,https://github.com/pipeworx-io/mcp-dicebear,streamable-http,"DiceBear MCP — wraps DiceBear Avatar API v7 (free, no auth)"
+2026-10-29T02:56:24.642537Z,io.github.pipeworx-io/diff,Diff,0.2.0,https://github.com/pipeworx-io/mcp-diff,streamable-http,Text diff MCP.
+2026-10-29T02:56:33.53538Z,io.github.pipeworx-io/digitraffic-ais,Digitraffic Ais,0.2.0,https://github.com/pipeworx-io/mcp-digitraffic-ais,streamable-http,Digitraffic AIS MCP — live vessel positions in Finnish and Baltic Sea waters.
+2026-10-29T02:57:15.176394Z,io.github.Richard-Ewing/exogram,Exogram ? Personal Neural Network & Memory Vault,0.2.0,https://github.com/Richard-Ewing/exogram-sdk,streamable-http,"Encrypted Personal Neural Network & cross-LLM memory vault for Claude, Cursor, Windsurf & ChatGPT."
+2026-10-29T02:59:11.89053Z,io.github.sarmadahsan/paidfor,paidfor,0.3.0,,streamable-http,"Check an x402 seller before paying: verdict, failure rate and evidence from paid calls on Base."
+2026-10-29T02:59:55.344593Z,com.evroamer/roamer,Roamer for Rivian,2.0.0,,streamable-http,Requires Roamer Plus. Works with Rivian vehicles. Not affiliated with Rivian Automotive.
+2026-10-29T03:05:46.82647Z,io.github.pipeworx-io/duration,Duration,0.2.0,https://github.com/pipeworx-io/mcp-duration,streamable-http,ISO 8601 duration MCP.
+2026-10-29T03:06:49.624909Z,io.github.AgentTools-Cloud/agent-tools-mcp,agent-tools (x402 + MCP + A2A directory),0.3.0,https://github.com/AgentTools-Cloud/AgentToolsCollection,streamable-http,"Discover x402 services, MCP servers and A2A agents by intent — agent-tools.cloud directory."
+2026-10-29T03:09:16.929586Z,com.getpylot/pylot,Pylot AI,1.0.0,,streamable-http,"Draft, schedule and publish on-brand social posts and images for a small business from any AI agent."
+2026-10-29T03:11:37.207389Z,io.github.pipeworx-io/ema-article57,Ema Article57,0.2.0,https://github.com/pipeworx-io/mcp-ema-article57,streamable-http,EMA Article 57 product data — every medicine with a valid marketing authorisation anywhere in the…
+2026-10-29T03:13:49.81755Z,io.github.pipeworx-io/emoji,Emoji,0.2.0,https://github.com/pipeworx-io/mcp-emoji,streamable-http,Emoji MCP.
+2026-10-29T03:16:17.245136Z,io.github.pipeworx-io/epa-regulations,Epa Regulations,0.2.0,https://github.com/pipeworx-io/mcp-epa-regulations,streamable-http,EPA Regulations MCP — US Environmental Protection Agency regulations (40 CFR).
+2026-10-29T03:18:57.810986Z,com.usepeaje/peaje,Peaje,1.0.0,,streamable-http,"Your Peaje agent: tasks to get your site cited by AI, its score, and answers about your business."
