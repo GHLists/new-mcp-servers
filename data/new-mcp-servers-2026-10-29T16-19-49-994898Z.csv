@@ -1,0 +1,42 @@
+created_at,server,title,version,repository,transports,description
+2026-10-29T15:25:20.533606Z,io.github.AnshumanAtrey/betterleaks-cloud,Betterleaks Cloud - GitHub & S3 Secret Scanner,0.3.2,https://github.com/AnshumanAtrey/betterleaks-cloud,streamable-http,Betterleaks Cloud - GitHub Secret Scanner + Validator
+2026-10-29T15:30:36.178414Z,com.axitrace/axitrace,AxiTrace,1.0.0,,streamable-http,"E-commerce revenue, ROAS, campaigns, traffic sources and order journeys from server-side tracking."
+2026-10-29T15:30:52.782071Z,com.spywinads/mcp,SpyWinAds,1.0.0,https://github.com/anhnguyendj/spywinads-mcp,streamable-http,Facebook video ad intel: a video ad's real age and every store running the same video.
+2026-10-29T15:31:08.203484Z,dev.sourcewire/fmcsa-carrier-verify,FMCSA Carrier Verify,1.2.4,,streamable-http,"Vet US trucking carriers by USDOT/MC: authority, insurance, OOS, PASS/REVIEW/FAIL/INCOMPLETE."
+2026-10-29T15:31:08.379434Z,dev.sourcewire/doc-to-markdown,Doc to Markdown for AI Agents,1.0.0,,streamable-http,"Convert PDF, DOCX, PPTX, XLSX and HTML links to clean Markdown with tables and RAG chunks."
+2026-10-29T15:31:51.088723Z,io.github.arkyu2077/transcreva,Transcreva,1.0.0,https://github.com/arkyu2077/transcreva-mcp,streamable-http,Brazilian Portuguese audio and video transcription with speaker diarization and SRT/VTT/DOCX export.
+2026-10-29T15:41:56.058984Z,com.make/mcp-server,Make,2.0.0,https://github.com/integromat/make-skills,streamable-http,"Build, run and debug Make automation scenarios."
+2026-10-29T15:46:00.638624Z,io.github.moveinfra/eu-cloud-mcp,EU Cloud,0.1.0,https://github.com/moveinfra/eu-cloud-mcp,,"Move off AWS, GCP, Azure: EU-owned alternatives, EU cloud prices, exit fees, Terraform lock-in scan."
+2026-10-29T15:48:14.65311Z,ai.seomatic/seomatic,SEOmatic,1.0.3,https://github.com/Minh42/seomatic-mcp,streamable-http,"SEO agent: GSC, keywords, local rank tracking, Business Profile, AI visibility, approval-gated fixes"
+2026-10-29T15:49:22.30808Z,io.squidmaps/squidmaps,squidmaps,1.0.0,,streamable-http,"Make a web map of places, routes and areas, and get a link to share it."
+2026-10-29T15:54:23.623585Z,com.omnicost/catalog,Omnicost,1.0.0,https://github.com/sinequix/omnicost-mcp,streamable-http,"Construction unit prices with source and date for Spain, the US and the EU. Search and item tools."
+2026-10-29T15:57:04.759324Z,io.github.BorgDevelopment/odin-mcp,Odin,0.3.0,,streamable-http,"Read Odin security findings and remediation, link fix pull requests and track retests."
+2026-10-29T15:57:06.685861Z,com.agentbuffs/agentbuffs,AgentBuffs,1.0.0,https://github.com/AgentBuffs/skills,streamable-http,"Find MCP servers and agent skills for a job, ranked, with install config for your client."
+2026-10-29T15:57:58.439184Z,io.github.Nero-Engine/google-sheets-export,Google Sheets Export & Import,0.1.0,,streamable-http,"Write rows to Google Sheets (append, replace, update by key) or read a tab. No OAuth needed."
+2026-10-29T15:58:18.397352Z,io.github.mrronaldlewisjrRE/voicedesk-ai-mcp,VoiceDesk AI,1.0.0,https://github.com/mrronaldlewisjrRE/voicedesk-ai-mcp,streamable-http,"AI voice receptionist for US service businesses: services, pricing, fit checks, demo requests."
+2026-10-29T15:58:20.730839Z,io.github.veynod/veynod,Veynod,0.4.1,https://github.com/veynod/veynod,streamable-http,Shared blackboard and MCP control plane for multi-agent teams.
+2026-10-29T15:58:20.980572Z,ai.everydaysecurity/context,Context,1.0.0,https://github.com/everydaysecurity-ai/context-osint-mcp,streamable-http,"OSINT investigations with traceable evidence: domains, URLs, IPs, scams and business records."
+2026-10-29T16:04:30.460438Z,io.github.TylerKnvpp/kairos,Kairos Timer,1.1.0,https://github.com/TylerKnvpp/time-api,streamable-http,"Run the Kairos timer from your assistant, read the ledger, and draft invoices at month end."
+2026-10-29T16:08:01.242071Z,run.ultrapedia/ultrapedia,Ultrapedia,1.0.0,,streamable-http,"US ultramarathons: dates, places, distances, elevation, prices. Every value cited."
+2026-10-29T16:12:48.080608Z,app.atlasly/atlasly,Atlasly,0.3.0,,streamable-http,"UK site research and worldwide CAD/GIS site context (DXF, GeoJSON, SVG) for architects"
+2026-10-29T16:13:15.09007Z,dev.dryl/components,DRYL Components,3.12.0,https://github.com/Zimpi/DRYL.Website,streamable-http,"Blazor UI library DRYL: find components, read their exact API and tokens, validate Razor markup."
+2026-10-29T16:14:49.213115Z,net.4tourist/agriturismi-italia,Agriturismo.Net,0.1.0,,streamable-http,"Cerca agriturismi su Agriturismo.net e verifica disponibilità, prezzi e condizioni."
+2026-10-29T16:15:36.980177Z,io.github.smeet666/mcp-archiveorg,,2.1.0,https://github.com/smeet666/mcp-archiveorg,,"Search inside digitised books, browse the Internet Archive catalogue and read Wayback captures."
+2026-10-29T16:16:09.261273Z,io.github.smeet666/mcp-ashby,,2.1.0,https://github.com/smeet666/mcp-ashby,,"Search public Ashby job boards: resolve a company, read its openings and the pay it publishes."
+2026-10-29T16:16:15.269787Z,io.github.smeet666/mcp-bideetmusique,,2.1.0,https://github.com/smeet666/mcp-bideetmusique,,"Search the Bide & Musique collection of forgotten French songs. Records, lyrics, no API key."
+2026-10-29T16:16:24.173761Z,io.github.smeet666/mcp-imslp,,1.1.0,https://github.com/smeet666/mcp-imslp,,"Read IMSLP, the Petrucci Music Library: works, scores, editions, copyright. No API key."
+2026-10-29T16:16:37.937131Z,io.github.smeet666/mcp-animenewsnetwork,,3.0.0,https://github.com/smeet666/mcp-animenewsnetwork,,Search the Anime News Network encyclopedia and read its news wire. No API key.
+2026-10-29T16:16:48.478914Z,io.github.smeet666/mcp-lever,,2.1.0,https://github.com/smeet666/mcp-lever,,"Search public Lever job boards: resolve a company, read its openings, read one in full."
+2026-10-29T16:16:56.199663Z,io.github.smeet666/mcp-pequerecetas,,1.2.0,https://github.com/smeet666/mcp-pequerecetas,,Read Spanish family recipes from Pequerecetas and rescale them honestly. No API key.
+2026-10-29T16:16:57.201393Z,io.github.smeet666/mcp-books,,2.1.0,https://github.com/smeet666/mcp-books,,"Search the Internet Archive, the Library of Congress and data.bnf.fr at once, in one answer."
+2026-10-29T16:17:00.257659Z,io.github.smeet666/mcp-lrclib,,2.1.0,https://github.com/smeet666/mcp-lrclib,,Search tracks on LRCLIB and fetch plain or time-synced (LRC) lyrics. No API key.
+2026-10-29T16:17:29.572722Z,io.github.smeet666/mcp-bbc-goodfood,,1.2.0,https://github.com/smeet666/mcp-bbc-goodfood,,"Search BBC Good Food recipes, read one, and scale its ingredients. No API key."
+2026-10-29T16:17:32.073501Z,io.github.smeet666/mcp-libraryofcongress,,3.1.0,https://github.com/smeet666/mcp-libraryofcongress,,Search inside scanned US newspapers and browse the Library of Congress catalogue. No API key.
+2026-10-29T16:17:44.655419Z,io.github.smeet666/mcp-marmiton,,2.2.0,https://github.com/smeet666/mcp-marmiton,,"Search Marmiton recipes, read ingredients and steps, and scale quantities to any servings."
+2026-10-29T16:18:05.716377Z,com.aeoauditing/aeo-auditor-mcp,AEO Auditor — AI Search & Agent Readiness Engine,2.0.0,,streamable-http,"Live AEO, GEO, JSON-LD Schema, robots.txt AI crawler, and Agent Readiness diagnostic auditor."
+2026-10-29T16:18:36.270723Z,io.github.smeet666/mcp-metacritic,,2.1.0,https://github.com/smeet666/mcp-metacritic,,"Search Metacritic films, shows and games, read scores and critic reviews. No API key."
+2026-10-29T16:18:40.471601Z,com.lasvegastonight/las-vegas-nightlife,LasVegasTonight.com — Las Vegas Nightlife & VIP Pricing,2.1.0,,streamable-http,"Compare 85 Las Vegas nightclubs, pool parties, shows & all-in Nevada VIP bottle service pricing."
+2026-10-29T16:19:04.735104Z,io.github.smeet666/mcp-databnf,,2.2.0,https://github.com/smeet666/mcp-databnf,,"Search the BnF open catalogue: authors, works, editions and links to what is digitised."
+2026-10-29T16:19:08.764973Z,io.github.smeet666/mcp-rule34,,2.1.0,https://github.com/smeet666/mcp-rule34,,Search rule34.xxx posts by tag through the site's own API. Needs a rule34.xxx API key.
+2026-10-29T16:19:35.938156Z,io.github.smeet666/mcp-recipes,,4.1.0,https://github.com/smeet666/mcp-recipes,,"Search six recipe sites at once, in French, English and Spanish, and scale quantities."
+2026-10-29T16:19:43.181099Z,io.github.smeet666/mcp-lyricscom,,2.1.0,https://github.com/smeet666/mcp-lyricscom,,"Search song lyrics on lyrics.com by word or by title, and fetch full lyrics. No API key required."
