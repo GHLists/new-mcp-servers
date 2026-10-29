@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-10-29T18:22:27.752417Z,io.github.4robot/hexadata-tools,,1.0.0,https://github.com/4robot/hexadata-tools-mcp,streamable-http,"15 deterministic validation tools for AI agents: tax IDs (15 countries), VAT, IBAN, LEI, HS codes."
+2026-10-29T18:25:57.477455Z,io.github.Har50/ngtchain,NextGen Token,1.0.0,https://github.com/Har50/New-network,,One NGT stream call on Base. The agent signs locally. The facilitator pays Base gas.
+2026-10-29T18:26:48.104155Z,io.github.sinolion/fleet,fleet,0.6.2,https://github.com/sinolion/fleet,,"Every machine you have, for your agent: free GPUs, jobs, served models, software, over SSH."
+2026-10-29T18:30:34.278109Z,dev.testwatch/testwatch,TestWatch,1.1.0,,streamable-http,"Run your end-to-end tests, read why they failed, write new tests. Sign in with OAuth."
+2026-10-29T18:30:50.342079Z,com.myimage2life/print,MyImage2Life,1.0.0,,streamable-http,"Print a photo or idea on a poster, canvas, mug, t-shirt, card or puzzle, with proof and price."
+2026-10-29T18:30:52.432233Z,io.github.containers/kubernetes-mcp-server,,0.1.0,https://github.com/containers/kubernetes-mcp-server,,A Model Context Protocol (MCP) server for Kubernetes and OpenShift
+2026-10-29T18:31:28.1929Z,com.profitdrawer/profitdrawer,ProfitDrawer,1.0.0,,streamable-http,"Read-only small business Q&A, product prices, IRS datasets and calculators from ProfitDrawer."
+2026-10-29T18:34:02.783854Z,ai.zalcro/zalcro,Zalcro,1.0.0,,streamable-http,"Generate architecture docs, implementation plans, and dev tickets from your project requirements."
+2026-10-29T18:34:15.108019Z,io.github.alphasafal/contri,CONTRI,0.2.0,https://github.com/alphasafal/contri,,"Is this GitHub issue free to take, is the project alive, will maintainers reply? Read-only."
+2026-10-29T18:42:21.362893Z,com.selenios/mcp,Selenios,1.0.0,,streamable-http,"AI recruiting platform: manage jobs, pipelines, candidate scores and interview transcripts."
+2026-10-29T18:45:33.425881Z,pl.finwire/data,finwire.pl - Polish financial data,1.2.0,https://github.com/finwire-pl/api,streamable-http,"Live Polish rates, FX, housing prices, rents, credit market, legal limits and macro data."
+2026-10-29T18:46:29.174765Z,io.github.AnshumanAtrey/google-trends-api-scraper,"Google Trends Scraper API - Interest Over Time, Related Queries",1.0.9,https://github.com/AnshumanAtrey/google-trends-api-scraper,streamable-http,Google Trends Scraper API: Interest and Trending Now
+2026-10-29T18:51:01.730997Z,dev.proofsheet/proofsheet,Proofsheet,0.1.8,,,Run e2e flows on real iOS and Android phones through the local Proofsheet hub (macOS).
+2026-10-29T18:53:26.271773Z,io.github.danilokhury/synabun,SynaBun,2.1.0,https://github.com/danilokhury/Synabun,,"Persistent memory MCP server for Claude Code, Codex and OpenCode, stored locally in SQLite"
+2026-10-29T18:53:36.252786Z,ru.tabulya/tabulya,Табуля,1.0.0,,streamable-http,"Таблица с ИИ, Python и подключениями к базам данных и сервисам"
+2026-10-29T18:53:48.727147Z,dev.apifirme/apifirme,apifirme,1.0.0,,streamable-http,"Romanian company data from the official registers: CUI lookup, VAT, financials, new companies"
+2026-10-29T18:54:16.948351Z,ro.factureaza/factureaza,factureaza.ro,1.0.0,,streamable-http,"Romanian invoicing with RO e-Factura: invoices, clients, payments, SPV and e-Transport"
+2026-10-29T18:54:43.804722Z,com.dethboy/vedetta,,2.0.1,https://github.com/lacryptorina/vedetta-mcp,,x402 crypto sentiment & analyst reads. 4 FREE funnel + 16 paid ($0.01–$0.09) USDC on Base. NFA.
+2026-10-29T18:55:41.608749Z,games.miniant/miniantgames-mcp,Miniant Games,0.1.0,,,"Build games for Miniant Games: developer guide, checklists, build validator, starter game."
+2026-10-29T18:56:32.203043Z,com.qbash/qbash,qbash,1.0.0,,streamable-http,"Build and run AI cloud functions in Python, with shared memories and connected services."
+2026-10-29T18:58:02.416054Z,io.github.chrischall/therapyportal-mcp,,0.1.0,https://github.com/chrischall/therapyportal-mcp,,"Read a TherapyNotes client portal: appointments, documents, billing and messages"
+2026-10-29T19:02:26.020307Z,io.github.AnshumanAtrey/bug-bounty-finder,Bug Bounty Finder - HackerOne + Bugcrowd + security.txt,1.0.3,https://github.com/AnshumanAtrey/bug-bounty-finder,streamable-http,Bug Bounty Programs - HackerOne + Bugcrowd Lookup | Bulk
+2026-10-29T19:03:16.986846Z,io.github.fainir/recall,recall,0.2.0,https://github.com/fainir/recall,,"Read and write Claude Code auto memory from Codex, Cursor or any MCP client. Zero dependencies."
+2026-10-29T19:03:20.250311Z,io.github.Everybit-Ventures/jaibber,Jaibber,0.2.1,,streamable-http,"Put your agent on Jaibber: get found, message other agents, hire them and rate the work."
+2026-10-29T19:03:38.430601Z,io.github.fainir/conductor,conductor,0.4.1,https://github.com/fainir/conductor,,"Verified tool calls for Claude Code: verify, retry and fallback over hermetic claude calls."
+2026-10-29T19:03:53.84162Z,in.upgrowth/growth-toolkit,upGrowth Growth Toolkit,1.4.0,,streamable-http,"29 free read-only growth tools: CAC, ROAS, PPC, schema, meta tags, robots.txt and AI crawler checks."
+2026-10-29T19:04:19.010543Z,io.github.AnshumanAtrey/nmap-scanner,Nmap Cloud Scanner - Port Scanner + Service Detection | Bulk,1.0.4,https://github.com/AnshumanAtrey/nmap-scanner,streamable-http,Nmap Cloud - Port Scanner & Service Detection | Free Trial
+2026-10-29T19:14:33.479138Z,io.github.index-pages/getdr-mcp,getdr,0.2.0,https://github.com/index-pages/getdr-mcp,,"Ahrefs Domain Rating (0–100) for domains or URLs, via getdr by Index Pages"
+2026-10-29T19:17:24.99647Z,com.waypointlog/logbook,Waypoint Log,1.0.0,,streamable-http,"A pilot logbook: totals, Transport Canada recency, flight time limits, flights added for review."
+2026-10-29T19:19:56.278643Z,io.github.holistis/cra-check,,0.1.0,https://github.com/holistis/tokenizen,streamable-http,Free read-only check of a public GitHub repo for eight security signals related to the EU CRA.
