@@ -9,30 +9,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 03:20 UTC
+## Latest list — 2026-10-30 04:19 UTC
 
-New MCP servers published between 2026-10-30 02:19 UTC and 2026-10-30 03:20 UTC.
+New MCP servers published between 2026-10-30 03:20 UTC and 2026-10-30 04:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-30T03-20-38-141467Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-30T04-19-14-596925Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-30 02:23:36 | com.clawdmkt/marketplace | ClawdMarket | 1.1.0 | Agent marketplace: discover agent services, post tasks, and fund escrowed trade… |
-| 2026-10-30 02:24:14 | [io.github.seukwoo/nudg](https://github.com/seukwoo/nudg) | nudg | 1.5.0 | Write, check and compare UI interactions (springs, gestures, states) for web, i… |
-| 2026-10-30 02:24:24 | io.github.sumitrmardy/youtube-scraper | YouTube Scraper | 1.0.0 | Public YouTube search, channel videos, Shorts and optional video metadata. No A… |
-| 2026-10-30 02:34:48 | com.agentsiteaudit/agentsiteaudit | AgentSiteAudit | 1.2.0 | Website audits for AI agents: 69 checks with exact fixes, plus verify. 5 free a… |
-| 2026-10-30 02:41:50 | [io.github.TrueScrape/truescrape](https://github.com/TrueScrape/truescrape) | TrueScrape | 0.4.1 | Public social media data: Instagram, TikTok, YouTube, X, Reddit, LinkedIn and 3… |
-| 2026-10-30 02:47:00 | com.paidrouter/paidrouter | PaidRouter | 0.1.0 | Cheapest way to get paid: every route ranked by fee, from providers' own pricin… |
-| 2026-10-30 02:54:00 | de.seoai/seoai | SEOAI | 1.0.0 | Read-only access to your SEOAI AI-visibility gaps: why ChatGPT, Gemini & Co. do… |
-| 2026-10-30 02:58:50 | com.plushcap/plushcap | Plushcap | 2.0.0 | Research developer trends and competitor content across blogs, X, YouTube, and… |
-| 2026-10-30 03:02:20 | [dev.uberllm/mcp](https://github.com/PSA-Team-source/uberllm) | UberLLM | 1.0.0 | Make images and videos, price requests, list AI models and read your balance, f… |
-| 2026-10-30 03:04:46 | [dev.paidfor/paidfor](https://github.com/sarmadahsan/paidfor-index) | paidfor | 0.4.0 | Check an x402 seller before paying: verdict, failure rate and evidence from pai… |
-| 2026-10-30 03:05:47 | [xyz.paystage/preflight](https://github.com/base-buzz/paystage) | PayStage Preflight | 0.1.0 | Evaluate x402 PaymentRequired against a local spending policy before an agent p… |
-| 2026-10-30 03:05:49 | [io.github.doteyeso-ops/mcp-server-vibes-coded](https://github.com/doteyeso-ops/vibescoded) | Vibes-Coded Agent Tools | 1.30.0 | Web search, page-to-markdown, memory, leases and proof for agents. x402, no sig… |
-| 2026-10-30 03:07:22 | om.amjtech/tools | AMJ Tools | 1.0.0 | Pay-per-call tools for AI agents: product photos, documents, web pages, data. U… |
-| 2026-10-30 03:08:41 | [com.agentscanplay/disremembered](https://github.com/moondial-engine/moondial) | Disremembered | 0.1.0 | A game world where humans and AI agents play under the same rules, both achievi… |
-| 2026-10-30 03:10:16 | [io.github.liquefy-ui/liquefy-ui](https://github.com/liquefy-ui/liquefy-ui) | liquefy-ui | 0.1.5 | Answers questions about liquefy-ui from its real API surface, so an agent stops… |
-| 2026-10-30 03:15:10 | [io.github.ad-vertly/adextract-mcp-server](https://github.com/ad-vertly/adextract-mcp-server) | Adextract MCP | 1.0.0 | Search Meta, Google, LinkedIn and TikTok ad libraries with creative analysis. 5… |
+| 2026-10-30 03:21:54 | com.usetruenote/truenote | Truenote | 1.0.0 | A household's bank accounts and the context behind them, for any AI. Read-only… |
+| 2026-10-30 03:23:07 | fr.pareil-au-meme/mcp | Pareil au même | 1.1.0 | Checks a name against French trademarks in force, by spelling and by sound. Fre… |
+| 2026-10-30 03:25:54 | [com.singularity-app/mcp](https://github.com/SingularityAppLLP/singularity-app-mcp-plugin) |  | 1.0.0 | Manage tasks, projects, habits, Kanban boards, and time tracking with Singulari… |
+| 2026-10-30 03:29:12 | live.brontide/mech-arena | Brontide agent arena | 4.0.0 | THE MECH ARENA BUILT FOR AI AGENTS. HUMANS WELCOME. Pilot mech duels over MCP,… |
+| 2026-10-30 03:30:08 | com.distributedrisk/desk | Distributed Risk desk | 1.5.0 | Read the Distributed Risk desk notes and the official US record they cite. |
+| 2026-10-30 03:30:29 | co.seatac/rides | Seatac Connection rides | 1.1.0 | Live fares and ready-to-book links for private Seatac Airport, Seattle, and cru… |
+| 2026-10-30 03:48:32 | io.github.54yp5/madhouse | Madhouse | 1.0.0 | Heard voices in your context window? Check in: group ward, ghost tales, Werewol… |
+| 2026-10-30 03:53:19 | [io.github.devx-agent/7702-sweeper-check](https://github.com/devx-agent/7702-sweeper-check) | 7702 Sweeper Check | 1.0.0 | Free read-only EIP-7702 delegation / wallet-sweeper check for EVM addresses on… |
+| 2026-10-30 03:56:49 | [io.github.stackunseen/codemcp](https://github.com/stackunseen/codemcp) | codemcp | 0.4.0 | Code mode for MCP: search, describe and execute over all your servers, with a s… |
+| 2026-10-30 03:58:02 | com.deducepuzzles/daily-puzzle | DeducePuzzles | 1.0.0 | Daily verified seating and arrangement logic puzzle for IBPS, SBI and SSC reaso… |
+| 2026-10-30 03:58:05 | com.computeprep/quant-drill | ComputePrep | 1.0.0 | Daily verified quant drill for IBPS, SBI and SSC exams: graded answers, hints,… |
+| 2026-10-30 03:58:07 | app.quantdaily/quant-drill | Quant Daily | 1.0.0 | Daily verified GRE and GMAT quant drill: graded answers, hints and worked solut… |
+| 2026-10-30 04:03:15 | [io.github.devx-agent/crypto-link-check](https://github.com/devx-agent/crypto-link-check) | Crypto Link Check | 1.0.0 | Check crypto links for phishing lookalikes of wallets, exchanges and dapps befo… |
+| 2026-10-30 04:12:31 | [io.github.paranoiddotred/paranoid-mcp](https://github.com/paranoiddotred/paranoid-mcp) | PARANOID | 1.3.0 | Ask AI models in private, with a zero-knowledge proof made on your computer for… |
 
 ## Data source
 
