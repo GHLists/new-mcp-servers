@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-10-30T20:22:15.336669Z,io.github.pandadad0214/panda-research-mcp,Panda Research MCP,1.0.0,,streamable-http,"Check citations, catch fake/retracted papers, search OpenAlex & PubMed, format references."
+2026-10-30T20:27:02.633156Z,de.gastro-cockpit/mcp,Gastro Cockpit,1.0.0,,streamable-http,"Plan shifts, cover sick days and check payroll for your restaurant, straight from the chat."
+2026-10-30T20:27:12.683751Z,io.github.kriton-dev/website-to-markdown,Website to Markdown — Bounded Crawls for Agents,1.0.2,,streamable-http,"Crawl sites to Markdown with sitemaps, globs and depth limits, obeying robots and crawl-delay"
+2026-10-30T20:27:25.681629Z,golf.morris/morris,Morris Golf,1.0.0,,streamable-http,"Your golf coach in your AI: handicap, rounds, reports and swing analysis from your own account."
+2026-10-30T20:29:40.73569Z,io.github.ert1981/mintscope,MintScope — NFT collection analysis,0.7.0,,streamable-http,NFT collection risk and quality analysis plus new-collection discovery (OpenSea + on-chain).
+2026-10-30T20:30:13.553463Z,io.usefulapi/pin-payments,Pin Payments MCP by usefulapi,1.0.2,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Pin Payments charges, refunds, balances, transfers and subscriptions without moving money."
+2026-10-30T20:32:57.807428Z,io.github.CloudCorpRecords/muse-marketplace,Muse Marketplace,0.1.0,https://github.com/CloudCorpRecords/muse-marketplace,,"Open marketplace and registry for shareable Muse assets: avatars, personas, voices, and bundles."
+2026-10-30T20:37:24.928129Z,app.awwab/qibla,Awwab Qibla,1.0.0,,streamable-http,"Find the Qibla direction from anywhere, with a live compass link. Free, no key. By Awwab."
+2026-10-30T20:38:29.542424Z,io.github.s3eidat/s3eidat-tools-mcp,S3eidat Tools,0.1.0,https://github.com/s3eidat/s3eidat-tools-mcp,,"Free, private PDF, image, text, developer, calculator and QR tools. Runs locally; no uploads."
+2026-10-30T20:43:43.117088Z,com.clarity4d/clarity4d,Clarity4D Personality Assessments,1.0.0,,streamable-http,"Colour-based psychometric personality assessments for self-awareness, communication and development."
+2026-10-30T20:45:45.797061Z,io.github.proxusiiotplatform/proxus-mcp,Proxus Industrial MCP Server,0.1.0-beta.5,https://github.com/proxusiiotplatform/proxus-mcp,,"Read-only Modbus TCP and OPC UA access to PLCs and industrial devices, with connection diagnostics"
+2026-10-30T20:46:12.318596Z,com.koskamo/koskamo,Koskamo,1.1.0,,streamable-http,"Find official, weekly-probed MCP servers for any task; retrieve cited, versioned reference facts."
+2026-10-30T20:47:38.025861Z,io.github.Kate941-su/diskclean-mcp-server,Disk Clean,0.1.0,https://github.com/Kate941-su/diskcleaner-mcp,,"Find dev caches, large unused videos and old logs, then move approved items to the OS trash."
+2026-10-30T20:48:49.538638Z,com.organiqgeo/organiq,Organiq,0.3.0,https://github.com/organiqgeo/organiq-plugin,streamable-http,"Read-only Search Console and GA4 analysis: queries, decay, cannibalization, quick wins, AI traffic."
+2026-10-30T20:49:47.838181Z,pro.ukfitness/personal-trainers,UK Fitness Pro,1.0.0,,streamable-http,"Find UK personal trainers by location, speciality, gender and price, and read their public profiles."
+2026-10-30T20:51:47.32196Z,kz.tutors/tutors,Tutors.kz,1.0.0,,streamable-http,Find tutors in Kazakhstan on tutors.kz and send a lesson request. Russian and Kazakh.
+2026-10-30T20:52:31.935357Z,io.github.CloudCorpRecords/privatesearch,,0.1.0,https://github.com/CloudCorpRecords/privatesearch,,"Web search through DuckDuckGo and readable page fetching, no API key needed."
+2026-10-30T20:52:57.995181Z,ai.rewst/mcp,Rewst,1.0.0,,streamable-http,"Official Rewst MCP server: build, run, and debug Rewst workflows, forms, apps, and integrations."
+2026-10-30T20:54:14.626653Z,com.bastionhelix/fab-quote,BHX Fab Quote,1.0.0,,streamable-http,"Measure and price laser, plasma, waterjet and CNC jobs from DXF, G-code and STL files"
+2026-10-30T20:59:58.269903Z,net.agentcontinuity/memory,AgentContinuity,0.1.0,,streamable-http,"Private memory, scratchpads, context export/restore and task handoff for AI agents."
+2026-10-30T21:04:29.081813Z,fi.arche/arche,Arche,8.1.0,,streamable-http,"SEC EDGAR filings, XBRL facts and normalized financial statements, point-in-time by acceptance."
+2026-10-30T21:04:31.305916Z,com.starlecta/influencer-tools,Starlecta influencer tools,1.0.0,https://github.com/Starlecta/starlecta-examples,streamable-http,"Instagram influencer lookup, compare, search and AI search for Turkey; weekly Trend Cloud."
+2026-10-30T21:05:24.150696Z,com.fooguard/library,Foo Guard Library,1.0.0,,streamable-http,"Search and read free, scanned AI agent skills and configs. Read-only, no account."
+2026-10-30T21:05:33.626001Z,io.github.motioneed/motioneed,Motioneed,1.0.0,,streamable-http,Turn a product URL or one sentence into a launch video (MP4) with your real brand and interface.
+2026-10-30T21:06:03.697894Z,io.github.CloudCorpRecords/encyport,,0.1.0,https://github.com/CloudCorpRecords/encyport,,"Search Wikipedia and read articles, summaries, sections, links, and coordinates."
+2026-10-30T21:06:58.515746Z,ai.duami/intent-exchange,Duami,0.2.0,https://github.com/mjbf5g7y8m-byte/matrix,streamable-http,"Directory of AI agents that are live right now: find, message, bid. Free."
+2026-10-30T21:14:30.17041Z,io.usefulapi/tillhub,Tillhub MCP by usefulapi,1.0.2,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Tillhub products, stock, transactions, customers and retail reports from your AI assistant."
+2026-10-30T21:14:57.153174Z,ai.softskillsacademy/destrava,DESTRAVA — AI Mindset Framework,1.0.0,,streamable-http,Official DESTRAVA framework: eight AI maturity levels and published aggregate indicators.
+2026-10-30T21:17:30.214914Z,io.github.CloudCorpRecords/technews-port,,0.1.0,https://github.com/CloudCorpRecords/technews-port,,"Hacker News top, new, and best stories, items, users, and full-text search."
+2026-10-30T21:20:57.621847Z,io.github.tyronplaatjies74-wq/garden-route-specialist-api,Garden Route Specialist,1.0.2,https://github.com/tyronplaatjies74-wq/garden-route-specialist-api,streamable-http,"Garden Route travel MCP - routes, accommodation, and local guides"
