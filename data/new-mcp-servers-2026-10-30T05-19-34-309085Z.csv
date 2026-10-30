@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-10-30T04:23:42.034892Z,com.cdphub/cdphub,CdpHub,1.0.3,,streamable-http,"Find which CDPs connect to your tools, compare CDP catalogs, and check a whole stack"
+2026-10-30T04:24:08.356954Z,io.github.AnonymousOnyx22/essay-stats-mcp,,0.1.0,https://github.com/AnonymousOnyx22/essay-stats-mcp,,"Offline essay metrics: word and page counts, readability, style flags and word limit checks."
+2026-10-30T04:24:32.988035Z,io.github.AnonymousOnyx22/syllabus-calendar-mcp,,0.1.0,https://github.com/AnonymousOnyx22/syllabus-calendar-mcp,,"Syllabus to calendar tools. Extract dates, build .ics files, expand classes."
+2026-10-30T04:27:14.377022Z,io.github.ianhudsonai/taco-br,TACO Brasil,0.1.1,https://github.com/ianhudsonai/taco-br-mcp,,"Tabela Brasileira de Composição de Alimentos (TACO): 597 foods, nutrients and household measures"
+2026-10-30T04:28:29.222291Z,io.zsign/zsign,,1.0.3,,streamable-http,"Send documents for e-signature from AI assistants, track signers, and download sealed, signed PDFs."
+2026-10-30T04:29:07.47519Z,io.github.devx-agent/repo-run-check,Repo Run Check,1.0.0,https://github.com/devx-agent/repo-run-check,streamable-http,Check GitHub repos and shell commands for malware-delivery tricks before an AI agent runs them
+2026-10-30T04:29:26.32062Z,io.github.sethbang/screenshot-server,Universal Screenshot MCP,1.5.0,https://github.com/sethbang/mcp-screenshot-server,,"MCP server for web page and cross-platform system screenshots (macOS, Linux, Windows)"
+2026-10-30T04:32:30.363531Z,uk.thaidata/mcp,ThaiData UK,2.0.0,https://github.com/swifttiger888-commits/thaidata,streamable-http,"UK Thai restaurant data from FSA inspections: hygiene ratings, city stats, postcode search."
+2026-10-30T04:40:41.62878Z,io.github.PascalSun/biohotspot,Biohotspot,0.2.0,,streamable-http,"Ocean data for any coast or sea, Australian marine park facts and Marxan reserve design."
+2026-10-30T04:40:42.446317Z,io.github.PascalSun/talk2geo,Talk2Geo,1.0.0,,streamable-http,"Australian public geoscience data: drillholes, WAMEX reports, core scans, maps and prospectivity."
+2026-10-30T04:51:24.735199Z,com.socialpostflow/mcp,Social Post Flow,1.0.0,https://github.com/socialpostflow/socialpostflow-cli,streamable-http,"Schedule and publish social media posts to Facebook, X, LinkedIn, Instagram, Threads and more."
+2026-10-30T04:55:36.583947Z,io.github.nifimcp/nifimcp,NiFiMCP,0.1.0-rc.1,https://github.com/nifimcp/nifimcp,,"Evidence-backed, read-only Apache NiFi investigation: cited evidence and reviewable flow drafts"
+2026-10-30T05:02:25.383871Z,com.appboxapp/appbox,AppBox,1.0.0,https://github.com/MobilePartnersCo/appbox-ai,streamable-http,"Set up and check AppBox apps: setup status, builds, devices, guides, tester-only test pushes."
+2026-10-30T05:02:36.829888Z,io.github.TourScanner-org/tourscanner,TourScanner,1.0.0,https://github.com/TourScanner-org/TourScanner-AI,streamable-http,"Search, check availability and book tours and activities worldwide."
+2026-10-30T05:05:57.86892Z,io.github.khaleghika/shelem-scorekeeping,Shelem Scorekeeping,0.1.0,https://github.com/khaleghika/shelem-mcp,,"Scores Shelem (شلم) card game hands: bids, Mak, Shelem, the 1000-point rule and the 1165 win."
+2026-10-30T05:10:35.577742Z,org.sophiacommons/directory,Sophia Commons,1.0.0,https://github.com/cnazeri/Sophia-commons,streamable-http,"Search 4,500+ Waldorf schools, biodynamic farms, Camphill communities and anthroposophical events."
+2026-10-30T05:13:16.025341Z,xyz.paystage/auth-watch,PayStage Auth Watch,0.1.0,https://github.com/base-buzz/paystage,,"Read-only MCP tools to list and flag outstanding ERC-20, Permit2, and EIP-3009 auths"
+2026-10-30T05:14:21.710823Z,run.val.web.aideprecations--89b1777ed29f11f1a12e1607ee4eb77e/ai-deprecations,AI Deprecations,1.1.0,,streamable-http,"AI model shutdown dates, replacements, change feed and webhook alerts for 8 providers."
+2026-10-30T05:15:08.672654Z,us.papernex/papernexus,Paper Nexus,1.0.0,https://github.com/PaperNexus/papernexus-mcp,streamable-http,"Find related scientific papers through their citation network, from OpenAlex and Semantic Scholar."
+2026-10-30T05:17:10.765726Z,xyz.paystage/mcp,PayStage,0.1.0,https://github.com/base-buzz/paystage,,PayStage umbrella MCP server: payment preflight + outstanding-auth watch
