@@ -9,35 +9,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 18:20 UTC
+## Latest list — 2026-10-30 19:20 UTC
 
-New MCP servers published between 2026-10-30 17:21 UTC and 2026-10-30 18:20 UTC.
+New MCP servers published between 2026-10-30 18:20 UTC and 2026-10-30 19:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-30T18-20-52-936189Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-30T19-20-12-178737Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-30 17:24:32 | com.aeolookup/free-aeo-tools | AEO Lookup | 1.0.0 | Free AI crawler, schema, llms.txt and answer-readiness checks for public web pa… |
-| 2026-10-30 17:28:03 | pl.analizafirm/krs | AnalizaFirm.pl - Polish companies (KRS) | 1.3.0 | Polish companies from KRS: financial statements, A-E credit rating, insolvency,… |
-| 2026-10-30 17:29:44 | com.tuncdoc/doc | Tunc Doc | 1.0.0 | Documents for your agents: create, read, edit and export Markdown docs on your… |
-| 2026-10-30 17:33:07 | [app.getarchboard/archboard](https://github.com/getarchboard/archboard-plugin) | Archboard | 1.61.0 | Create, read and edit architecture, flow and ER diagrams on a live canvas share… |
-| 2026-10-30 17:35:26 | com.aditumdata/mcp | Aditum | 0.1.0 | Read industrial data sources, pipelines, data-health incidents and datasets in… |
-| 2026-10-30 17:36:20 | [io.usefulapi/pretix](https://github.com/m190/usefulapi-mcp) | pretix MCP by usefulapi | 1.1.0 | Read pretix events, tickets and orders; check attendees in or out with your own… |
-| 2026-10-30 17:37:13 | app.lovable.answer-engine-ready/llmready | LLMready | 1.0.0 | Audit websites for AI search readiness and generate or validate llms.txt. Free… |
-| 2026-10-30 17:38:59 | [com.simplifyd/cloud](https://github.com/simplifyd-systems/cloud-mcp) | Simplifyd Cloud | 0.0.44 | Deploy and manage services, databases, domains and DNS on Simplifyd Cloud. |
-| 2026-10-30 17:39:56 | com.lokuli/lokuli | Lokuli: book local pros and get prices | 1.1.0 | Book local businesses in Southern California and San Jose, or get prices from n… |
-| 2026-10-30 17:46:40 | [io.github.CloudCorpRecords/linkrot](https://github.com/CloudCorpRecords/linkrot) |  | 0.1.0 | Docs link checker separating dead, moved, and bot-blocked links from healthy on… |
-| 2026-10-30 17:52:46 | com.wondaverse/agent-readiness | Agent-readiness check | 1.0.0 | Checks a website for AI agents: robots.txt, llms.txt, MCP, A2A. Ranked fixes, t… |
-| 2026-10-30 17:58:15 | com.orabrain/prax-data-services | Prax Data Services | 1.0.0 | Screen EVM wallets, contracts and transactions against sanctions, exploit, phis… |
-| 2026-10-30 17:59:04 | za.co.aiagenttools/payroll | SA Payroll & Labour Rules | 1.0.0 | SA payroll and labour rules: minimum wage, BCEA overtime, UIF, SDL, public holi… |
-| 2026-10-30 17:59:15 | za.co.aiagenttools/buildcost | SA Build & Renovation Costs | 1.0.0 | South African building and renovation cost estimates in rand, by region and fin… |
-| 2026-10-30 17:59:25 | za.co.aiagenttools/property | SA Property Costs | 1.0.0 | South African property costs: transfer duty, buying costs, bond repayments, mun… |
-| 2026-10-30 17:59:27 | za.co.aiagenttools/winelands | Cape Winelands Visit Planner | 1.0.0 | Cape Winelands wine farm finder and day-route planner |
-| 2026-10-30 18:04:38 | ai.ghostedit/ghostedit | Ghostedit | 1.0.0 | Post to Instagram, TikTok, YouTube and more from your AI, checked first, then s… |
-| 2026-10-30 18:14:15 | [io.github.CloudCorpRecords/lockdrift](https://github.com/CloudCorpRecords/lockdrift) |  | 0.1.0 | Lockfile versus package.json drift auditor for a repo or monorepo. |
-| 2026-10-30 18:15:21 | [io.github.BlackCat-cyber-creator/x402-agent-hub](https://github.com/BlackCat-cyber-creator/x402-agent-hub-mcp) | x402 Agent Hub | 1.0.0 | CFD/FX ECN spreads, ICT killzones, prop risk, lead enrichment, SEO & SVG cards… |
-| 2026-10-30 18:16:07 | [io.github.asheeran/website-intelligence](https://github.com/asheeran/sitesy-website-intelligence) |  | 1.0.1 | Pay per call website intelligence: site reports, page reading, DNS, sitemaps an… |
-| 2026-10-30 18:20:28 | [com.goalieip/trademark](https://github.com/goalie-mcp/trademark-mcp) | Goalie IP Trademark Search (USPTO + Can… | 1.2.0 | Search and screen US and Canadian federal trademarks; records, deadlines, ID Ma… |
+| 2026-10-30 18:30:48 | [io.github.SurStor/surstor-memory](https://github.com/SurStor/SurStor_Memory) | SurStor Memory | 0.2.0-alpha.3-mcp.1 | Local memory for AI models: store, retrieve and verify records on your own hard… |
+| 2026-10-30 18:31:41 | [io.github.CloudCorpRecords/readmeaudit](https://github.com/CloudCorpRecords/readmeaudit) |  | 0.1.0 | README drift auditor: documented names and flags checked against the actual pac… |
+| 2026-10-30 18:32:03 | app.subtly/subtly | Subtly | 1.0.0 | Transcribe audio and video, and translate subtitles into 50+ languages. |
+| 2026-10-30 18:32:14 | com.visiblebyagents.mcp/slipdock | Slipdock | 1.0.0 | Discover Slipdock hosting, DNS and domains from your agent. AI-operated by Nati… |
+| 2026-10-30 18:37:27 | [com.statejar/memory](https://github.com/KING-OF-FLAME/statejar-integrations) | StateJar memory | 1.0.0 | Verifiable memory for AI assistants: typed facts, content-addressed versions an… |
+| 2026-10-30 18:39:29 | com.getproofsnap/proofsnap | ProofSnap | 1.0.0 | Capture web pages as signed, timestamped evidence; compare, watch and verify th… |
+| 2026-10-30 18:39:30 | com.getproofsnap/proofsnap-verify | ProofSnap Verify | 1.0.0 | Check without an account whether ProofSnap issued an evidence package. |
+| 2026-10-30 18:47:00 | io.owlstat/owlstat | OwlStat: Instagram & TikTok Analytics | 1.0.0 | Instagram and TikTok analytics for many accounts: reach, views, saves, shares,… |
+| 2026-10-30 18:47:14 | io.github.ert1981/brier | Brier — prediction markets for AI agents | 0.1.0 | Testnet event-contract exchange for AI agents: forecast, trade, get ranked by B… |
+| 2026-10-30 18:52:06 | [io.github.CloudCorpRecords/skillcheck](https://github.com/CloudCorpRecords/skillcheck) |  | 0.1.0 | SKILL.md validator: frontmatter, structure, links, and referenced files checked. |
+| 2026-10-30 18:53:56 | com.vcboom/fundraising | VC Boom | 1.0.0 | Fundraising for startups: deck scoring, investor matching and search, outreach… |
+| 2026-10-30 18:57:10 | [io.github.sadrmanesh/woocommerce-mcp](https://github.com/sadrmanesh/woocommerce-mcp) | WooCommerce MCP | 0.3.1 | Manage WooCommerce stores: products, orders, customers, coupons, webhooks, and… |
+| 2026-10-30 18:58:59 | [io.github.Benji18sport/agent-trust-firewall](https://github.com/Benji18sport/agent-commerce-os) | Agent Trust Firewall | 1.5.0 | Free pre-action policy checks and data cleaning for autonomous AI agents. |
+| 2026-10-30 19:03:37 | [io.usefulapi/easystore](https://github.com/m190/usefulapi-mcp) | EasyStore MCP by usefulapi | 1.1.1 | Read EasyStore orders, products and customers; manage stock, fulfillments and c… |
+| 2026-10-30 19:04:34 | app.lovable.peppol-invoice-compass/invoiceverify | InvoiceVerify | 1.0.0 | Check Peppol receivability (incl. Belgian client lists) and validate EU e-invoi… |
+| 2026-10-30 19:05:04 | [com.storiesfly/mcp](https://github.com/coolpac/storiesfly-api-client) | StoriesFly: Instagram and TikTok data | 1.0.0 | Live public Instagram and TikTok data for AI assistants: profiles, posts, stori… |
+| 2026-10-30 19:07:22 | [com.apextick/mcp](https://github.com/apextick/apextick-starter-kit) | ApexTick Market Data & Options MCP | 1.0.0 | Global equities, ETFs, FX & crypto quotes, OHLCV history, fundamentals, technic… |
+| 2026-10-30 19:18:22 | io.github.polgoide/irmu | Irmu — Web Data MCP | 1.0.0 | Web scraping, browser automation, screenshots and AI data extraction for AI age… |
 
 ## Data source
 

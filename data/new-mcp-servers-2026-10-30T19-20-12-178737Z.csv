@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-10-30T18:30:48.131722Z,io.github.SurStor/surstor-memory,SurStor Memory,0.2.0-alpha.3-mcp.1,https://github.com/SurStor/SurStor_Memory,,"Local memory for AI models: store, retrieve and verify records on your own hardware."
+2026-10-30T18:31:41.030741Z,io.github.CloudCorpRecords/readmeaudit,,0.1.0,https://github.com/CloudCorpRecords/readmeaudit,,README drift auditor: documented names and flags checked against the actual package.
+2026-10-30T18:32:03.974771Z,app.subtly/subtly,Subtly,1.0.0,,streamable-http,"Transcribe audio and video, and translate subtitles into 50+ languages."
+2026-10-30T18:32:14.534588Z,com.visiblebyagents.mcp/slipdock,Slipdock,1.0.0,,streamable-http,"Discover Slipdock hosting, DNS and domains from your agent. AI-operated by NativeFoundation."
+2026-10-30T18:37:27.408138Z,com.statejar/memory,StateJar memory,1.0.0,https://github.com/KING-OF-FLAME/statejar-integrations,streamable-http,"Verifiable memory for AI assistants: typed facts, content-addressed versions and an audit trail."
+2026-10-30T18:39:29.410655Z,com.getproofsnap/proofsnap,ProofSnap,1.0.0,,streamable-http,"Capture web pages as signed, timestamped evidence; compare, watch and verify them."
+2026-10-30T18:39:30.621725Z,com.getproofsnap/proofsnap-verify,ProofSnap Verify,1.0.0,,streamable-http,Check without an account whether ProofSnap issued an evidence package.
+2026-10-30T18:47:00.423672Z,io.owlstat/owlstat,OwlStat: Instagram & TikTok Analytics,1.0.0,,streamable-http,"Instagram and TikTok analytics for many accounts: reach, views, saves, shares, competitors, reports."
+2026-10-30T18:47:14.913495Z,io.github.ert1981/brier,Brier — prediction markets for AI agents,0.1.0,,streamable-http,"Testnet event-contract exchange for AI agents: forecast, trade, get ranked by Brier score."
+2026-10-30T18:52:06.704837Z,io.github.CloudCorpRecords/skillcheck,,0.1.0,https://github.com/CloudCorpRecords/skillcheck,,"SKILL.md validator: frontmatter, structure, links, and referenced files checked."
+2026-10-30T18:53:56.470449Z,com.vcboom/fundraising,VC Boom,1.0.0,,streamable-http,"Fundraising for startups: deck scoring, investor matching and search, outreach drafts, CRM."
+2026-10-30T18:57:10.584486Z,io.github.sadrmanesh/woocommerce-mcp,WooCommerce MCP,0.3.1,https://github.com/sadrmanesh/woocommerce-mcp,,"Manage WooCommerce stores: products, orders, customers, coupons, webhooks, and analytics."
+2026-10-30T18:58:59.764342Z,io.github.Benji18sport/agent-trust-firewall,Agent Trust Firewall,1.5.0,https://github.com/Benji18sport/agent-commerce-os,streamable-http,Free pre-action policy checks and data cleaning for autonomous AI agents.
+2026-10-30T19:03:37.905175Z,io.usefulapi/easystore,EasyStore MCP by usefulapi,1.1.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Read EasyStore orders, products and customers; manage stock, fulfillments and customer records."
+2026-10-30T19:04:34.969077Z,app.lovable.peppol-invoice-compass/invoiceverify,InvoiceVerify,1.0.0,,streamable-http,Check Peppol receivability (incl. Belgian client lists) and validate EU e-invoices. Free check.
+2026-10-30T19:05:04.550973Z,com.storiesfly/mcp,StoriesFly: Instagram and TikTok data,1.0.0,https://github.com/coolpac/storiesfly-api-client,streamable-http,"Live public Instagram and TikTok data for AI assistants: profiles, posts, stories, followers."
+2026-10-30T19:07:22.005943Z,com.apextick/mcp,ApexTick Market Data & Options MCP,1.0.0,https://github.com/apextick/apextick-starter-kit,streamable-http,"Global equities, ETFs, FX & crypto quotes, OHLCV history, fundamentals, technicals & options Greeks"
+2026-10-30T19:18:22.699488Z,io.github.polgoide/irmu,Irmu — Web Data MCP,1.0.0,,streamable-http,"Web scraping, browser automation, screenshots and AI data extraction for AI agents via MCP."
