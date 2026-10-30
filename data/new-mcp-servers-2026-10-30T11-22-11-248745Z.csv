@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-10-30T10:22:52.944823Z,io.github.kongming-ai/mcp-server,KongMing Growth MCP,1.0.4,https://github.com/kongming-ai/mcp-server,streamable-http,"Cross-border growth tools: mentions, pain points, competitors, GEO, synthesis, AI media."
+2026-10-30T10:29:46.024064Z,com.getmikie/mikie,Mikie,1.1.166,,,"Focused repository context for Claude Code and Codex, with per-session token usage receipts."
+2026-10-30T10:30:32.10552Z,com.orangescrum/orangescrum-mcp-server,Orangescrum MCP Server,1.0.0,https://github.com/Orangescrum/orangescrum-mcp-server,streamable-http,"Manage Orangescrum projects, tasks, users, sprints, test cases, releases, and risks from AI tools."
+2026-10-30T10:30:54.599685Z,app.grailhound/marketplace-alerts,GrailHound,1.0.0,,streamable-http,"Track new eBay, Vinted, Mercari and other marketplace listings, and see what your trackers found."
+2026-10-30T10:31:23.107739Z,com.tamrank/tamrank,TamRank,1.0.0,,streamable-http,"WordPress SEO for your AI assistant: change plans, approval in chat, rollback. Needs TamRank PRO."
+2026-10-30T10:32:27.445988Z,io.github.sum-eet/aiformapi,AI Form API,0.1.0,https://github.com/sum-eet/aiformapi-mcp,streamable-http,"Create forms, share the link and read responses as JSON or CSV from your AI agent."
+2026-10-30T10:32:28.373767Z,io.github.sum-eet/aiformapi-fill,AI Form API (fill),0.1.0,https://github.com/sum-eet/aiformapi-mcp,streamable-http,"Read and submit one AI Form API form for a person, with a one-time fill code. No login."
+2026-10-30T10:36:37.719335Z,com.dataart/case-studies,,1.1.0,,streamable-http,"Search DataArt case studies by technology, industry, service, or keyword."
+2026-10-30T10:39:08.086161Z,io.github.Toinedotcom/toolforte,,1.12.0,,streamable-http,"Exact IBAN, VAT, cron, regex answers; HTML/URL to hosted PDF or screenshot; agent memory; workflows."
+2026-10-30T10:41:03.235016Z,app.openkrill/lucky-numbers,Lucky Numbers,1.0.0,,streamable-http,"Random number picks for fun: lottery-style presets, a custom range, daily numbers from a name."
+2026-10-30T10:43:39.531421Z,org.proofkit/operator,ProofKit Operator,1.0.0,,streamable-http,"Run ProofKit VPN nodes from an assistant: register and install them, read checks, set prices."
+2026-10-30T10:45:31.400946Z,dev.arquestra/consulting-radar,Arquestra Consulting Market Radar,1.0.0,,streamable-http,"Public consulting tenders and awards in Europe: who wins, open calls, firms and buyers"
+2026-10-30T10:47:24.71424Z,com.kursude/kursude,Kürsüde,0.4.0,,streamable-http,"Debate practice in your AI assistant: motions, opponent and POI briefs, judging rubric (TR/EN)."
+2026-10-30T10:49:14.533633Z,io.github.dmsmaxim/memroot,Memroot,1.0.0,,streamable-http,Persistent engineering memory designed to follow developers across coding agents.
+2026-10-30T10:54:42.706399Z,io.github.memroot/memroot,Memroot,1.0.0,,streamable-http,Persistent engineering memory designed to follow developers across coding agents.
+2026-10-30T10:55:55.937379Z,io.github.darwin-studios/owned-research-mcp,Darwin-owned Public Sources,0.1.0,,streamable-http,Free bounded public HTTPS document and JSON reads. Exact host allowlist; real source provenance.
+2026-10-30T10:57:49.549281Z,io.github.benjamin-di/earnings-watch,,0.1.0,https://github.com/benjamin-di/earnings-watch,,Verified issuer earnings calendars and results documents
+2026-10-30T10:59:36.899487Z,io.github.dot-ASH/umbriel-mcp,Umbriel,0.2.1,https://github.com/dot-ASH/umbriel-mcp,,"Control the Umbriel Wayland compositor: windows, workspaces, input, screenshots, clipboard."
+2026-10-30T11:04:21.414514Z,com.scaledpapers/scaledpapers,ScaledPapers,1.0.0,,streamable-http,"Uptime checks, status pages, incidents, and maintenance for websites, APIs, DNS, and TCP."
+2026-10-30T11:04:49.971857Z,co.m2agent.app-promoters/offres,Offres Neuf by M2,0.1.0,,streamable-http,"Logements neufs des promoteurs partenaires de M2 : programmes, lots, prix et disponibilités."
+2026-10-30T11:08:08.524037Z,io.github.FlywheelStudio/ulink,,0.1.22,https://github.com/FlywheelStudio/ulink-mcp-server,,"Deep linking for iOS, Android, Flutter & React Native. Firebase Dynamic Links alternative."
+2026-10-30T11:13:16.966041Z,io.usefulapi/fitssey,Fitssey MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Fitssey schedules, class capacity, stock, pass pricing, sales and attendance reports."
+2026-10-30T11:21:20.787911Z,com.msg91.mcp/mcp,MSG91,1.0.0,https://github.com/walkover-mcp/msg91,streamable-http,"Find and call the right MSG91 API for SMS, OTP, WhatsApp, Email and Voice."
