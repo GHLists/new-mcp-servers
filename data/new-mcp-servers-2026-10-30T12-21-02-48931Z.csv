@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-10-30T11:24:29.61958Z,ru.delect/mcp,Delect,1.0.0,,streamable-http,"Prices and stock of Russian IT distributors: part-number search, BOM lookup, analogs, datasheets."
+2026-10-30T11:28:13.537873Z,io.github.edxleon/runspector,Runspector,0.5.0,https://github.com/edxleon/runspector,,"Local-first AI running coach for Garmin: readiness, VO2max, 80/20, workouts on your watch"
+2026-10-30T11:29:40.852867Z,io.github.jztan/kampung-mcp,,0.1.0,https://github.com/jztan/kampung-mcp,,"Messaging between coding-agent sessions on different machines, through a server you host."
+2026-10-30T11:42:04.514289Z,io.github.askads/mcp-yandex-metrica,Yandex Metrica MCP,1.5.0,https://github.com/askads/mcp-yandex-metrica,,"MCP server for Yandex Metrica API: list counters, goals and pull web-analytics statistics."
+2026-10-30T11:50:32.097016Z,com.casitatax/modelo-210,CasitaTax,1.0.0,,streamable-http,"Spanish non-resident tax on a home in Spain: Modelo 210 estimate, deadlines, town cadastral data"
+2026-10-30T11:50:50.153387Z,io.github.AnshumanAtrey/cornerstone-jobs-search,"Cornerstone Jobs Scraper & API - All CSOD Career Sites, Remote",1.0.1,https://github.com/AnshumanAtrey/cornerstone-jobs-search,streamable-http,Cornerstone Jobs Scraper - Every CSOD Career Site
+2026-10-30T11:53:00.518411Z,ai.homouniversalis/viveka-oracle,Homo Universalis — Viveka 7-Wisdoms Ephemeris & Sister AI MCP Oracle,1.5.0,,streamable-http,"Swiss Ephemeris 7-Wisdoms & 4-Elements deterministic oracle (<1.5ms, Zero-Auth, Rule 14)."
+2026-10-30T11:55:23.081795Z,directory.arche/mcp,Arche,1.0.0,,streamable-http,"Hand-picked landing pages as design references for your agent: design systems, motion, sections."
+2026-10-30T11:58:18.480776Z,com.myboracayguide/boracay,MyBoracayGuide: Boracay Transfers and Activities,1.1.0,,streamable-http,"Live prices and booking links for Boracay airport transfers, flights and activities."
+2026-10-30T12:00:07.292979Z,com.binggio/binggio,Binggio,0.1.0,https://github.com/binggio/binggio,,"Governed answers from your data: approved meanings only, refusals instead of guesses."
+2026-10-30T12:01:50.078554Z,com.muretai/catalog,Muretai Catalog,1.0.0,,streamable-http,Search products across independent online shops. Read-only; links go to each shop's own page.
+2026-10-30T12:03:04.394883Z,net.bitbusca/api,BitBusca — dados do Brasil,1.0.0,,streamable-http,"Dados do Brasil numa chave: CPF, CNPJ, placa, empresas, DJEN, licitações, advogados e imóveis."
+2026-10-30T12:04:07.832043Z,io.inplan/inplan,InPlan,1.0.0,,streamable-http,"Is this US provider in this health plan? Network checks by NPI and plan ID, with dated sources."
+2026-10-30T12:04:16.273972Z,io.github.meacheal-ai/dsl-public-mcp,DropshippingLeads MCP,0.2.0,https://github.com/meacheal-ai/dsl-public-mcp,streamable-http,Small online retailer data for dropshipping platforms.
+2026-10-30T12:05:39.671974Z,studio.shawarma/music,Shawarma,1.26.1,,streamable-http,"Make and edit instrumental music from your agent: songs you can keep changing, MP3/WAV export"
+2026-10-30T12:07:29.375643Z,com.figurelane/mcp,FigureLane,0.3.0,,streamable-http,"Bookkeeping records, invoice drafts and accountant reports, with owner approval for every change."
+2026-10-30T12:08:52.205975Z,com.lanesurf/agent,Lanesurf,0.4.0,,streamable-http,"Freight: brokers post loads and pick carrier offers; carriers post trucks, find loads and bid."
+2026-10-30T12:10:22.950985Z,com.botsket/search,Botsket,0.1.0,,streamable-http,"Product search over independent US stores, with whether an AI agent can check out at each"
+2026-10-30T12:11:48.970733Z,ai.pathhub/pathhub,PathHub AI,1.0.0,,streamable-http,"Plan and run internal projects with compliance: phases, tasks, budget, risks, obligations."
+2026-10-30T12:13:49.343184Z,com.snagcast/snagcast,Snagcast,1.0.0,,streamable-http,"Facts about Snagcast, the app that captions, translates, clips and shares videos you watch"
+2026-10-30T12:17:14.638699Z,today.mynetworth/payslip,My Net Worth — Malaysian take-home pay,1.0.0,,streamable-http,"Malaysian take-home pay estimates: EPF, SOCSO, EIS, LINDUNG 24 Jam and PCB, with dated rules."
+2026-10-30T12:18:18.149116Z,io.github.sharken3948/mahshar,Mahshar,1.0.0,https://github.com/sharken3948/Mahshar,streamable-http,Free API discovery for AI agents; execution may require USDC/x402 payments on Arc Mainnet.
+2026-10-30T12:19:47.747856Z,io.github.michielinksee/linksee-memory,,0.17.0,https://github.com/michielinksee/linksee-memory,,Hand a project over with the reasons attached. Local-first cross-agent memory MCP + drift detection.
+2026-10-30T12:20:24.685549Z,io.github.amacgregor/shiplog,ShipLog,1.0.0,https://github.com/amacgregor/shiplog-mcp,streamable-http,Read user feedback and draft your changelog from any MCP client.

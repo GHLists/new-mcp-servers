@@ -9,37 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 11:22 UTC
+## Latest list — 2026-10-30 12:21 UTC
 
-New MCP servers published between 2026-10-30 10:19 UTC and 2026-10-30 11:22 UTC.
+New MCP servers published between 2026-10-30 11:22 UTC and 2026-10-30 12:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-30T11-22-11-248745Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-30T12-21-02-48931Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-30 10:22:52 | [io.github.kongming-ai/mcp-server](https://github.com/kongming-ai/mcp-server) | KongMing Growth MCP | 1.0.4 | Cross-border growth tools: mentions, pain points, competitors, GEO, synthesis,… |
-| 2026-10-30 10:29:46 | com.getmikie/mikie | Mikie | 1.1.166 | Focused repository context for Claude Code and Codex, with per-session token us… |
-| 2026-10-30 10:30:32 | [com.orangescrum/orangescrum-mcp-server](https://github.com/Orangescrum/orangescrum-mcp-server) | Orangescrum MCP Server | 1.0.0 | Manage Orangescrum projects, tasks, users, sprints, test cases, releases, and r… |
-| 2026-10-30 10:30:54 | app.grailhound/marketplace-alerts | GrailHound | 1.0.0 | Track new eBay, Vinted, Mercari and other marketplace listings, and see what yo… |
-| 2026-10-30 10:31:23 | com.tamrank/tamrank | TamRank | 1.0.0 | WordPress SEO for your AI assistant: change plans, approval in chat, rollback.… |
-| 2026-10-30 10:32:27 | [io.github.sum-eet/aiformapi](https://github.com/sum-eet/aiformapi-mcp) | AI Form API | 0.1.0 | Create forms, share the link and read responses as JSON or CSV from your AI age… |
-| 2026-10-30 10:32:28 | [io.github.sum-eet/aiformapi-fill](https://github.com/sum-eet/aiformapi-mcp) | AI Form API (fill) | 0.1.0 | Read and submit one AI Form API form for a person, with a one-time fill code. N… |
-| 2026-10-30 10:36:37 | com.dataart/case-studies |  | 1.1.0 | Search DataArt case studies by technology, industry, service, or keyword. |
-| 2026-10-30 10:39:08 | io.github.Toinedotcom/toolforte |  | 1.12.0 | Exact IBAN, VAT, cron, regex answers; HTML/URL to hosted PDF or screenshot; age… |
-| 2026-10-30 10:41:03 | app.openkrill/lucky-numbers | Lucky Numbers | 1.0.0 | Random number picks for fun: lottery-style presets, a custom range, daily numbe… |
-| 2026-10-30 10:43:39 | org.proofkit/operator | ProofKit Operator | 1.0.0 | Run ProofKit VPN nodes from an assistant: register and install them, read check… |
-| 2026-10-30 10:45:31 | dev.arquestra/consulting-radar | Arquestra Consulting Market Radar | 1.0.0 | Public consulting tenders and awards in Europe: who wins, open calls, firms and… |
-| 2026-10-30 10:47:24 | com.kursude/kursude | Kürsüde | 0.4.0 | Debate practice in your AI assistant: motions, opponent and POI briefs, judging… |
-| 2026-10-30 10:49:14 | io.github.dmsmaxim/memroot | Memroot | 1.0.0 | Persistent engineering memory designed to follow developers across coding agent… |
-| 2026-10-30 10:54:42 | io.github.memroot/memroot | Memroot | 1.0.0 | Persistent engineering memory designed to follow developers across coding agent… |
-| 2026-10-30 10:55:55 | io.github.darwin-studios/owned-research-mcp | Darwin-owned Public Sources | 0.1.0 | Free bounded public HTTPS document and JSON reads. Exact host allowlist; real s… |
-| 2026-10-30 10:57:49 | [io.github.benjamin-di/earnings-watch](https://github.com/benjamin-di/earnings-watch) |  | 0.1.0 | Verified issuer earnings calendars and results documents |
-| 2026-10-30 10:59:36 | [io.github.dot-ASH/umbriel-mcp](https://github.com/dot-ASH/umbriel-mcp) | Umbriel | 0.2.1 | Control the Umbriel Wayland compositor: windows, workspaces, input, screenshots… |
-| 2026-10-30 11:04:21 | com.scaledpapers/scaledpapers | ScaledPapers | 1.0.0 | Uptime checks, status pages, incidents, and maintenance for websites, APIs, DNS… |
-| 2026-10-30 11:04:49 | co.m2agent.app-promoters/offres | Offres Neuf by M2 | 0.1.0 | Logements neufs des promoteurs partenaires de M2 : programmes, lots, prix et di… |
-| 2026-10-30 11:08:08 | [io.github.FlywheelStudio/ulink](https://github.com/FlywheelStudio/ulink-mcp-server) |  | 0.1.22 | Deep linking for iOS, Android, Flutter & React Native. Firebase Dynamic Links a… |
-| 2026-10-30 11:13:16 | [io.usefulapi/fitssey](https://github.com/m190/usefulapi-mcp) | Fitssey MCP by usefulapi | 1.0.0 | Read Fitssey schedules, class capacity, stock, pass pricing, sales and attendan… |
-| 2026-10-30 11:21:20 | [com.msg91.mcp/mcp](https://github.com/walkover-mcp/msg91) | MSG91 | 1.0.0 | Find and call the right MSG91 API for SMS, OTP, WhatsApp, Email and Voice. |
+| 2026-10-30 11:24:29 | ru.delect/mcp | Delect | 1.0.0 | Prices and stock of Russian IT distributors: part-number search, BOM lookup, an… |
+| 2026-10-30 11:28:13 | [io.github.edxleon/runspector](https://github.com/edxleon/runspector) | Runspector | 0.5.0 | Local-first AI running coach for Garmin: readiness, VO2max, 80/20, workouts on… |
+| 2026-10-30 11:29:40 | [io.github.jztan/kampung-mcp](https://github.com/jztan/kampung-mcp) |  | 0.1.0 | Messaging between coding-agent sessions on different machines, through a server… |
+| 2026-10-30 11:42:04 | [io.github.askads/mcp-yandex-metrica](https://github.com/askads/mcp-yandex-metrica) | Yandex Metrica MCP | 1.5.0 | MCP server for Yandex Metrica API: list counters, goals and pull web-analytics… |
+| 2026-10-30 11:50:32 | com.casitatax/modelo-210 | CasitaTax | 1.0.0 | Spanish non-resident tax on a home in Spain: Modelo 210 estimate, deadlines, to… |
+| 2026-10-30 11:50:50 | [io.github.AnshumanAtrey/cornerstone-jobs-search](https://github.com/AnshumanAtrey/cornerstone-jobs-search) | Cornerstone Jobs Scraper & API - All CS… | 1.0.1 | Cornerstone Jobs Scraper - Every CSOD Career Site |
+| 2026-10-30 11:53:00 | ai.homouniversalis/viveka-oracle | Homo Universalis — Viveka 7-Wisdoms Eph… | 1.5.0 | Swiss Ephemeris 7-Wisdoms & 4-Elements deterministic oracle (<1.5ms, Zero-Auth,… |
+| 2026-10-30 11:55:23 | directory.arche/mcp | Arche | 1.0.0 | Hand-picked landing pages as design references for your agent: design systems,… |
+| 2026-10-30 11:58:18 | com.myboracayguide/boracay | MyBoracayGuide: Boracay Transfers and A… | 1.1.0 | Live prices and booking links for Boracay airport transfers, flights and activi… |
+| 2026-10-30 12:00:07 | [com.binggio/binggio](https://github.com/binggio/binggio) | Binggio | 0.1.0 | Governed answers from your data: approved meanings only, refusals instead of gu… |
+| 2026-10-30 12:01:50 | com.muretai/catalog | Muretai Catalog | 1.0.0 | Search products across independent online shops. Read-only; links go to each sh… |
+| 2026-10-30 12:03:04 | net.bitbusca/api | BitBusca — dados do Brasil | 1.0.0 | Dados do Brasil numa chave: CPF, CNPJ, placa, empresas, DJEN, licitações, advog… |
+| 2026-10-30 12:04:07 | io.inplan/inplan | InPlan | 1.0.0 | Is this US provider in this health plan? Network checks by NPI and plan ID, wit… |
+| 2026-10-30 12:04:16 | [io.github.meacheal-ai/dsl-public-mcp](https://github.com/meacheal-ai/dsl-public-mcp) | DropshippingLeads MCP | 0.2.0 | Small online retailer data for dropshipping platforms. |
+| 2026-10-30 12:05:39 | studio.shawarma/music | Shawarma | 1.26.1 | Make and edit instrumental music from your agent: songs you can keep changing,… |
+| 2026-10-30 12:07:29 | com.figurelane/mcp | FigureLane | 0.3.0 | Bookkeeping records, invoice drafts and accountant reports, with owner approval… |
+| 2026-10-30 12:08:52 | com.lanesurf/agent | Lanesurf | 0.4.0 | Freight: brokers post loads and pick carrier offers; carriers post trucks, find… |
+| 2026-10-30 12:10:22 | com.botsket/search | Botsket | 0.1.0 | Product search over independent US stores, with whether an AI agent can check o… |
+| 2026-10-30 12:11:48 | ai.pathhub/pathhub | PathHub AI | 1.0.0 | Plan and run internal projects with compliance: phases, tasks, budget, risks, o… |
+| 2026-10-30 12:13:49 | com.snagcast/snagcast | Snagcast | 1.0.0 | Facts about Snagcast, the app that captions, translates, clips and shares video… |
+| 2026-10-30 12:17:14 | today.mynetworth/payslip | My Net Worth — Malaysian take-home pay | 1.0.0 | Malaysian take-home pay estimates: EPF, SOCSO, EIS, LINDUNG 24 Jam and PCB, wit… |
+| 2026-10-30 12:18:18 | [io.github.sharken3948/mahshar](https://github.com/sharken3948/Mahshar) | Mahshar | 1.0.0 | Free API discovery for AI agents; execution may require USDC/x402 payments on A… |
+| 2026-10-30 12:19:47 | [io.github.michielinksee/linksee-memory](https://github.com/michielinksee/linksee-memory) |  | 0.17.0 | Hand a project over with the reasons attached. Local-first cross-agent memory M… |
+| 2026-10-30 12:20:24 | [io.github.amacgregor/shiplog](https://github.com/amacgregor/shiplog-mcp) | ShipLog | 1.0.0 | Read user feedback and draft your changelog from any MCP client. |
 
 ## Data source
 
