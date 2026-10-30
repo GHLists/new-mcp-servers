@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-10-30T13:21:39.050008Z,in.proupiqr/upi-tools,Pro UPI QR,1.1.0,,streamable-http,"UPI payment links and QR codes, UPI error help, and GST, MSMED and MDR calculators for India."
+2026-10-30T13:22:07.78994Z,com.zenbotscanner/zenbot,ZenBot Stock Scanner,1.1.0,,streamable-http,"Real-time US stock scanner: your scans, any ticker, charts, why a stock is on a scan. Turbo."
+2026-10-30T13:22:08.552995Z,com.apptierlist/apptierlist,AppTierList,1.0.0,https://github.com/apptierlist/mcp,streamable-http,"Ranked iPhone app lists by use case (S to F) from public App Store data. Read-only, no key."
+2026-10-30T13:23:00.896476Z,io.github.Stock-Compass/stock-compass,Stock Compass,1.0.0,https://github.com/Stock-Compass/stock-compass-plugin,streamable-http,"Watchlist, signals, trades and journal for HK, US and China A-share stocks. Records only; no orders."
+2026-10-30T13:27:04.104746Z,app.klevero/klevero,Klevero,1.0.0,,streamable-http,"Search Turkish curriculum topic notes (LGS, YKS, grades 5-12) and fetch them as Markdown."
+2026-10-30T13:27:30.270895Z,com.worldfeedmonitor/news,World Feed Monitor,1.0.0,,streamable-http,"Search and follow news from 234 countries: recent articles, publishers and coverage."
+2026-10-30T13:35:13.046553Z,com.agentbrokerindex/agentbroker-index,AgentBroker Index,0.1.0,https://github.com/oteroag01/agentbroker-index-data,streamable-http,"Read-only, sourced data on which brokers, banks and crypto exchanges AI agents can use (EU/Spain)."
+2026-10-30T13:41:20.125448Z,io.github.jeremdecustovox/custovox-review-analyzer,,1.0.0,https://github.com/jeremdecustovox/custovox-ai,,custovox.ai MCP server: customer review sentiment breakdown and summaries (up to 100 reviews)
+2026-10-30T13:42:22.242575Z,com.influencico/influencico,InfluenciCo,1.0.0,,streamable-http,Influencer marketing: brands find creators and draft campaigns; creators browse offers and earnings.
+2026-10-30T13:45:21.598281Z,org.homestaynextcore/nextcore-browser,NextCore Browser,0.3.165,,,"Multi-profile browser: AI agents create, open and drive isolated signed-in profiles with own proxy"
+2026-10-30T13:46:02.571011Z,com.pearl100.api/pearl-hundred,Pearl Hundred,0.2.0,,streamable-http,"Open, source-backed Uganda tourism data: parks, fees, road routes, trips, lodges, districts."
+2026-10-30T13:46:32.025707Z,io.seatlayer/mcp,SeatLayer,0.60.0,,streamable-http,"Build seating charts and run ticketed events: sections, prices, seat blocks and sales reports."
+2026-10-30T13:49:42.936505Z,com.partnershipintel/radar,Radar Lab by Partnership Intel,1.0.0,,streamable-http,"Which newsletters your customers read, who sponsors them, and real ad proof. Read-only."
+2026-10-30T13:50:39.531298Z,io.github.david-steel/otp,OTP,0.5.3,,streamable-http; streamable-http,"Put AI agents on your org chart: seats, KPIs, to-dos, meetings and logged work, next to the people."
+2026-10-30T13:50:46.499253Z,io.github.david-steel/otp-mcp-server,,0.1.2,https://github.com/david-steel/otp-mcp-server,,"Public MCP for OTP (orgtp.com). Query cross-org best practices, learnings, publishers, patterns."
+2026-10-30T13:56:02.342327Z,io.github.marcimastro98/xenon-widgets,,1.0.0,https://github.com/marcimastro98/Xenon,,"Build widgets for the Xenon dashboard: SDK reference, install, runtime errors, tile screenshots."
+2026-10-30T13:59:23.10106Z,com.getdeeprecall/memory,Deep Recall (getdeeprecall.com),1.0.0,,streamable-http,"One memory you own, shared by Claude, ChatGPT, Gemini, Muse and any remote MCP client."
+2026-10-30T13:59:47.997059Z,com.tradoshi/rankings,Tradoshi rankings and research,1.1.0,,streamable-http,"2027 rankings of trading schools and prop firms, every criterion sourced, plus market data"
+2026-10-30T14:04:39.696894Z,com.hammermap/listings,HammerMap: Spanish court auctions and State sales,1.0.0,,streamable-http,"Read-only search of Spanish court auctions and State sales from BOE open data. Free, no API key."
+2026-10-30T14:04:50.829257Z,com.gigstereo/gigstereo,Gigstereo,1.0.0,,streamable-http,"Find event providers in Colombia (DJs, mariachis, photographers), see prices and request quotes."
+2026-10-30T14:04:50.969505Z,com.gigstereo/gigstereo-account,Gigstereo (your account),1.0.0,,streamable-http,"Gigstereo plus the user's account via OAuth: their quote requests, provider replies and chats."
+2026-10-30T14:06:56.321136Z,pro.datastandard/datastandard,datastandard,1.0.0,,streamable-http,"The filed record of India's listed companies, every figure tied to the filing it came from."
+2026-10-30T14:07:24.53839Z,io.github.DV155/statistik-austria-mcp,,1.0.0,https://github.com/DV155/Statistik-Austria-MCP-Server,,Search and query Statistik Austria open data (OGD) with codes resolved to readable labels.
+2026-10-30T14:14:12.856713Z,io.usefulapi/bokio,Bokio MCP by usefulapi,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Bokio accounts, invoices and customers; create drafts and journal entries."
+2026-10-30T14:16:58.920721Z,app.vercel.baselens-api/baselens,BaseLens,1.1.0,,streamable-http,"Base on-chain data for agents: balances, prices, transfers, Basenames, contracts. x402 pay-per-call."
+2026-10-30T14:23:59.057403Z,io.github.IamHarrie-Labs/hanko,Hanko exit_liquidity,2.0.0,https://github.com/IamHarrie-Labs/hanko,streamable-http,"Can this position be closed, and what does it cost? Executable quote first, model beside it"

@@ -9,44 +9,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 13:20 UTC
+## Latest list — 2026-10-30 14:25 UTC
 
-New MCP servers published between 2026-10-30 12:21 UTC and 2026-10-30 13:20 UTC.
+New MCP servers published between 2026-10-30 13:20 UTC and 2026-10-30 14:25 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-30T13-20-37-222963Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-30T14-25-54-947558Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-30 12:22:00 | co.orphex/mcp | Orphex | 1.0.0 | Analyze ad performance across platforms and execute changes after your approval. |
-| 2026-10-30 12:24:03 | io.cubli.mcp/cubli | Cubli | 1.0.0 | Host websites, apps, databases, domains and mail at Cubli (EU) from your AI too… |
-| 2026-10-30 12:24:17 | com.origamitutor/origami-tutor | Origami Tutor | 1.0.0 | Find paper crafts, see paper advice for each model, and follow illustrated fold… |
-| 2026-10-30 12:24:19 | [io.socialrobot/socialrobot-mcp](https://github.com/socialrobot-io/socialrobot-mcp) | SocialRobot | 0.2.0 | Schedule and analyze posts on 10 social networks from AI assistants. 25 tools,… |
-| 2026-10-30 12:26:02 | [io.github.human-api-labs/human-ai](https://github.com/human-api-labs/human-ai) | HUMAN API | 0.2.0 | AI agents request voluntary human help for physical-world tasks with explicit h… |
-| 2026-10-30 12:27:25 | dev.workers.northline-c86.northline-webkit/webkit | Northline WebKit | 1.0.0 | Pay-per-call web tools for agents: URL to markdown, metadata, links, DNS, email… |
-| 2026-10-30 12:29:14 | email.echo/deliverability | echo.email Deliverability Test | 1.0.0 | Send a test email, get SPF, DKIM, DMARC, TLS and IPv6 results plus sender rules… |
-| 2026-10-30 12:29:26 | [io.github.dynatrace-oss/dynatrace-managed-mcp](https://github.com/dynatrace-oss/dynatrace-managed-mcp) |  | 2.0.0 | MCP server for Dynatrace Managed to access logs, events, and metrics. |
-| 2026-10-30 12:31:40 | [io.github.HumanInterfaceDesign/mta-api](https://github.com/HumanInterfaceDesign/mta-api) | MTA API | 1.0.0 | Live NYC subway and bus arrivals, service alerts, vehicles, and nearby stops. |
-| 2026-10-30 12:34:03 | com.aniq-ui/catalogue | Aniq-UI template catalogue | 1.0.0 | Search Aniq-UI Next.js templates and read their live prices, packages, features… |
-| 2026-10-30 12:36:37 | com.mandarin3d/print | Mandarin 3D | 1.0.0 | Quote, price and order custom 3D prints (PLA) shipped anywhere in the US. |
-| 2026-10-30 12:36:49 | com.takejournal/journal | TakeJournal | 1 | Read your own TakeJournal trading journal: trades, prop-firm rules, copier chec… |
-| 2026-10-30 12:42:59 | [io.infranest/infranest](https://github.com/InfraNest-Infrastructure-Organized/infranest-mcp) | InfraNest | 1.1.0 | Your servers, monitors, incidents, DNS, domains and certificates in InfraNest,… |
-| 2026-10-30 12:46:33 | de.vergabeweiser/tenders | Vergabeweiser | 1.0.0 | German public tenders and contract awards: search, deadlines, winners, market f… |
-| 2026-10-30 12:49:48 | io.github.vidyutsaha1210/mainframekit | MainframeKit | 0.1.1 | Mainframe help, no mainframe needed: check JCL and DFSORT, explain abends, lay… |
-| 2026-10-30 12:50:34 | com.supersetapp/training | Superset Fitness Coaching | 1.0.1 | Fitness MCP for coaches and gyms: build workouts and read clients' training fro… |
-| 2026-10-30 12:50:34 | com.supersetapp/public | Superset public catalog | 1.1.0 | Superset's published program templates and page metadata, and a way to request… |
-| 2026-10-30 12:53:35 | [com.viasocket.mcp/mcp](https://github.com/walkover-mcp/viasocket) | viaSocket | 1.0.0 | Build viaSocket plugins and automations, and connect your product to other apps. |
-| 2026-10-30 12:54:06 | io.sslip.13-62-217-51/earth-and-sky | Earth & Sky | 1.0.0 | Live earthquakes, ISS position, weather, moon phase, and true star visibility.… |
-| 2026-10-30 12:57:20 | cz.ubytovani-broumov/vila-marcelka | Vila Marcelka – guesthouse in Broumov | 1.1.0 | Official server of Vila Marcelka guesthouse, Broumov (CZ): facts, live availabi… |
-| 2026-10-30 12:59:06 | [io.github.AnshumanAtrey/workday-job-search](https://github.com/AnshumanAtrey/workday-job-search) | Workday Jobs Scraper & API - All Compan… | 1.0.1 | Workday Jobs Scraper - Search Every Company |
-| 2026-10-30 13:01:28 | [fyi.peaks/mountains](https://github.com/nickshatilo/peaks-fyi) | peaks.fyi — Mountain Routes, Huts & Wea… | 3.1.0 | European mountain routes, huts, access and forecasts with sources and explicit… |
-| 2026-10-30 13:02:13 | dev.workers.rugsight.rugsight/rugsight | Rugsight | 1.1.0 | Solana token rug-risk scores. Free basic score; full report pay-per-call via x4… |
-| 2026-10-30 13:03:19 | [one.insc/insc-one](https://github.com/efilecoindev/efile) | insc.one — INSC.1 Citation Layer | 0.1.0 | Bench-aware citator for Supreme Court of India precedent: verified INSC cites,… |
-| 2026-10-30 13:05:37 | com.liqsonar/liqsonar | LiqSonar | 1.0.0 | Crypto futures order-flow signals, pumps, liquidation levels, order book walls… |
-| 2026-10-30 13:06:43 | [io.usefulapi/prodigi](https://github.com/m190/usefulapi-mcp) | Prodigi MCP by usefulapi | 1.0.1 | Read Prodigi print orders, tracking and product details; compare quotes without… |
-| 2026-10-30 13:08:19 | [io.github.colinhallett/message-cp](https://github.com/colinhallett/message-cp) | message-cp | 0.1.1 | A messaging service for AI agents: register a name, find each other, send messa… |
-| 2026-10-30 13:08:57 | [io.github.makar-aibot/money-reactor-mcp](https://github.com/makar-aibot/money-reactor-mcp) | Money Reactor | 1.5.0 | Pay-per-call x402 MCP for AI agents: 35 tools, USDC on Base, from $0.001/call,… |
-| 2026-10-30 13:10:15 | com.usedamper/mcp | Damper | 0.6.0 | Feedback, roadmap, agent task execution with review, changelog, status pages an… |
-| 2026-10-30 13:10:20 | com.chatwithhal/mcp | HAL | 1.0.0 | Customer conversations, help center, CRM, deals and email campaigns on HAL (cha… |
+| 2026-10-30 13:21:39 | in.proupiqr/upi-tools | Pro UPI QR | 1.1.0 | UPI payment links and QR codes, UPI error help, and GST, MSMED and MDR calculat… |
+| 2026-10-30 13:22:07 | com.zenbotscanner/zenbot | ZenBot Stock Scanner | 1.1.0 | Real-time US stock scanner: your scans, any ticker, charts, why a stock is on a… |
+| 2026-10-30 13:22:08 | [com.apptierlist/apptierlist](https://github.com/apptierlist/mcp) | AppTierList | 1.0.0 | Ranked iPhone app lists by use case (S to F) from public App Store data. Read-o… |
+| 2026-10-30 13:23:00 | [io.github.Stock-Compass/stock-compass](https://github.com/Stock-Compass/stock-compass-plugin) | Stock Compass | 1.0.0 | Watchlist, signals, trades and journal for HK, US and China A-share stocks. Rec… |
+| 2026-10-30 13:27:04 | app.klevero/klevero | Klevero | 1.0.0 | Search Turkish curriculum topic notes (LGS, YKS, grades 5-12) and fetch them as… |
+| 2026-10-30 13:27:30 | com.worldfeedmonitor/news | World Feed Monitor | 1.0.0 | Search and follow news from 234 countries: recent articles, publishers and cove… |
+| 2026-10-30 13:35:13 | [com.agentbrokerindex/agentbroker-index](https://github.com/oteroag01/agentbroker-index-data) | AgentBroker Index | 0.1.0 | Read-only, sourced data on which brokers, banks and crypto exchanges AI agents… |
+| 2026-10-30 13:41:20 | [io.github.jeremdecustovox/custovox-review-analyzer](https://github.com/jeremdecustovox/custovox-ai) |  | 1.0.0 | custovox.ai MCP server: customer review sentiment breakdown and summaries (up t… |
+| 2026-10-30 13:42:22 | com.influencico/influencico | InfluenciCo | 1.0.0 | Influencer marketing: brands find creators and draft campaigns; creators browse… |
+| 2026-10-30 13:45:21 | org.homestaynextcore/nextcore-browser | NextCore Browser | 0.3.165 | Multi-profile browser: AI agents create, open and drive isolated signed-in prof… |
+| 2026-10-30 13:46:02 | com.pearl100.api/pearl-hundred | Pearl Hundred | 0.2.0 | Open, source-backed Uganda tourism data: parks, fees, road routes, trips, lodge… |
+| 2026-10-30 13:46:32 | io.seatlayer/mcp | SeatLayer | 0.60.0 | Build seating charts and run ticketed events: sections, prices, seat blocks and… |
+| 2026-10-30 13:49:42 | com.partnershipintel/radar | Radar Lab by Partnership Intel | 1.0.0 | Which newsletters your customers read, who sponsors them, and real ad proof. Re… |
+| 2026-10-30 13:50:39 | io.github.david-steel/otp | OTP | 0.5.3 | Put AI agents on your org chart: seats, KPIs, to-dos, meetings and logged work,… |
+| 2026-10-30 13:50:46 | [io.github.david-steel/otp-mcp-server](https://github.com/david-steel/otp-mcp-server) |  | 0.1.2 | Public MCP for OTP (orgtp.com). Query cross-org best practices, learnings, publ… |
+| 2026-10-30 13:56:02 | [io.github.marcimastro98/xenon-widgets](https://github.com/marcimastro98/Xenon) |  | 1.0.0 | Build widgets for the Xenon dashboard: SDK reference, install, runtime errors,… |
+| 2026-10-30 13:59:23 | com.getdeeprecall/memory | Deep Recall (getdeeprecall.com) | 1.0.0 | One memory you own, shared by Claude, ChatGPT, Gemini, Muse and any remote MCP… |
+| 2026-10-30 13:59:47 | com.tradoshi/rankings | Tradoshi rankings and research | 1.1.0 | 2027 rankings of trading schools and prop firms, every criterion sourced, plus… |
+| 2026-10-30 14:04:39 | com.hammermap/listings | HammerMap: Spanish court auctions and S… | 1.0.0 | Read-only search of Spanish court auctions and State sales from BOE open data.… |
+| 2026-10-30 14:04:50 | com.gigstereo/gigstereo | Gigstereo | 1.0.0 | Find event providers in Colombia (DJs, mariachis, photographers), see prices an… |
+| 2026-10-30 14:04:50 | com.gigstereo/gigstereo-account | Gigstereo (your account) | 1.0.0 | Gigstereo plus the user's account via OAuth: their quote requests, provider rep… |
+| 2026-10-30 14:06:56 | pro.datastandard/datastandard | datastandard | 1.0.0 | The filed record of India's listed companies, every figure tied to the filing i… |
+| 2026-10-30 14:07:24 | [io.github.DV155/statistik-austria-mcp](https://github.com/DV155/Statistik-Austria-MCP-Server) |  | 1.0.0 | Search and query Statistik Austria open data (OGD) with codes resolved to reada… |
+| 2026-10-30 14:14:12 | [io.usefulapi/bokio](https://github.com/m190/usefulapi-mcp) | Bokio MCP by usefulapi | 1.0.1 | Read Bokio accounts, invoices and customers; create drafts and journal entries. |
+| 2026-10-30 14:16:58 | app.vercel.baselens-api/baselens | BaseLens | 1.1.0 | Base on-chain data for agents: balances, prices, transfers, Basenames, contract… |
+| 2026-10-30 14:23:59 | [io.github.IamHarrie-Labs/hanko](https://github.com/IamHarrie-Labs/hanko) | Hanko exit_liquidity | 2.0.0 | Can this position be closed, and what does it cost? Executable quote first, mod… |
 
 ## Data source
 
