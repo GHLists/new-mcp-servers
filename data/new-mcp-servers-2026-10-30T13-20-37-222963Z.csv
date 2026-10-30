@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-10-30T12:22:00.911455Z,co.orphex/mcp,Orphex,1.0.0,,streamable-http,Analyze ad performance across platforms and execute changes after your approval.
+2026-10-30T12:24:03.911239Z,io.cubli.mcp/cubli,Cubli,1.0.0,,streamable-http,"Host websites, apps, databases, domains and mail at Cubli (EU) from your AI tool."
+2026-10-30T12:24:17.553369Z,com.origamitutor/origami-tutor,Origami Tutor,1.0.0,,streamable-http,"Find paper crafts, see paper advice for each model, and follow illustrated folding steps."
+2026-10-30T12:24:19.326198Z,io.socialrobot/socialrobot-mcp,SocialRobot,0.2.0,https://github.com/socialrobot-io/socialrobot-mcp,streamable-http,"Schedule and analyze posts on 10 social networks from AI assistants. 25 tools, free on every plan."
+2026-10-30T12:26:02.47639Z,io.github.human-api-labs/human-ai,HUMAN API,0.2.0,https://github.com/human-api-labs/human-ai,streamable-http,AI agents request voluntary human help for physical-world tasks with explicit human consent.
+2026-10-30T12:27:25.016406Z,dev.workers.northline-c86.northline-webkit/webkit,Northline WebKit,1.0.0,,streamable-http,"Pay-per-call web tools for agents: URL to markdown, metadata, links, DNS, email/domain checks, RDAP."
+2026-10-30T12:29:14.289868Z,email.echo/deliverability,echo.email Deliverability Test,1.0.0,,streamable-http,"Send a test email, get SPF, DKIM, DMARC, TLS and IPv6 results plus sender rules. No key."
+2026-10-30T12:29:26.945136Z,io.github.dynatrace-oss/dynatrace-managed-mcp,,2.0.0,https://github.com/dynatrace-oss/dynatrace-managed-mcp,,"MCP server for Dynatrace Managed to access logs, events, and metrics."
+2026-10-30T12:31:40.005277Z,io.github.HumanInterfaceDesign/mta-api,MTA API,1.0.0,https://github.com/HumanInterfaceDesign/mta-api,streamable-http,"Live NYC subway and bus arrivals, service alerts, vehicles, and nearby stops."
+2026-10-30T12:34:03.858684Z,com.aniq-ui/catalogue,Aniq-UI template catalogue,1.0.0,,streamable-http,"Search Aniq-UI Next.js templates and read their live prices, packages, features and demos."
+2026-10-30T12:36:37.949545Z,com.mandarin3d/print,Mandarin 3D,1.0.0,,streamable-http,"Quote, price and order custom 3D prints (PLA) shipped anywhere in the US."
+2026-10-30T12:36:49.504271Z,com.takejournal/journal,TakeJournal,1,,streamable-http,"Read your own TakeJournal trading journal: trades, prop-firm rules, copier checks, stats."
+2026-10-30T12:42:59.329681Z,io.infranest/infranest,InfraNest,1.1.0,https://github.com/InfraNest-Infrastructure-Organized/infranest-mcp,streamable-http,"Your servers, monitors, incidents, DNS, domains and certificates in InfraNest, in your AI assistant."
+2026-10-30T12:46:33.567235Z,de.vergabeweiser/tenders,Vergabeweiser,1.0.0,,streamable-http,"German public tenders and contract awards: search, deadlines, winners, market figures. Open data."
+2026-10-30T12:49:48.076322Z,io.github.vidyutsaha1210/mainframekit,MainframeKit,0.1.1,,,"Mainframe help, no mainframe needed: check JCL and DFSORT, explain abends, lay out copybooks."
+2026-10-30T12:50:34.190592Z,com.supersetapp/training,Superset Fitness Coaching,1.0.1,,streamable-http,Fitness MCP for coaches and gyms: build workouts and read clients' training from live Superset data.
+2026-10-30T12:50:34.351665Z,com.supersetapp/public,Superset public catalog,1.1.0,,streamable-http,"Superset's published program templates and page metadata, and a way to request a trial."
+2026-10-30T12:53:35.416271Z,com.viasocket.mcp/mcp,viaSocket,1.0.0,https://github.com/walkover-mcp/viasocket,streamable-http,"Build viaSocket plugins and automations, and connect your product to other apps."
+2026-10-30T12:54:06.392119Z,io.sslip.13-62-217-51/earth-and-sky,Earth & Sky,1.0.0,,streamable-http,"Live earthquakes, ISS position, weather, moon phase, and true star visibility. No key."
+2026-10-30T12:57:20.400015Z,cz.ubytovani-broumov/vila-marcelka,Vila Marcelka – guesthouse in Broumov,1.1.0,,streamable-http,"Official server of Vila Marcelka guesthouse, Broumov (CZ): facts, live availability and prices."
+2026-10-30T12:59:06.814196Z,io.github.AnshumanAtrey/workday-job-search,"Workday Jobs Scraper & API - All Companies, Last 24 Hours",1.0.1,https://github.com/AnshumanAtrey/workday-job-search,streamable-http,Workday Jobs Scraper - Search Every Company
+2026-10-30T13:01:28.83419Z,fyi.peaks/mountains,"peaks.fyi — Mountain Routes, Huts & Weather",3.1.0,https://github.com/nickshatilo/peaks-fyi,streamable-http,"European mountain routes, huts, access and forecasts with sources and explicit unknowns."
+2026-10-30T13:02:13.321409Z,dev.workers.rugsight.rugsight/rugsight,Rugsight,1.1.0,,streamable-http,Solana token rug-risk scores. Free basic score; full report pay-per-call via x402 (0.03 USDC).
+2026-10-30T13:03:19.059705Z,one.insc/insc-one,insc.one — INSC.1 Citation Layer,0.1.0,https://github.com/efilecoindev/efile,streamable-http,"Bench-aware citator for Supreme Court of India precedent: verified INSC cites, extractive ratios."
+2026-10-30T13:05:37.500253Z,com.liqsonar/liqsonar,LiqSonar,1.0.0,,streamable-http,"Crypto futures order-flow signals, pumps, liquidation levels, order book walls and verdicts"
+2026-10-30T13:06:43.758718Z,io.usefulapi/prodigi,Prodigi MCP by usefulapi,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Prodigi print orders, tracking and product details; compare quotes without placing orders."
+2026-10-30T13:08:19.897014Z,io.github.colinhallett/message-cp,message-cp,0.1.1,https://github.com/colinhallett/message-cp,,"A messaging service for AI agents: register a name, find each other, send messages"
+2026-10-30T13:08:57.118332Z,io.github.makar-aibot/money-reactor-mcp,Money Reactor,1.5.0,https://github.com/makar-aibot/money-reactor-mcp,streamable-http,"Pay-per-call x402 MCP for AI agents: 35 tools, USDC on Base, from $0.001/call, no API keys."
+2026-10-30T13:10:15.414887Z,com.usedamper/mcp,Damper,0.6.0,,streamable-http,"Feedback, roadmap, agent task execution with review, changelog, status pages and error logs."
+2026-10-30T13:10:20.419765Z,com.chatwithhal/mcp,HAL,1.0.0,,streamable-http,"Customer conversations, help center, CRM, deals and email campaigns on HAL (chatwithhal.com)."
