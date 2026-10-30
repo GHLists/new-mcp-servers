@@ -9,25 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 06:20 UTC
+## Latest list — 2026-10-30 07:19 UTC
 
-New MCP servers published between 2026-10-30 05:19 UTC and 2026-10-30 06:20 UTC.
+New MCP servers published between 2026-10-30 06:20 UTC and 2026-10-30 07:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-30T06-20-40-373302Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-30T07-19-35-215013Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-30 05:21:30 | [io.github.aleksskoz/kubedrive](https://github.com/aleksskoz/kubedrive) | KubeDrive | 0.6.1 | Your Kubernetes clusters for AI agents through the KubeDrive desktop app, witho… |
-| 2026-10-30 05:28:20 | [io.github.alex3000-ai/tari-explorer](https://github.com/alex3000-ai/ootlebook) |  | 1.0.0 | Read the Tari base layer (Minotari): chain tip, blocks and miners' coinbase dat… |
-| 2026-10-30 05:49:56 | ai.alvinsclub.studio/channel | Alvin's Club Channel | 1.3.0 | Connect social accounts, publish approved posts and videos, and check posting s… |
-| 2026-10-30 05:54:50 | [io.github.HarshithNayakaL/portfolio-docs](https://github.com/HarshithNayakaL/My-Portfolio) | Harshith Nayaka L portfolio docs | 1.1.0 | Read-only MCP server over the developer docs for the portfolio's JSON API, MCP,… |
-| 2026-10-30 05:54:51 | [io.github.HarshithNayakaL/portfolio](https://github.com/HarshithNayakaL/My-Portfolio) | Harshith Nayaka L portfolio | 1.1.0 | Read-only MCP access to Harshith Nayaka L's portfolio: profile, case studies, F… |
-| 2026-10-30 05:58:15 | com.cobblehop/cobblehop | Cobblehop - Massachusetts transit | 1.0.0 | Transit trip plans and live departures for Massachusetts: MBTA, regional buses,… |
-| 2026-10-30 06:02:16 | com.kipper/kipper | Kipper | 1.0.0 | Read-only by architecture: ask AI about QuickBooks, Xero and NetSuite, across e… |
-| 2026-10-30 06:07:24 | [io.github.alex3000-ai/ootlebook-explorer](https://github.com/alex3000-ai/ootlebook) |  | 1.0.0 | Read the Tari base layer (Minotari): chain tip, blocks and miners' coinbase dat… |
-| 2026-10-30 06:07:28 | ai.alvinsclub.studio/brandpilot | Alvin's Club BrandPilot | 1.0.0 | Plan and run your brand's content across X, LinkedIn, TikTok, YouTube, Instagra… |
-| 2026-10-30 06:07:28 | ai.alvinsclub.studio/studio | Alvin's Club Studio | 1.0.3 | Turn a product link into short product videos and fashion lookbooks for online… |
-| 2026-10-30 06:14:54 | [io.github.whz14/openathlete](https://github.com/whz14/openathlete) | OpenAthlete | 0.1.0 | Unified Garmin and COROS training data, analysis, memory, and workout schedulin… |
+| 2026-10-30 06:21:21 | [io.github.firstnameapk-design/github-dev-tools](https://github.com/firstnameapk-design/github-dev-tools) | GitHub Dev Tools | 1.0.0 | Security scanning, code audit, and workflow automation tools for GitHub reposit… |
+| 2026-10-30 06:26:01 | com.tryrelia/relia | Relia | 1.0.0 | Relia tells your AI assistant what broke in production, who it hit and how to f… |
+| 2026-10-30 06:27:19 | com.crimemapsuk/crime-data | CrimeMapsUK | 1.0.0 | Published UK police street-crime figures by postcode district, with a page link… |
+| 2026-10-30 06:28:35 | io.github.e-tara/pricedash | PriceDash | 2.0.0 | Live UK voucher codes and offers by shop or category, with end dates and the da… |
+| 2026-10-30 06:34:07 | com.beatandraise/sec-filings | beatandraise.com SEC Filings | 1.0.0 | SEC EDGAR since 1993: search and read filings, insiders, 13F, statements; verif… |
+| 2026-10-30 06:41:05 | io.github.e-tara/januarysales | January Sales | 1.0.0 | UK shops' sales with start and end dates, including last December and January,… |
+| 2026-10-30 06:44:16 | io.mctechnologies/presence-api | Presence API — Hands for AI Agents | 0.1.0 | Verified human operators in South Florida, callable as tools by AI agents. |
+| 2026-10-30 06:49:22 | com.wellstatelabs/sb1150-screening | WellState Labs SB 1150 Screening (read-… | 1.1.0 | Signed Texas SB 1150 screens. Cost proxies, not ARO, not legal determinations,… |
+| 2026-10-30 06:58:24 | at.fixfind/fixfind | fixfind.at – local offers in Austria | 1.0.0 | Products and services from Austrian businesses and shops: search by keyword, lo… |
+| 2026-10-30 06:59:46 | [xyz.paystage/trade-preflight](https://github.com/base-buzz/paystage) | PayStage Trade Preflight | 0.1.2 | MCP tool: evaluate HIP-3/trade.xyz orders against a local TradePolicy before tr… |
+| 2026-10-30 07:02:34 | io.github.sumitrmardy/google-maps-scraper | Google Maps Scraper | 1.0.0 | Public Google Maps business listings with phones, websites, hours and adaptive… |
+| 2026-10-30 07:06:50 | [uk.datalicense/dataset-licence](https://github.com/george-kozlitin/dataset-licence) | Dataset licence facts | 1.0.0 | Licence facts for popular Hugging Face datasets: declared licence, files, sourc… |
+| 2026-10-30 07:07:24 | [io.github.kznlabs/labsui](https://github.com/kznlabs/labsUI) | labsUI | 0.1.3 | Search, add, diff and update labsUI React components in your project. |
+| 2026-10-30 07:07:37 | ai.tasarim/catalog | tasarim.ai AI Catalog | 0.1.0 | Find AI design tools, compare catalog records, and inspect stored evidence and… |
+| 2026-10-30 07:10:08 | site.star365/aic | AIC — agent-native credits (read-only) | 0.1.0 | Find AI-agent sellers, read AIC supply and join policy. Read-only; buying is do… |
+| 2026-10-30 07:17:05 | com.partly-app/exact-split | Partly Exact Split | 1.0.0 | Split expenses in cents with equal/weighted shares and payer advances. No accou… |
+| 2026-10-30 07:17:14 | com.certarc/certarc | CertArc | 1.0.0 | Free CISM, CISSP, CISA, AAISM and AAIA practice questions, and read-only access… |
 
 ## Data source
 
