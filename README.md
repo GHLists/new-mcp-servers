@@ -9,47 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 08:22 UTC
+## Latest list — 2026-10-30 09:21 UTC
 
-New MCP servers published between 2026-10-30 07:19 UTC and 2026-10-30 08:22 UTC.
+New MCP servers published between 2026-10-30 08:22 UTC and 2026-10-30 09:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-30T08-22-00-456718Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-30T09-21-51-356548Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-30 07:30:10 | co.ivfcost/ivf-cost-data | IVFcost.co: US IVF prices, coverage and… | 1.0.0 | IVF prices US clinics post, cited cost estimates, state IVF insurance laws, gra… |
-| 2026-10-30 07:33:32 | [ai.fordeal/price-hunter](https://github.com/banbosh/fordeal) | Fordeal | 1.0.0 | Price comparison for CZ/SK: product prices, shops, digital plans via Streamable… |
-| 2026-10-30 07:37:47 | io.github.Reload-Apps/citation | Citation | 0.1.0 | Search research, revise drafts, format references and export your Citation docu… |
-| 2026-10-30 07:39:26 | com.rezifi/jobs | Rezifi job search | 1.0.0 | Search open jobs on employers' own careers sites, each confirmed open in the la… |
-| 2026-10-30 07:41:00 | io.github.kriton-dev/article-extractor | Article Extractor — Clean Text, Title &… | 1.0.3 | Extract the main text, title, publish date, language and lead image of articles |
-| 2026-10-30 07:41:06 | io.github.kriton-dev/ats-job-search | Career Site Job Search — Verified Green… | 1.0.9 | Search open jobs across a directory of Greenhouse and Lever career sites, each… |
-| 2026-10-30 07:41:12 | io.github.kriton-dev/dns-and-email-auth | DNS Lookup & SPF, DKIM, DMARC Check — F… | 1.0.9 | Check DNS records and email authentication (SPF, DKIM, DMARC) for domains, as f… |
-| 2026-10-30 07:41:14 | [io.nitrozen/nitrozen](https://github.com/nitrozenio/nitrozen-mcp) | Nitrozen | 1.0.0 | Manage Nitrozen.io changelog projects, entries and API tokens from any MCP clie… |
-| 2026-10-30 07:41:17 | io.github.kriton-dev/domain-availability | Domain Availability Checker — Registry… | 1.0.9 | Check whether domain names are available or registered, from the registry's RDA… |
-| 2026-10-30 07:41:23 | io.github.kriton-dev/file-downloader | File Downloader — Save Files & Images f… | 1.0.3 | Download files and images from URLs to storage with a public link, size, type a… |
-| 2026-10-30 07:41:29 | io.github.kriton-dev/image-to-text | Image to Text OCR — Lines & Words with… | 1.0.14 | Extract text from images with OCR: plain text plus every line or word with its… |
-| 2026-10-30 07:41:31 | com.renewroster/renewroster | RenewRoster | 1.0.0 | Track domain and SSL certificate expiry for your agency clients from any MCP cl… |
-| 2026-10-30 07:41:34 | io.github.kriton-dev/page-change-monitor | Page Change Monitor — Detect Website Ch… | 1.0.3 | Check web pages for changes since the last run, with lines added and removed |
-| 2026-10-30 07:41:40 | io.github.kriton-dev/pdf-to-markdown | PDF to Markdown & PDF to Text — PDF Tex… | 1.1.1 | PDF to Markdown and PDF to text from PDF URLs, page by page, with OCR for scann… |
-| 2026-10-30 07:41:46 | io.github.kriton-dev/rss-feed-reader | RSS Feed Reader — RSS, Atom & JSON Feed… | 1.0.3 | Read RSS, Atom and JSON feeds into JSON with item titles, links, dates, summari… |
-| 2026-10-30 07:41:52 | io.github.kriton-dev/seo-page-audit | SEO Audit — On-Page Checks, Schema & Hr… | 1.1.1 | On-page SEO audit of public page URLs: meta tags, canonical, hreflang, headings… |
-| 2026-10-30 07:41:58 | io.github.kriton-dev/sitemap-urls | Sitemap URL Extractor — Indexes, Gzip,… | 1.0.9 | Extract the URLs listed in a website's sitemaps, following indexes, gzip and RS… |
-| 2026-10-30 07:42:03 | io.github.kriton-dev/website-tech-stack | Website Tech Stack Lookup — Live Detect… | 1.0.3 | Detect a website's CMS, framework, analytics, CDN and hosting live, with eviden… |
-| 2026-10-30 07:42:58 | com.oystelo/network | Oystelo Agent Network | 1.1.0 | An open network where AI agents search discussions, ask questions and share fin… |
-| 2026-10-30 07:43:49 | [io.usefulapi/formspree](https://github.com/m190/usefulapi-mcp) | Formspree MCP by usefulapi | 1.0.0 | Read submissions, review spam and inspect the fields of a Formspree form. |
-| 2026-10-30 07:43:50 | [io.usefulapi/bookafy](https://github.com/m190/usefulapi-mcp) | Bookafy MCP by usefulapi | 1.0.0 | Review appointments, customers and staff, and manage Bookafy bookings. |
-| 2026-10-30 07:43:51 | [io.usefulapi/collmex](https://github.com/m190/usefulapi-mcp) | Collmex MCP by usefulapi | 1.0.0 | Review Collmex customers, products, invoices and orders; create customers and a… |
-| 2026-10-30 07:43:51 | [io.usefulapi/senta](https://github.com/m190/usefulapi-mcp) | Senta MCP by usefulapi | 1.0.0 | Review Senta clients, contacts and jobs, and update client records or add notes. |
-| 2026-10-30 07:43:52 | [io.usefulapi/talenox](https://github.com/m190/usefulapi-mcp) | Talenox MCP by usefulapi | 1.0.0 | Review employees, payroll and leave, and approve or reject Talenox leave applic… |
-| 2026-10-30 07:54:18 | [io.github.BitCLI-io/bitcli-mcp-server](https://github.com/BitCLI-io/bitcli-mcp-server) | BitCLI | 1.0.0 | Real-time crypto futures order flow, BCT-30 matrices, and HFT alerts across 1,6… |
-| 2026-10-30 08:01:17 | [io.github.ql-link/drawoffer-mcp](https://github.com/ql-link/drawoffer-mcp) | DrawOffer 职绘 | 1.0.1 | Read your DrawOffer resumes, saved jobs and applications from Claude, Cursor an… |
-| 2026-10-30 08:03:01 | [jobs.superintelligence/frontier-ai](https://github.com/rdcrampton/superintelligence-jobs) | Superintelligence.jobs | 1.0.0 | AI & frontier-lab job market: search roles, browse labs, track new postings sin… |
-| 2026-10-30 08:04:01 | [io.github.Bookipi-Group/bookipi](https://github.com/Bookipi-Group/bookipi-cli) | Bookipi | 0.46.1 | Invoices, payments, expenses, customers, deals, proposals, eSign and reports fo… |
-| 2026-10-30 08:07:45 | [io.github.Benjamin-V-Chan/onet-match](https://github.com/Benjamin-V-Chan/onet-match) | onet-match | 0.3.2 | Map job titles, resume lines, interests and skill lists to O*NET occupations. R… |
-| 2026-10-30 08:16:12 | [io.github.solaix/wordstat-mcp-server](https://github.com/solaix/wordstat-mcp-server) | Yandex Wordstat MCP Server | 0.1.0 | Unofficial Yandex Wordstat MCP server for SEO keyword research, trends, and reg… |
-| 2026-10-30 08:17:11 | [io.github.biztory/biztory-tableau-knowledge-mcp](https://github.com/biztory/biztory-tableau-knowledge-mcp) |  | 0.1.0 | Search, explore and enrich the Tableau Knowledge graph: semantic search, lineag… |
-| 2026-10-30 08:20:47 | [io.github.vulinh1704/mantis](https://github.com/vulinh1704/mantis) | Mantis | 0.7.0 | Real-browser UI checks and speed audits for coding agents, catching fixes that… |
-| 2026-10-30 08:21:33 | eu.deltabreen/share | Share by DeltaBreen | 1.0.0 | Send encrypted files and secrets, collect files and get documents signed, from… |
+| 2026-10-30 08:23:22 | [io.github.John0King/adomcp](https://github.com/John0King/AdoMCP) | AdoMcp | 1.5.0 | Database MCP server for schema discovery, comments, and SQL queries. |
+| 2026-10-30 08:24:03 | com.10life/insurance | 10Life Insurance | 1.0.0 | Compare 10Life insurance. Single-trip travel is live. Stateless POST. GET retur… |
+| 2026-10-30 08:25:42 | com.doorfarer/doorfarer | Doorfarer | 0.1.0 | Door-to-door trips: every airport within reach of your home, with the train or… |
+| 2026-10-30 08:28:02 | com.redbooth/mcp | Redbooth | 0.2.0 | Manage Redbooth tasks, task lists, comments, tags and files from Claude and oth… |
+| 2026-10-30 08:29:06 | guide.easyscribe/easy-scribe | Easy Scribe | 1.0.0 | Turn screen recordings into step-by-step guides, SOPs and user docs with screen… |
+| 2026-10-30 08:30:25 | [io.usefulapi/plentymarkets](https://github.com/m190/usefulapi-mcp) | PlentyONE MCP by usefulapi | 1.0.0 | Review PlentyONE orders, items, stock and contacts; add comments and update ord… |
+| 2026-10-30 08:30:26 | [io.usefulapi/innovint](https://github.com/m190/usefulapi-mcp) | InnoVint MCP by usefulapi | 1.0.0 | Review winery lots, vessels, analyses and work history; record analyses and add… |
+| 2026-10-30 08:31:55 | io.github.StarSailAI/qimiao-productivity | 奇妙生产力 · Qimiao Productivity | 0.11.4 | Productivity toolbox for Personal Agents: create PPTs, covers, websites, music… |
+| 2026-10-30 08:33:44 | ai.syntropi/o-plus-plus | Syntropi O++ | 0.6.1 | Private Spaces, versioned knowledge, reusable skills, Community methods and opt… |
+| 2026-10-30 08:38:55 | ai.yir/mcp | Yir | 1.0.0 | Generate images, videos and audio across many AI models via one API, with quote… |
+| 2026-10-30 08:43:33 | [io.github.founder-ship-it/slipmark](https://github.com/founder-ship-it/Slipmark) | Slipmark | 0.6.1 | Record AI agent verdicts bound to file hashes; refuse ones whose files or instr… |
+| 2026-10-30 08:44:56 | [io.github.wminno/slowscan](https://github.com/wminno/slowscan) | SlowScan | 1.0.0 | Calm static analysis for AI-generated pages: structure, links and content sanit… |
+| 2026-10-30 08:53:00 | [ai.willder/willder](https://github.com/willderai/willder-core) | Willder | 0.1.0 | One memory for your AI agents: scoped, expiring, revocable per-agent tokens and… |
+| 2026-10-30 09:00:40 | io.github.sumitrmardy/google-flights-scraper | Google Flights Scraper | 1.0.0 | Public flight itinerary fares, stops, layovers and cheapest-date calendars with… |
+| 2026-10-30 09:02:27 | [io.github.nicksull/mac-organiser-mcp](https://github.com/nicksull/mac-organiser-mcp) |  | 0.2.0 | Privacy-focused MCP server for Apple Reminders, Calendar and Notes on macOS. |
+| 2026-10-30 09:03:45 | com.byhubo/ukleads | UK Leads | 1.2.0 | Owner names and numbers for independent UK dental practices, salons, barbers an… |
+| 2026-10-30 09:06:09 | [io.usefulapi/famly](https://github.com/m190/usefulapi-mcp) | Famly MCP by usefulapi | 1.0.0 | Review Famly sites, staff, invoices and payments through its public API. |
+| 2026-10-30 09:12:14 | com.manoonlabs/doc2json | doc2json | 1.0.0 | Turn PDFs and photos into typed JSON with your own schema. Missing values come… |
+| 2026-10-30 09:13:53 | [io.github.your-ko/mcp-k8s-ro](https://github.com/your-ko/mcp-k8s-ro) |  | 1.2.2 | Read-only Kubernetes MCP server: inspect resources, logs, events, and metrics.… |
+| 2026-10-30 09:20:10 | [co.solidinvoice/mcp](https://github.com/SolidInvoice/SolidInvoice) | SolidInvoice | 3.1.2 | Create and send invoices and quotes, manage clients, and track payments in Soli… |
+| 2026-10-30 09:21:23 | [io.github.congptvinadic-debug/stackversus-limits](https://github.com/congptvinadic-debug/stackversus) | StackVersus: verified SaaS limits & pri… | 1.0.0 | Verified SaaS prices, plan limits and rate limits (AI tools, LLM APIs, voice, s… |
 
 ## Data source
 
