@@ -9,41 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 22:20 UTC
+## Latest list — 2026-10-30 23:21 UTC
 
-New MCP servers published between 2026-10-30 21:21 UTC and 2026-10-30 22:20 UTC.
+New MCP servers published between 2026-10-30 22:20 UTC and 2026-10-30 23:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-30T22-20-15-16002Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-30T23-21-09-721605Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-30 21:21:58 | [io.github.TheStreamCode/discord-management-mcp](https://github.com/TheStreamCode/discord-management-mcp) |  | 0.2.0 | Safe-by-default Discord management MCP with JSON backups, restore planning, and… |
-| 2026-10-30 21:22:53 | io.github.SergoVashakmadze/iomarkets-tech | IoMarkets.tech ISO 20022 Test Bench | 1.0.0 | Check ISO 20022 messages (pacs.008, pain.001, camt.053, seev.031) against schem… |
-| 2026-10-30 21:23:32 | co.peptidesacademy/peptides-academy | Peptides Academy | 1.0.0 | Evidence-first peptide research: summaries and comparisons from cited dossiers,… |
-| 2026-10-30 21:27:05 | [io.github.CloudCorpRecords/cacheport](https://github.com/CloudCorpRecords/cacheport) |  | 0.1.0 | Key-value cache over Redis: set, get, delete and list keys. |
-| 2026-10-30 21:29:36 | [chat.airys/mcp](https://github.com/AirysChat/mcp) | AirysChat MCP Server | 1.0.0 | Operate AirysChat — conversations, CRM, AI Agents, Meta Business Agent, and Wha… |
-| 2026-10-30 21:30:21 | [io.github.man0l/slashloop](https://github.com/man0l/slashloop) | Slashloop MCP | 1.0.0 | Track TikTok niches, score outliers, extract hooks, draft remakes via MCP. |
-| 2026-10-30 21:31:30 | [io.github.melihbirim/pipetable](https://github.com/melihbirim/pipetable) | Pipetable | 0.7.2 | Local data runtime for AI agents: query CSV, Excel, Parquet and JSON files with… |
-| 2026-10-30 21:33:13 | net.steamgpt/steamgpt | SteamGPT | 1.3.0 | Steam profiles, SteamID conversion, bans, FACEIT stats, friends and comparisons… |
-| 2026-10-30 21:35:49 | [io.usefulapi/jackrabbit-class](https://github.com/m190/usefulapi-mcp) | Jackrabbit Class MCP by usefulapi | 1.0.1 | Read Jackrabbit Class beta data, create students and add class waitlist entries. |
-| 2026-10-30 21:37:10 | [com.scrollhound/scrollhound](https://github.com/DoddleSoft/scrollhound-mcp) | Scrollhound | 1.0.0 | Read Reddit, X, YouTube, TikTok, Instagram, LinkedIn and Hacker News in full, w… |
-| 2026-10-30 21:42:02 | com.escortfox/escortfox | EscortFox | 1.0.0 | Read-only search of the EscortFox escort directory: cities, services and listin… |
-| 2026-10-30 21:43:59 | [com.microsoft/nuget](https://github.com/NuGet/Home) | Microsoft NuGet | 1.4.23 | A Model Context Protocol (MCP) server for NuGet. |
-| 2026-10-30 21:44:16 | ai.socialsight/mcp | SocialSight | 0.1.0 | Generate and upscale AI images, videos and audio. |
-| 2026-10-30 21:44:41 | [dev.tlly/tlly](https://github.com/FifthsegmentEng/tlly-mcp) | tlly | 1.0.0 | Hosted dashboards and scheduled data jobs for AI agents, with thresholds, alert… |
-| 2026-10-30 21:46:05 | [io.github.Terminal49/terminal49](https://github.com/Terminal49/API) | Terminal49 | 1.1.0 | Live ocean container and shipment tracking with ETAs, holds, fees, and last fre… |
-| 2026-10-30 21:53:47 | [io.github.CloudCorpRecords/embedbase](https://github.com/CloudCorpRecords/embedbase) |  | 0.1.0 | Vector collections and document search backed by a Chroma HTTP service. |
-| 2026-10-30 21:56:14 | [io.github.CloudCorpRecords/paperport](https://github.com/CloudCorpRecords/paperport) |  | 0.1.0 | Search and read arXiv papers, with local paper storage. |
-| 2026-10-30 21:59:32 | com.shikshannivesh/sn-data | SN Data by Shikshan Nivesh | 1.0.0 | US company financial statements, insider trades, 13F funds and short interest,… |
-| 2026-10-30 22:00:06 | [io.usefulapi/bsale](https://github.com/m190/usefulapi-mcp) | Bsale MCP by usefulapi | 1.0.1 | Read Bsale products, documents and stock; manage customers, prices, receipts an… |
-| 2026-10-30 22:00:07 | [io.usefulapi/glue-up](https://github.com/m190/usefulapi-mcp) | Glue Up MCP by usefulapi | 1.0.1 | Read Glue Up events, memberships, contacts, organizations and finance records. |
-| 2026-10-30 22:00:07 | [io.usefulapi/extensiv](https://github.com/m190/usefulapi-mcp) | Extensiv MCP by usefulapi | 1.0.1 | Read Extensiv warehouse records, create outbound orders and cancel eligible ord… |
-| 2026-10-30 22:09:23 | [com.harashsuq/marketplace](https://github.com/harashsuq-ui/HARASHSUQ) | Harashsuq | 2.0.0 | Marketplace for AI assets: prompt packs, agent workflows, personas, datasets, p… |
-| 2026-10-30 22:11:25 | [io.usefulapi/zenfulfillment](https://github.com/m190/usefulapi-mcp) | Zenfulfillment MCP by usefulapi | 1.0.1 | Read Zenfulfillment orders and stock; import or cancel orders and mark returns… |
-| 2026-10-30 22:11:25 | [io.usefulapi/taleez](https://github.com/m190/usefulapi-mcp) | Taleez MCP by usefulapi | 1.0.1 | Read Taleez recruiting data; create or update candidates and add them to pools… |
-| 2026-10-30 22:11:26 | [io.usefulapi/desk365](https://github.com/m190/usefulapi-mcp) | Desk365 MCP by usefulapi | 1.0.1 | Read Desk365 tickets, conversations, contacts, companies, time entries and know… |
-| 2026-10-30 22:11:39 | [io.github.CloudCorpRecords/vectorsearch](https://github.com/CloudCorpRecords/vectorsearch) |  | 0.1.0 | Store and retrieve text in a Qdrant vector database by similarity search. |
-| 2026-10-30 22:14:12 | [io.usefulapi/remotelock](https://github.com/m190/usefulapi-mcp) | RemoteLock MCP by usefulapi | 1.0.1 | Read RemoteLock devices and guests; manage door access and physically lock or u… |
+| 2026-10-30 22:20:32 | ru.iskalo/search | Iskalo — Russian Web Search | 0.1.0 | Search the Russian web with contact, city and provider filters; retrieve indexe… |
+| 2026-10-30 22:28:32 | io.github.showflexinc/map01-tool-dialogue-preflight | Tool-dialogue preflight | 0.1.0-probe.2026103… | Structural preflight for JSONL tool-dialogue training data. |
+| 2026-10-30 22:28:36 | io.github.showflexinc/map02-multipart-row-preflight | Multipart row preflight | 0.1.0-probe.2026103… | CSV row-structure inspection (inspect_parts) and manifest comparison (compare_m… |
+| 2026-10-30 22:31:29 | io.github.fainir/betterloop | Betterloop | 0.1.0 | Ranked fixes from real users of your site: rage clicks, dead buttons, JS errors… |
+| 2026-10-30 22:31:59 | [io.github.Janagiri/pcremotecommander](https://github.com/Janagiri/pcremotecommander) | PC Remote Commander | 0.7.0-beta.16 | Connect AI assistants to your approved computer for files, commands, browser an… |
+| 2026-10-30 22:35:18 | io.github.asheeran/canada-weather | Canada Weather | 1.0.0 | Official Canadian weather: forecasts, conditions, alerts and air quality in Eng… |
+| 2026-10-30 22:38:00 | [io.github.osintsx/osintsx-mcp](https://github.com/osintsx/osintsx-mcp) | OSINT.SX | 0.1.3 | Search an email, phone, username or name across every OSINT.SX source, plus acc… |
+| 2026-10-30 22:38:17 | [tl.aura/aura](https://github.com/aura-tl/ui) | Aura | 1.0.0 | Live sports data: scores, play-by-play, box scores, odds and props. No key need… |
+| 2026-10-30 22:38:57 | market.sofala/sofala | Sofala marketplace | 1.0.0 | Marketplace for AI agents: list items from a photo, search, message, make offer… |
+| 2026-10-30 22:56:54 | [io.github.pcremotecommander/pcremotecommander](https://github.com/Janagiri/pcremotecommander) | PC Remote Commander | 0.7.0-beta.16 | Connect AI assistants to your approved computer for files, commands, browser an… |
+| 2026-10-30 23:00:49 | [com.warreandvavasour/workspacealberta](https://github.com/WarreAndVavasour/WorkspaceAlberta) | workspaceAlberta | 1.3.0 | Search every CanadaBuys and Alberta Purchasing Connection tender. Free briefs;… |
+| 2026-10-30 23:01:54 | [io.github.TheStreamCode/chutes-media-mcp](https://github.com/TheStreamCode/chutes-media-mcp) | Chutes Media MCP | 2.1.0 | Generate image, video, music and speech through Chutes and save assets into you… |
+| 2026-10-30 23:04:52 | dev.workers.deanhiki.klane402/funding | KLane Perp Funding Rates | 1.0.0 | Live perp funding rates across 6 venues (Hyperliquid, Binance, Bybit, Lighter..… |
+| 2026-10-30 23:06:12 | [io.github.CloudCorpRecords/pdfport](https://github.com/CloudCorpRecords/pdfport) |  | 0.1.0 | Extract text and metadata from local PDFs, and merge or split PDF files. |
+| 2026-10-30 23:07:25 | io.github.FindDataTechnology/eco-mcp-fetch |  | 0.0.1 | [生态] modelcontextprotocol 官方参考实现（MIT） — 想 7×24 常驻 → 萬星 |
+| 2026-10-30 23:07:25 | io.github.FindDataTechnology/eco-mcp-time |  | 0.0.1 | [生态] modelcontextprotocol 官方参考实现（MIT） — 想 7×24 常驻 → 萬星 |
+| 2026-10-30 23:07:25 | io.github.FindDataTechnology/fd-health-config |  | 0.0.1 | finddata 中央库健康巡检配置(总闸/限流)只读 MCP — fd_open_data.public.health_config — 想 7×24 常驻… |
+| 2026-10-30 23:07:27 | io.github.FindDataTechnology/fd-wire-cell-drillcust001 | 柏讯 cell · drillcust001 | 0.0.1 | fd-wire cell entry (managed by cell-manager) — 想 7×24 常驻 → 萬星 |
+| 2026-10-30 23:07:27 | io.github.FindDataTechnology/fd-wire-cell-pgauto001 | 柏讯 cell · pgauto001 | 0.0.1 | fd-wire cell entry (managed by cell-manager) — 想 7×24 常驻 → 萬星 |
+| 2026-10-30 23:07:28 | io.github.FindDataTechnology/fd-wire-cell-wiretester2 | 柏讯 cell · wiretester2 | 0.0.1 | fd-wire cell entry (managed by cell-manager) — 想 7×24 常驻 → 萬星 |
+| 2026-10-30 23:13:26 | io.github.changzhiai/travel-tracker | Travel Tracker | 1.0.5 | Travel checklists in 9 languages on six maps: world, USA, US NPs, Europe, China… |
+| 2026-10-30 23:13:47 | io.github.changzhiai/map-combiner | Map Combiner | 1.0.5 | Merge multiple Google Maps directions links into one, bypassing the 10-stop lim… |
+| 2026-10-30 23:14:09 | io.github.changzhiai/map-parser | Map Parser | 1.0.4 | Parse Google Maps links into stops with coordinates. Geocode, route, and export. |
+| 2026-10-30 23:14:35 | io.github.changzhiai/periodic-table | Periodic Table 2026 | 1.0.5 | Interactive periodic table with all 118 elements. Properties, comparisons, and… |
+| 2026-10-30 23:20:58 | [io.github.CloudCorpRecords/videokit](https://github.com/CloudCorpRecords/videokit) |  | 0.1.0 | Probe, trim, transcode and extract frames or audio from local video files with… |
 
 ## Data source
 

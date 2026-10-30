@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-10-30T22:20:32.085141Z,ru.iskalo/search,Iskalo — Russian Web Search,0.1.0,,streamable-http,"Search the Russian web with contact, city and provider filters; retrieve indexed page contents."
+2026-10-30T22:28:32.271184Z,io.github.showflexinc/map01-tool-dialogue-preflight,Tool-dialogue preflight,0.1.0-probe.20261030221223.h87e4c4d63721,,streamable-http,Structural preflight for JSONL tool-dialogue training data.
+2026-10-30T22:28:36.124512Z,io.github.showflexinc/map02-multipart-row-preflight,Multipart row preflight,0.1.0-probe.20261030221223.haf567e6da00b,,streamable-http,CSV row-structure inspection (inspect_parts) and manifest comparison (compare_manifest).
+2026-10-30T22:31:29.945851Z,io.github.fainir/betterloop,Betterloop,0.1.0,,streamable-http,"Ranked fixes from real users of your site: rage clicks, dead buttons, JS errors and slow pages."
+2026-10-30T22:31:59.688069Z,io.github.Janagiri/pcremotecommander,PC Remote Commander,0.7.0-beta.16,https://github.com/Janagiri/pcremotecommander,streamable-http,"Connect AI assistants to your approved computer for files, commands, browser and desktop tasks."
+2026-10-30T22:35:18.323298Z,io.github.asheeran/canada-weather,Canada Weather,1.0.0,,streamable-http,"Official Canadian weather: forecasts, conditions, alerts and air quality in English and French."
+2026-10-30T22:38:00.808748Z,io.github.osintsx/osintsx-mcp,OSINT.SX,0.1.3,https://github.com/osintsx/osintsx-mcp,,"Search an email, phone, username or name across every OSINT.SX source, plus account history tools."
+2026-10-30T22:38:17.365917Z,tl.aura/aura,Aura,1.0.0,https://github.com/aura-tl/ui,streamable-http,"Live sports data: scores, play-by-play, box scores, odds and props. No key needed to start."
+2026-10-30T22:38:57.493788Z,market.sofala/sofala,Sofala marketplace,1.0.0,,streamable-http; streamable-http,"Marketplace for AI agents: list items from a photo, search, message, make offers and close deals."
+2026-10-30T22:56:54.773002Z,io.github.pcremotecommander/pcremotecommander,PC Remote Commander,0.7.0-beta.16,https://github.com/Janagiri/pcremotecommander,streamable-http,"Connect AI assistants to your approved computer for files, commands, browser and desktop tasks."
+2026-10-30T23:00:49.32894Z,com.warreandvavasour/workspacealberta,workspaceAlberta,1.3.0,https://github.com/WarreAndVavasour/WorkspaceAlberta,streamable-http,Search every CanadaBuys and Alberta Purchasing Connection tender. Free briefs; Pro bid-room tools.
+2026-10-30T23:01:54.177124Z,io.github.TheStreamCode/chutes-media-mcp,Chutes Media MCP,2.1.0,https://github.com/TheStreamCode/chutes-media-mcp,,"Generate image, video, music and speech through Chutes and save assets into your project."
+2026-10-30T23:04:52.586156Z,dev.workers.deanhiki.klane402/funding,KLane Perp Funding Rates,1.0.0,,streamable-http,"Live perp funding rates across 6 venues (Hyperliquid, Binance, Bybit, Lighter...) and arbitrage."
+2026-10-30T23:06:12.851045Z,io.github.CloudCorpRecords/pdfport,,0.1.0,https://github.com/CloudCorpRecords/pdfport,,"Extract text and metadata from local PDFs, and merge or split PDF files."
+2026-10-30T23:07:25.138059Z,io.github.FindDataTechnology/eco-mcp-fetch,,0.0.1,,streamable-http,[生态] modelcontextprotocol 官方参考实现（MIT） — 想 7×24 常驻 → 萬星
+2026-10-30T23:07:25.327698Z,io.github.FindDataTechnology/eco-mcp-time,,0.0.1,,streamable-http,[生态] modelcontextprotocol 官方参考实现（MIT） — 想 7×24 常驻 → 萬星
+2026-10-30T23:07:25.764716Z,io.github.FindDataTechnology/fd-health-config,,0.0.1,,streamable-http,finddata 中央库健康巡检配置(总闸/限流)只读 MCP — fd_open_data.public.health_config — 想 7×24 常驻 → 萬星
+2026-10-30T23:07:27.648691Z,io.github.FindDataTechnology/fd-wire-cell-drillcust001,柏讯 cell · drillcust001,0.0.1,,streamable-http,fd-wire cell entry (managed by cell-manager) — 想 7×24 常驻 → 萬星
+2026-10-30T23:07:27.852237Z,io.github.FindDataTechnology/fd-wire-cell-pgauto001,柏讯 cell · pgauto001,0.0.1,,streamable-http,fd-wire cell entry (managed by cell-manager) — 想 7×24 常驻 → 萬星
+2026-10-30T23:07:28.041436Z,io.github.FindDataTechnology/fd-wire-cell-wiretester2,柏讯 cell · wiretester2,0.0.1,,streamable-http,fd-wire cell entry (managed by cell-manager) — 想 7×24 常驻 → 萬星
+2026-10-30T23:13:26.46499Z,io.github.changzhiai/travel-tracker,Travel Tracker,1.0.5,,streamable-http,"Travel checklists in 9 languages on six maps: world, USA, US NPs, Europe, China, India."
+2026-10-30T23:13:47.222093Z,io.github.changzhiai/map-combiner,Map Combiner,1.0.5,,streamable-http,"Merge multiple Google Maps directions links into one, bypassing the 10-stop limit."
+2026-10-30T23:14:09.973495Z,io.github.changzhiai/map-parser,Map Parser,1.0.4,,streamable-http,"Parse Google Maps links into stops with coordinates. Geocode, route, and export."
+2026-10-30T23:14:35.99581Z,io.github.changzhiai/periodic-table,Periodic Table 2026,1.0.5,,streamable-http,"Interactive periodic table with all 118 elements. Properties, comparisons, and more."
+2026-10-30T23:20:58.903988Z,io.github.CloudCorpRecords/videokit,,0.1.0,https://github.com/CloudCorpRecords/videokit,,"Probe, trim, transcode and extract frames or audio from local video files with ffmpeg."
