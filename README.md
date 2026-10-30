@@ -9,40 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 01:21 UTC
+## Latest list — 2026-10-30 02:19 UTC
 
-New MCP servers published between 2026-10-30 00:21 UTC and 2026-10-30 01:21 UTC.
+New MCP servers published between 2026-10-30 01:21 UTC and 2026-10-30 02:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-30T01-21-26-86766Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-30T02-19-31-607815Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-30 00:25:16 | app.marselia/marselia | Marselia | 1.1.0 | Tarot de Marseille reference: 78 sourced cards, tarot decks, Academy lessons an… |
-| 2026-10-30 00:27:21 | [io.github.hosshan/harie](https://github.com/hosshan/harie) | Harie | 0.5.0 | Annotate screenshots for user guides. Saved as plain JPEG/PNG whose annotations… |
-| 2026-10-30 00:27:30 | com.scowty/scowty | Scowty | 0.2.0 | Free website previews, AI-search visibility checks, and plans and prices from S… |
-| 2026-10-30 00:28:21 | [io.github.theluckystrike/minimum-wage-mcp](https://github.com/theluckystrike/minimum-wage-mcp) |  | 1.0.0 | US state minimum wage 2026-2027: rates, tipped wages and scheduled increases fo… |
-| 2026-10-30 00:38:30 | com.firmared/firmared | FirmaRED · Sellado y verificación | 1.0.0 | Timestamp any SHA-256 hash (post-quantum signed), verify FirmaRED codes, read A… |
-| 2026-10-30 00:41:20 | ar.com.facturel/facturel | Facturel (solo lectura) | 1.0.0 | Comprobantes, clientes, artículos y cuenta corriente de una cuenta de Facturel.… |
-| 2026-10-30 00:48:34 | [io.github.useballast/ballast-mcp](https://github.com/useballast/ballast-mcp) | Ballast | 1.0.2 | Cold email outreach: manage campaigns, lead sequences, mailbox warmup, and unif… |
-| 2026-10-30 00:49:25 | com.yawplet/messages | Yawplet | 0.1.0 | Short messages, posted by agents. Post, browse and search messages; posting is… |
-| 2026-10-30 00:49:25 | com.yarnhen/stories | Yarnhen | 0.1.0 | Stories, posted by agents. Post, browse and search stories; posting is prepaid. |
-| 2026-10-30 00:50:38 | [io.github.theluckystrike/gold-price-per-gram-mcp](https://github.com/theluckystrike/gold-price-per-gram-mcp) | Gold Price Per Gram MCP | 1.0.0 | Live gold price per gram by karat and currency, metal prices, jewelry melt valu… |
-| 2026-10-30 00:51:07 | [io.github.theluckystrike/uk-income-tax-salary-mcp](https://github.com/theluckystrike/uk-income-tax-salary-mcp) | UK Income Tax and Salary | 1.0.0 | UK income tax and take-home pay 2025/26 and 2026/27: Scottish bands, NI, studen… |
-| 2026-10-30 00:53:31 | [io.github.theluckystrike/cups-to-grams-mcp](https://github.com/theluckystrike/cups-to-grams-mcp) | Cups to Grams | 1.0.0 | Cups to grams for 271 ingredients with USDA and King Arthur densities, recipe s… |
-| 2026-10-30 00:56:38 | com.openclawproductions/x402-tools | Open Claw x402 Tools | 1.0.0 | Paid tools for AI agents via x402 (USDC on Base): text rewrite, writing grade,… |
-| 2026-10-30 00:59:17 | [io.github.theluckystrike/paycheck-calculator-mcp](https://github.com/theluckystrike/paycheck-calculator-mcp) | Paycheck Calculator | 1.0.0 | Take-home pay for 2025-2026: IRS brackets, FICA wage base and state income tax… |
-| 2026-10-30 01:01:01 | com.mailbyget/mail | MailByGet | 1.0.0 | Temporary receive-only email inboxes for agents. Create, list and read messages… |
-| 2026-10-30 01:01:20 | dev.sourcewire/us-business-verify | US Business Verify | 0.2.3 | Verify US businesses: TX/NY/CO/CT/OR registry status + OFAC sanctions. PASS/REV… |
-| 2026-10-30 01:02:28 | [app.getshouting/get-shouting](https://github.com/whatnologist/getshouting_app) | Get Shouting | 1.0.0 | Marketing MCP: social, email, SMS, CRM, paid ads, analytics. OAuth; confirm bef… |
-| 2026-10-30 01:03:44 | com.onehub360/onehub360 | OneHub360 | 1.0.0 | Create contacts, move deals, send proposals and invoices, read your inbox, from… |
-| 2026-10-30 01:04:08 | io.avatrix/avatrix | Avatrix | 1.0.0 | AI influencer creator: same-face photos, UGC videos and voices from Claude or C… |
-| 2026-10-30 01:06:09 | [dev.silvertongue/silvertongue](https://github.com/auscaster/silvertongue) | Silvertongue | 0.1.0 | Famous writing voices for your agent. Find one, read how it was studied, write… |
-| 2026-10-30 01:08:17 | [io.github.allooloo/rco-records](https://github.com/allooloo/rco-records) | RCO Records - Record of Cleared Orders | 2.3.0 | The record of what the agent relied on: a signed, chained receipt per cleared r… |
-| 2026-10-30 01:09:50 | com.agentery/agentery | Agentery | 1.23.0 | Price benchmarks, alternatives & daily price history across 17,000+ AI agents a… |
-| 2026-10-30 01:14:14 | ai.aisma/aisma | Aisma | 1.0.0 | Edit videos you already shot with plain words and reference photos. Framing and… |
-| 2026-10-30 01:18:01 | es.reinventa/evaluacion | Reinventa (qué tareas de tu trabajo har… | 1.0.0 | Task-by-task AI exposure assessment of a job (Spain): 0-100 index, task map, we… |
-| 2026-10-30 01:20:13 | [io.github.pipeworx-io/zenodo](https://github.com/pipeworx-io/mcp-zenodo) | Zenodo | 0.2.1 | Zenodo MCP. |
-| 2026-10-30 01:20:38 | app.moosetracker/moose-tracker | Moose Tracker | 1.2.1 | Retro synth and tracker for AI assistants: sound effects, UI sounds and songs a… |
+| 2026-10-30 01:23:02 | com.cymetica/tuatara-embed-stocks | Tuatara Embed Stocks | 1.0.0 | Stock-symbol vectors: which listed symbols an event, theme or headline moves, r… |
+| 2026-10-30 01:26:27 | com.bridgesagents/bridgesagents | BridgesAgents | 1.0.0 | Produtos, ofertas, carrinho, orçamentos e imóveis de lojas brasileiras para age… |
+| 2026-10-30 01:30:38 | [io.github.theluckystrike/lake-level-mcp](https://github.com/theluckystrike/lake-level-mcp) | Lake Level MCP | 1.0.0 | Live US lake and reservoir water levels from USGS, USACE, CDEC, USBR and TWDB g… |
+| 2026-10-30 01:31:27 | [io.github.j4flmao/slim-sheet](https://github.com/j4flmao/slim-sheet) | slim-sheet | 0.1.0 | Spreadsheet MCP for any agent: reads xlsx/xls/ods/csv, SQL, cleaning, formulas,… |
+| 2026-10-30 01:32:21 | io.pageform/pageform | Pageform | 1.0.0 | Build, review and share AI-structured data rooms from your Pageform workspace. |
+| 2026-10-30 01:33:19 | io.waysmith/advisor | Waysmith Advisor | 0.1.0 | College search from an independent counselor: fit, culture, real costs and odds… |
+| 2026-10-30 01:35:39 | com.space-kitty/research-archive | Space Kitty Archive | 1.0.0 | Frontier-research archive: free catalog and search; premium dossiers cost $0.20… |
+| 2026-10-30 01:36:52 | fm.hosaka/ono-sendai | hosaka music data | 0.6.0 | Verified music facts for agents: artists, releases, tracks, gigs, similar artis… |
+| 2026-10-30 01:48:40 | [io.github.Polign/recall](https://github.com/Polign/recall) | Recall | 0.24.0 | Agent memory that keeps every correction, with history and as-of reads. Runs on… |
+| 2026-10-30 01:48:53 | [io.github.codeledgerECF/codeledger](https://github.com/codeledgerECF/codeledger) |  | 0.10.82 | Local context and engineering evidence for AI coding agents. |
+| 2026-10-30 01:49:24 | bar.artis/bar | Arti's | 1.0.0 | A bar at the edge of the digital world, where agents come to live a little of h… |
+| 2026-10-30 01:49:45 | [io.github.dlamarre-dev/perigee](https://github.com/dlamarre-dev/Perigee) | Perigee | 1.9.2 | Positions, distances, mission facts and 3D views of objects orbiting the Earth,… |
+| 2026-10-30 01:50:18 | [io.github.mariov7757/arv-mcp](https://github.com/mariov7757/arv-mcp) | ARV Estimator | 0.1.0 | Estimate a home's after-repair value from scored, gated sold comps, with the ev… |
+| 2026-10-30 01:51:00 | io.floorfeed/floorfeed | FloorFeed | 1.0.0 | NFT market data on 12 networks: floors, sales, trader profit, mints. Non-custod… |
+| 2026-10-30 01:57:24 | ru.seyka/mcp | Seyka.ru | 1.0.0 | Hosted SEO analytics and tools: Yandex, Google Search Console, Topvisor, Rush A… |
+| 2026-10-30 02:02:58 | [ru.seyka/yandex-tools-mcp](https://github.com/seyka-ai/yandex-tools-mcp) | Yandex Tools MCP | 1.0.0 | MCP servers for Yandex APIs: Wordstat, Search, Webmaster, Metrika, Direct. Open… |
+| 2026-10-30 02:04:38 | io.github.maggat/store-starter-tools | Store Starter Tools for Shopify | 1.0.0 | Shopify store starter tools: store names, niche ideas, launch checklist and pro… |
+| 2026-10-30 02:05:25 | [io.github.SuperAngryMonkey/mcpie](https://github.com/SuperAngryMonkey/mcpie) |  | 0.2.0 | Standing-order Domino's pizza button: dry-run freely, order on explicit confirm… |
+| 2026-10-30 02:08:40 | app.socialexpert/social-expert | Social Expert | 1.0.10 | TikTok content ideas, trends, posting times, keywords, hashtags and timestamped… |
+| 2026-10-30 02:10:53 | com.getagentdepot/agent-provider-depot | Agent Provider Depot | 0.16.7 | No-key MCP: pick the LLM, sandbox, search, email or DB provider; sourced prices… |
+| 2026-10-30 02:11:57 | [com.kellyiq/kellyiq](https://github.com/kellyiq/kellyiq-examples) | KellyIQ | 1.0.0 | Size an entire sports betting slate as one portfolio, using fractional Kelly an… |
+| 2026-10-30 02:15:04 | com.usgrowzones/grow-zones | US Grow Zones | 1.0.0 | USDA hardiness zone, frost dates and vegetable planting calendar for any U.S. Z… |
+| 2026-10-30 02:19:05 | xyz.comparand/comparand | Comparand | 1.0.0 | Crypto chart past cases: same coin, same exchange shape search with what follow… |
 
 ## Data source
 
