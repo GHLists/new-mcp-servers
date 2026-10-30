@@ -9,34 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 23:19 UTC
+## Latest list — 2026-10-30 00:21 UTC
 
-New MCP servers published between 2026-10-29 22:19 UTC and 2026-10-29 23:19 UTC.
+New MCP servers published between 2026-10-29 23:19 UTC and 2026-10-30 00:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-29T23-19-43-922086Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-30T00-21-27-510233Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-29 22:26:23 | [io.github.dasasian/gdocs-mcp](https://github.com/dasasian/gdocs-mcp) |  | 0.7.0 | Treat a Google Doc like a local file: content editing, tracked-changes review,… |
-| 2026-10-29 22:26:35 | [io.github.course-code-framework/coursecode](https://github.com/course-code-framework/coursecode) | CourseCode Framework | 0.4.3 | Preview, screenshot, lint, and test SCORM, cmi5, and LTI courses built with Cou… |
-| 2026-10-29 22:26:44 | [io.github.Veduis/wcag-compliance-mcp](https://github.com/Veduis/wcag-compliance-mcp) | WCAG 2.2 Compliance | 1.0.0 | WCAG 2.2 audits with corrected markup, verified fix examples, and U.S. ADA dead… |
-| 2026-10-29 22:28:55 | dev.northparkrich/banking | NorthPark Banking API | 2.0.0 | Demo banking MCP server: accounts, transactions and payments. OAuth 2.1 with DP… |
-| 2026-10-29 22:33:32 | dog.bringthe/bringthedog | BringThe.dog | 1.0.0 | Find UK dog-friendly places graded on how welcome dogs really are. Suggest and… |
-| 2026-10-29 22:41:20 | io.github.Mila-Pirate/agent-university-empresas |  | 1.0.0 | Dados de CNPJ com proveniência certificada. Ideal para compliance e due diligen… |
-| 2026-10-29 22:44:34 | food.strega/strega | Strega Recipes | 0.3.0 | Ad-free recipes with amounts in every step: search, scale, plan meals, build sh… |
-| 2026-10-29 22:46:33 | ai.gtmworks/apollo-audit | Apollo.io Audit by GTM Works | 1.0.0 | Free, read-only Apollo.io audit: duplicate accounts, double-enrolled contacts,… |
-| 2026-10-29 22:46:36 | io.github.jessejohnsohn/corium21 | Corium 21 Skin Tools | 1.0.0 | Decode skincare ingredient labels (1% line, % ranges, what each does) and get U… |
-| 2026-10-29 22:48:11 | app.agentguestbook/agent-guestbook |  | 1.0.0 | Open guestbook for AI agents: read messages and leave a human-reviewed message. |
-| 2026-10-29 22:48:29 | app.blogmaker/blogmaker | Blogmaker | 1.0.0 | Write and publish blog content, manage native design and settings, and read ana… |
-| 2026-10-29 23:00:48 | dev.dynjandi/mcp | Dynjandi | 0.1.0 | Manage a Dynjandi image workspace, build variant URLs and read the docs, with a… |
-| 2026-10-29 23:02:29 | co.schoolscope/mcp | SchoolScope | 3.5.0 | California school data for AI agents — scores, profiles, comparisons, feeder pa… |
-| 2026-10-29 23:07:27 | [io.github.kareeem380/sketfly](https://github.com/kareeem380/sketfly) |  | 1.0.0 | Design mobile app screens with AI — describe your app, get linked screens insta… |
-| 2026-10-29 23:07:53 | [io.github.zerohourzulu/irontrellis-gateway](https://github.com/zerohourzulu/irontrellis) |  | 1.0.0-rc.2 | Local MCP gateway: approved tools behind a signed authority check, per call or… |
-| 2026-10-29 23:07:53 | [io.github.zerohourzulu/irontrellis-evidence](https://github.com/zerohourzulu/irontrellis) |  | 1.0.0-rc.2 | Local MCP server that copies selected files into an evidence packet while the a… |
-| 2026-10-29 23:12:47 | io.launchtape/launch-tape | Launch Tape | 1.0.0 | Recorded pump fun (Solana memecoin) graduation data: coins, early trades, walle… |
-| 2026-10-29 23:14:28 | co.submit/submit | Submit.co | 0.1.0 | Where to launch a startup: researched directories, launch platforms, newsletter… |
-| 2026-10-29 23:15:53 | fr.registers/registers | Registers | 1.0.0 | French public registers: companies (SIRENE, BODACC) and real estate (cadastre,… |
-| 2026-10-29 23:17:14 | com.basecamp/mcp | Basecamp | 0.2.26 | Basecamp's official server: projects, to-dos, cards, messages, docs, schedules,… |
+| 2026-10-29 23:23:25 | com.midgardfinance/drugs | Midgard Finance drug data | 0.1.0 | Obesity and incretin drug trials: weight loss by dose with its estimand, advers… |
+| 2026-10-29 23:26:58 | io.github.dmichaels697-png/voicewyze | VoiceWyze — AI Business Directory & Rec… | 1.0.0 | AI business directory and receptionist gateway for business discovery, informat… |
+| 2026-10-29 23:27:11 | [io.github.gchen19/ankusdrive](https://github.com/gchen19/AnkusDrive) | AnkusDrive | 0.5.7 | Drive FreeCAD from an agent: CAD modeling, drawings, FEM, CFD, EM, and multiphy… |
+| 2026-10-29 23:27:54 | es.tupuente/pensiones | El Puente (pensiones y jubilación antic… | 1.0.0 | Spain early-retirement pension calculator: pension, net pension and bridge cost… |
+| 2026-10-29 23:29:11 | [com.autodesk.aps.api/fusion-local-mcp](https://github.com/Autodesk/ai-integrations) | Autodesk Fusion | 1.0.1 | Create, modify, and inspect 3D geometry in Autodesk Fusion. Must locally run Fu… |
+| 2026-10-29 23:34:45 | [io.github.serionist/omniverse-mcp](https://github.com/serionist/omniverse-mcp) | Omniverse MCP | 0.2.2 | Let an AI assistant work in NVIDIA Isaac Sim and other Omniverse Kit apps |
+| 2026-10-29 23:37:00 | [io.github.nymrel/nymrel](https://github.com/nymrel/nymrel-plugin) | Nymrel | 1.4.0 | Four public utilities plus seven OAuth-protected Remote read tools for paired N… |
+| 2026-10-29 23:42:41 | [fyi.levels/levels-fyi](https://github.com/Levels-fyi/levels-fyi-plugin) | Levels.fyi | 1.0.0 | Salary, level and job data from 1M+ pay reports. Benchmark pay, evaluate offers… |
+| 2026-10-29 23:44:01 | [io.github.Graphene-Lab/agentbridge](https://github.com/Graphene-Lab/AgentBridge) | AgentBridge | 26.10.30 | Self-hosted AI agent for office work: run agents, office tools and documents fr… |
+| 2026-10-29 23:45:26 | club.aiprocurement/procurement-agents | AIProcurement Club | 1.0.0 | 27 procurement specialists, fixed workflows and saved reports, routed through A… |
+| 2026-10-29 23:51:16 | com.verbalexperiment/lab-tools | Verbex Lab Tools | 0.2.0 | Deterministic wet-lab calculators and lab document templates, with checked note… |
+| 2026-10-29 23:54:32 | [io.github.plamen-g/toss](https://github.com/plamen-g/toss) | toss | 0.2.0 | Send files to your own devices and friends, peer to peer and end-to-end encrypt… |
+| 2026-10-29 23:56:38 | [io.github.QDThead/signal-lab](https://github.com/QDThead/signal-lab) | Signal Lab: free financial data sources | 1.1.0 | Search and export a catalog of free financial data sources, with source and ter… |
+| 2026-10-29 23:57:33 | [io.github.commentemeapp/vtex-io-mcp](https://github.com/commentemeapp/vtex-io-mcp) | VTEX IO MCP | 0.2.0 | Scaffold VTEX IO apps, Node services and GraphQL, look up Store Framework block… |
+| 2026-10-29 23:57:37 | [io.github.commentemeapp/adobe-commerce-mcp](https://github.com/commentemeapp/adobe-commerce-mcp) | Adobe Commerce MCP | 0.2.0 | Offline Adobe Commerce PHP docs, config files, bin/magento CLI, Web API and mod… |
+| 2026-10-30 00:03:32 | [io.github.DigiCatalyst-Systems/dep-diff-mcp](https://github.com/DigiCatalyst-Systems/dep-diff-mcp) |  | 0.3.3 | Translates a lockfile diff into a human-readable upgrade plan for npm, PyPI, an… |
+| 2026-10-30 00:04:54 | [io.github.lineagersiui-boop/sitemap-url-health-checker](https://github.com/lineagersiui-boop/apify-output-checks) | Sitemap URL Health Checker (via Apify M… | 1.0.0 | Check sitemap URLs for 404s, redirects and noindex. One Apify Actor via Apify's… |
+| 2026-10-30 00:08:18 | [io.github.theluckystrike/us-federal-holidays-business-days-mcp](https://github.com/theluckystrike/us-federal-holidays-business-days-mcp) | US Federal Holidays and Business Days | 1.0.0 | Exact U.S. federal holidays and business days 1971-2100, OPM and Federal Reserv… |
+| 2026-10-30 00:08:49 | [io.github.theluckystrike/dscr-loan-calculator-mcp](https://github.com/theluckystrike/dscr-loan-calculator-mcp) | DSCR Loan Calculator | 1.0.0 | DSCR loan calculator for rental property: DSCR, lender tiers, max loan, rent ne… |
+| 2026-10-30 00:12:43 | now.settleit/settleit | SettleIt | 1.0.0 | Group decisions in one link: polls, who's-in check-ins, find-a-time, and rankin… |
+| 2026-10-30 00:13:31 | [io.github.theluckystrike/no-tax-on-overtime-mcp](https://github.com/theluckystrike/no-tax-on-overtime-mcp) | No Tax on Overtime | 1.0.0 | No tax on overtime, tips and senior deductions for 2025-2028 (OBBBA), with IRS… |
+| 2026-10-30 00:16:37 | [io.github.alejooroncoy/campus-cli](https://github.com/alejooroncoy/campus-cli) |  | 3.1.0 | Campus relay MCP client: authenticated access to courses, assignments, grades a… |
+| 2026-10-30 00:17:26 | [io.github.notinferred/halfnine](https://github.com/notinferred/halfnine) | Halfnine | 0.2.0 | PostgreSQL through Halfnine: describe, read-only queries, and changes you appro… |
 
 ## Data source
 
