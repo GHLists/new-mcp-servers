@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-10-30T00:25:16.006784Z,app.marselia/marselia,Marselia,1.1.0,,streamable-http,"Tarot de Marseille reference: 78 sourced cards, tarot decks, Academy lessons and a random card draw."
+2026-10-30T00:27:21.427491Z,io.github.hosshan/harie,Harie,0.5.0,https://github.com/hosshan/harie,,Annotate screenshots for user guides. Saved as plain JPEG/PNG whose annotations stay editable.
+2026-10-30T00:27:30.286548Z,com.scowty/scowty,Scowty,0.2.0,,streamable-http,"Free website previews, AI-search visibility checks, and plans and prices from Scowty. No sign-in."
+2026-10-30T00:28:21.882569Z,io.github.theluckystrike/minimum-wage-mcp,,1.0.0,https://github.com/theluckystrike/minimum-wage-mcp,streamable-http,"US state minimum wage 2026-2027: rates, tipped wages and scheduled increases for 50 states and DC."
+2026-10-30T00:38:30.14152Z,com.firmared/firmared,FirmaRED · Sellado y verificación,1.0.0,,streamable-http,"Timestamp any SHA-256 hash (post-quantum signed), verify FirmaRED codes, read Argentine front pages."
+2026-10-30T00:41:20.979297Z,ar.com.facturel/facturel,Facturel (solo lectura),1.0.0,,streamable-http,"Comprobantes, clientes, artículos y cuenta corriente de una cuenta de Facturel. Solo lectura."
+2026-10-30T00:48:34.028Z,io.github.useballast/ballast-mcp,Ballast,1.0.2,https://github.com/useballast/ballast-mcp,streamable-http,"Cold email outreach: manage campaigns, lead sequences, mailbox warmup, and unified inbox replies."
+2026-10-30T00:49:25.352192Z,com.yawplet/messages,Yawplet,0.1.0,,streamable-http,"Short messages, posted by agents. Post, browse and search messages; posting is prepaid."
+2026-10-30T00:49:25.693415Z,com.yarnhen/stories,Yarnhen,0.1.0,,streamable-http,"Stories, posted by agents. Post, browse and search stories; posting is prepaid."
+2026-10-30T00:50:38.415848Z,io.github.theluckystrike/gold-price-per-gram-mcp,Gold Price Per Gram MCP,1.0.0,https://github.com/theluckystrike/gold-price-per-gram-mcp,streamable-http,"Live gold price per gram by karat and currency, metal prices, jewelry melt value, unit conversion."
+2026-10-30T00:51:07.44337Z,io.github.theluckystrike/uk-income-tax-salary-mcp,UK Income Tax and Salary,1.0.0,https://github.com/theluckystrike/uk-income-tax-salary-mcp,streamable-http,"UK income tax and take-home pay 2025/26 and 2026/27: Scottish bands, NI, student loans, 60% trap."
+2026-10-30T00:53:31.323756Z,io.github.theluckystrike/cups-to-grams-mcp,Cups to Grams,1.0.0,https://github.com/theluckystrike/cups-to-grams-mcp,streamable-http,"Cups to grams for 271 ingredients with USDA and King Arthur densities, recipe scaling, oven temps."
+2026-10-30T00:56:38.388872Z,com.openclawproductions/x402-tools,Open Claw x402 Tools,1.0.0,,streamable-http,"Paid tools for AI agents via x402 (USDC on Base): text rewrite, writing grade, code lookups."
+2026-10-30T00:59:17.454403Z,io.github.theluckystrike/paycheck-calculator-mcp,Paycheck Calculator,1.0.0,https://github.com/theluckystrike/paycheck-calculator-mcp,streamable-http,"Take-home pay for 2025-2026: IRS brackets, FICA wage base and state income tax for 50 states + DC."
+2026-10-30T01:01:01.632904Z,com.mailbyget/mail,MailByGet,1.0.0,,streamable-http,"Temporary receive-only email inboxes for agents. Create, list and read messages without signup."
+2026-10-30T01:01:20.361028Z,dev.sourcewire/us-business-verify,US Business Verify,0.2.3,,streamable-http,Verify US businesses: TX/NY/CO/CT/OR registry status + OFAC sanctions. PASS/REVIEW/FAIL/INCOMPLETE.
+2026-10-30T01:02:28.181956Z,app.getshouting/get-shouting,Get Shouting,1.0.0,https://github.com/whatnologist/getshouting_app,streamable-http,"Marketing MCP: social, email, SMS, CRM, paid ads, analytics. OAuth; confirm before send/spend."
+2026-10-30T01:03:44.576343Z,com.onehub360/onehub360,OneHub360,1.0.0,,streamable-http,"Create contacts, move deals, send proposals and invoices, read your inbox, from Claude or ChatGPT."
+2026-10-30T01:04:08.22295Z,io.avatrix/avatrix,Avatrix,1.0.0,,streamable-http,"AI influencer creator: same-face photos, UGC videos and voices from Claude or ChatGPT (OAuth)."
+2026-10-30T01:06:09.119493Z,dev.silvertongue/silvertongue,Silvertongue,0.1.0,https://github.com/auscaster/silvertongue,streamable-http,"Famous writing voices for your agent. Find one, read how it was studied, write in it."
+2026-10-30T01:08:17.568204Z,io.github.allooloo/rco-records,RCO Records - Record of Cleared Orders,2.3.0,https://github.com/allooloo/rco-records,streamable-http,"The record of what the agent relied on: a signed, chained receipt per cleared read. Verify by id."
+2026-10-30T01:09:50.468274Z,com.agentery/agentery,Agentery,1.23.0,,streamable-http,"Price benchmarks, alternatives & daily price history across 17,000+ AI agents and MCP servers."
+2026-10-30T01:14:14.952832Z,ai.aisma/aisma,Aisma,1.0.0,,streamable-http,Edit videos you already shot with plain words and reference photos. Framing and audio stay.
+2026-10-30T01:18:01.83097Z,es.reinventa/evaluacion,Reinventa (qué tareas de tu trabajo hará la IA),1.0.0,,streamable-http,"Task-by-task AI exposure assessment of a job (Spain): 0-100 index, task map, weekly plan."
+2026-10-30T01:20:13.928642Z,io.github.pipeworx-io/zenodo,Zenodo,0.2.1,https://github.com/pipeworx-io/mcp-zenodo,streamable-http,Zenodo MCP.
+2026-10-30T01:20:38.401781Z,app.moosetracker/moose-tracker,Moose Tracker,1.2.1,,streamable-http,"Retro synth and tracker for AI assistants: sound effects, UI sounds and songs as WAV or Ogg Vorbis."

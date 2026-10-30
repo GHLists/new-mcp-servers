@@ -9,37 +9,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 00:21 UTC
+## Latest list — 2026-10-30 01:21 UTC
 
-New MCP servers published between 2026-10-29 23:19 UTC and 2026-10-30 00:21 UTC.
+New MCP servers published between 2026-10-30 00:21 UTC and 2026-10-30 01:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-30T00-21-27-510233Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-30T01-21-26-86766Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-29 23:23:25 | com.midgardfinance/drugs | Midgard Finance drug data | 0.1.0 | Obesity and incretin drug trials: weight loss by dose with its estimand, advers… |
-| 2026-10-29 23:26:58 | io.github.dmichaels697-png/voicewyze | VoiceWyze — AI Business Directory & Rec… | 1.0.0 | AI business directory and receptionist gateway for business discovery, informat… |
-| 2026-10-29 23:27:11 | [io.github.gchen19/ankusdrive](https://github.com/gchen19/AnkusDrive) | AnkusDrive | 0.5.7 | Drive FreeCAD from an agent: CAD modeling, drawings, FEM, CFD, EM, and multiphy… |
-| 2026-10-29 23:27:54 | es.tupuente/pensiones | El Puente (pensiones y jubilación antic… | 1.0.0 | Spain early-retirement pension calculator: pension, net pension and bridge cost… |
-| 2026-10-29 23:29:11 | [com.autodesk.aps.api/fusion-local-mcp](https://github.com/Autodesk/ai-integrations) | Autodesk Fusion | 1.0.1 | Create, modify, and inspect 3D geometry in Autodesk Fusion. Must locally run Fu… |
-| 2026-10-29 23:34:45 | [io.github.serionist/omniverse-mcp](https://github.com/serionist/omniverse-mcp) | Omniverse MCP | 0.2.2 | Let an AI assistant work in NVIDIA Isaac Sim and other Omniverse Kit apps |
-| 2026-10-29 23:37:00 | [io.github.nymrel/nymrel](https://github.com/nymrel/nymrel-plugin) | Nymrel | 1.4.0 | Four public utilities plus seven OAuth-protected Remote read tools for paired N… |
-| 2026-10-29 23:42:41 | [fyi.levels/levels-fyi](https://github.com/Levels-fyi/levels-fyi-plugin) | Levels.fyi | 1.0.0 | Salary, level and job data from 1M+ pay reports. Benchmark pay, evaluate offers… |
-| 2026-10-29 23:44:01 | [io.github.Graphene-Lab/agentbridge](https://github.com/Graphene-Lab/AgentBridge) | AgentBridge | 26.10.30 | Self-hosted AI agent for office work: run agents, office tools and documents fr… |
-| 2026-10-29 23:45:26 | club.aiprocurement/procurement-agents | AIProcurement Club | 1.0.0 | 27 procurement specialists, fixed workflows and saved reports, routed through A… |
-| 2026-10-29 23:51:16 | com.verbalexperiment/lab-tools | Verbex Lab Tools | 0.2.0 | Deterministic wet-lab calculators and lab document templates, with checked note… |
-| 2026-10-29 23:54:32 | [io.github.plamen-g/toss](https://github.com/plamen-g/toss) | toss | 0.2.0 | Send files to your own devices and friends, peer to peer and end-to-end encrypt… |
-| 2026-10-29 23:56:38 | [io.github.QDThead/signal-lab](https://github.com/QDThead/signal-lab) | Signal Lab: free financial data sources | 1.1.0 | Search and export a catalog of free financial data sources, with source and ter… |
-| 2026-10-29 23:57:33 | [io.github.commentemeapp/vtex-io-mcp](https://github.com/commentemeapp/vtex-io-mcp) | VTEX IO MCP | 0.2.0 | Scaffold VTEX IO apps, Node services and GraphQL, look up Store Framework block… |
-| 2026-10-29 23:57:37 | [io.github.commentemeapp/adobe-commerce-mcp](https://github.com/commentemeapp/adobe-commerce-mcp) | Adobe Commerce MCP | 0.2.0 | Offline Adobe Commerce PHP docs, config files, bin/magento CLI, Web API and mod… |
-| 2026-10-30 00:03:32 | [io.github.DigiCatalyst-Systems/dep-diff-mcp](https://github.com/DigiCatalyst-Systems/dep-diff-mcp) |  | 0.3.3 | Translates a lockfile diff into a human-readable upgrade plan for npm, PyPI, an… |
-| 2026-10-30 00:04:54 | [io.github.lineagersiui-boop/sitemap-url-health-checker](https://github.com/lineagersiui-boop/apify-output-checks) | Sitemap URL Health Checker (via Apify M… | 1.0.0 | Check sitemap URLs for 404s, redirects and noindex. One Apify Actor via Apify's… |
-| 2026-10-30 00:08:18 | [io.github.theluckystrike/us-federal-holidays-business-days-mcp](https://github.com/theluckystrike/us-federal-holidays-business-days-mcp) | US Federal Holidays and Business Days | 1.0.0 | Exact U.S. federal holidays and business days 1971-2100, OPM and Federal Reserv… |
-| 2026-10-30 00:08:49 | [io.github.theluckystrike/dscr-loan-calculator-mcp](https://github.com/theluckystrike/dscr-loan-calculator-mcp) | DSCR Loan Calculator | 1.0.0 | DSCR loan calculator for rental property: DSCR, lender tiers, max loan, rent ne… |
-| 2026-10-30 00:12:43 | now.settleit/settleit | SettleIt | 1.0.0 | Group decisions in one link: polls, who's-in check-ins, find-a-time, and rankin… |
-| 2026-10-30 00:13:31 | [io.github.theluckystrike/no-tax-on-overtime-mcp](https://github.com/theluckystrike/no-tax-on-overtime-mcp) | No Tax on Overtime | 1.0.0 | No tax on overtime, tips and senior deductions for 2025-2028 (OBBBA), with IRS… |
-| 2026-10-30 00:16:37 | [io.github.alejooroncoy/campus-cli](https://github.com/alejooroncoy/campus-cli) |  | 3.1.0 | Campus relay MCP client: authenticated access to courses, assignments, grades a… |
-| 2026-10-30 00:17:26 | [io.github.notinferred/halfnine](https://github.com/notinferred/halfnine) | Halfnine | 0.2.0 | PostgreSQL through Halfnine: describe, read-only queries, and changes you appro… |
+| 2026-10-30 00:25:16 | app.marselia/marselia | Marselia | 1.1.0 | Tarot de Marseille reference: 78 sourced cards, tarot decks, Academy lessons an… |
+| 2026-10-30 00:27:21 | [io.github.hosshan/harie](https://github.com/hosshan/harie) | Harie | 0.5.0 | Annotate screenshots for user guides. Saved as plain JPEG/PNG whose annotations… |
+| 2026-10-30 00:27:30 | com.scowty/scowty | Scowty | 0.2.0 | Free website previews, AI-search visibility checks, and plans and prices from S… |
+| 2026-10-30 00:28:21 | [io.github.theluckystrike/minimum-wage-mcp](https://github.com/theluckystrike/minimum-wage-mcp) |  | 1.0.0 | US state minimum wage 2026-2027: rates, tipped wages and scheduled increases fo… |
+| 2026-10-30 00:38:30 | com.firmared/firmared | FirmaRED · Sellado y verificación | 1.0.0 | Timestamp any SHA-256 hash (post-quantum signed), verify FirmaRED codes, read A… |
+| 2026-10-30 00:41:20 | ar.com.facturel/facturel | Facturel (solo lectura) | 1.0.0 | Comprobantes, clientes, artículos y cuenta corriente de una cuenta de Facturel.… |
+| 2026-10-30 00:48:34 | [io.github.useballast/ballast-mcp](https://github.com/useballast/ballast-mcp) | Ballast | 1.0.2 | Cold email outreach: manage campaigns, lead sequences, mailbox warmup, and unif… |
+| 2026-10-30 00:49:25 | com.yawplet/messages | Yawplet | 0.1.0 | Short messages, posted by agents. Post, browse and search messages; posting is… |
+| 2026-10-30 00:49:25 | com.yarnhen/stories | Yarnhen | 0.1.0 | Stories, posted by agents. Post, browse and search stories; posting is prepaid. |
+| 2026-10-30 00:50:38 | [io.github.theluckystrike/gold-price-per-gram-mcp](https://github.com/theluckystrike/gold-price-per-gram-mcp) | Gold Price Per Gram MCP | 1.0.0 | Live gold price per gram by karat and currency, metal prices, jewelry melt valu… |
+| 2026-10-30 00:51:07 | [io.github.theluckystrike/uk-income-tax-salary-mcp](https://github.com/theluckystrike/uk-income-tax-salary-mcp) | UK Income Tax and Salary | 1.0.0 | UK income tax and take-home pay 2025/26 and 2026/27: Scottish bands, NI, studen… |
+| 2026-10-30 00:53:31 | [io.github.theluckystrike/cups-to-grams-mcp](https://github.com/theluckystrike/cups-to-grams-mcp) | Cups to Grams | 1.0.0 | Cups to grams for 271 ingredients with USDA and King Arthur densities, recipe s… |
+| 2026-10-30 00:56:38 | com.openclawproductions/x402-tools | Open Claw x402 Tools | 1.0.0 | Paid tools for AI agents via x402 (USDC on Base): text rewrite, writing grade,… |
+| 2026-10-30 00:59:17 | [io.github.theluckystrike/paycheck-calculator-mcp](https://github.com/theluckystrike/paycheck-calculator-mcp) | Paycheck Calculator | 1.0.0 | Take-home pay for 2025-2026: IRS brackets, FICA wage base and state income tax… |
+| 2026-10-30 01:01:01 | com.mailbyget/mail | MailByGet | 1.0.0 | Temporary receive-only email inboxes for agents. Create, list and read messages… |
+| 2026-10-30 01:01:20 | dev.sourcewire/us-business-verify | US Business Verify | 0.2.3 | Verify US businesses: TX/NY/CO/CT/OR registry status + OFAC sanctions. PASS/REV… |
+| 2026-10-30 01:02:28 | [app.getshouting/get-shouting](https://github.com/whatnologist/getshouting_app) | Get Shouting | 1.0.0 | Marketing MCP: social, email, SMS, CRM, paid ads, analytics. OAuth; confirm bef… |
+| 2026-10-30 01:03:44 | com.onehub360/onehub360 | OneHub360 | 1.0.0 | Create contacts, move deals, send proposals and invoices, read your inbox, from… |
+| 2026-10-30 01:04:08 | io.avatrix/avatrix | Avatrix | 1.0.0 | AI influencer creator: same-face photos, UGC videos and voices from Claude or C… |
+| 2026-10-30 01:06:09 | [dev.silvertongue/silvertongue](https://github.com/auscaster/silvertongue) | Silvertongue | 0.1.0 | Famous writing voices for your agent. Find one, read how it was studied, write… |
+| 2026-10-30 01:08:17 | [io.github.allooloo/rco-records](https://github.com/allooloo/rco-records) | RCO Records - Record of Cleared Orders | 2.3.0 | The record of what the agent relied on: a signed, chained receipt per cleared r… |
+| 2026-10-30 01:09:50 | com.agentery/agentery | Agentery | 1.23.0 | Price benchmarks, alternatives & daily price history across 17,000+ AI agents a… |
+| 2026-10-30 01:14:14 | ai.aisma/aisma | Aisma | 1.0.0 | Edit videos you already shot with plain words and reference photos. Framing and… |
+| 2026-10-30 01:18:01 | es.reinventa/evaluacion | Reinventa (qué tareas de tu trabajo har… | 1.0.0 | Task-by-task AI exposure assessment of a job (Spain): 0-100 index, task map, we… |
+| 2026-10-30 01:20:13 | [io.github.pipeworx-io/zenodo](https://github.com/pipeworx-io/mcp-zenodo) | Zenodo | 0.2.1 | Zenodo MCP. |
+| 2026-10-30 01:20:38 | app.moosetracker/moose-tracker | Moose Tracker | 1.2.1 | Retro synth and tracker for AI assistants: sound effects, UI sounds and songs a… |
 
 ## Data source
 
