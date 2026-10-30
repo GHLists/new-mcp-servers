@@ -1,0 +1,12 @@
+created_at,server,title,version,repository,transports,description
+2026-10-30T05:21:30.027224Z,io.github.aleksskoz/kubedrive,KubeDrive,0.6.1,https://github.com/aleksskoz/kubedrive,,"Your Kubernetes clusters for AI agents through the KubeDrive desktop app, without a kubeconfig."
+2026-10-30T05:28:20.754284Z,io.github.alex3000-ai/tari-explorer,,1.0.0,https://github.com/alex3000-ai/ootlebook,,"Read the Tari base layer (Minotari): chain tip, blocks and miners' coinbase data. Read-only."
+2026-10-30T05:49:56.876855Z,ai.alvinsclub.studio/channel,Alvin's Club Channel,1.3.0,,streamable-http,"Connect social accounts, publish approved posts and videos, and check posting status."
+2026-10-30T05:54:50.630749Z,io.github.HarshithNayakaL/portfolio-docs,Harshith Nayaka L portfolio docs,1.1.0,https://github.com/HarshithNayakaL/My-Portfolio,streamable-http,"Read-only MCP server over the developer docs for the portfolio's JSON API, MCP, A2A and NLWeb."
+2026-10-30T05:54:51.049716Z,io.github.HarshithNayakaL/portfolio,Harshith Nayaka L portfolio,1.1.0,https://github.com/HarshithNayakaL/My-Portfolio,streamable-http,"Read-only MCP access to Harshith Nayaka L's portfolio: profile, case studies, FAQ and guides."
+2026-10-30T05:58:15.900689Z,com.cobblehop/cobblehop,Cobblehop - Massachusetts transit,1.0.0,,streamable-http,"Transit trip plans and live departures for Massachusetts: MBTA, regional buses, Amtrak, ferries."
+2026-10-30T06:02:16.221017Z,com.kipper/kipper,Kipper,1.0.0,,streamable-http,"Read-only by architecture: ask AI about QuickBooks, Xero and NetSuite, across every entity."
+2026-10-30T06:07:24.678462Z,io.github.alex3000-ai/ootlebook-explorer,,1.0.0,https://github.com/alex3000-ai/ootlebook,,"Read the Tari base layer (Minotari): chain tip, blocks and miners' coinbase data. Read-only."
+2026-10-30T06:07:28.417256Z,ai.alvinsclub.studio/brandpilot,Alvin's Club BrandPilot,1.0.0,,streamable-http,"Plan and run your brand's content across X, LinkedIn, TikTok, YouTube, Instagram and Hashnode."
+2026-10-30T06:07:28.617561Z,ai.alvinsclub.studio/studio,Alvin's Club Studio,1.0.3,,streamable-http,Turn a product link into short product videos and fashion lookbooks for online sellers.
+2026-10-30T06:14:54.542288Z,io.github.whz14/openathlete,OpenAthlete,0.1.0,https://github.com/whz14/openathlete,,"Unified Garmin and COROS training data, analysis, memory, and workout scheduling for AI agents"

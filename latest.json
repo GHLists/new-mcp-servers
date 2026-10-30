@@ -53,6 +53,9 @@
     "ai.alcock/arena",
     "ai.alphabazaar/arena",
     "ai.alphaquantlabs/propertycheck",
+    "ai.alvinsclub.studio/brandpilot",
+    "ai.alvinsclub.studio/channel",
+    "ai.alvinsclub.studio/studio",
     "ai.alwen/alwen",
     "ai.amdahl/amdahl",
     "ai.analyticslegends/sap-analytics",
@@ -3202,6 +3205,7 @@
     "com.cnrcode/tillpad",
     "com.cnregwatch/china-data",
     "com.cnslookup/web3-dns",
+    "com.cobblehop/cobblehop",
     "com.coco-pier/fx-context",
     "com.cocoeatsai/launch-lab-xrp",
     "com.codedebut/mcp",
@@ -4711,6 +4715,7 @@
     "com.kinjay/mcp",
     "com.kinro/kinro",
     "com.kintoolkit/label-reference",
+    "com.kipper/kipper",
     "com.kirha/search",
     "com.kissfroggy/kissfroggy",
     "com.kitchengradeapp/kitchengrade",
@@ -10496,6 +10501,8 @@
     "io.github.Har50/ngtchain",
     "io.github.Harflow-Dev/harflow-mcp",
     "io.github.HarimxChoi/google-surf-mcp",
+    "io.github.HarshithNayakaL/portfolio",
+    "io.github.HarshithNayakaL/portfolio-docs",
     "io.github.Harusame64/desktop-touch-mcp",
     "io.github.Hashlock-Tech/hashlock",
     "io.github.HassanJ866/relay",
@@ -12530,6 +12537,7 @@
     "io.github.aleksUIX/pixellint",
     "io.github.aleksUIX/rtblint",
     "io.github.aleksUIX/vastlint",
+    "io.github.aleksskoz/kubedrive",
     "io.github.alesdev88/archicad-mcp",
     "io.github.alevizio/globestudio",
     "io.github.alex-brecher/shopify-multi-store",
@@ -12537,6 +12545,8 @@
     "io.github.alex-odoo/myfinance-mcp",
     "io.github.alex-zwingli/plan-to-eat",
     "io.github.alex0xhodler/defi-garden",
+    "io.github.alex3000-ai/ootlebook-explorer",
+    "io.github.alex3000-ai/tari-explorer",
     "io.github.alexanderkrauck/mailindex-mcp",
     "io.github.alexar76/aimarket-hub",
     "io.github.alexar76/aimarket-mcp",
@@ -21523,6 +21533,7 @@
     "io.github.whoyoujoshin/aether-wallet",
     "io.github.why-see/agent-tools-mcp",
     "io.github.whyy9527/ariadne",
+    "io.github.whz14/openathlete",
     "io.github.wicahma/silverbullet-mcp",
     "io.github.wilbek-source/timetable-builder",
     "io.github.wildsurfer/your-mail-mcp",
@@ -24634,11 +24645,11 @@
     "za.co.wrdo/wrdo"
   ],
   "list": {
-    "count": 20,
-    "from": "2026-10-30T04:19:14.596925Z",
-    "path": "data/new-mcp-servers-2026-10-30T05-19-34-309085Z.csv",
-    "to": "2026-10-30T05:19:34.309085Z"
+    "count": 11,
+    "from": "2026-10-30T05:19:34.309085Z",
+    "path": "data/new-mcp-servers-2026-10-30T06-20-40-373302Z.csv",
+    "to": "2026-10-30T06:20:40.373302Z"
   },
   "source_truncated": false,
-  "window": "2026-10-30T05:19:34.309085Z"
+  "window": "2026-10-30T06:20:40.373302Z"
 }
