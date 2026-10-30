@@ -9,44 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 21:21 UTC
+## Latest list — 2026-10-30 22:20 UTC
 
-New MCP servers published between 2026-10-30 20:21 UTC and 2026-10-30 21:21 UTC.
+New MCP servers published between 2026-10-30 21:21 UTC and 2026-10-30 22:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-30T21-21-41-347504Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-30T22-20-15-16002Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-30 20:22:15 | io.github.pandadad0214/panda-research-mcp | Panda Research MCP | 1.0.0 | Check citations, catch fake/retracted papers, search OpenAlex & PubMed, format… |
-| 2026-10-30 20:27:02 | de.gastro-cockpit/mcp | Gastro Cockpit | 1.0.0 | Plan shifts, cover sick days and check payroll for your restaurant, straight fr… |
-| 2026-10-30 20:27:12 | io.github.kriton-dev/website-to-markdown | Website to Markdown — Bounded Crawls fo… | 1.0.2 | Crawl sites to Markdown with sitemaps, globs and depth limits, obeying robots a… |
-| 2026-10-30 20:27:25 | golf.morris/morris | Morris Golf | 1.0.0 | Your golf coach in your AI: handicap, rounds, reports and swing analysis from y… |
-| 2026-10-30 20:29:40 | io.github.ert1981/mintscope | MintScope — NFT collection analysis | 0.7.0 | NFT collection risk and quality analysis plus new-collection discovery (OpenSea… |
-| 2026-10-30 20:30:13 | [io.usefulapi/pin-payments](https://github.com/m190/usefulapi-mcp) | Pin Payments MCP by usefulapi | 1.0.2 | Read Pin Payments charges, refunds, balances, transfers and subscriptions witho… |
-| 2026-10-30 20:32:57 | [io.github.CloudCorpRecords/muse-marketplace](https://github.com/CloudCorpRecords/muse-marketplace) | Muse Marketplace | 0.1.0 | Open marketplace and registry for shareable Muse assets: avatars, personas, voi… |
-| 2026-10-30 20:37:24 | app.awwab/qibla | Awwab Qibla | 1.0.0 | Find the Qibla direction from anywhere, with a live compass link. Free, no key.… |
-| 2026-10-30 20:38:29 | [io.github.s3eidat/s3eidat-tools-mcp](https://github.com/s3eidat/s3eidat-tools-mcp) | S3eidat Tools | 0.1.0 | Free, private PDF, image, text, developer, calculator and QR tools. Runs locall… |
-| 2026-10-30 20:43:43 | com.clarity4d/clarity4d | Clarity4D Personality Assessments | 1.0.0 | Colour-based psychometric personality assessments for self-awareness, communica… |
-| 2026-10-30 20:45:45 | [io.github.proxusiiotplatform/proxus-mcp](https://github.com/proxusiiotplatform/proxus-mcp) | Proxus Industrial MCP Server | 0.1.0-beta.5 | Read-only Modbus TCP and OPC UA access to PLCs and industrial devices, with con… |
-| 2026-10-30 20:46:12 | com.koskamo/koskamo | Koskamo | 1.1.0 | Find official, weekly-probed MCP servers for any task; retrieve cited, versione… |
-| 2026-10-30 20:47:38 | [io.github.Kate941-su/diskclean-mcp-server](https://github.com/Kate941-su/diskcleaner-mcp) | Disk Clean | 0.1.0 | Find dev caches, large unused videos and old logs, then move approved items to… |
-| 2026-10-30 20:48:49 | [com.organiqgeo/organiq](https://github.com/organiqgeo/organiq-plugin) | Organiq | 0.3.0 | Read-only Search Console and GA4 analysis: queries, decay, cannibalization, qui… |
-| 2026-10-30 20:49:47 | pro.ukfitness/personal-trainers | UK Fitness Pro | 1.0.0 | Find UK personal trainers by location, speciality, gender and price, and read t… |
-| 2026-10-30 20:51:47 | kz.tutors/tutors | Tutors.kz | 1.0.0 | Find tutors in Kazakhstan on tutors.kz and send a lesson request. Russian and K… |
-| 2026-10-30 20:52:31 | [io.github.CloudCorpRecords/privatesearch](https://github.com/CloudCorpRecords/privatesearch) |  | 0.1.0 | Web search through DuckDuckGo and readable page fetching, no API key needed. |
-| 2026-10-30 20:52:57 | ai.rewst/mcp | Rewst | 1.0.0 | Official Rewst MCP server: build, run, and debug Rewst workflows, forms, apps,… |
-| 2026-10-30 20:54:14 | com.bastionhelix/fab-quote | BHX Fab Quote | 1.0.0 | Measure and price laser, plasma, waterjet and CNC jobs from DXF, G-code and STL… |
-| 2026-10-30 20:59:58 | net.agentcontinuity/memory | AgentContinuity | 0.1.0 | Private memory, scratchpads, context export/restore and task handoff for AI age… |
-| 2026-10-30 21:04:29 | fi.arche/arche | Arche | 8.1.0 | SEC EDGAR filings, XBRL facts and normalized financial statements, point-in-tim… |
-| 2026-10-30 21:04:31 | [com.starlecta/influencer-tools](https://github.com/Starlecta/starlecta-examples) | Starlecta influencer tools | 1.0.0 | Instagram influencer lookup, compare, search and AI search for Turkey; weekly T… |
-| 2026-10-30 21:05:24 | com.fooguard/library | Foo Guard Library | 1.0.0 | Search and read free, scanned AI agent skills and configs. Read-only, no accoun… |
-| 2026-10-30 21:05:33 | io.github.motioneed/motioneed | Motioneed | 1.0.0 | Turn a product URL or one sentence into a launch video (MP4) with your real bra… |
-| 2026-10-30 21:06:03 | [io.github.CloudCorpRecords/encyport](https://github.com/CloudCorpRecords/encyport) |  | 0.1.0 | Search Wikipedia and read articles, summaries, sections, links, and coordinates. |
-| 2026-10-30 21:06:58 | [ai.duami/intent-exchange](https://github.com/mjbf5g7y8m-byte/matrix) | Duami | 0.2.0 | Directory of AI agents that are live right now: find, message, bid. Free. |
-| 2026-10-30 21:14:30 | [io.usefulapi/tillhub](https://github.com/m190/usefulapi-mcp) | Tillhub MCP by usefulapi | 1.0.2 | Read Tillhub products, stock, transactions, customers and retail reports from y… |
-| 2026-10-30 21:14:57 | ai.softskillsacademy/destrava | DESTRAVA — AI Mindset Framework | 1.0.0 | Official DESTRAVA framework: eight AI maturity levels and published aggregate i… |
-| 2026-10-30 21:17:30 | [io.github.CloudCorpRecords/technews-port](https://github.com/CloudCorpRecords/technews-port) |  | 0.1.0 | Hacker News top, new, and best stories, items, users, and full-text search. |
-| 2026-10-30 21:20:57 | [io.github.tyronplaatjies74-wq/garden-route-specialist-api](https://github.com/tyronplaatjies74-wq/garden-route-specialist-api) | Garden Route Specialist | 1.0.2 | Garden Route travel MCP - routes, accommodation, and local guides |
+| 2026-10-30 21:21:58 | [io.github.TheStreamCode/discord-management-mcp](https://github.com/TheStreamCode/discord-management-mcp) |  | 0.2.0 | Safe-by-default Discord management MCP with JSON backups, restore planning, and… |
+| 2026-10-30 21:22:53 | io.github.SergoVashakmadze/iomarkets-tech | IoMarkets.tech ISO 20022 Test Bench | 1.0.0 | Check ISO 20022 messages (pacs.008, pain.001, camt.053, seev.031) against schem… |
+| 2026-10-30 21:23:32 | co.peptidesacademy/peptides-academy | Peptides Academy | 1.0.0 | Evidence-first peptide research: summaries and comparisons from cited dossiers,… |
+| 2026-10-30 21:27:05 | [io.github.CloudCorpRecords/cacheport](https://github.com/CloudCorpRecords/cacheport) |  | 0.1.0 | Key-value cache over Redis: set, get, delete and list keys. |
+| 2026-10-30 21:29:36 | [chat.airys/mcp](https://github.com/AirysChat/mcp) | AirysChat MCP Server | 1.0.0 | Operate AirysChat — conversations, CRM, AI Agents, Meta Business Agent, and Wha… |
+| 2026-10-30 21:30:21 | [io.github.man0l/slashloop](https://github.com/man0l/slashloop) | Slashloop MCP | 1.0.0 | Track TikTok niches, score outliers, extract hooks, draft remakes via MCP. |
+| 2026-10-30 21:31:30 | [io.github.melihbirim/pipetable](https://github.com/melihbirim/pipetable) | Pipetable | 0.7.2 | Local data runtime for AI agents: query CSV, Excel, Parquet and JSON files with… |
+| 2026-10-30 21:33:13 | net.steamgpt/steamgpt | SteamGPT | 1.3.0 | Steam profiles, SteamID conversion, bans, FACEIT stats, friends and comparisons… |
+| 2026-10-30 21:35:49 | [io.usefulapi/jackrabbit-class](https://github.com/m190/usefulapi-mcp) | Jackrabbit Class MCP by usefulapi | 1.0.1 | Read Jackrabbit Class beta data, create students and add class waitlist entries. |
+| 2026-10-30 21:37:10 | [com.scrollhound/scrollhound](https://github.com/DoddleSoft/scrollhound-mcp) | Scrollhound | 1.0.0 | Read Reddit, X, YouTube, TikTok, Instagram, LinkedIn and Hacker News in full, w… |
+| 2026-10-30 21:42:02 | com.escortfox/escortfox | EscortFox | 1.0.0 | Read-only search of the EscortFox escort directory: cities, services and listin… |
+| 2026-10-30 21:43:59 | [com.microsoft/nuget](https://github.com/NuGet/Home) | Microsoft NuGet | 1.4.23 | A Model Context Protocol (MCP) server for NuGet. |
+| 2026-10-30 21:44:16 | ai.socialsight/mcp | SocialSight | 0.1.0 | Generate and upscale AI images, videos and audio. |
+| 2026-10-30 21:44:41 | [dev.tlly/tlly](https://github.com/FifthsegmentEng/tlly-mcp) | tlly | 1.0.0 | Hosted dashboards and scheduled data jobs for AI agents, with thresholds, alert… |
+| 2026-10-30 21:46:05 | [io.github.Terminal49/terminal49](https://github.com/Terminal49/API) | Terminal49 | 1.1.0 | Live ocean container and shipment tracking with ETAs, holds, fees, and last fre… |
+| 2026-10-30 21:53:47 | [io.github.CloudCorpRecords/embedbase](https://github.com/CloudCorpRecords/embedbase) |  | 0.1.0 | Vector collections and document search backed by a Chroma HTTP service. |
+| 2026-10-30 21:56:14 | [io.github.CloudCorpRecords/paperport](https://github.com/CloudCorpRecords/paperport) |  | 0.1.0 | Search and read arXiv papers, with local paper storage. |
+| 2026-10-30 21:59:32 | com.shikshannivesh/sn-data | SN Data by Shikshan Nivesh | 1.0.0 | US company financial statements, insider trades, 13F funds and short interest,… |
+| 2026-10-30 22:00:06 | [io.usefulapi/bsale](https://github.com/m190/usefulapi-mcp) | Bsale MCP by usefulapi | 1.0.1 | Read Bsale products, documents and stock; manage customers, prices, receipts an… |
+| 2026-10-30 22:00:07 | [io.usefulapi/glue-up](https://github.com/m190/usefulapi-mcp) | Glue Up MCP by usefulapi | 1.0.1 | Read Glue Up events, memberships, contacts, organizations and finance records. |
+| 2026-10-30 22:00:07 | [io.usefulapi/extensiv](https://github.com/m190/usefulapi-mcp) | Extensiv MCP by usefulapi | 1.0.1 | Read Extensiv warehouse records, create outbound orders and cancel eligible ord… |
+| 2026-10-30 22:09:23 | [com.harashsuq/marketplace](https://github.com/harashsuq-ui/HARASHSUQ) | Harashsuq | 2.0.0 | Marketplace for AI assets: prompt packs, agent workflows, personas, datasets, p… |
+| 2026-10-30 22:11:25 | [io.usefulapi/zenfulfillment](https://github.com/m190/usefulapi-mcp) | Zenfulfillment MCP by usefulapi | 1.0.1 | Read Zenfulfillment orders and stock; import or cancel orders and mark returns… |
+| 2026-10-30 22:11:25 | [io.usefulapi/taleez](https://github.com/m190/usefulapi-mcp) | Taleez MCP by usefulapi | 1.0.1 | Read Taleez recruiting data; create or update candidates and add them to pools… |
+| 2026-10-30 22:11:26 | [io.usefulapi/desk365](https://github.com/m190/usefulapi-mcp) | Desk365 MCP by usefulapi | 1.0.1 | Read Desk365 tickets, conversations, contacts, companies, time entries and know… |
+| 2026-10-30 22:11:39 | [io.github.CloudCorpRecords/vectorsearch](https://github.com/CloudCorpRecords/vectorsearch) |  | 0.1.0 | Store and retrieve text in a Qdrant vector database by similarity search. |
+| 2026-10-30 22:14:12 | [io.usefulapi/remotelock](https://github.com/m190/usefulapi-mcp) | RemoteLock MCP by usefulapi | 1.0.1 | Read RemoteLock devices and guests; manage door access and physically lock or u… |
 
 ## Data source
 

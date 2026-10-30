@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-30T21:21:58.262731Z,io.github.TheStreamCode/discord-management-mcp,,0.2.0,https://github.com/TheStreamCode/discord-management-mcp,,"Safe-by-default Discord management MCP with JSON backups, restore planning, and guarded mutations."
+2026-10-30T21:22:53.165821Z,io.github.SergoVashakmadze/iomarkets-tech,IoMarkets.tech ISO 20022 Test Bench,1.0.0,,streamable-http,"Check ISO 20022 messages (pacs.008, pain.001, camt.053, seev.031) against schema and rules."
+2026-10-30T21:23:32.21899Z,co.peptidesacademy/peptides-academy,Peptides Academy,1.0.0,,streamable-http,"Evidence-first peptide research: summaries and comparisons from cited dossiers, linked to courses."
+2026-10-30T21:27:05.37846Z,io.github.CloudCorpRecords/cacheport,,0.1.0,https://github.com/CloudCorpRecords/cacheport,,"Key-value cache over Redis: set, get, delete and list keys."
+2026-10-30T21:29:36.664146Z,chat.airys/mcp,AirysChat MCP Server,1.0.0,https://github.com/AirysChat/mcp,streamable-http,"Operate AirysChat — conversations, CRM, AI Agents, Meta Business Agent, and WhatsApp campaigns."
+2026-10-30T21:30:21.03453Z,io.github.man0l/slashloop,Slashloop MCP,1.0.0,https://github.com/man0l/slashloop,streamable-http,"Track TikTok niches, score outliers, extract hooks, draft remakes via MCP."
+2026-10-30T21:31:30.112774Z,io.github.melihbirim/pipetable,Pipetable,0.7.2,https://github.com/melihbirim/pipetable,,"Local data runtime for AI agents: query CSV, Excel, Parquet and JSON files with DuckDB SQL."
+2026-10-30T21:33:13.833109Z,net.steamgpt/steamgpt,SteamGPT,1.3.0,,streamable-http,"Steam profiles, SteamID conversion, bans, FACEIT stats, friends and comparisons. Free, no API key."
+2026-10-30T21:35:49.798632Z,io.usefulapi/jackrabbit-class,Jackrabbit Class MCP by usefulapi,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Jackrabbit Class beta data, create students and add class waitlist entries."
+2026-10-30T21:37:10.397204Z,com.scrollhound/scrollhound,Scrollhound,1.0.0,https://github.com/DoddleSoft/scrollhound-mcp,streamable-http,"Read Reddit, X, YouTube, TikTok, Instagram, LinkedIn and Hacker News in full, with sources."
+2026-10-30T21:42:02.457114Z,com.escortfox/escortfox,EscortFox,1.0.0,,streamable-http,"Read-only search of the EscortFox escort directory: cities, services and listing summaries."
+2026-10-30T21:43:59.430041Z,com.microsoft/nuget,Microsoft NuGet,1.4.23,https://github.com/NuGet/Home,,A Model Context Protocol (MCP) server for NuGet.
+2026-10-30T21:44:16.042941Z,ai.socialsight/mcp,SocialSight,0.1.0,,streamable-http,"Generate and upscale AI images, videos and audio."
+2026-10-30T21:44:41.899191Z,dev.tlly/tlly,tlly,1.0.0,https://github.com/FifthsegmentEng/tlly-mcp,streamable-http,"Hosted dashboards and scheduled data jobs for AI agents, with thresholds, alerts and share links."
+2026-10-30T21:46:05.443203Z,io.github.Terminal49/terminal49,Terminal49,1.1.0,https://github.com/Terminal49/API,streamable-http,"Live ocean container and shipment tracking with ETAs, holds, fees, and last free days."
+2026-10-30T21:53:47.416056Z,io.github.CloudCorpRecords/embedbase,,0.1.0,https://github.com/CloudCorpRecords/embedbase,,Vector collections and document search backed by a Chroma HTTP service.
+2026-10-30T21:56:14.131743Z,io.github.CloudCorpRecords/paperport,,0.1.0,https://github.com/CloudCorpRecords/paperport,,"Search and read arXiv papers, with local paper storage."
+2026-10-30T21:59:32.598239Z,com.shikshannivesh/sn-data,SN Data by Shikshan Nivesh,1.0.0,,streamable-http,"US company financial statements, insider trades, 13F funds and short interest, each with its filing"
+2026-10-30T22:00:06.558525Z,io.usefulapi/bsale,Bsale MCP by usefulapi,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Bsale products, documents and stock; manage customers, prices, receipts and payments."
+2026-10-30T22:00:07.174447Z,io.usefulapi/glue-up,Glue Up MCP by usefulapi,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Glue Up events, memberships, contacts, organizations and finance records."
+2026-10-30T22:00:07.788741Z,io.usefulapi/extensiv,Extensiv MCP by usefulapi,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Extensiv warehouse records, create outbound orders and cancel eligible orders."
+2026-10-30T22:09:23.805924Z,com.harashsuq/marketplace,Harashsuq,2.0.0,https://github.com/harashsuq-ui/HARASHSUQ,streamable-http,"Marketplace for AI assets: prompt packs, agent workflows, personas, datasets, playbooks."
+2026-10-30T22:11:25.161579Z,io.usefulapi/zenfulfillment,Zenfulfillment MCP by usefulapi,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,Read Zenfulfillment orders and stock; import or cancel orders and mark returns done.
+2026-10-30T22:11:25.801382Z,io.usefulapi/taleez,Taleez MCP by usefulapi,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,Read Taleez recruiting data; create or update candidates and add them to pools or jobs.
+2026-10-30T22:11:26.427612Z,io.usefulapi/desk365,Desk365 MCP by usefulapi,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Desk365 tickets, conversations, contacts, companies, time entries and knowledge articles."
+2026-10-30T22:11:39.134932Z,io.github.CloudCorpRecords/vectorsearch,,0.1.0,https://github.com/CloudCorpRecords/vectorsearch,,Store and retrieve text in a Qdrant vector database by similarity search.
+2026-10-30T22:14:12.348797Z,io.usefulapi/remotelock,RemoteLock MCP by usefulapi,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,Read RemoteLock devices and guests; manage door access and physically lock or unlock doors.
