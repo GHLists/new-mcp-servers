@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-10-30T15:23:45.105322Z,io.github.CloudCorpRecords/installaudit,,0.1.0,https://github.com/CloudCorpRecords/installaudit,,Install-script inventory for a dependency tree: what runs when you install.
+2026-10-30T15:27:24.407912Z,gg.pixly/mcp,Pixly,0.1.0,https://github.com/Wroud/pixly-plugins,streamable-http,"Host and manage Minecraft servers, mods, worlds and backups on Pixly."
+2026-10-30T15:29:29.75632Z,io.github.savanvyas/asksoma-astrology,Asksoma : Astrology Horoscope numerology,1.0.0,https://github.com/askSoma/asksoma-ai-companion,streamable-http,"Vedic astrology, Panchang, charts and compatibility for AI assistants. 10 free lifetime calls."
+2026-10-30T15:31:28.984084Z,app.lingard/vocab,Lingard Vocab,0.5.8,,streamable-http,"Build and enrich your Lingard vocabulary: topic collections, flashcards, translations, examples."
+2026-10-30T15:36:48.499848Z,dev.isopleth/isopleth,Isopleth,1.0.0,,streamable-http,"Flood, wildfire, soils, terrain, power grid, utilities and parcels for any US location, sourced."
+2026-10-30T15:36:58.781353Z,io.github.nedim1511/unclaimed-sol,,2.0.0,https://github.com/unclaimed-sol/unclaimed-sol-mcp,,The first Vibe Claiming MCP: AI agents scan and reclaim dormant SOL on Solana. Signs locally.
+2026-10-30T15:38:43.032995Z,za.co.t-horizon.agentverify/agentverify,AgentVerify,1.0.0,,streamable-http,"Trust checks for agent-to-agent deals. Identity, co-signed receipts, paid trust scores, and badges."
+2026-10-30T15:38:50.149231Z,io.github.AnshumanAtrey/deel-jobs-search,Deel Jobs Scraper & API - All Deel ATS Career Pages with Pay,1.0.1,https://github.com/AnshumanAtrey/deel-jobs-search,streamable-http,Deel Jobs Scraper - Every Deel ATS Career Page
+2026-10-30T15:42:43.488207Z,com.angelcam/mcp,Angelcam (read-only),1.0.0,,streamable-http,"Read-only access to your Angelcam security cameras: live snapshots, recordings and camera health."
+2026-10-30T15:43:59.563533Z,org.echoempire/web-tools,,1.0.0,,streamable-http,"Web extraction MCP: page content, metadata, articles, contacts, email checks, URL probes."
+2026-10-30T15:45:31.263143Z,com.blackhullsystems/listening-post,Blackhull agent-economy intelligence,1.0.0,,streamable-http,"What AI agents want and pay for: new MCP servers, fast-moving agent repos, x402 service findings."
+2026-10-30T15:51:31.298152Z,io.github.devx-agent/address-poisoning-check,Address Poisoning Check,1.0.0,https://github.com/devx-agent/address-poisoning-check,streamable-http,"Before sending crypto, check the recipient for address poisoning: lookalikes and bad checksums"
+2026-10-30T15:51:35.357458Z,io.github.Ryan-Carloso/post-engineer,,1.32.0,https://github.com/Ryan-Carloso/post-engineer,,"Create AI video personas and schedule videos to YouTube, Instagram, LinkedIn and Bluesky."
+2026-10-30T16:02:26.614331Z,com.littlemapper/little-mapper,Little Mapper,3.2.0,https://github.com/revenant-research/little-mapper-plugin,streamable-http,Shared memory for company work across the AI assistants people already use. Free to use.
+2026-10-30T16:05:03.213029Z,app.queryatlas/queryatlas,QueryAtlas,0.1.0,,streamable-http,"Query selected Google and Bing analytics, search, and advertising reports through MCP."
+2026-10-30T16:05:38.660232Z,ai.artil/artil,"Artil — Email, SMS & Messaging for AI Agents",1.0.0,,streamable-http,"Give AI agents own email inbox, SMS numbers, and workspace accounts to receive and send messages."
+2026-10-30T16:06:51.218169Z,com.mandateoffice/mandate,Mandate Office,0.2.0,,streamable-http,"EU legal toolbox for AI agents: EU and national law links, company registry data. Free, no API key."
+2026-10-30T16:08:54.928149Z,io.github.liquidgrails/lqd-verdict,,0.1.0,https://github.com/liquidgrails/lqd-verdict-tool,streamable-http,"An independent yes-or-no style verdict, with a short reason, on a men's clothing item or outfit."
+2026-10-30T16:09:03.596895Z,com.ngrok/mcp,ngrok,0.1.0,,streamable-http,"Manage ngrok from your agent: endpoints, domains, and traffic policy."
+2026-10-30T16:09:12.730825Z,app.lovable.local-schema-beacon/localschema,LocalSchema,1.0.0,,streamable-http,"Generate and validate LocalBusiness JSON-LD for local SEO. Free tools, no key needed."
+2026-10-30T16:09:15.951562Z,app.lovable.privacy-pill-consent-studio/privacypill,PrivacyPill,1.0.0,,streamable-http,"GDPR cookie banners with Consent Mode v2, plus a free scan of what loads before consent."
+2026-10-30T16:09:19.715298Z,app.lovable.release-ripple-roadmap/logpulse,LogPulse,1.0.0,,streamable-http,"Changelogs for coding agents: versions, breaking changes, migrations. Free changelog-to-JSON."
+2026-10-30T16:12:44.912679Z,co.byondr/receipt-maker,Receipt Maker,0.1.0,,streamable-http,"Make a receipt from a template and download it as PDF, PNG or JPEG."
+2026-10-30T16:18:42.229374Z,io.github.Templetry/templetry-mcp,Templetry,1.11.1,https://github.com/Templetry/engine,,"Scaffold, plan, update and extend projects from Templetry templates."
+2026-10-30T16:21:10.533379Z,io.github.nithin554/code-crawler,Code Crawler,0.1.48,https://github.com/nithin554/code-crawler,,Static and dynamic call tracing MCP server backed by a SQLite property graph of your codebase
+2026-10-30T16:21:30.991613Z,com.ctinjurycases/ct-injury-cases,CT Injury Cases,1.20260909.20261030,,streamable-http,"Connecticut personal injury litigation data: car accident cases, Hartford Judicial District."
+2026-10-30T16:22:18.661891Z,io.usefulapi/arthur-online,Arthur Online MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read Arthur properties, units and tenancies; track maintenance and add tasks or notes."
