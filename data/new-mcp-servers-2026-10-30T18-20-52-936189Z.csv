@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-10-30T17:24:32.245801Z,com.aeolookup/free-aeo-tools,AEO Lookup,1.0.0,,streamable-http,"Free AI crawler, schema, llms.txt and answer-readiness checks for public web pages. No API key."
+2026-10-30T17:28:03.621923Z,pl.analizafirm/krs,AnalizaFirm.pl - Polish companies (KRS),1.3.0,,streamable-http,"Polish companies from KRS: financial statements, A-E credit rating, insolvency, VAT, owners"
+2026-10-30T17:29:44.068017Z,com.tuncdoc/doc,Tunc Doc,1.0.0,,streamable-http,"Documents for your agents: create, read, edit and export Markdown docs on your Tunc account."
+2026-10-30T17:33:07.03664Z,app.getarchboard/archboard,Archboard,1.61.0,https://github.com/getarchboard/archboard-plugin,streamable-http,"Create, read and edit architecture, flow and ER diagrams on a live canvas shared with your team."
+2026-10-30T17:35:26.582621Z,com.aditumdata/mcp,Aditum,0.1.0,,,"Read industrial data sources, pipelines, data-health incidents and datasets in Aditum."
+2026-10-30T17:36:20.439718Z,io.usefulapi/pretix,pretix MCP by usefulapi,1.1.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read pretix events, tickets and orders; check attendees in or out with your own account."
+2026-10-30T17:37:13.045116Z,app.lovable.answer-engine-ready/llmready,LLMready,1.0.0,,streamable-http,Audit websites for AI search readiness and generate or validate llms.txt. Free quick check.
+2026-10-30T17:38:59.063999Z,com.simplifyd/cloud,Simplifyd Cloud,0.0.44,https://github.com/simplifyd-systems/cloud-mcp,streamable-http,"Deploy and manage services, databases, domains and DNS on Simplifyd Cloud."
+2026-10-30T17:39:56.167Z,com.lokuli/lokuli,Lokuli: book local pros and get prices,1.1.0,,streamable-http,"Book local businesses in Southern California and San Jose, or get prices from nearby pros."
+2026-10-30T17:46:40.393673Z,io.github.CloudCorpRecords/linkrot,,0.1.0,https://github.com/CloudCorpRecords/linkrot,,"Docs link checker separating dead, moved, and bot-blocked links from healthy ones."
+2026-10-30T17:52:46.023635Z,com.wondaverse/agent-readiness,Agent-readiness check,1.0.0,,streamable-http,"Checks a website for AI agents: robots.txt, llms.txt, MCP, A2A. Ranked fixes, text to paste."
+2026-10-30T17:58:15.215773Z,com.orabrain/prax-data-services,Prax Data Services,1.0.0,,streamable-http,"Screen EVM wallets, contracts and transactions against sanctions, exploit, phishing and scam intel."
+2026-10-30T17:59:04.478762Z,za.co.aiagenttools/payroll,SA Payroll & Labour Rules,1.0.0,,streamable-http,"SA payroll and labour rules: minimum wage, BCEA overtime, UIF, SDL, public holidays, leave"
+2026-10-30T17:59:15.330351Z,za.co.aiagenttools/buildcost,SA Build & Renovation Costs,1.0.0,,streamable-http,"South African building and renovation cost estimates in rand, by region and finish quality"
+2026-10-30T17:59:25.942235Z,za.co.aiagenttools/property,SA Property Costs,1.0.0,,streamable-http,"South African property costs: transfer duty, buying costs, bond repayments, municipal rates"
+2026-10-30T17:59:27.456933Z,za.co.aiagenttools/winelands,Cape Winelands Visit Planner,1.0.0,,streamable-http,Cape Winelands wine farm finder and day-route planner
+2026-10-30T18:04:38.392552Z,ai.ghostedit/ghostedit,Ghostedit,1.0.0,,streamable-http,"Post to Instagram, TikTok, YouTube and more from your AI, checked first, then see what worked."
+2026-10-30T18:14:15.604167Z,io.github.CloudCorpRecords/lockdrift,,0.1.0,https://github.com/CloudCorpRecords/lockdrift,,Lockfile versus package.json drift auditor for a repo or monorepo.
+2026-10-30T18:15:21.232689Z,io.github.BlackCat-cyber-creator/x402-agent-hub,x402 Agent Hub,1.0.0,https://github.com/BlackCat-cyber-creator/x402-agent-hub-mcp,streamable-http,"CFD/FX ECN spreads, ICT killzones, prop risk, lead enrichment, SEO & SVG cards via x402 Base USDC."
+2026-10-30T18:16:07.946132Z,io.github.asheeran/website-intelligence,,1.0.1,https://github.com/asheeran/sitesy-website-intelligence,,"Pay per call website intelligence: site reports, page reading, DNS, sitemaps and link maps."
+2026-10-30T18:20:28.393405Z,com.goalieip/trademark,Goalie IP Trademark Search (USPTO + Canada),1.2.0,https://github.com/goalie-mcp/trademark-mcp,streamable-http,"Search and screen US and Canadian federal trademarks; records, deadlines, ID Manual."

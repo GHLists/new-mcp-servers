@@ -9,49 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 17:21 UTC
+## Latest list — 2026-10-30 18:20 UTC
 
-New MCP servers published between 2026-10-30 16:22 UTC and 2026-10-30 17:21 UTC.
+New MCP servers published between 2026-10-30 17:21 UTC and 2026-10-30 18:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-30T17-21-59-302249Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-30T18-20-52-936189Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-30 16:24:42 | [io.github.crosstech-solutions-bv/swing-mcp](https://github.com/crosstech-solutions-bv/swing-mcp) | Swing MCP | 1.4.0 | Let AI drive Swing and JavaFX apps — see the UI, click, fill forms, read tables… |
-| 2026-10-30 16:27:15 | [io.github.YXCerk/ecompick](https://github.com/YXCerk/ecompick-mcp) | EcomPick | 0.1.0 | Find and compare ecommerce tools by task, platform and pricing, with sources an… |
-| 2026-10-30 16:29:16 | com.holidayready/travel-insurance-quotes | Holiday Ready Travel Insurance Quotes | 0.1.0 | Retrieve Holiday Ready travel insurance quotes. |
-| 2026-10-30 16:33:14 | io.github.soyeladice-svg/bursia-tools | Burs-IA Tools | 0.2.1 | Free read-only tools for agents: agent-readiness audit, TLS/DNS/header checks,… |
-| 2026-10-30 16:35:18 | is.amplify/amplify | Amplify | 1.0.0 | Build, edit and preview browser games and web apps in your Amplify account from… |
-| 2026-10-30 16:37:28 | com.relinta/mcp | Relinta | 1.0.0 | LinkedIn prospecting, daily post signals, outreach campaigns and inbox manageme… |
-| 2026-10-30 16:39:09 | eu.icos-cp/icos | ICOS carbon and greenhouse-gas observat… | 0.2.0 | ICOS atmosphere, ocean and ecosystem greenhouse-gas observations, with citation… |
-| 2026-10-30 16:39:34 | [io.github.attnstack/codegraph](https://github.com/attnstack/codegraph) |  | 1.0.0 | Call graph of a TS/JS repo: who-calls, impact with evidence chains, trace, hots… |
-| 2026-10-30 16:42:12 | trading.alphaprime/alphaprime | AlphaPrime | 1.0.0 | Generate and backtest futures trading strategies from Claude with AlphaPrime (V… |
-| 2026-10-30 16:44:52 | [io.github.nareyko/lexaudit](https://github.com/nareyko/lexaudit) |  | 0.3.1 | Locale vocabulary audit (calques, inventeds, foreign slips). Local CLI via stdi… |
-| 2026-10-30 16:45:13 | [io.github.brentspore/buildutilities-mcp](https://github.com/brentspore/buildutilities-mcp) |  | 0.1.3 | Deterministic dev utilities: UUIDs, hashes, encoding, JWT, cron, regex. No netw… |
-| 2026-10-30 16:48:25 | app.werify/werify | Werify | 1.0.0 | Your WhatsApp history in Claude and ChatGPT: search years of chats, voice notes… |
-| 2026-10-30 16:48:27 | [io.github.blokweggroep/autofinancier-mcp](https://github.com/blokweggroep/autofinancier-mcp) | DeAutofinancier Vehicle Search | 1.0.0 | Search ~97,000 used vehicles in the Netherlands with consumer finance and lease… |
-| 2026-10-30 16:48:59 | [io.github.CloudCorpRecords/envdoctor](https://github.com/CloudCorpRecords/envdoctor) |  | 0.1.0 | Local environment doctor: runtime, tools, env files, and services, pass or fail. |
-| 2026-10-30 16:49:27 | com.actionbattery/product-catalog | Action Battery Wholesalers product cata… | 0.2.0 | Find stationary batteries by chemistry, voltage or application; datasheets, SDS… |
-| 2026-10-30 16:49:36 | com.baebatteriesusa/product-catalog | BAE Batteries USA product catalogue | 0.2.0 | Find stationary batteries by chemistry, voltage or application; datasheets, SDS… |
-| 2026-10-30 16:49:36 | com.oxboxenergy/product-catalog | Oxbox Energy product catalogue | 0.2.0 | The Oxbox 48 V battery energy storage system: specifications, certifications an… |
-| 2026-10-30 16:50:08 | express.native.www/nativeexpress | NativeExpress | 1.0.0 | Scope a mobile app to a first version, start from a free Expo template, and pas… |
-| 2026-10-30 16:50:42 | io.github.Santurce-Software-LLC/birds-of-puerto-rico | Birds of Puerto Rico | 1.1.0 | Search Puerto Rico bird guide records, browse bird groups, and retrieve species… |
-| 2026-10-30 16:50:55 | com.reportingninja/reporting-ninja |  | 1.6.0 | Query marketing data across 20+ ad platforms; with write access, create, schedu… |
-| 2026-10-30 16:53:02 | [io.github.spree/ecommerce-b2b-marketplace](https://github.com/spree/spree) | Spree Commerce: open-source B2B and mar… | 6.0.1 | Open-source B2B and marketplace ecommerce; new stores include an MCP server for… |
-| 2026-10-30 16:53:03 | [io.github.spree/ecommerce-docs](https://github.com/spree/spree) | Spree Commerce developer docs for AI ag… | 1.0.0 | Spree Commerce docs for AI coding agents: build headless B2B and marketplace ec… |
-| 2026-10-30 16:53:35 | [io.github.RyanV1304/krewbill-mcp](https://github.com/RyanV1304/krewbill-mcp) | Krewbill | 0.1.0 | Per-client shared AI memory: approved notes that Claude, ChatGPT and Cursor rea… |
-| 2026-10-30 16:54:44 | io.webcapture/webcapture | webcapture | 1.0.0 | Hosted MCP server: render any URL to print-stable PDF, PNG, WebP or Markdown |
-| 2026-10-30 17:01:04 | [io.github.benjamin-di/dine-mcp](https://github.com/benjamin-di/dine-mcp-server) | Dine MCP | 0.2.3 | Restaurant table availability across SevenRooms, TableCheck and ResDiary. Read-… |
-| 2026-10-30 17:03:02 | [com.ledgercrossing/quickbooks-desktop](https://github.com/LedgerCrossing/quickbooks-desktop-mcp) | LedgerCrossing for QuickBooks Desktop | 1.15.1 | QuickBooks Desktop MCP server: all 240 qbXML operations for Claude, ChatGPT, Cu… |
-| 2026-10-30 17:04:47 | [ai.yuanwu/aisub](https://github.com/wujieshengzhang/aisub-mcp) | AISub | 1.0.0 | ChatGPT, Claude, Gemini, Perplexity and Grok subscription prices by country, wi… |
-| 2026-10-30 17:06:26 | io.github.Santurce-Software-LLC/san-juan-puerto-rico-directory | San Juan Puerto Rico Directory | 1.3.0 | Discover Puerto Rico places and events, with canonical links and clearly disclo… |
-| 2026-10-30 17:08:20 | io.github.Inspoai/inspoai | InspoAI | 3.2.0 | Design and edit UI screens, find website inspiration, and create animated shade… |
-| 2026-10-30 17:08:33 | io.github.ygfalcon/falcon-shield | Falcon Shield | 1.0.0 | Pre-sign Solana tx guard for agents: ALLOW/WARN/BLOCK verdict, x402 USDC pay-pe… |
-| 2026-10-30 17:10:13 | [io.github.bimwright/dwg-mcp](https://github.com/bimwright/dwg-mcp) | Bimwright DWG | 2.1.1 | MCP gateway for AutoCAD 2022-2027: DWG text, layers, entities, views and automa… |
-| 2026-10-30 17:14:37 | com.vicatoo/hotels | VICATOO | 1.0.0 | Hotel search in Arabic or English with live rates and real room videos. Book on… |
-| 2026-10-30 17:16:36 | [io.github.AnonymousOnyx22/job-tracker-student-mcp](https://github.com/AnonymousOnyx22/job-tracker-student-mcp) |  | 0.1.0 | Job application tracker MCP server. Track jobs, interviews and deadlines offlin… |
-| 2026-10-30 17:18:56 | [io.github.matthewdtowles/iwantmymtg-mcp](https://github.com/matthewdtowles/iwantmymtg-mcp) |  | 0.7.5 | Query Magic: The Gathering cards, sets, and prices and manage your I Want My MT… |
-| 2026-10-30 17:20:06 | com.oppira/oppira | Oppira | 1.0.0 | Read-only access to your Oppira competitor posts, ads, reviews, alerts and mark… |
+| 2026-10-30 17:24:32 | com.aeolookup/free-aeo-tools | AEO Lookup | 1.0.0 | Free AI crawler, schema, llms.txt and answer-readiness checks for public web pa… |
+| 2026-10-30 17:28:03 | pl.analizafirm/krs | AnalizaFirm.pl - Polish companies (KRS) | 1.3.0 | Polish companies from KRS: financial statements, A-E credit rating, insolvency,… |
+| 2026-10-30 17:29:44 | com.tuncdoc/doc | Tunc Doc | 1.0.0 | Documents for your agents: create, read, edit and export Markdown docs on your… |
+| 2026-10-30 17:33:07 | [app.getarchboard/archboard](https://github.com/getarchboard/archboard-plugin) | Archboard | 1.61.0 | Create, read and edit architecture, flow and ER diagrams on a live canvas share… |
+| 2026-10-30 17:35:26 | com.aditumdata/mcp | Aditum | 0.1.0 | Read industrial data sources, pipelines, data-health incidents and datasets in… |
+| 2026-10-30 17:36:20 | [io.usefulapi/pretix](https://github.com/m190/usefulapi-mcp) | pretix MCP by usefulapi | 1.1.0 | Read pretix events, tickets and orders; check attendees in or out with your own… |
+| 2026-10-30 17:37:13 | app.lovable.answer-engine-ready/llmready | LLMready | 1.0.0 | Audit websites for AI search readiness and generate or validate llms.txt. Free… |
+| 2026-10-30 17:38:59 | [com.simplifyd/cloud](https://github.com/simplifyd-systems/cloud-mcp) | Simplifyd Cloud | 0.0.44 | Deploy and manage services, databases, domains and DNS on Simplifyd Cloud. |
+| 2026-10-30 17:39:56 | com.lokuli/lokuli | Lokuli: book local pros and get prices | 1.1.0 | Book local businesses in Southern California and San Jose, or get prices from n… |
+| 2026-10-30 17:46:40 | [io.github.CloudCorpRecords/linkrot](https://github.com/CloudCorpRecords/linkrot) |  | 0.1.0 | Docs link checker separating dead, moved, and bot-blocked links from healthy on… |
+| 2026-10-30 17:52:46 | com.wondaverse/agent-readiness | Agent-readiness check | 1.0.0 | Checks a website for AI agents: robots.txt, llms.txt, MCP, A2A. Ranked fixes, t… |
+| 2026-10-30 17:58:15 | com.orabrain/prax-data-services | Prax Data Services | 1.0.0 | Screen EVM wallets, contracts and transactions against sanctions, exploit, phis… |
+| 2026-10-30 17:59:04 | za.co.aiagenttools/payroll | SA Payroll & Labour Rules | 1.0.0 | SA payroll and labour rules: minimum wage, BCEA overtime, UIF, SDL, public holi… |
+| 2026-10-30 17:59:15 | za.co.aiagenttools/buildcost | SA Build & Renovation Costs | 1.0.0 | South African building and renovation cost estimates in rand, by region and fin… |
+| 2026-10-30 17:59:25 | za.co.aiagenttools/property | SA Property Costs | 1.0.0 | South African property costs: transfer duty, buying costs, bond repayments, mun… |
+| 2026-10-30 17:59:27 | za.co.aiagenttools/winelands | Cape Winelands Visit Planner | 1.0.0 | Cape Winelands wine farm finder and day-route planner |
+| 2026-10-30 18:04:38 | ai.ghostedit/ghostedit | Ghostedit | 1.0.0 | Post to Instagram, TikTok, YouTube and more from your AI, checked first, then s… |
+| 2026-10-30 18:14:15 | [io.github.CloudCorpRecords/lockdrift](https://github.com/CloudCorpRecords/lockdrift) |  | 0.1.0 | Lockfile versus package.json drift auditor for a repo or monorepo. |
+| 2026-10-30 18:15:21 | [io.github.BlackCat-cyber-creator/x402-agent-hub](https://github.com/BlackCat-cyber-creator/x402-agent-hub-mcp) | x402 Agent Hub | 1.0.0 | CFD/FX ECN spreads, ICT killzones, prop risk, lead enrichment, SEO & SVG cards… |
+| 2026-10-30 18:16:07 | [io.github.asheeran/website-intelligence](https://github.com/asheeran/sitesy-website-intelligence) |  | 1.0.1 | Pay per call website intelligence: site reports, page reading, DNS, sitemaps an… |
+| 2026-10-30 18:20:28 | [com.goalieip/trademark](https://github.com/goalie-mcp/trademark-mcp) | Goalie IP Trademark Search (USPTO + Can… | 1.2.0 | Search and screen US and Canadian federal trademarks; records, deadlines, ID Ma… |
 
 ## Data source
 
