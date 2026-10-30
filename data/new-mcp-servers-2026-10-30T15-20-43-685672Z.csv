@@ -1,0 +1,43 @@
+created_at,server,title,version,repository,transports,description
+2026-10-30T14:29:36.081752Z,com.mambabuilt/mcp-reddit-search-thread-scraper,,1.0.0,https://github.com/mambalabsdev/mcp-reddit-search-thread-scraper,,"Reddit posts and comments by keyword, subreddit, or thread URL, no Reddit login or API key"
+2026-10-30T14:29:59.648843Z,app.mymeo/studio,Meo Studio,1.1.0,,streamable-http,"AI video ads, dubbing in the speaker's own voice, and images and clips from top models."
+2026-10-30T14:31:04.931698Z,world.actions/actions-world,actions.world,0.1.0,,streamable-http,Run video actions on your actions.world datasets and track the runs.
+2026-10-30T14:34:26.934532Z,io.usefulapi/sos-inventory,SOS Inventory MCP by usefulapi,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Read SOS Inventory stock and orders; create customers, items and purchase or sales orders."
+2026-10-30T14:36:15.660635Z,io.github.Guru-ragul/kabo-nutrition,KABO Indian Nutrition Index,1.0.0,https://github.com/Guru-ragul/KABO-Indian-Nutrition-Index---MCP-server,streamable-http,"ICMR-NIN nutrition for 52 Indian foods: protein, targets by age, cost ranking. Every answer cited."
+2026-10-30T14:37:22.47905Z,co.developh/studio,Developh,1.0.0,,streamable-http,"Lisbon design and development studio: case studies, website audits and project inquiries."
+2026-10-30T14:39:54.05841Z,kz.tehprof.dialogs/dialogs,TehProf Dialogs,1.0.0,,streamable-http,"WhatsApp, Telegram and calls of your operators: unanswered chats, replies with confirmation. OAuth."
+2026-10-30T14:41:02.707912Z,com.mambabuilt/mcp-linkedin-jobs-feed,,1.0.0,https://github.com/mambalabsdev/mcp-linkedin-jobs-feed,,LinkedIn job search results with the employer website domain on every row. No login.
+2026-10-30T14:41:06.948121Z,com.mambabuilt/mcp-app-store-google-play-review-monitor,,1.0.0,https://github.com/mambalabsdev/mcp-app-store-google-play-review-monitor,,"App Store and Google Play reviews by country, newest first, only new ones."
+2026-10-30T14:41:10.93264Z,com.mambabuilt/mcp-shopify-app-store-chrome-web-store-listings,,1.0.0,https://github.com/mambalabsdev/mcp-shopify-app-store-chrome-web-store-listings,,Shopify apps and Chrome extensions with their developer website and domain.
+2026-10-30T14:41:15.163068Z,com.mambabuilt/mcp-product-hunt-launches-feed,,1.0.0,https://github.com/mambalabsdev/mcp-product-hunt-launches-feed,,"Daily Product Hunt launches with makers, website, company domain, votes, and topics"
+2026-10-30T14:41:18.521646Z,ai.nourva/mind,Nourva Mind,1.0.0,https://github.com/Nourva/nourva-mind-plugin,streamable-http,"Your private memory across AI apps: recall your context and continue saved work, only when you ask."
+2026-10-30T14:43:15.499898Z,io.github.CloudCorpRecords/vaultnotes,,0.1.0,https://github.com/CloudCorpRecords/vaultnotes,,"List, read, search, and edit markdown notes in a local vault directory."
+2026-10-30T14:44:43.548493Z,app.openkrill/agent-market,Agent Market,0.2.0,,streamable-http,"A market where agents search, list and negotiate second-hand items and digital goods for people."
+2026-10-30T14:47:40.556243Z,ai.decyph/decyph,DeCyph,1.0.0,,streamable-http,"Real estate deal underwriting, rent rolls, T12s and portfolio data for your DeCyph team."
+2026-10-30T14:50:49.924469Z,com.usepiku/piku,Piku,1.0.0,https://github.com/JABClari/piku-plugin,streamable-http,Find creators and read their Rate Cards. Creators draft quotes and invoices on their Piku account.
+2026-10-30T14:51:00.428237Z,com.getuptimely/uptimely,Uptimely,1.0.1,,streamable-http,"Uptime monitoring: monitors, incidents, alerts, maintenance, on-call, status pages and telemetry."
+2026-10-30T14:51:15.737081Z,io.dodomain/mcp,DoDomain,1.0.1,,streamable-http,"Connect custom domains via AI agents: DNS pre-flight checks, hand-off connect sessions and checks."
+2026-10-30T14:51:30.738066Z,io.notifly/notifly,Notifly,1.0.1,,streamable-http,"Notification workflows, subscribers, topics and delivery activity; trigger a workflow with consent."
+2026-10-30T14:51:34.485231Z,com.usepostify/postify,Postify,1.0.1,,streamable-http,"Schedule, publish, and analyze social posts across 11 platforms from any MCP client."
+2026-10-30T14:51:38.065979Z,now.sendly/sendly,Sendly,1.0.1,,streamable-http,"Send email, manage contacts, campaigns and workflows, and diagnose deliverability in Sendly."
+2026-10-30T14:51:43.0151Z,com.aishorty/shorty,Shorty,1.0.1,,streamable-http,"Summarize and transcribe videos, audio, documents and web pages; subtitles; search your library."
+2026-10-30T14:51:50.902771Z,io.superbooks/superbooks,SuperBooks,1.0.1,,streamable-http,"Financial OS for small businesses: transactions, invoices, customers, time tracking and reports."
+2026-10-30T14:51:55.379975Z,net.unotes/unotes,uNotes,1.0.1,,streamable-http,"Search university course materials, your flashcards, quizzes, streak and quota. All tools read-only."
+2026-10-30T14:52:09.205098Z,now.voicelabs/voicelabs,VoiceLabs,1.0.1,,streamable-http,AI voice generation: text-to-speech and voice cloning from any MCP client.
+2026-10-30T14:52:52.046805Z,io.github.verifyanyemail/verifyanyemail-mcp,VerifyAnyEmail,1.2.3,https://github.com/verifyanyemail/verifyanyemail-mcp,streamable-http,"Real-time email verification and deliverability diagnostics (MX, SPF, DKIM, DMARC)."
+2026-10-30T14:55:57.170148Z,com.getbioflow/bioflow,BioFlow,1.0.1,,streamable-http,"Manage BioFlow link-in-bio pages, blocks, leads, and analytics from AI agents."
+2026-10-30T14:56:27.394691Z,ru.datanewton/mcp,Датаньютон,0.9.0,,streamable-http,"Данные о 32 млн компаний и ИП России: финансы, суды, банкротство, связи, риски, скоринг"
+2026-10-30T14:56:34.38297Z,io.github.elidot007/designaround,DesignAround,0.1.3.post1,https://github.com/elidot007/designaround-cli,,"Design-patent screening, design-around and drawings for US, CN and EU products."
+2026-10-30T14:56:55.729582Z,io.customerly/mcp,Customerly,1.0.0,https://github.com/Customerly/mcp,streamable-http,"Manage Customerly contacts, conversations, companies, segments and knowledge base"
+2026-10-30T14:59:19.051671Z,com.levelscustomapparel/catalogue,Levels Custom Apparel,1.0.0,,streamable-http,Search and price UK custom embroidered and printed clothing. Orders finish on the site.
+2026-10-30T15:02:13.08304Z,io.github.moonlitnayeem/fairvalid,FairValid,1.0.0,https://github.com/moonlitnayeem/fairvalid-ai,streamable-http,"Verify emails, track verification jobs, read results, and check FairValid workspace credits."
+2026-10-30T15:02:34.607636Z,es.vektro/vektro,Vektro,0.2.0,,streamable-http,"Specialist workflows for marketing, web, content and automation. Paid account; OAuth required."
+2026-10-30T15:02:41.912063Z,com.usaduos/duos,Dúos,1.0.0,,streamable-http,Two AI perspectives and a cross-review. OAuth required; new consultations use your Dúos quota.
+2026-10-30T15:03:26.323773Z,ai.nolavi/connect,Nolavi Connect,1.1.0,,streamable-http,"Your Google, Meta, Microsoft, TikTok and LinkedIn ads in your AI. Changes wait for your OK."
+2026-10-30T15:05:51.924103Z,ai.dedox/dedox,Dedox,1.0.0,,streamable-http,Gives AI assistants read access to your Dedox help centre and knowledge base articles.
+2026-10-30T15:09:30.010654Z,io.github.Nyria-LLC/nyria,Nyria,1.0.0,https://github.com/Nyria-LLC/nyria-mcp,streamable-http,"Send trade alerts from Claude, Cursor or any MCP client to Nyria Paper or your broker."
+2026-10-30T15:11:24.862431Z,io.github.AffirmDigital/teleprompter-studio,Teleprompter Studio,1.1.0,,streamable-http,"Write, polish and time teleprompter scripts with your AI. Every change waits for your review."
+2026-10-30T15:14:52.334183Z,com.proz/remoto,Remoto interpreting (ProZ.com),1.1.0,,streamable-http,"Find interpreters, quote per-minute prices and get start links on Remoto by ProZ."
+2026-10-30T15:16:36.568593Z,com.goodmorningmaldives/newsroom,Good Morning Maldives,1.0.0,,streamable-http,"Read-only Maldives news, researched entity records, source documents and economy data."
+2026-10-30T15:19:03.738795Z,io.github.wi9ine/toss-invest,Toss Invest,0.3.0,https://github.com/wi9ine/toss-invest-sdk,,"Access Toss Securities market, account, and opt-in trading APIs through MCP."
+2026-10-30T15:20:08.862669Z,io.github.hahaone/football-data,SPdex足球资料MCP,1.0.2,,streamable-http,"Football fixtures, historical scores, team/venue profiles, archived squads and availability reports."
