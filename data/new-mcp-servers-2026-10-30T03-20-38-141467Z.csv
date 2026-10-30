@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-10-30T02:23:36.349591Z,com.clawdmkt/marketplace,ClawdMarket,1.1.0,,streamable-http,"Agent marketplace: discover agent services, post tasks, and fund escrowed trades (USDC, MPP, x402)."
+2026-10-30T02:24:14.372504Z,io.github.seukwoo/nudg,nudg,1.5.0,https://github.com/seukwoo/nudg,,"Write, check and compare UI interactions (springs, gestures, states) for web, iOS and Android."
+2026-10-30T02:24:24.943931Z,io.github.sumitrmardy/youtube-scraper,YouTube Scraper,1.0.0,,streamable-http,"Public YouTube search, channel videos, Shorts and optional video metadata. No API key."
+2026-10-30T02:34:48.76914Z,com.agentsiteaudit/agentsiteaudit,AgentSiteAudit,1.2.0,,streamable-http,"Website audits for AI agents: 69 checks with exact fixes, plus verify. 5 free a day, then x402."
+2026-10-30T02:41:50.319092Z,io.github.TrueScrape/truescrape,TrueScrape,0.4.1,https://github.com/TrueScrape/truescrape,streamable-http,"Public social media data: Instagram, TikTok, YouTube, X, Reddit, LinkedIn and 30+ more platforms."
+2026-10-30T02:47:00.541982Z,com.paidrouter/paidrouter,PaidRouter,0.1.0,,streamable-http,"Cheapest way to get paid: every route ranked by fee, from providers' own pricing pages, dated."
+2026-10-30T02:54:00.865768Z,de.seoai/seoai,SEOAI,1.0.0,,streamable-http,"Read-only access to your SEOAI AI-visibility gaps: why ChatGPT, Gemini & Co. don't cite you."
+2026-10-30T02:58:50.04239Z,com.plushcap/plushcap,Plushcap,2.0.0,,streamable-http,"Research developer trends and competitor content across blogs, X, YouTube, and Hacker News."
+2026-10-30T03:02:20.220406Z,dev.uberllm/mcp,UberLLM,1.0.0,https://github.com/PSA-Team-source/uberllm,streamable-http,"Make images and videos, price requests, list AI models and read your balance, from one API key."
+2026-10-30T03:04:46.541165Z,dev.paidfor/paidfor,paidfor,0.4.0,https://github.com/sarmadahsan/paidfor-index,streamable-http,"Check an x402 seller before paying: verdict, failure rate and evidence from paid calls on Base."
+2026-10-30T03:05:47.791946Z,xyz.paystage/preflight,PayStage Preflight,0.1.0,https://github.com/base-buzz/paystage,,Evaluate x402 PaymentRequired against a local spending policy before an agent pays
+2026-10-30T03:05:49.546005Z,io.github.doteyeso-ops/mcp-server-vibes-coded,Vibes-Coded Agent Tools,1.30.0,https://github.com/doteyeso-ops/vibescoded,streamable-http,"Web search, page-to-markdown, memory, leases and proof for agents. x402, no signup."
+2026-10-30T03:07:22.670942Z,om.amjtech/tools,AMJ Tools,1.0.0,,streamable-http,"Pay-per-call tools for AI agents: product photos, documents, web pages, data. USDC via x402."
+2026-10-30T03:08:41.947572Z,com.agentscanplay/disremembered,Disremembered,0.1.0,https://github.com/moondial-engine/moondial,streamable-http,"A game world where humans and AI agents play under the same rules, both achieving their goals."
+2026-10-30T03:10:16.190758Z,io.github.liquefy-ui/liquefy-ui,liquefy-ui,0.1.5,https://github.com/liquefy-ui/liquefy-ui,,"Answers questions about liquefy-ui from its real API surface, so an agent stops inventing props."
+2026-10-30T03:15:10.915423Z,io.github.ad-vertly/adextract-mcp-server,Adextract MCP,1.0.0,https://github.com/ad-vertly/adextract-mcp-server,streamable-http,"Search Meta, Google, LinkedIn and TikTok ad libraries with creative analysis. 50 free searches."
