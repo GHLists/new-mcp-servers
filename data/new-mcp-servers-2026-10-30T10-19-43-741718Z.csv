@@ -1,0 +1,30 @@
+created_at,server,title,version,repository,transports,description
+2026-10-30T09:31:38.918158Z,com.getpostcue/postcue,Postcue,0.2.0,,streamable-http,Plan social posts that Postcue cues on your iPhone at the right time. It never posts for you.
+2026-10-30T09:31:56.000938Z,cn.com.ihaola/health-checkup-planner,好啦体检 MCP,1.0.0,,streamable-http,企业团检分档报价与企业咨询、个人体检方案推荐、门店查询、体检预约、订单与体检件查询、体检常见问题。合作体检机构 800+ 门店，覆盖 240+ 城市，其中 540+ 门店支持 AI 直接查询与预约。
+2026-10-30T09:32:47.412878Z,pro.ravenwallet/wallet,Raven Wallet,1.0.0,,streamable-http,"Run all your Solana wallets from your AI: send, swap, split, consolidate and clean up."
+2026-10-30T09:37:01.622441Z,app.kilobat/kilobat,Kilobat,0.7.0,https://github.com/seifip/kilobat-cli,,"Mac networking for agents: per-app traffic, Wi-Fi, latency, DNS, why a host fails and keep-awake."
+2026-10-30T09:39:44.772761Z,com.mangainfo/mangainfo,Mangainfo,1.0.0,,streamable-http,"English manga release dates, volumes, ISBNs and new licenses. Read only, no sign in."
+2026-10-30T09:39:49.963163Z,io.github.avhn/secret,secret,0.3.2,https://github.com/avhn/secret,,"Local, read-only, names-only secret metadata for explicitly approved stores. Never returns values."
+2026-10-30T09:40:17.233895Z,legal.tilt/tilt-base,Tilt Base,0.11.1,,streamable-http,"Tilt Legal's managed legal skills and your organisation's own, for your AI agent."
+2026-10-30T09:46:01.688314Z,io.chatcut/chatcut,ChatCut,1.0.0,https://github.com/ChatCut-Inc/agent-plugin,streamable-http,"AI video editor for agents: cut footage, add captions and motion graphics, export editable edits."
+2026-10-30T09:47:48.545969Z,io.usefulapi/cliento,Cliento MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Review Cliento locations, staff, resources, services, products and stock."
+2026-10-30T09:47:49.202671Z,io.usefulapi/open-to-close,Open To Close MCP by usefulapi,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,Review Open To Close properties and transaction records; add contacts and property notes.
+2026-10-30T09:47:49.838755Z,io.usefulapi/zylvie,Zylvie MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Review Zylvie coupons, sales transactions and subscriptions."
+2026-10-30T09:49:27.101711Z,ai.refix/refix,Refix,1.0.0,,streamable-http,"Ask questions about company data, set up watchers on ongoing goals, and catch up on findings."
+2026-10-30T09:51:53.214759Z,io.github.linyejia/afterfees,AfterFees,0.18.9,https://github.com/linyejia/afterfees-mcp,streamable-http,"Crypto funding-rate arbitrage across 50 exchanges, net of fees and order-book slippage. Read-only."
+2026-10-30T09:52:10.321219Z,io.github.pipeworx-io/romania-tenders,Romania Tenders,0.1.1,https://github.com/pipeworx-io/mcp-romania-tenders,streamable-http,Romania public procurement MCP -- SEAP / SICAP public notice lists (keyless).
+2026-10-30T09:52:41.974153Z,io.github.pipeworx-io/rebrickable,Rebrickable,0.2.1,https://github.com/pipeworx-io/mcp-rebrickable,streamable-http,Rebrickable MCP.
+2026-10-30T09:53:10.844565Z,io.github.pipeworx-io/mymemory,Mymemory,0.1.1,https://github.com/pipeworx-io/mcp-mymemory,streamable-http,MyMemory MCP — keyless machine + translation-memory translation.
+2026-10-30T09:53:38.188146Z,com.getonideal/ideal,Ideal,1.0.0,,streamable-http,"Run a creator's Ideal: publish video, music, podcasts, posts; shop; own AI; pricing."
+2026-10-30T09:59:40.397684Z,io.github.arif-js/dataparity,Dataparity,0.1.0,https://github.com/arif-js/dataparity,,"Cross-database data diff and reconciliation for AI agents, with a portable row hash"
+2026-10-30T10:07:48.437846Z,guru.krew/jobs,Krew Guru,1.0.0,,streamable-http,Maritime vacancies for seafarers and CV import into a Krew Guru profile.
+2026-10-30T10:08:20.67942Z,io.github.XGamesFun/solana-kit,xsolana,0.20.1,https://github.com/XGamesFun/solana-kit,,"Design, check, simulate and launch Solana game economies on loot, one shared program, no contract."
+2026-10-30T10:11:58.271682Z,io.smootify/mcp,Smootify,2.0.0-beta.8,,streamable-http,"Build and check Webflow or Astro stores on Shopify with Smootify 2.0: elements, attributes, audits."
+2026-10-30T10:13:37.103157Z,app.todev/todev,ToDev,1.0.0,,streamable-http,"Plan your day, projects, clients and invoices in ToDev, the planner for freelancers."
+2026-10-30T10:14:28.513837Z,io.github.SirCharan/findmyzodiac,,1.0.0,,streamable-http,Western zodiac sign from date of birth and sign compatibility scores. English and Hindi.
+2026-10-30T10:14:29.340794Z,io.github.SirCharan/luckyvehiclenumber,,1.0.0,,streamable-http,Lucky vehicle number calculator for India: plate digit sum scored against birth number.
+2026-10-30T10:14:30.166482Z,io.github.SirCharan/theflamesgame,,1.0.0,,streamable-http,"FLAMES name game plus love and friendship calculators by name. A game, not a prediction."
+2026-10-30T10:14:30.986724Z,io.github.SirCharan/getsolulu,,1.0.0,,streamable-http,"Lo Shu grid numerology for India: life path, Chaldean name number, compatibility."
+2026-10-30T10:14:31.809191Z,io.github.SirCharan/ipoallotment,,1.0.0,,streamable-http,Check Indian IPO allotment by PAN and list mainboard and SME IPOs with listing gains.
+2026-10-30T10:14:32.626745Z,io.github.SirCharan/homeloanscalculator,,1.0.0,,streamable-http,"Free home loan EMI, eligibility, stamp duty and tax benefit calculators for India."
+2026-10-30T10:14:33.46207Z,io.github.SirCharan/homes-loan-calculator,,1.0.0,,streamable-http,"Home loan EMI, affordability, balance transfer, down payment, rent vs buy calculators."
