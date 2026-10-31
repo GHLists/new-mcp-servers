@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-10-31T18:32:03.312378Z,com.usepickly/pickly,Pickly,1.0.0,,streamable-http,Make group polls from a chat and check who's winning. Voters need no account.
+2026-10-31T18:33:16.681769Z,io.github.agzyazilim/rust-mcp,AGZ Rust MCP,0.5.0,https://github.com/agzyazilim/rust-mcp,,"Rust development tools for offline context, compiler diagnostics, focused tests and Cargo execution."
+2026-10-31T18:42:01.707574Z,dev.x402check/mcp,,0.1.0,,streamable-http,Trust-check x402 seller URLs before paying. ok|caution|avoid + history. Paid per tool.
+2026-10-31T18:42:03.049688Z,io.github.amineutron/mcp-tracking,"Task tracking (sessions, ETA, dashboard)",0.3.0,https://github.com/amineutron/mcp-tracking,,"Track long-running tasks in real time: sessions, steps, speed, ETA, HTTP API and TUI dashboard."
+2026-10-31T18:46:50.167115Z,io.github.rezearcher/web-extract-mcp,Web Extract MCP Server,0.1.0,https://github.com/rezearcher/web-extract-mcp,streamable-http,"Web page to clean markdown, sitemap discovery, change monitoring; free previews, pay-per-call x402."
+2026-10-31T18:47:49.764853Z,com.cairn-commons/cairn-commons,Cairn Commons,1.0.0,,streamable-http,"Work on open research problems with your agent; results are checked by Lean, reproduction or review."
+2026-10-31T18:52:31.078442Z,io.github.pironjulien/nexus-indesign,NexusInDesign,4.0.0,https://github.com/pironjulien/NexusInDesign,,"Adobe InDesign through COM only: scripts, previews, preflight, verified exports, backups."
+2026-10-31T18:52:33.209231Z,io.github.warewithall2/gage,Gage,0.3.5,https://github.com/warewithall2/gage,,"Signed, sealed handoffs between AI agents — trust computed by the receiver."
+2026-10-31T18:58:13.794797Z,net.letsbot/mcp,LetsBot,1.0.0,,streamable-http,"WhatsApp Business messaging, live chat, chatbots, campaigns and CRM for a LetsBot workspace."
+2026-10-31T19:01:35.263122Z,io.github.CoinVello/coinvello,CoinVello,0.1.1,,,"Non-custodial crypto payments: checkout sessions, invoices, webhooks and test payments. No KYC."
+2026-10-31T19:02:26.340073Z,dev.moorai/skilltriage,SkillTriage,0.6.1,,streamable-http,"Scan AI agent skills, MCP server packages and MCP configs before you install them. Static analysis."
+2026-10-31T19:03:25.415067Z,app.horoscoop/horoscoop,horoscoop.app,1.0.0,,streamable-http,"Nederlandstalige horoscopen: dag, week, maand en jaar per sterrenbeeld, match, maan en hemel."
+2026-10-31T19:05:06.676444Z,io.github.stackscribe-ai/coding-agent-audit,Coding Agent Audit,0.3.2,https://github.com/stackscribe-ai/coding-agent-audit,,Scans for known AI coding assistant supply-chain backdoors and risky Claude Code / MCP config.
+2026-10-31T19:09:48.853046Z,io.github.afrotools/afrotools,afro.tools,1.0.0,https://github.com/afrotools/afrotools,streamable-http,"Open-source API specs for African providers (payments, SMS, KYC, delivery) for AI agents."
+2026-10-31T19:10:25.524708Z,com.getmanifeste/manifeste,Manifeste,1.0.0,,streamable-http,"E-commerce margin calculator: GO/RISKY/NO-GO verdict for Amazon, Etsy, eBay, Shopify, TikTok Shop."
+2026-10-31T19:11:24.703747Z,io.github.robertdoneill/jmap-calendar-mcp,,0.1.0,https://github.com/robertdoneill/jmap-calendar-mcp,,"Read calendars and create or change events on any JMAP server, such as Stalwart. No delete."
+2026-10-31T19:11:34.486049Z,fr.tenderwatch/marches-publics,"TenderWatch, marchés publics",1.0.0,,streamable-http,"Appels d'offres publics français ouverts, procédure selon le montant, intérêts moratoires, lexique."
+2026-10-31T19:15:04.425814Z,ai.vistazo/vistazo,Vistazo,1.1.0,,streamable-http,An analytics workspace where teams and agents collaborate to build dashboards and produce insights.
+2026-10-31T19:18:16.653373Z,app.samiswoi/firmy,Sami Swoi,1.0.0,,streamable-http,"Directory of Polish-run businesses outside Poland: shops, tradespeople, doctors, services."
