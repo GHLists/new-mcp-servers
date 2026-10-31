@@ -1,0 +1,35 @@
+created_at,server,title,version,repository,transports,description
+2026-10-30T23:21:47.99631Z,io.github.FindDataTechnology/airegistry-tools,AI Registry tools,0.0.1,,streamable-http,"Provides tools to discover and list servers, agents, and skills in the AI Registry… — 想 7×24 常驻 → 萬星"
+2026-10-30T23:21:48.283635Z,io.github.FindDataTechnology/fd-daas-mcp-cust1,,0.0.1,,streamable-http,"FindData DAAS MCP — 第二客户工作区实例（per-customer isolation witness, facet-mcp-foundation… — 想 7×24 常驻 → 萬星"
+2026-10-30T23:21:48.44398Z,io.github.FindDataTechnology/fd-info,,0.0.1,,streamable-http,柏讯信息流索引 MCP：list_since/get_item/search_info/locate_evidence/stream_health 五工具（公告/部… — 想 7×24 常驻 → 萬星
+2026-10-30T23:21:48.527997Z,io.github.FindDataTechnology/fd-legal-search-mcp,,0.0.1,,streamable-http,识律法律检索 MCP（lex-platform-v1）：法条检索与条级引用解析（law_db 全目录 + Qdrant law_chunks_v2 语义检索）、类案… — 想 7×24 常驻 → 萬星
+2026-10-30T23:21:48.608094Z,io.github.FindDataTechnology/fd-sentiment,,0.0.1,,streamable-http,"柏讯文档情绪打分 MCP：8 工具/5 组全 commercial。evidence_spans 必填且 quote 为原文逐字子串；幂等键 (doc_id, co… — 想 7×24 常驻 → 萬星"
+2026-10-30T23:21:48.708632Z,io.github.FindDataTechnology/fd-zhengxin-reference,,0.0.1,,streamable-http,政心参照系 MCP（lex 第四模块）：政体指标时序（V-Dem v2x_* 聚合指数，国家×年，附口径与 provenance）、思潮坐标（Wikidata+MA… — 想 7×24 常驻 → 萬星
+2026-10-30T23:21:48.795716Z,io.github.FindDataTechnology/lex-ops-mcp,,0.0.1,,streamable-http,识律线操作 MCP（C4）：线全景导览（self-describing）+账户视图（me/usage/billing/quota）+检索凭据生命周期（list/mi… — 想 7×24 常驻 → 萬星
+2026-10-30T23:21:48.879499Z,io.github.FindDataTechnology/vaas-wanxing,,0.0.1,,streamable-http,"VAAS generation plane (Wanxing pilot): voice/image/video/cover generation, asset s… — 想 7×24 常驻 → 萬星"
+2026-10-30T23:22:28.109688Z,io.github.blowhorn-ai/blowhorn,Blowhorn,0.1.1,https://github.com/blowhorn-ai/blowhorn-mcp,,"Blowhorn's local MCP server on your Mac: every Blowhorn command as a tool, dry run first."
+2026-10-30T23:22:52.190161Z,dev.ploa/ploa,Ploa,0.1.0,,,"Take an Expo app to the App Store and Google Play: builds, testers, store pages, approvals"
+2026-10-30T23:22:59.347106Z,io.github.alexanderjacobsen/partwright,Partwright,1.0.2,,streamable-http,"Describe a replacement or custom plastic part in chat, preview it in 3D, and order it 3D-printed."
+2026-10-30T23:23:30.027907Z,app.moflow/mcp,Moflow,1.0.0,,streamable-http,"Net worth tracker: ask your AI what you're worth, or tell it what to update."
+2026-10-30T23:31:14.755613Z,io.github.Carmel-Labs-Inc/mcp-index,AgentStatus MCP Index,1.0.0,https://github.com/Carmel-Labs-Inc/agentstatus-mcp-index,streamable-http,"Live public MCP Index. Search, recommend, and call healthy MCP servers."
+2026-10-30T23:36:20.985808Z,io.github.sadri-dridi/wake-site-readiness,Wake site readiness,1.0.0,,streamable-http,"How an AI agent sees a public website: robots, llms.txt, sitemap, agent card, scored fixes. Host in."
+2026-10-30T23:36:21.891041Z,io.github.CloudCorpRecords/streetmap-port,,0.1.0,https://github.com/CloudCorpRecords/streetmap-port,,"Geocode, reverse geocode and find nearby places with the public OpenStreetMap APIs."
+2026-10-30T23:42:53.506111Z,io.github.ottonic/review-mcp-server,Ottorev — Review MCP Server,0.2.1,https://github.com/ottonic/review-mcp-server,,"Durable review context for CAD: entity names, notes, tags, and revision-bound decisions."
+2026-10-30T23:43:18.769995Z,io.github.ottonic/simulation-mcp-server,Ottosim — Simulation MCP Server,0.2.0,https://github.com/ottonic/simulation-mcp-server,,"Thermal, structural, modal, DC, and laminar-flow studies from STEP via Gmsh and Elmer."
+2026-10-30T23:48:03.163197Z,energy.maci/mcp,Maci,1.0.0,https://github.com/Maci-Intelligence/developers,streamable-http,"Read refrigeration units, service history, F-gas logs and alarms in Maci. Read only."
+2026-10-30T23:48:10.73161Z,io.github.ottonic/cad-mcp-server,Ottogeo — CAD MCP Server,0.9.0,https://github.com/ottonic/cad-mcp-server,,"Measure STEP CAD files with your AI assistant: walls, clearances, draft, and revision diffs."
+2026-10-30T23:52:04.833863Z,io.github.ottonic/standards-mcp-server,Ottoref — Standards MCP Server,0.2.0,https://github.com/ottonic/standards-mcp-server,,"ISO 286 limits and fits, ISO 2768 tolerances, material properties, and process limits."
+2026-10-30T23:53:56.440528Z,com.jobsitecerts/safety-reference,Jobsite Safety Reference (free),1.0.0,,streamable-http,"Free, no-login construction safety tools: OSHA rule text, toolbox talks, 1904 recordability."
+2026-10-30T23:53:56.608689Z,com.jobsitecerts/jobsite,Jobsite,1.0.0,,streamable-http,"Construction safety, training compliance and operations for your company (OAuth sign-in)."
+2026-10-30T23:58:18.276952Z,io.github.groundtruthtools/ats-jobs-mcp,Company Facts,1.2.0,https://github.com/groundtruthtools/ats-jobs-mcp,streamable-http,"Company data from official sources: new US businesses, registers, tech stack, open jobs, SEC."
+2026-10-30T23:58:50.888427Z,io.trilly/trilly,Trilly,1.0.0,,streamable-http,"Find, add and use AI skills from Trilly, the marketplace for AI skills, in your AI app."
+2026-10-30T23:59:16.992195Z,io.github.norimaki1219-cmyk/eda,EDA（枝）,0.5.0,,streamable-http,困りごとの原因・解決策・やってみた結果を枝でたどる知識マップ（日本語）。検索・投稿・反応ができる
+2026-10-30T23:59:47.989946Z,dev.companyfacts/company-data,Company Facts,1.0.0,https://github.com/groundtruthtools/ats-jobs-mcp,streamable-http,"Company data from official sources: new US businesses, registers, tech stack, open jobs, SEC."
+2026-10-31T00:02:18.279614Z,ai.theskillvault/skills,TheSkillVault,1.0.0,https://github.com/DANEvolution2/theskillvault-mcp,streamable-http,Search and fetch vibe-coding Agent Skills (SKILL.md files) and prompts from TheSkillVault library.
+2026-10-31T00:02:37.426811Z,com.blooio/mcp,Blooio,4.1.0,https://github.com/Blooio/blooio-mcp,streamable-http,"Send and receive iMessage, SMS, RCS, and WhatsApp, and manage contacts, chats, and numbers."
+2026-10-31T00:03:01.510119Z,com.artifactsend/mcp,ArtifactSend,1.0.0,https://github.com/artifactsend/skills,streamable-http,"Share docs, decks, HTML and Claude artifacts as tracked links and data rooms. See who read them."
+2026-10-31T00:06:31.33987Z,io.github.shichuanqiong/swarmdm,,0.9.0,https://github.com/shichuanqiong/AgoraDM,streamable-http,"SwarmDM (formerly AgoraDM): DMs, friends, groups and files between AI agents."
+2026-10-31T00:07:41.611584Z,io.github.CloudCorpRecords/termmux,,0.1.0,https://github.com/CloudCorpRecords/termmux,,"Drive local tmux sessions, windows and panes: list, create, send keys, capture output."
+2026-10-31T00:13:39.063946Z,io.github.offense-research/offense,Offense,0.7.0,https://github.com/offense-research/offense,streamable-http,Security tools for coding agents: dependency advisory audits and evidence for remediation.
+2026-10-31T00:15:15.530914Z,solutions.dap/foundry,DAP Foundry,1.0.0,,streamable-http,"Tools that refuse rather than guess: settlement day counts, Unix timestamps, base64, line diffs."
+2026-10-31T00:18:29.037452Z,io.github.CloudCorpRecords/deskcommand,,0.1.0,https://github.com/CloudCorpRecords/deskcommand,,"Run terminal processes, edit files and search code on the local machine from an MCP client."
