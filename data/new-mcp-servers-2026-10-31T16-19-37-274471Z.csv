@@ -1,0 +1,40 @@
+created_at,server,title,version,repository,transports,description
+2026-10-31T15:20:25.428776Z,kr.daiw/daiw,DAIW,0.1.16,,streamable-http,"AI engineer inside your DAW: compose, mix, master and export in Logic Pro or REAPER by talking."
+2026-10-31T15:22:06.978966Z,com.awesomevideoeditor/awesomevideo,AwesomeVideo,0.2.0,,streamable-http; streamable-http,"Video for AI agents: captions in 28 styles, transcription, translation, dubbing, shorts. REST+MCP."
+2026-10-31T15:24:51.468937Z,app.everynumber/spreadsheet-dashboard,Every Number,1.0.0,,streamable-http,Turn an Excel or CSV export into a dashboard where every number has a receipt. No account.
+2026-10-31T15:27:33.647042Z,com.nymwell/lookup,Nymwell Lookup,1.0.0,,streamable-http,"Check domain availability and prices, and look up any domain's public records. Read-only."
+2026-10-31T15:28:57.102633Z,com.dcblueprint/data-centres,DC Blueprint data-centre intelligence,1.0.0,,streamable-http,"Dated European data-centre markets, grid connection restrictions, country rules and the live grid."
+2026-10-31T15:30:11.740877Z,io.github.microsoft/playwright-mcp,,0.0.84,https://github.com/microsoft/playwright-mcp,,Playwright Tools for MCP
+2026-10-31T15:31:47.112303Z,com.sentrint/sentrint,Sentrint,1.0.0,,streamable-http,"Code security scanner for founders and small teams: leaked secrets, missing RLS, injection, CVEs"
+2026-10-31T15:34:01.227709Z,com.directmailamerica/mcp-narrow,DirectMailAmerica — Narrow,2.1.0,,streamable-http,"Quote, preview and approve U.S. letters and postcards; edit cover sheets and inspect mailing status."
+2026-10-31T15:34:41.56633Z,com.agentmasterdata/agent-master-data,Agent Master Data,0.1.0,,streamable-http,"Paid x402 API and MCP for trusted public master data, golden records, and reference data."
+2026-10-31T15:35:50.0797Z,io.github.site-shot/site-shot-mcp,Site-Shot,1.2.1,https://github.com/site-shot/site-shot-mcp,,"Website screenshots for AI agents: full-page, country proxies, ad & cookie-banner removal"
+2026-10-31T15:36:30.019898Z,ca.fonciq/fonciq,Fonciq — Québec flood zones and land registry,1.0.0,,streamable-http,Free Québec flood-zone lookup (no key) plus Fonciq land-registry tools with your own API key.
+2026-10-31T15:38:21.455698Z,io.forthclear/liquidation,ForthClear Liquidation Marketplace,1.4.0,,streamable-http,"Search surplus and overstock inventory, request bulk quotes, and check out."
+2026-10-31T15:38:22.381443Z,io.github.UsamaSarwar121/gomobsec-mcp,GoMobSec,0.1.0,https://github.com/UsamaSarwar121/gomobsec-mcp,,"Scan Android and iOS apps for security issues: findings, MASVS mapping and pentest reports."
+2026-10-31T15:38:40.412615Z,com.autoprivado/autoprivado,AutoPrivado,1.0.0,https://github.com/autoprivado/autoprivado-mcp,streamable-http,"Private car sales in Europe: search listings, price estimate from VIN, portals, contracts."
+2026-10-31T15:38:47.604118Z,com.thedploy/deployer,The Deployer,0.3.0,https://github.com/Avinash147-1193/thedeployer-mcp,streamable-http; streamable-http,"Deploy and run apps in your own AWS, Google Cloud, Azure or DigitalOcean account from any AI agent."
+2026-10-31T15:48:08.929576Z,io.github.clearcotelabs/clearcote-mcp,Clearcote Browser,0.3.0,https://github.com/clearcotelabs/clearcote-browser,,"Drive the Clearcote Chromium browser from any MCP client: read pages, click, fill, screenshot."
+2026-10-31T15:49:10.845733Z,net.equitest/equitest,Equitest,1.0.0,,streamable-http,"Business valuations, financial statements, industry benchmarks and M&A comparables."
+2026-10-31T15:49:16.963622Z,com.usvipublicrecords/documents,USVI Public Records,1.1.1,,streamable-http,"Search and read U.S. Virgin Islands public records: laws, court records, audits, hearings, reports."
+2026-10-31T15:49:17.30639Z,com.usvipublicrecords/newspapers,USVI Public Records: Newspapers,1.3.2,,streamable-http,"Search Virgin Islands newspapers page by page, 1865 to 2001, with the gaps in every run named."
+2026-10-31T15:51:09.746137Z,io.github.ThomasCrouzet/icloud-mcp,icloud-mcp,0.4.2,https://github.com/ThomasCrouzet/icloud-mcp,,"stdio MCP for iCloud Calendar (CalDAV), with optional Contacts and Mail."
+2026-10-31T15:52:52.642441Z,io.github.rahulparathy/saas-puppy,SaaS Puppy,0.1.0,https://github.com/rahulparathy/saas-puppy-mcp,streamable-http,"Look up or compare free-tier developer tools, with the catch spelled out."
+2026-10-31T15:54:31.357026Z,com.virtualcloser/virtual-closer,Virtual Closer,1.0.0,,streamable-http,"See who replied and where your pipeline is stuck, from your own AI. Insurance agents. $55/30 days."
+2026-10-31T15:54:33.562198Z,com.runmyads/run-my-ads,Run My Ads,1.0.0,,streamable-http,Read your Meta ads from your own AI; find why cost per booked appointment moved. From $49/30 days.
+2026-10-31T15:54:47.064486Z,io.usefulapi/idosell,IdoSell MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Search orders, products, stock, customers and returns; set order status in IdoSell."
+2026-10-31T15:54:47.074479Z,io.usefulapi/kledo,Kledo MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read invoices, bills, contacts, bank balances and financial reports in Kledo."
+2026-10-31T15:54:47.092227Z,io.usefulapi/limoexpress,LimoExpress MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read bookings, clients, invoices, pricing; confirm bookings and mark invoices paid in LimoExpress."
+2026-10-31T15:54:47.094382Z,io.usefulapi/quipu,Quipu MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read contacts, invoices and book entries; create contacts and draft invoices in Quipu."
+2026-10-31T15:54:47.662379Z,io.usefulapi/qashier,Qashier MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read checkout sessions; create payment links, expire sessions and refund payments in Qashier."
+2026-10-31T15:54:47.673743Z,io.usefulapi/operto,Operto MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read properties, reservations, guest access codes, smart locks and thermostats in Operto."
+2026-10-31T15:54:47.705952Z,io.usefulapi/run-my-accounts,Run my Accounts MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read customers, invoices, vendor bills, trial balance and ledger transactions in Run my Accounts."
+2026-10-31T15:54:47.718573Z,io.usefulapi/trekksoft,TrekkSoft MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read activities, bookings, guests and open departures in TrekkSoft."
+2026-10-31T15:55:02.659149Z,com.18cores/tracker,18 Cores Tracker,1.16.0,,streamable-http,"Read and update tickets, deals, tasks, and contacts in 18 Cores Tracker."
+2026-10-31T15:55:52.159636Z,com.heyzarvis/zarvis,,0.2.0,https://github.com/heyzarvis/zarvis-releases,streamable-http,"Your task queue, executed by AI on your own computer. Manage and approve from any MCP client."
+2026-10-31T15:58:58.803905Z,com.casaprivat/casaprivat,CasaPrivat,1.0.0,,streamable-http,Find homes sold by owners in Spain and France. Messages to owners need buyer consent; rate-limited.
+2026-10-31T16:04:31.538938Z,io.github.farenberglord-star/orb-studio,Orb Studio,1.0.0,https://github.com/farenberglord-star/Orb-studio-,streamable-http,"Live news radars with risk index, real Hamburg shop & fuel prices, and AI anchor David Q&A."
+2026-10-31T16:06:18.472016Z,com.representments/chargebacks,representments.com,1.0.0,,streamable-http,"Explains each card chargeback reason code and the proof that wins it, and prices custom responses."
+2026-10-31T16:06:57.164936Z,com.twominutetoolkit/toolkit,Two Minute Toolkit,1.0.0,,streamable-http,"20 slide-ready chart tools: Gantt, SWOT, 2×2, RACI, org chart, mind map, fishbone. Free."
+2026-10-31T16:07:17.076964Z,com.bestbouncebiz/rankings,BestBounceBiz Public Rankings,0.1.0,,streamable-http,Read-only public rankings of US bounce-house rental websites: national top 5 and each state's #1.
+2026-10-31T16:18:43.896974Z,com.ondacast/ondacast,OndaCast,1.0.0,,streamable-http,"Find live radio stations, podcasts, free audiobooks, song charts and the radio guide on OndaCast."

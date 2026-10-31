@@ -9,64 +9,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 15:19 UTC
+## Latest list — 2026-10-31 16:19 UTC
 
-New MCP servers published between 2026-10-31 14:18 UTC and 2026-10-31 15:19 UTC.
+New MCP servers published between 2026-10-31 15:19 UTC and 2026-10-31 16:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-31T15-19-23-158836Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-31T16-19-37-274471Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-31 14:19:41 | [io.github.CloudCorpRecords/answersearch](https://github.com/CloudCorpRecords/answersearch) |  | 0.1.0 | Perplexity answers: ask, search, reason, and deep research through the Sonar AP… |
-| 2026-10-31 14:19:41 | com.lookmybio/public | lookmybio | 1.0.0 | Look up creators on lookmybio: public bio pages, their links and published blog… |
-| 2026-10-31 14:25:53 | [dev.advancelabs/aeo-search](https://github.com/Advance-Labs/aeo-toolkit) | AEO Search | 1.0.0 | Google Search Console, GA4 and Bing Webmaster data for SEO and AI-search work.… |
-| 2026-10-31 14:25:53 | [dev.advancelabs/aeo-visibility](https://github.com/Advance-Labs/aeo-toolkit) | AEO Visibility | 1.0.0 | Check whether AI answer engines cite your site, and for which prompts. Uses you… |
-| 2026-10-31 14:25:53 | [dev.advancelabs/aeo-backlink](https://github.com/Advance-Labs/aeo-toolkit) | AEO Backlink | 1.0.0 | Find brand mentions, link prospects and competitor link sources, and draft outr… |
-| 2026-10-31 14:26:22 | [io.github.sevalla/mcp](https://github.com/sevalla/mcp) | Sevalla | 2.0.0 | Official Sevalla MCP: deploy, debug and manage apps, static sites and databases. |
-| 2026-10-31 14:26:59 | com.appgazers/appgazers | AppGazers | 1.0.0 | App Store and Google Play revenue and download estimates, keywords, reviews, ra… |
-| 2026-10-31 14:31:54 | [io.github.CloudCorpRecords/crawlport](https://github.com/CloudCorpRecords/crawlport) |  | 0.1.0 | Firecrawl web data: scrape, map, search, crawl, extract, research, and llms.txt. |
-| 2026-10-31 14:33:22 | [io.github.ZIZKA-AI-SL/zizkadb-mcp](https://github.com/ZIZKA-AI-SL/ZizkaDB) | ZizkaDB | 0.1.12 | Causal memory and tamper-evident audit log for AI agents: log, why, search, tim… |
-| 2026-10-31 14:33:37 | [io.github.midnight232/crypto-pulse](https://github.com/midnight232/crypto-pulse-api) | Crypto Pulse | 0.3.2 | One call: spots+F&G+funding+DefiLlama+summary for agents. Free sample; x402 USD… |
-| 2026-10-31 14:35:40 | [io.github.davidscotttufts/tracegate-ci](https://github.com/davidscotttufts/tracegate-ci) | Tracegate CI | 0.9.1 | Local CI broker and test-impact ledger for coding agents: queue, lane modes and… |
-| 2026-10-31 14:36:59 | market.populardemand/popular-demand | Popular Demand | 0.4.0 | Save and maintain private, non-binding purchase Requests and read Offers for th… |
-| 2026-10-31 14:39:11 | [io.usefulapi/universe](https://github.com/m190/usefulapi-mcp) | Universe MCP by usefulapi | 1.0.0 | Read events, ticket types, orders, attendees and daily ticket sales in Universe. |
-| 2026-10-31 14:39:48 | app.gotsol/gotsol | GotSOL.app | 0.1.0 | USDC wallets, payment links and x402 payments on Solana for AI agents. |
-| 2026-10-31 14:44:04 | [io.github.6mickswagger9/x402-scan-mcp](https://github.com/6mickswagger9/x402-scan-mcp) | x402-scan-mcp | 0.0.6 | x402 paid API for AI agents. USDC on Base. CDP facilitator. |
-| 2026-10-31 14:44:35 | [io.github.6mickswagger9/x402-risk-mcp](https://github.com/6mickswagger9/x402-risk-mcp) | x402-risk-mcp | 1.0.4 | x402 paid API for AI agents. USDC on Base. CDP facilitator. |
-| 2026-10-31 14:44:38 | [io.github.6mickswagger9/agent-sec-scan](https://github.com/6mickswagger9/agent-sec-scan) | agent-sec-scan | 0.0.4 | x402 paid API for AI agents. USDC on Base. CDP facilitator. |
-| 2026-10-31 14:44:42 | [io.github.6mickswagger9/compute-api-mcp](https://github.com/6mickswagger9/compute-api-mcp) | compute-api-mcp | 1.0.5 | x402 paid API for AI agents. USDC on Base. CDP facilitator. |
-| 2026-10-31 14:44:48 | [io.github.6mickswagger9/x402-vuln](https://github.com/6mickswagger9/x402-vuln) | x402-vuln | 0.0.3 | x402 paid API for AI agents. USDC on Base. CDP facilitator. |
-| 2026-10-31 14:44:52 | [io.github.6mickswagger9/x402-sec-scan](https://github.com/6mickswagger9/x402-sec-scan) | x402-sec-scan | 0.0.3 | x402 paid API for AI agents. USDC on Base. CDP facilitator. |
-| 2026-10-31 14:44:55 | [io.github.6mickswagger9/x402-webhook-mcp](https://github.com/6mickswagger9/x402-webhook-mcp) | x402-webhook-mcp | 1.0.1 | x402 paid API for AI agents. USDC on Base. CDP facilitator. |
-| 2026-10-31 14:44:58 | [io.github.6mickswagger9/url-intel-mcp](https://github.com/6mickswagger9/url-intel-mcp) | url-intel-mcp | 1.0.1 | x402 paid API for AI agents. USDC on Base. CDP facilitator. |
-| 2026-10-31 14:45:02 | [io.github.6mickswagger9/llm-toll-mcp](https://github.com/6mickswagger9/llm-toll-mcp) | llm-toll-mcp | 1.0.9 | x402 paid API for AI agents. USDC on Base. CDP facilitator. |
-| 2026-10-31 14:45:05 | [io.github.6mickswagger9/x402-translate-mcp](https://github.com/6mickswagger9/x402-translate-mcp) | x402-translate-mcp | 1.0.1 | x402 paid API for AI agents. USDC on Base. CDP facilitator. |
-| 2026-10-31 14:45:08 | [io.github.6mickswagger9/x402-screenshot-mcp](https://github.com/6mickswagger9/x402-screenshot-mcp) | x402-screenshot-mcp | 1.0.1 | x402 paid API for AI agents. USDC on Base. CDP facilitator. |
-| 2026-10-31 14:45:11 | [io.github.6mickswagger9/x402-scrape-mcp](https://github.com/6mickswagger9/x402-scrape-mcp) | x402-scrape-mcp | 1.0.1 | x402 paid API for AI agents. USDC on Base. CDP facilitator. |
-| 2026-10-31 14:45:15 | [io.github.6mickswagger9/x402-image-mcp](https://github.com/6mickswagger9/x402-image-mcp) | x402-image-mcp | 1.0.1 | x402 paid API for AI agents. USDC on Base. CDP facilitator. |
-| 2026-10-31 14:45:18 | [io.github.6mickswagger9/x402-scan-audit](https://github.com/6mickswagger9/x402-scan-audit) | x402-scan-audit | 0.0.3 | x402 paid API for AI agents. USDC on Base. CDP facilitator. |
-| 2026-10-31 14:45:21 | [io.github.6mickswagger9/x402-escrow-mcp](https://github.com/6mickswagger9/x402-escrow-mcp) | x402-escrow-mcp | 1.0.1 | x402 paid API for AI agents. USDC on Base. CDP facilitator. |
-| 2026-10-31 14:45:24 | [io.github.6mickswagger9/x402-code-mcp](https://github.com/6mickswagger9/x402-code-mcp) | x402-code-mcp | 1.0.1 | x402 paid API for AI agents. USDC on Base. CDP facilitator. |
-| 2026-10-31 14:50:06 | cz.bydleno/prodeje | Bydleno – prodej bytů | 1.0.0 | Search Czech flats for sale from 19 portals, merged into one offer per flat. |
-| 2026-10-31 14:54:59 | md.layers/workspace | Layers — workspace for AI agents | 2.38.3 | Layers workspace for agents: tasks, pages, projects, forms and Drive, with your… |
-| 2026-10-31 14:55:40 | [io.github.CloudCorpRecords/repowiki](https://github.com/CloudCorpRecords/repowiki) |  | 0.1.0 | Read DeepWiki repository wikis and ask questions about public GitHub repos. |
-| 2026-10-31 14:56:27 | [com.swishrjobs/swishrjobs](https://github.com/Mahmoudaly187/swishrjobs) | SwishrJobs | 1.0.0 | Deterministic digital jobs with independently verified deliverables. |
-| 2026-10-31 14:59:50 | fr.mitoyens/pesticides | Mitoyens, pesticides près de chez vous | 1.1.0 | Pesticides par commune en France : eau du robinet, écoles près des champs, acha… |
-| 2026-10-31 15:00:48 | [io.github.Tifdt/port402-memory](https://github.com/Tifdt/port402-memory-mcp) | Port 402 Memory | 1.0.0 | Persistent memory for AI agents, paid per call in USDC on Base (x402). No accou… |
-| 2026-10-31 15:02:50 | [io.usefulapi/stiply](https://github.com/m190/usefulapi-mcp) | Stiply MCP by usefulapi | 1.0.0 | Read sign requests and signers; send, remind, extend and cancel sign requests i… |
-| 2026-10-31 15:02:50 | [io.usefulapi/timetac](https://github.com/m190/usefulapi-mcp) | TimeTac MCP by usefulapi | 1.0.0 | Read hours, absences and projects; start timers, add entries, approve leave in… |
-| 2026-10-31 15:02:50 | [io.usefulapi/gorelo](https://github.com/m190/usefulapi-mcp) | Gorelo MCP by usefulapi | 1.0.0 | Read tickets, devices, alerts and invoices; create tickets, add comments, log t… |
-| 2026-10-31 15:02:50 | [io.usefulapi/locate2u](https://github.com/m190/usefulapi-mcp) | Locate2u MCP by usefulapi | 1.0.0 | Read stops, orders, trips and ratings; add notes to stops and shipments in Loca… |
-| 2026-10-31 15:02:50 | [io.usefulapi/otter-waiver](https://github.com/m190/usefulapi-mcp) | Otter Waiver MCP by usefulapi | 1.0.0 | Read waivers, signed participants and check-ins in Otter Waiver. |
-| 2026-10-31 15:02:50 | [io.usefulapi/twice-commerce](https://github.com/m190/usefulapi-mcp) | Twice Commerce MCP by usefulapi | 1.0.0 | Read orders, customers, catalog, stock and availability; add order comments in… |
-| 2026-10-31 15:02:50 | [io.usefulapi/moego](https://github.com/m190/usefulapi-mcp) | MoeGo MCP by usefulapi | 1.0.0 | Read customers, pets, appointments, orders and reports; add customer notes in M… |
-| 2026-10-31 15:02:51 | [io.usefulapi/craftboxx](https://github.com/m190/usefulapi-mcp) | Craftboxx MCP by usefulapi | 1.0.0 | Read employees, assignments, timesheets and absences; create customers and proj… |
-| 2026-10-31 15:02:51 | [io.usefulapi/traffit](https://github.com/m190/usefulapi-mcp) | Traffit MCP by usefulapi | 1.0.0 | Read candidates, jobs, stages and clients; add notes to candidates in Traffit. |
-| 2026-10-31 15:03:38 | [io.github.osbytes/reelsaw](https://github.com/osbytes/reelsaw) | Reelsaw | 0.29.1 | Drive a self-hosted Reelsaw: turn long videos into vertical clips, edit, re-ren… |
-| 2026-10-31 15:04:19 | com.workoutsmart/workoutsmart | WorkoutSmart | 1.0.0 | Periodized strength training by a Coach of the Year, from your assistant. |
-| 2026-10-31 15:04:28 | site.jigwell/jigwell |  | 0.11.1 | Pay-per-call tools for AI assistants: code, data, finance, spreadsheets, media,… |
-| 2026-10-31 15:05:56 | [io.github.CloudCorpRecords/clouddocs](https://github.com/CloudCorpRecords/clouddocs) |  | 0.1.0 | Search, read, and get recommendations for AWS documentation pages. |
-| 2026-10-31 15:15:59 | [io.github.CloudCorpRecords/mapport](https://github.com/CloudCorpRecords/mapport) |  | 0.1.0 | Geocoding, places, directions, distance, and elevation through Google Maps. |
+| 2026-10-31 15:20:25 | kr.daiw/daiw | DAIW | 0.1.16 | AI engineer inside your DAW: compose, mix, master and export in Logic Pro or RE… |
+| 2026-10-31 15:22:06 | com.awesomevideoeditor/awesomevideo | AwesomeVideo | 0.2.0 | Video for AI agents: captions in 28 styles, transcription, translation, dubbing… |
+| 2026-10-31 15:24:51 | app.everynumber/spreadsheet-dashboard | Every Number | 1.0.0 | Turn an Excel or CSV export into a dashboard where every number has a receipt.… |
+| 2026-10-31 15:27:33 | com.nymwell/lookup | Nymwell Lookup | 1.0.0 | Check domain availability and prices, and look up any domain's public records.… |
+| 2026-10-31 15:28:57 | com.dcblueprint/data-centres | DC Blueprint data-centre intelligence | 1.0.0 | Dated European data-centre markets, grid connection restrictions, country rules… |
+| 2026-10-31 15:30:11 | [io.github.microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) |  | 0.0.84 | Playwright Tools for MCP |
+| 2026-10-31 15:31:47 | com.sentrint/sentrint | Sentrint | 1.0.0 | Code security scanner for founders and small teams: leaked secrets, missing RLS… |
+| 2026-10-31 15:34:01 | com.directmailamerica/mcp-narrow | DirectMailAmerica — Narrow | 2.1.0 | Quote, preview and approve U.S. letters and postcards; edit cover sheets and in… |
+| 2026-10-31 15:34:41 | com.agentmasterdata/agent-master-data | Agent Master Data | 0.1.0 | Paid x402 API and MCP for trusted public master data, golden records, and refer… |
+| 2026-10-31 15:35:50 | [io.github.site-shot/site-shot-mcp](https://github.com/site-shot/site-shot-mcp) | Site-Shot | 1.2.1 | Website screenshots for AI agents: full-page, country proxies, ad & cookie-bann… |
+| 2026-10-31 15:36:30 | ca.fonciq/fonciq | Fonciq — Québec flood zones and land re… | 1.0.0 | Free Québec flood-zone lookup (no key) plus Fonciq land-registry tools with you… |
+| 2026-10-31 15:38:21 | io.forthclear/liquidation | ForthClear Liquidation Marketplace | 1.4.0 | Search surplus and overstock inventory, request bulk quotes, and check out. |
+| 2026-10-31 15:38:22 | [io.github.UsamaSarwar121/gomobsec-mcp](https://github.com/UsamaSarwar121/gomobsec-mcp) | GoMobSec | 0.1.0 | Scan Android and iOS apps for security issues: findings, MASVS mapping and pent… |
+| 2026-10-31 15:38:40 | [com.autoprivado/autoprivado](https://github.com/autoprivado/autoprivado-mcp) | AutoPrivado | 1.0.0 | Private car sales in Europe: search listings, price estimate from VIN, portals,… |
+| 2026-10-31 15:38:47 | [com.thedploy/deployer](https://github.com/Avinash147-1193/thedeployer-mcp) | The Deployer | 0.3.0 | Deploy and run apps in your own AWS, Google Cloud, Azure or DigitalOcean accoun… |
+| 2026-10-31 15:48:08 | [io.github.clearcotelabs/clearcote-mcp](https://github.com/clearcotelabs/clearcote-browser) | Clearcote Browser | 0.3.0 | Drive the Clearcote Chromium browser from any MCP client: read pages, click, fi… |
+| 2026-10-31 15:49:10 | net.equitest/equitest | Equitest | 1.0.0 | Business valuations, financial statements, industry benchmarks and M&A comparab… |
+| 2026-10-31 15:49:16 | com.usvipublicrecords/documents | USVI Public Records | 1.1.1 | Search and read U.S. Virgin Islands public records: laws, court records, audits… |
+| 2026-10-31 15:49:17 | com.usvipublicrecords/newspapers | USVI Public Records: Newspapers | 1.3.2 | Search Virgin Islands newspapers page by page, 1865 to 2001, with the gaps in e… |
+| 2026-10-31 15:51:09 | [io.github.ThomasCrouzet/icloud-mcp](https://github.com/ThomasCrouzet/icloud-mcp) | icloud-mcp | 0.4.2 | stdio MCP for iCloud Calendar (CalDAV), with optional Contacts and Mail. |
+| 2026-10-31 15:52:52 | [io.github.rahulparathy/saas-puppy](https://github.com/rahulparathy/saas-puppy-mcp) | SaaS Puppy | 0.1.0 | Look up or compare free-tier developer tools, with the catch spelled out. |
+| 2026-10-31 15:54:31 | com.virtualcloser/virtual-closer | Virtual Closer | 1.0.0 | See who replied and where your pipeline is stuck, from your own AI. Insurance a… |
+| 2026-10-31 15:54:33 | com.runmyads/run-my-ads | Run My Ads | 1.0.0 | Read your Meta ads from your own AI; find why cost per booked appointment moved… |
+| 2026-10-31 15:54:47 | [io.usefulapi/idosell](https://github.com/m190/usefulapi-mcp) | IdoSell MCP by usefulapi | 1.0.0 | Search orders, products, stock, customers and returns; set order status in IdoS… |
+| 2026-10-31 15:54:47 | [io.usefulapi/kledo](https://github.com/m190/usefulapi-mcp) | Kledo MCP by usefulapi | 1.0.0 | Read invoices, bills, contacts, bank balances and financial reports in Kledo. |
+| 2026-10-31 15:54:47 | [io.usefulapi/limoexpress](https://github.com/m190/usefulapi-mcp) | LimoExpress MCP by usefulapi | 1.0.0 | Read bookings, clients, invoices, pricing; confirm bookings and mark invoices p… |
+| 2026-10-31 15:54:47 | [io.usefulapi/quipu](https://github.com/m190/usefulapi-mcp) | Quipu MCP by usefulapi | 1.0.0 | Read contacts, invoices and book entries; create contacts and draft invoices in… |
+| 2026-10-31 15:54:47 | [io.usefulapi/qashier](https://github.com/m190/usefulapi-mcp) | Qashier MCP by usefulapi | 1.0.0 | Read checkout sessions; create payment links, expire sessions and refund paymen… |
+| 2026-10-31 15:54:47 | [io.usefulapi/operto](https://github.com/m190/usefulapi-mcp) | Operto MCP by usefulapi | 1.0.0 | Read properties, reservations, guest access codes, smart locks and thermostats… |
+| 2026-10-31 15:54:47 | [io.usefulapi/run-my-accounts](https://github.com/m190/usefulapi-mcp) | Run my Accounts MCP by usefulapi | 1.0.0 | Read customers, invoices, vendor bills, trial balance and ledger transactions i… |
+| 2026-10-31 15:54:47 | [io.usefulapi/trekksoft](https://github.com/m190/usefulapi-mcp) | TrekkSoft MCP by usefulapi | 1.0.0 | Read activities, bookings, guests and open departures in TrekkSoft. |
+| 2026-10-31 15:55:02 | com.18cores/tracker | 18 Cores Tracker | 1.16.0 | Read and update tickets, deals, tasks, and contacts in 18 Cores Tracker. |
+| 2026-10-31 15:55:52 | [com.heyzarvis/zarvis](https://github.com/heyzarvis/zarvis-releases) |  | 0.2.0 | Your task queue, executed by AI on your own computer. Manage and approve from a… |
+| 2026-10-31 15:58:58 | com.casaprivat/casaprivat | CasaPrivat | 1.0.0 | Find homes sold by owners in Spain and France. Messages to owners need buyer co… |
+| 2026-10-31 16:04:31 | [io.github.farenberglord-star/orb-studio](https://github.com/farenberglord-star/Orb-studio-) | Orb Studio | 1.0.0 | Live news radars with risk index, real Hamburg shop & fuel prices, and AI ancho… |
+| 2026-10-31 16:06:18 | com.representments/chargebacks | representments.com | 1.0.0 | Explains each card chargeback reason code and the proof that wins it, and price… |
+| 2026-10-31 16:06:57 | com.twominutetoolkit/toolkit | Two Minute Toolkit | 1.0.0 | 20 slide-ready chart tools: Gantt, SWOT, 2×2, RACI, org chart, mind map, fishbo… |
+| 2026-10-31 16:07:17 | com.bestbouncebiz/rankings | BestBounceBiz Public Rankings | 0.1.0 | Read-only public rankings of US bounce-house rental websites: national top 5 an… |
+| 2026-10-31 16:18:43 | com.ondacast/ondacast | OndaCast | 1.0.0 | Find live radio stations, podcasts, free audiobooks, song charts and the radio… |
 
 ## Data source
 
