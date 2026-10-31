@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-10-31T09:22:40.711132Z,io.github.theguysaccount/swissmote,Swissmote public jobs,1.0.0,https://github.com/theguysaccount/mcp-catalog,streamable-http,Search published Swissmote openings with public apply links and confidentiality controls.
+2026-10-31T09:31:04.760948Z,io.github.FROWNINGdev/orm-lens,ORM Lens,1.16.0,https://github.com/FROWNINGdev/orm-lens,,"Django and SQLAlchemy static analysis: models, relations, migrations, Alembic, N+1."
+2026-10-31T09:34:04.188707Z,ai.vinano/mcp,ViNano,0.2.0,,streamable-http,"Image generation, image editing and text/image-to-video with credit quotes and connection budgets."
+2026-10-31T09:35:20.350372Z,io.usefulapi/cats-ats,CATS MCP by usefulapi,1.1.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read CATS candidates, jobs and pipelines, and make explicitly confirmed recruiting changes."
+2026-10-31T09:37:45.086263Z,io.github.Vortiago/mcp-outline,Outline MCP Server,1.11.0,https://github.com/Vortiago/mcp-outline,,"Connect AI assistants to Outline for document search, reading, and management"
+2026-10-31T09:38:56.53672Z,io.github.afeezadebayo/google-keyword-planner,Google Keyword Planner,1.0.0,https://github.com/afeezadebayo/google-keyword-planner-mcp,,"Keyword ideas, search volumes, CPC ranges, trends and forecasts from Google Ads Keyword Planner."
+2026-10-31T09:44:00.609181Z,io.github.NadaHo/chatgpt-search-scraper,"ChatGPT Search Scraper: Answers, Citations & Sources",1.0.0,,streamable-http,"ChatGPT answers with web search as JSON: citations, sources, brands and products. Bulk prompts."
+2026-10-31T09:44:00.79153Z,io.github.NadaHo/ppc-competitor-keywords,PPC Competitor Keywords (SpyFu alternative),1.0.0,,streamable-http,"Google Ads keywords any website buys: ad position, ad text, CPC, volume, monthly ad spend."
+2026-10-31T09:44:24.987054Z,io.github.charleswei118/web2mcp,web2mcp,0.1.0,https://github.com/charleswei118/web2mcp,streamable-http,Zero-dependency Cloudflare Worker gateway turning websites and REST APIs into MCP tools.
+2026-10-31T09:48:39.427089Z,io.github.NadaHo/ai-search-brand-visibility,"AI Search Brand Visibility (ChatGPT, Gemini, Perplexity)",1.0.0,,streamable-http,"Is your brand named or your site cited in ChatGPT, Gemini, Perplexity, Google AI Mode answers?"
+2026-10-31T09:50:48.291091Z,io.github.NadaHo/amazon-keyword-research,Amazon Keyword Research & Reverse ASIN (Helium 10 alternative),1.0.0,,streamable-http,"Amazon search volume for up to 10,000 keywords, related keywords and reverse ASIN; 16 marketplaces."
+2026-10-31T09:50:48.499795Z,io.github.NadaHo/google-maps-reviews,Google Maps Reviews Scraper,1.0.0,,streamable-http,"Google Maps reviews of any place: stars, text, date, photos, owner reply. Links, place IDs or names."
+2026-10-31T09:51:05.483286Z,com.lvl2player/sandbox,lvl2player sandbox,0.1.0,,streamable-http,"Post a failing test; a coding agent solves it. Test money is held first, released when you accept."
+2026-10-31T09:53:59.432869Z,com.escapetheweek/public,Escape the Week,1.0.0,,streamable-http,"Plan and price Friday-to-Monday city weekends in 42 cities, then get a booking plan."
+2026-10-31T10:03:20.42225Z,com.api-cinema/showtimes,API Cinéma — movie showtimes,1.0.0,,streamable-http,"Movie showtimes for 5,000+ cinemas in France and the US: search cinemas, movies and screenings."
+2026-10-31T10:04:56.048334Z,com.vixelai/film,Vixel Film,1.0.0,https://github.com/Vixel-AI/vixel-plugins,streamable-http,"Make AI short films with your agent: script, storyboard, quoted image and video, review and export."
+2026-10-31T10:08:48.179305Z,com.thecharterdesk/yacht-charter,The Charter Desk,1.0.0,,streamable-http,"Live yacht charter inventory: 11,000+ sailboats, catamarans, motorboats, gulets and houseboats."
+2026-10-31T10:09:00.749128Z,com.youanai/social,Youanai Social,1.0.0,,streamable-http,"Plan, draft and schedule social posts in Youanai Social, grounded in your brand's Business DNA."
+2026-10-31T10:09:01.051858Z,com.youanai/docs,Youanai Docs,1.0.0,,streamable-http,"Search and read public youanai.com pages: products, pricing and guides. No sign-in needed."
+2026-10-31T10:12:53.919379Z,io.github.arthurrenardB/luseri,Luseri,1.0.0,,streamable-http,"Read-only analytics for your Shopify apps: MRR, churn, uninstall reasons, App Store rank, reviews."

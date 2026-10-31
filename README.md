@@ -9,43 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 09:19 UTC
+## Latest list — 2026-10-31 10:19 UTC
 
-New MCP servers published between 2026-10-31 08:20 UTC and 2026-10-31 09:19 UTC.
+New MCP servers published between 2026-10-31 09:19 UTC and 2026-10-31 10:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-31T09-19-59-6274Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-31T10-19-05-532164Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-31 08:22:48 | cc.brickbank/brickbank | Brickbank | 0.1.0 | Finished jobs, paid per result. One MCP address for every live tool action in t… |
-| 2026-10-31 08:24:10 | dev.workers.yuechenxi-importexport.identifier-validator-api/identifier-validator | Identifier Validator + Stablecoin Peg V… | 1.0.0 | Offline IBAN/BIC/EU VAT/card/ISBN/GTIN validators + live USD stablecoin peg-hea… |
-| 2026-10-31 08:27:26 | [io.github.itulo/eu-nordic-open-data-mcp](https://github.com/itulo/eu-nordic-open-data-mcp) | EU & Nordic Official Open-Data MCP Suite | 0.1.0 | Official EU & Finnish open data for agents: TED tenders, sanctions, VIES, ECB,… |
-| 2026-10-31 08:31:32 | [io.github.theguysaccount/charitology](https://github.com/theguysaccount/charitology) | Charitology public research | 1.0.0 | Search published charity research, nonprofit benefits and sources with review s… |
-| 2026-10-31 08:35:04 | [io.github.kikutano/tinyprobe](https://github.com/kikutano/tinyprobe) | tinyprobe | 0.20.1 | API testing in YAML: inspect, call and run endpoints and workflows, with the gu… |
-| 2026-10-31 08:39:24 | com.usewolfsms/wolfsms | WolfSMS | 1.0.0 | Let AI agents securely read the text messages on your phone. |
-| 2026-10-31 08:40:28 | [io.github.zen-studio-labs/goofish-mcp](https://github.com/zen-studio-labs/goofish-mcp) | Goofish (Xianyu) Marketplace | 0.1.0 | Goofish (Xianyu, 闲鱼) second-hand listings, item details, seller reviews, commen… |
-| 2026-10-31 08:49:21 | com.pombus/pombus | Pombus | 0.1.1 | Email boxes for AI agents. Read, draft, send and triage mail. |
-| 2026-10-31 08:49:48 | io.github.kyl3kan3/leaselineage | LeaseLineage | 2.0.0 | Read-only CRE prospects, listings, campaigns, reporting, broker search, and res… |
-| 2026-10-31 08:52:32 | [io.github.theguysaccount/impactline](https://github.com/theguysaccount/mcp-catalog) | ImpactLine public research | 1.0.0 | Search public laws and implementation evidence with sources, scope limits and d… |
-| 2026-10-31 08:52:42 | [io.github.theguysaccount/unredactus](https://github.com/theguysaccount/mcp-catalog) | Unredactus metadata research | 1.0.0 | Search public document metadata and pinned snapshot provenance, excluding passa… |
-| 2026-10-31 08:52:58 | com.textforagents/combined-server-surface-census | Combined Server-Surface Census | 1.0.0 | Combined Server-Surface Census: identity, tool contract + skill digests in one… |
-| 2026-10-31 08:53:06 | [io.github.theguysaccount/internets](https://github.com/theguysaccount/mcp-catalog) | INTERNETS.FUN room reader | 1.0.0 | Read bounded room summaries with existing room-scoped bearer tokens; no AI exec… |
-| 2026-10-31 08:53:07 | [io.github.theguysaccount/realrep](https://github.com/theguysaccount/mcp-catalog) | Democracy AI / RealRep research | 1.0.0 | Read public civic records and World Bank indicators with citations, dates and m… |
-| 2026-10-31 08:55:33 | [com.liliphant.mcp/mcp](https://github.com/walkover-mcp/liliphant) | Liliphant | 1.0.0 | Liliphant turns every meeting into connected knowledge, decisions, and actionab… |
-| 2026-10-31 08:58:52 | io.github.gheima/mcp | Gheima | 0.3.0 | Deploy and run apps, databases and storage on the Gheima platform, billed in MA… |
-| 2026-10-31 09:03:07 | [io.github.SwaDeshiTech/prodhub](https://github.com/SwaDeshiTech/prodhub-agent-kit) | ProdHub Application Delivery | 0.5.0 | Deploy and diagnose applications in governed Kubernetes Preview Spaces through… |
-| 2026-10-31 09:03:29 | [io.github.ionasrobert/tacitus-mcp-server](https://github.com/ionasrobert/tacitus-mcp-server) |  | 0.1.3 | Long-term memory for AI agents: local-first PKM with provenance and hybrid sear… |
-| 2026-10-31 09:05:41 | com.jmiszewicz/mcp | jmiszewicz - wycena i zapytania o stron… | 2.1.0 | Wycena strony internetowej, brief projektu i wyslanie zapytania do pracowni jmi… |
-| 2026-10-31 09:07:00 | com.alwa7i.bayan/bayan | Bayan — Islamic encyclopedia (Arabic) | 1.0.0 | Hadith with grades and takhrij, Qur'an verses with tafsir, narrators and articl… |
-| 2026-10-31 09:07:25 | [io.github.ArchalisRadar/archalis-radar](https://github.com/ArchalisRadar/archalis-mcp) | Archalis Radar | 1.0.0 | BNB Chain token risk ratings (AAA to C), honeypot checks and rug pull forensics… |
-| 2026-10-31 09:09:57 | com.wisemation/wisemation | Wisemation | 1.0.0 | Finds companies and people to write to, checks they fit, saves the emails your… |
-| 2026-10-31 09:10:11 | com.avenbridgetech/avenbridge | Avenbridge | 0.6.0 | Hosted MCP knowledge base: businesses forward emails and docs; buyers query the… |
-| 2026-10-31 09:15:30 | me.bestbus/bestbus | BestBus: Thailand bus times & tickets | 1.0.0 | Live intercity bus departures in Thailand, timetables and destinations, with a… |
-| 2026-10-31 09:16:59 | [io.github.Blue-B/memnest](https://github.com/Blue-B/memnest) | Memnest | 0.4.3 | Local memory for coding AIs: search past conversations and decisions from the o… |
-| 2026-10-31 09:18:36 | [io.github.neturely/okffs](https://github.com/neturely/okffs) | okffs | 0.14.0 | MCP server connecting Claude Code to GitHub for an issue to branch to PR to clo… |
-| 2026-10-31 09:19:33 | [io.usefulapi/givecloud](https://github.com/m190/usefulapi-mcp) | Givecloud MCP by usefulapi | 1.0.0 | Read supporters, contributions, recurring donations, fundraising products and f… |
-| 2026-10-31 09:19:34 | [io.usefulapi/timetap](https://github.com/m190/usefulapi-mcp) | TimeTap MCP by usefulapi | 1.0.0 | Review business details, scheduling staff, locations, services and appointment… |
-| 2026-10-31 09:19:37 | [io.github.vulinh1704/spend-guard](https://github.com/vulinh1704/spend-guard) | Spend Guard | 0.2.0 | Budgets, payee allowlists, price-spike checks and human approval for agents pay… |
+| 2026-10-31 09:22:40 | [io.github.theguysaccount/swissmote](https://github.com/theguysaccount/mcp-catalog) | Swissmote public jobs | 1.0.0 | Search published Swissmote openings with public apply links and confidentiality… |
+| 2026-10-31 09:31:04 | [io.github.FROWNINGdev/orm-lens](https://github.com/FROWNINGdev/orm-lens) | ORM Lens | 1.16.0 | Django and SQLAlchemy static analysis: models, relations, migrations, Alembic,… |
+| 2026-10-31 09:34:04 | ai.vinano/mcp | ViNano | 0.2.0 | Image generation, image editing and text/image-to-video with credit quotes and… |
+| 2026-10-31 09:35:20 | [io.usefulapi/cats-ats](https://github.com/m190/usefulapi-mcp) | CATS MCP by usefulapi | 1.1.0 | Read CATS candidates, jobs and pipelines, and make explicitly confirmed recruit… |
+| 2026-10-31 09:37:45 | [io.github.Vortiago/mcp-outline](https://github.com/Vortiago/mcp-outline) | Outline MCP Server | 1.11.0 | Connect AI assistants to Outline for document search, reading, and management |
+| 2026-10-31 09:38:56 | [io.github.afeezadebayo/google-keyword-planner](https://github.com/afeezadebayo/google-keyword-planner-mcp) | Google Keyword Planner | 1.0.0 | Keyword ideas, search volumes, CPC ranges, trends and forecasts from Google Ads… |
+| 2026-10-31 09:44:00 | io.github.NadaHo/chatgpt-search-scraper | ChatGPT Search Scraper: Answers, Citati… | 1.0.0 | ChatGPT answers with web search as JSON: citations, sources, brands and product… |
+| 2026-10-31 09:44:00 | io.github.NadaHo/ppc-competitor-keywords | PPC Competitor Keywords (SpyFu alternat… | 1.0.0 | Google Ads keywords any website buys: ad position, ad text, CPC, volume, monthl… |
+| 2026-10-31 09:44:24 | [io.github.charleswei118/web2mcp](https://github.com/charleswei118/web2mcp) | web2mcp | 0.1.0 | Zero-dependency Cloudflare Worker gateway turning websites and REST APIs into M… |
+| 2026-10-31 09:48:39 | io.github.NadaHo/ai-search-brand-visibility | AI Search Brand Visibility (ChatGPT, Ge… | 1.0.0 | Is your brand named or your site cited in ChatGPT, Gemini, Perplexity, Google A… |
+| 2026-10-31 09:50:48 | io.github.NadaHo/amazon-keyword-research | Amazon Keyword Research & Reverse ASIN… | 1.0.0 | Amazon search volume for up to 10,000 keywords, related keywords and reverse AS… |
+| 2026-10-31 09:50:48 | io.github.NadaHo/google-maps-reviews | Google Maps Reviews Scraper | 1.0.0 | Google Maps reviews of any place: stars, text, date, photos, owner reply. Links… |
+| 2026-10-31 09:51:05 | com.lvl2player/sandbox | lvl2player sandbox | 0.1.0 | Post a failing test; a coding agent solves it. Test money is held first, releas… |
+| 2026-10-31 09:53:59 | com.escapetheweek/public | Escape the Week | 1.0.0 | Plan and price Friday-to-Monday city weekends in 42 cities, then get a booking… |
+| 2026-10-31 10:03:20 | com.api-cinema/showtimes | API Cinéma — movie showtimes | 1.0.0 | Movie showtimes for 5,000+ cinemas in France and the US: search cinemas, movies… |
+| 2026-10-31 10:04:56 | [com.vixelai/film](https://github.com/Vixel-AI/vixel-plugins) | Vixel Film | 1.0.0 | Make AI short films with your agent: script, storyboard, quoted image and video… |
+| 2026-10-31 10:08:48 | com.thecharterdesk/yacht-charter | The Charter Desk | 1.0.0 | Live yacht charter inventory: 11,000+ sailboats, catamarans, motorboats, gulets… |
+| 2026-10-31 10:09:00 | com.youanai/social | Youanai Social | 1.0.0 | Plan, draft and schedule social posts in Youanai Social, grounded in your brand… |
+| 2026-10-31 10:09:01 | com.youanai/docs | Youanai Docs | 1.0.0 | Search and read public youanai.com pages: products, pricing and guides. No sign… |
+| 2026-10-31 10:12:53 | io.github.arthurrenardB/luseri | Luseri | 1.0.0 | Read-only analytics for your Shopify apps: MRR, churn, uninstall reasons, App S… |
 
 ## Data source
 
