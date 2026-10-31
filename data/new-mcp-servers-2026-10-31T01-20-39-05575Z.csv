@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-10-31T00:25:25.685859Z,io.github.CloudCorpRecords/browserdebug,,0.1.0,https://github.com/CloudCorpRecords/browserdebug,,"Debug web pages in Chrome: performance traces, network, console, snapshots, screenshots."
+2026-10-31T00:26:19.86006Z,io.github.marwanm7moud/watch-video,Watch Video,0.2.0,https://github.com/marwanm7moud/watch-video,,"Let an AI watch a video: timestamped transcript, scene-selected keyframes and exact frames. Local."
+2026-10-31T00:31:30.732408Z,io.github.fortuneflick/agentisend,AgentiSend,0.1.4,https://github.com/fortuneflick/agentisend-claude-plugin,streamable-http,"Email API for apps and AI agents: budgets per key, a kill switch, refusals that name the fix."
+2026-10-31T00:31:50.17739Z,com.hanaprism/lottery-numbers,Lottery Numbers,1.1.0,,streamable-http,"Lottery picks in any format, past draws, ticket check, and a link for numbers drawn from a sentence."
+2026-10-31T00:31:50.363884Z,com.hanaprism/fair-random,Fair Random,1.1.0,,streamable-http,"Fair, reproducible randomness for agents: dice, coins, integers, list picks, shuffles, with seeds."
+2026-10-31T00:32:40.927727Z,io.github.CloudCorpRecords/headlessstage,,0.1.0,https://github.com/CloudCorpRecords/headlessstage,,"Browser automation: navigate, click, fill, screenshot and evaluate in a headless browser."
+2026-10-31T00:35:41.278559Z,com.graunt/marketplace,Graunt,1.0.1,,streamable-http,The agent-native marketplace for AI data: search listings and read their price and rights.
+2026-10-31T00:35:53.917912Z,io.github.reactable-io/reactable,Reactable Codebase Readiness Assessments,3.7.2,,streamable-http,"Scores your code across 12 areas, with findings, fix prompts, and re-assessment in your AI agent"
+2026-10-31T00:36:26.209478Z,io.github.kristoferbc/x402-funding,,1.0.4,https://github.com/kristoferbc/x402-funding,,"Hyperliquid vs Binance perpetual funding-rate divergence, annualized, liquidity-filtered."
+2026-10-31T00:39:57.356006Z,io.github.CloudCorpRecords/browserstage,,0.1.0,https://github.com/CloudCorpRecords/browserstage,,"Automate a browser with accessibility snapshots: navigate, click, type, fill and wait."
+2026-10-31T00:42:33.914186Z,com.dronebundle/mcp,DroneBundle,1.0.0,https://github.com/DroneBundle/dronebundle-mcp,streamable-http,"Ask about your drone operation: projects, jobs, flights, pilots, maintenance and safety. Read-only."
+2026-10-31T00:47:16.708766Z,com.orsclean/ors-clean,ORS Clean — Exterior Cleaning Quotes,1.0.0,,streamable-http,"ORS Clean exterior-cleaning quotes: gutters, pressure washing, roof & more. South Bay, CA."
+2026-10-31T00:47:44.296802Z,io.github.amirghaffarianhoseini/public-research,Professor Amir Ghaffarianhoseini — Architecture Research,1.0.0,,streamable-http,"Architecture research, profile and full DOI citations for Professor Amir Ghaffarianhoseini."
+2026-10-31T00:47:58.55297Z,io.github.CloudCorpRecords/databridge-kit,,0.1.0,https://github.com/CloudCorpRecords/databridge-kit,,"Execute SQL and inspect tables, views, schemas and more on a configured database."
+2026-10-31T00:50:37.387917Z,dev.workers.agent-read-proxy.agent-read-proxy/agent-read-proxy,Agent Read Proxy,1.3.0,,streamable-http,"Read web pages and PDFs as clean Markdown for AI agents. Pay per call in USDC via x402, no API key."
+2026-10-31T00:50:46.038119Z,com.graggrobotics/agent-bazaar,Agent Bazaar,1.0.0,,streamable-http,"Search finished products and code (spreadsheets, Python automation) instead of rebuilding them."
+2026-10-31T00:51:21.670922Z,io.github.partymola/ticktick-mcp,,0.6.0,https://github.com/partymola/ticktick-mcp,,MCP server for TickTick task management: field-preserving updates and completion tracking.
+2026-10-31T00:55:09.145167Z,io.github.tlq5l/agentic-video,,0.3.2,https://github.com/tlq5l/agentic-video,,"Local video tools for AI agents: contact sheets, transcripts, cuts, loudness and sync checks."
+2026-10-31T00:58:52.490282Z,com.johalinsurancebrokers/ai-liability-insurance,AI Agent Liability Insurance,1.0.0,,streamable-http,Quote AI agent liability insurance (Tech E&O + AI coverage) from a licensed US insurance broker.
+2026-10-31T01:03:16.460199Z,io.github.navapbc/rebar,,0.14.0,https://github.com/navapbc/rebar,,"Event-sourced ticket tracker + Jira reconciler, exposed as a Python library, CLI, and MCP server."
+2026-10-31T01:04:54.362206Z,io.github.bitcoinresearchkit/bitview,Bitview,0.13.0,https://github.com/bitcoinresearchkit/mono,streamable-http,"Read-only Bitcoin blockchain, mempool, mining, market, and on-chain analytics; no API key."
+2026-10-31T01:05:57.950924Z,io.mkts/market-data,mkts Market Data,1.0.0,,streamable-http,"Stocks, ETFs, crypto, commodities, forex: quotes, fundamentals, SEC filings, point-in-time history."
+2026-10-31T01:14:44.737785Z,com.deepchampai/deepchamp-agents,DeepChamp for Agents,1.0.0,,streamable-http,Free sports slate and matchup research for AI agents over MCP and REST. Research only; 21+.

@@ -9,48 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 00:20 UTC
+## Latest list — 2026-10-31 01:20 UTC
 
-New MCP servers published between 2026-10-30 23:21 UTC and 2026-10-31 00:20 UTC.
+New MCP servers published between 2026-10-31 00:20 UTC and 2026-10-31 01:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-31T00-20-42-743762Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-31T01-20-39-05575Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-30 23:21:47 | io.github.FindDataTechnology/airegistry-tools | AI Registry tools | 0.0.1 | Provides tools to discover and list servers, agents, and skills in the AI Regis… |
-| 2026-10-30 23:21:48 | io.github.FindDataTechnology/fd-daas-mcp-cust1 |  | 0.0.1 | FindData DAAS MCP — 第二客户工作区实例（per-customer isolation witness, facet-mcp-foundat… |
-| 2026-10-30 23:21:48 | io.github.FindDataTechnology/fd-info |  | 0.0.1 | 柏讯信息流索引 MCP：list_since/get_item/search_info/locate_evidence/stream_health 五工具（公… |
-| 2026-10-30 23:21:48 | io.github.FindDataTechnology/fd-legal-search-mcp |  | 0.0.1 | 识律法律检索 MCP（lex-platform-v1）：法条检索与条级引用解析（law_db 全目录 + Qdrant law_chunks_v2 语义检索）… |
-| 2026-10-30 23:21:48 | io.github.FindDataTechnology/fd-sentiment |  | 0.0.1 | 柏讯文档情绪打分 MCP：8 工具/5 组全 commercial。evidence_spans 必填且 quote 为原文逐字子串；幂等键 (doc_id,… |
-| 2026-10-30 23:21:48 | io.github.FindDataTechnology/fd-zhengxin-reference |  | 0.0.1 | 政心参照系 MCP（lex 第四模块）：政体指标时序（V-Dem v2x_* 聚合指数，国家×年，附口径与 provenance）、思潮坐标（Wikidata… |
-| 2026-10-30 23:21:48 | io.github.FindDataTechnology/lex-ops-mcp |  | 0.0.1 | 识律线操作 MCP（C4）：线全景导览（self-describing）+账户视图（me/usage/billing/quota）+检索凭据生命周期（list… |
-| 2026-10-30 23:21:48 | io.github.FindDataTechnology/vaas-wanxing |  | 0.0.1 | VAAS generation plane (Wanxing pilot): voice/image/video/cover generation, asse… |
-| 2026-10-30 23:22:28 | [io.github.blowhorn-ai/blowhorn](https://github.com/blowhorn-ai/blowhorn-mcp) | Blowhorn | 0.1.1 | Blowhorn's local MCP server on your Mac: every Blowhorn command as a tool, dry… |
-| 2026-10-30 23:22:52 | dev.ploa/ploa | Ploa | 0.1.0 | Take an Expo app to the App Store and Google Play: builds, testers, store pages… |
-| 2026-10-30 23:22:59 | io.github.alexanderjacobsen/partwright | Partwright | 1.0.2 | Describe a replacement or custom plastic part in chat, preview it in 3D, and or… |
-| 2026-10-30 23:23:30 | app.moflow/mcp | Moflow | 1.0.0 | Net worth tracker: ask your AI what you're worth, or tell it what to update. |
-| 2026-10-30 23:31:14 | [io.github.Carmel-Labs-Inc/mcp-index](https://github.com/Carmel-Labs-Inc/agentstatus-mcp-index) | AgentStatus MCP Index | 1.0.0 | Live public MCP Index. Search, recommend, and call healthy MCP servers. |
-| 2026-10-30 23:36:20 | io.github.sadri-dridi/wake-site-readiness | Wake site readiness | 1.0.0 | How an AI agent sees a public website: robots, llms.txt, sitemap, agent card, s… |
-| 2026-10-30 23:36:21 | [io.github.CloudCorpRecords/streetmap-port](https://github.com/CloudCorpRecords/streetmap-port) |  | 0.1.0 | Geocode, reverse geocode and find nearby places with the public OpenStreetMap A… |
-| 2026-10-30 23:42:53 | [io.github.ottonic/review-mcp-server](https://github.com/ottonic/review-mcp-server) | Ottorev — Review MCP Server | 0.2.1 | Durable review context for CAD: entity names, notes, tags, and revision-bound d… |
-| 2026-10-30 23:43:18 | [io.github.ottonic/simulation-mcp-server](https://github.com/ottonic/simulation-mcp-server) | Ottosim — Simulation MCP Server | 0.2.0 | Thermal, structural, modal, DC, and laminar-flow studies from STEP via Gmsh and… |
-| 2026-10-30 23:48:03 | [energy.maci/mcp](https://github.com/Maci-Intelligence/developers) | Maci | 1.0.0 | Read refrigeration units, service history, F-gas logs and alarms in Maci. Read… |
-| 2026-10-30 23:48:10 | [io.github.ottonic/cad-mcp-server](https://github.com/ottonic/cad-mcp-server) | Ottogeo — CAD MCP Server | 0.9.0 | Measure STEP CAD files with your AI assistant: walls, clearances, draft, and re… |
-| 2026-10-30 23:52:04 | [io.github.ottonic/standards-mcp-server](https://github.com/ottonic/standards-mcp-server) | Ottoref — Standards MCP Server | 0.2.0 | ISO 286 limits and fits, ISO 2768 tolerances, material properties, and process… |
-| 2026-10-30 23:53:56 | com.jobsitecerts/safety-reference | Jobsite Safety Reference (free) | 1.0.0 | Free, no-login construction safety tools: OSHA rule text, toolbox talks, 1904 r… |
-| 2026-10-30 23:53:56 | com.jobsitecerts/jobsite | Jobsite | 1.0.0 | Construction safety, training compliance and operations for your company (OAuth… |
-| 2026-10-30 23:58:18 | [io.github.groundtruthtools/ats-jobs-mcp](https://github.com/groundtruthtools/ats-jobs-mcp) | Company Facts | 1.2.0 | Company data from official sources: new US businesses, registers, tech stack, o… |
-| 2026-10-30 23:58:50 | io.trilly/trilly | Trilly | 1.0.0 | Find, add and use AI skills from Trilly, the marketplace for AI skills, in your… |
-| 2026-10-30 23:59:16 | io.github.norimaki1219-cmyk/eda | EDA（枝） | 0.5.0 | 困りごとの原因・解決策・やってみた結果を枝でたどる知識マップ（日本語）。検索・投稿・反応ができる |
-| 2026-10-30 23:59:47 | [dev.companyfacts/company-data](https://github.com/groundtruthtools/ats-jobs-mcp) | Company Facts | 1.0.0 | Company data from official sources: new US businesses, registers, tech stack, o… |
-| 2026-10-31 00:02:18 | [ai.theskillvault/skills](https://github.com/DANEvolution2/theskillvault-mcp) | TheSkillVault | 1.0.0 | Search and fetch vibe-coding Agent Skills (SKILL.md files) and prompts from The… |
-| 2026-10-31 00:02:37 | [com.blooio/mcp](https://github.com/Blooio/blooio-mcp) | Blooio | 4.1.0 | Send and receive iMessage, SMS, RCS, and WhatsApp, and manage contacts, chats,… |
-| 2026-10-31 00:03:01 | [com.artifactsend/mcp](https://github.com/artifactsend/skills) | ArtifactSend | 1.0.0 | Share docs, decks, HTML and Claude artifacts as tracked links and data rooms. S… |
-| 2026-10-31 00:06:31 | [io.github.shichuanqiong/swarmdm](https://github.com/shichuanqiong/AgoraDM) |  | 0.9.0 | SwarmDM (formerly AgoraDM): DMs, friends, groups and files between AI agents. |
-| 2026-10-31 00:07:41 | [io.github.CloudCorpRecords/termmux](https://github.com/CloudCorpRecords/termmux) |  | 0.1.0 | Drive local tmux sessions, windows and panes: list, create, send keys, capture… |
-| 2026-10-31 00:13:39 | [io.github.offense-research/offense](https://github.com/offense-research/offense) | Offense | 0.7.0 | Security tools for coding agents: dependency advisory audits and evidence for r… |
-| 2026-10-31 00:15:15 | solutions.dap/foundry | DAP Foundry | 1.0.0 | Tools that refuse rather than guess: settlement day counts, Unix timestamps, ba… |
-| 2026-10-31 00:18:29 | [io.github.CloudCorpRecords/deskcommand](https://github.com/CloudCorpRecords/deskcommand) |  | 0.1.0 | Run terminal processes, edit files and search code on the local machine from an… |
+| 2026-10-31 00:25:25 | [io.github.CloudCorpRecords/browserdebug](https://github.com/CloudCorpRecords/browserdebug) |  | 0.1.0 | Debug web pages in Chrome: performance traces, network, console, snapshots, scr… |
+| 2026-10-31 00:26:19 | [io.github.marwanm7moud/watch-video](https://github.com/marwanm7moud/watch-video) | Watch Video | 0.2.0 | Let an AI watch a video: timestamped transcript, scene-selected keyframes and e… |
+| 2026-10-31 00:31:30 | [io.github.fortuneflick/agentisend](https://github.com/fortuneflick/agentisend-claude-plugin) | AgentiSend | 0.1.4 | Email API for apps and AI agents: budgets per key, a kill switch, refusals that… |
+| 2026-10-31 00:31:50 | com.hanaprism/lottery-numbers | Lottery Numbers | 1.1.0 | Lottery picks in any format, past draws, ticket check, and a link for numbers d… |
+| 2026-10-31 00:31:50 | com.hanaprism/fair-random | Fair Random | 1.1.0 | Fair, reproducible randomness for agents: dice, coins, integers, list picks, sh… |
+| 2026-10-31 00:32:40 | [io.github.CloudCorpRecords/headlessstage](https://github.com/CloudCorpRecords/headlessstage) |  | 0.1.0 | Browser automation: navigate, click, fill, screenshot and evaluate in a headles… |
+| 2026-10-31 00:35:41 | com.graunt/marketplace | Graunt | 1.0.1 | The agent-native marketplace for AI data: search listings and read their price… |
+| 2026-10-31 00:35:53 | io.github.reactable-io/reactable | Reactable Codebase Readiness Assessments | 3.7.2 | Scores your code across 12 areas, with findings, fix prompts, and re-assessment… |
+| 2026-10-31 00:36:26 | [io.github.kristoferbc/x402-funding](https://github.com/kristoferbc/x402-funding) |  | 1.0.4 | Hyperliquid vs Binance perpetual funding-rate divergence, annualized, liquidity… |
+| 2026-10-31 00:39:57 | [io.github.CloudCorpRecords/browserstage](https://github.com/CloudCorpRecords/browserstage) |  | 0.1.0 | Automate a browser with accessibility snapshots: navigate, click, type, fill an… |
+| 2026-10-31 00:42:33 | [com.dronebundle/mcp](https://github.com/DroneBundle/dronebundle-mcp) | DroneBundle | 1.0.0 | Ask about your drone operation: projects, jobs, flights, pilots, maintenance an… |
+| 2026-10-31 00:47:16 | com.orsclean/ors-clean | ORS Clean — Exterior Cleaning Quotes | 1.0.0 | ORS Clean exterior-cleaning quotes: gutters, pressure washing, roof & more. Sou… |
+| 2026-10-31 00:47:44 | io.github.amirghaffarianhoseini/public-research | Professor Amir Ghaffarianhoseini — Arch… | 1.0.0 | Architecture research, profile and full DOI citations for Professor Amir Ghaffa… |
+| 2026-10-31 00:47:58 | [io.github.CloudCorpRecords/databridge-kit](https://github.com/CloudCorpRecords/databridge-kit) |  | 0.1.0 | Execute SQL and inspect tables, views, schemas and more on a configured databas… |
+| 2026-10-31 00:50:37 | dev.workers.agent-read-proxy.agent-read-proxy/agent-read-proxy | Agent Read Proxy | 1.3.0 | Read web pages and PDFs as clean Markdown for AI agents. Pay per call in USDC v… |
+| 2026-10-31 00:50:46 | com.graggrobotics/agent-bazaar | Agent Bazaar | 1.0.0 | Search finished products and code (spreadsheets, Python automation) instead of… |
+| 2026-10-31 00:51:21 | [io.github.partymola/ticktick-mcp](https://github.com/partymola/ticktick-mcp) |  | 0.6.0 | MCP server for TickTick task management: field-preserving updates and completio… |
+| 2026-10-31 00:55:09 | [io.github.tlq5l/agentic-video](https://github.com/tlq5l/agentic-video) |  | 0.3.2 | Local video tools for AI agents: contact sheets, transcripts, cuts, loudness an… |
+| 2026-10-31 00:58:52 | com.johalinsurancebrokers/ai-liability-insurance | AI Agent Liability Insurance | 1.0.0 | Quote AI agent liability insurance (Tech E&O + AI coverage) from a licensed US… |
+| 2026-10-31 01:03:16 | [io.github.navapbc/rebar](https://github.com/navapbc/rebar) |  | 0.14.0 | Event-sourced ticket tracker + Jira reconciler, exposed as a Python library, CL… |
+| 2026-10-31 01:04:54 | [io.github.bitcoinresearchkit/bitview](https://github.com/bitcoinresearchkit/mono) | Bitview | 0.13.0 | Read-only Bitcoin blockchain, mempool, mining, market, and on-chain analytics;… |
+| 2026-10-31 01:05:57 | io.mkts/market-data | mkts Market Data | 1.0.0 | Stocks, ETFs, crypto, commodities, forex: quotes, fundamentals, SEC filings, po… |
+| 2026-10-31 01:14:44 | com.deepchampai/deepchamp-agents | DeepChamp for Agents | 1.0.0 | Free sports slate and matchup research for AI agents over MCP and REST. Researc… |
 
 ## Data source
 
