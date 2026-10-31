@@ -9,40 +9,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 04:19 UTC
+## Latest list — 2026-10-31 05:20 UTC
 
-New MCP servers published between 2026-10-31 03:19 UTC and 2026-10-31 04:19 UTC.
+New MCP servers published between 2026-10-31 04:19 UTC and 2026-10-31 05:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-31T04-19-33-560405Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-31T05-20-27-9725Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-31 03:21:06 | [io.github.jangtrinh/design-os-3d-blender](https://github.com/jangtrinh/design-os-3d-blender) | design-os-3d-blender | 0.2.0 | Free MCP server for native Blender 5.2 modeling, rendering and verification. |
-| 2026-10-31 03:22:03 | io.github.PressoNetwork/presso-events | Presso Events | 2026.1031.0 | Run ticketed events from your AI assistant: create events, sell tickets via Str… |
-| 2026-10-31 03:23:34 | uk.co.marknetic.finder/cartographer | x402 Cartographer | 0.2.0 | Ranks live x402 endpoints and Apify actors for a task. Pay-per-call in USDC on… |
-| 2026-10-31 03:24:31 | gg.atropos/advisor | Atropos Advisor | 0.3.0 | Survivor pool picks from the Atropos engine: WIN %, PICK %, EV and FATE on live… |
-| 2026-10-31 03:27:18 | [io.usefulapi/recipal](https://github.com/m190/usefulapi-mcp) | ReciPal MCP by usefulapi | 1.1.0 | Read recipes, nutrition and inventory, manage ingredients and costs, and render… |
-| 2026-10-31 03:30:42 | com.openlaborproject/auto-repair | Open Labor Project - Auto Repair Data | 1.0.0 | Labor times, torque specs, fluid capacities, DTC codes and battery specs for ve… |
-| 2026-10-31 03:31:10 | [io.github.CloudCorpRecords/researchsearch](https://github.com/CloudCorpRecords/researchsearch) |  | 0.1.0 | Web search, page extraction, crawling, and site mapping powered by the Tavily A… |
-| 2026-10-31 03:33:16 | [io.github.ArasanDev/yt](https://github.com/ArasanDev/yt) | yt | 0.1.0 | YouTube transcripts, transcript search, and channel monitoring for agents. |
-| 2026-10-31 03:36:08 | ai.lightray/lightray | LightRay | 1.0.0 | Who owns and runs a company, and the questions to ask before you deal with it. |
-| 2026-10-31 03:39:11 | [io.github.itsflaid/devmap](https://github.com/itsflaid/devmap) |  | 0.9.0 | Query a codebase map (routes, features, flows, impact) built by static analysis. |
-| 2026-10-31 03:39:48 | com.getspacepal/spacepal | Spacepal | 0.1.0 | List, switch and rename macOS Spaces and move windows between them. Needs the S… |
-| 2026-10-31 03:42:58 | [io.github.donofdebt/ouncescout](https://github.com/deepxsquare/ouncescout) | OunceScout | 1.0.0 | Live bullion price comparison: spot prices and dealer offers across 24 verified… |
-| 2026-10-31 03:43:58 | dev.minima/mcp | Minima | 1.0.0 | Search, write, check, export and share the patches, skills and files in your Mi… |
-| 2026-10-31 03:45:09 | [com.leadmarina/leadmarina](https://github.com/macgregordev/leadmarina-mcp) | LeadMarina | 1.3.0 | Verified local-business leads: search by niche and US city, export to Close, Go… |
-| 2026-10-31 03:49:23 | io.github.gcarrenos/planvoyager | PlanVoyager | 1.0.0 | Compare ACA health plans by real yearly cost, with tax credits, doctors and dru… |
-| 2026-10-31 03:50:59 | [io.github.sw23/fp-conv-mcp](https://github.com/sw23/fp-conv) | fp-conv | 1.5.1 | Encode, decode, and convert numbers across FP32, FP16, BF16, TF32, FP8/6/4, and… |
-| 2026-10-31 03:55:42 | [io.usefulapi/aryeo](https://github.com/m190/usefulapi-mcp) | Aryeo MCP by usefulapi | 1.1.0 | Manage real-estate media orders, appointments, listings, customers and tasks in… |
-| 2026-10-31 03:57:57 | ca.mescolis/shipping | MesColis Shipping | 1.0.0 | Track parcels, get live shipping quotes and find drop-off points in Canada. FR/… |
-| 2026-10-31 03:57:57 | ca.mescolis/shipsmarter | ShipSmarter Shipping | 1.0.0 | Track parcels, compare live carrier rates and find drop-off points for online s… |
-| 2026-10-31 04:01:46 | [io.usefulapi/jisr](https://github.com/m190/usefulapi-mcp) | Jisr MCP by usefulapi | 1.1.0 | Read employees, attendance, leave and payroll; create employee records and impo… |
-| 2026-10-31 04:02:57 | [io.github.writerslogic/warm-mcp](https://github.com/writerslogic/warm) | WARM | 0.1.5 | Local persistent memory for AI agents with recall, search, forgetting, and encr… |
-| 2026-10-31 04:06:38 | com.siilostomy/store | SIIL Ostomy Store | 1.1.0 | Shop SIIL clothing: discover products and sizes, then open a secure SIIL checko… |
-| 2026-10-31 04:07:08 | [com.truevaluerankings/tvr-mcp](https://github.com/TrueValueRankings/tvr-mcp-server) | True Value Rankings | 2.6.2 | Cryptocurrency fundamentals for agents: TVR Scores, rankings and model-derived… |
-| 2026-10-31 04:08:04 | [io.usefulapi/feegow](https://github.com/m190/usefulapi-mcp) | Feegow MCP by usefulapi | 1.1.0 | Read clinic appointments, patients and finances; manage bookings and patient re… |
-| 2026-10-31 04:11:36 | agency.thirdhemisphere/ai-authority-index | Third Hemisphere AI Authority Index | 1.0.0 | Read-only CRISP scores and AI visibility data from Third Hemisphere's AI Author… |
-| 2026-10-31 04:13:12 | ai.n3tz/atlas | n3tz Atlas | 0.1.2 | Governed company knowledge over MCP. Synthetic read-only demo; customer Atlas b… |
+| 2026-10-31 04:20:08 | com.podgist/podgist | Podgist | 1.0.0 | Search and ask 236,000+ podcast transcripts; answers cite the episode and minut… |
+| 2026-10-31 04:20:42 | [ai.nabit/nabit](https://github.com/Crimson-Pass/nabit-codex-plugin) | Nabit Video Recommendations | 0.5.4 | Product-first short-form video hook matching, opening analysis, trend tracking,… |
+| 2026-10-31 04:21:26 | io.github.LusoCryptoLabs/cellula | cellula.id | 0.4.0 | Resolve and check .cell names on Nervos, verify what a name signed, pay over Fi… |
+| 2026-10-31 04:22:53 | [io.github.atzzCokeK/kintai-plus-mcp](https://github.com/atzzCokeK/kintai-plus-mcp) | Kintai Plus (unofficial) | 0.1.0 | Unofficial MCP server for Money Forward Cloud Kintai Plus (AKASHI): punches, re… |
+| 2026-10-31 04:24:23 | [com.mapflyover/mapflyover](https://github.com/alihassan1437/mapflyover-mcp) | Mapflyover | 1.0.0 | Create 3D map flyover videos with an AI agent: script, narration, captions and… |
+| 2026-10-31 04:25:09 | com.doucebeads/image-to-beads | Doucebeads · Image to Bead Pattern | 1.0.0 | Convert PNG/JPEG into fuse-bead charts with MARD codes, PNG, CSV and an editabl… |
+| 2026-10-31 04:25:42 | [io.usefulapi/stamped](https://github.com/m190/usefulapi-mcp) | Stamped MCP by usefulapi | 1.1.0 | Read Stamped Loyalty 2.0 customers, products, orders, rewards and activity. |
+| 2026-10-31 04:29:20 | [io.usefulapi/channable](https://github.com/m190/usefulapi-mcp) | Channable MCP by usefulapi | 1.1.0 | Read marketplace orders and returns; send shipment, cancellation and stock upda… |
+| 2026-10-31 04:31:14 | [io.github.Data-Forger/polymarket-kalshi](https://github.com/Data-Forger/polymarket-kalshi-mcp) | Polymarket vs Kalshi | 1.0.0 | Same market on Polymarket and Kalshi: both prices, the gap, edge, alerts and hi… |
+| 2026-10-31 04:32:18 | [io.github.Data-Forger/jobs-data](https://github.com/Data-Forger/jobs-data-mcp) | Jobs & Hiring Data | 1.0.0 | 1.2M+ jobs from employer career sites, salary benchmarks and company hiring sig… |
+| 2026-10-31 04:36:59 | [io.usefulapi/deconetwork](https://github.com/m190/usefulapi-mcp) | DecoNetwork MCP by usefulapi | 1.1.0 | Read production orders, mark orders produced or shipped, and add internal notes. |
+| 2026-10-31 04:39:45 | dev.checkmx/checkmx | CheckMX | 0.1.0 | Verify emails and review cold email campaigns, mailboxes, replies and deliverab… |
+| 2026-10-31 04:43:33 | [io.github.feenmile/quotecheck](https://github.com/feenmile/quotecheck) | quotecheck | 0.1.1 | Check that a quoted passage appears word for word in its cited source (URL, DOI… |
+| 2026-10-31 04:48:00 | [io.usefulapi/e-courier](https://github.com/m190/usefulapi-mcp) | e-Courier MCP by usefulapi | 1.1.0 | Read delivery orders, quotes, customers, drivers, manifests, invoices and payme… |
+| 2026-10-31 04:50:48 | com.ierhub/license-lookup | IERhub Texas electrician license lookup | 1.0.0 | Look up Texas electrician licenses, renewal rules, TDLR forms and IERhub contin… |
+| 2026-10-31 04:51:10 | [io.whereabot/whereabot](https://github.com/whereabot/whereabot) | Whereabot | 0.1.0 | Ask the user's phone where they are now. The phone answers each request with co… |
+| 2026-10-31 04:52:26 | [io.github.roleworthylabs/layiq-jobs](https://github.com/roleworthylabs/layiq-mcp) | LAYIQ Jobs | 1.0.0 | Find public job listings and explore roles from LAYIQ. Read-only; no account or… |
+| 2026-10-31 04:54:50 | [com.zipirapp/zipir](https://github.com/Bitcomethub/zipir) |  | 0.1.3 | Turn a document into a source-cited video lesson from any MCP client. |
+| 2026-10-31 04:56:21 | com.bullionpricecheck/bullion-price-check | Bullion Price Check | 1.0.0 | Live gold/silver spot, lowest US dealer prices, and melt, scrap, premium and tr… |
+| 2026-10-31 04:56:46 | [io.usefulapi/talenthr](https://github.com/m190/usefulapi-mcp) | TalentHR MCP by usefulapi | 1.1.0 | Read employees, leave, recruiting and reports; book or decide leave and add app… |
+| 2026-10-31 04:58:57 | de.vorsorge-regeln/vorsorge-regeln | Vorsorge-Regeln | 1.0.0 | German estate planning: notary fees, inheritance shares, sourced facts, free em… |
+| 2026-10-31 05:03:53 | [io.github.cyligence-karim/killerskills](https://github.com/cyligence-karim/killerskills) | KillerSkills | 0.7.1 | Security verdicts for agent skills and MCP servers, from sandbox runs, before y… |
+| 2026-10-31 05:06:47 | dev.workers.deanhiki.krtools/korean-tools | KRTools Korean Utilities | 1.0.0 | Korean name/text romanization, Korean address to English, business number (BRN)… |
+| 2026-10-31 05:10:40 | com.drawstoday/lottery-numbers | Lottery Numbers | 1.1.0 | Lottery picks in any format, past draws, ticket check, and a link for numbers d… |
+| 2026-10-31 05:10:41 | com.drawstoday/fair-random | Fair Random | 1.1.0 | Fair, reproducible randomness for agents: dice, coins, integers, list picks, sh… |
+| 2026-10-31 05:11:07 | dev.corenna/mcp | Corenna | 1.0.0 | Build signed Android (APK/AAB) and iOS (IPA) apps from a GitHub repo, from your… |
 
 ## Data source
 
