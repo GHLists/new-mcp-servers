@@ -1,0 +1,51 @@
+created_at,server,title,version,repository,transports,description
+2026-10-31T14:19:41.132094Z,io.github.CloudCorpRecords/answersearch,,0.1.0,https://github.com/CloudCorpRecords/answersearch,,"Perplexity answers: ask, search, reason, and deep research through the Sonar API."
+2026-10-31T14:19:41.441129Z,com.lookmybio/public,lookmybio,1.0.0,,streamable-http,"Look up creators on lookmybio: public bio pages, their links and published blog posts."
+2026-10-31T14:25:53.342889Z,dev.advancelabs/aeo-search,AEO Search,1.0.0,https://github.com/Advance-Labs/aeo-toolkit,streamable-http,"Google Search Console, GA4 and Bing Webmaster data for SEO and AI-search work. 19 read-only tools."
+2026-10-31T14:25:53.597394Z,dev.advancelabs/aeo-visibility,AEO Visibility,1.0.0,https://github.com/Advance-Labs/aeo-toolkit,streamable-http,"Check whether AI answer engines cite your site, and for which prompts. Uses your own Perplexity key."
+2026-10-31T14:25:53.827651Z,dev.advancelabs/aeo-backlink,AEO Backlink,1.0.0,https://github.com/Advance-Labs/aeo-toolkit,streamable-http,"Find brand mentions, link prospects and competitor link sources, and draft outreach. Read-only."
+2026-10-31T14:26:22.709689Z,io.github.sevalla/mcp,Sevalla,2.0.0,https://github.com/sevalla/mcp,streamable-http,"Official Sevalla MCP: deploy, debug and manage apps, static sites and databases."
+2026-10-31T14:26:59.77807Z,com.appgazers/appgazers,AppGazers,1.0.0,,streamable-http,"App Store and Google Play revenue and download estimates, keywords, reviews, rankings and ads."
+2026-10-31T14:31:54.637521Z,io.github.CloudCorpRecords/crawlport,,0.1.0,https://github.com/CloudCorpRecords/crawlport,,"Firecrawl web data: scrape, map, search, crawl, extract, research, and llms.txt."
+2026-10-31T14:33:22.455052Z,io.github.ZIZKA-AI-SL/zizkadb-mcp,ZizkaDB,0.1.12,https://github.com/ZIZKA-AI-SL/ZizkaDB,,"Causal memory and tamper-evident audit log for AI agents: log, why, search, time travel."
+2026-10-31T14:33:37.616949Z,io.github.midnight232/crypto-pulse,Crypto Pulse,0.3.2,https://github.com/midnight232/crypto-pulse-api,streamable-http,One call: spots+F&G+funding+DefiLlama+summary for agents. Free sample; x402 USDC on Solana.
+2026-10-31T14:35:40.250355Z,io.github.davidscotttufts/tracegate-ci,Tracegate CI,0.9.1,https://github.com/davidscotttufts/tracegate-ci,,"Local CI broker and test-impact ledger for coding agents: queue, lane modes and red-run packets."
+2026-10-31T14:36:59.417745Z,market.populardemand/popular-demand,Popular Demand,0.4.0,,streamable-http,"Save and maintain private, non-binding purchase Requests and read Offers for the people you help."
+2026-10-31T14:39:11.664559Z,io.usefulapi/universe,Universe MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read events, ticket types, orders, attendees and daily ticket sales in Universe."
+2026-10-31T14:39:48.492676Z,app.gotsol/gotsol,GotSOL.app,0.1.0,,streamable-http,"USDC wallets, payment links and x402 payments on Solana for AI agents."
+2026-10-31T14:44:04.030026Z,io.github.6mickswagger9/x402-scan-mcp,x402-scan-mcp,0.0.6,https://github.com/6mickswagger9/x402-scan-mcp,,x402 paid API for AI agents. USDC on Base. CDP facilitator.
+2026-10-31T14:44:35.521061Z,io.github.6mickswagger9/x402-risk-mcp,x402-risk-mcp,1.0.4,https://github.com/6mickswagger9/x402-risk-mcp,,x402 paid API for AI agents. USDC on Base. CDP facilitator.
+2026-10-31T14:44:38.779217Z,io.github.6mickswagger9/agent-sec-scan,agent-sec-scan,0.0.4,https://github.com/6mickswagger9/agent-sec-scan,,x402 paid API for AI agents. USDC on Base. CDP facilitator.
+2026-10-31T14:44:42.17663Z,io.github.6mickswagger9/compute-api-mcp,compute-api-mcp,1.0.5,https://github.com/6mickswagger9/compute-api-mcp,,x402 paid API for AI agents. USDC on Base. CDP facilitator.
+2026-10-31T14:44:48.96853Z,io.github.6mickswagger9/x402-vuln,x402-vuln,0.0.3,https://github.com/6mickswagger9/x402-vuln,,x402 paid API for AI agents. USDC on Base. CDP facilitator.
+2026-10-31T14:44:52.287018Z,io.github.6mickswagger9/x402-sec-scan,x402-sec-scan,0.0.3,https://github.com/6mickswagger9/x402-sec-scan,,x402 paid API for AI agents. USDC on Base. CDP facilitator.
+2026-10-31T14:44:55.533528Z,io.github.6mickswagger9/x402-webhook-mcp,x402-webhook-mcp,1.0.1,https://github.com/6mickswagger9/x402-webhook-mcp,,x402 paid API for AI agents. USDC on Base. CDP facilitator.
+2026-10-31T14:44:58.790113Z,io.github.6mickswagger9/url-intel-mcp,url-intel-mcp,1.0.1,https://github.com/6mickswagger9/url-intel-mcp,,x402 paid API for AI agents. USDC on Base. CDP facilitator.
+2026-10-31T14:45:02.041489Z,io.github.6mickswagger9/llm-toll-mcp,llm-toll-mcp,1.0.9,https://github.com/6mickswagger9/llm-toll-mcp,,x402 paid API for AI agents. USDC on Base. CDP facilitator.
+2026-10-31T14:45:05.29307Z,io.github.6mickswagger9/x402-translate-mcp,x402-translate-mcp,1.0.1,https://github.com/6mickswagger9/x402-translate-mcp,,x402 paid API for AI agents. USDC on Base. CDP facilitator.
+2026-10-31T14:45:08.540428Z,io.github.6mickswagger9/x402-screenshot-mcp,x402-screenshot-mcp,1.0.1,https://github.com/6mickswagger9/x402-screenshot-mcp,,x402 paid API for AI agents. USDC on Base. CDP facilitator.
+2026-10-31T14:45:11.784987Z,io.github.6mickswagger9/x402-scrape-mcp,x402-scrape-mcp,1.0.1,https://github.com/6mickswagger9/x402-scrape-mcp,,x402 paid API for AI agents. USDC on Base. CDP facilitator.
+2026-10-31T14:45:15.037149Z,io.github.6mickswagger9/x402-image-mcp,x402-image-mcp,1.0.1,https://github.com/6mickswagger9/x402-image-mcp,,x402 paid API for AI agents. USDC on Base. CDP facilitator.
+2026-10-31T14:45:18.274254Z,io.github.6mickswagger9/x402-scan-audit,x402-scan-audit,0.0.3,https://github.com/6mickswagger9/x402-scan-audit,,x402 paid API for AI agents. USDC on Base. CDP facilitator.
+2026-10-31T14:45:21.666919Z,io.github.6mickswagger9/x402-escrow-mcp,x402-escrow-mcp,1.0.1,https://github.com/6mickswagger9/x402-escrow-mcp,,x402 paid API for AI agents. USDC on Base. CDP facilitator.
+2026-10-31T14:45:24.915363Z,io.github.6mickswagger9/x402-code-mcp,x402-code-mcp,1.0.1,https://github.com/6mickswagger9/x402-code-mcp,,x402 paid API for AI agents. USDC on Base. CDP facilitator.
+2026-10-31T14:50:06.938189Z,cz.bydleno/prodeje,Bydleno – prodej bytů,1.0.0,,streamable-http,"Search Czech flats for sale from 19 portals, merged into one offer per flat."
+2026-10-31T14:54:59.902592Z,md.layers/workspace,Layers — workspace for AI agents,2.38.3,,streamable-http,"Layers workspace for agents: tasks, pages, projects, forms and Drive, with your account's rights."
+2026-10-31T14:55:40.857022Z,io.github.CloudCorpRecords/repowiki,,0.1.0,https://github.com/CloudCorpRecords/repowiki,,Read DeepWiki repository wikis and ask questions about public GitHub repos.
+2026-10-31T14:56:27.486059Z,com.swishrjobs/swishrjobs,SwishrJobs,1.0.0,https://github.com/Mahmoudaly187/swishrjobs,streamable-http,Deterministic digital jobs with independently verified deliverables.
+2026-10-31T14:59:50.159466Z,fr.mitoyens/pesticides,"Mitoyens, pesticides près de chez vous",1.1.0,,streamable-http,"Pesticides par commune en France : eau du robinet, écoles près des champs, achats, carte."
+2026-10-31T15:00:48.540719Z,io.github.Tifdt/port402-memory,Port 402 Memory,1.0.0,https://github.com/Tifdt/port402-memory-mcp,,"Persistent memory for AI agents, paid per call in USDC on Base (x402). No account, no API key."
+2026-10-31T15:02:50.372237Z,io.usefulapi/stiply,Stiply MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read sign requests and signers; send, remind, extend and cancel sign requests in Stiply."
+2026-10-31T15:02:50.378391Z,io.usefulapi/timetac,TimeTac MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read hours, absences and projects; start timers, add entries, approve leave in TimeTac."
+2026-10-31T15:02:50.378832Z,io.usefulapi/gorelo,Gorelo MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read tickets, devices, alerts and invoices; create tickets, add comments, log time in Gorelo."
+2026-10-31T15:02:50.387926Z,io.usefulapi/locate2u,Locate2u MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read stops, orders, trips and ratings; add notes to stops and shipments in Locate2u."
+2026-10-31T15:02:50.867345Z,io.usefulapi/otter-waiver,Otter Waiver MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read waivers, signed participants and check-ins in Otter Waiver."
+2026-10-31T15:02:50.982953Z,io.usefulapi/twice-commerce,Twice Commerce MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read orders, customers, catalog, stock and availability; add order comments in Twice Commerce."
+2026-10-31T15:02:50.993358Z,io.usefulapi/moego,MoeGo MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read customers, pets, appointments, orders and reports; add customer notes in MoeGo."
+2026-10-31T15:02:51.013854Z,io.usefulapi/craftboxx,Craftboxx MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read employees, assignments, timesheets and absences; create customers and projects in Craftboxx."
+2026-10-31T15:02:51.477176Z,io.usefulapi/traffit,Traffit MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read candidates, jobs, stages and clients; add notes to candidates in Traffit."
+2026-10-31T15:03:38.244994Z,io.github.osbytes/reelsaw,Reelsaw,0.29.1,https://github.com/osbytes/reelsaw,,"Drive a self-hosted Reelsaw: turn long videos into vertical clips, edit, re-render and export them."
+2026-10-31T15:04:19.056694Z,com.workoutsmart/workoutsmart,WorkoutSmart,1.0.0,,streamable-http,"Periodized strength training by a Coach of the Year, from your assistant."
+2026-10-31T15:04:28.200326Z,site.jigwell/jigwell,,0.11.1,,streamable-http,"Pay-per-call tools for AI assistants: code, data, finance, spreadsheets, media, web, time."
+2026-10-31T15:05:56.467406Z,io.github.CloudCorpRecords/clouddocs,,0.1.0,https://github.com/CloudCorpRecords/clouddocs,,"Search, read, and get recommendations for AWS documentation pages."
+2026-10-31T15:15:59.258462Z,io.github.CloudCorpRecords/mapport,,0.1.0,https://github.com/CloudCorpRecords/mapport,,"Geocoding, places, directions, distance, and elevation through Google Maps."
