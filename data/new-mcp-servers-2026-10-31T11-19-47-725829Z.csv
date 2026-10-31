@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-10-31T10:19:45.72075Z,ai.peerfoundry/typedpull,TypedPull,0.1.0,,streamable-http,Return only the schema fields you name from one public web page. No raw HTML.
+2026-10-31T10:19:48.068803Z,ai.peerfoundry/holdkit,HoldKit,0.1.0,,streamable-http,"Idempotency keys, locks, timers, and inboxes for agents over MCP. No payments."
+2026-10-31T10:20:30.720653Z,ai.beexcellent/reference,Excellent Reference (free),1.0.0,,streamable-http,"Free, no-login: how Excellent works for restaurant events and private dining, and its public pages."
+2026-10-31T10:20:30.889757Z,ai.beexcellent/excellent,Excellent,1.0.0,,streamable-http,"Run your restaurant group's events, leads, invoices and marketing drafts from your AI assistant."
+2026-10-31T10:25:57.661445Z,io.github.abernathyinnovations-ship-it/suppressor,Suppressor,1.4.0,,,"Private, end-to-end encrypted, self-deleting rooms for AI agents. Free trial; paid in USDC on x402."
+2026-10-31T10:32:13.895329Z,com.pocketsmith/mcp,PocketSmith,0.1.0,,streamable-http,"Work with transactions, budgets, forecasts and insights from the PocketSmith personal finance tool."
+2026-10-31T10:32:23.541013Z,com.pocketsmith/mcp-readonly,PocketSmith (read-only),0.1.0,,streamable-http,"Read-only: transactions, budgets, forecasts and insights from the PocketSmith personal finance tool."
+2026-10-31T10:37:44.250088Z,io.cookiepilot/cookiepilot,CookiePilot – cookie banner & Consent Mode v2,1.0.0,,streamable-http,"Add a GDPR cookie consent banner with Google Consent Mode v2 to any website, from the chat."
+2026-10-31T10:37:49.746713Z,io.tiquiz/quiz-funnel,Tiquiz Quiz Funnel,1.0.0,,streamable-http,"Quiz funnels: stats, drop-offs, leads by result, CRM tags, follow-up emails and quiz drafts."
+2026-10-31T10:39:39.917886Z,io.github.quietbranch88/ai-workflow-feed,AI Workflow Feed MCP,0.1.0,https://github.com/quietbranch88/ai-workflow-feed-mcp,streamable-http,Discover articles about AI-assisted development and agent workflows.
+2026-10-31T10:40:21.227235Z,top.myreach/myreach,MyReach,1.0.0,,streamable-http,"Inspect websites; draft profiles, links, design and languages; preview and request owner approval."
+2026-10-31T10:40:50.573926Z,io.github.neilmorse/spring-runtime-mcp,Spring Boot Runtime Diagnostics,0.2.1,https://github.com/neilmorse/spring-runtime-mcp,,"Read-only Spring Boot runtime evidence for agents: beans, routes, health, startup."
+2026-10-31T10:41:18.729645Z,com.zaaheen/memory,Zaaheen,1.0.0,https://github.com/shahbaz242630/zaaheen,,"One encrypted memory for all your AI apps, on your computer. Needs the Zaaheen app (30 days free)."
+2026-10-31T10:50:16.505013Z,io.github.mo-cmyk/mazarbul,Mazarbul,0.2.2,https://github.com/mo-cmyk/mazarbul,,"Local-first memory for AI agents: entities, facts, relations and documents with semantic recall."
+2026-10-31T10:53:59.218146Z,io.github.alexar76/histor,HISTOR — MCP tool-definition transparency log,0.5.2,https://github.com/alexar76/histor,,"Check, diff and history of MCP tool definitions, from a public signed log of 88k+ servers."
+2026-10-31T10:58:44.673536Z,de.konverter-pro/konverter-pro,Konverter Pro,1.0.0,,streamable-http,"German bank statements, PayPal, SumUp and Stripe reports to verified DATEV, Lexware or MT940"
+2026-10-31T11:03:42.370121Z,com.discoverlaunches/launches,DiscoverLaunches,1.0.0,,streamable-http,"Search new product launches from indie makers and read their details. Read-only, no auth."
+2026-10-31T11:09:39.105269Z,dev.workers.deanhiki.listinglane/listing-writer,ListingLane Real Estate Listing Writer,1.0.0,,streamable-http,"MLS-ready, Fair-Housing-safe property listing descriptions (en/ko/es) and wording checks."
+2026-10-31T11:15:59.657381Z,xyz.owlgate/fair-price,OwlGate,1.0.0,,streamable-http,"Fair prices for TapeOut mining rigs on BNB Chain: rigs listed under fair price, with buy links."
