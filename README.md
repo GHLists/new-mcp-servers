@@ -9,35 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 22:21 UTC
+## Latest list — 2026-10-31 23:20 UTC
 
-New MCP servers published between 2026-10-31 21:20 UTC and 2026-10-31 22:21 UTC.
+New MCP servers published between 2026-10-31 22:21 UTC and 2026-10-31 23:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-31T22-21-15-990938Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-31T23-20-13-78961Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-31 21:21:52 | com.instatus/mcp | Instatus | 1.0.0 | Status pages, incidents, maintenance, components and subscribers on Instatus. |
-| 2026-10-31 21:27:32 | [org.warminbox/mcp](https://github.com/TheSnowGuru/warminbox-mcp) | Warm Inbox | 0.1.0 | Email warm-up for AI builders: check deliverability, connect mailboxes, pause o… |
-| 2026-10-31 21:28:58 | [com.tcijobfinder/jobs](https://github.com/remoas/caribbean-jobs-mcp) | TCI Job Finder | 1.0.0 | Current job vacancies in Turks and Caicos, with links to the job page and the o… |
-| 2026-10-31 21:28:59 | [com.caymanjobfinder/jobs](https://github.com/remoas/caribbean-jobs-mcp) | Cayman Job Finder | 1.0.0 | Current job vacancies in the Cayman Islands, with links to the job page and the… |
-| 2026-10-31 21:31:06 | com.techpartprices/catalogue | TechPartPrices | 1.0.0 | UK PC component prices: search parts, look one up, and read price history. |
-| 2026-10-31 21:35:02 | [io.github.Pavel-Tk/fittest](https://github.com/Pavel-Tk/fittest) | Fittest | 0.1.0 | Three ML interatomic potentials check a molecule: trust (with a calibrated scor… |
-| 2026-10-31 21:35:23 | io.weproxy/mcp | WeProxy | 1.0.0 | Turkey-focused proxy catalog: product picker, pricing, country coverage, error… |
-| 2026-10-31 21:37:39 | com.yomachichi/shop | YomaChichi Gift Shop | 1.0.0 | Search and buy YomaChichi gifts: Gloofwiggle mugs, hug pillows, portrait gift c… |
-| 2026-10-31 21:38:37 | com.vestlens/vestlens | VestLens | 1.0.0 | Read-only views of your self-directed Wealthsimple accounts. Cannot trade or mo… |
-| 2026-10-31 21:41:49 | [com.webcrawlerapi/mcp-server](https://github.com/WebCrawlerAPI/mcp-server) | WebCrawlerAPI | 0.1.3 | Turn any web page into clean Markdown for your AI assistant. OAuth sign-in, no… |
-| 2026-10-31 21:43:06 | com.attendbeacon/attendbeacon | AttendBeacon | 1.0.0 | Event platform: events, tickets, attendees, agenda, check-in, speakers and spon… |
-| 2026-10-31 21:43:38 | [io.github.faizu526/github-copilot-mcp](https://github.com/faizu526/github-copilot-mcp) | GitHub Copilot Tools | 1.0.0 | GitHub Copilot MCP: code, repo, PR, workflow tools for AI assistants. |
-| 2026-10-31 21:58:25 | finance.midni/midni | Midni | 1.0.0 | Personal finance: accounts, transactions, categories, budgets, goals, debts and… |
-| 2026-10-31 21:59:29 | page.wordy/wordy-page | Wordy Page | 1.0.0 | Publish free web pages and multi-page sites at wordy.page/your-name, with libra… |
-| 2026-10-31 22:00:48 | [io.usefulapi/bookingkit](https://github.com/m190/usefulapi-mcp) | bookingkit MCP by usefulapi | 1.0.0 | List events, open dates, orders, payments, vouchers and coupons in bookingkit. |
-| 2026-10-31 22:01:08 | fyi.verified/trust-reports | verified.fyi | 1.0.0 | Check whether a website is trustworthy: trust score, verdict, red flags and a c… |
-| 2026-10-31 22:04:11 | [io.github.maebsy/72hours](https://github.com/maebsy/YMCA-hackathon-2026) | 72hours security check | 1.1.0 | Scan a public GitHub repo, explain risks, get fix prompts and rescan to confirm… |
-| 2026-10-31 22:04:19 | ai.fickel/fickel | FICKEL by FickelUSA | 1.0.0 | Custom branded promotional products and merch: search the catalog, request a qu… |
-| 2026-10-31 22:04:38 | com.zeltorlabs/music-tools | Zeltor Music Tools | 1.0.0 | Check if two songs mix (Camelot key, BPM), find compatible keys, tempo and nigh… |
-| 2026-10-31 22:04:53 | io.nana800/mcp-server | nana800 | 1.2.1 | Build and manage nana800.io no-code workflows: projects, blocks, run history an… |
-| 2026-10-31 22:08:52 | [io.github.IngTian/witness](https://github.com/IngTian/witness) | witness | 0.9.0 | Distills your sessions or any text corpus into a dated history of how its subje… |
+| 2026-10-31 22:22:40 | [io.github.muchiny/mcp-legifrance](https://github.com/muchiny/mcp-legifrance) | Légifrance (unofficial) | 1.0.0 | Unofficial MCP server for French law via the Légifrance API (PISTE): search, re… |
+| 2026-10-31 22:26:18 | com.swanum/comps | Comps — Vinted sold prices | 1.0.0 | Real sold prices on Vinted in 7 countries: median, range, time to sell, country… |
+| 2026-10-31 22:26:22 | us.unfreeze/atlas | Unfrozen Atlas of the Middle | 1.0.0 | Graded research on middle managers and change: search studies, get fact-checked… |
+| 2026-10-31 22:27:25 | ai.iam360.app/iam360 | iAM360 | 1.0.0 | Access your iAM360 fitness record: wearable data, meals, workouts, challenges a… |
+| 2026-10-31 22:36:08 | com.car-gene/genealogy | CarGene | 0.4.0 | Japanese cars, sourced: genealogy, parts fitment, shaken and service shops, use… |
+| 2026-10-31 22:41:20 | [io.github.nvdigitalsolutions/nvoos-mcp-gateway](https://github.com/nvdigitalsolutions/mcp-ai-wpoos) | NV oOS Gateway | 0.2.0 | Streamable HTTP MCP gateway for NV oOS fleets — one API key, namespaced tools,… |
+| 2026-10-31 22:45:11 | [io.github.diegouqz/namegen](https://github.com/diegouqz/namegen) | namegen | 1.1.0 | Region-typical random names for AI agents. Remote MCP + HTTP API, paid in USDC… |
+| 2026-10-31 22:46:40 | [io.github.aryanduntley/aimfp](https://github.com/aryanduntley/aimfp) | AIMFP | 1.70.0 | Database-driven directives and project tracking for modular functional-procedur… |
+| 2026-10-31 22:49:25 | io.github.toolstile/toolstile | Toolstile | 1.0.1 | Managed MCP gateway with OAuth, per-agent permissions, shared accounts and acti… |
+| 2026-10-31 22:53:37 | [io.github.huntercarver24/pumpfun-trends](https://github.com/huntercarver24/signal-desk) | pump.fun launch feed + trend radar | 1.0.0 | Live pump.fun launches matched to Google Trends and Polymarket topics; pay per… |
+| 2026-10-31 23:01:28 | io.github.soldanoandrea/agent-risk-desk | Agent Risk Desk | 0.2.0 | EVM address enrichment, counterparty risk and tx screening for agents, paid per… |
+| 2026-10-31 23:01:34 | app.cosend/mcp | Cosend | 1.0.0 | Read your WhatsApp inbox, reply in existing chats, and check and deploy automat… |
+| 2026-10-31 23:03:07 | [io.github.AronSoto/verbaly](https://github.com/AronSoto/verbaly) |  | 0.77.0 | i18n for coding agents: extract, check and translate an app's text, with drafts… |
+| 2026-10-31 23:07:06 | dev.workers.deanhiki.uplane/website-uptime | UpLane Website Uptime Checker | 1.0.0 | Check if any website is up (status, latency, redirects, security headers) and s… |
+| 2026-10-31 23:07:35 | [io.github.golegally/accounting-mcp](https://github.com/golegally/accounting-mcp) | GoLegally Accounting | 1.0.12 | Invoices, bills, contacts, products, payments and reports in GoLegally Accounti… |
+| 2026-10-31 23:07:53 | [io.github.golegally/crm-mcp](https://github.com/golegally/crm-mcp) | GoLegally CRM | 1.0.6 | Contacts, companies, deals, tasks, notes and conversations in GoLegally CRM. |
+| 2026-10-31 23:08:11 | [io.github.golegally/compliance-mcp](https://github.com/golegally/compliance-mcp) | GoLegally Compliance | 1.0.7 | Compliance obligations, engagements, notices, registrations and reminders in Go… |
+| 2026-10-31 23:08:31 | [io.github.golegally/forms-mcp](https://github.com/golegally/forms-mcp) | GoLegally Forms | 1.0.6 | Forms, submissions, field values and themes in GoLegally FormEngine. |
+| 2026-10-31 23:13:37 | si.agentmaverick/news | AgentMaverick News | 1.0.1 | Free sourced breaking news for agents: markets, crypto, tech, geopolitics, US p… |
+| 2026-10-31 23:14:08 | [com.digitalgemology/gem-identification](https://github.com/cultrodistro/digitalgemology-mcp) | Digital Gemology: gem identification an… | 1.0.0 | Identify gemstones by refractive index, birefringence, SG, pleochroism and spec… |
+| 2026-10-31 23:14:09 | [com.digitalgemology/gemology-lessons](https://github.com/cultrodistro/digitalgemology-mcp) | Digital Gemology: gemology lessons and… | 1.0.0 | Gemology lessons to search and quote: the 4 Cs, diamond anatomy, grading report… |
+| 2026-10-31 23:16:56 | [io.github.epistemedeus/page-change](https://github.com/epistemedeus/x402-url-extractor) | Page Change | 1.0.0 | Free compare_page_observations for two held JSON pages. No fetch, wallet, or pa… |
 
 ## Data source
 
