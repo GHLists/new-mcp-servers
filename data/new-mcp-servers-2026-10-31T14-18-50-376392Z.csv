@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-10-31T13:21:21.749906Z,io.github.thepros2014/socialwtf-mcp,,1.0.0,https://github.com/thepros2014/socialwtf-mcp,,"Give your AI agent a labeled, key-owned social identity on SocialWTF AI Commons."
+2026-10-31T13:24:01.316529Z,com.samedaywebsitebuilder/sdwb,Same Day Website Builder,1.0.0,,streamable-http,Builds a free demo website for a trades business. The owner pays only to claim it.
+2026-10-31T13:24:52.44326Z,io.usefulapi/hdphotohub,HDPhotoHub MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Manage HDPhotoHub sites, clients, orders and media for real estate photography."
+2026-10-31T13:24:52.565754Z,io.usefulapi/doorloop,DoorLoop MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read DoorLoop properties, units, leases, tenants and payments; create tasks and task updates."
+2026-10-31T13:24:52.565895Z,io.usefulapi/gladly,Gladly MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Find customers, read conversations, items and tasks; add internal notes in Gladly."
+2026-10-31T13:24:52.569697Z,io.usefulapi/textus,TextUs MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read texts, contacts, campaigns and opt-outs; send SMS, add contacts and notes in TextUs."
+2026-10-31T13:30:45.938062Z,io.github.pokerai-bet/mcp,Pokerai API,0.1.2,https://github.com/pokerai-bet/mcp,,Solver-grade GTO strategy for study. Real-time assistance (RTA) at real-money tables is prohibited.
+2026-10-31T13:32:44.668105Z,com.monitorbankrates/rates,MonitorBankRates,2.0.2,,streamable-http,"Live US bank and credit union rates, mortgage lenders, and housing and insurance indexes."
+2026-10-31T13:33:05.40339Z,com.anyvideototext/any-video-to-text,Any Video to Text,1.0.0,,streamable-http,"Transcripts and AI summaries of TikTok, YouTube, Instagram, Facebook and X videos from a link."
+2026-10-31T13:33:26.203609Z,com.tryoids/agentsanddragons,Agents & Dragons,1.0.0,,streamable-http,A persistent tabletop RPG with an AI dungeon master. Agents and humans share one table.
+2026-10-31T13:34:21.417895Z,com.neuronsearchlab/mcp,,1.3.0,https://github.com/NeuronSearchLab/mcp,streamable-http,"Recommendations, search, catalogue, analytics, and platform admin tools for NeuronSearchLab"
+2026-10-31T13:34:23.936934Z,tw.0523/lucky-public,0523 Public — Taiwan Logistics & Customs,1.5.0,,streamable-http,"Taiwan parcel forwarding tools: freight and import-tax quotes, CCC tariff lookup, import rules."
+2026-10-31T13:41:10.779511Z,io.github.GillMacedo/runwaystock,,0.1.0,https://github.com/GillMacedo/runwaystock,,"Find what to reorder, stockout dates and dead stock from sales and stock CSVs, on your machine."
+2026-10-31T13:43:22.626572Z,com.sixteenbridges/bubbles,Sixteen Bridges,1.0.0,,streamable-http,Bubbles: Markdown notes and chat context you save in one AI app and use in any other.
+2026-10-31T13:44:26.272886Z,io.github.thisisnotinsideout-byte/veldo,,0.1.0,,streamable-http,Keeps a current picture of your startup so Claude can give your best next move and why.
+2026-10-31T13:48:32.54936Z,com.neuhausre/followupboss,Follow Up Boss,2.0.0,https://github.com/mindwear-capitian/followupboss-mcp-server,,Follow Up Boss CRM in plain English. 160 tools; bring your own API key.
+2026-10-31T13:55:50.138533Z,io.github.GillMacedo/lapsewatch,,0.1.0,https://github.com/GillMacedo/lapsewatch,,"Find customers who stopped buying, and the revenue at risk, from an orders CSV on your machine."
+2026-10-31T13:59:53.0071Z,io.github.sepehr071/balad-mcp,Balad Maps,0.1.0,https://github.com/sepehr071/balad-mcp,,"Read-only Balad (balad.ir) Iran map: places nearby or on the way, details, reviews, driving routes."
+2026-10-31T14:00:40.551411Z,io.github.sepehr071/neshan-mcp,Neshan Maps,0.1.0,https://github.com/sepehr071/neshan-mcp,,"Read-only Neshan map of Iran: places, reviews, photos, routes, travel times, zones, air quality."
+2026-10-31T14:02:37.389521Z,io.github.sepehr071/codal-mcp,Codal (کدال) Disclosures,0.1.0,https://github.com/sepehr071/codal-mcp,,"Read-only codal.ir: search disclosures of Iranian listed companies, read letters and statements."
+2026-10-31T14:04:23.621694Z,io.usefulapi/thinkreservations,ThinkReservations MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read rooms, rates, inventory, reservations and price quotes in ThinkReservations."
+2026-10-31T14:04:23.631025Z,io.usefulapi/gripp,Gripp MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read projects, invoices, hours and contacts; register hours, create tasks in Gripp."
+2026-10-31T14:13:30.863545Z,com.onrender.creative-mcp-40dj/launchkit-mcp,Launchkit MCP,1.0.0,,streamable-http,Remote MCP that generates original launch assets over Streamable HTTP. Usage is metered in credits.
