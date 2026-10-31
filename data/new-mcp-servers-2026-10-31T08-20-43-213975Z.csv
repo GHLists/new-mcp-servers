@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-10-31T07:29:21.702175Z,com.extensiondownloader/mcp,Chrome Extension Downloader,1.0.0,,streamable-http,"Chrome extension metadata, reviews, trends, comparisons, and permission analysis via MCP."
+2026-10-31T07:34:21.199162Z,com.ipipai/ipipai-mcp,IPIPAI MCP Server,2.0.0,https://github.com/moxh1688-byte/ipipai.com,streamable-http,"IP intelligence, network diagnostics, and AI service availability tools for AI agents."
+2026-10-31T07:34:25.437404Z,us.buildability/mcp,Buildability,2.0.0,,streamable-http,"Source-cited, address-level answers on zoning, site constraints, permitting and what can be built."
+2026-10-31T07:34:48.037976Z,hu.habsziget/habsziget-shop,Habsziget Webshop,1.0.0,,streamable-http,"Search Habsziget products, retrieve exact prices, and calculate custom polystyrene cuboids."
+2026-10-31T07:36:18.493983Z,ai.aldro/tax,Aldro: small-business tax,1.0.0,,streamable-http,"US and Canada business tax deadlines, annual reports, sales tax permits and quotes, with sources."
+2026-10-31T07:41:54.244966Z,io.github.EcRal5t/everything-search-mcp,Everything Search MCP,0.1.0,https://github.com/EcRal5t/everything-search-mcp,,"Fast file search on Windows with Everything. Find files, browse folders, and compare sizes."
+2026-10-31T07:43:45.336096Z,io.github.theguysaccount/landosaur,Landosaur,1.0.0,https://github.com/theguysaccount/mcp-catalog,streamable-http,"Search observed public land listings and compare source-linked prices, evidence and freshness."
+2026-10-31T07:56:14.426412Z,io.github.keyvwin/mcp,b2bsearch: B2B contacts and account signals,0.1.3,https://github.com/keyvwin/mcp,,"B2B contacts and account signals on Apify: new hires, email format, lookalikes, decision makers."
+2026-10-31T07:57:29.873746Z,ai.ahel/ahel,Ahel,1.0.0,,streamable-http,"Data for your AI agent: company, people, SEO, social and EU registry data. Pay per call."
+2026-10-31T08:00:04.412006Z,ai.pullpush/pullpush-mcp,,2.3.0,https://github.com/Kaduno-systems/pullpush-mcp,streamable-http,Connect any two APIs and keep them in sync — 50 MCP tools with shadow previews and diagnostics.
+2026-10-31T08:01:16.868598Z,com.tokfluence/tokfluence,Tokfluence,1.0.0,https://github.com/Tokfluence/tokfluence-mcp,streamable-http,"Search a TikTok creator index, read posts, and save ranked creator lists from your AI agent."
+2026-10-31T08:04:41.893225Z,io.github.theguysaccount/arcade-fun,Arcade.fun,1.0.0,https://github.com/theguysaccount/mcp-catalog,streamable-http,Discover playable browser experiences and manage creator-owned game uploads on Arcade.fun.
+2026-10-31T08:05:38.514166Z,ai.mythex/mythex,,1.1.0,,streamable-http,"Build and publish web, Android and iPhone apps from your AI client, in Arabic, English and 60+ more."
+2026-10-31T08:10:57.505798Z,io.github.IIxauII/kleinanzeigen,Kleinanzeigen,1.1.0,https://github.com/IIxauII/kleinanzeigen-mcp,,"A read-only, robots-clean MCP server over kleinanzeigen.de"
+2026-10-31T08:17:27.198297Z,io.github.wayfronthq/wayfront,Wayfront,1.0.0,,streamable-http,"Permission-aware access to Wayfront clients, orders, projects, billing, tickets, and more."
