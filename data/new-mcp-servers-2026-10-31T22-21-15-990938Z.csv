@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-10-31T21:21:52.834392Z,com.instatus/mcp,Instatus,1.0.0,,streamable-http,"Status pages, incidents, maintenance, components and subscribers on Instatus."
+2026-10-31T21:27:32.739396Z,org.warminbox/mcp,Warm Inbox,0.1.0,https://github.com/TheSnowGuru/warminbox-mcp,streamable-http,"Email warm-up for AI builders: check deliverability, connect mailboxes, pause or tune warm-ups."
+2026-10-31T21:28:58.963504Z,com.tcijobfinder/jobs,TCI Job Finder,1.0.0,https://github.com/remoas/caribbean-jobs-mcp,streamable-http,"Current job vacancies in Turks and Caicos, with links to the job page and the official advert."
+2026-10-31T21:28:59.372768Z,com.caymanjobfinder/jobs,Cayman Job Finder,1.0.0,https://github.com/remoas/caribbean-jobs-mcp,streamable-http,"Current job vacancies in the Cayman Islands, with links to the job page and the official advert."
+2026-10-31T21:31:06.968688Z,com.techpartprices/catalogue,TechPartPrices,1.0.0,,streamable-http,"UK PC component prices: search parts, look one up, and read price history."
+2026-10-31T21:35:02.223197Z,io.github.Pavel-Tk/fittest,Fittest,0.1.0,https://github.com/Pavel-Tk/fittest,streamable-http,Three ML interatomic potentials check a molecule: trust (with a calibrated score) or send to DFT.
+2026-10-31T21:35:23.180665Z,io.weproxy/mcp,WeProxy,1.0.0,,streamable-http,"Turkey-focused proxy catalog: product picker, pricing, country coverage, error diagnosis. No key."
+2026-10-31T21:37:39.424016Z,com.yomachichi/shop,YomaChichi Gift Shop,1.0.0,,streamable-http,"Search and buy YomaChichi gifts: Gloofwiggle mugs, hug pillows, portrait gift cards, with checkout."
+2026-10-31T21:38:37.482564Z,com.vestlens/vestlens,VestLens,1.0.0,,streamable-http,Read-only views of your self-directed Wealthsimple accounts. Cannot trade or move money.
+2026-10-31T21:41:49.355192Z,com.webcrawlerapi/mcp-server,WebCrawlerAPI,0.1.3,https://github.com/WebCrawlerAPI/mcp-server,streamable-http,"Turn any web page into clean Markdown for your AI assistant. OAuth sign-in, no API key."
+2026-10-31T21:43:06.99442Z,com.attendbeacon/attendbeacon,AttendBeacon,1.0.0,,streamable-http,"Event platform: events, tickets, attendees, agenda, check-in, speakers and sponsors."
+2026-10-31T21:43:38.364215Z,io.github.faizu526/github-copilot-mcp,GitHub Copilot Tools,1.0.0,https://github.com/faizu526/github-copilot-mcp,streamable-http,"GitHub Copilot MCP: code, repo, PR, workflow tools for AI assistants."
+2026-10-31T21:58:25.321843Z,finance.midni/midni,Midni,1.0.0,,streamable-http,"Personal finance: accounts, transactions, categories, budgets, goals, debts and spending stats."
+2026-10-31T21:59:29.646197Z,page.wordy/wordy-page,Wordy Page,1.0.0,,streamable-http; streamable-http,"Publish free web pages and multi-page sites at wordy.page/your-name, with library photos by ID."
+2026-10-31T22:00:48.962566Z,io.usefulapi/bookingkit,bookingkit MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"List events, open dates, orders, payments, vouchers and coupons in bookingkit."
+2026-10-31T22:01:08.256125Z,fyi.verified/trust-reports,verified.fyi,1.0.0,,streamable-http,"Check whether a website is trustworthy: trust score, verdict, red flags and a citable report."
+2026-10-31T22:04:11.65972Z,io.github.maebsy/72hours,72hours security check,1.1.0,https://github.com/maebsy/YMCA-hackathon-2026,streamable-http,"Scan a public GitHub repo, explain risks, get fix prompts and rescan to confirm fixes."
+2026-10-31T22:04:19.994388Z,ai.fickel/fickel,FICKEL by FickelUSA,1.0.0,,streamable-http,"Custom branded promotional products and merch: search the catalog, request a quote. 100-piece min."
+2026-10-31T22:04:38.745296Z,com.zeltorlabs/music-tools,Zeltor Music Tools,1.0.0,,streamable-http,"Check if two songs mix (Camelot key, BPM), find compatible keys, tempo and nightcore math."
+2026-10-31T22:04:53.641696Z,io.nana800/mcp-server,nana800,1.2.1,,,"Build and manage nana800.io no-code workflows: projects, blocks, run history and analytics exports"
+2026-10-31T22:08:52.136919Z,io.github.IngTian/witness,witness,0.9.0,https://github.com/IngTian/witness,,Distills your sessions or any text corpus into a dated history of how its subject changed.

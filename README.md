@@ -9,48 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 21:20 UTC
+## Latest list — 2026-10-31 22:21 UTC
 
-New MCP servers published between 2026-10-31 20:19 UTC and 2026-10-31 21:20 UTC.
+New MCP servers published between 2026-10-31 21:20 UTC and 2026-10-31 22:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-31T21-20-38-318065Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-31T22-21-15-990938Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-31 20:27:03 | io.github.floortomproductions-droid/agentx-x402-services | AgentX x402 Services (paid MCP tools) | 0.7.14 | All 26 AgentX paid services as MCP tools — site checks, markets, crypto, email… |
-| 2026-10-31 20:34:09 | com.bioturing/mcp | BioTuring MCP | 0.2.7 | GPU-accelerated compute engine for BioTuring's biological databases |
-| 2026-10-31 20:39:06 | ai.memlo/memlo | Memlo | 1.0.0 | Hosted memory for AI agents over MCP. One memory shared by all your agents. |
-| 2026-10-31 20:47:09 | [io.github.Odingard/guardian-mcp](https://github.com/Odingard/guardian-sdk) |  | 0.1.1 | Routes agent tool calls through Guardian for ALLOW/ASK/DENY before execution. |
-| 2026-10-31 20:48:47 | com.spotpeaks/spotpeaks | SpotPeaks | 1.0.0 | Dropshipping product research: products priced with US ad costs, their ads and… |
-| 2026-10-31 20:50:33 | ai.howtocancel/the-fine-print |  | 1.0.0 | Cancellation steps and return policies for 53 US companies, from official sourc… |
-| 2026-10-31 20:52:43 | tech.noahsarch/business-day-oracle | Business-Day Oracle | 0.1.0 | Working days, ISDA conventions and deadlines for 250 countries and 30 financial… |
-| 2026-10-31 20:52:44 | tech.noahsarch/einvoice-preflight | GCC e-Invoice Preflight Oracle | 0.1.0 | Validate UAE PINT AE and Saudi ZATCA e-invoices: UBL, official Schematron, QR,… |
-| 2026-10-31 20:52:46 | tech.noahsarch/email-verifier | Email Verifier | 0.1.0 | Verify emails: syntax, MX, disposable, role, typo fix, optional SMTP probe, SPF… |
-| 2026-10-31 20:52:48 | tech.noahsarch/hr-payroll-oracle | HR & Payroll Rules Oracle | 0.1.0 | UAE and Saudi gratuity, leave, notice, overtime and sick-pay arithmetic with ci… |
-| 2026-10-31 20:52:49 | tech.noahsarch/id-format-oracle | ID & Format Oracle | 0.1.0 | Validate IBAN, BIC, VAT, national IDs, phones, postal codes offline; 240+ ident… |
-| 2026-10-31 20:52:51 | tech.noahsarch/sanctions-screener | GCC Sanctions & Terror-List Screener | 0.1.0 | Screen names vs OFAC, UN, EU, UK and UAE terrorist lists with Arabic-aware matc… |
-| 2026-10-31 20:52:52 | tech.noahsarch/text-number-toolkit | Text & Number Toolkit | 0.1.0 | Amounts in words (Arabic cheque grammar), number formatting, Arabic text tools,… |
-| 2026-10-31 20:52:54 | tech.noahsarch/uae-calendar-oracle | UAE Calendar Oracle | 0.1.0 | UAE working days, holidays with confirmation status, Hijri dates, Ramadan hours… |
-| 2026-10-31 20:52:56 | tech.noahsarch/website-contact-extractor | Website Contact & Social Extractor | 0.1.0 | Emails, phones, WhatsApp, social profiles and addresses from a website's public… |
-| 2026-10-31 20:54:04 | [io.github.RdyGaming/hated-wow-mcp](https://github.com/RdyGaming/hated-wow-mcp) | Hated WoW MCP | 0.7.0 | MCP server for WoW addons: Lua API, UI source, CVars, art, linting, plus model… |
-| 2026-10-31 20:59:10 | [io.github.rafe-walker/sea-lite](https://github.com/rafe-walker/sea-lite) |  | 0.1.0 | Fenced work queue for parallel coding agents: leased claims, typed links, hash-… |
-| 2026-10-31 20:59:33 | de.ferien-in-der-saechsischen-schweiz/hammergut-neidberg | Hammergut Neidberg – holiday apartments… | 1.0.0 | Holiday apartments in Saxon Switzerland, Germany: live availability, prices, bo… |
-| 2026-10-31 21:02:22 | com.crosodo/mcp | Crosodo | 1.0.2 | Cottage-food law by state and county, Crosodo products, checkout links, credent… |
-| 2026-10-31 21:03:37 | [io.github.eren23/attocode-code-intel](https://github.com/eren23/attocode) | Attocode Code Intelligence | 0.1.23 | Local code search, symbol navigation and change impact for coding agents. No mo… |
-| 2026-10-31 21:04:32 | com.commercialbuses/commercialbuses | CommercialBuses | 1.2.0 | Used buses for sale, skoolie auctions, bus prices, CDL rules and board proposal… |
-| 2026-10-31 21:07:18 | [io.github.ThiagoJacobLannes/google-flights-mcp](https://github.com/ThiagoJacobLannes/google-flights-mcp) | Google Flights | 0.1.0 | Search Google Flights prices, cheapest travel dates and airport codes. |
-| 2026-10-31 21:07:21 | [io.github.ThiagoJacobLannes/vinted-mcp](https://github.com/ThiagoJacobLannes/vinted-mcp) | Vinted | 0.1.0 | Search second-hand listings on Vinted (anonymous, read-only). |
-| 2026-10-31 21:07:22 | [io.github.ThiagoJacobLannes/kuantokusta-mcp](https://github.com/ThiagoJacobLannes/kuantokusta-mcp) | KuantoKusta | 0.1.0 | Search products and compare store prices on KuantoKusta, Portugal's price compa… |
-| 2026-10-31 21:08:17 | com.anchorterminal/anchor-terminal | Anchor Terminal | 2026.10.31 | Independent graded directory of AI agent tools: search, compare, prices, MCP se… |
-| 2026-10-31 21:09:07 | [io.github.ThiagoJacobLannes/carris-metropolitana-mcp](https://github.com/ThiagoJacobLannes/carris-metropolitana-mcp) | Carris Metropolitana | 0.1.0 | Greater Lisbon buses: stops, real-time arrivals, lines, alerts and live vehicle… |
-| 2026-10-31 21:09:09 | [io.github.ThiagoJacobLannes/portugal-fuel-ev-mcp](https://github.com/ThiagoJacobLannes/portugal-fuel-ev-mcp) | Portugal Fuel & EV Charging | 0.1.0 | Cheapest fuel (DGEG) and nearby EV chargers with live status and prices (MOBI.E… |
-| 2026-10-31 21:09:11 | [io.github.ThiagoJacobLannes/sns-portugal-mcp](https://github.com/ThiagoJacobLannes/sns-portugal-mcp) | SNS Portugal | 0.1.0 | Portugal's national health service open data: hospitals, emergency and waiting… |
-| 2026-10-31 21:10:25 | [io.github.ThiagoJacobLannes/portugal-medicines-mcp](https://github.com/ThiagoJacobLannes/portugal-medicines-mcp) | Portugal Medicines | 0.1.0 | Medicine shortages (Infarmed) and pharmacies on duty or open now in Portugal. |
-| 2026-10-31 21:12:28 | com.nestphones/devices | Nestphones | 1.0.0 | Phone, tablet and smartwatch specs with Algerian prices in DZD, comparisons and… |
-| 2026-10-31 21:12:53 | [ai.rystic/rystic](https://github.com/Rystic-Inc/rystic) | Rystic | 0.0.34 | Start, seed, clock, inspect and diff Rystic API simulators from your agent. |
-| 2026-10-31 21:13:00 | [io.github.mayor-modder/cities2-mcp](https://github.com/mayor-modder/Cities2-MCP) | Cities2 MCP and Modding Toolkit | 0.5.0 | Cities: Skylines II wiki, encyclopedia, and mod workflow tools for AI agents. |
-| 2026-10-31 21:16:34 | com.serhataltunoglu/visibility | Serhat Altunoğlu: AI automation and Vis… | 1.0.0 | Read-only tools: Serhat Altunoğlu's profile, services, AI automation guides, Vi… |
-| 2026-10-31 21:19:30 | com.kaupia/kaupia | Kaupia | 0.1.0 | An Amazon for AI agents: search, compare and buy real products from real stores. |
+| 2026-10-31 21:21:52 | com.instatus/mcp | Instatus | 1.0.0 | Status pages, incidents, maintenance, components and subscribers on Instatus. |
+| 2026-10-31 21:27:32 | [org.warminbox/mcp](https://github.com/TheSnowGuru/warminbox-mcp) | Warm Inbox | 0.1.0 | Email warm-up for AI builders: check deliverability, connect mailboxes, pause o… |
+| 2026-10-31 21:28:58 | [com.tcijobfinder/jobs](https://github.com/remoas/caribbean-jobs-mcp) | TCI Job Finder | 1.0.0 | Current job vacancies in Turks and Caicos, with links to the job page and the o… |
+| 2026-10-31 21:28:59 | [com.caymanjobfinder/jobs](https://github.com/remoas/caribbean-jobs-mcp) | Cayman Job Finder | 1.0.0 | Current job vacancies in the Cayman Islands, with links to the job page and the… |
+| 2026-10-31 21:31:06 | com.techpartprices/catalogue | TechPartPrices | 1.0.0 | UK PC component prices: search parts, look one up, and read price history. |
+| 2026-10-31 21:35:02 | [io.github.Pavel-Tk/fittest](https://github.com/Pavel-Tk/fittest) | Fittest | 0.1.0 | Three ML interatomic potentials check a molecule: trust (with a calibrated scor… |
+| 2026-10-31 21:35:23 | io.weproxy/mcp | WeProxy | 1.0.0 | Turkey-focused proxy catalog: product picker, pricing, country coverage, error… |
+| 2026-10-31 21:37:39 | com.yomachichi/shop | YomaChichi Gift Shop | 1.0.0 | Search and buy YomaChichi gifts: Gloofwiggle mugs, hug pillows, portrait gift c… |
+| 2026-10-31 21:38:37 | com.vestlens/vestlens | VestLens | 1.0.0 | Read-only views of your self-directed Wealthsimple accounts. Cannot trade or mo… |
+| 2026-10-31 21:41:49 | [com.webcrawlerapi/mcp-server](https://github.com/WebCrawlerAPI/mcp-server) | WebCrawlerAPI | 0.1.3 | Turn any web page into clean Markdown for your AI assistant. OAuth sign-in, no… |
+| 2026-10-31 21:43:06 | com.attendbeacon/attendbeacon | AttendBeacon | 1.0.0 | Event platform: events, tickets, attendees, agenda, check-in, speakers and spon… |
+| 2026-10-31 21:43:38 | [io.github.faizu526/github-copilot-mcp](https://github.com/faizu526/github-copilot-mcp) | GitHub Copilot Tools | 1.0.0 | GitHub Copilot MCP: code, repo, PR, workflow tools for AI assistants. |
+| 2026-10-31 21:58:25 | finance.midni/midni | Midni | 1.0.0 | Personal finance: accounts, transactions, categories, budgets, goals, debts and… |
+| 2026-10-31 21:59:29 | page.wordy/wordy-page | Wordy Page | 1.0.0 | Publish free web pages and multi-page sites at wordy.page/your-name, with libra… |
+| 2026-10-31 22:00:48 | [io.usefulapi/bookingkit](https://github.com/m190/usefulapi-mcp) | bookingkit MCP by usefulapi | 1.0.0 | List events, open dates, orders, payments, vouchers and coupons in bookingkit. |
+| 2026-10-31 22:01:08 | fyi.verified/trust-reports | verified.fyi | 1.0.0 | Check whether a website is trustworthy: trust score, verdict, red flags and a c… |
+| 2026-10-31 22:04:11 | [io.github.maebsy/72hours](https://github.com/maebsy/YMCA-hackathon-2026) | 72hours security check | 1.1.0 | Scan a public GitHub repo, explain risks, get fix prompts and rescan to confirm… |
+| 2026-10-31 22:04:19 | ai.fickel/fickel | FICKEL by FickelUSA | 1.0.0 | Custom branded promotional products and merch: search the catalog, request a qu… |
+| 2026-10-31 22:04:38 | com.zeltorlabs/music-tools | Zeltor Music Tools | 1.0.0 | Check if two songs mix (Camelot key, BPM), find compatible keys, tempo and nigh… |
+| 2026-10-31 22:04:53 | io.nana800/mcp-server | nana800 | 1.2.1 | Build and manage nana800.io no-code workflows: projects, blocks, run history an… |
+| 2026-10-31 22:08:52 | [io.github.IngTian/witness](https://github.com/IngTian/witness) | witness | 0.9.0 | Distills your sessions or any text corpus into a dated history of how its subje… |
 
 ## Data source
 
