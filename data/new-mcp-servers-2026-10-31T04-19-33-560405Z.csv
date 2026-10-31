@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-10-31T03:21:06.127906Z,io.github.jangtrinh/design-os-3d-blender,design-os-3d-blender,0.2.0,https://github.com/jangtrinh/design-os-3d-blender,,"Free MCP server for native Blender 5.2 modeling, rendering and verification."
+2026-10-31T03:22:03.959956Z,io.github.PressoNetwork/presso-events,Presso Events,2026.1031.0,,streamable-http,"Run ticketed events from your AI assistant: create events, sell tickets via Stripe, check in."
+2026-10-31T03:23:34.95711Z,uk.co.marknetic.finder/cartographer,x402 Cartographer,0.2.0,,streamable-http,Ranks live x402 endpoints and Apify actors for a task. Pay-per-call in USDC on Base via x402.
+2026-10-31T03:24:31.194448Z,gg.atropos/advisor,Atropos Advisor,0.3.0,,streamable-http,"Survivor pool picks from the Atropos engine: WIN %, PICK %, EV and FATE on live odds, for any pool."
+2026-10-31T03:27:18.103631Z,io.usefulapi/recipal,ReciPal MCP by usefulapi,1.1.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read recipes, nutrition and inventory, manage ingredients and costs, and render ReciPal labels."
+2026-10-31T03:30:42.107725Z,com.openlaborproject/auto-repair,Open Labor Project - Auto Repair Data,1.0.0,,streamable-http,"Labor times, torque specs, fluid capacities, DTC codes and battery specs for vehicles 1955-present."
+2026-10-31T03:31:10.868011Z,io.github.CloudCorpRecords/researchsearch,,0.1.0,https://github.com/CloudCorpRecords/researchsearch,,"Web search, page extraction, crawling, and site mapping powered by the Tavily API."
+2026-10-31T03:33:16.975453Z,io.github.ArasanDev/yt,yt,0.1.0,https://github.com/ArasanDev/yt,,"YouTube transcripts, transcript search, and channel monitoring for agents."
+2026-10-31T03:36:08.250527Z,ai.lightray/lightray,LightRay,1.0.0,,streamable-http,"Who owns and runs a company, and the questions to ask before you deal with it."
+2026-10-31T03:39:11.863454Z,io.github.itsflaid/devmap,,0.9.0,https://github.com/itsflaid/devmap,,"Query a codebase map (routes, features, flows, impact) built by static analysis."
+2026-10-31T03:39:48.471656Z,com.getspacepal/spacepal,Spacepal,0.1.0,,,"List, switch and rename macOS Spaces and move windows between them. Needs the Spacepal app."
+2026-10-31T03:42:58.627078Z,io.github.donofdebt/ouncescout,OunceScout,1.0.0,https://github.com/deepxsquare/ouncescout,streamable-http,Live bullion price comparison: spot prices and dealer offers across 24 verified dealers.
+2026-10-31T03:43:58.669628Z,dev.minima/mcp,Minima,1.0.0,,streamable-http,"Search, write, check, export and share the patches, skills and files in your Minima library."
+2026-10-31T03:45:09.574363Z,com.leadmarina/leadmarina,LeadMarina,1.3.0,https://github.com/macgregordev/leadmarina-mcp,streamable-http,"Verified local-business leads: search by niche and US city, export to Close, GoHighLevel or Sheets."
+2026-10-31T03:49:23.680811Z,io.github.gcarrenos/planvoyager,PlanVoyager,1.0.0,,streamable-http,"Compare ACA health plans by real yearly cost, with tax credits, doctors and drugs, from CMS data."
+2026-10-31T03:50:59.031882Z,io.github.sw23/fp-conv-mcp,fp-conv,1.5.1,https://github.com/sw23/fp-conv,,"Encode, decode, and convert numbers across FP32, FP16, BF16, TF32, FP8/6/4, and integer formats."
+2026-10-31T03:55:42.977871Z,io.usefulapi/aryeo,Aryeo MCP by usefulapi,1.1.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Manage real-estate media orders, appointments, listings, customers and tasks in Aryeo."
+2026-10-31T03:57:57.841099Z,ca.mescolis/shipping,MesColis Shipping,1.0.0,,streamable-http,"Track parcels, get live shipping quotes and find drop-off points in Canada. FR/EN."
+2026-10-31T03:57:57.889659Z,ca.mescolis/shipsmarter,ShipSmarter Shipping,1.0.0,,streamable-http,"Track parcels, compare live carrier rates and find drop-off points for online sellers."
+2026-10-31T04:01:46.401707Z,io.usefulapi/jisr,Jisr MCP by usefulapi,1.1.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read employees, attendance, leave and payroll; create employee records and import device punches."
+2026-10-31T04:02:57.190747Z,io.github.writerslogic/warm-mcp,WARM,0.1.5,https://github.com/writerslogic/warm,,"Local persistent memory for AI agents with recall, search, forgetting, and encrypted storage."
+2026-10-31T04:06:38.321494Z,com.siilostomy/store,SIIL Ostomy Store,1.1.0,,streamable-http,"Shop SIIL clothing: discover products and sizes, then open a secure SIIL checkout link."
+2026-10-31T04:07:08.045088Z,com.truevaluerankings/tvr-mcp,True Value Rankings,2.6.2,https://github.com/TrueValueRankings/tvr-mcp-server,streamable-http,"Cryptocurrency fundamentals for agents: TVR Scores, rankings and model-derived valuation estimates."
+2026-10-31T04:08:04.494515Z,io.usefulapi/feegow,Feegow MCP by usefulapi,1.1.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read clinic appointments, patients and finances; manage bookings and patient registration."
+2026-10-31T04:11:36.857336Z,agency.thirdhemisphere/ai-authority-index,Third Hemisphere AI Authority Index,1.0.0,,streamable-http,Read-only CRISP scores and AI visibility data from Third Hemisphere's AI Authority Index.
+2026-10-31T04:13:12.520949Z,ai.n3tz/atlas,n3tz Atlas,0.1.2,,streamable-http,Governed company knowledge over MCP. Synthetic read-only demo; customer Atlas by contract.
