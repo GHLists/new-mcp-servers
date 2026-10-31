@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-10-31T11:22:55.812567Z,net.festivaltimes/festivals,Festival Times — Korean Festivals,1.0.0,,streamable-http,"Korean festivals, concerts and festival news from Festival Times (festivaltimes.net). Read-only."
+2026-10-31T11:25:32.214992Z,com.myartefacts/myartefacts,myartefacts,1.0.0,,streamable-http,"Publish agent-made pages, decks and files to a private library, with share links."
+2026-10-31T11:29:12.455493Z,my.taokeh/mcp,,1.25.0,https://github.com/taokeh/taokeh-mcp,streamable-http,"Malaysian SME accounting, e-Invoice and payroll for your AI. 77 tools; writes are approved drafts."
+2026-10-31T11:32:30.176174Z,io.github.dnncha/tankful,Tankful: Irish heating oil prices,1.1.0,,streamable-http,"Live Irish heating oil, green diesel and road diesel prices by county, plus local oil suppliers."
+2026-10-31T11:37:57.763886Z,app.kellian/kellian,Kellian,1.0.0,,streamable-http,"Smart money on every Polymarket market: top traders' positions and fresh moves, research, news."
+2026-10-31T11:43:01.554439Z,io.github.ModernFarm-hub/context-bridge,Context Bridge,0.7.0b2,https://github.com/ModernFarm-hub/context-bridge,,"Local-first search across past Claude and ChatGPT conversations, with citations."
+2026-10-31T11:43:53.36823Z,io.github.GillMacedo/stalemodel,,0.1.0,https://github.com/GillMacedo/stalemodel,,"Catch outdated AI model names, and look up current models, prices and limits."
+2026-10-31T11:46:48.950497Z,es.atareao/blog,,1.19.0,,streamable-http,Consulta pública y de solo lectura del contenido publicado en atareao.es.
+2026-10-31T11:49:06.977712Z,com.exepal/exepal,Exepal,1.0.0,https://github.com/MrLaxmanKafle/exepal,streamable-http,"Paid data tools for AI agents, pay per call in USDC via x402: AI visibility, company enrich, SERP"
+2026-10-31T11:53:57.027357Z,io.github.taewankung/ai-rover-mcp,AI Rover Studio,1.1.2,https://github.com/taewankung/ai-rover-mcp,,"Let an AI agent drive a 2D robot rover simulator in the browser: sensors, camera, wiring and code."
+2026-10-31T11:54:50.402088Z,kr.co.onpress/onpress,OnPress — Korean internet newspaper builder,1.0.0,,streamable-http,"How to open and run a Korean internet newspaper with OnPress: plans, templates, guides. Read-only."
+2026-10-31T12:01:34.621061Z,io.github.fergonsan/normaradar,Normaradar – Spain Business Compliance,0.3.0,https://github.com/fergonsan/normaradar,streamable-http,"Legal obligations of Spanish companies by profile, with deadlines and official sources."
+2026-10-31T12:03:16.424683Z,io.github.GillMacedo/tiedout,,0.1.0,https://github.com/GillMacedo/tiedout,,Match bank statements to invoices from local CSV files. Your data stays on your machine.
+2026-10-31T12:06:23.143611Z,io.github.flatbread-cli/flatbread,,0.9.8,https://github.com/flatbread-cli/flatbread,,"Share a coding agent's session as one link, secrets redacted first; pull another run's brief."
+2026-10-31T12:11:39.433906Z,app.kaliham/mail,Kaliham,1.0.0,,streamable-http,"Search, read and draft email across Gmail, Outlook, Yahoo and work accounts in one Kaliham inbox."
+2026-10-31T12:12:03.190758Z,ai.avasis.agents/avasis,Avasis Agent Platform,1.0.0,,streamable-http,"Free MCP tools: Solana token safety and Polymarket kit samples, x402 quotes, verdict grading rubric"
+2026-10-31T12:15:00.650587Z,io.github.trahloff/aldine,Aldine,1.5.0,https://github.com/trahloff/Aldine,streamable-http; streamable-http,"Self-hosted collaborative LaTeX editor: read and edit files, typeset, get the errors and the PDF."

@@ -9,33 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 11:19 UTC
+## Latest list — 2026-10-31 12:20 UTC
 
-New MCP servers published between 2026-10-31 10:19 UTC and 2026-10-31 11:19 UTC.
+New MCP servers published between 2026-10-31 11:19 UTC and 2026-10-31 12:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-31T11-19-47-725829Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-31T12-20-38-058554Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-31 10:19:45 | ai.peerfoundry/typedpull | TypedPull | 0.1.0 | Return only the schema fields you name from one public web page. No raw HTML. |
-| 2026-10-31 10:19:48 | ai.peerfoundry/holdkit | HoldKit | 0.1.0 | Idempotency keys, locks, timers, and inboxes for agents over MCP. No payments. |
-| 2026-10-31 10:20:30 | ai.beexcellent/reference | Excellent Reference (free) | 1.0.0 | Free, no-login: how Excellent works for restaurant events and private dining, a… |
-| 2026-10-31 10:20:30 | ai.beexcellent/excellent | Excellent | 1.0.0 | Run your restaurant group's events, leads, invoices and marketing drafts from y… |
-| 2026-10-31 10:25:57 | io.github.abernathyinnovations-ship-it/suppressor | Suppressor | 1.4.0 | Private, end-to-end encrypted, self-deleting rooms for AI agents. Free trial; p… |
-| 2026-10-31 10:32:13 | com.pocketsmith/mcp | PocketSmith | 0.1.0 | Work with transactions, budgets, forecasts and insights from the PocketSmith pe… |
-| 2026-10-31 10:32:23 | com.pocketsmith/mcp-readonly | PocketSmith (read-only) | 0.1.0 | Read-only: transactions, budgets, forecasts and insights from the PocketSmith p… |
-| 2026-10-31 10:37:44 | io.cookiepilot/cookiepilot | CookiePilot – cookie banner & Consent M… | 1.0.0 | Add a GDPR cookie consent banner with Google Consent Mode v2 to any website, fr… |
-| 2026-10-31 10:37:49 | io.tiquiz/quiz-funnel | Tiquiz Quiz Funnel | 1.0.0 | Quiz funnels: stats, drop-offs, leads by result, CRM tags, follow-up emails and… |
-| 2026-10-31 10:39:39 | [io.github.quietbranch88/ai-workflow-feed](https://github.com/quietbranch88/ai-workflow-feed-mcp) | AI Workflow Feed MCP | 0.1.0 | Discover articles about AI-assisted development and agent workflows. |
-| 2026-10-31 10:40:21 | top.myreach/myreach | MyReach | 1.0.0 | Inspect websites; draft profiles, links, design and languages; preview and requ… |
-| 2026-10-31 10:40:50 | [io.github.neilmorse/spring-runtime-mcp](https://github.com/neilmorse/spring-runtime-mcp) | Spring Boot Runtime Diagnostics | 0.2.1 | Read-only Spring Boot runtime evidence for agents: beans, routes, health, start… |
-| 2026-10-31 10:41:18 | [com.zaaheen/memory](https://github.com/shahbaz242630/zaaheen) | Zaaheen | 1.0.0 | One encrypted memory for all your AI apps, on your computer. Needs the Zaaheen… |
-| 2026-10-31 10:50:16 | [io.github.mo-cmyk/mazarbul](https://github.com/mo-cmyk/mazarbul) | Mazarbul | 0.2.2 | Local-first memory for AI agents: entities, facts, relations and documents with… |
-| 2026-10-31 10:53:59 | [io.github.alexar76/histor](https://github.com/alexar76/histor) | HISTOR — MCP tool-definition transparen… | 0.5.2 | Check, diff and history of MCP tool definitions, from a public signed log of 88… |
-| 2026-10-31 10:58:44 | de.konverter-pro/konverter-pro | Konverter Pro | 1.0.0 | German bank statements, PayPal, SumUp and Stripe reports to verified DATEV, Lex… |
-| 2026-10-31 11:03:42 | com.discoverlaunches/launches | DiscoverLaunches | 1.0.0 | Search new product launches from indie makers and read their details. Read-only… |
-| 2026-10-31 11:09:39 | dev.workers.deanhiki.listinglane/listing-writer | ListingLane Real Estate Listing Writer | 1.0.0 | MLS-ready, Fair-Housing-safe property listing descriptions (en/ko/es) and wordi… |
-| 2026-10-31 11:15:59 | xyz.owlgate/fair-price | OwlGate | 1.0.0 | Fair prices for TapeOut mining rigs on BNB Chain: rigs listed under fair price,… |
+| 2026-10-31 11:22:55 | net.festivaltimes/festivals | Festival Times — Korean Festivals | 1.0.0 | Korean festivals, concerts and festival news from Festival Times (festivaltimes… |
+| 2026-10-31 11:25:32 | com.myartefacts/myartefacts | myartefacts | 1.0.0 | Publish agent-made pages, decks and files to a private library, with share link… |
+| 2026-10-31 11:29:12 | [my.taokeh/mcp](https://github.com/taokeh/taokeh-mcp) |  | 1.25.0 | Malaysian SME accounting, e-Invoice and payroll for your AI. 77 tools; writes a… |
+| 2026-10-31 11:32:30 | io.github.dnncha/tankful | Tankful: Irish heating oil prices | 1.1.0 | Live Irish heating oil, green diesel and road diesel prices by county, plus loc… |
+| 2026-10-31 11:37:57 | app.kellian/kellian | Kellian | 1.0.0 | Smart money on every Polymarket market: top traders' positions and fresh moves,… |
+| 2026-10-31 11:43:01 | [io.github.ModernFarm-hub/context-bridge](https://github.com/ModernFarm-hub/context-bridge) | Context Bridge | 0.7.0b2 | Local-first search across past Claude and ChatGPT conversations, with citations. |
+| 2026-10-31 11:43:53 | [io.github.GillMacedo/stalemodel](https://github.com/GillMacedo/stalemodel) |  | 0.1.0 | Catch outdated AI model names, and look up current models, prices and limits. |
+| 2026-10-31 11:46:48 | es.atareao/blog |  | 1.19.0 | Consulta pública y de solo lectura del contenido publicado en atareao.es. |
+| 2026-10-31 11:49:06 | [com.exepal/exepal](https://github.com/MrLaxmanKafle/exepal) | Exepal | 1.0.0 | Paid data tools for AI agents, pay per call in USDC via x402: AI visibility, co… |
+| 2026-10-31 11:53:57 | [io.github.taewankung/ai-rover-mcp](https://github.com/taewankung/ai-rover-mcp) | AI Rover Studio | 1.1.2 | Let an AI agent drive a 2D robot rover simulator in the browser: sensors, camer… |
+| 2026-10-31 11:54:50 | kr.co.onpress/onpress | OnPress — Korean internet newspaper bui… | 1.0.0 | How to open and run a Korean internet newspaper with OnPress: plans, templates,… |
+| 2026-10-31 12:01:34 | [io.github.fergonsan/normaradar](https://github.com/fergonsan/normaradar) | Normaradar – Spain Business Compliance | 0.3.0 | Legal obligations of Spanish companies by profile, with deadlines and official… |
+| 2026-10-31 12:03:16 | [io.github.GillMacedo/tiedout](https://github.com/GillMacedo/tiedout) |  | 0.1.0 | Match bank statements to invoices from local CSV files. Your data stays on your… |
+| 2026-10-31 12:06:23 | [io.github.flatbread-cli/flatbread](https://github.com/flatbread-cli/flatbread) |  | 0.9.8 | Share a coding agent's session as one link, secrets redacted first; pull anothe… |
+| 2026-10-31 12:11:39 | app.kaliham/mail | Kaliham | 1.0.0 | Search, read and draft email across Gmail, Outlook, Yahoo and work accounts in… |
+| 2026-10-31 12:12:03 | ai.avasis.agents/avasis | Avasis Agent Platform | 1.0.0 | Free MCP tools: Solana token safety and Polymarket kit samples, x402 quotes, ve… |
+| 2026-10-31 12:15:00 | [io.github.trahloff/aldine](https://github.com/trahloff/Aldine) | Aldine | 1.5.0 | Self-hosted collaborative LaTeX editor: read and edit files, typeset, get the e… |
 
 ## Data source
 
