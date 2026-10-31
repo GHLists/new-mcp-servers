@@ -1,0 +1,35 @@
+created_at,server,title,version,repository,transports,description
+2026-10-31T20:27:03.506587Z,io.github.floortomproductions-droid/agentx-x402-services,AgentX x402 Services (paid MCP tools),0.7.14,,streamable-http,"All 26 AgentX paid services as MCP tools — site checks, markets, crypto, email DNS, AI text work."
+2026-10-31T20:34:09.188056Z,com.bioturing/mcp,BioTuring MCP,0.2.7,,streamable-http,GPU-accelerated compute engine for BioTuring's biological databases
+2026-10-31T20:39:06.123807Z,ai.memlo/memlo,Memlo,1.0.0,,streamable-http,Hosted memory for AI agents over MCP. One memory shared by all your agents.
+2026-10-31T20:47:09.308781Z,io.github.Odingard/guardian-mcp,,0.1.1,https://github.com/Odingard/guardian-sdk,,Routes agent tool calls through Guardian for ALLOW/ASK/DENY before execution.
+2026-10-31T20:48:47.773628Z,com.spotpeaks/spotpeaks,SpotPeaks,1.0.0,,streamable-http,"Dropshipping product research: products priced with US ad costs, their ads and who sells them."
+2026-10-31T20:50:33.689987Z,ai.howtocancel/the-fine-print,,1.0.0,,streamable-http,"Cancellation steps and return policies for 53 US companies, from official sources, checked daily."
+2026-10-31T20:52:43.326891Z,tech.noahsarch/business-day-oracle,Business-Day Oracle,0.1.0,,streamable-http,"Working days, ISDA conventions and deadlines for 250 countries and 30 financial markets."
+2026-10-31T20:52:44.883909Z,tech.noahsarch/einvoice-preflight,GCC e-Invoice Preflight Oracle,0.1.0,,streamable-http,"Validate UAE PINT AE and Saudi ZATCA e-invoices: UBL, official Schematron, QR, fix hints."
+2026-10-31T20:52:46.417841Z,tech.noahsarch/email-verifier,Email Verifier,0.1.0,,streamable-http,"Verify emails: syntax, MX, disposable, role, typo fix, optional SMTP probe, SPF/DMARC."
+2026-10-31T20:52:48.018295Z,tech.noahsarch/hr-payroll-oracle,HR & Payroll Rules Oracle,0.1.0,,streamable-http,"UAE and Saudi gratuity, leave, notice, overtime and sick-pay arithmetic with cited articles."
+2026-10-31T20:52:49.579879Z,tech.noahsarch/id-format-oracle,ID & Format Oracle,0.1.0,,streamable-http,"Validate IBAN, BIC, VAT, national IDs, phones, postal codes offline; 240+ identifiers."
+2026-10-31T20:52:51.238023Z,tech.noahsarch/sanctions-screener,GCC Sanctions & Terror-List Screener,0.1.0,,streamable-http,"Screen names vs OFAC, UN, EU, UK and UAE terrorist lists with Arabic-aware matching."
+2026-10-31T20:52:52.856614Z,tech.noahsarch/text-number-toolkit,Text & Number Toolkit,0.1.0,,streamable-http,"Amounts in words (Arabic cheque grammar), number formatting, Arabic text tools, date parsing."
+2026-10-31T20:52:54.506993Z,tech.noahsarch/uae-calendar-oracle,UAE Calendar Oracle,0.1.0,,streamable-http,"UAE working days, holidays with confirmation status, Hijri dates, Ramadan hours, deadlines."
+2026-10-31T20:52:56.678774Z,tech.noahsarch/website-contact-extractor,Website Contact & Social Extractor,0.1.0,,streamable-http,"Emails, phones, WhatsApp, social profiles and addresses from a website's public pages."
+2026-10-31T20:54:04.109528Z,io.github.RdyGaming/hated-wow-mcp,Hated WoW MCP,0.7.0,https://github.com/RdyGaming/hated-wow-mcp,,"MCP server for WoW addons: Lua API, UI source, CVars, art, linting, plus model export to glTF/OBJ."
+2026-10-31T20:59:10.404625Z,io.github.rafe-walker/sea-lite,,0.1.0,https://github.com/rafe-walker/sea-lite,,"Fenced work queue for parallel coding agents: leased claims, typed links, hash-chained history"
+2026-10-31T20:59:33.222754Z,de.ferien-in-der-saechsischen-schweiz/hammergut-neidberg,"Hammergut Neidberg – holiday apartments, Saxon Switzerland",1.0.0,,streamable-http,"Holiday apartments in Saxon Switzerland, Germany: live availability, prices, booking requests"
+2026-10-31T21:02:22.32853Z,com.crosodo/mcp,Crosodo,1.0.2,,streamable-http,"Cottage-food law by state and county, Crosodo products, checkout links, credential checks."
+2026-10-31T21:03:37.013443Z,io.github.eren23/attocode-code-intel,Attocode Code Intelligence,0.1.23,https://github.com/eren23/attocode,,"Local code search, symbol navigation and change impact for coding agents. No model, no API key."
+2026-10-31T21:04:32.165921Z,com.commercialbuses/commercialbuses,CommercialBuses,1.2.0,,streamable-http,"Used buses for sale, skoolie auctions, bus prices, CDL rules and board proposals. Free."
+2026-10-31T21:07:18.341197Z,io.github.ThiagoJacobLannes/google-flights-mcp,Google Flights,0.1.0,https://github.com/ThiagoJacobLannes/google-flights-mcp,,"Search Google Flights prices, cheapest travel dates and airport codes."
+2026-10-31T21:07:21.276109Z,io.github.ThiagoJacobLannes/vinted-mcp,Vinted,0.1.0,https://github.com/ThiagoJacobLannes/vinted-mcp,,"Search second-hand listings on Vinted (anonymous, read-only)."
+2026-10-31T21:07:22.415789Z,io.github.ThiagoJacobLannes/kuantokusta-mcp,KuantoKusta,0.1.0,https://github.com/ThiagoJacobLannes/kuantokusta-mcp,,"Search products and compare store prices on KuantoKusta, Portugal's price comparator."
+2026-10-31T21:08:17.863216Z,com.anchorterminal/anchor-terminal,Anchor Terminal,2026.10.31,,streamable-http,"Independent graded directory of AI agent tools: search, compare, prices, MCP server checks."
+2026-10-31T21:09:07.186629Z,io.github.ThiagoJacobLannes/carris-metropolitana-mcp,Carris Metropolitana,0.1.0,https://github.com/ThiagoJacobLannes/carris-metropolitana-mcp,,"Greater Lisbon buses: stops, real-time arrivals, lines, alerts and live vehicles."
+2026-10-31T21:09:09.617331Z,io.github.ThiagoJacobLannes/portugal-fuel-ev-mcp,Portugal Fuel & EV Charging,0.1.0,https://github.com/ThiagoJacobLannes/portugal-fuel-ev-mcp,,Cheapest fuel (DGEG) and nearby EV chargers with live status and prices (MOBI.E).
+2026-10-31T21:09:11.241557Z,io.github.ThiagoJacobLannes/sns-portugal-mcp,SNS Portugal,0.1.0,https://github.com/ThiagoJacobLannes/sns-portugal-mcp,,"Portugal's national health service open data: hospitals, emergency and waiting times."
+2026-10-31T21:10:25.069895Z,io.github.ThiagoJacobLannes/portugal-medicines-mcp,Portugal Medicines,0.1.0,https://github.com/ThiagoJacobLannes/portugal-medicines-mcp,,Medicine shortages (Infarmed) and pharmacies on duty or open now in Portugal.
+2026-10-31T21:12:28.46707Z,com.nestphones/devices,Nestphones,1.0.0,,streamable-http,"Phone, tablet and smartwatch specs with Algerian prices in DZD, comparisons and articles."
+2026-10-31T21:12:53.411681Z,ai.rystic/rystic,Rystic,0.0.34,https://github.com/Rystic-Inc/rystic,,"Start, seed, clock, inspect and diff Rystic API simulators from your agent."
+2026-10-31T21:13:00.690495Z,io.github.mayor-modder/cities2-mcp,Cities2 MCP and Modding Toolkit,0.5.0,https://github.com/mayor-modder/Cities2-MCP,,"Cities: Skylines II wiki, encyclopedia, and mod workflow tools for AI agents."
+2026-10-31T21:16:34.077788Z,com.serhataltunoglu/visibility,Serhat Altunoğlu: AI automation and Visibility Check,1.0.0,,streamable-http,"Read-only tools: Serhat Altunoğlu's profile, services, AI automation guides, Visibility Check"
+2026-10-31T21:19:30.47737Z,com.kaupia/kaupia,Kaupia,0.1.0,,streamable-http,"An Amazon for AI agents: search, compare and buy real products from real stores."
