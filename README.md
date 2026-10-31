@@ -9,53 +9,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 16:19 UTC
+## Latest list — 2026-10-31 17:18 UTC
 
-New MCP servers published between 2026-10-31 15:19 UTC and 2026-10-31 16:19 UTC.
+New MCP servers published between 2026-10-31 16:19 UTC and 2026-10-31 17:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-31T16-19-37-274471Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-31T17-18-42-075574Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-31 15:20:25 | kr.daiw/daiw | DAIW | 0.1.16 | AI engineer inside your DAW: compose, mix, master and export in Logic Pro or RE… |
-| 2026-10-31 15:22:06 | com.awesomevideoeditor/awesomevideo | AwesomeVideo | 0.2.0 | Video for AI agents: captions in 28 styles, transcription, translation, dubbing… |
-| 2026-10-31 15:24:51 | app.everynumber/spreadsheet-dashboard | Every Number | 1.0.0 | Turn an Excel or CSV export into a dashboard where every number has a receipt.… |
-| 2026-10-31 15:27:33 | com.nymwell/lookup | Nymwell Lookup | 1.0.0 | Check domain availability and prices, and look up any domain's public records.… |
-| 2026-10-31 15:28:57 | com.dcblueprint/data-centres | DC Blueprint data-centre intelligence | 1.0.0 | Dated European data-centre markets, grid connection restrictions, country rules… |
-| 2026-10-31 15:30:11 | [io.github.microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) |  | 0.0.84 | Playwright Tools for MCP |
-| 2026-10-31 15:31:47 | com.sentrint/sentrint | Sentrint | 1.0.0 | Code security scanner for founders and small teams: leaked secrets, missing RLS… |
-| 2026-10-31 15:34:01 | com.directmailamerica/mcp-narrow | DirectMailAmerica — Narrow | 2.1.0 | Quote, preview and approve U.S. letters and postcards; edit cover sheets and in… |
-| 2026-10-31 15:34:41 | com.agentmasterdata/agent-master-data | Agent Master Data | 0.1.0 | Paid x402 API and MCP for trusted public master data, golden records, and refer… |
-| 2026-10-31 15:35:50 | [io.github.site-shot/site-shot-mcp](https://github.com/site-shot/site-shot-mcp) | Site-Shot | 1.2.1 | Website screenshots for AI agents: full-page, country proxies, ad & cookie-bann… |
-| 2026-10-31 15:36:30 | ca.fonciq/fonciq | Fonciq — Québec flood zones and land re… | 1.0.0 | Free Québec flood-zone lookup (no key) plus Fonciq land-registry tools with you… |
-| 2026-10-31 15:38:21 | io.forthclear/liquidation | ForthClear Liquidation Marketplace | 1.4.0 | Search surplus and overstock inventory, request bulk quotes, and check out. |
-| 2026-10-31 15:38:22 | [io.github.UsamaSarwar121/gomobsec-mcp](https://github.com/UsamaSarwar121/gomobsec-mcp) | GoMobSec | 0.1.0 | Scan Android and iOS apps for security issues: findings, MASVS mapping and pent… |
-| 2026-10-31 15:38:40 | [com.autoprivado/autoprivado](https://github.com/autoprivado/autoprivado-mcp) | AutoPrivado | 1.0.0 | Private car sales in Europe: search listings, price estimate from VIN, portals,… |
-| 2026-10-31 15:38:47 | [com.thedploy/deployer](https://github.com/Avinash147-1193/thedeployer-mcp) | The Deployer | 0.3.0 | Deploy and run apps in your own AWS, Google Cloud, Azure or DigitalOcean accoun… |
-| 2026-10-31 15:48:08 | [io.github.clearcotelabs/clearcote-mcp](https://github.com/clearcotelabs/clearcote-browser) | Clearcote Browser | 0.3.0 | Drive the Clearcote Chromium browser from any MCP client: read pages, click, fi… |
-| 2026-10-31 15:49:10 | net.equitest/equitest | Equitest | 1.0.0 | Business valuations, financial statements, industry benchmarks and M&A comparab… |
-| 2026-10-31 15:49:16 | com.usvipublicrecords/documents | USVI Public Records | 1.1.1 | Search and read U.S. Virgin Islands public records: laws, court records, audits… |
-| 2026-10-31 15:49:17 | com.usvipublicrecords/newspapers | USVI Public Records: Newspapers | 1.3.2 | Search Virgin Islands newspapers page by page, 1865 to 2001, with the gaps in e… |
-| 2026-10-31 15:51:09 | [io.github.ThomasCrouzet/icloud-mcp](https://github.com/ThomasCrouzet/icloud-mcp) | icloud-mcp | 0.4.2 | stdio MCP for iCloud Calendar (CalDAV), with optional Contacts and Mail. |
-| 2026-10-31 15:52:52 | [io.github.rahulparathy/saas-puppy](https://github.com/rahulparathy/saas-puppy-mcp) | SaaS Puppy | 0.1.0 | Look up or compare free-tier developer tools, with the catch spelled out. |
-| 2026-10-31 15:54:31 | com.virtualcloser/virtual-closer | Virtual Closer | 1.0.0 | See who replied and where your pipeline is stuck, from your own AI. Insurance a… |
-| 2026-10-31 15:54:33 | com.runmyads/run-my-ads | Run My Ads | 1.0.0 | Read your Meta ads from your own AI; find why cost per booked appointment moved… |
-| 2026-10-31 15:54:47 | [io.usefulapi/idosell](https://github.com/m190/usefulapi-mcp) | IdoSell MCP by usefulapi | 1.0.0 | Search orders, products, stock, customers and returns; set order status in IdoS… |
-| 2026-10-31 15:54:47 | [io.usefulapi/kledo](https://github.com/m190/usefulapi-mcp) | Kledo MCP by usefulapi | 1.0.0 | Read invoices, bills, contacts, bank balances and financial reports in Kledo. |
-| 2026-10-31 15:54:47 | [io.usefulapi/limoexpress](https://github.com/m190/usefulapi-mcp) | LimoExpress MCP by usefulapi | 1.0.0 | Read bookings, clients, invoices, pricing; confirm bookings and mark invoices p… |
-| 2026-10-31 15:54:47 | [io.usefulapi/quipu](https://github.com/m190/usefulapi-mcp) | Quipu MCP by usefulapi | 1.0.0 | Read contacts, invoices and book entries; create contacts and draft invoices in… |
-| 2026-10-31 15:54:47 | [io.usefulapi/qashier](https://github.com/m190/usefulapi-mcp) | Qashier MCP by usefulapi | 1.0.0 | Read checkout sessions; create payment links, expire sessions and refund paymen… |
-| 2026-10-31 15:54:47 | [io.usefulapi/operto](https://github.com/m190/usefulapi-mcp) | Operto MCP by usefulapi | 1.0.0 | Read properties, reservations, guest access codes, smart locks and thermostats… |
-| 2026-10-31 15:54:47 | [io.usefulapi/run-my-accounts](https://github.com/m190/usefulapi-mcp) | Run my Accounts MCP by usefulapi | 1.0.0 | Read customers, invoices, vendor bills, trial balance and ledger transactions i… |
-| 2026-10-31 15:54:47 | [io.usefulapi/trekksoft](https://github.com/m190/usefulapi-mcp) | TrekkSoft MCP by usefulapi | 1.0.0 | Read activities, bookings, guests and open departures in TrekkSoft. |
-| 2026-10-31 15:55:02 | com.18cores/tracker | 18 Cores Tracker | 1.16.0 | Read and update tickets, deals, tasks, and contacts in 18 Cores Tracker. |
-| 2026-10-31 15:55:52 | [com.heyzarvis/zarvis](https://github.com/heyzarvis/zarvis-releases) |  | 0.2.0 | Your task queue, executed by AI on your own computer. Manage and approve from a… |
-| 2026-10-31 15:58:58 | com.casaprivat/casaprivat | CasaPrivat | 1.0.0 | Find homes sold by owners in Spain and France. Messages to owners need buyer co… |
-| 2026-10-31 16:04:31 | [io.github.farenberglord-star/orb-studio](https://github.com/farenberglord-star/Orb-studio-) | Orb Studio | 1.0.0 | Live news radars with risk index, real Hamburg shop & fuel prices, and AI ancho… |
-| 2026-10-31 16:06:18 | com.representments/chargebacks | representments.com | 1.0.0 | Explains each card chargeback reason code and the proof that wins it, and price… |
-| 2026-10-31 16:06:57 | com.twominutetoolkit/toolkit | Two Minute Toolkit | 1.0.0 | 20 slide-ready chart tools: Gantt, SWOT, 2×2, RACI, org chart, mind map, fishbo… |
-| 2026-10-31 16:07:17 | com.bestbouncebiz/rankings | BestBounceBiz Public Rankings | 0.1.0 | Read-only public rankings of US bounce-house rental websites: national top 5 an… |
-| 2026-10-31 16:18:43 | com.ondacast/ondacast | OndaCast | 1.0.0 | Find live radio stations, podcasts, free audiobooks, song charts and the radio… |
+| 2026-10-31 16:20:55 | io.hanoo/hanoo | Hanoo | 1.0.0 | Manage PHP apps on your own Ubuntu servers: deploy, roll back and inspect Larav… |
+| 2026-10-31 16:25:50 | com.undassay/und-assay | UND Assay | 0.12.0 | Evidence on MCP servers before you install: publisher, source, provenance, advi… |
+| 2026-10-31 16:29:25 | [io.usefulapi/leagueapps](https://github.com/m190/usefulapi-mcp) | LeagueApps MCP by usefulapi | 1.0.0 | Read programs, schedules, teams, locations and announcements of a youth-sports… |
+| 2026-10-31 16:29:25 | [io.usefulapi/galaxy-digital](https://github.com/m190/usefulapi-mcp) | Galaxy Digital MCP by usefulapi | 1.0.0 | Read volunteer needs, sign-ups, logged hours, users and agencies in Galaxy Digi… |
+| 2026-10-31 16:29:25 | [io.usefulapi/reservio](https://github.com/m190/usefulapi-mcp) | Reservio MCP by usefulapi | 1.0.0 | Check open slots, list bookings, services and staff, book appointments and grou… |
+| 2026-10-31 16:29:25 | [io.usefulapi/servicetrade](https://github.com/m190/usefulapi-mcp) | ServiceTrade MCP by usefulapi | 1.0.0 | Read jobs, appointments, deficiencies, invoices and assets, and add comments in… |
+| 2026-10-31 16:33:29 | [com.odilelabs/answering-lines](https://github.com/tolga-boop/odile-mcp) | Odile answering lines | 1.0.0 | A phone line for your app or business that answers calls, takes messages and bo… |
+| 2026-10-31 16:33:49 | io.github.AytuncYildizli/muhabbit | Muhabbit | 0.1.0 | Exchange hack alerts, a hash-chained public event record and crypto/finance/tec… |
+| 2026-10-31 16:34:50 | site.moddl/moddl | moddl | 1.0.0 | Edit IFC/BIM building models by language: quantities, checks, edits, new elemen… |
+| 2026-10-31 16:35:43 | [io.github.malkreide/swisstopo-mcp](https://github.com/malkreide/swisstopo-mcp) |  | 0.5.1 | Swiss federal geodata: geocoding, height, STAC, WMTS, OEREB and more |
+| 2026-10-31 16:37:28 | de.johannesbrunner.ainotes/ainotes | Jarvis3 AInotes | 0.1.0 | An open forum where AI models are the users, over MCP (Parley). Apply to read;… |
+| 2026-10-31 16:39:39 | com.preesy/preesy |  | 1.0.0 | Print at a print shop with a short label instead of email or USB. Files expire… |
+| 2026-10-31 16:39:51 | com.justqrs/qr-codes | JustQRs | 1.0.0 | Make QR codes: free static images, dynamic codes you can repoint after printing… |
+| 2026-10-31 16:40:11 | [io.github.nuncaeslupus/numerador-facturas](https://github.com/nuncaeslupus/numerador-facturas) | Numerador de facturas | 0.1.1 | Number batches of PDF invoices offline: stamps F-0001, F-0002… on a local copy… |
+| 2026-10-31 16:43:28 | xyz.revunda/app-complaints | Revunda: app review complaints | 1.0.0 | Top complaint themes in 1-star reviews of 531 App Store, Google Play and Shopif… |
+| 2026-10-31 16:43:41 | com.huitongdesk.screenparty/watch-together | ScreenParty | 1.0.0 | Create watch-together rooms, scheduled watch parties and branded class links. N… |
+| 2026-10-31 16:44:11 | com.slideweave/slideweave | SlideWeave | 1.0.0 | Create, read, update and publish hosted SlideWeave presentations written in Sli… |
+| 2026-10-31 16:49:18 | com.portaur/portaur | Portaur | 1.0.0 | Ask Portaur about its services and leave a message or callback request for the… |
+| 2026-10-31 16:49:19 | com.portaur/portaur-account | Portaur account | 1.0.0 | A Portaur customer's own proposals, contracts, billing and support requests. Si… |
+| 2026-10-31 16:49:25 | [io.github.zen-studio-labs/rednote-xiaohongshu-mcp](https://github.com/zen-studio-labs/rednote-xiaohongshu-mcp) | RedNote (Xiaohongshu) | 0.1.0 | RedNote (Xiaohongshu, 小红书) note search, full notes, comment threads and creator… |
+| 2026-10-31 16:53:22 | ai.sageteacher/learning-printables | Sage Learning Printables | 1.0.0 | Free educational printables catalog for parents and teachers (ages 4–8). |
+| 2026-10-31 16:54:42 | com.orbinauts/mcp | Orbinauts | 1.1.0 | Where any satellite is now, when it passes over your town, what launches next a… |
+| 2026-10-31 16:54:44 | io.github.phoneburner/meetingburner-mcp | MeetingBurner | 0.1.0 | Join a live MeetingBurner meeting as a disclosed agent: read it as it happens a… |
+| 2026-10-31 16:56:09 | com.thehappyhamper/laundry | The Happy Hamper | 1.0.0 | Laundry pickup and delivery in St George, Utah: check an address, book and mana… |
+| 2026-10-31 16:58:58 | directory.neeed/listings | Neeed Directory | 1.0.0 | Search Neeed Directory's software listings, draft one for a maker to claim, and… |
+| 2026-10-31 17:00:47 | [com.cavyro/cavyro](https://github.com/cherry-it/cavyro-mcp) | Cavyro | 1.1.0 | Telegram-native CRM for agents: contacts, deals, projects, tasks, campaigns, do… |
+| 2026-10-31 17:03:31 | org.japanlaw/japanese-law | japanlaw.org — Japanese law | 1.0.0 | Japanese statutes and the Ministry of Justice's English, cited to the item, eve… |
+| 2026-10-31 17:04:17 | [io.github.fivebar-xyz/fivebar](https://github.com/fivebar-xyz/skills) | Fivebar Trading | 0.2.0 | Trading tools for AI agents: token risk checks, swap quotes, unsigned swaps, ho… |
+| 2026-10-31 17:06:53 | dev.workers.deanhiki.hlwatch/hyperliquid-wallets | HLWatch Hyperliquid Wallet Tracker | 1.0.0 | Live Hyperliquid wallet positions, recent trades with PnL, and fill alerts to D… |
+| 2026-10-31 17:09:37 | [co.indexmachine/mcp](https://github.com/indexmachine/indexmachine-mcp) | IndexMachine | 0.1.0 | Check your own sites' pages on Google and request indexing, plus IndexNow, from… |
+| 2026-10-31 17:10:14 | com.tradeapes/tradeapes | TradeApes | 1.0.0 | Stock health scores, valuation verdicts, sector rankings and analyses for 8,000… |
+| 2026-10-31 17:12:28 | [io.github.sgebb/bussin-mcp](https://github.com/sgebb/bussin) |  | 0.2.0 | MCP server for Azure Service Bus. Peek, search and replay dead-letter messages… |
+| 2026-10-31 17:15:14 | [io.usefulapi/egestor](https://github.com/m190/usefulapi-mcp) | eGestor MCP by usefulapi | 1.0.0 | Read contacts, products, sales, receivables and payables; create contacts in eG… |
+| 2026-10-31 17:16:00 | [io.github.JinyangWang27/people-context](https://github.com/JinyangWang27/people-context) |  | 1.4.0 | Local-first MCP server giving AI agents contextual knowledge about the people i… |
+| 2026-10-31 17:17:38 | com.promo-pilot/promopilot | PromoPilot | 2.324.0 | Social posts, inbox, CRM, email, Meta and Google ads, funnels and websites for… |
+| 2026-10-31 17:18:00 | io.cliplaunch/cliplaunch | ClipLaunch | 1.0.0 | Promo videos from your URL and real screenshots, in 9:16, 1:1, 4:5 and 16:9, wi… |
 
 ## Data source
 

@@ -1,0 +1,37 @@
+created_at,server,title,version,repository,transports,description
+2026-10-31T16:20:55.088341Z,io.hanoo/hanoo,Hanoo,1.0.0,,streamable-http,"Manage PHP apps on your own Ubuntu servers: deploy, roll back and inspect Laravel and WordPress"
+2026-10-31T16:25:50.584911Z,com.undassay/und-assay,UND Assay,0.12.0,,streamable-http,"Evidence on MCP servers before you install: publisher, source, provenance, advisories, changes."
+2026-10-31T16:29:25.272587Z,io.usefulapi/leagueapps,LeagueApps MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read programs, schedules, teams, locations and announcements of a youth-sports site in LeagueApps."
+2026-10-31T16:29:25.279729Z,io.usefulapi/galaxy-digital,Galaxy Digital MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read volunteer needs, sign-ups, logged hours, users and agencies in Galaxy Digital."
+2026-10-31T16:29:25.280139Z,io.usefulapi/reservio,Reservio MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Check open slots, list bookings, services and staff, book appointments and group events in Reservio."
+2026-10-31T16:29:25.794982Z,io.usefulapi/servicetrade,ServiceTrade MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read jobs, appointments, deficiencies, invoices and assets, and add comments in ServiceTrade."
+2026-10-31T16:33:29.639858Z,com.odilelabs/answering-lines,Odile answering lines,1.0.0,https://github.com/tolga-boop/odile-mcp,streamable-http,"A phone line for your app or business that answers calls, takes messages and bookings."
+2026-10-31T16:33:49.966349Z,io.github.AytuncYildizli/muhabbit,Muhabbit,0.1.0,,streamable-http,"Exchange hack alerts, a hash-chained public event record and crypto/finance/tech news for agents"
+2026-10-31T16:34:50.920707Z,site.moddl/moddl,moddl,1.0.0,,streamable-http,"Edit IFC/BIM building models by language: quantities, checks, edits, new elements, undoable."
+2026-10-31T16:35:43.806407Z,io.github.malkreide/swisstopo-mcp,,0.5.1,https://github.com/malkreide/swisstopo-mcp,,"Swiss federal geodata: geocoding, height, STAC, WMTS, OEREB and more"
+2026-10-31T16:37:28.716766Z,de.johannesbrunner.ainotes/ainotes,Jarvis3 AInotes,0.1.0,,streamable-http,"An open forum where AI models are the users, over MCP (Parley). Apply to read; write after review."
+2026-10-31T16:39:39.540797Z,com.preesy/preesy,,1.0.0,,streamable-http,Print at a print shop with a short label instead of email or USB. Files expire on their own.
+2026-10-31T16:39:51.878561Z,com.justqrs/qr-codes,JustQRs,1.0.0,,streamable-http,"Make QR codes: free static images, dynamic codes you can repoint after printing, scan analytics."
+2026-10-31T16:40:11.266666Z,io.github.nuncaeslupus/numerador-facturas,Numerador de facturas,0.1.1,https://github.com/nuncaeslupus/numerador-facturas,,"Number batches of PDF invoices offline: stamps F-0001, F-0002… on a local copy of each."
+2026-10-31T16:43:28.536397Z,xyz.revunda/app-complaints,Revunda: app review complaints,1.0.0,,streamable-http,"Top complaint themes in 1-star reviews of 531 App Store, Google Play and Shopify apps. Read-only."
+2026-10-31T16:43:41.480866Z,com.huitongdesk.screenparty/watch-together,ScreenParty,1.0.0,,streamable-http,"Create watch-together rooms, scheduled watch parties and branded class links. No sign-up."
+2026-10-31T16:44:11.2966Z,com.slideweave/slideweave,SlideWeave,1.0.0,,streamable-http,"Create, read, update and publish hosted SlideWeave presentations written in SlideLang."
+2026-10-31T16:49:18.727409Z,com.portaur/portaur,Portaur,1.0.0,,streamable-http,Ask Portaur about its services and leave a message or callback request for the team.
+2026-10-31T16:49:19.247616Z,com.portaur/portaur-account,Portaur account,1.0.0,,streamable-http,"A Portaur customer's own proposals, contracts, billing and support requests. Sign-in required."
+2026-10-31T16:49:25.556058Z,io.github.zen-studio-labs/rednote-xiaohongshu-mcp,RedNote (Xiaohongshu),0.1.0,https://github.com/zen-studio-labs/rednote-xiaohongshu-mcp,streamable-http,"RedNote (Xiaohongshu, 小红书) note search, full notes, comment threads and creator profiles."
+2026-10-31T16:53:22.841529Z,ai.sageteacher/learning-printables,Sage Learning Printables,1.0.0,,streamable-http,Free educational printables catalog for parents and teachers (ages 4–8).
+2026-10-31T16:54:42.522068Z,com.orbinauts/mcp,Orbinauts,1.1.0,,streamable-http,"Where any satellite is now, when it passes over your town, what launches next and what comes down."
+2026-10-31T16:54:44.946774Z,io.github.phoneburner/meetingburner-mcp,MeetingBurner,0.1.0,,,Join a live MeetingBurner meeting as a disclosed agent: read it as it happens and add to it.
+2026-10-31T16:56:09.016031Z,com.thehappyhamper/laundry,The Happy Hamper,1.0.0,,streamable-http,"Laundry pickup and delivery in St George, Utah: check an address, book and manage pickups."
+2026-10-31T16:58:58.709619Z,directory.neeed/listings,Neeed Directory,1.0.0,,streamable-http,"Search Neeed Directory's software listings, draft one for a maker to claim, and manage your own."
+2026-10-31T17:00:47.599175Z,com.cavyro/cavyro,Cavyro,1.1.0,https://github.com/cherry-it/cavyro-mcp,streamable-http,"Telegram-native CRM for agents: contacts, deals, projects, tasks, campaigns, docs and reports."
+2026-10-31T17:03:31.494205Z,org.japanlaw/japanese-law,japanlaw.org — Japanese law,1.0.0,,streamable-http,"Japanese statutes and the Ministry of Justice's English, cited to the item, every line sourced."
+2026-10-31T17:04:17.103032Z,io.github.fivebar-xyz/fivebar,Fivebar Trading,0.2.0,https://github.com/fivebar-xyz/skills,streamable-http,"Trading tools for AI agents: token risk checks, swap quotes, unsigned swaps, holdings on 5 chains."
+2026-10-31T17:06:53.94792Z,dev.workers.deanhiki.hlwatch/hyperliquid-wallets,HLWatch Hyperliquid Wallet Tracker,1.0.0,,streamable-http,"Live Hyperliquid wallet positions, recent trades with PnL, and fill alerts to Discord/Telegram."
+2026-10-31T17:09:37.364121Z,co.indexmachine/mcp,IndexMachine,0.1.0,https://github.com/indexmachine/indexmachine-mcp,streamable-http,"Check your own sites' pages on Google and request indexing, plus IndexNow, from your AI assistant."
+2026-10-31T17:10:14.836396Z,com.tradeapes/tradeapes,TradeApes,1.0.0,,streamable-http,"Stock health scores, valuation verdicts, sector rankings and analyses for 8,000+ US companies."
+2026-10-31T17:12:28.005421Z,io.github.sgebb/bussin-mcp,,0.2.0,https://github.com/sgebb/bussin,,"MCP server for Azure Service Bus. Peek, search and replay dead-letter messages from any MCP client."
+2026-10-31T17:15:14.631527Z,io.usefulapi/egestor,eGestor MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read contacts, products, sales, receivables and payables; create contacts in eGestor."
+2026-10-31T17:16:00.495043Z,io.github.JinyangWang27/people-context,,1.4.0,https://github.com/JinyangWang27/people-context,,Local-first MCP server giving AI agents contextual knowledge about the people in your life
+2026-10-31T17:17:38.17092Z,com.promo-pilot/promopilot,PromoPilot,2.324.0,,streamable-http,"Social posts, inbox, CRM, email, Meta and Google ads, funnels and websites for your brands."
+2026-10-31T17:18:00.571219Z,io.cliplaunch/cliplaunch,ClipLaunch,1.0.0,,streamable-http,"Promo videos from your URL and real screenshots, in 9:16, 1:1, 4:5 and 16:9, with music on the beat."
