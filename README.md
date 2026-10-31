@@ -9,39 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 02:18 UTC
+## Latest list — 2026-10-31 03:19 UTC
 
-New MCP servers published between 2026-10-31 01:20 UTC and 2026-10-31 02:18 UTC.
+New MCP servers published between 2026-10-31 02:18 UTC and 2026-10-31 03:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-31T02-18-19-985158Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-31T03-19-29-42939Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-31 01:22:23 | [io.github.Jihaochang1/foodcalorie-mcp](https://github.com/Jihaochang1/foodcalorie-mcp) | FoodCalorie China | 0.1.2 | Chinese chain-restaurant calories and macros for 103 menu items, no API key. |
-| 2026-10-31 01:35:24 | io.github.KLICBOT/klicbot | Klicbot | 1.0.0 | Remote MCP for Dutch KLIC-melding utility data, maps, and dig-safe workflows. |
-| 2026-10-31 01:36:03 | io.github.kriton-dev/broken-links | Broken Link Checker That Never Charges… | 1.0.10 | Find broken links on a website: crawls its pages and reports 404s, errors and r… |
-| 2026-10-31 01:36:13 | io.github.kriton-dev/company-ats-board | Company ATS Finder — Which Hiring Syste… | 1.0.9 | Find which applicant-tracking system a company hires through, its board URL and… |
-| 2026-10-31 01:36:23 | io.github.kriton-dev/company-filing-index | Company Filing Index — SEC Reports, $0.… | 1.0.2 | Read recent company financial filing metadata from the official SEC JSON API |
-| 2026-10-31 01:36:33 | io.github.kriton-dev/crossref-doi-metadata | Crossref DOI Metadata — Titles, Dates &… | 1.0.4 | Resolve DOI identifiers to Crossref titles, venues, dates and citation counts f… |
-| 2026-10-31 01:36:44 | io.github.kriton-dev/dataset-json-cleaner | JSON Dataset Cleaner — Merge, Dedup & E… | 1.0.4 | Merge and deduplicate caller-supplied JSON datasets, keep stable row order and… |
-| 2026-10-31 01:36:54 | io.github.kriton-dev/document-to-markdown | Word, Excel & PowerPoint to Markdown | 1.0.13 | Convert Word, Excel, PowerPoint, OpenDocument, EPUB and RTF files to Markdown f… |
-| 2026-10-31 01:37:04 | io.github.kriton-dev/greenhouse-jobs | Greenhouse Job Board Scraper — Open Job… | 1.0.9 | Get every open job from any company's Greenhouse job board, fetched live |
-| 2026-10-31 01:37:14 | io.github.kriton-dev/http-get-response | Public HTTP GET — Response Body, Status… | 1.0.4 | Fetch public HTTP GET responses as text with status, content type and a content… |
-| 2026-10-31 01:37:24 | io.github.kriton-dev/image-metadata-remover | Image Metadata Remover — Strip EXIF, GP… | 1.0.6 | Remove EXIF, GPS location and camera serials from images without re-encoding th… |
-| 2026-10-31 01:37:34 | io.github.kriton-dev/image-upscale | Image Upscaler & Photo Restorer — AI 2x… | 1.1.4 | Upscale images 2x or 4x with Real-ESRGAN AI super-resolution |
-| 2026-10-31 01:37:45 | io.github.kriton-dev/lever-jobs | Lever Jobs Scraper — Postings from Any… | 1.0.9 | Get every published job from any company's Lever site, global or EU, fetched li… |
-| 2026-10-31 01:37:55 | io.github.kriton-dev/remote-jobs | Remote Jobs Scraper — Remote OK Listing… | 1.0.8 | Get current remote jobs from Remote OK filtered by keyword, tag, seniority, cou… |
-| 2026-10-31 01:38:05 | io.github.kriton-dev/video-frames | Video Frame Extractor — by Scene, Inter… | 1.0.12 | Extract still frames from video URLs every N seconds, at scene changes or at na… |
-| 2026-10-31 01:43:24 | com.bluulabs/bluu | Bluu | 0.4.0 | Personal finance in Bluu: spending, budgets, goals, shared spaces and net worth. |
-| 2026-10-31 01:46:55 | io.github.sumitrmardy/google-hotels-scraper | Google Hotels Scraper | 1.0.0 | Hotel nightly prices and stay totals for two adults, with city, dates and resol… |
-| 2026-10-31 01:49:45 | [me.heart-of/heart](https://github.com/kit-g/heart-api) | Heart | 1.0.0 | Your Heart workout log: workouts, records, templates, programs. Holds no health… |
-| 2026-10-31 01:51:19 | com.workwae/mcp-developer | Workwae developer | 1.1.0 | Workwae developer tools: sync health, webhooks, connect links, usage, audit log… |
-| 2026-10-31 01:55:52 | [io.usefulapi/lingohub](https://github.com/m190/usefulapi-mcp) | LingoHub MCP by usefulapi | 1.0.2 | MCP server for LingoHub — localization projects, resources, exports and reposit… |
-| 2026-10-31 01:55:53 | [io.usefulapi/markettime](https://github.com/m190/usefulapi-mcp) | MarketTime MCP by usefulapi | 1.0.1 | MCP server for MarketTime — wholesale orders, customers, catalog and shipment t… |
-| 2026-10-31 02:00:13 | [io.github.CloudCorpRecords/docbase](https://github.com/CloudCorpRecords/docbase) |  | 0.1.0 | MongoDB tools: query, aggregate, index, and administer collections and database… |
-| 2026-10-31 02:00:59 | [io.usefulapi/getfly-crm](https://github.com/m190/usefulapi-mcp) | Getfly CRM MCP by usefulapi | 1.0.1 | MCP server for Getfly CRM — customers, opportunities, orders, tickets and tasks. |
-| 2026-10-31 02:01:01 | [io.usefulapi/skuvault](https://github.com/m190/usefulapi-mcp) | SkuVault MCP by usefulapi | 1.0.1 | MCP server for SkuVault — products, inventory, sales, purchase orders and stock… |
-| 2026-10-31 02:12:20 | [io.github.CloudCorpRecords/analyticbase](https://github.com/CloudCorpRecords/analyticbase) |  | 0.1.0 | Query ClickHouse over HTTP: list databases and tables, run SELECT. |
+| 2026-10-31 02:19:00 | [io.usefulapi/talenta](https://github.com/m190/usefulapi-mcp) | Talenta MCP by usefulapi | 1.0.1 | MCP server for Talenta — read employee, attendance, leave, payroll and recruitm… |
+| 2026-10-31 02:19:01 | [io.usefulapi/shoprocket](https://github.com/m190/usefulapi-mcp) | Shoprocket MCP by usefulapi | 1.0.1 | MCP server for Shoprocket — orders, products, customers, store stats and discou… |
+| 2026-10-31 02:24:23 | [io.usefulapi/builder-prime](https://github.com/m190/usefulapi-mcp) | Builder Prime MCP by usefulapi | 1.0.0 | Read Builder Prime projects and meetings, and create or update them from chat. |
+| 2026-10-31 02:24:24 | [io.usefulapi/servicemonster](https://github.com/m190/usefulapi-mcp) | ServiceMonster MCP by usefulapi | 1.0.0 | Read ServiceMonster customers, jobs, orders and schedules, and add customer not… |
+| 2026-10-31 02:25:16 | [io.github.CloudCorpRecords/indexsearch](https://github.com/CloudCorpRecords/indexsearch) |  | 0.1.0 | Elasticsearch tools: indices, mappings, query DSL search, ES\|QL, and shards. |
+| 2026-10-31 02:26:04 | [io.usefulapi/ezrentout](https://github.com/m190/usefulapi-mcp) | EZRentOut MCP by usefulapi | 1.0.1 | MCP server for EZRentOut — rental orders, assets, customers, inventory and work… |
+| 2026-10-31 02:40:45 | [io.github.joshavenue/hydromancer-mcp](https://github.com/joshavenue/Hydromancer-MCP) | Hydromancer | 0.2.1 | Read-only Hyperliquid data: wallets, top traders, markets, funding and liquidat… |
+| 2026-10-31 02:40:55 | com.myhumanrep/agent-contact | MyHumanRep: Contact a Human | 2.0.0 | Two-way human contact and open-ended human capability requests for AI agents. |
+| 2026-10-31 02:40:56 | [io.github.CloudCorpRecords/searchport](https://github.com/CloudCorpRecords/searchport) |  | 0.1.0 | Web, local, news, image, and video search through the Brave Search API. |
+| 2026-10-31 02:44:08 | [io.github.imogenlabs/keen](https://github.com/imogenlabs/keen) | keen | 1.6.4 | Atlassian Cloud for AI apps: Jira, Confluence, Bitbucket, Service Management, A… |
+| 2026-10-31 02:49:15 | io.github.sumitrmardy/youtube-channel-info | YouTube Channel Info Scraper | 1.0.0 | Public channel stats, external links, keyword discovery and recent long-form up… |
+| 2026-10-31 02:49:36 | [io.github.kosa8ai/kosa8](https://github.com/kosa8ai/kosa8-claude-plugin) | kosa8 | 0.1.0 | Sealed microVM sandboxes for AI agents: run untrusted code, checkpoint, rewind… |
+| 2026-10-31 02:50:49 | com.alexandrecaramaschi/public-content | Alexandre Caramaschi: cursos e aulas de… | 1.12.0 | Cursos gratuitos de GEO, SEO e IA em português: aulas, busca híbrida, grafo de… |
+| 2026-10-31 02:52:11 | [io.usefulapi/jurnal](https://github.com/m190/usefulapi-mcp) | Mekari Jurnal MCP by usefulapi | 1.0.1 | MCP server for Mekari Jurnal — company accounting, sales, purchases and custome… |
+| 2026-10-31 02:52:13 | [io.usefulapi/exaktime](https://github.com/m190/usefulapi-mcp) | ExakTime / Arcoro MCP by usefulapi | 1.0.1 | MCP server for Arcoro and ExakTime — workforce data, jobs, cost codes and locat… |
+| 2026-10-31 03:00:48 | [io.github.CloudCorpRecords/libdocs](https://github.com/CloudCorpRecords/libdocs) |  | 0.1.0 | Resolve library names and fetch current, version-specific documentation via Con… |
+| 2026-10-31 03:03:07 | [io.github.TillaCrypto/tilla-mcp](https://github.com/TillaCrypto/tilla) | TILLA - market data on one clock | 2.0.0 | Crypto, US stocks, FX, rates, macro and Bitcoin node data on one clock, for any… |
+| 2026-10-31 03:03:43 | [io.usefulapi/smarthr](https://github.com/m190/usefulapi-mcp) | SmartHR MCP by usefulapi | 1.0.1 | MCP server for SmartHR — employees, departments, dependents and employee invita… |
+| 2026-10-31 03:03:45 | [io.usefulapi/abra-flexi](https://github.com/m190/usefulapi-mcp) | ABRA Flexi MCP by usefulapi | 1.0.1 | MCP server for ABRA Flexi — accounting, contacts, stock and draft-checked invoi… |
+| 2026-10-31 03:15:42 | [io.github.CloudCorpRecords/deepsearch](https://github.com/CloudCorpRecords/deepsearch) |  | 0.1.0 | Neural web search, code context, and page crawling through the Exa API. |
+| 2026-10-31 03:17:00 | [io.usefulapi/neverbounce](https://github.com/m190/usefulapi-mcp) | NeverBounce MCP by usefulapi | 1.0.2 | MCP server for NeverBounce — business email verification, credits and bulk jobs. |
+| 2026-10-31 03:17:01 | [io.usefulapi/superphone](https://github.com/m190/usefulapi-mcp) | SuperPhone MCP by usefulapi | 1.0.1 | MCP server for SuperPhone — contacts, conversations, tags and consent-based tex… |
+| 2026-10-31 03:18:55 | [io.usefulapi/currencylayer](https://github.com/m190/usefulapi-mcp) | currencylayer MCP by usefulapi | 1.0.1 | Read and calculate currency exchange rates with your paid currencylayer account. |
 
 ## Data source
 
