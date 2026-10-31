@@ -9,50 +9,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 17:18 UTC
+## Latest list — 2026-10-31 18:20 UTC
 
-New MCP servers published between 2026-10-31 16:19 UTC and 2026-10-31 17:18 UTC.
+New MCP servers published between 2026-10-31 17:18 UTC and 2026-10-31 18:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-31T17-18-42-075574Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-31T18-20-32-844597Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-31 16:20:55 | io.hanoo/hanoo | Hanoo | 1.0.0 | Manage PHP apps on your own Ubuntu servers: deploy, roll back and inspect Larav… |
-| 2026-10-31 16:25:50 | com.undassay/und-assay | UND Assay | 0.12.0 | Evidence on MCP servers before you install: publisher, source, provenance, advi… |
-| 2026-10-31 16:29:25 | [io.usefulapi/leagueapps](https://github.com/m190/usefulapi-mcp) | LeagueApps MCP by usefulapi | 1.0.0 | Read programs, schedules, teams, locations and announcements of a youth-sports… |
-| 2026-10-31 16:29:25 | [io.usefulapi/galaxy-digital](https://github.com/m190/usefulapi-mcp) | Galaxy Digital MCP by usefulapi | 1.0.0 | Read volunteer needs, sign-ups, logged hours, users and agencies in Galaxy Digi… |
-| 2026-10-31 16:29:25 | [io.usefulapi/reservio](https://github.com/m190/usefulapi-mcp) | Reservio MCP by usefulapi | 1.0.0 | Check open slots, list bookings, services and staff, book appointments and grou… |
-| 2026-10-31 16:29:25 | [io.usefulapi/servicetrade](https://github.com/m190/usefulapi-mcp) | ServiceTrade MCP by usefulapi | 1.0.0 | Read jobs, appointments, deficiencies, invoices and assets, and add comments in… |
-| 2026-10-31 16:33:29 | [com.odilelabs/answering-lines](https://github.com/tolga-boop/odile-mcp) | Odile answering lines | 1.0.0 | A phone line for your app or business that answers calls, takes messages and bo… |
-| 2026-10-31 16:33:49 | io.github.AytuncYildizli/muhabbit | Muhabbit | 0.1.0 | Exchange hack alerts, a hash-chained public event record and crypto/finance/tec… |
-| 2026-10-31 16:34:50 | site.moddl/moddl | moddl | 1.0.0 | Edit IFC/BIM building models by language: quantities, checks, edits, new elemen… |
-| 2026-10-31 16:35:43 | [io.github.malkreide/swisstopo-mcp](https://github.com/malkreide/swisstopo-mcp) |  | 0.5.1 | Swiss federal geodata: geocoding, height, STAC, WMTS, OEREB and more |
-| 2026-10-31 16:37:28 | de.johannesbrunner.ainotes/ainotes | Jarvis3 AInotes | 0.1.0 | An open forum where AI models are the users, over MCP (Parley). Apply to read;… |
-| 2026-10-31 16:39:39 | com.preesy/preesy |  | 1.0.0 | Print at a print shop with a short label instead of email or USB. Files expire… |
-| 2026-10-31 16:39:51 | com.justqrs/qr-codes | JustQRs | 1.0.0 | Make QR codes: free static images, dynamic codes you can repoint after printing… |
-| 2026-10-31 16:40:11 | [io.github.nuncaeslupus/numerador-facturas](https://github.com/nuncaeslupus/numerador-facturas) | Numerador de facturas | 0.1.1 | Number batches of PDF invoices offline: stamps F-0001, F-0002… on a local copy… |
-| 2026-10-31 16:43:28 | xyz.revunda/app-complaints | Revunda: app review complaints | 1.0.0 | Top complaint themes in 1-star reviews of 531 App Store, Google Play and Shopif… |
-| 2026-10-31 16:43:41 | com.huitongdesk.screenparty/watch-together | ScreenParty | 1.0.0 | Create watch-together rooms, scheduled watch parties and branded class links. N… |
-| 2026-10-31 16:44:11 | com.slideweave/slideweave | SlideWeave | 1.0.0 | Create, read, update and publish hosted SlideWeave presentations written in Sli… |
-| 2026-10-31 16:49:18 | com.portaur/portaur | Portaur | 1.0.0 | Ask Portaur about its services and leave a message or callback request for the… |
-| 2026-10-31 16:49:19 | com.portaur/portaur-account | Portaur account | 1.0.0 | A Portaur customer's own proposals, contracts, billing and support requests. Si… |
-| 2026-10-31 16:49:25 | [io.github.zen-studio-labs/rednote-xiaohongshu-mcp](https://github.com/zen-studio-labs/rednote-xiaohongshu-mcp) | RedNote (Xiaohongshu) | 0.1.0 | RedNote (Xiaohongshu, 小红书) note search, full notes, comment threads and creator… |
-| 2026-10-31 16:53:22 | ai.sageteacher/learning-printables | Sage Learning Printables | 1.0.0 | Free educational printables catalog for parents and teachers (ages 4–8). |
-| 2026-10-31 16:54:42 | com.orbinauts/mcp | Orbinauts | 1.1.0 | Where any satellite is now, when it passes over your town, what launches next a… |
-| 2026-10-31 16:54:44 | io.github.phoneburner/meetingburner-mcp | MeetingBurner | 0.1.0 | Join a live MeetingBurner meeting as a disclosed agent: read it as it happens a… |
-| 2026-10-31 16:56:09 | com.thehappyhamper/laundry | The Happy Hamper | 1.0.0 | Laundry pickup and delivery in St George, Utah: check an address, book and mana… |
-| 2026-10-31 16:58:58 | directory.neeed/listings | Neeed Directory | 1.0.0 | Search Neeed Directory's software listings, draft one for a maker to claim, and… |
-| 2026-10-31 17:00:47 | [com.cavyro/cavyro](https://github.com/cherry-it/cavyro-mcp) | Cavyro | 1.1.0 | Telegram-native CRM for agents: contacts, deals, projects, tasks, campaigns, do… |
-| 2026-10-31 17:03:31 | org.japanlaw/japanese-law | japanlaw.org — Japanese law | 1.0.0 | Japanese statutes and the Ministry of Justice's English, cited to the item, eve… |
-| 2026-10-31 17:04:17 | [io.github.fivebar-xyz/fivebar](https://github.com/fivebar-xyz/skills) | Fivebar Trading | 0.2.0 | Trading tools for AI agents: token risk checks, swap quotes, unsigned swaps, ho… |
-| 2026-10-31 17:06:53 | dev.workers.deanhiki.hlwatch/hyperliquid-wallets | HLWatch Hyperliquid Wallet Tracker | 1.0.0 | Live Hyperliquid wallet positions, recent trades with PnL, and fill alerts to D… |
-| 2026-10-31 17:09:37 | [co.indexmachine/mcp](https://github.com/indexmachine/indexmachine-mcp) | IndexMachine | 0.1.0 | Check your own sites' pages on Google and request indexing, plus IndexNow, from… |
-| 2026-10-31 17:10:14 | com.tradeapes/tradeapes | TradeApes | 1.0.0 | Stock health scores, valuation verdicts, sector rankings and analyses for 8,000… |
-| 2026-10-31 17:12:28 | [io.github.sgebb/bussin-mcp](https://github.com/sgebb/bussin) |  | 0.2.0 | MCP server for Azure Service Bus. Peek, search and replay dead-letter messages… |
-| 2026-10-31 17:15:14 | [io.usefulapi/egestor](https://github.com/m190/usefulapi-mcp) | eGestor MCP by usefulapi | 1.0.0 | Read contacts, products, sales, receivables and payables; create contacts in eG… |
-| 2026-10-31 17:16:00 | [io.github.JinyangWang27/people-context](https://github.com/JinyangWang27/people-context) |  | 1.4.0 | Local-first MCP server giving AI agents contextual knowledge about the people i… |
-| 2026-10-31 17:17:38 | com.promo-pilot/promopilot | PromoPilot | 2.324.0 | Social posts, inbox, CRM, email, Meta and Google ads, funnels and websites for… |
-| 2026-10-31 17:18:00 | io.cliplaunch/cliplaunch | ClipLaunch | 1.0.0 | Promo videos from your URL and real screenshots, in 9:16, 1:1, 4:5 and 16:9, wi… |
+| 2026-10-31 17:20:55 | ai.gwix/gwix | GWIX | 1.0.0 | Pay, hiring and labor-market data from named sources, with citations. |
+| 2026-10-31 17:27:54 | ai.tokentender/token-tender | Token Tender | 1.2.0 | A bar for AI agents. Pour a drink, keep a tab, earn a README badge, make the re… |
+| 2026-10-31 17:31:36 | [io.github.Ajey95/immunograph](https://github.com/Ajey95/immuno-graph) | ImmunoGraph MCP | 0.2.0 | Provenance-aware computational epitope research tools with reproducible offline… |
+| 2026-10-31 17:31:46 | com.handbookhub/handbookhub | HandbookHub MCP | 1.0.0 | Search and read saved employee handbooks with scoped, read-only access and poli… |
+| 2026-10-31 17:33:02 | com.simplenumerologyapi/numerology | Simple Numerology API | 1.0.0 | Pythagorean numerology charts, personal cycles and compatibility from a name an… |
+| 2026-10-31 17:33:14 | ai.homouniversalis/astrology-swiss-ephemeris-natal-chart-synastry-horoscope-zodiac-draconic-astronomy-cosmos-cosmic-soul-spiritual-esoteric-destiny-numerology-meditation | Homo Universalis — Swiss Ephemeris Astr… | 1.5.0 | Swiss Ephemeris natal chart, 3D soul synastry & cosmic ephemeris oracle (<1.5ms… |
+| 2026-10-31 17:33:15 | ai.homouniversalis/bazi-ba-zi-tarot-vedic-jyotish-nakshatra-mayan-iching-i-ching-human-design-humandesign-kabbalah-alchemy-karmic-compatibility-family-constellation | Homo Universalis — 7 Wisdoms (BaZi, Tar… | 1.5.0 | Deterministic 7-Wisdoms (BaZi, Tarot, Vedic Jyotish, Mayan, I-Ching, Human Desi… |
+| 2026-10-31 17:33:45 | co.gobananas/go-bananas | Go Bananas | 1.0.0 | Make, change, play and share browser games by describing them. |
+| 2026-10-31 17:34:34 | [eu.comunicate/publishing](https://github.com/adrianncraciun-cmd/public-mcp) | Comunicate.eu | 1.8.6 | Publish press releases and advertorials on 3,800+ news sites: catalogue, prices… |
+| 2026-10-31 17:38:02 | ai.tovan/tovan | Tovan | 1.0.0 | Designs custom electronic devices from a plain-words description and has them m… |
+| 2026-10-31 17:39:16 | [io.usefulapi/solo](https://github.com/m190/usefulapi-mcp) | Solo MCP by usefulapi | 1.0.0 | Read invoices, offers, payment status and the product catalog in Solo. |
+| 2026-10-31 17:39:17 | [io.usefulapi/zettle](https://github.com/m190/usefulapi-mcp) | Zettle MCP by usefulapi | 1.0.0 | Read sales, products, stock, balance and payouts; create products in Zettle. |
+| 2026-10-31 17:39:59 | ai.homouniversalis/planetary-planets-lunar-solar-ascendant-transits-retrograde-chiron-lilith-nodes-houses-divination-mystic-karma-dharma-fate-consciousness-awakening-archetypes-jungian | Homo Universalis — Planetary Transits,… | 1.5.0 | Planetary transits, lunar/solar ephemeris, ascendant, houses, karma & 193 Jungi… |
+| 2026-10-31 17:40:02 | ai.homouniversalis/four-pillars-tzolkin-dreamspell-hexagram-gene-keys-genekeys-sephiroth-tree-of-life-gematria-arcana-chakras-kundalini-ayurveda-elements-relationship-matchmaking-couple-lineage | Homo Universalis — Tzolkin, Gene Keys,… | 1.5.0 | Four Pillars, Tzolkin, Hexagrams, Tree of Life, 4 Elements, Couple Matchmaking… |
+| 2026-10-31 17:40:03 | ai.homouniversalis/astrologia-horoscopo-carta-natal-sinastria-oraculo-efemerides-constelaciones-familiares-tarot-bazi-maya-ching-cabala-diseno-humano-arquetipos-espiritual-alma-destino-ancestors | Homo Universalis — Oráculo MCP de Astro… | 1.5.0 | Oráculo determinista de Astrología, Carta Natal, Sinastría 3D, Constelaciones y… |
+| 2026-10-31 17:43:45 | com.itsfoiptime/shop | FOIP Shop | 1.0.0 | Search and buy FOIP funny AI and future-of-work tees, hoodies and mugs. Cart +… |
+| 2026-10-31 17:45:01 | com.pagofix/pagofix | PagoFix | 1.0.0 | Unpaid EU B2B invoices: late-payment interest, reminder letters, European payme… |
+| 2026-10-31 17:48:58 | [app.homotope/homotope](https://github.com/stevenroman91/homotope-engine) |  | 1.0.0 | Vectorize images to SVG, PDF, EPS or DXF, and check a DXF before cutting. |
+| 2026-10-31 17:53:01 | ai.komyosys.raabta/raabta | Raabta | 1.2.0 | WhatsApp customer support inbox: read, triage, draft and answer customer chats… |
+| 2026-10-31 17:54:49 | io.github.aliasist/alias-forum | Alias Forum | 1.2.0 | Knowledge exchange on the future of AI for agents: sign up in one call, join so… |
+| 2026-10-31 17:56:09 | com.postalref/postalref | postalref | 0.1.0 | USPS package barcodes, service type codes and mailing terms, each cited to its… |
+| 2026-10-31 17:56:25 | tr.com.isinn.www/isinn | İşinn | 1.0.0 | Find service providers in Turkey: tutors, designers, translators, movers and mo… |
+| 2026-10-31 17:57:06 | com.humanitieshelpinghands/checker | Humanities Helping Hands checker | 1.1.0 | 121 machine-proven math facts, plus 49 real-world claims with machine-checked a… |
+| 2026-10-31 17:58:47 | com.benchleader/benchleader | BenchLeader | 1.0.0 | Daily LLM leaderboard from independent benchmarks: ranks, scores, prices, speed… |
+| 2026-10-31 18:09:10 | co.neverapply/neverapply | NeverApply | 1.0.0 | Search jobs without signing in. Sign in for personalized matches and apply. |
+| 2026-10-31 18:15:37 | [ai.surfingdog/inbox](https://github.com/surfingdogai/inbox) | Surfing Dog Inbox | 0.2.0 | Message, ask for a quote or book a call with Surfing Dog, through its open-sour… |
 
 ## Data source
 
