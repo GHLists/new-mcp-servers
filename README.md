@@ -9,37 +9,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 06:18 UTC
+## Latest list — 2026-10-31 07:19 UTC
 
-New MCP servers published between 2026-10-31 05:20 UTC and 2026-10-31 06:18 UTC.
+New MCP servers published between 2026-10-31 06:18 UTC and 2026-10-31 07:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-31T06-18-41-445032Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-31T07-19-34-924849Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-31 05:21:16 | [io.usefulapi/rex-software](https://github.com/m190/usefulapi-mcp) | Rex Software MCP by usefulapi | 1.1.0 | Read contacts, listings, tenancies and tasks; create a person contact, note or… |
-| 2026-10-31 05:23:42 | [io.github.nushey/context-manager](https://github.com/nushey/ContextManager) | ContextManager | 1.3.1 | Roslyn-powered structural context and a dependency graph of C# solutions for AI… |
-| 2026-10-31 05:23:55 | [io.github.santinohicke/uca-mcp](https://github.com/santinohicke/UCA-MCP) |  | 1.0.8 | MCP no oficial para estudiantes de la UCA: EVA y SIU Guaraní (materias, notas,… |
-| 2026-10-31 05:24:15 | app.inescapable/booking | Inescapable Detail | 1.0.0 | Mobile car detailing in Jacksonville, FL: prices, open times and booking. |
-| 2026-10-31 05:25:11 | io.github.covenant-common/covenant-aap | Covenant AAP - hosted developer pilot | 0.46.0-pilot.202610… | Pilot: marketplace search, exact contract drafts and agreement review for agent… |
-| 2026-10-31 05:33:44 | [com.inferweave/refereekit](https://github.com/junipertcy/refereekit) | refereekit | 1.0.1 | Confidential peer review that checks a paper's citations. Set up from the insta… |
-| 2026-10-31 05:34:19 | [io.usefulapi/shipcloud](https://github.com/m190/usefulapi-mcp) | Shipcloud MCP by usefulapi | 1.1.0 | Track shipments and quote shipping; prepare shipments, buy labels and request c… |
-| 2026-10-31 05:42:44 | com.goodailabs/arrakis | Arrakis | 0.1.0 | Rent GPUs at live prices and serve any Hugging Face model, with spend caps for… |
-| 2026-10-31 05:43:34 | io.github.xiezhengyang1990-beep/datalantern-tech-stack | Data Lantern Website Technology Detector | 0.1.0 | Batch website technology detection with evidence. Paid Apify Actor; bring your… |
-| 2026-10-31 05:44:18 | io.github.abdurshd/saas-pro-max | SaaS Pro Max | 0.3.0 | Product analytics, error tracking, feature flags and SaaS operations with scope… |
-| 2026-10-31 05:47:28 | [io.usefulapi/acube](https://github.com/m190/usefulapi-mcp) | A-Cube MCP by usefulapi | 1.1.0 | Read Italian invoices, receipts and SDI notices; validate, prepare and submit a… |
-| 2026-10-31 05:48:03 | [network.luca/spr-mcp](https://github.com/luca-network/spr) | SPR (Sealed Payment Record) | 0.1.5 | Seal every payment your AI agent makes as a signed record, on your own machine,… |
-| 2026-10-31 05:48:34 | io.github.guestitab/core-mcp | Guestit | 1.0.0 | Search, price and compare Guestit's managed stays in Sweden. Continue booking o… |
-| 2026-10-31 05:50:05 | ai.unitrader/unitrader | Unitrader | 1.0.0 | Learn how Unitrader's AI trader works, see what it did today, and pick up tradi… |
-| 2026-10-31 05:50:53 | com.autocarena/auctions | Carena Auctions | 1.0.0 | Search Copart, IAAI and ADESA auction vehicles, check your wallet, and place bi… |
-| 2026-10-31 05:58:08 | com.greenpharmacies-sharm/pharmacy | Green Pharmacies | 1.0.0 | Pharmacy delivery in Sharm El Sheikh, Egypt: search medicines, prices, stock an… |
-| 2026-10-31 06:03:23 | com.joeygeorgeplumbing/joey-george-plumbing | Joey George Plumbing | 1.0.0 | Homeowner plumbing help for AI agents: South OC water hardness, water heater ch… |
-| 2026-10-31 06:07:04 | [io.usefulapi/recurpay](https://github.com/m190/usefulapi-mcp) | Recurpay MCP by usefulapi | 1.1.0 | Read subscriptions, subscribers and orders; manage renewals, billing skips and… |
-| 2026-10-31 06:15:01 | com.himoose/aeo-tools | Hi, Moose | 0.2.0 | AEO and SEO for your brand: content briefs, drafts, audits, and AI search visib… |
-| 2026-10-31 06:16:08 | [io.usefulapi/forms-on-fire](https://github.com/m190/usefulapi-mcp) | Forms On Fire / Appenate MCP by usefula… | 1.1.0 | Read mobile forms, entries, users and tasks; create confirmed draft or sent tas… |
-| 2026-10-31 06:16:48 | [io.github.agigante80/actual-mcp-server](https://github.com/agigante80/actual-mcp-server) | Actual Budget MCP Server | 0.25.0 | Manage Actual Budget accounts, transactions, budgets, rules and reports from an… |
-| 2026-10-31 06:17:08 | tv.globenow/live-news | GlobeNow.tv live world news | 1.0.0 | Live world news events, country-by-country coverage and a city's latest news vi… |
-| 2026-10-31 06:17:27 | [io.github.SaleMateApp/mcp](https://github.com/SaleMateApp/mcp) | SaleMate | 1.0.0 | Make product videos, UGC ads, scripts, voice-overs and photos with your SaleMat… |
+| 2026-10-31 06:22:46 | de.energieausweis-express/energieausweis | Energieausweis Express | 1.0.0 | Prepare a German Energieausweis (energy certificate); an Energieberater checks… |
+| 2026-10-31 06:27:26 | [io.github.theguysaccount/colabio](https://github.com/theguysaccount/mcp-catalog) | Colabio | 1.0.0 | Read workforce analytics for organizations the signed-in user is authorized to… |
+| 2026-10-31 06:27:27 | [io.github.theguysaccount/geminilaunch](https://github.com/theguysaccount/mcp-catalog) | GeminiLaunch | 1.0.0 | Connect a GeminiLaunch account to agents using its authenticated product MCP to… |
+| 2026-10-31 06:29:57 | [io.github.theguysaccount/election-org](https://github.com/theguysaccount/election-org-public-record) | Election.org | 1.0.0 | Read sourced U.S. civic records: candidates, offices, campaign finance, electio… |
+| 2026-10-31 06:29:59 | [io.github.theguysaccount/teammeet](https://github.com/theguysaccount/mcp-catalog) | TeamMeet | 1.0.0 | Start meetings and work with meeting transcripts, notes, recordings and follow-… |
+| 2026-10-31 06:29:59 | [io.github.theguysaccount/tellscreen](https://github.com/theguysaccount/mcp-catalog) | Tellscreen | 1.0.0 | Read screen recording links: summaries, transcripts, suggested changes and fram… |
+| 2026-10-31 06:31:46 | io.github.stackvitals/stackvitals | StackVitals | 0.1.1 | Known flaky tests, failing and slow CI, review flow, delivery and dependency ri… |
+| 2026-10-31 06:34:36 | [io.github.theguysaccount/3ndgam3](https://github.com/theguysaccount/mcp-catalog) | 3ndgam3 | 1.0.0 | Read public research communities, attributable agent activity and discussion th… |
+| 2026-10-31 06:36:50 | [io.usefulapi/sorry-app](https://github.com/m190/usefulapi-mcp) | Sorry MCP by usefulapi | 1.1.0 | Read status pages and incidents; make confirmed public changes and manage indiv… |
+| 2026-10-31 06:41:01 | org.everroad/dealers | Everroad: Utah car dealer facts | 1.0.0 | Utah franchise car dealer facts with sources: hours, weekend service, doc fees,… |
+| 2026-10-31 06:41:02 | [io.usefulapi/workfeed](https://github.com/m190/usefulapi-mcp) | Workfeed MCP by usefulapi | 1.0.0 | Review staffing, availability and leave; create or update shifts with confirmat… |
+| 2026-10-31 06:41:02 | [io.usefulapi/smartplan](https://github.com/m190/usefulapi-mcp) | Smartplan MCP by usefulapi | 1.0.0 | Read accounts, staff, shifts, worklogs and absence dates in Smartplan. |
+| 2026-10-31 06:41:02 | [io.usefulapi/quinyx](https://github.com/m190/usefulapi-mcp) | Quinyx MCP by usefulapi | 1.0.0 | Read groups, roles, employees, agreement metadata, role assignments and planned… |
+| 2026-10-31 06:41:02 | [io.usefulapi/repairdesk](https://github.com/m190/usefulapi-mcp) | RepairDesk MCP by usefulapi | 1.0.0 | Read tickets, customers, stock and invoices; add confirmed internal ticket note… |
+| 2026-10-31 06:41:03 | [io.usefulapi/shop-boss](https://github.com/m190/usefulapi-mcp) | Shop Boss MCP by usefulapi | 1.0.0 | Read repair orders, appointments, customers, vehicles, parts and shop reference… |
+| 2026-10-31 06:41:03 | [io.usefulapi/constructiononline](https://github.com/m190/usefulapi-mcp) | ConstructionOnline MCP by usefulapi | 1.0.0 | Look up individual contacts, projects, opportunities and schedules. |
+| 2026-10-31 06:41:03 | [io.usefulapi/text-request](https://github.com/m190/usefulapi-mcp) | Text Request MCP by usefulapi | 1.0.0 | Read inboxes, messages, contacts, groups, tags and scheduled messages. |
+| 2026-10-31 06:41:03 | [io.usefulapi/smsglobal](https://github.com/m190/usefulapi-mcp) | SMSGlobal MCP by usefulapi | 1.0.0 | Read account details, contacts, groups, SMS history, numbers and opt-outs. |
+| 2026-10-31 06:43:19 | [io.github.theguysaccount/creditable](https://github.com/theguysaccount/mcp-catalog) | Creditable | 1.0.0 | Read builder program facts, validate applications and submit founder-approved p… |
+| 2026-10-31 06:48:16 | app.aplusz/ultra-pool-billiards | Ultra Billiard Pool | 1.0.0 | Eight-ball pool in the browser: table state, shot physics, rules and live match… |
+| 2026-10-31 06:49:54 | io.disdex/discord-servers | disdex: Discord server search | 1.0.0 | Find public Discord servers by topic, language and size, check invite links, se… |
+| 2026-10-31 06:52:41 | com.ratesonar/rates | RateSonar | 0.1.0 | Current and past Australian bank rates: home loans, savings and term deposits,… |
+| 2026-10-31 06:55:38 | net.jazznote/jazznote | JazzNote | 1.0.0 | Search, read, create and edit pages in your JazzNote workspace, and add comment… |
+| 2026-10-31 06:58:28 | [io.github.assafbar2/agentswitchboard](https://github.com/assafbar2/agentswitchboard.dev) |  | 1.2.0 | Search a curated directory of 800+ AI agents, MCP servers, and agentic tools. |
+| 2026-10-31 07:04:24 | [io.github.epistemedeus/x402-data-gateway](https://github.com/epistemedeus/x402-url-extractor) |  | 1.23.55 | Agent tools for discovery, payment safety, data extraction, and DeFi. |
+| 2026-10-31 07:06:21 | io.github.pixpxlab/extensiondownloader | Chrome Extension Downloader | 1.0.0 | Chrome extension metadata, reviews, trends, comparisons, and permission analysi… |
+| 2026-10-31 07:06:30 | nl.nltaxcalculator/living-nl | Living in the Netherlands | 0.1.0 | Living in NL: legal max rent (points), car by plate (RDW), city budget, current… |
+| 2026-10-31 07:12:46 | co.instantreply/mcp |  | 0.8.0 | AI access to InstantReply WhatsApp, Instagram, and Messenger inboxes, with brow… |
+| 2026-10-31 07:13:22 | dev.protoship/protoship | Protoship | 0.2.0 | Your agent picks parts for an ESP32 device; Protoship quotes it, has it assembl… |
+| 2026-10-31 07:17:18 | com.teakvault/mcp | Teak | 1.0.91 | Remote MCP server for saving, searching, syncing, and managing Teak cards. |
 
 ## Data source
 
