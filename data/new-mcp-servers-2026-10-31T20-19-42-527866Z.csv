@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-10-31T19:21:31.105805Z,nl.struq/struq,Struq,1.0.0,,streamable-http,"Cinematic, award-winning web design for coding agents: direction, build plan, GSAP motion, audits."
+2026-10-31T19:24:22.04861Z,com.aisetupsthatwork/setups,AI Setups That Work,1.0.0,,streamable-http,"Search step-by-step AI setups for small business, work and home. Tested setups first."
+2026-10-31T19:32:19.451602Z,io.aotwin/mcp,AoTwin,1.0.0,,streamable-http,"File, find and update AoTwin tickets from your AI assistant, and hand one to AoTwin when you ask."
+2026-10-31T19:36:07.123666Z,io.github.vikramgorla/swiss,Switzerland MCP 🇨🇭,0.8.0,https://github.com/vikramgorla/mcp-swiss,,"Swiss open data MCP server. 79 tools, zero API keys. Transport, weather, geodata, news, rates."
+2026-10-31T19:37:32.717956Z,io.github.shipvo/shipvo,Shipvo,0.0.6,https://github.com/shipvo/shipvo,streamable-http,"Open a React Native app in a simulated phone: read the screen, tap, type, set device state."
+2026-10-31T19:44:07.805636Z,io.github.rafe-walker/kronicle-lite,,0.1.1,https://github.com/rafe-walker/kronicle-lite,,Hash-chained local document store with signed receipts and an orient protocol for stale agent memory
+2026-10-31T19:44:15.250302Z,io.useventuri/venturi,Venturi,0.2.1,,,"Adds conversion components (pricing, checkout, paywalls, upsells) to AI-built Next.js apps."
+2026-10-31T19:52:03.908901Z,network.skv/skv,SKV Network,1.30.0,https://github.com/skv-neteork/Skv.network,streamable-http,"Memory + answer checks for AI agents: recall across chats, draft→check→seal, fewer hallucinations."
+2026-10-31T20:00:43.249895Z,io.usefulapi/emailchef,Emailchef MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read lists, contacts, campaign stats; add contacts; draft, schedule and send campaigns and SMS."
+2026-10-31T20:00:43.379578Z,io.usefulapi/ipapi-is,ipapi.is MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Look up IP addresses and AS numbers for VPN, proxy, Tor, owner and abuse contact in ipapi.is."
+2026-10-31T20:00:44.92975Z,io.github.samihalawa/email-smtp-imap-mcp,,2.2.2,https://github.com/samihalawa/email-smtp-imap-mcp,,"Multi-account SMTP/IMAP email tools: search, read, send, reply, forward, flags and folders."
+2026-10-31T20:00:48.248376Z,io.github.imsrvstv/fixledger-mcp,,0.4.0,https://github.com/imsrvstv/fixledger,streamable-http,Free <50ms Peek-Before-Pay error-to-fix & breaking-change oracle (MCP + x402 Base USDC).
+2026-10-31T20:03:56.946732Z,io.github.tadis174/ilens,ILens,11,https://github.com/tadis174/ILens,,"Inspect compiled .NET assemblies (Windows): find types, decompile to C#, trace usage, compare builds"
+2026-10-31T20:12:30.405938Z,app.usecircles/whatsapp,Circles: WhatsApp for your AI agents,0.15.0,,streamable-http,"Your personal WhatsApp for AI agents: only the chats you choose, voice notes as text, capped sends."
+2026-10-31T20:13:59.482596Z,com.lasvegasguide/mcp,"Las Vegas Guide — Resort Fees, Strip Walk Times & 160+ Venues",2.0.0,,streamable-http,"Out-the-door Las Vegas hotel resort fees, 13.38% tax receipts, Strip walk routing, and show dates."
+2026-10-31T20:14:23.817159Z,com.digitalgemology/cut-library,Digital Gemology cut library,1.0.0,,streamable-http,"Gem cuts with ray-traced brilliance, fire and scintillation in 7 stones, plus 3D and faceting files."

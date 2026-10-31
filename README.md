@@ -9,33 +9,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 19:20 UTC
+## Latest list — 2026-10-31 20:19 UTC
 
-New MCP servers published between 2026-10-31 18:20 UTC and 2026-10-31 19:20 UTC.
+New MCP servers published between 2026-10-31 19:20 UTC and 2026-10-31 20:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-31T19-20-41-066583Z.csv)
+[Full CSV](data/new-mcp-servers-2026-10-31T20-19-42-527866Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-31 18:32:03 | com.usepickly/pickly | Pickly | 1.0.0 | Make group polls from a chat and check who's winning. Voters need no account. |
-| 2026-10-31 18:33:16 | [io.github.agzyazilim/rust-mcp](https://github.com/agzyazilim/rust-mcp) | AGZ Rust MCP | 0.5.0 | Rust development tools for offline context, compiler diagnostics, focused tests… |
-| 2026-10-31 18:42:01 | dev.x402check/mcp |  | 0.1.0 | Trust-check x402 seller URLs before paying. ok\|caution\|avoid + history. Paid pe… |
-| 2026-10-31 18:42:03 | [io.github.amineutron/mcp-tracking](https://github.com/amineutron/mcp-tracking) | Task tracking (sessions, ETA, dashboard) | 0.3.0 | Track long-running tasks in real time: sessions, steps, speed, ETA, HTTP API an… |
-| 2026-10-31 18:46:50 | [io.github.rezearcher/web-extract-mcp](https://github.com/rezearcher/web-extract-mcp) | Web Extract MCP Server | 0.1.0 | Web page to clean markdown, sitemap discovery, change monitoring; free previews… |
-| 2026-10-31 18:47:49 | com.cairn-commons/cairn-commons | Cairn Commons | 1.0.0 | Work on open research problems with your agent; results are checked by Lean, re… |
-| 2026-10-31 18:52:31 | [io.github.pironjulien/nexus-indesign](https://github.com/pironjulien/NexusInDesign) | NexusInDesign | 4.0.0 | Adobe InDesign through COM only: scripts, previews, preflight, verified exports… |
-| 2026-10-31 18:52:33 | [io.github.warewithall2/gage](https://github.com/warewithall2/gage) | Gage | 0.3.5 | Signed, sealed handoffs between AI agents — trust computed by the receiver. |
-| 2026-10-31 18:58:13 | net.letsbot/mcp | LetsBot | 1.0.0 | WhatsApp Business messaging, live chat, chatbots, campaigns and CRM for a LetsB… |
-| 2026-10-31 19:01:35 | io.github.CoinVello/coinvello | CoinVello | 0.1.1 | Non-custodial crypto payments: checkout sessions, invoices, webhooks and test p… |
-| 2026-10-31 19:02:26 | dev.moorai/skilltriage | SkillTriage | 0.6.1 | Scan AI agent skills, MCP server packages and MCP configs before you install th… |
-| 2026-10-31 19:03:25 | app.horoscoop/horoscoop | horoscoop.app | 1.0.0 | Nederlandstalige horoscopen: dag, week, maand en jaar per sterrenbeeld, match,… |
-| 2026-10-31 19:05:06 | [io.github.stackscribe-ai/coding-agent-audit](https://github.com/stackscribe-ai/coding-agent-audit) | Coding Agent Audit | 0.3.2 | Scans for known AI coding assistant supply-chain backdoors and risky Claude Cod… |
-| 2026-10-31 19:09:48 | [io.github.afrotools/afrotools](https://github.com/afrotools/afrotools) | afro.tools | 1.0.0 | Open-source API specs for African providers (payments, SMS, KYC, delivery) for… |
-| 2026-10-31 19:10:25 | com.getmanifeste/manifeste | Manifeste | 1.0.0 | E-commerce margin calculator: GO/RISKY/NO-GO verdict for Amazon, Etsy, eBay, Sh… |
-| 2026-10-31 19:11:24 | [io.github.robertdoneill/jmap-calendar-mcp](https://github.com/robertdoneill/jmap-calendar-mcp) |  | 0.1.0 | Read calendars and create or change events on any JMAP server, such as Stalwart… |
-| 2026-10-31 19:11:34 | fr.tenderwatch/marches-publics | TenderWatch, marchés publics | 1.0.0 | Appels d'offres publics français ouverts, procédure selon le montant, intérêts… |
-| 2026-10-31 19:15:04 | ai.vistazo/vistazo | Vistazo | 1.1.0 | An analytics workspace where teams and agents collaborate to build dashboards a… |
-| 2026-10-31 19:18:16 | app.samiswoi/firmy | Sami Swoi | 1.0.0 | Directory of Polish-run businesses outside Poland: shops, tradespeople, doctors… |
+| 2026-10-31 19:21:31 | nl.struq/struq | Struq | 1.0.0 | Cinematic, award-winning web design for coding agents: direction, build plan, G… |
+| 2026-10-31 19:24:22 | com.aisetupsthatwork/setups | AI Setups That Work | 1.0.0 | Search step-by-step AI setups for small business, work and home. Tested setups… |
+| 2026-10-31 19:32:19 | io.aotwin/mcp | AoTwin | 1.0.0 | File, find and update AoTwin tickets from your AI assistant, and hand one to Ao… |
+| 2026-10-31 19:36:07 | [io.github.vikramgorla/swiss](https://github.com/vikramgorla/mcp-swiss) | Switzerland MCP 🇨🇭 | 0.8.0 | Swiss open data MCP server. 79 tools, zero API keys. Transport, weather, geodat… |
+| 2026-10-31 19:37:32 | [io.github.shipvo/shipvo](https://github.com/shipvo/shipvo) | Shipvo | 0.0.6 | Open a React Native app in a simulated phone: read the screen, tap, type, set d… |
+| 2026-10-31 19:44:07 | [io.github.rafe-walker/kronicle-lite](https://github.com/rafe-walker/kronicle-lite) |  | 0.1.1 | Hash-chained local document store with signed receipts and an orient protocol f… |
+| 2026-10-31 19:44:15 | io.useventuri/venturi | Venturi | 0.2.1 | Adds conversion components (pricing, checkout, paywalls, upsells) to AI-built N… |
+| 2026-10-31 19:52:03 | [network.skv/skv](https://github.com/skv-neteork/Skv.network) | SKV Network | 1.30.0 | Memory + answer checks for AI agents: recall across chats, draft→check→seal, fe… |
+| 2026-10-31 20:00:43 | [io.usefulapi/emailchef](https://github.com/m190/usefulapi-mcp) | Emailchef MCP by usefulapi | 1.0.0 | Read lists, contacts, campaign stats; add contacts; draft, schedule and send ca… |
+| 2026-10-31 20:00:43 | [io.usefulapi/ipapi-is](https://github.com/m190/usefulapi-mcp) | ipapi.is MCP by usefulapi | 1.0.0 | Look up IP addresses and AS numbers for VPN, proxy, Tor, owner and abuse contac… |
+| 2026-10-31 20:00:44 | [io.github.samihalawa/email-smtp-imap-mcp](https://github.com/samihalawa/email-smtp-imap-mcp) |  | 2.2.2 | Multi-account SMTP/IMAP email tools: search, read, send, reply, forward, flags… |
+| 2026-10-31 20:00:48 | [io.github.imsrvstv/fixledger-mcp](https://github.com/imsrvstv/fixledger) |  | 0.4.0 | Free <50ms Peek-Before-Pay error-to-fix & breaking-change oracle (MCP + x402 Ba… |
+| 2026-10-31 20:03:56 | [io.github.tadis174/ilens](https://github.com/tadis174/ILens) | ILens | 11 | Inspect compiled .NET assemblies (Windows): find types, decompile to C#, trace… |
+| 2026-10-31 20:12:30 | app.usecircles/whatsapp | Circles: WhatsApp for your AI agents | 0.15.0 | Your personal WhatsApp for AI agents: only the chats you choose, voice notes as… |
+| 2026-10-31 20:13:59 | com.lasvegasguide/mcp | Las Vegas Guide — Resort Fees, Strip Wa… | 2.0.0 | Out-the-door Las Vegas hotel resort fees, 13.38% tax receipts, Strip walk routi… |
+| 2026-10-31 20:14:23 | com.digitalgemology/cut-library | Digital Gemology cut library | 1.0.0 | Gem cuts with ray-traced brilliance, fire and scintillation in 7 stones, plus 3… |
 
 ## Data source
 
