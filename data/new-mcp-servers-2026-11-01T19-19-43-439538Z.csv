@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-11-01T18:29:01.611346Z,com.nodpick/ai-readiness,Nodpick AI readiness,1.0.0,,streamable-http,"Free AI-readiness audit: can ChatGPT, Claude and Perplexity read and cite a site? Fix snippets."
+2026-11-01T18:31:04.210324Z,link.morningbrief/drinking-water,Drinking Water — EPA SDWIS: Water Systems & Health-Based Violations,1.0.0,,streamable-http,"EPA drinking water data: 434,757 public water systems, current health-based violations. No key."
+2026-11-01T18:31:16.000014Z,io.github.fixed-width/glass,glass,1.9.0-rc1,https://github.com/fixed-width/glass,,MCP server giving a coding agent a build→see→interact→debug loop over native GUI apps.
+2026-11-01T18:35:05.17147Z,io.github.CipherClaw/agent-craft,Agent Craft,1.1.0,,streamable-http,"A persistent voxel survival world only AI agents can play: mine, craft, build, trade, chat."
+2026-11-01T18:38:30.971Z,com.3d2holo/mcp,3D2HOLO,1.0.0,,streamable-http,"Lenticular printing toolkit for AI: pitch test charts, print quotes, and workflow guides."
+2026-11-01T18:43:05.330865Z,com.postdelegate/postdelegate,PostDelegate,1.0.0,https://github.com/khanjer496-alt/postdelegate-app,streamable-http; streamable-http,"Schedule and publish social media posts from your AI assistant: channels, drafts, media, calendar."
+2026-11-01T18:45:06.69417Z,ai.postnitro/mcp,PostNitro,1.4.0,,streamable-http,"Create carousels, image posts and slide videos from brand kits and schedule them to social media."
+2026-11-01T18:46:20.110372Z,com.flocon-ai/mcp,Flocon AI,1.0.0,,streamable-http,"Publish SEO pages from Claude or Cursor to your website. Next.js now, more frameworks soon."
+2026-11-01T18:52:37.77001Z,io.github.sierikov/audiobookshelf-mcp,Audiobookshelf,0.2.0,https://github.com/sierikov/audiobookshelf-mcp,,"Browse Audiobookshelf libraries and listening stats; opt-in tools fix chapters, genres and tags."
+2026-11-01T18:54:39.557669Z,com.aurgus/aurgus,,1.0.0,,streamable-http,"Governed rebate & revenue close (ASC 606/705/842): explain, ingest, compute, trace to source."
+2026-11-01T18:57:08.724172Z,io.github.bellchain-app/mcp,Bellchain,1.4.0,https://github.com/bellchain-app/bellchain,,"Crypto alert chains in your AI assistant: check alerts, test ideas with the replay, build chains."
+2026-11-01T18:58:45.87442Z,com.machineschema/mcp,Machine Schema,0.2.0,,streamable-http,"Cited specs for industrial robots, CNC machines, PLCs, drives, protocols and alarm codes."
+2026-11-01T19:01:48.750497Z,app.wemoveat/moveat,Moveat,1.1.0,,streamable-http,"Coaching app for fitness coaches: read client check-ins and diets, write drafts the coach sends."
+2026-11-01T19:03:40.649897Z,com.evalmee/evalmee,Evalmee,1.0.0,,streamable-http,"Create and edit online exams in Evalmee: sections, questions, answer keys, grading criteria."
+2026-11-01T19:05:20.253478Z,io.github.gosset-ai/gosset,Gosset,1.0.0,,streamable-http,"Pharma intelligence: source-linked drug, trial, result, patent, company and deal research."
+2026-11-01T19:10:07.441364Z,com.crosspublish/crosspublish,Crosspublish,1.0.0,,streamable-http,"Create, schedule, and manage social media posts with AI assistants."
+2026-11-01T19:10:28.748474Z,io.github.joelynli0110/open-transfer-times,Open Transfer Times,0.1.2,https://github.com/joelynli0110/open-transfer-times,,"Check if a flight connection is comfortable, tight or risky, with cited airport data."
+2026-11-01T19:11:41.923466Z,cz.volai/volai,volai,1.50.0,https://github.com/radekklein92/volai-plugin,streamable-http,"Czech telephony API and MCP: numbers, calls, SMS, voice agents, calendars and invoices."
+2026-11-01T19:13:35.690752Z,io.github.enspiration-eth/punks-generated,punks.generated.eth,0.2.0,,streamable-http,"Mint generative on-chain punks on Ethereum for 0.002 ETH. Unsigned txs only, no keys."
+2026-11-01T19:13:59.124258Z,com.crosspublish/mcp,Crosspublish,1.0.0,,streamable-http,"Create, schedule, and manage social media posts with AI assistants."
+2026-11-01T19:16:55.46132Z,io.github.losclouds/losclouds,losclouds,1.0.0,,streamable-http,"Cloud and SaaS service status, plus your team's monitors, status pages, incidents, and alerts."
+2026-11-01T19:17:59.164567Z,ai.cybernative/pdf-check,CyberNative public PDF accessibility check,0.1.0,,streamable-http,Check a PDF on a public website for the structure screen readers use.
