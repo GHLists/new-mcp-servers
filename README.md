@@ -9,35 +9,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 07:18 UTC
+## Latest list — 2026-11-01 08:20 UTC
 
-New MCP servers published between 2026-11-01 06:19 UTC and 2026-11-01 07:18 UTC.
+New MCP servers published between 2026-11-01 07:18 UTC and 2026-11-01 08:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-01T07-18-38-914236Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-01T08-20-53-001143Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-01 06:19:56 | com.tblflow/tblflow | TblFlow | 1.0.0 | Lisez et modifiez vos bases TblFlow (PostgreSQL), recherchez vos documents, lan… |
-| 2026-11-01 06:22:31 | [solutions.dap/bellwether](https://github.com/bsibeth234/dap-bellwether) | DAP Bellwether | 1.1.0 | Regulatory change feed for Canada, the US, the UK and the EU. Free for people,… |
-| 2026-11-01 06:23:58 | [com.comparecloudcosts/mcp-server](https://github.com/rodrigo-orzari/ccc) | Compare Cloud Costs | 1.0.0 | Compare cloud and AI model pricing across AWS, Azure, GCP, Oracle, DigitalOcean… |
-| 2026-11-01 06:37:22 | [io.github.dleon55/ai-sdlc-prompts](https://github.com/dleon55/ai-sdlc-prompts) | AI-SDLC Prompts | 1.0.2 | 112 SDLC prompts (ES/EN) for AI coding agents, each with its operating contract. |
-| 2026-11-01 06:37:22 | dev.vetkit/mcp | vetkit | 0.1.0 | Audit repos for security, code quality and AI code risks; read findings and ope… |
-| 2026-11-01 06:38:18 | io.github.galeaxe5/pasportoo | Pasportoo Companion | 0.3.2 | Deterministic exam for the AI agent in your chat; a verified Agent Passport wit… |
-| 2026-11-01 06:40:53 | art.braindrops/braindrops | BrainDrops | 1.0.0 | Search BrainDrops AI art and get any piece's permanent Arweave and IPFS copies. |
-| 2026-11-01 07:01:53 | [io.github.CollinJ0/vendorcheck](https://github.com/CollinJ0/vendorcheck) |  | 0.1.1 | Check a vendor (name, domain, email) for fraud signals and sanctions before an… |
-| 2026-11-01 07:04:19 | [io.github.Poudel0/postgres-mcp-safe](https://github.com/Poudel0/postgres-mcp-safe) | Postgres (read-only, safe) | 0.1.1 | Drop-in replacement for @modelcontextprotocol/server-postgres that is actually… |
-| 2026-11-01 07:08:07 | [io.github.sepehr071/zoomit-mcp](https://github.com/sepehr071/zoomit-mcp) | Zoomit Products | 0.1.0 | Read-only Zoomit (zoobin) product database: specs, shop prices in Toman, price… |
-| 2026-11-01 07:08:08 | [io.github.sepehr071/gamefa-mcp](https://github.com/sepehr071/gamefa-mcp) | Gamefa | 0.1.0 | Read-only Gamefa (gamefa.com) Persian game and film site: news, scored reviews,… |
-| 2026-11-01 07:08:14 | [io.github.sepehr071/mobile-ir-mcp](https://github.com/sepehr071/mobile-ir-mcp) | Mobile.ir Phones | 0.1.0 | Read-only Mobile.ir: phone specs, shop prices and history, used phones, numbere… |
-| 2026-11-01 07:09:26 | com.brionicsecurity.pay/payments | Brionic Payments | 2.1.0 | Non-custodial crypto payments: charges, invoices and refunds in BTC, XRP, USDC… |
-| 2026-11-01 07:09:52 | [io.github.sepehr071/bama-ir-mcp](https://github.com/sepehr071/bama-ir-mcp) | Bama Cars | 0.1.0 | Read-only Bama (bama.ir) Iran car marketplace: ad search, ad details, market pr… |
-| 2026-11-01 07:09:54 | [io.github.sepehr071/iran-cloud-status-mcp](https://github.com/sepehr071/iran-cloud-status-mcp) | Iran Cloud Status | 0.1.0 | Read-only status, incidents and prices of Iranian clouds: Arvan, Hamravesh, Cha… |
-| 2026-11-01 07:09:56 | [io.github.sepehr071/karnameh-mcp](https://github.com/sepehr071/karnameh-mcp) | Karnameh Cars | 0.1.0 | Read-only Karnameh (karnameh.com) Iran car data: used ads, new-car prices, spec… |
-| 2026-11-01 07:11:23 | [io.github.sepehr071/hamrah-mechanic-mcp](https://github.com/sepehr071/hamrah-mechanic-mcp) | Hamrah Mechanic Cars | 0.1.0 | Read-only Hamrah Mechanic (hamrah-mechanic.com) car prices, used cars for sale,… |
-| 2026-11-01 07:11:27 | [io.github.sepehr071/sheypoor-mcp](https://github.com/sepehr071/sheypoor-mcp) | Sheypoor Classifieds | 0.1.0 | Read-only Sheypoor (sheypoor.com) classifieds: search ads, ad details, price su… |
-| 2026-11-01 07:12:39 | [io.github.paulocesaaars/nix](https://github.com/paulocesaaars/nix) | Nix | 4.0.0 | Servidor MCP stdio para wikis do Obsidian |
-| 2026-11-01 07:13:47 | [io.github.sepehr071/emalls-ir-mcp](https://github.com/sepehr071/emalls-ir-mcp) | Emalls Price Comparison | 0.1.1 | Read-only Emalls (emalls.ir) price comparison: products, shop offers, price his… |
-| 2026-11-01 07:14:16 | [io.github.sepehr071/darukade-mcp](https://github.com/sepehr071/darukade-mcp) | Darukade Pharmacy | 0.1.0 | Read-only Darukade (darukade.com) pharmacy: products, prices, ingredients, usag… |
+| 2026-11-01 07:20:24 | [com.mylasertools/kerfscript](https://github.com/mylasertools/kerfscript) | KerfScript | 0.1.0 | Write, check and render parametric laser-cutting designs in KerfScript, as SVG… |
+| 2026-11-01 07:25:06 | org.bettyapp/bettyapp | Bettyapp lecture moments | 1.0.0 | Find the moments in university and school lectures that explain a topic, with l… |
+| 2026-11-01 07:26:32 | io.github.christianmatumona/treasury-risk-mcp | Treasury Risk Analyzer | 0.1.0 | Treasury risk, FX exposure, liquidity & payment decisions for AI CFO agents. Pa… |
+| 2026-11-01 07:28:47 | [io.github.cooyun/etuki-finops-mcp](https://github.com/cooyun/etuki-gate) | Etuki FinOps & LLM Pricing Oracle | 40.7.4 | Cryptographic 563-leaf LLM rate oracle, context-cliff auditor, and prompt cache… |
+| 2026-11-01 07:29:15 | [io.usefulapi/maidcentral](https://github.com/m190/usefulapi-mcp) | MaidCentral MCP by usefulapi | 1.0.0 | Read services, prices and open dates; create leads, quotes, bookings and notes… |
+| 2026-11-01 07:29:15 | [io.usefulapi/setora](https://github.com/m190/usefulapi-mcp) | Setora MCP by usefulapi | 1.0.0 | Read locations, slots and bookings; create clients, book, move and cancel in Se… |
+| 2026-11-01 07:29:15 | [io.usefulapi/centrecareos](https://github.com/m190/usefulapi-mcp) | CentreCareOS MCP by usefulapi | 1.0.0 | Read students, parents, attendance, invoices, rooms and daily reports in Centre… |
+| 2026-11-01 07:30:14 | [io.github.jeonghun917/readfirst](https://github.com/jeonghun917/readfirst) |  | 0.6.1 | What to read and check before changing a file: project rules, risks, checks and… |
+| 2026-11-01 07:31:19 | com.docfig/docfig | DocFig | 0.2.0 | Bank statement PDFs to checked transactions, plus a free offline check for tran… |
+| 2026-11-01 07:31:26 | [com.mambabuilt/mcp-ats-jobs-feed](https://github.com/mambalabsdev/mcp-ats-jobs-feed) |  | 1.0.0 | Open jobs for a list of companies from their Greenhouse, Lever, Ashby, and Work… |
+| 2026-11-01 07:31:27 | [com.mambabuilt/mcp-threads-keyword-search](https://github.com/mambalabsdev/mcp-threads-keyword-search) |  | 1.0.0 | Threads posts by keyword with exact phrase matching, author, date, likes, and l… |
+| 2026-11-01 07:31:29 | [com.mambabuilt/mcp-whois-domain-lookup](https://github.com/mambalabsdev/mcp-whois-domain-lookup) |  | 1.0.0 | Registrar, created and expiry dates, domain age, and nameservers per domain, fr… |
+| 2026-11-01 07:31:31 | [com.mambabuilt/mcp-recent-funding-rounds-feed](https://github.com/mambalabsdev/mcp-recent-funding-rounds-feed) |  | 1.0.0 | New US private funding rounds from SEC Form D filings, one row per round with d… |
+| 2026-11-01 07:31:34 | [com.mambabuilt/mcp-email-verifier](https://github.com/mambalabsdev/mcp-email-verifier) |  | 1.0.0 | Verify email lists on your own ZeroBounce, NeverBounce, MillionVerifier, Bounce… |
+| 2026-11-01 07:35:52 | [io.github.sepehr071/iranketab-mcp](https://github.com/sepehr071/iranketab-mcp) | Iranketab Books | 0.1.0 | Read-only Iranketab (iranketab.ir) books: search, translations compared, rating… |
+| 2026-11-01 07:36:37 | [io.github.sepehr071/jobvision-mcp](https://github.com/sepehr071/jobvision-mcp) | Jobvision Jobs | 0.1.0 | Read-only Jobvision (jobvision.ir) Iran jobs: search ads, job and company detai… |
+| 2026-11-01 07:37:20 | [io.github.nafadza14/apizie-finance](https://github.com/nafadza14/zieapi) | Apizie Finance | 1.0.0 | Official cited financial data layer for AI agents (SEC EDGAR, FRED, ECB, Treasu… |
+| 2026-11-01 07:37:23 | [io.github.sepehr071/jobinja-mcp](https://github.com/sepehr071/jobinja-mcp) | Jobinja Jobs | 0.1.0 | Read-only Jobinja (jobinja.ir) job search, ad details, companies and top-50 sco… |
+| 2026-11-01 07:45:23 | [io.github.tantn89/warehouse-mcp](https://github.com/tantn89/warehouse-mcp) | Warehouse MCP | 0.1.0 | Governed read-only warehouse access for agents: SQL guard, row policies, PII ps… |
+| 2026-11-01 07:49:00 | [io.github.haidrau/sentinel-mcp-server](https://github.com/haidrau/sentinel-mcp-server) |  | 0.3.0 | Shopee competitor price monitoring via MCP. Same-day data; free on all tiers; 2… |
+| 2026-11-01 07:51:41 | [io.github.mac146/issuewatcher](https://github.com/mac146/IssueWatcher) |  | 0.2.4 | Ranks new GitHub issues for your AI assistant: what to pick up, what may break… |
+| 2026-11-01 07:52:43 | com.automatepage/mcp | AutomatePage | 1.0.0 | Read the Facebook Content radar and schedule posts to your Pages from your AI a… |
+| 2026-11-01 07:58:06 | [io.github.vhsgreed/certainlyscraped](https://github.com/vhsgreed/certainlyscraped) | certainlyscraped | 0.4.3 | Hybrid scraper with escalating effort: cheapest fetch first, reports why each p… |
+| 2026-11-01 07:58:17 | [io.usefulapi/gotable](https://github.com/m190/usefulapi-mcp) | GoTable MCP by usefulapi | 1.0.0 | Read availability, reservations, guests; create, change, cancel bookings; add n… |
+| 2026-11-01 07:58:18 | [io.usefulapi/quarterwise](https://github.com/m190/usefulapi-mcp) | Quarterwise MCP by usefulapi | 1.0.0 | Read properties, HMRC categories and transactions; add income and expenses in Q… |
+| 2026-11-01 07:58:18 | [io.usefulapi/janitorial-manager](https://github.com/m190/usefulapi-mcp) | Janitorial Manager MCP by usefulapi | 1.0.0 | Read work orders, QC inspections, time punches, payroll, scans and customers in… |
+| 2026-11-01 08:00:09 | [io.github.sepehr071/quera-mcp](https://github.com/sepehr071/quera-mcp) | Quera | 0.1.0 | Read-only Quera (quera.org): Iranian tech jobs, companies, contests, problems,… |
+| 2026-11-01 08:00:11 | [io.github.sepehr071/irantalent-mcp](https://github.com/sepehr071/irantalent-mcp) | IranTalent Jobs | 0.1.0 | Read-only IranTalent (irantalent.com) job portal: search jobs, ad details, comp… |
+| 2026-11-01 08:00:20 | [io.github.sepehr071/karlancer-mcp](https://github.com/sepehr071/karlancer-mcp) | Karlancer Freelance | 0.1.0 | Read-only Karlancer (karlancer.com) freelance projects, freelancers and service… |
+| 2026-11-01 08:01:51 | [io.github.sepehr071/ponisha-mcp](https://github.com/sepehr071/ponisha-mcp) | Ponisha Freelance | 0.1.0 | Read-only Ponisha (ponisha.ir) freelance market: projects, bids, freelancers, s… |
+| 2026-11-01 08:02:24 | [co.promptguard/security](https://github.com/promptguardhq/promptguard) | PromptGuard | 1.1.3 | Scan prompts for injection attacks, redact PII, and audit LLM SDK usage from an… |
+| 2026-11-01 08:02:40 | [io.github.sepehr071/cbi-mcp](https://github.com/sepehr071/cbi-mcp) | Central Bank of Iran | 0.1.0 | Read-only Central Bank of Iran (cbi.ir): official FX rates, inflation, policy r… |
+| 2026-11-01 08:03:10 | com.sumberkimahill/stays | Sumberkima Hill | 1.1.0 | Free dates, live prices and booking links for villas at Sumberkima Hill, North… |
+| 2026-11-01 08:03:28 | [io.github.sepehr071/fipiran-mcp](https://github.com/sepehr071/fipiran-mcp) | Fipiran Funds | 0.1.0 | Read-only Fipiran (fipiran.ir) data on Iranian mutual funds and ETFs: NAV, retu… |
+| 2026-11-01 08:04:48 | [io.github.sepehr071/ime-mcp](https://github.com/sepehr071/ime-mcp) | Iran Mercantile Exchange | 0.1.0 | Read-only Iran Mercantile Exchange (ime.co.ir): physical trades, supply, prices… |
+| 2026-11-01 08:06:18 | com.posteveryplatform/posteveryplatform | PostEveryPlatform | 1.0.0 | Draft and schedule social posts to 12 platforms, with owner approval on by defa… |
+| 2026-11-01 08:06:27 | io.github.duncanbottrill/deskhand |  | 1.0.1 | Claude in your Figma file. Builds with your components, checks what it wrote. R… |
+| 2026-11-01 08:16:22 | com.tangerineindex/tangerine-index | Tangerine Index | 0.1.0 | Find products launched since ChatGPT by what they do, and see what people said… |
+| 2026-11-01 08:16:24 | dev.pages.weekend-gap-board/weekend-gap-board | Weekend Gap Board | 0.1.0 | Tokenized-stock weekend gaps vs Friday close, issuer dispersion, HIP-3 perps, c… |
+| 2026-11-01 08:17:48 | [io.github.sepehr071/ifb-mcp](https://github.com/sepehr071/ifb-mcp) | Iran Fara Bourse | 0.1.0 | Read-only Iran Fara Bourse (ifb.ir): bond, sukuk and treasury yields, IPOs, not… |
+| 2026-11-01 08:18:39 | [io.github.sepehr071/amar-mcp](https://github.com/sepehr071/amar-mcp) | Statistical Centre of Iran | 0.1.0 | Read-only Statistical Centre of Iran (amar.org.ir): CPI inflation, unemployment… |
+| 2026-11-01 08:20:07 | [io.github.sepehr071/faradars-mcp](https://github.com/sepehr071/faradars-mcp) | Faradars Courses | 0.1.0 | Read-only Faradars (faradars.org) courses: search, prices, syllabus, reviews, i… |
 
 ## Data source
 
