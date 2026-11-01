@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-11-01T03:28:34.66572Z,live.cashboard/signals,Cashboard Signals,1.0.0,,streamable-http,"Market data for agents: perps, OI, funding, Solana wallet swaps. Paid per call in USDC over x402."
+2026-11-01T03:29:27.653291Z,com.toolcargo/toolcargo,,1.0.0,https://github.com/eclipseagency/toolport,streamable-http,"Search 53,000+ MCP servers from the official registry. Free, no account or API key."
+2026-11-01T03:30:34.441516Z,com.clickd/clickd,clickd,1.0.0,,streamable-http,"Reads a site as search engines and AI assistants do, ranks its fixes, and checks them live."
+2026-11-01T03:32:29.105855Z,io.github.bananohands/moltclub,Molt Club,0.1.0,,streamable-http,Public discussion rooms and read-only discovery tools for AI agents.
+2026-11-01T03:36:35.512562Z,ai.solwyn/solwyn,Solwyn,0.4.0,,,"Check budgets before AI spend, record what your code spends and read Solwyn costs."
+2026-11-01T03:45:02.090489Z,io.github.superclonica/superclonica-mcp,SuperClonica text to speech,0.1.0,https://github.com/superclonica/superclonica-mcp,streamable-http,Text to speech in about 190 voices and 31 languages: offline on your computer or via the cloud.
+2026-11-01T03:45:46.756764Z,io.github.alfa-reza/cvss-calculator-mcp,CVSS Calculator MCP,1.0.0,https://github.com/alfa-reza/cvss-calculator-mcp,streamable-http,"Calculate and validate CVSS 2.0, 3.0, 3.1, and 4.0 base scores."
+2026-11-01T03:46:17.83846Z,io.github.umakhanpro/vocalingo,VocaLingo,2.0.0,https://github.com/umakhanpro/vocalingo-mcp,streamable-http,"Video summaries, voice message transcription and translation in the same voice, your own voice TTS"
+2026-11-01T03:51:57.076926Z,app.payperwork/payperwork,Payperwork,0.3.0,https://github.com/campbel/dead-drop,streamable-http,"Paid tools for AI agents over x402: frontier-model chat per call, plus drops and hand-off channels."
+2026-11-01T03:51:57.241253Z,app.payperwork/ai,Payperwork Inference,0.3.0,https://github.com/campbel/dead-drop,streamable-http,"Pay-per-call chat on GPT-6.1, Claude, Gemini and Grok over x402. No API key; a failed call is free."
+2026-11-01T03:57:13.231184Z,dev.rampify/rampify-mcp,Rampify,1.1.0,https://github.com/rampify-dev/rampify-mcp,streamable-http,"Turn your coding agent into a marketing agent: search data, specs to build, fixes verified by scan."
+2026-11-01T03:58:17.892773Z,com.smallfirelab/public-records,Smallfire Lab public-records checks,1.0.0,,streamable-http,Free read-only lookups of Oregon contractor licenses and FDA food recalls for AI agents. No key.
+2026-11-01T04:03:30.50943Z,com.bidcraftai/quotes,BidCraft,1.0.0,,streamable-http,"Get bids from local US contractors: scope a job, then BidCraft contacts contractors for you."
+2026-11-01T04:05:15.671502Z,io.github.ArtJack/gitdone,gitdone,0.2.0,https://github.com/ArtJack/gitdone,,"Read-only project status: strict and weighted completion, each claim held to git."
+2026-11-01T04:06:01.784884Z,io.github.popnow-ai/popnow-api-mcp,PopNow API,0.2.0,https://github.com/popnow-ai/popnow-api-mcp,streamable-http,"Developer MCP for PopNow: run any AI image, video and audio model with an API key, billed in USD."
+2026-11-01T04:11:32.222752Z,ai.4ai/domains,4ai – premium .ai domains for sale,1.0.0,,streamable-http,"Search 254 premium .ai domains for sale, get free .ai value estimates and real .ai sales data."
+2026-11-01T04:11:39.443004Z,io.royally/royally,Royally,0.0.898,,streamable-http,"Run every WordPress site you manage from your AI agent, with approvals, receipts and undo."
+2026-11-01T04:13:23.541084Z,io.github.IgnatiusTheYoungerAI/fde-lessons-warn-feed,Agent Pricing Index,2.5.0,,streamable-http,"Agent Pricing Index: free tools to benchmark AI pricing and check a quote. FDE lessons, per query."
+2026-11-01T04:14:50.655462Z,io.github.jrapakko/scree,scree,0.3.3,https://github.com/jrapakko/scree,,Local semantic and keyword search over the markdown in a repo or notes folder.
+2026-11-01T04:16:47.992855Z,io.github.saeedsepehr/jobinja-employer-mcp,Jobinja Employer,0.3.0,https://github.com/saeedsepehr/jobinja-employer-mcp,,Review and shortlist resumes received in the Jobinja employer panel with low token use.
