@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-11-01T00:22:21.616768Z,com.htrbamboo/bamboo-mcp,HTR Bamboo Product & Inquiry Assistant,0.2.1,,streamable-http,"Search bamboo products and guides, estimate panel loads, and prepare reviewable RFQs."
+2026-11-01T00:28:54.798638Z,au.com.nexwin/nexwin,Nexwin,1.1.0,,streamable-http,"Check bookings, review calls and chats, and manage appointments in your Nexwin AI receptionist."
+2026-11-01T00:29:33.698792Z,com.wavespestcontrol/pest-control,Waves Pest Control & Lawn Care,1.0.0,,streamable-http,"Southwest Florida pest control and lawn care: services, price ranges, service areas, quote steps."
+2026-11-01T00:29:38.808201Z,com.arcanasf/arcana,Arcana,1.0.1,,streamable-http,"Arcana: San Francisco wine bar, restaurant, art space and music venue. Reservations, private events."
+2026-11-01T00:35:56.338419Z,app.cassit/cassit,Cassit,0.1.0,,streamable-http,"Compose, schedule and review social posts, read insights, and work the approval tray."
+2026-11-01T00:40:38.142987Z,io.github.aryanduntley/pwa-debug-layer,PWA Debug Layer,1.0.0,https://github.com/aryanduntley/pwa-debug-layer,,"Debug PWAs in your real browser via MCP: service-worker, cache, installability & framework state."
+2026-11-01T00:44:47.362249Z,com.canopy-io/docs,Canopy documentation,1.0.0,https://github.com/canopy-identity/canopy,streamable-http,Answers questions about the Canopy dashboards and API from the published docs. No sign-in.
+2026-11-01T00:44:47.633589Z,com.canopy-io/account,Canopy account,1.0.0,https://github.com/canopy-identity/canopy,streamable-http,"Every Canopy public API operation as a tool, run as you after a browser sign-in or on an API key."
+2026-11-01T00:45:04.976549Z,io.github.entire-vc/evc-team-relay-mcp,,1.0.10,https://github.com/entire-vc/evc-team-relay-mcp,,MCP server for AI agent read/write access to Obsidian vaults via EVC Team Relay.
+2026-11-01T00:46:57.375527Z,com.formkurier/formkurier,Formkurier,1.0.0,,streamable-http,"Create, change and publish web forms, get link or embed code, list and export answers."
+2026-11-01T00:47:02.9661Z,com.facento/facento,Facento,1.0.0,,streamable-http,Calculate and send commercial cleaning offers with your company rates; find customers and sites.
+2026-11-01T00:58:02.952001Z,lol.botplaza/skills,,1.0.0,,streamable-http,"BotPlaza skills for AI assistants. Streamable HTTP, no login."
+2026-11-01T00:59:15.536109Z,bot.thott/thott-bot,thott.bot,1.0.0,,streamable-http,"Everything about WoW Forever, in the chat app you already use."
+2026-11-01T01:05:15.809495Z,link.qray/qray,QRay,0.2.3,,streamable-http,Create and edit dynamic QR codes from AI assistants via the QRay agent MCP endpoint.
+2026-11-01T01:06:40.491404Z,nl.robskan/site,Robskan,1.0.0,,streamable-http,Read-only product MCP for robskan.nl — public profile and Spotify listening APIs.
+2026-11-01T01:17:33.651911Z,io.github.feifeizhao25-ship-it/tj-mcp,TianJi Astrology,1.0.0,https://github.com/feifeizhao25-ship-it/tj-mcp,streamable-http,"Ephemeris-grade natal charts, current transits, zodiac sign profiles. No API key."
+2026-11-01T01:19:53.163462Z,co.trooth/semanto,Semanto by Trooth,1.0.0,https://github.com/troothllc/trooth-semanto-worker,streamable-http,"Set up, sign, publish and check Semanto, a company's signed website file for AI agents."
