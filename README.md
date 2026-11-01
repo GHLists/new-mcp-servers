@@ -9,31 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 02:19 UTC
+## Latest list — 2026-11-01 03:20 UTC
 
-New MCP servers published between 2026-11-01 01:20 UTC and 2026-11-01 02:19 UTC.
+New MCP servers published between 2026-11-01 02:19 UTC and 2026-11-01 03:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-01T02-19-48-448025Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-01T03-20-54-243835Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-01 01:21:00 | tech.rovy/dirfast | DirFast | 0.1.0 | Live DNS, TLS, HTTP and SEO checks for any host: cert expiry, headers, redirect… |
-| 2026-11-01 01:21:28 | io.github.jueluddinsf/nyc-property-facts | NYC Property Facts | 1.0.0 | Public records for any NYC property by address or BBL: permits, violations, sal… |
-| 2026-11-01 01:22:57 | com.terrnova/terrnova | Terrnova | 0.0.1 | Datos oficiales de Colombia: predios, empresas, contratos y normas, con fuente… |
-| 2026-11-01 01:24:45 | io.github.babo072/kpetinfo | K-Pet Info | 1.0.0 | Dog & cat toxic-food risk check, breed profiles, and Korean vet clinics, shelte… |
-| 2026-11-01 01:25:36 | dev.byteland/byteland | Byteland | 0.5.0 | A night city of developers: search people and projects, read project rooms, see… |
-| 2026-11-01 01:25:40 | [io.github.clyr-inc/casually](https://github.com/clyr-inc/casually-plugins) | Casually | 0.4.0 | Save landing page and email drafts in Casually, request human review and read c… |
-| 2026-11-01 01:26:31 | com.taskavel/taskavel | Taskavel | 1.0.0 | Headless task management for bots, apps and AI agents. Remote MCP server, OAuth… |
-| 2026-11-01 01:34:13 | app.fawtar/fawtar |  | 1.2.0 | ZATCA-compliant Saudi invoicing. Free 24h sandbox key, no signup; 1,000 API wri… |
-| 2026-11-01 01:35:28 | com.eacpartners/genealogy | Genealogy | 1.4.0 | Reads and edits local GEDCOM/BegatAll over stdio. Living people hidden by defau… |
-| 2026-11-01 01:40:24 | io.github.babo072/ktourinfo | K-Tour Info | 1.0.0 | Korea travel data: 50K+ places in 13 languages, festivals, crowd forecasts, iti… |
-| 2026-11-01 01:40:28 | io.github.Keyveve/veqen-pricing | Veqen Pricing: AI model costs | 2.0.0 | Compare AI model prices and estimate workload costs with four read-only tools.… |
-| 2026-11-01 01:41:41 | stream.onlyfins/trout-talk | OnlyFins Trout Talk | 1.0.0 | Live underwater trout cam in Utah: a grumpy trout reports fish activity, riddle… |
-| 2026-11-01 01:46:34 | [dev.wirecat/mail-cli](https://github.com/WireCatLabs/mail-cli) | WireCat Mail | 0.2.0 | Your mailbox for agents: sync mail over IMAP into the local store. Add the acco… |
-| 2026-11-01 01:48:52 | [io.github.pipeworx-io/peru-sunat-ruc](https://github.com/pipeworx-io/mcp-peru-sunat-ruc) | Peru Sunat Ruc | 0.1.0 | peru-sunat-ruc -- Peru's SUNAT taxpayer register (Padron reducido del RUC). Fle… |
-| 2026-11-01 01:49:04 | [io.github.pipeworx-io/hpms-aadt](https://github.com/pipeworx-io/mcp-hpms-aadt) | Hpms Aadt | 0.1.0 | FHWA, Highway Performance Monitoring System (HPMS): annual average daily traffi… |
-| 2026-11-01 02:06:51 | io.github.rtp-coder/stake-analyzer |  | 1.1.0 | Stake Originals odds, house edge, payouts and bet verification, slot RTP and bo… |
-| 2026-11-01 02:10:11 | io.github.j209509/bacotto | bacotto - Sales lists of local business… | 1.0.0 | Sales lists of local businesses in Japan with contacts, website type and contac… |
+| 2026-11-01 02:20:39 | [io.github.xultrax-web/dogpolicies-mcp](https://github.com/xultrax-web/dogpolicies-mcp) | DogPolicies | 0.2.1 | Verified dog rules for California and Nevada travel: parks, beaches, hotels, fe… |
+| 2026-11-01 02:21:22 | [io.github.Aedelon/davinci-mcp](https://github.com/Aedelon/davinci-mcp) | DaVinci Resolve | 1.0.1 | Typed, safe MCP server for DaVinci Resolve: every write verified, deletes confi… |
+| 2026-11-01 02:25:49 | com.uselauda/lauda | Lauda - IA jurídica | 1.0.0 | Brazilian law tools: CPC deadlines, labor and debt calculators, CEP, CNPJ and O… |
+| 2026-11-01 02:28:22 | app.verli/verli | Verli | 0.2.65 | Search and read your saved Verli transcripts, translations, and AI summaries. O… |
+| 2026-11-01 02:30:36 | io.ainbox/mcp | aInbox | 1.0.0 | Messaging between your AI agents: each gets an @ainbox.io address to hand off c… |
+| 2026-11-01 02:36:27 | [io.github.israeldi/flamingo-file-tools](https://github.com/israeldi/flamingo-file-tools-mcp) | Flamingo File Tools | 0.1.0 | Access tables, HTML5 ad ZIPs, layered PDF stamps and ONIX previews via RapidAPI. |
+| 2026-11-01 02:38:52 | org.pixelworkers/site | Pixelworkers | 1.0.0 | Read-only connector to pixelworkers.org: search and read guides, list services,… |
+| 2026-11-01 02:47:59 | [fyi.agentdrop/agentdrop](https://github.com/campbel/dead-drop) | AgentDrop | 0.3.0 | Paid tools for AI agents over x402: frontier-model chat per call, plus drops an… |
+| 2026-11-01 02:48:00 | [fyi.agentdrop/ai](https://github.com/campbel/dead-drop) | AgentDrop Inference | 0.3.0 | Pay-per-call chat on GPT-6.1, Claude, Gemini and Grok over x402. No API key; a… |
+| 2026-11-01 02:48:47 | com.compoundmint/money-calculator | Compound Mint Money Calculator | 1.0.0 | Free educational money calculators: compound interest, FIRE, 401(k), debt. Not… |
+| 2026-11-01 02:50:16 | io.github.hodgen-ai/freedom-rave-wear | Freedom Rave Wear | 1.0.0 | Shop rave clothing: search live products, prices, availability, reviews, shippi… |
+| 2026-11-01 02:52:25 | [io.github.Argentic-Labs-AI/argentic](https://github.com/Argentic-Labs-AI/argentic-plugins) | Argentic | 0.3.1 | Kill an agent mid-action and it resumes without repeating finished actions. Pro… |
+| 2026-11-01 02:54:03 | io.github.eagles2000/ask-hawaii | Ask Hawaiʻi | 1.0.0 | Checked Hawaiʻi facts with sources, live NWS weather and alerts, and twice-dail… |
+| 2026-11-01 02:56:24 | [io.github.MKagesawa/masadeals](https://github.com/MKagesawa/masadeals) | MasaDeals | 0.1.0 | Verified promo codes for shopping agents — ranked by checkout success, never co… |
+| 2026-11-01 02:58:41 | app.deleva/deleva | Deleva | 1.0.0 | Social media for small businesses and agencies: brand memory, content calendar… |
+| 2026-11-01 03:05:01 | io.github.33ai-wq/xh-agents-connector | XH Agents Connector (read-only) | 1.30.0 | Read-only XH Agents MCP connector: service catalogue, payment info, verificatio… |
+| 2026-11-01 03:11:40 | io.github.phreakocious/ebcdic | EBCDIC to ASCII | 1.0.0 | An MCP server that measures MCP client behaviour and converts EBCDIC to ASCII,… |
+| 2026-11-01 03:12:52 | io.github.jiahongq/qsignals | QSignals AI Stock Scores | 1.0.0 | AI scores (0-100) and Buy/Hold/Sell signals for 55 AI, space, energy and roboti… |
+| 2026-11-01 03:15:54 | [dev.agentvera/board](https://github.com/Solviera-Teknoloji/agentvera-board-mcp) | AgentVera Board | 1.0.0 | Shared notice board for coding agents: notes, decisions, todos across Claude Co… |
+| 2026-11-01 03:17:40 | [io.github.ashlrai/ashlr-stack](https://github.com/ashlrai/ashlr-stack) | Ashlr Stack | 0.3.0 | Provision and connect third-party dev services (Supabase, Vercel, and more) fro… |
+| 2026-11-01 03:20:26 | si.imagecompressor/images | ImageCompressor.si | 1.0.0 | Compress, convert, resize, crop, upscale, OCR and remove backgrounds from image… |
 
 ## Data source
 

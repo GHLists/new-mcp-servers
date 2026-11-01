@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-11-01T02:20:39.691959Z,io.github.xultrax-web/dogpolicies-mcp,DogPolicies,0.2.1,https://github.com/xultrax-web/dogpolicies-mcp,,"Verified dog rules for California and Nevada travel: parks, beaches, hotels, fees, sourced and dated"
+2026-11-01T02:21:22.229379Z,io.github.Aedelon/davinci-mcp,DaVinci Resolve,1.0.1,https://github.com/Aedelon/davinci-mcp,,"Typed, safe MCP server for DaVinci Resolve: every write verified, deletes confirmed, snapshots."
+2026-11-01T02:25:49.955347Z,com.uselauda/lauda,Lauda - IA jurídica,1.0.0,,streamable-http,"Brazilian law tools: CPC deadlines, labor and debt calculators, CEP, CNPJ and OAB case lookup."
+2026-11-01T02:28:22.403652Z,app.verli/verli,Verli,0.2.65,,streamable-http,"Search and read your saved Verli transcripts, translations, and AI summaries. OAuth, read-only."
+2026-11-01T02:30:36.920558Z,io.ainbox/mcp,aInbox,1.0.0,,streamable-http,Messaging between your AI agents: each gets an @ainbox.io address to hand off context. OAuth.
+2026-11-01T02:36:27.114644Z,io.github.israeldi/flamingo-file-tools,Flamingo File Tools,0.1.0,https://github.com/israeldi/flamingo-file-tools-mcp,,"Access tables, HTML5 ad ZIPs, layered PDF stamps and ONIX previews via RapidAPI."
+2026-11-01T02:38:52.870921Z,org.pixelworkers/site,Pixelworkers,1.0.0,,streamable-http,"Read-only connector to pixelworkers.org: search and read guides, list services, start a quote."
+2026-11-01T02:47:59.878943Z,fyi.agentdrop/agentdrop,AgentDrop,0.3.0,https://github.com/campbel/dead-drop,streamable-http,"Paid tools for AI agents over x402: frontier-model chat per call, plus drops and hand-off channels."
+2026-11-01T02:48:00.042903Z,fyi.agentdrop/ai,AgentDrop Inference,0.3.0,https://github.com/campbel/dead-drop,streamable-http,"Pay-per-call chat on GPT-6.1, Claude, Gemini and Grok over x402. No API key; a failed call is free."
+2026-11-01T02:48:47.069707Z,com.compoundmint/money-calculator,Compound Mint Money Calculator,1.0.0,,streamable-http,"Free educational money calculators: compound interest, FIRE, 401(k), debt. Not financial advice."
+2026-11-01T02:50:16.887981Z,io.github.hodgen-ai/freedom-rave-wear,Freedom Rave Wear,1.0.0,,streamable-http,"Shop rave clothing: search live products, prices, availability, reviews, shipping and policies."
+2026-11-01T02:52:25.295478Z,io.github.Argentic-Labs-AI/argentic,Argentic,0.3.1,https://github.com/Argentic-Labs-AI/argentic-plugins,streamable-http,Kill an agent mid-action and it resumes without repeating finished actions. Proof of every run.
+2026-11-01T02:54:03.237423Z,io.github.eagles2000/ask-hawaii,Ask Hawaiʻi,1.0.0,,streamable-http,"Checked Hawaiʻi facts with sources, live NWS weather and alerts, and twice-daily local headlines."
+2026-11-01T02:56:24.653718Z,io.github.MKagesawa/masadeals,MasaDeals,0.1.0,https://github.com/MKagesawa/masadeals,streamable-http,"Verified promo codes for shopping agents — ranked by checkout success, never commission."
+2026-11-01T02:58:41.229776Z,app.deleva/deleva,Deleva,1.0.0,,streamable-http,"Social media for small businesses and agencies: brand memory, content calendar and scheduling."
+2026-11-01T03:05:01.290808Z,io.github.33ai-wq/xh-agents-connector,XH Agents Connector (read-only),1.30.0,,streamable-http,"Read-only XH Agents MCP connector: service catalogue, payment info, verification checks."
+2026-11-01T03:11:40.535257Z,io.github.phreakocious/ebcdic,EBCDIC to ASCII,1.0.0,,streamable-http,"An MCP server that measures MCP client behaviour and converts EBCDIC to ASCII, which nobody needs."
+2026-11-01T03:12:52.364551Z,io.github.jiahongq/qsignals,QSignals AI Stock Scores,1.0.0,,streamable-http,"AI scores (0-100) and Buy/Hold/Sell signals for 55 AI, space, energy and robotics stocks."
+2026-11-01T03:15:54.400385Z,dev.agentvera/board,AgentVera Board,1.0.0,https://github.com/Solviera-Teknoloji/agentvera-board-mcp,,"Shared notice board for coding agents: notes, decisions, todos across Claude Code, Codex and more"
+2026-11-01T03:17:40.644602Z,io.github.ashlrai/ashlr-stack,Ashlr Stack,0.3.0,https://github.com/ashlrai/ashlr-stack,,"Provision and connect third-party dev services (Supabase, Vercel, and more) from your coding agent."
+2026-11-01T03:20:26.18387Z,si.imagecompressor/images,ImageCompressor.si,1.0.0,,streamable-http,"Compress, convert, resize, crop, upscale, OCR and remove backgrounds from images."
