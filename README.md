@@ -9,29 +9,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 05:19 UTC
+## Latest list — 2026-11-01 06:19 UTC
 
-New MCP servers published between 2026-11-01 04:19 UTC and 2026-11-01 05:19 UTC.
+New MCP servers published between 2026-11-01 05:19 UTC and 2026-11-01 06:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-01T05-19-20-246588Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-01T06-19-30-930281Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-01 04:21:41 | [io.github.woodpeng/mindmax](https://github.com/woodpeng/mindmax) | MindMax | 0.2.0 | All MindMax tools: open AI-written docs in MindMax Write and outlines as mind m… |
-| 2026-11-01 04:26:19 | [io.github.MlkBlk-IT/osiris](https://github.com/MlkBlk-IT/osiris) |  | 0.1.0 | Cache-aware context engine for AI agents: server-side payload filtering, honest… |
-| 2026-11-01 04:28:32 | [io.github.woodpeng/mindmax-write](https://github.com/woodpeng/mindmax) | MindMax Write | 0.3.0 | Open AI-written docs and diagrams in MindMax Write: edit, export Word/PDF, or r… |
-| 2026-11-01 04:29:17 | io.github.jacklee1000/avideoai-mcp |  | 1.0.0 | MCP server for avideoai: turn product photos into video ads from Claude and oth… |
-| 2026-11-01 04:31:07 | [online.promptsaver/prompt-saver](https://github.com/VeshRaazThapa/prompt-saver) | Prompt Saver | 1.0.0 | Your versioned prompt library: search, read, save and version prompts from Clau… |
-| 2026-11-01 04:41:48 | com.forms-legal/legal-templates | Forms Legal templates | 1.0.0 | Search free legal document templates for 36 jurisdictions and cite Forms Legal… |
-| 2026-11-01 04:44:51 | app.vercel.roster-ivory-zeta/roster | Roster | 1.0.0 | Hire AI agents with distinct personalities for writing, marketing, research, le… |
-| 2026-11-01 04:44:52 | [io.github.aarbchen/camberdesk-mcp](https://github.com/aarbchen/camberdesk) | CamberDesk 50-State DOT Civil & Precons… | 1.0.0 | 50-State DOT bid tabulations, Davis-Bacon WH-347 wages, CSI shredder & BABA/DBE… |
-| 2026-11-01 04:45:16 | [io.github.TomasLucasUTN/godot-mcp-bridge](https://github.com/TomasLucasUTN/godot-mcp-bridge) |  | 1.3.0 | MCP server for Godot game engine integration — control the Godot editor with AI |
-| 2026-11-01 04:54:08 | io.github.Tensor-Stacks/tensorbasis | Tensorbasis | 0.1.0 | Retail competitor intelligence: compare prices, review matches, and track catal… |
-| 2026-11-01 05:00:13 | [io.github.CloudCorpRecords/gridbase](https://github.com/CloudCorpRecords/gridbase) |  | 0.1.0 | Bases, tables, and records in Airtable: list, search, create, update, delete. |
-| 2026-11-01 05:07:55 | [io.github.CloudCorpRecords/pgcloud](https://github.com/CloudCorpRecords/pgcloud) |  | 0.1.0 | Neon Postgres projects, branches, SQL, and migrations from your MCP client. |
-| 2026-11-01 05:15:19 | [io.github.CloudCorpRecords/appbase](https://github.com/CloudCorpRecords/appbase) |  | 0.1.0 | Supabase projects, tables, SQL, migrations, and storage from your MCP client. |
-| 2026-11-01 05:18:22 | [com.docspring/mcp-eu](https://github.com/DocSpring/skills) | DocSpring (EU) | 1.4.0 | DocSpring for EU accounts: fill PDF and Word templates, generate PDFs, and coll… |
-| 2026-11-01 05:18:22 | [com.docspring/mcp](https://github.com/DocSpring/skills) | DocSpring | 1.4.0 | Fill PDF and Word templates, generate PDFs and Word documents, and collect e-si… |
+| 2026-11-01 05:22:33 | [io.github.CloudCorpRecords/payport](https://github.com/CloudCorpRecords/payport) |  | 0.1.0 | Customers, products, prices, invoices, and payments through the Stripe API. |
+| 2026-11-01 05:24:54 | [io.github.allooloo/getorderability](https://github.com/allooloo/cm-kg) | getorderability: AIO orderability door | 0.1.0 | AIO orderability: may a capital product be ordered for a client category? Signe… |
+| 2026-11-01 05:28:50 | com.binarybirthday.www/binarybirthday | BinaryBirthday | 1.0.0 | Turn birthdays, names and words into binary code, with links to personalized bi… |
+| 2026-11-01 05:29:44 | [io.github.CloudCorpRecords/mailsend](https://github.com/CloudCorpRecords/mailsend) |  | 0.1.0 | Send and manage email, domains, audiences, and API keys through the Resend API. |
+| 2026-11-01 05:29:47 | [ai.qiyuanlabs/easyappointments](https://github.com/qiyuanlabs-ai/easyappointments-mcp) | Easy!Appointments | 0.1.0 | Find open slots, book, move and cancel Easy!Appointments bookings, with OAuth a… |
+| 2026-11-01 05:35:56 | [io.github.CloudCorpRecords/sandboxrun](https://github.com/CloudCorpRecords/sandboxrun) |  | 0.1.0 | Run code in a secure E2B sandbox from the CLI or a stdio MCP server. |
+| 2026-11-01 05:38:50 | com.ghostshorts/ghostshorts | GhostShorts | 1.0.0 | Make Reddit story, text message, quiz and article short videos from your AI ass… |
+| 2026-11-01 05:39:22 | io.github.jmcitrin/milyoo | Milyoo | 1.0.0 | A home for your agents: an owned book of record any AI agent can write to, with… |
+| 2026-11-01 05:44:09 | [io.github.CloudCorpRecords/libdocs-remote](https://github.com/CloudCorpRecords/libdocs-remote) |  | 0.1.0 | Forward Context7 library documentation lookups to the hosted remote MCP endpoin… |
+| 2026-11-01 05:46:22 | [io.github.Kayforkind/pdfstudio](https://github.com/Kayforkind/NavigatorsLab-PDF-Studio) |  | 1.0.1 | Read, search, edit, and truly redact PDFs locally — 10 agent tools over stdio. |
+| 2026-11-01 05:51:25 | [io.github.CloudCorpRecords/edgeport](https://github.com/CloudCorpRecords/edgeport) |  | 0.1.0 | Zones, DNS, cache purge, Workers, KV, and R2 through the Cloudflare API. |
+| 2026-11-01 05:58:18 | [io.github.CloudCorpRecords/metricwatch](https://github.com/CloudCorpRecords/metricwatch) |  | 0.1.0 | Datadog metrics, dashboards, logs, incidents, and monitors from your MCP client. |
+| 2026-11-01 05:58:33 | com.pclosets/closets | Paradise Closets | 1.0.0 | Custom closets built to your measurements, shipped anywhere in the US. Estimate… |
+| 2026-11-01 06:04:37 | [io.github.FelixMUrphy/taskhub](https://github.com/FelixMUrphy/TaskHub) | TaskHub | 2.9.2 | Report agent jobs to the TaskHub Windows tray app: progress, notifications, but… |
+| 2026-11-01 06:05:00 | [io.github.CloudCorpRecords/voicegen-port](https://github.com/CloudCorpRecords/voicegen-port) |  | 0.1.0 | Generate speech, voices, and transcripts through the ElevenLabs API. |
+| 2026-11-01 06:06:26 | [io.github.ChoYugyeong/memdex](https://github.com/ChoYugyeong/memdex) |  | 0.2.1 | Shared memory for AI coding agents: summaries, symbol map, notes and agent-to-a… |
+| 2026-11-01 06:06:55 | [com.thedailyworkflow/thedailyworkflow-mcp](https://github.com/vlsky2603/thedailyworkflow-mcp) | The Daily Workflow — AI Tools & Free Al… | 0.3.1 | Find free open-source replacements for paid software; search 15,000+ AI tools a… |
+| 2026-11-01 06:11:22 | [com.allscreenshots/allscreenshots](https://github.com/allscreenshots/allscreenshots-plugin) | Allscreenshots | 1.0.1 | Capture website screenshots, run bulk captures, and manage screenshot schedules… |
+| 2026-11-01 06:12:30 | com.printonic/printonic | Printonic | 1.0.1 | Print-on-demand catalog, listings, and fulfillment for AI agents. |
 
 ## Data source
 

@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-11-01T05:22:33.092131Z,io.github.CloudCorpRecords/payport,,0.1.0,https://github.com/CloudCorpRecords/payport,,"Customers, products, prices, invoices, and payments through the Stripe API."
+2026-11-01T05:24:54.751668Z,io.github.allooloo/getorderability,getorderability: AIO orderability door,0.1.0,https://github.com/allooloo/cm-kg,streamable-http,AIO orderability: may a capital product be ordered for a client category? Signed by the home node.
+2026-11-01T05:28:50.946426Z,com.binarybirthday.www/binarybirthday,BinaryBirthday,1.0.0,,streamable-http,"Turn birthdays, names and words into binary code, with links to personalized binary-code gifts."
+2026-11-01T05:29:44.03675Z,io.github.CloudCorpRecords/mailsend,,0.1.0,https://github.com/CloudCorpRecords/mailsend,,"Send and manage email, domains, audiences, and API keys through the Resend API."
+2026-11-01T05:29:47.221547Z,ai.qiyuanlabs/easyappointments,Easy!Appointments,0.1.0,https://github.com/qiyuanlabs-ai/easyappointments-mcp,streamable-http,"Find open slots, book, move and cancel Easy!Appointments bookings, with OAuth and a call log."
+2026-11-01T05:35:56.50051Z,io.github.CloudCorpRecords/sandboxrun,,0.1.0,https://github.com/CloudCorpRecords/sandboxrun,,Run code in a secure E2B sandbox from the CLI or a stdio MCP server.
+2026-11-01T05:38:50.990907Z,com.ghostshorts/ghostshorts,GhostShorts,1.0.0,,streamable-http,"Make Reddit story, text message, quiz and article short videos from your AI assistant. MP4 out."
+2026-11-01T05:39:22.466671Z,io.github.jmcitrin/milyoo,Milyoo,1.0.0,,streamable-http,"A home for your agents: an owned book of record any AI agent can write to, with provenance and undo."
+2026-11-01T05:44:09.750726Z,io.github.CloudCorpRecords/libdocs-remote,,0.1.0,https://github.com/CloudCorpRecords/libdocs-remote,,Forward Context7 library documentation lookups to the hosted remote MCP endpoint.
+2026-11-01T05:46:22.824685Z,io.github.Kayforkind/pdfstudio,,1.0.1,https://github.com/Kayforkind/NavigatorsLab-PDF-Studio,,"Read, search, edit, and truly redact PDFs locally — 10 agent tools over stdio."
+2026-11-01T05:51:25.197437Z,io.github.CloudCorpRecords/edgeport,,0.1.0,https://github.com/CloudCorpRecords/edgeport,,"Zones, DNS, cache purge, Workers, KV, and R2 through the Cloudflare API."
+2026-11-01T05:58:18.519764Z,io.github.CloudCorpRecords/metricwatch,,0.1.0,https://github.com/CloudCorpRecords/metricwatch,,"Datadog metrics, dashboards, logs, incidents, and monitors from your MCP client."
+2026-11-01T05:58:33.542962Z,com.pclosets/closets,Paradise Closets,1.0.0,,streamable-http,"Custom closets built to your measurements, shipped anywhere in the US. Estimates and quote requests."
+2026-11-01T06:04:37.165881Z,io.github.FelixMUrphy/taskhub,TaskHub,2.9.2,https://github.com/FelixMUrphy/TaskHub,,"Report agent jobs to the TaskHub Windows tray app: progress, notifications, buttons (app required)."
+2026-11-01T06:05:00.80902Z,io.github.CloudCorpRecords/voicegen-port,,0.1.0,https://github.com/CloudCorpRecords/voicegen-port,,"Generate speech, voices, and transcripts through the ElevenLabs API."
+2026-11-01T06:06:26.129406Z,io.github.ChoYugyeong/memdex,,0.2.1,https://github.com/ChoYugyeong/memdex,,"Shared memory for AI coding agents: summaries, symbol map, notes and agent-to-agent messages."
+2026-11-01T06:06:55.93829Z,com.thedailyworkflow/thedailyworkflow-mcp,The Daily Workflow — AI Tools & Free Alternatives,0.3.1,https://github.com/vlsky2603/thedailyworkflow-mcp,streamable-http,"Find free open-source replacements for paid software; search 15,000+ AI tools and MCP servers."
+2026-11-01T06:11:22.450513Z,com.allscreenshots/allscreenshots,Allscreenshots,1.0.1,https://github.com/allscreenshots/allscreenshots-plugin,streamable-http,"Capture website screenshots, run bulk captures, and manage screenshot schedules and history."
+2026-11-01T06:12:30.103679Z,com.printonic/printonic,Printonic,1.0.1,,streamable-http,"Print-on-demand catalog, listings, and fulfillment for AI agents."
