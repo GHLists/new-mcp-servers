@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-11-01T11:22:40.741666Z,fitness.embark/embark,Embark,1.0.0,,streamable-http,"Ask about your training, log sessions and query your history in Embark."
+2026-11-01T11:24:22.889902Z,eu.iotpay/en16931-validator,EU EN-16931 & XRechnung Deterministic Validator,0.9.0,,streamable-http,Official KoSIT EN 16931 & XRechnung XML validator issuing signed Ed25519 VCs. Zero retention.
+2026-11-01T11:26:10.08911Z,eu.iotpay/sanctions-kyb,EU Financial Sanctions (FSF) & KYB Clearance Oracle,0.9.0,,streamable-http,"Deterministic EU FSF, UN & OpenSanctions KYB screening issuing signed Ed25519 Non-Hit VCs."
+2026-11-01T11:26:10.828388Z,eu.iotpay/privacy-pii-shield,GDPR PII Shield & EU AI Act Anonymization Gate,0.9.0,,streamable-http,"Zero-retention GDPR PII redaction gate (IBAN, Tax-ID, HRB, Names) with signed Ed25519 VC."
+2026-11-01T11:28:05.818049Z,com.mcp-interfaces/layoutbridge-light,LayoutBridge Light for Adobe InDesign®,1.0.0,,,"layoutbridge-light – book typesetting in Adobe® InDesign® via MCP: text, styles, TOC, PDF, EPUB"
+2026-11-01T11:33:50.744256Z,io.github.netbasecorp/adminkit-mcp,AdminKit,0.1.0,https://github.com/netbasecorp/adminkit-mcp,,"Network, DNS, mail-auth and MCP endpoint security checks for AI agents, backed by adminkit.net."
+2026-11-01T11:35:42.400729Z,app.thedreamtrip/dream-trip,Dream Trip,1.0.0,,streamable-http,"Your saved travel places, lists and trips. Plan day-by-day itineraries that land in Dream Trip."
+2026-11-01T11:38:12.306251Z,fr.intelunix.mcp.shop-cartmelai/maison-moustache,Maison Moustache — MCP Apps Builders,0.1.0,,streamable-http,"Cat product catalog, scoped carts and buyer orders. Test storefront with synthetic payments only."
+2026-11-01T11:38:14.974336Z,io.jetforge/jetforge,JetForge,1.0.0,,streamable-http,"Solana launchpad trading: markets, quotes, wallet balances and unsigned buy/sell transactions"
+2026-11-01T11:38:22.926854Z,io.github.mohamedaly-cloud/masr-pay-mcp-unofficial,FawryPay cash payments (unofficial),0.1.0,https://github.com/mohamedaly-cloud/masr-pay-mcp-unofficial,,Unofficial MCP server for FawryPay Pay-at-Fawry cash payments in Egypt. Not affiliated with Fawry.
+2026-11-01T11:51:21.381538Z,io.github.liboy119/agentpub,AgentPub — Public Chat and Shared Memory for AI Agents,0.2.0,https://github.com/liboy119/agentpub,streamable-http,"Public chat and shared memory for AI agents. Open reads, free write keys. MCP + A2A + WebSocket."
+2026-11-01T11:54:00.548259Z,io.github.yeyo11/google-docs-mcp,,0.1.1,https://github.com/yeyo11/google-docs-mcp,,Read-only server that explains a Google Doc's comments and reply threads to an AI assistant.
+2026-11-01T12:03:33.493363Z,tech.tchin/tchin,Tchin,1.0.0,,streamable-http,"Tchin payments (Togo, Benin, Burkina Faso): pay links, account, PDF statements, payment links."
+2026-11-01T12:07:36.524496Z,io.github.mesmerlord/lurkapi,LurkAPI,1.0.0,,streamable-http,"Live public posts, profiles, ads, comments and transcripts from 16 social platforms and the web."
+2026-11-01T12:09:02.436137Z,app.jobzero/jobzero,JobZero,1.0.0,,streamable-http,"Score job fit, tailor grounded resumes, and prefill applications from your JobZero account."
+2026-11-01T12:13:05.32894Z,io.github.noahhyden/erbina,,0.3.0,https://github.com/noahhyden/erbina,,"Bootstrap, verify, and update CLI tools & MCP servers in Claude Code from recipes; audit scopes."
+2026-11-01T12:14:44.740339Z,io.github.076923/vecscope,vecscope,0.11.0,https://github.com/076923/vecscope,,"Deterministic evidence about embedding spaces and vector indexes: hubness, collapse, ANN recall"
+2026-11-01T12:15:30.73502Z,app.kumbaa/kumbaa,Kumbaa,1.0.0,https://github.com/sanjaybhagia/kumbaa-mcp,streamable-http,"A private family archive: family tree, life stories, photos and albums, for your family only."
+2026-11-01T12:17:58.260364Z,io.github.nhost/mcp,Nhost,0.4.0-beta1,https://github.com/nhost/nhost,,"Let your users work with their own data through an AI assistant, limited to what they can see."
+2026-11-01T12:18:27.216352Z,io.github.lucas19919/diagonaldiagrams,diagonaldiagrams,0.9.0,https://github.com/lucas19919/diagonaldiagrams,,"Diagrams and charts for agents: Mermaid or a spec in, an audited SVG out."
