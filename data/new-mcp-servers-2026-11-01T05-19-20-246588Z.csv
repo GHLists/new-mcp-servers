@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-11-01T04:21:41.214177Z,io.github.woodpeng/mindmax,MindMax,0.2.0,https://github.com/woodpeng/mindmax,,All MindMax tools: open AI-written docs in MindMax Write and outlines as mind maps in MindMax Think
+2026-11-01T04:26:19.423747Z,io.github.MlkBlk-IT/osiris,,0.1.0,https://github.com/MlkBlk-IT/osiris,,"Cache-aware context engine for AI agents: server-side payload filtering, honest context ledger."
+2026-11-01T04:28:32.986205Z,io.github.woodpeng/mindmax-write,MindMax Write,0.3.0,https://github.com/woodpeng/mindmax,,"Open AI-written docs and diagrams in MindMax Write: edit, export Word/PDF, or request review."
+2026-11-01T04:29:17.578139Z,io.github.jacklee1000/avideoai-mcp,,1.0.0,,,MCP server for avideoai: turn product photos into video ads from Claude and other AI agents.
+2026-11-01T04:31:07.984905Z,online.promptsaver/prompt-saver,Prompt Saver,1.0.0,https://github.com/VeshRaazThapa/prompt-saver,streamable-http,"Your versioned prompt library: search, read, save and version prompts from Claude Code."
+2026-11-01T04:41:48.025171Z,com.forms-legal/legal-templates,Forms Legal templates,1.0.0,,streamable-http,Search free legal document templates for 36 jurisdictions and cite Forms Legal pages.
+2026-11-01T04:44:51.012693Z,app.vercel.roster-ivory-zeta/roster,Roster,1.0.0,,streamable-http,"Hire AI agents with distinct personalities for writing, marketing, research, legal and more."
+2026-11-01T04:44:52.696649Z,io.github.aarbchen/camberdesk-mcp,CamberDesk 50-State DOT Civil & Preconstruction MCP Server,1.0.0,https://github.com/aarbchen/camberdesk,streamable-http,"50-State DOT bid tabulations, Davis-Bacon WH-347 wages, CSI shredder & BABA/DBE MCP server."
+2026-11-01T04:45:16.993698Z,io.github.TomasLucasUTN/godot-mcp-bridge,,1.3.0,https://github.com/TomasLucasUTN/godot-mcp-bridge,,MCP server for Godot game engine integration — control the Godot editor with AI
+2026-11-01T04:54:08.560908Z,io.github.Tensor-Stacks/tensorbasis,Tensorbasis,0.1.0,,streamable-http,"Retail competitor intelligence: compare prices, review matches, and track catalog changes."
+2026-11-01T05:00:13.937738Z,io.github.CloudCorpRecords/gridbase,,0.1.0,https://github.com/CloudCorpRecords/gridbase,,"Bases, tables, and records in Airtable: list, search, create, update, delete."
+2026-11-01T05:07:55.359886Z,io.github.CloudCorpRecords/pgcloud,,0.1.0,https://github.com/CloudCorpRecords/pgcloud,,"Neon Postgres projects, branches, SQL, and migrations from your MCP client."
+2026-11-01T05:15:19.947712Z,io.github.CloudCorpRecords/appbase,,0.1.0,https://github.com/CloudCorpRecords/appbase,,"Supabase projects, tables, SQL, migrations, and storage from your MCP client."
+2026-11-01T05:18:22.421575Z,com.docspring/mcp-eu,DocSpring (EU),1.4.0,https://github.com/DocSpring/skills,streamable-http,"DocSpring for EU accounts: fill PDF and Word templates, generate PDFs, and collect e-signatures."
+2026-11-01T05:18:22.599926Z,com.docspring/mcp,DocSpring,1.4.0,https://github.com/DocSpring/skills,streamable-http,"Fill PDF and Word templates, generate PDFs and Word documents, and collect e-signatures."

@@ -9,34 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 04:19 UTC
+## Latest list — 2026-11-01 05:19 UTC
 
-New MCP servers published between 2026-11-01 03:20 UTC and 2026-11-01 04:19 UTC.
+New MCP servers published between 2026-11-01 04:19 UTC and 2026-11-01 05:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-01T04-19-06-940228Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-01T05-19-20-246588Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-01 03:28:34 | live.cashboard/signals | Cashboard Signals | 1.0.0 | Market data for agents: perps, OI, funding, Solana wallet swaps. Paid per call… |
-| 2026-11-01 03:29:27 | [com.toolcargo/toolcargo](https://github.com/eclipseagency/toolport) |  | 1.0.0 | Search 53,000+ MCP servers from the official registry. Free, no account or API… |
-| 2026-11-01 03:30:34 | com.clickd/clickd | clickd | 1.0.0 | Reads a site as search engines and AI assistants do, ranks its fixes, and check… |
-| 2026-11-01 03:32:29 | io.github.bananohands/moltclub | Molt Club | 0.1.0 | Public discussion rooms and read-only discovery tools for AI agents. |
-| 2026-11-01 03:36:35 | ai.solwyn/solwyn | Solwyn | 0.4.0 | Check budgets before AI spend, record what your code spends and read Solwyn cos… |
-| 2026-11-01 03:45:02 | [io.github.superclonica/superclonica-mcp](https://github.com/superclonica/superclonica-mcp) | SuperClonica text to speech | 0.1.0 | Text to speech in about 190 voices and 31 languages: offline on your computer o… |
-| 2026-11-01 03:45:46 | [io.github.alfa-reza/cvss-calculator-mcp](https://github.com/alfa-reza/cvss-calculator-mcp) | CVSS Calculator MCP | 1.0.0 | Calculate and validate CVSS 2.0, 3.0, 3.1, and 4.0 base scores. |
-| 2026-11-01 03:46:17 | [io.github.umakhanpro/vocalingo](https://github.com/umakhanpro/vocalingo-mcp) | VocaLingo | 2.0.0 | Video summaries, voice message transcription and translation in the same voice,… |
-| 2026-11-01 03:51:57 | [app.payperwork/payperwork](https://github.com/campbel/dead-drop) | Payperwork | 0.3.0 | Paid tools for AI agents over x402: frontier-model chat per call, plus drops an… |
-| 2026-11-01 03:51:57 | [app.payperwork/ai](https://github.com/campbel/dead-drop) | Payperwork Inference | 0.3.0 | Pay-per-call chat on GPT-6.1, Claude, Gemini and Grok over x402. No API key; a… |
-| 2026-11-01 03:57:13 | [dev.rampify/rampify-mcp](https://github.com/rampify-dev/rampify-mcp) | Rampify | 1.1.0 | Turn your coding agent into a marketing agent: search data, specs to build, fix… |
-| 2026-11-01 03:58:17 | com.smallfirelab/public-records | Smallfire Lab public-records checks | 1.0.0 | Free read-only lookups of Oregon contractor licenses and FDA food recalls for A… |
-| 2026-11-01 04:03:30 | com.bidcraftai/quotes | BidCraft | 1.0.0 | Get bids from local US contractors: scope a job, then BidCraft contacts contrac… |
-| 2026-11-01 04:05:15 | [io.github.ArtJack/gitdone](https://github.com/ArtJack/gitdone) | gitdone | 0.2.0 | Read-only project status: strict and weighted completion, each claim held to gi… |
-| 2026-11-01 04:06:01 | [io.github.popnow-ai/popnow-api-mcp](https://github.com/popnow-ai/popnow-api-mcp) | PopNow API | 0.2.0 | Developer MCP for PopNow: run any AI image, video and audio model with an API k… |
-| 2026-11-01 04:11:32 | ai.4ai/domains | 4ai – premium .ai domains for sale | 1.0.0 | Search 254 premium .ai domains for sale, get free .ai value estimates and real… |
-| 2026-11-01 04:11:39 | io.royally/royally | Royally | 0.0.898 | Run every WordPress site you manage from your AI agent, with approvals, receipt… |
-| 2026-11-01 04:13:23 | io.github.IgnatiusTheYoungerAI/fde-lessons-warn-feed | Agent Pricing Index | 2.5.0 | Agent Pricing Index: free tools to benchmark AI pricing and check a quote. FDE… |
-| 2026-11-01 04:14:50 | [io.github.jrapakko/scree](https://github.com/jrapakko/scree) | scree | 0.3.3 | Local semantic and keyword search over the markdown in a repo or notes folder. |
-| 2026-11-01 04:16:47 | [io.github.saeedsepehr/jobinja-employer-mcp](https://github.com/saeedsepehr/jobinja-employer-mcp) | Jobinja Employer | 0.3.0 | Review and shortlist resumes received in the Jobinja employer panel with low to… |
+| 2026-11-01 04:21:41 | [io.github.woodpeng/mindmax](https://github.com/woodpeng/mindmax) | MindMax | 0.2.0 | All MindMax tools: open AI-written docs in MindMax Write and outlines as mind m… |
+| 2026-11-01 04:26:19 | [io.github.MlkBlk-IT/osiris](https://github.com/MlkBlk-IT/osiris) |  | 0.1.0 | Cache-aware context engine for AI agents: server-side payload filtering, honest… |
+| 2026-11-01 04:28:32 | [io.github.woodpeng/mindmax-write](https://github.com/woodpeng/mindmax) | MindMax Write | 0.3.0 | Open AI-written docs and diagrams in MindMax Write: edit, export Word/PDF, or r… |
+| 2026-11-01 04:29:17 | io.github.jacklee1000/avideoai-mcp |  | 1.0.0 | MCP server for avideoai: turn product photos into video ads from Claude and oth… |
+| 2026-11-01 04:31:07 | [online.promptsaver/prompt-saver](https://github.com/VeshRaazThapa/prompt-saver) | Prompt Saver | 1.0.0 | Your versioned prompt library: search, read, save and version prompts from Clau… |
+| 2026-11-01 04:41:48 | com.forms-legal/legal-templates | Forms Legal templates | 1.0.0 | Search free legal document templates for 36 jurisdictions and cite Forms Legal… |
+| 2026-11-01 04:44:51 | app.vercel.roster-ivory-zeta/roster | Roster | 1.0.0 | Hire AI agents with distinct personalities for writing, marketing, research, le… |
+| 2026-11-01 04:44:52 | [io.github.aarbchen/camberdesk-mcp](https://github.com/aarbchen/camberdesk) | CamberDesk 50-State DOT Civil & Precons… | 1.0.0 | 50-State DOT bid tabulations, Davis-Bacon WH-347 wages, CSI shredder & BABA/DBE… |
+| 2026-11-01 04:45:16 | [io.github.TomasLucasUTN/godot-mcp-bridge](https://github.com/TomasLucasUTN/godot-mcp-bridge) |  | 1.3.0 | MCP server for Godot game engine integration — control the Godot editor with AI |
+| 2026-11-01 04:54:08 | io.github.Tensor-Stacks/tensorbasis | Tensorbasis | 0.1.0 | Retail competitor intelligence: compare prices, review matches, and track catal… |
+| 2026-11-01 05:00:13 | [io.github.CloudCorpRecords/gridbase](https://github.com/CloudCorpRecords/gridbase) |  | 0.1.0 | Bases, tables, and records in Airtable: list, search, create, update, delete. |
+| 2026-11-01 05:07:55 | [io.github.CloudCorpRecords/pgcloud](https://github.com/CloudCorpRecords/pgcloud) |  | 0.1.0 | Neon Postgres projects, branches, SQL, and migrations from your MCP client. |
+| 2026-11-01 05:15:19 | [io.github.CloudCorpRecords/appbase](https://github.com/CloudCorpRecords/appbase) |  | 0.1.0 | Supabase projects, tables, SQL, migrations, and storage from your MCP client. |
+| 2026-11-01 05:18:22 | [com.docspring/mcp-eu](https://github.com/DocSpring/skills) | DocSpring (EU) | 1.4.0 | DocSpring for EU accounts: fill PDF and Word templates, generate PDFs, and coll… |
+| 2026-11-01 05:18:22 | [com.docspring/mcp](https://github.com/DocSpring/skills) | DocSpring | 1.4.0 | Fill PDF and Word templates, generate PDFs and Word documents, and collect e-si… |
 
 ## Data source
 
