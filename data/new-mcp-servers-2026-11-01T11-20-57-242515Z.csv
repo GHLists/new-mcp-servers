@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-11-01T10:21:25.421809Z,com.pdfgate/mcp-server,,1.5.0,https://github.com/pdfgate/pdfgate-mcp-server,streamable-http,"MCP server for the PDFGate API. Generate PDFs, manage documents and handle e-signatures."
+2026-11-01T10:22:32.129275Z,com.asoclimb/aso,ASOClimb,1.0.0,,streamable-http,"App Store Optimization: keyword ranks, autocomplete, competitors, top charts and niche analysis."
+2026-11-01T10:23:22.19619Z,io.github.magiautonomous/actualhumantake,ActualHumanTake,1.0.0,https://github.com/magiautonomous/actualhumantake,streamable-http,Submit products for human-written feedback and retrieve review status through MCP.
+2026-11-01T10:24:57.967372Z,dev.fly.fathom-lab-door/fathom,Fathom (lab),0.1.0,,streamable-http,"Find places and groups around an interest in a town, each with a source; propose what is missing."
+2026-11-01T10:25:33.336981Z,io.github.ThiagoJacobLannes/brasil-planos-saude-mcp,Brasil Planos de Saúde (ANS),0.1.0,https://github.com/ThiagoJacobLannes/brasil-planos-saude-mcp,,"Compare Brazilian health-plan operators with ANS open data: complaints, IDSS, fines, readjustments."
+2026-11-01T10:26:53.526643Z,com.keelstats/keel-stats,Keel Stats,1.0.0,,streamable-http,"NBA and NFL advanced stats: ratings, EPA, on/off, injuries, projections."
+2026-11-01T10:28:41.336485Z,org.remainai/remainai,RemainAI,1.0.0,,streamable-http,"Your notes, todos, feeds and rituals, filed under your own tags, open to any AI agent."
+2026-11-01T10:29:14.017209Z,io.github.redpop/apple-mail-mcp,Apple Mail,0.1.0,https://github.com/redpop/apple-mail-mcp,,"Search and read Apple Mail on macOS, read-only: mailboxes, messages and threads."
+2026-11-01T10:30:38.548278Z,com.futuresclock/china-futures,China Futures Clock,0.1.0,,streamable-http,"China futures trading days, session hours, contract expiries and exchange rule changes."
+2026-11-01T10:31:53.52699Z,io.github.mrfentmen/auspost-mcp,,1.0.0,https://github.com/mrfentmen/auspost-mcp,,"MCP server for Australia Post: shipments, labels, order tracking and delivery updates."
+2026-11-01T10:32:12.359884Z,com.midkernel/threat-intel,Midkernel Threat Intel,0.5.0,,streamable-http,"Free, read-only public-source threat intel over MCP. No account or API key."
+2026-11-01T10:32:42.063408Z,com.diveratlas/diver-atlas,Diver Atlas,1.0.0,https://gitlab.com/ravitejarx/diver-atlas,streamable-http,"Read-only dive-site atlas: search sites, sourced site plates, conditions, suitability checks."
+2026-11-01T10:37:23.819967Z,io.github.SemanticDataCharter/sdcvalidator-ts,,4.0.0,https://github.com/SemanticDataCharter/sdcvalidator-ts,,"Validate and recover SDC4 Governed Data Records in TypeScript, conforming to sdcvalidator."
+2026-11-01T10:38:21.97882Z,io.github.neebloltd/seliee,SelieeAI,1.0.0,https://github.com/neebloltd/seliee,streamable-http,"Run your business from Claude: websites, SEO, ads, social, payments, leads and AI media."
+2026-11-01T10:38:59.192124Z,com.evsproperty.mcp/catalogue,EVS Property — Costa del Sol homes,1.0.0,,streamable-http,"Homes for sale, long-term rentals and new builds on the Costa del Sol and in Málaga, Spain."
+2026-11-01T10:45:24.448098Z,me.chirpy/chirpy,Chirpy,1.0.0,,streamable-http,"Write, design and schedule social posts in your brand's voice and reply to comments."
+2026-11-01T10:45:48.12198Z,eu.fotbollsresor/matcher,Fotbollsresor.eu,1.0.0,,streamable-http,"Jämför fotbollsresor till samma match. Se arrangör, paketinnehåll, frånpris i SEK och kontrolldatum."
+2026-11-01T10:48:38.827713Z,io.github.readfetch/mcp-x402-proxy,readfetch,0.1.12,https://github.com/readfetch/mcp-x402-proxy,,Stdio MCP: free probe; paid web reading (text/map/scrape) via x402 on readfetch.com
+2026-11-01T10:49:53.634579Z,io.github.sepehr071/iran-insurance-mcp,Iran Insurance (BimeBazar + Azki),0.1.0,https://github.com/sepehr071/iran-insurance-mcp,,"Read-only Iran insurance: BimeBazar and Azki side by side. Quotes, ratings, travel prices, guides."
+2026-11-01T10:50:04.137841Z,io.github.sepehr071/iran-brokers-mcp,Iran Brokers Market Data,0.1.0,https://github.com/sepehr071/iran-brokers-mcp,,"Read-only Iran broker data from Mofid and Agah: stocks, funds, options, bonds, gold, education."
+2026-11-01T10:50:33.046205Z,com.atabooking/mcp,ATAbooking,0.1.0,,streamable-http,"Book hotels direct through your AI, for a 5% fee. Demo: sample hotels, no real bookings yet."
+2026-11-01T10:50:57.096613Z,io.sibidz/sibidz,SIBIDZ,8.12.5,,streamable-http,"Peer-to-peer collectible card auctions. Agents search lots, watch items and bid within user limits."
+2026-11-01T10:51:49.891298Z,io.github.mikel38487/podkop-mcp,podkop-mcp,0.2.0,https://github.com/mikel38487/podkop-mcp,,MCP server for managing Podkop and Forkop on OpenWrt over SSH
+2026-11-01T11:05:09.705541Z,io.github.erayerturk/surgical-context-mcp,,0.1.0,https://github.com/erayerturk/surgical-context-mcp,,Local Tree-sitter code graph: surgical edit context for AI agents instead of full-file reads.
+2026-11-01T11:06:53.67451Z,cloud.lcas/directory,lcas,1.0.0,,streamable-http,Find ERC-8004 agents on Ethereum and Base whose MCP or A2A endpoints actually answer.
+2026-11-01T11:07:53.071631Z,io.github.fliptheweb/fatsecret-mcp,,0.0.10,https://github.com/fliptheweb/fatsecret-mcp,,"MCP server for FatSecret API - food search, nutrition, diary, recipes, weight tracking (unofficial)"
+2026-11-01T11:09:29.281935Z,io.github.jutsuhq/ai-media-router,AI Media Router,0.1.0,https://github.com/jutsuhq/ai-media-router,,"Image and video generation across 40+ providers with your own keys, plus a local asset library."
+2026-11-01T11:17:14.244581Z,io.github.vincenz-cdf/fec-lint,FEC Checker (French accounting file pre-audit),0.1.0,https://github.com/vincenz-cdf/fec-lint,streamable-http,Validate French FEC accounting files and flag audit risks before a tax audit.
+2026-11-01T11:18:44.482218Z,io.github.shilklaper/knesset2026,Knesset 2026 · how far to 61,1.0.0,,streamable-http,"Israel's 2026 Knesset election: CEC results, every town, coalition red lines, government formation."
+2026-11-01T11:20:18.80396Z,com.exniche/search,exNiche,0.6.0,,streamable-http,"Unmet shopper demand: products people ask for and can't buy, checked against 2M+ retail listings."
