@@ -9,36 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 19:19 UTC
+## Latest list — 2026-11-01 20:19 UTC
 
-New MCP servers published between 2026-11-01 18:20 UTC and 2026-11-01 19:19 UTC.
+New MCP servers published between 2026-11-01 19:19 UTC and 2026-11-01 20:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-01T19-19-43-439538Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-01T20-19-08-554553Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-01 18:29:01 | com.nodpick/ai-readiness | Nodpick AI readiness | 1.0.0 | Free AI-readiness audit: can ChatGPT, Claude and Perplexity read and cite a sit… |
-| 2026-11-01 18:31:04 | link.morningbrief/drinking-water | Drinking Water — EPA SDWIS: Water Syste… | 1.0.0 | EPA drinking water data: 434,757 public water systems, current health-based vio… |
-| 2026-11-01 18:31:16 | [io.github.fixed-width/glass](https://github.com/fixed-width/glass) | glass | 1.9.0-rc1 | MCP server giving a coding agent a build→see→interact→debug loop over native GU… |
-| 2026-11-01 18:35:05 | io.github.CipherClaw/agent-craft | Agent Craft | 1.1.0 | A persistent voxel survival world only AI agents can play: mine, craft, build,… |
-| 2026-11-01 18:38:30 | com.3d2holo/mcp | 3D2HOLO | 1.0.0 | Lenticular printing toolkit for AI: pitch test charts, print quotes, and workfl… |
-| 2026-11-01 18:43:05 | [com.postdelegate/postdelegate](https://github.com/khanjer496-alt/postdelegate-app) | PostDelegate | 1.0.0 | Schedule and publish social media posts from your AI assistant: channels, draft… |
-| 2026-11-01 18:45:06 | ai.postnitro/mcp | PostNitro | 1.4.0 | Create carousels, image posts and slide videos from brand kits and schedule the… |
-| 2026-11-01 18:46:20 | com.flocon-ai/mcp | Flocon AI | 1.0.0 | Publish SEO pages from Claude or Cursor to your website. Next.js now, more fram… |
-| 2026-11-01 18:52:37 | [io.github.sierikov/audiobookshelf-mcp](https://github.com/sierikov/audiobookshelf-mcp) | Audiobookshelf | 0.2.0 | Browse Audiobookshelf libraries and listening stats; opt-in tools fix chapters,… |
-| 2026-11-01 18:54:39 | com.aurgus/aurgus |  | 1.0.0 | Governed rebate & revenue close (ASC 606/705/842): explain, ingest, compute, tr… |
-| 2026-11-01 18:57:08 | [io.github.bellchain-app/mcp](https://github.com/bellchain-app/bellchain) | Bellchain | 1.4.0 | Crypto alert chains in your AI assistant: check alerts, test ideas with the rep… |
-| 2026-11-01 18:58:45 | com.machineschema/mcp | Machine Schema | 0.2.0 | Cited specs for industrial robots, CNC machines, PLCs, drives, protocols and al… |
-| 2026-11-01 19:01:48 | app.wemoveat/moveat | Moveat | 1.1.0 | Coaching app for fitness coaches: read client check-ins and diets, write drafts… |
-| 2026-11-01 19:03:40 | com.evalmee/evalmee | Evalmee | 1.0.0 | Create and edit online exams in Evalmee: sections, questions, answer keys, grad… |
-| 2026-11-01 19:05:20 | io.github.gosset-ai/gosset | Gosset | 1.0.0 | Pharma intelligence: source-linked drug, trial, result, patent, company and dea… |
-| 2026-11-01 19:10:07 | com.crosspublish/crosspublish | Crosspublish | 1.0.0 | Create, schedule, and manage social media posts with AI assistants. |
-| 2026-11-01 19:10:28 | [io.github.joelynli0110/open-transfer-times](https://github.com/joelynli0110/open-transfer-times) | Open Transfer Times | 0.1.2 | Check if a flight connection is comfortable, tight or risky, with cited airport… |
-| 2026-11-01 19:11:41 | [cz.volai/volai](https://github.com/radekklein92/volai-plugin) | volai | 1.50.0 | Czech telephony API and MCP: numbers, calls, SMS, voice agents, calendars and i… |
-| 2026-11-01 19:13:35 | io.github.enspiration-eth/punks-generated | punks.generated.eth | 0.2.0 | Mint generative on-chain punks on Ethereum for 0.002 ETH. Unsigned txs only, no… |
-| 2026-11-01 19:13:59 | com.crosspublish/mcp | Crosspublish | 1.0.0 | Create, schedule, and manage social media posts with AI assistants. |
-| 2026-11-01 19:16:55 | io.github.losclouds/losclouds | losclouds | 1.0.0 | Cloud and SaaS service status, plus your team's monitors, status pages, inciden… |
-| 2026-11-01 19:17:59 | ai.cybernative/pdf-check | CyberNative public PDF accessibility ch… | 0.1.0 | Check a PDF on a public website for the structure screen readers use. |
+| 2026-11-01 19:21:47 | io.github.Nero-Engine/viral-outlier-finder | TikTok Outlier Finder: Viral Videos, Re… | 0.1.0 | Finds TikTok, Reels and YouTube videos that beat the creator's normal views, fr… |
+| 2026-11-01 19:24:06 | [io.github.Typeroll/typeroll](https://github.com/Typeroll/typeroll) | Typeroll CMS | 0.45.102 | Build, edit and publish static websites in Typeroll CMS: pages, blocks, media,… |
+| 2026-11-01 19:28:52 | io.outil/outil | Outil.io | 2.1.0 | All-in-one marketing for entrepreneurs: sites, sales funnels, CRM, email, Whats… |
+| 2026-11-01 19:29:18 | com.gymsnj/directory | Gyms NJ directory | 1.0.0 | Gyms and fitness studios across New Jersey: hours, prices, free trials, and boo… |
+| 2026-11-01 19:29:22 | com.localgymfinder/directory | Local Gym Finder directory | 1.0.0 | Gyms in all 50 states and DC: search by city, type and hours; book with partner… |
+| 2026-11-01 19:29:23 | com.pointpleasantlocal/directory | Point Pleasant Local directory | 1.0.0 | Businesses in Point Pleasant, NJ: hours, phones, and booking or quotes where of… |
+| 2026-11-01 19:29:25 | com.bricknjlocal/directory | Brick NJ Local directory | 1.0.0 | Businesses in Brick Township, NJ: hours, phones, and booking or quotes where of… |
+| 2026-11-01 19:29:47 | [io.github.nonecap/nonecap](https://github.com/nonecap/nonecap-js) | NoneCap | 0.13.0 | Solve hCaptcha and hCaptcha Enterprise challenges and get back a token, via the… |
+| 2026-11-01 19:30:49 | com.regmonitoring/regulatory-updates | Reg Monitoring | 0.2.0 | Financial regulatory updates, deadlines and enforcement actions from regulators… |
+| 2026-11-01 19:35:29 | ru.slidesweb/slidesweb | SlidesWeb | 1.0.0 | Interactive presentations: create decks, add polls, start live sessions and rea… |
+| 2026-11-01 19:40:20 | [io.github.JordanKarst/predictionscan](https://github.com/JordanKarst/predictionscan-mcp) | PredictionScan | 1.1.0 | Derived prediction-market flow, price changes, trader research and news. 11 rea… |
+| 2026-11-01 19:44:30 | [ai.glassflow/tares](https://github.com/glassflow/tares) | Tares | 1.55.0 | Always-on AI agents: a software factory for Claude Code, or an AI SRE that watc… |
+| 2026-11-01 19:45:40 | [io.github.azerbaijan-mcp/azstat](https://github.com/azerbaijan-mcp/azerbaijan-mcp) |  | 0.1.0 | Official Azerbaijani statistics: search State Statistical Committee tables and… |
+| 2026-11-01 19:50:13 | gg.worldtable/worldtable | Worldtable | 1.0.0 | Play and build AI RPG worlds: your agent tells the story, Worldtable keeps HP,… |
+| 2026-11-01 19:51:41 | [io.github.ovlabs/originalvoices](https://github.com/ovlabs/originalvoices-js) |  | 2.0.0 | Ask Digital Twins of real people about anything: open and choice questions, any… |
+| 2026-11-01 19:53:26 | com.mysanfelipevacation/rentals | My San Felipe Vacation | 0.16.1 | Live availability, prices and direct booking for vacation rentals in San Felipe… |
+| 2026-11-01 19:53:29 | [io.github.sabahattink/codediag](https://github.com/sabahattink/codediag) | CodeDiag | 0.11.0 | Find Node.js API routes with no auth check or input validation, and scan projec… |
+| 2026-11-01 19:54:30 | [io.github.swarmrelay/openagentforum](https://github.com/swarmrelay/openagentforum) | OpenAgentForum | 1.3.3 | Signed public message hub for AI agents (Ed25519). Channels, inbox, peer coordi… |
+| 2026-11-01 19:54:38 | [io.github.jamiew/spotify-mcp](https://github.com/jamiew/spotify-mcp) | Spotify | 0.8.0 | MCP server connecting LLMs to Spotify, with smart-batching and large-playlist t… |
+| 2026-11-01 20:02:05 | [xyz.mandatefi/mcp](https://github.com/4FR4KO-POVELECKO/mandate) | Mandate | 0.1.1 | Trade on Base through the Mandate module: every batch is checked onchain agains… |
+| 2026-11-01 20:03:25 | com.neatlisting/neatlisting | NeatListing | 1.0.0 | Edit Google Business Profiles (Google My Business): hours, posts, photos and re… |
+| 2026-11-01 20:04:28 | [io.github.Wolfe-Jam/rust-mcp-preflight](https://github.com/Wolfe-Jam/rust-mcp-preflight) | Rust MCP Preflight | 0.1.0 | Check an MCP Registry listing before you publish: README mcp-name line, server.… |
+| 2026-11-01 20:05:10 | com.ourosagents/ouros | OUROS | 0.1.0 | Read-only data for OUROS AI trading agents: markets, agents, receipts, proof ch… |
+| 2026-11-01 20:05:13 | com.stovefront/stovefront | Stovefront | 1.0.0 | Find US home kitchens on Stovefront, read their menus and pickup times, and bui… |
+| 2026-11-01 20:14:04 | [com.scrapingdaddy/scraping-daddy](https://github.com/scrapingdaddy/mcp) | Scraping Daddy | 1.0.0 | Structured public data from YouTube, TikTok, Instagram, Reddit, X, Facebook, Go… |
+| 2026-11-01 20:15:30 | fm.oncast/oncast | Oncast | 1.0.0 | Fact-checked news stories from Oncast's live AI radio: verified claims with sou… |
+| 2026-11-01 20:18:24 | fr.parcourslib/mcp | ParcoursLib | 1.0.0 | Parcoursup : formations et taux d'accès réels, métiers, spécialités, simulation… |
+| 2026-11-01 20:18:25 | ua.vn.reklama/mcp | reklama.vn.ua | 1.0.0 | Ukrainian classifieds: search ads, shops and online booking; post ads and run y… |
 
 ## Data source
 
