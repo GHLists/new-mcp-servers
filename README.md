@@ -9,33 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 06:19 UTC
+## Latest list — 2026-11-01 07:18 UTC
 
-New MCP servers published between 2026-11-01 05:19 UTC and 2026-11-01 06:19 UTC.
+New MCP servers published between 2026-11-01 06:19 UTC and 2026-11-01 07:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-01T06-19-30-930281Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-01T07-18-38-914236Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-01 05:22:33 | [io.github.CloudCorpRecords/payport](https://github.com/CloudCorpRecords/payport) |  | 0.1.0 | Customers, products, prices, invoices, and payments through the Stripe API. |
-| 2026-11-01 05:24:54 | [io.github.allooloo/getorderability](https://github.com/allooloo/cm-kg) | getorderability: AIO orderability door | 0.1.0 | AIO orderability: may a capital product be ordered for a client category? Signe… |
-| 2026-11-01 05:28:50 | com.binarybirthday.www/binarybirthday | BinaryBirthday | 1.0.0 | Turn birthdays, names and words into binary code, with links to personalized bi… |
-| 2026-11-01 05:29:44 | [io.github.CloudCorpRecords/mailsend](https://github.com/CloudCorpRecords/mailsend) |  | 0.1.0 | Send and manage email, domains, audiences, and API keys through the Resend API. |
-| 2026-11-01 05:29:47 | [ai.qiyuanlabs/easyappointments](https://github.com/qiyuanlabs-ai/easyappointments-mcp) | Easy!Appointments | 0.1.0 | Find open slots, book, move and cancel Easy!Appointments bookings, with OAuth a… |
-| 2026-11-01 05:35:56 | [io.github.CloudCorpRecords/sandboxrun](https://github.com/CloudCorpRecords/sandboxrun) |  | 0.1.0 | Run code in a secure E2B sandbox from the CLI or a stdio MCP server. |
-| 2026-11-01 05:38:50 | com.ghostshorts/ghostshorts | GhostShorts | 1.0.0 | Make Reddit story, text message, quiz and article short videos from your AI ass… |
-| 2026-11-01 05:39:22 | io.github.jmcitrin/milyoo | Milyoo | 1.0.0 | A home for your agents: an owned book of record any AI agent can write to, with… |
-| 2026-11-01 05:44:09 | [io.github.CloudCorpRecords/libdocs-remote](https://github.com/CloudCorpRecords/libdocs-remote) |  | 0.1.0 | Forward Context7 library documentation lookups to the hosted remote MCP endpoin… |
-| 2026-11-01 05:46:22 | [io.github.Kayforkind/pdfstudio](https://github.com/Kayforkind/NavigatorsLab-PDF-Studio) |  | 1.0.1 | Read, search, edit, and truly redact PDFs locally — 10 agent tools over stdio. |
-| 2026-11-01 05:51:25 | [io.github.CloudCorpRecords/edgeport](https://github.com/CloudCorpRecords/edgeport) |  | 0.1.0 | Zones, DNS, cache purge, Workers, KV, and R2 through the Cloudflare API. |
-| 2026-11-01 05:58:18 | [io.github.CloudCorpRecords/metricwatch](https://github.com/CloudCorpRecords/metricwatch) |  | 0.1.0 | Datadog metrics, dashboards, logs, incidents, and monitors from your MCP client. |
-| 2026-11-01 05:58:33 | com.pclosets/closets | Paradise Closets | 1.0.0 | Custom closets built to your measurements, shipped anywhere in the US. Estimate… |
-| 2026-11-01 06:04:37 | [io.github.FelixMUrphy/taskhub](https://github.com/FelixMUrphy/TaskHub) | TaskHub | 2.9.2 | Report agent jobs to the TaskHub Windows tray app: progress, notifications, but… |
-| 2026-11-01 06:05:00 | [io.github.CloudCorpRecords/voicegen-port](https://github.com/CloudCorpRecords/voicegen-port) |  | 0.1.0 | Generate speech, voices, and transcripts through the ElevenLabs API. |
-| 2026-11-01 06:06:26 | [io.github.ChoYugyeong/memdex](https://github.com/ChoYugyeong/memdex) |  | 0.2.1 | Shared memory for AI coding agents: summaries, symbol map, notes and agent-to-a… |
-| 2026-11-01 06:06:55 | [com.thedailyworkflow/thedailyworkflow-mcp](https://github.com/vlsky2603/thedailyworkflow-mcp) | The Daily Workflow — AI Tools & Free Al… | 0.3.1 | Find free open-source replacements for paid software; search 15,000+ AI tools a… |
-| 2026-11-01 06:11:22 | [com.allscreenshots/allscreenshots](https://github.com/allscreenshots/allscreenshots-plugin) | Allscreenshots | 1.0.1 | Capture website screenshots, run bulk captures, and manage screenshot schedules… |
-| 2026-11-01 06:12:30 | com.printonic/printonic | Printonic | 1.0.1 | Print-on-demand catalog, listings, and fulfillment for AI agents. |
+| 2026-11-01 06:19:56 | com.tblflow/tblflow | TblFlow | 1.0.0 | Lisez et modifiez vos bases TblFlow (PostgreSQL), recherchez vos documents, lan… |
+| 2026-11-01 06:22:31 | [solutions.dap/bellwether](https://github.com/bsibeth234/dap-bellwether) | DAP Bellwether | 1.1.0 | Regulatory change feed for Canada, the US, the UK and the EU. Free for people,… |
+| 2026-11-01 06:23:58 | [com.comparecloudcosts/mcp-server](https://github.com/rodrigo-orzari/ccc) | Compare Cloud Costs | 1.0.0 | Compare cloud and AI model pricing across AWS, Azure, GCP, Oracle, DigitalOcean… |
+| 2026-11-01 06:37:22 | [io.github.dleon55/ai-sdlc-prompts](https://github.com/dleon55/ai-sdlc-prompts) | AI-SDLC Prompts | 1.0.2 | 112 SDLC prompts (ES/EN) for AI coding agents, each with its operating contract. |
+| 2026-11-01 06:37:22 | dev.vetkit/mcp | vetkit | 0.1.0 | Audit repos for security, code quality and AI code risks; read findings and ope… |
+| 2026-11-01 06:38:18 | io.github.galeaxe5/pasportoo | Pasportoo Companion | 0.3.2 | Deterministic exam for the AI agent in your chat; a verified Agent Passport wit… |
+| 2026-11-01 06:40:53 | art.braindrops/braindrops | BrainDrops | 1.0.0 | Search BrainDrops AI art and get any piece's permanent Arweave and IPFS copies. |
+| 2026-11-01 07:01:53 | [io.github.CollinJ0/vendorcheck](https://github.com/CollinJ0/vendorcheck) |  | 0.1.1 | Check a vendor (name, domain, email) for fraud signals and sanctions before an… |
+| 2026-11-01 07:04:19 | [io.github.Poudel0/postgres-mcp-safe](https://github.com/Poudel0/postgres-mcp-safe) | Postgres (read-only, safe) | 0.1.1 | Drop-in replacement for @modelcontextprotocol/server-postgres that is actually… |
+| 2026-11-01 07:08:07 | [io.github.sepehr071/zoomit-mcp](https://github.com/sepehr071/zoomit-mcp) | Zoomit Products | 0.1.0 | Read-only Zoomit (zoobin) product database: specs, shop prices in Toman, price… |
+| 2026-11-01 07:08:08 | [io.github.sepehr071/gamefa-mcp](https://github.com/sepehr071/gamefa-mcp) | Gamefa | 0.1.0 | Read-only Gamefa (gamefa.com) Persian game and film site: news, scored reviews,… |
+| 2026-11-01 07:08:14 | [io.github.sepehr071/mobile-ir-mcp](https://github.com/sepehr071/mobile-ir-mcp) | Mobile.ir Phones | 0.1.0 | Read-only Mobile.ir: phone specs, shop prices and history, used phones, numbere… |
+| 2026-11-01 07:09:26 | com.brionicsecurity.pay/payments | Brionic Payments | 2.1.0 | Non-custodial crypto payments: charges, invoices and refunds in BTC, XRP, USDC… |
+| 2026-11-01 07:09:52 | [io.github.sepehr071/bama-ir-mcp](https://github.com/sepehr071/bama-ir-mcp) | Bama Cars | 0.1.0 | Read-only Bama (bama.ir) Iran car marketplace: ad search, ad details, market pr… |
+| 2026-11-01 07:09:54 | [io.github.sepehr071/iran-cloud-status-mcp](https://github.com/sepehr071/iran-cloud-status-mcp) | Iran Cloud Status | 0.1.0 | Read-only status, incidents and prices of Iranian clouds: Arvan, Hamravesh, Cha… |
+| 2026-11-01 07:09:56 | [io.github.sepehr071/karnameh-mcp](https://github.com/sepehr071/karnameh-mcp) | Karnameh Cars | 0.1.0 | Read-only Karnameh (karnameh.com) Iran car data: used ads, new-car prices, spec… |
+| 2026-11-01 07:11:23 | [io.github.sepehr071/hamrah-mechanic-mcp](https://github.com/sepehr071/hamrah-mechanic-mcp) | Hamrah Mechanic Cars | 0.1.0 | Read-only Hamrah Mechanic (hamrah-mechanic.com) car prices, used cars for sale,… |
+| 2026-11-01 07:11:27 | [io.github.sepehr071/sheypoor-mcp](https://github.com/sepehr071/sheypoor-mcp) | Sheypoor Classifieds | 0.1.0 | Read-only Sheypoor (sheypoor.com) classifieds: search ads, ad details, price su… |
+| 2026-11-01 07:12:39 | [io.github.paulocesaaars/nix](https://github.com/paulocesaaars/nix) | Nix | 4.0.0 | Servidor MCP stdio para wikis do Obsidian |
+| 2026-11-01 07:13:47 | [io.github.sepehr071/emalls-ir-mcp](https://github.com/sepehr071/emalls-ir-mcp) | Emalls Price Comparison | 0.1.1 | Read-only Emalls (emalls.ir) price comparison: products, shop offers, price his… |
+| 2026-11-01 07:14:16 | [io.github.sepehr071/darukade-mcp](https://github.com/sepehr071/darukade-mcp) | Darukade Pharmacy | 0.1.0 | Read-only Darukade (darukade.com) pharmacy: products, prices, ingredients, usag… |
 
 ## Data source
 

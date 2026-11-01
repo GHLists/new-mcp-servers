@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-11-01T06:19:56.63639Z,com.tblflow/tblflow,TblFlow,1.0.0,,streamable-http,"Lisez et modifiez vos bases TblFlow (PostgreSQL), recherchez vos documents, lancez vos agents."
+2026-11-01T06:22:31.177684Z,solutions.dap/bellwether,DAP Bellwether,1.1.0,https://github.com/bsibeth234/dap-bellwether,streamable-http,"Regulatory change feed for Canada, the US, the UK and the EU. Free for people, agents pay per call."
+2026-11-01T06:23:58.42688Z,com.comparecloudcosts/mcp-server,Compare Cloud Costs,1.0.0,https://github.com/rodrigo-orzari/ccc,,"Compare cloud and AI model pricing across AWS, Azure, GCP, Oracle, DigitalOcean and more."
+2026-11-01T06:37:22.373767Z,io.github.dleon55/ai-sdlc-prompts,AI-SDLC Prompts,1.0.2,https://github.com/dleon55/ai-sdlc-prompts,,"112 SDLC prompts (ES/EN) for AI coding agents, each with its operating contract."
+2026-11-01T06:37:22.862263Z,dev.vetkit/mcp,vetkit,0.1.0,,,"Audit repos for security, code quality and AI code risks; read findings and open fix PRs."
+2026-11-01T06:38:18.970126Z,io.github.galeaxe5/pasportoo,Pasportoo Companion,0.3.2,,streamable-http,Deterministic exam for the AI agent in your chat; a verified Agent Passport with a 3D Companion.
+2026-11-01T06:40:53.815483Z,art.braindrops/braindrops,BrainDrops,1.0.0,,streamable-http,Search BrainDrops AI art and get any piece's permanent Arweave and IPFS copies.
+2026-11-01T07:01:53.875754Z,io.github.CollinJ0/vendorcheck,,0.1.1,https://github.com/CollinJ0/vendorcheck,,"Check a vendor (name, domain, email) for fraud signals and sanctions before an agent pays it."
+2026-11-01T07:04:19.162143Z,io.github.Poudel0/postgres-mcp-safe,"Postgres (read-only, safe)",0.1.1,https://github.com/Poudel0/postgres-mcp-safe,,Drop-in replacement for @modelcontextprotocol/server-postgres that is actually read-only.
+2026-11-01T07:08:07.455292Z,io.github.sepehr071/zoomit-mcp,Zoomit Products,0.1.0,https://github.com/sepehr071/zoomit-mcp,,"Read-only Zoomit (zoobin) product database: specs, shop prices in Toman, price history, comparisons."
+2026-11-01T07:08:08.315554Z,io.github.sepehr071/gamefa-mcp,Gamefa,0.1.0,https://github.com/sepehr071/gamefa-mcp,,"Read-only Gamefa (gamefa.com) Persian game and film site: news, scored reviews, profiles, releases."
+2026-11-01T07:08:14.520827Z,io.github.sepehr071/mobile-ir-mcp,Mobile.ir Phones,0.1.0,https://github.com/sepehr071/mobile-ir-mcp,,"Read-only Mobile.ir: phone specs, shop prices and history, used phones, numbered SIM cards."
+2026-11-01T07:09:26.174Z,com.brionicsecurity.pay/payments,Brionic Payments,2.1.0,,streamable-http,"Non-custodial crypto payments: charges, invoices and refunds in BTC, XRP, USDC and more."
+2026-11-01T07:09:52.895924Z,io.github.sepehr071/bama-ir-mcp,Bama Cars,0.1.0,https://github.com/sepehr071/bama-ir-mcp,,"Read-only Bama (bama.ir) Iran car marketplace: ad search, ad details, market prices, new-car prices."
+2026-11-01T07:09:54.168634Z,io.github.sepehr071/iran-cloud-status-mcp,Iran Cloud Status,0.1.0,https://github.com/sepehr071/iran-cloud-status-mcp,,"Read-only status, incidents and prices of Iranian clouds: Arvan, Hamravesh, Chabokan, Liara, more."
+2026-11-01T07:09:56.864477Z,io.github.sepehr071/karnameh-mcp,Karnameh Cars,0.1.0,https://github.com/sepehr071/karnameh-mcp,,"Read-only Karnameh (karnameh.com) Iran car data: used ads, new-car prices, specs, comparisons, blog."
+2026-11-01T07:11:23.947151Z,io.github.sepehr071/hamrah-mechanic-mcp,Hamrah Mechanic Cars,0.1.0,https://github.com/sepehr071/hamrah-mechanic-mcp,,"Read-only Hamrah Mechanic (hamrah-mechanic.com) car prices, used cars for sale, inspection fees."
+2026-11-01T07:11:27.701884Z,io.github.sepehr071/sheypoor-mcp,Sheypoor Classifieds,0.1.0,https://github.com/sepehr071/sheypoor-mcp,,"Read-only Sheypoor (sheypoor.com) classifieds: search ads, ad details, price summaries."
+2026-11-01T07:12:39.195977Z,io.github.paulocesaaars/nix,Nix,4.0.0,https://github.com/paulocesaaars/nix,,Servidor MCP stdio para wikis do Obsidian
+2026-11-01T07:13:47.23034Z,io.github.sepehr071/emalls-ir-mcp,Emalls Price Comparison,0.1.1,https://github.com/sepehr071/emalls-ir-mcp,,"Read-only Emalls (emalls.ir) price comparison: products, shop offers, price history, shops."
+2026-11-01T07:14:16.350521Z,io.github.sepehr071/darukade-mcp,Darukade Pharmacy,0.1.0,https://github.com/sepehr071/darukade-mcp,,"Read-only Darukade (darukade.com) pharmacy: products, prices, ingredients, usage, reviews."
