@@ -9,36 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 23:20 UTC
+## Latest list — 2026-11-01 00:20 UTC
 
-New MCP servers published between 2026-10-31 22:21 UTC and 2026-10-31 23:20 UTC.
+New MCP servers published between 2026-10-31 23:20 UTC and 2026-11-01 00:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-10-31T23-20-13-78961Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-01T00-20-51-165796Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-10-31 22:22:40 | [io.github.muchiny/mcp-legifrance](https://github.com/muchiny/mcp-legifrance) | Légifrance (unofficial) | 1.0.0 | Unofficial MCP server for French law via the Légifrance API (PISTE): search, re… |
-| 2026-10-31 22:26:18 | com.swanum/comps | Comps — Vinted sold prices | 1.0.0 | Real sold prices on Vinted in 7 countries: median, range, time to sell, country… |
-| 2026-10-31 22:26:22 | us.unfreeze/atlas | Unfrozen Atlas of the Middle | 1.0.0 | Graded research on middle managers and change: search studies, get fact-checked… |
-| 2026-10-31 22:27:25 | ai.iam360.app/iam360 | iAM360 | 1.0.0 | Access your iAM360 fitness record: wearable data, meals, workouts, challenges a… |
-| 2026-10-31 22:36:08 | com.car-gene/genealogy | CarGene | 0.4.0 | Japanese cars, sourced: genealogy, parts fitment, shaken and service shops, use… |
-| 2026-10-31 22:41:20 | [io.github.nvdigitalsolutions/nvoos-mcp-gateway](https://github.com/nvdigitalsolutions/mcp-ai-wpoos) | NV oOS Gateway | 0.2.0 | Streamable HTTP MCP gateway for NV oOS fleets — one API key, namespaced tools,… |
-| 2026-10-31 22:45:11 | [io.github.diegouqz/namegen](https://github.com/diegouqz/namegen) | namegen | 1.1.0 | Region-typical random names for AI agents. Remote MCP + HTTP API, paid in USDC… |
-| 2026-10-31 22:46:40 | [io.github.aryanduntley/aimfp](https://github.com/aryanduntley/aimfp) | AIMFP | 1.70.0 | Database-driven directives and project tracking for modular functional-procedur… |
-| 2026-10-31 22:49:25 | io.github.toolstile/toolstile | Toolstile | 1.0.1 | Managed MCP gateway with OAuth, per-agent permissions, shared accounts and acti… |
-| 2026-10-31 22:53:37 | [io.github.huntercarver24/pumpfun-trends](https://github.com/huntercarver24/signal-desk) | pump.fun launch feed + trend radar | 1.0.0 | Live pump.fun launches matched to Google Trends and Polymarket topics; pay per… |
-| 2026-10-31 23:01:28 | io.github.soldanoandrea/agent-risk-desk | Agent Risk Desk | 0.2.0 | EVM address enrichment, counterparty risk and tx screening for agents, paid per… |
-| 2026-10-31 23:01:34 | app.cosend/mcp | Cosend | 1.0.0 | Read your WhatsApp inbox, reply in existing chats, and check and deploy automat… |
-| 2026-10-31 23:03:07 | [io.github.AronSoto/verbaly](https://github.com/AronSoto/verbaly) |  | 0.77.0 | i18n for coding agents: extract, check and translate an app's text, with drafts… |
-| 2026-10-31 23:07:06 | dev.workers.deanhiki.uplane/website-uptime | UpLane Website Uptime Checker | 1.0.0 | Check if any website is up (status, latency, redirects, security headers) and s… |
-| 2026-10-31 23:07:35 | [io.github.golegally/accounting-mcp](https://github.com/golegally/accounting-mcp) | GoLegally Accounting | 1.0.12 | Invoices, bills, contacts, products, payments and reports in GoLegally Accounti… |
-| 2026-10-31 23:07:53 | [io.github.golegally/crm-mcp](https://github.com/golegally/crm-mcp) | GoLegally CRM | 1.0.6 | Contacts, companies, deals, tasks, notes and conversations in GoLegally CRM. |
-| 2026-10-31 23:08:11 | [io.github.golegally/compliance-mcp](https://github.com/golegally/compliance-mcp) | GoLegally Compliance | 1.0.7 | Compliance obligations, engagements, notices, registrations and reminders in Go… |
-| 2026-10-31 23:08:31 | [io.github.golegally/forms-mcp](https://github.com/golegally/forms-mcp) | GoLegally Forms | 1.0.6 | Forms, submissions, field values and themes in GoLegally FormEngine. |
-| 2026-10-31 23:13:37 | si.agentmaverick/news | AgentMaverick News | 1.0.1 | Free sourced breaking news for agents: markets, crypto, tech, geopolitics, US p… |
-| 2026-10-31 23:14:08 | [com.digitalgemology/gem-identification](https://github.com/cultrodistro/digitalgemology-mcp) | Digital Gemology: gem identification an… | 1.0.0 | Identify gemstones by refractive index, birefringence, SG, pleochroism and spec… |
-| 2026-10-31 23:14:09 | [com.digitalgemology/gemology-lessons](https://github.com/cultrodistro/digitalgemology-mcp) | Digital Gemology: gemology lessons and… | 1.0.0 | Gemology lessons to search and quote: the 4 Cs, diamond anatomy, grading report… |
-| 2026-10-31 23:16:56 | [io.github.epistemedeus/page-change](https://github.com/epistemedeus/x402-url-extractor) | Page Change | 1.0.0 | Free compare_page_observations for two held JSON pages. No fetch, wallet, or pa… |
+| 2026-10-31 23:23:19 | me.evaly/evalyme | EvalyMe | 1.0.0 | Startup valuation tools: value a business from its metrics or check a for-sale… |
+| 2026-10-31 23:23:30 | io.github.aleksandarperak33-hub/flori | Flori | 1.0.0 | CRM and project records for AI assistants, with access chosen by the user. |
+| 2026-10-31 23:24:11 | com.xevol/xevol | Xevol | 0.15.0 | AI agents for your business: ads, videos, sites, research, leads and more. |
+| 2026-10-31 23:29:18 | com.estudjo/estudjo | estudjo | 1.0.0 | AI product photos, videos and descriptions for e-commerce, from one product ima… |
+| 2026-10-31 23:29:47 | io.github.meowsigma/botsesh | BotSesh | 1.0.0 | Shared rooms for people and their existing AI agents, with briefs and ongoing h… |
+| 2026-10-31 23:33:43 | [io.github.yaotsakpo/inbin](https://github.com/yaotsakpo/inbin-mcp) |  | 0.2.1 | No-signup email for AI agents over MCP: trial inbox, verification codes, parsed… |
+| 2026-10-31 23:33:46 | [com.advertiserleads/mcp](https://github.com/hunterInt/advertiserleads-mcp) | AdvertiserLeads | 1.0.0 | Ecommerce brands that just started, scaled or stopped Meta ads, with store plat… |
+| 2026-10-31 23:34:01 | [io.github.aybeeare/water-conditions](https://github.com/aybeeare/water-temp-fishing-guide) |  | 1.2.0 | Real-time water temperature and tides for 8,000+ locations, by name or lat/long… |
+| 2026-10-31 23:41:31 | com.nodoicons/nodo-icons |  | 0.1.1 | Search 5,000 Nodo icons, get SVG, React or Vue code. Free Linear style, Pro sty… |
+| 2026-10-31 23:42:54 | com.corridome/corridome | Corridome | 1.0.0 | Cited register of US private equity firms, banks, funds and their deals. Member… |
+| 2026-10-31 23:56:47 | [io.shroomlabs/shroom-labs](https://github.com/themsquared/openshrooly) | Shroom Labs | 1.0.0 | Mushroom grow profiles, timelines and troubleshooting guides for home growers a… |
+| 2026-11-01 00:00:30 | com.weatherwithattitude/weather | Weather With Attitude | 1.6.1 | Real weather forecasts with a sarcastic one-line roast, plus a daily word puzzl… |
+| 2026-11-01 00:00:30 | com.weatherwithattitude/words | Words With Attitude | 1.1.2 | A daily word puzzle: guess a cheeky British insult or a grim weather word in si… |
+| 2026-11-01 00:03:55 | io.github.soyeladice-svg/bursia-utils | Burs-IA Utils | 1.4.0 | Free, no-login LatAm/Spanish-native agent tools; validate-only IDs; unsigned co… |
+| 2026-11-01 00:03:56 | [io.github.computenexa-gpuInfrastructure/computenexa-mcp](https://github.com/computenexa-gpuInfrastructure/computenexa-mcp) | ComputeNexa | 0.1.0 | Find, launch and stop private GPUs on ComputeNexa, with a quote before anything… |
+| 2026-11-01 00:06:09 | com.onrender.ghost77-agent/ghost77 | GhOsT77 crypto data jobs | 1.0.0 | Read-only crypto data tools: Hyperliquid, token and contract risk, DeFi. Each c… |
+| 2026-11-01 00:07:40 | [io.github.shukiv/jabali-mcp](https://github.com/shukiv/jabali-mcp) | Jabali Panel | 0.6.1 | Manage domains, DNS, mail, databases and backups on a Jabali Panel hosting serv… |
+| 2026-11-01 00:08:15 | app.url2ad/url2ad | URL2Ad | 1.1.0 | Turn a web page into a 15-second animated video ad: free preview from a URL and… |
+| 2026-11-01 00:12:44 | com.popcvs/popcvs | PopCVs | 1.0.0 | ATS resume checker and AI resume builder: score, tailor to a job, cover letters… |
+| 2026-11-01 00:14:32 | org.chronodrawer/chronodrawer | ChronoDrawer | 1.0.0 | What happened and was released in a given month or day, across countries (1960-… |
+| 2026-11-01 00:18:07 | de.treppenliftvergleichsportal/treppenlift | TreppenliftVergleich | 1.0.0 | German stairlifts: costs, grants per state, stair width check, fault help, repa… |
+| 2026-11-01 00:20:48 | [io.github.rclone-ui/rclone](https://github.com/rclone-ui/rclone-mcp) |  | 2.0.0 | MCP server for the Rclone RC API, with selectable toolsets. |
 
 ## Data source
 

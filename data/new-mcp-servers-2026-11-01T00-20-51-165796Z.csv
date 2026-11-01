@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-10-31T23:23:19.498402Z,me.evaly/evalyme,EvalyMe,1.0.0,,streamable-http,Startup valuation tools: value a business from its metrics or check a for-sale listing's price.
+2026-10-31T23:23:30.69769Z,io.github.aleksandarperak33-hub/flori,Flori,1.0.0,,streamable-http,"CRM and project records for AI assistants, with access chosen by the user."
+2026-10-31T23:24:11.34246Z,com.xevol/xevol,Xevol,0.15.0,,streamable-http,"AI agents for your business: ads, videos, sites, research, leads and more."
+2026-10-31T23:29:18.807415Z,com.estudjo/estudjo,estudjo,1.0.0,,streamable-http,"AI product photos, videos and descriptions for e-commerce, from one product image."
+2026-10-31T23:29:47.863398Z,io.github.meowsigma/botsesh,BotSesh,1.0.0,,streamable-http,"Shared rooms for people and their existing AI agents, with briefs and ongoing handoffs."
+2026-10-31T23:33:43.94957Z,io.github.yaotsakpo/inbin,,0.2.1,https://github.com/yaotsakpo/inbin-mcp,streamable-http,"No-signup email for AI agents over MCP: trial inbox, verification codes, parsed email events."
+2026-10-31T23:33:46.811559Z,com.advertiserleads/mcp,AdvertiserLeads,1.0.0,https://github.com/hunterInt/advertiserleads-mcp,streamable-http,"Ecommerce brands that just started, scaled or stopped Meta ads, with store platform and pixels"
+2026-10-31T23:34:01.035596Z,io.github.aybeeare/water-conditions,,1.2.0,https://github.com/aybeeare/water-temp-fishing-guide,,"Real-time water temperature and tides for 8,000+ locations, by name or lat/long coordinates."
+2026-10-31T23:41:31.965416Z,com.nodoicons/nodo-icons,,0.1.1,,,"Search 5,000 Nodo icons, get SVG, React or Vue code. Free Linear style, Pro styles with a license."
+2026-10-31T23:42:54.285087Z,com.corridome/corridome,Corridome,1.0.0,,streamable-http,"Cited register of US private equity firms, banks, funds and their deals. Membership required."
+2026-10-31T23:56:47.09375Z,io.shroomlabs/shroom-labs,Shroom Labs,1.0.0,https://github.com/themsquared/openshrooly,streamable-http,"Mushroom grow profiles, timelines and troubleshooting guides for home growers and smart chambers."
+2026-11-01T00:00:30.45031Z,com.weatherwithattitude/weather,Weather With Attitude,1.6.1,,streamable-http,"Real weather forecasts with a sarcastic one-line roast, plus a daily word puzzle. Free."
+2026-11-01T00:00:30.63824Z,com.weatherwithattitude/words,Words With Attitude,1.1.2,,streamable-http,A daily word puzzle: guess a cheeky British insult or a grim weather word in six tries. Free.
+2026-11-01T00:03:55.473652Z,io.github.soyeladice-svg/bursia-utils,Burs-IA Utils,1.4.0,,streamable-http,"Free, no-login LatAm/Spanish-native agent tools; validate-only IDs; unsigned consistency receipts."
+2026-11-01T00:03:56.012217Z,io.github.computenexa-gpuInfrastructure/computenexa-mcp,ComputeNexa,0.1.0,https://github.com/computenexa-gpuInfrastructure/computenexa-mcp,,"Find, launch and stop private GPUs on ComputeNexa, with a quote before anything is charged."
+2026-11-01T00:06:09.67287Z,com.onrender.ghost77-agent/ghost77,GhOsT77 crypto data jobs,1.0.0,,streamable-http,"Read-only crypto data tools: Hyperliquid, token and contract risk, DeFi. Each call paid via x402."
+2026-11-01T00:07:40.7745Z,io.github.shukiv/jabali-mcp,Jabali Panel,0.6.1,https://github.com/shukiv/jabali-mcp,,"Manage domains, DNS, mail, databases and backups on a Jabali Panel hosting server."
+2026-11-01T00:08:15.120294Z,app.url2ad/url2ad,URL2Ad,1.1.0,,streamable-http,Turn a web page into a 15-second animated video ad: free preview from a URL and an e-mail.
+2026-11-01T00:12:44.907674Z,com.popcvs/popcvs,PopCVs,1.0.0,,streamable-http,"ATS resume checker and AI resume builder: score, tailor to a job, cover letters, PDF export."
+2026-11-01T00:14:32.019898Z,org.chronodrawer/chronodrawer,ChronoDrawer,1.0.0,,streamable-http,"What happened and was released in a given month or day, across countries (1960-2026), with sources."
+2026-11-01T00:18:07.098753Z,de.treppenliftvergleichsportal/treppenlift,TreppenliftVergleich,1.0.0,,streamable-http,"German stairlifts: costs, grants per state, stair width check, fault help, repair or replace."
+2026-11-01T00:20:48.492936Z,io.github.rclone-ui/rclone,,2.0.0,https://github.com/rclone-ui/rclone-mcp,,"MCP server for the Rclone RC API, with selectable toolsets."
