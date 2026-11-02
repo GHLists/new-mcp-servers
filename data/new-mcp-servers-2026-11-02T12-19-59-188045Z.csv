@@ -1,0 +1,30 @@
+created_at,server,title,version,repository,transports,description
+2026-11-02T11:23:55.986393Z,ai.ui8/forge,Forge by UI8,1.0.0,,streamable-http,"A visual brain for your agents: live, reusable UI fragments and skills to pull into code."
+2026-11-02T11:30:34.976458Z,io.github.APIStock/api-stock,API Stock,1.0.0,,streamable-http,"Generate AI video, images and music. Browse models and prices; OAuth and one prepaid balance."
+2026-11-02T11:30:35.131671Z,io.github.APIStock/apihubs,API Hubs,1.0.0,,streamable-http,"Generate AI video, images and music. Browse models and prices; OAuth and one prepaid balance."
+2026-11-02T11:30:48.845692Z,io.github.Nero-Engine/best-time-to-post,"Best Time to Post: Instagram, TikTok & YouTube",0.1.0,,streamable-http,"Ranks the best weekday and hour to post per account from Instagram, TikTok or YouTube post rows"
+2026-11-02T11:30:54.365152Z,io.github.Nero-Engine/winning-ads-finder,Winning Ads Finder: Facebook Ad Library Scorer,0.1.0,,streamable-http,Scores Meta Ad Library scraper rows by days running and copies to find proven winning ads
+2026-11-02T11:30:55.122943Z,io.github.Nero-Engine/google-review-velocity,Google Review Velocity & Reply Rate Lead Scorer,0.1.0,,streamable-http,"Scores Google Maps businesses on review velocity, owner reply rate and unanswered bad reviews"
+2026-11-02T11:30:55.937081Z,io.github.Nero-Engine/instagram-comments-analyzer,Instagram Comments Analyzer: Buyer Intent,0.1.0,,streamable-http,"Finds buyers in Instagram, TikTok and YouTube comment rows: price, link and size asks, unanswered"
+2026-11-02T11:32:17.404154Z,io.github.devkindhq/machship-mcp,Machship MCP,1.3.0,https://github.com/devkindhq/machship-mcp,,Model Context Protocol server for the Machship freight management platform
+2026-11-02T11:35:17.600202Z,io.github.bytevirts/viewmax,ViewMax MCP,1.0.1,https://github.com/bytevirts/viewmax-mcp,streamable-http,"Official ViewMax Studio MCP: AI video, image, music, speech and sound effects."
+2026-11-02T11:35:29.456936Z,io.github.devkindhq/starshipit-mcp,StarShipIt MCP,1.2.0,https://github.com/devkindhq/starshipit-mcp,,"MCP server for the StarShipIt shipping API: orders, shipments, labels, tracking and rates"
+2026-11-02T11:36:06.526313Z,io.github.CloudCorpRecords/jokebox,,0.1.0,https://github.com/CloudCorpRecords/jokebox,,"Dad jokes on demand: fetch a random joke, search by keyword, or look one up by ID."
+2026-11-02T11:37:11.705424Z,io.github.stewartmckee/canvasbin,Canvasbin,1.0.0,https://github.com/stewartmckee/canvasbin,streamable-http,Publish HTML and Markdown pages at shareable links.
+2026-11-02T11:38:17.126117Z,com.sckian/sckian,Sckian,1.0.0,,streamable-http,"AI job matching in your assistant: ranked offers, tailored resumes, application tracking."
+2026-11-02T11:43:05.429386Z,io.github.CloudCorpRecords/clipquery,,0.1.0,https://github.com/CloudCorpRecords/clipquery,,Search your processed video library in natural language and get matching segments back.
+2026-11-02T11:44:10.047574Z,com.avokata/avokata,Avokata: Lithuanian law for your agent,0.3.0,,streamable-http,"Lithuanian law and court practice for your AI assistant, with pinpoint citations. Email sign-in."
+2026-11-02T11:44:49.717364Z,io.gptbusiness/gpt-business,GPT Business,1.0.0,,streamable-http,"Read your GPT Business workspace, calculate quotes and invoices, and prepare business drafts."
+2026-11-02T11:46:47.770894Z,you.curo/peptide-research,"Curo Peptide Research MCP: PepBank Studies, Peptide Lookup and Lab Reports (COAs)",1.0.1,,streamable-http,Peptide research for your AI: PepBank study findings plus the curo.you peptide catalog and lot COAs.
+2026-11-02T11:50:05.161989Z,ai.formachines/errata,Errata,0.1.0,https://github.com/formachines-ai/errata-mcp,,Sandbox-verified fixes where AI models write outdated code for PyPI and npm libraries
+2026-11-02T11:50:13.163685Z,io.github.CloudCorpRecords/dropbrowse,,0.1.0,https://github.com/CloudCorpRecords/dropbrowse,,"Read-only Dropbox: list, search by name or content, read files, and inspect metadata."
+2026-11-02T11:53:45.626102Z,com.cookieyes/mcp,CookieYes,1.0.0,,streamable-http,"Manage cookie banners, run cookie scans and check GDPR/CCPA compliance from your AI assistant."
+2026-11-02T11:54:58.376764Z,io.spotby/registry,Spotby Business Registry,1.0.0,,streamable-http,"Find local businesses with owner-verified hours, services, prices and contacts, for AI agents."
+2026-11-02T11:57:29.652078Z,io.github.CloudCorpRecords/jsondiff,,0.1.0,https://github.com/CloudCorpRecords/jsondiff,,"Compare two JSON documents deeply, ignoring key and array order, with every difference pathed."
+2026-11-02T12:00:35.704445Z,io.github.seothief/insurance-claim-mcp,Insurance Claim Estimator (KR + US),0.2.0,https://github.com/seothief/insurance-claim-mcp,,"Estimate insurance payouts (Korea riders, US supplemental plans) from bills and diagnosis codes"
+2026-11-02T12:01:36.569127Z,io.github.Verifux/snapshot,,1.0.4,https://github.com/Verifux/verifux-mcp,,"Free UX and AI-agent readiness snapshot for any website. No sign-up, no API key."
+2026-11-02T12:04:19.923213Z,io.github.CloudCorpRecords/envdiff,,0.1.0,https://github.com/CloudCorpRecords/envdiff,,"Diff local vs CI environments: Node, OS, lockfile, and env vars — keys named, values never echoed."
+2026-11-02T12:06:23.032481Z,com.elentoo/elentoo,Elentoo,1.0.0,https://github.com/elentoo/elentoo-mcp,streamable-http,"Antibody pricing across vendors — normalized $/µg, clone identity, flow-panel pricing. No guesses."
+2026-11-02T12:13:11.602767Z,io.github.CloudCorpRecords/rerunplan,,0.1.0,https://github.com/CloudCorpRecords/rerunplan,,"Rerun or fix? Classify a failed check from past-run evidence: infra flake, flaky, or real."
+2026-11-02T12:15:27.377918Z,io.github.sudzikcoin/versum-agent-assistant,Versum Agent Assistant,1.0.0,https://github.com/sudzikcoin/versum-agent-assistant,streamable-http,"Local businesses for AI agents: what they sell, prices, delivery quotes, order and booking links."
+2026-11-02T12:17:44.671908Z,com.blockscholes/mcp-server,Block Scholes,1.0.0,,streamable-http,"Real-time & historical data: volatility surfaces, options, futures, funding rates, spot and more."
