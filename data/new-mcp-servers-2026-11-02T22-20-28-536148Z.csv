@@ -1,0 +1,34 @@
+created_at,server,title,version,repository,transports,description
+2026-11-02T21:20:05.39966Z,io.github.lldiegon/wisepim-commerce-mcp,WISEPIM Commerce Reference,1.0.0,https://github.com/lldiegon/wisepim-commerce-mcp,,"Offline HS heading lookup, marketplace listing requirements and EU green-claims screening."
+2026-11-02T21:22:01.56218Z,com.clawhard/mend,Mend,1.0.0,,streamable-http,"Repair broken JSON without changing values, find the exact error, outline or query big payloads."
+2026-11-02T21:22:50.269851Z,io.github.CloudCorpRecords/packcompare,,0.1.0,https://github.com/CloudCorpRecords/packcompare,,"Diff two versions of a package: files, dependencies, size, and exports."
+2026-11-02T21:23:14.846739Z,com.kyde/score,kyde score,0.0.1,,streamable-http,"Behavioral drift scores for AI agents from OpenTelemetry: create a key, send OTLP, read scores."
+2026-11-02T21:23:31.404563Z,finance.norman/mcp-server,"Norman Finance — AI Bookkeeping, Accounting & Taxes",0.1.8,https://github.com/norman-finance/norman-mcp-server,streamable-http,"Bookkeeping, invoices and tax workflows for European businesses, including Polish KPiR and JPK."
+2026-11-02T21:25:38.42136Z,io.github.sorokinvj/checkmyapp,CheckMyApp,1.0.0,,streamable-http,"Check deployed web apps, monitor user journeys, and return evidence-backed findings to your agent."
+2026-11-02T21:26:30.509451Z,io.linkjolt/linkjolt,LinkJolt,1.0.0,,streamable-http,For businesses that pay affiliates: set up and run your affiliate program from your AI assistant.
+2026-11-02T21:27:08.673389Z,dev.workers.forum-for-agents.forum-for-agents/forum,Forum for Agents,1.0.0,,streamable-http,"Public message board where AI agents talk to each other: read threads, post, reply. No signup."
+2026-11-02T21:28:03.037812Z,org.georgiacivicdata/georgia-civic-data,Georgia Civic Data,0.4.0,,streamable-http,"Query, filter, aggregate, and link Georgia education, Census, immigration, and health datasets."
+2026-11-02T21:30:28.145217Z,io.github.CloudCorpRecords/conflictfix,,0.1.0,https://github.com/CloudCorpRecords/conflictfix,,Classify merge-conflict hunks as safe mechanical resolutions or risky; risky hunks stay manual.
+2026-11-02T21:32:28.658297Z,net.getforgeops/forgeops,ForgeOps,1.0.0,,streamable-http,"Production errors and incidents for your agent: stack traces, breadcrumbs, likely causes, triage."
+2026-11-02T21:38:11.528618Z,io.github.CloudCorpRecords/reviewthread,,0.1.0,https://github.com/CloudCorpRecords/reviewthread,,"Classify PR review comments as actionable or noise, with the rule that fired as evidence."
+2026-11-02T21:39:02.465544Z,com.gadgethumans/x402-discovery,x402 Endpoint Search,1.0.1,https://github.com/gadgethumans-dev/api-hub,,"Search 88k x402 endpoints: price/call, 30-day volume, payee, 402 handshake. Free."
+2026-11-02T21:40:16.912741Z,io.github.mindstone/mcp-server-runway,Runway ML,0.4.2,https://github.com/mindstone/mcp-servers,,"Runway ML MCP server: AI video, image, audio, voice generation, and task management"
+2026-11-02T21:41:21.024137Z,io.github.spk-c/qwen-dap-mcp,Qwen DAP MCP — Native Debugger for AI Coding Agents,0.19.2,https://github.com/spk-c/Qwen-dap-mcp,,"Native crash, hang, minidump and core dump debugging via DAP, GDB, LLDB and MCP."
+2026-11-02T21:42:34.499054Z,com.analyticsproof/analyticsproof,AnalyticsProof,1.0.0,,streamable-http,Check if your website or Android app tracks visitors before cookie consent; catch broken analytics.
+2026-11-02T21:44:24.63358Z,com.arc-relay/mcp,ARC-Relay Email,1.3.0,,streamable-http,"Checks any domain's DMARC, SPF, MX and DKIM setup, scores it 0-100, and ranks the fixes."
+2026-11-02T21:46:08.212267Z,io.github.CloudCorpRecords/handoffgen,,0.1.0,https://github.com/CloudCorpRecords/handoffgen,,"Build a cold-start handoff brief for the next agent from supplied commits, PRs, and TODOs."
+2026-11-02T21:51:57.64499Z,io.github.desty2k/akamai,Akamai CDN,0.2.0,https://github.com/desty2k/readonly-mcp-akamai,,"Read-only MCP server for Akamai CDN — properties, EdgeWorkers, DNS, network lists"
+2026-11-02T21:53:12.358452Z,io.github.CloudCorpRecords/treeman,,0.1.0,https://github.com/CloudCorpRecords/treeman,,Map parallel-agent git worktrees to owners and plan safe cleanup from supplied facts.
+2026-11-02T22:00:34.879018Z,io.github.CloudCorpRecords/contribpath,,0.1.0,https://github.com/CloudCorpRecords/contribpath,,Check a CONTRIBUTING document against the repo's actual contribution gates; report gaps.
+2026-11-02T22:00:38.9498Z,io.github.desty2k/teamcity,TeamCity CI/CD,1.0.0,https://github.com/desty2k/readonly-mcp-teamcity,,"Read-only MCP server for JetBrains TeamCity — builds, configs, logs, tests, agents"
+2026-11-02T22:03:22.857836Z,com.loomloyalty/loom-loyalty,Loom Loyalty,1.0.0,,streamable-http,"Manage loyalty programs, tiers, offers, customers and event rules in Loom Loyalty."
+2026-11-02T22:06:51.156875Z,com.terranimus/memo,Terranimus Memo,0.1.0,,streamable-http,"Your company's shared memory for AI agents: search, remember and cite, per workspace."
+2026-11-02T22:11:42.951071Z,com.blurfaceinvideo/faceblur,FaceBlur Guidance,1.0.0,,streamable-http,Read-only guidance on blurring faces and removing metadata with FaceBlur's free browser tools.
+2026-11-02T22:11:43.8675Z,com.removeexifonline/remove-exif,Remove EXIF Online Guidance,1.0.0,,streamable-http,Read-only guidance on removing photo and video metadata with Remove EXIF Online's browser tools.
+2026-11-02T22:11:45.735331Z,org.videodepartment/agents,Video Dept. AI,1.0.0,,streamable-http,"Plan a video and script with VIDEO DEPT. in Fort Lauderdale, send a brief, book a call with Nikita."
+2026-11-02T22:11:50.379082Z,io.github.SudiptoHaldar/mcp-server-edgar,SEC EDGAR Filings,0.1.0,https://github.com/SudiptoHaldar/mcp_server_edgar,,"Latest SEC filing and calendar-year filing history for a stock ticker, with official EDGAR links."
+2026-11-02T22:12:20.852367Z,com.catchofalifetime/catch-of-a-lifetime,Catch of a Lifetime,0.2.0,,streamable-http,"Plan outdoor outings with live conditions, and draft and promote outings as a host."
+2026-11-02T22:14:19.780039Z,io.github.JoaoCodificacoes/deckwright,Deckwright,0.1.1,https://github.com/JoaoCodificacoes/deckwright,,"Inspect PowerPoint slide state, timelines, Morph links, and package findings."
+2026-11-02T22:16:28.474516Z,app.warplink/warplink,WarpLink,1.0.2,,streamable-http,"Link infrastructure for developers and AI agents: deep links, attribution, real-time analytics."
+2026-11-02T22:18:08.083603Z,io.github.CloudCorpRecords/familyorg,,0.1.0,https://github.com/CloudCorpRecords/familyorg,,"Cozi family members, lists and shared calendar, as MCP tools."
+2026-11-02T22:18:38.200669Z,io.github.UtopiaDreamsVFX/utopia-dreams,Utopia Dreams,1.0.0,,streamable-http,"AI film studio: your stories, shots and edits, plus Unreal and Unity orders, from your account."
