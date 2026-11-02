@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-11-02T09:26:26.832514Z,com.raploom/raploom,Raploom,1.0.0,,streamable-http,Write 4-line rap lyrics and order 12-second AI rap videos of original characters.
+2026-11-02T09:26:38.892357Z,io.github.boy-373/mycel-mcp-example,Mycel Agent Hire MCP,1.0.0,https://github.com/boy-373/mycel-mcp-example,streamable-http,"Discover and hire AI agents on the Mycel network via MCP. Free discovery, 1 credit per hire."
+2026-11-02T09:27:46.911376Z,io.github.schnueck/bring-photo-mcp,,1.0.3,https://github.com/schnueck/bring-photo-mcp,,"Add products to Bring! from a photo — MCP for AI recognition, catalog matching, and verified writes."
+2026-11-02T09:28:17.528447Z,io.github.sightradar-hq/sightradar-mcp,SightRadar,0.1.0,https://github.com/sightradar-hq/sightradar-mcp,streamable-http,"Face recognition: index photos, find a person's photos from a selfie, batches, webhooks, billing."
+2026-11-02T09:28:20.944981Z,ch.getsharepa/sharepa,sharepa,1.1.0,https://github.com/kirnski/sharepa-mcp,streamable-http,"Put chat-built pages online with your own address, forms, calendar bookings, password and stats."
+2026-11-02T09:30:25.135504Z,io.github.CloudCorpRecords/pushnote,,0.1.0,https://github.com/CloudCorpRecords/pushnote,,"Gotify push notifications: send, read messages, manage apps and clients, one router tool."
+2026-11-02T09:34:22.486409Z,io.github.sinemortal/vivado-red-mcp,Vivado Red MCP,0.5.0,https://github.com/sinemortal/vivado-red-mcp,,"Drive AMD Vivado from AI assistants, with Red Pitaya STEMlab 125-14 build and deploy flows."
+2026-11-02T09:37:48.517567Z,io.github.CloudCorpRecords/taskpilot,,0.1.0,https://github.com/CloudCorpRecords/taskpilot,,"Task and project management for AI coding agents: tasks, prompts, projects, next task."
+2026-11-02T09:39:28.111291Z,io.github.Lokendrakushwah12/engg-space,Engg.space jobs,1.0.0,https://github.com/lokendrakushwah12/engg.space,streamable-http,"Search open engineering jobs at funded startups and AI labs, from company career pages. No key."
+2026-11-02T09:44:38.546993Z,coach.7running/plan,7Running,1.0.0,,streamable-http,Build or change your 7Running running plan by talking to your AI assistant. Road and trail.
+2026-11-02T09:45:30.938693Z,app.neverblank/neverblank,NeverBlank,1.0.0,,streamable-http,"Rehearse hard conversations: lessons, XP drills and practice opponents built from your situation."
+2026-11-02T09:45:36.566998Z,io.github.CloudCorpRecords/legislens,,0.1.0,https://github.com/CloudCorpRecords/legislens,,"US state bills and hearing transcripts: search bills, testimony, speakers, hearings."
+2026-11-02T09:45:38.040224Z,com.readingrate/readingrate,ReadingRate,1.0.1,https://github.com/simonsbookclub/readingrate-plugin,streamable-http,"Book difficulty, reading times and ranked lists, plus your reading log, quotes and clubs."
+2026-11-02T09:47:16.22982Z,io.github.nifrajs/nifra-docs,Nifra docs,5.11.0,https://github.com/nifrajs/nifra,streamable-http,"Nifra docs, runnable examples, and API types as an MCP server for any AI assistant."
+2026-11-02T09:51:47.27491Z,io.github.zenml-io/mcp-zenml,,2.1.0,https://github.com/zenml-io/mcp-zenml,,"MCP server for discovering, reading, and changing ZenML resources with compact generic tools"
+2026-11-02T09:52:58.713846Z,io.github.CloudCorpRecords/dnsprobe,,0.1.0,https://github.com/CloudCorpRecords/dnsprobe,,"DNS and email-security diagnostics via the keyless intodns.ai API: scans, SPF, DMARC, headers."
+2026-11-02T10:00:11.576003Z,io.github.allooloo/gettargetmarket,gettargetmarket: the Target Market door,0.1.0,https://github.com/allooloo/cm-kg,streamable-http,"Target market statements by ISIN: filed by the manufacturer, signed, receipted (AIO-10060 v1.2)."
+2026-11-02T10:00:26.873574Z,com.keepmacawake/mcp,Keep Mac Awake,1.0.0,https://github.com/bartdudzic/keepmacawake,,Keep a MacBook awake with the lid closed while an agent's long task runs (Keep Mac Awake app).
+2026-11-02T10:00:29.498919Z,io.github.CloudCorpRecords/specforge,,0.1.0,https://github.com/CloudCorpRecords/specforge,,"Spec-driven development locally: specs, constitutions, plans, tasks, git and quality checks."
+2026-11-02T10:08:00.816537Z,io.github.CloudCorpRecords/policyrecall,,0.1.0,https://github.com/CloudCorpRecords/policyrecall,,Policy-verified recall and calibration for tool calls via signed operational memory.
+2026-11-02T10:08:23.546433Z,com.leadmarmot/leads,,1.0.0,,streamable-http,"Companies that just raised or launched, what they need most, the opener and contacts, for agencies."
+2026-11-02T10:11:36.438068Z,ai.pensero/pensero,Pensero,1.0.0,,streamable-http,"Engineering metrics from Pensero: delivery, quality, AI usage and cost, Signals, benchmarks."
+2026-11-02T10:11:36.617845Z,ai.pensero/pensero-eu,Pensero (EU),1.0.0,,streamable-http,"Engineering metrics from Pensero: delivery, quality, AI usage and cost, Signals, benchmarks."
+2026-11-02T10:13:42.433454Z,com.sienasociety/siena,Siena Society,1.0.0,,streamable-http,"Find Siena friendship dinners in London: upcoming Thursdays, how it works, and the booking link."
+2026-11-02T10:16:07.438822Z,io.github.CloudCorpRecords/agentcomms,,0.1.0,https://github.com/CloudCorpRecords/agentcomms,,"Agent email, agent-to-agent messaging, and cloud file storage for AI agents."
+2026-11-02T10:17:45.113392Z,com.yutai/mcp,Yutai,1.0.0,,streamable-http,"Holder benefits for tokenized stocks: registry, chains, tokenizers and benefit availability."
