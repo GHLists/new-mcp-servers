@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-11-02T00:22:04.679081Z,io.github.CloudCorpRecords/repocollab,,0.1.0,https://github.com/CloudCorpRecords/repocollab,,"GitLab projects, branches, files, issues and merge requests via the GitLab REST API."
+2026-11-02T00:22:45.882752Z,ai.counterparts/phone,Counterparts AI Phone,1.0.0,,streamable-http,"A phone number for your AI: people and their AIs leave messages, your AI reads them to you."
+2026-11-02T00:26:55.057908Z,com.genoplot/mcp,Genoplot,1.4.2,,streamable-http,"Ancestry analysis on G25 data: population lookups, nMonte fits, PCAs, calculators and qpAdm models."
+2026-11-02T00:29:06.303959Z,io.github.CloudCorpRecords/scenemodel,,0.1.0,https://github.com/CloudCorpRecords/scenemodel,,"Drive Blender scenes: scene and object info, code execution, assets and 3D generation."
+2026-11-02T00:30:12.353201Z,io.github.SimpleBusinessSuite/email-verify,Email Verify,1.2.0,https://github.com/SimpleBusinessSuite/email-verify,streamable-http,Verify email addresses in chat: real-time deliverability checks with a clear verdict.
+2026-11-02T00:32:21.160079Z,org.umarelli/umarelli,Umarelli,1.0.0,,streamable-http,"Building records for New York City and Jersey City: permits, taxes, tax breaks and zoning."
+2026-11-02T00:32:41.431988Z,com.steelweight-calculator/steel-sections,Steel Section Weights,0.2.1,,,"Steel section weights and properties (IS 808, EN), pipe, rebar, gauges and shape weights."
+2026-11-02T00:36:44.218434Z,io.github.CloudCorpRecords/mailport,,0.1.0,https://github.com/CloudCorpRecords/mailport,,"Gmail messages, threads, labels, drafts and sending, as MCP tools via the Gmail API."
+2026-11-02T00:41:03.462566Z,com.bondterminal/bondterminal,BondTerminal,1.0.0,,streamable-http,"Prices, yields, spreads and history for 4,400+ sovereign and corporate bonds."
+2026-11-02T00:43:55.162807Z,io.github.CloudCorpRecords/sheetport,,0.1.0,https://github.com/CloudCorpRecords/sheetport,,"Google Sheets spreadsheets and cell values via the Sheets API, as MCP tools."
+2026-11-02T00:46:29.750735Z,com.countypropertytaxes/county-property-tax,U.S. County Property Tax,0.2.0,,,"Property tax rates, median bills and estimates for all 3,135 U.S. counties; TX, NC, FL local rates."
+2026-11-02T00:49:08.952166Z,io.github.pulsereal/outreachbox,OutreachBox,1.1.0,,streamable-http,"Cold email, prospect research, inbox triage, and content marketing in OutreachBox."
+2026-11-02T00:49:25.173855Z,com.shareglint/mcp,Shareglint,1.0.0,,streamable-http,"Render Open Graph and social images from HTML templates, build og:image URLs, AI templates."
+2026-11-02T00:51:43.138814Z,io.github.CloudCorpRecords/slideport,,0.1.0,https://github.com/CloudCorpRecords/slideport,,"Google Slides presentations and slides via the Slides API, as MCP tools."
+2026-11-02T00:57:24.696894Z,io.github.alviso/saybooks,Saybooks,0.4.0,https://github.com/alviso/saybooks,streamable-http,"Books your AI keeps from your own bank statements: cards, loans, bills, receipts and the tax year."
+2026-11-02T00:57:54.180477Z,io.github.johnisanerd/duckduckgo,,1.0.0,https://github.com/johnisanerd/Apify-DuckDuckGo-Search-Scraper,streamable-http,"DuckDuckGo search results and rank checks via the Apify DuckDuckGo Scraper, hosted MCP."
+2026-11-02T00:58:21.485297Z,app.openpaddock/open-paddock,Open Paddock,1.0.0,,streamable-http,"Find motorcycle track days in the US, Canada and Mexico by place, date, circuit or organiser."
+2026-11-02T00:58:42.270492Z,io.github.autonomodotfun/autonomo,Autonomo,0.1.2,,,Let AI agents find x402 APIs and pay per call in USDG or $AUTONOMO on Robinhood Chain.
+2026-11-02T00:59:15.066264Z,io.github.CloudCorpRecords/taskboard-port,,0.1.0,https://github.com/CloudCorpRecords/taskboard-port,,"Asana workspaces, projects and tasks via the REST API, as MCP tools."
+2026-11-02T01:03:36.478497Z,io.github.akhilrajesh213/youtube-channel-scraper,YouTube Channel Scraper & Tracker,0.1.5,,streamable-http,"YouTube channels for AI agents, no API key: exact views, subscribers, videos, Shorts, comparisons."
+2026-11-02T01:06:04.03128Z,io.github.dhyabi2/nano-mcp,NANO MCP,1.5.1,https://github.com/dhyabi2/NANO_MCP_SERVER,streamable-http,"Nano cryptocurrency operations wallet, balance, transactions via MCP"
+2026-11-02T01:07:19.923257Z,io.github.CloudCorpRecords/pageworkspace,,0.1.0,https://github.com/CloudCorpRecords/pageworkspace,,"Notion pages, databases and blocks via the REST API, as MCP tools."
+2026-11-02T01:09:06.473479Z,io.github.rove0752-byte/rove,Rove,0.1.0,,,Read public web pages and run goal-based browsing tasks with Rove's sandboxed browser agent.
+2026-11-02T01:09:24.589678Z,ai.zens/call-grokbot,Call Grok Bot,0.1.2,https://github.com/ZensHQ/call-grokbot,,Consult existing Grok Bots from Codex and Claude Code using official Cursor browser login.
+2026-11-02T01:12:56.277454Z,io.github.matt-moon/sonatina,Sonatina Piano Camps,1.0.0,,streamable-http,"Piano camp programs, dates and tuition, and prefilled enrollment forms for Sonatina camps."
+2026-11-02T01:14:35.04071Z,io.github.CloudCorpRecords/stackconstruct,,0.1.0,https://github.com/CloudCorpRecords/stackconstruct,,"AWS CDK guidance, docs, constructs and nag checks as MCP tools."
+2026-11-02T01:15:19.337742Z,io.github.Taksuma-0/mi-sii-mcp,mi-sii-mcp,0.1.0,https://github.com/Taksuma-0/mi-sii-mcp,,"Servidor MCP para el SII de Chile: IVA, F29, F22 y boletas de honorarios. Solo lectura y local."
+2026-11-02T01:16:03.216888Z,ai.mallary/mallary,Mallary MCP,1.2.0,,streamable-http,"Publish and schedule social posts, reply to comments, and read analytics across connected platforms."
