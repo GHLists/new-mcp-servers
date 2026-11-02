@@ -1,0 +1,58 @@
+created_at,server,title,version,repository,transports,description
+2026-11-02T08:20:35.596081Z,io.github.CloudCorpRecords/hostpanel,,0.1.0,https://github.com/CloudCorpRecords/hostpanel,,"Host, Docker, Compose, SSH, logs and ZFS operations via two action-router tools."
+2026-11-02T08:22:46.851865Z,com.democruit/democruit,Democruit,1.0.0,,streamable-http,"Your career companion for ATS checks, resumes, cover letters, job tracking, websites, and more."
+2026-11-02T08:23:20.025635Z,io.github.Crypto69/stltosolid,stlToSolid,0.6.0,https://github.com/Crypto69/stlToSolid,,Turn STL and OBJ meshes and dimensioned drawings into real CAD solids and Fusion 360 scripts.
+2026-11-02T08:26:32.769464Z,io.github.romaklym/assertify,Assertify,0.1.0,https://github.com/romaklym/assertify-mcp,,Let AI agents use any website you're logged in to. Sessions stay encrypted on your machine.
+2026-11-02T08:27:40.4277Z,io.github.CloudCorpRecords/docmark,,0.1.0,https://github.com/CloudCorpRecords/docmark,,Convert documents and URLs to Markdown via the hosted file2markdown service.
+2026-11-02T08:29:29.119324Z,io.github.StealthGPT/stealthgpt,StealthGPT,1.0.0,,streamable-http,"Humanize text, generate content drafts, and retrieve run results through StealthGPT."
+2026-11-02T08:30:09.787549Z,io.github.RepressedAlliance/memreduct-mcp,Mem Reduct,0.1.0,https://github.com/RepressedAlliance/memreduct-mcp,,"Free RAM on Windows with the user's own Mem Reduct via its clean hotkey, without admin prompts."
+2026-11-02T08:33:00.169905Z,review.migrationagent/find-a-migration-agent,migrationagent.review,0.1.0,,streamable-http,"Find registered Australian migration agencies by location, read profiles, look up agents by MARN."
+2026-11-02T08:35:40.551856Z,io.github.CloudCorpRecords/routerbase,,0.1.0,https://github.com/CloudCorpRecords/routerbase,,"Router defaults, PSTI/CRA compliance checks, and MAC lookup via the hosted ssid.ai MCP service."
+2026-11-02T08:39:24.983867Z,com.perisclaw/whatsapp,Perisclaw for WhatsApp,0.3.0,https://github.com/periskope-org/perisclaw-plugin,streamable-http,"Use your own WhatsApp from Claude, ChatGPT and other AI: catch up, search chats, send replies."
+2026-11-02T08:42:56.439685Z,io.github.CloudCorpRecords/burnmeter,,0.1.0,https://github.com/CloudCorpRecords/burnmeter,,Local Claude Code token analytics: efficiency shares and per-model spend breakdown.
+2026-11-02T08:43:49.804426Z,io.github.anunay999/trove,Trove,0.1.0,https://github.com/anunay999/trove,streamable-http,"Shared memory for your AI agents. Every fact shows its source, and stale facts get replaced."
+2026-11-02T08:44:27.107328Z,com.discordtimestampgen/discord-timestamp,Discord Timestamp Generator,1.0.0,,streamable-http,Make Discord <t:unix:F> timestamp codes from any date and timezone; decode Discord snowflake IDs.
+2026-11-02T08:44:29.048899Z,com.emojidig/emoji-search,EmojiDig Emoji Search,1.0.0,,streamable-http,"Search every Unicode emoji by meaning or slang and get the exact character, name and codepoints."
+2026-11-02T08:45:03.997234Z,com.fontglitch/zalgo-text,FontGlitch Zalgo Text,1.0.0,,streamable-http,"Zalgo / glitch text generator plus 17 Unicode fancy font styles (bold, cursive, gothic, bubble)."
+2026-11-02T08:46:37.436856Z,com.metadataremoverai/metadata-inspector,Image Metadata Inspector,1.0.0,,streamable-http,"Read EXIF, GPS, XMP, C2PA and AI-generator metadata from a public image or video URL. Read-only."
+2026-11-02T08:48:39.611304Z,de.mygn/events,"mygn & rundown.city – Events Hamburg, München, Oldenburg, San Francisco",1.0.0,,streamable-http,"What's on today in the city: ad-free event listings, read-only, no token needed."
+2026-11-02T08:50:20.824679Z,io.github.CloudCorpRecords/prepboard,,0.1.0,https://github.com/CloudCorpRecords/prepboard,,"Calaf seeds core subset (4 of 38): format, validate, import, list workspaces."
+2026-11-02T08:54:49.111337Z,io.github.seekdaseek/agentfeed-mezo,AgentFeed on Mezo,0.2.0,https://github.com/seekdaseek/agentfeed-mezo,,"Crypto data, MUSD peg and Mezo trove health, paid per call in MUSD on Base or Mezo. No gas."
+2026-11-02T08:57:56.99048Z,io.github.CloudCorpRecords/partnerloop,,0.1.0,https://github.com/CloudCorpRecords/partnerloop,,"CreationLoop design partners: company overview, partner offer, FAQ, and apply."
+2026-11-02T09:00:50.40274Z,com.rezolvelabs/labs,Rezolve Labs,1.1.0,,streamable-http,"Commerce AI APIs behind one key: voice, agents, images, AEO, TraceWare, watermarking."
+2026-11-02T09:02:09.623414Z,com.hypeibiza/offers,,1.0.0,,streamable-http,"Sneaker prices and stock per size across European shops: search, offers, deals, size conversion."
+2026-11-02T09:02:14.039357Z,co.civai.nova/mcp-android_developer,Android Developer MCP by Nova (CIVAI),1.0.0,,streamable-http,"Ship a new Android app from chat. AI runs Google Play Console listings, screenshots, releases, uplo…"
+2026-11-02T09:02:17.048755Z,co.civai.nova/mcp-apple_ads,Apple Search Ads MCP by Nova (CIVAI),1.0.0,,streamable-http,"Manage Apple Search Ads from chat: sign in with Apple ID, check notifications, and pull campaign pe…"
+2026-11-02T09:02:20.088055Z,co.civai.nova/mcp-apple_developer,Apple Developer MCP by Nova (CIVAI),1.0.0,,streamable-http,"Ship a new iOS app from chat. AI runs App Store Connect, builds, release, and submission through Ap…"
+2026-11-02T09:02:23.050858Z,co.civai.nova/mcp-audience-resolver,Audience Resolver MCP by Nova (CIVAI),1.0.0,,streamable-http,"Manage Audience Resolver content calendars, rows, and social scheduling on your AR project."
+2026-11-02T09:02:26.171769Z,co.civai.nova/mcp-bgpt-cacnigeria,CAC Search MCP by Nova (CIVAI),1.0.0,,streamable-http,Look up Nigerian companies on the Corporate Affairs Commission register.
+2026-11-02T09:02:29.167999Z,co.civai.nova/mcp-bgpt-cardpeer,Cardpeer MCP by Nova (CIVAI),1.0.0,,streamable-http,"Find trading cards, compare listings, and check market prices."
+2026-11-02T09:02:32.202564Z,co.civai.nova/mcp-bgpt-chowdeck,ChowDeck MCP by Nova (CIVAI),1.0.0,,streamable-http,"Order food on ChowDeck: browse restaurants, set your delivery address, build a cart, and check out…"
+2026-11-02T09:02:35.248895Z,co.civai.nova/mcp-bgpt-clannit,Clannit MCP by Nova (CIVAI),1.0.0,,streamable-http,Create estate guest visit invites and read your Clannit notifications (including past invite codes…
+2026-11-02T09:02:38.250954Z,co.civai.nova/mcp-bgpt-giglogistics,Gig Logistics MCP by Nova (CIVAI),1.0.0,,streamable-http,Track your Gig Logistics parcels and shipments.
+2026-11-02T09:02:41.259081Z,co.civai.nova/mcp-bgpt-instagram-android,Instagram Mobile MCP by Nova (CIVAI),1.0.0,,streamable-http,"Instagram Direct, profiles, search, posts, comments, and likes via mobile API replay."
+2026-11-02T09:02:44.409604Z,co.civai.nova/mcp-bgpt-jiji-recon,Jiji Nigeria MCP by Nova (CIVAI),1.0.0,,streamable-http,"Search and buy on Jiji Nigeria, browse listings, message sellers, and manage your ads."
+2026-11-02T09:02:47.465706Z,co.civai.nova/mcp-bgpt-livescore,LiveScore MCP by Nova (CIVAI),1.0.0,,streamable-http,"Live football scores, fixtures, teams, and players."
+2026-11-02T09:02:50.901928Z,co.civai.nova/mcp-bgpt-pdf-generator,PDF Generator MCP by Nova (CIVAI),1.0.0,,streamable-http,"Create PDF documents from your request. Preview the content first, then download when ready."
+2026-11-02T09:02:53.913865Z,co.civai.nova/mcp-bgpt-polymarket,Polymarket MCP by Nova (CIVAI),1.0.0,,streamable-http,"Browse prediction markets, check odds, and follow big trades."
+2026-11-02T09:02:56.998874Z,co.civai.nova/mcp-bgpt-tweet-downloader,Tweet Downloader MCP by Nova (CIVAI),1.0.0,,streamable-http,Get the text and download links from a public X post.
+2026-11-02T09:03:00.099329Z,co.civai.nova/mcp-bgpt-yarngpt,YarnGPT MCP by Nova (CIVAI),1.0.0,,streamable-http,Turn text into speech with Nigerian and African-accented voices.
+2026-11-02T09:03:03.322098Z,co.civai.nova/mcp-brevo,Brevo by Nova (CIVAI),1.0.0,,streamable-http,"Campaigns, contacts, and CRM via Brevo’s official MCP."
+2026-11-02T09:03:06.329287Z,co.civai.nova/mcp-browsergpt-browser-control,Browser Control MCP by Nova (CIVAI),1.0.0,,streamable-http,"Control your Chrome from chat: open websites, read what's on the page, click buttons, and fill in f…"
+2026-11-02T09:03:10.035295Z,co.civai.nova/mcp-deep-research,Deep Research by Nova (CIVAI),1.0.0,,streamable-http,Iterative research with configurable depth and breadth for complex topics.
+2026-11-02T09:03:13.36671Z,co.civai.nova/mcp-firecrawl,Firecrawl by Nova (CIVAI),1.0.0,,streamable-http,"Scrape, crawl, and search the web via Firecrawl’s official hosted MCP."
+2026-11-02T09:03:16.426784Z,co.civai.nova/mcp-hacker_news,Hacker News MCP by Nova (CIVAI),1.0.0,,streamable-http,"Browse Hacker News from chat: top stories, search, read comment threads, and post or upvote when yo…"
+2026-11-02T09:03:19.443632Z,co.civai.nova/mcp-juicyway,Juicyway by Nova (CIVAI),1.0.0,,streamable-http,"Manage your Juicyway business account from chat: check balances and movements, send bank payouts, v…"
+2026-11-02T09:03:22.45539Z,co.civai.nova/mcp-lagos_life,Lagos Life by Nova (CIVAI),1.0.0,,streamable-http,"Play Lagos Life from chat: sign in, see who is on the map, read and send Phone DMs, check daily rew…"
+2026-11-02T09:03:25.482282Z,co.civai.nova/mcp-linear,Linear by Nova (CIVAI),1.0.0,,streamable-http,"Issues, projects, cycles, and roadmaps via the official Linear hosted MCP server."
+2026-11-02T09:03:28.540868Z,co.civai.nova/mcp-llm-scraper,LLM Scraper by Nova (CIVAI),1.0.0,,streamable-http,Scrape websites by following links and extract structured data from natural language instructions.
+2026-11-02T09:03:31.582617Z,co.civai.nova/mcp-saas_studio,SaaS Studio by Nova (CIVAI),1.0.0,,streamable-http,Turn your website into plugins AI assistants can use. SaaS Studio records your product in a real br…
+2026-11-02T09:03:34.625395Z,co.civai.nova/mcp-slack_android,Slack MCP by Nova (CIVAI),1.0.0,,streamable-http,"Use Slack from chat: see channels, catch up on messages, post updates, and reply in threads in your…"
+2026-11-02T09:05:38.752924Z,io.github.CloudCorpRecords/tvpilot,,0.1.0,https://github.com/CloudCorpRecords/tvpilot,,"Android TV remote: list devices, send keys, launch apps, play titles, and observe the screen."
+2026-11-02T09:07:25.131647Z,io.github.tok-lang-bpm/tok,tok,1.0.3,https://github.com/tok-lang-bpm/tok,,"Model BPMN processes and DMN decisions as text: check, export, import, simulate, evaluate."
+2026-11-02T09:07:55.699605Z,io.github.houseofdotone/carpetstory,Carpetstory,1.0.0,https://github.com/houseofdotone/carpetstory-mcp,,"Search hand-knotted rugs made to order in Jaipur, India, from the live Carpetstory catalogue."
+2026-11-02T09:13:12.875978Z,io.github.CloudCorpRecords/topiclint,,0.1.0,https://github.com/CloudCorpRecords/topiclint,,Sparkplug B topic linting and UNS naming checks for MQTT topic paths.
+2026-11-02T09:19:53.575811Z,co.civai.nova/content-pipeline-agent,Content Pipeline Agent by Nova (CIVAI),1.0.0,,streamable-http,"I run the Content Pipeline for your Nova products, scan trends, expand seeds into opportunities, ge…"
+2026-11-02T09:21:19.87836Z,co.uniall/rwa-index,UNIALL RWA Index,1.0.0,,streamable-http,"Read-only, sourced data on tokenized real-world assets across 30+ chains."
+2026-11-02T09:21:28.042565Z,io.github.CloudCorpRecords/assetlens,,0.1.0,https://github.com/CloudCorpRecords/assetlens,,"Search public marketplace listings, projects, and documents for real-world assets."
+2026-11-02T09:21:37.250887Z,eu.lettio/mcp,Lettio MCP,0.5.0,https://github.com/lettio-eu/mcp,streamable-http,"Private, EU-hosted email for AI agents over JMAP: read, search, reply, draft, organize, send."
