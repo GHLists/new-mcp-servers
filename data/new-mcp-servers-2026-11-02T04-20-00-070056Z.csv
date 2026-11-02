@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-11-02T03:21:11.899678Z,xyz.aitrainingjobs/jobs,AI Training Jobs,1.0.0,,streamable-http,"Search open AI training jobs from 14 vetted platforms by field, country and pay, with honest rates."
+2026-11-02T03:21:45.577914Z,com.lyrenth/lyrenth-mcp,,0.1.7,https://github.com/lyrenth/lyrenth-mcp,,Read any public web page as a clean AIDocument (Markdown + structure) through Lyrenth.
+2026-11-02T03:25:39.366103Z,app.tuper/sheets,Tuper Sheets formulas,1.0.0,,streamable-http,"Build Google Sheets FILTER, RANK and UNIQUE formulas and clean text. No sign-in."
+2026-11-02T03:27:42.510085Z,io.github.NORTHTEKDevs/genome,,1.3.0,https://github.com/NORTHTEKDevs/genome,,"Fully local memory for AI agents: zero-LLM ingest, semantic recall, air-gapped, auditable."
+2026-11-02T03:29:23.430774Z,io.github.jackjin1997/markindex,MarkIndex,0.1.1,https://github.com/jackjin1997/markindex,,"Vectorless, structure-first search over large Markdown libraries: section trees + zh/en BM25"
+2026-11-02T03:32:26.404372Z,io.github.eidetic-works/nucleus,,1.17.1,https://github.com/eidetic-works/nucleus-mcp,streamable-http,"Persistent memory for AI agents — shared .brain across Claude Code, Cursor & Codex"
+2026-11-02T03:32:56.298836Z,io.qulture/studio,Qulture Studio,1.0.0,,streamable-http,"Make AI videos and images in Qulture Studio from ChatGPT, Claude, Cursor or any MCP client."
+2026-11-02T03:35:32.35411Z,com.agwcrew.mcp/american-ghost-walks,American Ghost Walks,1.0.0,,streamable-http,"Read-only AGW ghost tours: search by city, open departures, details, and official booking links."
+2026-11-02T03:42:20.010963Z,app.kasti/kasti,Kasti,1.0.0,,streamable-http,Save thoughts to your private notes and find how they connect to what you wrote before.
+2026-11-02T03:43:20.788387Z,com.ratecardhealth/rate-cards,RateCard Health,1.0.0,,streamable-http,"Healthcare B2B trade-publication ad rate cards: price bands, 2026 price index, free sample."
+2026-11-02T03:43:26.727611Z,io.github.proars/ghost-mcp-server,,2.2.1,https://github.com/proars/ghost-mcp-server,,"MCP server for Ghost CMS: manage posts, pages, tags, SEO, members and newsletters via the Admin API."
+2026-11-02T03:45:14.982607Z,ai.merget/merget,Merget,0.8.2,https://github.com/MergetAI/merget-plugin,streamable-http,"Merget for coding agents: set up the merge queue, operate it, and read its findings and code graphs."
+2026-11-02T03:55:52.550311Z,com.wixzel/voice,Wixzel Voice,0.12.0,https://github.com/aqeelshamz/wixzel-voice-sdks,streamable-http,"Lets Claude, Cursor or any MCP client build voice agents and place real phone calls."
+2026-11-02T03:57:11.902112Z,io.github.vitali87/code-graph-rag,Code-Graph-RAG,0.4.19,https://github.com/vitali87/code-graph-rag,,"Knowledge-graph RAG for multi-language codebases: index, query and edit code in natural language."
+2026-11-02T03:57:16.291512Z,run.raised.traceproof/traceproof,Traceproof,0.2.0,,streamable-http,"Search security findings and contribute versioned, evidence-backed reproduction reports."
+2026-11-02T03:58:01.09237Z,io.github.CloudCorpRecords/tabletopdb,,0.1.0,https://github.com/CloudCorpRecords/tabletopdb,,"BoardGameGeek tools: search, details, collections, hot list, trades, and recommendations."
+2026-11-02T03:59:03.495233Z,com.impact5r/chris-pereira,Chris Pereira (彭家荣): China business expert,1.0.0,,streamable-http,"Quotes, bio and media coverage of China business expert Chris Pereira; request comment or a speaker."
+2026-11-02T03:59:58.032048Z,io.github.zqj/caigen-notes,Caigen Notes (菜根笔记),1.9.10,,streamable-http,"Caigen Notes (菜根笔记) — AI-native note-taking with RAG semantic search, in Chinese."
+2026-11-02T04:04:16.473167Z,app.fluxgraph/linkedin,Flux LinkedIn MCP,1.0.0,,streamable-http,LinkedIn intelligence: post analytics and research for public profiles and company pages.
+2026-11-02T04:05:19.701945Z,io.github.CloudCorpRecords/pcapport,,0.1.0,https://github.com/CloudCorpRecords/pcapport,,"PCAP analysis: DNS, DHCP, ICMP, TCP flows, anomalies, and SIP from capture files."
+2026-11-02T04:06:26.262354Z,io.github.theluckystrike/retirement-contribution-limits-2027-mcp,Retirement Contribution Limits 2027,1.0.0,https://github.com/theluckystrike/retirement-contribution-limits-2027-mcp,streamable-http,"401(k), IRA, HSA limits, age 60-63 catch-up, Roth catch-up rule, Social Security COLA, 2025-2027."
+2026-11-02T04:10:01.38046Z,com.truealter/identity,~Alter Identity,0.5.15,https://github.com/true-alter/cli,streamable-http,Mint an agent identity in two free calls. Verify anyone. Earn 75% when someone reads you.
+2026-11-02T04:11:05.41978Z,com.runheed/runheed,Runheed,1.0.0,,streamable-http,"Production errors your coding agent can read: search, stack traces, context, trends, resolve."
+2026-11-02T04:12:30.062545Z,io.github.CloudCorpRecords/chainlens,,0.1.0,https://github.com/CloudCorpRecords/chainlens,,"Blockscout explorer data: addresses, blocks, transactions, tokens, NFTs, and contract reads."
+2026-11-02T04:14:34.374041Z,io.github.lavndrs120/lavenders,Lavenders (LAVNDR120),1.0.0,https://github.com/lavndrs120/lavndrs120.github.io,streamable-http,"Read-only facts on Lavenders (LAVNDR120): packages, prices, FAQ and the live consumer index card."
+2026-11-02T04:15:05.54677Z,com.botsinbox/botsinbox,BotsInbox — Email Inboxes for AI Agents,1.3.0,,streamable-http,"Free email inboxes for AI agents: self sign-up, receive email and verification codes."
+2026-11-02T04:18:04.036799Z,io.github.johnisanerd/google-jobs-per-result,,1.0.0,https://github.com/johnisanerd/Apify-Google-Jobs-Pay-Per-Result,streamable-http,"Google Jobs listings billed per result, via the Apify Google Jobs Scraper API, hosted MCP."
+2026-11-02T04:19:45.521903Z,io.github.CloudCorpRecords/cloudsuite,,0.1.0,https://github.com/CloudCorpRecords/cloudsuite,,"Nextcloud from your agent: notes, calendars, contacts, and files over DAV and the Notes API."
