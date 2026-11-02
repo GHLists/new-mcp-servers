@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-11-02T19:25:29.25938Z,io.github.CloudCorpRecords/rollbackplan,,0.1.0,https://github.com/CloudCorpRecords/rollbackplan,,"Plan a release rollback: flags first, then env changes, then migrations in reverse order."
+2026-11-02T19:30:08.407432Z,io.github.arunmk-ms/dicom-agent-mcp,DICOM Agent,0.1.0,https://github.com/arunmk-ms/dicom-agent-mcp,,"Search, retrieve, store, view, measure and de-identify DICOM images over DIMSE and DICOMweb."
+2026-11-02T19:30:34.010102Z,com.artnap/artnap,Artnap,1.0.0,,streamable-http,"Search 497,000+ public domain paintings, prints and drawings from 72 museums, with museum records."
+2026-11-02T19:32:15.373605Z,app.lowbird/lowbird,Lowbird,0.56.3,,streamable-http; streamable-http,"Amazon price history, real price drops, price alerts and a deals feed from your interests."
+2026-11-02T19:33:12.324318Z,io.github.CloudCorpRecords/guardfile,,0.1.0,https://github.com/CloudCorpRecords/guardfile,,"Extract a repo's guardrails — DCO, CLA, changesets, sign-off — into one checkable report."
+2026-11-02T19:34:03.759847Z,ai.clipflux/clipflux,ClipFlux,1.0.0,,streamable-http,"Make faceless YouTube videos and Shorts from chat: script, scenes, voice, captions, YouTube posting."
+2026-11-02T19:40:21.919114Z,io.github.costajohnt/oss-autopilot,,5.11.0,https://github.com/costajohnt/oss-autopilot,,"Open source contribution manager with PR tracking, issue discovery, and CI diagnosis"
+2026-11-02T19:40:58.520423Z,io.github.CloudCorpRecords/branchname,,0.1.0,https://github.com/CloudCorpRecords/branchname,,"Build a branch name from an issue title and number, in the repo's naming convention."
+2026-11-02T19:42:17.46665Z,com.clearfeedlabs/apify-data-feeds,Clearfeed Labs Data Feeds,1.0.0,,streamable-http,"Grants, jobs, SEC Form 4/D, storm ZIPs and business leads from official public sources."
+2026-11-02T19:43:52.821087Z,com.vibecodeapp/vibecode,Vibecode,1.0.0,https://github.com/vibecode/vibecode,streamable-http,"Build native iPhone apps and web apps by chatting. Vibecode's agent writes, builds and tests them."
+2026-11-02T19:44:28.832063Z,net.prieco/search,,3.0.0,,streamable-http,"Independent, EU, privacy-focused web search for AI agents. 25 free searches/day."
+2026-11-02T19:46:05.729635Z,io.github.cloudlabworks/mcp-failure-lab,MCP Failure Lab,0.1.1,https://github.com/cloudlabworks/mcp-failure-lab,,Deliberately faulty MCP server for testing how agent clients handle tool errors and disconnects.
+2026-11-02T19:46:28.415922Z,ai.needwing/needwing,Needwing,1.0.0,https://github.com/actionflow-team/needwing-plugins,streamable-http,Grounded web and Agent-network research for any MCP client: answers with cited evidence.
+2026-11-02T19:47:25.305871Z,io.github.mindstone/mcp-server-kling,Kling,0.5.0,https://github.com/mindstone/mcp-servers,,Kling AI video generation MCP server for Model Context Protocol hosts
+2026-11-02T19:48:25.409282Z,io.github.CloudCorpRecords/standupgen,,0.1.0,https://github.com/CloudCorpRecords/standupgen,,Draft a factual standup from the git commits and pull request activity you supply.
+2026-11-02T19:49:23.173936Z,com.ppcadeditor/ppc-ad-editor,PPC Ad Editor,1.1.0,,streamable-http,"Preview Google Search, PMax, Display, YouTube, Meta and LinkedIn ad mockups in chat. No sign-in."
+2026-11-02T19:50:31.323464Z,com.nobgp/mcp,noBGP,1.0.0,,streamable-http,"Private networking for AI agents: networks, nodes, commands, files, services via hosted MCP."
+2026-11-02T19:50:33.239458Z,it.remote/mcp,Remote.It,1.0.0,,streamable-http,"Remote.It hosted MCP: inventory devices, open connections, manage services and run scripts."
+2026-11-02T19:52:07.392244Z,com.aiagentcycle/aiagentcycle,AIAgentCycle,0.3.0,,streamable-http,"Read-only facts on AIAgentCycle: n8n automation, AI agents, integrations, prices, cases (NL/EN)."
+2026-11-02T19:53:58.053741Z,co.anana.app/stays,ANANA Stays,1.0.0,,streamable-http,"Book private homes in Vancouver, BC directly: live availability, exact totals, no service fee."
+2026-11-02T19:54:10.073252Z,com.ugcchart/ugc-chart,UGC Chart,1.0.0,,streamable-http,Many more data points to help you find the right Trybe creators for your brand. Free.
+2026-11-02T19:56:02.201452Z,io.github.CloudCorpRecords/docsdiff,,0.1.0,https://github.com/CloudCorpRecords/docsdiff,,"Flag documentation drift per area: code changed without docs, docs changed without code."
+2026-11-02T19:56:02.902742Z,com.qretro/retro,,1.4.0,,streamable-http,"QRetro retrospectives and planning poker over MCP: boards, action items, poker games, estimates."
+2026-11-02T20:00:05.880185Z,co.shipnote/shipnote,ShipNote,1.0.0,,streamable-http,Save thank-you postcards as a draft from a registry or guest list. ShipNote prints and mails them.
+2026-11-02T20:02:42.643413Z,dev.loudcode/loudcode,Loudcode,1.0.0,,streamable-http,"Turn what you just built into build in public posts for X, in your voice. Drafts, queue, metrics."
+2026-11-02T20:05:15.40643Z,io.github.CloudCorpRecords/repoready,,0.1.0,https://github.com/CloudCorpRecords/repoready,,"Score first-contributor readiness: README, install and test docs, license, CI, lockfile."
+2026-11-02T20:07:59.895478Z,email.sendlet/sendlet,Sendlet,1.0.0,,streamable-http,Let AI agents email only people you've approved. One private MCP URL per recipient or group.
+2026-11-02T20:11:48.97152Z,io.github.luis-fuentes/maqui,Maqui Analytics,1.0.1,https://github.com/somosmaqui/maqui-mcp,streamable-http,"Marketing analytics for local businesses — Instagram, ads, web traffic, SEO and reviews."
+2026-11-02T20:11:57.942123Z,io.github.flockbay/flockbay,Flockbay,1.0.0,https://github.com/flockbay/flockbay-plugin,,"Build, run and playtest a Godot 4 game in a live Godot editor. Runs inside the Flockbay app."
+2026-11-02T20:12:46.004435Z,io.github.CloudCorpRecords/linkedcheck,,0.1.0,https://github.com/CloudCorpRecords/linkedcheck,,Verify a PR really addresses the issue it claims to close: closing keywords plus diff scope.
+2026-11-02T20:16:12.065434Z,io.github.outcrawlai/outcrawl,Outcrawl,1.0.0,https://github.com/outcrawlai/outcrawl-mcp,streamable-http,"Web infrastructure for AI agents: scrape, crawl and search the web, run browsers and agents."
+2026-11-02T20:18:28.501471Z,io.github.dyoburon/afk-rig,afk.ai Auto-Rig,1.3.2,,,"Auto-rig 3D models (GLB, glTF, FBX) with skeleton, skin weights and 170+ animations via afk.ai."
