@@ -1,0 +1,40 @@
+created_at,server,title,version,repository,transports,description
+2026-11-02T17:20:35.777706Z,io.github.CloudCorpRecords/versionbump,,0.1.0,https://github.com/CloudCorpRecords/versionbump,,"Recommend a semver bump from commit types and API surface changes, with the evidence listed."
+2026-11-02T17:21:30.128757Z,io.github.antyser/wineauction,WineAuction,1.2.1,https://github.com/antyser/wineauction-plugin,streamable-http,"Wine prices: retail, auction and restaurant references; check any quoted price."
+2026-11-02T17:24:27.203677Z,cloud.cahut/my-cahut,My Cahut,1.1.1,https://github.com/cahutcloud/cahut,streamable-http,"Publish the documents, decks and dashboards your AI makes to my.cahut.cloud, and share them by link."
+2026-11-02T17:24:27.603498Z,cloud.cahut/cahut,Cahut,1.1.1,https://github.com/cahutcloud/cahut,streamable-http,"Your AI publishes documents, decks and dashboards to your own server, and you share them by link."
+2026-11-02T17:26:27.873063Z,com.netactuate/net-actuate,NetActuate,0.2.13,,streamable-http,"Current data on NetActuate's data centers, compliance, products, marketplace apps and docs."
+2026-11-02T17:29:56.11175Z,com.littlemilwaukee/little-milwaukee,Little Milwaukee,1.0.0,,streamable-http,"Sourced facts on locally owned places, records, events and neighborhoods in Milwaukee County."
+2026-11-02T17:30:18.025581Z,io.github.CloudCorpRecords/testfinder,,0.1.0,https://github.com/CloudCorpRecords/testfinder,,"Find the tests relevant to a source file from an import map, ranked, with the run command."
+2026-11-02T17:30:32.506729Z,io.github.abhishek207/headsup-mcp,Heads-up,1.6.0,https://github.com/abhishek207/headsup-mcp,,Spoken voice alerts on your Mac when your coding agent finishes a task or needs you.
+2026-11-02T17:37:48.846867Z,io.github.CloudCorpRecords/deadpath,,0.1.0,https://github.com/CloudCorpRecords/deadpath,,"Find exported-but-never-used names across a module set, with import-graph proof."
+2026-11-02T17:43:35.75499Z,dev.pages.bulk-ocr/bulk-ocr,Bulk OCR (Apify actor),0.1.1,,streamable-http,Apify actor via Apify's MCP server (Apify token needed): bulk OCR with per-page status.
+2026-11-02T17:44:10.268096Z,io.sheetdb/sheetdb,SheetDB,1.0.0,,streamable-http,"Read and write Google Sheets rows via SheetDB APIs; per-API agent permissions, approved deletes."
+2026-11-02T17:44:40.980066Z,dev.pages.ats-jobs-feed/ats-jobs-feed,ATS Jobs Feed (Apify actor),0.1.0,,streamable-http,"Apify actor via Apify's MCP server (Apify token needed): Greenhouse, Lever, Ashby jobs, one schema."
+2026-11-02T17:44:42.067225Z,dev.pages.audio-transcription/audio-transcription,Audio Transcription (Apify actor),0.1.0,,streamable-http,"Apify actor via Apify's MCP server (Apify token needed): Whisper transcription, per-file status."
+2026-11-02T17:44:43.177086Z,dev.pages.website-screenshot-pdf/website-screenshot,Website Screenshot and PDF (Apify actor),0.1.0,,streamable-http,Apify actor via Apify's MCP server (Apify token needed): full-page website screenshots and PDFs.
+2026-11-02T17:44:46.421705Z,com.promptcelerator/video-prompts,Promptcelerator,2.0.0,,streamable-http,"Find AI video prompts that really worked, each with its video and its credited creator. Free."
+2026-11-02T17:45:01.174976Z,br.com.felku.mcp/connect,Felku,1.0.0,,streamable-http,"WhatsApp & Telegram for your AI agent. Hosted MCP connector: pair by QR, sends paced and capped."
+2026-11-02T17:45:19.306449Z,io.github.Timi-Duban/gbfs-france,GBFS France,0.1.3,https://github.com/Timi-Duban/gbfs-france,,"Live bike-share availability in France: docked networks, nearby stations, bikes and docks."
+2026-11-02T17:45:24.629279Z,io.github.CloudCorpRecords/typegap,,0.1.0,https://github.com/CloudCorpRecords/typegap,,Ranks type debt per file: any and ts-ignore counts weighted by import blast radius.
+2026-11-02T17:46:44.64194Z,co.guidemark/guidemark,GuideMark,1.0.0,,streamable-http,"Create and edit product tours and beacon tooltips on your website, as drafts or live."
+2026-11-02T17:48:31.527391Z,io.github.Uptrack-App/uptrack-mcp,,0.1.4,https://github.com/Uptrack-App/uptrack-mcp,streamable-http,MCP server for Uptrack uptime monitoring. Manage monitors and incidents from AI agents.
+2026-11-02T17:50:42.92106Z,expert.abn.mcp/abn-gst,ABN Expert,0.1.0,,streamable-http,Search Australian businesses and look up ABN and GST records from the Australian Business Register.
+2026-11-02T17:53:06.750939Z,io.github.CloudCorpRecords/changelogforge,,0.1.0,https://github.com/CloudCorpRecords/changelogforge,,"Render a release changelog from merged pull requests, grouped by label, in Markdown."
+2026-11-02T17:53:38.361204Z,io.github.talkpixai/talkpix,TalkPix,1.0.0,https://github.com/TalkPix-AI/talkpix-mcp,streamable-http,"AI product ads, talking-photo and AI videos from chat. Price shown before credits are spent."
+2026-11-02T17:57:18.016963Z,io.github.aniketxdey/chronicle,Chronicle,0.2.0,https://github.com/aniketxdey/chronicle,,"Local screen and activity knowledge graph, served as context to computer-use agents."
+2026-11-02T17:57:20.877748Z,online.webarm24/webarm24,WebArm24,1.0.0,,streamable-http,"AI automation platform (n8n/Zapier alternative): build, schedule and run workflows from your agent."
+2026-11-02T17:58:39.908138Z,com.planningledger/planningledger,PlanningLedger,1.0.0,,streamable-http,"Search UK planning applications and documents, appeals, decision counts and Local Plan policies."
+2026-11-02T18:01:17.146638Z,io.github.CloudCorpRecords/seedgen,,0.1.0,https://github.com/CloudCorpRecords/seedgen,,"Generate deterministic, repeatable seed and fixture data from field specs and a numeric seed."
+2026-11-02T18:01:40.044991Z,io.github.NellInc/saferagenticai-mcp,,0.4.1,https://github.com/NellInc/saferagenticai-mcp,streamable-http,Read-only tools over the Safer Agentic AI framework: 239 patterns + 15 heuristics.
+2026-11-02T18:01:55.550672Z,io.github.greyzor/microlaunch-mcp,Microlaunch,0.1.0,https://github.com/greyzor/microlaunch-mcp,streamable-http,"Find tools and apps by indie makers: top launches, categories, product details and deals."
+2026-11-02T18:04:53.257767Z,com.veezco/veezco,Veezco,1.0.0,,streamable-http,"Find local businesses to sell to, with contacts, website checks and an opening line for the call."
+2026-11-02T18:09:25.891268Z,is.cryptonews/news,cryptonews.is,1.0.0,,streamable-http,"Live crypto news from 37 outlets, grouped into stories, in 28 languages, with live news sentiment."
+2026-11-02T18:09:46.714971Z,ai.aigamedev/aigamedev,aigamedev.ai,1.0.0,,streamable-http,"Game-design skills for AI agents: describe a problem, get the right skill. Plus free sound effects."
+2026-11-02T18:10:22.429321Z,io.usefulapi/livewebinar,LiveWebinar MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read webinars, sessions, registrants and polls; create scheduled webinars in LiveWebinar."
+2026-11-02T18:10:22.609997Z,com.cmdrvl/twinning,Postgres and REST twins,0.7.1,https://github.com/cmdrvl/twinning,,"Twins for Postgres and REST: declared-subset Postgres, spec-defined REST, migration proof."
+2026-11-02T18:13:44.986382Z,nl.slimwegdoen/slimwegdoen,slimwegdoen,1.0.0,,streamable-http,"Where can your stuff go in the Netherlands? Advice per item and place, from selling to repair."
+2026-11-02T18:14:20.714611Z,uk.co.impossibrew.agent/beer-finder,IMPOSSIBREW,1.0.0,,streamable-http,"UK alcohol-free beer: product facts, comparisons, stockists, Shopify basket links and order help."
+2026-11-02T18:15:17.281323Z,ai.judt/mcp,Judt,1.0.0,,streamable-http,"Apps and sites for your agent, with databases, storage, queues and workflows built in."
+2026-11-02T18:16:17.408878Z,io.github.skanthemore/sellat-mcp,Sellat,0.3.2,https://github.com/skanthemore/sellat-mcp,,"Proof of existence for files from any MCP client: hashed locally, anchored on Polygon and Bitcoin."
+2026-11-02T18:16:46.613464Z,com.goautolane/courier,Courier by Autolane,1.0.0,,streamable-http,"Delivery of restaurant pickup orders in Austin, TX: check, book, track, change or cancel."
