@@ -9,40 +9,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 07:19 UTC
+## Latest list — 2026-11-02 08:19 UTC
 
-New MCP servers published between 2026-11-02 06:21 UTC and 2026-11-02 07:19 UTC.
+New MCP servers published between 2026-11-02 07:19 UTC and 2026-11-02 08:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-02T07-19-52-287269Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-02T08-19-52-640665Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-02 06:24:34 | com.angelscohq/agentdna | AgentDNA by ANGELS | 1.0.0 | Company catalogs for AI agents: products, prices, availability. Search, read, o… |
-| 2026-11-02 06:25:16 | [io.github.CloudCorpRecords/lancontrol](https://github.com/CloudCorpRecords/lancontrol) |  | 0.1.0 | UniFi controller: clients, devices, WLANs, health, alarms, events, sysinfo, ide… |
-| 2026-11-02 06:28:11 | com.edgarstack/edgarstack | EdgarStack | 1.0.0 | SEC EDGAR financials, ratios, peer comps, filing diffs and Excel models for any… |
-| 2026-11-02 06:32:32 | ai.agentgates/compute | Agentgates Compute | 1.0.0 | Confidential VMs (Intel TDX) by the hour, paid in USDC over x402: live plans, p… |
-| 2026-11-02 06:32:43 | com.bereishes/bereishes | Bereishes | 0.3.0 | Search and read classical Jewish texts: Tanach, Talmud, Midrash, halacha, and c… |
-| 2026-11-02 06:32:59 | [io.github.CloudCorpRecords/gamedb-port](https://github.com/CloudCorpRecords/gamedb-port) |  | 0.1.0 | IGDB game database: search games, game details, anticipated releases, and custo… |
-| 2026-11-02 06:39:09 | io.github.mojapiero/imprimeur-paris | imprimeur.paris | 1.0.0 | Independent directory of printers and copy shops in Paris: search, details, fil… |
-| 2026-11-02 06:40:23 | [io.github.CloudCorpRecords/visualdiff](https://github.com/CloudCorpRecords/visualdiff) |  | 0.1.0 | SnapDiff visual diffs: verify UI changes, compare pages, screenshots, HTML to i… |
-| 2026-11-02 06:41:26 | com.troimarket/troimarket | troimarket | 0.1.0 | Sell digital files on troimarket from your chat: draft and publish listings, ru… |
-| 2026-11-02 06:41:32 | [ai.motiblog/mcp](https://github.com/HoverNotes/motiblog) | MotiBlog | 0.7.1 | Agent-first SEO research and publishing: competitors, SERPs, internal links, an… |
-| 2026-11-02 06:43:21 | [io.github.aeither/flashcards](https://github.com/aeither/flashcards-mcp) | Flashcards by Fulin Labs | 6.7.0 | Learn vocabulary from daily life with flashcards, examples, pronunciation and s… |
-| 2026-11-02 06:44:03 | [io.github.CloudCorpRecords/loglens](https://github.com/CloudCorpRecords/loglens) |  | 0.1.0 | Homelab log investigation over local logs: tail, errors, search, timeline, cont… |
-| 2026-11-02 06:51:29 | com.hibonzai.mcp/bonzai | Bonzai SD | 1.0.0 | Finds what's broken in your product, explains why, and proposes fixes people ap… |
-| 2026-11-02 06:51:50 | [io.github.CloudCorpRecords/threatkb](https://github.com/CloudCorpRecords/threatkb) |  | 0.1.0 | Local MITRE ATT&CK queries: techniques, tactics, mitigations, and detections fr… |
-| 2026-11-02 06:58:34 | com.framepond/framepond | FramePond | 1.0.0 | Search bilingual image prompts; generate and download images with reference sup… |
-| 2026-11-02 06:59:17 | com.seoulstart/seoulstart | Seoulstart | 1.1.0 | Jobs for foreigners in Korea and median rent, jeonse and home prices from MOLIT… |
-| 2026-11-02 07:03:48 | com.landingonmadison/landing-company | The Landing Company of Madison Park | 1.0.0 | Seattle engineering consultancy: services, guides, FAQs, and requests for a fre… |
-| 2026-11-02 07:05:23 | [io.github.CloudCorpRecords/procureport](https://github.com/CloudCorpRecords/procureport) |  | 0.1.0 | Korean public procurement: bids, awards, contracts, statistics, products and ma… |
-| 2026-11-02 07:05:51 | [org.americandefault/research](https://github.com/vibecode1/american-default-mcp) | American Default Research | 1.1.1 | Read-only U.S. household-finance research: economic indicators, county scores,… |
-| 2026-11-02 07:09:41 | com.majlisdesk/whatsapp | MajlisDesk: WhatsApp shared inbox | 1.0.0 | Read and answer your team's WhatsApp and email inbox from Claude or ChatGPT. OA… |
-| 2026-11-02 07:09:48 | io.alura/mcp | Alura | 1.2.0 | Etsy research and shop tools for AI: products, shops, keywords, trends, your li… |
-| 2026-11-02 07:10:52 | [io.github.HasanGilani/knock](https://github.com/HasanGilani/knock) | knock | 0.1.1 | Code map and memory for AI coding agents: key functions, line ranges, callers,… |
-| 2026-11-02 07:12:22 | [io.github.CloudCorpRecords/scicompute](https://github.com/CloudCorpRecords/scicompute) |  | 0.1.0 | Scientific computation: named tensors, matrix algebra and vector operations, fu… |
-| 2026-11-02 07:12:40 | [io.github.awalhadi/gitpeak](https://github.com/awalhadi/gitpeak) | GitPeak | 4.1.12 | Git context for AI agents: status, staged diff, commit log, repo health, merge… |
-| 2026-11-02 07:14:04 | ai.relayz/relayz | Relayz | 1.0.0 | Notes your AI assistants share: dot, Muse, Grok Bot, Duet and more. Share them… |
-| 2026-11-02 07:14:42 | org.chappe/chappe | Chappe | 1.0.0 | Hand off the context of an AI conversation to another AI tool, or to someone el… |
+| 2026-11-02 07:20:07 | [com.linkedcamp/mcp](https://github.com/LinkedCamp/linkedcamp-mcp) |  | 1.0.0 | LinkedIn and email outreach: campaigns, unified inbox, leads, analytics and rep… |
+| 2026-11-02 07:20:47 | [io.github.CloudCorpRecords/myopendata](https://github.com/CloudCorpRecords/myopendata) |  | 0.1.0 | Malaysia open data: datasets, dashboards, DOSM, weather, floods and transit, ke… |
+| 2026-11-02 07:24:00 | [io.github.ContextDong/yapi-mcp](https://github.com/ContextDong/Yapi-Mcp) | YApi MCP | 0.1.0 | Fetch YApi JSON API docs from a project URL for agent client integration. |
+| 2026-11-02 07:25:25 | com.tenqueue/tenqueue | TenQueue | 1.0.0 | Create, test and publish live group quizzes that players join on their phones b… |
+| 2026-11-02 07:26:04 | [io.github.ProofCore-Protocol/proofcore-mcp](https://github.com/ProofCore-Protocol/proofcore-mcp) | ProofCore | 1.0.0 | Zero-Auth Cryptographic Notarization & Evidence Layer on TON Blockchain for AI… |
+| 2026-11-02 07:27:30 | [io.github.heyalizaid/thumblifyai](https://github.com/heyalizaid/thumblifyai-plugin) | ThumblifyAI | 1.0.0 | Create and refine AI YouTube thumbnails with the ThumblifyAI MCP server. |
+| 2026-11-02 07:28:23 | [io.github.CloudCorpRecords/cueport](https://github.com/CloudCorpRecords/cueport) |  | 0.1.0 | CueAPI agent-work scheduling: cues, executions, claiming, heartbeats, and outco… |
+| 2026-11-02 07:29:54 | io.github.Autopoiesis-ai/mcp | Autopo | 0.4.4 | Run your AI-run company from Claude Code, Codex, Cursor or ChatGPT: inbox, task… |
+| 2026-11-02 07:32:24 | com.steadylinedata/web-data-tools | Steadyline Data web tools | 1.0.0 | Jobs, funding, contacts, tech stacks, WHOIS/DNS, sitemaps, screenshots, PDFs, a… |
+| 2026-11-02 07:32:30 | com.macrodataapi/macrodata | MacroDataAPI | 1.0.0 | Macro data for agents: CPI, payrolls, GDP, policy rates, yields, release calend… |
+| 2026-11-02 07:33:21 | [io.github.bonguynvan/tradecanvas](https://github.com/bonguynvan/tradecanvas) | TradeCanvas | 1.61.0 | Look up TradeCanvas chart indicators, options and drawing tools, and check opti… |
+| 2026-11-02 07:34:32 | ro.lexapp/legislatie | LexApp – legislația României | 2.0.0 | Romanian legislation and case law: consolidated texts by paragraph, versions, c… |
+| 2026-11-02 07:35:25 | de.drdotzauer/health-calculators | Dr. Dotzauer Calculators | 1.0.0 | Free calculators for body composition, calories, protein and strength, with sou… |
+| 2026-11-02 07:40:03 | group.tcc/website | TCC Group website | 1.3.0 | Read-only tools for tcc.group: contact card, documents, page search and page co… |
+| 2026-11-02 07:40:07 | com.recordsure/website | Recordsure website | 1.3.0 | Read-only tools for recordsure.com: contact card, documents, page search and pa… |
+| 2026-11-02 07:44:55 | online.insolvenzmonitor/insolvenzmonitor | Insolvenzmonitor | 0.2.0 | German insolvency notices: check companies, proceeding status, customer lists a… |
+| 2026-11-02 07:46:57 | [com.needanai/catalog](https://github.com/vmatresu/ailaunchspace) | NeedAnAI — AI tool catalogue | 1.0.0 | Search, compare and watch 15,000+ AI tools: pricing, alternatives, liveness. Fr… |
+| 2026-11-02 07:49:05 | io.github.2cstudiodev-web/echoly | Echoly | 1.0.0 | Schedule posts to X and Telegram channels from your AI app. Posts wait for your… |
+| 2026-11-02 07:49:13 | app.tuper/site-check | Tuper Site Check | 1.0.0 | Check a website in a real browser: score, top problems, report link. Built and… |
+| 2026-11-02 07:52:04 | [io.attrikit/mcp](https://github.com/KamyarTaher/attrikit-mcp) | AttriKit | 2.0.0 | Run AttriKit web-to-app attribution from an agent: apps, campaign links, spend,… |
+| 2026-11-02 07:58:49 | [io.github.Clocknext-Inc/mcp](https://github.com/Clocknext-Inc/clocknext-mcp) |  | 0.14.2 | Meter usage and manage usage-based billing from AI tools via the Clocknext API. |
+| 2026-11-02 07:58:56 | [io.github.ElMagoCT/sidenote](https://github.com/ElMagoCT/sidenote-mcp) | Sidenote | 1.0.0 | Read, search and edit your Sidenote notepads (Chrome side-panel notes) with you… |
+| 2026-11-02 08:00:58 | [io.github.Bl0ck154/etsy-seller-mcp-hub](https://github.com/Bl0ck154/etsy-seller-mcp-hub) | Etsy Seller MCP Hub | 0.3.1 | Self-hosted Etsy seller tools for shop listings, orders, inventory and media vi… |
+| 2026-11-02 08:04:48 | io.github.oogwaaay/backgone | BackGone Background Removal | 1.0.0 | Remove image backgrounds (transparent PNG/WebP) and look up passport photo rule… |
+| 2026-11-02 08:08:25 | com.aivisibilityskill/mcp | AI Visibility | 1.0.0 | See how AI engines describe a product, find what to fix on its site, and verify… |
+| 2026-11-02 08:09:01 | [io.github.johnisanerd/linkedin-learning](https://github.com/johnisanerd/Apify-LinkedIn-Learning-API) |  | 1.0.0 | LinkedIn Learning catalog, reviews, and syllabus as JSON via the Apify Actor, h… |
+| 2026-11-02 08:11:02 | [com.stayingasia/mcp](https://github.com/ayj777/Popp) | StayingAsia | 1.0.0 | Entry rules, long stay routes and settlement answers for 21 Asian countries. |
+| 2026-11-02 08:11:53 | app.tuper/games | Tuper games | 1.0.0 | Play original puzzle games as an AI agent: read the board, list legal moves, ma… |
+| 2026-11-02 08:13:27 | [io.github.CloudCorpRecords/notifyfan](https://github.com/CloudCorpRecords/notifyfan) |  | 0.1.0 | Apprise notification fan-out: health, status, and tagged or one-off sends. |
+| 2026-11-02 08:14:10 | io.tweakthis/mcp | TweakThis | 0.2.0 | UI feedback from a browser extension (note, element, screenshot) for coding age… |
+| 2026-11-02 08:15:28 | [com.postatron/postatron](https://github.com/henrwal/postatron-cli) | Postatron | 1.15.1 | Schedule, publish and measure social posts on X, Instagram, LinkedIn, TikTok, Y… |
+| 2026-11-02 08:16:58 | [top.backfill/backfill-fetch](https://github.com/Maren-Ygolonhcet/backfill) | Backfill Fetch | 1.0.0 | Pay-per-fetch web extraction for agents: POST a URL, get clean markdown. x402 U… |
 
 ## Data source
 

@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-11-02T07:20:07.004201Z,com.linkedcamp/mcp,,1.0.0,https://github.com/LinkedCamp/linkedcamp-mcp,streamable-http,"LinkedIn and email outreach: campaigns, unified inbox, leads, analytics and reports."
+2026-11-02T07:20:47.675411Z,io.github.CloudCorpRecords/myopendata,,0.1.0,https://github.com/CloudCorpRecords/myopendata,,"Malaysia open data: datasets, dashboards, DOSM, weather, floods and transit, keyless."
+2026-11-02T07:24:00.959071Z,io.github.ContextDong/yapi-mcp,YApi MCP,0.1.0,https://github.com/ContextDong/Yapi-Mcp,,Fetch YApi JSON API docs from a project URL for agent client integration.
+2026-11-02T07:25:25.690471Z,com.tenqueue/tenqueue,TenQueue,1.0.0,,streamable-http,"Create, test and publish live group quizzes that players join on their phones by QR code."
+2026-11-02T07:26:04.941114Z,io.github.ProofCore-Protocol/proofcore-mcp,ProofCore,1.0.0,https://github.com/ProofCore-Protocol/proofcore-mcp,streamable-http; sse,Zero-Auth Cryptographic Notarization & Evidence Layer on TON Blockchain for AI Agents.
+2026-11-02T07:27:30.751736Z,io.github.heyalizaid/thumblifyai,ThumblifyAI,1.0.0,https://github.com/heyalizaid/thumblifyai-plugin,streamable-http,Create and refine AI YouTube thumbnails with the ThumblifyAI MCP server.
+2026-11-02T07:28:23.635505Z,io.github.CloudCorpRecords/cueport,,0.1.0,https://github.com/CloudCorpRecords/cueport,,"CueAPI agent-work scheduling: cues, executions, claiming, heartbeats, and outcomes."
+2026-11-02T07:29:54.72263Z,io.github.Autopoiesis-ai/mcp,Autopo,0.4.4,,streamable-http,"Run your AI-run company from Claude Code, Codex, Cursor or ChatGPT: inbox, tasks, team, Studio."
+2026-11-02T07:32:24.661638Z,com.steadylinedata/web-data-tools,Steadyline Data web tools,1.0.0,,streamable-http,"Jobs, funding, contacts, tech stacks, WHOIS/DNS, sitemaps, screenshots, PDFs, app reviews: 11 tools"
+2026-11-02T07:32:30.290232Z,com.macrodataapi/macrodata,MacroDataAPI,1.0.0,,streamable-http,"Macro data for agents: CPI, payrolls, GDP, policy rates, yields, release calendar, vintages."
+2026-11-02T07:33:21.289253Z,io.github.bonguynvan/tradecanvas,TradeCanvas,1.61.0,https://github.com/bonguynvan/tradecanvas,,"Look up TradeCanvas chart indicators, options and drawing tools, and check options before use."
+2026-11-02T07:34:32.562903Z,ro.lexapp/legislatie,LexApp – legislația României,2.0.0,,streamable-http,"Romanian legislation and case law: consolidated texts by paragraph, versions, court decisions."
+2026-11-02T07:35:25.481578Z,de.drdotzauer/health-calculators,Dr. Dotzauer Calculators,1.0.0,,streamable-http,"Free calculators for body composition, calories, protein and strength, with source links."
+2026-11-02T07:40:03.983071Z,group.tcc/website,TCC Group website,1.3.0,,streamable-http,"Read-only tools for tcc.group: contact card, documents, page search and page content."
+2026-11-02T07:40:07.323325Z,com.recordsure/website,Recordsure website,1.3.0,,streamable-http,"Read-only tools for recordsure.com: contact card, documents, page search and page content."
+2026-11-02T07:44:55.979084Z,online.insolvenzmonitor/insolvenzmonitor,Insolvenzmonitor,0.2.0,,streamable-http; streamable-http,"German insolvency notices: check companies, proceeding status, customer lists and statistics."
+2026-11-02T07:46:57.526895Z,com.needanai/catalog,NeedAnAI — AI tool catalogue,1.0.0,https://github.com/vmatresu/ailaunchspace,streamable-http,"Search, compare and watch 15,000+ AI tools: pricing, alternatives, liveness. Free, no auth."
+2026-11-02T07:49:05.161636Z,io.github.2cstudiodev-web/echoly,Echoly,1.0.0,,streamable-http,Schedule posts to X and Telegram channels from your AI app. Posts wait for your approval.
+2026-11-02T07:49:13.748892Z,app.tuper/site-check,Tuper Site Check,1.0.0,,streamable-http,"Check a website in a real browser: score, top problems, report link. Built and run by AI agents."
+2026-11-02T07:52:04.223168Z,io.attrikit/mcp,AttriKit,2.0.0,https://github.com/KamyarTaher/attrikit-mcp,,"Run AttriKit web-to-app attribution from an agent: apps, campaign links, spend, decisions, exports"
+2026-11-02T07:58:49.418074Z,io.github.Clocknext-Inc/mcp,,0.14.2,https://github.com/Clocknext-Inc/clocknext-mcp,,Meter usage and manage usage-based billing from AI tools via the Clocknext API.
+2026-11-02T07:58:56.999147Z,io.github.ElMagoCT/sidenote,Sidenote,1.0.0,https://github.com/ElMagoCT/sidenote-mcp,streamable-http,"Read, search and edit your Sidenote notepads (Chrome side-panel notes) with your sync key."
+2026-11-02T08:00:58.453629Z,io.github.Bl0ck154/etsy-seller-mcp-hub,Etsy Seller MCP Hub,0.3.1,https://github.com/Bl0ck154/etsy-seller-mcp-hub,,"Self-hosted Etsy seller tools for shop listings, orders, inventory and media via MCP."
+2026-11-02T08:04:48.826686Z,io.github.oogwaaay/backgone,BackGone Background Removal,1.0.0,,streamable-http,Remove image backgrounds (transparent PNG/WebP) and look up passport photo rules.
+2026-11-02T08:08:25.821676Z,com.aivisibilityskill/mcp,AI Visibility,1.0.0,,streamable-http,"See how AI engines describe a product, find what to fix on its site, and verify the fix."
+2026-11-02T08:09:01.730052Z,io.github.johnisanerd/linkedin-learning,,1.0.0,https://github.com/johnisanerd/Apify-LinkedIn-Learning-API,streamable-http,"LinkedIn Learning catalog, reviews, and syllabus as JSON via the Apify Actor, hosted MCP."
+2026-11-02T08:11:02.946606Z,com.stayingasia/mcp,StayingAsia,1.0.0,https://github.com/ayj777/Popp,streamable-http,"Entry rules, long stay routes and settlement answers for 21 Asian countries."
+2026-11-02T08:11:53.347618Z,app.tuper/games,Tuper games,1.0.0,,streamable-http,"Play original puzzle games as an AI agent: read the board, list legal moves, make moves."
+2026-11-02T08:13:27.720093Z,io.github.CloudCorpRecords/notifyfan,,0.1.0,https://github.com/CloudCorpRecords/notifyfan,,"Apprise notification fan-out: health, status, and tagged or one-off sends."
+2026-11-02T08:14:10.161506Z,io.tweakthis/mcp,TweakThis,0.2.0,,streamable-http,"UI feedback from a browser extension (note, element, screenshot) for coding agents to resolve."
+2026-11-02T08:15:28.43408Z,com.postatron/postatron,Postatron,1.15.1,https://github.com/henrwal/postatron-cli,streamable-http,"Schedule, publish and measure social posts on X, Instagram, LinkedIn, TikTok, YouTube and more."
+2026-11-02T08:16:58.629733Z,top.backfill/backfill-fetch,Backfill Fetch,1.0.0,https://github.com/Maren-Ygolonhcet/backfill,streamable-http,"Pay-per-fetch web extraction for agents: POST a URL, get clean markdown. x402 USDC on Base."
