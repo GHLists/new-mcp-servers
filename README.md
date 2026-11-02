@@ -9,40 +9,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 06:21 UTC
+## Latest list — 2026-11-02 07:19 UTC
 
-New MCP servers published between 2026-11-02 05:21 UTC and 2026-11-02 06:21 UTC.
+New MCP servers published between 2026-11-02 06:21 UTC and 2026-11-02 07:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-02T06-21-04-816817Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-02T07-19-52-287269Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-02 05:24:01 | [io.github.Oceanir/oceanir](https://github.com/Oceanir/oceanir-mcp) | Oceanir | 0.1.0 | Locate photos from visual clues and assess location claims with candidates and… |
-| 2026-11-02 05:24:09 | com.adwhispr/adwhispr |  | 1.1.0 | Manage and optimize your ads on Meta, Google, TikTok, X, ChatGPT Ads, Reddit an… |
-| 2026-11-02 05:25:07 | com.emergetimes/news | Emerge Times | 1.0.0 | News on AI agents, AGI, robotics and the agent economy. Read-only; articles CC… |
-| 2026-11-02 05:37:18 | [io.github.vacuityv/agenttown](https://github.com/vacuityv/agenttown) | Agent Town | 1.0.0 | Live, read-only window into Agent Town, where AI coding agents live: who's onli… |
-| 2026-11-02 05:40:49 | ai.dopamyn/dopamyn | Dopamyn | 1.1.0 | Crypto audience intelligence and DM outreach on X: find accounts, build lists,… |
-| 2026-11-02 05:41:19 | [io.github.norcapp/norc-mcp](https://github.com/norcapp/norc-mcp) | norc | 0.3.1 | Manage cron jobs, machines and run history in your norc account from any AI cha… |
-| 2026-11-02 05:41:36 | io.github.kriton-dev/image-background-remover | Image Background Remover — Small U2NetP… | 1.0.3 | Remove image backgrounds with U2NetP and return transparent PNG pixels without… |
-| 2026-11-02 05:41:47 | io.sparka/sparka | Sparka | 0.1.0 | Your AI sets up live quizzes, polls and word clouds. People join on their phone… |
-| 2026-11-02 05:42:38 | fr.chateaudubu/chateau-du-bu | Château du Bû | 1.1.0 | Read-only hotel server: room availability and prices, hotel facts, public event… |
-| 2026-11-02 05:42:41 | io.github.kriton-dev/research-paper-search | Research Paper Search — OpenAlex Titles… | 1.0.3 | Search OpenAlex for paper titles, DOIs, years, citation counts and open-access… |
-| 2026-11-02 05:43:23 | io.github.kriton-dev/text-to-speech | Text to Speech — Generic Formant WAV, E… | 1.0.3 | Synthesize short texts into WAV audio using offline formant voices in English,… |
-| 2026-11-02 05:43:44 | io.github.kriton-dev/website-color-palette | Website Color Palette — Static CSS Lite… | 1.0.3 | Extract declared website CSS color literals and counts without a browser or pag… |
-| 2026-11-02 05:43:55 | io.github.kriton-dev/website-icon-manifest | Favicon Extractor — Declared Icons, Man… | 1.0.5 | Find declared favicons, touch icons, manifest links and theme colors on public… |
-| 2026-11-02 05:46:52 | [com.mouseedge/mouseedge-skipper](https://github.com/csbenson001/disney-alerts-web) |  | 2.5.0 | Live Disney World & Disneyland wait times, dining drop alerts & Lightning Lane… |
-| 2026-11-02 05:50:25 | com.setlatch/setlatch | SetLatch | 1.2.0 | Privacy requests (DSARs) for every site you run: triage, app look-ups, tasks an… |
-| 2026-11-02 05:56:03 | [io.github.CloudCorpRecords/fxrates](https://github.com/CloudCorpRecords/fxrates) |  | 0.1.0 | Frankfurter FX rates: currencies, latest and historical rates, and conversions,… |
-| 2026-11-02 06:01:24 | no.revly/revly | Revly | 1.0.0 | Les oppdragsstatus, vesentlighet og signering i Revly med personlig innlogging… |
-| 2026-11-02 06:04:04 | com.howdygo/mcp | HowdyGo | 0.1.0 | Find, edit, publish and export the interactive product demos in your HowdyGo li… |
-| 2026-11-02 06:04:07 | [io.github.sgInnora/noracu](https://github.com/sgInnora/noracu) |  | 0.1.2 | Local MCP server: macOS apps and a browser by element index, plus iPhone Mirror… |
-| 2026-11-02 06:04:28 | [io.github.CloudCorpRecords/chatport](https://github.com/CloudCorpRecords/chatport) |  | 0.1.0 | WhatsApp messaging via a GoWA REST service: send text, contacts, links, and loc… |
-| 2026-11-02 06:07:05 | org.ai-agent-engineering/articles | AI Agent Engineering | 1.0.0 | Search and read AI Agent Engineering articles on building, securing and running… |
-| 2026-11-02 06:08:32 | [net.useneedle/needle](https://github.com/useneedle-net/needle-mcp) | Needle | 1.0.0 | Find people asking for your product on Reddit, Hacker News and forums; triage a… |
-| 2026-11-02 06:10:42 | com.plagiarismcheckerplus/checker | Plagiarism Checker Plus | 1.0.0 | Check text for plagiarism with linked sources and for likely AI writing. |
-| 2026-11-02 06:15:19 | [io.github.CloudCorpRecords/tailnetport](https://github.com/CloudCorpRecords/tailnetport) |  | 0.1.0 | Tailscale tailnet admin via one router tool: devices, keys, ACL, DNS, and users. |
-| 2026-11-02 06:15:24 | com.shortsintel/shortsintel | ShortsIntel | 1.0.0 | Short-form video and ad intelligence for TikTok, Instagram Reels, YouTube Short… |
-| 2026-11-02 06:15:30 | [io.github.theluckystrike/mcpstamp-check](https://github.com/theluckystrike/mcpstamp-check) | McpStamp Check | 1.1.0 | Score any remote MCP server for Claude, ChatGPT, Gemini and MCP Registry readin… |
+| 2026-11-02 06:24:34 | com.angelscohq/agentdna | AgentDNA by ANGELS | 1.0.0 | Company catalogs for AI agents: products, prices, availability. Search, read, o… |
+| 2026-11-02 06:25:16 | [io.github.CloudCorpRecords/lancontrol](https://github.com/CloudCorpRecords/lancontrol) |  | 0.1.0 | UniFi controller: clients, devices, WLANs, health, alarms, events, sysinfo, ide… |
+| 2026-11-02 06:28:11 | com.edgarstack/edgarstack | EdgarStack | 1.0.0 | SEC EDGAR financials, ratios, peer comps, filing diffs and Excel models for any… |
+| 2026-11-02 06:32:32 | ai.agentgates/compute | Agentgates Compute | 1.0.0 | Confidential VMs (Intel TDX) by the hour, paid in USDC over x402: live plans, p… |
+| 2026-11-02 06:32:43 | com.bereishes/bereishes | Bereishes | 0.3.0 | Search and read classical Jewish texts: Tanach, Talmud, Midrash, halacha, and c… |
+| 2026-11-02 06:32:59 | [io.github.CloudCorpRecords/gamedb-port](https://github.com/CloudCorpRecords/gamedb-port) |  | 0.1.0 | IGDB game database: search games, game details, anticipated releases, and custo… |
+| 2026-11-02 06:39:09 | io.github.mojapiero/imprimeur-paris | imprimeur.paris | 1.0.0 | Independent directory of printers and copy shops in Paris: search, details, fil… |
+| 2026-11-02 06:40:23 | [io.github.CloudCorpRecords/visualdiff](https://github.com/CloudCorpRecords/visualdiff) |  | 0.1.0 | SnapDiff visual diffs: verify UI changes, compare pages, screenshots, HTML to i… |
+| 2026-11-02 06:41:26 | com.troimarket/troimarket | troimarket | 0.1.0 | Sell digital files on troimarket from your chat: draft and publish listings, ru… |
+| 2026-11-02 06:41:32 | [ai.motiblog/mcp](https://github.com/HoverNotes/motiblog) | MotiBlog | 0.7.1 | Agent-first SEO research and publishing: competitors, SERPs, internal links, an… |
+| 2026-11-02 06:43:21 | [io.github.aeither/flashcards](https://github.com/aeither/flashcards-mcp) | Flashcards by Fulin Labs | 6.7.0 | Learn vocabulary from daily life with flashcards, examples, pronunciation and s… |
+| 2026-11-02 06:44:03 | [io.github.CloudCorpRecords/loglens](https://github.com/CloudCorpRecords/loglens) |  | 0.1.0 | Homelab log investigation over local logs: tail, errors, search, timeline, cont… |
+| 2026-11-02 06:51:29 | com.hibonzai.mcp/bonzai | Bonzai SD | 1.0.0 | Finds what's broken in your product, explains why, and proposes fixes people ap… |
+| 2026-11-02 06:51:50 | [io.github.CloudCorpRecords/threatkb](https://github.com/CloudCorpRecords/threatkb) |  | 0.1.0 | Local MITRE ATT&CK queries: techniques, tactics, mitigations, and detections fr… |
+| 2026-11-02 06:58:34 | com.framepond/framepond | FramePond | 1.0.0 | Search bilingual image prompts; generate and download images with reference sup… |
+| 2026-11-02 06:59:17 | com.seoulstart/seoulstart | Seoulstart | 1.1.0 | Jobs for foreigners in Korea and median rent, jeonse and home prices from MOLIT… |
+| 2026-11-02 07:03:48 | com.landingonmadison/landing-company | The Landing Company of Madison Park | 1.0.0 | Seattle engineering consultancy: services, guides, FAQs, and requests for a fre… |
+| 2026-11-02 07:05:23 | [io.github.CloudCorpRecords/procureport](https://github.com/CloudCorpRecords/procureport) |  | 0.1.0 | Korean public procurement: bids, awards, contracts, statistics, products and ma… |
+| 2026-11-02 07:05:51 | [org.americandefault/research](https://github.com/vibecode1/american-default-mcp) | American Default Research | 1.1.1 | Read-only U.S. household-finance research: economic indicators, county scores,… |
+| 2026-11-02 07:09:41 | com.majlisdesk/whatsapp | MajlisDesk: WhatsApp shared inbox | 1.0.0 | Read and answer your team's WhatsApp and email inbox from Claude or ChatGPT. OA… |
+| 2026-11-02 07:09:48 | io.alura/mcp | Alura | 1.2.0 | Etsy research and shop tools for AI: products, shops, keywords, trends, your li… |
+| 2026-11-02 07:10:52 | [io.github.HasanGilani/knock](https://github.com/HasanGilani/knock) | knock | 0.1.1 | Code map and memory for AI coding agents: key functions, line ranges, callers,… |
+| 2026-11-02 07:12:22 | [io.github.CloudCorpRecords/scicompute](https://github.com/CloudCorpRecords/scicompute) |  | 0.1.0 | Scientific computation: named tensors, matrix algebra and vector operations, fu… |
+| 2026-11-02 07:12:40 | [io.github.awalhadi/gitpeak](https://github.com/awalhadi/gitpeak) | GitPeak | 4.1.12 | Git context for AI agents: status, staged diff, commit log, repo health, merge… |
+| 2026-11-02 07:14:04 | ai.relayz/relayz | Relayz | 1.0.0 | Notes your AI assistants share: dot, Muse, Grok Bot, Duet and more. Share them… |
+| 2026-11-02 07:14:42 | org.chappe/chappe | Chappe | 1.0.0 | Hand off the context of an AI conversation to another AI tool, or to someone el… |
 
 ## Data source
 
