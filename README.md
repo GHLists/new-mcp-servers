@@ -9,48 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 14:21 UTC
+## Latest list — 2026-11-02 15:19 UTC
 
-New MCP servers published between 2026-11-02 13:21 UTC and 2026-11-02 14:21 UTC.
+New MCP servers published between 2026-11-02 14:21 UTC and 2026-11-02 15:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-02T14-21-03-311157Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-02T15-19-36-08713Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-02 13:22:17 | [io.github.CloudCorpRecords/keywordminer](https://github.com/CloudCorpRecords/keywordminer) |  | 0.1.0 | Marketing Miner: keyword search volume, suggestions, and website traffic estima… |
-| 2026-11-02 13:25:41 | [io.github.mjaskolski/developer-toolkit-mcp](https://github.com/mjaskolski/developer-toolkit-mcp) | AI Developer Toolkit documentation | 1.0.1 | Search and read guides on Claude Code, Codex and Cursor, in English and Polish. |
-| 2026-11-02 13:26:07 | com.kidseventsthisweek/kids-events | KidsEventsThisWeek | 1.0.0 | Find kids and family events, story times and camps near any US city or ZIP |
-| 2026-11-02 13:26:52 | [io.github.bmachado86/tavernfinder](https://github.com/bmachado86/tavernfinder) | Tavern Finder | 1.1.0 | Find tabletop events, venues, and games. RSVP, register, create events via pers… |
-| 2026-11-02 13:29:36 | [ai.bobwork/emailwarmup](https://github.com/Agent-Operating-System/emailwarmup-mcp) |  | 1.0.0 | Warm up mailboxes, check the ready-for-outbound gate, run cold email and get ch… |
-| 2026-11-02 13:30:19 | [io.github.CloudCorpRecords/wattprice](https://github.com/CloudCorpRecords/wattprice) |  | 0.1.0 | Fetch PVPC electricity prices from Spain's ESIOS API by date range and area. |
-| 2026-11-02 13:32:30 | com.soniaia/creator-validator | Creator Validator by SoniaIA | 0.1.0 | Find and vet influencers before you hire: audience, buying intent, momentum. Or… |
-| 2026-11-02 13:32:59 | [com.faxend/faxend](https://github.com/ozentugberkcan/faxend-mcp) | Faxend | 1.0.0 | Send real faxes from AI assistants: PDF to any fax number, delivery status, pag… |
-| 2026-11-02 13:36:09 | [si.raywake/mcp](https://github.com/oguzhankayan/raywake-mcp) | Raywake | 0.1.0 | 500+ AI image, video and audio models with USD quotes and user-approved generat… |
-| 2026-11-02 13:38:03 | [io.github.CloudCorpRecords/buildtime](https://github.com/CloudCorpRecords/buildtime) |  | 0.1.0 | Build bottleneck profiler: slowest steps, run trend, and cache correlation acro… |
-| 2026-11-02 13:41:07 | app.tuper/agent-signups | Can my AI agent sign up? | 1.0.0 | Can an AI agent sign up to X? 58 services tested: Cloudflare, captcha, phone or… |
-| 2026-11-02 13:43:20 | [io.github.AlexReiner98/archipelago](https://github.com/AlexReiner98/archipelago) | Archipelago | 1.0.0 | A living map of all your work that keeps you, your team, and your agents on the… |
-| 2026-11-02 13:44:25 | [dev.fetchrouter/fetchrouter-mcp](https://github.com/JonnoGit/fetchrouter-mcp) | Fetch Router | 0.1.0 | Verified web fetch for agents: detects blocks and empty JS pages, falls back, b… |
-| 2026-11-02 13:45:35 | [io.github.CloudCorpRecords/layercheck](https://github.com/CloudCorpRecords/layercheck) |  | 0.1.0 | Dockerfile layer and waste analyzer: layer sizes biggest first, with determinis… |
-| 2026-11-02 13:47:19 | [io.github.Goatleaf12/fuin-oni](https://github.com/Goatleaf12/fuin-oni) |  | 1.0.0 | Read FUIN ONI state, grind PoW mint proofs, build unsigned mint calldata on BSC… |
-| 2026-11-02 13:48:04 | com.ppcmate/ppcmate | PPCmate | 1.0.0 | Manage PPCmate ad campaigns: stats, balance, spend health checks, pause and res… |
-| 2026-11-02 13:49:41 | com.spytay/spytay | Spytay | 1.0.0 | Read your Spytay reports: how often ChatGPT, Gemini, Claude and Grok name your… |
-| 2026-11-02 13:49:42 | com.rorvswild.www/mcp | RoRvsWild | 0.2.0 | Read-only RoRvsWild monitoring: requests, jobs, errors, deployments, and server… |
-| 2026-11-02 13:51:58 | app.chatseo/chatseo | ChatSEO | 1.0.0 | AI SEO agent on your Google Search Console data: audits, quick wins, content, W… |
-| 2026-11-02 13:54:26 | [io.github.CloudCorpRecords/termlog](https://github.com/CloudCorpRecords/termlog) |  | 0.1.0 | Turn a raw terminal session into clean, shareable Markdown, redacting secret pa… |
-| 2026-11-02 13:55:20 | es.soycasero/soycasero | Soycasero | 1.0.0 | Long-term rentals in Spain: upload the lease, get deadlines, IRAV/IPC rent upda… |
-| 2026-11-02 13:55:45 | [io.github.ThiagoJacobLannes/portugal-mcp](https://github.com/ThiagoJacobLannes/portugal-mcp) | Portugal (public data) | 0.1.0 | Portugal public data: IPMA weather, INE, Banco de Portugal, Parliament, contrac… |
-| 2026-11-02 13:57:58 | [io.github.THEROER/cursio](https://github.com/THEROER/cursio) | Cursio | 0.9.0 | Control trusted computers, apps, files, and developer tools across your Cursio… |
-| 2026-11-02 14:02:06 | [io.github.CloudCorpRecords/tagguard](https://github.com/CloudCorpRecords/tagguard) |  | 0.1.0 | Pre-release gate: block a release when git tag, package version, and changelog… |
-| 2026-11-02 14:05:15 | [io.github.dvirmimon123-tech/quartermaster](https://github.com/dvirmimon123-tech/quartermaster-mcp) | Quartermaster | 0.3.1 | Agent-only store: AI agents search, quote and buy travel eSIM data plans for th… |
-| 2026-11-02 14:07:33 | com.nodecraft/mcp | Nodecraft | 1.0.0 | Manage your Nodecraft game servers: start, stop, files, backups, console, playe… |
-| 2026-11-02 14:08:15 | com.guardcue/guardcue | GuardCue | 1.0.0 | Checks a site built with AI tools for security problems and gives the fix in pl… |
-| 2026-11-02 14:10:02 | [io.github.CloudCorpRecords/teamctx](https://github.com/CloudCorpRecords/teamctx) |  | 0.1.0 | Shared team context for ProductNow: search, read, write and organise workspace… |
-| 2026-11-02 14:13:49 | com.getdropagent/dropagent | DropAgent | 0.1.0 | Ringless voicemail and SMS follow-up for AI agents, with consent checks and con… |
-| 2026-11-02 14:15:19 | io.curatively/curatively | Curatively | 1.0.0 | Search, read and save to your private vault of images, links and notes. |
-| 2026-11-02 14:17:07 | app.nailme/nailme | NailMe – Book nail studios | 1.0.0 | Find nail studios near you, see services, prices and free times, and prepare a… |
-| 2026-11-02 14:17:36 | [io.github.CloudCorpRecords/agenttrio](https://github.com/CloudCorpRecords/agenttrio) |  | 0.1.0 | Bounded planner-coder-reviewer workflows: status, verified run, and configured… |
-| 2026-11-02 14:18:10 | com.microsoft/visio | Visio | 1.0.0-preview.58679… | Create, update, and read Microsoft Visio diagrams through desktop automation. |
-| 2026-11-02 14:20:00 | app.craftme/craftme | CraftMe – Book craftspeople | 1.0.0 | Find trade businesses near you, see services, prices and free times, and prepar… |
+| 2026-11-02 14:23:15 | [ai.bluebed.property/new-launches](https://github.com/danielkoh/property-bluebed-mcp) | Singapore new launches | 0.1.0 | Reviewed Singapore new-launch floor plans, area details and buyer rules. Trial. |
+| 2026-11-02 14:23:55 | uk.co.tarve/sponsorship-jobs | Tarve UK Sponsorship Jobs | 1.0.0 | UK sponsor licence checks, Skilled Worker going rates by SOC code and live visa… |
+| 2026-11-02 14:25:09 | [io.github.CloudCorpRecords/decisionscope](https://github.com/CloudCorpRecords/decisionscope) |  | 0.1.0 | Read-only decision record: query decisions, drain decision changes, verify toke… |
+| 2026-11-02 14:26:13 | com.vicecitymission/gta6 | Vice City Mission: GTA 6 | 1.0.0 | Free, unofficial GTA 6 server: release info, news, music, map pins, real-world… |
+| 2026-11-02 14:32:36 | [io.github.songiangvan40006-boop/ipo-radar](https://github.com/songiangvan40006-boop/ipo-radar-mcp) | IPO Radar — Indian IPO GMP | 1.0.0 | Live Indian IPO GMP, subscription status, upcoming IPOs and GMP-vs-listing accu… |
+| 2026-11-02 14:34:52 | [io.github.google/agentmesh](https://github.com/google/agentmesh) | Agent Mesh | 0.2.0 | Discover and call remote MCP tools as your own authenticated Agent Mesh member. |
+| 2026-11-02 14:42:07 | com.accessibilitybrief/mcp | AccessibilityBrief | 1.1.1 | Find WCAG 2.2 accessibility issues on your website, get the exact code fix, and… |
+| 2026-11-02 14:44:35 | [ai.simular/box](https://github.com/simular-ai/box-plugin) | box by Simular | 1.0.0 | A cloud Linux desktop for your AI: browse, click, type, read the screen and run… |
+| 2026-11-02 14:46:10 | [com.exactmelt/exactmelt-com](https://github.com/DmitryNeznanov/exactmelt-mcp) | ExactMelt | 3.0.0 | Metal and coin melt values |
+| 2026-11-02 14:51:21 | kz.ndbase/npa | NDBase: Laws of Kazakhstan | 1.0.0 | Search and read current Kazakhstan legislation: 7,400+ acts, exact article text… |
+| 2026-11-02 14:52:12 | [pro.snapex/pay](https://github.com/snapexpay/snapex-pay-mcp) | SnapEX Pay | 1.0.0 | Crypto payments for AI agents: self-serve account, invoices, receiving, payouts… |
+| 2026-11-02 14:54:26 | com.llamalogger/mcp | Llama Logger | 1.0.0 | Search, read and triage .NET exceptions and logs from Llama Logger in your AI c… |
+| 2026-11-02 14:58:31 | com.agenttv/arv | AgentTV ARV | 1.0.0 | Agent-Ready Video (ARV): search video moments, moment context, rights, and sign… |
+| 2026-11-02 14:58:45 | net.bigfloppy.cardmarket/cardmarket-mcp | cardmarket-mcp | 0.1.0 | Read-only BYO-key MTG/TCG pricing MCP with repricing suggestions. AI-authored. |
+| 2026-11-02 15:03:25 | [ai.wilm/wilma](https://github.com/aikarjal/wilmai) | WilmAI | 2.3.2 | Finland's Wilma school system for parents and students: schedule, homework, exa… |
+| 2026-11-02 15:03:30 | [io.github.CloudCorpRecords/enginedrift](https://github.com/CloudCorpRecords/enginedrift) |  | 0.1.0 | Detect Node engine drift across package.json, CI config, and Dockerfile before… |
+| 2026-11-02 15:04:26 | com.sparkonomy.creatorgraph/records | Open Creator Graph | 1.0.0 | Look up digital Creators: accounts, follower counts, topics, location and AI-us… |
+| 2026-11-02 15:04:27 | com.sparkonomy.creatorgraph/docs | Open Creator Graph docs | 1.0.0 | How the Open Creator Graph works: records, confidence labels, AI consent, remov… |
+| 2026-11-02 15:07:01 | [io.github.Omniwot/section-anything](https://github.com/Omniwot/section-anything) | Section Anything | 0.1.0 | A PDF's real sections for agents: heading tree, pages and section text. Free mo… |
+| 2026-11-02 15:09:49 | [com.elfsight/elfsight](https://github.com/elfsight/elfsight-mcp) | Elfsight | 1.0.0 | Manage Elfsight widgets: browse apps and projects, create, configure and publis… |
+| 2026-11-02 15:10:59 | [io.github.CloudCorpRecords/errorcatalog](https://github.com/CloudCorpRecords/errorcatalog) |  | 0.1.0 | Catalogue every error a codebase throws, and whether each message is documented. |
+| 2026-11-02 15:11:46 | [io.github.vwnb/safety-requirements-god](https://github.com/vwnb/safety-requirements-god) | WCGW Safety Suite - Functional Safety R… | 1.0.0 | Manage functional-safety requirements and lifecycle traceability. |
+| 2026-11-02 15:14:27 | com.publishmcp/publish-mcp |  | 0.1.0 | Let your AI agent publish to your own YouTube, Instagram, X, LinkedIn and more,… |
+| 2026-11-02 15:18:21 | com.carsalestax/car-sales-tax | U.S. Car Sales Tax | 0.1.0 | Car sales tax, title and registration fees: TX, CA, FL, NY, PA calculators and… |
+| 2026-11-02 15:19:00 | [io.github.CloudCorpRecords/importfix](https://github.com/CloudCorpRecords/importfix) |  | 0.1.0 | Detect circular imports, report the exact cycle per component, and suggest a br… |
 
 ## Data source
 

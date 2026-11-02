@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-11-02T14:23:15.916018Z,ai.bluebed.property/new-launches,Singapore new launches,0.1.0,https://github.com/danielkoh/property-bluebed-mcp,streamable-http,"Reviewed Singapore new-launch floor plans, area details and buyer rules. Trial."
+2026-11-02T14:23:55.288381Z,uk.co.tarve/sponsorship-jobs,Tarve UK Sponsorship Jobs,1.0.0,,streamable-http,"UK sponsor licence checks, Skilled Worker going rates by SOC code and live visa-sponsored jobs."
+2026-11-02T14:25:09.918527Z,io.github.CloudCorpRecords/decisionscope,,0.1.0,https://github.com/CloudCorpRecords/decisionscope,,"Read-only decision record: query decisions, drain decision changes, verify token."
+2026-11-02T14:26:13.207984Z,com.vicecitymission/gta6,Vice City Mission: GTA 6,1.0.0,,streamable-http,"Free, unofficial GTA 6 server: release info, news, music, map pins, real-world landmarks, checklist"
+2026-11-02T14:32:36.897105Z,io.github.songiangvan40006-boop/ipo-radar,IPO Radar — Indian IPO GMP,1.0.0,https://github.com/songiangvan40006-boop/ipo-radar-mcp,streamable-http,"Live Indian IPO GMP, subscription status, upcoming IPOs and GMP-vs-listing accuracy."
+2026-11-02T14:34:52.55624Z,io.github.google/agentmesh,Agent Mesh,0.2.0,https://github.com/google/agentmesh,,Discover and call remote MCP tools as your own authenticated Agent Mesh member.
+2026-11-02T14:42:07.20335Z,com.accessibilitybrief/mcp,AccessibilityBrief,1.1.1,,,"Find WCAG 2.2 accessibility issues on your website, get the exact code fix, and rescan to confirm."
+2026-11-02T14:44:35.542964Z,ai.simular/box,box by Simular,1.0.0,https://github.com/simular-ai/box-plugin,streamable-http,"A cloud Linux desktop for your AI: browse, click, type, read the screen and run commands."
+2026-11-02T14:46:10.176039Z,com.exactmelt/exactmelt-com,ExactMelt,3.0.0,https://github.com/DmitryNeznanov/exactmelt-mcp,streamable-http,Metal and coin melt values
+2026-11-02T14:51:21.140369Z,kz.ndbase/npa,NDBase: Laws of Kazakhstan,1.0.0,,streamable-http,"Search and read current Kazakhstan legislation: 7,400+ acts, exact article text, citations."
+2026-11-02T14:52:12.317668Z,pro.snapex/pay,SnapEX Pay,1.0.0,https://github.com/snapexpay/snapex-pay-mcp,streamable-http,"Crypto payments for AI agents: self-serve account, invoices, receiving, payouts, exchange."
+2026-11-02T14:54:26.531567Z,com.llamalogger/mcp,Llama Logger,1.0.0,,streamable-http,"Search, read and triage .NET exceptions and logs from Llama Logger in your AI coding agent."
+2026-11-02T14:58:31.577769Z,com.agenttv/arv,AgentTV ARV,1.0.0,,streamable-http,"Agent-Ready Video (ARV): search video moments, moment context, rights, and signed playback"
+2026-11-02T14:58:45.579596Z,net.bigfloppy.cardmarket/cardmarket-mcp,cardmarket-mcp,0.1.0,,streamable-http,Read-only BYO-key MTG/TCG pricing MCP with repricing suggestions. AI-authored.
+2026-11-02T15:03:25.446616Z,ai.wilm/wilma,WilmAI,2.3.2,https://github.com/aikarjal/wilmai,,"Finland's Wilma school system for parents and students: schedule, homework, exams and messages."
+2026-11-02T15:03:30.953482Z,io.github.CloudCorpRecords/enginedrift,,0.1.0,https://github.com/CloudCorpRecords/enginedrift,,"Detect Node engine drift across package.json, CI config, and Dockerfile before it breaks a build."
+2026-11-02T15:04:26.079625Z,com.sparkonomy.creatorgraph/records,Open Creator Graph,1.0.0,,streamable-http,"Look up digital Creators: accounts, follower counts, topics, location and AI-use terms."
+2026-11-02T15:04:27.049989Z,com.sparkonomy.creatorgraph/docs,Open Creator Graph docs,1.0.0,,streamable-http,"How the Open Creator Graph works: records, confidence labels, AI consent, removals, reuse."
+2026-11-02T15:07:01.798767Z,io.github.Omniwot/section-anything,Section Anything,0.1.0,https://github.com/Omniwot/section-anything,,"A PDF's real sections for agents: heading tree, pages and section text. Free mode is local."
+2026-11-02T15:09:49.586336Z,com.elfsight/elfsight,Elfsight,1.0.0,https://github.com/elfsight/elfsight-mcp,streamable-http,"Manage Elfsight widgets: browse apps and projects, create, configure and publish widgets."
+2026-11-02T15:10:59.333896Z,io.github.CloudCorpRecords/errorcatalog,,0.1.0,https://github.com/CloudCorpRecords/errorcatalog,,"Catalogue every error a codebase throws, and whether each message is documented."
+2026-11-02T15:11:46.443921Z,io.github.vwnb/safety-requirements-god,WCGW Safety Suite - Functional Safety Requirements and Traceability MCP Server,1.0.0,https://github.com/vwnb/safety-requirements-god,streamable-http,Manage functional-safety requirements and lifecycle traceability.
+2026-11-02T15:14:27.371208Z,com.publishmcp/publish-mcp,,0.1.0,,streamable-http,"Let your AI agent publish to your own YouTube, Instagram, X, LinkedIn and more, with a preview."
+2026-11-02T15:18:21.627388Z,com.carsalestax/car-sales-tax,U.S. Car Sales Tax,0.1.0,,,"Car sales tax, title and registration fees: TX, CA, FL, NY, PA calculators and all 50 state rates."
+2026-11-02T15:19:00.540948Z,io.github.CloudCorpRecords/importfix,,0.1.0,https://github.com/CloudCorpRecords/importfix,,"Detect circular imports, report the exact cycle per component, and suggest a break point."
