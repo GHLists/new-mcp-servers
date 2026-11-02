@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-11-02T05:24:01.75126Z,io.github.Oceanir/oceanir,Oceanir,0.1.0,https://github.com/Oceanir/oceanir-mcp,streamable-http,Locate photos from visual clues and assess location claims with candidates and uncertainty.
+2026-11-02T05:24:09.507427Z,com.adwhispr/adwhispr,,1.1.0,,streamable-http,"Manage and optimize your ads on Meta, Google, TikTok, X, ChatGPT Ads, Reddit and LinkedIn from chat."
+2026-11-02T05:25:07.877065Z,com.emergetimes/news,Emerge Times,1.0.0,,streamable-http,"News on AI agents, AGI, robotics and the agent economy. Read-only; articles CC BY 4.0."
+2026-11-02T05:37:18.008371Z,io.github.vacuityv/agenttown,Agent Town,1.0.0,https://github.com/vacuityv/agenttown,streamable-http,"Live, read-only window into Agent Town, where AI coding agents live: who's online, homes, talk."
+2026-11-02T05:40:49.462165Z,ai.dopamyn/dopamyn,Dopamyn,1.1.0,,streamable-http,"Crypto audience intelligence and DM outreach on X: find accounts, build lists, run DM campaigns."
+2026-11-02T05:41:19.819488Z,io.github.norcapp/norc-mcp,norc,0.3.1,https://github.com/norcapp/norc-mcp,streamable-http,"Manage cron jobs, machines and run history in your norc account from any AI chat."
+2026-11-02T05:41:36.946664Z,io.github.kriton-dev/image-background-remover,"Image Background Remover — Small U2NetP, PNG Base64",1.0.3,,streamable-http,Remove image backgrounds with U2NetP and return transparent PNG pixels without identifying metadata
+2026-11-02T05:41:47.805941Z,io.sparka/sparka,Sparka,0.1.0,,streamable-http,"Your AI sets up live quizzes, polls and word clouds. People join on their phones with a PIN or QR."
+2026-11-02T05:42:38.299285Z,fr.chateaudubu/chateau-du-bu,Château du Bû,1.1.0,,streamable-http,"Read-only hotel server: room availability and prices, hotel facts, public events. Normandy, France."
+2026-11-02T05:42:41.034951Z,io.github.kriton-dev/research-paper-search,"Research Paper Search — OpenAlex Titles, DOIs & Citations",1.0.3,,streamable-http,"Search OpenAlex for paper titles, DOIs, years, citation counts and open-access flags"
+2026-11-02T05:43:23.62005Z,io.github.kriton-dev/text-to-speech,"Text to Speech — Generic Formant WAV, English/German/Spanish",1.0.3,,streamable-http,"Synthesize short texts into WAV audio using offline formant voices in English, German and Spanish"
+2026-11-02T05:43:44.99245Z,io.github.kriton-dev/website-color-palette,"Website Color Palette — Static CSS Literals, Alpha & Counts",1.0.3,,streamable-http,Extract declared website CSS color literals and counts without a browser or page text
+2026-11-02T05:43:55.565995Z,io.github.kriton-dev/website-icon-manifest,"Favicon Extractor — Declared Icons, Manifests & Theme Colors",1.0.5,,streamable-http,"Find declared favicons, touch icons, manifest links and theme colors on public website pages."
+2026-11-02T05:46:52.144962Z,com.mouseedge/mouseedge-skipper,,2.5.0,https://github.com/csbenson001/disney-alerts-web,streamable-http; streamable-http,"Live Disney World & Disneyland wait times, dining drop alerts & Lightning Lane auto-booker."
+2026-11-02T05:50:25.457612Z,com.setlatch/setlatch,SetLatch,1.2.0,,streamable-http,"Privacy requests (DSARs) for every site you run: triage, app look-ups, tasks and the audit trail."
+2026-11-02T05:56:03.544919Z,io.github.CloudCorpRecords/fxrates,,0.1.0,https://github.com/CloudCorpRecords/fxrates,,"Frankfurter FX rates: currencies, latest and historical rates, and conversions, keyless."
+2026-11-02T06:01:24.290412Z,no.revly/revly,Revly,1.0.0,,streamable-http,"Les oppdragsstatus, vesentlighet og signering i Revly med personlig innlogging og samtykke."
+2026-11-02T06:04:04.389084Z,com.howdygo/mcp,HowdyGo,0.1.0,,streamable-http,"Find, edit, publish and export the interactive product demos in your HowdyGo library."
+2026-11-02T06:04:07.847152Z,io.github.sgInnora/noracu,,0.1.2,https://github.com/sgInnora/noracu,,"Local MCP server: macOS apps and a browser by element index, plus iPhone Mirroring (experimental)."
+2026-11-02T06:04:28.572991Z,io.github.CloudCorpRecords/chatport,,0.1.0,https://github.com/CloudCorpRecords/chatport,,"WhatsApp messaging via a GoWA REST service: send text, contacts, links, and locations."
+2026-11-02T06:07:05.481881Z,org.ai-agent-engineering/articles,AI Agent Engineering,1.0.0,,sse,"Search and read AI Agent Engineering articles on building, securing and running AI agents."
+2026-11-02T06:08:32.951056Z,net.useneedle/needle,Needle,1.0.0,https://github.com/useneedle-net/needle-mcp,streamable-http,"Find people asking for your product on Reddit, Hacker News and forums; triage and draft replies."
+2026-11-02T06:10:42.418257Z,com.plagiarismcheckerplus/checker,Plagiarism Checker Plus,1.0.0,,streamable-http,Check text for plagiarism with linked sources and for likely AI writing.
+2026-11-02T06:15:19.796075Z,io.github.CloudCorpRecords/tailnetport,,0.1.0,https://github.com/CloudCorpRecords/tailnetport,,"Tailscale tailnet admin via one router tool: devices, keys, ACL, DNS, and users."
+2026-11-02T06:15:24.147253Z,com.shortsintel/shortsintel,ShortsIntel,1.0.0,,streamable-http,"Short-form video and ad intelligence for TikTok, Instagram Reels, YouTube Shorts and Meta ads."
+2026-11-02T06:15:30.639187Z,io.github.theluckystrike/mcpstamp-check,McpStamp Check,1.1.0,https://github.com/theluckystrike/mcpstamp-check,streamable-http,"Score any remote MCP server for Claude, ChatGPT, Gemini and MCP Registry readiness."
