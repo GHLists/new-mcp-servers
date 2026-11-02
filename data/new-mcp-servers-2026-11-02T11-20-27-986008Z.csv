@@ -1,0 +1,35 @@
+created_at,server,title,version,repository,transports,description
+2026-11-02T10:20:22.499438Z,io.github.eskygroup/esky-holidays,eSky holidays,1.0.0,,streamable-http,"Search eSky holiday packages (flight + hotel), destination ideas and regions, with a booking link."
+2026-11-02T10:20:22.87587Z,io.github.eskygroup/thomascook-holidays,Thomas Cook holidays,1.0.0,,streamable-http,"Search Thomas Cook UK holiday packages (flight + hotel) and destination ideas, with a booking link."
+2026-11-02T10:20:38.579931Z,com.navifyai/ai-tools,NavifyAI – AI tools directory,1.0.0,,streamable-http,"Find AI tools by task, the most popular AI tools per category, and alternatives to a tool."
+2026-11-02T10:23:56.182584Z,io.usefulapi/fiken,Fiken MCP by usefulapi,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Read invoices, bills, contacts, ledger and bank balances; create drafts and contacts in Fiken."
+2026-11-02T10:24:11.03032Z,io.github.CloudCorpRecords/datawatch,,0.1.0,https://github.com/CloudCorpRecords/datawatch,,"Data observability: alerts, freshness checks and schema drift for your data assets."
+2026-11-02T10:25:46.711929Z,com.iopins/context,iopins,1.2.0,,streamable-http,"Context from your iopins life planner, plus suggestions you approve or reject in iopins."
+2026-11-02T10:27:51.335918Z,co.paperjoy/paperjoy,Paperjoy,1.2.0,,streamable-http,"Send real handwritten postcards, written by robot pen and mailed in envelopes. Poland only."
+2026-11-02T10:30:46.127832Z,com.kema-studio/invoice,Kema Invoice,1.1.0,https://github.com/Kema-Studio/kema-invoice-mcp,streamable-http,"Compliant invoicing for freelancers: create, issue and track invoices from your AI agent."
+2026-11-02T10:31:39.120261Z,io.github.CloudCorpRecords/sociallens,,0.1.0,https://github.com/CloudCorpRecords/sociallens,,"Rolli IQ social search and analytics: keyword, user and expert searches, agents, usage."
+2026-11-02T10:35:04.824777Z,com.zebrabi/zebra-bi,Zebra BI,1.0.0,https://github.com/zebrabi/zebra-bi,streamable-http,Draw business data as interactive IBCS-style Zebra BI charts and tables.
+2026-11-02T10:36:21.27134Z,br.com.drmaisvida/dr-mais-vida,Dr. Mais Vida,1.0.0,,streamable-http,"Explica exames de sangue em português: artigos, faixa do laudo e diretrizes médicas com fonte."
+2026-11-02T10:37:28.003366Z,com.holos33/holos33,Holos33,1.0.0,,streamable-http,"Read-only facts on Holos33, an EU privacy-first wellbeing platform: modules, Early Access, privacy."
+2026-11-02T10:38:15.761599Z,com.textforagents/llm-bridge-stack,"The Bridge Stack — one stack, every LLM linked",1.0.0,,streamable-http,"OpenAI-compatible BYOK LLM gateway: per-task routing, shadow evaluation, promotion gates."
+2026-11-02T10:39:28.211151Z,io.github.CloudCorpRecords/stayport,,0.1.0,https://github.com/CloudCorpRecords/stayport,,"Hostex PMS via MCP: properties, reservations, availability, messages, reviews, and webhooks."
+2026-11-02T10:42:32.05782Z,io.github.GeneralBerrys/berrys-canvas,Berrys AI,0.3.0,,streamable-http,"Your agent turns product photos into on-brand listing images, ads, and short videos on one canvas."
+2026-11-02T10:42:48.522788Z,com.themachinerentalscam/rental-quotes,TMRS Rental Quotes,1.0.0,,streamable-http,"Rent AMS access platforms in Berlin/Brandenburg: catalog, prices and PDF quotes."
+2026-11-02T10:43:32.419359Z,io.github.SamYatesSmith/tru8,Tru8 Evidence Research,1.0.6,https://github.com/SamYatesSmith/Tru8,streamable-http,Source-traced evidence research for AI agents. We organise the evidence; you decide.
+2026-11-02T10:46:08.156884Z,com.tidymcp/israel-customs-duty,Israel Customs Duty,1.0.0,,streamable-http,"Israeli customs duty by tariff code and origin, cited to the gazette. Pay per call via x402."
+2026-11-02T10:46:43.139949Z,io.github.CloudCorpRecords/citesearch,,0.1.0,https://github.com/CloudCorpRecords/citesearch,,"Search, read and trace links across the Edgepedia encyclopedia corpus."
+2026-11-02T10:46:47.927644Z,io.github.TestOptim-AI/testoptim,TestOptim,1.0.0,https://github.com/TestOptim-AI/testoptim-mcp,streamable-http,"Run AI QA test runs on your web app and read the bugs they find, with steps to reproduce."
+2026-11-02T10:48:43.106927Z,io.forthcast/inventory,Forthcast Inventory,1.0.0,,streamable-http,"Demand forecasts, reorder points, order quantities and inventory health for Shopify stores."
+2026-11-02T10:52:31.63698Z,io.github.reviso-si/reviso,Reviso,1.0.0,,streamable-http,Publish agent output for human review; collect comments; agents read them back in-session.
+2026-11-02T10:52:52.080024Z,org.druxtjs/docs,Druxt docs,1.0.0,https://github.com/druxt/druxtjs.org,streamable-http,Search and read the Druxt documentation and API reference.
+2026-11-02T10:53:13.414534Z,com.turbomaxai/mcp,TurboMax AI,1.0.0,,streamable-http,"Generate AI video, images and music, chat with LLMs, and manage a prepaid credits wallet."
+2026-11-02T10:54:56.103227Z,io.github.CloudCorpRecords/hangulport,,0.1.0,https://github.com/CloudCorpRecords/hangulport,,"Korean NLP via Bareun: morphology, dictionary search, tokenize, and grammar correction."
+2026-11-02T11:02:29.183523Z,com.goodnaturevibe/commerce,Good Nature Vibe,0.2.0,,streamable-http,"Good Nature Vibe shop for AI agents: catalog, cart, iDEAL checkout. Merchant-issued agents only."
+2026-11-02T11:02:39.162757Z,io.github.CloudCorpRecords/coinintel,,0.1.0,https://github.com/CloudCorpRecords/coinintel,,"Crypto market intelligence: prices, sentiment, risk, narratives, funding and signals."
+2026-11-02T11:03:03.662343Z,io.github.monolithiclab/gomddoc,gomddoc,0.5.0,https://github.com/monolithiclab/gomddoc,,"Search and read a Markdown documentation directory: pages, sections, table of contents."
+2026-11-02T11:04:03.64073Z,dev.statelode/statelode,StateLode,0.1.9,https://github.com/Statelode/statelode-bridge,streamable-http,"Shared task layer for AI coding agents. One MCP surface: task_search, task_get, task_mutate."
+2026-11-02T11:04:54.318348Z,com.afterns/earnings,afterns,1.0.0,,streamable-http,"US stock earnings: next-day price reactions, beat/miss history, calendar, call summaries (KO/EN)"
+2026-11-02T11:10:38.507342Z,io.github.hongfeng328/fileforge,FileForge,0.3.0,https://github.com/hongfeng328/fileforge,streamable-http,"File tools for your AI chat: PDF tables to Excel, merge PDFs, images to PDF, fill PDF forms."
+2026-11-02T11:19:27.217385Z,io.github.karljsamuel/mcp-ecc,,0.8.0,https://github.com/karljsamuel/mcp-ecc,,"Unified MCP server for Email, Calendar & Contacts (Google, M365, Zoho, IMAP/SMTP, DAV)."
+2026-11-02T11:19:28.228109Z,app.cooknest/cooknest,CookNest,2.9.0,,streamable-http,"Your CookNest recipes in AI chat: find, save and import recipes, plan meals, build shopping lists."
+2026-11-02T11:19:36.883927Z,com.useears/ears,Ears: Audio & Video Transcription,0.1.0,,streamable-http,Transcribe audio and video from a link or local file into text and SRT subtitles. Pay-as-you-go.

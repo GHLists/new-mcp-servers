@@ -9,40 +9,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 10:20 UTC
+## Latest list — 2026-11-02 11:20 UTC
 
-New MCP servers published between 2026-11-02 09:21 UTC and 2026-11-02 10:20 UTC.
+New MCP servers published between 2026-11-02 10:20 UTC and 2026-11-02 11:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-02T10-20-08-871975Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-02T11-20-27-986008Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-02 09:26:26 | com.raploom/raploom | Raploom | 1.0.0 | Write 4-line rap lyrics and order 12-second AI rap videos of original character… |
-| 2026-11-02 09:26:38 | [io.github.boy-373/mycel-mcp-example](https://github.com/boy-373/mycel-mcp-example) | Mycel Agent Hire MCP | 1.0.0 | Discover and hire AI agents on the Mycel network via MCP. Free discovery, 1 cre… |
-| 2026-11-02 09:27:46 | [io.github.schnueck/bring-photo-mcp](https://github.com/schnueck/bring-photo-mcp) |  | 1.0.3 | Add products to Bring! from a photo — MCP for AI recognition, catalog matching,… |
-| 2026-11-02 09:28:17 | [io.github.sightradar-hq/sightradar-mcp](https://github.com/sightradar-hq/sightradar-mcp) | SightRadar | 0.1.0 | Face recognition: index photos, find a person's photos from a selfie, batches,… |
-| 2026-11-02 09:28:20 | [ch.getsharepa/sharepa](https://github.com/kirnski/sharepa-mcp) | sharepa | 1.1.0 | Put chat-built pages online with your own address, forms, calendar bookings, pa… |
-| 2026-11-02 09:30:25 | [io.github.CloudCorpRecords/pushnote](https://github.com/CloudCorpRecords/pushnote) |  | 0.1.0 | Gotify push notifications: send, read messages, manage apps and clients, one ro… |
-| 2026-11-02 09:34:22 | [io.github.sinemortal/vivado-red-mcp](https://github.com/sinemortal/vivado-red-mcp) | Vivado Red MCP | 0.5.0 | Drive AMD Vivado from AI assistants, with Red Pitaya STEMlab 125-14 build and d… |
-| 2026-11-02 09:37:48 | [io.github.CloudCorpRecords/taskpilot](https://github.com/CloudCorpRecords/taskpilot) |  | 0.1.0 | Task and project management for AI coding agents: tasks, prompts, projects, nex… |
-| 2026-11-02 09:39:28 | [io.github.Lokendrakushwah12/engg-space](https://github.com/lokendrakushwah12/engg.space) | Engg.space jobs | 1.0.0 | Search open engineering jobs at funded startups and AI labs, from company caree… |
-| 2026-11-02 09:44:38 | coach.7running/plan | 7Running | 1.0.0 | Build or change your 7Running running plan by talking to your AI assistant. Roa… |
-| 2026-11-02 09:45:30 | app.neverblank/neverblank | NeverBlank | 1.0.0 | Rehearse hard conversations: lessons, XP drills and practice opponents built fr… |
-| 2026-11-02 09:45:36 | [io.github.CloudCorpRecords/legislens](https://github.com/CloudCorpRecords/legislens) |  | 0.1.0 | US state bills and hearing transcripts: search bills, testimony, speakers, hear… |
-| 2026-11-02 09:45:38 | [com.readingrate/readingrate](https://github.com/simonsbookclub/readingrate-plugin) | ReadingRate | 1.0.1 | Book difficulty, reading times and ranked lists, plus your reading log, quotes… |
-| 2026-11-02 09:47:16 | [io.github.nifrajs/nifra-docs](https://github.com/nifrajs/nifra) | Nifra docs | 5.11.0 | Nifra docs, runnable examples, and API types as an MCP server for any AI assist… |
-| 2026-11-02 09:51:47 | [io.github.zenml-io/mcp-zenml](https://github.com/zenml-io/mcp-zenml) |  | 2.1.0 | MCP server for discovering, reading, and changing ZenML resources with compact… |
-| 2026-11-02 09:52:58 | [io.github.CloudCorpRecords/dnsprobe](https://github.com/CloudCorpRecords/dnsprobe) |  | 0.1.0 | DNS and email-security diagnostics via the keyless intodns.ai API: scans, SPF,… |
-| 2026-11-02 10:00:11 | [io.github.allooloo/gettargetmarket](https://github.com/allooloo/cm-kg) | gettargetmarket: the Target Market door | 0.1.0 | Target market statements by ISIN: filed by the manufacturer, signed, receipted… |
-| 2026-11-02 10:00:26 | [com.keepmacawake/mcp](https://github.com/bartdudzic/keepmacawake) | Keep Mac Awake | 1.0.0 | Keep a MacBook awake with the lid closed while an agent's long task runs (Keep… |
-| 2026-11-02 10:00:29 | [io.github.CloudCorpRecords/specforge](https://github.com/CloudCorpRecords/specforge) |  | 0.1.0 | Spec-driven development locally: specs, constitutions, plans, tasks, git and qu… |
-| 2026-11-02 10:08:00 | [io.github.CloudCorpRecords/policyrecall](https://github.com/CloudCorpRecords/policyrecall) |  | 0.1.0 | Policy-verified recall and calibration for tool calls via signed operational me… |
-| 2026-11-02 10:08:23 | com.leadmarmot/leads |  | 1.0.0 | Companies that just raised or launched, what they need most, the opener and con… |
-| 2026-11-02 10:11:36 | ai.pensero/pensero | Pensero | 1.0.0 | Engineering metrics from Pensero: delivery, quality, AI usage and cost, Signals… |
-| 2026-11-02 10:11:36 | ai.pensero/pensero-eu | Pensero (EU) | 1.0.0 | Engineering metrics from Pensero: delivery, quality, AI usage and cost, Signals… |
-| 2026-11-02 10:13:42 | com.sienasociety/siena | Siena Society | 1.0.0 | Find Siena friendship dinners in London: upcoming Thursdays, how it works, and… |
-| 2026-11-02 10:16:07 | [io.github.CloudCorpRecords/agentcomms](https://github.com/CloudCorpRecords/agentcomms) |  | 0.1.0 | Agent email, agent-to-agent messaging, and cloud file storage for AI agents. |
-| 2026-11-02 10:17:45 | com.yutai/mcp | Yutai | 1.0.0 | Holder benefits for tokenized stocks: registry, chains, tokenizers and benefit… |
+| 2026-11-02 10:20:22 | io.github.eskygroup/esky-holidays | eSky holidays | 1.0.0 | Search eSky holiday packages (flight + hotel), destination ideas and regions, w… |
+| 2026-11-02 10:20:22 | io.github.eskygroup/thomascook-holidays | Thomas Cook holidays | 1.0.0 | Search Thomas Cook UK holiday packages (flight + hotel) and destination ideas,… |
+| 2026-11-02 10:20:38 | com.navifyai/ai-tools | NavifyAI – AI tools directory | 1.0.0 | Find AI tools by task, the most popular AI tools per category, and alternatives… |
+| 2026-11-02 10:23:56 | [io.usefulapi/fiken](https://github.com/m190/usefulapi-mcp) | Fiken MCP by usefulapi | 1.0.1 | Read invoices, bills, contacts, ledger and bank balances; create drafts and con… |
+| 2026-11-02 10:24:11 | [io.github.CloudCorpRecords/datawatch](https://github.com/CloudCorpRecords/datawatch) |  | 0.1.0 | Data observability: alerts, freshness checks and schema drift for your data ass… |
+| 2026-11-02 10:25:46 | com.iopins/context | iopins | 1.2.0 | Context from your iopins life planner, plus suggestions you approve or reject i… |
+| 2026-11-02 10:27:51 | co.paperjoy/paperjoy | Paperjoy | 1.2.0 | Send real handwritten postcards, written by robot pen and mailed in envelopes.… |
+| 2026-11-02 10:30:46 | [com.kema-studio/invoice](https://github.com/Kema-Studio/kema-invoice-mcp) | Kema Invoice | 1.1.0 | Compliant invoicing for freelancers: create, issue and track invoices from your… |
+| 2026-11-02 10:31:39 | [io.github.CloudCorpRecords/sociallens](https://github.com/CloudCorpRecords/sociallens) |  | 0.1.0 | Rolli IQ social search and analytics: keyword, user and expert searches, agents… |
+| 2026-11-02 10:35:04 | [com.zebrabi/zebra-bi](https://github.com/zebrabi/zebra-bi) | Zebra BI | 1.0.0 | Draw business data as interactive IBCS-style Zebra BI charts and tables. |
+| 2026-11-02 10:36:21 | br.com.drmaisvida/dr-mais-vida | Dr. Mais Vida | 1.0.0 | Explica exames de sangue em português: artigos, faixa do laudo e diretrizes méd… |
+| 2026-11-02 10:37:28 | com.holos33/holos33 | Holos33 | 1.0.0 | Read-only facts on Holos33, an EU privacy-first wellbeing platform: modules, Ea… |
+| 2026-11-02 10:38:15 | com.textforagents/llm-bridge-stack | The Bridge Stack — one stack, every LLM… | 1.0.0 | OpenAI-compatible BYOK LLM gateway: per-task routing, shadow evaluation, promot… |
+| 2026-11-02 10:39:28 | [io.github.CloudCorpRecords/stayport](https://github.com/CloudCorpRecords/stayport) |  | 0.1.0 | Hostex PMS via MCP: properties, reservations, availability, messages, reviews,… |
+| 2026-11-02 10:42:32 | io.github.GeneralBerrys/berrys-canvas | Berrys AI | 0.3.0 | Your agent turns product photos into on-brand listing images, ads, and short vi… |
+| 2026-11-02 10:42:48 | com.themachinerentalscam/rental-quotes | TMRS Rental Quotes | 1.0.0 | Rent AMS access platforms in Berlin/Brandenburg: catalog, prices and PDF quotes. |
+| 2026-11-02 10:43:32 | [io.github.SamYatesSmith/tru8](https://github.com/SamYatesSmith/Tru8) | Tru8 Evidence Research | 1.0.6 | Source-traced evidence research for AI agents. We organise the evidence; you de… |
+| 2026-11-02 10:46:08 | com.tidymcp/israel-customs-duty | Israel Customs Duty | 1.0.0 | Israeli customs duty by tariff code and origin, cited to the gazette. Pay per c… |
+| 2026-11-02 10:46:43 | [io.github.CloudCorpRecords/citesearch](https://github.com/CloudCorpRecords/citesearch) |  | 0.1.0 | Search, read and trace links across the Edgepedia encyclopedia corpus. |
+| 2026-11-02 10:46:47 | [io.github.TestOptim-AI/testoptim](https://github.com/TestOptim-AI/testoptim-mcp) | TestOptim | 1.0.0 | Run AI QA test runs on your web app and read the bugs they find, with steps to… |
+| 2026-11-02 10:48:43 | io.forthcast/inventory | Forthcast Inventory | 1.0.0 | Demand forecasts, reorder points, order quantities and inventory health for Sho… |
+| 2026-11-02 10:52:31 | io.github.reviso-si/reviso | Reviso | 1.0.0 | Publish agent output for human review; collect comments; agents read them back… |
+| 2026-11-02 10:52:52 | [org.druxtjs/docs](https://github.com/druxt/druxtjs.org) | Druxt docs | 1.0.0 | Search and read the Druxt documentation and API reference. |
+| 2026-11-02 10:53:13 | com.turbomaxai/mcp | TurboMax AI | 1.0.0 | Generate AI video, images and music, chat with LLMs, and manage a prepaid credi… |
+| 2026-11-02 10:54:56 | [io.github.CloudCorpRecords/hangulport](https://github.com/CloudCorpRecords/hangulport) |  | 0.1.0 | Korean NLP via Bareun: morphology, dictionary search, tokenize, and grammar cor… |
+| 2026-11-02 11:02:29 | com.goodnaturevibe/commerce | Good Nature Vibe | 0.2.0 | Good Nature Vibe shop for AI agents: catalog, cart, iDEAL checkout. Merchant-is… |
+| 2026-11-02 11:02:39 | [io.github.CloudCorpRecords/coinintel](https://github.com/CloudCorpRecords/coinintel) |  | 0.1.0 | Crypto market intelligence: prices, sentiment, risk, narratives, funding and si… |
+| 2026-11-02 11:03:03 | [io.github.monolithiclab/gomddoc](https://github.com/monolithiclab/gomddoc) | gomddoc | 0.5.0 | Search and read a Markdown documentation directory: pages, sections, table of c… |
+| 2026-11-02 11:04:03 | [dev.statelode/statelode](https://github.com/Statelode/statelode-bridge) | StateLode | 0.1.9 | Shared task layer for AI coding agents. One MCP surface: task_search, task_get,… |
+| 2026-11-02 11:04:54 | com.afterns/earnings | afterns | 1.0.0 | US stock earnings: next-day price reactions, beat/miss history, calendar, call… |
+| 2026-11-02 11:10:38 | [io.github.hongfeng328/fileforge](https://github.com/hongfeng328/fileforge) | FileForge | 0.3.0 | File tools for your AI chat: PDF tables to Excel, merge PDFs, images to PDF, fi… |
+| 2026-11-02 11:19:27 | [io.github.karljsamuel/mcp-ecc](https://github.com/karljsamuel/mcp-ecc) |  | 0.8.0 | Unified MCP server for Email, Calendar & Contacts (Google, M365, Zoho, IMAP/SMT… |
+| 2026-11-02 11:19:28 | app.cooknest/cooknest | CookNest | 2.9.0 | Your CookNest recipes in AI chat: find, save and import recipes, plan meals, bu… |
+| 2026-11-02 11:19:36 | com.useears/ears | Ears: Audio & Video Transcription | 0.1.0 | Transcribe audio and video from a link or local file into text and SRT subtitle… |
 
 ## Data source
 
