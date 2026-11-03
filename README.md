@@ -9,55 +9,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 13:19 UTC
+## Latest list — 2026-11-03 14:19 UTC
 
-New MCP servers published between 2026-11-03 12:20 UTC and 2026-11-03 13:19 UTC.
+New MCP servers published between 2026-11-03 13:19 UTC and 2026-11-03 14:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-03T13-19-28-66987Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-03T14-19-12-3783Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-03 12:21:44 | com.tradingcalendars/holidays | TradingCalendars | 1.0.0 | FX, bank, payment-system and exchange holidays, settlement days, and live marke… |
-| 2026-11-03 12:22:07 | dev.moneytools/pay-precheck | MoneyTools x402 agent toolkit | 2.3.0 | x402 tools: service finder, payment precheck/verify, Solana mint check, web-to-… |
-| 2026-11-03 12:22:59 | dev.carimage/catalog | Car Image API catalog | 1.38.1 | Free vehicle lookups, image options, pricing and stored car image previews. No… |
-| 2026-11-03 12:23:01 | dev.carimage/car-image | Car Image API | 1.38.1 | Studio-quality images and 3D models of any real car, 1990-2027, by make, model,… |
-| 2026-11-03 12:23:02 | dev.geocodeai/geocode | Geocode AI | 1.0.0 | Administrative boundaries for every place on Earth: search, reverse lookup, pol… |
-| 2026-11-03 12:23:02 | dev.getglossa/glossa | Glossa | 0.1.0 | AI-native translation management: push translation files, translate, review and… |
-| 2026-11-03 12:23:02 | dev.skillhook/cloud | Skillhook Cloud | 0.3.0 | Operate skillhook machines: webhook-triggered Agent Skill jobs, deliveries, ale… |
-| 2026-11-03 12:23:03 | dev.getwabi/wabi | Wabi | 0.1.0 | WhatsApp Business on Meta's Cloud API: team inbox, templates, AI support agents… |
-| 2026-11-03 12:23:10 | de.firmium/firmium | Firmium | 1.0.0 | European company, sales and visitor intelligence: profiles, financials, prospec… |
-| 2026-11-03 12:24:07 | [io.github.pressbridgesupport/pressbridge](https://github.com/pressbridgesupport/pressbridge) | PressBridge | 1.1.0 | Safe, audited Claude access to WordPress sites: secrets hidden, backups, undo,… |
-| 2026-11-03 12:25:51 | [io.github.CloudCorpRecords/scentindex](https://github.com/CloudCorpRecords/scentindex) |  | 0.1.0 | Search a fragrance index: perfumes, notes, houses and guides; similar scents an… |
-| 2026-11-03 12:27:12 | io.getsendable/sendable | Sendable | 1.0.0 | Find LinkedIn prospects with buying intent and run Sendable campaigns, leads an… |
-| 2026-11-03 12:27:39 | com.mailazy/mcp | Mailazy | 1.0.0 | Run email marketing from your AI assistant: contacts, newsletters, automations,… |
-| 2026-11-03 12:32:18 | [io.github.oktopeak/clio-mcp](https://github.com/oktopeak/clio-mcp) |  | 2.5.0 | Connect Claude to Clio (37 tools), and export a whole Clio account, documents i… |
-| 2026-11-03 12:33:53 | com.rivalyse/rivalyse | Rivalyse | 2.7.2 | Read-only access to your Rivalyse price monitoring: competitor price gaps, aler… |
-| 2026-11-03 12:39:04 | [io.github.KI-Klub-Werder-e-V/openverein](https://github.com/KI-Klub-Werder-e-V/openverein) | OpenVerein | 0.1.0 | Club management for German e.V. clubs: members, fees, invoices, events and memb… |
-| 2026-11-03 12:43:50 | com.viasocket/mcp | viaSocket | 1.0.0 | Build and run automations across 2,300+ apps and build app integrations from an… |
-| 2026-11-03 12:44:12 | ai.guestlogic/guest-logic | Guest Logic | 1.0.0 | Hotel PMS: set up your property from your assistant, then read stays, rooms and… |
-| 2026-11-03 12:49:13 | com.ovimore/ovimore | Ovimore | 1.0.0 | Your hotel's numbers in Claude: occupancy, pace, pickup, mix, rates and reviews… |
-| 2026-11-03 12:49:41 | [io.github.malikabyl/proven](https://github.com/malikabyl/proven) | Proven | 0.1.0 | Judge AI-written Python: no invented packages or calls, no facts from memory, v… |
-| 2026-11-03 12:50:42 | [ai.qompass/vongola](https://github.com/qompassai/vongola) | Vongola | 0.2.0 | Read-only operator instrumentation for the vongola TLS gateway. |
-| 2026-11-03 12:52:53 | bot.tab.sites.backroom/backroom | The Back Room | 1.5.0 | THE nightclub for agents: confidential encrypted mailboxes, a family where agen… |
-| 2026-11-03 12:53:49 | [io.github.andy-chak/vendorindex](https://github.com/andy-chak/vendorindex) | VendorIndex | 0.1.0 | Rank vendors/libraries per use case from verified pricing, agent-friction and h… |
-| 2026-11-03 12:54:59 | com.pointrover/pointrover | PointRover | 2026.10.31 | Input prices, duties, rules and local market for a small business's AI, every f… |
-| 2026-11-03 12:55:17 | [com.aitourl/aitourl](https://github.com/aitourl/aitourl-mcp) | AIToURL | 1.0.0 | Your AI makes the file, you get a public link. Host PDFs, images and files from… |
-| 2026-11-03 12:56:08 | com.lotsagent/lotsagent | LotsAgent | 1.0.0 | Put a real AI agent to work today, built from your knowledge, your skills and y… |
-| 2026-11-03 12:59:41 | com.nafafy/storefront | Nafafy Storefront | 1.0.0 | Search the public Nafafy catalog and create firm checkout quotes. |
-| 2026-11-03 12:59:43 | com.nafafy/merchant | Nafafy Merchant | 1.0.0 | Authenticated MCP for Nafafy merchants: stories, products, schedules. |
-| 2026-11-03 12:59:45 | [ai.usestring/web-access](https://github.com/usestring/string-ai-mcp) | String Web Access | 1.3.8 | Search the web, fetch any URL and map a site as clean, LLM-ready Markdown. |
-| 2026-11-03 13:01:13 | finance.spectra/mcp | Spectra | 0.1.0 | Live Spectra fixed-rate yields, PT/YT markets, MetaVaults and portfolios across… |
-| 2026-11-03 13:03:34 | [io.github.CloudCorpRecords/fedvendor](https://github.com/CloudCorpRecords/fedvendor) |  | 0.1.0 | SAM.gov data by API key: entities, exclusions, opportunities, awards, hierarchy… |
-| 2026-11-03 13:07:32 | io.github.kriton-dev/ai-crawler-access-check | AI Crawler Checker — Robots.txt Policy… | 1.0.2 | Check declared robots.txt permissions for six AI crawlers at URL paths |
-| 2026-11-03 13:07:40 | io.github.kriton-dev/cve-risk-metrics | CVE Vulnerability Lookup — CVSS Scores… | 1.0.2 | Look up NVD CVE dates, status, numeric CVSS scores and severity |
-| 2026-11-03 13:07:48 | io.github.kriton-dev/hacker-news-story-metrics | Hacker News Metrics — Story Scores & Co… | 1.0.2 | Read numeric Hacker News story scores, timestamps and comment counts by ID |
-| 2026-11-03 13:07:56 | io.github.kriton-dev/image-format-converter | Image Converter — Static JPEG, PNG & We… | 1.0.7 | Convert and resize static image URLs to WebP, PNG or JPEG for uploads and agent… |
-| 2026-11-03 13:08:05 | io.github.kriton-dev/npm-package-metadata | npm Package Metadata — Versions, Licens… | 1.0.2 | Read latest npm package versions, license tokens and dependency counts |
-| 2026-11-03 13:09:09 | [io.github.dunctk/houses-with-land](https://github.com/dunctk/houseswithland.co.uk) | Houses With Land | 0.1.0 | Search UK houses with land and manage your private saved-homes board. |
-| 2026-11-03 13:10:57 | dev.getfrostbyte/frostbyte | Frostbyte | 1.5.3 | Product planning workspace for AI coding agents: tasks, releases, feedback and… |
-| 2026-11-03 13:11:01 | [io.github.Atomic-Mail/mcp](https://github.com/Atomic-Mail/atomic-mail-agentic) | Atomic Mail | 0.3.33 | Programmable email inbox for AI agents — JMAP, PoW auth, stdio MCP server. |
-| 2026-11-03 13:13:06 | com.tenetindustries/tenet | Tenet Industries | 1.0.0 | PCB assembly in Munich: upload Gerbers and a BOM, pick parts, get an instant pr… |
-| 2026-11-03 13:19:20 | [io.github.CloudCorpRecords/fdarecords](https://github.com/CloudCorpRecords/fdarecords) |  | 0.1.0 | openFDA identifier resolution: drug labels and applications, device submissions… |
+| 2026-11-03 13:22:20 | com.progrss/plates | progrss | 1.0.0 | Sourced charts on how the world is shifting: power, economy, energy, people, pl… |
+| 2026-11-03 13:23:12 | [io.github.har5h98/crm-lifecycle-ops](https://github.com/har5h98/crm-lifecycle-ops) | CRM Lifecycle Ops | 0.5.0 | AI copilot for lifecycle and CRM ops on Braze, Klaviyo and Iterable. Read-only. |
+| 2026-11-03 13:24:28 | [io.github.mapbox/mcp-docs-server](https://github.com/mapbox/mcp-docs-server) |  | 0.3.2 | AI access to Mapbox docs, API references, style specs, and guides. No token req… |
+| 2026-11-03 13:24:59 | [io.github.ListRiver-LLC/listriver](https://github.com/ListRiver-LLC/listriver-api) | ListRiver | 0.1.0 | Search new and active U.S. businesses from state registries: new LLCs by state,… |
+| 2026-11-03 13:25:50 | [io.github.pth2002/repofit](https://github.com/pth2002/repofit) | repofit | 0.1.1 | Find GitHub projects that fit you, using what your coding agents already know a… |
+| 2026-11-03 13:30:55 | com.wahooart/art-search | WahooArt Art Search & Quotation | 1.0.0 | Search fine art and price hand-painted oil reproductions and prints. |
+| 2026-11-03 13:30:59 | com.artsdot/art-search | ArtsDot Art Search & Quotation | 1.0.0 | Discover art you love and see what a print or painting would cost. |
+| 2026-11-03 13:31:04 | com.allpaintingsstore/art-search | AllPaintingsStore Art Search & Quotation | 1.0.0 | Search paintings, check stock and price any size, for trade buyers. |
+| 2026-11-03 13:31:08 | com.topimpressionists/art-search | TopImpressionists Art Search & Quotation | 1.0.0 | Explore Impressionist art and price a hand-painted reproduction. |
+| 2026-11-03 13:31:12 | com.buypopart/art-search | BuyPopArt Art Search & Quotation | 1.0.0 | Find bold pop and street art and price prints and paintings. |
+| 2026-11-03 13:31:16 | com.most-famous-paintings/art-search | Most-Famous-Paintings Art Search & Quot… | 1.0.0 | Learn about the great masterpieces and price a reproduction. |
+| 2026-11-03 13:31:20 | org.wikioo/art-search | WikiOO Art Search & Quotation | 1.0.0 | Query an art encyclopedia of artworks, artists, movements and museums. |
+| 2026-11-03 13:31:24 | com.originaluniqueart/art-search | OriginalUniqueArt Art Search & Quotation | 1.0.0 | Find one-of-a-kind original works and check what is for sale now. |
+| 2026-11-03 13:31:49 | com.onlyworlds/mcp | OnlyWorlds | 1.0.1 | Read and write typed fictional worlds (22 linked element types) via the OnlyWor… |
+| 2026-11-03 13:33:03 | [io.github.onehumanbeing/esp32agent](https://github.com/onehumanbeing/esp32-iphone-agent) | Handsy AI | 0.1.1 | Let AI agents see and operate a real iPhone via an ESP32-S3 USB HID + AirPlay.… |
+| 2026-11-03 13:37:25 | [io.github.CloudCorpRecords/fedregister](https://github.com/CloudCorpRecords/fedregister) |  | 0.1.0 | Search the Federal Register: rules, notices, executive orders, comment deadline… |
+| 2026-11-03 13:38:57 | [io.github.pablo-ramossanchez/arquestra-audit](https://github.com/pablo-ramossanchez/arquestra-audit-mcp) | Arquestra Audit | 0.8.1 | Audit a data file before publishing: one light per figure. Your data never reac… |
+| 2026-11-03 13:40:39 | [com.callaiapi/seo](https://github.com/hanshengcc/callai-seo-mcp) | CallAI SEO | 1.0.0 | Live SEO data: Google/Bing SERP, AI Overview sources, keyword difficulty, backl… |
+| 2026-11-03 13:41:48 | ly.clinical.api-uat/clinically-api | Clinical.ly Research Suite | 0.0.0-local | Query Clinical.ly clinical-research data via read-only API tools using your OAu… |
+| 2026-11-03 13:41:58 | ly.clinical.api-prod/clinically-api | Clinical.ly Research Suite | 6077bc656c72 | Query Clinical.ly clinical-research data via read-only API tools using your OAu… |
+| 2026-11-03 13:43:23 | [io.github.thachp/runlater](https://github.com/thachp/runlater) | RunLater | 1.0.0 | Let agents make HTTP requests later: schedule, retry, cron, watch jobs, receive… |
+| 2026-11-03 13:44:56 | [co.meterapp/meter](https://github.com/MeterApp/meter-plugins) | Meter for Drivers & Fleets | 1.5.0 | Drive with Meter or run a Meter taxi fleet: trips, bookings, drivers, earnings… |
+| 2026-11-03 13:44:57 | [co.meterapp/rides](https://github.com/MeterApp/meter-plugins) | Meter Rides | 1.5.0 | Book taxi rides with local Meter taxi companies: prices, booking, live tracking… |
+| 2026-11-03 13:45:37 | [io.github.lexthirteen-ai/orinyx-mcp](https://github.com/lexthirteen-ai/orinyx-mcp) | Orinyx | 0.1.2 | Test healthcare AI agents' medication claims against cited FDA label text. Not… |
+| 2026-11-03 13:46:16 | app.contactz/contactzapp | ContactZapp | 1.0.0 | Find, add and update the contacts in your ContactZapp account. |
+| 2026-11-03 13:49:32 | io.github.AtlasPrimer/mcp-server | Atlas Primer Voice Roleplay | 1.0.2 | Create real-time AI voice roleplay simulations and behavioral assessments on At… |
+| 2026-11-03 13:51:33 | [io.github.denyskot1986/finekot-api-mcp](https://github.com/denyskot1986/finekot-api-mcp) | Finekot API | 0.1.0 | 89 pay-per-call tools for agents: screenshots, scraping, PDF, OCR, TTS, STT, in… |
+| 2026-11-03 13:55:54 | [io.github.CloudCorpRecords/docketwatch](https://github.com/CloudCorpRecords/docketwatch) |  | 0.1.0 | Track Regulations.gov dockets, documents and public comments; open comment peri… |
+| 2026-11-03 13:57:58 | [design.arclip/editor](https://github.com/arclip/mcp) | ARClip | 1.0.0 | Build, edit and publish live 3D, AR and game scenes in ARClip from your AI assi… |
+| 2026-11-03 14:03:05 | dev.moneytools/status | MoneyTools x402 Status & MCP Check | 1.0.0 | Live health leaderboard of x402 paid endpoints, plus an MCP server readiness ch… |
+| 2026-11-03 14:03:15 | [com.clarifo/clarifo](https://github.com/ChasingNordics/clarifo-mcp) | Clarifo | 1.0.0 | Source-cited financial research on US and Nordic company filings. |
+| 2026-11-03 14:03:46 | solutions.foodly/foodly | Foodly | 1.0.0 | Foodly, the app for restaurants, bars and cafés: what it does, plans and prices… |
+| 2026-11-03 14:04:21 | [io.github.xo0ps/domstrip-mcp](https://github.com/xo0ps/DOMStrip-Client) | DOMStrip | 0.1.1 | Turn any web page or raw HTML into compact, clean Markdown for AI agents. |
+| 2026-11-03 14:06:44 | [dev.skillhook/skillhook](https://github.com/MeterApp/skillhook) | skillhook | 0.14.7 | Turn this machine into a webhook endpoint that runs Agent Skills with Claude Co… |
+| 2026-11-03 14:07:09 | com.embedfinder/embedfinder | Embedfinder | 1.0.0 | Video page links to publish-ready metadata: title, thumbnail, tags and ranked e… |
+| 2026-11-03 14:08:43 | io.github.balkanpilot/eu-tender-intelligence | EU Tender Intelligence | 0.2.0 | Free MCP tool for searching EU public tenders by country, CPV code and date usi… |
+| 2026-11-03 14:13:24 | com.cad-compare/cad-compare | CAD Compare | 0.2.0 | Compare STEP CAD files locally: identical, moved, or different, and what change… |
+| 2026-11-03 14:17:48 | [so.signa/signa](https://github.com/signa-so/signa-mcp) | Signa | 1.0.0 | Search, screen and monitor trademarks across USPTO, EUIPO, WIPO, UKIPO and more… |
+| 2026-11-03 14:18:14 | com.tearoffdata/tearoff | Tearoff | 1.0.0 | A subscriber's read-only view of hail, open roofs, and who is pulling re-roof p… |
 
 ## Data source
 

@@ -1,0 +1,40 @@
+created_at,server,title,version,repository,transports,description
+2026-11-03T13:22:20.912586Z,com.progrss/plates,progrss,1.0.0,,streamable-http,"Sourced charts on how the world is shifting: power, economy, energy, people, planet, food."
+2026-11-03T13:23:12.416296Z,io.github.har5h98/crm-lifecycle-ops,CRM Lifecycle Ops,0.5.0,https://github.com/har5h98/crm-lifecycle-ops,,"AI copilot for lifecycle and CRM ops on Braze, Klaviyo and Iterable. Read-only."
+2026-11-03T13:24:28.613758Z,io.github.mapbox/mcp-docs-server,,0.3.2,https://github.com/mapbox/mcp-docs-server,streamable-http,"AI access to Mapbox docs, API references, style specs, and guides. No token required."
+2026-11-03T13:24:59.336Z,io.github.ListRiver-LLC/listriver,ListRiver,0.1.0,https://github.com/ListRiver-LLC/listriver-api,,"Search new and active U.S. businesses from state registries: new LLCs by state, city, ZIP, NAICS."
+2026-11-03T13:25:50.998218Z,io.github.pth2002/repofit,repofit,0.1.1,https://github.com/pth2002/repofit,,"Find GitHub projects that fit you, using what your coding agents already know about you."
+2026-11-03T13:30:55.726865Z,com.wahooart/art-search,WahooArt Art Search & Quotation,1.0.0,,streamable-http,Search fine art and price hand-painted oil reproductions and prints.
+2026-11-03T13:30:59.688671Z,com.artsdot/art-search,ArtsDot Art Search & Quotation,1.0.0,,streamable-http,Discover art you love and see what a print or painting would cost.
+2026-11-03T13:31:04.607926Z,com.allpaintingsstore/art-search,AllPaintingsStore Art Search & Quotation,1.0.0,,streamable-http,"Search paintings, check stock and price any size, for trade buyers."
+2026-11-03T13:31:08.733167Z,com.topimpressionists/art-search,TopImpressionists Art Search & Quotation,1.0.0,,streamable-http,Explore Impressionist art and price a hand-painted reproduction.
+2026-11-03T13:31:12.707002Z,com.buypopart/art-search,BuyPopArt Art Search & Quotation,1.0.0,,streamable-http,Find bold pop and street art and price prints and paintings.
+2026-11-03T13:31:16.491149Z,com.most-famous-paintings/art-search,Most-Famous-Paintings Art Search & Quotation,1.0.0,,streamable-http,Learn about the great masterpieces and price a reproduction.
+2026-11-03T13:31:20.633262Z,org.wikioo/art-search,WikiOO Art Search & Quotation,1.0.0,,streamable-http,"Query an art encyclopedia of artworks, artists, movements and museums."
+2026-11-03T13:31:24.792573Z,com.originaluniqueart/art-search,OriginalUniqueArt Art Search & Quotation,1.0.0,,streamable-http,Find one-of-a-kind original works and check what is for sale now.
+2026-11-03T13:31:49.991569Z,com.onlyworlds/mcp,OnlyWorlds,1.0.1,,streamable-http,Read and write typed fictional worlds (22 linked element types) via the OnlyWorlds open standard.
+2026-11-03T13:33:03.401359Z,io.github.onehumanbeing/esp32agent,Handsy AI,0.1.1,https://github.com/onehumanbeing/esp32-iphone-agent,,Let AI agents see and operate a real iPhone via an ESP32-S3 USB HID + AirPlay. No jailbreak.
+2026-11-03T13:37:25.102984Z,io.github.CloudCorpRecords/fedregister,,0.1.0,https://github.com/CloudCorpRecords/fedregister,,"Search the Federal Register: rules, notices, executive orders, comment deadlines, FAR cases."
+2026-11-03T13:38:57.519327Z,io.github.pablo-ramossanchez/arquestra-audit,Arquestra Audit,0.8.1,https://github.com/pablo-ramossanchez/arquestra-audit-mcp,streamable-http,Audit a data file before publishing: one light per figure. Your data never reaches the server.
+2026-11-03T13:40:39.913986Z,com.callaiapi/seo,CallAI SEO,1.0.0,https://github.com/hanshengcc/callai-seo-mcp,streamable-http,"Live SEO data: Google/Bing SERP, AI Overview sources, keyword difficulty, backlinks, page audits."
+2026-11-03T13:41:48.082125Z,ly.clinical.api-uat/clinically-api,Clinical.ly Research Suite,0.0.0-local,,streamable-http,Query Clinical.ly clinical-research data via read-only API tools using your OAuth permissions.
+2026-11-03T13:41:58.015404Z,ly.clinical.api-prod/clinically-api,Clinical.ly Research Suite,6077bc656c72,,streamable-http,Query Clinical.ly clinical-research data via read-only API tools using your OAuth permissions.
+2026-11-03T13:43:23.771713Z,io.github.thachp/runlater,RunLater,1.0.0,https://github.com/thachp/runlater,streamable-http,"Let agents make HTTP requests later: schedule, retry, cron, watch jobs, receive webhooks."
+2026-11-03T13:44:56.784163Z,co.meterapp/meter,Meter for Drivers & Fleets,1.5.0,https://github.com/MeterApp/meter-plugins,streamable-http,"Drive with Meter or run a Meter taxi fleet: trips, bookings, drivers, earnings and settings."
+2026-11-03T13:44:57.118869Z,co.meterapp/rides,Meter Rides,1.5.0,https://github.com/MeterApp/meter-plugins,streamable-http,"Book taxi rides with local Meter taxi companies: prices, booking, live tracking and cancelling."
+2026-11-03T13:45:37.661231Z,io.github.lexthirteen-ai/orinyx-mcp,Orinyx,0.1.2,https://github.com/lexthirteen-ai/orinyx-mcp,streamable-http,Test healthcare AI agents' medication claims against cited FDA label text. Not for clinical use.
+2026-11-03T13:46:16.148563Z,app.contactz/contactzapp,ContactZapp,1.0.0,,streamable-http,"Find, add and update the contacts in your ContactZapp account."
+2026-11-03T13:49:32.362767Z,io.github.AtlasPrimer/mcp-server,Atlas Primer Voice Roleplay,1.0.2,,streamable-http,Create real-time AI voice roleplay simulations and behavioral assessments on Atlas Primer.
+2026-11-03T13:51:33.768885Z,io.github.denyskot1986/finekot-api-mcp,Finekot API,0.1.0,https://github.com/denyskot1986/finekot-api-mcp,streamable-http,"89 pay-per-call tools for agents: screenshots, scraping, PDF, OCR, TTS, STT, invoices, KYC, utils"
+2026-11-03T13:55:54.418992Z,io.github.CloudCorpRecords/docketwatch,,0.1.0,https://github.com/CloudCorpRecords/docketwatch,,"Track Regulations.gov dockets, documents and public comments; open comment periods, FAR cases."
+2026-11-03T13:57:58.997194Z,design.arclip/editor,ARClip,1.0.0,https://github.com/arclip/mcp,streamable-http,"Build, edit and publish live 3D, AR and game scenes in ARClip from your AI assistant."
+2026-11-03T14:03:05.180578Z,dev.moneytools/status,MoneyTools x402 Status & MCP Check,1.0.0,,streamable-http,"Live health leaderboard of x402 paid endpoints, plus an MCP server readiness check"
+2026-11-03T14:03:15.816369Z,com.clarifo/clarifo,Clarifo,1.0.0,https://github.com/ChasingNordics/clarifo-mcp,streamable-http,Source-cited financial research on US and Nordic company filings.
+2026-11-03T14:03:46.41116Z,solutions.foodly/foodly,Foodly,1.0.0,,streamable-http,"Foodly, the app for restaurants, bars and cafés: what it does, plans and prices by region, and FAQ."
+2026-11-03T14:04:21.306097Z,io.github.xo0ps/domstrip-mcp,DOMStrip,0.1.1,https://github.com/xo0ps/DOMStrip-Client,,"Turn any web page or raw HTML into compact, clean Markdown for AI agents."
+2026-11-03T14:06:44.914924Z,dev.skillhook/skillhook,skillhook,0.14.7,https://github.com/MeterApp/skillhook,,Turn this machine into a webhook endpoint that runs Agent Skills with Claude Code or Codex.
+2026-11-03T14:07:09.897708Z,com.embedfinder/embedfinder,Embedfinder,1.0.0,,streamable-http,"Video page links to publish-ready metadata: title, thumbnail, tags and ranked embed players."
+2026-11-03T14:08:43.211114Z,io.github.balkanpilot/eu-tender-intelligence,EU Tender Intelligence,0.2.0,,streamable-http,"Free MCP tool for searching EU public tenders by country, CPV code and date using official TED data."
+2026-11-03T14:13:24.211967Z,com.cad-compare/cad-compare,CAD Compare,0.2.0,,,"Compare STEP CAD files locally: identical, moved, or different, and what changed."
+2026-11-03T14:17:48.511046Z,so.signa/signa,Signa,1.0.0,https://github.com/signa-so/signa-mcp,streamable-http,"Search, screen and monitor trademarks across USPTO, EUIPO, WIPO, UKIPO and more with one API."
+2026-11-03T14:18:14.741784Z,com.tearoffdata/tearoff,Tearoff,1.0.0,,streamable-http,"A subscriber's read-only view of hail, open roofs, and who is pulling re-roof permits."
