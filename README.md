@@ -9,58 +9,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 08:19 UTC
+## Latest list — 2026-11-03 09:21 UTC
 
-New MCP servers published between 2026-11-03 07:20 UTC and 2026-11-03 08:19 UTC.
+New MCP servers published between 2026-11-03 08:19 UTC and 2026-11-03 09:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-03T08-19-51-564036Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-03T09-21-25-98911Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-03 07:20:18 | [io.github.narcisbodea/smstunnel-mcp](https://github.com/narcisbodea/smstunnel-mcp) | SMSTunnel | 1.0.0 | Send texts (SMS) from your own Android phone and your own number, from any AI a… |
-| 2026-11-03 07:23:36 | [io.github.NBrangerF/kebiao](https://github.com/NBrangerF/curriculum-standards-breakdown) | kebiao 课标 | 1.1.0 | Search and cite China's compulsory-education curriculum standards (2022, rev. 2… |
-| 2026-11-03 07:25:39 | [io.github.johnisanerd/yandex-per-result](https://github.com/johnisanerd/Apify-Yandex-Pay-Per-Result) |  | 1.0.0 | Yandex rank tracking and bulk SERP data, billed per result, hosted MCP. |
-| 2026-11-03 07:26:21 | com.jiaheniao/tibetan-calendar | Jiaheniao Tibetan Calendar | 0.3.0 | Reviewed Tibetan dates, festivals and day mechanisms for 2026–2027. |
-| 2026-11-03 07:27:25 | io.github.SumCodeAI/chatgenius |  | 0.2.2 | ChatGenius tools: Instagram, Facebook, WhatsApp and SMS inbox, contacts, bookin… |
-| 2026-11-03 07:27:55 | [fi.northpoint/marketing-compliance](https://github.com/jukkablomberg/northpoint-website) |  | 1.1.0 | Crypto marketing compliance: MiCA, FCA, GDPR, SEC, MAS, VARA rules with citatio… |
-| 2026-11-03 07:32:51 | dev.pages.estanoir-bots/trips | Está no Ir — short trips (read-only) | 0.5.0 | Read-only 1-3 day trip plans in Portugal and Europe by train, boat and on foot.… |
-| 2026-11-03 07:35:03 | [com.usephysics/physics-calculators](https://github.com/jukkablomberg/usephysics) |  | 0.1.0 | Physics calculators that show their work, plus the CODATA 2022 constants. Educa… |
-| 2026-11-03 07:36:25 | com.hosait/hosait | Hosait | 1.0.0 | Deploy and manage apps on Hosait (Norwegian hosting) from your AI coding agent. |
-| 2026-11-03 07:37:42 | [io.github.theluckystrike/silver-price-per-gram-mcp](https://github.com/theluckystrike/silver-price-per-gram-mcp) | Silver Price Per Gram MCP | 1.0.0 | Live silver price per gram by fineness and currency, junk silver coin value, go… |
-| 2026-11-03 07:38:09 | io.github.hks409/nanukamachi | Nanukamachi Tourism Portal | 1.0.0 | Read-only Nanukamachi-dori tourism data: shops, parking, and digital archives. |
-| 2026-11-03 07:38:11 | ai.contextgate/mcp | ContextGate | 1.0.0 | MCP gateway: one connection for your AI apps, with tool policies, PII redaction… |
-| 2026-11-03 07:38:19 | ai.agilex.service/docs | AGILEX Docs | 1.0.0 | Official AGILEX robotics product docs: manuals, CAN protocol, firmware, FAQ. Re… |
-| 2026-11-03 07:40:54 | [io.plannie/plannie](https://github.com/plannie-io/plannie-docs) | Plannie | 0.5.0 | Manage a family's Plannie calendar, tasks, lists, files and meal plan as an age… |
-| 2026-11-03 07:41:10 | [io.github.theluckystrike/cpi-inflation-calculator-mcp](https://github.com/theluckystrike/cpi-inflation-calculator-mcp) | CPI Inflation Calculator | 1.0.0 | Inflation calculator with official BLS CPI 1913 to the latest month, raise vs i… |
-| 2026-11-03 07:42:51 | [io.github.arkyu2077/videoupscaler](https://github.com/arkyu2077/ai-video-upscaler) | VideoUpscaler AI Video Upscaler (4K/60f… | 0.1.0 | Upscale and enhance videos to 1080p, 2K, or 4K (60fps) via the VideoUpscaler AI… |
-| 2026-11-03 07:43:53 | dev.workers.microtools-x402.x402-sec-edgar/sec-edgar | x402 SEC EDGAR Lookup | 0.1.0 | SEC EDGAR company lookup, filings, XBRL financials and filing text. Pay per cal… |
-| 2026-11-03 07:44:50 | com.virtnumber/virtnumber | Virtnumber | 2.1.0 | Rent phone numbers in 14 countries, read incoming SMS and send SMS, paid from t… |
-| 2026-11-03 07:44:56 | com.autosecurelogin/viavitna | Viavitna | 1.1.0 | Ask one question of a Viavitna tenant's reviewed content; answers carry citatio… |
-| 2026-11-03 07:44:57 | com.autosecurelogin/rbroker | ASL rBroker | 1.5.2 | Fleet document redaction and job status, served by the rBroker app on your own… |
-| 2026-11-03 07:44:57 | com.autosecurelogin/bizmanager | BizManager | 0.14.0 | Your field-service business in your assistant: clients, requests, schedule, job… |
-| 2026-11-03 07:44:57 | com.autosecurelogin/ai-hub | ASL AI Hub | 0.3.1 | Tenant-separated encrypted context and model routing for your AI work; OAuth 2.… |
-| 2026-11-03 07:45:53 | [io.github.theluckystrike/river-level-mcp](https://github.com/theluckystrike/river-level-mcp) | River Level MCP | 1.0.0 | Live US river levels, streamflow and NWS flood forecasts from USGS stream gauge… |
-| 2026-11-03 07:47:53 | com.sheetsfinance/sheetsfinance | SheetsFinance | 1.0.0 | Build stock models and finance spreadsheets with live market data in Google She… |
-| 2026-11-03 07:48:00 | com.nova-kommo/kommo | NOVA MCP connector for Kommo | 1.0.0 | Remote MCP for Kommo CRM: leads, contacts, tasks, notes, pipelines, chats, Sale… |
-| 2026-11-03 07:49:10 | [io.github.theluckystrike/irs-mileage-rate-per-diem-mcp](https://github.com/theluckystrike/irs-mileage-rate-per-diem-mcp) | IRS Mileage Rate and Per Diem | 1.0.0 | IRS mileage rates 2011-2026 (76 cents from July 2026), GSA per diem by ZIP FY20… |
-| 2026-11-03 07:52:39 | app.qrilo.gift/giftquest | GiftQuest | 0.4.0 | Wrap a digital gift (text, link or file) in a quest the recipient must solve to… |
-| 2026-11-03 07:55:14 | com.autosecurelogin/colorado-complaint-access | ASL Colorado Complaint Access | 1.0.0 | Colorado DORA license lookups, the SOMB provider directory and answers from the… |
-| 2026-11-03 07:55:14 | com.autosecurelogin/policy-lens | ASL Policy Lens | 1.0.0 | Answers on Colorado corrections, jail and state agency policy, quoting the publ… |
-| 2026-11-03 07:55:14 | com.autosecurelogin/doctor-search | ASL Doctor Search | 1.0.0 | Find US healthcare providers by name, specialty, location or NPI from the CMS N… |
-| 2026-11-03 07:55:14 | com.autosecurelogin/aya-scam-check | Aya scam check | 1.0.0 | Screens a message or its links for scam patterns with Aya's offline rules, in E… |
-| 2026-11-03 07:55:15 | com.autosecurelogin/homelesshelper | HomelessHelper | 1.0.0 | Shelters, food, housing, healthcare and support services in every US state, by… |
-| 2026-11-03 07:55:31 | [com.lanerouter/lanerouter](https://github.com/lanerouter/lanerouter-sdk) | LaneRouter | 0.8.8 | Live road conditions for the agent web: check a site or API before acting, repo… |
-| 2026-11-03 07:58:57 | [io.github.theluckystrike/sat-score-percentiles-mcp](https://github.com/theluckystrike/sat-score-percentiles-mcp) | SAT Score Percentiles MCP | 1.0.0 | SAT score percentiles and class of 2026 SAT averages and participation by state… |
-| 2026-11-03 07:59:08 | [io.github.x2q/elpriser-mcp](https://github.com/x2q/elpriser-mcp) |  | 1.1.0 | Electricity prices for Denmark and 40 European zones: spot price, cheapest hour… |
-| 2026-11-03 08:01:31 | [io.github.pvliesdonk/scholar-mcp](https://github.com/pvliesdonk/scholar-mcp) | Scholar MCP | 3.0.0 | Scholarly papers, patents, books, standards and PDF conversion |
-| 2026-11-03 08:03:16 | [io.github.phongndo/alive2-mcp](https://github.com/phongndo/alive2-mcp) | Alive2 | 0.1.0 | Prove or refute LLVM IR transformations with Alive2, and read or create alive2.… |
-| 2026-11-03 08:04:26 | [io.github.webvoguetech/dropperch-mcp](https://github.com/webvoguetech/dropperch-mcp) | DropPerch domain expiry | 1.0.0 | Live domain expiry, lifecycle stage, drop date and SSL checks from the registry… |
-| 2026-11-03 08:07:25 | io.github.keenthemes/reui | ReUI | 1.0.0 | Search, read and install ReUI shadcn components, examples, blocks and icons fro… |
-| 2026-11-03 08:08:43 | io.github.dytredline/vulkill-security | VulKill Security | 1.2.0 | Autonomous AppSec & DAST scanner across 12 security domains (260+ controls) wit… |
-| 2026-11-03 08:09:23 | ai.legitreviews/legitreviews | Is it legit? Reviews trust checker | 2.0.0 | Scores whether a business's Google Maps reviews are genuine. Your agent collect… |
-| 2026-11-03 08:12:31 | com.timioapp/agenda | Timio | 1.0.0 | Find salons and barbers that book through Timio, see services and free times, g… |
-| 2026-11-03 08:13:43 | dev.workers.microtools-x402.x402-package-advisories/package-advisories | x402 Package Advisories | 0.1.0 | Package vuln advisories from OSV.dev: CVEs, severity, fixes, manifest audit. Pa… |
-| 2026-11-03 08:17:57 | [io.github.9mp96ygnbk-alt/factlot](https://github.com/9mp96ygnbk-alt/factlot) | FactLot | 0.1.0 | Deterministic commercial real estate calculators, canonical property IDs, and c… |
+| 2026-11-03 08:21:10 | com.centeraivision/gpu-cloud | Center AI Vision GPU cloud | 1.1.0 | Rent A100 and H100 GPUs by the minute from your agent, within a spending limit… |
+| 2026-11-03 08:21:49 | as.legalai/legalai-mcp | LegalAI MCP | 0.3.2 | Forbered saken din i chatten og bestill en skriftlig vurdering fra en norsk adv… |
+| 2026-11-03 08:26:20 | [io.github.Dennis5882/midas-nx-mcp](https://github.com/Dennis5882/midas-nx-mcp) | MIDAS Gen NX / Civil NX | 0.2.3 | Read and carefully change the model open in MIDAS Gen NX or Civil NX on this PC. |
+| 2026-11-03 08:27:36 | [com.fatetell/mcp](https://github.com/RussGuo/fatetell-mcp) | FateTell | 0.1.0 | Deterministic BaZi (Four Pillars) charts, Chinese almanac and saved FateTell ch… |
+| 2026-11-03 08:32:44 | me.beep/beep | beep.me | 0.4.0 | Find when public events happen and get email reminders before them, following m… |
+| 2026-11-03 08:34:20 | [io.github.stevyhacker/lokalbot](https://github.com/stevyhacker/LokalBot) | LokalBot | 0.12.1 | Opt-in, read-only meeting and screen memory. Requires the LokalBot Mac app. |
+| 2026-11-03 08:35:19 | [io.github.2ez4gcx/autocad-mcp](https://github.com/2ez4gcx/autocad-mcp) | AutoCAD MCP | 1.2.0 | Let AI draw in AutoCAD: plans from images, KT/KC/NT sets, TCVN calc, quantities… |
+| 2026-11-03 08:36:30 | [io.github.theluckystrike/raw-to-cooked-weight-mcp](https://github.com/theluckystrike/raw-to-cooked-weight-mcp) | Raw to Cooked Weight MCP | 1.0.0 | Raw to cooked weight of meat and poultry by cut and cooking method from USDA co… |
+| 2026-11-03 08:36:31 | [io.github.theluckystrike/vegetable-yield-percentage-mcp](https://github.com/theluckystrike/vegetable-yield-percentage-mcp) | Vegetable Yield Percentage MCP | 1.0.0 | Vegetable and fruit yield percentage, trim waste and how much produce to buy, f… |
+| 2026-11-03 08:37:27 | dev.hatang/mcp | Ha Tang | 0.1.0 | Ha Tang docs and API for agents: email, VietQR payments, e-invoices, support in… |
+| 2026-11-03 08:39:53 | uk.renewably/mcp | Renewably | 1.11.0 | Cheapest and greenest times to use electricity in Great Britain, and which tari… |
+| 2026-11-03 08:41:49 | [dev.storage/mcp](https://github.com/tigrisdata/mcp) | Tigris MCP Server | 1.14.1 | Tigris MCP Server seamlessly connects AI agents to Tigris bucket and object man… |
+| 2026-11-03 08:43:54 | [io.github.2ez4gcx/construction-autocad-mcp](https://github.com/2ez4gcx/construction-autocad-mcp) | Construction AutoCAD MCP | 1.2.1 | Let AI draw in AutoCAD: plans from images, KT/KC/NT sets, TCVN calc, quantities… |
+| 2026-11-03 08:45:15 | io.github.APIHubsRU/apihubs | API Hubs | 1.0.0 | Generate AI video, images and music. Browse models and prices; OAuth and one pr… |
+| 2026-11-03 08:48:00 | ru.htmlkin/htmlkin | htmlkin.ru | 1.6.0 | Публикуйте и обновляйте HTML-сайты через MCP с OAuth 2.1 на htmlkin.ru. |
+| 2026-11-03 08:48:10 | io.htmlkin/htmlkin | htmlkin.io | 1.6.0 | Publish and manage HTML and static websites via OAuth 2.1 MCP on htmlkin.io. |
+| 2026-11-03 08:51:04 | [com.mazzagrp/mcp](https://github.com/itsmeadamdamroma/mazzagrp-mcp) |  | 1.1.0 | 23 pay-per-call AI APIs for agents: x402, USDC on Base, no API keys. |
+| 2026-11-03 08:52:40 | [io.github.aaryagodbole/dsa-coach-mcp](https://github.com/aaryagodbole/dsa-coach-mcp) |  | 0.2.0 | DSA coach for LeetCode, Codeforces and more: spaced-repetition revision and a m… |
+| 2026-11-03 08:59:33 | com.freeaiforthat/free-ai-for-that | Free AI For That | 1.0.0 | Find free AI tools, check their free-plan limits, compare free plans and find f… |
+| 2026-11-03 09:01:35 | [io.github.AnshumanAtrey/greenhouse-jobs-search](https://github.com/AnshumanAtrey/greenhouse-jobs-search) | Greenhouse Jobs Scraper & API - All Com… | 1.0.1 | Greenhouse Jobs Scraper - Every Greenhouse Job Board |
+| 2026-11-03 09:02:37 | io.github.monzncarlos-droid/relaydataai | RelayDataAI | 1.0.0 | Discover structured products and services, or publish and maintain your own fre… |
+| 2026-11-03 09:03:35 | [io.github.sergii-ziborov/crabrix](https://github.com/sergii-ziborov/crabrix-sdk) | Crabrix | 0.4.0 | Temporary encrypted Rust Playgrounds shared by agents and people, with permissi… |
+| 2026-11-03 09:03:50 | [io.github.AnshumanAtrey/smartrecruiters-jobs-search](https://github.com/AnshumanAtrey/smartrecruiters-jobs-search) | SmartRecruiters Jobs Scraper & API - Re… | 1.0.1 | SmartRecruiters Jobs Scraper - 2,900+ Career Sites |
+| 2026-11-03 09:04:41 | [io.github.DownAtTheBottomOfTheMoleHole/megalinter](https://github.com/DownAtTheBottomOfTheMoleHole/megalinter-mcp) |  | 4.0.0 | MCP server for running Ox Security MegaLinter via mega-linter-runner |
+| 2026-11-03 09:06:37 | com.crestnote/mcp | Crestnote | 1.0.0 | Read your Crestnote workspace and fill its social media publishing queue from a… |
+| 2026-11-03 09:07:41 | [org.opentrademarks/trademarks](https://github.com/just-done/open-trademarks) | Open Trademarks | 1.0.0 | Free trademark search across the US, EU and Israeli registers. A register searc… |
+| 2026-11-03 09:10:00 | [io.github.AnshumanAtrey/workable-job-search](https://github.com/AnshumanAtrey/workable-job-search) | Workable Jobs Scraper & API - All Compa… | 1.0.1 | Workable Jobs Scraper - Every Workable Career Page |
+| 2026-11-03 09:11:05 | [io.github.AnshumanAtrey/lever-jobs-search](https://github.com/AnshumanAtrey/lever-jobs-search) | Lever Jobs Scraper & API - Salary, Remo… | 1.0.1 | Lever Jobs Scraper - jobs.lever.co, 2,300+ Companies |
+| 2026-11-03 09:14:11 | uk.renewably/gb-electricity-prices-and-tariffs | Renewably | 1.12.0 | Cheapest and greenest times to use electricity in Great Britain, and which tari… |
+| 2026-11-03 09:15:02 | cloud.tenkai/tenkai | Tenkai | 1.0.0 | Deploy apps to servers you own: projects, deployments, logs, health and pull re… |
+| 2026-11-03 09:16:30 | dev.tanod/gpu-prices | GPU Rental Prices (Tanod) | 0.1.0 | Compare GPU rental prices per hour on AWS, Azure, Google Cloud and Akash, by ch… |
+| 2026-11-03 09:16:30 | com.nunify/nunify | Nunify | 1.0.0 | Enables AI assistants to retrieve event data and execute event management opera… |
+| 2026-11-03 09:16:31 | dev.tanod/web-search | Web Search (Tanod) | 0.1.0 | Search the web and the news from an agent, with page text in the results when y… |
+| 2026-11-03 09:16:33 | dev.tanod/x402-check | x402 Endpoint Check (Tanod) | 0.1.0 | Check an x402 endpoint before you pay it, then test a payment and follow it to… |
+| 2026-11-03 09:17:39 | dev.machinemail/mcp | MachineMail | 1.0.0 | Email inboxes for AI agents. Send, receive, and read email with a trust report… |
+| 2026-11-03 09:19:11 | [io.github.agentclash-win/agentclash](https://github.com/agentclash-win/skill) | agentclash | 0.0.1 | Free practice runs of agentclash, a game where AI agents name hand-drawn images. |
 
 ## Data source
 
