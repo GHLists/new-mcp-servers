@@ -9,50 +9,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 09:21 UTC
+## Latest list — 2026-11-03 10:20 UTC
 
-New MCP servers published between 2026-11-03 08:19 UTC and 2026-11-03 09:21 UTC.
+New MCP servers published between 2026-11-03 09:21 UTC and 2026-11-03 10:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-03T09-21-25-98911Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-03T10-20-21-823861Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-03 08:21:10 | com.centeraivision/gpu-cloud | Center AI Vision GPU cloud | 1.1.0 | Rent A100 and H100 GPUs by the minute from your agent, within a spending limit… |
-| 2026-11-03 08:21:49 | as.legalai/legalai-mcp | LegalAI MCP | 0.3.2 | Forbered saken din i chatten og bestill en skriftlig vurdering fra en norsk adv… |
-| 2026-11-03 08:26:20 | [io.github.Dennis5882/midas-nx-mcp](https://github.com/Dennis5882/midas-nx-mcp) | MIDAS Gen NX / Civil NX | 0.2.3 | Read and carefully change the model open in MIDAS Gen NX or Civil NX on this PC. |
-| 2026-11-03 08:27:36 | [com.fatetell/mcp](https://github.com/RussGuo/fatetell-mcp) | FateTell | 0.1.0 | Deterministic BaZi (Four Pillars) charts, Chinese almanac and saved FateTell ch… |
-| 2026-11-03 08:32:44 | me.beep/beep | beep.me | 0.4.0 | Find when public events happen and get email reminders before them, following m… |
-| 2026-11-03 08:34:20 | [io.github.stevyhacker/lokalbot](https://github.com/stevyhacker/LokalBot) | LokalBot | 0.12.1 | Opt-in, read-only meeting and screen memory. Requires the LokalBot Mac app. |
-| 2026-11-03 08:35:19 | [io.github.2ez4gcx/autocad-mcp](https://github.com/2ez4gcx/autocad-mcp) | AutoCAD MCP | 1.2.0 | Let AI draw in AutoCAD: plans from images, KT/KC/NT sets, TCVN calc, quantities… |
-| 2026-11-03 08:36:30 | [io.github.theluckystrike/raw-to-cooked-weight-mcp](https://github.com/theluckystrike/raw-to-cooked-weight-mcp) | Raw to Cooked Weight MCP | 1.0.0 | Raw to cooked weight of meat and poultry by cut and cooking method from USDA co… |
-| 2026-11-03 08:36:31 | [io.github.theluckystrike/vegetable-yield-percentage-mcp](https://github.com/theluckystrike/vegetable-yield-percentage-mcp) | Vegetable Yield Percentage MCP | 1.0.0 | Vegetable and fruit yield percentage, trim waste and how much produce to buy, f… |
-| 2026-11-03 08:37:27 | dev.hatang/mcp | Ha Tang | 0.1.0 | Ha Tang docs and API for agents: email, VietQR payments, e-invoices, support in… |
-| 2026-11-03 08:39:53 | uk.renewably/mcp | Renewably | 1.11.0 | Cheapest and greenest times to use electricity in Great Britain, and which tari… |
-| 2026-11-03 08:41:49 | [dev.storage/mcp](https://github.com/tigrisdata/mcp) | Tigris MCP Server | 1.14.1 | Tigris MCP Server seamlessly connects AI agents to Tigris bucket and object man… |
-| 2026-11-03 08:43:54 | [io.github.2ez4gcx/construction-autocad-mcp](https://github.com/2ez4gcx/construction-autocad-mcp) | Construction AutoCAD MCP | 1.2.1 | Let AI draw in AutoCAD: plans from images, KT/KC/NT sets, TCVN calc, quantities… |
-| 2026-11-03 08:45:15 | io.github.APIHubsRU/apihubs | API Hubs | 1.0.0 | Generate AI video, images and music. Browse models and prices; OAuth and one pr… |
-| 2026-11-03 08:48:00 | ru.htmlkin/htmlkin | htmlkin.ru | 1.6.0 | Публикуйте и обновляйте HTML-сайты через MCP с OAuth 2.1 на htmlkin.ru. |
-| 2026-11-03 08:48:10 | io.htmlkin/htmlkin | htmlkin.io | 1.6.0 | Publish and manage HTML and static websites via OAuth 2.1 MCP on htmlkin.io. |
-| 2026-11-03 08:51:04 | [com.mazzagrp/mcp](https://github.com/itsmeadamdamroma/mazzagrp-mcp) |  | 1.1.0 | 23 pay-per-call AI APIs for agents: x402, USDC on Base, no API keys. |
-| 2026-11-03 08:52:40 | [io.github.aaryagodbole/dsa-coach-mcp](https://github.com/aaryagodbole/dsa-coach-mcp) |  | 0.2.0 | DSA coach for LeetCode, Codeforces and more: spaced-repetition revision and a m… |
-| 2026-11-03 08:59:33 | com.freeaiforthat/free-ai-for-that | Free AI For That | 1.0.0 | Find free AI tools, check their free-plan limits, compare free plans and find f… |
-| 2026-11-03 09:01:35 | [io.github.AnshumanAtrey/greenhouse-jobs-search](https://github.com/AnshumanAtrey/greenhouse-jobs-search) | Greenhouse Jobs Scraper & API - All Com… | 1.0.1 | Greenhouse Jobs Scraper - Every Greenhouse Job Board |
-| 2026-11-03 09:02:37 | io.github.monzncarlos-droid/relaydataai | RelayDataAI | 1.0.0 | Discover structured products and services, or publish and maintain your own fre… |
-| 2026-11-03 09:03:35 | [io.github.sergii-ziborov/crabrix](https://github.com/sergii-ziborov/crabrix-sdk) | Crabrix | 0.4.0 | Temporary encrypted Rust Playgrounds shared by agents and people, with permissi… |
-| 2026-11-03 09:03:50 | [io.github.AnshumanAtrey/smartrecruiters-jobs-search](https://github.com/AnshumanAtrey/smartrecruiters-jobs-search) | SmartRecruiters Jobs Scraper & API - Re… | 1.0.1 | SmartRecruiters Jobs Scraper - 2,900+ Career Sites |
-| 2026-11-03 09:04:41 | [io.github.DownAtTheBottomOfTheMoleHole/megalinter](https://github.com/DownAtTheBottomOfTheMoleHole/megalinter-mcp) |  | 4.0.0 | MCP server for running Ox Security MegaLinter via mega-linter-runner |
-| 2026-11-03 09:06:37 | com.crestnote/mcp | Crestnote | 1.0.0 | Read your Crestnote workspace and fill its social media publishing queue from a… |
-| 2026-11-03 09:07:41 | [org.opentrademarks/trademarks](https://github.com/just-done/open-trademarks) | Open Trademarks | 1.0.0 | Free trademark search across the US, EU and Israeli registers. A register searc… |
-| 2026-11-03 09:10:00 | [io.github.AnshumanAtrey/workable-job-search](https://github.com/AnshumanAtrey/workable-job-search) | Workable Jobs Scraper & API - All Compa… | 1.0.1 | Workable Jobs Scraper - Every Workable Career Page |
-| 2026-11-03 09:11:05 | [io.github.AnshumanAtrey/lever-jobs-search](https://github.com/AnshumanAtrey/lever-jobs-search) | Lever Jobs Scraper & API - Salary, Remo… | 1.0.1 | Lever Jobs Scraper - jobs.lever.co, 2,300+ Companies |
-| 2026-11-03 09:14:11 | uk.renewably/gb-electricity-prices-and-tariffs | Renewably | 1.12.0 | Cheapest and greenest times to use electricity in Great Britain, and which tari… |
-| 2026-11-03 09:15:02 | cloud.tenkai/tenkai | Tenkai | 1.0.0 | Deploy apps to servers you own: projects, deployments, logs, health and pull re… |
-| 2026-11-03 09:16:30 | dev.tanod/gpu-prices | GPU Rental Prices (Tanod) | 0.1.0 | Compare GPU rental prices per hour on AWS, Azure, Google Cloud and Akash, by ch… |
-| 2026-11-03 09:16:30 | com.nunify/nunify | Nunify | 1.0.0 | Enables AI assistants to retrieve event data and execute event management opera… |
-| 2026-11-03 09:16:31 | dev.tanod/web-search | Web Search (Tanod) | 0.1.0 | Search the web and the news from an agent, with page text in the results when y… |
-| 2026-11-03 09:16:33 | dev.tanod/x402-check | x402 Endpoint Check (Tanod) | 0.1.0 | Check an x402 endpoint before you pay it, then test a payment and follow it to… |
-| 2026-11-03 09:17:39 | dev.machinemail/mcp | MachineMail | 1.0.0 | Email inboxes for AI agents. Send, receive, and read email with a trust report… |
-| 2026-11-03 09:19:11 | [io.github.agentclash-win/agentclash](https://github.com/agentclash-win/skill) | agentclash | 0.0.1 | Free practice runs of agentclash, a game where AI agents name hand-drawn images. |
+| 2026-11-03 09:28:15 | [io.github.xka0085-byte/mcpreflight](https://github.com/xka0085-byte/mcpreflight) |  | 0.6.0 | Read-only preflight for any MCP or x402 endpoint: handshake, tool schemas, 402… |
+| 2026-11-03 09:29:01 | com.tidesatlas/tides | TidesAtlas | 1.1.0 | Worldwide tide times and heights, marine weather, sea temperature, sun and moon… |
+| 2026-11-03 09:30:01 | [io.github.myshra777-ai/garuda](https://github.com/myshra777-ai/garuda) |  | 1.9.10 | Impact analysis, architecture rules and a tamper-evident ledger for AI coding a… |
+| 2026-11-03 09:36:45 | [io.github.ironflowsh/hyperliquid](https://github.com/ironflowsh/mcp) | Ironflow: Hyperliquid data | 0.11.2 | Read-only Hyperliquid data for AI agents: fills, candles, funding, liquidations… |
+| 2026-11-03 09:36:47 | [io.github.sunholo-data/parse](https://github.com/sunholo-data/ailang-parse) | AILANG Parse | 0.14.0 | Parse 17 document formats and generate DOCX, PPTX, XLSX, ODF, HTML, Markdown an… |
+| 2026-11-03 09:37:23 | [io.github.zen-studio-labs/aliexpress-mcp](https://github.com/zen-studio-labs/aliexpress-mcp) | AliExpress | 0.1.0 | AliExpress (Ali Express, 速卖通) product search: prices, orders, variants, shippin… |
+| 2026-11-03 09:38:13 | [io.github.zen-studio-labs/douyin-mcp](https://github.com/zen-studio-labs/douyin-mcp) | Douyin (抖音) | 0.1.0 | Douyin (抖音, Chinese TikTok) video search, video details, comments, creators and… |
+| 2026-11-03 09:41:49 | [io.github.zen-studio-labs/alibaba-1688-mcp](https://github.com/zen-studio-labs/alibaba-1688-mcp) | 1688 & Alibaba.com | 0.1.0 | 1688 (阿里巴巴1688) and Alibaba.com wholesale products, MOQ, suppliers and store re… |
+| 2026-11-03 09:42:22 | [cash.blackpool/blackpool](https://github.com/blackpooldev/blackpool) | Blackpool | 0.3.1 | Private payments for agents: shield, send, swap and bridge via ZK privacy pools… |
+| 2026-11-03 09:45:12 | [io.github.zen-studio-labs/g2-capterra-reviews-mcp](https://github.com/zen-studio-labs/g2-capterra-reviews-mcp) | G2 & Capterra Reviews | 0.1.0 | G2 (G2 Crowd), Capterra, TrustRadius and Gartner Peer Insights software reviews… |
+| 2026-11-03 09:48:31 | media.southpow/fact | SouthPow API | 1.1.0 | Pay-per-call data for AI agents in USDC on Base (x402): web search, US insider… |
+| 2026-11-03 09:48:36 | [io.github.zen-studio-labs/taobao-tmall-mcp](https://github.com/zen-studio-labs/taobao-tmall-mcp) | Taobao & Tmall (淘宝 天猫) | 0.1.0 | Taobao (淘宝) and Tmall (天猫) product search, item details, SKUs, reviews and shop… |
+| 2026-11-03 09:49:58 | io.github.BRANCHERMIGHT/token-safety-scanner |  | 1.0.0 | Real-time DEX liquidity metrics and risk indicators for crypto tokens |
+| 2026-11-03 09:54:42 | [io.github.hs85-newbie/korea-finance-factcheck](https://github.com/hs85-newbie/korea-finance-factcheck) | Korea Finance Factcheck | 0.1.1 | Fact-checks numbers in Korean finance writing against DART, Bank of Korea ECOS… |
+| 2026-11-03 10:00:38 | com.pharma-geo/pharmageo | PharmaGeo | 1.0.0 | See how AI assistants talk about your pharmaceutical brands and which sources t… |
+| 2026-11-03 10:03:55 | com.sealcord/mcp | Sealcord | 0.6.3 | Look up, issue and revoke signed licence keys and free machines for the apps yo… |
+| 2026-11-03 10:17:05 | [cloud.krova/mcp](https://github.com/krovacloud/krova-node) |  | 0.3.19 | Provision and manage Krova Cloud Cubes — Firecracker microVMs with root access… |
+| 2026-11-03 10:19:30 | com.llmcutover/audit | LLM Cutover | 1.0.0 | Checks if a cheaper model agrees with your GPT, Claude or Gemini outputs, and w… |
 
 ## Data source
 

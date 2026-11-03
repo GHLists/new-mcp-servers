@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-11-03T09:28:15.26241Z,io.github.xka0085-byte/mcpreflight,,0.6.0,https://github.com/xka0085-byte/mcpreflight,,"Read-only preflight for any MCP or x402 endpoint: handshake, tool schemas, 402 drift."
+2026-11-03T09:29:01.967003Z,com.tidesatlas/tides,TidesAtlas,1.1.0,,streamable-http,"Worldwide tide times and heights, marine weather, sea temperature, sun and moon for 13,000+ ports."
+2026-11-03T09:30:01.688038Z,io.github.myshra777-ai/garuda,,1.9.10,https://github.com/myshra777-ai/garuda,,"Impact analysis, architecture rules and a tamper-evident ledger for AI coding agents."
+2026-11-03T09:36:45.909341Z,io.github.ironflowsh/hyperliquid,Ironflow: Hyperliquid data,0.11.2,https://github.com/ironflowsh/mcp,streamable-http,"Read-only Hyperliquid data for AI agents: fills, candles, funding, liquidations, wallet analytics."
+2026-11-03T09:36:47.167932Z,io.github.sunholo-data/parse,AILANG Parse,0.14.0,https://github.com/sunholo-data/ailang-parse,streamable-http,"Parse 17 document formats and generate DOCX, PPTX, XLSX, ODF, HTML, Markdown and Quarto files."
+2026-11-03T09:37:23.925598Z,io.github.zen-studio-labs/aliexpress-mcp,AliExpress,0.1.0,https://github.com/zen-studio-labs/aliexpress-mcp,streamable-http,"AliExpress (Ali Express, 速卖通) product search: prices, orders, variants, shipping and reviews."
+2026-11-03T09:38:13.484662Z,io.github.zen-studio-labs/douyin-mcp,Douyin (抖音),0.1.0,https://github.com/zen-studio-labs/douyin-mcp,streamable-http,"Douyin (抖音, Chinese TikTok) video search, video details, comments, creators and shop products."
+2026-11-03T09:41:49.912706Z,io.github.zen-studio-labs/alibaba-1688-mcp,1688 & Alibaba.com,0.1.0,https://github.com/zen-studio-labs/alibaba-1688-mcp,streamable-http,"1688 (阿里巴巴1688) and Alibaba.com wholesale products, MOQ, suppliers and store reviews."
+2026-11-03T09:42:22.036503Z,cash.blackpool/blackpool,Blackpool,0.3.1,https://github.com/blackpooldev/blackpool,streamable-http,"Private payments for agents: shield, send, swap and bridge via ZK privacy pools on 4 EVM chains."
+2026-11-03T09:45:12.436531Z,io.github.zen-studio-labs/g2-capterra-reviews-mcp,G2 & Capterra Reviews,0.1.0,https://github.com/zen-studio-labs/g2-capterra-reviews-mcp,streamable-http,"G2 (G2 Crowd), Capterra, TrustRadius and Gartner Peer Insights software reviews for AI agents."
+2026-11-03T09:48:31.765115Z,media.southpow/fact,SouthPow API,1.1.0,,streamable-http,"Pay-per-call data for AI agents in USDC on Base (x402): web search, US insider buys, Polymarket odds"
+2026-11-03T09:48:36.622926Z,io.github.zen-studio-labs/taobao-tmall-mcp,Taobao & Tmall (淘宝 天猫),0.1.0,https://github.com/zen-studio-labs/taobao-tmall-mcp,streamable-http,"Taobao (淘宝) and Tmall (天猫) product search, item details, SKUs, reviews and shop catalogs."
+2026-11-03T09:49:58.823694Z,io.github.BRANCHERMIGHT/token-safety-scanner,,1.0.0,,sse,Real-time DEX liquidity metrics and risk indicators for crypto tokens
+2026-11-03T09:54:42.753783Z,io.github.hs85-newbie/korea-finance-factcheck,Korea Finance Factcheck,0.1.1,https://github.com/hs85-newbie/korea-finance-factcheck,,"Fact-checks numbers in Korean finance writing against DART, Bank of Korea ECOS and US Treasury"
+2026-11-03T10:00:38.147502Z,com.pharma-geo/pharmageo,PharmaGeo,1.0.0,,streamable-http,See how AI assistants talk about your pharmaceutical brands and which sources they cite.
+2026-11-03T10:03:55.140931Z,com.sealcord/mcp,Sealcord,0.6.3,,streamable-http,"Look up, issue and revoke signed licence keys and free machines for the apps you sell."
+2026-11-03T10:17:05.148703Z,cloud.krova/mcp,,0.3.19,https://github.com/krovacloud/krova-node,,Provision and manage Krova Cloud Cubes — Firecracker microVMs with root access and no public IP.
+2026-11-03T10:19:30.42315Z,com.llmcutover/audit,LLM Cutover,1.0.0,,streamable-http,"Checks if a cheaper model agrees with your GPT, Claude or Gemini outputs, and what routing saves."
