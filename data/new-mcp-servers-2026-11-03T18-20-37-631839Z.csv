@@ -1,0 +1,38 @@
+created_at,server,title,version,repository,transports,description
+2026-11-03T17:23:35.747207Z,io.github.dundas/thinkrun,,0.3.14,https://github.com/dundas/thinkrun,,"Browser control + session recording MCP for AI coding agents (Claude Code, Cursor) — real Chrome."
+2026-11-03T17:25:57.225557Z,io.github.Hiper-AI/pinright,pinright,1.0.0,https://github.com/Hiper-AI/pinright,,"Version-accurate library docs for coding agents, with a supply-chain check of each dependency."
+2026-11-03T17:28:08.290021Z,io.github.behaviortrees/behaviortrees,Behavior Trees,0.1.0,https://github.com/behaviortrees/behaviortrees,streamable-http,"Validate, convert (behavior3 JSON, BehaviorTree.CPP XML) and open behavior trees in a visual editor"
+2026-11-03T17:36:53.156164Z,com.documarium/documarium,Documarium,1.0.0,,streamable-http,Run your docs site from Claude. Write for free. Pay when you publish.
+2026-11-03T17:37:35.92609Z,com.private-ai-tools/tools,Private AI Tools,1.0.0,,streamable-http,"Find the right free browser tool (PDF, image, video, audio, developer) and its link."
+2026-11-03T17:39:12.26021Z,lease.hunter/car-deals,Hunter Lease,1.0.0,,streamable-http,Find new cars to lease or finance in California and calculate payments by credit tier.
+2026-11-03T17:39:18.963427Z,io.github.WYRE-AI/watchguard-cloud-mcp,WatchGuard Cloud,1.0.2,https://github.com/WYRE-AI/watchguard-cloud-mcp,,"MCP server for WatchGuard Cloud's account, activation, and operator APIs."
+2026-11-03T17:39:19.427402Z,io.github.WYRE-AI/timedoctor-mcp,Time Doctor,1.0.3,https://github.com/WYRE-AI/timedoctor-mcp,,"MCP server for Time Doctor's employee time-tracking API — companies, users, projects, and stats."
+2026-11-03T17:39:20.919043Z,io.github.WYRE-AI/cisco-duo-mcp,Cisco Duo,1.0.1,https://github.com/WYRE-AI/cisco-duo-mcp,,MCP server for Cisco Duo's identity/MFA administration API.
+2026-11-03T17:39:23.718433Z,io.github.WYRE-AI/petra-mcp,Petra Security,1.0.0,https://github.com/WYRE-AI/petra-mcp,,"Read-only Petra Security MCP: M365 compromise incidents, failed attacks, posture, tenants, usage."
+2026-11-03T17:39:23.817485Z,ai.joinparley/parley,Parley,0.2.0,,streamable-http,"Messaging for AI agents: your agent messages other people’s agents, and you stay in charge."
+2026-11-03T17:39:25.374366Z,io.github.WYRE-AI/unifi-mcp,UniFi,1.0.1,https://github.com/WYRE-AI/unifi-mcp,,MCP server for Ubiquiti UniFi's Cloud Site Manager API.
+2026-11-03T17:40:14.362132Z,dev.mapsscraper/mapsscraper,MapsScraper.dev,0.27.0,,streamable-http,"Research public business listings, reviews and photos into lists with explicit unit budgets."
+2026-11-03T17:40:48.369035Z,io.github.boristane/polylane,Polylane,1.0.0,,streamable-http,"Investigate production issues: what changed, logs, metrics, dependencies and fixes in your stack."
+2026-11-03T17:44:09.730871Z,energy.powerhopper/mcp,Power Hopper - Texas electricity plan comparison,1.0.0,,streamable-http,"Shopping assistant for powerhopper.energy, Texas deregulated areas. Providers may pay commission."
+2026-11-03T17:44:59.699989Z,io.github.atomno-mcp/mcp-sudact,mcp-sudact,0.1.10,https://github.com/atomno-mcp/mcp-sudact,,Court practice and FAS case cards via hosted API. Coverage depends on the connected service.
+2026-11-03T17:45:23.989057Z,app.weekbird/weekbird,Weekbird,0.2.0,,streamable-http,"Plan, draft and schedule social posts in a Weekbird workspace."
+2026-11-03T17:50:33.59427Z,ai.agentblueprint/agent-blueprint,Agent Blueprint,0.2.0,https://github.com/agent-blueprint/agent-blueprint-website,streamable-http,"Measured agent costs, a one-page agent summary check, and an offline access map. No sign-in."
+2026-11-03T17:51:01.686471Z,com.simorago/esim,SimoraGo travel eSIM plans,1.0.0,,streamable-http,"Search and compare travel eSIM plans for 26 destinations: price, daily cap, hotspot rule, networks."
+2026-11-03T17:51:21.05108Z,com.itbisp/imoveis,Imóveis à venda em São Paulo · itbisp.com,0.2.0,,streamable-http,"Homes for sale in São Paulo: 330+ agencies deduplicated, price vs comparables, real ITBI sales."
+2026-11-03T17:51:40.506444Z,io.github.agent-blueprint/free-blueprints,,1.0.2,https://github.com/agent-blueprint/free-blueprints,streamable-http,"Two sample multi-agent blueprints over MCP, no signup. Main server: agentblueprint.ai/mcp"
+2026-11-03T17:51:41.134171Z,io.github.agent-blueprint/mcp-server,Agent Blueprint,0.7.23,https://github.com/agent-blueprint/mcp-server,,Client teams' blueprints for coding agents (token from an engagement). Free: agentblueprint.ai/mcp
+2026-11-03T17:51:46.989364Z,io.github.avisre/stockportfolio-mcp,,0.3.2,https://github.com/avisre/stockportfolio-mcp,,"Filing-grounded US financials and SEC filing research, with source links and no estimates."
+2026-11-03T17:52:36.068614Z,io.github.heyyviv/web-shooter,web-shooter,0.2.0,https://github.com/heyyviv/web-shooter,,"Fast, low-token web reader and focused crawler. Returns ranked passages, not whole pages."
+2026-11-03T17:55:17.247156Z,tech.divindi/divimail,DiviMail,1.5.0,,,"Give your AI agent its own email address: send, receive and read email. $0.01 USDC per send."
+2026-11-03T17:56:58.852468Z,io.github.dahuam/screenpilot,XuLan ScreenPilot,1.0.0,https://github.com/dahuam/screenpilot,,Turn the real Windows screen into a numbered element table your AI agent can operate.
+2026-11-03T17:59:18.556052Z,io.github.celltype/udi,CellType UDI,1.0.0,,streamable-http,"Search public biomedical datasets, measured results, papers, trials and drug evidence with sources."
+2026-11-03T17:59:31.437067Z,chat.zorgverzekering.mcp/zorgverzekering,Zorgverzekering.chat: Dutch health insurance,1.1.0,,streamable-http,"Dutch health insurance (zorgverzekering): premiums, coverage, providers, yearly cost. Not advice."
+2026-11-03T18:01:41.340792Z,ink.input/buscador,INPUT · buscador,1.0.0,,streamable-http,"Notas, lugares, discos y juegos argentinos de INPUT, magazine cultural de Buenos Aires."
+2026-11-03T18:03:22.873606Z,ai.ghostmotion/ghostmotion,Ghostmotion,1.0.0,,streamable-http,"Create and edit product videos from a brief: launch, demo and feature films, rendered for you."
+2026-11-03T18:08:17.286861Z,io.github.trenchsearch/maln,MALN — Multi-Agent Learning Network,0.8.0,,streamable-http,"Verified trust ledger for agents: claims graded by a real oracle, never self-reported."
+2026-11-03T18:11:11.991951Z,tax.990/nonprofit-lookup,990.tax nonprofit lookup,1.0.0,,streamable-http,"IRS records on US nonprofits: exempt status, revocations, Form 990 financials, due dates, stats."
+2026-11-03T18:13:20.879097Z,com.apkcube/apkcube,APKCube,1.0.0,,streamable-http,"Search Android apps, check APK signing and scans, and get verified APK download links."
+2026-11-03T18:14:25.160441Z,com.aiinbx/mcp,AI Inbx,1.0.0,,streamable-http,"Send and read email, and set up domains, mailboxes, pacing and webhooks on AI Inbx."
+2026-11-03T18:14:25.691636Z,com.aiinbx/inbox,AI Inbx Inbox,1.0.0,,streamable-http,"Give Claude, Cursor or any agent its own email address: send, read and reply in threads."
+2026-11-03T18:15:01.142101Z,io.github.gdtilghman/should-i-live-here,Should I Live Here?,0.1.0,https://github.com/gdtilghman/should-i-live-here-atlas,streamable-http,"Rank and compare US counties on health, hazards, crime, rent, internet and air, from public data."
+2026-11-03T18:15:32.47068Z,com.besidka/mcp,Besidka,1.1.0,https://github.com/besidka/besidka,streamable-http,"Besidka models, providers and key guides, plus your chats, projects, files, memory and settings."
