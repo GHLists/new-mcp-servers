@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-11-03T04:25:35.309836Z,io.github.CloudCorpRecords/mathpack,,0.1.0,https://github.com/CloudCorpRecords/mathpack,,"Printable K-12 math worksheet packs from Mathter: skills list, allowance, and pack generation."
+2026-11-03T04:26:08.434405Z,org.getdunn/dunn,Dunn,1.0.0,,streamable-http,"Free invoice tools: due dates from payment terms, late fees, days late, payment reminder emails."
+2026-11-03T04:29:41.81455Z,tw.srct.sellers/sop,SOP,1.0.0,,streamable-http,"Taiwan merchants: view, confirm or decline bookings made by customers' AI agents, from your own AI."
+2026-11-03T04:39:14.928391Z,com.cymetica/tuatara-topics,Tuatara Topics,1.0.0,,streamable-http,"The topics in a set of documents in one call, with each document's topic mixture. Nothing stored."
+2026-11-03T04:45:16.209717Z,ai.getprecision/precision-ai-os,Precision AI OS,1.0.0,,streamable-http,"Set up and run your firm's Precision AI agents, skills and routines from any MCP client."
+2026-11-03T04:48:38.901852Z,gg.personify/personify,,1.0.0,https://github.com/shansabnani/personify,streamable-http,"AI UGC creator videos for brands: read a brand, pick a reel format, draft scripts, quote and render."
+2026-11-03T04:49:18.667996Z,br.com.reciba/recibos,Reciba,1.0.0,,streamable-http,"Receipts, quotes and service orders for Brazil: drafted in chat, issued on Reciba with a QR check."
+2026-11-03T04:50:19.31639Z,io.github.justinscott12/modrinth-mcp,,0.1.3,https://github.com/justinscott12/modrinth-mcp,,"Search Modrinth and publish Minecraft mods (create projects, upload versions) via the Modrinth API."
+2026-11-03T04:51:05.010739Z,com.plus234feed/mcp,Plus234Feed: Nigerian news and data,2.1.0,,streamable-http,"Nigerian news archive, NGX markets, naira rates, NBS statistics, legislators and 2027 elections."
+2026-11-03T04:58:51.076134Z,com.palanor/mcp,Palanor,1.0.0,,streamable-http,"Read the Palanor lattice: 50,000+ economic signals, Custom Indices, Currents and the Wire."
+2026-11-03T05:08:43.250996Z,io.github.CloudCorpRecords/propdata,,0.1.0,https://github.com/CloudCorpRecords/propdata,,"Zillow property data via APIllow: search, property details, price history, comps and usage."
+2026-11-03T05:09:21.901545Z,io.github.best-trading-indicator-tools/gimmethesauce,GimmeTheSauce,1.0.0,https://github.com/best-trading-indicator-tools/gimmethesauce-mcp,streamable-http,"Find public sources on how app and SaaS founders launch, price and grow their products."
+2026-11-03T05:09:57.679082Z,io.github.shopfox-ai/shopfox-shopping,Shopfox Shopping,1.1.1,https://github.com/shopfox-ai/shopfox-shopping-mcp-plugin,streamable-http,"US shopping research with real prices, sellers, and purchase links from Amazon, Best Buy, Walmart."
+2026-11-03T05:10:38.183519Z,app.localhum/localhum,localhum,1.0.0,,streamable-http,"What's on tonight at San Diego's small venues: live music, trivia, comedy, open mics, happy hours."
+2026-11-03T05:14:04.663619Z,market.cartrelay/cartrelay,CartRelay,1.0.0,,streamable-http,"Live product discovery for AI shopping agents, with shopper-approved retailer handoff."
+2026-11-03T05:18:03.06602Z,io.github.branch-docs/ai,Branch Docs,1.0.1,https://github.com/branch-docs/ai,streamable-http,Access and search Branch's official API documentation directly within any AI agent or client.
