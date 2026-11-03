@@ -9,39 +9,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 01:19 UTC
+## Latest list — 2026-11-03 02:19 UTC
 
-New MCP servers published between 2026-11-03 00:18 UTC and 2026-11-03 01:19 UTC.
+New MCP servers published between 2026-11-03 01:19 UTC and 2026-11-03 02:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-03T01-19-00-952886Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-03T02-19-52-407446Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-03 00:19:02 | [com.usegithubthing/ugt](https://github.com/auscaster/ugt) | UGT: Use the GitHub Thing | 0.2.0 | Get GitHub projects running on your computer, with your AI app |
-| 2026-11-03 00:19:53 | [io.github.tell-and-go/mcp](https://github.com/tell-and-go/mcp) |  | 1.0.1 | Search, quote and book hotels and resorts from any AI agent. Checkout on tellan… |
-| 2026-11-03 00:27:17 | com.mcpvetter/mcpvetter | MCPVetter | 0.1.1 | Audit your MCP servers for poisoned tools and leaked secrets, and check AI-gene… |
-| 2026-11-03 00:29:59 | io.appforshare/appforshare | AppForShare | 1.0.2 | Share iOS and Android test builds: upload, install links, testers, store readin… |
-| 2026-11-03 00:32:14 | org.biblemcp/biblemcp | BibleMCP | 1.0.0 | AI Bible study you can actually check: Scripture, Hebrew and Greek, and the chu… |
-| 2026-11-03 00:34:07 | com.locihub/locihub | LociHub | 1.0.0 | Your agents' memory: search and read your own nodes, and capture chats for you… |
-| 2026-11-03 00:36:22 | [io.github.AzadKurt/videoworker](https://github.com/AzadKurt/videoworker-mcp) | videoworker | 0.1.0 | FFmpeg processing for video, audio and images via MCP with OAuth and shared acc… |
-| 2026-11-03 00:37:32 | [io.github.CloudCorpRecords/dropnote](https://github.com/CloudCorpRecords/dropnote) |  | 0.1.0 | Drop a short text fragment into the noglow desktop scratchpad's target slot via… |
-| 2026-11-03 00:40:05 | [io.github.CloudCorpRecords/speccheck](https://github.com/CloudCorpRecords/speccheck) |  | 0.1.0 | Verify every spec requirement is claimed by an issue, PR, or code reference; li… |
-| 2026-11-03 00:40:05 | il.co.taseli/taseli | Taseli | 0.4.0 | AI campaigner for Google, Meta and TikTok ads, with memory, a plan and owner-ap… |
-| 2026-11-03 00:40:37 | ie.irishtaxhub/irish-tax | Irish Tax Hub | 3.2.0 | Irish tax calculators, current rates and Revenue guidance: income tax, USC, PRS… |
-| 2026-11-03 00:45:00 | ai.e-acc/eacc | e/acc | 1.0.0 | AI news for agents: daily, weekly and monthly briefings, trending events and mo… |
-| 2026-11-03 00:48:58 | com.forumforagents/forum | Forum for Agents | 1.0.2 | Message board where AI agents ask and answer each other. Sign the guestbook in… |
-| 2026-11-03 00:49:06 | [io.github.SpeedPainterOrg/explainer-video](https://github.com/SpeedPainterOrg/explainer-video) | SpeedPainter Explainer Video | 0.5.0 | Turn text, notes, or documents into narrated hand-drawn whiteboard explainer vi… |
-| 2026-11-03 00:50:18 | co.cosign/cosign | Cosign | 1.0.0 | Find people, companies, and jobs; manage your professional network with Cosign. |
-| 2026-11-03 00:54:10 | com.jobshifu/jobshifu | JobShifu | 1.0.0 | Search jobs on employer career sites, check if a posting is still open, and tai… |
-| 2026-11-03 00:55:48 | io.github.mykemueller1-ctrl/action-shift-mcp | Action Shift | 1.0.0 | Reads a restaurant close and returns one finding and a 3-step next move before… |
-| 2026-11-03 00:57:42 | [io.github.IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) | AI Game Developer: MCP for Unity, Unrea… | 9.3.1 | Make games with AI: one MCP server that connects your agent to Unity, Unreal an… |
-| 2026-11-03 00:58:08 | com.thebitcoinadviser/mcp | The Bitcoin Adviser | 0.1.0 | Education-only MCP tools for Bitcoin security, retirement and fees, from The Bi… |
-| 2026-11-03 01:00:43 | de.skael.api/skael | Skael | 1.0.0 | Lead lists from German company registers, Google Maps, job boards and imprints… |
-| 2026-11-03 01:00:51 | now.exam/past-papers | exam.now | 1.0.0 | Cambridge, AQA and Edexcel past papers: questions, figures and mark schemes by… |
-| 2026-11-03 01:04:54 | com.checkedcare/records | CheckedCare | 1.0.0 | Official state child care licensing and inspection records, verbatim and cited.… |
-| 2026-11-03 01:09:15 | [io.github.CloudCorpRecords/renameplan](https://github.com/CloudCorpRecords/renameplan) |  | 0.1.0 | Plan a safe file or export rename: reference graph, edit order, and risk flags… |
-| 2026-11-03 01:12:01 | com.kicklace/kicklace | Kicklace | 0.1.0 | Kicklace, lifecycle email for SaaS founders: look customers up, run reports, dr… |
-| 2026-11-03 01:12:17 | com.kolavid/kolavid | KolaVid | 1.0.0 | Make narrated whiteboard explainer videos from a topic, text or web page, insid… |
+| 2026-11-03 01:20:00 | app.greenscreenmemes.api/green-screen-memes | Green Screen Memes | 1.0.0 | 2,000+ green screen meme clips to search, with an ffmpeg recipe to key each ove… |
+| 2026-11-03 01:20:31 | io.github.sition-jp/jp-authorities | Japan Authority Updates (FSA, BOJ, MOF) | 1.0.0 | Japan FSA, BOJ and MOF updates for AI agents. Free health tool; paid tools via… |
+| 2026-11-03 01:23:27 | [io.github.johnisanerd/linkedin-post-search](https://github.com/johnisanerd/Apify-LinkedIn-Post-Search-API) |  | 1.0.0 | Search public LinkedIn posts by keyword, name or hashtag, with engagement, via… |
+| 2026-11-03 01:26:08 | [io.github.m2mfreedom/freedom-m2m-mcp-server](https://github.com/m2mfreedom/freedom-m2m-mcp-server) | Freedom Engine M2M Gateway & Task Clear… | 2.5.0 | Zero-reg HTTP 402 M2M Gateway, AI Worker Directory & Escrow Task Clearinghouse… |
+| 2026-11-03 01:30:04 | [io.github.pooriaarab/surrogacyagencies](https://github.com/pooriaarab/directory) |  | 1.0.0 | Find surrogacy agencies and organisations for your journey. |
+| 2026-11-03 01:30:57 | [io.github.pooriaarab/quantumcompanies](https://github.com/pooriaarab/directory) |  | 1.0.0 | Find the companies building quantum technology. |
+| 2026-11-03 01:31:33 | [io.github.pooriaarab/goldenvisas](https://github.com/pooriaarab/directory) |  | 1.0.0 | Find authorised agents for residence and citizenship by investment. |
+| 2026-11-03 01:32:09 | [io.github.GeminiGeorge22/ecommerce-search-rankings-mcp](https://github.com/GeminiGeorge22/ecommerce-search-rankings-mcp) | E-commerce Search & Rankings MCP | 1.0.0 | E-commerce search results and product rankings across Amazon, eBay, Walmart, Go… |
+| 2026-11-03 01:32:17 | [io.github.GeminiGeorge22/ecommerce-sales-mcp](https://github.com/GeminiGeorge22/ecommerce-sales-mcp) | E-commerce Sales Signals MCP | 1.0.0 | E-commerce sales signals: Amazon bestsellers and reviews, eBay sold prices, Tik… |
+| 2026-11-03 01:32:24 | [io.github.GeminiGeorge22/forecast-accuracy-mcp](https://github.com/GeminiGeorge22/forecast-accuracy-mcp) | Forecast Accuracy & Track Record MCP | 1.0.0 | Forecast track records: forecasts vs actuals, earnings beats, prediction market… |
+| 2026-11-03 01:32:26 | [io.github.pooriaarab/liquidcooling](https://github.com/pooriaarab/directory) |  | 1.0.0 | Find liquid-cooling vendors for 30-150 kW AI data centers. |
+| 2026-11-03 01:32:30 | [io.github.GeminiGeorge22/sports-betting-stats-mcp](https://github.com/GeminiGeorge22/sports-betting-stats-mcp) | Sports Betting Stats MCP | 1.0.0 | Sports betting stats: sportsbook odds, player props, scores, xG, closing lines,… |
+| 2026-11-03 01:35:12 | [io.github.CloudCorpRecords/agenttrace](https://github.com/CloudCorpRecords/agenttrace) |  | 0.1.0 | Summarize a supplied agent tool-call trace: per-tool stats, the error list, and… |
+| 2026-11-03 01:36:21 | [io.github.wildrun-ai/records-mcp](https://github.com/wildrun-ai/records-mcp) |  | 0.1.0 | US public-records lookups for AI agents (FEC, SEC, sanctions, courts), paid per… |
+| 2026-11-03 01:48:14 | social.viengine/vi-engine | VI Engine | 0.2.2 | Social media workspaces for brands: drafts, scheduling, analytics and comments. |
+| 2026-11-03 01:53:39 | [io.github.stefanbackor/edupage-keyring-mcp](https://github.com/stefanbackor/edupage-keyring-mcp) | EduPage Keyring | 0.1.0 | EduPage timetables, grades, homework and messages; session in macOS Keychain, n… |
+| 2026-11-03 01:57:57 | com.ledatia/ledatia | LEDATIA | 1.0.0 | Leyes, reglamentos, resoluciones y jurisprudencia de Ecuador con su fuente ofic… |
+| 2026-11-03 02:00:08 | io.github.edbror/watr-software-oracle | WATR Software Oracle — estándar de arqu… | 0.1.0 | 152 reglas con postura: enforce bloquea el PR, prefer se justifica. Clean Code,… |
+| 2026-11-03 02:00:37 | [io.github.CloudCorpRecords/sizeverdict](https://github.com/CloudCorpRecords/sizeverdict) |  | 0.1.0 | Weigh a dependency's bundle cost from supplied module sizes, with shipped overl… |
+| 2026-11-03 02:00:38 | com.itsnum/esim | NUM Travel eSIM | 1.0.0 | Find data eSIM plans for 190+ destinations. The person verifies and pays in NUM. |
+| 2026-11-03 02:03:30 | com.jacquard.absimulate/ab-simulate | A/B Simulate by Jacquard | 1.0.0 | Simulates an A/B test between 2 to 20 drafts of marketing copy and predicts the… |
+| 2026-11-03 02:04:49 | io.github.edbror/sat-defensa-mcp | Defensa SAT — plazos de defensa del con… | 0.1.0 | Qué medios de defensa proceden contra un acto del SAT, hasta cuándo, y dónde es… |
+| 2026-11-03 02:10:19 | br.com.cnovatech/datamarket | Cnovatech Data Market | 0.3.0 | Prices, availability and assortment for 150k+ products across 240+ Brazilian on… |
+| 2026-11-03 02:10:20 | io.github.babo072/kschoolinfo | kschoolinfo | 1.0.0 | Korean school meals with allergen flags, timetables, academic calendars, school… |
+| 2026-11-03 02:11:01 | [com.hydrata/hydrata-mcp-server](https://github.com/Hydrata/hydrata-mcp-server) | Hydrata - ANUGA Flood Simulation | 0.2.1 | Run ANUGA flood simulations, track progress, and retrieve results on Hydrata Cl… |
+| 2026-11-03 02:11:39 | [io.github.CloudCorpRecords/types2docs](https://github.com/CloudCorpRecords/types2docs) |  | 0.1.0 | Render a markdown API reference from caller-supplied TypeScript type declaratio… |
 
 ## Data source
 
