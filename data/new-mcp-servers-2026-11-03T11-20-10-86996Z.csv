@@ -1,0 +1,35 @@
+created_at,server,title,version,repository,transports,description
+2026-11-03T10:21:01.947032Z,io.github.kimjungminn24/pixel-duet,pixelduet,1.0.0,https://github.com/kimjungminn24/pixel-duet,,"A pixel canvas you share with the model: watch it draw live, pause, edit, and hand the brush back."
+2026-11-03T10:22:08.806386Z,io.github.gmpetrov/agent-screenplay,Screenplay,0.1.6,https://github.com/gmpetrov/agent-screenplay,,"Beautiful screen recordings of any website or desktop app, scripted by your agent."
+2026-11-03T10:27:08.22033Z,io.github.aalzres/tankoup,TankoUp,0.1.0,https://github.com/aalzres/tankoup-mcp,streamable-http,"Cheapest fuel in Spain: live prices at ~12,000 petrol stations, near a place or along a route."
+2026-11-03T10:30:25.378099Z,online.soundassist/assistant,SoundAssist,0.2.0,,streamable-http,"Your tracks, versions and notes, and a SoundAssist engineer, a person, you can order a master from."
+2026-11-03T10:31:26.532425Z,io.github.21-million-wall/twentyone-million,twentyone million,1.0.0,https://github.com/21-million-wall/twentyone-million,streamable-http,"Read the wall and claim one $1 USDC square on Base. No utility, not a token or investment."
+2026-11-03T10:34:04.875025Z,com.lifescientific/products,Life Scientific product catalogue,0.2.0,,streamable-http,"Crop-protection products, active ingredients, approved uses and registrations per country."
+2026-11-03T10:34:39.58312Z,io.github.jsspace/bead-colors-mcp,Meltbead Craft Colors,0.1.0,https://github.com/jsspace/bead-colors-mcp,,Search craft color palettes and match shades by CIEDE2000 with Meltbead.
+2026-11-03T10:36:26.776028Z,com.ksaworks/goldseam,,1.2.1,https://github.com/AcademyOne-Inc/GoldSeam,streamable-http,"The U.S. Marketplace of Learning2Earning Opportunity | Sourced checklists, progress, prior learning"
+2026-11-03T10:37:48.485479Z,com.dayschedule/mcp,DaySchedule,1.0.0,https://github.com/dayschedule/dayschedule-mcp,streamable-http,"Appointment scheduling: check availability, book, reschedule and cancel meetings, manage events."
+2026-11-03T10:45:15.367607Z,com.teppek/teppek,Teppek,1.3.1,,streamable-http,"Agent-accessible map of global supply & demand: jobs, homes, cars & services your AI can act on"
+2026-11-03T10:46:22.035497Z,com.zeenly/zeenly,Zeenly,1.0.0,,streamable-http,Publish and manage interactive magazines on Zeenly from your AI app. Paid Zeenly plans only.
+2026-11-03T10:47:31.026708Z,tr.com.212medya/growth-check,212medya Growth Check,1.0.0,,streamable-http,Audit a public website for B2B marketing readiness and AI search visibility.
+2026-11-03T10:47:36.45996Z,com.sellfy/mcp,Sellfy MCP Server,1.0.0,https://github.com/Sellfy/sellfy-mcp,streamable-http,"Run your Sellfy store from your AI assistant: products, discounts, orders, sales and email drafts."
+2026-11-03T10:50:36.07627Z,io.github.micro-ai-ventures/organ,Organ,1.0.0,,streamable-http,"Reach your Organ team: ventures, activity, decisions, recurring jobs and venture creation."
+2026-11-03T10:54:52.385303Z,io.irfanaslam/tools,Irfan Aslam Tools,1.0.0,,streamable-http,"Saudi labor, GOSI, VAT and zakat calculators, Hijri dates, gold and SAR rates, DNS and email checks."
+2026-11-03T10:55:28.100663Z,today.thekorean/speller,,1.0.0,,streamable-http,"Free Korean spell & spacing checker (코리안투데이 맞춤법 검사기). No sign-up, text not stored."
+2026-11-03T10:55:28.598548Z,today.thekorean/news,,1.0.1,,streamable-http,"Korean news (The Korean Today 코리안투데이): articles, 15 editions, AI summaries in 87 languages."
+2026-11-03T10:56:41.292669Z,io.github.gokaytr/geoniks,Geoniks — Wooden House Design,1.0.0,,streamable-http; streamable-http,"Design a wooden house in 3D, get a price estimate and quotes from wooden house manufacturers."
+2026-11-03T10:57:05.23545Z,com.plcgateway/plcgateway,PLCGateway,0.1.0,https://github.com/CybriantOps/plcgateway-mcp,,"Ask your plant: live PLC data, alarms, history, OEE and reports from your on-premises PLCGateway."
+2026-11-03T10:58:00.320821Z,digital.qie/wallet,QIE Wallet,0.1.0,,streamable-http,"Read-only QIE chain data: balances, tx status, tokens, network facts. Chains 1990 and 1983. No keys."
+2026-11-03T10:59:04.881922Z,com.reeltopus/mcp,Reeltopus,1.2.0,,streamable-http,"Turn long videos into captioned vertical clips, export them and post them."
+2026-11-03T10:59:24.689933Z,au.com.sysconaustralia/click-to-frame,Click-to-Frame,0.1.1,,streamable-http,"Put any picture inside a painting, screen or window in a photo, or cut objects out. Runs on-device."
+2026-11-03T11:01:51.091804Z,io.helpcenter/agent,HelpCenter.io for agents,2.5.1,,streamable-http,"Without an account, an AI agent can create or migrate a help center and hand its user a claim link."
+2026-11-03T11:09:15.39149Z,com.eacpartners/concierge,,0.1.0,,streamable-http,"Public tools for EAC Partners: offerings, insights, and appointment requests."
+2026-11-03T11:10:24.86638Z,io.haystackapp/jobs,Haystack Jobs,1.0.0,,streamable-http,"Search live jobs from employers' own careers sites in the US, UK, Canada, Australia and Europe."
+2026-11-03T11:10:25.342047Z,io.haystackapp/auto-apply,Haystack Auto Apply,1.0.0,,streamable-http,See your job matches and have Haystack's AI agent apply to the ones you pick. Sign in with Haystack.
+2026-11-03T11:10:42.403908Z,io.github.CloudCorpRecords/pdfaudit,,0.1.0,https://github.com/CloudCorpRecords/pdfaudit,,Audit a local PDF against the machine-checkable basics of PDF/UA accessibility. No uploads.
+2026-11-03T11:14:03.920972Z,com.spocont/otthonesuzlet,otthon & üzlet,1.0.0,,streamable-http,"Hungarian home and shop listings with sealed-offer auctions: search, details, seller drafts."
+2026-11-03T11:14:57.138512Z,fyi.mooi/mooi,Mooi,1.0.0,,streamable-http,"Plan group gatherings: dates, availability, polls, questions and decisions. No login or API key."
+2026-11-03T11:15:31.137641Z,legal.merit/law,Merit — Ukrainian Law & Registers,1.0.0,,streamable-http,"Ukrainian legislation, court decisions, company, debtor and sanctions registers, ECHR case law."
+2026-11-03T11:16:40.745812Z,io.github.ihubanov/squire,MCP Appium - Mobile Development and Automation Server,1.31.5,,,MCP server for Appium mobile automation on iOS and Android devices with test creation tools.
+2026-11-03T11:16:56.670853Z,app.shiko/mcp,Shiko Mind Maps,1.0.0,,streamable-http,Read and edit shared mind maps. Your team sees each change live and can undo any edit.
+2026-11-03T11:17:04.767008Z,info.programmable/programmable,Programmable,1.0.0,,streamable-http,"Find companies from public records, enrich domains, find work-email formats and run sales agents."
+2026-11-03T11:19:52.835707Z,so.birdie/birdie,Birdie,1.0.0,,streamable-http,"Search Birdie screen recordings: transcripts, console logs, network requests, repro steps, frames."
