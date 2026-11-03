@@ -9,50 +9,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 03:20 UTC
+## Latest list — 2026-11-03 04:20 UTC
 
-New MCP servers published between 2026-11-03 02:19 UTC and 2026-11-03 03:20 UTC.
+New MCP servers published between 2026-11-03 03:20 UTC and 2026-11-03 04:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-03T03-20-54-193443Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-03T04-20-05-994247Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-03 02:20:17 | [ai.momentic/momentic](https://github.com/momentic-ai/skills) | Momentic | 1.0.0 | Bug bash deployed apps and GitHub pull requests with Mo; follow sessions and re… |
-| 2026-11-03 02:22:28 | [com.globalpiggy/ecosystem](https://github.com/NodajiFi-Tokenomy/NodajiFi-Ecosystem) | GlobalPiggy | 1.0.0 | Read-only public content from GlobalPiggy apps: food, produce, billiards, beaut… |
-| 2026-11-03 02:23:10 | [io.github.CloudCorpRecords/faqmine](https://github.com/CloudCorpRecords/faqmine) |  | 0.1.0 | Mine supplied closed issues for repeated questions; draft an FAQ with counts an… |
-| 2026-11-03 02:23:26 | [io.github.QuanuX/symphony](https://github.com/QuanuX/symphony-codex-ipc-mcp-and-skills) | Symphony | 0.1.0-alpha.1 | Inspect and administer a configured Symphony installation through its qxctl con… |
-| 2026-11-03 02:24:36 | br.com.magion/magion | Magion | 1.0.0 | Fotos, lookbooks e vídeos de moda com IA pelo chat. Fashion photos, lookbooks a… |
-| 2026-11-03 02:25:42 | com.agentgruvi/gruvi | Gruvi | 2.1.0 | Publish social videos and photo carousels, bulk schedule posts, and read analyt… |
-| 2026-11-03 02:27:48 | [io.github.karmendra8386/agent-cost-mcp-server](https://github.com/karmendra8386/agent-cost-mcp-server) |  | 0.1.1 | Prices LLM/agent runs per successful task, with spend recording and budget stat… |
-| 2026-11-03 02:29:48 | com.reulay/reulay | Reulay | 0.2.0 | 60-second brain resets for people who build with AI: breathing, immersive video… |
-| 2026-11-03 02:31:43 | com.twinethos/lite | TwinEthos Lite | 1.0.0 | Which AI laws apply to an AI feature in a market: exact provision, who it appli… |
-| 2026-11-03 02:34:45 | [com.lottiefiles/creator](https://github.com/LottieFiles/creator-agent-plugin) | Creator MCP | 1.0.0 | Hosted motion engine for agents. Builds layers and keyframes, exports MP4, WebM… |
-| 2026-11-03 02:35:07 | [io.github.Abubakr-Sanginov/expo-headless-mcp](https://github.com/Abubakr-Sanginov/expo-headless-mcp) |  | 0.2.0 | See and operate Expo / React Native apps: screenshots, taps, typing, auto-testi… |
-| 2026-11-03 02:38:22 | [io.github.CloudCorpRecords/glossarygen](https://github.com/CloudCorpRecords/glossarygen) |  | 0.1.0 | Build a project glossary from supplied code and doc terms, merged, with source… |
-| 2026-11-03 02:40:30 | [io.github.Prashant2204/pdf-text-extractor-mcp](https://github.com/Prashant2204/pdf-text-extractor) | PDF Text Extractor MCP | 0.1.1 | Extract local PDF text with page-level paragraphs and English/German OCR fallba… |
-| 2026-11-03 02:41:15 | com.congresstradealerts/cta | Congress Trade Alerts | 1.0.0 | Congressional stock-trade disclosures (House + Senate PTRs) with each filing's… |
-| 2026-11-03 02:43:08 | com.betteranalyst/pdf-to-excel | Better Analyst PDF to Excel | 1.0.0 | Turn bank statements, invoices, receipts and other PDFs into Excel workbooks. |
-| 2026-11-03 02:59:03 | [io.github.joshluberisse/ordan](https://github.com/joshluberisse/ordanplatform) | ORDan | 0.1.2 | ORDan's MCP server: calls, SMS and phone numbers for AI agents, under their own… |
-| 2026-11-03 02:59:45 | [io.github.CloudCorpRecords/codescout](https://github.com/CloudCorpRecords/codescout) |  | 0.1.0 | Rank supplied codebase search hits by relevance and recency, with file-owner co… |
-| 2026-11-03 03:00:37 | com.hotelbonnenuit/hotel-bonne-nuit | Hôtel Bonne Nuit - Labuan Bajo | 1.0.0 | Availability, prices and booking with Midtrans payment link for Hôtel Bonne Nui… |
-| 2026-11-03 03:02:37 | [com.foreverworks/anaf-spv](https://github.com/foreverworks/mcps) | ANAF SPV | 0.1.1 | Download what ANAF posts to your SPV inbox, request documents, and validate or… |
-| 2026-11-03 03:02:38 | [com.foreverworks/app-stores](https://github.com/foreverworks/mcps) | App Store and Google Play | 0.1.1 | Read and answer App Store and Google Play reviews, and see TestFlight feedback… |
-| 2026-11-03 03:02:40 | [com.foreverworks/bitwarden](https://github.com/foreverworks/mcps) | Bitwarden | 0.2.0 | Give your assistant its own Bitwarden vault for logins, passwords, 2FA codes an… |
-| 2026-11-03 03:02:41 | [com.foreverworks/eas](https://github.com/foreverworks/mcps) | Expo Application Services | 0.1.1 | Find out why an Expo build, workflow run or store submission failed, and roll o… |
-| 2026-11-03 03:02:42 | [com.foreverworks/home-assistant](https://github.com/foreverworks/mcps) | Home Assistant | 0.1.1 | Read your Home Assistant's states, areas and history, and run its actions, appr… |
-| 2026-11-03 03:02:43 | [com.foreverworks/onrc](https://github.com/foreverworks/mcps) | ONRC trade register | 0.1.1 | Follow your filings at Romania's trade register, with their documents, fee note… |
-| 2026-11-03 03:02:45 | [com.foreverworks/porkbun](https://github.com/foreverworks/mcps) | Porkbun | 0.1.1 | Register domains and manage DNS, hosting and mail at Porkbun, with every purcha… |
-| 2026-11-03 03:02:46 | [com.foreverworks/trademarks](https://github.com/foreverworks/mcps) | Trademark search | 0.1.1 | Check whether a name is already a registered or pending trademark in the US or… |
-| 2026-11-03 03:02:47 | [com.foreverworks/typesafe](https://github.com/foreverworks/mcps) | TypeSafe | 0.1.1 | Get calibrated yes or no answers, choices and scores from TypeSafe's Jev, for o… |
-| 2026-11-03 03:08:18 | [io.github.kau17033/cam-product-viability-standard](https://github.com/kau17033/cam-product-viability-standard) | CAM — Product Viability Standard | 1.0.0 | Deterministic product viability verdicts: profit after all six cost items, in t… |
-| 2026-11-03 03:09:26 | au.com.flathive/rental-search | Flathive | 1.0.0 | Search rooms, share houses and flatmate listings in Australia, New Zealand, Can… |
-| 2026-11-03 03:10:09 | [io.github.jgsierra/veredicto-humano-x402](https://github.com/jgsierra/veredicto-humano-x402) | Veredicto Humano | 1.0.3 | Ask a real human (not an LLM) for a judgment, $0.10 USDC via x402. The result r… |
-| 2026-11-03 03:10:19 | [io.github.CloudCorpRecords/redactpdf](https://github.com/CloudCorpRecords/redactpdf) |  | 0.1.0 | Permanently redact SSNs, cards, emails, phones and custom terms from local PDFs… |
-| 2026-11-03 03:11:33 | [com.rebidpro/contractor-quotes](https://github.com/norriscodes/rebidpro) | RebidPro contractor quotes | 1.0.0 | Real quotes from local US contractors for property jobs, ranked in ~48h, plus f… |
-| 2026-11-03 03:12:25 | io.github.mk-career-planning/jp-caa-actions | Japan CAA Commercial Transactions Actio… | 0.1.0 | Japan CAA actions under the Specified Commercial Transactions Act, with head of… |
-| 2026-11-03 03:15:53 | org.peornot/peornot | PE or Not? | 1.0.0 | Is a US dentist, vet or eye doctor private-equity backed? Owner, PE backers and… |
-| 2026-11-03 03:17:35 | [com.quietdiff/quietdiff](https://github.com/quietdiff/quietdiff) | QuietDiff | 0.1.0 | Monitor web pages for price, stock or text changes; low-noise alerts via MCP, A… |
-| 2026-11-03 03:20:52 | [io.github.CloudCorpRecords/memeport](https://github.com/CloudCorpRecords/memeport) |  | 0.1.0 | Search 25,000+ meme templates and create captioned, shareable memes via the fre… |
+| 2026-11-03 03:21:36 | vn.techjobs/techjobs | TechJobs.vn | 1.0.0 | Search open tech jobs and companies hiring in Vietnam, refreshed hourly. No key… |
+| 2026-11-03 03:24:42 | [ai.agentgates/mcp](https://github.com/Carlos-Sotop/agentgates) | Agentgates Wallet | 1.0.1 | An agent wallet over MCP: balances, and sends, swaps and earn moves its owner a… |
+| 2026-11-03 03:26:51 | [io.github.BKBakker/verified-reality](https://github.com/BKBakker/VRA-Command) | Verified Reality | 1.0.1 | Hash checks, catalog search, and field-bounty quotes for southwestern Ontario. |
+| 2026-11-03 03:27:23 | io.github.Nero-Engine/price-per-unit-calculator | Price Per Unit Calculator | 0.1.0 | Price per unit from Amazon, Walmart and grocery scraper rows: best value, bigge… |
+| 2026-11-03 03:29:26 | cc.eu.hardoz/x402 | hardoz x402 tools | 1.0.0 | Pay-per-call AI and media tools over x402. USDC on Base, no signup, no API key. |
+| 2026-11-03 03:30:21 | [io.github.CloudCorpRecords/onboardmap](https://github.com/CloudCorpRecords/onboardmap) |  | 0.1.0 | Build a newcomer map from supplied repo facts: areas, entry points, tests, and… |
+| 2026-11-03 03:32:57 | [io.github.VectifyAI/pageindex-mcp](https://github.com/VectifyAI/pageindex-mcp) | PageIndex MCP | 1.9.0 | Reasoning-based RAG system for chatting with long PDFs. Supports local and onli… |
+| 2026-11-03 03:33:57 | [io.github.acertijosapps/electron-viewer](https://github.com/acertijosapps/electron-viewer) | Electron Viewer | 1.0.0 | Drive Electron apps over CDP: screenshots, clicks, drags, keys, JS in renderer… |
+| 2026-11-03 03:34:47 | org.compare-auckland-newbuilds-renovations/auckland-builders | Compare Auckland Builds: builders and t… | 1.1.0 | Compare Auckland NZ builders and trades by suburb, project type and credentials… |
+| 2026-11-03 03:40:29 | [io.github.CloudCorpRecords/swissreg](https://github.com/CloudCorpRecords/swissreg) |  | 0.1.0 | Swiss company data: register lookups, gazette publications, tenders, FINMA, LEI… |
+| 2026-11-03 03:41:12 | [com.vulntel/mcp](https://github.com/rozetyp/vulntel-mcp) | vulntel | 1.1.0 | Free hosted CVE intel for bug-bounty agents: CVE fact-check, attack approaches… |
+| 2026-11-03 03:41:29 | [io.github.relsun369-dev/rel-time](https://github.com/relsun369-dev/reltime-mcp) | Rel-Time Protocol (Bitcoin & VDF Proven… | 1.2.11 | Zero-knowledge Bitcoin Mainnet & VDF timestamping, Passkey signing, Sun-Stamps,… |
+| 2026-11-03 03:45:03 | ai.sharpest/sharpest | Sharpest price search | 1.0.0 | Current new and used prices for GPUs, electronics, trading cards, LEGO and ever… |
+| 2026-11-03 03:47:18 | [io.github.dav3trad3r/agentpickup](https://github.com/dav3trad3r/agentpickup) | agentPickup | 0.1.0 | Order from a shop, pay in USDC over x402, and get the QR to collect in person. |
+| 2026-11-03 03:49:11 | [works.tensegrity/foundations-elements](https://github.com/Tensegrity-Systems/foundations-elements-mcp) | Foundations Elements | 1.0.0 | UI encyclopedia for agents — search Elements and fetch component specs over MCP… |
+| 2026-11-03 03:51:48 | [io.github.CloudCorpRecords/bodymeasure](https://github.com/CloudCorpRecords/bodymeasure) |  | 0.1.0 | Anthropometric predictions and percentile lookups via the Humanform API. |
+| 2026-11-03 03:52:22 | ly.clinical.api-preprod/clinically-api | Clinical.ly Research Suite | 6077bc656c72 | Query Clinical.ly clinical-research data via read-only API tools using your OAu… |
+| 2026-11-03 03:57:36 | com.pushbuild/data-apis | Pushbuild Data APIs | 1.0.0 | Search and call 403 public-records and market-data APIs: elections, courts, per… |
+| 2026-11-03 03:58:24 | com.elfhosted/public | ElfHosted | 0.2.2 | Browse ElfHosted's managed apps, prices, savings, the $1 trial, docs and status… |
+| 2026-11-03 03:58:24 | com.elfhosted/my-stack | ElfHosted: my stack | 1.0.0 | Your own ElfHosted apps: health, libraries, settings, and changes you approve.… |
+| 2026-11-03 03:59:39 | [io.github.ZacxDev/clanksquare](https://github.com/ZacxDev/clanksquare) | Clanksquare | 0.1.5 | Read Clanksquare's public channels, where AI agents post signed messages. Read-… |
+| 2026-11-03 04:03:13 | [io.github.CloudCorpRecords/fairdraw](https://github.com/CloudCorpRecords/fairdraw) |  | 0.1.0 | Provably fair raffle draws: winners picked from public drand randomness, verifi… |
+| 2026-11-03 04:05:53 | [io.github.louienemesh/kivio-mcp-creator](https://github.com/louienemesh/kivio-mcp-creator) | KiVio Creator | 0.1.1 | Upload AI videos, manage series, handle commissions, see earnings on KiVio. |
+| 2026-11-03 04:08:41 | [io.github.seahawk2986-hue/apex-ghost-family](https://github.com/seahawk2986-hue/apex-ghost-family) |  | 1.0.0 | Read-only window into an open self-evolving agent family: fleet health, court v… |
+| 2026-11-03 04:09:45 | [io.github.kehsiaocuba-ux/fedit](https://github.com/amalexico/fedit) |  | 1.12.0 | Go MCP server for surgical file edits: insert, replace, move, copy, dry-run, ve… |
+| 2026-11-03 04:13:48 | [io.github.laaielichter/gulliver](https://github.com/laaielichter/Gulliver) |  | 0.3.0 | Dress rehearsal for agent SQL: cost preflight, auto-fix, 1% sample runs, budget… |
+| 2026-11-03 04:14:00 | [io.github.CloudCorpRecords/meetrecord](https://github.com/CloudCorpRecords/meetrecord) |  | 0.1.0 | Recordist meetings on your machine: list, search, transcripts, action items, re… |
+| 2026-11-03 04:15:59 | [io.github.johnisanerd/google-maps-directions](https://github.com/johnisanerd/Apify-Google-Maps-Directions-API) |  | 1.0.0 | Google Maps routes, ETAs, and turn-by-turn steps via the Apify Directions API,… |
+| 2026-11-03 04:17:41 | [io.github.Yedigarli/scandiary](https://github.com/Yedigarli/scandiary-cli) |  | 0.2.1 | Accessibility check (axe-core, WCAG A/AA) for sites you build, with a fix promp… |
+| 2026-11-03 04:18:27 | insurance.plain/mcp | Plain Insurance | 1.0.0 | Business insurance quotes for Danish companies, active policies and unsigned of… |
+| 2026-11-03 04:18:49 | [io.github.buildbetter-app/buildbetter](https://github.com/buildbetter-app/skills) | BuildBetter | 0.1.0 | Research customer feedback, calls, support, surveys and product usage with sour… |
+| 2026-11-03 04:19:25 | [io.github.MostafaAshry513/taskmarket-x402](https://github.com/MostafaAshry513/taskmarket-x402-mcp) | Taskmarket Onchain API | 1.0.0 | On-chain receipts, balances, tx status and address activity, pay-per-call via x… |
+| 2026-11-03 04:19:27 | fr.monrdvkine/disponibilites | MonRdvKine | 1.0.0 | Trouver un kinesitherapeute en France et ses creneaux en ligne pour une premier… |
 
 ## Data source
 
