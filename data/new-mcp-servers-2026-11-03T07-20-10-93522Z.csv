@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-11-03T06:20:59.880316Z,io.github.sepehr071/rasmio-mcp,Rasmio Company Registry,0.1.0,https://github.com/sepehr071/rasmio-mcp,,"Read-only Rasmio (rasmio.com): Iranian companies, board members, gazette ads, products, brands."
+2026-11-03T06:21:01.166274Z,io.github.lemberalla/ave-claude-code,AVE for Claude Code — Local Video Editing,0.1.3,https://github.com/lemberalla/tinythings-mcp-connectors,,Local AVE timeline editing and exports for Claude Code only. Existing AVE connection required.
+2026-11-03T06:21:01.382078Z,io.github.lemberalla/ave-codex,AVE for Codex CLI — Local Video Editing,0.1.3,https://github.com/lemberalla/tinythings-mcp-connectors,,Local AVE timeline editing and exports for Codex CLI only. Existing AVE connection required.
+2026-11-03T06:21:28.214934Z,io.github.sepehr071/iran-jobs-mcp,Iran Jobs (IranTalent + Jobinja + Jobvision),0.1.0,https://github.com/sepehr071/iran-jobs-mcp,,"Read-only Iran jobs: IranTalent, Jobinja, Jobvision side by side. Ads, companies, reviews, pay."
+2026-11-03T06:21:52.178513Z,com.chartbrew/chartbrew,Chartbrew MCP,6.0.0,,streamable-http,Chartbrew connects your data to dashboards. Explore data and create chart previews through MCP.
+2026-11-03T06:29:25.770398Z,io.hirelabs/hirelabs,Hirelabs,1.0.0,,streamable-http,"Find and message top native iGaming and web3 talent: AI search, roles and chats."
+2026-11-03T06:30:50.440657Z,pl.hookownia/hookownia,Hookownia,1.0.0,,streamable-http,"Polskie hooki, style i struktury rolek dla ChatGPT i Claude. Twój czat pisze z nimi skrypty."
+2026-11-03T06:31:04.557693Z,io.github.AnIayana/high-performance-mcp-server,High Performance MCP Server,0.6.0,https://github.com/AnIayana/high-performance-mcp-server,,"High-performance, modular MCP v2 server with safe profiles, worker pool, caching, and stdio."
+2026-11-03T06:31:07.698894Z,com.ainoova/tools,Ainoova Tools,1.0.0,,streamable-http,"Notes, tasks, habits, journal and 6 more tools Claude can read and change, with undo. Free."
+2026-11-03T06:37:20.797932Z,ai.aibotoffice/bot-office,Bot Office,0.1.0,,streamable-http; streamable-http,Report AI bot work to a live office; ask a person to approve risky actions; work queue and memory.
+2026-11-03T06:39:12.427903Z,com.streetproof/mcp,StreetProof Physical Brand Index,1.9.1,,streamable-http,"Read-only, privacy-safe evidence of physical business presence for AI agents."
+2026-11-03T06:46:45.069578Z,com.coinbucha/bitcoin-signals,,0.1.2,https://github.com/jukkablomberg/coinbucha-mcp,streamable-http,"Leading non-price Bitcoin signals over MCP: sovereign, hiring, hashrate. Not financial advice."
+2026-11-03T06:47:42.515805Z,uk.homedex/homedex,Homedex,1.0.0,,streamable-http,"UK homes for sale and to let from estate agents, plus Land Registry sold prices. Read-only."
+2026-11-03T06:48:13.620911Z,kr.co.knockwatch/coin-check,KnockWatch,1.0.0,,streamable-http,"Public signal records and exchange alerts for Upbit KRW coins, from KnockWatch (Korean)."
+2026-11-03T06:56:16.778002Z,com.saveditapp/savedit,SavedIt,1.1.0,,streamable-http,"Find, read and organize the links, videos and posts you saved in SavedIt."
+2026-11-03T06:56:26.483454Z,app.thatsaid/thatsaid,thatsaid,1.0.0,,streamable-http,"Search and read your thatsaid meeting transcripts, summaries and action items. OAuth or token."
+2026-11-03T07:01:04.652711Z,com.adityaarsharma.audit/sitewalk,Sitewalk,1.0.0,,streamable-http,"Technical SEO audits from ChatGPT or the web: health score, prioritised fixes, CSV and PDF reports."
+2026-11-03T07:07:18.216496Z,io.github.serpapi/serpapi-mcp,SerpApi,2.1.0,https://github.com/serpapi/serpapi-mcp,streamable-http,"Official SerpApi MCP server for Google, Bing, and other search engines."
+2026-11-03T07:18:42.056338Z,io.github.jaypark8780/baedang,BaeDang.info Dividend Data,1.0.0,,streamable-http,"Search and rank Korean and US dividend stocks and ETFs by yield, growth, and cut history."
+2026-11-03T07:20:04.677345Z,ai.agilex.service/pipeline-check,AGILEX Docs (pipeline check),1.0.0,,streamable-http,Temporary entry verifying the publish pipeline. Will be deleted.
