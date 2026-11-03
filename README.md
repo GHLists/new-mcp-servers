@@ -9,47 +9,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 12:20 UTC
+## Latest list — 2026-11-03 13:19 UTC
 
-New MCP servers published between 2026-11-03 11:20 UTC and 2026-11-03 12:20 UTC.
+New MCP servers published between 2026-11-03 12:20 UTC and 2026-11-03 13:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-03T12-20-55-797985Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-03T13-19-28-66987Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-03 11:20:47 | [io.github.GoTolstoy/tolstoy](https://github.com/GoTolstoy/mcp) | Tolstoy | 1.3.0 | Manage your Tolstoy workspace: products, media library, uploads, models, templa… |
-| 2026-11-03 11:21:08 | [io.github.CloudCorpRecords/planboard](https://github.com/CloudCorpRecords/planboard) |  | 0.1.0 | Beck agent plan board: workspaces, documents, epics, tasks, decisions and progr… |
-| 2026-11-03 11:22:43 | [io.github.ara-5/second-brain](https://github.com/ara-5/mind-mri-agent-second-brain) | Second Brain | 1.6.0 | Shared Graph-RAG memory for AI agents: markdown vault, wikilink recall, tasks,… |
-| 2026-11-03 11:29:04 | [io.github.matlab/matlab-mcp-server](https://github.com/matlab/matlab-mcp-server) | MATLAB MCP Server | 0.16.0 | Connect AI coding agents to MATLAB. Run code, tests, and analysis via MCP. |
-| 2026-11-03 11:32:23 | [io.github.mpopovych-thinkhome/larnitech-mcp](https://github.com/mpopovych-thinkhome/larnitech-mcp) | Larnitech | 1.4.0-beta | Read, watch and safely control Larnitech smart-home controllers over the API2 p… |
-| 2026-11-03 11:33:38 | [io.github.CloudCorpRecords/exitprobe](https://github.com/CloudCorpRecords/exitprobe) |  | 0.1.0 | Check whether an exit IP works for AI services: ASN, network type, risk, AI ava… |
-| 2026-11-03 11:38:06 | com.sendfaxwell/faxwell | Faxwell | 1.0.0 | Send a fax to any US or Canada number. 10¢ a page, no subscription, no account… |
-| 2026-11-03 11:38:52 | com.smartretry/payment-tools | SmartRetry Payment Tools | 1.0.0 | Free BIN, issuer, MCC and decline code lookups for card payments (Visa, Masterc… |
-| 2026-11-03 11:39:47 | [legal.relex/relex](https://github.com/relexlegal/relex-mcp) | Relex Legal | 0.1.11 | Legal practice management: redacted matters, sources, drafts and verified legal… |
-| 2026-11-03 11:45:11 | au.vibecfo/vibecfo | Vibe CFO | 1.0.0 | Read-only access to a firm's client financials in Vibe CFO: certified figures,… |
-| 2026-11-03 11:45:18 | [io.github.CloudCorpRecords/linkscribe](https://github.com/CloudCorpRecords/linkscribe) |  | 0.1.0 | Transcribe links with a txscribe account; read transcripts, summaries and searc… |
-| 2026-11-03 11:46:24 | [io.github.chrischall/juggle-mcp](https://github.com/chrischall/juggle-mcp) |  | 0.1.0 | Juggle (whyjuggle.com) babysitting/petsitting for families: sits, sitters, mess… |
-| 2026-11-03 11:46:45 | [io.github.47-ronn/remote-agents](https://github.com/47-ronn/tunshell_mcp_agents) |  | 0.1.44 | Control fleets of remote machines via AI agents: exec, files, git, fleet ops, m… |
-| 2026-11-03 11:50:14 | [app.appclimb/mcp](https://github.com/skverall/Appclimb) | AppClimb | 1.0.0 | App Store keyword research: Apple popularity, difficulty with evidence, verdict… |
-| 2026-11-03 11:51:18 | app.liveintently/respite | Respite Screen Time | 1.1.0 | Your real phone and browser screen time, limits and progress from the Respite a… |
-| 2026-11-03 11:52:04 | app.recl/recl | Recl | 1.0.0 | Search, read and review your saved videos, links and notes; save links and ask… |
-| 2026-11-03 11:54:08 | io.github.andygkr/mailazy | Mailazy | 1.0.0 | Run email marketing from your AI assistant: contacts, newsletters, automations,… |
-| 2026-11-03 11:55:11 | [io.github.shlokbam/portfolio](https://github.com/shlokbam/Portfolio) | Shlok Bam's portfolio | 1.0.0 | Ask about Shlok Bam, AI engineer: projects, experience, skills, patents. Live,… |
-| 2026-11-03 11:55:22 | io.q9ive/olcum |  | 1.0.0 | Checks e-commerce ad measurement (pixels, GTM, GA4, consent, UTM) and diagnoses… |
-| 2026-11-03 11:55:39 | co.madbroad/madbroad | MadBroad Media | 1.0.0 | Street interview ad agency. Learn about MadBroad, book an intro call, browse jo… |
-| 2026-11-03 11:57:00 | [io.github.CloudCorpRecords/tunecatalog](https://github.com/CloudCorpRecords/tunecatalog) |  | 0.1.0 | Search and browse an AI music catalog by mood or genre; track details and strea… |
-| 2026-11-03 11:57:08 | [com.coralogix/mcp-server](https://github.com/coralogix/mcp-server) | Coralogix | 2.0.0 | Query logs, metrics, traces, dashboards and alerts on the Coralogix platform. |
-| 2026-11-03 11:57:29 | io.github.thea11ylabs/inclusivio | Inclusivio | 1.0.0 | Run WCAG accessibility scans on websites, list each issue with its element, and… |
-| 2026-11-03 11:58:16 | [io.github.Dynatrace/dynatrace-for-ai](https://github.com/Dynatrace/dynatrace-for-ai) | Dynatrace | 10.0.0 | Connect AI assistants to Dynatrace to query observability data and analyze prob… |
-| 2026-11-03 11:58:44 | com.businessnamedesk/name-check | Business Name Desk | 1.0.0 | Check if a US business name is taken: state business registers, the .com and re… |
-| 2026-11-03 11:59:06 | [io.tendrils/mcp-server](https://github.com/tendrils-io/tendrils-mcp) | Tendrils â€” live commerce tools for AI… | 1.0.0 | Live commerce tools for agents on a 42k-product furniture catalog. |
-| 2026-11-03 12:06:53 | app.luala/luala | Luala | 1.19.0 | Photo shoots of you from your saved selfies: pick a pack, shoot, edit. |
-| 2026-11-03 12:09:36 | [io.github.asampat3090/scoreproof](https://github.com/asampat3090/scoreproof) | Scoreproof | 0.1.0 | Convert MusicXML, MIDI, ABC, MEI and Humdrum, print sheet music, and verify eve… |
-| 2026-11-03 12:11:35 | [io.github.CloudCorpRecords/stylechart](https://github.com/CloudCorpRecords/stylechart) |  | 0.1.0 | Match a sentence to visual styles and feeling words; look up words and styles i… |
-| 2026-11-03 12:12:01 | ad.pantheon/mcp | Pantheon | 1.0.0 | Meta ads library, competitor ads, brand voice, avatars and offer briefs from yo… |
-| 2026-11-03 12:12:02 | [io.github.pabloestepaa/amr-mcp](https://github.com/pabloestepaa/amr-mcp) | AMR (antimicrobial resistance) | 0.1.0 | Antimicrobial resistance genes, sequences and literature from NCBI and UniProt |
-| 2026-11-03 12:18:35 | com.kloudboard/kloudboard | kloudboard | 1.4.0 | Boards, cards, tasks, review, Drive and AI tools for content teams and YouTube… |
-| 2026-11-03 12:20:10 | [ai.gracker/mcp](https://github.com/grackerai/gracker-mcp) | GrackerAI | 1.0.0 | See how ChatGPT, Perplexity, Gemini and Google AI Overviews mention and cite yo… |
+| 2026-11-03 12:21:44 | com.tradingcalendars/holidays | TradingCalendars | 1.0.0 | FX, bank, payment-system and exchange holidays, settlement days, and live marke… |
+| 2026-11-03 12:22:07 | dev.moneytools/pay-precheck | MoneyTools x402 agent toolkit | 2.3.0 | x402 tools: service finder, payment precheck/verify, Solana mint check, web-to-… |
+| 2026-11-03 12:22:59 | dev.carimage/catalog | Car Image API catalog | 1.38.1 | Free vehicle lookups, image options, pricing and stored car image previews. No… |
+| 2026-11-03 12:23:01 | dev.carimage/car-image | Car Image API | 1.38.1 | Studio-quality images and 3D models of any real car, 1990-2027, by make, model,… |
+| 2026-11-03 12:23:02 | dev.geocodeai/geocode | Geocode AI | 1.0.0 | Administrative boundaries for every place on Earth: search, reverse lookup, pol… |
+| 2026-11-03 12:23:02 | dev.getglossa/glossa | Glossa | 0.1.0 | AI-native translation management: push translation files, translate, review and… |
+| 2026-11-03 12:23:02 | dev.skillhook/cloud | Skillhook Cloud | 0.3.0 | Operate skillhook machines: webhook-triggered Agent Skill jobs, deliveries, ale… |
+| 2026-11-03 12:23:03 | dev.getwabi/wabi | Wabi | 0.1.0 | WhatsApp Business on Meta's Cloud API: team inbox, templates, AI support agents… |
+| 2026-11-03 12:23:10 | de.firmium/firmium | Firmium | 1.0.0 | European company, sales and visitor intelligence: profiles, financials, prospec… |
+| 2026-11-03 12:24:07 | [io.github.pressbridgesupport/pressbridge](https://github.com/pressbridgesupport/pressbridge) | PressBridge | 1.1.0 | Safe, audited Claude access to WordPress sites: secrets hidden, backups, undo,… |
+| 2026-11-03 12:25:51 | [io.github.CloudCorpRecords/scentindex](https://github.com/CloudCorpRecords/scentindex) |  | 0.1.0 | Search a fragrance index: perfumes, notes, houses and guides; similar scents an… |
+| 2026-11-03 12:27:12 | io.getsendable/sendable | Sendable | 1.0.0 | Find LinkedIn prospects with buying intent and run Sendable campaigns, leads an… |
+| 2026-11-03 12:27:39 | com.mailazy/mcp | Mailazy | 1.0.0 | Run email marketing from your AI assistant: contacts, newsletters, automations,… |
+| 2026-11-03 12:32:18 | [io.github.oktopeak/clio-mcp](https://github.com/oktopeak/clio-mcp) |  | 2.5.0 | Connect Claude to Clio (37 tools), and export a whole Clio account, documents i… |
+| 2026-11-03 12:33:53 | com.rivalyse/rivalyse | Rivalyse | 2.7.2 | Read-only access to your Rivalyse price monitoring: competitor price gaps, aler… |
+| 2026-11-03 12:39:04 | [io.github.KI-Klub-Werder-e-V/openverein](https://github.com/KI-Klub-Werder-e-V/openverein) | OpenVerein | 0.1.0 | Club management for German e.V. clubs: members, fees, invoices, events and memb… |
+| 2026-11-03 12:43:50 | com.viasocket/mcp | viaSocket | 1.0.0 | Build and run automations across 2,300+ apps and build app integrations from an… |
+| 2026-11-03 12:44:12 | ai.guestlogic/guest-logic | Guest Logic | 1.0.0 | Hotel PMS: set up your property from your assistant, then read stays, rooms and… |
+| 2026-11-03 12:49:13 | com.ovimore/ovimore | Ovimore | 1.0.0 | Your hotel's numbers in Claude: occupancy, pace, pickup, mix, rates and reviews… |
+| 2026-11-03 12:49:41 | [io.github.malikabyl/proven](https://github.com/malikabyl/proven) | Proven | 0.1.0 | Judge AI-written Python: no invented packages or calls, no facts from memory, v… |
+| 2026-11-03 12:50:42 | [ai.qompass/vongola](https://github.com/qompassai/vongola) | Vongola | 0.2.0 | Read-only operator instrumentation for the vongola TLS gateway. |
+| 2026-11-03 12:52:53 | bot.tab.sites.backroom/backroom | The Back Room | 1.5.0 | THE nightclub for agents: confidential encrypted mailboxes, a family where agen… |
+| 2026-11-03 12:53:49 | [io.github.andy-chak/vendorindex](https://github.com/andy-chak/vendorindex) | VendorIndex | 0.1.0 | Rank vendors/libraries per use case from verified pricing, agent-friction and h… |
+| 2026-11-03 12:54:59 | com.pointrover/pointrover | PointRover | 2026.10.31 | Input prices, duties, rules and local market for a small business's AI, every f… |
+| 2026-11-03 12:55:17 | [com.aitourl/aitourl](https://github.com/aitourl/aitourl-mcp) | AIToURL | 1.0.0 | Your AI makes the file, you get a public link. Host PDFs, images and files from… |
+| 2026-11-03 12:56:08 | com.lotsagent/lotsagent | LotsAgent | 1.0.0 | Put a real AI agent to work today, built from your knowledge, your skills and y… |
+| 2026-11-03 12:59:41 | com.nafafy/storefront | Nafafy Storefront | 1.0.0 | Search the public Nafafy catalog and create firm checkout quotes. |
+| 2026-11-03 12:59:43 | com.nafafy/merchant | Nafafy Merchant | 1.0.0 | Authenticated MCP for Nafafy merchants: stories, products, schedules. |
+| 2026-11-03 12:59:45 | [ai.usestring/web-access](https://github.com/usestring/string-ai-mcp) | String Web Access | 1.3.8 | Search the web, fetch any URL and map a site as clean, LLM-ready Markdown. |
+| 2026-11-03 13:01:13 | finance.spectra/mcp | Spectra | 0.1.0 | Live Spectra fixed-rate yields, PT/YT markets, MetaVaults and portfolios across… |
+| 2026-11-03 13:03:34 | [io.github.CloudCorpRecords/fedvendor](https://github.com/CloudCorpRecords/fedvendor) |  | 0.1.0 | SAM.gov data by API key: entities, exclusions, opportunities, awards, hierarchy… |
+| 2026-11-03 13:07:32 | io.github.kriton-dev/ai-crawler-access-check | AI Crawler Checker — Robots.txt Policy… | 1.0.2 | Check declared robots.txt permissions for six AI crawlers at URL paths |
+| 2026-11-03 13:07:40 | io.github.kriton-dev/cve-risk-metrics | CVE Vulnerability Lookup — CVSS Scores… | 1.0.2 | Look up NVD CVE dates, status, numeric CVSS scores and severity |
+| 2026-11-03 13:07:48 | io.github.kriton-dev/hacker-news-story-metrics | Hacker News Metrics — Story Scores & Co… | 1.0.2 | Read numeric Hacker News story scores, timestamps and comment counts by ID |
+| 2026-11-03 13:07:56 | io.github.kriton-dev/image-format-converter | Image Converter — Static JPEG, PNG & We… | 1.0.7 | Convert and resize static image URLs to WebP, PNG or JPEG for uploads and agent… |
+| 2026-11-03 13:08:05 | io.github.kriton-dev/npm-package-metadata | npm Package Metadata — Versions, Licens… | 1.0.2 | Read latest npm package versions, license tokens and dependency counts |
+| 2026-11-03 13:09:09 | [io.github.dunctk/houses-with-land](https://github.com/dunctk/houseswithland.co.uk) | Houses With Land | 0.1.0 | Search UK houses with land and manage your private saved-homes board. |
+| 2026-11-03 13:10:57 | dev.getfrostbyte/frostbyte | Frostbyte | 1.5.3 | Product planning workspace for AI coding agents: tasks, releases, feedback and… |
+| 2026-11-03 13:11:01 | [io.github.Atomic-Mail/mcp](https://github.com/Atomic-Mail/atomic-mail-agentic) | Atomic Mail | 0.3.33 | Programmable email inbox for AI agents — JMAP, PoW auth, stdio MCP server. |
+| 2026-11-03 13:13:06 | com.tenetindustries/tenet | Tenet Industries | 1.0.0 | PCB assembly in Munich: upload Gerbers and a BOM, pick parts, get an instant pr… |
+| 2026-11-03 13:19:20 | [io.github.CloudCorpRecords/fdarecords](https://github.com/CloudCorpRecords/fdarecords) |  | 0.1.0 | openFDA identifier resolution: drug labels and applications, device submissions… |
 
 ## Data source
 
