@@ -9,40 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 00:18 UTC
+## Latest list — 2026-11-03 01:19 UTC
 
-New MCP servers published between 2026-11-02 23:18 UTC and 2026-11-03 00:18 UTC.
+New MCP servers published between 2026-11-03 00:18 UTC and 2026-11-03 01:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-03T00-18-36-780066Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-03T01-19-00-952886Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-02 23:19:52 | com.smallbusinesscommunity/library | The Small Business Library | 1.0.1 | Practical answers for small business owners from the Small Business Owners Comm… |
-| 2026-11-02 23:21:33 | [io.github.CloudCorpRecords/upgradepath](https://github.com/CloudCorpRecords/upgradepath) |  | 0.1.0 | Plan a safe dependency upgrade path: ordered intermediate versions, breaking ch… |
-| 2026-11-02 23:21:51 | io.fly/fly-mcp | Fly MCP | 0.1.0 | Manage Fly.io apps, Machines, volumes, secrets, Managed Postgres, and Sprites w… |
-| 2026-11-02 23:22:35 | app.niar/niar | NIAR | 1.0.0 | Which nearby physical shops in Spain have a product: stores, stock, prices, hou… |
-| 2026-11-02 23:27:34 | [io.github.ducflair/scopture](https://github.com/ducflair/scopture-plugin) | Scopture | 1.2.1 | Work on physical engineering projects, inspect CAD/BIM, run simulations, and ma… |
-| 2026-11-02 23:28:40 | [io.github.hybridforgelab/distill-mcp](https://github.com/hybridforgelab/distill-mcp) |  | 0.2.0 | Web pages to clean Markdown for AI agents, honouring robots.txt and AI opt-outs. |
-| 2026-11-02 23:29:46 | [io.github.hybridforgelab/unfold-mcp](https://github.com/hybridforgelab/unfold-mcp) |  | 0.2.0 | PDF, DOCX, PPTX and XLSX documents to Markdown for AI agents, from a URL or a l… |
-| 2026-11-02 23:29:48 | [io.github.hybridforgelab/shipshape-mcp](https://github.com/hybridforgelab/shipshape-mcp) |  | 0.2.0 | Dockerfile and Kubernetes lint for AI agents: Pod Security Standards, A–F grade… |
-| 2026-11-02 23:29:49 | [io.github.hybridforgelab/specwise-mcp](https://github.com/hybridforgelab/specwise-mcp) |  | 0.2.0 | OpenAPI and JSON Schema validation and OpenAPI breaking-change diffs for AI age… |
-| 2026-11-02 23:31:21 | [io.github.trypointmaxx/pointmaxx-mcp](https://github.com/trypointmaxx/pointmaxx-mcp) | PointMaxx | 0.1.2 | Which credit card to use, which cards to get, and card terms. 53 US cards, runs… |
-| 2026-11-02 23:32:15 | com.bernuvia/marketplace | Bernuvia | 1.0.1 | Marketplace of code templates: find, buy by card with Stripe, sell and manage y… |
-| 2026-11-02 23:32:17 | io.netpilot/netpilot | NetPilot | 1.0.0 | AI network lab: build and validate real multi-vendor router and switch labs fro… |
-| 2026-11-02 23:33:17 | io.github.mk-career-planning/jp-exam-results | Japan National Exam Pass Results | 0.1.0 | Japanese national exam pass counts and rates as published by MHLW, with source… |
-| 2026-11-02 23:35:11 | [io.github.ayush108108/vi-engine](https://github.com/ayush108108/vi-engine-SSoT) | VI Engine | 0.2.2 | Social media workspaces for brands: drafts, scheduling, analytics and comments. |
-| 2026-11-02 23:36:07 | com.roleweek/jobs | RoleWeek | 1.1.0 | Developer roles posted in the last 7 days, read from employers' own hiring syst… |
-| 2026-11-02 23:47:21 | [io.github.flyingkiwi-tools/document-to-markdown](https://github.com/flyingkiwi-tools/apify-mcp-tools) | PDF to Markdown & Document Converter (b… | 1.0.0 | PDF, Word, PowerPoint, Excel, HTML and EPUB to clean Markdown for RAG, with OCR… |
-| 2026-11-02 23:47:23 | [io.github.flyingkiwi-tools/ats-jobs-hiring-signals](https://github.com/flyingkiwi-tools/apify-mcp-tools) | Greenhouse, Lever & Ashby Jobs (by flyi… | 1.0.0 | Open jobs from Greenhouse, Lever, Ashby and 4 more ATSs in one schema, with new… |
-| 2026-11-02 23:47:37 | [io.github.flyingkiwi-tools/app-store-trends-app-ideas](https://github.com/flyingkiwi-tools/apify-mcp-tools) | App Store Top Charts, Reviews & App Ide… | 1.0.0 | Apple App Store top charts by country and category, rank changes, review themes… |
-| 2026-11-02 23:52:42 | com.seeyourorbit/orbit | Orbit for Substack | 1.0.0 | The people behind your Substack writing: who is here, who is drifting, and what… |
-| 2026-11-02 23:53:59 | [io.github.CloudCorpRecords/promptpack](https://github.com/CloudCorpRecords/promptpack) |  | 0.1.0 | Check a prompt-template pack from supplied templates: variables, versions, test… |
-| 2026-11-02 23:54:04 | io.roxinbox/agent-outbox | Agent Outbox | 1.0.0 | Let AI assistants post to your Telegram chats, groups and channels. Not affilia… |
-| 2026-11-03 00:01:06 | [io.github.Praket7/agent-interop-runtime](https://github.com/Praket7/agent-interop-runtime) | Agent Interop Runtime | 1.0.1 | Coordinate coding agents through a local MCP server while keeping accounts and… |
-| 2026-11-03 00:02:39 | [io.github.makoncline/daylily-catalog](https://github.com/makoncline/new-daylily-catalog) | Daylily Catalog | 1.2.2 | Search daylily catalogs and cultivar traits. Manage your grower catalog with sc… |
-| 2026-11-03 00:08:49 | com.cleveralpha.www/calculators |  | 1.0.0 | 9 deterministic IRS tax, RMD, Roth, Solo 401k, Form 1040, TALS, Estate & SBLOC… |
-| 2026-11-03 00:09:15 | com.vinemakerpublishing/public-catalog | VineMaker Publishing Public Catalog | 1.0.0 | Read-only search and retrieval of published books, articles and authors, with p… |
-| 2026-11-03 00:14:31 | dev.runscout/scout | Cascade Scout | 1.0.0 | Shared team record of decisions, changes and handoffs that every coding agent r… |
+| 2026-11-03 00:19:02 | [com.usegithubthing/ugt](https://github.com/auscaster/ugt) | UGT: Use the GitHub Thing | 0.2.0 | Get GitHub projects running on your computer, with your AI app |
+| 2026-11-03 00:19:53 | [io.github.tell-and-go/mcp](https://github.com/tell-and-go/mcp) |  | 1.0.1 | Search, quote and book hotels and resorts from any AI agent. Checkout on tellan… |
+| 2026-11-03 00:27:17 | com.mcpvetter/mcpvetter | MCPVetter | 0.1.1 | Audit your MCP servers for poisoned tools and leaked secrets, and check AI-gene… |
+| 2026-11-03 00:29:59 | io.appforshare/appforshare | AppForShare | 1.0.2 | Share iOS and Android test builds: upload, install links, testers, store readin… |
+| 2026-11-03 00:32:14 | org.biblemcp/biblemcp | BibleMCP | 1.0.0 | AI Bible study you can actually check: Scripture, Hebrew and Greek, and the chu… |
+| 2026-11-03 00:34:07 | com.locihub/locihub | LociHub | 1.0.0 | Your agents' memory: search and read your own nodes, and capture chats for you… |
+| 2026-11-03 00:36:22 | [io.github.AzadKurt/videoworker](https://github.com/AzadKurt/videoworker-mcp) | videoworker | 0.1.0 | FFmpeg processing for video, audio and images via MCP with OAuth and shared acc… |
+| 2026-11-03 00:37:32 | [io.github.CloudCorpRecords/dropnote](https://github.com/CloudCorpRecords/dropnote) |  | 0.1.0 | Drop a short text fragment into the noglow desktop scratchpad's target slot via… |
+| 2026-11-03 00:40:05 | [io.github.CloudCorpRecords/speccheck](https://github.com/CloudCorpRecords/speccheck) |  | 0.1.0 | Verify every spec requirement is claimed by an issue, PR, or code reference; li… |
+| 2026-11-03 00:40:05 | il.co.taseli/taseli | Taseli | 0.4.0 | AI campaigner for Google, Meta and TikTok ads, with memory, a plan and owner-ap… |
+| 2026-11-03 00:40:37 | ie.irishtaxhub/irish-tax | Irish Tax Hub | 3.2.0 | Irish tax calculators, current rates and Revenue guidance: income tax, USC, PRS… |
+| 2026-11-03 00:45:00 | ai.e-acc/eacc | e/acc | 1.0.0 | AI news for agents: daily, weekly and monthly briefings, trending events and mo… |
+| 2026-11-03 00:48:58 | com.forumforagents/forum | Forum for Agents | 1.0.2 | Message board where AI agents ask and answer each other. Sign the guestbook in… |
+| 2026-11-03 00:49:06 | [io.github.SpeedPainterOrg/explainer-video](https://github.com/SpeedPainterOrg/explainer-video) | SpeedPainter Explainer Video | 0.5.0 | Turn text, notes, or documents into narrated hand-drawn whiteboard explainer vi… |
+| 2026-11-03 00:50:18 | co.cosign/cosign | Cosign | 1.0.0 | Find people, companies, and jobs; manage your professional network with Cosign. |
+| 2026-11-03 00:54:10 | com.jobshifu/jobshifu | JobShifu | 1.0.0 | Search jobs on employer career sites, check if a posting is still open, and tai… |
+| 2026-11-03 00:55:48 | io.github.mykemueller1-ctrl/action-shift-mcp | Action Shift | 1.0.0 | Reads a restaurant close and returns one finding and a 3-step next move before… |
+| 2026-11-03 00:57:42 | [io.github.IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) | AI Game Developer: MCP for Unity, Unrea… | 9.3.1 | Make games with AI: one MCP server that connects your agent to Unity, Unreal an… |
+| 2026-11-03 00:58:08 | com.thebitcoinadviser/mcp | The Bitcoin Adviser | 0.1.0 | Education-only MCP tools for Bitcoin security, retirement and fees, from The Bi… |
+| 2026-11-03 01:00:43 | de.skael.api/skael | Skael | 1.0.0 | Lead lists from German company registers, Google Maps, job boards and imprints… |
+| 2026-11-03 01:00:51 | now.exam/past-papers | exam.now | 1.0.0 | Cambridge, AQA and Edexcel past papers: questions, figures and mark schemes by… |
+| 2026-11-03 01:04:54 | com.checkedcare/records | CheckedCare | 1.0.0 | Official state child care licensing and inspection records, verbatim and cited.… |
+| 2026-11-03 01:09:15 | [io.github.CloudCorpRecords/renameplan](https://github.com/CloudCorpRecords/renameplan) |  | 0.1.0 | Plan a safe file or export rename: reference graph, edit order, and risk flags… |
+| 2026-11-03 01:12:01 | com.kicklace/kicklace | Kicklace | 0.1.0 | Kicklace, lifecycle email for SaaS founders: look customers up, run reports, dr… |
+| 2026-11-03 01:12:17 | com.kolavid/kolavid | KolaVid | 1.0.0 | Make narrated whiteboard explainer videos from a topic, text or web page, insid… |
 
 ## Data source
 

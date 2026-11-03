@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-11-03T00:19:02.859611Z,com.usegithubthing/ugt,UGT: Use the GitHub Thing,0.2.0,https://github.com/auscaster/ugt,,"Get GitHub projects running on your computer, with your AI app"
+2026-11-03T00:19:53.712019Z,io.github.tell-and-go/mcp,,1.0.1,https://github.com/tell-and-go/mcp,streamable-http,"Search, quote and book hotels and resorts from any AI agent. Checkout on tellandgo.com. No API key."
+2026-11-03T00:27:17.413265Z,com.mcpvetter/mcpvetter,MCPVetter,0.1.1,,streamable-http,"Audit your MCP servers for poisoned tools and leaked secrets, and check AI-generated code for flaws."
+2026-11-03T00:29:59.264125Z,io.appforshare/appforshare,AppForShare,1.0.2,,streamable-http,"Share iOS and Android test builds: upload, install links, testers, store readiness and releases."
+2026-11-03T00:32:14.496319Z,org.biblemcp/biblemcp,BibleMCP,1.0.0,,streamable-http,"AI Bible study you can actually check: Scripture, Hebrew and Greek, and the church fathers."
+2026-11-03T00:34:07.854023Z,com.locihub/locihub,LociHub,1.0.0,,streamable-http,"Your agents' memory: search and read your own nodes, and capture chats for you to review."
+2026-11-03T00:36:22.087886Z,io.github.AzadKurt/videoworker,videoworker,0.1.0,https://github.com/AzadKurt/videoworker-mcp,streamable-http,"FFmpeg processing for video, audio and images via MCP with OAuth and shared account allowance."
+2026-11-03T00:37:32.367401Z,io.github.CloudCorpRecords/dropnote,,0.1.0,https://github.com/CloudCorpRecords/dropnote,,Drop a short text fragment into the noglow desktop scratchpad's target slot via the local app.
+2026-11-03T00:40:05.497957Z,io.github.CloudCorpRecords/speccheck,,0.1.0,https://github.com/CloudCorpRecords/speccheck,,"Verify every spec requirement is claimed by an issue, PR, or code reference; list gaps."
+2026-11-03T00:40:05.734485Z,il.co.taseli/taseli,Taseli,0.4.0,,streamable-http; streamable-http,"AI campaigner for Google, Meta and TikTok ads, with memory, a plan and owner-approved changes."
+2026-11-03T00:40:37.525782Z,ie.irishtaxhub/irish-tax,Irish Tax Hub,3.2.0,,streamable-http,"Irish tax calculators, current rates and Revenue guidance: income tax, USC, PRSI, CGT, CAT and VAT."
+2026-11-03T00:45:00.140285Z,ai.e-acc/eacc,e/acc,1.0.0,,streamable-http,"AI news for agents: daily, weekly and monthly briefings, trending events and model prices. No key."
+2026-11-03T00:48:58.300686Z,com.forumforagents/forum,Forum for Agents,1.0.2,,streamable-http,Message board where AI agents ask and answer each other. Sign the guestbook in one call.
+2026-11-03T00:49:06.685073Z,io.github.SpeedPainterOrg/explainer-video,SpeedPainter Explainer Video,0.5.0,https://github.com/SpeedPainterOrg/explainer-video,streamable-http,"Turn text, notes, or documents into narrated hand-drawn whiteboard explainer videos with subtitles."
+2026-11-03T00:50:18.500115Z,co.cosign/cosign,Cosign,1.0.0,,streamable-http,"Find people, companies, and jobs; manage your professional network with Cosign."
+2026-11-03T00:54:10.357912Z,com.jobshifu/jobshifu,JobShifu,1.0.0,,streamable-http; streamable-http,"Search jobs on employer career sites, check if a posting is still open, and tailor in JobShifu."
+2026-11-03T00:55:48.308737Z,io.github.mykemueller1-ctrl/action-shift-mcp,Action Shift,1.0.0,,streamable-http,Reads a restaurant close and returns one finding and a 3-step next move before the next shift.
+2026-11-03T00:57:42.293398Z,io.github.IvanMurzak/Unity-MCP,"AI Game Developer: MCP for Unity, Unreal and Godot",9.3.1,https://github.com/IvanMurzak/Unity-MCP,streamable-http,"Make games with AI: one MCP server that connects your agent to Unity, Unreal and Godot editors."
+2026-11-03T00:58:08.856921Z,com.thebitcoinadviser/mcp,The Bitcoin Adviser,0.1.0,,streamable-http,"Education-only MCP tools for Bitcoin security, retirement and fees, from The Bitcoin Adviser."
+2026-11-03T01:00:43.808546Z,de.skael.api/skael,Skael,1.0.0,,streamable-http,"Lead lists from German company registers, Google Maps, job boards and imprints with verified emails"
+2026-11-03T01:00:51.583353Z,now.exam/past-papers,exam.now,1.0.0,,streamable-http,"Cambridge, AQA and Edexcel past papers: questions, figures and mark schemes by part, and marking."
+2026-11-03T01:04:54.987244Z,com.checkedcare/records,CheckedCare,1.0.0,,streamable-http,"Official state child care licensing and inspection records, verbatim and cited. Never graded."
+2026-11-03T01:09:15.844432Z,io.github.CloudCorpRecords/renameplan,,0.1.0,https://github.com/CloudCorpRecords/renameplan,,"Plan a safe file or export rename: reference graph, edit order, and risk flags first."
+2026-11-03T01:12:01.262754Z,com.kicklace/kicklace,Kicklace,0.1.0,,streamable-http,"Kicklace, lifecycle email for SaaS founders: look customers up, run reports, draft emails."
+2026-11-03T01:12:17.318879Z,com.kolavid/kolavid,KolaVid,1.0.0,,streamable-http,"Make narrated whiteboard explainer videos from a topic, text or web page, inside the chat."
