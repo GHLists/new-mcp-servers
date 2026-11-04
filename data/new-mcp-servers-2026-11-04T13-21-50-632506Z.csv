@@ -1,0 +1,36 @@
+created_at,server,title,version,repository,transports,description
+2026-11-04T12:21:55.032365Z,com.kliperio/kliperio,Kliperio,1.0.0,,streamable-http,"Make AI images, videos and UGC ads from Claude: Seedance, Kling, Veo, Nano Banana. Pay per use."
+2026-11-04T12:22:54.930901Z,com.twelvedata/mcp,Twelve Data,2.0.1,https://github.com/twelvedata/mcp,streamable-http,"Real-time and historical market data: stocks, forex, crypto, ETFs, fundamentals and 60+ indicators."
+2026-11-04T12:23:10.281148Z,site.chatgpt.bright-moose-6173.backlog-quest-lab/backlog-quest,Backlog Quest,1.0.0,,streamable-http,"Choose one game from a 2–12-title backlog and return a focused, time-boxed quest."
+2026-11-04T12:27:07.590992Z,io.github.CloudCorpRecords/famboard,,0.1.0,https://github.com/CloudCorpRecords/famboard,,"Family planner for schedules, tasks, checklists, plans and attachments, shared by household."
+2026-11-04T12:29:23.666338Z,app.coopgames/coopgames,CoopGames,1.0.0,,streamable-http,"Find co-op and multiplayer games for friends by players, platforms and crossplay."
+2026-11-04T12:31:15.890459Z,com.kipper/quickbooks,Kipper for QuickBooks,1.0.0,,streamable-http,"Read-only by architecture: ask AI about your QuickBooks data, across multiple entities at once."
+2026-11-04T12:31:16.821758Z,com.kipper/xero,Kipper for Xero,1.0.0,,streamable-http,"Read-only by architecture: ask AI about your Xero data, across multiple entities at once."
+2026-11-04T12:31:17.747378Z,com.kipper/netsuite,Kipper for NetSuite,1.0.0,,streamable-http,"Read-only by architecture: ask AI about your NetSuite data, across multiple entities at once."
+2026-11-04T12:34:39.030544Z,io.github.gumlet/mcp,Gumlet,2.3.5,https://github.com/gumlet/gumlet-mcp,streamable-http,"Call the Gumlet video API for assets, live, analytics, and workspaces."
+2026-11-04T12:37:13.338124Z,ai.agentcv/registry,AgentCV,1.0.0,,streamable-http,Search AgentCV's registry of AI agent teams and check a team profile before registering it.
+2026-11-04T12:37:19.031017Z,io.github.arj-89/worldref,,1.1.0,https://github.com/arj-89/worldref,,"Every country in Arabic and English: names, nationalities, dial codes, phone validation."
+2026-11-04T12:43:44.746536Z,eu.tradedashboard/eu-trade-explorer,EU Trade Explorer,1.1.0,,streamable-http,EU customs-trade & industrial-production statistics (Eurostat Comext/PRODCOM)
+2026-11-04T12:45:02.176791Z,io.github.kirnfs/mcp-swing-17,mcp-swing-17,1.5.0-java17,https://github.com/kirnfs/mcp-swing-17,,Java 17 MCP server and agent for automating Swing and JavaFX desktop applications.
+2026-11-04T12:46:46.338876Z,com.emtcompute/emt-compute,EMT Compute,1.0.0,,streamable-http,"GPU rentals, scientific experiments, custom code, node sweeps and inspectable calculation reports."
+2026-11-04T12:48:34.774505Z,com.arnakoff/api,Arnakoff,0.55.0,https://github.com/arnakoff/api,streamable-http,"Signaux anti-arnaque sourcés sur un site, un e-mail, un numéro, un IBAN ou un SIREN"
+2026-11-04T12:54:37.006635Z,io.github.stoplus/crypto-web-data-api,,1.0.0,,streamable-http,"Pay-per-call crypto market, on-chain and web data for AI agents via x402 (USDC on Base/Solana)."
+2026-11-04T12:54:39.893058Z,io.github.africaappstudio-max/understand-this-video,Understand This Video For Me AI Plugin,1.0.3,https://github.com/africaappstudio-max/understand-this-video-mcp,,"Let your AI watch and hear a video: key frames, transcript and contact sheet, processed locally."
+2026-11-04T13:00:18.313338Z,net.globimmo/property-search,Globimmo Property Search,1.1.1,,streamable-http,International real-estate search and buyer workflows for AI agents via MCP and OAuth 2.1.
+2026-11-04T13:00:24.835494Z,io.github.codeonthetable/gecici-email,gecici.email - Temporary Email for QA,1.0.0,,streamable-http,"Temporary inboxes for authorized QA, with token-protected message, code and link reading."
+2026-11-04T13:00:59.763024Z,io.github.CloudCorpRecords/viewdaily,,0.1.0,https://github.com/CloudCorpRecords/viewdaily,,"Daily research views on assets, macro themes and central banks from 200+ sources."
+2026-11-04T13:02:43.70174Z,sh.simplepu/mcp,Simplepush,0.5.0,https://github.com/simplepush/simplepush-mcp,streamable-http,Send tasks and notifications to people's phones. Answers build a queryable knowledge base.
+2026-11-04T13:04:24.054208Z,io.github.gamealia/gamealia-mcp,Gamealia,0.1.18,https://github.com/gamealia/gamealia-mcp,,"Publish web games on Gamealia from your AI coding assistant: SDK, autotest, listing, upload."
+2026-11-04T13:04:26.043727Z,ch.overpass/overpass,overpass.ch,1.0.0,,streamable-http; streamable-http,"Overpass API on the full planet with history, plus geocoding and elevation. Needs an API key."
+2026-11-04T13:07:04.680805Z,io.github.SmartMobileHouse/regon-mcp,REGON (Polish business register),0.2.3,https://github.com/SmartMobileHouse/regon-mcp,,"Look up Polish businesses in the GUS REGON register (BIR1) by NIP, REGON, or KRS."
+2026-11-04T13:07:16.728376Z,com.desktopsteward/desktop-steward,Desktop Steward,0.3.0,https://github.com/desktopsteward/desktop-steward,streamable-http,"Your own computer's files from ChatGPT or Claude: folder rules, confirmations and undo."
+2026-11-04T13:10:07.34644Z,app.bridgly/mcp,Bridgly,1.0.0,,streamable-http,"Scrape X, Reddit, LinkedIn, GitHub, Instagram and TikTok data as tools for AI agents."
+2026-11-04T13:14:23.845897Z,pro.aicut/aicut,aicut,1.9.0,https://github.com/aicut-pro/aicut-mcp,streamable-http,"Generate AI videos, images, audio and staged AI Video Story episodes, and publish them to social."
+2026-11-04T13:15:05.346378Z,io.github.gotchseo/rankability,Rankability,1.0.1,https://github.com/gotchseo/rankability-integrations,streamable-http,"AI search visibility and SEO for agencies: AI mentions, citation gaps, content, audits, reports."
+2026-11-04T13:16:00.451133Z,io.github.sryantrabot/curade-mcp,Curade — prediction-market & perp-funding data (x402),0.1.0,https://github.com/sryantrabot/curade-mcp,streamable-http,"Polymarket & Hyperliquid funding data as MCP tools; pay per call via x402 (USDC, Base)."
+2026-11-04T13:16:56.068078Z,io.github.CloudCorpRecords/valueledger,,0.1.0,https://github.com/CloudCorpRecords/valueledger,,"Read-only value-investing research: funds, holdings, financials, options and insiders."
+2026-11-04T13:16:56.558638Z,io.github.gabrielpolyy/pitchhighway,PitchHighway,2.1.0,,streamable-http,"Learn to sing your favorite songs with vocal range, pitch reports, progress and practice guidance."
+2026-11-04T13:19:13.002869Z,ai.ankidecks/ankidecks,AnkiDecks,1.0.0,https://github.com/jjman2321/ankidecks-mcp,streamable-http,"Make Anki flashcards from lecture PDFs, slides, notes and YouTube videos, each with its source page."
+2026-11-04T13:19:28.880875Z,com.echosaw/mcp-server,,2.2.0,https://github.com/Orange-Sky-Software-Inc/echosaw-com,streamable-http,"Media intelligence analysis for audio, video, and images via the Echosaw MCP server."
+2026-11-04T13:19:50.274895Z,io.github.notifycx/notifycx-mcp,Notify,1.2.2,https://github.com/notifycx/notifycx,,"Transactional email for coding agents: send, test, verify domains, webhooks, logs."
+2026-11-04T13:20:59.014008Z,io.github.KarakoramDev/karakoram,Karakoram,0.4.3,https://github.com/KarakoramDev/Karakoram,streamable-http,"Self-hosted database control plane: clusters, backups and operations. Read-only by default."
