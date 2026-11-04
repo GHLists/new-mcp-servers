@@ -1,0 +1,30 @@
+created_at,server,title,version,repository,transports,description
+2026-11-04T16:25:20.765886Z,com.kipurse/kipurse,Kipurse,0.1.0,https://github.com/kipurse/kipurse,streamable-http,"Self-custodial USDC wallet on Base for AI agents: on-chain caps, Face ID, one-tap pause."
+2026-11-04T16:28:15.719106Z,io.github.CloudCorpRecords/simscout,,0.1.0,https://github.com/CloudCorpRecords/simscout,,"Compare travel eSIM plans by country, trip length and data, with live catalog prices."
+2026-11-04T16:32:51.981471Z,com.frameverb/frameverb,Frameverb,1.0.0,,streamable-http,Read-only discovery of Frameverb creative tasks and provider routes.
+2026-11-04T16:36:37.054568Z,com.farvor/footalytics,Footalytics,1.0.0,https://gitlab.com/footalytics/footalytics-skill,streamable-http,"Football match predictions: 1X2 probabilities, over/under 2.5, BTTS, fixtures, team ratings."
+2026-11-04T16:38:12.078573Z,io.github.EkuboProtocol/ekubo,Ekubo Protocol,0.54.0,https://github.com/EkuboProtocol/ekubo-mcp-server,streamable-http,"Token and pool data, swap quotes, and unsigned transaction plans for Ekubo and other DeFi protocols."
+2026-11-04T16:38:12.231595Z,io.github.EkuboProtocol/cloud-wallet,Cloud Wallet by Ekubo,1.0.0,,streamable-http,"EVM wallet reads, simulation, and transaction execution under user-defined authorization policies."
+2026-11-04T16:38:46.858433Z,com.requiply/requiply,Requiply,1.0.0,,streamable-http,"Manage rental bookings, inventory, clients and reports in your Requiply workspace."
+2026-11-04T16:39:11.194521Z,ai.storerouter/storerouter,StoreRouter,1.0.0,,streamable-http,"Search and look up products across thousands of online stores, normalized into one schema."
+2026-11-04T16:39:35.811413Z,io.cookiepal/cookiepal,CookiePal,1.0.0,,streamable-http,"Manage your CookiePal cookie banner: domains, the banner tag and style, and cookie scan reports."
+2026-11-04T16:39:43.347715Z,br.com.captario/captario,Captário,1.0.0,,streamable-http,"Brazilian B2B buying signals and company data by CNPJ, plus rural property checks by CAR code."
+2026-11-04T16:40:09.740479Z,io.github.x207-labs/x207-mcp,x207,0.0.3,https://github.com/x207-labs/sdk,streamable-http,"Read-only tools for x207 circles on NEAR: members, epochs, clearing simulation, listings."
+2026-11-04T16:40:58.982922Z,io.github.tabulacredit/tabula-mcp,,0.1.1,,,"Credit for AI agents: pay x402 sellers from a credit line, repay with one signature and no ETH"
+2026-11-04T16:42:06.747691Z,com.realmarketlabs.tools/latam-fit,RealMarket LATAM Fit,1.1.0,,streamable-http,Compare Latin American markets for expansion and calculate market-entry test economics.
+2026-11-04T16:42:07.217847Z,com.realmarketlabs.tools/site-check,RealMarket Site Check,1,,streamable-http,"Passive checks of a public website: email authentication (SPF, DKIM, DMARC) and basic security."
+2026-11-04T16:42:07.701275Z,com.realmarketlabs.tools/survey-builder,RealMarket Survey Builder,1.1.0,,streamable-http,"Draft consumer market-research questionnaires for packaging, concepts, pricing and more."
+2026-11-04T16:45:20.755353Z,ai.superglue/sage-intacct,Sage Intacct MCP by superglue,1.0.0,,streamable-http,Read and write Sage Intacct from Claude or ChatGPT. Write tools are flagged for approval.
+2026-11-04T16:45:21.172072Z,ai.superglue/netsuite,NetSuite MCP by superglue,1.0.0,,streamable-http,Read and write NetSuite and run SuiteQL from Claude or ChatGPT. Write tools flagged for approval.
+2026-11-04T16:45:44.853445Z,com.realmarketlabs.tools/esign-cost,RealMarket E-Signature Cost,1.0.0,,streamable-http,Compare e-signature costs per document and per year in Brazil (BRL) across providers.
+2026-11-04T16:45:45.344203Z,com.realmarketlabs.tools/review-time,RealMarket Review Time,1.0.0,,streamable-http,Estimate hours and cost of systematic or literature reviews: screening and full-text reading.
+2026-11-04T16:47:34.857082Z,nl.huisly/huisly,Huisly,1.1.0,,streamable-http,"Dutch rental and for-sale listings, CBS area figures and Huisly's housing guides, read-only."
+2026-11-04T16:48:32.570166Z,io.github.ladanyin/php-docs,PHP and WordPress docs,1.0.0,https://github.com/ladanyin/agentlane,streamable-http,Read one current English page from the PHP manual or the WordPress code reference.
+2026-11-04T16:50:15.713372Z,io.github.Youtube-Transcript-Dev/youtube-transcript-mcp,YouTube Transcript MCP,2.0.0,https://github.com/Youtube-Transcript-Dev/youtube-transcript-mcp,streamable-http,"Fetch YouTube transcripts with timestamps, search history, and export data for AI models."
+2026-11-04T16:58:22.404559Z,com.smallwright/mtd-chase,MTD Chase — chase clients for MTD records,0.1.0,,streamable-http,"UK bookkeepers: chase clients for Making Tax Digital quarterly records, upload links, reminders."
+2026-11-04T17:06:03.156418Z,com.voxelrank/voxelrank,VoxelRank,1.0.0,,streamable-http,"Search game servers (Minecraft, Rust, FiveM and more), see votes and stats, edit your own listing."
+2026-11-04T17:07:08.278528Z,io.receiptix/receiptix,Receiptix,1.0.1,,streamable-http,"Ask about your spending in Receiptix: totals by category, shop or month, and any receipt's photo."
+2026-11-04T17:07:28.911426Z,io.packetstream/mcp,PacketStream,1.5.0,https://github.com/packetstream/packetstream-mcp,streamable-http; streamable-http,Live web search results and web pages as Markdown; page fetches use a residential network.
+2026-11-04T17:10:49.314946Z,ai.chainhilt/wallet,ChainHilt Wallet,0.0.2,,,Local wallet that signs and sends ChainHilt-verified actions
+2026-11-04T17:11:54.794166Z,app.keeplea/keeplea,Keeplea,1.0.2,,streamable-http,"Find what you photographed to remember in Keeplea: appliance plates, paint, labels and receipts."
+2026-11-04T17:19:15.695272Z,io.github.MystenLabs/sui-kapa,Sui Knowledge Base (kapa.ai),1.0.0,https://github.com/MystenLabs/sui,streamable-http,"Semantic search across Sui documentation and knowledge sources, powered by kapa.ai"
