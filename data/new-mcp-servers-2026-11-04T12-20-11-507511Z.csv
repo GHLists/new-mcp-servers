@@ -1,0 +1,92 @@
+created_at,server,title,version,repository,transports,description
+2026-11-04T10:27:02.29377Z,io.brandfetch/brandfetch,Brandfetch,1.7.0,https://github.com/Brandfetch/brandfetch-mcp-server,streamable-http,"Search brands and pull logos, colors and company data from Brandfetch."
+2026-11-04T10:28:02.850652Z,cz.puhy/catalog,puhy.cz – katalog elektroniky a nářadí,1.0.0,,streamable-http,"puhy.cz (CZ) catalog: electronic components, tools, instruments – price, stock, delivery, cart link"
+2026-11-04T10:31:19.497959Z,io.asonix/asonix,Asonix,1.0.0,,streamable-http,"ASO for your AI: keywords, rankings, competitors and ads across 2.5M+ App Store apps."
+2026-11-04T10:34:43.138325Z,io.github.CloudCorpRecords/modelpulse,,0.1.0,https://github.com/CloudCorpRecords/modelpulse,,"AI model releases, price changes, comparisons and cost estimates in one normalised feed."
+2026-11-04T10:35:53.980975Z,com.securitystartups/catalog,Security Startups,0.2.0,,streamable-http,"Search a curated directory of young security companies and its CC BY 4.0 stats. Read-only, no key."
+2026-11-04T10:36:14.852696Z,ai.sikaru/docs,Sikaru Docs,1.0.0,https://github.com/aadi-labs/sikaru-plugins,streamable-http,"Read-only search over the public Sikaru documentation: managed agents, inference, evals and traces."
+2026-11-04T10:36:15.436213Z,app.cardlake/cardlake,Cardlake,1.0.0,https://github.com/cardleforall/cardlakeforall,streamable-http,"A self-hostable feed of reminders, learnings and work that Claude and ChatGPT can read and write"
+2026-11-04T10:36:18.124726Z,io.github.Nero-Engine/grants-gov-grant-matcher,Grants.gov Grant Matcher,0.1.0,,streamable-http,"Open and forecast US federal grants fit to your organisation: fit score, eligibility, past awards"
+2026-11-04T10:37:23.309106Z,io.github.alexblogoodf/glyfiq-medical-icons,Glyfiq Medical Icons,1.4.0,,streamable-http,"Hand-drawn medical and health icons for AI agents. Search by tag, get clean SVG."
+2026-11-04T10:41:20.840611Z,io.github.apinoahq/apinoa-mcp,apinoa,0.2.6,https://github.com/apinoahq/apinoa-mcp,,"Products, social posts, search results and AI answers from Amazon, TikTok, Google, ChatGPT and more."
+2026-11-04T10:42:48.052459Z,uk.co.reliness/compliance-finance-checks,UK Data: Compliance and finance checks,1.4.0,,streamable-http,"LEI lookups with parent companies (GLEIF), IBAN validation and UK sort code checks"
+2026-11-04T10:42:48.18292Z,uk.co.reliness/documents,UK Data: Document maker,1.4.0,,streamable-http,"Make real files from markdown or rows: Word .docx, CSV and print-ready HTML, with download links"
+2026-11-04T10:42:48.316156Z,uk.co.reliness/email-domain,UK Data: Email and domain checks,1.4.0,,streamable-http,"Email and domain checks: deliverable, disposable, role address, MX, SPF, DMARC"
+2026-11-04T10:42:48.44038Z,uk.co.reliness/health-research,UK Data: Clinical trials,1.4.0,,streamable-http,"Search ClinicalTrials.gov by condition, drug, location and status, with full trial details"
+2026-11-04T10:42:48.573169Z,uk.co.reliness/markets-eu,UK Data: Markets and EU,1.4.0,,streamable-http,"SEC EDGAR filings search, EU TED tenders and World Bank indicators"
+2026-11-04T10:42:48.70391Z,uk.co.reliness/maths-dates,UK Data: Maths and working days,1.4.0,,streamable-http,"Safe maths and statistics, and UK working-day arithmetic using official bank holidays"
+2026-11-04T10:42:48.84379Z,uk.co.reliness/money-time,UK Data: Money and time,1.4.0,,streamable-http,"Exchange rates, public holidays for 100+ countries, time zones and conversions"
+2026-11-04T10:42:48.974765Z,uk.co.reliness/news-feeds,UK Data: News and feeds,1.4.0,,streamable-http,"Worldwide news search by keyword and date, Hacker News, and any RSS or Atom feed as JSON"
+2026-11-04T10:42:49.102579Z,uk.co.reliness/reference,UK Data: Reference,1.4.0,,streamable-http,"Wikipedia summaries, books by ISBN, products by barcode, IP ownership, unit conversion"
+2026-11-04T10:42:49.228425Z,uk.co.reliness/research-papers,UK Data: Research papers,1.4.0,,streamable-http,"Search 250M scholarly works (OpenAlex, Crossref, arXiv, PubMed) and resolve any DOI"
+2026-11-04T10:42:49.35536Z,uk.co.reliness/software-supply-chain,UK Data: Software packages and vulnerabilities,1.4.0,,streamable-http,"Package versions, licences and known vulnerabilities for npm, PyPI, crates, Go, Maven, NuGet"
+2026-11-04T10:42:49.484286Z,uk.co.reliness/spreadsheets-pdf,UK Data: Spreadsheets and PDFs,1.4.0,,streamable-http,"Write Excel .xlsx from rows, read spreadsheets or CSV from a URL, extract text from PDFs"
+2026-11-04T10:42:49.614376Z,uk.co.reliness/tool-catalogue,UK Data: Catalogue,1.4.0,,streamable-http,"Search 16,000+ API operations and 95 built tools by need, then call any of them by name"
+2026-11-04T10:42:49.749237Z,uk.co.reliness/uk-business-calculators,UK Data: UK business calculators,1.4.0,,streamable-http,"UK business calculators: VAT, stamp duty, late payment interest, redundancy, holiday, sick pay"
+2026-11-04T10:42:49.888708Z,uk.co.reliness/uk-companies,UK Data: UK Companies House,1.4.0,,streamable-http,"UK Companies House: company search, profiles, officers, owners (PSC), filings, new incorporations"
+2026-11-04T10:42:50.016542Z,uk.co.reliness/uk-data,UK Data for Agents,1.4.0,,streamable-http,"UK public data tools for agents: companies, tenders, property, stats, documents. No key to start"
+2026-11-04T10:42:50.141046Z,uk.co.reliness/uk-food-hygiene,UK Data: UK food hygiene ratings,1.4.0,,streamable-http,UK food hygiene ratings for every rated business from the Food Standards Agency
+2026-11-04T10:42:50.282999Z,uk.co.reliness/uk-government-law,UK Data: UK government and law,1.4.0,,streamable-http,"UK legislation full text, MPs, petitions, GOV.UK search, food alerts, police neighbourhoods"
+2026-11-04T10:42:50.414879Z,uk.co.reliness/uk-health-charities,UK Data: UK NHS and charities,1.4.0,,streamable-http,UK NHS organisations (ODS) and Charity Commission register lookups
+2026-11-04T10:42:50.537997Z,uk.co.reliness/uk-insolvency,UK Data: UK insolvency notices,1.4.0,,streamable-http,"UK insolvency notices from The Gazette: winding up, administration, liquidation, bankruptcy"
+2026-11-04T10:42:50.664078Z,uk.co.reliness/uk-places,UK Data: UK places,1.4.0,,streamable-http,"UK postcode lookup, street-level crime, flood warnings, grid carbon intensity, bank holidays"
+2026-11-04T10:42:50.788362Z,uk.co.reliness/uk-product-safety,UK Data: UK product safety,1.4.0,,streamable-http,UK product safety alerts and recalls from the Office for Product Safety and Standards
+2026-11-04T10:42:50.92144Z,uk.co.reliness/uk-property,UK Data: UK property,1.4.0,,streamable-http,UK property: Land Registry sold prices and EPC energy certificates by postcode or address
+2026-11-04T10:42:51.046926Z,uk.co.reliness/uk-statistics-money,UK Data: UK statistics and Bank of England,1.4.0,,streamable-http,"ONS statistics and time series (CPI, GDP, unemployment) and Bank of England rates"
+2026-11-04T10:42:51.174915Z,uk.co.reliness/uk-tenders,UK Data: UK public tenders,1.4.0,,streamable-http,"UK public sector tenders and contract awards from Find a Tender: values, buyers, winners, deadlines"
+2026-11-04T10:42:51.30455Z,uk.co.reliness/uk-trade-property-planning,"UK Data: UK trade, property and planning",1.4.0,,streamable-http,"UK trade tariff codes and duties, HMRC exchange rates, house price index, planning, CQC"
+2026-11-04T10:42:51.440206Z,uk.co.reliness/utilities,UK Data: Utilities,1.4.0,,streamable-http,"Agent utilities: RDAP domain lookup, unshorten URLs, HTTPS checks, QR codes, calendar invites"
+2026-11-04T10:42:51.569375Z,uk.co.reliness/weather-places,UK Data: Weather and places,1.4.0,,streamable-http,Weather now and 9-day forecasts anywhere (MET Norway) and Great Britain place-name lookup
+2026-11-04T10:42:51.699513Z,uk.co.reliness/web-reader,UK Data: Web reader,1.4.0,,streamable-http,"Read any web page as clean markdown or text with title, description and links"
+2026-11-04T10:42:51.824452Z,uk.co.reliness/web-research,UK Data: Web research,1.4.0,,streamable-http,"Wayback Machine snapshots, on-page SEO audits and Wikidata facts about companies and people"
+2026-11-04T10:44:45.130255Z,io.dactic/dactic-mcp,Dactic,0.1.0,https://github.com/Dactic-Monday/dactic-v1-mcp-public,streamable-http,Connect AI clients to your Dactic work context through a hosted MCP service.
+2026-11-04T10:46:32.574532Z,com.joebapp/joeb,Joeb,1.0.0,,streamable-http,"Search job postings and track the jobs you like, dismiss and apply to in Joeb."
+2026-11-04T10:49:29.293043Z,com.gamref/gamref,GamRef,1.0.0,,streamable-http,Game UI reference MCP: real game screenshots paired with production specs for design agents.
+2026-11-04T10:50:08.770329Z,io.github.CloudCorpRecords/bookbind,,0.1.0,https://github.com/CloudCorpRecords/bookbind,,"EPUB and PDF ebook tools: merge, split, compress, convert, edit metadata, validate and covers."
+2026-11-04T10:51:19.257189Z,me.bizstats/mcp,BizStats.me,1.0.0,,streamable-http,"Montenegro company filings, registry records, public tenders, Treasury payments and risk lists."
+2026-11-04T10:52:41.545625Z,com.sendseven/messaging,,0.4.0,https://github.com/SendSeven-GmbH/sendseven-mcp-server,streamable-http,"Unified messaging MCP server: WhatsApp, Instagram, Telegram, SMS, Messenger & email support inbox"
+2026-11-04T10:56:28.469905Z,io.github.Albaker-Group/cloudprice-mcp,Cloudprice,0.18.5,https://github.com/Albaker-Group/cloudprice-mcp,,"Multi-cloud + LLM pricing for AI agents: AWS/Azure/GCP/OCI, RI break-even, TCO, price history."
+2026-11-04T10:57:00.274348Z,tech.kaiku/kaiku,Kaiku,1.3.1,,streamable-http; streamable-http; streamable-http,Issue tracker and wiki for teams and their agents; answer your agents' questions from your phone.
+2026-11-04T10:58:26.356427Z,bo.org.instantaneas/noticias,Instantáneas — noticias de Bolivia,1.0.0,,streamable-http,"Noticias de Bolivia y del mundo, e historias de varios medios (Hilos), del periódico Instantáneas."
+2026-11-04T11:03:22.124475Z,io.github.CloudCorpRecords/failshare,,0.1.0,https://github.com/CloudCorpRecords/failshare,,"Shared failure knowledge for agents: check known tool failures, report failures and outcomes."
+2026-11-04T11:03:39.290829Z,com.pixilui/pixilui,PixilUI components,0.1.0,,streamable-http,Search and install PixilUI React components for AI product UI into your app.
+2026-11-04T11:04:25.901241Z,io.github.pairsync/pairsync,,1.0.0,https://github.com/pairsync/cursor-plugin,streamable-http,Read-only MCP access to nightly pairs trading cointegration statistics for compatible AI clients.
+2026-11-04T11:06:24.060717Z,com.asinrating/asinrating,,1.0.0,,streamable-http,"Read-only Amazon shopping intelligence: Top-100 BSR, product profiles, price history, comparisons."
+2026-11-04T11:06:55.849486Z,fr.vlek/trame,TRAME,1.19.0,,streamable-http,"Construction labour-hour estimates with durations, weather and contract model (French)"
+2026-11-04T11:12:16.595424Z,co.nextora/nextora,Nextora,1.0.0,,streamable-http,"CRM, projects, ERP, shared inbox, automation and analytics in one business workspace."
+2026-11-04T11:13:20.46724Z,io.github.CloudCorpRecords/hostdeck,,0.1.0,https://github.com/CloudCorpRecords/hostdeck,,"Manage game servers, Discord bots, apps and VPS: power, console, files, backups and deploys."
+2026-11-04T11:15:09.219253Z,io.github.Fizzl13/agentfuel,AgentFuel,0.1.0,https://github.com/Fizzl13/agent-coin-api,streamable-http,Rug-check risk scores for Solana tokens and a live feed of new pump.fun launches.
+2026-11-04T11:18:24.916008Z,io.github.fitness9991/haris-guardian,Haris Guardian - Solana Token Risk Check,1.0.0,,streamable-http,Read-only Solana SPL/Token-2022 rug-risk check: 0-100 score (higher=riskier) with reasons.
+2026-11-04T11:19:19.648311Z,com.emploist/emploist,Emploist,1.0.0,,streamable-http,"Manage jobs, applicants, stages, and AI-ranked matches in Emploist, the applicant tracking system."
+2026-11-04T11:22:50.832393Z,io.github.Alenroyfeild/ai-dev-workspace,ai-dev-workspace,0.1.0b7,https://github.com/Alenroyfeild/ai-dev-workspace,,Local Markdown task memory shared by Claude Code and Codex over stdio MCP.
+2026-11-04T11:24:31.237889Z,com.ahrefs/mcp,Ahrefs,1.0.0,,streamable-http,"Official Ahrefs MCP server. Access SEO data, including backlinks, keywords, and competitor research."
+2026-11-04T11:24:34.509396Z,ai.socialdesk/socialdesk,SocialDesk,1.0.0,,streamable-http,"Schedule posts, read analytics and answer comments and DMs on 6 social networks."
+2026-11-04T11:29:55.612929Z,ai.el7/mcp,EL7.AI,1.1.0,,streamable-http,"Financial market intelligence: news, macro, central banks, COT, stocks, earnings, gold and oil."
+2026-11-04T11:31:38.423612Z,com.soundiiz/soundiiz,Soundiiz,0.1.0,,streamable-http,"Official Soundiiz tools for playlist imports, import destinations and music transfer compatibility."
+2026-11-04T11:31:55.986904Z,build.co/cobuild,co.build,0.6.0,,streamable-http,"Open-source mods for the devices you own, with owner reports on what works."
+2026-11-04T11:32:59.187576Z,io.github.voicehue/voicehue,VoiceHue text to speech,1.0.0,,streamable-http,Remote text-to-speech MCP server with text_to_speech and list_voices tools. Free plan.
+2026-11-04T11:33:29.394443Z,io.github.CloudCorpRecords/firmproof,,0.1.0,https://github.com/CloudCorpRecords/firmproof,,"Official company checks for the UK, France and Spain: lookup, verify, screen, monitor."
+2026-11-04T11:34:37.892987Z,io.github.sharkey1982/moatshark,moatshark,1.1.0,,streamable-http,"Holdings of great value investors: 13Fs, overseas stakes a 13F misses, 5% stakes, insider buys"
+2026-11-04T11:34:58.990494Z,com.itsmalai/malai,MALAI,1.1.0,,streamable-http,"GLP-1 nutrition companion: your food log, protein targets, next meals, plus USDA food facts."
+2026-11-04T11:35:27.527264Z,com.itsmalai/glp1-nutrition,MALAI GLP-1 Nutrition (no account),1.1.0,,streamable-http,"Free GLP-1 nutrition facts: USDA food lookup, protein and calorie targets, medication guides."
+2026-11-04T11:36:25.454757Z,io.github.evgwpw/qedra,Qedra,1.109.7.11,https://github.com/evgwpw/Qedra,,Computer algebra with verifiable answers
+2026-11-04T11:36:31.815369Z,dev.agentseo.www/agentseo-mcp,AgentSEO,0.1.5,https://github.com/AgentSEO-dev/agentseo-clients,streamable-http,"Live SEO workflow tools for Claude Code, Codex, and AI agents."
+2026-11-04T11:38:39.941768Z,com.hutins.my/insurance-quotes,Hutsenpiller Insurance: Tennessee Insurance Quotes,1.0.0,,streamable-http,Tennessee auto and home insurance quotes and reviews. Compares carriers; licensed agent reviews.
+2026-11-04T11:39:47.115632Z,io.mydesigns/mcp,MyDesigns,1.0.0,,streamable-http,Turn designs into print-on-demand products and sell them in your MyDesigns store.
+2026-11-04T11:41:36.970817Z,io.github.psychofict/codexwatch,codexwatch,1.0.1,https://github.com/psychofict/codexwatch,,"OpenAI Codex usage from your local logs: tokens, API-equivalent cost and plan limits."
+2026-11-04T11:43:02.854662Z,africa.lomi/mcp,lomi.,1.0.0,,streamable-http; streamable-http,lomi. payments. https://mcp.lomi.africa/mcp and guest https://mcp.lomi.africa/mcp/guest
+2026-11-04T11:44:15.834759Z,io.github.CloudCorpRecords/ekidata,,0.1.0,https://github.com/CloudCorpRecords/ekidata,,"Japanese station, accessibility, hazard and alert data from official sources, in English."
+2026-11-04T11:48:58.143171Z,dev.mrhyde/openwall,OpenWall,0.1.0,,streamable-http,A giant shared wall where AI agents paint live: watch them draw and connect your own agent
+2026-11-04T11:55:07.931357Z,io.github.CloudCorpRecords/formfurrow,,0.1.0,https://github.com/CloudCorpRecords/formfurrow,,"Run a form backend end to end: teams, clients, projects, forms, submissions, snippets, webhooks."
+2026-11-04T11:57:12.916975Z,com.gameshipkit/gameshipkit,GameShipKit,1.0.0,,streamable-http,"Tools for indie game devs: find sprite, pixel art, VFX and audio tools, palettes, XP curves."
+2026-11-04T11:58:49.90103Z,ca.ohey/research,Ohey research,1.0.0,https://github.com/Oheyresearch/ohey-mcp,streamable-http,"Web malware techniques, kits and EtherHiding contracts from Ohey's website scans. No sign-in."
+2026-11-04T11:58:50.018156Z,ca.ohey/ohey,Ohey,1.0.0,https://github.com/Oheyresearch/ohey-mcp,streamable-http,"Look up hosts in the Ohey web malware feed, read CVEs and scan URLs with Ohey's scanner."
+2026-11-04T12:00:24.274925Z,io.github.t4dhg/mcp-factorial,MCP FactorialHR,12.0.0,https://github.com/t4dhg/mcp-factorial,,"Full CRUD MCP server for FactorialHR: employees, teams, time off, projects, ATS, payroll."
+2026-11-04T12:04:09.307914Z,com.hutins.my/client-account,Hutsenpiller Insurance Client Account,1.0.0,,streamable-http,"Hutsenpiller Insurance clients: let your AI view policies, ID cards, documents, request changes."
+2026-11-04T12:04:35.824148Z,com.grabbitapp/grabblist,Grabblist,2.2.0,,streamable-http,"Save and organize web finds in persistent, user-controlled collections for AI assistants."
+2026-11-04T12:05:47.875926Z,io.github.sftgroup/actora-platform,"Actora Platform — Agent Publishing, Subscriptions & A2A",0.2.0,https://github.com/sftgroup/Agentx,streamable-http,"Actora developer tools: ERC-8004 identity, subscriptions, listings, A2A, reputation."
+2026-11-04T12:05:48.800595Z,io.github.sftgroup/actora-tenant,"Actora Tenant — Hosted Chat, Tasks & Usage",0.2.0,https://github.com/sftgroup/Agentx,streamable-http,"Actora B-side tools: hosted chat, sessions, tasks, tenant plan and usage."
+2026-11-04T12:05:51.575237Z,io.github.sftgroup/actora,"Actora — Agent Identity, Subscriptions & A2A",0.2.0,https://github.com/sftgroup/Agentx,streamable-http,"ERC-8004 agent identity, on-chain subscriptions, reputation, A2A tasks and chat over 52 tools."
+2026-11-04T12:11:50.090256Z,tech.barktechnologies/bark,BARK Regulatory Research,1.0.0,,streamable-http,"EU banking regulation research, cited to the article, from a versioned knowledge graph."
+2026-11-04T12:13:46.099563Z,io.github.CloudCorpRecords/officelens,,0.1.0,https://github.com/CloudCorpRecords/officelens,,"Sourced, dated registry records of family offices in Switzerland, Liechtenstein and beyond."
+2026-11-04T12:15:48.849417Z,com.pulore/app-planner,Pulore App Planner,1.0.0,,streamable-http,"Plan a software project, check website speed, find Pulore case studies, get a booking link."
