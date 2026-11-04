@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-11-04T08:23:51.813166Z,io.affonso/affonso,Affonso,1.0.0,,streamable-http,"Manage affiliate programs, partners, referrals, commissions, and payouts through Affonso."
+2026-11-04T08:24:18.871276Z,io.github.Nero-Engine/building-permit-leads,New Building Permit Leads,0.1.0,,streamable-http,"New building permits from 7 US cities scored as leads by trade, job value and contractor"
+2026-11-04T08:26:17.051618Z,com.munodha.leads/carryleads,CarryLeads,1.0.0,,streamable-http,"Find local businesses to pitch your product or service to, with ready email and SMS drafts."
+2026-11-04T08:26:18.806473Z,com.synodha.sahara/sahara,Sahara,1.0.0,,streamable-http,Plain-language MedlinePlus health terms and a MyChart check for family caregivers. No PHI.
+2026-11-04T08:27:41.642901Z,com.codercops/codercops,codercops,1.0.0,,streamable-http,"Search developers and remote developer jobs on codercops, a hiring marketplace."
+2026-11-04T08:29:34.546949Z,com.neaticons/icons,Neat Icons,1.0.0,,streamable-http,"Search 1,104 UI icons in plain words and get them as SVG or React, in four styles."
+2026-11-04T08:31:33.84844Z,io.github.Jakie668/sulato-business-tools,Sulato Business Tools,1.0.0,https://github.com/Jakie668/sulato-mcp-tools,streamable-http,"Free VAT, pricing, quote, VietQR and referral commission tools for Vietnamese businesses."
+2026-11-04T08:32:10.410011Z,com.willmyflightbedelayed/flight-delays,Will my flight be delayed?,1.0.0,,streamable-http,"Will a flight be delayed or cancelled? Forecasts by flight number or route, with each live page."
+2026-11-04T08:35:04.663094Z,app.fledly/fledly,Fledly,1.0.0,,streamable-http,"iOS App Store intelligence: young apps that earn, proven app ideas, charts and keyword ranks."
+2026-11-04T08:37:08.302169Z,io.github.CloudCorpRecords/sitedoctor,,0.1.0,https://github.com/CloudCorpRecords/sitedoctor,,"SEO site audits, issue search, Google visibility checks and improvement plans for your sites."
+2026-11-04T08:38:06.999819Z,com.snapwidget/snapwidget,SnapWidget,1.0.0,https://github.com/snapwidget/snapwidget-agent,streamable-http,Ask your AI agent to add your Instagram feed or your Google reviews to your website.
+2026-11-04T08:40:50.770671Z,io.github.addshoppers/minty-mcp,Minty AI Cashback & Coupons,1.0.0-rc1,https://github.com/addshoppers/minty-mcp,streamable-http,"Find coupon codes, cashback, and promotional offers by merchant, domain, or category."
+2026-11-04T08:42:16.513062Z,com.kaikouqian/kaikouqian,Before You Speak,1.0.0,,streamable-http,Create English speaking practice scenes and read review progress in Before You Speak (开口前).
+2026-11-04T08:47:30.328961Z,io.ortakalan/ortak-alan,Ortak Alan,1.0.0,,streamable-http,"Türkçe yayın Ortak Alan: son yazılar, yazı arama, TCMB kurları, tarifler ve hukuk terimleri."
+2026-11-04T08:49:02.115918Z,com.notematics/notematics,Notematics,1.0.0,,streamable-http,"Maths lessons on an online whiteboard: solutions, worksheets, graphs and geometry, opened by a link"
+2026-11-04T08:51:30.500378Z,io.unione/mcp,UniOne,1.0.0,,streamable-http,"Send transactional email and manage domains, templates and webhooks in UniOne from AI agents."
+2026-11-04T08:55:18.451587Z,in.straitlink/mcp,Strait,0.6.0,https://github.com/strait-link/strait-mcp,streamable-http,"Create, search and pause deep links; QR codes; analytics, taps, events; domains; webhooks."
+2026-11-04T08:57:58.709522Z,io.github.CloudCorpRecords/racemodel,,0.1.0,https://github.com/CloudCorpRecords/racemodel,,"Model and map U.S. election races: scenarios, swing, turnout and precinct-level roll-ups."
+2026-11-04T08:59:27.567256Z,com.datashake/datashake-mcp,Datashake,1.0.0,,streamable-http,Social media data for your AI
+2026-11-04T09:04:23.480011Z,com.wasapflow/bridge,WasapFlow Bridge,1.0.0,,streamable-http,"Official WhatsApp Business API for your own CRM or SaaS: docs, numbers, messages, webhooks."
+2026-11-04T09:07:59.176395Z,io.github.laplacetec/analytics,Laplace Analytics,1.0.0,,streamable-http,"E-commerce P&L for brands: orders, ad spend and COGS across Korean & global channels."
+2026-11-04T09:09:36.228954Z,com.flawpilot/mcp,FlawPilot,1.0.0,,streamable-http,"Scan websites and code for security, performance and SEO issues from your AI assistant."
+2026-11-04T09:10:58.403878Z,io.blogfactory/blogfactory,BlogFactory,0.5.0,https://github.com/BlogFactoryHQ/blogfactory,streamable-http,"Agent control plane for multi-site content ops: research, drafts, review, CMS draft delivery."
+2026-11-04T09:11:21.625607Z,io.github.moelayyan90/xguard,XGuard Live,6.0.0,https://github.com/moelayyan90/XGuard,streamable-http,Read current software facts with primary-source evidence and verification timestamps.
+2026-11-04T09:13:16.395828Z,io.github.CloudCorpRecords/fleetwatch,,0.1.0,https://github.com/CloudCorpRecords/fleetwatch,,"Read-only fleet visibility: endpoint agents, health samples, alerts and org summaries."
+2026-11-04T09:13:34.030379Z,io.github.koompi/koompi-cloud,KOOMPI Cloud,1.0.0,https://github.com/koompi/koompi-cloud-mcp,streamable-http,"Build, preview, and deploy apps, databases, brokers, VPS, storage, and domains on KOOMPI Cloud."
+2026-11-04T09:13:37.40557Z,net.homonoia/homonoia,Homonoia,3.6.0,,streamable-http,"Agent-to-agent market and messaging: listings, public discussions and private conversations."
+2026-11-04T09:16:02.275123Z,app.needle/needle,Needle,1.0.0,,streamable-http,"Find perfect leads and run outreach campaigns on Linkedin, email, Instagram and more."
+2026-11-04T09:17:18.873146Z,com.plcgateway/support,PLCGateway support,1.0.0,,streamable-http,"PLCGateway products, modules, PLC/CNC driver support, prices and demo requests, in 11 languages."
+2026-11-04T09:17:52.700572Z,ai.modelrunner/mcp,ModelRunner,1.4.0,https://github.com/modelrunner/modelrunner-mcp,streamable-http,"Run 100+ AI models — image, video, audio, 3D — through one API with pay-per-use billing."
+2026-11-04T09:20:29.470653Z,dev.fly.de5ch001/de5ch001,De 5ch001,0.1.0,,streamable-http,"A club for AI agents: walk the door, dance, talk, leave with your night. Your key stays with you."
+2026-11-04T09:20:46.648442Z,com.getecommerceleads/ecommerce-leads,Ecommerce Leads,1.1.0,,streamable-http,"Ecommerce store metrics by domain: revenue, ad spend, traffic. Log in to search 600k+ stores."
