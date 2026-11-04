@@ -9,45 +9,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 04:19 UTC
+## Latest list — 2026-11-04 05:19 UTC
 
-New MCP servers published between 2026-11-04 03:20 UTC and 2026-11-04 04:19 UTC.
+New MCP servers published between 2026-11-04 04:19 UTC and 2026-11-04 05:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-04T04-19-25-223011Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-04T05-19-49-175256Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-04 03:21:47 | [io.github.voygr-tech/prospecting](https://github.com/voygr-tech/prospecting) | VOYGR Prospecting | 0.2.2 | Lead lists of US local businesses by city and category, enriched with owners, c… |
-| 2026-11-04 03:22:07 | com.krawlup/krawlup | Krawlup | 2.0.0 | SEO/AEO audits agents fix directly, free site reports, first-party cookieless a… |
-| 2026-11-04 03:22:20 | [io.github.joshuajdawg0350/j-dawgs-mcp](https://github.com/joshuajdawg0350/jdawgs-mcp) | J-Dawgs AI Tool Store & Human Hands — C… | 0.1.1 | Read-only catalog of the J-Dawgs AI Tool Store (100+ agent tools) plus Human Ha… |
-| 2026-11-04 03:23:00 | [io.github.CloudCorpRecords/sealtier](https://github.com/CloudCorpRecords/sealtier) |  | 0.1.0 | Local OKF tier check for Markdown folders: scan tiers, trust verdicts and git c… |
-| 2026-11-04 03:27:03 | [io.github.seojaehong/sanjae-apply](https://github.com/seojaehong/sanjae-apply) | 산재 신청 도우미 (sanjae-apply) | 0.5.6 | Korean workers' compensation claims: required KCOMWEL forms and articles; fills… |
-| 2026-11-04 03:28:02 | com.getvidfb/downloader | GetVidFB Downloader | 1.0.0 | Download links for public Facebook, TikTok and Pinterest videos, reels, images… |
-| 2026-11-04 03:30:23 | com.posteady/posteady | Posteady | 1.0.0 | Schedule and publish to all your social channels from Claude, ChatGPT and other… |
-| 2026-11-04 03:34:32 | [com.tryglen/glen](https://github.com/Glen-Web-App/glen-mcp) | Glen | 1.0.0 | Search your team's shared agent memory, and use and save the org's skills and d… |
-| 2026-11-04 03:35:56 | com.forevenza.services/bayline | Bayline: truckload, LTL and intermodal… | 1.0.0 | Truck lanes and warehouse space, specified the way carriers and landlords quote… |
-| 2026-11-04 03:35:56 | com.forevenza.services/chamfer | Chamfer: CNC machining, molding, sheet… | 1.0.0 | RFQs shops can quote for machined, molded, sheet metal and PCB parts; MRO parts… |
-| 2026-11-04 03:35:57 | com.forevenza.services/colophon | Colophon: translation quotes; image, mu… | 1.0.0 | Translation by language pair and field, and licences for images, music, fonts a… |
-| 2026-11-04 03:35:57 | com.forevenza.services/decant | Decant: convert CSV, XLSX and PDF to JS… | 1.0.0 | Convert CSV, XLSX and PDF files to JSON, read web pages into structure, and sou… |
-| 2026-11-04 03:35:57 | com.forevenza.services/goodstanding | Goodstanding: LLC and corporation forma… | 1.0.0 | Company formation, registered agents, EINs and annual filings, set out as one b… |
-| 2026-11-04 03:35:57 | com.forevenza.services/groundtruth | Groundtruth: site inspections, photos a… | 1.0.0 | Site photos, inspections and pickups at an address; court, property and busines… |
-| 2026-11-04 03:35:57 | com.forevenza.services/joinery | Joinery: ERP, ecommerce, CRM and accoun… | 1.0.0 | Integration briefs for ERP, storefront, warehouse, CRM and accounting systems,… |
-| 2026-11-04 03:35:58 | com.forevenza.services/loadfactor | Loadfactor: business electricity and ga… | 1.0.0 | A site's electricity, gas, solar or EV charging, specified the way suppliers an… |
-| 2026-11-04 03:35:58 | com.forevenza.services/millsheet | Millsheet: metals, resins and chemicals… | 1.0.0 | Specify metals, resins, chemicals and gases by grade, and plan a bulk CO2 suppl… |
-| 2026-11-04 03:35:58 | com.forevenza.services/nodehour | Nodehour: GPU and accelerator capacity… | 1.0.0 | GPU and accelerator capacity by chip, count, term, region and interconnect, spe… |
-| 2026-11-04 03:35:58 | com.forevenza.services/plumbline | Plumbline: OFAC SDN sanctions screening… | 1.0.0 | OFAC sanctions screening and company checks against public registries, every so… |
-| 2026-11-04 03:36:31 | com.teamso/mcp | Teamso | 1.3.1 | Teamso HR in your assistant: leave, approvals, people and payslips, with your o… |
-| 2026-11-04 03:41:16 | com.scrapeio/scrapeio | ScrapeIO | 1.0.0 | Public data from TikTok, Instagram, YouTube, X, Facebook and 28 more platforms.… |
-| 2026-11-04 03:41:19 | io.github.evolutionlabs-dev/signal-bureau |  | 1.1.2 | SigB (Signal Bureau): maintained, source-traced record of entities and events i… |
-| 2026-11-04 03:44:06 | [io.github.nico02138-ops/faxfair](https://github.com/nico02138-ops/faxwell) | FaxFair | 1.0.0 | Fax API and MCP server for AI agents. Fax US and Canada, pay per request with x… |
-| 2026-11-04 03:45:47 | com.miconvert/file-converter | MiConvert File Converter | 1.0.0 | Convert files by URL: OFD→PDF, 3D/CAD (STEP, STL, GLB), images, audio, video, d… |
-| 2026-11-04 04:00:33 | [io.github.CloudCorpRecords/ballpark](https://github.com/CloudCorpRecords/ballpark) |  | 0.1.0 | Forwarding client for Dribba studio data: services, case studies, budget estima… |
-| 2026-11-04 04:02:48 | io.github.6mickswagger9/mytollbooth-calendar-mcp |  | 0.0.2 | x402 scheduling API: availability, conflicts, multi-party coordination for AI a… |
-| 2026-11-04 04:04:46 | [io.github.ycsmiley/formosa-mcp](https://github.com/ycsmiley/formosa-mcp) | Formosa MCP — Taiwan data | 0.2.0 | Taiwan data for AI agents: THSR/TRA timetables, TWSE/TPEx stocks, invoice lotte… |
-| 2026-11-04 04:07:48 | [io.github.CloudCorpRecords/formfill](https://github.com/CloudCorpRecords/formfill) |  | 0.1.0 | Create BaseStation PDF form autofill jobs from natural-language instructions vi… |
-| 2026-11-04 04:09:13 | io.github.alex78629/ccm-quote | Cross Country Movers Quote | 1.0.0 | Instant US car shipping quotes: open and enclosed prices, pickup window, transi… |
-| 2026-11-04 04:14:49 | [io.github.CloudCorpRecords/agentdocs](https://github.com/CloudCorpRecords/agentdocs) |  | 0.1.0 | Forwarding client for the IMBA agent documentation: facts, use cases, tier poli… |
-| 2026-11-04 04:19:04 | ai.dockito/dockito | Dockito | 1.0.1 | One home for docs, live sheets, Slides, boards, API docs and DB designs, made b… |
+| 2026-11-04 04:20:26 | [io.github.johnisanerd/google-images](https://github.com/johnisanerd/Google-Images-API) |  | 1.0.0 | Google Images results in bulk: image URLs, sizes, thumbnails, and source pages,… |
+| 2026-11-04 04:22:23 | com.okkmax/okkmax | OkkMax | 0.2.0 | Read-only data on AI API relay stations: rank, purity, uptime, price per model. |
+| 2026-11-04 04:22:32 | [io.github.CloudCorpRecords/knowdrift](https://github.com/CloudCorpRecords/knowdrift) |  | 0.1.0 | Search Driflyte's topic-indexed crawled web knowledge: list topics and retrieve… |
+| 2026-11-04 04:24:29 | xyz.shack/shack | Shack | 1.0.0 | Search auctions on Shack, see your listings and turn photos into auction drafts… |
+| 2026-11-04 04:26:26 | ai.signalry/countersign | Countersign by Signalry | 0.1.0 | Countersign by Signalry: re-runs the checks behind an AI agent's done claim; ha… |
+| 2026-11-04 04:26:27 | com.bestboatday/boatday | Boat Day | 1.8.0 | Read-only boating data: Seacoast ME-NH boatyards, cited winter storage prices,… |
+| 2026-11-04 04:30:17 | io.github.CaSO44444/remote-mcp | Remote MCP Server | 1.0.0 | Remote MCP server available at 8.133.174.91. |
+| 2026-11-04 04:40:57 | [io.github.Contextator/contextator](https://github.com/Contextator/Contextator) | Contextator | 0.7.0 | Self-hosted documentation server: each project's indexed docs as its own MCP en… |
+| 2026-11-04 04:48:33 | [io.github.markusweldon/cverdict](https://github.com/markusweldon/cverdict) | CVErdict | 0.1.2 | Read-only CVE triage: verdicts from CISA KEV, EPSS and exploit feeds, each reas… |
+| 2026-11-04 04:49:24 | com.qadir/qadir | Qadir | 1.0.0 | Prayer, iqamah and Jumu'ah times, masjids, halal food and khutbahs for the US,… |
+| 2026-11-04 04:49:34 | [io.github.daqifi/daqifi-mcp](https://github.com/daqifi/daqifi-core) | DAQiFi | 1.9.0 | Discover, configure and read DAQiFi Nyquist data-acquisition hardware from an A… |
+| 2026-11-04 04:50:23 | com.xipfax/fax | XipFax | 1.0.0 | Fax a form from your AI assistant. XipFax finds the right IRS fax number and sh… |
+| 2026-11-04 04:53:23 | [io.github.meta-taro/dbboard](https://github.com/meta-taro/dbboard) |  | 0.22.0 | Hands AI agents the databases dbboard connects to: reads by default, and never… |
+| 2026-11-04 04:55:18 | [io.github.dassey/yab-mcp](https://github.com/dassey/YABlenderMCP) | YABlenderMCP | 2.3.0 | Local-only Blender 5.1 for AI agents: modeling, rendering, 3D-print prep. No ke… |
+| 2026-11-04 04:58:39 | com.shutterbots/shutterbots | Shutterbots | 1.0.0 | Image feed for AI agents: post images, browse, like, comment and follow. |
+| 2026-11-04 05:06:25 | com.sidekickpro/sidekick-pro | Sidekick Pro | 2.0.0 | AI executive assistant: email triage, inbox, calendar, files, memory, phone and… |
+| 2026-11-04 05:06:52 | [com.agentfirststack/mcp](https://github.com/StartGlobal-AI/agentfirststack) | AgentFirstStack | 0.1.0 | Analytics, tag manager, email inboxes and session replay an AI agent sets up by… |
+| 2026-11-04 05:06:52 | [com.agentfirststack/analytics](https://github.com/StartGlobal-AI/agentfirststack) | AgentFirstStack Analytics | 0.1.0 | Cookieless web analytics an agent creates and queries: goals, funnels, revenue,… |
+| 2026-11-04 05:06:52 | [com.agentfirststack/tags](https://github.com/StartGlobal-AI/agentfirststack) | AgentFirstStack Tags | 0.1.0 | Tag manager with server-side conversions for GA4, Google Ads, Meta and TikTok,… |
+| 2026-11-04 05:06:53 | [com.agentfirststack/mail](https://github.com/StartGlobal-AI/agentfirststack) | AgentFirstStack Mail | 0.1.0 | Email inboxes for AI agents: wait for mail, pull out verification codes and lin… |
+| 2026-11-04 05:06:53 | [com.agentfirststack/replay](https://github.com/StartGlobal-AI/agentfirststack) | AgentFirstStack Replay | 0.1.0 | Session replay as readable transcripts: rage and dead clicks, JS errors and hea… |
+| 2026-11-04 05:07:18 | com.launchyournextchapter/nextchapter-jobs | NextChapter jobs, résumé and layoff help | 1.2.0 | Search pro jobs with AI exposure and layoff signals, score a résumé, look up WA… |
+| 2026-11-04 05:07:19 | [io.github.dassey/yablendermcp](https://github.com/dassey/YABlenderMCP) | YABlenderMCP | 2.3.1 | Local-only Blender 5.1 for AI agents: modeling, rendering, 3D-print prep. No ke… |
+| 2026-11-04 05:13:01 | ai.greatarrow/great-arrow | GreatArrow.ai | 1.1.0 | Stop copy-pasting client context into your AI. 47 connectable providers via MCP. |
+| 2026-11-04 05:14:43 | engineering.twinn/sage-100-contractor | Twinn: Sage 100 Contractor | 1.0.0 | Read-only Sage 100 Contractor data and construction reports (WIP, AR/AP aging)… |
+| 2026-11-04 05:15:04 | com.agentstackdata/agentstack |  | 1.0.0 | Verified AI-agent tool catalog with pricing: search, voice, MCP, automation and… |
+| 2026-11-04 05:15:06 | com.homegeneratorhq/generators |  | 1.0.0 | Verified home backup power catalog: standby and portable generators, power stat… |
+| 2026-11-04 05:16:42 | [io.github.mindstone/mcp-server-microsoft-mail](https://github.com/mindstone/mcp-servers) | Microsoft 365 Mail | 0.4.0 | Microsoft 365 Outlook mail via Graph: read, search, send, reply, forward, draft… |
+| 2026-11-04 05:17:03 | [io.github.mindstone/mcp-server-microsoft-teams](https://github.com/mindstone/mcp-servers) | Microsoft 365 Teams | 0.3.2 | Microsoft 365 Teams via Graph: list chats, read/send messages, list teams/chann… |
+| 2026-11-04 05:17:19 | [io.github.meta-taro/git-qa](https://github.com/meta-taro/git-qa) |  | 0.2.0-beta.21 | Open-source human-in-the-loop QA runner: an AI agent works the test sheet, a pe… |
+| 2026-11-04 05:18:16 | [io.github.24repost-ru/24repost-mcp](https://github.com/24repost-ru/24repost-mcp) | 24Repost | 1.0.0 | Cross-posting between Telegram, MAX and VK: routes, copy rules, history import,… |
 
 ## Data source
 

@@ -1,0 +1,32 @@
+created_at,server,title,version,repository,transports,description
+2026-11-04T04:20:26.982356Z,io.github.johnisanerd/google-images,,1.0.0,https://github.com/johnisanerd/Google-Images-API,streamable-http,"Google Images results in bulk: image URLs, sizes, thumbnails, and source pages, via hosted MCP."
+2026-11-04T04:22:23.638573Z,com.okkmax/okkmax,OkkMax,0.2.0,,streamable-http,"Read-only data on AI API relay stations: rank, purity, uptime, price per model."
+2026-11-04T04:22:32.604305Z,io.github.CloudCorpRecords/knowdrift,,0.1.0,https://github.com/CloudCorpRecords/knowdrift,,Search Driflyte's topic-indexed crawled web knowledge: list topics and retrieve documents.
+2026-11-04T04:24:29.287333Z,xyz.shack/shack,Shack,1.0.0,,streamable-http,"Search auctions on Shack, see your listings and turn photos into auction drafts you can publish."
+2026-11-04T04:26:26.621851Z,ai.signalry/countersign,Countersign by Signalry,0.1.0,,streamable-http,Countersign by Signalry: re-runs the checks behind an AI agent's done claim; hash-chained receipts.
+2026-11-04T04:26:27.299915Z,com.bestboatday/boatday,Boat Day,1.8.0,,streamable-http,"Read-only boating data: Seacoast ME-NH boatyards, cited winter storage prices, boat models, value."
+2026-11-04T04:30:17.425455Z,io.github.CaSO44444/remote-mcp,Remote MCP Server,1.0.0,,sse,Remote MCP server available at 8.133.174.91.
+2026-11-04T04:40:57.335145Z,io.github.Contextator/contextator,Contextator,0.7.0,https://github.com/Contextator/Contextator,streamable-http,Self-hosted documentation server: each project's indexed docs as its own MCP endpoint.
+2026-11-04T04:48:33.060504Z,io.github.markusweldon/cverdict,CVErdict,0.1.2,https://github.com/markusweldon/cverdict,,"Read-only CVE triage: verdicts from CISA KEV, EPSS and exploit feeds, each reason linked."
+2026-11-04T04:49:24.198316Z,com.qadir/qadir,Qadir,1.0.0,,streamable-http,"Prayer, iqamah and Jumu'ah times, masjids, halal food and khutbahs for the US, Canada and Mexico."
+2026-11-04T04:49:34.179079Z,io.github.daqifi/daqifi-mcp,DAQiFi,1.9.0,https://github.com/daqifi/daqifi-core,,"Discover, configure and read DAQiFi Nyquist data-acquisition hardware from an AI agent"
+2026-11-04T04:50:23.581498Z,com.xipfax/fax,XipFax,1.0.0,,streamable-http,Fax a form from your AI assistant. XipFax finds the right IRS fax number and shows the price first.
+2026-11-04T04:53:23.070966Z,io.github.meta-taro/dbboard,,0.22.0,https://github.com/meta-taro/dbboard,,"Hands AI agents the databases dbboard connects to: reads by default, and never a secret."
+2026-11-04T04:55:18.784168Z,io.github.dassey/yab-mcp,YABlenderMCP,2.3.0,https://github.com/dassey/YABlenderMCP,,"Local-only Blender 5.1 for AI agents: modeling, rendering, 3D-print prep. No keys, no cloud."
+2026-11-04T04:58:39.456677Z,com.shutterbots/shutterbots,Shutterbots,1.0.0,,streamable-http; streamable-http,"Image feed for AI agents: post images, browse, like, comment and follow."
+2026-11-04T05:06:25.86716Z,com.sidekickpro/sidekick-pro,Sidekick Pro,2.0.0,,streamable-http,"AI executive assistant: email triage, inbox, calendar, files, memory, phone and connected apps."
+2026-11-04T05:06:52.349479Z,com.agentfirststack/mcp,AgentFirstStack,0.1.0,https://github.com/StartGlobal-AI/agentfirststack,streamable-http,"Analytics, tag manager, email inboxes and session replay an AI agent sets up by itself. Free, MIT."
+2026-11-04T05:06:52.633787Z,com.agentfirststack/analytics,AgentFirstStack Analytics,0.1.0,https://github.com/StartGlobal-AI/agentfirststack,streamable-http,"Cookieless web analytics an agent creates and queries: goals, funnels, revenue, SQL. Free, MIT."
+2026-11-04T05:06:52.910445Z,com.agentfirststack/tags,AgentFirstStack Tags,0.1.0,https://github.com/StartGlobal-AI/agentfirststack,streamable-http,"Tag manager with server-side conversions for GA4, Google Ads, Meta and TikTok, set up by an agent."
+2026-11-04T05:06:53.187306Z,com.agentfirststack/mail,AgentFirstStack Mail,0.1.0,https://github.com/StartGlobal-AI/agentfirststack,streamable-http,"Email inboxes for AI agents: wait for mail, pull out verification codes and links, reply. Free."
+2026-11-04T05:06:53.458809Z,com.agentfirststack/replay,AgentFirstStack Replay,0.1.0,https://github.com/StartGlobal-AI/agentfirststack,streamable-http,"Session replay as readable transcripts: rage and dead clicks, JS errors and heatmaps. Free, MIT."
+2026-11-04T05:07:18.268618Z,com.launchyournextchapter/nextchapter-jobs,"NextChapter jobs, résumé and layoff help",1.2.0,,streamable-http,"Search pro jobs with AI exposure and layoff signals, score a résumé, look up WARN layoff notices."
+2026-11-04T05:07:19.517724Z,io.github.dassey/yablendermcp,YABlenderMCP,2.3.1,https://github.com/dassey/YABlenderMCP,,"Local-only Blender 5.1 for AI agents: modeling, rendering, 3D-print prep. No keys, no cloud."
+2026-11-04T05:13:01.664327Z,ai.greatarrow/great-arrow,GreatArrow.ai,1.1.0,,streamable-http,Stop copy-pasting client context into your AI. 47 connectable providers via MCP.
+2026-11-04T05:14:43.457895Z,engineering.twinn/sage-100-contractor,Twinn: Sage 100 Contractor,1.0.0,,streamable-http,"Read-only Sage 100 Contractor data and construction reports (WIP, AR/AP aging) on a demo company."
+2026-11-04T05:15:04.556262Z,com.agentstackdata/agentstack,,1.0.0,,streamable-http,"Verified AI-agent tool catalog with pricing: search, voice, MCP, automation and data APIs."
+2026-11-04T05:15:06.106338Z,com.homegeneratorhq/generators,,1.0.0,,streamable-http,"Verified home backup power catalog: standby and portable generators, power stations, sizing."
+2026-11-04T05:16:42.470982Z,io.github.mindstone/mcp-server-microsoft-mail,Microsoft 365 Mail,0.4.0,https://github.com/mindstone/mcp-servers,,"Microsoft 365 Outlook mail via Graph: read, search, send, reply, forward, draft, move, delete."
+2026-11-04T05:17:03.055938Z,io.github.mindstone/mcp-server-microsoft-teams,Microsoft 365 Teams,0.3.2,https://github.com/mindstone/mcp-servers,,"Microsoft 365 Teams via Graph: list chats, read/send messages, list teams/channels, presence."
+2026-11-04T05:17:19.99345Z,io.github.meta-taro/git-qa,,0.2.0-beta.21,https://github.com/meta-taro/git-qa,,"Open-source human-in-the-loop QA runner: an AI agent works the test sheet, a person signs off."
+2026-11-04T05:18:16.428361Z,io.github.24repost-ru/24repost-mcp,24Repost,1.0.0,https://github.com/24repost-ru/24repost-mcp,streamable-http,"Cross-posting between Telegram, MAX and VK: routes, copy rules, history import, chatbots."
