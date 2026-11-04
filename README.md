@@ -9,49 +9,60 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 14:21 UTC
+## Latest list — 2026-11-04 15:20 UTC
 
-New MCP servers published between 2026-11-04 13:21 UTC and 2026-11-04 14:21 UTC.
+New MCP servers published between 2026-11-04 14:21 UTC and 2026-11-04 15:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-04T14-21-37-627936Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-04T15-20-56-327819Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-04 13:22:15 | fr.apparais.www/apparais | Apparais | 1.0.0 | Les commerces locaux que ChatGPT recommande en France, par métier et par ville.… |
-| 2026-11-04 13:22:36 | [com.manawg/mcp](https://github.com/Abuarchiv/manawg-mcp) | ManaWG | 0.2.0 | Shared-flat app ManaWG: expenses, cleaning rota, shopping list, calendar and ch… |
-| 2026-11-04 13:22:51 | [io.github.komako-workshop/stringers](https://github.com/komako-workshop/stringers) | 什么值得做 Stringers | 0.2.0 | Daily verdicts on which small-product directions are worth building, from 15 da… |
-| 2026-11-04 13:25:07 | app.growthdept/growthdept | GrowthDept | 1.0.0 | Run small business marketing from Claude, ChatGPT or Gemini: drafts, approvals,… |
-| 2026-11-04 13:28:48 | [io.github.CloudCorpRecords/faregrid](https://github.com/CloudCorpRecords/faregrid) |  | 0.1.0 | Search one-way and round-trip flight fares across dates and destinations, with… |
-| 2026-11-04 13:29:20 | [io.github.steadyfetch/steadyfetch-actors](https://github.com/steadyfetch/steadyfetch-agent-tools) | Steadyfetch actors on Apify MCP | 1.1.0 | Apify MCP pinned to 40 Steadyfetch actors: Instagram, ad/video transcripts, key… |
-| 2026-11-04 13:32:28 | [io.github.ildargiv/kopitehnik-print](https://github.com/ildargiv/KopiTehnik-Print) | KopiTehnik Print | 1.8.0 | Print photos on a real inkjet printer: ICC colour, borderless, smart crop, shee… |
-| 2026-11-04 13:32:37 | [io.github.ildargiv/kopitehnik-converter](https://github.com/ildargiv/kopitehnik-converter) | KopiTehnik Converter | 3.5.2 | Convert, lay out and print photos on Windows: ICC colour, sheets, PDF, scan OCR. |
-| 2026-11-04 13:32:45 | [io.github.Magic-Resume/magic-resume](https://github.com/Magic-Resume/magic-resume-kit) | Kenmet | 1.0.2 | Read and edit Kenmet (formerly Magic Resume) resumes from any MCP client with s… |
-| 2026-11-04 13:37:36 | [io.solidrpc/agent](https://github.com/SolidRPC/agent-toolkit) | SolidRPC | 0.1.0 | Manage blockchain RPC keys, networks, usage and prepaid billing with a scoped S… |
-| 2026-11-04 13:37:47 | io.github.EverMind-AI/everme | EverMe | 0.6.1 | Search personal memories and retrieve context from EverMe. |
-| 2026-11-04 13:39:55 | [me.route6/netid](https://github.com/route6me/mcp) | Route6 — Agent Network Identity | 1.3.4 | Gives AI agents a public IPv6 identity, hostname, port forwarding, web fetch, t… |
-| 2026-11-04 13:40:31 | com.publishq/publishq | PublishQ | 1.0.0 | Schedule and publish posts, organize media into folders, and keep each brand in… |
-| 2026-11-04 13:41:25 | [io.github.CloudCorpRecords/formchime](https://github.com/CloudCorpRecords/formchime) |  | 0.1.0 | Create contact forms, get embed snippets, and read recent submissions and webho… |
-| 2026-11-04 13:42:20 | com.beyourcover/book-cover-generator | BeYourCover | 1.30.0 | Generate genre-aware, print-ready AI book covers (ebook, KDP wrap, audiobook) v… |
-| 2026-11-04 13:43:34 | io.github.fahimk/reviewbot | ReviewBot App Reviews | 0.1.0 | Read collected App Store and Google Play reviews and bounded feedback statistic… |
-| 2026-11-04 13:50:21 | io.qrocodile/mcp | QRocodile | 1.0.0 | Generate styled QR codes as SVG or PNG: colors, module shapes, ready-made prese… |
-| 2026-11-04 13:52:56 | [io.github.CloudCorpRecords/formwire](https://github.com/CloudCorpRecords/formwire) |  | 0.1.0 | Create and wire up contact forms from your agent: snippets, forms, and submissi… |
-| 2026-11-04 13:57:31 | com.quarralabs/reddit-scraper | Reddit Scraper | 1.0.0 | Reddit posts, full comment trees, searches, subreddits and users, as JSON or Ma… |
-| 2026-11-04 13:57:32 | com.quarralabs/google-trends-scraper | Google Trends Scraper | 1.0.0 | Google Trends interest over time, by region, related queries and Trending now,… |
-| 2026-11-04 13:57:32 | com.quarralabs/youtube-transcript-scraper | YouTube Transcript Scraper | 1.0.0 | YouTube transcripts from videos, Shorts, channels, playlists and searches, with… |
-| 2026-11-04 14:00:27 | co.blueticks/blueticks | Blueticks WhatsApp MCP | 1.1.2 | WhatsApp MCP on your own number: read chats, send and schedule messages. |
-| 2026-11-04 14:03:40 | [io.github.CloudCorpRecords/supprecord](https://github.com/CloudCorpRecords/supprecord) |  | 0.1.0 | Dated formula history, confirmed changes, and evidence for U.S. pre-workout sup… |
-| 2026-11-04 14:06:22 | [io.github.laaielichter/ai-edit-studio](https://github.com/laaielichter/ai-edit-studio) | AI Edit Studio | 0.11.0 | Local-first video editor for AI agents: 59 tools for auto-edit, shorts, caption… |
-| 2026-11-04 14:06:38 | [io.github.experiens/cupom-center](https://github.com/experiens/cupom-center-mcp) | Cupom Center | 0.1.0 | Conecta agentes de IA à API REST do Cupom Center com fluxos seguros de cupons. |
-| 2026-11-04 14:06:41 | com.cutoutlabs/mcp | Cutout Lab | 0.1.0 | Remove image backgrounds from local files or URLs and get transparent PNG cutou… |
-| 2026-11-04 14:10:13 | [io.github.molidestroyer/software-dock](https://github.com/molidestroyer/windows-software-mcp) | Software Dock | 0.3.0 | List, update, install and uninstall the software on a Windows PC; running apps,… |
-| 2026-11-04 14:11:44 | dev.fetchlayer/fetchlayer | FetchLayer | 1.0.0 | 226 tools for Reddit, X, TikTok, Instagram, YouTube, reviews, ads, shopping and… |
-| 2026-11-04 14:13:23 | [io.github.seojaehong/k-labor](https://github.com/seojaehong/labor-law-guide) | 노동 업무 도구 (k-labor) | 0.1.1 | Korean labor tools: NHIS report forms, employment contracts, wage/leave/tax cal… |
-| 2026-11-04 14:13:29 | com.conductscience/catalog | ConductScience catalog | 1.0.0 | Search ConductScience lab equipment and research software, and read product det… |
-| 2026-11-04 14:15:01 | [io.github.CloudCorpRecords/vischeck](https://github.com/CloudCorpRecords/vischeck) |  | 0.1.0 | See whether ChatGPT, Claude and Gemini recommend a startup product, and who win… |
-| 2026-11-04 14:16:32 | dev.mobilebox/mobilebox | Mobilebox | 1.0.0 | Cloud Android phones for AI agents: read the screen, tap, type, install APKs, p… |
-| 2026-11-04 14:16:39 | de.run-zero/mcp | run.zero | 1.0.0 | Deploy apps, APIs and Postgres from your AI agent. EU PaaS hosted in Germany, O… |
-| 2026-11-04 14:17:34 | app.metodix/metodix | Metodix — training log for coaches | 1.47.0 | Training log for coaches: your AI assistant finds clients, reads history, logs… |
-| 2026-11-04 14:19:40 | de.workloadzero/mcp | workload.zero | 1.0.0 | Tasks, time tracking, CRM, quotes and invoices for agencies and freelancers. Ho… |
+| 2026-11-04 14:23:18 | [io.github.team-monet/monet](https://github.com/team-monet/monet) | Monet | 1.11.1 | Local-first, state-centric memory for coding agents. MCP server + CLI. |
+| 2026-11-04 14:23:24 | ai.ptally/ptally | Ptally | 1.0.0 | Insurance pricing: build, validate and test rating models, then price quotes fr… |
+| 2026-11-04 14:24:17 | [io.github.crane-valley/framedash-mcp-server](https://github.com/crane-valley/framedash-mcp-server) |  | 0.2.0 | MCP server for Framedash game telemetry: query analytics, heatmaps, perf regres… |
+| 2026-11-04 14:29:16 | [io.github.fecklesspleb/actors-mcp](https://github.com/fecklesspleb/actors-mcp) | fecklesspleb Apify Actors | 0.1.0 | 14 tools for fecklesspleb's Apify Actors: SEO, metadata, sitemaps, HN, jobs; 4… |
+| 2026-11-04 14:29:55 | com.clawhard/spill | Spill | 1.0.0 | Find leaked API keys, tokens and passwords in pasted text, see which are live,… |
+| 2026-11-04 14:30:22 | io.github.Animus2018/author-itag | Author iTag | 1.0.0 | GPS trackers, phones and QR tags: locations, trips, alerts and vehicle controls… |
+| 2026-11-04 14:33:53 | [io.github.CloudCorpRecords/porefind](https://github.com/CloudCorpRecords/porefind) |  | 0.1.0 | Search lab-filtration products by specification, with prices and lead times. |
+| 2026-11-04 14:35:32 | [io.github.CloudCorpRecords/terrainprofile](https://github.com/CloudCorpRecords/terrainprofile) |  | 0.1.0 | Elevation, slope, terrain maps and 3D surfaces for any site, from global and re… |
+| 2026-11-04 14:41:22 | ai.tamtam/tamtam | Tamtam | 1.0.0 | Find B2B leads from buying signals, get verified contacts, and research account… |
+| 2026-11-04 14:41:47 | trade.neum/neum | NEUM | 1.0.0 | Ask your AI about US stock price levels, level crossings, model events and earn… |
+| 2026-11-04 14:42:33 | io.github.tradetabula/tabula-mcp |  | 0.1.0 | Credit for AI agents: pay x402 sellers from a credit line, repay with one signa… |
+| 2026-11-04 14:42:54 | ai.infobro/directory | infobro AI tools directory | 1.0.0 | List your AI tool on infobro.ai: sign up by email code, submit or claim a listi… |
+| 2026-11-04 14:46:11 | com.dividenddata/terminal | Dividend Data | 2.4.0 | Fundamentals, KPIs, prices, valuation, earnings and dividends for 80,000+ stock… |
+| 2026-11-04 14:46:14 | com.author-tag/author-itag | Author iTag | 1.0.0 | GPS trackers, phones and QR tags: locations, trips, alerts and vehicle controls… |
+| 2026-11-04 14:46:28 | app.netlify.thechesscoach/chess-coach | Chess Coach | 1.0.0 | Review your Chess.com and Lichess games with Stockfish on an interactive board,… |
+| 2026-11-04 14:49:25 | pro.rebond/offres-emploi | Rebond, offres d'emploi | 1.0.0 | Offres d'emploi publiques en France : recherche par métier, ville, contrat, tél… |
+| 2026-11-04 14:49:48 | dev.mrhyde/memes | Meme Studio | 1.0.0 | Make memes from a big catalog of templates and GIFs or your own photo, and get… |
+| 2026-11-04 14:50:27 | vn.ctas/life | CTAS Life | 1.0.0 | Chia Chia shared expenses and the Vietnamese lunar calendar for CTAS Life Premi… |
+| 2026-11-04 14:50:39 | vn.ctas/work | CTAS Work | 1.0.0 | Attendance, shifts, leave, payroll and team tools for CTAS Work organizations. |
+| 2026-11-04 14:51:12 | com.meilleurcodeparrainage/codes-parrainage | Meilleur Code Parrainage | 1.1.0 | Codes de parrainage vérifiés en France : bonus filleul et parrain, conditions,… |
+| 2026-11-04 14:52:21 | com.gatavia.gata/viajes | GATA · Viajes | 1.0.0 | Stays in Spain and Spanish-speaking Latin America with booking links and map. F… |
+| 2026-11-04 14:54:27 | ch.tasters/mcp | Tasters | 0.4.0 | Swiss wine shop: food pairings, in-stock wines with CHF prices, your cellar. Sh… |
+| 2026-11-04 14:55:43 | [dev.agentchrome/agentchrome](https://github.com/ShadowWalker2014/agentchrome) | Agent Chrome | 0.1.0 | Let AI agents use your real, signed-in Chrome: tabs, clicks, forms, screenshots… |
+| 2026-11-04 14:56:51 | dev.rosti/rosti | Rösti Threat Intel | 0.1.0 | Look up IOCs and search threat-intel reports, YARA rules, MITRE ATT&CK ids and… |
+| 2026-11-04 14:58:51 | com.quorumz.api/sense | Quorumz Sense | 1.0.0 | Geo-tagged world news for agents: each story split into viewpoints, with suppor… |
+| 2026-11-04 14:59:42 | com.quarralabs/aliexpress-scraper | AliExpress Scraper | 1.0.0 | AliExpress products: every variant with price and stock, shipping to your count… |
+| 2026-11-04 14:59:43 | com.quarralabs/aliexpress-search-scraper | AliExpress Search Scraper | 1.0.0 | AliExpress search results from keywords or category URLs: price, rating, units… |
+| 2026-11-04 14:59:43 | com.quarralabs/threads-scraper | Threads Scraper | 1.0.0 | Threads public posts, replies and profiles, with view counts, keyword and accou… |
+| 2026-11-04 15:00:27 | com.dibsresearch/dibsresearch | dibsresearch | 1.0.0 | Company KPIs, financial statements and SEC filing text with sources, plus offic… |
+| 2026-11-04 15:01:17 | [io.github.peterskotte123/lowball](https://github.com/peterskotte123/lowball-plugin) |  | 0.1.1 | What to offer on a Zillow rental: nearby asks, real days listed, cuts, a messag… |
+| 2026-11-04 15:06:19 | [io.github.Kandecho/video-reader](https://github.com/Kandecho/Video-Reader) | Video Reader | 0.1.0 | Local video evidence, transcripts, frames, comments and shared reading queues/h… |
+| 2026-11-04 15:06:20 | [io.github.Kandecho/scroll-agent](https://github.com/Kandecho/Video-Reader) | Scroll Agent | 0.1.0 | Independent Bilibili account, personal feed, inbox and authorized delivery; aut… |
+| 2026-11-04 15:07:50 | com.trycatchjob/trycatchjob | TryCatchJob | 0.1.0 | Track job applications: find the ones to follow up on, add jobs, update status,… |
+| 2026-11-04 15:08:11 | [com.cursivelines/cursivelines](https://github.com/pyxlino/cursivelines-mcp) | CursiveLines | 2.0.0 | Learn cursive and print letters, practice, print practice sheets and write your… |
+| 2026-11-04 15:09:19 | com.askattest/mcp | Attest | 1.0.0 | Find your Attest studies and read their survey results, boards and key findings. |
+| 2026-11-04 15:09:43 | com.nodle/iot-dashboard | Nodle IoT Dashboard | 0.1.0 | Fleets, devices, detections and webhooks on the Nodle Bluetooth Low Energy netw… |
+| 2026-11-04 15:10:10 | [ai.ontoloop/ontoloop](https://github.com/alextangson/ontoloop-mcp) | Ontoloop | 0.1.0 | Team agent collaboration: shared team facts, human-confirmed writes, tasks and… |
+| 2026-11-04 15:12:36 | io.rekord/duneland-financial | Duneland Financial acquisition financin… | 1.0.0 | Model a business acquisition: affordability, DSCR, capital stack, loan, seller… |
+| 2026-11-04 15:12:45 | [io.github.CloudCorpRecords/jobfeed](https://github.com/CloudCorpRecords/jobfeed) |  | 0.1.0 | Live job-board reads across Greenhouse, Lever, Ashby and more: boards, openings… |
+| 2026-11-04 15:13:24 | com.otdeck/otdeck-mcp | OTDeck | 0.1.0 | Read MQTT topics, Modbus registers and OPC UA nodes from AI agents. Read-only. |
+| 2026-11-04 15:14:19 | fr.pocketplanner/pocketplanner | PocketPlanner | 1.0.0 | Let your AI assistant read and fill your finances: budget, statements, payslips… |
+| 2026-11-04 15:14:51 | io.github.mattgauzza/empirical | Empirical | 1.0.0 | Persistent memory for AI agents: save, search and connect context across tools… |
+| 2026-11-04 15:15:45 | com.lemon-agent.app/goora-public-posts | Goora Travel Posts / 旅行帖子 | 1.5.1 | Search and cite Goora travel posts: citywalk, family trips / 旅行攻略. Read-only. |
+| 2026-11-04 15:17:39 | [com.printags/mcp](https://github.com/printags/agent-skills) | Printags | 1.0.0 | Order and track printed PVC, NFC and wood cards: catalogue, prices, artwork and… |
+| 2026-11-04 15:17:39 | [com.printags/shop](https://github.com/printags/agent-skills) | Printags shop | 1.0.0 | Prepare a cart of printed PVC, NFC and wood cards on the Printags shop; no acco… |
+| 2026-11-04 15:17:45 | app.whatsable/mcp | WhatsAble for WhatsApp Business | 1.0.0 | Send WhatsApp messages and templates, manage chats, contacts, broadcasts and AI… |
 
 ## Data source
 
