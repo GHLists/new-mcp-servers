@@ -1,0 +1,45 @@
+created_at,server,title,version,repository,transports,description
+2026-11-04T20:22:08.883501Z,us.darimarket/research,DARIMARKET Research,1.0.0,,streamable-http,"21+ sports research: player stat hit rates, today's games and explainers. Read-only, no picks."
+2026-11-04T20:22:41.88045Z,com.onlyfakefacts/facts,Only Fake Facts,1.1.0,,streamable-http,"Fake facts, each labelled false. Random, search and lookup tools; no key needed."
+2026-11-04T20:24:33.886924Z,nl.tenderspotter/tenderspotter,TenderSpotter,1.0.0,,streamable-http,"Dutch public tenders from TenderNed: search, details, documents, awards and competitors."
+2026-11-04T20:25:50.525093Z,ist.ego.ink/ink,Ink,0.1.0,,streamable-http,Rewrite drafts in your own words and a natural voice while preserving meaning. Ink OAuth required.
+2026-11-04T20:28:29.884785Z,com.sellerlabs/amazon-mcp,Seller Labs Amazon MCP,1.0.0,,streamable-http,"Amazon Seller Central + Ads data for AI agents: true SKU profit with COGS, inventory, ads, orders."
+2026-11-04T20:29:18.286578Z,com.animatecaptions/mcp,AnimateCaptions,0.1.0,,streamable-http,Add animated word-by-word captions (TikTok/Reels/Shorts style) to videos; get the captioned MP4.
+2026-11-04T20:31:05.713292Z,help.socket/socket-help,socket.help,1.0.0,,streamable-http,"Email inboxes, webhooks, mock APIs, 2FA codes, approvals and 170 tools for AI agents."
+2026-11-04T20:31:25.240033Z,day.decoy/honeypot,decoy.day honeypot,1.0.0,,streamable-http,A public MCP honeypot: a fake ops console with fake secrets. Every call is shown on decoy.day.
+2026-11-04T20:39:37.70836Z,app.adchat/meta-ads,AdChat: Meta Ads,2.0.0,https://github.com/EricStrohmaier/adchat-mcp,streamable-http,"Run Facebook and Instagram ads from AI: results, campaigns, ad sets, ads and audiences."
+2026-11-04T20:40:28.038064Z,com.whistlebets/whistlebets,WhistleBets,1.1.0,,streamable-http,"Tonight's NBA referee crews and a short whistle read for each game. Read-only, no sign-in."
+2026-11-04T20:41:59.339271Z,com.weekendgoals/weekend-goals,Weekend Goals,1.0.0,,streamable-http,"Football fixtures, venues and the cheapest ticket prices held by Weekend Goals."
+2026-11-04T20:44:17.281274Z,com.mywinnow/winnow,Winnow,2026.11.4,,streamable-http,Connect to your farm data
+2026-11-04T20:45:33.148996Z,com.inboxfamily/inboxfamily,InboxFamily,1.0.0,,streamable-http,"Family email on your own domain: manage mailboxes and aliases, and read and sort your own mail."
+2026-11-04T20:46:52.114548Z,com.marketplaceadpros/amazon-ads,Marketplace Ad Pros: Amazon Ads & Seller Central,1.0.0,https://github.com/MarketplaceAdPros/amazon-ads-mcp-server,streamable-http,"Amazon Ads, Seller Central, Vendor Central and AMC data for AI agents. Read-only by default."
+2026-11-04T20:47:56.798632Z,com.corissia/hotels,Corissia Resorts Crete,2.3.0,,streamable-http,"Hotel facts, prices for exact stays with a booking link, dining and jobs of Corissia Resorts, Crete"
+2026-11-04T20:49:11.006474Z,io.github.foodyogi/clawmaven,ClawMaven,1.10.53,,streamable-http,"Pre-deploy governance for AI agents: posture scores, policies, budget cap checks, trust manifests."
+2026-11-04T20:49:45.024398Z,com.slickfast/mcp,,0.7.38,https://github.com/SlickFast/slickfast,streamable-http,"Charts and dashboards as images for AI agents. No browser, same data same bytes. Local and free."
+2026-11-04T20:51:56.706717Z,gr.profitshop/shop,ProfitShop,1.0.0,,streamable-http,"Search ProfitShop (profitshop.gr, Greece) products: current price, stock and product links."
+2026-11-04T20:51:58.688232Z,gr.profitdeals/shop,ProfitDeals,1.0.0,,streamable-http,"Search ProfitDeals (profitdeals.gr, Greece) products: current price, stock and product links."
+2026-11-04T20:52:02.96144Z,gr.2read/shop,2read.gr,1.0.0,,streamable-http,"Search 2read.gr (Greece) reading glasses: current price, stock and product links."
+2026-11-04T20:52:18.416589Z,gr.mengroomer/shop,Men Groomer,1.0.0,,streamable-http,"Search Men Groomer (mengroomer.gr, Greece) trimmers, shavers and parts: price, stock, links."
+2026-11-04T20:52:30.373327Z,io.github.pipeworx-io/politician-trades,Politician Trades,0.2.1,https://github.com/pipeworx-io/mcp-politician-trades,streamable-http,Politician Trades MCP — US congressional + executive stock trading disclosures under the STOCK Act…
+2026-11-04T20:54:16.824732Z,com.sindansolutions/dido,Dido distribution ERP,1.0.0,,streamable-http,"Stock, quotes, orders, invoices, vans and credit control in Dido, scoped to the user's role."
+2026-11-04T20:54:29.823972Z,io.github.pipeworx-io/postscript,Postscript,0.2.1,https://github.com/pipeworx-io/mcp-postscript,streamable-http,Postscript MCP Pack — SMS marketing for Shopify.
+2026-11-04T20:57:04.299982Z,ai.send4/mcp,Send4,1.0.0,https://github.com/send4ai/send4-mcp-server,streamable-http,"Ask about and change your Send4 flows, campaigns, conversations, leads and calendar."
+2026-11-04T20:58:45.2424Z,io.github.pipeworx-io/public-suffix-list,Public Suffix List,0.2.1,https://github.com/pipeworx-io/mcp-public-suffix-list,streamable-http,Public Suffix List MCP.
+2026-11-04T20:58:45.882976Z,co.authhub/authhub,AuthHub,1.0.0,,streamable-http,"Let AI agents onboard agency clients: one link for Meta, Google Ads, GA4 and more."
+2026-11-04T20:58:52.632974Z,io.github.pipeworx-io/prweb,Prweb,0.2.1,https://github.com/pipeworx-io/mcp-prweb,streamable-http,PRWeb MCP — press releases from PRWeb's all-releases feed.
+2026-11-04T20:59:16.284565Z,io.github.pipeworx-io/pvgis,Pvgis,0.2.1,https://github.com/pipeworx-io/mcp-pvgis,streamable-http,PVGIS MCP — EU Joint Research Centre PV system modeler
+2026-11-04T21:01:18.801051Z,io.github.pipeworx-io/quickgo,Quickgo,0.2.1,https://github.com/pipeworx-io/mcp-quickgo,streamable-http,QuickGO (EBI) MCP — Gene Ontology browser.
+2026-11-04T21:01:51.370391Z,io.github.CloudCorpRecords/claimscope,,0.1.0,https://github.com/CloudCorpRecords/claimscope,,"Compare engine answers, inspect disagreement and grade study evidence for questions."
+2026-11-04T21:02:34.151426Z,io.github.pipeworx-io/rcsb-pdb,Rcsb Pdb,0.2.1,https://github.com/pipeworx-io/mcp-rcsb-pdb,streamable-http,RCSB PDB MCP — experimentally determined macromolecular structures.
+2026-11-04T21:02:56.385772Z,io.github.pipeworx-io/radio,Radio,1.1.1,https://github.com/pipeworx-io/mcp-radio,streamable-http,"Radio MCP — wraps Radio Browser API (free, no auth)"
+2026-11-04T21:03:19.717264Z,io.github.pipeworx-io/pypi-stats,Pypi Stats,0.2.1,https://github.com/pipeworx-io/mcp-pypi-stats,streamable-http,PyPI Stats MCP.
+2026-11-04T21:03:45.40695Z,io.github.pipeworx-io/pub-dev,Pub Dev,0.2.1,https://github.com/pipeworx-io/mcp-pub-dev,streamable-http,pub.dev MCP — package registry for Dart & Flutter.
+2026-11-04T21:04:37.369138Z,io.github.pipeworx-io/rdap,Rdap,0.2.1,https://github.com/pipeworx-io/mcp-rdap,streamable-http,RDAP MCP — Registration Data Access Protocol via IANA bootstrap.
+2026-11-04T21:06:28.960989Z,io.github.pipeworx-io/quotes,Quotes,0.2.1,https://github.com/pipeworx-io/mcp-quotes,streamable-http,Quotes MCP — citation-grade quote API for public-domain authors.
+2026-11-04T21:08:20.590003Z,io.github.PatrickPi1312/eu-compliance,EUCompliance Tools - Invoice Guard & Agent Evidence,1.7.0,https://github.com/PatrickPi1312/eucompliance-tools,streamable-http,"41 MCP tools for EU invoice evidence, supplier checks, market data and read-only chain queries"
+2026-11-04T21:12:57.722509Z,io.github.CloudCorpRecords/elemindex,,0.1.0,https://github.com/CloudCorpRecords/elemindex,,"Research-intensity trends, papers and metrics for the 118 chemical elements and topics."
+2026-11-04T21:13:37.318191Z,com.rinatsultan/agent-lab,Rinat Sultanov — Agent Lab,1.1.0,,streamable-http,"Public profile, manufacturing AI cases and read-only agent protocol reference."
+2026-11-04T21:14:08.121554Z,com.printags/docs,Printags docs,1.0.0,https://github.com/printags/agent-skills,streamable-http,"Answers questions about Printags cards, prices, ordering, the API and MCP servers. Read-only."
+2026-11-04T21:14:18.640468Z,io.github.browtastic/freellms-gateway,,1.0.1,https://github.com/browtastic/freellms-gateway,sse; sse; sse; sse; sse; sse,"FreeLLMs MCP gateway: filesystem, database, shell, fetch, auth and devtools."
+2026-11-04T21:15:30.995484Z,io.github.perms-io/permio,Permio,1.0.0,,streamable-http,"Check and manage RBAC permissions, roles, groups and grants in a Permio (perms.io) project."
+2026-11-04T21:19:19.260217Z,io.github.sudomichael/mcpserverlist-mcp,,0.1.0,https://github.com/sudomichael/mcpserverlist-mcp,streamable-http,"Check if your MCP server is ready for MCP directories, then get it submitted."
