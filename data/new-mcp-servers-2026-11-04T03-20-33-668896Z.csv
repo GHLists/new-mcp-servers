@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-11-04T02:20:35.856457Z,io.github.dbsectrainer/mcp-agent-trace-inspector,,1.0.1,https://github.com/dbsectrainer/mcp-agent-trace-inspector,,Step-by-step observability for MCP agent workflows
+2026-11-04T02:20:36.078826Z,io.github.dbsectrainer/mcp-cost-tracker-router,,1.0.1,https://github.com/dbsectrainer/mcp-cost-tracker-router,,Real-time cost awareness for MCP agent workflows
+2026-11-04T02:20:36.360878Z,io.github.dbsectrainer/mcp-data-pipeline-connector,,1.0.1,https://github.com/dbsectrainer/mcp-data-pipeline-connector,,"Universal data connector for CSV, Postgres, and REST APIs via DuckDB"
+2026-11-04T02:20:36.673909Z,io.github.dbsectrainer/mcp-eval-runner,,1.0.1,https://github.com/dbsectrainer/mcp-eval-runner,,A standardized testing harness for MCP servers and agent workflows
+2026-11-04T02:20:36.982869Z,io.github.dbsectrainer/mcp-legal-doc-analyzer,,1.0.1,https://github.com/dbsectrainer/mcp-legal-doc-analyzer,,Domain-specific MCP tooling for legal document workflows
+2026-11-04T02:20:37.170616Z,io.github.dbsectrainer/mcp-server-health-monitor,,1.0.1,https://github.com/dbsectrainer/mcp-server-health-monitor,,Health monitoring for all your MCP servers
+2026-11-04T02:21:48.754732Z,io.github.CloudCorpRecords/signalfeed,,0.1.0,https://github.com/CloudCorpRecords/signalfeed,,"US filing-event streams in one schema: insider clusters, 13D/G, 13F, 8-K, Form D, FDA and more."
+2026-11-04T02:28:48.778279Z,io.github.PugarHuda/show-dont-code,"Show, Don't Code",1.0.0,https://github.com/PugarHuda/show-dont-code,streamable-http,Lab video or protocols.io protocol to a simulator-checked Opentrons Flex/OT-2 protocol
+2026-11-04T02:31:26.294191Z,io.github.CloudCorpRecords/agentfit,,0.1.0,https://github.com/CloudCorpRecords/agentfit,,"Is your website ready for AI agents? Free preview: 0-100 score, A-F grade and category scores."
+2026-11-04T02:35:04.916939Z,io.github.craftsamo/agent-github,,0.1.0,https://github.com/craftsamo/agent-github,,"GitHub tools for coding agents: issues, project boards, pull requests, releases and Actions."
+2026-11-04T02:38:22.83547Z,com.bulliontradingllc/gold-silver,Bullion Trading: Gold & Silver,1.0.0,,streamable-http,"Live spot, premiums, buy-back rates and the bullion catalog of a New York dealer. Read-only."
+2026-11-04T02:42:18.463773Z,io.nexatron/mcp,Nexatron,1.0.2,,streamable-http,"Ask business questions across your enterprise data in plain English, with Nexatron."
+2026-11-04T02:42:21.303089Z,com.faunakit/mcp,,0.1.676,,streamable-http,"Your shared chats, calendar, Drive, groups and memory, so a team's agents stay in step."
+2026-11-04T02:44:00.545947Z,com.animalmath/animal-math,Animal Math,1.0.0,,streamable-http,"Free Pre-K to 5th grade math worksheets, worksheet makers, quizzes, teaching tools and curricula."
+2026-11-04T02:45:14.08746Z,com.ankusiwheels/wheel-fitment,ANKUSI Wheel Fitment,1.0.0,,streamable-http,"Bolt pattern, center bore, OE wheel size and offset for about 10,000 vehicles. Free, no API key."
+2026-11-04T02:48:26.300626Z,io.github.CloudCorpRecords/decisiontrail,,0.1.0,https://github.com/CloudCorpRecords/decisiontrail,,"Local decision memory for coding agents: record decisions with limits, search precedents, supersede."
+2026-11-04T02:53:18.872962Z,fans.digger/digger-fans,digger.fans,1.0.0,,streamable-http,"Certify Digger (2026) cinema viewings from original ticket emails; leaderboard, fan cards, theaters."
+2026-11-04T02:55:17.53335Z,dev.wiscolabs/developer-tools,Wisco Labs: developer tools,1.0.0,,streamable-http,"Check PyPI and npm upgrades: known vulnerabilities, the safe version, and what each upgrade breaks."
+2026-11-04T03:00:39.537842Z,ai.satcoach/satcoach,SATCoach,1.0.0,,streamable-http,"Digital SAT prep for high school students: a full diagnostic, then practice aimed at weak skills."
+2026-11-04T03:04:25.647509Z,casa.desarrolladores/puntocasa,PuntoCasa MLS,1.0.0,,streamable-http,"Avisos inmobiliarios de primera mano en Mérida, Riviera Maya, CDMX y Monterrey."
+2026-11-04T03:05:48.0092Z,io.github.dustout/simple-inventory-management,Simple Inventory Management,2.0.0,,streamable-http,"Read and update live small-business inventory, suppliers, reorder suggestions and purchase orders."
+2026-11-04T03:13:57.476604Z,io.github.CloudCorpRecords/degreeroi,,0.1.0,https://github.com/CloudCorpRecords/degreeroi,,"U.S. college ROI data: 30-year NPV for 500 colleges, lifetime ROI for majors, best-value rankings."
+2026-11-04T03:15:05.175484Z,com.prokso/proxy,Prokso Proxy,1.0.0,,streamable-http,"Pay-per-GB residential, mobile and datacenter proxies: check traffic left and get proxy lines."

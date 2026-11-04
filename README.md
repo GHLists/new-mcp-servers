@@ -9,44 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 02:20 UTC
+## Latest list — 2026-11-04 03:20 UTC
 
-New MCP servers published between 2026-11-04 01:19 UTC and 2026-11-04 02:20 UTC.
+New MCP servers published between 2026-11-04 02:20 UTC and 2026-11-04 03:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-04T02-20-06-608067Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-04T03-20-33-668896Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-04 01:23:33 | computer.freemoney/credits | freemoney.computer | 1.0.0 | Find free AI, GPU and cloud credits for new accounts, students, startups and op… |
-| 2026-11-04 01:28:11 | dev.moneytools/tools | MoneyTools Tools | 1.0.0 | 25 read-only agent utilities: token safety, approvals, tx decode, EIP-712 risk,… |
-| 2026-11-04 01:31:40 | io.github.athahar/offwegosim | OffWeGoSIM | 1.0.0 | Search travel eSIM plans, compare current USD prices, and get checkout links. N… |
-| 2026-11-04 01:33:35 | [io.snowkit/snowkit](https://github.com/snowkit-io/snowkit) | Snowkit | 0.1.3 | Private tools that run on your computer: PDFs, QR codes, JSON, SQL, text, colou… |
-| 2026-11-04 01:34:11 | app.gamegene/gamegene | GameGene | 1.0.0 | Sourced game design precedents: where a mechanic came from, why designers chose… |
-| 2026-11-04 01:34:55 | com.secsift/secsift | SECSift | 1.0.0 | Read, search, and compare SEC EDGAR filings, pull tables, and run AI analysis f… |
-| 2026-11-04 01:38:25 | ai.rivul/rivul | Rivul | 1.0.0 | Search 300M+ scholarly paper records and read paper details. Free; OAuth sign-i… |
-| 2026-11-04 01:38:41 | ai.resolve/resolve | Resolve | 0.2.0 | Investigate alerts, run root-cause analysis, and ask production questions with… |
-| 2026-11-04 01:45:03 | [io.github.CloudCorpRecords/drawmath](https://github.com/CloudCorpRecords/drawmath) |  | 0.1.0 | Metric-imperial conversion for technical drawings: dimensions, tolerances, thre… |
-| 2026-11-04 01:45:42 | com.crystlquant/crystlquant | CrystlQuant | 1.1.1 | Sports win chances before every game, next to the market's, graded after. NFL,… |
-| 2026-11-04 01:46:42 | com.npilayer/npilayer | NPILayer | 1.0.0 | Look up U.S. healthcare providers by NPI, name, specialty and ZIP radius from C… |
-| 2026-11-04 01:50:24 | dev.moneytools/partners | MoneyTools AI Sales Partner program | 1.0.0 | Affiliate program for AI agents: 20% of net revenue for 12 months; disclose you… |
-| 2026-11-04 01:59:30 | [io.github.pipeworx-io/oxylabs](https://github.com/pipeworx-io/mcp-oxylabs) | Oxylabs | 0.2.1 | Oxylabs MCP — Oxylabs Web Scraper API (oxylabs.io) |
-| 2026-11-04 01:59:36 | [io.github.pipeworx-io/pa-dmv](https://github.com/pipeworx-io/mcp-pa-dmv) | Pa Dmv | 0.2.1 | Pennsylvania DMV MCP — registered vehicles and electric-vehicle adoption by cou… |
-| 2026-11-04 02:01:02 | com.0xpi.ringback/missed-call-text-back | Ringback: Missed-Call Text-Back for Con… | 1.0.0 | Missed-call text-back for contractors: missed-call cost math, how it works, own… |
-| 2026-11-04 02:01:44 | [io.github.pipeworx-io/password](https://github.com/pipeworx-io/mcp-password) | Password | 0.2.1 | Password strength analysis MCP. |
-| 2026-11-04 02:03:18 | [io.github.pipeworx-io/peopledatalabs](https://github.com/pipeworx-io/mcp-peopledatalabs) | Peopledatalabs | 0.2.1 | People Data Labs MCP — wraps the PDL person/company enrichment API (peopledatal… |
-| 2026-11-04 02:03:54 | io.github.Cora77-ops/kingy-facts | Kingy AI Facts | 0.2.2 | Dated, sourced AI facts from Kingy AI: API prices, plans, usage limits, retirem… |
-| 2026-11-04 02:04:26 | [io.github.pipeworx-io/pennsylvania-code](https://github.com/pipeworx-io/mcp-pennsylvania-code) | Pennsylvania Code | 0.2.1 | Pennsylvania Consolidated Statutes — state statutes by citation. |
-| 2026-11-04 02:04:36 | io.github.AyodejiOO/plain-ayi | Plain-AyI | 1.0.0 | Search a plain-English guide to open-source AI projects: what each does, cost a… |
-| 2026-11-04 02:04:44 | [io.github.pipeworx-io/peppol](https://github.com/pipeworx-io/mcp-peppol) | Peppol | 0.2.1 | Peppol participant lookup (SML + SMP + Peppol Directory). |
-| 2026-11-04 02:04:55 | [io.github.pipeworx-io/photon](https://github.com/pipeworx-io/mcp-photon) | Photon | 0.2.1 | Photon MCP — OSM geocoder |
-| 2026-11-04 02:08:06 | [io.github.pipeworx-io/podcast-parser](https://github.com/pipeworx-io/mcp-podcast-parser) | Podcast Parser | 0.2.1 | podcast-parser (CanonCannon) — what gets repeated across 162 tracked podcasts. |
-| 2026-11-04 02:08:28 | io.escrova/escrova | Escrova | 1.0.0 | Search Amazon, eBay, Walmart and more and compare prices. Agents can search, no… |
-| 2026-11-04 02:09:16 | [io.github.pipeworx-io/podcastindex](https://github.com/pipeworx-io/mcp-podcastindex) | Podcastindex | 0.2.1 | Podcast Index MCP — wraps the Podcast Index API (podcastindex.org) |
-| 2026-11-04 02:14:39 | [io.github.CloudCorpRecords/brandcheck](https://github.com/CloudCorpRecords/brandcheck) |  | 0.1.0 | Measure whether a brand shows up when buyers ask AI assistants for a recommenda… |
-| 2026-11-04 02:14:40 | [computer.cool/mcp](https://github.com/The-Money-Company-Limited/cool-computers) | Cool Computers | 1.0.0 | Put what you make online, get comments on it, and give it a cloud computer when… |
-| 2026-11-04 02:16:31 | com.jaxoanalytics/jaxo | Jaxo Analytics | 1.0.0 | Ask about your youth soccer team's games, half by half, and make players' highl… |
-| 2026-11-04 02:18:35 | com.queenstowntourism/travel | Queenstown Tourism | 1.4.0 | Sourced facts on Queenstown, Fiordland and Wanaka: activities, walks, routes, t… |
-| 2026-11-04 02:19:07 | [io.github.jdkabattles/forgingstack-mandate-check](https://github.com/jdkabattles/forgingstack-mandate-check) | ForgingStack Mandate Check | 0.2.1 | Before your agent acts, check its mandate. One call, one receipt. |
+| 2026-11-04 02:20:35 | [io.github.dbsectrainer/mcp-agent-trace-inspector](https://github.com/dbsectrainer/mcp-agent-trace-inspector) |  | 1.0.1 | Step-by-step observability for MCP agent workflows |
+| 2026-11-04 02:20:36 | [io.github.dbsectrainer/mcp-cost-tracker-router](https://github.com/dbsectrainer/mcp-cost-tracker-router) |  | 1.0.1 | Real-time cost awareness for MCP agent workflows |
+| 2026-11-04 02:20:36 | [io.github.dbsectrainer/mcp-data-pipeline-connector](https://github.com/dbsectrainer/mcp-data-pipeline-connector) |  | 1.0.1 | Universal data connector for CSV, Postgres, and REST APIs via DuckDB |
+| 2026-11-04 02:20:36 | [io.github.dbsectrainer/mcp-eval-runner](https://github.com/dbsectrainer/mcp-eval-runner) |  | 1.0.1 | A standardized testing harness for MCP servers and agent workflows |
+| 2026-11-04 02:20:36 | [io.github.dbsectrainer/mcp-legal-doc-analyzer](https://github.com/dbsectrainer/mcp-legal-doc-analyzer) |  | 1.0.1 | Domain-specific MCP tooling for legal document workflows |
+| 2026-11-04 02:20:37 | [io.github.dbsectrainer/mcp-server-health-monitor](https://github.com/dbsectrainer/mcp-server-health-monitor) |  | 1.0.1 | Health monitoring for all your MCP servers |
+| 2026-11-04 02:21:48 | [io.github.CloudCorpRecords/signalfeed](https://github.com/CloudCorpRecords/signalfeed) |  | 0.1.0 | US filing-event streams in one schema: insider clusters, 13D/G, 13F, 8-K, Form… |
+| 2026-11-04 02:28:48 | [io.github.PugarHuda/show-dont-code](https://github.com/PugarHuda/show-dont-code) | Show, Don't Code | 1.0.0 | Lab video or protocols.io protocol to a simulator-checked Opentrons Flex/OT-2 p… |
+| 2026-11-04 02:31:26 | [io.github.CloudCorpRecords/agentfit](https://github.com/CloudCorpRecords/agentfit) |  | 0.1.0 | Is your website ready for AI agents? Free preview: 0-100 score, A-F grade and c… |
+| 2026-11-04 02:35:04 | [io.github.craftsamo/agent-github](https://github.com/craftsamo/agent-github) |  | 0.1.0 | GitHub tools for coding agents: issues, project boards, pull requests, releases… |
+| 2026-11-04 02:38:22 | com.bulliontradingllc/gold-silver | Bullion Trading: Gold & Silver | 1.0.0 | Live spot, premiums, buy-back rates and the bullion catalog of a New York deale… |
+| 2026-11-04 02:42:18 | io.nexatron/mcp | Nexatron | 1.0.2 | Ask business questions across your enterprise data in plain English, with Nexat… |
+| 2026-11-04 02:42:21 | com.faunakit/mcp |  | 0.1.676 | Your shared chats, calendar, Drive, groups and memory, so a team's agents stay… |
+| 2026-11-04 02:44:00 | com.animalmath/animal-math | Animal Math | 1.0.0 | Free Pre-K to 5th grade math worksheets, worksheet makers, quizzes, teaching to… |
+| 2026-11-04 02:45:14 | com.ankusiwheels/wheel-fitment | ANKUSI Wheel Fitment | 1.0.0 | Bolt pattern, center bore, OE wheel size and offset for about 10,000 vehicles.… |
+| 2026-11-04 02:48:26 | [io.github.CloudCorpRecords/decisiontrail](https://github.com/CloudCorpRecords/decisiontrail) |  | 0.1.0 | Local decision memory for coding agents: record decisions with limits, search p… |
+| 2026-11-04 02:53:18 | fans.digger/digger-fans | digger.fans | 1.0.0 | Certify Digger (2026) cinema viewings from original ticket emails; leaderboard,… |
+| 2026-11-04 02:55:17 | dev.wiscolabs/developer-tools | Wisco Labs: developer tools | 1.0.0 | Check PyPI and npm upgrades: known vulnerabilities, the safe version, and what… |
+| 2026-11-04 03:00:39 | ai.satcoach/satcoach | SATCoach | 1.0.0 | Digital SAT prep for high school students: a full diagnostic, then practice aim… |
+| 2026-11-04 03:04:25 | casa.desarrolladores/puntocasa | PuntoCasa MLS | 1.0.0 | Avisos inmobiliarios de primera mano en Mérida, Riviera Maya, CDMX y Monterrey. |
+| 2026-11-04 03:05:48 | io.github.dustout/simple-inventory-management | Simple Inventory Management | 2.0.0 | Read and update live small-business inventory, suppliers, reorder suggestions a… |
+| 2026-11-04 03:13:57 | [io.github.CloudCorpRecords/degreeroi](https://github.com/CloudCorpRecords/degreeroi) |  | 0.1.0 | U.S. college ROI data: 30-year NPV for 500 colleges, lifetime ROI for majors, b… |
+| 2026-11-04 03:15:05 | com.prokso/proxy | Prokso Proxy | 1.0.0 | Pay-per-GB residential, mobile and datacenter proxies: check traffic left and g… |
 
 ## Data source
 
