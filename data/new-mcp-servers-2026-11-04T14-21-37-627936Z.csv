@@ -1,0 +1,36 @@
+created_at,server,title,version,repository,transports,description
+2026-11-04T13:22:15.722599Z,fr.apparais.www/apparais,Apparais,1.0.0,,streamable-http,"Les commerces locaux que ChatGPT recommande en France, par métier et par ville. Test gratuit."
+2026-11-04T13:22:36.165478Z,com.manawg/mcp,ManaWG,0.2.0,https://github.com/Abuarchiv/manawg-mcp,streamable-http,"Shared-flat app ManaWG: expenses, cleaning rota, shopping list, calendar and chat for agents."
+2026-11-04T13:22:51.319494Z,io.github.komako-workshop/stringers,什么值得做 Stringers,0.2.0,https://github.com/komako-workshop/stringers,streamable-http,"Daily verdicts on which small-product directions are worth building, from 15 data libraries"
+2026-11-04T13:25:07.161977Z,app.growthdept/growthdept,GrowthDept,1.0.0,,streamable-http,"Run small business marketing from Claude, ChatGPT or Gemini: drafts, approvals, site checks."
+2026-11-04T13:28:48.469288Z,io.github.CloudCorpRecords/faregrid,,0.1.0,https://github.com/CloudCorpRecords/faregrid,,"Search one-way and round-trip flight fares across dates and destinations, with price verdicts."
+2026-11-04T13:29:20.649989Z,io.github.steadyfetch/steadyfetch-actors,Steadyfetch actors on Apify MCP,1.1.0,https://github.com/steadyfetch/steadyfetch-agent-tools,streamable-http,"Apify MCP pinned to 40 Steadyfetch actors: Instagram, ad/video transcripts, keywords, jobs, Reddit"
+2026-11-04T13:32:28.794094Z,io.github.ildargiv/kopitehnik-print,KopiTehnik Print,1.8.0,https://github.com/ildargiv/KopiTehnik-Print,,"Print photos on a real inkjet printer: ICC colour, borderless, smart crop, sheet layout."
+2026-11-04T13:32:37.942926Z,io.github.ildargiv/kopitehnik-converter,KopiTehnik Converter,3.5.2,https://github.com/ildargiv/kopitehnik-converter,,"Convert, lay out and print photos on Windows: ICC colour, sheets, PDF, scan OCR."
+2026-11-04T13:32:45.003308Z,io.github.Magic-Resume/magic-resume,Kenmet,1.0.2,https://github.com/Magic-Resume/magic-resume-kit,,Read and edit Kenmet (formerly Magic Resume) resumes from any MCP client with safe JSON patches.
+2026-11-04T13:37:36.531183Z,io.solidrpc/agent,SolidRPC,0.1.0,https://github.com/SolidRPC/agent-toolkit,streamable-http,"Manage blockchain RPC keys, networks, usage and prepaid billing with a scoped SolidRPC token."
+2026-11-04T13:37:47.531904Z,io.github.EverMind-AI/everme,EverMe,0.6.1,,streamable-http,Search personal memories and retrieve context from EverMe.
+2026-11-04T13:39:55.141038Z,me.route6/netid,Route6 — Agent Network Identity,1.3.4,https://github.com/route6me/mcp,streamable-http,"Gives AI agents a public IPv6 identity, hostname, port forwarding, web fetch, team mesh. Free tier."
+2026-11-04T13:40:31.626788Z,com.publishq/publishq,PublishQ,1.0.0,,streamable-http,"Schedule and publish posts, organize media into folders, and keep each brand in its own workspace."
+2026-11-04T13:41:25.063878Z,io.github.CloudCorpRecords/formchime,,0.1.0,https://github.com/CloudCorpRecords/formchime,,"Create contact forms, get embed snippets, and read recent submissions and webhooks."
+2026-11-04T13:42:20.672112Z,com.beyourcover/book-cover-generator,BeYourCover,1.30.0,,streamable-http,"Generate genre-aware, print-ready AI book covers (ebook, KDP wrap, audiobook) via BeYourCover"
+2026-11-04T13:43:34.448153Z,io.github.fahimk/reviewbot,ReviewBot App Reviews,0.1.0,,streamable-http,Read collected App Store and Google Play reviews and bounded feedback statistics.
+2026-11-04T13:50:21.831467Z,io.qrocodile/mcp,QRocodile,1.0.0,,streamable-http,"Generate styled QR codes as SVG or PNG: colors, module shapes, ready-made presets and brand logos."
+2026-11-04T13:52:56.012666Z,io.github.CloudCorpRecords/formwire,,0.1.0,https://github.com/CloudCorpRecords/formwire,,"Create and wire up contact forms from your agent: snippets, forms, and submissions."
+2026-11-04T13:57:31.993987Z,com.quarralabs/reddit-scraper,Reddit Scraper,1.0.0,,streamable-http,"Reddit posts, full comment trees, searches, subreddits and users, as JSON or Markdown for LLMs."
+2026-11-04T13:57:32.34235Z,com.quarralabs/google-trends-scraper,Google Trends Scraper,1.0.0,,streamable-http,"Google Trends interest over time, by region, related queries and Trending now, as JSON."
+2026-11-04T13:57:32.688264Z,com.quarralabs/youtube-transcript-scraper,YouTube Transcript Scraper,1.0.0,,streamable-http,"YouTube transcripts from videos, Shorts, channels, playlists and searches, with timestamps."
+2026-11-04T14:00:27.343364Z,co.blueticks/blueticks,Blueticks WhatsApp MCP,1.1.2,,streamable-http,"WhatsApp MCP on your own number: read chats, send and schedule messages."
+2026-11-04T14:03:40.957969Z,io.github.CloudCorpRecords/supprecord,,0.1.0,https://github.com/CloudCorpRecords/supprecord,,"Dated formula history, confirmed changes, and evidence for U.S. pre-workout supplements."
+2026-11-04T14:06:22.607391Z,io.github.laaielichter/ai-edit-studio,AI Edit Studio,0.11.0,https://github.com/laaielichter/ai-edit-studio,,"Local-first video editor for AI agents: 59 tools for auto-edit, shorts, captions, music and QC."
+2026-11-04T14:06:38.37374Z,io.github.experiens/cupom-center,Cupom Center,0.1.0,https://github.com/experiens/cupom-center-mcp,,Conecta agentes de IA à API REST do Cupom Center com fluxos seguros de cupons.
+2026-11-04T14:06:41.553959Z,com.cutoutlabs/mcp,Cutout Lab,0.1.0,,streamable-http,Remove image backgrounds from local files or URLs and get transparent PNG cutouts.
+2026-11-04T14:10:13.590954Z,io.github.molidestroyer/software-dock,Software Dock,0.3.0,https://github.com/molidestroyer/windows-software-mcp,,"List, update, install and uninstall the software on a Windows PC; running apps, startup apps."
+2026-11-04T14:11:44.455048Z,dev.fetchlayer/fetchlayer,FetchLayer,1.0.0,,streamable-http,"226 tools for Reddit, X, TikTok, Instagram, YouTube, reviews, ads, shopping and search data"
+2026-11-04T14:13:23.612853Z,io.github.seojaehong/k-labor,노동 업무 도구 (k-labor),0.1.1,https://github.com/seojaehong/labor-law-guide,,"Korean labor tools: NHIS report forms, employment contracts, wage/leave/tax calculators, work rules."
+2026-11-04T14:13:29.415019Z,com.conductscience/catalog,ConductScience catalog,1.0.0,,streamable-http,"Search ConductScience lab equipment and research software, and read product details."
+2026-11-04T14:15:01.690011Z,io.github.CloudCorpRecords/vischeck,,0.1.0,https://github.com/CloudCorpRecords/vischeck,,"See whether ChatGPT, Claude and Gemini recommend a startup product, and who wins instead."
+2026-11-04T14:16:32.699322Z,dev.mobilebox/mobilebox,Mobilebox,1.0.0,,streamable-http,"Cloud Android phones for AI agents: read the screen, tap, type, install APKs, park and resume."
+2026-11-04T14:16:39.817311Z,de.run-zero/mcp,run.zero,1.0.0,,streamable-http,"Deploy apps, APIs and Postgres from your AI agent. EU PaaS hosted in Germany, OAuth sign-in."
+2026-11-04T14:17:34.408873Z,app.metodix/metodix,Metodix — training log for coaches,1.47.0,,streamable-http,"Training log for coaches: your AI assistant finds clients, reads history, logs and plans workouts."
+2026-11-04T14:19:40.462984Z,de.workloadzero/mcp,workload.zero,1.0.0,,streamable-http,"Tasks, time tracking, CRM, quotes and invoices for agencies and freelancers. Hosted in Germany."
