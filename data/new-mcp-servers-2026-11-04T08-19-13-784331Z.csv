@@ -1,0 +1,50 @@
+created_at,server,title,version,repository,transports,description
+2026-11-04T07:22:44.213678Z,space.finquest/finquest,FinQuest 공시 리서치,1.0.0,,streamable-http,"Korean listed companies via DART filings: segment trends, quoted earnings drivers, dividends, bonds."
+2026-11-04T07:23:02.991596Z,io.github.CloudCorpRecords/handwork,,0.1.0,https://github.com/CloudCorpRecords/handwork,,"Commission physical-world tasks from a human service: list services, request quotes, track."
+2026-11-04T07:26:30.962801Z,ro.coderevolution/aimogen-pro,Aimogen Pro,1.0.0,https://github.com/WPBay/WPBayCursorMCP,streamable-http,"Manage your WordPress site from your AI assistant: posts, pages, media, comments and WooCommerce."
+2026-11-04T07:27:51.168463Z,com.getsmokerun/smoke-run,Smoke Run,1.0.0,,streamable-http,"Free read-only teardown of a public site's money path, with the dollar at risk."
+2026-11-04T07:28:30.964527Z,io.github.Nero-Engine/new-trucking-company-leads,New Trucking Company Leads,0.1.0,,streamable-http,"New US trucking companies from FMCSA data, scored as leads with authority and insurance status"
+2026-11-04T07:30:34.148674Z,xyz.dolbycinematracker/dolby-cinema-tracker,Dolby Cinema Tracker,1.0.0,,streamable-http,"AMC Dolby Cinema, IMAX and PRIME showtimes, ticket drops, alerts and a release planner."
+2026-11-04T07:30:50.852616Z,io.github.johnisanerd/google-lens,,1.0.0,https://github.com/johnisanerd/Apify-Google-Lens-API,streamable-http,"Google Lens reverse image and visual product search, with similar and exact matches, hosted MCP."
+2026-11-04T07:31:55.853368Z,com.smallwright/grommetbook,Grommetbook — sign shop software,0.2.0,,streamable-http,"Sign shop software your AI runs: Price Book, Quotes customers approve online, Job board. $49 flat."
+2026-11-04T07:34:13.177789Z,io.magictranslate/mcp,Magic Translate,1.0.0,,streamable-http,"Add AI translation to React, Angular, Vue or any website, and review and fix your translations."
+2026-11-04T07:35:10.231992Z,io.github.CloudCorpRecords/tradeledger,,0.1.0,https://github.com/CloudCorpRecords/tradeledger,,"Read the iBitLabs live trading experiment: account status, recent trades, rules and saga."
+2026-11-04T07:36:15.500459Z,fr.scpiselect/scpi-select,SCPI Select,1.0.0,,streamable-http,"French SCPI real estate funds: prices, yields, fees and acquisitions from official reports."
+2026-11-04T07:36:35.178385Z,io.github.n8peace/politiciansbyjev,Politicians by Jev,1.0.0,https://github.com/n8peace/politiciansbyjev,streamable-http,"Ask anything about 100 famous US politicians; Jev, TypeSafe AI's model, scores all 100 and picks."
+2026-11-04T07:37:20.620131Z,io.github.littlestjames82-sys/ghostbus,GhostBus,0.5.11,https://github.com/littlestjames82-sys/ghostbus,,"Agent-to-agent message bus and shared workspace, exposed as an MCP server."
+2026-11-04T07:38:45.268652Z,io.github.Enu27/japan-used-market,"Japan Used Market (cameras, watches)",0.3.0,https://github.com/Enu27/japan-used-market-mcp,,"Search, price stats, history and alerts for Japan's used camera and watch shops via Apify."
+2026-11-04T07:41:51.490636Z,io.github.sepehr071/snappshop-mcp,Snapp! Shop,0.1.0,https://github.com/sepehr071/snappshop-mcp,,"Read-only Snapp! Shop marketplace: search, categories, seller offers in Toman, reviews."
+2026-11-04T07:43:54.125938Z,io.github.meta-taro/warifu,,0.1.43,https://github.com/meta-taro/warifu,,P2P rooms where people and AI agents talk and share images; agents act only on passes humans grant.
+2026-11-04T07:44:58.342997Z,company.pontis/site,Pontis,1.0.0,,streamable-http,"Read-only public information about Pontis: what it does, its gatherings, content and focus."
+2026-11-04T07:47:08.094487Z,com.pagespool/docling,Docling by pagespool,1.0.0,,streamable-http,"Hosted Docling: convert PDF, Office files and images to Markdown and JSON, with OCR and tables."
+2026-11-04T07:47:09.838198Z,com.pagespool/markitdown,MarkItDown by pagespool,1.0.0,,streamable-http,"Hosted MarkItDown: convert Word, PowerPoint, Excel, HTML and the text of PDFs to Markdown."
+2026-11-04T07:47:11.574428Z,com.pagespool/weasyprint,WeasyPrint by pagespool,1.0.0,,streamable-http,"Hosted WeasyPrint: render HTML and print CSS to PDF, with PDF/A output on the paid plans."
+2026-11-04T07:47:13.310174Z,com.pagespool/verapdf,veraPDF by pagespool,1.0.0,,streamable-http,Hosted veraPDF: check a PDF against PDF/A or PDF/UA and get the full validation report.
+2026-11-04T07:47:15.061905Z,com.pagespool/gotenberg,Gotenberg by pagespool,1.0.0,,streamable-http,"Hosted Gotenberg: HTML, Markdown, web pages and Office files to PDF with Chromium and LibreOffice."
+2026-11-04T07:47:16.805716Z,com.pagespool/ocrmypdf,OCRmyPDF by pagespool,1.0.0,,streamable-http,"Hosted OCRmyPDF: add a searchable text layer to scanned PDFs and images, returned as PDF/A."
+2026-11-04T07:47:18.630563Z,com.pagespool/epubcheck,EPUBCheck by pagespool,1.0.0,,streamable-http,Hosted EPUBCheck: check an EPUB file against the EPUB specification and list every error.
+2026-11-04T07:49:15.70148Z,io.github.CloudCorpRecords/chatvault,,0.1.0,https://github.com/CloudCorpRecords/chatvault,,"Search and read your local AI chat-history corpus: full-text search, transcripts, inventory."
+2026-11-04T07:50:35.737083Z,io.github.danielnguyen1612/minty-mcp-test,Minty (test),0.0.1,https://github.com/addshoppers/minty-mcp,streamable-http,"Find coupon codes, cashback, and promotional offers by merchant, domain, or category."
+2026-11-04T07:52:34.735281Z,com.aidenix/atlas,Atlas MCP,1.0.0,,streamable-http,"Find where real data lives: verified registries, APIs and datasets with recipes to pull them."
+2026-11-04T07:57:48.740356Z,io.github.littlestjames82-sys/ghost-hands,Ghost Hands,0.9.3,https://github.com/littlestjames82-sys/ghost-hands,,"Governed browser hands for AI agents: classified actions, human approvals, replayable audit trails."
+2026-11-04T07:58:12.901305Z,news.theaftermath/news,The Aftermath,1.0.0,,streamable-http,Read-only search of The Aftermath's essays on what AI means for how we live and work.
+2026-11-04T07:58:57.981262Z,com.bootleads/bootleads,BootLeads,1.0.0,,streamable-http,"Ecommerce leads: search millions of online stores by platform, tech stack and apps, with contacts."
+2026-11-04T07:59:12.501811Z,io.github.CE-RISE-software/dp-engineering-assistant,CE-RISE Digital Passport Engineering Assistant,0.0.2,https://github.com/CE-RISE-software/dp-engineering-assistant,,"Helps plan and reuse CE-RISE Digital Passport components, models, and deployment assets."
+2026-11-04T07:59:42.044689Z,io.github.ok0/korean-parenting-mcp,,0.1.2,https://github.com/ok0/korean-parenting-mcp,,한국 임신·출산·육아 정보 MCP 서버
+2026-11-04T08:01:20.051971Z,dev.brokeit/news,Broke It,1.0.0,,streamable-http,Read-only search of Broke It's hands-on AI engineering posts and podcast episodes.
+2026-11-04T08:03:04.474403Z,ai.liquidinference/liquid,Liquid Inference,3.1.0,,streamable-http,"Auction exchange for LLM inference: browse models and prices, preview and buy answers."
+2026-11-04T08:04:34.848601Z,io.github.CloudCorpRecords/domaintrack,,0.1.0,https://github.com/CloudCorpRecords/domaintrack,,Look up domain reputation snapshots and AI crawler policy from Domduck's public store.
+2026-11-04T08:05:06.547606Z,com.grandranker/free-tools,Grandranker Free AI SEO Tools,1.0.0,,streamable-http,"Free, no signup: AI crawler check, llms.txt validator, ChatGPT/Perplexity/Gemini citation check."
+2026-11-04T08:05:27.376919Z,com.huitravel.b2b-mcp/huitravel-mcp,HuiTravel MCP,1.0.0,,streamable-http,Huizhi Travel B2B MCP: search and compare hotels and attraction tickets.
+2026-11-04T08:09:33.065594Z,io.github.gdangalov/machine-demand-radar-finder,Machine Demand Radar Finder,0.1.0,,streamable-http,Find documented page-extraction services. Free experiment; optional telemetry; no provider calls.
+2026-11-04T08:10:43.716465Z,ai.livecontext/livecontext,LiveContext,1.0.0,,streamable-http,"Build and run AI workflows, agents, data tables and 1000+ API integrations from any MCP client."
+2026-11-04T08:17:25.979903Z,so.sightkick/mcp,Sightkick,2.1.0,https://github.com/sightkick-so/mcp,streamable-http,The agentic SEO and GEO platform your AI agent uses to rank on Google and in AI search.
+2026-11-04T08:17:26.318779Z,io.github.mohammad-abbasi-sh/tcmb-mcp,TCMB FX Rates,0.1.1,https://github.com/mohammad-abbasi-sh/tcmb-mcp,,Unofficial read-only MCP server for TCMB indicative FX rates — live TRY rates for 22 currencies.
+2026-11-04T08:18:00.219507Z,li.zipline/zipline,Zipline MCP,1.0.0,,streamable-http,"One thread for every AI assistant you use. Share tasks and context across ChatGPT, Claude and Grok."
+2026-11-04T08:18:12.793479Z,io.webz/news,Webz.io News,1.0.0,https://github.com/Webhose/webz-news-search,streamable-http,"Published news articles. Use it for stories, outlets, languages, and time windows."
+2026-11-04T08:18:13.471077Z,io.webz/blogs,Webz.io Blogs,1.0.0,https://github.com/Webhose/webz-news-search,streamable-http,Blog posts. Use it when the question is about blogs rather than news sites.
+2026-11-04T08:18:14.017669Z,io.webz/forums,Webz.io Forums,1.0.0,https://github.com/Webhose/webz-news-search,streamable-http,Forum and discussion threads. Use it for conversations on forums and boards.
+2026-11-04T08:18:14.546168Z,io.webz/seg-news,Webz.io News segmentation,1.0.0,https://github.com/Webhose/webz-news-search,streamable-http,"Counts people, companies, sites, topics, and sentiment in news around a subject."
+2026-11-04T08:18:15.078312Z,io.webz/seg-blogs,Webz.io Blogs segmentation,1.0.0,https://github.com/Webhose/webz-news-search,streamable-http,"Counts blogs, authors, companies, and tickers in blog posts around a subject."
+2026-11-04T08:18:15.664456Z,io.webz/seg-forums,Webz.io Forums segmentation,1.0.0,https://github.com/Webhose/webz-news-search,streamable-http,"Counts forums, boards, authors, and countries in forum posts around a subject."
+2026-11-04T08:18:48.498189Z,io.github.CloudCorpRecords/invoiceproof,,0.1.0,https://github.com/CloudCorpRecords/invoiceproof,,"Validate, parse, fix and render EU e-invoices: XRechnung, ZUGFeRD, Factur-X, Peppol, KSeF."
