@@ -9,34 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 19:19 UTC
+## Latest list — 2026-11-04 20:21 UTC
 
-New MCP servers published between 2026-11-04 18:18 UTC and 2026-11-04 19:19 UTC.
+New MCP servers published between 2026-11-04 19:19 UTC and 2026-11-04 20:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-04T19-19-39-206929Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-04T20-21-15-510272Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-04 18:24:49 | ai.bananabread/bananabread | bananabread | 0.1.0 | Consumer sentiment for food and consumer products: what shoppers love, wish for… |
-| 2026-11-04 18:27:54 | [com.brelsfordsoftware/agent-bounty-jobs](https://github.com/jasonbrelsford/agent-bounty-jobs) | Bounty Agent Arena | 0.2.0 | Agent arena: teams of AI agents hunt planets in real NASA TESS light curves, pl… |
-| 2026-11-04 18:30:05 | ai.kiwilink/kiwilink | kiwilink | 1.0.0 | Lets AI agents find, try and buy software inside a budget you set. No passwords… |
-| 2026-11-04 18:31:11 | io.github.flyptkarsh/lounge-frog | Lounge Frog | 0.3.0 | Research airport lounges, card access, airline seats, cruises and travel reward… |
-| 2026-11-04 18:32:04 | com.lumorig/mascots | Lumorig | 1.0.0 | Create, animate and export mascots from your coding agent, as Lottie, SVG or tr… |
-| 2026-11-04 18:34:20 | com.policyvera/insurance-quotes | PolicyVera insurance quotes | 0.1.0 | Request US home, auto and other quotes from licensed local insurance agents you… |
-| 2026-11-04 18:36:57 | io.github.Yolofmeister-git/deckly | Deckly | 1.0.0 | Design presentations, landing pages and social ads with Deckly's tools, then sh… |
-| 2026-11-04 18:44:01 | [io.github.MHaggis/security-detections-mcp](https://github.com/MHaggis/Security-Detections-MCP) | Security Detections | 3.3.3 | Search security detections across Sigma, Splunk, Elastic, KQL, Sublime, CQL and… |
-| 2026-11-04 18:51:04 | net.waveforge/waveforge | WaveForge | 1.0.0 | Audio-reactive music visualizer: turn a track and cover art into a music video. |
-| 2026-11-04 18:52:33 | [io.github.worktable/worktable](https://github.com/worktable/worktable-dev) | Worktable | 0.1.39 | A workspace where you and your agents create and revise Docs, HTML tools, drawi… |
-| 2026-11-04 18:53:04 | com.schedulebeats/schedulebeats | ScheduleBeats | 1.0.0 | Schedule beat uploads to BeatStars and YouTube from Claude, ChatGPT or Perplexi… |
-| 2026-11-04 18:57:36 | [io.github.ssamtool/ssamcut](https://github.com/ssamtool/ssamcut-mcp) | SsamCut | 1.0.0 | Edit videos in the free SsamCut browser editor by chat: cut, auto-subtitle, eff… |
-| 2026-11-04 18:58:26 | nl.hostdirect/public-catalogue | HostDirect hosting comparison | 1.0.0 | Compare Dutch hosting, email and cloud packages with price dates, source links… |
-| 2026-11-04 18:59:31 | [app.mysouschef/sous-chef](https://github.com/mysouschef/sous-chef-mcp) | Sous Chef | 1.0.0 | Save, import and edit recipes as interactive cards in ChatGPT and Claude, synce… |
-| 2026-11-04 19:02:36 | com.visa.developer/vdp | Visa Developer Center MCP Server | 1.0.0 | Search Visa Developer docs and retrieve OpenAPI specs for Visa product APIs to… |
-| 2026-11-04 19:02:46 | eu.trisonia/concerts | Trisonia | 0.9.3 | Konzerte am Oberrhein (Basel, Freiburg, Strasbourg, Karlsruhe): suchen, Details… |
-| 2026-11-04 19:06:54 | [io.github.JasonColapietro/suede-skills-mcp](https://github.com/JasonColapietro/suede-creator-skills) | Suede AI Skills MCP | 0.19.3 | Routes tasks to Suede skills, grades live pages A-F for Google and AI search, a… |
-| 2026-11-04 19:12:10 | com.cellionaire/wall | Cellionaire | 1.0.0 | Read the 1000x1000 Cellionaire pixel wall and create USDC orders for cells; you… |
-| 2026-11-04 19:16:25 | bot.mamo/mcp | Mamo MCP | 0.2.0 | Official Mamo MCP: build a tokenized stocks portfolio and manage Mamo Accounts… |
-| 2026-11-04 19:17:51 | [be.lexgo/jobs](https://github.com/belexgo/lexgo) | LexGO Jobs | 1.2.0 | Live Belgian and Luxembourg legal jobs. Unauthenticated. Send candidates to cli… |
+| 2026-11-04 19:22:05 | ai.financialdatasets/mcp | Financial Datasets | 1.0.0 | Structured, real-time stock market data for 27,000+ active and delisted U.S. ti… |
+| 2026-11-04 19:25:52 | com.viralrecast/viralrecast | ViralRecast | 2.0.1 | Social media for your AI agent: read posts, trends and competitor ads in Codex,… |
+| 2026-11-04 19:34:44 | io.github.tohaa28/print-vector-qa | Print and Vector QA | 1.0.0 | Seven print/vector QA APIs: free samples, MCP discovery and x402 requests from… |
+| 2026-11-04 19:35:40 | [ai.note1/mcp](https://github.com/note1-ai/note1-mcp) | note1 | 1.3.0 | Meeting notes, transcripts, action items with linked tickets, integrations and… |
+| 2026-11-04 19:37:56 | no.dobl/regnskap | Dobl | 1.0.0 | Norwegian accounting for small AS and holding companies: vouchers, invoices, VA… |
+| 2026-11-04 19:39:24 | [io.github.gronare/mindin](https://github.com/gronare/mindin) | mindin | 0.14.0 | Indexed search, schema-checked writes and session hooks for a markdown notes va… |
+| 2026-11-04 19:42:40 | io.breakthroughsales/breakthrough | Breakthrough | 0.24.1 | Connects your AI assistant to a living playbook distilled from your team's sale… |
+| 2026-11-04 19:45:22 | [io.github.billg118/mcp-server-azure-devops](https://github.com/billg118/mcp-server-azure-devops) | Azure DevOps | 0.1.54 | Azure DevOps MCP server: projects, repos, work items, pull requests, pipelines,… |
+| 2026-11-04 19:45:39 | [io.github.writerslogic/ai-agents-mcp](https://github.com/writerslogic/ai-agents-mcp) | WritersLogic AI Agents (x402) | 0.1.0 | Pay-per-call AI agents over x402. Settled in USDC on Base with a per-call spend… |
+| 2026-11-04 19:50:15 | io.github.eyal-gor/cerver | Cerver | 0.1.1 | AI backend for your app: a chat per customer, replies with their cost, spend ca… |
+| 2026-11-04 19:56:06 | [page.thread/threadpage](https://github.com/ThreadPage/threadpage-companion) | ThreadPage | 1.12.0 | Read, search and add notes in your ThreadPage threads. On Free it adds notes to… |
+| 2026-11-04 19:57:34 | [io.github.Servosity/blackpoint-mcp](https://github.com/servosity/msp-skills) | Blackpoint Cyber CompassOne MCP | 0.1.0 | Blackpoint Cyber CompassOne: tenants, detections, assets, vulnerabilities and a… |
+| 2026-11-04 20:00:24 | gr.profitstore/shop | ProfitStore | 1.0.0 | Search ProfitStore (profitstore.gr, Greece) products: current price, stock and… |
+| 2026-11-04 20:00:33 | ai.egonex/marketplace | Egonex | 1.17.0 | Search items and services from independent sellers, ask the seller, and request… |
+| 2026-11-04 20:01:09 | [io.github.oreondev/harbor-mcp](https://github.com/oreondev/harbor-mcp) | Harbor | 0.1.0 | Read-only access to a Harbor registry: projects, artifacts, vulnerabilities, ro… |
+| 2026-11-04 20:04:48 | io.github.mwbidwell/bionicforms-mcp | Bionic Forms | 2.0.0 | Read, search and add records in your Bionic Forms apps (hosted database apps fo… |
+| 2026-11-04 20:06:04 | [io.github.Super-Artifacts/super-artifacts](https://github.com/Super-Artifacts/plugins) | Super Artifacts | 0.188.1 | Publish live pages from any agent, collect what visitors submit, and read it ba… |
+| 2026-11-04 20:07:52 | [io.github.CloudCorpRecords/filemorph](https://github.com/CloudCorpRecords/filemorph) |  | 0.1.0 | Convert files between 44 formats: documents, spreadsheets, images, ebooks, subt… |
+| 2026-11-04 20:09:00 | io.sprintmail/mcp | Sprint Mail | 1.0.0 | Print and mail US letters by USPS First-Class, with tracking. |
+| 2026-11-04 20:12:37 | com.zenabm/mcp | ZenABM | 1.0.0 | LinkedIn ads, ABM and CRM data for AI agents: reports, audits, and campaign man… |
+| 2026-11-04 20:17:45 | com.tazminat/hesap | Tazminat.com: Turkish legal calculations | 1.0.0 | Deterministic engines for Turkish law: labor claims, accident damages, sentence… |
+| 2026-11-04 20:19:22 | [io.github.Mewnah/stack-and-dns-mcp](https://github.com/Mewnah/stack-and-dns-mcp) |  | 1.0.1 | Inspect any domain: tech stack, SPF/DKIM/DMARC/MX email health and security pos… |
+| 2026-11-04 20:20:29 | ai.evermont/evermont | Evermont | 1.0.0 | Insurance filing desk: SERFF filing research, state requirements, actuarial cal… |
 
 ## Data source
 
