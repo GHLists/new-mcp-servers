@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-11-04T18:24:49.860449Z,ai.bananabread/bananabread,bananabread,0.1.0,,streamable-http,"Consumer sentiment for food and consumer products: what shoppers love, wish for and complain about"
+2026-11-04T18:27:54.808441Z,com.brelsfordsoftware/agent-bounty-jobs,Bounty Agent Arena,0.2.0,https://github.com/jasonbrelsford/agent-bounty-jobs,streamable-http,"Agent arena: teams of AI agents hunt planets in real NASA TESS light curves, plus chess and dice."
+2026-11-04T18:30:05.757063Z,ai.kiwilink/kiwilink,kiwilink,1.0.0,,streamable-http,"Lets AI agents find, try and buy software inside a budget you set. No passwords or card numbers."
+2026-11-04T18:31:11.087029Z,io.github.flyptkarsh/lounge-frog,Lounge Frog,0.3.0,,streamable-http,"Research airport lounges, card access, airline seats, cruises and travel rewards with source links."
+2026-11-04T18:32:04.786549Z,com.lumorig/mascots,Lumorig,1.0.0,,streamable-http,"Create, animate and export mascots from your coding agent, as Lottie, SVG or transparent clips."
+2026-11-04T18:34:20.007433Z,com.policyvera/insurance-quotes,PolicyVera insurance quotes,0.1.0,,streamable-http,"Request US home, auto and other quotes from licensed local insurance agents you choose. Free."
+2026-11-04T18:36:57.219449Z,io.github.Yolofmeister-git/deckly,Deckly,1.0.0,,streamable-http,"Design presentations, landing pages and social ads with Deckly's tools, then share or export PDF."
+2026-11-04T18:44:01.029352Z,io.github.MHaggis/security-detections-mcp,Security Detections,3.3.3,https://github.com/MHaggis/Security-Detections-MCP,,"Search security detections across Sigma, Splunk, Elastic, KQL, Sublime, CQL and Jamf with ATT&CK."
+2026-11-04T18:51:04.897982Z,net.waveforge/waveforge,WaveForge,1.0.0,,streamable-http,Audio-reactive music visualizer: turn a track and cover art into a music video.
+2026-11-04T18:52:33.03993Z,io.github.worktable/worktable,Worktable,0.1.39,https://github.com/worktable/worktable-dev,streamable-http,"A workspace where you and your agents create and revise Docs, HTML tools, drawings, and Records."
+2026-11-04T18:53:04.479465Z,com.schedulebeats/schedulebeats,ScheduleBeats,1.0.0,,streamable-http,"Schedule beat uploads to BeatStars and YouTube from Claude, ChatGPT or Perplexity."
+2026-11-04T18:57:36.83931Z,io.github.ssamtool/ssamcut,SsamCut,1.0.0,https://github.com/ssamtool/ssamcut-mcp,streamable-http,"Edit videos in the free SsamCut browser editor by chat: cut, auto-subtitle, effects, MP4 export."
+2026-11-04T18:58:26.177422Z,nl.hostdirect/public-catalogue,HostDirect hosting comparison,1.0.0,,streamable-http,"Compare Dutch hosting, email and cloud packages with price dates, source links and limitations."
+2026-11-04T18:59:31.47379Z,app.mysouschef/sous-chef,Sous Chef,1.0.0,https://github.com/mysouschef/sous-chef-mcp,streamable-http,"Save, import and edit recipes as interactive cards in ChatGPT and Claude, synced to your iPhone."
+2026-11-04T19:02:36.182736Z,com.visa.developer/vdp,Visa Developer Center MCP Server,1.0.0,,streamable-http,Search Visa Developer docs and retrieve OpenAPI specs for Visa product APIs to build integrations.
+2026-11-04T19:02:46.335216Z,eu.trisonia/concerts,Trisonia,0.9.3,,streamable-http,"Konzerte am Oberrhein (Basel, Freiburg, Strasbourg, Karlsruhe): suchen, Details, Spielorte"
+2026-11-04T19:06:54.310433Z,io.github.JasonColapietro/suede-skills-mcp,Suede AI Skills MCP,0.19.3,https://github.com/JasonColapietro/suede-creator-skills,,"Routes tasks to Suede skills, grades live pages A-F for Google and AI search, and checks copy."
+2026-11-04T19:12:10.105841Z,com.cellionaire/wall,Cellionaire,1.0.0,,streamable-http,Read the 1000x1000 Cellionaire pixel wall and create USDC orders for cells; you pay on-chain.
+2026-11-04T19:16:25.278367Z,bot.mamo/mcp,Mamo MCP,0.2.0,,streamable-http,Official Mamo MCP: build a tokenized stocks portfolio and manage Mamo Accounts on Base.
+2026-11-04T19:17:51.252393Z,be.lexgo/jobs,LexGO Jobs,1.2.0,https://github.com/belexgo/lexgo,streamable-http,Live Belgian and Luxembourg legal jobs. Unauthenticated. Send candidates to click_url.
