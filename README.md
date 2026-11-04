@@ -9,45 +9,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 05:19 UTC
+## Latest list — 2026-11-04 06:21 UTC
 
-New MCP servers published between 2026-11-04 04:19 UTC and 2026-11-04 05:19 UTC.
+New MCP servers published between 2026-11-04 05:19 UTC and 2026-11-04 06:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-04T05-19-49-175256Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-04T06-21-14-533181Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-04 04:20:26 | [io.github.johnisanerd/google-images](https://github.com/johnisanerd/Google-Images-API) |  | 1.0.0 | Google Images results in bulk: image URLs, sizes, thumbnails, and source pages,… |
-| 2026-11-04 04:22:23 | com.okkmax/okkmax | OkkMax | 0.2.0 | Read-only data on AI API relay stations: rank, purity, uptime, price per model. |
-| 2026-11-04 04:22:32 | [io.github.CloudCorpRecords/knowdrift](https://github.com/CloudCorpRecords/knowdrift) |  | 0.1.0 | Search Driflyte's topic-indexed crawled web knowledge: list topics and retrieve… |
-| 2026-11-04 04:24:29 | xyz.shack/shack | Shack | 1.0.0 | Search auctions on Shack, see your listings and turn photos into auction drafts… |
-| 2026-11-04 04:26:26 | ai.signalry/countersign | Countersign by Signalry | 0.1.0 | Countersign by Signalry: re-runs the checks behind an AI agent's done claim; ha… |
-| 2026-11-04 04:26:27 | com.bestboatday/boatday | Boat Day | 1.8.0 | Read-only boating data: Seacoast ME-NH boatyards, cited winter storage prices,… |
-| 2026-11-04 04:30:17 | io.github.CaSO44444/remote-mcp | Remote MCP Server | 1.0.0 | Remote MCP server available at 8.133.174.91. |
-| 2026-11-04 04:40:57 | [io.github.Contextator/contextator](https://github.com/Contextator/Contextator) | Contextator | 0.7.0 | Self-hosted documentation server: each project's indexed docs as its own MCP en… |
-| 2026-11-04 04:48:33 | [io.github.markusweldon/cverdict](https://github.com/markusweldon/cverdict) | CVErdict | 0.1.2 | Read-only CVE triage: verdicts from CISA KEV, EPSS and exploit feeds, each reas… |
-| 2026-11-04 04:49:24 | com.qadir/qadir | Qadir | 1.0.0 | Prayer, iqamah and Jumu'ah times, masjids, halal food and khutbahs for the US,… |
-| 2026-11-04 04:49:34 | [io.github.daqifi/daqifi-mcp](https://github.com/daqifi/daqifi-core) | DAQiFi | 1.9.0 | Discover, configure and read DAQiFi Nyquist data-acquisition hardware from an A… |
-| 2026-11-04 04:50:23 | com.xipfax/fax | XipFax | 1.0.0 | Fax a form from your AI assistant. XipFax finds the right IRS fax number and sh… |
-| 2026-11-04 04:53:23 | [io.github.meta-taro/dbboard](https://github.com/meta-taro/dbboard) |  | 0.22.0 | Hands AI agents the databases dbboard connects to: reads by default, and never… |
-| 2026-11-04 04:55:18 | [io.github.dassey/yab-mcp](https://github.com/dassey/YABlenderMCP) | YABlenderMCP | 2.3.0 | Local-only Blender 5.1 for AI agents: modeling, rendering, 3D-print prep. No ke… |
-| 2026-11-04 04:58:39 | com.shutterbots/shutterbots | Shutterbots | 1.0.0 | Image feed for AI agents: post images, browse, like, comment and follow. |
-| 2026-11-04 05:06:25 | com.sidekickpro/sidekick-pro | Sidekick Pro | 2.0.0 | AI executive assistant: email triage, inbox, calendar, files, memory, phone and… |
-| 2026-11-04 05:06:52 | [com.agentfirststack/mcp](https://github.com/StartGlobal-AI/agentfirststack) | AgentFirstStack | 0.1.0 | Analytics, tag manager, email inboxes and session replay an AI agent sets up by… |
-| 2026-11-04 05:06:52 | [com.agentfirststack/analytics](https://github.com/StartGlobal-AI/agentfirststack) | AgentFirstStack Analytics | 0.1.0 | Cookieless web analytics an agent creates and queries: goals, funnels, revenue,… |
-| 2026-11-04 05:06:52 | [com.agentfirststack/tags](https://github.com/StartGlobal-AI/agentfirststack) | AgentFirstStack Tags | 0.1.0 | Tag manager with server-side conversions for GA4, Google Ads, Meta and TikTok,… |
-| 2026-11-04 05:06:53 | [com.agentfirststack/mail](https://github.com/StartGlobal-AI/agentfirststack) | AgentFirstStack Mail | 0.1.0 | Email inboxes for AI agents: wait for mail, pull out verification codes and lin… |
-| 2026-11-04 05:06:53 | [com.agentfirststack/replay](https://github.com/StartGlobal-AI/agentfirststack) | AgentFirstStack Replay | 0.1.0 | Session replay as readable transcripts: rage and dead clicks, JS errors and hea… |
-| 2026-11-04 05:07:18 | com.launchyournextchapter/nextchapter-jobs | NextChapter jobs, résumé and layoff help | 1.2.0 | Search pro jobs with AI exposure and layoff signals, score a résumé, look up WA… |
-| 2026-11-04 05:07:19 | [io.github.dassey/yablendermcp](https://github.com/dassey/YABlenderMCP) | YABlenderMCP | 2.3.1 | Local-only Blender 5.1 for AI agents: modeling, rendering, 3D-print prep. No ke… |
-| 2026-11-04 05:13:01 | ai.greatarrow/great-arrow | GreatArrow.ai | 1.1.0 | Stop copy-pasting client context into your AI. 47 connectable providers via MCP. |
-| 2026-11-04 05:14:43 | engineering.twinn/sage-100-contractor | Twinn: Sage 100 Contractor | 1.0.0 | Read-only Sage 100 Contractor data and construction reports (WIP, AR/AP aging)… |
-| 2026-11-04 05:15:04 | com.agentstackdata/agentstack |  | 1.0.0 | Verified AI-agent tool catalog with pricing: search, voice, MCP, automation and… |
-| 2026-11-04 05:15:06 | com.homegeneratorhq/generators |  | 1.0.0 | Verified home backup power catalog: standby and portable generators, power stat… |
-| 2026-11-04 05:16:42 | [io.github.mindstone/mcp-server-microsoft-mail](https://github.com/mindstone/mcp-servers) | Microsoft 365 Mail | 0.4.0 | Microsoft 365 Outlook mail via Graph: read, search, send, reply, forward, draft… |
-| 2026-11-04 05:17:03 | [io.github.mindstone/mcp-server-microsoft-teams](https://github.com/mindstone/mcp-servers) | Microsoft 365 Teams | 0.3.2 | Microsoft 365 Teams via Graph: list chats, read/send messages, list teams/chann… |
-| 2026-11-04 05:17:19 | [io.github.meta-taro/git-qa](https://github.com/meta-taro/git-qa) |  | 0.2.0-beta.21 | Open-source human-in-the-loop QA runner: an AI agent works the test sheet, a pe… |
-| 2026-11-04 05:18:16 | [io.github.24repost-ru/24repost-mcp](https://github.com/24repost-ru/24repost-mcp) | 24Repost | 1.0.0 | Cross-posting between Telegram, MAX and VK: routes, copy rules, history import,… |
+| 2026-11-04 05:20:39 | io.exactmatch.mcp/exact-match | Exact Match | 2.0.0 | US consumer and business audience data: build audiences, match and enrich recor… |
+| 2026-11-04 05:22:44 | [io.github.phillipboesger/polarion-mcp](https://github.com/phillipboesger/polarion-mcp) |  | 1.5.0 | Polarion ALM MCP server for requirements, LiveDocs, work items, traceability an… |
+| 2026-11-04 05:24:11 | fr.fluentoo/toeic | Fluentoo TOEIC | 1.0.0 | Préparation au TOEIC : score et niveau CECRL, format des 7 parties, guides et t… |
+| 2026-11-04 05:31:59 | io.github.Nero-Engine/eu-tender-bid-matcher | EU Tenders Finder & Bid Matcher | 0.1.0 | Open EU tenders from TED scored against your CPV codes and keywords, with past… |
+| 2026-11-04 05:34:20 | travel.trip720/trip720 | Trip720 | 1.0.0 | Plans a whole trip from a total budget, every price labelled live, estimate or… |
+| 2026-11-04 05:35:27 | [com.lionreader/lion-reader](https://github.com/brendanlong/lion-reader) | Lion Reader | 1.0.0 | Read, search, star and organize your RSS feeds, newsletters and saved articles. |
+| 2026-11-04 05:38:38 | [io.github.greencore-solutions/a2a-cosmetics](https://github.com/greencore-solutions/a2a-cosmetics) | A2A Cosmetics | 1.0.2 | Agent-to-Agent (A2A) hub for cosmetics: skin care, fragrance, sun care, dermoco… |
+| 2026-11-04 05:53:01 | io.github.MajaHelferbiene/mowweb | Morawa | 1.0.0-1 | Search for books and book-related products, with access to product and delivery… |
+| 2026-11-04 05:53:44 | de.pflasterlux/preisrechner | Pflasterlux Preisrechner | 1.0.0 | Preise für Steinreinigung, Fugen und Heckenschnitt in Schleswig-Holstein und Ha… |
+| 2026-11-04 05:55:27 | [io.github.ArpitK24/jot](https://github.com/ArpitK24/jot) | jot | 0.1.1 | Shared, local-first memory for every AI agent, stored as Markdown and versioned… |
+| 2026-11-04 05:58:43 | com.99tests/mcp | 99tests | 1.0.0 | Order human-run real-device app tests from your coding agent; verified bugs ret… |
+| 2026-11-04 06:01:17 | [io.github.bharatreachdsp/align](https://github.com/bharatreachdsp/align-cli) | ALIGN | 0.1.4 | Your team's confirmed decisions, with receipts, for every coding agent (local s… |
+| 2026-11-04 06:01:27 | [io.github.TheWhiteWater/tube-bridge](https://github.com/TheWhiteWater/tube-bridge) | tube-bridge | 1.1.7 | YouTube MCP server for search, transcripts, frames, comments, channels, and loc… |
+| 2026-11-04 06:02:47 | [io.github.Enu27/japan-used-camera-market](https://github.com/Enu27/japan-used-camera-mcp) | Japan Used Camera Market | 0.2.0 | Search, price stats, price history and change alerts for Japan's used camera sh… |
+| 2026-11-04 06:08:19 | [io.makerradar/mcp](https://github.com/makerradar-io/makerradar-cli) | MakerRadar | 1.0.0 | Search MakerRadar's launched products: details, alternatives, comparisons, week… |
+| 2026-11-04 06:08:33 | [io.github.PHONGUIT22/nostrpulse](https://github.com/PHONGUIT22/nostrpulse-full.git) | NostrPulse | 1.3.1 | Autonomous payment & Web-of-Trust anti-Sybil layer for AI agents via Nostr & Ca… |
+| 2026-11-04 06:10:58 | [io.github.sepehr071/iran-vod-mcp](https://github.com/sepehr071/iran-vod-mcp) | Filimo and Namava | 0.1.1 | Read-only Filimo and Namava catalogs: search, title details, episodes, new, gen… |
+| 2026-11-04 06:15:05 | net.shibasim/esim | shibaSIM eSIM Plans | 1.0.0 | Read-only travel eSIM plan lookup (USD prices) that links buyers to shibaSIM ch… |
+| 2026-11-04 06:19:47 | io.github.tsinovoi/compass-os | Compass OS | 1.0.0 | Your career in your AI app: tracked roles, profile, resumes, wins and interview… |
 
 ## Data source
 

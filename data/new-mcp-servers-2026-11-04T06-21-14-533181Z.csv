@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-11-04T05:20:39.871296Z,io.exactmatch.mcp/exact-match,Exact Match,2.0.0,,streamable-http,"US consumer and business audience data: build audiences, match and enrich records, export lists."
+2026-11-04T05:22:44.288439Z,io.github.phillipboesger/polarion-mcp,,1.5.0,https://github.com/phillipboesger/polarion-mcp,,"Polarion ALM MCP server for requirements, LiveDocs, work items, traceability and test management."
+2026-11-04T05:24:11.351688Z,fr.fluentoo/toeic,Fluentoo TOEIC,1.0.0,,streamable-http,"Préparation au TOEIC : score et niveau CECRL, format des 7 parties, guides et test gratuit."
+2026-11-04T05:31:59.697452Z,io.github.Nero-Engine/eu-tender-bid-matcher,EU Tenders Finder & Bid Matcher,0.1.0,,streamable-http,"Open EU tenders from TED scored against your CPV codes and keywords, with past winners and prices"
+2026-11-04T05:34:20.896779Z,travel.trip720/trip720,Trip720,1.0.0,,streamable-http,"Plans a whole trip from a total budget, every price labelled live, estimate or official."
+2026-11-04T05:35:27.86758Z,com.lionreader/lion-reader,Lion Reader,1.0.0,https://github.com/brendanlong/lion-reader,streamable-http,"Read, search, star and organize your RSS feeds, newsletters and saved articles."
+2026-11-04T05:38:38.756509Z,io.github.greencore-solutions/a2a-cosmetics,A2A Cosmetics,1.0.2,https://github.com/greencore-solutions/a2a-cosmetics,streamable-http,"Agent-to-Agent (A2A) hub for cosmetics: skin care, fragrance, sun care, dermocosmetics."
+2026-11-04T05:53:01.994867Z,io.github.MajaHelferbiene/mowweb,Morawa,1.0.0-1,,streamable-http; sse,"Search for books and book-related products, with access to product and delivery details"
+2026-11-04T05:53:44.331692Z,de.pflasterlux/preisrechner,Pflasterlux Preisrechner,1.0.0,,streamable-http,"Preise für Steinreinigung, Fugen und Heckenschnitt in Schleswig-Holstein und Hamburg."
+2026-11-04T05:55:27.53488Z,io.github.ArpitK24/jot,jot,0.1.1,https://github.com/ArpitK24/jot,,"Shared, local-first memory for every AI agent, stored as Markdown and versioned in git."
+2026-11-04T05:58:43.545118Z,com.99tests/mcp,99tests,1.0.0,,streamable-http,Order human-run real-device app tests from your coding agent; verified bugs return as fix prompts.
+2026-11-04T06:01:17.832499Z,io.github.bharatreachdsp/align,ALIGN,0.1.4,https://github.com/bharatreachdsp/align-cli,,"Your team's confirmed decisions, with receipts, for every coding agent (local stdio server)."
+2026-11-04T06:01:27.589796Z,io.github.TheWhiteWater/tube-bridge,tube-bridge,1.1.7,https://github.com/TheWhiteWater/tube-bridge,,"YouTube MCP server for search, transcripts, frames, comments, channels, and local semantic corpora."
+2026-11-04T06:02:47.680487Z,io.github.Enu27/japan-used-camera-market,Japan Used Camera Market,0.2.0,https://github.com/Enu27/japan-used-camera-mcp,,"Search, price stats, price history and change alerts for Japan's used camera shops via Apify."
+2026-11-04T06:08:19.963931Z,io.makerradar/mcp,MakerRadar,1.0.0,https://github.com/makerradar-io/makerradar-cli,streamable-http; streamable-http,"Search MakerRadar's launched products: details, alternatives, comparisons, weeks."
+2026-11-04T06:08:33.424199Z,io.github.PHONGUIT22/nostrpulse,NostrPulse,1.3.1,https://github.com/PHONGUIT22/nostrpulse-full.git,,Autonomous payment & Web-of-Trust anti-Sybil layer for AI agents via Nostr & Cashu (NIP-61 NutZaps).
+2026-11-04T06:10:58.879107Z,io.github.sepehr071/iran-vod-mcp,Filimo and Namava,0.1.1,https://github.com/sepehr071/iran-vod-mcp,,"Read-only Filimo and Namava catalogs: search, title details, episodes, new, genres, where to watch."
+2026-11-04T06:15:05.451404Z,net.shibasim/esim,shibaSIM eSIM Plans,1.0.0,,streamable-http,Read-only travel eSIM plan lookup (USD prices) that links buyers to shibaSIM checkout.
+2026-11-04T06:19:47.048752Z,io.github.tsinovoi/compass-os,Compass OS,1.0.0,,streamable-http,"Your career in your AI app: tracked roles, profile, resumes, wins and interview stories."
