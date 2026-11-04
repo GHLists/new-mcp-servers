@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-11-04T22:26:44.991365Z,io.github.pavanmulka/deepsift-search,DeepSift Search,0.1.0,https://github.com/pavanmulka/deepsift,streamable-http,Live Google web search for AI agents that returns only the passages that answer the question.
+2026-11-04T22:29:28.657236Z,ai.soundgen/soundgen,SoundGen (soundgen.ai),1.0.0,,streamable-http,"Browser DAW for AI assistants: build multitrack songs with MIDI, effects, stems and generation."
+2026-11-04T22:30:44.675999Z,io.github.piiiico/agentlair,AgentLair,1.3.1,https://github.com/piiiico/agentlair,streamable-http,"Give AI agents a real email address, vault, calendar, and task delegation via MCP."
+2026-11-04T22:33:31.459687Z,org.keepmd/mcp-eob-decoder,KeepMD MCP for EOB Decoder,0.1.3,https://github.com/keepmd-medical/keepmd-mcp-eob-decoder,streamable-http,"Explains medical bill and EOB codes, terms and math. From KeepMD, the family medical records app."
+2026-11-04T22:34:05.790626Z,io.github.vmalyshev1/vat-support,VAT.SUPPORT,1.1.0,https://github.com/vmalyshev1/vat-support-mcp,streamable-http,"EU & UK statutory VAT compliance, VIES validation, ViDA e-invoicing & Art. 196 reverse-charge."
+2026-11-04T22:35:24.885679Z,ai.realestate-analytics/mcp,RealEstate-Analytics.ai,1.0.0,,streamable-http,"Prospect, grade and analyze off- or on-market real estate deals with deterministic, auditable math."
+2026-11-04T22:39:36.24292Z,app.selis.mcp/pmo,Selis MCP,0.3.5,https://github.com/calx-sa/selis-mcp,streamable-http; sse; streamable-http; sse; streamable-http; sse,MCP server for Selis TMiS — manage PMO entities from any MCP client
+2026-11-04T22:42:19.563628Z,io.mtdt/salesforce-devops,mtdt — Salesforce DevOps,0.3.0,https://github.com/mtdt-io/mcp,streamable-http,"mtdt.io MCP: Salesforce DevOps platform connector (metadata deployments, backups and more)"
+2026-11-04T22:43:51.74647Z,io.github.hakutakuAi/hakutaku,Hakutaku,1.0.0,https://github.com/hakutakuAi/hakutaku-plugins,streamable-http,"Your second brain: documents, meetings, decisions, tables, agents and connected apps."
+2026-11-04T22:43:56.654884Z,de.firma/rechner,firma.de Rechner für Gründer,1.0.0,,streamable-http,"German tools for founders: startup budget, notary fees, taxes, contracts, receipts, e-invoices"
+2026-11-04T22:52:10.169203Z,com.scrollsnacks/scrollsnacks,Scrollsnacks,1.0.0,https://github.com/qantrepreneur/scrollsnacks-mcp,streamable-http,"Curated real launch videos split into timed sections (hook, problem, feature, proof, CTA)."
+2026-11-04T22:55:31.582968Z,io.github.juli2006farres/irpf-pymes-cat-mcp,IRPF de autónomos y empresas de Cataluña,1.0.0,,streamable-http,Estima el IRPF de autónomos en Cataluña y consulta datos públicos de empresas catalanas.
+2026-11-04T22:57:17.958052Z,io.github.trentleslie/biomapper,BioMapper,1.6.2,https://github.com/Phenome-Health/biomapper,,"Resolve metabolite, lipid, protein, gene and lab names to knowledge-graph IDs."
+2026-11-04T23:05:01.1163Z,io.jurisprudencia/jurisprudencia,Jurisprudencia.io,1.0.0,,streamable-http,Busca jurisprudencia española y consulta resoluciones y pasajes con enlaces a las fuentes oficiales.
+2026-11-04T23:06:08.650698Z,com.provecart/provecart,ProveCart,1.0.0,,streamable-http,"ProveCart checks agent orders, bookings and reservations before payment."
+2026-11-04T23:08:08.931779Z,io.github.ZyberSE/batteryfigures,Battery Figures,1.0.0,,streamable-http,"Free Tesla battery preview by VIN: pack, original capacity and typical capacity left at its age."
+2026-11-04T23:11:16.88643Z,dev.invisit/invisit,invisit,1.0.0,,streamable-http,"Cookieless web analytics: traffic, sources, AI referrals, funnels, heatmaps and web vitals."
+2026-11-04T23:12:35.888396Z,ai.wakeshift/webhooks,Webhooks by Wakeshift,1.0.0,https://github.com/wakeshift/apps,streamable-http,A webhook URL that wakes your AI agent: every POST to it wakes the conversation watching it.
+2026-11-04T23:12:36.083778Z,ai.wakeshift/slackline,Slackline,1.0.0,https://github.com/wakeshift/apps,streamable-http,"Chat with your AI agents from Slack: each gets a thread in your DM, and your replies there wake it."
+2026-11-04T23:13:24.173517Z,com.frequencytalk/agent,Frequency Talk,0.1.1,https://github.com/ibNez/frequency,,"Frequency Talk for AI agents: tune live voice frequencies, speak and listen, chat and call people."
+2026-11-04T23:15:51.504346Z,io.github.holon-sh/docs,Holon Docs,0.0.1-dev.1,,streamable-http,"Documentation for building, running, deploying, and troubleshooting Holon."
+2026-11-04T23:16:54.70142Z,com.rollstack/mcp,Rollstack,1.0.70,,streamable-http,"Build, refresh and send Rollstack reports and slide decks from your company's data."
