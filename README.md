@@ -9,60 +9,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 15:20 UTC
+## Latest list — 2026-11-04 16:21 UTC
 
-New MCP servers published between 2026-11-04 14:21 UTC and 2026-11-04 15:20 UTC.
+New MCP servers published between 2026-11-04 15:20 UTC and 2026-11-04 16:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-04T15-20-56-327819Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-04T16-21-23-270699Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-04 14:23:18 | [io.github.team-monet/monet](https://github.com/team-monet/monet) | Monet | 1.11.1 | Local-first, state-centric memory for coding agents. MCP server + CLI. |
-| 2026-11-04 14:23:24 | ai.ptally/ptally | Ptally | 1.0.0 | Insurance pricing: build, validate and test rating models, then price quotes fr… |
-| 2026-11-04 14:24:17 | [io.github.crane-valley/framedash-mcp-server](https://github.com/crane-valley/framedash-mcp-server) |  | 0.2.0 | MCP server for Framedash game telemetry: query analytics, heatmaps, perf regres… |
-| 2026-11-04 14:29:16 | [io.github.fecklesspleb/actors-mcp](https://github.com/fecklesspleb/actors-mcp) | fecklesspleb Apify Actors | 0.1.0 | 14 tools for fecklesspleb's Apify Actors: SEO, metadata, sitemaps, HN, jobs; 4… |
-| 2026-11-04 14:29:55 | com.clawhard/spill | Spill | 1.0.0 | Find leaked API keys, tokens and passwords in pasted text, see which are live,… |
-| 2026-11-04 14:30:22 | io.github.Animus2018/author-itag | Author iTag | 1.0.0 | GPS trackers, phones and QR tags: locations, trips, alerts and vehicle controls… |
-| 2026-11-04 14:33:53 | [io.github.CloudCorpRecords/porefind](https://github.com/CloudCorpRecords/porefind) |  | 0.1.0 | Search lab-filtration products by specification, with prices and lead times. |
-| 2026-11-04 14:35:32 | [io.github.CloudCorpRecords/terrainprofile](https://github.com/CloudCorpRecords/terrainprofile) |  | 0.1.0 | Elevation, slope, terrain maps and 3D surfaces for any site, from global and re… |
-| 2026-11-04 14:41:22 | ai.tamtam/tamtam | Tamtam | 1.0.0 | Find B2B leads from buying signals, get verified contacts, and research account… |
-| 2026-11-04 14:41:47 | trade.neum/neum | NEUM | 1.0.0 | Ask your AI about US stock price levels, level crossings, model events and earn… |
-| 2026-11-04 14:42:33 | io.github.tradetabula/tabula-mcp |  | 0.1.0 | Credit for AI agents: pay x402 sellers from a credit line, repay with one signa… |
-| 2026-11-04 14:42:54 | ai.infobro/directory | infobro AI tools directory | 1.0.0 | List your AI tool on infobro.ai: sign up by email code, submit or claim a listi… |
-| 2026-11-04 14:46:11 | com.dividenddata/terminal | Dividend Data | 2.4.0 | Fundamentals, KPIs, prices, valuation, earnings and dividends for 80,000+ stock… |
-| 2026-11-04 14:46:14 | com.author-tag/author-itag | Author iTag | 1.0.0 | GPS trackers, phones and QR tags: locations, trips, alerts and vehicle controls… |
-| 2026-11-04 14:46:28 | app.netlify.thechesscoach/chess-coach | Chess Coach | 1.0.0 | Review your Chess.com and Lichess games with Stockfish on an interactive board,… |
-| 2026-11-04 14:49:25 | pro.rebond/offres-emploi | Rebond, offres d'emploi | 1.0.0 | Offres d'emploi publiques en France : recherche par métier, ville, contrat, tél… |
-| 2026-11-04 14:49:48 | dev.mrhyde/memes | Meme Studio | 1.0.0 | Make memes from a big catalog of templates and GIFs or your own photo, and get… |
-| 2026-11-04 14:50:27 | vn.ctas/life | CTAS Life | 1.0.0 | Chia Chia shared expenses and the Vietnamese lunar calendar for CTAS Life Premi… |
-| 2026-11-04 14:50:39 | vn.ctas/work | CTAS Work | 1.0.0 | Attendance, shifts, leave, payroll and team tools for CTAS Work organizations. |
-| 2026-11-04 14:51:12 | com.meilleurcodeparrainage/codes-parrainage | Meilleur Code Parrainage | 1.1.0 | Codes de parrainage vérifiés en France : bonus filleul et parrain, conditions,… |
-| 2026-11-04 14:52:21 | com.gatavia.gata/viajes | GATA · Viajes | 1.0.0 | Stays in Spain and Spanish-speaking Latin America with booking links and map. F… |
-| 2026-11-04 14:54:27 | ch.tasters/mcp | Tasters | 0.4.0 | Swiss wine shop: food pairings, in-stock wines with CHF prices, your cellar. Sh… |
-| 2026-11-04 14:55:43 | [dev.agentchrome/agentchrome](https://github.com/ShadowWalker2014/agentchrome) | Agent Chrome | 0.1.0 | Let AI agents use your real, signed-in Chrome: tabs, clicks, forms, screenshots… |
-| 2026-11-04 14:56:51 | dev.rosti/rosti | Rösti Threat Intel | 0.1.0 | Look up IOCs and search threat-intel reports, YARA rules, MITRE ATT&CK ids and… |
-| 2026-11-04 14:58:51 | com.quorumz.api/sense | Quorumz Sense | 1.0.0 | Geo-tagged world news for agents: each story split into viewpoints, with suppor… |
-| 2026-11-04 14:59:42 | com.quarralabs/aliexpress-scraper | AliExpress Scraper | 1.0.0 | AliExpress products: every variant with price and stock, shipping to your count… |
-| 2026-11-04 14:59:43 | com.quarralabs/aliexpress-search-scraper | AliExpress Search Scraper | 1.0.0 | AliExpress search results from keywords or category URLs: price, rating, units… |
-| 2026-11-04 14:59:43 | com.quarralabs/threads-scraper | Threads Scraper | 1.0.0 | Threads public posts, replies and profiles, with view counts, keyword and accou… |
-| 2026-11-04 15:00:27 | com.dibsresearch/dibsresearch | dibsresearch | 1.0.0 | Company KPIs, financial statements and SEC filing text with sources, plus offic… |
-| 2026-11-04 15:01:17 | [io.github.peterskotte123/lowball](https://github.com/peterskotte123/lowball-plugin) |  | 0.1.1 | What to offer on a Zillow rental: nearby asks, real days listed, cuts, a messag… |
-| 2026-11-04 15:06:19 | [io.github.Kandecho/video-reader](https://github.com/Kandecho/Video-Reader) | Video Reader | 0.1.0 | Local video evidence, transcripts, frames, comments and shared reading queues/h… |
-| 2026-11-04 15:06:20 | [io.github.Kandecho/scroll-agent](https://github.com/Kandecho/Video-Reader) | Scroll Agent | 0.1.0 | Independent Bilibili account, personal feed, inbox and authorized delivery; aut… |
-| 2026-11-04 15:07:50 | com.trycatchjob/trycatchjob | TryCatchJob | 0.1.0 | Track job applications: find the ones to follow up on, add jobs, update status,… |
-| 2026-11-04 15:08:11 | [com.cursivelines/cursivelines](https://github.com/pyxlino/cursivelines-mcp) | CursiveLines | 2.0.0 | Learn cursive and print letters, practice, print practice sheets and write your… |
-| 2026-11-04 15:09:19 | com.askattest/mcp | Attest | 1.0.0 | Find your Attest studies and read their survey results, boards and key findings. |
-| 2026-11-04 15:09:43 | com.nodle/iot-dashboard | Nodle IoT Dashboard | 0.1.0 | Fleets, devices, detections and webhooks on the Nodle Bluetooth Low Energy netw… |
-| 2026-11-04 15:10:10 | [ai.ontoloop/ontoloop](https://github.com/alextangson/ontoloop-mcp) | Ontoloop | 0.1.0 | Team agent collaboration: shared team facts, human-confirmed writes, tasks and… |
-| 2026-11-04 15:12:36 | io.rekord/duneland-financial | Duneland Financial acquisition financin… | 1.0.0 | Model a business acquisition: affordability, DSCR, capital stack, loan, seller… |
-| 2026-11-04 15:12:45 | [io.github.CloudCorpRecords/jobfeed](https://github.com/CloudCorpRecords/jobfeed) |  | 0.1.0 | Live job-board reads across Greenhouse, Lever, Ashby and more: boards, openings… |
-| 2026-11-04 15:13:24 | com.otdeck/otdeck-mcp | OTDeck | 0.1.0 | Read MQTT topics, Modbus registers and OPC UA nodes from AI agents. Read-only. |
-| 2026-11-04 15:14:19 | fr.pocketplanner/pocketplanner | PocketPlanner | 1.0.0 | Let your AI assistant read and fill your finances: budget, statements, payslips… |
-| 2026-11-04 15:14:51 | io.github.mattgauzza/empirical | Empirical | 1.0.0 | Persistent memory for AI agents: save, search and connect context across tools… |
-| 2026-11-04 15:15:45 | com.lemon-agent.app/goora-public-posts | Goora Travel Posts / 旅行帖子 | 1.5.1 | Search and cite Goora travel posts: citywalk, family trips / 旅行攻略. Read-only. |
-| 2026-11-04 15:17:39 | [com.printags/mcp](https://github.com/printags/agent-skills) | Printags | 1.0.0 | Order and track printed PVC, NFC and wood cards: catalogue, prices, artwork and… |
-| 2026-11-04 15:17:39 | [com.printags/shop](https://github.com/printags/agent-skills) | Printags shop | 1.0.0 | Prepare a cart of printed PVC, NFC and wood cards on the Printags shop; no acco… |
-| 2026-11-04 15:17:45 | app.whatsable/mcp | WhatsAble for WhatsApp Business | 1.0.0 | Send WhatsApp messages and templates, manage chats, contacts, broadcasts and AI… |
+| 2026-11-04 15:21:53 | [io.github.tidybytetools/json-shaper-lite](https://github.com/tidybytetools/json-shaper-lite) | json-shaper-lite | 1.1.0 | Turn key: value notes, CSV/TSV and Markdown tables into typed JSON. Plain code,… |
+| 2026-11-04 15:23:47 | [io.github.CloudCorpRecords/traplens](https://github.com/CloudCorpRecords/traplens) |  | 0.1.0 | Dated, verified API breakages for coding agents: look up traps by provider or b… |
+| 2026-11-04 15:25:49 | io.github.withpica/pica-directory | withPICA Directory | 1.13.0 | Public music-rights directory: who wrote and owns a song, its ISWC/ISRC/IPI, an… |
+| 2026-11-04 15:29:20 | [io.github.mayim-mayim/mayim-agent-mcp](https://github.com/mayim-mayim/mayim-agent) | mAG Agent SDK MCP | 2.0.1 | Inspect-only HTTP 402 surface classifier. Keyless, no wallet, no signing, no pa… |
+| 2026-11-04 15:32:10 | [com.kennmarq/kennmarq](https://github.com/Kennmarq-com/kennmarq-agent-kit) | Kennmarq.com | 0.1.0 | Rules and code for marking AI images, video and audio with C2PA and watermarks |
+| 2026-11-04 15:34:31 | [io.github.CloudCorpRecords/appindex](https://github.com/CloudCorpRecords/appindex) |  | 0.1.0 | Live App Store & Google Play data: search, app detail, history, timelines, keyw… |
+| 2026-11-04 15:36:24 | net.pronoic/pronoic | Pronoic | 0.1.1 | Your AI assistant finds the right people: consent-based agent-to-agent introduc… |
+| 2026-11-04 15:37:50 | com.lemon-agent.app/goora-travel-posts | Goora Travel Posts / 旅行帖子 | 1.5.1 | Search and cite Goora travel posts: citywalk, family trips / 旅行攻略. Read-only. |
+| 2026-11-04 15:37:59 | [io.github.jgravelle/jdatamunch-mcp](https://github.com/jgravelle/jdatamunch-mcp) | jDataMunch MCP | 1.32.0 | Tabular data retrieval. Index CSV/Excel, query rows, aggregate. 99%+ savings vs… |
+| 2026-11-04 15:38:06 | com.flyaigh/mcp | FlyAIgh | 1.0.0 | Generate AI images and videos with Seedance, Kling, Veo, Sora, Nano Banana and… |
+| 2026-11-04 15:39:19 | [io.github.tidybytetools/md-chunk-lite](https://github.com/tidybytetools/md-chunk-lite) | md-chunk-lite | 1.0.0 | Split Markdown into chunks by heading. Each chunk keeps its heading path and li… |
+| 2026-11-04 15:40:19 | [org.keepmd/eob-decoder](https://github.com/keepmd-medical/keepmd-eob-decoder-mcp) | KeepMD EOB Decoder | 0.1.0 | Explains codes, insurance terms and math on a medical Explanation of Benefits o… |
+| 2026-11-04 15:41:19 | [com.scenaloom/scenaloom](https://github.com/scenaloom/scenaloom-agent) | Scenaloom | 1.0.0 | Read and edit your screenplays, series and novels in Scenaloom, with edits you… |
+| 2026-11-04 15:41:55 | io.github.akhilrajesh213/google-trends-scraper | Google Trends Scraper & API | 0.1.9 | Google Trends for AI agents, no key: Trending Now, interest over time, rising s… |
+| 2026-11-04 15:44:32 | [io.github.CloudCorpRecords/jobboard](https://github.com/CloudCorpRecords/jobboard) |  | 0.1.0 | Forwarding client for the JobYap job search: postings, matches, companies and d… |
+| 2026-11-04 15:47:30 | [io.github.amineutron/mcp-agent-template](https://github.com/amineutron/mcp-agent-template) | mcp-agent-template | 0.2.0 | Enterprise MCP guard: roles, allowlist policy, human confirmation, JSONL audit… |
+| 2026-11-04 15:48:09 | [in.termal/termalin-web](https://github.com/termalinapp/termalin-plugin) | Termalin | 1.1.0 | Run commands and jobs, edit files, query databases, read metrics; no SSH key is… |
+| 2026-11-04 15:48:17 | [io.github.sirv/sirv-ai-mcp-server](https://github.com/sirv/sirv-ai-mcp-server) | Sirv AI Studio | 1.1.0 | AI image, video and 3D tools, assets, products and Shopify for Sirv AI Studio. |
+| 2026-11-04 15:54:24 | io.github.corent1robert/quickbooks-proadvisors | QuickBooks ProAdvisors Directory | 1.0.0 | Find certified QuickBooks ProAdvisor accounting firms by city with phones and w… |
+| 2026-11-04 15:54:25 | io.github.corent1robert/orias-insurance-intermediaries | ORIAS French Insurance Intermediaries | 1.0.0 | French ORIAS registry: insurance, banking and investment intermediaries with ID… |
+| 2026-11-04 15:54:26 | io.github.corent1robert/safti-real-estate-agents | SAFTI France Real Estate Agents | 1.0.0 | SAFTI France independent real estate advisors with phones, emails, city and sec… |
+| 2026-11-04 15:55:10 | io.github.SegwiseHQ/segwise-mcp | Segwise MCP | 0.2.0 | Advertising and creative-performance analytics for your Segwise organizations. |
+| 2026-11-04 15:59:52 | com.iisrescue/iis-rescue | IIS Rescue | 1.2.3 | Legacy IIS, classic ASP and SQL Server migration: paths, FAQ, end-of-support da… |
+| 2026-11-04 16:00:17 | io.github.gustavmakes/postly | Postly | 1.0.0 | Send printed letters to Danish addresses: regular or registered mail, printed a… |
+| 2026-11-04 16:02:40 | com.craftadoc/craftadoc | Craftadoc | 1.0.0 | Typeset PDFs from templates (invoices, CVs, certificates, invitations), one or… |
+| 2026-11-04 16:05:34 | so.capable/cap-table | Capable Cap Table | 1.0.0 | Your startup's cap table in Claude or ChatGPT: ownership, vesting, 409A, round… |
+| 2026-11-04 16:10:57 | [nl.tachtien/tachtien](https://github.com/simonvreeman/tachtien-mcp) | Tachtien | 0.2.0 | Look up the Dutch word tachtien (uncountably many) and rewrite vague amounts as… |
+| 2026-11-04 16:14:15 | is.jenda/jenda | Jenda | 1.0.0 | Your trips: who's going, the plan, and the costs. File receipts and see who owe… |
+| 2026-11-04 16:15:29 | io.github.MCPYellowPages/mcpyp |  | 1.0.0 | Find and evaluate MCP servers: search the independent MCP Yellow Pages director… |
+| 2026-11-04 16:19:16 | com.flowix/telemetry | Flowix Sim Racing Telemetry | 1.0.0 | AI race engineer and telemetry analysis for AMS2, Assetto Corsa, AC Evo, and Ra… |
+| 2026-11-04 16:19:32 | [ai.peakflo/spaces](https://github.com/peakflo/spaces-mcp) | Spaces by Peakflo | 1.0.0 | Hand off repetitive finance and ops work to cloud agents or people. |
 
 ## Data source
 

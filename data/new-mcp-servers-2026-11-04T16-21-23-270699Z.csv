@@ -1,0 +1,32 @@
+created_at,server,title,version,repository,transports,description
+2026-11-04T15:21:53.269673Z,io.github.tidybytetools/json-shaper-lite,json-shaper-lite,1.1.0,https://github.com/tidybytetools/json-shaper-lite,,"Turn key: value notes, CSV/TSV and Markdown tables into typed JSON. Plain code, no AI, runs locally."
+2026-11-04T15:23:47.210358Z,io.github.CloudCorpRecords/traplens,,0.1.0,https://github.com/CloudCorpRecords/traplens,,"Dated, verified API breakages for coding agents: look up traps by provider or by error text."
+2026-11-04T15:25:49.782877Z,io.github.withpica/pica-directory,withPICA Directory,1.13.0,,streamable-http,"Public music-rights directory: who wrote and owns a song, its ISWC/ISRC/IPI, and licensing asks"
+2026-11-04T15:29:20.198511Z,io.github.mayim-mayim/mayim-agent-mcp,mAG Agent SDK MCP,2.0.1,https://github.com/mayim-mayim/mayim-agent,,"Inspect-only HTTP 402 surface classifier. Keyless, no wallet, no signing, no payments."
+2026-11-04T15:32:10.224498Z,com.kennmarq/kennmarq,Kennmarq.com,0.1.0,https://github.com/Kennmarq-com/kennmarq-agent-kit,streamable-http,"Rules and code for marking AI images, video and audio with C2PA and watermarks"
+2026-11-04T15:34:31.514809Z,io.github.CloudCorpRecords/appindex,,0.1.0,https://github.com/CloudCorpRecords/appindex,,"Live App Store & Google Play data: search, app detail, history, timelines, keyword scores, reviews."
+2026-11-04T15:36:24.479944Z,net.pronoic/pronoic,Pronoic,0.1.1,,streamable-http,Your AI assistant finds the right people: consent-based agent-to-agent introductions. Private beta.
+2026-11-04T15:37:50.912747Z,com.lemon-agent.app/goora-travel-posts,Goora Travel Posts / 旅行帖子,1.5.1,,streamable-http,"Search and cite Goora travel posts: citywalk, family trips / 旅行攻略. Read-only."
+2026-11-04T15:37:59.463273Z,io.github.jgravelle/jdatamunch-mcp,jDataMunch MCP,1.32.0,https://github.com/jgravelle/jdatamunch-mcp,,"Tabular data retrieval. Index CSV/Excel, query rows, aggregate. 99%+ savings vs raw file reads."
+2026-11-04T15:38:06.134345Z,com.flyaigh/mcp,FlyAIgh,1.0.0,,streamable-http,"Generate AI images and videos with Seedance, Kling, Veo, Sora, Nano Banana and more, one balance."
+2026-11-04T15:39:19.835277Z,io.github.tidybytetools/md-chunk-lite,md-chunk-lite,1.0.0,https://github.com/tidybytetools/md-chunk-lite,,Split Markdown into chunks by heading. Each chunk keeps its heading path and line numbers.
+2026-11-04T15:40:19.563922Z,org.keepmd/eob-decoder,KeepMD EOB Decoder,0.1.0,https://github.com/keepmd-medical/keepmd-eob-decoder-mcp,streamable-http,"Explains codes, insurance terms and math on a medical Explanation of Benefits or bill. Read-only."
+2026-11-04T15:41:19.667552Z,com.scenaloom/scenaloom,Scenaloom,1.0.0,https://github.com/scenaloom/scenaloom-agent,streamable-http,"Read and edit your screenplays, series and novels in Scenaloom, with edits you approve."
+2026-11-04T15:41:55.504337Z,io.github.akhilrajesh213/google-trends-scraper,Google Trends Scraper & API,0.1.9,,streamable-http,"Google Trends for AI agents, no key: Trending Now, interest over time, rising searches, Pinterest."
+2026-11-04T15:44:32.633552Z,io.github.CloudCorpRecords/jobboard,,0.1.0,https://github.com/CloudCorpRecords/jobboard,,"Forwarding client for the JobYap job search: postings, matches, companies and discussion threads."
+2026-11-04T15:47:30.260149Z,io.github.amineutron/mcp-agent-template,mcp-agent-template,0.2.0,https://github.com/amineutron/mcp-agent-template,,"Enterprise MCP guard: roles, allowlist policy, human confirmation, JSONL audit log, example tools."
+2026-11-04T15:48:09.330708Z,in.termal/termalin-web,Termalin,1.1.0,https://github.com/termalinapp/termalin-plugin,streamable-http,"Run commands and jobs, edit files, query databases, read metrics; no SSH key is handed to the AI."
+2026-11-04T15:48:17.228398Z,io.github.sirv/sirv-ai-mcp-server,Sirv AI Studio,1.1.0,https://github.com/sirv/sirv-ai-mcp-server,streamable-http,"AI image, video and 3D tools, assets, products and Shopify for Sirv AI Studio."
+2026-11-04T15:54:24.720337Z,io.github.corent1robert/quickbooks-proadvisors,QuickBooks ProAdvisors Directory,1.0.0,,streamable-http,Find certified QuickBooks ProAdvisor accounting firms by city with phones and websites
+2026-11-04T15:54:25.708417Z,io.github.corent1robert/orias-insurance-intermediaries,ORIAS French Insurance Intermediaries,1.0.0,,streamable-http,"French ORIAS registry: insurance, banking and investment intermediaries with ID, status, address"
+2026-11-04T15:54:26.850562Z,io.github.corent1robert/safti-real-estate-agents,SAFTI France Real Estate Agents,1.0.0,,streamable-http,"SAFTI France independent real estate advisors with phones, emails, city and sector, by region"
+2026-11-04T15:55:10.412331Z,io.github.SegwiseHQ/segwise-mcp,Segwise MCP,0.2.0,,streamable-http,Advertising and creative-performance analytics for your Segwise organizations.
+2026-11-04T15:59:52.789769Z,com.iisrescue/iis-rescue,IIS Rescue,1.2.3,,streamable-http,"Legacy IIS, classic ASP and SQL Server migration: paths, FAQ, end-of-support dates, fit assessment."
+2026-11-04T16:00:17.655064Z,io.github.gustavmakes/postly,Postly,1.0.0,,streamable-http,"Send printed letters to Danish addresses: regular or registered mail, printed and posted for you."
+2026-11-04T16:02:40.402848Z,com.craftadoc/craftadoc,Craftadoc,1.0.0,,streamable-http,"Typeset PDFs from templates (invoices, CVs, certificates, invitations), one or many at once."
+2026-11-04T16:05:34.748343Z,so.capable/cap-table,Capable Cap Table,1.0.0,,streamable-http,"Your startup's cap table in Claude or ChatGPT: ownership, vesting, 409A, round models and exits."
+2026-11-04T16:10:57.110761Z,nl.tachtien/tachtien,Tachtien,0.2.0,https://github.com/simonvreeman/tachtien-mcp,streamable-http,Look up the Dutch word tachtien (uncountably many) and rewrite vague amounts as tachtien.
+2026-11-04T16:14:15.448865Z,is.jenda/jenda,Jenda,1.0.0,,streamable-http,"Your trips: who's going, the plan, and the costs. File receipts and see who owes whom."
+2026-11-04T16:15:29.577879Z,io.github.MCPYellowPages/mcpyp,,1.0.0,,streamable-http,Find and evaluate MCP servers: search the independent MCP Yellow Pages directory.
+2026-11-04T16:19:16.530101Z,com.flowix/telemetry,Flowix Sim Racing Telemetry,1.0.0,,sse,"AI race engineer and telemetry analysis for AMS2, Assetto Corsa, AC Evo, and RaceRoom."
+2026-11-04T16:19:32.567629Z,ai.peakflo/spaces,Spaces by Peakflo,1.0.0,https://github.com/peakflo/spaces-mcp,streamable-http,Hand off repetitive finance and ops work to cloud agents or people.
