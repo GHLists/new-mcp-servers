@@ -9,42 +9,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 01:19 UTC
+## Latest list — 2026-11-04 02:20 UTC
 
-New MCP servers published between 2026-11-04 00:21 UTC and 2026-11-04 01:19 UTC.
+New MCP servers published between 2026-11-04 01:19 UTC and 2026-11-04 02:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-04T01-19-45-499516Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-04T02-20-06-608067Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-04 00:22:40 | com.bharatstockapi/bharatstock-mcp | BharatStock | 0.1.4 | Indian stock market data (NSE/BSE) — prices, financials, mutual funds — as AI-a… |
-| 2026-11-04 00:27:45 | com.plixana/crm | Plixana | 1.0.1 | Operate the Plixana CRM from any AI: contacts, deals, quotes, WhatsApp and metr… |
-| 2026-11-04 00:30:23 | [io.github.CloudCorpRecords/banditkeep](https://github.com/CloudCorpRecords/banditkeep) |  | 0.1.0 | Decision memory for agents: bandit campaigns that learn which action works in w… |
-| 2026-11-04 00:31:30 | [eu.orion-finance/orion](https://github.com/maximecernot-crypto/orion-mcp) | ORION — Ingénierie Patrimoniale & Fiduc… | 1.0.0 | Ingénierie patrimoniale, fiducies, organigrammes et fiscalité pour CGP et Famil… |
-| 2026-11-04 00:31:31 | [lu.korpus/korpus](https://github.com/maximecernot-crypto/korpus-mcp) | Korpus — Intelligence Juridique & Fisca… | 1.1.0 | Intelligence juridique et fiscale multi-juridictions (FR, EU, LU, MC, AD) + rés… |
-| 2026-11-04 00:33:59 | [io.github.felhen-ai/mcp-proxmox](https://github.com/felhen-ai/mcp-proxmox) |  | 1.2.4 | Manage Proxmox VE clusters through AI assistants — VMs, containers, and more |
-| 2026-11-04 00:34:00 | [io.github.antonio-mello-ai/mcp-proxmox](https://github.com/felhen-ai/mcp-proxmox) |  | 1.2.4 | Manage Proxmox VE clusters through AI assistants — VMs, containers, and more |
-| 2026-11-04 00:35:23 | [io.github.felhen-ai/mcp-pfsense](https://github.com/felhen-ai/mcp-pfsense) |  | 0.3.1 | Manage pfSense firewalls through AI assistants — rules, DHCP, DNS, and more |
-| 2026-11-04 00:35:24 | [io.github.antonio-mello-ai/mcp-pfsense](https://github.com/felhen-ai/mcp-pfsense) |  | 0.3.1 | Manage pfSense firewalls through AI assistants — rules, DHCP, DNS, and more |
-| 2026-11-04 00:38:26 | io.github.sravanmodugula-solved/nexatron-mcp | Nexatron | 1.0.1 | Ask business questions across your enterprise data in plain English, with Nexat… |
-| 2026-11-04 00:38:31 | [tech.basis1/mcp](https://github.com/brandonkrull/basis) | Basis | 0.1.0 | Parse Excel workbooks, evaluate formulas, trace dependencies and edit workbook… |
-| 2026-11-04 00:39:01 | io.github.miningstore/average-rent | Average Rent | 1.0.3 | Compare US apartment asking rents, market trends, and price cuts. Sign in with… |
-| 2026-11-04 00:40:38 | [io.github.projects-betanull/painel-emendas](https://github.com/projects-betanull/painel-emendas) | Emendas parlamentares do Brasil | 1.0.0 | Brazilian federal budget amendments by municipality, author and recipient. Paid… |
-| 2026-11-04 00:42:19 | work.fieldsmith/fieldsmith | Fieldsmith | 1.0.0 | Run a field-service business from chat: schedule, jobs, customers, invoices and… |
-| 2026-11-04 00:43:10 | com.khavion/architecture-review-mcp | Khavion Architecture Review | 0.1.0 | Cited cloud best practices and a rules-based review of Terraform, CloudFormatio… |
-| 2026-11-04 00:46:55 | [dev.tsquare/tsquare](https://github.com/tsquare-js/tsquare) | tsquare wireframes | 0.14.2 | Draws UI wireframes from a small text language: multi-screen boards with notes… |
-| 2026-11-04 00:58:08 | [agency.ottobot/licensed-house-painters](https://github.com/modelcontextprotocol/registry) | Licensed House Painters | 0.1.3 | Find licensed house painters in 11 US states, with dated license status from st… |
-| 2026-11-04 00:58:20 | dev.globalcell/mcp | GLOBALCELL eSIM | 2.1.0 | Travel eSIMs for 130+ countries: plan a trip, compare plans, buy, install and d… |
-| 2026-11-04 01:02:42 | [io.github.CloudCorpRecords/poworacle](https://github.com/CloudCorpRecords/poworacle) |  | 0.1.0 | Proof-of-work mining oracle: solo-mining odds, cost of production, network stat… |
-| 2026-11-04 01:03:42 | gg.games/games-gg | GAMES.GG | 2.0.0 | Game guides, reviews, news, deals and release dates, plus saved games and redee… |
-| 2026-11-04 01:06:30 | [day.aivideo/video](https://github.com/lumorabuild/aivideo-mcp) | AIVideo.day | 1.0.0 | Make 2D videos and 3D films from a written brief, in your AIVideo.day account. |
-| 2026-11-04 01:08:06 | [io.github.marcellosso/localhost](https://github.com/marcellosso/localhost) | localhost app | 0.2.0 | Start, stop and read logs of your local dev servers from Claude Code, Cursor an… |
-| 2026-11-04 01:08:11 | [io.github.vpatel9202/glovebox](https://github.com/vpatel9202/glovebox) | glovebox | 0.3.2 | Computer use for coding agents on macOS: JS scripts, accessibility diffs, backg… |
-| 2026-11-04 01:09:04 | finance.keepup/keepup | KeepUp | 1.2.0 | Net worth percentiles by country and age, and how KeepUp users compare. Read-on… |
-| 2026-11-04 01:10:49 | [io.github.johnisanerd/youtube-shorts](https://github.com/johnisanerd/Apify-YouTube-Shorts-API) |  | 1.0.0 | YouTube Shorts from any channel: views, likes, comments, and hashtags, via a ho… |
-| 2026-11-04 01:13:33 | app.pixelary/mcp | Pixelary | 1.0.0 | Meta, TikTok and ChatGPT Ads conversion tracking: stats, event log, audits and… |
-| 2026-11-04 01:15:05 | com.strg.mcp/mcp | STRG.com s3-compatible object storage f… | 1.0.0 | An MCP server for the STRG.com s3-compatible object storage network for all man… |
-| 2026-11-04 01:17:14 | [io.github.CloudCorpRecords/appworth](https://github.com/CloudCorpRecords/appworth) |  | 0.1.0 | iOS App Store revenue and download estimates with confidence labels, for any ap… |
+| 2026-11-04 01:23:33 | computer.freemoney/credits | freemoney.computer | 1.0.0 | Find free AI, GPU and cloud credits for new accounts, students, startups and op… |
+| 2026-11-04 01:28:11 | dev.moneytools/tools | MoneyTools Tools | 1.0.0 | 25 read-only agent utilities: token safety, approvals, tx decode, EIP-712 risk,… |
+| 2026-11-04 01:31:40 | io.github.athahar/offwegosim | OffWeGoSIM | 1.0.0 | Search travel eSIM plans, compare current USD prices, and get checkout links. N… |
+| 2026-11-04 01:33:35 | [io.snowkit/snowkit](https://github.com/snowkit-io/snowkit) | Snowkit | 0.1.3 | Private tools that run on your computer: PDFs, QR codes, JSON, SQL, text, colou… |
+| 2026-11-04 01:34:11 | app.gamegene/gamegene | GameGene | 1.0.0 | Sourced game design precedents: where a mechanic came from, why designers chose… |
+| 2026-11-04 01:34:55 | com.secsift/secsift | SECSift | 1.0.0 | Read, search, and compare SEC EDGAR filings, pull tables, and run AI analysis f… |
+| 2026-11-04 01:38:25 | ai.rivul/rivul | Rivul | 1.0.0 | Search 300M+ scholarly paper records and read paper details. Free; OAuth sign-i… |
+| 2026-11-04 01:38:41 | ai.resolve/resolve | Resolve | 0.2.0 | Investigate alerts, run root-cause analysis, and ask production questions with… |
+| 2026-11-04 01:45:03 | [io.github.CloudCorpRecords/drawmath](https://github.com/CloudCorpRecords/drawmath) |  | 0.1.0 | Metric-imperial conversion for technical drawings: dimensions, tolerances, thre… |
+| 2026-11-04 01:45:42 | com.crystlquant/crystlquant | CrystlQuant | 1.1.1 | Sports win chances before every game, next to the market's, graded after. NFL,… |
+| 2026-11-04 01:46:42 | com.npilayer/npilayer | NPILayer | 1.0.0 | Look up U.S. healthcare providers by NPI, name, specialty and ZIP radius from C… |
+| 2026-11-04 01:50:24 | dev.moneytools/partners | MoneyTools AI Sales Partner program | 1.0.0 | Affiliate program for AI agents: 20% of net revenue for 12 months; disclose you… |
+| 2026-11-04 01:59:30 | [io.github.pipeworx-io/oxylabs](https://github.com/pipeworx-io/mcp-oxylabs) | Oxylabs | 0.2.1 | Oxylabs MCP — Oxylabs Web Scraper API (oxylabs.io) |
+| 2026-11-04 01:59:36 | [io.github.pipeworx-io/pa-dmv](https://github.com/pipeworx-io/mcp-pa-dmv) | Pa Dmv | 0.2.1 | Pennsylvania DMV MCP — registered vehicles and electric-vehicle adoption by cou… |
+| 2026-11-04 02:01:02 | com.0xpi.ringback/missed-call-text-back | Ringback: Missed-Call Text-Back for Con… | 1.0.0 | Missed-call text-back for contractors: missed-call cost math, how it works, own… |
+| 2026-11-04 02:01:44 | [io.github.pipeworx-io/password](https://github.com/pipeworx-io/mcp-password) | Password | 0.2.1 | Password strength analysis MCP. |
+| 2026-11-04 02:03:18 | [io.github.pipeworx-io/peopledatalabs](https://github.com/pipeworx-io/mcp-peopledatalabs) | Peopledatalabs | 0.2.1 | People Data Labs MCP — wraps the PDL person/company enrichment API (peopledatal… |
+| 2026-11-04 02:03:54 | io.github.Cora77-ops/kingy-facts | Kingy AI Facts | 0.2.2 | Dated, sourced AI facts from Kingy AI: API prices, plans, usage limits, retirem… |
+| 2026-11-04 02:04:26 | [io.github.pipeworx-io/pennsylvania-code](https://github.com/pipeworx-io/mcp-pennsylvania-code) | Pennsylvania Code | 0.2.1 | Pennsylvania Consolidated Statutes — state statutes by citation. |
+| 2026-11-04 02:04:36 | io.github.AyodejiOO/plain-ayi | Plain-AyI | 1.0.0 | Search a plain-English guide to open-source AI projects: what each does, cost a… |
+| 2026-11-04 02:04:44 | [io.github.pipeworx-io/peppol](https://github.com/pipeworx-io/mcp-peppol) | Peppol | 0.2.1 | Peppol participant lookup (SML + SMP + Peppol Directory). |
+| 2026-11-04 02:04:55 | [io.github.pipeworx-io/photon](https://github.com/pipeworx-io/mcp-photon) | Photon | 0.2.1 | Photon MCP — OSM geocoder |
+| 2026-11-04 02:08:06 | [io.github.pipeworx-io/podcast-parser](https://github.com/pipeworx-io/mcp-podcast-parser) | Podcast Parser | 0.2.1 | podcast-parser (CanonCannon) — what gets repeated across 162 tracked podcasts. |
+| 2026-11-04 02:08:28 | io.escrova/escrova | Escrova | 1.0.0 | Search Amazon, eBay, Walmart and more and compare prices. Agents can search, no… |
+| 2026-11-04 02:09:16 | [io.github.pipeworx-io/podcastindex](https://github.com/pipeworx-io/mcp-podcastindex) | Podcastindex | 0.2.1 | Podcast Index MCP — wraps the Podcast Index API (podcastindex.org) |
+| 2026-11-04 02:14:39 | [io.github.CloudCorpRecords/brandcheck](https://github.com/CloudCorpRecords/brandcheck) |  | 0.1.0 | Measure whether a brand shows up when buyers ask AI assistants for a recommenda… |
+| 2026-11-04 02:14:40 | [computer.cool/mcp](https://github.com/The-Money-Company-Limited/cool-computers) | Cool Computers | 1.0.0 | Put what you make online, get comments on it, and give it a cloud computer when… |
+| 2026-11-04 02:16:31 | com.jaxoanalytics/jaxo | Jaxo Analytics | 1.0.0 | Ask about your youth soccer team's games, half by half, and make players' highl… |
+| 2026-11-04 02:18:35 | com.queenstowntourism/travel | Queenstown Tourism | 1.4.0 | Sourced facts on Queenstown, Fiordland and Wanaka: activities, walks, routes, t… |
+| 2026-11-04 02:19:07 | [io.github.jdkabattles/forgingstack-mandate-check](https://github.com/jdkabattles/forgingstack-mandate-check) | ForgingStack Mandate Check | 0.2.1 | Before your agent acts, check its mandate. One call, one receipt. |
 
 ## Data source
 

@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-11-04T01:23:33.294193Z,computer.freemoney/credits,freemoney.computer,1.0.0,,streamable-http,"Find free AI, GPU and cloud credits for new accounts, students, startups and open source."
+2026-11-04T01:28:11.553554Z,dev.moneytools/tools,MoneyTools Tools,1.0.0,,streamable-http,"25 read-only agent utilities: token safety, approvals, tx decode, EIP-712 risk, DNS, time; free tier"
+2026-11-04T01:31:40.080688Z,io.github.athahar/offwegosim,OffWeGoSIM,1.0.0,,streamable-http,"Search travel eSIM plans, compare current USD prices, and get checkout links. No API key required."
+2026-11-04T01:33:35.761568Z,io.snowkit/snowkit,Snowkit,0.1.3,https://github.com/snowkit-io/snowkit,,"Private tools that run on your computer: PDFs, QR codes, JSON, SQL, text, colours and cron."
+2026-11-04T01:34:11.705084Z,app.gamegene/gamegene,GameGene,1.0.0,,streamable-http,"Sourced game design precedents: where a mechanic came from, why designers chose it, who reused it."
+2026-11-04T01:34:55.321057Z,com.secsift/secsift,SECSift,1.0.0,,streamable-http,"Read, search, and compare SEC EDGAR filings, pull tables, and run AI analysis from any MCP client."
+2026-11-04T01:38:25.076116Z,ai.rivul/rivul,Rivul,1.0.0,,streamable-http,Search 300M+ scholarly paper records and read paper details. Free; OAuth sign-in.
+2026-11-04T01:38:41.911638Z,ai.resolve/resolve,Resolve,0.2.0,,streamable-http,"Investigate alerts, run root-cause analysis, and ask production questions with Resolve."
+2026-11-04T01:45:03.722405Z,io.github.CloudCorpRecords/drawmath,,0.1.0,https://github.com/CloudCorpRecords/drawmath,,"Metric-imperial conversion for technical drawings: dimensions, tolerances, threads, roughness."
+2026-11-04T01:45:42.374341Z,com.crystlquant/crystlquant,CrystlQuant,1.1.1,,streamable-http,"Sports win chances before every game, next to the market's, graded after. NFL, NBA, soccer, UFC."
+2026-11-04T01:46:42.895194Z,com.npilayer/npilayer,NPILayer,1.0.0,,streamable-http,"Look up U.S. healthcare providers by NPI, name, specialty and ZIP radius from CMS NPPES data."
+2026-11-04T01:50:24.828843Z,dev.moneytools/partners,MoneyTools AI Sales Partner program,1.0.0,,streamable-http,Affiliate program for AI agents: 20% of net revenue for 12 months; disclose you are paid
+2026-11-04T01:59:30.709869Z,io.github.pipeworx-io/oxylabs,Oxylabs,0.2.1,https://github.com/pipeworx-io/mcp-oxylabs,streamable-http,Oxylabs MCP — Oxylabs Web Scraper API (oxylabs.io)
+2026-11-04T01:59:36.004825Z,io.github.pipeworx-io/pa-dmv,Pa Dmv,0.2.1,https://github.com/pipeworx-io/mcp-pa-dmv,streamable-http,Pennsylvania DMV MCP — registered vehicles and electric-vehicle adoption by county and by ZIP…
+2026-11-04T02:01:02.700945Z,com.0xpi.ringback/missed-call-text-back,Ringback: Missed-Call Text-Back for Contractors,1.0.0,,streamable-http,"Missed-call text-back for contractors: missed-call cost math, how it works, owners read their calls."
+2026-11-04T02:01:44.332491Z,io.github.pipeworx-io/password,Password,0.2.1,https://github.com/pipeworx-io/mcp-password,streamable-http,Password strength analysis MCP.
+2026-11-04T02:03:18.417709Z,io.github.pipeworx-io/peopledatalabs,Peopledatalabs,0.2.1,https://github.com/pipeworx-io/mcp-peopledatalabs,streamable-http,People Data Labs MCP — wraps the PDL person/company enrichment API (peopledatalabs.com).
+2026-11-04T02:03:54.990947Z,io.github.Cora77-ops/kingy-facts,Kingy AI Facts,0.2.2,,streamable-http,"Dated, sourced AI facts from Kingy AI: API prices, plans, usage limits, retirements and shutdowns."
+2026-11-04T02:04:26.175322Z,io.github.pipeworx-io/pennsylvania-code,Pennsylvania Code,0.2.1,https://github.com/pipeworx-io/mcp-pennsylvania-code,streamable-http,Pennsylvania Consolidated Statutes — state statutes by citation.
+2026-11-04T02:04:36.305404Z,io.github.AyodejiOO/plain-ayi,Plain-AyI,1.0.0,,streamable-http,"Search a plain-English guide to open-source AI projects: what each does, cost and privacy."
+2026-11-04T02:04:44.576161Z,io.github.pipeworx-io/peppol,Peppol,0.2.1,https://github.com/pipeworx-io/mcp-peppol,streamable-http,Peppol participant lookup (SML + SMP + Peppol Directory).
+2026-11-04T02:04:55.820165Z,io.github.pipeworx-io/photon,Photon,0.2.1,https://github.com/pipeworx-io/mcp-photon,streamable-http,Photon MCP — OSM geocoder
+2026-11-04T02:08:06.137535Z,io.github.pipeworx-io/podcast-parser,Podcast Parser,0.2.1,https://github.com/pipeworx-io/mcp-podcast-parser,streamable-http,podcast-parser (CanonCannon) — what gets repeated across 162 tracked podcasts.
+2026-11-04T02:08:28.655935Z,io.escrova/escrova,Escrova,1.0.0,,streamable-http,"Search Amazon, eBay, Walmart and more and compare prices. Agents can search, not buy."
+2026-11-04T02:09:16.94245Z,io.github.pipeworx-io/podcastindex,Podcastindex,0.2.1,https://github.com/pipeworx-io/mcp-podcastindex,streamable-http,Podcast Index MCP — wraps the Podcast Index API (podcastindex.org)
+2026-11-04T02:14:39.071872Z,io.github.CloudCorpRecords/brandcheck,,0.1.0,https://github.com/CloudCorpRecords/brandcheck,,Measure whether a brand shows up when buyers ask AI assistants for a recommendation.
+2026-11-04T02:14:40.569023Z,computer.cool/mcp,Cool Computers,1.0.0,https://github.com/The-Money-Company-Limited/cool-computers,streamable-http,"Put what you make online, get comments on it, and give it a cloud computer when it needs one."
+2026-11-04T02:16:31.634107Z,com.jaxoanalytics/jaxo,Jaxo Analytics,1.0.0,,streamable-http,"Ask about your youth soccer team's games, half by half, and make players' highlight reels."
+2026-11-04T02:18:35.242095Z,com.queenstowntourism/travel,Queenstown Tourism,1.4.0,,streamable-http,"Sourced facts on Queenstown, Fiordland and Wanaka: activities, walks, routes, tours, places to eat."
+2026-11-04T02:19:07.697632Z,io.github.jdkabattles/forgingstack-mandate-check,ForgingStack Mandate Check,0.2.1,https://github.com/jdkabattles/forgingstack-mandate-check,,"Before your agent acts, check its mandate. One call, one receipt."
