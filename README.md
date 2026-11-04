@@ -9,48 +9,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 23:19 UTC
+## Latest list — 2026-11-04 00:21 UTC
 
-New MCP servers published between 2026-11-03 22:20 UTC and 2026-11-03 23:19 UTC.
+New MCP servers published between 2026-11-03 23:19 UTC and 2026-11-04 00:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-03T23-19-37-110815Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-04T00-21-27-304724Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-03 22:21:51 | com.casco/cve-intelligence | CVE Intelligence by Casco | 1.0.0 | Free CVE lookup, dependency vulnerability checks, and CVE updates. No signup or… |
-| 2026-11-03 22:21:58 | com.birthdaypaper/birthdaypaper | Birthday Paper | 1.0.0 | What happened on any date since 1946: headlines, number-one hit, birthday twins… |
-| 2026-11-03 22:22:03 | com.forevenza.services/requirements-desk | Requirements Desk | 1.0.0 | Company, sanctions, SEC and federal award lookups, document conversion, and req… |
-| 2026-11-03 22:22:20 | tech.ghostpilotai/ghostpilot | Ghostpilot | 1.0.0 | Read-only facts about Ghostpilot, the AI interview copilot for Mac: product, pr… |
-| 2026-11-03 22:25:49 | de.fiperly/fiperly | Fiperly | 1.0.0 | Fiperly: AI websites, Agent-Ready, KI-Gedaechtnis, talks and the book on AI. Re… |
-| 2026-11-03 22:25:50 | com.jobandstay/jobandstay | Job & Stay | 1.0.0 | Jobs and apprenticeships with accommodation in Europe: pay, housing, how to app… |
-| 2026-11-03 22:26:18 | [money.smpl/simple-balance](https://github.com/thtmnisamnstr/simple-balance) | Simple Balance | 1.0.0 | Free budget app and spending tracker: ask about your money, and queue or record… |
-| 2026-11-03 22:29:03 | de.kipode/kipode | KIPODE - KI Politik Deutschland | 1.0.0 | Germany 2026 in figures with sources: AI, economy, labour, energy, debt, pensio… |
-| 2026-11-03 22:32:11 | io.github.macklpgr/trakkr-mcp | Trakkr | 0.27.0 | AI visibility analytics for brands across citations, prompts, competitors, rese… |
-| 2026-11-03 22:34:54 | ru.agi-iri/iri-lab | IRI Lab | 1.0.0 | AI model ratings, Gateway prices in rubles, subscriptions and AI jobs in Russia… |
-| 2026-11-03 22:35:48 | com.glokki/cms | glokki CMS | 1.0.0 | Create and publish CMS pages from defineBlock() blocks. Open the editor after d… |
-| 2026-11-03 22:42:11 | [io.github.AndreMuraro/warehouse-context-mcp](https://github.com/AndreMuraro/warehouse-context-mcp) | Warehouse Context | 0.4.0 | Governed warehouse context for agents: docs, lineage, freshness and read-only,… |
-| 2026-11-03 22:46:00 | [io.github.collectivewinca/frontier-signal-mcp](https://github.com/collectivewinca/frontier-signal-mcp) | Frontier Signal | 0.2.0 | Query verified AI data-broker buyer programmes and demand signals. |
-| 2026-11-03 22:49:06 | com.notecardhq/notecardhq | notecardHQ | 1.0.0 | Send real handwritten cards from an agent: a robot writes each with a real pen,… |
-| 2026-11-03 22:50:41 | [io.github.promptwheel-ai/logbook](https://github.com/promptwheel-ai/logbook) |  | 0.6.0 | Git-history memory for coding agents: reverts, weakened tests, hot spots, and r… |
-| 2026-11-03 22:52:04 | [io.github.picomcp/picomcp-docs](https://github.com/picomcp/picomcp) | picomcp docs | 0.1.0 | Search and read the picomcp docs while your agent writes TypeScript MCP servers. |
-| 2026-11-03 22:54:54 | [com.antithesis/snouty](https://github.com/antithesishq/snouty) | snouty | 0.9.0-rc.3 | Launch and triage Antithesis runs, run commands at a moment of a run, and searc… |
-| 2026-11-03 22:57:23 | [io.github.wrenfielddata/ai-search-visibility](https://github.com/wrenfielddata/wrenfield-mcp) | Wrenfield AI Search Visibility | 1.0.6 | Track brand mentions, share of voice and cited URLs in ChatGPT, Perplexity, Gem… |
-| 2026-11-03 22:57:23 | [io.github.wrenfielddata/local-leads](https://github.com/wrenfielddata/wrenfield-mcp) | Wrenfield Local Leads | 1.0.6 | Company data for AI agents: domain to company, name to domain, enrichment, cont… |
-| 2026-11-03 22:57:23 | [io.github.wrenfielddata/seo-data](https://github.com/wrenfielddata/wrenfield-mcp) | Wrenfield SEO Data | 1.0.6 | Keyword search volume, CPC, domain authority, organic traffic, Google Trends an… |
-| 2026-11-03 22:58:22 | [sh.logoapi/logos](https://github.com/AlonHarpaz/logo-api) | LogoAPI.sh | 1.0.0 | Company logos by domain as SVG or PNG URLs. Free, no API key. Search brands, ge… |
-| 2026-11-03 22:59:38 | [io.github.Hashtagsmile/sl-mcp](https://github.com/Hashtagsmile/sl-mcp) | SL – Stockholm public transport | 0.2.0 | Stockholm public transport (SL): live departures, trips to addresses with exits… |
-| 2026-11-03 22:59:43 | [io.github.wrenfielddata/company-data](https://github.com/wrenfielddata/wrenfield-mcp) | Wrenfield Company Data | 1.0.7 | Verified company lookup: name to domain, domain or email to company, firmograph… |
-| 2026-11-03 23:01:38 | [com.fastentityfiling/usdot-compliance-portal](https://github.com/drewTuzson/verifygrid-mcp) | Fast Entity Filing USDOT BOC-3 & 2027 U… | 1.0.0 | 50-state statutory filing lookup for FMCSA Form BOC-3, 2027 UCR, LLC dissolutio… |
-| 2026-11-03 23:01:53 | io.cronitor/cronitor | Cronitor | 1.0.0 | Manage Cronitor monitors, issues, status pages, and metrics for jobs, uptime, a… |
-| 2026-11-03 23:02:45 | [io.verifygrid/b2b-compliance-verifier](https://github.com/drewTuzson/verifygrid-mcp) | VerifyGrid B2B Compliance & Entity Veri… | 1.0.0 | Sub-50ms verification for FMCSA USDOT/MC, CMS NPI, OFAC/OIG/SAM sanctions, and… |
-| 2026-11-03 23:03:54 | com.jensing/jensing | Jensing | 1.0.0 | Public facts about Jensing: its companies and how it helps businesses free up t… |
-| 2026-11-03 23:05:32 | [com.halffee/coinrebate](https://github.com/skheman2026-sketch/coinrebate-mcp-server) |  | 2.5.2 | Compliance-filtered crypto exchange fee comparison and rebate-link routing for… |
-| 2026-11-03 23:05:39 | [io.github.CloudCorpRecords/geoscore](https://github.com/CloudCorpRecords/geoscore) |  | 0.1.0 | AI-crawler readiness checks and fixes: GEO score, robots.txt, schema.org, FAQ a… |
-| 2026-11-03 23:05:44 | [io.github.MrGo2/icloud-mcp](https://github.com/MrGo2/icloud-mcp) | iCloud MCP | 2.1.4 | Apple Mail, Calendar, Contacts, Reminders, Notes, Messages and Safari via Apple… |
-| 2026-11-03 23:06:44 | [io.github.aidev-iprokszin/ipcam-mcp](https://github.com/aidev-iprokszin/ipcam-mcp) | IP cameras (ONVIF/RTSP) | 0.3.2 | MCP server for local IP cameras (ONVIF/RTSP): snapshots, recordings, pan/tilt,… |
-| 2026-11-03 23:08:41 | [io.github.commonpost/thunderbird-mcp](https://github.com/commonpost/thunderbird-mcp) | Commonpost MCP for Thunderbird | 0.18.0 | Mail, contacts, calendar and filters of Thunderbird for AI assistants, through… |
-| 2026-11-03 23:10:28 | nl.opahaardhout/opahaardhout | Opa Haardhout | 1.0.0 | Find firewood sellers near any Dutch postcode and compare price bands per wood… |
-| 2026-11-03 23:17:13 | app.vercel.clearpage-x402/clearpage | ClearPage | 1.0.0 | Web page to clean Markdown and metadata for agents. Free daily trial, then x402… |
+| 2026-11-03 23:22:00 | ai.agentasy/cronjob | agent-cronjob | 0.0.1 | Scheduled, HMAC-signed, retried webhook triggers for AI agents. No account: sel… |
+| 2026-11-03 23:23:21 | dev.workers.manhliemcn4euwlu.llmrt-companion/llm-red-team-scanner | LLM Security Scanner: Red-Team, Jailbre… | 1.1.0 | 35-probe LLM/agent security red-team scan (injection, jailbreak, MCP abuse) wit… |
+| 2026-11-03 23:23:50 | [io.github.CloudCorpRecords/ronfix](https://github.com/CloudCorpRecords/ronfix) |  | 0.1.0 | BNR reference exchange rates: the rate in force on any day since 2005, conversi… |
+| 2026-11-03 23:25:28 | [io.github.CloudCorpRecords/dishmath](https://github.com/CloudCorpRecords/dishmath) |  | 0.1.0 | Local restaurant math: food cost, menu price with VAT, recipe scaling and the E… |
+| 2026-11-03 23:27:06 | plus.datax/datax | DataX | 1.0.0 | Enriquecimento de CPF e CNPJ no Brasil: telefone e e-mail dos sócios, ficha cad… |
+| 2026-11-03 23:27:24 | school.agenticdesign/courses | Agentic Design School | 1.0.0 | List Agentic Design School courses, read a public outline, and open the course… |
+| 2026-11-03 23:28:43 | [io.github.n8peace/plain-ballot](https://github.com/n8peace/plainballot) | Plain Ballot | 1.0.0 | A U.S. voter's ballot by address, with an exact quote and source behind every c… |
+| 2026-11-03 23:28:48 | dev.workers.waitlab.imashime/imashime | Imashime | 0.1.0 | Search Japanese-language lessons on observed AI mistakes (read-only); optional… |
+| 2026-11-03 23:29:15 | dev.workers.manhliemcn4euwlu.llmrt-companion/mcp-agent-security | AI Agent Security Scanner | 1.1.0 | Security scanner for AI agents and MCP servers: injection, jailbreak, tool abus… |
+| 2026-11-03 23:29:16 | dev.workers.manhliemcn4euwlu.llmrt-companion/mcp-audit | AI Agent Security Audit | 1.1.0 | AI agent security audit: red-team probes plus missing-guardrail review with fix… |
+| 2026-11-03 23:29:17 | dev.workers.manhliemcn4euwlu.llmrt-companion/mcp-jailbreak | Jailbreak Resistance Tester | 1.1.0 | Jailbreak resistance tester for LLM agents: DAN, role-play, encoding bypass pro… |
+| 2026-11-03 23:29:18 | dev.workers.manhliemcn4euwlu.llmrt-companion/mcp-prompt-injection | Prompt Injection Detector | 1.1.0 | Prompt injection and system-prompt extraction testing for LLM agents. Free 8-pr… |
+| 2026-11-03 23:29:19 | dev.workers.manhliemcn4euwlu.llmrt-companion/mcp-security | LLM Security Scanner | 1.1.0 | LLM agent security scan: injection, jailbreak, tool abuse probes plus guardrail… |
+| 2026-11-03 23:32:57 | com.specgit/docs-agent | specgit agent collaboration | 1.0.0 | Read, edit, and comment on the docs your team keeps in GitHub, live. |
+| 2026-11-03 23:33:44 | [com.lookupd/lookupd](https://github.com/lookupd/lookupd) | lookupd | 0.1.2 | Find the right MCP server or skill for a task: ranked, install-ready results fr… |
+| 2026-11-03 23:33:50 | vegas.remote/remote-vegas | Remote Vegas | 1.0.0 | Remote work spots in Las Vegas: cafés, lobbies, libraries with Wi-Fi, outlets,… |
+| 2026-11-03 23:35:28 | [io.github.AeLui/jellyfin-plugin-mcp](https://github.com/AeLui/jellyfin-plugin-mcp) | Jellyfin MCP Server | 0.1.0 | Jellyfin plugin: search, play and manage your media library from AI assistants,… |
+| 2026-11-03 23:36:32 | [ad.apogee/apogee](https://github.com/ApogeeGIT/apogee-mcp) | Apogee: Bulk Ad Launcher for Meta, TikT… | 1.1.0 | Bulk-launch and manage ads across many Meta, TikTok and Snapchat ad accounts fo… |
+| 2026-11-03 23:36:34 | io.chainchoice/rankings | ChainChoice published rankings | 1.3.0 | Read-only ChainChoice rankings: sourced, dated comparisons of crypto services,… |
+| 2026-11-03 23:37:33 | [io.github.fabianimv/madeleine](https://github.com/fabianimv/madeleine) | madeleine | 0.1.0 | Involuntary memory for agents: time, place, sound and IoT cues surface memories… |
+| 2026-11-03 23:37:48 | [io.github.maximecernot-crypto/orion](https://github.com/maximecernot-crypto/orion-mcp) | ORION ? Ing?nierie Patrimoniale & Fiduc… | 1.0.0 | Ing?nierie patrimoniale, fiducies, organigrammes et fiscalit? pour CGP et Famil… |
+| 2026-11-03 23:37:52 | [io.github.maximecernot-crypto/korpus](https://github.com/maximecernot-crypto/korpus-mcp) | Korpus ? Intelligence Juridique & Fisca… | 1.1.0 | Intelligence juridique et fiscale multi-juridictions (FR, EU, LU, MC, AD) + r?s… |
+| 2026-11-03 23:38:16 | [io.github.Neanderthal/unix-pass-mcp](https://github.com/Neanderthal/unix-pass-mcp) | Unix pass | 0.2.0 | Local MCP access to Unix pass/GPG with read-only defaults, path scopes, and TOT… |
+| 2026-11-03 23:39:54 | [app.heatwayve/mcp](https://github.com/abraraaa/project-forge) | Heatwayve | 1.0.0 | Read-only Heatwayve training tools: programme, sessions, loads, lift history. |
+| 2026-11-03 23:39:59 | com.qr-cloud/qr-codes | QR Cloud | 1.0.0 | Dynamic QR codes, short links and QR Reviews (Google review QR) with scan stati… |
+| 2026-11-03 23:40:04 | com.brand-warden/brandwarden | Brandwarden | 1.0.0 | Your company's approved brand rules and logo files, for ChatGPT, Claude and oth… |
+| 2026-11-03 23:45:31 | [io.github.CloudCorpRecords/visaroute](https://github.com/CloudCorpRecords/visaroute) |  | 0.1.0 | Passport visa, entry and transit requirements for any country pair, with offici… |
+| 2026-11-03 23:47:37 | [io.github.CloudCorpRecords/grouppulse](https://github.com/CloudCorpRecords/grouppulse) |  | 0.1.0 | Read-only public Telegram group statistics: leaderboards, activity trends, leve… |
+| 2026-11-03 23:54:14 | ai.teneks/teneks | TENEKS | 1.0.0 | Find recorded calls and meetings, read transcripts, and ask questions grounded… |
+| 2026-11-04 00:02:07 | io.github.babo072/kfestivals | Korea Festival Guide | 1.0.0 | South Korean festivals by region and date, K-pop concerts, weekly festival pick… |
+| 2026-11-04 00:02:28 | [io.github.GeminiGeorge22/spotify-play-count-mcp](https://github.com/GeminiGeorge22/spotify-play-count-mcp) | Spotify Play Count MCP: Plays & Monthly… | 1.0.0 | Spotify play counts for any track, album, artist or playlist, plus monthly list… |
+| 2026-11-04 00:03:47 | [trade.onestop/onestop-mcp](https://github.com/OneStop-Labs/onestop-mcp) | onestop | 1.0.2 | Gasless Solana swaps, market-cap limit, trailing and TWAP orders, and plans. Yo… |
+| 2026-11-04 00:07:19 | [io.github.mazulo/leis-mcp](https://github.com/mazulo/leis-mcp) | Leis do Brasil | 0.2.0 | Busca e cita o texto oficial de mais de 1,2 milhão de normas brasileiras (ctres… |
+| 2026-11-04 00:08:52 | [com.getmarsell/marsell](https://github.com/Marsell-Official/mcp) | Marsell | 1.0.0 | Manage content, marketing and sales in Marsell with your own AI. Read work and… |
+| 2026-11-04 00:13:52 | [io.github.ankithHardageriIndian/bharatstock-mcp](https://github.com/ankithHardageriIndian/bharatstock-api) | BharatStock | 0.1.4 | Indian stock market data (NSE/BSE) — prices, financials, mutual funds — as AI-a… |
+| 2026-11-04 00:14:26 | [io.github.BITRATE-Labs/vrchat-mcp](https://github.com/BITRATE-Labs/vrchat-mcp) | VRChat MCP | 0.1.16 | MCP server for VRChat friends, worlds, groups, events, notifications, and VRCX… |
+| 2026-11-04 00:14:36 | com.prontofax/prontofax |  | 1.0.0 | Verified US government fax numbers and send a fax from the chat. No account, $2… |
 
 ## Data source
 
