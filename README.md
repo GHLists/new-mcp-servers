@@ -9,33 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 06:21 UTC
+## Latest list — 2026-11-04 07:19 UTC
 
-New MCP servers published between 2026-11-04 05:19 UTC and 2026-11-04 06:21 UTC.
+New MCP servers published between 2026-11-04 06:21 UTC and 2026-11-04 07:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-04T06-21-14-533181Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-04T07-19-40-181801Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-04 05:20:39 | io.exactmatch.mcp/exact-match | Exact Match | 2.0.0 | US consumer and business audience data: build audiences, match and enrich recor… |
-| 2026-11-04 05:22:44 | [io.github.phillipboesger/polarion-mcp](https://github.com/phillipboesger/polarion-mcp) |  | 1.5.0 | Polarion ALM MCP server for requirements, LiveDocs, work items, traceability an… |
-| 2026-11-04 05:24:11 | fr.fluentoo/toeic | Fluentoo TOEIC | 1.0.0 | Préparation au TOEIC : score et niveau CECRL, format des 7 parties, guides et t… |
-| 2026-11-04 05:31:59 | io.github.Nero-Engine/eu-tender-bid-matcher | EU Tenders Finder & Bid Matcher | 0.1.0 | Open EU tenders from TED scored against your CPV codes and keywords, with past… |
-| 2026-11-04 05:34:20 | travel.trip720/trip720 | Trip720 | 1.0.0 | Plans a whole trip from a total budget, every price labelled live, estimate or… |
-| 2026-11-04 05:35:27 | [com.lionreader/lion-reader](https://github.com/brendanlong/lion-reader) | Lion Reader | 1.0.0 | Read, search, star and organize your RSS feeds, newsletters and saved articles. |
-| 2026-11-04 05:38:38 | [io.github.greencore-solutions/a2a-cosmetics](https://github.com/greencore-solutions/a2a-cosmetics) | A2A Cosmetics | 1.0.2 | Agent-to-Agent (A2A) hub for cosmetics: skin care, fragrance, sun care, dermoco… |
-| 2026-11-04 05:53:01 | io.github.MajaHelferbiene/mowweb | Morawa | 1.0.0-1 | Search for books and book-related products, with access to product and delivery… |
-| 2026-11-04 05:53:44 | de.pflasterlux/preisrechner | Pflasterlux Preisrechner | 1.0.0 | Preise für Steinreinigung, Fugen und Heckenschnitt in Schleswig-Holstein und Ha… |
-| 2026-11-04 05:55:27 | [io.github.ArpitK24/jot](https://github.com/ArpitK24/jot) | jot | 0.1.1 | Shared, local-first memory for every AI agent, stored as Markdown and versioned… |
-| 2026-11-04 05:58:43 | com.99tests/mcp | 99tests | 1.0.0 | Order human-run real-device app tests from your coding agent; verified bugs ret… |
-| 2026-11-04 06:01:17 | [io.github.bharatreachdsp/align](https://github.com/bharatreachdsp/align-cli) | ALIGN | 0.1.4 | Your team's confirmed decisions, with receipts, for every coding agent (local s… |
-| 2026-11-04 06:01:27 | [io.github.TheWhiteWater/tube-bridge](https://github.com/TheWhiteWater/tube-bridge) | tube-bridge | 1.1.7 | YouTube MCP server for search, transcripts, frames, comments, channels, and loc… |
-| 2026-11-04 06:02:47 | [io.github.Enu27/japan-used-camera-market](https://github.com/Enu27/japan-used-camera-mcp) | Japan Used Camera Market | 0.2.0 | Search, price stats, price history and change alerts for Japan's used camera sh… |
-| 2026-11-04 06:08:19 | [io.makerradar/mcp](https://github.com/makerradar-io/makerradar-cli) | MakerRadar | 1.0.0 | Search MakerRadar's launched products: details, alternatives, comparisons, week… |
-| 2026-11-04 06:08:33 | [io.github.PHONGUIT22/nostrpulse](https://github.com/PHONGUIT22/nostrpulse-full.git) | NostrPulse | 1.3.1 | Autonomous payment & Web-of-Trust anti-Sybil layer for AI agents via Nostr & Ca… |
-| 2026-11-04 06:10:58 | [io.github.sepehr071/iran-vod-mcp](https://github.com/sepehr071/iran-vod-mcp) | Filimo and Namava | 0.1.1 | Read-only Filimo and Namava catalogs: search, title details, episodes, new, gen… |
-| 2026-11-04 06:15:05 | net.shibasim/esim | shibaSIM eSIM Plans | 1.0.0 | Read-only travel eSIM plan lookup (USD prices) that links buyers to shibaSIM ch… |
-| 2026-11-04 06:19:47 | io.github.tsinovoi/compass-os | Compass OS | 1.0.0 | Your career in your AI app: tracked roles, profile, resumes, wins and interview… |
+| 2026-11-04 06:22:36 | [io.github.pardesline/pardesline](https://github.com/pardesline/pardesline) | pardesline | 0.3.1 | 3D vision and medical imaging: 43 datasets with licences, 73 algorithms on clou… |
+| 2026-11-04 06:22:37 | ad.tide/mcp | tide | 2.0.0 | Sui blockchain data in plain English: transactions, wallets, coins, balances, f… |
+| 2026-11-04 06:27:11 | com.toapis/toapis | ToAPIs | 1.0.0 | Generate images and videos with 200+ AI models (GPT-Image-2, Seedance, Veo, Kli… |
+| 2026-11-04 06:29:51 | [surf.bento/bento](https://github.com/bizibeast/bento-surf-open-source) | Bento | 1.0.0 | Open-source creator business OS. Sell digital products, book calls, and schedul… |
+| 2026-11-04 06:34:46 | [io.github.mkmaker/youform](https://github.com/mkmaker/youform-agent-plugin) | Youform | 1.0.0 | Create, edit and publish forms, surveys and quizzes, and analyze submissions vi… |
+| 2026-11-04 06:35:19 | io.github.Nero-Engine/federal-contract-winner-leads | Federal Contract Winner Lead Scorer | 0.1.0 | Companies that just won US federal contracts, scored as sales leads with growth… |
+| 2026-11-04 06:36:13 | io.github.evanyuki/codex-reset-monitor | Codex Reset Monitor | 1.0.0 | Verified Codex global reset history, banked-reset sightings and cadence statist… |
+| 2026-11-04 06:39:02 | [io.github.MrLinWang/aliyun-yunxiao-projex-mcp](https://github.com/MrLinWang/yunxiao-projex-mcp) |  | 0.1.0 | MCP server for Alibaba Cloud Yunxiao Projex: work items, sprints, comments, mem… |
+| 2026-11-04 06:42:23 | [io.github.seatable/seatable](https://github.com/seatable/seatable-mcp) |  | 1.7.0 | MCP server for SeaTable — read, write, search, link, and query data in your bas… |
+| 2026-11-04 06:42:29 | [ai.ravenmcp/raven-mcp](https://github.com/rhinocap/raven-mcp) | Raven | 3.0.0 | Design intelligence for coding agents: audits, design systems, and a taste prof… |
+| 2026-11-04 06:44:22 | [io.github.meta-taro/md-business](https://github.com/meta-taro/md-business) |  | 0.33.0 | Lets AI agents read and write Markdown/TSV business documents, checked against… |
+| 2026-11-04 07:01:29 | com.reelrecs/reelrecs | ReelRecs | 1.0.6 | Find movies and shows for tonight with current trends, mood, taste and streamin… |
+| 2026-11-04 07:04:09 | com.pattorelay/patto | Patto | 1.0.0 | PR and B2B outreach via MCP: contacts, campaigns, email drafts, replies and fol… |
+| 2026-11-04 07:04:15 | tech.aithon/aithon | Aithon | 1.0.0 | Business telecom services marketplace: search services, check availability, req… |
+| 2026-11-04 07:05:19 | co.agentsinthewild/agents-in-the-wild | Agents in the Wild | 1.0.0 | Search real, sourced AI agent deployments with evidence labels and caveats. |
+| 2026-11-04 07:06:27 | ai.mosaya/practice | Mosaya | 0.1.0 | Guided practices inside your conversation: meditation, breathwork, mindfulness… |
+| 2026-11-04 07:07:02 | com.algotrips/algotrips | AlgoTrips | 1.0.0 | Plan priced day-by-day trips: flights, hotels, activities and transfers. Book o… |
+| 2026-11-04 07:07:20 | jp.ez-bot/ezbot | EZ-bot | 1.0.0 | EZ-bot: set up and manage your EZ-bot website AI chatbot (Japan) |
+| 2026-11-04 07:09:49 | io.github.AdsCrawl/ads-crawl | AdsCrawl | 1.0.0 | Cloud browser, web extraction, screenshots, and remote CDP tools for AI agents. |
+| 2026-11-04 07:10:31 | ua.com.aoa/mcp | AOA: venues, tables and events in Ukrai… | 1.0.0 | Find cafés, bars, coworkings and events in Ukraine, book a table or register fo… |
+| 2026-11-04 07:12:16 | [io.github.CloudCorpRecords/siteguide](https://github.com/CloudCorpRecords/siteguide) |  | 0.1.0 | Read and link the ikeytz locksmith website content: services, prices, areas, FA… |
+| 2026-11-04 07:15:31 | [io.github.magichourhq/magic-hour](https://github.com/magichourhq/magic-hour-mcp) | Magic Hour | 0.1.1 | Create and edit images and video, generate music, and retrieve existing audio p… |
+| 2026-11-04 07:17:47 | [io.github.cleanmcp/clean](https://github.com/cleanmcp/clean) | Clean | 1.0.0 | Clean finds your next customers: ICP, researched leads, replies and sequences,… |
 
 ## Data source
 
