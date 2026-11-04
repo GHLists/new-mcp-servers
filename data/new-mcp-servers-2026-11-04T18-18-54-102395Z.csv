@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-11-04T17:21:27.467102Z,io.github.fullfatthings/bunny-mcp,bunny.net CDN and Shield,1.0.1,https://github.com/fullfatthings/bunny-mcp,,"Debug bunny.net CDN pull zones and manage bunny Shield: WAF, rate limits, bot detection, event logs"
+2026-11-04T17:24:59.930019Z,io.github.cuolm/swiss-weather-mcp,Swiss Weather,0.4.0,https://github.com/cuolm/swiss-weather-mcp,,"Weather forecasts, measurements and sun and moon times for places in Switzerland, from MeteoSwiss"
+2026-11-04T17:27:18.020534Z,com.ocr-ai/ocr-ai,OCR-AI,1.0.0,,streamable-http,"Hebrew and English OCR for PDFs and images: text, key fields and tables, page by page."
+2026-11-04T17:29:23.529901Z,es.pisoradar/piso-radar,Piso Radar,1.0.0,,streamable-http,"Subastas de viviendas del BOE y pisos de banco en España: búsqueda, fichas, cierres y mercado."
+2026-11-04T17:30:01.783723Z,io.github.showflexinc/d05-sqlite-rebuild-copymap-preflight,SQLite rebuild copy-map preflight,0.1.0-probe.20261104172742.e92a95973bfe,,streamable-http,Structural preflight for SQLite table-rebuild copy maps.
+2026-11-04T17:33:51.201459Z,io.github.moncef00327-cloud/quantum-aether,Quantum Aether,1.0.1,https://github.com/moncef00327-cloud/quantum-aether,,"Check a website's post-quantum TLS readiness (ML-KEM key exchange, certificate, grade)"
+2026-11-04T17:35:51.860543Z,io.shiptrail/shiptrail,Shiptrail,1.0.0,,streamable-http,"Live ships and ports from open AIS: find a ship, read her details, see port arrivals."
+2026-11-04T17:37:22.17391Z,com.langrit/langrit,Langrit,1.0.0,,streamable-http,"Language learning memory: due flashcard reviews, past mistakes and level, shared with any AI tutor."
+2026-11-04T17:40:26.4155Z,io.github.antonorlov/secure-telegram-mcp,Secure Telegram,0.3.3,https://github.com/antonorlov/secure-telegram-mcp,,"Telegram MCP server: each AI client gets its own key, scoped to chosen chats. Read-only by default."
+2026-11-04T17:41:24.587816Z,io.github.CloudCorpRecords/serieslib,,0.1.0,https://github.com/CloudCorpRecords/serieslib,,Search and read economic data series and dataset libraries from the ElKassabgi data family.
+2026-11-04T17:42:34.038579Z,ly.scrape/scrapely-mcp-server,Scrape.ly,0.3.14,,streamable-http,"Find Actors in the Scrape.ly Store, run them, and read their datasets, key-value stores and logs."
+2026-11-04T17:45:28.369886Z,com.mailrith/mailrith,Mailrith Email Marketing,2.0.1,https://github.com/anrawool/mailrith-agent-platform,streamable-http,"Manage Subscribers, Broadcasts, Sequences, Automations, and reporting in Mailrith."
+2026-11-04T17:46:21.202194Z,one.faf/wjttc,,1.4.2,https://github.com/Wolfe-Jam/wjttc,,"F1-grade MCP certification. 52 tests, 9 tiers (49 scored + T9 Receipt validation). Ecosystem: #2759"
+2026-11-04T17:47:04.130872Z,io.github.DealMachine/dealmachine,DealMachine,0.3.1,https://github.com/DealMachine/dealmachine-cli,streamable-http,"Find US property owners, including LLCs, plus owner phones and emails. Needs a DealMachine account."
+2026-11-04T17:49:48.745523Z,com.armobilemechanic/booking,AR Mobile Mechanic — book mobile mechanic in Little Rock,1.0.0,,streamable-http,"Book mobile mechanic in Little Rock, AR: prices, ZIP coverage, free callback."
+2026-11-04T17:56:59.805533Z,io.github.IkarusMK/aicortex,AICortex,2.3.3,https://github.com/IkarusMK/AIcortex,,"Self-hosted brain for any LLM: memory, skills, encrypted vault, devices and scheduled jobs."
+2026-11-04T17:59:45.861834Z,io.github.RectaBuild/recta,Recta,1.0.0,https://github.com/RectaBuild/route-hint,streamable-http,"Cheaper cross-chain stablecoin routes for AI agents; 5 % of the verified saving, nothing if none."
+2026-11-04T18:02:40.133087Z,dev.workers.anthonyzilar.changefeed/api-change-feed,API Change Feed,0.2.0,,streamable-http,"Breaking changes, deprecations and security fixes for 38 popular APIs/SDKs. Paid per call via x402."
+2026-11-04T18:14:40.379671Z,io.github.driedtoast/superheropw,superhero.pw,1.0.0,https://github.com/driedtoast/superheropw,streamable-http,"MCP server for superhero.pw: comic series, projects, scripts, pages, notes, and palettes."
+2026-11-04T18:15:40.208411Z,io.github.jeswr/concord,Concord,0.1.0,https://github.com/jeswr/standards-concord,streamable-http,"Read, query and check data against ODI standards hub ontologies (OWL, LinkML), and report gaps."
+2026-11-04T18:17:25.616069Z,site.checkbox/checkbox,Checkbox,1.0.1,https://github.com/checkbox-site/checkbox,streamable-http,"Auto-renewal law compliance (ROSCA, CA, NY, other states) for subscription checkout and emails"
