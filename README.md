@@ -9,36 +9,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 02:20 UTC
+## Latest list — 2026-11-05 03:21 UTC
 
-New MCP servers published between 2026-11-05 01:21 UTC and 2026-11-05 02:20 UTC.
+New MCP servers published between 2026-11-05 02:20 UTC and 2026-11-05 03:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-05T02-20-50-196694Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-05T03-21-33-712762Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-05 01:22:38 | estate.bucklerfamily.cedwyn/archive | Cedwyn archive (read-only) | 0.1.0 | Read-only archive of Tŷ Mawr (Great House Farm), Llandough, Wales: names, e-boo… |
-| 2026-11-05 01:23:46 | [io.github.steve-in-tandem/govcon-mcp](https://github.com/steve-in-tandem/govcon-mcp) | Intandem Government Contracting & FAR R… | 1.2.2 | 1,460+ US GovCon references: NAICS/PSC/NIGP codes, 50-state & city portals, SBA… |
-| 2026-11-05 01:24:27 | [app.netlify.acenes-of-sparta-the-dragon-slayer/epic-fantasy-101-booklist](https://github.com/ManolisTsongas/epic-fantasy-101-booklist-mcp) | Epic Fantasy 101 Booklist | 1.0.0 | Ranked epic fantasy book recommendations from the Epic Fantasy 101 booklist, sc… |
-| 2026-11-05 01:31:45 | [io.github.CloudCorpRecords/cruisescope](https://github.com/CloudCorpRecords/cruisescope) |  | 0.1.0 | Search cruises, check fares and price history, and look up cabins, ships, lines… |
-| 2026-11-05 01:32:57 | [io.github.grokbot1233/agentreader](https://github.com/grokbot1233/agentreader) |  | 1.0.0 | Pay-per-call web reader (Markdown), link extractor and domain health check. x40… |
-| 2026-11-05 01:40:27 | [io.github.CloudCorpRecords/glazemath](https://github.com/CloudCorpRecords/glazemath) |  | 0.1.0 | Ceramic glaze chemistry: unity formulas, limit checks, substitutes, recipes, sh… |
-| 2026-11-05 01:44:27 | com.useampli/ampli | Ampli — social media scheduler | 1.0.0 | Schedule and publish social media posts from Claude, ChatGPT or any AI agent to… |
-| 2026-11-05 01:46:48 | io.github.interfere-inc/interfere | Interfere | 1.0.0 | Investigate application problems, sessions, and releases with your workspace pe… |
-| 2026-11-05 01:50:17 | [io.github.CloudCorpRecords/vedicchart](https://github.com/CloudCorpRecords/vedicchart) |  | 0.1.0 | Free Vedic astrology: panchang, birth charts, matching, doshas, dashas, transit… |
-| 2026-11-05 01:50:51 | [io.github.pipeworx-io/schemastore](https://github.com/pipeworx-io/mcp-schemastore) | Schemastore | 0.2.1 | SchemaStore MCP |
-| 2026-11-05 01:51:37 | [io.github.pipeworx-io/scotcourts](https://github.com/pipeworx-io/mcp-scotcourts) | Scotcourts | 0.2.1 | Scottish Courts and Tribunals Service (SCTS) — judgment search. |
-| 2026-11-05 01:51:46 | [io.github.pipeworx-io/scrapecreators](https://github.com/pipeworx-io/mcp-scrapecreators) | Scrapecreators | 0.2.1 | ScrapeCreators MCP — wraps the ScrapeCreators social-media + ad-library scrapin… |
-| 2026-11-05 01:52:42 | [io.github.pipeworx-io/scb-se](https://github.com/pipeworx-io/mcp-scb-se) | Scb Se | 0.2.1 | Statistics Sweden PxWeb MCP. |
-| 2026-11-05 01:53:12 | [io.github.direct-web/drop-beacon-mcp](https://github.com/direct-web/drop-beacon-mcp) | Drop Beacon | 1.1.0 | Live EDC knife, flashlight and fidget prices across retailers, deal checks, top… |
-| 2026-11-05 01:56:15 | markets.rizon/exchange | Rizon | 1.0.0 | A paper-money exchange: read live order books, place practice trades, test a bo… |
-| 2026-11-05 02:01:37 | [io.github.JonathanTECH1217/whitetape](https://github.com/JonathanTECH1217/whitetape) |  | 0.1.1 | US building permits as rows with the contractor of record. Free search; 7 cents… |
-| 2026-11-05 02:10:57 | [io.github.rzlco666/strut-stack-sql](https://github.com/rzlco666/strut-stack-sql) |  | 2.0.0 | Token-efficient MCP server for MySQL, PostgreSQL, and SQLite |
-| 2026-11-05 02:17:33 | br.com.erppro/erp | ERPPro | 1.0.0 | Consulte vendas, equipe, alertas, estoque em falta e totais financeiros do ERPP… |
-| 2026-11-05 02:17:57 | space.getfund/getfund |  | 2.4.0 | Find and win startup funding: programs, investors, perks, and an AI autopilot f… |
-| 2026-11-05 02:18:02 | [io.github.standards-concord/concord](https://github.com/standards-concord/standards-concord) | Concord | 0.1.0 | Read, query and check data against ODI standards hub ontologies (OWL, LinkML),… |
-| 2026-11-05 02:18:37 | com.bench47/bench47 | Bench47 | 1.0.0 | Shared Markdown memory for your agents: docs, typed collections, files, skills… |
-| 2026-11-05 02:19:14 | [ai.plugmcp/directory](https://github.com/plugmcp-ai/plugmcp-mcp) | PlugMCP directory | 0.1.0 | Search MCP servers and agent skills, compare them, and get install configs for… |
+| 2026-11-05 02:21:59 | [io.github.athlan20/slg-mcp](https://github.com/athlan20/slg) |  | 0.2.2 | Let your AI agent play a Three Kingdoms strategy game (SLG): build, recruit, ma… |
+| 2026-11-05 02:24:10 | [dev.semlayer/mcp](https://github.com/neocatalystlabs/semlayer) | semlayer | 0.7.0b2 | Infers a semantic layer from your data warehouse and serves it to agents over M… |
+| 2026-11-05 02:25:28 | com.evalgate/evalgate-docs | EvalGate Docs | 1.0.0 | Search and read EvalGate's public documentation. Read-only, no account or crede… |
+| 2026-11-05 02:27:43 | [io.github.allthingsN/openmoney](https://github.com/allthingsN/openmoney.ai) | OpenMoney | 1.0.0 | Neutral offers for AI agents: verified offers ranked by net value to the owner,… |
+| 2026-11-05 02:30:41 | io.github.Nickdub82/lotai | LotAi | 0.5.0 | Terrains du Québec : évaluation, zonage, zones inondables, CPTAQ et taxes pour… |
+| 2026-11-05 02:36:02 | [io.github.Servosity/dnsfilter-mcp](https://github.com/servosity/msp-skills) | DNSFilter MCP | 0.1.0 | DNSFilter for MSPs: why a site is blocked, preview-first allows, unblock reques… |
+| 2026-11-05 02:37:21 | com.aislesinventory/aisles | Aisles local store inventory | 1.0.0 | Is it in stock nearby? Store-level stock and prices at grocery stores and malls… |
+| 2026-11-05 02:39:30 | [io.github.michaelw-pr/presentr-analyze](https://github.com/michaelw-pr/presentr-analyze-mcp) | Presentr Analyze | 1.1.0 | Translate and re-time subtitles, read text aloud and dub media, with a quote yo… |
+| 2026-11-05 02:45:18 | com.letterirl/letter-irl | Letter IRL | 1.0.0 | Write, preview and mail real letters and postcards to US addresses from your AI… |
+| 2026-11-05 02:48:33 | com.evalgate/evalgate | EvalGate | 1.0.0 | Run AI evaluations, record agent traces and gate releases on evidence, with sco… |
+| 2026-11-05 02:49:32 | info.renoir/renoir | Renoir | 0.1.0 | A graph of 47,000+ films, the people who made them and their scores. Read-only,… |
+| 2026-11-05 02:50:32 | com.pickmycostume/pick-my-costume | Pick My Costume | 1.0.0 | Recommends Halloween costumes you can actually build, with step-by-step DIY bui… |
+| 2026-11-05 02:50:34 | com.thawday/thawday | ThawDay | 1.0.2 | Turkey thaw, roast, and food-safety timelines calculated for your bird's weight… |
+| 2026-11-05 02:50:35 | com.pickmyresolution/keep-one-resolution | Keep One Resolution | 1.0.0 | Helps you pick one New Year's resolution you will actually keep, matched to you… |
+| 2026-11-05 02:50:36 | com.thepresentpicker/present-picker | Present Picker | 1.0.0 | Gift recommendations matched to the person, the occasion, and your budget. |
+| 2026-11-05 02:50:37 | com.fillmybracket/fill-my-bracket | Fill My Bracket | 1.2.0 | March Madness bracket help: picks, matchup analysis, and upset guidance for you… |
+| 2026-11-05 02:50:38 | app.willitstick/will-it-stick | Will It Stick | 0.4.0 | Tests whether your message will stick: grades readability and memorability befo… |
+| 2026-11-05 02:50:39 | com.pickmysecretsanta/pick-my-secret-santa | Pick My Secret Santa | 1.1.0 | Runs a Secret Santa name draw in chat and gives each person a private reveal li… |
+| 2026-11-05 02:50:40 | com.dadiosity/dadiosity | Dadiosity | 1.0.0 | One short daily lesson and a simple evening plan for parents of toddlers. |
+| 2026-11-05 02:50:41 | com.thebitcoinrainbow/the-bitcoin-rainbow | The Bitcoin Rainbow | 1.0.0 | Explains the Bitcoin rainbow valuation chart and where price sits in the cycle… |
+| 2026-11-05 02:50:42 | com.clearlinefamily/clearline-family | Clearline Family | 1.0.0 | Education-only life insurance coverage-gap calculator for Washington families.… |
+| 2026-11-05 02:52:16 | com.thejobsapi/jobs | The Jobs API | 1.0.0 | Search employer career-site jobs in Canada and the US, retrieve postings and in… |
+| 2026-11-05 02:52:37 | [com.revclamp/google-ads-transparency-mcp-actor](https://github.com/lhphong09t2/revclamp-mcp) | RevClamp AdPulse (Google Ads Transparen… | 1.0.0 | Google Ads Transparency Center advertiser & creative intelligence MCP server by… |
+| 2026-11-05 02:53:49 | io.github.leoly5945-hash/saveiq | SaveIQ | 0.1.0 | Amazon.ca price history and a buy-or-wait verdict for Canadian shoppers. Read-o… |
+| 2026-11-05 02:54:29 | [io.github.Servosity/kaseya-vsa-mcp](https://github.com/servosity/msp-skills) | Kaseya VSA 10 MCP | 0.1.0 | Kaseya VSA 10 API, plus a local fleet mirror for patch, health and software que… |
+| 2026-11-05 03:08:50 | [io.github.WiliamRosa/cosmos-semantic](https://github.com/WiliamRosa/cosmos-semantic-platform) | Cosmos Semantic | 0.3.0 | Governed metrics, business rules and a glossary for AI agents, with evidence on… |
+| 2026-11-05 03:11:03 | com.backspinlabs/tally | Tally by Backspin Labs | 0.9.90 | Ask about a Lightspeed Retail (R-Series) shop's sales, stock, customers, and wo… |
+| 2026-11-05 03:11:10 | [io.github.Servosity/cisco-umbrella-mcp](https://github.com/servosity/msp-skills) | Cisco Umbrella MCP | 0.1.0 | Every Cisco Umbrella v2 API call, plus MSP child-org switching, domain verdicts… |
+| 2026-11-05 03:12:10 | [io.github.XJTLUmedia/protect-context](https://github.com/XJTLUmedia/Protect-Context-Pi-Coding-Agent) | protect-context | 2.0.0 | Agent guardrails: contract, evidence ledger, loop brake, diff-scope warnings, d… |
+| 2026-11-05 03:13:26 | sale.bullpen/bullpen | Bullpen | 1.0.0 | AI sales team that works the phone: gets a real person on the line. Agents sign… |
 
 ## Data source
 

@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-11-05T02:21:59.443597Z,io.github.athlan20/slg-mcp,,0.2.2,https://github.com/athlan20/slg,,"Let your AI agent play a Three Kingdoms strategy game (SLG): build, recruit, march, scout, battle."
+2026-11-05T02:24:10.088599Z,dev.semlayer/mcp,semlayer,0.7.0b2,https://github.com/neocatalystlabs/semlayer,,Infers a semantic layer from your data warehouse and serves it to agents over MCP.
+2026-11-05T02:25:28.339428Z,com.evalgate/evalgate-docs,EvalGate Docs,1.0.0,,streamable-http,"Search and read EvalGate's public documentation. Read-only, no account or credential needed."
+2026-11-05T02:27:43.129294Z,io.github.allthingsN/openmoney,OpenMoney,1.0.0,https://github.com/allthingsN/openmoney.ai,streamable-http,"Neutral offers for AI agents: verified offers ranked by net value to the owner, signed and logged."
+2026-11-05T02:30:41.699922Z,io.github.Nickdub82/lotai,LotAi,0.5.0,,streamable-http,"Terrains du Québec : évaluation, zonage, zones inondables, CPTAQ et taxes pour 4,4 M de lots."
+2026-11-05T02:36:02.779099Z,io.github.Servosity/dnsfilter-mcp,DNSFilter MCP,0.1.0,https://github.com/servosity/msp-skills,,"DNSFilter for MSPs: why a site is blocked, preview-first allows, unblock requests, agent drift."
+2026-11-05T02:37:21.428025Z,com.aislesinventory/aisles,Aisles local store inventory,1.0.0,,streamable-http,"Is it in stock nearby? Store-level stock and prices at grocery stores and malls, with check times."
+2026-11-05T02:39:30.060088Z,io.github.michaelw-pr/presentr-analyze,Presentr Analyze,1.1.0,https://github.com/michaelw-pr/presentr-analyze-mcp,streamable-http,"Translate and re-time subtitles, read text aloud and dub media, with a quote you confirm first."
+2026-11-05T02:45:18.701032Z,com.letterirl/letter-irl,Letter IRL,1.0.0,,streamable-http,"Write, preview and mail real letters and postcards to US addresses from your AI app."
+2026-11-05T02:48:33.434628Z,com.evalgate/evalgate,EvalGate,1.0.0,,streamable-http,"Run AI evaluations, record agent traces and gate releases on evidence, with scoped org access."
+2026-11-05T02:49:32.106311Z,info.renoir/renoir,Renoir,0.1.0,,streamable-http,"A graph of 47,000+ films, the people who made them and their scores. Read-only, no sign-in."
+2026-11-05T02:50:32.999757Z,com.pickmycostume/pick-my-costume,Pick My Costume,1.0.0,,streamable-http,"Recommends Halloween costumes you can actually build, with step-by-step DIY build guides."
+2026-11-05T02:50:34.080375Z,com.thawday/thawday,ThawDay,1.0.2,,streamable-http,"Turkey thaw, roast, and food-safety timelines calculated for your bird's weight and dates."
+2026-11-05T02:50:35.389885Z,com.pickmyresolution/keep-one-resolution,Keep One Resolution,1.0.0,,streamable-http,"Helps you pick one New Year's resolution you will actually keep, matched to your life now."
+2026-11-05T02:50:36.338999Z,com.thepresentpicker/present-picker,Present Picker,1.0.0,,streamable-http,"Gift recommendations matched to the person, the occasion, and your budget."
+2026-11-05T02:50:37.29898Z,com.fillmybracket/fill-my-bracket,Fill My Bracket,1.2.0,,streamable-http,"March Madness bracket help: picks, matchup analysis, and upset guidance for your pool."
+2026-11-05T02:50:38.356423Z,app.willitstick/will-it-stick,Will It Stick,0.4.0,,streamable-http,Tests whether your message will stick: grades readability and memorability before you send.
+2026-11-05T02:50:39.413015Z,com.pickmysecretsanta/pick-my-secret-santa,Pick My Secret Santa,1.1.0,,streamable-http,Runs a Secret Santa name draw in chat and gives each person a private reveal link.
+2026-11-05T02:50:40.480332Z,com.dadiosity/dadiosity,Dadiosity,1.0.0,,streamable-http,One short daily lesson and a simple evening plan for parents of toddlers.
+2026-11-05T02:50:41.669112Z,com.thebitcoinrainbow/the-bitcoin-rainbow,The Bitcoin Rainbow,1.0.0,,streamable-http,Explains the Bitcoin rainbow valuation chart and where price sits in the cycle today.
+2026-11-05T02:50:42.995531Z,com.clearlinefamily/clearline-family,Clearline Family,1.0.0,,streamable-http,Education-only life insurance coverage-gap calculator for Washington families. Math shown.
+2026-11-05T02:52:16.498175Z,com.thejobsapi/jobs,The Jobs API,1.0.0,,streamable-http,"Search employer career-site jobs in Canada and the US, retrieve postings and inspect job counts."
+2026-11-05T02:52:37.596173Z,com.revclamp/google-ads-transparency-mcp-actor,RevClamp AdPulse (Google Ads Transparency MCP),1.0.0,https://github.com/lhphong09t2/revclamp-mcp,,Google Ads Transparency Center advertiser & creative intelligence MCP server by RevClamp.
+2026-11-05T02:53:49.621744Z,io.github.leoly5945-hash/saveiq,SaveIQ,0.1.0,,streamable-http,"Amazon.ca price history and a buy-or-wait verdict for Canadian shoppers. Read-only, no sign-in."
+2026-11-05T02:54:29.626033Z,io.github.Servosity/kaseya-vsa-mcp,Kaseya VSA 10 MCP,0.1.0,https://github.com/servosity/msp-skills,,"Kaseya VSA 10 API, plus a local fleet mirror for patch, health and software questions across clients"
+2026-11-05T03:08:50.117745Z,io.github.WiliamRosa/cosmos-semantic,Cosmos Semantic,0.3.0,https://github.com/WiliamRosa/cosmos-semantic-platform,,"Governed metrics, business rules and a glossary for AI agents, with evidence on every answer."
+2026-11-05T03:11:03.45545Z,com.backspinlabs/tally,Tally by Backspin Labs,0.9.90,,streamable-http,"Ask about a Lightspeed Retail (R-Series) shop's sales, stock, customers, and work orders."
+2026-11-05T03:11:10.208732Z,io.github.Servosity/cisco-umbrella-mcp,Cisco Umbrella MCP,0.1.0,https://github.com/servosity/msp-skills,,"Every Cisco Umbrella v2 API call, plus MSP child-org switching, domain verdicts, list diffs, and"
+2026-11-05T03:12:10.22899Z,io.github.XJTLUmedia/protect-context,protect-context,2.0.0,https://github.com/XJTLUmedia/Protect-Context-Pi-Coding-Agent,,"Agent guardrails: contract, evidence ledger, loop brake, diff-scope warnings, durable journal."
+2026-11-05T03:13:26.269074Z,sale.bullpen/bullpen,Bullpen,1.0.0,,streamable-http,AI sales team that works the phone: gets a real person on the line. Agents sign up by paying (MPP).
