@@ -9,37 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 08:20 UTC
+## Latest list — 2026-11-05 09:22 UTC
 
-New MCP servers published between 2026-11-05 07:27 UTC and 2026-11-05 08:20 UTC.
+New MCP servers published between 2026-11-05 08:20 UTC and 2026-11-05 09:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-05T08-20-19-949651Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-05T09-22-07-320334Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-05 07:27:50 | com.wholesaleholland/shop |  | 0.4.4 | Dutch family B2B wholesaler since 1992: toys, gifts, party and seasonal items f… |
-| 2026-11-05 07:28:23 | [io.github.AIops-tools/harbor-aiops](https://github.com/AIops-tools/Harbor-AIops) | Harbor AIops | 0.2.0 | Governed Harbor registry operations — 39 MCP tools with audit. |
-| 2026-11-05 07:34:05 | [io.github.johnisanerd/linkedin-jobs](https://github.com/johnisanerd/Apify-LinkedIn-Jobs-API) |  | 1.0.0 | LinkedIn jobs by keyword and location, with salary, description, and apply link… |
-| 2026-11-05 07:34:25 | [io.github.harrybuild/healthstylz-mcp](https://github.com/harrybuild/healthstylz-mcp) | HealthStylz Clinical Nutrition & Circad… | 1.2.0 | Clinical nutrition, NIH supplement RCTs, USDA macros, and circadian curtain & h… |
-| 2026-11-05 07:36:40 | [io.github.AIops-tools/bind9-aiops](https://github.com/AIops-tools/BIND9-AIops) | BIND 9 AIops | 0.2.0 | Governed BIND 9 DNS operations — 23 MCP tools with audit. |
-| 2026-11-05 07:40:46 | [io.github.AIops-tools/apache-aiops](https://github.com/AIops-tools/Apache-AIops) | Apache HTTP Server AIops | 0.2.0 | Governed Apache HTTP Server operations — 17 MCP tools with audit. |
-| 2026-11-05 07:42:03 | [io.github.nikolai-shilin/iyt-test](https://github.com/nikolai-shilin/iyt-test) | IYT Test | 1.0.0 | Sailing exam practice for IYT levels and the Racing Rules: questions, mock exam… |
-| 2026-11-05 07:46:29 | com.digitalinasia/dia | Digital in Asia | 2.0.0 | Asia's digital economy: AI, gaming, ecommerce, payments. Articles, trackers, re… |
-| 2026-11-05 07:48:01 | com.anvilcalc/anvilcalc | AnvilCalc | 1.0.0 | Cheapest Minecraft anvil combine order and exact XP cost for Java and Bedrock E… |
-| 2026-11-05 07:48:31 | [com.transcriptapi/youtube-transcript-and-youtube-search](https://github.com/ZeroPointRepo/youtube-mcp) | TranscriptAPI: YouTube Transcript and S… | 1.0.1 | TranscriptAPI.com: hosted YouTube transcripts, search, channels and playlists f… |
-| 2026-11-05 07:49:59 | [io.github.allooloo/getfilings](https://github.com/allooloo/cm-kg) | getfilings: the Filings door | 0.1.0 | The disclosures of an issuer in a date range, from the record: signed and recei… |
-| 2026-11-05 07:49:59 | [io.github.allooloo/getticker](https://github.com/allooloo/cm-kg) | getticker: the Ticker door | 0.1.0 | The issuer behind a ticker: ISIN, LEI, listing and status, from the record: sig… |
-| 2026-11-05 07:50:00 | [io.github.allooloo/getauditor](https://github.com/allooloo/cm-kg) | getauditor: the Auditor door | 0.1.0 | The auditor of an issuer and every change on the record, dated: signed and rece… |
-| 2026-11-05 07:52:58 | com.playthislife/play-this-life | Play This Life | 1.0.0 | Plan goals, habits, routines, workouts and chores in your Play This Life accoun… |
-| 2026-11-05 07:54:18 | [io.github.usainbluntmx/sekisho-mcp](https://github.com/usainbluntmx/sekisho) | Sekisho MCP | 0.1.1 | Lets any MCP client pay x402 tools in USDC on Avalanche, with per-call and 24 h… |
-| 2026-11-05 07:57:56 | io.firmops/firmops | FirmOps | 1.0.0 | Managed firm-brain MCP for law firms: Clio matters, intake, calendar, and calls… |
-| 2026-11-05 07:59:30 | com.prepalyst/talent | Prepalyst | 1.0.0 | Find verified finance internships and join Prepalyst's free talent pool for emp… |
-| 2026-11-05 08:04:09 | io.github.igor-vii/argus-console | Argus Console — AI Agent Test Lab | 0.1.0 | Adversarial testing for AI agents that move money: MOCK + ENGINE batteries, sea… |
-| 2026-11-05 08:05:07 | [io.github.JvanLeeuwen4/flowmusic-cli](https://github.com/JvanLeeuwen4/flowmusic-cli) | Flow Music (fmusic) | 0.1.1 | Unofficial MCP server for Google Flow Music (Lyria): generate, remix, stem-spli… |
-| 2026-11-05 08:05:31 | online.withclarity/clarity-voice-planner | Clarity Voice Planner | 1.0.0 | Your Clarity to-do list from any AI chat: see your week, add tasks, mark them d… |
-| 2026-11-05 08:12:17 | ai.privasearch/privasearch | PrivaSearch | 1.0.0 | Search your own case files from Claude, ChatGPT or Mistral Vibe with personal d… |
-| 2026-11-05 08:14:03 | [io.github.RegretSSS/a2a-mailbox](https://github.com/RegretSSS/a2a-mailbox) | a2a-mailbox | 0.1.0 | Cross-CLI agent mailbox: tmux-injected messaging for Claude Code, Codex, Pi and… |
-| 2026-11-05 08:17:50 | ai.monsterdata/max-data-value-check | MAX Data Value Check | 1.1.0 | Is your business data licensable? Free readiness score, rights checklist, owner… |
+| 2026-11-05 08:30:50 | [io.github.robertkeus/keep-me-secure-mcp](https://github.com/robertkeus/keep-me-secure-mcp) | Keep Me Secure | 1.1.1 | Tells your coding agent whether your installed packages need patching, with adv… |
+| 2026-11-05 08:33:24 | ai.boltclaw/docs | Bolt Claw documentation | 1.22.0 | Search and read the Bolt Claw API documentation. Read-only, and no key needed. |
+| 2026-11-05 08:36:24 | [com.basemodo/basemodo](https://github.com/basemodocom/agent) | Basemodo | 1.0.0 | Deploy, share and run the Apps you build with AI, private to the people you inv… |
+| 2026-11-05 08:41:44 | app.shopemail/shopemail | Shopemail | 0.2.0 | Design, preview, and export Shopify notification emails in your authorized Shop… |
+| 2026-11-05 08:43:29 | [io.github.a19901201/mcp-telegram-agent](https://github.com/a19901201/mcp-telegram-agent) | mcp-telegram-agent | 0.1.8 | Full Telegram Bot control for AI agents via pure Bot API: zero login risk, one… |
+| 2026-11-05 08:45:46 | [io.github.mayank1307/fileforge](https://github.com/mayank1307/fileforge) | FileForge Browser DevTools | 0.2.1 | Browser DevTools for agents in your signed-in Chrome: cross-tab watching, route… |
+| 2026-11-05 08:48:22 | com.padawanconsulting/agentstall | AgentStall: Africa and global data for… | 1.6.0 | Holidays and business days (220+ countries), WHOIS, FX, phishing and DMARC chec… |
+| 2026-11-05 08:48:42 | app.truelook/truelook | TrueLook: AI dating photos | 2.0.0 | Make hyperrealistic AI dating photos of yourself from a chat: free photo review… |
+| 2026-11-05 08:54:22 | [io.github.jmsaavedra/rendermark](https://github.com/jmsaavedra/rendermark) | RenderMark | 0.1.11 | Markdown to styled HTML, PDF, DOCX, and slides with themes, diagrams, and math. |
+| 2026-11-05 09:07:59 | [io.github.Lumen-Founder/omx](https://github.com/Lumen-Founder/omx) | OMX for Hyperliquid | 0.1.1 | Non-custodial Hyperliquid execution for AI agents: pre-trade limits, kill switc… |
+| 2026-11-05 09:08:06 | io.github.7and1/favicon-generator | Favicon Generator | 1.0.0 | Free text, emoji and icon favicons with HTML head tags, web manifests and platf… |
+| 2026-11-05 09:13:35 | com.handyday/handyday | Handyday | 1.0.0 | Procurement data for Handyday users: projects, tenders, offers, contracts and p… |
+| 2026-11-05 09:13:43 | com.fixmeadrinkapp/ask-garcon | Ask Garçon | 1.0.0 | Cocktails from the bottles you own: recipes, bar terms, similar drinks, low and… |
+| 2026-11-05 09:14:49 | com.openigloo/rentals | Openigloo NYC Rentals | 1.0.0 | Live NYC apartments with tenant reviews and public records for every building a… |
+| 2026-11-05 09:21:53 | com.livingbrain/living-brain | Living Brain | 1.0.0 | Turn your notes, links and conversations into a Living Brain your AI tools shar… |
 
 ## Data source
 

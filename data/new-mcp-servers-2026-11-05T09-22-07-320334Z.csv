@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-11-05T08:30:50.438698Z,io.github.robertkeus/keep-me-secure-mcp,Keep Me Secure,1.1.1,https://github.com/robertkeus/keep-me-secure-mcp,,"Tells your coding agent whether your installed packages need patching, with advice on what to do."
+2026-11-05T08:33:24.456966Z,ai.boltclaw/docs,Bolt Claw documentation,1.22.0,,streamable-http,"Search and read the Bolt Claw API documentation. Read-only, and no key needed."
+2026-11-05T08:36:24.079616Z,com.basemodo/basemodo,Basemodo,1.0.0,https://github.com/basemodocom/agent,streamable-http,"Deploy, share and run the Apps you build with AI, private to the people you invite."
+2026-11-05T08:41:44.573968Z,app.shopemail/shopemail,Shopemail,0.2.0,,streamable-http,"Design, preview, and export Shopify notification emails in your authorized Shopemail theme."
+2026-11-05T08:43:29.408655Z,io.github.a19901201/mcp-telegram-agent,mcp-telegram-agent,0.1.8,https://github.com/a19901201/mcp-telegram-agent,,"Full Telegram Bot control for AI agents via pure Bot API: zero login risk, one Bot Token."
+2026-11-05T08:45:46.626995Z,io.github.mayank1307/fileforge,FileForge Browser DevTools,0.2.1,https://github.com/mayank1307/fileforge,,"Browser DevTools for agents in your signed-in Chrome: cross-tab watching, route sweeps, bug reports."
+2026-11-05T08:48:22.428119Z,com.padawanconsulting/agentstall,AgentStall: Africa and global data for agents,1.6.0,,streamable-http,"Holidays and business days (220+ countries), WHOIS, FX, phishing and DMARC checks, SA tenders. x402."
+2026-11-05T08:48:42.672997Z,app.truelook/truelook,TrueLook: AI dating photos,2.0.0,,streamable-http,"Make hyperrealistic AI dating photos of yourself from a chat: free photo review, 62 styles."
+2026-11-05T08:54:22.262197Z,io.github.jmsaavedra/rendermark,RenderMark,0.1.11,https://github.com/jmsaavedra/rendermark,,"Markdown to styled HTML, PDF, DOCX, and slides with themes, diagrams, and math."
+2026-11-05T09:07:59.909861Z,io.github.Lumen-Founder/omx,OMX for Hyperliquid,0.1.1,https://github.com/Lumen-Founder/omx,,"Non-custodial Hyperliquid execution for AI agents: pre-trade limits, kill switch, audit log."
+2026-11-05T09:08:06.628974Z,io.github.7and1/favicon-generator,Favicon Generator,1.0.0,,streamable-http,"Free text, emoji and icon favicons with HTML head tags, web manifests and platform install guides."
+2026-11-05T09:13:35.559245Z,com.handyday/handyday,Handyday,1.0.0,,streamable-http,"Procurement data for Handyday users: projects, tenders, offers, contracts and public procurement."
+2026-11-05T09:13:43.097385Z,com.fixmeadrinkapp/ask-garcon,Ask Garçon,1.0.0,,streamable-http,"Cocktails from the bottles you own: recipes, bar terms, similar drinks, low and zero-proof picks."
+2026-11-05T09:14:49.634077Z,com.openigloo/rentals,Openigloo NYC Rentals,1.0.0,,streamable-http,Live NYC apartments with tenant reviews and public records for every building and landlord.
+2026-11-05T09:21:53.246766Z,com.livingbrain/living-brain,Living Brain,1.0.0,,streamable-http,"Turn your notes, links and conversations into a Living Brain your AI tools share and build on."
