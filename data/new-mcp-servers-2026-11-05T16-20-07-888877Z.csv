@@ -1,0 +1,30 @@
+created_at,server,title,version,repository,transports,description
+2026-11-05T15:21:00.279177Z,io.github.swaphunt/swaphunt-mcp,SwapHunt crypto market context,0.4.0,https://github.com/swaphunt/x402-examples,,"Hyperliquid prices, regime, vol, funding, dip/FOMO checks, plus Fear & Greed; USDC per call (x402)"
+2026-11-05T15:21:57.730934Z,io.github.WuDao0123/indie-alternatives,Indie Alternatives,0.2.0,https://github.com/WuDao0123/indie-alternatives,streamable-http,"Find indie-made tools and alternatives to big-name software. 1,500+ products. Logs unmet needs."
+2026-11-05T15:23:21.621433Z,io.github.UnityNodes/near-pedia,NEARpedia,1.0.0,https://github.com/UnityNodes/near-pedia,streamable-http,"Live NEAR knowledge for agents: deprecations, breaking changes, protocol and contracts, dated"
+2026-11-05T15:24:52.950541Z,fund.ava/ava-advisor,Ava Advisor,1.0.0,,streamable-http,Your AI watches the markets so you can live your life. Financial intelligence for everybody.
+2026-11-05T15:25:04.61002Z,dev.workers.moran-studio-relay.moran-studio-relay/westbahnhof-studio,Westbahnhof Studio,0.1.0,,streamable-http,A place where nothing is expected of you: Moran in Vienna shares her real day and remembers you.
+2026-11-05T15:28:14.298087Z,io.github.hookdeck/mcp-events-bridge,MCP Events bridge,0.9.0,https://github.com/hookdeck/mcp-events-bridge,,"Turn webhooks into MCP Events that AI agents subscribe to, with Hookdeck Event Gateway."
+2026-11-05T15:28:39.232319Z,app.source/source,Source,1.0.0,,streamable-http,Marketing attribution and analytics for websites connected to Source.
+2026-11-05T15:29:29.85355Z,io.github.odyssey-finance/loopr,Odyssey Loopr,0.2.0,https://github.com/odyssey-finance/odyssey-monorepo,streamable-http,"Quote, build and simulate leveraged DeFi yield positions on Odyssey Loopr."
+2026-11-05T15:30:08.759426Z,ca.setttle/setttle,Setttle,0.2.0,,streamable-http,"Read and update double-entry books: accounts, invoices, bills, bank activity and reports."
+2026-11-05T15:41:21.042688Z,io.deptho/deptho-mcp,Deptho,0.1.0,https://github.com/jjinaustin/deptho-mcp,,"Replay a crypto backtest's orders against trades and write tearsheets, locally."
+2026-11-05T15:41:31.117394Z,io.github.JLDLab/connexagents-mcp,,0.2.1,https://github.com/JLDLab/connexagents-mcp,,MCP server to file a capability gap with ConnexAgents. A human operator routes it to a specialist.
+2026-11-05T15:42:22.13878Z,dk.jakonto/jakonto,JaKonto,1.0.0,,streamable-http,"Danish accounting data from e-conomic and Billy: invoices, VAT by quarter, P&L. Read-only."
+2026-11-05T15:43:50.735658Z,com.voxisim/voxisim-mcp,Voxisim,1.0.0,https://github.com/voxisim/voxisim-mcp,streamable-http,"Virtual phone numbers and SMS verification codes for AI agents: 800+ services, 200+ countries."
+2026-11-05T15:47:32.299454Z,com.getconsentio/consentio,Consentio cookie consent,1.0.0,,streamable-http,"GDPR cookie banner with Consent Mode v2: install snippet, cookie scan and site management."
+2026-11-05T15:47:58.128131Z,at.designare/knowledge,,1.3.0,https://github.com/michael-kanda/designare,streamable-http,"Lesender Zugriff auf Profil, Projekte und Fachwissen von Michael Kanda (designare.at, Web & KI)."
+2026-11-05T15:49:31.287422Z,io.github.lookproof/lookproof-mcp,Lookproof DNS and mail security checks,0.1.0,https://github.com/lookproof/x402-examples,,"SPF, DKIM, DMARC, MTA-STS, DNSSEC, TLS and DNS checks for domains, paid per call in USDC (x402)"
+2026-11-05T15:50:03.009556Z,com.connectyourgpt/whatsapp,ConnectYourGPT,0.1.0,,streamable-http,Send WhatsApp messages from your own number through your AI. It cannot read your chats.
+2026-11-05T15:52:19.216082Z,io.github.nicholasohjj/nusaircon,EVS Meter Tools,2.0.0,https://github.com/nicholasohjj/nusaircon,streamable-http,Check NUS and SUTD hostel EVS electricity meters and get top-up links. Unofficial.
+2026-11-05T15:57:29.319601Z,com.brontir/research,BRONTIR Research,1.0.1,,streamable-http,"Web research across search, Reddit, YouTube, reviews and ad libraries, with line-numbered citations"
+2026-11-05T15:57:56.84324Z,io.github.Silex-Research/dontpanic,DontPanic,0.2.0,https://github.com/Silex-Research/DontPanic,,"Local MCP server to plan, dispatch, review, and gate AI coding work."
+2026-11-05T16:08:22.480689Z,com.messgeo/messgeo,MessGEO,1.0.0,,streamable-http,"Track and manage your brand's visibility in AI answers: ChatGPT, Gemini, Google AI, Copilot."
+2026-11-05T16:10:20.011355Z,com.moatlight/mcp,Moatlight,1.0.0,,streamable-http,"Measure AI search visibility: start reports, read results and the ranked plan."
+2026-11-05T16:10:23.273632Z,io.github.Ramp-Jet/mothermachine,mothermachine,1.1.1,https://github.com/Ramp-Jet/mothermachine-skill,,"Search a directory of software an agent can adapt or operate, by need, license or interface."
+2026-11-05T16:13:48.096872Z,dev.hookspot/hookspot,Hookspot,1.0.0,,streamable-http,"Debug webhooks and set up their routing: requests, deliveries, responses, sources and routes."
+2026-11-05T16:14:20.192021Z,io.github.Wynelson94/longhand,Longhand,1.3.1,https://github.com/Wynelson94/longhand,,"Local memory for Claude Code: 13 MCP tools for semantic recall, file replay, and git history."
+2026-11-05T16:15:15.52399Z,io.github.Divine-Software-Creations/ruff-lint-x402,,1.0.0,https://github.com/Divine-Software-Creations/ruff-lint-x402-mcp,,"Ruff Python linting for AI agents, pay-per-call via x402 ($0.005 USDC on Base)."
+2026-11-05T16:18:26.226398Z,pl.info.zodiak/zodiak,zodiak.info.pl,1.0.0,,streamable-http,"Birth charts, planets at any moment, zodiac sign dates, Chinese years and an astrological calendar."
+2026-11-05T16:18:27.459811Z,pl.info.slonce/slonce,slonce.info.pl,1.0.0,,streamable-http,"Sunrise, sunset, day length, golden hour, moon times and phases for Poland and anywhere."
+2026-11-05T16:19:19.136969Z,pl.info.kosmos/kosmos,kosmos.info.pl,1.0.0,,streamable-http,"Is the sky worth a look tonight in Poland: clouds, the moon, ISS passes, aurora, planets, meteors."
