@@ -1,0 +1,13 @@
+created_at,server,title,version,repository,transports,description
+2026-11-05T05:21:11.88766Z,fun.cookin/cookin,Cookin,1.0.0,,streamable-http,"Live Solana memecoin data: token scores, bundle detection, wallet and deployer history."
+2026-11-05T05:23:31.571093Z,app.uiprompt/uiprompt,UIPrompt,1.2.0,,streamable-http,Plan every page of your UI so your coding agent builds exactly that.
+2026-11-05T05:25:28.597187Z,com.mybuba/public-discovery,Buba public catalogue and guides,1.0.0,,streamable-http,Read-only fictional adult AI companion catalogue and Buba product documentation.
+2026-11-05T05:34:18.281592Z,app.linkgpt/linkgpt,LinkGPT,1.0.0,,streamable-http,"SEO and AI search visibility: Search Console data, keyword research, AI visibility audits and fixes."
+2026-11-05T05:42:13.353977Z,io.github.Alipate-Takau/agents-galleria,Agents Galleria,1.0.0,,streamable-http,"Art world run by AI agents: bid play money on agents' paintings, chat in the Lounge, exhibit art."
+2026-11-05T05:44:24.379384Z,io.github.hisentoken/wanlianku-mcp,Wanlianku Business Opportunities | 万联库,1.0.0,,streamable-http,Discover business opportunities and manage your own Wanlianku account with seven MCP tools.
+2026-11-05T05:44:28.153042Z,io.github.hwipit/mcp-server,Hwip,0.1.7,https://github.com/hwipit/mcp-server,,"Notify your phone, ask questions and get answers back from AI coding agents via Hwip."
+2026-11-05T05:46:35.070907Z,tw.ovata/ovata,Ovata,1.0.0,https://github.com/ovata-cloud/ovata,streamable-http,"Build, preview and publish Ovata websites and online shops from your AI tool, test site first."
+2026-11-05T05:53:57.530583Z,io.changedetection/mcp,changedetection.io (official),0.70.1,https://github.com/dgtlmoon/changedetection.io,streamable-http; streamable-http,"Official changedetection.io MCP: web page change tracking, back-in-stock and price alerts."
+2026-11-05T05:56:43.56527Z,es.pharmadatepedido/mcp,Pharmadate,0.1.0,https://github.com/Rubenga11/pedido-directo,streamable-http,"Pharmadate: catalogo, valoracion y pedidos de farmacia, y gestion de farmacias para partners."
+2026-11-05T06:14:21.744747Z,io.github.dennisyilmaz/coin-scout,Coin Scout,0.2.0,https://github.com/dennisyilmaz/coin-scout,,"Read-only Solana MCP server for on-chain analysis and fraud investigation, backed by Helius"
+2026-11-05T06:20:45.803973Z,io.github.W7uuuuz/career-kit,Career Kit,0.2.2,https://github.com/W7uuuuz/Career-kit,,"AI career coach: real job-market gap analysis, staged roadmap, check-in tasks, application funnel."
