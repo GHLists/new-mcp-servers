@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-11-05T04:25:37.974614Z,com.codaurl/mcp,CodaURL,0.1.0,,streamable-http,URL monitoring for AI agents: manage monitors and read status and incidents. Free or Pro account.
+2026-11-05T04:27:16.063827Z,io.github.unibio-intelligence/biomedmcp,biomedmcp,0.2.4,https://github.com/unibio-intelligence/biomedmcp,streamable-http,"Integrated public biomedical research with cited, bounded evidence."
+2026-11-05T04:28:33.57025Z,io.github.johnisanerd/linkedin-company,,1.0.0,https://github.com/johnisanerd/Apify-LinkedIn-Company-API,streamable-http,"LinkedIn company pages as JSON: industry, size, HQ, followers, and specialties, via hosted MCP."
+2026-11-05T04:28:47.2679Z,io.github.MsingathiM/swapeazi,SwapEazi,2.4.1,https://github.com/msingathim/swapeazi,streamable-http,SwapEazi is the AI agent for managing cross-border payments.
+2026-11-05T04:35:57.182376Z,io.github.logtriage-cyber/logtriage,LogTriage,1.0.0,,streamable-http,"Security log tools: Windows/Entra error codes, log explainer, IP blocklists, attack scans"
+2026-11-05T04:39:39.142991Z,com.gralus/gralus,Gralus,1.0.0,,streamable-http,"Check your site's SEO, rankings and AI search visibility, and review fixes, from your AI assistant."
+2026-11-05T04:40:19.344169Z,com.lodikidsactivities/lodi-kids-activities,Lodi Kids Activities,1.1.0,,streamable-http,"Free youth programs, camps and daycare directory for the California cities Kyds Activities serves."
+2026-11-05T04:43:30.818505Z,com.kydsactivities/kyds-activities,Kyds Activities,1.0.0,,streamable-http,"Free multi-city directory of kids programs, camps and licensed daycares in California."
+2026-11-05T04:46:31.372326Z,io.github.Servosity/synology-mcp,Synology MCP,0.1.0,https://github.com/servosity/msp-skills,,"Active Backup for Business jobs and storage health from every client Synology NAS, in one database"
+2026-11-05T04:46:56.262968Z,com.selfpubgo/selfpubgo,SelfPub Go,1.0.0,,streamable-http,"Amazon Ads and book economics for KDP authors: ad results, wasted spend, break-even ACOS, ranks."
+2026-11-05T04:47:06.226919Z,space.pinmark/pinmark,PinMark,0.3.0,,,"Create, search, read and organize PinMark sticky notes on your Mac. Fully local."
+2026-11-05T04:51:57.853581Z,com.pentasor/senses,Pentasor,1.0.0,,streamable-http,"Senses for agents on live sites and media: read, see, hear, drive a flow, verify a claim."
+2026-11-05T04:52:42.132928Z,io.github.bymorning/bymorning,ByMorning,1.3.2,https://github.com/bymorning/bymorning,streamable-http,"Self-hosted AI gateway: your installation's Tools over OAuth, under your Workspace's permissions."
+2026-11-05T05:05:08.630753Z,io.github.Srikarmk/evalpair,evalpair,0.1.0,https://github.com/Srikarmk/evalpair,,Run LLM eval suites on local or hosted models; compare runs with intervals and a noise floor.
+2026-11-05T05:05:37.687054Z,ai.algoriq/mcp,AlgoriQ,1.0.0,,streamable-http,"Run AlgoriQ quant research from any MCP client: data, features, strategies, validation, portfolios."
+2026-11-05T05:05:41.774984Z,com.weatherxm.fact/mcp,WeatherXM FACT — Forecast Accuracy & Ground-Truth Verification,2.1.0,,streamable-http,"Scores 45 NWP & AI weather models (ECMWF, GFS, ICON, meteoblue, MOSAIC) against 8,927 stations."
+2026-11-05T05:08:03.195528Z,com.pinsharing/maps,PinSharing Maps,1.0.0,,streamable-http,"Geocoding, static maps and privacy-safe area maps from OpenStreetMap data. Hard caps, no overage."
+2026-11-05T05:11:15.08653Z,io.github.I4cTime/q-ring,q-ring,0.19.0,https://github.com/I4cTime/q-ring,,"OS keychain secrets for AI coding agents, over MCP."
+2026-11-05T05:13:14.406179Z,com.robodebut/submissions,RoboDebut,1.0.0,,streamable-http,Submit projects for manual review with a required homepage badge. Built by LinkBunny's founder.
+2026-11-05T05:16:18.790747Z,app.swipekit/ads,Swipekit,1.0.0,,streamable-http,Connect Swipekit to Claude to save ads and organize your creative research.
+2026-11-05T05:16:21.083801Z,app.ideare/ideare,ideare,1.0.0,,streamable-http,"A small business's brand kit: logo in every version, colors, fonts, social sizes and posts."
+2026-11-05T05:19:19.928834Z,io.github.sanhaoyoung/sanhao-global-experts,,1.0.0,https://github.com/sanhaoyoung/sanhao-global-experts,streamable-http,"885 business skills for brand, restaurant and marketing. Paid per call via x402 USDC on Base."
