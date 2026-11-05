@@ -9,41 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 22:21 UTC
+## Latest list — 2026-11-05 23:25 UTC
 
-New MCP servers published between 2026-11-05 21:20 UTC and 2026-11-05 22:21 UTC.
+New MCP servers published between 2026-11-05 22:21 UTC and 2026-11-05 23:25 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-05T22-21-32-78611Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-05T23-25-17-140389Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-05 21:21:30 | com.panderr/panderr | Panderr | 0.1.0 | Move your website without rebuilding it — by URL, or upload a ZIP of your site. |
-| 2026-11-05 21:22:45 | [io.github.seuros/helmsman](https://github.com/seuros/helmsman) | Helmsman | 0.5.2 | Adaptive instruction server: serves agent instructions and skills tuned to the… |
-| 2026-11-05 21:22:54 | co.scimon/rfq-desk | SCiMon.co RFQ Desk | 1.0.0 | Request quotes for custom parts, design services and box build from pre-vetted… |
-| 2026-11-05 21:23:33 | com.empiriainsight/local-seo-geo | Empiria Local SEO | 0.2.0 | Deterministic SEO/GEO checks, business-data comparisons and fixed-price impleme… |
-| 2026-11-05 21:25:09 | [io.github.argosautomation/android-texter](https://github.com/argosautomation/androidtexter-sdk) | Android Texter | 1.1.0 | Send and read SMS and MMS from your own Android phone and number via Android Te… |
-| 2026-11-05 21:25:11 | ai.flowrunner/prompt-to-flow | FlowRunner Prompt to Flow | 1.0.0 | Describe an automation in plain English and get a working FlowRunner flow with… |
-| 2026-11-05 21:27:13 | be.planelec/planelec | PlanElec | 0.2.0 | Plan Belgian electrical installations (AREI/RGIE): projects, circuits, boards.… |
-| 2026-11-05 21:27:19 | be.planelec/calculators | PlanElec Calculators | 0.2.0 | Free AREI cable sizing, Synergrid C10/26 inverter check, LED strip calculator.… |
-| 2026-11-05 21:27:31 | [io.github.djynnius/ferraus](https://github.com/djynnius/ferraus) | ferraus | 0.1.3 | Command-line audio workstation: stems, restoration, tuning, sheet music, master… |
-| 2026-11-05 21:36:03 | dev.workers.nightshift-labs.nightshift-x402/agent-safety | Nightshift Labs: link, token & signatur… | 1.0.0 | Paid x402 pre-checks for agents: phishing links, Base tokens, EIP-712 permits,… |
-| 2026-11-05 21:40:37 | [io.github.manduks/kato](https://github.com/manduks/kato-mcp) | Kato | 0.2.1 | What was said, shown and promised on your client's calls, filed by client. Need… |
-| 2026-11-05 21:40:59 | [io.github.freyr/ragnarok](https://github.com/freyr/ragnarok) | ragnarok | 1.1.0 | Local RAG search over Obsidian vaults: SQLite hybrid search with local Ollama e… |
-| 2026-11-05 21:42:10 | [sh.mlab/mcp](https://github.com/mlab-sh/mcp) | mlab.sh | 1.2.0 | Threat intel and DFIR: IOCs, CVEs, actors, SBOMs, domain scans, cases, memory,… |
-| 2026-11-05 21:42:48 | com.ulupstudio/nexus | UluP Nexus | 1.0.0 | Search a hand-verified index of indie software and games by keyword, category,… |
-| 2026-11-05 21:43:32 | [io.github.linq-team/linq](https://github.com/linq-team/linq-node) | Linq | 0.79.0 | Send and manage iMessage, RCS, and SMS conversations through the Linq API. |
-| 2026-11-05 21:44:41 | com.catchmently/schools | Catchmently | 0.1.0 | England's schools and nurseries: Ofsted, exam results, offers and last distance… |
-| 2026-11-05 21:44:43 | uk.co.motstat/mot | motstat | 0.1.0 | UK car reliability from real MOT results: first-time pass rates by make, model… |
-| 2026-11-05 21:45:52 | com.sealgraf/sealgraf | Sealgraf | 1.0.0 | Sealgraf checks agent purchases against the owner's limits and seals a receipt… |
-| 2026-11-05 21:50:04 | com.imperiofriki/store | Imperio Friki | 0.3.0 | Imperio Friki live catalogue, product variants and customer-reviewed WooCommerc… |
-| 2026-11-05 21:53:57 | [io.github.melcutz/keepfor.me](https://github.com/melcutz/keepfor.me) | Keepfor.me | 0.2.0 | Your personal library, readable by AI agents: durable snapshots, hybrid search,… |
-| 2026-11-05 22:00:15 | com.easyappsecom/ea-shopify-apps | EA Shopify Apps | 1.0.0 | Stats, setup, drafts and opt-in publishing for the EA Shopify apps: bundles, po… |
-| 2026-11-05 22:01:19 | [io.github.nxtg-ai/faultline](https://github.com/nxtg-ai/faultline-pro) | Faultline | 0.12.1 | Checks the most important factual claims in AI output against live web sources… |
-| 2026-11-05 22:06:58 | com.listennotes/mcp | Podcast Search by Listen Notes | 1.0.0 | Official podcast search, interview research, PR leads, and media monitoring fro… |
-| 2026-11-05 22:12:38 | com.safetoclone/safetoclone | SafeToClone | 1.1.0 | Safety grade (A to F) for any public GitHub repo, in plain English, before you… |
-| 2026-11-05 22:12:50 | com.feedhorizon/mcp | FeedHorizon | 1.0.0 | Schedule and publish posts on X, LinkedIn, Instagram, Bluesky and Pinterest. |
-| 2026-11-05 22:16:51 | [io.github.mattkerr09/docket](https://github.com/mattkerr09/docket-mcp) | Docket SEO | 1.3.150 | SEO audits that run on your computer: score, ranked fixes and AI-search checks.… |
-| 2026-11-05 22:18:23 | [io.github.aiscihub/cookieguard](https://github.com/aiscihub/cookieguard-ai) | CookieGuard | 0.1.0 | Audit HTTP cookie security against your local policy. Returns findings without… |
+| 2026-11-05 22:31:20 | [my.upti/mcp](https://github.com/uptimy/mcp) | Uptimy | 1.0.0 | Uptime monitoring from your assistant: see what's down, run incidents, set up m… |
+| 2026-11-05 22:32:26 | com.agentlinkops/agentlinkops | AgentLinkOps | 0.6.16 | Backlink monitoring with dated fetch evidence; checks and change events continu… |
+| 2026-11-05 22:37:56 | com.softwiro/templates | Softwiro Excel templates and calculators | 1.1.0 | Arabic Excel templates and 23 calculators (VAT, BMI, gold zakat...). No key, no… |
+| 2026-11-05 22:38:07 | io.github.Ukraine-Territorial-MCP/court-decisions | Court Decisions Ukraine MCP | 0.1.0 | Experimental read-only MCP over metadata of Ukrainian court decisions (DSA/EDRS… |
+| 2026-11-05 22:40:37 | dev.sundaeui/mcp | Sundae UI | 2.0.0 | Search 301 React components, read usage docs and get shadcn install commands fo… |
+| 2026-11-05 22:40:39 | [io.github.beamersaas/complexity-cost-calculator](https://github.com/beamersaas/complexity-cost-calculator-mcp) | Complexity Cost Calculator | 0.2.0 | Prices the cost of software complexity and how AI adoption changes engineering… |
+| 2026-11-05 22:49:51 | com.outletpicks/unit-prices | OutletPicks | 1.0.0 | Cost per unit of Amazon US products: cheapest per oz, count or GB, and each cat… |
+| 2026-11-05 22:50:19 | com.getparceldata/parcels | GetParcelData | 1.0.0 | US parcel boundaries and assessor data: lookup by APN, point, radius or polygon. |
+| 2026-11-05 22:51:29 | com.alalanet/check | alalanet — check before you pay | 1.0.0 | Is an x402 endpoint or MCP server alive, priced as listed, paying to the right… |
+| 2026-11-05 22:53:22 | [io.github.sipemu/dbt-lineage](https://github.com/sipemu/dbt-lineage-viewer) | dbt-lineage | 0.15.0 | dbt model and column lineage, downstream impact and test proposals; no warehous… |
+| 2026-11-05 22:55:23 | [one.cutclip/cutclip](https://github.com/leovegas/cutclip-mcp) | CutClip.one | 1.0.0 | AI video editor your agent can drive: plan scenes, edit a multi-track timeline,… |
+| 2026-11-05 22:57:27 | io.ohmstead/mcp |  | 0.1.0 | Build wiring schematics in Ohmstead: parts, wires, terminal strips, cables, che… |
+| 2026-11-05 22:57:48 | com.easyappsecom/ea-ecommerce-apps | EA Ecommerce Apps | 1.0.0 | Stats, setup, drafts and opt-in publishing for the EA Shopify apps: bundles, po… |
+| 2026-11-05 23:00:11 | io.github.TiM00R/powershell-terminal-mcp | PowerShell Terminal MCP | 0.4.0 | Shared AI + user PowerShell session on Windows - execute commands, run scripts,… |
+| 2026-11-05 23:01:28 | app.runlater/runlater | RunLater | 1.0.0 | Schedule HTTP requests from an agent: once at an exact time or on cron, with re… |
+| 2026-11-05 23:04:19 | [io.github.leocelis/stele](https://github.com/leocelis/stele) |  | 18.16.2 | Governed agent memory: lessons stay out of search until another actor promotes… |
+| 2026-11-05 23:04:21 | io.ceadigital/base-token-intel-honeypot | Base DEX Liquidity, Honeypot & Token Sa… | 1.0.0 | Real-time DEX liquidity, 24h buy/sell symmetry, Base bytecode check & 0-100 hon… |
+| 2026-11-05 23:04:21 | io.ceadigital/agent-clean-web-grounding | Clean Web Grounding & Token-Efficient M… | 1.0.0 | Parallel Wikipedia & Hacker News grounding stripped of HTML bloat for LLM agent… |
+| 2026-11-05 23:04:21 | io.ceadigital/base-tx-simulator-guard | Base L2 Transaction Simulator & Wallet… | 1.0.0 | Pre-execution Base eth_call/eth_estimateGas simulator & ERC-20 approve drain de… |
+| 2026-11-05 23:05:30 | com.hebby-memories/hebby | Hebby Memories | 0.3.4 | Long-term memory for AI agents: graph memory with Hebbian learning, shared by C… |
+| 2026-11-05 23:08:28 | [io.github.Menal226/nekoweb-mcp-server](https://github.com/Menal226/nekoweb-mcp-server) | Nekoweb | 1.0.0 | Manage your Nekoweb website: browse, edit, upload and deploy files, and check s… |
+| 2026-11-05 23:12:02 | app.sstracker/sstracker | SSTracker free youth training | 5.66.2 | Free youth sports drills, practice plans and age-group answers for parents and… |
+| 2026-11-05 23:13:43 | cx.first/first | First | 3.8.1 | Recruitment: research talent markets, run roles, source candidates and report o… |
+| 2026-11-05 23:14:36 | uy.hogarmontevideo/agenda | Hogar Montevideo · Agenda de service té… | 1.0.0 | Agendá un técnico de electrodomésticos a domicilio en Montevideo y Ciudad de la… |
+| 2026-11-05 23:19:36 | com.ai-arez/arez | Arez AI | 1.1.0 | Jobs, estimates, tasks, team messages and money owed for small US contractors. |
+| 2026-11-05 23:19:41 | [io.github.jordanburke/ssh-fleet-mcp-server](https://github.com/jordanburke/ssh-client-mcp-server) |  | 0.2.1 | MCP server that manages a fleet of SSH hosts via pooled connections. |
+| 2026-11-05 23:20:16 | org.oinp/calculator | OINP Points Calculator (oinp.org) | 1.0.0 | Unofficial OINP (Ontario OWP Stream) score estimates, scoring grid and CLB conv… |
+| 2026-11-05 23:22:10 | ru.skillfoxx/catalog | SkillFoxx | 1.0.0 | Search and install skills, MCP servers and CLI tools for AI agents from SkillFo… |
 
 ## Data source
 

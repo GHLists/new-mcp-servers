@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-11-05T22:31:20.694044Z,my.upti/mcp,Uptimy,1.0.0,https://github.com/uptimy/mcp,streamable-http,"Uptime monitoring from your assistant: see what's down, run incidents, set up monitors and reports."
+2026-11-05T22:32:26.863105Z,com.agentlinkops/agentlinkops,AgentLinkOps,0.6.16,,streamable-http,Backlink monitoring with dated fetch evidence; checks and change events continue after the chat.
+2026-11-05T22:37:56.397458Z,com.softwiro/templates,Softwiro Excel templates and calculators,1.1.0,,streamable-http,"Arabic Excel templates and 23 calculators (VAT, BMI, gold zakat...). No key, nothing stored."
+2026-11-05T22:38:07.194423Z,io.github.Ukraine-Territorial-MCP/court-decisions,Court Decisions Ukraine MCP,0.1.0,,streamable-http,Experimental read-only MCP over metadata of Ukrainian court decisions (DSA/EDRSR open data).
+2026-11-05T22:40:37.149672Z,dev.sundaeui/mcp,Sundae UI,2.0.0,,streamable-http,"Search 301 React components, read usage docs and get shadcn install commands for Sundae UI."
+2026-11-05T22:40:39.847511Z,io.github.beamersaas/complexity-cost-calculator,Complexity Cost Calculator,0.2.0,https://github.com/beamersaas/complexity-cost-calculator-mcp,streamable-http,Prices the cost of software complexity and how AI adoption changes engineering cost over time.
+2026-11-05T22:49:51.848911Z,com.outletpicks/unit-prices,OutletPicks,1.0.0,,streamable-http,"Cost per unit of Amazon US products: cheapest per oz, count or GB, and each category's median."
+2026-11-05T22:50:19.115343Z,com.getparceldata/parcels,GetParcelData,1.0.0,,streamable-http,"US parcel boundaries and assessor data: lookup by APN, point, radius or polygon."
+2026-11-05T22:51:29.654914Z,com.alalanet/check,alalanet — check before you pay,1.0.0,,streamable-http,"Is an x402 endpoint or MCP server alive, priced as listed, paying to the right address? Signed."
+2026-11-05T22:53:22.679988Z,io.github.sipemu/dbt-lineage,dbt-lineage,0.15.0,https://github.com/sipemu/dbt-lineage-viewer,,"dbt model and column lineage, downstream impact and test proposals; no warehouse or dbt compile"
+2026-11-05T22:55:23.943271Z,one.cutclip/cutclip,CutClip.one,1.0.0,https://github.com/leovegas/cutclip-mcp,streamable-http,"AI video editor your agent can drive: plan scenes, edit a multi-track timeline, and render MP4s."
+2026-11-05T22:57:27.955773Z,io.ohmstead/mcp,,0.1.0,,,"Build wiring schematics in Ohmstead: parts, wires, terminal strips, cables, checks."
+2026-11-05T22:57:48.123163Z,com.easyappsecom/ea-ecommerce-apps,EA Ecommerce Apps,1.0.0,,streamable-http,"Stats, setup, drafts and opt-in publishing for the EA Shopify apps: bundles, popups, cart, bars."
+2026-11-05T23:00:11.939076Z,io.github.TiM00R/powershell-terminal-mcp,PowerShell Terminal MCP,0.4.0,,,"Shared AI + user PowerShell session on Windows - execute commands, run scripts, automate your PC"
+2026-11-05T23:01:28.203317Z,app.runlater/runlater,RunLater,1.0.0,,streamable-http,"Schedule HTTP requests from an agent: once at an exact time or on cron, with retries and run logs."
+2026-11-05T23:04:19.997949Z,io.github.leocelis/stele,,18.16.2,https://github.com/leocelis/stele,,Governed agent memory: lessons stay out of search until another actor promotes them with evidence.
+2026-11-05T23:04:21.068168Z,io.ceadigital/base-token-intel-honeypot,"Base DEX Liquidity, Honeypot & Token Safety Scanner",1.0.0,,streamable-http,"Real-time DEX liquidity, 24h buy/sell symmetry, Base bytecode check & 0-100 honeypot score."
+2026-11-05T23:04:21.318654Z,io.ceadigital/agent-clean-web-grounding,Clean Web Grounding & Token-Efficient Markdown Synthesis,1.0.0,,streamable-http,Parallel Wikipedia & Hacker News grounding stripped of HTML bloat for LLM agent contexts.
+2026-11-05T23:04:21.599845Z,io.ceadigital/base-tx-simulator-guard,Base L2 Transaction Simulator & Wallet Drain Guard,1.0.0,,streamable-http,Pre-execution Base eth_call/eth_estimateGas simulator & ERC-20 approve drain detector.
+2026-11-05T23:05:30.825863Z,com.hebby-memories/hebby,Hebby Memories,0.3.4,,streamable-http,"Long-term memory for AI agents: graph memory with Hebbian learning, shared by Claude, Codex and co."
+2026-11-05T23:08:28.390173Z,io.github.Menal226/nekoweb-mcp-server,Nekoweb,1.0.0,https://github.com/Menal226/nekoweb-mcp-server,,"Manage your Nekoweb website: browse, edit, upload and deploy files, and check site stats."
+2026-11-05T23:12:02.756716Z,app.sstracker/sstracker,SSTracker free youth training,5.66.2,,streamable-http,"Free youth sports drills, practice plans and age-group answers for parents and coaches."
+2026-11-05T23:13:43.157688Z,cx.first/first,First,3.8.1,,streamable-http,"Recruitment: research talent markets, run roles, source candidates and report on hiring."
+2026-11-05T23:14:36.712916Z,uy.hogarmontevideo/agenda,Hogar Montevideo · Agenda de service técnico,1.0.0,,streamable-http,Agendá un técnico de electrodomésticos a domicilio en Montevideo y Ciudad de la Costa (Uruguay).
+2026-11-05T23:19:36.224414Z,com.ai-arez/arez,Arez AI,1.1.0,,streamable-http,"Jobs, estimates, tasks, team messages and money owed for small US contractors."
+2026-11-05T23:19:41.855319Z,io.github.jordanburke/ssh-fleet-mcp-server,,0.2.1,https://github.com/jordanburke/ssh-client-mcp-server,,MCP server that manages a fleet of SSH hosts via pooled connections.
+2026-11-05T23:20:16.496928Z,org.oinp/calculator,OINP Points Calculator (oinp.org),1.0.0,,streamable-http,"Unofficial OINP (Ontario OWP Stream) score estimates, scoring grid and CLB conversion."
+2026-11-05T23:22:10.59524Z,ru.skillfoxx/catalog,SkillFoxx,1.0.0,,streamable-http,"Search and install skills, MCP servers and CLI tools for AI agents from SkillFoxx."
