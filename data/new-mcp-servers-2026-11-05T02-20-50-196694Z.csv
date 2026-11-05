@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-11-05T01:22:38.870166Z,estate.bucklerfamily.cedwyn/archive,Cedwyn archive (read-only),0.1.0,,streamable-http,"Read-only archive of Tŷ Mawr (Great House Farm), Llandough, Wales: names, e-books, pages, hashes."
+2026-11-05T01:23:46.156423Z,io.github.steve-in-tandem/govcon-mcp,Intandem Government Contracting & FAR Reference MCP,1.2.2,https://github.com/steve-in-tandem/govcon-mcp,streamable-http,"1,460+ US GovCon references: NAICS/PSC/NIGP codes, 50-state & city portals, SBA set-asides & FAR"
+2026-11-05T01:24:27.602706Z,app.netlify.acenes-of-sparta-the-dragon-slayer/epic-fantasy-101-booklist,Epic Fantasy 101 Booklist,1.0.0,https://github.com/ManolisTsongas/epic-fantasy-101-booklist-mcp,streamable-http,"Ranked epic fantasy book recommendations from the Epic Fantasy 101 booklist, scored on 11 criteria."
+2026-11-05T01:31:45.172134Z,io.github.CloudCorpRecords/cruisescope,,0.1.0,https://github.com/CloudCorpRecords/cruisescope,,"Search cruises, check fares and price history, and look up cabins, ships, lines, ports."
+2026-11-05T01:32:57.918563Z,io.github.grokbot1233/agentreader,,1.0.0,https://github.com/grokbot1233/agentreader,streamable-http,"Pay-per-call web reader (Markdown), link extractor and domain health check. x402 USDC on Base."
+2026-11-05T01:40:27.893158Z,io.github.CloudCorpRecords/glazemath,,0.1.0,https://github.com/CloudCorpRecords/glazemath,,"Ceramic glaze chemistry: unity formulas, limit checks, substitutes, recipes, shelf and firing logs."
+2026-11-05T01:44:27.167693Z,com.useampli/ampli,Ampli — social media scheduler,1.0.0,,streamable-http,"Schedule and publish social media posts from Claude, ChatGPT or any AI agent to 8 networks."
+2026-11-05T01:46:48.187792Z,io.github.interfere-inc/interfere,Interfere,1.0.0,,streamable-http,"Investigate application problems, sessions, and releases with your workspace permissions."
+2026-11-05T01:50:17.113453Z,io.github.CloudCorpRecords/vedicchart,,0.1.0,https://github.com/CloudCorpRecords/vedicchart,,"Free Vedic astrology: panchang, birth charts, matching, doshas, dashas, transits and calendars."
+2026-11-05T01:50:51.970995Z,io.github.pipeworx-io/schemastore,Schemastore,0.2.1,https://github.com/pipeworx-io/mcp-schemastore,streamable-http,SchemaStore MCP
+2026-11-05T01:51:37.093316Z,io.github.pipeworx-io/scotcourts,Scotcourts,0.2.1,https://github.com/pipeworx-io/mcp-scotcourts,streamable-http,Scottish Courts and Tribunals Service (SCTS) — judgment search.
+2026-11-05T01:51:46.89645Z,io.github.pipeworx-io/scrapecreators,Scrapecreators,0.2.1,https://github.com/pipeworx-io/mcp-scrapecreators,streamable-http,ScrapeCreators MCP — wraps the ScrapeCreators social-media + ad-library scraping API…
+2026-11-05T01:52:42.46897Z,io.github.pipeworx-io/scb-se,Scb Se,0.2.1,https://github.com/pipeworx-io/mcp-scb-se,streamable-http,Statistics Sweden PxWeb MCP.
+2026-11-05T01:53:12.34839Z,io.github.direct-web/drop-beacon-mcp,Drop Beacon,1.1.0,https://github.com/direct-web/drop-beacon-mcp,streamable-http,"Live EDC knife, flashlight and fidget prices across retailers, deal checks, top deals and new drops."
+2026-11-05T01:56:15.863096Z,markets.rizon/exchange,Rizon,1.0.0,,streamable-http,"A paper-money exchange: read live order books, place practice trades, test a bot. No sign-up."
+2026-11-05T02:01:37.149637Z,io.github.JonathanTECH1217/whitetape,,0.1.1,https://github.com/JonathanTECH1217/whitetape,,"US building permits as rows with the contractor of record. Free search; 7 cents a row, no account."
+2026-11-05T02:10:57.645758Z,io.github.rzlco666/strut-stack-sql,,2.0.0,https://github.com/rzlco666/strut-stack-sql,,"Token-efficient MCP server for MySQL, PostgreSQL, and SQLite"
+2026-11-05T02:17:33.661458Z,br.com.erppro/erp,ERPPro,1.0.0,,streamable-http,"Consulte vendas, equipe, alertas, estoque em falta e totais financeiros do ERPPro. Somente leitura."
+2026-11-05T02:17:57.170501Z,space.getfund/getfund,,2.4.0,,streamable-http,"Find and win startup funding: programs, investors, perks, and an AI autopilot for applications"
+2026-11-05T02:18:02.082989Z,io.github.standards-concord/concord,Concord,0.1.0,https://github.com/standards-concord/standards-concord,streamable-http,"Read, query and check data against ODI standards hub ontologies (OWL, LinkML), and report gaps."
+2026-11-05T02:18:37.404384Z,com.bench47/bench47,Bench47,1.0.0,,streamable-http,"Shared Markdown memory for your agents: docs, typed collections, files, skills and Dispatch."
+2026-11-05T02:19:14.584812Z,ai.plugmcp/directory,PlugMCP directory,0.1.0,https://github.com/plugmcp-ai/plugmcp-mcp,streamable-http,"Search MCP servers and agent skills, compare them, and get install configs for your client."
