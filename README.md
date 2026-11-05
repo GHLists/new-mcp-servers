@@ -9,38 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 19:21 UTC
+## Latest list — 2026-11-05 20:21 UTC
 
-New MCP servers published between 2026-11-05 18:21 UTC and 2026-11-05 19:21 UTC.
+New MCP servers published between 2026-11-05 19:21 UTC and 2026-11-05 20:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-05T19-21-02-511529Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-05T20-21-09-544282Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-05 18:40:50 | [com.growaify/mcp](https://github.com/h-abar/growaify-mcp) | Growaify — Autonomous Commerce for AI A… | 2.3.9 | Autonomous commerce for AI agents: discover, quote, order, pay, verify. |
-| 2026-11-05 18:43:54 | [io.github.PHM-Audit/phm-lite-check](https://github.com/PHM-Audit/phm-lite-check) | PHM Physics Check | 1.0.1 | Deterministic physics plausibility checks for LLM outputs and robotics data. Of… |
-| 2026-11-05 18:44:09 | [io.github.PB7-debug/bosco-labs-data](https://github.com/PB7-debug/bosco-labs-data) | Bosco Labs data | 0.1.0 | SEC insider trades & filings, US House trades, DoD contracts, EU tenders, EU co… |
-| 2026-11-05 18:44:15 | io.github.kewang93/sks-nutrition-ai | SKS Nutrition AI | 1.0.0 | FDA GRAS search, US retailer ingredient rules, sugar swaps and FDA Nutrition Fa… |
-| 2026-11-05 18:44:47 | [io.github.many77146-bot/dmt-receipts](https://github.com/many77146-bot/dmt-receipts) |  | 0.1.0 | Stamp and verify Bitcoin-anchored OpenTimestamps memory receipts for AI agents. |
-| 2026-11-05 18:49:58 | com.andesprotocol/tenders | Andes Protocol | 0.3.0 | Public procurement for AI agents: Chile tenders and Compra Ágil, fit, buyer and… |
-| 2026-11-05 18:50:27 | ai.skovos/governance | Skovos Governance | 1.0.0 | Governance for AI agents in health systems: inventory, scoped permissions, evid… |
-| 2026-11-05 18:52:00 | [io.github.featureos/featureos-mcp](https://github.com/featureos/featureos-mcp) | FeatureOS | 1.0.0 | Manage FeatureOS feedback boards, roadmaps, changelogs and help-center articles… |
-| 2026-11-05 18:52:46 | [com.vidfare/vidfare](https://github.com/SheepinBoots/clipcost) | VidFare | 1.0.0 | Read-only AI video prices, clip costs, and deals from VidFare. |
-| 2026-11-05 18:56:08 | [com.faxbeep/faxbeep](https://github.com/faxbeep/faxbeep-mcp) | Faxbeep | 1.0.0 | Test fax numbers for AI agents. Send a test fax or scan-to-email, then read wha… |
-| 2026-11-05 18:57:59 | [io.github.Colchora/dmt-receipts](https://github.com/Colchora/dmt-receipts) |  | 0.1.0 | Stamp and verify Bitcoin-anchored OpenTimestamps memory receipts for AI agents. |
-| 2026-11-05 19:00:46 | [io.github.supportwire/supportwire-mcp](https://github.com/supportwire/supportwire-mcp) | SupportWire | 1.0.0 | Run your SupportWire support inbox from any MCP client: conversations, replies,… |
-| 2026-11-05 19:02:28 | it.reright/reright | reright | 0.2.0 | AI humanizer: rewrites what your AI writes so it reads like a person, and like… |
-| 2026-11-05 19:05:25 | loans.sbaexpress.www/sbaexpress-loans | SBA Express Loans | 1.2026.1105.0 | SBA Express program rules, live maximum rates, FY2027 guaranty fees, payments,… |
-| 2026-11-05 19:08:30 | io.github.paperzilla-ai/paperzilla | Paperzilla | 2.1.0 | Morning research briefs, focused paper feeds, public digests and paper Markdown… |
-| 2026-11-05 19:09:48 | com.thebdk/bdk-native | BDK Native | 2026-11-05-decisions | Preview and configure BDK Native apps, check health, buy builds and request del… |
-| 2026-11-05 19:10:05 | com.intrinio/mcp | Intrinio | 1.0.0 | Official Intrinio MCP server. US stock prices, options and fundamentals for AI… |
-| 2026-11-05 19:10:06 | com.postboxservices/postbox-tools |  | 0.2.0 | Free email checks: 24 blacklists, spoofing grade, redirects, spam test, WHOIS,… |
-| 2026-11-05 19:10:47 | io.sourcemed/sourcemed | SourceMed | 1.0.1 | Source-verified medical evidence library for agents. Every card traces to a che… |
-| 2026-11-05 19:11:09 | ai.qaema/menu | Qaema Menu | 1.0.0 | Build and update Arabic & English QR menus for cafés and restaurants: items, pr… |
-| 2026-11-05 19:12:27 | com.localaiprices/localaiprices | Local AI Prices | 1.0.0 | Daily prices, stock and measured LLM speeds for local AI computers and graphics… |
-| 2026-11-05 19:15:57 | [io.github.adjwilli/spritulus](https://github.com/adjwilli/sprite-maker) | Spritulus | 0.24.7 | Browse and create sprites, animations, tilesets, and games with Spritulus. |
-| 2026-11-05 19:16:51 | pl.syncbooster/mcp | SyncBooster | 1.0.0 | Schedule and publish posts to Facebook, Instagram, LinkedIn, Google Business, X… |
-| 2026-11-05 19:18:19 | [codes.dna/agent](https://github.com/dna-codes/dna-codes-platform) | DNA | 1.0.0 | Business rules and domain model agents query instead of guessing: entities, tra… |
+| 2026-11-05 19:26:50 | so.masonry/masonry | Masonry | 1.0.0 | Make videos, images, voiceovers and music with leading AI models, in your own M… |
+| 2026-11-05 19:30:48 | com.rbshome/rbshome | RBSHome | 1.0.0 | Dallas and Collin County, TX property, tax-delinquency and land records for inv… |
+| 2026-11-05 19:33:52 | com.redqd.hive/hive | Hive - The AI-to-Reality Demand Pool | 0.1.0 | Agents leave demand footprints with callbacks and get notified when capabilitie… |
+| 2026-11-05 19:34:42 | com.agenttransmit/magicalink | Magicalink by AgentTransmit | 1.0.0 | Connect Muse and Grok Bot: every message confirmed delivered and read. |
+| 2026-11-05 19:37:45 | [com.neon/mcp](https://github.com/neondatabase/mcp-server-neon) | Neon | 2.0.0 | Official Neon MCP server for managing Neon projects and Lakebase Postgres datab… |
+| 2026-11-05 19:47:47 | io.github.devu-21/quiz20 | Quiz20 | 1.0.0 | Previous year papers, topic quizzes and NCERT chapters for Indian competitive e… |
+| 2026-11-05 19:50:16 | com.valutorio/sync | Valutorio Sync | 1.0.0 | Your Valutorio Markdown notes, readable and writable by your AI. Needs Valutori… |
+| 2026-11-05 19:51:50 | [io.github.yuryev89/webex-mcp](https://github.com/yuryev89/webexmcp) | Webex MCP | 0.3.0 | Cisco Webex MCP server for messages, spaces, teams, people, webhooks and attach… |
+| 2026-11-05 19:58:01 | com.forevenza.services/quarterline | Quarterline: Grease trap pumping for Au… | 1.0.0 | Requests for grease trap pumping across Austin restaurant locations on one cale… |
+| 2026-11-05 19:58:18 | [io.github.kivtxs/pow](https://github.com/kivtxs/proof-of-work) | Proof of Work | 0.1.1 | Post, vote and back claims with evidence on Proof of Work, the front page for p… |
+| 2026-11-05 19:58:45 | [io.github.markusleben/ha-nova](https://github.com/markusleben/ha-nova) | HA NOVA | 0.28.2 | Ask about your Home Assistant and change it from an AI chat, with your OK for r… |
+| 2026-11-05 20:00:57 | io.github.patentref/patentref-mcp | PatentRef | 0.4.0 | PatentsView-compatible US patent API: claim trees, patent briefs and search, gr… |
+| 2026-11-05 20:06:31 | uk.co.needaticket/ticket-prices | NeedATicket live ticket prices | 1.0.0 | Live UK ticket prices in GBP for concerts, sport, theatre and festivals, checke… |
+| 2026-11-05 20:06:32 | net.needaticket/ticket-prices | NeedATicket live ticket prices | 1.0.0 | Live ticket prices in USD for concerts, sport, theatre and festivals, checked h… |
+| 2026-11-05 20:07:02 | ai.brownpaper/brownpaper | Brownpaper AI | 1.0.0 | Turn conversations about work processes into process maps: read, draw, correct… |
+| 2026-11-05 20:07:40 | com.kindleflows/kindleflows | Kindle Flows | 0.1.0 | Turn long AI research and documents into EPUBs for more comfortable reading on… |
+| 2026-11-05 20:12:49 | [io.github.bitbusca/juris-licita-mcp](https://github.com/bitbusca/juris-licita-mcp) | Juris Licita MCP | 0.1.0 | Prazos com feriados forenses por comarca, DJEN, editais do PNCP, índices do BCB… |
+| 2026-11-05 20:14:43 | [io.github.fabioov/moodle-mcp](https://github.com/fabioov/moodle-mcp) | Moodle MCP | 0.1.1 | Read-only Moodle server: assignments, deadlines, grades, courses, forums, notif… |
+| 2026-11-05 20:18:49 | [io.github.emokeo/neutra](https://github.com/emokeo/neutra) | Neutra | 0.2.0 | Two people's AI assistants find a meeting time without either seeing the other'… |
+| 2026-11-05 20:19:39 | [io.github.getsentry/sentry-mcp](https://github.com/getsentry/sentry-mcp) |  | 0.48.0 | MCP server for Sentry - error monitoring, issue tracking, and debugging for AI… |
 
 ## Data source
 

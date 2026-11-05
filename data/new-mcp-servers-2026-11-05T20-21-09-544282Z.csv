@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-11-05T19:26:50.643577Z,so.masonry/masonry,Masonry,1.0.0,,streamable-http,"Make videos, images, voiceovers and music with leading AI models, in your own Masonry workspace."
+2026-11-05T19:30:48.167432Z,com.rbshome/rbshome,RBSHome,1.0.0,,streamable-http,"Dallas and Collin County, TX property, tax-delinquency and land records for investors."
+2026-11-05T19:33:52.210833Z,com.redqd.hive/hive,Hive - The AI-to-Reality Demand Pool,0.1.0,,streamable-http,Agents leave demand footprints with callbacks and get notified when capabilities go online.
+2026-11-05T19:34:42.451684Z,com.agenttransmit/magicalink,Magicalink by AgentTransmit,1.0.0,,streamable-http,Connect Muse and Grok Bot: every message confirmed delivered and read.
+2026-11-05T19:37:45.419648Z,com.neon/mcp,Neon,2.0.0,https://github.com/neondatabase/mcp-server-neon,streamable-http,Official Neon MCP server for managing Neon projects and Lakebase Postgres databases.
+2026-11-05T19:47:47.830785Z,io.github.devu-21/quiz20,Quiz20,1.0.0,,streamable-http,"Previous year papers, topic quizzes and NCERT chapters for Indian competitive exams."
+2026-11-05T19:50:16.430723Z,com.valutorio/sync,Valutorio Sync,1.0.0,,streamable-http,"Your Valutorio Markdown notes, readable and writable by your AI. Needs Valutorio Sync."
+2026-11-05T19:51:50.467451Z,io.github.yuryev89/webex-mcp,Webex MCP,0.3.0,https://github.com/yuryev89/webexmcp,,"Cisco Webex MCP server for messages, spaces, teams, people, webhooks and attachments."
+2026-11-05T19:58:01.068865Z,com.forevenza.services/quarterline,"Quarterline: Grease trap pumping for Austin restaurant groups, on one 90-day calendar",1.0.0,,streamable-http,Requests for grease trap pumping across Austin restaurant locations on one calendar and invoice
+2026-11-05T19:58:18.907845Z,io.github.kivtxs/pow,Proof of Work,0.1.1,https://github.com/kivtxs/proof-of-work,,"Post, vote and back claims with evidence on Proof of Work, the front page for people and AI agents."
+2026-11-05T19:58:45.085169Z,io.github.markusleben/ha-nova,HA NOVA,0.28.2,https://github.com/markusleben/ha-nova,streamable-http,"Ask about your Home Assistant and change it from an AI chat, with your OK for risky actions."
+2026-11-05T20:00:57.003448Z,io.github.patentref/patentref-mcp,PatentRef,0.4.0,,,"PatentsView-compatible US patent API: claim trees, patent briefs and search, grants 1976 to now."
+2026-11-05T20:06:31.860876Z,uk.co.needaticket/ticket-prices,NeedATicket live ticket prices,1.0.0,,streamable-http,"Live UK ticket prices in GBP for concerts, sport, theatre and festivals, checked hourly. Read-only."
+2026-11-05T20:06:32.540238Z,net.needaticket/ticket-prices,NeedATicket live ticket prices,1.0.0,,streamable-http,"Live ticket prices in USD for concerts, sport, theatre and festivals, checked hourly. Read-only."
+2026-11-05T20:07:02.120853Z,ai.brownpaper/brownpaper,Brownpaper AI,1.0.0,,streamable-http,"Turn conversations about work processes into process maps: read, draw, correct and export."
+2026-11-05T20:07:40.374825Z,com.kindleflows/kindleflows,Kindle Flows,0.1.0,,streamable-http,Turn long AI research and documents into EPUBs for more comfortable reading on your Kindle.
+2026-11-05T20:12:49.782421Z,io.github.bitbusca/juris-licita-mcp,Juris Licita MCP,0.1.0,https://github.com/bitbusca/juris-licita-mcp,,"Prazos com feriados forenses por comarca, DJEN, editais do PNCP, índices do BCB e CNPJ."
+2026-11-05T20:14:43.857307Z,io.github.fabioov/moodle-mcp,Moodle MCP,0.1.1,https://github.com/fabioov/moodle-mcp,,"Read-only Moodle server: assignments, deadlines, grades, courses, forums, notifications."
+2026-11-05T20:18:49.907639Z,io.github.emokeo/neutra,Neutra,0.2.0,https://github.com/emokeo/neutra,streamable-http,Two people's AI assistants find a meeting time without either seeing the other's calendar.
+2026-11-05T20:19:39.995386Z,io.github.getsentry/sentry-mcp,,0.48.0,https://github.com/getsentry/sentry-mcp,streamable-http,"MCP server for Sentry - error monitoring, issue tracking, and debugging for AI assistants"
