@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-11-05T06:26:59.206619Z,host.hodi/hodi,Hodi,1.0.0,,streamable-http,"Deploy from Git, create databases, read error logs and manage PHP, DNS and cron on Hodi hosting."
+2026-11-05T06:31:12.300872Z,io.iasi/mcp,IașiMCP,0.1.0,,streamable-http,"Local data for Iași, Romania, from iasi.io: ask in Romanian or English, answers cite their sources."
+2026-11-05T06:33:00.135355Z,xyz.getsphere/sphere-vault,Sphere Vault,1.0.0,https://github.com/lgcy-official/spheremaster,streamable-http,Sphere Vault: one encrypted vault for every AI you use
+2026-11-05T06:37:09.529284Z,ai.outlit/outlit,Outlit,1.1.0,https://github.com/OutlitAI/outlit-sdk,streamable-http; streamable-http,"Ask about any customer and get one matched record across CRM, billing, support and product data."
+2026-11-05T06:38:09.242779Z,io.github.gemsmakers/mcp-server,GemsMakers Precision Scientific & Engineering Simulators,1.0.0,https://github.com/gemsmakers/gemsmakers-mcp-server,,"MCP server for GemsMakers precision scientific, horology, and engineering calculators."
+2026-11-05T06:39:15.421879Z,nl.afhaalgroothandel/shop,,0.4.2,,streamable-http,"Dutch family B2B wholesaler since 1992: toys, gifts, party and seasonal items from own stock"
+2026-11-05T06:41:42.445696Z,io.github.allooloo/getasof,getasof: the As Of door,0.1.0,https://github.com/allooloo/cm-kg,streamable-http,"The issuer record as of any date, from the sealed vintage: signed and receipted (RCO-10060)."
+2026-11-05T06:47:55.071707Z,io.github.JerBouma/financetoolkit,Finance Toolkit,2.3.1,https://github.com/JerBouma/FinanceToolkit,streamable-http,"500+ transparent financial methods calculated from raw statements, not third-party endpoints."
+2026-11-05T06:50:18.035672Z,com.nimble.app/nimble-crm,Nimble CRM,1.1.1,,streamable-http,Connect AI assistants to Nimble CRM to access and work with customer relationship data.
+2026-11-05T06:52:10.401941Z,io.github.JoongHyuk-Shin/multigres-mcp,Multigres,0.1.0,https://github.com/JoongHyuk-Shin/multigres-mcp,,Postgres diagnostics and cluster operations for Multigres clusters.
+2026-11-05T06:53:29.421022Z,app.vercel.control-your-tesla/control-your-tesla,Control Your Tesla,1.0.0,,streamable-http,"AI for your car: check charge, start climate, lock/unlock, open trunk via Tesla Fleet API. OAuth."
+2026-11-05T06:53:30.938375Z,io.github.ireinahedad/arakice-nhl,ArakIce NHL probabilities,0.1.1,,,NHL pre-game win and puck line probabilities with a public track record; paid calls via x402.
+2026-11-05T06:56:11.770408Z,io.github.boffincoders/fundamental-analysis-mcp,Fundamental Analysis,0.1.0,https://github.com/boffincoders/fundamental-analysis,,"Read-only fundamental analysis: P/E, DCF, Graham, Altman Z, Piotroski and margins, with formulas"
+2026-11-05T06:58:34.333426Z,io.github.TTNAN/alphadesk,AlphaDesk,0.1.0,https://github.com/TTNAN/AlphaDesk,,"US equity research tools: SEC 10-K/10-Q search with citations, prices, risk, simulated orders."
+2026-11-05T06:59:23.420421Z,eu.humblecode/uol,UOL Účetnictví (unofficial),0.4.0,https://github.com/jakubbegera/uol-mcp,,"Invoices, receivables, VAT, ledger and documents from UOL Účetnictví (Czech online accounting)"
+2026-11-05T07:13:14.835433Z,ai.getvda/integration-agent,,1.0.1,,streamable-http,"MCP Drift Observatory: has a public MCP server's declared tools changed? Free check, archive, feeds."
+2026-11-05T07:13:53.929093Z,com.metrinel/metrinel,Metrinel,1.0.0,,streamable-http,"Read-only Google Ads, GA4 and Search Console data for Claude, with no Google Cloud setup."
+2026-11-05T07:17:08.802438Z,co.trak/trak,Trak,1.0.0,,streamable-http,"Job management for trades: jobs, schedules, quotes, invoices, timesheets via OAuth."
+2026-11-05T07:17:36.891808Z,studio.dodraft/getdeck,,0.1.2,,streamable-http,"250+ finished slide layouts and 40+ themes your agent can search, fetch and build a deck from"
+2026-11-05T07:17:46.03559Z,ai.loopvoice/mcp,Loop Voice,1.0.0,,streamable-http,"Ask about Loop Voice AI calls, texts, campaigns and revenue. Read-only, OAuth sign-in."
+2026-11-05T07:17:54.228684Z,io.github.Kx96xx/tshark-mcp,tshark-mcp,0.2.0,https://github.com/Kx96xx/tshark-mcp,,"Read-only packet capture analysis with tshark: Diameter, GTP, SIP, RTP, SIGTRAN, DNS, TCP and TLS."
+2026-11-05T07:20:18.357486Z,net.teleprompt/teleprompter,Teleprompt.net,1.0.0,,streamable-http,Open a script in a free browser teleprompter that records your webcam. No sign-up.
+2026-11-05T07:27:08.350503Z,be.afhaalgroothandel/shop,,0.4.4,,streamable-http,"Dutch family B2B wholesaler since 1992: toys, gifts, party and seasonal items from own stock"
+2026-11-05T07:27:13.853014Z,com.usepaylo/paylo,Paylo,0.1.0,https://github.com/scephiro/paylo-mcp-server,streamable-http,"Search verified Nigerian stores, products and services on Paylo. Read-only, no account needed."
+2026-11-05T07:27:29.618347Z,de.grosshandelholland/shop,,0.4.4,,streamable-http,"Dutch family B2B wholesaler since 1992: toys, gifts, party and seasonal items from own stock"

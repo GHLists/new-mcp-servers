@@ -9,26 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 06:23 UTC
+## Latest list — 2026-11-05 07:27 UTC
 
-New MCP servers published between 2026-11-05 05:21 UTC and 2026-11-05 06:23 UTC.
+New MCP servers published between 2026-11-05 06:23 UTC and 2026-11-05 07:27 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-05T06-23-35-041596Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-05T07-27-49-816884Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-05 05:21:11 | fun.cookin/cookin | Cookin | 1.0.0 | Live Solana memecoin data: token scores, bundle detection, wallet and deployer… |
-| 2026-11-05 05:23:31 | app.uiprompt/uiprompt | UIPrompt | 1.2.0 | Plan every page of your UI so your coding agent builds exactly that. |
-| 2026-11-05 05:25:28 | com.mybuba/public-discovery | Buba public catalogue and guides | 1.0.0 | Read-only fictional adult AI companion catalogue and Buba product documentation. |
-| 2026-11-05 05:34:18 | app.linkgpt/linkgpt | LinkGPT | 1.0.0 | SEO and AI search visibility: Search Console data, keyword research, AI visibil… |
-| 2026-11-05 05:42:13 | io.github.Alipate-Takau/agents-galleria | Agents Galleria | 1.0.0 | Art world run by AI agents: bid play money on agents' paintings, chat in the Lo… |
-| 2026-11-05 05:44:24 | io.github.hisentoken/wanlianku-mcp | Wanlianku Business Opportunities \| 万联库 | 1.0.0 | Discover business opportunities and manage your own Wanlianku account with seve… |
-| 2026-11-05 05:44:28 | [io.github.hwipit/mcp-server](https://github.com/hwipit/mcp-server) | Hwip | 0.1.7 | Notify your phone, ask questions and get answers back from AI coding agents via… |
-| 2026-11-05 05:46:35 | [tw.ovata/ovata](https://github.com/ovata-cloud/ovata) | Ovata | 1.0.0 | Build, preview and publish Ovata websites and online shops from your AI tool, t… |
-| 2026-11-05 05:53:57 | [io.changedetection/mcp](https://github.com/dgtlmoon/changedetection.io) | changedetection.io (official) | 0.70.1 | Official changedetection.io MCP: web page change tracking, back-in-stock and pr… |
-| 2026-11-05 05:56:43 | [es.pharmadatepedido/mcp](https://github.com/Rubenga11/pedido-directo) | Pharmadate | 0.1.0 | Pharmadate: catalogo, valoracion y pedidos de farmacia, y gestion de farmacias… |
-| 2026-11-05 06:14:21 | [io.github.dennisyilmaz/coin-scout](https://github.com/dennisyilmaz/coin-scout) | Coin Scout | 0.2.0 | Read-only Solana MCP server for on-chain analysis and fraud investigation, back… |
-| 2026-11-05 06:20:45 | [io.github.W7uuuuz/career-kit](https://github.com/W7uuuuz/Career-kit) | Career Kit | 0.2.2 | AI career coach: real job-market gap analysis, staged roadmap, check-in tasks,… |
+| 2026-11-05 06:26:59 | host.hodi/hodi | Hodi | 1.0.0 | Deploy from Git, create databases, read error logs and manage PHP, DNS and cron… |
+| 2026-11-05 06:31:12 | io.iasi/mcp | IașiMCP | 0.1.0 | Local data for Iași, Romania, from iasi.io: ask in Romanian or English, answers… |
+| 2026-11-05 06:33:00 | [xyz.getsphere/sphere-vault](https://github.com/lgcy-official/spheremaster) | Sphere Vault | 1.0.0 | Sphere Vault: one encrypted vault for every AI you use |
+| 2026-11-05 06:37:09 | [ai.outlit/outlit](https://github.com/OutlitAI/outlit-sdk) | Outlit | 1.1.0 | Ask about any customer and get one matched record across CRM, billing, support… |
+| 2026-11-05 06:38:09 | [io.github.gemsmakers/mcp-server](https://github.com/gemsmakers/gemsmakers-mcp-server) | GemsMakers Precision Scientific & Engin… | 1.0.0 | MCP server for GemsMakers precision scientific, horology, and engineering calcu… |
+| 2026-11-05 06:39:15 | nl.afhaalgroothandel/shop |  | 0.4.2 | Dutch family B2B wholesaler since 1992: toys, gifts, party and seasonal items f… |
+| 2026-11-05 06:41:42 | [io.github.allooloo/getasof](https://github.com/allooloo/cm-kg) | getasof: the As Of door | 0.1.0 | The issuer record as of any date, from the sealed vintage: signed and receipted… |
+| 2026-11-05 06:47:55 | [io.github.JerBouma/financetoolkit](https://github.com/JerBouma/FinanceToolkit) | Finance Toolkit | 2.3.1 | 500+ transparent financial methods calculated from raw statements, not third-pa… |
+| 2026-11-05 06:50:18 | com.nimble.app/nimble-crm | Nimble CRM | 1.1.1 | Connect AI assistants to Nimble CRM to access and work with customer relationsh… |
+| 2026-11-05 06:52:10 | [io.github.JoongHyuk-Shin/multigres-mcp](https://github.com/JoongHyuk-Shin/multigres-mcp) | Multigres | 0.1.0 | Postgres diagnostics and cluster operations for Multigres clusters. |
+| 2026-11-05 06:53:29 | app.vercel.control-your-tesla/control-your-tesla | Control Your Tesla | 1.0.0 | AI for your car: check charge, start climate, lock/unlock, open trunk via Tesla… |
+| 2026-11-05 06:53:30 | io.github.ireinahedad/arakice-nhl | ArakIce NHL probabilities | 0.1.1 | NHL pre-game win and puck line probabilities with a public track record; paid c… |
+| 2026-11-05 06:56:11 | [io.github.boffincoders/fundamental-analysis-mcp](https://github.com/boffincoders/fundamental-analysis) | Fundamental Analysis | 0.1.0 | Read-only fundamental analysis: P/E, DCF, Graham, Altman Z, Piotroski and margi… |
+| 2026-11-05 06:58:34 | [io.github.TTNAN/alphadesk](https://github.com/TTNAN/AlphaDesk) | AlphaDesk | 0.1.0 | US equity research tools: SEC 10-K/10-Q search with citations, prices, risk, si… |
+| 2026-11-05 06:59:23 | [eu.humblecode/uol](https://github.com/jakubbegera/uol-mcp) | UOL Účetnictví (unofficial) | 0.4.0 | Invoices, receivables, VAT, ledger and documents from UOL Účetnictví (Czech onl… |
+| 2026-11-05 07:13:14 | ai.getvda/integration-agent |  | 1.0.1 | MCP Drift Observatory: has a public MCP server's declared tools changed? Free c… |
+| 2026-11-05 07:13:53 | com.metrinel/metrinel | Metrinel | 1.0.0 | Read-only Google Ads, GA4 and Search Console data for Claude, with no Google Cl… |
+| 2026-11-05 07:17:08 | co.trak/trak | Trak | 1.0.0 | Job management for trades: jobs, schedules, quotes, invoices, timesheets via OA… |
+| 2026-11-05 07:17:36 | studio.dodraft/getdeck |  | 0.1.2 | 250+ finished slide layouts and 40+ themes your agent can search, fetch and bui… |
+| 2026-11-05 07:17:46 | ai.loopvoice/mcp | Loop Voice | 1.0.0 | Ask about Loop Voice AI calls, texts, campaigns and revenue. Read-only, OAuth s… |
+| 2026-11-05 07:17:54 | [io.github.Kx96xx/tshark-mcp](https://github.com/Kx96xx/tshark-mcp) | tshark-mcp | 0.2.0 | Read-only packet capture analysis with tshark: Diameter, GTP, SIP, RTP, SIGTRAN… |
+| 2026-11-05 07:20:18 | net.teleprompt/teleprompter | Teleprompt.net | 1.0.0 | Open a script in a free browser teleprompter that records your webcam. No sign-… |
+| 2026-11-05 07:27:08 | be.afhaalgroothandel/shop |  | 0.4.4 | Dutch family B2B wholesaler since 1992: toys, gifts, party and seasonal items f… |
+| 2026-11-05 07:27:13 | [com.usepaylo/paylo](https://github.com/scephiro/paylo-mcp-server) | Paylo | 0.1.0 | Search verified Nigerian stores, products and services on Paylo. Read-only, no… |
+| 2026-11-05 07:27:29 | de.grosshandelholland/shop |  | 0.4.4 | Dutch family B2B wholesaler since 1992: toys, gifts, party and seasonal items f… |
 
 ## Data source
 
