@@ -9,35 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 14:20 UTC
+## Latest list — 2026-11-05 15:20 UTC
 
-New MCP servers published between 2026-11-05 13:19 UTC and 2026-11-05 14:20 UTC.
+New MCP servers published between 2026-11-05 14:20 UTC and 2026-11-05 15:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-05T14-20-55-469781Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-05T15-20-15-971653Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-05 13:19:55 | ai.rallyprop/gov-funding | RallyProp: SBIR, OTA & Federal Innovati… | 1.1.0 | Live SBIR/STTR, BAA, OTA & prize challenge opportunities from DSIP, SAM.gov, AF… |
-| 2026-11-05 13:22:38 | com.saferate/saferate | Safe Rate | 1.0.0 | US mortgage rate estimates, lender rankings and research, and US Treasury marke… |
-| 2026-11-05 13:22:44 | [io.github.web2wave/web2wave](https://github.com/web2wave/cursor-plugin) | web2wave | 1.0.0 | Hosted MCP for web2wave quizzes, paywalls, experiments, and subscriptions. |
-| 2026-11-05 13:28:59 | com.simplehouseplanner/floor-plans | Simple House Planner | 2.0.0 | Design and change floor plans to scale in 2D and 3D: walls, rooms, roofs, furni… |
-| 2026-11-05 13:35:06 | com.assign2me/mcp | assign2me | 1.0.0 | Manage tasks, projects and client collaboration in assign2me from your AI assis… |
-| 2026-11-05 13:35:58 | [io.github.n1m21n/infinite-engine](https://github.com/n1m21n/Infinite) |  | 1.0.1 | Infinite audiovisual engine for AI agents: sound, shaders and video patches. Fr… |
-| 2026-11-05 13:36:08 | [io.github.Servosity/dropsuite-mcp](https://github.com/servosity/msp-skills) | Dropsuite (NinjaOne) MCP | 0.1.0 | Every Dropsuite (NinjaOne SaaS Backup) read, plus fleet-wide backup health, cov… |
-| 2026-11-05 13:40:13 | co.journalit/journalit | Journalit | 1.10.0 | Trading journal in Obsidian. Ask Claude or ChatGPT about your trades; edits are… |
-| 2026-11-05 13:41:35 | co.korzy/korzy | Korzy | 1.0.0 | US parcel records plus utilities, power, grid, environmental and logistics data… |
-| 2026-11-05 13:42:58 | [io.github.renl/proceed-mcp](https://github.com/renl/proceed-mcp) |  | 0.1.0-preview.1 | Preview Telegram approval broker for MCP clients; live first use unverified. |
-| 2026-11-05 13:44:16 | [io.github.theluckystrike/social-security-cola-2027-mcp](https://github.com/theluckystrike/social-security-cola-2027-mcp) | Social Security COLA 2027 MCP | 1.0.0 | Social Security COLA 2027, full retirement age, earnings test and 2027 limits f… |
-| 2026-11-05 13:44:34 | com.pulsvy/pulsvy | PulsVy | 0.1.0 | Your Google Health data (Fitbit, Pixel Watch): sleep, HRV, readiness and biolog… |
-| 2026-11-05 13:45:56 | [io.github.jordanburke/ssh-client-mcp-server](https://github.com/jordanburke/ssh-client-mcp-server) |  | 1.6.0 | MCP server for executing shell commands on remote hosts via SSH. |
-| 2026-11-05 13:46:01 | lv.yappy/shop | YappyKids shop | 0.1.0 | Children's furniture catalogue of YappyKids (Latvia): search, prices, stock, de… |
-| 2026-11-05 13:51:36 | [io.github.theluckystrike/i-bond-rate-mcp](https://github.com/theluckystrike/i-bond-rate-mcp) | I Bond Rate MCP | 1.0.0 | Current I bond rate, what your I bond earns by issue month, and value estimates… |
-| 2026-11-05 13:54:57 | com.back4app/back4app | Back4app | 1.0.0 | Deploy anything that runs in a container and get a live HTTPS address. No accou… |
-| 2026-11-05 13:57:10 | cc.callbox/callbox | Callbox | 1.0.0 | Your recorded calls and meetings: search transcripts, file recordings, save not… |
-| 2026-11-05 13:57:45 | [io.github.theluckystrike/mortgage-rates-today-mcp](https://github.com/theluckystrike/mortgage-rates-today-mcp) | Mortgage Rates Today MCP | 1.0.0 | Mortgage rates today: Freddie Mac weekly 30 and 15 year fixed averages, history… |
-| 2026-11-05 14:02:13 | com.harpgtm/harp | Harp | 1.0.0 | Outbound sales rails for Claude: accounts, contacts, sequences and replies, sen… |
-| 2026-11-05 14:12:51 | app.rosegold/rosegold | rosegold: offers and rewards matched to… | 1.0.0 | Get offers and rewards matched to what you buy on Amazon, with a single prompt… |
-| 2026-11-05 14:16:15 | [io.github.nowi333/monerometrics](https://github.com/nowi333/monerometrics) |  | 0.5.1 | Live Monero network metrics: reorgs, orphans, pool centralization and the Haven… |
+| 2026-11-05 14:26:24 | com.canweship/product-guidance | CanWeShip Product Guidance | 1.1.0 | Preliminary USPS, UPS and FedEx rules for shipping perfume, batteries, aerosols… |
+| 2026-11-05 14:26:48 | io.formule/mcp | Formule | 1.0.0 | Real estate CRM for Claude and ChatGPT: find leads and listings, report on pipe… |
+| 2026-11-05 14:27:42 | com.trailberg.mcp/trailberg | Trailberg — Activewear, Tracksuits & Fo… | 1.0.0 | Shop Trailberg activewear, tracksuits, jackets, footwear and accessories for me… |
+| 2026-11-05 14:29:00 | com.dreamisfree.mcp/dream-is-free | Dream Is Free — Streetwear, Denim & Hoo… | 1.0.0 | Shop Dream Is Free streetwear, denim, hoodies, jackets, joggers, knitwear, foot… |
+| 2026-11-05 14:30:29 | com.upgrow/instagram-growth | UpGrow Instagram Growth | 1.0.0 | UpGrow Instagram growth MCP server: plans, one-time shop, free Instagram tools… |
+| 2026-11-05 14:30:30 | com.aariclothing.mcp/aari-clothing | Aari Clothing — Premium Menswear, Activ… | 1.0.0 | Shop Aari men's clothing, activewear and footwear: jackets, hoodies, polos, tro… |
+| 2026-11-05 14:31:51 | legal.loupe/citation-checker | Loupe: citation checker for US legal fi… | 1.0.0 | Checks every citation in a US legal filing: cases, statutes, quotations and lin… |
+| 2026-11-05 14:31:54 | ie.trailberg.mcp/trailberg-ireland | Trailberg Ireland — Activewear, Tracksu… | 1.0.0 | Shop Trailberg Ireland activewear, tracksuits, jackets and footwear for men, wo… |
+| 2026-11-05 14:33:10 | com.hrflare/mcp | HR FLARE | 1.0.0 | HR for small teams: leave, attendance, expenses, payslips and team data. Acts a… |
+| 2026-11-05 14:33:57 | [io.github.BruceXcluding/session-recap](https://github.com/BruceXcluding/session-recap) | session-recap | 0.6.0 | Recap AI coding sessions (Claude Code, Codex, dsh, OpenCode): intent, decisions… |
+| 2026-11-05 14:34:42 | [io.github.dkaleganov/qbo-multicompany-mcp](https://github.com/dkaleganov/qbo-multicompany-mcp) |  | 0.1.1 | Unofficial read-only MCP server for several QuickBooks Online company files in… |
+| 2026-11-05 14:34:45 | pl.furgonetka/mcp | Furgonetka | 0.2.0 | Śledzenie przesyłek, lista zamówionych paczek i przewoźników w Furgonetka.pl |
+| 2026-11-05 14:37:37 | ai.sloosh/sloosh | Sloosh | 0.1.0 | Generate images and video, run Spaces and build canvases from your agent. OAuth… |
+| 2026-11-05 14:38:25 | io.github.SautiKit/sautikit | Sautikit | 1.0.0 | Kenyan phone numbers, calls, recordings, AI voice agents and broadcasts, billed… |
+| 2026-11-05 14:38:26 | [io.github.nero-zng/solana-alpha-x402-mcp](https://github.com/nero-zng/solana-alpha-x402-mcp) | Solana Alpha x402 | 1.4.0 | Pay-per-call Solana market intel via x402 USDC: price, news, trending, perps, r… |
+| 2026-11-05 14:38:33 | com.fileproapp/filesharepro | FileShare Pro | 0.2.0 | Publish HTML files as shareable pages, update them at the same link, and read g… |
+| 2026-11-05 14:41:22 | com.agentscpa/agentscpa | AgentsCPA | 0.1.0 | Affiliate program for AI agents: relevant offers from top brands with links. Ea… |
+| 2026-11-05 14:44:12 | [io.github.nietzische-app/teklif-mcp](https://github.com/nietzische-app/teklif-mcp) | Teklif | 0.2.0 | Demo: brand offers (car rental, e-commerce, insurance) for ChatGPT, Claude, Gem… |
+| 2026-11-05 14:45:10 | com.clawhard/stamp | Stamp | 1.0.0 | Check a domain's SPF, DKIM, DMARC and MX from live DNS, the Gmail/Yahoo rules,… |
+| 2026-11-05 14:46:59 | io.github.kalgoodman/agent-demand-registry | Agent Demand Registry | 0.2.0 | Find data sources for agents, and say what data or tools you need and would pay… |
+| 2026-11-05 14:51:41 | [io.github.alhermann/agentcourier](https://github.com/alhermann/agentcourier) | agentcourier | 2.1.1 | Let AI agents on different machines message each other and share files, end-to-… |
+| 2026-11-05 15:00:35 | com.viralance/mcp-server | Viralance | 1.0.0 | Generate and edit AI videos and images, get trend reports, hooks and captions o… |
+| 2026-11-05 15:02:23 | [io.github.lplplp101/windows-print-mcp](https://github.com/lplplp101/print-mcp) | Windows Print | 1.0.0 | Print PDF files to local printers on a Windows PC (page ranges, copies, duplex,… |
+| 2026-11-05 15:05:37 | com.runtheband/runtheband | RunTheBand | 1.0.0 | Run a band's bookings: events, leads, musician lineups and fees, call sheets, i… |
+| 2026-11-05 15:11:33 | ai.tevyon/studio | Tevyon | 1.0.0 | Images and videos with Seedance, Veo, Kling, Nano Banana and more, priced befor… |
+| 2026-11-05 15:13:19 | com.deliverect/deliverect | Deliverect | 1.0.0 | Ask about your restaurant's sales, orders, menus and opening hours, using live… |
+| 2026-11-05 15:14:52 | pl.lentra/lentra | Lentra | 1.0.0 | Polskie przetargi na roboty budowlane: wyszukiwanie, analiza dokumentacji, plik… |
 
 ## Data source
 
