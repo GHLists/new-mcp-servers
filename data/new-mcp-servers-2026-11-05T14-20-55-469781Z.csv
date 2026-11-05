@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-11-05T13:19:55.533521Z,ai.rallyprop/gov-funding,"RallyProp: SBIR, OTA & Federal Innovation Funding",1.1.0,,streamable-http,"Live SBIR/STTR, BAA, OTA & prize challenge opportunities from DSIP, SAM.gov, AFWERX, DIU & more."
+2026-11-05T13:22:38.034184Z,com.saferate/saferate,Safe Rate,1.0.0,,streamable-http; streamable-http,"US mortgage rate estimates, lender rankings and research, and US Treasury market data."
+2026-11-05T13:22:44.139169Z,io.github.web2wave/web2wave,web2wave,1.0.0,https://github.com/web2wave/cursor-plugin,streamable-http,"Hosted MCP for web2wave quizzes, paywalls, experiments, and subscriptions."
+2026-11-05T13:28:59.939027Z,com.simplehouseplanner/floor-plans,Simple House Planner,2.0.0,,streamable-http,"Design and change floor plans to scale in 2D and 3D: walls, rooms, roofs, furniture and gardens."
+2026-11-05T13:35:06.436652Z,com.assign2me/mcp,assign2me,1.0.0,,streamable-http,"Manage tasks, projects and client collaboration in assign2me from your AI assistant."
+2026-11-05T13:35:58.733542Z,io.github.n1m21n/infinite-engine,,1.0.1,https://github.com/n1m21n/Infinite,,"Infinite audiovisual engine for AI agents: sound, shaders and video patches. Free, MIT."
+2026-11-05T13:36:08.961354Z,io.github.Servosity/dropsuite-mcp,Dropsuite (NinjaOne) MCP,0.1.0,https://github.com/servosity/msp-skills,,"Every Dropsuite (NinjaOne SaaS Backup) read, plus fleet-wide backup health, coverage gaps and"
+2026-11-05T13:40:13.769186Z,co.journalit/journalit,Journalit,1.10.0,,streamable-http,Trading journal in Obsidian. Ask Claude or ChatGPT about your trades; edits are previewed first.
+2026-11-05T13:41:35.126731Z,co.korzy/korzy,Korzy,1.0.0,,streamable-http,"US parcel records plus utilities, power, grid, environmental and logistics data by address or point."
+2026-11-05T13:42:58.29603Z,io.github.renl/proceed-mcp,,0.1.0-preview.1,https://github.com/renl/proceed-mcp,,Preview Telegram approval broker for MCP clients; live first use unverified.
+2026-11-05T13:44:16.466226Z,io.github.theluckystrike/social-security-cola-2027-mcp,Social Security COLA 2027 MCP,1.0.0,https://github.com/theluckystrike/social-security-cola-2027-mcp,streamable-http,"Social Security COLA 2027, full retirement age, earnings test and 2027 limits from SSA notices."
+2026-11-05T13:44:34.493634Z,com.pulsvy/pulsvy,PulsVy,0.1.0,,streamable-http,"Your Google Health data (Fitbit, Pixel Watch): sleep, HRV, readiness and biological age."
+2026-11-05T13:45:56.359686Z,io.github.jordanburke/ssh-client-mcp-server,,1.6.0,https://github.com/jordanburke/ssh-client-mcp-server,,MCP server for executing shell commands on remote hosts via SSH.
+2026-11-05T13:46:01.247522Z,lv.yappy/shop,YappyKids shop,0.1.0,,streamable-http,"Children's furniture catalogue of YappyKids (Latvia): search, prices, stock, delivery. Read-only."
+2026-11-05T13:51:36.950288Z,io.github.theluckystrike/i-bond-rate-mcp,I Bond Rate MCP,1.0.0,https://github.com/theluckystrike/i-bond-rate-mcp,streamable-http,"Current I bond rate, what your I bond earns by issue month, and value estimates from TreasuryDirect."
+2026-11-05T13:54:57.669013Z,com.back4app/back4app,Back4app,1.0.0,,streamable-http,Deploy anything that runs in a container and get a live HTTPS address. No account needed to start.
+2026-11-05T13:57:10.64214Z,cc.callbox/callbox,Callbox,1.0.0,,streamable-http,"Your recorded calls and meetings: search transcripts, file recordings, save notes."
+2026-11-05T13:57:45.314841Z,io.github.theluckystrike/mortgage-rates-today-mcp,Mortgage Rates Today MCP,1.0.0,https://github.com/theluckystrike/mortgage-rates-today-mcp,streamable-http,"Mortgage rates today: Freddie Mac weekly 30 and 15 year fixed averages, history and payment math."
+2026-11-05T14:02:13.575163Z,com.harpgtm/harp,Harp,1.0.0,,streamable-http,"Outbound sales rails for Claude: accounts, contacts, sequences and replies, sent from your mailbox."
+2026-11-05T14:12:51.910105Z,app.rosegold/rosegold,rosegold: offers and rewards matched to what you buy on Amazon,1.0.0,,streamable-http,"Get offers and rewards matched to what you buy on Amazon, with a single prompt to your AI assistant."
+2026-11-05T14:16:15.395004Z,io.github.nowi333/monerometrics,,0.5.1,https://github.com/nowi333/monerometrics,streamable-http,"Live Monero network metrics: reorgs, orphans, pool centralization and the Haveno order book."
