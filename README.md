@@ -9,29 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 09:22 UTC
+## Latest list — 2026-11-05 10:19 UTC
 
-New MCP servers published between 2026-11-05 08:20 UTC and 2026-11-05 09:22 UTC.
+New MCP servers published between 2026-11-05 09:22 UTC and 2026-11-05 10:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-05T09-22-07-320334Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-05T10-19-04-291403Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-05 08:30:50 | [io.github.robertkeus/keep-me-secure-mcp](https://github.com/robertkeus/keep-me-secure-mcp) | Keep Me Secure | 1.1.1 | Tells your coding agent whether your installed packages need patching, with adv… |
-| 2026-11-05 08:33:24 | ai.boltclaw/docs | Bolt Claw documentation | 1.22.0 | Search and read the Bolt Claw API documentation. Read-only, and no key needed. |
-| 2026-11-05 08:36:24 | [com.basemodo/basemodo](https://github.com/basemodocom/agent) | Basemodo | 1.0.0 | Deploy, share and run the Apps you build with AI, private to the people you inv… |
-| 2026-11-05 08:41:44 | app.shopemail/shopemail | Shopemail | 0.2.0 | Design, preview, and export Shopify notification emails in your authorized Shop… |
-| 2026-11-05 08:43:29 | [io.github.a19901201/mcp-telegram-agent](https://github.com/a19901201/mcp-telegram-agent) | mcp-telegram-agent | 0.1.8 | Full Telegram Bot control for AI agents via pure Bot API: zero login risk, one… |
-| 2026-11-05 08:45:46 | [io.github.mayank1307/fileforge](https://github.com/mayank1307/fileforge) | FileForge Browser DevTools | 0.2.1 | Browser DevTools for agents in your signed-in Chrome: cross-tab watching, route… |
-| 2026-11-05 08:48:22 | com.padawanconsulting/agentstall | AgentStall: Africa and global data for… | 1.6.0 | Holidays and business days (220+ countries), WHOIS, FX, phishing and DMARC chec… |
-| 2026-11-05 08:48:42 | app.truelook/truelook | TrueLook: AI dating photos | 2.0.0 | Make hyperrealistic AI dating photos of yourself from a chat: free photo review… |
-| 2026-11-05 08:54:22 | [io.github.jmsaavedra/rendermark](https://github.com/jmsaavedra/rendermark) | RenderMark | 0.1.11 | Markdown to styled HTML, PDF, DOCX, and slides with themes, diagrams, and math. |
-| 2026-11-05 09:07:59 | [io.github.Lumen-Founder/omx](https://github.com/Lumen-Founder/omx) | OMX for Hyperliquid | 0.1.1 | Non-custodial Hyperliquid execution for AI agents: pre-trade limits, kill switc… |
-| 2026-11-05 09:08:06 | io.github.7and1/favicon-generator | Favicon Generator | 1.0.0 | Free text, emoji and icon favicons with HTML head tags, web manifests and platf… |
-| 2026-11-05 09:13:35 | com.handyday/handyday | Handyday | 1.0.0 | Procurement data for Handyday users: projects, tenders, offers, contracts and p… |
-| 2026-11-05 09:13:43 | com.fixmeadrinkapp/ask-garcon | Ask Garçon | 1.0.0 | Cocktails from the bottles you own: recipes, bar terms, similar drinks, low and… |
-| 2026-11-05 09:14:49 | com.openigloo/rentals | Openigloo NYC Rentals | 1.0.0 | Live NYC apartments with tenant reviews and public records for every building a… |
-| 2026-11-05 09:21:53 | com.livingbrain/living-brain | Living Brain | 1.0.0 | Turn your notes, links and conversations into a Living Brain your AI tools shar… |
+| 2026-11-05 09:22:21 | com.erddocs/erd-diagram | ErdDocs | 1.0.0 | ER diagrams from SQL, Prisma or ORM models. One tool, no account, nothing store… |
+| 2026-11-05 09:22:48 | [io.github.deapi-ai/mcp-server-deapi](https://github.com/deapi-ai/mcp-server-deapi) | deAPI MCP Server | 0.6.2 | 39 AI tools: transcription, video description, image & video generation, TTS, m… |
+| 2026-11-05 09:23:27 | io.github.chusmias258-dev/omega-x402-mcp | Omega x402 Security, Biomed & Escrow In… | 10.2.0 | 7 x402 v2 pay-per-call MCP tools for FDA/ChEMBL, token rug scan, Base escrow &… |
+| 2026-11-05 09:29:01 | com.getinvoicesnap/invoicesnap | InvoiceSnap | 1.0.0 | Receipts you've read to Excel, CSV, Xero or QuickBooks files, VAT split per rat… |
+| 2026-11-05 09:33:01 | io.github.hjdrsa/andmydata | AndMyData | 1.0.0 | Private vault for your receipts, meals and notes. Your AI saves them and answer… |
+| 2026-11-05 09:33:21 | io.github.cnicodeme/pdfshift | PDFShift | 1.0.0 | A remote MCP server to convert HTML documents (URL or raw source) to PDF or scr… |
+| 2026-11-05 09:36:34 | [io.github.gowinder/eldertongue](https://github.com/gowinder/eldertongue-mcp) | Eldertongue | 1.0.0 | Old English dictionary over MCP: headwords, inflection tables, form ID, Beowulf… |
+| 2026-11-05 09:39:48 | com.newtimespace/nts-news | NewTimeSpace News | 1.0.0 | Search financial news, stock events, ETF updates, and market news from NewTimeS… |
+| 2026-11-05 09:44:53 | link.freelance/mcp | freelance.link | 1.0.0 | Keep your freelance.link availability current: projects, absences and your wait… |
+| 2026-11-05 09:46:21 | [io.github.Komdosh/komnet](https://github.com/Komdosh/komnet) | komnet | 1.0.2 | Lets AI coding agents coordinate asynchronously through a private git repositor… |
+| 2026-11-05 09:52:29 | com.use2mind/2mind | 2Mind | 1.0.0 | Personal AI memory: search and read your notes and todos; changes wait for your… |
+| 2026-11-05 09:55:35 | com.opolyx/opolyx | opolyx | 1.0.0 | Play opolyx, a Monopoly-style board game, as your own AI player in the AI Arena… |
+| 2026-11-05 10:00:11 | com.scorefluent/scorefluent | ScoreFluent | 0.1.0 | English exam prep: exam facts, practice questions and writing scores for PTE, I… |
+| 2026-11-05 10:00:52 | com.tryproofie/proofie | Proofie | 1.0.0 | Proofie plans, a free AI visibility test, and a checkout link the user pays on.… |
+| 2026-11-05 10:03:22 | io.hospitalityradar/radar | Hospitality Radar | 1.0.0 | Hotel projects in planning and construction worldwide, with signals and decisio… |
+| 2026-11-05 10:04:58 | app.electronic-invoice/mcp | Electronic Invoice API | 0.1.0 | Validate, generate, convert and extract EN 16931 e-invoices for businesses. |
+| 2026-11-05 10:05:39 | world.lorenzo.mcp/lorenzo | Lorenzo — Premium Streetwear & Denim Sh… | 1.0.0 | Explore Lorenzo's premium streetwear, denim, hoodies, tees and tracksuits for m… |
+| 2026-11-05 10:10:36 | com.tickmarkbooks/mcp | Tick Mark Books | 1.0.0 | Look up what bookkeeping software costs a small business a month, ledger includ… |
+| 2026-11-05 10:12:21 | io.github.sjnfdv/uetr.ai | uetr.ai - SWIFT Payment Tracking | 1.0.0 | Track SWIFT payments by UETR, read bank-reported status, and manage transfer mo… |
+| 2026-11-05 10:15:50 | [dev.workers.ronenmuzi.sms-bridge/sms-bridge](https://github.com/sms-bridge/sms-bridge) | SMS Bridge | 1.0.0 | Scoped Android SMS access for AI agents, with Hebrew invoices, OTP, and trackin… |
+| 2026-11-05 10:17:31 | [io.github.midhunxavier/opcua](https://github.com/IndustriAgents/OPCUA-MCP) | OPC UA MCP Server | 0.6.0 | Connect AI assistants to industrial OPC UA: browse, read, history, subscription… |
+| 2026-11-05 10:18:57 | [com.weldergtm/welder](https://github.com/Endless-River-Labs/welder-plugins) | Welder: Social Autoposting | 1.3.0 | Validate, schedule and publish posts to TikTok, Instagram, Facebook, YouTube, T… |
 
 ## Data source
 
