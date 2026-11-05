@@ -12919,6 +12919,7 @@
     "io.github.Ellesse-M/ask-a-human",
     "io.github.Elnaril/uniswap-universal-router-decoder",
     "io.github.EmanueleCell4/elliot-mcp",
+    "io.github.Embassy-of-the-Free-Mind/sourcelibrary",
     "io.github.EmeroAI/emero",
     "io.github.EminUZUN/hoptell",
     "io.github.EminUZUN/palaver",
@@ -29598,11 +29599,11 @@
     "za.co.wrdo/wrdo"
   ],
   "list": {
-    "count": 28,
-    "from": "2026-11-05T22:21:32.78611Z",
-    "path": "data/new-mcp-servers-2026-11-05T23-25-17-140389Z.csv",
-    "to": "2026-11-05T23:25:17.140389Z"
+    "count": 1,
+    "from": "2026-11-05T23:25:17.140389Z",
+    "path": "data/new-mcp-servers-2026-11-05T23-27-14-951933Z.csv",
+    "to": "2026-11-05T23:27:14.951933Z"
   },
   "source_truncated": false,
-  "window": "2026-11-05T23:25:17.140389Z"
+  "window": "2026-11-05T23:27:14.951933Z"
 }
