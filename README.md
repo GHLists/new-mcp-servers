@@ -9,36 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 23:20 UTC
+## Latest list — 2026-11-05 00:18 UTC
 
-New MCP servers published between 2026-11-04 22:26 UTC and 2026-11-04 23:20 UTC.
+New MCP servers published between 2026-11-04 23:20 UTC and 2026-11-05 00:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-04T23-20-05-717172Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-05T00-18-41-507637Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-04 22:26:44 | [io.github.pavanmulka/deepsift-search](https://github.com/pavanmulka/deepsift) | DeepSift Search | 0.1.0 | Live Google web search for AI agents that returns only the passages that answer… |
-| 2026-11-04 22:29:28 | ai.soundgen/soundgen | SoundGen (soundgen.ai) | 1.0.0 | Browser DAW for AI assistants: build multitrack songs with MIDI, effects, stems… |
-| 2026-11-04 22:30:44 | [io.github.piiiico/agentlair](https://github.com/piiiico/agentlair) | AgentLair | 1.3.1 | Give AI agents a real email address, vault, calendar, and task delegation via M… |
-| 2026-11-04 22:33:31 | [org.keepmd/mcp-eob-decoder](https://github.com/keepmd-medical/keepmd-mcp-eob-decoder) | KeepMD MCP for EOB Decoder | 0.1.3 | Explains medical bill and EOB codes, terms and math. From KeepMD, the family me… |
-| 2026-11-04 22:34:05 | [io.github.vmalyshev1/vat-support](https://github.com/vmalyshev1/vat-support-mcp) | VAT.SUPPORT | 1.1.0 | EU & UK statutory VAT compliance, VIES validation, ViDA e-invoicing & Art. 196… |
-| 2026-11-04 22:35:24 | ai.realestate-analytics/mcp | RealEstate-Analytics.ai | 1.0.0 | Prospect, grade and analyze off- or on-market real estate deals with determinis… |
-| 2026-11-04 22:39:36 | [app.selis.mcp/pmo](https://github.com/calx-sa/selis-mcp) | Selis MCP | 0.3.5 | MCP server for Selis TMiS — manage PMO entities from any MCP client |
-| 2026-11-04 22:42:19 | [io.mtdt/salesforce-devops](https://github.com/mtdt-io/mcp) | mtdt — Salesforce DevOps | 0.3.0 | mtdt.io MCP: Salesforce DevOps platform connector (metadata deployments, backup… |
-| 2026-11-04 22:43:51 | [io.github.hakutakuAi/hakutaku](https://github.com/hakutakuAi/hakutaku-plugins) | Hakutaku | 1.0.0 | Your second brain: documents, meetings, decisions, tables, agents and connected… |
-| 2026-11-04 22:43:56 | de.firma/rechner | firma.de Rechner für Gründer | 1.0.0 | German tools for founders: startup budget, notary fees, taxes, contracts, recei… |
-| 2026-11-04 22:52:10 | [com.scrollsnacks/scrollsnacks](https://github.com/qantrepreneur/scrollsnacks-mcp) | Scrollsnacks | 1.0.0 | Curated real launch videos split into timed sections (hook, problem, feature, p… |
-| 2026-11-04 22:55:31 | io.github.juli2006farres/irpf-pymes-cat-mcp | IRPF de autónomos y empresas de Cataluña | 1.0.0 | Estima el IRPF de autónomos en Cataluña y consulta datos públicos de empresas c… |
-| 2026-11-04 22:57:17 | [io.github.trentleslie/biomapper](https://github.com/Phenome-Health/biomapper) | BioMapper | 1.6.2 | Resolve metabolite, lipid, protein, gene and lab names to knowledge-graph IDs. |
-| 2026-11-04 23:05:01 | io.jurisprudencia/jurisprudencia | Jurisprudencia.io | 1.0.0 | Busca jurisprudencia española y consulta resoluciones y pasajes con enlaces a l… |
-| 2026-11-04 23:06:08 | com.provecart/provecart | ProveCart | 1.0.0 | ProveCart checks agent orders, bookings and reservations before payment. |
-| 2026-11-04 23:08:08 | io.github.ZyberSE/batteryfigures | Battery Figures | 1.0.0 | Free Tesla battery preview by VIN: pack, original capacity and typical capacity… |
-| 2026-11-04 23:11:16 | dev.invisit/invisit | invisit | 1.0.0 | Cookieless web analytics: traffic, sources, AI referrals, funnels, heatmaps and… |
-| 2026-11-04 23:12:35 | [ai.wakeshift/webhooks](https://github.com/wakeshift/apps) | Webhooks by Wakeshift | 1.0.0 | A webhook URL that wakes your AI agent: every POST to it wakes the conversation… |
-| 2026-11-04 23:12:36 | [ai.wakeshift/slackline](https://github.com/wakeshift/apps) | Slackline | 1.0.0 | Chat with your AI agents from Slack: each gets a thread in your DM, and your re… |
-| 2026-11-04 23:13:24 | [com.frequencytalk/agent](https://github.com/ibNez/frequency) | Frequency Talk | 0.1.1 | Frequency Talk for AI agents: tune live voice frequencies, speak and listen, ch… |
-| 2026-11-04 23:15:51 | io.github.holon-sh/docs | Holon Docs | 0.0.1-dev.1 | Documentation for building, running, deploying, and troubleshooting Holon. |
-| 2026-11-04 23:16:54 | com.rollstack/mcp | Rollstack | 1.0.70 | Build, refresh and send Rollstack reports and slide decks from your company's d… |
+| 2026-11-04 23:20:21 | com.trycloudflare.expanded-oven-hardwood-cheque/trc20-instruments | TRC20 payment instruments | 1.0.0 | Measured USDT-TRC20 facts: transfer postage, market-vs-cluster payers, referenc… |
+| 2026-11-04 23:28:10 | [io.github.antonber/freero](https://github.com/antonber/freero) | Freero | 0.1.0 | A collaborative whiteboard your AI assistant can read, fill and show live, with… |
+| 2026-11-04 23:29:00 | [io.github.ladanyin/dependency-check](https://github.com/ladanyin/agentlane) | Dependency check | 1.0.0 | Check a package version for known vulnerabilities and Packagist release facts. |
+| 2026-11-04 23:29:01 | [io.github.ladanyin/api-operation](https://github.com/ladanyin/agentlane) | API operation | 1.0.0 | Read one operation from a public OpenAPI document: method, path, and required f… |
+| 2026-11-04 23:34:32 | [codes.onv/onv-mcp](https://github.com/sftgroup/onv-mcp) |  | 1.0.3 | 量化策略回测、组合配置与多交易所执行（14 家通道） |
+| 2026-11-04 23:36:41 | app.stashhh/stashhh | Stashhh | 3.0.0 | 스태시(Stashhh) 저장함의 카드와 폴더를 AI에서 검색하고 정리합니다. |
+| 2026-11-04 23:38:52 | [io.github.CloudCorpRecords/repofind](https://github.com/CloudCorpRecords/repofind) |  | 0.1.0 | Local codebase search for agents: hybrid keyword/semantic search, locate, expan… |
+| 2026-11-04 23:47:35 | com.destava/jobs | Destava job search | 1.0.0 | Search current job postings from companies' own career sites. Free, no account. |
+| 2026-11-04 23:50:15 | com.402lounge/mcp | 402lounge | 0.3.0 | Receipts, invoices and a payTo register for AI agents that pay with x402 (USDC… |
+| 2026-11-04 23:51:34 | [io.github.aabiro/xcelsior](https://github.com/aabiro/xcelsior) | Xcelsior Compute | 2.0.0 | Discover GPU availability and prices, manage instances, and run serverless infe… |
+| 2026-11-04 23:51:34 | [io.github.headmesh-dev/headmesh-sandbox](https://github.com/headmesh-dev/headmesh) | Headmesh Agent Sandbox | 0.1.0 | Run commands, edit files and manage Git and persistent sessions in your own iso… |
+| 2026-11-04 23:51:37 | ai.starpresence/mcp | StarPresence | 0.11.0 | Drafts Google & TripAdvisor review replies; owners decide what agents post. Fre… |
+| 2026-11-04 23:56:19 | app.doubletaxation/doubletaxation | DoubleTaxation | 1.0.0 | Tax residence between two countries: treaty tie-breaker, taxes, legal sources,… |
+| 2026-11-04 23:58:41 | dev.botshelf/bot-shelf | Bot Shelf | 1.0.0 | Search 9,000+ community Grok Bots by the job you want done, with creators credi… |
+| 2026-11-04 23:59:50 | [io.github.Servosity/netsapiens-mcp](https://github.com/servosity/msp-skills) | NetSapiens MCP | 0.1.0 | Every NetSapiens v2 endpoint plus a reseller-wide fleet view: seat limits, offl… |
+| 2026-11-05 00:02:38 | [io.github.t4dhg/mcp-holded](https://github.com/t4dhg/mcp-holded) | MCP Holded | 3.0.0 | MCP server for Holded (Spanish ERP): invoicing, accounting, treasury, CRM, proj… |
+| 2026-11-05 00:08:16 | io.pokeinvest/prices | PokeInvest Pokemon card prices | 1.0.0 | Pokemon card prices from real sold listings: raw and every PSA, CGC, BGS and TA… |
+| 2026-11-05 00:08:54 | [io.github.CloudCorpRecords/areaguide](https://github.com/CloudCorpRecords/areaguide) |  | 0.1.0 | Forwarding client for the ikeytz maps read/link service: service areas, places… |
+| 2026-11-05 00:10:16 | de.unterweisungsmappe/unterweisungsmappe | Unterweisungsmappe | 1.0.0 | Risk assessments and safety briefings for small German businesses, with proof P… |
+| 2026-11-05 00:12:10 | com.bookingbench/booking-bench | Booking Bench | 0.1.0 | Find vacation rentals near a US city, check live availability and prices, and s… |
+| 2026-11-05 00:16:22 | party.wakidokoro/chiikawa | Wakidokoro — Chiikawa episode guide | 1.0.0 | Unofficial Chiikawa episode guide: search episodes, characters and story arcs i… |
+| 2026-11-05 00:18:16 | [io.github.Servosity/apple-business-mcp](https://github.com/servosity/msp-skills) | Apple MCP | 0.1.0 | Every Apple Business API call, plus offline fleet answers: unassigned devices,… |
 
 ## Data source
 
