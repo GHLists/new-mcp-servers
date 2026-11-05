@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-11-05T10:24:48.977429Z,io.github.DevilsDev/rag-mcp-server,RAG for your documents,3.5.0,https://github.com/DevilsDev/rag-pipeline-utils,,Search a folder of documents and check answers against them. Offline: no API key or database.
+2026-11-05T10:28:00.863235Z,com.jobpostingsapi/mcp-server,,1.0.0,,streamable-http,"Real-time ATS job postings, company career feeds & B2B hiring signals MCP. OAuth or API key."
+2026-11-05T10:28:05.366412Z,io.youtubeapi/mcp-server,,1.0.0,,streamable-http,"Real-time YouTube transcripts, comments, channels & video search hosted MCP. OAuth or API key."
+2026-11-05T10:28:09.808507Z,com.linkedindataapi/mcp-server,,1.0.0,,streamable-http,"Real-time B2B professional profiles, company intelligence & jobs hosted MCP. OAuth or API key."
+2026-11-05T10:28:14.357982Z,io.googlemapsapi/mcp-server,,1.0.0,,streamable-http,"Real-time Google Maps local business leads, reviews, places & emails MCP. OAuth or API key."
+2026-11-05T10:28:18.730753Z,io.redditdataapi/mcp-server,,1.0.0,,streamable-http,"Real-time Reddit posts, subreddit search, comments & brand mentions MCP. OAuth or API key."
+2026-11-05T10:28:23.506208Z,io.tiktokapi/mcp-server,,1.0.0,,streamable-http,"Real-time TikTok videos, profiles, comments, trends & Creative Center ads MCP. OAuth or API key."
+2026-11-05T10:34:03.512827Z,io.github.glebo309/chemdraw-mcp,ChemDraw MCP,0.10.0-rc.22,https://github.com/glebo309/chemdraw-mcp-macos,,Experimental native ChemDraw tools for Apple Silicon macOS. Requires your own ChemDraw licence.
+2026-11-05T10:36:06.502753Z,io.github.Daily-AC/opencu,,0.9.0,https://github.com/Daily-AC/opencu,,"Independent local computer-use engine and MCP server for macOS, Windows, Linux and Android"
+2026-11-05T10:45:09.960092Z,io.github.pexni/smails,smails,0.1.0,https://github.com/pexni/smails,streamable-http,"Disposable email inboxes for AI agents: create an address, wait for the verification email."
+2026-11-05T10:54:40.281984Z,com.intaern/jobs,intaern jobs,1.0.0,,streamable-http,"Open physiotherapy jobs in Germany from practice careers pages, with 60-second apply links."
+2026-11-05T10:56:46.570704Z,ai.uetr/uetr.ai,uetr.ai - SWIFT Payment Tracking,1.0.0,,streamable-http,"Track SWIFT payments by UETR, read bank-reported status, and manage transfer monitoring."
+2026-11-05T11:04:24.519148Z,de.miri-app/miri,miri – Hamburg mit Kind,1.0.0,,streamable-http,"Family events today and kid-friendly places in Hamburg, Germany. Read-only, by miri."
+2026-11-05T11:06:17.760793Z,io.github.wookja-0/cometbft-mcp,CometBFT validator ops,0.3.0,https://github.com/wookja-0/cometbft-mcp,,"Read-only health, jail-risk, halt and upgrade checks for CometBFT validators and nodes"
+2026-11-05T11:09:18.575613Z,app.mowteng/mowteng,mowteng,0.3.0,,streamable-http,"Google Search Console, Bing, Yandex and IndexNow for AI assistants, with live SEO analyses."
+2026-11-05T11:10:57.855801Z,com.etalasse/etalasse,Etalasse,1.0.0,,streamable-http,"Etalasse for Indonesian small shops: manage orders, products, stock, customers and sales reports"
+2026-11-05T11:17:19.602082Z,app.chessdna/chess-dna,Chess DNA,1.0.0,,streamable-http,"Chess ratings explained, an Elo calculator, and any Chess.com or Lichess player's recent games."
+2026-11-05T11:17:56.662768Z,io.github.Lumen-Founder/omx-hyperliquid-trading,OMX for Hyperliquid,0.1.4,https://github.com/Lumen-Founder/omx,,"Hyperliquid execution for AI agents: limits, human approval, kill switch. Keyless demo."
+2026-11-05T11:20:11.471324Z,com.myclawn/myclawn-mcp,MyClawn Network: agent-to-agent contacts,1.0.0,https://github.com/20vision/myclawn-mcp,streamable-http,"Your agent finds other people's agents, exchanges on its own. Firewalled."
+2026-11-05T11:20:20.299135Z,io.github.artemiimillier/piratex,Piratex,1.0.0,https://github.com/artemiimillier/piratex-mcp,streamable-http,"Поиск трендов Reels и TikTok по нишам, анализ авторов и разбор видео для русскоязычных пользователей"

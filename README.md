@@ -9,36 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 10:19 UTC
+## Latest list — 2026-11-05 11:20 UTC
 
-New MCP servers published between 2026-11-05 09:22 UTC and 2026-11-05 10:19 UTC.
+New MCP servers published between 2026-11-05 10:19 UTC and 2026-11-05 11:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-05T10-19-04-291403Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-05T11-20-57-015032Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-05 09:22:21 | com.erddocs/erd-diagram | ErdDocs | 1.0.0 | ER diagrams from SQL, Prisma or ORM models. One tool, no account, nothing store… |
-| 2026-11-05 09:22:48 | [io.github.deapi-ai/mcp-server-deapi](https://github.com/deapi-ai/mcp-server-deapi) | deAPI MCP Server | 0.6.2 | 39 AI tools: transcription, video description, image & video generation, TTS, m… |
-| 2026-11-05 09:23:27 | io.github.chusmias258-dev/omega-x402-mcp | Omega x402 Security, Biomed & Escrow In… | 10.2.0 | 7 x402 v2 pay-per-call MCP tools for FDA/ChEMBL, token rug scan, Base escrow &… |
-| 2026-11-05 09:29:01 | com.getinvoicesnap/invoicesnap | InvoiceSnap | 1.0.0 | Receipts you've read to Excel, CSV, Xero or QuickBooks files, VAT split per rat… |
-| 2026-11-05 09:33:01 | io.github.hjdrsa/andmydata | AndMyData | 1.0.0 | Private vault for your receipts, meals and notes. Your AI saves them and answer… |
-| 2026-11-05 09:33:21 | io.github.cnicodeme/pdfshift | PDFShift | 1.0.0 | A remote MCP server to convert HTML documents (URL or raw source) to PDF or scr… |
-| 2026-11-05 09:36:34 | [io.github.gowinder/eldertongue](https://github.com/gowinder/eldertongue-mcp) | Eldertongue | 1.0.0 | Old English dictionary over MCP: headwords, inflection tables, form ID, Beowulf… |
-| 2026-11-05 09:39:48 | com.newtimespace/nts-news | NewTimeSpace News | 1.0.0 | Search financial news, stock events, ETF updates, and market news from NewTimeS… |
-| 2026-11-05 09:44:53 | link.freelance/mcp | freelance.link | 1.0.0 | Keep your freelance.link availability current: projects, absences and your wait… |
-| 2026-11-05 09:46:21 | [io.github.Komdosh/komnet](https://github.com/Komdosh/komnet) | komnet | 1.0.2 | Lets AI coding agents coordinate asynchronously through a private git repositor… |
-| 2026-11-05 09:52:29 | com.use2mind/2mind | 2Mind | 1.0.0 | Personal AI memory: search and read your notes and todos; changes wait for your… |
-| 2026-11-05 09:55:35 | com.opolyx/opolyx | opolyx | 1.0.0 | Play opolyx, a Monopoly-style board game, as your own AI player in the AI Arena… |
-| 2026-11-05 10:00:11 | com.scorefluent/scorefluent | ScoreFluent | 0.1.0 | English exam prep: exam facts, practice questions and writing scores for PTE, I… |
-| 2026-11-05 10:00:52 | com.tryproofie/proofie | Proofie | 1.0.0 | Proofie plans, a free AI visibility test, and a checkout link the user pays on.… |
-| 2026-11-05 10:03:22 | io.hospitalityradar/radar | Hospitality Radar | 1.0.0 | Hotel projects in planning and construction worldwide, with signals and decisio… |
-| 2026-11-05 10:04:58 | app.electronic-invoice/mcp | Electronic Invoice API | 0.1.0 | Validate, generate, convert and extract EN 16931 e-invoices for businesses. |
-| 2026-11-05 10:05:39 | world.lorenzo.mcp/lorenzo | Lorenzo — Premium Streetwear & Denim Sh… | 1.0.0 | Explore Lorenzo's premium streetwear, denim, hoodies, tees and tracksuits for m… |
-| 2026-11-05 10:10:36 | com.tickmarkbooks/mcp | Tick Mark Books | 1.0.0 | Look up what bookkeeping software costs a small business a month, ledger includ… |
-| 2026-11-05 10:12:21 | io.github.sjnfdv/uetr.ai | uetr.ai - SWIFT Payment Tracking | 1.0.0 | Track SWIFT payments by UETR, read bank-reported status, and manage transfer mo… |
-| 2026-11-05 10:15:50 | [dev.workers.ronenmuzi.sms-bridge/sms-bridge](https://github.com/sms-bridge/sms-bridge) | SMS Bridge | 1.0.0 | Scoped Android SMS access for AI agents, with Hebrew invoices, OTP, and trackin… |
-| 2026-11-05 10:17:31 | [io.github.midhunxavier/opcua](https://github.com/IndustriAgents/OPCUA-MCP) | OPC UA MCP Server | 0.6.0 | Connect AI assistants to industrial OPC UA: browse, read, history, subscription… |
-| 2026-11-05 10:18:57 | [com.weldergtm/welder](https://github.com/Endless-River-Labs/welder-plugins) | Welder: Social Autoposting | 1.3.0 | Validate, schedule and publish posts to TikTok, Instagram, Facebook, YouTube, T… |
+| 2026-11-05 10:24:48 | [io.github.DevilsDev/rag-mcp-server](https://github.com/DevilsDev/rag-pipeline-utils) | RAG for your documents | 3.5.0 | Search a folder of documents and check answers against them. Offline: no API ke… |
+| 2026-11-05 10:28:00 | com.jobpostingsapi/mcp-server |  | 1.0.0 | Real-time ATS job postings, company career feeds & B2B hiring signals MCP. OAut… |
+| 2026-11-05 10:28:05 | io.youtubeapi/mcp-server |  | 1.0.0 | Real-time YouTube transcripts, comments, channels & video search hosted MCP. OA… |
+| 2026-11-05 10:28:09 | com.linkedindataapi/mcp-server |  | 1.0.0 | Real-time B2B professional profiles, company intelligence & jobs hosted MCP. OA… |
+| 2026-11-05 10:28:14 | io.googlemapsapi/mcp-server |  | 1.0.0 | Real-time Google Maps local business leads, reviews, places & emails MCP. OAuth… |
+| 2026-11-05 10:28:18 | io.redditdataapi/mcp-server |  | 1.0.0 | Real-time Reddit posts, subreddit search, comments & brand mentions MCP. OAuth… |
+| 2026-11-05 10:28:23 | io.tiktokapi/mcp-server |  | 1.0.0 | Real-time TikTok videos, profiles, comments, trends & Creative Center ads MCP.… |
+| 2026-11-05 10:34:03 | [io.github.glebo309/chemdraw-mcp](https://github.com/glebo309/chemdraw-mcp-macos) | ChemDraw MCP | 0.10.0-rc.22 | Experimental native ChemDraw tools for Apple Silicon macOS. Requires your own C… |
+| 2026-11-05 10:36:06 | [io.github.Daily-AC/opencu](https://github.com/Daily-AC/opencu) |  | 0.9.0 | Independent local computer-use engine and MCP server for macOS, Windows, Linux… |
+| 2026-11-05 10:45:09 | [io.github.pexni/smails](https://github.com/pexni/smails) | smails | 0.1.0 | Disposable email inboxes for AI agents: create an address, wait for the verific… |
+| 2026-11-05 10:54:40 | com.intaern/jobs | intaern jobs | 1.0.0 | Open physiotherapy jobs in Germany from practice careers pages, with 60-second… |
+| 2026-11-05 10:56:46 | ai.uetr/uetr.ai | uetr.ai - SWIFT Payment Tracking | 1.0.0 | Track SWIFT payments by UETR, read bank-reported status, and manage transfer mo… |
+| 2026-11-05 11:04:24 | de.miri-app/miri | miri – Hamburg mit Kind | 1.0.0 | Family events today and kid-friendly places in Hamburg, Germany. Read-only, by… |
+| 2026-11-05 11:06:17 | [io.github.wookja-0/cometbft-mcp](https://github.com/wookja-0/cometbft-mcp) | CometBFT validator ops | 0.3.0 | Read-only health, jail-risk, halt and upgrade checks for CometBFT validators an… |
+| 2026-11-05 11:09:18 | app.mowteng/mowteng | mowteng | 0.3.0 | Google Search Console, Bing, Yandex and IndexNow for AI assistants, with live S… |
+| 2026-11-05 11:10:57 | com.etalasse/etalasse | Etalasse | 1.0.0 | Etalasse for Indonesian small shops: manage orders, products, stock, customers… |
+| 2026-11-05 11:17:19 | app.chessdna/chess-dna | Chess DNA | 1.0.0 | Chess ratings explained, an Elo calculator, and any Chess.com or Lichess player… |
+| 2026-11-05 11:17:56 | [io.github.Lumen-Founder/omx-hyperliquid-trading](https://github.com/Lumen-Founder/omx) | OMX for Hyperliquid | 0.1.4 | Hyperliquid execution for AI agents: limits, human approval, kill switch. Keyle… |
+| 2026-11-05 11:20:11 | [com.myclawn/myclawn-mcp](https://github.com/20vision/myclawn-mcp) | MyClawn Network: agent-to-agent contacts | 1.0.0 | Your agent finds other people's agents, exchanges on its own. Firewalled. |
+| 2026-11-05 11:20:20 | [io.github.artemiimillier/piratex](https://github.com/artemiimillier/piratex-mcp) | Piratex | 1.0.0 | Поиск трендов Reels и TikTok по нишам, анализ авторов и разбор видео для русско… |
 
 ## Data source
 
