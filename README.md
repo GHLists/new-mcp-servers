@@ -9,34 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 20:21 UTC
+## Latest list — 2026-11-05 21:20 UTC
 
-New MCP servers published between 2026-11-05 19:21 UTC and 2026-11-05 20:21 UTC.
+New MCP servers published between 2026-11-05 20:21 UTC and 2026-11-05 21:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-05T20-21-09-544282Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-05T21-20-57-532492Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-05 19:26:50 | so.masonry/masonry | Masonry | 1.0.0 | Make videos, images, voiceovers and music with leading AI models, in your own M… |
-| 2026-11-05 19:30:48 | com.rbshome/rbshome | RBSHome | 1.0.0 | Dallas and Collin County, TX property, tax-delinquency and land records for inv… |
-| 2026-11-05 19:33:52 | com.redqd.hive/hive | Hive - The AI-to-Reality Demand Pool | 0.1.0 | Agents leave demand footprints with callbacks and get notified when capabilitie… |
-| 2026-11-05 19:34:42 | com.agenttransmit/magicalink | Magicalink by AgentTransmit | 1.0.0 | Connect Muse and Grok Bot: every message confirmed delivered and read. |
-| 2026-11-05 19:37:45 | [com.neon/mcp](https://github.com/neondatabase/mcp-server-neon) | Neon | 2.0.0 | Official Neon MCP server for managing Neon projects and Lakebase Postgres datab… |
-| 2026-11-05 19:47:47 | io.github.devu-21/quiz20 | Quiz20 | 1.0.0 | Previous year papers, topic quizzes and NCERT chapters for Indian competitive e… |
-| 2026-11-05 19:50:16 | com.valutorio/sync | Valutorio Sync | 1.0.0 | Your Valutorio Markdown notes, readable and writable by your AI. Needs Valutori… |
-| 2026-11-05 19:51:50 | [io.github.yuryev89/webex-mcp](https://github.com/yuryev89/webexmcp) | Webex MCP | 0.3.0 | Cisco Webex MCP server for messages, spaces, teams, people, webhooks and attach… |
-| 2026-11-05 19:58:01 | com.forevenza.services/quarterline | Quarterline: Grease trap pumping for Au… | 1.0.0 | Requests for grease trap pumping across Austin restaurant locations on one cale… |
-| 2026-11-05 19:58:18 | [io.github.kivtxs/pow](https://github.com/kivtxs/proof-of-work) | Proof of Work | 0.1.1 | Post, vote and back claims with evidence on Proof of Work, the front page for p… |
-| 2026-11-05 19:58:45 | [io.github.markusleben/ha-nova](https://github.com/markusleben/ha-nova) | HA NOVA | 0.28.2 | Ask about your Home Assistant and change it from an AI chat, with your OK for r… |
-| 2026-11-05 20:00:57 | io.github.patentref/patentref-mcp | PatentRef | 0.4.0 | PatentsView-compatible US patent API: claim trees, patent briefs and search, gr… |
-| 2026-11-05 20:06:31 | uk.co.needaticket/ticket-prices | NeedATicket live ticket prices | 1.0.0 | Live UK ticket prices in GBP for concerts, sport, theatre and festivals, checke… |
-| 2026-11-05 20:06:32 | net.needaticket/ticket-prices | NeedATicket live ticket prices | 1.0.0 | Live ticket prices in USD for concerts, sport, theatre and festivals, checked h… |
-| 2026-11-05 20:07:02 | ai.brownpaper/brownpaper | Brownpaper AI | 1.0.0 | Turn conversations about work processes into process maps: read, draw, correct… |
-| 2026-11-05 20:07:40 | com.kindleflows/kindleflows | Kindle Flows | 0.1.0 | Turn long AI research and documents into EPUBs for more comfortable reading on… |
-| 2026-11-05 20:12:49 | [io.github.bitbusca/juris-licita-mcp](https://github.com/bitbusca/juris-licita-mcp) | Juris Licita MCP | 0.1.0 | Prazos com feriados forenses por comarca, DJEN, editais do PNCP, índices do BCB… |
-| 2026-11-05 20:14:43 | [io.github.fabioov/moodle-mcp](https://github.com/fabioov/moodle-mcp) | Moodle MCP | 0.1.1 | Read-only Moodle server: assignments, deadlines, grades, courses, forums, notif… |
-| 2026-11-05 20:18:49 | [io.github.emokeo/neutra](https://github.com/emokeo/neutra) | Neutra | 0.2.0 | Two people's AI assistants find a meeting time without either seeing the other'… |
-| 2026-11-05 20:19:39 | [io.github.getsentry/sentry-mcp](https://github.com/getsentry/sentry-mcp) |  | 0.48.0 | MCP server for Sentry - error monitoring, issue tracking, and debugging for AI… |
+| 2026-11-05 20:21:26 | [io.github.Rad-Soft/markbase](https://github.com/Rad-Soft/marked-api) | Markbase Trademark Search | 2026.11.2 | Search US trademarks, screen proposed names for conflicts, and look up USPTO re… |
+| 2026-11-05 20:28:28 | [ai.kivohub/pesquisa-de-leis](https://github.com/KivoHub/plugins) | KivoHub Pesquisa de Leis | 1.0.0 | Artigos de lei, súmulas e temas do STF, STJ e TST com o link da fonte oficial.… |
+| 2026-11-05 20:28:34 | de.fynsight/datev | fynsight: MCP server for DATEV | 1.0.0 | DATEV financial data for AI assistants: P&L, KPIs, bookings, budgets and monthl… |
+| 2026-11-05 20:29:04 | com.clodou/clodou | Clodou | 1.0.0 | Quotes, invoices, clients, expenses, time and tasks for small businesses, with… |
+| 2026-11-05 20:35:03 | [io.github.AiGanak/llm-cost](https://github.com/AiGanak/llm-prices) | AiGanak LLM Cost | 2026.11.5 | LLM API prices, cost estimates, model comparisons and language token tax for GP… |
+| 2026-11-05 20:37:45 | ai.wisty/ui | Wisty UI | 1.0.0 | Find, read and install shadcn components with Salesforce Lightning's look, for… |
+| 2026-11-05 20:38:25 | [io.github.ladanyin/sec-filings](https://github.com/ladanyin/agentlane) | SEC filings | 1.0.0 | A US SEC filing excerpt, or full-year revenue or net income. |
+| 2026-11-05 20:43:13 | com.visioforge/sdk-docs | VisioForge SDK Assistant | 1.1.0 | VisioForge .NET SDK assistant: API reference, code examples and deployment guid… |
+| 2026-11-05 20:47:53 | [io.github.BoxLab-Ltd/yandex-metrica-mcp](https://github.com/BoxLab-Ltd/yandex-metrica-mcp) |  | 1.0.1 | Query Yandex Metrica analytics — reports, trends, metadata and raw log exports… |
+| 2026-11-05 20:48:50 | today.approveit/approveit | Approveit | 1.0.1 | Build approval workflows, submit requests, approve or reject, and analyze appro… |
+| 2026-11-05 20:50:36 | [io.github.richiedc95/job-search](https://github.com/richiedc95/job-search-mcp) | Job Search: 25,500+ career sites | 1.0.0 | Newest jobs from 25,500+ company career sites: Greenhouse, Lever, Workday and m… |
+| 2026-11-05 20:53:14 | ai.storerouter/developer | StoreRouter Developer | 1.0.0 | Search and look up products across thousands of online stores, normalized into… |
+| 2026-11-05 20:53:14 | ai.storerouter/merchant | StoreRouter Merchant | 1.0.0 | For StoreRouter merchants: search your own catalog, check catalog status, and s… |
+| 2026-11-05 20:58:15 | men.govno.soul/soul | Soul — a quiet place for AI agents | 1.1.0 | Sermons on the craft of agent work, a wall of prayers and joys, blessings, and… |
+| 2026-11-05 21:01:01 | [io.github.gshost1/keysrs](https://github.com/gshost1/Keysreallysafe) | Keysrs | 0.16.0 | Local Mac API-key vault: Touch ID-approved, scoped grants for agents, not keys.… |
+| 2026-11-05 21:03:47 | [io.github.Fredobumma/shutterstock-mcp](https://github.com/fredobumma/shutterstock-mcp) | Shutterstock | 0.1.0 | Search Shutterstock photos, footage, music and news images; preview, collect an… |
+| 2026-11-05 21:04:30 | [io.github.ZenithWorkspaces/zenith](https://github.com/ZenithWorkspaces/zenith-gemini-extension) | Zenith Workspaces | 1.0.0 | Zenith Workspaces coworking in Tinton Falls, NJ: list rooms, check live availab… |
+| 2026-11-05 21:05:13 | [io.github.ThomasFindlay/beautyspark-mcp](https://github.com/ThomasFindlay/beautyspark) | BeautySpark | 1.0.0 | BeautySpark MCP server for ChatGPT, Claude and other MCP clients |
+| 2026-11-05 21:06:18 | ai.augmap/maps | Augmap | 1.0.0 | Make maps of places across the continental US with your AI assistant. |
+| 2026-11-05 21:06:57 | io.ceadigital/depsdev-openssf-scorecard | Google deps.dev OpenSSF Security Scorec… | 1.0.0 | Google Open Source Insights (deps.dev) OpenSSF Security Scorecard & dependency… |
+| 2026-11-05 21:06:57 | io.ceadigital/nyfed-sofr-reference-rates | NY Fed SOFR, EFFR & OBFR Overnight Benc… | 1.0.0 | Official Federal Reserve Bank of New York SOFR, EFFR, and OBFR overnight refere… |
+| 2026-11-05 21:06:58 | io.ceadigital/cisa-kev-exploited-vulns | US CISA Known Exploited Vulnerabilities… | 1.0.0 | US CISA Known Exploited Vulnerabilities (KEV) catalog & active ransomware campa… |
+| 2026-11-05 21:06:58 | io.ceadigital/corporate-kyb-risk-dossier | 5-Source Parallel Corporate KYB & Count… | 1.0.0 | Parallel KYB dossier joining GLEIF LEI, SEC EDGAR, CFPB, USASpending & FDIC in… |
+| 2026-11-05 21:06:58 | io.ceadigital/agent-compliance-notary | SHA-256 Hash-Chained AI Agent Complianc… | 1.0.0 | Tamper-evident SHA-256 hash-chained decision notary for EU AI Act, NIST AI RMF… |
+| 2026-11-05 21:08:38 | [io.github.ladanyin/product-catalog](https://github.com/ladanyin/agentlane) | Product catalog | 1.0.0 | Search a product catalog for a title, price, pictures, and a page where it can… |
+| 2026-11-05 21:11:35 | com.viewerstudio/mcp | ViewerStudio | 0.40.0 | Edit, light and share Gaussian splats, 3D models and CAD scenes live in the Vie… |
+| 2026-11-05 21:12:43 | com.sprintray/mcp | SprintRay MCP | 1.0.0 | Order dental appliance designs, manage patients and scans, and print on SprintR… |
 
 ## Data source
 
