@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-11-05T21:21:30.140083Z,com.panderr/panderr,Panderr,0.1.0,,streamable-http,"Move your website without rebuilding it — by URL, or upload a ZIP of your site."
+2026-11-05T21:22:45.86041Z,io.github.seuros/helmsman,Helmsman,0.5.2,https://github.com/seuros/helmsman,,Adaptive instruction server: serves agent instructions and skills tuned to the calling model
+2026-11-05T21:22:54.850501Z,co.scimon/rfq-desk,SCiMon.co RFQ Desk,1.0.0,,streamable-http,"Request quotes for custom parts, design services and box build from pre-vetted suppliers."
+2026-11-05T21:23:33.728736Z,com.empiriainsight/local-seo-geo,Empiria Local SEO,0.2.0,,streamable-http,"Deterministic SEO/GEO checks, business-data comparisons and fixed-price implementation guidance."
+2026-11-05T21:25:09.407013Z,io.github.argosautomation/android-texter,Android Texter,1.1.0,https://github.com/argosautomation/androidtexter-sdk,,Send and read SMS and MMS from your own Android phone and number via Android Texter.
+2026-11-05T21:25:11.874078Z,ai.flowrunner/prompt-to-flow,FlowRunner Prompt to Flow,1.0.0,,streamable-http,Describe an automation in plain English and get a working FlowRunner flow with approval steps.
+2026-11-05T21:27:13.987567Z,be.planelec/planelec,PlanElec,0.2.0,,streamable-http,"Plan Belgian electrical installations (AREI/RGIE): projects, circuits, boards. Needs PlanElec Pro."
+2026-11-05T21:27:19.710523Z,be.planelec/calculators,PlanElec Calculators,0.2.0,,streamable-http,"Free AREI cable sizing, Synergrid C10/26 inverter check, LED strip calculator. No account."
+2026-11-05T21:27:31.083877Z,io.github.djynnius/ferraus,ferraus,0.1.3,https://github.com/djynnius/ferraus,,"Command-line audio workstation: stems, restoration, tuning, sheet music, mastering. JSON everywhere."
+2026-11-05T21:36:03.767331Z,dev.workers.nightshift-labs.nightshift-x402/agent-safety,"Nightshift Labs: link, token & signature pre-checks",1.0.0,,streamable-http,"Paid x402 pre-checks for agents: phishing links, Base tokens, EIP-712 permits, calldata, DNS."
+2026-11-05T21:40:37.782134Z,io.github.manduks/kato,Kato,0.2.1,https://github.com/manduks/kato-mcp,,"What was said, shown and promised on your client's calls, filed by client. Needs the Kato app."
+2026-11-05T21:40:59.474079Z,io.github.freyr/ragnarok,ragnarok,1.1.0,https://github.com/freyr/ragnarok,,Local RAG search over Obsidian vaults: SQLite hybrid search with local Ollama embeddings.
+2026-11-05T21:42:10.607081Z,sh.mlab/mcp,mlab.sh,1.2.0,https://github.com/mlab-sh/mcp,streamable-http; sse,"Threat intel and DFIR: IOCs, CVEs, actors, SBOMs, domain scans, cases, memory, Kubernetes, Proxmox."
+2026-11-05T21:42:48.889909Z,com.ulupstudio/nexus,UluP Nexus,1.0.0,,streamable-http,"Search a hand-verified index of indie software and games by keyword, category, language and pricing."
+2026-11-05T21:43:32.713128Z,io.github.linq-team/linq,Linq,0.79.0,https://github.com/linq-team/linq-node,,"Send and manage iMessage, RCS, and SMS conversations through the Linq API."
+2026-11-05T21:44:41.90542Z,com.catchmently/schools,Catchmently,0.1.0,,streamable-http,"England's schools and nurseries: Ofsted, exam results, offers and last distance offered."
+2026-11-05T21:44:43.930972Z,uk.co.motstat/mot,motstat,0.1.0,,streamable-http,"UK car reliability from real MOT results: first-time pass rates by make, model and number plate."
+2026-11-05T21:45:52.089593Z,com.sealgraf/sealgraf,Sealgraf,1.0.0,,streamable-http,Sealgraf checks agent purchases against the owner's limits and seals a receipt anyone can check.
+2026-11-05T21:50:04.533029Z,com.imperiofriki/store,Imperio Friki,0.3.0,,streamable-http,"Imperio Friki live catalogue, product variants and customer-reviewed WooCommerce checkout."
+2026-11-05T21:53:57.577091Z,io.github.melcutz/keepfor.me,Keepfor.me,0.2.0,https://github.com/melcutz/keepfor.me,streamable-http,"Your personal library, readable by AI agents: durable snapshots, hybrid search, 46 MCP tools."
+2026-11-05T22:00:15.037005Z,com.easyappsecom/ea-shopify-apps,EA Shopify Apps,1.0.0,,streamable-http,"Stats, setup, drafts and opt-in publishing for the EA Shopify apps: bundles, popups, cart, bars."
+2026-11-05T22:01:19.041023Z,io.github.nxtg-ai/faultline,Faultline,0.12.1,https://github.com/nxtg-ai/faultline-pro,streamable-http,Checks the most important factual claims in AI output against live web sources by default.
+2026-11-05T22:06:58.814613Z,com.listennotes/mcp,Podcast Search by Listen Notes,1.0.0,,streamable-http,"Official podcast search, interview research, PR leads, and media monitoring from Listen Notes."
+2026-11-05T22:12:38.13863Z,com.safetoclone/safetoclone,SafeToClone,1.1.0,,streamable-http,"Safety grade (A to F) for any public GitHub repo, in plain English, before you install it."
+2026-11-05T22:12:50.289177Z,com.feedhorizon/mcp,FeedHorizon,1.0.0,,streamable-http,"Schedule and publish posts on X, LinkedIn, Instagram, Bluesky and Pinterest."
+2026-11-05T22:16:51.059371Z,io.github.mattkerr09/docket,Docket SEO,1.3.150,https://github.com/mattkerr09/docket-mcp,,"SEO audits that run on your computer: score, ranked fixes and AI-search checks. Free to try."
+2026-11-05T22:18:23.571042Z,io.github.aiscihub/cookieguard,CookieGuard,0.1.0,https://github.com/aiscihub/cookieguard-ai,,Audit HTTP cookie security against your local policy. Returns findings without cookie values.

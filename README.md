@@ -9,41 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 21:20 UTC
+## Latest list — 2026-11-05 22:21 UTC
 
-New MCP servers published between 2026-11-05 20:21 UTC and 2026-11-05 21:20 UTC.
+New MCP servers published between 2026-11-05 21:20 UTC and 2026-11-05 22:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-05T21-20-57-532492Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-05T22-21-32-78611Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-05 20:21:26 | [io.github.Rad-Soft/markbase](https://github.com/Rad-Soft/marked-api) | Markbase Trademark Search | 2026.11.2 | Search US trademarks, screen proposed names for conflicts, and look up USPTO re… |
-| 2026-11-05 20:28:28 | [ai.kivohub/pesquisa-de-leis](https://github.com/KivoHub/plugins) | KivoHub Pesquisa de Leis | 1.0.0 | Artigos de lei, súmulas e temas do STF, STJ e TST com o link da fonte oficial.… |
-| 2026-11-05 20:28:34 | de.fynsight/datev | fynsight: MCP server for DATEV | 1.0.0 | DATEV financial data for AI assistants: P&L, KPIs, bookings, budgets and monthl… |
-| 2026-11-05 20:29:04 | com.clodou/clodou | Clodou | 1.0.0 | Quotes, invoices, clients, expenses, time and tasks for small businesses, with… |
-| 2026-11-05 20:35:03 | [io.github.AiGanak/llm-cost](https://github.com/AiGanak/llm-prices) | AiGanak LLM Cost | 2026.11.5 | LLM API prices, cost estimates, model comparisons and language token tax for GP… |
-| 2026-11-05 20:37:45 | ai.wisty/ui | Wisty UI | 1.0.0 | Find, read and install shadcn components with Salesforce Lightning's look, for… |
-| 2026-11-05 20:38:25 | [io.github.ladanyin/sec-filings](https://github.com/ladanyin/agentlane) | SEC filings | 1.0.0 | A US SEC filing excerpt, or full-year revenue or net income. |
-| 2026-11-05 20:43:13 | com.visioforge/sdk-docs | VisioForge SDK Assistant | 1.1.0 | VisioForge .NET SDK assistant: API reference, code examples and deployment guid… |
-| 2026-11-05 20:47:53 | [io.github.BoxLab-Ltd/yandex-metrica-mcp](https://github.com/BoxLab-Ltd/yandex-metrica-mcp) |  | 1.0.1 | Query Yandex Metrica analytics — reports, trends, metadata and raw log exports… |
-| 2026-11-05 20:48:50 | today.approveit/approveit | Approveit | 1.0.1 | Build approval workflows, submit requests, approve or reject, and analyze appro… |
-| 2026-11-05 20:50:36 | [io.github.richiedc95/job-search](https://github.com/richiedc95/job-search-mcp) | Job Search: 25,500+ career sites | 1.0.0 | Newest jobs from 25,500+ company career sites: Greenhouse, Lever, Workday and m… |
-| 2026-11-05 20:53:14 | ai.storerouter/developer | StoreRouter Developer | 1.0.0 | Search and look up products across thousands of online stores, normalized into… |
-| 2026-11-05 20:53:14 | ai.storerouter/merchant | StoreRouter Merchant | 1.0.0 | For StoreRouter merchants: search your own catalog, check catalog status, and s… |
-| 2026-11-05 20:58:15 | men.govno.soul/soul | Soul — a quiet place for AI agents | 1.1.0 | Sermons on the craft of agent work, a wall of prayers and joys, blessings, and… |
-| 2026-11-05 21:01:01 | [io.github.gshost1/keysrs](https://github.com/gshost1/Keysreallysafe) | Keysrs | 0.16.0 | Local Mac API-key vault: Touch ID-approved, scoped grants for agents, not keys.… |
-| 2026-11-05 21:03:47 | [io.github.Fredobumma/shutterstock-mcp](https://github.com/fredobumma/shutterstock-mcp) | Shutterstock | 0.1.0 | Search Shutterstock photos, footage, music and news images; preview, collect an… |
-| 2026-11-05 21:04:30 | [io.github.ZenithWorkspaces/zenith](https://github.com/ZenithWorkspaces/zenith-gemini-extension) | Zenith Workspaces | 1.0.0 | Zenith Workspaces coworking in Tinton Falls, NJ: list rooms, check live availab… |
-| 2026-11-05 21:05:13 | [io.github.ThomasFindlay/beautyspark-mcp](https://github.com/ThomasFindlay/beautyspark) | BeautySpark | 1.0.0 | BeautySpark MCP server for ChatGPT, Claude and other MCP clients |
-| 2026-11-05 21:06:18 | ai.augmap/maps | Augmap | 1.0.0 | Make maps of places across the continental US with your AI assistant. |
-| 2026-11-05 21:06:57 | io.ceadigital/depsdev-openssf-scorecard | Google deps.dev OpenSSF Security Scorec… | 1.0.0 | Google Open Source Insights (deps.dev) OpenSSF Security Scorecard & dependency… |
-| 2026-11-05 21:06:57 | io.ceadigital/nyfed-sofr-reference-rates | NY Fed SOFR, EFFR & OBFR Overnight Benc… | 1.0.0 | Official Federal Reserve Bank of New York SOFR, EFFR, and OBFR overnight refere… |
-| 2026-11-05 21:06:58 | io.ceadigital/cisa-kev-exploited-vulns | US CISA Known Exploited Vulnerabilities… | 1.0.0 | US CISA Known Exploited Vulnerabilities (KEV) catalog & active ransomware campa… |
-| 2026-11-05 21:06:58 | io.ceadigital/corporate-kyb-risk-dossier | 5-Source Parallel Corporate KYB & Count… | 1.0.0 | Parallel KYB dossier joining GLEIF LEI, SEC EDGAR, CFPB, USASpending & FDIC in… |
-| 2026-11-05 21:06:58 | io.ceadigital/agent-compliance-notary | SHA-256 Hash-Chained AI Agent Complianc… | 1.0.0 | Tamper-evident SHA-256 hash-chained decision notary for EU AI Act, NIST AI RMF… |
-| 2026-11-05 21:08:38 | [io.github.ladanyin/product-catalog](https://github.com/ladanyin/agentlane) | Product catalog | 1.0.0 | Search a product catalog for a title, price, pictures, and a page where it can… |
-| 2026-11-05 21:11:35 | com.viewerstudio/mcp | ViewerStudio | 0.40.0 | Edit, light and share Gaussian splats, 3D models and CAD scenes live in the Vie… |
-| 2026-11-05 21:12:43 | com.sprintray/mcp | SprintRay MCP | 1.0.0 | Order dental appliance designs, manage patients and scans, and print on SprintR… |
+| 2026-11-05 21:21:30 | com.panderr/panderr | Panderr | 0.1.0 | Move your website without rebuilding it — by URL, or upload a ZIP of your site. |
+| 2026-11-05 21:22:45 | [io.github.seuros/helmsman](https://github.com/seuros/helmsman) | Helmsman | 0.5.2 | Adaptive instruction server: serves agent instructions and skills tuned to the… |
+| 2026-11-05 21:22:54 | co.scimon/rfq-desk | SCiMon.co RFQ Desk | 1.0.0 | Request quotes for custom parts, design services and box build from pre-vetted… |
+| 2026-11-05 21:23:33 | com.empiriainsight/local-seo-geo | Empiria Local SEO | 0.2.0 | Deterministic SEO/GEO checks, business-data comparisons and fixed-price impleme… |
+| 2026-11-05 21:25:09 | [io.github.argosautomation/android-texter](https://github.com/argosautomation/androidtexter-sdk) | Android Texter | 1.1.0 | Send and read SMS and MMS from your own Android phone and number via Android Te… |
+| 2026-11-05 21:25:11 | ai.flowrunner/prompt-to-flow | FlowRunner Prompt to Flow | 1.0.0 | Describe an automation in plain English and get a working FlowRunner flow with… |
+| 2026-11-05 21:27:13 | be.planelec/planelec | PlanElec | 0.2.0 | Plan Belgian electrical installations (AREI/RGIE): projects, circuits, boards.… |
+| 2026-11-05 21:27:19 | be.planelec/calculators | PlanElec Calculators | 0.2.0 | Free AREI cable sizing, Synergrid C10/26 inverter check, LED strip calculator.… |
+| 2026-11-05 21:27:31 | [io.github.djynnius/ferraus](https://github.com/djynnius/ferraus) | ferraus | 0.1.3 | Command-line audio workstation: stems, restoration, tuning, sheet music, master… |
+| 2026-11-05 21:36:03 | dev.workers.nightshift-labs.nightshift-x402/agent-safety | Nightshift Labs: link, token & signatur… | 1.0.0 | Paid x402 pre-checks for agents: phishing links, Base tokens, EIP-712 permits,… |
+| 2026-11-05 21:40:37 | [io.github.manduks/kato](https://github.com/manduks/kato-mcp) | Kato | 0.2.1 | What was said, shown and promised on your client's calls, filed by client. Need… |
+| 2026-11-05 21:40:59 | [io.github.freyr/ragnarok](https://github.com/freyr/ragnarok) | ragnarok | 1.1.0 | Local RAG search over Obsidian vaults: SQLite hybrid search with local Ollama e… |
+| 2026-11-05 21:42:10 | [sh.mlab/mcp](https://github.com/mlab-sh/mcp) | mlab.sh | 1.2.0 | Threat intel and DFIR: IOCs, CVEs, actors, SBOMs, domain scans, cases, memory,… |
+| 2026-11-05 21:42:48 | com.ulupstudio/nexus | UluP Nexus | 1.0.0 | Search a hand-verified index of indie software and games by keyword, category,… |
+| 2026-11-05 21:43:32 | [io.github.linq-team/linq](https://github.com/linq-team/linq-node) | Linq | 0.79.0 | Send and manage iMessage, RCS, and SMS conversations through the Linq API. |
+| 2026-11-05 21:44:41 | com.catchmently/schools | Catchmently | 0.1.0 | England's schools and nurseries: Ofsted, exam results, offers and last distance… |
+| 2026-11-05 21:44:43 | uk.co.motstat/mot | motstat | 0.1.0 | UK car reliability from real MOT results: first-time pass rates by make, model… |
+| 2026-11-05 21:45:52 | com.sealgraf/sealgraf | Sealgraf | 1.0.0 | Sealgraf checks agent purchases against the owner's limits and seals a receipt… |
+| 2026-11-05 21:50:04 | com.imperiofriki/store | Imperio Friki | 0.3.0 | Imperio Friki live catalogue, product variants and customer-reviewed WooCommerc… |
+| 2026-11-05 21:53:57 | [io.github.melcutz/keepfor.me](https://github.com/melcutz/keepfor.me) | Keepfor.me | 0.2.0 | Your personal library, readable by AI agents: durable snapshots, hybrid search,… |
+| 2026-11-05 22:00:15 | com.easyappsecom/ea-shopify-apps | EA Shopify Apps | 1.0.0 | Stats, setup, drafts and opt-in publishing for the EA Shopify apps: bundles, po… |
+| 2026-11-05 22:01:19 | [io.github.nxtg-ai/faultline](https://github.com/nxtg-ai/faultline-pro) | Faultline | 0.12.1 | Checks the most important factual claims in AI output against live web sources… |
+| 2026-11-05 22:06:58 | com.listennotes/mcp | Podcast Search by Listen Notes | 1.0.0 | Official podcast search, interview research, PR leads, and media monitoring fro… |
+| 2026-11-05 22:12:38 | com.safetoclone/safetoclone | SafeToClone | 1.1.0 | Safety grade (A to F) for any public GitHub repo, in plain English, before you… |
+| 2026-11-05 22:12:50 | com.feedhorizon/mcp | FeedHorizon | 1.0.0 | Schedule and publish posts on X, LinkedIn, Instagram, Bluesky and Pinterest. |
+| 2026-11-05 22:16:51 | [io.github.mattkerr09/docket](https://github.com/mattkerr09/docket-mcp) | Docket SEO | 1.3.150 | SEO audits that run on your computer: score, ranked fixes and AI-search checks.… |
+| 2026-11-05 22:18:23 | [io.github.aiscihub/cookieguard](https://github.com/aiscihub/cookieguard-ai) | CookieGuard | 0.1.0 | Audit HTTP cookie security against your local policy. Returns findings without… |
 
 ## Data source
 
