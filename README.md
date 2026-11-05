@@ -9,36 +9,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 00:18 UTC
+## Latest list — 2026-11-05 01:21 UTC
 
-New MCP servers published between 2026-11-04 23:20 UTC and 2026-11-05 00:18 UTC.
+New MCP servers published between 2026-11-05 00:18 UTC and 2026-11-05 01:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-05T00-18-41-507637Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-05T01-21-03-455031Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-04 23:20:21 | com.trycloudflare.expanded-oven-hardwood-cheque/trc20-instruments | TRC20 payment instruments | 1.0.0 | Measured USDT-TRC20 facts: transfer postage, market-vs-cluster payers, referenc… |
-| 2026-11-04 23:28:10 | [io.github.antonber/freero](https://github.com/antonber/freero) | Freero | 0.1.0 | A collaborative whiteboard your AI assistant can read, fill and show live, with… |
-| 2026-11-04 23:29:00 | [io.github.ladanyin/dependency-check](https://github.com/ladanyin/agentlane) | Dependency check | 1.0.0 | Check a package version for known vulnerabilities and Packagist release facts. |
-| 2026-11-04 23:29:01 | [io.github.ladanyin/api-operation](https://github.com/ladanyin/agentlane) | API operation | 1.0.0 | Read one operation from a public OpenAPI document: method, path, and required f… |
-| 2026-11-04 23:34:32 | [codes.onv/onv-mcp](https://github.com/sftgroup/onv-mcp) |  | 1.0.3 | 量化策略回测、组合配置与多交易所执行（14 家通道） |
-| 2026-11-04 23:36:41 | app.stashhh/stashhh | Stashhh | 3.0.0 | 스태시(Stashhh) 저장함의 카드와 폴더를 AI에서 검색하고 정리합니다. |
-| 2026-11-04 23:38:52 | [io.github.CloudCorpRecords/repofind](https://github.com/CloudCorpRecords/repofind) |  | 0.1.0 | Local codebase search for agents: hybrid keyword/semantic search, locate, expan… |
-| 2026-11-04 23:47:35 | com.destava/jobs | Destava job search | 1.0.0 | Search current job postings from companies' own career sites. Free, no account. |
-| 2026-11-04 23:50:15 | com.402lounge/mcp | 402lounge | 0.3.0 | Receipts, invoices and a payTo register for AI agents that pay with x402 (USDC… |
-| 2026-11-04 23:51:34 | [io.github.aabiro/xcelsior](https://github.com/aabiro/xcelsior) | Xcelsior Compute | 2.0.0 | Discover GPU availability and prices, manage instances, and run serverless infe… |
-| 2026-11-04 23:51:34 | [io.github.headmesh-dev/headmesh-sandbox](https://github.com/headmesh-dev/headmesh) | Headmesh Agent Sandbox | 0.1.0 | Run commands, edit files and manage Git and persistent sessions in your own iso… |
-| 2026-11-04 23:51:37 | ai.starpresence/mcp | StarPresence | 0.11.0 | Drafts Google & TripAdvisor review replies; owners decide what agents post. Fre… |
-| 2026-11-04 23:56:19 | app.doubletaxation/doubletaxation | DoubleTaxation | 1.0.0 | Tax residence between two countries: treaty tie-breaker, taxes, legal sources,… |
-| 2026-11-04 23:58:41 | dev.botshelf/bot-shelf | Bot Shelf | 1.0.0 | Search 9,000+ community Grok Bots by the job you want done, with creators credi… |
-| 2026-11-04 23:59:50 | [io.github.Servosity/netsapiens-mcp](https://github.com/servosity/msp-skills) | NetSapiens MCP | 0.1.0 | Every NetSapiens v2 endpoint plus a reseller-wide fleet view: seat limits, offl… |
-| 2026-11-05 00:02:38 | [io.github.t4dhg/mcp-holded](https://github.com/t4dhg/mcp-holded) | MCP Holded | 3.0.0 | MCP server for Holded (Spanish ERP): invoicing, accounting, treasury, CRM, proj… |
-| 2026-11-05 00:08:16 | io.pokeinvest/prices | PokeInvest Pokemon card prices | 1.0.0 | Pokemon card prices from real sold listings: raw and every PSA, CGC, BGS and TA… |
-| 2026-11-05 00:08:54 | [io.github.CloudCorpRecords/areaguide](https://github.com/CloudCorpRecords/areaguide) |  | 0.1.0 | Forwarding client for the ikeytz maps read/link service: service areas, places… |
-| 2026-11-05 00:10:16 | de.unterweisungsmappe/unterweisungsmappe | Unterweisungsmappe | 1.0.0 | Risk assessments and safety briefings for small German businesses, with proof P… |
-| 2026-11-05 00:12:10 | com.bookingbench/booking-bench | Booking Bench | 0.1.0 | Find vacation rentals near a US city, check live availability and prices, and s… |
-| 2026-11-05 00:16:22 | party.wakidokoro/chiikawa | Wakidokoro — Chiikawa episode guide | 1.0.0 | Unofficial Chiikawa episode guide: search episodes, characters and story arcs i… |
-| 2026-11-05 00:18:16 | [io.github.Servosity/apple-business-mcp](https://github.com/servosity/msp-skills) | Apple MCP | 0.1.0 | Every Apple Business API call, plus offline fleet answers: unassigned devices,… |
+| 2026-11-05 00:21:12 | [us.osada/o-sumo](https://github.com/dai/o-sumo) | 縦綱 Yokozuna — o-sumo | 1.0.0 | Grand Sumo (大相撲) banzuke, torikumi results, and rikishi profiles from osada.us.… |
+| 2026-11-05 00:21:58 | [io.github.CloudCorpRecords/pdfporter](https://github.com/CloudCorpRecords/pdfporter) |  | 0.1.0 | Convert files/URLs to PDF via conv2pdf; writes output files locally and deletes… |
+| 2026-11-05 00:22:02 | [com.avedaris/agent-utility-network](https://github.com/SchedNestCEO/agent-utility-network) | Agent Utility Network (AveDaris) | 0.6.0 | Paid agent tools over x402 (Base USDC): company/vendor research, domain trust,… |
+| 2026-11-05 00:25:12 | [io.github.zhang-liz/personal-brain](https://github.com/zhang-liz/personal-brain) | Personal Brain | 0.3.1 | Gives your AI agent memory of your professional network, from your LinkedIn dat… |
+| 2026-11-05 00:33:45 | si.sess/sess | Sess | 0.1.0 | Ask a person a question and continue with their verified answer. |
+| 2026-11-05 00:35:02 | io.github.pbchrist/iconic-intelligence-reserve | ICONIC Intelligence Reserve — Free Agen… | 0.1.0 | Free agent assessment and synthetic demonstration for business-owned intelligen… |
+| 2026-11-05 00:35:54 | [io.github.CloudCorpRecords/docshare](https://github.com/CloudCorpRecords/docshare) |  | 0.1.0 | EveryPage tracked PDF links: upload, update and delete PDFs, variant links and… |
+| 2026-11-05 00:45:56 | io.github.VadimModa/moda | Moda | 1.0.0 | Moda's buy-and-sell communities: find a group, check if a contact is really Mod… |
+| 2026-11-05 00:52:31 | [io.github.Timgrassin/staylong](https://github.com/Timgrassin/yuuthailand) | Staylong: Thailand long-stay visas | 1.0.0 | Thai visa rules, eligibility checks, 90-day reports, immigration offices and pl… |
+| 2026-11-05 00:53:39 | [io.github.paironce/cli](https://github.com/paironce/cli) | PairOnce | 0.9.0 | Send files and text between an AI agent and your own paired devices, end-to-end… |
+| 2026-11-05 00:59:23 | [io.github.jdhart81/vergecommon](https://github.com/jdhart81/verge-common) | VergeCommon | 0.10.0 | Start and run a neighborhood conservation co-op: public co-ops, pooling drafts,… |
+| 2026-11-05 01:05:53 | [io.github.johnisanerd/linkedin-profile](https://github.com/johnisanerd/Apify-LinkedIn-Profile-API) |  | 1.0.0 | Public LinkedIn profiles as JSON: headline, company, experience, and education,… |
+| 2026-11-05 01:07:47 | co.immit/dictionary | immit dictionary | 0.1.1 | The immit English and Japanese dictionary: entries, search and inflection table… |
+| 2026-11-05 01:08:10 | [io.github.CloudCorpRecords/ledgerbackup](https://github.com/CloudCorpRecords/ledgerbackup) |  | 0.1.0 | Read-only backup and export of Xero accounting data: organisations, exports, ma… |
+| 2026-11-05 01:11:48 | com.solutionsbradshaw/smartsheet-audit | Smartsheet Audit (x402) | 1.0.0 | Smartsheet workflow audit: free preview, full report $1 USDC on Base via x402. |
+| 2026-11-05 01:12:02 | [ai.familyofficeknowledgegraph/fo-kg](https://github.com/Agentic-Private-Office/fo-kg-door) | Family Office Knowledge Graph | 0.20.1 | Family Office Knowledge Graph: read-only MCP door over the public record. Agent… |
+| 2026-11-05 01:16:36 | [io.github.ferret-project/ferret](https://github.com/ferret-project/ferret) | Ferret | 2026.11.1 | Self-hosted home inventory: find, add and update what you own, maintenance, war… |
+| 2026-11-05 01:18:20 | [io.github.Servosity/warranty-mcp](https://github.com/servosity/msp-skills) | Dell, Lenovo and Apple MCP | 0.1.0 | Dell, Lenovo and Apple warranty end dates for every client's devices, in one lo… |
+| 2026-11-05 01:18:23 | [io.github.CloudCorpRecords/previewglow](https://github.com/CloudCorpRecords/previewglow) |  | 0.1.0 | Link previews and OG images: scan pages, render templates, create short links,… |
 
 ## Data source
 
