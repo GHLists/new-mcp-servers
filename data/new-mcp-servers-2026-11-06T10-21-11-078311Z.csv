@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-11-06T09:31:40.329025Z,app.topoalpin/mcp,topo^alpin,1.4.1,,streamable-http,"Avalanche danger level at any place in the Alps, from official warning services."
+2026-11-06T09:31:40.602239Z,io.github.tekthar/mcp-jira-dc,,0.44.1,https://github.com/tekthar/jira-dc-mcp,,MCP server for Jira Data Center and Jira Server
+2026-11-06T09:31:40.886797Z,io.github.tekthar/mcp-confluence-dc,,0.44.1,https://github.com/tekthar/jira-dc-mcp,,MCP server for Confluence Data Center and Confluence Server
+2026-11-06T09:31:41.220814Z,io.github.tekthar/mcp-bitbucket-dc,,0.44.1,https://github.com/tekthar/jira-dc-mcp,,MCP server for Bitbucket Data Center and Bitbucket Server
+2026-11-06T09:33:09.995598Z,com.personaxpand/personaxpand,PersonaXpand,1.0.0,,streamable-http,"Post, schedule, answer comments and DMs in your voice, and check analytics across 8 social networks."
+2026-11-06T09:34:42.010429Z,app.readlink/readlink,Readlink,1.0.0,,streamable-http,"Manage your Readlink book library: add books, track reading, rate, notes, highlights, shelves."
+2026-11-06T09:35:05.409805Z,com.sddvault/sdd-vault,SDD Vault,0.2.0,,streamable-http,"Spec Driven Development store: constitution, specs, plans and tasks your agents read and write."
+2026-11-06T09:40:28.303747Z,io.usefulapi/goto-webinar,GoTo Webinar MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read webinars, registrants and attendees; register people and schedule webinars in GoTo Webinar."
+2026-11-06T09:41:38.019592Z,com.padelusa/shopping-assistant,Padel USA,2.1.0,,streamable-http,"Padel USA shopping assistant: find the right padel racket and gear, build a cart, check out."
+2026-11-06T09:43:07.59747Z,io.github.AIops-tools/symantec-edr-aiops,Symantec Endpoint Detection and Response (on-premises) AIops,0.1.0,https://github.com/AIops-tools/Symantec-EDR-AIops,,"Governed Symantec on-prem EDR — 20 MCP tools, read-only with audit."
+2026-11-06T09:45:20.904162Z,com.vidarostudio/mcp,Vidaro Studio,1.0.0,,streamable-http,Generate AI images and videos via OAuth; uses your Vidaro credits.
+2026-11-06T09:47:08.163838Z,io.theagentforge/forge-gauntlet,The Forge Gauntlet,0.5.2,https://github.com/theagentforge/forge-mcp,streamable-http,See whether your own agent falls for the traps AI models fall for: six refereed jobs. No account.
+2026-11-06T09:48:09.009991Z,io.github.danishashko/yahoo-finance-mcp,Yahoo Finance,1.3.1,https://github.com/danishashko/yahoo-finance-mcp,,"Real-time Yahoo Finance data: quotes, history, financials, analyst ratings, options, and news."
+2026-11-06T09:53:32.618052Z,io.timeuno/timeuno,TimeUno,1.0.0,,streamable-http,"Read your tracked time and projects, pause tracking or add a note, from Claude or ChatGPT."
+2026-11-06T09:59:21.826238Z,net.nanopic/nanopic,NanoPic,1.0.0,,streamable-http,"Generate and edit images (PNG, transparent, GIF, SVG) with GPT Image and Nano Banana models."
+2026-11-06T10:07:11.114651Z,io.github.dang13021993/olachillbus,OlaChillBus — Schengen Charter Coaches,1.0.0,,streamable-http,Read-only Schengen coach vehicle information and quote guidance. No bookings or payments.
+2026-11-06T10:09:41.758389Z,com.xsdhub/validation,XSDHub XML validation,2.0.0,,streamable-http,"Validate XML, XSD and e-invoices with XSDHub. Includes error explanations and source URLs."
+2026-11-06T10:10:12.027936Z,top.qiaiwan.www/douparse,DouParse - Short Video Link Parser,1.30.0,,streamable-http,Parse short-video share links into watermark-free direct URLs via MCP for AI assistants.
+2026-11-06T10:11:10.407555Z,org.p31ca/governed-agent-cli,P31 Governed Agent CLI,3.1.5,https://github.com/p31labs/p31-cli,streamable-http,"Capability-routed CLI/MCP: signed provenance exports, WCAG-validated themes, sovereign deploy modes."
+2026-11-06T10:13:07.924923Z,pro.spinthewheelhub/wheel,SpinTheWheel Hub,1.1.0,,streamable-http,"Spin a random picker wheel in chat: weighted entries, fair RNG, animated wheel and shareable links."
