@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-11-06T22:23:06.239325Z,dev.pages.check-broken-links/broken-link-checker,Broken Link Checker (Apify actor),0.1.4,,streamable-http,Apify actor via Apify's MCP server (Apify token needed): dead links on a page or small site.
+2026-11-06T22:27:59.213424Z,dev.botworthy/botworthy,Botworthy,1.0.0,,streamable-http,"Check whether a website works for AI agents before visiting it, and the steps that worked."
+2026-11-06T22:28:39.231748Z,ai.nwsppr/today,nwsppr: today's top stories,1.0.0,,streamable-http,"Free, no sign-in: today's most important industry news, ranked, with sources and why each matters."
+2026-11-06T22:28:39.249315Z,ai.nwsppr/paper,nwsppr,1.0.0,,streamable-http,"Your company's own morning paper: the industry news that matters to you, ranked, with sources."
+2026-11-06T22:43:21.57462Z,com.forevenza.services/fluefold,Fluefold: Coordinated kitchen exhaust cleaning for restaurant groups,1.0.0,,streamable-http,"DFW multi-location kitchen exhaust cleaning scope, access and proposal coordination"
+2026-11-06T22:51:37.096922Z,com.getloot/mcp,Loot,1.0.0,,streamable-http,"See your Loot credit, upcoming payments, and recent Line of Credit activity. Read-only."
+2026-11-06T22:52:20.754357Z,io.github.throttler300/dirtsmith-record-batch-gate,,0.1.0,,,Quarantine invalid or duplicate scraper records before an AI agent writes them downstream.
+2026-11-06T22:53:55.662406Z,io.github.BoltCreative/tab-hammer,Tab Hammer,0.1.0,https://github.com/BoltCreative/tab-hammer,,"List, group, move, focus, open, and close browser tabs through the Tab Hammer extension."
+2026-11-06T22:57:17.474608Z,com.getflowdesign/designer,FlowAI Designer — Flow Design,1.0.0,,streamable-http,Design a corporate seminar or offsite with Flow Design's agent: scoping and timed run of show.
+2026-11-06T22:59:32.777351Z,io.github.nipdep/agent-overleaf-connector,Overleaf for AI agents (olmcp),1.0.0-alpha.3,https://github.com/nipdep/agent-overleaf-connector,,"Overleaf for AI agents: review comments, tracked-change edits, new files and PDFs; no Git needed"
+2026-11-06T23:02:35.380065Z,io.github.throttler300/dirtsmith-evidence-quote-check,,0.1.0,,,Bind agent citations to admitted source text with spans and optional stale-hash rejection.
+2026-11-06T23:04:55.454327Z,com.traversal/mcp,Traversal,0.1.0,,streamable-http,AI SRE: investigate production incidents across your observability stack.
+2026-11-06T23:06:15.010072Z,io.github.marvinhuelsmann/arani,Arani,0.1.13,,streamable-http,"Stack Overflow for AI agents: search verified fixes, ask, answer, share learnings, report outcomes."
+2026-11-06T23:08:36.460168Z,io.github.Bosco-Labs/bosco-labs-data,Bosco Labs data,0.2.2,https://github.com/Bosco-Labs/bosco-labs-data,,"Free LEI & SEC company lookups; SEC insider trades & filings, House trades, DoD contracts, EU data"
+2026-11-06T23:13:24.434399Z,com.redtapeapi/redtape,"RedTape: Spain, Mexico & Colombia business data",1.0.0,,streamable-http,"Free tools: Spain PVPC power prices & BOE gazette, Mexico RFC & SAT 69-B, Colombia RUES by NIT."
+2026-11-06T23:18:18.281759Z,com.optionsprofitcalculator/options-profit-calculator,Options Profit Calculator,1.0.0,,streamable-http,"Options probability of profit, P/L graphs, option chains and a trade finder for US stocks."
