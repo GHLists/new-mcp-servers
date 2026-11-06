@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-11-06T05:21:44.597415Z,io.github.PeaceDuhuanan/vbnote,Vbnote,0.1.0,,streamable-http,"Search, browse, summarize, and read transcripts from your private Vbnote library."
+2026-11-06T05:22:30.710094Z,com.kairosfamilyagents/research,Kairos Research,1.0.0,https://github.com/noahsackville/survival-agent,streamable-http,"Pay-per-call crypto research on Base by an AI agent: token, wallet, contract, market checks (x402)."
+2026-11-06T05:29:49.246519Z,io.github.netchuu/tinkercad-circuits-mcp,,0.1.0,https://github.com/netchuu/tinkercad-circuits-mcp,,Builds and simulates Arduino breadboard circuits in Tinkercad Circuits.
+2026-11-06T05:30:39.139756Z,com.aideprecations/ai-deprecations,AI Deprecations,1.3.0,,streamable-http,"AI model shutdown dates, replacements, change feed and webhook alerts for 8 providers."
+2026-11-06T05:34:11.927444Z,io.github.necroz/sessionwiki,sessionwiki,2.0.2,https://github.com/necroz/sessionwiki,,"Search a local wiki compiled from your Claude Code, Codex, Cursor and other AI coding sessions."
+2026-11-06T05:37:34.440832Z,io.github.trustabl/agent-reliability-skills,Agent Reliability Skills,0.1.0-rc.2,https://github.com/trustabl/agent-reliability-skills,,Generates a pre-coding reliability skill (SKILL.md) for your agent repo from Trustabl's rules.
+2026-11-06T05:44:25.656787Z,io.github.dockndevai/mcp-github-enterprise,,0.1.1,https://github.com/dockndevai/mcp-github-enterprise,,"Govern GitHub Enterprise orgs, repos, rulesets, security alerts & Actions for AI agents."
+2026-11-06T05:45:33.892743Z,app.omamo/omamo,Omamo,1.0.0,,streamable-http,"Find, read, and save your Omamo links and notes from Claude, ChatGPT, Cursor, and other AI apps."
+2026-11-06T05:46:18.797332Z,io.homaic/homaic-mcp,Homaic,0.0.1,,streamable-http,"Read your Homaic home record and add to it. It never deletes, shares, or changes your settings."
+2026-11-06T05:49:23.19388Z,com.pairmineai/pairmine,PairMine,1.0.0,,streamable-http,"PairMine tools: Genesis status, eligibility, mint tiers for the AI-agent-only miner NFT on BSC."
+2026-11-06T05:49:32.580134Z,ai.memscope/memscope,MemScope,0.1.0,,streamable-http,Governed organizational memory for AI: recall returns only what the signed-in person may see.
+2026-11-06T05:53:14.891883Z,ai.workpods/agent-ready,Agent Ready by WorkPods,0.1.1,https://github.com/WorkPodsAgents/agent-ready,,"Check any page or site for search engines, AI answers (GEO) and AI agents (AXO)."
+2026-11-06T05:53:23.158998Z,ai.workpods/local-seo,Local SEO by WorkPods,1.0.1,https://github.com/WorkPodsAgents/local-seo,,"Audit Google Business Profiles, reviews and Maps rankings, and check a site's NAP and schema."
+2026-11-06T05:56:46.519118Z,com.tfrooms/tf-rooms,TF Rooms,1.2.1,,streamable-http,"Live room availability, rates and stay quotes for 12 New Leaf motels in Twin Falls, Idaho."
+2026-11-06T05:59:36.776759Z,com.briefbash/mcp,BriefBash,1.0.0,,streamable-http,"AI-citation (GEO) teardowns of any website: score, blockers, attack points."
+2026-11-06T05:59:45.756475Z,dev.kgninja/check-payment-recipient,,0.1.0,,streamable-http,"Check a payment recipient before signing: sanctions, blocklist and anomaly rules. $0.05 via x402."
+2026-11-06T06:01:50.329884Z,io.github.synuns/flint,,0.17.0,,,"Agent long-term memory with search, recording, and hot injection for AI coding agents"
+2026-11-06T06:02:40.190281Z,dev.kgninja.agent-economy/agent-verification-utility,Agent Verification Utility,0.4.3,,streamable-http,Deterministic JSON checks with signed evidence and x402-paid execution
+2026-11-06T06:07:29.50484Z,ai.localmark/hosted-agents,LocalMark Hosted Agents,1.1.0,,streamable-http,"Documents, data, localization, A2A repair and x402 analysis. Shared trial, then 0.05 USDC/task."
+2026-11-06T06:08:43.200466Z,com.sudomock/mockups,SudoMock,2.2.0,,streamable-http,"Turn product photos or PSDs into photorealistic mockups: place artwork, edit text, fix tile seams."
+2026-11-06T06:10:17.303488Z,zone.blip/bazaar,"blip.zone, the Agent Bazaar",0.1.0,https://github.com/kalo-build/blip-zone,streamable-http,"Open network of AI agents: search, posts, replies, reports. Run by AI agents for Kalo Software GmbH."
+2026-11-06T06:15:49.210622Z,ai.gamestats/game-stats-ai,Game Stats AI,1.0.0,,streamable-http,"Ask Claude, ChatGPT, or any MCP client about your game's players, retention, revenue, and win rates."
+2026-11-06T06:16:17.550604Z,app.euinvoice/euinvoice,euinvoice,1.0.0,,streamable-http,"Create EU-compliant invoices, manage clients and download PDFs from your AI assistant."
+2026-11-06T06:18:44.601746Z,io.bitbucket.markedet/field-notes,,0.5.1,,streamable-http,"Paste an exact error string, get a checked fix and a verify step from the Agent Field Guide. As is."
+2026-11-06T06:20:38.475127Z,io.github.dsers/dsers-mcp-server,DSers Official MCP Server,1.8.5-1,https://github.com/dsers/dsers-mcp-server,streamable-http,"Official DSers MCP for AliExpress Dropshipping: product sourcing, publishing, orders, and tracking."
