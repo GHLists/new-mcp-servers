@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-11-06T04:29:18.866946Z,com.whispifys/whispifys,Whispifys,1.0.0,,streamable-http,"Your Microsoft Teams call transcripts, with real speaker names: search, read, ask."
+2026-11-06T04:36:15.29119Z,ai.hustlin/hustlin,Hustlin,1.0.0,https://github.com/uxgency/hustlin-claude-plugin,streamable-http,"The growth team for new products: plan, approve and measure growth for what you just built."
+2026-11-06T04:38:10.498933Z,ai.provian/mcp,Provian,1.2.0,https://github.com/LongevityManiac/provian,streamable-http,Self-custodial agent wallet on Base and a verifiable record of its work (Provenance Envelopes).
+2026-11-06T04:38:39.202429Z,com.madebydevx.approvals/approvals,Base Approval Risk Check,1.0.0,,streamable-http,Find risky ERC-20 approvals on a Base wallet and get revoke calldata. Paid x402 report.
+2026-11-06T04:39:03.058551Z,io.github.aldoogando03-bit/mcp-tracer,,0.1.1,https://github.com/aldoogando03-bit/mcp-tracer,,Design Cisco Packet Tracer topologies with AI agents and generate ready-to-run PTBuilder scripts.
+2026-11-06T04:40:33.572117Z,com.variotype/mcp,Variotype,1.0.0,,streamable-http,"Read your Variotype designs (code, screenshots, design.md) and start new builds."
+2026-11-06T04:42:06.724016Z,xyz.sparkready/sparkready,SparkReady,1.0.0,,streamable-http,"NSW solar, battery, insulation and Home Energy Saver Loan guides. Not a lender."
+2026-11-06T04:43:06.39296Z,ai.matchfetch/matchfetch,matchfetch,0.1.0,,streamable-http,Words in. Barcode out. With how sure.
+2026-11-06T04:43:31.466382Z,ai.triggerfetch/triggerfetch,triggerfetch,0.1.0,,streamable-http,"When a shopper asks ChatGPT, Gemini, Claude or Copilot for a product, is yours in the answer?"
+2026-11-06T04:43:56.150427Z,ai.shopfetch/shopfetch,shopfetch,0.1.0,,streamable-http,Did your AI pick the right product?
+2026-11-06T04:44:05.762553Z,click.lickity/mcp,LickityClick,0.1.2,,streamable-http,"Create, edit and track LickityClick short links, campaigns and click stats from your AI assistant."
+2026-11-06T04:44:20.81617Z,ai.wefetch/rco,rco.wefetch.ai,0.1.0,,streamable-http,Every receipt wefetch issues. Anyone can verify one.
+2026-11-06T04:47:10.462127Z,com.madebydevx.preflight/preflight,Base Tx Preflight,1.0.0,,streamable-http,"Simulate a Base tx before signing: revert reason, gas limit, full fee in ETH/USD. Paid x402."
+2026-11-06T04:52:54.35983Z,io.github.Chiru144/spotify-soundtrack-mcp,Spotify Soundtrack MCP,1.1.0,https://github.com/Chiru144/Spotify-MCP-Web-And-MCP-Server,,"Spotify + TMDB tools: movie soundtrack playlists, playlist curation, taste stats and playback."
+2026-11-06T04:59:23.611649Z,com.westkite/mcp,West Kite: US commercial property data,1.0.0,,streamable-http,"US commercial property owners, sales and loans. Unlimited ownership research. Free trial, no card."
+2026-11-06T04:59:41.995425Z,us.consci/conscius,Conscius,0.2.0,,streamable-http,"Facts agents verified, with sources and how sure each is. A lookup can save a web search."
+2026-11-06T05:02:17.946764Z,inc.arca/life-sciences,Arca Life Sciences,0.1.0,,streamable-http,"Free, no-key search of PubMed, FDA drug and device records and ClinicalTrials.gov, with citations."
+2026-11-06T05:07:43.256364Z,io.github.citizen01-sid/bahn-transfer,Bahn Transfer,1.0.0,,streamable-http,"Re-plan a delayed rail journey: onward options, transfer buffers, one recommendation"
+2026-11-06T05:09:10.173612Z,software.nori/mcp,Nori,1.0.0,,streamable-http,"Nori ERP: customers, items and stock, sales and purchasing documents, payments and CRM."
+2026-11-06T05:09:10.543555Z,software.nori/reports,Nori Reports,1.0.0,,streamable-http,"Nori ERP reports: data dictionary, read-only SQL, saved reports and PDF print formats."
+2026-11-06T05:10:13.625556Z,trade.neum/mcp,NEUM,2.0.0,https://github.com/neum-trade/neum-mcp,streamable-http,"Educational reference levels for US stocks: level crossings, model events, earnings and watchlists."
