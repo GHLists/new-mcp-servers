@@ -9,36 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 07:21 UTC
+## Latest list — 2026-11-06 08:20 UTC
 
-New MCP servers published between 2026-11-06 06:21 UTC and 2026-11-06 07:21 UTC.
+New MCP servers published between 2026-11-06 07:21 UTC and 2026-11-06 08:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-06T07-21-24-965296Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-06T08-20-30-530108Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-06 06:21:44 | com.berthtime/berthtime | BerthTime | 1.0.0 | Track ocean containers and shipments: live ETAs, delays, carrier events and sha… |
-| 2026-11-06 06:23:51 | [dev.recoupable/recoup](https://github.com/recoupable/api) | Recoup: AI agents for the music industry | 1.0.0 | Music industry tools for AI agents: artist research, catalogs, release plans an… |
-| 2026-11-06 06:24:09 | co.glpcompare/glp1-prices | GLPcompare: US GLP-1 cash prices | 1.0.0 | US GLP-1 cash prices by seller, ranked per 30 days, with check dates and source… |
-| 2026-11-06 06:26:33 | [io.github.JC7333/mandatia](https://github.com/JC7333/amr) | AMR (Agent Mandate Registry) | 0.1.1 | Records who authorized an AI agent to do what, until when; signed tokens, hash-… |
-| 2026-11-06 06:26:49 | com.queuecallback/mcp | Queue CallBack | 1.0.0 | Reporting, callback operations, queue settings and Custom IVR flows for RingCen… |
-| 2026-11-06 06:27:26 | [io.github.Servosity/vsphere-mcp](https://github.com/servosity/msp-skills) | VMware vSphere MCP | 0.1.0 | Read-only vCenter inventory for migration planning: blockers, snapshots, per-co… |
-| 2026-11-06 06:30:22 | [io.github.nansa1/bharat-mcp](https://github.com/nansa1/bharat-mcp) | Bharat MCP | 0.4.0 | India tools: GST invoices and official GST rates, HSN/SAC search, UPI and bank… |
-| 2026-11-06 06:32:55 | [io.github.rmngl/runchr](https://github.com/rmngl/runchr.com) | runchr | 0.1.0 | A curated registry of agent stacks: search by job, get the tools, prompt, and i… |
-| 2026-11-06 06:40:28 | ai.yourmelody/song-gifts | YourMelody | 1.0.0 | Prepare a personalized song brief, find real sample tracks, and finish your gif… |
-| 2026-11-06 06:41:01 | cn.com.bioinformatics/weishengxin | Weishengxin — 微生信 | 1.0.0 | Scientific plotting for bioinformatics with about 160 free modules. Anonymous a… |
-| 2026-11-06 06:44:42 | ai.imagera/imagera | Imagera | 1.0.0 | Generate and edit images, video, voice and music, and upscale media on Imagera… |
-| 2026-11-06 06:47:43 | [com.revclamp/b2b-domain-contact-enricher-mcp](https://github.com/lhphong09t2/revclamp-mcp) | RevClamp ContactPulse - B2B Domain Cont… | 1.0.0 | B2B domain contact, RFC 9116 security.txt, and DNS MX/SPF/DMARC deliverability… |
-| 2026-11-06 06:49:00 | org.btcintel/btc-intel | BTC Intel | 1.0.0 | Bitcoin market-state Score (0-100): free delayed reads; live Score $0.25 per ca… |
-| 2026-11-06 06:58:24 | com.timetrakkr/time-trakkr | Time Trakkr | 1.0.0 | Time tracking, budgets, profitability and invoicing for agencies, plus AI agent… |
-| 2026-11-06 07:00:28 | com.rwaleads/rwa-leads | RWA Leads | 2.3.0 | Scored real-world-asset and tokenization signals, Swiss-first, with source-cite… |
-| 2026-11-06 07:02:23 | [io.github.chutingyean/agent-cockpit](https://github.com/chutingyean/Agent-Cockpit) | Agent Cockpit | 0.1.0 | Evidence-chain whiteboard for AI research agents: every claim traces back to it… |
-| 2026-11-06 07:03:24 | [io.github.johntony1/site-prompt](https://github.com/johntony1/site-prompt) |  | 0.2.1 | Point at any part of a website and get a prompt that rebuilds it 1:1, or see ho… |
-| 2026-11-06 07:07:10 | ai.ohmyfin/invoice |  | 1.0.0 | Cross-border invoices for AI agents: parties screened, VAT ID checked, EN 16931… |
-| 2026-11-06 07:07:11 | ai.ohmyfin/sanctions |  | 1.0.0 | Sanctions and export-control screening for AI agents: 320+ watchlists, translit… |
-| 2026-11-06 07:16:47 | cloud.doner/hypnotic-patterns | Learn Python with Hypnotic Patterns | 1.0.0 | Learn Python by building glowing math patterns: lessons, scripts, quiz checks a… |
-| 2026-11-06 07:19:08 | app.awayfolk/awayfolk | Awayfolk | 0.5.0 | Plan trips together. |
-| 2026-11-06 07:20:37 | [io.github.Blahaj-gif/hitl-finance-mcp](https://github.com/Blahaj-gif/Finance-mcp) | Finance MCP | 0.5.0 | Market data, SEC filings and risk tools for Webull, Saxo and IBKR. Only you can… |
+| 2026-11-06 07:21:49 | io.github.polydev-ai/polydev |  | 1.11.0 | Any model in any agent: ask several AI models the same question and compare the… |
+| 2026-11-06 07:27:52 | [io.github.eddyParkGG/bamsai](https://github.com/eddyParkGG/bamsaikr) | Bamsai | 1.0.0 | Korean blue chips priced 24/7 from Hyperliquid perps in KRW: pre-open price and… |
+| 2026-11-06 07:34:35 | [io.github.rudderlabs/rudderstack-mcp](https://github.com/rudderlabs/rudderstack-mcp) | RudderStack | 0.43.1 | Inspect RudderStack workspaces, pipelines, and schemas, and manage transformati… |
+| 2026-11-06 07:35:37 | studio.theleos/studio | The Leos studio | 1.0.0 | Talk to The Leos, a film, photo and design studio in Milan and New York: work,… |
+| 2026-11-06 07:41:57 | ai.fortare/fortnox | Fortare for Fortnox | 1.0.1 | Connect ChatGPT and Claude to Fortnox: invoices, customers, reports. Every writ… |
+| 2026-11-06 07:43:39 | [io.github.knorby/pyxsd](https://github.com/knorby/pyxsd) | pyxsd | 1.3.0 | Explore XML schemas, validate XML documents, and transform typed document trees. |
+| 2026-11-06 07:45:30 | com.3dvalley/mcp | 3D Valley | 1.0.0 | Free CC0 3D models, PBR textures and HDRIs searched by meaning and size; 3D gen… |
+| 2026-11-06 07:52:48 | io.github.relote-com/context-engine | Context Engine | 1.0.0 | One memory for your AI agents and your team: Claude, ChatGPT, Cursor and your a… |
+| 2026-11-06 07:53:50 | [dev.cobuilt/cobuilt](https://github.com/cobuilt-dev/agent-plugins) | cobuilt | 1.2.0 | Publish honest build receipts to cobuilt.dev: your agent drafts, you approve ev… |
+| 2026-11-06 07:54:23 | com.tailorgame/public-tools | Tailorgame public tools | 1.0.0 | Find public games, practice rankings, and Tailorgame documentation. Read-only;… |
+| 2026-11-06 07:55:10 | [io.github.Servosity/comet-backup-mcp](https://github.com/servosity/msp-skills) | Comet Backup MCP | 0.1.0 | Fleet-wide backup health, failure triage and usage reports for every tenant on… |
+| 2026-11-06 07:56:48 | com.theunfactory/unfactory | Unfactory | 0.6.7 | Personal AI manufacturing. Make your three wishes; Unfactory makes them and bri… |
+| 2026-11-06 07:59:31 | com.agentzukan/japan-medical-facilities | 全国医療機関マップ（薬局・医科・歯科） | 0.2.0 | 全国の薬局・医科・歯科（224,540件）を検索できるMCPサーバー。地点と半径による商圏集計（施設数・診療科別・人口）にも対応。 |
+| 2026-11-06 07:59:39 | uk.co.section13online/section13-online | Section13Online | 0.1.0 | Section 13 notice dates and eligibility for England. Read-only guidance, not le… |
+| 2026-11-06 08:04:45 | io.github.dang13021993/tokyocharterbus | Tokyo Charter Bus | 1.0.0 | Discover Tokyo charter coaches, routes and reference fares. Quotations need use… |
+| 2026-11-06 08:07:05 | io.github.dang13021993/simvoro | SimVoro — eSIM and SMS Public Catalog | 1.0.0 | Browse travel eSIM plans, device support and public SMS prices. Read-only; no O… |
+| 2026-11-06 08:08:24 | io.github.dang13021993/olahome | OlaHome Japan Property | 1.0.0 | Search published Japan property listings and service information. No live vacan… |
+| 2026-11-06 08:10:23 | io.sslip.2-29-135-242/radar-media-ai-mcp | Media & Document AI Tools MCP | 1.2.1 | Files to text for AI agents: audio/podcast transcription, OCR, video frames, sc… |
+| 2026-11-06 08:10:24 | io.sslip.2-29-135-242/radar-website-intel-mcp | Website & Company Intel MCP | 1.2.1 | Website and company intel for AI agents: WHOIS/DNS/TLS, tech stack, PageSpeed,… |
+| 2026-11-06 08:11:21 | com.backlnk/backlnk | Backlnk | 1.0.0 | Free technical SEO and AI-visibility checks for agents: check a page, fix it, v… |
+| 2026-11-06 08:11:54 | io.github.dang13021993/olachillvietnam | OlaChill Vietnam — Travel and Private T… | 1.0.0 | Vietnam coach and private-car catalog plus quote instructions. Read-only; no bo… |
+| 2026-11-06 08:12:39 | [io.github.Xyz3R/svgapp](https://github.com/xz3dev/svgapp.ai) | SVGApp | 1.1.0 | Create consistent mascot assets and animations for products through AI agents. |
+| 2026-11-06 08:13:42 | co.knobs/sienna | Sienna, Knobs.co hardware advisor | 1.0.0 | Knobs.co cabinet-hardware advisor: pull sizes, fits for existing holes, finishe… |
+| 2026-11-06 08:19:50 | com.orafabric/medical-ontology | OraFabric Medical Ontology Knowledge Ba… | 1.0.0 | Expert-structured medical ontologies, relationships, and evidence for AI resear… |
 
 ## Data source
 
