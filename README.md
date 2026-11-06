@@ -9,50 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 13:19 UTC
+## Latest list — 2026-11-06 14:20 UTC
 
-New MCP servers published between 2026-11-06 12:18 UTC and 2026-11-06 13:19 UTC.
+New MCP servers published between 2026-11-06 13:19 UTC and 2026-11-06 14:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-06T13-19-27-352127Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-06T14-20-12-335313Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-06 12:19:54 | id.dhananjaya/villas | Dhananjaya Villas Bali | 1.0.0 | Live availability, prices and booking links for 40+ private villas and resorts… |
-| 2026-11-06 12:21:51 | com.realai/mcp | RealAI | 1.0.0 | US real estate data: multifamily rents and occupancy, property records, demogra… |
-| 2026-11-06 12:23:35 | com.pretty-qr/pretty-qr | Pretty QR | 1.0.0 | Create branded QR codes from AI assistants: templates, styled PNG/SVG, and edit… |
-| 2026-11-06 12:27:13 | ai.boltclaw/boltclaw | Bolt Claw | 1.0.0 | Schedule posts, answer comments and DMs, auto-DM commenters, run link-in-bio pa… |
-| 2026-11-06 12:28:48 | com.mekktup/letters | mekktup — online mektup yazma ve gönder… | 1.0.0 | Türkiye'de online mektup yaz; basıp PTT ile cezaevi, asker, kurum ve adrese gön… |
-| 2026-11-06 12:29:59 | dev.pages.video-frames-to-images/video-frame-extractor | Video Frame Extractor (Apify actor) | 0.1.3 | Apify actor via Apify's MCP server (Apify token needed): frames from video file… |
-| 2026-11-06 12:30:55 | com.superbridger/free-tools | Superbridger free tools | 1.0.0 | Check captions and videos against each social platform's limits; specs, image s… |
-| 2026-11-06 12:32:32 | com.mide360/mide | MIDE 360 - formación en analítica digit… | 1.0.0 | Vídeos gratuitos de MIDE 360 sobre analítica y marketing digital en español |
-| 2026-11-06 12:38:07 | [com.huntapi/mcp](https://github.com/huntapi/huntapi-mcp) | HuntAPI | 0.1.0 | Download video and audio from public media URLs, or extract their metadata, wit… |
-| 2026-11-06 12:38:13 | [com.piloterr/mcp](https://github.com/piloterr/piloterr-mcp) | Piloterr | 0.1.0 | Scrape 300+ websites (Amazon, LinkedIn, Google, Zillow, Crunchbase…) as structu… |
-| 2026-11-06 12:38:15 | [dev.autom/mcp](https://github.com/automdev/autom-mcp) | Autom | 0.1.0 | Google, Bing and Brave search results as structured JSON — web, maps, news, sho… |
-| 2026-11-06 12:38:18 | [dev.capturekit/mcp](https://github.com/capturekitdev/capturekit-mcp) | CaptureKit | 0.1.0 | Capture websites as PNG, JPEG, WebP or PDF, extract their content, or analyse t… |
-| 2026-11-06 12:38:19 | [io.veille/mcp](https://github.com/veilleio/veille-mcp) | Veille | 0.1.0 | Validate emails, domains, IPs, VAT numbers and IBANs in milliseconds to block f… |
-| 2026-11-06 12:38:21 | [com.chartquery/mcp](https://github.com/chartquery/chartquery-mcp) | ChartQuery | 0.1.0 | Generate chart images, diagrams, barcodes, QR codes and thermal labels on deman… |
-| 2026-11-06 12:38:23 | [com.browsersolver/mcp](https://github.com/browsersolver/browsersolver-mcp) | BrowserSolver | 0.1.0 | Unlock, render, crawl and screenshot any website — anti-bot bypass and technolo… |
-| 2026-11-06 12:38:25 | [dev.asin/mcp](https://github.com/asindotdev/asin-mcp) | Asin | 0.1.0 | Track Amazon prices and products with a scheduled watchlist, price history, off… |
-| 2026-11-06 12:41:23 | ai.flavo/flavo | Flavo | 1.0.0 | Flavo designs your site the way a dedicated designer would: several finished de… |
-| 2026-11-06 12:42:32 | [com.microsoft/powerbi-modeling-mcp](https://github.com/microsoft/powerbi-modeling-mcp.git) | Power BI Authoring MCP Server (Local) | 1.0.1 | The Power BI Authoring MCP server lets an AI agent create and change Power BI s… |
-| 2026-11-06 12:48:00 | tr.com.geoproje/mcp | Geoproje | 0.8.8 | Geotechnical and earthquake engineering tools: soil studies, SelectEQ, GMPS, Ge… |
-| 2026-11-06 12:53:04 | za.co.getaccounted/sa-tax | GetAccountED — South African Tax Tools | 1.0.0 | South African PAYE/UIF, VAT, VAT treatment, SARS due dates and ID/tax/VAT numbe… |
-| 2026-11-06 12:55:28 | [io.github.ABCastor/borgo](https://github.com/ABCastor/borgo) | Borgo | 0.1.0 | Compare cities to live in on open, sourced data: take-home pay, rent, visas, cl… |
-| 2026-11-06 12:56:36 | [io.agentlater/agentlater](https://github.com/thachp/agentlater) | AgentLater | 1.0.0 | Agents make HTTP requests later, then get results, webhooks and wake-ups in a l… |
-| 2026-11-06 12:58:40 | live.cazimi/retrogrades | Cazimi: retrograde planets | 1.1.0 | Retrograde stations, shadows and cazimi for Mercury to Pluto, to the minute UTC… |
-| 2026-11-06 12:58:46 | [dev.wirecat/bitrix24-cli](https://github.com/WireCatLabs/bitrix24-cli) | WireCat b24 | 0.2.0 | A Bitrix24 portal's CRM for agents over MCP. Sign in with the b24 CLI first. |
-| 2026-11-06 12:59:46 | [io.github.jeremdecustovox/custovox-churn-signal](https://github.com/jeremdecustovox/custovox-ai) |  | 1.0.0 | custovox.ai churn risk detection MCP server: 0-100 score from customer message… |
-| 2026-11-06 13:02:33 | [au.com.brandrail/brandrail](https://github.com/brandrail-app/brandrail) | Brandrail | 0.10.1 | Design system guardrails for AI coding tools: tokens, components and a brand ch… |
-| 2026-11-06 13:02:56 | com.tryhea/hea | Hea | 0.39.0 | UK health companion: NICE/NHS check-up plans, lab results with GP questions, sy… |
-| 2026-11-06 13:06:32 | [ai.keenable/web-search](https://github.com/keenableai/keenable-mcp) | Keenable Web Search | 0.2.1 | Live web search and clean-markdown page fetch over the Keenable web index. |
-| 2026-11-06 13:11:27 | [io.github.mohammad-abbasi-sh/obilet-mcp](https://github.com/mohammad-abbasi-sh/obilet-mcp) | obilet.com Bus & Flight Tickets | 0.1.0 | Unofficial read-only MCP server for obilet.com bus & flight tickets: journeys,… |
-| 2026-11-06 13:11:42 | [io.github.mohammad-abbasi-sh/ciceksepeti-mcp](https://github.com/mohammad-abbasi-sh/ciceksepeti-mcp) | ciceksepeti.com Flowers & Gifts | 0.1.0 | Unofficial read-only MCP server for ciceksepeti.com flowers & gifts: search, pr… |
-| 2026-11-06 13:15:42 | [io.github.WYRE-AI/acronis-mcp](https://github.com/WYRE-AI/acronis-mcp) | Acronis Cyber Protect Cloud | 1.0.1 | Acronis Cyber Protect Cloud MCP: alerts, policies, resources, agents, tenants a… |
-| 2026-11-06 13:16:45 | [io.github.forcedreamai/mcp-server](https://github.com/forcedreamai/forcedream-mcp) |  | 0.12.3 | Discover, invoke, and verify ForceDream agents with cryptographic proofs. 14 lo… |
-| 2026-11-06 13:17:16 | app.officely/officely | Officely | 1.0.0 | Book desks and rooms, manage people and teams, and organise workplaces in Offic… |
-| 2026-11-06 13:17:56 | me.coffeecapsules/coffee-shopping | Coffee Capsules | 1.0.0 | Coffee capsules, machines, beans and ground coffee in Egypt. |
-| 2026-11-06 13:17:57 | com.thecoffeehug/coffee-shopping | The Coffee Hug | 1.0.0 | Wholesale coffee in Egypt with product-specific minimum quantities. |
-| 2026-11-06 13:17:59 | net.instashot/coffee-shopping | Instashot | 1.0.0 | Coffee beans, ground coffee and Dolce Gusto products in Egypt. |
+| 2026-11-06 13:19:59 | works.aifa/aifa-memory | AIfa Memory | 1.7.0 | Persistent memory for AI agents, one account across four sites, plus a partner… |
+| 2026-11-06 13:20:02 | io.github.akhilrajesh213/pinterest-trends-scraper | Pinterest Trends Scraper & API | 0.1.6 | Pinterest Trends for AI agents, no login: keyword research, forecast, audience,… |
+| 2026-11-06 13:20:18 | [com.mambabuilt/mcp-server-change-health-monitor](https://github.com/mambalabsdev/mcp-server-change-health-monitor) |  | 1.0.0 | Checks MCP servers for uptime and tool changes since the last run, breaking cha… |
+| 2026-11-06 13:20:35 | dev.socialscrape/socialscrape |  | 0.1.0 | Social media data for agents: profiles, posts, comments, search, ads, transcrip… |
+| 2026-11-06 13:21:12 | [io.github.Sanoy24/repoward](https://github.com/Sanoy24/repoward) | repoward | 0.1.0 | GitHub MCP server that blocks private-to-public leaks by agents, with approvals… |
+| 2026-11-06 13:23:32 | [com.mambabuilt/mcp-us-import-records-buyer-finder](https://github.com/mambalabsdev/mcp-us-import-records-buyer-finder) |  | 1.0.0 | US importers and suppliers from customs bill of lading records, by company name |
+| 2026-11-06 13:25:05 | [com.mambabuilt/mcp-site-crawler-links-tables](https://github.com/mambalabsdev/mcp-site-crawler-links-tables) |  | 1.0.0 | Crawl a website for links, file download links, HTML tables as rows, and lists,… |
+| 2026-11-06 13:28:44 | [com.mambabuilt/mcp-amazon-product-price-stock-tracker](https://github.com/mambalabsdev/mcp-amazon-product-price-stock-tracker) |  | 1.0.0 | Amazon price, stock, seller, and rating by ASIN or URL, with change rows betwee… |
+| 2026-11-06 13:31:36 | com.unantrading/unan-trading | Unan Trading | 1.1.0 | Wholesale Brazilian beef and food prices for Maldives resorts, FullSet savings,… |
+| 2026-11-06 13:33:52 | [com.mambabuilt/mcp-google-trends-scraper](https://github.com/mambalabsdev/mcp-google-trends-scraper) |  | 1.0.0 | Google Trends interest, regions, and related queries per term, with no Google l… |
+| 2026-11-06 13:40:17 | [io.github.GuardBee/security-engineer](https://github.com/GuardBee/guardbee-mcp) |  | 0.1.0 | Fix GuardBee AI Security Engineer findings in your repo with your coding agent,… |
+| 2026-11-06 13:41:59 | [io.github.freema/pixelforge-mcp](https://github.com/freema/pixelforge-mcp) | PixelForge | 0.3.0 | Forge pixel art sprites, animations, tilesets and game assets with Google Gemin… |
+| 2026-11-06 13:48:40 | com.repsworkout/reps | Reps: Gym Workout Log | 1.0.1 | Gym workout log for iPhone and Android: ask Claude or ChatGPT about your lifts,… |
+| 2026-11-06 13:51:35 | id.walt/docs | walt.id Docs | 0.1.0 | Search and read official walt.id documentation for the Community Stack and the… |
+| 2026-11-06 13:56:16 | [io.github.sigship/sigship](https://github.com/sigship/sigship) |  | 0.1.1 | Go/no-go check for AI-built apps. Finds production problems locally and returns… |
+| 2026-11-06 13:56:56 | [io.github.freema/mcp-design-system-extractor](https://github.com/freema/mcp-design-system-extractor) |  | 1.3.0 | MCP server for Storybook design systems — extract component HTML, styles and me… |
+| 2026-11-06 14:01:26 | [org.wardenprotocol/token-terminal](https://github.com/warden-protocol/warden-mcp) | Warden Token Terminal | 1.1.0 | Find tokens, price swaps and trade onchain on Base, BNB Chain, Robinhood Chain… |
+| 2026-11-06 14:04:28 | app.bryti/bryti | Bryti | 1.0.0 | Plan dinners with Bryti from your own assistant: the week, shopping list, pantr… |
+| 2026-11-06 14:06:54 | [io.github.bekirdag/docdex](https://github.com/bekirdag/docdex) |  | 0.2.101 | Fast per-repo documentation indexer and full-text search MCP server for codebas… |
+| 2026-11-06 14:08:52 | com.llmfiles/mcp | LlmFiles | 1.0.0 | Convert PDF, DOCX, XLSX and 25 other formats to clean Markdown for LLMs and RAG… |
+| 2026-11-06 14:09:38 | com.postmately/postmately | Postmately | 1.0.0 | Make carousels and short videos, schedule and publish social posts, read post m… |
+| 2026-11-06 14:10:02 | app.xcout/intel | Xcout Intel | 1.0.0 | Company intelligence: 450k companies, funding rounds, investors, people, jobs a… |
+| 2026-11-06 14:11:58 | [io.github.mickey-ichi/backlog-bridge](https://github.com/mickey-ichi/backlog-bridge) | Backlog Bridge | 0.1.5 | Read and write many Backlog (Nulab) spaces at once: issues, comments, search, s… |
+| 2026-11-06 14:12:00 | [io.github.mickey-ichi/graph-excel-mcp](https://github.com/mickey-ichi/graph-excel-mcp) | Graph Excel | 0.5.1 | Read and edit Excel workbooks on SharePoint/OneDrive via Microsoft Graph, with… |
+| 2026-11-06 14:15:06 | io.github.xtazz/mealsnap | MealSnap | 1.0.0 | Ask about your MealSnap food diary in your own words. |
 
 ## Data source
 
