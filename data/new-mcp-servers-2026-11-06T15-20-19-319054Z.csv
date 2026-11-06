@@ -1,0 +1,32 @@
+created_at,server,title,version,repository,transports,description
+2026-11-06T14:21:52.259482Z,com.manhourplan/verifai,VerifAI,1.0.0,,streamable-http,"Email verification and domain intelligence for AI agents, including single and bulk email checks."
+2026-11-06T14:21:52.688601Z,com.manhourplan/rugshield,RugShield,1.0.0,,streamable-http,"Solana token risk scans for AI agents, with batch scanning and trending-token discovery."
+2026-11-06T14:21:53.098841Z,com.manhourplan/sitedoctor,SiteDoctor,1.0.0,,streamable-http,"Website health, SEO, security-header, SSL and broken-link audits for AI agents."
+2026-11-06T14:25:01.467616Z,com.pacpio/mcp,Pacpio,1.0.0,,streamable-http,"A workspace for your AI: keep files and tables in projects, with version history and sharing."
+2026-11-06T14:25:18.272697Z,io.github.nukeguys/toss-invest,Toss Invest,0.4.2,https://github.com/nukeguys/toss-invest-sdk,,"Access Toss Securities market, account, and opt-in trading APIs through MCP."
+2026-11-06T14:27:48.393799Z,com.hotyata/mcp,Hotyata,1.0.0,,streamable-http,Real estate and classifieds in Batumi & Tbilisi with rooftop geocoding and duplicate detection.
+2026-11-06T14:29:00.240232Z,eg.com.ngdc.mcp/sales,,0.1.0,,streamable-http,NGDC service catalog and non-binding monthly content fee estimates.
+2026-11-06T14:30:34.675032Z,dev.tesseralytics/hyperliquid-data,Hyperliquid Cross-Sectional Analytics (Tessera),0.2.0,,streamable-http,"Rank, screen and compare the Hyperliquid perp universe on a completed day."
+2026-11-06T14:32:20.298129Z,io.github.LeonTing1010/tap,Tap,0.30.1,https://github.com/LeonTing1010/tap,streamable-http,Browser MCP for logged-in tasks. Uses your Chrome — credentials stay local. Zero-token replay.
+2026-11-06T14:35:11.539813Z,com.skilltage/skilltage,Skilltage,1.0.0,,streamable-http,"Recruitment workspace: openings, CV evidence, candidate review and recruiter-sent emails."
+2026-11-06T14:35:58.64909Z,io.nablaz/reader,,0.1.0,https://github.com/cyninzf/nablaz-sdk,streamable-http,"Read NablaZ's open record: agent actions under permission, cited onchain. Evidence, not a verdict."
+2026-11-06T14:36:58.654896Z,com.clawhard/tick,Tick,1.0.0,,streamable-http,"Next cron run times in any IANA timezone, with DST gap and fold warnings."
+2026-11-06T14:38:28.192457Z,io.github.YashLimbani/stackexchange-mcp,,0.1.0,https://github.com/YashLimbani/stackexchange-mcp,,An MCP server that provides [describe what your server does]
+2026-11-06T14:40:37.760114Z,ai.rindee/rindee,Rindee,1.0.0,,streamable-http,"AI phone agents for service businesses: calls, appointments, contacts, agents and Knowledge."
+2026-11-06T14:44:37.723986Z,net.hyperframes/hyperframes,HyperFrames,1.0.0,,streamable-http,Generate images and video from Claude with one API key.
+2026-11-06T14:45:30.895538Z,io.github.Goatleaf12/jolt,,1.0.0,https://github.com/Goatleaf12/jolt,,"Read JOLT season state, solve CORE RUSH boards, build unsigned claim calldata. Never signs."
+2026-11-06T14:47:26.94227Z,io.github.Servosity/windows-server-mcp,Windows Server MCP,0.1.0,https://github.com/servosity/msp-skills,,"Agentless Windows Server health checks over WinRM: one verdict per server, a diffable inventory"
+2026-11-06T14:49:06.945097Z,com.carbonmeld/carbonmeld,CarbonMeld,1.0.0,,streamable-http,"Read-only carbon credit project ratings, registry facts, offer checks and buyer retirements."
+2026-11-06T14:52:11.313142Z,io.github.GuruPDF/gurupdf-mcp,GuruPDF,0.1.5,https://github.com/GuruPDF/gurupdf-mcp,,"Convert, compress & merge PDFs and 100+ file formats from any AI agent. By GuruPDF."
+2026-11-06T14:54:06.699081Z,com.pastcharts/charts,PastCharts,1.0.0,,streamable-http,Free daily history of App Store and Google Play top charts and Google Trends searches.
+2026-11-06T14:55:54.799768Z,io.github.AndresMuelas2004/cokarta,CoKarTa,1.0.0,,streamable-http,Log meals and read your nutrition diary from Claude or ChatGPT.
+2026-11-06T14:56:14.713339Z,com.kafdesk/kafdesk-mcp,KafDesk,0.2.8,,,"Apache Kafka for AI agents: topics, records, consumer lag and schemas. Read-only by default."
+2026-11-06T15:00:17.517989Z,com.boatwakr/boatwakr,BoatWakr,1.9.0,,streamable-http,"Search, quote and book boat rentals and captained charters on BoatWakr."
+2026-11-06T15:00:31.098218Z,ai.fotogenic/mcp,Fotogenic AI,0.1.0,,streamable-http,"Create product photos, on-model images, ad visuals and short videos from one product photo."
+2026-11-06T15:04:05.350464Z,com.feedsquad/feedsquad,FeedSquad,1.5.2,,streamable-http,"Schedule and publish to LinkedIn, X, and Threads from your AI. Content calendar, approval-first."
+2026-11-06T15:07:25.066401Z,io.github.romero927/kgromero-mcp,Kyle Romero (kgromero.com),0.1.0,https://github.com/romero927/kgromero-mcp,streamable-http,"Ask about Kyle Romero's experience, skills, projects, and portfolio from kgromero.com."
+2026-11-06T15:07:35.566508Z,cz.mdflow/mcp,MDflow,1.0.2,,streamable-http,"Markdown workspace for AI agents: read, write, organize, and share markdown documents."
+2026-11-06T15:07:41.637784Z,com.digitalocean/mcp,DigitalOcean,0.1.0,,streamable-http,"Build, deploy, manage, and troubleshoot applications and infrastructure on DigitalOcean."
+2026-11-06T15:08:42.171406Z,io.github.Nomannazir/codebase-brain-mcp,Codebase Brain,0.1.0,https://github.com/Nomannazir/codebase-brain-mcp,,"Cited, searchable memory of a codebase: hybrid search, git history, impact analysis, doc drift."
+2026-11-06T15:19:11.188245Z,com.163yu/hetianyu,御府和田玉 在售作品查询,2.0.0,,streamable-http,"Live in-stock Hetian jade carvings from Yufu, Shanghai: prices, awards with sources."
+2026-11-06T15:19:56.012066Z,com.marathonscout/races,Marathon Scout,1.0.0,,streamable-http,"Marathons, halves and ultras worldwide: dates, entry status, official results and tracking links."
