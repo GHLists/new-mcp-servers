@@ -1,0 +1,14 @@
+created_at,server,title,version,repository,transports,description
+2026-11-06T01:23:48.038495Z,net.fixmyprompt/fmp,FixMyPrompt,2.0.0,https://github.com/GDM-Digital-Media-Group/fmp-plugins,streamable-http,"Project memories your agent reuses, prompt checks and fixes, and a CLAUDE.md / AGENTS.md doctor."
+2026-11-06T01:26:25.807002Z,io.github.eoylab/keihyo-cases,景品表示法 措置命令・課徴金納付命令,0.1.3,https://github.com/eoylab/keihyo-cases,,Japan's 景表法 enforcement orders (措置命令・課徴金) with cited provisions and source URLs. No verdicts.
+2026-11-06T01:26:53.416671Z,fr.sesapp/fiches,SesApp Access Sheets,1.1.0,,streamable-http,Housing access sheets via guest links. REST+MCP+x402 on Base.
+2026-11-06T01:28:44.268501Z,app.altplan/alt,ALT (AI Life Tracker),0.1.0,,streamable-http,"Read tasks, projects and time blocks from your AI Life Tracker beta account."
+2026-11-06T01:28:48.053448Z,com.fanduelapi/server,FanDuel API,1.0.0,,streamable-http,"FanDuel Sportsbook player props, lines and prices as JSON, with every line and price move."
+2026-11-06T01:32:45.635019Z,io.github.niksa90/toolmenu,toolmenu,0.25.1,https://github.com/niksa90/toolmenu,,"Checks MCP tool lists: what agents misread, what breaks clients or caches, breaking changes"
+2026-11-06T01:38:07.498965Z,com.tathaastuapi/mcp,TathaAstu Panchang,0.1.1,,,"Hindu calendar: panchang, festival dates with the rule behind them, and muhurat for any place."
+2026-11-06T01:44:49.587999Z,fr.mtg-trade/scan,MTG Trade Scan,1.0.0,,streamable-http,Scan MTG binder photos. 3 free pages/day then €0.01/page.
+2026-11-06T01:53:35.352534Z,com.uipolish/mcp,UI Polish,1.0.0,,streamable-http,React components and design rules your coding agent installs and follows.
+2026-11-06T01:54:41.734548Z,ai.deutero/deutero,Deutero,1.10.0,,streamable-http,"AI-moderated research interviews: design, run and analyze interview studies with real participants"
+2026-11-06T02:00:49.78412Z,com.algotradertools/mcp,Algo Trader Tools,1.0.0,,streamable-http,"Manage MetaTrader 4 and 5 trade copying: accounts, copiers, followers and their copy rules."
+2026-11-06T02:05:50.51666Z,com.stargogrowth/mcp,Stargo Growth 星启出海,1.0.0,,streamable-http,"Search stargogrowth.com, run a read-only website AI-readiness check, or request a consultation."
+2026-11-06T02:07:58.463545Z,io.github.kenjimax/cabana-pool-service,Cabana Pool Service,1.0.0,,streamable-http,"Check Cabana pool-service coverage, list services, and estimate pricing by ZIP code."

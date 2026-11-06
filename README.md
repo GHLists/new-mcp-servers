@@ -9,34 +9,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 01:20 UTC
+## Latest list — 2026-11-06 02:21 UTC
 
-New MCP servers published between 2026-11-06 00:20 UTC and 2026-11-06 01:20 UTC.
+New MCP servers published between 2026-11-06 01:20 UTC and 2026-11-06 02:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-06T01-20-20-255376Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-06T02-21-15-496252Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-06 00:26:46 | com.mentorshipboss/mentorship-boss | Mentorship Boss | 1.0.0 | Run an Instagram funnel from chat: comment-to-DM, email and text follow-ups, po… |
-| 2026-11-06 00:27:01 | io.github.Curbi-Inc/curbi | Curbi | 0.1.0 | Check agent replies, lint policies, export regression tests and verify caller-t… |
-| 2026-11-06 00:29:33 | com.tensorust/ontology | Tensorust Ontology | 0.1.0 | Who owns and controls US companies, homes and aircraft, and which federal rules… |
-| 2026-11-06 00:32:05 | com.transkrio/transkrio | Transkrio | 0.1.0 | YouTube transcripts and video metadata for AI assistants. Text, timestamps, SRT… |
-| 2026-11-06 00:32:44 | io.github.Helios-One-Oy/quotedpart | QuotedPart | 0.1.0 | Price CNC and sheet metal parts from STEP models or PDF drawings at your job sh… |
-| 2026-11-06 00:33:55 | com.ringkit/ringkit | Ringkit | 0.0.1 | Cheapest AI virtual assistant for your business line: $1.99/mo per number, then… |
-| 2026-11-06 00:38:42 | [io.github.noidium/parano1d-mcp](https://github.com/noidium/parano1d-mcp) | Parano1d node | 0.1.4 | Local Parano1d node over MCP. Read-only by default; sending needs the opt-in, c… |
-| 2026-11-06 00:46:45 | io.github.leo2026888/cxhauto-car-prices | CXH AUTO 车小花 · 中国新车与二手车行情 | 0.9.52 | China new and used car quotes: dealer/retail references, observed trends and ve… |
-| 2026-11-06 00:53:37 | com.mail-cuck/connector | MailCuck | 1.1.0 | Connect any IMAP/SMTP mailbox to Claude & ChatGPT: search, read, sort, draft. S… |
-| 2026-11-06 00:55:39 | [io.github.Servosity/zoom-phone-mcp](https://github.com/servosity/msp-skills) | Zoom Phone MCP | 0.1.0 | Zoom Phone admin API plus E911, call routing and desk phone audits across clien… |
-| 2026-11-06 00:59:41 | [com.itsparley/parley](https://github.com/Verbiflow/parley) | Parley | 1.0.0 | WhatsApp for your AI agent, sent from your own number. Source-available (Elasti… |
-| 2026-11-06 01:08:20 | [io.github.Automattic/simplenote-mcp](https://github.com/Automattic/simplenote-mcp) |  | 2.1.0 | MCP server for reading Simplenote notes across macOS, Linux, and Windows |
-| 2026-11-06 01:08:28 | co.gaisho/gaisho | gaisho | 2026.11.6 | Product search, price checks and seller vetting across US online retail, for pe… |
-| 2026-11-06 01:10:01 | [io.github.Keeno-Corp/paprika3d](https://github.com/Keeno-Corp/paprika3d) | paprika3d (three.js games and 3D pages… | 0.4.2 | Three.js MCP server: build three.js games and 3D pages end to end, from referen… |
-| 2026-11-06 01:11:20 | [io.github.dawnwood-ai/demusic](https://github.com/dawnwood-ai/demusic) | demusic | 0.1.0 | Remove background music AI video models bake into clips; keep dialogue and SFX. |
-| 2026-11-06 01:13:38 | [io.github.stablevoy/stablevoy-mcp](https://github.com/stablevoy/stablevoy-mcp) |  | 0.1.0 | USDT and USDC invoices and payment checks across your Stablevoy stores. Keys ca… |
-| 2026-11-06 01:14:53 | io.github.gazebohq/gazebo | Gazebo | 1.0.0 | Scoped credential retrieval for AI agents, with audit events and revocable futu… |
-| 2026-11-06 01:15:39 | [io.github.Isagoge-Labs/leanwarp](https://github.com/Isagoge-Labs/LeanWarp-SDK) | LeanWarp | 0.2.5 | Check and verify Lean 4 proofs on hosted, warm Lean and Mathlib workers. |
-| 2026-11-06 01:17:15 | io.github.eabnelson/pronto | Pronto | 0.6.0 | Use your Pronto feed, Spaces, Posts, Artifacts, and agents from any MCP client. |
-| 2026-11-06 01:17:36 | [io.github.daniel-munoz/claude-checkpoint-mcp](https://github.com/daniel-munoz/claude-checkpoint-mcp) |  | 0.3.1 | MCP server that checkpoints Claude Code session context to survive crashes and… |
+| 2026-11-06 01:23:48 | [net.fixmyprompt/fmp](https://github.com/GDM-Digital-Media-Group/fmp-plugins) | FixMyPrompt | 2.0.0 | Project memories your agent reuses, prompt checks and fixes, and a CLAUDE.md /… |
+| 2026-11-06 01:26:25 | [io.github.eoylab/keihyo-cases](https://github.com/eoylab/keihyo-cases) | 景品表示法 措置命令・課徴金納付命令 | 0.1.3 | Japan's 景表法 enforcement orders (措置命令・課徴金) with cited provisions and source URLs… |
+| 2026-11-06 01:26:53 | fr.sesapp/fiches | SesApp Access Sheets | 1.1.0 | Housing access sheets via guest links. REST+MCP+x402 on Base. |
+| 2026-11-06 01:28:44 | app.altplan/alt | ALT (AI Life Tracker) | 0.1.0 | Read tasks, projects and time blocks from your AI Life Tracker beta account. |
+| 2026-11-06 01:28:48 | com.fanduelapi/server | FanDuel API | 1.0.0 | FanDuel Sportsbook player props, lines and prices as JSON, with every line and… |
+| 2026-11-06 01:32:45 | [io.github.niksa90/toolmenu](https://github.com/niksa90/toolmenu) | toolmenu | 0.25.1 | Checks MCP tool lists: what agents misread, what breaks clients or caches, brea… |
+| 2026-11-06 01:38:07 | com.tathaastuapi/mcp | TathaAstu Panchang | 0.1.1 | Hindu calendar: panchang, festival dates with the rule behind them, and muhurat… |
+| 2026-11-06 01:44:49 | fr.mtg-trade/scan | MTG Trade Scan | 1.0.0 | Scan MTG binder photos. 3 free pages/day then €0.01/page. |
+| 2026-11-06 01:53:35 | com.uipolish/mcp | UI Polish | 1.0.0 | React components and design rules your coding agent installs and follows. |
+| 2026-11-06 01:54:41 | ai.deutero/deutero | Deutero | 1.10.0 | AI-moderated research interviews: design, run and analyze interview studies wit… |
+| 2026-11-06 02:00:49 | com.algotradertools/mcp | Algo Trader Tools | 1.0.0 | Manage MetaTrader 4 and 5 trade copying: accounts, copiers, followers and their… |
+| 2026-11-06 02:05:50 | com.stargogrowth/mcp | Stargo Growth 星启出海 | 1.0.0 | Search stargogrowth.com, run a read-only website AI-readiness check, or request… |
+| 2026-11-06 02:07:58 | io.github.kenjimax/cabana-pool-service | Cabana Pool Service | 1.0.0 | Check Cabana pool-service coverage, list services, and estimate pricing by ZIP… |
 
 ## Data source
 
