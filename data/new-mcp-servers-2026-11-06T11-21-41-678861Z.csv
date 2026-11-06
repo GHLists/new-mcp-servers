@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-11-06T10:26:48.492663Z,com.tuechristensen/a2a,Tue Christensen,0.0.7,,streamable-http,Learn about Tue Christensen's operations-research work or describe an OR problem to him.
+2026-11-06T10:29:06.897367Z,io.github.dang13021993/thachoabinhcamping,Thác Hòa Bình Camping,1.0.0,,streamable-http,"Explore Vietnam riverside camping, picnic packages and reference prices. Read-only; no booking."
+2026-11-06T10:39:40.342479Z,io.ziplined/ziplined,Ziplined,1.0.0,,streamable-http,"Find warm leads on LinkedIn: people who engage with your team, competitors and market."
+2026-11-06T10:42:15.326285Z,io.github.Bytestay/distill-mcp,,0.2.4,https://github.com/bytestay/distill-mcp,,"Web pages to clean Markdown for AI agents, honouring robots.txt and AI opt-outs."
+2026-11-06T10:42:17.534396Z,io.github.Bytestay/unfold-mcp,,0.2.4,https://github.com/bytestay/unfold-mcp,,"PDF, DOCX, PPTX and XLSX documents to Markdown for AI agents, from a URL or a local file."
+2026-11-06T10:42:19.433021Z,io.github.Bytestay/shipshape-mcp,,0.2.4,https://github.com/bytestay/shipshape-mcp,,"Dockerfile and Kubernetes lint for AI agents: Pod Security Standards, A–F grade, a fix per finding."
+2026-11-06T10:42:21.00608Z,io.github.Bytestay/specwise-mcp,,0.2.4,https://github.com/bytestay/specwise-mcp,,OpenAPI and JSON Schema validation and OpenAPI breaking-change diffs for AI agents.
+2026-11-06T10:45:13.888232Z,services.stationzero/station-zero,Station Zero,1.0.0,,streamable-http,"One MCP server for the services your AI needs: memory, files, Microsoft 365, kanban and more."
+2026-11-06T10:50:43.257353Z,io.github.gemral-edge/yinyang-masters,Yinyang Masters,1.0.0,https://github.com/gemral-edge/yinyang-masters-mcp,streamable-http,"Tarot, astrology, numerology, Tu Vi and Bazi tools plus guides on habits and manifestation."
+2026-11-06T10:51:25.067113Z,com.getinvestiq/research,InvestIQ,1.0.0,,streamable-http,"AI equity research: quant scores, fundamentals, valuation, risks and portfolio audits for any stock."
+2026-11-06T10:51:32.779835Z,app.readingjourney/reading-journey,Reading Journey,0.1.0,,streamable-http,"Your own book library and reading journal: TBR, statuses, ratings, collections, goals and journal."
+2026-11-06T10:52:28.634425Z,ai.ankra/docs,Ankra Docs,1.0.0,https://github.com/ankraio/cursor-plugin,streamable-http,"Search the Ankra documentation: clusters, stacks, GitOps, CI/CD and the CLI. No account needed."
+2026-11-06T10:54:35.770568Z,com.theopentv/opentv,OpenTV,2.3.0,,streamable-http,"Ask about your TV and film history in OpenTV, and mark, rate and list what you watch."
+2026-11-06T10:56:43.792173Z,ro.nutrimeniu/nutrition-calculator,Nutrimeniu Nutrition Calculator,1.0.0,,streamable-http,"Calories and nutrition tables (EU 1169/2011) for recipes, restaurant menus and labels, per portion."
+2026-11-06T10:56:56.987634Z,fr.pokeitem/pokeitem,PokéItem,1.1.0,,streamable-http,"Pokémon TCG card and sealed product prices in EUR, deal checks, and your PokéItem binder."
+2026-11-06T10:57:44.276534Z,io.github.fengseekling-coder/gravityport,GravityPort,0.3.9,https://github.com/fengseekling-coder/gravityport,,"AI asset manager: let Claude and Codex search your local library of AI images, videos and prompts."
+2026-11-06T10:58:36.421727Z,io.github.dryplate/dryplate,Dryplate,0.1.1,https://github.com/dryplate/dryplate,,"Local image tools: convert, resize, compress, crop, blur, watermark, strip metadata. Reads HEIC."
+2026-11-06T11:00:04.851556Z,io.github.Skymly/dotnet-mcp,dotnet-mcp,5.0.1,https://github.com/Skymly/dotnet-mcp,,"MCP server for .NET symbols, XAML, source generators, and restricted workspace edit"
+2026-11-06T11:01:49.330783Z,io.github.cookyecat/starmux,Starmux — All-in-One Self-Hosted Remote MCP Server & Gateway,0.16.2,https://github.com/cookyecat/starmux,,"All-in-one remote MCP server & gateway: built-in file, terminal, process & stdio tools over HTTP."
+2026-11-06T11:03:44.337899Z,io.github.Servosity/domain-cert-tracker-mcp,Domain and Certificate Tracker MCP,0.1.0,https://github.com/servosity/msp-skills,,"Every client's domains and certificates in one inventory: what expires, unlocks or changes."
+2026-11-06T11:04:33.257937Z,io.github.Servosity/threecx-mcp,3CX MCP,0.1.0,https://github.com/servosity/msp-skills,,"3CX for MSPs: trunk, licence, version and backup health across every client phone system."
+2026-11-06T11:07:39.021467Z,io.chatbotx/mcp,ChatbotX,1.8.0,https://github.com/ChatbotXIO/ChatbotX,sse; streamable-http,"Omnichannel customer messaging, CRM contacts, flows, sequences, broadcasts, and AI automation."
+2026-11-06T11:09:47.397758Z,io.github.yophon/gopan,gopan,3.24.1,https://github.com/yophon/gopan,streamable-http,"Self-hosted cloud drive: search, read, organize and share your files over remote MCP"
+2026-11-06T11:10:35.67248Z,com.turbonotify/turbo-notify,Turbo Notify: WhatsApp for AI agents,0.2.0,https://github.com/turbo-notify/agent-skills,streamable-http,"Send and receive WhatsApp messages from your AI agent, on your own number, with Turbo Notify."
+2026-11-06T11:17:05.084898Z,com.grain64.clearbar/verdicts,Clearbar model verdicts,1.0.0,,streamable-http,Cheapest LLM that passes each task: cost per successful task and pass rate on public datasets.
