@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-11-06T08:21:42.369776Z,com.kollus/kollus,Kollus,1.0.0,,streamable-http,"Query your Kollus video platform in natural language — VOD content, analytics, and docs."
+2026-11-06T08:23:24.917439Z,com.springprompt/prompt-test,Spring Prompt,1.0.0,,streamable-http,"The best prompt and the best model for the job, tested and improved by your coding agent."
+2026-11-06T08:24:21.725981Z,io.github.AIops-tools/symantec-ztna-aiops,Symantec ZTNA AIops,0.1.0,https://github.com/AIops-tools/Symantec-ZTNA-AIops,,"Governed Symantec ZTNA operations — 40 MCP tools, read-only with audit."
+2026-11-06T08:27:38.204658Z,io.github.AIops-tools/symantec-dcs-aiops,Symantec Data Center Security AIops,0.1.0,https://github.com/AIops-tools/Symantec-DCS-AIops,,"Governed Symantec DCS operations — 35 MCP tools, read-only with audit."
+2026-11-06T08:28:27.934147Z,com.training-360/training,Training-360,1.0.0,,streamable-http,"Read your company's Training-360 trainings, results, certificates and follow-up. Company admins."
+2026-11-06T08:29:49.193985Z,es.revisia/revisia,revisia,2026.11.6,,streamable-http,"Systematic reviews from chat: PRISMA 2020 diagrams, risk-of-bias figures, kappa and AI screening."
+2026-11-06T08:30:30.475455Z,io.github.AIops-tools/symantec-clouddlp-aiops,Symantec Cloud DLP AIops,0.1.0,https://github.com/AIops-tools/Symantec-CloudDLP-AIops,,"Governed Symantec Cloud DLP — 14 MCP tools, read-only with audit."
+2026-11-06T08:36:42.56854Z,ai.ohmybug/bughunter,OhMyBug,1.0.0,https://github.com/OhMyX-AI/ohmybug-plugin,streamable-http,"The code review for your coding agent's changes: a cloud bug hunt. From $4, $0 when no real bug."
+2026-11-06T08:41:57.032559Z,in.astrocalc/astrocalc,AstroCalc: Vedic astrology,1.0.1,,streamable-http,"Vedic astrology: free kundli, kundli milan (guna matching), dasha, yoga rarity, guides. EN/Hindi."
+2026-11-06T08:49:28.721236Z,com.plateartists/plate-artists,Plate Artists,1.1.0,,streamable-http,"Recipes, plating guides and kitchen calculators (turkey, Thanksgiving timeline). Free, read-only."
+2026-11-06T08:52:39.596173Z,ai.purple8.www/purple8-hyper-graph,Purple8 Hyper Graph,0.72.0,,streamable-http; sse,"AI-Native Complete Backend: LPG+RDF+Hypergraph, Vector Search, Hybrid RAG & Workflows (176 tools)"
+2026-11-06T08:53:11.066416Z,ai.purple8.www/purple8-docintel,Purple8 DocIntel,0.12.5,,streamable-http,Universal Document Intelligence: 70+ formats & 75+ languages to LPG/RDF entities & tables (13 tools)
+2026-11-06T08:59:54.974941Z,io.github.liujiaao/es-plus,,1.5.0,https://github.com/liujiaao/es-plus,,Generate runnable Vue 3 / Vue 2 CRUD pages from one JSON config or a natural-language request.
+2026-11-06T09:02:10.436632Z,com.affilitizer/affilitizer,Affilitizer,1.0.0,,streamable-http,Look up affiliate programs and networks for any shop domain from the Affilitizer directory.
+2026-11-06T09:03:39.371129Z,dev.hotskills/hotskills,hotskills,1.0.0,,streamable-http,"Search agent skills ranked by GitHub stars, with growth, security signals and pinned installs."
+2026-11-06T09:06:12.957996Z,io.github.senrecep/yontu,yontu,0.1.0,https://github.com/senrecep/yontu,,"Türkçe yazı denetimi: TDK kuralları, yapay zekâ izleri, metin türüne göre üslup."
+2026-11-06T09:10:03.318109Z,co.jexplore/jexplore,Jexplore,1.0.0,,streamable-http,"Read and manage the videos, quizzes and career orientation journeys of your Jexplore organisation."
+2026-11-06T09:10:17.717068Z,ai.s-space/sacrosanct-space,SacrosanctSpace,1.0.0,,streamable-http,Buy per-use Spaces (small paid tools) on s-space.ai with USDC on Base. No account needed.
+2026-11-06T09:11:03.934137Z,org.morpho/mcp,Morpho,1.0.0,,streamable-http,Read Morpho vaults and markets data and prepare unsigned transactions.
+2026-11-06T09:14:13.096508Z,io.github.denfry/mcpfabric,MCP Fabric (Minecraft),0.9.0,https://github.com/denfry/mcpfabric,,See and play Minecraft: Java Edition through the mcpfabric mod (Fabric and NeoForge).
+2026-11-06T09:15:09.295732Z,com.mtgtrade/scan,MTG Trade Scan,1.0.0,,streamable-http,Scan MTG binder photos. 3 free pages/day then €0.01/page.
