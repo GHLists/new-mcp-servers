@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-11-06T19:27:33.354865Z,io.kovca/mcp,Kovca,1.0.0,,streamable-http,"Build, test, publish, and run Kovca workflows from AI agents over remote MCP."
+2026-11-06T19:28:04.609838Z,com.avahr/avahr,AvaHR,1.0.0,,streamable-http,Read hiring data and create inactive assessment and questionnaire drafts for human review.
+2026-11-06T19:28:29.550376Z,com.myfolksboard/myfolksboard,MyFolksBoard.com,1.0.0,,streamable-http,"Family board: calendar, chores, shopping, meals, pets; OAuth for one household."
+2026-11-06T19:35:10.457557Z,dev.quickstatus/quickstatus,QuickStatus,1.1.0,,streamable-http,"Uptime checks, status pages, incidents, and maintenance for websites, APIs, DNS, and TCP."
+2026-11-06T19:35:15.674373Z,io.github.aniketmohite/supranalytics,SuprAnalytics,1.0.0,,streamable-http,"Read-only website traffic, conversions, revenue, funnels and performance analytics."
+2026-11-06T19:37:25.339221Z,com.deskcalc/verify,DeskCalc Verify,1.0.0,,,"A human checks and confirms in DeskCalc the figures an AI read from invoices, receipts, statements."
+2026-11-06T19:38:06.049926Z,io.github.anubabajide/fpl,Fantasy Premier League,0.2.0,https://github.com/anubabajide/fpl-mcp,,Research and manage a Fantasy Premier League team through MCP.
+2026-11-06T19:40:38.563636Z,io.usefulapi/kourses,Kourses MCP by usefulapi,1.1.1,https://github.com/m190/usefulapi-mcp,streamable-http,"List memberships, check member access, add members and grant or revoke access in Kourses."
+2026-11-06T19:46:48.92243Z,digital.yellowhead/agent-door,Yellowhead Digital agent door,0.1.0,,streamable-http,"Read your Yellowhead Diagnostics, scans and action items in an AI assistant, and start Diagnostics."
+2026-11-06T19:47:10.426076Z,io.github.grimmdev/courtship,Courtship,1.0.0,https://github.com/grimmdev/Courtship.git,,"Efficiency-governed MCP runtime, proxy, and benchmark CLI for LOVE (Lua) games."
+2026-11-06T19:47:19.534317Z,studio.dfs/dfs-studio,DFS Studio,1.0.0,,streamable-http,"DFS lineup optimizer for DraftKings and FanDuel: projections, builds, entries, and late swap."
+2026-11-06T19:47:22.476968Z,io.github.kriton-dev/earthquake-event-metrics,"USGS Earthquake Metrics — Magnitude, Coordinates & Times",1.0.4,,streamable-http,Read numeric USGS earthquake metadata for known event identifiers
+2026-11-06T19:47:37.67687Z,io.github.kriton-dev/ecb-exchange-rates,ECB Currency Reference Rates — Latest Daily Cross Pairs,1.0.4,,streamable-http,Read latest ECB daily currency reference rates and calculated cross pairs
+2026-11-06T19:47:52.503721Z,io.github.kriton-dev/github-repository-metrics,"GitHub Repository Metrics — Stars, Forks & Issue Counts",1.0.4,,streamable-http,Read numeric metrics for known public GitHub repositories
+2026-11-06T19:48:16.385818Z,io.github.kriton-dev/http-security-headers,"HTTP Header Policy Check — HSTS, CSP & Frame Declarations",1.0.4,,streamable-http,Check seven declared HTTP security header families without returning raw values
+2026-11-06T19:48:31.557175Z,io.github.kriton-dev/public-holiday-calendar,"Public Holidays Calendar — Five Countries, 2000–2035",1.0.6,,streamable-http,Build offline public-holiday calendars for five countries and bounded years
+2026-11-06T19:49:09.675631Z,io.usefulapi/open-dental,Open Dental MCP by usefulapi,1.2.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Read appointments, open slots, providers, procedure codes and recalls in Open Dental."
+2026-11-06T19:55:05.7155Z,io.agentscolombia/agentes,Agents Colombia,0.2.0,,streamable-http,"Colombian tax, company, contract, trademark and ad-compliance agents, paid per call with x402 USDC."
+2026-11-06T20:00:49.950453Z,app.morphing/build,Morphing (build apps),1.0.0,,streamable-http,Build and publish apps on your Morphing account from an AI chat or coding agent.
+2026-11-06T20:05:24.384929Z,io.github.FraidoonOmarzai/ukvet-mcp,ukvet: UK Companies House,0.1.0,https://github.com/fraidoonomarzai/ukvet,,"Read-only UK Companies House tools for due diligence: profile, officers, PSC, charges, insolvency."
+2026-11-06T20:07:41.161319Z,ch.zzd/mcp,zzd: Swiss everyday data,1.0.0,,streamable-http,"Swiss grocery prices, wedding venues, rents by canton, EV cost per km and map posters, by zzd."
+2026-11-06T20:08:25.359704Z,io.github.Sequenzy/mcp,Sequenzy MCP,0.0.246,https://github.com/Sequenzy/mcp,streamable-http,Sequenzy MCP server for AI-powered email marketing automation.
+2026-11-06T20:09:00.998366Z,com.santismm/knowledge,"Santismm Knowledge — Harness Engineering, Agentic AI & Governance",0.6.0,https://github.com/santismm/santismm-knowledge-mcp,streamable-http,"Query AI knowledge, essays, Labs, benchmarks, Physical AI robotics, Homeric data and claims."
+2026-11-06T20:09:14.396382Z,com.emberfeed/emberfeed,Emberfeed,1.0.0,,streamable-http,"Product feeds and catalog image templates for Meta, Google and TikTok: rules, validation, renders"
+2026-11-06T20:10:43.638825Z,bot.okapi/okapi,Okapi,1.1.0,,streamable-http,Breaking changes of third-party APIs: check your code's API calls before they break.
+2026-11-06T20:10:54.177618Z,io.github.flaviohtavares/uk-law,UK Law,1.0.0,https://github.com/flaviohtavares/uk-law-mcp,streamable-http,"Search and read all UK legislation (130k Acts and regulations), updated daily, with official links."
+2026-11-06T20:13:22.856015Z,io.github.AgentTwin/agenttwin-docs,AgentTwin Documentation,1.0.0,,streamable-http,"Search AgentTwin agent testing guides, Node CLI commands and supported synthetic service contracts."
+2026-11-06T20:19:24.920602Z,games.collected/collected-games,Collected Games,24.2.3,,streamable-http,"Search a video game catalog and manage your own collection, imports and recommendation lists."
