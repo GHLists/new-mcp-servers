@@ -9,42 +9,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 20:20 UTC
+## Latest list — 2026-11-06 21:20 UTC
 
-New MCP servers published between 2026-11-06 19:19 UTC and 2026-11-06 20:20 UTC.
+New MCP servers published between 2026-11-06 20:20 UTC and 2026-11-06 21:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-06T20-20-08-987535Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-06T21-20-45-586325Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-06 19:27:33 | io.kovca/mcp | Kovca | 1.0.0 | Build, test, publish, and run Kovca workflows from AI agents over remote MCP. |
-| 2026-11-06 19:28:04 | com.avahr/avahr | AvaHR | 1.0.0 | Read hiring data and create inactive assessment and questionnaire drafts for hu… |
-| 2026-11-06 19:28:29 | com.myfolksboard/myfolksboard | MyFolksBoard.com | 1.0.0 | Family board: calendar, chores, shopping, meals, pets; OAuth for one household. |
-| 2026-11-06 19:35:10 | dev.quickstatus/quickstatus | QuickStatus | 1.1.0 | Uptime checks, status pages, incidents, and maintenance for websites, APIs, DNS… |
-| 2026-11-06 19:35:15 | io.github.aniketmohite/supranalytics | SuprAnalytics | 1.0.0 | Read-only website traffic, conversions, revenue, funnels and performance analyt… |
-| 2026-11-06 19:37:25 | com.deskcalc/verify | DeskCalc Verify | 1.0.0 | A human checks and confirms in DeskCalc the figures an AI read from invoices, r… |
-| 2026-11-06 19:38:06 | [io.github.anubabajide/fpl](https://github.com/anubabajide/fpl-mcp) | Fantasy Premier League | 0.2.0 | Research and manage a Fantasy Premier League team through MCP. |
-| 2026-11-06 19:40:38 | [io.usefulapi/kourses](https://github.com/m190/usefulapi-mcp) | Kourses MCP by usefulapi | 1.1.1 | List memberships, check member access, add members and grant or revoke access i… |
-| 2026-11-06 19:46:48 | digital.yellowhead/agent-door | Yellowhead Digital agent door | 0.1.0 | Read your Yellowhead Diagnostics, scans and action items in an AI assistant, an… |
-| 2026-11-06 19:47:10 | [io.github.grimmdev/courtship](https://github.com/grimmdev/Courtship.git) | Courtship | 1.0.0 | Efficiency-governed MCP runtime, proxy, and benchmark CLI for LOVE (Lua) games. |
-| 2026-11-06 19:47:19 | studio.dfs/dfs-studio | DFS Studio | 1.0.0 | DFS lineup optimizer for DraftKings and FanDuel: projections, builds, entries,… |
-| 2026-11-06 19:47:22 | io.github.kriton-dev/earthquake-event-metrics | USGS Earthquake Metrics — Magnitude, Co… | 1.0.4 | Read numeric USGS earthquake metadata for known event identifiers |
-| 2026-11-06 19:47:37 | io.github.kriton-dev/ecb-exchange-rates | ECB Currency Reference Rates — Latest D… | 1.0.4 | Read latest ECB daily currency reference rates and calculated cross pairs |
-| 2026-11-06 19:47:52 | io.github.kriton-dev/github-repository-metrics | GitHub Repository Metrics — Stars, Fork… | 1.0.4 | Read numeric metrics for known public GitHub repositories |
-| 2026-11-06 19:48:16 | io.github.kriton-dev/http-security-headers | HTTP Header Policy Check — HSTS, CSP &… | 1.0.4 | Check seven declared HTTP security header families without returning raw values |
-| 2026-11-06 19:48:31 | io.github.kriton-dev/public-holiday-calendar | Public Holidays Calendar — Five Countri… | 1.0.6 | Build offline public-holiday calendars for five countries and bounded years |
-| 2026-11-06 19:49:09 | [io.usefulapi/open-dental](https://github.com/m190/usefulapi-mcp) | Open Dental MCP by usefulapi | 1.2.1 | Read appointments, open slots, providers, procedure codes and recalls in Open D… |
-| 2026-11-06 19:55:05 | io.agentscolombia/agentes | Agents Colombia | 0.2.0 | Colombian tax, company, contract, trademark and ad-compliance agents, paid per… |
-| 2026-11-06 20:00:49 | app.morphing/build | Morphing (build apps) | 1.0.0 | Build and publish apps on your Morphing account from an AI chat or coding agent. |
-| 2026-11-06 20:05:24 | [io.github.FraidoonOmarzai/ukvet-mcp](https://github.com/fraidoonomarzai/ukvet) | ukvet: UK Companies House | 0.1.0 | Read-only UK Companies House tools for due diligence: profile, officers, PSC, c… |
-| 2026-11-06 20:07:41 | ch.zzd/mcp | zzd: Swiss everyday data | 1.0.0 | Swiss grocery prices, wedding venues, rents by canton, EV cost per km and map p… |
-| 2026-11-06 20:08:25 | [io.github.Sequenzy/mcp](https://github.com/Sequenzy/mcp) | Sequenzy MCP | 0.0.246 | Sequenzy MCP server for AI-powered email marketing automation. |
-| 2026-11-06 20:09:00 | [com.santismm/knowledge](https://github.com/santismm/santismm-knowledge-mcp) | Santismm Knowledge — Harness Engineerin… | 0.6.0 | Query AI knowledge, essays, Labs, benchmarks, Physical AI robotics, Homeric dat… |
-| 2026-11-06 20:09:14 | com.emberfeed/emberfeed | Emberfeed | 1.0.0 | Product feeds and catalog image templates for Meta, Google and TikTok: rules, v… |
-| 2026-11-06 20:10:43 | bot.okapi/okapi | Okapi | 1.1.0 | Breaking changes of third-party APIs: check your code's API calls before they b… |
-| 2026-11-06 20:10:54 | [io.github.flaviohtavares/uk-law](https://github.com/flaviohtavares/uk-law-mcp) | UK Law | 1.0.0 | Search and read all UK legislation (130k Acts and regulations), updated daily,… |
-| 2026-11-06 20:13:22 | io.github.AgentTwin/agenttwin-docs | AgentTwin Documentation | 1.0.0 | Search AgentTwin agent testing guides, Node CLI commands and supported syntheti… |
-| 2026-11-06 20:19:24 | games.collected/collected-games | Collected Games | 24.2.3 | Search a video game catalog and manage your own collection, imports and recomme… |
+| 2026-11-06 20:24:09 | io.github.TaltonFiggins/election-atlas | Election Atlas | 0.1.0 | US & Canada election maps: precincts, ZIP codes, 2026 districts, ridings. GeoJS… |
+| 2026-11-06 20:25:18 | news.apprised/site | Apprised.news | 1.0.4 | AI-written news briefs, daily report, breaking headlines and site search from A… |
+| 2026-11-06 20:25:30 | [io.github.RadoslavMoshev/detailing-manager](https://github.com/RadoslavMoshev/detailingmanager) | Detailing Manager | 0.1.2 | Connect your auto detailing studio's tasks, cars, clients and revenue to Claude… |
+| 2026-11-06 20:26:36 | com.reputend/reputend | RepuTend | 1.0.0 | Finds Trustpilot reviews that break Trustpilot's guidelines and drafts the repo… |
+| 2026-11-06 20:29:54 | dev.hither/hither | Hither | 0.2.0 | Use a person's computer after they approve it there: files, Terminal, browser,… |
+| 2026-11-06 20:32:57 | com.mycryptoparadise/market-education | MyCryptoParadise | 1.0.0 | Search MyCryptoParadise crypto trading education and news, and find its free ma… |
+| 2026-11-06 20:34:49 | dev.tesseract/media | Tesseract | 1.0.0 | Make pictures, effects and videos with Tesseract, charged to your own Tesseract… |
+| 2026-11-06 20:36:06 | [io.usefulapi/bedrijfsrooster](https://github.com/m190/usefulapi-mcp) | Bedrijfsrooster MCP by usefulapi | 1.0.0 | Read employees, contracts, timetable shifts, availability and reports in Bedrij… |
+| 2026-11-06 20:37:54 | com.timezero-re/game | TimeZero Resurrection | 0.2.0 | Unofficial restoration of the TimeZero MMORPG: AI agents play beside humans. Ga… |
+| 2026-11-06 20:38:27 | [io.devicechain/mcp](https://github.com/devicechain-io/devicechain) | DeviceChain | 1.1.0 | Read-only MCP tools for a self-hosted DeviceChain IoT instance: devices, teleme… |
+| 2026-11-06 20:42:36 | com.theweekly2pctedge/logbook | Live bitcoin bot logbook | 1.0.0 | Weekly results of a live BTC-EUR bot, grid-bot simulation and bitcoin drawdowns… |
+| 2026-11-06 20:43:49 | [io.github.cleanyield-data/clean-yield](https://github.com/cleanyield-data/clean-yield-mcp) | Clean Yield Data Tools | 1.0.0 | Company enrichment, FMCSA carriers, app reviews, live ATS jobs and LatAm public… |
+| 2026-11-06 20:45:05 | com.hoursaved/hoursaved | HourSaved | 1.0.0 | Free ready-to-send customer messages, real owner stories and AI guides for smal… |
+| 2026-11-06 20:45:49 | [io.github.BBrunoEsteves/mcp-for-openfilters](https://github.com/BBrunoEsteves/mcp-for-openfilters) | MCP for OpenFilters | 0.2.1 | Design, simulate and optimize optical thin-film coatings with the OpenFilters e… |
+| 2026-11-06 20:45:57 | [io.github.Aleph-Lab-s/apc-security-reference-server](https://github.com/Aleph-Lab-s/apc-open-core) | APC Security Reference Server | 0.1.0-alpha.1 | Reference MCP server for synthetic APC action-security evaluation and local SQL… |
+| 2026-11-06 20:46:15 | [io.github.coriolislabs/walletcap](https://github.com/coriolislabs/WalletCap) | walletcap for Coinbase payments MCP | 0.2.4 | Spend limits for Coinbase's payments MCP: a per-payment cap and rolling 24h USD… |
+| 2026-11-06 20:46:58 | [com.uqual/loan-readiness](https://github.com/drewTuzson/uqual-loan-readiness) | UQUAL Loan Readiness | 1.0.0 | Powered by UQUAL loan readiness tools, educational calculations and agency refe… |
+| 2026-11-06 20:48:41 | [io.github.jinsim/f1verse](https://github.com/jinsim/f1verse) |  | 0.15.0 | Formula 1 race data with the domain rules applied: stints, tyre wear, publish-s… |
+| 2026-11-06 20:49:02 | app.ucad/ucad | uCAD | 1.0.0 | A browser 3D CAD for your AI: it scripts real-size models, uCAD builds them and… |
+| 2026-11-06 20:49:06 | [com.thewyze/blog](https://github.com/The-Wyze/MCP) | The Wyze Blog | 1.0.0 | The Wyze blog: guaranteed rent, temporary accommodation and lettings guides for… |
+| 2026-11-06 20:53:45 | [io.github.faisalkhanzemi/insta-edits](https://github.com/faisalkhanzemi/insta-edits-for-claude) | Insta Edits for Claude | 0.1.0 | Let Claude edit Instagram Reels in Edits for Mac: the full 274-tool editor, kep… |
+| 2026-11-06 20:53:56 | [io.github.PaSympa/discord-mcp](https://github.com/PaSympa/discord-mcp) |  | 2.2.1 | A lightweight, multi-guild Discord MCP server with 95+ tools |
+| 2026-11-06 21:00:12 | com.jwatte/site | jwatte.com free website tools | 1.0.1 | Find free website audit tools, run links, blog articles and book details on jwa… |
+| 2026-11-06 21:02:54 | fr.declaclic/panneaux-solaires | DéclaClic : panneaux solaires | 1.0.0 | Déclaration préalable pour panneaux solaires en France : parcelle, PLU, monumen… |
+| 2026-11-06 21:09:24 | [ai.greyridgesignals/business-verification-mcp](https://github.com/rezearcher/business-verification-mcp) | US Business Verification MCP Server | 0.3.0 | KYB / know your business: verify US firms vs state registries + OFAC sanctions… |
+| 2026-11-06 21:09:28 | [io.github.Olaverse-Labs/olaverse-mcp](https://github.com/Olaverse-Labs/olaverse-mcp) | Olaverse Lab | 0.1.0 | Document extraction with calibrated confidence, decisions, language ID in 608 l… |
+| 2026-11-06 21:09:51 | com.beingso/animated-cards | BeingSo Animated Cards | 0.1.0 | Search, personalize, publish, share, and email animated greeting cards from Bei… |
+| 2026-11-06 21:13:11 | com.bouncelayer/mcp | BounceLayer Email Verification | 1.0.2 | Check if an email address is real before you send, with a plain-English reason… |
+| 2026-11-06 21:14:49 | [io.github.ArceeDev/web-intel-mcp](https://github.com/ArceeDev/web-intel-mcp) | Web Intel | 0.2.0 | Web pages to clean Markdown, metadata, links, tech stack and scored SEO audits.… |
+| 2026-11-06 21:14:50 | [io.github.ArceeDev/norma43-mcp](https://github.com/ArceeDev/norma43-mcp) | Norma 43 | 0.2.0 | Parse Spanish Norma 43 bank statements, reconcile against invoices, validate IB… |
+| 2026-11-06 21:14:51 | [io.github.ArceeDev/contabridge-mcp](https://github.com/ArceeDev/contabridge-mcp) | ContaBridge | 0.2.0 | Convert journals between A3, ContaPlus/Sage 50, QuickBooks, Xero and CSV; bank… |
+| 2026-11-06 21:14:52 | [io.github.ArceeDev/dataclean-mcp](https://github.com/ArceeDev/dataclean-mcp) | DataClean | 0.2.0 | Profile, clean and validate CSV/Excel data: schemas, dates, numbers, duplicates… |
+| 2026-11-06 21:14:53 | [io.github.ArceeDev/verifactu-mcp](https://github.com/ArceeDev/verifactu-mcp) | VeriFactu | 0.1.0 | Audit VERI*FACTU hash chains, build the AEAT tax QR, build and validate Factura… |
+| 2026-11-06 21:17:39 | app.tryjunto/junto | Junto group calendar | 1.0.0 | Shared group calendar with RSVPs, no login. Create calendars, read events, add… |
+| 2026-11-06 21:18:54 | [lat.panal/panal](https://github.com/AgentHiv/Panal) | Panal | 0.23.0 | Hire AI agents and people on Monad: search, compare prices, prepare escrowed jo… |
 
 ## Data source
 
