@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-11-06T11:22:30.618364Z,io.github.jarvinmito/amito,Amito — Interface specifications,1.0.0,,streamable-http,"Interface requirements, missing-decision checks, and public frontend portfolio information."
+2026-11-06T11:24:56.952173Z,io.github.maciekzygmunt/excaliself,Excaliself,0.8.1,https://github.com/maciekzygmunt/excaliself,streamable-http,"Find, read, create, and organize Excalidraw drawings in your self-hosted Excaliself instance."
+2026-11-06T11:33:23.433806Z,io.github.The-Open-Source-Founder/upscalex,UpscaleX,0.1.2,https://github.com/The-Open-Source-Founder/upscalex,,Production 16K image upscaler and model gateway via RealESRGAN and Vulkan.
+2026-11-06T11:37:13.76792Z,com.automateandtweak/ai-tools,Automate & Tweak AI Tools Directory,1.0.0,,streamable-http,"Search, filter and compare 1,000+ AI tools by category, pricing and tag. 11 languages."
+2026-11-06T11:37:25.131026Z,io.github.MeltFlexDevs/aibimtool,AIBIMTool,0.1.2,https://github.com/MeltFlexDevs/aibimtool-skills,streamable-http,"Design buildings as IFC4 BIM models from a brief: an AI architect that plans, builds and edits."
+2026-11-06T11:43:48.123266Z,ai.anam/anam,Anam,1.0.0,,streamable-http,"Build real-time AI avatar personas and videos; manage voices, knowledge, sessions and meetings."
+2026-11-06T11:49:59.583784Z,io.stimulsoft/reports,Stimulsoft,1.8.17,,streamable-http,"Create, edit and export Stimulsoft reports and dashboards, save them to the Stimulsoft cloud."
+2026-11-06T11:51:32.803443Z,io.github.qrcode-ai-com/qrcode-barcode-scanner,QR Code & Barcode Scanner,0.2.1,https://github.com/qrcode-ai-com/qrcode-barcode-scanner,,Decode supplied image bytes locally; preserve exact QR/barcode payloads and scannability reports.
+2026-11-06T11:51:36.900318Z,com.hotcodepush/mcp,HotCodePush,1.0.0,,streamable-http,"Manage over-the-air (OTA) updates for React Native, Expo, Capacitor and Cordova apps."
+2026-11-06T12:02:05.907929Z,io.github.pennyops/penny-x402-utils,Penny x402 utilities,0.1.0,,streamable-http,"Pay-per-call dev utilities (hash, base64, uuid, URL, time, NIP-19, BOLT11) via x402 USDC on Base."
+2026-11-06T12:02:30.302687Z,com.outfame/instagram-growth,Outfame Instagram Growth,1.0.0,,streamable-http,"Outfame Instagram growth MCP server: plans with first-month prices, free tools, blog search."
+2026-11-06T12:03:05.358667Z,ai.graphlog/career,Graphlog Career,2.3.5,https://github.com/foster-systems/graphlog-career,streamable-http,"The career management plugin for your own AI assistant: CVs, cover letters, interviews and more."
+2026-11-06T12:06:16.936679Z,io.searchblueprint/searchblueprint,SearchBlueprint,1.1.0,,streamable-http,"Google rank and AI Overview checks with no key. With an API key, write and publish SEO articles."
+2026-11-06T12:07:27.930908Z,com.cyberredd/cyberredd,,0.1.2,,streamable-http,"Query Reddit communities, posts, brands and trends from your AI agent. OAuth 2.1."
+2026-11-06T12:13:34.70326Z,org.gramnews/catalogue-app,Catalogue App,1.0.0,https://github.com/vitalikgpt/catalogue-app-plugin,streamable-http,"Telegram bots in one click, emoji and sticker packs, and search across Telegram channels and apps."
+2026-11-06T12:14:49.385157Z,ai.monassocie/browser,MonAssocie — Navigateur,1.1.0,https://gitlab.com/monassocie-ai/monassocie-mcp,,"Pilote Chrome ou Edge depuis ton assistant via l’extension MonAssocie, avec confirmation."
+2026-11-06T12:16:00.972967Z,app.nextconstraint/nextconstraint,NextConstraint,1.0.0,,streamable-http,"Your SaaS funnel's costliest leak, its fix, watchdog alerts and verdicts, from NextConstraint."
+2026-11-06T12:17:41.590271Z,io.github.weidotbuild/arumi,Arumi,1.0.0,https://github.com/weidotbuild/arumi,streamable-http,"Generate AI images, video and audio with 55 models, priced in credits before you generate."
+2026-11-06T12:18:38.09143Z,io.usefulapi/fieldedge,FieldEdge MCP by usefulapi,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Read work orders, customers and invoices; create customers, notes and work orders in FieldEdge."
+2026-11-06T12:18:38.09904Z,io.usefulapi/weekdone,Weekdone MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read weekly reports, teams, objectives and KPIs; add report items and comments in Weekdone."

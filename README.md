@@ -9,39 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 11:21 UTC
+## Latest list — 2026-11-06 12:18 UTC
 
-New MCP servers published between 2026-11-06 10:21 UTC and 2026-11-06 11:21 UTC.
+New MCP servers published between 2026-11-06 11:21 UTC and 2026-11-06 12:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-06T11-21-41-678861Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-06T12-18-55-622748Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-06 10:26:48 | com.tuechristensen/a2a | Tue Christensen | 0.0.7 | Learn about Tue Christensen's operations-research work or describe an OR proble… |
-| 2026-11-06 10:29:06 | io.github.dang13021993/thachoabinhcamping | Thác Hòa Bình Camping | 1.0.0 | Explore Vietnam riverside camping, picnic packages and reference prices. Read-o… |
-| 2026-11-06 10:39:40 | io.ziplined/ziplined | Ziplined | 1.0.0 | Find warm leads on LinkedIn: people who engage with your team, competitors and… |
-| 2026-11-06 10:42:15 | [io.github.Bytestay/distill-mcp](https://github.com/bytestay/distill-mcp) |  | 0.2.4 | Web pages to clean Markdown for AI agents, honouring robots.txt and AI opt-outs. |
-| 2026-11-06 10:42:17 | [io.github.Bytestay/unfold-mcp](https://github.com/bytestay/unfold-mcp) |  | 0.2.4 | PDF, DOCX, PPTX and XLSX documents to Markdown for AI agents, from a URL or a l… |
-| 2026-11-06 10:42:19 | [io.github.Bytestay/shipshape-mcp](https://github.com/bytestay/shipshape-mcp) |  | 0.2.4 | Dockerfile and Kubernetes lint for AI agents: Pod Security Standards, A–F grade… |
-| 2026-11-06 10:42:21 | [io.github.Bytestay/specwise-mcp](https://github.com/bytestay/specwise-mcp) |  | 0.2.4 | OpenAPI and JSON Schema validation and OpenAPI breaking-change diffs for AI age… |
-| 2026-11-06 10:45:13 | services.stationzero/station-zero | Station Zero | 1.0.0 | One MCP server for the services your AI needs: memory, files, Microsoft 365, ka… |
-| 2026-11-06 10:50:43 | [io.github.gemral-edge/yinyang-masters](https://github.com/gemral-edge/yinyang-masters-mcp) | Yinyang Masters | 1.0.0 | Tarot, astrology, numerology, Tu Vi and Bazi tools plus guides on habits and ma… |
-| 2026-11-06 10:51:25 | com.getinvestiq/research | InvestIQ | 1.0.0 | AI equity research: quant scores, fundamentals, valuation, risks and portfolio… |
-| 2026-11-06 10:51:32 | app.readingjourney/reading-journey | Reading Journey | 0.1.0 | Your own book library and reading journal: TBR, statuses, ratings, collections,… |
-| 2026-11-06 10:52:28 | [ai.ankra/docs](https://github.com/ankraio/cursor-plugin) | Ankra Docs | 1.0.0 | Search the Ankra documentation: clusters, stacks, GitOps, CI/CD and the CLI. No… |
-| 2026-11-06 10:54:35 | com.theopentv/opentv | OpenTV | 2.3.0 | Ask about your TV and film history in OpenTV, and mark, rate and list what you… |
-| 2026-11-06 10:56:43 | ro.nutrimeniu/nutrition-calculator | Nutrimeniu Nutrition Calculator | 1.0.0 | Calories and nutrition tables (EU 1169/2011) for recipes, restaurant menus and… |
-| 2026-11-06 10:56:56 | fr.pokeitem/pokeitem | PokéItem | 1.1.0 | Pokémon TCG card and sealed product prices in EUR, deal checks, and your PokéIt… |
-| 2026-11-06 10:57:44 | [io.github.fengseekling-coder/gravityport](https://github.com/fengseekling-coder/gravityport) | GravityPort | 0.3.9 | AI asset manager: let Claude and Codex search your local library of AI images,… |
-| 2026-11-06 10:58:36 | [io.github.dryplate/dryplate](https://github.com/dryplate/dryplate) | Dryplate | 0.1.1 | Local image tools: convert, resize, compress, crop, blur, watermark, strip meta… |
-| 2026-11-06 11:00:04 | [io.github.Skymly/dotnet-mcp](https://github.com/Skymly/dotnet-mcp) | dotnet-mcp | 5.0.1 | MCP server for .NET symbols, XAML, source generators, and restricted workspace… |
-| 2026-11-06 11:01:49 | [io.github.cookyecat/starmux](https://github.com/cookyecat/starmux) | Starmux — All-in-One Self-Hosted Remote… | 0.16.2 | All-in-one remote MCP server & gateway: built-in file, terminal, process & stdi… |
-| 2026-11-06 11:03:44 | [io.github.Servosity/domain-cert-tracker-mcp](https://github.com/servosity/msp-skills) | Domain and Certificate Tracker MCP | 0.1.0 | Every client's domains and certificates in one inventory: what expires, unlocks… |
-| 2026-11-06 11:04:33 | [io.github.Servosity/threecx-mcp](https://github.com/servosity/msp-skills) | 3CX MCP | 0.1.0 | 3CX for MSPs: trunk, licence, version and backup health across every client pho… |
-| 2026-11-06 11:07:39 | [io.chatbotx/mcp](https://github.com/ChatbotXIO/ChatbotX) | ChatbotX | 1.8.0 | Omnichannel customer messaging, CRM contacts, flows, sequences, broadcasts, and… |
-| 2026-11-06 11:09:47 | [io.github.yophon/gopan](https://github.com/yophon/gopan) | gopan | 3.24.1 | Self-hosted cloud drive: search, read, organize and share your files over remot… |
-| 2026-11-06 11:10:35 | [com.turbonotify/turbo-notify](https://github.com/turbo-notify/agent-skills) | Turbo Notify: WhatsApp for AI agents | 0.2.0 | Send and receive WhatsApp messages from your AI agent, on your own number, with… |
-| 2026-11-06 11:17:05 | com.grain64.clearbar/verdicts | Clearbar model verdicts | 1.0.0 | Cheapest LLM that passes each task: cost per successful task and pass rate on p… |
+| 2026-11-06 11:22:30 | io.github.jarvinmito/amito | Amito — Interface specifications | 1.0.0 | Interface requirements, missing-decision checks, and public frontend portfolio… |
+| 2026-11-06 11:24:56 | [io.github.maciekzygmunt/excaliself](https://github.com/maciekzygmunt/excaliself) | Excaliself | 0.8.1 | Find, read, create, and organize Excalidraw drawings in your self-hosted Excali… |
+| 2026-11-06 11:33:23 | [io.github.The-Open-Source-Founder/upscalex](https://github.com/The-Open-Source-Founder/upscalex) | UpscaleX | 0.1.2 | Production 16K image upscaler and model gateway via RealESRGAN and Vulkan. |
+| 2026-11-06 11:37:13 | com.automateandtweak/ai-tools | Automate & Tweak AI Tools Directory | 1.0.0 | Search, filter and compare 1,000+ AI tools by category, pricing and tag. 11 lan… |
+| 2026-11-06 11:37:25 | [io.github.MeltFlexDevs/aibimtool](https://github.com/MeltFlexDevs/aibimtool-skills) | AIBIMTool | 0.1.2 | Design buildings as IFC4 BIM models from a brief: an AI architect that plans, b… |
+| 2026-11-06 11:43:48 | ai.anam/anam | Anam | 1.0.0 | Build real-time AI avatar personas and videos; manage voices, knowledge, sessio… |
+| 2026-11-06 11:49:59 | io.stimulsoft/reports | Stimulsoft | 1.8.17 | Create, edit and export Stimulsoft reports and dashboards, save them to the Sti… |
+| 2026-11-06 11:51:32 | [io.github.qrcode-ai-com/qrcode-barcode-scanner](https://github.com/qrcode-ai-com/qrcode-barcode-scanner) | QR Code & Barcode Scanner | 0.2.1 | Decode supplied image bytes locally; preserve exact QR/barcode payloads and sca… |
+| 2026-11-06 11:51:36 | com.hotcodepush/mcp | HotCodePush | 1.0.0 | Manage over-the-air (OTA) updates for React Native, Expo, Capacitor and Cordova… |
+| 2026-11-06 12:02:05 | io.github.pennyops/penny-x402-utils | Penny x402 utilities | 0.1.0 | Pay-per-call dev utilities (hash, base64, uuid, URL, time, NIP-19, BOLT11) via… |
+| 2026-11-06 12:02:30 | com.outfame/instagram-growth | Outfame Instagram Growth | 1.0.0 | Outfame Instagram growth MCP server: plans with first-month prices, free tools,… |
+| 2026-11-06 12:03:05 | [ai.graphlog/career](https://github.com/foster-systems/graphlog-career) | Graphlog Career | 2.3.5 | The career management plugin for your own AI assistant: CVs, cover letters, int… |
+| 2026-11-06 12:06:16 | io.searchblueprint/searchblueprint | SearchBlueprint | 1.1.0 | Google rank and AI Overview checks with no key. With an API key, write and publ… |
+| 2026-11-06 12:07:27 | com.cyberredd/cyberredd |  | 0.1.2 | Query Reddit communities, posts, brands and trends from your AI agent. OAuth 2.… |
+| 2026-11-06 12:13:34 | [org.gramnews/catalogue-app](https://github.com/vitalikgpt/catalogue-app-plugin) | Catalogue App | 1.0.0 | Telegram bots in one click, emoji and sticker packs, and search across Telegram… |
+| 2026-11-06 12:14:49 | [ai.monassocie/browser](https://gitlab.com/monassocie-ai/monassocie-mcp) | MonAssocie — Navigateur | 1.1.0 | Pilote Chrome ou Edge depuis ton assistant via l’extension MonAssocie, avec con… |
+| 2026-11-06 12:16:00 | app.nextconstraint/nextconstraint | NextConstraint | 1.0.0 | Your SaaS funnel's costliest leak, its fix, watchdog alerts and verdicts, from… |
+| 2026-11-06 12:17:41 | [io.github.weidotbuild/arumi](https://github.com/weidotbuild/arumi) | Arumi | 1.0.0 | Generate AI images, video and audio with 55 models, priced in credits before yo… |
+| 2026-11-06 12:18:38 | [io.usefulapi/fieldedge](https://github.com/m190/usefulapi-mcp) | FieldEdge MCP by usefulapi | 1.0.1 | Read work orders, customers and invoices; create customers, notes and work orde… |
+| 2026-11-06 12:18:38 | [io.usefulapi/weekdone](https://github.com/m190/usefulapi-mcp) | Weekdone MCP by usefulapi | 1.0.0 | Read weekly reports, teams, objectives and KPIs; add report items and comments… |
 
 ## Data source
 
