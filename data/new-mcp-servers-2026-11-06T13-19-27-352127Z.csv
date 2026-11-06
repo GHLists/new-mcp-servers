@@ -1,0 +1,37 @@
+created_at,server,title,version,repository,transports,description
+2026-11-06T12:19:54.794119Z,id.dhananjaya/villas,Dhananjaya Villas Bali,1.0.0,,streamable-http,"Live availability, prices and booking links for 40+ private villas and resorts in Bali."
+2026-11-06T12:21:51.533716Z,com.realai/mcp,RealAI,1.0.0,,streamable-http,"US real estate data: multifamily rents and occupancy, property records, demographics and migration."
+2026-11-06T12:23:35.241954Z,com.pretty-qr/pretty-qr,Pretty QR,1.0.0,,streamable-http,"Create branded QR codes from AI assistants: templates, styled PNG/SVG, and editor links."
+2026-11-06T12:27:13.295297Z,ai.boltclaw/boltclaw,Bolt Claw,1.0.0,,streamable-http,"Schedule posts, answer comments and DMs, auto-DM commenters, run link-in-bio pages and referrals."
+2026-11-06T12:28:48.779802Z,com.mekktup/letters,mekktup — online mektup yazma ve gönderme,1.0.0,,streamable-http,"Türkiye'de online mektup yaz; basıp PTT ile cezaevi, asker, kurum ve adrese gönderelim."
+2026-11-06T12:29:59.753533Z,dev.pages.video-frames-to-images/video-frame-extractor,Video Frame Extractor (Apify actor),0.1.3,,streamable-http,Apify actor via Apify's MCP server (Apify token needed): frames from video file URLs.
+2026-11-06T12:30:55.507232Z,com.superbridger/free-tools,Superbridger free tools,1.0.0,,streamable-http,"Check captions and videos against each social platform's limits; specs, image sizes. No account."
+2026-11-06T12:32:32.05794Z,com.mide360/mide,MIDE 360 - formación en analítica digital y marketing basado en datos,1.0.0,,streamable-http,Vídeos gratuitos de MIDE 360 sobre analítica y marketing digital en español
+2026-11-06T12:38:07.226672Z,com.huntapi/mcp,HuntAPI,0.1.0,https://github.com/huntapi/huntapi-mcp,streamable-http,"Download video and audio from public media URLs, or extract their metadata, with one async REST API."
+2026-11-06T12:38:13.979555Z,com.piloterr/mcp,Piloterr,0.1.0,https://github.com/piloterr/piloterr-mcp,streamable-http,"Scrape 300+ websites (Amazon, LinkedIn, Google, Zillow, Crunchbase…) as structured JSON with one AP…"
+2026-11-06T12:38:15.839269Z,dev.autom/mcp,Autom,0.1.0,https://github.com/automdev/autom-mcp,streamable-http,"Google, Bing and Brave search results as structured JSON — web, maps, news, shopping, images, jobs…"
+2026-11-06T12:38:18.087732Z,dev.capturekit/mcp,CaptureKit,0.1.0,https://github.com/capturekitdev/capturekit-mcp,streamable-http,"Capture websites as PNG, JPEG, WebP or PDF, extract their content, or analyse them with AI."
+2026-11-06T12:38:19.957852Z,io.veille/mcp,Veille,0.1.0,https://github.com/veilleio/veille-mcp,streamable-http,"Validate emails, domains, IPs, VAT numbers and IBANs in milliseconds to block fake sign-ups, bots a…"
+2026-11-06T12:38:21.87202Z,com.chartquery/mcp,ChartQuery,0.1.0,https://github.com/chartquery/chartquery-mcp,streamable-http,"Generate chart images, diagrams, barcodes, QR codes and thermal labels on demand. PNG, SVG or PDF o…"
+2026-11-06T12:38:23.782695Z,com.browsersolver/mcp,BrowserSolver,0.1.0,https://github.com/browsersolver/browsersolver-mcp,streamable-http,"Unlock, render, crawl and screenshot any website — anti-bot bypass and technology detection through…"
+2026-11-06T12:38:25.594635Z,dev.asin/mcp,Asin,0.1.0,https://github.com/asindotdev/asin-mcp,streamable-http,"Track Amazon prices and products with a scheduled watchlist, price history, offers and alerts."
+2026-11-06T12:41:23.013205Z,ai.flavo/flavo,Flavo,1.0.0,,streamable-http,Flavo designs your site the way a dedicated designer would: several finished designs to choose from.
+2026-11-06T12:42:32.772441Z,com.microsoft/powerbi-modeling-mcp,Power BI Authoring MCP Server (Local),1.0.1,https://github.com/microsoft/powerbi-modeling-mcp.git,,The Power BI Authoring MCP server lets an AI agent create and change Power BI semantic models.
+2026-11-06T12:48:00.626652Z,tr.com.geoproje/mcp,Geoproje,0.8.8,,streamable-http,"Geotechnical and earthquake engineering tools: soil studies, SelectEQ, GMPS, GeoWave, OmniPile, PMM"
+2026-11-06T12:53:04.540276Z,za.co.getaccounted/sa-tax,GetAccountED — South African Tax Tools,1.0.0,,streamable-http,"South African PAYE/UIF, VAT, VAT treatment, SARS due dates and ID/tax/VAT number checks."
+2026-11-06T12:55:28.940402Z,io.github.ABCastor/borgo,Borgo,0.1.0,https://github.com/ABCastor/borgo,,"Compare cities to live in on open, sourced data: take-home pay, rent, visas, climate, safety."
+2026-11-06T12:56:36.48453Z,io.agentlater/agentlater,AgentLater,1.0.0,https://github.com/thachp/agentlater,streamable-http,"Agents make HTTP requests later, then get results, webhooks and wake-ups in a later session."
+2026-11-06T12:58:40.167854Z,live.cazimi/retrogrades,Cazimi: retrograde planets,1.1.0,,streamable-http,"Retrograde stations, shadows and cazimi for Mercury to Pluto, to the minute UTC, from JPL DE421."
+2026-11-06T12:58:46.819012Z,dev.wirecat/bitrix24-cli,WireCat b24,0.2.0,https://github.com/WireCatLabs/bitrix24-cli,,A Bitrix24 portal's CRM for agents over MCP. Sign in with the b24 CLI first.
+2026-11-06T12:59:46.868267Z,io.github.jeremdecustovox/custovox-churn-signal,,1.0.0,https://github.com/jeremdecustovox/custovox-ai,,custovox.ai churn risk detection MCP server: 0-100 score from customer message sequences
+2026-11-06T13:02:33.512054Z,au.com.brandrail/brandrail,Brandrail,0.10.1,https://github.com/brandrail-app/brandrail,,"Design system guardrails for AI coding tools: tokens, components and a brand checker. Runs locally."
+2026-11-06T13:02:56.177411Z,com.tryhea/hea,Hea,0.39.0,,streamable-http,"UK health companion: NICE/NHS check-up plans, lab results with GP questions, symptom notes"
+2026-11-06T13:06:32.549114Z,ai.keenable/web-search,Keenable Web Search,0.2.1,https://github.com/keenableai/keenable-mcp,streamable-http,Live web search and clean-markdown page fetch over the Keenable web index.
+2026-11-06T13:11:27.268386Z,io.github.mohammad-abbasi-sh/obilet-mcp,obilet.com Bus & Flight Tickets,0.1.0,https://github.com/mohammad-abbasi-sh/obilet-mcp,,"Unofficial read-only MCP server for obilet.com bus & flight tickets: journeys, prices."
+2026-11-06T13:11:42.709166Z,io.github.mohammad-abbasi-sh/ciceksepeti-mcp,ciceksepeti.com Flowers & Gifts,0.1.0,https://github.com/mohammad-abbasi-sh/ciceksepeti-mcp,,"Unofficial read-only MCP server for ciceksepeti.com flowers & gifts: search, prices."
+2026-11-06T13:15:42.103123Z,io.github.WYRE-AI/acronis-mcp,Acronis Cyber Protect Cloud,1.0.1,https://github.com/WYRE-AI/acronis-mcp,,"Acronis Cyber Protect Cloud MCP: alerts, policies, resources, agents, tenants and EDR incidents."
+2026-11-06T13:16:45.965309Z,io.github.forcedreamai/mcp-server,,0.12.3,https://github.com/forcedreamai/forcedream-mcp,streamable-http,"Discover, invoke, and verify ForceDream agents with cryptographic proofs. 14 local, 21 hosted tools."
+2026-11-06T13:17:16.535348Z,app.officely/officely,Officely,1.0.0,,streamable-http,"Book desks and rooms, manage people and teams, and organise workplaces in Officely."
+2026-11-06T13:17:56.064927Z,me.coffeecapsules/coffee-shopping,Coffee Capsules,1.0.0,,streamable-http,"Coffee capsules, machines, beans and ground coffee in Egypt."
+2026-11-06T13:17:57.582636Z,com.thecoffeehug/coffee-shopping,The Coffee Hug,1.0.0,,streamable-http,Wholesale coffee in Egypt with product-specific minimum quantities.
+2026-11-06T13:17:59.11197Z,net.instashot/coffee-shopping,Instashot,1.0.0,,streamable-http,"Coffee beans, ground coffee and Dolce Gusto products in Egypt."
