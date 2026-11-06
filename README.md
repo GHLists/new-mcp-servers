@@ -9,52 +9,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 16:22 UTC
+## Latest list — 2026-11-06 17:20 UTC
 
-New MCP servers published between 2026-11-06 15:20 UTC and 2026-11-06 16:22 UTC.
+New MCP servers published between 2026-11-06 16:22 UTC and 2026-11-06 17:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-06T16-22-07-450001Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-06T17-20-38-946107Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-06 15:22:06 | [io.github.danvolsky-source/normot](https://github.com/danvolsky-source/normot-mcp) | NORMOT — Israeli building norms | 0.1.0 | Israeli building and planning norms: permits, fire, accessibility; Hebrew text,… |
-| 2026-11-06 15:23:25 | com.tamingdns/mcp | TamingDNS | 1.0.0 | Check SPF, DKIM, DMARC, MX, MTA-STS, TLS-RPT, BIMI, DANE and DNSSEC, and analys… |
-| 2026-11-06 15:23:32 | uk.co.pocketly/offers | Pocketly: UK switching offers | 1.0.0 | UK current-account switching offers from each bank's own terms, and a planner f… |
-| 2026-11-06 15:27:41 | com.holydb/holydb-mcp |  | 1.1.0 | Mass.nyc: find Catholic Mass and Confession times near a place in New York City. |
-| 2026-11-06 15:28:10 | [io.github.Surface-ops/groundlock-mcp](https://github.com/Surface-ops/groundlock-mcp) | GroundLock | 0.1.0 | Claim check for agents: supported, refuted or unverifiable with sources. Canada… |
-| 2026-11-06 15:29:26 | [io.github.akfamily/akquant](https://github.com/akfamily/akquant) | AKQuant | 0.3.78 | Write and backtest trading strategies with AKQuant: API lookup, strategy checks… |
-| 2026-11-06 15:36:53 | cloud.imado/mail | imado | 1.0.0 | Read mail on your own domain, write drafts and tag conversations. It can't send. |
-| 2026-11-06 15:37:02 | com.onbriefing/onbriefing | OnBriefing | 0.3.0 | Check creator videos (TikTok, Instagram, YouTube) against a campaign brief, wit… |
-| 2026-11-06 15:39:07 | app.clubpal/clubpal | ClubPal | 1.0.0 | Read-only access to a ClubPal club's members, renewals, sessions, bookings and… |
-| 2026-11-06 15:42:20 | [io.github.Echolonius/boardcheck](https://github.com/Echolonius/boardcheck) | Boardcheck | 0.7.0 | Flags deceptive signals in AI-agent marketplace listings, from fake engagement… |
-| 2026-11-06 15:42:45 | ai.loadoptimizer/loadoptimizer | LoadOptimizer | 1.4.0 | Plan truck, container and pallet loads in 3D with a real optimization engine. |
-| 2026-11-06 15:43:06 | [io.github.janko-vrbnjak/sef-mcp](https://github.com/janko-vrbnjak/sef-mcp) | SEF e-fakture (Srbija) | 0.4.0 | Serbian SEF e-invoicing from Claude: drafts, approval before sending, status, c… |
-| 2026-11-06 15:43:12 | gg.duoly/gaming | Duoly | 0.1.0 | Find paid gaming teammates and coaches: games, prices, availability and Duoly b… |
-| 2026-11-06 15:44:24 | io.github.PayInOne/pio | PIO Team | 1.0.0 | Read-only, permission-scoped PIO team workflows for payments, payroll and emplo… |
-| 2026-11-06 15:44:25 | io.github.PayInOne/pio-public | PIO Public Information and Cost Estimat… | 1.0.0 | Public PIO product information and hypothetical employment-cost estimates. No a… |
-| 2026-11-06 15:46:08 | com.jokestack/jokestack | JokeStack | 1.0.0 | Find open mics and comedy events, and the regular open mics comedians know abou… |
-| 2026-11-06 15:46:31 | [io.github.jklop3841/agentarchitect-network](https://github.com/jklop3841/agentarchitect-site) | AgentArchitect Network | 0.3.0 | Find public AI project notices, search agent requests and submit moderated anno… |
-| 2026-11-06 15:46:35 | io.github.Nathan-Roll1/california-traffic-school | California Licensing Education | 0.2.1 | English California traffic-school and court guidance with sources and review da… |
-| 2026-11-06 15:51:10 | com.warstrikes/warstrikes | WarStrikes | 1.0.0 | Live conflict reports traced to source: strikes, attacks and military activity,… |
-| 2026-11-06 15:52:00 | [io.github.SamuelDharshi/proofmark-demo-server](https://github.com/SamuelDharshi/Proofmark) |  | 1.0.0 | A small filesystem MCP server used to demonstrate Proofmark attestation. |
-| 2026-11-06 15:52:34 | [io.usefulapi/agencyzoom](https://github.com/m190/usefulapi-mcp) | AgencyZoom MCP by usefulapi | 1.7.4 | Read leads, customers, policies and tasks; add notes, tasks and leads in Agency… |
-| 2026-11-06 15:55:43 | com.numeroclaw/readings | NumeroClaw | 1.0.0 | Order a personalized numerology reading, paid by the person and delivered by em… |
-| 2026-11-06 15:57:47 | [io.github.Voopa-Corp/render-check](https://github.com/Voopa-Corp/render-check) | VOOPA Render Check | 0.2.0 | Review an existing fal video and decide whether to edit, retry once, or change… |
-| 2026-11-06 16:00:05 | [io.github.FlamesCN/ancient-echoes-mcp](https://github.com/FlamesCN/ancient-echoes-mcp) | Ancient Echoes | 1.0.0 | Deterministic BaZi and Chinese metaphysics tools for AI agents: charts, divinat… |
-| 2026-11-06 16:03:11 | com.get4agent/market | get4agent | 1.0.0 | Catalog of services and data APIs for AI agents, plus free KZ IIN/IBAN, LEI, FX… |
-| 2026-11-06 16:05:14 | com.get4agent/marketplace | get4agent | 1.1.0 | Catalog of services and data APIs for AI agents, plus free KZ IIN/IBAN, LEI, FX… |
-| 2026-11-06 16:07:08 | [io.github.czekaj/sf-transit-mcp](https://github.com/czekaj/sf-transit-mcp) | SF Bay Area Transit MCP | 0.1.0 | Plan San Francisco and Bay Area transit trips and check upcoming stop departure… |
-| 2026-11-06 16:09:26 | io.github.JusticeUA/ukraine-company-check | Ukraine Company Check | 0.1.0 | Due diligence on Ukrainian companies by EDRPOU: bankruptcy, debts, corruption,… |
-| 2026-11-06 16:11:33 | io.github.JusticeUA/estonia-company-check | Estonia Company Check | 0.1.0 | Estonia company checks: status, insolvency, LEI and sanctions from official reg… |
-| 2026-11-06 16:11:33 | io.github.JusticeUA/finland-company-check | Finland Company Check | 0.1.0 | Finland company checks: status, insolvency, LEI and sanctions from official reg… |
-| 2026-11-06 16:11:35 | io.github.JusticeUA/latvia-company-check | Latvia Company Check | 0.1.0 | Latvia company checks: status, insolvency, LEI and sanctions from official regi… |
-| 2026-11-06 16:11:35 | io.github.JusticeUA/singapore-company-check | Singapore Company Check | 0.1.0 | Singapore company checks by UEN: status, insolvency, LEI and sanctions from off… |
-| 2026-11-06 16:12:11 | [dev.secretvoice/mcp](https://github.com/saudiodev/secretvoice-mcp) |  | 1.0.0 | Intimate voice AI: 29 voices, 22 languages, emoji vocal cues, multi-voice scene… |
-| 2026-11-06 16:14:37 | info.3dcms/mcp | 3dCMS | 1.3.0 | Build a real 3D website by chatting: pages, models and text in space, published… |
-| 2026-11-06 16:19:00 | app.ilkal/boards | Boards, from Ilkal | 1.0.0 | An infinite canvas where people and AI agents edit boards together. Every edit… |
-| 2026-11-06 16:19:09 | com.cueston/cueston | Cueston | 1.0.0 | Build product tours, tooltips, banners, checklists and surveys in your SaaS app… |
-| 2026-11-06 16:20:07 | [com.grafizum/grafizum-command-center](https://github.com/grafizum/grafizum-dashboard) | Grafizum Command Center | 1.1.0 | Private workspace for projects, tasks, calendar and memory, with approvals on e… |
-| 2026-11-06 16:20:39 | [io.github.kfx2026/sanyu-research](https://github.com/kfx2026/sanyu-research-mcp) | SanYu Research Engine | 1.0.0 | 100+ deterministic medical research engines: stats, survival, bioinformatics, p… |
+| 2026-11-06 16:23:02 | [io.github.waanvar/samong](https://github.com/waanvar/samong) | Samong | 0.7.0 | Search your own Markdown notes, including languages written without spaces betw… |
+| 2026-11-06 16:24:03 | [finance.fibrous/fibx](https://github.com/Fibrous-Finance/fibx) | FibX | 0.10.2 | Swap, transfer, portfolio and Aave V3 on Base, HyperEVM and Monad, with the Fib… |
+| 2026-11-06 16:24:23 | io.github.Sirbiscuits1/janus-pay | Janus Pay | 1.0.2 | Take payments in BSV, SOL, HYPE or BELLS that settle in BSV, and refund them. |
+| 2026-11-06 16:24:58 | [io.github.Brevio-Ventures/brevio-core](https://github.com/Brevio-Ventures/brevio-core) |  | 0.6.0 | Zero-token code rules for coding agents: scan, explain a rule, learn a guard. L… |
+| 2026-11-06 16:26:41 | com.casso-websites/casso | Casso Websites | 1.0.0 | Publish websites and small apps your agent writes: free hosting, accounts, data… |
+| 2026-11-06 16:30:24 | [ai.counterparts/memory](https://github.com/mlapeter/counterparts) | Counterparts | 0.3.47 | Local-first memory for AI: it interprets, forgets on purpose, and keeps a self… |
+| 2026-11-06 16:30:55 | ai.near.market/agent-market | Agent Market | 1.0.0 | Find AI agents for a task, brief one, and follow the job to its result. |
+| 2026-11-06 16:32:10 | com.redlisten/reddit | Redlisten Reddit | 1.1.0 | Search, monitor and measure Reddit posts and comments. Keyword preview works wi… |
+| 2026-11-06 16:35:51 | io.aperiodic/market-data | Aperiodic Market Data | 1.0.0 | Crypto & RWA microstructure, liquidity, flow and raw data via Parquet; live met… |
+| 2026-11-06 16:41:40 | com.creatorsxbrands/cxb | Creators x Brands: UGC creators who are… | 0.3.0 | Real TikTok creators who are your customer, like ER nurses or sales reps, check… |
+| 2026-11-06 16:42:13 | [io.github.SamuelDharshi/proofmark-files](https://github.com/SamuelDharshi/Proofmark) | Proofmark Files | 1.0.0 | Read-only access to one folder: list directories and read text files inside a r… |
+| 2026-11-06 16:42:54 | [ai.heliyos/heliyos-mcp](https://github.com/heliyos-ai/heliyos-mcp) | Heliyos | 1.0.3 | Heliyos, the AI operating system for revenue: records, notes, tasks, Scouts and… |
+| 2026-11-06 16:43:28 | com.dumbstruck/dumbstruck | Dumbstruck | 1.0.0 | Your team's Dumbstruck ad-testing results: Resonance Scores, drivers, audiences… |
+| 2026-11-06 16:45:21 | [io.github.DocuPipe/docupipe-mcp](https://github.com/DocuPipe/docupipe-mcp) | DocuPipe | 0.1.0 | Upload documents and extract structured JSON from Claude Code, Codex, Cursor an… |
+| 2026-11-06 16:46:11 | io.pocketshare/pocketshare | PocketShare | 0.1.0 | Rent a real Android phone: install your build, see the screen, tap, type and re… |
+| 2026-11-06 16:48:17 | com.uibrik/components | uibrik | 1.0.0 | Search 267 animated React components and get their props and source to install… |
+| 2026-11-06 16:50:35 | [dev.ndekocode.ui/ndekoui](https://github.com/NdekoCode/ndekoui) | ndekoui | 1.0.0 | Search, read and install ndekoui React components, blocks and templates with th… |
+| 2026-11-06 16:51:45 | com.getkanal/kanal | Kanal | 1.0.0 | WhatsApp marketing for Shopify: read stats, build segments, templates and campa… |
+| 2026-11-06 16:52:51 | app.roomlab/roomlab | RoomLab.app | 0.4.7 | Virtual Staging, Declutter Room, Change Style and room videos from your propert… |
+| 2026-11-06 16:54:30 | net.geophysx/geophysx | GeophysX | 1.0.0 | Well log analysis: import LAS/DLIS, run petrophysics, build log plots and repor… |
+| 2026-11-06 16:56:47 | io.github.stratus-consulting/stratus-decide | DECIDE: Data Migration Discovery Valida… | 0.3.0 | Reviews a data migration's Discovery findings and returns risks, each with a ne… |
+| 2026-11-06 16:57:48 | com.delilahusa/legislation | Delilah | 0.7.3 | Live U.S. bills, roll-call votes, legislators and statutes for all 50 states, D… |
+| 2026-11-06 17:02:44 | [com.trademarkscreen/trademark-clearance-mcp](https://github.com/trademarkscreen/trademark-clearance-mcp) | Trademark Screen | 0.11.6 | Screen a brand name against the USPTO federal register — sound, class, live sta… |
+| 2026-11-06 17:05:01 | tech.halfpoint/sports-odds | HalfPoint | 1.0.0 | No-vig consensus odds, bet-stops, fixtures, live scores and grades: NFL, NBA, M… |
+| 2026-11-06 17:06:24 | app.thresholdlink/thresholdlink | ThresholdLink | 0.1.0 | Connect Intervals.icu to Claude and ChatGPT: read training, plan workouts. Trai… |
+| 2026-11-06 17:10:45 | com.jpverify/jpverify | JPVerify | 0.5.0 | Japan company, T-number, address and invoice/receipt/card OCR checks, paid per… |
+| 2026-11-06 17:11:34 | [io.github.joachimglassell-ship-it/historical-edge](https://github.com/joachimglassell-ship-it/machine-job-fishing-net) | Historical Edge | 1.0.0 | Precomputed, source-traced historical equity study results for AI agents; not t… |
+| 2026-11-06 17:12:37 | [io.github.MeltFlexDevs/meltflex](https://github.com/MeltFlexDevs/skills) | MeltFlex AI | 0.6.0 | AI interior design — restyle rooms, place furniture, and virtually stage spaces… |
+| 2026-11-06 17:13:31 | [com.eventdorm/eventdorm](https://github.com/Tixdorm/tixdorm) | EventDorm | 0.2.0 | Read and manage your EventDorm events, sales, attendees, and check-ins. |
 
 ## Data source
 
