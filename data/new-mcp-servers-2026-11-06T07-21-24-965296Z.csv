@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-11-06T06:21:44.30622Z,com.berthtime/berthtime,BerthTime,1.0.0,,streamable-http,"Track ocean containers and shipments: live ETAs, delays, carrier events and share links."
+2026-11-06T06:23:51.806051Z,dev.recoupable/recoup,Recoup: AI agents for the music industry,1.0.0,https://github.com/recoupable/api,streamable-http,"Music industry tools for AI agents: artist research, catalogs, release plans and content."
+2026-11-06T06:24:09.997399Z,co.glpcompare/glp1-prices,GLPcompare: US GLP-1 cash prices,1.0.0,,streamable-http,"US GLP-1 cash prices by seller, ranked per 30 days, with check dates and source pages."
+2026-11-06T06:26:33.168921Z,io.github.JC7333/mandatia,AMR (Agent Mandate Registry),0.1.1,https://github.com/JC7333/amr,,"Records who authorized an AI agent to do what, until when; signed tokens, hash-chained journal."
+2026-11-06T06:26:49.195651Z,com.queuecallback/mcp,Queue CallBack,1.0.0,,streamable-http,"Reporting, callback operations, queue settings and Custom IVR flows for RingCentral call queues."
+2026-11-06T06:27:26.033854Z,io.github.Servosity/vsphere-mcp,VMware vSphere MCP,0.1.0,https://github.com/servosity/msp-skills,,"Read-only vCenter inventory for migration planning: blockers, snapshots, per-core licence exposure"
+2026-11-06T06:30:22.489179Z,io.github.nansa1/bharat-mcp,Bharat MCP,0.4.0,https://github.com/nansa1/bharat-mcp,,"India tools: GST invoices and official GST rates, HSN/SAC search, UPI and bank statement analysis"
+2026-11-06T06:32:55.554616Z,io.github.rmngl/runchr,runchr,0.1.0,https://github.com/rmngl/runchr.com,streamable-http,"A curated registry of agent stacks: search by job, get the tools, prompt, and install plan."
+2026-11-06T06:40:28.303122Z,ai.yourmelody/song-gifts,YourMelody,1.0.0,,streamable-http,"Prepare a personalized song brief, find real sample tracks, and finish your gift on YourMelody."
+2026-11-06T06:41:01.801904Z,cn.com.bioinformatics/weishengxin,Weishengxin — 微生信,1.0.0,,streamable-http,Scientific plotting for bioinformatics with about 160 free modules. Anonymous access supported.
+2026-11-06T06:44:42.138798Z,ai.imagera/imagera,Imagera,1.0.0,,streamable-http,"Generate and edit images, video, voice and music, and upscale media on Imagera credits."
+2026-11-06T06:47:43.88516Z,com.revclamp/b2b-domain-contact-enricher-mcp,RevClamp ContactPulse - B2B Domain Contact & DNS Deliverability,1.0.0,https://github.com/lhphong09t2/revclamp-mcp,,"B2B domain contact, RFC 9116 security.txt, and DNS MX/SPF/DMARC deliverability enricher."
+2026-11-06T06:49:00.707528Z,org.btcintel/btc-intel,BTC Intel,1.0.0,,streamable-http,Bitcoin market-state Score (0-100): free delayed reads; live Score $0.25 per call via Lightning
+2026-11-06T06:58:24.181665Z,com.timetrakkr/time-trakkr,Time Trakkr,1.0.0,,streamable-http,"Time tracking, budgets, profitability and invoicing for agencies, plus AI agent time tracking."
+2026-11-06T07:00:28.401982Z,com.rwaleads/rwa-leads,RWA Leads,2.3.0,,streamable-http,"Scored real-world-asset and tokenization signals, Swiss-first, with source-cited briefs."
+2026-11-06T07:02:23.911565Z,io.github.chutingyean/agent-cockpit,Agent Cockpit,0.1.0,https://github.com/chutingyean/Agent-Cockpit,,Evidence-chain whiteboard for AI research agents: every claim traces back to its run and code.
+2026-11-06T07:03:24.6192Z,io.github.johntony1/site-prompt,,0.2.1,https://github.com/johntony1/site-prompt,,"Point at any part of a website and get a prompt that rebuilds it 1:1, or see how it is made."
+2026-11-06T07:07:10.954203Z,ai.ohmyfin/invoice,,1.0.0,,streamable-http,"Cross-border invoices for AI agents: parties screened, VAT ID checked, EN 16931 e-invoice in PDF."
+2026-11-06T07:07:11.440593Z,ai.ohmyfin/sanctions,,1.0.0,,streamable-http,"Sanctions and export-control screening for AI agents: 320+ watchlists, transliteration, HS and ECCN."
+2026-11-06T07:16:47.281099Z,cloud.doner/hypnotic-patterns,Learn Python with Hypnotic Patterns,1.0.0,,streamable-http,"Learn Python by building glowing math patterns: lessons, scripts, quiz checks and concepts."
+2026-11-06T07:19:08.620944Z,app.awayfolk/awayfolk,Awayfolk,0.5.0,,streamable-http,Plan trips together.
+2026-11-06T07:20:37.515986Z,io.github.Blahaj-gif/hitl-finance-mcp,Finance MCP,0.5.0,https://github.com/Blahaj-gif/Finance-mcp,,"Market data, SEC filings and risk tools for Webull, Saxo and IBKR. Only you can send an order."
