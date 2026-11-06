@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-11-06T00:26:46.944112Z,com.mentorshipboss/mentorship-boss,Mentorship Boss,1.0.0,,streamable-http,"Run an Instagram funnel from chat: comment-to-DM, email and text follow-ups, posting, booking calls."
+2026-11-06T00:27:01.151287Z,io.github.Curbi-Inc/curbi,Curbi,0.1.0,,streamable-http,"Check agent replies, lint policies, export regression tests and verify caller-trusted proof bundles."
+2026-11-06T00:29:33.133203Z,com.tensorust/ontology,Tensorust Ontology,0.1.0,,streamable-http,"Who owns and controls US companies, homes and aircraft, and which federal rules apply to them."
+2026-11-06T00:32:05.873499Z,com.transkrio/transkrio,Transkrio,0.1.0,,streamable-http,"YouTube transcripts and video metadata for AI assistants. Text, timestamps, SRT or VTT."
+2026-11-06T00:32:44.005748Z,io.github.Helios-One-Oy/quotedpart,QuotedPart,0.1.0,,streamable-http,Price CNC and sheet metal parts from STEP models or PDF drawings at your job shop's own rates.
+2026-11-06T00:33:55.899901Z,com.ringkit/ringkit,Ringkit,0.0.1,,streamable-http,"Cheapest AI virtual assistant for your business line: $1.99/mo per number, then pay only for usage."
+2026-11-06T00:38:42.550092Z,io.github.noidium/parano1d-mcp,Parano1d node,0.1.4,https://github.com/noidium/parano1d-mcp,,"Local Parano1d node over MCP. Read-only by default; sending needs the opt-in, capped wallet mode."
+2026-11-06T00:46:45.048415Z,io.github.leo2026888/cxhauto-car-prices,CXH AUTO 车小花 · 中国新车与二手车行情,0.9.52,,streamable-http,"China new and used car quotes: dealer/retail references, observed trends and vehicle selection."
+2026-11-06T00:53:37.141968Z,com.mail-cuck/connector,MailCuck,1.1.0,,streamable-http,"Connect any IMAP/SMTP mailbox to Claude & ChatGPT: search, read, sort, draft. Sends only with OK."
+2026-11-06T00:55:39.707081Z,io.github.Servosity/zoom-phone-mcp,Zoom Phone MCP,0.1.0,https://github.com/servosity/msp-skills,,"Zoom Phone admin API plus E911, call routing and desk phone audits across client accounts"
+2026-11-06T00:59:41.555552Z,com.itsparley/parley,Parley,1.0.0,https://github.com/Verbiflow/parley,streamable-http,"WhatsApp for your AI agent, sent from your own number. Source-available (Elastic License 2.0)."
+2026-11-06T01:08:20.41267Z,io.github.Automattic/simplenote-mcp,,2.1.0,https://github.com/Automattic/simplenote-mcp,,"MCP server for reading Simplenote notes across macOS, Linux, and Windows"
+2026-11-06T01:08:28.410814Z,co.gaisho/gaisho,gaisho,2026.11.6,,streamable-http,"Product search, price checks and seller vetting across US online retail, for personal AI agents."
+2026-11-06T01:10:01.162184Z,io.github.Keeno-Corp/paprika3d,"paprika3d (three.js games and 3D pages end to end, for coding agents)",0.4.2,https://github.com/Keeno-Corp/paprika3d,,"Three.js MCP server: build three.js games and 3D pages end to end, from references to a live link"
+2026-11-06T01:11:20.615646Z,io.github.dawnwood-ai/demusic,demusic,0.1.0,https://github.com/dawnwood-ai/demusic,,Remove background music AI video models bake into clips; keep dialogue and SFX.
+2026-11-06T01:13:38.647805Z,io.github.stablevoy/stablevoy-mcp,,0.1.0,https://github.com/stablevoy/stablevoy-mcp,,USDT and USDC invoices and payment checks across your Stablevoy stores. Keys cannot move funds.
+2026-11-06T01:14:53.77988Z,io.github.gazebohq/gazebo,Gazebo,1.0.0,,streamable-http,"Scoped credential retrieval for AI agents, with audit events and revocable future access."
+2026-11-06T01:15:39.318824Z,io.github.Isagoge-Labs/leanwarp,LeanWarp,0.2.5,https://github.com/Isagoge-Labs/LeanWarp-SDK,,"Check and verify Lean 4 proofs on hosted, warm Lean and Mathlib workers."
+2026-11-06T01:17:15.462454Z,io.github.eabnelson/pronto,Pronto,0.6.0,,streamable-http,"Use your Pronto feed, Spaces, Posts, Artifacts, and agents from any MCP client."
+2026-11-06T01:17:36.599221Z,io.github.daniel-munoz/claude-checkpoint-mcp,,0.3.1,https://github.com/daniel-munoz/claude-checkpoint-mcp,,MCP server that checkpoints Claude Code session context to survive crashes and token limits
