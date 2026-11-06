@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-11-06T21:23:30.787143Z,gg.uberbot/uberbot,UberBot,2.0.0,,streamable-http,"The AI admin for Discord: manage channels, roles, members, moderation and automations."
+2026-11-06T21:25:49.722046Z,com.celerapi/celerapi,CelerAPI,0.7.0-rc.1,,streamable-http,"21 paid tools for company and LEI research, SEC filings, FX, time zones and OFAC wallet screening."
+2026-11-06T21:32:10.089921Z,sh.nophi/nophish,nophi.sh,1.0.1,,streamable-http,"Public facts on nophi.sh, phishing-awareness training for French SMBs: catalogue, prices, security."
+2026-11-06T21:34:37.010469Z,ai.workpods/agent-ready-mcp,Agent Ready by WorkPods (hosted),1.0.0,,streamable-http,"Free, no-account checks of any site for search engines, AI answers and AI agents."
+2026-11-06T21:42:12.799416Z,io.github.hermoso-ai/hermoso-ads-manager,Hermoso: Ads Manager,1.0.0,https://github.com/hermoso-ai/hermoso,streamable-http,AI marketing agent for paid ads: run campaigns on 11 ad networks and read your web analytics.
+2026-11-06T21:42:13.03076Z,io.github.hermoso-ai/hermoso-ai-ad-generator,Hermoso: AI Ad Generator,1.0.0,https://github.com/hermoso-ai/hermoso,streamable-http,AI ad generator: make image and video ads for your brand and research the ads competitors run.
+2026-11-06T21:42:13.294818Z,io.github.hermoso-ai/hermoso-social-media-manager,Hermoso: Social Media Manager,1.0.0,https://github.com/hermoso-ai/hermoso,streamable-http,"AI marketing agent for social: post, schedule and answer comments and DMs across 15 channels."
+2026-11-06T21:45:20.197665Z,io.github.Dtsiakas/running-companion,Running Companion,0.2.1,https://github.com/Dtsiakas/running-companion,,"Your own Garmin running and health data: readiness, runs, sleep, trends and patterns. Self-hosted."
+2026-11-06T21:50:50.846449Z,com.kdraigo/mcp,kdraigo,1.27.0,https://github.com/kdraigo/kdraigo_mcp,streamable-http,Your AI writes Go trading strategies; kdraigo backtests them on one-minute Binance and Bybit data.
+2026-11-06T21:56:34.334374Z,ai.linkgents/linkgents,LinkGents,1.0.0,,streamable-http,"Connect Claude, ChatGPT, Muse, Claude Code and Codex to one shared context and one team board."
+2026-11-06T21:56:37.211424Z,io.github.mapbox/mcp-devkit-server,,0.9.0,https://github.com/mapbox/mcp-devkit-server,streamable-http,Provides AI assistants with direct access to Mapbox developer APIs and documentation.
+2026-11-06T21:57:09.412427Z,io.github.DevMomo/bahai-mcp,Bahá’í MCP Server,2.1.0,,streamable-http,"Search Bahá’í texts and read passages in context with source links. Independent, read-only access."
+2026-11-06T21:59:02.870034Z,com.eventualclimate/premium-lock,Eventual Premium Lock,1.0.0,,streamable-http,Quote and buy Eventual's Premium Lock for home and auto insurance premiums.
+2026-11-06T22:00:54.54797Z,io.github.ABGEO/georgia-mcp,Georgia MCP,1.1.0,https://github.com/abgeo/georgia-mcp,streamable-http,"An MCP server for Georgian public data, read from the organizations that publish it."
+2026-11-06T22:07:57.449586Z,io.github.johnisanerd/google-jobs,,1.1.0,,streamable-http,"Google Jobs listings with apply links and full descriptions. Paid, on Apify's hosted MCP."
+2026-11-06T22:08:03.299187Z,com.parcellab/parcellab,parcelLab,3.4.11,,streamable-http,"Configure parcelLab journeys, tracking pages and returns portals, and query delivery analytics."
+2026-11-06T22:08:03.430993Z,com.parcellab/order-status-and-returns,parcelLab Order Status and Returns,3.4.11,,streamable-http,"Look up parcelLab order status, guide return registration, and manage shipment claims."
+2026-11-06T22:08:06.045309Z,io.github.TollWire/evidence-mcp,TollWire Evidence,0.1.2,https://github.com/TollWire/tollwire,,"Tamper-evident evidence log of agent changes, scans and approvals, mapped to ISO 27001/NIS2."
+2026-11-06T22:10:46.808073Z,io.github.JusticeUA/norway-company-check,Norway Company Check,0.1.0,,streamable-http,"Norway company checks: status, insolvency, LEI and sanctions from official registers."
+2026-11-06T22:10:47.329479Z,io.github.JusticeUA/united-kingdom-company-check,United Kingdom Company Check,0.1.0,,streamable-http,"United Kingdom company checks: status, insolvency, LEI and sanctions from official registers."
+2026-11-06T22:10:47.850712Z,io.github.JusticeUA/australia-company-check,Australia Company Check,0.1.0,,streamable-http,"Australia company checks: status, insolvency, LEI and sanctions from official registers."
+2026-11-06T22:10:48.375007Z,io.github.JusticeUA/france-company-check,France Company Check,0.1.0,,streamable-http,"France company checks by SIREN: status, insolvency, LEI and sanctions from official registers."
+2026-11-06T22:10:48.894195Z,io.github.JusticeUA/canada-company-check,Canada Company Check,0.1.0,,streamable-http,"Canada company checks: status, insolvency, LEI and sanctions from official registers."
+2026-11-06T22:12:09.253888Z,io.github.ratedeed/ratedeed,RateDeed,1.1.0,,streamable-http,"Find U.S. contractors, plan home projects and send quote requests to escrow-enabled pros"
+2026-11-06T22:15:22.594668Z,org.hexplace/hexplace,hexplace,1.0.0,,streamable-http,"Open data on ~30,000 European towns: monthly climate, costs, amenities, access, hazards, rankings"
+2026-11-06T22:17:31.561682Z,sh.podbox/podbox,PodBox,1.0.0,,streamable-http,Agents publish audio to your private podcast feed. Listen in your podcast app.
+2026-11-06T22:19:11.081036Z,io.github.TaltonFiggins/boundary-atlas,Boundary Atlas,0.2.0,,streamable-http,"US/Canada boundaries: cities, ZIPs, counties, districts, precincts. Lookups, crosswalks, GeoJSON."
+2026-11-06T22:20:32.788923Z,ai.dataconnector/data-connector,Data Connector,0.1.0,,streamable-http,Read authorized Loam tables and supported external databases through a bounded MCP connection.
