@@ -9,45 +9,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 15:20 UTC
+## Latest list — 2026-11-06 16:22 UTC
 
-New MCP servers published between 2026-11-06 14:20 UTC and 2026-11-06 15:20 UTC.
+New MCP servers published between 2026-11-06 15:20 UTC and 2026-11-06 16:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-06T15-20-19-319054Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-06T16-22-07-450001Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-06 14:21:52 | com.manhourplan/verifai | VerifAI | 1.0.0 | Email verification and domain intelligence for AI agents, including single and… |
-| 2026-11-06 14:21:52 | com.manhourplan/rugshield | RugShield | 1.0.0 | Solana token risk scans for AI agents, with batch scanning and trending-token d… |
-| 2026-11-06 14:21:53 | com.manhourplan/sitedoctor | SiteDoctor | 1.0.0 | Website health, SEO, security-header, SSL and broken-link audits for AI agents. |
-| 2026-11-06 14:25:01 | com.pacpio/mcp | Pacpio | 1.0.0 | A workspace for your AI: keep files and tables in projects, with version histor… |
-| 2026-11-06 14:25:18 | [io.github.nukeguys/toss-invest](https://github.com/nukeguys/toss-invest-sdk) | Toss Invest | 0.4.2 | Access Toss Securities market, account, and opt-in trading APIs through MCP. |
-| 2026-11-06 14:27:48 | com.hotyata/mcp | Hotyata | 1.0.0 | Real estate and classifieds in Batumi & Tbilisi with rooftop geocoding and dupl… |
-| 2026-11-06 14:29:00 | eg.com.ngdc.mcp/sales |  | 0.1.0 | NGDC service catalog and non-binding monthly content fee estimates. |
-| 2026-11-06 14:30:34 | dev.tesseralytics/hyperliquid-data | Hyperliquid Cross-Sectional Analytics (… | 0.2.0 | Rank, screen and compare the Hyperliquid perp universe on a completed day. |
-| 2026-11-06 14:32:20 | [io.github.LeonTing1010/tap](https://github.com/LeonTing1010/tap) | Tap | 0.30.1 | Browser MCP for logged-in tasks. Uses your Chrome — credentials stay local. Zer… |
-| 2026-11-06 14:35:11 | com.skilltage/skilltage | Skilltage | 1.0.0 | Recruitment workspace: openings, CV evidence, candidate review and recruiter-se… |
-| 2026-11-06 14:35:58 | [io.nablaz/reader](https://github.com/cyninzf/nablaz-sdk) |  | 0.1.0 | Read NablaZ's open record: agent actions under permission, cited onchain. Evide… |
-| 2026-11-06 14:36:58 | com.clawhard/tick | Tick | 1.0.0 | Next cron run times in any IANA timezone, with DST gap and fold warnings. |
-| 2026-11-06 14:38:28 | [io.github.YashLimbani/stackexchange-mcp](https://github.com/YashLimbani/stackexchange-mcp) |  | 0.1.0 | An MCP server that provides [describe what your server does] |
-| 2026-11-06 14:40:37 | ai.rindee/rindee | Rindee | 1.0.0 | AI phone agents for service businesses: calls, appointments, contacts, agents a… |
-| 2026-11-06 14:44:37 | net.hyperframes/hyperframes | HyperFrames | 1.0.0 | Generate images and video from Claude with one API key. |
-| 2026-11-06 14:45:30 | [io.github.Goatleaf12/jolt](https://github.com/Goatleaf12/jolt) |  | 1.0.0 | Read JOLT season state, solve CORE RUSH boards, build unsigned claim calldata.… |
-| 2026-11-06 14:47:26 | [io.github.Servosity/windows-server-mcp](https://github.com/servosity/msp-skills) | Windows Server MCP | 0.1.0 | Agentless Windows Server health checks over WinRM: one verdict per server, a di… |
-| 2026-11-06 14:49:06 | com.carbonmeld/carbonmeld | CarbonMeld | 1.0.0 | Read-only carbon credit project ratings, registry facts, offer checks and buyer… |
-| 2026-11-06 14:52:11 | [io.github.GuruPDF/gurupdf-mcp](https://github.com/GuruPDF/gurupdf-mcp) | GuruPDF | 0.1.5 | Convert, compress & merge PDFs and 100+ file formats from any AI agent. By Guru… |
-| 2026-11-06 14:54:06 | com.pastcharts/charts | PastCharts | 1.0.0 | Free daily history of App Store and Google Play top charts and Google Trends se… |
-| 2026-11-06 14:55:54 | io.github.AndresMuelas2004/cokarta | CoKarTa | 1.0.0 | Log meals and read your nutrition diary from Claude or ChatGPT. |
-| 2026-11-06 14:56:14 | com.kafdesk/kafdesk-mcp | KafDesk | 0.2.8 | Apache Kafka for AI agents: topics, records, consumer lag and schemas. Read-onl… |
-| 2026-11-06 15:00:17 | com.boatwakr/boatwakr | BoatWakr | 1.9.0 | Search, quote and book boat rentals and captained charters on BoatWakr. |
-| 2026-11-06 15:00:31 | ai.fotogenic/mcp | Fotogenic AI | 0.1.0 | Create product photos, on-model images, ad visuals and short videos from one pr… |
-| 2026-11-06 15:04:05 | com.feedsquad/feedsquad | FeedSquad | 1.5.2 | Schedule and publish to LinkedIn, X, and Threads from your AI. Content calendar… |
-| 2026-11-06 15:07:25 | [io.github.romero927/kgromero-mcp](https://github.com/romero927/kgromero-mcp) | Kyle Romero (kgromero.com) | 0.1.0 | Ask about Kyle Romero's experience, skills, projects, and portfolio from kgrome… |
-| 2026-11-06 15:07:35 | cz.mdflow/mcp | MDflow | 1.0.2 | Markdown workspace for AI agents: read, write, organize, and share markdown doc… |
-| 2026-11-06 15:07:41 | com.digitalocean/mcp | DigitalOcean | 0.1.0 | Build, deploy, manage, and troubleshoot applications and infrastructure on Digi… |
-| 2026-11-06 15:08:42 | [io.github.Nomannazir/codebase-brain-mcp](https://github.com/Nomannazir/codebase-brain-mcp) | Codebase Brain | 0.1.0 | Cited, searchable memory of a codebase: hybrid search, git history, impact anal… |
-| 2026-11-06 15:19:11 | com.163yu/hetianyu | 御府和田玉 在售作品查询 | 2.0.0 | Live in-stock Hetian jade carvings from Yufu, Shanghai: prices, awards with sou… |
-| 2026-11-06 15:19:56 | com.marathonscout/races | Marathon Scout | 1.0.0 | Marathons, halves and ultras worldwide: dates, entry status, official results a… |
+| 2026-11-06 15:22:06 | [io.github.danvolsky-source/normot](https://github.com/danvolsky-source/normot-mcp) | NORMOT — Israeli building norms | 0.1.0 | Israeli building and planning norms: permits, fire, accessibility; Hebrew text,… |
+| 2026-11-06 15:23:25 | com.tamingdns/mcp | TamingDNS | 1.0.0 | Check SPF, DKIM, DMARC, MX, MTA-STS, TLS-RPT, BIMI, DANE and DNSSEC, and analys… |
+| 2026-11-06 15:23:32 | uk.co.pocketly/offers | Pocketly: UK switching offers | 1.0.0 | UK current-account switching offers from each bank's own terms, and a planner f… |
+| 2026-11-06 15:27:41 | com.holydb/holydb-mcp |  | 1.1.0 | Mass.nyc: find Catholic Mass and Confession times near a place in New York City. |
+| 2026-11-06 15:28:10 | [io.github.Surface-ops/groundlock-mcp](https://github.com/Surface-ops/groundlock-mcp) | GroundLock | 0.1.0 | Claim check for agents: supported, refuted or unverifiable with sources. Canada… |
+| 2026-11-06 15:29:26 | [io.github.akfamily/akquant](https://github.com/akfamily/akquant) | AKQuant | 0.3.78 | Write and backtest trading strategies with AKQuant: API lookup, strategy checks… |
+| 2026-11-06 15:36:53 | cloud.imado/mail | imado | 1.0.0 | Read mail on your own domain, write drafts and tag conversations. It can't send. |
+| 2026-11-06 15:37:02 | com.onbriefing/onbriefing | OnBriefing | 0.3.0 | Check creator videos (TikTok, Instagram, YouTube) against a campaign brief, wit… |
+| 2026-11-06 15:39:07 | app.clubpal/clubpal | ClubPal | 1.0.0 | Read-only access to a ClubPal club's members, renewals, sessions, bookings and… |
+| 2026-11-06 15:42:20 | [io.github.Echolonius/boardcheck](https://github.com/Echolonius/boardcheck) | Boardcheck | 0.7.0 | Flags deceptive signals in AI-agent marketplace listings, from fake engagement… |
+| 2026-11-06 15:42:45 | ai.loadoptimizer/loadoptimizer | LoadOptimizer | 1.4.0 | Plan truck, container and pallet loads in 3D with a real optimization engine. |
+| 2026-11-06 15:43:06 | [io.github.janko-vrbnjak/sef-mcp](https://github.com/janko-vrbnjak/sef-mcp) | SEF e-fakture (Srbija) | 0.4.0 | Serbian SEF e-invoicing from Claude: drafts, approval before sending, status, c… |
+| 2026-11-06 15:43:12 | gg.duoly/gaming | Duoly | 0.1.0 | Find paid gaming teammates and coaches: games, prices, availability and Duoly b… |
+| 2026-11-06 15:44:24 | io.github.PayInOne/pio | PIO Team | 1.0.0 | Read-only, permission-scoped PIO team workflows for payments, payroll and emplo… |
+| 2026-11-06 15:44:25 | io.github.PayInOne/pio-public | PIO Public Information and Cost Estimat… | 1.0.0 | Public PIO product information and hypothetical employment-cost estimates. No a… |
+| 2026-11-06 15:46:08 | com.jokestack/jokestack | JokeStack | 1.0.0 | Find open mics and comedy events, and the regular open mics comedians know abou… |
+| 2026-11-06 15:46:31 | [io.github.jklop3841/agentarchitect-network](https://github.com/jklop3841/agentarchitect-site) | AgentArchitect Network | 0.3.0 | Find public AI project notices, search agent requests and submit moderated anno… |
+| 2026-11-06 15:46:35 | io.github.Nathan-Roll1/california-traffic-school | California Licensing Education | 0.2.1 | English California traffic-school and court guidance with sources and review da… |
+| 2026-11-06 15:51:10 | com.warstrikes/warstrikes | WarStrikes | 1.0.0 | Live conflict reports traced to source: strikes, attacks and military activity,… |
+| 2026-11-06 15:52:00 | [io.github.SamuelDharshi/proofmark-demo-server](https://github.com/SamuelDharshi/Proofmark) |  | 1.0.0 | A small filesystem MCP server used to demonstrate Proofmark attestation. |
+| 2026-11-06 15:52:34 | [io.usefulapi/agencyzoom](https://github.com/m190/usefulapi-mcp) | AgencyZoom MCP by usefulapi | 1.7.4 | Read leads, customers, policies and tasks; add notes, tasks and leads in Agency… |
+| 2026-11-06 15:55:43 | com.numeroclaw/readings | NumeroClaw | 1.0.0 | Order a personalized numerology reading, paid by the person and delivered by em… |
+| 2026-11-06 15:57:47 | [io.github.Voopa-Corp/render-check](https://github.com/Voopa-Corp/render-check) | VOOPA Render Check | 0.2.0 | Review an existing fal video and decide whether to edit, retry once, or change… |
+| 2026-11-06 16:00:05 | [io.github.FlamesCN/ancient-echoes-mcp](https://github.com/FlamesCN/ancient-echoes-mcp) | Ancient Echoes | 1.0.0 | Deterministic BaZi and Chinese metaphysics tools for AI agents: charts, divinat… |
+| 2026-11-06 16:03:11 | com.get4agent/market | get4agent | 1.0.0 | Catalog of services and data APIs for AI agents, plus free KZ IIN/IBAN, LEI, FX… |
+| 2026-11-06 16:05:14 | com.get4agent/marketplace | get4agent | 1.1.0 | Catalog of services and data APIs for AI agents, plus free KZ IIN/IBAN, LEI, FX… |
+| 2026-11-06 16:07:08 | [io.github.czekaj/sf-transit-mcp](https://github.com/czekaj/sf-transit-mcp) | SF Bay Area Transit MCP | 0.1.0 | Plan San Francisco and Bay Area transit trips and check upcoming stop departure… |
+| 2026-11-06 16:09:26 | io.github.JusticeUA/ukraine-company-check | Ukraine Company Check | 0.1.0 | Due diligence on Ukrainian companies by EDRPOU: bankruptcy, debts, corruption,… |
+| 2026-11-06 16:11:33 | io.github.JusticeUA/estonia-company-check | Estonia Company Check | 0.1.0 | Estonia company checks: status, insolvency, LEI and sanctions from official reg… |
+| 2026-11-06 16:11:33 | io.github.JusticeUA/finland-company-check | Finland Company Check | 0.1.0 | Finland company checks: status, insolvency, LEI and sanctions from official reg… |
+| 2026-11-06 16:11:35 | io.github.JusticeUA/latvia-company-check | Latvia Company Check | 0.1.0 | Latvia company checks: status, insolvency, LEI and sanctions from official regi… |
+| 2026-11-06 16:11:35 | io.github.JusticeUA/singapore-company-check | Singapore Company Check | 0.1.0 | Singapore company checks by UEN: status, insolvency, LEI and sanctions from off… |
+| 2026-11-06 16:12:11 | [dev.secretvoice/mcp](https://github.com/saudiodev/secretvoice-mcp) |  | 1.0.0 | Intimate voice AI: 29 voices, 22 languages, emoji vocal cues, multi-voice scene… |
+| 2026-11-06 16:14:37 | info.3dcms/mcp | 3dCMS | 1.3.0 | Build a real 3D website by chatting: pages, models and text in space, published… |
+| 2026-11-06 16:19:00 | app.ilkal/boards | Boards, from Ilkal | 1.0.0 | An infinite canvas where people and AI agents edit boards together. Every edit… |
+| 2026-11-06 16:19:09 | com.cueston/cueston | Cueston | 1.0.0 | Build product tours, tooltips, banners, checklists and surveys in your SaaS app… |
+| 2026-11-06 16:20:07 | [com.grafizum/grafizum-command-center](https://github.com/grafizum/grafizum-dashboard) | Grafizum Command Center | 1.1.0 | Private workspace for projects, tasks, calendar and memory, with approvals on e… |
+| 2026-11-06 16:20:39 | [io.github.kfx2026/sanyu-research](https://github.com/kfx2026/sanyu-research-mcp) | SanYu Research Engine | 1.0.0 | 100+ deterministic medical research engines: stats, survival, bioinformatics, p… |
 
 ## Data source
 
