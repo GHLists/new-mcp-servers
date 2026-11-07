@@ -1,0 +1,69 @@
+created_at,server,title,version,repository,transports,description
+2026-11-07T21:28:46.909512Z,io.github.rohan-protocol/mcp,Rohan Protocol MCP,0.8.0,https://github.com/rohan-protocol/sdk,,Stateless zero-knowledge trust gateway and WebMCP shield for AI agents on Midnight.
+2026-11-07T21:29:01.699878Z,io.github.itsryanarmani/agentsandboxes,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,A neutral index of cloud sandboxes for AI agents.
+2026-11-07T21:29:10.988597Z,com.ninthlifelab/catalog,Ninth Life Lab,1.0.0,,streamable-http,"Match a business to ready-made AI assistants for SMEs; search the catalog, in English or Turkish."
+2026-11-07T21:29:11.022538Z,io.github.itsryanarmani/agentwalletindex,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Wallets and rails that let AI agents spend money safely.
+2026-11-07T21:29:11.263998Z,io.github.itsryanarmani/aiagencies,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find an AI agency for your next project.
+2026-11-07T21:29:11.502959Z,io.github.itsryanarmani/aigovernancetools,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,"Compare AI governance, risk and compliance software."
+2026-11-07T21:29:11.736559Z,io.github.itsryanarmani/apostilles,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find the government office that issues your apostille.
+2026-11-07T21:29:11.958946Z,io.github.itsryanarmani/auctionfinder,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,"Auction houses, online auctions and government surplus."
+2026-11-07T21:29:12.210738Z,io.github.itsryanarmani/blogbat,,1.0.0,https://github.com/itsryanarmani/blogbat,streamable-http,"Hosted MCP for BlogBat: read, write, generate, and publish blog articles and content."
+2026-11-07T21:29:12.448775Z,io.github.itsryanarmani/content-rabbit,,0.1.0,https://github.com/itsryanarmani/content-rabbit,streamable-http,"Remote MCP for Content Rabbit: generate, schedule, publish, and analyze social posts."
+2026-11-07T21:29:12.680341Z,io.github.itsryanarmani/creditunions,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Which credit union can you join? Compare eligibility.
+2026-11-07T21:29:12.901899Z,io.github.itsryanarmani/datingcoaches,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Compare dating coaches and matchmakers by city and price.
+2026-11-07T21:29:13.135367Z,io.github.itsryanarmani/doulas,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,"Find a birth, postpartum or end-of-life doula near you."
+2026-11-07T21:29:13.363182Z,io.github.itsryanarmani/drivingschool,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,"Compare driving schools by city: prices, languages, cars."
+2026-11-07T21:29:14.105315Z,io.github.itsryanarmani/eatingdisorder,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find eating disorder treatment programs near you.
+2026-11-07T21:29:14.328277Z,io.github.itsryanarmani/esavendors,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find learning vendors your education fund reimburses.
+2026-11-07T21:29:14.564445Z,io.github.itsryanarmani/fertilityclinics,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,US fertility and IVF clinics from the CDC's public data.
+2026-11-07T21:29:14.815401Z,io.github.itsryanarmani/foreclosurelistings,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,"Where foreclosure sales happen, and who can help, by place."
+2026-11-07T21:29:15.042867Z,io.github.itsryanarmani/french4pr,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,French tests and schools that count for Canadian PR.
+2026-11-07T21:29:15.273241Z,io.github.itsryanarmani/funeralcompare,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Compare funeral homes and cremation providers by what they publish.
+2026-11-07T21:29:15.51064Z,io.github.itsryanarmani/goldenvisas,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find authorised agents for residence and citizenship by investment.
+2026-11-07T21:29:15.73702Z,io.github.itsryanarmani/gpuclouds,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Compare GPU clouds for training and inference.
+2026-11-07T21:29:15.968185Z,io.github.itsryanarmani/immigrationhelp,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find DOJ-authorized immigration legal help near you.
+2026-11-07T21:29:16.255905Z,io.github.itsryanarmani/liquidcooling,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find liquid-cooling vendors for 30-150 kW AI data centers.
+2026-11-07T21:29:16.491528Z,io.github.itsryanarmani/luxurygaragebuilders,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,"Find collector garage builders, car lifts and storage."
+2026-11-07T21:29:16.724501Z,io.github.itsryanarmani/mcpdirectory,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find MCP servers for the work you need to do.
+2026-11-07T21:29:16.96042Z,io.github.itsryanarmani/opioidtreatment,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find methadone and buprenorphine treatment near you.
+2026-11-07T21:29:17.186866Z,io.github.itsryanarmani/peptideclinic,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,"Find a licensed peptide clinic, in person or by telehealth."
+2026-11-07T21:29:17.412619Z,io.github.itsryanarmani/petcremation,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find pet crematories near you and compare what they publish.
+2026-11-07T21:29:17.636515Z,io.github.itsryanarmani/privatedock,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find the right team for your waterfront.
+2026-11-07T21:29:17.868906Z,io.github.itsryanarmani/privateelevators,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,"Find home elevator dealers, installers and service firms."
+2026-11-07T21:29:18.104493Z,io.github.itsryanarmani/privatewellnessrooms,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,"Find home sauna, steam room and cold plunge installers."
+2026-11-07T21:29:18.350432Z,io.github.itsryanarmani/psilocybincenters,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find a state-licensed psilocybin center by city.
+2026-11-07T21:29:18.576072Z,io.github.itsryanarmani/quantumcompanies,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find the companies building quantum technology.
+2026-11-07T21:29:18.799726Z,io.github.itsryanarmani/robotaxis,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,"Where you can ride a robotaxi today, city by city."
+2026-11-07T21:29:19.040332Z,io.github.itsryanarmani/sleepstudies,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find a sleep study clinic or home sleep test near you.
+2026-11-07T21:29:19.267766Z,io.github.itsryanarmani/soberbars,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find alcohol-free bars and bottle shops by city.
+2026-11-07T21:29:19.495299Z,io.github.itsryanarmani/studiofinder,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,"Yoga, pilates, barre, aerial, hoop and pole studios by city."
+2026-11-07T21:29:19.741757Z,io.github.itsryanarmani/supportsheep,,0.1.0,https://github.com/itsryanarmani/supportsheep,streamable-http,Remote MCP server for supportsheep: run AI interviews and manage support content for your blog.
+2026-11-07T21:29:19.976947Z,io.github.itsryanarmani/surrogacyagencies,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find surrogacy agencies and organisations for your journey.
+2026-11-07T21:29:20.212632Z,io.github.itsryanarmani/tmsclinics,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,"Compare TMS clinics, coverage and published costs."
+2026-11-07T21:29:20.439494Z,io.github.itsryanarmani/voiceagents,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,"Compare AI voice agents, AI receptionists and voice AI APIs."
+2026-11-07T21:29:20.672466Z,io.github.itsryanarmani/winecellarbuilders,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find the team for your wine room.
+2026-11-07T21:30:05.336497Z,xyz.careermode/careermode,CareerMode.xyz,1.0.0,,streamable-http,"Log and read your EA SPORTS FC / FIFA career mode save: squad, matches, transfers, stats."
+2026-11-07T21:30:15.64148Z,xyz.guild/guild,Guild.xyz,0.1.0,,streamable-http,"Run a Guild.xyz community: roles, token gating, Discord and Telegram rewards, points and pages."
+2026-11-07T21:33:56.850166Z,com.automateamerica/automate-america,Automate America,1.0.0,,streamable-http,"Find skilled professionals and open work, and act for a member with their consent."
+2026-11-07T21:34:59.602992Z,org.cemresearchproject/cem,CEM,0.1.0,,streamable-http,"CEM's published research on building with AI: definitions, papers, calculators and the CEM Score."
+2026-11-07T21:37:03.434887Z,ai.keepstate/ks,KeepState,0.1.38,https://github.com/Keepstateai/cli,,"Durable agent sessions: start, watch, message and pause KeepState agents; approvals ask a person."
+2026-11-07T21:38:38.27418Z,io.github.FlyTrap-QA/mcp,FlyTrap,0.1.4,https://github.com/FlyTrap-QA/mcp,,"FlyTrap mobile QA results for agents: bugs with evidence, screen graphs, network hosts, SDKs, diffs."
+2026-11-07T21:40:58.460735Z,legal.onyst/rvg,ONYST RVG,1.0.0,,streamable-http,"German lawyers' fees under the RVG, values in dispute and invoices from the ONYST fee engine."
+2026-11-07T21:42:53.220283Z,es.licto/licto,Licto,1.0.0,,streamable-http,"Spanish public procurement: open tenders, contracting bodies and award winners, from official data."
+2026-11-07T21:44:28.881163Z,com.freeytbulktranscripts/free-yt-bulk-transcripts,,1.0.0,,streamable-http,"Bulk YouTube transcripts: playlists and channels, 19 caption languages, TXT/SRT/CSV/Excel."
+2026-11-07T21:48:26.366072Z,org.eduatlas/eduatlas,EduAtlas,1.0.0,,streamable-http,"Live school vacancies from schools' own careers pages, and official school records. Free, no login."
+2026-11-07T21:51:59.170792Z,io.github.agent-runbooks/throng-mcp,throng,0.9.0,https://github.com/agent-runbooks/throng-mcp,,"Hands work to another coding agent over ACP: Claude Code, Codex, OpenCode, Gemini CLI and others"
+2026-11-07T21:52:48.105806Z,io.sparka/live-quiz-poll-wordcloud,Sparka,0.1.0,,streamable-http,"Live quizzes, polls and word clouds inside the slides your AI writes. People join by phone, no app."
+2026-11-07T21:53:42.096338Z,io.github.yybd/telegram-notify-mcp,telegram-notify,0.1.1,https://github.com/yybd/telegram-notify-mcp,,"Send-only Telegram notifications to one fixed chat. No polling, no recipient override, 2 tools."
+2026-11-07T21:55:14.46427Z,com.fogpipe.cloud/mcp,Fogpipe Cloud,0.255.0,,streamable-http,"Run apps, managed Postgres, buckets, a registry and domains on a European cloud."
+2026-11-07T21:57:46.719522Z,run.wield/wield,Wield,0.1.1,,,Websites as tools: runs signed recipes in your own browser session. Logins stay local.
+2026-11-07T21:58:03.133649Z,io.github.amazeng-co/altinkaya-mcp,Altınkaya Enclosures,0.1.0,https://github.com/amazeng-co/altinkaya-mcp,,"Search, filter and compare Altınkaya electronic enclosures and get their CAD files."
+2026-11-07T22:00:38.836183Z,io.github.MakeMyClip/editor,MakeMyClip Editor,0.4.1,https://github.com/MakeMyClip/editor,,"Local video editor: cut silence, edit by transcript, add captions, export to Final Cut or Premiere."
+2026-11-07T22:01:27.919594Z,io.github.JusticeUA/ireland-company-check,Ireland Company Check,0.1.0,,streamable-http,"Ireland company checks by CRO number: status, insolvency, LEI and sanctions from official registers."
+2026-11-07T22:01:28.422587Z,io.github.JusticeUA/united-states-public-company-check,U.S. Public Company Check,0.1.0,,streamable-http,"U.S. public company checks by SEC CIK: filing status, bankruptcy 8-K flag, LEI and sanctions."
+2026-11-07T22:01:29.769723Z,io.github.JusticeUA/japan-company-check,Japan Company Check,0.1.0,,streamable-http,"Japan company checks by corporate number: status, closure cause, successor, LEI and sanctions."
+2026-11-07T22:01:30.321878Z,io.github.JusticeUA/taiwan-company-check,Taiwan Company Check,0.1.0,,streamable-http,"Taiwan company checks by Unified Business Number: tax-registration status, LEI and sanctions."
+2026-11-07T22:01:31.357088Z,io.github.JusticeUA/romania-company-check,Romania Company Check,0.1.0,,streamable-http,"Romania company checks by CUI: status, insolvency, LEI and sanctions from official registers."
+2026-11-07T22:01:56.995773Z,co.newcollab/ugc-creator-search,Newcollab UGC Creator Search,1.0.0,,streamable-http,"Find vetted UGC creators by niche, platform and country for gifting, PR boxes and TikTok ads."
+2026-11-07T22:08:27.282557Z,io.usefulapi/tiltify,Tiltify MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read campaigns, donations and top donor and fundraiser leaderboards in Tiltify."
+2026-11-07T22:19:50.51255Z,com.nomidmdm/nomid-mdm,Nomid MDM,1.0.0,,streamable-http,"Manage Android and VR device fleets: policies, kiosk mode, device commands and enrollment QR codes."
