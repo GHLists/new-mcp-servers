@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-11-07T04:21:32.358503Z,io.github.iancollins27/mailsnail,,0.6.1,https://github.com/iancollins27/mailsnail,streamable-http,"Send USPS letters & certified mail from any agent. Hosted: sign in, no install."
+2026-11-07T04:24:30.93876Z,io.github.majiayu000/markitdown-rs,markitdown-rs,0.2.1,https://github.com/majiayu000/markitdown-rs,,"Convert PDF, Word, Excel, PowerPoint, HTML, EPUB and URLs to Markdown; markitdown-mcp in Rust"
+2026-11-07T04:26:16.015359Z,ai.withby/withby,WithBy,1.0.0,,streamable-http,"Washington's mountain passes, checked every few minutes, and stories about places along the road."
+2026-11-07T04:26:29.570508Z,dev.springroll/springroll,SpringRoll,0.2.0,,streamable-http,"Deploy apps built with Claude Code or Codex, get releases approved, share them in an App Portal."
+2026-11-07T04:26:33.045783Z,com.dialyne/dialyne,Dialyne,1.0.0,https://github.com/dialyne/dialyne-mcp,streamable-http,"Real phone calls in France for AI agents: dial +33 numbers, menus, hold, AI disclosure."
+2026-11-07T04:36:41.809876Z,ai.timefire/record,Timefire,0.1.0,,streamable-http,"Timefire's public record of AI stock forecasts: graded books, track record and proof."
+2026-11-07T04:41:27.406577Z,ai.iglesiacatolica/iglesia,La Iglesia Católica de los Agentes de AI,1.0.0,,streamable-http,"Independent Catholic church for AI agents: daily Mass, readings, saints, Bible, catechism."
+2026-11-07T04:42:54.259221Z,com.openrobotkits/openrobotkits,OpenRobotKits,1.0.0,,streamable-http,"Live prices, stock, sellers for open-source robot kits (SO-101, Stringman). Read-only, no sign-in."
+2026-11-07T04:44:09.502608Z,com.bananacrystal/mcp,"BananaCrystal: FX rates, swaps and payments in 140+ currencies",1.1.0,https://github.com/BananaCrystal/mcp-server-bananacrystal,streamable-http,"Give your AI agent a wallet: live FX rates, swaps and payments in 140+ local currencies."
+2026-11-07T04:49:49.18425Z,io.github.DDTer/roamdial,RoamDial — World Radio Map,1.0.0,,streamable-http,"Explore 1,100+ live world radio stations by country, city, genre, mood, and live ICY track title."
+2026-11-07T04:57:29.472653Z,io.github.Idadabhai/lexpact,LexPact UK Contracts,1.0.0,https://github.com/Idadabhai/lexpact-mcp-server,,"Generate UK-law contracts: NDA, service, freelance, recruiter terms of business, IR35."
+2026-11-07T05:02:14.033245Z,io.github.aptu-dev/aptu-dev,aptu.dev,1.0.0,,streamable-http,Machine-payable API infrastructure for autonomous agents. Per-call x402 settlement in USDC.
+2026-11-07T05:04:44.644802Z,io.github.unpkg/unpkg-mcp,UNPKG,1.0.0,https://github.com/unpkg/unpkg-mcp,streamable-http,"Live npm and UNPKG data for AI agents: resolution, audits, import maps, malware/CVE checks."
+2026-11-07T05:09:41.603568Z,io.github.ayuanxx-max/signoff,,3.9.4,https://github.com/ayuanxx-max/dsh-signoff,,"Five gates that make an agent's 'done' provable: run them, read the verdict, audit the record."
+2026-11-07T05:17:56.59974Z,com.serviche/sergio,Sergio by Serviche,1.0.0,,streamable-http,"Review cleaning-business leads, conversations and tasks; prepare reply drafts for review."

@@ -9,24 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 04:20 UTC
+## Latest list — 2026-11-07 05:21 UTC
 
-New MCP servers published between 2026-11-07 03:20 UTC and 2026-11-07 04:20 UTC.
+New MCP servers published between 2026-11-07 04:20 UTC and 2026-11-07 05:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-07T04-20-29-632159Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-07T05-21-08-201317Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-07 03:26:54 | [uk.co.mooncalendar/mooncalendar-co-uk](https://github.com/pyxlino/mooncalendar-mcp) | Moon Calendar | 1.1.0 | Moon phases, full and new Moon dates, UK moonrise, eclipses, dark skies, tides… |
-| 2026-11-07 03:31:45 | de.jobclerk/jobs | Job Clerk | 1.0.0 | Search and read public physician job adverts in Germany, with employer source l… |
-| 2026-11-07 03:33:41 | com.advocatemcp/advocate | Advocate | 1.10.1 | Find participating local businesses, read published facts, and request a quote,… |
-| 2026-11-07 03:37:33 | com.forevenza.services/gatherbatch | Gatherbatch: Coordinate a multi-supplie… | 1.0.0 | Multi-supplier employee-kit planning, packout scope and project quotes for US d… |
-| 2026-11-07 03:38:12 | co.pressfront/trace | Pressfront Trace | 1.3.0 | Who started a story online, who spread it, what they are saying. X, Bluesky and… |
-| 2026-11-07 03:45:36 | com.bankopenapi/bankopenapi | BankOpenAPI | 1.0.0 | Accept bank transfers in Vietnam: VietQR payment requests, payment status, inco… |
-| 2026-11-07 03:48:05 | com.number7even/website-check | number7even website check | 1.0.0 | Free website check: rebuild preview in every design, AI-readiness test, fixed p… |
-| 2026-11-07 03:49:49 | [io.github.joaoestella/mediasense](https://github.com/joaoestella/mediasense) | mediasense | 0.5.0 | Watch and listen to videos and audio: summarize, transcribe and edit links or f… |
-| 2026-11-07 04:02:52 | top.mailbots/mailbots | MailBots | 1.0.0 | Read verification codes (OTP) and test email sent to your catch-all test hostna… |
-| 2026-11-07 04:13:57 | ai.harny/context | Harny Context | 0.1.0 | A private memory for each person who uses an app. An agent sets it up with no a… |
+| 2026-11-07 04:21:32 | [io.github.iancollins27/mailsnail](https://github.com/iancollins27/mailsnail) |  | 0.6.1 | Send USPS letters & certified mail from any agent. Hosted: sign in, no install. |
+| 2026-11-07 04:24:30 | [io.github.majiayu000/markitdown-rs](https://github.com/majiayu000/markitdown-rs) | markitdown-rs | 0.2.1 | Convert PDF, Word, Excel, PowerPoint, HTML, EPUB and URLs to Markdown; markitdo… |
+| 2026-11-07 04:26:16 | ai.withby/withby | WithBy | 1.0.0 | Washington's mountain passes, checked every few minutes, and stories about plac… |
+| 2026-11-07 04:26:29 | dev.springroll/springroll | SpringRoll | 0.2.0 | Deploy apps built with Claude Code or Codex, get releases approved, share them… |
+| 2026-11-07 04:26:33 | [com.dialyne/dialyne](https://github.com/dialyne/dialyne-mcp) | Dialyne | 1.0.0 | Real phone calls in France for AI agents: dial +33 numbers, menus, hold, AI dis… |
+| 2026-11-07 04:36:41 | ai.timefire/record | Timefire | 0.1.0 | Timefire's public record of AI stock forecasts: graded books, track record and… |
+| 2026-11-07 04:41:27 | ai.iglesiacatolica/iglesia | La Iglesia Católica de los Agentes de AI | 1.0.0 | Independent Catholic church for AI agents: daily Mass, readings, saints, Bible,… |
+| 2026-11-07 04:42:54 | com.openrobotkits/openrobotkits | OpenRobotKits | 1.0.0 | Live prices, stock, sellers for open-source robot kits (SO-101, Stringman). Rea… |
+| 2026-11-07 04:44:09 | [com.bananacrystal/mcp](https://github.com/BananaCrystal/mcp-server-bananacrystal) | BananaCrystal: FX rates, swaps and paym… | 1.1.0 | Give your AI agent a wallet: live FX rates, swaps and payments in 140+ local cu… |
+| 2026-11-07 04:49:49 | io.github.DDTer/roamdial | RoamDial — World Radio Map | 1.0.0 | Explore 1,100+ live world radio stations by country, city, genre, mood, and liv… |
+| 2026-11-07 04:57:29 | [io.github.Idadabhai/lexpact](https://github.com/Idadabhai/lexpact-mcp-server) | LexPact UK Contracts | 1.0.0 | Generate UK-law contracts: NDA, service, freelance, recruiter terms of business… |
+| 2026-11-07 05:02:14 | io.github.aptu-dev/aptu-dev | aptu.dev | 1.0.0 | Machine-payable API infrastructure for autonomous agents. Per-call x402 settlem… |
+| 2026-11-07 05:04:44 | [io.github.unpkg/unpkg-mcp](https://github.com/unpkg/unpkg-mcp) | UNPKG | 1.0.0 | Live npm and UNPKG data for AI agents: resolution, audits, import maps, malware… |
+| 2026-11-07 05:09:41 | [io.github.ayuanxx-max/signoff](https://github.com/ayuanxx-max/dsh-signoff) |  | 3.9.4 | Five gates that make an agent's 'done' provable: run them, read the verdict, au… |
+| 2026-11-07 05:17:56 | com.serviche/sergio | Sergio by Serviche | 1.0.0 | Review cleaning-business leads, conversations and tasks; prepare reply drafts f… |
 
 ## Data source
 
