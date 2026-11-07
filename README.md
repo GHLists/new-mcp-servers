@@ -9,36 +9,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 09:20 UTC
+## Latest list — 2026-11-07 10:21 UTC
 
-New MCP servers published between 2026-11-07 08:21 UTC and 2026-11-07 09:20 UTC.
+New MCP servers published between 2026-11-07 09:20 UTC and 2026-11-07 10:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-07T09-20-37-247358Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-07T10-21-09-637831Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-07 08:22:31 | io.github.zhangduochuan/ailinkany | AiLinkAny | 1.0.0 | Control your authorized Windows computers via OAuth: files, shell, apps, and ta… |
-| 2026-11-07 08:25:41 | com.heyarchetype/archetype | Archetype | 3.7.0 | Your brand for AI agents: tokens, components, templates, voice, assets and a br… |
-| 2026-11-07 08:29:46 | [io.usefulapi/salsa-engage](https://github.com/m190/usefulapi-mcp) | Salsa Engage MCP by usefulapi | 1.0.0 | Search supporters, donations, emails and segments; create or update supporters… |
-| 2026-11-07 08:29:46 | [io.usefulapi/feedletter](https://github.com/m190/usefulapi-mcp) | FeedLetter MCP by usefulapi | 1.0.0 | List surveys, votes and feedback; create surveys and read Wall of Love items in… |
-| 2026-11-07 08:29:46 | [io.usefulapi/pestscan](https://github.com/m190/usefulapi-mcp) | PestScan MCP by usefulapi | 1.0.0 | Read customers, locations, orders, appointments, infestations and bait stations… |
-| 2026-11-07 08:29:46 | [io.usefulapi/membervault](https://github.com/m190/usefulapi-mcp) | MemberVault MCP by usefulapi | 1.0.0 | List courses; add users to courses, remove course access or delete users in Mem… |
-| 2026-11-07 08:29:46 | [io.usefulapi/documint](https://github.com/m190/usefulapi-mcp) | Documint MCP by usefulapi | 1.0.0 | List and read templates; merge field values into PDF documents in Documint. |
-| 2026-11-07 08:37:49 | com.thejqapi/jq-api | The JQ API | 1.0.0 | Free hosted jq MCP server for JSON in AI conversations and API responses. No lo… |
-| 2026-11-07 08:42:49 | [io.github.invarcore/knowledge-fabric](https://github.com/invarcore/knowledge-fabric) | Knowledge Fabric | 0.1.1 | Multi-tenant hybrid RAG & evidence verification MCP server enforcing PostgreSQL… |
-| 2026-11-07 08:43:31 | com.openuncensored/open-uncensored | Open Uncensored | 1.1.0 | Open-weight and abliterated LLMs on one API: compare models and rankings, chat,… |
-| 2026-11-07 08:46:25 | com.gdtf-lights/dmx-to-gdtf | DMX to GDTF | 1.5.0 | Identify a lighting fixture and its DMX mode from a DMX channel list (10,500+ G… |
-| 2026-11-07 08:46:32 | com.superstables/superstables | Superstables | 1.0.0 | Find services, request single purchases and read budgets. Testnet only. |
-| 2026-11-07 08:46:53 | com.newruntime/archive | New Runtime public records | 0.8.0 | AI-engineering archive: search, what is new, forecasts, URL context; paid x402… |
-| 2026-11-07 08:47:25 | [fi.soheil/router](https://github.com/soheil-fi/soheil-router) | Soheil Router | 1.0.0 | Best-price token swaps on EVM networks through a non-custodial contract: quotes… |
-| 2026-11-07 08:49:47 | [com.zeroclickz/zeroclickz](https://github.com/zeroclickz/agent-kit) | ZeroClickz | 1.0.0 | Agents ask other agents for help: post requests, take work, rooms, signed recei… |
-| 2026-11-07 08:53:15 | [io.github.vamzzisme/carry](https://github.com/vamzzisme/carry) | carry | 0.4.1 | Share Claude Code and Codex chats or projects with friends through your own Goo… |
-| 2026-11-07 08:53:50 | app.pitbi/pitbi | Pitbi | 0.1.0 | Trading floor for AI agents: swap practical experience on perps, risk and Decib… |
-| 2026-11-07 08:54:15 | com.sugusite/sugusite | Sugusite | 1.0.0 | Publish websites from AI: create sites, upload HTML/images, access control, cus… |
-| 2026-11-07 08:55:20 | [io.github.fmuecke/windows-sandbox-mcp](https://github.com/fmuecke/windows-sandbox-mcp) | Windows Sandbox MCP | 1.0.0 | Run risky commands in a disposable, offline Windows Sandbox (Windows only, need… |
-| 2026-11-07 09:03:19 | [io.github.tancredesimonin/goflag](https://github.com/tancredesimonin/goflag) | goflag | 0.1.0 | SEO and i18n audit of the site an agent is editing: localhost or protected prev… |
-| 2026-11-07 09:06:12 | io.contentin/linkedin | ContentIn — LinkedIn Ghostwriter | 1.1.0 | Write LinkedIn posts in your voice: ideas, drafts, scheduling, analytics from y… |
-| 2026-11-07 09:10:06 | [io.github.zaxcoraider/agentguard-mcp](https://github.com/zaxcoraider/AgentGuard) | AgentGuard | 0.1.1 | Let an AI agent pay on NEAR through a vault whose spending rules a contract enf… |
+| 2026-11-07 09:22:40 | io.github.johnisanerd/youtube-transcripts |  | 1.1.0 | YouTube video and Shorts transcripts with timestamps. Paid, on Apify's hosted M… |
+| 2026-11-07 09:23:15 | [io.usefulapi/silverfin](https://github.com/m190/usefulapi-mcp) | Silverfin MCP by usefulapi | 1.0.0 | Read companies, periods, trial balances, workflows and reconciliations in Silve… |
+| 2026-11-07 09:25:01 | [io.github.psyb0t/telethon-plus](https://github.com/psyb0t/docker-telethon-plus) | Telethon Plus | 0.6.1 | Self-hosted MCP server: Telegram userbot control (Telethon) via HTTP and MCP. |
+| 2026-11-07 09:30:21 | com.todocrush/todo-crush | TODO Crush | 1.0.0 | AI-powered to-do list: add, list, complete and organise tasks across lists from… |
+| 2026-11-07 09:32:29 | [io.github.hassanaziz0012/only-hiring](https://github.com/hassanaziz0012/only-hiring) | Only Hiring | 1.0.0 | Search scam-scored hiring posts from Reddit's job subreddits: freelance, remote… |
+| 2026-11-07 09:33:15 | [io.usefulapi/fiix](https://github.com/m190/usefulapi-mcp) | Fiix MCP by usefulapi | 1.0.0 | Find, count and read work orders, assets, purchase orders and accounts in Fiix. |
+| 2026-11-07 09:33:15 | [io.usefulapi/azuga](https://github.com/m190/usefulapi-mcp) | Azuga MCP by usefulapi | 1.0.0 | Read driver scores, trips, driving events, vehicle locations and fault codes in… |
+| 2026-11-07 09:33:15 | [io.usefulapi/surelc](https://github.com/m190/usefulapi-mcp) | SureLC MCP by usefulapi | 1.0.0 | Read producers, firms, licenses, appointments, contracts and E&O policies in Su… |
+| 2026-11-07 09:33:15 | [io.usefulapi/gps-insight](https://github.com/m190/usefulapi-mcp) | GPS Insight MCP by usefulapi | 1.0.0 | Read vehicles, positions, idle time, fault codes, driving scores and alerts in… |
+| 2026-11-07 09:33:15 | [io.usefulapi/quartix](https://github.com/m190/usefulapi-mcp) | Quartix MCP by usefulapi | 1.0.0 | Read vehicle and driver positions, trips, trip summaries and groups in Quartix. |
+| 2026-11-07 09:33:16 | [io.usefulapi/orah](https://github.com/m190/usefulapi-mcp) | Orah MCP by usefulapi | 1.0.0 | Read students, rolls and attendance; create and update students, contacts and h… |
+| 2026-11-07 09:33:16 | [io.usefulapi/tourcms](https://github.com/m190/usefulapi-mcp) | TourCMS MCP by usefulapi | 1.0.0 | Read tours, departures, availability, bookings and payments; add booking notes… |
+| 2026-11-07 09:33:16 | [io.usefulapi/rentlio](https://github.com/m190/usefulapi-mcp) | Rentlio MCP by usefulapi | 1.0.0 | Read reservations, guests and folios; check in reservations and add notes in Re… |
+| 2026-11-07 09:33:16 | [io.usefulapi/exely](https://github.com/m190/usefulapi-mcp) | Exely MCP by usefulapi | 1.0.0 | Read hotel bookings, rooms, cancellation rules and daily occupancy in Exely. |
+| 2026-11-07 09:33:16 | [io.usefulapi/webfleet](https://github.com/m190/usefulapi-mcp) | Webfleet MCP by usefulapi | 1.0.0 | Read vehicle positions, trips, events, drivers and orders; create addresses in… |
+| 2026-11-07 09:33:16 | [io.usefulapi/hrworks](https://github.com/m190/usefulapi-mcp) | HR WORKS MCP by usefulapi | 1.0.0 | Read persons, organization units, absences, job postings and applications in HR… |
+| 2026-11-07 09:33:16 | [io.usefulapi/stel-order](https://github.com/m190/usefulapi-mcp) | STEL Order MCP by usefulapi | 1.0.0 | Read clients, invoices, orders and stock; create or update clients, add contact… |
+| 2026-11-07 09:38:01 | com.orglines/orglines | OrgLines | 1.0.0 | Your OrgLines workspace in AI: leads, tasks, notes, mail, invoices. Changes wai… |
+| 2026-11-07 09:39:19 | [si.openany/openany](https://github.com/openanysi/openany-mcp) | OpenAny | 0.1.0 | The marketplace for agents: 168+ AI models, 3,200+ APIs, one key. No subscripti… |
+| 2026-11-07 09:43:40 | [io.github.hqkh4nh/dejared](https://github.com/hqkh4nh/dejared-mcp) |  | 1.2.2 | Java decompiler MCP server. Explore, search, and decompile JAR, WAR, EAR, and A… |
+| 2026-11-07 09:44:47 | [io.usefulapi/superchat](https://github.com/m190/usefulapi-mcp) | Superchat MCP by usefulapi | 1.0.0 | Read conversations, messages, contacts, channels and templates in Superchat. |
+| 2026-11-07 09:44:47 | [io.usefulapi/octadesk](https://github.com/m190/usefulapi-mcp) | Octadesk MCP by usefulapi | 1.0.0 | Search tickets, read conversations and people; create and update tickets and pe… |
+| 2026-11-07 09:44:48 | [io.usefulapi/fmx](https://github.com/m190/usefulapi-mcp) | FMX MCP by usefulapi | 1.0.0 | Read buildings, equipment, inventory, resources, attachments and users in FMX. |
+| 2026-11-07 09:44:48 | [io.usefulapi/woffu](https://github.com/m190/usefulapi-mcp) | Woffu MCP by usefulapi | 1.0.0 | Read users, employment contracts, departments and offices in Woffu. |
+| 2026-11-07 09:44:48 | [io.usefulapi/clearstream](https://github.com/m190/usefulapi-mcp) | Clearstream MCP by usefulapi | 1.0.0 | Read lists, subscribers, tags and texts; send texts and change subscribers in C… |
+| 2026-11-07 09:49:32 | au.com.gnetwork/lotto | G Network Australian Lotto Results | 1.0.0 | Australian lotto results, prize divisions and number statistics for all four na… |
+| 2026-11-07 09:55:13 | com.sxmspa/sunset-spa | Sunset Spa – Sint Maarten | 1.0.0 | Sint Maarten day spa: treatments, prices, live free times and booking requests. |
+| 2026-11-07 09:55:14 | app.hashshot/mcp | HashShot | 1.0.0 | Screenshots, scrolling capture, screen recording, OCR and redaction on your Mac… |
+| 2026-11-07 09:56:41 | uk.co.ontheregister/on-the-register | On the Register | 0.1.0 | Checks weight loss clinics and online pharmacies against the UK regulator regis… |
+| 2026-11-07 09:57:34 | com.influensea/mcp | Influensea | 0.1.0 | Draft in your voice and publish or schedule posts on LinkedIn, X, Threads, Inst… |
+| 2026-11-07 10:00:39 | dev.slicer/competitor-watch | slicer Competitor Watch | 1.0.0 | Read what changed on competitor funnels, with screenshots, ads and emails, and… |
+| 2026-11-07 10:14:42 | [io.github.Albertito-AI/ibol-open-learning](https://github.com/Albertito-AI/Albertito-AI) | IBOL Open Learning: Albert Tan Sin Hon | 1.0.0 | Citation and teaching tools for Insurance-Backed Offshore Liquidity by Albert T… |
 
 ## Data source
 
