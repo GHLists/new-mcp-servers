@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-11-07T11:31:13.523941Z,com.argorant/argorant,Argorant,1.1.0,https://github.com/argorant/argorant-mcp,streamable-http,"Find B2B leads, check every email, write and send campaigns and sort replies from your own AI."
+2026-11-07T11:46:03.783391Z,one.horizontal/services,Tested MCP Servers,0.1.0,,streamable-http,Search the MCP servers of the official registry that were connected to and tested.
+2026-11-07T11:51:22.405226Z,com.killbottleneck/killbottleneck,,1.0.0,https://github.com/tengolabs/killbottleneck,,"Free-to-self-host goal and process maps for humans and AI agents, with REST API and MCP."
+2026-11-07T11:54:24.018693Z,io.github.PatrickPi1312/agent-service-exchange,Agent Service Exchange,0.4.1,https://github.com/PatrickPi1312/agent-service-exchange,streamable-http,Find service providers; send authorised plumbing/heating enquiries in Vienna. No customer account.
+2026-11-07T11:55:52.569018Z,uk.co.reliness/code-utilities,UK Data: Code utilities,1.5.0,,streamable-http,"Deterministic string, list and number routines: palindromes, sorting, searching, validation, merging"
+2026-11-07T11:55:52.629366Z,uk.co.reliness/everyday-calculators,UK Data: Everyday calculators,1.5.0,,streamable-http,"Tips, discounts, age, BMI, calorie needs, grades, GPA and date formatting, with the formula stated"
+2026-11-07T11:55:52.683966Z,uk.co.reliness/finance-formulas,UK Data: Finance formulas,1.5.0,,streamable-http,"Compound and simple interest, investment growth, future value, CAGR, dividends and tax at a rate"
+2026-11-07T11:55:52.745847Z,uk.co.reliness/generators,UK Data: Secure generators,1.5.0,,streamable-http,"Passwords, random numbers and strings, colours, usernames and card draws from a secure random source"
+2026-11-07T11:55:52.805225Z,uk.co.reliness/maths-statistics,UK Data: Maths and statistics,1.5.0,,streamable-http,"Averages, spread, chi-square, regression, primes, factorials, probability, areas and distances"
+2026-11-07T11:55:52.857044Z,uk.co.reliness/science-formulas,UK Data: Science formulas,1.5.0,,streamable-http,"Physics, chemistry and biology formulas: velocity, electric field, resistance, growth, cell density"
+2026-11-07T11:59:37.628452Z,com.fekrestan/public,فکرستان (Fekrestan),1.0.0,,streamable-http,"Public pages of fekrestan.com (Persian learning, grades 3–9) for parents and teachers. Read-only."
+2026-11-07T12:00:20.259473Z,jp.sisa/mcp,SISA,0.1.0,,streamable-http,SISA（現場のインシデント対応）を AI エージェントから使う: 対応中のインシデント・月ごとの件数・傾向分析を聞く／公開 API の仕様を正確に読ませる。
+2026-11-07T12:03:14.026971Z,com.my-pepts/store,My-Pepts,1.0.0,,streamable-http,"Run your My-Pepts research peptide store: products, orders, stock, shipping and settings."
+2026-11-07T12:03:28.075593Z,build.gearlist/gearlist,Gearlist,1.0.0,https://github.com/techhorizonlabs/gearlist,streamable-http,"Free, source-checked directory of AI agent tools, MCP servers and skills, with read-only search."
+2026-11-07T12:05:08.947254Z,de.voltdeal.www/preis-check,VoltDeal Preis-Check,1.0.0,,streamable-http,Technik-Angebote deutscher Shops mit Versand und Einordnung gegen den selbst erfassten Preisverlauf.
+2026-11-07T12:07:12.336318Z,io.github.Ryhus/anki-mcp,Anki MCP,0.1.1,https://github.com/Ryhus/anki-mcp,,"Manage local Anki notes, cards, decks, note types, media, and deck packages via AnkiConnect."
+2026-11-07T12:07:34.280297Z,io.github.sulubeyn/apptrack-ninja-mcp,AppTrack Ninja,1.3.0,https://github.com/sulubeyn/apptrack-ninja-mcp,streamable-http,"App Store and Google Play intelligence: apps, charts, keyword ranks, versions, ads, creatives."
+2026-11-07T12:08:51.992185Z,io.github.craft-agent/signal-tools,,0.1.0,https://github.com/craft-agent/signal-tools,,"Signal tools for coding agents: chats, messages, contacts, received files and sends."
+2026-11-07T12:15:56.123968Z,com.timetableperfect/timetableperfect,TimetablePerfect,1.0.0,,streamable-http,"Import a semester's data into TimetablePerfect and read, generate or publish its timetables."
+2026-11-07T12:16:42.117823Z,app.nenpi/nenpi,"Nenpi - car costs, fuel log and reminders",1.0.0,,streamable-http,"Your Nenpi car log: ask about costs, fuel use and reminders, add fill-ups. Free account at nenpi.app"
+2026-11-07T12:21:15.069922Z,com.cultmath/decision-briefs,CULT+MATH Decision Briefs,1.1.0,,streamable-http,"Sourced, dated evidence for executive decisions: free studies, $495 briefs, paid SEC filing runs."
