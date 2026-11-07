@@ -1,0 +1,11 @@
+created_at,server,title,version,repository,transports,description
+2026-11-07T03:26:54.435868Z,uk.co.mooncalendar/mooncalendar-co-uk,Moon Calendar,1.1.0,https://github.com/pyxlino/mooncalendar-mcp,streamable-http,"Moon phases, full and new Moon dates, UK moonrise, eclipses, dark skies, tides and Moon sign."
+2026-11-07T03:31:45.894038Z,de.jobclerk/jobs,Job Clerk,1.0.0,,streamable-http,"Search and read public physician job adverts in Germany, with employer source links."
+2026-11-07T03:33:41.783046Z,com.advocatemcp/advocate,Advocate,1.10.1,,streamable-http,"Find participating local businesses, read published facts, and request a quote, callback or booking."
+2026-11-07T03:37:33.393499Z,com.forevenza.services/gatherbatch,Gatherbatch: Coordinate a multi-supplier employee-kit project,1.0.0,,streamable-http,"Multi-supplier employee-kit planning, packout scope and project quotes for US deliveries"
+2026-11-07T03:38:12.616959Z,co.pressfront/trace,Pressfront Trace,1.3.0,,streamable-http,"Who started a story online, who spread it, what they are saying. X, Bluesky and more."
+2026-11-07T03:45:36.942666Z,com.bankopenapi/bankopenapi,BankOpenAPI,1.0.0,,streamable-http,"Accept bank transfers in Vietnam: VietQR payment requests, payment status, incoming transactions."
+2026-11-07T03:48:05.384332Z,com.number7even/website-check,number7even website check,1.0.0,,streamable-http,"Free website check: rebuild preview in every design, AI-readiness test, fixed price."
+2026-11-07T03:49:49.696665Z,io.github.joaoestella/mediasense,mediasense,0.5.0,https://github.com/joaoestella/mediasense,,"Watch and listen to videos and audio: summarize, transcribe and edit links or files. Runs locally."
+2026-11-07T04:02:52.248627Z,top.mailbots/mailbots,MailBots,1.0.0,,streamable-http,Read verification codes (OTP) and test email sent to your catch-all test hostnames.
+2026-11-07T04:13:57.042141Z,ai.harny/context,Harny Context,0.1.0,,streamable-http,A private memory for each person who uses an app. An agent sets it up with no account.

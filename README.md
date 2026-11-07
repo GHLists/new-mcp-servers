@@ -9,25 +9,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 03:20 UTC
+## Latest list — 2026-11-07 04:20 UTC
 
-New MCP servers published between 2026-11-07 02:19 UTC and 2026-11-07 03:20 UTC.
+New MCP servers published between 2026-11-07 03:20 UTC and 2026-11-07 04:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-07T03-20-52-000932Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-07T04-20-29-632159Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-07 02:24:07 | [io.github.google/three-live](https://github.com/google/three-live) | Three-Live 3D, CAD & Spatial XR Compiler | 1.3.1 | Compile, lint, simulate (60 Hz), and render 3D scenes from Three.js to GLB, USD… |
-| 2026-11-07 02:30:22 | com.vericto/account | Vericto account (OAuth) | 1.0.0 | Your Vericto workspace over OAuth: setup status, rules, CI reports, docs search… |
-| 2026-11-07 02:44:04 | com.forevenza.services/aseptway | Aseptway: Houston pharmacy cleanroom an… | 1.0.0 | Houston pharmacy cleanroom and hood certification coordination |
-| 2026-11-07 02:45:02 | com.movablecapital.www/cash-rates | Movable Capital: verified cash rates | 1.0.3 | Verified U.S. cash rates (sweeps, savings, money funds, CDs, T-bills), dated, w… |
-| 2026-11-07 02:46:37 | io.github.freelipsync/freelipsync | FreeLipSync | 1.0.0 | Generate lip-synced talking and singing videos from images or videos and audio. |
-| 2026-11-07 02:48:03 | de.mvg-frankfurt/mcp | MVG Frankfurt: Blech und Halbzeuge | 2.0.0 | Sheet metal and stock parts from Frankfurt: prices, DFM feedback with images, l… |
-| 2026-11-07 02:58:10 | [io.github.Servosity/exchange-online-mcp](https://github.com/servosity/msp-skills) | Microsoft Exchange Online MCP | 0.1.1 | Exchange Online admin for MSPs: forwarding audits, EWS posture and offboarding,… |
-| 2026-11-07 03:02:52 | in.vendorlens/visibility-readiness | Visibility Readiness | 0.7.6 | Checks if search engines and AI tools can read your site; evidence plus fixes f… |
-| 2026-11-07 03:05:47 | ai.getverde/verde | Verde | 1.0.0 | Shared, permission-aware memory for teams and their AI: recall, save, and keep… |
-| 2026-11-07 03:07:35 | [app.goldenratio/mcp](https://github.com/truefrontier/goldenratio-mcp) | goldenratio.app | 0.1.1 | Golden-ratio design math: spacer calculator, spacing scale, grid widths, CSS va… |
-| 2026-11-07 03:08:16 | co.productaura/productaura | Product Aura | 0.1.0 | Turn one product photo into listing and ad images for Amazon, Etsy, Shopify and… |
+| 2026-11-07 03:26:54 | [uk.co.mooncalendar/mooncalendar-co-uk](https://github.com/pyxlino/mooncalendar-mcp) | Moon Calendar | 1.1.0 | Moon phases, full and new Moon dates, UK moonrise, eclipses, dark skies, tides… |
+| 2026-11-07 03:31:45 | de.jobclerk/jobs | Job Clerk | 1.0.0 | Search and read public physician job adverts in Germany, with employer source l… |
+| 2026-11-07 03:33:41 | com.advocatemcp/advocate | Advocate | 1.10.1 | Find participating local businesses, read published facts, and request a quote,… |
+| 2026-11-07 03:37:33 | com.forevenza.services/gatherbatch | Gatherbatch: Coordinate a multi-supplie… | 1.0.0 | Multi-supplier employee-kit planning, packout scope and project quotes for US d… |
+| 2026-11-07 03:38:12 | co.pressfront/trace | Pressfront Trace | 1.3.0 | Who started a story online, who spread it, what they are saying. X, Bluesky and… |
+| 2026-11-07 03:45:36 | com.bankopenapi/bankopenapi | BankOpenAPI | 1.0.0 | Accept bank transfers in Vietnam: VietQR payment requests, payment status, inco… |
+| 2026-11-07 03:48:05 | com.number7even/website-check | number7even website check | 1.0.0 | Free website check: rebuild preview in every design, AI-readiness test, fixed p… |
+| 2026-11-07 03:49:49 | [io.github.joaoestella/mediasense](https://github.com/joaoestella/mediasense) | mediasense | 0.5.0 | Watch and listen to videos and audio: summarize, transcribe and edit links or f… |
+| 2026-11-07 04:02:52 | top.mailbots/mailbots | MailBots | 1.0.0 | Read verification codes (OTP) and test email sent to your catch-all test hostna… |
+| 2026-11-07 04:13:57 | ai.harny/context | Harny Context | 0.1.0 | A private memory for each person who uses an app. An agent sets it up with no a… |
 
 ## Data source
 
