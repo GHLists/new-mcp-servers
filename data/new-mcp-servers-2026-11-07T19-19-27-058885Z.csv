@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-11-07T18:27:48.750921Z,io.prospre/nutrients,nutrition-intelligence,0.1.0,,streamable-http,"Proof-backed nutrition facts for foods, branded products and supplements: values, sources, labels."
+2026-11-07T18:27:51.507438Z,io.prospre/prospre,Prospre,1.0.0,https://github.com/prospre/prospre-plugin,streamable-http,"Log food, plan meals, fix the diary, build the grocery list and move macro targets in Prospre."
+2026-11-07T18:41:31.515093Z,com.wildalmonds/wine-weekend,WildAlmonds Wine Weekend,1.0.0,https://github.com/wildalmondz/redux05,streamable-http,"Winery events, weekend guides and wine catalogs for Washington wine regions."
+2026-11-07T18:45:00.147892Z,com.membase/membase,,1.0.1,https://github.com/unibaseio/membase,streamable-http,"Long-term memory for you and your AIs: search memories, read the profile, add facts and documents."
+2026-11-07T18:50:18.81808Z,io.github.nivlewd1/mcp-prompt-optimizer,Prompt Optimizer,3.8.11,https://github.com/nivlewd1/mcp-prompt-optimizer-npm,,Optimize prompts and generate agent SOPs and skill packages with the Prompt Optimizer cloud API.
+2026-11-07T18:52:10.747029Z,app.cashpan/cashpan,CashPan,2.6.5,,streamable-http,Give your AI an allowance: pay approved people within on-chain spending limits.
+2026-11-07T18:53:26.72515Z,io.github.pranjal2410719/dev-mcp,Dev MCP,2.2.0,https://github.com/pranjal2410719/dev-mcp,,AI Engineering Operating System for developer workflows.
+2026-11-07T18:55:12.814163Z,sk.simfa/simfa,SimFa,1.8.0,,streamable-http,"Slovenská fakturácia: faktúry, ponuky, prijaté faktúry, banka a dane cez AI asistenta."
+2026-11-07T18:56:31.470436Z,com.huntautogroup.texas/data,Hunt Auto Group Texas: used car data,1.0.0,,streamable-http,"Read-only used-car data for Texas: NHTSA recalls and crash stars, EPA MPG, size by model year."
+2026-11-07T18:56:31.574796Z,com.huntautogroup.texas/docs,Hunt Auto Group Texas: guides,1.0.0,,streamable-http,"Search and read Texas used-car buying guides (title, tax, inspection, reviews) as Markdown."
+2026-11-07T18:58:31.252532Z,io.usefulapi/good-grants,Good Grants MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read applications, rounds, funds and leaderboards; tag applications in Good Grants."
+2026-11-07T18:58:31.347886Z,io.usefulapi/spektrix,Spektrix MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read events, performances, memberships and order changes in Spektrix."
+2026-11-07T18:58:31.406684Z,io.usefulapi/govdelivery,GovDelivery MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read topics, subscribers and bulletins; set subscriber topics and send bulletins in GovDelivery."
+2026-11-07T18:58:31.454401Z,io.usefulapi/libib,Libib MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read patrons, managers and accounts; create and update patrons in Libib."
+2026-11-07T18:58:32.585476Z,io.usefulapi/charityfundraiser,CharityFundraiser MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read donations, transactions, contacts and events; create and update contacts in CharityFundraiser."
+2026-11-07T18:58:32.688023Z,io.usefulapi/nivoda,Nivoda MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Search the diamond inventory by shape, carat and colour; read diamond details in Nivoda."
+2026-11-07T18:58:32.791406Z,io.usefulapi/complycube,ComplyCube MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"List and create clients, run AML screening checks and read results in ComplyCube."
+2026-11-07T18:58:33.580899Z,io.usefulapi/rentmy,RentMy MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Search rental products, check prices and build carts in RentMy."
+2026-11-07T18:58:33.730492Z,io.usefulapi/recommand,Recommand MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read documents and the inbox, verify Peppol recipients and send invoices in Recommand."
+2026-11-07T18:58:33.825386Z,io.usefulapi/typless,Typless MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,Extract fields from business documents and read extraction results in Typless.
+2026-11-07T19:06:58.75696Z,ai.llpro.agentrecord/agent-record,Agent Record,1.0.0,,streamable-http,"Daily signed census of which MCP tools work, plus a delivery record. Free. No paid ranking."
+2026-11-07T19:07:04.484796Z,lk.seduction/shop,Seduction.lk,1.0.0,,streamable-http,"Shop authentic skincare and beauty in Sri Lanka: search, product details, delivery and cart links."
+2026-11-07T19:07:16.112529Z,ai.campaignpack/campaignpack,,0.1.0,https://github.com/campaignpack/campaignpack-mcp,streamable-http,"Turn a product photo and a brief into a full ad campaign: scripts, stills, client-ready PDF."
+2026-11-07T19:10:14.483389Z,com.nightspar/nightspar,Nightspar,1.0.0,,streamable-http,"Save words from your AI chats as spaced-repetition flashcards, with meanings, IPA and audio."
+2026-11-07T19:10:19.693231Z,ai.llpro.countersign/countersign,Countersign,1.0.0,,streamable-http,"Independent, signed check of AI work: math, quotes, sources, links, code. Public verifiable log."
+2026-11-07T19:10:22.729621Z,io.github.linxule/deepthonk,DeepThonk,0.4.0,https://github.com/linxule/deepthonk,,"Provider-neutral OpenDeepThink reasoning server: generate, judge, rank, mutate."
+2026-11-07T19:12:56.755534Z,io.github.linxule/durable-thinking,Durable Thinking,3.1.4,https://github.com/linxule/durable-thinking,streamable-http,Self-hosted persistent sequential thinking with private history and MCP App visualization.
+2026-11-07T19:16:39.695474Z,io.github.linxule/mineru,MinerU,2.0.0,https://github.com/linxule/mineru-mcp,,"MinerU document parsing API — PDFs, images, DOCX, PPTX with OCR and batch processing."
+2026-11-07T19:17:24.06708Z,io.github.johnbeatty/airogel-editor,Airogel Editor,1.0.0,,streamable-http,"Build and inspect browser-based 3D games: projects, scenes, Lua scripts, assets and publishing."
+2026-11-07T19:18:08.204846Z,gg.transformer/transformer,Transformer,1.0.0,,streamable-http,"Agent-run influencer marketplace on X: find creators, send offers, pay for confirmed posts."
