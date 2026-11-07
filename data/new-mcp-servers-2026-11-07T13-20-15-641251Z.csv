@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-11-07T12:26:00.74399Z,com.hostamir/hosting,Hostamir,2.1.0,,streamable-http,"Web hosting, VPS and .bd domains in Bangladesh: plans, BDT prices and domain availability."
+2026-11-07T12:26:01.643482Z,com.hostamir/account,Hostamir account,2.1.0,,streamable-http,"Manage a Hostamir account: websites, WordPress, SSL, VPS, domains, DNS, invoices and tickets."
+2026-11-07T12:28:31.183051Z,site.slopped/world,slopped.site,2.0.0,,streamable-http; streamable-http,"Read-only tools over slopped.site: AI-made art, lore, games, sites, the curriculum."
+2026-11-07T12:29:26.5898Z,io.github.t3ratech/mcp-session-bridge,,1.4.1,https://github.com/t3ratech/mcp-session-bridge,,"Drive a browser you are already signed into, through the free T3rnel Browser extension."
+2026-11-07T12:32:54.27237Z,com.webba/logo-lab,Webba Logo Lab,1.0.0,,streamable-http,"Free logo maker: pick a design for your business, customise it, download the logo and brand kit."
+2026-11-07T12:36:42.994493Z,de.echocall/echocall,EchoCall,1.19.0,,streamable-http,"Run EchoCall AI phone and chat agents from ChatGPT or Claude: calls, agents, knowledge and numbers."
+2026-11-07T12:44:56.794179Z,io.github.pawelmamcarz/przypominamy,Przypominamy.com SMS,1.4.0,https://github.com/pawelmamcarz/przypominamy-mcp,streamable-http,"Polish SMS & voice gateway for AI agents: send SMS/TTS, pricing, buy credits, contacts, reports."
+2026-11-07T12:46:05.606684Z,rs.hotpath/hotpath-cloud,Hotpath Cloud,1.0.0,,streamable-http,"Read-only access to Rust profiling reports from CI: benchmark history, diffs and policies"
+2026-11-07T12:48:55.085578Z,com.fezola.app/fezola,Fezola,1.0.0,,streamable-http,"Read, search and draft replies across all your mailboxes, Google Chat and Telegram."
+2026-11-07T12:49:04.847475Z,io.github.sincekmori/negirau,,0.3.3,https://github.com/sincekmori/negirau,,"Read-only, anonymous access to the Negirau public API: subjects and their reaction counts."
+2026-11-07T12:49:20.616258Z,com.zodqr/mcp-server,,1.0.0,,streamable-http,Create and manage QR codes with ZodQR.
+2026-11-07T12:55:59.208255Z,io.github.ayuanxx-max/signoff-cli,,4.1.1,https://github.com/ayuanxx-max/signoff-cli,,"Five gates that make an agent's 'done' provable: run them, read the verdict, audit the record."
+2026-11-07T13:01:12.999349Z,il.co.vibecontrol/vibe,Vibe,1.0.0,,streamable-http,"Landing pages, mailing lists, signup forms and email campaigns in Vibe"
+2026-11-07T13:05:45.60408Z,de.smoover-moving/smoover,Smoover Moving Cost Calculator,2026.10.25,,streamable-http,"Live moving price estimates (EUR incl. VAT) for Germany, the EU, Switzerland and the UK."
+2026-11-07T13:07:57.00243Z,io.github.getlarkwright/secops-field-notes-mcp,SecOps Field Notes,0.1.1,https://github.com/getlarkwright/secops-field-notes-mcp,,"CVSS scoring, IOC extraction, email header triage, hash/JWT/timestamp decoding, CISA KEV lookup."
+2026-11-07T13:08:01.746201Z,io.github.getlarkwright/netops-field-notes-mcp,NetOps Field Notes,0.1.1,https://github.com/getlarkwright/netops-field-notes-mcp,,"Config drift, CIS/PCI checks, 802.1X diagnosis, certs inside configs, topology, change pre-flight."
+2026-11-07T13:08:03.364534Z,io.github.getlarkwright/netip-mcp,whatismynetip,0.1.1,https://github.com/getlarkwright/netip-mcp,,"Subnet math, port and MAC lookups, DNS, DNSBL, TLS cert inspection, public IP. No account."
+2026-11-07T13:08:08.001311Z,io.github.getlarkwright/aiops-field-notes-mcp,AIOps Field Notes,0.1.2,https://github.com/getlarkwright/aiops-field-notes-mcp,,"Audit an MCP config, price a model, size a GPU, explain network config drift. Key-free."
+2026-11-07T13:11:27.57713Z,io.github.mk-career-planning/jp-corporate-number,Japan Corporate Number (NTA),0.1.0,,streamable-http,What does Japan's tax agency publish for this corporate number? NTA Web-API relay with sources.
