@@ -1,0 +1,68 @@
+created_at,server,title,version,repository,transports,description
+2026-11-07T22:25:40.836579Z,io.github.miradero/armenly,Armenly,1.0.0,,streamable-http,"Free Armenian music streaming: 1,800+ artists and 60,000 songs, from pop and rabiz to duduk."
+2026-11-07T22:25:41.313072Z,io.github.miradero/ayoh,Ayoh,1.0.0,,streamable-http,"Chat, mail, boards, notes, calendar, contacts and digests in one AI app, free on your Cloudflare."
+2026-11-07T22:25:41.823723Z,io.github.miradero/bitepods,BitePods,1.0.0,,streamable-http,"Free podcast clip maker: share the exact moment of an episode from YouTube, Spotify or Apple."
+2026-11-07T22:25:42.360455Z,io.github.miradero/carglendale,CarGlendale,1.0.0,,streamable-http,"Compare every new and used car at the Glendale, CA dealerships on Brand Boulevard, with real prices."
+2026-11-07T22:25:43.81901Z,io.github.miradero/vendawallet,Venda,1.0.0,,streamable-http,"Free receipts for anyone who takes payments: rent, lessons, services and garage sales. No fees."
+2026-11-07T22:33:24.304399Z,io.github.miradero/campnotice,Camp Notice,1.0.0,,streamable-http,"Email alerts when a summer camp opens sign-ups, or when a sold-out camp has a seat open."
+2026-11-07T22:33:24.629351Z,io.github.miradero/mailerdot,MailerDot,1.0.0,,streamable-http,"Your city's free daily newsletter: local news, weather and events in a five-minute morning read."
+2026-11-07T22:33:25.135207Z,io.github.miradero/kizupi,Kizupi,1.0.0,,streamable-http,"The math tutor that asks why, for grades 1 to 6, with free printable word-problem worksheets."
+2026-11-07T22:33:25.539681Z,io.github.miradero/renderior,Renderior,1.0.0,,streamable-http,"See furniture and decor from any store in a photo of your room, plus free home sizing calculators."
+2026-11-07T22:33:26.212177Z,io.github.miradero/tabruns,Tabruns Dental,1.0.0,,streamable-http,Dental insurance estimates in dollars: what a PPO plan pays and what the patient owes.
+2026-11-07T22:37:36.221898Z,ai.inspectmind/checker,InspectMind,1.0.0,,streamable-http,"AI plan review for construction drawings: submit plan sets, get code, spec and drawing findings."
+2026-11-07T22:40:29.238518Z,com.wisheroo/wisheroo,Wisheroo,1.0.0,,streamable-http,"Personal songs from your memories and free kids' video wish lists: prices, samples, start links."
+2026-11-07T22:44:00.78856Z,se.xcqt/stockholm-archipelago-trail,Stockholm Archipelago Trail,1.3.0,https://github.com/mbelak/sat,streamable-http,"Trail stages, ferry piers, timetabled day trips and A→B routes for the Stockholm Archipelago Trail."
+2026-11-07T22:45:10.179343Z,com.paywithlocus/locus,Locus,0.3.40,https://github.com/locus-technologies/locus-pro-plugin,streamable-http,"Pay-per-use APIs for agents: web research, data lookups, and metered endpoints billed to credits."
+2026-11-07T22:45:49.36737Z,uk.co.mygrocerypal/grocery-prices,MyGroceryPal,1.1.0,,streamable-http,"UK supermarket prices: compare products and baskets across 13 stores, see price history, set alerts."
+2026-11-07T22:47:30.861915Z,trade.syndicate/markets,Syndicate,1.0.0,,streamable-http,"Read-only market data: tokens, stocks, Hyperliquid perps, Polymarket, and public trader books."
+2026-11-07T22:47:31.199911Z,trade.syndicate/trading,Syndicate Trading,1.0.0,,streamable-http,"Let an agent trade from your Syndicate bot on Hyperliquid, Polymarket and spot, within your limits."
+2026-11-07T22:49:04.982062Z,io.github.ayeongo/pharmasync,,0.2.0,https://github.com/ayeongo/Pharmasync,,"Read-only NHS medicine supply data: shortages, SSPs, price concessions and dm+d lookups."
+2026-11-07T22:51:24.403758Z,io.github.mnema-work/mnema,mnema: decision records for AI coding agents,0.1.6,https://github.com/mnema-work/mnema,,"Signed, append-only decision records for AI coding agents, over MCP. Verify them offline."
+2026-11-07T22:57:20.456411Z,ai.mentionagent/mentionagent,MentionAgent,1.1.0,https://github.com/BuildsbyMatt/mentionagent-claude-skill,streamable-http,"Link building outreach from your agent: review drafts, send the batch, answer publisher replies."
+2026-11-07T22:57:54.282391Z,io.github.linxule/vox-mcp,Vox MCP,0.9.0,https://github.com/linxule/vox-mcp,,"Multi-model AI gateway — 10 providers including Cloudflare and Vercel, with conversation memory."
+2026-11-07T23:02:11.177206Z,com.factstable/factstable,,0.1.0,,streamable-http,"Verified fact packs for agents: statutory rates, passenger rights, consumer law — cite-or-refuse."
+2026-11-07T23:04:53.408384Z,com.thenextgennexus/academic-research-mcp-server,,1.0.1,,streamable-http,arXiv and OpenAlex/Crossref paper search (an open Google Scholar alternative) as agent tools.
+2026-11-07T23:04:53.678164Z,com.thenextgennexus/automotive-mcp-server,,1.0.1,,streamable-http,Car-listing search and used-car market analysis as agent tools.
+2026-11-07T23:04:53.893872Z,com.thenextgennexus/banking-financial-stability-mcp,,1.0.1,,streamable-http,"Bank financials, central-bank rates, enforcement actions and fair-lending data as agent tools."
+2026-11-07T23:04:54.126269Z,com.thenextgennexus/china-market-intelligence-mcp,,1.0.1,,streamable-http,"China A-share screening, filings, holdings, flows and calendars as agent tools."
+2026-11-07T23:04:54.353224Z,com.thenextgennexus/chinese-social-signals-mcp,,1.0.1,,streamable-http,"Chinese social trends — Weibo, Douyin, Xiaohongshu, Bilibili, Zhihu — as agent tools."
+2026-11-07T23:04:54.638054Z,com.thenextgennexus/crypto-defi-mcp,,1.0.1,,streamable-http,"DeFi TVL, stablecoin supply, perp funding, top coins and prediction-market data as agent tools."
+2026-11-07T23:04:54.996212Z,com.thenextgennexus/crypto-mcp-server,,1.0.1,,streamable-http,Live cryptocurrency prices and FX rates as agent tools.
+2026-11-07T23:04:55.210046Z,com.thenextgennexus/developer-tools-mcp-server,,1.0.1,,streamable-http,"GitHub, npm, PyPI, Stack Overflow, arXiv and OpenAlex paper search as agent tools."
+2026-11-07T23:04:55.425995Z,com.thenextgennexus/domain-intelligence-mcp-server,,1.0.1,,streamable-http,"DNS, WHOIS, IP geolocation and SSL checks as agent tools."
+2026-11-07T23:04:55.660181Z,com.thenextgennexus/ecommerce-intelligence-mcp-server,,1.0.1,,streamable-http,Shopify store analysis and product-catalog extraction as agent tools.
+2026-11-07T23:04:55.913907Z,com.thenextgennexus/energy-commodity-mcp,,1.0.1,,streamable-http,"Commodity futures, FX, Treasury yields, CFTC positioning, coins and vessel tracking as agent tools."
+2026-11-07T23:04:56.187248Z,com.thenextgennexus/enterprise-mcp-gateway,,1.0.1,,streamable-http,"One MCP gateway bundling 30 data servers — finance, real estate, jobs, legal, news, sports and more."
+2026-11-07T23:04:56.411048Z,com.thenextgennexus/finance-mcp-server,,1.0.1,,streamable-http,"Live stock quotes, a stock screener, crypto prices and FX rates as agent tools."
+2026-11-07T23:04:56.636921Z,com.thenextgennexus/github-mcp-server,,1.0.1,,streamable-http,"GitHub repo search, stats, language breakdown and comparison as agent tools."
+2026-11-07T23:04:56.851553Z,com.thenextgennexus/global-equities-screener-mcp,,1.0.1,,streamable-http,Equity screeners for 26 global markets as agent tools.
+2026-11-07T23:04:57.141768Z,com.thenextgennexus/google-maps-mcp-server,,1.0.1,,streamable-http,"OpenStreetMap local-business search, lead generation and email validation as agent tools."
+2026-11-07T23:04:57.392117Z,com.thenextgennexus/government-contracts-procurement-mcp-server,,1.0.0,,streamable-http,Federal contract awards and spending data as agent tools.
+2026-11-07T23:04:57.620013Z,com.thenextgennexus/hr-compensation-mcp-server,,1.0.1,,streamable-http,Salary and H-1B disclosed-wage data as agent tools.
+2026-11-07T23:04:57.830879Z,com.thenextgennexus/job-market-mcp-server,,1.0.1,,streamable-http,"Job-posting search (jobicy, HN Who is Hiring, arbeitnow) and US H-1B salary data as agent tools."
+2026-11-07T23:04:58.04751Z,com.thenextgennexus/legal-mcp-server,,1.0.1,,streamable-http,"Case law, court dockets, FINRA BrokerCheck and trademark data as 10 agent tools."
+2026-11-07T23:04:58.269028Z,com.thenextgennexus/news-mcp-server,,1.0.1,,streamable-http,"AP, BBC, NPR, Hacker News and Google News search as agent tools."
+2026-11-07T23:04:58.600148Z,com.thenextgennexus/patents-trademarks-ip-mcp-server,,1.0.1,,streamable-http,"Patent search, inventor search, patents-by-assignee and full patent detail as agent tools."
+2026-11-07T23:04:58.830398Z,com.thenextgennexus/playwright-mcp-server,,1.0.1,,streamable-http,"Playwright browser automation — navigate, click, fill forms, extract, screenshot — 17 agent tools."
+2026-11-07T23:04:59.04885Z,com.thenextgennexus/premium-data-mcp-server,,1.0.1,,streamable-http,"Government contracts, business registration, FDA recalls and product-price data as agent tools."
+2026-11-07T23:04:59.264624Z,com.thenextgennexus/real-estate-mcp-server,,1.0.1,,streamable-http,US property search and full listing detail (Redfin-sourced) as agent tools.
+2026-11-07T23:04:59.517662Z,com.thenextgennexus/redfin-mcp-server,,1.0.1,,streamable-http,Redfin property search and full listing detail as agent tools.
+2026-11-07T23:04:59.779098Z,com.thenextgennexus/regulatory-filings-mcp,,1.0.1,,streamable-http,"SEC filings — 13F, Form 4, 8-K, 13D, IPO and short-interest data — as 17 agent tools."
+2026-11-07T23:05:00.006139Z,com.thenextgennexus/review-intelligence-mcp-server,,1.0.1,,streamable-http,"App Store and Google Play reviews, ratings, sentiment and developer replies as agent tools."
+2026-11-07T23:05:00.229498Z,com.thenextgennexus/sales-intelligence-mcp,,1.0.1,,streamable-http,"B2B lead finding, company enrichment, email discovery and funding tracking as 10 agent tools."
+2026-11-07T23:05:00.443492Z,com.thenextgennexus/sec-corporate-events-mcp,,1.0.1,,streamable-http,"SEC corporate events — M&A, buybacks, delistings, going-private, exec comp — as 10 agent tools."
+2026-11-07T23:05:00.700037Z,com.thenextgennexus/seo-web-analysis-mcp-server,,1.0.1,,streamable-http,"On-page crawl, tech-stack detection, DNS, SSL and WHOIS as agent tools."
+2026-11-07T23:05:00.96606Z,com.thenextgennexus/social-content-mcp-server,,1.0.1,,streamable-http,"Steam games, Dev.to articles, events and podcasts as agent tools."
+2026-11-07T23:05:01.18165Z,com.thenextgennexus/sports-mcp-server,,1.0.1,,streamable-http,"NBA, NFL, NHL and combined sports scores as agent tools."
+2026-11-07T23:05:01.39431Z,com.thenextgennexus/supply-chain-logistics-mcp,,1.0.1,,streamable-http,"Carrier lookup, vessel tracking, vehicle recalls and gov procurement as agent tools."
+2026-11-07T23:05:01.607039Z,com.thenextgennexus/travel-mcp-server,,1.0.1,,streamable-http,"Airbnb, hotel and TripAdvisor search as agent tools."
+2026-11-07T23:05:01.832651Z,com.thenextgennexus/weather-mcp-server,,1.0.1,,streamable-http,Current weather and forecast lookup as an agent tool.
+2026-11-07T23:05:02.133429Z,com.thenextgennexus/web-scraping-mcp-server,,1.0.1,,streamable-http,"Website crawling, Google search and Wikipedia lookup as agent tools."
+2026-11-07T23:05:02.358393Z,com.thenextgennexus/yahoo-finance-mcp-server,,1.0.1,,streamable-http,Yahoo Finance stock quotes and multi-ticker comparison as agent tools.
+2026-11-07T23:05:02.576172Z,com.thenextgennexus/youtube-media-mcp-server,,1.0.1,,streamable-http,"YouTube transcripts, IMDb search and podcast search as agent tools."
+2026-11-07T23:06:58.040907Z,io.threatist/threatist,Threatist,1.0.0,,streamable-http,"Vulnerability records: CVE, GHSA, CISA KEV, EPSS and vendor fixes in one place. No key needed."
+2026-11-07T23:07:23.587344Z,io.github.Hyperblur/mcp,Hyperblur,0.2.0,https://github.com/Hyperblur/Hyperblur,,"Search, inspect and install copy-paste React effects, components and page blocks."
+2026-11-07T23:11:07.744794Z,net.cegtec/gtm-goat,GTM Goat,1.0.0,,streamable-http,"Agent-first GTM infrastructure, end-to-end: DACH B2B data, sequencer, enrichment. Account required."
+2026-11-07T23:13:57.126867Z,io.github.fiscalapi-br/fiscalapi-mcp,FiscalAPI,0.1.0,https://github.com/fiscalapi-br/fiscalapi-mcp,streamable-http,"IE (27 UFs), CNPJ, certidões e cópia para leitura do XML de NF-e pela chave, do Brasil."
+2026-11-07T23:16:39.50537Z,app.chesly/chesly,Chesly,1.0.0,,streamable-http,"Read, search and answer your messages on WhatsApp, iMessage, Slack, Telegram and 14 more networks."
+2026-11-07T23:19:19.038403Z,com.precellence-service/paris-chauffeur,Precellence Service — Paris chauffeur prices,1.0.0,,streamable-http,"Paris private chauffeur: prices incl. VAT (airports, stations, Disneyland). Read-only, no booking."
