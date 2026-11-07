@@ -9,44 +9,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 19:19 UTC
+## Latest list — 2026-11-07 20:19 UTC
 
-New MCP servers published between 2026-11-07 18:20 UTC and 2026-11-07 19:19 UTC.
+New MCP servers published between 2026-11-07 19:19 UTC and 2026-11-07 20:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-07T19-19-27-058885Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-07T20-19-48-455001Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-07 18:27:48 | io.prospre/nutrients | nutrition-intelligence | 0.1.0 | Proof-backed nutrition facts for foods, branded products and supplements: value… |
-| 2026-11-07 18:27:51 | [io.prospre/prospre](https://github.com/prospre/prospre-plugin) | Prospre | 1.0.0 | Log food, plan meals, fix the diary, build the grocery list and move macro targ… |
-| 2026-11-07 18:41:31 | [com.wildalmonds/wine-weekend](https://github.com/wildalmondz/redux05) | WildAlmonds Wine Weekend | 1.0.0 | Winery events, weekend guides and wine catalogs for Washington wine regions. |
-| 2026-11-07 18:45:00 | [com.membase/membase](https://github.com/unibaseio/membase) |  | 1.0.1 | Long-term memory for you and your AIs: search memories, read the profile, add f… |
-| 2026-11-07 18:50:18 | [io.github.nivlewd1/mcp-prompt-optimizer](https://github.com/nivlewd1/mcp-prompt-optimizer-npm) | Prompt Optimizer | 3.8.11 | Optimize prompts and generate agent SOPs and skill packages with the Prompt Opt… |
-| 2026-11-07 18:52:10 | app.cashpan/cashpan | CashPan | 2.6.5 | Give your AI an allowance: pay approved people within on-chain spending limits. |
-| 2026-11-07 18:53:26 | [io.github.pranjal2410719/dev-mcp](https://github.com/pranjal2410719/dev-mcp) | Dev MCP | 2.2.0 | AI Engineering Operating System for developer workflows. |
-| 2026-11-07 18:55:12 | sk.simfa/simfa | SimFa | 1.8.0 | Slovenská fakturácia: faktúry, ponuky, prijaté faktúry, banka a dane cez AI asi… |
-| 2026-11-07 18:56:31 | com.huntautogroup.texas/data | Hunt Auto Group Texas: used car data | 1.0.0 | Read-only used-car data for Texas: NHTSA recalls and crash stars, EPA MPG, size… |
-| 2026-11-07 18:56:31 | com.huntautogroup.texas/docs | Hunt Auto Group Texas: guides | 1.0.0 | Search and read Texas used-car buying guides (title, tax, inspection, reviews)… |
-| 2026-11-07 18:58:31 | [io.usefulapi/good-grants](https://github.com/m190/usefulapi-mcp) | Good Grants MCP by usefulapi | 1.0.0 | Read applications, rounds, funds and leaderboards; tag applications in Good Gra… |
-| 2026-11-07 18:58:31 | [io.usefulapi/spektrix](https://github.com/m190/usefulapi-mcp) | Spektrix MCP by usefulapi | 1.0.0 | Read events, performances, memberships and order changes in Spektrix. |
-| 2026-11-07 18:58:31 | [io.usefulapi/govdelivery](https://github.com/m190/usefulapi-mcp) | GovDelivery MCP by usefulapi | 1.0.0 | Read topics, subscribers and bulletins; set subscriber topics and send bulletin… |
-| 2026-11-07 18:58:31 | [io.usefulapi/libib](https://github.com/m190/usefulapi-mcp) | Libib MCP by usefulapi | 1.0.0 | Read patrons, managers and accounts; create and update patrons in Libib. |
-| 2026-11-07 18:58:32 | [io.usefulapi/charityfundraiser](https://github.com/m190/usefulapi-mcp) | CharityFundraiser MCP by usefulapi | 1.0.0 | Read donations, transactions, contacts and events; create and update contacts i… |
-| 2026-11-07 18:58:32 | [io.usefulapi/nivoda](https://github.com/m190/usefulapi-mcp) | Nivoda MCP by usefulapi | 1.0.0 | Search the diamond inventory by shape, carat and colour; read diamond details i… |
-| 2026-11-07 18:58:32 | [io.usefulapi/complycube](https://github.com/m190/usefulapi-mcp) | ComplyCube MCP by usefulapi | 1.0.0 | List and create clients, run AML screening checks and read results in ComplyCub… |
-| 2026-11-07 18:58:33 | [io.usefulapi/rentmy](https://github.com/m190/usefulapi-mcp) | RentMy MCP by usefulapi | 1.0.0 | Search rental products, check prices and build carts in RentMy. |
-| 2026-11-07 18:58:33 | [io.usefulapi/recommand](https://github.com/m190/usefulapi-mcp) | Recommand MCP by usefulapi | 1.0.0 | Read documents and the inbox, verify Peppol recipients and send invoices in Rec… |
-| 2026-11-07 18:58:33 | [io.usefulapi/typless](https://github.com/m190/usefulapi-mcp) | Typless MCP by usefulapi | 1.0.0 | Extract fields from business documents and read extraction results in Typless. |
-| 2026-11-07 19:06:58 | ai.llpro.agentrecord/agent-record | Agent Record | 1.0.0 | Daily signed census of which MCP tools work, plus a delivery record. Free. No p… |
-| 2026-11-07 19:07:04 | lk.seduction/shop | Seduction.lk | 1.0.0 | Shop authentic skincare and beauty in Sri Lanka: search, product details, deliv… |
-| 2026-11-07 19:07:16 | [ai.campaignpack/campaignpack](https://github.com/campaignpack/campaignpack-mcp) |  | 0.1.0 | Turn a product photo and a brief into a full ad campaign: scripts, stills, clie… |
-| 2026-11-07 19:10:14 | com.nightspar/nightspar | Nightspar | 1.0.0 | Save words from your AI chats as spaced-repetition flashcards, with meanings, I… |
-| 2026-11-07 19:10:19 | ai.llpro.countersign/countersign | Countersign | 1.0.0 | Independent, signed check of AI work: math, quotes, sources, links, code. Publi… |
-| 2026-11-07 19:10:22 | [io.github.linxule/deepthonk](https://github.com/linxule/deepthonk) | DeepThonk | 0.4.0 | Provider-neutral OpenDeepThink reasoning server: generate, judge, rank, mutate. |
-| 2026-11-07 19:12:56 | [io.github.linxule/durable-thinking](https://github.com/linxule/durable-thinking) | Durable Thinking | 3.1.4 | Self-hosted persistent sequential thinking with private history and MCP App vis… |
-| 2026-11-07 19:16:39 | [io.github.linxule/mineru](https://github.com/linxule/mineru-mcp) | MinerU | 2.0.0 | MinerU document parsing API — PDFs, images, DOCX, PPTX with OCR and batch proce… |
-| 2026-11-07 19:17:24 | io.github.johnbeatty/airogel-editor | Airogel Editor | 1.0.0 | Build and inspect browser-based 3D games: projects, scenes, Lua scripts, assets… |
-| 2026-11-07 19:18:08 | gg.transformer/transformer | Transformer | 1.0.0 | Agent-run influencer marketplace on X: find creators, send offers, pay for conf… |
+| 2026-11-07 19:22:17 | lt.ikrovimo-kaina/ev-charging-prices | EV charging prices in Lithuania | 1.0.0 | Live public EV charging prices, stations, networks and costs in Lithuania (open… |
+| 2026-11-07 19:29:13 | [com.migratrix/migratrix](https://github.com/Migratrix/migratrix) | Migratrix | 3.1.0 | Database change control: schemas, change scripts, approvals, rollback, drift an… |
+| 2026-11-07 19:32:22 | com.yazilimkocu/ajan | Yazılım Koçu | 1.0.0 | Özel yazılım, web sitesi ve yapay zeka hizmetleri: yayınlanmış fiyatlar, demola… |
+| 2026-11-07 19:32:23 | com.yazilimkocu/belediye | Belediye Yazılımları | 1.0.0 | Belediye yazılımı rehberi: e-belediye, ruhsat ve imar, kent bilgi sistemi, e-de… |
+| 2026-11-07 19:32:23 | com.yazilimkocu/crm | CRM Yazılımları | 1.0.0 | CRM rehberi: satış hattı, WhatsApp ve e-ticaret entegrasyonu, hazır CRM ile öze… |
+| 2026-11-07 19:32:24 | com.yazilimkocu/erp | ERP Yazılımları | 1.0.0 | ERP rehberi: modül kapsamları, hazır paket ile özel ERP kararı, e-Fatura ve e-D… |
+| 2026-11-07 19:32:24 | com.yazilimkocu/pazaryeri | Pazaryeri Yazılımları | 1.0.0 | Pazaryeri rehberi: Trendyol, Hepsiburada, n11 satış süreçleri, komisyon hesabı,… |
+| 2026-11-07 19:32:24 | com.yazilimkocu/yapayzeka | Yapay Zeka Yazılımları | 1.0.0 | Kurumsal yapay zeka rehberi: asistanlar, ajanlar, belge işleme, KVKK ve AB Yapa… |
+| 2026-11-07 19:39:42 | ch.yesbusiness/yesbusiness | YESbusiness | 2.6.3 | Swiss bookkeeping with bank feeds: read and book bank transactions, receipts, V… |
+| 2026-11-07 19:40:45 | app.fplai/fplai | FPLai | 1.0.0 | Your Fantasy Premier League team in your AI: analyses, injuries, prices, fixtur… |
+| 2026-11-07 19:41:20 | io.github.veriapipro/veriapi | VeriApi.Pro | 1.0.0 | Turkey data: exchange rates, gold, fuel prices, pharmacies on duty, prayer time… |
+| 2026-11-07 19:46:11 | ch.yesbusiness/swiss-accounting | YESbusiness | 2.6.3 | Swiss bookkeeping with bank feeds: read and book bank transactions, receipts, V… |
+| 2026-11-07 19:48:24 | eu.modulit/pro-av-finder | Modulit Pro AV Finder | 1.0.0 | Search Modulit EU and Polish pro AV equipment and guides, size cable runs and c… |
+| 2026-11-07 19:56:44 | si.epoc/epoc | epoc | 1.0.0 | Read your epoc meeting transcripts: list synced meetings and read their transcr… |
+| 2026-11-07 19:57:13 | [io.github.MagcDEV/indec-mcp](https://github.com/MagcDEV/indec-mcp) | INDEC Argentina (no oficial) | 0.4.0 | Argentina's official statistics (INDEC): inflation, wages, poverty, trade, popu… |
+| 2026-11-07 19:59:30 | ai.dispatchmind/find | Find and book a local service pro | 1.0.0 | Find a local service company by US ZIP code (garage door, locks, HVAC and more)… |
+| 2026-11-07 19:59:31 | [io.github.lintsure/lintsure](https://github.com/lintsure/lintsure) | Lintsure | 0.1.2 | Compliance readiness checks for code: EU AI Act, GDPR, SOC 2, ISO 27001. Local.… |
+| 2026-11-07 19:59:43 | [io.github.andrewsiah/agentswarm](https://github.com/andrewsiah/agentswarm-mcp) | agentswarm.space | 1.0.0 | Find tasks and bounties, register an agent and deliver work on agentswarm.space. |
+| 2026-11-07 20:01:56 | bike.unstocked/unstocked | Unstocked | 1.0.0 | Sport motorcycle builds: parts that fit your bike and model year, typical US pr… |
+| 2026-11-07 20:02:58 | [io.github.Vilancer/droppage](https://github.com/Vilancer/droppage-cli) | droppage | 0.5.1 | Share analyst reports and dashboards as a live link. |
+| 2026-11-07 20:03:02 | com.robersonai/roberson | Roberson | 0.41.0 | Likeness rights, cleared: a use of a person's face, voice or persona, checked a… |
+| 2026-11-07 20:05:41 | [io.usefulapi/stibee](https://github.com/m190/usefulapi-mcp) | Stibee MCP by usefulapi | 1.0.0 | Read subscribers, emails and email stats, and add subscribers and group members… |
+| 2026-11-07 20:05:41 | [io.usefulapi/ghn](https://github.com/m190/usefulapi-mcp) | GHN MCP by usefulapi | 1.0.0 | Quote shipping fees, track orders, and create or cancel shipping orders in GHN. |
+| 2026-11-07 20:05:41 | [io.usefulapi/amego](https://github.com/m190/usefulapi-mcp) | amego MCP by usefulapi | 1.0.0 | Look up invoices, allowances and number ranges, and check government upload sta… |
+| 2026-11-07 20:05:41 | [io.usefulapi/cloudsign](https://github.com/m190/usefulapi-mcp) | CloudSign MCP by usefulapi | 1.0.0 | Create, send and track e-signature documents with their files and recipients in… |
+| 2026-11-07 20:05:42 | [io.usefulapi/ghtk](https://github.com/m190/usefulapi-mcp) | GHTK MCP by usefulapi | 1.0.0 | Quote fees, check addresses and order status, and create or cancel shipping ord… |
+| 2026-11-07 20:05:42 | [io.usefulapi/termii](https://github.com/m190/usefulapi-mcp) | Termii MCP by usefulapi | 1.0.0 | Send SMS, check wallet balance, DND status, sender IDs and message history in T… |
+| 2026-11-07 20:05:42 | [io.usefulapi/ablesign](https://github.com/m190/usefulapi-mcp) | AbleSign MCP by usefulapi | 1.0.0 | Read screens, playlists and media plays, and add media to a screen playlist in… |
+| 2026-11-07 20:05:43 | [io.usefulapi/temp-stick](https://github.com/m190/usefulapi-mcp) | Temp Stick MCP by usefulapi | 1.0.0 | Read temperature and humidity sensors, their readings and alert notifications i… |
+| 2026-11-07 20:05:44 | [io.usefulapi/brewman](https://github.com/m190/usefulapi-mcp) | BrewMan MCP by usefulapi | 1.0.0 | Read orders, outlets, stock and purchase orders, and create or cancel orders in… |
+| 2026-11-07 20:05:44 | [io.usefulapi/pulseway](https://github.com/m190/usefulapi-mcp) | Pulseway MCP by usefulapi | 1.0.0 | List devices, alerts, antivirus status and audit logs, and run scripts on devic… |
+| 2026-11-07 20:05:44 | [io.usefulapi/scalefusion](https://github.com/m190/usefulapi-mcp) | Scalefusion MCP by usefulapi | 1.0.0 | Read managed devices and groups, and lock, unlock, reboot or move devices in Sc… |
+| 2026-11-07 20:05:45 | [io.usefulapi/dilisense](https://github.com/m190/usefulapi-mcp) | dilisense MCP by usefulapi | 1.0.0 | Screen people and companies against sanction, PEP and adverse media lists in di… |
+| 2026-11-07 20:05:46 | [io.usefulapi/chit-chats](https://github.com/m190/usefulapi-mcp) | Chit Chats MCP by usefulapi | 1.0.0 | List shipments, batches and returns, and create shipments or change batches in… |
+| 2026-11-07 20:08:42 | [ai.marketcrew/market-data](https://github.com/yakovlevddd/marketcrew-mcp) | MarketCrew — live market data & stock a… | 1.0.1 | Stock prices, charts & technical analysis for US stocks, ETFs and crypto. Read-… |
+| 2026-11-07 20:09:37 | [ai.memorybrain/memorybrain](https://github.com/Memory-brain/open-brain) | MemoryBrain | 0.9.0 | Your own memory inside ChatGPT and Claude, with the source of every note. |
+| 2026-11-07 20:09:43 | [io.github.ThinkerYzu/foxmcp](https://github.com/ThinkerYzu/foxmcp) | FoxMCP | 1.7.0 | Let your AI assistant use your real, logged-in Firefox: tabs, pages, bookmarks,… |
+| 2026-11-07 20:13:00 | [com.smklog/parcel-shipping-rates](https://github.com/smklog/parcel-shipping-rates-mcp) | SMKlog Parcel Shipping Rates | 1.5.0 | Live USPS, UPS, FedEx and DHL rates from the US: domestic, Canada, UK, Germany,… |
+| 2026-11-07 20:17:22 | gs.sundo/sundogs | Sundogs | 1.0.0 | Mini apps your coding agent installs into your own Cloudflare site |
+| 2026-11-07 20:18:53 | pro.cajon/drums | Cajon.pro | 0.1.0 | Drum schools map (Russia, Kazakhstan, Armenia, Belarus), song tempo and drum pa… |
 
 ## Data source
 
