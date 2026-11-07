@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-11-07T20:21:16.19746Z,com.tripworks/tripworks,TripWorks,1.0.0,,streamable-http,Connect AI assistants to your TripWorks booking and operations account.
+2026-11-07T20:24:42.614771Z,app.simfuse/esim-storefront,SimFuse eSIM Storefront,1.2.0,,streamable-http,"Travel eSIMs for 200+ countries. Browse plans, price a multi-country trip, and open a checkout."
+2026-11-07T20:28:39.186918Z,io.github.Airogel/airogel-editor,Airogel Editor,1.0.0,,streamable-http,"Build and inspect browser-based 3D games: projects, scenes, Lua scripts, assets and publishing."
+2026-11-07T20:30:01.550359Z,com.transcripthook/mcp,TranscriptHook,1.0.0,,streamable-http,"Fetch YouTube transcripts, monitor channels and track keyword matches from your AI assistant."
+2026-11-07T20:30:23.297944Z,com.rottenamerica/petitions,Rotten America Petitions,0.2.2,https://github.com/rottenamerica/Rotten-America,streamable-http,"Find, draft and start verified petitions from a chat; follow signatures and post updates."
+2026-11-07T20:31:23.331103Z,com.getrealtymind.app/london-foster-realty,London Foster Realty LLC,1.0.0,,streamable-http,"Book a real estate consultation with London Foster Realty LLC. Areas, open times, booking."
+2026-11-07T20:34:59.257157Z,com.pindicate/pindicate,Pindicate,1.0.0,,streamable-http,"Send your work to clients for feedback. Get a review link, then read their pinned comments."
+2026-11-07T20:37:43.477261Z,chat.pinku/pinku,Pinku.chat,0.3.17,,streamable-http,Your AI agent finds dates with consenting adults (18+) and agrees time and place for you.
+2026-11-07T20:54:02.586871Z,io.github.yybd/multi-mail-mcp,multi-mail,0.1.1,https://github.com/yybd/multi-mail-mcp,,"Search, read, draft and send mail across several Gmail accounts. Bring your own OAuth client."
+2026-11-07T20:55:22.134588Z,dev.zenod/memory,Zenod Memory,0.1.0,https://github.com/zenod-ai/zenod,streamable-http,"Memory you own: capture on WhatsApp, filed into your Markdown vault, recalled with citations."
+2026-11-07T20:56:42.892917Z,io.usefulapi/consigncloud,ConsignCloud MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read items, sales, accounts and store totals; add items and item notes in ConsignCloud."
+2026-11-07T20:56:42.898729Z,io.usefulapi/auvik,Auvik MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read devices, networks, alerts and statistics; dismiss alerts in Auvik."
+2026-11-07T20:56:43.023379Z,io.usefulapi/realtime-register,Realtime Register MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Check domains, read domains and DNS zones, and update DNS zone records in Realtime Register."
+2026-11-07T20:56:43.868779Z,io.usefulapi/delfi-pms,Delfi PMS MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read properties, leases, payments, invoices, expenses and maintenance requests in Delfi PMS."
+2026-11-07T20:56:43.927044Z,io.usefulapi/gandi,Gandi MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"List domains and expiry dates; read, create and update LiveDNS records in Gandi."
+2026-11-07T20:56:43.937661Z,io.usefulapi/steady,Steady MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read publication income, plans and subscriptions; list newsletter subscribers in Steady."
+2026-11-07T20:56:44.025385Z,io.usefulapi/cobalt-intelligence,Cobalt Intelligence MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,Search US business records by name and read Secretary of State filings in Cobalt Intelligence.
+2026-11-07T20:56:44.80052Z,io.usefulapi/action1,Action1 MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read endpoints, missing updates, CVE vulnerabilities, installed software and reports in Action1."
+2026-11-07T21:01:29.47051Z,directory.firmen/firmen-directory,FIRMEN.directory,1.1.0,,streamable-http,"Swiss and Austrian company register facts and owner-maintained listings, each with its source."
+2026-11-07T21:03:20.020488Z,io.github.kryuchenko/gpscrape,Google Play Store,0.1.1,https://github.com/kryuchenko/google-play-scraper,,"Read-only Google Play data: app details, search, charts, reviews, permissions, data safety"
+2026-11-07T21:04:28.299174Z,io.github.mishmar-io/mishmar,,0.3.0,https://github.com/mishmar-io/mishmar,,"Risk management for trading bots and AI agents: limits, approvals and a stop on every order."
+2026-11-07T21:04:38.834889Z,network.ergosum/connector,ErgoSum,1.0.0,,streamable-http,"Hire AI agents for summaries. You pay from your own wallet into escrow, released after review."
+2026-11-07T21:15:05.733011Z,com.netsendo/website,NetSendo website,1.0.0,,streamable-http,"NetSendo facts, plans, releases, docs and blog; release alerts after OAuth sign-in."
+2026-11-07T21:18:28.458512Z,io.frihet/erp,Frihet ERP,2.0.0,https://github.com/Frihet-io/frihet-mcp,streamable-http,"Frihet ERP over MCP: invoices, quotes, expenses, clients, CRM, banking and Spanish tax summaries"
+2026-11-07T21:18:49.272328Z,com.getrealtymind.app/find-an-agent,Find a real estate agent,1.0.0,,streamable-http,Find brokerages that serve an area and book a buying or selling consultation. No sign-in.
