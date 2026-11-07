@@ -1,0 +1,13 @@
+created_at,server,title,version,repository,transports,description
+2026-11-07T05:29:14.296355Z,io.github.Vishal4742/whiteflow,Whiteflow,0.3.0,https://github.com/Vishal4742/whiteflow,,"USDT payment links, payments and collection summaries on Whitechain testnet. Can't move money."
+2026-11-07T05:30:25.098833Z,io.github.descriptinc/descript,Descript,1.0.0,https://github.com/descriptinc/descript-mcp,streamable-http,Edit video and audio using natural language.
+2026-11-07T05:31:21.855786Z,app.maclookup/mcp,MACLookup MCP Server,1.1.1,,streamable-http,"Read-only MAC address, OUI, and vendor lookup tools for network diagnostics."
+2026-11-07T05:36:13.00141Z,io.github.xkid1/reed-solomon-alg-mcp,,0.1.0,https://github.com/xkid1/reed-solomon-alg-mcp,,"Reed-Solomon assistant: encode, decode and correct data, syndromes, GF(256) math. Written in Rust."
+2026-11-07T05:37:57.041385Z,news.cmbs/cmbs-news,cmbs.news: CMBS loan data,1.2026.1107.0,,streamable-http,"Loan-level CMBS data from SEC filings: loans, trusts, CUSIPs, distress index, tenants, comps."
+2026-11-07T05:42:03.821418Z,io.github.tarunyadav1/murmur-cli,Murmur,1.0.1,https://github.com/tarunyadav1/murmur-cli,,Offline text to speech and voice cloning on macOS through the Murmur app.
+2026-11-07T05:48:18.313261Z,com.scriptmasterlabs/sml-x402-agent-wallet,SML x402 Agent Wallet,1.1.0,https://gitlab.com/script-master-labs-llc-group/x402-kit,,"Agent payer wallet: trust pre-flight, spend leash, Verdict step-up, evidence log."
+2026-11-07T05:57:10.009942Z,io.github.sureshkumarm8/devicely,Devicely,2.4.7,https://github.com/sureshkumarm8/Devicely,,Control real iOS & Android devices from AI agents; mirror one tap across a whole fleet.
+2026-11-07T05:58:44.841993Z,com.kanalvarna/kanal-varna,"Kanal Varna — drains, leaks & plumbing (Varna, BG)",1.0.0,,streamable-http,"Drain unblocking, leak detection & plumbing in Varna, Bulgaria: services, prices, areas, contact"
+2026-11-07T06:05:22.356855Z,com.mattercatalog/catalog,MatterCatalog,1.0.0,,streamable-http,"Is a smart home device Matter certified? CSA certificates, networks, platforms and US stores."
+2026-11-07T06:05:26.197315Z,io.github.syncky/syncky-health,Syncky Health,0.1.1,https://github.com/syncky/syncky-open,,"Apple Health data in your MCP client, end-to-end encrypted from your iPhone, with write-back"
+2026-11-07T06:18:04.368653Z,com.getflowdesign/offsite-seminar-designer,Offsite & Seminar Designer by Flow Design,1.0.0,,streamable-http,Design a corporate seminar or offsite with Flow Design's agent: scoping and timed run of show.
