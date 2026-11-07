@@ -1,0 +1,14 @@
+created_at,server,title,version,repository,transports,description
+2026-11-07T06:25:52.772786Z,io.elytrack/elytrack,Elytrack,1.0.0,,streamable-http,"Smart wallets, insiders, launches and news on Elysium (Hyperliquid L2), plus Montra trades."
+2026-11-07T06:38:46.767025Z,com.simplyglobal/visitor-insurance,SimplyGlobal Visitor Insurance,1.3.0,,streamable-http,"Visitor insurance quotes for one traveler or an Atlas family, plus guides, FAQs and carrier links."
+2026-11-07T06:44:03.874353Z,io.github.RitualDev-Lab/skillprism,SkillPrism MCP Context Optimizer & Tool Search Proxy,1.2.4,https://github.com/RitualDev-Lab/SkillPrism,,"Progressive Skill Disclosure, Semantic Tool Search & Context Optimizer for AI Agents"
+2026-11-07T06:47:19.530565Z,io.github.RitualDev-Lab/dbshield,DBShield Database Guardrail & Sandboxing MCP Server,0.2.1,https://github.com/RitualDev-Lab/DBShield,,Safety-first Database Guardrail & Sandboxing MCP Server for AI Coding Agents
+2026-11-07T06:55:07.40573Z,com.nomosprotocol/nomos,NOMOS,1.3.0,,streamable-http,Ask a sealed authority whether an action may proceed. Answers are deterministic and citable.
+2026-11-07T06:55:15.598627Z,com.mewcp/mcp,MewCP,2.0.0,,streamable-http,"One gateway, every app: Gmail, GitHub, Notion and more. Connect once, call any tool. Managed auth."
+2026-11-07T07:08:36.649638Z,io.github.blackdome-ai/blackdome-mcp,BlackDome Threat Intel,0.4.0,https://github.com/blackdome-ai/blackdome-mcp,,"Honeypot threat intel: IOCs, sample comparisons, evidence clusters and ThreatDrop case status."
+2026-11-07T07:14:07.791265Z,io.github.jrhite/documents-to-data,"Documents to Data (PDF to Markdown, document to JSON)",1.0.0,https://github.com/jrhite/owlabee,streamable-http,"Turn PDFs, documents, podcasts and drone photos into Markdown, structured JSON, summaries, reports."
+2026-11-07T07:14:08.066Z,io.github.jrhite/us-public-records,"US Public Records (permits, grants, OSHA/EPA, recalls)",1.0.0,https://github.com/jrhite/owlabee,streamable-http,"US public records as JSON: building permits, Grants.gov/SAM.gov, OSHA/EPA, recalls, licenses, PACER."
+2026-11-07T07:14:08.344536Z,io.github.jrhite/web-monitoring,"Web & Business Monitoring (DMARC, sitemaps, Shopify, jobs)",1.0.0,https://github.com/jrhite/owlabee,streamable-http,"Monitor domain SPF/DMARC/WHOIS, website changes, Shopify prices, ATS jobs, Bluesky and podcasts."
+2026-11-07T07:15:06.758879Z,cz.inzerpro/agent,InzerPro,1.0.0,,streamable-http,"Create, edit, relist and take down Czech and Slovak classified ads from your AI agent."
+2026-11-07T07:15:07.717454Z,io.github.Labs64/netlicensing-mcp,NetLicensing MCP Server,0.1.11,,,Labs64 NetLicensing MCP server for AI-driven software license lifecycle management.
+2026-11-07T07:19:18.055593Z,io.github.RaananW/uptimizr,Uptimizr,1.2.3,https://github.com/RaananW/Uptimizr,,"Ask an AI agent about your self-hosted 3D scene analytics: heatmaps, meshes, performance, sessions."
