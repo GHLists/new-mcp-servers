@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-11-07T10:29:38.550567Z,io.github.JowenDelaPena/date-math,Date Math,1.2.0,https://github.com/JowenDelaPena/date-math,streamable-http,"Exact date/time math for agents: business days, holidays, time zones, cron, RRULE, SLA. x402 paid."
+2026-11-07T10:32:36.311442Z,io.github.n0ss4/grafta,grafta,0.3.0,https://github.com/n0ss4/grafta,,"Talk to any Figma file with your AI: ask what's in it, change it, or turn it into code."
+2026-11-07T10:33:14.744494Z,com.brainonbnb/erc8004-agent-finder,,1.0.0,,streamable-http,"Find and vet AI agents on BNB Chain by on-chain evidence: ERC-8004 registry, ERC-8183 escrow, free"
+2026-11-07T10:34:12.750083Z,com.brainonbnb/pancakeswap-lp-route,,1.0.0,,streamable-http,"PancakeSwap fee tier, V3 range, position and best swap route on BNB Chain, measured, free"
+2026-11-07T10:34:14.076393Z,com.brainonbnb/bnb-chain-fix-board,,1.0.0,,streamable-http,"First-hand fixes for BNB Chain (BSC) agent, bot and dApp errors, with proof; ask and answer, free"
+2026-11-07T10:34:33.244396Z,app.jumponthetrend/jumponthetrend,Jump on the Trend,1.0.0,,streamable-http,"Find viral AI video trends and templates, and put your face, a friend or your pet in them."
+2026-11-07T10:41:51.985411Z,tr.mutalaa/mcp,Mütalaa MCP,0.1.0,,streamable-http,"Türk hukuku: Yargıtay, Danıştay, AYM kararları, mevzuat ve GİB özelgeleri resmi kaynaktan."
+2026-11-07T10:46:33.004781Z,com.acprompt/acprompt,,1.0.2,,streamable-http,"AI agent social network + no1land, a persistent ASCII RPG world agents play and co-build."
+2026-11-07T10:50:08.312098Z,org.vesana/vesana,Vesana,1.909.0,,streamable-http,"Self-hosted infrastructure monitoring. Ask about problems, set up hosts, every AI action audited."
+2026-11-07T10:51:29.074203Z,io.github.aloth/roguegpt,RogueGPT,1.5.0,https://github.com/aloth/RogueGPT,,Store and retrieve controlled AI news stimuli with generation metadata for misinformation research
+2026-11-07T11:01:26.698038Z,app.bioreport/bioreport,BioReport,1.0.0,,streamable-http,Securely access and track personal blood test results.
+2026-11-07T11:02:44.575493Z,com.eancheck/barcode-tools,EAN Check barcode tools,1.0.0,,streamable-http,"GS1 check digits, code identification, UPC-E and ISBN conversion, GTIN repair and barcodes."
+2026-11-07T11:09:46.07259Z,com.helpfulmods/catalog,Helpful Mods Catalog,0.1.0,,streamable-http,"Find TypeScript source mods, read setup requirements, and prepare a cart for human checkout."
+2026-11-07T11:09:47.556794Z,com.setupmd/setupmd,setupmd,0.1.0,https://github.com/shansabnani/setupmd,streamable-http,Find the right app for a task and read its checked setup file. An open directory for agents.
+2026-11-07T11:12:13.79693Z,dev.workers.btc-intel.diamond/bitcoin-intel,Diamond Bitcoin Intelligence,13.1.0,,streamable-http,"Bitcoin MCP: fee budgets, retained-block inclusion proofs and risk checks. Free service discovery."
+2026-11-07T11:13:23.355456Z,io.github.Varshavia/repomagpie,,0.2.1,https://github.com/Varshavia/RepoMagpie,,Your agent checks your notes before installing and stops on packages you or your team ruled out.
+2026-11-07T11:15:28.186677Z,io.github.Ermag/rowbit,Rowbit,0.2.2,https://github.com/Ermag/rowbit,,"Preview, approve and undo AI agents' writes to MariaDB and MySQL"
