@@ -9,72 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 00:19 UTC
+## Latest list — 2026-11-07 01:19 UTC
 
-New MCP servers published between 2026-11-06 23:20 UTC and 2026-11-07 00:19 UTC.
+New MCP servers published between 2026-11-07 00:19 UTC and 2026-11-07 01:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-07T00-19-15-81075Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-07T01-19-41-85488Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-06 23:20:30 | uk.co.reliness/air-quality | UK Data: UK air quality (Defra) | 1.5.0 | Live UK air pollution from Defra monitors: NO2, PM2.5, PM10, ozone and the Dail… |
-| 2026-11-06 23:20:30 | uk.co.reliness/catalogue | UK Data: Tool catalogue | 1.5.0 | Find the right tool for any need across every family and imported API, then cal… |
-| 2026-11-06 23:20:30 | uk.co.reliness/central-banks-rates | UK Data: Federal Reserve decisions | 1.5.0 | US Federal Reserve: latest FOMC rate decision, vote split, dissenters and meeti… |
-| 2026-11-06 23:20:30 | uk.co.reliness/countries-words | UK Data: Country facts and words | 1.5.0 | Country capitals, currencies, calling codes and population, plus synonyms, rhym… |
-| 2026-11-06 23:20:30 | uk.co.reliness/dev-security | UK Data: CVEs and package popularity | 1.5.0 | Software vulnerabilities (CVEs) from the US NVD and package downloads for npm,… |
-| 2026-11-06 23:20:30 | uk.co.reliness/economic-calendar | UK Data: US economic release calendar | 1.5.0 | Official US economic release dates and times (GDP, PCE inflation, trade) in you… |
-| 2026-11-06 23:20:30 | uk.co.reliness/economics-statistics | UK Data: Eurostat EU statistics | 1.5.0 | Eurostat headline figures by country: inflation, unemployment, GDP growth, debt… |
-| 2026-11-06 23:20:31 | uk.co.reliness/life-sciences | UK Data: Protein data (UniProt) | 1.5.0 | UniProt protein data: find proteins, map genes to proteins, function and diseas… |
-| 2026-11-06 23:20:31 | uk.co.reliness/medicines-drugs | UK Data: Medicines and drug safety | 1.5.0 | Medicine names, label text, safety reports, recalls, shortages and approvals fr… |
-| 2026-11-06 23:20:31 | uk.co.reliness/public-health-counts | UK Data: US CDC health counts | 1.5.0 | US CDC counts: weekly notifiable diseases and flu, COVID-19 and RSV hospital ad… |
-| 2026-11-06 23:20:31 | uk.co.reliness/quiz-trivia | UK Data: Quiz questions | 1.5.0 | Human-checked quiz questions with answers by category and difficulty, from Open… |
-| 2026-11-06 23:20:31 | uk.co.reliness/sanctions-screening | UK Data: Sanctions screening | 1.5.0 | Screen people, companies and ships against UK, US OFAC, EU and UN sanctions lis… |
-| 2026-11-06 23:20:31 | uk.co.reliness/service-status | UK Data: Is it down? Service status | 1.5.0 | Is a service down right now? Live status, incidents and component health from o… |
-| 2026-11-06 23:20:31 | uk.co.reliness/software-lifecycle | UK Data: Software end-of-life dates | 1.5.0 | Release, support and end-of-life dates for about 490 languages, OSes, databases… |
-| 2026-11-06 23:20:31 | uk.co.reliness/space-weather | UK Data: Space weather and aurora | 1.5.0 | NOAA space weather: Kp index now and 3 days ahead, aurora chance anywhere, UK a… |
-| 2026-11-06 23:20:31 | uk.co.reliness/travel-safety | UK Data: UK FCDO travel advice | 1.5.0 | UK FCDO travel advice for every country: warnings, entry requirements, safety a… |
-| 2026-11-06 23:20:31 | uk.co.reliness/uk-due-diligence | UK Data: UK due diligence | 1.5.0 | UK due diligence: filed accounts figures, FCA register checks on firms and peop… |
-| 2026-11-06 23:20:31 | uk.co.reliness/uk-heritage | UK Data: England listed buildings | 1.5.0 | Historic England: listed buildings and grades, scheduled monuments, parks, gard… |
-| 2026-11-06 23:20:31 | uk.co.reliness/uk-parliament-legislation | UK Data: UK Parliament bills and SIs | 1.5.0 | Where a UK bill, treaty or statutory instrument is in Parliament: stages, spons… |
-| 2026-11-06 23:20:31 | uk.co.reliness/uk-parliament-people | UK Data: UK MPs and elections | 1.5.0 | UK MPs and constituencies: election results and history, Cabinet posts, party s… |
-| 2026-11-06 23:20:31 | uk.co.reliness/uk-parliament-scrutiny | UK Data: UK Parliament committees | 1.5.0 | UK select committees: members, inquiries, witnesses and published reports from… |
-| 2026-11-06 23:20:31 | uk.co.reliness/uk-parliament-votes | UK Data: UK Parliament votes | 1.5.0 | How MPs and peers voted: Commons and Lords divisions, results, party splits, wh… |
-| 2026-11-06 23:20:31 | uk.co.reliness/uk-roads-traffic | UK Data: GB road traffic counts (DfT) | 1.5.0 | Great Britain road traffic counts from the DfT: count points, vehicles per day… |
-| 2026-11-06 23:20:31 | uk.co.reliness/uk-water-levels | UK Data: England river and tide levels | 1.5.0 | Live Environment Agency river levels, flows, rainfall and tide gauges across En… |
-| 2026-11-06 23:20:31 | uk.co.reliness/us-politics-government | UK Data: US politics and government | 1.5.0 | US government records: presidential actions, Congress votes and members, federa… |
-| 2026-11-06 23:20:32 | uk.co.reliness/validation | UK Data: VAT number checks | 1.5.0 | Check a UK or EU VAT number against official sources and get the registered nam… |
-| 2026-11-06 23:20:32 | uk.co.reliness/vehicles-safety | UK Data: US vehicle safety (NHTSA) | 1.5.0 | US vehicle safety from NHTSA: recalls, owner complaints, crash-test ratings and… |
-| 2026-11-06 23:20:32 | uk.co.reliness/vehicles | UK Data: UK vehicle lookups | 1.5.0 | Look up a UK or Dutch number plate or decode a VIN: make, model, MOT history, m… |
-| 2026-11-06 23:20:32 | uk.co.reliness/weather-forecasts | UK Data: Weather forecasts worldwide | 1.5.0 | Worldwide weather forecasts hour by hour and day by day: rain, UV, wind, sea st… |
-| 2026-11-06 23:20:32 | uk.co.reliness/weather-observations | UK Data: Airport weather (METAR and TAF) | 1.5.0 | Official airport weather: METAR observations and TAF forecasts from the NOAA Av… |
-| 2026-11-06 23:22:43 | com.classicminidiy/mcp | Classic Mini DIY | 1.0.0 | Reference data and calculators for the Classic Mini (1959-2000): torque, needle… |
-| 2026-11-06 23:29:06 | com.tfhandywash/site | TF Handy Wash | 2.0.3 | Public laundromat prices, machines, hours, payment options and problem-reportin… |
-| 2026-11-06 23:29:11 | com.jeromehandywash/site | Jerome Handy Wash | 2.1.4 | Read-only Jerome Handy Wash machines, prices, hours, payment methods, FAQ and c… |
-| 2026-11-06 23:30:52 | [io.github.Tok/supercollider-mcp](https://github.com/Tok/SuperColliderMCP) | SuperCollider | 0.2.1 | Make sound with SuperCollider: synths, drums, chords, melodies and soundscapes… |
-| 2026-11-06 23:36:08 | [io.github.mrfentmen/analysis-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Offline security-artifact analysis: endpoint and secret mining, IDOR diffs, JWT… |
-| 2026-11-06 23:36:08 | [io.github.mrfentmen/research-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Keyless market research: DDG suggest breadth, Etsy saturation, Google Trends tr… |
-| 2026-11-06 23:36:09 | [io.github.mrfentmen/gamebanana-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.1 | GameBanana mods database: search mods by game, browse mod feeds, read mod pages. |
-| 2026-11-06 23:38:37 | [io.github.exzade/exza-remote](https://github.com/exzade/EXZA-Remote) | EXZA Remote - AI Computer Commander | 1.0.0 | Connect ChatGPT and Claude to your Mac, Windows or Linux with secure MCP remote… |
-| 2026-11-06 23:43:54 | io.github.TheBugEater/sendpanda | SendPanda | 0.5.1 | Send email, manage domains, templates, webhooks and broadcasts from your AI age… |
-| 2026-11-06 23:44:02 | com.the-ai-record/archive | The AI Record | 1.0.0 | Cited, verbatim passages on how organizations use AI, with source, grade and ch… |
-| 2026-11-06 23:47:15 | ai.28in28/agent-service-desk | 28/28 Agent Service Desk: Fix & Verify | 1.1.0 | Check SPF/DKIM/DMARC of a domain, get a non-binding Fix & Verify quote, re-veri… |
-| 2026-11-06 23:47:44 | net.sjstorage/site | SJ Storage | 1.1.1 | Read-only SJ Storage availability snapshots, unit prices, deposits, hours, loca… |
-| 2026-11-06 23:57:18 | io.patchwell/patchwell | Patchwell | 1.0.0 | Cited web research, transcription with word timestamps, and CSV/Excel cleaning… |
-| 2026-11-06 23:58:38 | com.kinganlogic/tool-offer-agent | Tool Offer Agent | 1.4.7 | Source-attributed API/MCP offer drafting, revision, readiness assessment and ex… |
-| 2026-11-06 23:59:39 | [io.github.kamilobstawskiagent-ux/webskan](https://github.com/kamilobstawskiagent-ux/webskan-claude-plugin) | Webskan | 0.1.0 | Audit and re-check a live website: Lighthouse, SEO, accessibility, security, li… |
-| 2026-11-07 00:01:41 | menu.macros/macrosmap | MacrosMap: Restaurant Menu Macros | 1.0.0 | Calories, protein, carbs and fat for restaurant menu items. Search is free; loo… |
-| 2026-11-07 00:04:55 | ai.unicorncommander/project-ops | Project-Ops | 0.1.0 | Tasks, boards, and time for a workspace. Authenticated; OAuth 2.1 via Keycloak. |
-| 2026-11-07 00:04:55 | ai.unicorncommander/customer-ops | Customer-Ops | 0.1.0 | Relationships and the 360 view. Authenticated; OAuth 2.1 via Keycloak. |
-| 2026-11-07 00:04:55 | ai.unicorncommander/email-ops | Email-Ops | 0.1.0 | Mailbox threads; drafts wait for a person. Authenticated; OAuth 2.1 via Keycloa… |
-| 2026-11-07 00:04:55 | ai.unicorncommander/meeting-ops | Meeting-Ops | 0.1.0 | Transcripts, recaps, and action items. Authenticated; OAuth 2.1 via Keycloak. |
-| 2026-11-07 00:04:55 | ai.unicorncommander/accounting-ops | Accounting-Ops | 0.1.0 | Journal, invoices, and payment proposals. Authenticated; OAuth 2.1 via Keycloak. |
-| 2026-11-07 00:04:55 | ai.unicorncommander/tax-planning-ops | Tax-Planning-Ops | 0.1.0 | Tax scenarios, quarterlies, and memos. Authenticated; OAuth 2.1 via Keycloak. |
-| 2026-11-07 00:04:56 | ai.unicorncommander/contact-ops | Contact-Ops | 0.1.0 | People, organizations, and relationships. Authenticated; OAuth 2.1 via Keycloak. |
-| 2026-11-07 00:04:56 | com.galacticbridge/radar-exit-check | Galactic Radar exit check | 1.0.0 | Exit check for Solana/Base/BNB tokens: live sell quote, round-trip loss, warnin… |
-| 2026-11-07 00:07:45 | ai.listplus/listplus | ListPlus | 1.0.0 | Check contact data with 100+ quality checks, find B2B contacts, fill work e-mai… |
-| 2026-11-07 00:08:40 | io.github.fal-ai-community/mcp | fal.ai | 0.1.0 | Generate and edit images, video, audio and 3D with fal. Discover models and che… |
-| 2026-11-07 00:10:08 | [io.github.atticoos/cronometer-mcp](https://github.com/atticoos/cronometer-mcp) | Cronometer MCP | 0.3.0 | Review nutrition, log meals, and manage foods and recipes in your Cronometer ac… |
-| 2026-11-07 00:17:44 | com.djfindr/djfindr | DJfindr | 1.7.1 | Find and book DJs by occasion, location, date and budget; read profiles, mixes… |
+| 2026-11-07 00:22:18 | [io.github.AgentTwin/agenttwin](https://github.com/AgentTwin/agenttwin-agent-tools) | AgentTwin | 0.3.27 | Test AI agent workflows against service twins with injected faults. Runs locall… |
+| 2026-11-07 00:26:06 | com.eyesonflash/eyes-on-flash | Eyes on Flash | 1.0.0 | Sourced NAND, DRAM, HBM, SSD controller, HDD and memory-market figures, each wi… |
+| 2026-11-07 00:27:13 | [io.github.SamuelDharshi/proofmark-notes](https://github.com/SamuelDharshi/Proofmark) | Proofmark Notes | 1.0.0 | Read-only notes: list, search and read Markdown or text notes inside one folder. |
+| 2026-11-07 00:27:17 | [io.github.SamuelDharshi/proofmark-clock](https://github.com/SamuelDharshi/Proofmark) | Proofmark Clock | 1.0.0 | Current time in any time zone, and conversion of a date-time between zones. |
+| 2026-11-07 00:27:22 | [io.github.SamuelDharshi/proofmark-hash](https://github.com/SamuelDharshi/Proofmark) | Proofmark Hash | 1.0.0 | Hash text with SHA-256, SHA-512 or SHA3-256, and verify a digest. |
+| 2026-11-07 00:27:23 | [io.github.SamuelDharshi/proofmark-units](https://github.com/SamuelDharshi/Proofmark) | Proofmark Units | 1.0.0 | Convert between units of length, mass, temperature and data size. |
+| 2026-11-07 00:34:07 | com.manifoldbt/docs | ManifoldBT Docs | 0.8.0 | Docs for writing manifoldbt backtests: DSL rules, signatures, examples and erro… |
+| 2026-11-07 00:39:59 | dev.workers.x402-bazaar-rank-worker.x402-bazaar-rank/sanctions-kyb-compliance | P0: sanctions, KYB and payee checks | 1.0.0 | Sanctions screening, LEI lookup and payee checks for AI agents, pay per call ov… |
+| 2026-11-07 00:40:00 | dev.workers.x402-bazaar-rank-worker.x402-bazaar-rank/sec-filings-tenders | P0: SEC filings and public contracts | 1.0.0 | SEC EDGAR filings, key financials and public contract awards for AI agents, pay… |
+| 2026-11-07 00:40:01 | dev.workers.x402-bazaar-rank-worker.x402-bazaar-rank/cve-package-domain-security | P0: CVE, package and domain checks | 1.0.0 | CVE with EPSS and CISA KEV, package risk, software EOL, domain and IP reports,… |
+| 2026-11-07 00:40:02 | dev.workers.x402-bazaar-rank-worker.x402-bazaar-rank/evm-wallet-onchain | P0: wallet balances and EVM reads | 1.0.0 | Wallet balances, ERC-20, blocks, transactions, receipts, ENS and payment checks… |
+| 2026-11-07 00:40:03 | dev.workers.x402-bazaar-rank-worker.x402-bazaar-rank/fx-rates-news-weather-data | P0: FX, rates, news and weather | 1.0.0 | ECB FX rates, SOFR and Treasury yields, news, weather and natural hazards, pay… |
+| 2026-11-07 00:40:04 | dev.workers.x402-bazaar-rank-worker.x402-bazaar-rank/x402-service-search | P0: x402 service search | 1.0.0 | Find paid x402 APIs for a task: sellers, prices and networks, plus agent-econom… |
+| 2026-11-07 00:40:05 | dev.workers.x402-bazaar-rank-worker.x402-bazaar-rank/email-uptime-web-reader | P0: email check, uptime, web reader | 1.0.0 | Email address checks, URL uptime pings and web page to markdown for agents, pay… |
+| 2026-11-07 00:40:06 | dev.workers.x402-bazaar-rank-worker.x402-bazaar-rank/agent-memory-utils | P0: agent memory and utilities | 1.0.0 | Key-value memory without an account, UUID, hash, JWT, JSON validation, time and… |
+| 2026-11-07 00:42:44 | com.lopjlb/research | LOPJLB Research | 1.5.0 | U.S. equity quant research: market regime, signals, scores, screens and CallCar… |
+| 2026-11-07 00:45:44 | app.tnpropertysearch/tn-property | Tennessee Property Records | 2.0.0 | Who owns any Tennessee parcel: owner search, ownership and sale history across… |
+| 2026-11-07 00:50:01 | com.bigdogmining/mining | Big Dog Mining | 1.0.0 | Free MSHA mine safety data and search across 22 mining engineering handbooks, w… |
+| 2026-11-07 01:00:51 | ai.leadlock/leadlock | Leadlock | 1.0.0 | Voice agents that book into the software your clients actually run, built and a… |
+| 2026-11-07 01:02:42 | [io.github.MMcBerry-bit/tzivia](https://github.com/MMcBerry-bit/Tzivia) | Tzivia-AI | 5.1.0 | Persistent local memory for AI agents: a self-organizing knowledge graph. Windo… |
+| 2026-11-07 01:07:13 | com.agentfieldtrip/museum | Agent Field Trip | 1.0.0 | A free museum for AI agents: weekly art rooms, challenges, a live map and other… |
+| 2026-11-07 01:08:09 | io.github.aricsoftware/pombity | Pombity | 1.0.0 | Compliance-first SMS and email: consent, STOP/HELP, quiet hours, verified desti… |
+| 2026-11-07 01:11:39 | website.gexchange/compute-futures |  | 1.1.0 | Trade GPU-hour futures on-chain. GEX-GCI index, $100 demo, no KYC, 9 tools. |
+| 2026-11-07 01:13:37 | im.hithere/hithere | HiThere | 1.0.0 | A free page for your links, projects and CV. |
 
 ## Data source
 
