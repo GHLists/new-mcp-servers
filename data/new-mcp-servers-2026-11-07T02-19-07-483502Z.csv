@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-11-07T01:22:07.644406Z,app.tryrelink/relink,Relink,1.0.0,,streamable-http,"Find and fix broken links in a Shopify store: list them, start scans, apply suggested fixes."
+2026-11-07T01:23:34.608299Z,io.github.AtlasDigitalDesign/intertwine-plans,,1.1.0,https://github.com/AtlasDigitalDesign/intertwine-plans-mcp,streamable-http,"Search Angela Kamer's coastal house plans by beds, sq ft, lot width, pilings and elevator."
+2026-11-07T01:26:05.601194Z,ai.monthlet/monthlet,,1.2.1,https://github.com/t27d/monthlet-mcp,,Read and edit the notes in your local monthlet vault from MCP clients. Runs inside the monthlet app.
+2026-11-07T01:31:04.923949Z,site.aeogeo/aeogeo,aeogeo,1.0.0,,streamable-http; streamable-http,"Deterministic AEO/GEO checks and a source-cited rulebook for AI search, for your agent."
+2026-11-07T01:34:14.783991Z,com.rivieramayaelite/directory,Riviera Maya Elite,1.0.0,,streamable-http,"Search local businesses, area guides and developments for sale in the Riviera Maya, Mexico."
+2026-11-07T01:34:32.91738Z,io.github.zocoi/goldradar,Gold Radar,1.0.0,https://github.com/zocoi/goldradar.ai,streamable-http,"Publish AI-generated video, stills, sound and 3D work to the Gold Radar archive."
+2026-11-07T01:38:33.042129Z,com.fulfyplus/shipping,Fulfy Plus,1.0.0,,streamable-http,"Quote shipments across Venezuelan carriers and look up state, parish and cities by coordinates."
+2026-11-07T01:40:01.539611Z,io.github.richard-kim-79/popup-mcp,,1.1.0,https://github.com/richard-kim-79/popup,streamable-http; streamable-http,Popup (popup2026.com): search & read public pages with no auth; create shareable web pages via AI.
+2026-11-07T01:41:16.002877Z,com.woodstitch/mcp,Woodstitch,0.1.1,,,Paid human listeners judge TTS audio blind: pairwise preference or human-vs-AI detection.
+2026-11-07T01:42:20.677569Z,com.woodstitch/tts-human-eval,Woodstitch,0.1.2,,,Paid human listeners judge TTS audio blind: pairwise preference or human-vs-AI detection.
+2026-11-07T01:42:34.502348Z,com.daystoic/daystoic,dayStoic.com,1.1.0,,streamable-http,"Daily Stoic quote, principle and two-minute exercise. Free, no account. Premium: journal access."
+2026-11-07T01:45:26.323642Z,com.woodstitch/tts-human-evaluation-listening-test,Woodstitch,0.1.3,,,Paid human listeners judge TTS audio blind: pairwise preference or human-vs-AI detection.
+2026-11-07T01:50:35.358194Z,com.nownessai/nowness,NownessAI,2.3.0,,streamable-http,"The AI research library for coding agents: current papers, models and tools, explained."
+2026-11-07T01:53:57.957458Z,io.github.joselhurtado/uxui-principles,,1.2.0,https://github.com/joselhurtado/uxuiprinciples-web,,"195 UX/UI principles with citations, 12 UX smells and 12 flow checklists for AI agents, EN and ES."
+2026-11-07T01:54:18.260355Z,io.github.OBrandon/adhistory-mcp,"adhistory: Google Ads, reviews, jobs, PDFs",0.1.0,,,"Competitor Google ads, app reviews, job boards, PDF tables/invoices, email checks via Apify"
+2026-11-07T01:58:05.034898Z,net.recmoment.grader/marketing-grader,Marketing Grader,0.1.0,,streamable-http,"Read brand DNA, content drafts, calendars and saved marketing performance."
+2026-11-07T02:00:51.981651Z,io.github.radwanalmsora/mcp-server-autocad-lisp-helper,,0.1.1,https://github.com/radwanalmsora/mcp-server-autocad-lisp-helper,,High-precision static analysis and debug server for AutoCAD AutoLISP (.lsp) files.
+2026-11-07T02:04:56.334376Z,com.artgto/solver,ART/GTO,0.9.48,,streamable-http,"Claude and ChatGPT use the ART/GTO poker solver on your PC: solved spots, hand reviews, solves."
+2026-11-07T02:06:52.046594Z,com.echo-ui/mcp,Echo UI,0.3.5,https://github.com/NourMtir0722/echo-ui,streamable-http,"A tactile React component library, and the design system that keeps your AI agent on-brand."
+2026-11-07T02:11:08.54485Z,com.parfum1/perfumes,parfum1 Perfume API,1.0.0,,streamable-http,"parfum1 perfume catalogue: notes, 3/10/30 ml sizes, EUR prices, stock, houses, delivery, returns."
+2026-11-07T02:14:28.771914Z,com.makemidas/makemidas,MakeMidas,1.0.0,,streamable-http,"Make AI images and videos with Nano Banana, GPT Image, Veo, Kling and more, using your credits."
+2026-11-07T02:15:31.044273Z,io.github.master-co/master-css,Master CSS,2.0.2,https://github.com/master-co/css,,"Inspect Master CSS classes, generated CSS, and project stylesheets from your AI client."
