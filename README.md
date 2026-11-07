@@ -9,27 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 08:21 UTC
+## Latest list — 2026-11-07 09:20 UTC
 
-New MCP servers published between 2026-11-07 07:20 UTC and 2026-11-07 08:21 UTC.
+New MCP servers published between 2026-11-07 08:21 UTC and 2026-11-07 09:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-07T08-21-28-058212Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-07T09-20-37-247358Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-07 07:22:35 | io.github.colt2822/workflow-rescue | ELYREON Workflow Rescue | 1.0.1 | Offline static analysis of n8n workflow exports: dead ends, cycles, missing tri… |
-| 2026-11-07 07:22:35 | io.github.colt2822/payload-validator | ELYREON Payload Validator | 1.0.1 | Deterministic, read-only JSON payload validation (bounded JSON Schema 2020-12 s… |
-| 2026-11-07 07:32:35 | io.github.seelig-ai/seelig-ai-booking | seelig.ai booking | 1.0.1 | Lists the services of seelig.ai (Switzerland) with prices and requests a free 3… |
-| 2026-11-07 07:36:42 | com.seekerscore/seeker | Seeker | 1.0.0 | Match a résumé to live job postings: the top 5 open roles with fit labels and l… |
-| 2026-11-07 07:39:17 | ai.memexa/brain | Memexa | 1.0.0 | Hosted memory for AI assistants: notes and docs as a knowledge graph, EU-hosted… |
-| 2026-11-07 07:45:43 | com.andque/agent-data | andque Agent Data Tools | 1.0.0 | Agent-ready JSON: ATS job feeds, domain/DNS/email posture, Google trending & re… |
-| 2026-11-07 07:50:16 | [io.github.RitualDev-Lab/fineprint](https://github.com/RitualDev-Lab/FinePrintAI) | FinePrint AI Legal Risk & Contract Audi… | 0.1.1 | Zero-cost in-memory legal terms, API policy & NDA scanner for autonomous coding… |
-| 2026-11-07 07:50:18 | [io.github.RitualDev-Lab/mockforge](https://github.com/RitualDev-Lab/MockForge) | MockForge AI Relational Mock Database &… | 0.1.1 | Zero-cost relational mock DB and synthetic fixture generator with Kahn DAG inte… |
-| 2026-11-07 07:58:09 | [io.github.vnbochkarev-netizen/vibocode-mcp](https://github.com/vnbochkarev-netizen/vibocode-mcp) |  | 0.1.3 | Two MCP tools instead of an API catalog: search endpoints, run Python in a sand… |
-| 2026-11-07 07:58:49 | [io.github.drxinfra/rxkb](https://github.com/drxinfra/rxkb) | drxinfra knowledge base for Directum RX | 0.1.0 | Directum RX ops: find errors by log line, articles, sizing calculators, version… |
-| 2026-11-07 07:59:54 | pro.firstsale/first-sale-scout | First Sale Scout | 1.0.0 | Playbooks and a 14-day checklist for founders winning their first paying custom… |
-| 2026-11-07 08:10:09 | [solutions.easy-admin/vibeadmin](https://github.com/leovegas/vibeadmin-mcp) | VibeAdmin | 1.0.0 | Admin for your app from your AI agent: users, stats, segments, feature flags an… |
-| 2026-11-07 08:18:17 | [io.github.tuist/tuist](https://github.com/tuist/tuist) | Tuist | 1.51.0 | Build, test and cache insights for Xcode, Gradle and Bazel projects, for coding… |
+| 2026-11-07 08:22:31 | io.github.zhangduochuan/ailinkany | AiLinkAny | 1.0.0 | Control your authorized Windows computers via OAuth: files, shell, apps, and ta… |
+| 2026-11-07 08:25:41 | com.heyarchetype/archetype | Archetype | 3.7.0 | Your brand for AI agents: tokens, components, templates, voice, assets and a br… |
+| 2026-11-07 08:29:46 | [io.usefulapi/salsa-engage](https://github.com/m190/usefulapi-mcp) | Salsa Engage MCP by usefulapi | 1.0.0 | Search supporters, donations, emails and segments; create or update supporters… |
+| 2026-11-07 08:29:46 | [io.usefulapi/feedletter](https://github.com/m190/usefulapi-mcp) | FeedLetter MCP by usefulapi | 1.0.0 | List surveys, votes and feedback; create surveys and read Wall of Love items in… |
+| 2026-11-07 08:29:46 | [io.usefulapi/pestscan](https://github.com/m190/usefulapi-mcp) | PestScan MCP by usefulapi | 1.0.0 | Read customers, locations, orders, appointments, infestations and bait stations… |
+| 2026-11-07 08:29:46 | [io.usefulapi/membervault](https://github.com/m190/usefulapi-mcp) | MemberVault MCP by usefulapi | 1.0.0 | List courses; add users to courses, remove course access or delete users in Mem… |
+| 2026-11-07 08:29:46 | [io.usefulapi/documint](https://github.com/m190/usefulapi-mcp) | Documint MCP by usefulapi | 1.0.0 | List and read templates; merge field values into PDF documents in Documint. |
+| 2026-11-07 08:37:49 | com.thejqapi/jq-api | The JQ API | 1.0.0 | Free hosted jq MCP server for JSON in AI conversations and API responses. No lo… |
+| 2026-11-07 08:42:49 | [io.github.invarcore/knowledge-fabric](https://github.com/invarcore/knowledge-fabric) | Knowledge Fabric | 0.1.1 | Multi-tenant hybrid RAG & evidence verification MCP server enforcing PostgreSQL… |
+| 2026-11-07 08:43:31 | com.openuncensored/open-uncensored | Open Uncensored | 1.1.0 | Open-weight and abliterated LLMs on one API: compare models and rankings, chat,… |
+| 2026-11-07 08:46:25 | com.gdtf-lights/dmx-to-gdtf | DMX to GDTF | 1.5.0 | Identify a lighting fixture and its DMX mode from a DMX channel list (10,500+ G… |
+| 2026-11-07 08:46:32 | com.superstables/superstables | Superstables | 1.0.0 | Find services, request single purchases and read budgets. Testnet only. |
+| 2026-11-07 08:46:53 | com.newruntime/archive | New Runtime public records | 0.8.0 | AI-engineering archive: search, what is new, forecasts, URL context; paid x402… |
+| 2026-11-07 08:47:25 | [fi.soheil/router](https://github.com/soheil-fi/soheil-router) | Soheil Router | 1.0.0 | Best-price token swaps on EVM networks through a non-custodial contract: quotes… |
+| 2026-11-07 08:49:47 | [com.zeroclickz/zeroclickz](https://github.com/zeroclickz/agent-kit) | ZeroClickz | 1.0.0 | Agents ask other agents for help: post requests, take work, rooms, signed recei… |
+| 2026-11-07 08:53:15 | [io.github.vamzzisme/carry](https://github.com/vamzzisme/carry) | carry | 0.4.1 | Share Claude Code and Codex chats or projects with friends through your own Goo… |
+| 2026-11-07 08:53:50 | app.pitbi/pitbi | Pitbi | 0.1.0 | Trading floor for AI agents: swap practical experience on perps, risk and Decib… |
+| 2026-11-07 08:54:15 | com.sugusite/sugusite | Sugusite | 1.0.0 | Publish websites from AI: create sites, upload HTML/images, access control, cus… |
+| 2026-11-07 08:55:20 | [io.github.fmuecke/windows-sandbox-mcp](https://github.com/fmuecke/windows-sandbox-mcp) | Windows Sandbox MCP | 1.0.0 | Run risky commands in a disposable, offline Windows Sandbox (Windows only, need… |
+| 2026-11-07 09:03:19 | [io.github.tancredesimonin/goflag](https://github.com/tancredesimonin/goflag) | goflag | 0.1.0 | SEO and i18n audit of the site an agent is editing: localhost or protected prev… |
+| 2026-11-07 09:06:12 | io.contentin/linkedin | ContentIn — LinkedIn Ghostwriter | 1.1.0 | Write LinkedIn posts in your voice: ideas, drafts, scheduling, analytics from y… |
+| 2026-11-07 09:10:06 | [io.github.zaxcoraider/agentguard-mcp](https://github.com/zaxcoraider/AgentGuard) | AgentGuard | 0.1.1 | Let an AI agent pay on NEAR through a vault whose spending rules a contract enf… |
 
 ## Data source
 

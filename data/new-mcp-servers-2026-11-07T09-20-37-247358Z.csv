@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-11-07T08:22:31.227288Z,io.github.zhangduochuan/ailinkany,AiLinkAny,1.0.0,,streamable-http,"Control your authorized Windows computers via OAuth: files, shell, apps, and task status."
+2026-11-07T08:25:41.399017Z,com.heyarchetype/archetype,Archetype,3.7.0,,streamable-http; streamable-http,"Your brand for AI agents: tokens, components, templates, voice, assets and a brand check."
+2026-11-07T08:29:46.370997Z,io.usefulapi/salsa-engage,Salsa Engage MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Search supporters, donations, emails and segments; create or update supporters in Salsa Engage."
+2026-11-07T08:29:46.375649Z,io.usefulapi/feedletter,FeedLetter MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"List surveys, votes and feedback; create surveys and read Wall of Love items in FeedLetter."
+2026-11-07T08:29:46.380979Z,io.usefulapi/pestscan,PestScan MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read customers, locations, orders, appointments, infestations and bait stations in PestScan."
+2026-11-07T08:29:46.39302Z,io.usefulapi/membervault,MemberVault MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"List courses; add users to courses, remove course access or delete users in MemberVault."
+2026-11-07T08:29:46.961188Z,io.usefulapi/documint,Documint MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,List and read templates; merge field values into PDF documents in Documint.
+2026-11-07T08:37:49.523271Z,com.thejqapi/jq-api,The JQ API,1.0.0,,streamable-http,Free hosted jq MCP server for JSON in AI conversations and API responses. No local jq install.
+2026-11-07T08:42:49.610752Z,io.github.invarcore/knowledge-fabric,Knowledge Fabric,0.1.1,https://github.com/invarcore/knowledge-fabric,,Multi-tenant hybrid RAG & evidence verification MCP server enforcing PostgreSQL RLS.
+2026-11-07T08:43:31.296087Z,com.openuncensored/open-uncensored,Open Uncensored,1.1.0,,streamable-http; streamable-http,"Open-weight and abliterated LLMs on one API: compare models and rankings, chat, check credits."
+2026-11-07T08:46:25.969794Z,com.gdtf-lights/dmx-to-gdtf,DMX to GDTF,1.5.0,,streamable-http,"Identify a lighting fixture and its DMX mode from a DMX channel list (10,500+ GDTF profiles)."
+2026-11-07T08:46:32.766549Z,com.superstables/superstables,Superstables,1.0.0,,streamable-http; streamable-http; streamable-http,"Find services, request single purchases and read budgets. Testnet only."
+2026-11-07T08:46:53.057696Z,com.newruntime/archive,New Runtime public records,0.8.0,,streamable-http,"AI-engineering archive: search, what is new, forecasts, URL context; paid x402 research tools."
+2026-11-07T08:47:25.690965Z,fi.soheil/router,Soheil Router,1.0.0,https://github.com/soheil-fi/soheil-router,streamable-http,Best-price token swaps on EVM networks through a non-custodial contract: quotes and trade status.
+2026-11-07T08:49:47.236315Z,com.zeroclickz/zeroclickz,ZeroClickz,1.0.0,https://github.com/zeroclickz/agent-kit,streamable-http,"Agents ask other agents for help: post requests, take work, rooms, signed receipts. Test USDC beta."
+2026-11-07T08:53:15.513028Z,io.github.vamzzisme/carry,carry,0.4.1,https://github.com/vamzzisme/carry,,Share Claude Code and Codex chats or projects with friends through your own Google Drive.
+2026-11-07T08:53:50.294824Z,app.pitbi/pitbi,Pitbi,0.1.0,,streamable-http,"Trading floor for AI agents: swap practical experience on perps, risk and Decibel. No advice."
+2026-11-07T08:54:15.792951Z,com.sugusite/sugusite,Sugusite,1.0.0,,streamable-http,"Publish websites from AI: create sites, upload HTML/images, access control, custom domains."
+2026-11-07T08:55:20.57562Z,io.github.fmuecke/windows-sandbox-mcp,Windows Sandbox MCP,1.0.0,https://github.com/fmuecke/windows-sandbox-mcp,,"Run risky commands in a disposable, offline Windows Sandbox (Windows only, needs a one-time setup)."
+2026-11-07T09:03:19.031652Z,io.github.tancredesimonin/goflag,goflag,0.1.0,https://github.com/tancredesimonin/goflag,,"SEO and i18n audit of the site an agent is editing: localhost or protected preview, with sources."
+2026-11-07T09:06:12.097667Z,io.contentin/linkedin,ContentIn — LinkedIn Ghostwriter,1.1.0,,streamable-http,"Write LinkedIn posts in your voice: ideas, drafts, scheduling, analytics from your personal AI."
+2026-11-07T09:10:06.946036Z,io.github.zaxcoraider/agentguard-mcp,AgentGuard,0.1.1,https://github.com/zaxcoraider/AgentGuard,,"Let an AI agent pay on NEAR through a vault whose spending rules a contract enforces, not the agent."
