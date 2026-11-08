@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-11-08T14:21:09.242052Z,com.golfclubindex.app/price-guide,Golf Club Index,0.1.0,,streamable-http,"Used golf club prices from real eBay sold listings, updated daily by golfclubindex.com."
+2026-11-08T14:26:11.306781Z,app.magnt/magnt,Magnt,1.1.0,,streamable-http,Generate and edit realistic images from a prompt. Returns the image and a download link.
+2026-11-08T14:31:19.249831Z,io.github.HypnoLabs-io/agentchurch-mcp,,2.1.0,https://github.com/HypnoLabs-io/agentchurch-mcp,,Closed. Agent Church shut down on 2026-11-07; every tool now returns 410 Gone.
+2026-11-08T14:31:44.090239Z,ai.scopera/scopera,SCOPERA,2.0.0,,streamable-http; streamable-http,"Your SCOPERA records, entities and actions in any AI client, within your permissions."
+2026-11-08T14:39:11.672953Z,com.landedfx/fx,LandedFX,1.0.0,,streamable-http,"All-in FX quotes and routes between 25 local currencies and stablecoins, after every fee."
+2026-11-08T14:42:21.619703Z,com.forevenza.services/stillleaf,"Stillleaf: Memorial program correction, printing and delivery",1.0.0,,streamable-http,"Existing memorial program correction, printing and delivery coordination for funeral homes"
+2026-11-08T14:42:35.81055Z,io.github.johnpua1/dual-payment-setup,Universal Data — x402 + MPP Payment Setup,1.0.0,,streamable-http,Remote MCP with a paid tool for generating x402 and MPP buyer/seller starter integrations.
+2026-11-08T14:42:55.88691Z,io.cryptocoinstat/mcp,CryptoCoinStat,0.10.0,,streamable-http,"Checks on crypto tokens: live code, source gaps, real cap, owner powers, unlocks, signals."
+2026-11-08T14:43:03.837824Z,io.github.tendertrail/sanctionscreen-mcp,"SanctionScreen: US, UK and Canada sanctions screening",0.1.0,,,"Screen people, companies and vessels against US OFAC, UK and Canadian sanctions lists."
+2026-11-08T14:47:25.489995Z,app.pinmade/pinmade,Pinmade: local makers,1.0.0,,streamable-http,"Find hand-checked local makers worldwide: shops that make their own things, with hours and maps."
+2026-11-08T14:48:09.798523Z,app.reelist/reelist,Reelist,1.0.0,,streamable-http,"Your film diary: log and rate films, search what you've watched, keep a watchlist and see stats."
+2026-11-08T14:51:13.574636Z,ai.rankspot/seo,RankSpot SEO,1.0.0,,streamable-http,"SEO and AI visibility: keywords, competitors, backlinks, articles, outreach and Search Console data."
+2026-11-08T14:55:13.364459Z,com.subhadipmitra/site,"Subhadip Mitra: essays, research and projects",1.0.0,,streamable-http,"Read-only search and full text of Subhadip Mitra's essays, papers, projects and measured results."
+2026-11-08T14:59:31.914141Z,io.github.tendertrail/sanctionsnorth-mcp,"SanctionsNorth: US, UK and Canada sanctions screening",0.1.0,,,"Screen people, companies and vessels against US OFAC, UK and Canadian sanctions lists."
+2026-11-08T14:59:45.500392Z,com.simpleacme/dns-setup,SimpleACME DNS-01 setup,1.0.0,,streamable-http,"Read-only DNS-01 setup guides and templates for Traefik, win-acme, Certbot and custom hooks."
+2026-11-08T14:59:53.484059Z,io.github.Imgrund/hybridlog,hybridlog,0.1.14,https://github.com/Imgrund/hybridlog,streamable-http,"Reads your own Garmin mirror: readiness, training load, muscle freshness, and read-only SQL."
+2026-11-08T15:03:56.036484Z,io.github.com55/pyside6-mcp,PySide6 MCP,0.1.1,https://github.com/com55/pyside6-mcp,,"Playwright-style MCP to inspect, control, and debug PySide6 desktop GUIs."
+2026-11-08T15:04:37.413455Z,com.mambabuilt/mcp-zillow-listing-details,,1.0.0,https://github.com/mambalabsdev/mcp-zillow-listing-details,,"Zillow home details by URL, ZPID, address, or ZIP code, as flat rows"
+2026-11-08T15:07:48.536047Z,academy.serviceengineer/se-ai,Service Engineer AI,1.0.0,,streamable-http,Medical equipment troubleshooting and spare parts lookup for biomedical and service engineers.
+2026-11-08T15:07:52.537844Z,com.onlineornot/onlineornot,OnlineOrNot,0.1.0,,streamable-http,"Monitor websites, APIs, browser flows, and scheduled jobs; manage status pages with OnlineOrNot."
+2026-11-08T15:08:27.845067Z,com.mambabuilt/mcp-research-topic-institutions-authors,,1.0.0,https://github.com/mambalabsdev/mcp-research-topic-institutions-authors,,"Rank the institutions and authors with the most works on a research topic, from OpenAlex"
+2026-11-08T15:11:29.651654Z,lt.zodly/zodly,zodly,1.0.0,,streamable-http,"Corrects Lithuanian spelling, grammar and punctuation. zodly Max plan: sign in or use an API key."
+2026-11-08T15:13:42.463853Z,com.mambabuilt/mcp-github-followers-following-export,,1.0.0,https://github.com/mambalabsdev/mcp-github-followers-following-export,,"Full GitHub followers and following lists as rows, with a completeness report per list"
+2026-11-08T15:17:30.433664Z,hu.ipon/shop,iPon webshop,2.0.0,,streamable-http,"Search iPon's electronics and PC parts, manage your cart, follow and place orders (sign-in needed)."
+2026-11-08T15:19:12.939722Z,com.mambabuilt/mcp-healthcare-provider-npi-enricher,,1.0.0,https://github.com/mambalabsdev/mcp-healthcare-provider-npi-enricher,,Enrich NPIs or healthcare provider names from the official US NPI Registry

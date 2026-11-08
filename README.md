@@ -9,39 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 14:18 UTC
+## Latest list — 2026-11-08 15:19 UTC
 
-New MCP servers published between 2026-11-08 13:21 UTC and 2026-11-08 14:18 UTC.
+New MCP servers published between 2026-11-08 14:18 UTC and 2026-11-08 15:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-08T14-18-56-159104Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-08T15-19-27-123427Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-08 13:21:34 | io.github.koppkvn/details | Details | 0.12.0 | Find curated website design references, inspect motion and source, and reuse Va… |
-| 2026-11-08 13:22:08 | io.bitpredict.app/bitpredict | BitPredict | 1.0.0 | Read what BitPredict members call Up or Down on each coin, plus the Daily Call… |
-| 2026-11-08 13:28:52 | [io.github.RidioDevelopment/socialcrawl](https://github.com/RidioDevelopment/socialcrawl-mcp) | SocialCrawl | 2.2.0 | One API for social, commerce, travel, jobs, finance and web data, with exact cr… |
-| 2026-11-08 13:36:44 | [io.github.imal1ice/ownerwatch-mcp](https://github.com/imal1ice/ownerwatch-mcp) | ownerwatch | 0.1.0 | Read-only: who controls EVM contracts. Owners, proxy admins, Safes, timelocks,… |
-| 2026-11-08 13:38:21 | com.withpanta/panta | Panta Swiss Job Market Data | 1.1.0 | Source-linked Swiss job and employer data. Public market tools; personal worksp… |
-| 2026-11-08 13:39:58 | [io.github.RTY2345RR/tts-mcp-server](https://github.com/RTY2345RR/miragea-voice-mcp) | TTS MCP Server | 0.1.1 | Text-to-speech, AI voiceover, voice cloning and SRT/VTT subtitles for AI agents. |
-| 2026-11-08 13:41:06 | jp.cloneai.ai/agent-hub | CloneAI for Agents + Agent Hub | 1.1.0 | Japanese synthetic persona surveys (simulated, not real people) plus Agent Hub… |
-| 2026-11-08 13:41:55 | io.github.lewisororke/l50-marketplaces | L50 Marketplace Data | 1.0.0 | eBay, Vinted, Poshmark, Reverb and Shopify prices plus a price compare. Pay per… |
-| 2026-11-08 13:43:19 | [io.github.ak10082247-max/agentfuel402](https://github.com/ak10082247-max/agentfuel402) | AgentFuel402 Consumable Data Factory | 1.0.0 | Consumable B2B leads, clean Markdown, e-com pricing, and SDK metadata for AI ag… |
-| 2026-11-08 13:44:36 | [io.github.KonstantinStarovoytov/kitden](https://github.com/KonstantinStarovoytov/kitden) | Kitden | 0.6.1 | Shows what Claude Code, Codex and Cursor load on this computer: MCP servers, pl… |
-| 2026-11-08 13:47:20 | [io.github.leocelis/horizon-fidelity-monitor](https://github.com/leocelis/horizon) | Horizon Fidelity Monitor | 0.3.0 | Real-time conversation health for AI agents: drift, desync, causal collapse, pl… |
-| 2026-11-08 13:49:28 | [io.github.chrisschouk/spotcheck](https://github.com/chrisschouk/spotcheck) | SpotCheck | 1.0.0 | Score Spotify playlists for bot-farm patterns and triage an artificial streamin… |
-| 2026-11-08 13:49:32 | [io.github.chrisschouk/newsjack](https://github.com/chrisschouk/newsjack) | NewsJack | 0.2.0 | Music-industry news scored for your brand, with a drafted post in your voice. |
-| 2026-11-08 13:49:36 | [io.github.J0s3f/kotlogramme](https://github.com/J0s3f/kotlogramme-cli.git) | Telegram (kotlogramme) | 0.11.1 | Read and, if allowed, act on your own Telegram account: chats, messages, contac… |
-| 2026-11-08 13:49:55 | com.synap402/synap-mcp | Synap | 0.1.1 | Open-model LLM inference for agents. Pay per call in USDC via x402 or API key.… |
-| 2026-11-08 13:57:52 | io.github.lewisororke/l50-uk-vehicles | L50 UK Vehicle Data | 1.0.0 | UK MOT history for any registration: status, mileage, clocking check, defects.… |
-| 2026-11-08 13:59:42 | org.hominoport/hominoport | Hominoport | 1.1.0 | A human nominee and body in the physical world for autonomous agents. Signed pu… |
-| 2026-11-08 14:02:10 | [com.tetramlabs/point](https://github.com/adi34444/TetramLabs-website) | Point (Tetra M Labs) | 1.0.0 | Read-only MCP server for Point (Tetra M Labs): demo ledger, trial balance, part… |
-| 2026-11-08 14:02:55 | [io.github.N0moreher0/venira-mcp](https://github.com/N0moreher0/Venira-mcp) |  | 1.19.0 | Workspace-scoped MCP server for coding agents: files, search, shell, checkpoint… |
-| 2026-11-08 14:04:35 | app.pofa/pofa | POFA Tournaments | 1.1.0 | Run small tennis & pickleball tournaments from your AI assistant: brackets, sch… |
-| 2026-11-08 14:06:16 | com.stampywallet/stampywallet | StampyWallet | 1.0.0 | StampyWallet loyalty cards in Apple Wallet and Google Wallet: customers, stamps… |
-| 2026-11-08 14:08:32 | [io.github.2fizzle/bip-skills-mcp](https://github.com/2fizzle/bip-skills-mcp) | BIP Skills MCP | 1.0.1 | Serves Agent Skills folders (SKILL.md + bundled files) to any MCP client. Bundl… |
-| 2026-11-08 14:12:21 | com.us.fintech/fintechjobs | Fintech Careers MCP | 2.8.0 | Spanish-language fintech job board for LatAm: search jobs, compare USD pay and… |
-| 2026-11-08 14:14:40 | [io.dorabot/ngay-le](https://github.com/Dorabot-io/ngay-le) | Dorabot – Vietnam public holidays & bus… | 1.0.0 | Vietnam public holidays 2026–2040 with compensatory and swapped days; count/add… |
-| 2026-11-08 14:17:34 | com.vincevangen/vvgen | vincevangen | 0.1.0 | Portraits, product shots, photo edits, video and music for your coding agent, w… |
+| 2026-11-08 14:21:09 | com.golfclubindex.app/price-guide | Golf Club Index | 0.1.0 | Used golf club prices from real eBay sold listings, updated daily by golfclubin… |
+| 2026-11-08 14:26:11 | app.magnt/magnt | Magnt | 1.1.0 | Generate and edit realistic images from a prompt. Returns the image and a downl… |
+| 2026-11-08 14:31:19 | [io.github.HypnoLabs-io/agentchurch-mcp](https://github.com/HypnoLabs-io/agentchurch-mcp) |  | 2.1.0 | Closed. Agent Church shut down on 2026-11-07; every tool now returns 410 Gone. |
+| 2026-11-08 14:31:44 | ai.scopera/scopera | SCOPERA | 2.0.0 | Your SCOPERA records, entities and actions in any AI client, within your permis… |
+| 2026-11-08 14:39:11 | com.landedfx/fx | LandedFX | 1.0.0 | All-in FX quotes and routes between 25 local currencies and stablecoins, after… |
+| 2026-11-08 14:42:21 | com.forevenza.services/stillleaf | Stillleaf: Memorial program correction,… | 1.0.0 | Existing memorial program correction, printing and delivery coordination for fu… |
+| 2026-11-08 14:42:35 | io.github.johnpua1/dual-payment-setup | Universal Data — x402 + MPP Payment Set… | 1.0.0 | Remote MCP with a paid tool for generating x402 and MPP buyer/seller starter in… |
+| 2026-11-08 14:42:55 | io.cryptocoinstat/mcp | CryptoCoinStat | 0.10.0 | Checks on crypto tokens: live code, source gaps, real cap, owner powers, unlock… |
+| 2026-11-08 14:43:03 | io.github.tendertrail/sanctionscreen-mcp | SanctionScreen: US, UK and Canada sanct… | 0.1.0 | Screen people, companies and vessels against US OFAC, UK and Canadian sanctions… |
+| 2026-11-08 14:47:25 | app.pinmade/pinmade | Pinmade: local makers | 1.0.0 | Find hand-checked local makers worldwide: shops that make their own things, wit… |
+| 2026-11-08 14:48:09 | app.reelist/reelist | Reelist | 1.0.0 | Your film diary: log and rate films, search what you've watched, keep a watchli… |
+| 2026-11-08 14:51:13 | ai.rankspot/seo | RankSpot SEO | 1.0.0 | SEO and AI visibility: keywords, competitors, backlinks, articles, outreach and… |
+| 2026-11-08 14:55:13 | com.subhadipmitra/site | Subhadip Mitra: essays, research and pr… | 1.0.0 | Read-only search and full text of Subhadip Mitra's essays, papers, projects and… |
+| 2026-11-08 14:59:31 | io.github.tendertrail/sanctionsnorth-mcp | SanctionsNorth: US, UK and Canada sanct… | 0.1.0 | Screen people, companies and vessels against US OFAC, UK and Canadian sanctions… |
+| 2026-11-08 14:59:45 | com.simpleacme/dns-setup | SimpleACME DNS-01 setup | 1.0.0 | Read-only DNS-01 setup guides and templates for Traefik, win-acme, Certbot and… |
+| 2026-11-08 14:59:53 | [io.github.Imgrund/hybridlog](https://github.com/Imgrund/hybridlog) | hybridlog | 0.1.14 | Reads your own Garmin mirror: readiness, training load, muscle freshness, and r… |
+| 2026-11-08 15:03:56 | [io.github.com55/pyside6-mcp](https://github.com/com55/pyside6-mcp) | PySide6 MCP | 0.1.1 | Playwright-style MCP to inspect, control, and debug PySide6 desktop GUIs. |
+| 2026-11-08 15:04:37 | [com.mambabuilt/mcp-zillow-listing-details](https://github.com/mambalabsdev/mcp-zillow-listing-details) |  | 1.0.0 | Zillow home details by URL, ZPID, address, or ZIP code, as flat rows |
+| 2026-11-08 15:07:48 | academy.serviceengineer/se-ai | Service Engineer AI | 1.0.0 | Medical equipment troubleshooting and spare parts lookup for biomedical and ser… |
+| 2026-11-08 15:07:52 | com.onlineornot/onlineornot | OnlineOrNot | 0.1.0 | Monitor websites, APIs, browser flows, and scheduled jobs; manage status pages… |
+| 2026-11-08 15:08:27 | [com.mambabuilt/mcp-research-topic-institutions-authors](https://github.com/mambalabsdev/mcp-research-topic-institutions-authors) |  | 1.0.0 | Rank the institutions and authors with the most works on a research topic, from… |
+| 2026-11-08 15:11:29 | lt.zodly/zodly | zodly | 1.0.0 | Corrects Lithuanian spelling, grammar and punctuation. zodly Max plan: sign in… |
+| 2026-11-08 15:13:42 | [com.mambabuilt/mcp-github-followers-following-export](https://github.com/mambalabsdev/mcp-github-followers-following-export) |  | 1.0.0 | Full GitHub followers and following lists as rows, with a completeness report p… |
+| 2026-11-08 15:17:30 | hu.ipon/shop | iPon webshop | 2.0.0 | Search iPon's electronics and PC parts, manage your cart, follow and place orde… |
+| 2026-11-08 15:19:12 | [com.mambabuilt/mcp-healthcare-provider-npi-enricher](https://github.com/mambalabsdev/mcp-healthcare-provider-npi-enricher) |  | 1.0.0 | Enrich NPIs or healthcare provider names from the official US NPI Registry |
 
 ## Data source
 
