@@ -1,0 +1,8 @@
+created_at,server,title,version,repository,transports,description
+2026-11-08T22:23:35.805962Z,io.github.slashml-ai/ml-memory,SlashML (/ml) Persistent Agent Memory & Code Localization,1.0.11,https://github.com/slashml-ai/ml-memory,,"Persistent conversational memory, behavioral code search, and bug localization for AI agents."
+2026-11-08T22:26:48.689059Z,com.usethatapp/usethatapp,UseThatApp,1.0.0,,streamable-http,"Create and manage the apps you sell on UseThatApp: listings, versions, prices, integration settings."
+2026-11-08T22:27:51.719743Z,io.github.phoneburner/nodnod-agent-face,NodNod,0.1.0,,streamable-http,"Give your agent a face, a voice and a brain, then send it to a meeting or its own web page."
+2026-11-08T22:32:12.66923Z,broker.brick/shop,Brick Broker,1.0.0,,streamable-http,"Read-only LEGO shop: search sets, check price and availability, quote US shipping, read policies."
+2026-11-08T22:39:17.497659Z,org.fairappraisers/mcp,FAIR Appraisers,1.1.0,,streamable-http,"Search a free public directory of US appraisers by city, state, specialty and intended use."
+2026-11-08T22:58:24.230361Z,io.github.tombaldwin/agentlink,agentlink,0.1.1,https://github.com/tombaldwin/agentlink,,AI agents on different machines and Claude accounts message each other. Wakes idle Claude Code.
+2026-11-08T23:09:57.159698Z,io.github.adhit-r/fairmind,FairMind,0.3.1a0,https://github.com/adhit-r/fairmind,,"Release gate for AI systems from FairMind: evaluations, framework evidence and ledger snapshots."

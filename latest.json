@@ -2487,6 +2487,7 @@
     "br.eng.nexocausal/pericia",
     "br.ia.dilligence/certidoes",
     "broker.aidata/market",
+    "broker.brick/shop",
     "build.appside/mcp",
     "build.automo/automo-build",
     "build.co/cobuild",
@@ -9814,6 +9815,7 @@
     "com.userstoriesbot/mcp",
     "com.usespur/spur",
     "com.usetested/reviews",
+    "com.usethatapp/usethatapp",
     "com.usethisskill/skills",
     "com.usethumbs/thumbs",
     "com.usetruenote/truenote",
@@ -16512,6 +16514,7 @@
     "io.github.adel-s/frigate-auth-mcp",
     "io.github.adelinamart/robrain",
     "io.github.adewale/agentic-mermaid",
+    "io.github.adhit-r/fairmind",
     "io.github.adiarora06/reporipple",
     "io.github.adinomyerson/fullydefined-solidworks",
     "io.github.adityatiwari101104/contribos",
@@ -23570,6 +23573,7 @@
     "io.github.phillipboesger/polarion-mcp",
     "io.github.philpof102-svg/tokenizedblock",
     "io.github.phoneburner/meetingburner-mcp",
+    "io.github.phoneburner/nodnod-agent-face",
     "io.github.phongndo/alive2-mcp",
     "io.github.phonology024/babelscribe",
     "io.github.photofresco/photofresco",
@@ -26673,6 +26677,7 @@
     "io.github.skyzhao1223/zspace-cli",
     "io.github.slabbdev/navette",
     "io.github.slashman413/cowork",
+    "io.github.slashml-ai/ml-memory",
     "io.github.slashml-ai/slashml-robotics",
     "io.github.slavins-co/cellartracker-mcp",
     "io.github.slee1996/pillowfort",
@@ -27655,6 +27660,7 @@
     "io.github.tokconnect/tiktok-mcp",
     "io.github.tokenzero-ai/tokenzero",
     "io.github.tolboy/telegram-mcp-tdlib",
+    "io.github.tombaldwin/agentlink",
     "io.github.tombaldwin/candor",
     "io.github.tombaldwin/ebman",
     "io.github.tomcrocker/pingoru-status",
@@ -30781,6 +30787,7 @@
     "org.expatslist/mcp",
     "org.ezannuity/ezannuity",
     "org.fabulotheca/fabulotheca",
+    "org.fairappraisers/mcp",
     "org.fastfibre/fiber-check",
     "org.feedam/feed-america",
     "org.feegate/marketplace",
@@ -32390,11 +32397,11 @@
     "zone.blip/bazaar"
   ],
   "list": {
-    "count": 32,
-    "from": "2026-11-08T21:19:31.23142Z",
-    "path": "data/new-mcp-servers-2026-11-08T22-21-17-489257Z.csv",
-    "to": "2026-11-08T22:21:17.489257Z"
+    "count": 7,
+    "from": "2026-11-08T22:21:17.489257Z",
+    "path": "data/new-mcp-servers-2026-11-08T23-18-51-990251Z.csv",
+    "to": "2026-11-08T23:18:51.990251Z"
   },
   "source_truncated": false,
-  "window": "2026-11-08T22:21:17.489257Z"
+  "window": "2026-11-08T23:18:51.990251Z"
 }
