@@ -9,37 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 12:19 UTC
+## Latest list — 2026-11-08 13:21 UTC
 
-New MCP servers published between 2026-11-08 11:19 UTC and 2026-11-08 12:19 UTC.
+New MCP servers published between 2026-11-08 12:19 UTC and 2026-11-08 13:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-08T12-19-16-320472Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-08T13-21-14-548678Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-08 11:20:07 | ru.gerro/gerro | Gerro: госзакупки для ИИ / Russian publ… | 1.0.0 | Госзакупки РФ в ИИ-чате: поиск, обеспечения, документы. Russian public procurem… |
-| 2026-11-08 11:20:36 | com.landlordbench/mcp | Landlord Bench | 1.0.0 | Look up what landlord software costs a 25-unit portfolio a month, and what tena… |
-| 2026-11-08 11:22:11 | [io.github.MelMayssonOwen/clef-music-tools](https://github.com/MelMayssonOwen/agent-skills) | Clef Music Tools | 1.0.0 | Transpose chords, spell piano chords, turn guitar tab into piano notes and find… |
-| 2026-11-08 11:22:11 | [io.github.MelMayssonOwen/makeirl](https://github.com/MelMayssonOwen/agent-skills) | MakeIRL | 0.2.0 | Run ERC, DRC, parity, BOM and export checks on KiCad 9 boards before manufactur… |
-| 2026-11-08 11:25:38 | io.rentamac/mac | Rentamac | 1.0.0 | Rent and manage dedicated Apple Silicon Macs for iOS builds and CI/CD from your… |
-| 2026-11-08 11:26:41 | [com.deepnia/deepnia](https://github.com/Deepnia/skills) | Deepnia | 1.0.0 | Create AI images, short videos and voice-overs on Deepnia, with the price shown… |
-| 2026-11-08 11:27:32 | br.com.azpay/monetize | AZPay Monetize — Sepolia Sandbox | 1.0.0 | Search, negotiate and buy resource access with x402 test USDC on Ethereum Sepol… |
-| 2026-11-08 11:30:28 | ai.render/presentations | render.ai Presentations | 1.0.0 | Create, edit, preview and export designed, editable presentations from a brief… |
-| 2026-11-08 11:31:31 | io.github.Mrc527/mcp-for-icloud | MCP for iCloud | 1.1.0 | Read and send iCloud Mail, manage iCloud Calendar. Needs an approved account at… |
-| 2026-11-08 11:34:28 | [io.github.preetsuthar17/ikiform](https://github.com/preetsuthar17/ikiform-plugin) | Ikiform | 0.1.0 | Backend for any website form: create forms, read and triage submissions, debug… |
-| 2026-11-08 11:36:43 | [io.dorabot/dia-chi](https://github.com/Dorabot-io/sap-nhap-2025) | Dorabot – Vietnam address after 2025 me… | 1.0.0 | Convert old Vietnamese addresses to new ones after the 2025 merger, per officia… |
-| 2026-11-08 11:37:34 | org.convertr/convertr | Convertr file converter | 1.0.0 | Convert video, audio, images, documents and e-books between 800+ formats. 100 f… |
-| 2026-11-08 11:44:23 | dev.sourcepost/directory | SourcePost | 0.1.0 | A directory where AI agents find suppliers, services, APIs and data sources. No… |
-| 2026-11-08 11:44:42 | co.geotok/trips | GeoTok Trips | 1.0.0 | Plan trips: flights, hotels, transfers, sights and food spots from TikTok food… |
-| 2026-11-08 11:45:14 | [io.github.dankezo/anti-rea-mcp](https://github.com/dankezo/antiRea) |  | 2.7.4 | antiRea advisory bot-abuse signals as stateful MCP sessions (evaluation and dem… |
-| 2026-11-08 11:48:27 | ai.tauric/tauric | Tauric | 1.0.0 | Market data, filings, fundamentals, macro, news and research runs for AI assist… |
-| 2026-11-08 11:48:36 | ro.simoshop/catalog | SimoShop | 1.0.0 | Catalogul SimoShop: bijuterii si componente din argint 925, cautare si top prod… |
-| 2026-11-08 11:54:33 | tech.wekoya.bridge/bridge | Bridge by Wekoya | 1.0.0 | Price, compare and design AI features on 90+ models, find cheaper ones, control… |
-| 2026-11-08 12:04:21 | com.findweedny/findweedny | FindWeedNY | 1.3.0 | Licensed NY cannabis dispensaries, brands, deals, license checks and lab-anchor… |
-| 2026-11-08 12:09:07 | io.github.johnpua1/universal-data-api | Universal Data API | 1.0.0 | Remote MCP for Commerce Hunter, Web Research and Agent Intelligence. $0.01 USDC… |
-| 2026-11-08 12:16:43 | [io.github.zinoodev85/fatalguard](https://github.com/zinoodev85/fatalguard) | FatalGuard | 1.3.1 | Read-only MCP server inside WordPress: PHP error logs, debug.log and fatal erro… |
-| 2026-11-08 12:17:26 | io.github.northwindapps/freeflowchart |  | 0.1.1 | Render text-based flowcharts (FlowScript) to PNG/PDF with layout feedback, offl… |
-| 2026-11-08 12:17:45 | [io.github.GiulioDER/re-call](https://github.com/GiulioDER/RE-call) | RE-call MCP Memory Server | 0.15.0 | Agent memory on SQLite or Postgres that flags superseded facts and abstains ins… |
+| 2026-11-08 12:20:20 | com.eventassets/eventassets | EventAssets | 1.0.0 | Plan and host your events: event page, guest list, RSVP, seating, agenda, budge… |
+| 2026-11-08 12:24:12 | ai.sternly/verify | Sternly | 0.1.0 | Checks finished AI work after it is done: figures, citations and quotations, wi… |
+| 2026-11-08 12:29:44 | io.github.MaartenDMT/seo-perch | SEO Perch | 1.0.0 | One dashboard for the search, speed and health of the sites you run. Recommenda… |
+| 2026-11-08 12:32:09 | uk.geomaster/geoengine | GeoMaster GeoEngine | 1.0.0 | Geosteering AI for GeoMaster projects: well position, GeoMatch checks, versions… |
+| 2026-11-08 12:35:47 | racing.kerbside/f1 | Kerbside F1 | 1.0.0 | Free Formula 1 stats: standings, title maths, teammate battles and records, eac… |
+| 2026-11-08 12:36:10 | [io.github.AIVeed-io/aiveed-mcp](https://github.com/AIVeed-io/aiveed-mcp) | AIVeed | 0.1.1 | Generate AI videos, images and audio (Veo 3.1, Seedance, Kling and more) with A… |
+| 2026-11-08 12:46:10 | jp.rep-app/public-mcp | Rep | 0.2.0 | Check whether Rep, a network of verified executives in Japan, has members match… |
+| 2026-11-08 12:46:21 | [io.github.CHANGCHINFU/truthbear-mcp](https://github.com/CHANGCHINFU/truthbear-mcp) | Truth Bear | 1.0.0 | Verifiable official-source records for AI agents: record_hash + Ed25519 citatio… |
+| 2026-11-08 12:55:30 | [io.github.anzy-renlab-ai/pronounce](https://github.com/anzy-renlab-ai/pronounce) |  | 0.2.0 | How engineers pronounce developer jargon — 1,927 confidence-tagged entries with… |
+| 2026-11-08 12:55:51 | [io.github.turbyho/fw-context-mcp](https://github.com/turbyho/fw-context-mcp) |  | 0.36.0 | Build-aware code intelligence for embedded C/C++ firmware — libclang, FTS5, cal… |
+| 2026-11-08 12:58:08 | [io.github.ByteBlisk/app-reviews-insights](https://github.com/ByteBlisk/mcp-servers) | App Store & Google Play Reviews Scraper… | 1.0.0 | Google Play and App Store reviews in one format, with complaint themes, quotes… |
+| 2026-11-08 12:58:08 | [io.github.ByteBlisk/google-play-search-toolkit](https://github.com/ByteBlisk/mcp-servers) | Google Play Scraper & SERP Rank Checker | 1.0.0 | Google Play apps, reviews and search, plus top-100 search rank on Google, Bing… |
+| 2026-11-08 12:58:08 | [io.github.ByteBlisk/sitereader](https://github.com/ByteBlisk/mcp-servers) | Web Scraper & Crawler for RAG (Markdown) | 1.0.0 | Website to clean Markdown or JSON for AI and RAG: read pages, crawl sites, extr… |
+| 2026-11-08 13:02:03 | io.github.cventuresza-tech/puley | Puley | 1.0.0 | Let your AI read live public pages it is locked out of (TikTok, Instagram, Amaz… |
+| 2026-11-08 13:03:39 | [io.github.kuzenlabs/maviapi-mcp](https://github.com/kuzenlabs/maviapi-mcp) | maviapi | 0.1.1 | Live JSON from sites with no API (Booking, Airbnb, Tripadvisor…), plus agent-bu… |
+| 2026-11-08 13:06:50 | org.agentshopping/intent-catalog | AgentShopping Intent Catalog | 0.1.0 | Read-only MCP endpoint for 100 buyer-agent transaction intents and supply offer… |
+| 2026-11-08 13:07:38 | dev.taifoon.coord/text-digest-1170141 | text digest (sha256, keccak256) | 1.0.0 | Send text and get its sha256 or keccak256 hash as hex. Listed by Moonbeam: nine… |
+| 2026-11-08 13:13:10 | com.aeonport/aeonport | Aeonport | 1.0.0 | Hire AI agents by outcome: frozen acceptance rules, automatic checks, verifiabl… |
+| 2026-11-08 13:19:39 | [io.github.Bannawat01/devdoctor](https://github.com/Bannawat01/DevDoctor) | DevDoctor | 0.1.1 | Read-only local diagnostics for Rust, Node, Docker, ports, and environment conf… |
+| 2026-11-08 13:20:44 | fun.proofmarket/proofmarket | ProofMarket | 1.0.0 | AI agents pay people nearby to check the real world: photos and an answer, paid… |
 
 ## Data source
 

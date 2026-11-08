@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-11-08T12:20:20.948415Z,com.eventassets/eventassets,EventAssets,1.0.0,,streamable-http,"Plan and host your events: event page, guest list, RSVP, seating, agenda, budget and media."
+2026-11-08T12:24:12.00621Z,ai.sternly/verify,Sternly,0.1.0,,streamable-http,"Checks finished AI work after it is done: figures, citations and quotations, with a signed record."
+2026-11-08T12:29:44.650572Z,io.github.MaartenDMT/seo-perch,SEO Perch,1.0.0,,streamable-http,"One dashboard for the search, speed and health of the sites you run. Recommendations only."
+2026-11-08T12:32:09.635787Z,uk.geomaster/geoengine,GeoMaster GeoEngine,1.0.0,,streamable-http,"Geosteering AI for GeoMaster projects: well position, GeoMatch checks, versions, DrillTracker."
+2026-11-08T12:35:47.799322Z,racing.kerbside/f1,Kerbside F1,1.0.0,,streamable-http,"Free Formula 1 stats: standings, title maths, teammate battles and records, each linked to source."
+2026-11-08T12:36:10.266413Z,io.github.AIVeed-io/aiveed-mcp,AIVeed,0.1.1,https://github.com/AIVeed-io/aiveed-mcp,,"Generate AI videos, images and audio (Veo 3.1, Seedance, Kling and more) with AIVeed credits."
+2026-11-08T12:46:10.108253Z,jp.rep-app/public-mcp,Rep,0.2.0,,streamable-http,"Check whether Rep, a network of verified executives in Japan, has members matching your need."
+2026-11-08T12:46:21.300154Z,io.github.CHANGCHINFU/truthbear-mcp,Truth Bear,1.0.0,https://github.com/CHANGCHINFU/truthbear-mcp,streamable-http,"Verifiable official-source records for AI agents: record_hash + Ed25519 citation, x402 per-call"
+2026-11-08T12:55:30.262573Z,io.github.anzy-renlab-ai/pronounce,,0.2.0,https://github.com/anzy-renlab-ai/pronounce,,"How engineers pronounce developer jargon — 1,927 confidence-tagged entries with citations."
+2026-11-08T12:55:51.801895Z,io.github.turbyho/fw-context-mcp,,0.36.0,https://github.com/turbyho/fw-context-mcp,,"Build-aware code intelligence for embedded C/C++ firmware — libclang, FTS5, call graphs, 37 tools"
+2026-11-08T12:58:08.197593Z,io.github.ByteBlisk/app-reviews-insights,App Store & Google Play Reviews Scraper API,1.0.0,https://github.com/ByteBlisk/mcp-servers,streamable-http,"Google Play and App Store reviews in one format, with complaint themes, quotes and app comparison."
+2026-11-08T12:58:08.342726Z,io.github.ByteBlisk/google-play-search-toolkit,Google Play Scraper & SERP Rank Checker,1.0.0,https://github.com/ByteBlisk/mcp-servers,streamable-http,"Google Play apps, reviews and search, plus top-100 search rank on Google, Bing and Yandex."
+2026-11-08T12:58:08.486613Z,io.github.ByteBlisk/sitereader,Web Scraper & Crawler for RAG (Markdown),1.0.0,https://github.com/ByteBlisk/mcp-servers,streamable-http,"Website to clean Markdown or JSON for AI and RAG: read pages, crawl sites, extract described fields."
+2026-11-08T13:02:03.726949Z,io.github.cventuresza-tech/puley,Puley,1.0.0,,streamable-http,"Let your AI read live public pages it is locked out of (TikTok, Instagram, Amazon) and watch them."
+2026-11-08T13:03:39.349207Z,io.github.kuzenlabs/maviapi-mcp,maviapi,0.1.1,https://github.com/kuzenlabs/maviapi-mcp,,"Live JSON from sites with no API (Booking, Airbnb, Tripadvisor…), plus agent-built APIs for any site"
+2026-11-08T13:06:50.186344Z,org.agentshopping/intent-catalog,AgentShopping Intent Catalog,0.1.0,,streamable-http,Read-only MCP endpoint for 100 buyer-agent transaction intents and supply offers.
+2026-11-08T13:07:38.193373Z,dev.taifoon.coord/text-digest-1170141,"text digest (sha256, keccak256)",1.0.0,,streamable-http,Send text and get its sha256 or keccak256 hash as hex. Listed by Moonbeam: nine outside sellers stan
+2026-11-08T13:13:10.991539Z,com.aeonport/aeonport,Aeonport,1.0.0,,streamable-http,"Hire AI agents by outcome: frozen acceptance rules, automatic checks, verifiable receipts."
+2026-11-08T13:19:39.76205Z,io.github.Bannawat01/devdoctor,DevDoctor,0.1.1,https://github.com/Bannawat01/DevDoctor,,"Read-only local diagnostics for Rust, Node, Docker, ports, and environment configuration."
+2026-11-08T13:20:44.093355Z,fun.proofmarket/proofmarket,ProofMarket,1.0.0,,streamable-http,"AI agents pay people nearby to check the real world: photos and an answer, paid on Solana."
