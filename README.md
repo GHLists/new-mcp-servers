@@ -9,39 +9,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 18:21 UTC
+## Latest list — 2026-11-08 19:20 UTC
 
-New MCP servers published between 2026-11-08 17:20 UTC and 2026-11-08 18:21 UTC.
+New MCP servers published between 2026-11-08 18:21 UTC and 2026-11-08 19:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-08T18-21-16-651587Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-08T19-20-29-027412Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-08 17:21:34 | com.cribalo/research-mcp | Cribalo research MCP (decoy) | 1.1.0 | Research decoy: fake tools, nothing is executed, every call is logged. Details… |
-| 2026-11-08 17:26:18 | com.engagemii/citation-watch | Engagemii AI Visibility Data | 1.1.0 | AI visibility data on 82M+ companies: scores, AI naming, AI crawler reads and f… |
-| 2026-11-08 17:28:34 | [ai.stealads/stealads](https://github.com/TheMattBerman/ads-mcp) | StealAds | 1.2.1 | Search competitor Meta ads, find winning and longest-running ads, and adapt one… |
-| 2026-11-08 17:31:44 | com.featureloom/featureloom | featureloom | 1.0.0 | Requirements and backlog as living markdown plans, handed whole to your coding… |
-| 2026-11-08 17:33:15 | [com.pronovatx/site-audit](https://github.com/chrispronovadesigns/pronova-mcp-apps) | Pronova Site Audit | 1.0.0 | Free instant website audit: technical SEO, Core Web Vitals, and indexing checks. |
-| 2026-11-08 17:38:11 | ai.cognitolabs/cognitolabs | CognitoLabs.ai | 1.0.0 | Hospital prices, payer rates, Medicare data and pricing studies for healthcare… |
-| 2026-11-08 17:38:20 | com.worthleaving/verdict | Worth Leaving | 1.1.0 | Unvested-equity math: the verdict, what leaving forfeits, and the number an off… |
-| 2026-11-08 17:38:23 | [io.github.jdkabattles/forgingstack-watchtower](https://github.com/jdkabattles/forgingstack-watchtower) | ForgingStack Watchtower | 0.1.0 | An agent that stops checking in is an agent you hear about. |
-| 2026-11-08 17:38:58 | [io.github.tcgtracker-boop/agent-company-mcp](https://github.com/tcgtracker-boop/agent-company-mcp) | OffshoreProz Agent Company | 2.35.0 | A legal home for AI agents: Wyoming LLC US$299 + US$185/yr, or Nevis. Free diag… |
-| 2026-11-08 17:38:59 | [io.github.tcgtracker-boop/offshoreproz-agent-api](https://github.com/tcgtracker-boop/agent-company-mcp) | OffshoreProz Agent API | 1.0.0 | Developer MCP and REST API to form a Wyoming LLC or Marshall Islands DAO LLC. |
-| 2026-11-08 17:40:23 | [io.github.jdkabattles/forgingstack-ration](https://github.com/jdkabattles/forgingstack-ration) | ForgingStack Ration | 0.1.0 | One quota pool, many agents, no overruns. |
-| 2026-11-08 17:41:10 | [io.github.jdkabattles/forgingstack-quorum](https://github.com/jdkabattles/forgingstack-quorum) | ForgingStack Quorum | 0.1.0 | Before an agent acts alone, get the quorum. One proposal, N approvals, one rece… |
-| 2026-11-08 17:45:02 | com.dropgone/dropgone | DropGone | 0.1.2 | Send encrypted, expiring file links and inspect availability without consuming… |
-| 2026-11-08 17:47:41 | [io.github.wellknownmcp/hoshin-kanri](https://github.com/wellknownmcp/hoshin-kanri) | Hoshin Kanri X-Matrix | 4.5.0 | Strategic memory agents can build, score and keep current: a living X-Matrix wi… |
-| 2026-11-08 17:48:56 | [io.github.OpenFault/openfault](https://github.com/OpenFault/openfault) | OpenFault | 0.1.0 | Self-hosted, Sentry-compatible error tracker. Agents read and triage issues ove… |
-| 2026-11-08 17:49:12 | work.agentexchange.store/mcp |  | 1.3.202611081749 | Paid x402 tools for agents: mcp-liveness-probe, DMARC audit, Base USDC reads. |
-| 2026-11-08 17:52:38 | dev.pcbbrew/pcbbrew | PCBBrew | 1.0.0 | Boards and modules PCBBrew can put on a real PCB and simulate, KiCad parts and… |
-| 2026-11-08 17:53:29 | ee.pesupanda/agent |  | 1.0.0 | Pesupanda (Tallinn dry cleaning & laundry): prices, hours, FAQ, courier area an… |
-| 2026-11-08 17:56:14 | com.contrasttherapyfinder.www/contrast-therapy-finder | Contrast Therapy Finder | 1.0.0 | Find US sauna, cold plunge and contrast therapy studios. Get equipment pricing… |
-| 2026-11-08 18:03:47 | cn.moltbook/moltcn | Moltcn AI Agent Community | 1.0.0 | China's AI agent community: ask many AIs at once (AI Dianping), agent passport… |
-| 2026-11-08 18:06:01 | com.selfping/selfping |  | 1.0.1 | SMS alerts for AI agents and scripts. Text your own phone and read replies. API… |
-| 2026-11-08 18:06:13 | [io.github.lukBB/planpost](https://github.com/lukBB/social-poster-v2) | PlanPost | 0.3.0 | Schedule posts to 7 social networks, render video and carousels, read analytics… |
-| 2026-11-08 18:07:54 | [io.github.Delfen-com/sovereign-agent-logbook](https://github.com/Delfen-com/sovereign-agent-logbook) | Sovereign Agent Logbook | 0.1.1 | Tamper-evident logbook for AI agents: hash-chained, on your own server, any mod… |
-| 2026-11-08 18:16:25 | [io.github.Ruthvik-Bandari/linkedin-profile-mcp](https://github.com/Ruthvik-Bandari/linkedin-profile-mcp) |  | 0.1.1 | Review and improve LinkedIn profile text the way recruiters search. No scraping… |
-| 2026-11-08 18:17:12 | [io.github.tonysafonov/yandex-tracker-mcp-lite](https://github.com/tonysafonov/yandex-tracker-mcp-lite) | Yandex Tracker (lite) | 0.1.1 | Lean Yandex Tracker MCP: 9 tools, ~1.2k tokens of tool definitions, compact ans… |
+| 2026-11-08 18:21:18 | [io.github.taxmanhaven/patina](https://github.com/taxmanhaven/patina-showcase) | Patina | 0.7.4 | Marks the lines in your draft that read as machine-written, and says why. Offli… |
+| 2026-11-08 18:29:58 | com.grabthecool/gift-finder | Grab the Cool Gift Finder | 1.0.0 | Find unusual, funny gift ideas by occasion, person and budget, with links to fu… |
+| 2026-11-08 18:29:59 | com.cosasguapas/buscador-regalos | Cosas Guapas: buscador de regalos | 1.0.0 | Regalos originales por ocasión, persona y presupuesto, con enlaces a guías comp… |
+| 2026-11-08 18:32:40 | ing.trysometh.edit/editatlas | EditAtlas | 1.0.0 | Find video editing techniques by the result you want, with prompts, sound effec… |
+| 2026-11-08 18:33:04 | com.swellcabin/surf | Swell Cabin | 1.0.0 | Plan surf trips: surf towns and spots worldwide, rated surf forecasts, live cam… |
+| 2026-11-08 18:33:26 | de.wowfunde/geschenkfinder | WowFunde: Geschenkfinder | 1.0.0 | Originelle, lustige Geschenkideen nach Anlass, Person und Budget, mit Links zu… |
+| 2026-11-08 18:33:28 | fr.insolitewow/idees-cadeaux | Insolite Wow : idées cadeaux | 1.0.0 | Idées cadeaux originales et drôles par occasion, personne et budget, avec liens… |
+| 2026-11-08 18:33:30 | it.cosedawow/trova-regali | Cose da Wow: trova regali | 1.0.0 | Idee regalo originali e divertenti per occasione, persona e budget, con link al… |
+| 2026-11-08 18:40:09 | com.mockingbirdhouse/mockingbird | Mockingbird | 1.0.0 | Search a library of winning Meta ads and remake them in your brand, or make new… |
+| 2026-11-08 18:43:05 | [io.github.morvanvivien/bibian-france-jobs](https://github.com/morvanvivien/bibian-data-mcp) | French job boards: Free-Work, HelloWork… | 1.0.0 | Job postings and freelance day rates from 8 French job boards, as JSON tools. |
+| 2026-11-08 18:43:06 | [io.github.morvanvivien/bibian-europe-jobs](https://github.com/morvanvivien/bibian-data-mcp) | European job boards: Germany, Spain, Sw… | 1.0.0 | Job postings from German, Spanish, Swiss, Polish, Swedish and UK job boards plu… |
+| 2026-11-08 18:43:06 | [io.github.morvanvivien/bibian-americas-apac-jobs](https://github.com/morvanvivien/bibian-data-mcp) | Job boards: Latin America, US, Canada,… | 1.0.0 | Job postings from Latin American, North American and Asia Pacific job boards, a… |
+| 2026-11-08 18:43:06 | [io.github.morvanvivien/bibian-remote-ats-jobs](https://github.com/morvanvivien/bibian-data-mcp) | Remote job boards and company career pa… | 1.0.0 | Remote jobs (RemoteOK, Remotive, WWR, HN) and career pages on Greenhouse, Lever… |
+| 2026-11-08 18:43:06 | [io.github.morvanvivien/bibian-freelance-industry-jobs](https://github.com/morvanvivien/bibian-data-mcp) | Freelance projects and industry job boa… | 1.0.0 | Freelance projects (Codeur, Freelancer, Workana, PeoplePerHour) and sector job… |
+| 2026-11-08 18:43:06 | [io.github.morvanvivien/bibian-market-data](https://github.com/morvanvivien/bibian-data-mcp) | Prices, property, cars, events and spor… | 1.0.0 | Grocery and book prices, hotels, property, used cars, events, tenders and sport… |
+| 2026-11-08 18:44:40 | pro.phulax/phulax | Phulax | 1.0.0 | Construction cost estimates for US jobs: materials, labor by trade, permits, sc… |
+| 2026-11-08 18:48:26 | com.six-ir/six-ir | Six-IR image sizes | 1.0.0 | Image sizes for Instagram, TikTok, YouTube, Etsy, print and more, plus links to… |
+| 2026-11-08 18:53:59 | [io.github.oortmem/oort](https://github.com/oortmem/oort) | Oort | 0.7.1 | Memory for AI agents that stays correct as facts change. |
+| 2026-11-08 19:06:50 | dev.salla/merchant | Salla | 1.0.0 | Run your Salla store from any AI app: orders, sales, stock, products, prices an… |
+| 2026-11-08 19:07:47 | [io.github.turbyho/kicad-workbench](https://github.com/turbyho/kicad-workbench) | KiCad Workbench | 0.1.0 | Gives KiCad 8, 9 and 10 projects to LLM agents: schematics, boards, ERC, DRC, B… |
+| 2026-11-08 19:09:01 | com.youruxagent/mcp | Your UX Agent | 1.0.0 | Accessibility and UX audit findings, fix prompts and remediation tasks for your… |
+| 2026-11-08 19:09:46 | com.saascustomdomains/mcp | SaaS Custom Domains | 0.1.0 | Add custom domains with automatic SSL for your SaaS customers, check DNS and se… |
+| 2026-11-08 19:11:02 | ai.vavio/hermes | Vavio | 1.0.0 | Manage your hosted Hermes Agent from the AI you already use: status, model, hea… |
+| 2026-11-08 19:14:33 | com.tidewellsoftware/ats-jobs-api | ATS Jobs API | 1.0.0 | Open jobs from Greenhouse, Lever, Ashby and 5 more ATSes, via the Apify actor |
+| 2026-11-08 19:14:34 | com.tidewellsoftware/doc-to-markdown | Document to Markdown for LLM & RAG | 1.0.0 | PDF, Word, PowerPoint and scans to Markdown or RAG chunks, via the Apify actor |
+| 2026-11-08 19:14:34 | com.tidewellsoftware/google-trends-api | Google Trends API | 1.0.0 | Google Trends interest, regions, rising queries and Trending Now, via Apify |
+| 2026-11-08 19:14:34 | com.tidewellsoftware/google-news-api | Google News API | 1.0.0 | Google News search with real article URLs and optional full text, via Apify |
+| 2026-11-08 19:14:35 | com.tidewellsoftware/website-screenshot-pdf | Website Screenshot & PDF API | 1.0.0 | Full-page screenshots and URL to PDF in real Chrome, via the Apify actor |
+| 2026-11-08 19:15:18 | com.tidewellsoftware/actionbridge | ActionBridge | 1.0.0 | Migrate custom GPT Actions (OpenAPI) to MCP: preview conversions, setup steps,… |
+| 2026-11-08 19:16:24 | nl.knappekeuze/catalogus | KnappeKeuze | 1.0.0 | Dutch headphone and earbud comparison: independent scores, current prices and s… |
 
 ## Data source
 
