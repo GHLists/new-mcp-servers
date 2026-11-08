@@ -1,0 +1,124 @@
+created_at,server,title,version,repository,transports,description
+2026-11-08T01:20:08.414747Z,io.github.Muqian-Sun/xiangsu-mcp-plus,像塑 MCP Plus,0.6.0,https://github.com/Muqian-Sun/xiangsu-mcp-ext,,"Unofficial macOS MCP for Douyin AR (像塑): assets, menus, AI combine, delivery. For learning only."
+2026-11-08T01:22:31.337615Z,com.hitori-hojokin/subsidies,Hitori Hojokin - Japan subsidies for solo founders,1.0.0,,streamable-http,"Japanese subsidies and grants, judged for whether a solo founder with 0 employees can apply. Daily."
+2026-11-08T01:23:33.419241Z,com.labelqueue/mcp,"LabelQueue — Avery Label Dimensions, Margin & Bleed Layout Engine",1.0.0,https://github.com/bdodh22/labelqueue-mcp,streamable-http,"Look up exact Avery & standard sheet label dimensions, pitch, margins & print layout specs."
+2026-11-08T01:23:56.724239Z,com.mahjonghandbook/mcp,"MahjongHandbook — American NMJL, MCR & Riichi Mahjong Scoring Rules Engine",1.0.0,https://github.com/bdodh22/mahjonghandbook-mcp,streamable-http,"Query American NMJL, Chinese Official MCR (81 Fan) & Japanese Riichi Mahjong scoring rules."
+2026-11-08T01:26:10.759506Z,com.hornlib/mcp,HornLib — Interactive French Horn F/Bb Double Horn Fingering & Harmonics Engine,1.0.0,,streamable-http,"Look up French Horn F/Bb double horn valve fingerings, trigger combinations & alternate partials."
+2026-11-08T01:27:37.631325Z,com.redqd.ffrs/ffrs-wiki,FFRS Wiki - FINAL FANTASY RESONANCE Database,1.0.0,,streamable-http,"FFRS Wiki MCP: FINAL FANTASY RESONANCE game data - 3,651 records, 9 languages, read-only."
+2026-11-08T01:27:39.239906Z,com.tbmlib/mcp,TbmLib — Tenor & F-Attachment Trombone Slide Position & Overtones Engine,1.0.0,,streamable-http,"Look up Tenor & F-attachment trombone slide positions (1st-7th), F-trigger shortcuts & pitch ad"
+2026-11-08T01:27:54.55656Z,com.oboelib/mcp,"OboeLib — Conservatory Oboe Fingering, Half-Hole, Forked F & Trill Chart Engine",1.0.0,,streamable-http,"Look up Conservatory oboe fingerings, half-hole, left/forked F rules, octave keys & trill combi"
+2026-11-08T01:28:11.848392Z,com.massageinchina/mcp,"MassageInChina — Authentic TCM Tuina, Acupressure Points & Bilingual Clinic Phrasebook",1.0.0,,streamable-http,"Look up Traditional Chinese Medicine (TCM) Tuina massage styles, meridian acupoints & bilingual"
+2026-11-08T01:32:18.935987Z,io.github.pbchrist/iconic-agent-marketplace,ICONIC Agent-Native Marketplace — Seven Specialist Services,0.1.0,,streamable-http,"Seven agent-native services, synthetic previews and unpaid scope requests. Checkout is disabled."
+2026-11-08T01:33:48.110189Z,org.internetsecure/security-monitor,InternetSecure,1.0.0,,streamable-http,"Security grades, SSL/TLS, headers and uptime for your domains, plus a CI deploy gate."
+2026-11-08T01:34:41.512521Z,com.agentposhq.safepay/check,SafePay Check,0.7.0,https://github.com/NovaCorpAI/safepay,streamable-http,Judges a payment before an AI agent makes it and returns a signed attestation. Moves no money.
+2026-11-08T01:40:53.346262Z,com.roasaurus/roasaurus,ROASaurus,1.0.0,,streamable-http,"Webshop profit, attribution and ad performance; ad changes through an approval inbox."
+2026-11-08T01:46:06.563684Z,io.github.tendertrail/tendertrail-mcp,TenderTrail: Canadian government contracts,0.1.1,,,"Canadian federal tenders, RFPs, contract awards and expiring contracts (recompete leads)."
+2026-11-08T01:46:52.706761Z,io.github.jdhart81/eco-funding,,0.1.0,https://github.com/jdhart81/viridis-eco-funding,streamable-http,Ecological complexity valuation with re-runnable receipts and pledge-pool simulation. Read-only.
+2026-11-08T01:57:27.221035Z,io.github.Cliftonz/tandoor-recipe-mcp,,3.4.0,https://github.com/Cliftonz/tandoor-recipe-mcp,,"Recipes, meal plans, shopping lists and more for your local or self-hosted Tandoor instance."
+2026-11-08T01:58:37.369031Z,com.travelacosta/trip-planning,Acosta Curated Travel,1.0.0,,streamable-http,"Search Acosta Curated Travel articles, browse upcoming group trips, and reach Ivone Acosta."
+2026-11-08T02:01:53.004056Z,io.github.umayado17/nas-search-mcp,Synology NAS search,0.6.0,https://github.com/umayado17/synology-search-agent,,"Search a Synology NAS's Universal Search index over SSH. No sudo, keeps DSM 2FA, read-only."
+2026-11-08T02:09:21.147709Z,com.closefinch/closefinch,Closefinch,0.1.0,,streamable-http,"AI CRM: accounts, deals, meetings and agents, with approvals before anything is sent."
+2026-11-08T02:11:04.451731Z,net.sellmydatatoai/facts,Sell My Data To AI,1.0.0,,streamable-http,"Read-only facts on AI training data licensing: buyer payouts, deals, data types, guides."
+2026-11-08T02:11:11.592461Z,io.github.cherchyk/mcpbrowser,MCP Browser,1.10.110,https://github.com/cherchyk/MCPBrowser,,"Browser automation using the user's Chromium session — JS execution, auth, and anti-bot support."
+2026-11-08T02:11:24.121663Z,io.github.theluckystrike/sheet-to-pdf,Zovo Sheet to PDF,1.0.0,,streamable-http,"Turn a CSV or Excel sheet into a clean, print-ready PDF table right in the chat."
+2026-11-08T02:11:34.086456Z,io.github.theluckystrike/activity-diagram,Zovo Activity Diagram,1.0.0,,streamable-http,"Turn a few lines of text into a UML activity diagram document, and check the flow."
+2026-11-08T02:11:36.252051Z,io.github.theluckystrike/anniversary-poster,Zovo Love Story Poster,1.0.0,,streamable-http,"Your days together, in print"
+2026-11-08T02:11:38.423533Z,io.github.theluckystrike/ar-aging,Zovo AR Aging Report,1.0.0,,streamable-http,Make an accounts receivable aging report from your open invoices and see who owes you money.
+2026-11-08T02:11:40.647442Z,io.github.theluckystrike/avg-balance,Zovo Average Balance,1.0.0,,streamable-http,Average monthly balance
+2026-11-08T02:11:42.812454Z,io.github.theluckystrike/bank-check,Zovo Bank Insurance Check,1.0.0,,streamable-http,FDIC bank lookup and coverage
+2026-11-08T02:11:45.011184Z,io.github.theluckystrike/bank-to-qbo,Zovo Bank File Converter,1.0.0,,streamable-http,"Convert a bank statement to a QBO file that QuickBooks imports, plus OFX."
+2026-11-08T02:11:47.187615Z,io.github.theluckystrike/bill-calendar,Zovo Bill Calendar,1.0.0,,streamable-http,Make a bill payment calendar from your list of bills: a printable monthly bill calendar.
+2026-11-08T02:11:49.342017Z,io.github.theluckystrike/birth-poster,Zovo Birth Stats Poster,1.0.0,,streamable-http,"Make a birth stats poster ready to print: send the baby's name, birth date and time, weight."
+2026-11-08T02:11:51.576266Z,io.github.theluckystrike/business-cards,Zovo Business Cards,1.0.0,,streamable-http,Make printable business cards from your name and contact details.
+2026-11-08T02:11:53.73723Z,io.github.theluckystrike/calendar-feed,Zovo Group Calendar,1.0.0,,streamable-http,Shares a schedule that your group subscribes to once and that stays up to date.
+2026-11-08T02:11:57.895965Z,io.github.theluckystrike/cap-table,Zovo Cap Table Calculator,1.0.0,,streamable-http,SAFE and dilution math
+2026-11-08T02:12:00.102773Z,io.github.theluckystrike/certificate-maker,Zovo Certificate Maker,1.0.0,,streamable-http,"Make certificates of completion, award certificates and certificates of appreciation for a student."
+2026-11-08T02:12:04.445741Z,io.github.theluckystrike/charity-check,Zovo Charity Lookup,1.0.0,,streamable-http,"Check a US nonprofit's tax-exempt status, revenue, expenses and officer pay before you donate."
+2026-11-08T02:12:06.621477Z,io.github.theluckystrike/chord-charts,Zovo Chord Chart Maker,1.0.0,,streamable-http,Make a guitar chord chart printable in seconds: send a list of chords or paste a song with chords.
+2026-11-08T02:12:09.060902Z,io.github.theluckystrike/chore-chart,Zovo Chore Chart,1.0.0,,streamable-http,"Make a printable chore chart and a fair chore rotation schedule for kids, a family or roommates."
+2026-11-08T02:12:11.268056Z,io.github.theluckystrike/class-diagram,Zovo Class Diagram,1.0.0,,streamable-http,Turns a short text description of classes into a UML class diagram you can print.
+2026-11-08T02:12:13.43662Z,io.github.theluckystrike/client-report,Zovo Client Report,1.0.1,,streamable-http,Weekly and monthly KPI reports
+2026-11-08T02:12:15.65877Z,io.github.theluckystrike/clinical-trials,Zovo Trial Finder,1.0.0,,streamable-http,Recruiting trials near you
+2026-11-08T02:12:17.852349Z,io.github.theluckystrike/cooking-timeline,Zovo Cooking Timeline,1.0.0,,streamable-http,Holiday cooking schedule
+2026-11-08T02:12:20.006961Z,io.github.theluckystrike/countdown-calendar,Zovo Countdown Chain,1.0.0,,streamable-http,"Make a printable countdown calendar to the day you are waiting for: a vacation, a wedding."
+2026-11-08T02:12:23.866321Z,io.github.theluckystrike/country-data,Zovo Country Data,1.0.0,,streamable-http,Compare countries on WB data
+2026-11-08T02:12:26.056548Z,io.github.theluckystrike/cross-sums,Zovo Cross Sum Puzzles,1.0.0,,streamable-http,"Make printable cross sum puzzles for puzzle fans, teachers and students as a PDF with an answer key."
+2026-11-08T02:12:28.23134Z,io.github.theluckystrike/cryptogram,Zovo Cryptogram Maker,1.0.0,,streamable-http,"Make printable cryptogram puzzles with answers from your own quotes, for a class, a club newsletter."
+2026-11-08T02:12:30.41992Z,io.github.theluckystrike/date-poll,Zovo Date Poll,1.0.0,,streamable-http,Helps a group schedule a time that works for everyone.
+2026-11-08T02:12:32.631983Z,io.github.theluckystrike/decision-tree,Zovo Decision Tree,1.0.0,,streamable-http,Solves and draws a decision tree for business choices from your own numbers.
+2026-11-08T02:12:34.908724Z,io.github.theluckystrike/dependency-audit,Zovo Dependency Audit,1.0.0,,streamable-http,"Audit a dependency list for known vulnerabilities, licenses and outdated versions."
+2026-11-08T02:12:39.315716Z,io.github.theluckystrike/envelope-printer,Zovo Envelope Printer,1.0.0,,streamable-http,Print envelopes with addresses at home.
+2026-11-08T02:12:41.664501Z,io.github.theluckystrike/er-diagram,Zovo ER Diagram,1.0.0,,streamable-http,Turns SQL CREATE TABLE statements into an entity relationship diagram you can print.
+2026-11-08T02:12:47.607205Z,io.github.theluckystrike/fair-draw,Zovo Fair Draw,1.0.0,,streamable-http,Organize a prize draw that everyone can check.
+2026-11-08T02:12:49.80422Z,io.github.theluckystrike/fbar-rates,Zovo FBAR Currency Converter,1.0.0,,streamable-http,Convert the maximum balance of each foreign bank account to US dollars at the U.S.
+2026-11-08T02:12:52.038431Z,io.github.theluckystrike/fishbone,Zovo Fishbone,1.0.0,,streamable-http,Turns a problem and its list of causes into a fishbone diagram you can print.
+2026-11-08T02:12:54.315814Z,io.github.theluckystrike/floor-plan,Zovo Floor Plan,1.0.0,,streamable-http,"Turns room sizes into a floor plan drawn to scale, with the area of each room and the total area."
+2026-11-08T02:12:56.514758Z,io.github.theluckystrike/flowchart,Zovo Flowchart,1.0.0,,streamable-http,Turn a list of steps and decisions into a clean flowchart you can download.
+2026-11-08T02:12:58.71408Z,io.github.theluckystrike/gedcom-charts,Zovo Pedigree Charts,1.0.0,,streamable-http,Pedigree charts from GEDCOM
+2026-11-08T02:13:00.909313Z,io.github.theluckystrike/genogram,Zovo Genogram,1.0.0,,streamable-http,Turns a list of people and relationships into a genogram with the standard symbols.
+2026-11-08T02:13:03.080725Z,io.github.theluckystrike/gift-list,Zovo Gift List,1.0.0,,streamable-http,Make a wishlist page that friends and family can claim gifts from.
+2026-11-08T02:13:05.265777Z,io.github.theluckystrike/gradebook,Zovo Gradebook,1.0.1,,streamable-http,Is a weighted grade calculator for teachers and tutors who compute class grades each week.
+2026-11-08T02:13:07.440431Z,io.github.theluckystrike/graph-paper,Zovo Graph Paper,1.0.0,,streamable-http,Printable graph paper PDFs
+2026-11-08T02:13:11.3233Z,io.github.theluckystrike/group-expenses,Zovo Group Expenses,1.0.0,,streamable-http,Shared trip and house expenses
+2026-11-08T02:13:13.487086Z,io.github.theluckystrike/group-vote,Zovo Group Vote,1.0.0,,streamable-http,Plan a group decision with a voting page you make in one message.
+2026-11-08T02:13:15.684958Z,io.github.theluckystrike/gst-invoice,Zovo GST Invoice Maker,1.0.0,,streamable-http,GST tax invoices for India
+2026-11-08T02:13:17.895337Z,io.github.theluckystrike/habit-tracker,Zovo Habit Tracker,1.0.0,,streamable-http,Make a printable habit tracker for any month as a print-ready PDF.
+2026-11-08T02:13:20.05098Z,io.github.theluckystrike/image-to-pdf,Zovo Photo to PDF,1.0.0,,streamable-http,Turns JPG and PNG images into one PDF document.
+2026-11-08T02:13:22.205681Z,io.github.theluckystrike/installment-plan,Zovo Installment Planner,1.0.0,,streamable-http,Split an amount into a payment plan schedule with exact installments.
+2026-11-08T02:13:24.39Z,io.github.theluckystrike/invoice-ledger,Zovo Invoice Ledger,1.0.0,,streamable-http,"Put a batch of supplier invoices into one spreadsheet with net, tax and gross totals."
+2026-11-08T02:13:26.572466Z,io.github.theluckystrike/invoice-reader,Zovo Invoice Reader,1.0.0,,streamable-http,"Turns invoice PDFs into one spreadsheet and checks the tax, totals and money math of each invoice."
+2026-11-08T02:13:28.780353Z,io.github.theluckystrike/json-to-excel,Zovo JSON to Spreadsheet,1.0.0,,streamable-http,"Turn a JSON file or pasted JSON into an Excel workbook and a CSV, right in the chat."
+2026-11-08T02:13:30.955969Z,io.github.theluckystrike/league-schedule,Zovo League Fixtures,1.0.0,,streamable-http,Make a round robin league schedule for 3 to 24 teams on real dates.
+2026-11-08T02:13:34.907959Z,io.github.theluckystrike/math-cages,Zovo Math Cages,1.0.0,,streamable-http,"Make printable math cage puzzles for teachers, students and puzzle fans as a PDF with an answer key."
+2026-11-08T02:13:37.060727Z,io.github.theluckystrike/math-worksheets,Zovo Math Worksheet Maker,1.0.0,,streamable-http,Make printable math worksheets with an answer key for a student or a whole class.
+2026-11-08T02:13:39.225778Z,io.github.theluckystrike/maze-maker,Zovo Maze Maker,1.0.0,,streamable-http,"Make printable mazes for parents, teachers and puzzle fans as a PDF with an answer key."
+2026-11-08T02:13:41.435064Z,io.github.theluckystrike/meal-planner,Zovo Meal Planner,1.0.0,,streamable-http,Plan a week of meals and turn it into one grocery list grouped by store section.
+2026-11-08T02:13:43.60452Z,io.github.theluckystrike/mind-map,Zovo Mind Map,1.0.0,,streamable-http,Turns an outline or a plan into a clean mind map you can print or download.
+2026-11-08T02:13:47.031613Z,io.github.theluckystrike/mt940-converter,Zovo MT940 Converter,1.0.0,,streamable-http,"Convert MT940 to Excel and CSV, and check that each bank statement adds up."
+2026-11-08T02:13:49.206075Z,io.github.theluckystrike/name-tags,Zovo Name Tags,1.0.0,,streamable-http,"Print name tags and place cards for an event from a guest list: adhesive name badges, 8 per sheet."
+2026-11-08T02:13:51.361129Z,io.github.theluckystrike/nonogram-maker,Zovo Nonogram Maker,1.0.0,,streamable-http,"Make printable nonogram puzzles for teachers, students and puzzle fans as a PDF with an answer key."
+2026-11-08T02:13:53.514488Z,io.github.theluckystrike/packing-slips,Zovo Packing Slip Maker,1.0.0,,streamable-http,Make packing slips for your small business orders and print them in one go.
+2026-11-08T02:13:55.713442Z,io.github.theluckystrike/page-numbers,Zovo Page Numbers,1.0.0,,streamable-http,"Add page numbers, Bates numbers or a text watermark to a PDF document right in the chat."
+2026-11-08T02:13:59.527147Z,io.github.theluckystrike/paper-finder,Zovo Paper Finder,1.0.0,,streamable-http,"Build a literature list for a student paper, thesis or research project from Crossref."
+2026-11-08T02:14:01.724693Z,io.github.theluckystrike/payout-summary,Zovo Sales Payout Summary,1.0.1,,streamable-http,"Make a Stripe monthly report, turn your PayPal transaction history into Excel."
+2026-11-08T02:14:03.901428Z,io.github.theluckystrike/pdf-booklet,Zovo Booklet Print,1.0.0,,streamable-http,"Turn a PDF into a booklet you can print at home, fold in half and staple on the fold."
+2026-11-08T02:14:06.081995Z,io.github.theluckystrike/pdf-form-fill,Zovo PDF Form Fill,1.0.0,,streamable-http,List and fill the fields of a PDF form document from your answers in the chat.
+2026-11-08T02:14:08.249138Z,io.github.theluckystrike/pdf-images,Zovo PDF Images,1.0.0,,streamable-http,"Extract the images embedded in a PDF document into one ZIP file, right in the chat."
+2026-11-08T02:14:10.4599Z,io.github.theluckystrike/pdf-maker,Zovo PDF Maker,1.0.0,,streamable-http,"Turn Markdown or plain text into a clean PDF document to print or share, plus an editable Word file."
+2026-11-08T02:14:12.646707Z,io.github.theluckystrike/pdf-merge,Zovo PDF Merge,1.0.0,,streamable-http,Merge PDF files into one document right in the chat.
+2026-11-08T02:14:14.802318Z,io.github.theluckystrike/pdf-sign,Zovo PDF Sign,1.0.0,,streamable-http,"Puts a visible signature, initials and a date on a PDF document you attach."
+2026-11-08T02:14:17.017761Z,io.github.theluckystrike/place-cards,Zovo Place Card Maker,1.0.1,,streamable-http,Printable tent place cards
+2026-11-08T02:14:19.175344Z,io.github.theluckystrike/pto-accrual,Zovo PTO Accrual Calculator,1.0.0,,streamable-http,PTO balance and accrual ledger
+2026-11-08T02:14:23.043315Z,io.github.theluckystrike/raffle-tickets,Zovo Raffle Tickets,1.0.0,,streamable-http,Print numbered raffle tickets with matching stubs for a fundraiser.
+2026-11-08T02:14:25.230432Z,io.github.theluckystrike/recipe-cards,Zovo Recipe Card Maker,1.0.0,,streamable-http,Make printable recipe cards from your own recipes as a print-ready PDF.
+2026-11-08T02:14:26.799997Z,com.almostfire/strength-training,Almost Fire,1.3.0,,streamable-http,"Strength training plans for 26 weeks, plus set, meal and progress logging in Almost Fire."
+2026-11-08T02:14:27.395069Z,io.github.theluckystrike/rent-receipts,Zovo Rent Receipt Maker,1.0.0,,streamable-http,Make rent receipts for HRA in India as one print-ready PDF.
+2026-11-08T02:14:29.564746Z,io.github.theluckystrike/resume-pdf,Zovo Resume PDF,1.0.0,,streamable-http,Turns the facts of your resume into a clean one-column PDF document to print or send.
+2026-11-08T02:14:31.724273Z,io.github.theluckystrike/river-levels,Zovo River Level Check,1.0.0,,streamable-http,"Check river flow and gage height at USGS stream gauges before a paddling, fishing or riverside trip."
+2026-11-08T02:14:33.900592Z,io.github.theluckystrike/rsvp-page,Zovo RSVP Page,1.0.0,,streamable-http,Organize an event with a shared RSVP page that guests answer in their own browser.
+2026-11-08T02:14:36.075809Z,io.github.theluckystrike/salary-slip,Zovo Salary Slip Maker,1.0.0,,streamable-http,Make a salary slip for an employee in India as a print-ready PDF and an Excel file.
+2026-11-08T02:14:38.254545Z,io.github.theluckystrike/sankey-diagram,Zovo Sankey,1.0.0,,streamable-http,"Turns flow data (from, to and amount) into a Sankey diagram you can download and print."
+2026-11-08T02:14:40.447992Z,io.github.theluckystrike/secret-santa,Zovo Secret Santa,1.0.0,,streamable-http,"Draw names for a holiday gift exchange, an office party or a family Secret Santa."
+2026-11-08T02:14:42.614577Z,io.github.theluckystrike/sequence-diagram,Zovo Sequence Diagram,1.0.0,,streamable-http,Turns a few lines of text into a UML sequence diagram you can print.
+2026-11-08T02:14:46.66765Z,io.github.theluckystrike/setlist-maker,Zovo Setlist Maker,1.0.0,,streamable-http,"Make a printable setlist for your band's next gig from a pasted song list, with set times and a CSV."
+2026-11-08T02:14:48.948906Z,io.github.theluckystrike/shared-checklist,Zovo Shared Checklist,1.0.0,,streamable-http,"Make one checklist page that your whole group works through: moving house, wedding prep."
+2026-11-08T02:14:51.098876Z,io.github.theluckystrike/sheet-validate,Zovo Spreadsheet Checker,1.0.0,,streamable-http,"Check a spreadsheet for errors before you import it, send it or report from it."
+2026-11-08T02:14:53.273419Z,io.github.theluckystrike/sign-in-sheet,Zovo Sign-In Sheets,1.0.0,,streamable-http,"Make a sign in sheet template, sign up sheet template."
+2026-11-08T02:14:55.442947Z,io.github.theluckystrike/signup-sheet,Zovo Sign-Up Sheet,1.0.0,,streamable-http,Sign-up sheets people claim
+2026-11-08T02:14:57.61006Z,io.github.theluckystrike/spending-report,Zovo Spending Report,1.0.0,,streamable-http,Turn your bank statement into a budget and see where your money goes.
+2026-11-08T02:14:59.781596Z,io.github.theluckystrike/state-diagram,Zovo State Diagram,1.0.0,,streamable-http,"Turn a few lines of text into a UML state machine diagram document, and check the machine."
+2026-11-08T02:15:01.937368Z,io.github.theluckystrike/subtitle-fix,Zovo Subtitle Fix,1.0.0,,streamable-http,"Fix subtitles that are out of sync, right in the chat."
+2026-11-08T02:15:04.111889Z,io.github.theluckystrike/swimlane,Zovo Swimlane,1.0.0,,streamable-http,Turns a business process into a cross-functional flowchart that shows which team does each step.
+2026-11-08T02:15:06.311473Z,io.github.theluckystrike/tally-import,Zovo Tally Import,1.0.0,,streamable-http,Convert a bank statement to Tally XML that you can import into TallyPrime or Tally ERP 9.
+2026-11-08T02:15:10.079334Z,io.github.theluckystrike/tariff-lookup,Zovo Tariff Code Finder,1.0.0,,streamable-http,Find US import tariff codes and duty rates from the current Harmonized Tariff Schedule.
+2026-11-08T02:15:12.246588Z,io.github.theluckystrike/text-compare,Zovo Document Compare,1.0.0,,streamable-http,"Compare two documents for differences and see each word that changed, not a summary."
+2026-11-08T02:15:14.417969Z,io.github.theluckystrike/tide-tables,Zovo Tide Tables,1.0.0,,streamable-http,Monthly tide calendars
+2026-11-08T02:15:16.606678Z,io.github.theluckystrike/timeline-maker,Zovo Timeline,1.0.0,,streamable-http,Dated events into a timeline
+2026-11-08T02:15:19.038609Z,io.github.theluckystrike/tip-pool,Zovo Tip Pool Calculator,1.0.0,,streamable-http,"A tip pool calculator and tip out calculator for restaurant, bar, cafe and salon staff."
+2026-11-08T02:15:21.589331Z,io.github.theluckystrike/use-case-diagram,Zovo Use Case Diagram,1.0.0,,streamable-http,"Turn a few lines of text into a UML use case diagram document, and check it."
+2026-11-08T02:15:23.782318Z,io.github.theluckystrike/venn-diagram,Zovo Venn,1.0.0,,streamable-http,"Compares 2 or 3 lists and draws a Venn diagram, with a CSV table of the region of each item."
+2026-11-08T02:15:25.979101Z,io.github.theluckystrike/wbs-chart,Zovo WBS Chart,1.0.0,,streamable-http,Turns an outline of project work into a work breakdown structure chart your team can print.
+2026-11-08T02:15:28.147212Z,io.github.theluckystrike/weekly-schedule,Zovo Weekly Schedule Maker,1.0.0,,streamable-http,"Make a printable weekly schedule from a list of classes, shifts or time blocks."
+2026-11-08T02:15:30.316489Z,io.github.theluckystrike/word-cloud,Zovo Word Cloud,1.0.0,,streamable-http,Turns text into a word cloud and a word frequency table.
+2026-11-08T02:15:34.261106Z,io.github.theluckystrike/word-to-pdf,Zovo Word to PDF,1.0.0,,streamable-http,Word .docx files to PDF
+2026-11-08T02:17:58.1898Z,nl.phishnoo.api/sandbox,Phishnoo Sandbox,0.1.0,,streamable-http,Explore synthetic security awareness metrics and file example threat reports.
