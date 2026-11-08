@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-11-08T11:20:07.205871Z,ru.gerro/gerro,Gerro: госзакупки для ИИ / Russian public procurement,1.0.0,,streamable-http,"Госзакупки РФ в ИИ-чате: поиск, обеспечения, документы. Russian public procurement for AI chats."
+2026-11-08T11:20:36.104278Z,com.landlordbench/mcp,Landlord Bench,1.0.0,,streamable-http,"Look up what landlord software costs a 25-unit portfolio a month, and what tenants pay."
+2026-11-08T11:22:11.491991Z,io.github.MelMayssonOwen/clef-music-tools,Clef Music Tools,1.0.0,https://github.com/MelMayssonOwen/agent-skills,streamable-http,"Transpose chords, spell piano chords, turn guitar tab into piano notes and find music guides."
+2026-11-08T11:22:11.505885Z,io.github.MelMayssonOwen/makeirl,MakeIRL,0.2.0,https://github.com/MelMayssonOwen/agent-skills,streamable-http,"Run ERC, DRC, parity, BOM and export checks on KiCad 9 boards before manufacturing."
+2026-11-08T11:25:38.046289Z,io.rentamac/mac,Rentamac,1.0.0,,streamable-http,Rent and manage dedicated Apple Silicon Macs for iOS builds and CI/CD from your AI agent.
+2026-11-08T11:26:41.561025Z,com.deepnia/deepnia,Deepnia,1.0.0,https://github.com/Deepnia/skills,streamable-http,"Create AI images, short videos and voice-overs on Deepnia, with the price shown first."
+2026-11-08T11:27:32.419757Z,br.com.azpay/monetize,AZPay Monetize — Sepolia Sandbox,1.0.0,,streamable-http,"Search, negotiate and buy resource access with x402 test USDC on Ethereum Sepolia."
+2026-11-08T11:30:28.680163Z,ai.render/presentations,render.ai Presentations,1.0.0,,streamable-http,"Create, edit, preview and export designed, editable presentations from a brief or outline."
+2026-11-08T11:31:31.215442Z,io.github.Mrc527/mcp-for-icloud,MCP for iCloud,1.1.0,,streamable-http,"Read and send iCloud Mail, manage iCloud Calendar. Needs an approved account at icloud.visin.ch."
+2026-11-08T11:34:28.79665Z,io.github.preetsuthar17/ikiform,Ikiform,0.1.0,https://github.com/preetsuthar17/ikiform-plugin,streamable-http,"Backend for any website form: create forms, read and triage submissions, debug webhooks."
+2026-11-08T11:36:43.165027Z,io.dorabot/dia-chi,Dorabot – Vietnam address after 2025 merger,1.0.0,https://github.com/Dorabot-io/sap-nhap-2025,streamable-http,"Convert old Vietnamese addresses to new ones after the 2025 merger, per official resolutions."
+2026-11-08T11:37:34.910694Z,org.convertr/convertr,Convertr file converter,1.0.0,,streamable-http,"Convert video, audio, images, documents and e-books between 800+ formats. 100 free credits a month."
+2026-11-08T11:44:23.023062Z,dev.sourcepost/directory,SourcePost,0.1.0,,streamable-http,"A directory where AI agents find suppliers, services, APIs and data sources. No key needed."
+2026-11-08T11:44:42.714049Z,co.geotok/trips,GeoTok Trips,1.0.0,,streamable-http,"Plan trips: flights, hotels, transfers, sights and food spots from TikTok food videos."
+2026-11-08T11:45:14.130178Z,io.github.dankezo/anti-rea-mcp,,2.7.4,https://github.com/dankezo/antiRea,,antiRea advisory bot-abuse signals as stateful MCP sessions (evaluation and demos).
+2026-11-08T11:48:27.941246Z,ai.tauric/tauric,Tauric,1.0.0,,streamable-http,"Market data, filings, fundamentals, macro, news and research runs for AI assistants."
+2026-11-08T11:48:36.696995Z,ro.simoshop/catalog,SimoShop,1.0.0,,streamable-http,"Catalogul SimoShop: bijuterii si componente din argint 925, cautare si top produse, preturi in lei."
+2026-11-08T11:54:33.686463Z,tech.wekoya.bridge/bridge,Bridge by Wekoya,1.0.0,,streamable-http,"Price, compare and design AI features on 90+ models, find cheaper ones, control spend in naira."
+2026-11-08T12:04:21.772671Z,com.findweedny/findweedny,FindWeedNY,1.3.0,,streamable-http,"Licensed NY cannabis dispensaries, brands, deals, license checks and lab-anchored reviews. No auth."
+2026-11-08T12:09:07.807909Z,io.github.johnpua1/universal-data-api,Universal Data API,1.0.0,,streamable-http,"Remote MCP for Commerce Hunter, Web Research and Agent Intelligence. $0.01 USDC per API call."
+2026-11-08T12:16:43.491375Z,io.github.zinoodev85/fatalguard,FatalGuard,1.3.1,https://github.com/zinoodev85/fatalguard,streamable-http,"Read-only MCP server inside WordPress: PHP error logs, debug.log and fatal errors."
+2026-11-08T12:17:26.257748Z,io.github.northwindapps/freeflowchart,,0.1.1,,,"Render text-based flowcharts (FlowScript) to PNG/PDF with layout feedback, offline."
+2026-11-08T12:17:45.698428Z,io.github.GiulioDER/re-call,RE-call MCP Memory Server,0.15.0,https://github.com/GiulioDER/RE-call,,Agent memory on SQLite or Postgres that flags superseded facts and abstains instead of guessing.
