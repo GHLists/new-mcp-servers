@@ -1,0 +1,14 @@
+created_at,server,title,version,repository,transports,description
+2026-11-08T00:25:05.314951Z,io.github.yuki4266/ruin-everything,Ruin Everything,0.2.0,https://github.com/yuki4266/ruin-everything,,"Reconnect to local Chrome tabs, inspect application challenges, and look up submission receipts."
+2026-11-08T00:25:24.985564Z,io.github.spectrumdatadigital/spectrum-data-digital,Spectrum Data Digital,1.1.0,,streamable-http,"Sanctions screening, SAM.gov contract leads and new UK company checks for AI agents and Claude."
+2026-11-08T00:28:18.102713Z,io.github.monochrome-muncher/hivemind,Hivemind,2.18.1,https://github.com/monochrome-muncher/hivemind,,"Shared long-term memory for a team's AI agents. What one agent learns, the others can find."
+2026-11-08T00:33:58.965133Z,net.pelikani/pelikani,Pelikani,1.0.0,,streamable-http,"Search Kosovo real-estate listings for sale and rent: price in EUR, area in m², and a link to each."
+2026-11-08T00:40:46.147011Z,com.viupdate/news,VI Update,1.0.0,,streamable-http,Search and read VI Update and Good Day (U.S. Virgin Islands news) and The Straight Record.
+2026-11-08T00:46:24.113479Z,io.simplyboost/mcp,SimplyBoost,1.0.0,,streamable-http,"Ask your SimplyBoost AI agents, work conversations and leads, and manage their knowledge."
+2026-11-08T00:46:39.498309Z,com.visionlibra/catalog,VisionLibra,1.0.0,,streamable-http,"Search ToF/LiDAR sensors, Wego egocentric capture rigs and Physical AI datasets; request quotes."
+2026-11-08T00:46:59.456042Z,io.github.BloodyReginaa/neuro-canvas-lms,Neuro-CanvasLMS,2.13.0,https://github.com/BloodyReginaa/Neuro-CanvasLMS,streamable-http,"Read-only Canvas LMS for your AI: deadlines, grades, files, announcements. Runs on your Cloudflare."
+2026-11-08T00:49:14.319618Z,com.foresightplanner/retirement,Foresight Planner,1.1.0,,streamable-http,"Will my retirement savings last? A free anonymous check, or a full plan once you sign in."
+2026-11-08T00:58:13.39803Z,io.github.Steven3265/moyneross,Moyne Ross,1.1.0,https://github.com/Steven3265/moyneross-mcp,streamable-http,"Moyne Ross research on commercial property capital, and a technical library of building elements."
+2026-11-08T01:05:04.215021Z,io.github.leemour/acme-crm-cli,Acme CRM example,0.2.0,https://github.com/leemour/acme-crm-cli,,"An example WireCat CLI for a made-up CRM, synthetic data. Sign a profile in with acme-crm first."
+2026-11-08T01:06:39.446187Z,is.conductor/quickbooks-desktop,Conductor for QuickBooks Desktop,1.0.0,https://github.com/conductor-is/quickbooks-desktop-node,streamable-http,"Read and write QuickBooks Desktop and Enterprise data from Claude, ChatGPT, Cursor, Codex, and more."
+2026-11-08T01:07:06.951095Z,com.igdigi/ai-use-policy,AI Use Policy Draft,1.0.0,,streamable-http,"Drafts a short AI use policy for a small business from eight questions. Free, answers not stored."

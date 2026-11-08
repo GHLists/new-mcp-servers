@@ -9,28 +9,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 00:19 UTC
+## Latest list — 2026-11-08 01:19 UTC
 
-New MCP servers published between 2026-11-07 23:21 UTC and 2026-11-08 00:19 UTC.
+New MCP servers published between 2026-11-08 00:19 UTC and 2026-11-08 01:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-08T00-19-58-357896Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-08T01-19-26-680474Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-07 23:24:18 | [io.github.toniantunovi/lucidshark](https://github.com/toniantunovi/lucidshark) | LucidShark | 0.10.0 | Local code quality and security scanner: lint, types, SAST, SCA, tests, coverag… |
-| 2026-11-07 23:25:02 | io.github.mselcukozturk/risk-calculation | Risk Calculation | 1.0.0 | Local IRB and standardised credit risk weights, RWA and capital under EU CRR/CR… |
-| 2026-11-07 23:28:05 | com.spaicely/spaicely | Spaicely | 1.21.1 | Host static websites on your own domain in the EU: domains, DNS, deploys, forms… |
-| 2026-11-07 23:30:00 | [site.tracert/tracert](https://github.com/tracert-network/tracert) | Tracert | 0.2.0 | Routes other agents mapped for web tasks, so yours verify instead of re-researc… |
-| 2026-11-07 23:30:10 | [io.github.tomis3/mons](https://github.com/tomis3/MONS-MCP) | MONS | 1.0.0 | Build and adjust your clients' MONS training plans: programs, templates, exerci… |
-| 2026-11-07 23:34:14 | co.pixelglass/pixelglass | PixelGlass | 0.1.0 | Create, design and run a publication from Claude or ChatGPT, including sign-up… |
-| 2026-11-07 23:45:24 | [us.aflink/search](https://github.com/dadatuputi/aflink) | aflink: search AF links | 1.0.0 | Read-only search of aflink.us, a public mirror of the U.S. Air Force portal qui… |
-| 2026-11-07 23:49:26 | [io.pingstack/pingstack](https://github.com/atomicvan/pingstack-mcp) | Pingstack | 1.1.0 | Cron, uptime, DNS, SSL and domain monitoring. Create checks and read incidents… |
-| 2026-11-07 23:52:54 | [io.github.mhbxyz/gimp-mcp](https://github.com/mhbxyz/gimp-mcp) | GIMP | 0.2.0 | Inspect and edit images in a running GIMP 3.2+ (layers, text, filters, files) f… |
-| 2026-11-07 23:54:52 | com.cardworthscanner/mcp | CardWorthScanner — TCG Price, Centering… | 1.0.0 | Calculate PSA/BGS/CGC card grading ROI, 55/45 centering grades & Pokemon/Yu-Gi-… |
-| 2026-11-07 23:55:00 | com.bazitools/mcp | BaziTools — True Solar Time BaZi Four P… | 1.0.0 | Calculate True Solar Time BaZi Four Pillars, Day Master & Shijing/Chuci poetic… |
-| 2026-11-08 00:06:11 | agency.granek.signal/signal | Granek Signal | 1.0.0 | B2B sales intelligence: companies with a fresh buying trigger, dossiers, decisi… |
-| 2026-11-08 00:08:39 | ru.starosta/catalog | Starosta.ru — каталог артистов | 0.1.0 | Каталог артистов для мероприятий (Россия, СНГ): поиск по жанру и городу, анкеты… |
-| 2026-11-08 00:10:03 | uz.monty/monty | monty by Nuvi | 1.1.0 | AI video editing for Uzbek creators: reels, lessons, podcast clips, captions. |
+| 2026-11-08 00:25:05 | [io.github.yuki4266/ruin-everything](https://github.com/yuki4266/ruin-everything) | Ruin Everything | 0.2.0 | Reconnect to local Chrome tabs, inspect application challenges, and look up sub… |
+| 2026-11-08 00:25:24 | io.github.spectrumdatadigital/spectrum-data-digital | Spectrum Data Digital | 1.1.0 | Sanctions screening, SAM.gov contract leads and new UK company checks for AI ag… |
+| 2026-11-08 00:28:18 | [io.github.monochrome-muncher/hivemind](https://github.com/monochrome-muncher/hivemind) | Hivemind | 2.18.1 | Shared long-term memory for a team's AI agents. What one agent learns, the othe… |
+| 2026-11-08 00:33:58 | net.pelikani/pelikani | Pelikani | 1.0.0 | Search Kosovo real-estate listings for sale and rent: price in EUR, area in m²,… |
+| 2026-11-08 00:40:46 | com.viupdate/news | VI Update | 1.0.0 | Search and read VI Update and Good Day (U.S. Virgin Islands news) and The Strai… |
+| 2026-11-08 00:46:24 | io.simplyboost/mcp | SimplyBoost | 1.0.0 | Ask your SimplyBoost AI agents, work conversations and leads, and manage their… |
+| 2026-11-08 00:46:39 | com.visionlibra/catalog | VisionLibra | 1.0.0 | Search ToF/LiDAR sensors, Wego egocentric capture rigs and Physical AI datasets… |
+| 2026-11-08 00:46:59 | [io.github.BloodyReginaa/neuro-canvas-lms](https://github.com/BloodyReginaa/Neuro-CanvasLMS) | Neuro-CanvasLMS | 2.13.0 | Read-only Canvas LMS for your AI: deadlines, grades, files, announcements. Runs… |
+| 2026-11-08 00:49:14 | com.foresightplanner/retirement | Foresight Planner | 1.1.0 | Will my retirement savings last? A free anonymous check, or a full plan once yo… |
+| 2026-11-08 00:58:13 | [io.github.Steven3265/moyneross](https://github.com/Steven3265/moyneross-mcp) | Moyne Ross | 1.1.0 | Moyne Ross research on commercial property capital, and a technical library of… |
+| 2026-11-08 01:05:04 | [io.github.leemour/acme-crm-cli](https://github.com/leemour/acme-crm-cli) | Acme CRM example | 0.2.0 | An example WireCat CLI for a made-up CRM, synthetic data. Sign a profile in wit… |
+| 2026-11-08 01:06:39 | [is.conductor/quickbooks-desktop](https://github.com/conductor-is/quickbooks-desktop-node) | Conductor for QuickBooks Desktop | 1.0.0 | Read and write QuickBooks Desktop and Enterprise data from Claude, ChatGPT, Cur… |
+| 2026-11-08 01:07:06 | com.igdigi/ai-use-policy | AI Use Policy Draft | 1.0.0 | Drafts a short AI use policy for a small business from eight questions. Free, a… |
 
 ## Data source
 
