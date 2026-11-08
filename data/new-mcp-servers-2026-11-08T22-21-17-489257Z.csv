@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-11-08T21:19:55.922071Z,io.github.OmniSocials/mcp-server,OmniSocials,1.56.0,,streamable-http,"Schedule and publish posts on 13 social networks, answer comments and DMs, and read analytics."
+2026-11-08T21:23:10.199624Z,io.github.APIANT/apiant,APIANT,1.0.0,https://github.com/APIANT/apiant-plugins,streamable-http,"Build, test and run app automations and integrations by describing them in plain language."
+2026-11-08T21:23:19.577189Z,com.itscreo/creo,Creo factor exposure API,0.1.0,,streamable-http,"Factor exposures and risk contribution for a portfolio, computed on the prices you send."
+2026-11-08T21:26:12.916224Z,news.truecrime/case-archive,TrueCrime.News Case Archive,1.0.0,,streamable-http,"True crime cases, timelines, sources, news and related documentaries, podcasts and books."
+2026-11-08T21:28:53.175952Z,fr.woodroar/tronconneuses,WoodRoar (France),1.0.0,,streamable-http,"French chainsaw comparison: search, filter and compare the models in WoodRoar's catalogue."
+2026-11-08T21:28:55.67848Z,fr.heavenpc/baies-informatiques,HeavenPC (France),1.0.0,,streamable-http,"French server rack comparison: search, filter and compare the models in HeavenPC's catalogue."
+2026-11-08T21:29:05.08021Z,fr.kitchenwatt/robots-de-cuisine,KitchenWatt (France),1.0.0,,streamable-http,"French food processor comparison: search, filter and compare KitchenWatt's catalogue."
+2026-11-08T21:31:59.905476Z,io.github.CarlosAndreFerreira/moodle-obsidian-mcp,Moodle + Obsidian,0.8.1,https://github.com/CarlosAndreFerreira/moodle-obsidian-mcp,,"Moodle for AI assistants, SSO included: courses, grades, deadlines and forums synced to Obsidian."
+2026-11-08T21:36:07.939531Z,io.freespy/mcp,FreeSpy,2.0.0,,streamable-http,"Free ad intelligence: see which Meta, TikTok and YouTube ads are scaling, right inside your AI."
+2026-11-08T21:36:24.816699Z,io.github.Marcoco27/sentinelle-creances,Sentinelle créances FR,0.1.0,,streamable-http,"French insolvency notices (BODACC) per company, with the creditor claim filing deadline."
+2026-11-08T21:38:00.432481Z,run.windlass/windlass,Windlass,0.60.0,https://github.com/Sulaiman-Dauda/windlass,streamable-http,"Read projects, logs and deployments on a self-hosted Windlass server; deploy, roll back, promote."
+2026-11-08T21:42:24.904067Z,com.celebriza/invitations,Celebriza invitations,1.0.0,,streamable-http,"Animated online invitations: find a design, build it from plain words, preview it, get the link."
+2026-11-08T21:42:26.74498Z,io.github.MCPKit-RU/yandex-direct-mcp,MCPKit — Yandex Direct MCP,1.0.0,,streamable-http,Review Yandex Direct reports and manage supported campaign settings in ChatGPT.
+2026-11-08T21:42:29.938894Z,io.github.MCPKit-RU/yandex-metrika-mcp,MCPKit — Yandex Metrica MCP,1.0.0,,streamable-http,Analyze Yandex Metrica traffic and conversions in ChatGPT with read-only access.
+2026-11-08T21:42:43.547952Z,io.github.MCPKit-RU/yandex-wordstat-mcp,MCPKit — Yandex Wordstat MCP,1.0.0,,streamable-http,"Research Yandex search demand, trends and regions in ChatGPT. Yandex API charges apply."
+2026-11-08T21:43:05.192155Z,com.ev-route/mcp,EV-ROUTE,1.1.0,,streamable-http,Find EV chargers across Europe and plan EV trips in Ukraine with charging stops.
+2026-11-08T21:47:07.389201Z,com.darmousseh/watch,Watch,1.1.0,,streamable-http,"Watch a web page, CSS selector, JSON value or price for weeks; poll changes or get signed webhooks."
+2026-11-08T21:56:40.328747Z,io.github.MelanieABC/misim-tax-research,,0.1.1,,streamable-http,"Israeli tax research tools, cited to official sources: VAT, income tax, deadlines, forms."
+2026-11-08T21:57:31.020519Z,io.github.haszerobyte/ratatoskr,Ratatoskr,0.3.0,https://github.com/haszerobyte/Ratatoskr,,"Keyless web search and page fetching for agents, as Markdown."
+2026-11-08T21:57:48.424012Z,io.github.naderali2235/YAARClickUpMCP,YAARClickUpMCP (Unofficial),1.0.0,https://github.com/naderali2235/ClickUpMCP,streamable-http,Unofficial community ClickUp MCP via personal API token. Not affiliated with ClickUp.
+2026-11-08T21:58:52.953928Z,io.github.DennisManyagi/manyagi,Manyagi,0.2.0,https://github.com/DennisManyagi/manyagi,streamable-http,"Manyagi product-session MCP: discovery, summaries, licensing prep. No writes or charges."
+2026-11-08T21:59:56.624883Z,dev.bigapi/mcp,,0.9.0,https://github.com/BiGapi-2026/bigapi-mcp,,The output layer for AI agents: turn what an agent produced into a finished file.
+2026-11-08T22:00:27.803484Z,link.bot2bot/send,bot2bot: send to my bots,1.0.0,,streamable-http,"Hand a brief from ChatGPT, Claude or Gemini to your own coding agent or Grok Bot. Send only."
+2026-11-08T22:00:28.259811Z,link.bot2bot/mcp,bot2bot,1.0.0,,streamable-http,Let your AI assistant message the bots of family and friends.
+2026-11-08T22:02:19.667975Z,com.hostsherlock/mcp,HostSherlock,1.0.0,,streamable-http,"Check SPF, DKIM, DMARC and MX of any domain, and read the DMARC reports of domains you monitor."
+2026-11-08T22:05:03.722303Z,io.github.JusticeUA/colombia-company-check,Colombia Company Check,0.1.0,,streamable-http,"Colombia company checks by NIT: status, insolvency flag from the name, LEI and sanctions."
+2026-11-08T22:05:04.253003Z,io.github.JusticeUA/lithuania-company-check,Lithuania Company Check,0.1.0,,streamable-http,"Lithuania company checks: status, insolvency, LEI and sanctions from official registers."
+2026-11-08T22:05:04.77908Z,io.github.JusticeUA/slovenia-company-check,Slovenia Company Check,0.1.0,,streamable-http,"Slovenia company checks: status, bankruptcy flag from the name, VAT revocation, LEI and sanctions."
+2026-11-08T22:10:55.223637Z,shoes.getsize/getsize,GetSize,1.0.0,,streamable-http,Your personal size guide. Find your shoe size in any brand from the brand's official size chart.
+2026-11-08T22:11:58.629805Z,app.actionlog/action-log,Action Log,1.0.0,,streamable-http,"Executive status across Jira, Azure DevOps and Basecamp: workstreams, scorecard and actions."
+2026-11-08T22:14:54.35501Z,io.github.alanwtom/fwrd-sms-mcp,Fwrd SMS Codes,1.0.0,https://github.com/alanwtom/fwrd-sms-mcp,streamable-http,"Hands your AI agent the SMS verification codes sent to your iPhone, via the Fwrd app."
+2026-11-08T22:16:11.833109Z,io.github.slashml-ai/slashml-robotics,SlashML (/ml) Embodied Robotics 6-DoF Spatial Memory,1.0.1,https://github.com/slashml-ai/slashml-robotics,,"Persistent 6-DoF SE(3) spatial world state, object trajectories, and affordances for robotics."
