@@ -1,0 +1,7 @@
+created_at,server,title,version,repository,transports,description
+2026-11-08T02:33:09.986711Z,io.github.getagentseal/codeburn,CodeBurn,0.9.28,https://github.com/getagentseal/codeburn,,"AI coding spend, tokens and plan quotas across Claude Code, Codex, Cursor and 40+ more tools"
+2026-11-08T02:47:30.76587Z,com.simvito/esim,Simvito eSIM,1.3.1,,streamable-http,"Compare travel eSIM plans and each local network (4G/5G), check phone support, get payment links."
+2026-11-08T02:58:21.77091Z,ai.xodia/xodia,Xodia,1.0.0,,streamable-http,"Build and edit your website in Xodia, a visual website builder for real code (Vite, React, HTML)."
+2026-11-08T03:14:05.842075Z,io.github.Dhaxor/open-context-engine,,0.7.1,https://github.com/Dhaxor/open-context-engine,,Local-first code retrieval: hybrid search over an AST-aware index of your codebase. Fully offline.
+2026-11-08T03:19:04.760186Z,com.themethodic/candor,Candor UI docs,1.9.0,https://github.com/MethodicDev/candor,streamable-http,"Candor UI docs and component suggestions. Read-only, no key, never serves paid source."
+2026-11-08T03:19:06.505678Z,io.github.lkm543/examscloud,考試雲 examscloud,1.0.0,https://github.com/lkm543/examscloud-mcp,streamable-http,"Taiwan national exam past papers, official answers, AI explanations and your own practice records."

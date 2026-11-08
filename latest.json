@@ -1398,6 +1398,7 @@
     "ai.wuko/72qr",
     "ai.xcut/xcutai",
     "ai.xfix/xfix",
+    "ai.xodia/xodia",
     "ai.xorventa/xorventa",
     "ai.xyla/xyla",
     "ai.yahad/yahad",
@@ -8491,6 +8492,7 @@
     "com.simplifyd/cloud",
     "com.simplorg/simplorg",
     "com.simplyglobal/visitor-insurance",
+    "com.simvito/esim",
     "com.sindansolutions/dido",
     "com.singularity-app/mcp",
     "com.siporpro/directory",
@@ -9137,6 +9139,7 @@
     "com.themachinerecord/register",
     "com.themachinerentalscam/rental-quotes",
     "com.themarginapp/the-margin",
+    "com.themethodic/candor",
     "com.themineworks/recruiting-jobs-mcp",
     "com.thenetworkery/network-tools",
     "com.thenetworkos/networkos",
@@ -13488,6 +13491,7 @@
     "io.github.Devdeep-Borisagar/website-screenshot",
     "io.github.DevilsDev/rag-mcp-server",
     "io.github.Devrajsinh-Jhala/npx-vibe",
+    "io.github.Dhaxor/open-context-engine",
     "io.github.Dhi13man/oorep-mcp",
     "io.github.DiegoLopez0208/rpgmaker-mv-ultimate",
     "io.github.DiegoTepichin/mcp-mexico",
@@ -18982,6 +18986,7 @@
     "io.github.gerefull/invokeport",
     "io.github.geronco/commandvault",
     "io.github.getDynamoi/dynamoi",
+    "io.github.getagentseal/codeburn",
     "io.github.getaktar/aktar",
     "io.github.getanirao/ghidra-bizhawk-mcp",
     "io.github.getcargohq/cargo",
@@ -20436,6 +20441,7 @@
     "io.github.ljcl/intervals-mcp",
     "io.github.lkcair/sec-ai",
     "io.github.lkcair/yfinance-ai",
+    "io.github.lkm543/examscloud",
     "io.github.lkopietz3-byte/honesty-mcp",
     "io.github.llamalox/eyescope",
     "io.github.lldiegon/wisepim-commerce-mcp",
@@ -31003,11 +31009,11 @@
     "zone.blip/bazaar"
   ],
   "list": {
-    "count": 123,
-    "from": "2026-11-08T01:19:26.680474Z",
-    "path": "data/new-mcp-servers-2026-11-08T02-20-55-950654Z.csv",
-    "to": "2026-11-08T02:20:55.950654Z"
+    "count": 6,
+    "from": "2026-11-08T02:20:55.950654Z",
+    "path": "data/new-mcp-servers-2026-11-08T03-19-56-95408Z.csv",
+    "to": "2026-11-08T03:19:56.95408Z"
   },
   "source_truncated": false,
-  "window": "2026-11-08T02:20:55.950654Z"
+  "window": "2026-11-08T03:19:56.95408Z"
 }
