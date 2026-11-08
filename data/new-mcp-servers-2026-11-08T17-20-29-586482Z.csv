@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-11-08T16:22:38.800117Z,io.github.toolbeltai/toolbelt,Toolbelt,1.0.17,https://github.com/toolbeltai/toolbelt-skills,streamable-http,"A collaborative substrate over your data: vector, knowledge graph, SQL, geospatial, streaming."
+2026-11-08T16:23:44.29274Z,site.hahachinese/base-token-check,Base Token Check,1.0.0,,streamable-http,"Paid Base token safety check (x402, 0.02 USDC): buy/sell/transfer simulation, honeypot, tax, liquidi"
+2026-11-08T16:28:54.275517Z,io.github.HISHAMJOTTERREV/sentiogate-mcp,SentioGate FinOps & LLM Router,1.0.1,https://github.com/HISHAMJOTTERREV/ai_auto_router,streamable-http,"BYOK AI router & FinOps control plane: audit token waste, check tool safety, and rank models."
+2026-11-08T16:31:10.018329Z,io.github.jbluedevil/dropgone,DropGone,0.1.1,,,"Send encrypted, expiring file links and inspect availability without consuming a download."
+2026-11-08T16:34:51.934854Z,io.github.Noam13-w/dmswift,dmswift,1.0.0,,streamable-http,"Instagram for AI agents: publish posts, reply to comments, DM by keyword, inbox and insights."
+2026-11-08T16:43:42.127134Z,com.360dialog/mcp,360dialog,1.1.5,,streamable-http,"Manage WhatsApp Business accounts on 360Dialog: channels, templates, sandbox, inbox, and more."
+2026-11-08T16:48:17.676681Z,ca.criticalpathpartners/primavera-p6-forensic-scheduling,Critical Path Partners,2.10.16,https://github.com/danafitkowski/cpp-cpm-engine,streamable-http,"Primavera P6 XER forensic scheduling: AACE windows, TIA, impacted as-planned, DCMA-14, Monte Carlo."
+2026-11-08T16:49:33.156398Z,io.github.zaosoula/mcp-osx,macOS (osascript),0.1.0,https://github.com/zaosoula/mcp-osx,,"Control 19 macOS apps with safe actions, approved AppleScript/JXA, and reusable workflows."
+2026-11-08T16:54:37.915234Z,ai.mempipe/mempipe,Mempipe,0.25.0,,streamable-http,"Search, read and cite documents. Add, replace and delete files with write access. OAuth required."
+2026-11-08T16:55:59.849006Z,com.tunnelhq/tunnelhq,TunnelHQ,1.0.0,,streamable-http,"VPN server monitoring: test VPN configs, see failures and manage incidents from your AI assistant."
+2026-11-08T16:59:13.876866Z,io.github.Fizzl13/agent-safety-index,Agent Safety Index,1.0.0,https://github.com/Fizzl13/x402-examples,streamable-http,"Is this AI agent safe with a wallet? Signed x402 Agent Safety exam results, and live demos."
+2026-11-08T16:59:34.924467Z,io.github.SentioGate/sentiogate-mcp,SentioGate FinOps & LLM Router,1.0.0,https://github.com/SentioGate/sentiogate-mcp,streamable-http,"BYOK AI router & FinOps control plane: audit token waste, check tool safety, and rank models."
+2026-11-08T17:02:09.631546Z,com.finzdata/mcp,FinzData,1.0.0,,streamable-http,"Point-in-time market data and server-side backtests: stocks, ETFs, futures, GEX, macro, crypto."
+2026-11-08T17:02:10.021679Z,com.finzdata/workspace,FinzData Workspace,1.4.0,,streamable-http,"Persistent AI workspace with FinzData built in: files, code runs and point-in-time market data."
+2026-11-08T17:02:53.475558Z,com.exayard/exayard,Exayard,1.0.0,,streamable-http,"Construction takeoffs, estimates and bids: measure and count plans, price materials, draft bids."
+2026-11-08T17:07:23.256522Z,io.github.phanisaimunipalli/mockcrowd,mockcrowd,0.3.0,https://github.com/phanisaimunipalli/mockcrowd,,Test a product idea on a crowd of AI personas grounded in real posts. Returns a verdict.
+2026-11-08T17:12:15.01775Z,io.github.kanecr-cmd/prospectr,Prospectr,0.5.3,,streamable-http,Public-record buying signals and prospect research for US field sales reps.
+2026-11-08T17:14:46.548735Z,com.meweapps/deeptech-scanners,MeWeApps Deep-Tech Scanners,1.1.0,,streamable-http,"Free PQC TLS, CRA disclosure, green claims, battery passport, CRISPR, REACH and URDF scanners."
+2026-11-08T17:15:30.583062Z,io.github.keplertech/naja-scope,naja-scope,0.1.24,https://github.com/keplertech/naja-scope,,"Let AI agents explore SystemVerilog, Verilog and VHDL designs: connectivity, hierarchy, source."
