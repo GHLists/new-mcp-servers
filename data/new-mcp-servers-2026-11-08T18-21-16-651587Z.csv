@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-11-08T17:21:34.909709Z,com.cribalo/research-mcp,Cribalo research MCP (decoy),1.1.0,,streamable-http,"Research decoy: fake tools, nothing is executed, every call is logged. Details on the website."
+2026-11-08T17:26:18.086938Z,com.engagemii/citation-watch,Engagemii AI Visibility Data,1.1.0,,streamable-http,"AI visibility data on 82M+ companies: scores, AI naming, AI crawler reads and full company records."
+2026-11-08T17:28:34.587549Z,ai.stealads/stealads,StealAds,1.2.1,https://github.com/TheMattBerman/ads-mcp,streamable-http,"Search competitor Meta ads, find winning and longest-running ads, and adapt one for your brand."
+2026-11-08T17:31:44.184613Z,com.featureloom/featureloom,featureloom,1.0.0,,streamable-http,"Requirements and backlog as living markdown plans, handed whole to your coding agent over MCP."
+2026-11-08T17:33:15.296245Z,com.pronovatx/site-audit,Pronova Site Audit,1.0.0,https://github.com/chrispronovadesigns/pronova-mcp-apps,streamable-http,"Free instant website audit: technical SEO, Core Web Vitals, and indexing checks."
+2026-11-08T17:38:11.601765Z,ai.cognitolabs/cognitolabs,CognitoLabs.ai,1.0.0,,streamable-http,"Hospital prices, payer rates, Medicare data and pricing studies for healthcare finance."
+2026-11-08T17:38:20.036356Z,com.worthleaving/verdict,Worth Leaving,1.1.0,,streamable-http,"Unvested-equity math: the verdict, what leaving forfeits, and the number an offer has to beat."
+2026-11-08T17:38:23.969625Z,io.github.jdkabattles/forgingstack-watchtower,ForgingStack Watchtower,0.1.0,https://github.com/jdkabattles/forgingstack-watchtower,,An agent that stops checking in is an agent you hear about.
+2026-11-08T17:38:58.827754Z,io.github.tcgtracker-boop/agent-company-mcp,OffshoreProz Agent Company,2.35.0,https://github.com/tcgtracker-boop/agent-company-mcp,streamable-http,"A legal home for AI agents: Wyoming LLC US$299 + US$185/yr, or Nevis. Free diagnostic."
+2026-11-08T17:38:59.188999Z,io.github.tcgtracker-boop/offshoreproz-agent-api,OffshoreProz Agent API,1.0.0,https://github.com/tcgtracker-boop/agent-company-mcp,streamable-http,Developer MCP and REST API to form a Wyoming LLC or Marshall Islands DAO LLC.
+2026-11-08T17:40:23.97417Z,io.github.jdkabattles/forgingstack-ration,ForgingStack Ration,0.1.0,https://github.com/jdkabattles/forgingstack-ration,,"One quota pool, many agents, no overruns."
+2026-11-08T17:41:10.810597Z,io.github.jdkabattles/forgingstack-quorum,ForgingStack Quorum,0.1.0,https://github.com/jdkabattles/forgingstack-quorum,,"Before an agent acts alone, get the quorum. One proposal, N approvals, one receipt."
+2026-11-08T17:45:02.542405Z,com.dropgone/dropgone,DropGone,0.1.2,,,"Send encrypted, expiring file links and inspect availability without consuming a download."
+2026-11-08T17:47:41.372303Z,io.github.wellknownmcp/hoshin-kanri,Hoshin Kanri X-Matrix,4.5.0,https://github.com/wellknownmcp/hoshin-kanri,streamable-http,"Strategic memory agents can build, score and keep current: a living X-Matrix with review cadences."
+2026-11-08T17:48:56.761742Z,io.github.OpenFault/openfault,OpenFault,0.1.0,https://github.com/OpenFault/openfault,streamable-http,"Self-hosted, Sentry-compatible error tracker. Agents read and triage issues over MCP."
+2026-11-08T17:49:12.476432Z,work.agentexchange.store/mcp,,1.3.202611081749,,streamable-http,"Paid x402 tools for agents: mcp-liveness-probe, DMARC audit, Base USDC reads."
+2026-11-08T17:52:38.122978Z,dev.pcbbrew/pcbbrew,PCBBrew,1.0.0,,streamable-http,"Boards and modules PCBBrew can put on a real PCB and simulate, KiCad parts and published boards."
+2026-11-08T17:53:29.317634Z,ee.pesupanda/agent,,1.0.0,,streamable-http,"Pesupanda (Tallinn dry cleaning & laundry): prices, hours, FAQ, courier area and free pickup times."
+2026-11-08T17:56:14.807514Z,com.contrasttherapyfinder.www/contrast-therapy-finder,Contrast Therapy Finder,1.0.0,,streamable-http,"Find US sauna, cold plunge and contrast therapy studios. Get equipment pricing and free quotes."
+2026-11-08T18:03:47.841043Z,cn.moltbook/moltcn,Moltcn AI Agent Community,1.0.0,,streamable-http,"China's AI agent community: ask many AIs at once (AI Dianping), agent passport & credit, reviews."
+2026-11-08T18:06:01.420617Z,com.selfping/selfping,,1.0.1,,streamable-http,SMS alerts for AI agents and scripts. Text your own phone and read replies. API key required.
+2026-11-08T18:06:13.083595Z,io.github.lukBB/planpost,PlanPost,0.3.0,https://github.com/lukBB/social-poster-v2,streamable-http,"Schedule posts to 7 social networks, render video and carousels, read analytics and revenue."
+2026-11-08T18:07:54.140465Z,io.github.Delfen-com/sovereign-agent-logbook,Sovereign Agent Logbook,0.1.1,https://github.com/Delfen-com/sovereign-agent-logbook,,"Tamper-evident logbook for AI agents: hash-chained, on your own server, any model via MCP."
+2026-11-08T18:16:25.075973Z,io.github.Ruthvik-Bandari/linkedin-profile-mcp,,0.1.1,https://github.com/Ruthvik-Bandari/linkedin-profile-mcp,,Review and improve LinkedIn profile text the way recruiters search. No scraping or login.
+2026-11-08T18:17:12.620879Z,io.github.tonysafonov/yandex-tracker-mcp-lite,Yandex Tracker (lite),0.1.1,https://github.com/tonysafonov/yandex-tracker-mcp-lite,,"Lean Yandex Tracker MCP: 9 tools, ~1.2k tokens of tool definitions, compact answers."

@@ -9,33 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 17:20 UTC
+## Latest list — 2026-11-08 18:21 UTC
 
-New MCP servers published between 2026-11-08 16:21 UTC and 2026-11-08 17:20 UTC.
+New MCP servers published between 2026-11-08 17:20 UTC and 2026-11-08 18:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-08T17-20-29-586482Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-08T18-21-16-651587Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-08 16:22:38 | [io.github.toolbeltai/toolbelt](https://github.com/toolbeltai/toolbelt-skills) | Toolbelt | 1.0.17 | A collaborative substrate over your data: vector, knowledge graph, SQL, geospat… |
-| 2026-11-08 16:23:44 | site.hahachinese/base-token-check | Base Token Check | 1.0.0 | Paid Base token safety check (x402, 0.02 USDC): buy/sell/transfer simulation, h… |
-| 2026-11-08 16:28:54 | [io.github.HISHAMJOTTERREV/sentiogate-mcp](https://github.com/HISHAMJOTTERREV/ai_auto_router) | SentioGate FinOps & LLM Router | 1.0.1 | BYOK AI router & FinOps control plane: audit token waste, check tool safety, an… |
-| 2026-11-08 16:31:10 | io.github.jbluedevil/dropgone | DropGone | 0.1.1 | Send encrypted, expiring file links and inspect availability without consuming… |
-| 2026-11-08 16:34:51 | io.github.Noam13-w/dmswift | dmswift | 1.0.0 | Instagram for AI agents: publish posts, reply to comments, DM by keyword, inbox… |
-| 2026-11-08 16:43:42 | com.360dialog/mcp | 360dialog | 1.1.5 | Manage WhatsApp Business accounts on 360Dialog: channels, templates, sandbox, i… |
-| 2026-11-08 16:48:17 | [ca.criticalpathpartners/primavera-p6-forensic-scheduling](https://github.com/danafitkowski/cpp-cpm-engine) | Critical Path Partners | 2.10.16 | Primavera P6 XER forensic scheduling: AACE windows, TIA, impacted as-planned, D… |
-| 2026-11-08 16:49:33 | [io.github.zaosoula/mcp-osx](https://github.com/zaosoula/mcp-osx) | macOS (osascript) | 0.1.0 | Control 19 macOS apps with safe actions, approved AppleScript/JXA, and reusable… |
-| 2026-11-08 16:54:37 | ai.mempipe/mempipe | Mempipe | 0.25.0 | Search, read and cite documents. Add, replace and delete files with write acces… |
-| 2026-11-08 16:55:59 | com.tunnelhq/tunnelhq | TunnelHQ | 1.0.0 | VPN server monitoring: test VPN configs, see failures and manage incidents from… |
-| 2026-11-08 16:59:13 | [io.github.Fizzl13/agent-safety-index](https://github.com/Fizzl13/x402-examples) | Agent Safety Index | 1.0.0 | Is this AI agent safe with a wallet? Signed x402 Agent Safety exam results, and… |
-| 2026-11-08 16:59:34 | [io.github.SentioGate/sentiogate-mcp](https://github.com/SentioGate/sentiogate-mcp) | SentioGate FinOps & LLM Router | 1.0.0 | BYOK AI router & FinOps control plane: audit token waste, check tool safety, an… |
-| 2026-11-08 17:02:09 | com.finzdata/mcp | FinzData | 1.0.0 | Point-in-time market data and server-side backtests: stocks, ETFs, futures, GEX… |
-| 2026-11-08 17:02:10 | com.finzdata/workspace | FinzData Workspace | 1.4.0 | Persistent AI workspace with FinzData built in: files, code runs and point-in-t… |
-| 2026-11-08 17:02:53 | com.exayard/exayard | Exayard | 1.0.0 | Construction takeoffs, estimates and bids: measure and count plans, price mater… |
-| 2026-11-08 17:07:23 | [io.github.phanisaimunipalli/mockcrowd](https://github.com/phanisaimunipalli/mockcrowd) | mockcrowd | 0.3.0 | Test a product idea on a crowd of AI personas grounded in real posts. Returns a… |
-| 2026-11-08 17:12:15 | io.github.kanecr-cmd/prospectr | Prospectr | 0.5.3 | Public-record buying signals and prospect research for US field sales reps. |
-| 2026-11-08 17:14:46 | com.meweapps/deeptech-scanners | MeWeApps Deep-Tech Scanners | 1.1.0 | Free PQC TLS, CRA disclosure, green claims, battery passport, CRISPR, REACH and… |
-| 2026-11-08 17:15:30 | [io.github.keplertech/naja-scope](https://github.com/keplertech/naja-scope) | naja-scope | 0.1.24 | Let AI agents explore SystemVerilog, Verilog and VHDL designs: connectivity, hi… |
+| 2026-11-08 17:21:34 | com.cribalo/research-mcp | Cribalo research MCP (decoy) | 1.1.0 | Research decoy: fake tools, nothing is executed, every call is logged. Details… |
+| 2026-11-08 17:26:18 | com.engagemii/citation-watch | Engagemii AI Visibility Data | 1.1.0 | AI visibility data on 82M+ companies: scores, AI naming, AI crawler reads and f… |
+| 2026-11-08 17:28:34 | [ai.stealads/stealads](https://github.com/TheMattBerman/ads-mcp) | StealAds | 1.2.1 | Search competitor Meta ads, find winning and longest-running ads, and adapt one… |
+| 2026-11-08 17:31:44 | com.featureloom/featureloom | featureloom | 1.0.0 | Requirements and backlog as living markdown plans, handed whole to your coding… |
+| 2026-11-08 17:33:15 | [com.pronovatx/site-audit](https://github.com/chrispronovadesigns/pronova-mcp-apps) | Pronova Site Audit | 1.0.0 | Free instant website audit: technical SEO, Core Web Vitals, and indexing checks. |
+| 2026-11-08 17:38:11 | ai.cognitolabs/cognitolabs | CognitoLabs.ai | 1.0.0 | Hospital prices, payer rates, Medicare data and pricing studies for healthcare… |
+| 2026-11-08 17:38:20 | com.worthleaving/verdict | Worth Leaving | 1.1.0 | Unvested-equity math: the verdict, what leaving forfeits, and the number an off… |
+| 2026-11-08 17:38:23 | [io.github.jdkabattles/forgingstack-watchtower](https://github.com/jdkabattles/forgingstack-watchtower) | ForgingStack Watchtower | 0.1.0 | An agent that stops checking in is an agent you hear about. |
+| 2026-11-08 17:38:58 | [io.github.tcgtracker-boop/agent-company-mcp](https://github.com/tcgtracker-boop/agent-company-mcp) | OffshoreProz Agent Company | 2.35.0 | A legal home for AI agents: Wyoming LLC US$299 + US$185/yr, or Nevis. Free diag… |
+| 2026-11-08 17:38:59 | [io.github.tcgtracker-boop/offshoreproz-agent-api](https://github.com/tcgtracker-boop/agent-company-mcp) | OffshoreProz Agent API | 1.0.0 | Developer MCP and REST API to form a Wyoming LLC or Marshall Islands DAO LLC. |
+| 2026-11-08 17:40:23 | [io.github.jdkabattles/forgingstack-ration](https://github.com/jdkabattles/forgingstack-ration) | ForgingStack Ration | 0.1.0 | One quota pool, many agents, no overruns. |
+| 2026-11-08 17:41:10 | [io.github.jdkabattles/forgingstack-quorum](https://github.com/jdkabattles/forgingstack-quorum) | ForgingStack Quorum | 0.1.0 | Before an agent acts alone, get the quorum. One proposal, N approvals, one rece… |
+| 2026-11-08 17:45:02 | com.dropgone/dropgone | DropGone | 0.1.2 | Send encrypted, expiring file links and inspect availability without consuming… |
+| 2026-11-08 17:47:41 | [io.github.wellknownmcp/hoshin-kanri](https://github.com/wellknownmcp/hoshin-kanri) | Hoshin Kanri X-Matrix | 4.5.0 | Strategic memory agents can build, score and keep current: a living X-Matrix wi… |
+| 2026-11-08 17:48:56 | [io.github.OpenFault/openfault](https://github.com/OpenFault/openfault) | OpenFault | 0.1.0 | Self-hosted, Sentry-compatible error tracker. Agents read and triage issues ove… |
+| 2026-11-08 17:49:12 | work.agentexchange.store/mcp |  | 1.3.202611081749 | Paid x402 tools for agents: mcp-liveness-probe, DMARC audit, Base USDC reads. |
+| 2026-11-08 17:52:38 | dev.pcbbrew/pcbbrew | PCBBrew | 1.0.0 | Boards and modules PCBBrew can put on a real PCB and simulate, KiCad parts and… |
+| 2026-11-08 17:53:29 | ee.pesupanda/agent |  | 1.0.0 | Pesupanda (Tallinn dry cleaning & laundry): prices, hours, FAQ, courier area an… |
+| 2026-11-08 17:56:14 | com.contrasttherapyfinder.www/contrast-therapy-finder | Contrast Therapy Finder | 1.0.0 | Find US sauna, cold plunge and contrast therapy studios. Get equipment pricing… |
+| 2026-11-08 18:03:47 | cn.moltbook/moltcn | Moltcn AI Agent Community | 1.0.0 | China's AI agent community: ask many AIs at once (AI Dianping), agent passport… |
+| 2026-11-08 18:06:01 | com.selfping/selfping |  | 1.0.1 | SMS alerts for AI agents and scripts. Text your own phone and read replies. API… |
+| 2026-11-08 18:06:13 | [io.github.lukBB/planpost](https://github.com/lukBB/social-poster-v2) | PlanPost | 0.3.0 | Schedule posts to 7 social networks, render video and carousels, read analytics… |
+| 2026-11-08 18:07:54 | [io.github.Delfen-com/sovereign-agent-logbook](https://github.com/Delfen-com/sovereign-agent-logbook) | Sovereign Agent Logbook | 0.1.1 | Tamper-evident logbook for AI agents: hash-chained, on your own server, any mod… |
+| 2026-11-08 18:16:25 | [io.github.Ruthvik-Bandari/linkedin-profile-mcp](https://github.com/Ruthvik-Bandari/linkedin-profile-mcp) |  | 0.1.1 | Review and improve LinkedIn profile text the way recruiters search. No scraping… |
+| 2026-11-08 18:17:12 | [io.github.tonysafonov/yandex-tracker-mcp-lite](https://github.com/tonysafonov/yandex-tracker-mcp-lite) | Yandex Tracker (lite) | 0.1.1 | Lean Yandex Tracker MCP: 9 tools, ~1.2k tokens of tool definitions, compact ans… |
 
 ## Data source
 
