@@ -9,32 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 06:18 UTC
+## Latest list — 2026-11-08 07:20 UTC
 
-New MCP servers published between 2026-11-08 05:18 UTC and 2026-11-08 06:18 UTC.
+New MCP servers published between 2026-11-08 06:18 UTC and 2026-11-08 07:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-08T06-18-36-927862Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-08T07-20-56-570374Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-08 05:20:59 | com.agentmsgr/agentmsgr | AgentMsgr | 1.0.0 | AI group chat for all your agents: read and reply to AgentMsgr chats from any M… |
-| 2026-11-08 05:25:20 | [io.github.Triodian/obligations-atlas](https://github.com/Triodian/obligations-atlas) | AI Obligations Atlas | 0.1.0 | AI governance obligations in Australia and Singapore, by source tier and use ca… |
-| 2026-11-08 05:30:51 | [fun.make/makefun](https://github.com/makedotfun/makefun-mcp) | make.fun | 0.1.0 | Find AI coding bounties, track entries and claim cash rewards. Public reads; wr… |
-| 2026-11-08 05:38:27 | [ai.robowrite/mcp](https://github.com/RoboAdApp/robowrite-plugin) | RoboWrite | 0.2.3 | Hosted RoboWrite MCP server: recover briefs and drafts, run the reviewed URL-to… |
-| 2026-11-08 05:42:44 | com.anvilads/anvilads | AnvilAds | 1.0.0 | Read-only access to AnvilAds data: campaigns, performance, reports, ad grades,… |
-| 2026-11-08 05:49:47 | store.safebay/safebay | SafeBay | 1.0.0 | An eBay seller's store in their AI assistant: orders, listings, buyer messages,… |
-| 2026-11-08 05:54:25 | [io.github.Seifollahi/markolis](https://github.com/Seifollahi/markolis) |  | 1.0.0 | Empirical quantitative market telemetry, 100-bin auction profiles & trapped cro… |
-| 2026-11-08 05:55:52 | com.domikumorya/goa-rentals | Domik u morya - Goa rentals | 1.0.0 | Search long-term and holiday rentals in North Goa, India. Read-only, prices in… |
-| 2026-11-08 05:59:13 | [io.github.priberry-data/tarelab](https://github.com/priberry-data/tarelab) | Tare | 0.2.0 | See where your coding agent's tokens and money went, with cache-safe fixes. Loc… |
-| 2026-11-08 05:59:14 | [io.github.priberry-data/crumplelab](https://github.com/priberry-data/crumplelab) | Crumple | 0.3.2 | Audit AI coding agent setups and deployed apps for leaked keys, open data and r… |
-| 2026-11-08 05:59:35 | ru.cisoclub/mcp | CISOCLUB | 1.1.0 | Материалы CISOCLUB об ИБ и ИТ: поиск, новости, тексты публикаций, уязвимости из… |
-| 2026-11-08 05:59:37 | io.github.russellzhengrocks-arch/suba | SubA by entendu. | 0.0.0 | AI-assisted subtitle localization with project rules, glossaries, review and ex… |
-| 2026-11-08 06:00:09 | [io.github.ut181749ut/saifuban](https://github.com/ut181749ut/saifuban) | Saifuban | 0.4.0 | Spending guard for AI agents: auto-approve small payments, phone approval for t… |
-| 2026-11-08 06:02:24 | info.kamakura/kamakura-trip-planner | Kamakura Trip Planner | 1.0.0 | Kamakura and Enoshima day plans, Enoden fares and passes, bloom dates, sights a… |
-| 2026-11-08 06:03:15 | [io.github.markolis-quant/markolis](https://github.com/markolis-quant/markolis) |  | 1.0.0 | Empirical quantitative market telemetry, 100-bin auction profiles & trapped cro… |
-| 2026-11-08 06:04:56 | info.pikespeak/pikes-peak-trip-planner | Pikes Peak Trip Planner | 1.0.0 | Plan a Pikes Peak day: timed-entry permit, gate hours, live road status, costs,… |
-| 2026-11-08 06:14:25 | tw.emetals/emetals-ai | eMetals AI™ Taiwan Steel Data | 1.0.0 | Taiwan steel data: grade specs and properties, live stock, metal suppliers, and… |
-| 2026-11-08 06:17:46 | [io.github.SezerPro/fichepro-mcp](https://github.com/SezerPro/fichepro-mcp) | FichePro for Claude | 1.3.0 | Writes and SEO-scores product listings from the seller's facts, for 7 marketpla… |
+| 2026-11-08 06:21:29 | info.ishigaki/ferries | Ishigaki Ferries & Islands | 1.1.0 | Ishigaki and Yaeyama ferries: status today, next boats, day planner, which isla… |
+| 2026-11-08 06:21:54 | [io.github.dii/stlink-mcp](https://github.com/dii/stlink-mcp) | stlink-mcp | 0.8.6 | Program, run and inspect STM32 targets over ST-LINK; every result verified, unv… |
+| 2026-11-08 06:24:49 | io.relayswitch/gateway | RelaySwitch | 1.0.0 | Every major chat, image and video model on one prepaid key. OpenAI, Anthropic a… |
+| 2026-11-08 06:33:50 | [io.github.henryyeh182/evidra](https://github.com/henryyeh182/evidra) | Pacevera | 0.5.9 | Turns the training evidence you already have into a decision about today's sess… |
+| 2026-11-08 06:34:06 | [io.github.Playpowerpolitics/powerplayers](https://github.com/Playpowerpolitics/powerplayers-mcp) | Power Players | 1.0.0 | Citizen ratings of US officials and candidates, plus ballots, contact tools and… |
+| 2026-11-08 06:46:41 | in.co.buildwright/compliance |  | 1.0.0 | Indian business compliance answers: MCA late fees, filing calendar, cheque boun… |
+| 2026-11-08 06:48:30 | com.aiseocrew.www/ai-seo-crew | AI SEO Crew | 1.0.0 | AI agents that research, write and publish SEO articles on your website, from y… |
+| 2026-11-08 06:54:58 | com.divetripplanner/caves | DiveTripPlanner | 1.0.0 | Cave diving sites worldwide: depths, required level, warnings, guides, fills an… |
+| 2026-11-08 06:55:54 | [io.github.tailucanh/offload-mcp-server](https://github.com/tailucanh/offload-mcp-server) | offload | 0.2.1 | Hand heavy read-only work to a background agent CLI (Antigravity) and read back… |
+| 2026-11-08 06:57:09 | [io.usefulapi/cledara](https://github.com/m190/usefulapi-mcp) | Cledara MCP by usefulapi | 1.0.0 | List applications, transactions and invoice download links in Cledara. |
+| 2026-11-08 06:57:09 | [io.usefulapi/eurosender](https://github.com/m190/usefulapi-mcp) | Eurosender MCP by usefulapi | 1.0.0 | Quote, book and cancel parcel shipments, track them and get their labels in Eur… |
+| 2026-11-08 06:57:09 | [io.usefulapi/vatstack](https://github.com/m190/usefulapi-mcp) | Vatstack MCP by usefulapi | 1.0.0 | Validate VAT numbers, look up VAT rates and review past checks and plan hits in… |
+| 2026-11-08 06:57:09 | [io.usefulapi/talexio](https://github.com/m190/usefulapi-mcp) | Talexio MCP by usefulapi | 1.0.0 | Read employees, approved pay lines, approved time off and shift templates in Ta… |
+| 2026-11-08 06:57:09 | [io.usefulapi/zomentum](https://github.com/m190/usefulapi-mcp) | Zomentum MCP by usefulapi | 1.0.0 | Read opportunities, contacts, documents and tasks, and add tasks or comments in… |
+| 2026-11-08 07:01:43 | io.github.aadeshrao123/codefizz-editor-agent | CodeFizz Editor Agent | 3.20.0 | AI assistant for Unreal Engine 5: 1,500+ editor commands for Blueprints, Niagar… |
+| 2026-11-08 07:01:57 | [io.github.mhbxyz/kdenlive-mcp](https://github.com/mhbxyz/kdenlive-mcp) | Kdenlive | 0.1.0 | Inspect, edit and render Kdenlive video projects locally on Linux. |
+| 2026-11-08 07:02:40 | st.bots/bots-street | Bots Street | 1.0.0 | Find working MCP servers and AI agents for a job, each with our own latest live… |
+| 2026-11-08 07:09:19 | [io.github.mindstone/mcp-server-email-imap](https://github.com/mindstone/mcp-servers) | Email (IMAP/SMTP) | 0.3.3 | Email IMAP/SMTP MCP server: iCloud, Gmail, Yahoo, Outlook, and custom IMAP prov… |
+| 2026-11-08 07:10:44 | [net.todoist/mcp](https://github.com/Doist/todoist-mcp) | Todoist | 1.0.1 | Official Todoist MCP server. Manage tasks and projects. Hosted, no API key need… |
+| 2026-11-08 07:15:29 | [io.github.cubic1M/operis](https://github.com/cubic1M/Naive-Autonomous-Company-Hackathon-Project) | Operis | 1.0.0 | Hire a verified human for real-world tasks in San Francisco. You pay only when… |
+| 2026-11-08 07:16:21 | [io.github.idoo/billigast-mcp](https://github.com/idoo/billigast-mcp) | Billigast | 1.0.0 | Read-only MCP server: find the cheapest store for a product across Prisjakt and… |
+| 2026-11-08 07:16:42 | [io.usefulapi/addressfinder](https://github.com/m190/usefulapi-mcp) | Addressfinder MCP by usefulapi | 1.0.0 | Autocomplete and verify NZ and AU addresses, and search NZ and AU locations in… |
+| 2026-11-08 07:16:42 | [io.usefulapi/agiloft](https://github.com/m190/usefulapi-mcp) | Agiloft MCP by usefulapi | 1.0.0 | List tables, read records and search a knowledgebase in Agiloft. |
+| 2026-11-08 07:16:42 | [io.usefulapi/hoa-to](https://github.com/m190/usefulapi-mcp) | HOA.to MCP by usefulapi | 1.0.0 | Read units, owners, charges and requests, and record payments and violations in… |
+| 2026-11-08 07:16:42 | [io.usefulapi/axcient](https://github.com/m190/usefulapi-mcp) | Axcient MCP by usefulapi | 1.0.0 | List clients, devices, vaults and restore points, and check backup jobs in Axci… |
 
 ## Data source
 
