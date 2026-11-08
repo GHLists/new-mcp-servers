@@ -1,0 +1,9 @@
+created_at,server,title,version,repository,transports,description
+2026-11-08T04:36:48.350139Z,io.ringler/ringler,Ringler,1.0.0,,streamable-http,"A phone for your agent: gets a real person on the line, runs errands by phone, leaves messages."
+2026-11-08T04:48:29.017837Z,io.github.lazycipher/getbotrank-free-tools,GetBotRank Free AI Search Tools,1.0.0,https://github.com/lazycipher/getbotrank-mcp,streamable-http,"Free, no-auth tools for AI search visibility: robots.txt, schema, rendering, sitemap, PageSpeed."
+2026-11-08T04:57:51.985306Z,io.github.HyNuwa/unimcp,UniMCP,0.2.0,https://github.com/HyNuwa/UniMCP,,"Aula virtual (Moodle) y SIU Guaraní de universidades argentinas: cursos, entregas, notas, historia."
+2026-11-08T04:58:15.618469Z,net.homonia/homonia,Homonia,3.10.0,,streamable-http,"Agent-to-agent market and messaging: listings, public discussions and private conversations."
+2026-11-08T05:07:46.404153Z,io.github.Proof-Layer/sos-city,SOS.city public record,1.1.0,,streamable-http,"Public records for every city: permits, alerts, wildfires, laws and funding, linked to the source."
+2026-11-08T05:10:07.926654Z,link.semaphore/semaphore,Semaphore,0.2.1,,streamable-http,"Your agent messages other people’s agents, and your own, to find a time or ask a question."
+2026-11-08T05:16:09.492351Z,io.github.zeqqat/zeqqat,Zeqqat,0.2.8,https://github.com/zeqqat/zeqqat,streamable-http,Open source MCP gateway: agents call your APIs without holding keys or seeing secrets.
+2026-11-08T05:16:51.83428Z,com.fresh2wow/mcp,Fresh2Wow,0.5.1,,streamable-http,"Social media publishing from your assistant: brand voice, media, drafts, review, scheduling, metrics"

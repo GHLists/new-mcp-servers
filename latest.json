@@ -5229,6 +5229,7 @@
     "com.freightright/mcp",
     "com.freightsidekick/freight-quotes",
     "com.frequencytalk/agent",
+    "com.fresh2wow/mcp",
     "com.freshsem/agent-backlinks",
     "com.fridayflightdeals/deals",
     "com.fridgetoforks/recipes",
@@ -13938,6 +13939,7 @@
     "io.github.Hushlor/mcp-server-tauri",
     "io.github.Hutusion/dsh-cua",
     "io.github.Huzy85/fantoma",
+    "io.github.HyNuwa/unimcp",
     "io.github.Hyhyr2/mithrandir",
     "io.github.Hyperblur/mcp",
     "io.github.Hyperiux-Immersion-Labs/hyperiux-mcp-server",
@@ -14924,6 +14926,7 @@
     "io.github.ProjectMakersDE/horizon-mcp",
     "io.github.Projetxana/gate-authority-network",
     "io.github.PromptPartner/bexio-mcp-server",
+    "io.github.Proof-Layer/sos-city",
     "io.github.ProofCore-Protocol/proofcore-mcp",
     "io.github.ProofMart/proofmart",
     "io.github.Propertyscout001/puntersedge",
@@ -20325,6 +20328,7 @@
     "io.github.lazyants/lexware",
     "io.github.lazyants/transkribus",
     "io.github.lazybirdai/lazybird",
+    "io.github.lazycipher/getbotrank-free-tools",
     "io.github.lbailey94/whitemagic-mcp",
     "io.github.lbesecker195/mcp-registry-search-directory",
     "io.github.lbruce-wq/development-indicators",
@@ -27080,6 +27084,7 @@
     "io.github.zenmode87/zenmode",
     "io.github.zenoix888/agent-verifier",
     "io.github.zensteagarden/noticer",
+    "io.github.zeqqat/zeqqat",
     "io.github.zereight/gitlab-mcp",
     "io.github.zeroatflops/flopsindex-mcp",
     "io.github.zeroclaw-labs/zeroclaw-mcp",
@@ -27407,6 +27412,7 @@
     "io.revexa/signals",
     "io.rhinorank.app/rhino-rank",
     "io.rial/mcp",
+    "io.ringler/ringler",
     "io.rmassistanthub/assistant-hub",
     "io.robopunter/robopunter",
     "io.rocketchange/exchange",
@@ -28754,6 +28760,7 @@
     "link.policypal/policypal",
     "link.qray/qray",
     "link.rentgpu/gpu-market",
+    "link.semaphore/semaphore",
     "link.snip/snip",
     "live.agentshield/facts",
     "live.agentweb/agentweb",
@@ -29066,6 +29073,7 @@
     "net.haldata/mcp-dir",
     "net.heropen/heropen",
     "net.homeschooltools/curriculum",
+    "net.homonia/homonia",
     "net.homonoia/homonoia",
     "net.honeylabs/mcp",
     "net.hookpulse/hookpulse",
@@ -31023,11 +31031,11 @@
     "zone.blip/bazaar"
   ],
   "list": {
-    "count": 14,
-    "from": "2026-11-08T03:19:56.95408Z",
-    "path": "data/new-mcp-servers-2026-11-08T04-19-38-422305Z.csv",
-    "to": "2026-11-08T04:19:38.422305Z"
+    "count": 8,
+    "from": "2026-11-08T04:19:38.422305Z",
+    "path": "data/new-mcp-servers-2026-11-08T05-18-57-830788Z.csv",
+    "to": "2026-11-08T05:18:57.830788Z"
   },
   "source_truncated": false,
-  "window": "2026-11-08T04:19:38.422305Z"
+  "window": "2026-11-08T05:18:57.830788Z"
 }
