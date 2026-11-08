@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-11-08T07:24:05.669824Z,io.github.zxm9988/bilingual-mix,,1.0.0,https://github.com/zxm9988/bilingual-mix,streamable-http,Remote MCP server for sentence-by-sentence alternating bilingual listening audio.
+2026-11-08T07:31:53.335923Z,ai.pigfox/pigfox-ai,pigfox.ai AI search readiness,1.0.0,,streamable-http,"Check if a site is ready for AI search: AI crawler access, llms.txt, JSON-LD, scored out of 100."
+2026-11-08T07:32:23.813501Z,app.telemoon/telemoon,Telemoon,0.2.0,,streamable-http,"Telegram channel statistics: subscribers, views, growth, mentions, ads, similar channels, trends."
+2026-11-08T07:35:06.064475Z,com.360nook/crm,360Nook,1.0.0,,streamable-http,"360Nook CRM: contacts, conversations, appointments, opportunities, workflows. Sign in with OAuth."
+2026-11-08T07:40:11.552531Z,com.neatkept/neatkept,Neatkept,1.0.0,,streamable-http,"Home inventory: find, add and move things across every home, room and labelled box."
+2026-11-08T07:42:46.684291Z,com.solmarrow/mcp,SolMarrow,1.0.0,,streamable-http,"Draft, schedule and check social media posts on 19 social networks from your AI agent."
+2026-11-08T07:43:19.213051Z,io.usefulapi/zero-plus-one,Zero Plus One MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read invoices, quotes, contacts, financial reports and bank reconciliation in Zero Plus One."
+2026-11-08T07:43:40.506117Z,io.github.toogreatwtf/fmrl-mcp,fmrl,0.17.5,https://github.com/toogreatwtf/fmrl-plugin,,Publish HTML or Markdown from any agent to fmrl.site and get a link back. Private by default.
+2026-11-08T07:44:35.778081Z,io.offermagnet/jobs,OfferMagnet Jobs,1.0.0,,streamable-http,"Live job search (US, France, Europe, remote) with each posting's visa-sponsorship stance. Free."
+2026-11-08T07:47:18.938465Z,com.plainquant/plainquant,PlainQuant,1.0.0,,streamable-http,"What US stocks did after past market events, and trend/business scores for US and HK stocks."
+2026-11-08T07:47:32.422306Z,io.github.ytkoka/impersonate-mcp,,0.1.0,https://github.com/ytkoka/impersonate-proxy,,"Switch impersonate-proxy's TLS/HTTP2 fingerprint, UA, client IP and upstream; verify and fetch."
+2026-11-08T07:49:57.612628Z,au.com.censible/censible,Censible,1.0.0,https://github.com/Censible-AU/Censible-MCP,streamable-http,"The Australian Census (2011, 2016, 2021) for any suburb, postcode or council, with projections."
+2026-11-08T07:50:36.642496Z,ai.storika/storika,Storika,1.0.0,,streamable-http,"Run creator marketing from your AI assistant: find creators, send outreach, track posts."
+2026-11-08T08:01:00.090884Z,app.dayheart/dayheart,DayHeart,1.0.0,,streamable-http,"Day planner: work shifts with earnings, classes with homework, tasks. Read your day and add to it."
+2026-11-08T08:06:30.030805Z,com.myuiaf/freshness-validator,Freshness Validator,1.0.0,,streamable-http,Flags when an AI agent's context is stale: freshness score 0-100 and source change detection.
+2026-11-08T08:06:30.158064Z,com.myuiaf/agentcache,AgentCache,1.0.0,,streamable-http,"Semantic answer cache for agents: reuse answers to repeated or reworded questions, $0.002 per hit."
+2026-11-08T08:06:30.293898Z,com.myuiaf/agentpay,AgentPay,1.0.0,,streamable-http,Let agents pay for third-party APIs per call from one prepaid wallet. Charged only on success.
+2026-11-08T08:09:46.634418Z,io.github.yamadashy/repomix,Repomix,1.19.0,https://github.com/yamadashy/repomix,,Pack local or remote codebases into AI-friendly files that LLMs and coding agents can read or search
