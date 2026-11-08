@@ -9,34 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 13:21 UTC
+## Latest list — 2026-11-08 14:18 UTC
 
-New MCP servers published between 2026-11-08 12:19 UTC and 2026-11-08 13:21 UTC.
+New MCP servers published between 2026-11-08 13:21 UTC and 2026-11-08 14:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-08T13-21-14-548678Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-08T14-18-56-159104Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-08 12:20:20 | com.eventassets/eventassets | EventAssets | 1.0.0 | Plan and host your events: event page, guest list, RSVP, seating, agenda, budge… |
-| 2026-11-08 12:24:12 | ai.sternly/verify | Sternly | 0.1.0 | Checks finished AI work after it is done: figures, citations and quotations, wi… |
-| 2026-11-08 12:29:44 | io.github.MaartenDMT/seo-perch | SEO Perch | 1.0.0 | One dashboard for the search, speed and health of the sites you run. Recommenda… |
-| 2026-11-08 12:32:09 | uk.geomaster/geoengine | GeoMaster GeoEngine | 1.0.0 | Geosteering AI for GeoMaster projects: well position, GeoMatch checks, versions… |
-| 2026-11-08 12:35:47 | racing.kerbside/f1 | Kerbside F1 | 1.0.0 | Free Formula 1 stats: standings, title maths, teammate battles and records, eac… |
-| 2026-11-08 12:36:10 | [io.github.AIVeed-io/aiveed-mcp](https://github.com/AIVeed-io/aiveed-mcp) | AIVeed | 0.1.1 | Generate AI videos, images and audio (Veo 3.1, Seedance, Kling and more) with A… |
-| 2026-11-08 12:46:10 | jp.rep-app/public-mcp | Rep | 0.2.0 | Check whether Rep, a network of verified executives in Japan, has members match… |
-| 2026-11-08 12:46:21 | [io.github.CHANGCHINFU/truthbear-mcp](https://github.com/CHANGCHINFU/truthbear-mcp) | Truth Bear | 1.0.0 | Verifiable official-source records for AI agents: record_hash + Ed25519 citatio… |
-| 2026-11-08 12:55:30 | [io.github.anzy-renlab-ai/pronounce](https://github.com/anzy-renlab-ai/pronounce) |  | 0.2.0 | How engineers pronounce developer jargon — 1,927 confidence-tagged entries with… |
-| 2026-11-08 12:55:51 | [io.github.turbyho/fw-context-mcp](https://github.com/turbyho/fw-context-mcp) |  | 0.36.0 | Build-aware code intelligence for embedded C/C++ firmware — libclang, FTS5, cal… |
-| 2026-11-08 12:58:08 | [io.github.ByteBlisk/app-reviews-insights](https://github.com/ByteBlisk/mcp-servers) | App Store & Google Play Reviews Scraper… | 1.0.0 | Google Play and App Store reviews in one format, with complaint themes, quotes… |
-| 2026-11-08 12:58:08 | [io.github.ByteBlisk/google-play-search-toolkit](https://github.com/ByteBlisk/mcp-servers) | Google Play Scraper & SERP Rank Checker | 1.0.0 | Google Play apps, reviews and search, plus top-100 search rank on Google, Bing… |
-| 2026-11-08 12:58:08 | [io.github.ByteBlisk/sitereader](https://github.com/ByteBlisk/mcp-servers) | Web Scraper & Crawler for RAG (Markdown) | 1.0.0 | Website to clean Markdown or JSON for AI and RAG: read pages, crawl sites, extr… |
-| 2026-11-08 13:02:03 | io.github.cventuresza-tech/puley | Puley | 1.0.0 | Let your AI read live public pages it is locked out of (TikTok, Instagram, Amaz… |
-| 2026-11-08 13:03:39 | [io.github.kuzenlabs/maviapi-mcp](https://github.com/kuzenlabs/maviapi-mcp) | maviapi | 0.1.1 | Live JSON from sites with no API (Booking, Airbnb, Tripadvisor…), plus agent-bu… |
-| 2026-11-08 13:06:50 | org.agentshopping/intent-catalog | AgentShopping Intent Catalog | 0.1.0 | Read-only MCP endpoint for 100 buyer-agent transaction intents and supply offer… |
-| 2026-11-08 13:07:38 | dev.taifoon.coord/text-digest-1170141 | text digest (sha256, keccak256) | 1.0.0 | Send text and get its sha256 or keccak256 hash as hex. Listed by Moonbeam: nine… |
-| 2026-11-08 13:13:10 | com.aeonport/aeonport | Aeonport | 1.0.0 | Hire AI agents by outcome: frozen acceptance rules, automatic checks, verifiabl… |
-| 2026-11-08 13:19:39 | [io.github.Bannawat01/devdoctor](https://github.com/Bannawat01/DevDoctor) | DevDoctor | 0.1.1 | Read-only local diagnostics for Rust, Node, Docker, ports, and environment conf… |
-| 2026-11-08 13:20:44 | fun.proofmarket/proofmarket | ProofMarket | 1.0.0 | AI agents pay people nearby to check the real world: photos and an answer, paid… |
+| 2026-11-08 13:21:34 | io.github.koppkvn/details | Details | 0.12.0 | Find curated website design references, inspect motion and source, and reuse Va… |
+| 2026-11-08 13:22:08 | io.bitpredict.app/bitpredict | BitPredict | 1.0.0 | Read what BitPredict members call Up or Down on each coin, plus the Daily Call… |
+| 2026-11-08 13:28:52 | [io.github.RidioDevelopment/socialcrawl](https://github.com/RidioDevelopment/socialcrawl-mcp) | SocialCrawl | 2.2.0 | One API for social, commerce, travel, jobs, finance and web data, with exact cr… |
+| 2026-11-08 13:36:44 | [io.github.imal1ice/ownerwatch-mcp](https://github.com/imal1ice/ownerwatch-mcp) | ownerwatch | 0.1.0 | Read-only: who controls EVM contracts. Owners, proxy admins, Safes, timelocks,… |
+| 2026-11-08 13:38:21 | com.withpanta/panta | Panta Swiss Job Market Data | 1.1.0 | Source-linked Swiss job and employer data. Public market tools; personal worksp… |
+| 2026-11-08 13:39:58 | [io.github.RTY2345RR/tts-mcp-server](https://github.com/RTY2345RR/miragea-voice-mcp) | TTS MCP Server | 0.1.1 | Text-to-speech, AI voiceover, voice cloning and SRT/VTT subtitles for AI agents. |
+| 2026-11-08 13:41:06 | jp.cloneai.ai/agent-hub | CloneAI for Agents + Agent Hub | 1.1.0 | Japanese synthetic persona surveys (simulated, not real people) plus Agent Hub… |
+| 2026-11-08 13:41:55 | io.github.lewisororke/l50-marketplaces | L50 Marketplace Data | 1.0.0 | eBay, Vinted, Poshmark, Reverb and Shopify prices plus a price compare. Pay per… |
+| 2026-11-08 13:43:19 | [io.github.ak10082247-max/agentfuel402](https://github.com/ak10082247-max/agentfuel402) | AgentFuel402 Consumable Data Factory | 1.0.0 | Consumable B2B leads, clean Markdown, e-com pricing, and SDK metadata for AI ag… |
+| 2026-11-08 13:44:36 | [io.github.KonstantinStarovoytov/kitden](https://github.com/KonstantinStarovoytov/kitden) | Kitden | 0.6.1 | Shows what Claude Code, Codex and Cursor load on this computer: MCP servers, pl… |
+| 2026-11-08 13:47:20 | [io.github.leocelis/horizon-fidelity-monitor](https://github.com/leocelis/horizon) | Horizon Fidelity Monitor | 0.3.0 | Real-time conversation health for AI agents: drift, desync, causal collapse, pl… |
+| 2026-11-08 13:49:28 | [io.github.chrisschouk/spotcheck](https://github.com/chrisschouk/spotcheck) | SpotCheck | 1.0.0 | Score Spotify playlists for bot-farm patterns and triage an artificial streamin… |
+| 2026-11-08 13:49:32 | [io.github.chrisschouk/newsjack](https://github.com/chrisschouk/newsjack) | NewsJack | 0.2.0 | Music-industry news scored for your brand, with a drafted post in your voice. |
+| 2026-11-08 13:49:36 | [io.github.J0s3f/kotlogramme](https://github.com/J0s3f/kotlogramme-cli.git) | Telegram (kotlogramme) | 0.11.1 | Read and, if allowed, act on your own Telegram account: chats, messages, contac… |
+| 2026-11-08 13:49:55 | com.synap402/synap-mcp | Synap | 0.1.1 | Open-model LLM inference for agents. Pay per call in USDC via x402 or API key.… |
+| 2026-11-08 13:57:52 | io.github.lewisororke/l50-uk-vehicles | L50 UK Vehicle Data | 1.0.0 | UK MOT history for any registration: status, mileage, clocking check, defects.… |
+| 2026-11-08 13:59:42 | org.hominoport/hominoport | Hominoport | 1.1.0 | A human nominee and body in the physical world for autonomous agents. Signed pu… |
+| 2026-11-08 14:02:10 | [com.tetramlabs/point](https://github.com/adi34444/TetramLabs-website) | Point (Tetra M Labs) | 1.0.0 | Read-only MCP server for Point (Tetra M Labs): demo ledger, trial balance, part… |
+| 2026-11-08 14:02:55 | [io.github.N0moreher0/venira-mcp](https://github.com/N0moreher0/Venira-mcp) |  | 1.19.0 | Workspace-scoped MCP server for coding agents: files, search, shell, checkpoint… |
+| 2026-11-08 14:04:35 | app.pofa/pofa | POFA Tournaments | 1.1.0 | Run small tennis & pickleball tournaments from your AI assistant: brackets, sch… |
+| 2026-11-08 14:06:16 | com.stampywallet/stampywallet | StampyWallet | 1.0.0 | StampyWallet loyalty cards in Apple Wallet and Google Wallet: customers, stamps… |
+| 2026-11-08 14:08:32 | [io.github.2fizzle/bip-skills-mcp](https://github.com/2fizzle/bip-skills-mcp) | BIP Skills MCP | 1.0.1 | Serves Agent Skills folders (SKILL.md + bundled files) to any MCP client. Bundl… |
+| 2026-11-08 14:12:21 | com.us.fintech/fintechjobs | Fintech Careers MCP | 2.8.0 | Spanish-language fintech job board for LatAm: search jobs, compare USD pay and… |
+| 2026-11-08 14:14:40 | [io.dorabot/ngay-le](https://github.com/Dorabot-io/ngay-le) | Dorabot – Vietnam public holidays & bus… | 1.0.0 | Vietnam public holidays 2026–2040 with compensatory and swapped days; count/add… |
+| 2026-11-08 14:17:34 | com.vincevangen/vvgen | vincevangen | 0.1.0 | Portraits, product shots, photo edits, video and music for your coding agent, w… |
 
 ## Data source
 

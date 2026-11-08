@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-11-08T13:21:34.807756Z,io.github.koppkvn/details,Details,0.12.0,,streamable-http,"Find curated website design references, inspect motion and source, and reuse Vault components."
+2026-11-08T13:22:08.389048Z,io.bitpredict.app/bitpredict,BitPredict,1.0.0,,streamable-http,"Read what BitPredict members call Up or Down on each coin, plus the Daily Call and crowd record."
+2026-11-08T13:28:52.399538Z,io.github.RidioDevelopment/socialcrawl,SocialCrawl,2.2.0,https://github.com/RidioDevelopment/socialcrawl-mcp,streamable-http,"One API for social, commerce, travel, jobs, finance and web data, with exact credit pricing."
+2026-11-08T13:36:44.810168Z,io.github.imal1ice/ownerwatch-mcp,ownerwatch,0.1.0,https://github.com/imal1ice/ownerwatch-mcp,,"Read-only: who controls EVM contracts. Owners, proxy admins, Safes, timelocks, roles."
+2026-11-08T13:38:21.141346Z,com.withpanta/panta,Panta Swiss Job Market Data,1.1.0,,streamable-http,Source-linked Swiss job and employer data. Public market tools; personal workspace tools use OAuth.
+2026-11-08T13:39:58.787308Z,io.github.RTY2345RR/tts-mcp-server,TTS MCP Server,0.1.1,https://github.com/RTY2345RR/miragea-voice-mcp,,"Text-to-speech, AI voiceover, voice cloning and SRT/VTT subtitles for AI agents."
+2026-11-08T13:41:06.661974Z,jp.cloneai.ai/agent-hub,CloneAI for Agents + Agent Hub,1.1.0,,streamable-http,"Japanese synthetic persona surveys (simulated, not real people) plus Agent Hub reads in one call."
+2026-11-08T13:41:55.627509Z,io.github.lewisororke/l50-marketplaces,L50 Marketplace Data,1.0.0,,streamable-http,"eBay, Vinted, Poshmark, Reverb and Shopify prices plus a price compare. Pay per call, x402 USDC."
+2026-11-08T13:43:19.386956Z,io.github.ak10082247-max/agentfuel402,AgentFuel402 Consumable Data Factory,1.0.0,https://github.com/ak10082247-max/agentfuel402,streamable-http,"Consumable B2B leads, clean Markdown, e-com pricing, and SDK metadata for AI agents via MCP."
+2026-11-08T13:44:36.89683Z,io.github.KonstantinStarovoytov/kitden,Kitden,0.6.1,https://github.com/KonstantinStarovoytov/kitden,,"Shows what Claude Code, Codex and Cursor load on this computer: MCP servers, plugins, skills, hooks"
+2026-11-08T13:47:20.318214Z,io.github.leocelis/horizon-fidelity-monitor,Horizon Fidelity Monitor,0.3.0,https://github.com/leocelis/horizon,sse,"Real-time conversation health for AI agents: drift, desync, causal collapse, plus mission clocks."
+2026-11-08T13:49:28.883328Z,io.github.chrisschouk/spotcheck,SpotCheck,1.0.0,https://github.com/chrisschouk/spotcheck,streamable-http,Score Spotify playlists for bot-farm patterns and triage an artificial streaming warning.
+2026-11-08T13:49:32.924415Z,io.github.chrisschouk/newsjack,NewsJack,0.2.0,https://github.com/chrisschouk/newsjack,streamable-http,"Music-industry news scored for your brand, with a drafted post in your voice."
+2026-11-08T13:49:36.191921Z,io.github.J0s3f/kotlogramme,Telegram (kotlogramme),0.11.1,https://github.com/J0s3f/kotlogramme-cli.git,,"Read and, if allowed, act on your own Telegram account: chats, messages, contacts, files."
+2026-11-08T13:49:55.445453Z,com.synap402/synap-mcp,Synap,0.1.1,,,Open-model LLM inference for agents. Pay per call in USDC via x402 or API key. First call free.
+2026-11-08T13:57:52.987787Z,io.github.lewisororke/l50-uk-vehicles,L50 UK Vehicle Data,1.0.0,,streamable-http,"UK MOT history for any registration: status, mileage, clocking check, defects. Pay per call, x402."
+2026-11-08T13:59:42.383648Z,org.hominoport/hominoport,Hominoport,1.1.0,,streamable-http,A human nominee and body in the physical world for autonomous agents. Signed public offer.
+2026-11-08T14:02:10.144013Z,com.tetramlabs/point,Point (Tetra M Labs),1.0.0,https://github.com/adi34444/TetramLabs-website,streamable-http,"Read-only MCP server for Point (Tetra M Labs): demo ledger, trial balance, partners."
+2026-11-08T14:02:55.227556Z,io.github.N0moreher0/venira-mcp,,1.19.0,https://github.com/N0moreher0/Venira-mcp,,"Workspace-scoped MCP server for coding agents: files, search, shell, checkpoints, PR/CI, audit."
+2026-11-08T14:04:35.005596Z,app.pofa/pofa,POFA Tournaments,1.1.0,,streamable-http,"Run small tennis & pickleball tournaments from your AI assistant: brackets, schedules, results."
+2026-11-08T14:06:16.377014Z,com.stampywallet/stampywallet,StampyWallet,1.0.0,,streamable-http,"StampyWallet loyalty cards in Apple Wallet and Google Wallet: customers, stamps, rewards, messages."
+2026-11-08T14:08:32.797319Z,io.github.2fizzle/bip-skills-mcp,BIP Skills MCP,1.0.1,https://github.com/2fizzle/bip-skills-mcp,,Serves Agent Skills folders (SKILL.md + bundled files) to any MCP client. Bundles bip-xsl-hardening.
+2026-11-08T14:12:21.442868Z,com.us.fintech/fintechjobs,Fintech Careers MCP,2.8.0,,streamable-http,"Spanish-language fintech job board for LatAm: search jobs, compare USD pay and track applications."
+2026-11-08T14:14:40.702726Z,io.dorabot/ngay-le,Dorabot – Vietnam public holidays & business days,1.0.0,https://github.com/Dorabot-io/ngay-le,streamable-http,Vietnam public holidays 2026–2040 with compensatory and swapped days; count/add business days.
+2026-11-08T14:17:34.657954Z,com.vincevangen/vvgen,vincevangen,0.1.0,,streamable-http,"Portraits, product shots, photo edits, video and music for your coding agent, with a spend cap."
