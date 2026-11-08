@@ -9,20 +9,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 03:19 UTC
+## Latest list — 2026-11-08 04:19 UTC
 
-New MCP servers published between 2026-11-08 02:20 UTC and 2026-11-08 03:19 UTC.
+New MCP servers published between 2026-11-08 03:19 UTC and 2026-11-08 04:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-08T03-19-56-95408Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-08T04-19-38-422305Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-08 02:33:09 | [io.github.getagentseal/codeburn](https://github.com/getagentseal/codeburn) | CodeBurn | 0.9.28 | AI coding spend, tokens and plan quotas across Claude Code, Codex, Cursor and 4… |
-| 2026-11-08 02:47:30 | com.simvito/esim | Simvito eSIM | 1.3.1 | Compare travel eSIM plans and each local network (4G/5G), check phone support,… |
-| 2026-11-08 02:58:21 | ai.xodia/xodia | Xodia | 1.0.0 | Build and edit your website in Xodia, a visual website builder for real code (V… |
-| 2026-11-08 03:14:05 | [io.github.Dhaxor/open-context-engine](https://github.com/Dhaxor/open-context-engine) |  | 0.7.1 | Local-first code retrieval: hybrid search over an AST-aware index of your codeb… |
-| 2026-11-08 03:19:04 | [com.themethodic/candor](https://github.com/MethodicDev/candor) | Candor UI docs | 1.9.0 | Candor UI docs and component suggestions. Read-only, no key, never serves paid… |
-| 2026-11-08 03:19:06 | [io.github.lkm543/examscloud](https://github.com/lkm543/examscloud-mcp) | 考試雲 examscloud | 1.0.0 | Taiwan national exam past papers, official answers, AI explanations and your ow… |
+| 2026-11-08 03:27:03 | solutions.diatech/ania | Ania | 1.0.0 | Create talking animated avatars, wake words and narrated videos. Price shown be… |
+| 2026-11-08 03:33:52 | fund.f4/raise | F4 Raise | 1.0.2 | Ranks VC firms for a startup from a short description, with similar companies e… |
+| 2026-11-08 03:39:33 | [io.github.urbantech/ainative-zerodb-mcp-server](https://github.com/AINative-Studio/ainative-zerodb-mcp-server) |  | 2.5.2 | Serverless database for AI agents: vector search, NoSQL, Postgres, files, agent… |
+| 2026-11-08 03:40:38 | [com.openanthropic/oh-my-share](https://github.com/shisongsong/oh-my-share) | Oh My Share | 2.3.0 | Publish HTML/code from your agent to openanthropic.com and get a shareable link. |
+| 2026-11-08 03:42:04 | [io.github.AINative-Studio/ainative-zerodb-memory-mcp](https://github.com/AINative-Studio/ainative-zerodb-memory-mcp) |  | 1.2.12 | ZeroDB agent-memory MCP — 18 tools: memory + write-back to Slack, Gmail, Calend… |
+| 2026-11-08 03:44:27 | [cc.betterjobs/betterjobs](https://github.com/nickvorobiov/betterjobs) | BetterJobs | 0.1.1 | Search deduped job reqs across providers and the hidden-ATS index; check hiring… |
+| 2026-11-08 03:44:38 | [io.github.stealthg0dd/neufin-financial-action-control](https://github.com/stealthg0dd/neufin) | NeuFin Financial Action Control | 3.7.1 | Authority, mandate, and policy checks for AI finance with replayable evidence.… |
+| 2026-11-08 03:51:34 | [io.github.gjlmotea/slicewise-for-bambu-studio-mcp](https://github.com/gjlmotea/slicewise-mcp) | Slicewise | 0.1.0 | Pre-print checks for Bambu Studio: GUI-faithful CLI slicing, override audit, pr… |
+| 2026-11-08 03:53:23 | [io.github.zane-labs/unraster](https://github.com/zane-labs/unraster-mcp) | Unraster | 1.0.0 | Turn slide images, charts and screenshots into editable PowerPoint (PPTX) or SV… |
+| 2026-11-08 03:54:05 | [io.github.jsilets/twscrape-twitter-mcp](https://github.com/jsilets/twscrape-twitter-mcp) | twscrape Twitter/X (read-only) | 0.1.6 | Read-only X/Twitter MCP: posts, threads, replies, search via twscrape. No API k… |
+| 2026-11-08 03:55:48 | info.galapagosislands/galapagos-trip-planner | Galapagos Trip Planner | 1.0.0 | Galapagos trip cost, island-hopping plans, ferry times, weather, wildlife and p… |
+| 2026-11-08 04:13:04 | ai.localprospects/mcp | LocalProspects | 1.0.0 | Find local businesses on Google Maps with owner names, emails, phone line types… |
+| 2026-11-08 04:17:55 | ai.aimochi/notes | AIMochi | 1.0.0 | Read-only access to your AIMochi meeting notes: list, search and read transcrip… |
+| 2026-11-08 04:19:13 | [com.easyruncraft/mcp](https://github.com/eastling/easyruncraft-mcp) | EasyRunCraft MCP | 0.1.0 | Online office suite for AI agents: edit docs, sheets, slides and PDFs in browse… |
 
 ## Data source
 

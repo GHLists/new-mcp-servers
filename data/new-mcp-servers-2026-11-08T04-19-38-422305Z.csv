@@ -1,0 +1,15 @@
+created_at,server,title,version,repository,transports,description
+2026-11-08T03:27:03.363007Z,solutions.diatech/ania,Ania,1.0.0,,streamable-http,"Create talking animated avatars, wake words and narrated videos. Price shown before every spend."
+2026-11-08T03:33:52.155991Z,fund.f4/raise,F4 Raise,1.0.2,,streamable-http,"Ranks VC firms for a startup from a short description, with similar companies each firm backed."
+2026-11-08T03:39:33.164594Z,io.github.urbantech/ainative-zerodb-mcp-server,,2.5.2,https://github.com/AINative-Studio/ainative-zerodb-mcp-server,,"Serverless database for AI agents: vector search, NoSQL, Postgres, files, agent memory."
+2026-11-08T03:40:38.252241Z,com.openanthropic/oh-my-share,Oh My Share,2.3.0,https://github.com/shisongsong/oh-my-share,streamable-http,Publish HTML/code from your agent to openanthropic.com and get a shareable link.
+2026-11-08T03:42:04.613118Z,io.github.AINative-Studio/ainative-zerodb-memory-mcp,,1.2.12,https://github.com/AINative-Studio/ainative-zerodb-memory-mcp,,"ZeroDB agent-memory MCP — 18 tools: memory + write-back to Slack, Gmail, Calendar, GitHub."
+2026-11-08T03:44:27.806097Z,cc.betterjobs/betterjobs,BetterJobs,0.1.1,https://github.com/nickvorobiov/betterjobs,,Search deduped job reqs across providers and the hidden-ATS index; check hiring; price searches free
+2026-11-08T03:44:38.596779Z,io.github.stealthg0dd/neufin-financial-action-control,NeuFin Financial Action Control,3.7.1,https://github.com/stealthg0dd/neufin,streamable-http,"Authority, mandate, and policy checks for AI finance with replayable evidence. Not live execution."
+2026-11-08T03:51:34.856732Z,io.github.gjlmotea/slicewise-for-bambu-studio-mcp,Slicewise,0.1.0,https://github.com/gjlmotea/slicewise-mcp,,"Pre-print checks for Bambu Studio: GUI-faithful CLI slicing, override audit, printability."
+2026-11-08T03:53:23.2232Z,io.github.zane-labs/unraster,Unraster,1.0.0,https://github.com/zane-labs/unraster-mcp,streamable-http,"Turn slide images, charts and screenshots into editable PowerPoint (PPTX) or SVG files."
+2026-11-08T03:54:05.423615Z,io.github.jsilets/twscrape-twitter-mcp,twscrape Twitter/X (read-only),0.1.6,https://github.com/jsilets/twscrape-twitter-mcp,,"Read-only X/Twitter MCP: posts, threads, replies, search via twscrape. No API key."
+2026-11-08T03:55:48.639323Z,info.galapagosislands/galapagos-trip-planner,Galapagos Trip Planner,1.0.0,,streamable-http,"Galapagos trip cost, island-hopping plans, ferry times, weather, wildlife and park fees."
+2026-11-08T04:13:04.484905Z,ai.localprospects/mcp,LocalProspects,1.0.0,,streamable-http,"Find local businesses on Google Maps with owner names, emails, phone line types and socials."
+2026-11-08T04:17:55.774243Z,ai.aimochi/notes,AIMochi,1.0.0,,streamable-http,"Read-only access to your AIMochi meeting notes: list, search and read transcripts and summaries."
+2026-11-08T04:19:13.704353Z,com.easyruncraft/mcp,EasyRunCraft MCP,0.1.0,https://github.com/eastling/easyruncraft-mcp,streamable-http,"Online office suite for AI agents: edit docs, sheets, slides and PDFs in browser or via MCP."
