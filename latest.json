@@ -2015,6 +2015,7 @@
     "app.ranya/ranya",
     "app.readingjourney/reading-journey",
     "app.readlink/readlink",
+    "app.readshore/readshore",
     "app.realalpha/moments",
     "app.recaudo/mcp",
     "app.recaudo/store",
@@ -6465,6 +6466,7 @@
     "com.layerre/layerre",
     "com.lazynext/accessibility-checker",
     "com.leacrm/crm",
+    "com.leadbotapp/leadbot",
     "com.leadboxer.mcp/leadboxer",
     "com.leadmarina/leadmarina",
     "com.leadmarmot/leads",
@@ -7488,6 +7490,7 @@
     "com.onrender.x402-tw-data/taiwan-open-data",
     "com.onrender.x402-usdc-verify/base-usdc-verifier",
     "com.ontarioprotocol/ontario-protocol",
+    "com.ontrackmoving/moving-quotes",
     "com.onvexia/onvexia",
     "com.onyxmetric/mcp",
     "com.oods-foundry/foundry",
@@ -19903,6 +19906,7 @@
     "io.github.ies86/shortlist-price-index",
     "io.github.ifcode/bithot",
     "io.github.ifcode/gameshot",
+    "io.github.ifsodev/ifso",
     "io.github.ig-imanish/betterumami",
     "io.github.ignaciohermosillacornejo/copilot-money-mcp",
     "io.github.ignatenkofi/memshelf-mcp",
@@ -20331,6 +20335,7 @@
     "io.github.joelynli0110/open-transfer-times",
     "io.github.joeyaflores/ourpr-mcp-server",
     "io.github.joeyg6393/agentbreakwatch-mcp",
+    "io.github.johan1727/personcraft",
     "io.github.johannesloor/muscle-memory",
     "io.github.john-broadway/proximo-proxmox",
     "io.github.johnInarti/agent-passport",
@@ -23332,6 +23337,7 @@
     "io.github.odyssey-finance/loopr",
     "io.github.ofershap/recipe-library",
     "io.github.offense-research/offense",
+    "io.github.officialdropspot/dropspot-mcp",
     "io.github.offprompt/offprompt",
     "io.github.offx366/ibangen-mcp",
     "io.github.ofomojolclaude/african-mutual-funds",
@@ -26289,6 +26295,7 @@
     "io.github.sassoftware/sas-mcp-server",
     "io.github.sassyconsultingllc/sassymcp",
     "io.github.satashili/toolsocket",
+    "io.github.satelliteoflove/godot-mcp",
     "io.github.sathya-sankaran/bharatlas-mcp",
     "io.github.sathya-sankaran/mdshare",
     "io.github.saucelabs/sauce-api-mcp",
@@ -27130,6 +27137,7 @@
     "io.github.tailucanh/offload-mcp-server",
     "io.github.taisly/agent",
     "io.github.takaratomita/mcp-tools",
+    "io.github.taku1211/bango-mcp",
     "io.github.taliasoftworks/planvortex",
     "io.github.talkpixai/talkpix",
     "io.github.talonicdev/talonic-mcp",
@@ -31508,6 +31516,7 @@
     "software.nori/mcp",
     "software.nori/reports",
     "software.pyes/estimate",
+    "solutions.avineon/mcp",
     "solutions.dap/bellwether",
     "solutions.dap/compute",
     "solutions.dap/foundry",
@@ -32479,11 +32488,11 @@
     "zone.blip/bazaar"
   ],
   "list": {
-    "count": 17,
-    "from": "2026-11-09T03:21:18.66149Z",
-    "path": "data/new-mcp-servers-2026-11-09T04-19-37-85751Z.csv",
-    "to": "2026-11-09T04:19:37.85751Z"
+    "count": 9,
+    "from": "2026-11-09T04:19:37.85751Z",
+    "path": "data/new-mcp-servers-2026-11-09T05-18-52-2843Z.csv",
+    "to": "2026-11-09T05:18:52.2843Z"
   },
   "source_truncated": false,
-  "window": "2026-11-09T04:19:37.85751Z"
+  "window": "2026-11-09T05:18:52.2843Z"
 }

@@ -1,0 +1,10 @@
+created_at,server,title,version,repository,transports,description
+2026-11-09T04:20:52.938492Z,com.leadbotapp/leadbot,LeadBot AI,1.0.0,,streamable-http,"Run your LeadBot AI website chatbot: preview and train bots, review leads, bookings and stats."
+2026-11-09T04:34:05.943017Z,app.readshore/readshore,ReadShore,1.2.0,,streamable-http,"Structured, cited reading data from the reader's own ReadShore library."
+2026-11-09T04:37:56.941482Z,io.github.satelliteoflove/godot-mcp,Godot MCP,4.2.0,https://github.com/satelliteoflove/godot-mcp,,"Agent-driven Godot playtesting: editor control, input injection, game-time stepping, live state."
+2026-11-09T04:45:21.027111Z,io.github.officialdropspot/dropspot-mcp,Drop Spot,1.3.1,https://github.com/officialdropspot/dropspot-mcp,,"Passwordless client document intake, checklist tracking, and 1-click file reviews for Drop Spot."
+2026-11-09T04:47:29.193541Z,solutions.avineon/mcp,Avineon Tensing,0.1.0,,streamable-http,"Avineon Tensing services, case studies and contacts, FME transformers, and FME licensing costs"
+2026-11-09T04:48:37.544079Z,io.github.taku1211/bango-mcp,Bango API（法人番号・インボイス）,0.1.0,https://github.com/taku1211/bango-mcp,,"Find Japanese companies by name; get corporate numbers, addresses and invoice (T-number) status."
+2026-11-09T04:53:31.804396Z,com.ontrackmoving/moving-quotes,Ontrack Moving Quotes,1.1.0,,streamable-http,"Request an Ontrack moving quote with customer permission, spam screening and a saved receipt."
+2026-11-09T04:55:17.892395Z,io.github.johan1727/personcraft,PersonCraft,1.0.0,https://github.com/johan1727/personcraft-mcp,streamable-http,Your own Claude designs and codes Godot 4 games; each build is tested with real screenshots.
+2026-11-09T05:13:26.728776Z,io.github.ifsodev/ifso,IFSO,1.0.0,https://github.com/ifsodev/ifso,streamable-http,"Conditional USDG payments on Robinhood Chain: look up, explain and prepare if-so payments."
