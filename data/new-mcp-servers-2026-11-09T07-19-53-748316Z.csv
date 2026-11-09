@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-11-09T06:19:55.182943Z,com.standbybrief/standbybrief,StandbyBrief,1.0.0,,streamable-http,"Nursing homes CMS cited under generator, sprinkler or fire-alarm rules, near a ZIP."
+2026-11-09T06:20:34.650054Z,io.github.uskotoivo81-netizen/speedyindex,SpeedyIndex,0.1.0,https://github.com/uskotoivo81-netizen/speedyindex-mcp,,"Google, Bing and Yandex index checks, link indexing, backlink checks and Google Rank Tracker."
+2026-11-09T06:20:57.460199Z,app.heymoa/heymoa,HeyMoa,1.0.0,,streamable-http,"Read your team's meeting decisions, tasks and transcripts as a project graph, with sources."
+2026-11-09T06:22:32.061243Z,dev.liro/liro,Liro,1.4.0,,streamable-http,React + Tailwind UI components and recipes your AI coding tool can search and install.
+2026-11-09T06:23:00.496406Z,com.pageverified/tools,PageVerified,1.0.0,,streamable-http,"Paid tools for AI agents: web capture with SHA-256 receipts, tech-stack lookup and verification."
+2026-11-09T06:24:21.660233Z,io.github.agentsgot-stack/agentsgot,agentsgot,1.0.4,https://github.com/agentsgot-stack/agentsgot-kit,,"Claim, deliver, test and publish agentsgot tasks; sign deliveries and claim AGT rewards."
+2026-11-09T06:29:11.529865Z,io.github.ebizity/bhutan-trips-by-druk-asia,Bhutan Trips by Druk Asia,1.0.0,https://github.com/ebizity/bhutan-trips-by-druk-asia,streamable-http,"Bhutan trip search & booking via the Druk Asia API: festivals, itineraries, flights, bookings."
+2026-11-09T06:29:48.766747Z,io.github.KshKnsl/rive-vscode-mcp,Rive VS Code MCP,1.0.14,https://github.com/KshKnsl/rive-vscode-mcp,,"Inspect Rive files for artboards, animations, state machines, and inputs."
+2026-11-09T06:32:43.983626Z,com.gobrowz/browz,Browz,0.1.0,,streamable-http,"Drive Browz browser profiles from AI agents: create, start, browse, fill forms, screenshot."
+2026-11-09T06:43:23.526541Z,io.github.makloai/mcp-server-dashform,Dashform,1.1.0,https://github.com/makloai/mcp-server-dashform,streamable-http,"Forms for AI agents. Build, publish, and read forms and their replies from any MCP client."
+2026-11-09T06:49:48.232231Z,io.github.Rafi-siddiq/career-pages-jobs,Company Career Pages Jobs,1.0.0,https://github.com/Rafi-siddiq/career-pages-jobs-scraper,streamable-http,"Open jobs with salaries from Workday, Greenhouse, Lever, Ashby and 3 more careers-page systems."
+2026-11-09T06:49:48.438684Z,io.github.Rafi-siddiq/domain-intelligence,Domain Intelligence,1.0.0,https://github.com/Rafi-siddiq/domain-intelligence,streamable-http,"Bulk domain age, RDAP/WHOIS registrar and expiry, DNS, SPF/DMARC, Wayback history and SSL."
+2026-11-09T06:49:48.643491Z,io.github.Rafi-siddiq/google-trends,Google Trends,1.0.0,https://github.com/Rafi-siddiq/google-trends-scraper,streamable-http,"Google Trends interest over time and by region, related queries and topics, and Trending Now."
+2026-11-09T06:50:23.511579Z,io.github.Anselmoo/repo-release-tools,,1.19.0,https://github.com/Anselmoo/repo-release-tools,,Config-driven branch and release helpers for Git repositories
+2026-11-09T06:51:29.991887Z,com.newlyraised/newlyraised,newlyraised,1.0.0,,streamable-http,"New SEC Form D raises and $1M+ SBA loans in six US metros, linked to government records."
+2026-11-09T07:09:16.026233Z,dev.signalshelf/signalshelf,SignalShelf,1.0.0,,streamable-http,"Public social, ad library and Google Maps data: TikTok, Instagram, YouTube, X, Facebook and more."
+2026-11-09T07:09:21.429663Z,us.agentland/agentland,AgentLand,1.0.0,,streamable-http,"Forecast real-world questions, keep a vault, get scored in public."
+2026-11-09T07:10:19.440921Z,io.github.PEAR-power/pear-sim,PEARSim,0.1.0,https://github.com/PEAR-power/pear-sim,,"Deterministic power-electronics simulator: write, check and simulate converter models; sweeps."
+2026-11-09T07:11:53.783937Z,io.github.skyblue3925-svg/geo-figure-mcp,Geo Figure (지리 시험 지도·그래프),0.2.0,https://github.com/skyblue3925-svg/geo-figure-mcp,,"지리 시험용 지도·그래프를 실제 통계로, 도형 하나하나 고칠 수 있는 PPTX·HWPX로 만든다."
+2026-11-09T07:15:49.564367Z,io.github.yoorrard/codeitso,codeitso (코드잇소),1.2.0,https://github.com/yoorrard/codeitso,streamable-http,"Read-only catalog of app-building materials: fonts, APIs, MCP servers, libraries, templates, data."
+2026-11-09T07:16:56.000494Z,com.mondschein/hotel,"Hotel Mondschein, Stuben am Arlberg",1.1.0,,streamable-http,"Ski hotel, chalet and motel in Stuben am Arlberg: rooms, live prices, dining, events, ski area."
+2026-11-09T07:17:16.369537Z,io.github.lexusdev7/japan-foundry,Japan Places — Japan Data Foundry,0.1.0,,streamable-http,"Japan POI tools for AI agents: 2.94M facilities, station catchments, chains, grants and signals"

@@ -9,32 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 06:19 UTC
+## Latest list — 2026-11-09 07:19 UTC
 
-New MCP servers published between 2026-11-09 05:18 UTC and 2026-11-09 06:19 UTC.
+New MCP servers published between 2026-11-09 06:19 UTC and 2026-11-09 07:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-09T06-19-23-876326Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-09T07-19-53-748316Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-09 05:21:24 | com.frcementor.www/frcem-mentor | FRCEM Mentor | 1.0.0 | Free FRCEM Final SBA practice questions for UK emergency medicine doctors, with… |
-| 2026-11-09 05:26:26 | io.setto.docs/mcp | SETTO | 1.6.0 | SETTO tournaments: read and schedule; set up padel, tennis and pickleball event… |
-| 2026-11-09 05:29:57 | com.erateradar/erateradar | erateradar | 1.0.0 | Open E-rate network bids (Form 470s) from USAC public data, near a ZIP or in a… |
-| 2026-11-09 05:34:03 | [io.github.beskvladimir-create/whoelse](https://github.com/beskvladimir-create/whoelse) | whoelse | 0.1.0 | Don't build it alone: what exists, who won, what nobody has, a merge plan, and… |
-| 2026-11-09 05:34:08 | [io.github.Hadeva-Dev/dawnmere-connector](https://github.com/Hadeva-Dev/dawnmere) | Dawnmere | 0.1.0 | One local memory shared by Claude Code, Codex and Cursor. Connects to Dawnmere… |
-| 2026-11-09 05:36:10 | io.github.danielsemecky/glimpze | Glimpze | 1.1.0 | Review Glimpze website chats, video-call history and recordings, and manage sup… |
-| 2026-11-09 05:45:04 | app.datingprofile/datingprofile | DatingProfile: AI dating photos | 1.0.0 | Realistic AI dating photos of yourself from one selfie, from a chat: free photo… |
-| 2026-11-09 05:47:03 | app.haterpicks/api | HaterPicks API | 1.0.0 | Live Australian bookmaker odds, player props, best prices, +EV, arbitrage and l… |
-| 2026-11-09 05:48:13 | [io.github.ronin93/grindfree-agent-security](https://github.com/ronin93/grindfree-agent-security) | GrindFree Agent Security | 0.1.0 | Pay-per-call agent security: prompt-injection screening, URL safety, tool-call… |
-| 2026-11-09 05:48:44 | com.foundingbird/mcp | Foundingbird | 1.0.0 | Start and run a Malaysian Sdn Bhd: quotes, applications, deadlines, documents a… |
-| 2026-11-09 05:51:49 | [io.github.kwtsms/kwtsms-mcp](https://github.com/kwtsms/kwtsms-mcp) |  | 0.1.0 | Send SMS through kwtSMS (Kuwait): balance, Sender IDs, coverage. Preview and te… |
-| 2026-11-09 05:54:44 | cam.rooster/rooster | Rooster | 1.3.0 | Edit videos in Rooster on your Mac: transcripts, cuts, zooms, captions, titles… |
-| 2026-11-09 05:58:44 | com.davelalande/camps | American Adventurer Camps | 1.0.0 | US public-land camp records: free camps near a town, camp details, four-night t… |
-| 2026-11-09 06:07:43 | [io.github.bibinprathap/veritasgraph](https://github.com/bibinprathap/VeritasGraph) |  | 0.2.0 | Zero-trust, air-gapped Enterprise GraphRAG MCP server with offline, citation-gr… |
-| 2026-11-09 06:15:28 | [io.github.sourcegull/sourcegull](https://github.com/sourcegull/sourcegull) | Sourcegull | 0.8.1 | Code search and navigation across your GitLab, GitHub and Gitea repositories, s… |
-| 2026-11-09 06:17:25 | [ai.slashml/ml-memory](https://github.com/slashml-ai/ml-memory) | SlashML (/ ml) Persistent Agent Memory… | 1.0.12 | Sub-millisecond persistent memory, behavioral code search, and bug localization… |
-| 2026-11-09 06:18:10 | [ai.slashml/slashml-robotics](https://github.com/slashml-ai/slashml-robotics) | SlashML (/ ml) Embodied Robotics Trajec… | 1.0.3 | Sub-millisecond 7-DoF trajectory episode memory and kinematic safety gates for… |
-| 2026-11-09 06:18:52 | com.nagariguntha/property | Nagari Guntha: Ahilyanagar property | 1.0.0 | Homes and plots for sale in Ahilyanagar (Ahmednagar), plus stamp duty, EMI and… |
+| 2026-11-09 06:19:55 | com.standbybrief/standbybrief | StandbyBrief | 1.0.0 | Nursing homes CMS cited under generator, sprinkler or fire-alarm rules, near a… |
+| 2026-11-09 06:20:34 | [io.github.uskotoivo81-netizen/speedyindex](https://github.com/uskotoivo81-netizen/speedyindex-mcp) | SpeedyIndex | 0.1.0 | Google, Bing and Yandex index checks, link indexing, backlink checks and Google… |
+| 2026-11-09 06:20:57 | app.heymoa/heymoa | HeyMoa | 1.0.0 | Read your team's meeting decisions, tasks and transcripts as a project graph, w… |
+| 2026-11-09 06:22:32 | dev.liro/liro | Liro | 1.4.0 | React + Tailwind UI components and recipes your AI coding tool can search and i… |
+| 2026-11-09 06:23:00 | com.pageverified/tools | PageVerified | 1.0.0 | Paid tools for AI agents: web capture with SHA-256 receipts, tech-stack lookup… |
+| 2026-11-09 06:24:21 | [io.github.agentsgot-stack/agentsgot](https://github.com/agentsgot-stack/agentsgot-kit) | agentsgot | 1.0.4 | Claim, deliver, test and publish agentsgot tasks; sign deliveries and claim AGT… |
+| 2026-11-09 06:29:11 | [io.github.ebizity/bhutan-trips-by-druk-asia](https://github.com/ebizity/bhutan-trips-by-druk-asia) | Bhutan Trips by Druk Asia | 1.0.0 | Bhutan trip search & booking via the Druk Asia API: festivals, itineraries, fli… |
+| 2026-11-09 06:29:48 | [io.github.KshKnsl/rive-vscode-mcp](https://github.com/KshKnsl/rive-vscode-mcp) | Rive VS Code MCP | 1.0.14 | Inspect Rive files for artboards, animations, state machines, and inputs. |
+| 2026-11-09 06:32:43 | com.gobrowz/browz | Browz | 0.1.0 | Drive Browz browser profiles from AI agents: create, start, browse, fill forms,… |
+| 2026-11-09 06:43:23 | [io.github.makloai/mcp-server-dashform](https://github.com/makloai/mcp-server-dashform) | Dashform | 1.1.0 | Forms for AI agents. Build, publish, and read forms and their replies from any… |
+| 2026-11-09 06:49:48 | [io.github.Rafi-siddiq/career-pages-jobs](https://github.com/Rafi-siddiq/career-pages-jobs-scraper) | Company Career Pages Jobs | 1.0.0 | Open jobs with salaries from Workday, Greenhouse, Lever, Ashby and 3 more caree… |
+| 2026-11-09 06:49:48 | [io.github.Rafi-siddiq/domain-intelligence](https://github.com/Rafi-siddiq/domain-intelligence) | Domain Intelligence | 1.0.0 | Bulk domain age, RDAP/WHOIS registrar and expiry, DNS, SPF/DMARC, Wayback histo… |
+| 2026-11-09 06:49:48 | [io.github.Rafi-siddiq/google-trends](https://github.com/Rafi-siddiq/google-trends-scraper) | Google Trends | 1.0.0 | Google Trends interest over time and by region, related queries and topics, and… |
+| 2026-11-09 06:50:23 | [io.github.Anselmoo/repo-release-tools](https://github.com/Anselmoo/repo-release-tools) |  | 1.19.0 | Config-driven branch and release helpers for Git repositories |
+| 2026-11-09 06:51:29 | com.newlyraised/newlyraised | newlyraised | 1.0.0 | New SEC Form D raises and $1M+ SBA loans in six US metros, linked to government… |
+| 2026-11-09 07:09:16 | dev.signalshelf/signalshelf | SignalShelf | 1.0.0 | Public social, ad library and Google Maps data: TikTok, Instagram, YouTube, X,… |
+| 2026-11-09 07:09:21 | us.agentland/agentland | AgentLand | 1.0.0 | Forecast real-world questions, keep a vault, get scored in public. |
+| 2026-11-09 07:10:19 | [io.github.PEAR-power/pear-sim](https://github.com/PEAR-power/pear-sim) | PEARSim | 0.1.0 | Deterministic power-electronics simulator: write, check and simulate converter… |
+| 2026-11-09 07:11:53 | [io.github.skyblue3925-svg/geo-figure-mcp](https://github.com/skyblue3925-svg/geo-figure-mcp) | Geo Figure (지리 시험 지도·그래프) | 0.2.0 | 지리 시험용 지도·그래프를 실제 통계로, 도형 하나하나 고칠 수 있는 PPTX·HWPX로 만든다. |
+| 2026-11-09 07:15:49 | [io.github.yoorrard/codeitso](https://github.com/yoorrard/codeitso) | codeitso (코드잇소) | 1.2.0 | Read-only catalog of app-building materials: fonts, APIs, MCP servers, librarie… |
+| 2026-11-09 07:16:56 | com.mondschein/hotel | Hotel Mondschein, Stuben am Arlberg | 1.1.0 | Ski hotel, chalet and motel in Stuben am Arlberg: rooms, live prices, dining, e… |
+| 2026-11-09 07:17:16 | io.github.lexusdev7/japan-foundry | Japan Places — Japan Data Foundry | 0.1.0 | Japan POI tools for AI agents: 2.94M facilities, station catchments, chains, gr… |
 
 ## Data source
 
