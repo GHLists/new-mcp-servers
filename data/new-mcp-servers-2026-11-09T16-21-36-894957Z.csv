@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-11-09T15:19:25.293386Z,com.mambabuilt/mcp-facebook-posts-scraper,,1.0.0,https://github.com/mambalabsdev/mcp-facebook-posts-scraper,,"Get posts from public Facebook Pages with date, text, reactions, comments, and shares."
+2026-11-09T15:20:26.113613Z,io.github.ciscoriordan/parsec-edgar,parsec-edgar: SEC EDGAR filings,0.1.0,https://github.com/ciscoriordan/parsec-edgar,,"Search SEC EDGAR, list company filings, and read 10-K, 10-Q and 8-K filings one Item at a time"
+2026-11-09T15:22:17.557268Z,com.urlaunch/urlaunch,Urlaunch,0.2.0,,streamable-http,"Measured SEO and ads data for your site: semantic core, ad plan and launch results."
+2026-11-09T15:24:33.587711Z,com.mambabuilt/mcp-ai-list-extractor-any-website,,1.0.0,https://github.com/mambalabsdev/mcp-ai-list-extractor-any-website,,Extract item lists from public web pages on your own LLM API key
+2026-11-09T15:24:54.891799Z,ai.kottos/venues,Kottos AI,1.0.1,,streamable-http,"LLM list prices by venue and tier, plus time to first token from a once-a-minute probe"
+2026-11-09T15:25:59.927294Z,com.softwarebelongs/software-belongs,Software Belongs,1.0.4.114,,streamable-http,"Free, privacy-respecting software and public discovery tools for AI agents."
+2026-11-09T15:28:45.683248Z,com.mambabuilt/mcp-tennis-match-data,,1.0.0,https://github.com/mambalabsdev/mcp-tennis-match-data,,"ATP and WTA match results, schedules, and rankings by date"
+2026-11-09T15:31:00.027419Z,com.certgio/coi-check,Certgio,1.0.0,,streamable-http,Check a certificate of insurance (COI) against contract insurance requirements. US only.
+2026-11-09T15:35:53.344022Z,com.forevenza.services/nestproof,Nestproof: Graded pattern files your LA factory signs off before the cut,1.0.0,,streamable-http,"Graded pattern-file transfer to LA factories, with factory sign-off checks; terms by email"
+2026-11-09T15:36:00.050133Z,com.nativegamingservices/slot-parts,NGS Slot Machine Parts Catalog,2.2.0,,streamable-http,Slot machine parts API to search hundreds of parts from multiple suppliers by part number or model.
+2026-11-09T15:38:24.591348Z,io.github.crit-labs/crit,crit,0.17.2,https://github.com/crit-labs/crit,,"Build, evaluate and serve a bespoke LLM inference engine for your own GPU with crit's commands."
+2026-11-09T15:40:59.473057Z,com.daututaisanmahoa/research-lab,Research Lab · Đầu Tư Tài Sản Mã Hoá,1.0.0,,streamable-http,"Daily crypto market data (Vietnamese): market cap, stablecoins, open interest, funding, Fear&Greed"
+2026-11-09T15:41:17.533518Z,ai.evre/evre,EVRE,1.0.0,,streamable-http,"Save a work conversation you share and find the moments worth practicing, with exact quotes."
+2026-11-09T15:41:49.763685Z,com.queuesim/public,QueueSim,1.2.0,https://github.com/chiaha-ai/queuesim-site,streamable-http,"M/M/c queueing sims, Erlang-C validation, inverse staffing, and four built-in scenarios."
+2026-11-09T15:44:05.817911Z,co.webinarstack/webinarstack,WebinarStack,1.0.0,,streamable-http,"Manage automated webinars, schedules, registrations and behaviour-triggered email automations."
+2026-11-09T15:45:06.217304Z,io.github.Ewertonslv/evolution-whatsapp-mcp,Evolution WhatsApp,0.3.1,https://github.com/Ewertonslv/evolution-whatsapp-mcp,,"Send and read WhatsApp messages, send media and manage instances via the Evolution API."
+2026-11-09T15:47:09.210979Z,com.tripomatic/trip-planner,Tripomatic Trip Planner,0.1.0,,streamable-http,"Plan trips with Tripomatic: search places, build day-by-day itineraries and edit your trips."
+2026-11-09T15:50:03.907913Z,io.github.Huldoser/test-inventory,Test Inventory,0.9.0,https://github.com/Huldoser/test-inventory-mcp,,"Discover tests, skip reasons and affected tests, and compare inventories without running tests."
+2026-11-09T15:50:27.885429Z,com.lawstronaut/lawstronaut-mcp,Lawstronaut,2.0.0,https://github.com/Lawstronaut-FZCO/lawstronaut-mcp,streamable-http,Connect AI to millions of laws and court cases with the Lawstronaut MCP.
+2026-11-09T15:52:27.669078Z,io.usefulapi/fatture-in-cloud,Fatture in Cloud MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read invoices, clients, suppliers and cashbook; create invoices and clients in Fatture in Cloud."
+2026-11-09T15:53:06.908255Z,io.github.dror-jp/official-tokyo-mcp,official.tokyo.jp,1.0.1,https://github.com/dror-jp/official.tokyo.jp,,Human-verified guide to official procedures in Tokyo for foreign residents. Not a government site.
+2026-11-09T15:53:15.281595Z,io.github.dror-jp/yasashii-org-mcp,yasashii.org,1.1.1,https://github.com/dror-jp/yasashii.org,,Human-verified Easy Japanese versions of Japanese administrative and disaster-preparedness info.
+2026-11-09T15:58:54.196282Z,io.github.w1ne/labwired,LabWired,0.1.0,https://github.com/w1ne/labwired-core,streamable-http,"Design circuits, simulate and verify embedded firmware, and lay out PCBs with AI agents."
+2026-11-09T15:59:34.907112Z,com.adseezy/adseezy,Adseezy,1.0.0,https://github.com/adseezy/adseezy-mcp,streamable-http,"Video ads, UGC creator ads and ad hooks for your own products, with OAuth sign-in."
+2026-11-09T16:05:31.862072Z,one.one-by/planner,one-by.one,1.1.1,,streamable-http,Your AI plans your day as action cards; your iPhone shows one card at a time.
+2026-11-09T16:05:46.196144Z,io.schematik/schematik,Schematik,1.0.0,https://github.com/schematik-engineering/schematik-mcp,streamable-http,Search electronics parts and step-by-step hardware build guides from Schematik.
+2026-11-09T16:06:13.102866Z,io.github.iyuyoung/singphoto,SingPhoto,1.0.0,,streamable-http,"Explore singing portrait styles and prices, and prepare a SingPhoto browser draft."
+2026-11-09T16:17:07.059236Z,io.rejestr/mcp,Rejestr.io,0.11.0,,streamable-http,"Polish company data from KRS and CRBR: boards, beneficial owners, financial statements, connections"
+2026-11-09T16:19:51.936548Z,io.github.DwytMCL/anysite-mcp,anysite,0.5.0,https://github.com/DwytMCL/anysite-mcp,,"Any website as MCP tools: a real Chrome signed in as you, and shortcuts the agent saves as tools."
+2026-11-09T16:20:36.906264Z,io.github.Nosmoht/talos-mcp-server,Talos Linux MCP Server,2.5.2,https://github.com/Nosmoht/talos-mcp-server,,"MCP server for Talos Linux — resources, services, logs, health, config, lifecycle via gRPC."
+2026-11-09T16:20:37.381302Z,business.munch/munch,Munch,0.1.0,https://github.com/michaelhmiv/Munch,streamable-http,"Track meals, nutrition, recipes, and grocery lists privately from any MCP client."
+2026-11-09T16:21:21.183208Z,com.tarifftrust/tarifftrust,TariffTrust,2.1.0,,streamable-http,"US import duties and fees for an HTS code, an origin and a value, each with its source."
