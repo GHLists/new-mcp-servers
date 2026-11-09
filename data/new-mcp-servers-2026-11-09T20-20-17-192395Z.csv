@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-11-09T19:21:52.683307Z,com.sixfigurework/jobs,Six Figure Work,1.0.0,,streamable-http,"Read-only jobs server: $100K+ base-pay roles, each with the employer's own pay evidence and source."
+2026-11-09T19:22:01.636732Z,dev.cotlet/massagebook,MassageBook by Cotlet,1.0.0,,streamable-http; streamable-http,"Appointments, clients and gift certificates in MassageBook for massage therapists."
+2026-11-09T19:22:23.592764Z,dev.cotlet/moxie,Moxie by Cotlet,1.0.0,,streamable-http; streamable-http,"Appointments, clients, memberships and invoices in Moxie Suite for medspas."
+2026-11-09T19:22:45.870354Z,dev.cotlet/patientnow,PatientNow by Cotlet,1.0.0,,streamable-http; streamable-http,Appointments and patient follow-ups in PatientNow for med spas and aesthetic practices.
+2026-11-09T19:23:07.89172Z,dev.cotlet/pestpac,PestPac by Cotlet,1.0.0,,streamable-http; streamable-http,"Customers, service orders, scheduling and invoices in WorkWave PestPac for pest control."
+2026-11-09T19:23:30.391539Z,dev.cotlet/planfy,Planfy by Cotlet,1.0.0,,streamable-http; streamable-http,"Appointments, customers and recalls in Planfy booking software."
+2026-11-09T19:23:52.348406Z,dev.cotlet/portrait-care,Portrait Care by Cotlet,1.0.0,,streamable-http; streamable-http,"Appointments, patients and follow-ups in Portrait Care, the all-in-one platform for med spas."
+2026-11-09T19:24:14.325567Z,dev.cotlet/timely,Timely by Cotlet,1.0.0,,streamable-http; streamable-http,"Appointments, clients and services in Timely salon and spa booking software."
+2026-11-09T19:24:28.678944Z,tw.meang/meang,覓安居,0.2.0,,streamable-http,Search Taiwan long-term care facilities; signed-in users get profile and notes.
+2026-11-09T19:24:37.008565Z,dev.cotlet/workever,Workever by Cotlet,1.0.0,,streamable-http; streamable-http,"Jobs, scheduling, quotes and invoices in Workever job management for UK trades."
+2026-11-09T19:30:16.710377Z,io.github.edan-ais/agentkey,,1.0.0,,streamable-http,"Password vault for AI agents with scoped, user-approved access"
+2026-11-09T19:31:12.337745Z,io.vaticmarkets/vatic,Vatic prediction markets,1.0.0,,streamable-http,"Crowd forecasts on sports, politics, finance and crypto: live odds, outcomes, Ask the crowd."
+2026-11-09T19:31:50.586263Z,com.linktotem/linktotem,Linktotem,1.0.0,,streamable-http,"Build, check and edit a Linktotem link-in-bio page, and read its stats, from a conversation."
+2026-11-09T19:43:09.508437Z,io.github.forever-healthy/evidence-mcp,Forever Healthy Evidence MCP,0.2.23,https://github.com/forever-healthy/evidence-mcp,,"Medical literature research for agents: source library, claim verification, PubMed, trials, fetch"
+2026-11-09T19:43:26.960981Z,io.github.ondeinference/onde-cli,Onde Inference CLI: Fine-tune & Deploy Local LLMs,0.5.1,https://github.com/ondeinference/onde-cli,,"MCP server to fine-tune LoRA, export GGUF, and deploy local LLMs on Onde Inference."
+2026-11-09T19:44:41.294779Z,com.doseedo/daw-sessions,"Doseedo DAW Sessions: read, edit and convert Logic, Ableton, FL Studio and Pro Tools projects",0.22.0,,streamable-http,"Read and edit DAW projects as an agent, save native Logic projects, convert projects between DAWs"
+2026-11-09T19:46:43.692652Z,io.github.WYRE-AI/alga-psa-mcp,Alga PSA,1.0.0,https://github.com/WYRE-AI/alga-psa-mcp,,"Read-only Alga PSA MCP server: 42 curated GET tools for tickets, clients, time and billing."
+2026-11-09T19:51:28.323202Z,io.github.omerfsen/nvidia-nvsentinel-mcp,NVSentinel Lab,0.5.1,https://github.com/omerfsen/nvidia-nvsentinel-mcp,,Test NVIDIA NVSentinel on a kind lab: read its state and inject faults into a simulated GPU.
+2026-11-09T19:51:59.476669Z,ai.smeme/reasoning,SMEme,3.11.0,https://github.com/AristaLabs/sMeMe,streamable-http,SMEme is the formal reasoning layer for AI: a symbolic solver over decision trees.
+2026-11-09T19:55:19.428391Z,io.github.BrunenJere/spain-boe-official-gazette-json,Spain Official Gazette (BOE) to JSON,0.1.0,https://github.com/BrunenJere/lif-tools,streamable-http,"Spain's Official State Gazette (BOE) items as tagged JSON: grants, tax, public jobs, full text."
+2026-11-09T19:57:31.988075Z,ai.avlira/back-office,Avlira Back Office,1.0.0,,streamable-http,"Real-estate brokerage back office: agent roster, commission plans, deals and monthly dues."
+2026-11-09T19:57:32.693458Z,life.lombardo.cycle/cycle,Lombardo Cycle,1.0.0,,streamable-http,"Daily Bitcoin cycle readouts: power-law fair value, zone and phase. Read-only, no account."
+2026-11-09T20:00:37.85196Z,com.wiplanai/planner,WIplanAI,1.0.0,,streamable-http,"Wedding planner for couples: guests, RSVPs, budget, vendors, seating, invitations and timeline."
+2026-11-09T20:00:38.755713Z,com.wibookai/business,WIbookAI,1.0.0,,streamable-http,"Business manager for wedding venues and vendors: leads, events, tasks, payments and contracts."
+2026-11-09T20:04:39.46829Z,com.popcorneditor/popcorn,Popcorn Editor,1.1.0,,streamable-http,"Create, edit and preview print-ready designs (CMYK, bleed, dielines) in Popcorn Editor."
+2026-11-09T20:05:59.797555Z,co.revscope/revscope,RevScope,0.1.0,https://github.com/eloff/revscope,streamable-http,Query web traffic and revenue attribution analytics with Google and Stripe integrations
+2026-11-09T20:08:23.337435Z,com.tidyfetch/mcp,TidyFetch,0.1.0,,streamable-http,"Web pages to markdown, site crawls, company contacts, app reviews, ATS jobs and Shopify products."
+2026-11-09T20:14:25.179736Z,com.tvmusicstore/music-search,TV Music Store,1.0.0,,streamable-http,"Search royalty-free cinematic and production music for videos, films, trailers, ads and games."
