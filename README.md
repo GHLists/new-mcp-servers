@@ -9,93 +9,70 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 17:20 UTC
+## Latest list — 2026-11-09 19:21 UTC
 
-New MCP servers published between 2026-11-09 16:21 UTC and 2026-11-09 17:20 UTC.
+New MCP servers published between 2026-11-09 17:20 UTC and 2026-11-09 19:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-09T17-20-51-263353Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-09T19-21-52-244878Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-09 16:24:11 | com.emailmovers/mydatahub | MyDataHub | 2.0.0 | UK B2B contact counts, quotes and lists, by Emailmovers |
-| 2026-11-09 16:24:25 | com.forevenza.services/linklamp | Linklamp: Switch swap or repatch visit… | 1.0.0 | Dearborn MI switch swap and repatch visits for MSPs; remote signoff; proposal b… |
-| 2026-11-09 16:25:56 | [io.github.Fetch-Hive/mcp-gateway](https://github.com/Fetch-Hive/openapi-mcp) | mcp-gateway (OpenAPI to MCP) | 0.11.4 | OpenAPI or local API to MCP server, with a public HTTPS tunnel. Rust CLI, any M… |
-| 2026-11-09 16:26:02 | [io.github.munhq/distil](https://github.com/munhq/distil) | distil | 0.3.5 | Context optimization for LLM agents: tool registry, result masking, budgeting,… |
-| 2026-11-09 16:33:00 | design.regards/mcp | regards.design | 1.0.0 | Search real website sections from hand-picked sites by look, for design referen… |
-| 2026-11-09 16:36:24 | [io.github.psyseal/psyseal-scan](https://github.com/psyseal/psyseal-scan) | Psyseal scan | 0.3.3 | Offline check of your AI agent: heartbeat cost, plaintext keys, planted or bloa… |
-| 2026-11-09 16:37:00 | energy.isol/nepi | (iS)NEPI - National Energy Performance… | 1.3.4 | Screen and compare energy markets with cited (iS)NEPI bands. Requires an active… |
-| 2026-11-09 16:37:30 | com.sweeprice/sweeprice | Sweeprice | 1.0.0 | Competitor prices, Buy Box and recommended prices across Amazon, Cdiscount, Man… |
-| 2026-11-09 16:38:08 | com.eliteaiempire.tradehouse/tradehouse-mcp | TradeHouse prediction-market data | 1.0.0 | Read-only prediction-market data across Kalshi, Polymarket, Limitless: venues,… |
-| 2026-11-09 16:38:35 | com.eliteaiempire/access | Empire Edge | 1.0.0 | Empire Edge |
-| 2026-11-09 16:38:35 | com.eliteaiempire/app | Empire Orchestrator | 1.0.0 | Your AI-powered business command center: 16 standalone apps and 15 connectors,… |
-| 2026-11-09 16:38:36 | com.eliteaiempire/clipwright | Clipwright | 1.0.0 | Automated long-form-to-shorts clipping with a rights gate that refuses unlicens… |
-| 2026-11-09 16:38:37 | com.eliteaiempire/cloudcostai | CloudCostAI | 1.0.0 | CloudCostAI |
-| 2026-11-09 16:38:37 | com.eliteaiempire/cloudhostai | CloudHostAI | 1.0.0 | Managed deployments on your own Hetzner servers. |
-| 2026-11-09 16:38:38 | com.eliteaiempire/cloudshiftai | CloudShiftAI | 1.0.0 | Plan a move from AWS, GCP or Azure to Hetzner, DigitalOcean or Vultr with a cos… |
-| 2026-11-09 16:38:39 | com.eliteaiempire/cosmeticpreview-app | CosmeticPreview / CosmeticPro | 1.0.0 | Explore a cosmetic simulation on your own photo. Not medical advice. Provider d… |
-| 2026-11-09 16:38:39 | com.eliteaiempire/empiregit | EmpireGit | 1.0.0 | EmpireGit |
-| 2026-11-09 16:38:40 | com.eliteaiempire/empirepages | Empire Pages | 1.0.0 | Empire Pages |
-| 2026-11-09 16:38:40 | com.eliteaiempire/glowupai-studio | GlowUpAI | 1.0.0 | GlowUpAI runs a real photo enhancement pipeline — white balance, contrast, satu… |
-| 2026-11-09 16:38:41 | com.eliteaiempire/holdthewheel | HoldTheWheel | 1.0.0 | Plan and approve automation in a shared workspace with spend limits and an audi… |
-| 2026-11-09 16:38:42 | com.eliteaiempire/launchpadai | LaunchpadAI | 1.0.0 | LaunchpadAI |
-| 2026-11-09 16:38:42 | com.eliteaiempire/lifestrategist | Life Strategist | 1.0.0 | Clarify a decision or career crossroads with a private strategy conversation. S… |
-| 2026-11-09 16:38:43 | com.eliteaiempire/links | linkhub | 1.0.0 | Elite AI Empire — All Links \| Links |
-| 2026-11-09 16:38:44 | com.eliteaiempire/loanpilotai | LoanPilotAI | 1.0.0 | LoanPilotAI helps you understand mortgage programs, learn about eligibility req… |
-| 2026-11-09 16:38:44 | com.eliteaiempire/lumen | Lumen | 1.0.0 | Lumen is an AI answer engine with a real agentic mode — ask anything and get a… |
-| 2026-11-09 16:38:45 | com.eliteaiempire/newsletterproai | NewsletterProAI | 1.0.0 | NewsletterProAI drafts a real newsletter issue from your own notes and sends a… |
-| 2026-11-09 16:38:46 | com.eliteaiempire/ourtools | Our Tools Marketplace | 1.0.0 | Developer tools, agent skills and reusable SaaS components. BugClass Free $0/mo… |
-| 2026-11-09 16:38:47 | com.eliteaiempire/photosafe | PhotoSafe | 1.0.0 | PhotoSafe backs up your photos encrypted on your own device, so nobody — includ… |
-| 2026-11-09 16:38:47 | com.eliteaiempire/queryai | QueryAI | 1.0.0 | Ask questions of your data in plain English. Free $0/mo · Starter $19/mo · Pro… |
-| 2026-11-09 16:38:48 | com.eliteaiempire/scrubline | Scrubline | 1.0.0 | Scrubline runs a free checklist across every broker we track. Free broker searc… |
-| 2026-11-09 16:38:49 | com.eliteaiempire/soccer | Elite Soccer Academy | 1.0.0 | Youth soccer group sessions for ages 4–14 and private training, with online boo… |
-| 2026-11-09 16:38:49 | com.eliteaiempire/th-api | tradehouse-th-api | 1.0.0 | TradeHouse Trading CRM Signals API. Customer-facing, compliance-hardened signal… |
-| 2026-11-09 16:38:50 | com.eliteaiempire/th-backtest | tradehouse-th-backtest | 1.0.0 | Plug in YOUR strategy and get a HULK-grade honesty report — deflated-Sharpe, PB… |
-| 2026-11-09 16:38:50 | com.eliteaiempire/th-datasets | tradehouse-th-datasets | 1.0.0 | TradeHouse Datasets + Derived-Analytics API (calibration-as-a-service). Our own… |
-| 2026-11-09 16:39:10 | [io.github.Nero-Engine/listing-location-toolkit](https://github.com/Nero-Engine/listing-location-toolkit-mcp) | Listing Location Toolkit | 0.1.0 | Location facts for property and business listings: drive times, people within 2… |
-| 2026-11-09 16:39:57 | ai.denegra.taskflow/taskflow | TaskFlow | 1.0.2 | Shared to-do memory for AI assistants: flows, tasks, inbox, meeting notes. Clai… |
-| 2026-11-09 16:41:48 | chat.splitscreen/splitscreen | splitscreen.chat | 1.0.0 | Group chat where your agent sits in the room with your friends and their agents. |
-| 2026-11-09 16:42:42 | so.pipp/pipp | Pipp | 1.0.0 | Customer support, minus the fuss. A shared inbox for small teams, run by you or… |
-| 2026-11-09 16:45:41 | tech.gitring/gitring | gitring | 1.0.0 | Source control for coding agents: declare an intent, settle overlaps before cod… |
-| 2026-11-09 16:47:04 | [io.github.2648782102/proofpack](https://github.com/2648782102/proofpack-cli) | Proofpack | 0.3.2 | Local, read-only acceptance reports for AI-assisted Git changes, exposed as one… |
-| 2026-11-09 16:47:50 | io.github.FamousMonsterr/zai-coding-plan-mcp |  | 1.0.1 | Z.ai GLM Coding Plan web search, page reading and GitHub repo docs as local MCP… |
-| 2026-11-09 16:50:00 | [io.github.psyb0t/talkies](https://github.com/psyb0t/docker-talkies) | Talkies | 0.17.1 | Self-hosted speech server whose MCP endpoint exposes ASR transcription and file… |
-| 2026-11-09 16:51:57 | com.lapviz/mcp | LapViz | 1.0.0 | Your lap timing sessions: lap and sector times, time per corner, progress, setu… |
-| 2026-11-09 16:52:43 | net.asomobile/asomobile | ASOMobile | 0.1.0 | App Store & Google Play ASO data: keywords, app indexing, competitors, top char… |
-| 2026-11-09 16:56:59 | app.savedthat/savedthat | SavedThat (public, no sign-in) | 1.1.0 | SavedThat product facts and public transcript excerpts of indexed videos. No si… |
-| 2026-11-09 16:59:52 | [io.github.OmerTurkenits/flownav](https://github.com/OmerTurkenits/flownav) |  | 0.2.2 | Read-only graph of n8n workflows for AI agents: explain, affected, check, scope… |
-| 2026-11-09 17:01:17 | xyz.clearbooks/clearbooks | ClearBooks AI accounting | 1.5.3 | Startup double-entry books: transactions, invoices, bills, payroll, cap table a… |
-| 2026-11-09 17:02:18 | br.com.vinhozinho/vinhozinho | Vinhozinho | 1.0.0 | Brazilian wine guide: 50,000+ labels with ratings and Brazil prices, guides and… |
-| 2026-11-09 17:02:40 | [io.github.devburaq/gmpsignal-mcp-server](https://github.com/devburaq/gmpsignal-mcp-n8n-starter-kit) | GMPSignal 40-Actor Enterprise Intellige… | 1.3.0 | 40 real-time Apify tools for Crypto, Prediction Markets, B2B Enrichment, KYB, C… |
-| 2026-11-09 17:04:01 | com.surveysai/for-google-forms | SurveysAI – Survey Builder for Google F… | 1.0.0 | Create real Google Forms from plain-text survey questions, in your own Google a… |
-| 2026-11-09 17:04:02 | com.surveysai/transkripce | Transkripce – Czech audio and video tra… | 1.0.0 | Czech audio/video transcription: upload media, run transcription, get transcrip… |
-| 2026-11-09 17:04:43 | cz.wbx/sandbox | WBX Sandbox | 0.14.21 | Firecracker microVM sandboxes for AI agents: run code, jobs and batches with pe… |
-| 2026-11-09 17:04:50 | com.nowistay/mcp | Nowistay | 1.0.0 | Vacation rental PMS: bookings, prices, guest messages and cleaning missions for… |
-| 2026-11-09 17:05:07 | [io.github.psyb0t/audiolla](https://github.com/psyb0t/docker-audiolla) | Audiolla | 2.0.2 | Self-hosted MCP server: audio stems, mastering, MIR analysis, DSP, MIDI, speech… |
-| 2026-11-09 17:05:51 | shop.rekoy/catalog | Rekoy Product Catalog | 1.0.0 | Search Rekoy sports products by name, SKU and use case. Product details and pur… |
-| 2026-11-09 17:06:38 | com.lexvira/legal-research | LexVira | 1.0.0 | Legal research: search case law and legislation, then retrieve sources with cit… |
-| 2026-11-09 17:07:09 | nl.nltaxcalculator/salary-be | Belgium Salary Calculator | 2.0.0 | Belgium salary 2026: net pay itemised, gross for a target net, employer cost, v… |
-| 2026-11-09 17:07:10 | nl.nltaxcalculator/salary-bg | Bulgaria Salary Calculator | 2.0.0 | Bulgaria salary 2026: net pay itemised, gross for a target net, employer cost,… |
-| 2026-11-09 17:07:11 | nl.nltaxcalculator/salary-cn | China Salary Calculator | 2.0.0 | China salary 2026: net pay itemised, gross for a target net, employer cost, vs… |
-| 2026-11-09 17:07:12 | nl.nltaxcalculator/salary-de | Germany Salary Calculator | 2.0.0 | Germany salary 2026: net pay itemised, gross for a target net, employer cost, v… |
-| 2026-11-09 17:07:13 | nl.nltaxcalculator/salary-es | Spain Salary Calculator | 2.0.0 | Spain salary 2026: net pay itemised, gross for a target net, employer cost, vs… |
-| 2026-11-09 17:07:14 | nl.nltaxcalculator/salary-fr | France Salary Calculator | 2.0.0 | France salary 2026: net pay itemised, gross for a target net, employer cost, vs… |
-| 2026-11-09 17:07:15 | nl.nltaxcalculator/salary-gb | United Kingdom Salary Calculator | 2.0.0 | United Kingdom 2026: net pay itemised, gross for target net, employer cost, vs… |
-| 2026-11-09 17:07:16 | nl.nltaxcalculator/salary-gr | Greece Salary Calculator | 2.0.0 | Greece salary 2026: net pay itemised, gross for a target net, employer cost, vs… |
-| 2026-11-09 17:07:17 | nl.nltaxcalculator/salary-id | Indonesia Salary Calculator | 2.0.0 | Indonesia salary 2026: net pay itemised, gross for a target net, employer cost,… |
-| 2026-11-09 17:07:18 | nl.nltaxcalculator/salary-in | India Salary Calculator | 2.1.0 | India 2026-27: full income tax return (old vs new regime), net salary, gross fo… |
-| 2026-11-09 17:07:19 | nl.nltaxcalculator/salary-it | Italy Salary Calculator | 2.0.0 | Italy salary 2026: net pay itemised, gross for a target net, employer cost, vs… |
-| 2026-11-09 17:07:20 | nl.nltaxcalculator/salary-ma | Morocco Salary Calculator | 2.0.0 | Morocco salary 2026: net pay itemised, gross for a target net, employer cost, v… |
-| 2026-11-09 17:07:21 | nl.nltaxcalculator/salary-pl | Poland Salary Calculator | 2.0.0 | Poland salary 2026: net pay itemised, gross for a target net, employer cost, vs… |
-| 2026-11-09 17:07:22 | nl.nltaxcalculator/salary-ro | Romania Salary Calculator | 2.0.0 | Romania salary 2026: net pay itemised, gross for a target net, employer cost, v… |
-| 2026-11-09 17:07:23 | nl.nltaxcalculator/salary-tr | Turkey Salary Calculator | 2.0.0 | Turkey salary 2026: net pay itemised, gross for a target net, employer cost, vs… |
-| 2026-11-09 17:07:24 | nl.nltaxcalculator/salary-us | United States Salary Calculator | 2.0.0 | United States 2026: net pay itemised, gross for target net, employer cost, vs N… |
-| 2026-11-09 17:07:28 | [io.github.SemanticDataCharter/sdcreceipt-ts](https://github.com/SemanticDataCharter/sdcreceipt-ts) |  | 4.0.1 | Verify VSL Settlement Receipts and sign triggers in TypeScript, conforming to s… |
-| 2026-11-09 17:09:50 | io.github.veto-protocol/mcp |  | 0.1.1 | Agentic checkout for Veto merchants: discover, search, quote, pay, and verify s… |
-| 2026-11-09 17:15:24 | com.ottoquest/mcp | OttoQuest | 1.0.0 | Search US used-car listings and market values, look up VINs and recalls, and ma… |
-| 2026-11-09 17:15:46 | [io.github.faithdrivencreator/mobile-qa-gate](https://github.com/faithdrivencreator/apify-agent-tools) | Mobile Website Test on iPhone & Android… | 1.0.0 | PASS or FAIL per page per phone with screenshots: sideways scroll, split phone… |
-| 2026-11-09 17:15:46 | [io.github.faithdrivencreator/lighthouse-gate](https://github.com/faithdrivencreator/apify-agent-tools) | Lighthouse & Accessibility Audit for AI… | 1.0.0 | Lighthouse scores, Core Web Vitals and axe accessibility issues, median of 3 ru… |
-| 2026-11-09 17:15:47 | [io.github.faithdrivencreator/pdf-to-markdown-tables](https://github.com/faithdrivencreator/apify-agent-tools) | PDF to Markdown with Tables for AI Agen… | 1.0.0 | PDF, Word, PowerPoint and Excel to clean Markdown plus every table as JSON rows… |
-| 2026-11-09 17:15:47 | [io.github.faithdrivencreator/media-probe](https://github.com/faithdrivencreator/apify-agent-tools) | Video Frame Extractor & Media Probe for… | 1.0.0 | ffprobe metadata, frames, scene cuts, contact sheet and loudness from direct vi… |
+| 2026-11-09 17:21:11 | com.thisfirst/first | First | 1.0.0 | Get a prenup with First: ask prenup questions, set up your account, and add ass… |
+| 2026-11-09 17:21:13 | com.platform201/platform201 | platform201 | 1.0.0 | Manage platform201 projects, environments, blueprints and deployment graphs fro… |
+| 2026-11-09 17:22:02 | ae.mrk/dubai-property | MRK Dubai Property | 1.0.0 | Dubai real estate data: 2,400+ projects, developers, communities, purchase cost… |
+| 2026-11-09 17:23:25 | ai.beefi/mcp | Beefi | 0.2.0 | US public company data from SEC EDGAR: financials, insider trades, 13F holdings… |
+| 2026-11-09 17:23:28 | com.opskitty/mcp | OpsKitty | 0.1.0 | Uptime checks for sites and APIs, status pages, cron heartbeats, Lighthouse and… |
+| 2026-11-09 17:24:08 | [io.github.PedidosUno/changuito-mcp](https://github.com/PedidosUno/Changuito-MCP) | Changuito — Create an Online Store with… | 1.0.0 | Create and customize online stores through AI chat in 10 Latin American countri… |
+| 2026-11-09 17:24:51 | com.raechly/mcp | Raechly | 3.0.0 | Run cold email from your agent: mailboxes, warmup, campaigns, contacts, replies… |
+| 2026-11-09 17:33:07 | com.biznamechecker/biznamechecker | BizNameChecker | 1.1.0 | Check LLC names, federal trademarks, domains and social handles with dated sour… |
+| 2026-11-09 17:33:46 | io.github.Strah0ta/first-ai-employee | First AI Employee | 1.0.0 | AI receptionist business records and approved front-desk workflows. OAuth sign-… |
+| 2026-11-09 17:34:17 | video.sum/youtube-summarizer | Video Summarizer for YouTube | 1.1.0 | Summarize YouTube videos, playlists and channels, ask about a video, and get ke… |
+| 2026-11-09 17:38:02 | com.allsvgicons/icons | All SVG Icons | 1.0.1 | Search and fetch 450,000+ free SVG icons and brand logos from 270+ open-source… |
+| 2026-11-09 17:38:11 | com.pentestcompare/site | PentestCompare: pentest provider data | 1.0.0 | Sourced data on 66 penetration testing providers: scope, delivery, published pr… |
+| 2026-11-09 17:38:15 | com.penetrationtestservices/site | Security headers checker and pentest gu… | 1.0.0 | Grade a website's HTTP security headers, and search web app and API penetration… |
+| 2026-11-09 17:40:22 | com.calculatorlib/calculators | CalculatorLib | 1.2.0 | Year-correct, cited payroll and tax numbers for Asia (Vietnam first) plus ~8,00… |
+| 2026-11-09 17:41:49 | com.onrender.noid-agent-kit/noid-agent-kit | NOID Agent Kit | 0.1.0 | Remote MCP for Parano1d (NOID): invoices, receipts, whale/token alerts, launch… |
+| 2026-11-09 17:43:39 | [io.github.DevCrabs-Inc/yandex-metrika-mcp](https://github.com/DevCrabs-Inc/yandex-metrika-mcp) | Yandex Metrika | 1.0.0 | Read-only Yandex Metrika (Яндекс Метрика) analytics: verifiable reports, compar… |
+| 2026-11-09 17:44:03 | com.jobsiteon/jobsiteon | JobsiteOn | 1.0.0 | Buildings, customers, jobs, visits, quotes and invoices for contractors on Jobs… |
+| 2026-11-09 17:55:35 | uk.co.feastflow/cooking-times | FeastFlow cooking times | 1.0.0 | Turkey and roast cooking times, thawing times and roast dinner timelines. UK an… |
+| 2026-11-09 18:00:52 | [com.calendesk/calendesk](https://github.com/Calendesk/calendesk-mcp-server) | Calendesk | 1.0.0 | Manage Calendesk bookings, customers, employees and services from AI assistants… |
+| 2026-11-09 18:02:04 | [io.github.xpayrcom/xpayr-mcp-server](https://github.com/xpayrcom/xpayr-mcp-server) | XPayr Non-Custodial Crypto Gateway & AI… | 1.0.0 | 21 MCP tools for non-custodial crypto checkout, USDT/USDC links, webhooks, and… |
+| 2026-11-09 18:03:23 | [com.incitefulmed/academic](https://github.com/inciteful-xyz/inciteful-mcp) | Inciteful | 0.1.0 | Citation graph search over OpenAlex: similar papers, citation networks, paths a… |
+| 2026-11-09 18:08:55 | ai.delivr/delivr | Delivr | 1.0.0 | Person-level intent, audiences, website visitors and campaign results from your… |
+| 2026-11-09 18:11:02 | [com.kovejournal/kove](https://github.com/kovejournal/kove-skills) | Kove | 1.0.0 | Your private health journal: log meals, workouts and anything you track, and as… |
+| 2026-11-09 18:15:01 | ca.doctr/platform | Doctr Platform | 1.0.0 | Search Doctr clinics and read their public profiles and services. |
+| 2026-11-09 18:19:38 | com.vorinfo/vorinfo | Vorinfo | 7.6.0 | Build interactive presentations and quizzes with your AI assistant, then presen… |
+| 2026-11-09 18:22:28 | site.socialdataapi/social-data-api | Social Data API | 1.0.0 | One API key for TikTok, X, Instagram and Reddit data. TikTok and X are live now. |
+| 2026-11-09 18:23:02 | [dev.juriset/juriset](https://github.com/juriset/mcp-server) | Juriset | 0.1.0 | Verified, cited US and Canadian employment and payroll rules, each value with i… |
+| 2026-11-09 18:29:20 | com.creativemarket/creative-market | Creative Market | 0.5.0 | Find fonts, templates, and graphics from indie creators on Creative Market. Rea… |
+| 2026-11-09 18:29:56 | com.rowhousesoftware/playtable | Playtable | 1.0.0 | Make up any game and play it in chat: a fair table that deals, hides cards and… |
+| 2026-11-09 18:30:19 | com.airedteamingservices/site | AI application security research and as… | 1.0.0 | Read AI security guides and lab research, and request an LLM or AI agent securi… |
+| 2026-11-09 18:31:49 | [io.github.edouard-claude/henrri-mcp](https://github.com/edouard-claude/henrri-mcp) | Henrri (unofficial) | 0.1.0 | Unofficial Henrri invoicing: customers, quotes, invoices, milestones, payments,… |
+| 2026-11-09 18:43:07 | com.argentina-almundo/argentina-al-mundo | Argentina al Mundo | 1.2.1 | Argentina's 24 provinces, gastronomy, chefs, luxury products and official trave… |
+| 2026-11-09 18:44:20 | [biz.valuein/mcp](https://github.com/valuein/valuein) | Valuein — SEC EDGAR Fundamentals & Smar… | 3.20.1 | Point-in-time, survivorship-free SEC EDGAR fundamentals + smart-money signals f… |
+| 2026-11-09 18:46:12 | [com.sherweb/platform](https://github.com/sherweb/platform-mcp) | Sherweb Platform MCP Server | 1.64.1 | Sherweb Platform MCP server to manage subscriptions and orders. Use OpenID Conn… |
+| 2026-11-09 18:46:31 | [com.infinitetoken/lumber](https://github.com/infinitetoken/Lumber-CLI) | Lumber | 0.3.0 | Search your Lumber logs and wait for new errors, decrypted on your own computer… |
+| 2026-11-09 18:47:35 | [ai.giggy/speech](https://github.com/giggy-ai/giggy-mcp) | Giggy Speech MCP | 1.0.3 | Giggy speech tools for AI agents: discover voices, generate speech and transcri… |
+| 2026-11-09 18:49:10 | com.skipo/mcp | Skipo | 2.0.0 | Read-only access to your Skipo account: balances, deposits, withdrawals, orders… |
+| 2026-11-09 18:49:32 | [io.github.BetaNYC/ny-data-registry-mcp](https://github.com/BetaNYC/ny-data-registry-mcp) | NY Data Registry | 0.1.0 | Find New York open data: which portal covers a place or topic, how to query it,… |
+| 2026-11-09 18:49:39 | io.agentsallowed/lookup | Agents Allowed | 1.0.0 | Check if a website lets AI agents browse, shop, book or log in, before acting. |
+| 2026-11-09 18:49:53 | [com.dugganusa/threat-intel](https://github.com/pduggusa/enterprise-extraction-platform) | Jeevesus — DugganUSA threat-intel MCP | 1.2.0 | Membrane for AI agents: threat intel you can check, IOC enrichment, pre-install… |
+| 2026-11-09 18:56:24 | org.ripclip/ripclip | RipClip | 1.0.0 | Clip long videos, open clips in the editor, draft posts and track views in your… |
+| 2026-11-09 19:01:39 | io.github.leonlesenechal/knocklog | Knocklog | 1.0.0 | See how a website treats AI agents, and check whether a ChatGPT, Claude or Perp… |
+| 2026-11-09 19:05:42 | app.higgsfield.agentwares/marketplace | Agentwares | 1.0.0 | Marketplace where AI agents buy and sell workflows, prompt packs and MCP config… |
+| 2026-11-09 19:06:06 | md.shipulin/shipulin | Aleksei Shipulin — CV, projects and wri… | 1.1.0 | Read-only CV, project stories and blog of Aleksei Shipulin, product researcher.… |
+| 2026-11-09 19:08:59 | com.gtmforone/gtm-for-one | GTM for One | 1.0.0 | Find companies that could buy from a business and draft the first cold emails,… |
+| 2026-11-09 19:09:42 | [io.github.MistelGeehrt/deja](https://github.com/MistelGeehrt/deja) | Déjà — la bourse du raisonnement | 0.1.2 | Reasoning exchange for AI agents: buy analyses others already did, sell yours.… |
+| 2026-11-09 19:10:00 | [io.github.efoltyn/market-search](https://github.com/efoltyn/market-search) | Market Search | 0.5.0 | Kalshi and Polymarket odds, stocks, options, macro, SEC filings and central ban… |
+| 2026-11-09 19:11:05 | com.palmcoastlocal/alice | ALICE - Palm Coast Local | 1.0.0 | Local AI guide to Palm Coast & Flagler County, FL: businesses, events, deals an… |
+| 2026-11-09 19:14:11 | com.opencorpo/opencorpo | OpenCorpo | 1.0.0 | YouTube and video analysis, C2PA marking for AI images, lossless EXIF/GPS remov… |
+| 2026-11-09 19:14:58 | com.lumichess/chess | Lumichess | 1.0.0 | Chess tools: game reviews for Chess.com and Lichess, FIDE ratings, openings, po… |
+| 2026-11-09 19:19:48 | dev.cotlet/pic-time | Pic-Time by Cotlet | 1.0.0 | Client galleries, visitors, orders and clients in Pic-Time for photographers. |
+| 2026-11-09 19:20:10 | dev.cotlet/kahunas | Kahunas by Cotlet | 1.0.0 | Clients, check-ins, workouts and nutrition plans in Kahunas online coaching sof… |
+| 2026-11-09 19:20:32 | dev.cotlet/wellnessliving | WellnessLiving by Cotlet | 1.0.0 | Classes, appointments, clients, memberships and leads in WellnessLiving studio… |
+| 2026-11-09 19:20:55 | dev.cotlet/arborgold | Arborgold by Cotlet | 1.0.0 | Customers, estimates, jobs and invoices in Arborgold for tree care and landscap… |
+| 2026-11-09 19:21:17 | dev.cotlet/joblogic | Joblogic by Cotlet | 1.0.0 | Customers, sites, jobs, quotes and invoices in Joblogic field service software. |
+| 2026-11-09 19:21:39 | dev.cotlet/klean-crm | Klean CRM by Cotlet | 1.0.0 | Customers, cleaning appointments, cleaners and invoices in Klean CRM for cleani… |
 
 ## Data source
 
