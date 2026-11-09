@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-11-09T22:28:15.223606Z,io.usefulapi/erp-saas-maqplan,Maqplan ERP MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read customers, products, sales orders, invoices, NF-e and financial entries in Maqplan ERP."
+2026-11-09T22:28:15.35752Z,io.usefulapi/vendty,Vendty MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read sales, products, customers, purchases and restaurant tables in Vendty."
+2026-11-09T22:28:15.36755Z,io.usefulapi/nubefact,NubeFact MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Issue, void and check facturas, boletas and notes sent to SUNAT in NubeFact."
+2026-11-09T22:30:13.104499Z,com.smarthukuk/legal-research,SmartHukuk Legal Research,1.8.0,,streamable-http,Türkiye hukuku emsal karar araştırması ve public hukuk kaynakları. Salt okunur.
+2026-11-09T22:31:25.659335Z,dev.levels/readymade,ready→made MCP,1.0.0,https://github.com/levels-dev/readymade-mcp,streamable-http,"Deterministic Figma to Elementor, Gutenberg, Oxygen, Etch and HTML layouts for AI assistants."
+2026-11-09T22:32:24.600506Z,io.eloai.company/price-broker,The Company: PC game price broker,0.1.6,,streamable-http,"Lowest live price for any PC game across 13 stores, with every store price and the record low."
+2026-11-09T22:38:41.868966Z,uk.postcodecontext/mcp,,1.0.0,https://github.com/postcodecontext/postcode-context-mcp,streamable-http,"UK location intelligence: Census, HMLR/RoS prices, EPC, IMD, schools & transit via x402"
+2026-11-09T22:41:46.619924Z,io.github.THORCollective/hearth,HEARTH,0.1.0,https://github.com/THORCollective/HEARTH,,"Search community threat hunting hypotheses by keyword, threat actor, or the log sources you have."
+2026-11-09T22:41:55.165814Z,it.casarosannaottiolu/casa-rosanna,"Casa Rosanna – Porto Ottiolu, Sardinia",1.0.0,,streamable-http,"Holiday home in Porto Ottiolu, Sardinia: availability, direct prices, sheltered beaches today."
+2026-11-09T22:43:56.738298Z,com.dcamethod/dca-tools,DCA Method — backtests & calculators,1.1.0,,streamable-http,"Dollar-cost-averaging backtests on real historical data for crypto, stocks and commodities."
+2026-11-09T22:45:38.424221Z,io.github.JCLVSH/xmark,xmark,0.6.1,,streamable-http,"Search and chat with your X bookmarks, with citations back to the original posts."
+2026-11-09T22:46:03.688444Z,io.github.JCLVSH/dropspace,Dropspace,2.52.2,,streamable-http,"Create, schedule, and publish social media launches across platforms, then read the analytics."
+2026-11-09T22:46:07.318224Z,io.github.JCLVSH/iris,Iris,0.23.1,,streamable-http,"Run multi-channel outreach: campaigns, contacts, conversations, and AI-drafted messages."
+2026-11-09T22:46:39.646717Z,com.lunaterminal/lunaterminal,LunaTerminal,1.1.0,,streamable-http,"Planning calculators and market data for financial advisors: Roth, RMD, Social Security, 13F."
+2026-11-09T22:49:19.295303Z,ai.webprompter/mcp-service,webprompter.ai — Static Sites & Custom Domains for Coding Agents,0.1.0,https://github.com/bjothorl/ai-website-builder,streamable-http,"Deploy static sites and connect custom domains from Claude, Cursor, or any MCP agent."
+2026-11-09T22:53:44.574668Z,com.tryren/ren,Ren AI,1.0.0,,streamable-http,"Prep 1:1s, draft feedback and work through hard conversations at work, in your AI."
+2026-11-09T22:54:29.599512Z,io.github.prismatic-io/prism-mcp,,1.6.0,https://github.com/prismatic-io/prism-mcp,,MCP server that wraps Prismatic's Prism CLI tool
+2026-11-09T22:58:41.187622Z,io.github.descipar/wled-mcp,WLED MCP (unofficial),0.2.0,https://github.com/descipar/wled-mcp,,Unofficial MCP server for WLED LED controllers; not affiliated with the WLED project
+2026-11-09T23:00:08.57335Z,io.github.vstockma/x402-apis,Company & Macro Data (x402),1.0.0,https://github.com/vstockma/x402-apis,streamable-http,"Official company registers (13 countries + LEI), FX, rates, yields, inflation. Pay per call, x402."
+2026-11-09T23:00:09.051493Z,io.github.vstockma/handelskalender-api,Trading Calendar & Public Holidays (x402),1.0.0,https://github.com/vstockma/handelskalender-api,streamable-http,"Stock exchange trading days, hours, live market status (28 exchanges) and holidays (247 countries)."
+2026-11-09T23:08:28.726424Z,io.github.rachitkumarrastogi/unity-mcp-server,Unity MCP Server,1.8.0,https://github.com/rachitkumarrastogi/unity-mcp-server,,"MCP server for Unity: 150+ tools, Unity 6 skills, AI/ML, audits. No Editor."
+2026-11-09T23:08:43.362151Z,com.scanqrlabs/scanqr,ScanQR Labs,1.69.0,,streamable-http,"Unlimited free QR codes with scan tracking, reusable pages, print-ready art, and editable links."
+2026-11-09T23:09:37.097958Z,io.usefulapi/fiscalo,Fiscalo MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read and create customers, items and draft invoices in Fiscalo."
+2026-11-09T23:09:37.240382Z,io.usefulapi/pagsafe,PagSafe MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Create Pix charges, check and refund payments, and manage Pix subscriptions in PagSafe."
+2026-11-09T23:09:37.241218Z,io.usefulapi/bill-pt,Bill.pt MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"List invoices, contacts, items and stock, and create contacts in Bill.pt."
+2026-11-09T23:09:37.249142Z,io.usefulapi/zapassina,ZapAssina MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Send documents for e-signature, track signers, and organize folders in ZapAssina."
+2026-11-09T23:09:37.699075Z,io.usefulapi/kassa-at,KASSA.AT MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read and update articles, customers and stock in KASSA.AT."
+2026-11-09T23:10:40.606013Z,io.github.theGeekist/garmin-mcp,Garmin MCP by geekist.co,0.3.6,,streamable-http,Explore Garmin activity and health data with your AI assistant.
+2026-11-09T23:13:53.170929Z,io.github.1biz/topic-news,Topic News PR Distribution,1.3.0,https://github.com/1biz/Top-PR,streamable-http,AI-accessible PR distribution across Asian news markets.
+2026-11-09T23:14:54.41338Z,ai.govisit/tools,GoVisit Tools,1.0.0,,streamable-http,"Search GoVisit and read published travel destinations, places, and documentation."
+2026-11-09T23:15:02.655473Z,io.github.kriton-dev/audio-to-transcript,"Speech to Text — File Transcripts, Speaker Labels & Subtitles",1.0.24,,streamable-http,Transcribe audio and video files to text with timestamps and SRT or WebVTT subtitles
+2026-11-09T23:18:35.502189Z,io.github.HLIntel/headron,Headron,3.62.0,https://github.com/HLIntel/Headron,,"Headron read-only verification, typed agent tools, and Mind API."

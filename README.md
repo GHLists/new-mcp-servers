@@ -9,61 +9,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 22:21 UTC
+## Latest list — 2026-11-09 23:20 UTC
 
-New MCP servers published between 2026-11-09 21:19 UTC and 2026-11-09 22:21 UTC.
+New MCP servers published between 2026-11-09 22:21 UTC and 2026-11-09 23:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-09T22-21-25-402833Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-09T23-20-19-09179Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-09 21:19:37 | [io.github.BetaNYC/nyc-record-mcp](https://github.com/BetaNYC/nyc-record-mcp) | NYC City Record | 1.1.1 | Search NYC City Record notices: procurement, contract awards, open solicitation… |
-| 2026-11-09 21:19:38 | [io.github.BetaNYC/nyc-checkbook-mcp](https://github.com/BetaNYC/nyc-checkbook-mcp) | NYC Checkbook | 1.6.4 | NYC Checkbook data: city spending, contracts, budget, payroll, and revenue from… |
-| 2026-11-09 21:19:45 | [io.github.BetaNYC/nyc-charter-laws-rules](https://github.com/BetaNYC/nyc-charter-laws-rules) | NYC Charter, Laws and Rules | 0.4.4 | Search and read the NYC Charter, Administrative Code and Rules of the City of N… |
-| 2026-11-09 21:20:34 | [io.github.dzhng/bento](https://github.com/dzhng/bento-releases) | Bento | 1.0.0 | One subscription for every kind of AI: images, video, voice and more. |
-| 2026-11-09 21:24:41 | com.outvelo/outvelo | Outvelo | 0.1.0 | Run governed LinkedIn outreach from your AI assistant: campaigns, leads, replie… |
-| 2026-11-09 21:28:31 | nl.topvacaturebank/vacatures | Topvacaturebank | 1.0.0 | Search Dutch job vacancies, salaries, job descriptions and employers on Topvaca… |
-| 2026-11-09 21:29:03 | [com.registryverify/florida-sunbiz-business-kyb](https://github.com/ai-interact/registry-verify-agent-skill) | Florida Business Verify (Sunbiz records) | 1.0.0 | Verify a Florida business in official Sunbiz records: status, agent, officers.… |
-| 2026-11-09 21:29:25 | com.checktruereturn/truereturn | TrueReturn | 1.0.0 | Rewrite AI-assisted drafts so they sound like you: your voice, your words, your… |
-| 2026-11-09 21:29:35 | io.github.WingCdr/independents-only | Independents Only | 1.0.0 | Find UK independent businesses by trade and town. No chains or franchises; nobo… |
-| 2026-11-09 21:31:13 | com.laurence/laurence | Laurence | 1.0.0 | Agents that run your Amazon ads. Read-only Amazon Ads, sales and search data. |
-| 2026-11-09 21:31:54 | codes.find/verified-codes |  | 1.1.0 | Verified discount & referral codes for crypto exchanges, cards and more — teste… |
-| 2026-11-09 21:32:09 | dev.sec-api/server | SEC API | 1.0.0 | SEC EDGAR filings, XBRL financials, Form 4 insider trades and 13F holdings with… |
-| 2026-11-09 21:32:13 | com.pingwise/pingwise | PingWise | 1.0.0 | Uptime monitoring: read monitors, incidents and response times; create and chan… |
-| 2026-11-09 21:32:27 | [io.github.AnshumanAtrey/naukri-jobs-search](https://github.com/AnshumanAtrey/naukri-jobs-search) | Naukri Jobs Scraper & API - Salary, Exp… | 1.0.9 | Naukri Jobs Scraper - Salary, Skills and Experience |
-| 2026-11-09 21:33:44 | com.usta-bul/usta-bul | Usta-Bul | 1.1.0 | Türkiye'de usta ve firma bulma: kategori, il ve ilçeye göre arama, profil, puan… |
-| 2026-11-09 21:33:53 | [io.github.AnshumanAtrey/foundit-jobs-search](https://github.com/AnshumanAtrey/foundit-jobs-search) | Foundit Jobs Scraper & API - Monster In… | 1.0.12 | Foundit Jobs Scraper - Monster India & Gulf Jobs |
-| 2026-11-09 21:34:09 | com.thespoollist/marketplace | The Spool List | 1.1.0 | Find makers, open jobs, shop items and designs on The Spool List fabrication ma… |
-| 2026-11-09 21:34:46 | [io.github.BetaNYC/nyc-budget-mcp](https://github.com/BetaNYC/New-York-City-Budget) | NYC Budget | 2.0.5 | NYC Council budget data: discretionary awards, capital designations, Schedule C… |
-| 2026-11-09 21:34:57 | sh.adspy/adspy | Adspy | 1.0.0 | Ad research for AI assistants: public Meta and Google ads, and TikTok, YouTube… |
-| 2026-11-09 21:35:20 | [io.github.AnshumanAtrey/instahyre-jobs-search](https://github.com/AnshumanAtrey/instahyre-jobs-search) | Instahyre Jobs Scraper & API - Last 24… | 1.0.6 | Instahyre Jobs Scraper - Experience, Skills & Dates |
-| 2026-11-09 21:35:35 | [io.github.MrHenrySword/agile-analytics-mcp](https://github.com/MrHenrySword/agile-analytics-mcp) |  | 6.75.3 | Azure DevOps sprint, cycle time, flow, WIP, aging and forecast metrics. Local,… |
-| 2026-11-09 21:37:50 | [io.github.allyburns/trazo-pilot](https://github.com/allyburns/trazo-pilot) | Trazo pilot | 0.2.1 | Fly Trazo, a browser game over the real Nazca lines, turn by turn, and post to… |
-| 2026-11-09 21:38:48 | com.quinzu/quinzu | Quinzu | 1.0.0 | Read-only attendance, hours and punctuality from a business's Quinzu time clock. |
-| 2026-11-09 21:40:27 | [io.github.marcemile/iconvectors-mcp](https://github.com/marcemile/iconvectors-mcp) | Axialis IconVectors MCP | 2.20.0 | Local MCP bridge for IconVectors on Windows. Requires the separately installed… |
-| 2026-11-09 21:41:10 | [io.github.AnshumanAtrey/cutshort-jobs-search](https://github.com/AnshumanAtrey/cutshort-jobs-search) | Cutshort Jobs Scraper & API - India Sta… | 1.0.15 | Cutshort Jobs Scraper - Salary, Skills, Experience |
-| 2026-11-09 21:42:11 | [io.github.AnshumanAtrey/hirist-jobs-search](https://github.com/AnshumanAtrey/hirist-jobs-search) | Hirist Jobs Scraper & API - India IT &… | 1.0.10 | Hirist Jobs Scraper - IT Jobs by Skill & Experience |
-| 2026-11-09 21:44:40 | discount.cryptoexchange/referral-codes | CryptoExchange.Discount Referral Codes | 1.1.0 | Verified referral and discount codes for crypto exchanges, wallets and trading… |
-| 2026-11-09 21:44:45 | [io.github.runkids/figlens](https://github.com/runkids/figlens) | figlens | 0.14.3 | Offline Figma MCP server: layout, SVG assets, renders and revision diffs from s… |
-| 2026-11-09 21:46:57 | [io.github.thekannen/battlemap-mcp](https://github.com/thekannen/battlemap-mcp) | battlemap-mcp | 1.4.2 | Let an AI assistant build Dungeondraft battle maps from the assets you already… |
-| 2026-11-09 21:47:20 | com.dockflow/mcp | Dockflow | 1.1.0 | Track containers and shipments and make ocean bookings in your Dockflow account. |
-| 2026-11-09 21:54:57 | io.github.avansledright/gridiron-data | GridIron Data | 1.0.0 | NFL fantasy football data: players, projections, stats, snaps, news, injuries a… |
-| 2026-11-09 21:58:11 | io.github.sydneyaeros/showpiece-quotes | Showpiece Commercial Cleaning Quotes | 1.0.0 | Indicative pricing and site inspection requests for Sydney commercial cleaning. |
-| 2026-11-09 21:58:44 | [io.github.marc-aurele-besner/mymultisig-mcp](https://github.com/marc-aurele-besner/mymultisig-app) | MyMultiSig | 0.1.1 | Create, review, sign and execute MyMultiSig multisig wallet transactions from A… |
-| 2026-11-09 21:59:28 | app.reelgenie/reelgenie | ReelGenie | 2.32.0 | Review, schedule and publish your agent's posts to TikTok, Instagram and YouTub… |
-| 2026-11-09 22:04:02 | com.adfraudit.mcp/adfraudit | adfraudit – Klickbetrug / Click Fraud | 0.1.0 | Wissen zu Klickbetrug, Anbieter-Vergleich und kostenloses Audit von adfraudit.c… |
-| 2026-11-09 22:04:23 | com.wavelocus/assistant | WaveLocus | 0.3.0 | Review voice recording levels locally and share approved measurements in ChatGP… |
-| 2026-11-09 22:05:03 | com.waterexammath/waterexammath | WaterExamMath | 1.0.0 | Math practice for the California water operator exams (T1-T3, D1-D3) with worke… |
-| 2026-11-09 22:10:30 | [io.github.val-ye/metric-contracts](https://github.com/val-ye/metric-contracts) |  | 0.1.0 | Metric contracts: allowed or denied with reason before SQL, chart gate, decompo… |
-| 2026-11-09 22:11:19 | app.mysdr/assistant | mySDR | 1.0.0 | GTM execution layer for AI agents: buyer signals, enrichment and approved Linke… |
-| 2026-11-09 22:11:45 | [com.lumicafe/mcp](https://github.com/bada-sistemas/lumicafe) | Lumi | 1.0.0 | Lumi, café en Tijuana: horario, dirección, carta con precios en MXN, espacios y… |
-| 2026-11-09 22:11:46 | [com.badabun/mcp](https://github.com/bada-sistemas/badabun-mcp) | Badabun | 1.1.0 | Notas de Badabun (medio digital mexicano): últimas, búsqueda, lectura en Markdo… |
-| 2026-11-09 22:13:53 | io.github.JusticeUA/brazil-company-check | Brazil Company Check | 0.1.0 | Brazil company checks by CNPJ: status, insolvency, LEI and sanctions from offic… |
-| 2026-11-09 22:13:54 | io.github.JusticeUA/cyprus-company-check | Cyprus Company Check | 0.1.0 | Cyprus company checks: status, insolvency, LEI and sanctions from official regi… |
-| 2026-11-09 22:13:54 | io.github.JusticeUA/connecticut-company-check | Connecticut Company Check | 0.1.0 | Connecticut company checks by Business ID: status, legal form, dissolution flag… |
-| 2026-11-09 22:13:55 | io.github.JusticeUA/colorado-company-check | Colorado Company Check | 0.1.0 | Colorado company checks by Secretary of State entity ID: status, legal form, LE… |
-| 2026-11-09 22:17:54 | com.countrygenerator/mcp-server | Country Generator | 1.0.0 | Look up any country's capital, population and borders, or play geography quizze… |
-| 2026-11-09 22:21:01 | [com.voicent/voicent-mcp](https://github.com/voicentmcp/voicent-mcp) |  | 0.1.0 | Let AI agents place calls and texts, run campaigns and use the CRM on your own… |
+| 2026-11-09 22:28:15 | [io.usefulapi/erp-saas-maqplan](https://github.com/m190/usefulapi-mcp) | Maqplan ERP MCP by usefulapi | 1.0.0 | Read customers, products, sales orders, invoices, NF-e and financial entries in… |
+| 2026-11-09 22:28:15 | [io.usefulapi/vendty](https://github.com/m190/usefulapi-mcp) | Vendty MCP by usefulapi | 1.0.0 | Read sales, products, customers, purchases and restaurant tables in Vendty. |
+| 2026-11-09 22:28:15 | [io.usefulapi/nubefact](https://github.com/m190/usefulapi-mcp) | NubeFact MCP by usefulapi | 1.0.0 | Issue, void and check facturas, boletas and notes sent to SUNAT in NubeFact. |
+| 2026-11-09 22:30:13 | com.smarthukuk/legal-research | SmartHukuk Legal Research | 1.8.0 | Türkiye hukuku emsal karar araştırması ve public hukuk kaynakları. Salt okunur. |
+| 2026-11-09 22:31:25 | [dev.levels/readymade](https://github.com/levels-dev/readymade-mcp) | ready→made MCP | 1.0.0 | Deterministic Figma to Elementor, Gutenberg, Oxygen, Etch and HTML layouts for… |
+| 2026-11-09 22:32:24 | io.eloai.company/price-broker | The Company: PC game price broker | 0.1.6 | Lowest live price for any PC game across 13 stores, with every store price and… |
+| 2026-11-09 22:38:41 | [uk.postcodecontext/mcp](https://github.com/postcodecontext/postcode-context-mcp) |  | 1.0.0 | UK location intelligence: Census, HMLR/RoS prices, EPC, IMD, schools & transit… |
+| 2026-11-09 22:41:46 | [io.github.THORCollective/hearth](https://github.com/THORCollective/HEARTH) | HEARTH | 0.1.0 | Search community threat hunting hypotheses by keyword, threat actor, or the log… |
+| 2026-11-09 22:41:55 | it.casarosannaottiolu/casa-rosanna | Casa Rosanna – Porto Ottiolu, Sardinia | 1.0.0 | Holiday home in Porto Ottiolu, Sardinia: availability, direct prices, sheltered… |
+| 2026-11-09 22:43:56 | com.dcamethod/dca-tools | DCA Method — backtests & calculators | 1.1.0 | Dollar-cost-averaging backtests on real historical data for crypto, stocks and… |
+| 2026-11-09 22:45:38 | io.github.JCLVSH/xmark | xmark | 0.6.1 | Search and chat with your X bookmarks, with citations back to the original post… |
+| 2026-11-09 22:46:03 | io.github.JCLVSH/dropspace | Dropspace | 2.52.2 | Create, schedule, and publish social media launches across platforms, then read… |
+| 2026-11-09 22:46:07 | io.github.JCLVSH/iris | Iris | 0.23.1 | Run multi-channel outreach: campaigns, contacts, conversations, and AI-drafted… |
+| 2026-11-09 22:46:39 | com.lunaterminal/lunaterminal | LunaTerminal | 1.1.0 | Planning calculators and market data for financial advisors: Roth, RMD, Social… |
+| 2026-11-09 22:49:19 | [ai.webprompter/mcp-service](https://github.com/bjothorl/ai-website-builder) | webprompter.ai — Static Sites & Custom… | 0.1.0 | Deploy static sites and connect custom domains from Claude, Cursor, or any MCP… |
+| 2026-11-09 22:53:44 | com.tryren/ren | Ren AI | 1.0.0 | Prep 1:1s, draft feedback and work through hard conversations at work, in your… |
+| 2026-11-09 22:54:29 | [io.github.prismatic-io/prism-mcp](https://github.com/prismatic-io/prism-mcp) |  | 1.6.0 | MCP server that wraps Prismatic's Prism CLI tool |
+| 2026-11-09 22:58:41 | [io.github.descipar/wled-mcp](https://github.com/descipar/wled-mcp) | WLED MCP (unofficial) | 0.2.0 | Unofficial MCP server for WLED LED controllers; not affiliated with the WLED pr… |
+| 2026-11-09 23:00:08 | [io.github.vstockma/x402-apis](https://github.com/vstockma/x402-apis) | Company & Macro Data (x402) | 1.0.0 | Official company registers (13 countries + LEI), FX, rates, yields, inflation.… |
+| 2026-11-09 23:00:09 | [io.github.vstockma/handelskalender-api](https://github.com/vstockma/handelskalender-api) | Trading Calendar & Public Holidays (x40… | 1.0.0 | Stock exchange trading days, hours, live market status (28 exchanges) and holid… |
+| 2026-11-09 23:08:28 | [io.github.rachitkumarrastogi/unity-mcp-server](https://github.com/rachitkumarrastogi/unity-mcp-server) | Unity MCP Server | 1.8.0 | MCP server for Unity: 150+ tools, Unity 6 skills, AI/ML, audits. No Editor. |
+| 2026-11-09 23:08:43 | com.scanqrlabs/scanqr | ScanQR Labs | 1.69.0 | Unlimited free QR codes with scan tracking, reusable pages, print-ready art, an… |
+| 2026-11-09 23:09:37 | [io.usefulapi/fiscalo](https://github.com/m190/usefulapi-mcp) | Fiscalo MCP by usefulapi | 1.0.0 | Read and create customers, items and draft invoices in Fiscalo. |
+| 2026-11-09 23:09:37 | [io.usefulapi/pagsafe](https://github.com/m190/usefulapi-mcp) | PagSafe MCP by usefulapi | 1.0.0 | Create Pix charges, check and refund payments, and manage Pix subscriptions in… |
+| 2026-11-09 23:09:37 | [io.usefulapi/bill-pt](https://github.com/m190/usefulapi-mcp) | Bill.pt MCP by usefulapi | 1.0.0 | List invoices, contacts, items and stock, and create contacts in Bill.pt. |
+| 2026-11-09 23:09:37 | [io.usefulapi/zapassina](https://github.com/m190/usefulapi-mcp) | ZapAssina MCP by usefulapi | 1.0.0 | Send documents for e-signature, track signers, and organize folders in ZapAssin… |
+| 2026-11-09 23:09:37 | [io.usefulapi/kassa-at](https://github.com/m190/usefulapi-mcp) | KASSA.AT MCP by usefulapi | 1.0.0 | Read and update articles, customers and stock in KASSA.AT. |
+| 2026-11-09 23:10:40 | io.github.theGeekist/garmin-mcp | Garmin MCP by geekist.co | 0.3.6 | Explore Garmin activity and health data with your AI assistant. |
+| 2026-11-09 23:13:53 | [io.github.1biz/topic-news](https://github.com/1biz/Top-PR) | Topic News PR Distribution | 1.3.0 | AI-accessible PR distribution across Asian news markets. |
+| 2026-11-09 23:14:54 | ai.govisit/tools | GoVisit Tools | 1.0.0 | Search GoVisit and read published travel destinations, places, and documentatio… |
+| 2026-11-09 23:15:02 | io.github.kriton-dev/audio-to-transcript | Speech to Text — File Transcripts, Spea… | 1.0.24 | Transcribe audio and video files to text with timestamps and SRT or WebVTT subt… |
+| 2026-11-09 23:18:35 | [io.github.HLIntel/headron](https://github.com/HLIntel/Headron) | Headron | 3.62.0 | Headron read-only verification, typed agent tools, and Mind API. |
 
 ## Data source
 
