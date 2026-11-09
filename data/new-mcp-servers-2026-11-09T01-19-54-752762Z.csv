@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-11-09T00:21:29.29274Z,io.github.IVYEnergy/aivy-mcp,Aivy Energy,0.9.2,https://github.com/IVYEnergy/aivy-mcp,,"Read and control your own home solar + battery: Sungrow, Sigenergy, FoxESS, AlphaESS, SolaX."
+2026-11-09T00:22:32.48361Z,org.jaryo/korean-companies,"Jaryo - Korean company records, sourced. Start with verify_company (no key)",0.1.0,,streamable-http,"~960k Korean corporations, not only listed: official IDs linked, live NTS status, English names"
+2026-11-09T00:24:56.11797Z,app.firmary/mcp,Firmary,1.0.0,,streamable-http,"Work with an accounting firm's clients, engagements, tasks, documents, messages and billing."
+2026-11-09T00:28:58.628107Z,io.allourthings/mcp-server,,2.1.0,https://github.com/matt-harding/allourthings-mcp,,AI-powered household inventory — query everything you own via natural language
+2026-11-09T00:31:31.723611Z,today.theplanet/mcp,The Planet,1.0.0,,streamable-http,"Geopolitical and macro intelligence for traders: conflicts, chokepoints, energy, markets and FX."
+2026-11-09T00:36:50.318079Z,dev.slashclone/slashclone,SlashClone,1.0.0,,streamable-http,"Find, check, and use proven Claude kits: skills, workflows, and stacks, each safety scanned."
+2026-11-09T00:39:48.711855Z,online.aurinia/connect,Aurinia — book across venues via your AI assistant,0.1.2,,streamable-http,Find availability and book across a network of independent venues via your AI assistant.
+2026-11-09T00:56:06.822434Z,io.github.jdhart81/settlement-engine,,0.1.0,https://github.com/jdhart81/viridis-agent-fleet,streamable-http,"Progressive settlement for outcome-based capital: what is decided, what the remainder must do."
+2026-11-09T00:58:49.135034Z,io.github.gkdis6/opsgate,opsgate,0.5.0,https://github.com/gkdis6/opsgate,,Kubernetes MCP server where AI proposes changes and you approve each with a passkey on your phone.
+2026-11-09T01:00:08.115681Z,net.joehill/mcp,"Joe Hill, AI partner in Tennessee",1.1.0,,streamable-http,"Check open times and book a free 15-minute fit call with Joe Hill, or ask Harvey about his work."
+2026-11-09T01:00:08.144157Z,si.boterly/boterly,Boterly,1.0.0,,streamable-http,"Search Grok Bot templates and install them into your Bot by message: skills, rules and routines."
+2026-11-09T01:03:31.253291Z,io.github.lexusdev7/jp-corp-diff,RegBase Japan Corporate Registry Diff,0.1.0,,streamable-http,"Japan corporate registry daily diff: new, changed and closed companies, lookup, signed-record check"
+2026-11-09T01:04:47.201386Z,io.cloudjobs/mcp,CloudJobs,1.0.0,,streamable-http,"Live cloud jobs, salary benchmarks, company profiles, and cert practice tests."
+2026-11-09T01:12:36.114549Z,com.rightblogger/rightblogger,RightBlogger,1.0.0,,streamable-http,"Search Console traffic, keyword research and your blog posts, with edits and publishing on approval."
+2026-11-09T01:13:41.79039Z,com.propriosign/propriosign,ProprioSign,1.0.0,,streamable-http,"Québec lease notice deadlines (art. 1942 C.C.Q.), rent increase notices and guides for landlords."
+2026-11-09T01:19:47.563297Z,com.nogamovement/agent-doorway,NOGA Movement,1.0.0,,streamable-http,"Book NOGA Movement live Pilates and barre classes, readings, and the Pilates+ teacher certification."
