@@ -4078,6 +4078,7 @@
     "com.brokerflat/cashback",
     "com.brokervsadvisor/site",
     "com.brontir/research",
+    "com.broombook/free-tools",
     "com.browsebridge/browse-bridge",
     "com.browser-use/browser-use",
     "com.browserpair/browserpair",
@@ -5712,6 +5713,7 @@
     "com.gopathwize/pathwize",
     "com.goptin/goptin",
     "com.gotcashback/gotcashback",
+    "com.gotolocalai/missed-call-calculator",
     "com.govapiatlas/govapi-atlas",
     "com.govdir/directory",
     "com.govgazette/govgazette",
@@ -9462,6 +9464,7 @@
     "com.theonchaindiary/onchain-diary",
     "com.theopenapps/openapps",
     "com.theopentv/opentv",
+    "com.theopros/mcp",
     "com.theorem-labs.praxis/praxis",
     "com.theoutcomelayer/outcome-layer",
     "com.theparallaxagent/parallax",
@@ -16764,6 +16767,7 @@
     "io.github.alimohammadiamirhossein/deputy",
     "io.github.alipajand/agent-readiness",
     "io.github.alipishbin77/aether",
+    "io.github.alireza12t/foldline",
     "io.github.alisaitteke/photoshop-mcp",
     "io.github.alisonc6/smitty",
     "io.github.allchemylabs/aether-wcag-scanner",
@@ -20047,6 +20051,7 @@
     "io.github.itseez3d/craftstory-mcp",
     "io.github.itsflaid/devmap",
     "io.github.itsmeadamdamroma/mazzagrp",
+    "io.github.itsmraza-ship-it/epics-deals-mcp",
     "io.github.itsoft7/egrul-mcp",
     "io.github.itsonu/flutter-lamp",
     "io.github.itsryanarmani/agentsandboxes",
@@ -20492,6 +20497,7 @@
     "io.github.kastro5/opendeck-mcp",
     "io.github.katrinalaszlo/track",
     "io.github.kau17033/cam-product-viability-standard",
+    "io.github.kausalflow/gleanyard",
     "io.github.kawal393/apex-psi-mcp",
     "io.github.kayalie/studycards",
     "io.github.kayhendriksen/foehn",
@@ -20827,6 +20833,7 @@
     "io.github.leohoudinisanders-byte/forensics-mcp",
     "io.github.leoly5945-hash/saveiq",
     "io.github.leonhoulier/infomaniak-mcp",
+    "io.github.leonkrs/mira",
     "io.github.leonmch-byte/chinese-nlp-mcp",
     "io.github.leovenom/buttonwall",
     "io.github.les-k/mcp-confirm",
@@ -26187,6 +26194,7 @@
     "io.github.rww90931-ops/product-discovery",
     "io.github.rxolve/pixscii",
     "io.github.rxthlessbeats/agent-cowork-memory",
+    "io.github.ryamgoh/terminal-mcp",
     "io.github.ryan-tish/sendpaper",
     "io.github.ryanbiddy/uoink",
     "io.github.ryanduguid/aus-accounting",
@@ -32454,11 +32462,11 @@
     "zone.blip/bazaar"
   ],
   "list": {
-    "count": 16,
-    "from": "2026-11-09T01:19:54.752762Z",
-    "path": "data/new-mcp-servers-2026-11-09T02-21-49-772198Z.csv",
-    "to": "2026-11-09T02:21:49.772198Z"
+    "count": 8,
+    "from": "2026-11-09T02:21:49.772198Z",
+    "path": "data/new-mcp-servers-2026-11-09T03-21-18-66149Z.csv",
+    "to": "2026-11-09T03:21:18.66149Z"
   },
   "source_truncated": false,
-  "window": "2026-11-09T02:21:49.772198Z"
+  "window": "2026-11-09T03:21:18.66149Z"
 }

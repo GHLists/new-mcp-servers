@@ -1,0 +1,9 @@
+created_at,server,title,version,repository,transports,description
+2026-11-09T02:23:00.462135Z,com.broombook/free-tools,Broombook: cleaning business calculators,1.0.0,,streamable-http,"Free cleaning business calculators: house cleaning prices, state minimums, commercial bids, profit"
+2026-11-09T02:30:03.872246Z,io.github.kausalflow/gleanyard,gleanyard (read-only),0.14.0,https://github.com/kausalflow/gleanyard,streamable-http,Search gleanyard source recipes and read public gleanyard projects' records and health.
+2026-11-09T02:48:10.665353Z,com.theopros/mcp,theoPros,1.0.0,,streamable-http,"Search and verify 82k state-licensed US contractors, checked weekly against the licensing boards."
+2026-11-09T02:53:20.799073Z,io.github.itsmraza-ship-it/epics-deals-mcp,Epics Deals — US LLC & Tax Tools,1.0.0,,streamable-http,"LLC costs, EIN timelines, IRS deadlines and filing prices for founders forming US companies."
+2026-11-09T02:56:56.791293Z,io.github.alireza12t/foldline,Foldline,1.0.0,https://github.com/alireza12t/foldline,,"Render HTML canvas animations to MP4 fast on a Mac, with 66 code-made film styles for agents."
+2026-11-09T03:03:00.748449Z,com.gotolocalai/missed-call-calculator,Go-To Local Missed-Call Calculator,1.0.0,,streamable-http,"Estimate what missed calls cost a local service business each month, with the formula shown."
+2026-11-09T03:17:28.018468Z,io.github.ryamgoh/terminal-mcp,Terminal sessions for agents,0.1.0,https://github.com/ryamgoh/terminal-mcp,,"Real terminal sessions for agents: run commands, stream output, type into programs, kill trees."
+2026-11-09T03:20:07.006589Z,io.github.leonkrs/mira,,1.0.0,,,"Crawl a website and get its colors, fonts, logos, images and a Tailwind theme."
