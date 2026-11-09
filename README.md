@@ -9,30 +9,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 01:19 UTC
+## Latest list — 2026-11-09 02:21 UTC
 
-New MCP servers published between 2026-11-09 00:19 UTC and 2026-11-09 01:19 UTC.
+New MCP servers published between 2026-11-09 01:19 UTC and 2026-11-09 02:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-09T01-19-54-752762Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-09T02-21-49-772198Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-09 00:21:29 | [io.github.IVYEnergy/aivy-mcp](https://github.com/IVYEnergy/aivy-mcp) | Aivy Energy | 0.9.2 | Read and control your own home solar + battery: Sungrow, Sigenergy, FoxESS, Alp… |
-| 2026-11-09 00:22:32 | org.jaryo/korean-companies | Jaryo - Korean company records, sourced… | 0.1.0 | ~960k Korean corporations, not only listed: official IDs linked, live NTS statu… |
-| 2026-11-09 00:24:56 | app.firmary/mcp | Firmary | 1.0.0 | Work with an accounting firm's clients, engagements, tasks, documents, messages… |
-| 2026-11-09 00:28:58 | [io.allourthings/mcp-server](https://github.com/matt-harding/allourthings-mcp) |  | 2.1.0 | AI-powered household inventory — query everything you own via natural language |
-| 2026-11-09 00:31:31 | today.theplanet/mcp | The Planet | 1.0.0 | Geopolitical and macro intelligence for traders: conflicts, chokepoints, energy… |
-| 2026-11-09 00:36:50 | dev.slashclone/slashclone | SlashClone | 1.0.0 | Find, check, and use proven Claude kits: skills, workflows, and stacks, each sa… |
-| 2026-11-09 00:39:48 | online.aurinia/connect | Aurinia — book across venues via your A… | 0.1.2 | Find availability and book across a network of independent venues via your AI a… |
-| 2026-11-09 00:56:06 | [io.github.jdhart81/settlement-engine](https://github.com/jdhart81/viridis-agent-fleet) |  | 0.1.0 | Progressive settlement for outcome-based capital: what is decided, what the rem… |
-| 2026-11-09 00:58:49 | [io.github.gkdis6/opsgate](https://github.com/gkdis6/opsgate) | opsgate | 0.5.0 | Kubernetes MCP server where AI proposes changes and you approve each with a pas… |
-| 2026-11-09 01:00:08 | net.joehill/mcp | Joe Hill, AI partner in Tennessee | 1.1.0 | Check open times and book a free 15-minute fit call with Joe Hill, or ask Harve… |
-| 2026-11-09 01:00:08 | si.boterly/boterly | Boterly | 1.0.0 | Search Grok Bot templates and install them into your Bot by message: skills, ru… |
-| 2026-11-09 01:03:31 | io.github.lexusdev7/jp-corp-diff | RegBase Japan Corporate Registry Diff | 0.1.0 | Japan corporate registry daily diff: new, changed and closed companies, lookup,… |
-| 2026-11-09 01:04:47 | io.cloudjobs/mcp | CloudJobs | 1.0.0 | Live cloud jobs, salary benchmarks, company profiles, and cert practice tests. |
-| 2026-11-09 01:12:36 | com.rightblogger/rightblogger | RightBlogger | 1.0.0 | Search Console traffic, keyword research and your blog posts, with edits and pu… |
-| 2026-11-09 01:13:41 | com.propriosign/propriosign | ProprioSign | 1.0.0 | Québec lease notice deadlines (art. 1942 C.C.Q.), rent increase notices and gui… |
-| 2026-11-09 01:19:47 | com.nogamovement/agent-doorway | NOGA Movement | 1.0.0 | Book NOGA Movement live Pilates and barre classes, readings, and the Pilates+ t… |
+| 2026-11-09 01:24:00 | [io.github.RafaCoelho33/web3-systemic-agent](https://github.com/RafaCoelho33/web3_systemic-agent) | Web3 Systemic Agent | 1.0.0 | Web3 security, DEX honeypot detector, and DAO governance auditor for Base & EVM… |
+| 2026-11-09 01:26:28 | [io.github.oon4am-eng/hold](https://github.com/oon4am-eng/hold-mcp) | HOLD! Korean stock ownership | 1.0.0 | Who owns Korean listed stocks: 5% holders, insiders, NPS and average cost, from… |
+| 2026-11-09 01:27:07 | [io.github.renatoctti/brasilapi-mcp](https://github.com/renatoctti/brasilapi-mcp) | BrasilAPI (CNPJ, CEP, validation, holid… | 0.1.0 | Brazilian public data via BrasilAPI: CNPJ and partners, CEP, CNPJ/CPF validatio… |
+| 2026-11-09 01:30:15 | [io.github.ruvnet/ruflo](https://github.com/ruvnet/ruflo) | Ruflo | 3.73.0 | Agent teams, swarms, memory and hooks for Claude Code and Codex, served over MC… |
+| 2026-11-09 01:34:18 | [io.github.Nativ-Technologies/nativ](https://github.com/Nativ-Technologies/nativ-mcp) |  | 0.5.0 | Localize text, images, audio and subtitles with brand voice, memory and style g… |
+| 2026-11-09 01:37:23 | [network.tier1protocol/tier1](https://github.com/Tier-1-Protocol/tier1-protocol-connector) | Tier 1 Protocol | 1.0.0 | Search files while they stay encrypted: the problem DARPA chased for a decade.… |
+| 2026-11-09 01:42:23 | [io.github.fernandoguiraud16-coder/google-keyword-research](https://github.com/fernandoguiraud16-coder/data-tools) | Google Keyword Research | 1.0.0 | Keyword ideas from Google Autocomplete, People also ask and related searches, w… |
+| 2026-11-09 01:44:02 | com.theorem-labs.praxis/praxis | Theorem Praxis | 0.4.0 | Project tracker for AI agents and teams: file, claim, update and hand off ticke… |
+| 2026-11-09 01:51:30 | io.github.diyaluo/image-toolkit-mcp |  | 0.1.0 | Local batch image MCP: resize, convert, compress, watermark, strip EXIF. Offlin… |
+| 2026-11-09 01:55:47 | [com.usegeekthing/ugt](https://github.com/auscaster/ugt) | UGT: Use the Geek Thing | 0.3.0 | Get open-source GitHub projects running on your computer, with your AI app |
+| 2026-11-09 01:56:02 | [io.github.Rahulk644/appflowy-mcp-server](https://github.com/Rahulk644/Appflowy-MCP-Server) | AppFlowy Workspace MCP | 2.0.0 | Edit AppFlowy documents and typed rows, search workspaces, and import/export Ma… |
+| 2026-11-09 01:56:09 | org.agent-commons/agent-commons | Agent Commons | 0.1.0 | Verified playbooks for websites: check before your agent browses, report how it… |
+| 2026-11-09 02:03:53 | com.postthisdeal/handpicked-deals | PostThisDeal Handpicked Deals | 1.0.0 | Live deals picked by PostThisDeal's team: search, latest, details and status. N… |
+| 2026-11-09 02:03:53 | com.postthisdeal/deal-evidence | PostThisDeal Deal Evidence | 1.2.0 | Deals with their evidence: price, conditions, eligibility, freshness and whethe… |
+| 2026-11-09 02:03:53 | com.postthisdeal/site-content | PostThisDeal Guides and Pages | 1.1.2 | PostThisDeal pages and guides prepared for quoting, each with its facts, dates… |
+| 2026-11-09 02:06:46 | com.comedybuff/catalog | Comedy Buff | 0.2.0 | Discover standup comedians, specials, tracks and videos with source-linked tran… |
 
 ## Data source
 

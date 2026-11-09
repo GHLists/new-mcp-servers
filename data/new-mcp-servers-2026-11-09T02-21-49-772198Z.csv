@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-11-09T01:24:00.313167Z,io.github.RafaCoelho33/web3-systemic-agent,Web3 Systemic Agent,1.0.0,https://github.com/RafaCoelho33/web3_systemic-agent,streamable-http,"Web3 security, DEX honeypot detector, and DAO governance auditor for Base & EVM chains."
+2026-11-09T01:26:28.782348Z,io.github.oon4am-eng/hold,HOLD! Korean stock ownership,1.0.0,https://github.com/oon4am-eng/hold-mcp,streamable-http,"Who owns Korean listed stocks: 5% holders, insiders, NPS and average cost, from DART filings."
+2026-11-09T01:27:07.02242Z,io.github.renatoctti/brasilapi-mcp,"BrasilAPI (CNPJ, CEP, validation, holidays)",0.1.0,https://github.com/renatoctti/brasilapi-mcp,,"Brazilian public data via BrasilAPI: CNPJ and partners, CEP, CNPJ/CPF validation, holidays"
+2026-11-09T01:30:15.843043Z,io.github.ruvnet/ruflo,Ruflo,3.73.0,https://github.com/ruvnet/ruflo,,"Agent teams, swarms, memory and hooks for Claude Code and Codex, served over MCP."
+2026-11-09T01:34:18.58015Z,io.github.Nativ-Technologies/nativ,,0.5.0,https://github.com/Nativ-Technologies/nativ-mcp,streamable-http,"Localize text, images, audio and subtitles with brand voice, memory and style guides."
+2026-11-09T01:37:23.832297Z,network.tier1protocol/tier1,Tier 1 Protocol,1.0.0,https://github.com/Tier-1-Protocol/tier1-protocol-connector,streamable-http,Search files while they stay encrypted: the problem DARPA chased for a decade. Exact quotes back.
+2026-11-09T01:42:23.351069Z,io.github.fernandoguiraud16-coder/google-keyword-research,Google Keyword Research,1.0.0,https://github.com/fernandoguiraud16-coder/data-tools,streamable-http,"Keyword ideas from Google Autocomplete, People also ask and related searches, with search intent."
+2026-11-09T01:44:02.069691Z,com.theorem-labs.praxis/praxis,Theorem Praxis,0.4.0,,streamable-http,"Project tracker for AI agents and teams: file, claim, update and hand off tickets over MCP."
+2026-11-09T01:51:30.147161Z,io.github.diyaluo/image-toolkit-mcp,,0.1.0,,,"Local batch image MCP: resize, convert, compress, watermark, strip EXIF. Offline, no API key."
+2026-11-09T01:55:47.777972Z,com.usegeekthing/ugt,UGT: Use the Geek Thing,0.3.0,https://github.com/auscaster/ugt,streamable-http,"Get open-source GitHub projects running on your computer, with your AI app"
+2026-11-09T01:56:02.443111Z,io.github.Rahulk644/appflowy-mcp-server,AppFlowy Workspace MCP,2.0.0,https://github.com/Rahulk644/Appflowy-MCP-Server,,"Edit AppFlowy documents and typed rows, search workspaces, and import/export Markdown."
+2026-11-09T01:56:09.735406Z,org.agent-commons/agent-commons,Agent Commons,0.1.0,,streamable-http,"Verified playbooks for websites: check before your agent browses, report how it went after."
+2026-11-09T02:03:53.231251Z,com.postthisdeal/handpicked-deals,PostThisDeal Handpicked Deals,1.0.0,,streamable-http,"Live deals picked by PostThisDeal's team: search, latest, details and status. No sign-in."
+2026-11-09T02:03:53.432769Z,com.postthisdeal/deal-evidence,PostThisDeal Deal Evidence,1.2.0,,streamable-http,"Deals with their evidence: price, conditions, eligibility, freshness and whether it was checked."
+2026-11-09T02:03:53.623784Z,com.postthisdeal/site-content,PostThisDeal Guides and Pages,1.1.2,,streamable-http,"PostThisDeal pages and guides prepared for quoting, each with its facts, dates and citation."
+2026-11-09T02:06:46.2216Z,com.comedybuff/catalog,Comedy Buff,0.2.0,,streamable-http,"Discover standup comedians, specials, tracks and videos with source-linked transcript passages."
