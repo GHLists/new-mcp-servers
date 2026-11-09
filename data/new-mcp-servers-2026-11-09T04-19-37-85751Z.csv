@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-11-09T03:24:05.289575Z,io.github.ShafiCodes25/coreforge-books,CoreForge Books,1.0.1,https://github.com/ShafiCodes25/coreforge-mcp-servers,,"CoreForge book catalogue and book-data tools: lookup, dossier search, verdicts. x402 pay-per-call."
+2026-11-09T03:24:06.315021Z,io.github.ShafiCodes25/coreforge-trading,CoreForge Trading,1.0.1,https://github.com/ShafiCodes25/coreforge-mcp-servers,,"CoreForge trading analytics: signals, backtests, risk, Greeks, token data. x402 pay-per-call."
+2026-11-09T03:24:07.429723Z,io.github.ShafiCodes25/coreforge-media,CoreForge Media,1.0.1,https://github.com/ShafiCodes25/coreforge-mcp-servers,,"CoreForge media tools: speech-to-text, document parsing, translation, embeddings. x402 pay-per-call."
+2026-11-09T03:24:08.601809Z,io.github.ShafiCodes25/coreforge-search,CoreForge Search,1.0.1,https://github.com/ShafiCodes25/coreforge-mcp-servers,,CoreForge search: live web search and social search over recent X posts. x402 pay-per-call.
+2026-11-09T03:25:35.486168Z,com.fedsalary/official-pay,FedSalary: official pay data,1.0.0,,streamable-http,"Official pay statistics for any job and place, offer checks and two-offer comparisons."
+2026-11-09T03:30:11.39367Z,com.lamplightverse/daily-verse,Lamplight Daily Verse,1.0.0,,streamable-http,"Today's Bible verse and any verse lookup in the KJV and World English Bible, word for word."
+2026-11-09T03:39:14.543466Z,com.purebpm/mcp,Pure BPM,0.1.0,,streamable-http,"Make AI Tracks, loops and sound effects, split stems, build drum kits and master songs."
+2026-11-09T03:42:36.295781Z,io.github.Sullycase/who-ai-picks,Who AI Sends Buyers,1.0.0,,streamable-http,Read-only Who AI Sends Buyers boards. Same published scores as the site. No new model runs.
+2026-11-09T03:45:34.151627Z,com.leagueloom/league-loom,League Loom,1.58.0,,streamable-http,"Free fantasy AI for ESPN, Sleeper, Fantrax: football, basketball and hockey in Claude and ChatGPT."
+2026-11-09T03:47:22.367917Z,com.offthefloornurse/nurse-jobs,Off the Floor Nurse Jobs,1.0.0,,streamable-http,"Remote, hybrid and non-bedside RN, LPN and NP jobs from employers' own career sites."
+2026-11-09T03:47:23.455773Z,com.exitticketjobs/teacher-jobs,Exit Ticket Teacher Jobs,1.0.0,,streamable-http,"Jobs for teachers leaving the classroom, read from employers' own career sites."
+2026-11-09T03:47:51.992617Z,com.awardlanes/awardlanes,awardlanes,1.0.0,,streamable-http,USDA award lanes for freight brokers
+2026-11-09T04:00:00.915968Z,io.github.OwenScheuer/paceva-garmin,Paceva for Garmin,0.1.0,https://github.com/OwenScheuer/paceva-garmin-mcp,,"Your own Garmin Connect data: sleep, HRV, Body Battery and activities. Local, read-only."
+2026-11-09T04:10:47.525625Z,so.droply/droply,Droply,1.0.0,,streamable-http,"Publish pages, documents and files as shareable links, and update them without changing the link."
+2026-11-09T04:11:18.841442Z,com.tidewellsoftware/media-transcriber,Audio & Video Transcription (Whisper),1.0.0,,streamable-http,"Whisper transcription of audio, video and podcast feeds, via the Apify actor"
+2026-11-09T04:12:32.039809Z,io.github.consigcody94/fedfinder,FedFinder,1.1.1,,streamable-http,Federal contract research and approved pursuit workflows. Paid FedFinder account and OAuth required.
+2026-11-09T04:16:40.767442Z,ai.aiadvisorlab/teamops,AI Advisor Lab — Team Operations,1.0.2,,streamable-http,300+ curated advisory teams of 4-16 experts that deliberate and return source-tagged guidance.
