@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-11-09T08:21:11.41667Z,io.github.mubado/deskpulse,DeskPulse,1.4.0,,streamable-http,"Paid MCP for Kraken + Hyperliquid book depth, funding and basis. x402 USDC on Base."
+2026-11-09T08:38:53.102317Z,io.github.balrok12/choiflix,Choiflix MCP & Data Hub,3.0.1,,streamable-http,"Korean policy & finance facts with primary-source citations (laws, gov notices) for AI agents"
+2026-11-09T08:43:33.909667Z,io.github.colliedesk/colliedesk,Colliedesk,1.0.1,https://github.com/colliedesk/colliedesk,streamable-http; streamable-http,"Work a Colliedesk helpdesk inbox: find, triage and answer customer conversations."
+2026-11-09T08:47:25.782167Z,com.nexatabs/nexatabs,"NexaTabs - Tab Manager, Workspaces & Session Saver",1.0.0,https://github.com/nebulatech-in/nexatabs-docs,streamable-http,"Official read-only facts on NexaTabs, the Chrome and Edge tab manager: features, Answers, version."
+2026-11-09T08:48:49.779133Z,io.github.Jevin0201/bulu-browser,Bulu Browser,1.0.1,,,"Drive a real Chrome via CDP + Playwright: snapshots, click/type, screenshots, network inspection."
+2026-11-09T08:51:48.458029Z,io.github.storylinkpro/storylink-mcp,Storylink,1.0.1,https://github.com/storylinkpro/storylink-mcp,streamable-http,"Ask about your Instagram stories, posts and reels in Storylink: views, reach and top content."
+2026-11-09T08:54:17.710712Z,app.unlimitedmessaging/mcp,Unlimited Messaging,1.0.0,,streamable-http,"Send and read WhatsApp, email and SMS from your own number, mailbox and Android phone. Free plan."
+2026-11-09T08:54:52.816542Z,io.github.drolosoft/go-docs-mcp,go-docs-mcp,1.4.1,https://github.com/drolosoft/go-docs-mcp,,"Lets your AI read PDF, Office files, EPUB, HTML, Jupyter and images, with OCR, search and paging."
+2026-11-09T08:56:32.970347Z,io.github.colincooperio/garmin-mcp,,1.2.1,https://github.com/colincooperio/garmin-mcp,,"Ask your AI assistant about your Garmin training, sleep and recovery data"
+2026-11-09T08:58:12.896051Z,io.veriphone/mcp,Veriphone,0.1.0,,streamable-http,"Phone number validation and carrier lookup for 243 countries. 1,000 free lookups a month."
+2026-11-09T08:58:25.368186Z,nl.prijsprofeet/prijsprofeet-de,PrijsProfeet Deutschland,1.2.0,,streamable-http,"German supermarket deals and regular prices (Aldi, Lidl, Kaufland, Penny...): where it's cheapest."
+2026-11-09T09:00:22.703619Z,com.vietnis.mcp/cloud-cost,Vietnis Cloud Cost Calculator,1.0.0,,streamable-http,"Cloud cost estimates by region: Google Workspace, Microsoft 365, Azure, Google Cloud (USD/VND)."
+2026-11-09T09:00:48.39093Z,design.alberti/alberti,Alberti,1.0.0,https://github.com/superherounite/alberti-claude,streamable-http,"Design UI in Alberti: screens, 3D layers, prototypes and export to Unity, Unreal, Omniverse."
+2026-11-09T09:06:46.245914Z,com.cribalo/criba,criba: who is calling your MCP server,0.1.0,,streamable-http,Identify who calls your MCP server or A2A agent: declared identity vs observed behaviour.
+2026-11-09T09:13:15.135445Z,eu.cookierisk/quickscan,CookieRisk Quickscan,1.0.0,,streamable-http,Scan a public homepage for cookies and tracking observed before consent interaction.
+2026-11-09T09:13:47.32541Z,app.wieldr/radar,Wieldr game radar,1.2.0,,streamable-http,"Hourly radar of Roblox, Steam, Fortnite, iOS and itch.io games: rising games, niches and gaps."
+2026-11-09T09:14:41.230742Z,ai.strategic-innovations/apis,Strategic Innovations APIs,1.1.0,,streamable-http,"Fetch web pages as Markdown, judged real or not first, and check sites for AI-agent readiness."
+2026-11-09T09:15:15.934959Z,ai.getmontage/montage,Montage,1.0.0,,streamable-http,"AI video editor: bring your footage, describe the video, get it edited and exported."
+2026-11-09T09:16:01.888874Z,com.dzgapp/mint,Mint for Mac,1.2.0,https://github.com/dzg-studio/mcp-server-mint,,"Keeps disk and memory healthy for you and the AI agents working on your Mac, through Mint."
+2026-11-09T09:17:16.862703Z,ai.homouniversalis/diamond-verifier,Homo Universalis — HU-DIAMOND v1.1 Cryptographic Verifier & AST Kintsugi MCP Server,1.5.2,https://github.com/David-Porto-Baraldes/Viveka_Web,streamable-http,"Zero-auth Cryptographic Notary & AST Verifier: Reed-Muller RM(1,3), L1..L7, RFC 6962 & ES256 JWS."
