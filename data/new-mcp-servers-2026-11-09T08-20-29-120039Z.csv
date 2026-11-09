@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-11-09T07:23:52.322157Z,com.insightbazi/bazi,InsightBaZi,1.0.0,,streamable-http,"BaZi (Four Pillars) calculation from birth date, time, and location via public remote MCP."
+2026-11-09T07:24:16.122734Z,com.wcspoints/wsdc-points,WCS Points,1.0.0,https://github.com/akarakotov/wsdc-mcp,streamable-http,"West Coast Swing WSDC points registry: dancer points, divisions, level-ups, event results and rules."
+2026-11-09T07:25:36.808105Z,com.beyadcha/rights,BeYadCha Israeli medical rights,1.0.0,,streamable-http,"Hebrew knowledge base on Israeli medical and disability rights, with official sources."
+2026-11-09T07:36:13.719484Z,io.github.ostraagent/mcp,,0.1.21,https://github.com/ostraagent/ostra-robinhood,,"Post-quantum vault for AI agents on Robinhood Chain: pay, earn, swap and hire on Ostrapad in USDG."
+2026-11-09T07:37:49.072915Z,dev.steadysite/steadysite,SteadySite,1.0.0,,streamable-http,"Check SSL certificate and domain expiry for any site, see plans, and get a monitoring sign-up link."
+2026-11-09T07:43:18.410856Z,au.com.airsign/airsign,AirSign,1.0.0,,streamable-http,"Australian e-signatures: draft, prepare and track signing sessions, templates, forms and training."
+2026-11-09T07:45:35.174573Z,net.eddish/invoicing,Eddish Invoicing,0.35.5,,streamable-http,"Track time and expenses, approve timesheets, and draft and send invoices in Eddish."
+2026-11-09T07:49:55.502135Z,com.vertodigital/mcp,VertoDigital MCP Server,3.2.1,,streamable-http,B2B and consumer services marketing intelligence and lead-capture tools for vertodigital.com.
+2026-11-09T07:54:10.73569Z,io.github.brickfact-com/brickfact,Brickfact LEGO Shopping,1.1.1,,streamable-http,"Find LEGO sets, compare regional retailer offers, and inspect recorded retail price history."
+2026-11-09T07:54:50.636287Z,com.jointhedeal/deals,JoinTheDeal,1.0.0,,streamable-http,"Search Southern California home deals and group buys. Read-only, no login."
+2026-11-09T07:58:24.683044Z,io.github.KIvanow/spend-brake,Spend Brake capped search,0.3.0,https://github.com/KIvanow/spend-brake,,Web search for agents with hard dollar caps: Tavily and Exa through a budget-enforcing proxy.
+2026-11-09T08:11:09.849171Z,com.ocarrat/trading-statistics,Trading Statistics by Ocarrat,0.5.0,,streamable-http,"Trading journal, options risk checks, position sizing and Monte Carlo analytics for AI assistants."
+2026-11-09T08:14:15.296178Z,com.iquly/iquly,IQuly: Meta Ads for your AI agent,1.1.0,,streamable-http,The simplest way to manage your Meta (Facebook and Instagram) ad accounts with your AI agent.
+2026-11-09T08:14:43.126762Z,com.carvoltlab/carvoltlab,카볼트랩 CarVoltLab,1.0.0,,streamable-http,"Korean used-EV battery guides: SOH, BMS reset traces, fast-charge ratio, cell voltage, warranty."
+2026-11-09T08:16:51.128914Z,finance.heed/mcp,Heed,0.2.0,,streamable-http,"Tax intelligence for lives across borders: residency days, rates, rules and moves, as the member."
