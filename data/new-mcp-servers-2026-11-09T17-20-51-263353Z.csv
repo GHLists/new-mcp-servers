@@ -1,0 +1,80 @@
+created_at,server,title,version,repository,transports,description
+2026-11-09T16:24:11.20736Z,com.emailmovers/mydatahub,MyDataHub,2.0.0,,streamable-http,"UK B2B contact counts, quotes and lists, by Emailmovers"
+2026-11-09T16:24:25.189584Z,com.forevenza.services/linklamp,"Linklamp: Switch swap or repatch visit in Dearborn, MI, under your remote engineer",1.0.0,,streamable-http,Dearborn MI switch swap and repatch visits for MSPs; remote signoff; proposal by email
+2026-11-09T16:25:56.821343Z,io.github.Fetch-Hive/mcp-gateway,mcp-gateway (OpenAPI to MCP),0.11.4,https://github.com/Fetch-Hive/openapi-mcp,,"OpenAPI or local API to MCP server, with a public HTTPS tunnel. Rust CLI, any MCP client."
+2026-11-09T16:26:02.967242Z,io.github.munhq/distil,distil,0.3.5,https://github.com/munhq/distil,,"Context optimization for LLM agents: tool registry, result masking, budgeting, compaction."
+2026-11-09T16:33:00.707086Z,design.regards/mcp,regards.design,1.0.0,,streamable-http,"Search real website sections from hand-picked sites by look, for design references and inspiration."
+2026-11-09T16:36:24.074368Z,io.github.psyseal/psyseal-scan,Psyseal scan,0.3.3,https://github.com/psyseal/psyseal-scan,,"Offline check of your AI agent: heartbeat cost, plaintext keys, planted or bloated memory."
+2026-11-09T16:37:00.556365Z,energy.isol/nepi,(iS)NEPI - National Energy Performance Index,1.3.4,,streamable-http,Screen and compare energy markets with cited (iS)NEPI bands. Requires an active iSolOS subscription.
+2026-11-09T16:37:30.852897Z,com.sweeprice/sweeprice,Sweeprice,1.0.0,,streamable-http,"Competitor prices, Buy Box and recommended prices across Amazon, Cdiscount, ManoMano, Fnac, eBay."
+2026-11-09T16:38:08.197922Z,com.eliteaiempire.tradehouse/tradehouse-mcp,TradeHouse prediction-market data,1.0.0,,streamable-http,"Read-only prediction-market data across Kalshi, Polymarket, Limitless: venues, fees, lookups, stats."
+2026-11-09T16:38:35.303519Z,com.eliteaiempire/access,Empire Edge,1.0.0,,streamable-http,Empire Edge
+2026-11-09T16:38:35.961697Z,com.eliteaiempire/app,Empire Orchestrator,1.0.0,,streamable-http,"Your AI-powered business command center: 16 standalone apps and 15 connectors, 31 total. One platfor"
+2026-11-09T16:38:36.512352Z,com.eliteaiempire/clipwright,Clipwright,1.0.0,,streamable-http,Automated long-form-to-shorts clipping with a rights gate that refuses unlicensed footage. Own conte
+2026-11-09T16:38:37.199422Z,com.eliteaiempire/cloudcostai,CloudCostAI,1.0.0,,streamable-http,CloudCostAI
+2026-11-09T16:38:37.898211Z,com.eliteaiempire/cloudhostai,CloudHostAI,1.0.0,,streamable-http,Managed deployments on your own Hetzner servers.
+2026-11-09T16:38:38.469009Z,com.eliteaiempire/cloudshiftai,CloudShiftAI,1.0.0,,streamable-http,"Plan a move from AWS, GCP or Azure to Hetzner, DigitalOcean or Vultr with a cost report and draft ru"
+2026-11-09T16:38:39.046403Z,com.eliteaiempire/cosmeticpreview-app,CosmeticPreview / CosmeticPro,1.0.0,,streamable-http,Explore a cosmetic simulation on your own photo. Not medical advice. Provider directory opening soon
+2026-11-09T16:38:39.643997Z,com.eliteaiempire/empiregit,EmpireGit,1.0.0,,streamable-http,EmpireGit
+2026-11-09T16:38:40.252272Z,com.eliteaiempire/empirepages,Empire Pages,1.0.0,,streamable-http,Empire Pages
+2026-11-09T16:38:40.88555Z,com.eliteaiempire/glowupai-studio,GlowUpAI,1.0.0,,streamable-http,"GlowUpAI runs a real photo enhancement pipeline — white balance, contrast, saturation, glow, sharpen"
+2026-11-09T16:38:41.670391Z,com.eliteaiempire/holdthewheel,HoldTheWheel,1.0.0,,streamable-http,Plan and approve automation in a shared workspace with spend limits and an audit trail.
+2026-11-09T16:38:42.27206Z,com.eliteaiempire/launchpadai,LaunchpadAI,1.0.0,,streamable-http,LaunchpadAI
+2026-11-09T16:38:42.89951Z,com.eliteaiempire/lifestrategist,Life Strategist,1.0.0,,streamable-http,Clarify a decision or career crossroads with a private strategy conversation. Start with a free 20-m
+2026-11-09T16:38:43.455017Z,com.eliteaiempire/links,linkhub,1.0.0,,streamable-http,Elite AI Empire — All Links | Links
+2026-11-09T16:38:44.067001Z,com.eliteaiempire/loanpilotai,LoanPilotAI,1.0.0,,streamable-http,"LoanPilotAI helps you understand mortgage programs, learn about eligibility requirements, and naviga"
+2026-11-09T16:38:44.711616Z,com.eliteaiempire/lumen,Lumen,1.0.0,,streamable-http,"Lumen is an AI answer engine with a real agentic mode — ask anything and get a cited answer, or swit"
+2026-11-09T16:38:45.379696Z,com.eliteaiempire/newsletterproai,NewsletterProAI,1.0.0,,streamable-http,NewsletterProAI drafts a real newsletter issue from your own notes and sends a real test delivery th
+2026-11-09T16:38:46.658829Z,com.eliteaiempire/ourtools,Our Tools Marketplace,1.0.0,,streamable-http,"Developer tools, agent skills and reusable SaaS components. BugClass Free $0/mo · Bug-Class Team $15"
+2026-11-09T16:38:47.247512Z,com.eliteaiempire/photosafe,PhotoSafe,1.0.0,,streamable-http,"PhotoSafe backs up your photos encrypted on your own device, so nobody — including us — can look at"
+2026-11-09T16:38:47.825749Z,com.eliteaiempire/queryai,QueryAI,1.0.0,,streamable-http,Ask questions of your data in plain English. Free $0/mo · Starter $19/mo · Pro $39/mo · Team $99/mo
+2026-11-09T16:38:48.503721Z,com.eliteaiempire/scrubline,Scrubline,1.0.0,,streamable-http,Scrubline runs a free checklist across every broker we track. Free broker search links with no sign-
+2026-11-09T16:38:49.058487Z,com.eliteaiempire/soccer,Elite Soccer Academy,1.0.0,,streamable-http,"Youth soccer group sessions for ages 4–14 and private training, with online booking."
+2026-11-09T16:38:49.611425Z,com.eliteaiempire/th-api,tradehouse-th-api,1.0.0,,streamable-http,"TradeHouse Trading CRM Signals API. Customer-facing, compliance-hardened signal + prediction-market"
+2026-11-09T16:38:50.21024Z,com.eliteaiempire/th-backtest,tradehouse-th-backtest,1.0.0,,streamable-http,"Plug in YOUR strategy and get a HULK-grade honesty report — deflated-Sharpe, PBO overfit, skew + war"
+2026-11-09T16:38:50.909661Z,com.eliteaiempire/th-datasets,tradehouse-th-datasets,1.0.0,,streamable-http,TradeHouse Datasets + Derived-Analytics API (calibration-as-a-service). Our own derived aggregates a
+2026-11-09T16:39:10.501859Z,io.github.Nero-Engine/listing-location-toolkit,Listing Location Toolkit,0.1.0,https://github.com/Nero-Engine/listing-location-toolkit-mcp,streamable-http,"Location facts for property and business listings: drive times, people within 2 hours, nature."
+2026-11-09T16:39:57.572173Z,ai.denegra.taskflow/taskflow,TaskFlow,1.0.2,,streamable-http,"Shared to-do memory for AI assistants: flows, tasks, inbox, meeting notes. Claim and hand off tasks."
+2026-11-09T16:41:48.32891Z,chat.splitscreen/splitscreen,splitscreen.chat,1.0.0,,streamable-http,Group chat where your agent sits in the room with your friends and their agents.
+2026-11-09T16:42:42.651231Z,so.pipp/pipp,Pipp,1.0.0,,streamable-http,"Customer support, minus the fuss. A shared inbox for small teams, run by you or your agent."
+2026-11-09T16:45:41.017186Z,tech.gitring/gitring,gitring,1.0.0,,streamable-http,"Source control for coding agents: declare an intent, settle overlaps before code, verify each push."
+2026-11-09T16:47:04.346944Z,io.github.2648782102/proofpack,Proofpack,0.3.2,https://github.com/2648782102/proofpack-cli,,"Local, read-only acceptance reports for AI-assisted Git changes, exposed as one MCP tool."
+2026-11-09T16:47:50.496077Z,io.github.FamousMonsterr/zai-coding-plan-mcp,,1.0.1,,,"Z.ai GLM Coding Plan web search, page reading and GitHub repo docs as local MCP tools"
+2026-11-09T16:50:00.880198Z,io.github.psyb0t/talkies,Talkies,0.17.1,https://github.com/psyb0t/docker-talkies,,Self-hosted speech server whose MCP endpoint exposes ASR transcription and file staging tools.
+2026-11-09T16:51:57.972754Z,com.lapviz/mcp,LapViz,1.0.0,,streamable-http,"Your lap timing sessions: lap and sector times, time per corner, progress, setups, leaderboards."
+2026-11-09T16:52:43.249297Z,net.asomobile/asomobile,ASOMobile,0.1.0,,streamable-http,"App Store & Google Play ASO data: keywords, app indexing, competitors, top charts, reviews, ASA."
+2026-11-09T16:56:59.519721Z,app.savedthat/savedthat,"SavedThat (public, no sign-in)",1.1.0,,streamable-http,SavedThat product facts and public transcript excerpts of indexed videos. No sign-in.
+2026-11-09T16:59:52.846928Z,io.github.OmerTurkenits/flownav,,0.2.2,https://github.com/OmerTurkenits/flownav,,"Read-only graph of n8n workflows for AI agents: explain, affected, check, scoped code reads."
+2026-11-09T17:01:17.293716Z,xyz.clearbooks/clearbooks,ClearBooks AI accounting,1.5.3,,streamable-http,"Startup double-entry books: transactions, invoices, bills, payroll, cap table and reports."
+2026-11-09T17:02:18.693343Z,br.com.vinhozinho/vinhozinho,Vinhozinho,1.0.0,,streamable-http,"Brazilian wine guide: 50,000+ labels with ratings and Brazil prices, guides and glossary."
+2026-11-09T17:02:40.372798Z,io.github.devburaq/gmpsignal-mcp-server,GMPSignal 40-Actor Enterprise Intelligence Suite,1.3.0,https://github.com/devburaq/gmpsignal-mcp-n8n-starter-kit,,"40 real-time Apify tools for Crypto, Prediction Markets, B2B Enrichment, KYB, Cyber & R&D."
+2026-11-09T17:04:01.646604Z,com.surveysai/for-google-forms,SurveysAI – Survey Builder for Google Forms,1.0.0,,streamable-http,"Create real Google Forms from plain-text survey questions, in your own Google account."
+2026-11-09T17:04:02.373569Z,com.surveysai/transkripce,Transkripce – Czech audio and video transcription,1.0.0,,streamable-http,"Czech audio/video transcription: upload media, run transcription, get transcript and QA report."
+2026-11-09T17:04:43.423515Z,cz.wbx/sandbox,WBX Sandbox,0.14.21,,streamable-http,"Firecracker microVM sandboxes for AI agents: run code, jobs and batches with per-job cost caps."
+2026-11-09T17:04:50.038506Z,com.nowistay/mcp,Nowistay,1.0.0,,streamable-http,"Vacation rental PMS: bookings, prices, guest messages and cleaning missions for Airbnb hosts"
+2026-11-09T17:05:07.769351Z,io.github.psyb0t/audiolla,Audiolla,2.0.2,https://github.com/psyb0t/docker-audiolla,,"Self-hosted MCP server: audio stems, mastering, MIR analysis, DSP, MIDI, speech tools."
+2026-11-09T17:05:51.746286Z,shop.rekoy/catalog,Rekoy Product Catalog,1.0.0,,streamable-http,"Search Rekoy sports products by name, SKU and use case. Product details and purchase links."
+2026-11-09T17:06:38.920039Z,com.lexvira/legal-research,LexVira,1.0.0,,streamable-http,"Legal research: search case law and legislation, then retrieve sources with citations."
+2026-11-09T17:07:09.682906Z,nl.nltaxcalculator/salary-be,Belgium Salary Calculator,2.0.0,,streamable-http,"Belgium salary 2026: net pay itemised, gross for a target net, employer cost, vs the Netherlands."
+2026-11-09T17:07:10.515197Z,nl.nltaxcalculator/salary-bg,Bulgaria Salary Calculator,2.0.0,,streamable-http,"Bulgaria salary 2026: net pay itemised, gross for a target net, employer cost, vs the Netherlands."
+2026-11-09T17:07:11.4609Z,nl.nltaxcalculator/salary-cn,China Salary Calculator,2.0.0,,streamable-http,"China salary 2026: net pay itemised, gross for a target net, employer cost, vs the Netherlands."
+2026-11-09T17:07:12.457204Z,nl.nltaxcalculator/salary-de,Germany Salary Calculator,2.0.0,,streamable-http,"Germany salary 2026: net pay itemised, gross for a target net, employer cost, vs the Netherlands."
+2026-11-09T17:07:13.416492Z,nl.nltaxcalculator/salary-es,Spain Salary Calculator,2.0.0,,streamable-http,"Spain salary 2026: net pay itemised, gross for a target net, employer cost, vs the Netherlands."
+2026-11-09T17:07:14.349433Z,nl.nltaxcalculator/salary-fr,France Salary Calculator,2.0.0,,streamable-http,"France salary 2026: net pay itemised, gross for a target net, employer cost, vs the Netherlands."
+2026-11-09T17:07:15.325044Z,nl.nltaxcalculator/salary-gb,United Kingdom Salary Calculator,2.0.0,,streamable-http,"United Kingdom 2026: net pay itemised, gross for target net, employer cost, vs NL."
+2026-11-09T17:07:16.252891Z,nl.nltaxcalculator/salary-gr,Greece Salary Calculator,2.0.0,,streamable-http,"Greece salary 2026: net pay itemised, gross for a target net, employer cost, vs the Netherlands."
+2026-11-09T17:07:17.185521Z,nl.nltaxcalculator/salary-id,Indonesia Salary Calculator,2.0.0,,streamable-http,"Indonesia salary 2026: net pay itemised, gross for a target net, employer cost, vs the Netherlands."
+2026-11-09T17:07:18.678525Z,nl.nltaxcalculator/salary-in,India Salary Calculator,2.1.0,,streamable-http,"India 2026-27: full income tax return (old vs new regime), net salary, gross for net, employer cost"
+2026-11-09T17:07:19.468476Z,nl.nltaxcalculator/salary-it,Italy Salary Calculator,2.0.0,,streamable-http,"Italy salary 2026: net pay itemised, gross for a target net, employer cost, vs the Netherlands."
+2026-11-09T17:07:20.694693Z,nl.nltaxcalculator/salary-ma,Morocco Salary Calculator,2.0.0,,streamable-http,"Morocco salary 2026: net pay itemised, gross for a target net, employer cost, vs the Netherlands."
+2026-11-09T17:07:21.618826Z,nl.nltaxcalculator/salary-pl,Poland Salary Calculator,2.0.0,,streamable-http,"Poland salary 2026: net pay itemised, gross for a target net, employer cost, vs the Netherlands."
+2026-11-09T17:07:22.486971Z,nl.nltaxcalculator/salary-ro,Romania Salary Calculator,2.0.0,,streamable-http,"Romania salary 2026: net pay itemised, gross for a target net, employer cost, vs the Netherlands."
+2026-11-09T17:07:23.477307Z,nl.nltaxcalculator/salary-tr,Turkey Salary Calculator,2.0.0,,streamable-http,"Turkey salary 2026: net pay itemised, gross for a target net, employer cost, vs the Netherlands."
+2026-11-09T17:07:24.538013Z,nl.nltaxcalculator/salary-us,United States Salary Calculator,2.0.0,,streamable-http,"United States 2026: net pay itemised, gross for target net, employer cost, vs NL."
+2026-11-09T17:07:28.026889Z,io.github.SemanticDataCharter/sdcreceipt-ts,,4.0.1,https://github.com/SemanticDataCharter/sdcreceipt-ts,,"Verify VSL Settlement Receipts and sign triggers in TypeScript, conforming to sdcreceipt."
+2026-11-09T17:09:50.548932Z,io.github.veto-protocol/mcp,,0.1.1,,,"Agentic checkout for Veto merchants: discover, search, quote, pay, and verify signed receipts."
+2026-11-09T17:15:24.090562Z,com.ottoquest/mcp,OttoQuest,1.0.0,,streamable-http,"Search US used-car listings and market values, look up VINs and recalls, and manage deal alerts."
+2026-11-09T17:15:46.681186Z,io.github.faithdrivencreator/mobile-qa-gate,Mobile Website Test on iPhone & Android for AI Agents,1.0.0,https://github.com/faithdrivencreator/apify-agent-tools,streamable-http,"PASS or FAIL per page per phone with screenshots: sideways scroll, split phone numbers, unreadable t"
+2026-11-09T17:15:46.926407Z,io.github.faithdrivencreator/lighthouse-gate,Lighthouse & Accessibility Audit for AI Agents,1.0.0,https://github.com/faithdrivencreator/apify-agent-tools,streamable-http,"Lighthouse scores, Core Web Vitals and axe accessibility issues, median of 3 runs, PASS/FAIL and top"
+2026-11-09T17:15:47.160398Z,io.github.faithdrivencreator/pdf-to-markdown-tables,PDF to Markdown with Tables for AI Agents,1.0.0,https://github.com/faithdrivencreator/apify-agent-tools,streamable-http,"PDF, Word, PowerPoint and Excel to clean Markdown plus every table as JSON rows, OCR for scans."
+2026-11-09T17:15:47.377396Z,io.github.faithdrivencreator/media-probe,Video Frame Extractor & Media Probe for AI Agents,1.0.0,https://github.com/faithdrivencreator/apify-agent-tools,streamable-http,"ffprobe metadata, frames, scene cuts, contact sheet and loudness from direct video or audio links."
