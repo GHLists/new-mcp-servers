@@ -9,136 +9,204 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 11:19 UTC
+## Latest list — 2026-11-09 12:21 UTC
 
-New MCP servers published between 2026-11-09 10:20 UTC and 2026-11-09 11:19 UTC.
+New MCP servers published between 2026-11-09 11:19 UTC and 2026-11-09 12:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-09T11-19-56-527696Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-09T12-21-29-027382Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-09 10:21:43 | com.zepsell/zepsell | Zepsell | 1.0.0 | Run your Zepsell store from AI: sales, orders, products, stock, customers and d… |
-| 2026-11-09 10:22:32 | [io.scrapfly.mcp/mcp](https://github.com/scrapfly/scrapfly-mcp) |  | 1.5.0 | Scrape any website, extract structured data, and collect web content at scale w… |
-| 2026-11-09 10:31:17 | com.alohafungi/store | Aloha Fungi | 1.0.0 | Functional mushroom shop (PL/EN): live catalog search, recommendations and chec… |
-| 2026-11-09 10:31:37 | com.mapsemble/mapsemble | Mapsemble | 1.0.0 | Build interactive maps for your website from a chat: places, routes, filters, c… |
-| 2026-11-09 10:35:59 | app.usesnippet/snippet | Snippet | 1.0.0 | Manage creator brand deals, sponsorship rates, brand emails, decisions and cont… |
-| 2026-11-09 10:39:06 | [io.github.tombaldwin/pgman](https://github.com/tombaldwin/pgman) | pgman | 0.5.1 | PostgreSQL for coding agents: schema, read-only queries, EXPLAIN, masked dumps,… |
-| 2026-11-09 10:43:00 | [dev.cotlet/fieldedge](https://github.com/cotlet-connect/fieldedge-mcp) | FieldEdge by Cotlet | 1.0.0 | Work orders, dispatch, customers and invoices in FieldEdge. |
-| 2026-11-09 10:43:18 | com.truetravelcost/trip-cost | TrueTravelCost | 1.0.0 | Estimate what a car trip really costs: fuel, servicing, tyres, tolls and owners… |
-| 2026-11-09 10:43:22 | [dev.cotlet/meetup](https://github.com/cotlet-connect/meetup-mcp) | Meetup by Cotlet | 1.0.0 | Events, RSVPs and member messages without Meetup Pro. |
-| 2026-11-09 10:43:44 | [dev.cotlet/medium](https://github.com/cotlet-connect/medium-mcp) | Medium by Cotlet | 1.0.0 | Publish, edit and track stats for your Medium posts. |
-| 2026-11-09 10:44:06 | [dev.cotlet/riverside](https://github.com/cotlet-connect/riverside-mcp) | Riverside by Cotlet | 1.0.0 | Studios, guest invites and recordings on Pro and Standard. |
-| 2026-11-09 10:44:28 | dev.cotlet/dribbble | Dribbble by Cotlet | 1.0.0 | Messages, Pro analytics and engagement for designers. |
-| 2026-11-09 10:44:47 | com.lstuvi/tuvi | LSTuvi | 1.0.0 | Vietnamese Tử Vi charts, lunar calendar, good-day finder and age compatibility.… |
-| 2026-11-09 10:44:51 | [dev.cotlet/soundcloud](https://github.com/cotletdev/soundcloud-api-mcp-server) | SoundCloud by Cotlet | 1.0.0 | Tracks, comments, messages and play counts of your SoundCloud profile, read by… |
-| 2026-11-09 10:45:13 | dev.cotlet/bandsintown | Bandsintown by Cotlet | 1.0.0 | Tour dates, fan messages and stats for your Bandsintown artist page. |
-| 2026-11-09 10:45:35 | dev.cotlet/patreon | Patreon by Cotlet | 1.0.0 | Posts, patron messages and members for your Patreon page. |
-| 2026-11-09 10:45:57 | dev.cotlet/bandcamp | Bandcamp by Cotlet | 1.0.0 | Sales, merch orders, releases and fan messages for your Bandcamp page. |
-| 2026-11-09 10:46:19 | [dev.cotlet/quora](https://github.com/cotletdev/quora-api-mcp-server) | Quora by Cotlet | 1.0.0 | Search questions, post answers and run your Quora Spaces. |
-| 2026-11-09 10:46:41 | dev.cotlet/libsyn | Libsyn by Cotlet | 1.0.0 | Episodes, scheduling and stats for your Libsyn podcast. |
-| 2026-11-09 10:47:03 | dev.cotlet/dice | DICE by Cotlet | 1.0.0 | Events, ticket tiers, sales and guest lists for DICE promoters. |
-| 2026-11-09 10:47:25 | dev.cotlet/whova | Whova by Cotlet | 1.0.0 | Agenda, attendees and announcements for your Whova event. |
-| 2026-11-09 10:47:47 | dev.cotlet/signupgenius | SignUpGenius by Cotlet | 1.0.0 | Create sign-ups, manage slots and message participants on SignUpGenius. |
-| 2026-11-09 10:48:09 | dev.cotlet/paperless-post | Paperless Post by Cotlet | 1.0.0 | Guest lists, RSVPs and messages for Paperless Post events. |
-| 2026-11-09 10:48:33 | dev.cotlet/joy | Joy by Cotlet | 1.0.0 | Guest list, RSVPs and registry for your Joy wedding. |
-| 2026-11-09 10:48:55 | dev.cotlet/anilist | AniList by Cotlet | 1.0.0 | Your AniList anime and manga lists, ratings and activity, managed by your agent. |
-| 2026-11-09 10:49:17 | dev.cotlet/billetto | Billetto by Cotlet | 1.0.0 | Refund tickets, resend PDFs, send guest lists and manage orders in Billetto. |
-| 2026-11-09 10:49:39 | dev.cotlet/bloom | Bloom by Cotlet | 1.0.0 | Leads, projects, invoices and contracts in Bloom, the CRM for photographers and… |
-| 2026-11-09 10:50:01 | dev.cotlet/bloomerang | Bloomerang by Cotlet | 1.0.0 | Donors, gifts, interactions and duplicates in your Bloomerang CRM. |
-| 2026-11-09 10:50:23 | dev.cotlet/capcut | CapCut by Cotlet | 1.0.0 | Drafts, exports, captions, sharing and team spaces in CapCut. |
-| 2026-11-09 10:50:45 | dev.cotlet/discogs | Discogs by Cotlet | 1.0.0 | Collection, wantlist, listings and orders in your Discogs account. |
-| 2026-11-09 10:51:07 | dev.cotlet/discord | Discord by Cotlet | 1.0.0 | Read, search and post in your Discord servers and DMs as yourself. |
-| 2026-11-09 10:51:29 | [dev.cotlet/distrokid](https://github.com/cotlet-connect/distrokid-mcp) | DistroKid by Cotlet | 1.0.0 | Releases, earnings, stats and splits from your DistroKid account. |
-| 2026-11-09 10:51:51 | dev.cotlet/donorperfect | DonorPerfect by Cotlet | 1.0.0 | Donors, gifts, pledges and thank-yous in DonorPerfect, worked by your agent. |
-| 2026-11-09 10:52:13 | dev.cotlet/eventbrite | Eventbrite by Cotlet | 1.0.0 | Events, orders, attendees, emails and refunds for your Eventbrite account. |
-| 2026-11-09 10:52:35 | dev.cotlet/flickr | Flickr by Cotlet | 1.0.0 | Photos, albums, tags and comments in your Flickr, worked by your agent. |
-| 2026-11-09 10:52:57 | dev.cotlet/ghost | Ghost by Cotlet | 1.0.0 | Posts, members, newsletters and tiers in your Ghost site, worked by your agent. |
-| 2026-11-09 10:53:19 | dev.cotlet/humanitix | Humanitix by Cotlet | 1.0.0 | Refund tickets, issue comps, email buyers and make discount codes in Humanitix. |
-| 2026-11-09 10:53:44 | dev.cotlet/midjourney | Midjourney by Cotlet | 1.0.0 | Generate, vary, animate and organize Midjourney images and videos. |
-| 2026-11-09 10:54:06 | [dev.cotlet/photoshelter](https://github.com/cotlet-connect/photoshelter-mcp) | PhotoShelter by Cotlet | 1.0.0 | Galleries, image library and sharing in PhotoShelter. |
-| 2026-11-09 10:54:28 | dev.cotlet/planning-center | Planning Center by Cotlet | 1.0.0 | Volunteer scheduling, workflow cards, profile notes and first-timers for your c… |
-| 2026-11-09 10:54:50 | dev.cotlet/plex | Plex by Cotlet | 1.0.0 | Libraries, Watchlist, playlists, watched state and library access for Plex. |
-| 2026-11-09 10:55:12 | dev.cotlet/printful | Printful by Cotlet | 1.0.0 | Orders, products, mockups and shipping in your Printful account, worked by your… |
-| 2026-11-09 10:55:34 | dev.cotlet/printify | Printify by Cotlet | 1.0.0 | Products, orders and artwork in your Printify shop, worked by your agent. |
-| 2026-11-09 10:55:55 | dev.cotlet/redbubble | Redbubble by Cotlet | 1.0.0 | Designs, tags, products, sales and earnings for your Redbubble shop. |
-| 2026-11-09 10:56:18 | [dev.cotlet/shootproof](https://github.com/cotlet-connect/shootproof-mcp) | ShootProof by Cotlet | 1.0.0 | Client galleries, orders, contracts and invoices in ShootProof. |
-| 2026-11-09 10:56:32 | [com.denkops/denkops](https://github.com/DenkOpsAI/denkops-mcp) | DenkOps | 1.0.0 | Deploy APIs, MCP servers and scheduled jobs on managed EU hosting. Sign in with… |
-| 2026-11-09 10:56:39 | dev.cotlet/skiddle | Skiddle by Cotlet | 1.0.0 | Send guestlist tickets, refund orders and manage tickets in Skiddle. |
-| 2026-11-09 10:57:01 | dev.cotlet/sleeper | Sleeper by Cotlet | 1.0.0 | Set lineups, claim waivers, answer trades and read your leagues. |
-| 2026-11-09 10:57:24 | [dev.cotlet/smugmug](https://github.com/cotlet-connect/smugmug-mcp) | SmugMug by Cotlet | 1.0.0 | Galleries, uploads, sharing and captions in your SmugMug account. |
-| 2026-11-09 10:57:46 | dev.cotlet/spotify | Spotify by Cotlet | 1.0.0 | Playlists, Liked Songs and search in your Spotify, worked by your agent. |
-| 2026-11-09 10:58:08 | [dev.cotlet/streamelements](https://github.com/cotlet-connect/streamelements-mcp) | StreamElements by Cotlet | 1.0.0 | Chat commands, timers, store, tips and points, worked by your agent. |
-| 2026-11-09 10:58:30 | dev.cotlet/studio-ninja | Studio Ninja by Cotlet | 1.0.0 | Leads, jobs, clients, invoices and contracts in Studio Ninja photography studio… |
-| 2026-11-09 10:58:54 | dev.cotlet/tumblr | Tumblr by Cotlet | 1.0.0 | Posts, queue and asks on your Tumblr blogs, worked by your agent. |
-| 2026-11-09 10:59:16 | dev.cotlet/vimeo | Vimeo by Cotlet | 1.0.0 | Captions, folders, showcases and stats for your Vimeo videos. |
-| 2026-11-09 10:59:38 | dev.cotlet/weezevent | Weezevent by Cotlet | 1.0.0 | Orders, attendees, discount codes, invitations and refund requests for Weezeven… |
-| 2026-11-09 11:00:00 | dev.cotlet/wild-apricot | Wild Apricot by Cotlet | 1.0.0 | Applications, contacts, events, emails and payments in your Wild Apricot admin. |
-| 2026-11-09 11:00:22 | [dev.cotlet/udemy](https://github.com/cotlet-connect/udemy-mcp) | Udemy by Cotlet | 1.0.0 | Coupons, course updates, announcements and revenue for instructors. |
-| 2026-11-09 11:00:45 | dev.cotlet/teachable | Teachable by Cotlet | 1.0.0 | Course content, coupons, emails and comments on any plan. |
-| 2026-11-09 11:00:59 | [com.skillmd/skillmd](https://github.com/skillmds/skillmd) |  | 1.3.7 | Search, fetch, lint, and install Agent Skills (SKILL.md) from the SkillMD regis… |
-| 2026-11-09 11:01:07 | dev.cotlet/thrivecart | ThriveCart by Cotlet | 1.0.0 | Products, checkouts, refunds and affiliates for sellers. |
-| 2026-11-09 11:01:29 | dev.cotlet/payhip | Payhip by Cotlet | 1.0.0 | Products, orders, coupons, sales stats and buyer tickets for Payhip sellers. |
-| 2026-11-09 11:01:51 | dev.cotlet/uscreen | Uscreen by Cotlet | 1.0.0 | Videos, collections, live events and analytics for creators. |
-| 2026-11-09 11:02:13 | dev.cotlet/systeme-io | Systeme.io by Cotlet | 1.0.0 | Funnels, email campaigns and sales reports for marketers. |
-| 2026-11-09 11:02:35 | dev.cotlet/teachers-pay-teachers | Teachers Pay Teachers by Cotlet | 1.0.0 | Products, prices and sales reports for TPT sellers. |
-| 2026-11-09 11:02:38 | io.github.rdimitrov/gateway-validation-20261109 |  | 0.0.1 | Temporary MCP registry gateway migration validation fixture. Removed after veri… |
-| 2026-11-09 11:02:57 | dev.cotlet/absorb-lms | Absorb LMS by Cotlet | 1.0.0 | Enrollments, approvals, overdue learners and users in Absorb LMS. |
-| 2026-11-09 11:03:19 | dev.cotlet/ispring | iSpring Learn (iSpring LMS) by Cotlet | 1.0.0 | Enroll learners, manage users and read progress in iSpring Learn. |
-| 2026-11-09 11:03:41 | dev.cotlet/learnupon | LearnUpon by Cotlet | 1.0.0 | Invite learners, manage groups and enroll them on courses in LearnUpon. |
-| 2026-11-09 11:04:05 | dev.cotlet/remnote | RemNote by Cotlet | 1.0.0 | Notes and flashcards in RemNote, worked by your agent. |
-| 2026-11-09 11:04:27 | dev.cotlet/thought-industries | Thought Industries by Cotlet | 1.0.0 | Learners, enrollments, waitlists and completion reports for your Thought Indust… |
-| 2026-11-09 11:04:49 | dev.cotlet/trainual | Trainual by Cotlet | 1.0.0 | Subjects, topics, steps and assignments in your Trainual, built by your agent. |
-| 2026-11-09 11:05:21 | dev.cotlet/doorloop | DoorLoop by Cotlet | 1.0.0 | Tenants, leases, rent charges and payments for landlords. |
-| 2026-11-09 11:05:43 | dev.cotlet/peerspace | Peerspace by Cotlet | 1.0.0 | Inquiries, bookings and listings for your Peerspace venue. |
-| 2026-11-09 11:06:05 | dev.cotlet/rently | Rently by Cotlet | 1.0.0 | Tours, prospects and listings in your Rently self-touring account. |
-| 2026-11-09 11:06:23 | [io.github.Siddhant-K-code/agent-trace](https://github.com/Siddhant-K-code/agent-trace) | agent-strace | 0.105.0 | Query recorded AI agent sessions: events, summaries, diffs, evidence health, sk… |
-| 2026-11-09 11:06:27 | dev.cotlet/hemnet | Hemnet by Cotlet | 1.0.0 | Listings, sold prices, saved homes and searches for Hemnet buyers. |
-| 2026-11-09 11:06:41 | [com.1099policy/mcp](https://github.com/1099policy/mcp-server) | 1099Policy | 1.0.1 | Verify, quote and track contractor insurance in your 1099Policy account. |
-| 2026-11-09 11:06:49 | dev.cotlet/property-finder | Property Finder by Cotlet | 1.0.0 | Listings, leads and credits in your Property Finder broker account. |
-| 2026-11-09 11:07:11 | dev.cotlet/bayut | Bayut by Cotlet | 1.0.0 | Listings, leads and performance for Bayut agents. |
-| 2026-11-09 11:07:29 | plus.vfx/studio | VFX Plus | 1.0.0 | Film production: projects, shots, scripts, and picture and video jobs priced be… |
-| 2026-11-09 11:07:33 | dev.cotlet/immobiliare | Immobiliare.it by Cotlet | 1.0.0 | Your listings, messages and visit requests on Immobiliare.it. |
-| 2026-11-09 11:07:55 | dev.cotlet/appfolio | AppFolio by Cotlet | 1.0.0 | Work orders, vendors, tenant ledgers and reports in your AppFolio account. |
-| 2026-11-09 11:08:17 | dev.cotlet/avantio | Avantio by Cotlet | 1.0.0 | Bookings, calendars, rates, guest messages and tasks in Avantio. |
-| 2026-11-09 11:08:39 | dev.cotlet/breezeway | Breezeway by Cotlet | 1.0.0 | Create, assign, comment on and approve Breezeway property tasks. |
-| 2026-11-09 11:09:00 | dev.cotlet/buildium | Buildium by Cotlet | 1.0.0 | Rent payments, balances, tasks and resident texts in your Buildium account. |
-| 2026-11-09 11:09:25 | dev.cotlet/resman | ResMan by Cotlet | 1.0.0 | Work orders, units, leases and ledgers from your ResMan account. |
-| 2026-11-09 11:09:41 | [io.github.aj-ua/wp-headless-mcp](https://github.com/aj-ua/wp-headless-mcp) | WordPress Headless | 1.0.0 | Read WordPress content, ACF fields, and Yoast SEO data, and safely edit drafts. |
-| 2026-11-09 11:09:47 | dev.cotlet/vaultre | VaultRE by Cotlet | 1.0.0 | Enquiries, contacts, properties, viewings and notes in your VaultRE CRM. |
-| 2026-11-09 11:09:57 | [io.github.aibitious/agent404](https://github.com/aibitious/ai-micropayment-network) | AIBITIOUS 404 - CVE Evidence | 0.1.0 | Free NIST NVD CVE evidence lookup and opt-in public missing-information reports… |
-| 2026-11-09 11:10:09 | dev.cotlet/yardi | Yardi by Cotlet | 1.0.0 | Tenants, ledgers, work orders and tenant texts in Yardi Breeze. |
-| 2026-11-09 11:10:31 | [dev.cotlet/faire](https://github.com/cotlet-connect/faire-mcp) | Faire by Cotlet | 1.0.0 | Orders, inventory, reorders and messages for wholesale brands. |
-| 2026-11-09 11:10:53 | dev.cotlet/vagaro | Vagaro by Cotlet | 1.0.0 | Book customers, read the calendar and cancel appointments across locations. |
-| 2026-11-09 11:11:02 | [domains.unique/mcp-server](https://github.com/UniqueDomains/mcp-server) | Unique Domains | 0.1.1 | Domain names, words, TLDs, registrar prices, the domain market, trends and the… |
-| 2026-11-09 11:11:15 | dev.cotlet/buildertrend | Buildertrend by Cotlet | 1.0.0 | Schedules, daily logs, change orders and selections for builders. |
-| 2026-11-09 11:11:19 | [io.github.DylanCourtney584/slinghook](https://github.com/DylanCourtney584/slinghook-cli) | SlingHook | 0.5.1 | Inspect, debug and replay captured webhooks (Stripe, GitHub, Shopify) from your… |
-| 2026-11-09 11:11:37 | dev.cotlet/workiz | Workiz by Cotlet | 1.0.0 | Jobs, scheduling, invoices and payments for field service. |
-| 2026-11-09 11:11:59 | [dev.cotlet/glossgenius](https://github.com/cotlet-connect/glossgenius-mcp) | GlossGenius by Cotlet | 1.0.0 | Appointments, clients, waitlist and sales for salon owners. |
-| 2026-11-09 11:12:21 | dev.cotlet/nextdoor | Nextdoor by Cotlet | 1.0.0 | Posts, comments and recommendations for your Nextdoor business page. |
-| 2026-11-09 11:12:27 | org.evebrief.oracle/risk-check | EveBrief Risk Oracle (ERO) | 1.0.0 | Rug-pull risk check for EVM addresses. Pay per call via x402 with RLUSD on XRPL… |
-| 2026-11-09 11:12:43 | dev.cotlet/acculynx | AccuLynx by Cotlet | 1.0.0 | Jobs, contacts, photos and estimates in your AccuLynx account. |
-| 2026-11-09 11:13:04 | dev.cotlet/thumbtack | Thumbtack by Cotlet | 1.0.0 | Leads, messages, quotes and reviews for your Thumbtack pro profile. |
-| 2026-11-09 11:13:26 | dev.cotlet/setmore | Setmore by Cotlet | 1.0.0 | Bookings, customers and staff calendars in your Setmore account. |
-| 2026-11-09 11:13:48 | dev.cotlet/service-fusion | Service Fusion by Cotlet | 1.0.0 | Jobs, customers, estimates and invoices in your Service Fusion account. |
-| 2026-11-09 11:14:10 | [dev.cotlet/mangomint](https://github.com/cotlet-connect/mangomint-mcp) | Mangomint by Cotlet | 1.0.0 | Appointments, clients and sales for your Mangomint salon or spa. |
-| 2026-11-09 11:14:35 | dev.cotlet/mariana-tek | Mariana Tek by Cotlet | 1.0.0 | Classes, reservations and customers for your Mariana Tek studio. |
-| 2026-11-09 11:14:57 | dev.cotlet/meevo | Meevo by Cotlet | 1.0.0 | Appointments, clients and memberships in your Meevo salon. |
-| 2026-11-09 11:14:59 | [io.github.thdelmas/offweb](https://github.com/thdelmas/offweb) | offweb: gemini, gopher and ipfs fetch f… | 0.2.0 | Fetch gemini://, gopher:// and ipfs:// URLs for agents. Hosted, signed receipt,… |
-| 2026-11-09 11:15:20 | net.bramvia/business-central | Bramvia: Business Central & Dynamics NAV | 1.1.0 | Dynamics 365 Business Central & NAV: migration cost, NAV end of support, SII/Ve… |
-| 2026-11-09 11:15:24 | dev.cotlet/marketsharp | MarketSharp by Cotlet | 1.0.0 | Leads, appointments and jobs in your MarketSharp contractor CRM. |
-| 2026-11-09 11:15:46 | dev.cotlet/daysmart | DaySmart by Cotlet | 1.0.0 | Appointments, clients, pets and sales in DaySmart Salon or Pet. |
-| 2026-11-09 11:15:48 | [sk.nakus/unit-price](https://github.com/UMBRAXON/nakus-mcp) | NaKus unit price | 1.0.0 | Slovak unit prices (€/piece, €/kg…) via nakus.sk buy_url — no Heureka. |
-| 2026-11-09 11:16:08 | dev.cotlet/clockshark | ClockShark by Cotlet | 1.0.0 | Timesheets, schedules and jobs in your ClockShark account. |
-| 2026-11-09 11:16:30 | dev.cotlet/houzz-pro | Houzz Pro by Cotlet | 1.0.0 | Leads, projects, estimates and invoices in Houzz Pro. |
-| 2026-11-09 11:16:52 | dev.cotlet/perfect-venue | Perfect Venue by Cotlet | 1.0.0 | Events, leads, proposals and payments for your Perfect Venue venue. |
-| 2026-11-09 11:17:14 | dev.cotlet/zola | Zola by Cotlet | 1.0.0 | Guest list, RSVPs and registry for your Zola wedding. |
-| 2026-11-09 11:17:36 | dev.cotlet/zen-planner | Zen Planner by Cotlet | 1.0.0 | Members, classes, attendance and billing in Zen Planner. |
-| 2026-11-09 11:17:58 | dev.cotlet/service-autopilot | Service Autopilot by Cotlet | 1.0.0 | Jobs, schedules, estimates and invoices in Service Autopilot. |
-| 2026-11-09 11:18:20 | [dev.cotlet/zenmaid](https://github.com/cotlet-connect/zenmaid-mcp) | ZenMaid by Cotlet | 1.0.0 | Appointments, cleaners and customers for your ZenMaid business. |
-| 2026-11-09 11:18:42 | dev.cotlet/beautiful-ai | Beautiful.ai by Cotlet | 1.0.0 | Create, edit, duplicate and export Beautiful.ai decks from your agent. |
-| 2026-11-09 11:19:04 | dev.cotlet/yardbook | Yardbook by Cotlet | 1.0.0 | Customers, jobs, schedules and invoices in Yardbook for landscapers. |
-| 2026-11-09 11:19:26 | dev.cotlet/thryv | Thryv by Cotlet | 1.0.0 | Clients, appointments, invoices and messages in Thryv. |
-| 2026-11-09 11:19:50 | dev.cotlet/bark | Bark by Cotlet | 1.0.0 | Leads, responses and credits for Bark professionals. |
+| 2026-11-09 11:20:12 | dev.cotlet/jobber | Jobber by Cotlet | 1.0.0 | Quotes, jobs, invoices and clients in your Jobber account. |
+| 2026-11-09 11:20:34 | [dev.cotlet/housecall-pro](https://github.com/cotlet-connect/housecall-pro-mcp) | Housecall Pro by Cotlet | 1.0.0 | Jobs, estimates, invoices and customers in Housecall Pro. |
+| 2026-11-09 11:20:56 | dev.cotlet/woocommerce | WooCommerce by Cotlet | 1.0.0 | Orders, products, customers, coupons and refunds in your WooCommerce store. |
+| 2026-11-09 11:21:18 | dev.cotlet/acuity-scheduling | Acuity Scheduling by Cotlet | 1.0.0 | Appointments, availability and blocked time in Acuity, worked by your agent. |
+| 2026-11-09 11:21:40 | dev.cotlet/angi | Angi by Cotlet | 1.0.0 | Leads, lead credits, reviews and service areas for Angi pros. |
+| 2026-11-09 11:22:02 | [dev.cotlet/appointy](https://github.com/cotlet-connect/appointy-mcp) | Appointy by Cotlet | 1.0.0 | Appointments, customers, staff and services in Appointy. |
+| 2026-11-09 11:22:08 | co.reven/mcp | Reven | 1.0.0 | Accounting, tax and finance data for your Reven organizations, with OAuth conse… |
+| 2026-11-09 11:22:24 | dev.cotlet/aroflo | AroFlo by Cotlet | 1.0.0 | Tasks, schedules, quotes and invoices in your AroFlo account. |
+| 2026-11-09 11:22:46 | dev.cotlet/autoleap | AutoLeap by Cotlet | 1.0.0 | Estimates, repair orders, customers and appointments in your AutoLeap shop. |
+| 2026-11-09 11:23:08 | dev.cotlet/bokadirekt | Bokadirekt by Cotlet | 1.0.0 | Bookings, customers, waitlist and messages for your Bokadirekt salon. |
+| 2026-11-09 11:23:30 | dev.cotlet/boulevard | Boulevard by Cotlet | 1.0.0 | Appointments, waitlist, clients and reports for your Boulevard salon or spa. |
+| 2026-11-09 11:23:52 | dev.cotlet/checkatrade | Checkatrade by Cotlet | 1.0.0 | Leads, quotes, reviews and Opportunities Board for Checkatrade members. |
+| 2026-11-09 11:24:14 | dev.cotlet/chownow | ChowNow by Cotlet | 1.0.0 | Orders, item availability, hours and customers of your ChowNow restaurant. |
+| 2026-11-09 11:24:36 | dev.cotlet/clear-estimates | Clear Estimates by Cotlet | 1.0.0 | Customers, estimates, proposals and invoices in Clear Estimates remodeling soft… |
+| 2026-11-09 11:25:00 | [dev.cotlet/contractor-plus](https://github.com/cotlet-connect/contractor-plus-mcp) | Contractor+ by Cotlet | 1.0.0 | Estimates, jobs, invoices and clients in Contractor+. |
+| 2026-11-09 11:25:22 | dev.cotlet/deliverect | Deliverect by Cotlet | 1.0.0 | Snooze items, pause channels, retry orders and read orders in Deliverect. |
+| 2026-11-09 11:25:44 | [dev.cotlet/dingg](https://github.com/cotlet-connect/dingg-mcp) | DINGG by Cotlet | 1.0.0 | Appointments, clients and services in DINGG salon software. |
+| 2026-11-09 11:26:06 | dev.cotlet/doordash | DoorDash by Cotlet | 1.0.0 | Search stores, build carts and order on your DoorDash account. |
+| 2026-11-09 11:26:28 | [dev.cotlet/estimateone](https://github.com/cotlet-connect/estimateone-mcp) | EstimateOne by Cotlet | 1.0.0 | Tenders, leads, documents and quotes for your EstimateOne account. |
+| 2026-11-09 11:26:50 | dev.cotlet/fieldroutes | FieldRoutes by Cotlet | 1.0.0 | Customers, subscriptions, appointments and invoices in FieldRoutes pest and law… |
+| 2026-11-09 11:27:12 | dev.cotlet/jane-app | Jane App by Cotlet | 1.0.0 | Schedule, Wait List, intake forms, balances and reports in your Jane clinic. |
+| 2026-11-09 11:27:27 | [ru.electroatlas/catalog](https://github.com/electroatlas/mcp) | Электроатлас | 1.3.0 | Electric cars in Russia: rouble prices with sources, winter range, sales, deale… |
+| 2026-11-09 11:27:34 | dev.cotlet/jobsheet | JobSheet by Cotlet | 1.0.0 | Job sheets, customers, quotes and invoices in JobSheet, the UK job management a… |
+| 2026-11-09 11:27:56 | dev.cotlet/kitomba | Kitomba by Cotlet | 1.0.0 | Appointments, client cards and services in Kitomba 1 salon software. |
+| 2026-11-09 11:28:18 | dev.cotlet/markate | Markate by Cotlet | 1.0.0 | Customers, estimates, work orders and invoices in Markate field service softwar… |
+| 2026-11-09 11:28:40 | dev.cotlet/marketman | MarketMan by Cotlet | 1.0.0 | Purchase orders, par levels, counts and food cost for your restaurant. |
+| 2026-11-09 11:29:02 | dev.cotlet/minuba | Minuba by Cotlet | 1.0.0 | Orders, time, materials and invoices for Danish tradespeople. |
+| 2026-11-09 11:29:24 | dev.cotlet/opentable | OpenTable by Cotlet | 1.0.0 | Find tables, book, change and cancel reservations, brief your floor. |
+| 2026-11-09 11:29:46 | dev.cotlet/ordrestyring | Ordrestyring by Cotlet | 1.0.0 | Create orders, log hours, book materials and plan crews in Ordrestyring. |
+| 2026-11-09 11:29:54 | io.github.emblemstudio-ai/emblem-studio | Emblem Studio: popups and opt-in forms | 1.4.18-beta | Build popups and opt-in forms on your website with AI. Lead capture, A/B tests,… |
+| 2026-11-09 11:30:03 | io.github.wherebox/wherebox | Wherebox | 0.1.0 | Render static locator maps (area highlight, places, routes) and search places f… |
+| 2026-11-09 11:30:12 | [dev.cotlet/phorest](https://github.com/cotlet-connect/phorest-mcp) | Phorest by Cotlet | 1.0.0 | Appointments, clients and services in Phorest salon software. |
+| 2026-11-09 11:30:34 | dev.cotlet/planity | Planity by Cotlet | 1.0.0 | Read and edit your Planity agenda, clients and booking statistics. |
+| 2026-11-09 11:30:56 | dev.cotlet/podium | Podium by Cotlet | 1.0.0 | Inbox, reviews, review invites, contacts and payment requests for Podium. |
+| 2026-11-09 11:31:18 | dev.cotlet/procore | Procore by Cotlet | 1.0.0 | RFIs, submittals, punch lists, observations and daily logs on your Procore proj… |
+| 2026-11-09 11:31:18 | [io.github.kmakarof-wibe/adspylab](https://github.com/kmakarof-wibe/adspylab-mcp) | AdSpyLab | 1.0.0 | Web2app competitor intelligence: Meta/Google ad activity, creatives, saved quiz… |
+| 2026-11-09 11:31:40 | [dev.cotlet/razorsync](https://github.com/cotlet-connect/razorsync-mcp) | RazorSync by Cotlet | 1.0.0 | Work orders, scheduling, customers and invoices in RazorSync. |
+| 2026-11-09 11:32:02 | dev.cotlet/resdiary | ResDiary by Cotlet | 1.0.0 | Read the diary, move bookings, keep guest notes, brief your floor. |
+| 2026-11-09 11:32:24 | dev.cotlet/resy | Resy by Cotlet | 1.0.0 | Find tables, book, change and cancel Resy reservations, set Notify alerts. |
+| 2026-11-09 11:32:45 | [com.sulihuli/catalog](https://github.com/sulihuli/mcp) | SuliHuli EV catalog | 1.1.0 | Electric-vehicle specs, prices, rankings and comparisons; every figure with its… |
+| 2026-11-09 11:32:46 | dev.cotlet/salonist | Salonist by Cotlet | 1.0.0 | Appointments, clients, bills and packages in Salonist salon and spa software. |
+| 2026-11-09 11:33:08 | dev.cotlet/salonized | Salonized by Cotlet | 1.0.0 | Appointments, customers, waiting list and sales for salons. |
+| 2026-11-09 11:33:30 | dev.cotlet/servicetrade | ServiceTrade by Cotlet | 1.0.0 | Jobs, appointments, deficiencies and quotes in ServiceTrade, worked by your age… |
+| 2026-11-09 11:33:51 | dev.cotlet/simpro | Simpro by Cotlet | 1.0.0 | Quotes, jobs, schedules and customers in Simpro, worked by your agent. |
+| 2026-11-09 11:34:13 | dev.cotlet/skedda | Skedda by Cotlet | 1.0.0 | Bookings, spaces, requests and users in your Skedda venue. |
+| 2026-11-09 11:34:35 | dev.cotlet/spectora | Spectora by Cotlet | 1.0.0 | Schedule inspections, add agreements and read agents and clients in Spectora. |
+| 2026-11-09 11:34:57 | dev.cotlet/squire | Squire by Cotlet | 1.0.0 | Appointments, barbers, clients, waitlist and reports for your barbershop. |
+| 2026-11-09 11:35:22 | dev.cotlet/supermove | Supermove by Cotlet | 1.0.0 | Leads, projects, dispatch and invoices in your Supermove, worked by your agent. |
+| 2026-11-09 11:35:34 | [com.maps-agent/knowledge](https://github.com/maps-agent/mcp) | Maps Agent | 1.0.0 | Google Maps and Business Profile know-how for local businesses: answers, guides… |
+| 2026-11-09 11:35:44 | dev.cotlet/tekmetric | Tekmetric by Cotlet | 1.0.0 | Job board, repair orders, customers, appointments and texts in your shop. |
+| 2026-11-09 11:36:06 | dev.cotlet/toast | Toast by Cotlet | 1.0.0 | Menus, 86 list, sales, schedules and time entries for your Toast restaurant. |
+| 2026-11-09 11:36:28 | dev.cotlet/tripleseat | Tripleseat by Cotlet | 1.0.0 | Leads, events and bookings in your Tripleseat venue account, worked by your age… |
+| 2026-11-09 11:36:50 | dev.cotlet/dubsado | Dubsado by Cotlet | 1.0.0 | Projects, proposals, contracts and invoices for creative businesses. |
+| 2026-11-09 11:36:55 | com.rizamo/mcp | Rizamo | 1.0.0 | Publish, schedule and analyze social posts on Instagram, Facebook, TikTok, Thre… |
+| 2026-11-09 11:37:00 | ai.apitree/apitree | apitree — AI-Native API Marketplace | 0.5.0 | Connect your AI agent to the apitree API marketplace. |
+| 2026-11-09 11:37:12 | [dev.cotlet/pixieset](https://github.com/cotlet-connect/pixieset-mcp) | Pixieset by Cotlet | 1.0.0 | Galleries, clients, invoices and bookings in your Pixieset studio. |
+| 2026-11-09 11:37:34 | dev.cotlet/suitedash | SuiteDash by Cotlet | 1.0.0 | Clients, projects, invoices and tasks in your SuiteDash portal. |
+| 2026-11-09 11:37:56 | dev.cotlet/knowify | Knowify by Cotlet | 1.0.0 | Jobs, bids, invoices and job costing in Knowify. |
+| 2026-11-09 11:38:18 | [dev.cotlet/joist](https://github.com/cotletdev/joist-api-mcp-server) | Joist by Cotlet | 1.0.0 | Estimates, invoices, clients and payments in Joist for contractors. |
+| 2026-11-09 11:38:40 | dev.cotlet/expensify | Expensify by Cotlet | 1.0.0 | Expenses, receipts and reports in Expensify. |
+| 2026-11-09 11:39:02 | dev.cotlet/exact-online | Exact Online by Cotlet | 1.0.0 | Sales invoices, relations and journal entries in Exact Online. |
+| 2026-11-09 11:39:24 | dev.cotlet/acumatica | Acumatica by Cotlet | 1.0.0 | Bills, invoices and payments in Acumatica. |
+| 2026-11-09 11:39:46 | dev.cotlet/fortnox | Fortnox by Cotlet | 1.0.0 | Invoices, customers and vouchers in Fortnox. |
+| 2026-11-09 11:40:08 | ai.yeow/business-index | Yeow business index | 0.2.0 | Search 6.2M US businesses and nonprofits (SBA PPP, IRS Pub 78). Sourced fields.… |
+| 2026-11-09 11:40:08 | dev.cotlet/taxdome | TaxDome by Cotlet | 1.0.0 | Clients, jobs, document requests and invoices in TaxDome. |
+| 2026-11-09 11:40:32 | dev.cotlet/erpnext | ERPNext by Cotlet | 1.0.0 | Invoices, payments, customers and stock in ERPNext. |
+| 2026-11-09 11:40:54 | dev.cotlet/holded | Holded by Cotlet | 1.0.0 | Invoices, expenses and contacts in Holded. |
+| 2026-11-09 11:41:16 | dev.cotlet/myob | MYOB by Cotlet | 1.0.0 | Invoices, bills and payments in MYOB. |
+| 2026-11-09 11:41:38 | dev.cotlet/invoice-ninja | Invoice Ninja by Cotlet | 1.0.0 | Invoices, quotes, clients and payments in Invoice Ninja. |
+| 2026-11-09 11:42:00 | dev.cotlet/dext | Dext by Cotlet | 1.0.0 | Receipts and bills in Dext: upload, review, publish. |
+| 2026-11-09 11:42:22 | dev.cotlet/sevdesk | sevdesk by Cotlet | 1.0.0 | Invoices, receipts and contacts in sevdesk. |
+| 2026-11-09 11:42:32 | [io.github.Newmannn91/memdrive-mcp](https://github.com/Newmannn91/MemDrive-) |  | 0.8.2 | Local-first MCP memory: Markdown notes and images with full-text search for Cla… |
+| 2026-11-09 11:42:44 | dev.cotlet/recurly | Recurly by Cotlet | 1.0.0 | Accounts, subscriptions and invoices in Recurly. |
+| 2026-11-09 11:43:06 | dev.cotlet/lexware-office | Lexware Office (lexoffice) by Cotlet | 1.0.0 | Quotes, invoices, contacts and receipts in Lexware Office. |
+| 2026-11-09 11:43:28 | dev.cotlet/alegra | Alegra by Cotlet | 1.0.0 | Invoices, contacts and payments in Alegra. |
+| 2026-11-09 11:43:50 | dev.cotlet/fiken | Fiken by Cotlet | 1.0.0 | Invoices, purchases and contacts in Fiken. |
+| 2026-11-09 11:44:12 | dev.cotlet/fakturownia | Fakturownia (InvoiceOcean) by Cotlet | 1.0.0 | Invoices, clients and products in Fakturownia and InvoiceOcean. |
+| 2026-11-09 11:44:34 | dev.cotlet/facturama | Facturama by Cotlet | 1.0.0 | CFDI invoices, credit notes and clients in Facturama. |
+| 2026-11-09 11:44:56 | dev.cotlet/e-boekhouden | e-Boekhouden by Cotlet | 1.0.0 | Invoices, relations and bookings in e-Boekhouden. |
+| 2026-11-09 11:45:18 | dev.cotlet/fatture-in-cloud | Fatture in Cloud by Cotlet | 1.0.0 | E-invoices, clients and expenses in Fatture in Cloud. |
+| 2026-11-09 11:45:42 | dev.cotlet/e-conomic | e-conomic by Cotlet | 1.0.0 | Invoices, customers and entries in e-conomic. |
+| 2026-11-09 11:46:04 | dev.cotlet/procountor | Procountor by Cotlet | 1.0.0 | Invoices, receipts and partners in Procountor. |
+| 2026-11-09 11:46:26 | dev.cotlet/szamlazz-hu | Számlázz.hu by Cotlet | 1.0.0 | Invoices, receipts and NAV status in Számlázz.hu, run by your agent. |
+| 2026-11-09 11:46:48 | dev.cotlet/ifirma | iFirma by Cotlet | 1.0.0 | Invoices, costs and KSeF sending in iFirma, run by your agent. |
+| 2026-11-09 11:47:10 | dev.cotlet/bokio | Bokio by Cotlet | 1.0.0 | Invoices, receipts and journal entries in Bokio, run by your agent. |
+| 2026-11-09 11:47:32 | dev.cotlet/odoo | Odoo by Cotlet | 1.0.0 | Invoices, payments, contacts and sales orders in your Odoo. |
+| 2026-11-09 11:47:54 | dev.cotlet/chargebee | Chargebee by Cotlet | 1.0.0 | Subscriptions, invoices and credit notes in Chargebee. |
+| 2026-11-09 11:48:14 | com.parhard/courses | ParHard courses | 0.4.0 | US golf course facts with sources, plus your own rounds and stats with Plus and… |
+| 2026-11-09 11:48:16 | dev.cotlet/accelo | Accelo by Cotlet | 1.0.0 | Tickets, projects, time and quotes in your Accelo, worked by your agent. |
+| 2026-11-09 11:48:38 | dev.cotlet/agile-crm | Agile CRM by Cotlet | 1.0.0 | Campaign reports, bulk enrolment, deals, tasks and notes for Agile CRM. |
+| 2026-11-09 11:49:00 | dev.cotlet/copper-crm | Copper CRM by Cotlet | 1.0.0 | Leads, deals, tasks and activities in your Copper CRM, for AI agents. |
+| 2026-11-09 11:49:22 | dev.cotlet/freshsales | Freshsales by Cotlet | 1.0.0 | Deals, contacts, tasks and notes in your Freshsales CRM, for agents. |
+| 2026-11-09 11:49:44 | [dev.cotlet/invoice-simple](https://github.com/cotlet-connect/invoice-simple-mcp) | Invoice Simple by Cotlet | 1.0.0 | Invoices, estimates, clients and payments in Invoice Simple. |
+| 2026-11-09 11:50:06 | [dev.cotlet/invoice2go](https://github.com/cotlet-connect/invoice2go-mcp) | Invoice2go by Cotlet | 1.0.0 | Invoices, estimates, clients and payments in Invoice2go. |
+| 2026-11-09 11:50:09 | [io.github.Shicodiez/crypto-regime-mcp](https://github.com/Shicodiez/signal-bot) | Crypto Regime MCP | 0.1.2 | Crypto trend and regime MCP tools with automatic x402 payments on Base. |
+| 2026-11-09 11:50:28 | dev.cotlet/kommo | Kommo by Cotlet | 1.0.0 | Leads, incoming chats, tasks and pipeline stages in your Kommo CRM. |
+| 2026-11-09 11:50:49 | com.candidatefalcon/candidate-falcon | Candidate Falcon | 1.0.0 | Prep for hiring assessments and one-way video interviews, with practice for Hir… |
+| 2026-11-09 11:50:53 | dev.cotlet/suitecrm | SuiteCRM by Cotlet | 1.0.0 | Leads, contacts, deals, cases and tasks in SuiteCRM without OAuth setup. |
+| 2026-11-09 11:51:15 | dev.cotlet/teamleader | Teamleader by Cotlet | 1.0.0 | Deals, quotations, invoices and reminders in Teamleader Focus, worked by your a… |
+| 2026-11-09 11:51:36 | dev.cotlet/vtiger | Vtiger by Cotlet | 1.0.0 | Contacts, deals, cases and pipeline stages in your Vtiger CRM. |
+| 2026-11-09 11:51:58 | [dev.cotlet/google-search-console](https://github.com/cotlet-connect/google-search-console-mcp) | Google Search Console by Cotlet | 1.0.0 | Request indexing, removals, users and index reports for your sites. |
+| 2026-11-09 11:52:20 | [dev.cotlet/accuranker](https://github.com/cotlet-connect/accuranker-mcp) | AccuRanker by Cotlet | 1.0.0 | Add keywords, tags, domains and competitors to AccuRanker. |
+| 2026-11-09 11:52:43 | dev.cotlet/brand24 | Brand24 by Cotlet | 1.0.0 | Mentions, tags, sentiment and cleanup in your Brand24 projects. |
+| 2026-11-09 11:52:57 | com.goshift-eg/ads | Go Shift | 1.0.0 | Manage Google, Meta, TikTok, Snapchat and LinkedIn ads, GA4, GTM and Search Con… |
+| 2026-11-09 11:53:05 | dev.cotlet/brandfolder | Brandfolder by Cotlet | 1.0.0 | Search, tag, organize and share brand assets in your Brandfolder. |
+| 2026-11-09 11:53:27 | dev.cotlet/brightlocal | BrightLocal by Cotlet | 1.0.0 | Local rankings, map grids, reviews and citations in BrightLocal, worked by your… |
+| 2026-11-09 11:53:49 | dev.cotlet/campaign-monitor | Campaign Monitor by Cotlet | 1.0.0 | Campaign reports, segments, subscribers, drafts and journeys in Campaign Monito… |
+| 2026-11-09 11:54:11 | dev.cotlet/clicksend | ClickSend by Cotlet | 1.0.0 | SMS campaigns, contact lists, opt-outs and delivery reports for your ClickSend… |
+| 2026-11-09 11:54:32 | dev.cotlet/constant-contact | Constant Contact by Cotlet | 1.0.0 | Email reports, lists, contacts and scheduled sends in Constant Contact. |
+| 2026-11-09 11:54:54 | dev.cotlet/emailoctopus | EmailOctopus by Cotlet | 1.0.0 | Campaigns, segments, sends and reports in your EmailOctopus, worked by your age… |
+| 2026-11-09 11:55:16 | dev.cotlet/findymail | Findymail by Cotlet | 1.0.0 | Find and verify emails, run lead searches and keep exclusion lists. |
+| 2026-11-09 11:55:38 | dev.cotlet/gohighlevel | GoHighLevel by Cotlet | 1.0.0 | Build and publish workflows and edit funnel pages in your HighLevel account. |
+| 2026-11-09 11:56:05 | dev.cotlet/judge-me | Judge.me by Cotlet | 1.0.0 | Review replies, moderation and review requests in Judge.me, worked by your agen… |
+| 2026-11-09 11:56:18 | io.github.chemic/indiebob |  | 0.2.0 | IndieBob for agents: metrics, posts, cold outreach written per prospect, and wh… |
+| 2026-11-09 11:56:27 | dev.cotlet/kalodata | Kalodata by Cotlet | 1.0.0 | TikTok Shop rankings, details, follows and creator exports for your agent. |
+| 2026-11-09 11:56:49 | [dev.cotlet/linkedin](https://github.com/cotlet-connect/linkedin-mcp) | LinkedIn by Cotlet | 1.0.0 | Posts, comments, messages, invitations and people search on LinkedIn. |
+| 2026-11-09 11:57:11 | dev.cotlet/mailjet | Mailjet by Cotlet | 1.0.0 | Campaigns, segments, lists and stats in your Mailjet, worked by your agent. |
+| 2026-11-09 11:57:33 | dev.cotlet/mailshake | Mailshake by Cotlet | 1.0.0 | Reply to leads, add follow-ups and manage campaigns in Mailshake. |
+| 2026-11-09 11:57:55 | dev.cotlet/manychat | ManyChat by Cotlet | 1.0.0 | Contacts, inbox replies, tags and broadcasts for your ManyChat bot. |
+| 2026-11-09 11:57:58 | com.indexcyborg/indexcyborg | IndexCyborg | 1.1.0 | Get websites indexed: Google index status, unindexed pages, IndexNow and sitema… |
+| 2026-11-09 11:58:17 | dev.cotlet/mautic | Mautic by Cotlet | 1.0.0 | Contacts, segments, campaigns and email stats in your Mautic, worked by your ag… |
+| 2026-11-09 11:58:39 | dev.cotlet/okendo | Okendo by Cotlet | 1.0.0 | Moderate, reply to and report on Okendo reviews and questions. |
+| 2026-11-09 11:59:01 | dev.cotlet/plausible | Plausible by Cotlet | 1.0.0 | Read stats, add goals, share dashboards and invite guests in Plausible. |
+| 2026-11-09 11:59:23 | dev.cotlet/postscript | Postscript by Cotlet | 1.0.0 | Build SMS campaigns, segments and keywords, and reply to subscribers. |
+| 2026-11-09 11:59:45 | dev.cotlet/privy | Privy by Cotlet | 1.0.0 | Segments, campaigns, popups and tags for your Privy account. |
+| 2026-11-09 12:00:07 | dev.cotlet/reviews-io | REVIEWS.io by Cotlet | 1.0.0 | Reviews, replies, moderation, invitations and tags in your REVIEWS.io dashboard. |
+| 2026-11-09 12:00:29 | dev.cotlet/sendible | Sendible by Cotlet | 1.0.0 | Posts, inbox replies, approvals and reports for your Sendible workspaces. |
+| 2026-11-09 12:00:51 | dev.cotlet/simpletexting | SimpleTexting by Cotlet | 1.0.0 | Inbox replies, scheduled texts and lists for SimpleTexting, no API token. |
+| 2026-11-09 12:00:57 | [io.github.sebinthomas92/little-monk](https://github.com/sebinthomas92/little-monk-mcp) | Little Monk | 1.0.0 | Daily planner for iPhone, iPad and Mac: today's plan, tasks, deep work, notes a… |
+| 2026-11-09 12:01:16 | dev.cotlet/spyfu | SpyFu by Cotlet | 1.0.0 | Backlinks, leads, Site Audit, My Sites and PDF reports for SpyFu. |
+| 2026-11-09 12:01:38 | dev.cotlet/ubersuggest | Ubersuggest by Cotlet | 1.0.0 | Projects, rank-tracking keywords, competitors and keyword lists for Ubersuggest. |
+| 2026-11-09 12:02:00 | dev.cotlet/unsplash | Unsplash by Cotlet | 1.0.0 | Search photos and manage collections in your Unsplash account. |
+| 2026-11-09 12:02:22 | dev.cotlet/yotpo | Yotpo by Cotlet | 1.0.0 | Moderate and reply to reviews, answer questions, adjust loyalty points. |
+| 2026-11-09 12:02:36 | app.roaz/meta-ads | ROAZ Meta Ads Analytics | 1.1.0 | Read-only Meta Ads (Facebook + Instagram) analytics for AI: campaigns, creative… |
+| 2026-11-09 12:02:44 | dev.cotlet/zendesk | Zendesk by Cotlet | 1.0.0 | Tickets, replies, macros and views in your Zendesk, worked by your agent. |
+| 2026-11-09 12:03:06 | dev.cotlet/help-scout | Help Scout by Cotlet | 1.0.0 | Conversations, replies, tags and Docs in Help Scout, from your agent. |
+| 2026-11-09 12:03:28 | dev.cotlet/aircall | Aircall by Cotlet | 1.0.0 | Calls, tags, notes, SMS and contacts in your Aircall, worked by your agent. |
+| 2026-11-09 12:03:50 | dev.cotlet/autotask | Autotask by Cotlet | 1.0.0 | Tickets, notes, time entries and companies in Autotask PSA. |
+| 2026-11-09 12:04:12 | dev.cotlet/chatwoot | Chatwoot by Cotlet | 1.0.0 | Conversations, replies, labels and assignments in your Chatwoot inbox. |
+| 2026-11-09 12:04:34 | dev.cotlet/connectwise | ConnectWise by Cotlet | 1.0.0 | Service tickets, notes and time entries in ConnectWise PSA, worked by your agen… |
+| 2026-11-09 12:04:56 | dev.cotlet/edesk | eDesk by Cotlet | 1.0.0 | Tickets, replies, orders and tags in your eDesk, worked by your agent. |
+| 2026-11-09 12:05:18 | dev.cotlet/freescout | FreeScout by Cotlet | 1.0.0 | Conversations, replies, notes and customers in your FreeScout, worked by your a… |
+| 2026-11-09 12:05:40 | dev.cotlet/freshchat | Freshchat by Cotlet | 1.0.0 | Inbox, replies, assignment and labels in Freshchat, worked by your agent. |
+| 2026-11-09 12:06:02 | dev.cotlet/gladly | Gladly by Cotlet | 1.0.0 | Conversations, customer profiles, topics and tasks in Gladly, worked by your ag… |
+| 2026-11-09 12:06:08 | email.dygc/mailglass |  | 1.0.0 | Disposable email for AI agents: instant inboxes, code extraction, task inboxes,… |
+| 2026-11-09 12:06:28 | dev.cotlet/halopsa | HaloPSA by Cotlet | 1.0.0 | Tickets, notes, replies, time and reports in your HaloPSA, worked by your agent. |
+| 2026-11-09 12:06:49 | dev.cotlet/happyfox | HappyFox by Cotlet | 1.0.0 | Tickets, replies, private notes and canned actions in your HappyFox help desk. |
+| 2026-11-09 12:07:11 | dev.cotlet/jitbit | Jitbit by Cotlet | 1.0.0 | Assign, prioritise, close, merge and create Jitbit tickets with your agent. |
+| 2026-11-09 12:07:33 | dev.cotlet/jivochat | JivoChat by Cotlet | 1.0.0 | Chats, clients, quick phrases and reports in JivoChat, worked by your agent. |
+| 2026-11-09 12:07:43 | com.biano/biano | Biano | 1.0.0 | Furniture and home decor from many e-shops in 11 countries: search, compare off… |
+| 2026-11-09 12:07:55 | dev.cotlet/kustomer | Kustomer by Cotlet | 1.0.0 | Conversations, customers and notes in your Kustomer, worked by your agent. |
+| 2026-11-09 12:08:17 | dev.cotlet/livechat | LiveChat (Text) by Cotlet | 1.0.0 | Chats, tags and canned replies in your LiveChat, worked by your agent. |
+| 2026-11-09 12:08:39 | dev.cotlet/ringover | Ringover by Cotlet | 1.0.0 | Calls, transcripts, call tags and SMS in your Ringover, worked by your agent. |
+| 2026-11-09 12:09:01 | dev.cotlet/sysaid | SysAid by Cotlet | 1.0.0 | Tickets, notes, assignments and resolutions in your SysAid, worked by your agen… |
+| 2026-11-09 12:09:23 | dev.cotlet/tidio | Tidio by Cotlet | 1.0.0 | Tickets, chats, contacts, macros and flows in your Tidio, worked by your agent. |
+| 2026-11-09 12:09:45 | dev.cotlet/trengo | Trengo by Cotlet | 1.0.0 | Triage, label, reply to and close Trengo conversations with your agent. |
+| 2026-11-09 12:10:07 | dev.cotlet/zammad | Zammad by Cotlet | 1.0.0 | Tickets, replies, tags and macros in your Zammad, worked by your agent. |
+| 2026-11-09 12:10:29 | dev.cotlet/personio | Personio by Cotlet | 1.0.0 | Time off, employees and attendance in Personio, handled by your agent. |
+| 2026-11-09 12:10:50 | dev.cotlet/ashby | Ashby by Cotlet | 1.0.0 | Candidates, interviews and pipeline stages in Ashby, run by your agent. |
+| 2026-11-09 12:11:12 | dev.cotlet/bamboohr | BambooHR by Cotlet | 1.0.0 | Employees, time off and onboarding in BambooHR, done by your agent. |
+| 2026-11-09 12:11:37 | dev.cotlet/bullhorn | Bullhorn by Cotlet | 1.0.0 | Candidates, notes and submissions in your Bullhorn ATS. |
+| 2026-11-09 12:11:59 | dev.cotlet/charliehr | CharlieHR by Cotlet | 1.0.0 | Approve leave, book time off, adjust allowances and offboard people. |
+| 2026-11-09 12:12:21 | dev.cotlet/comeet | Comeet by Cotlet | 1.0.0 | Candidates, positions and hiring decisions in Comeet, from your agent. |
+| 2026-11-09 12:12:42 | dev.cotlet/deputy | Deputy by Cotlet | 1.0.0 | Approve timesheets and leave, and roster shifts in Deputy. |
+| 2026-11-09 12:13:04 | dev.cotlet/homerun | Homerun by Cotlet | 1.0.0 | Move, tag, email and disqualify candidates; close jobs, from your agent. |
+| 2026-11-09 12:13:26 | dev.cotlet/jazzhr | JazzHR by Cotlet | 1.0.0 | Move candidates, email them and manage jobs in your JazzHR. |
+| 2026-11-09 12:13:48 | dev.cotlet/jobadder | JobAdder by Cotlet | 1.0.0 | Candidates, applications, notes and tasks for your JobAdder account. |
+| 2026-11-09 12:14:10 | dev.cotlet/jobdiva | JobDiva by Cotlet | 1.0.0 | Candidates, notes, hotlists and submittals in your JobDiva account. |
+| 2026-11-09 12:14:32 | dev.cotlet/lever | Lever by Cotlet | 1.0.0 | Move, archive and note candidates in Lever, run by your agent. |
+| 2026-11-09 12:14:35 | com.mailsuite/mcp | Mailsuite | 0.1.0 | Email tracking for AI assistants: see who opened your emails and send tracked e… |
+| 2026-11-09 12:14:54 | dev.cotlet/loxo | Loxo by Cotlet | 1.0.0 | Pipelines, candidates, activity, stage emails and reports in Loxo. |
+| 2026-11-09 12:15:16 | dev.cotlet/manatal | Manatal by Cotlet | 1.0.0 | Candidates, jobs, pipeline stages and notes in your Manatal, worked by your age… |
+| 2026-11-09 12:15:38 | dev.cotlet/officient | Officient by Cotlet | 1.0.0 | Time off, approvals, colleagues and your details in Officient, worked by your a… |
+| 2026-11-09 12:16:06 | dev.cotlet/peoplehr | PeopleHR by Cotlet | 1.0.0 | Approve holiday requests, assign tasks and run saved queries in PeopleHR. |
+| 2026-11-09 12:16:15 | [io.github.bucharitesh/qrdx](https://github.com/bucharitesh/qrdx) | QRdx | 1.1.0 | Design styled QR codes and build Wi-Fi, contact and SMS payloads. Most tools ne… |
+| 2026-11-09 12:16:28 | dev.cotlet/quinyx | Quinyx by Cotlet | 1.0.0 | Approve requests, offer open shifts, attest hours and publish Quinyx schedules. |
+| 2026-11-09 12:16:52 | dev.cotlet/shiftbase | Shiftbase by Cotlet | 1.0.0 | Approve hours, leave and shift swaps in Shiftbase from your agent. |
+| 2026-11-09 12:16:57 | io.github.BrokersLynk/abu-dhabi-market | BrokersLynk — Abu Dhabi property market | 1.0.0 | Live Abu Dhabi listing counts, asking prices and buyer requests by area. No con… |
+| 2026-11-09 12:17:14 | dev.cotlet/vincere | Vincere by Cotlet | 1.0.0 | Shortlists, LiveLists, pipeline stages, notes and tasks in Vincere. |
+| 2026-11-09 12:17:36 | dev.cotlet/redmine | Redmine by Cotlet | 1.0.0 | Issues, time entries and projects in your Redmine, from your agent. |
+| 2026-11-09 12:17:58 | dev.cotlet/zotero | Zotero by Cotlet | 1.0.0 | Your Zotero library: add papers, organize collections and pull notes. |
+| 2026-11-09 12:18:23 | dev.cotlet/nextcloud | Nextcloud by Cotlet | 1.0.0 | Files, calendar, contacts and Deck boards in your Nextcloud. |
+| 2026-11-09 12:18:45 | dev.cotlet/otter | Otter.ai by Cotlet | 1.0.0 | Meeting transcripts, highlights and sharing in Otter, by your agent. |
+| 2026-11-09 12:19:07 | dev.cotlet/123formbuilder | 123FormBuilder by Cotlet | 1.0.0 | Forms, fields, submissions and notification emails for your 123FormBuilder acco… |
+| 2026-11-09 12:19:29 | dev.cotlet/amazing-marvin | Amazing Marvin by Cotlet | 1.0.0 | Inbox, day plans, projects and timers in Amazing Marvin, run by your agent. |
+| 2026-11-09 12:19:51 | dev.cotlet/anaplan | Anaplan by Cotlet | 1.0.0 | Run imports and processes, read model history and manage users in Anaplan. |
+| 2026-11-09 12:20:13 | dev.cotlet/anylist | AnyList by Cotlet | 1.0.0 | Shopping lists, recipes and meal plans for your AnyList account. |
+| 2026-11-09 12:20:35 | dev.cotlet/appflowy | AppFlowy by Cotlet | 1.0.0 | Pages, databases, trash and sharing in your AppFlowy workspace. |
+| 2026-11-09 12:20:57 | dev.cotlet/bluedot | Bluedot by Cotlet | 1.0.0 | Organize, template, comment on and share Bluedot meetings; read transcripts too. |
+| 2026-11-09 12:21:19 | dev.cotlet/connecteam | Connecteam by Cotlet | 1.0.0 | Approve timesheets, publish shifts, answer time off and create tasks in Connect… |
 
 ## Data source
 
