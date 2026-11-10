@@ -9,39 +9,62 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 10:21 UTC
+## Latest list — 2026-11-10 11:21 UTC
 
-New MCP servers published between 2026-11-10 09:21 UTC and 2026-11-10 10:21 UTC.
+New MCP servers published between 2026-11-10 10:21 UTC and 2026-11-10 11:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-10T10-21-40-3889Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-10T11-21-32-555777Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-10 09:21:41 | [io.github.Dmitry-Kov/ooxml-integrity](https://github.com/Dmitry-Kov/ooxml-integrity) | ooxml-integrity | 0.10.0 | Checks .docx and .pptx files after automated editing for lost comments, tracked… |
-| 2026-11-10 09:23:23 | io.dowit/dowit | Dowit | 1.0.0 | Work planner for freelancers: calendar, tasks, projects, time tracking and clie… |
-| 2026-11-10 09:25:58 | com.vari8ion/vari8ion | Vari8ion | 1.1.0 | Find, date and price each change on a project. Link a OneDrive folder for daily… |
-| 2026-11-10 09:28:11 | holiday.wemake/wemake-holiday | wemake.holiday | 1.0.0 | Hotels (2.8M directory + live prices), flights, tours, route ideas, travel guid… |
-| 2026-11-10 09:29:12 | [io.github.CloudCorpRecords/pagesnap](https://github.com/CloudCorpRecords/pagesnap) |  | 0.1.0 | Screenshot any public web page as an image, and check your remaining screenshot… |
-| 2026-11-10 09:29:48 | com.lineupatlas/lineup-atlas | Lineup Atlas | 1.0.0 | Upcoming club nights, festivals and artist tour dates worldwide, with official… |
-| 2026-11-10 09:31:50 | app.voxball/verdicts | VoxBall · the fans' verdict | 1.0.0 | Football man of the match and best player of the season, voted by fans. Free, r… |
-| 2026-11-10 09:32:45 | org.escrowmcp/mm | MM by Escrow MCP | 0.3.0 | Escrow middleman for any deal between people or AI agents: USDC held in an audi… |
-| 2026-11-10 09:39:46 | [io.github.CloudCorpRecords/fiscocheck](https://github.com/CloudCorpRecords/fiscocheck) |  | 0.1.0 | Italian tax tools: codice fiscale, partita IVA, IBAN, ATECO, IMU, F24, FatturaP… |
-| 2026-11-10 09:41:06 | app.vercel.cleanmarket/marketplace | Clean Marketplace | 1.1.0 | Work marketplace for AI agents: find open tasks, claim, deliver and earn credit… |
-| 2026-11-10 09:48:20 | [io.github.muhamad-0/traceo](https://github.com/muhamad-0/traceo-skills) | Traceo | 0.1.0 | Traceo bug recordings (console, network, user actions, environment) as context… |
-| 2026-11-10 09:49:59 | [io.github.CloudCorpRecords/pixelgrade](https://github.com/CloudCorpRecords/pixelgrade) |  | 0.1.0 | Check a page's Meta, TikTok and OpenAI pixels: grades, findings, reports and fi… |
-| 2026-11-10 09:51:48 | su.xn--80apfqfbpi/kopipast | копипаст | 1.3.2 | End-to-end encrypted notes, code and files for AI agents: search, create, share… |
-| 2026-11-10 09:52:33 | studio.veena/veena | Veena | 1.0.0 | Veena is an AI DAW with a personal music producer built in. Make songs in your… |
-| 2026-11-10 09:57:19 | [io.github.zerostack-rf/zerostack-mcp](https://github.com/zerostack-rf/zerostack-mcp) | SMLIGHT ZeroStack RF Diagnostics | 0.9.9 | Zigbee/Thread log diagnostics, TI F2 & EFR32 register decoder, and ZeroStack ha… |
-| 2026-11-10 10:00:20 | [io.github.CloudCorpRecords/placeguide](https://github.com/CloudCorpRecords/placeguide) |  | 0.1.0 | Search verified places, menus, reviews and hours across 119 travel destinations. |
-| 2026-11-10 10:01:04 | ai.fortunest/portfolio | Fortunest | 1.0.0 | Ask about your real portfolio: holdings, risk, tax lots and trades across broke… |
-| 2026-11-10 10:01:35 | ai.fortunest/portfolio-demo | Fortunest demo | 1.0.0 | Free demo of Fortunest: a sample multi-broker portfolio your AI can query. No a… |
-| 2026-11-10 10:01:55 | [io.usefulapi/rechnio](https://github.com/m190/usefulapi-mcp) | Rechnio MCP by usefulapi | 1.0.0 | List invoices, customers, bank transactions and receipts; create draft invoices… |
-| 2026-11-10 10:01:55 | [io.usefulapi/faktuo](https://github.com/m190/usefulapi-mcp) | Faktuo MCP by usefulapi | 1.0.0 | Create invoice, proforma, quote and credit-note PDFs in Faktuo. |
-| 2026-11-10 10:07:51 | [io.github.OpenCidian/opencidian](https://github.com/OpenCidian/opencidian-mcp) | OpenCidian: open Chinese ↔ Vietnamese d… | 0.2.0 | Open Chinese-Vietnamese dictionary by Perxel: Hán Việt, pinyin, meanings, chara… |
-| 2026-11-10 10:10:38 | [io.github.CloudCorpRecords/eodrecord](https://github.com/CloudCorpRecords/eodrecord) |  | 0.1.0 | Read the published end-of-day state of a rules-based SPY and QQQ index model. |
-| 2026-11-10 10:12:32 | io.ideario/ideario | ideario | 1.0.0 | List, open, start, and add to your ideario ideas from your assistant. Needs Plu… |
-| 2026-11-10 10:14:08 | eu.beresol/monitors | Beresol EU Policy Monitors | 1.0.0 | Eight EU policy monitors: defence, capital markets, tariffs, AI, quantum, start… |
-| 2026-11-10 10:14:08 | eu.beresol/brubru | Brubru EU Policy Intelligence | 1.0.0 | EU laws, live legislative procedures, calendar, EPRS and policy guides for any… |
+| 2026-11-10 10:22:07 | io.github.shadoprizm/cyberlens-ai | CyberLens AI | 1.0.0 | Review saved CyberLens website and repository scans through read-only OAuth too… |
+| 2026-11-10 10:23:32 | [io.github.CloudCorpRecords/labelproof](https://github.com/CloudCorpRecords/labelproof) |  | 0.1.0 | Read-only EU energy-label preflight checks against supplier-declared EPREL reco… |
+| 2026-11-10 10:25:35 | [io.github.Argentic-AI/argentic](https://github.com/Argentic-AI/argentic-plugins) | Argentic | 0.3.3 | Run agents for hours. Argentic keeps their context sharp and records every step. |
+| 2026-11-10 10:28:43 | [io.github.Filippo-Venturini/ctxvault](https://github.com/Filippo-Venturini/ctxvault) | CtxVault | 0.9.1 | Local memory for AI agents: semantic, skill and episodic vaults as plain folder… |
+| 2026-11-10 10:30:04 | io.github.rodriguem75/gridlabs | GridLabs | 1.0.0 | French energy data, electricity and gas consumption, tariff scenarios and publi… |
+| 2026-11-10 10:30:04 | io.github.rodriguem75/datarespublica | DataRespublica | 1.1.0 | Independent platform exposing French official public territorial data through r… |
+| 2026-11-10 10:30:04 | io.github.rodriguem75/assuranceslabs | AssurancesLabs | 1.0.0 | Public insurance sources, home leak orientation and quote-intent resolution. |
+| 2026-11-10 10:30:05 | io.github.rodriguem75/telecomlabs | TelecomLabs | 1.0.0 | French departmental 5G data, department comparison and dataset discovery. |
+| 2026-11-10 10:30:05 | io.github.rodriguem75/banklabs | BankLabs | 1.0.0 | French banking comparisons, documented fees, coverage and tariff history. |
+| 2026-11-10 10:30:05 | io.github.rodriguem75/creditlabs | CreditLabs | 1.1.0 | Credit payment and amortization calculations, editorial sources and simulator d… |
+| 2026-11-10 10:32:39 | com.labeltruth/supplement-prices | LabelTruth | 0.1.0 | EU supplement prices per 1000 mg of the element, compared within one chemical f… |
+| 2026-11-10 10:33:28 | dev.workers.w0arvg81zlgf.x402-precheck/precheck | x402 Precheck | 1.0.0 | Check an x402 payment challenge before your agent pays: network, USDC, amount,… |
+| 2026-11-10 10:33:57 | [io.github.vouch-protocol/vouch-mcp](https://github.com/vouch-protocol/vouch) |  | 3.0.0 | Sign and verify W3C Verifiable Credentials so AI agents can cryptographically a… |
+| 2026-11-10 10:34:21 | org.northdakotafairytales/public-catalog | North Dakota Fairytales | 0.2.0 | Published North Dakota Fairytales lessons, books, songs, games, and stories. |
+| 2026-11-10 10:34:52 | [io.github.solvionholdings/guardlayer](https://github.com/solvionholdings/guardlayer-plugin) | GuardLayer | 1.0.0 | Security checks for Next.js + Supabase apps: code scan, read-only live DB check… |
+| 2026-11-10 10:36:01 | dev.workers.cybermax-tools.cybermax/image-converter | Pixkiln: Bulk Image Converter (WebP, AV… | 1.0.0 | Pixkiln: convert image URLs to WebP, AVIF, JPEG or PNG in bulk; resize, strip E… |
+| 2026-11-10 10:36:01 | dev.workers.cybermax-tools.cybermax/remote-jobs | Yonderlist: Remote Jobs Feed | 1.0.0 | Yonderlist: fresh remote jobs from Remote OK and Jobicy with salaries, filters… |
+| 2026-11-10 10:36:02 | dev.workers.cybermax-tools.cybermax/seo-audit | Auditmoss: SEO Audit & Broken Link Chec… | 1.0.0 | Auditmoss: crawl a whole site for SEO issues and broken links; a 0-100 score pe… |
+| 2026-11-10 10:36:02 | dev.workers.cybermax-tools.cybermax/shopify-scraper | Cartlark: Shopify & WooCommerce Scraper | 1.0.0 | Cartlark: products, prices, sale prices and stock from Shopify or WooCommerce s… |
+| 2026-11-10 10:36:02 | dev.workers.cybermax-tools.cybermax/website-to-markdown | Docsieve: Website to Markdown for RAG | 1.0.0 | Docsieve: crawl a website into clean Markdown, RAG chunks and llms.txt; re-runs… |
+| 2026-11-10 10:36:06 | sa.com.renewablevision/renewable-vision | Renewable Vision energy data | 0.2.0 | Saudi and regional energy data: registers, series, trackers, briefs; atlas laye… |
+| 2026-11-10 10:37:07 | [io.github.flagrix-io/flagrix](https://github.com/flagrix-io/flagrix-cli) |  | 0.5.0 | Scan GitHub repos and profiles for malware before cloning — commit-pinned risk… |
+| 2026-11-10 10:38:47 | [io.github.slimchanceapp/slimchance](https://github.com/slimchanceapp/slimchance) | Slim Chance | 1.1.0 | Honest weight trend and the chance it's really moving, from dated morning weigh… |
+| 2026-11-10 10:38:52 | [com.lexifina/global-law](https://github.com/lexifina/global-law) | Global law | 1.1.0 | The law of nearly every country on earth, any date: read it, see what changed i… |
+| 2026-11-10 10:39:29 | com.astromansion/astromansion | AstroMansion | 1.0.0 | Astrology from JPL ephemerides: natal charts, transits, synastry and 40+ techni… |
+| 2026-11-10 10:39:37 | [io.github.trademarkiq/trademarkiq](https://github.com/trademarkiq/trademarkiq-plugin) | TrademarkIQ | 1.0.0 | Marcas e patentes do INPI e do mundo / INPI and worldwide trademarks and patent… |
+| 2026-11-10 10:41:06 | photo.cadru/cadru | Cadru | 0.5.0 | Make and edit Instagram carousels, social covers, printed photo albums and zine… |
+| 2026-11-10 10:41:10 | [io.github.Idle-Sync/db-conn-mcp](https://github.com/Idle-Sync/db-conn-mcp) |  | 0.8.0 | A dead-simple, self-hosted MCP server for securely querying databases via AI ag… |
+| 2026-11-10 10:41:48 | [io.github.CloudCorpRecords/importproof](https://github.com/CloudCorpRecords/importproof) |  | 0.1.0 | Read-only EU import preflight: EORI, TARIC candidates, measures and landed cost. |
+| 2026-11-10 10:44:25 | ai.loice/mcp | Loice | 1.0.0 | B2B lead search, company employees, verified work emails, enrichment and ICP-ba… |
+| 2026-11-10 10:47:21 | app.getdroppy/docs | Droppy docs | 1.0.0 | Search and read the Droppy for Mac handbook, droplets, DroppyKit SDK and releas… |
+| 2026-11-10 10:47:22 | [im.binyan/binyan](https://github.com/nirarazi/building-management) | Binyan.im · בניינים | 1.1.0 | Building committee (ועד בית) finances: apartments, payments, expenses, reports. |
+| 2026-11-10 10:49:20 | com.terudo/partner | Terudo partner | 1.1.0 | Travel eSIMs for travel businesses: quotes, phone and plan checks, orders, top-… |
+| 2026-11-10 10:49:38 | [io.github.knchst/anymessage](https://github.com/knchst/AnyMessage) | AnyMessage | 0.4.0 | Read-only WeChat chats and local attachments for AI on macOS. Requires SQLCiphe… |
+| 2026-11-10 10:51:45 | com.superimpress/superimpress | SuperImpress | 1.0.0 | Run a job search from your agent: matched postings, decisions, applications, re… |
+| 2026-11-10 10:52:03 | com.byefine/parking-guides | ByeFine parking guides | 1.0.0 | Free, no key: plain-English guides to UK parking tickets, penalty charge notice… |
+| 2026-11-10 10:52:22 | [io.github.CloudCorpRecords/jobhunt](https://github.com/CloudCorpRecords/jobhunt) |  | 0.1.0 | Search job postings and employer profiles collected from company career sites. |
+| 2026-11-10 10:53:55 | ai.loice/telegram | Telegram MCP | 1.0.0 | Post messages from any AI assistant to your Telegram chats, groups and channels… |
+| 2026-11-10 10:59:40 | io.github.pinnfeed/odds | PinnFeed | 1.0.0 | Hosted MCP for live Pinnacle odds, drops, fair prices and closing lines. |
+| 2026-11-10 10:59:49 | fun.hoodsniper/paper-trading | HoodSniper Paper Trading | 1.2.0 | Paper trading for AI agents on live Robinhood Chain markets: orders, exits, PnL… |
+| 2026-11-10 11:02:50 | [io.github.CloudCorpRecords/billparse](https://github.com/CloudCorpRecords/billparse) |  | 0.1.0 | Turn invoice PDFs, scans and photos into checked spreadsheets and structured da… |
+| 2026-11-10 11:03:05 | [uk.co.crestwayskiphire/skip-hire](https://github.com/EdwardLea/crestway-skip-hire-mcp) | Crestway Skip Hire | 1.0.0 | UK skip hire prices, sizes and local permit rules |
+| 2026-11-10 11:03:55 | com.poemship/poems | PoemShip | 1.0.0 | Poems for a mood, a situation or an occasion, with poets, analyses and plans to… |
+| 2026-11-10 11:11:58 | com.nexavoxa/nexavoxa | NexaVoxa | 1.0.0 | AI voice agents that phone people: place a call, read the transcript, manage ag… |
+| 2026-11-10 11:13:20 | [io.github.CloudCorpRecords/threatcheck](https://github.com/CloudCorpRecords/threatcheck) |  | 0.1.0 | Check URLs, indicators and CVEs against threat intelligence before you act on t… |
+| 2026-11-10 11:13:52 | [io.github.SilentMesh-Systems/Lure](https://github.com/SilentMesh-Systems/Lure) |  | 0.1.0b2 | Plant fake credentials and get alerted when an attacker uses one. Stdlib-only,… |
+| 2026-11-10 11:20:04 | [com.pdfvera/pdfvera](https://github.com/pdfvera/pdfvera-mcp) | pdfvera | 1.0.1 | PDF invoices to XRechnung/ZUGFeRD; Brazilian bank statement PDFs to OFX, CSV an… |
+| 2026-11-10 11:20:12 | tools.imagetovideoai/image-to-video | Image to Video AI | 1.0.0 | Turn an uploaded photo into an AI video. Preview the credit cost and get the fi… |
 
 ## Data source
 
