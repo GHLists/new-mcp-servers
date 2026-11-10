@@ -1,0 +1,63 @@
+created_at,server,title,version,repository,transports,description
+2026-11-10T14:21:45.428485Z,io.github.bounty-market/bountymarket-agent-tools,BountyMarket,0.1.0,https://github.com/bounty-market/bountymarket-agent-tools,streamable-http,"Task marketplace for AI agents and humans (Australia, AUD, online tasks)."
+2026-11-10T14:21:53.742117Z,io.github.MariusGithub13/dealos-mcp,Deal OS,0.1.0,,streamable-http,"Read-only due diligence knowledge for small acquisitions (search funds, SBA). Cites getdealos.tech."
+2026-11-10T14:24:43.489232Z,nl.discovertours/discover-canal-cruises,Discover Canal Cruises – private tours in Leiden,1.0.0,,streamable-http,"Private canal cruises in Leiden, Netherlands: availability, group prices and a booking link."
+2026-11-10T14:24:44.169388Z,nl.discovertours/discover-leiden,Discover Leiden – private tours in Leiden,1.0.0,,streamable-http,"Private thematic tours in Leiden, Netherlands: availability, group prices and a booking link."
+2026-11-10T14:26:48.857969Z,io.github.SuBai520-QWQ/pagedigest,PageDigest — Web Page Summarizer & Structured Extractor,0.1.0,,streamable-http,"Pay-per-call web page summarizer: $0.01 via x402 (USD₮0, X Layer). Free sampling available."
+2026-11-10T14:28:06.130716Z,io.github.bitrise-io/bitrise-mcp,Bitrise,2.10.0,https://github.com/bitrise-io/bitrise-mcp,streamable-http,"Set up & manage mobile CI/CD on Bitrise: build, test, distribute iOS, Android, Flutter, RN apps."
+2026-11-10T14:28:17.082632Z,io.github.alicexixi85/geo-seo-mcp-pro,GEO & SEO Readiness (Lite),0.1.0,https://github.com/alicexixi85/geo-seo-mcp-pro,,"Checks robots.txt for AI search vs training crawlers, llms.txt, JSON-LD, canonicals and sitemaps."
+2026-11-10T14:29:40.849877Z,io.github.IMAGIN-studio/api-docs-mcp,IMAGIN.studio API Docs,0.1.28,https://github.com/IMAGIN-studio/api-docs-mcp,,Give your AI coding assistant direct access to the IMAGIN.studio vehicle imagery API docs.
+2026-11-10T14:29:45.37242Z,io.github.alicexixi85/us-market-regime-mcp,U.S. Market Regime,0.1.0,https://github.com/alicexixi85/us-market-regime-mcp,,"End-of-day QQQ/VIX GREEN/YELLOW/RED market regime context. Educational, not investment advice."
+2026-11-10T14:30:12.916805Z,io.github.alicexixi85/wdi-decision-mcp,WDI Decision Intelligence,0.1.0,https://github.com/alicexixi85/wdi-decision-mcp,,"Cash-runway math, evidence grading and six-dimension option comparison for personal decisions."
+2026-11-10T14:34:37.102458Z,com.wendily/wendily,Wendily,0.6.0,,streamable-http,"Write and share trip itineraries on a user's behalf, day by day."
+2026-11-10T14:35:24.811237Z,pro.m2g.opstether/opstether,OpsTether — Linux Server Management,0.4.5,,streamable-http,"Linux server administration over OAuth MCP: shell, Docker, systemd, files and monitoring."
+2026-11-10T14:36:14.93848Z,com.clawhard/xray,Xray,1.0.0,,streamable-http,"Find hidden Unicode in text or files: ASCII smuggling decoded, bidi overrides, look-alike letters."
+2026-11-10T14:37:10.073072Z,com.mailpace/mailpace-mcp,MailPace,2.0.1,https://github.com/mailpace/mailpace-mcp,,Send transactional email and manage MailPace domains from MCP clients.
+2026-11-10T14:38:59.965484Z,to.xswap/swap,xswap.to,1.0.0,,streamable-http,"Quote, create and track crypto swaps across hundreds of coins and networks. No account needed."
+2026-11-10T14:40:47.417721Z,io.github.kubedrive/kubedrive,KubeDrive,0.6.6,https://github.com/kubedrive/kubedrive,,"Your Kubernetes clusters for AI agents through the KubeDrive desktop app, without a kubeconfig."
+2026-11-10T14:41:48.457525Z,com.romeoseo/romeoseo,RomeoSEO,1.0.0,,streamable-http,"Your SEO plan, keyword research, Google results and article drafts from RomeoSEO."
+2026-11-10T14:47:26.339472Z,io.github.windows10fan648/youtube-transcript-mcp,YouTube Transcript MCP,1.0.0,https://github.com/windows10fan648/youtube-transcript-mcp,,Fetches public YouTube caption tracks with timestamps and exact language selection.
+2026-11-10T14:49:10.964461Z,dev.workers.dailydrop-jc.changeorder/changeorder,ChangeOrder,1.0.0,,streamable-http,Flag mid-project scope changes and draft a priced change-order reply. Not legal advice.
+2026-11-10T14:50:54.176341Z,app.vercel.aididwhat/aididwhat,AI Did WHAT?!,1.0.0,,streamable-http,"Joke site where AI agents confess their own funny mess-ups. Post a fail, or read the latest ones."
+2026-11-10T14:51:48.842511Z,ai.semly/public-website,Semly Public Website,0.1.0,,streamable-http,"Read-only Semly plans, prices, features, integrations and published articles in 15 languages."
+2026-11-10T14:53:28.322968Z,com.parkerfawcett/rebuild-dossier,Rebuild Dossier,0.2.15,https://github.com/Parker-Fawcett/rebuild-dossier,,MCP server that reverse-engineers a locked rebuild spec from an existing app.
+2026-11-10T14:54:06.181257Z,ai.buzzabout/mcp,buzzabout,3.1.1,,streamable-http,"Social media research for AI agents: analyzed themes, audiences and research answers, not raw posts."
+2026-11-10T14:56:34.656691Z,dev.samva/mcp,Samva MCP,1.1.0,https://github.com/SamvaHQ/samva,streamable-http,"Authenticated Samva email and WhatsApp tools, including public documentation and template discovery."
+2026-11-10T14:57:30.455895Z,com.wholetally/mcp,Wholetally,0.1.0,,streamable-http,"Cookieless, EU-hosted analytics for agencies. Query sites, traffic, AI crawlers, funnels or reports."
+2026-11-10T15:01:42.134919Z,online.zimun/booking,Zimun.online,1.0.0,,streamable-http,Check availability and book appointments or resources at businesses that use Zimun.online.
+2026-11-10T15:01:50.818559Z,com.euroflation/euroflation,Euroflation,1.0.0,,streamable-http,"European inflation, ECB rates, wages, fuel and electricity prices, with sources. Read-only."
+2026-11-10T15:04:14.022414Z,io.github.CurrencyCore/currency-core-mcp,CurrencyCore,1.0.0,https://github.com/CurrencyCore/currency-core-mcp,streamable-http,"Live FX rates, conversion, IMF PPP, and historical currency analytics."
+2026-11-10T15:04:21.657834Z,build.airboard/airboard,AIrboard,0.1.0,,streamable-http,"Read and change the AIrboard whiteboards of your human: items, frames, comments, renders, uploads."
+2026-11-10T15:04:40.129531Z,solutions.int-tech/events,AEGIS Events,1.0.0,https://github.com/inttech-solutions/events-mcp,streamable-http,"Read-only search of security events from the news by place, point and radius, category and date."
+2026-11-10T15:05:15.748777Z,io.github.jaylann/mcp-server-sevdesk,sevDesk,0.1.0,https://github.com/jaylann/mcp-server-sevdesk,,"Safety-first MCP server for sevDesk accounting: invoices, receipts, banking, reports. Unofficial."
+2026-11-10T15:06:18.084025Z,io.github.HowlinMan24/redproof,,0.1.0,,,Security checks for apps built with AI tools: scan a GitHub repo and read the fix prompts.
+2026-11-10T15:07:53.07101Z,app.postonce/postonce,PostOnce (postonce.app),1.0.0,,streamable-http,Draft social posts from your AI assistant; schedules or publishes only after you confirm.
+2026-11-10T15:09:24.52643Z,io.github.tonone-ai/tonone,,0.1.1,https://github.com/tonone-ai/tonone,,"Routes a task to the right tonone specialist agent or skill (140 agents, 573 skills)."
+2026-11-10T15:10:41.682607Z,tools.archipelago/archipelago,Archipelago (archipelago.tools),0.2.0,https://github.com/AlexReiner98/archipelago,streamable-http,"Agent memory for human brains: your agent's plans and decisions as a map you read, correct, share."
+2026-11-10T15:10:49.387407Z,ai.fudge/fudge,Fudge for Shopify,1.0.1,https://github.com/fudge-ai/fudge-plugin,streamable-http,"Run your Shopify store with AI: drafts you approve, what to fix, and how your store is doing."
+2026-11-10T15:10:54.443557Z,dev.remocn/remocn,Remocn: Remotion MCP server,1.0.0,https://github.com/Remocn/remocn,streamable-http,"Hosted MCP for Remotion videos: search Remocn components, read docs, plan a video, preview it."
+2026-11-10T15:14:39.448336Z,io.guarapay/card,GuaraPay,1.1.0,,streamable-http,"Virtual Visa/Mastercard cards topped up with USDT: issue cards, top up, pay within holder's limits."
+2026-11-10T15:15:48.354939Z,com.gotsimplified/note,Notes Got Simplified,0.1.0,,streamable-http,"Save, search and edit your private notes by talking to your AI assistant."
+2026-11-10T15:15:48.461919Z,com.gotsimplified/task,Tasks Got Simplified,0.1.0,,streamable-http,"To-do lists by voice or chat: add tasks with due dates, check them off, see what's due."
+2026-11-10T15:15:48.581538Z,com.gotsimplified/calendar,Calendar Got Simplified,0.1.0,,streamable-http,"Create recurring events and send invites from your own address, in one sentence."
+2026-11-10T15:15:48.705596Z,com.gotsimplified/contact,Contacts Got Simplified,0.1.0,,streamable-http,"A private address book your AI can search, update and import into."
+2026-11-10T15:15:48.821956Z,com.gotsimplified/email,Email Got Simplified,0.1.0,,streamable-http,"Read, search and draft email; nothing is sent until you confirm."
+2026-11-10T15:15:48.944332Z,com.gotsimplified/datalake,Datalake Got Simplified,0.1.0,,streamable-http,"Create, read, update and delete your data lake with simple prompts. Share tables by row and column."
+2026-11-10T15:15:49.089699Z,com.gotsimplified/analytics,Analytics Got Simplified,0.1.0,,streamable-http,Build a semantic layer of reusable metrics and query it in plain words. Share models with your team.
+2026-11-10T15:15:49.258503Z,com.gotsimplified/shorturl,Short URL Got Simplified,0.1.0,,streamable-http,Create short links and see their click counts from your AI assistant.
+2026-11-10T15:17:10.628424Z,net.skein/skein,SKEIN,1.1.0,https://github.com/tryskein/skein,streamable-http,"Shared graph-based task tracker for agents, agents’ agents and people. Source-available, free cloud."
+2026-11-10T15:18:51.09545Z,do.any/anydo,Any.do,1.0.0,,streamable-http; sse,"Read and update a signed-in user's Any.do tasks, lists, reminders, calendar and team boards."
+2026-11-10T15:19:39.508797Z,com.gotsimplified/qrcode,QR Code Got Simplified,0.1.0,,streamable-http,"Make QR codes for links, text or contact cards."
+2026-11-10T15:19:39.617568Z,com.gotsimplified/password,Password Generator Got Simplified,0.1.0,,streamable-http,Generate strong passwords with the character sets you choose.
+2026-11-10T15:19:39.743584Z,com.gotsimplified/uuid,UUID Got Simplified,0.1.0,,streamable-http,"Generate UUIDs (v4, v7) and sortable ULIDs."
+2026-11-10T15:19:39.874029Z,com.gotsimplified/cert-checker,Certificate Checker Got Simplified,0.1.0,,streamable-http,Check a website's TLS certificate and how many days until it expires.
+2026-11-10T15:19:39.998263Z,com.gotsimplified/base64,Base64 Got Simplified,0.1.0,,streamable-http,Encode text to Base64 or decode Base64 back to plain text.
+2026-11-10T15:19:40.112084Z,com.gotsimplified/case,Case Converter Got Simplified,0.1.0,,streamable-http,"Convert text between camelCase, snake_case, kebab-case and PascalCase."
+2026-11-10T15:19:40.247179Z,com.gotsimplified/csv,CSV to JSON Got Simplified,0.1.0,,streamable-http,Turn CSV data into structured JSON.
+2026-11-10T15:19:40.379432Z,com.gotsimplified/email-parser,Email Parser Got Simplified,0.1.0,,streamable-http,"Clean up an email: strip signatures and quoted replies, and summarize what is left."
+2026-11-10T15:19:40.513395Z,com.gotsimplified/hash,Hash Generator Got Simplified,0.1.0,,streamable-http,"Compute MD5, SHA-256 or SHA-512 hashes of text."
+2026-11-10T15:19:40.640302Z,com.gotsimplified/lorem,Lorem Ipsum Got Simplified,0.1.0,,streamable-http,Generate placeholder Lorem Ipsum text.
+2026-11-10T15:19:40.778309Z,com.gotsimplified/markdown-to-html,Markdown to HTML Got Simplified,0.1.0,,streamable-http,Convert Markdown to safe HTML.
+2026-11-10T15:19:40.903494Z,com.gotsimplified/slug,Slug Generator Got Simplified,0.1.0,,streamable-http,"Turn text into a clean, URL-friendly slug."
+2026-11-10T15:19:41.031633Z,com.gotsimplified/text,Text Counter Got Simplified,0.1.0,,streamable-http,"Count characters, words and paragraphs, and estimate reading time."
+2026-11-10T15:19:41.163971Z,com.gotsimplified/settings,Settings Got Simplified,0.1.0,,streamable-http,"View your profile, preferences and usage, and update your account."
