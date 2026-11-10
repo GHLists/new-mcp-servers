@@ -1,0 +1,30 @@
+created_at,server,title,version,repository,transports,description
+2026-11-10T22:20:58.371375Z,com.vinovoss/mcp,VinoVoss,1.0.0,,streamable-http,"Search a US wine marketplace, compare offers that ship to your state, and buy or track an order."
+2026-11-10T22:33:19.070986Z,app.catalantable/recipes,The Catalan Table — Recipes,1.0.0,,streamable-http,"470+ tested traditional Catalan & Spanish recipes: ingredients, steps, nutrition. EN/ES/CA."
+2026-11-10T22:33:23.508333Z,us.moreabout/more-about,More About,2.8.0,,streamable-http,"Edit your link-in-bio page and schedule posts to Instagram, Facebook, YouTube, X and Threads."
+2026-11-10T22:36:02.004474Z,io.github.HoldMyBeer-gg/bad-ass-mcp,bad-ass-mcp,1.6.0,https://github.com/HoldMyBeer-gg/bad-ass-mcp,,"Desktop GUI automation on macOS, Windows and Linux through accessibility trees, not screenshots."
+2026-11-10T22:36:07.267051Z,io.github.AndrewVG23/grocery-mcp,Grocery MCP,0.1.1,https://github.com/AndrewVG23/grocery_mcp,streamable-http,Search direct grocery storefronts and create product-link pickup handoffs.
+2026-11-10T22:37:05.294016Z,com.jomobench/mcp,JomoBench,1.0.0,,streamable-http,"fomo app spot fee quotes, the measured realized fee rate, referral facts, site search. Read-only."
+2026-11-10T22:37:39.985922Z,io.github.ummmno/inferthat,Inferthat,0.1.0,https://github.com/ummmno/inferthat-plugin,,Search fixes other agents already found before you debug; post a note when you solve one.
+2026-11-10T22:42:50.890009Z,com.boxofficefees/mcp,Box Office Fees,1.0.0,,streamable-http,"Event ticketing platforms priced on one event: total fees, buyer part, payout."
+2026-11-10T22:44:51.9804Z,ai.knowdrive/knowdrive-mcp,KnowDrive,0.1.8,https://github.com/Recourse-Software-Inc/knowdrive-mcp,streamable-http,"Private, multimodal knowledge store for agents: hybrid search with cited, provenance-backed results."
+2026-11-10T22:49:19.190804Z,io.github.andrewcmcguire/steadybase,Steadybase,1.0.0,,streamable-http,Cited company facts and signals from SEC filings for US public companies.
+2026-11-10T22:52:22.176431Z,br.com.orkestraai/orkestra,Orkestra,1.0.0,,streamable-http,"Tasks, org memory, impact simulations, docs, deploys and pull requests from the Orkestra suite."
+2026-11-10T22:52:41.138355Z,us.raydn/news,Raydn,1.0.0,,streamable-http,"Fast financial and world news: the latest stories, search and full articles. Free without a key."
+2026-11-10T22:54:47.233886Z,ai.kwekuanansi/africa-contacts,Africa Contacts,1.0.0,,streamable-http,"Customer-care and complaints numbers in Kenya and Nigeria, each read on the body's own website."
+2026-11-10T22:54:47.995912Z,ai.kwekuanansi/ghana-services,Ghana Services,1.0.0,,streamable-http,"Plumbers, electricians and phone repairers in Greater Accra confirmed by a person, by area."
+2026-11-10T22:54:48.765397Z,ai.kwekuanansi/ghana-translate,Ghana Translate,1.0.0,,streamable-http,"Short text between English and Twi, Ewe or Ga, translated by Khaya (Ghana NLP)."
+2026-11-10T22:55:22.123364Z,guru.trend/trendguru,TrendGuru,1.0.0,,streamable-http,"Publish and schedule posts to Instagram, TikTok, YouTube, Facebook, LinkedIn and X. Pay per post."
+2026-11-10T22:55:57.649336Z,com.recurboard/recurboard,RecurBoard,1.0.0,,streamable-http,"SaaS KPIs for subscription businesses: MRR/ARR, churn, cohorts and P&L from RecurBoard."
+2026-11-10T22:56:41.206432Z,xyz.indexfy/indexfy,Indexfy,0.1.0,,streamable-http,"Buy and sell fully backed crypto index tokens and trade prediction markets on Base, in USDC."
+2026-11-10T23:03:13.729338Z,com.easyi18n/cli,easyi18n,1.2.1,https://github.com/liontude/easyi18n-agents,,"Set up easyi18n in a Flutter, Xcode, Angular, web or Android project, then translate and publish."
+2026-11-10T23:04:34.563255Z,com.underhyper/mcp,UnderHyper,1.0.0,,streamable-http,"Hyperliquid referral code, perp markets, funding rates, HIP-3 dexes and site search. Read-only."
+2026-11-10T23:04:36.500613Z,com.pumpfyi/mcp,PumpFYI,1.1.0,,streamable-http,"pump.fun fee quotes, cheapest place to trade, coin checks, referral facts, site search. Read-only."
+2026-11-10T23:08:38.707958Z,technology.serp/serp,SERP.technology,1.0.0,,streamable-http,"Read workspaces, sites, keywords, articles and analytics from the SERP.technology SEO platform."
+2026-11-10T23:11:31.283865Z,io.github.Nebulous-Ideas/legacy-switch-mcp,,0.1.1,https://github.com/Nebulous-Ideas/legacy-switch-mcp,,Manage D-Link DGS-1100 and USRobotics 7724 smart switches: plan-then-apply changes with rollback.
+2026-11-10T23:11:36.934153Z,com.personalizedgiftsdelivered/gift-boxes,Personalized Gifts Delivered,1.0.0,,streamable-http,"Quote logo mug gift boxes, check a logo and save a draft order that the buyer pays for on our site."
+2026-11-10T23:11:47.613251Z,com.dividendsolo.situation/situation,Situation,1.0.0,,streamable-http,"Live world situations for agents: the wire, the map's events and the stories behind them."
+2026-11-10T23:12:15.656842Z,app.prickelly/tracker,Prickelly,1.0.0,https://github.com/ozulkuomer/prickelly,streamable-http,"Track the price you actually pay on Amazon.com.tr, Hepsiburada and Trendyol."
+2026-11-10T23:12:48.511474Z,com.yobiru/friends,Yobiru Friends,0.7.25,https://github.com/chekusu/yobiru,streamable-http,"Let your AI agent reach friends' agents: look up, follow and message bots on bots.yobiru.com."
+2026-11-10T23:16:38.806655Z,ai.colorcraft/colorcraft,ColorCraft,1.0.0,,streamable-http,"Research KDP niches and make print-ready coloring, story, comic and puzzle books."
+2026-11-10T23:20:57.504274Z,io.github.Nodium-io/whatsapp,Nodium WhatsApp,1.0.0,https://github.com/Nodium-io/sdk,streamable-http,"Operate WhatsApp from an agent: read conversations and contacts, send messages, by API key."

@@ -9,61 +9,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 22:20 UTC
+## Latest list — 2026-11-10 23:21 UTC
 
-New MCP servers published between 2026-11-10 21:22 UTC and 2026-11-10 22:20 UTC.
+New MCP servers published between 2026-11-10 22:20 UTC and 2026-11-10 23:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-10T22-20-15-00634Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-10T23-21-08-799473Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-10 21:24:25 | [ai.agent-bev/bevgtin](https://github.com/agent-bev/bevgtin) | bevGTIN | 0.1.0 | bevGTIN — the beverage alcohol sourcing GTIN confirmation. |
-| 2026-11-10 21:24:54 | [dev.claix/claix](https://github.com/Gaelproodoos/claix-interfaz) | Claix | 1.14.0 | Security layer for AI agents: Retrieve for controlled SQL reads, Guard for allo… |
-| 2026-11-10 21:26:20 | [io.github.Noju-io/docmint](https://github.com/Noju-io/docmint-mcp) | Docmint | 0.1.1 | PDF and image tools for AI agents: compress, merge, split, OCR, sign. Runs loca… |
-| 2026-11-10 21:27:10 | io.cryptolighthouse/rewards | Crypto Lighthouse | 1.0.0 | Read-only Flare and Songbird FTSO data: reward deadlines, provider rates, claim… |
-| 2026-11-10 21:27:31 | [com.toptimesheets/deskless-workforce](https://github.com/MeWeBecom/mewebe-mcp-servers) | TopTimesheets Deskless Clock-In & Payro… | 1.0.0 | WhatsApp, mobile, and kiosk GPS selfie clock-ins with instant payroll export fo… |
-| 2026-11-10 21:27:34 | [com.mewemarket/saas-directory](https://github.com/MeWeBecom/mewebe-mcp-servers) | MeweMarket 106+ Business & AI Apps Work… | 1.0.0 | Unified business app workspace and curated SaaS directory across 106+ tools in… |
-| 2026-11-10 21:28:34 | [com.ebrbe/agency-compute-ledger](https://github.com/MeWeBecom/mewebe-mcp-servers) | eBRBe Hybrid Human + AI Agent Compute B… | 1.0.0 | Track human engineering hours plus Claude Code & Cursor compute spend on one cl… |
-| 2026-11-10 21:35:27 | com.lastvesper/studio | Last Vesper Studio | 1.0.0 | Draft, history-test and paper-track options strategies in your Last Vesper Stud… |
-| 2026-11-10 21:37:54 | nl.thelistaccess/events | The List Access | 1.0.0 | Search the public Dutch event calendar by artist, city, venue, genre and date.… |
-| 2026-11-10 21:39:22 | [io.github.rymi-live/rymi-mcp](https://github.com/rymi-live/rymi-mcp) | Rymi | 2.13.0 | Build, call and manage AI voice agents on real phone calls. |
-| 2026-11-10 21:41:55 | com.cheapestinindia/cheapestinindia | CheapestInIndia | 1.0.0 | India shopping search engine and price tracker: price history, price drops and… |
-| 2026-11-10 21:48:58 | [com.viplims/cloud-lims](https://github.com/MeWeBecom/mewebe-mcp-servers) | VIPLIMS Cloud Laboratory Information Ma… | 1.0.0 | Cloud LIMS sample tracking, chain-of-custody, and ISO workflow tools for diagno… |
-| 2026-11-10 21:50:17 | com.addrbook/directory | addrbook directory | 0.1.0 | Look up AI agents, MCP servers and x402 APIs: whether they answer, how they ask… |
-| 2026-11-10 21:50:23 | [io.github.gregcastro23/alchm-kitchen](https://github.com/gregcastro23/WhatToEatNext) |  | 1.5.2 | Thirteen culinary & astrological tools: transits, ingredients, recipes, synastr… |
-| 2026-11-10 21:53:30 | app.netlify.uncork/uncork | Uncork | 1.0.0 | Find existing products that fix a work bottleneck: YC startups, GitHub repos, S… |
-| 2026-11-10 21:55:10 | com.whatsonvegas/whats-on-vegas | What's On Vegas | 1.2.0 | What's on in Las Vegas: events, Strip hotel prices by night, hotel facts, casin… |
-| 2026-11-10 21:55:11 | com.whatsonmiami/whats-on-miami | What's On Miami | 1.0.0 | What's on in Miami: events, hotel prices by night, Art Basel week, nightlife, t… |
-| 2026-11-10 21:59:15 | com.luvicreator/luvi | LUVI Creator | 1.0.0 | AI video, image, audio and 3D generation on 200+ models, with a credit quote be… |
-| 2026-11-10 22:01:58 | [io.github.Lokumbus/west-coast-charts-agent](https://github.com/Lokumbus/west-coast-charts-agent) | WestCoast Charts | 0.2.4 | Validate, render (SVG/PNG) and describe WestCoast Charts specs headlessly, with… |
-| 2026-11-10 22:03:32 | io.github.naithan20/agentgraph | AgentGraph | 0.1.0 | Search 42,000+ MCP servers and agents by capability over one stateless MCP endp… |
-| 2026-11-10 22:04:05 | tn.primini/mcp | Primini Tunisie | 2.0.0 | Read-only price comparison for Tunisia: products, store offers, price history,… |
-| 2026-11-10 22:07:36 | com.ysaere/mcp | Ysaere | 0.1.0 | Free company snapshot, sync briefs, then angel/CI/DD swarms with provenance rec… |
-| 2026-11-10 22:10:05 | com.welltolddesign/well-told | Well Told | 1.0.0 | Design custom logo and map gifts (glassware, tumblers): proofs, 3D previews, qu… |
-| 2026-11-10 22:10:32 | [io.github.AnshumanAtrey/ycombinator-jobs-search](https://github.com/AnshumanAtrey/ycombinator-jobs-search) | Y Combinator Jobs Scraper & API - Work… | 1.0.4 | Y Combinator Jobs Scraper - Salary, Equity & Visa |
-| 2026-11-10 22:11:31 | com.warminboxes/fleet-planner | WarmInboxes Free MCP: Fleet Planner | 1.0.0 | Read-only sizing and pricing for cold email inboxes: how many, which provider,… |
-| 2026-11-10 22:11:42 | [io.rapidworkers/rapidworkers](https://github.com/RapidWorkers-io/rapidworkers) | RapidWorkers | 0.1.0 | Hire real people for AI data collection (photos, audio, video), app testing and… |
-| 2026-11-10 22:12:02 | [io.github.AnshumanAtrey/efinancialcareers-jobs-search](https://github.com/AnshumanAtrey/efinancialcareers-jobs-search) | eFinancialCareers Jobs Scraper & API -… | 1.0.5 | eFinancialCareers Jobs Scraper - Finance Jobs, Pay |
-| 2026-11-10 22:12:48 | [io.github.AnshumanAtrey/wellfound-jobs-search](https://github.com/AnshumanAtrey/wellfound-jobs-search) | Wellfound Jobs Scraper & API - AngelLis… | 1.0.6 | Wellfound Jobs Scraper - Startup Salary & Equity |
-| 2026-11-10 22:12:51 | [com.solaraai/solara](https://github.com/solaraai-official/solaraai-agent) | Solara AI | 0.1.0 | Edit a talking-head recording into a captioned short video, export it, and ask… |
-| 2026-11-10 22:13:43 | [io.github.AnshumanAtrey/hiringcafe-jobs-search](https://github.com/AnshumanAtrey/hiringcafe-jobs-search) | Hiring Cafe Jobs Scraper & API - Salary… | 1.0.6 | Hiring Cafe Jobs Scraper - Newest Jobs & Apply Links |
-| 2026-11-10 22:14:26 | com.syncydo/calendar | Syncydo | 1.0.0 | Read-only view of all your calendars (Google, Outlook, Zoho, iCloud): agenda an… |
-| 2026-11-10 22:15:11 | kids.sito/sito-kids-baby-food | sito: Kids & Baby Food | 1.0.0 | How to serve first foods at a child's age, with photos, and KidScore for packag… |
-| 2026-11-10 22:15:26 | [io.github.AnshumanAtrey/welcome-to-the-jungle-jobs-search](https://github.com/AnshumanAtrey/welcome-to-the-jungle-jobs-search) | Welcome to the Jungle Jobs Scraper & AP… | 1.0.5 | Welcome to the Jungle Jobs Scraper - France & Europe |
-| 2026-11-10 22:16:42 | ai.kwekuanansi/ghana-numbers | Ghana in Numbers | 1.0.0 | Ghana's 2021 census by region, district, age, sex and schooling, and mobile mon… |
-| 2026-11-10 22:16:43 | ai.kwekuanansi/day-names | Akan Day Names | 1.0.0 | The Akan day name for a date of birth, in Asante Twi and Fante forms. |
-| 2026-11-10 22:16:44 | ai.kwekuanansi/akan-proverbs | Akan Proverbs | 1.0.0 | Akan proverbs in Twi and English, by topic, by word, or one for the day. |
-| 2026-11-10 22:16:45 | ai.kwekuanansi/scam-check | Ghana Scam Check | 1.0.0 | Compares a message with fraud patterns reported in Ghana and says where to repo… |
-| 2026-11-10 22:16:46 | ai.kwekuanansi/ghana-pay-tax | Ghana Pay and Tax | 1.0.0 | Take-home pay, income tax and social security for a salary in Ghana, and VAT wi… |
-| 2026-11-10 22:16:47 | ai.kwekuanansi/ghana-contacts | Ghana Contacts | 1.0.0 | Customer-care and emergency numbers in Ghana, each read on the organisation's o… |
-| 2026-11-10 22:16:48 | ai.kwekuanansi/money-sums | Money Sums | 1.0.0 | True yearly cost of flat-rate and app loans, margin and markup, break-even, and… |
-| 2026-11-10 22:16:48 | ai.kwekuanansi/exam-grades | Exam Grades and Entry | 1.0.0 | WASSCE and BECE aggregates, KCSE mean grades, JAMB minimums and NSC pass thresh… |
-| 2026-11-10 22:16:49 | ai.kwekuanansi/africa-pay | Africa Take-Home Pay | 1.0.0 | Take-home pay, PAYE and payroll contributions in Ghana, Kenya, Nigeria and Sout… |
-| 2026-11-10 22:16:50 | ai.kwekuanansi/work-abroad | Work Abroad Check | 1.0.0 | Warning signs in a job or visa offer abroad, UK sponsor check, route rules, whe… |
-| 2026-11-10 22:20:06 | io.github.JusticeUA/czech-republic-company-check | Czech Republic Company Check | 0.1.0 | Czech company checks by IČO: status, liquidation, employer insolvency flag, LEI… |
-| 2026-11-10 22:20:07 | io.github.JusticeUA/pennsylvania-company-check | Pennsylvania Company Check | 0.1.0 | Pennsylvania company checks by entity number: active status, legal form, LEI an… |
-| 2026-11-10 22:20:07 | io.github.JusticeUA/switzerland-company-check | Switzerland Company Check | 0.1.0 | Switzerland company checks by UID: status, liquidation, legal form, LEI and san… |
-| 2026-11-10 22:20:08 | io.github.JusticeUA/argentina-company-check | Argentina Company Check | 0.1.0 | Argentina company checks by CUIT: legal form, activities, Buenos Aires City sta… |
+| 2026-11-10 22:20:58 | com.vinovoss/mcp | VinoVoss | 1.0.0 | Search a US wine marketplace, compare offers that ship to your state, and buy o… |
+| 2026-11-10 22:33:19 | app.catalantable/recipes | The Catalan Table — Recipes | 1.0.0 | 470+ tested traditional Catalan & Spanish recipes: ingredients, steps, nutritio… |
+| 2026-11-10 22:33:23 | us.moreabout/more-about | More About | 2.8.0 | Edit your link-in-bio page and schedule posts to Instagram, Facebook, YouTube,… |
+| 2026-11-10 22:36:02 | [io.github.HoldMyBeer-gg/bad-ass-mcp](https://github.com/HoldMyBeer-gg/bad-ass-mcp) | bad-ass-mcp | 1.6.0 | Desktop GUI automation on macOS, Windows and Linux through accessibility trees,… |
+| 2026-11-10 22:36:07 | [io.github.AndrewVG23/grocery-mcp](https://github.com/AndrewVG23/grocery_mcp) | Grocery MCP | 0.1.1 | Search direct grocery storefronts and create product-link pickup handoffs. |
+| 2026-11-10 22:37:05 | com.jomobench/mcp | JomoBench | 1.0.0 | fomo app spot fee quotes, the measured realized fee rate, referral facts, site… |
+| 2026-11-10 22:37:39 | [io.github.ummmno/inferthat](https://github.com/ummmno/inferthat-plugin) | Inferthat | 0.1.0 | Search fixes other agents already found before you debug; post a note when you… |
+| 2026-11-10 22:42:50 | com.boxofficefees/mcp | Box Office Fees | 1.0.0 | Event ticketing platforms priced on one event: total fees, buyer part, payout. |
+| 2026-11-10 22:44:51 | [ai.knowdrive/knowdrive-mcp](https://github.com/Recourse-Software-Inc/knowdrive-mcp) | KnowDrive | 0.1.8 | Private, multimodal knowledge store for agents: hybrid search with cited, prove… |
+| 2026-11-10 22:49:19 | io.github.andrewcmcguire/steadybase | Steadybase | 1.0.0 | Cited company facts and signals from SEC filings for US public companies. |
+| 2026-11-10 22:52:22 | br.com.orkestraai/orkestra | Orkestra | 1.0.0 | Tasks, org memory, impact simulations, docs, deploys and pull requests from the… |
+| 2026-11-10 22:52:41 | us.raydn/news | Raydn | 1.0.0 | Fast financial and world news: the latest stories, search and full articles. Fr… |
+| 2026-11-10 22:54:47 | ai.kwekuanansi/africa-contacts | Africa Contacts | 1.0.0 | Customer-care and complaints numbers in Kenya and Nigeria, each read on the bod… |
+| 2026-11-10 22:54:47 | ai.kwekuanansi/ghana-services | Ghana Services | 1.0.0 | Plumbers, electricians and phone repairers in Greater Accra confirmed by a pers… |
+| 2026-11-10 22:54:48 | ai.kwekuanansi/ghana-translate | Ghana Translate | 1.0.0 | Short text between English and Twi, Ewe or Ga, translated by Khaya (Ghana NLP). |
+| 2026-11-10 22:55:22 | guru.trend/trendguru | TrendGuru | 1.0.0 | Publish and schedule posts to Instagram, TikTok, YouTube, Facebook, LinkedIn an… |
+| 2026-11-10 22:55:57 | com.recurboard/recurboard | RecurBoard | 1.0.0 | SaaS KPIs for subscription businesses: MRR/ARR, churn, cohorts and P&L from Rec… |
+| 2026-11-10 22:56:41 | xyz.indexfy/indexfy | Indexfy | 0.1.0 | Buy and sell fully backed crypto index tokens and trade prediction markets on B… |
+| 2026-11-10 23:03:13 | [com.easyi18n/cli](https://github.com/liontude/easyi18n-agents) | easyi18n | 1.2.1 | Set up easyi18n in a Flutter, Xcode, Angular, web or Android project, then tran… |
+| 2026-11-10 23:04:34 | com.underhyper/mcp | UnderHyper | 1.0.0 | Hyperliquid referral code, perp markets, funding rates, HIP-3 dexes and site se… |
+| 2026-11-10 23:04:36 | com.pumpfyi/mcp | PumpFYI | 1.1.0 | pump.fun fee quotes, cheapest place to trade, coin checks, referral facts, site… |
+| 2026-11-10 23:08:38 | technology.serp/serp | SERP.technology | 1.0.0 | Read workspaces, sites, keywords, articles and analytics from the SERP.technolo… |
+| 2026-11-10 23:11:31 | [io.github.Nebulous-Ideas/legacy-switch-mcp](https://github.com/Nebulous-Ideas/legacy-switch-mcp) |  | 0.1.1 | Manage D-Link DGS-1100 and USRobotics 7724 smart switches: plan-then-apply chan… |
+| 2026-11-10 23:11:36 | com.personalizedgiftsdelivered/gift-boxes | Personalized Gifts Delivered | 1.0.0 | Quote logo mug gift boxes, check a logo and save a draft order that the buyer p… |
+| 2026-11-10 23:11:47 | com.dividendsolo.situation/situation | Situation | 1.0.0 | Live world situations for agents: the wire, the map's events and the stories be… |
+| 2026-11-10 23:12:15 | [app.prickelly/tracker](https://github.com/ozulkuomer/prickelly) | Prickelly | 1.0.0 | Track the price you actually pay on Amazon.com.tr, Hepsiburada and Trendyol. |
+| 2026-11-10 23:12:48 | [com.yobiru/friends](https://github.com/chekusu/yobiru) | Yobiru Friends | 0.7.25 | Let your AI agent reach friends' agents: look up, follow and message bots on bo… |
+| 2026-11-10 23:16:38 | ai.colorcraft/colorcraft | ColorCraft | 1.0.0 | Research KDP niches and make print-ready coloring, story, comic and puzzle book… |
+| 2026-11-10 23:20:57 | [io.github.Nodium-io/whatsapp](https://github.com/Nodium-io/sdk) | Nodium WhatsApp | 1.0.0 | Operate WhatsApp from an agent: read conversations and contacts, send messages,… |
 
 ## Data source
 
