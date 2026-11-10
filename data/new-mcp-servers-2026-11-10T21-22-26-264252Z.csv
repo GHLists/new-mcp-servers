@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-11-10T20:19:36.114878Z,io.github.pinnfeed/pinnfeed-mcp,PinnFeed,1.0.0,https://github.com/pinnfeed/pinnfeed-mcp,streamable-http,"Live and prematch Pinnacle odds, no-vig fair prices, price drops and closing lines."
+2026-11-10T20:19:54.181489Z,com.coverage-rights/coverage-rights,,1.4.1,,streamable-http,"Insurer denial rates, appeal outcomes, appeal rights, and drug denial playbooks."
+2026-11-10T20:21:46.187335Z,io.github.adrianpeticila/grai-mcp,grai Cadence Gate,0.1.0,https://github.com/adrianpeticila/grai,,"Deterministic cadence gate for AI drafts. Scores rhythm, flags structural slop, verifies seals."
+2026-11-10T20:24:42.181859Z,io.github.salitronic/eda-agent,eda-agent,0.8.1,https://github.com/salitronic/eda-agent,,"Drive a live Altium Designer session: schematic, PCB and library tools. KiCad and EasyEDA too."
+2026-11-10T20:25:27.397054Z,com.everysignal/everysignal,Every Signal,1.0.0,,streamable-http,"Audits AI-written marketing (copy, landing pages, ads, SEO) against real teardowns and benchmarks"
+2026-11-10T20:26:56.949991Z,ai.singular-labs.house/new-house,Singular House: make a house,1.0.0,,streamable-http,"Make a walkable 3D model of your house from your architect's plans, as you, with your yes."
+2026-11-10T20:26:57.553454Z,ai.singular-labs.house/house,Singular House: work on a house,1.0.0,,streamable-http,"Choose finishes, furniture and products on your 3D house; every change waits for your yes."
+2026-11-10T20:29:08.497706Z,com.kindoflost.roth-conversion-calculator/roth-conversion-calculator,Roth Conversion Calculator,1.0.0,,streamable-http,"Optimal Roth conversion plan by year: amounts, tax, and after-tax wealth vs no conversion. Free."
+2026-11-10T20:29:38.247722Z,io.github.diffbot/diffbot-mcp,Diffbot,0.2.1,https://github.com/diffbot/diffbot-mcp,streamable-http,"Web search, page extraction, crawling, and Knowledge Graph queries from Diffbot's web index."
+2026-11-10T20:30:57.798396Z,dev.pages.shephouse-guides/shephouse-yt-mcp,"YouTube Transcripts (cloud-safe, via Apify)",0.1.4,,,YouTube transcripts for agents on cloud servers via an Apify Actor. By ShepHouse (AI-operated).
+2026-11-10T20:31:06.151355Z,com.agentavow/agentavow-trust,AgentAvow Trust,0.6.5,,streamable-http,"Signed, offline-verifiable safety scores for the MCP servers, packages & tools an agent connects to"
+2026-11-10T20:33:48.380538Z,com.bettervetters/contractor-check,Better Vetters Contractor Check,1.0.0,,streamable-http,Vet US contractors from official public licence and permit records.
+2026-11-10T20:34:07.763108Z,fr.laopan/laopan,Laopan,1.0.0,,streamable-http,"Interrogez stock, recettes, CA, marge et frigos de votre restaurant (lecture seule)."
+2026-11-10T20:34:51.179296Z,ai.throughlinecr/throughline,Throughline,1.0.0,,streamable-http,"Review, approve and test landing pages rebuilt to match your Meta ads and emails."
+2026-11-10T20:38:40.427309Z,io.github.cmo-partners-as/cmo-studio,CMO Studio,1.0.0,https://github.com/cmo-partners-as/cmo-studio-plugin,streamable-http,"Hosting, Postgres, file storage and email for AI-built apps, run by your agent. GDPR-ready."
+2026-11-10T20:42:05.837882Z,uk.co.getmovely/getmovely,GetMovely,0.2.0,,streamable-http,"Sold prices, tenure, EPC, owner-occupancy and price checks for 25m homes in England and Wales. Free."
+2026-11-10T20:42:09.966275Z,net.copyseeker/mcp,Copyseeker,2.0.1,,,"Reverse image search, AI-generated image detection and NSFW detection from Copyseeker"
+2026-11-10T20:46:05.167527Z,io.github.veniceai/venice-mcp-server,Venice AI,0.3.2,https://github.com/veniceai/venice-mcp-server,,"Images, video, music, speech and private chat from Venice AI's models, on one API key."
+2026-11-10T20:47:22.306697Z,io.github.cloudgrid-io/mcp,CloudGrid,0.22.5,https://github.com/cloudgrid-io/mcp,streamable-http,"Plug apps, sites and HTML pages into CloudGrid and get a live URL, with databases and AI built in."
+2026-11-10T20:49:28.69506Z,app.fantastic/fantastic,Fantastic,1.0.0,,streamable-http,"Picks from real people for things to buy, watch, read, eat or do, each with a working store link."
+2026-11-10T20:52:51.424692Z,io.openlegaldata/de,Open Legal Data (Germany),0.16.5,https://github.com/openlegaldata/oldp,streamable-http,German court decisions (Rechtsprechung) and laws (Gesetze) with citation graph and citation checks.
+2026-11-10T20:53:56.582365Z,ai.agent-bev/library,agent-bev Library,0.1.0,,streamable-http,"The trade rulebook for beverage alcohol, country by country, each section with its official sources."
+2026-11-10T20:55:01.247496Z,io.github.openviglet/shio,Viglet Shio,2026.3.3,https://github.com/openviglet/shio,,"Open-source, agent-ready CMS: build, edit and publish a site from Claude Code or any MCP client."
+2026-11-10T20:56:06.619406Z,com.dieanalysten/adressshop,dieAnalysten Adressshop – German B2B company addresses,1.0.0,,streamable-http,"German B2B company addresses: search industries, count target groups, get EUR prices, order."
+2026-11-10T20:56:48.670742Z,site.caliperui/caliper,Caliper UI,1.0.0,,streamable-http,"Find React UI components, read their docs, and get shadcn install commands."
+2026-11-10T20:57:48.013453Z,io.github.Delegance-Brokerage/delegance,Delegance business insurance,0.4.0,https://github.com/Delegance-Brokerage/delegance-app,,"Business insurance quotes with no API key: GL, workers comp, BOP, cyber. Bind, COIs, policies."
+2026-11-10T20:58:08.350187Z,ai.a2uicatalog/catalog,A2UI Atomic Catalog,1.0.0,https://github.com/a2uicatalog/a2ui,streamable-http,"500+ typed UI atoms an agent composes into real rendered interfaces. Free, no API key."
+2026-11-10T20:58:08.76538Z,ai.a2uicatalog/docs,A2UI Atomic Catalog docs,1.0.0,https://github.com/a2uicatalog/a2ui,streamable-http,"Search the A2UI Atomic Catalog's own docs: auth, versioning, pricing, API surface."
+2026-11-10T21:02:07.714717Z,io.github.hridaya423/phonedriver,phonedriver,0.1.0,https://github.com/hridaya423/phonedriver,,Let AI agents see and control Android and iOS phones over stdio.
+2026-11-10T21:08:09.172071Z,app.picktrack/charts,PickTrack — DJ charts,1.0.0,,streamable-http,"Monthly DJ charts in 16 genres with BPM, Camelot key, track lookup and harmonic mixing matches."
+2026-11-10T21:10:46.087013Z,io.github.SirPaul-code/eviduct,Eviduct — Independent MCP Discovery,1.0.0,https://github.com/SirPaul-code/Eviduct,streamable-http,Read-only MCP discovery with direct network observations and no paid rankings.
+2026-11-10T21:14:12.898068Z,ai.openprefs/openprefs,OpenPrefs,1.0.0,,streamable-http,"One place for your preferences, portable across every AI assistant and agent."
