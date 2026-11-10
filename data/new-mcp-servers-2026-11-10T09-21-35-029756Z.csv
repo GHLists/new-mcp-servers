@@ -1,0 +1,41 @@
+created_at,server,title,version,repository,transports,description
+2026-11-10T08:26:34.338563Z,com.wizmessage/whatsapp,WizMessage,1.0.0,,streamable-http,"WhatsApp Business inbox for AI agents: read chats, reply, send approved templates."
+2026-11-10T08:27:20.748313Z,io.github.CloudCorpRecords/carddata,,0.1.0,https://github.com/CloudCorpRecords/carddata,,"Sports and trading card sold prices: search cards, read prices at every grade, and list plans."
+2026-11-10T08:30:35.721058Z,sh.fpy/floppy,Floppy,1.0.0,,streamable-http,"Share a file with a short link and see who opened it: pages read, time per page, bots filtered."
+2026-11-10T08:31:29.272168Z,com.kanadr/pbx,Kanadr hosted PBX,0.8.0,https://github.com/kanadr/api,streamable-http,"Manage a Kanadr white-label hosted PBX: customers, numbers, trunks, call flows, call logs, rating."
+2026-11-10T08:42:16.627385Z,org.bettyapp/teachers,Bettyapp for Teachers,1.0.0,,streamable-http,"Find lecture clips for a lesson: start and end times, curriculum codes, Levels, credit and licence."
+2026-11-10T08:42:34.083235Z,io.github.johannesPettersson80/codesys-mcp-toolkit,CODESYS MCP Toolkit,2.0.1,https://github.com/johannesPettersson80/codesys-mcp-toolkit,,"Read, write, compile and simulate Structured Text in CODESYS V3.5 projects."
+2026-11-10T08:43:16.665686Z,dev.workers.cybermax-tools.cybermax/company-to-domain,Namewhere: Company Name to Domain Finder (Bulk),1.0.0,,streamable-http,"Namewhere: company names to official website domains, with confidence, evidence and socials."
+2026-11-10T08:43:16.836996Z,dev.workers.cybermax-tools.cybermax/domain-authority,Linkheft: Bulk Domain Authority Checker,1.0.0,,streamable-http,"Linkheft: 0-100 authority score, rank and trend for many domains, from open web-graph data."
+2026-11-10T08:43:17.02937Z,dev.workers.cybermax-tools.cybermax/domain-intel,DomainDNA: Tech Stack Detector & WHOIS for Any Domain,1.0.0,,streamable-http,"DomainDNA: a domain's tech stack, mail provider, SPF/DMARC, domain age and TLS in one record."
+2026-11-10T08:43:17.217193Z,dev.workers.cybermax-tools.cybermax/google-trends,Swellmeter: Google Trends Rising Queries & Verdicts,1.0.0,,streamable-http,"Swellmeter: Google Trends verdict, % change, rising and breakout queries per keyword."
+2026-11-10T08:46:26.809664Z,com.whatsonasia/whatson-events,What's On Asia Events,1.0.0,,streamable-http,"Verified Hong Kong events from Hong Kong Happenings, with source and booking links."
+2026-11-10T08:47:16.787567Z,xyz.wunderlust/wunderlust,Wunderlust,1.0.0,,streamable-http,"Hand-picked design, motion, 3D and AI references, each with one idea worth stealing. Free, no key."
+2026-11-10T08:50:07.890682Z,io.github.zoulouzaza76/lescribeaudio-mcp,Le Scribe Audio — Transcription Audio & Vidéo (FR),1.0.0,https://github.com/zoulouzaza76/lescribeaudio-mcp,streamable-http,"Official Le Scribe Audio MCP server: search, read, summarize & code French audio transcripts."
+2026-11-10T08:50:26.474054Z,com.pdfstork/pdf,pdfstork — PDF generation,1.0.0,,streamable-http,"Generate invoices, quotes and certificates as PDFs from your pdfstork templates."
+2026-11-10T08:53:20.037278Z,ae.alexeysound/alexey-sound,"Alexey Sound — sound recordist, Dubai",1.0.0,,streamable-http,Find and book a location sound recordist / production sound mixer in Dubai and the UAE.
+2026-11-10T08:57:20.20249Z,io.github.CloudCorpRecords/imgpage,,0.1.0,https://github.com/CloudCorpRecords/imgpage,,"Render HTML and CSS to a PNG image or PDF, or screenshot a live web page by URL."
+2026-11-10T08:59:42.296263Z,com.cenulinq/my-budget-control,My Budget Control,1.0.0,,streamable-http,Read your MBC budget totals and prepare expenses for separate human approval. No bank payments.
+2026-11-10T09:00:55.578215Z,app.klarbon/klarbon,Klarbon,1.0.0,,streamable-http,"Open, check and convert European e-invoices and bank statements. No document archive."
+2026-11-10T09:04:55.552251Z,com.kizupi/kizupi,Kizupi,1.0.0,,streamable-http,"The math tutor that asks why, for grades 1 to 6, with free printable word-problem worksheets."
+2026-11-10T09:05:04.942705Z,dk.flowering/shop,Flowering,1.0.0,,streamable-http,"Danske blomster med levering samme dag: katalog, priser, zoner og frister. Kun læsning."
+2026-11-10T09:05:05.566436Z,dk.flowering/ucp,Flowering UCP,1.0.0,,streamable-http,"UCP 2026-08-25 for Flowering: katalog, kurv og checkout med overdragelse til flowering.dk."
+2026-11-10T09:07:48.013362Z,io.github.CloudCorpRecords/qrcanvas,,0.1.0,https://github.com/CloudCorpRecords/qrcanvas,,"Create and manage QR codes, short links, landing pages and forms in your Hovercode workspace."
+2026-11-10T09:11:04.540299Z,io.github.creatifren/creatif-space,Creatif Space,1.0.0,,streamable-http,Plan and draft client social posts from your AI chat. Approvals and publishing rolling out.
+2026-11-10T09:11:35.265932Z,com.armenly/armenly,Armenly,1.0.0,,streamable-http,"Free Armenian music streaming: 1,800+ artists and 60,000 songs, from pop and rabiz to duduk."
+2026-11-10T09:11:36.501557Z,dev.ayoh/ayoh,Ayoh,1.0.0,,streamable-http,"Chat, mail, boards, notes, calendar, contacts and digests in one AI app, free on your Cloudflare."
+2026-11-10T09:11:37.438992Z,com.bitepods/bitepods,BitePods,1.0.0,,streamable-http,"Free podcast clip maker: share the exact moment of an episode from YouTube, Spotify or Apple."
+2026-11-10T09:11:38.271027Z,com.campnotice/campnotice,Camp Notice,1.0.0,,streamable-http,"Email alerts when a summer camp opens sign-ups, or when a sold-out camp has a seat open."
+2026-11-10T09:11:39.143782Z,com.carglendale/carglendale,CarGlendale,1.0.0,,streamable-http,"Compare every new and used car at the Glendale, CA dealerships on Brand Boulevard, with real prices."
+2026-11-10T09:11:41.486248Z,com.mailerdot/mailerdot,MailerDot,1.0.0,,streamable-http,"Your city's free daily newsletter: local news, weather and events in a five-minute morning read."
+2026-11-10T09:11:42.392568Z,com.renderior/renderior,Renderior,1.0.0,,streamable-http,"See furniture and decor from any store in a photo of your room, plus free home sizing calculators."
+2026-11-10T09:11:43.256774Z,com.tabruns/tabruns,Tabruns Dental,1.0.0,,streamable-http,Dental insurance estimates in dollars: what a PPO plan pays and what the patient owes.
+2026-11-10T09:11:44.267134Z,com.vendawallet/vendawallet,Venda,1.0.0,,streamable-http,"Free receipts for anyone who takes payments: rent, lessons, services and garage sales. No fees."
+2026-11-10T09:12:08.031956Z,io.github.Germina-Labs/loops,Loops House,0.7.1,https://github.com/Germina-Labs/loops-platform,streamable-http,Run and judge hackathons and developer challenges on Loops House from your AI agent.
+2026-11-10T09:14:14.492399Z,dev.1pass/logi-approval,,0.1.3,https://github.com/dcode-co/logi-plugins,,logi Agent Approval Gate — human approval on the phone before high-risk agent actions.
+2026-11-10T09:14:15.248449Z,dev.1pass/logi,,0.2.3,https://github.com/dcode-co/logi-plugins,,"logi (1pass) IdP — manage your OAuth apps, redirect URIs, passkeys, login history and docs."
+2026-11-10T09:14:22.211439Z,io.github.psyb0t/hybrids3,HybridS3,0.3.10,https://github.com/psyb0t/docker-hybrids3,,Self-hosted S3-compatible object storage server with an MCP interface for AI agents.
+2026-11-10T09:14:38.095379Z,io.github.psyb0t/wickworks,Wickworks,0.7.2,https://github.com/psyb0t/docker-wickworks,,Self-hosted MCP server: technical indicators + smart-money-concepts from OHLC bars.
+2026-11-10T09:17:59.084196Z,org.sportalcorporate/admissions,Sportal Corporate Admissions,1.0.0,https://github.com/reachroflup-png/sportal-education-os,streamable-http,"Read-only catalogue of Sportal Corporate sports programmes, free courses, fees and intake dates."
+2026-11-10T09:18:48.207018Z,io.github.CloudCorpRecords/pingpulse,,0.1.0,https://github.com/CloudCorpRecords/pingpulse,,"Uptime monitoring: monitors, outages, on-call schedules, status pages, maintenance and logs."
+2026-11-10T09:20:23.695782Z,com.emailfig/emailfig,EmailFig,1.0.0,,streamable-http,"Check results, update contacts and draft campaigns in your EmailFig account."

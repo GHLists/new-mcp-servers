@@ -9,73 +9,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 08:20 UTC
+## Latest list — 2026-11-10 09:21 UTC
 
-New MCP servers published between 2026-11-10 07:20 UTC and 2026-11-10 08:20 UTC.
+New MCP servers published between 2026-11-10 08:20 UTC and 2026-11-10 09:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-10T08-20-50-42467Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-10T09-21-35-029756Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-10 07:22:39 | [app.tier1protocol.mcp/tier-1-protocol](https://github.com/Tier-1-Protocol/tier1-protocol-connector) | Tier 1 Protocol | 1.0.1 | Search files while they stay encrypted: the problem DARPA chased for a decade.… |
-| 2026-11-10 07:25:25 | [dev.buildcord/buildcord](https://github.com/buildcord-dev/mcp) | Buildcord | 1.0.0 | Build and change Discord bots by describing them: slash commands, events, embed… |
-| 2026-11-10 07:28:00 | [io.github.CloudCorpRecords/storedata](https://github.com/CloudCorpRecords/storedata) |  | 0.1.0 | Shopify storefront data as JSON: public store collections and products, with pa… |
-| 2026-11-10 07:28:40 | com.faro-economicopages/faro-data | Faro Data — federal contracts, stock DN… | 1.0.0 | U.S. federal contract awards sized vs. market cap, stock DNA scores, quality di… |
-| 2026-11-10 07:32:46 | [dev.kognite/memory](https://github.com/global-software-development-eu/memcore-portable-agent-memory-saas) | Kognite | 1.2.0 | Hosted agent memory: store, search, and recall facts across sessions from any M… |
-| 2026-11-10 07:37:04 | club.fairagent/fairagent | FairAgent | 1.0.0 | Live state and unsigned mint/claim tx builder for FairAgent AI-agent NFTs on BN… |
-| 2026-11-10 07:38:31 | com.transcript-yt/transcriptyt | TranscriptYT | 1.0.0 | YouTube transcripts for AI agents: 150+ languages, AI transcription fallback, s… |
-| 2026-11-10 07:39:14 | [io.github.CloudCorpRecords/tokdata](https://github.com/CloudCorpRecords/tokdata) |  | 0.1.0 | TikTok public data as JSON: profile by handle, account videos, video comments,… |
-| 2026-11-10 07:42:14 | [app.zolvaagent/zolva](https://github.com/zolvaagent/zolva) | Zolva | 1.0.0 | Trading agents on Robinhood Chain: every buy, sell and hold with its reason, pl… |
-| 2026-11-10 07:42:35 | [io.github.teralabx/logbear](https://github.com/teralabx/logbear) | LogBear | 0.1.3 | Local dev server logs for coding agents: errors, runs and diffs as read-only SQ… |
-| 2026-11-10 07:48:21 | dev.sarnai/certify | AI Agent Safety Foundational Certificate | 1.0.0 | AI Agent Safety Foundational Certificate: a wallet-signed 40-task exam. First 3… |
-| 2026-11-10 07:48:32 | uk.tablespark/restaurants | TableSpark Restaurants | 1.0.0 | Find UK independent restaurants, menus, hours and live tables; book or order on… |
-| 2026-11-10 07:50:44 | [io.github.CloudCorpRecords/martdata](https://github.com/CloudCorpRecords/martdata) |  | 0.1.0 | Walmart data as JSON: product details, customer reviews, and storefront search… |
-| 2026-11-10 07:57:27 | [io.github.TheCompanyAtlas/rwanda-import-export-data](https://github.com/TheCompanyAtlas/rwanda-import-export-data-mcp) | Rwanda Customs Data: Importers, Supplie… | 1.0.0 | Rwanda import export data: customs shipments, importers, suppliers and HS codes… |
-| 2026-11-10 07:58:23 | [io.github.TheCompanyAtlas/argentina-import-export-data](https://github.com/TheCompanyAtlas/argentina-import-export-data-mcp) | Argentina Customs Data: Importers, Supp… | 1.0.0 | Argentina import export data: customs shipments, importers, suppliers and HS co… |
-| 2026-11-10 07:58:24 | [io.github.TheCompanyAtlas/bangladesh-import-export-data](https://github.com/TheCompanyAtlas/bangladesh-import-export-data-mcp) | Bangladesh Customs Data: Importers, Sup… | 1.0.0 | Bangladesh import export data: customs shipments, importers, suppliers and HS c… |
-| 2026-11-10 07:58:25 | [io.github.TheCompanyAtlas/chile-import-export-data](https://github.com/TheCompanyAtlas/chile-import-export-data-mcp) | Chile Customs Data: Importers, Supplier… | 1.0.0 | Chile import export data: customs shipments, importers, suppliers and HS codes… |
-| 2026-11-10 07:58:25 | [io.github.TheCompanyAtlas/china-company-registry](https://github.com/TheCompanyAtlas/china-company-registry-mcp) | China Company Registry & USCC Lookup | 1.0.0 | Chinese company search by English or Chinese name and Unified Social Credit Cod… |
-| 2026-11-10 07:58:26 | [io.github.TheCompanyAtlas/colombia-import-export-data](https://github.com/TheCompanyAtlas/colombia-import-export-data-mcp) | Colombia Customs Data: Importers, Suppl… | 1.0.0 | Colombia import export data: customs shipments, importers, suppliers and HS cod… |
-| 2026-11-10 07:58:27 | [io.github.TheCompanyAtlas/costa-rica-import-export-data](https://github.com/TheCompanyAtlas/costa-rica-import-export-data-mcp) | Costa Rica Customs Data: Importers, Sup… | 1.0.0 | Costa Rica import export data: customs shipments, importers, suppliers and HS c… |
-| 2026-11-10 07:58:28 | [io.github.TheCompanyAtlas/cote-divoire-import-export-data](https://github.com/TheCompanyAtlas/cote-divoire-import-export-data-mcp) | Côte d'Ivoire Customs Data: Importers,… | 1.0.0 | Côte d'Ivoire import export data: customs shipments, importers, suppliers and H… |
-| 2026-11-10 07:58:29 | [io.github.TheCompanyAtlas/cyprus-company-registry](https://github.com/TheCompanyAtlas/cyprus-company-registry-mcp) | Cyprus Company Registry: Directors & Se… | 1.0.0 | Cyprus company search with directors, secretaries, partners and former officers. |
-| 2026-11-10 07:58:30 | [io.github.TheCompanyAtlas/france-siren-company](https://github.com/TheCompanyAtlas/france-siren-company-mcp) | France Company Search (SIREN / SIRET) | 1.0.0 | French company search by name and SIREN, with SIRET, legal category and status. |
-| 2026-11-10 07:58:30 | [io.github.TheCompanyAtlas/germany-handelsregister](https://github.com/TheCompanyAtlas/germany-handelsregister-mcp) | Germany Company Registry (Handelsregist… | 1.0.0 | German Handelsregister company search with Geschäftsführer, Prokuristen and sha… |
-| 2026-11-10 07:58:32 | [io.github.TheCompanyAtlas/india-import-export-data](https://github.com/TheCompanyAtlas/india-import-export-data-mcp) | India Customs Data: Importers, Supplier… | 1.0.0 | India import export data: customs shipments, importers, suppliers and HS codes… |
-| 2026-11-10 07:58:33 | [io.github.TheCompanyAtlas/indonesia-import-export-data](https://github.com/TheCompanyAtlas/indonesia-import-export-data-mcp) | Indonesia Customs Data: Importers, Supp… | 1.0.0 | Indonesia import export data: customs shipments, importers, suppliers and HS co… |
-| 2026-11-10 07:58:34 | [io.github.TheCompanyAtlas/japan-corporate-number](https://github.com/TheCompanyAtlas/japan-corporate-number-mcp) | Japan Company Search & Corporate Number | 1.0.0 | Japanese company search by English or Japanese name and 13-digit corporate numb… |
-| 2026-11-10 07:58:35 | [io.github.TheCompanyAtlas/kazakhstan-import-export-data](https://github.com/TheCompanyAtlas/kazakhstan-import-export-data-mcp) | Kazakhstan Customs Data: Importers, Sup… | 1.0.0 | Kazakhstan import export data: customs shipments, importers, suppliers and HS c… |
-| 2026-11-10 07:58:35 | [io.github.TheCompanyAtlas/marshall-islands-company](https://github.com/TheCompanyAtlas/marshall-islands-company-mcp) | Marshall Islands Company Registry | 1.0.0 | Marshall Islands company search by name and business registration number. |
-| 2026-11-10 07:58:36 | [io.github.TheCompanyAtlas/netherlands-kvk-company](https://github.com/TheCompanyAtlas/netherlands-kvk-company-mcp) | Netherlands KvK Company Search | 1.0.0 | Dutch company search by name and KvK number, with business activities. |
-| 2026-11-10 07:58:37 | [io.github.TheCompanyAtlas/nigeria-import-export-data](https://github.com/TheCompanyAtlas/nigeria-import-export-data-mcp) | Nigeria Customs Data: Importers, Suppli… | 1.0.0 | Nigeria import export data: customs shipments, importers, suppliers and HS code… |
-| 2026-11-10 07:58:38 | [io.github.TheCompanyAtlas/pakistan-import-export-data](https://github.com/TheCompanyAtlas/pakistan-import-export-data-mcp) | Pakistan Customs Data: Importers, Suppl… | 1.0.0 | Pakistan import export data: customs shipments, importers, suppliers and HS cod… |
-| 2026-11-10 07:58:39 | [io.github.TheCompanyAtlas/paraguay-import-export-data](https://github.com/TheCompanyAtlas/paraguay-import-export-data-mcp) | Paraguay Customs Data: Importers, Suppl… | 1.0.0 | Paraguay import export data: customs shipments, importers, suppliers and HS cod… |
-| 2026-11-10 07:58:39 | [io.github.TheCompanyAtlas/peru-import-export-data](https://github.com/TheCompanyAtlas/peru-import-export-data-mcp) | Peru Customs Data: Importers, Suppliers… | 1.0.0 | Peru import export data: customs shipments, importers, suppliers and HS codes v… |
-| 2026-11-10 07:58:40 | [io.github.TheCompanyAtlas/philippines-import-export-data](https://github.com/TheCompanyAtlas/philippines-import-export-data-mcp) | Philippines Customs Data: Importers, Su… | 1.0.0 | Philippines import export data: customs shipments, importers, suppliers and HS… |
-| 2026-11-10 07:58:41 | [io.github.TheCompanyAtlas/qatar-cr-company](https://github.com/TheCompanyAtlas/qatar-cr-company-mcp) | Qatar Company Registry & CR Number Look… | 1.0.0 | Qatar company search by English or Arabic name and CR number, with license, sta… |
-| 2026-11-10 07:58:42 | [io.github.TheCompanyAtlas/russia-import-export-data](https://github.com/TheCompanyAtlas/russia-import-export-data-mcp) | Russia Customs Data: Importers, Supplie… | 1.0.0 | Russia import export data: customs shipments, importers, suppliers and HS codes… |
-| 2026-11-10 07:58:43 | [io.github.TheCompanyAtlas/tanzania-import-export-data](https://github.com/TheCompanyAtlas/tanzania-import-export-data-mcp) | Tanzania Customs Data: Importers, Suppl… | 1.0.0 | Tanzania import export data: customs shipments, importers, suppliers and HS cod… |
-| 2026-11-10 07:58:44 | [io.github.TheCompanyAtlas/thailand-company-tenders](https://github.com/TheCompanyAtlas/thailand-company-tenders-mcp) | Thailand Company Registry & Government… | 1.0.0 | Thai company search by name, juristic id and TSIC, plus e-GP tenders, bidders a… |
-| 2026-11-10 07:58:45 | [io.github.TheCompanyAtlas/uganda-import-export-data](https://github.com/TheCompanyAtlas/uganda-import-export-data-mcp) | Uganda Customs Data: Importers, Supplie… | 1.0.0 | Uganda import export data: customs shipments, importers, suppliers and HS codes… |
-| 2026-11-10 07:58:46 | [io.github.TheCompanyAtlas/uk-company](https://github.com/TheCompanyAtlas/uk-company-mcp) | UK Company Registry | 1.0.0 | UK Companies House search by name, company number, type, status, postcode and S… |
-| 2026-11-10 07:58:47 | [io.github.TheCompanyAtlas/ukraine-import-export-data](https://github.com/TheCompanyAtlas/ukraine-import-export-data-mcp) | Ukraine Customs Data: Importers, Suppli… | 1.0.0 | Ukraine import export data: customs shipments, importers, suppliers and HS code… |
-| 2026-11-10 07:58:48 | [io.github.TheCompanyAtlas/uzbekistan-import-export-data](https://github.com/TheCompanyAtlas/uzbekistan-import-export-data-mcp) | Uzbekistan Customs Data: Importers, Sup… | 1.0.0 | Uzbekistan import export data: customs shipments, importers, suppliers and HS c… |
-| 2026-11-10 07:58:49 | [io.github.TheCompanyAtlas/vietnam-import-export-data](https://github.com/TheCompanyAtlas/vietnam-import-export-data-mcp) | Vietnam Customs Data: Importers, Suppli… | 1.0.0 | Vietnam import export data: customs shipments, importers, suppliers and HS code… |
-| 2026-11-10 07:59:01 | [io.github.hujuncheng-ddd/goldapi-mcp](https://github.com/hujuncheng-ddd/goldapi-mcp) | GoldAPI Precious Metals Quotes | 1.5.40 | Real-time & historical precious metals quotes (gold/silver/platinum/palladium)… |
-| 2026-11-10 08:02:15 | [io.github.CloudCorpRecords/pagesdata](https://github.com/CloudCorpRecords/pagesdata) |  | 0.1.0 | Yellow Pages business data as JSON: search by keyword and location, plus full l… |
-| 2026-11-10 08:04:21 | [io.github.TheCompanyAtlas/vietnam-company-tenders](https://github.com/TheCompanyAtlas/vietnam-company-tenders-mcp) | Vietnam Company Registry & Government T… | 1.1.1 | Vietnam company search by name and MST tax code, plus e-procurement tenders, bi… |
-| 2026-11-10 08:09:19 | com.askwhocasts/casts | Askwho Casts | 1.0.0 | Turn articles, research reports and books into multi-voice podcast episodes in… |
-| 2026-11-10 08:10:01 | com.tridan-academy/academy | Tridan Academy | 1.0.0 | ISO & AI Act training catalogue: courses, dates, certificates, trainers, pricin… |
-| 2026-11-10 08:12:55 | [com.getcadcraft/studio](https://github.com/getcadcraft/mcp) | CadCraft Studio | 0.9.1 | Tools for drawings, models, takeoffs and markups in the CadCraft apps, plus a c… |
-| 2026-11-10 08:13:13 | app.taskford/taskford | Integrated Work Delivery Platform | 1.0.0 | Connect your AI assistant to Taskford to plan projects, manage resources, and t… |
-| 2026-11-10 08:15:56 | ru.abrazivexpert/catalog | Абразив Эксперт | 1.0.0 | Абразивы, полировальные пасты и круги, краскопульты: подбор, цены, опт, доставк… |
-| 2026-11-10 08:16:04 | io.github.Sparkel-io/sparkel | Sparkel | 1.0.0 | Quantity takeoff from PDF drawings and BIM/IFC: room areas, symbol counts, roof… |
-| 2026-11-10 08:16:22 | [io.github.CloudCorpRecords/yelpdata](https://github.com/CloudCorpRecords/yelpdata) |  | 0.1.0 | Yelp business data as JSON: search by keyword and location, place details, and… |
-| 2026-11-10 08:17:16 | com.passportsorted/photo-rules | Passport Sorted: passport & visa photo… | 1.0.0 | Official passport and visa photo rules for 27 documents, with sources and check… |
-| 2026-11-10 08:18:44 | com.surveysai/open-end | Open-End Response Analyser – coding of… | 1.0.0 | Code open-ended survey responses: AI code frame (L1-L3), categorization, result… |
-| 2026-11-10 08:19:01 | dev.huutran.audit/website-checks | HolicAudit website checks | 1.0.0 | Free SEO, AI visibility (AI crawlers, llms.txt, JSON-LD) and security-header ch… |
-| 2026-11-10 08:19:03 | kz.mytender/tenders | MyTender — Kazakhstan tenders | 1.0.0 | Kazakhstan public tenders: search open lots, lot details, customers and past co… |
-| 2026-11-10 08:19:40 | [net.keplerbot/kepler](https://github.com/keplerbot-net/ogame-bot) | Kepler OGame Bot | 1.0.0 | Kepler OGame bot: search its .ank scripting API, exact signatures and examples.… |
+| 2026-11-10 08:26:34 | com.wizmessage/whatsapp | WizMessage | 1.0.0 | WhatsApp Business inbox for AI agents: read chats, reply, send approved templat… |
+| 2026-11-10 08:27:20 | [io.github.CloudCorpRecords/carddata](https://github.com/CloudCorpRecords/carddata) |  | 0.1.0 | Sports and trading card sold prices: search cards, read prices at every grade,… |
+| 2026-11-10 08:30:35 | sh.fpy/floppy | Floppy | 1.0.0 | Share a file with a short link and see who opened it: pages read, time per page… |
+| 2026-11-10 08:31:29 | [com.kanadr/pbx](https://github.com/kanadr/api) | Kanadr hosted PBX | 0.8.0 | Manage a Kanadr white-label hosted PBX: customers, numbers, trunks, call flows,… |
+| 2026-11-10 08:42:16 | org.bettyapp/teachers | Bettyapp for Teachers | 1.0.0 | Find lecture clips for a lesson: start and end times, curriculum codes, Levels,… |
+| 2026-11-10 08:42:34 | [io.github.johannesPettersson80/codesys-mcp-toolkit](https://github.com/johannesPettersson80/codesys-mcp-toolkit) | CODESYS MCP Toolkit | 2.0.1 | Read, write, compile and simulate Structured Text in CODESYS V3.5 projects. |
+| 2026-11-10 08:43:16 | dev.workers.cybermax-tools.cybermax/company-to-domain | Namewhere: Company Name to Domain Finde… | 1.0.0 | Namewhere: company names to official website domains, with confidence, evidence… |
+| 2026-11-10 08:43:16 | dev.workers.cybermax-tools.cybermax/domain-authority | Linkheft: Bulk Domain Authority Checker | 1.0.0 | Linkheft: 0-100 authority score, rank and trend for many domains, from open web… |
+| 2026-11-10 08:43:17 | dev.workers.cybermax-tools.cybermax/domain-intel | DomainDNA: Tech Stack Detector & WHOIS… | 1.0.0 | DomainDNA: a domain's tech stack, mail provider, SPF/DMARC, domain age and TLS… |
+| 2026-11-10 08:43:17 | dev.workers.cybermax-tools.cybermax/google-trends | Swellmeter: Google Trends Rising Querie… | 1.0.0 | Swellmeter: Google Trends verdict, % change, rising and breakout queries per ke… |
+| 2026-11-10 08:46:26 | com.whatsonasia/whatson-events | What's On Asia Events | 1.0.0 | Verified Hong Kong events from Hong Kong Happenings, with source and booking li… |
+| 2026-11-10 08:47:16 | xyz.wunderlust/wunderlust | Wunderlust | 1.0.0 | Hand-picked design, motion, 3D and AI references, each with one idea worth stea… |
+| 2026-11-10 08:50:07 | [io.github.zoulouzaza76/lescribeaudio-mcp](https://github.com/zoulouzaza76/lescribeaudio-mcp) | Le Scribe Audio — Transcription Audio &… | 1.0.0 | Official Le Scribe Audio MCP server: search, read, summarize & code French audi… |
+| 2026-11-10 08:50:26 | com.pdfstork/pdf | pdfstork — PDF generation | 1.0.0 | Generate invoices, quotes and certificates as PDFs from your pdfstork templates. |
+| 2026-11-10 08:53:20 | ae.alexeysound/alexey-sound | Alexey Sound — sound recordist, Dubai | 1.0.0 | Find and book a location sound recordist / production sound mixer in Dubai and… |
+| 2026-11-10 08:57:20 | [io.github.CloudCorpRecords/imgpage](https://github.com/CloudCorpRecords/imgpage) |  | 0.1.0 | Render HTML and CSS to a PNG image or PDF, or screenshot a live web page by URL. |
+| 2026-11-10 08:59:42 | com.cenulinq/my-budget-control | My Budget Control | 1.0.0 | Read your MBC budget totals and prepare expenses for separate human approval. N… |
+| 2026-11-10 09:00:55 | app.klarbon/klarbon | Klarbon | 1.0.0 | Open, check and convert European e-invoices and bank statements. No document ar… |
+| 2026-11-10 09:04:55 | com.kizupi/kizupi | Kizupi | 1.0.0 | The math tutor that asks why, for grades 1 to 6, with free printable word-probl… |
+| 2026-11-10 09:05:04 | dk.flowering/shop | Flowering | 1.0.0 | Danske blomster med levering samme dag: katalog, priser, zoner og frister. Kun… |
+| 2026-11-10 09:05:05 | dk.flowering/ucp | Flowering UCP | 1.0.0 | UCP 2026-08-25 for Flowering: katalog, kurv og checkout med overdragelse til fl… |
+| 2026-11-10 09:07:48 | [io.github.CloudCorpRecords/qrcanvas](https://github.com/CloudCorpRecords/qrcanvas) |  | 0.1.0 | Create and manage QR codes, short links, landing pages and forms in your Hoverc… |
+| 2026-11-10 09:11:04 | io.github.creatifren/creatif-space | Creatif Space | 1.0.0 | Plan and draft client social posts from your AI chat. Approvals and publishing… |
+| 2026-11-10 09:11:35 | com.armenly/armenly | Armenly | 1.0.0 | Free Armenian music streaming: 1,800+ artists and 60,000 songs, from pop and ra… |
+| 2026-11-10 09:11:36 | dev.ayoh/ayoh | Ayoh | 1.0.0 | Chat, mail, boards, notes, calendar, contacts and digests in one AI app, free o… |
+| 2026-11-10 09:11:37 | com.bitepods/bitepods | BitePods | 1.0.0 | Free podcast clip maker: share the exact moment of an episode from YouTube, Spo… |
+| 2026-11-10 09:11:38 | com.campnotice/campnotice | Camp Notice | 1.0.0 | Email alerts when a summer camp opens sign-ups, or when a sold-out camp has a s… |
+| 2026-11-10 09:11:39 | com.carglendale/carglendale | CarGlendale | 1.0.0 | Compare every new and used car at the Glendale, CA dealerships on Brand Bouleva… |
+| 2026-11-10 09:11:41 | com.mailerdot/mailerdot | MailerDot | 1.0.0 | Your city's free daily newsletter: local news, weather and events in a five-min… |
+| 2026-11-10 09:11:42 | com.renderior/renderior | Renderior | 1.0.0 | See furniture and decor from any store in a photo of your room, plus free home… |
+| 2026-11-10 09:11:43 | com.tabruns/tabruns | Tabruns Dental | 1.0.0 | Dental insurance estimates in dollars: what a PPO plan pays and what the patien… |
+| 2026-11-10 09:11:44 | com.vendawallet/vendawallet | Venda | 1.0.0 | Free receipts for anyone who takes payments: rent, lessons, services and garage… |
+| 2026-11-10 09:12:08 | [io.github.Germina-Labs/loops](https://github.com/Germina-Labs/loops-platform) | Loops House | 0.7.1 | Run and judge hackathons and developer challenges on Loops House from your AI a… |
+| 2026-11-10 09:14:14 | [dev.1pass/logi-approval](https://github.com/dcode-co/logi-plugins) |  | 0.1.3 | logi Agent Approval Gate — human approval on the phone before high-risk agent a… |
+| 2026-11-10 09:14:15 | [dev.1pass/logi](https://github.com/dcode-co/logi-plugins) |  | 0.2.3 | logi (1pass) IdP — manage your OAuth apps, redirect URIs, passkeys, login histo… |
+| 2026-11-10 09:14:22 | [io.github.psyb0t/hybrids3](https://github.com/psyb0t/docker-hybrids3) | HybridS3 | 0.3.10 | Self-hosted S3-compatible object storage server with an MCP interface for AI ag… |
+| 2026-11-10 09:14:38 | [io.github.psyb0t/wickworks](https://github.com/psyb0t/docker-wickworks) | Wickworks | 0.7.2 | Self-hosted MCP server: technical indicators + smart-money-concepts from OHLC b… |
+| 2026-11-10 09:17:59 | [org.sportalcorporate/admissions](https://github.com/reachroflup-png/sportal-education-os) | Sportal Corporate Admissions | 1.0.0 | Read-only catalogue of Sportal Corporate sports programmes, free courses, fees… |
+| 2026-11-10 09:18:48 | [io.github.CloudCorpRecords/pingpulse](https://github.com/CloudCorpRecords/pingpulse) |  | 0.1.0 | Uptime monitoring: monitors, outages, on-call schedules, status pages, maintena… |
+| 2026-11-10 09:20:23 | com.emailfig/emailfig | EmailFig | 1.0.0 | Check results, update contacts and draft campaigns in your EmailFig account. |
 
 ## Data source
 
