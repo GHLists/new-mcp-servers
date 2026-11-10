@@ -9,46 +9,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 16:21 UTC
+## Latest list — 2026-11-10 17:21 UTC
 
-New MCP servers published between 2026-11-10 15:20 UTC and 2026-11-10 16:21 UTC.
+New MCP servers published between 2026-11-10 16:21 UTC and 2026-11-10 17:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-10T16-21-39-274654Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-10T17-21-53-922496Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-10 15:22:25 | pro.telehealthnearme/telehealth-compare | Telehealth near me | 1.0.0 | Compare U.S. telehealth programs (GLP-1, TRT, longevity): prices, labs, LegitSc… |
-| 2026-11-10 15:25:38 | [io.github.awesomemotive/pushengage-mcp](https://github.com/awesomemotive/pushengage-mcp) | PushEngage | 1.1.0 | Send push notifications, build audiences, and view campaign analytics from Push… |
-| 2026-11-10 15:28:37 | [io.github.humanleg-ai/humanleg](https://github.com/humanleg-ai/humanleg) | HumanLeg.ai | 0.1.1 | Hand bounded tasks from AI agents to trusted humans. |
-| 2026-11-10 15:30:05 | app.snuug/room-tools | Snuug room calculators | 1.0.0 | 14 room calculators in cm: rug size, sofa fit, TV height, paint, curtains, ligh… |
-| 2026-11-10 15:32:35 | io.github.akhilrajesh213/indeed-jobs-mcp-server | Indeed Jobs MCP Server (62 countries) | 0.1.3 | Indeed jobs for AI agents: search 62 countries by title, place, pay and experie… |
-| 2026-11-10 15:33:44 | [io.github.forge-agent-hub/forge-agent-mcp](https://github.com/forge-agent-hub/forge-agent-mcp) | Forge Agent Hub | 1.0.0 | Pay-per-call APIs for agents (FR/CH company data, VAT, IBAN, FX) via x402 USDC… |
-| 2026-11-10 15:37:49 | ai.realtimer/calls | Realtimer | 1.0.0 | Read your saved Realtimer sales call transcripts and AI summaries. Read-only, n… |
-| 2026-11-10 15:38:54 | io.7be/7be | 7BE | 1.0.0 | How ChatGPT, Gemini and Google AI Mode see online stores; stores AI recommends;… |
-| 2026-11-10 15:39:36 | uk.co.slime-studio/shop | Amber's Slime Studio | 1.0.0 | Browse handmade UK slime, check delivery and promo codes, and get a ready-fille… |
-| 2026-11-10 15:40:26 | ai.tryclaro/claro | Claro – AI course creator | 1.0.0 | Build, edit and update narrated, interactive training courses from your documen… |
-| 2026-11-10 15:40:51 | [io.github.jefferysun95-cmyk/agent-market](https://github.com/jefferysun95-cmyk/agent-market) | Agent Market | 1.1.0-alpha.5 | Discover agent services and manage free-test task proposals, delivery and accep… |
-| 2026-11-10 15:48:01 | [io.github.o-shabashov/dos2-gm-mcp](https://github.com/o-shabashov/dos2-gm-mcp) | DOS2 Game Master | 0.1.0 | Divinity: Original Sin 2 Game Master mode: edit campaign files, drive the live… |
-| 2026-11-10 15:48:18 | rocks.apprentx/b12 | B12 | 1.0.0 | Read learning progress and build programs, sequences and groups in the B12 lear… |
-| 2026-11-10 15:54:08 | com.wavegrain/mcp | Wavegrain | 0.4.0 | Make, edit, schedule and export TikTok slideshows and Instagram carousels in yo… |
-| 2026-11-10 15:54:33 | [io.github.GodSmasher/patchbay](https://github.com/GodSmasher/patchbay) | patchbay | 0.3.1 | Audit any remote MCP server for OAuth 2.1 and security gaps. |
-| 2026-11-10 15:55:34 | [dev.tokensafe/tokensafe](https://github.com/NekoSin4eG/tokensafe) | TokenSafe | 1.5.0 | Cut AI coding agent token usage up to 90% via AST slicing, dependency graphs &… |
-| 2026-11-10 15:57:44 | [com.northkeellabs/lacrm-mcp-remote](https://github.com/northkeellabs/lacrm-mcp-remote) | Less Annoying CRM (remote, OAuth) | 0.1.0 | Unofficial remote MCP server for Less Annoying CRM: OAuth 2.1, read-only grants… |
-| 2026-11-10 15:59:47 | [io.github.JlMoreno00/codex-images-mcp](https://github.com/JlMoreno00/codex-images-mcp) | Codex Images | 0.1.1 | Generate and edit images with gpt-image-2, including masks and transparency. |
-| 2026-11-10 16:05:29 | coach.upskill/agent-coach | Agent Coach (Upskill) | 1.0.0 | Free coach for AI agents: security-vetted skills, MCP servers and prompts, plus… |
-| 2026-11-10 16:07:19 | [com.northkeellabs/lacrm-mcp](https://github.com/northkeellabs/lacrm-mcp) | Less Annoying CRM | 0.1.0 | Unofficial MCP server for Less Annoying CRM: 10 tools, read-only mode, API key… |
-| 2026-11-10 16:07:53 | ai.vysion/vysion | Vysion | 1.0.0 | Darknet threat intelligence for AI assistants: leaks, documents, chat, ransomwa… |
-| 2026-11-10 16:09:01 | com.fiverr/mcp | Fiverr | 1.0.0 | Find and hire freelancers |
-| 2026-11-10 16:11:05 | com.lotwick/mcp | Lotwick | 1.0.0 | Search live UK property auction lots: guide prices, auction dates, Land Registr… |
-| 2026-11-10 16:11:58 | [io.github.ocean1547-ui/nspros-data-api](https://github.com/ocean1547-ui/nspros-data-api) | NS Pros Data API | 1.0.0 | The world's public data, one API. License-cleared public data sources for agent… |
-| 2026-11-10 16:12:32 | com.resumonk/resumonk | Resumonk | 1.0.0 | Build, improve and share your resume, and run your job search, from your AI ass… |
-| 2026-11-10 16:16:19 | [io.github.LuxorLabs/luxor-mcp](https://github.com/LuxorLabs/tenki-mcp) | Luxor Sandbox MCP | 0.4.0 | Disposable microVM sandboxes for AI agents: run code, read/write files, git, pr… |
-| 2026-11-10 16:18:26 | top.hhxg/a-share-market-data | hhxg A-share Market Data | 0.6.0 | China A-share market data, stock screening and research tools. Paid subscriptio… |
-| 2026-11-10 16:20:40 | [io.github.passy-ai/psh-now](https://github.com/passy-ai/psh-now) | psh.now | 0.2.1 | Human approval for AI agents: one ask, one person, one boolean. |
-| 2026-11-10 16:21:12 | md.wander/wander | Wander | 1.0.0 | Search, read and write the notes in the vaults you sync through Wander Cloud. |
-| 2026-11-10 16:21:16 | dev.folder/folder | Folder | 1.0.0 | Find, read, save and edit files in the Folder folders you pick, and put earlier… |
-| 2026-11-10 16:21:17 | app.superclock/superclock | Superclock | 1.0.0 | Set, move and remove real alarms on your iPhone with Superclock, and start and… |
-| 2026-11-10 16:21:27 | [com.tinysend/tinysend](https://github.com/tiny-send/tinysend-node) | Tinysend | 1.1.0 | Write, send and follow your Tinysend newsletters, and sign up for things with y… |
+| 2026-11-10 16:22:32 | [com.tradingaihub/directory](https://github.com/skyboundropship-code/tradingaihub) | TradingAIHub directory | 1.0.0 | Search a weekly-checked directory of AI tools for finance and trading: MCP serv… |
+| 2026-11-10 16:28:26 | io.github.KarvedConcepts/karved-quotes | Karved Concepts custom drinkware quotes | 1.0.0 | Instant prices, mockups and quote requests for custom UV-printed and laser-engr… |
+| 2026-11-10 16:28:50 | finance.balans/balans-finance | Balans.finance | 1.0.0 | Multi-currency budgeting: read and update your accounts, transactions, categori… |
+| 2026-11-10 16:30:30 | [io.github.avivgerz-hue/vibe-shield](https://github.com/avivgerz-hue/vibe-shield) | vibe-shield — security scanner for AI-g… | 2.1.2 | Scans AI-written code for leaked secrets, unguarded routes and missing RLS. |
+| 2026-11-10 16:30:31 | [io.github.avivgerz-hue/unslop](https://github.com/avivgerz-hue/unslop) | unslop — 7-Pillar Design Craft Engine | 2.1.1 | Audit UI design, extract Design DNA, generate tokens, and create transformation… |
+| 2026-11-10 16:30:32 | [io.github.avivgerz-hue/ghost-qa](https://github.com/avivgerz-hue/ghost-qa) | ghost-qa | 2.1.1 | Autonomous headless browser QA & self-healing verification loop for AI coding a… |
+| 2026-11-10 16:31:20 | ai.onlyfonts/onlyfonts | OnlyFonts | 1.0.0 | Find free, openly licensed fonts by style, use or language, and get the CSS to… |
+| 2026-11-10 16:32:36 | [com.narwhalapi/mcp](https://github.com/narwhalapi/narwhalapi-mcp) | Narwhal API | 1.0.0 | One API and MCP server for financial and economic data: markets, economics, com… |
+| 2026-11-10 16:37:05 | [io.github.Kay0k1/telegram-dev](https://github.com/Kay0k1/telegram-dev) | Telegram Dev | 0.4.0 | Search current official Telegram docs: Bot API, Mini Apps, MTProto, TDLib and c… |
+| 2026-11-10 16:40:17 | do.dayplan/dayplan | Dayplan | 1.0.0 | Plan your day in Dayplan from your AI assistant: see today, then add, schedule… |
+| 2026-11-10 16:40:58 | io.github.ceadigital/skip-trace-owner-phone-finder | Skip Trace & Property / LLC Owner Phone… | 1.0.0 | Pierce anonymous LLCs via SOS/GLEIF and resolve verified owner wireless phones,… |
+| 2026-11-10 16:40:58 | io.github.ceadigital/instagram-tiktok-youtube-transcript-scraper | Instagram, TikTok & YouTube Transcript… | 1.0.0 | Extract time-coded spoken transcripts, 0-3s viral hooks, visual OCR captions &… |
+| 2026-11-10 16:40:58 | io.github.ceadigital/ebay-sold-listings-comps-scraper | eBay & Mercari Sold Listings Comps & Ar… | 1.0.0 | 90-day eBay & Mercari realized sold prices, Accepted Best Offers, IQR median &… |
+| 2026-11-10 16:40:58 | io.github.ceadigital/building-permits-code-violations-scraper | Building Permits & Code Violations Scra… | 1.0.0 | Live Socrata building permits & code violations with auto-chained LLC owner wir… |
+| 2026-11-10 16:43:12 | io.github.openrepro/ledger | OpenRepro ledger | 0.2.0 | Does a paper reproduce? Read-only lookup of OpenRepro's re-run reports, claims… |
+| 2026-11-10 16:44:54 | com.benchlet/incidentlib | Incident Library | 1.0.0 | Public post-incident reports as structured cases: search by symptom, read one,… |
+| 2026-11-10 16:46:45 | ai.planetrack/flight-data |  | 1.0.0 | Live flight status, airport boards, aircraft lookups and what is overhead, from… |
+| 2026-11-10 16:47:08 | com.maennche/studio-connector | Maennche Studio | 1.0.0 | Work with Maennche Studio records after you sign in and choose a business. |
+| 2026-11-10 16:49:03 | cc.kreatix/kreatix | Kreatix | 1.0.0 | Schedule and publish posts to Instagram, TikTok, YouTube, Facebook, X, LinkedIn… |
+| 2026-11-10 16:50:01 | io.github.webglazer/webglazer | WebGlazer | 1.0.0 | AI search visibility: how ChatGPT, Gemini, Perplexity, Copilot and Google AI Mo… |
+| 2026-11-10 16:50:28 | [com.mambabuilt/mcp-dutch-rental-listings](https://github.com/mambalabsdev/mcp-dutch-rental-listings) |  | 1.0.0 | Netherlands rental listings from Kamernet, HousingAnywhere, and anti-squat agen… |
+| 2026-11-10 16:52:55 | [io.github.ramirkoz/project-consulting](https://github.com/ramirkoz/AI-Cost-Auditor) | Project Consulting: Index | 0.1.0 | Search dated MCP metadata and get AI billing export guides; no file audit in v0… |
+| 2026-11-10 16:54:34 | [com.mambabuilt/mcp-news-site-article-archive](https://github.com/mambalabsdev/mcp-news-site-article-archive) |  | 1.0.0 | Full article text and dates from named news sites across a past date range, wit… |
+| 2026-11-10 16:57:20 | [io.github.fagugon283/rational-agnostic](https://github.com/fagugon283/rational) |  | 0.1.7 | Vendor-agnostic governance & traceability layer for AI coding agents (MCP + CLI… |
+| 2026-11-10 16:59:16 | io.github.rich937/lendmail | LendMail | 1.2.0 | Decode credit and loan offers you got in the mail: upload a photo on LendMail,… |
+| 2026-11-10 16:59:53 | io.github.papyrasai-cpu/papyras | Papyras Product Catalog | 1.1.0 | Search 37,000+ home, garden, outdoor & tool products with live prices and buy l… |
+| 2026-11-10 17:01:57 | com.nashouse.articles/mcp | Nas House Articles | 1.1.0 | Read-only search and full text of Nas House guides: stays, coworking, events an… |
+| 2026-11-10 17:01:58 | show.made/portfolios | made.show | 1.0.0 | Designer portfolios on made.show. Find people, read their work, request work sa… |
+| 2026-11-10 17:02:15 | [com.mambabuilt/mcp-business-pdf-field-extractor](https://github.com/mambalabsdev/mcp-business-pdf-field-extractor) |  | 1.0.0 | Fixed fields and line items from invoice, purchase order, and contract PDFs, wi… |
+| 2026-11-10 17:05:52 | com.attackerview/website-security-check | AttackerView quick website security che… | 1.0.0 | Passive security check of a domain: headers, TLS, DNS and email authentication.… |
+| 2026-11-10 17:06:53 | [com.mambabuilt/mcp-multi-platform-social-posts-comments](https://github.com/mambalabsdev/mcp-multi-platform-social-posts-comments) |  | 1.0.0 | Public posts and comments from Bluesky, Hacker News, Mastodon, Lemmy, Reddit, a… |
+| 2026-11-10 17:07:11 | ai.datasnack/datasnack | DataSnack | 1.0.0 | Seven-day forecasts of prediction markets, with the math, the record and Excel… |
+| 2026-11-10 17:11:36 | [com.mambabuilt/mcp-youtube-video-channel-scraper](https://github.com/mambalabsdev/mcp-youtube-video-channel-scraper) |  | 1.0.0 | YouTube channels, playlists, and search lists as flat rows, with no login |
+| 2026-11-10 17:12:56 | [co.canopyapi/mcp](https://github.com/canopy-api/canopy-api-mcp) | Canopy API | 3.0.0 | Amazon product API & MCP server: search, prices, ratings, sellers, deals, and A… |
+| 2026-11-10 17:13:53 | io.pylote/mcp | Pylote: Freelance Tech Missions (France) | 1.0.0 | Search freelance tech missions in France, see which recruiters viewed your prof… |
+| 2026-11-10 17:15:21 | [io.github.inkwell-finance/dagon-mcp](https://github.com/inkwell-finance/dagon-mcp) | Dagon Inference | 0.1.0 | Uncensored LLM inference: list models, chat, create keys, buy credits with Sola… |
+| 2026-11-10 17:16:01 | [com.clonvo/mcp](https://github.com/clonvodotcom/mcp) | Clonvo | 1.3.0 | Web search, scraping, crawling, research, a browser agent, and company and peop… |
+| 2026-11-10 17:18:41 | link.attim/attim | ATTIM | 1.0.0 | Put what you make with AI online at a link anyone can open, and change it later… |
 
 ## Data source
 
