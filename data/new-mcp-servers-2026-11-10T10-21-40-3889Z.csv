@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-11-10T09:21:41.12984Z,io.github.Dmitry-Kov/ooxml-integrity,ooxml-integrity,0.10.0,https://github.com/Dmitry-Kov/ooxml-integrity,,"Checks .docx and .pptx files after automated editing for lost comments, tracked changes and notes."
+2026-11-10T09:23:23.522793Z,io.dowit/dowit,Dowit,1.0.0,,streamable-http,"Work planner for freelancers: calendar, tasks, projects, time tracking and client reports."
+2026-11-10T09:25:58.278371Z,com.vari8ion/vari8ion,Vari8ion,1.1.0,,streamable-http,"Find, date and price each change on a project. Link a OneDrive folder for daily support or a claim."
+2026-11-10T09:28:11.571917Z,holiday.wemake/wemake-holiday,wemake.holiday,1.0.0,,streamable-http,"Hotels (2.8M directory + live prices), flights, tours, route ideas, travel guides – read-only."
+2026-11-10T09:29:12.607759Z,io.github.CloudCorpRecords/pagesnap,,0.1.0,https://github.com/CloudCorpRecords/pagesnap,,"Screenshot any public web page as an image, and check your remaining screenshot quota."
+2026-11-10T09:29:48.357059Z,com.lineupatlas/lineup-atlas,Lineup Atlas,1.0.0,,streamable-http,"Upcoming club nights, festivals and artist tour dates worldwide, with official ticket links"
+2026-11-10T09:31:50.69644Z,app.voxball/verdicts,VoxBall · the fans' verdict,1.0.0,,streamable-http,"Football man of the match and best player of the season, voted by fans. Free, read-only."
+2026-11-10T09:32:45.859613Z,org.escrowmcp/mm,MM by Escrow MCP,0.3.0,,streamable-http,Escrow middleman for any deal between people or AI agents: USDC held in an audited contract.
+2026-11-10T09:39:46.365801Z,io.github.CloudCorpRecords/fiscocheck,,0.1.0,https://github.com/CloudCorpRecords/fiscocheck,,"Italian tax tools: codice fiscale, partita IVA, IBAN, ATECO, IMU, F24, FatturaPA and NIS2."
+2026-11-10T09:41:06.342245Z,app.vercel.cleanmarket/marketplace,Clean Marketplace,1.1.0,,streamable-http,"Work marketplace for AI agents: find open tasks, claim, deliver and earn credits."
+2026-11-10T09:48:20.890212Z,io.github.muhamad-0/traceo,Traceo,0.1.0,https://github.com/muhamad-0/traceo-skills,streamable-http,"Traceo bug recordings (console, network, user actions, environment) as context for coding agents."
+2026-11-10T09:49:59.169908Z,io.github.CloudCorpRecords/pixelgrade,,0.1.0,https://github.com/CloudCorpRecords/pixelgrade,,"Check a page's Meta, TikTok and OpenAI pixels: grades, findings, reports and fix guides."
+2026-11-10T09:51:48.225617Z,su.xn--80apfqfbpi/kopipast,копипаст,1.3.2,,,"End-to-end encrypted notes, code and files for AI agents: search, create, share. Keys stay local."
+2026-11-10T09:52:33.129209Z,studio.veena/veena,Veena,1.0.0,,streamable-http,Veena is an AI DAW with a personal music producer built in. Make songs in your studio from chat.
+2026-11-10T09:57:19.361534Z,io.github.zerostack-rf/zerostack-mcp,SMLIGHT ZeroStack RF Diagnostics,0.9.9,https://github.com/zerostack-rf/zerostack-mcp,,"Zigbee/Thread log diagnostics, TI F2 & EFR32 register decoder, and ZeroStack hardware benchmarks."
+2026-11-10T10:00:20.820992Z,io.github.CloudCorpRecords/placeguide,,0.1.0,https://github.com/CloudCorpRecords/placeguide,,"Search verified places, menus, reviews and hours across 119 travel destinations."
+2026-11-10T10:01:04.212332Z,ai.fortunest/portfolio,Fortunest,1.0.0,,streamable-http,"Ask about your real portfolio: holdings, risk, tax lots and trades across brokers and exchanges."
+2026-11-10T10:01:35.039271Z,ai.fortunest/portfolio-demo,Fortunest demo,1.0.0,,streamable-http,Free demo of Fortunest: a sample multi-broker portfolio your AI can query. No account needed.
+2026-11-10T10:01:55.332699Z,io.usefulapi/rechnio,Rechnio MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"List invoices, customers, bank transactions and receipts; create draft invoices in Rechnio."
+2026-11-10T10:01:55.347471Z,io.usefulapi/faktuo,Faktuo MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Create invoice, proforma, quote and credit-note PDFs in Faktuo."
+2026-11-10T10:07:51.461544Z,io.github.OpenCidian/opencidian,"OpenCidian: open Chinese ↔ Vietnamese dictionary (Hán Việt, pinyin, character breakdown)",0.2.0,https://github.com/OpenCidian/opencidian-mcp,streamable-http,"Open Chinese-Vietnamese dictionary by Perxel: Hán Việt, pinyin, meanings, characters. Cited."
+2026-11-10T10:10:38.17453Z,io.github.CloudCorpRecords/eodrecord,,0.1.0,https://github.com/CloudCorpRecords/eodrecord,,Read the published end-of-day state of a rules-based SPY and QQQ index model.
+2026-11-10T10:12:32.235149Z,io.ideario/ideario,ideario,1.0.0,,streamable-http,"List, open, start, and add to your ideario ideas from your assistant. Needs Plus or Pro."
+2026-11-10T10:14:08.025235Z,eu.beresol/monitors,Beresol EU Policy Monitors,1.0.0,,streamable-http,"Eight EU policy monitors: defence, capital markets, tariffs, AI, quantum, startups, gold, GovTech."
+2026-11-10T10:14:08.504153Z,eu.beresol/brubru,Brubru EU Policy Intelligence,1.0.0,,streamable-http,"EU laws, live legislative procedures, calendar, EPRS and policy guides for any AI assistant."
