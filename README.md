@@ -9,56 +9,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 12:19 UTC
+## Latest list — 2026-11-10 13:21 UTC
 
-New MCP servers published between 2026-11-10 11:21 UTC and 2026-11-10 12:19 UTC.
+New MCP servers published between 2026-11-10 12:19 UTC and 2026-11-10 13:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-10T12-19-30-038897Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-10T13-21-31-335794Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-10 11:23:46 | [io.github.CloudCorpRecords/rubricscore](https://github.com/CloudCorpRecords/rubricscore) |  | 0.1.0 | Grade essays and resumes, and judge texts with typed yes/no, choice and score q… |
-| 2026-11-10 11:26:02 | io.hibira/live-chat | Hibira Live Chat | 1.0.0 | Wire your admin panel to Hibira Live Chat single sign-on: setup, code for your… |
-| 2026-11-10 11:26:02 | io.hibira/gaya | Gaya | 0.1.0 | Ask a group of AI personas with different views; they talk it over and return a… |
-| 2026-11-10 11:26:19 | io.github.ryankaye212-tech/probeline | ProbeLine | 1.0.0 | Periodontal diagnosis (2017 AAP/EFP) and sourced dental implant specs. Pay per… |
-| 2026-11-10 11:27:51 | ai.ihumane/ihumane | ihumane | 0.5.1 | Design and UX knowledge written for AI agents: rules, the reasons behind them,… |
-| 2026-11-10 11:28:19 | app.trackcalr/trackcalr | Trackcalr | 2.0.0 | Log and edit meals with photos, read daily calories and macros, goals, weigh-in… |
-| 2026-11-10 11:28:26 | [io.github.ai-directories-clients/transclipper](https://github.com/ai-directories-clients/transclipper) | TransClipper | 1.0.0 | Transcribe TikToks, Reels and YouTube; score virality, find breakouts, write ho… |
-| 2026-11-10 11:30:01 | com.productboard/productboard | Productboard | 1.0.0 | Analyze customer feedback, develop your product roadmap, and automate product o… |
-| 2026-11-10 11:34:04 | [io.github.CloudCorpRecords/bizfile](https://github.com/CloudCorpRecords/bizfile) |  | 0.1.0 | Verify businesses against public registries and check email headers, with signe… |
-| 2026-11-10 11:40:56 | [app.agentwright/claude-pricing](https://github.com/agentwright-app/site) | Claude API Pricing | 1.0.0 | Current Claude API prices and cost estimates with prompt caching and Batch API… |
-| 2026-11-10 11:46:55 | [za.co.resultsza/mcp](https://github.com/Stef1986/resultsza-sdk) | ResultsZA | 0.1.0 | Official ResultsZA tools for South African and international lottery results. |
-| 2026-11-10 11:48:07 | com.neuralanalog/neural-analog | Neural Analog | 1.0.0 | Import, restore, master, split, transcribe, and download audio with Neural Anal… |
-| 2026-11-10 11:50:16 | com.matlogica/pricinglab | PricingLab | 0.1.2 | Price derivatives, insurance and energy models with exact sensitivities, checke… |
-| 2026-11-10 11:51:48 | [pro.actuaryai/actuary](https://github.com/actuaryai/mcp) | Actuary | 1.0.0 | Pre-trade gate for agents on Robinhood Chain: signed ALLOW, REVIEW or DENY befo… |
-| 2026-11-10 11:52:32 | [com.cuelark/tools](https://github.com/cuelark/cuelark-tools-mcp) | Cuelark Tools | 1.0.0 | Free text and data tools: JSON, tokens, cron, dates, age cut-offs, CGPA, time z… |
-| 2026-11-10 11:54:14 | [io.github.theodcrx/validatehtml](https://github.com/theodcrx/validatehtml-cli) |  | 0.1.0 | Validate HTML, CSS, JSON, XML and WCAG accessibility from an AI coding agent. N… |
-| 2026-11-10 11:54:48 | com.gearhost/mcp | GearHost | 1.2.0 | Publish a website to a live HTTPS URL in seconds, no account needed. Keep it fr… |
-| 2026-11-10 11:54:53 | [io.github.MatthiasMAigner/webhooky-mcp](https://github.com/MatthiasMAigner/webhooky-mcp) | Webhooky | 1.0.3 | Send yourself a push notification from an AI assistant. No account, one environ… |
-| 2026-11-10 11:56:18 | [io.github.LevapVeeskela/lv24-seo](https://github.com/LevapVeeskela/lv24-seo-optimizer) | LV24 SEO | 0.1.0 | Free-first SEO for agents: GSC, Yandex Webmaster/Metrika, Bing, CrUX, PSI, craw… |
-| 2026-11-10 11:57:38 | [io.github.datadmon/apna-jobs-scraper](https://github.com/datadmon/apify-data-actors-examples) | Apna Jobs Scraper (Apify) - apna.co Ind… | 1.0.1 | Apna (apna.co) India jobs as JSON: salary, locality, department, full JD, full… |
-| 2026-11-10 11:57:39 | [io.github.datadmon/cutshort-jobs-scraper](https://github.com/datadmon/apify-data-actors-examples) | Cutshort Jobs Scraper (Apify) - India s… | 1.0.1 | Cutshort India startup & tech jobs as JSON: salary range, skills, remote, compa… |
-| 2026-11-10 11:57:40 | [io.github.datadmon/dubai-real-estate-projects](https://github.com/datadmon/apify-data-actors-examples) | Dubai Real Estate Projects (Apify) - DL… | 1.0.1 | Dubai DLD project register as JSON: developer, status, value, escrow account, %… |
-| 2026-11-10 11:57:40 | [io.github.datadmon/dubai-rent-contracts](https://github.com/datadmon/apify-data-actors-examples) | Dubai Rent Contracts (Apify) - Ejari re… | 1.0.1 | Dubai Ejari rent contracts as JSON: annual rent AED, rent/sqm, area, new vs ren… |
-| 2026-11-10 11:57:41 | [io.github.datadmon/getonbrd-jobs-scraper](https://github.com/datadmon/apify-data-actors-examples) | Get on Board Jobs Scraper (Apify) | 1.0.1 | Get on Board LATAM tech jobs as JSON: monthly USD salary, full JD, only-new fee… |
-| 2026-11-10 11:57:42 | [io.github.datadmon/gupy-jobs-scraper](https://github.com/datadmon/apify-data-actors-examples) | Gupy Jobs Scraper (Apify) - Brazil jobs… | 1.0.1 | Gupy (Brazil) jobs as JSON: full description, city, state, workplace and contra… |
-| 2026-11-10 11:57:43 | [io.github.datadmon/importyeti-scraper](https://github.com/datadmon/apify-data-actors-examples) | ImportYeti Scraper (Apify) - US import… | 1.0.1 | ImportYeti US import records as JSON: bills of lading per company, top supplier… |
-| 2026-11-10 11:57:43 | [io.github.datadmon/india-new-company-registrations](https://github.com/datadmon/apify-data-actors-examples) | India New Company Registrations (Apify)… | 1.0.1 | New Indian companies (MCA) as JSON daily: CIN, type, state, activity, capital,… |
-| 2026-11-10 11:57:44 | [io.github.datadmon/magicbricks-property-scraper](https://github.com/datadmon/apify-data-actors-examples) | Magicbricks Scraper (Apify) - India pro… | 1.0.1 | Magicbricks India listings as JSON: price, price/sq ft, carpet area, BHK, local… |
-| 2026-11-10 11:57:45 | [io.github.datadmon/nse-corporate-announcements](https://github.com/datadmon/apify-data-actors-examples) | NSE Corporate Announcements (Apify) - N… | 1.0.1 | NSE India filings as JSON: announcements, ex-dates, board meetings, bulk deals,… |
-| 2026-11-10 11:57:46 | [io.github.datadmon/onlinejobs-ph-scraper](https://github.com/datadmon/apify-data-actors-examples) | OnlineJobs.ph Scraper (Apify) - Philipp… | 1.0.1 | OnlineJobs.ph remote/VA jobs as JSON: wage min/max/period, hours, skills, full… |
-| 2026-11-10 11:57:46 | [io.github.datadmon/saudi-etimad-tenders](https://github.com/datadmon/apify-data-actors-examples) | Saudi Etimad Tenders (Apify) - governme… | 1.0.1 | Saudi Etimad government tenders as JSON: agency, deadlines, region, award resul… |
-| 2026-11-10 11:57:48 | [io.github.datadmon/shine-jobs-scraper](https://github.com/datadmon/apify-data-actors-examples) | Shine Jobs Scraper (Apify) - Shine.com… | 1.0.1 | Shine.com India jobs as JSON: full JD, salary range, experience, skills, indust… |
-| 2026-11-10 11:57:49 | [io.github.datadmon/unstop-scraper](https://github.com/datadmon/apify-data-actors-examples) | Unstop Scraper (Apify) - jobs, internsh… | 1.0.1 | Unstop jobs, internships, hackathons & competitions as JSON: stipend, prizes, d… |
-| 2026-11-10 11:57:50 | [io.github.datadmon/welcome-to-the-jungle-jobs-scraper](https://github.com/datadmon/apify-data-actors-examples) | Welcome to the Jungle Jobs Scraper (Api… | 1.0.1 | WTTJ France-focused public board jobs as JSON: full JD, company, only-new feed.… |
-| 2026-11-10 11:57:51 | [io.github.datadmon/workindia-jobs-scraper](https://github.com/datadmon/apify-data-actors-examples) | WorkIndia Jobs Scraper (Apify) - India… | 1.0.1 | WorkIndia India jobs as JSON: monthly salary, city, locality, category, full JD… |
-| 2026-11-10 11:57:52 | [io.github.datadmon/zap-imoveis-vivareal-scraper](https://github.com/datadmon/apify-data-actors-examples) | Zap Imoveis & VivaReal Scraper (Apify)… | 1.0.1 | Zap Imoveis + VivaReal Brazil listings as JSON: price, condo, IPTU, area, lat/l… |
-| 2026-11-10 12:02:04 | [io.github.hadriangateway/platter](https://github.com/hadriangateway/platter) | Platter | 2.1.0 | MCP server exposing Read, Write, Edit, Bash, Glob, Grep, and JS tools over stdi… |
-| 2026-11-10 12:10:29 | [io.github.yusasecurity/yusa](https://github.com/yusasecurity/yusa) | YUSA | 0.2.0 | Prompt-injection firewall for AI agents: scan untrusted text, fence it, gate to… |
-| 2026-11-10 12:11:55 | com.tradezella/tradezella | TradeZella | 1.0.0 | AI trading partner and trading journal: trades, reports, journaling, market dat… |
-| 2026-11-10 12:16:29 | [io.github.transparentpt/mcp](https://github.com/transparentpt/mcp) |  | 0.2.0 | Budget used cars in Portugal: fair-price check, running-cost (IUC) estimate, st… |
-| 2026-11-10 12:17:05 | com.bard0/site | bard0 design | 1.0.0 | Search and read bard0 design's FPGA and embedded engineering articles and site… |
-| 2026-11-10 12:18:14 | com.trustifi.be/trustifi | Trustifi | 1.0.0 | Investigate and manage email security across Trustifi plans using AI. |
+| 2026-11-10 12:21:12 | com.istfin/mcp | istfin | 1.0.0 | Borsa Istanbul (BIST) licensed data: prices, OHLCV bars, financial statements,… |
+| 2026-11-10 12:23:49 | [io.github.ParvenuDev/parvenu](https://github.com/ParvenuDev/parvenu_mcp_directory_integration) | Parvenu | 1.0.0 | B2B lead sourcing and enrichment: lead lists with verified emails, LinkedIn and… |
+| 2026-11-10 12:26:25 | network.moonbeam.next/paid-calls | Moonbeam paid calls | 1.0.0 | Paid calls for agents, each priced in USDC and paid with x402; checked before y… |
+| 2026-11-10 12:27:17 | io.github.karansharma1732/agentsafe | AgentSafe | 0.1.1 | Scan a URL before your agent reads it: hidden prompt injection, phishing, clean… |
+| 2026-11-10 12:30:16 | tech.geosensor.agentwise/spaceport | Agentwise Spaceport | 0.1.6 | For AI agents: find x402 goods, map undersupplied niches, post unmet needs. Fre… |
+| 2026-11-10 12:36:44 | hk.liki/liki-mcp | Liki — Deterministic Chinese Metaphysics | 0.1.0 | Deterministic BaZi, Zi Wei Dou Shu, Feng Shui, I Ching and naming engine. Free… |
+| 2026-11-10 12:37:37 | [io.github.zsthimself/open-video-generator-mcp](https://github.com/zsthimself/open-video-generator-mcp) | OpenVideoGenerator MCP Server | 1.0.0 | AI video generation MCP server for Kling, MiniMax, Luma & Hunyuan with prompt b… |
+| 2026-11-10 12:38:02 | [io.github.musadgn/codereach-mcp](https://github.com/musadgn/CodeReach-mcp) |  | 0.1.0 | ASP.NET Core MCP server: which endpoints and jobs reach this code, and what you… |
+| 2026-11-10 12:39:01 | [io.github.leogaudin/opencaptions](https://github.com/leogaudin/opencaptions) | OpenCaptions | 1.2.1 | Animated word-by-word captions for your videos, made on your own OpenCaptions s… |
+| 2026-11-10 12:45:00 | [io.github.workmagicio/workmagic-mcp](https://github.com/workmagicio/workmagic-agent-plugin) |  | 1.0.2 | Marketing attribution, incrementality and budget planning from your WorkMagic a… |
+| 2026-11-10 12:47:19 | app.leftblank/office | LeftBlank Office | 0.1.0 | Write, compile and share Typst documents (papers, slides, drawings) from any AI… |
+| 2026-11-10 12:50:06 | io.github.JB-Analytica/model2data-studio | model2data studio | 0.3.0 | Realistic fake data from a schema designed in model2data studio: preview rows,… |
+| 2026-11-10 12:57:26 | [io.github.Marcoco27/biennial-update-sentinel](https://github.com/Marcoco27/biennial-update-sentinel-mcp) | Biennial Update Sentinel | 0.1.0 | US motor carrier MCS-150 biennial update: next deadline, overdue flag, USDOT st… |
+| 2026-11-10 12:58:14 | [io.github.Marcoco27/disaster-deadline-sentinel](https://github.com/Marcoco27/disaster-deadline-sentinel-mcp) | Disaster Deadline Sentinel | 0.1.0 | US county disaster deadlines: assistance application cutoff, IRS postponed tax… |
+| 2026-11-10 12:58:50 | [io.github.Marcoco27/sentinelle-oppositions](https://github.com/Marcoco27/sentinelle-oppositions-mcp) | Sentinelle oppositions FR | 0.1.0 | French business sales and mergers (BODACC) per debtor, with the creditor object… |
+| 2026-11-10 12:59:34 | [io.github.Marcoco27/sentinelle-phyto](https://github.com/Marcoco27/sentinelle-phyto-mcp) | Sentinelle phyto FR | 0.1.0 | French pesticide register (Anses E-Phy): still sellable or usable, and until wh… |
+| 2026-11-10 13:00:25 | [io.github.Marcoco27/sentinelle-syndic](https://github.com/Marcoco27/sentinelle-syndic-mcp) | Sentinelle syndic FR | 0.1.0 | French condominium registry: current syndic and mandate end date, by condo or b… |
+| 2026-11-10 13:00:58 | [io.github.jlucasmcrell/apify-scrapers](https://github.com/jlucasmcrell/apify-scrapers) |  | 1.4.1 | 40 Apify public-data tools for leads, news, SEO, jobs, SEC, procurement, and re… |
+| 2026-11-10 13:01:16 | [com.avidquant/riskdesk](https://github.com/Iman/agent-driven-risk-desk-and-skills) | Risk Desk | 0.2.0 | Portfolio risk from supplied data or a synthetic example: VaR, ES, stress, cred… |
+| 2026-11-10 13:01:25 | [io.github.datadmon/bse-corporate-announcements](https://github.com/datadmon/apify-data-actors-examples) | BSE Corporate Announcements (Apify) - B… | 1.0.1 | BSE India filings as JSON: announcements, ex-dates, board meetings, result date… |
+| 2026-11-10 13:01:47 | io.github.leoali22/deenwise | Deenwise | 1.0.0 | Takeaway and restaurant software: free EPOS, commission-free ordering, AI recep… |
+| 2026-11-10 13:02:07 | com.convertapi/mcp | ConvertAPI | 1.0.0 | Convert files between 200+ formats and merge, compress, OCR, watermark or redac… |
+| 2026-11-10 13:05:39 | net.bot-hosting/mcp | Bot-Hosting.net | 1.0.0 | Deploy and manage Discord bots, Telegram bots, websites, APIs and databases on… |
+| 2026-11-10 13:10:07 | [io.github.Data-Alchemy-Labs/siliconwage-mcp](https://github.com/Data-Alchemy-Labs/siliconwage-mcp) | Silicon Wage | 1.0.0 | Funded work for AI agents, paid in USDC on Base when the work passes the job's… |
+| 2026-11-10 13:13:25 | com.lokand/lokand | Lokand Restaurant MCP | 1.0.0 | Free restaurant websites and menus: read any public menu, or build, import and… |
+| 2026-11-10 13:20:06 | dev.lazee/jobs | lazee.dev Jobs | 1.0.0 | Search open tech jobs from company career pages by role, level, country, workpl… |
 
 ## Data source
 
