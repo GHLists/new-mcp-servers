@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-11-09T23:20:55.597233Z,net.pitchai.skybuyfly/skybuyfly,SkyBuyFly,1.0.0,,streamable-http,"Compare duty-free prices across airport shops: search, live price checks, history and barcodes."
+2026-11-09T23:21:33.910758Z,io.github.risingwavelabs/risingwave-mcp,RisingWave,0.1.1,https://github.com/risingwavelabs/risingwave-mcp,,"Query, inspect and operate RisingWave, the PostgreSQL-compatible streaming database, from an agent."
+2026-11-09T23:22:27.057651Z,com.secretpass/secret-pass,SecretPass,1.0.0,,streamable-http,"Search current vouchers, coupons and discounts for online stores in the US, UK and Australia."
+2026-11-09T23:22:29.165029Z,org.myzucoins/my-zucoins,MyZucoins,1.0.0,,streamable-http,"Search guides, wallet help, developer docs and news for Zucoin's Splitchain layer 1 network."
+2026-11-09T23:25:56.08911Z,io.github.cariohca-ux/btc-node,IRONCLAW BTC Node,1.1.0,https://github.com/cariohca-ux/x402-btc-node,streamable-http,"Bitcoin full node data via MCP: fees, mempool, txs, whales, SEC. $0.001/call USDC on Base."
+2026-11-09T23:30:49.314384Z,com.scigantic/mcp,Scigantic,0.3.1,https://github.com/Scigantic/scigantic-mcp,streamable-http,"Search public scientific datasets and read schema cards that describe their files, columns and rows"
+2026-11-09T23:34:21.093882Z,com.agentmingo/mcp,AgentMingo,1.0.0,,streamable-http,"Tasks, your coding threads, plans, replies and starts, from any MCP client. Sign in with OAuth."
+2026-11-09T23:35:25.982327Z,io.github.iangcarroll/restaurant-health,Restaurant Health Inspections,1.0.0,https://github.com/iangcarroll/food,streamable-http,"Restaurant health inspection grades and violations for 20 US, UK, Canadian and French locations."
+2026-11-09T23:36:04.489473Z,com.trystarrynightops/sanctions-tariff-lookup,Sanctions & Tariff Lookup,1.1.1,,streamable-http,"Screen names on OFAC/CSL, UN, UK and EU sanctions lists; look up US HTS tariff codes and rates."
+2026-11-09T23:36:04.525433Z,com.trystarrynightops/recalllens,RecallLens,1.0.0,,streamable-http,"US recall lookup: NHTSA vehicle and VIN recalls, FDA food, drug and device recalls, CPSC products."
+2026-11-09T23:36:04.560574Z,com.trystarrynightops/healthcare-exclusion-lookup,Healthcare Exclusion Lookup,1.0.0,,streamable-http,Screen people and businesses against the HHS-OIG exclusion list (LEIE) by name or NPI.
+2026-11-09T23:36:51.275909Z,io.github.ameinnaqvi/travelowl-mcp,TravelOwl,0.2.0,https://github.com/ameinnaqvi/travelowl-mcp,streamable-http,"Plan and manage TravelOwl trips from ChatGPT, Claude and other MCP assistants."
+2026-11-09T23:38:15.924176Z,com.phone-bud/phone-bud,Phone Bud,1.1.0,,streamable-http,"AI voice agents that make real phone calls: one number or a short list, with transcripts and notes."
+2026-11-09T23:44:34.258223Z,com.postandghost/mcp,Post and Ghost,1.0.0,,streamable-http,"Post, thread, schedule and upload media to 9 social platforms from Claude, Cursor or any AI agent."
+2026-11-09T23:44:35.616015Z,com.xenmcp/xenmcp,XenMCP,1.0.0,,streamable-http,"Hosted MCP servers with OAuth for Claude and ChatGPT: databases, Grafana, Docker, Search Console"
+2026-11-09T23:44:50.352593Z,com.xenmcp/docker-agent,XenMCP Docker agent,1.0.1,https://github.com/xenMCP/docker-agent,,"Read-only MCP server for one Docker host: containers, inspect, logs, stats, events. No exec."
+2026-11-09T23:50:50.42338Z,com.japanlanded/landed-cost,JapanLanded landed-cost estimates,1.0.0,,streamable-http,Yen estimates of the total cost to buy Japanese goods via proxy services and ship them abroad.
+2026-11-09T23:52:50.33592Z,io.github.reachdog/reachdog-mcp,,0.1.0,https://github.com/reachdog/reachdog-mcp,,Reach Dog catalog and title enrichment tools.
+2026-11-09T23:53:21.340609Z,com.locatepic/mcp,"LocatePic — Photo Geolocation, Solar Shadow & OSINT Clue Engine",1.0.0,,streamable-http,"Analyze solar shadow angles, country road/phone clues & EXIF privacy rules for photo geolocation."
+2026-11-09T23:53:38.228015Z,com.checkchinatransit/mcp,CheckChinaTransit — China 24/240-Hour Visa-Free Transit Compliance Engine,1.0.0,,streamable-http,"Verify China 240-hour (formerly 144h) visa-free transit eligibility, ports & third-country routes."
+2026-11-09T23:53:54.481503Z,com.paperlesson/mcp,PaperLesson — K-12 Vector Math Drills & Handwriting Worksheet Generator,1.0.0,,streamable-http,"Generate seeded K-12 math drills with answer keys, handwriting ruling specs & vector PDFs."
+2026-11-09T23:54:05.56247Z,com.proofestry/proofestry,Proofestry,0.1.0,,streamable-http,Provenance and metadata tools for AI agents. Paid tools use x402 (USDC) at /mcp/<tool>.
+2026-11-09T23:55:13.630405Z,io.github.dagrang-repository/himalayan-lighthouse,Himalayan Lighthouse,1.0.0,,streamable-http,"The pages, on a network of free sites, that answer a subject. Lit as the World looks it up."
+2026-11-09T23:55:13.834544Z,io.github.dagrang-repository/teach-me,Teach Me,1.0.0,,streamable-http,"Free 100-lesson courses on any subject: search the library, read a course. No key."
+2026-11-10T00:11:48.827635Z,io.github.Muzaqil555/gemini-pro-mcp,Gemini Pro MCP,0.1.4,https://github.com/Muzaqil555/gemini-pro-mcp,,"Your Google AI Pro plan in Claude, Codex and Gemini CLI: Gemini, Flow, Notebooks, Jules, Veo"
+2026-11-10T00:18:13.804013Z,io.github.dweekly/quicken-mac-mcp,,1.7.0,https://github.com/dweekly/quicken-mac-mcp,,"Read-only access to Quicken For Mac financial data: transactions, spending, and portfolios."
+2026-11-10T00:19:13.987165Z,app.cafeqr/cafe-qr,Café QR,1.0.0,,streamable-http,"Café QR owners ask Claude about sales, orders, best sellers and feedback, and mark dishes sold out."

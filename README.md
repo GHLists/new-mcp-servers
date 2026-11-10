@@ -9,46 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 23:20 UTC
+## Latest list — 2026-11-10 00:19 UTC
 
-New MCP servers published between 2026-11-09 22:21 UTC and 2026-11-09 23:20 UTC.
+New MCP servers published between 2026-11-09 23:20 UTC and 2026-11-10 00:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-09T23-20-19-09179Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-10T00-19-43-682396Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-09 22:28:15 | [io.usefulapi/erp-saas-maqplan](https://github.com/m190/usefulapi-mcp) | Maqplan ERP MCP by usefulapi | 1.0.0 | Read customers, products, sales orders, invoices, NF-e and financial entries in… |
-| 2026-11-09 22:28:15 | [io.usefulapi/vendty](https://github.com/m190/usefulapi-mcp) | Vendty MCP by usefulapi | 1.0.0 | Read sales, products, customers, purchases and restaurant tables in Vendty. |
-| 2026-11-09 22:28:15 | [io.usefulapi/nubefact](https://github.com/m190/usefulapi-mcp) | NubeFact MCP by usefulapi | 1.0.0 | Issue, void and check facturas, boletas and notes sent to SUNAT in NubeFact. |
-| 2026-11-09 22:30:13 | com.smarthukuk/legal-research | SmartHukuk Legal Research | 1.8.0 | Türkiye hukuku emsal karar araştırması ve public hukuk kaynakları. Salt okunur. |
-| 2026-11-09 22:31:25 | [dev.levels/readymade](https://github.com/levels-dev/readymade-mcp) | ready→made MCP | 1.0.0 | Deterministic Figma to Elementor, Gutenberg, Oxygen, Etch and HTML layouts for… |
-| 2026-11-09 22:32:24 | io.eloai.company/price-broker | The Company: PC game price broker | 0.1.6 | Lowest live price for any PC game across 13 stores, with every store price and… |
-| 2026-11-09 22:38:41 | [uk.postcodecontext/mcp](https://github.com/postcodecontext/postcode-context-mcp) |  | 1.0.0 | UK location intelligence: Census, HMLR/RoS prices, EPC, IMD, schools & transit… |
-| 2026-11-09 22:41:46 | [io.github.THORCollective/hearth](https://github.com/THORCollective/HEARTH) | HEARTH | 0.1.0 | Search community threat hunting hypotheses by keyword, threat actor, or the log… |
-| 2026-11-09 22:41:55 | it.casarosannaottiolu/casa-rosanna | Casa Rosanna – Porto Ottiolu, Sardinia | 1.0.0 | Holiday home in Porto Ottiolu, Sardinia: availability, direct prices, sheltered… |
-| 2026-11-09 22:43:56 | com.dcamethod/dca-tools | DCA Method — backtests & calculators | 1.1.0 | Dollar-cost-averaging backtests on real historical data for crypto, stocks and… |
-| 2026-11-09 22:45:38 | io.github.JCLVSH/xmark | xmark | 0.6.1 | Search and chat with your X bookmarks, with citations back to the original post… |
-| 2026-11-09 22:46:03 | io.github.JCLVSH/dropspace | Dropspace | 2.52.2 | Create, schedule, and publish social media launches across platforms, then read… |
-| 2026-11-09 22:46:07 | io.github.JCLVSH/iris | Iris | 0.23.1 | Run multi-channel outreach: campaigns, contacts, conversations, and AI-drafted… |
-| 2026-11-09 22:46:39 | com.lunaterminal/lunaterminal | LunaTerminal | 1.1.0 | Planning calculators and market data for financial advisors: Roth, RMD, Social… |
-| 2026-11-09 22:49:19 | [ai.webprompter/mcp-service](https://github.com/bjothorl/ai-website-builder) | webprompter.ai — Static Sites & Custom… | 0.1.0 | Deploy static sites and connect custom domains from Claude, Cursor, or any MCP… |
-| 2026-11-09 22:53:44 | com.tryren/ren | Ren AI | 1.0.0 | Prep 1:1s, draft feedback and work through hard conversations at work, in your… |
-| 2026-11-09 22:54:29 | [io.github.prismatic-io/prism-mcp](https://github.com/prismatic-io/prism-mcp) |  | 1.6.0 | MCP server that wraps Prismatic's Prism CLI tool |
-| 2026-11-09 22:58:41 | [io.github.descipar/wled-mcp](https://github.com/descipar/wled-mcp) | WLED MCP (unofficial) | 0.2.0 | Unofficial MCP server for WLED LED controllers; not affiliated with the WLED pr… |
-| 2026-11-09 23:00:08 | [io.github.vstockma/x402-apis](https://github.com/vstockma/x402-apis) | Company & Macro Data (x402) | 1.0.0 | Official company registers (13 countries + LEI), FX, rates, yields, inflation.… |
-| 2026-11-09 23:00:09 | [io.github.vstockma/handelskalender-api](https://github.com/vstockma/handelskalender-api) | Trading Calendar & Public Holidays (x40… | 1.0.0 | Stock exchange trading days, hours, live market status (28 exchanges) and holid… |
-| 2026-11-09 23:08:28 | [io.github.rachitkumarrastogi/unity-mcp-server](https://github.com/rachitkumarrastogi/unity-mcp-server) | Unity MCP Server | 1.8.0 | MCP server for Unity: 150+ tools, Unity 6 skills, AI/ML, audits. No Editor. |
-| 2026-11-09 23:08:43 | com.scanqrlabs/scanqr | ScanQR Labs | 1.69.0 | Unlimited free QR codes with scan tracking, reusable pages, print-ready art, an… |
-| 2026-11-09 23:09:37 | [io.usefulapi/fiscalo](https://github.com/m190/usefulapi-mcp) | Fiscalo MCP by usefulapi | 1.0.0 | Read and create customers, items and draft invoices in Fiscalo. |
-| 2026-11-09 23:09:37 | [io.usefulapi/pagsafe](https://github.com/m190/usefulapi-mcp) | PagSafe MCP by usefulapi | 1.0.0 | Create Pix charges, check and refund payments, and manage Pix subscriptions in… |
-| 2026-11-09 23:09:37 | [io.usefulapi/bill-pt](https://github.com/m190/usefulapi-mcp) | Bill.pt MCP by usefulapi | 1.0.0 | List invoices, contacts, items and stock, and create contacts in Bill.pt. |
-| 2026-11-09 23:09:37 | [io.usefulapi/zapassina](https://github.com/m190/usefulapi-mcp) | ZapAssina MCP by usefulapi | 1.0.0 | Send documents for e-signature, track signers, and organize folders in ZapAssin… |
-| 2026-11-09 23:09:37 | [io.usefulapi/kassa-at](https://github.com/m190/usefulapi-mcp) | KASSA.AT MCP by usefulapi | 1.0.0 | Read and update articles, customers and stock in KASSA.AT. |
-| 2026-11-09 23:10:40 | io.github.theGeekist/garmin-mcp | Garmin MCP by geekist.co | 0.3.6 | Explore Garmin activity and health data with your AI assistant. |
-| 2026-11-09 23:13:53 | [io.github.1biz/topic-news](https://github.com/1biz/Top-PR) | Topic News PR Distribution | 1.3.0 | AI-accessible PR distribution across Asian news markets. |
-| 2026-11-09 23:14:54 | ai.govisit/tools | GoVisit Tools | 1.0.0 | Search GoVisit and read published travel destinations, places, and documentatio… |
-| 2026-11-09 23:15:02 | io.github.kriton-dev/audio-to-transcript | Speech to Text — File Transcripts, Spea… | 1.0.24 | Transcribe audio and video files to text with timestamps and SRT or WebVTT subt… |
-| 2026-11-09 23:18:35 | [io.github.HLIntel/headron](https://github.com/HLIntel/Headron) | Headron | 3.62.0 | Headron read-only verification, typed agent tools, and Mind API. |
+| 2026-11-09 23:20:55 | net.pitchai.skybuyfly/skybuyfly | SkyBuyFly | 1.0.0 | Compare duty-free prices across airport shops: search, live price checks, histo… |
+| 2026-11-09 23:21:33 | [io.github.risingwavelabs/risingwave-mcp](https://github.com/risingwavelabs/risingwave-mcp) | RisingWave | 0.1.1 | Query, inspect and operate RisingWave, the PostgreSQL-compatible streaming data… |
+| 2026-11-09 23:22:27 | com.secretpass/secret-pass | SecretPass | 1.0.0 | Search current vouchers, coupons and discounts for online stores in the US, UK… |
+| 2026-11-09 23:22:29 | org.myzucoins/my-zucoins | MyZucoins | 1.0.0 | Search guides, wallet help, developer docs and news for Zucoin's Splitchain lay… |
+| 2026-11-09 23:25:56 | [io.github.cariohca-ux/btc-node](https://github.com/cariohca-ux/x402-btc-node) | IRONCLAW BTC Node | 1.1.0 | Bitcoin full node data via MCP: fees, mempool, txs, whales, SEC. $0.001/call US… |
+| 2026-11-09 23:30:49 | [com.scigantic/mcp](https://github.com/Scigantic/scigantic-mcp) | Scigantic | 0.3.1 | Search public scientific datasets and read schema cards that describe their fil… |
+| 2026-11-09 23:34:21 | com.agentmingo/mcp | AgentMingo | 1.0.0 | Tasks, your coding threads, plans, replies and starts, from any MCP client. Sig… |
+| 2026-11-09 23:35:25 | [io.github.iangcarroll/restaurant-health](https://github.com/iangcarroll/food) | Restaurant Health Inspections | 1.0.0 | Restaurant health inspection grades and violations for 20 US, UK, Canadian and… |
+| 2026-11-09 23:36:04 | com.trystarrynightops/sanctions-tariff-lookup | Sanctions & Tariff Lookup | 1.1.1 | Screen names on OFAC/CSL, UN, UK and EU sanctions lists; look up US HTS tariff… |
+| 2026-11-09 23:36:04 | com.trystarrynightops/recalllens | RecallLens | 1.0.0 | US recall lookup: NHTSA vehicle and VIN recalls, FDA food, drug and device reca… |
+| 2026-11-09 23:36:04 | com.trystarrynightops/healthcare-exclusion-lookup | Healthcare Exclusion Lookup | 1.0.0 | Screen people and businesses against the HHS-OIG exclusion list (LEIE) by name… |
+| 2026-11-09 23:36:51 | [io.github.ameinnaqvi/travelowl-mcp](https://github.com/ameinnaqvi/travelowl-mcp) | TravelOwl | 0.2.0 | Plan and manage TravelOwl trips from ChatGPT, Claude and other MCP assistants. |
+| 2026-11-09 23:38:15 | com.phone-bud/phone-bud | Phone Bud | 1.1.0 | AI voice agents that make real phone calls: one number or a short list, with tr… |
+| 2026-11-09 23:44:34 | com.postandghost/mcp | Post and Ghost | 1.0.0 | Post, thread, schedule and upload media to 9 social platforms from Claude, Curs… |
+| 2026-11-09 23:44:35 | com.xenmcp/xenmcp | XenMCP | 1.0.0 | Hosted MCP servers with OAuth for Claude and ChatGPT: databases, Grafana, Docke… |
+| 2026-11-09 23:44:50 | [com.xenmcp/docker-agent](https://github.com/xenMCP/docker-agent) | XenMCP Docker agent | 1.0.1 | Read-only MCP server for one Docker host: containers, inspect, logs, stats, eve… |
+| 2026-11-09 23:50:50 | com.japanlanded/landed-cost | JapanLanded landed-cost estimates | 1.0.0 | Yen estimates of the total cost to buy Japanese goods via proxy services and sh… |
+| 2026-11-09 23:52:50 | [io.github.reachdog/reachdog-mcp](https://github.com/reachdog/reachdog-mcp) |  | 0.1.0 | Reach Dog catalog and title enrichment tools. |
+| 2026-11-09 23:53:21 | com.locatepic/mcp | LocatePic — Photo Geolocation, Solar Sh… | 1.0.0 | Analyze solar shadow angles, country road/phone clues & EXIF privacy rules for… |
+| 2026-11-09 23:53:38 | com.checkchinatransit/mcp | CheckChinaTransit — China 24/240-Hour V… | 1.0.0 | Verify China 240-hour (formerly 144h) visa-free transit eligibility, ports & th… |
+| 2026-11-09 23:53:54 | com.paperlesson/mcp | PaperLesson — K-12 Vector Math Drills &… | 1.0.0 | Generate seeded K-12 math drills with answer keys, handwriting ruling specs & v… |
+| 2026-11-09 23:54:05 | com.proofestry/proofestry | Proofestry | 0.1.0 | Provenance and metadata tools for AI agents. Paid tools use x402 (USDC) at /mcp… |
+| 2026-11-09 23:55:13 | io.github.dagrang-repository/himalayan-lighthouse | Himalayan Lighthouse | 1.0.0 | The pages, on a network of free sites, that answer a subject. Lit as the World… |
+| 2026-11-09 23:55:13 | io.github.dagrang-repository/teach-me | Teach Me | 1.0.0 | Free 100-lesson courses on any subject: search the library, read a course. No k… |
+| 2026-11-10 00:11:48 | [io.github.Muzaqil555/gemini-pro-mcp](https://github.com/Muzaqil555/gemini-pro-mcp) | Gemini Pro MCP | 0.1.4 | Your Google AI Pro plan in Claude, Codex and Gemini CLI: Gemini, Flow, Notebook… |
+| 2026-11-10 00:18:13 | [io.github.dweekly/quicken-mac-mcp](https://github.com/dweekly/quicken-mac-mcp) |  | 1.7.0 | Read-only access to Quicken For Mac financial data: transactions, spending, and… |
+| 2026-11-10 00:19:13 | app.cafeqr/cafe-qr | Café QR | 1.0.0 | Café QR owners ask Claude about sales, orders, best sellers and feedback, and m… |
 
 ## Data source
 
