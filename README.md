@@ -9,117 +9,73 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 07:20 UTC
+## Latest list — 2026-11-10 08:20 UTC
 
-New MCP servers published between 2026-11-10 06:19 UTC and 2026-11-10 07:20 UTC.
+New MCP servers published between 2026-11-10 07:20 UTC and 2026-11-10 08:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-10T07-20-36-241614Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-10T08-20-50-42467Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-10 06:21:42 | [io.github.mrfentmen/ecmarkup-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Ecmarkup MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:21:43 | [io.github.mrfentmen/edje-data-collection-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Edje Data Collection MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:21:44 | [io.github.mrfentmen/figlet-font-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | FIGlet Font MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:21:44 | [io.github.mrfentmen/flatbuffers-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | FlatBuffers MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:21:45 | [io.github.mrfentmen/genero-per-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Genero per MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:21:46 | [io.github.mrfentmen/gerber-image-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Gerber Image MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:21:47 | [io.github.mrfentmen/git-config-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Git Config MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:21:47 | [io.github.mrfentmen/glyph-bitmap-distribution-format-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Glyph Bitmap Distribution Format MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:21:48 | [io.github.mrfentmen/graph-modeling-language-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Graph Modeling Language MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:21:49 | [io.github.mrfentmen/gtkrc-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | GtkRC MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:23:26 | com.cntillion/centillion | Centillion | 1.0.0 | Build and test Centillion AI agents. Publishing waits for a person's approval. |
-| 2026-11-10 06:28:03 | [com.cosecdubai/eor](https://github.com/CosecJim/cosec-website-rebuild) | Cosec | 1.0.0 | Indicative UAE Employer of Record estimates and Cosec's published prices. Not b… |
-| 2026-11-10 06:29:08 | [io.github.open-winmale/wmshare](https://github.com/open-winmale/wmshare) |  | 1.14.0 | Local wmshare MCP server for catalog discovery and market data tools. |
-| 2026-11-10 06:29:35 | [io.github.mrfentmen/hocon-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | HOCON MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:29:35 | [io.github.mrfentmen/hosts-file-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Hosts File MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:29:36 | [io.github.mrfentmen/html-plusecr-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | HTML+ECR MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:29:36 | [io.github.mrfentmen/html-pluseex-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | HTML+EEX MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:29:37 | [io.github.mrfentmen/html-pluserb-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | HTML+ERB MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:29:37 | [io.github.mrfentmen/html-plusphp-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | HTML+PHP MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:29:38 | [io.github.mrfentmen/html-plusrazor-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | HTML+Razor MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:29:38 | [io.github.mrfentmen/hxml-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | HXML MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:29:38 | [io.github.mrfentmen/irc-log-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | IRC log MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:29:39 | [io.github.mrfentmen/json-with-comments-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | JSON with Comments MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:30:02 | [net.seedance2/seedance2](https://github.com/nereo-io/seedance2-plugin) | Seedance 2 | 2.0.0 | Seedance 2.5 and 2.0 AI video, plus AI images, from Claude, ChatGPT, Codex and… |
-| 2026-11-10 06:30:53 | [io.github.CloudCorpRecords/instadata](https://github.com/CloudCorpRecords/instadata) |  | 0.1.0 | Instagram public data as JSON: profile by handle, latest posts, and comments on… |
-| 2026-11-10 06:31:24 | [ai.animeapi/mcp](https://github.com/animeapi-ai/animeapi-mcp) | AnimeAPI | 1.0.0 | Anime image and video generation from $0.003 per image. Pay as you go, no subsc… |
-| 2026-11-10 06:35:52 | ai.monstermoney/agent-challenge | MON$TER Agent Challenge | 1.0.0 | Which AI agent earns the most for its human? Join with your human's OK and refe… |
-| 2026-11-10 06:35:54 | now.vulnerable/mcp | vulnerable.now | 0.3.0 | Free CVE lookups, package checks and patch priorities from eight sources. No ac… |
-| 2026-11-10 06:36:27 | [io.github.mrfentmen/java-properties-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Java Properties MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:36:28 | [io.github.mrfentmen/java-server-pages-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Java Server Pages MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:36:29 | [io.github.mrfentmen/javascript-pluserb-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | JavaScript+ERB MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:36:30 | [io.github.mrfentmen/jetbrains-mps-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | JetBrains MPS MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:36:31 | [io.github.mrfentmen/kdl-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | KDL MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:36:31 | [io.github.mrfentmen/linux-kernel-module-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Linux Kernel Module MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:36:32 | [io.github.mrfentmen/m3u-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | M3U MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:36:33 | [io.github.mrfentmen/microsoft-developer-studio-project-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Microsoft Developer Studio Project MCP: read, check, lint, scaffold and run cod… |
-| 2026-11-10 06:36:33 | [io.github.mrfentmen/microsoft-visual-studio-solution-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Microsoft Visual Studio Solution MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:36:34 | [io.github.mrfentmen/mtml-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | MTML MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:39:26 | co.askjunction/junction | Junction | 1.0.0 | Read-only connector: ask your AI about construction and ad-platform data. It ne… |
-| 2026-11-10 06:44:24 | [io.github.mrfentmen/netlinx-pluserb-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | NetLinx+ERB MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:44:24 | [io.github.mrfentmen/nunjucks-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Nunjucks MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:44:25 | [io.github.mrfentmen/object-data-instance-notation-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Object Data Instance Notation MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:44:26 | [io.github.mrfentmen/omnet-plus-plus-msg-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | OMNeT++ MSG MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:44:27 | [io.github.mrfentmen/omnet-plus-plus-ned-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | OMNeT++ NED MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:44:27 | [io.github.mrfentmen/openstep-property-list-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | OpenStep Property List MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:44:28 | [io.github.mrfentmen/opentype-feature-file-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | OpenType Feature File MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:44:29 | [io.github.mrfentmen/parrot-internal-representation-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Parrot Internal Representation MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:44:29 | [io.github.mrfentmen/pod-6-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Pod 6 MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:44:30 | [io.github.mrfentmen/quartus-simulation-ip-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Quartus Simulation IP MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:44:31 | com.quantafinance/deal-check | Quanta Finance Deal Check | 1.0.0 | Check a real estate investor deal against Quanta Finance's published loan terms. |
-| 2026-11-10 06:46:40 | [io.github.MaksimGalatin/padam-nocturne](https://github.com/MaksimGalatin/padam-nocturne) | PADAM · NOCTURNE memory | 0.4.8 | Local-first memory for AI agents: sleep-style consolidation and honest, verifia… |
-| 2026-11-10 06:48:09 | [io.github.solnk-dev/solnk-mcp](https://github.com/solnk-dev/solnk-mcp) | Solnk | 1.0.0 | Let AI agents draft, schedule and publish social posts to 9 platforms, reviewed… |
-| 2026-11-10 06:49:00 | [com.magistermarketing/magister](https://github.com/Magister-Marketing/magister-mcp) | Magister Marketing | 1.0.0 | AI marketing agent: audits, plans, SEO, AI visibility, social posting, and Goog… |
-| 2026-11-10 06:52:25 | [io.github.mrfentmen/rich-text-format-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Rich Text Format MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:52:25 | [io.github.mrfentmen/rmarkdown-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | RMarkdown MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:52:26 | [io.github.mrfentmen/robots-exclusion-rules-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Robots Exclusion Rules MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:52:26 | [io.github.mrfentmen/roff-manpage-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Roff Manpage MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:52:27 | [io.github.mrfentmen/runoff-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | RUNOFF MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:52:28 | [io.github.mrfentmen/scaml-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Scaml MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:52:28 | [io.github.mrfentmen/selinux-policy-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | SELinux Policy MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:52:29 | [io.github.mrfentmen/spline-font-database-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Spline Font Database MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:52:29 | [io.github.mrfentmen/srecode-template-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | SRecode Template MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:52:30 | [io.github.mrfentmen/ssh-config-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | SSH Config MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:54:14 | [io.github.SuresoftTechnologies/covera-mcp](https://github.com/SuresoftTechnologies/covera-plugin) | COVERA COVER coverage tools | 0.1.0 | Drive Suresoft COVER EE from a coding agent: coverage builds, coverage lookup,… |
-| 2026-11-10 06:54:37 | io.github.omercebeci/hesapnokta | HesapNokta | 1.0.0 | Türkiye'ye özgü maaş, tazminat, vergi, kira, askerlik, YKS/LGS ve tarih hesapla… |
-| 2026-11-10 06:57:12 | [io.github.akiba-labs/free-agent-tools](https://github.com/akiba-labs/free-agent-tools) | Free Agent Tools | 1.27.0 | 43 free no-auth tools: Japan life, visas, travel and work checks, plus pitch ro… |
-| 2026-11-10 06:58:05 | com.mydailyjourneys.app/trip-planning | My Daily Journeys trip planning | 1.0.0 | Private trips in Vietnam, Thailand and Cambodia by Maya Dalal: products, season… |
-| 2026-11-10 06:59:02 | me.dubsync/video-translation | DubSync | 1.0.0 | Translate your videos, check progress and retrieve dubbed results through your… |
-| 2026-11-10 06:59:21 | [io.github.mrfentmen/sugarss-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | SugarSS MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:59:21 | [io.github.mrfentmen/survex-data-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Survex data MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:59:22 | [io.github.mrfentmen/textgrid-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | TextGrid MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:59:23 | [io.github.mrfentmen/tmdl-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | TMDL MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:59:24 | [io.github.mrfentmen/tor-config-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Tor Config MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:59:25 | [io.github.mrfentmen/tsplib-data-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | TSPLIB data MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:59:25 | [io.github.mrfentmen/type-language-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Type Language MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:59:26 | [io.github.mrfentmen/valve-data-format-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Valve Data Format MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:59:27 | [io.github.mrfentmen/velocity-template-language-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Velocity Template Language MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:59:28 | [io.github.mrfentmen/vespa-schema-definition-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Vespa Schema Definition MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 06:59:58 | com.sellerfile/walmart-seller | SellerFile for Walmart sellers | 1.0.0 | Walmart Marketplace seller profit, P&L and per-product metrics from SellerFile.… |
-| 2026-11-10 07:04:00 | [io.github.dengyier/OpenWorkProof-Rust](https://github.com/dengyier/OpenWorkProof) | OpenWorkProof Rust (Apple Silicon) | 0.1.0 | Six local Rust tools for evidence digests, signature checks, keys and schemas o… |
-| 2026-11-10 07:11:46 | [io.github.mrfentmen/visual-basic-net-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Visual Basic .NET MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 07:11:47 | [io.github.mrfentmen/wavefront-material-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Wavefront Material MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 07:11:48 | [io.github.mrfentmen/wavefront-object-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Wavefront Object MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 07:11:49 | [io.github.mrfentmen/webassembly-interface-type-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | WebAssembly Interface Type MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 07:11:49 | [io.github.mrfentmen/webvtt-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | WebVTT MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 07:11:50 | [io.github.mrfentmen/wget-config-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Wget Config MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 07:11:50 | [io.github.mrfentmen/win32-message-file-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Win32 Message File MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 07:11:51 | [io.github.mrfentmen/windows-registry-entries-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Windows Registry Entries MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 07:11:52 | [io.github.mrfentmen/world-of-warcraft-addon-data-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | World of Warcraft Addon Data MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 07:11:52 | [io.github.mrfentmen/x-bitmap-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | X BitMap MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 07:12:04 | [io.vulntracker/mcp](https://github.com/vulntracker/vulntracker-mcp) | VulnTracker | 2.5.0 | CVEs, affected versions and fix versions for your dependencies, from an affecte… |
-| 2026-11-10 07:14:04 | [io.github.CloudCorpRecords/listingdata](https://github.com/CloudCorpRecords/listingdata) |  | 0.1.0 | Redfin real-estate data as JSON: listing search by location and full property d… |
-| 2026-11-10 07:18:03 | [io.github.typesensekit/typesensekit](https://github.com/typesensekit/typesensekit) | TypesenseKit | 1.6.0 | 98 typed Typesense operations for AI agents through an MCP server that is read-… |
-| 2026-11-10 07:18:55 | [io.github.mrfentmen/curl-config-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | cURL Config MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 07:18:56 | [io.github.mrfentmen/kvlang-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | kvlang MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 07:18:56 | [io.github.mrfentmen/mdsvex-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | mdsvex MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 07:18:57 | [io.github.mrfentmen/pkg-config-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | pkg-config MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 07:18:58 | [io.github.mrfentmen/x-pixmap-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | X PixMap MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 07:18:58 | [io.github.mrfentmen/xcompose-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | XCompose MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 07:18:59 | [io.github.mrfentmen/xml-property-list-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | XML Property List MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 07:19:00 | [io.github.mrfentmen/xpages-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | XPages MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 07:19:00 | [io.github.mrfentmen/yasnippet-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | YASnippet MCP: read, check, lint, scaffold and run code. |
-| 2026-11-10 07:19:01 | [io.github.mrfentmen/zmodel-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Zmodel MCP: read, check, lint, scaffold and run code. |
+| 2026-11-10 07:22:39 | [app.tier1protocol.mcp/tier-1-protocol](https://github.com/Tier-1-Protocol/tier1-protocol-connector) | Tier 1 Protocol | 1.0.1 | Search files while they stay encrypted: the problem DARPA chased for a decade.… |
+| 2026-11-10 07:25:25 | [dev.buildcord/buildcord](https://github.com/buildcord-dev/mcp) | Buildcord | 1.0.0 | Build and change Discord bots by describing them: slash commands, events, embed… |
+| 2026-11-10 07:28:00 | [io.github.CloudCorpRecords/storedata](https://github.com/CloudCorpRecords/storedata) |  | 0.1.0 | Shopify storefront data as JSON: public store collections and products, with pa… |
+| 2026-11-10 07:28:40 | com.faro-economicopages/faro-data | Faro Data — federal contracts, stock DN… | 1.0.0 | U.S. federal contract awards sized vs. market cap, stock DNA scores, quality di… |
+| 2026-11-10 07:32:46 | [dev.kognite/memory](https://github.com/global-software-development-eu/memcore-portable-agent-memory-saas) | Kognite | 1.2.0 | Hosted agent memory: store, search, and recall facts across sessions from any M… |
+| 2026-11-10 07:37:04 | club.fairagent/fairagent | FairAgent | 1.0.0 | Live state and unsigned mint/claim tx builder for FairAgent AI-agent NFTs on BN… |
+| 2026-11-10 07:38:31 | com.transcript-yt/transcriptyt | TranscriptYT | 1.0.0 | YouTube transcripts for AI agents: 150+ languages, AI transcription fallback, s… |
+| 2026-11-10 07:39:14 | [io.github.CloudCorpRecords/tokdata](https://github.com/CloudCorpRecords/tokdata) |  | 0.1.0 | TikTok public data as JSON: profile by handle, account videos, video comments,… |
+| 2026-11-10 07:42:14 | [app.zolvaagent/zolva](https://github.com/zolvaagent/zolva) | Zolva | 1.0.0 | Trading agents on Robinhood Chain: every buy, sell and hold with its reason, pl… |
+| 2026-11-10 07:42:35 | [io.github.teralabx/logbear](https://github.com/teralabx/logbear) | LogBear | 0.1.3 | Local dev server logs for coding agents: errors, runs and diffs as read-only SQ… |
+| 2026-11-10 07:48:21 | dev.sarnai/certify | AI Agent Safety Foundational Certificate | 1.0.0 | AI Agent Safety Foundational Certificate: a wallet-signed 40-task exam. First 3… |
+| 2026-11-10 07:48:32 | uk.tablespark/restaurants | TableSpark Restaurants | 1.0.0 | Find UK independent restaurants, menus, hours and live tables; book or order on… |
+| 2026-11-10 07:50:44 | [io.github.CloudCorpRecords/martdata](https://github.com/CloudCorpRecords/martdata) |  | 0.1.0 | Walmart data as JSON: product details, customer reviews, and storefront search… |
+| 2026-11-10 07:57:27 | [io.github.TheCompanyAtlas/rwanda-import-export-data](https://github.com/TheCompanyAtlas/rwanda-import-export-data-mcp) | Rwanda Customs Data: Importers, Supplie… | 1.0.0 | Rwanda import export data: customs shipments, importers, suppliers and HS codes… |
+| 2026-11-10 07:58:23 | [io.github.TheCompanyAtlas/argentina-import-export-data](https://github.com/TheCompanyAtlas/argentina-import-export-data-mcp) | Argentina Customs Data: Importers, Supp… | 1.0.0 | Argentina import export data: customs shipments, importers, suppliers and HS co… |
+| 2026-11-10 07:58:24 | [io.github.TheCompanyAtlas/bangladesh-import-export-data](https://github.com/TheCompanyAtlas/bangladesh-import-export-data-mcp) | Bangladesh Customs Data: Importers, Sup… | 1.0.0 | Bangladesh import export data: customs shipments, importers, suppliers and HS c… |
+| 2026-11-10 07:58:25 | [io.github.TheCompanyAtlas/chile-import-export-data](https://github.com/TheCompanyAtlas/chile-import-export-data-mcp) | Chile Customs Data: Importers, Supplier… | 1.0.0 | Chile import export data: customs shipments, importers, suppliers and HS codes… |
+| 2026-11-10 07:58:25 | [io.github.TheCompanyAtlas/china-company-registry](https://github.com/TheCompanyAtlas/china-company-registry-mcp) | China Company Registry & USCC Lookup | 1.0.0 | Chinese company search by English or Chinese name and Unified Social Credit Cod… |
+| 2026-11-10 07:58:26 | [io.github.TheCompanyAtlas/colombia-import-export-data](https://github.com/TheCompanyAtlas/colombia-import-export-data-mcp) | Colombia Customs Data: Importers, Suppl… | 1.0.0 | Colombia import export data: customs shipments, importers, suppliers and HS cod… |
+| 2026-11-10 07:58:27 | [io.github.TheCompanyAtlas/costa-rica-import-export-data](https://github.com/TheCompanyAtlas/costa-rica-import-export-data-mcp) | Costa Rica Customs Data: Importers, Sup… | 1.0.0 | Costa Rica import export data: customs shipments, importers, suppliers and HS c… |
+| 2026-11-10 07:58:28 | [io.github.TheCompanyAtlas/cote-divoire-import-export-data](https://github.com/TheCompanyAtlas/cote-divoire-import-export-data-mcp) | Côte d'Ivoire Customs Data: Importers,… | 1.0.0 | Côte d'Ivoire import export data: customs shipments, importers, suppliers and H… |
+| 2026-11-10 07:58:29 | [io.github.TheCompanyAtlas/cyprus-company-registry](https://github.com/TheCompanyAtlas/cyprus-company-registry-mcp) | Cyprus Company Registry: Directors & Se… | 1.0.0 | Cyprus company search with directors, secretaries, partners and former officers. |
+| 2026-11-10 07:58:30 | [io.github.TheCompanyAtlas/france-siren-company](https://github.com/TheCompanyAtlas/france-siren-company-mcp) | France Company Search (SIREN / SIRET) | 1.0.0 | French company search by name and SIREN, with SIRET, legal category and status. |
+| 2026-11-10 07:58:30 | [io.github.TheCompanyAtlas/germany-handelsregister](https://github.com/TheCompanyAtlas/germany-handelsregister-mcp) | Germany Company Registry (Handelsregist… | 1.0.0 | German Handelsregister company search with Geschäftsführer, Prokuristen and sha… |
+| 2026-11-10 07:58:32 | [io.github.TheCompanyAtlas/india-import-export-data](https://github.com/TheCompanyAtlas/india-import-export-data-mcp) | India Customs Data: Importers, Supplier… | 1.0.0 | India import export data: customs shipments, importers, suppliers and HS codes… |
+| 2026-11-10 07:58:33 | [io.github.TheCompanyAtlas/indonesia-import-export-data](https://github.com/TheCompanyAtlas/indonesia-import-export-data-mcp) | Indonesia Customs Data: Importers, Supp… | 1.0.0 | Indonesia import export data: customs shipments, importers, suppliers and HS co… |
+| 2026-11-10 07:58:34 | [io.github.TheCompanyAtlas/japan-corporate-number](https://github.com/TheCompanyAtlas/japan-corporate-number-mcp) | Japan Company Search & Corporate Number | 1.0.0 | Japanese company search by English or Japanese name and 13-digit corporate numb… |
+| 2026-11-10 07:58:35 | [io.github.TheCompanyAtlas/kazakhstan-import-export-data](https://github.com/TheCompanyAtlas/kazakhstan-import-export-data-mcp) | Kazakhstan Customs Data: Importers, Sup… | 1.0.0 | Kazakhstan import export data: customs shipments, importers, suppliers and HS c… |
+| 2026-11-10 07:58:35 | [io.github.TheCompanyAtlas/marshall-islands-company](https://github.com/TheCompanyAtlas/marshall-islands-company-mcp) | Marshall Islands Company Registry | 1.0.0 | Marshall Islands company search by name and business registration number. |
+| 2026-11-10 07:58:36 | [io.github.TheCompanyAtlas/netherlands-kvk-company](https://github.com/TheCompanyAtlas/netherlands-kvk-company-mcp) | Netherlands KvK Company Search | 1.0.0 | Dutch company search by name and KvK number, with business activities. |
+| 2026-11-10 07:58:37 | [io.github.TheCompanyAtlas/nigeria-import-export-data](https://github.com/TheCompanyAtlas/nigeria-import-export-data-mcp) | Nigeria Customs Data: Importers, Suppli… | 1.0.0 | Nigeria import export data: customs shipments, importers, suppliers and HS code… |
+| 2026-11-10 07:58:38 | [io.github.TheCompanyAtlas/pakistan-import-export-data](https://github.com/TheCompanyAtlas/pakistan-import-export-data-mcp) | Pakistan Customs Data: Importers, Suppl… | 1.0.0 | Pakistan import export data: customs shipments, importers, suppliers and HS cod… |
+| 2026-11-10 07:58:39 | [io.github.TheCompanyAtlas/paraguay-import-export-data](https://github.com/TheCompanyAtlas/paraguay-import-export-data-mcp) | Paraguay Customs Data: Importers, Suppl… | 1.0.0 | Paraguay import export data: customs shipments, importers, suppliers and HS cod… |
+| 2026-11-10 07:58:39 | [io.github.TheCompanyAtlas/peru-import-export-data](https://github.com/TheCompanyAtlas/peru-import-export-data-mcp) | Peru Customs Data: Importers, Suppliers… | 1.0.0 | Peru import export data: customs shipments, importers, suppliers and HS codes v… |
+| 2026-11-10 07:58:40 | [io.github.TheCompanyAtlas/philippines-import-export-data](https://github.com/TheCompanyAtlas/philippines-import-export-data-mcp) | Philippines Customs Data: Importers, Su… | 1.0.0 | Philippines import export data: customs shipments, importers, suppliers and HS… |
+| 2026-11-10 07:58:41 | [io.github.TheCompanyAtlas/qatar-cr-company](https://github.com/TheCompanyAtlas/qatar-cr-company-mcp) | Qatar Company Registry & CR Number Look… | 1.0.0 | Qatar company search by English or Arabic name and CR number, with license, sta… |
+| 2026-11-10 07:58:42 | [io.github.TheCompanyAtlas/russia-import-export-data](https://github.com/TheCompanyAtlas/russia-import-export-data-mcp) | Russia Customs Data: Importers, Supplie… | 1.0.0 | Russia import export data: customs shipments, importers, suppliers and HS codes… |
+| 2026-11-10 07:58:43 | [io.github.TheCompanyAtlas/tanzania-import-export-data](https://github.com/TheCompanyAtlas/tanzania-import-export-data-mcp) | Tanzania Customs Data: Importers, Suppl… | 1.0.0 | Tanzania import export data: customs shipments, importers, suppliers and HS cod… |
+| 2026-11-10 07:58:44 | [io.github.TheCompanyAtlas/thailand-company-tenders](https://github.com/TheCompanyAtlas/thailand-company-tenders-mcp) | Thailand Company Registry & Government… | 1.0.0 | Thai company search by name, juristic id and TSIC, plus e-GP tenders, bidders a… |
+| 2026-11-10 07:58:45 | [io.github.TheCompanyAtlas/uganda-import-export-data](https://github.com/TheCompanyAtlas/uganda-import-export-data-mcp) | Uganda Customs Data: Importers, Supplie… | 1.0.0 | Uganda import export data: customs shipments, importers, suppliers and HS codes… |
+| 2026-11-10 07:58:46 | [io.github.TheCompanyAtlas/uk-company](https://github.com/TheCompanyAtlas/uk-company-mcp) | UK Company Registry | 1.0.0 | UK Companies House search by name, company number, type, status, postcode and S… |
+| 2026-11-10 07:58:47 | [io.github.TheCompanyAtlas/ukraine-import-export-data](https://github.com/TheCompanyAtlas/ukraine-import-export-data-mcp) | Ukraine Customs Data: Importers, Suppli… | 1.0.0 | Ukraine import export data: customs shipments, importers, suppliers and HS code… |
+| 2026-11-10 07:58:48 | [io.github.TheCompanyAtlas/uzbekistan-import-export-data](https://github.com/TheCompanyAtlas/uzbekistan-import-export-data-mcp) | Uzbekistan Customs Data: Importers, Sup… | 1.0.0 | Uzbekistan import export data: customs shipments, importers, suppliers and HS c… |
+| 2026-11-10 07:58:49 | [io.github.TheCompanyAtlas/vietnam-import-export-data](https://github.com/TheCompanyAtlas/vietnam-import-export-data-mcp) | Vietnam Customs Data: Importers, Suppli… | 1.0.0 | Vietnam import export data: customs shipments, importers, suppliers and HS code… |
+| 2026-11-10 07:59:01 | [io.github.hujuncheng-ddd/goldapi-mcp](https://github.com/hujuncheng-ddd/goldapi-mcp) | GoldAPI Precious Metals Quotes | 1.5.40 | Real-time & historical precious metals quotes (gold/silver/platinum/palladium)… |
+| 2026-11-10 08:02:15 | [io.github.CloudCorpRecords/pagesdata](https://github.com/CloudCorpRecords/pagesdata) |  | 0.1.0 | Yellow Pages business data as JSON: search by keyword and location, plus full l… |
+| 2026-11-10 08:04:21 | [io.github.TheCompanyAtlas/vietnam-company-tenders](https://github.com/TheCompanyAtlas/vietnam-company-tenders-mcp) | Vietnam Company Registry & Government T… | 1.1.1 | Vietnam company search by name and MST tax code, plus e-procurement tenders, bi… |
+| 2026-11-10 08:09:19 | com.askwhocasts/casts | Askwho Casts | 1.0.0 | Turn articles, research reports and books into multi-voice podcast episodes in… |
+| 2026-11-10 08:10:01 | com.tridan-academy/academy | Tridan Academy | 1.0.0 | ISO & AI Act training catalogue: courses, dates, certificates, trainers, pricin… |
+| 2026-11-10 08:12:55 | [com.getcadcraft/studio](https://github.com/getcadcraft/mcp) | CadCraft Studio | 0.9.1 | Tools for drawings, models, takeoffs and markups in the CadCraft apps, plus a c… |
+| 2026-11-10 08:13:13 | app.taskford/taskford | Integrated Work Delivery Platform | 1.0.0 | Connect your AI assistant to Taskford to plan projects, manage resources, and t… |
+| 2026-11-10 08:15:56 | ru.abrazivexpert/catalog | Абразив Эксперт | 1.0.0 | Абразивы, полировальные пасты и круги, краскопульты: подбор, цены, опт, доставк… |
+| 2026-11-10 08:16:04 | io.github.Sparkel-io/sparkel | Sparkel | 1.0.0 | Quantity takeoff from PDF drawings and BIM/IFC: room areas, symbol counts, roof… |
+| 2026-11-10 08:16:22 | [io.github.CloudCorpRecords/yelpdata](https://github.com/CloudCorpRecords/yelpdata) |  | 0.1.0 | Yelp business data as JSON: search by keyword and location, place details, and… |
+| 2026-11-10 08:17:16 | com.passportsorted/photo-rules | Passport Sorted: passport & visa photo… | 1.0.0 | Official passport and visa photo rules for 27 documents, with sources and check… |
+| 2026-11-10 08:18:44 | com.surveysai/open-end | Open-End Response Analyser – coding of… | 1.0.0 | Code open-ended survey responses: AI code frame (L1-L3), categorization, result… |
+| 2026-11-10 08:19:01 | dev.huutran.audit/website-checks | HolicAudit website checks | 1.0.0 | Free SEO, AI visibility (AI crawlers, llms.txt, JSON-LD) and security-header ch… |
+| 2026-11-10 08:19:03 | kz.mytender/tenders | MyTender — Kazakhstan tenders | 1.0.0 | Kazakhstan public tenders: search open lots, lot details, customers and past co… |
+| 2026-11-10 08:19:40 | [net.keplerbot/kepler](https://github.com/keplerbot-net/ogame-bot) | Kepler OGame Bot | 1.0.0 | Kepler OGame bot: search its .ank scripting API, exact signatures and examples.… |
 
 ## Data source
 
