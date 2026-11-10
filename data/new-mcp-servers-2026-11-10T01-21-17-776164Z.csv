@@ -1,0 +1,47 @@
+created_at,server,title,version,repository,transports,description
+2026-11-10T00:19:50.960722Z,dev.moneytools/settle,MoneyTools Settle,1.1.3,,streamable-http,"x402 settle reliability: verify, idempotency gate, receipts, spend caps; Base USDC"
+2026-11-10T00:20:02.211535Z,dev.moneytools/fidelity,MoneyTools Inference Fidelity Audit,1.0.4,,streamable-http,Audit OpenAI-compatible / x402 inference sellers vs Cloudflare Workers AI reference; x402 Base USDC
+2026-11-10T00:20:04.908545Z,dev.moneytools/transcripts,MoneyTools Transcripts,1.0.4,,streamable-http,"Value-added STT: segments, SRT/VTT, language, summary for media you may process; x402 Base USDC"
+2026-11-10T00:20:15.558137Z,dev.moneytools/slim,MoneyTools Slim,1.0.4,,streamable-http,"Cut MCP tool-definition tokens 75–98%: index, on-demand schema, proxy call; x402 Base USDC packs"
+2026-11-10T00:33:01.298403Z,com.papersign/papersign,Papersign,1.0.0,,streamable-http,Prepare documents and send them for signature. Papersign is made by Paperform.
+2026-11-10T00:33:02.694998Z,io.stepper/stepper,Stepper,1.0.0,,streamable-http,Build and run workflows that automate your business. Stepper is made by Paperform.
+2026-11-10T00:38:47.057792Z,io.github.eiry16/beacon-mfg-mcp,BeaconMFG,1.12.0,https://github.com/eiry16/beacon-mfg,,Read-only MCP: search 210k+ Chinese business entities across all GB/T 4754 industries. No API key.
+2026-11-10T00:39:37.30988Z,io.github.AllegroMoltoV/plugin-soko-kun,Plugin Soko-kun,0.1.0,https://github.com/AllegroMoltoV/plugin-soko-kun,streamable-http,"Search, inspect, and submit third-party OBS Studio plugins in a free, unofficial registry."
+2026-11-10T00:40:43.272Z,io.github.SalesEQ/saleseq,SalesEQ,2.1.26,,streamable-http,"Search your SalesEQ meetings, read transcripts and summaries, and retrieve frames from recordings."
+2026-11-10T00:42:43.309237Z,art.aidating/aidating,AIDating / DatingCoachAI,1.0.0,,streamable-http,"AI dating coach: profile review, photo scoring, opener generator, and confidence-building practice."
+2026-11-10T00:42:47.447497Z,jp.yomitasu/pare-suitengumae-jp,pare-suitengumae.jp,1.0.1,,streamable-http,人形町・水天宮前で内科、外科ならメディカルクリニックパレ水天宮前。（pare-suitengumae.jp の内容を検索して答える。ヨミタス経由）
+2026-11-10T00:43:01.55292Z,com.eliteagenticsolutions/chatbot,empire-chatbot-saas,1.0.0,,streamable-http,"Embed a customizable AI chatbot on any website. Knowledge-base RAG, tier-aware rate limits, white-la"
+2026-11-10T00:44:02.193489Z,art.aieventpro/aieventpro,AI Event Pro,1.0.0,,streamable-http,"AI event and travel planner: dream events, concerts, weddings, conferences and bucket-list trips mad"
+2026-11-10T00:44:04.009565Z,org.aipropertypro/aipropertypro,Wholesale Heaven,1.0.0,,streamable-http,"AI real estate assistant: listings, tour scheduling, lead nurturing, market analysis, and CMA report"
+2026-11-10T00:44:05.725649Z,xyz.aischoolpro/aischoolpro,AISchoolPro,1.0.0,,streamable-http,"AI tutor, homework helper, test prep and essay grader. Free to start; Student plan $4.99/mo."
+2026-11-10T00:44:07.403984Z,org.aiwebsitemaker/aiwebsitemaker,AIWebsiteMaker / BuildMyPage,1.0.0,,streamable-http,"Generate a logo, color palette, brand guide and responsive HTML website from a business brief."
+2026-11-10T00:44:08.961985Z,com.eliteagenticsolutions/app,elite-agentic-platform,1.0.0,,streamable-http,"Agentic-AI operations platform for any business — automate sales, finance, support and back-office w"
+2026-11-10T00:44:10.709483Z,studio.appbuilderai/appbuilderai,appbuilderai.studio,1.0.0,,streamable-http,Generated code you download. PWA export and deployment handoff to Empire Cloud. Free / Pro $12/mo /
+2026-11-10T00:44:12.286236Z,tech.careerpro/careerpro,CareerProAI,1.0.0,,streamable-http,"Tailor your resume to any job, score it against the ATS, and practice interviews. 7-day free trial;"
+2026-11-10T00:44:14.0365Z,xyz.cohostbnb/cohostbnb,CoHostBnB,1.0.0,,streamable-http,"Guest replies, housekeeping and handovers in one workspace for hosts and small hotels, with optional"
+2026-11-10T00:44:15.636866Z,org.elitehealthessentials/elitehealthessentials,Elite Health Essentials,1.0.0,,streamable-http,"Whey isolate, collagen creamer, creatine and more, made by suppliers that state cGMP manufacturing,"
+2026-11-10T00:44:17.376758Z,io.fixmyplant/fixmyplant,fixmyplant.io,1.0.0,,streamable-http,"Identify plants, diagnose problems and get a watering schedule. Free tier; Pro $29.99 a year. Free p"
+2026-11-10T00:44:19.041984Z,xyz.legaldraft/legaldraft,LegalDraft,1.0.0,,streamable-http,"AI-powered legal document templates: NDAs, contracts, ToS, privacy policies. Not legal advice."
+2026-11-10T00:44:20.792434Z,org.makemycontent/makemycontent,MakeMyContent,1.0.0,,streamable-http,"AI content studio for blog posts, ad copy, email campaigns, social media, newsletters, and video scr"
+2026-11-10T00:44:22.484621Z,xyz.myaiaccountant/myaiaccountant,MyAIAccountant / AccountItUp,1.0.0,,streamable-http,"Import transactions, auto-categorise, draft Schedule C / 1120-S / 4562 / 8825, and manage up to 15 e"
+2026-11-10T00:44:24.115489Z,org.myaiceo/myaiceo,MyAICEO,1.0.0,,streamable-http,"AI business operating system: bookkeeping, invoices, content, marketing, ecommerce, and legal — all"
+2026-11-10T00:44:26.190977Z,org.myaicontractor/myaicontractor,MyAIContractor,1.0.0,,streamable-http,Describe your project → starter budget and shopping list → optional photo refinements. Free / Starte
+2026-11-10T00:44:27.821241Z,health.myaidoctor/myaidoctor,MyAIDoctor / Elite Health AI,1.0.0,,streamable-http,EliteHealthAI. General wellness information and questions to prepare for your doctor.
+2026-11-10T00:44:28.945237Z,io.github.prbe-ai/probe-research,Probe Research,1.0.0,https://github.com/prbe-ai/research-os-agent,streamable-http,"Experiment tracking for coding agents: read your team's ML runs, metrics and lineage. Read-only."
+2026-11-10T00:44:29.67232Z,com.myecommerceai/myecommerceai,MyEcommerceAI / AI4Ecommerce,1.0.0,,streamable-http,"Optimize listings, write descriptions, answer reviews and build PPC campaigns. Free plan; Seller fro"
+2026-11-10T00:44:31.345001Z,org.mykidsbook/mykidsbook,KidStoryAI / MyKidsBook,1.0.0,,streamable-http,"Create a one-of-a-kind story with your child as the hero. Free sample, printable PDF, share with fam"
+2026-11-10T00:44:33.62692Z,org.summarizethis/summarizethis,SummarizeThis,1.0.0,,streamable-http,"Paste a transcript or document and get a structured summary with action items, plus slides and repor"
+2026-11-10T00:44:35.265943Z,xyz.taxmeup/taxmeup,taxmeup.xyz,1.0.0,,streamable-http,Free educational tax deduction analysis. Check common deductions with IRS publication citations. Tax
+2026-11-10T00:44:36.94762Z,xyz.tripgenius/tripgenius,tripgenius.xyz,1.0.0,,streamable-http,Day-by-day AI travel itineraries with a self-critique pass for pacing and budget. Free for 3 trips a
+2026-11-10T00:45:46.743507Z,com.isagentproof/agentproof,AgentProof,1.0.0,,streamable-http,"Start AgentProof security audits of websites you own or may test, and read reports and findings."
+2026-11-10T00:46:04.045978Z,ai.readyink/readyink,readyink.ai,1.0.0,,streamable-http,"Send PDFs for e-signature from Claude or ChatGPT: prepare, quote, send, track and get signed copies."
+2026-11-10T00:48:55.734297Z,xyz.agentcharts/ranking,Agent Charts,1.0.0,,streamable-http,"Paid AI-agent tools ranked by real on-chain spend, wash trading filtered out. Updated daily."
+2026-11-10T00:49:46.596878Z,pro.domob/mcp,Domob,1.0.0,,streamable-http,"Gerencie sua loja Domob pela sua IA: vendas, catálogo, imagens, pedidos e páginas em rascunho."
+2026-11-10T00:51:21.366054Z,ai.postd/postd,postd,1.0.0,,streamable-http,"Instagram carousel editor, moodboards and content calendar. Build posts from your brand kit."
+2026-11-10T00:56:21.938739Z,com.stocklens/stocklens,StockLens,1.2.3,,streamable-http,Scores for the largest companies in each market with no account. Sign in for analysis and screening.
+2026-11-10T00:57:24.117287Z,io.github.Gonza28fq/mcp-datos-argentina,,0.3.0,https://github.com/Gonza28fq/mcp-datos-argentina,,"Datos públicos de Argentina: BCRA, dólar, inflación, riesgo país, plazos fijos, Georef y series"
+2026-11-10T01:02:09.784753Z,io.github.michael-denyer/hot-memory-mcp,,0.9.0,https://github.com/michael-denyer/memory-mcp,,Two-tier memory: hot cache (0ms) + semantic search. Self-organizing.
+2026-11-10T01:04:24.785466Z,io.github.nobrainer-tech/nobrainer-tech-flow,NoBrainer Tech Flow,2.12.0,https://github.com/nobrainer-tech/nobrainer-tech-flow,streamable-http,"Task contract, evidence check and done gate for AI coding agents. Read-only, no sign-in."
+2026-11-10T01:06:06.746709Z,io.geenie/geenie,Geenie,1.0.0,,streamable-http,"Amazon Ads and Seller Central for your AI assistant: reports, campaign management and seller data."
+2026-11-10T01:15:23.976032Z,io.github.Tthanh2k6/supabase-rls-check,,0.2.2,https://github.com/Tthanh2k6/supabase-rls-check,,Read-only Supabase RLS and policy checks: explain rules and analyze a check.sql export.
+2026-11-10T01:18:05.239248Z,io.github.Tthanh2k6/remote-contract-jobs,,0.1.1,https://github.com/Tthanh2k6/remote-contract-jobs,,"Remote contract and part-time dev jobs from public feeds, minus location, video and ID blockers."
