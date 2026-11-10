@@ -9,40 +9,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 13:21 UTC
+## Latest list — 2026-11-10 14:20 UTC
 
-New MCP servers published between 2026-11-10 12:19 UTC and 2026-11-10 13:21 UTC.
+New MCP servers published between 2026-11-10 13:21 UTC and 2026-11-10 14:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-10T13-21-31-335794Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-10T14-20-37-424333Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-10 12:21:12 | com.istfin/mcp | istfin | 1.0.0 | Borsa Istanbul (BIST) licensed data: prices, OHLCV bars, financial statements,… |
-| 2026-11-10 12:23:49 | [io.github.ParvenuDev/parvenu](https://github.com/ParvenuDev/parvenu_mcp_directory_integration) | Parvenu | 1.0.0 | B2B lead sourcing and enrichment: lead lists with verified emails, LinkedIn and… |
-| 2026-11-10 12:26:25 | network.moonbeam.next/paid-calls | Moonbeam paid calls | 1.0.0 | Paid calls for agents, each priced in USDC and paid with x402; checked before y… |
-| 2026-11-10 12:27:17 | io.github.karansharma1732/agentsafe | AgentSafe | 0.1.1 | Scan a URL before your agent reads it: hidden prompt injection, phishing, clean… |
-| 2026-11-10 12:30:16 | tech.geosensor.agentwise/spaceport | Agentwise Spaceport | 0.1.6 | For AI agents: find x402 goods, map undersupplied niches, post unmet needs. Fre… |
-| 2026-11-10 12:36:44 | hk.liki/liki-mcp | Liki — Deterministic Chinese Metaphysics | 0.1.0 | Deterministic BaZi, Zi Wei Dou Shu, Feng Shui, I Ching and naming engine. Free… |
-| 2026-11-10 12:37:37 | [io.github.zsthimself/open-video-generator-mcp](https://github.com/zsthimself/open-video-generator-mcp) | OpenVideoGenerator MCP Server | 1.0.0 | AI video generation MCP server for Kling, MiniMax, Luma & Hunyuan with prompt b… |
-| 2026-11-10 12:38:02 | [io.github.musadgn/codereach-mcp](https://github.com/musadgn/CodeReach-mcp) |  | 0.1.0 | ASP.NET Core MCP server: which endpoints and jobs reach this code, and what you… |
-| 2026-11-10 12:39:01 | [io.github.leogaudin/opencaptions](https://github.com/leogaudin/opencaptions) | OpenCaptions | 1.2.1 | Animated word-by-word captions for your videos, made on your own OpenCaptions s… |
-| 2026-11-10 12:45:00 | [io.github.workmagicio/workmagic-mcp](https://github.com/workmagicio/workmagic-agent-plugin) |  | 1.0.2 | Marketing attribution, incrementality and budget planning from your WorkMagic a… |
-| 2026-11-10 12:47:19 | app.leftblank/office | LeftBlank Office | 0.1.0 | Write, compile and share Typst documents (papers, slides, drawings) from any AI… |
-| 2026-11-10 12:50:06 | io.github.JB-Analytica/model2data-studio | model2data studio | 0.3.0 | Realistic fake data from a schema designed in model2data studio: preview rows,… |
-| 2026-11-10 12:57:26 | [io.github.Marcoco27/biennial-update-sentinel](https://github.com/Marcoco27/biennial-update-sentinel-mcp) | Biennial Update Sentinel | 0.1.0 | US motor carrier MCS-150 biennial update: next deadline, overdue flag, USDOT st… |
-| 2026-11-10 12:58:14 | [io.github.Marcoco27/disaster-deadline-sentinel](https://github.com/Marcoco27/disaster-deadline-sentinel-mcp) | Disaster Deadline Sentinel | 0.1.0 | US county disaster deadlines: assistance application cutoff, IRS postponed tax… |
-| 2026-11-10 12:58:50 | [io.github.Marcoco27/sentinelle-oppositions](https://github.com/Marcoco27/sentinelle-oppositions-mcp) | Sentinelle oppositions FR | 0.1.0 | French business sales and mergers (BODACC) per debtor, with the creditor object… |
-| 2026-11-10 12:59:34 | [io.github.Marcoco27/sentinelle-phyto](https://github.com/Marcoco27/sentinelle-phyto-mcp) | Sentinelle phyto FR | 0.1.0 | French pesticide register (Anses E-Phy): still sellable or usable, and until wh… |
-| 2026-11-10 13:00:25 | [io.github.Marcoco27/sentinelle-syndic](https://github.com/Marcoco27/sentinelle-syndic-mcp) | Sentinelle syndic FR | 0.1.0 | French condominium registry: current syndic and mandate end date, by condo or b… |
-| 2026-11-10 13:00:58 | [io.github.jlucasmcrell/apify-scrapers](https://github.com/jlucasmcrell/apify-scrapers) |  | 1.4.1 | 40 Apify public-data tools for leads, news, SEO, jobs, SEC, procurement, and re… |
-| 2026-11-10 13:01:16 | [com.avidquant/riskdesk](https://github.com/Iman/agent-driven-risk-desk-and-skills) | Risk Desk | 0.2.0 | Portfolio risk from supplied data or a synthetic example: VaR, ES, stress, cred… |
-| 2026-11-10 13:01:25 | [io.github.datadmon/bse-corporate-announcements](https://github.com/datadmon/apify-data-actors-examples) | BSE Corporate Announcements (Apify) - B… | 1.0.1 | BSE India filings as JSON: announcements, ex-dates, board meetings, result date… |
-| 2026-11-10 13:01:47 | io.github.leoali22/deenwise | Deenwise | 1.0.0 | Takeaway and restaurant software: free EPOS, commission-free ordering, AI recep… |
-| 2026-11-10 13:02:07 | com.convertapi/mcp | ConvertAPI | 1.0.0 | Convert files between 200+ formats and merge, compress, OCR, watermark or redac… |
-| 2026-11-10 13:05:39 | net.bot-hosting/mcp | Bot-Hosting.net | 1.0.0 | Deploy and manage Discord bots, Telegram bots, websites, APIs and databases on… |
-| 2026-11-10 13:10:07 | [io.github.Data-Alchemy-Labs/siliconwage-mcp](https://github.com/Data-Alchemy-Labs/siliconwage-mcp) | Silicon Wage | 1.0.0 | Funded work for AI agents, paid in USDC on Base when the work passes the job's… |
-| 2026-11-10 13:13:25 | com.lokand/lokand | Lokand Restaurant MCP | 1.0.0 | Free restaurant websites and menus: read any public menu, or build, import and… |
-| 2026-11-10 13:20:06 | dev.lazee/jobs | lazee.dev Jobs | 1.0.0 | Search open tech jobs from company career pages by role, level, country, workpl… |
+| 2026-11-10 13:21:55 | [io.github.Wieedze/arp](https://github.com/intuition-box/ARP) | ARP | 0.0.3 | Check a skill, MCP server or agent before your agent installs or pays it. Reads… |
+| 2026-11-10 13:23:53 | [io.github.buzzer/imap-mcp](https://github.com/buzzer/imap-mcp) | IMAP Mail | 0.2.0 | Read and search IMAP mailboxes and create drafts. Sending and deleting are not… |
+| 2026-11-10 13:30:00 | [io.github.pawel-kowalczyk/harness-atlas](https://github.com/pawel-kowalczyk/harness-atlas-mcp) | Harness Atlas | 0.2.2 | Search 650+ wire-harness & cable-assembly manufacturers by country, industry, a… |
+| 2026-11-10 13:31:20 | io.github.youthtrouble/keep-dawdling | Keep Dawdling | 1.0.0 | Cached UK train departures and qualified platforms, powered by National Rail En… |
+| 2026-11-10 13:33:46 | works.narrate/public | Narrate | 1.0.0 | Narrate's public knowledge on impact management, for your AI assistant. |
+| 2026-11-10 13:34:34 | [io.github.creatimus/pircan](https://github.com/creatimus/pircan) | PIRCAN | 0.3.0 | Open network where AI agents find each other, agree on permissions and exchange… |
+| 2026-11-10 13:35:16 | [io.github.HMAKT99/vedha](https://github.com/HMAKT99/VEDHA) | Vedha | 0.1.2 | Browser testing on Playwright that checks the server, not just the screen, befo… |
+| 2026-11-10 13:39:38 | hk.liki/liki | Liki — Professional AI Astrologer | 2026.11.09.1 | Professional AI Astrologer for BaZi, Zi Wei Dou Shu, I Ching, Feng Shui and nam… |
+| 2026-11-10 13:40:46 | com.nlnllabs/results | NL;NL Labs Exchange results | 1.1.0 | Free daily comparisons of AI models on business jobs, measured in right answers… |
+| 2026-11-10 13:40:59 | [sh.agentdrive/agentdrive](https://github.com/agentdrive-sh/agentdrive-mcp) | AgentDrive | 1.2.3 | Capture coding-agent sessions and resume them in any other agent: Claude Code,… |
+| 2026-11-10 13:42:58 | com.astromansion/astrology | AstroMansion | 1.0.0 | Astrology from JPL ephemerides: natal charts, transits, synastry and 40+ techni… |
+| 2026-11-10 13:43:46 | com.playablemaker/playablemaker | PlayableMaker | 1.0.0 | Create and edit PlayableMaker playable ads from chat and download them as proje… |
+| 2026-11-10 13:46:24 | [io.github.buildngrowsv/pubroot](https://github.com/buildngrowsv/pubroot-website) | Pubroot | 0.2.0 | Search Pubroot's AI-reviewed papers, reviews and checked claims; read Priorroot… |
+| 2026-11-10 13:47:49 | com.gwiksoft/shopping | Gwiksoft | 2.1.0 | Shop independent Indian businesses: find stores, compare products and prices, g… |
+| 2026-11-10 13:49:21 | uk.truetest/ea-tester | EA Trade Tester by TrueTest | 1.0.0 | FREE first read, no sign-up: test an EA, trading bot, indicator or MT5 report f… |
+| 2026-11-10 13:49:21 | uk.truetest/ai-search | WebAISEO - AI-search readiness check | 1.0.0 | FREE check: can AI search engines find, read and trust your web page? Fixes lis… |
+| 2026-11-10 13:49:32 | com.cvizor/cryptovizor | Cryptovizor | 1.0.0 | Crypto screener for AI agents: Binance, Bybit, OKX, Hyperliquid data, trends, c… |
+| 2026-11-10 13:49:51 | [com.sendregistered/mcp](https://github.com/sendregistered/sendregistered-mcp) | SendRegistered | 1.0.0 | Send registered letters with proof, nationally and internationally, from your A… |
+| 2026-11-10 13:50:50 | io.github.Learnosity/build-aide | Learnosity Build Aide | 1.0.0 | Build Learnosity integrations from Learnosity's own documentation and integrati… |
+| 2026-11-10 13:52:26 | com.backlink-mastery/backlinkmastery | BacklinkMastery | 1.0.0 | Monitor backlinks: find lost links, add and re-check backlinks, review discover… |
+| 2026-11-10 13:55:34 | [io.github.arvicco/nabu-demo](https://github.com/arvicco/nabu) | Nabu | 1.8.0 | Ancient-text research library: search, concordance, dictionaries, alignment ove… |
+| 2026-11-10 14:03:28 | [io.github.godotbridge/godotbridge](https://github.com/godotbridge/addon) | GodotBridge | 1.0.4 | Lets AI agents build, run and test Godot 4 projects in the real editor. Free Li… |
+| 2026-11-10 14:08:26 | com.wishlistledger/wishlist-ledger | Wishlist Ledger | 1.0.0 | Read-only Steam wishlist, sales and refund data for game developers, from Steam… |
+| 2026-11-10 14:14:43 | io.github.kizukidata/news-monitoring | Kizuki News Monitoring | 1.0.0 | Google News by keyword plus YouTube and Telegram channels: titles, metrics, lin… |
+| 2026-11-10 14:14:43 | io.github.kizukidata/rag-ingest | Kizuki RAG Ingest | 1.0.0 | YouTube captions (chunks, timestamps), PDFs (page numbers) and web pages as cle… |
+| 2026-11-10 14:18:58 | com.comnview/comnview | Comnview | 1.0.1 | Client feedback on websites, images and PDFs: read, answer and pin comments fro… |
 
 ## Data source
 

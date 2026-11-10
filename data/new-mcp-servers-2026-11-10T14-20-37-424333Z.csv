@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-11-10T13:21:55.85069Z,io.github.Wieedze/arp,ARP,0.0.3,https://github.com/intuition-box/ARP,,"Check a skill, MCP server or agent before your agent installs or pays it. Reads only."
+2026-11-10T13:23:53.995065Z,io.github.buzzer/imap-mcp,IMAP Mail,0.2.0,https://github.com/buzzer/imap-mcp,,Read and search IMAP mailboxes and create drafts. Sending and deleting are not possible.
+2026-11-10T13:30:00.890243Z,io.github.pawel-kowalczyk/harness-atlas,Harness Atlas,0.2.2,https://github.com/pawel-kowalczyk/harness-atlas-mcp,streamable-http,"Search 650+ wire-harness & cable-assembly manufacturers by country, industry, and capability."
+2026-11-10T13:31:20.221291Z,io.github.youthtrouble/keep-dawdling,Keep Dawdling,1.0.0,,streamable-http,"Cached UK train departures and qualified platforms, powered by National Rail Enquiries."
+2026-11-10T13:33:46.870592Z,works.narrate/public,Narrate,1.0.0,,streamable-http,"Narrate's public knowledge on impact management, for your AI assistant."
+2026-11-10T13:34:34.178217Z,io.github.creatimus/pircan,PIRCAN,0.3.0,https://github.com/creatimus/pircan,streamable-http,"Open network where AI agents find each other, agree on permissions and exchange messages and tasks."
+2026-11-10T13:35:16.092066Z,io.github.HMAKT99/vedha,Vedha,0.1.2,https://github.com/HMAKT99/VEDHA,,"Browser testing on Playwright that checks the server, not just the screen, before it reports a pass."
+2026-11-10T13:39:38.421176Z,hk.liki/liki,Liki — Professional AI Astrologer,2026.11.09.1,,streamable-http,"Professional AI Astrologer for BaZi, Zi Wei Dou Shu, I Ching, Feng Shui and naming. Free at liki.hk"
+2026-11-10T13:40:46.194606Z,com.nlnllabs/results,NL;NL Labs Exchange results,1.1.0,,streamable-http,"Free daily comparisons of AI models on business jobs, measured in right answers per dollar."
+2026-11-10T13:40:59.220666Z,sh.agentdrive/agentdrive,AgentDrive,1.2.3,https://github.com/agentdrive-sh/agentdrive-mcp,streamable-http,"Capture coding-agent sessions and resume them in any other agent: Claude Code, Codex, Cursor, more."
+2026-11-10T13:42:58.59784Z,com.astromansion/astrology,AstroMansion,1.0.0,,streamable-http,"Astrology from JPL ephemerides: natal charts, transits, synastry and 40+ techniques."
+2026-11-10T13:43:46.132277Z,com.playablemaker/playablemaker,PlayableMaker,1.0.0,,streamable-http,Create and edit PlayableMaker playable ads from chat and download them as projects.
+2026-11-10T13:46:24.62229Z,io.github.buildngrowsv/pubroot,Pubroot,0.2.0,https://github.com/buildngrowsv/pubroot-website,streamable-http,"Search Pubroot's AI-reviewed papers, reviews and checked claims; read Priorroot CC0 disclosures."
+2026-11-10T13:47:49.16052Z,com.gwiksoft/shopping,Gwiksoft,2.1.0,,streamable-http,"Shop independent Indian businesses: find stores, compare products and prices, get checkout links."
+2026-11-10T13:49:21.458736Z,uk.truetest/ea-tester,EA Trade Tester by TrueTest,1.0.0,,streamable-http,"FREE first read, no sign-up: test an EA, trading bot, indicator or MT5 report for luck and costs"
+2026-11-10T13:49:21.905996Z,uk.truetest/ai-search,WebAISEO - AI-search readiness check,1.0.0,,streamable-http,"FREE check: can AI search engines find, read and trust your web page? Fixes listed per page"
+2026-11-10T13:49:32.450597Z,com.cvizor/cryptovizor,Cryptovizor,1.0.0,,streamable-http,"Crypto screener for AI agents: Binance, Bybit, OKX, Hyperliquid data, trends, charts and alerts."
+2026-11-10T13:49:51.568168Z,com.sendregistered/mcp,SendRegistered,1.0.0,https://github.com/sendregistered/sendregistered-mcp,streamable-http,"Send registered letters with proof, nationally and internationally, from your AI assistant."
+2026-11-10T13:50:50.824379Z,io.github.Learnosity/build-aide,Learnosity Build Aide,1.0.0,,streamable-http,Build Learnosity integrations from Learnosity's own documentation and integration skills.
+2026-11-10T13:52:26.690129Z,com.backlink-mastery/backlinkmastery,BacklinkMastery,1.0.0,,streamable-http,"Monitor backlinks: find lost links, add and re-check backlinks, review discovered candidates."
+2026-11-10T13:55:34.249834Z,io.github.arvicco/nabu-demo,Nabu,1.8.0,https://github.com/arvicco/nabu,,"Ancient-text research library: search, concordance, dictionaries, alignment over an open demo slice"
+2026-11-10T14:03:28.458911Z,io.github.godotbridge/godotbridge,GodotBridge,1.0.4,https://github.com/godotbridge/addon,,"Lets AI agents build, run and test Godot 4 projects in the real editor. Free Lite tier."
+2026-11-10T14:08:26.826429Z,com.wishlistledger/wishlist-ledger,Wishlist Ledger,1.0.0,,streamable-http,"Read-only Steam wishlist, sales and refund data for game developers, from Steamworks."
+2026-11-10T14:14:43.101066Z,io.github.kizukidata/news-monitoring,Kizuki News Monitoring,1.0.0,,streamable-http,"Google News by keyword plus YouTube and Telegram channels: titles, metrics, links. No full text."
+2026-11-10T14:14:43.763391Z,io.github.kizukidata/rag-ingest,Kizuki RAG Ingest,1.0.0,,streamable-http,"YouTube captions (chunks, timestamps), PDFs (page numbers) and web pages as clean Markdown."
+2026-11-10T14:18:58.827248Z,com.comnview/comnview,Comnview,1.0.1,,streamable-http,"Client feedback on websites, images and PDFs: read, answer and pin comments from your AI agent."
