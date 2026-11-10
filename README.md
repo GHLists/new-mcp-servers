@@ -9,56 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 02:20 UTC
+## Latest list — 2026-11-10 03:20 UTC
 
-New MCP servers published between 2026-11-10 01:21 UTC and 2026-11-10 02:20 UTC.
+New MCP servers published between 2026-11-10 02:20 UTC and 2026-11-10 03:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-10T02-20-04-746192Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-10T03-20-20-439209Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-10 01:23:35 | com.bytortoise/clive | Clive | 1.0.0 | Set and manage iPhone alarms from an AI assistant, with confirmation from the p… |
-| 2026-11-10 01:27:59 | io.github.jenny-ouyang/build-to-launch-mcp | Build to Launch MCP | 1.0.0 | Connect your AI agent to 300+ methods and 100+ live tools |
-| 2026-11-10 01:27:59 | io.github.jenny-ouyang/quick-viral-notes-mcp | Quick Viral Notes | 1.0.0 | Turn your long-form articles into Notes and social posts |
-| 2026-11-10 01:28:53 | [io.github.mka142/doricomcp](https://github.com/mka142/doricomcp) |  | 0.1.0 | Read and edit a live Dorico 6 score by conversation, through Dorico's own inter… |
-| 2026-11-10 01:32:44 | net.autopilotit/autopilot-it | AutoPilot IT | 1.3.6.258 | Small-business IT monitoring and Windows device security. |
-| 2026-11-10 01:35:27 | ai.bluerate/loan-officers | bluerate: Find a Mortgage Loan Officer | 1.0.0 | Find licensed US mortgage loan officers by state, city, ZIP code, loan type or… |
-| 2026-11-10 01:37:30 | au.com.jobjar.www/trades | JobJar: find a tradie | 1.1.0 | Find local Australian tradies by job and suburb, and ask up to 3 of them for a… |
-| 2026-11-10 01:38:28 | [io.github.arthurcolle/yc-graphql-mcp](https://github.com/arthurcolle/yc-graphql-mcp) | YC GraphQL MCP · Distributed Systems | 2.1.0 | Direct YC GraphQL MCP: live editable fields, typed updates, concurrency checks… |
-| 2026-11-10 01:38:50 | ae.employerofrecord/moha | Moha: hire in the UAE | 1.0.0 | Hire in the UAE without a local company: guide, quotes and accounts via an Empl… |
-| 2026-11-10 01:38:50 | ae.employerofrecord/moha-account | Moha: your account | 1.0.0 | Act in your Moha workspace (OAuth): team, hires, approvals, time off, expenses,… |
-| 2026-11-10 01:40:09 | [io.github.jakcmencz/sentinel-ir-mcp](https://github.com/jakcmencz/sentinel-ir-mcp) | Sentinel-IR | 0.4.6 | Compact structural IR of JS/TS/Python files for AI agents: risk and signals ins… |
-| 2026-11-10 01:41:59 | [io.usefulapi/kvittia](https://github.com/m190/usefulapi-mcp) | Kvittia MCP by usefulapi | 1.0.0 | Read receipts, invoices and bank lines; upload and update receipts in Kvittia. |
-| 2026-11-10 01:41:59 | [io.usefulapi/fiscalhub](https://github.com/m190/usefulapi-mcp) | FiscalHub MCP by usefulapi | 1.0.1 | Read NF-e XML and NCM tax data, simulate totals, issue and cancel NF-e and NFC-… |
-| 2026-11-10 01:41:59 | [io.usefulapi/billify](https://github.com/m190/usefulapi-mcp) | Billify MCP by usefulapi | 1.0.0 | Read clients, offers and invoices; create clients and offer drafts in Billify. |
-| 2026-11-10 01:41:59 | [io.usefulapi/hobok](https://github.com/m190/usefulapi-mcp) | Hobok MCP by usefulapi | 1.0.0 | Read invoices, customers and products; issue invoices and record payments in Ho… |
-| 2026-11-10 01:41:59 | [io.usefulapi/buk-ng](https://github.com/m190/usefulapi-mcp) | Buk.ng MCP by usefulapi | 1.0.0 | List services, customers and bookings, and read booking page insights in Buk.ng. |
-| 2026-11-10 01:41:59 | [io.usefulapi/reenio](https://github.com/m190/usefulapi-mcp) | reenio MCP by usefulapi | 1.0.0 | Read reservations, customers and payments; change states and blocked times in r… |
-| 2026-11-10 01:41:59 | [io.usefulapi/oases](https://github.com/m190/usefulapi-mcp) | Oases MCP by usefulapi | 1.0.0 | Read students, parents, sessions and invoices; add notes and update fields in O… |
-| 2026-11-10 01:41:59 | [io.usefulapi/mightycall](https://github.com/m190/usefulapi-mcp) | MightyCall MCP by usefulapi | 1.0.0 | Read calls, voicemails and journal requests; set requests to Open or Resolved i… |
-| 2026-11-10 01:42:00 | [io.usefulapi/telzio](https://github.com/m190/usefulapi-mcp) | Telzio MCP by usefulapi | 1.0.0 | Read calls, queues and users; hang up or transfer live calls and send SMS in Te… |
-| 2026-11-10 01:42:00 | [io.usefulapi/callhippo](https://github.com/m190/usefulapi-mcp) | CallHippo MCP by usefulapi | 1.0.0 | Read users, contacts and call logs; manage contacts and Do Not Call numbers in… |
-| 2026-11-10 01:42:00 | [io.usefulapi/goaudits](https://github.com/m190/usefulapi-mcp) | GoAudits MCP by usefulapi | 1.0.0 | Read audit summaries, audit details, checklists, locations and action plans in… |
-| 2026-11-10 01:42:00 | [io.usefulapi/timetaag](https://github.com/m190/usefulapi-mcp) | Timetaag MCP by usefulapi | 1.0.0 | Read employees, leave, attendance, punches, shifts and holidays in Timetaag. |
-| 2026-11-10 01:42:01 | [io.usefulapi/skyprep](https://github.com/m190/usefulapi-mcp) | SkyPrep MCP by usefulapi | 1.0.0 | Read users, courses and progress; enroll users in courses or user groups in Sky… |
-| 2026-11-10 01:42:01 | [io.usefulapi/tempclock](https://github.com/m190/usefulapi-mcp) | TempClock MCP by usefulapi | 1.0.0 | Read workers, sites, time entries and bookings; see who is on site now in TempC… |
-| 2026-11-10 01:42:01 | [io.usefulapi/salesrabbit](https://github.com/m190/usefulapi-mcp) | SalesRabbit MCP by usefulapi | 1.0.0 | Read leads, statuses, users and org units; create and update leads in SalesRabb… |
-| 2026-11-10 01:42:01 | [io.usefulapi/officegest](https://github.com/m190/usefulapi-mcp) | OfficeGest MCP by usefulapi | 1.0.0 | Read customers, stock, sales documents and debt reports; create customers in Of… |
-| 2026-11-10 01:42:01 | [io.usefulapi/sumit](https://github.com/m190/usefulapi-mcp) | SUMIT MCP by usefulapi | 1.0.0 | Read documents, customer debts, stock levels and VAT and exchange rates in SUMI… |
-| 2026-11-10 01:42:01 | [io.usefulapi/cuentica](https://github.com/m190/usefulapi-mcp) | Cuéntica MCP by usefulapi | 1.0.0 | Read invoices, incomes and expenses; create customers and providers in Cuéntica. |
-| 2026-11-10 01:42:01 | [io.usefulapi/wise-tutoring](https://github.com/m190/usefulapi-mcp) | Wise MCP by usefulapi | 1.0.0 | Read students, teachers, parents, tags and reports of one institute in Wise. |
-| 2026-11-10 01:42:02 | [io.usefulapi/keycrm](https://github.com/m190/usefulapi-mcp) | keyCRM MCP by usefulapi | 1.0.0 | Read orders, buyers, products and pipeline cards; add or remove order tags in k… |
-| 2026-11-10 01:43:43 | com.halaltrip/prayer-tools | HalalTrip | 1.0.0 | Prayer times, Ramadan timetable, Qibla direction and Islamic calendar for any c… |
-| 2026-11-10 01:48:33 | [io.github.joshuasprow/nitrovin](https://github.com/joshuasprow/nitrovin) | Decode VIN | 0.1.5 | Decode one VIN (vehicle identification number) offline against NHTSA's vPIC data |
-| 2026-11-10 01:53:21 | [io.github.DrMkdaddy/cat-burglar](https://github.com/DrMkdaddy/cat-burglar) | Cat Burglar | 0.3.3 | Stealth browser MCP with three engines, diff observations, site memory, and ben… |
-| 2026-11-10 01:53:22 | app.xpnai/mcp | xpnAI | 1.0.0 | Query and export Xero finance data and prepare accounting drafts in your xpnAI… |
-| 2026-11-10 01:54:21 | [io.github.CloudCorpRecords/carboncalc](https://github.com/CloudCorpRecords/carboncalc) |  | 0.1.0 | Sourced emission factors and carbon calculations: activity, freight, spend, tra… |
-| 2026-11-10 01:57:49 | [io.github.Makkov-design/framelens](https://github.com/Makkov-design/framelens) | Frame Lens | 2.1.0 | Eyes and ears for AI agents: measured cuts, easing, palette, beats and transcri… |
-| 2026-11-10 02:06:55 | [io.github.CloudCorpRecords/staydata](https://github.com/CloudCorpRecords/staydata) |  | 0.1.0 | Airbnb data as JSON: search stays by place or map box, fetch full property deta… |
-| 2026-11-10 02:10:04 | [io.github.SuresoftTechnologies/statica-mcp](https://github.com/SuresoftTechnologies/statica-plugin) | STATICA STATIC analysis tools | 0.1.0 | Drive Suresoft STATIC analysis from a coding agent: connect, analyze, upload, m… |
-| 2026-11-10 02:10:12 | [io.github.MeshTok/baydeep](https://github.com/MeshTok/baydeep) | BayDeep — The e-commerce plugin for AI… | 1.0.0 | E-commerce + travel catalog for AI agents: AliExpress goods, flight fares, attr… |
-| 2026-11-10 02:17:18 | [io.github.bshelby88/raen-mcp](https://github.com/bshelby88/raen-mcp) | RAEN x402 Gateway | 1.0.0 | RAEN paid x402 MCP tools: law lookup, dispute letters, image gen, contract anal… |
-| 2026-11-10 02:18:44 | [io.github.CloudCorpRecords/shopdata](https://github.com/CloudCorpRecords/shopdata) |  | 0.1.0 | Amazon data as JSON: product details, reviews, keyword search, seller profiles… |
+| 2026-11-10 02:25:08 | com.mailslurp/mailslurp | MailSlurp | 1.13.1 | Email and SMS inboxes for AI agents, plus email rendering, inbox placement and… |
+| 2026-11-10 02:28:12 | app.vercel.agent-shopping-tracker/feed | Agent Shopping Tracker | 1.0.0 | Which stores let AI agents buy. Free, read-only, no key. |
+| 2026-11-10 02:28:48 | com.urlert/urlert | URLert | 1.0.0 | Check a link, a message or a web page for scams and phishing before you or your… |
+| 2026-11-10 02:30:51 | dev.gufi/gufi | Gufi | 1.0.0 | Your AI builds and runs your business system: tables, apps, automations, record… |
+| 2026-11-10 02:31:16 | io.github.MyDramaDB/mydramadb | MyDramaDB Korean Drama Data | 0.1.0 | Look up a Korean drama by title, find out who played a character, or check an a… |
+| 2026-11-10 02:31:48 | [io.github.yyert123/miragea-mcp](https://github.com/yyert123/miragea-mcp) | Miragea Voice & Captions | 0.1.0 | Voiceover, voice cloning and SRT/VTT captions for agents, with exact durations… |
+| 2026-11-10 02:32:09 | [io.github.AndrewVG23/nutrition-mcp](https://github.com/AndrewVG23/nutrition_mcp) | Nutrition MCP | 0.2.0 | USDA FoodData Central nutrition data: search foods, compare macros, and analyze… |
+| 2026-11-10 02:32:39 | com.univs/univs | Univs | 1.2.0 | Search universities, study programmes and education agencies worldwide on Univs. |
+| 2026-11-10 02:34:12 | [io.github.CloudCorpRecords/jpverify](https://github.com/CloudCorpRecords/jpverify) |  | 0.1.0 | Verify Japanese companies: corporate numbers, invoice registrations, profiles a… |
+| 2026-11-10 02:34:21 | br.ia.rota-nacional/rota-nacional | Rota Nacional | 1.0.0 | AI API compatible with OpenAI and Anthropic, with personal data handled before… |
+| 2026-11-10 02:40:02 | [com.reliastats/public](https://github.com/chiaha-ai/reliastats-site) | ReliaStats | 1.2.0 | Reliability math: Weibull life, availability from MTBF/MTTR, system reliability… |
+| 2026-11-10 02:40:14 | com.citybymonth/citybymonth | City by Month | 1.3.0 | Read-only city climate normals, daylight and month-by-month data. Every answer… |
+| 2026-11-10 02:42:29 | [com.pipsocket/mcp](https://github.com/pipsocket/mcp) | Pipsocket | 1.0.0 | Read and trade MetaTrader 5 accounts hosted by Pipsocket, and set up TradingVie… |
+| 2026-11-10 02:54:16 | [io.github.BetaNYC/nyc-311-mcp](https://github.com/BetaNYC/nyc-311-mcp) | NYC 311 | 1.2.0 | NYC 311: how to report a problem, district numbers from BoardStat, the 311 cale… |
+| 2026-11-10 02:57:10 | ai.sekai.mcp/sekai | Sekai | 1.0.0 | Build a playable game with your coding agent and publish it on Sekai in one ste… |
+| 2026-11-10 02:57:34 | [io.github.CloudCorpRecords/aipulse](https://github.com/CloudCorpRecords/aipulse) |  | 0.1.0 | AI market intelligence: product lookups, market scores and the AI product grave… |
+| 2026-11-10 02:57:49 | com.socialdatax/hongguo | SocialDataX 红果 Hongguo MCP | 0.1.0 | 红果综合搜索、剧集详情与分集列表、整剧剧评及楼中楼、单集视频评论与回复、单集视频下载地址与解密；支持分享链接、分享文案、类型筛选和分页。 |
+| 2026-11-10 03:03:42 | [io.github.codecoradev/uteke](https://github.com/codecoradev/uteke) | Uteke | 0.23.0 | Long-term memory for AI agents: hybrid vector and full-text recall, rooms, time… |
+| 2026-11-10 03:03:48 | finance.souvenir/coins | Souvenir | 1.0.0 | Souvenir coins and prize rounds on Solana: search coins, read pots, rounds and… |
+| 2026-11-10 03:07:47 | com.zozopeak/coupons | ZoZoPeak: Verified Coupons & Deals MCP | 0.1.0 | Fetch verified store coupon codes and promo deals via official feeds. Free, no… |
+| 2026-11-10 03:14:25 | [io.github.RTY2345RR/youtube-dubbing-mcp](https://github.com/RTY2345RR/youtube-dubbing-mcp) | YouTube Dubbing MCP | 0.1.0 | AI dubbing for YouTube videos: one cloned voice per speaker, synced SRT, YouTub… |
+| 2026-11-10 03:14:29 | io.github.cocomoon612/olive-young-kbeauty | Olive Young K-Beauty Data | 1.0.0 | Olive Young (Korea's #1 beauty store) rankings, search, ingredients and reviews… |
+| 2026-11-10 03:14:30 | io.github.cocomoon612/naver-korea-search | Naver Search, Map & Blog Data | 1.0.0 | Naver search results (SEO/GEO), Naver Map places, reviews and rank tracking, Na… |
+| 2026-11-10 03:14:31 | io.github.cocomoon612/korea-retail-data | Korean Retail Data (Daiso, Musinsa) | 1.0.0 | Daiso Korea products with real units sold, Musinsa K-fashion rankings and size-… |
+| 2026-11-10 03:15:03 | [io.github.CloudCorpRecords/rentfeed](https://github.com/CloudCorpRecords/rentfeed) |  | 0.1.0 | US rental listings as JSON: free sample search and rent statistics, plus your l… |
 
 ## Data source
 
