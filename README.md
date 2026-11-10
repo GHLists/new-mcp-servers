@@ -9,60 +9,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 01:21 UTC
+## Latest list — 2026-11-10 02:20 UTC
 
-New MCP servers published between 2026-11-10 00:19 UTC and 2026-11-10 01:21 UTC.
+New MCP servers published between 2026-11-10 01:21 UTC and 2026-11-10 02:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-10T01-21-17-776164Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-10T02-20-04-746192Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-10 00:19:50 | dev.moneytools/settle | MoneyTools Settle | 1.1.3 | x402 settle reliability: verify, idempotency gate, receipts, spend caps; Base U… |
-| 2026-11-10 00:20:02 | dev.moneytools/fidelity | MoneyTools Inference Fidelity Audit | 1.0.4 | Audit OpenAI-compatible / x402 inference sellers vs Cloudflare Workers AI refer… |
-| 2026-11-10 00:20:04 | dev.moneytools/transcripts | MoneyTools Transcripts | 1.0.4 | Value-added STT: segments, SRT/VTT, language, summary for media you may process… |
-| 2026-11-10 00:20:15 | dev.moneytools/slim | MoneyTools Slim | 1.0.4 | Cut MCP tool-definition tokens 75–98%: index, on-demand schema, proxy call; x40… |
-| 2026-11-10 00:33:01 | com.papersign/papersign | Papersign | 1.0.0 | Prepare documents and send them for signature. Papersign is made by Paperform. |
-| 2026-11-10 00:33:02 | io.stepper/stepper | Stepper | 1.0.0 | Build and run workflows that automate your business. Stepper is made by Paperfo… |
-| 2026-11-10 00:38:47 | [io.github.eiry16/beacon-mfg-mcp](https://github.com/eiry16/beacon-mfg) | BeaconMFG | 1.12.0 | Read-only MCP: search 210k+ Chinese business entities across all GB/T 4754 indu… |
-| 2026-11-10 00:39:37 | [io.github.AllegroMoltoV/plugin-soko-kun](https://github.com/AllegroMoltoV/plugin-soko-kun) | Plugin Soko-kun | 0.1.0 | Search, inspect, and submit third-party OBS Studio plugins in a free, unofficia… |
-| 2026-11-10 00:40:43 | io.github.SalesEQ/saleseq | SalesEQ | 2.1.26 | Search your SalesEQ meetings, read transcripts and summaries, and retrieve fram… |
-| 2026-11-10 00:42:43 | art.aidating/aidating | AIDating / DatingCoachAI | 1.0.0 | AI dating coach: profile review, photo scoring, opener generator, and confidenc… |
-| 2026-11-10 00:42:47 | jp.yomitasu/pare-suitengumae-jp | pare-suitengumae.jp | 1.0.1 | 人形町・水天宮前で内科、外科ならメディカルクリニックパレ水天宮前。（pare-suitengumae.jp の内容を検索して答える。ヨミタス経由） |
-| 2026-11-10 00:43:01 | com.eliteagenticsolutions/chatbot | empire-chatbot-saas | 1.0.0 | Embed a customizable AI chatbot on any website. Knowledge-base RAG, tier-aware… |
-| 2026-11-10 00:44:02 | art.aieventpro/aieventpro | AI Event Pro | 1.0.0 | AI event and travel planner: dream events, concerts, weddings, conferences and… |
-| 2026-11-10 00:44:04 | org.aipropertypro/aipropertypro | Wholesale Heaven | 1.0.0 | AI real estate assistant: listings, tour scheduling, lead nurturing, market ana… |
-| 2026-11-10 00:44:05 | xyz.aischoolpro/aischoolpro | AISchoolPro | 1.0.0 | AI tutor, homework helper, test prep and essay grader. Free to start; Student p… |
-| 2026-11-10 00:44:07 | org.aiwebsitemaker/aiwebsitemaker | AIWebsiteMaker / BuildMyPage | 1.0.0 | Generate a logo, color palette, brand guide and responsive HTML website from a… |
-| 2026-11-10 00:44:08 | com.eliteagenticsolutions/app | elite-agentic-platform | 1.0.0 | Agentic-AI operations platform for any business — automate sales, finance, supp… |
-| 2026-11-10 00:44:10 | studio.appbuilderai/appbuilderai | appbuilderai.studio | 1.0.0 | Generated code you download. PWA export and deployment handoff to Empire Cloud.… |
-| 2026-11-10 00:44:12 | tech.careerpro/careerpro | CareerProAI | 1.0.0 | Tailor your resume to any job, score it against the ATS, and practice interview… |
-| 2026-11-10 00:44:14 | xyz.cohostbnb/cohostbnb | CoHostBnB | 1.0.0 | Guest replies, housekeeping and handovers in one workspace for hosts and small… |
-| 2026-11-10 00:44:15 | org.elitehealthessentials/elitehealthessentials | Elite Health Essentials | 1.0.0 | Whey isolate, collagen creamer, creatine and more, made by suppliers that state… |
-| 2026-11-10 00:44:17 | io.fixmyplant/fixmyplant | fixmyplant.io | 1.0.0 | Identify plants, diagnose problems and get a watering schedule. Free tier; Pro… |
-| 2026-11-10 00:44:19 | xyz.legaldraft/legaldraft | LegalDraft | 1.0.0 | AI-powered legal document templates: NDAs, contracts, ToS, privacy policies. No… |
-| 2026-11-10 00:44:20 | org.makemycontent/makemycontent | MakeMyContent | 1.0.0 | AI content studio for blog posts, ad copy, email campaigns, social media, newsl… |
-| 2026-11-10 00:44:22 | xyz.myaiaccountant/myaiaccountant | MyAIAccountant / AccountItUp | 1.0.0 | Import transactions, auto-categorise, draft Schedule C / 1120-S / 4562 / 8825,… |
-| 2026-11-10 00:44:24 | org.myaiceo/myaiceo | MyAICEO | 1.0.0 | AI business operating system: bookkeeping, invoices, content, marketing, ecomme… |
-| 2026-11-10 00:44:26 | org.myaicontractor/myaicontractor | MyAIContractor | 1.0.0 | Describe your project → starter budget and shopping list → optional photo refin… |
-| 2026-11-10 00:44:27 | health.myaidoctor/myaidoctor | MyAIDoctor / Elite Health AI | 1.0.0 | EliteHealthAI. General wellness information and questions to prepare for your d… |
-| 2026-11-10 00:44:28 | [io.github.prbe-ai/probe-research](https://github.com/prbe-ai/research-os-agent) | Probe Research | 1.0.0 | Experiment tracking for coding agents: read your team's ML runs, metrics and li… |
-| 2026-11-10 00:44:29 | com.myecommerceai/myecommerceai | MyEcommerceAI / AI4Ecommerce | 1.0.0 | Optimize listings, write descriptions, answer reviews and build PPC campaigns.… |
-| 2026-11-10 00:44:31 | org.mykidsbook/mykidsbook | KidStoryAI / MyKidsBook | 1.0.0 | Create a one-of-a-kind story with your child as the hero. Free sample, printabl… |
-| 2026-11-10 00:44:33 | org.summarizethis/summarizethis | SummarizeThis | 1.0.0 | Paste a transcript or document and get a structured summary with action items,… |
-| 2026-11-10 00:44:35 | xyz.taxmeup/taxmeup | taxmeup.xyz | 1.0.0 | Free educational tax deduction analysis. Check common deductions with IRS publi… |
-| 2026-11-10 00:44:36 | xyz.tripgenius/tripgenius | tripgenius.xyz | 1.0.0 | Day-by-day AI travel itineraries with a self-critique pass for pacing and budge… |
-| 2026-11-10 00:45:46 | com.isagentproof/agentproof | AgentProof | 1.0.0 | Start AgentProof security audits of websites you own or may test, and read repo… |
-| 2026-11-10 00:46:04 | ai.readyink/readyink | readyink.ai | 1.0.0 | Send PDFs for e-signature from Claude or ChatGPT: prepare, quote, send, track a… |
-| 2026-11-10 00:48:55 | xyz.agentcharts/ranking | Agent Charts | 1.0.0 | Paid AI-agent tools ranked by real on-chain spend, wash trading filtered out. U… |
-| 2026-11-10 00:49:46 | pro.domob/mcp | Domob | 1.0.0 | Gerencie sua loja Domob pela sua IA: vendas, catálogo, imagens, pedidos e págin… |
-| 2026-11-10 00:51:21 | ai.postd/postd | postd | 1.0.0 | Instagram carousel editor, moodboards and content calendar. Build posts from yo… |
-| 2026-11-10 00:56:21 | com.stocklens/stocklens | StockLens | 1.2.3 | Scores for the largest companies in each market with no account. Sign in for an… |
-| 2026-11-10 00:57:24 | [io.github.Gonza28fq/mcp-datos-argentina](https://github.com/Gonza28fq/mcp-datos-argentina) |  | 0.3.0 | Datos públicos de Argentina: BCRA, dólar, inflación, riesgo país, plazos fijos,… |
-| 2026-11-10 01:02:09 | [io.github.michael-denyer/hot-memory-mcp](https://github.com/michael-denyer/memory-mcp) |  | 0.9.0 | Two-tier memory: hot cache (0ms) + semantic search. Self-organizing. |
-| 2026-11-10 01:04:24 | [io.github.nobrainer-tech/nobrainer-tech-flow](https://github.com/nobrainer-tech/nobrainer-tech-flow) | NoBrainer Tech Flow | 2.12.0 | Task contract, evidence check and done gate for AI coding agents. Read-only, no… |
-| 2026-11-10 01:06:06 | io.geenie/geenie | Geenie | 1.0.0 | Amazon Ads and Seller Central for your AI assistant: reports, campaign manageme… |
-| 2026-11-10 01:15:23 | [io.github.Tthanh2k6/supabase-rls-check](https://github.com/Tthanh2k6/supabase-rls-check) |  | 0.2.2 | Read-only Supabase RLS and policy checks: explain rules and analyze a check.sql… |
-| 2026-11-10 01:18:05 | [io.github.Tthanh2k6/remote-contract-jobs](https://github.com/Tthanh2k6/remote-contract-jobs) |  | 0.1.1 | Remote contract and part-time dev jobs from public feeds, minus location, video… |
+| 2026-11-10 01:23:35 | com.bytortoise/clive | Clive | 1.0.0 | Set and manage iPhone alarms from an AI assistant, with confirmation from the p… |
+| 2026-11-10 01:27:59 | io.github.jenny-ouyang/build-to-launch-mcp | Build to Launch MCP | 1.0.0 | Connect your AI agent to 300+ methods and 100+ live tools |
+| 2026-11-10 01:27:59 | io.github.jenny-ouyang/quick-viral-notes-mcp | Quick Viral Notes | 1.0.0 | Turn your long-form articles into Notes and social posts |
+| 2026-11-10 01:28:53 | [io.github.mka142/doricomcp](https://github.com/mka142/doricomcp) |  | 0.1.0 | Read and edit a live Dorico 6 score by conversation, through Dorico's own inter… |
+| 2026-11-10 01:32:44 | net.autopilotit/autopilot-it | AutoPilot IT | 1.3.6.258 | Small-business IT monitoring and Windows device security. |
+| 2026-11-10 01:35:27 | ai.bluerate/loan-officers | bluerate: Find a Mortgage Loan Officer | 1.0.0 | Find licensed US mortgage loan officers by state, city, ZIP code, loan type or… |
+| 2026-11-10 01:37:30 | au.com.jobjar.www/trades | JobJar: find a tradie | 1.1.0 | Find local Australian tradies by job and suburb, and ask up to 3 of them for a… |
+| 2026-11-10 01:38:28 | [io.github.arthurcolle/yc-graphql-mcp](https://github.com/arthurcolle/yc-graphql-mcp) | YC GraphQL MCP · Distributed Systems | 2.1.0 | Direct YC GraphQL MCP: live editable fields, typed updates, concurrency checks… |
+| 2026-11-10 01:38:50 | ae.employerofrecord/moha | Moha: hire in the UAE | 1.0.0 | Hire in the UAE without a local company: guide, quotes and accounts via an Empl… |
+| 2026-11-10 01:38:50 | ae.employerofrecord/moha-account | Moha: your account | 1.0.0 | Act in your Moha workspace (OAuth): team, hires, approvals, time off, expenses,… |
+| 2026-11-10 01:40:09 | [io.github.jakcmencz/sentinel-ir-mcp](https://github.com/jakcmencz/sentinel-ir-mcp) | Sentinel-IR | 0.4.6 | Compact structural IR of JS/TS/Python files for AI agents: risk and signals ins… |
+| 2026-11-10 01:41:59 | [io.usefulapi/kvittia](https://github.com/m190/usefulapi-mcp) | Kvittia MCP by usefulapi | 1.0.0 | Read receipts, invoices and bank lines; upload and update receipts in Kvittia. |
+| 2026-11-10 01:41:59 | [io.usefulapi/fiscalhub](https://github.com/m190/usefulapi-mcp) | FiscalHub MCP by usefulapi | 1.0.1 | Read NF-e XML and NCM tax data, simulate totals, issue and cancel NF-e and NFC-… |
+| 2026-11-10 01:41:59 | [io.usefulapi/billify](https://github.com/m190/usefulapi-mcp) | Billify MCP by usefulapi | 1.0.0 | Read clients, offers and invoices; create clients and offer drafts in Billify. |
+| 2026-11-10 01:41:59 | [io.usefulapi/hobok](https://github.com/m190/usefulapi-mcp) | Hobok MCP by usefulapi | 1.0.0 | Read invoices, customers and products; issue invoices and record payments in Ho… |
+| 2026-11-10 01:41:59 | [io.usefulapi/buk-ng](https://github.com/m190/usefulapi-mcp) | Buk.ng MCP by usefulapi | 1.0.0 | List services, customers and bookings, and read booking page insights in Buk.ng. |
+| 2026-11-10 01:41:59 | [io.usefulapi/reenio](https://github.com/m190/usefulapi-mcp) | reenio MCP by usefulapi | 1.0.0 | Read reservations, customers and payments; change states and blocked times in r… |
+| 2026-11-10 01:41:59 | [io.usefulapi/oases](https://github.com/m190/usefulapi-mcp) | Oases MCP by usefulapi | 1.0.0 | Read students, parents, sessions and invoices; add notes and update fields in O… |
+| 2026-11-10 01:41:59 | [io.usefulapi/mightycall](https://github.com/m190/usefulapi-mcp) | MightyCall MCP by usefulapi | 1.0.0 | Read calls, voicemails and journal requests; set requests to Open or Resolved i… |
+| 2026-11-10 01:42:00 | [io.usefulapi/telzio](https://github.com/m190/usefulapi-mcp) | Telzio MCP by usefulapi | 1.0.0 | Read calls, queues and users; hang up or transfer live calls and send SMS in Te… |
+| 2026-11-10 01:42:00 | [io.usefulapi/callhippo](https://github.com/m190/usefulapi-mcp) | CallHippo MCP by usefulapi | 1.0.0 | Read users, contacts and call logs; manage contacts and Do Not Call numbers in… |
+| 2026-11-10 01:42:00 | [io.usefulapi/goaudits](https://github.com/m190/usefulapi-mcp) | GoAudits MCP by usefulapi | 1.0.0 | Read audit summaries, audit details, checklists, locations and action plans in… |
+| 2026-11-10 01:42:00 | [io.usefulapi/timetaag](https://github.com/m190/usefulapi-mcp) | Timetaag MCP by usefulapi | 1.0.0 | Read employees, leave, attendance, punches, shifts and holidays in Timetaag. |
+| 2026-11-10 01:42:01 | [io.usefulapi/skyprep](https://github.com/m190/usefulapi-mcp) | SkyPrep MCP by usefulapi | 1.0.0 | Read users, courses and progress; enroll users in courses or user groups in Sky… |
+| 2026-11-10 01:42:01 | [io.usefulapi/tempclock](https://github.com/m190/usefulapi-mcp) | TempClock MCP by usefulapi | 1.0.0 | Read workers, sites, time entries and bookings; see who is on site now in TempC… |
+| 2026-11-10 01:42:01 | [io.usefulapi/salesrabbit](https://github.com/m190/usefulapi-mcp) | SalesRabbit MCP by usefulapi | 1.0.0 | Read leads, statuses, users and org units; create and update leads in SalesRabb… |
+| 2026-11-10 01:42:01 | [io.usefulapi/officegest](https://github.com/m190/usefulapi-mcp) | OfficeGest MCP by usefulapi | 1.0.0 | Read customers, stock, sales documents and debt reports; create customers in Of… |
+| 2026-11-10 01:42:01 | [io.usefulapi/sumit](https://github.com/m190/usefulapi-mcp) | SUMIT MCP by usefulapi | 1.0.0 | Read documents, customer debts, stock levels and VAT and exchange rates in SUMI… |
+| 2026-11-10 01:42:01 | [io.usefulapi/cuentica](https://github.com/m190/usefulapi-mcp) | Cuéntica MCP by usefulapi | 1.0.0 | Read invoices, incomes and expenses; create customers and providers in Cuéntica. |
+| 2026-11-10 01:42:01 | [io.usefulapi/wise-tutoring](https://github.com/m190/usefulapi-mcp) | Wise MCP by usefulapi | 1.0.0 | Read students, teachers, parents, tags and reports of one institute in Wise. |
+| 2026-11-10 01:42:02 | [io.usefulapi/keycrm](https://github.com/m190/usefulapi-mcp) | keyCRM MCP by usefulapi | 1.0.0 | Read orders, buyers, products and pipeline cards; add or remove order tags in k… |
+| 2026-11-10 01:43:43 | com.halaltrip/prayer-tools | HalalTrip | 1.0.0 | Prayer times, Ramadan timetable, Qibla direction and Islamic calendar for any c… |
+| 2026-11-10 01:48:33 | [io.github.joshuasprow/nitrovin](https://github.com/joshuasprow/nitrovin) | Decode VIN | 0.1.5 | Decode one VIN (vehicle identification number) offline against NHTSA's vPIC data |
+| 2026-11-10 01:53:21 | [io.github.DrMkdaddy/cat-burglar](https://github.com/DrMkdaddy/cat-burglar) | Cat Burglar | 0.3.3 | Stealth browser MCP with three engines, diff observations, site memory, and ben… |
+| 2026-11-10 01:53:22 | app.xpnai/mcp | xpnAI | 1.0.0 | Query and export Xero finance data and prepare accounting drafts in your xpnAI… |
+| 2026-11-10 01:54:21 | [io.github.CloudCorpRecords/carboncalc](https://github.com/CloudCorpRecords/carboncalc) |  | 0.1.0 | Sourced emission factors and carbon calculations: activity, freight, spend, tra… |
+| 2026-11-10 01:57:49 | [io.github.Makkov-design/framelens](https://github.com/Makkov-design/framelens) | Frame Lens | 2.1.0 | Eyes and ears for AI agents: measured cuts, easing, palette, beats and transcri… |
+| 2026-11-10 02:06:55 | [io.github.CloudCorpRecords/staydata](https://github.com/CloudCorpRecords/staydata) |  | 0.1.0 | Airbnb data as JSON: search stays by place or map box, fetch full property deta… |
+| 2026-11-10 02:10:04 | [io.github.SuresoftTechnologies/statica-mcp](https://github.com/SuresoftTechnologies/statica-plugin) | STATICA STATIC analysis tools | 0.1.0 | Drive Suresoft STATIC analysis from a coding agent: connect, analyze, upload, m… |
+| 2026-11-10 02:10:12 | [io.github.MeshTok/baydeep](https://github.com/MeshTok/baydeep) | BayDeep — The e-commerce plugin for AI… | 1.0.0 | E-commerce + travel catalog for AI agents: AliExpress goods, flight fares, attr… |
+| 2026-11-10 02:17:18 | [io.github.bshelby88/raen-mcp](https://github.com/bshelby88/raen-mcp) | RAEN x402 Gateway | 1.0.0 | RAEN paid x402 MCP tools: law lookup, dispute letters, image gen, contract anal… |
+| 2026-11-10 02:18:44 | [io.github.CloudCorpRecords/shopdata](https://github.com/CloudCorpRecords/shopdata) |  | 0.1.0 | Amazon data as JSON: product details, reviews, keyword search, seller profiles… |
 
 ## Data source
 
