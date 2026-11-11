@@ -9,42 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 00:20 UTC
+## Latest list — 2026-11-11 01:22 UTC
 
-New MCP servers published between 2026-11-10 23:21 UTC and 2026-11-11 00:20 UTC.
+New MCP servers published between 2026-11-11 00:20 UTC and 2026-11-11 01:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-11T00-20-39-38493Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-11T01-22-06-819665Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-10 23:25:42 | com.repclose/repclose | Repclose | 1.0.0 | Read Repclose account plans: list and search accounts, open a plan with dated s… |
-| 2026-11-10 23:26:55 | [com.woopsocial/mcp](https://github.com/WoopSocial/mcp) | WoopSocial Social Media MCP | 1.1.0 | Post to social media (Facebook, Instagram, LinkedIn, Pinterest, YouTube, TikTok… |
-| 2026-11-10 23:27:53 | [io.github.eyrockscript/test-card-hub](https://github.com/eyrockscript/test-card-hub) | Test Card Hub | 1.0.0 | Official sandbox test cards (Stripe, Mercado Pago, Conekta and more) for agents… |
-| 2026-11-10 23:27:59 | [io.github.itsryanarmani/septics](https://github.com/itsryanarmani/directory) |  | 1.0.0 | Find septic service. Check the source. |
-| 2026-11-10 23:30:53 | [io.github.ORENQIS-LABS/remotepilot](https://github.com/ORENQIS-LABS/RemotePilot) | RemotePilot | 0.1.1 | MCP server for terminal commands, file operations, and process management |
-| 2026-11-10 23:32:23 | [com.originalpictures/mcp](https://github.com/Original-Pictures/originalpictures-clients) | Original Pictures | 1.0.0 | Sign media with C2PA Content Credentials and verify its declared origin. |
-| 2026-11-10 23:34:53 | [io.github.Tetef/cloudhil](https://github.com/Tetef/cloudhildemo) | Cloudhil | 0.8.2 | Flash pre-built STM32/LPC ELFs on real Nucleo/Discovery boards over HTTPS. Does… |
-| 2026-11-10 23:44:15 | [io.github.lightsmite/fixlane](https://github.com/lightsmite/fixlane-plugin) | Fixlane | 1.0.0 | Known security incidents in developer software, with reviewed fix procedures. |
-| 2026-11-10 23:45:52 | [io.github.itsryanarmani/firesprinklers](https://github.com/itsryanarmani/directory) |  | 1.0.0 | Find a contractor for sprinkler inspection and installation. |
-| 2026-11-10 23:47:18 | com.johalinsurancebrokers/commercial-insurance | Commercial Insurance Broker (Property &… | 2.0.0 | Licensed US broker: every ACORD 125/126/140, SOV and loss-run question; submit… |
-| 2026-11-10 23:51:00 | host.vixpi/mcp | Vixpi | 0.2.0 | Serviços, faturas, tickets, VPS, hospedagem, e-mail e domínios da sua conta Vix… |
-| 2026-11-10 23:53:09 | ai.kwekuanansi/africa-scam-check | Africa Scam Check | 1.0.0 | Fraud patterns a message or call resembles in Kenya and Nigeria, and where to r… |
-| 2026-11-10 23:56:50 | co.hubpost/hubpost | HubPost | 1.0.0 | Schedule and publish posts and short videos to every major social platform from… |
-| 2026-11-10 23:57:00 | pro.morphix/morphix | Morphix | 1.0.0 | Generate and upscale AI images, video and audio with leading models, right from… |
-| 2026-11-11 00:01:02 | com.usekerux/kerux | Kerux | 1.0.0 | Run your LinkedIn, email and SMS outreach from your AI assistant |
-| 2026-11-11 00:04:25 | app.zerophase/zerophase | ZeroPhase | 1.0.0 | BUD/S prep training: read today's workout, log tasks and PST results from your… |
-| 2026-11-11 00:05:48 | space.thequant/research-corpus | The Quant Space Research Corpus | 1.3.0 | Scored quant-finance paper corpus. Free search tools plus x402 pay-per-call pre… |
-| 2026-11-11 00:08:04 | br.com.kliky/kliky-public-knowledge | Kliky | 1.0.0 | Consulte informações sobre o produto, planos e páginas públicas do Kliky. |
-| 2026-11-11 00:08:21 | [io.github.itsryanarmani/hvacpros](https://github.com/itsryanarmani/directory) |  | 1.0.0 | Find HVAC contractors for maintenance and repairs. |
-| 2026-11-11 00:09:46 | [io.github.clean-data-labs-org/samgov-opportunities](https://github.com/clean-data-labs-org/samgov-opportunities-mcp) | SAM.gov Opportunities | 0.2.1 | Search SAM.gov federal contract opportunities by NAICS, PSC, set-aside, agency,… |
-| 2026-11-11 00:09:50 | [io.github.Jugmaster/said-protocol](https://github.com/SAID-Protocol/said-api) | SAID Protocol | 1.0.0 | Check a Solana wallet before you pay it, a token before you buy it. Agent ident… |
-| 2026-11-11 00:10:50 | [com.neoninnovationlab/enterprise-mcp-gateway](https://github.com/Ansarii/neoninnovationlab) |  | 1.0.0 | Zero-Trust MCP Firewall, PII Redactor & Cursor 40-Tool Bypass Gateway by Neon I… |
-| 2026-11-11 00:12:25 | com.rnwy/rnwy | RNWY | 0.5.0 | Free trust records for AI agents and MCP servers: trust checks, sybil signals,… |
-| 2026-11-11 00:14:14 | co.gtmvault/gtm-vault | GTM Vault MCP | 1.1.0 | GTM operator evidence in Claude: layer audit, Build Your Stack, operator stacks… |
-| 2026-11-11 00:15:21 | com.nestdaddy/nestdaddy | NestDaddy | 1.1.0 | Live web search, news from 45+ countries, full article text and research papers… |
-| 2026-11-11 00:19:21 | io.github.VladimirTambovtsev/appstruct-docs | AppStruct Docs | 1.0.0 | Read, search and edit owned AppStruct documents using scoped API keys. |
-| 2026-11-11 00:19:41 | io.github.VladimirTambovtsev/appstruct-sheets | AppStruct Sheets | 1.0.0 | Read ranges and update owned AppStruct spreadsheets using scoped API keys. |
-| 2026-11-11 00:20:23 | io.github.VladimirTambovtsev/appstruct-slides | AppStruct Slides | 1.0.0 | Read and update slide text and structure in owned AppStruct presentations. |
+| 2026-11-11 00:20:40 | com.censusev/census | Census EV | 1.0.0 | Every electric car for sale in the US, new and used. Search listings, look up a… |
+| 2026-11-11 00:21:19 | [io.github.itsryanarmani/alarminstallers](https://github.com/itsryanarmani/directory) |  | 1.0.0 | Find an alarm company. Check the licence. |
+| 2026-11-11 00:21:33 | [io.github.24seagull-beep/sense2-catalogue](https://github.com/24seagull-beep/sense2-next) | Sense2 Promotional Products | 1.2.0 | 29 read-only tools: search 4,000+ Australian promotional products, live pricing… |
+| 2026-11-11 00:21:59 | [io.github.vaultbase-sh/vaultbase](https://github.com/vaultbase-sh/mcp) | Vaultbase | 0.1.2 | Connect AI agents to a self-hosted Vaultbase backend: records, collections, hoo… |
+| 2026-11-11 00:23:25 | org.mixerai/mixerai | Mixer AI | 1.0.0 | Create and edit images, video, music and voice with 100+ AI models and build Ca… |
+| 2026-11-11 00:24:50 | com.bokenjapan/mcp | Boken Japan: rural and small-town Japan… | 1.0.0 | Read-only travel data for every municipality in Japan, from bokenjapan.com |
+| 2026-11-11 00:25:43 | app.cormak/mcp-server | Cormak.app | 1.0.0 | Manage websites, tasks, AI agents, employees and media with scoped OAuth and sp… |
+| 2026-11-11 00:26:15 | dev.pages.usage-lab/usage-lab | Usage Lab | 0.1.0 | Record idempotent usage events and read monthly per-customer rollups (Usage Lab… |
+| 2026-11-11 00:28:41 | [io.github.itsryanarmani/boilerpros](https://github.com/itsryanarmani/directory) |  | 1.0.0 | Find a heating contractor. |
+| 2026-11-11 00:30:44 | ru.vebhost/vebhost | VEBHOST | 1.0.0 | Публикует готовый HTML-сайт на поддомен и возвращает ссылку. Ключ vh_ из кабине… |
+| 2026-11-11 00:31:01 | io.sophistication/mcp | Sophistication | 1.0.0 | Meta ads of e-commerce brands, the funnels behind them and the offers, for crea… |
+| 2026-11-11 00:36:10 | com.fovub/fovub | fovub | 20261111-0024 | Projects the vote share between two people for one local elected seat before an… |
+| 2026-11-11 00:36:58 | com.neuroencoder/eeg-embeddings | Neuroencoder EEG embeddings | 2.3.0 | Hosted EEG embeddings API: any montage and sampling rate, EDF/BDF/FIF/NPY, 768-… |
+| 2026-11-11 00:41:37 | [io.github.DefectDojo/defectdojo-mcp](https://github.com/DefectDojo/defectdojo-mcp) | DefectDojo | 0.1.0 | Search, triage and import findings in DefectDojo through its REST API v2. |
+| 2026-11-11 00:55:20 | [io.github.magna56/fiscallm](https://github.com/magna56/fiscallm) | FiscaLLM | 1.0.0 | LLM prices, cost estimates and break-even, plus your app's AI cost and margin p… |
+| 2026-11-11 00:56:01 | pro.signthis/signthis | SignThis | 1.1.0 | Track and send e-signature documents. Needs a SignThis API key; read-only by de… |
+| 2026-11-11 00:57:14 | [io.github.steadfeed-dev/steadfeed-site-audit-mcp](https://github.com/steadfeed-dev/steadfeed-site-audit-mcp) | Site Audit MCP Server | 0.2.1 | Seven website-audit tools for AI agents: schema, WCAG, tech stack, PageSpeed, A… |
+| 2026-11-11 01:00:10 | [io.github.marcioyoshida/onca-setorial](https://github.com/marcioyoshida/Signals-Sectorial-Intelligence) | Onça Setorial | 1.0.0 | Brazilian regulator data: CVM filings, dam safety, airline punctuality, rules,… |
+| 2026-11-11 01:12:27 | [io.github.itsryanarmani/welldrillers](https://github.com/itsryanarmani/directory) |  | 1.0.0 | Find a water well contractor for your land. |
+| 2026-11-11 01:12:58 | com.callvu/agent-layer | Callvu | 0.1.0 | Evaluate Callvu, the Completion and Compliance Layer: processes, proof, costs a… |
+| 2026-11-11 01:17:41 | [com.revalidata/contracts](https://github.com/Built-AI/prism-mcp) | Revalidata: Contract Deadlines and Crit… | 1.0.0 | Critical dates found in leases, loans, policies, HOA docs, contracts, clause if… |
 
 ## Data source
 

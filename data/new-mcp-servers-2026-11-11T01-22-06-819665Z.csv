@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-11-11T00:20:40.314538Z,com.censusev/census,Census EV,1.0.0,,streamable-http,"Every electric car for sale in the US, new and used. Search listings, look up a VIN, list models."
+2026-11-11T00:21:19.679649Z,io.github.itsryanarmani/alarminstallers,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find an alarm company. Check the licence.
+2026-11-11T00:21:33.949168Z,io.github.24seagull-beep/sense2-catalogue,Sense2 Promotional Products,1.2.0,https://github.com/24seagull-beep/sense2-next,streamable-http,"29 read-only tools: search 4,000+ Australian promotional products, live pricing, quotes, edits."
+2026-11-11T00:21:59.197062Z,io.github.vaultbase-sh/vaultbase,Vaultbase,0.1.2,https://github.com/vaultbase-sh/mcp,,"Connect AI agents to a self-hosted Vaultbase backend: records, collections, hooks and SQL."
+2026-11-11T00:23:25.984681Z,org.mixerai/mixerai,Mixer AI,1.0.0,,streamable-http,"Create and edit images, video, music and voice with 100+ AI models and build Canvas projects."
+2026-11-11T00:24:50.889658Z,com.bokenjapan/mcp,Boken Japan: rural and small-town Japan travel data,1.0.0,,streamable-http,"Read-only travel data for every municipality in Japan, from bokenjapan.com"
+2026-11-11T00:25:43.317651Z,app.cormak/mcp-server,Cormak.app,1.0.0,,streamable-http,"Manage websites, tasks, AI agents, employees and media with scoped OAuth and spending approvals."
+2026-11-11T00:26:15.332615Z,dev.pages.usage-lab/usage-lab,Usage Lab,0.1.0,,streamable-http,Record idempotent usage events and read monthly per-customer rollups (Usage Lab metering API).
+2026-11-11T00:28:41.013366Z,io.github.itsryanarmani/boilerpros,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find a heating contractor.
+2026-11-11T00:30:44.985411Z,ru.vebhost/vebhost,VEBHOST,1.0.0,,streamable-http,Публикует готовый HTML-сайт на поддомен и возвращает ссылку. Ключ vh_ из кабинета.
+2026-11-11T00:31:01.184835Z,io.sophistication/mcp,Sophistication,1.0.0,,streamable-http,"Meta ads of e-commerce brands, the funnels behind them and the offers, for creative strategy."
+2026-11-11T00:36:10.719368Z,com.fovub/fovub,fovub,20261111-0024,,streamable-http,Projects the vote share between two people for one local elected seat before anyone declares.
+2026-11-11T00:36:58.028519Z,com.neuroencoder/eeg-embeddings,Neuroencoder EEG embeddings,2.3.0,,streamable-http,"Hosted EEG embeddings API: any montage and sampling rate, EDF/BDF/FIF/NPY, 768-d vector per window"
+2026-11-11T00:41:37.9456Z,io.github.DefectDojo/defectdojo-mcp,DefectDojo,0.1.0,https://github.com/DefectDojo/defectdojo-mcp,,"Search, triage and import findings in DefectDojo through its REST API v2."
+2026-11-11T00:55:20.984995Z,io.github.magna56/fiscallm,FiscaLLM,1.0.0,https://github.com/magna56/fiscallm,streamable-http,"LLM prices, cost estimates and break-even, plus your app's AI cost and margin per user."
+2026-11-11T00:56:01.477218Z,pro.signthis/signthis,SignThis,1.1.0,,streamable-http,Track and send e-signature documents. Needs a SignThis API key; read-only by default.
+2026-11-11T00:57:14.146501Z,io.github.steadfeed-dev/steadfeed-site-audit-mcp,Site Audit MCP Server,0.2.1,https://github.com/steadfeed-dev/steadfeed-site-audit-mcp,streamable-http,"Seven website-audit tools for AI agents: schema, WCAG, tech stack, PageSpeed, AI crawlers, changes."
+2026-11-11T01:00:10.555784Z,io.github.marcioyoshida/onca-setorial,Onça Setorial,1.0.0,https://github.com/marcioyoshida/Signals-Sectorial-Intelligence,streamable-http,"Brazilian regulator data: CVM filings, dam safety, airline punctuality, rules, enforcement"
+2026-11-11T01:12:27.946876Z,io.github.itsryanarmani/welldrillers,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find a water well contractor for your land.
+2026-11-11T01:12:58.878083Z,com.callvu/agent-layer,Callvu,0.1.0,,streamable-http,"Evaluate Callvu, the Completion and Compliance Layer: processes, proof, costs and procurement."
+2026-11-11T01:17:41.394057Z,com.revalidata/contracts,Revalidata: Contract Deadlines and Critical Dates,1.0.0,https://github.com/Built-AI/prism-mcp,streamable-http,"Critical dates found in leases, loans, policies, HOA docs, contracts, clause if known. By Built AI."
