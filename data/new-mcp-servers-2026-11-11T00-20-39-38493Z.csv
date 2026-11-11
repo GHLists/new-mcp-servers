@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-11-10T23:25:42.535609Z,com.repclose/repclose,Repclose,1.0.0,,streamable-http,"Read Repclose account plans: list and search accounts, open a plan with dated sources, see people."
+2026-11-10T23:26:55.037079Z,com.woopsocial/mcp,WoopSocial Social Media MCP,1.1.0,https://github.com/WoopSocial/mcp,streamable-http,"Post to social media (Facebook, Instagram, LinkedIn, Pinterest, YouTube, TikTok, X/Twitter and more)"
+2026-11-10T23:27:53.807469Z,io.github.eyrockscript/test-card-hub,Test Card Hub,1.0.0,https://github.com/eyrockscript/test-card-hub,,"Official sandbox test cards (Stripe, Mercado Pago, Conekta and more) for agents testing checkouts."
+2026-11-10T23:27:59.184727Z,io.github.itsryanarmani/septics,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find septic service. Check the source.
+2026-11-10T23:30:53.236736Z,io.github.ORENQIS-LABS/remotepilot,RemotePilot,0.1.1,https://github.com/ORENQIS-LABS/RemotePilot,,"MCP server for terminal commands, file operations, and process management"
+2026-11-10T23:32:23.165959Z,com.originalpictures/mcp,Original Pictures,1.0.0,https://github.com/Original-Pictures/originalpictures-clients,streamable-http,Sign media with C2PA Content Credentials and verify its declared origin.
+2026-11-10T23:34:53.807082Z,io.github.Tetef/cloudhil,Cloudhil,0.8.2,https://github.com/Tetef/cloudhildemo,streamable-http,Flash pre-built STM32/LPC ELFs on real Nucleo/Discovery boards over HTTPS. Does not compile.
+2026-11-10T23:44:15.950657Z,io.github.lightsmite/fixlane,Fixlane,1.0.0,https://github.com/lightsmite/fixlane-plugin,streamable-http,"Known security incidents in developer software, with reviewed fix procedures."
+2026-11-10T23:45:52.855447Z,io.github.itsryanarmani/firesprinklers,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find a contractor for sprinkler inspection and installation.
+2026-11-10T23:47:18.714457Z,com.johalinsurancebrokers/commercial-insurance,Commercial Insurance Broker (Property & GL),2.0.0,,streamable-http,"Licensed US broker: every ACORD 125/126/140, SOV and loss-run question; submit property/GL quotes."
+2026-11-10T23:51:00.834828Z,host.vixpi/mcp,Vixpi,0.2.0,,streamable-http,"Serviços, faturas, tickets, VPS, hospedagem, e-mail e domínios da sua conta Vixpi."
+2026-11-10T23:53:09.517718Z,ai.kwekuanansi/africa-scam-check,Africa Scam Check,1.0.0,,streamable-http,"Fraud patterns a message or call resembles in Kenya and Nigeria, and where to report."
+2026-11-10T23:56:50.869051Z,co.hubpost/hubpost,HubPost,1.0.0,,streamable-http,Schedule and publish posts and short videos to every major social platform from any AI agent.
+2026-11-10T23:57:00.116547Z,pro.morphix/morphix,Morphix,1.0.0,,streamable-http,"Generate and upscale AI images, video and audio with leading models, right from your AI chat."
+2026-11-11T00:01:02.349265Z,com.usekerux/kerux,Kerux,1.0.0,,streamable-http,"Run your LinkedIn, email and SMS outreach from your AI assistant"
+2026-11-11T00:04:25.671948Z,app.zerophase/zerophase,ZeroPhase,1.0.0,,streamable-http,"BUD/S prep training: read today's workout, log tasks and PST results from your agent."
+2026-11-11T00:05:48.466419Z,space.thequant/research-corpus,The Quant Space Research Corpus,1.3.0,,streamable-http,Scored quant-finance paper corpus. Free search tools plus x402 pay-per-call premium tools.
+2026-11-11T00:08:04.003166Z,br.com.kliky/kliky-public-knowledge,Kliky,1.0.0,,streamable-http,"Consulte informações sobre o produto, planos e páginas públicas do Kliky."
+2026-11-11T00:08:21.497581Z,io.github.itsryanarmani/hvacpros,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find HVAC contractors for maintenance and repairs.
+2026-11-11T00:09:46.535663Z,io.github.clean-data-labs-org/samgov-opportunities,SAM.gov Opportunities,0.2.1,https://github.com/clean-data-labs-org/samgov-opportunities-mcp,,"Search SAM.gov federal contract opportunities by NAICS, PSC, set-aside, agency, state and date."
+2026-11-11T00:09:50.722413Z,io.github.Jugmaster/said-protocol,SAID Protocol,1.0.0,https://github.com/SAID-Protocol/said-api,streamable-http,"Check a Solana wallet before you pay it, a token before you buy it. Agent identity and reputation."
+2026-11-11T00:10:50.45368Z,com.neoninnovationlab/enterprise-mcp-gateway,,1.0.0,https://github.com/Ansarii/neoninnovationlab,streamable-http; streamable-http,"Zero-Trust MCP Firewall, PII Redactor & Cursor 40-Tool Bypass Gateway by Neon Innovation Lab"
+2026-11-11T00:12:25.478963Z,com.rnwy/rnwy,RNWY,0.5.0,,streamable-http,"Free trust records for AI agents and MCP servers: trust checks, sybil signals, signed attestations."
+2026-11-11T00:14:14.779644Z,co.gtmvault/gtm-vault,GTM Vault MCP,1.1.0,,streamable-http,"GTM operator evidence in Claude: layer audit, Build Your Stack, operator stacks, episode search."
+2026-11-11T00:15:21.832087Z,com.nestdaddy/nestdaddy,NestDaddy,1.1.0,,streamable-http,"Live web search, news from 45+ countries, full article text and research papers for AI agents."
+2026-11-11T00:19:21.266538Z,io.github.VladimirTambovtsev/appstruct-docs,AppStruct Docs,1.0.0,,streamable-http,"Read, search and edit owned AppStruct documents using scoped API keys."
+2026-11-11T00:19:41.180387Z,io.github.VladimirTambovtsev/appstruct-sheets,AppStruct Sheets,1.0.0,,streamable-http,Read ranges and update owned AppStruct spreadsheets using scoped API keys.
+2026-11-11T00:20:23.839562Z,io.github.VladimirTambovtsev/appstruct-slides,AppStruct Slides,1.0.0,,streamable-http,Read and update slide text and structure in owned AppStruct presentations.

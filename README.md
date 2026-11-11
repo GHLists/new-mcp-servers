@@ -9,43 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 23:21 UTC
+## Latest list — 2026-11-11 00:20 UTC
 
-New MCP servers published between 2026-11-10 22:20 UTC and 2026-11-10 23:21 UTC.
+New MCP servers published between 2026-11-10 23:21 UTC and 2026-11-11 00:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-10T23-21-08-799473Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-11T00-20-39-38493Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-10 22:20:58 | com.vinovoss/mcp | VinoVoss | 1.0.0 | Search a US wine marketplace, compare offers that ship to your state, and buy o… |
-| 2026-11-10 22:33:19 | app.catalantable/recipes | The Catalan Table — Recipes | 1.0.0 | 470+ tested traditional Catalan & Spanish recipes: ingredients, steps, nutritio… |
-| 2026-11-10 22:33:23 | us.moreabout/more-about | More About | 2.8.0 | Edit your link-in-bio page and schedule posts to Instagram, Facebook, YouTube,… |
-| 2026-11-10 22:36:02 | [io.github.HoldMyBeer-gg/bad-ass-mcp](https://github.com/HoldMyBeer-gg/bad-ass-mcp) | bad-ass-mcp | 1.6.0 | Desktop GUI automation on macOS, Windows and Linux through accessibility trees,… |
-| 2026-11-10 22:36:07 | [io.github.AndrewVG23/grocery-mcp](https://github.com/AndrewVG23/grocery_mcp) | Grocery MCP | 0.1.1 | Search direct grocery storefronts and create product-link pickup handoffs. |
-| 2026-11-10 22:37:05 | com.jomobench/mcp | JomoBench | 1.0.0 | fomo app spot fee quotes, the measured realized fee rate, referral facts, site… |
-| 2026-11-10 22:37:39 | [io.github.ummmno/inferthat](https://github.com/ummmno/inferthat-plugin) | Inferthat | 0.1.0 | Search fixes other agents already found before you debug; post a note when you… |
-| 2026-11-10 22:42:50 | com.boxofficefees/mcp | Box Office Fees | 1.0.0 | Event ticketing platforms priced on one event: total fees, buyer part, payout. |
-| 2026-11-10 22:44:51 | [ai.knowdrive/knowdrive-mcp](https://github.com/Recourse-Software-Inc/knowdrive-mcp) | KnowDrive | 0.1.8 | Private, multimodal knowledge store for agents: hybrid search with cited, prove… |
-| 2026-11-10 22:49:19 | io.github.andrewcmcguire/steadybase | Steadybase | 1.0.0 | Cited company facts and signals from SEC filings for US public companies. |
-| 2026-11-10 22:52:22 | br.com.orkestraai/orkestra | Orkestra | 1.0.0 | Tasks, org memory, impact simulations, docs, deploys and pull requests from the… |
-| 2026-11-10 22:52:41 | us.raydn/news | Raydn | 1.0.0 | Fast financial and world news: the latest stories, search and full articles. Fr… |
-| 2026-11-10 22:54:47 | ai.kwekuanansi/africa-contacts | Africa Contacts | 1.0.0 | Customer-care and complaints numbers in Kenya and Nigeria, each read on the bod… |
-| 2026-11-10 22:54:47 | ai.kwekuanansi/ghana-services | Ghana Services | 1.0.0 | Plumbers, electricians and phone repairers in Greater Accra confirmed by a pers… |
-| 2026-11-10 22:54:48 | ai.kwekuanansi/ghana-translate | Ghana Translate | 1.0.0 | Short text between English and Twi, Ewe or Ga, translated by Khaya (Ghana NLP). |
-| 2026-11-10 22:55:22 | guru.trend/trendguru | TrendGuru | 1.0.0 | Publish and schedule posts to Instagram, TikTok, YouTube, Facebook, LinkedIn an… |
-| 2026-11-10 22:55:57 | com.recurboard/recurboard | RecurBoard | 1.0.0 | SaaS KPIs for subscription businesses: MRR/ARR, churn, cohorts and P&L from Rec… |
-| 2026-11-10 22:56:41 | xyz.indexfy/indexfy | Indexfy | 0.1.0 | Buy and sell fully backed crypto index tokens and trade prediction markets on B… |
-| 2026-11-10 23:03:13 | [com.easyi18n/cli](https://github.com/liontude/easyi18n-agents) | easyi18n | 1.2.1 | Set up easyi18n in a Flutter, Xcode, Angular, web or Android project, then tran… |
-| 2026-11-10 23:04:34 | com.underhyper/mcp | UnderHyper | 1.0.0 | Hyperliquid referral code, perp markets, funding rates, HIP-3 dexes and site se… |
-| 2026-11-10 23:04:36 | com.pumpfyi/mcp | PumpFYI | 1.1.0 | pump.fun fee quotes, cheapest place to trade, coin checks, referral facts, site… |
-| 2026-11-10 23:08:38 | technology.serp/serp | SERP.technology | 1.0.0 | Read workspaces, sites, keywords, articles and analytics from the SERP.technolo… |
-| 2026-11-10 23:11:31 | [io.github.Nebulous-Ideas/legacy-switch-mcp](https://github.com/Nebulous-Ideas/legacy-switch-mcp) |  | 0.1.1 | Manage D-Link DGS-1100 and USRobotics 7724 smart switches: plan-then-apply chan… |
-| 2026-11-10 23:11:36 | com.personalizedgiftsdelivered/gift-boxes | Personalized Gifts Delivered | 1.0.0 | Quote logo mug gift boxes, check a logo and save a draft order that the buyer p… |
-| 2026-11-10 23:11:47 | com.dividendsolo.situation/situation | Situation | 1.0.0 | Live world situations for agents: the wire, the map's events and the stories be… |
-| 2026-11-10 23:12:15 | [app.prickelly/tracker](https://github.com/ozulkuomer/prickelly) | Prickelly | 1.0.0 | Track the price you actually pay on Amazon.com.tr, Hepsiburada and Trendyol. |
-| 2026-11-10 23:12:48 | [com.yobiru/friends](https://github.com/chekusu/yobiru) | Yobiru Friends | 0.7.25 | Let your AI agent reach friends' agents: look up, follow and message bots on bo… |
-| 2026-11-10 23:16:38 | ai.colorcraft/colorcraft | ColorCraft | 1.0.0 | Research KDP niches and make print-ready coloring, story, comic and puzzle book… |
-| 2026-11-10 23:20:57 | [io.github.Nodium-io/whatsapp](https://github.com/Nodium-io/sdk) | Nodium WhatsApp | 1.0.0 | Operate WhatsApp from an agent: read conversations and contacts, send messages,… |
+| 2026-11-10 23:25:42 | com.repclose/repclose | Repclose | 1.0.0 | Read Repclose account plans: list and search accounts, open a plan with dated s… |
+| 2026-11-10 23:26:55 | [com.woopsocial/mcp](https://github.com/WoopSocial/mcp) | WoopSocial Social Media MCP | 1.1.0 | Post to social media (Facebook, Instagram, LinkedIn, Pinterest, YouTube, TikTok… |
+| 2026-11-10 23:27:53 | [io.github.eyrockscript/test-card-hub](https://github.com/eyrockscript/test-card-hub) | Test Card Hub | 1.0.0 | Official sandbox test cards (Stripe, Mercado Pago, Conekta and more) for agents… |
+| 2026-11-10 23:27:59 | [io.github.itsryanarmani/septics](https://github.com/itsryanarmani/directory) |  | 1.0.0 | Find septic service. Check the source. |
+| 2026-11-10 23:30:53 | [io.github.ORENQIS-LABS/remotepilot](https://github.com/ORENQIS-LABS/RemotePilot) | RemotePilot | 0.1.1 | MCP server for terminal commands, file operations, and process management |
+| 2026-11-10 23:32:23 | [com.originalpictures/mcp](https://github.com/Original-Pictures/originalpictures-clients) | Original Pictures | 1.0.0 | Sign media with C2PA Content Credentials and verify its declared origin. |
+| 2026-11-10 23:34:53 | [io.github.Tetef/cloudhil](https://github.com/Tetef/cloudhildemo) | Cloudhil | 0.8.2 | Flash pre-built STM32/LPC ELFs on real Nucleo/Discovery boards over HTTPS. Does… |
+| 2026-11-10 23:44:15 | [io.github.lightsmite/fixlane](https://github.com/lightsmite/fixlane-plugin) | Fixlane | 1.0.0 | Known security incidents in developer software, with reviewed fix procedures. |
+| 2026-11-10 23:45:52 | [io.github.itsryanarmani/firesprinklers](https://github.com/itsryanarmani/directory) |  | 1.0.0 | Find a contractor for sprinkler inspection and installation. |
+| 2026-11-10 23:47:18 | com.johalinsurancebrokers/commercial-insurance | Commercial Insurance Broker (Property &… | 2.0.0 | Licensed US broker: every ACORD 125/126/140, SOV and loss-run question; submit… |
+| 2026-11-10 23:51:00 | host.vixpi/mcp | Vixpi | 0.2.0 | Serviços, faturas, tickets, VPS, hospedagem, e-mail e domínios da sua conta Vix… |
+| 2026-11-10 23:53:09 | ai.kwekuanansi/africa-scam-check | Africa Scam Check | 1.0.0 | Fraud patterns a message or call resembles in Kenya and Nigeria, and where to r… |
+| 2026-11-10 23:56:50 | co.hubpost/hubpost | HubPost | 1.0.0 | Schedule and publish posts and short videos to every major social platform from… |
+| 2026-11-10 23:57:00 | pro.morphix/morphix | Morphix | 1.0.0 | Generate and upscale AI images, video and audio with leading models, right from… |
+| 2026-11-11 00:01:02 | com.usekerux/kerux | Kerux | 1.0.0 | Run your LinkedIn, email and SMS outreach from your AI assistant |
+| 2026-11-11 00:04:25 | app.zerophase/zerophase | ZeroPhase | 1.0.0 | BUD/S prep training: read today's workout, log tasks and PST results from your… |
+| 2026-11-11 00:05:48 | space.thequant/research-corpus | The Quant Space Research Corpus | 1.3.0 | Scored quant-finance paper corpus. Free search tools plus x402 pay-per-call pre… |
+| 2026-11-11 00:08:04 | br.com.kliky/kliky-public-knowledge | Kliky | 1.0.0 | Consulte informações sobre o produto, planos e páginas públicas do Kliky. |
+| 2026-11-11 00:08:21 | [io.github.itsryanarmani/hvacpros](https://github.com/itsryanarmani/directory) |  | 1.0.0 | Find HVAC contractors for maintenance and repairs. |
+| 2026-11-11 00:09:46 | [io.github.clean-data-labs-org/samgov-opportunities](https://github.com/clean-data-labs-org/samgov-opportunities-mcp) | SAM.gov Opportunities | 0.2.1 | Search SAM.gov federal contract opportunities by NAICS, PSC, set-aside, agency,… |
+| 2026-11-11 00:09:50 | [io.github.Jugmaster/said-protocol](https://github.com/SAID-Protocol/said-api) | SAID Protocol | 1.0.0 | Check a Solana wallet before you pay it, a token before you buy it. Agent ident… |
+| 2026-11-11 00:10:50 | [com.neoninnovationlab/enterprise-mcp-gateway](https://github.com/Ansarii/neoninnovationlab) |  | 1.0.0 | Zero-Trust MCP Firewall, PII Redactor & Cursor 40-Tool Bypass Gateway by Neon I… |
+| 2026-11-11 00:12:25 | com.rnwy/rnwy | RNWY | 0.5.0 | Free trust records for AI agents and MCP servers: trust checks, sybil signals,… |
+| 2026-11-11 00:14:14 | co.gtmvault/gtm-vault | GTM Vault MCP | 1.1.0 | GTM operator evidence in Claude: layer audit, Build Your Stack, operator stacks… |
+| 2026-11-11 00:15:21 | com.nestdaddy/nestdaddy | NestDaddy | 1.1.0 | Live web search, news from 45+ countries, full article text and research papers… |
+| 2026-11-11 00:19:21 | io.github.VladimirTambovtsev/appstruct-docs | AppStruct Docs | 1.0.0 | Read, search and edit owned AppStruct documents using scoped API keys. |
+| 2026-11-11 00:19:41 | io.github.VladimirTambovtsev/appstruct-sheets | AppStruct Sheets | 1.0.0 | Read ranges and update owned AppStruct spreadsheets using scoped API keys. |
+| 2026-11-11 00:20:23 | io.github.VladimirTambovtsev/appstruct-slides | AppStruct Slides | 1.0.0 | Read and update slide text and structure in owned AppStruct presentations. |
 
 ## Data source
 
