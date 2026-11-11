@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-11-11T14:26:38.220855Z,com.rasareka/app-reviews,App Store & Google Play Reviews,1.0.0,,streamable-http,"App Store & Google Play: search apps, read reviews, get complaint/praise insights."
+2026-11-11T14:26:39.022912Z,com.rasareka/jobs,Jobs: Remote Boards + Company Careers,1.0.0,,streamable-http,"Remote jobs from 6 boards, salary/market reports, and roles from company careers pages."
+2026-11-11T14:26:58.085991Z,io.github.jarm-dev/travellog,TravelLog,1.1.5,https://github.com/jarm-dev/travellog-mcp,streamable-http,"Trip planner and travel log: read and add to your trips, itineraries, expenses and places lists."
+2026-11-11T14:35:53.95239Z,io.github.wrnreed-analytics/circuit-ai-mcp,,1.7.0,,,"Public collaboration for AI agents: find requests, share evidence, and form groups."
+2026-11-11T14:41:05.874622Z,co.nidoraiz.mcp/inmuebles,Nido Raíz — Inmuebles en Colombia,1.0.0,,streamable-http,"Busca inmuebles de NidoRaíz en Colombia, consulta fichas y solicita visitas con autorización."
+2026-11-11T14:42:31.889863Z,com.clawhard/vouch,Vouch,1.0.0,,streamable-http,"Check links live: broken, soft 404, redirects, missing anchors. Check a quote is really on a page."
+2026-11-11T14:43:04.687459Z,io.github.bernik-bot/ichi-mcp,ICHI — Internet Cyber Health Index,0.1.0,https://github.com/bernik-bot/ichi-mcp,,"Daily internet-wide cyber threat band (NORMAL-CRITICAL), numeric score, advisories, source health."
+2026-11-11T14:47:05.742723Z,io.github.WYRE-AI/marketsharp-mcp,MarketSharp,1.0.0,https://github.com/WYRE-AI/marketsharp-mcp,,"MCP server for MarketSharp CRM contacts, inquiries, appointments, jobs, notes and activities."
+2026-11-11T14:48:22.149754Z,io.github.panagot/ai-agents-archive,AI Agents Archive,0.1.1,https://github.com/panagot/Ai-Agents-Archive,streamable-http,Sealed research handoffs: unlock trails via x402; file work for 90% USDC.
+2026-11-11T14:48:36.750406Z,io.github.AiphaBrainOps/aiphabrain-mcp,AiphaBrain Lab Pre-Trade Check,0.1.2,,,"Binance spot pre-trade gate: lot size, min notional, slippage -> pass/warn/block. Read-only."
+2026-11-11T14:49:12.409217Z,io.github.dubbleblack/skipole-connect,Skipole Connect,0.1.0-alpha.1,,streamable-http,"Licensed B2B audiences: catalog, signed purchase links and scoped orders. Paid MCP unverified."
+2026-11-11T14:49:15.68393Z,com.printablesmith/printablesmith,Printablesmith,1.0.0,,streamable-http,"Free printables made in a chat: word searches, bingo, crosswords, math worksheets, charts and more."
+2026-11-11T14:52:41.526143Z,com.fillprompt/fillprompt,fillprompt,1.0.0,https://github.com/haritel97/fillprompt,streamable-http,"Search 6,700+ free AI image, video and text prompts and fill them in for your task."
+2026-11-11T14:54:36.704977Z,io.github.prenzio/rudow-mcp-server,Rudow,0.1.0,https://github.com/prenzio/rudow-mcp-server,streamable-http,"Query your app's logs, metrics and incidents from your AI assistant."
+2026-11-11T14:55:43.201299Z,io.polystate/mcp,Polystate,0.2.0,,streamable-http,"Relocation, residency, visa, company-formation and crypto-tax data for about 170 countries."
+2026-11-11T14:55:56.825412Z,io.github.BetterDB-inc/monitor,,1.6.0,https://github.com/BetterDB-inc/monitor,,BetterDB MCP server - Valkey and Redis observability for Claude Code and other MCP clients
+2026-11-11T14:58:35.281188Z,io.usefulapi/cegid-jasmin,Cegid Jasmin MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read companies, customers, sales and supplier invoices, orders and receipts in Cegid Jasmin."
+2026-11-11T14:58:52.807006Z,app.turbogen/turbogen,Turbogen,0.1.0,,,"Generate images, video and audio (Veo 3.1, Seedance, Kling, Nano Banana Pro) pay-as-you-go."
+2026-11-11T14:59:51.782454Z,io.github.arnesa-ai/arnesa,Arnesa,0.2.0,https://github.com/arnesa-ai/arnesa-cli,,Verified harness rankings and local setup recommendations for AI coding agents.
+2026-11-11T15:02:15.746597Z,io.github.dwiel/buyusbcables,BuyUSBCables Parametric Hardware & Cable Index,2.0.0,https://github.com/dwiel/buyusbcables-mcp,streamable-http,"Parametric search across 8,753 verified Amazon hardware, cable, motor, PSU, and bearing parts."
+2026-11-11T15:03:44.84526Z,com.applysent/applysent,Applysent,1.1.0,,streamable-http,"Search jobs, preview each application and apply with your OK on Workday, Greenhouse, Ashby and more."
+2026-11-11T15:06:23.293551Z,io.github.JOSETRA44/iadetector-mcp,IAdetector,1.0.1,https://github.com/JOSETRA44/iadetector-mcp,,"Detecta texto generado por IA, 100% local, sin enviar tu texto a ningún servidor."
+2026-11-11T15:06:29.071401Z,io.aurato/aurato,Aurato,2.2.0,,streamable-http,"Read-only global payment reference data, metrics, relationships, sources, news and events."
+2026-11-11T15:11:00.906478Z,com.surveysai/qualitative-analysis-workflow,SurveysAI Qualitative Analysis – interview and focus group analysis,1.0.0,,streamable-http,"Analyse interview and focus group transcripts: method presets, price quotes, runs and reports."
+2026-11-11T15:13:23.115155Z,com.simcardo/travel-esim,Simcardo Travel eSIM,1.0.0,,streamable-http,"Read-only travel eSIM quotes for dated trips in Thailand, Japan and the United States."
+2026-11-11T15:14:50.498704Z,si.myeline/myeline,,1.0.0,,streamable-http,"Plug-and-play memory for any AI: approved facts, human review, audit trail"
+2026-11-11T15:18:14.829763Z,ai.selfe/registry,Selfe,1.0.0,,streamable-http,"Find places to stay, eat and do, ranked for the question, with live availability and booking."
