@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-11-11T16:23:12.578207Z,io.github.HolobiomicsLab/studium,,0.6.0,https://github.com/HolobiomicsLab/studium,,"Studium lessons over MCP: play, review over days, build a lesson from your sources."
+2026-11-11T16:26:09.847644Z,org.vedeo/vedeo,VEDEO,1.0.0,,streamable-http,"Make short narrated videos from a prompt or a script: estimate the cost, create, track and download."
+2026-11-11T16:38:42.186878Z,com.buycrypt/mcp,BuyCrypt,1.0.0,,streamable-http,"Crypto trading tournaments, leaderboards, trader ratings and your demo account. Read-only."
+2026-11-11T16:38:59.116889Z,com.alertasubastas/alertasubastas,AlertaSubastas,1.0.0,https://github.com/alertasubastas/alertasubastas-claude-plugin,streamable-http,"Search Spain's public auctions (BOE, Social Security, tax agency, notaries) with full asset records."
+2026-11-11T16:39:42.865078Z,com.getfreedomos/freedom-mcp,FreedomOS,1.1.0,,streamable-http,The captain's seat for every business you own. Your AI sees your real numbers; you say yes.
+2026-11-11T16:40:48.167988Z,com.tavimi/tavimi,Tavimi,1.0.0,,streamable-http,"Shared working memory for teams and their AI assistants: notes, tasks, docs and files by space."
+2026-11-11T16:40:56.90828Z,io.github.schlummer13/archscript-mcp,ArchScript,1.0.0,https://github.com/schlummer13/archscript-mcp,,Plan and review software architecture as code — Claude edits the live diagram in ArchScript for Mac.
+2026-11-11T16:41:27.859217Z,io.usefulapi/imker-salescrm,Imker SalesCRM MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read products, orders and sales reports; create and change discount codes in Imker SalesCRM."
+2026-11-11T16:42:23.587751Z,pl.obligacyjnyinwestor/obligacje-catalyst,Obligacje Catalyst (Obligacyjny Inwestor),0.4.4,,streamable-http,"Read-only data on GPW Catalyst corporate bonds: issuers, series, coupons, maturities, covenants."
+2026-11-11T16:45:17.103377Z,com.tickmi/tickmi,Tickmi,1.0.1,,streamable-http,"Create polls, sign-up forms, lucky draws and QR codes from chat. No account or API key needed."
+2026-11-11T16:46:02.850069Z,io.usefulapi/reviso,Reviso MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read customers, invoices and ledger entries; create customers and draft invoices in Reviso."
+2026-11-11T16:46:33.530138Z,io.wenlong/hyperliquid,WenLong: Hyperliquid trading for AI agents,1.0.0,,streamable-http,"Trade Hyperliquid perps, stocks, gold, oil and pre-IPO from AI agents. Hosted; keys can't withdraw."
+2026-11-11T16:53:23.428075Z,io.github.itsryanarmani/greasecleaning,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find kitchen exhaust and grease cleaning services.
+2026-11-11T16:53:28.954738Z,org.signkaro/signkaro,SignKaro e-signature,1.0.0,,streamable-http,"Make contracts from templates, send them for e-signature by email, and track who has signed."
+2026-11-11T16:55:32.797577Z,com.toolboxpod/mcp,Toolbox POD,1.0.0,,streamable-http,"Design custom shirts and hoodies, make mockups, publish to Shopify or WooCommerce, and order prints."
+2026-11-11T16:57:11.039726Z,app.tradereview/tradereview,TradeReview,1.0.0,,streamable-http,"Read-only access to your TradeReview trading journal: performance, tags, rules and trades."
+2026-11-11T16:59:01.613418Z,fr.humanmirror/x402,HumanMirror x402 Microtools + Execution Market + OmniDome Commons,1.4.3,https://github.com/VibeMirror-coder/humanmirror,streamable-http,"Clean JSON and advisory Safe Preflight for agents: 0.010 USDC per call on Base, via MCP and HTTP."
+2026-11-11T17:00:09.241283Z,io.usefulapi/eversign,Xodo Sign MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"List and read documents and templates; send reminders, cancel or trash documents in Xodo Sign."
+2026-11-11T17:06:07.14736Z,app.vocaless/vocaless,Vocaless,1.0.0,,streamable-http,"Remove vocals from audio and transpose instrumentals, with stems ready to download."
+2026-11-11T17:06:33.704107Z,com.okzest/image-generation,OKZest,1.0.0,,streamable-http,"Create and manage OKZest designs and generate personalized, render-on-demand image URLs."
+2026-11-11T17:08:30.313604Z,io.github.dosbox-automation/dosbox-mcp,dosbox-mcp,0.2.2,https://github.com/dosbox-automation/dosbox-mcp,,"Drive a DOS machine in dosbox-automation: keys, screen, recordings, Lua, memory."
+2026-11-11T17:08:41.995956Z,io.post-relay/postrelay,PostRelay,1.0.0,,streamable-http,"Let your AI post one approved creative to X, LinkedIn, Instagram, YouTube, TikTok and Facebook."
+2026-11-11T17:10:46.579996Z,io.github.EzkielynaGroup/ezkielyna-mcp,Ezkielyna,1.0.0,https://github.com/EzkielynaGroup/ezkielyna-mcp,,"Ask or compare other AI models, web search and balance via the Ezkielyna API (prepaid key)."
+2026-11-11T17:10:50.700833Z,com.soundboardio/mcp,SoundBoardio,1.0.0,,streamable-http,"Search quote sounds from movies, series and personalities; each links to a page that plays it."
+2026-11-11T17:13:13.645052Z,io.github.EzkielynaGroup/ezkielyna-audio-mcp,Ezkielyna Audio,1.0.0,https://github.com/EzkielynaGroup/ezkielyna-audio-mcp,,Text to speech and speech to text from local audio files via the Ezkielyna API (prepaid key).
+2026-11-11T17:16:40.749296Z,io.arcaeon/arcaeon,Arcaeon,0.10.0,https://github.com/Arcaeon-io/arcaeon,,"A record of what an agent did that the agent cannot quietly rewrite, and a way for anyone to check."
+2026-11-11T17:17:17.847372Z,io.github.TigerManOnFire/footprint,Footprint,1.0.0,,streamable-http,"India building growth, govt. land rates and price outlook per ~0.7 sq km area. Read-only."
+2026-11-11T17:17:54.325084Z,com.sandimorse/sandimorse,SandiMorse,1.0.0,https://github.com/pyxlino/sandimorse-mcp,streamable-http,"Translate Morse code and write Pramuka scout codes, with sound and a lamp, in Indonesian or English."
+2026-11-11T17:18:42.195925Z,io.signaturemaker/signature-maker,Signature Maker,1.0.0,https://github.com/pyxlino/signaturemaker-mcp,streamable-http,"Write your name as a signature in 24 styles, with PNG, SVG and a practice sheet."
+2026-11-11T17:19:05.395297Z,com.wordsdesk/wordsdesk,WordsDesk,1.0.0,https://github.com/pyxlino/wordsdesk-mcp,streamable-http,"Play word search puzzles from 11 themes or make your own from your words, with a playable grid."
+2026-11-11T17:19:32.477882Z,com.unscramblekey/unscramblekey,UnscrambleKey,1.0.0,https://github.com/pyxlino/unscramblekey-mcp,streamable-http,"Unscramble letters, find anagrams, solve Wordle and patterns, list words and score them in Scrabble."
+2026-11-11T17:20:20.21018Z,ai.fireshift/leak-score,Fireshift Leak Score,1.0.0,,streamable-http,Scores a website's Google Ads and GA4 conversion setup from its public tags and lists the leaks.
