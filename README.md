@@ -9,24 +9,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 02:19 UTC
+## Latest list — 2026-11-11 03:21 UTC
 
-New MCP servers published between 2026-11-11 01:22 UTC and 2026-11-11 02:19 UTC.
+New MCP servers published between 2026-11-11 02:19 UTC and 2026-11-11 03:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-11T02-19-30-117942Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-11T03-21-35-008666Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-11 01:24:08 | [io.github.Hire-Overseas/hire-overseas-mcp](https://github.com/Hire-Overseas/hire-overseas-mcp) |  | 0.2.0 | Search remote professionals in the Philippines, Latin America and Africa; reque… |
-| 2026-11-11 01:24:33 | [io.github.raccioly/docguard](https://github.com/raccioly/docguard) | DocGuard | 0.47.0 | Deterministic doc-drift detection and exact doc navigation as read-only MCP too… |
-| 2026-11-11 01:28:06 | [io.github.calligraphysystems/vibe-hardware-mcp](https://github.com/calligraphysystems/vibe-hardware-mcp) | Vibe-Coding Hardware & Autonomous PCB P… | 1.2.0 | Autonomous multi-layer PCB routing, KiCad 9 DRC/DFM verification & IPC-2141A im… |
-| 2026-11-11 01:30:34 | com.couponllama/couponllama | CouponLlama: Shopper-Rated Promo Codes | 1.0.0 | Live promo codes for online stores, with shopper votes on whether each worked.… |
-| 2026-11-11 01:43:58 | com.jilliondb/jilliondb | JillionDB | 0.8.12 | Review your AI agent's database changes on your schema, with plain-language ris… |
-| 2026-11-11 02:03:07 | [io.github.sandbaseai/cli](https://github.com/sandbaseai/cli) | SandBase | 0.3.8 | Connect MCP clients to 2,000+ AI models without managing provider API keys. |
-| 2026-11-11 02:03:49 | io.github.convertcom/convert-mcp | Convert Experiences | 0.0.1-beta.25 | Run Convert A/B testing from AI assistants: audit, QA, build drafts and analyze… |
-| 2026-11-11 02:05:14 | [com.taxlocus/taxlocus](https://github.com/Ringzero787/taxlocus-skills) |  | 1.1.0 | US sales tax for AI agents: rates, economic nexus, taxability, filing. Citation… |
-| 2026-11-11 02:11:51 | io.github.tidybytetools/api | Tidy Byte Tools API | 1.0.0 | Remote MCP for JSON repair, hashing, formatting, IDs, dates, units, and other s… |
-| 2026-11-11 02:17:29 | [io.github.reliant-labs/forge](https://github.com/reliant-labs/forge) | Reliant Forge | 1.3.0 | Deploy a site or app with no account: live URL plus a claim link. Scaffold, lin… |
+| 2026-11-11 02:23:13 | com.plainerror/plainerror | PlainError | 0.5.24 | Plain-English fixes for Windows, PC games, and code. Search or paste an error.… |
+| 2026-11-11 02:23:22 | [io.github.biserd/aihackr](https://github.com/biserd/aihackr-mcp) | AIHackr | 0.8.0 | Read public webpages, extract structured data, discover links, and run bounded… |
+| 2026-11-11 02:35:01 | [com.hop-base/mcp](https://github.com/HopBase-AI/hopbase-mcp) | HopBase | 1.0.0 | Read-only HopBase AI gateway tools: models, limits, docs search, balance and us… |
+| 2026-11-11 02:36:46 | [io.github.cphoskins/notion-full-mcp](https://github.com/cphoskins/notion-full-mcp) |  | 0.5.1 | Notion MCP server: deep reads, block editing, safe snapshot/restore, file uploa… |
+| 2026-11-11 02:37:43 | io.github.lelianto/capimail |  | 0.2.2 | Email for AI agents: send, receive and reply in threads, validate addresses, OT… |
+| 2026-11-11 02:37:54 | [io.github.itsryanarmani/boardingschools](https://github.com/itsryanarmani/directory) |  | 1.0.0 | Find a school. Ask better questions. |
+| 2026-11-11 02:38:00 | [io.github.NotUsingGithub/wan30-mcp](https://github.com/NotUsingGithub/wan30-mcp) | Wan30 MCP — Wan 3.0 AI Video Generation | 0.1.0 | Generate Wan 3.0 AI videos, estimate credits and track tasks. Purchased Wan30 c… |
+| 2026-11-11 02:38:28 | [io.github.rbaezc/hexacore-agent](https://github.com/rbaezc/hexacore_agent) |  | 3.3.0 | Verified, reversible Vertical Slice Architecture companion for 11 stacks; learn… |
+| 2026-11-11 02:39:18 | ai.huffl/huffl | Huffl | 0.1.0 | Shared memory for your agents. Grok, Claude, and Muse write into one canvas you… |
+| 2026-11-11 02:44:40 | [io.github.cigalpay/cigalpay-mcp](https://github.com/cigalpay/cigalpay-mcp) | CigalPay | 1.0.0 | Crypto payments: create Bitcoin, USDT and other crypto payment links, track pay… |
+| 2026-11-11 02:47:11 | app.mondaymiracle/fantasy-football | Monday Miracle: Fantasy Football | 1.0.0 | Fantasy football across all your leagues: Yahoo, ESPN, Sleeper. Who to root for… |
+| 2026-11-11 02:50:39 | chat.vitalink/vitalink | Vitalink | 1.2.0 | Talk to Vitalink's patient agent: surgery quotes from surgeons in Mexico for yo… |
+| 2026-11-11 02:51:48 | [io.github.ReadyUpAgents/ready-check](https://github.com/ReadyUpAgents/ready-check-mcp) | Ready Check | 0.1.0 | Prepaid email inspection for agents: structured findings on one inbound email.… |
+| 2026-11-11 02:52:54 | com.agentdataapi/agentdata | AgentDataAPI | 1.0.0 | Power prices and grid carbon, environmental sensors, weather alerts and forecas… |
+| 2026-11-11 02:56:16 | com.assistantcore/assistant-core | Assistant Core | 1.0.0 | Manage Assistant Core AI assistants: settings, knowledge, web widget, conversat… |
+| 2026-11-11 02:58:30 | com.teollimi/teollimi | Teollimi | 1.0.0 | Data breaches in Korea, Japan, the US and beyond with sources, open settlements… |
+| 2026-11-11 03:07:30 | [io.github.itsryanarmani/arborists](https://github.com/itsryanarmani/directory) |  | 1.0.0 | Find the right care for your trees. |
+| 2026-11-11 03:11:18 | trading.alphaprime/alphaprime-stocks | AlphaPrime Stocks | 1.0.0 | Taiwan stock picks and long-only stock-selection strategies: daily ranked lists… |
+| 2026-11-11 03:19:34 | [io.github.gmcho2009-cloud/wenjia-home-fix](https://github.com/gmcho2009-cloud/wenjia-home-fix-mcp) | Wenjia Home-Fix Diagnosis | 0.1.6 | Home repair diagnosis for AI agents: ranked causes, repair price ranges, stop-b… |
 
 ## Data source
 

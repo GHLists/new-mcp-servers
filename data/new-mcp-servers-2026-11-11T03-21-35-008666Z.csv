@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-11-11T02:23:13.107502Z,com.plainerror/plainerror,PlainError,0.5.24,,streamable-http,"Plain-English fixes for Windows, PC games, and code. Search or paste an error. No account needed."
+2026-11-11T02:23:22.901251Z,io.github.biserd/aihackr,AIHackr,0.8.0,https://github.com/biserd/aihackr-mcp,streamable-http,"Read public webpages, extract structured data, discover links, and run bounded crawls."
+2026-11-11T02:35:01.119837Z,com.hop-base/mcp,HopBase,1.0.0,https://github.com/HopBase-AI/hopbase-mcp,streamable-http,"Read-only HopBase AI gateway tools: models, limits, docs search, balance and usage for your API key."
+2026-11-11T02:36:46.175332Z,io.github.cphoskins/notion-full-mcp,,0.5.1,https://github.com/cphoskins/notion-full-mcp,,"Notion MCP server: deep reads, block editing, safe snapshot/restore, file uploads, page move/copy"
+2026-11-11T02:37:43.890688Z,io.github.lelianto/capimail,,0.2.2,,,"Email for AI agents: send, receive and reply in threads, validate addresses, OTP, docs."
+2026-11-11T02:37:54.035806Z,io.github.itsryanarmani/boardingschools,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find a school. Ask better questions.
+2026-11-11T02:38:00.950342Z,io.github.NotUsingGithub/wan30-mcp,Wan30 MCP — Wan 3.0 AI Video Generation,0.1.0,https://github.com/NotUsingGithub/wan30-mcp,,"Generate Wan 3.0 AI videos, estimate credits and track tasks. Purchased Wan30 credits required."
+2026-11-11T02:38:28.08937Z,io.github.rbaezc/hexacore-agent,,3.3.0,https://github.com/rbaezc/hexacore_agent,,"Verified, reversible Vertical Slice Architecture companion for 11 stacks; learns from your tests."
+2026-11-11T02:39:18.64314Z,ai.huffl/huffl,Huffl,0.1.0,,streamable-http,"Shared memory for your agents. Grok, Claude, and Muse write into one canvas you own."
+2026-11-11T02:44:40.832034Z,io.github.cigalpay/cigalpay-mcp,CigalPay,1.0.0,https://github.com/cigalpay/cigalpay-mcp,,"Crypto payments: create Bitcoin, USDT and other crypto payment links, track payments and refunds."
+2026-11-11T02:47:11.802637Z,app.mondaymiracle/fantasy-football,Monday Miracle: Fantasy Football,1.0.0,,streamable-http,"Fantasy football across all your leagues: Yahoo, ESPN, Sleeper. Who to root for, waivers, scores."
+2026-11-11T02:50:39.506742Z,chat.vitalink/vitalink,Vitalink,1.2.0,,streamable-http,Talk to Vitalink's patient agent: surgery quotes from surgeons in Mexico for your case.
+2026-11-11T02:51:48.280835Z,io.github.ReadyUpAgents/ready-check,Ready Check,0.1.0,https://github.com/ReadyUpAgents/ready-check-mcp,,Prepaid email inspection for agents: structured findings on one inbound email. $0.0025/check.
+2026-11-11T02:52:54.639945Z,com.agentdataapi/agentdata,AgentDataAPI,1.0.0,,streamable-http,"Power prices and grid carbon, environmental sensors, weather alerts and forecasts, news signals."
+2026-11-11T02:56:16.857026Z,com.assistantcore/assistant-core,Assistant Core,1.0.0,,streamable-http,"Manage Assistant Core AI assistants: settings, knowledge, web widget, conversations, test chats"
+2026-11-11T02:58:30.642466Z,com.teollimi/teollimi,Teollimi,1.0.0,,streamable-http,"Data breaches in Korea, Japan, the US and beyond with sources, open settlements and what to do."
+2026-11-11T03:07:30.888846Z,io.github.itsryanarmani/arborists,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find the right care for your trees.
+2026-11-11T03:11:18.652171Z,trading.alphaprime/alphaprime-stocks,AlphaPrime Stocks,1.0.0,,streamable-http,"Taiwan stock picks and long-only stock-selection strategies: daily ranked lists, backtests, costs."
+2026-11-11T03:19:34.31909Z,io.github.gmcho2009-cloud/wenjia-home-fix,Wenjia Home-Fix Diagnosis,0.1.6,https://github.com/gmcho2009-cloud/wenjia-home-fix-mcp,,"Home repair diagnosis for AI agents: ranked causes, repair price ranges, stop-before-DIY flags."
