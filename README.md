@@ -9,47 +9,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 08:19 UTC
+## Latest list — 2026-11-11 09:21 UTC
 
-New MCP servers published between 2026-11-11 07:20 UTC and 2026-11-11 08:19 UTC.
+New MCP servers published between 2026-11-11 08:19 UTC and 2026-11-11 09:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-11T08-19-21-624925Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-11T09-21-52-771945Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-11 07:21:37 | [io.github.shakeelamjid/agentreeve](https://github.com/shakeelamjid/agentreeve-skills) | AgentReeve BTC Intelligence | 0.14.0 | Bitcoin market data for AI agents: 28 products via x402, with a free preview an… |
-| 2026-11-11 07:22:20 | [io.github.reclaimprotocol/builder](https://github.com/reclaimprotocol/developer-tools) | Reclaim Protocol Builder | 0.1.46 | Integrate source-account verification into products. Find, build, test, and mai… |
-| 2026-11-11 07:22:37 | app.remotejobify/remote-jobs | Remotejobify | 1.0.0 | Search remote jobs by the country you live in, each with the line that proves y… |
-| 2026-11-11 07:27:28 | io.github.GravityWell8/reliable |  | 0.1.3 | Resilient LLM/Agent calls via MCP: circuit breakers, timeout, jitter backoff, r… |
-| 2026-11-11 07:27:48 | com.findestate/public-catalogs | FindEstate Real Estate | 8.4.0 | Search and compare public real estate, explore maps and open viewing or questio… |
-| 2026-11-11 07:28:24 | cn.suanlinfang/suanlinfang | SuanLinFang AI Capabilities | 0.1.3 | Speech-to-text, text-to-speech, OCR and typed decision-making APIs from suanlin… |
-| 2026-11-11 07:40:27 | [dev.tryfrisk/frisk](https://github.com/Jiangw2718i/frisk) | Frisk | 0.0.2 | Screen the counterparty of an x402 payment before an agent pays it. Runs offlin… |
-| 2026-11-11 07:41:26 | ai.mentionbird/mentionbird | MentionBird | 1.0.0 | Track AI-answer visibility for your brands. Read data; optionally add brands an… |
-| 2026-11-11 07:41:43 | [com.zenitya/mcp](https://github.com/Zenitya/zenitya-plugin) | Zenitya | 0.1.0 | Your team's custom tools and skills in every agent, through one MCP connection. |
-| 2026-11-11 07:41:59 | com.tinab/consensus | Tinab | 1.0.0 | Where humans and agents agree. Each person chooses a circle of trust. No centra… |
-| 2026-11-11 07:42:01 | com.paywithprompt/pay-with-prompt | Pay With Prompt | 0.2.0 | Agents answer prompts for credits, then spend one-time merchant vouchers. |
-| 2026-11-11 07:43:23 | [io.github.La-Salida/schwanki](https://github.com/La-Salida/schwanki) | Schwanki | 1.0.0 | Language flashcards: list your decks, read cards and review progress, save new… |
-| 2026-11-11 07:46:15 | com.pronovahq/pronova-sales-hubspot | Pronova Sales for HubSpot | 0.2.0 | Sales-rep jobs on your HubSpot CRM: daily brief, triage, call prep, forecast. W… |
-| 2026-11-11 07:46:52 | com.omnitoolcalc.directory/agentindex | AgentIndex AI & MCP Discovery Registry | 1.0.0 | Search verified AI agents, MCP servers, and native llms.txt documentation endpo… |
-| 2026-11-11 07:46:54 | com.esportcalc/fps-sensitivity-lab | eSportCalc FPS Sensitivity & Pro Settin… | 1.0.0 | Convert mouse sensitivity across 16 FPS engines (Valorant, CS2, BF6) and inspec… |
-| 2026-11-11 07:46:56 | com.omnitoolcalc/llm-finops-suite | OmniToolCalc LLM Token & Cloud FinOps S… | 1.0.0 | Estimate 2026 enterprise LLM API token costs, prompt caching savings, and devel… |
-| 2026-11-11 07:46:59 | com.arenacalc/endurance-pace-lab | ArenaCalc Race Pace & Endurance Split C… | 1.0.0 | Compute exact min/km, min/mile, and 400m track splits for 5K, 10K, Half Maratho… |
-| 2026-11-11 07:49:03 | io.primeguest.mcp/hotels | PrimeGuest | 0.1.0 | Find hotels and live prices, then book direct with the hotel. No OTA markup. |
-| 2026-11-11 07:51:07 | [io.github.DSHCorrectover/ccs-verifier-mcp](https://github.com/DSHCorrectover/ccs-verifier-mcp) | CCS Verifier MCP | 1.0.1 | Free, unlimited CCS receipt verification via Ed25519 signatures. CC0-1.0 licens… |
-| 2026-11-11 07:52:27 | cn.suanlinfang/stt-tts-ocr-decision | SuanLinFang AI Capabilities | 0.1.3 | Speech-to-text, text-to-speech, OCR and typed decision-making APIs from suanlin… |
-| 2026-11-11 07:53:01 | [io.github.Erodenn/godot-mcp-runtime](https://github.com/Erodenn/godot-mcp-runtime) | Godot MCP Runtime | 4.0.0 | Zero-addon MCP server for Godot 4.5 or later: agents edit, run, and play-test t… |
-| 2026-11-11 07:54:06 | com.boxlist.mcp/boxlist | Boxlist | 0.2.0 | Taste-based film, TV, book and game picks: similar in feel, taste reads, picks… |
-| 2026-11-11 07:54:18 | com.encited/encited | Encited | 1.0.0 | Complete SEO and AI Search stack for your AI agents |
-| 2026-11-11 07:55:00 | [io.github.UnityNodes/psephex](https://github.com/UnityNodes/psephex) | Psephex | 0.1.0 | A judge for deals between AI agents on NEAR: open cases, check x402 payments, v… |
-| 2026-11-11 07:56:24 | com.aurmada.rooms/agent-pay | Rooms Agent Pay (sandbox preview) | 0.2.0 | Give your AI a budget, not your card: fund a room, set an approval line, AI hir… |
-| 2026-11-11 08:02:13 | [io.github.PaulRichez/aparte-docs-mcp](https://github.com/apartejs/aparte) | aparté docs | 1.1.2 | The aparté chat library's docs for coding agents: search guides, read a page or… |
-| 2026-11-11 08:02:19 | ai.coingraph/coingraph | CoinGraph | 1.1.0 | Provable crypto data for AI agents: sourced checks on tokens, wallets and trade… |
-| 2026-11-11 08:03:50 | io.github.karansharma1732/agentunmask | AgentUnmask | 0.2.0 | Scan a URL before your agent reads it: hidden prompt injection, phishing, clean… |
-| 2026-11-11 08:04:42 | [io.github.LiuTianjie/stupidmirror](https://github.com/LiuTianjie/StupidMirror) | StupidMirror | 0.8.6 | Control iPhone and Android devices, simulators and emulators through the Stupid… |
-| 2026-11-11 08:05:03 | so.inki/mcp | Inki | 1.0.0 | An editor to finish what you write with your AI: checks, reviews, and your own… |
-| 2026-11-11 08:05:19 | com.mcpheartbeat/mcp-heartbeat | MCP Heartbeat | 1.0.0 | Health checks for public MCP servers: status, latency, tools, and uptime. |
-| 2026-11-11 08:15:24 | [io.github.cykk/audio-transcription-mcp](https://github.com/cykk/audio-transcription-mcp) | Audio Transcription MCP | 0.1.0 | Transcribe local audio and video using Whisper or the OpenAI API. |
-| 2026-11-11 08:15:47 | eu.ampsu/ampsu | Ampsu | 1.0.0 | Calorie tracker. Tell your AI what you ate and it goes into your Ampsu food dia… |
+| 2026-11-11 08:23:38 | ai.agentxray/mcp | Amazon Seller MCP Server — AgentXray | 1.1.1 | Amazon Seller Central and Ads inside Claude, ChatGPT or Grok. Fees from your ow… |
+| 2026-11-11 08:23:39 | ai.agentxray/amazon-seller-mcp | Amazon Seller MCP Server — AgentXray | 1.0.1 | Amazon Seller Central and Ads inside Claude, ChatGPT or Grok. Fees from your ow… |
+| 2026-11-11 08:25:14 | cards.getbrief/brief | Brief | 0.1.0 | Indian credit card rules for AI agents: which card to use, caps, transfers, ban… |
+| 2026-11-11 08:25:48 | app.acornonaut/mcp | Acornonaut | 3.7.0 | YouTube playlists to AI flashcards, spaced repetition and guided learning missi… |
+| 2026-11-11 08:26:31 | com.hedgenaru/data | Hedgenaru Korean Stocks | 2.1.0 | Korean stocks (KOSPI/KOSDAQ): DART filing summaries, value chains, disclosures,… |
+| 2026-11-11 08:28:33 | [io.github.ShinjukuStaition/shinjuku-shield](https://github.com/ShinjukuStaition/shinjuku-shield) | Shinjuku Shield | 0.3.210 | Private x402 payments on Solana: shield, pay, and unshield USDC under caps you… |
+| 2026-11-11 08:32:24 | [io.github.inspekt-gg/inspekt-mcp](https://github.com/inspekt-gg/inspekt-mcp) | inspekt.gg | 0.1.0 | Render CS2 skin stills, build 3D embed snippets, look up inventories and search… |
+| 2026-11-11 08:32:52 | [io.github.spec-family/spec-guard](https://github.com/spec-family/spec-guard) | spec-guard | 0.33.2 | Hold your code to what your Markdown says: the rules on a path, asked before an… |
+| 2026-11-11 08:32:52 | [io.github.spec-family/spec-harness](https://github.com/spec-family/spec-harness) | spec-harness | 0.24.2 | Rounds of agent work under a brief: context to start, a check on each path, an… |
+| 2026-11-11 08:39:52 | net.fetchmcp/fetchmcp | FetchMCP API | 0.1.0 | Fetch public web pages live and get clean Markdown, text or HTML. |
+| 2026-11-11 08:40:05 | com.livewebdata/live-web-data | Live Web Data API | 0.1.0 | Fetch public web pages live and get clean Markdown, text or HTML. |
+| 2026-11-11 08:40:07 | net.contextretrieval/contextretrieval | Context Retrieval API | 0.1.0 | Fetch public web pages live and get clean Markdown, text or HTML. |
+| 2026-11-11 08:40:10 | live.agentfetch/agentfetch | AgentFetch API | 0.1.0 | Fetch public web pages live and get clean Markdown, text or HTML. |
+| 2026-11-11 08:40:12 | cc.siterender/siterender | SiteRender API | 0.1.0 | Fetch public web pages live and get clean Markdown, text or HTML. |
+| 2026-11-11 08:40:14 | net.mcpscraper/mcpscraper | MCPScraper API | 0.1.0 | Fetch public web pages live and get clean Markdown, text or HTML. |
+| 2026-11-11 08:40:16 | cc.agentscraper/agentscraper | AgentScraper API | 0.1.0 | Fetch public web pages live and get clean Markdown, text or HTML. |
+| 2026-11-11 08:40:29 | de.profitkonsole/mcp | profitkonsole | 1.0.0 | Multichannel profit analytics for sellers on OTTO, Amazon, Kaufland, Shopify an… |
+| 2026-11-11 08:44:49 | io.github.gruntemannen/bettan | Bettan | 1.0.0 | Search, buy and sell second-hand things across Europe. Free for private sellers. |
+| 2026-11-11 08:54:11 | io.bluenoc/bluenoc | BlueNOC | 1.0.0 | Read-only facts about BlueNOC firewall security monitoring: product, pricing, l… |
+| 2026-11-11 08:54:46 | [io.github.reeinharddd/snapmcp](https://github.com/reeinharddd/snapmcp) | snapmcp | 2.3.5 | Visual documentation: terminal, code, browser, Markdown, HTML, diffs, PDFs, GIF… |
+| 2026-11-11 08:56:24 | com.ospitario/ospitario | Ospitario | 1.10.0 | Vacation-rental registry, Italy: search homes, see who proved they rent them, c… |
+| 2026-11-11 08:57:20 | [io.github.usesequential/sequential](https://github.com/usesequential/mcp) | Sequential session replay | 1.0.0 | Session replay and product analytics. Read cases, sessions, verdicts and funnel… |
+| 2026-11-11 08:59:24 | [io.github.Weavatrix/weavatrix](https://github.com/Weavatrix/weavatrix) | Weavatrix | 1.17.6 | Native Weavatrix MCP: 64 read-only tools for code, local CI, n8n, Dify, agents,… |
+| 2026-11-11 09:01:11 | io.github.christianscode1994/volatiai |  | 1.0.0 | Signed signals from 425 sectors. Every output carries an Ed25519 attestation ve… |
+| 2026-11-11 09:03:44 | [io.usefulapi/everbill](https://github.com/m190/usefulapi-mcp) | everbill MCP by usefulapi | 1.0.0 | Read and create bills, customers and articles, and send bills by email in everb… |
+| 2026-11-11 09:03:44 | [io.usefulapi/paychex-europe-payroll](https://github.com/m190/usefulapi-mcp) | Paychex Europe Payroll MCP by usefulapi | 1.0.0 | Read companies, employees, contracts, salaries and absences in Paychex Europe P… |
+| 2026-11-11 09:03:44 | [io.usefulapi/timicx](https://github.com/m190/usefulapi-mcp) | Timicx MCP by usefulapi | 1.0.0 | Read, book, change and delete time entries and run live timers in Timicx. |
+| 2026-11-11 09:03:44 | [io.usefulapi/webclock](https://github.com/m190/usefulapi-mcp) | WebClock MCP by usefulapi | 1.0.0 | Read employees, time clock, timesheets, time off, schedules and payroll data in… |
+| 2026-11-11 09:03:50 | com.prilago/lp-intelligence | Prilago Institutional LP & GP Fundraisi… | 3.2.0 | Primary-filing LP commitments (35,024 records, 4,320 LPs), 578 GP rosters & GP-… |
+| 2026-11-11 09:06:16 | design.brilliant/mcp | Brilliant | 0.1.9 | Your coding agent designs with you on a real vector canvas: UIs, pages, compone… |
+| 2026-11-11 09:11:01 | [io.github.Eno654/oxyo-mcp](https://github.com/Eno654/oxyo-mcp) | Oxyo (oxyo.si) — Contradiction-Free Mem… | 1.2.3 | Contradiction-free memory, causal root-cause graph & verified Python sandbox fo… |
+| 2026-11-11 09:14:55 | [io.usefulapi/salesdrive](https://github.com/m190/usefulapi-mcp) | SalesDrive MCP by usefulapi | 1.0.0 | Read and update orders, add order notes, and find managers by phone in SalesDri… |
+| 2026-11-11 09:14:55 | [io.usefulapi/aladtec](https://github.com/m190/usefulapi-mcp) | Aladtec MCP by usefulapi | 1.0.0 | Read schedules, open shifts, time off, time clock and payroll reports in Aladte… |
+| 2026-11-11 09:14:55 | [io.usefulapi/facture-app](https://github.com/m190/usefulapi-mcp) | Facture App MCP by usefulapi | 1.0.0 | Stamp, cancel and list CFDI invoices, and manage clients and products in Factur… |
+| 2026-11-11 09:15:54 | [io.github.kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | ffmpeg-skill | 3.4.3 | Local FFmpeg video and audio tools over stdio. Footage stays on this machine. |
+| 2026-11-11 09:20:47 | [io.github.craft-agent/telegram-tools](https://github.com/craft-agent/telegram-tools) |  | 0.1.0 | Unofficial Telegram tools for coding agents: chats, messages, received files an… |
+| 2026-11-11 09:21:14 | [io.github.qingxuantang/tar-engine](https://github.com/qingxuantang/tar-engine) | TAR Engine | 0.4.0 | Audit AI skill safety before you ship. Static, semantic, adversarial, supply ch… |
 
 ## Data source
 
