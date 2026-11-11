@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-11-11T03:24:17.639643Z,com.heroxairdomes/mcp,HeroX AirDomes Product,1.1.0,,streamable-http,"Air dome facts, planning packages, consultation booking, and ROI, OPEX and financing calculators."
+2026-11-11T03:24:18.776711Z,com.heroxairdomes/docs-mcp,HeroX AirDomes Docs,1.0.0,,streamable-http,Read-only search and reading of HeroX reference docs and blog articles about air domes.
+2026-11-11T03:25:22.14541Z,com.tday/connector,tday connector,0.4.13,https://github.com/tday-com/tday-plugins,streamable-http,"tday's account tools: brands, credits, product screens and launch videos, over OAuth."
+2026-11-11T03:27:27.940475Z,io.github.itsryanarmani/abatement,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find contractors. Check credentials. Plan the work.
+2026-11-11T03:28:58.537167Z,com.externalsoftware/recount,Recount AI Notetaker,1.0.0,https://github.com/External-Software/recount-mcp,,"Your meetings, transcripts, notes and tasks from Recount, a local desktop meeting recorder."
+2026-11-11T03:29:06.995053Z,io.github.dearlordylord/huly-mcp,Huly MCP,0.56.0,https://github.com/dearlordylord/huly-mcp,,Huly MCP: feature-complete MCP server for Huly integration
+2026-11-11T03:33:03.855421Z,io.github.SuresoftTechnologies/dvera-mcp,DVERA C/C++ Unit and Integration Verification,0.1.5,https://github.com/SuresoftTechnologies/dvera-plugin,,CT C/C++ unit and integration verification for functional-safety projects via coding agents and MCP.
+2026-11-11T03:35:55.374668Z,com.tday/mcp,tday,0.4.13,https://github.com/tday-com/tday-plugins,,Your coding agent records narrated demo videos of the app you are building.
+2026-11-11T03:44:36.705628Z,io.github.itsryanarmani/pesttreatment,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,"Compare pest treatments, costs and providers."
+2026-11-11T03:48:18.760366Z,org.presidentielle-ia/presidentielle-ia,Présidentielle IA,0.2.0,https://github.com/presidentielle-ia/presidentielle-ia,streamable-http,"Interroge les programmes officiels de la présidentielle 2027, cités mot pour mot. Neutre."
+2026-11-11T03:48:47.837352Z,ai.frontierdesk/desk,Frontier Desk,1.2.0,,streamable-http,"Read Frontier Desk's AI-data buyer index, notes, markets and guides. Read-only, no key."
+2026-11-11T03:58:26.920636Z,io.github.qaassimq/instagram-mcp-server,Instagram MCP Server,1.0.0,https://github.com/qaassimq/instagram-mcp-server,,"Instagram via Meta's official Graph API: publishing, comments, DMs, insights and discovery."
+2026-11-11T04:01:42.724129Z,io.github.nikhonit/mentionsapi,MentionsAPI,1.0.0,,streamable-http,"Unified API for tracking brand mentions across ChatGPT, Claude, Gemini, and Perplexity."
+2026-11-11T04:04:47.175998Z,io.github.nadeaup/mineryield-mcp,MinerYield,1.0.2,https://github.com/nadeaup/mineryield-mcp,streamable-http,ASIC solar/battery profit. Keyless MCP 20/min+200/day; paid 25/1k/10k/50k. Not financial advice.
+2026-11-11T04:06:39.209607Z,fit.outpace/outpace,OutPace,1.0.0,,streamable-http,Find free public step and fitness challenges on OutPace and get links to join them.
+2026-11-11T04:09:10.027519Z,io.github.darrenjrobinson/entra-news,,0.2.0,https://github.com/darrenjrobinson/EntraNewsMCPServer,,Search the Entra.news newsletter archive — a weekly digest of Microsoft Entra news
+2026-11-11T04:16:10.710095Z,io.humantone/humantone,HumanTone,0.0.2,https://github.com/humantone/humantone-mcp,streamable-http,Humanize AI drafts in 60+ languages and check AI likelihood. Sign in with your HumanTone account.
