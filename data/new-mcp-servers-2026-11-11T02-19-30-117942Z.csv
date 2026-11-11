@@ -1,0 +1,11 @@
+created_at,server,title,version,repository,transports,description
+2026-11-11T01:24:08.532475Z,io.github.Hire-Overseas/hire-overseas-mcp,,0.2.0,https://github.com/Hire-Overseas/hire-overseas-mcp,streamable-http,"Search remote professionals in the Philippines, Latin America and Africa; request introductions."
+2026-11-11T01:24:33.057142Z,io.github.raccioly/docguard,DocGuard,0.47.0,https://github.com/raccioly/docguard,,Deterministic doc-drift detection and exact doc navigation as read-only MCP tools.
+2026-11-11T01:28:06.283776Z,io.github.calligraphysystems/vibe-hardware-mcp,Vibe-Coding Hardware & Autonomous PCB Physical Synthesis MCP Server,1.2.0,https://github.com/calligraphysystems/vibe-hardware-mcp,streamable-http,"Autonomous multi-layer PCB routing, KiCad 9 DRC/DFM verification & IPC-2141A impedance MCP server."
+2026-11-11T01:30:34.086654Z,com.couponllama/couponllama,CouponLlama: Shopper-Rated Promo Codes,1.0.0,,streamable-http,"Live promo codes for online stores, with shopper votes on whether each worked. Free, no API key."
+2026-11-11T01:43:58.733939Z,com.jilliondb/jilliondb,JillionDB,0.8.12,,streamable-http,"Review your AI agent's database changes on your schema, with plain-language risk, before they run."
+2026-11-11T02:03:07.020966Z,io.github.sandbaseai/cli,SandBase,0.3.8,https://github.com/sandbaseai/cli,streamable-http,"Connect MCP clients to 2,000+ AI models without managing provider API keys."
+2026-11-11T02:03:49.423828Z,io.github.convertcom/convert-mcp,Convert Experiences,0.0.1-beta.25,,streamable-http,"Run Convert A/B testing from AI assistants: audit, QA, build drafts and analyze experiment results."
+2026-11-11T02:05:14.426815Z,com.taxlocus/taxlocus,,1.1.0,https://github.com/Ringzero787/taxlocus-skills,streamable-http,"US sales tax for AI agents: rates, economic nexus, taxability, filing. Citation-backed."
+2026-11-11T02:11:51.213214Z,io.github.tidybytetools/api,Tidy Byte Tools API,1.0.0,,streamable-http,"Remote MCP for JSON repair, hashing, formatting, IDs, dates, units, and other small tools."
+2026-11-11T02:17:29.274923Z,io.github.reliant-labs/forge,Reliant Forge,1.3.0,https://github.com/reliant-labs/forge,,"Deploy a site or app with no account: live URL plus a claim link. Scaffold, lint, generate."
