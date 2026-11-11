@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-11-11T06:23:06.453777Z,com.latchbell/latchbell,Latchbell,1.0.0,,streamable-http,"Ask, book and buy from local businesses; owners run calls, texts, bookings and their website."
+2026-11-11T06:23:59.560223Z,io.photoproof/mcp,photoproof.io,1.0.0,,streamable-http,"Ask an AI about your photo galleries and client picks, or create a new gallery."
+2026-11-11T06:28:13.987077Z,ai.kwekuanansi/herbarium,Kweku Anansi Herbarium,1.0.0,,streamable-http,What the Kweku Anansi herbarium records about plants of West and Central Africa. Never a dose.
+2026-11-11T06:30:14.01398Z,com.vecsnap/image-to-svg,VecSnap Image to SVG,1.0.0,,streamable-http,"Convert images to clean SVG with few anchor points, plus centerline single lines."
+2026-11-11T06:36:04.379117Z,io.github.tia-forge/lad-render-cloud,LAD Render Cloud — SimaticML ladder diagrams over MCP,0.1.0,https://github.com/tia-forge/lad-render-cloud,streamable-http,"Cloud renderer: TIA Portal SimaticML (FC/FB/OB, LAD or SCL) into PNG ladder diagrams over MCP."
+2026-11-11T06:44:32.724464Z,io.github.terno-ai/terno,,1.0.1,https://github.com/terno-ai/ternodbi,streamable-http,"Query, explore, and manage your databases through natural conversation."
+2026-11-11T06:49:50.597729Z,com.netgenium/instance,NET Genium,1.1.0,,streamable-http; streamable-http; streamable-http,Read and write the data and applications of your NET Genium instance; read the framework docs.
+2026-11-11T06:53:07.964615Z,org.nhliberty/liberty-ratings,NHLA Liberty Ratings,1.1.0,,streamable-http,"Liberty Ratings for every New Hampshire state legislator since 2006, and who represents a town."
+2026-11-11T06:53:10.108804Z,com.opensoundbox/ai-song-generator,OpenSoundBox — AI song generator,1.0.0,,streamable-http,"AI song generator: sings your lyrics with real vocals in 50 languages, returns a song link"
+2026-11-11T06:59:28.31811Z,life.dandori/dandori,Dandori,1.0.0,,streamable-http,"Tasks, routines, notes, lists, budget and calendar in Dandori, a personal life organiser."
+2026-11-11T07:01:54.267541Z,com.fivesocket/mt5,FiveSocket MT5,1.0.0,,streamable-http,Live MT5 account data and optional trade execution for connected FiveSocket accounts.
+2026-11-11T07:03:32.282606Z,flights.pinpoint/pinpoint-flights,Pinpoint Flights,1.1.0,https://github.com/pinpoint-flights-llc/pinpoint-flights-mcp,streamable-http,"Flight search with very deep filters, from your assistant. Fla. Seller of Travel Reg. No. ST150266"
+2026-11-11T07:10:36.485394Z,com.workeey/quote-links,Workeey Quote Links,1.0.0,,streamable-http,"Turn a quote into a link the customer approves online. Free, no account."
+2026-11-11T07:15:36.256258Z,ch.latzerus/lernbereich,Latzerus Lernbereich,1.1.0,,streamable-http,"Latzerus (CH): 150+ kostenlose 5-Minuten-Lernmodule zu Vertrieb, KI und Karriere."
+2026-11-11T07:16:31.123419Z,io.github.Hyatus-Living/hyatus-stays,Hyatus Stays,1.0.0,https://github.com/Hyatus-Living/hyatus-stays,streamable-http,"Find furnished Hyatus stays, check dates and prices, and compare public listings."
+2026-11-11T07:17:14.368917Z,io.github.ie3jp/illustrator-mcp-server,,1.11.0,https://github.com/ie3jp/illustrator-mcp-server,,Adobe Illustrator MCP with 66 tools — more than the official Illustrator MCP. macOS | Windows.
