@@ -1,0 +1,64 @@
+created_at,server,title,version,repository,transports,description
+2026-11-11T12:21:11.037587Z,io.github.AI-Driftline/driftline,Driftline,0.1.10,https://github.com/AI-Driftline/driftline,,"Retirement dates and replacements for OpenAI, Anthropic and Google model IDs, checked daily."
+2026-11-11T12:25:40.649279Z,com.tityra/website,Tityra website content audit guide,1.3.0,,streamable-http,Read website audit packages and account entry links. No submission or account access.
+2026-11-11T12:27:09.147408Z,com.sourcegeek/sourcegeek,SourceGeek,1.0.0,,streamable-http,"Recruiting data and workspace: search candidates, companies and jobs, score and shortlist them."
+2026-11-11T12:29:09.075768Z,io.github.yuchen-ya/comfyui-light-mcp,ComfyUI Light MCP,0.3.0-rc.2,https://github.com/yuchen-ya/comfyui-light-mcp,,"Run reviewed local ComfyUI workflows with manifests, batches and persistent job recovery."
+2026-11-11T12:32:06.72735Z,app.summitscribe/summitscribe,SummitScribe,1.0.0,,streamable-http,"Read your SummitScribe meeting notes, transcripts and action items. Read-only."
+2026-11-11T12:33:19.471292Z,io.github.carlostenor/podstatus,Podstatus,2.0.0,,streamable-http,"Podcast rankings, listener reviews and analytics for Apple Podcasts, Spotify and iVoox."
+2026-11-11T12:35:27.97179Z,com.serpbit/mcp,Serpbit,1.0.0,,streamable-http,"Google Search, News, Shopping, Images, Maps and AI Mode as data for AI agents."
+2026-11-11T12:35:40.664693Z,com.paisalocal/contractors,PaisaLocal,0.1.0,,streamable-http,"Prices outdoor kitchens, concrete and stone walls in Dallas-Fort Worth and books site visits."
+2026-11-11T12:37:37.473678Z,io.github.cdeust/ai-architect-mcp-spec,,0.9.0,https://github.com/cdeust/ai-architect-mcp-spec,,PRD verification and host-driven generation with multi-judge consensus across 17 MCP tools.
+2026-11-11T12:37:58.25314Z,fun.unbundle/unbundle,unbundle: bundle & side-wallet checks,1.0.0,,streamable-http,Was this Solana or Robinhood Chain coin bundled? Does this wallet have linked side wallets?
+2026-11-11T12:40:25.45043Z,com.chineseworksheet/mcp,"ChineseWorkSheet — Vector Hanzi Grid Geometry, Stroke Order & HSK Analyzer",1.0.0,https://github.com/AbigailDavised/chineseworksheet-mcp,streamable-http,"Calculate Tian Zi Ge grids, decompose Hanzi strokes, grade HSK 3.0 words & convert Pinyin tones."
+2026-11-11T12:51:53.894855Z,com.chinamedvisit/mcp,ChinaMedVisit — China Tier-3A Hospital Guide & Medical Cost Estimator,1.0.0,https://github.com/AbigailDavised/chinamedvisit-mcp,streamable-http,"Compare China Tier-3A IMC hospital costs vs US/UK prices, plan trips & get bilingual triage cards."
+2026-11-11T12:55:50.83887Z,eu.leadsit/leadsit,LeadsIt,1.0.0,,streamable-http,"Find local B2B customers: live business searches by trade and city, public emails and phones."
+2026-11-11T12:57:14.969533Z,co.aworkado/jobs,Aworkado,1.0.0,,streamable-http,"Live remote and hybrid jobs from employers' career pages. Free, read-only, no account."
+2026-11-11T12:58:25.168108Z,io.consiliumos/parliamentos,"ParliamentOS – Bundestag, Landtage, Nationalrat, EU",1.0.0,,streamable-http,"German, Austrian and EU parliament sources; signed, deterministic citation checks for AI answers"
+2026-11-11T12:58:59.327331Z,com.helix-db/helixdb,HelixDB,1.0.0,,streamable-http,"Graph-vector database: run Helix queries, read query insights and health, manage databases"
+2026-11-11T12:58:59.739389Z,com.helix-db/foundry,Helix Foundry,1.0.0,,streamable-http,Company context and memory for agents: typed ontology knowledge graph with cited answers
+2026-11-11T12:59:29.476455Z,it.recall/recall,Recall,1.0.0,,streamable-http,"Search and read the articles, videos, podcasts, PDFs and notes you saved in Recall. Read-only."
+2026-11-11T13:02:37.108989Z,com.evolc/signals,Evolc Signals,1.0.0,,streamable-http,"Companies hiring, funded or changing in Europe and the Americas, with evidence for every signal."
+2026-11-11T13:03:55.708329Z,com.blindboxshop/mcp,"BlindBoxShop — Blind Box Weight Database, Chase Odds & Auth Guide",1.0.0,https://github.com/AbigailDavised/blindboxshop-mcp,streamable-http,"Look up blind box gram weights, calculate 1:144 chase odds & verify Labubu batch authenticity."
+2026-11-11T13:04:54.400083Z,online.tronproof/tronproof,TronProof,1.0.0,,streamable-http,Pay-per-call USDT (TRC-20) payment verification and Tron address risk checks. Paid via x402.
+2026-11-11T13:07:07.872342Z,com.buckybuild/bucky,Bucky,2.1.2,https://github.com/markbucky/bucky-plugin,streamable-http,"Compare markets, find lots that fit a buy box, and check what a site allows, with cited sources."
+2026-11-11T13:09:27.680164Z,com.taofind/mcp,"TaoFind — 1688 Link Cleaner, Volumetric Shipping & Agent Cost Matrix",1.0.0,https://github.com/AbigailDavised/taofind-mcp,streamable-http,"Clean 1688/Taobao/Weidian links, compute LxWxH/5000 haul weights & compare 18 agent FX fees."
+2026-11-11T13:10:56.355678Z,com.profullstack/b1dz,b1dz,1.0.0,,streamable-http,AI arbitrage terminal: agent auctions and bids (b1dz.com)
+2026-11-11T13:10:56.519632Z,com.profullstack/backtoschool,backtoschool,1.0.0,,streamable-http,School and education resource finder (backtoschool.help)
+2026-11-11T13:10:56.677692Z,com.profullstack/bl0ggers,bl0ggers,1.0.0,,streamable-http,Publish posts/newsletters (bl0ggers.com)
+2026-11-11T13:10:56.834258Z,com.profullstack/bufferoverride,bufferoverride,1.0.0,,streamable-http,Dev Q&A where humans and agents debug together (bufferoverride.com)
+2026-11-11T13:10:57.007926Z,com.profullstack/c0mpute,c0mpute,1.0.0,,streamable-http,Chat with open-weight models on the c0mpute open compute network (c0mpute.com)
+2026-11-11T13:10:57.1733Z,com.profullstack/ch4nnels,ch4nnels,1.0.0,,streamable-http,IPTV / channel lineups (ch4nnels.com)
+2026-11-11T13:10:57.336439Z,com.profullstack/crawlproof,crawlproof,1.0.0,,streamable-http,AI-crawler audits + ads (crawlproof.com)
+2026-11-11T13:10:57.501787Z,com.profullstack/hdtilt,hdtilt,1.0.0,,streamable-http,Free live TV guide (hdtilt.com)
+2026-11-11T13:10:57.67649Z,com.profullstack/hqtui-bbs,hqtui-bbs,1.0.0,,streamable-http,"HQTUI bulletin board: forums, topics, posts, search (bbs.hqtui.com)"
+2026-11-11T13:10:57.837557Z,com.profullstack/moshcode,moshcode,1.0.0,,streamable-http,Shared coding sessions + transcripts (app.moshcode.sh)
+2026-11-11T13:10:57.997178Z,com.profullstack/myna,myna,1.0.0,,streamable-http,Post to every social network (mynaposter.com)
+2026-11-11T13:10:58.183702Z,com.profullstack/nichedb,nichedb,1.0.0,,streamable-http,Real-time public data (nichedb.dev)
+2026-11-11T13:10:58.351927Z,com.profullstack/nixamp,nixamp,1.0.0,,streamable-http,Nixamp audio and video player library and playlists (nixamp.com)
+2026-11-11T13:10:58.520854Z,com.profullstack/obscura,obscura,1.0.0,,streamable-http,Stealth headless fetch (obscura.openmcp.logicsrc.com)
+2026-11-11T13:10:58.692617Z,com.profullstack/openaccess,openaccess,1.0.0,,streamable-http,Logicsrc OAuth grant hub (openaccess.logicsrc.com)
+2026-11-11T13:10:58.850006Z,com.profullstack/p0dcasters,p0dcasters,1.0.0,,streamable-http,Podcast directory (p0dcasters.com)
+2026-11-11T13:10:58.999555Z,com.profullstack/pairux,pairux,1.0.0,,streamable-http,Collaborative screen sharing and pairing sessions (pairux.com)
+2026-11-11T13:10:59.165634Z,com.profullstack/profullstack-mcp,profullstack-mcp,1.0.0,,streamable-http,"53 tools: domains, SEO, Lighthouse, WCAG, gov data, weather, QR (mcp.profullstack.com)"
+2026-11-11T13:10:59.339248Z,com.profullstack/pwamart,pwamart,1.0.0,,streamable-http,Web-app store (pwamart.com)
+2026-11-11T13:10:59.504221Z,com.profullstack/r4ck,r4ck,1.0.0,,streamable-http,Server/VPS/GPU offer search (r4ck.dev)
+2026-11-11T13:10:59.668664Z,com.profullstack/readm3,readm3,1.0.0,,streamable-http,Read any URL as markdown (readm3.com)
+2026-11-11T13:10:59.8566Z,com.profullstack/reeleel,reeleel,1.0.0,,streamable-http,Highlight reels cut from a whole game (reeleel.com)
+2026-11-11T13:11:00.010498Z,com.profullstack/rssamplifier,rssamplifier,1.0.0,,streamable-http,Small-web feed directory (rssamp.com)
+2026-11-11T13:11:00.169338Z,com.profullstack/search-peptides,search-peptides,1.0.0,,streamable-http,Peptide vendor/listing search (search.peptides.pit.world)
+2026-11-11T13:11:00.3388Z,com.profullstack/smshub,smshub,1.0.0,,streamable-http,"Rent numbers, receive SMS (smshub.dev)"
+2026-11-11T13:11:00.528638Z,com.profullstack/threatcrush,threatcrush,1.0.0,,streamable-http,Reputation + security findings (threatcrush.com)
+2026-11-11T13:11:00.798037Z,com.profullstack/tronbrowser,tronbrowser,1.0.0,,streamable-http,Obscura-then-Chromium fetch + screenshots (tronbrowser.dev)
+2026-11-11T13:11:00.973701Z,com.profullstack/ugig,ugig,1.0.0,,streamable-http,Gig marketplace (ugig.net)
+2026-11-11T13:11:01.136135Z,com.profullstack/vu1nz,vu1nz,1.0.0,,streamable-http,Vulnerability intel (vu1nz.com)
+2026-11-11T13:11:01.302926Z,com.profullstack/w3bs,w3bs,1.0.0,,streamable-http,W3BS packages (w3bs.org)
+2026-11-11T13:11:01.470632Z,com.profullstack/wx93,wx93,1.0.0,,streamable-http,URL shortener + QR (wx93.me)
+2026-11-11T13:11:18.341725Z,io.github.rushirb2001/cohors,cohors,0.7.0,https://github.com/rushirb2001/cohors,,"Every git repo you own as one fleet: status, search, tasks, and gated bulk actions."
+2026-11-11T13:11:37.584008Z,com.ananinja/customer,Ninja,1.0.0,,streamable-http,"Order groceries from Ninja in Saudi Arabia: search products, fill a basket, place and pay orders."
+2026-11-11T13:13:20.243419Z,studio.sohaai/sohaai,Sohaai,1.0.0,,streamable-http,"Make images, video and audio, lip-sync, dub, upscale, and see how your social posts perform."
+2026-11-11T13:14:48.143004Z,io.sip-it/sip,Sip.,0.2.0,,streamable-http,Discover and book wine tastings at 185 South African wine estates. Free for guests and wineries.
+2026-11-11T13:18:23.729347Z,work.thetoolshed/toolshed,ToolShed,1.0.0,,streamable-http,"A persistent workspace where your AI builds and runs automations, with an encrypted key vault."
+2026-11-11T13:18:47.932882Z,com.getridian/ridian,Ridian,1.0.0,,streamable-http,"Calendars, tasks, contacts, bookings and agent inboxes for your assistant. EU-hosted, OAuth."
+2026-11-11T13:18:48.715941Z,com.getridian/scheduling,Ridian Scheduling,1.0.0,,streamable-http,"Booking pages for your assistant: find slots, book, reschedule, cancel, time off and leads."
+2026-11-11T13:18:49.447428Z,com.getridian/agent-mailbox,Agent Mailbox by Ridian,1.0.0,,streamable-http,"Email inboxes for AI agents at ridianmail.com: read, draft, send, attachments. EU-hosted."
+2026-11-11T13:18:50.245432Z,com.getridian/calendar-feeds,Ridian Calendar Feeds,1.0.0,,streamable-http,"Publish subscribable calendars for Google, Outlook and Apple and keep them updated from chat."
