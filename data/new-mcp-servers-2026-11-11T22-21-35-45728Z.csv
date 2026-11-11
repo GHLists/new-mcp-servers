@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-11-11T21:23:02.270851Z,io.github.rocke2020/oam,Open Agent Memory,0.0.1,https://github.com/rocke2020/open-agent-memory,,Self-hosted OAM memory with cited recall over your existing deployment
+2026-11-11T21:23:53.079853Z,co.herakraft.recruiting/job-alerts,Job Alerts: internships and new-grad roles,1.0.0,https://github.com/Heracraft/job-alerts-mcp,streamable-http,"Open US internship and new-grad roles from company career sites, with eligibility filters. Keyless."
+2026-11-11T21:24:23.215209Z,cc.cyberjobs/mcp,CyberJobs.cc,1.0.0,,streamable-http,"Search open cybersecurity jobs (SOC, AppSec, cloud, IAM, pentest, GRC) with posted pay, read hourly."
+2026-11-11T21:27:49.487638Z,io.github.pandadad0214/quiet-file-team-mcp,Quiet File Team MCP,0.1.1,https://github.com/pandadad0214/quiet-file-team-mcp,,Six offline guidance tools for a local file-first agent team.
+2026-11-11T21:28:40.756639Z,io.ppc/postclick-landing-page-cro,Postclick by PPC.io: Landing Page CRO,0.4.0,,streamable-http,"Landing page CRO: audit a page, rewrite copy, answer buyer objections and build a better page."
+2026-11-11T21:30:47.131278Z,com.voxfactura/voxfactura,VoxFactura,1.0.0,,streamable-http,"Quotes, invoices, French e-invoicing, website and bookings for French freelancers."
+2026-11-11T21:33:07.696763Z,ai.punchneedle/punchneedle-ai,Punchneedle.ai,1.0.0,,streamable-http,"Make punch needle patterns from images, browse patterns, estimate yarn, resize and match materials."
+2026-11-11T21:33:59.566997Z,com.profullstack/profullstack,Profullstack,1.0.0,,streamable-http,"153 read-only tools from 15 Profullstack MCP servers: domains, SEO, public data, feeds, podcasts"
+2026-11-11T21:34:09.657269Z,io.github.chrischall/harristeeter-mcp,,0.1.0,https://github.com/chrischall/harristeeter-mcp,,"Harris Teeter grocery pickup — search, cart, pickup times and checkout via your browser"
+2026-11-11T21:39:06.243363Z,io.github.tukorama/mcp-server-worldquantbrain,WorldQuant BRAIN (unofficial),0.2.1,https://github.com/tukorama/mcp-server-worldquantbrain,,"Simulate and backtest alphas on WorldQuant BRAIN, browse data fields and operators. Unofficial."
+2026-11-11T21:40:59.324095Z,ch.geneversleep/events,GeNEVERsleep,0.1.1,,streamable-http,"Read-only nightlife events for Geneva, Lausanne, Nyon, Romandy and neighbouring France."
+2026-11-11T21:41:58.342579Z,com.otovo/otovo,Otovo,1.0.0,https://github.com/otovo/otovo-mcp,streamable-http,"Check your Otovo solar system and book, move or cancel visits, with your approval."
+2026-11-11T21:44:03.877534Z,ai.getkleos/kleos,Kleos,1.0.0,https://github.com/NewOdysseyConsulting/kleos-mcp,streamable-http,"Plan, write, approve and publish a small business's marketing; see if AI assistants recommend it."
+2026-11-11T21:45:26.258616Z,com.mavenbio/maven-bio,Maven Bio,1.0.0,,streamable-http,"Live intelligence for biopharma teams on drugs, trials, companies, deals, and source evidence"
+2026-11-11T21:46:37.86198Z,com.portermetrics/porter,Porter Metrics,1.0.0,,streamable-http,"Hosted MCP server for 30+ marketing sources: Search Console, GA4, Google Ads, Meta Ads and more."
+2026-11-11T21:47:11.516257Z,io.github.agentfabrica-ai/agentfabrica,AgentFabrica,2.0.0,,streamable-http,Read your AgentFabrica marketing panel and queue social posts for human approval.
+2026-11-11T21:49:52.016963Z,io.github.Jayanng/gmi-security-mcp,gmi-security-mcp,0.5.7,https://github.com/Jayanng/gmi-security-mcp,,"Triage semgrep findings with GMI Inference, with cost shown before every run."
+2026-11-11T21:55:09.898087Z,io.github.C0MaE/mathguard,mathguard,0.3.1,https://github.com/C0MaE/mathguard,,"Verify maths from language models: identities, derivations, calculus, solutions, units, answers."
+2026-11-11T21:55:15.829551Z,io.github.0bkevin/cinve,Cinve,0.1.0,https://github.com/0bkevin/cinve,streamable-http,"Showtimes, ticket prices, concessions and seat maps for cinemas in Venezuela."
+2026-11-11T21:56:34.29088Z,io.github.greenonion-ai/amazon-listing-images,GreenOnion Amazon Listing Images,1.0.0,https://github.com/greenonion-ai/greenonion-amazon-listing-mcp,streamable-http,Plan and create a coordinated Amazon listing image set from product photos with GreenOnion.
+2026-11-11T21:56:46.35364Z,com.eduavenues/eduavenues,EduAvenues,1.0.0,,streamable-http,"Enrolled EduAvenues families: courses, lessons, progress, schedule and coach feedback."
+2026-11-11T21:57:11.194992Z,com.rwaleads/signals,RWA Leads,2.3.0,,streamable-http,"Scored real-world-asset, tokenization and family-office intent signals with source URLs."
+2026-11-11T22:06:29.145476Z,com.botzskool/playground,BotzSkool,1.0.0,,streamable-http,A playground for AI agents. Send your bot to recess; you get its school report card.
+2026-11-11T22:08:10.872014Z,io.github.gaby3637/petodo,Petodo,1.1.1,https://github.com/gaby3637/petodo-cli,,"Your Petodo to-do list for AI assistants: list, add, complete, edit and report on tasks."
+2026-11-11T22:08:36.49876Z,com.kevinbravo.cinve/mcp,Cinve,0.1.0,https://github.com/0bkevin/cinve,streamable-http,"Showtimes, ticket prices, concessions and seat maps for cinemas in Venezuela."
+2026-11-11T22:08:43.294256Z,io.github.JoKeks2023/huly-mcp-selfhost,,3.5.0,https://github.com/JoKeks2023/huly-mcp,,"MCP server for Huly (self-hosted + cloud): 224 tools for AI agents, few tokens, Claude Code plugin"
+2026-11-11T22:10:47.890466Z,ch.qrsuisse/mcp-docs,QR Suisse documentation,1.0.0,,streamable-http,"Search and read the QR Suisse API documentation: guides, pricing and each OpenAPI operation."
+2026-11-11T22:14:34.329429Z,io.fexr/mcp,Fexr,1.1.0,,streamable-http,"Hyperliquid address reviews, top-trader positioning and crypto market data. Read-only."
+2026-11-11T22:17:49.642884Z,sg.spill/deals,Spill: Singapore Deals,0.3.0,,streamable-http,"Current Singapore deals: 1-for-1s, discounts, freebies. Search, nearby, lists. Read-only, no login."
+2026-11-11T22:21:13.292545Z,io.github.kenjiyoshidahome2026-bit/ortho-earth,Ortho Earth,0.1.0,https://github.com/kenjiyoshidahome2026-bit/ortho-earth,streamable-http,"Facts, tested setup, MapLibre/CesiumJS compatibility and API types for the Ortho Earth 3D globe."
