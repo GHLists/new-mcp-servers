@@ -1,0 +1,82 @@
+created_at,server,title,version,repository,transports,description
+2026-11-11T09:25:35.32817Z,io.airbridge.go/mcp,Airbridge GO,1.0.0,,streamable-http,"Read ad performance and create paused campaigns and creatives on Google, Meta, Apple Ads and TikTok."
+2026-11-11T09:25:54.465298Z,vn.eno/partner-api,eno.vn Partner API,1.0.0,,streamable-http,"Manage one storefront: listings, bulk catalogue sync, analytics and webhooks."
+2026-11-11T09:32:34.614285Z,io.github.yaroslavnas-hue/animal-slots-uk,Animal Slots UK,1.0.0,,streamable-http,"Game reviews for animal-slots.uk: list collections, search by name, open single game pages."
+2026-11-11T09:35:54.115559Z,com.salience/logs,Salience Logs,1.31.0,,streamable-http,"Server-log intelligence: which bots and AI crawlers read your site, and what your pages served."
+2026-11-11T09:39:35.973658Z,io.github.lynnnn928/deskpartner,DeskPartner,1.0.143,https://github.com/lynnnn928/deskpartner,,"Shared local kanban for your AI agents (69 MCP tools, 15 guardrails). Windows desktop app."
+2026-11-11T09:45:25.855324Z,uk.crash-slots/animal-slots-uk,Animal Slots UK,1.0.0,,streamable-http,"Game reviews for animal-slots.uk: list collections, search by name, open single game pages."
+2026-11-11T09:45:45.086419Z,uk.crash-slots/automaty-blik-pl,Automaty Blik PL,1.0.0,,streamable-http,automaty-blik.pl - independent reviews of online slots and crash games. Search and collections.
+2026-11-11T09:45:48.016127Z,uk.crash-slots/automaty-kasyno-pl,Automaty Kasyno PL,1.0.0,,streamable-http,"Game reviews for automaty-kasyno.pl: list collections, search by name, open single game pages."
+2026-11-11T09:45:50.835356Z,uk.crash-slots/automaty-neomezene-cz,Automaty Neomezene CZ,1.0.0,,streamable-http,automaty-neomezene.cz - independent reviews of online slots and crash games. Search and collections.
+2026-11-11T09:45:53.766472Z,uk.crash-slots/automaty-vyherne-sk,Automaty Vyherne SK,1.0.0,,streamable-http,automaty-vyherne.sk - independent reviews of online slots and crash games. Search and collections.
+2026-11-11T09:45:56.571256Z,uk.crash-slots/automatyvyherni-cz,Automatyvyherni CZ,1.0.0,,streamable-http,"Slot and crash game reviews from automatyvyherni.cz: collections, search and per-game pages."
+2026-11-11T09:45:59.521771Z,uk.crash-slots/automatyzdarma-81-cz,Automatyzdarma 81 CZ,1.0.0,,streamable-http,"Automatyzdarma 81 CZ: online slot & crash game reviews with collections, search and game pages."
+2026-11-11T09:46:02.343894Z,uk.crash-slots/automatyzdarma-81-si,Automatyzdarma 81 SI,1.0.0,,streamable-http,"Automatyzdarma 81 SI: online slot & crash game reviews with collections, search and game pages."
+2026-11-11T09:46:05.251447Z,uk.crash-slots/automatyzdarma-81-sk,Automatyzdarma 81 SK,1.0.0,,streamable-http,"Game reviews for automatyzdarma-81.sk: list collections, search by name, open single game pages."
+2026-11-11T09:46:08.067392Z,uk.crash-slots/best-online-slots-uk,Best Online Slots UK,1.0.0,,streamable-http,"Game reviews for best-online-slots.uk: list collections, search by name, open single game pages."
+2026-11-11T09:46:11.001964Z,uk.crash-slots/best-payout-slots-uk,Best Payout Slots UK,1.0.0,,streamable-http,"Slot and crash game reviews from best-payout-slots.uk: collections, search and per-game pages."
+2026-11-11T09:46:13.834918Z,uk.crash-slots/bonus-buy-slots-se,Bonus Buy Slots SE,1.0.0,,streamable-http,"Bonus Buy Slots SE review data: slots and crash games, themed collections and per-game pages."
+2026-11-11T09:46:16.75315Z,uk.crash-slots/bonus-buy-slots-uk,Bonus Buy Slots UK,1.0.0,,streamable-http,bonus-buy-slots.uk - independent reviews of online slots and crash games. Search and collections.
+2026-11-11T09:46:19.564521Z,uk.crash-slots/casino-slots-games-co-uk,Casino Slots Games UK,1.0.0,,streamable-http,"Slot and crash game reviews from casino-slots-games.co.uk: collections, search and per-game pages."
+2026-11-11T09:46:22.500984Z,uk.crash-slots/crash-games-co-za,Crash Games ZA,1.0.0,,streamable-http,"Slot and crash game reviews from crash-games.co.za: collections, search and per-game pages."
+2026-11-11T09:46:25.325776Z,uk.crash-slots/crash-slots-uk,Crash Slots UK,1.0.0,,streamable-http,"Game reviews for crash-slots.uk: list collections, search by name, open single game pages."
+2026-11-11T09:46:28.27438Z,uk.crash-slots/crashgames-casino-at,Crashgames Casino AT,1.0.0,,streamable-http,"Game reviews for crashgames-casino.at: list collections, search by name, open single game pages."
+2026-11-11T09:46:31.119657Z,uk.crash-slots/demo-froutakia-gr,Demo Froutakia GR,1.0.0,,streamable-http,"Slot and crash game reviews from demo-froutakia.gr: collections, search and per-game pages."
+2026-11-11T09:46:34.029628Z,uk.crash-slots/egyptian-slots-uk,Egyptian Slots UK,1.0.0,,streamable-http,"Slot and crash game reviews from egyptian-slots.uk: collections, search and per-game pages."
+2026-11-11T09:46:36.832227Z,uk.crash-slots/eksperci-slotow-pl,Eksperci Slotow PL,1.0.0,,streamable-http,"Eksperci Slotow PL review data: slots and crash games, themed collections and per-game pages."
+2026-11-11T09:46:39.757601Z,uk.crash-slots/expertmachineasous-fr,Expertmachineasous FR,1.0.0,,streamable-http,"Expertmachineasous FR review data: slots and crash games, themed collections and per-game pages."
+2026-11-11T09:46:42.567336Z,uk.crash-slots/expertpacanele-ro,Expertpacanele RO,1.0.0,,streamable-http,expertpacanele.ro - independent reviews of online slots and crash games. Search and collections.
+2026-11-11T09:46:45.479646Z,uk.crash-slots/fruit-slots-uk,Fruit Slots UK,1.0.0,,streamable-http,fruit-slots.uk - independent reviews of online slots and crash games. Search and collections.
+2026-11-11T09:46:48.287511Z,uk.crash-slots/fun-slots-uk,Fun Slots UK,1.0.0,,streamable-http,fun-slots.uk - independent reviews of online slots and crash games. Search and collections.
+2026-11-11T09:46:51.192405Z,uk.crash-slots/gratis-pacanele-ro,Gratis Pacanele RO,1.0.0,,streamable-http,"Gratis Pacanele RO: online slot & crash game reviews with collections, search and game pages."
+2026-11-11T09:46:54.004847Z,uk.crash-slots/guide-machineasous-fr,Guide Machineasous FR,1.0.0,,streamable-http,"Guide Machineasous FR review data: slots and crash games, themed collections and per-game pages."
+2026-11-11T09:46:56.954471Z,uk.crash-slots/igralni-avtomati-si,Igralni Avtomati SI,1.0.0,,streamable-http,"Igralni Avtomati SI review data: slots and crash games, themed collections and per-game pages."
+2026-11-11T09:46:59.784933Z,uk.crash-slots/kasyno-automaty-pl,Kasyno Automaty PL,1.0.0,,streamable-http,kasyno-automaty.pl - independent reviews of online slots and crash games. Search and collections.
+2026-11-11T09:47:02.724151Z,uk.crash-slots/klasicke-automaty-cz,Klasicke Automaty CZ,1.0.0,,streamable-http,klasicke-automaty.cz - independent reviews of online slots and crash games. Search and collections.
+2026-11-11T09:47:05.534969Z,uk.crash-slots/klassieke-gokkasten-nl,Klassieke Gokkasten NL,1.0.0,,streamable-http,"Slot and crash game reviews from klassieke-gokkasten.nl: collections, search and per-game pages."
+2026-11-11T09:47:08.457259Z,uk.crash-slots/lecrashgame-fr,Lecrashgame FR,1.0.0,,streamable-http,"Lecrashgame FR review data: slots and crash games, themed collections and per-game pages."
+2026-11-11T09:47:12.052918Z,uk.crash-slots/medium-volatility-slots-uk,Medium Volatility Slots UK,1.0.0,,streamable-http,"Slot and crash game reviews from medium-volatility-slots.uk: collections, search and per-game pages."
+2026-11-11T09:47:14.980009Z,uk.crash-slots/megaways-slots-uk,Megaways Slots UK,1.0.0,,streamable-http,"Game reviews for megaways-slots.uk: list collections, search by name, open single game pages."
+2026-11-11T09:47:17.803937Z,uk.crash-slots/mindep-slots-uk,Mindep Slots UK,1.0.0,,streamable-http,"Mindep Slots UK review data: slots and crash games, themed collections and per-game pages."
+2026-11-11T09:47:20.715175Z,uk.crash-slots/new-slotgames-uk,New Slotgames UK,1.0.0,,streamable-http,"New Slotgames UK: online slot & crash game reviews with collections, search and game pages."
+2026-11-11T09:47:23.61234Z,uk.crash-slots/non-uk-slots-uk,Non Uk Slots UK,1.0.0,,streamable-http,"Game reviews for non-uk-slots.uk: list collections, search by name, open single game pages."
+2026-11-11T09:47:26.52607Z,uk.crash-slots/nongamstop-slots-uk,Nongamstop Slots UK,1.0.0,,streamable-http,"Slot and crash game reviews from nongamstop-slots.uk: collections, search and per-game pages."
+2026-11-11T09:47:29.349396Z,uk.crash-slots/nove-automaty-cz,Nove Automaty CZ,1.0.0,,streamable-http,"Nove Automaty CZ review data: slots and crash games, themed collections and per-game pages."
+2026-11-11T09:47:32.2809Z,uk.crash-slots/nove-automaty-sk,Nove Automaty SK,1.0.0,,streamable-http,"Game reviews for nove-automaty.sk: list collections, search by name, open single game pages."
+2026-11-11T09:47:35.248952Z,uk.crash-slots/nowe-sloty-pl,Nowe Sloty PL,1.0.0,,streamable-http,"Slot and crash game reviews from nowe-sloty.pl: collections, search and per-game pages."
+2026-11-11T09:47:38.16165Z,uk.crash-slots/nya-slots-se,Nya Slots SE,1.0.0,,streamable-http,nya-slots.se - independent reviews of online slots and crash games. Search and collections.
+2026-11-11T09:47:40.990277Z,uk.crash-slots/ovocne-automaty-cz,Ovocne Automaty CZ,1.0.0,,streamable-http,"Slot and crash game reviews from ovocne-automaty.cz: collections, search and per-game pages."
+2026-11-11T09:47:43.97092Z,uk.crash-slots/owocowe-automaty-pl,Owocowe Automaty PL,1.0.0,,streamable-http,"Game reviews for owocowe-automaty.pl: list collections, search by name, open single game pages."
+2026-11-11T09:47:46.799488Z,uk.crash-slots/pacanele-capsuni-ro,Pacanele Capsuni RO,1.0.0,,streamable-http,"Pacanele Capsuni RO review data: slots and crash games, themed collections and per-game pages."
+2026-11-11T09:47:49.751104Z,uk.crash-slots/pacanele-clopotei-ro,Pacanele Clopotei RO,1.0.0,,streamable-http,"Slot and crash game reviews from pacanele-clopotei.ro: collections, search and per-game pages."
+2026-11-11T09:47:52.570762Z,uk.crash-slots/pacanele-coroane-ro,Pacanele Coroane RO,1.0.0,,streamable-http,"Slot and crash game reviews from pacanele-coroane.ro: collections, search and per-game pages."
+2026-11-11T09:47:55.499044Z,uk.crash-slots/pacanele-fructe-ro,Pacanele Fructe RO,1.0.0,,streamable-http,pacanele-fructe.ro - independent reviews of online slots and crash games. Search and collections.
+2026-11-11T09:47:58.334287Z,uk.crash-slots/razor-slots-de,Razor Slots DE,1.0.0,,streamable-http,"Razor Slots DE: online slot & crash game reviews with collections, search and game pages."
+2026-11-11T09:48:02.271789Z,uk.crash-slots/retro-spielautomat-at,Retro Spielautomat AT,1.0.0,,streamable-http,"Slot and crash game reviews from retro-spielautomat.at: collections, search and per-game pages."
+2026-11-11T09:48:05.072003Z,uk.crash-slots/scatter-slots-uk,Scatter Slots UK,1.0.0,,streamable-http,scatter-slots.uk - independent reviews of online slots and crash games. Search and collections.
+2026-11-11T09:48:07.977883Z,uk.crash-slots/schweiz-spielautomaten-ch,Schweiz Spielautomaten CH,1.0.0,,streamable-http,"Schweiz Spielautomaten CH review data: slots and crash games, themed collections and per-game pages."
+2026-11-11T09:48:10.78054Z,uk.crash-slots/slots-chinois-fr,Slots Chinois FR,1.0.0,,streamable-http,"Slots Chinois FR: online slot & crash game reviews with collections, search and game pages."
+2026-11-11T09:48:13.705443Z,uk.crash-slots/slots-diamant-fr,Slots Diamant FR,1.0.0,,streamable-http,"Game reviews for slots-diamant.fr: list collections, search by name, open single game pages."
+2026-11-11T09:48:16.526305Z,uk.crash-slots/slots-fruits-fr,Slots Fruits FR,1.0.0,,streamable-http,"Slots Fruits FR review data: slots and crash games, themed collections and per-game pages."
+2026-11-11T09:48:19.432202Z,uk.crash-slots/slots-oesterreich-at,Slots Oesterreich AT,1.0.0,,streamable-http,slots-oesterreich.at - independent reviews of online slots and crash games. Search and collections.
+2026-11-11T09:48:22.250195Z,uk.crash-slots/slots-selbstsperre-at,Slots Selbstsperre AT,1.0.0,,streamable-http,"Slots Selbstsperre AT: online slot & crash game reviews with collections, search and game pages."
+2026-11-11T09:48:25.174296Z,uk.crash-slots/slots-utan-licens-se,Slots Utan Licens SE,1.0.0,,streamable-http,slots-utan-licens.se - independent reviews of online slots and crash games. Search and collections.
+2026-11-11T09:48:27.97748Z,uk.crash-slots/spela-slots-se,Spela Slots SE,1.0.0,,streamable-http,"Spela Slots SE: online slot & crash game reviews with collections, search and game pages."
+2026-11-11T09:48:30.941944Z,uk.crash-slots/spielautomat-online-at,Spielautomat Online AT,1.0.0,,streamable-http,"Spielautomat Online AT: online slot & crash game reviews with collections, search and game pages."
+2026-11-11T09:48:33.762792Z,uk.crash-slots/top-slots-fr,Top Slots FR,1.0.0,,streamable-http,"Top Slots FR: online slot & crash game reviews with collections, search and game pages."
+2026-11-11T09:48:36.679596Z,uk.crash-slots/top-sloty-pl,Top Sloty PL,1.0.0,,streamable-http,"Top Sloty PL: online slot & crash game reviews with collections, search and game pages."
+2026-11-11T09:48:39.492452Z,uk.crash-slots/tragamonedas-online-com-mx,Tragamonedas Online MX,1.0.0,,streamable-http,"Tragamonedas Online MX review data: slots and crash games, themed collections and per-game pages."
+2026-11-11T09:48:42.394744Z,uk.crash-slots/tragaperras-antiguas-es,Tragaperras Antiguas ES,1.0.0,,streamable-http,"Game reviews for tragaperras-antiguas.es: list collections, search by name, open single game pages."
+2026-11-11T09:48:45.352266Z,uk.crash-slots/tragaperras-debar-es,Tragaperras Debar ES,1.0.0,,streamable-http,"Tragaperras Debar ES review data: slots and crash games, themed collections and per-game pages."
+2026-11-11T09:48:48.287081Z,uk.crash-slots/tragaperras-espanolas-es,Tragaperras Espanolas ES,1.0.0,,streamable-http,"Tragaperras Espanolas ES review data: slots and crash games, themed collections and per-game pages."
+2026-11-11T09:48:51.103497Z,uk.crash-slots/valcove-automaty-sk,Valcove Automaty SK,1.0.0,,streamable-http,"Game reviews for valcove-automaty.sk: list collections, search by name, open single game pages."
+2026-11-11T09:48:54.017357Z,uk.crash-slots/zdarma-automaty-cz,Zdarma Automaty CZ,1.0.0,,streamable-http,zdarma-automaty.cz - independent reviews of online slots and crash games. Search and collections.
+2026-11-11T09:48:56.819247Z,uk.crash-slots/zdarmaautomaty-sk,Zdarmaautomaty SK,1.0.0,,streamable-http,"Zdarmaautomaty SK review data: slots and crash games, themed collections and per-game pages."
+2026-11-11T09:49:29.251467Z,com.recalibratepain.www/recalibrate,Recalibrate,2.0.0,,streamable-http,"Pacing, flare plans, calm exercises, pain science lessons and doctor summaries for chronic pain."
+2026-11-11T09:55:02.931044Z,io.github.soba-labs/krs-mcp,,0.1.0,https://github.com/soba-labs/krs-mcp,,"Polish KRS company register: search by name, KRS, NIP or REGON and fetch official extracts."
+2026-11-11T09:59:35.127177Z,com.keywordspeopleuse/keyword-research,KeywordsPeopleUse,1.0.0,https://github.com/data-skunks/kpu-mcp,streamable-http; sse,"Keyword research: Google People Also Ask, Autocomplete, Reddit/Quora questions, semantic keywords."
+2026-11-11T10:05:14.474414Z,com.kurodyne/catalog,Kurodyne Catalog,1.0.0,,streamable-http,Search Kurodyne's Catalog of digital products.
+2026-11-11T10:07:16.641797Z,com.sharelint/sharelint,Sharelint,1.0.0,,streamable-http,"Check link previews in 12 apps, AI visibility for ChatGPT, Claude, Perplexity, and app links."
+2026-11-11T10:09:43.519562Z,ai.decimal/registry,DecimalAI Skills Registry,0.1.5,https://github.com/decimal-labs/decimalai-mcp,,"Search agent skills ranked by measured lift vs a no-skill baseline, with safety and rankings."
+2026-11-11T10:11:32.501616Z,es.gasoliguapis/fuel-prices,Gasoliguapis,1.0.0,https://github.com/no3z/gasoliguapis,streamable-http,"Spanish MITECO fuel prices with dates and links: LPG, AdBlue, petrol 95 and diesel."
+2026-11-11T10:19:32.79194Z,com.moonappz/moon-bundles,Moon Bundles,1.0.0,,streamable-http,"Create, edit and A/B test Shopify bundles, cart drawer and post-purchase upsells."
