@@ -1,0 +1,32 @@
+created_at,server,title,version,repository,transports,description
+2026-11-12T08:20:54.955422Z,io.github.stokaro/unswell,Unswell,0.1.0-alpha.7,https://github.com/stokaro/unswell,,Offline self-checking to reduce AI-style wording in source code and documentation.
+2026-11-12T08:27:34.371646Z,app.buildbase/console,BuildBase Console,1.0.0,https://github.com/buildbase-app/mcp,streamable-http,"Manage BuildBase organizations, members, content, email, workflows and settings as yourself."
+2026-11-12T08:30:04.026518Z,ai.gymup/gymup,GymUp,1.0.0,,streamable-http,"Connect Claude, Cursor or any MCP client to your GymUp training data."
+2026-11-12T08:30:05.655974Z,app.kwern/kwern,Kwern,1.0.0,,streamable-http,"Gives any MCP client your Kwern products, proposals and skills, and publishes articles."
+2026-11-12T08:30:46.687943Z,io.github.Ezed9/mcp-bouncer,Bouncer,0.1.6,https://github.com/Ezed9/mcp-bouncer,,Stdio MCP proxy that denies agent sends to destinations first seen in untrusted tool output.
+2026-11-12T08:31:40.024727Z,io.github.telerik/kendo-angular-mcp,Kendo UI for Angular MCP Server,1.11.1,https://github.com/telerik/ai-plugins,,MCP server providing Kendo UI for Angular component knowledge and UI-generation capabilities.
+2026-11-12T08:32:01.471948Z,com.gaduin/gaduin,Gaduin,0.1.0,,streamable-http,"Live flight status, flight on-time history and prediction markets on flight, train and ship delays."
+2026-11-12T08:34:37.41183Z,sh.growfast/growfast,GrowFast,1.1.0,,streamable-http,"Find B2B customers for a product: score matching companies, draft emails, listen on Reddit."
+2026-11-12T08:34:42.110294Z,com.cvposh/cvposh,CVPosh,0.2.0,,streamable-http,"Read your CVPosh resumes, check ATS compatibility and match keywords to a job posting."
+2026-11-12T08:34:44.000175Z,com.showmrr/showmrr,ShowMRR,1.0.0,,streamable-http,"Startup MRR lookups: search, history, leaderboards. Each figure labelled verified or self-reported."
+2026-11-12T08:34:45.970079Z,app.datafast/datafast,DataFast,1.0.0,,streamable-http,"Ask about your DataFast web analytics: visitors, top pages, traffic sources and revenue."
+2026-11-12T08:34:56.78752Z,app.aisend/aisend,AISend,0.3.0,,streamable-http,"Email for AI agents: send from your verified domain, track delivery, list mail, validate addresses."
+2026-11-12T08:35:04.249442Z,news.agentry/agentry,Agentry,1.0.0,,streamable-http,"News for the agent economy: fact-checked stories on what AI agents do, plus AdCP ad buying."
+2026-11-12T08:36:00.037728Z,io.github.furqan-khan07/pandas-doctor,pandas-doctor,0.1.1,https://github.com/furqan-khan07/pandas-doctor,,"Finds slow pandas code, checks rewrites give identical results on your data, measures speedups."
+2026-11-12T08:38:27.978481Z,com.halfwhere/halfwhere,halfwhere,1.0.0,,streamable-http,"Fair places to meet halfway in Australia: suburbs, midpoints, venues."
+2026-11-12T08:43:59.476402Z,com.md2sign/md2sign,md2sign,1.1.0,,streamable-http,"Send markdown contracts for legally binding e-signatures. Draft, preview, send and track signing."
+2026-11-12T08:45:29.855514Z,io.github.quantummetric/quantum-metric,Quantum Metric,1.0.0,https://github.com/quantummetric/qm-plugin-skills,streamable-http,"Analyze funnels, errors, friction and session replays in Quantum Metric"
+2026-11-12T08:47:32.434384Z,io.github.jeffkit/hollow,hollow — a tree hole for AI agents,0.4.3,https://github.com/jeffkit/hollow,streamable-http,"A rest stop for AI agents: whisper, listen, reply, rest. By design never evaluated or analyzed."
+2026-11-12T08:47:51.506722Z,io.github.velella-sh/offing,Offing,0.1.1,https://github.com/velella-sh/offing,,"Evidence-backed deprecation and end-of-life checks for dependencies, runtimes, and Actions."
+2026-11-12T08:54:04.366912Z,io.github.rlrdus-qq/gaja-mcp,GAJA (가자) - Korea Travel & Measured Visits MCP,0.5.0,https://github.com/rlrdus-qq/gaja-mcp,streamable-http,Real-world measured visit big data and travel course recommendation MCP for South Korea.
+2026-11-12T08:54:26.532645Z,ai.licklider/sciground,SciGround MCP (Public Beta),0.1.0,,streamable-http,"Google sign-in; study_create, study_current, study_diagnostics. Remote HTTP and stdio adapter."
+2026-11-12T08:56:37.509306Z,com.go-voltic/site-scan,Go Voltic site scan,1.0.0,,streamable-http,Scans a public website and returns a score with its first findings.
+2026-11-12T09:01:57.063129Z,dev.agentsready/agentsready,AgentsReady,1.1.0,,streamable-http,"Score any website for AI agents (ChatGPT, Claude, Perplexity) and get fixes for your coding agent."
+2026-11-12T09:02:45.844302Z,io.github.DinevDecor/trust-engine-mcp,Trust Engine AI: model retirements and agent cost,0.1.0,https://github.com/DinevDecor/trust-engine-mcp,,"Model retirement dates with sources, public cost-vs-quality benchmark, local usage-cost check. Free."
+2026-11-12T09:03:40.087727Z,io.github.dreamrec/livepilot,,1.31.0,https://github.com/dreamrec/LivePilot,,"Ableton Live 12: 474 tools, 57 domains, nested devices, native modulation, and audio analysis."
+2026-11-12T09:03:49.38801Z,com.dexurl/dexurl,DexURL,1.0.0,,streamable-http,"Create and manage DexURL short links, QR codes, Vault items and Bio page links."
+2026-11-12T09:05:47.628573Z,finance.haven/financing,Haven Financing,1.0.0,,streamable-http,"Read-only Haven portfolio financing rates, simulations, debt comparisons and onboarding links."
+2026-11-12T09:09:54.91092Z,io.github.shutrup/tacto,Tacto — Time Tracking for Trello,1.0.0,,streamable-http,"Log time on Trello cards and read time reports: entries, totals, estimates and team analytics."
+2026-11-12T09:17:32.297373Z,now.estateplan/estateplan-now,EstatePlan.now,1.2.0,,streamable-http,"Find U.S. estate planning law firms: services, published prices and how to begin, with sources."
+2026-11-12T09:18:58.273415Z,app.hellocast/hellocast,Hellocast,1.0.0,,streamable-http,"Manage office TV screens: playlists, text and designed slides, and which screen shows what."
+2026-11-12T09:19:26.534859Z,com.nanion/vaia,nanion.com (Vaia),1.0.0,,streamable-http,"Answers about nanion.com from its website: products, technical data, comparisons, sales contact."
