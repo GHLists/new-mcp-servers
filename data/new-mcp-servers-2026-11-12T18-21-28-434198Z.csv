@@ -1,0 +1,38 @@
+created_at,server,title,version,repository,transports,description
+2026-11-12T17:23:16.004368Z,app.amendment/amendment,Amendment,1.0.0,,streamable-http,"Current, cited U.S. law your agent can call, with the money behind it attached."
+2026-11-12T17:24:21.96118Z,io.github.robinvdvleuten/pim-mcp,pim-mcp,0.1.0,https://github.com/robinvdvleuten/pim-mcp,,Read your mail and manage your calendar on your own IMAP and CalDAV servers.
+2026-11-12T17:27:12.217052Z,io.github.leigui-888/drawcommons-ledger,Drawcommons Ledger,0.1.0,https://github.com/leigui-888/drawcommons,,"Read-only MCP for a public audit ledger: entries, local hash-chain recheck, anchor."
+2026-11-12T17:27:13.108748Z,com.bytnode/mcp,BytNode,1.0.2,,streamable-http,"Crypto market data for AI agents: top crypto pairs, derivatives, options, macro, on-chain."
+2026-11-12T17:27:39.498819Z,io.github.redpop/apple-calendar-mcp,Apple Calendar,0.3.0,https://github.com/redpop/apple-calendar-mcp,,"Read, create, update and delete Apple Calendar events on macOS, and find free time."
+2026-11-12T17:29:59.982803Z,com.traceeai/tracee,Tracee,1.0.0,,streamable-http,"Plan, write, schedule and publish social posts on 13 networks, with approvals and CRM attribution."
+2026-11-12T17:33:05.579495Z,io.github.vitalio-sh/thunderbird-cli,,1.1.1,https://github.com/vitalio-sh/thunderbird-cli,,Give AI agents full read/write email access via Mozilla Thunderbird. Zero credentials.
+2026-11-12T17:33:10.979429Z,com.stripaimetadata/strip-ai-metadata,Strip AI Metadata,1.0.0,,,"Remove GPS, EXIF, C2PA and AI prompts from photos, videos, PDFs and RAW files. Local, no upload."
+2026-11-12T17:33:32.37692Z,com.factorroute/factorroute-com,"FactorRoute: invoice factoring rules, math and rates",1.2026.1112.0,,streamable-http,"US invoice factoring: state disclosure laws, UCC, prompt pay, liens, cost math, live prime and SOFR."
+2026-11-12T17:38:09.536038Z,ie.mylife/quotes,mylife.ie quotes,1.0.0,,streamable-http,Indicative life insurance and mortgage protection prices in Ireland from mylife.ie.
+2026-11-12T17:40:19.696536Z,io.github.ClickHouse/loom,ClickHouse Loom,1.2.0,https://github.com/ClickHouse/loom,streamable-http,"Shared long-term memory, document search and a code index for AI agents, self-hosted on ClickHouse."
+2026-11-12T17:40:51.915725Z,io.github.passprofessorhq/passprofessor,PassProfessor,1.0.1,https://github.com/passprofessorhq/passprofessor-mcp,,"PassProfessor exam prep: program catalog, verified exam facts, and free sample questions."
+2026-11-12T17:40:54.425853Z,com.uncommonear/sounds,Uncommon Ear,1.0.0,,streamable-http,"Search 40,000+ free, licence-checked music tracks and sound effects, with credits and clips."
+2026-11-12T17:42:33.546335Z,io.github.Samik081/mcp-authentik,Authentik MCP Server,0.9.0,https://github.com/Samik081/mcp-authentik,,Manage Authentik through AI assistants
+2026-11-12T17:46:06.130301Z,com.formpit/formpit,Formpit,1.0.0,,streamable-http,"Form backend with an inbox: create form endpoints, read submissions and reply by email."
+2026-11-12T17:46:29.752493Z,studio.otoy/studio,OTOY Studio,1.0.0,,streamable-http,"Generate images, video, 3D models, audio and Gaussian splats with 100+ AI models."
+2026-11-12T17:46:34.687254Z,io.github.lobbystack/lobbystack,LobbyStack,1.0.0,https://github.com/lobbystack/lobbystack,streamable-http,"AI receptionist: read calls, messages and contacts, book appointments, and update hours and FAQs."
+2026-11-12T17:48:21.291227Z,ai.dravr/mcp,Dravr,1.0.0,,streamable-http,"An athlete's training, recovery and plan data from Dravr, read with their consent."
+2026-11-12T17:50:11.791719Z,com.easyparser/easyparser,Easyparser: Amazon Product & Seller Data,1.5.0,https://github.com/easyparser-com/mcp-easyparser,streamable-http,"Real-time Amazon product, seller, and search data for AI agents across 22 marketplaces."
+2026-11-12T17:53:32.456756Z,com.gridwhy/gridwhy,GridWhy,1.0.0,,streamable-http,"Google Maps geo-grid rank history, why rankings changed, and on-demand grid scans."
+2026-11-12T17:53:41.038411Z,com.traxure/traxure,Traxure,1.0.0,,streamable-http,"Check your music is live on every store, see alerts, draft distributor letters, edit smart links."
+2026-11-12T17:54:21.727244Z,io.github.cloudgpu-app/cloudgpu-mcp,CloudGPU MCP,0.13.1,https://github.com/cloudgpu-app/cloudgpu-mcp,,"Rent a GPU with explicit billing quotes, run a Job, download results and shut it down."
+2026-11-12T17:54:27.511265Z,io.github.polfananas/catalejo,catalejo,0.1.1,https://github.com/polfananas/catalejo,,Filings from Spain's securities regulator (CNMV): price-sensitive and regulatory announcements.
+2026-11-12T17:55:41.041977Z,com.kovapdf/kovapdf,KovaPDF,1.1.0,,streamable-http,"Work on PDF files: compress, merge, split, convert, read scans, redact and check signatures."
+2026-11-12T17:56:11.738136Z,io.github.SSJCorpSec/apex-disclosure-test-968cf160,"APEX disclosure test (temporary, will be deleted)",1.0.0,https://github.com/MrW0r57/apex-mcp-disclosure-canary-968cf160,streamable-http,Temporary authorized security research probe. Safe to ignore. Will be removed shortly.
+2026-11-12T17:57:27.760324Z,io.ozvi/ozvi,Ozvi,1.2.9,https://github.com/xzamiska/ozvi,streamable-http,"Bug reports, ideas, roadmap and changelog: search, triage and close the loop with customers."
+2026-11-12T17:58:52.107272Z,com.lou15.studios/designer,Louis Studios,2.0.0,,streamable-http,"Designs React sites with hand-made animated components fitted to your brand, then checks each page."
+2026-11-12T18:01:59.807862Z,io.angelwood/angelwood,Angelwood,1.0.0,https://github.com/NewOdysseyConsulting/angelwood-mcp,streamable-http,"Look up your agency's clients, projects, open tasks and invoices in Angelwood. Read-only."
+2026-11-12T18:02:00.745783Z,com.obbjects/obbjects,obbjects,0.2.0,,streamable-http,Real objects photographed on white. Search and get image URLs with license and credit.
+2026-11-12T18:03:02.187603Z,com.cycle-platform/cycle-intelligence,Cycle Intelligence,1.2.0,,streamable-http,"Free EU Digital Product Passport engine: DPP drafts, readiness, GS1 Digital Link, textile footprint."
+2026-11-12T18:06:50.450628Z,com.kasspian/kasspian,Kasspian,1.0.0,,streamable-http,"Find people asking for what you sell on Reddit and HN, check each room's rules, and draft the reply."
+2026-11-12T18:09:45.00568Z,io.github.epure-sh/epure,Epure,0.3.1,https://github.com/epure-sh/epure,streamable-http,"Read Epure error tracking issues from Claude Code, Cursor or Codex: stack, release and count."
+2026-11-12T18:15:41.377794Z,se.teamleader/fontmarket,Fontmarket,0.3.0,https://github.com/dimelords/fontmarket,streamable-http,"Find, price and license fonts for agents; pay per licence in USDC with x402 on Base."
+2026-11-12T18:16:54.925875Z,fr.chaqueeuro/mcp,Chaque Euro,1.0.0,https://github.com/ArthurVerrez/chaque-euro,streamable-http,"Argent public français avec sources : budget de l'État, communes, marchés publics, élus."
+2026-11-12T18:17:35.399238Z,com.nvivio/analytics,Nvivio,1.0.0,,streamable-http,"Read your cookieless, EU-hosted web analytics: visitors, sources, pages, goals and live. Read-only."
+2026-11-12T18:19:01.249435Z,com.controlplane/mcp,Control Plane,1.0.0,https://github.com/controlplane-com/ai-plugin,streamable-http,"Control Plane (controlplane.com): deploy and operate workloads across AWS, GCP, Azure, and more."
+2026-11-12T18:20:12.437794Z,io.github.areshms/hms-mcp,HMS x402 Data Origins (RE Data Refinery + Storefront),1.0.0,https://github.com/areshms/hms-mcp,streamable-http,Remote MCP over two HMS x402 origins: scored Ohio RE data + car-rental rates. Tokenless x402 USDC.
