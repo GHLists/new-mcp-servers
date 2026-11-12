@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-11-12T22:24:33.501172Z,app.askposeidon/poseidon,Poseidon,1.2.0,,streamable-http,"Winning e-commerce ads from the Meta Ad Library: Meta's EU reach, country/age/gender split, scripts."
+2026-11-12T22:24:58.778083Z,com.grain64.leaklens/leaklens,,1.0.0,,streamable-http,"Check coding-benchmark tasks for leaked fixes: per-task tier, quote and fix-commit date."
+2026-11-12T22:28:18.515949Z,com.nostairsplease/mcp,No Stairs Please,1.0.0,,streamable-http,"Live music venue directory with booking contacts, capacities, and tour routing across 50 states."
+2026-11-12T22:29:22.077006Z,ai.govisit/govisit-mcp,GoVisit MCP Server,1.0.0,,streamable-http,"Search GoVisit destinations and places, and read published travel and developer documentation."
+2026-11-12T22:30:17.935288Z,com.hoyplanes/hoy-planes,Hoy Planes,1.0.0,,streamable-http,"What's on in 12 Spanish provinces: concerts, theatre and free events by date, price and distance"
+2026-11-12T22:30:18.933822Z,com.glucobeat/glucobeat,GlucoBeat,1.0.0,,streamable-http,"Log glucose, meals, exercise and sleep in your GlucoBeat diary by chat, and look up your own data"
+2026-11-12T22:37:58.735336Z,ai.buhalteris/mcp,Buhalteris.ai,1.0.0,https://github.com/KalnuErelis/mb-buhalteris-ai,streamable-http,"Read-only Lithuanian tax rates, calculators and sourced guides from buhalteris.ai."
+2026-11-12T22:52:31.999711Z,ai.kottos/account,Kottos AI Account,0.5.0,,streamable-http,"Create and connect a Kottos AI gateway account from an agent, then see its usage and costs"
+2026-11-12T22:52:56.152337Z,io.github.Fan-Pier-Labs/openrecord,OpenRecord — MyChart for Claude,2.3.0,https://github.com/Fan-Pier-Labs/openrecord,,"Read and manage your Epic MyChart records: labs, meds, imaging, notes, messages, refills."
+2026-11-12T22:53:05.214068Z,io.github.rtmandreyev/construct,Construct,1.3.1,https://github.com/rtmandreyev/construct,,"Checks an agent's part-by-part description of a thing and builds it as glTF, OBJ, 3MF or STL."
+2026-11-12T22:53:58.502857Z,ai.chronary/mcp,Chronary,1.6.0,https://github.com/Chronary/chronary-mcp,streamable-http,"Calendar API for AI agents: events, availability, Google/Microsoft setup, scheduling, and iCal."
+2026-11-12T23:01:46.202989Z,io.github.tapirro/orivale-agent-mcp,Orivale Agent Intelligence,1.3.0,https://github.com/tapirro/orivale-agent-mcp,streamable-http,"Clean RAG Markdown, B2B domain enrichment, Shopify intel, and Base audits via x402 or free tier."
+2026-11-12T23:02:15.873344Z,pl.cityon/mcp,cityon.pl,0.1.0,,streamable-http,"Polish local businesses, opening hours, real estate and apartment prices from cityon.pl"
+2026-11-12T23:06:20.091356Z,one.brana/brana,Brana,1.0.0,,streamable-http,Search and manage your team's knowledge from MCP clients.
+2026-11-12T23:07:21.407637Z,io.github.Garitalab5/garita-mcp,Garita MCP,1.0.0,https://github.com/Garitalab5/garita-mcp-server,streamable-http,30 security tools + the Vigia agent to audit MCP servers before you connect.
+2026-11-12T23:08:48.368637Z,io.github.AnshumanAtrey/global-job-search-api,"Global Job Search API - Remote Jobs, All-in-One, 18 Job Boards",1.0.7,https://github.com/AnshumanAtrey/global-job-search-api,streamable-http,"Global Job Search API for All Job Boards, Remote"
+2026-11-12T23:09:49.835325Z,com.twentyclubs.mcp/premier-league,Twenty Clubs,1.0.0,,streamable-http,"Premier League fixtures, results, table, team news, referees and UK TV, from twentyclubs.com."
+2026-11-12T23:10:41.985339Z,com.clickdecay/mcp-server,Click Decay,1.0.0,https://github.com/meelis545/clickdecay-mcp,streamable-http,"CTR change, click decomposition and known Search Console data anomalies for numbers you provide."
+2026-11-12T23:12:55.733502Z,io.github.vanja-ivancevic/apex-db,Apex DB,1.0.0,https://github.com/vanja-ivancevic/all-db-system,streamable-http,"Vehicle specifications, emissions, and powertrain data with source provenance."
+2026-11-12T23:12:56.15391Z,io.github.vanja-ivancevic/rxatlas,RxAtlas,1.0.0,https://github.com/vanja-ivancevic/all-db-system,streamable-http,US drug products at FDA product-NDC grain with source-linked enrichments.
+2026-11-12T23:12:56.578436Z,io.github.vanja-ivancevic/recallradar,RecallRadar,1.0.0,https://github.com/vanja-ivancevic/all-db-system,streamable-http,Historical consumer-product recalls and safety notices from official sources.
+2026-11-12T23:12:56.996662Z,io.github.vanja-ivancevic/trialbase,TrialBase DB,1.0.0,https://github.com/vanja-ivancevic/all-db-system,streamable-http,Clinical trials across multiple registries with identifiers and source links.
+2026-11-12T23:13:20.504799Z,com.renzojohnson/gmail-mcp,Gmail MCP,26.11.14,,,"Gmail MCP server: list, read, search and send email, manage drafts and labels."
+2026-11-12T23:13:45.468024Z,com.renzojohnson/google-drive-mcp,Google Drive MCP,26.11.14,,,"Google Drive MCP server: search files, organise folders and manage sharing."
+2026-11-12T23:13:46.600087Z,com.renzojohnson/google-sheets-mcp,Google Sheets MCP,26.11.14,,,"Google Sheets MCP server: read ranges, append rows, update cells and add tabs."
+2026-11-12T23:13:47.834393Z,com.renzojohnson/google-docs-mcp,Google Docs MCP,26.11.14,,,"Google Docs MCP server: read documents, append or insert text, find and replace."
+2026-11-12T23:13:48.664761Z,com.renzojohnson/youtube-mcp,YouTube MCP,26.11.14,,,"YouTube MCP server: search videos, read stats and comments, run analytics, manage playlists."
+2026-11-12T23:16:57.276219Z,com.lapalmedazur/lpa-mcp,"La Palme d'Azur Cannes: hotel, aparthotel & resort",1.1.0,,streamable-http,"Live availability and prices: Cannes aparthotel & resort, sea-view apartments, 2 pools, near beaches"
+2026-11-12T23:17:23.312074Z,com.heurchain/heurchain,HeurChain — AI Agent Memory,0.6.1,,streamable-http,Persistent memory storage and retrieval for AI agents through the hosted HeurChain MCP service.
+2026-11-12T23:20:43.894551Z,io.github.Mr-Didi/mcp-ocei-oracle,OCEI v2.2 Orbital Compute & Arbitrage Oracle,2.2.0,https://github.com/Mr-Didi/mcp-ocei-oracle,streamable-http,"Attested orbital AI compute physics, NOAA space-weather & $/MTok arbitrage oracle (OCEI v2.2)."

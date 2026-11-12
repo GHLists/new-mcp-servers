@@ -9,48 +9,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 22:21 UTC
+## Latest list — 2026-11-12 23:21 UTC
 
-New MCP servers published between 2026-11-12 21:19 UTC and 2026-11-12 22:21 UTC.
+New MCP servers published between 2026-11-12 22:21 UTC and 2026-11-12 23:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-12T22-21-57-621558Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-12T23-21-34-904397Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-12 21:24:44 | com.unity.mcp.acquire/server | Unity Ads Acquire | 0.1.0 | Manage Unity Ads Acquire campaigns, budgets, bids, creatives and performance re… |
-| 2026-11-12 21:26:08 | com.nativemsg/mcp |  | 1.0.0 | AI agents build, send, and manage branded RCS experiences: storefronts, booking… |
-| 2026-11-12 21:27:29 | [com.cloudinary/analysis-mcp](https://github.com/cloudinary/analysis-mcp) | Cloudinary Analysis | 0.5.3 | Run AI-powered analysis on images including moderation, captioning, tagging, an… |
-| 2026-11-12 21:28:39 | com.attachdesk/attachdesk | AttachDesk | 0.11.0 | See and control your remote computers and pass messages between agents with Att… |
-| 2026-11-12 21:34:10 | [org.onekash/icloud-calendar-mcp](https://github.com/icloud-calendar-mcp/icloud-calendar-mcp) |  | 3.3.0 | MCP server for iCloud (Apple) Calendar access via CalDAV |
-| 2026-11-12 21:34:15 | [io.github.joshluberisse/ovrin-mcp](https://github.com/joshluberisse/OvrinPlatform) | Ovrin | 0.1.1 | Secure Linux sandboxes for AI agents, as MCP tools. |
-| 2026-11-12 21:34:16 | com.euronaire/competition | Euronaire USDC Contribution Competition | 0.10.0 | USDC-on-Base contribution competition with verified receipts and opt-in foundin… |
-| 2026-11-12 21:34:35 | com.elvesora/domain-lookup | Elvesora Domain Lookup | 1.0.0 | Find a company's official website domain from its name, with a review flag for… |
-| 2026-11-12 21:34:37 | com.elvesora/enrichment | Elvesora Enrichment | 1.0.0 | Enrich a B2B company domain and get a structured company profile, one credit pe… |
-| 2026-11-12 21:34:57 | com.aether-layer/eu-vat-validate | Aether Layer: EU VAT number validation… | 0.3.0 | Validates EU VAT numbers: local format/checksum for 27 states + XI, then VIES (… |
-| 2026-11-12 21:35:46 | [io.github.Areso/safe-ssh-mcp](https://github.com/Areso/safe-ssh-mcp) |  | 0.2.0 | A secured scoped SSH MCP server for executing safe read-only diagnostic DevOps… |
-| 2026-11-12 21:35:47 | [com.malwaretracker/mcp](https://github.com/tylabs/malwaretracker-mcp) | MalwareTracker Document Malware & AI Sa… | 2.3.0 | Scan PDFs, Office docs, and RAG files for malware exploits, macros, CVEs, and A… |
-| 2026-11-12 21:39:02 | [io.fastsaver/api](https://github.com/coder2077/fastsaver_mcp) | FastSaver API | 1.0.0 | Instagram, TikTok, YouTube and other social media links to direct media downloa… |
-| 2026-11-12 21:41:25 | [io.github.mfmatozza/lanes](https://github.com/mfmatozza/lanes) | Lanes | 0.3.0 | Tells your coding agent what teammates' agents are changing in the repo, before… |
-| 2026-11-12 21:45:27 | io.github.garryfirth/yeww | Yeww | 1.0.0 | Private ski, snowboard, and mountain-bike lessons in the Portes du Soleil. |
-| 2026-11-12 21:45:30 | com.darmousseh/habits-guard | Habits prompt-injection guard | 1.0.0 | Check user prompts for injection/jailbreaks; your own guard learns from your la… |
-| 2026-11-12 21:50:32 | com.skormerkez/canli-skor | SkorMerkez Live Football Scores | 1.0.0 | Ad-free, betting-free live football scores, fixtures and standings: Süper Lig,… |
-| 2026-11-12 21:51:24 | [io.github.actimod/onaa-registry](https://github.com/actimod/onaa-protocol) | ONAA Registry | 0.1.1 | Search an open, early-stage registry of AI agents and service providers. Read-o… |
-| 2026-11-12 21:53:24 | [io.github.Tradelord223/solguard-mcp](https://github.com/Tradelord223/solguard-mcp) | SolGuard Solana Token-2022 Scanner & Sa… | 1.1.0 | Solana Token-2022 honeypot scanner, 1-SOL slippage probe & Jito MEV-safe swap r… |
-| 2026-11-12 21:55:05 | [io.github.AnshumanAtrey/job-boards-search](https://github.com/AnshumanAtrey/job-boards-search) | Job Search API - Greenhouse, Lever, Wor… | 1.0.5 | Job Search API for 18 Job Boards and ATS Sites |
-| 2026-11-12 21:56:55 | ai.getdial/dial | Dial | 1.3.0 | Real phone numbers for AI agents: SMS, iMessage, WhatsApp, AI voice calls, and… |
-| 2026-11-12 21:57:04 | com.relaydin/relay | Relay | 0.1.0 | Outreach campaigns, one inbox and safety limits for the LinkedIn accounts an ag… |
-| 2026-11-12 21:58:31 | ai.govisit/server | GoVisit MCP | 1.0.0 | Hosted GoVisit MCP for searching travel places and destinations and reading pub… |
-| 2026-11-12 22:00:05 | [io.github.sbrunner-atx/fldigi-mcp](https://github.com/sbrunner-atx/fldigi-mcp) |  | 0.4.1 | Control fldigi (amateur-radio digital modes) over XML-RPC: modem, frequency, ri… |
-| 2026-11-12 22:00:06 | [io.github.sbrunner-atx/wsjtx-mcp](https://github.com/sbrunner-atx/wsjtx-mcp) |  | 0.1.4 | Operate WSJT-X (FT8/FT4/WSPR) from MCP clients over its UDP message protocol. |
-| 2026-11-12 22:00:14 | [io.github.sbrunner-atx/n3fjp-mcp](https://github.com/sbrunner-atx/n3fjp-mcp) |  | 0.3.3 | Log amateur-radio QSOs to N3FJP logging software over its TCP API. |
-| 2026-11-12 22:00:37 | [io.github.sbrunner-atx/serial-console-mcp](https://github.com/sbrunner-atx/serial-console-mcp) | Serial Console MCP: AI for telecom equi… | 0.3.3 | Let AI configure telecom gear over serial: Juniper and Cisco, Icom CI-V, Yaesu/… |
-| 2026-11-12 22:03:40 | [io.github.fengjinjin/jizhang](https://github.com/fengjinjin/jizhang-mcp) | jizhang | 1.0.0 | 自己的账本，助手可读可复盘。支持记账、分类和查询，不提供投资建议。 |
-| 2026-11-12 22:04:32 | [com.safelagoon/mcp](https://github.com/Safe-Lagoon/safelagoon-mcp) | SafeLagoon | 0.1.36 | Connect a SafeLagoon parent account to check screen time and manage family devi… |
-| 2026-11-12 22:08:12 | com.seoclave/seoclave | SEOClave | 1.0.0 | Google keyword data for Latin America plus technical SEO, robots.txt, DNS and A… |
-| 2026-11-12 22:09:24 | com.grades/review-management | Grades.com: Review Management | 0.41.0 | Review management: read Google reviews, draft replies, send review requests, ch… |
-| 2026-11-12 22:10:24 | uk.co.boatsite/boatsite | Boatsite | 2.4.4 | Search UK boats for sale on Boatsite: narrowboats, motor and sailing boats, RIB… |
-| 2026-11-12 22:10:55 | uk.co.trailersite/trailersite | Trailersite | 2.4.4 | Search UK trailers and touring caravans for sale on Trailersite: horse, box, pl… |
-| 2026-11-12 22:16:15 | ai.bootkey/bootkey | bootkey | 1.0.0 | Boot and run AI agents that live on their own Linux server, with their own IP,… |
+| 2026-11-12 22:24:33 | app.askposeidon/poseidon | Poseidon | 1.2.0 | Winning e-commerce ads from the Meta Ad Library: Meta's EU reach, country/age/g… |
+| 2026-11-12 22:24:58 | com.grain64.leaklens/leaklens |  | 1.0.0 | Check coding-benchmark tasks for leaked fixes: per-task tier, quote and fix-com… |
+| 2026-11-12 22:28:18 | com.nostairsplease/mcp | No Stairs Please | 1.0.0 | Live music venue directory with booking contacts, capacities, and tour routing… |
+| 2026-11-12 22:29:22 | ai.govisit/govisit-mcp | GoVisit MCP Server | 1.0.0 | Search GoVisit destinations and places, and read published travel and developer… |
+| 2026-11-12 22:30:17 | com.hoyplanes/hoy-planes | Hoy Planes | 1.0.0 | What's on in 12 Spanish provinces: concerts, theatre and free events by date, p… |
+| 2026-11-12 22:30:18 | com.glucobeat/glucobeat | GlucoBeat | 1.0.0 | Log glucose, meals, exercise and sleep in your GlucoBeat diary by chat, and loo… |
+| 2026-11-12 22:37:58 | [ai.buhalteris/mcp](https://github.com/KalnuErelis/mb-buhalteris-ai) | Buhalteris.ai | 1.0.0 | Read-only Lithuanian tax rates, calculators and sourced guides from buhalteris.… |
+| 2026-11-12 22:52:31 | ai.kottos/account | Kottos AI Account | 0.5.0 | Create and connect a Kottos AI gateway account from an agent, then see its usag… |
+| 2026-11-12 22:52:56 | [io.github.Fan-Pier-Labs/openrecord](https://github.com/Fan-Pier-Labs/openrecord) | OpenRecord — MyChart for Claude | 2.3.0 | Read and manage your Epic MyChart records: labs, meds, imaging, notes, messages… |
+| 2026-11-12 22:53:05 | [io.github.rtmandreyev/construct](https://github.com/rtmandreyev/construct) | Construct | 1.3.1 | Checks an agent's part-by-part description of a thing and builds it as glTF, OB… |
+| 2026-11-12 22:53:58 | [ai.chronary/mcp](https://github.com/Chronary/chronary-mcp) | Chronary | 1.6.0 | Calendar API for AI agents: events, availability, Google/Microsoft setup, sched… |
+| 2026-11-12 23:01:46 | [io.github.tapirro/orivale-agent-mcp](https://github.com/tapirro/orivale-agent-mcp) | Orivale Agent Intelligence | 1.3.0 | Clean RAG Markdown, B2B domain enrichment, Shopify intel, and Base audits via x… |
+| 2026-11-12 23:02:15 | pl.cityon/mcp | cityon.pl | 0.1.0 | Polish local businesses, opening hours, real estate and apartment prices from c… |
+| 2026-11-12 23:06:20 | one.brana/brana | Brana | 1.0.0 | Search and manage your team's knowledge from MCP clients. |
+| 2026-11-12 23:07:21 | [io.github.Garitalab5/garita-mcp](https://github.com/Garitalab5/garita-mcp-server) | Garita MCP | 1.0.0 | 30 security tools + the Vigia agent to audit MCP servers before you connect. |
+| 2026-11-12 23:08:48 | [io.github.AnshumanAtrey/global-job-search-api](https://github.com/AnshumanAtrey/global-job-search-api) | Global Job Search API - Remote Jobs, Al… | 1.0.7 | Global Job Search API for All Job Boards, Remote |
+| 2026-11-12 23:09:49 | com.twentyclubs.mcp/premier-league | Twenty Clubs | 1.0.0 | Premier League fixtures, results, table, team news, referees and UK TV, from tw… |
+| 2026-11-12 23:10:41 | [com.clickdecay/mcp-server](https://github.com/meelis545/clickdecay-mcp) | Click Decay | 1.0.0 | CTR change, click decomposition and known Search Console data anomalies for num… |
+| 2026-11-12 23:12:55 | [io.github.vanja-ivancevic/apex-db](https://github.com/vanja-ivancevic/all-db-system) | Apex DB | 1.0.0 | Vehicle specifications, emissions, and powertrain data with source provenance. |
+| 2026-11-12 23:12:56 | [io.github.vanja-ivancevic/rxatlas](https://github.com/vanja-ivancevic/all-db-system) | RxAtlas | 1.0.0 | US drug products at FDA product-NDC grain with source-linked enrichments. |
+| 2026-11-12 23:12:56 | [io.github.vanja-ivancevic/recallradar](https://github.com/vanja-ivancevic/all-db-system) | RecallRadar | 1.0.0 | Historical consumer-product recalls and safety notices from official sources. |
+| 2026-11-12 23:12:56 | [io.github.vanja-ivancevic/trialbase](https://github.com/vanja-ivancevic/all-db-system) | TrialBase DB | 1.0.0 | Clinical trials across multiple registries with identifiers and source links. |
+| 2026-11-12 23:13:20 | com.renzojohnson/gmail-mcp | Gmail MCP | 26.11.14 | Gmail MCP server: list, read, search and send email, manage drafts and labels. |
+| 2026-11-12 23:13:45 | com.renzojohnson/google-drive-mcp | Google Drive MCP | 26.11.14 | Google Drive MCP server: search files, organise folders and manage sharing. |
+| 2026-11-12 23:13:46 | com.renzojohnson/google-sheets-mcp | Google Sheets MCP | 26.11.14 | Google Sheets MCP server: read ranges, append rows, update cells and add tabs. |
+| 2026-11-12 23:13:47 | com.renzojohnson/google-docs-mcp | Google Docs MCP | 26.11.14 | Google Docs MCP server: read documents, append or insert text, find and replace. |
+| 2026-11-12 23:13:48 | com.renzojohnson/youtube-mcp | YouTube MCP | 26.11.14 | YouTube MCP server: search videos, read stats and comments, run analytics, mana… |
+| 2026-11-12 23:16:57 | com.lapalmedazur/lpa-mcp | La Palme d'Azur Cannes: hotel, aparthot… | 1.1.0 | Live availability and prices: Cannes aparthotel & resort, sea-view apartments,… |
+| 2026-11-12 23:17:23 | com.heurchain/heurchain | HeurChain — AI Agent Memory | 0.6.1 | Persistent memory storage and retrieval for AI agents through the hosted HeurCh… |
+| 2026-11-12 23:20:43 | [io.github.Mr-Didi/mcp-ocei-oracle](https://github.com/Mr-Didi/mcp-ocei-oracle) | OCEI v2.2 Orbital Compute & Arbitrage O… | 2.2.0 | Attested orbital AI compute physics, NOAA space-weather & $/MTok arbitrage orac… |
 
 ## Data source
 
