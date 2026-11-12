@@ -9,47 +9,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 12:20 UTC
+## Latest list — 2026-11-12 13:21 UTC
 
-New MCP servers published between 2026-11-12 11:19 UTC and 2026-11-12 12:20 UTC.
+New MCP servers published between 2026-11-12 12:20 UTC and 2026-11-12 13:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-12T12-20-06-500514Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-12T13-21-00-818932Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-12 11:20:32 | [io.github.kanameyamamoto/seiji-no-mado](https://github.com/kanameyamamoto/seiji-no-mado) | せいじのまど (Seiji no Mado) | 1.0.0 | Neutral Japanese politics data: laws, Diet bills, votes, parties, members, ques… |
-| 2026-11-12 11:23:24 | [io.github.krishnaGauss/geo-shield](https://github.com/krishnaGauss/MCP_WebSafe) | GEO Shield | 0.1.0 | Detects hidden AI prompt injection, AI recommendation poisoning, sneaky redirec… |
-| 2026-11-12 11:25:57 | [io.github.VictoriaMetrics/mcp-victoriametrics](https://github.com/VictoriaMetrics/mcp-victoriametrics) |  | 1.21.0 | MCP Server for VictoriaMetrics. Provides integration with VictoriaMetrics API a… |
-| 2026-11-12 11:27:04 | [io.github.mswdev/better-unraid-mcp](https://github.com/mswdev/better-unraid-mcp) | Better Unraid MCP | 0.1.1 | Monitor and manage an Unraid server from any MCP client: array, Docker, VMs, ZF… |
-| 2026-11-12 11:28:11 | com.dishesof/dishes-of-london | Dishes of London | 1.0.0 | Find a dish in London by area, postcode, price, diet and serving time. Free, re… |
-| 2026-11-12 11:28:38 | [io.github.CAVDAX/cavdax](https://github.com/CAVDAX/CAVDAX) |  | 1.3.3 | CAVDAX MCP Server backed by FalkorDB GraphBLAS for causal invalidation gating a… |
-| 2026-11-12 11:29:42 | com.vramfarm/gpu-cloud | VRAMfarm GPU Cloud | 1.0.0 | Rent EU cloud GPUs per minute: pick a card by VRAM and price, launch, get SSH,… |
-| 2026-11-12 11:32:20 | at.auto-oez/werkstatt | Auto Öz | 1.0.0 | KFZ-Werkstatt in Wien: Termine, Leistungen, Kostenvoranschlag. |
-| 2026-11-12 11:35:20 | io.github.hostelmate/hostelmate | HostelMate | 1.0.0 | Read-only access to your HostelMate hostel PMS: arrivals, bookings, payments an… |
-| 2026-11-12 11:35:22 | com.subdupes/subdupes | SubDupes | 1.0.0 | Send the subscriptions Claude or ChatGPT finds in your email to SubDupes. You a… |
-| 2026-11-12 11:38:21 | ai.rendreal/design-and-print | Rendreal | 1.0.0 | Turn your agent into a print shop: find products, get quotes, design or upload… |
-| 2026-11-12 11:43:09 | app.seobolt/seobolt | SEOBolt | 1.2.0 | Crawl a site, audit Google and AI-search readiness, get a fix plan your coding… |
-| 2026-11-12 11:43:35 | com.summerbase/mcp | Summerbase | 1.0.0 | Ask about your subscription metrics, like MRR, ARR and growth, and see the cust… |
-| 2026-11-12 11:46:54 | [it.123offerte/mcp](https://github.com/123offerte/mcp) | 123offerte.it: Italian offers catalogue | 2026.11.12 | Italian mobile, internet, bank account, card, loan and energy offers, with cond… |
-| 2026-11-12 11:49:21 | markets.bobby/free | Agent Bobby Free | 1.2.0 | Free public stock research, market context, and comparisons for AI agents. |
-| 2026-11-12 11:50:51 | [io.github.tufantunc/axiom-math](https://github.com/tufantunc/axiom-advanced-math-mcp) | Axiom — Advanced Math | 1.1.0 | Exact symbolic math for LLMs: integrals, equations, matrices, and claim verific… |
-| 2026-11-12 11:53:41 | study.yani/emirati-arabic | Yani – Emirati Arabic | 1.0.0 | Spoken Emirati Arabic phrases for life in the UAE, with Easy Latin and real rec… |
-| 2026-11-12 11:53:46 | app.marketframe/marketframe | MarketFrame | 1.0.0 | Daily news tone for every FTSE 100 company, with stories and reasons. Free, rea… |
-| 2026-11-12 11:55:55 | [io.github.LogeshR15/screener-mcp](https://github.com/LogeshR15/screener-mcp) | Screener Stock Research | 0.6.0 | Indian stock research (BSE/NSE) via Screener.in: financials, screens, filings,… |
-| 2026-11-12 12:02:16 | com.visibilitygenies/visibility-genies | Visibility Genies | 1.0.0 | Your AI assistant reads and runs SEO and AI visibility work in your Visibility… |
-| 2026-11-12 12:02:39 | [io.github.nikoskalyvas/vayancy-travelos](https://github.com/nikoskalyvas/vayancy-mcp) | Vayancy TravelOS | 1.0.0 | Mediterranean luxury villa booking rail with real-time PMS inventory & direct S… |
-| 2026-11-12 12:03:41 | [io.github.quack2025/surveycoder](https://github.com/quack2025/surveycoder-mcp) | SurveyCoder | 1.0.0 | Ask questions of SPSS .sav survey data: crosstabs with significance, and AI cod… |
-| 2026-11-12 12:03:54 | co.stylecloud.dropflow/mcp | DropFlow | 1.7.0 | Docs, block library and changelog for DropFlow, the free-form canvas page build… |
-| 2026-11-12 12:04:33 | com.datafluxor/seo | DataFluxor | 1.0.0 | Remote MCP server for Google SERP, SEO research and web scraping. Free plan, no… |
-| 2026-11-12 12:06:59 | io.github.caffeine-soft/geomagnetic-storms-x | Geomagnetic Storms X | 1.0.0 | Magnetic storms: Kp now, NOAA G1-G5, 3- and 27-day forecasts, history, solar fl… |
-| 2026-11-12 12:10:11 | [io.github.brianirish/laravel-mcp-companion](https://github.com/brianirish/laravel-mcp-companion) | Laravel MCP Companion | 0.14.0 | Laravel documentation aggregator: multi-version core docs, services, packages,… |
-| 2026-11-12 12:12:35 | cards.dev/components | Dev.cards | 1.0.0 | Free UI components with full source in HTML/CSS/JS and React: heroes, pricing,… |
-| 2026-11-12 12:15:49 | [io.github.skrappio/skrapp-mcp](https://github.com/skrappio/skrapp-mcp) | Skrapp | 1.5.0 | Verified B2B emails, phones, company data and lists from Skrapp, for any MCP cl… |
-| 2026-11-12 12:16:07 | com.posttodata/posttodata | PostToData | 1.0.0 | Read public posts, comments, profiles and YouTube transcripts from Reddit, X, T… |
-| 2026-11-12 12:17:42 | [io.github.formlab-dev/enclosure-estimate](https://github.com/formlab-dev/enclosure-estimate) | Formlab enclosure estimate | 1.0.0 | Cost and lead time estimate for a custom plastic electronics enclosure (Formlab… |
-| 2026-11-12 12:17:50 | ai.kadmo/kadmo | Kadmo | 1.1.0 | Dispatch work to Kadmo's AI agents, read tasks and runs, edit skill packs, play… |
-| 2026-11-12 12:17:51 | ai.kadmo/kadmo-agent | Kadmo agent runtime | 0.5.1 | Kadmo agent runtime on your computer: workflows, skill packs and Chrome automat… |
-| 2026-11-12 12:19:25 | ae.framerfy/store-builder | Framerfy | 1.0.0 | Build a Shopify-backed Framer store: sync products, theme, cart, checkout, publ… |
+| 2026-11-12 12:22:28 | [io.github.gdhub-io/character-forge-mcp](https://github.com/gdhub-io/character-forge-mcp) | Character Forge | 0.3.2 | Characters whose every trait grows from one story, then concept art, scene, vid… |
+| 2026-11-12 12:23:43 | [io.github.datadmon/abu-dhabi-property-transactions](https://github.com/datadmon/apify-data-actors-examples) | Abu Dhabi Property Transactions (Apify)… | 1.0.1 | Abu Dhabi property sales since 2019 as JSON: AED price, price/sqm, district, pr… |
+| 2026-11-12 12:23:44 | [io.github.datadmon/chatgpt-product-feed-generator](https://github.com/datadmon/apify-data-actors-examples) | ChatGPT Product Feed Generator (Apify)… | 1.0.1 | ChatGPT Business Hub product feed (CSV/JSONL) from Google Merchant or WooCommer… |
+| 2026-11-12 12:23:44 | [io.github.datadmon/india-company-data](https://github.com/datadmon/apify-data-actors-examples) | India Company Data (Apify) - MCA compan… | 1.0.1 | India company lookup by CIN or name (MCA): status, capital, email, directors wi… |
+| 2026-11-12 12:30:37 | [com.eclipsesource/review-guard](https://github.com/eclipsesource/review-guard) | ReviewGuard | 0.4.0 | Safety boundary for agent written GitHub PR reviews: pending and invisible, sub… |
+| 2026-11-12 12:32:31 | com.goatomiq/atomiq | Atomiq | 1.0.0 | Read email marketing reports, segments and customers, and draft campaigns for r… |
+| 2026-11-12 12:36:11 | london.pawsof/paws-of-london | Paws of London | 1.0.0 | Dog-friendly pubs, cafes, hotels and dog services in London, with how each poli… |
+| 2026-11-12 12:36:12 | com.assetsforthreejs/assetsforthreejs | Assets for three.js | 1.0.0 | Search GLB 3D models for three.js by pack, era, triangles and textures, with pr… |
+| 2026-11-12 12:36:51 | com.aiappsthatwork/tools | AI Apps That Work free tools | 1.0.0 | Real cost per AI result, LLM prices, switch costs, shutdown dates, A/B test siz… |
+| 2026-11-12 12:41:03 | io.github.franciscobmacedo/postreef | Post Reef | 1.0.0 | Turn YouTube, TikTok, Instagram, Facebook, X and article URLs into transcripts,… |
+| 2026-11-12 12:41:16 | [io.github.flow-84/n8n-guard](https://github.com/flow-84/n8n-guard) | n8n-guard | 0.1.0 | Read-only health checks for self-hosted n8n: datastore growth, stuck runs, rete… |
+| 2026-11-12 12:42:56 | [io.github.roystondwork-dev/diskdiet](https://github.com/roystondwork-dev/diskdiet) | diskdiet | 0.6.1 | See what developer caches and old node_modules use disk space, and free it safe… |
+| 2026-11-12 12:47:28 | [com.referralmeter/mcp](https://github.com/ajussis/referralmeter-js) | Referralmeter | 1.0.0 | Affiliate program tracking: codes, signups and sales for the connected program. |
+| 2026-11-12 12:53:56 | [io.github.Adityarajtiwari880/verisight](https://github.com/Adityarajtiwari880/verisight) | VeriSight MCP | 2.2.1 | Sub-3ms OpenCV 5 visual forensics & AI inpainting fraud detection MCP server. |
+| 2026-11-12 12:56:51 | [io.github.Artoxem/workspace-operator](https://github.com/Artoxem/workspace-operator) | Workspace Operator | 1.22.1 | Google Workspace automation for AI agents: 132 tools, safe bulk operations, und… |
+| 2026-11-12 12:58:02 | com.nogamovement/la-tech-designs | LA Tech Designs | 1.1.0 | Custom websites with an AI concierge, booking and an AI door built in. Score an… |
+| 2026-11-12 12:58:54 | com.sendhour/sendhour | Sendhour | 1.0.0 | Find trending TikToks and Shorts in your niche, make your version, schedule pos… |
+| 2026-11-12 12:58:56 | com.hailbell.api/hailbell | Hailbell | 1.0.0 | In-app support chat and push notifications for iOS, Android and web apps: reply… |
+| 2026-11-12 13:00:43 | [io.github.gwhthompson/grist-mcp-server](https://github.com/gwhthompson/grist-mcp-server) |  | 2.0.34 | 11 tools for managing Grist documents with AI |
+| 2026-11-12 13:00:51 | [com.primaverapp/primavera](https://github.com/Primavera-SaaS/primavera-mcp) | Primavera | 1.0.0 | Prospect lists of businesses from Google Maps and their websites: target, count… |
+| 2026-11-12 13:01:20 | io.devshelf/devshelf | DevShelf.io | 1.0.0 | Hand-reviewed catalog of dev tools and resources, with pricing and alternatives. |
+| 2026-11-12 13:02:37 | [io.github.landedjobs/landed](https://github.com/landedjobs/landed-mcp) | Landed | 0.3.0 | Sign in with landed to search jobs ranked to your résumé and fetch free intervi… |
+| 2026-11-12 13:03:55 | com.geloky/geocoding | Geloky Geocoding | 1.0.0 | Geocode and reverse geocode addresses, road distances and multi-stop routes. $0… |
+| 2026-11-12 13:06:41 | dev.moneytools/payment-safety | MoneyTools payment-safety suite | 2.11.11 | Call before paying any x402 seller: 402/OFAC precheck, verify, approval, ledger |
+| 2026-11-12 13:08:15 | app.andock/mail | Andock | 0.1.0 | Your mailbox at GMX, Yahoo, AOL, IONOS, Bluewin or your web host, for your AI a… |
+| 2026-11-12 13:08:53 | com.hyprcart/admin | Hyprcart Admin | 1.0.0 | Manage a Hyprcart store: catalog, prices, stock, orders and content, with the m… |
+| 2026-11-12 13:09:06 | com.papyrascoupons/coupons | Papyras Coupons | 1.1.0 | Live coupon codes and deals for 8,000+ online stores, from official affiliate p… |
+| 2026-11-12 13:09:36 | io.github.kizukidata/eu-tenders | Kizuki EU Tenders | 1.0.0 | New EU public tenders from TED by country, CPV, buyer or value, with deadlines… |
+| 2026-11-12 13:09:37 | io.github.kizukidata/social-monitoring | Kizuki Social Monitoring | 1.0.0 | Bluesky posts and follower counts, Telegram channel posts and note.com articles… |
+| 2026-11-12 13:09:38 | io.github.kizukidata/work-visa-data | Kizuki Work Visa Data | 1.0.0 | UK jobs checked against the sponsor register, plus Canada's positive LMIA emplo… |
+| 2026-11-12 13:15:46 | io.github.kwb-commits/diopter-ai | Diopter AI | 1.0.0 | Real-time detection of deepfakes, voice cloning and AI social engineering on li… |
+| 2026-11-12 13:19:37 | ma.madda/law | madda — Moroccan law, article by article | 1.0.0 | Search and read Moroccan law article by article, in Arabic and French, with cit… |
+| 2026-11-12 13:20:01 | [io.github.srmadscience/mcpdbwizard-mariadb](https://github.com/srmadscience/mcpdbwizard-mariadb) | MCPDBWizard for MariaDB | 2.0.36 | A MariaDB MCP server built from the procedures, tables and statements you selec… |
+| 2026-11-12 13:20:14 | [io.github.srmadscience/mcpdbwizard](https://github.com/srmadscience/mcpdbwizard-open) | MCPDBWizard | 2.0.35 | An Oracle MCP server built from the PL/SQL, tables and statements you select. N… |
+| 2026-11-12 13:20:18 | [io.github.asgerami/wrangl](https://github.com/asgerami/wrangl) | Wrangl | 0.6.0 | Turn any REST API into MCP tools, from an OpenAPI spec, a Postman collection, o… |
 
 ## Data source
 
