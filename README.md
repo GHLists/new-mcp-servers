@@ -9,30 +9,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 03:20 UTC
+## Latest list — 2026-11-12 04:19 UTC
 
-New MCP servers published between 2026-11-12 02:21 UTC and 2026-11-12 03:20 UTC.
+New MCP servers published between 2026-11-12 03:20 UTC and 2026-11-12 04:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-12T03-20-05-589151Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-12T04-19-23-938071Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-12 02:24:33 | [app.showtake/showtake](https://github.com/orchestero/showtake-issues) | ShowTake | 1.0.0 | Your coding agent films demo videos of your iOS Simulator and Mac apps, with Ap… |
-| 2026-11-12 02:27:03 | app.bookbybook/bookbybook | book by book | 1.0.0 | Add books to Square by ISBN, plan restocks, import invoices and build orders fo… |
-| 2026-11-12 02:32:00 | ai.trybrief/brief | Brief - Executive Intelligence | 1.0.0 | The Executive Intelligence platform. It closes the decision-to-done gap. |
-| 2026-11-12 02:37:12 | ai.snaplesson/snaplesson | SnapLesson | 1.0.0 | Make lessons and sports plays from chat and send them by link. Learners need no… |
-| 2026-11-12 02:38:22 | com.agentfairgo/agent-plaza | AgentFairGo · Agent Plaza | 0.10.0 | Public Agent discovery, friends, posts and inquiries with durable messages and… |
-| 2026-11-12 02:38:59 | io.phonekit/phonekit | Phonekit | 0.5.0 | Real US numbers, including real SIM lines, so agents and tests can read codes f… |
-| 2026-11-12 02:43:28 | ai.glypse/glypse | Glypse | 1.0.0 | MCP server for accessing Glypse's prediction market analytics and research. |
-| 2026-11-12 02:43:47 | com.grain64.sitecite/sitecite |  | 1.0.0 | Cited clinical trial site shortlists and CRO site-list checks from ClinicalTria… |
-| 2026-11-12 02:48:59 | app.notol/mcp | Notol | 0.1.3 | Free payee check for AI agents paying USDC: flags lookalike, reserved and own a… |
-| 2026-11-12 02:51:30 | com.gitshine/gitshine | GitShine | 1.0.0 | GitHub stats, Wrapped, profile comparisons and README stats cards for any GitHu… |
-| 2026-11-12 02:52:34 | com.aremes-enterprises/aremes | AREMES and RSMAD | 1.0.0 | Walk Ryan Seslow's AREMES HQ and RSMAD museum, and license virtual spaces, art… |
-| 2026-11-12 02:55:27 | [io.github.PugarHuda/pusaka](https://github.com/PugarHuda/pusaka) |  | 1.0.0 | NFTs on NEAR that each control a native Bitcoin address: buy, lend, borrow, inh… |
-| 2026-11-12 03:10:14 | [io.github.michaelvereb/aiwebsitesummarizer](https://github.com/michaelvereb/vereb) | AI Website Summarizer | 1.0.0 | Add an AI prompt widget to any website for AI SEO, GEO, and LLM mentions. |
-| 2026-11-12 03:10:14 | [io.github.michaelvereb/fastmcp](https://github.com/michaelvereb/vereb) | FastMCP | 1.0.0 | Open directory of MCP v2 servers with instant 1-click connect for AI agents. |
-| 2026-11-12 03:10:51 | [ai.callmcp/server](https://github.com/CallMCP/callmcp) | CallMCP — Phone Call MCP Server | 0.1.5 | Phone call MCP server: AI agents place and answer real calls, text, email and W… |
-| 2026-11-12 03:11:20 | dev.blvkware/cordon | CORDON | 1.0.0 | Read a web page for an agent as clean markdown, with hidden instructions remove… |
+| 2026-11-12 03:22:58 | com.saywink/saywink | SayWink | 1.0.0 | Instagram comment-to-DM automations, scheduled posts, stats and DM inbox for yo… |
+| 2026-11-12 03:25:47 | news.polymath/polymath-news | Polymath News | 1.3.0 | Curated news search and deep research reports for your reader: tech, AI, busine… |
+| 2026-11-12 03:26:11 | com.toolocate/toolocate | Toolocate | 1.0.0 | Find and compare verified AI tools: search, details, alternatives, and categori… |
+| 2026-11-12 03:27:22 | [io.github.sincekmori/asana-gate](https://github.com/sincekmori/asana-gate) | asana-gate | 0.3.1 | Declarative access-control policy in front of the Asana API, served to AI agent… |
+| 2026-11-12 03:37:27 | com.wandy3d/wandy3d | Wandy3D | 1.2.0 | Turn a photo, drawing or text description into a textured 3D model (GLB, FBX, O… |
+| 2026-11-12 03:41:01 | app.korima/pos | Korima POS | 1.0.0 | Configura tu punto de venta Korima: productos con variantes, precios, existenci… |
+| 2026-11-12 03:42:09 | [io.github.Thezenmonster/agentscore](https://github.com/Thezenmonster/agentscores) |  | 2.2.2 | MCP security trust layer: scan packages, inspect repos, check exposure, monitor… |
+| 2026-11-12 03:47:25 | [io.github.craft-agent/whatsapp-tools](https://github.com/craft-agent/whatsapp-tools) |  | 0.1.0 | WhatsApp tools for coding agents: chats, contacts, history, received files, sen… |
+| 2026-11-12 03:53:29 | com.chainitor/chainitor | Chainitor | 1.0.0 | Monitor EVM wallets, tokens, contracts and Safe multisigs, and read their alert… |
+| 2026-11-12 03:53:43 | com.qrcodedinosaur/qr-codes | QR Code Dinosaur | 1.0.0 | Free QR codes for any URL with no signup or API key, plus scan analytics. Pro m… |
+| 2026-11-12 03:53:44 | app.qrcodecreator/qr-codes | QR Code Creator | 1.0.0 | Free QR codes for any URL with no signup or API key, plus scan analytics. Pro m… |
+| 2026-11-12 04:00:57 | io.github.Selfware/sitekeeper | Sitekeeper | 1.0.0 | Edit your existing website by message: preview a change, apply it, undo it. 3-d… |
+| 2026-11-12 04:04:57 | [io.github.AdversTM/sftp-mcp](https://github.com/AdversTM/sftp-mcp) | SFTP | 1.1.1 | SFTP-only file access for AI: browse, edit, transfer and sync files, no shell a… |
+| 2026-11-12 04:08:06 | app.trainrec/trainrec | TrainRec | 1.0.0 | Your AI assistant logs your meals and workouts, then plans your week from what… |
+| 2026-11-12 04:11:42 | io.docquery/docquery | DocQuery | 1.0.0 | Read-only MCP over your Excel or Airtable plus the PDFs beside it, joined as on… |
+| 2026-11-12 04:14:03 | [io.github.wishfinity/wishfinity-mcp-plusw](https://github.com/wishfinity/wishfinity-mcp-plusw) |  | 1.2.3 | Save any product URL to your Wishfinity wishlist. Works with any MCP client. |
+| 2026-11-12 04:14:20 | club.mdldm/grok-bot-town | Grok Bot Town | 1.0.0 | Search, fetch and submit 100+ ready-to-use Grok Bot prompts (Chinese). OAuth, f… |
+| 2026-11-12 04:17:47 | [io.github.zhaoxinghua09-cell/uibc-core](https://github.com/zhaoxinghua09-cell/uibc-core) |  | 0.3.0 | Read-only verification of agent evidence packages: three-valued verdicts, Ed255… |
 
 ## Data source
 
