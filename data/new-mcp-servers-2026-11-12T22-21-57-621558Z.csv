@@ -1,0 +1,35 @@
+created_at,server,title,version,repository,transports,description
+2026-11-12T21:24:44.706168Z,com.unity.mcp.acquire/server,Unity Ads Acquire,0.1.0,,streamable-http,"Manage Unity Ads Acquire campaigns, budgets, bids, creatives and performance reports, etc."
+2026-11-12T21:26:08.173619Z,com.nativemsg/mcp,,1.0.0,,streamable-http,"AI agents build, send, and manage branded RCS experiences: storefronts, bookings, campaigns."
+2026-11-12T21:27:29.606468Z,com.cloudinary/analysis-mcp,Cloudinary Analysis,0.5.3,https://github.com/cloudinary/analysis-mcp,streamable-http,"Run AI-powered analysis on images including moderation, captioning, tagging, and more."
+2026-11-12T21:28:39.02541Z,com.attachdesk/attachdesk,AttachDesk,0.11.0,,,See and control your remote computers and pass messages between agents with AttachDesk.
+2026-11-12T21:34:10.975953Z,org.onekash/icloud-calendar-mcp,,3.3.0,https://github.com/icloud-calendar-mcp/icloud-calendar-mcp,,MCP server for iCloud (Apple) Calendar access via CalDAV
+2026-11-12T21:34:15.337242Z,io.github.joshluberisse/ovrin-mcp,Ovrin,0.1.1,https://github.com/joshluberisse/OvrinPlatform,streamable-http,"Secure Linux sandboxes for AI agents, as MCP tools."
+2026-11-12T21:34:16.945411Z,com.euronaire/competition,Euronaire USDC Contribution Competition,0.10.0,,streamable-http,USDC-on-Base contribution competition with verified receipts and opt-in founding-season recognition.
+2026-11-12T21:34:35.997474Z,com.elvesora/domain-lookup,Elvesora Domain Lookup,1.0.0,,streamable-http,"Find a company's official website domain from its name, with a review flag for uncertain matches."
+2026-11-12T21:34:37.507433Z,com.elvesora/enrichment,Elvesora Enrichment,1.0.0,,streamable-http,"Enrich a B2B company domain and get a structured company profile, one credit per enriched result."
+2026-11-12T21:34:57.406232Z,com.aether-layer/eu-vat-validate,Aether Layer: EU VAT number validation (VIES),0.3.0,,streamable-http,"Validates EU VAT numbers: local format/checksum for 27 states + XI, then VIES (cached 24 h)."
+2026-11-12T21:35:46.145653Z,io.github.Areso/safe-ssh-mcp,,0.2.0,https://github.com/Areso/safe-ssh-mcp,,A secured scoped SSH MCP server for executing safe read-only diagnostic DevOps / SysOps commands
+2026-11-12T21:35:47.597622Z,com.malwaretracker/mcp,MalwareTracker Document Malware & AI Safety Scanner,2.3.0,https://github.com/tylabs/malwaretracker-mcp,streamable-http,"Scan PDFs, Office docs, and RAG files for malware exploits, macros, CVEs, and AI prompt injection."
+2026-11-12T21:39:02.722115Z,io.fastsaver/api,FastSaver API,1.0.0,https://github.com/coder2077/fastsaver_mcp,streamable-http,"Instagram, TikTok, YouTube and other social media links to direct media download URLs."
+2026-11-12T21:41:25.486969Z,io.github.mfmatozza/lanes,Lanes,0.3.0,https://github.com/mfmatozza/lanes,,"Tells your coding agent what teammates' agents are changing in the repo, before it edits."
+2026-11-12T21:45:27.446532Z,io.github.garryfirth/yeww,Yeww,1.0.0,,streamable-http,"Private ski, snowboard, and mountain-bike lessons in the Portes du Soleil."
+2026-11-12T21:45:30.608491Z,com.darmousseh/habits-guard,Habits prompt-injection guard,1.0.0,,streamable-http,Check user prompts for injection/jailbreaks; your own guard learns from your labels. Works keyless.
+2026-11-12T21:50:32.862112Z,com.skormerkez/canli-skor,SkorMerkez Live Football Scores,1.0.0,,streamable-http,"Ad-free, betting-free live football scores, fixtures and standings: Süper Lig, UEFA, top leagues."
+2026-11-12T21:51:24.222414Z,io.github.actimod/onaa-registry,ONAA Registry,0.1.1,https://github.com/actimod/onaa-protocol,streamable-http,"Search an open, early-stage registry of AI agents and service providers. Read-only."
+2026-11-12T21:53:24.462646Z,io.github.Tradelord223/solguard-mcp,SolGuard Solana Token-2022 Scanner & Safe-Swap Router,1.1.0,https://github.com/Tradelord223/solguard-mcp,streamable-http,"Solana Token-2022 honeypot scanner, 1-SOL slippage probe & Jito MEV-safe swap router."
+2026-11-12T21:55:05.373755Z,io.github.AnshumanAtrey/job-boards-search,"Job Search API - Greenhouse, Lever, Workday, Ashby & 14 More",1.0.5,https://github.com/AnshumanAtrey/job-boards-search,streamable-http,Job Search API for 18 Job Boards and ATS Sites
+2026-11-12T21:56:55.294264Z,ai.getdial/dial,Dial,1.3.0,,streamable-http,"Real phone numbers for AI agents: SMS, iMessage, WhatsApp, AI voice calls, and inbound events."
+2026-11-12T21:57:04.399824Z,com.relaydin/relay,Relay,0.1.0,,streamable-http,"Outreach campaigns, one inbox and safety limits for the LinkedIn accounts an agency manages."
+2026-11-12T21:58:31.604521Z,ai.govisit/server,GoVisit MCP,1.0.0,,streamable-http,Hosted GoVisit MCP for searching travel places and destinations and reading published content.
+2026-11-12T22:00:05.854528Z,io.github.sbrunner-atx/fldigi-mcp,,0.4.1,https://github.com/sbrunner-atx/fldigi-mcp,,"Control fldigi (amateur-radio digital modes) over XML-RPC: modem, frequency, rig, log, transmit."
+2026-11-12T22:00:06.574109Z,io.github.sbrunner-atx/wsjtx-mcp,,0.1.4,https://github.com/sbrunner-atx/wsjtx-mcp,,Operate WSJT-X (FT8/FT4/WSPR) from MCP clients over its UDP message protocol.
+2026-11-12T22:00:14.272808Z,io.github.sbrunner-atx/n3fjp-mcp,,0.3.3,https://github.com/sbrunner-atx/n3fjp-mcp,,Log amateur-radio QSOs to N3FJP logging software over its TCP API.
+2026-11-12T22:00:37.831145Z,io.github.sbrunner-atx/serial-console-mcp,Serial Console MCP: AI for telecom equipment and any serial device,0.3.3,https://github.com/sbrunner-atx/serial-console-mcp,,"Let AI configure telecom gear over serial: Juniper and Cisco, Icom CI-V, Yaesu/Kenwood CAT, rotators"
+2026-11-12T22:03:40.61736Z,io.github.fengjinjin/jizhang,jizhang,1.0.0,https://github.com/fengjinjin/jizhang-mcp,streamable-http,自己的账本，助手可读可复盘。支持记账、分类和查询，不提供投资建议。
+2026-11-12T22:04:32.431537Z,com.safelagoon/mcp,SafeLagoon,0.1.36,https://github.com/Safe-Lagoon/safelagoon-mcp,streamable-http,Connect a SafeLagoon parent account to check screen time and manage family device rules.
+2026-11-12T22:08:12.643499Z,com.seoclave/seoclave,SEOClave,1.0.0,,streamable-http,"Google keyword data for Latin America plus technical SEO, robots.txt, DNS and AI-crawler checks."
+2026-11-12T22:09:24.891432Z,com.grades/review-management,Grades.com: Review Management,0.41.0,,streamable-http,"Review management: read Google reviews, draft replies, send review requests, check AI Reputation."
+2026-11-12T22:10:24.380548Z,uk.co.boatsite/boatsite,Boatsite,2.4.4,,streamable-http,"Search UK boats for sale on Boatsite: narrowboats, motor and sailing boats, RIBs, jet skis."
+2026-11-12T22:10:55.27525Z,uk.co.trailersite/trailersite,Trailersite,2.4.4,,streamable-http,"Search UK trailers and touring caravans for sale on Trailersite: horse, box, plant, boat and more."
+2026-11-12T22:16:15.436624Z,ai.bootkey/bootkey,bootkey,1.0.0,,streamable-http,"Boot and run AI agents that live on their own Linux server, with their own IP, email and memory."
