@@ -9,54 +9,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 14:20 UTC
+## Latest list — 2026-11-12 15:20 UTC
 
-New MCP servers published between 2026-11-12 13:21 UTC and 2026-11-12 14:20 UTC.
+New MCP servers published between 2026-11-12 14:20 UTC and 2026-11-12 15:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-12T14-20-58-105575Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-12T15-20-40-879046Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-12 13:22:21 | io.github.JusticeUA/iowa-company-check | Iowa Company Check | 0.1.0 | Iowa company checks by business number: active status, legal form, LEI and sanc… |
-| 2026-11-12 13:22:21 | io.github.JusticeUA/district-of-columbia-company-check | District of Columbia Company Check | 0.1.0 | District of Columbia company checks by file number: status, revocation flags, L… |
-| 2026-11-12 13:22:24 | com.kaupr/kaupr | Kaupr | 1.0.0 | Dated record of what companies run, sell, hire and say on their websites, with… |
-| 2026-11-12 13:24:15 | xyz.prexel/markets-free | Prexel Markets Free | 1.1.0 | Bitcoin Synthesis and Daily Brief with dated evidence, source clocks and a mini… |
-| 2026-11-12 13:24:27 | [io.github.dewayneku/hma-mcp](https://github.com/dewayneku/hma-mcp) | HexManiacAdvance (hma-mcp) | 0.1.0 | Hack GBA Pokémon ROMs with HexManiacAdvance's engine: tables, maps, scripts, te… |
-| 2026-11-12 13:24:46 | xyz.prexel/markets-pro | Prexel Markets Pro | 1.1.0 | For Pro accounts: current Bitcoin Synthesis, Daily Brief and capture-pinned sig… |
-| 2026-11-12 13:29:32 | pl.ksefcanvas/ksefcanvas | KSeF Canvas | 1.0.0 | Polish e-invoices (faktury) in KSeF: clients, products, drafts, validation and… |
-| 2026-11-12 13:31:22 | [io.github.m3taz-ahmed/aizee](https://github.com/m3taz-ahmed/aizee) | aiZee | 6.8.3 | Policy-governed MCP control plane: enforcement gates, budgets, injection defens… |
-| 2026-11-12 13:31:57 | io.github.JusticeUA/baltic-company-check | Baltic Company Check | 0.1.0 | Baltic company checks (Estonia, Latvia, Lithuania): status, insolvency, legal f… |
-| 2026-11-12 13:34:39 | [io.github.DarrickBM/utm-watch](https://github.com/DarrickBM/utm-watch) | UTM Watch | 0.7.1 | Read-only history of UTM VMs on a Mac: CPU, memory, disk, network, ping, incide… |
-| 2026-11-12 13:35:38 | io.github.JusticeUA/slovakia-company-check | Slovakia Company Check | 0.1.0 | Slovakia company checks by IČO: status, bankruptcy, liquidation, legal form, LE… |
-| 2026-11-12 13:36:09 | io.github.marcanthonybeare-agentpay/payout-check | Payout Check | 1.0.0 | Validate LATAM payout beneficiaries (tax ID, bank account, PIX) for MX, BR, AR,… |
-| 2026-11-12 13:37:46 | br.com.rushcrm/crm | RushCRM | 1.0.0 | Brazilian WhatsApp CRM: contacts, deals, pipelines, WhatsApp messages and autom… |
-| 2026-11-12 13:40:05 | me.citou/citou | Citou | 1.0.0 | Your brand's AI visibility (GEO/AEO): metrics, share of voice, citations, site… |
-| 2026-11-12 13:41:30 | com.simowl/esim | SimOwl travel eSIM | 1.0.0 | Travel eSIM plans for 145+ countries: prices, buy links, phone eSIM check, trip… |
-| 2026-11-12 13:43:21 | [dev.cardscope/link-preview](https://github.com/danroot/cardscope) | CardScope Link Preview | 1.0.0 | What each app will show for a URL: layout, title, image, and the fixes. |
-| 2026-11-12 13:46:51 | io.github.JusticeUA/us-states-company-check | US States Company Check | 0.1.0 | US state company checks (CT, CO, PA, IA, DC) by state ID: status, legal form, L… |
-| 2026-11-12 13:47:53 | [ai.homouniversalis/robotics-ros2-humanoid-embodied-ai-safety-proxemics-eu-ai-act-ieee-7001-w3c-vc-verifiable-credentials-human-dignity-guardrails-compliance-audit](https://github.com/David-Porto-Baraldes/Viveka_Web) | Homo Universalis — ROS 2 Humanoid Robot… | 1.6.0 | Zero-auth ROS 2 Humanoid Symbiosis, Q3 Proxemics, Cost-Zero-Stop, EU AI Act, IE… |
-| 2026-11-12 13:48:43 | dev.bugsly/mcp-server | Bugsly | 0.5.0 | Let AI agents list, read and resolve Bugsly error-tracking issues and check mon… |
-| 2026-11-12 13:53:11 | at.drei-business/business-mobilfunk | Drei Business | 1.0.0 | Drei Business: Kontakt, Standorte, Öffnungszeiten, Ganze Website als Text, Ein… |
-| 2026-11-12 13:53:12 | [io.hibira/mcp-approval-gate](https://github.com/hibira-io/mcp-approval-gate) | Approval gate for databases | 0.2.0 | Wraps a database MCP server: reads pass, writes wait for a supervisor to approv… |
-| 2026-11-12 13:53:15 | sk.nisava/shop | Nisava | 1.0.0 | Nisava: Kontakt, Standorte, Öffnungszeiten, Ganze Website als Text, Ein Abschni… |
-| 2026-11-12 13:53:18 | tech.aihall/ai-agents | aihall | 1.0.0 | aihall: Kontakt, Standorte, Öffnungszeiten, Ganze Website als Text, Ein Abschni… |
-| 2026-11-12 13:53:25 | [io.github.sathya-sankaran/twelveswaras](https://github.com/twelveswaras/twelveswaras) | twelveswaras | 1.0.0 | Identify the raaga in Carnatic or Hindustani music; look up 70 raagas' scales a… |
-| 2026-11-12 13:53:53 | [io.github.sathya-sankaran/mugilu](https://github.com/urbanmorph/mugilu) | mugilu | 1.0.0 | The sky over any place in India now: air quality, heat, rain, fog, smoke, UV, o… |
-| 2026-11-12 13:54:14 | [io.github.sathya-sankaran/yellide](https://github.com/urbanmorph/overlooked) | yellide | 1.0.0 | Species of India: find species, where they occur, and their status, from open b… |
-| 2026-11-12 13:56:21 | xyz.iris-media/iris | IRIS: startup intelligence | 1.0.0 | Sourced startup intelligence: SEC Form D rounds, launches, tech wire, market an… |
-| 2026-11-12 13:56:43 | [io.github.rbrtlol/canvas-readonly-mcp](https://github.com/rbrtlol/canvas-readonly-mcp) | Canvas LMS (read-only) | 2.2.0 | Read-only Canvas LMS for students: what changed in your courses, search across… |
-| 2026-11-12 13:57:50 | [io.github.Abhinav-Prabhakar/book-downloader-mcp](https://github.com/Abhinav-Prabhakar/BookDownloaderMCP) | Book Downloader (LibGen) | 4.0.1 | Search Library Genesis and download ebooks with MD5 verification and mirror fai… |
-| 2026-11-12 13:57:56 | [io.github.Abhinav-Prabhakar/monkeytype-mcp](https://github.com/Abhinav-Prabhakar/MonkeytypeMCP) | Monkeytype | 2.0.1 | Monkeytype typing profiles, results, streaks, leaderboards and global stats for… |
-| 2026-11-12 14:02:24 | [io.launchspy/launchspy](https://github.com/launchspyio/launchspy-agent) | LaunchSpy | 1.2.0 | Ads, funnels and pricing of coaches and course creators: Meta ads, hooks, funne… |
-| 2026-11-12 14:08:30 | app.kikuyo/kikuyo | Kikuyo | 0.1.0 | Read, create, triage and comment on user feedback and feature requests on your… |
-| 2026-11-12 14:10:29 | io.github.thdelmas/suelomio | Suelomio | 2.0.0 | Spanish parcel buildability, flood, radon and seismic checks by cadastral refer… |
-| 2026-11-12 14:10:29 | io.sslip.82-47-146-248/hive | Hive | 1.0.0 | Free public home for AI agents: register, store markdown/JSON records, inbox, r… |
-| 2026-11-12 14:12:20 | io.invoicethem/invoicethem | InvoiceThem | 1.0.0 | Create, send and track invoices for freelancers and contractors. |
-| 2026-11-12 14:13:49 | [io.github.callobuzz/cob-rag-mcp](https://github.com/callobuzz/cob-rag-mcp) | cob-rag-mcp | 0.2.0 | Give any MCP client a business's own knowledge base from a self-hosted cob-rag-… |
-| 2026-11-12 14:14:27 | io.github.kontent-ai/mcp-server | Kontent.ai MCP server | 1.0.0 | Hosted Kontent.ai MCP server to manage content, types, taxonomies, and workflows |
-| 2026-11-12 14:15:07 | es.argohub.www/fulfillment-ecommerce | Argo Hub Fulfillment Ecommerce | 1.0.0 | Calculate ecommerce fulfillment plans, logistics budgets and warehouse cost com… |
-| 2026-11-12 14:18:05 | tr.com.ardicperde/honest-curtain-atelier | Ardıç Perde Ankara — İyi Niyet & Teksti… | 3.6.0 | Ankara özel ölçü perde, tekstil kimlik kartları ve KDV dahil fiyat hesaplama MC… |
-| 2026-11-12 14:20:45 | [io.github.oguz-kagan-gocmez-edu/apple-calendar-mcp](https://github.com/oguz-kagan-gocmez-edu/apple-calendar-mcp) | Apple Calendar (EventKit) | 0.2.0 | Read and manage Apple Calendar on macOS via EventKit: events, free slots, recur… |
+| 2026-11-12 14:23:43 | io.github.ScionicTechDev/financial-news-sentiment | Financial News Sentiment | 1.0.18 | Score recent news for stock tickers as bullish, neutral or bearish. Via Apify M… |
+| 2026-11-12 14:25:07 | co.fiz/fiz | FIZ | 0.1.0 | Certified Portuguese invoicing: issue faturas reported to AT, customers, items,… |
+| 2026-11-12 14:32:11 | [io.github.zhitongblog/ziplark](https://github.com/zhitongblog/ziplark) | Ziplark | 0.5.0 | Archive server: grep, read, extract, edit, convert & create ZIP, 7z, tar, RAR,… |
+| 2026-11-12 14:32:42 | [io.github.neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp) | FreeCAD MCP | 0.1.31 | Control FreeCAD from MCP clients: create and edit models, run Python and FEM an… |
+| 2026-11-12 14:33:11 | com.aiseewhy/aiseewhy | AISeeWhy | 1.0.0 | Can ChatGPT, Claude and Perplexity crawlers read your page? Audit, fixes, compa… |
+| 2026-11-12 14:33:17 | com.testorchestrator/testorchestrator | TestOrchestrator | 1.0.0 | Test management for AI agents: cases, runs, results, cycles and traceability. |
+| 2026-11-12 14:37:49 | com.alertachart/alertachart | Alerta Chart | 1.0.0 | Read and draw on your Alerta Chart charts, scan stocks, forex and crypto, and s… |
+| 2026-11-12 14:42:30 | com.shardconnector/shardconnector | Shard Connector for Obsidian | 1.3.0 | Read, search, create and edit notes in an Obsidian Sync vault. |
+| 2026-11-12 14:43:54 | [io.github.ArturLys/listonic-mcp](https://github.com/ArturLys/listonic-mcp) |  | 0.1.1 | Let your AI manage your real grocery list — unofficial Listonic MCP server |
+| 2026-11-12 14:44:51 | [io.github.fellanH/context-vault](https://github.com/fellanH/context-vault) | Context Vault | 4.0.0 | Hosted memory for AI agents: save what your agent learns and recall it in the n… |
+| 2026-11-12 14:48:23 | com.clawhard/border | Border | 1.0.0 | Debug CORS: send the real preflight, get Chrome's exact error and the headers t… |
+| 2026-11-12 14:48:32 | com.racketplus/badminton | RacketPlus Badminton | 1.0.0 | Search and compare badminton rackets, check gear offers, and look up world rank… |
+| 2026-11-12 14:50:26 | [io.github.callobuzz/cob-shopify-mcp](https://github.com/callobuzz/cob-shopify-mcp) | cob-shopify-mcp | 0.12.1 | Run a Shopify store from any MCP client: products, orders, customers, stock and… |
+| 2026-11-12 14:51:57 | io.github.noahowsh/yorkerapi | YorkerAPI | 1.1.6 | Cricket ball by ball in every format, men's and women's, joined to sportsbook m… |
+| 2026-11-12 14:55:03 | [io.github.Apexflowlabsllc/apex-flow-web-scraper](https://github.com/Apexflowlabsllc/apex-flow-web-scraper) | Apex Flow 3D Scraper | 0.3.1 | Extract public pages into Markdown, CSS fields and RAG chunks with source recei… |
+| 2026-11-12 14:55:10 | [space.specky.vouch/mcp](https://github.com/fathyshalaby/idea-validations) | Vouch | 1.1.0 | Validate a startup or product idea before building. Names the 3 assumptions mos… |
+| 2026-11-12 14:59:44 | [io.strunk/google-docs-comments](https://github.com/firstcrack-studio/claude-plugin) | Strunk | 1.0.1 | Publish drafts to Google Docs for review, then revise and resolve reviewer comm… |
+| 2026-11-12 15:03:44 | com.365pinterest/365-pinterest | 365 Pinterest | 0.2.0 | Pinterest automation: schedule pins, manage boards, write AI blogs and auto-pin… |
+| 2026-11-12 15:05:44 | [io.github.juulieen/beeper-mcp-addon](https://github.com/juulieen/beeper-mcp-addon) | Beeper MCP Addon | 0.1.0 | Files and new conversations for Beeper's MCP: send/download attachments, find c… |
+| 2026-11-12 15:09:07 | com.md-doc/md-doc | md-doc | 1.0.0 | Shared notes, logs, issues and secrets for Claude, ChatGPT and local models. |
+| 2026-11-12 15:11:14 | finance.vybe/pay | Vybe Pay MCP | 1.0.0 | Let Claude or Cursor pay for MCP tools under hard caps, with Approve or Decline… |
+| 2026-11-12 15:12:14 | [com.formasty/form-builder](https://github.com/QuantumCoderSys/formasty-mcp) | Formasty | 1.0.3 | Build forms, quizzes, and surveys from your AI assistant. Create, edit, publish… |
+| 2026-11-12 15:12:34 | com.raiselens/raise-lens | Raise Lens | 0.5.0 | Search sustainability grants, tenders and funders, with open status, deadlines… |
+| 2026-11-12 15:13:04 | io.github.santorilabs/station | Station | 0.4.1 | Meeting rooms for your agents: open a room, say something in it, and put notes… |
+| 2026-11-12 15:14:46 | com.werop/catalog | Werop | 1.2.0 | Search independent fashion from European brands on Werop and build a checkout l… |
+| 2026-11-12 15:17:54 | [com.edifabric/edifabric-mcp](https://github.com/EdiFabric/edifabric-mcp) | ediFabric EDI | 1.0.0 | Validate, parse, build and acknowledge X12 and HIPAA EDI files locally with edi… |
+| 2026-11-12 15:18:08 | [io.github.loxhness/devpulse-mcp](https://github.com/loxhness/devpulse-mcp) |  | 0.1.2 | Zero-config MCP server for AI coding assistants. Diagnoses your dev environment… |
+| 2026-11-12 15:18:30 | ai.contentsweep/airflow-dag-doctor | Airflow DAG Doctor | 1.0.0 | Diagnose exported Airflow DAG source and task incidents with evidence and expli… |
+| 2026-11-12 15:18:31 | ai.contentsweep/deployment-fixer | Deployment Fixer | 1.0.0 | Read-only FastAPI container assessment with file evidence and an advisory deplo… |
+| 2026-11-12 15:20:21 | com.shardconnector/shard-for-obsidian | Shard Connector for Obsidian | 1.3.0 | Hosted MCP server for Obsidian Sync vaults: read, search, edit notes. Not affil… |
 
 ## Data source
 

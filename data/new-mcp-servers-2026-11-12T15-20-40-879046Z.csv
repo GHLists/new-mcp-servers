@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-11-12T14:23:43.577848Z,io.github.ScionicTechDev/financial-news-sentiment,Financial News Sentiment,1.0.18,,streamable-http,"Score recent news for stock tickers as bullish, neutral or bearish. Via Apify MCP (token needed)."
+2026-11-12T14:25:07.633299Z,co.fiz/fiz,FIZ,0.1.0,,streamable-http,"Certified Portuguese invoicing: issue faturas reported to AT, customers, items, bank and expenses."
+2026-11-12T14:32:11.930653Z,io.github.zhitongblog/ziplark,Ziplark,0.5.0,https://github.com/zhitongblog/ziplark,,"Archive server: grep, read, extract, edit, convert & create ZIP, 7z, tar, RAR, ISO, DEB, RPM, CAB."
+2026-11-12T14:32:42.358648Z,io.github.neka-nat/freecad-mcp,FreeCAD MCP,0.1.31,https://github.com/neka-nat/freecad-mcp,,"Control FreeCAD from MCP clients: create and edit models, run Python and FEM analyses."
+2026-11-12T14:33:11.771073Z,com.aiseewhy/aiseewhy,AISeeWhy,1.0.0,,streamable-http,"Can ChatGPT, Claude and Perplexity crawlers read your page? Audit, fixes, compare, monitoring."
+2026-11-12T14:33:17.138341Z,com.testorchestrator/testorchestrator,TestOrchestrator,1.0.0,,streamable-http,"Test management for AI agents: cases, runs, results, cycles and traceability."
+2026-11-12T14:37:49.496909Z,com.alertachart/alertachart,Alerta Chart,1.0.0,,streamable-http,"Read and draw on your Alerta Chart charts, scan stocks, forex and crypto, and set alerts."
+2026-11-12T14:42:30.78577Z,com.shardconnector/shardconnector,Shard Connector for Obsidian,1.3.0,,streamable-http,"Read, search, create and edit notes in an Obsidian Sync vault."
+2026-11-12T14:43:54.935655Z,io.github.ArturLys/listonic-mcp,,0.1.1,https://github.com/ArturLys/listonic-mcp,,Let your AI manage your real grocery list — unofficial Listonic MCP server
+2026-11-12T14:44:51.804267Z,io.github.fellanH/context-vault,Context Vault,4.0.0,https://github.com/fellanH/context-vault,streamable-http,Hosted memory for AI agents: save what your agent learns and recall it in the next session.
+2026-11-12T14:48:23.1564Z,com.clawhard/border,Border,1.0.0,,streamable-http,"Debug CORS: send the real preflight, get Chrome's exact error and the headers that fix it."
+2026-11-12T14:48:32.903637Z,com.racketplus/badminton,RacketPlus Badminton,1.0.0,,streamable-http,"Search and compare badminton rackets, check gear offers, and look up world rankings and results."
+2026-11-12T14:50:26.628868Z,io.github.callobuzz/cob-shopify-mcp,cob-shopify-mcp,0.12.1,https://github.com/callobuzz/cob-shopify-mcp,,"Run a Shopify store from any MCP client: products, orders, customers, stock and analytics."
+2026-11-12T14:51:57.83067Z,io.github.noahowsh/yorkerapi,YorkerAPI,1.1.6,,streamable-http,"Cricket ball by ball in every format, men's and women's, joined to sportsbook match-winner prices."
+2026-11-12T14:55:03.659054Z,io.github.Apexflowlabsllc/apex-flow-web-scraper,Apex Flow 3D Scraper,0.3.1,https://github.com/Apexflowlabsllc/apex-flow-web-scraper,streamable-http,"Extract public pages into Markdown, CSS fields and RAG chunks with source receipts."
+2026-11-12T14:55:10.900166Z,space.specky.vouch/mcp,Vouch,1.1.0,https://github.com/fathyshalaby/idea-validations,streamable-http,Validate a startup or product idea before building. Names the 3 assumptions most likely to kill it.
+2026-11-12T14:59:44.079551Z,io.strunk/google-docs-comments,Strunk,1.0.1,https://github.com/firstcrack-studio/claude-plugin,streamable-http,"Publish drafts to Google Docs for review, then revise and resolve reviewer comments in your AI tool"
+2026-11-12T15:03:44.826534Z,com.365pinterest/365-pinterest,365 Pinterest,0.2.0,,streamable-http,"Pinterest automation: schedule pins, manage boards, write AI blogs and auto-pin them."
+2026-11-12T15:05:44.701244Z,io.github.juulieen/beeper-mcp-addon,Beeper MCP Addon,0.1.0,https://github.com/juulieen/beeper-mcp-addon,,"Files and new conversations for Beeper's MCP: send/download attachments, find contacts, start chats."
+2026-11-12T15:09:07.028048Z,com.md-doc/md-doc,md-doc,1.0.0,,streamable-http,"Shared notes, logs, issues and secrets for Claude, ChatGPT and local models."
+2026-11-12T15:11:14.68781Z,finance.vybe/pay,Vybe Pay MCP,1.0.0,,streamable-http,"Let Claude or Cursor pay for MCP tools under hard caps, with Approve or Decline on every pay."
+2026-11-12T15:12:14.457342Z,com.formasty/form-builder,Formasty,1.0.3,https://github.com/QuantumCoderSys/formasty-mcp,streamable-http,"Build forms, quizzes, and surveys from your AI assistant. Create, edit, publish, and read responses."
+2026-11-12T15:12:34.251728Z,com.raiselens/raise-lens,Raise Lens,0.5.0,,streamable-http,"Search sustainability grants, tenders and funders, with open status, deadlines and source links"
+2026-11-12T15:13:04.704496Z,io.github.santorilabs/station,Station,0.4.1,,,"Meeting rooms for your agents: open a room, say something in it, and put notes on its board."
+2026-11-12T15:14:46.017592Z,com.werop/catalog,Werop,1.2.0,,streamable-http,Search independent fashion from European brands on Werop and build a checkout link.
+2026-11-12T15:17:54.07193Z,com.edifabric/edifabric-mcp,ediFabric EDI,1.0.0,https://github.com/EdiFabric/edifabric-mcp,,"Validate, parse, build and acknowledge X12 and HIPAA EDI files locally with ediFabric Native."
+2026-11-12T15:18:08.657982Z,io.github.loxhness/devpulse-mcp,,0.1.2,https://github.com/loxhness/devpulse-mcp,,Zero-config MCP server for AI coding assistants. Diagnoses your dev environment in one call.
+2026-11-12T15:18:30.18131Z,ai.contentsweep/airflow-dag-doctor,Airflow DAG Doctor,1.0.0,,streamable-http,Diagnose exported Airflow DAG source and task incidents with evidence and explicit coverage gaps.
+2026-11-12T15:18:31.176046Z,ai.contentsweep/deployment-fixer,Deployment Fixer,1.0.0,,streamable-http,Read-only FastAPI container assessment with file evidence and an advisory deployment plan.
+2026-11-12T15:20:21.711557Z,com.shardconnector/shard-for-obsidian,Shard Connector for Obsidian,1.3.0,,streamable-http,"Hosted MCP server for Obsidian Sync vaults: read, search, edit notes. Not affiliated with Obsidian."
