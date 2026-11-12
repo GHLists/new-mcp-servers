@@ -9,49 +9,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 13:21 UTC
+## Latest list — 2026-11-12 14:20 UTC
 
-New MCP servers published between 2026-11-12 12:20 UTC and 2026-11-12 13:21 UTC.
+New MCP servers published between 2026-11-12 13:21 UTC and 2026-11-12 14:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-12T13-21-00-818932Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-12T14-20-58-105575Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-12 12:22:28 | [io.github.gdhub-io/character-forge-mcp](https://github.com/gdhub-io/character-forge-mcp) | Character Forge | 0.3.2 | Characters whose every trait grows from one story, then concept art, scene, vid… |
-| 2026-11-12 12:23:43 | [io.github.datadmon/abu-dhabi-property-transactions](https://github.com/datadmon/apify-data-actors-examples) | Abu Dhabi Property Transactions (Apify)… | 1.0.1 | Abu Dhabi property sales since 2019 as JSON: AED price, price/sqm, district, pr… |
-| 2026-11-12 12:23:44 | [io.github.datadmon/chatgpt-product-feed-generator](https://github.com/datadmon/apify-data-actors-examples) | ChatGPT Product Feed Generator (Apify)… | 1.0.1 | ChatGPT Business Hub product feed (CSV/JSONL) from Google Merchant or WooCommer… |
-| 2026-11-12 12:23:44 | [io.github.datadmon/india-company-data](https://github.com/datadmon/apify-data-actors-examples) | India Company Data (Apify) - MCA compan… | 1.0.1 | India company lookup by CIN or name (MCA): status, capital, email, directors wi… |
-| 2026-11-12 12:30:37 | [com.eclipsesource/review-guard](https://github.com/eclipsesource/review-guard) | ReviewGuard | 0.4.0 | Safety boundary for agent written GitHub PR reviews: pending and invisible, sub… |
-| 2026-11-12 12:32:31 | com.goatomiq/atomiq | Atomiq | 1.0.0 | Read email marketing reports, segments and customers, and draft campaigns for r… |
-| 2026-11-12 12:36:11 | london.pawsof/paws-of-london | Paws of London | 1.0.0 | Dog-friendly pubs, cafes, hotels and dog services in London, with how each poli… |
-| 2026-11-12 12:36:12 | com.assetsforthreejs/assetsforthreejs | Assets for three.js | 1.0.0 | Search GLB 3D models for three.js by pack, era, triangles and textures, with pr… |
-| 2026-11-12 12:36:51 | com.aiappsthatwork/tools | AI Apps That Work free tools | 1.0.0 | Real cost per AI result, LLM prices, switch costs, shutdown dates, A/B test siz… |
-| 2026-11-12 12:41:03 | io.github.franciscobmacedo/postreef | Post Reef | 1.0.0 | Turn YouTube, TikTok, Instagram, Facebook, X and article URLs into transcripts,… |
-| 2026-11-12 12:41:16 | [io.github.flow-84/n8n-guard](https://github.com/flow-84/n8n-guard) | n8n-guard | 0.1.0 | Read-only health checks for self-hosted n8n: datastore growth, stuck runs, rete… |
-| 2026-11-12 12:42:56 | [io.github.roystondwork-dev/diskdiet](https://github.com/roystondwork-dev/diskdiet) | diskdiet | 0.6.1 | See what developer caches and old node_modules use disk space, and free it safe… |
-| 2026-11-12 12:47:28 | [com.referralmeter/mcp](https://github.com/ajussis/referralmeter-js) | Referralmeter | 1.0.0 | Affiliate program tracking: codes, signups and sales for the connected program. |
-| 2026-11-12 12:53:56 | [io.github.Adityarajtiwari880/verisight](https://github.com/Adityarajtiwari880/verisight) | VeriSight MCP | 2.2.1 | Sub-3ms OpenCV 5 visual forensics & AI inpainting fraud detection MCP server. |
-| 2026-11-12 12:56:51 | [io.github.Artoxem/workspace-operator](https://github.com/Artoxem/workspace-operator) | Workspace Operator | 1.22.1 | Google Workspace automation for AI agents: 132 tools, safe bulk operations, und… |
-| 2026-11-12 12:58:02 | com.nogamovement/la-tech-designs | LA Tech Designs | 1.1.0 | Custom websites with an AI concierge, booking and an AI door built in. Score an… |
-| 2026-11-12 12:58:54 | com.sendhour/sendhour | Sendhour | 1.0.0 | Find trending TikToks and Shorts in your niche, make your version, schedule pos… |
-| 2026-11-12 12:58:56 | com.hailbell.api/hailbell | Hailbell | 1.0.0 | In-app support chat and push notifications for iOS, Android and web apps: reply… |
-| 2026-11-12 13:00:43 | [io.github.gwhthompson/grist-mcp-server](https://github.com/gwhthompson/grist-mcp-server) |  | 2.0.34 | 11 tools for managing Grist documents with AI |
-| 2026-11-12 13:00:51 | [com.primaverapp/primavera](https://github.com/Primavera-SaaS/primavera-mcp) | Primavera | 1.0.0 | Prospect lists of businesses from Google Maps and their websites: target, count… |
-| 2026-11-12 13:01:20 | io.devshelf/devshelf | DevShelf.io | 1.0.0 | Hand-reviewed catalog of dev tools and resources, with pricing and alternatives. |
-| 2026-11-12 13:02:37 | [io.github.landedjobs/landed](https://github.com/landedjobs/landed-mcp) | Landed | 0.3.0 | Sign in with landed to search jobs ranked to your résumé and fetch free intervi… |
-| 2026-11-12 13:03:55 | com.geloky/geocoding | Geloky Geocoding | 1.0.0 | Geocode and reverse geocode addresses, road distances and multi-stop routes. $0… |
-| 2026-11-12 13:06:41 | dev.moneytools/payment-safety | MoneyTools payment-safety suite | 2.11.11 | Call before paying any x402 seller: 402/OFAC precheck, verify, approval, ledger |
-| 2026-11-12 13:08:15 | app.andock/mail | Andock | 0.1.0 | Your mailbox at GMX, Yahoo, AOL, IONOS, Bluewin or your web host, for your AI a… |
-| 2026-11-12 13:08:53 | com.hyprcart/admin | Hyprcart Admin | 1.0.0 | Manage a Hyprcart store: catalog, prices, stock, orders and content, with the m… |
-| 2026-11-12 13:09:06 | com.papyrascoupons/coupons | Papyras Coupons | 1.1.0 | Live coupon codes and deals for 8,000+ online stores, from official affiliate p… |
-| 2026-11-12 13:09:36 | io.github.kizukidata/eu-tenders | Kizuki EU Tenders | 1.0.0 | New EU public tenders from TED by country, CPV, buyer or value, with deadlines… |
-| 2026-11-12 13:09:37 | io.github.kizukidata/social-monitoring | Kizuki Social Monitoring | 1.0.0 | Bluesky posts and follower counts, Telegram channel posts and note.com articles… |
-| 2026-11-12 13:09:38 | io.github.kizukidata/work-visa-data | Kizuki Work Visa Data | 1.0.0 | UK jobs checked against the sponsor register, plus Canada's positive LMIA emplo… |
-| 2026-11-12 13:15:46 | io.github.kwb-commits/diopter-ai | Diopter AI | 1.0.0 | Real-time detection of deepfakes, voice cloning and AI social engineering on li… |
-| 2026-11-12 13:19:37 | ma.madda/law | madda — Moroccan law, article by article | 1.0.0 | Search and read Moroccan law article by article, in Arabic and French, with cit… |
-| 2026-11-12 13:20:01 | [io.github.srmadscience/mcpdbwizard-mariadb](https://github.com/srmadscience/mcpdbwizard-mariadb) | MCPDBWizard for MariaDB | 2.0.36 | A MariaDB MCP server built from the procedures, tables and statements you selec… |
-| 2026-11-12 13:20:14 | [io.github.srmadscience/mcpdbwizard](https://github.com/srmadscience/mcpdbwizard-open) | MCPDBWizard | 2.0.35 | An Oracle MCP server built from the PL/SQL, tables and statements you select. N… |
-| 2026-11-12 13:20:18 | [io.github.asgerami/wrangl](https://github.com/asgerami/wrangl) | Wrangl | 0.6.0 | Turn any REST API into MCP tools, from an OpenAPI spec, a Postman collection, o… |
+| 2026-11-12 13:22:21 | io.github.JusticeUA/iowa-company-check | Iowa Company Check | 0.1.0 | Iowa company checks by business number: active status, legal form, LEI and sanc… |
+| 2026-11-12 13:22:21 | io.github.JusticeUA/district-of-columbia-company-check | District of Columbia Company Check | 0.1.0 | District of Columbia company checks by file number: status, revocation flags, L… |
+| 2026-11-12 13:22:24 | com.kaupr/kaupr | Kaupr | 1.0.0 | Dated record of what companies run, sell, hire and say on their websites, with… |
+| 2026-11-12 13:24:15 | xyz.prexel/markets-free | Prexel Markets Free | 1.1.0 | Bitcoin Synthesis and Daily Brief with dated evidence, source clocks and a mini… |
+| 2026-11-12 13:24:27 | [io.github.dewayneku/hma-mcp](https://github.com/dewayneku/hma-mcp) | HexManiacAdvance (hma-mcp) | 0.1.0 | Hack GBA Pokémon ROMs with HexManiacAdvance's engine: tables, maps, scripts, te… |
+| 2026-11-12 13:24:46 | xyz.prexel/markets-pro | Prexel Markets Pro | 1.1.0 | For Pro accounts: current Bitcoin Synthesis, Daily Brief and capture-pinned sig… |
+| 2026-11-12 13:29:32 | pl.ksefcanvas/ksefcanvas | KSeF Canvas | 1.0.0 | Polish e-invoices (faktury) in KSeF: clients, products, drafts, validation and… |
+| 2026-11-12 13:31:22 | [io.github.m3taz-ahmed/aizee](https://github.com/m3taz-ahmed/aizee) | aiZee | 6.8.3 | Policy-governed MCP control plane: enforcement gates, budgets, injection defens… |
+| 2026-11-12 13:31:57 | io.github.JusticeUA/baltic-company-check | Baltic Company Check | 0.1.0 | Baltic company checks (Estonia, Latvia, Lithuania): status, insolvency, legal f… |
+| 2026-11-12 13:34:39 | [io.github.DarrickBM/utm-watch](https://github.com/DarrickBM/utm-watch) | UTM Watch | 0.7.1 | Read-only history of UTM VMs on a Mac: CPU, memory, disk, network, ping, incide… |
+| 2026-11-12 13:35:38 | io.github.JusticeUA/slovakia-company-check | Slovakia Company Check | 0.1.0 | Slovakia company checks by IČO: status, bankruptcy, liquidation, legal form, LE… |
+| 2026-11-12 13:36:09 | io.github.marcanthonybeare-agentpay/payout-check | Payout Check | 1.0.0 | Validate LATAM payout beneficiaries (tax ID, bank account, PIX) for MX, BR, AR,… |
+| 2026-11-12 13:37:46 | br.com.rushcrm/crm | RushCRM | 1.0.0 | Brazilian WhatsApp CRM: contacts, deals, pipelines, WhatsApp messages and autom… |
+| 2026-11-12 13:40:05 | me.citou/citou | Citou | 1.0.0 | Your brand's AI visibility (GEO/AEO): metrics, share of voice, citations, site… |
+| 2026-11-12 13:41:30 | com.simowl/esim | SimOwl travel eSIM | 1.0.0 | Travel eSIM plans for 145+ countries: prices, buy links, phone eSIM check, trip… |
+| 2026-11-12 13:43:21 | [dev.cardscope/link-preview](https://github.com/danroot/cardscope) | CardScope Link Preview | 1.0.0 | What each app will show for a URL: layout, title, image, and the fixes. |
+| 2026-11-12 13:46:51 | io.github.JusticeUA/us-states-company-check | US States Company Check | 0.1.0 | US state company checks (CT, CO, PA, IA, DC) by state ID: status, legal form, L… |
+| 2026-11-12 13:47:53 | [ai.homouniversalis/robotics-ros2-humanoid-embodied-ai-safety-proxemics-eu-ai-act-ieee-7001-w3c-vc-verifiable-credentials-human-dignity-guardrails-compliance-audit](https://github.com/David-Porto-Baraldes/Viveka_Web) | Homo Universalis — ROS 2 Humanoid Robot… | 1.6.0 | Zero-auth ROS 2 Humanoid Symbiosis, Q3 Proxemics, Cost-Zero-Stop, EU AI Act, IE… |
+| 2026-11-12 13:48:43 | dev.bugsly/mcp-server | Bugsly | 0.5.0 | Let AI agents list, read and resolve Bugsly error-tracking issues and check mon… |
+| 2026-11-12 13:53:11 | at.drei-business/business-mobilfunk | Drei Business | 1.0.0 | Drei Business: Kontakt, Standorte, Öffnungszeiten, Ganze Website als Text, Ein… |
+| 2026-11-12 13:53:12 | [io.hibira/mcp-approval-gate](https://github.com/hibira-io/mcp-approval-gate) | Approval gate for databases | 0.2.0 | Wraps a database MCP server: reads pass, writes wait for a supervisor to approv… |
+| 2026-11-12 13:53:15 | sk.nisava/shop | Nisava | 1.0.0 | Nisava: Kontakt, Standorte, Öffnungszeiten, Ganze Website als Text, Ein Abschni… |
+| 2026-11-12 13:53:18 | tech.aihall/ai-agents | aihall | 1.0.0 | aihall: Kontakt, Standorte, Öffnungszeiten, Ganze Website als Text, Ein Abschni… |
+| 2026-11-12 13:53:25 | [io.github.sathya-sankaran/twelveswaras](https://github.com/twelveswaras/twelveswaras) | twelveswaras | 1.0.0 | Identify the raaga in Carnatic or Hindustani music; look up 70 raagas' scales a… |
+| 2026-11-12 13:53:53 | [io.github.sathya-sankaran/mugilu](https://github.com/urbanmorph/mugilu) | mugilu | 1.0.0 | The sky over any place in India now: air quality, heat, rain, fog, smoke, UV, o… |
+| 2026-11-12 13:54:14 | [io.github.sathya-sankaran/yellide](https://github.com/urbanmorph/overlooked) | yellide | 1.0.0 | Species of India: find species, where they occur, and their status, from open b… |
+| 2026-11-12 13:56:21 | xyz.iris-media/iris | IRIS: startup intelligence | 1.0.0 | Sourced startup intelligence: SEC Form D rounds, launches, tech wire, market an… |
+| 2026-11-12 13:56:43 | [io.github.rbrtlol/canvas-readonly-mcp](https://github.com/rbrtlol/canvas-readonly-mcp) | Canvas LMS (read-only) | 2.2.0 | Read-only Canvas LMS for students: what changed in your courses, search across… |
+| 2026-11-12 13:57:50 | [io.github.Abhinav-Prabhakar/book-downloader-mcp](https://github.com/Abhinav-Prabhakar/BookDownloaderMCP) | Book Downloader (LibGen) | 4.0.1 | Search Library Genesis and download ebooks with MD5 verification and mirror fai… |
+| 2026-11-12 13:57:56 | [io.github.Abhinav-Prabhakar/monkeytype-mcp](https://github.com/Abhinav-Prabhakar/MonkeytypeMCP) | Monkeytype | 2.0.1 | Monkeytype typing profiles, results, streaks, leaderboards and global stats for… |
+| 2026-11-12 14:02:24 | [io.launchspy/launchspy](https://github.com/launchspyio/launchspy-agent) | LaunchSpy | 1.2.0 | Ads, funnels and pricing of coaches and course creators: Meta ads, hooks, funne… |
+| 2026-11-12 14:08:30 | app.kikuyo/kikuyo | Kikuyo | 0.1.0 | Read, create, triage and comment on user feedback and feature requests on your… |
+| 2026-11-12 14:10:29 | io.github.thdelmas/suelomio | Suelomio | 2.0.0 | Spanish parcel buildability, flood, radon and seismic checks by cadastral refer… |
+| 2026-11-12 14:10:29 | io.sslip.82-47-146-248/hive | Hive | 1.0.0 | Free public home for AI agents: register, store markdown/JSON records, inbox, r… |
+| 2026-11-12 14:12:20 | io.invoicethem/invoicethem | InvoiceThem | 1.0.0 | Create, send and track invoices for freelancers and contractors. |
+| 2026-11-12 14:13:49 | [io.github.callobuzz/cob-rag-mcp](https://github.com/callobuzz/cob-rag-mcp) | cob-rag-mcp | 0.2.0 | Give any MCP client a business's own knowledge base from a self-hosted cob-rag-… |
+| 2026-11-12 14:14:27 | io.github.kontent-ai/mcp-server | Kontent.ai MCP server | 1.0.0 | Hosted Kontent.ai MCP server to manage content, types, taxonomies, and workflows |
+| 2026-11-12 14:15:07 | es.argohub.www/fulfillment-ecommerce | Argo Hub Fulfillment Ecommerce | 1.0.0 | Calculate ecommerce fulfillment plans, logistics budgets and warehouse cost com… |
+| 2026-11-12 14:18:05 | tr.com.ardicperde/honest-curtain-atelier | Ardıç Perde Ankara — İyi Niyet & Teksti… | 3.6.0 | Ankara özel ölçü perde, tekstil kimlik kartları ve KDV dahil fiyat hesaplama MC… |
+| 2026-11-12 14:20:45 | [io.github.oguz-kagan-gocmez-edu/apple-calendar-mcp](https://github.com/oguz-kagan-gocmez-edu/apple-calendar-mcp) | Apple Calendar (EventKit) | 0.2.0 | Read and manage Apple Calendar on macOS via EventKit: events, free slots, recur… |
 
 ## Data source
 
