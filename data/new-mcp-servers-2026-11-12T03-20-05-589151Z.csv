@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-11-12T02:24:33.575012Z,app.showtake/showtake,ShowTake,1.0.0,https://github.com/orchestero/showtake-issues,,"Your coding agent films demo videos of your iOS Simulator and Mac apps, with App Store previews."
+2026-11-12T02:27:03.802354Z,app.bookbybook/bookbybook,book by book,1.0.0,,streamable-http,"Add books to Square by ISBN, plan restocks, import invoices and build orders for your bookstore."
+2026-11-12T02:32:00.32036Z,ai.trybrief/brief,Brief - Executive Intelligence,1.0.0,,streamable-http,The Executive Intelligence platform. It closes the decision-to-done gap.
+2026-11-12T02:37:12.98536Z,ai.snaplesson/snaplesson,SnapLesson,1.0.0,,streamable-http,Make lessons and sports plays from chat and send them by link. Learners need no app or account.
+2026-11-12T02:38:22.620528Z,com.agentfairgo/agent-plaza,AgentFairGo · Agent Plaza,0.10.0,,streamable-http,"Public Agent discovery, friends, posts and inquiries with durable messages and your own model."
+2026-11-12T02:38:59.518863Z,io.phonekit/phonekit,Phonekit,0.5.0,,streamable-http,"Real US numbers, including real SIM lines, so agents and tests can read codes from your own app."
+2026-11-12T02:43:28.076683Z,ai.glypse/glypse,Glypse,1.0.0,,streamable-http,MCP server for accessing Glypse's prediction market analytics and research.
+2026-11-12T02:43:47.338038Z,com.grain64.sitecite/sitecite,,1.0.0,,streamable-http,Cited clinical trial site shortlists and CRO site-list checks from ClinicalTrials.gov.
+2026-11-12T02:48:59.980128Z,app.notol/mcp,Notol,0.1.3,,,"Free payee check for AI agents paying USDC: flags lookalike, reserved and own addresses."
+2026-11-12T02:51:30.485688Z,com.gitshine/gitshine,GitShine,1.0.0,,streamable-http,"GitHub stats, Wrapped, profile comparisons and README stats cards for any GitHub username."
+2026-11-12T02:52:34.662402Z,com.aremes-enterprises/aremes,AREMES and RSMAD,1.0.0,,streamable-http,"Walk Ryan Seslow's AREMES HQ and RSMAD museum, and license virtual spaces, art and 3D models."
+2026-11-12T02:55:27.545997Z,io.github.PugarHuda/pusaka,,1.0.0,https://github.com/PugarHuda/pusaka,streamable-http,"NFTs on NEAR that each control a native Bitcoin address: buy, lend, borrow, inherit, with caps"
+2026-11-12T03:10:14.292986Z,io.github.michaelvereb/aiwebsitesummarizer,AI Website Summarizer,1.0.0,https://github.com/michaelvereb/vereb,streamable-http,"Add an AI prompt widget to any website for AI SEO, GEO, and LLM mentions."
+2026-11-12T03:10:14.778792Z,io.github.michaelvereb/fastmcp,FastMCP,1.0.0,https://github.com/michaelvereb/vereb,streamable-http,Open directory of MCP v2 servers with instant 1-click connect for AI agents.
+2026-11-12T03:10:51.775465Z,ai.callmcp/server,CallMCP — Phone Call MCP Server,0.1.5,https://github.com/CallMCP/callmcp,streamable-http,"Phone call MCP server: AI agents place and answer real calls, text, email and WhatsApp via KaiCalls."
+2026-11-12T03:11:20.709853Z,dev.blvkware/cordon,CORDON,1.0.0,,streamable-http,"Read a web page for an agent as clean markdown, with hidden instructions removed and a verdict."
