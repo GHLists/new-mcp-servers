@@ -1,0 +1,15 @@
+created_at,server,title,version,repository,transports,description
+2026-11-12T01:33:35.937157Z,io.github.johanneskanter-alt/adkorly,,0.1.0,,streamable-http,"Ad accounts, wallet, campaigns and ad review status for paid social. Snapchat today, more soon."
+2026-11-12T01:34:17.152674Z,io.github.Ustay-coder/verdict,Verdict,0.3.2,https://github.com/Ustay-coder/verdict,,"Score text, files and pages against a rubric with decision models; compare models on your cases."
+2026-11-12T01:35:28.86264Z,io.storerocket/storerocket,StoreRocket Store Locator,1.0.0,,streamable-http,"Set up your store locator from AI: add stores, get the install code, see what visitors search for."
+2026-11-12T01:35:49.758432Z,io.github.DIALLOUBE-RESEARCH/hypernatt-terminal,hypernatt-terminal,2.10.0,https://github.com/DIALLOUBE-RESEARCH/hypernatt-terminal,streamable-http; sse,"Liquidation radar, recorded BTC/ETH depth and flow, Li.Fi swaps, L2 archive catalog. 5 tools; x402."
+2026-11-12T01:42:27.556756Z,net.hostveritas/hosting-research,HostVeritas Hosting Research,0.1.0,,streamable-http,Search and compare public hosting-provider facts with sources and explicit unknowns.
+2026-11-12T01:42:47.783296Z,com.getpingdeck/uptime,PingDeck Uptime Monitoring,2.0.0,,streamable-http,"Check if a website is up, SSL expiry and DNS. 24/7 uptime monitors. No account for a check."
+2026-11-12T02:07:01.423273Z,com.integratestack/integration-facts,IntegrateStack Integration Facts,2026.11.11,,streamable-http,"Vendor-sourced facts on native integrations between SaaS tools, with sources and checked dates."
+2026-11-12T02:08:55.86929Z,design.refy/refy,Refy,1.5.1,https://github.com/viniciuscoimbra/refy-design,streamable-http,"Design system for agents: find components by need, check code against the real API, build themes."
+2026-11-12T02:10:28.86744Z,io.github.gekkyo/animate-mcp,,0.1.5,https://github.com/gekkyo/animate-mcp,,"Inspect Adobe Animate documents and edit frame scripts, timelines, tweens, and library items."
+2026-11-12T02:10:56.368878Z,si.opencheap/opencheap,OpenCheap,1.0.0,,streamable-http,"Run an OpenCheap LLM API account: model prices, spend-capped keys, budgets, usage and gateways."
+2026-11-12T02:13:22.962773Z,com.hydracept/vscode,Hydracept,0.5.5,https://github.com/zencodeinc/hydracept-public,streamable-http,"OAuth MCP for text, jobs, quotes, and receipts. No image/video/audio/3D generation."
+2026-11-12T02:17:29.021438Z,io.github.openyard-cloud/vetcode,vetcode,0.8.4,https://github.com/openyard-cloud/vetcode,,"Security check for coding agents: malware, supply chain, secrets and web bugs. Reads, never runs."
+2026-11-12T02:18:33.682871Z,dog.p7n/platform7n,Platform7n,0.4.0,,streamable-http,"Connect Claude to your Platform7n workspaces: chat, links, work and decks. One-click OAuth."
+2026-11-12T02:20:05.406258Z,io.github.zz-plant/refract,Refract,0.6.1,https://github.com/zz-plant/refract,,"git log for Wikipedia: typed events for changed sentences, citations, and structure on any page."
