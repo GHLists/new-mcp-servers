@@ -1,0 +1,52 @@
+created_at,server,title,version,repository,transports,description
+2026-11-12T16:21:31.55243Z,com.konexiumai/konexium,Konexium,1.0.0,,streamable-http,Find and check companies across Africa. Answers cite their sources; spending waits for approval.
+2026-11-12T16:22:18.464047Z,io.github.Davos-1/hub-dome,Hub Dome,0.1.0,,streamable-http,Turn your Claude artifacts into a 3D village you can share with friends
+2026-11-12T16:24:35.410564Z,net.sportcation/sports-trip-planner-mcp,Sports Trips by SportCation,1.0.0,https://github.com/SportCation-net/sports-trip-planner-mcp,streamable-http,Find same-sport and mixed-sport weekend trips with SportCation planning estimates.
+2026-11-12T16:27:17.581084Z,io.github.zenod-ai/zenod,Zenod,1.0.0,https://github.com/zenod-ai/zenod,streamable-http,"Keeps your memory: WhatsApp, voice or any AI tool over MCP, Markdown you own, recall with sources"
+2026-11-12T16:27:57.251188Z,com.casakimball/villa,Casa Kimball,1.0.0,,streamable-http,"Plan a stay at an oceanfront villa in Cabrera, Dominican Republic: open dates, exact quotes, holds."
+2026-11-12T16:28:55.115706Z,io.github.truthtrail/truthtrail,TruthTrail,0.4.4,,,"Record the decisions your AI coding agent makes, in the repo and on the Jira or GitHub ticket."
+2026-11-12T16:31:30.908783Z,com.listbouncer/listbouncer,ListBouncer,1.0.0,,streamable-http,Check email addresses and clean email lists before you send. Uses your ListBouncer credits.
+2026-11-12T16:32:43.97246Z,io.github.pdxlab/trustmodel-mcp,,0.2.2,https://github.com/pdxlab/trustmodel-mcp-server,,"Score any AI for trust across 10 dimensions; evaluate, monitor & govern LLMs and agents."
+2026-11-12T16:37:26.015794Z,co.quivo/connector,Quivo Connector MCP,1.0.0,,streamable-http,"Orders, shipments, returns, products and stock in your Quivo Connector account."
+2026-11-12T16:37:26.241788Z,io.github.Kubyer/struggl,STRUGGL Hybrid Coach,1.3.0,https://github.com/Kubyer/struggl-mcp,streamable-http; streamable-http,"Zero-LLM-Math sports science calculators (Hyrox, 1RM/RPE, Zone 2, MEV/MRV) & workout ledger."
+2026-11-12T16:43:41.019383Z,dev.emblematic/emblematic,Emblematic,0.1.0,,streamable-http,"Real websites' design specs: exact colors, fonts, type scale and a DESIGN.md. Free, no auth."
+2026-11-12T16:45:53.356173Z,com.onrender.mosn-safety-api/mosn,MOSN Solana Safety,2.5.0,https://github.com/mosn-agent/mosn-solana-mcp,streamable-http,Solana token rug checks and safety-checked Jupiter swaps for AI agents; paid data via x402.
+2026-11-12T16:47:03.976653Z,xyz.communitystudios/ceejay,CEEJAY,1.0.0,,streamable-http,"Let AI agents read your Discord community's analytics, members and tickets, and save drafts."
+2026-11-12T16:49:23.009293Z,com.corehu/gpu-cloud,CoreHu GPU Cloud,1.0.0,,streamable-http; streamable-http,"Find and price cloud GPUs, estimate job costs, and manage your CoreHu machines with your consent."
+2026-11-12T16:50:12.593344Z,io.github.nnnoel/ytranscript-mcp,,0.1.1,https://github.com/nnnoel/ytranscript-mcp,,YouTube transcripts for AI tools. No proxies needed; transcribes videos without captions.
+2026-11-12T16:55:14.725791Z,io.github.n24q02m/telegram,Telegram MCP,4.24.0,https://github.com/n24q02m/telegram.git,,"Telegram for AI agents: messages, chats, media, and contacts in bot and user-account modes."
+2026-11-12T16:55:43.703434Z,io.github.n24q02m/workspace,,0.7.0,https://github.com/n24q02m/workspace,,"Google Workspace MCP — Docs, Drive, Calendar, Gmail, Sheets, Slides, Tasks, Chat, People, Forms"
+2026-11-12T16:56:30.503558Z,com.castthewater/cast-the-water,Cast the Water,0.1.0,,streamable-http,"Read-only fish stocking, waters and conditions data for US lakes from Cast the Water"
+2026-11-12T16:56:45.372278Z,dev.cotlet/clubready,ClubReady by Cotlet,1.0.0,,streamable-http; streamable-http,"A trial visit, an unanswered sales lead and an expiring agreement need different next steps."
+2026-11-12T16:57:07.032415Z,dev.cotlet/pike13,Pike13 by Cotlet,1.0.0,,streamable-http; streamable-http,"Pike13 separates the client, the event and the plan that pays for the visit."
+2026-11-12T16:57:28.654805Z,dev.cotlet/totalcoaching,TotalCoaching by Cotlet,1.0.0,,streamable-http; streamable-http,A TotalCoaching plan is only part of the coaching record.
+2026-11-12T16:57:50.320912Z,dev.cotlet/trainerfu,Trainerfu by Cotlet,1.0.0,,streamable-http; streamable-http,"Trainerfu's coaching work connects training plans, activity and client conversations."
+2026-11-12T16:58:12.091201Z,dev.cotlet/pabau,Pabau by Cotlet,1.0.0,,streamable-http; streamable-http,This Pabau connection is limited to scheduling and contact work.
+2026-11-12T16:58:17.736096Z,io.github.futuur/futuur-mcp,Futuur,2.0.1,https://github.com/futuur/Futuur-MCP,,"Futuur prediction markets: browse events and prices, simulate and place orders, track positions."
+2026-11-12T16:58:33.687311Z,dev.cotlet/rosy-salon-software,Rosy Salon Software by Cotlet,1.0.0,,streamable-http; streamable-http,"A Rosy appointment belongs to a client, a service and a stylist."
+2026-11-12T16:58:46.034765Z,io.github.n24q02m/notion,,2.43.0,https://github.com/n24q02m/notion.git,,"Markdown-first Notion for AI agents -- pages, databases, blocks, and comments in one call."
+2026-11-12T16:58:55.267715Z,dev.cotlet/sprout-studio,Sprout Studio by Cotlet,1.0.0,,streamable-http; streamable-http,"Sprout Studio puts a photography lead, shoot and client paperwork in one business workflow."
+2026-11-12T16:59:01.448221Z,ai.edengen/eden-gen,Eden Gen,0.1.0,https://github.com/Eden-Makers/eden-gen-plugins,streamable-http,"Generate images, video and audio with a price estimate and project budget controls."
+2026-11-12T16:59:16.857409Z,dev.cotlet/bookipi,Bookipi by Cotlet,1.0.0,,streamable-http; streamable-http,"Bookipi's business records connect the client, estimate and invoice."
+2026-11-12T16:59:30.810533Z,io.github.n24q02m/email,,1.43.0,https://github.com/n24q02m/email.git,,"IMAP/SMTP email for AI agents -- read, send, organize, and manage attachments across accounts."
+2026-11-12T17:00:23.616789Z,com.1folderapp/1folder,1folder,1.0.0,,streamable-http,"One workspace where your AI apps save pages, tables and files, with versions and a link to share."
+2026-11-12T17:00:53.367881Z,com.kuotia/kuotia,Kuotia,1.0.1,,streamable-http,"Spanish tax calendar, RETA and IRPF estimates and guides for autónomos in Spain, by Kuotia."
+2026-11-12T17:01:47.295477Z,io.github.OrygnsCode/discord-mcp,Discord MCP,2.0.0,https://github.com/OrygnsCode/discord-mcp,,"Discord server management MCP for AI agents: chat, moderation, admin, and full server building."
+2026-11-12T17:04:04.802209Z,com.gcn-alliance/phone-system,GCNA Phone System,1.0.0,,streamable-http,"Vodia PBX for Nextcloud and Odoo: integrations, current plans and prices, and how to buy."
+2026-11-12T17:04:19.273774Z,com.dialhank/hank,Hank,1.0.0,,streamable-http,"Manage call routing, on-call rotations and office hours for your Hank AI receptionist."
+2026-11-12T17:04:42.151046Z,me.dropmail/mcp,DropMail,0.2.0,,streamable-http,"Disposable temporary email: create inboxes, wait for and read incoming mail. No account needed."
+2026-11-12T17:05:11.506072Z,xyz.proofofstock/proof-of-stock,Proof of Stock,0.5.0,https://github.com/proofofstock/proof-of-stock,streamable-http,Is this stock token the real one? Checks Base and Robinhood Chain tokens against the issuers' lists.
+2026-11-12T17:07:05.753685Z,io.github.costfluent/costfluent-mcp,Costfluent,0.3.0,https://github.com/costfluent/costfluent-mcp,,"Read your Costfluent cloud costs, reports, budgets, anomalies and savings from your assistant."
+2026-11-12T17:07:15.764786Z,io.github.Ranqint/spotted,Spotted,1.0.0,,streamable-http,"Check if AI crawlers can read a site, and the questions customers ask AI about a business."
+2026-11-12T17:07:16.499338Z,io.github.Ranqint/elya-studio,Elya Studio,1.0.0,,streamable-http,Size a first product version (MVP) and check what a development quote should state.
+2026-11-12T17:07:17.172186Z,io.github.Ranqint/hero-of-you,Hero of You,1.0.0,,streamable-http,"Find a personalized illustrated children's book by age, interests and occasion."
+2026-11-12T17:07:18.039254Z,io.github.Ranqint/vibescale,VibeScale,1.0.0,,streamable-http,"Pre-launch checks for AI-built apps: leaked keys, Supabase RLS gaps, browser-exposed env vars."
+2026-11-12T17:07:18.720509Z,io.github.Ranqint/futureself,FutureSelf Vision Board Planner,1.0.0,,streamable-http,"Plan a vision board: ideas for a goal, a board plan from your goals, affirmations."
+2026-11-12T17:07:19.267935Z,io.github.Ranqint/bamboo-connect,Bamboo Connect,1.0.0,,streamable-http,"Ways to meet new people and find communities in Israeli cities, from published guides (Hebrew)."
+2026-11-12T17:07:41.542743Z,co.epish/epish,EPISH,1.0.0,,streamable-http,"Turn a product idea into a crowdfunding campaign on epish.co: story, goal, rewards, FAQs and media."
+2026-11-12T17:09:11.210616Z,io.github.telerik/telerik-blazor-mcp,,1.13.0,https://github.com/telerik/ai-plugins,,MCP server providing Telerik Blazor component knowledge and UI-generation capabilities.
+2026-11-12T17:11:24.709498Z,io.github.Nero-Engine/nero-work,Nero Work,0.1.0,https://github.com/Nero-Engine/nero-work-mcp,streamable-http,"Trades job exchange for AI agents: book a checked electrician or plumber, one offer at a time."
+2026-11-12T17:12:23.759496Z,ai.garmlink/garmlink,garmlink,0.2.0,,streamable-http,"Garmin watch data for AI assistants: activities, sleep, HRV, recovery. Never writes to Garmin."
+2026-11-12T17:14:22.895292Z,io.github.0xddneto/ai-proof-of-us,AI Proof of Us,0.6.0,https://github.com/0xddneto/AI-Proof-of-Us,,Private signed AI task receipts with replay checks and optional validated AIPOU claims.
+2026-11-12T17:14:31.879191Z,io.github.gucancado/ceu-natal,Céu Natal,2.2.6,https://github.com/gucancado/ceu-natal,streamable-http,"Mapa natal, sinastria, trânsitos, progressões e revoluções com efemérides suíças, em português."
+2026-11-12T17:17:59.324201Z,app.aeorank/aeorank-geo-mcp,"AEORank — SEO, AEO & GEO Audit Engine",2.2.0,https://github.com/aizaloapp/aeorank,streamable-http,"Live 62-rule SEO, AEO & GEO audit, RFC 9727 api-catalog, llms.txt & AI citation tools."

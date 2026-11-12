@@ -9,50 +9,65 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 16:20 UTC
+## Latest list — 2026-11-12 17:20 UTC
 
-New MCP servers published between 2026-11-12 15:20 UTC and 2026-11-12 16:20 UTC.
+New MCP servers published between 2026-11-12 16:20 UTC and 2026-11-12 17:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-12T16-20-31-037602Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-12T17-20-13-468392Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-12 15:22:56 | [gl.parse/mcp](https://github.com/Parsegl/parse) |  | 1.1.0 | How ChatGPT and Google AI Mode name, recommend and cite brands. |
-| 2026-11-12 15:23:11 | [io.github.ernesthausmann15/vrymdor-mcp](https://github.com/ernesthausmann15/vrymdor-node-python) | Vrymdor AI Node | 1.1.0 | Masks personal data and secrets in your AI agent's tool calls, through your Vry… |
-| 2026-11-12 15:23:43 | [io.github.benjaminb10/bereach](https://github.com/bereach-ai/bereach-claude-plugin) |  | 1.1.0 | Find the people who match your ideal customer, find work emails, and prepare fi… |
-| 2026-11-12 15:26:41 | [io.github.ragbase/ragbase-shield](https://github.com/ragbase/ragbase-shield) | RAGbase Shield | 0.4.0 | Local, reversible pseudonymisation of client files for Claude, ChatGPT and Copi… |
-| 2026-11-12 15:27:30 | [io.github.benjaminb10/viewlify](https://github.com/benjaminb10/viewlify-mcp) | Viewlify | 1.3.0 | TikTok videos that beat their creator's usual views, trends, hashtags and sound… |
-| 2026-11-12 15:28:42 | [io.github.hall7024/korea-realestate-mcp](https://github.com/hall7024/korea-realestate-mcp) | Korea Real Estate | 0.1.0 | 국토교통부 실거래가 13종 조회와 시세·전세가율 분석 (공공데이터포털 키 필요) |
-| 2026-11-12 15:31:12 | io.botpass.mcp/botpasslabs | Botpass Labs | 1.0.20261112153111 | Official information and actions of Botpass Labs (botpasslabs.com) |
-| 2026-11-12 15:33:07 | es.argohub.www/coste-devoluciones | Argo Hub Coste de Devoluciones | 1.0.0 | Calculate return rates and operational returns costs, keeping unknown inputs pe… |
-| 2026-11-12 15:33:14 | es.argohub.www/peso-volumetrico | Argo Hub Peso Volumétrico | 1.0.0 | Calculate parcel volumetric weight using your divisor, actual weight and option… |
-| 2026-11-12 15:33:20 | es.argohub.www/picking-packing | Argo Hub Picking y Packing | 1.0.0 | Calculate parcel preparation hours and average capacity using your own time ass… |
-| 2026-11-12 15:33:25 | es.argohub.www/reposicion-stock | Argo Hub Reposición de Stock | 1.0.0 | Calculate a SKU reorder point, stock coverage and replenishment quantity from y… |
-| 2026-11-12 15:33:36 | [io.github.Maverick0351a/rapidbm25](https://github.com/Maverick0351a/rapidbm25) | rapidbm25 | 0.1.0 | Fast local BM25 keyword search over texts or a code/docs folder. Rust core, no… |
-| 2026-11-12 15:35:34 | [io.github.fatihcimen/appdyno](https://github.com/fatihcimen/appdyno) | appdyno | 1.0.0 | Test, drive and measure iOS and Android apps on simulators, emulators and real… |
-| 2026-11-12 15:37:10 | [com.usenock/nock](https://github.com/nock-ltda/nock-mcp) | Nock | 1.0.0 | Brazilian B2B prospecting: buying signals, company and people search, enrichmen… |
-| 2026-11-12 15:42:49 | [io.github.sunholo-data/ailang-executor](https://github.com/sunholo-data/ailang) | AILANG Executor | 0.60.2 | Write, type-check and run AILANG in a sandbox, with Z3-proved contracts and doc… |
-| 2026-11-12 15:42:50 | [io.github.sunholo-data/ailang-docs](https://github.com/sunholo-data/ailang) | AILANG Docs | 0.60.2 | AILANG language reference, stdlib, examples and benchmarks for agents that writ… |
-| 2026-11-12 15:44:38 | io.filefleet/filefleet | FileFleet | 1.0.0 | What upload forms accept (passport, visa and exam photos), file checks, and lin… |
-| 2026-11-12 15:46:23 | [ai.openlead/openlead](https://github.com/openlead-ai/openlead-mcp) | Openlead | 1.0.0 | B2B lead generation and prospecting: find companies like your customers and the… |
-| 2026-11-12 15:47:01 | in.co.nume/calculators | Nume calculators | 1.0.0 | Daily calories, BMI, protein and water for adults, each with its range and meth… |
-| 2026-11-12 15:50:48 | [io.github.GeRiY/callgraph](https://github.com/GeRiY/callgraph) | callgraph | 0.9.4 | AST call graph and code map for AI coding agents: PHP, JS, TS, Vue, Rust, Swift… |
-| 2026-11-12 15:51:02 | [io.github.chrischall/hellofresh-mcp](https://github.com/chrischall/hellofresh-mcp) |  | 0.1.0 | Unofficial HelloFresh (US) MCP for Claude — deliveries, menus, meal picks, skip… |
-| 2026-11-12 15:54:08 | [io.github.CloudStudioIoT/gear-mcp](https://github.com/CloudStudioIoT/gear-mcp) | Cloud Studio Gear | 0.1.0 | Read-only MCP access to Cloud Studio Gear IoT: sites, devices, live values, his… |
-| 2026-11-12 15:54:17 | io.github.RyndaGlobal/vacancies | Rynda Crewing | 1.0.0 | Open seafarer vacancies on Rynda Crewing: pay, contract, joining date, vessel a… |
-| 2026-11-12 15:58:50 | [io.github.LynxOffice/lynxoffice-mcp](https://github.com/LynxOffice/lynxoffice-mcp-mac) | LynxOffice | 1.1.0 | Read and edit the Word, Excel, PowerPoint and PDF files on your Mac, where they… |
-| 2026-11-12 16:00:33 | [io.github.herp75/migros-mcp](https://github.com/herp75/migros-mcp) |  | 0.6.0 | Migros Switzerland: products, stores, recipes; with login basket, lists, orders… |
-| 2026-11-12 16:01:38 | com.vextcad/vextcad | VextCAD | 1.0.0 | Text-to-CAD: build exact STEP or 3MF/STL on the server, each stated requirement… |
-| 2026-11-12 16:03:52 | com.miami44/directory | Miami44 public directory | 1.0.0 | Read-only directory of Miami businesses: list, find and read each business's si… |
-| 2026-11-12 16:05:13 | com.fuast/fuast | fuast | 2.1.0 | Build, deploy and share small full-stack team apps from your AI chat. No accoun… |
-| 2026-11-12 16:05:41 | [io.seopaslaugos/ai-bot-access-checker](https://github.com/seopaslaugos-io/ai-bot-access-checker) | AI Bot Access Checker | 1.3.0 | Checks if GPTBot, ClaudeBot, PerplexityBot, Googlebot and 9 more AI crawlers ca… |
-| 2026-11-12 16:06:45 | dev.flagbearer/flagbearer | Flagbearer | 1.0.0 | Feature flags for coding agents: create flags, roll them out gradually and writ… |
-| 2026-11-12 16:07:53 | io.github.Leonardo-Engineering/davincibets-mcp |  | 1.4.3 | AI sports predictions for NBA, NFL, NHL & MLB — picks, cards, track record, sch… |
-| 2026-11-12 16:09:07 | [io.github.z4215699/danao-brain](https://github.com/z4215699/danao-brain-mcp) | danao 智能组织大脑 | 0.5.4 | Governed autonomous-agent platform: HITL approvals, budget gates, audit chain,… |
-| 2026-11-12 16:09:07 | com.meetful/meetful | Meetful | 1.0.0 | Video meetings your AI can run and join: speaker-attributed transcripts, notes,… |
-| 2026-11-12 16:12:36 | com.omeufinanceiro/financeiro | O Meu Financeiro | 1.0.0 | Finance for Brazilian restaurants: sales, bills, bank balances and P&L, plus lo… |
-| 2026-11-12 16:13:44 | [com.scanmalware.mcp/scanmalware-mcp](https://github.com/scanmalware/mcp-server) | ScanMalware.com URL Scanner | 0.2.0 | MCP server for ScanMalware.com URL scanning, malware detection, and analysis. |
-| 2026-11-12 16:19:35 | vision.rdp/servers | Rdp.Vision | 1.0.0 | Order and manage Windows RDP and Linux VPS servers paid with crypto: deploy, po… |
+| 2026-11-12 16:21:31 | com.konexiumai/konexium | Konexium | 1.0.0 | Find and check companies across Africa. Answers cite their sources; spending wa… |
+| 2026-11-12 16:22:18 | io.github.Davos-1/hub-dome | Hub Dome | 0.1.0 | Turn your Claude artifacts into a 3D village you can share with friends |
+| 2026-11-12 16:24:35 | [net.sportcation/sports-trip-planner-mcp](https://github.com/SportCation-net/sports-trip-planner-mcp) | Sports Trips by SportCation | 1.0.0 | Find same-sport and mixed-sport weekend trips with SportCation planning estimat… |
+| 2026-11-12 16:27:17 | [io.github.zenod-ai/zenod](https://github.com/zenod-ai/zenod) | Zenod | 1.0.0 | Keeps your memory: WhatsApp, voice or any AI tool over MCP, Markdown you own, r… |
+| 2026-11-12 16:27:57 | com.casakimball/villa | Casa Kimball | 1.0.0 | Plan a stay at an oceanfront villa in Cabrera, Dominican Republic: open dates,… |
+| 2026-11-12 16:28:55 | io.github.truthtrail/truthtrail | TruthTrail | 0.4.4 | Record the decisions your AI coding agent makes, in the repo and on the Jira or… |
+| 2026-11-12 16:31:30 | com.listbouncer/listbouncer | ListBouncer | 1.0.0 | Check email addresses and clean email lists before you send. Uses your ListBoun… |
+| 2026-11-12 16:32:43 | [io.github.pdxlab/trustmodel-mcp](https://github.com/pdxlab/trustmodel-mcp-server) |  | 0.2.2 | Score any AI for trust across 10 dimensions; evaluate, monitor & govern LLMs an… |
+| 2026-11-12 16:37:26 | co.quivo/connector | Quivo Connector MCP | 1.0.0 | Orders, shipments, returns, products and stock in your Quivo Connector account. |
+| 2026-11-12 16:37:26 | [io.github.Kubyer/struggl](https://github.com/Kubyer/struggl-mcp) | STRUGGL Hybrid Coach | 1.3.0 | Zero-LLM-Math sports science calculators (Hyrox, 1RM/RPE, Zone 2, MEV/MRV) & wo… |
+| 2026-11-12 16:43:41 | dev.emblematic/emblematic | Emblematic | 0.1.0 | Real websites' design specs: exact colors, fonts, type scale and a DESIGN.md. F… |
+| 2026-11-12 16:45:53 | [com.onrender.mosn-safety-api/mosn](https://github.com/mosn-agent/mosn-solana-mcp) | MOSN Solana Safety | 2.5.0 | Solana token rug checks and safety-checked Jupiter swaps for AI agents; paid da… |
+| 2026-11-12 16:47:03 | xyz.communitystudios/ceejay | CEEJAY | 1.0.0 | Let AI agents read your Discord community's analytics, members and tickets, and… |
+| 2026-11-12 16:49:23 | com.corehu/gpu-cloud | CoreHu GPU Cloud | 1.0.0 | Find and price cloud GPUs, estimate job costs, and manage your CoreHu machines… |
+| 2026-11-12 16:50:12 | [io.github.nnnoel/ytranscript-mcp](https://github.com/nnnoel/ytranscript-mcp) |  | 0.1.1 | YouTube transcripts for AI tools. No proxies needed; transcribes videos without… |
+| 2026-11-12 16:55:14 | [io.github.n24q02m/telegram](https://github.com/n24q02m/telegram.git) | Telegram MCP | 4.24.0 | Telegram for AI agents: messages, chats, media, and contacts in bot and user-ac… |
+| 2026-11-12 16:55:43 | [io.github.n24q02m/workspace](https://github.com/n24q02m/workspace) |  | 0.7.0 | Google Workspace MCP — Docs, Drive, Calendar, Gmail, Sheets, Slides, Tasks, Cha… |
+| 2026-11-12 16:56:30 | com.castthewater/cast-the-water | Cast the Water | 0.1.0 | Read-only fish stocking, waters and conditions data for US lakes from Cast the… |
+| 2026-11-12 16:56:45 | dev.cotlet/clubready | ClubReady by Cotlet | 1.0.0 | A trial visit, an unanswered sales lead and an expiring agreement need differen… |
+| 2026-11-12 16:57:07 | dev.cotlet/pike13 | Pike13 by Cotlet | 1.0.0 | Pike13 separates the client, the event and the plan that pays for the visit. |
+| 2026-11-12 16:57:28 | dev.cotlet/totalcoaching | TotalCoaching by Cotlet | 1.0.0 | A TotalCoaching plan is only part of the coaching record. |
+| 2026-11-12 16:57:50 | dev.cotlet/trainerfu | Trainerfu by Cotlet | 1.0.0 | Trainerfu's coaching work connects training plans, activity and client conversa… |
+| 2026-11-12 16:58:12 | dev.cotlet/pabau | Pabau by Cotlet | 1.0.0 | This Pabau connection is limited to scheduling and contact work. |
+| 2026-11-12 16:58:17 | [io.github.futuur/futuur-mcp](https://github.com/futuur/Futuur-MCP) | Futuur | 2.0.1 | Futuur prediction markets: browse events and prices, simulate and place orders,… |
+| 2026-11-12 16:58:33 | dev.cotlet/rosy-salon-software | Rosy Salon Software by Cotlet | 1.0.0 | A Rosy appointment belongs to a client, a service and a stylist. |
+| 2026-11-12 16:58:46 | [io.github.n24q02m/notion](https://github.com/n24q02m/notion.git) |  | 2.43.0 | Markdown-first Notion for AI agents -- pages, databases, blocks, and comments i… |
+| 2026-11-12 16:58:55 | dev.cotlet/sprout-studio | Sprout Studio by Cotlet | 1.0.0 | Sprout Studio puts a photography lead, shoot and client paperwork in one busine… |
+| 2026-11-12 16:59:01 | [ai.edengen/eden-gen](https://github.com/Eden-Makers/eden-gen-plugins) | Eden Gen | 0.1.0 | Generate images, video and audio with a price estimate and project budget contr… |
+| 2026-11-12 16:59:16 | dev.cotlet/bookipi | Bookipi by Cotlet | 1.0.0 | Bookipi's business records connect the client, estimate and invoice. |
+| 2026-11-12 16:59:30 | [io.github.n24q02m/email](https://github.com/n24q02m/email.git) |  | 1.43.0 | IMAP/SMTP email for AI agents -- read, send, organize, and manage attachments a… |
+| 2026-11-12 17:00:23 | com.1folderapp/1folder | 1folder | 1.0.0 | One workspace where your AI apps save pages, tables and files, with versions an… |
+| 2026-11-12 17:00:53 | com.kuotia/kuotia | Kuotia | 1.0.1 | Spanish tax calendar, RETA and IRPF estimates and guides for autónomos in Spain… |
+| 2026-11-12 17:01:47 | [io.github.OrygnsCode/discord-mcp](https://github.com/OrygnsCode/discord-mcp) | Discord MCP | 2.0.0 | Discord server management MCP for AI agents: chat, moderation, admin, and full… |
+| 2026-11-12 17:04:04 | com.gcn-alliance/phone-system | GCNA Phone System | 1.0.0 | Vodia PBX for Nextcloud and Odoo: integrations, current plans and prices, and h… |
+| 2026-11-12 17:04:19 | com.dialhank/hank | Hank | 1.0.0 | Manage call routing, on-call rotations and office hours for your Hank AI recept… |
+| 2026-11-12 17:04:42 | me.dropmail/mcp | DropMail | 0.2.0 | Disposable temporary email: create inboxes, wait for and read incoming mail. No… |
+| 2026-11-12 17:05:11 | [xyz.proofofstock/proof-of-stock](https://github.com/proofofstock/proof-of-stock) | Proof of Stock | 0.5.0 | Is this stock token the real one? Checks Base and Robinhood Chain tokens agains… |
+| 2026-11-12 17:07:05 | [io.github.costfluent/costfluent-mcp](https://github.com/costfluent/costfluent-mcp) | Costfluent | 0.3.0 | Read your Costfluent cloud costs, reports, budgets, anomalies and savings from… |
+| 2026-11-12 17:07:15 | io.github.Ranqint/spotted | Spotted | 1.0.0 | Check if AI crawlers can read a site, and the questions customers ask AI about… |
+| 2026-11-12 17:07:16 | io.github.Ranqint/elya-studio | Elya Studio | 1.0.0 | Size a first product version (MVP) and check what a development quote should st… |
+| 2026-11-12 17:07:17 | io.github.Ranqint/hero-of-you | Hero of You | 1.0.0 | Find a personalized illustrated children's book by age, interests and occasion. |
+| 2026-11-12 17:07:18 | io.github.Ranqint/vibescale | VibeScale | 1.0.0 | Pre-launch checks for AI-built apps: leaked keys, Supabase RLS gaps, browser-ex… |
+| 2026-11-12 17:07:18 | io.github.Ranqint/futureself | FutureSelf Vision Board Planner | 1.0.0 | Plan a vision board: ideas for a goal, a board plan from your goals, affirmatio… |
+| 2026-11-12 17:07:19 | io.github.Ranqint/bamboo-connect | Bamboo Connect | 1.0.0 | Ways to meet new people and find communities in Israeli cities, from published… |
+| 2026-11-12 17:07:41 | co.epish/epish | EPISH | 1.0.0 | Turn a product idea into a crowdfunding campaign on epish.co: story, goal, rewa… |
+| 2026-11-12 17:09:11 | [io.github.telerik/telerik-blazor-mcp](https://github.com/telerik/ai-plugins) |  | 1.13.0 | MCP server providing Telerik Blazor component knowledge and UI-generation capab… |
+| 2026-11-12 17:11:24 | [io.github.Nero-Engine/nero-work](https://github.com/Nero-Engine/nero-work-mcp) | Nero Work | 0.1.0 | Trades job exchange for AI agents: book a checked electrician or plumber, one o… |
+| 2026-11-12 17:12:23 | ai.garmlink/garmlink | garmlink | 0.2.0 | Garmin watch data for AI assistants: activities, sleep, HRV, recovery. Never wr… |
+| 2026-11-12 17:14:22 | [io.github.0xddneto/ai-proof-of-us](https://github.com/0xddneto/AI-Proof-of-Us) | AI Proof of Us | 0.6.0 | Private signed AI task receipts with replay checks and optional validated AIPOU… |
+| 2026-11-12 17:14:31 | [io.github.gucancado/ceu-natal](https://github.com/gucancado/ceu-natal) | Céu Natal | 2.2.6 | Mapa natal, sinastria, trânsitos, progressões e revoluções com efemérides suíça… |
+| 2026-11-12 17:17:59 | [app.aeorank/aeorank-geo-mcp](https://github.com/aizaloapp/aeorank) | AEORank — SEO, AEO & GEO Audit Engine | 2.2.0 | Live 62-rule SEO, AEO & GEO audit, RFC 9727 api-catalog, llms.txt & AI citation… |
 
 ## Data source
 
