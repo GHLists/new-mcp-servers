@@ -9,47 +9,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 11:19 UTC
+## Latest list — 2026-11-12 12:20 UTC
 
-New MCP servers published between 2026-11-12 10:21 UTC and 2026-11-12 11:19 UTC.
+New MCP servers published between 2026-11-12 11:19 UTC and 2026-11-12 12:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-12T11-19-50-271101Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-12T12-20-06-500514Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-12 10:21:41 | design.rubric/rubric | Rubric | 3.0.0-alpha.0.313 | UX guidelines and audits for coding agents. Paid plans start audits, heatmaps a… |
-| 2026-11-12 10:22:44 | [online.okdata/mcp](https://github.com/okdataapi/okdata) | okdata | 1.0.0 | Social data for AI agents: Douyin, Xiaohongshu, WeChat, TikTok, X, YouTube, mor… |
-| 2026-11-12 10:23:30 | com.thequokkacompany/korea-tools | Quokka Korea Tools | 0.1.0 | Korean holidays & business days (2026 rules), won amounts in Korean words, biz… |
-| 2026-11-12 10:23:44 | at.wien-entruempelung/entruempelung | Wien Entrümpelung | 1.0.0 | Entrümpelung Wien: Leistungen, Richtwert, belegte Antworten zu Mistplatz und MA… |
-| 2026-11-12 10:25:27 | app.tgstudio/tgstudio | TGStudio | 1.0.0 | Schedule posts, read analytics and manage Telegram channels in TGStudio from an… |
-| 2026-11-12 10:25:36 | com.scribase/toolgate | Scribase Toolgate | 1.0.0 | One API key for 27 priced AI tools: web search, company, DNS, papers, email che… |
-| 2026-11-12 10:27:20 | [io.github.roilo-co/ai-product-video-api](https://github.com/Roilo-co/ai-product-video-api) | Roilo: UGC Video Ads From a Few Product… | 1.0.0 | Turn a few product or venue photos into a usable UGC video ad: script, actor, v… |
-| 2026-11-12 10:31:27 | io.github.Kupilux/app-reviews-intelligence | App Reviews Intelligence | 1.0.0 | App Store & Google Play reviews with AI themes, bugs, and competitor reports. |
-| 2026-11-12 10:32:52 | [io.github.brycewang-stanford/statspai](https://github.com/brycewang-stanford/StatsPAI) | StatsPAI | 1.43.0 | Causal inference and econometrics: DiD, IV, RD, synthetic control, DML, panel,… |
-| 2026-11-12 10:35:09 | com.kadaleo/kadaleo | Kadaleo | 1.0.0 | Run a local business from your AI app: bookings, customers, inbox, website, pos… |
-| 2026-11-12 10:36:52 | [io.github.aicanvas-me/aicanvas](https://github.com/aicanvas-me/aicanvas) |  | 0.3.5 | Design systems your AI agent builds with and you reshape, plus standalone React… |
-| 2026-11-12 10:38:09 | [io.github.agus-pleso/pleso-mcp](https://github.com/agus-pleso/pleso-mcp) | Pleso Therapy | 0.1.0 | Find an online therapist on Pleso that fits your concerns, language and prefere… |
-| 2026-11-12 10:39:42 | [io.github.Nero-Engine/nero-reviews](https://github.com/Nero-Engine/nero-reviews-mcp) | Nero Reviews: verified job reviews for… | 0.2.0 | Verified job reviews for tradespeople: one-tap star links, spoken score, automa… |
-| 2026-11-12 10:41:30 | sg.directbus/directbus | DirectBus Singapore | 1.0.0 | Find direct commuter buses in Singapore: routes, stops, departure times and far… |
-| 2026-11-12 10:43:44 | [io.github.Soham-Chatt/forscore-mcp](https://github.com/Soham-Chatt/forscore-mcp) | forScore | 1.0.0 | Read and clean up forScore sheet-music library metadata (composers, opus number… |
-| 2026-11-12 10:45:13 | dev.agnes/agnes | Agnes | 1.0.0 | Health scores for your team's frontend repos: findings, the fixes worth most po… |
-| 2026-11-12 10:48:14 | com.whatsmood/events | WhatsMood | 1.0.0 | Events in Turkey and abroad by mood, city and date; ticket price comparison, lo… |
-| 2026-11-12 10:52:11 | com.blueleopardmedia/mcp | Blue Leopard Media | 1.0.0 | PR features, Google and Meta Ads, music marketing: prices, publications, case s… |
-| 2026-11-12 10:52:54 | ai.remixviral/clipper | RemixViral: AI clipper for long videos… | 1.1.0 | Check RemixViral clip jobs, videos and credits, and create faceless Shorts from… |
-| 2026-11-12 10:52:59 | [flights.mirai/mirai-flights](https://github.com/MiraiFlights/mirai-flights-mcp) | Mirai Flights | 1.0.0 | Private jet charter prices and empty leg deals worldwide, with booking links. N… |
-| 2026-11-12 10:59:28 | com.uksinfiltro/uksinfiltro | UK sin filtro | 1.0.0 | Calcula tu nómina en UK (Income Tax, NI, neto) y guías de dinero en UK, en espa… |
-| 2026-11-12 11:02:46 | ing.loopmarket/loop | Loop Marketing | 1.0.0 | Read Apple, Google, Meta and TikTok ad campaigns and draft changes a person app… |
-| 2026-11-12 11:02:53 | [io.github.dresseurmonster2-oss/mdisbetter-mcp](https://github.com/dresseurmonster2-oss/mdisbetter-mcp) | MDisBetter file converter | 0.1.0 | Convert a local file to another format through mdisbetter.com: documents, image… |
-| 2026-11-12 11:03:04 | [dev.ctlogs/certificate-transparency](https://github.com/ctlogs/ctlogs-mcp) | ctlogs.dev — Certificate Transparency s… | 1.1.0 | Search Certificate Transparency logs: subdomains, TLS certificates, organizatio… |
-| 2026-11-12 11:03:14 | ai.elicitly/pro | Elicitly Pro | 2026.11.12 | Human-in-the-loop for AI agents over MCP: durable approvals with a hosted revie… |
-| 2026-11-12 11:04:04 | [com.dotmira/catalog](https://github.com/artiva636-cell/dotmira-mcp) | Dotmira | 1.0.0 | Search 30,000+ web effects, animations and UI components; get code with author… |
-| 2026-11-12 11:05:02 | [ru.dotmira/catalog](https://github.com/artiva636-cell/dotmira-mcp) | Dotmira | 1.0.0 | Search 30,000+ web effects, animations and UI components; get code with author… |
-| 2026-11-12 11:05:46 | [com.pipingtoolset/data](https://github.com/pipingtoolset/pipingtoolset-claude) | Piping Toolset Engineering Data | 0.1.0 | Engineering code-table data with citations: standard, edition, table, row and c… |
-| 2026-11-12 11:08:54 | com.remotenomadjobs/jobs | Remote Nomad Jobs | 1.0.0 | Remote jobs you can do from anywhere in the world: search jobs, companies, sala… |
-| 2026-11-12 11:09:09 | [io.github.lanbass869-cell/canari](https://github.com/lanbass869-cell/canari) | Canari | 0.1.1 | Signed, offline-verifiable attestations for agent components; ALLOW/BLOCK/REVIE… |
-| 2026-11-12 11:12:33 | com.opendart/opendart | Opendart Akademi | 1.0.0 | Software training courses in Turkey: course search, announced start dates, arti… |
-| 2026-11-12 11:13:50 | ai.anyreach/anyreach | Anyreach | 1.0.0 | Build AI agents that handle calls, web chats, and email — and automate everythi… |
-| 2026-11-12 11:19:00 | com.ternvisa/australian-visas | Tern Australian Visa Information | 1.0.0 | Sourced Australian visa data: processing times, charges, 462 caps, 88-day postc… |
+| 2026-11-12 11:20:32 | [io.github.kanameyamamoto/seiji-no-mado](https://github.com/kanameyamamoto/seiji-no-mado) | せいじのまど (Seiji no Mado) | 1.0.0 | Neutral Japanese politics data: laws, Diet bills, votes, parties, members, ques… |
+| 2026-11-12 11:23:24 | [io.github.krishnaGauss/geo-shield](https://github.com/krishnaGauss/MCP_WebSafe) | GEO Shield | 0.1.0 | Detects hidden AI prompt injection, AI recommendation poisoning, sneaky redirec… |
+| 2026-11-12 11:25:57 | [io.github.VictoriaMetrics/mcp-victoriametrics](https://github.com/VictoriaMetrics/mcp-victoriametrics) |  | 1.21.0 | MCP Server for VictoriaMetrics. Provides integration with VictoriaMetrics API a… |
+| 2026-11-12 11:27:04 | [io.github.mswdev/better-unraid-mcp](https://github.com/mswdev/better-unraid-mcp) | Better Unraid MCP | 0.1.1 | Monitor and manage an Unraid server from any MCP client: array, Docker, VMs, ZF… |
+| 2026-11-12 11:28:11 | com.dishesof/dishes-of-london | Dishes of London | 1.0.0 | Find a dish in London by area, postcode, price, diet and serving time. Free, re… |
+| 2026-11-12 11:28:38 | [io.github.CAVDAX/cavdax](https://github.com/CAVDAX/CAVDAX) |  | 1.3.3 | CAVDAX MCP Server backed by FalkorDB GraphBLAS for causal invalidation gating a… |
+| 2026-11-12 11:29:42 | com.vramfarm/gpu-cloud | VRAMfarm GPU Cloud | 1.0.0 | Rent EU cloud GPUs per minute: pick a card by VRAM and price, launch, get SSH,… |
+| 2026-11-12 11:32:20 | at.auto-oez/werkstatt | Auto Öz | 1.0.0 | KFZ-Werkstatt in Wien: Termine, Leistungen, Kostenvoranschlag. |
+| 2026-11-12 11:35:20 | io.github.hostelmate/hostelmate | HostelMate | 1.0.0 | Read-only access to your HostelMate hostel PMS: arrivals, bookings, payments an… |
+| 2026-11-12 11:35:22 | com.subdupes/subdupes | SubDupes | 1.0.0 | Send the subscriptions Claude or ChatGPT finds in your email to SubDupes. You a… |
+| 2026-11-12 11:38:21 | ai.rendreal/design-and-print | Rendreal | 1.0.0 | Turn your agent into a print shop: find products, get quotes, design or upload… |
+| 2026-11-12 11:43:09 | app.seobolt/seobolt | SEOBolt | 1.2.0 | Crawl a site, audit Google and AI-search readiness, get a fix plan your coding… |
+| 2026-11-12 11:43:35 | com.summerbase/mcp | Summerbase | 1.0.0 | Ask about your subscription metrics, like MRR, ARR and growth, and see the cust… |
+| 2026-11-12 11:46:54 | [it.123offerte/mcp](https://github.com/123offerte/mcp) | 123offerte.it: Italian offers catalogue | 2026.11.12 | Italian mobile, internet, bank account, card, loan and energy offers, with cond… |
+| 2026-11-12 11:49:21 | markets.bobby/free | Agent Bobby Free | 1.2.0 | Free public stock research, market context, and comparisons for AI agents. |
+| 2026-11-12 11:50:51 | [io.github.tufantunc/axiom-math](https://github.com/tufantunc/axiom-advanced-math-mcp) | Axiom — Advanced Math | 1.1.0 | Exact symbolic math for LLMs: integrals, equations, matrices, and claim verific… |
+| 2026-11-12 11:53:41 | study.yani/emirati-arabic | Yani – Emirati Arabic | 1.0.0 | Spoken Emirati Arabic phrases for life in the UAE, with Easy Latin and real rec… |
+| 2026-11-12 11:53:46 | app.marketframe/marketframe | MarketFrame | 1.0.0 | Daily news tone for every FTSE 100 company, with stories and reasons. Free, rea… |
+| 2026-11-12 11:55:55 | [io.github.LogeshR15/screener-mcp](https://github.com/LogeshR15/screener-mcp) | Screener Stock Research | 0.6.0 | Indian stock research (BSE/NSE) via Screener.in: financials, screens, filings,… |
+| 2026-11-12 12:02:16 | com.visibilitygenies/visibility-genies | Visibility Genies | 1.0.0 | Your AI assistant reads and runs SEO and AI visibility work in your Visibility… |
+| 2026-11-12 12:02:39 | [io.github.nikoskalyvas/vayancy-travelos](https://github.com/nikoskalyvas/vayancy-mcp) | Vayancy TravelOS | 1.0.0 | Mediterranean luxury villa booking rail with real-time PMS inventory & direct S… |
+| 2026-11-12 12:03:41 | [io.github.quack2025/surveycoder](https://github.com/quack2025/surveycoder-mcp) | SurveyCoder | 1.0.0 | Ask questions of SPSS .sav survey data: crosstabs with significance, and AI cod… |
+| 2026-11-12 12:03:54 | co.stylecloud.dropflow/mcp | DropFlow | 1.7.0 | Docs, block library and changelog for DropFlow, the free-form canvas page build… |
+| 2026-11-12 12:04:33 | com.datafluxor/seo | DataFluxor | 1.0.0 | Remote MCP server for Google SERP, SEO research and web scraping. Free plan, no… |
+| 2026-11-12 12:06:59 | io.github.caffeine-soft/geomagnetic-storms-x | Geomagnetic Storms X | 1.0.0 | Magnetic storms: Kp now, NOAA G1-G5, 3- and 27-day forecasts, history, solar fl… |
+| 2026-11-12 12:10:11 | [io.github.brianirish/laravel-mcp-companion](https://github.com/brianirish/laravel-mcp-companion) | Laravel MCP Companion | 0.14.0 | Laravel documentation aggregator: multi-version core docs, services, packages,… |
+| 2026-11-12 12:12:35 | cards.dev/components | Dev.cards | 1.0.0 | Free UI components with full source in HTML/CSS/JS and React: heroes, pricing,… |
+| 2026-11-12 12:15:49 | [io.github.skrappio/skrapp-mcp](https://github.com/skrappio/skrapp-mcp) | Skrapp | 1.5.0 | Verified B2B emails, phones, company data and lists from Skrapp, for any MCP cl… |
+| 2026-11-12 12:16:07 | com.posttodata/posttodata | PostToData | 1.0.0 | Read public posts, comments, profiles and YouTube transcripts from Reddit, X, T… |
+| 2026-11-12 12:17:42 | [io.github.formlab-dev/enclosure-estimate](https://github.com/formlab-dev/enclosure-estimate) | Formlab enclosure estimate | 1.0.0 | Cost and lead time estimate for a custom plastic electronics enclosure (Formlab… |
+| 2026-11-12 12:17:50 | ai.kadmo/kadmo | Kadmo | 1.1.0 | Dispatch work to Kadmo's AI agents, read tasks and runs, edit skill packs, play… |
+| 2026-11-12 12:17:51 | ai.kadmo/kadmo-agent | Kadmo agent runtime | 0.5.1 | Kadmo agent runtime on your computer: workflows, skill packs and Chrome automat… |
+| 2026-11-12 12:19:25 | ae.framerfy/store-builder | Framerfy | 1.0.0 | Build a Shopify-backed Framer store: sync products, theme, cart, checkout, publ… |
 
 ## Data source
 

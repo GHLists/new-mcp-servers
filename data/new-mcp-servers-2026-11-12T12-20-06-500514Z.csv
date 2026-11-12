@@ -1,0 +1,34 @@
+created_at,server,title,version,repository,transports,description
+2026-11-12T11:20:32.517941Z,io.github.kanameyamamoto/seiji-no-mado,せいじのまど (Seiji no Mado),1.0.0,https://github.com/kanameyamamoto/seiji-no-mado,streamable-http,"Neutral Japanese politics data: laws, Diet bills, votes, parties, members, questions. All sourced."
+2026-11-12T11:23:24.798804Z,io.github.krishnaGauss/geo-shield,GEO Shield,0.1.0,https://github.com/krishnaGauss/MCP_WebSafe,,"Detects hidden AI prompt injection, AI recommendation poisoning, sneaky redirects and hidden spam."
+2026-11-12T11:25:57.690412Z,io.github.VictoriaMetrics/mcp-victoriametrics,,1.21.0,https://github.com/VictoriaMetrics/mcp-victoriametrics,,MCP Server for VictoriaMetrics. Provides integration with VictoriaMetrics API and documentation
+2026-11-12T11:27:04.326999Z,io.github.mswdev/better-unraid-mcp,Better Unraid MCP,0.1.1,https://github.com/mswdev/better-unraid-mcp,,"Monitor and manage an Unraid server from any MCP client: array, Docker, VMs, ZFS, logs, and UPS."
+2026-11-12T11:28:11.378911Z,com.dishesof/dishes-of-london,Dishes of London,1.0.0,,streamable-http,"Find a dish in London by area, postcode, price, diet and serving time. Free, read-only, no key."
+2026-11-12T11:28:38.799892Z,io.github.CAVDAX/cavdax,,1.3.3,https://github.com/CAVDAX/CAVDAX,,CAVDAX MCP Server backed by FalkorDB GraphBLAS for causal invalidation gating and ADR provenance.
+2026-11-12T11:29:42.965427Z,com.vramfarm/gpu-cloud,VRAMfarm GPU Cloud,1.0.0,,streamable-http,"Rent EU cloud GPUs per minute: pick a card by VRAM and price, launch, get SSH, stop."
+2026-11-12T11:32:20.745055Z,at.auto-oez/werkstatt,Auto Öz,1.0.0,,streamable-http,"KFZ-Werkstatt in Wien: Termine, Leistungen, Kostenvoranschlag."
+2026-11-12T11:35:20.761225Z,io.github.hostelmate/hostelmate,HostelMate,1.0.0,,streamable-http,"Read-only access to your HostelMate hostel PMS: arrivals, bookings, payments and revenue."
+2026-11-12T11:35:22.383368Z,com.subdupes/subdupes,SubDupes,1.0.0,,streamable-http,Send the subscriptions Claude or ChatGPT finds in your email to SubDupes. You approve each one.
+2026-11-12T11:38:21.257673Z,ai.rendreal/design-and-print,Rendreal,1.0.0,,streamable-http,"Turn your agent into a print shop: find products, get quotes, design or upload artwork, and order."
+2026-11-12T11:43:09.445892Z,app.seobolt/seobolt,SEOBolt,1.2.0,,streamable-http,"Crawl a site, audit Google and AI-search readiness, get a fix plan your coding agent applies."
+2026-11-12T11:43:35.394283Z,com.summerbase/mcp,Summerbase,1.0.0,,streamable-http,"Ask about your subscription metrics, like MRR, ARR and growth, and see the customers behind them."
+2026-11-12T11:46:54.950476Z,it.123offerte/mcp,123offerte.it: Italian offers catalogue,2026.11.12,https://github.com/123offerte/mcp,streamable-http,"Italian mobile, internet, bank account, card, loan and energy offers, with conditions and links."
+2026-11-12T11:49:21.926346Z,markets.bobby/free,Agent Bobby Free,1.2.0,,streamable-http,"Free public stock research, market context, and comparisons for AI agents."
+2026-11-12T11:50:51.716751Z,io.github.tufantunc/axiom-math,Axiom — Advanced Math,1.1.0,https://github.com/tufantunc/axiom-advanced-math-mcp,,"Exact symbolic math for LLMs: integrals, equations, matrices, and claim verification via Giac/Xcas"
+2026-11-12T11:53:41.147753Z,study.yani/emirati-arabic,Yani – Emirati Arabic,1.0.0,,streamable-http,"Spoken Emirati Arabic phrases for life in the UAE, with Easy Latin and real recordings."
+2026-11-12T11:53:46.525208Z,app.marketframe/marketframe,MarketFrame,1.0.0,,streamable-http,"Daily news tone for every FTSE 100 company, with stories and reasons. Free, read-only. Not advice."
+2026-11-12T11:55:55.986566Z,io.github.LogeshR15/screener-mcp,Screener Stock Research,0.6.0,https://github.com/LogeshR15/screener-mcp,,"Indian stock research (BSE/NSE) via Screener.in: financials, screens, filings, earnings calls."
+2026-11-12T12:02:16.220907Z,com.visibilitygenies/visibility-genies,Visibility Genies,1.0.0,,streamable-http,Your AI assistant reads and runs SEO and AI visibility work in your Visibility Genies account.
+2026-11-12T12:02:39.306556Z,io.github.nikoskalyvas/vayancy-travelos,Vayancy TravelOS,1.0.0,https://github.com/nikoskalyvas/vayancy-mcp,sse,Mediterranean luxury villa booking rail with real-time PMS inventory & direct Stripe holds.
+2026-11-12T12:03:41.745532Z,io.github.quack2025/surveycoder,SurveyCoder,1.0.0,https://github.com/quack2025/surveycoder-mcp,streamable-http,"Ask questions of SPSS .sav survey data: crosstabs with significance, and AI coding of open ends."
+2026-11-12T12:03:54.613521Z,co.stylecloud.dropflow/mcp,DropFlow,1.7.0,,streamable-http,"Docs, block library and changelog for DropFlow, the free-form canvas page builder for WordPress."
+2026-11-12T12:04:33.756065Z,com.datafluxor/seo,DataFluxor,1.0.0,,streamable-http,"Remote MCP server for Google SERP, SEO research and web scraping. Free plan, no card."
+2026-11-12T12:06:59.089878Z,io.github.caffeine-soft/geomagnetic-storms-x,Geomagnetic Storms X,1.0.0,,streamable-http,"Magnetic storms: Kp now, NOAA G1-G5, 3- and 27-day forecasts, history, solar flares, Moon."
+2026-11-12T12:10:11.947012Z,io.github.brianirish/laravel-mcp-companion,Laravel MCP Companion,0.14.0,https://github.com/brianirish/laravel-mcp-companion,,"Laravel documentation aggregator: multi-version core docs, services, packages, learning paths."
+2026-11-12T12:12:35.020487Z,cards.dev/components,Dev.cards,1.0.0,,streamable-http,"Free UI components with full source in HTML/CSS/JS and React: heroes, pricing, dashboards, forms."
+2026-11-12T12:15:49.791692Z,io.github.skrappio/skrapp-mcp,Skrapp,1.5.0,https://github.com/skrappio/skrapp-mcp,streamable-http,"Verified B2B emails, phones, company data and lists from Skrapp, for any MCP client."
+2026-11-12T12:16:07.627454Z,com.posttodata/posttodata,PostToData,1.0.0,,streamable-http,"Read public posts, comments, profiles and YouTube transcripts from Reddit, X, TikTok and more."
+2026-11-12T12:17:42.975627Z,io.github.formlab-dev/enclosure-estimate,Formlab enclosure estimate,1.0.0,https://github.com/formlab-dev/enclosure-estimate,streamable-http,"Cost and lead time estimate for a custom plastic electronics enclosure (Formlab, Russia)."
+2026-11-12T12:17:50.478439Z,ai.kadmo/kadmo,Kadmo,1.1.0,,streamable-http,"Dispatch work to Kadmo's AI agents, read tasks and runs, edit skill packs, playbooks and routing"
+2026-11-12T12:17:51.123331Z,ai.kadmo/kadmo-agent,Kadmo agent runtime,0.5.1,,,"Kadmo agent runtime on your computer: workflows, skill packs and Chrome automation for AI agents"
+2026-11-12T12:19:25.872161Z,ae.framerfy/store-builder,Framerfy,1.0.0,,streamable-http,"Build a Shopify-backed Framer store: sync products, theme, cart, checkout, publish and verify."
