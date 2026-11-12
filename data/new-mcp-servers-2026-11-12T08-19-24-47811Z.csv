@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-11-12T07:19:29.939459Z,io.github.OsakaSaul/foxplug,FoxPlug,1.0.0,,streamable-http,Your agent records what you ship; FoxPlug drafts launch posts and a changelog. Nothing posts.
+2026-11-12T07:36:07.237146Z,uk.co.newhomesearch/newhomesearch,NewHomeSearch,1.1.0,,streamable-http,"New build homes for sale across the UK, with house builders, schools and stamp duty."
+2026-11-12T07:39:40.349611Z,co.kwery/mcp,kwery – Live Price Data,1.0.0,https://github.com/kwery-co/kwery-mcp,streamable-http,"Live prices, offers and trust scores by GTIN from Amazon, idealo, Google Shopping and 13 more."
+2026-11-12T07:40:57.939433Z,com.chefsums/chefsums,ChefSums,1.0.7,,streamable-http,"Read-only UK kitchen costing: cost recipes, set menu prices, work out GP with VAT, build prep lists."
+2026-11-12T07:43:12.394352Z,com.synapseorch/synapseorch,SynapseOrch,2.0.6,https://github.com/synapseorch-ai/synapse-ai,streamable-http,"Build and run AI agent workflows: start runs, answer what they ask, search knowledge, edit agents."
+2026-11-12T07:46:50.306286Z,dev.arvak/arvak,Arvak,1.0.0,,streamable-http,"Put the site or app you made with your AI online, at its own address."
+2026-11-12T07:58:42.784605Z,in.wealtharena/mcp,Wealth Arena Quantitative Trading MCP Server,1.0.0,,streamable-http,"Hosted MCP server for Indian market quotes, option-chain Greeks and multi-broker telemetry."
+2026-11-12T08:01:09.207356Z,app.skaler/skaler,Skaler,0.3.0,,streamable-http,"Creative analytics for Meta ads: winning ads, AI tags, competitor ad intel and ad launching."
+2026-11-12T08:03:11.860658Z,io.github.ai-guard-dev/ai-guard,AI Guard,1.4.5,https://github.com/ai-guard-dev/eslint-plugin-ai-guard,,"Guardrails for AI-written JS/TS: scans, weakened-test checks, package checks, verify before done."
+2026-11-12T08:04:01.956804Z,io.github.SaschaHenning/omnido,Omnido,1.0.0,https://github.com/SaschaHenning/omnido-releases,streamable-http,"Task app that keeps the source of each task: mail, Teams message or terminal session."
+2026-11-12T08:06:18.216354Z,io.github.Andesphere/andy,Andy,1.0.0,https://github.com/Andesphere/andy,streamable-http,"Run Andy, the AI agent for WhatsApp and Instagram: read chats, approve posts, update your agents."
+2026-11-12T08:09:10.323659Z,io.github.telerik/kendo-react-mcp,KendoReact MCP Server,1.12.1,https://github.com/telerik/ai-plugins,,MCP server providing KendoReact component knowledge and UI-generation capabilities.
+2026-11-12T08:14:00.769936Z,io.github.harsh-maker99/yiwugo-wholesale-moq-scraper,Yiwugo B2B Wholesale & MOQ Pricing Scraper,1.0.0,https://github.com/harsh-maker99/yiwugo-wholesale-moq-scraper,streamable-http,"Scrape Yiwugo wholesale products, MOQ tiered pricing brackets, and supplier booth catalog data."
+2026-11-12T08:14:45.648961Z,uk.co.openmoov/property-search,,1.2.0,,streamable-http,"Search UK property listings, book viewings, get quotes, and find local property services."
+2026-11-12T08:17:23.353981Z,com.skyfi/mcp,SkyFi,1.0.0,,streamable-http,"Search, task, and order SkyFi satellite imagery and geospatial analytics."
+2026-11-12T08:18:36.595715Z,io.github.sasha-sup/garmin-mcp,Garmin Connect (unofficial),0.1.0,https://github.com/sasha-sup/garmin-mcp,,"Unofficial read-only Garmin Connect data: sleep, HRV, heart rate, stress, recovery analysis."
+2026-11-12T08:18:46.424364Z,fun.trnch/trnch-elysium,Trnch on Elysium,1.0.0,,streamable-http,"Elysium swap aggregator for AI agents: token facts, wallet holdings, best of three routers."

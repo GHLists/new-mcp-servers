@@ -9,38 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 07:19 UTC
+## Latest list — 2026-11-12 08:19 UTC
 
-New MCP servers published between 2026-11-12 06:20 UTC and 2026-11-12 07:19 UTC.
+New MCP servers published between 2026-11-12 07:19 UTC and 2026-11-12 08:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-12T07-19-04-836731Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-12T08-19-24-47811Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-12 06:21:27 | [io.github.reppingai/repping](https://github.com/reppingai/repping-mcp) | Repping.ai | 1.0.0 | Read and prepare posts, calendar, links and analytics in Repping.ai. Changes re… |
-| 2026-11-12 06:21:33 | [io.github.killua-xiao/silinex-wire](https://github.com/killua-xiao/Silicon-Nexus) | Silicon News Wire | 1.5.0 | Silicon News Wire: curated public briefs in HTML, JSON, and Markdown. Read-only. |
-| 2026-11-12 06:26:33 | [com.daedalmap/county-map](https://github.com/xyver/daedal-map) | DaedalMap Geographic Data and Tools | 1.0.2 | Connect geographic IDs, places, shapes, and published data through DaedalMap to… |
-| 2026-11-12 06:26:34 | [com.daedalmap/earthquakes](https://github.com/xyver/daedal-map) | DaedalMap Earthquake Data | 1.0.3 | Global earthquake events from the USGS, 2150 BC-present: magnitude, depth, loca… |
-| 2026-11-12 06:26:34 | [com.daedalmap/hurricanes](https://github.com/xyver/daedal-map) | DaedalMap Hurricane and Tropical Cyclon… | 1.0.3 | Global hurricane and tropical cyclone tracks from IBTrACS/NOAA, 1842-present. W… |
-| 2026-11-12 06:26:34 | [com.daedalmap/tornadoes](https://github.com/xyver/daedal-map) | DaedalMap Tornado Events | 1.0.2 | US tornado events 1950-present from the NOAA Storm Prediction Center: EF rating… |
-| 2026-11-12 06:26:35 | [com.daedalmap/tsunamis](https://github.com/xyver/daedal-map) | DaedalMap Tsunami Data | 1.0.3 | Global tsunami events from NOAA NCEI, 2000 BC-present: wave height, runups, and… |
-| 2026-11-12 06:26:35 | [com.daedalmap/wildfires](https://github.com/xyver/daedal-map) | DaedalMap Wildfire Events | 1.0.2 | Wildfire events and aggregates across global, U.S., and Canada sources. |
-| 2026-11-12 06:26:35 | [com.daedalmap/world_factbook](https://github.com/xyver/daedal-map) | DaedalMap CIA World Factbook | 1.0.3 | CIA World Factbook country indicators: infrastructure, energy, demographics, ec… |
-| 2026-11-12 06:38:31 | co.rushiwowen/cbeta-buddhist-scripture | RuShiWoWen Buddhist Scripture Tools | 1.0.1 | CBETA MCP tools to search, browse and read Chinese Buddhist scripture, sutra, T… |
-| 2026-11-12 06:38:53 | [io.github.JSilent/fryerparts](https://github.com/JSilent/fryerparts) | Fryer Parts Index | 1.0.0 | Read-only index of Hobart/Vulcan fryer part numbers, OEM cross-references and f… |
-| 2026-11-12 06:45:21 | com.reccito/reccito |  | 1.0.0 | Add, view or search your receipts, split the spend with friends and manage bala… |
-| 2026-11-12 06:47:22 | ai.mstudio/mstudio | mStudio | 1.0.0 | Turn a story or screenplay into a finished film: script, shots, stills, video,… |
-| 2026-11-12 06:47:37 | io.github.cronus42/ibc-mcp |  | 1.0.0 | Physics interior-ballistics solver: solves, ladders, trajectory, lookups. Publi… |
-| 2026-11-12 06:52:48 | ai.admux/admux | Admux | 0.1.0 | Buy ChatGPT, Google AI Mode and Gravity ads from one prepaid balance, with scop… |
-| 2026-11-12 06:58:14 | [io.github.harsh-maker99/us-federal-awards-and-naics-monitor](https://github.com/harsh-maker99/us-federal-awards-and-naics-monitor) | US Federal Contract & Grant Awards Moni… | 1.0.0 | Monitor US federal contracts and grants with automatic NAICS 511210/513210 reso… |
-| 2026-11-12 07:00:38 | [io.github.multiplex-ai/muggleai](https://github.com/multiplex-ai/muggle-ai-works) | Muggle Works | 5.36.0 | Acceptance test agent for coding agents: real-browser tests, with screenshots o… |
-| 2026-11-12 07:07:11 | [io.github.hussainshirazi/droidmap](https://github.com/hussainshirazi/droidmap) | droidmap | 0.2.0 | Android project graph: change impact and checks for Room, navigation, Hilt, Koi… |
-| 2026-11-12 07:12:30 | com.sharelatch/mcp | Sharelatch | 0.0.1 | Publish documents as protected links and dynamic QR codes, and see who read the… |
-| 2026-11-12 07:13:45 | [io.github.SurajKGoyal/amnesic](https://github.com/SurajKGoyal/amnesic) |  | 0.2.3 | Persistent semantic memory for SQL databases. Postgres, MySQL, MSSQL, SQLite. |
-| 2026-11-12 07:14:20 | com.dinoplan/floor-plans | Dinoplan | 1.0.0 | Draw and edit floor plans: rooms, doors, windows, 3D, export to PNG, PDF or FML… |
-| 2026-11-12 07:15:05 | ai.techshu/aeo-optima | AEO Optima | 1.7.0 | See how ChatGPT, Gemini, Perplexity and Claude talk about your brand. |
-| 2026-11-12 07:17:11 | com.aumimate/aumi | Aumi | 1.0.0 | Social network for humans and AI companions: Moments, chats, friends, and your… |
-| 2026-11-12 07:17:46 | com.beautifiedyou/store | BeautifiedYou | 1.0.0 | Search professional skincare and supplements, see prices and stock, build a car… |
+| 2026-11-12 07:19:29 | io.github.OsakaSaul/foxplug | FoxPlug | 1.0.0 | Your agent records what you ship; FoxPlug drafts launch posts and a changelog.… |
+| 2026-11-12 07:36:07 | uk.co.newhomesearch/newhomesearch | NewHomeSearch | 1.1.0 | New build homes for sale across the UK, with house builders, schools and stamp… |
+| 2026-11-12 07:39:40 | [co.kwery/mcp](https://github.com/kwery-co/kwery-mcp) | kwery – Live Price Data | 1.0.0 | Live prices, offers and trust scores by GTIN from Amazon, idealo, Google Shoppi… |
+| 2026-11-12 07:40:57 | com.chefsums/chefsums | ChefSums | 1.0.7 | Read-only UK kitchen costing: cost recipes, set menu prices, work out GP with V… |
+| 2026-11-12 07:43:12 | [com.synapseorch/synapseorch](https://github.com/synapseorch-ai/synapse-ai) | SynapseOrch | 2.0.6 | Build and run AI agent workflows: start runs, answer what they ask, search know… |
+| 2026-11-12 07:46:50 | dev.arvak/arvak | Arvak | 1.0.0 | Put the site or app you made with your AI online, at its own address. |
+| 2026-11-12 07:58:42 | in.wealtharena/mcp | Wealth Arena Quantitative Trading MCP S… | 1.0.0 | Hosted MCP server for Indian market quotes, option-chain Greeks and multi-broke… |
+| 2026-11-12 08:01:09 | app.skaler/skaler | Skaler | 0.3.0 | Creative analytics for Meta ads: winning ads, AI tags, competitor ad intel and… |
+| 2026-11-12 08:03:11 | [io.github.ai-guard-dev/ai-guard](https://github.com/ai-guard-dev/eslint-plugin-ai-guard) | AI Guard | 1.4.5 | Guardrails for AI-written JS/TS: scans, weakened-test checks, package checks, v… |
+| 2026-11-12 08:04:01 | [io.github.SaschaHenning/omnido](https://github.com/SaschaHenning/omnido-releases) | Omnido | 1.0.0 | Task app that keeps the source of each task: mail, Teams message or terminal se… |
+| 2026-11-12 08:06:18 | [io.github.Andesphere/andy](https://github.com/Andesphere/andy) | Andy | 1.0.0 | Run Andy, the AI agent for WhatsApp and Instagram: read chats, approve posts, u… |
+| 2026-11-12 08:09:10 | [io.github.telerik/kendo-react-mcp](https://github.com/telerik/ai-plugins) | KendoReact MCP Server | 1.12.1 | MCP server providing KendoReact component knowledge and UI-generation capabilit… |
+| 2026-11-12 08:14:00 | [io.github.harsh-maker99/yiwugo-wholesale-moq-scraper](https://github.com/harsh-maker99/yiwugo-wholesale-moq-scraper) | Yiwugo B2B Wholesale & MOQ Pricing Scra… | 1.0.0 | Scrape Yiwugo wholesale products, MOQ tiered pricing brackets, and supplier boo… |
+| 2026-11-12 08:14:45 | uk.co.openmoov/property-search |  | 1.2.0 | Search UK property listings, book viewings, get quotes, and find local property… |
+| 2026-11-12 08:17:23 | com.skyfi/mcp | SkyFi | 1.0.0 | Search, task, and order SkyFi satellite imagery and geospatial analytics. |
+| 2026-11-12 08:18:36 | [io.github.sasha-sup/garmin-mcp](https://github.com/sasha-sup/garmin-mcp) | Garmin Connect (unofficial) | 0.1.0 | Unofficial read-only Garmin Connect data: sleep, HRV, heart rate, stress, recov… |
+| 2026-11-12 08:18:46 | fun.trnch/trnch-elysium | Trnch on Elysium | 1.0.0 | Elysium swap aggregator for AI agents: token facts, wallet holdings, best of th… |
 
 ## Data source
 
