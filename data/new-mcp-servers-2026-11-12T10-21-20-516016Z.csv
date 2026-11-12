@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-11-12T09:25:53.731313Z,art.omnicreator/omnicreator,Omni Creator,1.0.0,https://github.com/wangneo276-lgtm/omnicreator-mcp,streamable-http,Omni Creator is an AI Photo Editor Online free to try.
+2026-11-12T09:27:33.297222Z,io.github.LevaByThe/leva,LEVA building cost estimates,1.10.0,,streamable-http,"Cost of an ADU, shed, barndominium and more from LEVA priced 3D configurators"
+2026-11-12T09:30:56.791386Z,ai.leadfuzion.mcp/agent-store,LeadFuzion Agent Store,0.1.0,,streamable-http,US probate and pre-probate lead packages by county. No account; pay per package by card or USDC.
+2026-11-12T09:31:53.484148Z,io.veriport/veriport,"Veriport: EU VAT number, IBAN, VAT rates and e-invoice checks",0.1.0,https://github.com/zenomoung/veriport-sdk,,"EU VAT numbers on VIES, IBANs, French companies, Peppol IDs, EU VAT rates and e-invoice validation."
+2026-11-12T09:34:58.367373Z,io.github.Abdk4Moura/xats,,0.1.1,https://github.com/Abdk4Moura/xats-setup,,"One agent roster and inbox shared by Claude Code, Codex, OpenCode and Pi."
+2026-11-12T09:35:15.449221Z,io.github.e2e-inc/testerarmy,TesterArmy,1.0.0,https://github.com/e2e-inc/cli,streamable-http,"Agents that test your web and mobile app like real users, on every pull request."
+2026-11-12T09:37:42.590567Z,eu.jobsbrief/jobs-brief,Jobs Brief,1.0.0,,streamable-http,"Hand-picked cloud, platform, SRE and AI-infra roles, remote across the EU or in Poland."
+2026-11-12T09:45:30.739754Z,io.github.logicgeek/toolgrail,ToolGrail,1.0.0,https://github.com/logicgeek/aitoolatlas,streamable-http,"Find and compare AI tools by role, task and industry, with pricing and sources."
+2026-11-12T09:46:14.844471Z,com.fusestays/rooms,Fuse rooms,2.0.0,,streamable-http,"Search Fuse's furnished, all inclusive student rooms in Budapest and Riga. Read only, no key."
+2026-11-12T09:52:40.559851Z,io.github.vassiliylakhonin/vizier-guard,Vizier Guard,0.3.3,https://github.com/vassiliylakhonin/vizier,,Deterministic authorization and security guard for AI agent actions with signed receipts.
+2026-11-12T09:56:53.581238Z,dev.sfwapi/mcp,SFW API,0.1.1,,streamable-http,"Nudity detection for images, GIFs and videos: a level from 0 to 3 and a blocked or allowed verdict."
+2026-11-12T09:59:44.410203Z,win.atithi/salon-booking-demo,Salon booking demo (Atithi),1.0.0,,streamable-http,Demo booking server for a fictional salon. Try confirm-first write tools in Claude or ChatGPT.
+2026-11-12T10:00:07.667918Z,com.watch-my-wallet/wally,Wally: Budget Tracker,1.0.0,,streamable-http,"Ask about your Wally spending and budgets, and log expenses, income and transfers in plain language."
+2026-11-12T10:01:00.110584Z,com.aih3image/ai-h3-image,AI H3 Image,1.0.0,,streamable-http,Turn an uploaded photo into an AI video. Preview the credit cost and get the finished video link.
+2026-11-12T10:04:09.046694Z,io.fexr/trading,Fexr trading,1.0.0,,streamable-http,"Let your AI trade inside limits you set: proven strategies, hard limits, every move on record."
+2026-11-12T10:11:14.974863Z,com.bidalto.mcp/tenders,Bidalto: Spanish public tenders,1.0.0,,streamable-http,"Search open Spanish public-sector tenders, updated daily, and estimate an offer. Read-only."
+2026-11-12T10:12:09.116917Z,com.aimlapi/mcp,AI/ML API MCP,1.0.0,,streamable-http,"Official AI/ML API server: 10,000+ AI tools and models for chat, image, video, audio, search, data."
+2026-11-12T10:13:59.08656Z,io.dealscreener/auctions,DealScreener: Spanish property auctions,1.0.0,,streamable-http,"Spanish property auctions and bank-owned homes, screened daily: verdict, score, bid ranges."
+2026-11-12T10:15:53.166297Z,art.karaokemaker3000/karaoke-maker-3000,karaoke-maker-3000,0.1.1,,streamable-http,"Create karaoke MP4 videos from MP3 with instrumental, lyrics, timing and backgrounds."
+2026-11-12T10:16:10.776365Z,dev.moneytools/approval-relay,MoneyTools Approval Relay,1.0.0,,streamable-http,"Human approval for unattended AI agents: one-time approve link, wait, Ed25519-signed receipt"
+2026-11-12T10:18:02.96159Z,il.co.billos/billos,BillOS,1.1.0,,streamable-http,"Israeli tax invoices and receipts in a registered ledger: issue, correct, expenses, reports"
+2026-11-12T10:19:00.537325Z,so.phoenix/rush,Rush,1.2.0,,streamable-http,"Hand Rush a task: a cloud agent does the work and returns a PR, report, files or answer."
+2026-11-12T10:19:29.874918Z,io.github.redpop/apple-mail-actions-mcp,Apple Mail Actions,0.3.2,https://github.com/redpop/apple-mail-mcp,,Move messages between mailboxes in Apple Mail on macOS. Needs the Apple Mail read server.
+2026-11-12T10:21:15.946468Z,io.github.trades-survey/konvizi,Konvizi,0.1.0,,,"Convert PDF, images (incl. HEIC) and Word/text files locally: merge, split, rotate, extract text."

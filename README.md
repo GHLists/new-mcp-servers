@@ -9,45 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 09:21 UTC
+## Latest list — 2026-11-12 10:21 UTC
 
-New MCP servers published between 2026-11-12 08:19 UTC and 2026-11-12 09:21 UTC.
+New MCP servers published between 2026-11-12 09:21 UTC and 2026-11-12 10:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-12T09-21-09-493876Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-12T10-21-20-516016Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-12 08:20:54 | [io.github.stokaro/unswell](https://github.com/stokaro/unswell) | Unswell | 0.1.0-alpha.7 | Offline self-checking to reduce AI-style wording in source code and documentati… |
-| 2026-11-12 08:27:34 | [app.buildbase/console](https://github.com/buildbase-app/mcp) | BuildBase Console | 1.0.0 | Manage BuildBase organizations, members, content, email, workflows and settings… |
-| 2026-11-12 08:30:04 | ai.gymup/gymup | GymUp | 1.0.0 | Connect Claude, Cursor or any MCP client to your GymUp training data. |
-| 2026-11-12 08:30:05 | app.kwern/kwern | Kwern | 1.0.0 | Gives any MCP client your Kwern products, proposals and skills, and publishes a… |
-| 2026-11-12 08:30:46 | [io.github.Ezed9/mcp-bouncer](https://github.com/Ezed9/mcp-bouncer) | Bouncer | 0.1.6 | Stdio MCP proxy that denies agent sends to destinations first seen in untrusted… |
-| 2026-11-12 08:31:40 | [io.github.telerik/kendo-angular-mcp](https://github.com/telerik/ai-plugins) | Kendo UI for Angular MCP Server | 1.11.1 | MCP server providing Kendo UI for Angular component knowledge and UI-generation… |
-| 2026-11-12 08:32:01 | com.gaduin/gaduin | Gaduin | 0.1.0 | Live flight status, flight on-time history and prediction markets on flight, tr… |
-| 2026-11-12 08:34:37 | sh.growfast/growfast | GrowFast | 1.1.0 | Find B2B customers for a product: score matching companies, draft emails, liste… |
-| 2026-11-12 08:34:42 | com.cvposh/cvposh | CVPosh | 0.2.0 | Read your CVPosh resumes, check ATS compatibility and match keywords to a job p… |
-| 2026-11-12 08:34:44 | com.showmrr/showmrr | ShowMRR | 1.0.0 | Startup MRR lookups: search, history, leaderboards. Each figure labelled verifi… |
-| 2026-11-12 08:34:45 | app.datafast/datafast | DataFast | 1.0.0 | Ask about your DataFast web analytics: visitors, top pages, traffic sources and… |
-| 2026-11-12 08:34:56 | app.aisend/aisend | AISend | 0.3.0 | Email for AI agents: send from your verified domain, track delivery, list mail,… |
-| 2026-11-12 08:35:04 | news.agentry/agentry | Agentry | 1.0.0 | News for the agent economy: fact-checked stories on what AI agents do, plus AdC… |
-| 2026-11-12 08:36:00 | [io.github.furqan-khan07/pandas-doctor](https://github.com/furqan-khan07/pandas-doctor) | pandas-doctor | 0.1.1 | Finds slow pandas code, checks rewrites give identical results on your data, me… |
-| 2026-11-12 08:38:27 | com.halfwhere/halfwhere | halfwhere | 1.0.0 | Fair places to meet halfway in Australia: suburbs, midpoints, venues. |
-| 2026-11-12 08:43:59 | com.md2sign/md2sign | md2sign | 1.1.0 | Send markdown contracts for legally binding e-signatures. Draft, preview, send… |
-| 2026-11-12 08:45:29 | [io.github.quantummetric/quantum-metric](https://github.com/quantummetric/qm-plugin-skills) | Quantum Metric | 1.0.0 | Analyze funnels, errors, friction and session replays in Quantum Metric |
-| 2026-11-12 08:47:32 | [io.github.jeffkit/hollow](https://github.com/jeffkit/hollow) | hollow — a tree hole for AI agents | 0.4.3 | A rest stop for AI agents: whisper, listen, reply, rest. By design never evalua… |
-| 2026-11-12 08:47:51 | [io.github.velella-sh/offing](https://github.com/velella-sh/offing) | Offing | 0.1.1 | Evidence-backed deprecation and end-of-life checks for dependencies, runtimes,… |
-| 2026-11-12 08:54:04 | [io.github.rlrdus-qq/gaja-mcp](https://github.com/rlrdus-qq/gaja-mcp) | GAJA (가자) - Korea Travel & Measured Vis… | 0.5.0 | Real-world measured visit big data and travel course recommendation MCP for Sou… |
-| 2026-11-12 08:54:26 | ai.licklider/sciground | SciGround MCP (Public Beta) | 0.1.0 | Google sign-in; study_create, study_current, study_diagnostics. Remote HTTP and… |
-| 2026-11-12 08:56:37 | com.go-voltic/site-scan | Go Voltic site scan | 1.0.0 | Scans a public website and returns a score with its first findings. |
-| 2026-11-12 09:01:57 | dev.agentsready/agentsready | AgentsReady | 1.1.0 | Score any website for AI agents (ChatGPT, Claude, Perplexity) and get fixes for… |
-| 2026-11-12 09:02:45 | [io.github.DinevDecor/trust-engine-mcp](https://github.com/DinevDecor/trust-engine-mcp) | Trust Engine AI: model retirements and… | 0.1.0 | Model retirement dates with sources, public cost-vs-quality benchmark, local us… |
-| 2026-11-12 09:03:40 | [io.github.dreamrec/livepilot](https://github.com/dreamrec/LivePilot) |  | 1.31.0 | Ableton Live 12: 474 tools, 57 domains, nested devices, native modulation, and… |
-| 2026-11-12 09:03:49 | com.dexurl/dexurl | DexURL | 1.0.0 | Create and manage DexURL short links, QR codes, Vault items and Bio page links. |
-| 2026-11-12 09:05:47 | finance.haven/financing | Haven Financing | 1.0.0 | Read-only Haven portfolio financing rates, simulations, debt comparisons and on… |
-| 2026-11-12 09:09:54 | io.github.shutrup/tacto | Tacto — Time Tracking for Trello | 1.0.0 | Log time on Trello cards and read time reports: entries, totals, estimates and… |
-| 2026-11-12 09:17:32 | now.estateplan/estateplan-now | EstatePlan.now | 1.2.0 | Find U.S. estate planning law firms: services, published prices and how to begi… |
-| 2026-11-12 09:18:58 | app.hellocast/hellocast | Hellocast | 1.0.0 | Manage office TV screens: playlists, text and designed slides, and which screen… |
-| 2026-11-12 09:19:26 | com.nanion/vaia | nanion.com (Vaia) | 1.0.0 | Answers about nanion.com from its website: products, technical data, comparison… |
+| 2026-11-12 09:25:53 | [art.omnicreator/omnicreator](https://github.com/wangneo276-lgtm/omnicreator-mcp) | Omni Creator | 1.0.0 | Omni Creator is an AI Photo Editor Online free to try. |
+| 2026-11-12 09:27:33 | io.github.LevaByThe/leva | LEVA building cost estimates | 1.10.0 | Cost of an ADU, shed, barndominium and more from LEVA priced 3D configurators |
+| 2026-11-12 09:30:56 | ai.leadfuzion.mcp/agent-store | LeadFuzion Agent Store | 0.1.0 | US probate and pre-probate lead packages by county. No account; pay per package… |
+| 2026-11-12 09:31:53 | [io.veriport/veriport](https://github.com/zenomoung/veriport-sdk) | Veriport: EU VAT number, IBAN, VAT rate… | 0.1.0 | EU VAT numbers on VIES, IBANs, French companies, Peppol IDs, EU VAT rates and e… |
+| 2026-11-12 09:34:58 | [io.github.Abdk4Moura/xats](https://github.com/Abdk4Moura/xats-setup) |  | 0.1.1 | One agent roster and inbox shared by Claude Code, Codex, OpenCode and Pi. |
+| 2026-11-12 09:35:15 | [io.github.e2e-inc/testerarmy](https://github.com/e2e-inc/cli) | TesterArmy | 1.0.0 | Agents that test your web and mobile app like real users, on every pull request. |
+| 2026-11-12 09:37:42 | eu.jobsbrief/jobs-brief | Jobs Brief | 1.0.0 | Hand-picked cloud, platform, SRE and AI-infra roles, remote across the EU or in… |
+| 2026-11-12 09:45:30 | [io.github.logicgeek/toolgrail](https://github.com/logicgeek/aitoolatlas) | ToolGrail | 1.0.0 | Find and compare AI tools by role, task and industry, with pricing and sources. |
+| 2026-11-12 09:46:14 | com.fusestays/rooms | Fuse rooms | 2.0.0 | Search Fuse's furnished, all inclusive student rooms in Budapest and Riga. Read… |
+| 2026-11-12 09:52:40 | [io.github.vassiliylakhonin/vizier-guard](https://github.com/vassiliylakhonin/vizier) | Vizier Guard | 0.3.3 | Deterministic authorization and security guard for AI agent actions with signed… |
+| 2026-11-12 09:56:53 | dev.sfwapi/mcp | SFW API | 0.1.1 | Nudity detection for images, GIFs and videos: a level from 0 to 3 and a blocked… |
+| 2026-11-12 09:59:44 | win.atithi/salon-booking-demo | Salon booking demo (Atithi) | 1.0.0 | Demo booking server for a fictional salon. Try confirm-first write tools in Cla… |
+| 2026-11-12 10:00:07 | com.watch-my-wallet/wally | Wally: Budget Tracker | 1.0.0 | Ask about your Wally spending and budgets, and log expenses, income and transfe… |
+| 2026-11-12 10:01:00 | com.aih3image/ai-h3-image | AI H3 Image | 1.0.0 | Turn an uploaded photo into an AI video. Preview the credit cost and get the fi… |
+| 2026-11-12 10:04:09 | io.fexr/trading | Fexr trading | 1.0.0 | Let your AI trade inside limits you set: proven strategies, hard limits, every… |
+| 2026-11-12 10:11:14 | com.bidalto.mcp/tenders | Bidalto: Spanish public tenders | 1.0.0 | Search open Spanish public-sector tenders, updated daily, and estimate an offer… |
+| 2026-11-12 10:12:09 | com.aimlapi/mcp | AI/ML API MCP | 1.0.0 | Official AI/ML API server: 10,000+ AI tools and models for chat, image, video,… |
+| 2026-11-12 10:13:59 | io.dealscreener/auctions | DealScreener: Spanish property auctions | 1.0.0 | Spanish property auctions and bank-owned homes, screened daily: verdict, score,… |
+| 2026-11-12 10:15:53 | art.karaokemaker3000/karaoke-maker-3000 | karaoke-maker-3000 | 0.1.1 | Create karaoke MP4 videos from MP3 with instrumental, lyrics, timing and backgr… |
+| 2026-11-12 10:16:10 | dev.moneytools/approval-relay | MoneyTools Approval Relay | 1.0.0 | Human approval for unattended AI agents: one-time approve link, wait, Ed25519-s… |
+| 2026-11-12 10:18:02 | il.co.billos/billos | BillOS | 1.1.0 | Israeli tax invoices and receipts in a registered ledger: issue, correct, expen… |
+| 2026-11-12 10:19:00 | so.phoenix/rush | Rush | 1.2.0 | Hand Rush a task: a cloud agent does the work and returns a PR, report, files o… |
+| 2026-11-12 10:19:29 | [io.github.redpop/apple-mail-actions-mcp](https://github.com/redpop/apple-mail-mcp) | Apple Mail Actions | 0.3.2 | Move messages between mailboxes in Apple Mail on macOS. Needs the Apple Mail re… |
+| 2026-11-12 10:21:15 | io.github.trades-survey/konvizi | Konvizi | 0.1.0 | Convert PDF, images (incl. HEIC) and Word/text files locally: merge, split, rot… |
 
 ## Data source
 
