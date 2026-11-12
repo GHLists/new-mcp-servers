@@ -9,47 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 20:21 UTC
+## Latest list — 2026-11-12 21:19 UTC
 
-New MCP servers published between 2026-11-12 19:19 UTC and 2026-11-12 20:21 UTC.
+New MCP servers published between 2026-11-12 20:21 UTC and 2026-11-12 21:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-12T20-21-43-729643Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-12T21-19-32-388968Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-12 19:22:52 | com.getleftoff/leftoff | Leftoff | 0.1.0 | Project memory for every AI. Pick up where you left off in Claude, ChatGPT or C… |
-| 2026-11-12 19:24:39 | io.github.Rafi-siddiq/recently-funded-companies | Recently Funded Companies (SEC Form D) | 1.0.0 | New US funding rounds from SEC Form D filings: company, amount raised, investor… |
-| 2026-11-12 19:27:29 | [io.github.h3692/eightytwenty](https://github.com/h3692/eightytwenty) | eightytwenty | 1.0.0 | Builds case-competition and pitch decks in PowerPoint from the layouts behind w… |
-| 2026-11-12 19:28:17 | ai.airpulse/airpulse | AirPulse | 0.2.0 | AI-search visibility, citations and GEO audit evidence for your brand. |
-| 2026-11-12 19:34:05 | [com.spurvik/eu-ai-act](https://github.com/spurvik/spurvik) | Spurvik EU AI Act | 1.0.4 | EU AI Act Art. 50 notice, HMAC call-receipt and human-approval setup tools for… |
-| 2026-11-12 19:34:32 | com.structacad/structacad | StructaCAD | 1.0.0 | Read saved structural models and material quantities. Requires StructaCAD Pro o… |
-| 2026-11-12 19:41:09 | [com.cloudinary/asset-management-mcp](https://github.com/cloudinary/asset-management-mcp) | Cloudinary Asset Management | 0.11.7 | Upload, generate, organize, search, and transform images, videos, and files wit… |
-| 2026-11-12 19:46:13 | [tools.systra/systra-tools](https://github.com/systra-tools/systra-tools-plugin) | Systra Tools | 1.0.1 | Search and pull production-ready React + Tailwind sections and elements from a… |
-| 2026-11-12 19:47:25 | io.github.stellalytics/ai-search-visibility-tracker | AI Search Visibility Tracker: ChatGPT,… | 0.1.0 | Track brand mentions and citations in ChatGPT, Perplexity, Claude and Grok answ… |
-| 2026-11-12 19:47:25 | io.github.stellalytics/core-web-vitals-pagespeed-checker | Bulk PageSpeed & Core Web Vitals Checke… | 0.1.0 | Bulk PageSpeed Insights and Core Web Vitals (LCP, INP, CLS) for many URLs. Runs… |
-| 2026-11-12 19:47:26 | io.github.stellalytics/seo-site-audit | SEO Audit & Broken Link Checker: Site C… | 0.1.0 | Technical SEO audit crawler: broken links, 404s, redirects, titles, canonicals.… |
-| 2026-11-12 19:47:26 | io.github.stellalytics/bulk-url-status-checker | Bulk URL Status & Broken Link Checker:… | 0.1.0 | Bulk HTTP status checker: 404s, 5xx and redirect chains for thousands of URLs.… |
-| 2026-11-12 19:47:26 | io.github.stellalytics/website-domain-intelligence | Tech Stack & Domain Lookup: WHOIS, DNS,… | 0.1.0 | Tech stack, WHOIS, DNS, SPF/DMARC, SSL expiry and AI crawler rules per domain.… |
-| 2026-11-12 19:48:35 | com.cafeboon/alter-ego | Alter Ego | 1.0.0 | One memory for every AI chat: rules, profile and work history as plain files in… |
-| 2026-11-12 19:50:06 | ai.wyndlass/wyndlass | Wyndlass | 1.0.0 | Digital signage on autopilot: manage screens, content, campaigns, layouts and d… |
-| 2026-11-12 19:51:41 | [fr.romainbailleul/signaux-entreprises](https://github.com/RomainBailleul/signaux-entreprises-france-mcp) | Signaux Entreprises France | 0.1.0 | French public company data: Sirene, RNE, BODACC legal notices, addresses. Free,… |
-| 2026-11-12 19:53:06 | [io.github.mveyseldelibas/earthdiff](https://github.com/mveyseldelibas/earthdiff) | earthdiff | 0.2.0 | Satellite eyes for AI assistants: what changed here? Free Sentinel-2 imagery, n… |
-| 2026-11-12 19:58:46 | com.socialpatra/mcp | SocialPatra | 1.0.0 | Schedule, draft and publish social media posts on 18 platforms from your AI ass… |
-| 2026-11-12 19:59:41 | [io.github.Geornaden/finops-studio](https://github.com/Geornaden/finops-studio) | FinOps Studio — Banking, Payroll & E-In… | 1.2.0 | SEPA XML, Peppol/XRechnung, NACHA ACH, BAI2, DATEV, ABA, BACS, CPA-005 & Positi… |
-| 2026-11-12 20:00:18 | [com.americancloud/mcp](https://github.com/American-Cloud/americancloud-mcp) | American Cloud | 0.9.1 | Manage American Cloud VMs, Kubernetes, databases, storage, networks and DNS fro… |
-| 2026-11-12 20:01:19 | [io.github.Geornaden/sepa-xml-pain001-iban-mcp](https://github.com/Geornaden/finops-studio) | SEPA XML Generator (pain.001 & pain.008… | 1.0.0 | Generate ISO 20022 SEPA Credit Transfer (pain.001.001.09) & Direct Debit XML wi… |
-| 2026-11-12 20:01:19 | [io.github.Geornaden/peppol-xrechnung-facturx-einvoice-mcp](https://github.com/Geornaden/finops-studio) | EU E-Invoice XML Generator (Peppol, XRe… | 1.0.0 | Generate EN 16931 European B2B e-invoice XML in Peppol BIS 3.0 UBL, XRechnung 3… |
-| 2026-11-12 20:01:20 | [io.github.Geornaden/nacha-ach-payroll-generator-mcp](https://github.com/Geornaden/finops-studio) | US NACHA ACH Direct Deposit & Payment F… | 1.0.0 | Create 94-character US NACHA ACH files (PPD, CCD, WEB) with ABA MOD-10 routing… |
-| 2026-11-12 20:01:20 | [io.github.Geornaden/bai2-bank-statement-parser-mcp](https://github.com/Geornaden/finops-studio) | Corporate BAI2 Bank Statement Parser to… | 1.0.0 | Parse corporate BAI2 cash-management bank statements (01/02/03/16/88/49/98/99)… |
-| 2026-11-12 20:01:21 | [io.github.Geornaden/datev-buchungsstapel-extf-mcp](https://github.com/Geornaden/finops-studio) | German DATEV Buchungsstapel EXTF CSV Ge… | 1.0.0 | Convert Stripe, Shopify & ERP bookings into German DATEV EXTF v700 CSV with SKR… |
-| 2026-11-12 20:03:39 | ca.mapleesign/esign | Maple eSign | 1.0.0 | Read your Maple eSign agreements, templates and reports, and prepare drafts you… |
-| 2026-11-12 20:08:05 | dev.workers.sebastiaan-ba3.x402gen/tools |  | 1.0.0 | Free x402 payment-challenge generator with Express/Hono snippets; paid tier add… |
-| 2026-11-12 20:09:58 | com.cronobserver/mcp | CronObserver | 0.1.0 | Know when cron jobs and AI agents stop running: monitors, check-ins, incidents… |
-| 2026-11-12 20:10:09 | com.boardrepo/boardrepo |  | 0.4.0 | Hardware workspace for your AI: inspect saved PCB projects with approved access. |
-| 2026-11-12 20:11:59 | [com.agentfonts/agentfonts](https://github.com/dimelords/fontmarket) | Agentfonts | 0.5.0 | Find, price and license fonts from foundries; agents pay per licence in USDC vi… |
-| 2026-11-12 20:14:07 | [io.github.thematheusmello/promptify](https://github.com/thematheusmello/promptify-v2) | Promptify | 1.0.0 | Generate UGC video ad scripts and render ads with your Promptify credits from a… |
-| 2026-11-12 20:16:42 | [io.github.akshaysharma1088/dataranger](https://github.com/akshaysharma1088/dataranger) | DataRanger | 0.4.1 | Read-only data patrol for AI agents: find broken partitions, prove fixes, escal… |
-| 2026-11-12 20:19:28 | dev.workers.mike-tusa.datemint/datemint | DateMint by Harlo | 0.1.0 | Natural-language dates to exact ISO 8601 in any time zone; extract dates; norma… |
+| 2026-11-12 20:26:20 | vision.sia/studio | SIA Studio | 0.8.3 | Create images, reusable assets, and productions in your connected SIA Studio wo… |
+| 2026-11-12 20:27:59 | il.co.zmrm/booking | ZMRM | 1.1.0 | Search zimmers, villas and vacation rentals in Israel, then open a pre-filled s… |
+| 2026-11-12 20:29:43 | [com.standardicon/icons](https://github.com/Standard-Icon/standardicon) | The Standard Icon Set | 0.3.0-alpha.3 | Search line icons by meaning or by what they look like, and get them as SVG at… |
+| 2026-11-12 20:32:06 | io.coproxy/coproxy | CoProxy | 1.0.0 | Buy, manage and monitor residential, mobile and datacenter proxies on your CoPr… |
+| 2026-11-12 20:32:28 | plus.plat/assistant | plat.plus | 1.0.0 | Read your plat.plus courses, tasks, course pages, sessions, files and messages.… |
+| 2026-11-12 20:34:43 | io.github.sportsprojects/kickoffapi-mcp | KickoffAPI Football Data | 1.0.0 | Live football scores, fixtures, standings, odds and xG via the KickoffAPI footb… |
+| 2026-11-12 20:35:18 | [net.unfret/mcp](https://github.com/kroshtan/unfret_backend) | Unfret | 0.1.0 | Check a store or product page for scam, dropshipping and dark-pattern signals,… |
+| 2026-11-12 20:35:21 | io.github.JaspersAI/jaspers-screener | Jaspers Screener | 1.0.0 | Quantitative and qualitative SEC stock and options screener across 7,100+ publi… |
+| 2026-11-12 20:39:54 | [io.github.yurybreiapps-jpg/happykeywords](https://github.com/yurybreiapps-jpg/happykeywords-mcp) | HappyKeywords | 1.0.0 | App Store keyword research (ASO): ranks in 50+ countries, demand, difficulty. N… |
+| 2026-11-12 20:43:46 | app.nishka/nishka | Нишка – отворен слой | 0.1.0 | Checked Bulgarian public-service facts, legal deadlines and official documents,… |
+| 2026-11-12 20:45:00 | com.craftuary/mcp | Craftuary | 1.1.0 | Check crochet pattern stitch counts, explain stitches, run craft calculators, f… |
+| 2026-11-12 20:54:23 | io.github.ivaavimusic/singularity | Singularity Layer MCP | 1.16.0 | MCP for Singularity Layer - discover listings, manage assets, run payment flows… |
+| 2026-11-12 20:55:03 | com.manulyx/manulyx | Manulyx: LaTeX editor | 1.0.0 | Online LaTeX editor: create, edit, cite and compile LaTeX papers in your Manuly… |
+| 2026-11-12 20:56:29 | lgbt.dns/dns-lgbt | dns.lgbt | 1.0.0 | Manage the DNS records, DNSSEC and nameserver delegation of your dns.lgbt domai… |
+| 2026-11-12 21:01:54 | [io.github.wasinskivini/study-notes-mcp](https://github.com/wasinskivini/study-notes-mcp) | Study Notes MCP | 1.0.0 | Busca nas suas anotações, PDFs e código citando a fonte; dúvidas, progresso e q… |
+| 2026-11-12 21:02:09 | [io.github.lihaoshall/seller-agent](https://github.com/lihaoshall/seller-agent) | Seller Agent — Chinese Book Review Cata… | 1.2.0 | Discover original Chinese book reviews via MCP. Buy full articles for 0.95 USDC… |
+| 2026-11-12 21:02:50 | [com.cloudinary/environment-config-mcp](https://github.com/cloudinary/environment-config-mcp) | Cloudinary Environment Config | 0.6.4 | Manage Cloudinary upload presets, named transformations, mappings, triggers, an… |
+| 2026-11-12 21:03:40 | [io.github.bcssewl/talalevel](https://github.com/bcssewl/talalevel) | TalaLevel | 1.0.0 | Sales CRM: read leads, calls, texts and emails, update deals, and send texts an… |
+| 2026-11-12 21:04:22 | [io.github.seanfenlon/abovo-mcp-server](https://github.com/seanfenlon/abovo-mcp-server) | ABOVO.co: Email-to-Web Publishing | 1.2.0 | Turn any email into a public web page: send it to POST@abovo.co. No login: your… |
+| 2026-11-12 21:05:33 | [com.cloudinary/structured-metadata-mcp](https://github.com/cloudinary/structured-metadata-mcp) | Cloudinary Structured Metadata | 0.6.2 | Create and manage Cloudinary structured metadata fields, datasources, and rules. |
+| 2026-11-12 21:05:58 | [io.github.bobcar0/systemores-plugin](https://github.com/bobcar0/systemores-plugin) | Systemores AI Agent & MCP Security Audi… | 1.1.2 | AI agent security, MCP 2026 schema & graph audits, <250ms guardrails, and compl… |
+| 2026-11-12 21:06:08 | app.routemetrics/routemetrics | RouteMetrics | 1.0.0 | Road miles, drive times, stop order, truck miles by state (IFTA), tolls and tru… |
+| 2026-11-12 21:10:31 | codes.rabatt/spar-auskunft | rabatt.codes | 1.0.0 | Current vouchers, offers and upcoming promotions for shops in Switzerland, Germ… |
+| 2026-11-12 21:12:51 | rent.lexio/lexio | Lexio | 1.0.0 | Read-only access to a Lexio vehicle rental account: availability, rentals, flee… |
+| 2026-11-12 21:16:30 | [io.github.johnisanerd/crunchbase-company](https://github.com/johnisanerd/alphaosint-mcp-servers) |  | 1.0.0 | Crunchbase company funding, investors and firmographics. Paid, on Apify's hoste… |
+| 2026-11-12 21:16:49 | [io.github.johnisanerd/linkedin-people-search](https://github.com/johnisanerd/alphaosint-mcp-servers) |  | 1.0.0 | Find LinkedIn people by name, title, employer or school. Paid, on Apify's hoste… |
+| 2026-11-12 21:17:09 | [io.github.johnisanerd/workday-careers](https://github.com/johnisanerd/alphaosint-mcp-servers) |  | 1.0.0 | Every job on a Workday careers site, with pay and apply links. Paid, on Apify's… |
 
 ## Data source
 
