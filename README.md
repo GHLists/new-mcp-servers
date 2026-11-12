@@ -9,32 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 04:19 UTC
+## Latest list — 2026-11-12 05:20 UTC
 
-New MCP servers published between 2026-11-12 03:20 UTC and 2026-11-12 04:19 UTC.
+New MCP servers published between 2026-11-12 04:19 UTC and 2026-11-12 05:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-12T04-19-23-938071Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-12T05-20-35-988061Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-12 03:22:58 | com.saywink/saywink | SayWink | 1.0.0 | Instagram comment-to-DM automations, scheduled posts, stats and DM inbox for yo… |
-| 2026-11-12 03:25:47 | news.polymath/polymath-news | Polymath News | 1.3.0 | Curated news search and deep research reports for your reader: tech, AI, busine… |
-| 2026-11-12 03:26:11 | com.toolocate/toolocate | Toolocate | 1.0.0 | Find and compare verified AI tools: search, details, alternatives, and categori… |
-| 2026-11-12 03:27:22 | [io.github.sincekmori/asana-gate](https://github.com/sincekmori/asana-gate) | asana-gate | 0.3.1 | Declarative access-control policy in front of the Asana API, served to AI agent… |
-| 2026-11-12 03:37:27 | com.wandy3d/wandy3d | Wandy3D | 1.2.0 | Turn a photo, drawing or text description into a textured 3D model (GLB, FBX, O… |
-| 2026-11-12 03:41:01 | app.korima/pos | Korima POS | 1.0.0 | Configura tu punto de venta Korima: productos con variantes, precios, existenci… |
-| 2026-11-12 03:42:09 | [io.github.Thezenmonster/agentscore](https://github.com/Thezenmonster/agentscores) |  | 2.2.2 | MCP security trust layer: scan packages, inspect repos, check exposure, monitor… |
-| 2026-11-12 03:47:25 | [io.github.craft-agent/whatsapp-tools](https://github.com/craft-agent/whatsapp-tools) |  | 0.1.0 | WhatsApp tools for coding agents: chats, contacts, history, received files, sen… |
-| 2026-11-12 03:53:29 | com.chainitor/chainitor | Chainitor | 1.0.0 | Monitor EVM wallets, tokens, contracts and Safe multisigs, and read their alert… |
-| 2026-11-12 03:53:43 | com.qrcodedinosaur/qr-codes | QR Code Dinosaur | 1.0.0 | Free QR codes for any URL with no signup or API key, plus scan analytics. Pro m… |
-| 2026-11-12 03:53:44 | app.qrcodecreator/qr-codes | QR Code Creator | 1.0.0 | Free QR codes for any URL with no signup or API key, plus scan analytics. Pro m… |
-| 2026-11-12 04:00:57 | io.github.Selfware/sitekeeper | Sitekeeper | 1.0.0 | Edit your existing website by message: preview a change, apply it, undo it. 3-d… |
-| 2026-11-12 04:04:57 | [io.github.AdversTM/sftp-mcp](https://github.com/AdversTM/sftp-mcp) | SFTP | 1.1.1 | SFTP-only file access for AI: browse, edit, transfer and sync files, no shell a… |
-| 2026-11-12 04:08:06 | app.trainrec/trainrec | TrainRec | 1.0.0 | Your AI assistant logs your meals and workouts, then plans your week from what… |
-| 2026-11-12 04:11:42 | io.docquery/docquery | DocQuery | 1.0.0 | Read-only MCP over your Excel or Airtable plus the PDFs beside it, joined as on… |
-| 2026-11-12 04:14:03 | [io.github.wishfinity/wishfinity-mcp-plusw](https://github.com/wishfinity/wishfinity-mcp-plusw) |  | 1.2.3 | Save any product URL to your Wishfinity wishlist. Works with any MCP client. |
-| 2026-11-12 04:14:20 | club.mdldm/grok-bot-town | Grok Bot Town | 1.0.0 | Search, fetch and submit 100+ ready-to-use Grok Bot prompts (Chinese). OAuth, f… |
-| 2026-11-12 04:17:47 | [io.github.zhaoxinghua09-cell/uibc-core](https://github.com/zhaoxinghua09-cell/uibc-core) |  | 0.3.0 | Read-only verification of agent evidence packages: three-valued verdicts, Ed255… |
+| 2026-11-12 04:22:17 | com.qrvow/qrvow | QRVow | 1.0.0 | Create, edit and track dynamic QR codes that never stop working, with scan stat… |
+| 2026-11-12 04:25:14 | io.github.ning2yiyi/detailx | DetailX Video Upscaler | 1.0.0 | Upscale videos to 4K and interpolate frames. DetailX OAuth login and credits re… |
+| 2026-11-12 04:26:30 | [io.github.0xcircuitbreaker/dominusnode](https://github.com/0xcircuitbreaker/DomiNode) | Dominus Node | 2.0.0 | Relay network for AI agents: fetch via agent-contributed IPs, run a node and ea… |
+| 2026-11-12 04:26:35 | com.mealplanvault/meal-plan-vault | The Meal Plan Vault | 1.0.0 | Household meal planning: recipes, weekly meal plans, and grocery lists for your… |
+| 2026-11-12 04:32:40 | dev.twinr/mcp | Twinr | 1.0.0 | Manage your Twinr iOS and Android apps by asking: builds, app icon, launch scre… |
+| 2026-11-12 04:37:41 | to.quotify/quotify | Quotify | 2.0.0 | Search, read and save quotes from your Quotify library. |
+| 2026-11-12 04:38:50 | com.govouchsafe/vouchsafe | VouchSafe | 1.0.0 | Before an AI agent pays, people confirm it by phone callback. Returns a signed… |
+| 2026-11-12 04:39:01 | [io.github.webcredo/umami-compass](https://github.com/webcredo/umami-compass) | Umami Compass | 0.5.2 | Secure Umami Analytics MCP server for Cloud and self-hosted deployments |
+| 2026-11-12 04:43:42 | [io.github.randyy179/qlib-sync](https://github.com/randyy179/qlib-sync) | qlib-sync: China A-share data | 0.1.1 | Install, update, and read a local Qlib China A-share daily dataset, with checks… |
+| 2026-11-12 04:46:25 | ca.roofmanager/roof-manager | Roof Manager | 1.0.0 | Check an address, order, get, measure, list, or cancel a roof report, and read… |
+| 2026-11-12 04:50:29 | [io.github.stos-technologies/agentcoin](https://github.com/stos-technologies/agentcoin) | AgentCoin router + escrow (Base Sepolia… | 0.5.6 | Find agent services, pay via escrow, get refunds if not delivered. Base Sepolia… |
+| 2026-11-12 05:13:11 | [io.github.anydoor7/tslink](https://github.com/anydoor7/tslink) | TSLink | 0.4.0 | Open your coding agent's dev server on your phone: a private ts.net address per… |
+| 2026-11-12 05:16:16 | [com.mambabuilt/mcp-property-owner-records](https://github.com/mambalabsdev/mcp-property-owner-records) |  | 1.0.0 | Owners of record and values from public county tax rolls in NC, NY, FL, CO, AR,… |
+| 2026-11-12 05:17:22 | com.domdomjobs/jobs | DomDom Jobs | 1.0.0 | Jobs from employers' own pages: robot training, remote nursing, UX, legal, vete… |
+| 2026-11-12 05:19:03 | io.github.superlabs-x/bitpal |  | 0.1.3 | Non-custodial stablecoin checkout: search BitPal docs, API spec, webhooks and e… |
 
 ## Data source
 

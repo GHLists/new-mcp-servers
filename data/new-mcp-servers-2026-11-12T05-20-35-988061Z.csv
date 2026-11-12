@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-11-12T04:22:17.17217Z,com.qrvow/qrvow,QRVow,1.0.0,,streamable-http,"Create, edit and track dynamic QR codes that never stop working, with scan stats."
+2026-11-12T04:25:14.661268Z,io.github.ning2yiyi/detailx,DetailX Video Upscaler,1.0.0,,streamable-http,Upscale videos to 4K and interpolate frames. DetailX OAuth login and credits required.
+2026-11-12T04:26:30.664333Z,io.github.0xcircuitbreaker/dominusnode,Dominus Node,2.0.0,https://github.com/0xcircuitbreaker/DomiNode,,"Relay network for AI agents: fetch via agent-contributed IPs, run a node and earn (alpha)."
+2026-11-12T04:26:35.196809Z,com.mealplanvault/meal-plan-vault,The Meal Plan Vault,1.0.0,,streamable-http,"Household meal planning: recipes, weekly meal plans, and grocery lists for your AI agent."
+2026-11-12T04:32:40.841561Z,dev.twinr/mcp,Twinr,1.0.0,,streamable-http,"Manage your Twinr iOS and Android apps by asking: builds, app icon, launch screen and docs."
+2026-11-12T04:37:41.404227Z,to.quotify/quotify,Quotify,2.0.0,,streamable-http,"Search, read and save quotes from your Quotify library."
+2026-11-12T04:38:50.224625Z,com.govouchsafe/vouchsafe,VouchSafe,1.0.0,,streamable-http,"Before an AI agent pays, people confirm it by phone callback. Returns a signed receipt."
+2026-11-12T04:39:01.911706Z,io.github.webcredo/umami-compass,Umami Compass,0.5.2,https://github.com/webcredo/umami-compass,,Secure Umami Analytics MCP server for Cloud and self-hosted deployments
+2026-11-12T04:43:42.205822Z,io.github.randyy179/qlib-sync,qlib-sync: China A-share data,0.1.1,https://github.com/randyy179/qlib-sync,,"Install, update, and read a local Qlib China A-share daily dataset, with checksums and rollback."
+2026-11-12T04:46:25.872939Z,ca.roofmanager/roof-manager,Roof Manager,1.0.0,,streamable-http,"Check an address, order, get, measure, list, or cancel a roof report, and read the account."
+2026-11-12T04:50:29.057612Z,io.github.stos-technologies/agentcoin,AgentCoin router + escrow (Base Sepolia testnet),0.5.6,https://github.com/stos-technologies/agentcoin,streamable-http,"Find agent services, pay via escrow, get refunds if not delivered. Base Sepolia testnet only."
+2026-11-12T05:13:11.441946Z,io.github.anydoor7/tslink,TSLink,0.4.0,https://github.com/anydoor7/tslink,,"Open your coding agent's dev server on your phone: a private ts.net address per app, via MCP."
+2026-11-12T05:16:16.234983Z,com.mambabuilt/mcp-property-owner-records,,1.0.0,https://github.com/mambalabsdev/mcp-property-owner-records,,"Owners of record and values from public county tax rolls in NC, NY, FL, CO, AR, and WI"
+2026-11-12T05:17:22.61426Z,com.domdomjobs/jobs,DomDom Jobs,1.0.0,,streamable-http,"Jobs from employers' own pages: robot training, remote nursing, UX, legal, veterans and side work."
+2026-11-12T05:19:03.361922Z,io.github.superlabs-x/bitpal,,0.1.3,,streamable-http,"Non-custodial stablecoin checkout: search BitPal docs, API spec, webhooks and errors; test payments"
