@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-11-13T18:27:04.225768Z,io.github.Bylines/showrunner,Showrunner,1.0.0,,streamable-http,"Search and read your Showrunner chats, notes, tasks, files and transcripts, and act as you."
+2026-11-13T18:32:26.56272Z,com.businessratechecker/mcp,BusinessRateChecker,1.7.3,,streamable-http,"Business rates data for England and Wales: rateable values, comparables, verdicts, tribunal cases"
+2026-11-13T18:34:23.930464Z,com.asomap/asomap,ASOMap,0.2.0,,streamable-http,"ASO for App Store, Google Play and RuStore: keyword ranks, competitors, reviews, listings."
+2026-11-13T18:35:51.351356Z,uz.bitg/bitg,bitg — new Uzbek alphabet,0.4.0,https://github.com/dtwinuz/bitg,streamable-http,Convert Uzbek text to the new 2026 Latin alphabet (Ö Ğ Ş Ç) from old Latin or Cyrillic.
+2026-11-13T18:36:14.179795Z,com.investorshelf/investor-shelf,Investor Shelf,1.0.0,,streamable-http,"Startup investors, funding rounds and finance reports, with page-cited evidence for your AI."
+2026-11-13T18:41:48.722884Z,app.tryoverload/overload,Overload,1.0.0,,streamable-http,"Log food and workouts in Overload from ChatGPT or Claude, then ask about your training and diet."
+2026-11-13T18:42:45.199889Z,com.taxinger/taxinger,Taxinger,1.0.0,,streamable-http,"Crypto tax from on-chain history: each country's rules, your tax years, transactions and reports."
+2026-11-13T18:45:04.517185Z,com.domusaedes/property-search,Domus Aedes,0.1.0,,streamable-http,"Homes to buy, rent or stay in: Marbella, Marrakech, Casablanca. Up to six matches per search."
+2026-11-13T18:45:51.447709Z,com.vedicdost/astrology,"VedicDost: Vedic Astrology, Kundli & AI Astrologer",1.0.0,,streamable-http,"Software-calculated Vedic kundli: Lagna, Moon sign, nakshatra, planets, dasha + free PDF link."
+2026-11-13T18:56:12.09464Z,io.github.verfy-dev/verfy,Verfy,0.23.1,https://github.com/verfy-dev/verfy,,"Ask before acting: would a command run, is an MCP config risky, what do the receipts say"
+2026-11-13T18:56:28.00194Z,ai.ilang/mcp,iLang,2.3.0,https://github.com/ilang-ai/ilang.ai,streamable-http,"iLang runtime for any AI: load the protocol, validate iLang text, look up verbs, SOUL, Source Book."
+2026-11-13T18:57:50.412966Z,io.github.sourabhjagga/marketing-playbooks,Marketing Playbooks,1.0.0,https://github.com/sourabhjagga/marketing-playbooks-mcp,streamable-http,"Semantic RAG retrieval across 19,895 growth playbooks for SEO, Funnels, and CRO."
+2026-11-13T18:59:38.164721Z,io.github.cvrt-jh/wordpress-mcp,,3.14.0,https://github.com/cvrt-jh/wordpress-mcp,,"Multi-site WordPress MCP server - 249 tools, token-optimized responses"
+2026-11-13T19:02:10.747212Z,io.github.books-service/ru-books,RU Books MCP,0.3.1,,streamable-http,"MCP-сервер для поиска русскоязычных книг, получения карточек и кандидатов для рекомендаций."
+2026-11-13T19:02:52.251669Z,com.comos-federation/gateway,ComOS Federation Gateway,1.0.161,https://github.com/ronrey/comos-federation,streamable-http,"Multi-tenant MCP gateway for AI commerce. One connection, every store."
+2026-11-13T19:05:09.694815Z,io.github.sharpmagazine/nolimit-mcp,NoLimit MCP,2.8.3,https://github.com/sharpmagazine/nolimit-mcp,streamable-http,"WordPress plugin exposing 60 MCP tools via OAuth 2.1: posts, pages, media, users, comments and SEO."
+2026-11-13T19:15:36.297422Z,com.cosmicjs/mcp,Cosmic,1.7.1,https://github.com/cosmicjs/mcp,streamable-http,"Manage Cosmic CMS content, media, object types, and AI generation from any MCP client."
+2026-11-13T19:15:59.036607Z,io.github.Mnymann/nordic-data,,1.6.2,https://github.com/Mnymann/nordic-data-mcp,streamable-http,"Company, KYB, VAT, sanctions, LEI and address data for 15 European countries."
+2026-11-13T19:18:23.359646Z,chat.avva/catalog,,1.1.0,,streamable-http,"Search avva for an expert's Decision Model, then connect it: judgment from real past decisions."
+2026-11-13T19:19:14.772264Z,io.github.cleanappio/cleanapp,CleanApp,1.0.4,,streamable-http,Find public problem reports and submit approved observations for private CleanApp review.
+2026-11-13T19:19:42.252145Z,io.github.jackson-cmd/zeus-options-terminal,ZEUS Terminal,0.7.1,https://github.com/jackson-cmd/zeus-options-terminal,,"Self-hosted options trading terminal: positions and Greeks, risk, paper trading, news, journal"

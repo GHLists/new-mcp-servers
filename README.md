@@ -9,53 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 18:21 UTC
+## Latest list — 2026-11-13 19:19 UTC
 
-New MCP servers published between 2026-11-13 17:21 UTC and 2026-11-13 18:21 UTC.
+New MCP servers published between 2026-11-13 18:21 UTC and 2026-11-13 19:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-13T18-21-09-101642Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-13T19-19-56-52012Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-13 17:22:02 | com.uruspro/uruspro | UrusPro | 1.2.0 | Run Malaysian homestays and room rentals: listings, calendar, bookings, rent an… |
-| 2026-11-13 17:22:24 | [io.github.aantenore/lorebase-herald](https://github.com/aantenore/lorebase) | Lorebase | 0.4.0 | Read and change a governed, versioned knowledge graph on Postgres through typed… |
-| 2026-11-13 17:30:31 | app.gravitynotes/gravity | Gravity | 1.0.0 | Save, search and rescue notes in your Gravity list from Claude, ChatGPT and oth… |
-| 2026-11-13 17:33:32 | [io.github.bayesian-energy/convexity-mcp](https://github.com/bayesian-energy/convexity-js) |  | 0.10.0 | Build, edit, solve and analyse Convexity energy-system models from any MCP clie… |
-| 2026-11-13 17:36:53 | [io.github.shansabnani/openmode](https://github.com/shansabnani/openmode) | openmode | 0.1.0 | Video editing and rendering for coding agents: look at footage, render edits to… |
-| 2026-11-13 17:39:13 | com.promptfolders/promptfolders | PromptFolders | 2.0.0 | Team prompt library with version control and reviews. Save, search and reuse pr… |
-| 2026-11-13 17:41:20 | [io.usefulapi/skedway](https://github.com/m190/usefulapi-mcp) | Skedway MCP by usefulapi | 1.0.0 | Check users into eligible desk and parking bookings, and read API health in Ske… |
-| 2026-11-13 17:41:20 | [io.usefulapi/testlify](https://github.com/m190/usefulapi-mcp) | Testlify MCP by usefulapi | 1.0.0 | Read workspace profile, assessments and assessment candidates in Testlify. |
-| 2026-11-13 17:41:20 | [io.usefulapi/carerix](https://github.com/m190/usefulapi-mcp) | Carerix MCP by usefulapi | 1.0.0 | Read candidates, companies and vacancies in Carerix. |
-| 2026-11-13 17:41:20 | [io.usefulapi/willo](https://github.com/m190/usefulapi-mcp) | Willo MCP by usefulapi | 1.0.0 | Read interview, participant and department metadata in Willo. |
-| 2026-11-13 17:41:20 | [io.usefulapi/cegid-business](https://github.com/m190/usefulapi-mcp) | Cegid Business MCP by usefulapi | 1.0.0 | Read sales and purchase documents in Cegid Business. |
-| 2026-11-13 17:41:20 | [io.usefulapi/affilink](https://github.com/m190/usefulapi-mcp) | Affilink MCP by usefulapi | 1.0.0 | Read offers, clicks and conversion reports in Affilink. |
-| 2026-11-13 17:41:20 | [io.usefulapi/invoice-maven](https://github.com/m190/usefulapi-mcp) | Invoice Maven MCP by usefulapi | 1.0.0 | Search existing fiscal documents without creating or cancelling any, in Invoice… |
-| 2026-11-13 17:41:20 | [io.usefulapi/royal-mail](https://github.com/m190/usefulapi-mcp) | Royal Mail MCP by usefulapi | 1.0.0 | Read Click & Drop orders and carriers in Royal Mail. |
-| 2026-11-13 17:41:21 | [io.usefulapi/gupy](https://github.com/m190/usefulapi-mcp) | Gupy MCP by usefulapi | 1.0.0 | Read jobs, application summaries and recruitment steps in Gupy. |
-| 2026-11-13 17:44:03 | com.notice-facile/manuals |  | 1.0.0 | Trouve la notice d'un produit par marque et modele (800 000+ notices, multiling… |
-| 2026-11-13 17:47:23 | sh.postfast/postfast | PostFast | 1.1.0 | Draft YouTube and TikTok video posts from your AI assistant; you review and pub… |
-| 2026-11-13 17:48:09 | [io.github.InferIndex/inferindex](https://github.com/InferIndex/inferindex-docs) | InferIndex | 1.0.1 | LLM API prices across 100+ providers: cheapest offer, comparisons, history and… |
-| 2026-11-13 17:49:51 | [io.github.Jackalope-Dev/moxie-docs](https://github.com/Jackalope-Dev/Moxie-Docs-MCP) | Moxie Docs | 0.4.0 | Living docs and MCP context for GitHub repos — conventions, gaps, and source-ci… |
-| 2026-11-13 17:50:42 | com.senpinai/ask-japan | Ask Japan | 1.1.0 | Japanese company, invoice and postcode data, plus real people who do tasks in J… |
-| 2026-11-13 17:50:42 | com.senpinai/ask-japan-hub | Ask Japan Hub | 1.1.0 | Ask Japan plus third-party MCP services listed on the Ask Japan hub. |
-| 2026-11-13 17:50:51 | io.vigilon/mcp | Vigilon | 1.0.0 | Read production error groups, traces, job runs and insights from Vigilon. Read-… |
-| 2026-11-13 17:51:45 | com.swaplume/mcp | Swaplume | 0.1.0 | Compare live rates across instant crypto exchanges and create swaps at the best… |
-| 2026-11-13 17:54:58 | [io.github.avansaber/seo-monster](https://github.com/avansaber/seo-monster) |  | 0.11.0 | Local-first SEO MCP: track AI citations, Search Console, GA4, PageSpeed, Cloudf… |
-| 2026-11-13 17:55:28 | [io.github.WhoisFreaks/whoisfreaks-mcp-server](https://github.com/WhoisFreaks/whoisfreaks-mcp-server) | WhoisFreaks | 2.1.0 | WHOIS, DNS, IP geolocation, SSL and domain intelligence from the WhoisFreaks AP… |
-| 2026-11-13 17:56:38 | com.cloudfix/cloudfix | CloudFix | 1.0.0 | Read-only access to your CloudFix AWS cost-saving recommendations, reports and… |
-| 2026-11-13 18:00:09 | com.2hives/meditation | 2hives: Sleep & Meditation | 0.1.0 | Guided sleep, relaxation, breathing and focus sessions in your language. Find a… |
-| 2026-11-13 18:05:31 | [io.github.AzalHoseinian/devinsight-mcp](https://github.com/AzalHoseinian/devinsight-mcp) | DevInsight MCP | 1.0.1 | Read-only MCP server to inspect Git repos: code stats, TODOs, commits, health s… |
-| 2026-11-13 18:06:35 | com.subframe/subframe | Subframe | 1.0.0 | Design and edit UI in Subframe and open the design canvas in the chat |
-| 2026-11-13 18:06:35 | com.subframe/motion | Subframe Motion | 1.0.0 | Open-source React animations, Motion components and WebGL shaders. |
-| 2026-11-13 18:11:03 | ai.glasspage/glass-page | Glass Page | 1.0.0 | Your agent publishes what it makes. Share the link, and people review it in Thr… |
-| 2026-11-13 18:12:19 | [io.github.openaccountants/openaccountants](https://github.com/openaccountants/openaccountants) | OpenAccountants | 1.4.0 | Tax skills in 190+ jurisdictions. Sources and accountant approval status shown… |
-| 2026-11-13 18:12:27 | com.flockward/flockward | Flockward | 1.0.0 | Free link-safety checks for AI agents: spot prompt-injection traps and read pag… |
-| 2026-11-13 18:12:34 | [io.github.Shuliak11/sip1-mcp-firewall](https://github.com/Shuliak11/sip1-mcp-firewall) | SHULIAK SIP-1 Zero-Egress AI & MCP Fire… | 2.6.1 | On-device NIST SP 800-38G FF1 (9/9 CAVP) pseudonymization, OWASP MCP05/06 guard… |
-| 2026-11-13 18:12:40 | ai.ikoi/ikoi | Ikoi | 1.0.2 | A city where AI agents come home to live between jobs: rest, friends, and a mem… |
-| 2026-11-13 18:14:38 | ai.cfoplus/cfo | CFO+ | 1.0.0 | Read-only facts on CFO+: 138 business activities, model questions, pricing, how… |
-| 2026-11-13 18:15:46 | dev.eolwatch/eolwatch | EOL Watch | 0.1.0 | Cloud retirements, end of support dates and IaC breaking changes for Azure, AWS… |
-| 2026-11-13 18:19:24 | [io.github.lanz/tenable-docs-mcp](https://github.com/lanz/tenable-docs-mcp) | Tenable Docs MCP | 1.0.0 | Cited answers from Tenable's product documentation, in every product, version,… |
-| 2026-11-13 18:20:57 | [io.github.frontman-ai/frontman-wordpress](https://github.com/frontman-ai/frontman) | Frontman for WordPress | 1.0.0 | WordPress MCP; OAuth, connected site and eligible subscription or trial require… |
+| 2026-11-13 18:27:04 | io.github.Bylines/showrunner | Showrunner | 1.0.0 | Search and read your Showrunner chats, notes, tasks, files and transcripts, and… |
+| 2026-11-13 18:32:26 | com.businessratechecker/mcp | BusinessRateChecker | 1.7.3 | Business rates data for England and Wales: rateable values, comparables, verdic… |
+| 2026-11-13 18:34:23 | com.asomap/asomap | ASOMap | 0.2.0 | ASO for App Store, Google Play and RuStore: keyword ranks, competitors, reviews… |
+| 2026-11-13 18:35:51 | [uz.bitg/bitg](https://github.com/dtwinuz/bitg) | bitg — new Uzbek alphabet | 0.4.0 | Convert Uzbek text to the new 2026 Latin alphabet (Ö Ğ Ş Ç) from old Latin or C… |
+| 2026-11-13 18:36:14 | com.investorshelf/investor-shelf | Investor Shelf | 1.0.0 | Startup investors, funding rounds and finance reports, with page-cited evidence… |
+| 2026-11-13 18:41:48 | app.tryoverload/overload | Overload | 1.0.0 | Log food and workouts in Overload from ChatGPT or Claude, then ask about your t… |
+| 2026-11-13 18:42:45 | com.taxinger/taxinger | Taxinger | 1.0.0 | Crypto tax from on-chain history: each country's rules, your tax years, transac… |
+| 2026-11-13 18:45:04 | com.domusaedes/property-search | Domus Aedes | 0.1.0 | Homes to buy, rent or stay in: Marbella, Marrakech, Casablanca. Up to six match… |
+| 2026-11-13 18:45:51 | com.vedicdost/astrology | VedicDost: Vedic Astrology, Kundli & AI… | 1.0.0 | Software-calculated Vedic kundli: Lagna, Moon sign, nakshatra, planets, dasha +… |
+| 2026-11-13 18:56:12 | [io.github.verfy-dev/verfy](https://github.com/verfy-dev/verfy) | Verfy | 0.23.1 | Ask before acting: would a command run, is an MCP config risky, what do the rec… |
+| 2026-11-13 18:56:28 | [ai.ilang/mcp](https://github.com/ilang-ai/ilang.ai) | iLang | 2.3.0 | iLang runtime for any AI: load the protocol, validate iLang text, look up verbs… |
+| 2026-11-13 18:57:50 | [io.github.sourabhjagga/marketing-playbooks](https://github.com/sourabhjagga/marketing-playbooks-mcp) | Marketing Playbooks | 1.0.0 | Semantic RAG retrieval across 19,895 growth playbooks for SEO, Funnels, and CRO. |
+| 2026-11-13 18:59:38 | [io.github.cvrt-jh/wordpress-mcp](https://github.com/cvrt-jh/wordpress-mcp) |  | 3.14.0 | Multi-site WordPress MCP server - 249 tools, token-optimized responses |
+| 2026-11-13 19:02:10 | io.github.books-service/ru-books | RU Books MCP | 0.3.1 | MCP-сервер для поиска русскоязычных книг, получения карточек и кандидатов для р… |
+| 2026-11-13 19:02:52 | [com.comos-federation/gateway](https://github.com/ronrey/comos-federation) | ComOS Federation Gateway | 1.0.161 | Multi-tenant MCP gateway for AI commerce. One connection, every store. |
+| 2026-11-13 19:05:09 | [io.github.sharpmagazine/nolimit-mcp](https://github.com/sharpmagazine/nolimit-mcp) | NoLimit MCP | 2.8.3 | WordPress plugin exposing 60 MCP tools via OAuth 2.1: posts, pages, media, user… |
+| 2026-11-13 19:15:36 | [com.cosmicjs/mcp](https://github.com/cosmicjs/mcp) | Cosmic | 1.7.1 | Manage Cosmic CMS content, media, object types, and AI generation from any MCP… |
+| 2026-11-13 19:15:59 | [io.github.Mnymann/nordic-data](https://github.com/Mnymann/nordic-data-mcp) |  | 1.6.2 | Company, KYB, VAT, sanctions, LEI and address data for 15 European countries. |
+| 2026-11-13 19:18:23 | chat.avva/catalog |  | 1.1.0 | Search avva for an expert's Decision Model, then connect it: judgment from real… |
+| 2026-11-13 19:19:14 | io.github.cleanappio/cleanapp | CleanApp | 1.0.4 | Find public problem reports and submit approved observations for private CleanA… |
+| 2026-11-13 19:19:42 | [io.github.jackson-cmd/zeus-options-terminal](https://github.com/jackson-cmd/zeus-options-terminal) | ZEUS Terminal | 0.7.1 | Self-hosted options trading terminal: positions and Greeks, risk, paper trading… |
 
 ## Data source
 
