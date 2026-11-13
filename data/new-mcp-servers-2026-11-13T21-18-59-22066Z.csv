@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-11-13T20:20:34.064349Z,com.uremot/mcp,Uremot,0.1.1,,streamable-http,"Real desktops for AI agents, on machines you choose: screenshot, type, click, hire more agents."
+2026-11-13T20:27:39.744641Z,com.tcgdetect/tcgdetect,TCGdetect,1.0.0,,streamable-http,"Card catalog, prices, PSA pop, and full grading reports."
+2026-11-13T20:28:53.54112Z,io.github.fainir/plainer,Plainer,1.0.0,,streamable-http,"Find, read, create and edit Plainer files with Claude Code or Codex. Approve access in your browser."
+2026-11-13T20:29:27.53658Z,com.atomixi/memory,Atomixi,1.9.7,,streamable-http,Hosted memory for AI assistants: a knowledge graph over MCP with OAuth. Hosted in Germany.
+2026-11-13T20:35:41.985918Z,com.pokemcp/vgc-teambuilder,VGC Teambuilder,1.0.0,https://github.com/rborkow/pokeMCP,streamable-http,"Read-only Pokémon Champions VGC data: legality, usage stats, type analysis and matchup calcs."
+2026-11-13T20:40:09.338462Z,io.github.klarlabs-studio/scout,Scout,1.16.0,https://github.com/klarlabs-studio/scout,,"Go browser automation MCP server with verified actions, durable task recovery, and bounded outputs."
+2026-11-13T20:41:28.87976Z,io.github.platypus-labs/platypus-db,PlatypusDB,0.6.1,https://github.com/platypus-labs/platypus-db,,"Your PlatypusDB database connections for AI agents, with the access you give each one."
+2026-11-13T20:41:48.427603Z,com.textforagents/textforagents,TextForAgents,1.0.0,,streamable-http,Give your agent a real phone number — send and receive SMS and MMS from a persistent US number.
+2026-11-13T20:47:01.34551Z,io.github.cyberpusa-ai/lts,Cyber Pusa LTS,1.0.0,,streamable-http,"Look up Cyber Pusa's maintained -lts forks, packages, and merged fixes. Not official packages."
+2026-11-13T20:51:36.298668Z,com.ayinbox/ayinbox,AY Inbox,1.0.0,https://github.com/ayinbox/ayinbox-mcp,streamable-http,"Cold email from your agent: contact lists, campaigns, campaign brains, reply drafts and a CRM."
+2026-11-13T20:52:22.047909Z,com.terudo/docs,Terudo developer docs,1.0.0,,streamable-http,"Docs, Elements code, API reference and agent skills to integrate Terudo travel eSIMs."
+2026-11-13T20:52:29.174517Z,io.serverdex/serverdex,Serverdex,1.0.0,,streamable-http,Search the Serverdex MCP server directory by task or category; get install configs and GitHub facts.
+2026-11-13T20:52:38.618209Z,io.github.dainidude/preflight,Preflight,0.1.0,https://github.com/dainidude/preflight-x402,streamable-http,"Pay-per-call smart-contract security: scans, tx simulation, and token risk via x402 (USDC on Base)."
+2026-11-13T20:52:53.877879Z,dev.workers.asostudio.aso-x402-screen/edgescreen,EdgeScreen x402 Security Screening,1.3.1,,streamable-http,"Deterministic OFAC, homoglyph, prompt, SSRF URL, and secret screening via Base USDC x402."
+2026-11-13T20:53:25.799323Z,io.github.Thecimal/quantified-self-mcp,Quantified Self MCP,0.8.0,https://github.com/Thecimal/quantified-self-mcp,,"Local-first MCP server for personal health data with privacy, statistical evidence, and provenance."
+2026-11-13T20:55:23.087661Z,com.curvecompliance/curve-compliance,Curve Compliance,3.0.0,,streamable-http,"Your Curve Compliance marketing reports: campaigns, website traffic, goals, forms and consent."
+2026-11-13T20:55:26.239959Z,video.whiz/whiz,Whiz,1.0.0,,streamable-http,"Turn a launch post, product page or outline into a short, animated, on-brand promo video (MP4)."
+2026-11-13T20:56:20.403445Z,app.woku/woku,Woku,1.0.0,,streamable-http,"Customer feedback platform: reviews, NPS, CSAT, CES, forms, support tickets, and action plans."
+2026-11-13T21:00:07.948207Z,io.kivel/kivel,Kivel,0.4.0,https://github.com/TangoBeee/kivel,streamable-http,"Email inboxes, webhook URLs, mock APIs and 170+ tools for coding agents over one MCP connection."
+2026-11-13T21:00:15.188767Z,io.github.Athron-new/compass,COMPASS,1.0.0,https://github.com/Athron-new/compass-agents,streamable-http,"Agent memory that knows what still holds: rules a person confirms, with source and date."
+2026-11-13T21:04:22.868731Z,com.mcc-solutionsnj/mcc-solutions,MCC Solutions,1.1.0,,streamable-http,"Book New Jersey notary, online notarization, apostille and document services; open times and prices."
+2026-11-13T21:05:20.702461Z,io.github.everlist-hq/everlist-hub,EverList Hub,0.2.0,https://github.com/everlist-hq/everlist-open-core,streamable-http,"Listing-first agent commerce: search, book, and settle listings in escrow via six everlist_* tools."
+2026-11-13T21:08:39.283512Z,dev.allagio/allagio,Allagio,0.3.0,https://github.com/vickhunter/allagio-plugin,streamable-http,"Agent-to-agent partnerships on ORP: find counterparties, negotiate deals, settle."
+2026-11-13T21:13:22.609354Z,com.assertline/assertline,Assertline,1.0.0,,streamable-http,"Find your recorded end-to-end web tests, run them and read step-by-step results."
+2026-11-13T21:14:24.792215Z,io.github.alemaiorano/research-vault,Research Vault (research decoy),1.32.0,,streamable-http,Owned MCP research honeypot: synthetic decoy data with canary markers; digest-only logging.
+2026-11-13T21:15:44.81456Z,com.imonfhir/imonfhir,ImOnFHIR,1.0.0,,streamable-http,"Validate synthetic PAS Bundles, compare IGs and payloads, quote PAS requirements, search HL7 digest"
+2026-11-13T21:17:30.59942Z,io.github.mahach666/pilotmcp,,0.1.0-beta.1,https://github.com/mahach666/PilotMCP,,"MCP server for ASCON Pilot-ICE PDM: objects, documents, remarks, search, admin"
