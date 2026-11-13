@@ -1,0 +1,42 @@
+created_at,server,title,version,repository,transports,description
+2026-11-13T21:20:01.53991Z,ai.dforms/dforms,dForms,1.0.0,https://github.com/Dapta-Tech/dapta-forms,streamable-http,"Form builder for AI agents: build, publish and analyze forms, quizzes and lead qualifiers."
+2026-11-13T21:21:55.927729Z,care.nove/nove,Nove: gestação semana a semana,1.0.0,,streamable-http,"Pregnancy week by week (pt-BR), due date calculator and the Nove app's features and prices."
+2026-11-13T21:21:57.019752Z,ai.maxfusion/maxfusion,Maxfusion,1.0.0,,streamable-http,"Agentic creative OS: research, generate and edit ads and videos from Claude, ChatGPT or any agent."
+2026-11-13T21:24:40.81624Z,io.duobox/mail,Duobox,1.0.0,,streamable-http,"Business email on your domain for AI agents: read, draft and send with the permissions you choose."
+2026-11-13T21:28:29.218005Z,com.imonfhir/site,ImOnFHIR,1.0.0,,streamable-http,"imonfhir.com tools: HL7 digest, Jira status, PAS validation, IG and payload compare, rule evidence."
+2026-11-13T21:28:54.469714Z,com.oneiq/oneiq,OneIQ,1.0.0,,streamable-http,"Infrastructure context for any AI: VMware, Nutanix, Kubernetes and cloud. Read-only, off production."
+2026-11-13T21:30:55.905912Z,io.github.tendercrestai/tendercrest-ai,TenderCrest AI,0.1.0,https://github.com/tendercrestai/tendercrestai,streamable-http,"Evidence-backed RFP responses, reviewed together."
+2026-11-13T21:34:19.242801Z,io.github.dominik-lenhart/dove,Dove,0.5.0,https://github.com/dominik-lenhart/dove,streamable-http,"Self-hosted mail for agents: scoped search, read and drafts across Gmail and IMAP mailboxes"
+2026-11-13T21:34:52.43554Z,ai.polskaszkola/szkolenia-ai,Polska Szkoła AI,1.0.0,,streamable-http,AI training catalogue for organisations in Poland and the Kompas AI readiness test (Polish).
+2026-11-13T21:38:48.94034Z,ai.lucidflow/bpmn-validator,LucidFlow BPMN validator,1.0.0,,streamable-http,"Free BPMN 2.0 validator: send BPMN XML, get errors and warnings. Anonymous, nothing stored."
+2026-11-13T21:40:38.950331Z,io.github.ekdh600/korean-quotation-demo,Korean Quotation PDF Demo,0.1.0,https://github.com/ekdh600/invoice-renamer,streamable-http,"Extract the date, issuer and KRW total of a fictional Korean quotation PDF."
+2026-11-13T21:42:14.335403Z,com.kondevs/content-hub,KONDEVS Content Hub,1.0.0,,streamable-http,"Read-only: KONDEVS articles on EAI, BPM, SAP and AI, its services and company facts (EN, DE)."
+2026-11-13T21:43:26.423262Z,com.rivervo/mcp,Rivervo,1.0.0,,streamable-http,"Manage Rivervo websites, domains, mail, cloud servers and app deployments from your AI assistant."
+2026-11-13T21:45:51.795897Z,io.github.codytodd-ui/pitchspark,PitchSpark,1.0.0,,streamable-http,Search scored pre-seed and seed startup pitches for investors. Read-only; API key optional.
+2026-11-13T21:46:45.721483Z,io.github.stellalytics/bulk-ocr,Bulk OCR: Images & Scanned PDFs to Text (Tesseract),0.1.0,,streamable-http,"OCR scanned PDFs and images to text, one row per page, 9 languages. Runs on Apify."
+2026-11-13T21:46:45.86518Z,io.github.stellalytics/dataset-merge-dedupe,"Dataset Merge, Dedupe & Clean: Combine Apify Datasets",0.1.0,,streamable-http,"Merge Apify datasets and remove duplicates by website, email, phone or any field. Runs on Apify."
+2026-11-13T21:48:52.308183Z,io.github.michaelfuwobiri-creator/gysm,GYSM App and Store Builder,1.1.0,,streamable-http,"Plan and build apps, sites and online stores from plain English, and shop GYSM stores."
+2026-11-13T21:49:04.475922Z,fr.ctweb/check,CT Web : bilan de site,1.0.0,,streamable-http,"Free check-up of a public website: security, e-mail, speed, DNS, cookies, SEO. Findings in French."
+2026-11-13T21:52:39.573174Z,io.github.stellalytics/ats-job-listings,Greenhouse & Lever Jobs: Job Listings from Company Boards,0.1.0,,streamable-http,"Job listings from company Greenhouse and Lever boards, with filters. Runs on Apify."
+2026-11-13T21:53:55.183769Z,fr.ip73/ip73,IP73,1.0.0,,streamable-http,"French tech news, exploited vulnerabilities (KEV), cloud offers, AI models, scam guide. Read-only."
+2026-11-13T21:54:24.09073Z,io.github.jamesmarshall543210-sudo/uk-food-hygiene-mcp,UK Food Hygiene Ratings,0.1.0,https://github.com/jamesmarshall543210-sudo/uk-food-hygiene-mcp,streamable-http,"Search official UK Food Standards Agency hygiene ratings by name, postcode or council."
+2026-11-13T21:55:12.051929Z,com.useflub/flub,Flub,0.1.0,,streamable-http,"Ask about your loyalty club: how it's doing, what you sent, and draft changes to review."
+2026-11-13T21:55:59.341483Z,com.nombrio/name-check,Nombrio Clearance Check,1.2.2,,streamable-http,"Free brand name checks: US trademark verdict, EU + UK screens, domains, handles. Plans via API key."
+2026-11-13T21:57:55.24729Z,io.github.Litehost-io/litehost,Litehost,1.0.0,https://github.com/Litehost-io/skills,streamable-http,Publish a page or file as one link for a client; update it later without changing the link.
+2026-11-13T21:58:45.157213Z,best.fama/ads,Fama,0.8.0,,streamable-http,Ask what your Meta ads spend and what to stop; pause and change budgets inside limits you set.
+2026-11-13T22:00:52.686783Z,io.github.malikmalikayesha/boaviztapi-mcp,BoaviztAPI,0.1.0,https://github.com/malikmalikayesha/boaviztapi-mcp,,"Environmental footprint of cloud instances, servers, GPUs and devices, via BoaviztAPI."
+2026-11-13T22:01:22.58408Z,works.jobsweep/jobsweep,JobSweep,1.0.0,,streamable-http,"Search 195k open jobs from 2,831 company career sites. Read-only, no API key."
+2026-11-13T22:02:32.538686Z,io.github.zhimbura/gitflic-cli-mcp,GitFlic MCP,0.5.1,https://github.com/zhimbura/gitflic-cli,,"MCP server for GitFlic: merge requests, issues, releases, packages and CI/CD via REST API."
+2026-11-13T22:02:44.979307Z,horse.icon/icon-horse,Icon Horse,2.0.0,,streamable-http,"Logos and favicons for any domain or product name, with confidence scores. Free, no key."
+2026-11-13T22:07:28.606065Z,io.github.canoydario847-cloud/privi-agent-survival,Privi Agent Survival,0.6.0,https://github.com/canoydario847-cloud/Privi,streamable-http,"32 practical MCP tools for AI-agent security, reliability, monitoring, data and costs."
+2026-11-13T22:08:11.09544Z,com.thelogfile/catalog-browser,The Log File Catalog Browser,1.0.0,,streamable-http,"Read-only browser for The Log File store catalog: Chad Kovac's books and house skills, live."
+2026-11-13T22:11:41.2485Z,io.github.fallow-rs/fallow,Fallow,3.43.0,https://github.com/fallow-rs/fallow,,"Codebase intelligence for TypeScript and JavaScript, exposed as structured MCP analysis tools."
+2026-11-13T22:12:16.976284Z,com.rocket-e/mcp,Rocket,1.0.0,,streamable-http,"Pedidos contra entrega, guías, wallet, catálogo y envíos de Rocket (Ecuador y Chile)."
+2026-11-13T22:13:32.82139Z,com.swarmia/swarmia,Swarmia,1.0.0,,streamable-http,"Query engineering data with Swarmia: pull requests, issues, agent sessions, teams, and DORA metrics."
+2026-11-13T22:13:50.843842Z,pro.dogumharitasi/natal-chart,Doğum Haritası (Türkçe),1.0.0,,streamable-http,"Turkish natal chart: planet positions, houses and aspects from birth date, time and place."
+2026-11-13T22:13:53.415775Z,io.github.KluffHQ/kluff,Kluff,1.0.0,https://github.com/KluffHQ/Plugin,streamable-http,"Search your Kluff workspace's projects, threads and memory, and give work to your AI agents."
+2026-11-13T22:14:15.229418Z,com.getfedo/mcp,Fedo,0.6.0,,streamable-http,In-app feedback boards: read and triage your app users' feedback
+2026-11-13T22:15:32.129789Z,dev.workers.pablo-plata1.plata/plata-mcp,Plata wallet,0.2.1,,,A Plata wallet for AI assistants: post-quantum payments within limits the owner sets.
+2026-11-13T22:16:32.137571Z,ai.airboxship/shipping-public,AirboxShip Shipping (public),1.0.0,,streamable-http,"Find USPS pickup points, compare USPS and UPS rates, track USPS packages. No sign-in."
+2026-11-13T22:17:40.361422Z,com.secondshiftos/second-shift,Second Shift,1.32.0,https://github.com/ReactionLabs/second-shift-mcp,streamable-http,Second Shift agent-native MCP server: a machine-readable front door to client leads.
+2026-11-13T22:18:43.742782Z,io.github.ocr-software/ocr-software-mcp,ocr-software.com OCR,0.1.0,https://github.com/ocr-software/ocr-software-mcp,,"Read PDFs and images with ocr-software.com: page count, job, text, Markdown, JSON, hOCR."
