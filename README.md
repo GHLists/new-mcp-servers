@@ -9,66 +9,61 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 07:20 UTC
+## Latest list — 2026-11-13 08:20 UTC
 
-New MCP servers published between 2026-11-13 06:19 UTC and 2026-11-13 07:20 UTC.
+New MCP servers published between 2026-11-13 07:20 UTC and 2026-11-13 08:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-13T07-20-11-520572Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-13T08-20-32-290852Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-13 06:25:57 | [io.github.mrfentmen/acord-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | ACORD MCP: parse insurance messages, validate requests, policies and numbers. |
-| 2026-11-13 06:25:58 | [io.github.mrfentmen/aixm-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | AIXM MCP: parse aeronautical data, validate features, ids and designators. |
-| 2026-11-13 06:25:59 | [io.github.mrfentmen/autosar-arxml-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | AUTOSAR MCP: parse ARXML, validate packages, components and short names. |
-| 2026-11-13 06:26:00 | [io.github.mrfentmen/edifact-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | EDIFACT MCP: parse interchanges, validate UNB/UNH/UNT counts and tags. |
-| 2026-11-13 06:26:00 | [io.github.mrfentmen/mtconnect-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | MTConnect MCP: parse machine documents, validate headers, devices and data item… |
-| 2026-11-13 06:26:01 | [io.github.mrfentmen/musicxml-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | MusicXML MCP: parse scores, validate parts, measures and note durations. |
-| 2026-11-13 06:26:02 | [io.github.mrfentmen/odx-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | ODX MCP: parse diagnostic data, validate layers, containers and services. |
-| 2026-11-13 06:26:02 | [io.github.mrfentmen/qti-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | QTI MCP: parse assessment items and tests, validate ids, bodies and interaction… |
-| 2026-11-13 06:26:03 | [io.github.mrfentmen/scorm-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | SCORM MCP: parse manifests, validate organizations, items and resource links. |
-| 2026-11-13 06:26:04 | [io.github.mrfentmen/tcx-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | TCX MCP: parse training files, validate activities, laps, time and distance. |
-| 2026-11-13 06:26:56 | [sh.clearly/clearly](https://github.com/clearly-sh/clearly) | Clearly Workspace | 5.9.0 | A separate workspace for your AI agents: documents, tickets, canvases and memor… |
-| 2026-11-13 06:28:12 | [io.github.rafskov/ironcondor-buddy](https://github.com/rafskov/ironcondorbuddy) | Iron Condor Buddy | 1.0.0 | Short iron condor screener for options traders — daily picks, Greeks, IV and pe… |
-| 2026-11-13 06:36:56 | [com.appscreens/appscreens](https://github.com/AppScreens/app-store-screenshots-skill) | AppScreens: App Store and Google Play S… | 0.1.0 | Editable App Store and Google Play screenshots: design, localize, preview, expo… |
-| 2026-11-13 06:42:56 | ai.travelminds/concierge | TravelMindsAI travel data | 2.0.0 | Travel data tools: destinations, places, India heritage, visas, weather. Accoun… |
-| 2026-11-13 06:43:33 | org.fastscribe/fastscribe | FastScribe | 1.0.0 | Transcribe public YouTube, TikTok, Instagram, X and Facebook video links to tex… |
-| 2026-11-13 06:45:31 | com.aiw3b.limitreceipts/plan-fit | LimitReceipts by aiw3b | 1.1.0 | Find the AI coding/app-builder plan that fits your usage: limits, prices and pl… |
-| 2026-11-13 06:46:58 | com.todaywp/todaywp | Today WP | 1.0.1 | Current WordPress knowledge for AI agents: versions, security, plugin facts, ne… |
-| 2026-11-13 06:47:54 | [io.github.chilayt/indiebiz-evidence](https://github.com/chilayt/indiebiz-evidence) | indiebiz-evidence | 0.6.1 | Cross-check collected data across sources, with provenance, before trusting it.… |
-| 2026-11-13 06:50:30 | app.getosmo/phone-calls | OsmO Phone Calls | 1.0.0 | AI makes phone calls for you and answers your calls. Free to start in US, Canad… |
-| 2026-11-13 06:52:35 | app.kiyas/kiyas | Kiyas | 1.0.0 | Ratings, reviews, complaints and sales of your restaurants on Turkish delivery… |
-| 2026-11-13 06:52:36 | com.yemekhost/partner | Yemekhost Partner | 1.0.0 | Orders, branches, menu and reviews of a restaurant chain that sells on its own… |
-| 2026-11-13 06:52:37 | com.yemekhost/restoran-bul | Yemekhost Restoran Bul | 1.0.0 | Find restaurants in Turkey that take orders on their own websites. No sign-in n… |
-| 2026-11-13 06:56:04 | [io.nstdata/crawl](https://github.com/nstdata-ai/nstdata-mcp-server) | Nstdata Crawl | 1.0.3 | Scrape webpages, run crawls, and read Markdown and other results with Nstdata C… |
-| 2026-11-13 06:56:23 | [io.github.mrfentmen/a2l-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | ASAM A2L MCP: parse ECU calibration files, validate blocks, measurements and na… |
-| 2026-11-13 06:56:23 | [io.github.mrfentmen/automationml-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | AutomationML MCP: parse CAEX files, validate hierarchies, elements and IDs. |
-| 2026-11-13 06:56:24 | [io.github.mrfentmen/ead-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | EAD MCP: parse finding aids, validate headers, archdesc and components. |
-| 2026-11-13 06:56:25 | [io.github.mrfentmen/fibex-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | ASAM FIBEX MCP: parse network descriptions, validate channels, frames, PDUs and… |
-| 2026-11-13 06:56:26 | [io.github.mrfentmen/fpml-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | FpML MCP: parse derivatives messages, validate versions, trades, parties and pr… |
-| 2026-11-13 06:56:26 | [io.github.mrfentmen/gs1-gdsn-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | GDSN MCP: parse product notifications, validate items, GTINs and providers. |
-| 2026-11-13 06:56:27 | [io.github.mrfentmen/gsdml-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | GSDML MCP: parse PROFINET device files, validate identity, access points and mo… |
-| 2026-11-13 06:56:28 | [io.github.mrfentmen/iec61970-cim-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | IEC 61970 CIM MCP: parse RDF models, validate classes, IDs and namespaces. |
-| 2026-11-13 06:56:28 | [io.github.mrfentmen/ieee2030-5-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | IEEE 2030.5 MCP: parse smart energy resources, validate hrefs and poll rates. |
-| 2026-11-13 06:56:29 | [io.github.mrfentmen/kgml-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | KGML MCP: parse KEGG pathways, validate entries, relations and reactions. |
-| 2026-11-13 06:56:30 | [io.github.mrfentmen/ledes-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | LEDES MCP: parse 1998B invoices, validate header, field counts and dates. |
-| 2026-11-13 06:56:30 | [io.github.mrfentmen/mets-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | METS MCP: parse digital objects, validate files, structMap and file references. |
-| 2026-11-13 06:56:31 | [io.github.mrfentmen/mt535-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | MT535 MCP: parse securities statements, validate blocks, sequences and holdings. |
-| 2026-11-13 06:56:31 | [io.github.mrfentmen/openadr-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | OpenADR MCP: parse demand-response payloads, validate events, signals and venID. |
-| 2026-11-13 06:56:32 | [io.github.mrfentmen/oval-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | OVAL MCP: parse definitions, validate ids, definitions and tests. |
-| 2026-11-13 06:56:33 | [io.github.mrfentmen/ppml-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | PPML MCP: parse print jobs, validate jobs, documents and pages. |
-| 2026-11-13 06:56:33 | [io.github.mrfentmen/rosettanet-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | RosettaNet MCP: parse PIP messages, validate headers, roles and line items. |
-| 2026-11-13 06:56:34 | [io.github.mrfentmen/sigma-rules-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Sigma MCP: parse detection rules, validate ids, levels, statuses and detection… |
-| 2026-11-13 06:56:35 | [io.github.mrfentmen/spef-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | SPEF MCP: parse parasitics, validate units, nets, caps and resistances. |
-| 2026-11-13 06:56:35 | [io.github.mrfentmen/tradacoms-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | Tradacoms MCP: parse interchanges, validate STX, END and segment counts. |
-| 2026-11-13 06:56:52 | [io.github.musharna/ldraw-mcp](https://github.com/musharna/ldraw-mcp) | ldraw-mcp | 0.4.0 | Render LDraw/LEGO models to images with real part geometry via headless Blender… |
-| 2026-11-13 06:57:38 | [io.github.musharna/tmodloader-mcp](https://github.com/musharna/tmodloader-mcp) | tmodloader-mcp | 0.7.0 | Drive a running tModLoader (Terraria) instance from an agent: launch, query, sc… |
-| 2026-11-13 07:00:40 | io.github.JCDerrick108/hawaiiguide | HawaiiGuide | 1.0.0 | Hawaii trail and road alerts, attraction briefs, gas prices and free trip-plann… |
-| 2026-11-13 07:01:16 | md.financial/financial-md | FinancialMD | 1.0.0 | Financial statements from SEC filings for agents: every number cites its filing… |
-| 2026-11-13 07:04:31 | [io.github.schavarski-thais/mcp-brasil-macro](https://github.com/schavarski-thais/mcp-brasil-macro) |  | 0.1.1 | Official Brazilian macro data: Selic, IPCA, Focus, GDP, FX, debt (BCB, IBGE, Te… |
-| 2026-11-13 07:04:52 | [io.github.flame-goal-hunter/mcp-server-erechnung](https://github.com/flame-goal-hunter/mcp-server-erechnung) |  | 1.0.0 | German B2B E-Rechnung MCP server: EN 16931, KoSIT XRechnung 3.0 & DATEV ZUGFeRD… |
-| 2026-11-13 07:08:45 | ai.graphsheets/graphsheets | GraphSheets | 0.1.0 | Financial models as graphs of named rows, checked by an engine: build, read, pr… |
-| 2026-11-13 07:19:02 | [io.github.theharrisontruong-web/a11y-audit](https://github.com/theharrisontruong-web/agent-apis) | A11y Audit (ADA Lawsuit-Risk Scan) | 1.0.0 | Scans any URL for the WCAG failures behind ADA lawsuits. $1.50/call via x402. |
-| 2026-11-13 07:19:02 | [io.github.theharrisontruong-web/feed-audit](https://github.com/theharrisontruong-web/agent-apis) | Feed Audit (Product Feed Hygiene) | 1.0.0 | Audits a product feed (XML/CSV/JSON) for Google Shopping disapproval errors. $1… |
+| 2026-11-13 07:25:47 | [io.github.sunhome243/figma-mcp-express](https://github.com/sunhome243/figma-mcp-express) |  | 2.9.0 | Compact Figma MCP with validated batch ops through a local plugin bridge. |
+| 2026-11-13 07:29:51 | [io.github.mrfentmen/aidx-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | AIDX MCP: parse airline messages, validate flights, legs and airports. |
+| 2026-11-13 07:29:52 | [io.github.mrfentmen/atml-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | ATML MCP: parse test descriptions, validate test items, stations and results. |
+| 2026-11-13 07:29:53 | [io.github.mrfentmen/biopax-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | BioPAX MCP: parse RDF models, validate objects, IDs and pathway classes. |
+| 2026-11-13 07:29:53 | [io.github.mrfentmen/cml-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | CML MCP: parse Chemical Markup Language, validate atoms, bonds and elements. |
+| 2026-11-13 07:29:54 | [io.github.mrfentmen/fixml-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | FIXML MCP: parse FIX in XML, validate root, message types and IDs. |
+| 2026-11-13 07:29:55 | [io.github.mrfentmen/isda-cdm-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | ISDA CDM MCP: parse JSON models, validate structure and count typed objects. |
+| 2026-11-13 07:29:55 | [io.github.mrfentmen/mt564-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | MT564 MCP: parse corporate actions, validate blocks, sequences and event tags. |
+| 2026-11-13 07:29:56 | [io.github.mrfentmen/mzidentml-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | mzIdentML MCP: parse proteomics results, validate peptides, results and IDs. |
+| 2026-11-13 07:29:57 | [io.github.mrfentmen/mzxml-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | mzXML MCP: parse mass spec runs, validate scans, msLevel and scan numbers. |
+| 2026-11-13 07:29:57 | [io.github.mrfentmen/pepxml-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | pepXML MCP: parse search results, validate runs, spectrum queries and hits. |
+| 2026-11-13 07:29:58 | [io.github.mrfentmen/phylip-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | PHYLIP MCP: parse alignments, validate taxa, site counts and names. |
+| 2026-11-13 07:29:59 | [io.github.mrfentmen/plcopen-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | PLCopen MCP: parse TC6 XML, validate project root, POUs and types. |
+| 2026-11-13 07:30:00 | [io.github.mrfentmen/sdc-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | SDC MCP: parse timing constraints, validate commands, clocks and brackets. |
+| 2026-11-13 07:30:00 | [io.github.mrfentmen/upf-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | UPF MCP: parse power intent, validate commands, domains and braces. |
+| 2026-11-13 07:30:01 | [io.github.mrfentmen/wgl-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | WGL MCP: parse vectors, validate modules, signals and braces. |
+| 2026-11-13 07:31:15 | [io.github.itmarkerz/calcbloc-mcp](https://github.com/itmarkerz/calcbloc-mcp) | CalcBloc tax and salary calculator | 0.1.0 | Take-home pay, employer cost and official tax tables for 37 countries, with sou… |
+| 2026-11-13 07:31:19 | io.github.glpchart/mcp | GLP Chart | 1.0.0 | US GLP-1 cash prices from GLP Chart, each with its read date. Read-only, no key. |
+| 2026-11-13 07:33:12 | io.github.kizukidata/note-articles | Kizuki note.com Articles (Japan) | 1.0.0 | Japanese note.com articles by creator: title, likes, comment count, tags, paid… |
+| 2026-11-13 07:33:14 | io.github.kizukidata/telegram-channels | Kizuki Telegram Channels | 1.0.0 | Public Telegram channel posts without login: text, date, views, reactions, medi… |
+| 2026-11-13 07:33:15 | io.github.kizukidata/tiktok-ads-library | Kizuki TikTok Ads Library (EU) | 1.0.0 | EU TikTok Ad Library by advertiser or keyword: ad dates, reach, creatives and l… |
+| 2026-11-13 07:33:16 | io.github.kizukidata/wechat-articles | Kizuki WeChat Articles | 1.0.0 | WeChat Official Account articles from mp.weixin.qq.com links: full text, Markdo… |
+| 2026-11-13 07:35:14 | com.diecuthq/sticker-maker | Diecut HQ: die-cut sticker PNG maker | 1.0.0 | Make a die-cut sticker PNG from a prompt or an image URL: transparent, with a w… |
+| 2026-11-13 07:35:18 | com.pngtee/shirt-png-maker | Pngtee: transparent PNG maker for shirts | 1.0.0 | Make a transparent PNG shirt design from a prompt or an image URL, with the bac… |
+| 2026-11-13 07:35:21 | com.dropdtf/dtf-png-maker | Dropdtf: transparent PNGs for DTF trans… | 1.0.0 | Make a transparent PNG for DTF transfers from a prompt or an image URL, backgro… |
+| 2026-11-13 07:39:45 | [io.github.wookat/witness](https://github.com/wookat/witness) | Witness | 0.3.0 | Voice-anchored evidence recorder for AI coding agents. |
+| 2026-11-13 07:42:35 | co.productize/business-valuation | Business valuation calculator | 1.0.0 | Estimates what a buyer might pay for a small agency, service or SaaS business,… |
+| 2026-11-13 07:43:58 | [ai.rolev/job-search](https://github.com/rolev-ai/rolev-mcp) | Rolev.ai Job Search | 1.0.0 | Search current US job openings on Rolev.ai by role, place, remote, or employer. |
+| 2026-11-13 07:44:03 | [io.github.max4et/teleq](https://github.com/max4et/teleq) | TeleQ TV | 1.1.0 | Show text, slides, images, video and live HTML pages on your TV through the Tel… |
+| 2026-11-13 07:50:39 | com.checkanysite/checkanysite | CheckAnySite | 1.0.0 | What any website is, with evidence: AI builder traces, tech stack, popularity a… |
+| 2026-11-13 07:50:40 | [io.github.Naeha-S/ctxcap](https://github.com/Naeha-S/ctxcap) | ctxcap | 0.1.4 | Offline context-budget MCP server for AI coding agents. |
+| 2026-11-13 07:50:58 | com.driveuptogether/coop-finder | Gamevato Co-op Finder | 1.0.0 | Finds PC co-op games on Steam for a group of friends, ranked by fit, with live… |
+| 2026-11-13 07:51:37 | [io.github.mrfentmen/dcp-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.1 | DCP MCP: parse CPL, PKL and ASSETMAP XML, validate IDs, reels and assets. |
+| 2026-11-13 07:51:38 | [io.github.mrfentmen/mei-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | MEI MCP: parse music encoding, validate heads, measures, staves and notes. |
+| 2026-11-13 07:51:39 | [io.github.mrfentmen/mol2-mcp](https://github.com/mrfentmen/awesome-servers) |  | 1.0.0 | MOL2 MCP: parse molecules, validate atoms, coordinates, bonds and counts. |
+| 2026-11-13 07:53:16 | com.mailveri/mailveri-mcp | MailVeri Email Verification | 2.0.0 | Real-time & bulk email verification with catch-all, disposable, and zero-cost U… |
+| 2026-11-13 07:54:43 | [io.github.hyeonsang010716/opendockit](https://github.com/hyeonsang010716/OpenDocKit) | OpenDocKit | 0.3.2 | Read local PDF, Office, HWP, OpenDocument, RTF, EPUB, HTML and email files as M… |
+| 2026-11-13 07:57:03 | site.fitflowgo/fitflow-go | FitFlow GO | 1.0.0 | Información pública de FitFlow GO, software y servicio para gimnasios, y guías… |
+| 2026-11-13 07:58:47 | [io.github.akshaysharma1088/pipeverify](https://github.com/akshaysharma1088/pipeverify) | pipeverify | 0.3.0 | Read-only check that a pipeline change left the data right: pass, review or blo… |
+| 2026-11-13 07:59:57 | io.github.ayushman-git/seqora | Seqora | 0.6.1 | Inspect database schemas, run read-only SQL, and propose PostgreSQL changes for… |
+| 2026-11-13 08:03:55 | com.mios-ai/mios | Mios | 0.5.0 | Your team's decisions and their sources, served to coding agents before they ed… |
+| 2026-11-13 08:04:10 | [io.github.stefanogarzon/safari-mcp](https://github.com/stefanogarzon/safari-mcp) |  | 0.1.0 | Drive your real Safari (logged-in tabs included) on macOS via AppleScript. |
+| 2026-11-13 08:12:24 | [io.github.szhuangzan/rofilter-mcp](https://github.com/szhuangzan/rofilter-mcp) | ROFilter - RO Membrane System Design | 2.1.7 | Reverse-osmosis membrane system design: 742-element library, 8 brands, water &… |
+| 2026-11-13 08:13:22 | app.screenforai/screen-for-ai | Screen for AI | 0.6.1-beta.4 | Show interactive pages on a spare Android phone or tablet and read back saved a… |
+| 2026-11-13 08:14:12 | es.memorabl/memorables | Memorables | 1.0.0 | Curated design inspiration: search works, find similar ones, save to collection… |
+| 2026-11-13 08:16:28 | io.github.daviderez4/nodata | NoData | 1.6.39 | Governed access to sensitive data, secrets and APIs for AI agents. A signed pro… |
+| 2026-11-13 08:20:26 | co.getcoral/coral | Coral | 1.0.0 | Private, non-explicit intimacy exercises, scripts and a couples quiz for adults… |
 
 ## Data source
 
