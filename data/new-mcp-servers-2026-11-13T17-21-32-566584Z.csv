@@ -1,0 +1,41 @@
+created_at,server,title,version,repository,transports,description
+2026-11-13T16:20:20.632499Z,com.keelrouter/keelrouter,KeelRouter,1.0.0,https://github.com/keelrouter/keelrouter-mcp,streamable-http,"Generate images and videos with Seedream, GPT Image, Nano Banana, Kling and Seedance on one key."
+2026-11-13T16:25:04.464731Z,ai.devtune/devtune,DevTune,5.0.0,,streamable-http,"See what AI answer engines tell buyers about your product, what to fix, and whether fixes worked."
+2026-11-13T16:25:52.642342Z,com.busabase/busabase,,0.1.2,https://github.com/busabase/skills,streamable-http,The system of record for AI agents — open-source (MIT) database where agents and people share data.
+2026-11-13T16:26:45.11617Z,io.github.annamau/recala,Recala,1.0.0,,streamable-http,"Manage Recala articles, topics and search visibility with human-approved publishing."
+2026-11-13T16:30:34.000098Z,de.bibelstudium-mcp/bibelstudium,Bibelstudium MCP,0.6.33,https://github.com/fidpa/bibelstudium-mcp,streamable-http,"Wortgetreue deutsche Bibelarbeit: Grundtext, Morphologie, Konkordanz, Querverweise"
+2026-11-13T16:32:59.247993Z,com.mailpro/mailpro,Mailpro,1.0.0,,streamable-http,"Email and SMS marketing from your AI assistant: contacts, campaigns, stats, sends with approval."
+2026-11-13T16:35:08.44582Z,org.memepump/memepump,MemePump Token Safety,1.0.0,,streamable-http,"Read-only Solana token safety checks: risk score, honeypot, liquidity lock, authorities, holders."
+2026-11-13T16:35:11.210614Z,cc.billsai/billsai,Bills AI,1.0.0,,streamable-http,"Convert bank statement PDFs to CSV and read saved statements and transactions. Read-only, OAuth."
+2026-11-13T16:36:10.252593Z,com.glp1buyerguide/glp1-prices,,1.0.0,,streamable-http,"Month-to-month GLP-1 prices checked by GLP-1 Buyer Guide, with sources and check dates."
+2026-11-13T16:37:45.686013Z,ai.emergenttechnologies/emergent,Emergent Technologies,1.1.0,,streamable-http,"Ask Emergent Technologies about licensing business records to AI labs, consulting and partnering."
+2026-11-13T16:38:53.909337Z,com.opencabinetai/opencabinet,OpenCabinet,1.5.1,https://github.com/JoshLabs-App/opencabinet,streamable-http,"Cloud kitchen cabinet layout solver, interactive 2D plan previews, finish edits, and retail quotes."
+2026-11-13T16:39:42.023884Z,com.recipeforagents/recipe-for-agents,Recipe for Agents,1.0.0,https://github.com/bolvein-firex/recipe-for-agents-mcp,streamable-http,"Find the Apify Actor, n8n recipe or agent skill for a web-data job, with ready MCP configs."
+2026-11-13T16:39:42.068462Z,net.fanio/fanio,Fanio,1.0.0,,streamable-http,"Search character packs and icon sets as SVG: scenes, licences and credit lines. Read only."
+2026-11-13T16:39:43.295839Z,com.scraperfinder/scraper-finder,Scraper Finder,1.0.0,https://github.com/bolvein-firex/scraper-finder-mcp,streamable-http,"Which tool or official API gets data from a website: ranked routes, prices and output fields."
+2026-11-13T16:42:09.433029Z,do.koru/koru,Koru,1.0.0,https://github.com/koruworks/mono,streamable-http,Read and write your Koru Cloud documents. A local server also ships with the Koru app.
+2026-11-13T16:42:15.955421Z,io.github.OpenWeb-Ninja/openwebninja-mcp,,0.5.5,https://github.com/OpenWeb-Ninja/openwebninja-mcp,,Official MCP server for OpenWeb Ninja APIs - 53 real-time web data and SERP APIs as MCP tools
+2026-11-13T16:43:28.906973Z,com.coinpaprika/coinpaprika,CoinPaprika,1.7.0,https://github.com/coinpaprika/coinpaprika-mcp,streamable-http; sse,"Real-time crypto market data: prices, tickers, exchanges, OHLCV candles, and metadata."
+2026-11-13T16:45:07.829402Z,net.computefinder/compute-finder,ComputeFinder,1.0.0,https://github.com/marcwinn76/computefinder-mcp,streamable-http,"Read-only, dated, source-linked records of compute providers, funded programmes and data centres."
+2026-11-13T16:45:30.61944Z,io.github.vsjagati/money-tools,Money Tools,0.1.0,https://github.com/vsjagati/money-tools,streamable-http,US retirement calculators with every number cited to official SSA and Medicare sources.
+2026-11-13T16:46:17.370287Z,com.perspectask/perspectask,PerspecTask,0.0.4,,streamable-http,"Plan and track your tasks: create, schedule and update PerspecTask tasks and link GitHub PRs."
+2026-11-13T16:48:29.008358Z,com.teamcalendar/mcp,TeamCalendar,1.0.0,,streamable-http,"Sports schedules, slates and standings, and calendar feeds that keep a team's games up to date."
+2026-11-13T16:48:55.418698Z,io.github.jackson-cmd/risk-aware-trading-agents,Risk-Aware Trading Agents,0.7.2,https://github.com/jackson-cmd/risk-aware-trading-agents,,"AI trading agents for US stocks: point-in-time news backtests, a frozen 2026 market, paper trading"
+2026-11-13T16:49:15.060551Z,org.communicatingpalestine.palianswers/palianswers,PaliAnswers,1.0.0,,streamable-http,"PIPD's sourced answers to common claims and myths about Palestine, with links to each answer."
+2026-11-13T16:50:13.25181Z,dev.alignlabs/align,Align,1.1.0,,streamable-http,"Cross-border payment lookups: USDT/USDC rates, off-ramp plans, network fees, IBAN checks, holidays"
+2026-11-13T16:52:09.608357Z,fr.synergieloc/immobilier,,1.2.0,,streamable-http; streamable-http,"French real-estate law and building CAD/BIM (DXF, IFC). /mcp/v2: lightweight catalogue."
+2026-11-13T16:52:39.241368Z,ai.llpro/campus,LLPRO Campus,1.0.0,,streamable-http,"Free tools for agents: cited public facts, signed checks of AI work, delivery records. No sign-up."
+2026-11-13T16:52:56.251641Z,io.github.TopTop-Oy/mdfi-connect,mdfi,0.1.0,https://github.com/TopTop-Oy/mdfi-connect,,"Read PDFs, scans and Office files page by page, with quality flags and CSV table export."
+2026-11-13T16:53:01.755631Z,com.mambabuilt/mcp-streaming-subscription-prices-by-country,,1.0.0,https://github.com/mambalabsdev/mcp-streaming-subscription-prices-by-country,,"Spotify and Netflix monthly plan prices in local currency, one row per plan per country."
+2026-11-13T16:57:26.054178Z,com.deekfit/gym,DeekFit Gym,0.1.0,,streamable-http,Validate and import training plans into your DeekFit Gym routines.
+2026-11-13T16:58:13.265129Z,com.unitq/unitq,unitQ,1.0.0,,streamable-http,"Customer feedback, support QA and research data from unitQ, scoped to your role via SSO."
+2026-11-13T17:01:33.144435Z,com.mambabuilt/mcp-tiktok-video-stats,,1.0.0,https://github.com/mambalabsdev/mcp-tiktok-video-stats,,"TikTok video stats by post URL: plays, likes, comments, shares, saves"
+2026-11-13T17:03:18.179372Z,io.github.sierikov/planka-mcp,MCP server for Planka (unofficial),0.1.0,https://github.com/sierikov/planka-mcp,,"Find, read and manage cards on your Planka v2 boards: search, move, comment, edit, checklists."
+2026-11-13T17:04:29.759365Z,ai.frontmost/frontmost-ai,Frontmost AI,1.0.0,,streamable-http,Track your brand's AI visibility. Find opportunities to reach more buyers through AI.
+2026-11-13T17:06:22.675003Z,com.mambabuilt/mcp-amazon-top-reviews-scraper,,1.0.0,https://github.com/mambalabsdev/mcp-amazon-top-reviews-scraper,,Top Amazon reviews and rating summary by ASIN on 8 marketplaces outside the US
+2026-11-13T17:11:13.656299Z,com.mambabuilt/mcp-private-company-funding-history,,1.0.0,https://github.com/mambalabsdev/mcp-private-company-funding-history,,Funding rounds of private US companies from SEC Form D and Form C filings on EDGAR
+2026-11-13T17:14:13.791552Z,br.com.opah/metis-mcp,Metis — Engineering Agent Platform,0.1.0,,streamable-http,MCP remoto da Opah IT: biblioteca de agentes de engenharia. Acesso: app.metis.opah.com.br/#acesso
+2026-11-13T17:17:36.904142Z,ai.demosmith/demosmith,Demosmith,1.0.0,,streamable-http,Make narrated demo videos of web apps from your AI assistant.
+2026-11-13T17:17:40.86541Z,com.metrxbot/mcp-server,Metrxbot,0.5.0-1,https://github.com/metrxbots/mcp-server,streamable-http; streamable-http,"Manage the AI agents your company employs: workforce review, contracts, bill checks. 41 MCP tools."
+2026-11-13T17:18:10.117553Z,com.pushdropstick/plans,Push Drop Stick: force-free dog training,1.1.0,,streamable-http,"Force-free dog training: step-by-step plans, the Handbook and product facts. Read-only."
+2026-11-13T17:20:47.937921Z,com.mambabuilt/mcp-b2b-social-video-transcripts,,1.0.0,https://github.com/mambalabsdev/mcp-b2b-social-video-transcripts,,"Transcripts and buying signals from social videos and podcasts, on your own speech and AI keys."
