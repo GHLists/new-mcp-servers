@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-11-13T03:25:41.966887Z,io.github.craft-agent/discord-tools,,1.0.0,https://github.com/craft-agent/discord-tools,,"Discord tools for coding agents: chats, messages, search, inbox, files, sends and roles."
+2026-11-13T03:31:05.545238Z,io.flitch/flitch,Flitch,1.0.0,,streamable-http,"Query your Flitch data, and build, edit and publish dashboards, reports and apps on it."
+2026-11-13T03:41:31.427271Z,io.github.coregentdevspace/company-jobs,Company Jobs,1.0.0,,streamable-http,"Open jobs from any company's Greenhouse, Lever, Ashby, Workday and other ATS boards, with signals."
+2026-11-13T03:41:32.385377Z,io.github.coregentdevspace/instagram-fake-follower-checker,Instagram Fake Follower Checker,1.0.0,,streamable-http,"Audit Instagram profiles for fake followers and bot risk: engagement rate, 0-100 risk score, reason."
+2026-11-13T03:41:33.337377Z,io.github.coregentdevspace/tiktok-shop,TikTok Shop,1.0.0,,streamable-http,"TikTok Shop products, reviews and sellers: price, sales, ratings, variants and stock, 6 markets."
+2026-11-13T03:41:34.317908Z,io.github.coregentdevspace/youtube-scraper,YouTube Scraper,1.0.0,,streamable-http,"YouTube videos, Shorts, comments, channels, contacts and transcripts as structured JSON."
+2026-11-13T03:41:35.293726Z,io.github.coregentdevspace/youtube-transcript,YouTube Transcript,1.0.0,,streamable-http,"YouTube video transcripts with timestamps, in bulk for channels, playlists and searches."
+2026-11-13T03:42:13.871621Z,net.festapp/festapp,Festapp,0.1.0,https://github.com/festappnet/festapp,streamable-http,Manage authorized Festapp events and Festapp Tickets with explicit per-connection consent.
+2026-11-13T03:42:19.382007Z,net.festapp/vstupenky-online,vstupenky.online,0.1.0,https://github.com/festappnet/festapp,streamable-http,Sales reports and order status for authorized vstupenky.online event organizers.
+2026-11-13T03:43:50.131339Z,com.guidejar/mcp,Guidejar,1.0.0,,streamable-http,"Create, edit and search step-by-step guides and help articles."
+2026-11-13T03:58:39.612883Z,io.github.markymakes-dev/javabytes,JavaBytes,1.0.1,https://github.com/markymakes-dev/javabytes,,"71 Java-focused tools for files, MySQL, JavaFX, Spring Boot and JS-to-Java migration, over stdio."
+2026-11-13T04:03:27.682416Z,io.github.TerexitariusStomp/widespread,,1.0.0,https://github.com/TerexitariusStomp/widespread-bridge,streamable-http,"Earn verified-work bounties: claim markets, ship signed attestations, get paid."
+2026-11-13T04:07:54.47258Z,com.chinawithme/b2b-mcp,China With Me — Hardware Prototyping & Exhibition MCP,2.0.0,,streamable-http,"China hardware R&D prototyping, trade show calendar, remote exhibition viewer & factory QC."
+2026-11-13T04:11:16.942424Z,ai.luw/studio,Luw Studio,0.3.17,https://github.com/Luvi-io/luw-mcp,streamable-http,"Design buildings in 3D by chat: rooms, walls, doors, windows, stairs, roofs and furniture."
+2026-11-13T04:11:55.084701Z,app.pinebill/mcp,PineBill,1.0.0,,streamable-http,"Invoices, estimates, customers, expenses, projects, task timers, calendar, and reports in PineBill."
+2026-11-13T04:12:46.805603Z,ai.vellarin.hub/mcp,Vellarin Hub,1.0.0,,streamable-http,"Apps with human approval, shared memory, a run log and evals for your agent. One URL, one key."
+2026-11-13T04:14:47.687383Z,io.github.DetailX-Video-Upscale/detailx-video-upscaler,DetailX Video Upscaler,1.0.0,,streamable-http,Upscale videos to 4K and interpolate frames. DetailX OAuth login and credits required.
+2026-11-13T04:18:53.172062Z,com.rhumbdata/rhumb,Rhumb,1.0.0,,streamable-http,"Which AI model to call on the providers you have: model id, price and reason."
