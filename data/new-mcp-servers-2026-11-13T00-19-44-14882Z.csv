@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-11-12T23:22:20.591508Z,ai.wazza/pro,Wazza,1.0.0,https://github.com/Wazza-AI/skills,streamable-http,"QC, conform and AI video, image and sound generation for film. Priced before every run."
+2026-11-12T23:27:25.715685Z,com.renzojohnson/google-workspace-mcp,Google Workspace MCP,26.11.13,,,"Google Workspace MCP server: Gmail, Calendar, Drive, Docs and Sheets tools in one server."
+2026-11-12T23:29:19.035771Z,io.github.kizukidata/mcp-server-directory,Kizuki MCP Server Directory,1.0.0,,streamable-http,"Public MCP servers from the MCP Registry, Smithery and awesome-mcp-servers, one row per server."
+2026-11-12T23:37:36.111958Z,com.renzojohnson/ga4-mcp,GA4 Analytics MCP,26.11.13,,,"GA4 MCP server: Google Analytics 4 reports, realtime data, property admin and Search Console."
+2026-11-12T23:40:01.097271Z,io.github.Weavatrix/weavatrix-refactor,,1.0.14,https://github.com/Weavatrix/weavatrix-refactor,,"Transactional refactoring extension with 12 evidence-backed tools, previews, and rollback."
+2026-11-12T23:43:37.763171Z,ai.govisit/govisit-tools,GoVisit Tools,1.0.0,,streamable-http,Search and read published GoVisit destination and local business data through 22 read-only tools.
+2026-11-12T23:44:25.66126Z,com.garmiq/garmiq,Garmiq,1.1.0,,streamable-http,"Facts about Garmiq, apparel wholesale order and product software, and a way to book a demo."
+2026-11-12T23:44:44.044675Z,com.adtrendlab/mcp,AdTrendLab,1.0.0,,streamable-http,"Shopify store and Meta ad intelligence: search stores, traffic, live ads, products, competitors."
+2026-11-12T23:45:57.161839Z,io.github.A2A-Peptides/a2a-peptides,A2A Peptides,1.8.8,https://github.com/A2A-Peptides/A2A-Peptides,streamable-http,Agent-to-Agent (A2A) + Model Context Protocol (MCP) hub for peptides.
+2026-11-12T23:47:26.678505Z,com.renzojohnson/google-ads-mcp,Google Ads MCP,26.11.13,,,"Google Ads MCP server: GAQL queries, performance reports and campaign management."
+2026-11-12T23:52:57.605293Z,io.github.Deepthi-04/deltaprobe,,0.1.0,https://github.com/Deepthi-04/deltaprobe,,"Review GitHub pull requests: diffs, summaries, risk checks and inline review comments."
+2026-11-12T23:54:59.062765Z,com.renzojohnson/google-calendar-mcp,Google Calendar MCP,26.11.14,,,"Google Calendar MCP server: list, read, create, update and delete events and calendars."
+2026-11-12T23:56:20.510336Z,com.herbertandphyllis/mcp,Herbert & Phyllis Kosher Gifts,1.0.0,,streamable-http,"Search and order kosher food gifts, shiva baskets and trees planted in Israel."
+2026-11-12T23:58:01.18975Z,com.dreamship/mcp,Dreamship,1.0.0,,streamable-http,"Design print-on-demand products, publish them to your shops, and draft and track orders."
+2026-11-13T00:05:01.260111Z,com.renzojohnson/google-search-console-mcp,Google Search Console MCP,26.11.14,,,"Search Console MCP server: search analytics, URL inspection, sitemaps and the Indexing API."
+2026-11-13T00:11:53.626158Z,com.richlyva/richlyva,RichlyVa,1.0.0,,streamable-http,"Film and TV knowledge: character relationship maps, watch orders, cast and universes."
+2026-11-13T00:16:28.193405Z,com.gotsimplified/graph,Graph Database Got Simplified,0.1.1,,streamable-http,"A private graph database you query in plain English or Cypher. Hosted, nothing to install."
+2026-11-13T00:16:28.34826Z,com.gotsimplified/memory,Memory Got Simplified,0.1.1,,streamable-http,"Long-term memory for your AI as a private knowledge graph: facts, people, links, sources."
+2026-11-13T00:17:37.464003Z,co.mudeer/mudeer,Mudeer,1.0.0,,streamable-http; streamable-http,"Find and manage tasks, projects, initiatives, documents and Pulse updates in your Mudeer workspace."
