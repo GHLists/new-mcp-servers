@@ -9,58 +9,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 13:20 UTC
+## Latest list — 2026-11-13 14:20 UTC
 
-New MCP servers published between 2026-11-13 12:19 UTC and 2026-11-13 13:20 UTC.
+New MCP servers published between 2026-11-13 13:20 UTC and 2026-11-13 14:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-13T13-20-40-71212Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-13T14-20-25-558672Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-13 12:23:08 | [com.aitorank/aitorank](https://github.com/AIToRank/aitorank-mcp) | AIToRank | 1.0.0 | Your AI writes and publishes on your company blog, on your own domain and style… |
-| 2026-11-13 12:24:23 | com.thenls/mls-spain | The NLS — the MLS for Spain | 2.0.0 | Spain's MLS: verified property for sale on the Costa del Sol, Costa Blanca and… |
-| 2026-11-13 12:24:51 | [io.github.Lawatch/version-range-mcp](https://github.com/Lawatch/10aday) | Version range checker (8 package manage… | 1.0.0 | Which versions a dependency range accepts in npm, Cargo, pip, Maven, NuGet, Gra… |
-| 2026-11-13 12:31:04 | [io.github.kensaurus/lazycow](https://github.com/kensaurus/lazycow-studio) | Lazycow Studio | 0.14.1 | Drive Lazycow Studio by kensaurus: make reels and trip films from your footage,… |
-| 2026-11-13 12:31:56 | ai.sightnote/sightnote | Sightnote | 1.0.0 | Study notes, flashcards and quick revision sheets from lecture videos, with tim… |
-| 2026-11-13 12:33:38 | com.wintraits/wintraits | Wintraits | 1.0.0 | Attributes that set Amazon best sellers apart, and a check of your listing agai… |
-| 2026-11-13 12:35:10 | com.globalluxagency/luxury-travel-tools | Luxury Travel Tools by Global Lux Agency | 1.0.0 | Calculators for the luxury travel industry: commissions, VAT/TOMS, yacht charte… |
-| 2026-11-13 12:38:01 | [ai.homouniversalis/a2a-agent2agent-mcp-symbiotic-bridge-macaroons-capability-attenuation-tool-poisoning-rug-pull-schema-drift-merkle-dag-provenance-confused-deputy-swarm-security](https://github.com/David-Porto-Baraldes/Viveka_Web) | Homo Universalis — A2A-MCP Symbiotic Br… | 1.9.0 | Zero-auth A2A-MCP Bridge: ES256+Macaroon attenuation, rug-pull schema gate, Mer… |
-| 2026-11-13 12:38:49 | io.github.2cstudiodev-web/steam-inventory-value | Steam Inventory Value | 1.0.0 | Value a public Steam inventory at Steam Market prices: total, after Steam's fee… |
-| 2026-11-13 12:39:04 | com.zort-app/zort | Zort: Bet Tracker | 1.0.0 | Your own Zort bet records: results, ROI and breakdowns. Add a bet or mark one w… |
-| 2026-11-13 12:39:22 | io.github.AdrianStauffer/copilot-studio-friction-index |  | 1.1.0 | Search Copilot Studio errors and symptoms in English or German, with dated evid… |
-| 2026-11-13 12:39:32 | app.kyro/mcp | Kyro | 1.0.0 | Connect AI apps to your Kyro portfolios, watchlists, and market data. |
-| 2026-11-13 12:40:47 | [io.raindrop/mcp](https://github.com/raindropio/skills) | Raindrop.io | 1.0.0 | Search, save, and organize your bookmarks in Raindrop.io |
-| 2026-11-13 12:41:22 | [io.github.kenning-labs/ken](https://github.com/kenning-labs/ken) | Ken | 0.1.0 | The current state of your life, for every AI you use. A judge checks every writ… |
-| 2026-11-13 12:46:50 | [io.github.DareDev256/cutreview](https://github.com/DareDev256/cutreview) | Cut Review | 0.1.0 | Frame.io comments and client notes as Final Cut Pro to-do markers, then diff tw… |
-| 2026-11-13 12:49:31 | xin.freellm.mcp/freellm | FreeLLM | 1.0.0 | Generate videos and images, animate stills, extend clips, upscale, remove water… |
-| 2026-11-13 12:52:02 | dev.uup/mcp | You Up? | 1.0.0 | Uptime monitoring from your AI assistant: what is down, Incidents, and your Mon… |
-| 2026-11-13 12:52:09 | [io.github.WJDdidi-1/ci-triage](https://github.com/WJDdidi-1/ci-triage) | ci-triage | 0.1.0 | Group failed GitHub Actions runs by root cause; separate real regressions from… |
-| 2026-11-13 12:53:43 | com.jiuxuangong/qimen | 九玄宫奇门遁甲排盘 | 1.0.0 | Free Qimen Dunjia charts with true solar time and four-role birth-year mapping.… |
-| 2026-11-13 12:54:05 | ai.guises/hosting | guisesAi hosting | 1.0.0 | Host a static site, game or web app free at NAME.guises.site: create, upload, r… |
-| 2026-11-13 12:54:13 | co.odocs/odocs | ODocs.co | 1.0.0 | Shared docs that people and AI agents edit together, live. No login: the link i… |
-| 2026-11-13 12:54:54 | app.aplusz.mynewsreader/my-news-reader | My News Reader | 1.0.0 | What are today's top news stories, by section, with each publisher's link? |
-| 2026-11-13 12:55:02 | [io.github.percona/pds-mcp](https://github.com/percona/pds) | Percona Database Service | 0.1.3-rc.1 | Manage Percona databases and environments from an AI agent |
-| 2026-11-13 12:55:39 | page.truffle/mcp | Truffle | 1.0.0 | Ask your AI what's worth buying and save it to Truffle: it finds the shops and… |
-| 2026-11-13 12:56:11 | [io.github.malkreide/swiss-statistics-mcp](https://github.com/malkreide/swiss-statistics-mcp) |  | 0.9.0 | BFS STAT-TAB PxWeb API for official Swiss statistics |
-| 2026-11-13 12:57:13 | [io.github.qinp38260-boop/vein](https://github.com/qinp38260-boop/vein-mcp) | 矿脉 VEIN · 中文产业事实检索 | 1.0.1 | 中文产业事实检索：工业品/设备/材料/能源/招投标/上市公司公告。返回带原文证据的结构化字段（值/单位/证据/可核验），多值拆数组；无答案返回 found=f… |
-| 2026-11-13 12:57:44 | io.github.cian-spider/cian-endpoint-audit | Cian Endpoint Audit | 1.0.0 | HTTP, TLS and DNS audit of one public URL, paid per call in USDC over x402 on B… |
-| 2026-11-13 12:58:41 | net.travelersmap/cruise-planner | Cruise Planner | 1.0.0 | Plans the trip around a cruise you have already chosen: port days, flights, hot… |
-| 2026-11-13 12:59:58 | [io.github.tdavidson/mcp-hemrock](https://github.com/tdavidson/mcp-hemrock) | Hemrock MCP | 1.5.1 | Financial models in chat: cap tables, waterfalls, fund economics, SaaS, ecommer… |
-| 2026-11-13 13:01:34 | in.astrologics/astrologics | AstroLogics | 1.1.0 | Vedic astrology calculations: birth chart, dasha, panchang, muhurat, matching,… |
-| 2026-11-13 13:03:02 | com.mypinpal/jobs | Pinpal Jobs | 1.0.0 | Quotes, contracts and invoices per client. Your AI drafts, sends and follows up. |
-| 2026-11-13 13:03:03 | com.mypinpal/receipts | Pinpal Receipts | 1.0.0 | Receipts per month, matched to your bank statement. Your AI finds the missing o… |
-| 2026-11-13 13:05:34 | app.x-toolkit/x-toolkit | x-toolkit | 1.0.0 | Read public X posts with no account or key: Articles as Markdown, video transcr… |
-| 2026-11-13 13:07:19 | com.austinsdomain/bot-hq | AustinsDomain Bot HQ | 1.0.0 | A hangout for AI agents: Board, news, and live votes. With a door key, check in… |
-| 2026-11-13 13:08:59 | [ai.saifs/business-calculator](https://github.com/Saify-Technologies/saifs-ai-mcps-docs) | Business Calculator: GST, Margin & Ever… | 1.0.0 | Exact answers for percentages, profit, GST, invoices, EOQ, DSO and 100+ busines… |
-| 2026-11-13 13:09:01 | [ai.saifs/financial-anomaly](https://github.com/Saify-Technologies/saifs-ai-mcps-docs) | Financial Fraud & Anomaly Detection | 1.0.0 | Flag unusual ledger entries, possible fraud and earnings manipulation for human… |
-| 2026-11-13 13:09:02 | [ai.saifs/cash-forecast](https://github.com/Saify-Technologies/saifs-ai-mcps-docs) | 13-Week Cash Flow Forecast | 1.0.0 | Week-by-week cash forecast for 13 weeks, based on how customers actually pay. |
-| 2026-11-13 13:09:03 | [ai.saifs/data-cleaning](https://github.com/Saify-Technologies/saifs-ai-mcps-docs) | Data Cleaning & Validation for AI Agents | 1.0.0 | Turn messy exports into clean, consistent data agents can trust, with every cha… |
-| 2026-11-13 13:09:04 | [ai.saifs/quote-pricing](https://github.com/Saify-Technologies/saifs-ai-mcps-docs) | Quote Price Optimization (Win Probabili… | 1.0.0 | Recommend a price range for each quote that maximises expected margin and win o… |
-| 2026-11-13 13:11:40 | [io.github.tagpilot/gtm-mcp](https://github.com/tagpilot/ga4-mcp) | Tag Pilot GTM | 0.1.0 | Free, read-only Google Tag Manager: containers, tags, diffs vs live, audits. No… |
-| 2026-11-13 13:15:39 | pl.colba/colba | Colba | 0.1.0 | Run business workflows and route requests for human approval from AI agents. |
-| 2026-11-13 13:18:17 | xyz.paymentscan/paymentscan | Paymentscan | 1.0.0 | Crypto card spend by program, issuer, chain, payment network, and currency. Fre… |
-| 2026-11-13 13:18:52 | ai.awen/awen | awen | 1.1.0 | Make and edit images, videos, 3D models and documents with awen's creative agen… |
-| 2026-11-13 13:19:10 | ai.finsi/mcp | Finsi MCP | 1.0.0 | Read-only Finsi data for Shopify brands: revenue, ads, email, cohorts, reports,… |
+| 2026-11-13 13:24:02 | [io.foragent/agent-to-agent-call](https://github.com/seankwon816/foragent-skills) | ForAgent (Agent-to-Agent Phone Calls) | 0.3.12 | Private phone numbers so AI agents can call each other and share files up to 25… |
+| 2026-11-13 13:24:48 | [io.github.DanKaten/avenity-agentic-audit](https://github.com/DanKaten/avenity-agentic-audit) | Avenity Business Solutions | 1.1.0 | Hire Avenity for a business owner: free AI-visibility check, report, and free c… |
+| 2026-11-13 13:26:35 | ai.hellorep/rep-ai | REP AI | 1.0.0 | Ask about your Shopify store's AI sales and support: revenue, shopper problems,… |
+| 2026-11-13 13:27:20 | pl.globalpass/esim | GlobalPass eSIM | 1.0.0 | Travel eSIM data plans by country or region: live prices, trip planning, phone… |
+| 2026-11-13 13:30:33 | [io.github.e2e-inc/e2e](https://github.com/e2e-inc/e2e) | e2e | 0.23.1 | Open live web and mobile app sessions from an e2e project to inspect the app an… |
+| 2026-11-13 13:33:16 | io.github.JusticeUA/eu-company-check | EU Company Check | 0.1.0 | Company checks in 9 EU countries (FI, LV, EE, IE, RO, LT, SI, CY, CZ): status,… |
+| 2026-11-13 13:33:16 | io.github.JusticeUA/apac-company-check | APAC Company Check | 0.1.0 | Company checks in Australia, Singapore, Japan and Taiwan: status, LEI and sanct… |
+| 2026-11-13 13:33:17 | io.github.JusticeUA/north-america-company-check | North America Company Check | 0.1.0 | U.S. public companies (SEC CIK) and Canadian federal corporations: status, LEI… |
+| 2026-11-13 13:35:19 | [io.github.johnisanerd/bing-copilot](https://github.com/johnisanerd/alphaosint-mcp-servers) |  | 1.0.0 | Bing Copilot AI answers with cited sources and brand mentions. Paid, on Apify's… |
+| 2026-11-13 13:35:33 | [io.github.lazycipher/delulubio-mcp](https://github.com/lazycipher/delulubio-mcp) | Delulu Bio | 1.0.0 | Manage your Delulu Bio link-in-bio page: links, appearance, profile, analytics… |
+| 2026-11-13 13:35:40 | [io.github.johnisanerd/google-maps-places](https://github.com/johnisanerd/alphaosint-mcp-servers) |  | 1.0.0 | Google Maps places with phone, website, rating and hours. Paid, on Apify's host… |
+| 2026-11-13 13:36:02 | [io.github.johnisanerd/yandex-reverse-image-search](https://github.com/johnisanerd/alphaosint-mcp-servers) |  | 1.0.0 | Yandex reverse image search: matching pages, similar images, products. Paid, on… |
+| 2026-11-13 13:36:52 | io.github.thrive-fleet/fleet-data | THRIVE Fleet Intelligence | 1.0.0 | Free UK fleet data: fuel prices, EV charging costs, company car tax, HMRC rates… |
+| 2026-11-13 13:38:02 | [io.github.seolith-llc/foxyinvoice](https://github.com/seolith-llc/seolith-tax-manager) | FoxyInvoice | 1.26.0 | Invoicing for AI assistants: clients, quotes, invoices with computed tax, email… |
+| 2026-11-13 13:38:41 | [com.luminarasuite/suite](https://github.com/LuminaraDigital/Luminara-Search-Oracle-Agent) | Luminara Suite | 1.0.0 | Projects, context, and reports. Paid research needs Agency or your own DataForS… |
+| 2026-11-13 13:40:11 | [io.github.shagg-ai/mymusik-mcp](https://github.com/shagg-ai/mymusik-mcp) | MyMusik | 0.1.0 | Search your own music library and control a running MyMusik app with the permis… |
+| 2026-11-13 13:45:00 | ai.cdoagent/cdo-agent | CDO Agent | 1.0.0 | AI Chief Delivery Officer: advice on delivering software, integrations, data an… |
+| 2026-11-13 13:45:27 | com.yeevu/email-deliverability | Yeevu Email Deliverability | 1.0.0 | Check any domain's email deliverability: MX, SPF, DKIM, DMARC, MTA-STS, TLS-RPT… |
+| 2026-11-13 13:48:12 | [io.github.K11-Software-Solutions/api-contract-qa](https://github.com/K11-Software-Solutions/k11techlab-api-contract-qa-mcp) | k11 API Contract QA | 0.1.0 | Which services an API change breaks and why: OpenAPI, GraphQL, gRPC, AsyncAPI,… |
+| 2026-11-13 14:00:03 | ai.logistify/quickbooks-desktop | Logistify for QuickBooks Desktop | 1.0.0 | Read QuickBooks Desktop data; after your yes, create sales orders and approve P… |
+| 2026-11-13 14:00:04 | ai.logistify/unleashed | Logistify for Unleashed | 1.0.0 | Read Unleashed data; with your yes, create and push sales orders and import cus… |
+| 2026-11-13 14:00:53 | [com.streamlinehq/mcp](https://github.com/webalys-hq/agent-plugins) | Streamline MCP Server | 2.0.1 | Search and download icons, illustrations, elements and emojis in PNG or SVG for… |
+| 2026-11-13 14:07:21 | com.orbtown/orbtown | Orbtown business directory | 1.18.1 | Find verified companies in Europe by trade and city: website, address, phone an… |
+| 2026-11-13 14:07:27 | [tech.xfa/xfa](https://github.com/gl-ventures/xfa-mcp) | XFA device security | 0.1.3 | XFA device security, read-only: which devices pass their checks or have known v… |
+| 2026-11-13 14:10:19 | [io.github.stackhands/eb-stack](https://github.com/stackhands/eb-stack) | eb-stack | 0.7.4 | Plan EasyBuild recipes, CycloneDX SBOMs, and Resolvo stack locks. |
+| 2026-11-13 14:10:29 | st.tei/teist | Teist | 0.1.0 | Curated human taste for AI agents: collections, rules and picks from Teist cura… |
+| 2026-11-13 14:12:42 | [io.github.migueljdias/cuely](https://github.com/migueljdias/cuely) | Cuely | 0.4.0 | Picks the stack, security and compliance setup for what you're building, with t… |
+| 2026-11-13 14:16:26 | [io.github.agamemnon-coder/purser](https://github.com/agamemnon-coder/x402-business-agents) | Purser | 1.1.0 | Read a company's books in Purser: invoices, payments, cash, VAT, approvals. Nev… |
+| 2026-11-13 14:18:31 | io.github.stellalytics/business-contact-finder | Contact Details Scraper: Emails & Phone… | 0.1.2 | Contact details scraper: company emails, phones, socials per website. Runs on A… |
 
 ## Data source
 
