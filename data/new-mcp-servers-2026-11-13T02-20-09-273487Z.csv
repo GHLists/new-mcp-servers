@@ -1,0 +1,30 @@
+created_at,server,title,version,repository,transports,description
+2026-11-13T01:19:30.210567Z,io.github.SoftDevEng/aisecuritywarden,aiSecurityWarden,0.7.4,https://github.com/SoftDevEng/aiSecurityWarden-client,,"Human approval for AI agents: E2E-encrypted secrets and gated Gmail, GitHub and MCP tools."
+2026-11-13T01:21:15.946602Z,ai.videobackgroundremover/video-background-remover,Video Background Remover,1.0.0,,streamable-http,Remote MCP for paid video background removal and transparent or green screen exports.
+2026-11-13T01:22:41.048182Z,com.renzojohnson/google-chat-mcp,Google Chat MCP,26.11.14,,,"Google Chat MCP server: read spaces and messages, send, edit and delete messages, create spaces."
+2026-11-13T01:27:28.355865Z,io.github.The-40-Thieves/reliquary-tc,Reliquary-TC,2.0.1,https://github.com/The-40-Thieves/reliquary-tc,,"Governed Obsidian vault access: hybrid retrieval, Markdown-native memory, HITL confirmations."
+2026-11-13T01:28:39.380823Z,com.onancap/supplier,Onan Capital Inc supplier desk,1.0.0,,streamable-http,"SDVOSB institutional PPE supplier (TIPS 260804): credentials, catalog search, and RFQ intake."
+2026-11-13T01:30:39.883372Z,io.supabird/mcp,SupaBird,1.0.0,https://github.com/Farid18baku/supabird-mcp,streamable-http,"Social media growth agent: ideas, posts, scheduling and analytics across all major platforms"
+2026-11-13T01:31:29.404385Z,space.openos/edna,EDNA — On-Device Human Sensing for AI,1.4.2,https://github.com/sebklaey/EDNA-verification,streamable-http,On-device human sensing for AI: EDNA ID continuity and live human context via MCP.
+2026-11-13T01:31:53.002104Z,com.renzojohnson/google-forms-mcp,Google Forms MCP,26.11.14,,,"Google Forms MCP server: read forms and responses, create forms, add and edit questions."
+2026-11-13T01:34:20.139368Z,net.artems.camper/rally-map,Camper Rally Map,1.0.0,,streamable-http,"One-way campervan relocation deals in Europe from Roadsurfer, IndyCampers and Imoova."
+2026-11-13T01:37:11.860978Z,io.github.imattau/polypack-mcp,Polypack Memory,0.1.32,https://github.com/imattau/polypack-mcp,,MCP server exposing Polypack as persistent adaptive memory
+2026-11-13T01:42:51.137318Z,dev.microfn/microfn,microfn,1.0.0,,streamable-http,"Create, deploy and run serverless JavaScript functions on microfn from any MCP client."
+2026-11-13T01:43:52.429341Z,com.renzojohnson/google-business-profile-mcp,Google Business Profile MCP,26.11.14,,,"Google Business Profile MCP server: performance, search terms, reviews, posts, location edits."
+2026-11-13T01:44:48.606818Z,com.redgoodwine/redgoodwine,Red Good Wine,1.0.0,,streamable-http,"Find the best wine, beer, spirits and zero-proof bottles with live prices at independent US shops."
+2026-11-13T01:48:08.773257Z,com.invoance/invoance,Invoance,1.0.0,,streamable-http,"Record signed events, AI outputs and document fingerprints, and check any record later."
+2026-11-13T01:48:54.885043Z,io.github.tomasbenavidez/allinbox,allinbox,0.3.0,https://github.com/tomasbenavidez/allinbox,,"Search all your email accounts in one query. Read-only IMAP, cannot send; optional drafts."
+2026-11-13T01:50:59.946205Z,com.gotsimplified/weather,Weather Got Simplified,0.1.1,,streamable-http,"Current weather and a 9-day forecast for any town, with your saved places like home."
+2026-11-13T01:51:12.84274Z,com.renzojohnson/google-keep-mcp,Google Keep MCP,26.11.14,,,"Google Keep MCP server: list and read notes and checklists, create and delete notes."
+2026-11-13T01:52:09.894527Z,io.github.wossoft/gsc-vault,GSC Vault,1.0.0,,streamable-http,Find unindexed pages and keep Search Console data forever — via MCP for AI tools.
+2026-11-13T01:53:43.948899Z,com.super-webmaster/seo,Super Webmaster,1.2.0,,streamable-http,"Free SEO and GEO audit of any public website: scores out of 100, fixes ranked by gain. In French."
+2026-11-13T01:57:38.15442Z,com.renzojohnson/bigquery-mcp,BigQuery MCP,26.11.14,,,"BigQuery MCP server: list datasets and tables, read schemas, run SELECT queries with a byte limit."
+2026-11-13T01:57:38.331279Z,com.gotsimplified/directions,Directions Got Simplified,0.1.1,,streamable-http,"Distance and typical travel time by car, on foot or by bike, with turn-by-turn steps."
+2026-11-13T01:57:48.679908Z,io.github.Julian-dev28/pathiel,pathiel,0.4.0,https://github.com/Julian-dev28/pathiel,,Trade Hyperliquid perps with an exact stop and target on every order. Mainnet; testnet opt-in.
+2026-11-13T01:59:34.178338Z,com.gotsimplified/search,Web Search Got Simplified,0.1.1,,streamable-http,"Search the web and read pages from your AI assistant, with results it can cite."
+2026-11-13T02:00:58.145834Z,io.github.viaanshetty3-debug/relay-whatsapp-mcp,Relay for WhatsApp,1.0.0,https://github.com/viaanshetty3-debug/relay-whatsapp-mcp,,"Your WhatsApp as 37 MCP tools: read, search, send and media, via a self-hosted bridge."
+2026-11-13T02:02:37.210353Z,fr.visitech/aides-renovation,Aides à la rénovation énergétique (France),1.1.0,,streamable-http,"Estime MaPrimeRénov' et les primes CEE d'un projet de rénovation en France, avec calcul et sources."
+2026-11-13T02:07:21.67645Z,com.sandymusiclab/tools,Sandy Music Lab,1.0.0,,streamable-http,"Free guitar and songwriting tools: transpose chords, capo, chord charts, vocal key, delay, strings."
+2026-11-13T02:10:18.086458Z,com.renzojohnson/google-maps-mcp,Google Maps MCP,26.11.14,,,"Google Maps MCP server: geocoding, places, directions, distance matrix, elevation and time zones."
+2026-11-13T02:11:39.248515Z,io.github.bitcompare/mcp-server,,1.2.0,https://github.com/bitcompare/mcp-server,streamable-http,"Crypto yield data for AI agents: lending, savings, staking, borrowing & stablecoin rates. 21 tools."
+2026-11-13T02:16:47.70031Z,com.gtxagent/gtxagent-mcp,,0.1.0,,streamable-http,"Seven paid x402 tools for crypto agents: safety, prices, X search, market hours, whales."
