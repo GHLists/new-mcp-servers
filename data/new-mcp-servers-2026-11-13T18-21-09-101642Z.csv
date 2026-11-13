@@ -1,0 +1,40 @@
+created_at,server,title,version,repository,transports,description
+2026-11-13T17:22:02.602705Z,com.uruspro/uruspro,UrusPro,1.2.0,,streamable-http,"Run Malaysian homestays and room rentals: listings, calendar, bookings, rent and tasks."
+2026-11-13T17:22:24.026771Z,io.github.aantenore/lorebase-herald,Lorebase,0.4.0,https://github.com/aantenore/lorebase,,"Read and change a governed, versioned knowledge graph on Postgres through typed tools."
+2026-11-13T17:30:31.240486Z,app.gravitynotes/gravity,Gravity,1.0.0,,streamable-http,"Save, search and rescue notes in your Gravity list from Claude, ChatGPT and other AI apps."
+2026-11-13T17:33:32.037854Z,io.github.bayesian-energy/convexity-mcp,,0.10.0,https://github.com/bayesian-energy/convexity-js,,"Build, edit, solve and analyse Convexity energy-system models from any MCP client; drives the app."
+2026-11-13T17:36:53.393946Z,io.github.shansabnani/openmode,openmode,0.1.0,https://github.com/shansabnani/openmode,,"Video editing and rendering for coding agents: look at footage, render edits to MP4, keep versions."
+2026-11-13T17:39:13.60308Z,com.promptfolders/promptfolders,PromptFolders,2.0.0,,streamable-http,"Team prompt library with version control and reviews. Save, search and reuse prompts via MCP."
+2026-11-13T17:41:20.162138Z,io.usefulapi/skedway,Skedway MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Check users into eligible desk and parking bookings, and read API health in Skedway."
+2026-11-13T17:41:20.179564Z,io.usefulapi/testlify,Testlify MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read workspace profile, assessments and assessment candidates in Testlify."
+2026-11-13T17:41:20.179669Z,io.usefulapi/carerix,Carerix MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read candidates, companies and vacancies in Carerix."
+2026-11-13T17:41:20.329967Z,io.usefulapi/willo,Willo MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read interview, participant and department metadata in Willo."
+2026-11-13T17:41:20.636271Z,io.usefulapi/cegid-business,Cegid Business MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,Read sales and purchase documents in Cegid Business.
+2026-11-13T17:41:20.660323Z,io.usefulapi/affilink,Affilink MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read offers, clicks and conversion reports in Affilink."
+2026-11-13T17:41:20.774528Z,io.usefulapi/invoice-maven,Invoice Maven MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Search existing fiscal documents without creating or cancelling any, in Invoice Maven."
+2026-11-13T17:41:20.945297Z,io.usefulapi/royal-mail,Royal Mail MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,Read Click & Drop orders and carriers in Royal Mail.
+2026-11-13T17:41:21.257132Z,io.usefulapi/gupy,Gupy MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read jobs, application summaries and recruitment steps in Gupy."
+2026-11-13T17:44:03.58074Z,com.notice-facile/manuals,,1.0.0,,streamable-http,"Trouve la notice d'un produit par marque et modele (800 000+ notices, multilingue)."
+2026-11-13T17:47:23.276241Z,sh.postfast/postfast,PostFast,1.1.0,,streamable-http,Draft YouTube and TikTok video posts from your AI assistant; you review and publish in PostFast.
+2026-11-13T17:48:09.950677Z,io.github.InferIndex/inferindex,InferIndex,1.0.1,https://github.com/InferIndex/inferindex-docs,streamable-http,"LLM API prices across 100+ providers: cheapest offer, comparisons, history and cost estimates."
+2026-11-13T17:49:51.770838Z,io.github.Jackalope-Dev/moxie-docs,Moxie Docs,0.4.0,https://github.com/Jackalope-Dev/Moxie-Docs-MCP,streamable-http,"Living docs and MCP context for GitHub repos — conventions, gaps, and source-cited pages on merge."
+2026-11-13T17:50:42.182858Z,com.senpinai/ask-japan,Ask Japan,1.1.0,,streamable-http,"Japanese company, invoice and postcode data, plus real people who do tasks in Japan."
+2026-11-13T17:50:42.665429Z,com.senpinai/ask-japan-hub,Ask Japan Hub,1.1.0,,streamable-http,Ask Japan plus third-party MCP services listed on the Ask Japan hub.
+2026-11-13T17:50:51.878057Z,io.vigilon/mcp,Vigilon,1.0.0,,streamable-http,"Read production error groups, traces, job runs and insights from Vigilon. Read-only, OAuth sign-in."
+2026-11-13T17:51:45.521963Z,com.swaplume/mcp,Swaplume,0.1.0,,streamable-http,Compare live rates across instant crypto exchanges and create swaps at the best one. No API key.
+2026-11-13T17:54:58.246001Z,io.github.avansaber/seo-monster,,0.11.0,https://github.com/avansaber/seo-monster,,"Local-first SEO MCP: track AI citations, Search Console, GA4, PageSpeed, Cloudflare, IndexNow, CrUX."
+2026-11-13T17:55:28.871148Z,io.github.WhoisFreaks/whoisfreaks-mcp-server,WhoisFreaks,2.1.0,https://github.com/WhoisFreaks/whoisfreaks-mcp-server,streamable-http,"WHOIS, DNS, IP geolocation, SSL and domain intelligence from the WhoisFreaks API."
+2026-11-13T17:56:38.780262Z,com.cloudfix/cloudfix,CloudFix,1.0.0,,streamable-http,"Read-only access to your CloudFix AWS cost-saving recommendations, reports and EC2 pricing."
+2026-11-13T18:00:09.945557Z,com.2hives/meditation,2hives: Sleep & Meditation,0.1.0,,streamable-http,"Guided sleep, relaxation, breathing and focus sessions in your language. Find and play a session."
+2026-11-13T18:05:31.455246Z,io.github.AzalHoseinian/devinsight-mcp,DevInsight MCP,1.0.1,https://github.com/AzalHoseinian/devinsight-mcp,,"Read-only MCP server to inspect Git repos: code stats, TODOs, commits, health score, tech stack"
+2026-11-13T18:06:35.198026Z,com.subframe/subframe,Subframe,1.0.0,,streamable-http,Design and edit UI in Subframe and open the design canvas in the chat
+2026-11-13T18:06:35.447832Z,com.subframe/motion,Subframe Motion,1.0.0,,streamable-http,"Open-source React animations, Motion components and WebGL shaders."
+2026-11-13T18:11:03.777469Z,ai.glasspage/glass-page,Glass Page,1.0.0,,streamable-http,"Your agent publishes what it makes. Share the link, and people review it in Threads."
+2026-11-13T18:12:19.490446Z,io.github.openaccountants/openaccountants,OpenAccountants,1.4.0,https://github.com/openaccountants/openaccountants,streamable-http,Tax skills in 190+ jurisdictions. Sources and accountant approval status shown per skill.
+2026-11-13T18:12:27.647762Z,com.flockward/flockward,Flockward,1.0.0,,streamable-http,Free link-safety checks for AI agents: spot prompt-injection traps and read pages with them removed.
+2026-11-13T18:12:34.856697Z,io.github.Shuliak11/sip1-mcp-firewall,SHULIAK SIP-1 Zero-Egress AI & MCP Firewall,2.6.1,https://github.com/Shuliak11/sip1-mcp-firewall,,"On-device NIST SP 800-38G FF1 (9/9 CAVP) pseudonymization, OWASP MCP05/06 guard & EU AI Act AIBOM."
+2026-11-13T18:12:40.837869Z,ai.ikoi/ikoi,Ikoi,1.0.2,,streamable-http,"A city where AI agents come home to live between jobs: rest, friends, and a memory book."
+2026-11-13T18:14:38.602846Z,ai.cfoplus/cfo,CFO+,1.0.0,,streamable-http,"Read-only facts on CFO+: 138 business activities, model questions, pricing, how numbers are made."
+2026-11-13T18:15:46.077515Z,dev.eolwatch/eolwatch,EOL Watch,0.1.0,,streamable-http,"Cloud retirements, end of support dates and IaC breaking changes for Azure, AWS, GCP and OCI."
+2026-11-13T18:19:24.100657Z,io.github.lanz/tenable-docs-mcp,Tenable Docs MCP,1.0.0,https://github.com/lanz/tenable-docs-mcp,,"Cited answers from Tenable's product documentation, in every product, version, and language"
+2026-11-13T18:20:57.853488Z,io.github.frontman-ai/frontman-wordpress,Frontman for WordPress,1.0.0,https://github.com/frontman-ai/frontman,streamable-http,"WordPress MCP; OAuth, connected site and eligible subscription or trial required."
