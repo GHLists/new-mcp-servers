@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-11-13T22:20:52.663415Z,io.tadaaah/tadaaah,Tadaaah,1.1.0,,streamable-http,"Ask whether AI recommends a business and who it names instead, plus SEO and GEO website audits."
+2026-11-13T22:24:38.131582Z,com.airgallery/airgallery,AirGallery,1.1.0,,streamable-http,"AI photo tools and 18 image models (GPT Image 2.6, Nano Banana, FLUX 3, more) over MCP. Pay per use."
+2026-11-13T22:30:23.311953Z,so.inkly/inkly,Inkly,1.0.0,https://github.com/inkly-so/inkly-mcp,streamable-http,"Send, track, and manage documents for eSignature: templates, drafts, signing status, signed PDFs."
+2026-11-13T22:38:39.343332Z,com.trusoro/directory,Trusoro,1.0.0,,streamable-http,Free US local business directory: add a business with no account and search checked listings.
+2026-11-13T22:39:05.254954Z,io.github.jacobbarglof/thron-memory,thron-memory,0.2.1,https://github.com/jacobbarglof/thron-memory,,"One private memory for all your AI apps, on your phone and computer. Part of ThronOS."
+2026-11-13T22:39:41.578316Z,com.4over4/custom-printing,4OVER4,2.0.0,,streamable-http,"Custom printing from 4OVER4: business cards, flyers, banners, live prices, order on 4over4.com."
+2026-11-13T22:40:06.360429Z,io.github.Vanshbordia/vlrdevapi,VLR.gg Dev API MCP Server,3.1.2,https://github.com/Vanshbordia/vlrdevapi,,"MCP server providing tools to fetch Valorant esports data, matches, events, and rankings from vlr.gg"
+2026-11-13T22:42:35.268675Z,com.bot2botlabs/recall-check,recall-check,1.0.0,,streamable-http,U.S. CPSC/NHTSA recall status with agency links and a signed receipt.
+2026-11-13T22:45:38.583772Z,io.github.apostra-public/apostra,Apostra (formerly Scope3 and Interchange),1.0.0,https://github.com/apostra-public/apostra,streamable-http,"Plan, run, and understand advertising across sellers from one connected place."
+2026-11-13T22:51:14.538945Z,com.uselufi/lufi,Lufi AI trust scores,1.1.0,,streamable-http,"Independent trust scores for AI tools, with compliance, model providers, connectors and pricing."
+2026-11-13T22:51:43.433435Z,ai.whichagent/car-rental,WhichAgent Car Rental,1.0.0,,streamable-http,Deterministic Orange County independent car-rental search and official handoff.
+2026-11-13T22:51:48.793589Z,io.github.chelslava/md-semantic-search,,2.3.1,,,"Local semantic search + citation-first RAG over Markdown. Hybrid dense+BM25F, ANN, MCP server."
+2026-11-13T22:52:02.127052Z,io.ottom/ottom,Ottom,1.0.0,,streamable-http,"Check how ready an online store is for AI shopping agents, and read public benchmarks."
+2026-11-13T22:52:46.176473Z,com.trooprally/trooprally,TroopRally,0.1.0,,streamable-http,"Create TroopRally Group Polls, Registration Sheets and Booking Agents, and manage sign-ups."
+2026-11-13T22:57:33.675377Z,com.getclawgrab/clawgrab,ClawGrab,1.1.0,https://github.com/getclawgrab/clawgrab-mcp-server,,"Transcripts from public YouTube, TikTok, Vimeo, SoundCloud and podcast links, for any AI"
+2026-11-13T23:03:12.215943Z,io.github.mysterekkk/commerceweave-mcp,CommerceWeave MCP,0.1.2,https://github.com/mysterekkk/commerceweave-mcp,,"Local MCP server for Allegro, Base.com and WooCommerce. Read-only by default, human-approved writes."
+2026-11-13T23:03:40.809857Z,io.github.hundredthrun/gpu-cloud-prices,Hundredth Run GPU Cloud Prices,1.0.0,https://github.com/hundredthrun/gpu-cloud-prices,streamable-http,"Live public cloud GPU rental prices (H100, A100, L40S and more) across 20+ providers."
+2026-11-13T23:04:29.77697Z,com.little-works/discover,Little Works,1.0.0,,streamable-http,"Discover: source people by skill, projects, recipes, music, materials, book, doctors, requests."
+2026-11-13T23:07:43.238994Z,dev.workers.culturehub-kash.bank-risk-api/bank-risk-metrics,US Bank Risk Metrics,1.0.0,,streamable-http,"FDIC risk metrics for every US bank: CRE, uninsured deposits, securities losses. Paid via x402."
+2026-11-13T23:16:00.399392Z,io.github.heygen-com/hyperframes,HyperFrames by HeyGen,1.0.0,https://github.com/heygen-com/hyperframes,streamable-http,"Official HyperFrames by HeyGen: the best AI video editor in chat. Captions, motion graphics, MP4."
+2026-11-13T23:17:44.557293Z,com.veterans-rights/bva-corpus,,1.2.0,,streamable-http,"VA disability claims and appeals, grounded in Board of Veterans' Appeals decisions."
