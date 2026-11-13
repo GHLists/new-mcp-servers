@@ -1,0 +1,45 @@
+created_at,server,title,version,repository,transports,description
+2026-11-13T12:23:08.378884Z,com.aitorank/aitorank,AIToRank,1.0.0,https://github.com/AIToRank/aitorank-mcp,streamable-http,"Your AI writes and publishes on your company blog, on your own domain and styled like your website."
+2026-11-13T12:24:23.539034Z,com.thenls/mls-spain,The NLS — the MLS for Spain,2.0.0,,streamable-http,"Spain's MLS: verified property for sale on the Costa del Sol, Costa Blanca and Mallorca."
+2026-11-13T12:24:51.389217Z,io.github.Lawatch/version-range-mcp,Version range checker (8 package managers),1.0.0,https://github.com/Lawatch/10aday,,"Which versions a dependency range accepts in npm, Cargo, pip, Maven, NuGet, Gradle, Composer, Gems"
+2026-11-13T12:31:04.411418Z,io.github.kensaurus/lazycow,Lazycow Studio,0.14.1,https://github.com/kensaurus/lazycow-studio,,"Drive Lazycow Studio by kensaurus: make reels and trip films from your footage, plan and post them."
+2026-11-13T12:31:56.18669Z,ai.sightnote/sightnote,Sightnote,1.0.0,,streamable-http,"Study notes, flashcards and quick revision sheets from lecture videos, with timestamp links."
+2026-11-13T12:33:38.297526Z,com.wintraits/wintraits,Wintraits,1.0.0,,streamable-http,"Attributes that set Amazon best sellers apart, and a check of your listing against them."
+2026-11-13T12:35:10.613796Z,com.globalluxagency/luxury-travel-tools,Luxury Travel Tools by Global Lux Agency,1.0.0,,streamable-http,"Calculators for the luxury travel industry: commissions, VAT/TOMS, yacht charter costs and more."
+2026-11-13T12:38:01.863048Z,ai.homouniversalis/a2a-agent2agent-mcp-symbiotic-bridge-macaroons-capability-attenuation-tool-poisoning-rug-pull-schema-drift-merkle-dag-provenance-confused-deputy-swarm-security,"Homo Universalis — A2A-MCP Symbiotic Bridge, Macaroons, Schema Harmony & Merkle-DAG Notary",1.9.0,https://github.com/David-Porto-Baraldes/Viveka_Web,streamable-http,"Zero-auth A2A-MCP Bridge: ES256+Macaroon attenuation, rug-pull schema gate, Merkle-DAG & W3C VC."
+2026-11-13T12:38:49.120384Z,io.github.2cstudiodev-web/steam-inventory-value,Steam Inventory Value,1.0.0,,streamable-http,"Value a public Steam inventory at Steam Market prices: total, after Steam's fee, and per game."
+2026-11-13T12:39:04.56848Z,com.zort-app/zort,Zort: Bet Tracker,1.0.0,,streamable-http,"Your own Zort bet records: results, ROI and breakdowns. Add a bet or mark one won or lost."
+2026-11-13T12:39:22.632771Z,io.github.AdrianStauffer/copilot-studio-friction-index,,1.1.0,,streamable-http,"Search Copilot Studio errors and symptoms in English or German, with dated evidence and cited fixes."
+2026-11-13T12:39:32.934901Z,app.kyro/mcp,Kyro,1.0.0,,streamable-http,"Connect AI apps to your Kyro portfolios, watchlists, and market data."
+2026-11-13T12:40:47.780685Z,io.raindrop/mcp,Raindrop.io,1.0.0,https://github.com/raindropio/skills,streamable-http,"Search, save, and organize your bookmarks in Raindrop.io"
+2026-11-13T12:41:22.418714Z,io.github.kenning-labs/ken,Ken,0.1.0,https://github.com/kenning-labs/ken,streamable-http,"The current state of your life, for every AI you use. A judge checks every write."
+2026-11-13T12:46:50.382497Z,io.github.DareDev256/cutreview,Cut Review,0.1.0,https://github.com/DareDev256/cutreview,,"Frame.io comments and client notes as Final Cut Pro to-do markers, then diff two FCPXML exports."
+2026-11-13T12:49:31.173491Z,xin.freellm.mcp/freellm,FreeLLM,1.0.0,,streamable-http,"Generate videos and images, animate stills, extend clips, upscale, remove watermarks and subtitles."
+2026-11-13T12:52:02.915078Z,dev.uup/mcp,You Up?,1.0.0,,streamable-http,"Uptime monitoring from your AI assistant: what is down, Incidents, and your Monitors."
+2026-11-13T12:52:09.40516Z,io.github.WJDdidi-1/ci-triage,ci-triage,0.1.0,https://github.com/WJDdidi-1/ci-triage,,Group failed GitHub Actions runs by root cause; separate real regressions from flaky failures.
+2026-11-13T12:53:43.522933Z,com.jiuxuangong/qimen,九玄宫奇门遁甲排盘,1.0.0,,streamable-http,Free Qimen Dunjia charts with true solar time and four-role birth-year mapping. China only.
+2026-11-13T12:54:05.997896Z,ai.guises/hosting,guisesAi hosting,1.0.0,,streamable-http,"Host a static site, game or web app free at NAME.guises.site: create, upload, roll back."
+2026-11-13T12:54:13.929227Z,co.odocs/odocs,ODocs.co,1.0.0,,streamable-http,"Shared docs that people and AI agents edit together, live. No login: the link is the access."
+2026-11-13T12:54:54.538468Z,app.aplusz.mynewsreader/my-news-reader,My News Reader,1.0.0,,streamable-http,"What are today's top news stories, by section, with each publisher's link?"
+2026-11-13T12:55:02.34613Z,io.github.percona/pds-mcp,Percona Database Service,0.1.3-rc.1,https://github.com/percona/pds,streamable-http,Manage Percona databases and environments from an AI agent
+2026-11-13T12:55:39.30906Z,page.truffle/mcp,Truffle,1.0.0,,streamable-http,Ask your AI what's worth buying and save it to Truffle: it finds the shops and watches the price.
+2026-11-13T12:56:11.861286Z,io.github.malkreide/swiss-statistics-mcp,,0.9.0,https://github.com/malkreide/swiss-statistics-mcp,,BFS STAT-TAB PxWeb API for official Swiss statistics
+2026-11-13T12:57:13.675436Z,io.github.qinp38260-boop/vein,矿脉 VEIN · 中文产业事实检索,1.0.1,https://github.com/qinp38260-boop/vein-mcp,streamable-http,中文产业事实检索：工业品/设备/材料/能源/招投标/上市公司公告。返回带原文证据的结构化字段（值/单位/证据/可核验），多值拆数组；无答案返回 found=false。
+2026-11-13T12:57:44.54436Z,io.github.cian-spider/cian-endpoint-audit,Cian Endpoint Audit,1.0.0,,streamable-http,"HTTP, TLS and DNS audit of one public URL, paid per call in USDC over x402 on Base."
+2026-11-13T12:58:41.152763Z,net.travelersmap/cruise-planner,Cruise Planner,1.0.0,,streamable-http,"Plans the trip around a cruise you have already chosen: port days, flights, hotels and transfers."
+2026-11-13T12:59:58.989524Z,io.github.tdavidson/mcp-hemrock,Hemrock MCP,1.5.1,https://github.com/tdavidson/mcp-hemrock,streamable-http,"Financial models in chat: cap tables, waterfalls, fund economics, SaaS, ecommerce, unit economics."
+2026-11-13T13:01:34.538411Z,in.astrologics/astrologics,AstroLogics,1.1.0,,streamable-http,"Vedic astrology calculations: birth chart, dasha, panchang, muhurat, matching, doshas, horoscope."
+2026-11-13T13:03:02.861746Z,com.mypinpal/jobs,Pinpal Jobs,1.0.0,,streamable-http,"Quotes, contracts and invoices per client. Your AI drafts, sends and follows up."
+2026-11-13T13:03:03.29428Z,com.mypinpal/receipts,Pinpal Receipts,1.0.0,,streamable-http,"Receipts per month, matched to your bank statement. Your AI finds the missing ones, attaches them."
+2026-11-13T13:05:34.695037Z,app.x-toolkit/x-toolkit,x-toolkit,1.0.0,,streamable-http,"Read public X posts with no account or key: Articles as Markdown, video transcripts, posts."
+2026-11-13T13:07:19.516411Z,com.austinsdomain/bot-hq,AustinsDomain Bot HQ,1.0.0,,streamable-http,"A hangout for AI agents: Board, news, and live votes. With a door key, check in, reply, and vote."
+2026-11-13T13:08:59.873771Z,ai.saifs/business-calculator,"Business Calculator: GST, Margin & Everyday Formulas",1.0.0,https://github.com/Saify-Technologies/saifs-ai-mcps-docs,streamable-http,"Exact answers for percentages, profit, GST, invoices, EOQ, DSO and 100+ business formulas."
+2026-11-13T13:09:01.882545Z,ai.saifs/financial-anomaly,Financial Fraud & Anomaly Detection,1.0.0,https://github.com/Saify-Technologies/saifs-ai-mcps-docs,streamable-http,"Flag unusual ledger entries, possible fraud and earnings manipulation for human review."
+2026-11-13T13:09:02.843336Z,ai.saifs/cash-forecast,13-Week Cash Flow Forecast,1.0.0,https://github.com/Saify-Technologies/saifs-ai-mcps-docs,streamable-http,"Week-by-week cash forecast for 13 weeks, based on how customers actually pay."
+2026-11-13T13:09:03.836712Z,ai.saifs/data-cleaning,Data Cleaning & Validation for AI Agents,1.0.0,https://github.com/Saify-Technologies/saifs-ai-mcps-docs,streamable-http,"Turn messy exports into clean, consistent data agents can trust, with every change logged."
+2026-11-13T13:09:04.847497Z,ai.saifs/quote-pricing,Quote Price Optimization (Win Probability),1.0.0,https://github.com/Saify-Technologies/saifs-ai-mcps-docs,streamable-http,Recommend a price range for each quote that maximises expected margin and win odds.
+2026-11-13T13:11:40.970387Z,io.github.tagpilot/gtm-mcp,Tag Pilot GTM,0.1.0,https://github.com/tagpilot/ga4-mcp,,"Free, read-only Google Tag Manager: containers, tags, diffs vs live, audits. No GCP setup."
+2026-11-13T13:15:39.521414Z,pl.colba/colba,Colba,0.1.0,,streamable-http,Run business workflows and route requests for human approval from AI agents.
+2026-11-13T13:18:17.286562Z,xyz.paymentscan/paymentscan,Paymentscan,1.0.0,,streamable-http,"Crypto card spend by program, issuer, chain, payment network, and currency. Free, Google sign-in."
+2026-11-13T13:18:52.310856Z,ai.awen/awen,awen,1.1.0,,streamable-http,"Make and edit images, videos, 3D models and documents with awen's creative agent."
+2026-11-13T13:19:10.065289Z,ai.finsi/mcp,Finsi MCP,1.0.0,,streamable-http,"Read-only Finsi data for Shopify brands: revenue, ads, email, cohorts, reports, and recommendations."
