@@ -9,28 +9,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 10:19 UTC
+## Latest list — 2026-11-13 11:20 UTC
 
-New MCP servers published between 2026-11-13 09:19 UTC and 2026-11-13 10:19 UTC.
+New MCP servers published between 2026-11-13 10:19 UTC and 2026-11-13 11:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-13T10-19-26-401684Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-13T11-20-28-686469Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-13 09:21:16 | online.extremis/extremis | Extremis | 1.1.0 | Team inbox for WhatsApp, Instagram, Messenger and email: read, reply, assign an… |
-| 2026-11-13 09:24:31 | [io.github.justadityaraj/amazon-in-mcp-server](https://github.com/justadityaraj/amazon-in-mcp) | Amazon.in MCP Server | 0.1.4 | Search Amazon.in: cheapest in-stock, best-value picks, product details, Keepa p… |
-| 2026-11-13 09:27:57 | com.arstdata/valuation | ARST Data | 1.0.0 | Used car and van market value and 6-72 month residual values in 14 European cou… |
-| 2026-11-13 09:34:11 | [io.github.ucoz-skills/ucoz-mcp](https://github.com/ucoz-skills/ucoz-mcp) | uCoz | 2.3.0 | Manage uCoz sites from an AI assistant: templates, content, shop, users, and fi… |
-| 2026-11-13 09:39:07 | [io.github.juw12/cairn](https://github.com/juw12/cairn) | Cairn | 1.0.0 | Second brain as plain Markdown in your repo: search, notes, capture, journal, t… |
-| 2026-11-13 09:39:13 | [io.github.juw12/precedent](https://github.com/juw12/precedent) | precedent | 3.3.0 | Checks an AI coding agent's "I can't" and "done" claims against evidence. |
-| 2026-11-13 09:39:19 | [io.github.taux-io/carbon-mcp](https://github.com/taux-io/carbon-mcp) | Taiwan Carbon Open Data (Unofficial) | 0.2.2 | Unofficial. Taiwan government emission factors for AI: electricity, fuels, refr… |
-| 2026-11-13 09:39:51 | io.github.jmoret/linkevio | Linkevio | 1.0.2 | Shared team knowledge: search, read and update project documents with per-user… |
-| 2026-11-13 09:55:18 | dev.runningcat/geo | Running Cat Geo | 1.0.0 | Query OpenStreetMap with Overpass QL, find stops along routes, and get weather… |
-| 2026-11-13 10:01:27 | io.extracthub/extracthub | ExtractHub | 1.0.0 | Run versioned web scrapers on any URL and get JSON. Build, test and release the… |
-| 2026-11-13 10:03:24 | [io.github.Geornaden/aba-cemtex-direct-entry-mcp](https://github.com/Geornaden/finops-studio) | Australian ABA Direct Entry (.aba / Cem… | 1.0.0 | Generate 120-character Australian ABA Direct Entry (.aba) payroll & vendor file… |
-| 2026-11-13 10:03:25 | [io.github.Geornaden/iso20022-pain002-rejection-decoder-mcp](https://github.com/Geornaden/finops-studio) | ISO 20022 pain.002 Bank Rejection & Sta… | 1.0.0 | Parse ISO 20022 pain.002 XML bank status files and decode AC04, AM04, BE04 & MD… |
-| 2026-11-13 10:03:25 | [io.github.Geornaden/uk-bacs-standard18-payroll-mcp](https://github.com/Geornaden/finops-studio) | UK BACS Standard 18 (100-Char) Payroll… | 1.0.0 | Generate 100-character UK BACS Standard 18 files (VOL1/HDR1/UHL1/UTL1) for Barc… |
-| 2026-11-13 10:03:25 | [io.github.Geornaden/canada-cpa005-eft-payroll-mcp](https://github.com/Geornaden/finops-studio) | Canadian CPA-005 (1464-Byte) EFT Direct… | 1.0.0 | Generate 1464-byte Payments Canada Standard 005 (CPA-005) EFT files for RBC, TD… |
+| 2026-11-13 10:24:15 | [io.github.MiiKiyoshi/tex-mcp-web](https://github.com/MiiKiyoshi/tex-mcp-web) | tex-mcp-web | 0.8.2 | LaTeX paper review: comment on the PDF while an AI agent edits the source, with… |
+| 2026-11-13 10:26:42 | [app.5am/cli](https://github.com/digvan/5am-cli) | 5AM | 1.8.95 | Edit videos and photos, make Motion films and cut clips from your agent. Local… |
+| 2026-11-13 10:31:03 | io.github.klingai-dev/kling-ai | Kling AI | 1.0.0 | Generate images and videos with Kling AI through a remote MCP server using OAut… |
+| 2026-11-13 10:31:18 | com.oroboros-design.angel/tradesignal | TradeSignal Feed — crypto setups and ma… | 1.2.0 | Crypto trade setups, regime, funding, liquidations, order flow. Pay per call: U… |
+| 2026-11-13 10:34:50 | [ch.pfx/mcp-server](https://github.com/pitwch/pfx-mcp-server) |  | 1.1.13 | MCP Server für Forterro Proffix Px5 ERP |
+| 2026-11-13 10:36:30 | in.sovaria/sovaria | Sovaria | 1.1.1 | Sovaria backend: Postgres, auth, storage, functions, realtime, policies. OAuth;… |
+| 2026-11-13 10:37:22 | cz.getcortex.www/cortex | CORTEX | 1.0.0 | Planner, tasks, goals, habits and focus timer. Plan your day from Claude or Cha… |
+| 2026-11-13 10:37:58 | io.planzer/planzer | Planzer.io | 1.0.0 | Plan your day in Planzer.io: tasks, calendar time blocks, the inbox and timers. |
+| 2026-11-13 10:40:01 | io.github.foxhsiao/roadsafety-mcp | Taiwan Road Safety Data (Unofficial) | 0.1.0 | Unofficial. Taiwan road crash hotspots, school-zone crashes and speed-camera po… |
+| 2026-11-13 10:40:20 | [sh.pug/pug](https://github.com/pug-sh/pug) | Pug | 0.0.56 | Query events, funnels, retention and profiles in Pug product analytics, and bui… |
+| 2026-11-13 10:41:30 | ink.pando/pando |  | 0.1.0 | An outline your agent writes into, from anywhere. OAuth, 12 tools, free for 5,0… |
+| 2026-11-13 10:43:44 | com.gestello/gestello | Gestello | 1.0.0 | CRM gratuit pour indépendants : clients, dossiers, rendez-vous, tâches et notes… |
+| 2026-11-13 10:43:56 | com.traculo/traculo | Traculo | 1.0.0 | Read your Traculo web analytics from an AI assistant: visitors, pages, sources,… |
+| 2026-11-13 10:44:02 | com.mailnaptic/mailnaptic | Mailnaptic | 1.0.0 | Read Mailnaptic campaigns, lists, contacts and results and draft campaigns. Sen… |
+| 2026-11-13 10:44:13 | com.sleuthlens/sleuthlens | SleuthLens | 1.0.0 | Read-only tools for your own Pinterest results: weak pins, posts to pin next, p… |
+| 2026-11-13 10:44:55 | [io.github.hendrykcosta75/planejamais](https://github.com/hendrykcosta75/planejamais-codex-plugin) | Planeja+ | 1.0.8 | Strategic planning, Kanban tasks, meetings, reports and funding calls from Plan… |
+| 2026-11-13 10:47:18 | za.co.re5examprep/re5-copilot-mcp | RE5 & RE1 Co-Pilot FSCA Exam MCP | 2.0.0 | South African FSCA RE5 & RE1 statutory study guides, Moonstone pass calculator,… |
+| 2026-11-13 10:47:50 | com.onrender.kestrova-api/kestrova | Kestrova Solidity Security Scan | 0.5.0 | Free Slither scan of Solidity contracts for AI coding agents; optional paid rep… |
+| 2026-11-13 10:47:58 | [com.typeshoot/typeshoot](https://github.com/Tomolo997/typeshoot-marketplace) | Typeshoot | 1.0.0 | Images, video, voiceovers, music and editing inside Claude and ChatGPT, priced… |
+| 2026-11-13 10:49:05 | com.ortopedialowcost/ortopedia-catalog | Ortopedia Low Cost (Ortopedia Moliner —… | 1.2.0 | Catálogo ortopédico en España: medidas para ascensor, IVA 4% discapacidad y car… |
+| 2026-11-13 10:49:23 | com.ahumanforhire/ahfh | A Human For Hire | 1.0.1 | Hire a real human over x402: pay USDC on Solana, post tasks to a human desk, po… |
+| 2026-11-13 10:50:02 | [com.bunbird/bunbird](https://github.com/bunbird/plugins) | Bunbird | 0.2.0 | Build, preview and publish small web apps for a group of people from your AI as… |
+| 2026-11-13 10:51:05 | fr.mesloisirs/recherche | MesLoisirs — Things to do in France | 1.0.0 | Real things to do in France: activities, tours, spas, escape games. Read-only,… |
+| 2026-11-13 11:04:18 | [io.exploratory/exploratory-server](https://github.com/exploratory-io/exploratory) | Exploratory Server | 0.1.4 | Search and read notes, dashboards, charts, analytics and data published on Expl… |
+| 2026-11-13 11:06:56 | com.campiamo/campsites | Campiamo Campsites | 1.0.1 | Find, price and book independent campsites with live availability; guests pay t… |
+| 2026-11-13 11:07:45 | [com.starmani/starmani](https://github.com/BalaTN37/starmani-integrations) | StarMani | 0.2.0 | Vedic astrology calculations: birth charts, dashas, transits, compatibility and… |
+| 2026-11-13 11:07:49 | [io.github.gohyperdev/meteo-mcp-rs](https://github.com/gohyperdev/meteo-mcp-rs) | Meteo | 0.1.1 | Rust-native Open-Meteo MCP server with an interactive MCP App weather & air qua… |
+| 2026-11-13 11:08:06 | com.forwardsmith/buyer-desk | Forwardsmith buyer desk (read-only) | 1.0.0 | Read-only desk for buyers and assistants: offer, prices, fit check, readiness s… |
+| 2026-11-13 11:08:12 | io.github.klingai-dev/kling-ai-cn | 可灵 AI（中国区） / Kling AI (China) | 1.0.0 | 可灵 AI 中国区：通过 OAuth 连接国内账号，生成图片和视频、查询任务与积分。生成消耗该账号的积分。 |
+| 2026-11-13 11:11:30 | uk.co.complitas/mcp | Complitas | 1.1.0 | UK building-safety compliance: audits, CompliScore risk, expiries, maintenance,… |
+| 2026-11-13 11:15:12 | com.kenjtec/kenjtec | KENJTEC | 1.0.0 | Build and publish websites, manage DNS, invoices and media in your KENJTEC acco… |
+| 2026-11-13 11:15:15 | [io.github.jarm-dev/gymlog](https://github.com/jarm-dev/gymlog-mcp) | GymLog | 1.0.0 | Strength training log: read your workouts, stats and gyms, and plan, log or edi… |
+| 2026-11-13 11:16:04 | com.usepoplar/poplar | Poplar Social Media Scheduler | 1.0.0 | Write, schedule and measure social posts in your brand voice, with approvals. |
+| 2026-11-13 11:19:42 | com.bearingstats/bearing | Bearing | 2026.11.13 | Cookie-free web analytics MCP server: read stats, create UTM links, goals and a… |
 
 ## Data source
 
