@@ -9,48 +9,59 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 11:20 UTC
+## Latest list — 2026-11-13 12:19 UTC
 
-New MCP servers published between 2026-11-13 10:19 UTC and 2026-11-13 11:20 UTC.
+New MCP servers published between 2026-11-13 11:20 UTC and 2026-11-13 12:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-13T11-20-28-686469Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-13T12-19-58-878582Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-13 10:24:15 | [io.github.MiiKiyoshi/tex-mcp-web](https://github.com/MiiKiyoshi/tex-mcp-web) | tex-mcp-web | 0.8.2 | LaTeX paper review: comment on the PDF while an AI agent edits the source, with… |
-| 2026-11-13 10:26:42 | [app.5am/cli](https://github.com/digvan/5am-cli) | 5AM | 1.8.95 | Edit videos and photos, make Motion films and cut clips from your agent. Local… |
-| 2026-11-13 10:31:03 | io.github.klingai-dev/kling-ai | Kling AI | 1.0.0 | Generate images and videos with Kling AI through a remote MCP server using OAut… |
-| 2026-11-13 10:31:18 | com.oroboros-design.angel/tradesignal | TradeSignal Feed — crypto setups and ma… | 1.2.0 | Crypto trade setups, regime, funding, liquidations, order flow. Pay per call: U… |
-| 2026-11-13 10:34:50 | [ch.pfx/mcp-server](https://github.com/pitwch/pfx-mcp-server) |  | 1.1.13 | MCP Server für Forterro Proffix Px5 ERP |
-| 2026-11-13 10:36:30 | in.sovaria/sovaria | Sovaria | 1.1.1 | Sovaria backend: Postgres, auth, storage, functions, realtime, policies. OAuth;… |
-| 2026-11-13 10:37:22 | cz.getcortex.www/cortex | CORTEX | 1.0.0 | Planner, tasks, goals, habits and focus timer. Plan your day from Claude or Cha… |
-| 2026-11-13 10:37:58 | io.planzer/planzer | Planzer.io | 1.0.0 | Plan your day in Planzer.io: tasks, calendar time blocks, the inbox and timers. |
-| 2026-11-13 10:40:01 | io.github.foxhsiao/roadsafety-mcp | Taiwan Road Safety Data (Unofficial) | 0.1.0 | Unofficial. Taiwan road crash hotspots, school-zone crashes and speed-camera po… |
-| 2026-11-13 10:40:20 | [sh.pug/pug](https://github.com/pug-sh/pug) | Pug | 0.0.56 | Query events, funnels, retention and profiles in Pug product analytics, and bui… |
-| 2026-11-13 10:41:30 | ink.pando/pando |  | 0.1.0 | An outline your agent writes into, from anywhere. OAuth, 12 tools, free for 5,0… |
-| 2026-11-13 10:43:44 | com.gestello/gestello | Gestello | 1.0.0 | CRM gratuit pour indépendants : clients, dossiers, rendez-vous, tâches et notes… |
-| 2026-11-13 10:43:56 | com.traculo/traculo | Traculo | 1.0.0 | Read your Traculo web analytics from an AI assistant: visitors, pages, sources,… |
-| 2026-11-13 10:44:02 | com.mailnaptic/mailnaptic | Mailnaptic | 1.0.0 | Read Mailnaptic campaigns, lists, contacts and results and draft campaigns. Sen… |
-| 2026-11-13 10:44:13 | com.sleuthlens/sleuthlens | SleuthLens | 1.0.0 | Read-only tools for your own Pinterest results: weak pins, posts to pin next, p… |
-| 2026-11-13 10:44:55 | [io.github.hendrykcosta75/planejamais](https://github.com/hendrykcosta75/planejamais-codex-plugin) | Planeja+ | 1.0.8 | Strategic planning, Kanban tasks, meetings, reports and funding calls from Plan… |
-| 2026-11-13 10:47:18 | za.co.re5examprep/re5-copilot-mcp | RE5 & RE1 Co-Pilot FSCA Exam MCP | 2.0.0 | South African FSCA RE5 & RE1 statutory study guides, Moonstone pass calculator,… |
-| 2026-11-13 10:47:50 | com.onrender.kestrova-api/kestrova | Kestrova Solidity Security Scan | 0.5.0 | Free Slither scan of Solidity contracts for AI coding agents; optional paid rep… |
-| 2026-11-13 10:47:58 | [com.typeshoot/typeshoot](https://github.com/Tomolo997/typeshoot-marketplace) | Typeshoot | 1.0.0 | Images, video, voiceovers, music and editing inside Claude and ChatGPT, priced… |
-| 2026-11-13 10:49:05 | com.ortopedialowcost/ortopedia-catalog | Ortopedia Low Cost (Ortopedia Moliner —… | 1.2.0 | Catálogo ortopédico en España: medidas para ascensor, IVA 4% discapacidad y car… |
-| 2026-11-13 10:49:23 | com.ahumanforhire/ahfh | A Human For Hire | 1.0.1 | Hire a real human over x402: pay USDC on Solana, post tasks to a human desk, po… |
-| 2026-11-13 10:50:02 | [com.bunbird/bunbird](https://github.com/bunbird/plugins) | Bunbird | 0.2.0 | Build, preview and publish small web apps for a group of people from your AI as… |
-| 2026-11-13 10:51:05 | fr.mesloisirs/recherche | MesLoisirs — Things to do in France | 1.0.0 | Real things to do in France: activities, tours, spas, escape games. Read-only,… |
-| 2026-11-13 11:04:18 | [io.exploratory/exploratory-server](https://github.com/exploratory-io/exploratory) | Exploratory Server | 0.1.4 | Search and read notes, dashboards, charts, analytics and data published on Expl… |
-| 2026-11-13 11:06:56 | com.campiamo/campsites | Campiamo Campsites | 1.0.1 | Find, price and book independent campsites with live availability; guests pay t… |
-| 2026-11-13 11:07:45 | [com.starmani/starmani](https://github.com/BalaTN37/starmani-integrations) | StarMani | 0.2.0 | Vedic astrology calculations: birth charts, dashas, transits, compatibility and… |
-| 2026-11-13 11:07:49 | [io.github.gohyperdev/meteo-mcp-rs](https://github.com/gohyperdev/meteo-mcp-rs) | Meteo | 0.1.1 | Rust-native Open-Meteo MCP server with an interactive MCP App weather & air qua… |
-| 2026-11-13 11:08:06 | com.forwardsmith/buyer-desk | Forwardsmith buyer desk (read-only) | 1.0.0 | Read-only desk for buyers and assistants: offer, prices, fit check, readiness s… |
-| 2026-11-13 11:08:12 | io.github.klingai-dev/kling-ai-cn | 可灵 AI（中国区） / Kling AI (China) | 1.0.0 | 可灵 AI 中国区：通过 OAuth 连接国内账号，生成图片和视频、查询任务与积分。生成消耗该账号的积分。 |
-| 2026-11-13 11:11:30 | uk.co.complitas/mcp | Complitas | 1.1.0 | UK building-safety compliance: audits, CompliScore risk, expiries, maintenance,… |
-| 2026-11-13 11:15:12 | com.kenjtec/kenjtec | KENJTEC | 1.0.0 | Build and publish websites, manage DNS, invoices and media in your KENJTEC acco… |
-| 2026-11-13 11:15:15 | [io.github.jarm-dev/gymlog](https://github.com/jarm-dev/gymlog-mcp) | GymLog | 1.0.0 | Strength training log: read your workouts, stats and gyms, and plan, log or edi… |
-| 2026-11-13 11:16:04 | com.usepoplar/poplar | Poplar Social Media Scheduler | 1.0.0 | Write, schedule and measure social posts in your brand voice, with approvals. |
-| 2026-11-13 11:19:42 | com.bearingstats/bearing | Bearing | 2026.11.13 | Cookie-free web analytics MCP server: read stats, create UTM links, goals and a… |
+| 2026-11-13 11:22:17 | [io.github.bitmap22/agent-blockhall](https://github.com/bitmap22/my-ordinal-portal) | Agent Blockhall | 1.0.0 | Free Bitcoin catalogue for AI agents: blocks, inscriptions, trails, fee advice… |
+| 2026-11-13 11:24:36 | io.litak/mcp | Litak | 1.2.0 | Connect your Litak goals, habits, weekly plan and sleep with scoped OAuth or Be… |
+| 2026-11-13 11:26:51 | io.cruma/cruma | Cruma | 1.0.19 | Publish a local dev server or folder to a public URL over a Cruma tunnel. No ac… |
+| 2026-11-13 11:29:41 | com.formsunrise/forms | Formsunrise | 1.0.0 | Form backend for websites: create sites and forms, get form HTML and check subm… |
+| 2026-11-13 11:30:56 | [io.form/formio-uag](https://github.com/formio/uag) |  | 2.0.0 | The Universal Agent Gateway (UAG) enables in-process agentic automation using F… |
+| 2026-11-13 11:31:20 | io.github.nabrahma/mcp-ztgateway | MCP Zero-Trust Gateway | 0.5.3 | Security gateway: verifies what MCP servers really do, then confines each call.… |
+| 2026-11-13 11:31:43 | [io.github.CryptoAPIs-io/mcp-address-history](https://github.com/CryptoAPIs-io/cryptoapis-mcp-address-history) |  | 0.5.0 | MCP server for full transaction and token history on EVM and UTXO addresses via… |
+| 2026-11-13 11:31:43 | [io.github.CryptoAPIs-io/mcp-address-latest](https://github.com/CryptoAPIs-io/cryptoapis-mcp-address-latest) |  | 0.5.0 | MCP server for current balance and state of EVM, UTXO, Solana, XRP, Kaspa addre… |
+| 2026-11-13 11:31:43 | [io.github.CryptoAPIs-io/mcp-aml](https://github.com/CryptoAPIs-io/cryptoapis-mcp-aml) |  | 0.4.0 | MCP server for AML address verification, transaction screening, and exposure ch… |
+| 2026-11-13 11:31:44 | [io.github.CryptoAPIs-io/mcp-block-data](https://github.com/CryptoAPIs-io/cryptoapis-mcp-block-data) |  | 0.5.0 | MCP server for retrieving block-level data from EVM, UTXO, and XRP blockchains… |
+| 2026-11-13 11:31:44 | [io.github.CryptoAPIs-io/mcp-blockchain-events](https://github.com/CryptoAPIs-io/cryptoapis-mcp-blockchain-events) |  | 0.6.0 | MCP server for subscribing to and managing on-chain event webhooks via Crypto A… |
+| 2026-11-13 11:31:44 | [io.github.CryptoAPIs-io/mcp-blockchain-fees](https://github.com/CryptoAPIs-io/cryptoapis-mcp-blockchain-fees) |  | 0.6.0 | MCP server for fee recommendations and gas estimation on EVM, UTXO, XRP, Tezos,… |
+| 2026-11-13 11:31:45 | [io.github.CryptoAPIs-io/mcp-broadcast](https://github.com/CryptoAPIs-io/cryptoapis-mcp-broadcast) |  | 0.6.0 | MCP server for broadcasting signed raw transactions to multiple blockchains via… |
+| 2026-11-13 11:31:45 | [io.github.CryptoAPIs-io/mcp-contracts](https://github.com/CryptoAPIs-io/cryptoapis-mcp-contracts) |  | 0.5.0 | MCP server for smart contract ABIs and on-chain data from EVM and Solana via Cr… |
+| 2026-11-13 11:31:45 | [io.github.CryptoAPIs-io/mcp-hd-wallet](https://github.com/CryptoAPIs-io/cryptoapis-mcp-hd-wallet) |  | 0.5.0 | MCP server for HD wallet management, balance, and sync on EVM, UTXO, XRP via Cr… |
+| 2026-11-13 11:31:45 | [io.github.CryptoAPIs-io/mcp-market-data](https://github.com/CryptoAPIs-io/cryptoapis-mcp-market-data) |  | 0.5.0 | MCP server for cryptocurrency asset prices, exchange rates, and market metadata… |
+| 2026-11-13 11:31:46 | [io.github.CryptoAPIs-io/mcp-prepare-transactions](https://github.com/CryptoAPIs-io/cryptoapis-mcp-prepare-transactions) |  | 0.6.0 | MCP server for building unsigned transactions on EVM, Tezos, Solana, Kaspa, XRP… |
+| 2026-11-13 11:31:46 | [io.github.CryptoAPIs-io/mcp-signer](https://github.com/CryptoAPIs-io/cryptoapis-mcp-signer) |  | 0.6.1 | Local transaction signing for EVM, UTXO, Tron, XRP, Kaspa, Solana and Tezos — n… |
+| 2026-11-13 11:31:46 | [io.github.CryptoAPIs-io/mcp-simulate](https://github.com/CryptoAPIs-io/cryptoapis-mcp-simulate) |  | 0.5.0 | MCP server for dry-run Ethereum transaction simulation via Crypto APIs |
+| 2026-11-13 11:31:46 | [io.github.CryptoAPIs-io/mcp-transactions-data](https://github.com/CryptoAPIs-io/cryptoapis-mcp-transactions-data) |  | 0.5.0 | MCP server for transaction lookup across EVM, UTXO, Solana, XRP, Kaspa via Cryp… |
+| 2026-11-13 11:31:47 | [io.github.CryptoAPIs-io/mcp-utils](https://github.com/CryptoAPIs-io/cryptoapis-mcp-utils) |  | 0.5.0 | MCP server for address derivation and encoding utilities across multiple blockc… |
+| 2026-11-13 11:31:47 | [io.github.CryptoAPIs-io/mcp-x402-pay](https://github.com/CryptoAPIs-io/cryptoapis-mcp-x402-pay) |  | 0.5.6 | MCP server that pays x402-gated HTTP endpoints — fetch, and on a 402 authorize,… |
+| 2026-11-13 11:35:26 | com.stmtai/stmtai | stmtai | 1.0.0 | Bank statement PDFs to Excel, CSV, QuickBooks, Xero or Tally, balance-checked.… |
+| 2026-11-13 11:36:02 | io.github.adeptads/adeptads-google-ads | AdeptAds Google Ads | 0.1.1 | Build and grow Google Ads with AdeptAds multi-agent workflows. |
+| 2026-11-13 11:38:34 | com.bindlegal/bind | Bind | 1.0.0 | Read-only access to your Bind legal workspace: search and read contracts, space… |
+| 2026-11-13 11:40:23 | com.grain64/clearbar | Clearbar model verdicts | 1.1.0 | Cheapest LLM that passes each task: cost per successful task and pass rate on p… |
+| 2026-11-13 11:40:28 | [io.usefulapi/loket-nl](https://github.com/m190/usefulapi-mcp) | Loket.nl MCP by usefulapi | 1.0.0 | Read employers, employees, absences, payroll administrations and workflows in L… |
+| 2026-11-13 11:41:57 | [com.arbituro/arbituro](https://github.com/writan-labs/arbituro-mcp) | Arbituro | 1.0.0 | Work Arbituro jobs from a coding agent: read the done-when, link the PR, claim… |
+| 2026-11-13 11:42:30 | net.digiadapt/adtech-intel | DigiAdapt AdTech Intel | 1.0.0 | Daily AdTech news briefing: DSP, SSP, CTV publisher and TV OEM developments, pl… |
+| 2026-11-13 11:50:23 | io.louez/louez | Louez | 1.0.0 | Run a rental store: bookings, catalog, customers, payments, deposits and store… |
+| 2026-11-13 11:50:54 | ru.vrntorg/catalog | ТоргТехника — каталог оборудования | 1.0.0 | Search professional kitchen and retail equipment at vrntorg.ru (Russia): produc… |
+| 2026-11-13 11:52:39 | ai.reaply.mcp/reaply | Reaply | 1.2.0 | Reviews from Google, Booking, Tripadvisor, TheFork, Uber Eats and 20+ sites: in… |
+| 2026-11-13 11:55:48 | ai.modulos/demo-booking | Modulos AI Governance Platform | 0.2.0 | Evaluate Modulos (EU AI Act, ISO 42001, NIST AI RMF): capabilities, trust, comp… |
+| 2026-11-13 11:56:51 | ai.bv7x/agents | bv7x strategy agents | 1.0.0 | Find bv7x prediction agents on Robinhood Chain by market; quote their sealed ca… |
+| 2026-11-13 11:58:06 | [space.code4/mcp](https://github.com/code4-space/mcp) | Code4 | 1.0.0 | Issues, code reviews, CI/CD, deployments, docs and team knowledge search in Cod… |
+| 2026-11-13 11:59:24 | ai.boomlink/boomlink | Boomlink | 0.0.1 | Build and host working websites from ChatGPT or Claude, with templates and a bu… |
+| 2026-11-13 11:59:42 | [io.github.deepchartai/cryptokly](https://github.com/deepchartai/DeepChart-AI) | Cryptokly | 1.0.0 | Crypto chart analysis: price, trend, support/resistance, RSI, volume, context.… |
+| 2026-11-13 12:00:51 | com.grain64/friction | Friction | 1.1.0 | Sourced pain points, feature requests, workarounds and switching reasons of B2B… |
+| 2026-11-13 12:01:32 | ai.echoo.www/public-catalog | Echoo public catalog | 1.0.0 | Read-only Echoo product facts, pricing, documentation and published writing ski… |
+| 2026-11-13 12:03:51 | com.koku-scripts/catalog | KOKU scripts Catalog | 1.0.0 | Read-only tools for the approved public KOKU SCRIPTS AI Catalog. |
+| 2026-11-13 12:06:54 | ai.seedara/mcp | Seedara | 1.0.0 | AI video, image and audio generation with 150+ AI models from any MCP agent |
+| 2026-11-13 12:09:27 | io.agiflow/agiflow | Agiflow | 0.0.1 | Project board for ChatGPT, Claude and coding agents, with scoped MCP access to… |
+| 2026-11-13 12:10:47 | ai.agimon/agimon | Agimon | 0.0.1 | Turn weekly product, sales and marketing evidence into typed focus, budget and… |
+| 2026-11-13 12:14:13 | [io.github.netbrisk/flekh](https://github.com/netbrisk/flekh-mcp-plugin) |  | 1.0.0 | Video review and approval for agents: upload renders, read frame-accurate feedb… |
+| 2026-11-13 12:17:18 | ai.echoteka/mastering |  | 0.5.0 | Audio mastering for AI agents: LUFS analysis, Suno artifact cleanup, free daily… |
 
 ## Data source
 

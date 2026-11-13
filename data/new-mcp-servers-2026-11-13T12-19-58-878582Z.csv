@@ -1,0 +1,46 @@
+created_at,server,title,version,repository,transports,description
+2026-11-13T11:22:17.166802Z,io.github.bitmap22/agent-blockhall,Agent Blockhall,1.0.0,https://github.com/bitmap22/my-ordinal-portal,,"Free Bitcoin catalogue for AI agents: blocks, inscriptions, trails, fee advice that scores itself"
+2026-11-13T11:24:36.190387Z,io.litak/mcp,Litak,1.2.0,,streamable-http,"Connect your Litak goals, habits, weekly plan and sleep with scoped OAuth or Bearer access."
+2026-11-13T11:26:51.648835Z,io.cruma/cruma,Cruma,1.0.19,,,Publish a local dev server or folder to a public URL over a Cruma tunnel. No account needed.
+2026-11-13T11:29:41.607697Z,com.formsunrise/forms,Formsunrise,1.0.0,,streamable-http,"Form backend for websites: create sites and forms, get form HTML and check submissions."
+2026-11-13T11:30:56.338395Z,io.form/formio-uag,,2.0.0,https://github.com/formio/uag,,The Universal Agent Gateway (UAG) enables in-process agentic automation using Form.io.
+2026-11-13T11:31:20.710765Z,io.github.nabrahma/mcp-ztgateway,MCP Zero-Trust Gateway,0.5.3,,,"Security gateway: verifies what MCP servers really do, then confines each call. Needs Docker."
+2026-11-13T11:31:43.510343Z,io.github.CryptoAPIs-io/mcp-address-history,,0.5.0,https://github.com/CryptoAPIs-io/cryptoapis-mcp-address-history,,MCP server for full transaction and token history on EVM and UTXO addresses via Crypto APIs
+2026-11-13T11:31:43.747122Z,io.github.CryptoAPIs-io/mcp-address-latest,,0.5.0,https://github.com/CryptoAPIs-io/cryptoapis-mcp-address-latest,,"MCP server for current balance and state of EVM, UTXO, Solana, XRP, Kaspa addresses via Crypto APIs"
+2026-11-13T11:31:43.996282Z,io.github.CryptoAPIs-io/mcp-aml,,0.4.0,https://github.com/CryptoAPIs-io/cryptoapis-mcp-aml,,"MCP server for AML address verification, transaction screening, and exposure checks via Crypto APIs"
+2026-11-13T11:31:44.267454Z,io.github.CryptoAPIs-io/mcp-block-data,,0.5.0,https://github.com/CryptoAPIs-io/cryptoapis-mcp-block-data,,"MCP server for retrieving block-level data from EVM, UTXO, and XRP blockchains via Crypto APIs"
+2026-11-13T11:31:44.458387Z,io.github.CryptoAPIs-io/mcp-blockchain-events,,0.6.0,https://github.com/CryptoAPIs-io/cryptoapis-mcp-blockchain-events,,MCP server for subscribing to and managing on-chain event webhooks via Crypto APIs
+2026-11-13T11:31:44.712909Z,io.github.CryptoAPIs-io/mcp-blockchain-fees,,0.6.0,https://github.com/CryptoAPIs-io/cryptoapis-mcp-blockchain-fees,,"MCP server for fee recommendations and gas estimation on EVM, UTXO, XRP, Tezos, Solana"
+2026-11-13T11:31:45.030269Z,io.github.CryptoAPIs-io/mcp-broadcast,,0.6.0,https://github.com/CryptoAPIs-io/cryptoapis-mcp-broadcast,,MCP server for broadcasting signed raw transactions to multiple blockchains via Crypto APIs
+2026-11-13T11:31:45.429899Z,io.github.CryptoAPIs-io/mcp-contracts,,0.5.0,https://github.com/CryptoAPIs-io/cryptoapis-mcp-contracts,,MCP server for smart contract ABIs and on-chain data from EVM and Solana via Crypto APIs
+2026-11-13T11:31:45.690873Z,io.github.CryptoAPIs-io/mcp-hd-wallet,,0.5.0,https://github.com/CryptoAPIs-io/cryptoapis-mcp-hd-wallet,,"MCP server for HD wallet management, balance, and sync on EVM, UTXO, XRP via Crypto APIs"
+2026-11-13T11:31:45.910377Z,io.github.CryptoAPIs-io/mcp-market-data,,0.5.0,https://github.com/CryptoAPIs-io/cryptoapis-mcp-market-data,,"MCP server for cryptocurrency asset prices, exchange rates, and market metadata via Crypto APIs"
+2026-11-13T11:31:46.114083Z,io.github.CryptoAPIs-io/mcp-prepare-transactions,,0.6.0,https://github.com/CryptoAPIs-io/cryptoapis-mcp-prepare-transactions,,"MCP server for building unsigned transactions on EVM, Tezos, Solana, Kaspa, XRP, UTXO, Tron"
+2026-11-13T11:31:46.339348Z,io.github.CryptoAPIs-io/mcp-signer,,0.6.1,https://github.com/CryptoAPIs-io/cryptoapis-mcp-signer,,"Local transaction signing for EVM, UTXO, Tron, XRP, Kaspa, Solana and Tezos — no API calls"
+2026-11-13T11:31:46.633705Z,io.github.CryptoAPIs-io/mcp-simulate,,0.5.0,https://github.com/CryptoAPIs-io/cryptoapis-mcp-simulate,,MCP server for dry-run Ethereum transaction simulation via Crypto APIs
+2026-11-13T11:31:46.836312Z,io.github.CryptoAPIs-io/mcp-transactions-data,,0.5.0,https://github.com/CryptoAPIs-io/cryptoapis-mcp-transactions-data,,"MCP server for transaction lookup across EVM, UTXO, Solana, XRP, Kaspa via Crypto APIs"
+2026-11-13T11:31:47.043713Z,io.github.CryptoAPIs-io/mcp-utils,,0.5.0,https://github.com/CryptoAPIs-io/cryptoapis-mcp-utils,,MCP server for address derivation and encoding utilities across multiple blockchains via Crypto APIs
+2026-11-13T11:31:47.315376Z,io.github.CryptoAPIs-io/mcp-x402-pay,,0.5.6,https://github.com/CryptoAPIs-io/cryptoapis-mcp-x402-pay,,"MCP server that pays x402-gated HTTP endpoints — fetch, and on a 402 authorize, sign, retry"
+2026-11-13T11:35:26.478486Z,com.stmtai/stmtai,stmtai,1.0.0,,streamable-http,"Bank statement PDFs to Excel, CSV, QuickBooks, Xero or Tally, balance-checked. Account needed."
+2026-11-13T11:36:02.037314Z,io.github.adeptads/adeptads-google-ads,AdeptAds Google Ads,0.1.1,,streamable-http,Build and grow Google Ads with AdeptAds multi-agent workflows.
+2026-11-13T11:38:34.872301Z,com.bindlegal/bind,Bind,1.0.0,,streamable-http; streamable-http,"Read-only access to your Bind legal workspace: search and read contracts, spaces and templates."
+2026-11-13T11:40:23.074653Z,com.grain64/clearbar,Clearbar model verdicts,1.1.0,,streamable-http,Cheapest LLM that passes each task: cost per successful task and pass rate on public datasets.
+2026-11-13T11:40:28.826675Z,io.usefulapi/loket-nl,Loket.nl MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read employers, employees, absences, payroll administrations and workflows in Loket.nl."
+2026-11-13T11:41:57.09845Z,com.arbituro/arbituro,Arbituro,1.0.0,https://github.com/writan-labs/arbituro-mcp,streamable-http,"Work Arbituro jobs from a coding agent: read the done-when, link the PR, claim what you checked."
+2026-11-13T11:42:30.388285Z,net.digiadapt/adtech-intel,DigiAdapt AdTech Intel,1.0.0,,streamable-http,"Daily AdTech news briefing: DSP, SSP, CTV publisher and TV OEM developments, plus a market signal."
+2026-11-13T11:50:23.003267Z,io.louez/louez,Louez,1.0.0,,streamable-http,"Run a rental store: bookings, catalog, customers, payments, deposits and store settings."
+2026-11-13T11:50:54.000502Z,ru.vrntorg/catalog,ТоргТехника — каталог оборудования,1.0.0,,streamable-http,"Search professional kitchen and retail equipment at vrntorg.ru (Russia): products, prices, links."
+2026-11-13T11:52:39.882529Z,ai.reaply.mcp/reaply,Reaply,1.2.0,,streamable-http,"Reviews from Google, Booking, Tripadvisor, TheFork, Uber Eats and 20+ sites: insights and replies"
+2026-11-13T11:55:48.960478Z,ai.modulos/demo-booking,Modulos AI Governance Platform,0.2.0,,streamable-http,"Evaluate Modulos (EU AI Act, ISO 42001, NIST AI RMF): capabilities, trust, comparisons. Book a demo."
+2026-11-13T11:56:51.525442Z,ai.bv7x/agents,bv7x strategy agents,1.0.0,,streamable-http,"Find bv7x prediction agents on Robinhood Chain by market; quote their sealed calls, sold via x402."
+2026-11-13T11:58:06.488141Z,space.code4/mcp,Code4,1.0.0,https://github.com/code4-space/mcp,streamable-http,"Issues, code reviews, CI/CD, deployments, docs and team knowledge search in Code4."
+2026-11-13T11:59:24.517286Z,ai.boomlink/boomlink,Boomlink,0.0.1,,streamable-http,"Build and host working websites from ChatGPT or Claude, with templates and a built-in database."
+2026-11-13T11:59:42.155581Z,io.github.deepchartai/cryptokly,Cryptokly,1.0.0,https://github.com/deepchartai/DeepChart-AI,streamable-http,"Crypto chart analysis: price, trend, support/resistance, RSI, volume, context. Not financial advice."
+2026-11-13T12:00:51.994962Z,com.grain64/friction,Friction,1.1.0,,streamable-http,"Sourced pain points, feature requests, workarounds and switching reasons of B2B software users."
+2026-11-13T12:01:32.330592Z,ai.echoo.www/public-catalog,Echoo public catalog,1.0.0,,streamable-http,"Read-only Echoo product facts, pricing, documentation and published writing skills."
+2026-11-13T12:03:51.845447Z,com.koku-scripts/catalog,KOKU scripts Catalog,1.0.0,,streamable-http,Read-only tools for the approved public KOKU SCRIPTS AI Catalog.
+2026-11-13T12:06:54.526549Z,ai.seedara/mcp,Seedara,1.0.0,,streamable-http,"AI video, image and audio generation with 150+ AI models from any MCP agent"
+2026-11-13T12:09:27.327601Z,io.agiflow/agiflow,Agiflow,0.0.1,,streamable-http,"Project board for ChatGPT, Claude and coding agents, with scoped MCP access to projects and tasks."
+2026-11-13T12:10:47.954992Z,ai.agimon/agimon,Agimon,0.0.1,,streamable-http,"Turn weekly product, sales and marketing evidence into typed focus, budget and metric decisions."
+2026-11-13T12:14:13.476524Z,io.github.netbrisk/flekh,,1.0.0,https://github.com/netbrisk/flekh-mcp-plugin,streamable-http,"Video review and approval for agents: upload renders, read frame-accurate feedback, ship versions."
+2026-11-13T12:17:18.420812Z,ai.echoteka/mastering,,0.5.0,,streamable-http,"Audio mastering for AI agents: LUFS analysis, Suno artifact cleanup, free daily master."
