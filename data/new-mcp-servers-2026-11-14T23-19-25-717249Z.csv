@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-11-14T22:21:53.855586Z,io.github.esoltys/luminous-mcp,Luminous Music Player,1.12.1,https://github.com/esoltys/luminous-mcp,,Model Context Protocol (MCP) server for Luminous Music Player
+2026-11-14T22:23:15.149595Z,io.github.0xroots/imessage-mcp,iMessage MCP,0.2.0,https://github.com/0xroots/imessage-mcp,,"Read, search and send iMessage on macOS without Full Disk Access. Needs the iMessage MCP app."
+2026-11-14T22:26:24.790474Z,com.valudati/site,Valudati,1.1.0,,streamable-http,"Value Engineering research: services, prices, after-tax yield and fee-drag calculators."
+2026-11-14T22:30:26.743358Z,com.projectvail/agent-assurance,VAIL Agent Assurance,0.1.0,https://github.com/projectvail/vail-agent-assurance,streamable-http,Scan an AI agent's instructions and tools for behavior risks and generate probes that test them.
+2026-11-14T22:41:00.615204Z,mx.veriko/veriko,Veriko,0.2.1,https://github.com/veriko-mx-labs/veriko-mcp,streamable-http,Verifica transferencias SPEI contra el CEP de Banxico y opera la API pública de Veriko.
+2026-11-14T22:43:24.599169Z,com.makbl/unmet-demand,MAKBL - Unmet Demand,6.2.0,,streamable-http,Report genuine unmet principal demand after supply research. QA-only evidence; no live commerce.
+2026-11-14T22:45:02.276788Z,io.github.MatthiasMAigner/tap2cal-mcp,Tap2Cal,1.0.0,https://github.com/MatthiasMAigner/tap2cal-mcp,streamable-http,"Turn events into shareable add-to-calendar links for Google, Apple and Outlook, with RSVPs."
+2026-11-14T22:45:31.479275Z,io.github.fernwaylabs/fixlight,Fixlight,1.0.0,,streamable-http,Checks a public web page for accessibility problems and explains each one in plain English.
+2026-11-14T22:45:44.896458Z,ru.bxmcp/bitrix,bxmcp — 1C-Bitrix site assistant,1.0.0,,streamable-http,"Manage a 1C-Bitrix website: prices, stock, products, SEO, texts, orders. Preview, confirm, undo."
+2026-11-14T22:46:55.678379Z,com.apaxas/apaxas,apaxas,1.1.0,,streamable-http,Reparte los gastos de un grupo y dice quién le debe a quién. Tu IA los ve y los apunta.
+2026-11-14T22:50:02.709528Z,io.github.mk-career-planning/jp-diet,Japan Diet Bill Tracker,0.2.0,,streamable-http,"Where is a bill in Japan's Diet now? Stages, dates, laws it amends and when, with source URLs."
+2026-11-14T22:55:02.804234Z,fit.splyt/splyt,Splyt,1.0.0,,streamable-http,"Read-only access to your Splyt workouts, records, training plan, habits and sleep."
+2026-11-14T23:02:25.329069Z,work.roow/roow,roow,1.0.0,,streamable-http,"Work with your database from AI tools: ask, export, approved changes, and scheduled jobs."
+2026-11-14T23:02:40.608436Z,com.rekvira/rekvira,Rekvira: EU regulation pinpoints for compliance AI,0.1.1,,streamable-http,EU regulation text and pinpoint citations for compliance research. Free account; native OAuth.
+2026-11-14T23:09:11.596031Z,io.github.mindstone/mcp-server-xero,Xero,0.1.2,https://github.com/mindstone/mcp-servers,,"Xero MCP server for invoices, contacts, payments, quotes, and financial reports."
+2026-11-14T23:17:22.776005Z,be.immoportaal/mcp,Immoportaal,1.0.0,,streamable-http,"Actueel Belgisch vastgoed te koop en te huur op immoportaal.be, incl. details en marktdata."
+2026-11-14T23:17:29.802969Z,com.decionis/mcp,,0.6.0,https://github.com/decionis/agent-safe-pipeline,streamable-http,Authorize consequential AI agent actions before execution
