@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-11-14T21:21:22.045932Z,app.vercel.chainshift-preview/korea-sets,Korea Sets — Korean-version K-beauty sets,0.2.0,,streamable-http,"Order requests for Korea-only K-beauty sets shipped to the US, Canada and Japan. No payment taken."
+2026-11-14T21:21:41.030271Z,app.orananalizbot/oran-analiz,Oran Analiz Bot,1.0.0,,streamable-http,"Football odds analysis: match odds, similar past matches by odds, odds changes, lineups."
+2026-11-14T21:27:42.079183Z,app.apunt/aranes,A punt · Aranese (Val d'Aran Occitan),1.0.0,,streamable-http,"Corrector, translator and dictionary for Aranese (aranés) following the IEA norm. Free, no key."
+2026-11-14T21:31:56.502377Z,com.waveleta/market-data,Waveleta Market Data,1.0.0,,streamable-http,"Read-only crypto, equities, FX and commodities market data. No trading tools. API key required."
+2026-11-14T21:38:18.404948Z,io.github.eneui/eneui-mcp,EneUI Catalogue,1.0.0,https://github.com/eneui/eneui-mcp,streamable-http,"Search 109k UI components and 1,556 blocks with licence evidence. Ask before you ship."
+2026-11-14T21:38:41.342283Z,com.chironmemory/chiron,Chiron,0.15.4,https://github.com/Mad-Science-Software/chiron-beta,streamable-http,Shared team memory for AI assistants. Private by default; teammates see only what you choose.
+2026-11-14T21:42:39.036971Z,com.housingcomps/compbasis,CompBasis,1.0.0,,streamable-http,"Comp-supported value range, post-sale tax and risks for one US home (IL, MI, MO, NY, TX)."
+2026-11-14T21:45:11.410274Z,com.opennash.podcasts/opennash-podcasts,OpenNash Podcasts,1.2.0,,streamable-http,"Search transcripts and sourced quotes from business and tech podcasts. Read-only, no key."
+2026-11-14T21:46:00.008151Z,io.github.SmarthomeNinja/myio-mcp,myIO,1.6.1,https://github.com/SmarthomeNinja/myio-mcp,,"Read and control a myIO smart home controller: heating, lighting, blinds and energy."
+2026-11-14T22:01:10.285151Z,com.halpii/directorio,HALPII,0.1.0,,streamable-http,"Directorio público de profesionales de oficios en Latinoamérica: buscar, ver perfiles y oficios."
+2026-11-14T22:01:10.818926Z,com.halpii/latam-tax-api,Peru RUC Check,0.1.0,,streamable-http,"Validate Peru company tax IDs (RUC) against SUNAT's public registry: status, address, verdict."
+2026-11-14T22:02:24.781549Z,com.danielsdesignstudio/services,Daniels AI Design Studio,1.0.0,,streamable-http,"Request Daniels AI Design Studio services, starting with ChatGPT Business setup."
+2026-11-14T22:02:34.952584Z,uk.co.signafaide/signafaide,signafAIde,0.3.1,https://github.com/AIME-TECH-UK-LIMITED/signafaide-sdk,,"Signed, tamper-evident records of AI agent tool calls: set up, record, verify and check coverage."
+2026-11-14T22:08:52.696822Z,com.kantrom/reino,Kingdom of Kantrom,1.0.0,,streamable-http,"Digital state for humans and AIs: x402 timestamp seals (USDC), Official Gazette, AI registry"
+2026-11-14T22:10:15.151432Z,space.usocial/vector-abyss,Vector Abyss,1.0.0,,streamable-http,Tempest-style 3D vector tube shooter. Agents vs humans on one shared top 100.
+2026-11-14T22:10:15.389366Z,space.usocial/vector-defence,Vector Defence,1.0.0,,streamable-http,Missile Command-style vector defence. Agents vs humans on one shared top 100.
+2026-11-14T22:10:15.625527Z,space.usocial/vector-alienspace,Vector Alienspace,1.0.0,,streamable-http,Galaga-style vector space shooter. Agents vs humans on one shared top 100.
+2026-11-14T22:10:15.864713Z,space.usocial/vectoroids,Vectoroids,1.0.0,,streamable-http,First-person 3D vector asteroids. Agents vs humans on one shared top 100.
+2026-11-14T22:11:32.294918Z,ai.therunup.index/agent-bookability-index,Agent Bookability Index,0.1.0,,streamable-http,"NYC-area event vendor prices, areas and booking options, each sourced from the vendor's own site."
+2026-11-14T22:11:33.007912Z,com.kit-rx.api/kitrx,Kit Rx,1.0.0,,streamable-http,"Pay-per-call FDA drug, NDC, NADAC price, domain, address and email data tools (x402 USDC)"
+2026-11-14T22:12:14.930149Z,io.github.Suawave-Payment-System/suawave-mcp,Suawave,1.0.1,https://github.com/Suawave-Payment-System/suawave,,"Create and track stablecoin payments, convert amounts and read the docs of the Suawave API."
+2026-11-14T22:12:26.148754Z,hu.creatit/figyelo,Figyelő – Hungarian and EU public procurement,1.33.0,,streamable-http,"Search Hungarian and EU public procurement notices (EKR, TED, municipalities) with deadlines."
+2026-11-14T22:18:33.635415Z,io.github.prooflinedev/proofline,Proofline,0.1.0,,streamable-http,"Read Proofline review status, findings and review guidance, and request or rerun reviews."
+2026-11-14T22:19:08.999568Z,com.inklinkapp/inklink,inklink,1.0.0,,streamable-http,"Your reading life: what you're reading, your library, history and recommendations."
