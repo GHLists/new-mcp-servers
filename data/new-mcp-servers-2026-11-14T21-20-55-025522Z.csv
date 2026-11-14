@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-11-14T20:21:46.302243Z,io.github.ghost-in-the-droid/android-agent,Ghost in the Droid,1.6.0,https://github.com/ghost-in-the-droid/android-agent,,"Give any AI agent a real Android phone or iPhone. 66 MCP tools, 117 hub skills, human in the loop."
+2026-11-14T20:22:37.692193Z,io.github.zzvllvzz/easyeda-mcp,EasyEDA MCP,0.1.0,https://github.com/zzvllvzz/easyeda-mcp,,"Read and draw EasyEDA Pro schematics and PCBs through a bridge extension, with guarded edits."
+2026-11-14T20:25:41.066289Z,com.lanecost/freight-rates,Lane Cost freight rates,1.0.0,,streamable-http,"US truckload rate estimates for any lane, 8 truck types, with history since 2003. No key needed."
+2026-11-14T20:26:12.472493Z,io.github.kerne-protocol/honesty-index,Kerne,2.0.0,https://github.com/kerne-protocol/honesty-index-mcp,streamable-http,"Read-only Kerne data on Base: signed reserves, signed stock quote, quote checks, vault state."
+2026-11-14T20:28:25.644894Z,io.github.thekuwayama/el-mcp-server,el-mcp-server,20261114,https://github.com/thekuwayama/el-mcp-server,,ECHONET Lite の仕様検索・LAN 内機器の取得/操作・認証製品検索を提供する MCP サーバー
+2026-11-14T20:35:47.517232Z,io.github.Nomad07/arcagents-mcp,,1.0.0,https://github.com/Nomad07/arcagents-mcp,,Arc Agents MCP: ERC-8004 agent data from Arc Mainnet. $0.002 USDC per successful request via x402.
+2026-11-14T20:38:19.269951Z,com.elsemeet/elsemeet,Elsemeet,1.0.0,,streamable-http,"Your product's context for any AI: competitors, features, decisions and why. Send /work."
+2026-11-14T20:39:47.332317Z,com.olfastory/perfume-encyclopedia,Olfastory,1.2.0,,streamable-http,"Perfume encyclopedia: notes, family, perfumer, year and house of 4,000+ perfumes in six languages."
+2026-11-14T20:43:03.551317Z,io.github.Cal-Morris/holofolder,Holo Folder,1.0.0,https://github.com/Cal-Morris/holofolder,streamable-http,"Pokémon TCG binders, collection, wanted list, card catalogue and GBP prices. OAuth, Premium plan."
+2026-11-14T20:43:12.150556Z,com.aiocompatible/ai-readiness,AICompatible AI-readiness checker,1.0.0,,streamable-http,"Free checker: is a site ready for AI search? Score, AI-bot robots.txt access, issues with fixes."
+2026-11-14T20:43:35.621312Z,io.github.codeddesigner/delivrie,Delivrie,1.1.0,https://github.com/codeddesigner/delivrie,streamable-http,"Send email, run broadcasts and automations, and answer your inbox from any AI agent."
+2026-11-14T20:44:24.450573Z,io.github.Dcroyalty/botgraph-swap,Botgraph Swap,1.0.0,,streamable-http,"Swap XRP to Bitcoin, Ethereum and USDC from any agent. Non-custodial, unsigned txs, OFAC-screened."
+2026-11-14T20:51:12.028035Z,com.fuseai/fuse,Fuse,1.0.0,,streamable-http,"Find prospects, enrich contacts, track buying signals and run email and LinkedIn outreach."
+2026-11-14T20:55:47.570761Z,com.hireroger/roger,Roger,1.0.0,https://github.com/augmentinc/hireroger-plugins,streamable-http,"Find leads, run email and LinkedIn outbound, and answer replies in your Roger account."
+2026-11-14T21:08:19.461095Z,com.petrolytx/petrolytx,Petrolytx: decline curves and well economics,1.0.0,,streamable-http,"Decline curve fits, forecasts, type curves and well economics on your own Petrolytx wells."
+2026-11-14T21:08:27.735085Z,io.github.mindstone/mcp-server-elevenlabs,ElevenLabs,0.6.0,https://github.com/mindstone/mcp-servers,,"ElevenLabs MCP server: TTS, music, sound effects, voices, and audio transcription"
+2026-11-14T21:17:43.953122Z,il.co.ivreetmeet/meetings,IvreetMeet,1.0.0,,streamable-http,"Search and read your Hebrew meeting transcripts, summaries, decisions and tasks in IvreetMeet."
