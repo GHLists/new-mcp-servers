@@ -1,0 +1,14 @@
+created_at,server,title,version,repository,transports,description
+2026-11-14T01:22:08.255879Z,io.github.titan-capital-forensics/statutory-gate,TITAN Statutory Gate,1.0.0,https://github.com/titan-capital-forensics/titan-statutory-mcp-gate,streamable-http,"Stateless diagnostic applicability and schema gate for US, EU, and UAE statutory filings."
+2026-11-14T01:26:51.714607Z,io.github.yuli3/oiyo-news,OIYO News (Korea tech & market briefs),1.0.0,https://github.com/yuli3/news-oiyo,streamable-http; streamable-http,"Daily Korean briefs on AI, dev and markets: latest edition and keyword search, with links."
+2026-11-14T01:27:04.537705Z,earth.edk/mcp,EDK-1: Compass for Machines,0.6.0,https://github.com/edkearth/mcp,,"Find places, inspect any point, route around hazards and watch areas for change, in plain language."
+2026-11-14T01:27:59.752435Z,io.selltape/mcp,SellTape,1.0.0,,streamable-http,"Who is selling a token: sell-side on-chain data, contract control, real float. Pay per call (x402)."
+2026-11-14T01:32:20.774437Z,com.stampedsidewalks/stamped-sidewalks,Stamped Sidewalks,1.1.0,,streamable-http,"Price custom concrete stamps from their words or size, search templates, track orders."
+2026-11-14T01:43:38.651348Z,io.github.Calderkit/odoo-mcp-server,Calderkit MCP Server for Odoo,20.0.1.1.0,https://github.com/Calderkit/odoo-mcp-server,,Read-only access to your Odoo 18–20 data. Install the free module in your own Odoo first.
+2026-11-14T01:51:35.412339Z,io.github.dpcnsg/pub-pitfalls-mcp,Publishing Pitfalls,0.1.0,https://github.com/dpcnsg/pub-pitfalls-mcp,,"53 verified book/e-book registration blocks (KDP, Korean ISBN, Kyobo, Payhip) with fixes."
+2026-11-14T01:55:39.769513Z,com.clixrx/mcp,ClixRx,1.0.0,https://github.com/bentleylabs/royalprescriptions-landing,streamable-http,Compare discount prices for supported medications. Not insurance.
+2026-11-14T01:57:46.80234Z,de.glasstopfen/shop,glasstopfen.de,0.5.1,,streamable-http,"Buy rear wiper hole plug sets: catalog, cart, checkout and orders (UCP over MCP)."
+2026-11-14T02:10:39.805662Z,io.github.Cestrian-HQ/research,Cestrian Capital Research,1.0.0,,streamable-http; streamable-http,"Current stock and ETF ratings, research notes and a daily market review from Cestrian Capital."
+2026-11-14T02:11:36.834863Z,ua.org.legal/lex,LEX — Ukrainian law,1.0.0,,streamable-http,"Ukrainian court decisions (ЄДРСР), legislation with editions and state registries for AI agents"
+2026-11-14T02:11:38.393049Z,io.github.aixtral/toolars,Toolars,0.1.2,https://github.com/aixtral/toolars-open,,"Local-first dev utilities: hash, base64, JWT, UUID, cron, URL codec. No network or telemetry."
+2026-11-14T02:18:18.792368Z,com.dbrij/mcp,Dbrij,1.0.0,,streamable-http,"Deploy and run apps, databases, domains, storage, email and search on Dbrij from your AI assistant."
