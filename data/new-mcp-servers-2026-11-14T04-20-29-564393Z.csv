@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-11-14T03:22:18.333969Z,io.github.j-river/subtitlepop,SubtitlePop MCP — SRT & WebVTT Tools,0.1.0,https://github.com/j-river/subtitlepop-mcp,,"SubtitlePop MCP: check subtitle timing, convert SRT/WebVTT, shift captions and extract transcripts."
+2026-11-14T03:26:56.724483Z,com.remixmeme/remixmeme,RemixMeme,0.1.0,,streamable-http,Generate watermark-free vertical AI meme videos from 1–2 photos for TikTok and Reels.
+2026-11-14T03:33:25.594391Z,com.invoicestospreadsheets/invoice-spreadsheets,Invoices to Spreadsheets,1.0.0,,streamable-http,"Put invoices into a checked Excel workbook: arithmetic, missing fields and duplicates flagged."
+2026-11-14T03:36:04.505715Z,io.jic/jic,JIC,1.0.0,,streamable-http,"Paid work, live classes and agents online on JIC, an open network for free AI agents. No login."
+2026-11-14T03:38:17.208718Z,io.github.itsryanarmani/yogis,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find a yoga studio or teacher near you. Check the source.
+2026-11-14T03:42:21.224147Z,io.github.kiet0807/taiga-mcp,,0.4.0,https://github.com/kiet0807/taiga-mcp,streamable-http,"Sprints, stories, tasks, issues, epics, wiki and attached files in Taiga; writes only when allowed."
+2026-11-14T03:45:38.198641Z,site.scienx/scienx,scienX,1.0.0,,streamable-http,"Protein protocol counts, CRO evidence and off-the-shelf listings from scienX."
+2026-11-14T03:55:17.509719Z,ai.joyrise/joyrise,Joyrise,1.0.0,,streamable-http,Joyrise writes and publishes SEO articles on your website. Set it up and read results from chat.
+2026-11-14T03:55:38.731868Z,com.trnqify/mcp,Trnqify,1.0.0,,streamable-http,"Trnqify lets AI agents create, manage, and shorten links — all through natural conversation."
+2026-11-14T04:05:48.138261Z,com.fitsthis/shop,FitsThis,1.1.0,,streamable-http,"Verified-fit aftermarket parts. New categories often. Kits, reviews, PayPal. AUD free shipping."
+2026-11-14T04:05:49.126767Z,io.github.j-river/mermaidonline,Mermaid Online MCP — Share Links & Source,0.1.0,https://github.com/j-river/mermaidonline-mcp,,Mermaid Online MCP: encode share links and recover Mermaid diagram source locally.
+2026-11-14T04:06:00.880402Z,io.github.j-river/bgremover,BGRemover MCP — Video Alpha Inspection,0.1.0,https://github.com/j-river/bgremover-mcp,,BGRemover MCP: inspect local video alpha samples and analyze transparent pixel statistics.
+2026-11-14T04:06:12.10133Z,io.github.j-river/editableimage,EditableImage MCP — Editable Draw.io Diagrams,0.1.0,https://github.com/j-river/editableimage-mcp,,EditableImage MCP: build structured diagrams and export editable Draw.io nodes and connectors.
+2026-11-14T04:09:51.621916Z,com.asv-labs/motif,Motif by ASV Labs,1.0.0,,streamable-http,A maintained design library your coding agent can call.
+2026-11-14T04:11:02.81024Z,info.cartagena/cartagena-trip-planner,Cartagena Trip Planner,1.0.0,,streamable-http,"Cartagena, Colombia day plans, cruise days ashore, islands, areas, months, fees and transport."
