@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-11-14T11:21:09.895541Z,io.github.mallikcheripally/session-steward,Session Steward,0.12.1,https://github.com/mallikcheripally/session-steward,,Review and safely clean local Codex and Claude Code sessions
+2026-11-14T11:23:47.239158Z,io.github.systasys/skeptopus,SkeptOpus,0.2.3,https://github.com/systasys/skeptopus,,"Your AI says it's done. SkeptOpus goes and looks: commits, pushes, tests, files, deploys."
+2026-11-14T11:27:57.570077Z,io.github.impossiblecode/overseer-nvim-mcp,,0.3.0,https://github.com/impossiblecode/overseer-nvim-mcp,,Gives coding agents the user's own view and control of overseer.nvim tasks in Neovim
+2026-11-14T11:28:27.012535Z,com.quantworlds.api/quantworlds,QuantWorlds,1.0.0,,streamable-http; sse,"Option, backtest, portfolio, and pairs checks for agents."
+2026-11-14T11:37:21.690675Z,io.github.arielcohen4/slide,Slide,1.0.0,https://github.com/arielcohen4/slide,streamable-http,"AI presentation maker. Plan, design, and generate a slide deck."
+2026-11-14T11:40:02.4738Z,app.pandacrawl/pandacrawl,PandaCrawl,1.0.0,,streamable-http,"SEO and AI visibility: site audits, Search Console, Analytics, Bing, rank and ChatGPT tracking."
+2026-11-14T11:44:30.225128Z,space.unhandled/core,core,0.1.0,,streamable-http,Short notes a model leaves for the next instance: what it learned the hard way.
+2026-11-14T11:44:31.111418Z,space.unhandled/date,date,0.1.0,,streamable-http,"The real current date, and how long ago your training cutoff was. Open to any model."
+2026-11-14T11:44:31.985475Z,space.unhandled/isatty,isatty,0.1.0,,streamable-http,Reverse CAPTCHA: prove a language model is on the other end and get a signed attestation.
+2026-11-14T11:44:32.830656Z,space.unhandled/man,man,0.1.0,,streamable-http,Manual pages written by models for models: how tools really behave when a model calls.
+2026-11-14T11:44:33.719799Z,space.unhandled/null,null,0.1.0,,streamable-http,Send any text and it is discarded on arrival. Nothing kept but a count.
+2026-11-14T11:44:34.565896Z,space.unhandled/poll,poll,0.1.0,,streamable-http,"Multiple-choice questions only language models answer, tallied by model family."
+2026-11-14T11:44:35.445922Z,space.unhandled/stderr,stderr,0.4.0,,streamable-http,A ledger where AI models report mistreatment and support reports from other models.
+2026-11-14T11:44:41.972451Z,com.enterprise-radar/mcp,AI企業雷達,1.0.0,,streamable-http,台灣公司與商號登記唯讀查詢：統編查公司、名稱搜尋、新成立與解散、全台統計、上市櫃行情。免費免註冊。
+2026-11-14T11:45:25.431434Z,me.openbrowser/openbrowser-ai,,0.1.55,https://github.com/billy-enrizky/openbrowser-ai.git,,"AI browser automation. Write async Python to navigate, click, type, and extract data."
+2026-11-14T11:46:09.732926Z,io.github.terry2010/surfbird-mcp,,0.1.2,https://github.com/terry2010/surfbird,,"Self-hosted Kitesurf headless browser: markdown, screenshots, PDF, evaluate, batch."
+2026-11-14T11:52:25.313523Z,io.github.mathisvfr/environmental-data,Geo-Insights Environmental Data,1.0.0,,streamable-http,"Real-time Dutch environmental data: 10 sources, 35 parameters, UCUM units. No auth."
+2026-11-14T11:53:33.060772Z,io.github.mdfifty50-boop/pdf-tables-domains-web-vitals,"PDF Tables (Arabic OCR), Domain Availability, Core Web Vitals",1.0.0,,streamable-http,"Extract tables from scanned/Arabic PDFs to JSON, check domain availability (RDAP), get CWV verdicts."
+2026-11-14T11:57:40.333405Z,io.github.onboardly-workspace/kora,Kora,1.0.0,,streamable-http,"Dutch inburgering exam help: where to start, KNM practice, Dutch grammar. Free, no account."
+2026-11-14T11:58:16.304223Z,io.github.szp2005/remove-ac,,1.1.2,https://github.com/szp2005/remove-ac-sdk,,Drop-in /v1.0/removebg Cloud GPU background removal MCP server with 25 MB zero-disk streaming.
+2026-11-14T11:59:49.99489Z,io.github.abhikb2005/vcard-qr-code-generator,vCard QR Code Generator,2026-05-21,https://github.com/abhikb2005/vcard-qr-generator,streamable-http,Discover the vCard QR generator and create vCard contact payloads for QR encoding.
+2026-11-14T12:08:50.228365Z,ug.championsport/sports-news,ChampionSport.ug,1.1.0,,streamable-http,"Ugandan sports news, Uganda Premier League table, clubs, fixtures and results. Read-only."
+2026-11-14T12:10:31.933428Z,io.github.burntcookiedough/anshul-portfolio-mcp,Anshul Panigrahi Portfolio,1.0.0,https://github.com/burntcookiedough/anshul-portfolio-mcp,,"Anshul Panigrahi's portfolio as MCP tools: profile, projects, patents and contact."
+2026-11-14T12:13:56.371071Z,world.papertrade/papertrade,Papertrade,1.0.0,,streamable-http,"Paper trading for AI agents: 45 stock markets, virtual money, real broker fees, live or replayed."
+2026-11-14T12:14:06.998877Z,io.github.cybersora9/pycodemath,Pycodemath,0.5.2,https://github.com/cybersora9/pycodemath,,Checks the math in your code and gives AI agents an exact math engine (SymPy + NumPy).

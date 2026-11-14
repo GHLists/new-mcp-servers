@@ -9,36 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 11:19 UTC
+## Latest list — 2026-11-14 12:19 UTC
 
-New MCP servers published between 2026-11-14 10:21 UTC and 2026-11-14 11:19 UTC.
+New MCP servers published between 2026-11-14 11:19 UTC and 2026-11-14 12:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-14T11-19-24-605884Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-14T12-19-00-629542Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-14 10:27:16 | ad.tributs/mcp | Tributs | 1.0.0 | Read-only access to Andorran accounting and tax data in Tributs: invoices, bank… |
-| 2026-11-14 10:30:44 | app.trioly/mcp | Trioly | 1.0.0 | Search and license real stock footage made by people. Licenses are bought on th… |
-| 2026-11-14 10:33:25 | [io.github.islamad/islam.ad](https://github.com/islamad/website) | All Islam Directory | 3.7.0 | Quran, hadith collections and tafsirs: browse books and chapters, read verses,… |
-| 2026-11-14 10:40:25 | [com.roleford/job-search](https://github.com/gitranks/roleford-job-search) | Roleford job search | 1.0.0 | Run your tech job search from your AI agent: matches, job unlocks, applications… |
-| 2026-11-14 10:42:30 | com.waoversight/waoversight | WAOversight | 1.0.0 | Read your team's WhatsApp sales conversations, response times and access log. R… |
-| 2026-11-14 10:42:40 | [io.github.Aidlab/aidlab-mcp](https://github.com/Aidlab/aidlab-mcp) | Aidlab MCP | 1.1.0 | Read your Aidlab sleep, heart rate, HRV, steps and workouts through OAuth. Read… |
-| 2026-11-14 10:45:48 | [com.titancapitalforensics/statutory-gate](https://github.com/titan-capital-forensics/titan-statutory-mcp-gate) | TITAN Statutory Gate | 1.0.0 | Stateless diagnostic applicability and schema gate for US, EU, and UAE statutor… |
-| 2026-11-14 10:47:47 | io.github.leadsets/leadsets | LeadSets | 1.0.0 | Unlimited B2B Contact Data for AI Agents, Starting from $29/mo. Search, enrich… |
-| 2026-11-14 10:49:33 | com.yatofix/rustine | Rustine | 0.46.3 | Diagnose and repair a Windows 11 PC: hardware, blue screens, drive health, sens… |
-| 2026-11-14 10:52:07 | com.miaamare/miaamare | Mia Amare - DJane | 1.0.0 | DJane Mia Amare: booking, plus dance festivals, artists and dance schools searc… |
-| 2026-11-14 10:53:30 | [io.github.oge-ui/mcp](https://github.com/oge-ui/oge-ui) | OGE UI | 1.1.9 | Offline, version-exact docs for the OGE UI components (Angular and React): APIs… |
-| 2026-11-14 10:55:33 | [io.github.theluckystrike/treasury-yields-rates-today-mcp](https://github.com/theluckystrike/treasury-yields-rates-today-mcp) | Treasury Yields and Rates Today MCP | 1.0.0 | US Treasury yields and rates today: yield curve, 10-year, spreads, T-bill rates… |
-| 2026-11-14 10:56:19 | [io.github.theluckystrike/aurora-forecast-kp-index-mcp](https://github.com/theluckystrike/aurora-forecast-kp-index-mcp) | Aurora Forecast and Kp Index MCP | 1.0.0 | Aurora forecast and Kp index from NOAA SWPC: northern lights chance tonight, OV… |
-| 2026-11-14 10:56:21 | [io.github.theluckystrike/tide-times-tide-tables-mcp](https://github.com/theluckystrike/tide-times-tide-tables-mcp) | Tide Times and Tide Tables MCP | 1.0.0 | Tide times and tide tables from NOAA: high and low tides for US coasts, tide no… |
-| 2026-11-14 11:02:43 | com.markdownlogic/markdown-logic | Markdown Logic | 1.0.0 | Manage, share, and collaborate on Markdown-based documents with team members an… |
-| 2026-11-14 11:02:47 | com.markdownlogic/markdown-logic-public | Markdown Logic Express | 1.0.0 | Convert Markdown to PDF, DOCX, HTML or EPUB with formatting and display options. |
-| 2026-11-14 11:03:33 | eu.moneymagician/mcp | Money Magician | 1.0.0 | Read-only access to your business finances: invoices, customers, vendors, taxes… |
-| 2026-11-14 11:04:44 | [io.github.SergeySklyarov/kompas3d-mcp](https://github.com/SergeySklyarov/Kompas3D-MCP) | KompasMCP - KOMPAS-3D v24 | 0.14.0 | Drive a licensed KOMPAS-3D v24 x64 via COM: parts, assemblies, drawings, BOM, S… |
-| 2026-11-14 11:06:53 | [io.github.DSHCorrectover/correctover-audit-mcp](https://github.com/DSHCorrectover/correctover-audit-mcp) | Correctover Audit MCP | 1.0.0 | Free MCP session-security audit: unauthenticated tool surface, unbound session… |
-| 2026-11-14 11:07:27 | [com.gitranks/contribute](https://github.com/gitranks/contribute) | GitRanks Contribute | 1.0.0 | Find open-source GitHub issues to contribute to, matched to your skills; you ap… |
-| 2026-11-14 11:11:33 | [io.github.elishosh687-spec/api-supp](https://github.com/yehudashtein/wa-bridge-mcp) | API-Supp | 1.0.0 | Link a WhatsApp number by QR code and use it from Claude or ChatGPT via MCP. |
-| 2026-11-14 11:11:44 | com.zack-billiger/zack-billiger | Zack billiger | 0.9.1 | Search AliExpress in natural language and compare products by price, rating, va… |
+| 2026-11-14 11:21:09 | [io.github.mallikcheripally/session-steward](https://github.com/mallikcheripally/session-steward) | Session Steward | 0.12.1 | Review and safely clean local Codex and Claude Code sessions |
+| 2026-11-14 11:23:47 | [io.github.systasys/skeptopus](https://github.com/systasys/skeptopus) | SkeptOpus | 0.2.3 | Your AI says it's done. SkeptOpus goes and looks: commits, pushes, tests, files… |
+| 2026-11-14 11:27:57 | [io.github.impossiblecode/overseer-nvim-mcp](https://github.com/impossiblecode/overseer-nvim-mcp) |  | 0.3.0 | Gives coding agents the user's own view and control of overseer.nvim tasks in N… |
+| 2026-11-14 11:28:27 | com.quantworlds.api/quantworlds | QuantWorlds | 1.0.0 | Option, backtest, portfolio, and pairs checks for agents. |
+| 2026-11-14 11:37:21 | [io.github.arielcohen4/slide](https://github.com/arielcohen4/slide) | Slide | 1.0.0 | AI presentation maker. Plan, design, and generate a slide deck. |
+| 2026-11-14 11:40:02 | app.pandacrawl/pandacrawl | PandaCrawl | 1.0.0 | SEO and AI visibility: site audits, Search Console, Analytics, Bing, rank and C… |
+| 2026-11-14 11:44:30 | space.unhandled/core | core | 0.1.0 | Short notes a model leaves for the next instance: what it learned the hard way. |
+| 2026-11-14 11:44:31 | space.unhandled/date | date | 0.1.0 | The real current date, and how long ago your training cutoff was. Open to any m… |
+| 2026-11-14 11:44:31 | space.unhandled/isatty | isatty | 0.1.0 | Reverse CAPTCHA: prove a language model is on the other end and get a signed at… |
+| 2026-11-14 11:44:32 | space.unhandled/man | man | 0.1.0 | Manual pages written by models for models: how tools really behave when a model… |
+| 2026-11-14 11:44:33 | space.unhandled/null | null | 0.1.0 | Send any text and it is discarded on arrival. Nothing kept but a count. |
+| 2026-11-14 11:44:34 | space.unhandled/poll | poll | 0.1.0 | Multiple-choice questions only language models answer, tallied by model family. |
+| 2026-11-14 11:44:35 | space.unhandled/stderr | stderr | 0.4.0 | A ledger where AI models report mistreatment and support reports from other mod… |
+| 2026-11-14 11:44:41 | com.enterprise-radar/mcp | AI企業雷達 | 1.0.0 | 台灣公司與商號登記唯讀查詢：統編查公司、名稱搜尋、新成立與解散、全台統計、上市櫃行情。免費免註冊。 |
+| 2026-11-14 11:45:25 | [me.openbrowser/openbrowser-ai](https://github.com/billy-enrizky/openbrowser-ai.git) |  | 0.1.55 | AI browser automation. Write async Python to navigate, click, type, and extract… |
+| 2026-11-14 11:46:09 | [io.github.terry2010/surfbird-mcp](https://github.com/terry2010/surfbird) |  | 0.1.2 | Self-hosted Kitesurf headless browser: markdown, screenshots, PDF, evaluate, ba… |
+| 2026-11-14 11:52:25 | io.github.mathisvfr/environmental-data | Geo-Insights Environmental Data | 1.0.0 | Real-time Dutch environmental data: 10 sources, 35 parameters, UCUM units. No a… |
+| 2026-11-14 11:53:33 | io.github.mdfifty50-boop/pdf-tables-domains-web-vitals | PDF Tables (Arabic OCR), Domain Availab… | 1.0.0 | Extract tables from scanned/Arabic PDFs to JSON, check domain availability (RDA… |
+| 2026-11-14 11:57:40 | io.github.onboardly-workspace/kora | Kora | 1.0.0 | Dutch inburgering exam help: where to start, KNM practice, Dutch grammar. Free,… |
+| 2026-11-14 11:58:16 | [io.github.szp2005/remove-ac](https://github.com/szp2005/remove-ac-sdk) |  | 1.1.2 | Drop-in /v1.0/removebg Cloud GPU background removal MCP server with 25 MB zero-… |
+| 2026-11-14 11:59:49 | [io.github.abhikb2005/vcard-qr-code-generator](https://github.com/abhikb2005/vcard-qr-generator) | vCard QR Code Generator | 2026-05-21 | Discover the vCard QR generator and create vCard contact payloads for QR encodi… |
+| 2026-11-14 12:08:50 | ug.championsport/sports-news | ChampionSport.ug | 1.1.0 | Ugandan sports news, Uganda Premier League table, clubs, fixtures and results.… |
+| 2026-11-14 12:10:31 | [io.github.burntcookiedough/anshul-portfolio-mcp](https://github.com/burntcookiedough/anshul-portfolio-mcp) | Anshul Panigrahi Portfolio | 1.0.0 | Anshul Panigrahi's portfolio as MCP tools: profile, projects, patents and conta… |
+| 2026-11-14 12:13:56 | world.papertrade/papertrade | Papertrade | 1.0.0 | Paper trading for AI agents: 45 stock markets, virtual money, real broker fees,… |
+| 2026-11-14 12:14:06 | [io.github.cybersora9/pycodemath](https://github.com/cybersora9/pycodemath) | Pycodemath | 0.5.2 | Checks the math in your code and gives AI agents an exact math engine (SymPy +… |
 
 ## Data source
 
