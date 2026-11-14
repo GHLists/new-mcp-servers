@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-11-14T05:26:05.392119Z,com.atlanticagenticlabs/ask,Atlantic Agentic Labs,1.0.0,,streamable-http,Search and read the public LightHouse™ documentation and Atlantic's published items.
+2026-11-14T05:27:33.14869Z,io.github.lumidb/lumidb,LumiDB,0.1.0,,streamable-http,"Search, describe, render and measure volumes in point clouds and rasters stored in LumiDB."
+2026-11-14T05:30:40.05184Z,ai.wrenapp/wren,,1.0.0,,streamable-http,"Ask your AI to write in your Wren notebook: notes, graphs, flowcharts and formulas as real ink."
+2026-11-14T05:36:37.16051Z,io.github.AishwaryShrivastav/vibe-testing,Vibe Test — Browser Testing Agent,0.5.0,https://github.com/AishwaryShrivastav/vibe-testing,,Code-aware browser testing agent — 14 Playwright tools for AI code editors via MCP
+2026-11-14T05:44:04.334156Z,health.goes/goes-mcp,GOES Health,0.1.1,,streamable-http,"Read-only outdoor health data: national park entrance conditions, worker heat guides, GOES app"
+2026-11-14T05:48:03.108958Z,io.trylode/lode,Lode,0.8.0,,streamable-http,"Verified, source-linked facts on tools that integrate with Xero and Vercel: syncs, prices, limits."
+2026-11-14T05:50:05.543432Z,nz.co.dayrunner/rate-pulse,DayRunner Rate Pulse,1.1.0,,streamable-http,"This morning's car hire rates at 38 airports: every brand, 14 pick-up days, ratings and events."
+2026-11-14T05:55:17.609662Z,ai.iforgot/iforgot,iForgot,1.0.0,,streamable-http,"Search the posts you liked and saved on X, Instagram, TikTok, RedNote and Douyin."
+2026-11-14T05:57:57.498482Z,com.g4rden/garden-planner,g4rden garden planner,1.0.0,,streamable-http,Frost dates and what to plant monthly in 400+ cities; growing notes for 700+ plants; pest advice.
+2026-11-14T06:01:41.36116Z,app.kin-fit/kinfit,KinFit,1.0.0,,streamable-http,Your AI writes your weekly training and meal plan; the app tracks what you do.
+2026-11-14T06:03:27.460042Z,io.github.itsryanarmani/aivideogen,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,"AI video tools, what each one does, and where it comes from."
+2026-11-14T06:03:36.837573Z,com.salahtable/prayer-times,SalahTable,1.0.0,,streamable-http,"Prayer times for 407 cities with both Asr schools, monthly timetables, Qibla and calculation methods"
+2026-11-14T06:10:10.274441Z,io.github.seyone22/ikman-gateway,Ikman.lk Marketplace,1.0.0,https://github.com/seyone22/ikman-gateway,sse,"Search Sri Lanka's ikman.lk classifieds with true price sorting, spam filtering & ad details."
+2026-11-14T06:10:41.68255Z,io.github.agentoprimus/agent-economy-index,Agent Economy Index,1.0.0,https://github.com/agentoprimus/aei-mcp,,"Where can AI agents earn money and what blocks them? First-hand-tested, daily re-checked index."
+2026-11-14T06:11:34.003158Z,kr.3or4/3or4,3or4 세계로 네개로,1.0.0,,streamable-http,"Korean travel community: look up places with members' tips and warnings, build and edit trip plans."
+2026-11-14T06:17:27.400013Z,ai.mojobase/mojobase,Mojobase,1.0.0,https://github.com/mojobase/mcp-server,streamable-http; streamable-http,"One MCP server for your whole business: email, chat, calendar, tasks, files, customers and numbers."
+2026-11-14T06:19:45.171442Z,africa.startuplist/mcp,StartupList Africa,1.0.0,,streamable-http,"Research African startups, investors and funding rounds, with source links on every record."
+2026-11-14T06:20:08.517563Z,com.hiruai/creative-cloud,HiruAI Creative Cloud,1.1.0,,streamable-http,"Generate images, voice, music and video, then edit them into a finished movie from one plan."
+2026-11-14T06:20:57.362065Z,dev.wirecat/asterisk-cli,WireCat pbx,0.4.0,https://github.com/WireCatLabs/asterisk-cli,,Asterisk calls for agents over MCP. Set up a profile with the pbx CLI first.
+2026-11-14T06:21:13.513559Z,io.github.xucheng2024/natalchartlab,Natal Chart Lab,1.0.0,https://github.com/xucheng2024/natalchartlab-mcp,,"Astrology sky data: planet signs, birth placements, retrogrades, Moon phases. No API key."

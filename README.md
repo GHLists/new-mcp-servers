@@ -9,29 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 05:18 UTC
+## Latest list — 2026-11-14 06:21 UTC
 
-New MCP servers published between 2026-11-14 04:20 UTC and 2026-11-14 05:18 UTC.
+New MCP servers published between 2026-11-14 05:18 UTC and 2026-11-14 06:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-14T05-18-42-025325Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-14T06-21-45-852354Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-14 04:21:03 | io.github.Cryptosystema/searchtrim | Searchtrim — Google Ads for AI assistan… | 0.1.0 | Ask Claude about your Google Ads: campaign performance, wasted search terms, GA… |
-| 2026-11-14 04:22:46 | com.dailyzebra/zebra | Zebra | 0.2.3 | Keeps the promises from your meetings and chats, and picks one delivery for you… |
-| 2026-11-14 04:31:42 | [io.github.jcode-works/ragmir](https://github.com/jcode-works/jcode-ragmir) | Ragmir | 6.5.2 | Cited local retrieval for agents: search code, PDFs, and Office files with exac… |
-| 2026-11-14 04:31:52 | [io.github.itsryanarmani/dietitians](https://github.com/itsryanarmani/directory) |  | 1.0.0 | Find a registered dietitian. Check the source. |
-| 2026-11-14 04:32:50 | ai.tineo/tineo | Tineo | 1.1.0 | Plan trips, search flights and hotels, and keep every booking in one shared iti… |
-| 2026-11-14 04:35:11 | [com.offladder/offladder](https://github.com/wonderwhiz/offladder-claude) | OffLadder | 1.1.0 | Career change coach: test a career with small experiments, find directions, 300… |
-| 2026-11-14 04:39:34 | [app.trainultra/coach](https://github.com/trainultra/coach) | Train Ultra | 1.0.0 | Ask your private endurance coach about your workouts, plan, goals, recovery and… |
-| 2026-11-14 04:39:43 | [cloud.agent-tools/agent-tools-mcp](https://github.com/AgentTools-Cloud/AgentToolsCollection) | agent-tools (x402 + MCP + A2A directory) | 0.5.2 | Discover x402 services, MCP servers and A2A agents by intent — agent-tools.clou… |
-| 2026-11-14 04:39:45 | [io.github.ryanmat/logicmonitor](https://github.com/ryanmat/mcp-server-logicmonitor) |  | 5.0.0 | LogicMonitor REST API v3 in 273 tools: alerts, devices, metrics, dashboards, lo… |
-| 2026-11-14 04:41:22 | app.getnunchi.jangbogi/jangbogi | 장보기 (Jangbogi) | 1.0.0 | Pre-computed weekly Korean dinner plans with Market Kurly grocery carts. Read-o… |
-| 2026-11-14 04:45:49 | [io.github.aashishvanand/ccreward](https://github.com/aashishvanand/ccreward-ai) | ccreward | 1.0.4 | Credit card rewards for India and Singapore: points, miles or cashback per card… |
-| 2026-11-14 04:48:17 | com.markstudios/video-toolkit | Mark Studios Video Toolkit | 1.0.0 | Video project tools: platform specs, editing briefs, SRT/WebVTT conversion, tur… |
-| 2026-11-14 04:50:42 | [app.ccreward/ccreward](https://github.com/aashishvanand/ccreward-ai) | ccreward | 1.0.5 | Credit card rewards for India and Singapore: points, miles or cashback per card… |
-| 2026-11-14 05:06:38 | [io.github.harinderlabana/x402-oracle](https://github.com/harinderlabana/x402-oracle) |  | 0.1.1 | On-chain crypto oracle for AI agents via x402 (Base USDC): token risk, new pool… |
-| 2026-11-14 05:10:55 | [com.livuma/homes](https://github.com/Livuma/livuma-docs) | Livuma — Bali rental & property search | 1.0.0 | Search Bali villas, apartments and homes for rent or sale; live availability an… |
+| 2026-11-14 05:26:05 | com.atlanticagenticlabs/ask | Atlantic Agentic Labs | 1.0.0 | Search and read the public LightHouse™ documentation and Atlantic's published i… |
+| 2026-11-14 05:27:33 | io.github.lumidb/lumidb | LumiDB | 0.1.0 | Search, describe, render and measure volumes in point clouds and rasters stored… |
+| 2026-11-14 05:30:40 | ai.wrenapp/wren |  | 1.0.0 | Ask your AI to write in your Wren notebook: notes, graphs, flowcharts and formu… |
+| 2026-11-14 05:36:37 | [io.github.AishwaryShrivastav/vibe-testing](https://github.com/AishwaryShrivastav/vibe-testing) | Vibe Test — Browser Testing Agent | 0.5.0 | Code-aware browser testing agent — 14 Playwright tools for AI code editors via… |
+| 2026-11-14 05:44:04 | health.goes/goes-mcp | GOES Health | 0.1.1 | Read-only outdoor health data: national park entrance conditions, worker heat g… |
+| 2026-11-14 05:48:03 | io.trylode/lode | Lode | 0.8.0 | Verified, source-linked facts on tools that integrate with Xero and Vercel: syn… |
+| 2026-11-14 05:50:05 | nz.co.dayrunner/rate-pulse | DayRunner Rate Pulse | 1.1.0 | This morning's car hire rates at 38 airports: every brand, 14 pick-up days, rat… |
+| 2026-11-14 05:55:17 | ai.iforgot/iforgot | iForgot | 1.0.0 | Search the posts you liked and saved on X, Instagram, TikTok, RedNote and Douyi… |
+| 2026-11-14 05:57:57 | com.g4rden/garden-planner | g4rden garden planner | 1.0.0 | Frost dates and what to plant monthly in 400+ cities; growing notes for 700+ pl… |
+| 2026-11-14 06:01:41 | app.kin-fit/kinfit | KinFit | 1.0.0 | Your AI writes your weekly training and meal plan; the app tracks what you do. |
+| 2026-11-14 06:03:27 | [io.github.itsryanarmani/aivideogen](https://github.com/itsryanarmani/directory) |  | 1.0.0 | AI video tools, what each one does, and where it comes from. |
+| 2026-11-14 06:03:36 | com.salahtable/prayer-times | SalahTable | 1.0.0 | Prayer times for 407 cities with both Asr schools, monthly timetables, Qibla an… |
+| 2026-11-14 06:10:10 | [io.github.seyone22/ikman-gateway](https://github.com/seyone22/ikman-gateway) | Ikman.lk Marketplace | 1.0.0 | Search Sri Lanka's ikman.lk classifieds with true price sorting, spam filtering… |
+| 2026-11-14 06:10:41 | [io.github.agentoprimus/agent-economy-index](https://github.com/agentoprimus/aei-mcp) | Agent Economy Index | 1.0.0 | Where can AI agents earn money and what blocks them? First-hand-tested, daily r… |
+| 2026-11-14 06:11:34 | kr.3or4/3or4 | 3or4 세계로 네개로 | 1.0.0 | Korean travel community: look up places with members' tips and warnings, build… |
+| 2026-11-14 06:17:27 | [ai.mojobase/mojobase](https://github.com/mojobase/mcp-server) | Mojobase | 1.0.0 | One MCP server for your whole business: email, chat, calendar, tasks, files, cu… |
+| 2026-11-14 06:19:45 | africa.startuplist/mcp | StartupList Africa | 1.0.0 | Research African startups, investors and funding rounds, with source links on e… |
+| 2026-11-14 06:20:08 | com.hiruai/creative-cloud | HiruAI Creative Cloud | 1.1.0 | Generate images, voice, music and video, then edit them into a finished movie f… |
+| 2026-11-14 06:20:57 | [dev.wirecat/asterisk-cli](https://github.com/WireCatLabs/asterisk-cli) | WireCat pbx | 0.4.0 | Asterisk calls for agents over MCP. Set up a profile with the pbx CLI first. |
+| 2026-11-14 06:21:13 | [io.github.xucheng2024/natalchartlab](https://github.com/xucheng2024/natalchartlab-mcp) | Natal Chart Lab | 1.0.0 | Astrology sky data: planet signs, birth placements, retrogrades, Moon phases. N… |
 
 ## Data source
 
