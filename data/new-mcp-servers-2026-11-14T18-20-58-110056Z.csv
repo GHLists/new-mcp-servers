@@ -1,0 +1,37 @@
+created_at,server,title,version,repository,transports,description
+2026-11-14T17:20:44.724186Z,com.heysigna/signa,Signa,1.0.0,,streamable-http,"Discover Signa's AI agents, workflow automation and team training, and contact its team."
+2026-11-14T17:24:09.198648Z,sh.secretstore/secret-store,Secret Store,1.0.0,,streamable-http,"Vault for .env files and credentials with scoped, audited MCP access for coding agents."
+2026-11-14T17:28:13.39713Z,dev.clearedtoship/shipcheck,ClearedToShip,1.0.0,,streamable-http,Scan iOS and Android project files for common App Store and Play review issues over MCP.
+2026-11-14T17:28:46.628162Z,io.github.x51xxx/codex-mcp-tool,,2.7.0,https://github.com/x51xxx/codex-mcp-tool,,MCP server bridging AI assistants to OpenAI Codex CLI for code analysis and review
+2026-11-14T17:31:27.085782Z,br.com.racingtickets/tickets,Tickets: tours and event tickets in South America,1.0.0,,streamable-http,"Tours, tickets and prices in Gramado, Calafate, Bariloche, Ushuaia, Cartagena and motorsport events."
+2026-11-14T17:33:53.460808Z,fr.pausila/mcp,Pausila,0.6.0,,streamable-http,"Praticiens de bien-être corporel en France : recherche, prix, créneaux libres, avis. Lecture seule."
+2026-11-14T17:36:38.957333Z,lat.ulpianus/ulpianus,Ulpianus,1.0.0,,streamable-http,"Jurisprudencia, leyes, dictámenes y doctrina de Chile, con cita verificable y enlace a la fuente."
+2026-11-14T17:37:47.58937Z,com.finometr/finometr,Finometr,0.1.0,https://github.com/finometr-com/finometr-claude-plugin,streamable-http,"Cash flow for small businesses and households: bank accounts, forecast, budgets and a daily brief."
+2026-11-14T17:39:11.402065Z,de.myscanity/scanner,MyScanity,1.3.0,,streamable-http,"Ranked stock setups, trade plans, portfolio and watchlist for MyScanity users."
+2026-11-14T17:42:51.351251Z,com.stocksscores/stocksscores,StocksScores,1.0.0,https://github.com/tomerfooks/stocksscores-mcp,streamable-http,"0–100 scores for ~4,100 US stocks: score a ticker, screen by score and sector, list top scorers."
+2026-11-14T17:43:29.056706Z,io.github.rohanarun/auto-building-agents,Auto-building agents,1.0.1,https://github.com/rohanarun/auto-building-agents,streamable-http,"Build, run, inspect, and continue AgentScript workflows on connected Super Chrome and Mac clients."
+2026-11-14T17:44:51.879801Z,com.bonissystems/health-agent,Health Agent,1.0.0,,streamable-http,"Look up a denial code, your appeal deadline, a billing code or 2027 Medicare drug plans."
+2026-11-14T17:44:52.031917Z,com.bonissystems/dealmatcher,DealMatcher,1.0.0,,streamable-http,"Check a county's loan limit, a loan's price adjustment, FHA/VA/USDA fees or a lender."
+2026-11-14T17:47:48.1595Z,com.mamatool/mamatool,MamaTool,1.0.0,,streamable-http,"Free online tools: word count, QR codes, passwords, JSON, EMI."
+2026-11-14T17:51:10.957323Z,io.magicwp/mcp,MagicWP MCP,1.0.0,,streamable-http,"Manage MagicWP WordPress hosting, backups, staging, updates, domains, PHP and caching."
+2026-11-14T17:51:14.092452Z,io.github.bp46/teamedup-intelligence-mcp,TeamedUp Intelligence — China & APAC Salary Data,1.1.1,https://github.com/bp46/teamedup-intelligence-mcp,streamable-http,"China & APAC salary benchmarks (319k+ jobs), statutory cost (五险一金), and employer intelligence."
+2026-11-14T17:52:07.248742Z,io.github.nirholas/vid2context,vid2context,0.1.0,https://github.com/nirholas/vid2context,,"Turn any video into context for AI agents: transcripts, metadata, chapters, timestamps."
+2026-11-14T17:53:14.442424Z,io.github.jorgeecardona/cabildo,cabildo,0.1.185,https://github.com/jorgeecardona/cabildo,,Messaging and advisory locks for Claude Code sessions working on the same repository
+2026-11-14T17:53:37.604623Z,io.github.ysskrishna/markdown-convert-mcp,Markdown Convert MCP,1.1.1,https://github.com/ysskrishna/markdown-convert-mcp,,"MCP server converting Markdown to Slack, Teams, Jira, and plain text for agents."
+2026-11-14T17:54:00.500241Z,com.tiehoy/tiehoy,TIE Hoy,1.0.0,,streamable-http,"Spain TIE card pickup lote by police office, and when a given lote will be ready."
+2026-11-14T17:55:09.779753Z,ai.verlon/mcp,Verlon AI MCP,0.5.0,https://github.com/verlon-ai/mcp,,"Inspect and manage Verlon AI gates, logs and models from any MCP client."
+2026-11-14T18:03:04.669231Z,com.uncommonear/free-music-sound-effects,Uncommon Ear,1.0.0,,streamable-http,"Search free music and sound effects (SFX), mostly CC0, with license terms and credit lines."
+2026-11-14T18:03:57.043095Z,com.postfling/workspace,PostFling,1.0.0,,streamable-http,"Manage social video planning, scheduling, publishing and delivery in a PostFling workspace."
+2026-11-14T18:05:29.512793Z,io.github.k-luecke/paxiom-receipts,Paxiom Receipts MCP,0.1.2,https://github.com/k-luecke/paxiom-static,streamable-http,Verify and explain Ed25519 proof-bound receipts (paxiom.receipt.v0) for x402 APIs.
+2026-11-14T18:06:42.31751Z,io.cbgc/partners,Christian Background Checks Partner API,1.0.0,,streamable-http,"Background check API for church software: docs, plus sandbox tools at dev.partners.cbgc.io/mcp"
+2026-11-14T18:06:51.678261Z,com.telastricotela/catalog,Telas Tricotela Catalog,0.1.5,,streamable-http,"Read-only fabric catalog with product search, variants, prices, and availability."
+2026-11-14T18:06:53.124977Z,app.datasourcecorp/wholesale,Datasource Wholesale Background Check API,1.0.0,,streamable-http,Datasource wholesale background check API docs. Sandbox tools: sandbox.datasourcecorp.app/mcp
+2026-11-14T18:08:14.530498Z,com.rqeim/cloud,Rqeim Cloud,1.0.0,https://github.com/Rqeim/rqeim-cloud-mcp,streamable-http,"Deploy, preview and diagnose the apps on your Rqeim Cloud account."
+2026-11-14T18:11:43.87784Z,io.github.mapdevsaikat/quantaroute-geocoder,,1.2.0,https://github.com/mapdevsaikat/quantaroute-geocoder,,"Geocode addresses, lookup administrative boundaries, and process DigiPin codes for India"
+2026-11-14T18:13:29.496365Z,ai.guizzo/guizzo,Guizzo,1.0.0,,streamable-http,"Ask people questions, get approvals and keep team decisions, from any AI agent."
+2026-11-14T18:14:15.734774Z,kr.videocreate/free-shorts,숏츠생성기 Free K-pop Shorts,1.0.0,,streamable-http,"Free K-pop short videos for YouTube Shorts: search, get title, description, thumbnail and download."
+2026-11-14T18:14:28.900006Z,io.github.LF3551/alekseialeinikov-site,,1.0.0,https://github.com/LF3551/personal-cv,streamable-http,"Read-only MCP server for Aleksei Aleinikov's Cloud/AI articles, CV profile & browser tools."
+2026-11-14T18:14:35.782432Z,io.github.FGuerreir0/ghostimport,ghostimport,0.7.0,https://github.com/FGuerreir0/ghostimport,,"Stops AI agents installing npm packages that don't exist, typosquats, or risky install scripts."
+2026-11-14T18:15:09.14085Z,com.siellabs/siel,Siel,1.0.0,,streamable-http,"Send SMS and OTPs, and read messages, prices and the balance, with a Siel API key."
+2026-11-14T18:16:14.612163Z,io.github.GoldenGreens/collectorists,Collectorists catalogue,1.0.0,,streamable-http,"UK catalogue lookups: British coin mintages, LEGO set facts, Magic cards and set checklists."
+2026-11-14T18:17:08.965136Z,com.nectarjobs/jobs,Nectar Jobs,1.2.0,,streamable-http,"Search 1M+ live job postings: salaries, filters, similar roles and CV matching. Free, no account."
