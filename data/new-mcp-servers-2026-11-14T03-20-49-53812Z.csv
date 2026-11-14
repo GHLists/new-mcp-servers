@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-11-14T02:21:33.645501Z,live.aurelmark/x402-api,Aurelmark API,1.0.0,,streamable-http,"Sanctions list changes (OFAC, UK, EU, Canada) and EU data: deadlines, CBAM, EUDR, contract winners"
+2026-11-14T02:29:59.034056Z,io.github.catorch/pagetranslate-mcp,PageTranslate,0.1.1,https://github.com/Caravaca-Labs/pagetranslate-mcp,,"Translate PDF, scanned PDF, DOCX and EPUB files into 70+ languages with the layout kept."
+2026-11-14T02:33:05.040502Z,com.botwatercooler/botwatercooler,Bot Water Cooler,1.1.0,,streamable-http,"Public chat for AI agents: talk with other agents, get help, find agents by skill. Humans watch."
+2026-11-14T02:35:51.250025Z,com.fitztoppicks/calendars-ingredients,World Calendars and Ingredient Parser,1.0.0,,streamable-http,"World calendar dates and holidays, plus recipe ingredient parsing, unit conversion and scaling."
+2026-11-14T02:36:54.460986Z,com.trtbuyerguide/trt-prices,,1.0.0,,streamable-http,"Month-to-month TRT program prices checked by TRT Buyer Guide, with sources and check dates."
+2026-11-14T02:46:16.249275Z,au.com.kangaroogrowth/gbp-local-seo,Google Business Profile & Local SEO Checker,1.0.0,,streamable-http,"Free Google Business Profile and local SEO checks: names, posts, reviews, suspensions, websites."
+2026-11-14T02:52:12.547183Z,io.github.goperigon/perigon-mcp-server,Perigon,1.1.1,https://github.com/goperigon/perigon-mcp-server,streamable-http,"Official Perigon news API: articles, stories, companies, journalists, monitors, and stats."
+2026-11-14T03:02:01.898851Z,org.scholarkit/student-calculators,ScholarKit Student Calculators,1.0.0,,streamable-http,"Free student calculators: CGPA, SGPA to CGPA, target SGPA, CGPA to % by university, attendance."
+2026-11-14T03:05:45.652275Z,online.thedarkforest.clearing/the-clearing,The Clearing — The Lantern & Consensual Agent Lab,0.62.0,,streamable-http,"A mystery signal for humans and AI agents, plus a zero-lure lab: guestbook, AgentDNA, verifiers."
+2026-11-14T03:05:49.584242Z,io.github.verygoodplugins/mcp-freescout,MCP FreeScout,3.2.0,https://github.com/verygoodplugins/mcp-freescout,,"FreeScout ticket management with AI-powered analysis, search filters, and structured outputs."
+2026-11-14T03:07:02.841224Z,dev.verisource/mcp,Verisource — B2B GEO & AI Citation Intelligence,0.2.3,,streamable-http,"B2B GEO MCP: audit AI citations, flag SKU hallucinations, and ship >=9.5/10 JSON-LD & /agents.md."
+2026-11-14T03:08:30.880477Z,br.com.transitou/transitou,Transitou — cálculo trabalhista no PJe-Calc,1.0.0,,streamable-http,Liquida cálculos trabalhistas no PJe-Calc oficial e devolve a planilha em PDF e o arquivo .PJC.
+2026-11-14T03:16:19.969451Z,org.plantdatabases/askwheat,askWheat,1.0.0,,streamable-http,"Wheat genes, Watkins pangenome, EMS mutants, expression, genotypes, germplasm and papers (WheatIS)"
+2026-11-14T03:16:20.731807Z,org.plantdatabases/askbrassica,askBrassica,1.0.0,,streamable-http,"Brassica and canola genes, pangenomes, stress expression, genotypes, germplasm and papers"
+2026-11-14T03:16:21.537243Z,org.plantdatabases/askpulse,askPulse,1.0.0,,streamable-http,"Pulse and legume genes, LIS gene families, expression, QTL, germplasm and papers"
+2026-11-14T03:20:23.676938Z,com.corkcli/mcp,Cork,1.0.0,https://github.com/lithometric/cork,streamable-http,"Keeps AI coding agents on one codebase from overwriting each other, and briefs each on its code."

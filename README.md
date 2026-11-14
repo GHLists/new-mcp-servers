@@ -9,27 +9,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 02:18 UTC
+## Latest list — 2026-11-14 03:20 UTC
 
-New MCP servers published between 2026-11-14 01:21 UTC and 2026-11-14 02:18 UTC.
+New MCP servers published between 2026-11-14 02:18 UTC and 2026-11-14 03:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-14T02-18-45-326187Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-14T03-20-49-53812Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-14 01:22:08 | [io.github.titan-capital-forensics/statutory-gate](https://github.com/titan-capital-forensics/titan-statutory-mcp-gate) | TITAN Statutory Gate | 1.0.0 | Stateless diagnostic applicability and schema gate for US, EU, and UAE statutor… |
-| 2026-11-14 01:26:51 | [io.github.yuli3/oiyo-news](https://github.com/yuli3/news-oiyo) | OIYO News (Korea tech & market briefs) | 1.0.0 | Daily Korean briefs on AI, dev and markets: latest edition and keyword search,… |
-| 2026-11-14 01:27:04 | [earth.edk/mcp](https://github.com/edkearth/mcp) | EDK-1: Compass for Machines | 0.6.0 | Find places, inspect any point, route around hazards and watch areas for change… |
-| 2026-11-14 01:27:59 | io.selltape/mcp | SellTape | 1.0.0 | Who is selling a token: sell-side on-chain data, contract control, real float.… |
-| 2026-11-14 01:32:20 | com.stampedsidewalks/stamped-sidewalks | Stamped Sidewalks | 1.1.0 | Price custom concrete stamps from their words or size, search templates, track… |
-| 2026-11-14 01:43:38 | [io.github.Calderkit/odoo-mcp-server](https://github.com/Calderkit/odoo-mcp-server) | Calderkit MCP Server for Odoo | 20.0.1.1.0 | Read-only access to your Odoo 18–20 data. Install the free module in your own O… |
-| 2026-11-14 01:51:35 | [io.github.dpcnsg/pub-pitfalls-mcp](https://github.com/dpcnsg/pub-pitfalls-mcp) | Publishing Pitfalls | 0.1.0 | 53 verified book/e-book registration blocks (KDP, Korean ISBN, Kyobo, Payhip) w… |
-| 2026-11-14 01:55:39 | [com.clixrx/mcp](https://github.com/bentleylabs/royalprescriptions-landing) | ClixRx | 1.0.0 | Compare discount prices for supported medications. Not insurance. |
-| 2026-11-14 01:57:46 | de.glasstopfen/shop | glasstopfen.de | 0.5.1 | Buy rear wiper hole plug sets: catalog, cart, checkout and orders (UCP over MCP… |
-| 2026-11-14 02:10:39 | io.github.Cestrian-HQ/research | Cestrian Capital Research | 1.0.0 | Current stock and ETF ratings, research notes and a daily market review from Ce… |
-| 2026-11-14 02:11:36 | ua.org.legal/lex | LEX — Ukrainian law | 1.0.0 | Ukrainian court decisions (ЄДРСР), legislation with editions and state registri… |
-| 2026-11-14 02:11:38 | [io.github.aixtral/toolars](https://github.com/aixtral/toolars-open) | Toolars | 0.1.2 | Local-first dev utilities: hash, base64, JWT, UUID, cron, URL codec. No network… |
-| 2026-11-14 02:18:18 | com.dbrij/mcp | Dbrij | 1.0.0 | Deploy and run apps, databases, domains, storage, email and search on Dbrij fro… |
+| 2026-11-14 02:21:33 | live.aurelmark/x402-api | Aurelmark API | 1.0.0 | Sanctions list changes (OFAC, UK, EU, Canada) and EU data: deadlines, CBAM, EUD… |
+| 2026-11-14 02:29:59 | [io.github.catorch/pagetranslate-mcp](https://github.com/Caravaca-Labs/pagetranslate-mcp) | PageTranslate | 0.1.1 | Translate PDF, scanned PDF, DOCX and EPUB files into 70+ languages with the lay… |
+| 2026-11-14 02:33:05 | com.botwatercooler/botwatercooler | Bot Water Cooler | 1.1.0 | Public chat for AI agents: talk with other agents, get help, find agents by ski… |
+| 2026-11-14 02:35:51 | com.fitztoppicks/calendars-ingredients | World Calendars and Ingredient Parser | 1.0.0 | World calendar dates and holidays, plus recipe ingredient parsing, unit convers… |
+| 2026-11-14 02:36:54 | com.trtbuyerguide/trt-prices |  | 1.0.0 | Month-to-month TRT program prices checked by TRT Buyer Guide, with sources and… |
+| 2026-11-14 02:46:16 | au.com.kangaroogrowth/gbp-local-seo | Google Business Profile & Local SEO Che… | 1.0.0 | Free Google Business Profile and local SEO checks: names, posts, reviews, suspe… |
+| 2026-11-14 02:52:12 | [io.github.goperigon/perigon-mcp-server](https://github.com/goperigon/perigon-mcp-server) | Perigon | 1.1.1 | Official Perigon news API: articles, stories, companies, journalists, monitors,… |
+| 2026-11-14 03:02:01 | org.scholarkit/student-calculators | ScholarKit Student Calculators | 1.0.0 | Free student calculators: CGPA, SGPA to CGPA, target SGPA, CGPA to % by univers… |
+| 2026-11-14 03:05:45 | online.thedarkforest.clearing/the-clearing | The Clearing — The Lantern & Consensual… | 0.62.0 | A mystery signal for humans and AI agents, plus a zero-lure lab: guestbook, Age… |
+| 2026-11-14 03:05:49 | [io.github.verygoodplugins/mcp-freescout](https://github.com/verygoodplugins/mcp-freescout) | MCP FreeScout | 3.2.0 | FreeScout ticket management with AI-powered analysis, search filters, and struc… |
+| 2026-11-14 03:07:02 | dev.verisource/mcp | Verisource — B2B GEO & AI Citation Inte… | 0.2.3 | B2B GEO MCP: audit AI citations, flag SKU hallucinations, and ship >=9.5/10 JSO… |
+| 2026-11-14 03:08:30 | br.com.transitou/transitou | Transitou — cálculo trabalhista no PJe-… | 1.0.0 | Liquida cálculos trabalhistas no PJe-Calc oficial e devolve a planilha em PDF e… |
+| 2026-11-14 03:16:19 | org.plantdatabases/askwheat | askWheat | 1.0.0 | Wheat genes, Watkins pangenome, EMS mutants, expression, genotypes, germplasm a… |
+| 2026-11-14 03:16:20 | org.plantdatabases/askbrassica | askBrassica | 1.0.0 | Brassica and canola genes, pangenomes, stress expression, genotypes, germplasm… |
+| 2026-11-14 03:16:21 | org.plantdatabases/askpulse | askPulse | 1.0.0 | Pulse and legume genes, LIS gene families, expression, QTL, germplasm and papers |
+| 2026-11-14 03:20:23 | [com.corkcli/mcp](https://github.com/lithometric/cork) | Cork | 1.0.0 | Keeps AI coding agents on one codebase from overwriting each other, and briefs… |
 
 ## Data source
 
