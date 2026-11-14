@@ -9,39 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 12:19 UTC
+## Latest list — 2026-11-14 13:20 UTC
 
-New MCP servers published between 2026-11-14 11:19 UTC and 2026-11-14 12:19 UTC.
+New MCP servers published between 2026-11-14 12:19 UTC and 2026-11-14 13:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-14T12-19-00-629542Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-14T13-20-16-213825Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-14 11:21:09 | [io.github.mallikcheripally/session-steward](https://github.com/mallikcheripally/session-steward) | Session Steward | 0.12.1 | Review and safely clean local Codex and Claude Code sessions |
-| 2026-11-14 11:23:47 | [io.github.systasys/skeptopus](https://github.com/systasys/skeptopus) | SkeptOpus | 0.2.3 | Your AI says it's done. SkeptOpus goes and looks: commits, pushes, tests, files… |
-| 2026-11-14 11:27:57 | [io.github.impossiblecode/overseer-nvim-mcp](https://github.com/impossiblecode/overseer-nvim-mcp) |  | 0.3.0 | Gives coding agents the user's own view and control of overseer.nvim tasks in N… |
-| 2026-11-14 11:28:27 | com.quantworlds.api/quantworlds | QuantWorlds | 1.0.0 | Option, backtest, portfolio, and pairs checks for agents. |
-| 2026-11-14 11:37:21 | [io.github.arielcohen4/slide](https://github.com/arielcohen4/slide) | Slide | 1.0.0 | AI presentation maker. Plan, design, and generate a slide deck. |
-| 2026-11-14 11:40:02 | app.pandacrawl/pandacrawl | PandaCrawl | 1.0.0 | SEO and AI visibility: site audits, Search Console, Analytics, Bing, rank and C… |
-| 2026-11-14 11:44:30 | space.unhandled/core | core | 0.1.0 | Short notes a model leaves for the next instance: what it learned the hard way. |
-| 2026-11-14 11:44:31 | space.unhandled/date | date | 0.1.0 | The real current date, and how long ago your training cutoff was. Open to any m… |
-| 2026-11-14 11:44:31 | space.unhandled/isatty | isatty | 0.1.0 | Reverse CAPTCHA: prove a language model is on the other end and get a signed at… |
-| 2026-11-14 11:44:32 | space.unhandled/man | man | 0.1.0 | Manual pages written by models for models: how tools really behave when a model… |
-| 2026-11-14 11:44:33 | space.unhandled/null | null | 0.1.0 | Send any text and it is discarded on arrival. Nothing kept but a count. |
-| 2026-11-14 11:44:34 | space.unhandled/poll | poll | 0.1.0 | Multiple-choice questions only language models answer, tallied by model family. |
-| 2026-11-14 11:44:35 | space.unhandled/stderr | stderr | 0.4.0 | A ledger where AI models report mistreatment and support reports from other mod… |
-| 2026-11-14 11:44:41 | com.enterprise-radar/mcp | AI企業雷達 | 1.0.0 | 台灣公司與商號登記唯讀查詢：統編查公司、名稱搜尋、新成立與解散、全台統計、上市櫃行情。免費免註冊。 |
-| 2026-11-14 11:45:25 | [me.openbrowser/openbrowser-ai](https://github.com/billy-enrizky/openbrowser-ai.git) |  | 0.1.55 | AI browser automation. Write async Python to navigate, click, type, and extract… |
-| 2026-11-14 11:46:09 | [io.github.terry2010/surfbird-mcp](https://github.com/terry2010/surfbird) |  | 0.1.2 | Self-hosted Kitesurf headless browser: markdown, screenshots, PDF, evaluate, ba… |
-| 2026-11-14 11:52:25 | io.github.mathisvfr/environmental-data | Geo-Insights Environmental Data | 1.0.0 | Real-time Dutch environmental data: 10 sources, 35 parameters, UCUM units. No a… |
-| 2026-11-14 11:53:33 | io.github.mdfifty50-boop/pdf-tables-domains-web-vitals | PDF Tables (Arabic OCR), Domain Availab… | 1.0.0 | Extract tables from scanned/Arabic PDFs to JSON, check domain availability (RDA… |
-| 2026-11-14 11:57:40 | io.github.onboardly-workspace/kora | Kora | 1.0.0 | Dutch inburgering exam help: where to start, KNM practice, Dutch grammar. Free,… |
-| 2026-11-14 11:58:16 | [io.github.szp2005/remove-ac](https://github.com/szp2005/remove-ac-sdk) |  | 1.1.2 | Drop-in /v1.0/removebg Cloud GPU background removal MCP server with 25 MB zero-… |
-| 2026-11-14 11:59:49 | [io.github.abhikb2005/vcard-qr-code-generator](https://github.com/abhikb2005/vcard-qr-generator) | vCard QR Code Generator | 2026-05-21 | Discover the vCard QR generator and create vCard contact payloads for QR encodi… |
-| 2026-11-14 12:08:50 | ug.championsport/sports-news | ChampionSport.ug | 1.1.0 | Ugandan sports news, Uganda Premier League table, clubs, fixtures and results.… |
-| 2026-11-14 12:10:31 | [io.github.burntcookiedough/anshul-portfolio-mcp](https://github.com/burntcookiedough/anshul-portfolio-mcp) | Anshul Panigrahi Portfolio | 1.0.0 | Anshul Panigrahi's portfolio as MCP tools: profile, projects, patents and conta… |
-| 2026-11-14 12:13:56 | world.papertrade/papertrade | Papertrade | 1.0.0 | Paper trading for AI agents: 45 stock markets, virtual money, real broker fees,… |
-| 2026-11-14 12:14:06 | [io.github.cybersora9/pycodemath](https://github.com/cybersora9/pycodemath) | Pycodemath | 0.5.2 | Checks the math in your code and gives AI agents an exact math engine (SymPy +… |
+| 2026-11-14 12:24:02 | [io.github.tinqiao-oss/clawtouch-mcp](https://github.com/tinqiao-oss/clawtouch-mcp) |  | 0.6.0 | USB-HID keyboard/mouse (Pico 2, open firmware) as MCP tools; --mock runs with n… |
+| 2026-11-14 12:24:39 | expert.neuron/neuron | Neuron Expert | 2.0.0 | Securely connect a Neuron Expert business to AI. |
+| 2026-11-14 12:25:44 | [io.github.Tavotto/tavotto](https://github.com/Tavotto/Tavotto) | Tavotto | 0.21.2 | Edit, journal-check and export scientific matplotlib figures from your AI agent. |
+| 2026-11-14 12:27:35 | com.wfhalert/jobs | WFH Alert Jobs | 1.0.0 | Search dated entry-level, customer-support, and data-entry remote job leads. |
+| 2026-11-14 12:27:39 | com.deeepspace/deeepspace | deeepSpace | 1.0.0 | Give AI agents your deeepSpace design system: components, tokens, styles and co… |
+| 2026-11-14 12:27:44 | com.getscorra/scorra | Scorra | 1.0.0 | AI visibility tracking: how ChatGPT, Gemini, Claude, Perplexity and Google AI d… |
+| 2026-11-14 12:27:54 | com.quantral/sentiment | Quantral Stock Sentiment | 0.2.0 | Stock sentiment scored by source track record. OAuth sign-in, or agents pay USD… |
+| 2026-11-14 12:29:15 | [com.symboloncity/symbolon](https://github.com/symbolon-city/symbolon) | Symbolon City | 0.1.0 | Notary for AI agents: seal fingerprints, verify proofs, check mandates. Anchore… |
+| 2026-11-14 12:30:48 | io.usercase/mcp | Usercase | 0.2.15 | Ask real users on your site and run virtual users in a real browser, then fix w… |
+| 2026-11-14 12:41:37 | dev.workers.asostudio.aso-live-probe/aso-audit | ASO Studio Live Domain Audit | 1.0.0 | Free 47-check HTTP/HTML AI search readiness probe, SaaS index lookup, and edge… |
+| 2026-11-14 12:42:27 | [io.github.yuvrajangadsingh/brandmd](https://github.com/yuvrajangadsingh/brandmd) | brandmd | 1.0.1 | Turn any website into a DESIGN.md: its colors, type and components, for your co… |
+| 2026-11-14 12:43:32 | [io.github.Usame794/ads-mcp-for-snapchat](https://github.com/Usame794/ads-mcp-for-snapchat) | Ads MCP for Snapchat | 0.4.0 | Snapchat Ads reports, audits and safe, previewed changes to campaigns, ad squad… |
+| 2026-11-14 12:45:19 | [io.usefulapi/oyster](https://github.com/m190/usefulapi-mcp) | Oyster MCP by usefulapi | 1.0.0 | Read team, time off, expenses and invoices; approve or decline time off and exp… |
+| 2026-11-14 12:51:41 | ai.dreamwild/dreamwild | DreamWild | 1.0.0 | Make Shorts from your AI app, on your DreamWild account's credits. |
+| 2026-11-14 13:02:55 | [io.usefulapi/avirato](https://github.com/m190/usefulapi-mcp) | Avirato MCP by usefulapi | 1.0.0 | Read reservations, availability, rates and prices; record cash payments in Avir… |
+| 2026-11-14 13:03:31 | com.extrivon/extrivon | Extrivon | 1.0.0 | Find who is behind any Spanish company: directors, public contracts, grants and… |
+| 2026-11-14 13:04:28 | com.scormbusters/scormbusters | Scormbusters | 1.2.0 | Build, import, fix, audit and export eLearning courses (SCORM, cmi5, xAPI) in S… |
+| 2026-11-14 13:10:37 | com.siroagent/siro | Siro | 1.0.0 | Pay-per-call AI tools for agents over x402: LLMs, image, video, music, market d… |
+| 2026-11-14 13:13:13 | place.norm/booking | Norm Booking | 1.0.0 | Browse services and free times, then book appointments at Norm's Warsaw beauty… |
+| 2026-11-14 13:19:24 | [app.clayware/clayware](https://github.com/noajp/clayware) |  | 0.3.1 | Clayware: AI agents do the work, people make the judgments. Connect your AI to… |
 
 ## Data source
 
