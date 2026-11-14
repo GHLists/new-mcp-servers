@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-11-14T00:31:20.258152Z,com.biggervs/biggervs,biggervs,1.0.0,,streamable-http,Sourced real-world dimensions and size comparisons for 153 objects in nine languages.
+2026-11-14T00:31:21.390879Z,com.639cloud/shell,,0.3.0,,streamable-http,"Linux machines for AI agents: create, run commands, snapshot, fork, sandbox. Alpha."
+2026-11-14T00:36:33.084518Z,dev.golfapi/golfapi,GolfAPI.dev,1.0.0,,streamable-http,"Golf club specs from each maker: drivers to putters, lofts, hands, release years and launch prices."
+2026-11-14T00:38:01.021757Z,com.agrodiler/catalog,Agrodiler,1.0.0,,streamable-http,"Bearings, farm machinery parts and machines for Ukraine and the EU: search, prices, stock, orders."
+2026-11-14T00:42:53.281342Z,com.svgmill/svgmill,SVGMill,1.2.0,,streamable-http,"Turn images into clean SVG, PDF, EPS or DXF files, then edit the colours. 1 credit per image."
+2026-11-14T00:47:32.47629Z,ai.autonomad/travel,,1.6.6,https://github.com/autonomad-ai/autonomad,streamable-http,"Flights and hotels booked in one checkout; tours, events and dining to plan; group trips."
+2026-11-14T00:51:19.968681Z,com.drivaron/income-calculator,Drivaron driver income calculator,1.0.0,,streamable-http,"Grade ride-hail offers and estimate net driver income in Colombia, Peru and Bolivia."
+2026-11-14T01:02:59.036412Z,io.github.chomkaevan/property-risk,Property Risk Check,1.0.0,https://github.com/chomkaevan/public-domain-check-mcp,streamable-http,"FEMA flood zone, flood insurance need and seismic risk for US addresses. Pay per call via x402."
+2026-11-14T01:02:59.146375Z,io.github.chomkaevan/sanctions-check,Sanctions Check,1.0.0,https://github.com/chomkaevan/public-domain-check-mcp,streamable-http,Screen crypto wallets and names against US Treasury OFAC sanctions lists. Pay per call via x402.
+2026-11-14T01:03:50.942064Z,com.tsukuyomi-list/listhub-quote,ListHub – Japan B2B Sales List Quotes,1.0.0,,streamable-http,Count Japanese companies by area and industry and get a tax-included quote and order link.
+2026-11-14T01:05:12.654092Z,io.github.davidemena-spec/marketplace-fees,Marketplace Seller Fee Calculator,2026.2.0,,streamable-http,"US marketplace seller fees, profit and the price needed to hit a goal, from official fee pages."
+2026-11-14T01:07:49.714967Z,io.github.tigergraph/tigergraph-mcp,TigerGraph,1.0.4,https://github.com/tigergraph/tigergraph-mcp,,"Explore and evolve TigerGraph schemas, run GSQL and Cypher, load data, and search vector embeddings."
+2026-11-14T01:07:52.21735Z,io.github.sumioshi/wacrew,WACrew,0.1.0,https://github.com/sumioshi/wacrew,,"WhatsApp for AI agents: read chats, transcribe voice notes and reply at a human pace."
+2026-11-14T01:09:17.302748Z,io.github.halfabillion/uk-postcode-intel,UK Postcode Intel,1.0.0,,streamable-http,"UK postcode intel: official crime, flood, house-price and food-hygiene data, paid per call via x402."
+2026-11-14T01:19:28.747869Z,com.steddle/bron,Bron,0.1.0,,streamable-http,"Dutch and EU law as it stood on any day, from the official texts, with quotations you can check."

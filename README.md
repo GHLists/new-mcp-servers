@@ -9,24 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 00:21 UTC
+## Latest list — 2026-11-14 01:21 UTC
 
-New MCP servers published between 2026-11-13 23:18 UTC and 2026-11-14 00:21 UTC.
+New MCP servers published between 2026-11-14 00:21 UTC and 2026-11-14 01:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-14T00-21-58-716997Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-14T01-21-07-086185Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-13 23:30:22 | ai.openbnb/openbnb | OpenBnB | 1.0.0 | Search Vacation Rentals and plan trips with Google Maps: distances, places, com… |
-| 2026-11-13 23:35:45 | [io.github.liozelmalem-star/slate](https://github.com/liozelmalem-star/slate-releases) | Slate | 0.1.69 | One memory for every AI coding tool. Needs the Slate desktop app (macOS). |
-| 2026-11-13 23:37:01 | [com.solidcredit/solid-credit](https://github.com/SolidCredit/claude-plugin) | Solid Credit | 1.0.0 | Understand your credit scores, reports, and next steps in plain English. Read-o… |
-| 2026-11-13 23:40:37 | com.foliopeak/cairn | Foliopeak | 1.0.0 | Ask your AI about your own UK net worth, accounts, tax allowances and budget in… |
-| 2026-11-13 23:44:40 | com.cumplida/biblioteca | Biblioteca abierta de Cumplida | 1.1.0 | Ley fiscal y jurisprudencia de México con vigencia y cita. Gratis, uso anónimo… |
-| 2026-11-13 23:45:15 | me.leadli/mcp | leadli.me | 0.8.0 | Manage Telegram channels, bots, ad attribution, subscriber reports and landing… |
-| 2026-11-13 23:47:39 | [io.github.hydrolix/mcp-hydrolix](https://github.com/hydrolix/mcp-hydrolix) |  | 0.3.8 | An MCP server to query Hydrolix |
-| 2026-11-13 23:56:04 | dev.korzen/bot-protection | Korzen Bot Protection | 1.0.0 | Ask why Korzen Bot Protection blocked a request, what attacked your site and wh… |
-| 2026-11-14 00:14:33 | dev.appnavi/appnavi | APP NAVI | 1.0.0 | Search indie and small-team apps and their developers (7 languages). Unverified… |
-| 2026-11-14 00:16:02 | [io.github.ty-meador/civ-v-llm-harness](https://gitlab.com/Tyler-Meador/civ-v-linux-mcp) | Civilization V Harness (Linux) | 2.14.3 | Play Sid Meier's Civilization V (native Linux) as a human seat, by the game's o… |
+| 2026-11-14 00:31:20 | com.biggervs/biggervs | biggervs | 1.0.0 | Sourced real-world dimensions and size comparisons for 153 objects in nine lang… |
+| 2026-11-14 00:31:21 | com.639cloud/shell |  | 0.3.0 | Linux machines for AI agents: create, run commands, snapshot, fork, sandbox. Al… |
+| 2026-11-14 00:36:33 | dev.golfapi/golfapi | GolfAPI.dev | 1.0.0 | Golf club specs from each maker: drivers to putters, lofts, hands, release year… |
+| 2026-11-14 00:38:01 | com.agrodiler/catalog | Agrodiler | 1.0.0 | Bearings, farm machinery parts and machines for Ukraine and the EU: search, pri… |
+| 2026-11-14 00:42:53 | com.svgmill/svgmill | SVGMill | 1.2.0 | Turn images into clean SVG, PDF, EPS or DXF files, then edit the colours. 1 cre… |
+| 2026-11-14 00:47:32 | [ai.autonomad/travel](https://github.com/autonomad-ai/autonomad) |  | 1.6.6 | Flights and hotels booked in one checkout; tours, events and dining to plan; gr… |
+| 2026-11-14 00:51:19 | com.drivaron/income-calculator | Drivaron driver income calculator | 1.0.0 | Grade ride-hail offers and estimate net driver income in Colombia, Peru and Bol… |
+| 2026-11-14 01:02:59 | [io.github.chomkaevan/property-risk](https://github.com/chomkaevan/public-domain-check-mcp) | Property Risk Check | 1.0.0 | FEMA flood zone, flood insurance need and seismic risk for US addresses. Pay pe… |
+| 2026-11-14 01:02:59 | [io.github.chomkaevan/sanctions-check](https://github.com/chomkaevan/public-domain-check-mcp) | Sanctions Check | 1.0.0 | Screen crypto wallets and names against US Treasury OFAC sanctions lists. Pay p… |
+| 2026-11-14 01:03:50 | com.tsukuyomi-list/listhub-quote | ListHub – Japan B2B Sales List Quotes | 1.0.0 | Count Japanese companies by area and industry and get a tax-included quote and… |
+| 2026-11-14 01:05:12 | io.github.davidemena-spec/marketplace-fees | Marketplace Seller Fee Calculator | 2026.2.0 | US marketplace seller fees, profit and the price needed to hit a goal, from off… |
+| 2026-11-14 01:07:49 | [io.github.tigergraph/tigergraph-mcp](https://github.com/tigergraph/tigergraph-mcp) | TigerGraph | 1.0.4 | Explore and evolve TigerGraph schemas, run GSQL and Cypher, load data, and sear… |
+| 2026-11-14 01:07:52 | [io.github.sumioshi/wacrew](https://github.com/sumioshi/wacrew) | WACrew | 0.1.0 | WhatsApp for AI agents: read chats, transcribe voice notes and reply at a human… |
+| 2026-11-14 01:09:17 | io.github.halfabillion/uk-postcode-intel | UK Postcode Intel | 1.0.0 | UK postcode intel: official crime, flood, house-price and food-hygiene data, pa… |
+| 2026-11-14 01:19:28 | com.steddle/bron | Bron | 0.1.0 | Dutch and EU law as it stood on any day, from the official texts, with quotatio… |
 
 ## Data source
 
