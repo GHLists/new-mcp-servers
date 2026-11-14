@@ -1,0 +1,16 @@
+created_at,server,title,version,repository,transports,description
+2026-11-14T04:21:03.668732Z,io.github.Cryptosystema/searchtrim,Searchtrim — Google Ads for AI assistants,0.1.0,,streamable-http,"Ask Claude about your Google Ads: campaign performance, wasted search terms, GAQL reports."
+2026-11-14T04:22:46.324243Z,com.dailyzebra/zebra,Zebra,0.2.3,,streamable-http,"Keeps the promises from your meetings and chats, and picks one delivery for your day."
+2026-11-14T04:31:42.734162Z,io.github.jcode-works/ragmir,Ragmir,6.5.2,https://github.com/jcode-works/jcode-ragmir,,"Cited local retrieval for agents: search code, PDFs, and Office files with exact citations."
+2026-11-14T04:31:52.761898Z,io.github.itsryanarmani/dietitians,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Find a registered dietitian. Check the source.
+2026-11-14T04:32:50.712044Z,ai.tineo/tineo,Tineo,1.1.0,,streamable-http,"Plan trips, search flights and hotels, and keep every booking in one shared itinerary."
+2026-11-14T04:35:11.73351Z,com.offladder/offladder,OffLadder,1.1.0,https://github.com/wonderwhiz/offladder-claude,streamable-http,"Career change coach: test a career with small experiments, find directions, 300+ sourced guides."
+2026-11-14T04:39:34.935844Z,app.trainultra/coach,Train Ultra,1.0.0,https://github.com/trainultra/coach,streamable-http,"Ask your private endurance coach about your workouts, plan, goals, recovery and nutrition."
+2026-11-14T04:39:43.929187Z,cloud.agent-tools/agent-tools-mcp,agent-tools (x402 + MCP + A2A directory),0.5.2,https://github.com/AgentTools-Cloud/AgentToolsCollection,streamable-http,"Discover x402 services, MCP servers and A2A agents by intent — agent-tools.cloud directory."
+2026-11-14T04:39:45.851051Z,io.github.ryanmat/logicmonitor,,5.0.0,https://github.com/ryanmat/mcp-server-logicmonitor,,"LogicMonitor REST API v3 in 273 tools: alerts, devices, metrics, dashboards, logs and Edwin AI."
+2026-11-14T04:41:22.317765Z,app.getnunchi.jangbogi/jangbogi,장보기 (Jangbogi),1.0.0,,streamable-http,"Pre-computed weekly Korean dinner plans with Market Kurly grocery carts. Read-only, no sign-in."
+2026-11-14T04:45:49.619448Z,io.github.aashishvanand/ccreward,ccreward,1.0.4,https://github.com/aashishvanand/ccreward-ai,streamable-http,"Credit card rewards for India and Singapore: points, miles or cashback per card, spend and merchant."
+2026-11-14T04:48:17.13886Z,com.markstudios/video-toolkit,Mark Studios Video Toolkit,1.0.0,,streamable-http,"Video project tools: platform specs, editing briefs, SRT/WebVTT conversion, turnaround times."
+2026-11-14T04:50:42.858499Z,app.ccreward/ccreward,ccreward,1.0.5,https://github.com/aashishvanand/ccreward-ai,streamable-http,"Credit card rewards for India and Singapore: points, miles or cashback per card, spend and merchant."
+2026-11-14T05:06:38.895361Z,io.github.harinderlabana/x402-oracle,,0.1.1,https://github.com/harinderlabana/x402-oracle,,"On-chain crypto oracle for AI agents via x402 (Base USDC): token risk, new pools, gas & wallet."
+2026-11-14T05:10:55.881419Z,com.livuma/homes,Livuma — Bali rental & property search,1.0.0,https://github.com/Livuma/livuma-docs,streamable-http,"Search Bali villas, apartments and homes for rent or sale; live availability and prices."

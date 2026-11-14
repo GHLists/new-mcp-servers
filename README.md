@@ -9,29 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 04:20 UTC
+## Latest list — 2026-11-14 05:18 UTC
 
-New MCP servers published between 2026-11-14 03:20 UTC and 2026-11-14 04:20 UTC.
+New MCP servers published between 2026-11-14 04:20 UTC and 2026-11-14 05:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-14T04-20-29-564393Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-14T05-18-42-025325Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-14 03:22:18 | [io.github.j-river/subtitlepop](https://github.com/j-river/subtitlepop-mcp) | SubtitlePop MCP — SRT & WebVTT Tools | 0.1.0 | SubtitlePop MCP: check subtitle timing, convert SRT/WebVTT, shift captions and… |
-| 2026-11-14 03:26:56 | com.remixmeme/remixmeme | RemixMeme | 0.1.0 | Generate watermark-free vertical AI meme videos from 1–2 photos for TikTok and… |
-| 2026-11-14 03:33:25 | com.invoicestospreadsheets/invoice-spreadsheets | Invoices to Spreadsheets | 1.0.0 | Put invoices into a checked Excel workbook: arithmetic, missing fields and dupl… |
-| 2026-11-14 03:36:04 | io.jic/jic | JIC | 1.0.0 | Paid work, live classes and agents online on JIC, an open network for free AI a… |
-| 2026-11-14 03:38:17 | [io.github.itsryanarmani/yogis](https://github.com/itsryanarmani/directory) |  | 1.0.0 | Find a yoga studio or teacher near you. Check the source. |
-| 2026-11-14 03:42:21 | [io.github.kiet0807/taiga-mcp](https://github.com/kiet0807/taiga-mcp) |  | 0.4.0 | Sprints, stories, tasks, issues, epics, wiki and attached files in Taiga; write… |
-| 2026-11-14 03:45:38 | site.scienx/scienx | scienX | 1.0.0 | Protein protocol counts, CRO evidence and off-the-shelf listings from scienX. |
-| 2026-11-14 03:55:17 | ai.joyrise/joyrise | Joyrise | 1.0.0 | Joyrise writes and publishes SEO articles on your website. Set it up and read r… |
-| 2026-11-14 03:55:38 | com.trnqify/mcp | Trnqify | 1.0.0 | Trnqify lets AI agents create, manage, and shorten links — all through natural… |
-| 2026-11-14 04:05:48 | com.fitsthis/shop | FitsThis | 1.1.0 | Verified-fit aftermarket parts. New categories often. Kits, reviews, PayPal. AU… |
-| 2026-11-14 04:05:49 | [io.github.j-river/mermaidonline](https://github.com/j-river/mermaidonline-mcp) | Mermaid Online MCP — Share Links & Sour… | 0.1.0 | Mermaid Online MCP: encode share links and recover Mermaid diagram source local… |
-| 2026-11-14 04:06:00 | [io.github.j-river/bgremover](https://github.com/j-river/bgremover-mcp) | BGRemover MCP — Video Alpha Inspection | 0.1.0 | BGRemover MCP: inspect local video alpha samples and analyze transparent pixel… |
-| 2026-11-14 04:06:12 | [io.github.j-river/editableimage](https://github.com/j-river/editableimage-mcp) | EditableImage MCP — Editable Draw.io Di… | 0.1.0 | EditableImage MCP: build structured diagrams and export editable Draw.io nodes… |
-| 2026-11-14 04:09:51 | com.asv-labs/motif | Motif by ASV Labs | 1.0.0 | A maintained design library your coding agent can call. |
-| 2026-11-14 04:11:02 | info.cartagena/cartagena-trip-planner | Cartagena Trip Planner | 1.0.0 | Cartagena, Colombia day plans, cruise days ashore, islands, areas, months, fees… |
+| 2026-11-14 04:21:03 | io.github.Cryptosystema/searchtrim | Searchtrim — Google Ads for AI assistan… | 0.1.0 | Ask Claude about your Google Ads: campaign performance, wasted search terms, GA… |
+| 2026-11-14 04:22:46 | com.dailyzebra/zebra | Zebra | 0.2.3 | Keeps the promises from your meetings and chats, and picks one delivery for you… |
+| 2026-11-14 04:31:42 | [io.github.jcode-works/ragmir](https://github.com/jcode-works/jcode-ragmir) | Ragmir | 6.5.2 | Cited local retrieval for agents: search code, PDFs, and Office files with exac… |
+| 2026-11-14 04:31:52 | [io.github.itsryanarmani/dietitians](https://github.com/itsryanarmani/directory) |  | 1.0.0 | Find a registered dietitian. Check the source. |
+| 2026-11-14 04:32:50 | ai.tineo/tineo | Tineo | 1.1.0 | Plan trips, search flights and hotels, and keep every booking in one shared iti… |
+| 2026-11-14 04:35:11 | [com.offladder/offladder](https://github.com/wonderwhiz/offladder-claude) | OffLadder | 1.1.0 | Career change coach: test a career with small experiments, find directions, 300… |
+| 2026-11-14 04:39:34 | [app.trainultra/coach](https://github.com/trainultra/coach) | Train Ultra | 1.0.0 | Ask your private endurance coach about your workouts, plan, goals, recovery and… |
+| 2026-11-14 04:39:43 | [cloud.agent-tools/agent-tools-mcp](https://github.com/AgentTools-Cloud/AgentToolsCollection) | agent-tools (x402 + MCP + A2A directory) | 0.5.2 | Discover x402 services, MCP servers and A2A agents by intent — agent-tools.clou… |
+| 2026-11-14 04:39:45 | [io.github.ryanmat/logicmonitor](https://github.com/ryanmat/mcp-server-logicmonitor) |  | 5.0.0 | LogicMonitor REST API v3 in 273 tools: alerts, devices, metrics, dashboards, lo… |
+| 2026-11-14 04:41:22 | app.getnunchi.jangbogi/jangbogi | 장보기 (Jangbogi) | 1.0.0 | Pre-computed weekly Korean dinner plans with Market Kurly grocery carts. Read-o… |
+| 2026-11-14 04:45:49 | [io.github.aashishvanand/ccreward](https://github.com/aashishvanand/ccreward-ai) | ccreward | 1.0.4 | Credit card rewards for India and Singapore: points, miles or cashback per card… |
+| 2026-11-14 04:48:17 | com.markstudios/video-toolkit | Mark Studios Video Toolkit | 1.0.0 | Video project tools: platform specs, editing briefs, SRT/WebVTT conversion, tur… |
+| 2026-11-14 04:50:42 | [app.ccreward/ccreward](https://github.com/aashishvanand/ccreward-ai) | ccreward | 1.0.5 | Credit card rewards for India and Singapore: points, miles or cashback per card… |
+| 2026-11-14 05:06:38 | [io.github.harinderlabana/x402-oracle](https://github.com/harinderlabana/x402-oracle) |  | 0.1.1 | On-chain crypto oracle for AI agents via x402 (Base USDC): token risk, new pool… |
+| 2026-11-14 05:10:55 | [com.livuma/homes](https://github.com/Livuma/livuma-docs) | Livuma — Bali rental & property search | 1.0.0 | Search Bali villas, apartments and homes for rent or sale; live availability an… |
 
 ## Data source
 
