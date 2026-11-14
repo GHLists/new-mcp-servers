@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-11-14T07:23:40.233488Z,ai.paygenthq/paygent,Paygent,1.0.0,,streamable-http,"A wallet your AI agent pays from by bank transfer, mobile money or card. You approve each payment."
+2026-11-14T07:24:33.033084Z,io.fantasma/mcp,Fantasma,1.0.0,,streamable-http,"Build and publish Ghost themes with your AI agent: pages, styles, patterns and previews."
+2026-11-14T07:29:29.132527Z,io.github.kolivritech/memoria-mcp,Memoria — Deterministic AI Memory & Code Intelligence MCP,1.0.0,https://github.com/kolivritech/memoria-mcp,streamable-http,"Deterministic memory & code intelligence MCP for 15 IDEs (100% LongMemEval in 12.9ms, 0 LLM tokens)."
+2026-11-14T07:33:14.779542Z,com.invezgo/data-saham-indonesia,Invezgo - Data Saham Indonesia,1.0.0,https://github.com/Invezgo/invezgo-mcp,streamable-http,"Data pasar saham Indonesia (IDX) dari Invezgo: harga, broker, shareholder, keuangan, dan lainnya."
+2026-11-14T07:35:18.826765Z,io.github.ofir09/tendy,Tendy - Israeli public tenders,1.0.0,,streamable-http,"Search open Israeli public procurement tenders (מכרזים): requirements, deadlines, documents."
+2026-11-14T07:36:54.836766Z,io.github.aiispower/easyserp,easyserp,1.0.0,https://github.com/aiispower/easyserp,,Search Google and Bing through MCP with source-domain filters and safe request recovery.
+2026-11-14T07:37:27.361355Z,com.currencyguard/guard-pricing,CurrencyGuard Guard Pricing,1.1.0,https://gitlab.com/currencyguard/mcp-server,streamable-http,"FX protection for SMEs — price Guards, live spot/forward rates, settlement dates, and more."
+2026-11-14T07:39:15.210585Z,com.cryptoexchangein/cryptoexchangein,CryptoExchangeIn,1.0.0,,streamable-http,"Crypto exchange legality by country, true fee & spread calculator, and cold wallet comparisons."
+2026-11-14T07:41:15.854183Z,com.manotr/manotr,Manotr,1.0.0,,streamable-http,"Search Manotr's AI products for newsrooms, media and on-premise AI, and send an enquiry."
+2026-11-14T07:41:17.839176Z,diy.watch/diy-store-finder,watch.diy – DIY Store Finder,1.0.0,,streamable-http,"Product availability and prices at German DIY stores (OBI, Bauhaus, toom, Hornbach…) by postcode"
+2026-11-14T07:41:22.172868Z,com.deepthoughtconsultech/dtc,Deep Thought Consultech,1.0.0,,streamable-http,"Search Deep Thought Consultech's AI consulting services and products, and send an enquiry."
+2026-11-14T07:44:18.710193Z,com.proppasscheck/prop-firm-tools,PropPassCheck,3.0.0,,streamable-http,"Prop firm challenge rules, pass odds from your own trades, fees and rule changes. No affiliates."
+2026-11-14T07:45:45.123245Z,io.github.SandstromPL/whyreach,whyreach,0.1.0,https://github.com/SandstromPL/whyreach,,"Read-only Docker network diagnosis: why one container can't reach another, with evidence."
+2026-11-14T07:50:00.095066Z,io.github.acamolese/google-search-console-mcp,Google Search Console,4.0.0,https://github.com/acamolese/google-search-console-mcp,,Search Console: 18 read-only SEO tools plus a white-label HTML audit in English or Italian.
+2026-11-14T07:50:50.29817Z,io.github.Shahbazhk/nusk-mcp,Nusk,1.0.0,https://github.com/Shahbazhk/nusk-mcp,streamable-http,"Project management for AI agents: work items, sprints, Gantt schedules, RAID logs and wiki pages."
+2026-11-14T08:00:02.656525Z,com.agentproofchain/agentproof,AgentProof,0.2.0,https://github.com/cipherxsniper/agentproof,streamable-http,"Verify signed, hash-chained AI agent audit logs and watch a live AgentProof-signed agent town."
+2026-11-14T08:03:54.565697Z,com.neoptimasolutions/mcp,Neoptima Marketing Solutions,1.0.0,,streamable-http,"Read-only facts about Neoptima, a New Delhi digital growth firm: services, free AI check, blog."
+2026-11-14T08:06:21.729414Z,net.dmytro-prototypes/drawing-mcp-server,Drawing MCP Server,0.2.12,,streamable-http,"Read, query, edit and render DWG drawings with AI. No AutoCAD required."
+2026-11-14T08:07:07.605735Z,io.github.igorolv/mail-mcp-server,Mail MCP Server,0.1.1,https://github.com/igorolv/mail-mcp-server,,"Read-only mail for AI agents: on-premises Exchange and any IMAP mailbox, with attachment search"
+2026-11-14T08:12:05.748842Z,com.discortics/discord-bot,Discortics - Discord Bot,1.0.0,,streamable-http,"Set up and manage your Discord server from MCP: channels, roles, verification, tickets and security."
+2026-11-14T08:18:05.300972Z,com.globalhostia/store,GlobalHostia,2.0.0,,streamable-http,"Domains, DNS, hosting, VPS, SSL and email: live prices, domain checks, orders and account tools."
+2026-11-14T08:18:10.986355Z,com.sunnytranslation/fanbei,翻呗文档翻译,0.1.0,https://github.com/ee58594/fanbei-mcp,streamable-http,文档翻译：上传 DOCX/PDF/PPTX/XLSX/TXT，指定引擎与目标语言，查询进度并下载成品。支持 ZIP/7Z/RAR 批量包与双语对照、扫描件 OCR。
+2026-11-14T08:18:37.208124Z,io.github.zhengjinfa/pmclite-scheduler,轻排生产排产（MRP-PMC）,1.1.0,,,驱动本机轻排 MRP-PMC 完成排产、交期评审、插单评估与物料齐套检查（需先安装 MRP-PMC）
