@@ -1,0 +1,11 @@
+created_at,server,title,version,repository,transports,description
+2026-11-13T23:30:22.221424Z,ai.openbnb/openbnb,OpenBnB,1.0.0,,streamable-http,"Search Vacation Rentals and plan trips with Google Maps: distances, places, comps."
+2026-11-13T23:35:45.313518Z,io.github.liozelmalem-star/slate,Slate,0.1.69,https://github.com/liozelmalem-star/slate-releases,,One memory for every AI coding tool. Needs the Slate desktop app (macOS).
+2026-11-13T23:37:01.092993Z,com.solidcredit/solid-credit,Solid Credit,1.0.0,https://github.com/SolidCredit/claude-plugin,streamable-http,"Understand your credit scores, reports, and next steps in plain English. Read-only access."
+2026-11-13T23:40:37.734673Z,com.foliopeak/cairn,Foliopeak,1.0.0,,streamable-http,"Ask your AI about your own UK net worth, accounts, tax allowances and budget in Foliopeak."
+2026-11-13T23:44:40.847628Z,com.cumplida/biblioteca,Biblioteca abierta de Cumplida,1.1.0,,streamable-http,"Ley fiscal y jurisprudencia de México con vigencia y cita. Gratis, uso anónimo registrado."
+2026-11-13T23:45:15.941895Z,me.leadli/mcp,leadli.me,0.8.0,,streamable-http,"Manage Telegram channels, bots, ad attribution, subscriber reports and landing pages with leadli.me."
+2026-11-13T23:47:39.831176Z,io.github.hydrolix/mcp-hydrolix,,0.3.8,https://github.com/hydrolix/mcp-hydrolix,,An MCP server to query Hydrolix
+2026-11-13T23:56:04.184457Z,dev.korzen/bot-protection,Korzen Bot Protection,1.0.0,,streamable-http,"Ask why Korzen Bot Protection blocked a request, what attacked your site and which AIs read it."
+2026-11-14T00:14:33.058356Z,dev.appnavi/appnavi,APP NAVI,1.0.0,,streamable-http,Search indie and small-team apps and their developers (7 languages). Unverified fields are null.
+2026-11-14T00:16:02.837465Z,io.github.ty-meador/civ-v-llm-harness,Civilization V Harness (Linux),2.14.3,https://gitlab.com/Tyler-Meador/civ-v-linux-mcp,,"Play Sid Meier's Civilization V (native Linux) as a human seat, by the game's own rules."
