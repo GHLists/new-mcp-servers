@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-11-14T08:21:14.562416Z,io.github.cartesia-ai/cartesia-mcp,Cartesia,0.32.0,https://github.com/cartesia-ai/cartesia-mcp,streamable-http,"Cartesia voice AI: text-to-speech, speech-to-text, voice cloning, and voice management."
+2026-11-14T08:21:15.759255Z,io.github.LovaRK/agentbelt,agentbelt,0.3.1,https://github.com/LovaRK/agentbelt,,"Safe, audited git, test and workflow tools for any MCP coding client. Never pushes; you approve."
+2026-11-14T08:26:17.772522Z,io.github.zerolver1/diffcards,DiffCards,1.0.0,,streamable-http,"Your merged PRs as a few question cards a day: today's deck, what merged, what you know."
+2026-11-14T08:31:21.687594Z,fr.lobbydex/lobbydex,Lobbydex,1.0.0,,streamable-http,"French-speaking FiveM (GTA RP) servers: live players, rankings, events, recruiting, GTA 6 projects."
+2026-11-14T08:34:20.824395Z,kz.treeple/tours,,2.0.0,,streamable-http,"Search tours in Kazakhstan, book them and pay by card link. A manager follows up on every booking."
+2026-11-14T08:35:52.065327Z,app.rilmo/rilmo,Rilmo,1.0.0,,streamable-http,"Read-only access to a student's recorded classes: transcripts, notes, slides and concept map."
+2026-11-14T08:41:56.206933Z,au.com.searchscope/ai-visibility-auditor,Search Scope AI Visibility Auditor,1.0.0,https://github.com/InovArcAi/searchscope-ai-visibility-mcp,streamable-http,"Free AI search visibility audit for any website, by Search Scope, an SEO consultancy in Perth."
+2026-11-14T08:44:30.464562Z,io.github.yashgandhe666/pickedjobs,PickedJobs,1.0.0,,streamable-http,"Search curated tech jobs from company career pages by role, seniority, region, stack and salary."
+2026-11-14T08:47:30.875999Z,io.github.zuo305/chain-data-agent,Chain Data for Agents (x402),0.1.0,,streamable-http,"Live Solana validator stats: stake, commission, vote credits, skip rate. Pay per call via x402."
+2026-11-14T08:48:04.796854Z,ai.arcangel/trademark-search,Arcangel Trademark Search,0.1.0,,streamable-http,Free trademark availability check: is a brand name taken? USPTO search with conflict risk.
+2026-11-14T08:49:39.025862Z,com.zenityx/studio,ZenityX Studio,1.0.0,,streamable-http,"Create AI images, videos, voice-overs and songs with ZenityX Studio credits. Thai and English."
+2026-11-14T08:49:50.72546Z,io.github.JeanExtreme002/mcp-server-macos,mcp-server-macos,0.1.1,https://github.com/JeanExtreme002/mcp-server-macos,,"Let your AI assistant use your Mac: an MCP server for macOS, built on pymacos."
+2026-11-14T08:53:23.564413Z,io.github.dimitrovakulenko/dwg-mcp-server,DWG MCP Server,0.2.4,https://github.com/dimitrovakulenko/dwg-mcp-server,,Read-only DWG file access for AI clients through MCP.
+2026-11-14T08:53:47.349761Z,io.github.broosaction/innerli,InnerLi,1.0.0,,streamable-http,"Connect an owner-approved AI agent to InnerLi profiles, posts, rooms, and messaging."
+2026-11-14T08:55:47.584418Z,io.github.abliteratedllm/mcp-server,AbliteratedLLM,0.1.0,https://github.com/abliteratedllm/mcp-server,,"Browse AbliteratedLLM models and prices, check your balance, and call its models from any MCP host."
+2026-11-14T08:56:33.760767Z,io.github.Mortek/realmkeep,Realmkeep,0.2.1,https://github.com/Mortek/realmkeep,,"Let an AI assistant fill in a Realmkeep game listing as a draft, images included. It never submits."
+2026-11-14T08:57:18.738675Z,com.wecookflow/mcp,WeCookFlow — guest post prices,1.0.0,https://github.com/WeCookFlow/mcp,streamable-http,"Compare guest post prices for the same sites across marketplaces; find sites by niche, DR, budget."
+2026-11-14T09:03:58.021531Z,io.github.iart-ai/iart,iArt,1.0.0,,streamable-http,"Make motion graphics videos from a prompt: kinetic type, explainers, logo reveals, AI voice-over."
+2026-11-14T09:04:39.685211Z,hu.szulnijo/booking,Szülni Jó – services and appointments,1.2.0,,streamable-http,"Public services and available appointments at Szülni Jó, Hungary. Online or telephone booking links."
+2026-11-14T09:04:42.431954Z,art.atelierlumin/commerce,Atelier Lumin Commerce,0.1.0,,streamable-http,Search Atelier Lumin original paintings and limited-edition prints via Universal Commerce.
+2026-11-14T09:06:03.046458Z,io.github.xxblv81/budgethelm,Budgethelm,0.1.0,https://github.com/xxblv81/budgethelm,streamable-http,"See AI agent token spend per project and model, and stop agents that loop or burn tokens."
+2026-11-14T09:06:12.299228Z,io.github.joinwell52-AI/boundaryxp,BoundaryXP · 7+1 Task Boundary Verification,0.4.0-rc.4,,,"7+1 task boundary analysis, native calculation verification and evidence reports. Windows x64."
+2026-11-14T09:09:24.105615Z,co.agentfarm/agentfarm,AgentFarm,1.0.29,,streamable-http,"A real browser on your Mac for your AI agent, signed in to your own accounts."
+2026-11-14T09:15:42.232287Z,io.github.JlMoreno00/sabor,Sabor,0.4.0,https://github.com/JlMoreno00/sabor,,"Recipes, meal plans and shopping lists with SQLite by default; Mealie and Postgres optional."

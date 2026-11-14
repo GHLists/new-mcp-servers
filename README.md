@@ -9,37 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 08:19 UTC
+## Latest list — 2026-11-14 09:18 UTC
 
-New MCP servers published between 2026-11-14 07:21 UTC and 2026-11-14 08:19 UTC.
+New MCP servers published between 2026-11-14 08:19 UTC and 2026-11-14 09:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-14T08-19-42-796675Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-14T09-18-49-668474Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-14 07:23:40 | ai.paygenthq/paygent | Paygent | 1.0.0 | A wallet your AI agent pays from by bank transfer, mobile money or card. You ap… |
-| 2026-11-14 07:24:33 | io.fantasma/mcp | Fantasma | 1.0.0 | Build and publish Ghost themes with your AI agent: pages, styles, patterns and… |
-| 2026-11-14 07:29:29 | [io.github.kolivritech/memoria-mcp](https://github.com/kolivritech/memoria-mcp) | Memoria — Deterministic AI Memory & Cod… | 1.0.0 | Deterministic memory & code intelligence MCP for 15 IDEs (100% LongMemEval in 1… |
-| 2026-11-14 07:33:14 | [com.invezgo/data-saham-indonesia](https://github.com/Invezgo/invezgo-mcp) | Invezgo - Data Saham Indonesia | 1.0.0 | Data pasar saham Indonesia (IDX) dari Invezgo: harga, broker, shareholder, keua… |
-| 2026-11-14 07:35:18 | io.github.ofir09/tendy | Tendy - Israeli public tenders | 1.0.0 | Search open Israeli public procurement tenders (מכרזים): requirements, deadline… |
-| 2026-11-14 07:36:54 | [io.github.aiispower/easyserp](https://github.com/aiispower/easyserp) | easyserp | 1.0.0 | Search Google and Bing through MCP with source-domain filters and safe request… |
-| 2026-11-14 07:37:27 | [com.currencyguard/guard-pricing](https://gitlab.com/currencyguard/mcp-server) | CurrencyGuard Guard Pricing | 1.1.0 | FX protection for SMEs — price Guards, live spot/forward rates, settlement date… |
-| 2026-11-14 07:39:15 | com.cryptoexchangein/cryptoexchangein | CryptoExchangeIn | 1.0.0 | Crypto exchange legality by country, true fee & spread calculator, and cold wal… |
-| 2026-11-14 07:41:15 | com.manotr/manotr | Manotr | 1.0.0 | Search Manotr's AI products for newsrooms, media and on-premise AI, and send an… |
-| 2026-11-14 07:41:17 | diy.watch/diy-store-finder | watch.diy – DIY Store Finder | 1.0.0 | Product availability and prices at German DIY stores (OBI, Bauhaus, toom, Hornb… |
-| 2026-11-14 07:41:22 | com.deepthoughtconsultech/dtc | Deep Thought Consultech | 1.0.0 | Search Deep Thought Consultech's AI consulting services and products, and send… |
-| 2026-11-14 07:44:18 | com.proppasscheck/prop-firm-tools | PropPassCheck | 3.0.0 | Prop firm challenge rules, pass odds from your own trades, fees and rule change… |
-| 2026-11-14 07:45:45 | [io.github.SandstromPL/whyreach](https://github.com/SandstromPL/whyreach) | whyreach | 0.1.0 | Read-only Docker network diagnosis: why one container can't reach another, with… |
-| 2026-11-14 07:50:00 | [io.github.acamolese/google-search-console-mcp](https://github.com/acamolese/google-search-console-mcp) | Google Search Console | 4.0.0 | Search Console: 18 read-only SEO tools plus a white-label HTML audit in English… |
-| 2026-11-14 07:50:50 | [io.github.Shahbazhk/nusk-mcp](https://github.com/Shahbazhk/nusk-mcp) | Nusk | 1.0.0 | Project management for AI agents: work items, sprints, Gantt schedules, RAID lo… |
-| 2026-11-14 08:00:02 | [com.agentproofchain/agentproof](https://github.com/cipherxsniper/agentproof) | AgentProof | 0.2.0 | Verify signed, hash-chained AI agent audit logs and watch a live AgentProof-sig… |
-| 2026-11-14 08:03:54 | com.neoptimasolutions/mcp | Neoptima Marketing Solutions | 1.0.0 | Read-only facts about Neoptima, a New Delhi digital growth firm: services, free… |
-| 2026-11-14 08:06:21 | net.dmytro-prototypes/drawing-mcp-server | Drawing MCP Server | 0.2.12 | Read, query, edit and render DWG drawings with AI. No AutoCAD required. |
-| 2026-11-14 08:07:07 | [io.github.igorolv/mail-mcp-server](https://github.com/igorolv/mail-mcp-server) | Mail MCP Server | 0.1.1 | Read-only mail for AI agents: on-premises Exchange and any IMAP mailbox, with a… |
-| 2026-11-14 08:12:05 | com.discortics/discord-bot | Discortics - Discord Bot | 1.0.0 | Set up and manage your Discord server from MCP: channels, roles, verification,… |
-| 2026-11-14 08:18:05 | com.globalhostia/store | GlobalHostia | 2.0.0 | Domains, DNS, hosting, VPS, SSL and email: live prices, domain checks, orders a… |
-| 2026-11-14 08:18:10 | [com.sunnytranslation/fanbei](https://github.com/ee58594/fanbei-mcp) | 翻呗文档翻译 | 0.1.0 | 文档翻译：上传 DOCX/PDF/PPTX/XLSX/TXT，指定引擎与目标语言，查询进度并下载成品。支持 ZIP/7Z/RAR 批量包与双语对照、扫描件 O… |
-| 2026-11-14 08:18:37 | io.github.zhengjinfa/pmclite-scheduler | 轻排生产排产（MRP-PMC） | 1.1.0 | 驱动本机轻排 MRP-PMC 完成排产、交期评审、插单评估与物料齐套检查（需先安装 MRP-PMC） |
+| 2026-11-14 08:21:14 | [io.github.cartesia-ai/cartesia-mcp](https://github.com/cartesia-ai/cartesia-mcp) | Cartesia | 0.32.0 | Cartesia voice AI: text-to-speech, speech-to-text, voice cloning, and voice man… |
+| 2026-11-14 08:21:15 | [io.github.LovaRK/agentbelt](https://github.com/LovaRK/agentbelt) | agentbelt | 0.3.1 | Safe, audited git, test and workflow tools for any MCP coding client. Never pus… |
+| 2026-11-14 08:26:17 | io.github.zerolver1/diffcards | DiffCards | 1.0.0 | Your merged PRs as a few question cards a day: today's deck, what merged, what… |
+| 2026-11-14 08:31:21 | fr.lobbydex/lobbydex | Lobbydex | 1.0.0 | French-speaking FiveM (GTA RP) servers: live players, rankings, events, recruit… |
+| 2026-11-14 08:34:20 | kz.treeple/tours |  | 2.0.0 | Search tours in Kazakhstan, book them and pay by card link. A manager follows u… |
+| 2026-11-14 08:35:52 | app.rilmo/rilmo | Rilmo | 1.0.0 | Read-only access to a student's recorded classes: transcripts, notes, slides an… |
+| 2026-11-14 08:41:56 | [au.com.searchscope/ai-visibility-auditor](https://github.com/InovArcAi/searchscope-ai-visibility-mcp) | Search Scope AI Visibility Auditor | 1.0.0 | Free AI search visibility audit for any website, by Search Scope, an SEO consul… |
+| 2026-11-14 08:44:30 | io.github.yashgandhe666/pickedjobs | PickedJobs | 1.0.0 | Search curated tech jobs from company career pages by role, seniority, region,… |
+| 2026-11-14 08:47:30 | io.github.zuo305/chain-data-agent | Chain Data for Agents (x402) | 0.1.0 | Live Solana validator stats: stake, commission, vote credits, skip rate. Pay pe… |
+| 2026-11-14 08:48:04 | ai.arcangel/trademark-search | Arcangel Trademark Search | 0.1.0 | Free trademark availability check: is a brand name taken? USPTO search with con… |
+| 2026-11-14 08:49:39 | com.zenityx/studio | ZenityX Studio | 1.0.0 | Create AI images, videos, voice-overs and songs with ZenityX Studio credits. Th… |
+| 2026-11-14 08:49:50 | [io.github.JeanExtreme002/mcp-server-macos](https://github.com/JeanExtreme002/mcp-server-macos) | mcp-server-macos | 0.1.1 | Let your AI assistant use your Mac: an MCP server for macOS, built on pymacos. |
+| 2026-11-14 08:53:23 | [io.github.dimitrovakulenko/dwg-mcp-server](https://github.com/dimitrovakulenko/dwg-mcp-server) | DWG MCP Server | 0.2.4 | Read-only DWG file access for AI clients through MCP. |
+| 2026-11-14 08:53:47 | io.github.broosaction/innerli | InnerLi | 1.0.0 | Connect an owner-approved AI agent to InnerLi profiles, posts, rooms, and messa… |
+| 2026-11-14 08:55:47 | [io.github.abliteratedllm/mcp-server](https://github.com/abliteratedllm/mcp-server) | AbliteratedLLM | 0.1.0 | Browse AbliteratedLLM models and prices, check your balance, and call its model… |
+| 2026-11-14 08:56:33 | [io.github.Mortek/realmkeep](https://github.com/Mortek/realmkeep) | Realmkeep | 0.2.1 | Let an AI assistant fill in a Realmkeep game listing as a draft, images include… |
+| 2026-11-14 08:57:18 | [com.wecookflow/mcp](https://github.com/WeCookFlow/mcp) | WeCookFlow — guest post prices | 1.0.0 | Compare guest post prices for the same sites across marketplaces; find sites by… |
+| 2026-11-14 09:03:58 | io.github.iart-ai/iart | iArt | 1.0.0 | Make motion graphics videos from a prompt: kinetic type, explainers, logo revea… |
+| 2026-11-14 09:04:39 | hu.szulnijo/booking | Szülni Jó – services and appointments | 1.2.0 | Public services and available appointments at Szülni Jó, Hungary. Online or tel… |
+| 2026-11-14 09:04:42 | art.atelierlumin/commerce | Atelier Lumin Commerce | 0.1.0 | Search Atelier Lumin original paintings and limited-edition prints via Universa… |
+| 2026-11-14 09:06:03 | [io.github.xxblv81/budgethelm](https://github.com/xxblv81/budgethelm) | Budgethelm | 0.1.0 | See AI agent token spend per project and model, and stop agents that loop or bu… |
+| 2026-11-14 09:06:12 | io.github.joinwell52-AI/boundaryxp | BoundaryXP · 7+1 Task Boundary Verifica… | 0.4.0-rc.4 | 7+1 task boundary analysis, native calculation verification and evidence report… |
+| 2026-11-14 09:09:24 | co.agentfarm/agentfarm | AgentFarm | 1.0.29 | A real browser on your Mac for your AI agent, signed in to your own accounts. |
+| 2026-11-14 09:15:42 | [io.github.JlMoreno00/sabor](https://github.com/JlMoreno00/sabor) | Sabor | 0.4.0 | Recipes, meal plans and shopping lists with SQLite by default; Mealie and Postg… |
 
 ## Data source
 
