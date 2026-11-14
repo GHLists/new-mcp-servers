@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-11-14T06:24:43.707818Z,io.github.itsryanarmani/aiwriting,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Compare AI writing tools. Check the source.
+2026-11-14T06:26:36.11174Z,dev.workers.bsptimber.linkproof/linkproof,LinkProof,1.1.0,,streamable-http,"Pay-per-call (x402 USDC on Base) tools: verify URLs, verify citations, find Wayback archives."
+2026-11-14T06:26:55.060312Z,com.findwithb/homes,b.,1.1.0,,streamable-http,Silicon Valley rentals b. toured in person. Check a Zillow or Redfin listing against the tours.
+2026-11-14T06:31:07.12942Z,io.github.itsryanarmani/aiimagegen,,1.0.0,https://github.com/itsryanarmani/directory,streamable-http,Compare AI image tools. Check the source.
+2026-11-14T06:32:33.875324Z,com.zumen-gate/zumen-gate-mcp,zumen-gate,0.1.0,https://github.com/UnRobotics-Inc/zumen-gate-mcp,,"Read, search, render, edit and convert CAD drawings (JWW, DWG, DXF, SXF, PDF) via zumen-gate."
+2026-11-14T06:35:07.738264Z,io.github.guylouzon/interq,interQ,1.0.0,,streamable-http,"interQ public channels (web, RSS, podcast, JSON, OPML); sign in to manage items, tags and follows."
+2026-11-14T06:41:33.81377Z,io.github.votsie/instagram-obscura-mcp,Instagram MCP — Obscura,0.1.0,https://github.com/votsie/instagram-obscura-mcp,,"Instagram MCP for personal accounts, saved posts and local multilingual Reel analysis."
+2026-11-14T06:46:17.66203Z,io.github.magurelabs/atlassian-confluence,,2.0.0,https://github.com/magurelabs/magoneai-mcp,,"Read and write Confluence pages, blog posts, comments, labels and attachments."
+2026-11-14T06:46:18.258727Z,io.github.magurelabs/atlassian-jira,,2.0.0,https://github.com/magurelabs/magoneai-mcp,,"Search, create and transition Jira issues, worklogs, links and attachments."
+2026-11-14T06:46:18.781231Z,io.github.magurelabs/cloudflare-r2,,2.0.0,https://github.com/magurelabs/magoneai-mcp,,Upload files to your own Cloudflare R2 bucket and get a shareable link.
+2026-11-14T06:46:19.357727Z,io.github.magurelabs/database,,2.0.0,https://github.com/magurelabs/magoneai-mcp,,"Query and modify PostgreSQL, MySQL, SQL Server, Oracle or MongoDB databases."
+2026-11-14T06:46:20.036269Z,io.github.magurelabs/docusign,,2.0.0,https://github.com/magurelabs/magoneai-mcp,,"Create, send, track and void Docusign envelopes, and read their documents."
+2026-11-14T06:46:20.598482Z,io.github.magurelabs/google-calendar,,2.0.0,https://github.com/magurelabs/magoneai-mcp,,"List, create, update and delete Google Calendar events."
+2026-11-14T06:46:21.161392Z,io.github.magurelabs/google-gmail,,2.0.0,https://github.com/magurelabs/magoneai-mcp,,"List, read and send Gmail messages."
+2026-11-14T06:46:21.693447Z,io.github.magurelabs/image-generation,,2.0.0,https://github.com/magurelabs/magoneai-mcp,,Generate an image from a text description with Google Gemini.
+2026-11-14T06:46:22.246688Z,io.github.magurelabs/kapso-whatsapp,,2.0.0,https://github.com/magurelabs/magoneai-mcp,,"Send WhatsApp text, media and template messages, and read conversations."
+2026-11-14T06:46:22.836416Z,io.github.magurelabs/linear,,2.0.0,https://github.com/magurelabs/magoneai-mcp,,"Search, create and update Linear issues, projects, comments and labels."
+2026-11-14T06:46:23.3831Z,io.github.magurelabs/microsoft-sharepoint,,2.0.0,https://github.com/magurelabs/magoneai-mcp,,"Browse SharePoint sites, document libraries and files, and download them."
+2026-11-14T06:46:23.93847Z,io.github.magurelabs/microsoft-teams,,2.0.0,https://github.com/magurelabs/magoneai-mcp,,"Read Teams chats and channel messages, and send messages or create meetings."
+2026-11-14T06:46:24.507947Z,io.github.magurelabs/otp-verification,,2.0.0,https://github.com/magurelabs/magoneai-mcp,,Generate and verify one-time passcodes backed by your own database.
+2026-11-14T06:46:25.010911Z,io.github.magurelabs/outlook-calendar,,2.0.0,https://github.com/magurelabs/magoneai-mcp,,"List, create, update and delete Outlook calendar events, and read free/busy."
+2026-11-14T06:46:25.519493Z,io.github.magurelabs/outlook-email,,2.0.0,https://github.com/magurelabs/magoneai-mcp,,"Read, search, send and organise Outlook mail, including attachments."
+2026-11-14T06:46:26.023797Z,io.github.magurelabs/trino,,2.0.0,https://github.com/magurelabs/magoneai-mcp,,"Run read-only SQL against Trino and browse its catalogs, schemas and tables."
+2026-11-14T06:46:26.528649Z,io.github.magurelabs/web-search,,2.0.0,https://github.com/magurelabs/magoneai-mcp,,Search the web and fetch a page's readable text.
+2026-11-14T06:46:27.03427Z,io.github.magurelabs/zoom,,2.0.0,https://github.com/magurelabs/magoneai-mcp,,"Create, read and delete Zoom meetings."
+2026-11-14T07:12:25.324487Z,ai.safelaw/uzbekistan-law,SafeLaw: Uzbekistan Law,1.0.0,,streamable-http,"Official texts of Uzbekistan codes, laws and Supreme Court Plenum rulings, plus court practice"
+2026-11-14T07:17:42.605688Z,fr.souslagelule/complements,Sous La Gélule,1.0.0,,streamable-http,"Food supplements sold in France ranked by price per month at the same dose, with source and date."
+2026-11-14T07:20:48.330163Z,com.changeping/changeping,ChangePing,1.0.0,,streamable-http,Watch web pages and get a short summary of what changed. Create monitors and read changes.
