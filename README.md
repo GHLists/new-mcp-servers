@@ -9,26 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 05:21 UTC
+## Latest list — 2026-11-15 06:20 UTC
 
-New MCP servers published between 2026-11-15 04:19 UTC and 2026-11-15 05:21 UTC.
+New MCP servers published between 2026-11-15 05:21 UTC and 2026-11-15 06:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-15T05-21-30-045273Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-15T06-20-51-444091Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-15 04:32:01 | [io.importly/importly-mcp](https://github.com/yyildiz/importly-mcp) |  | 1.0.0 | Hosted MCP: download, transcribe, and get metadata for any video/audio URL. Man… |
-| 2026-11-15 04:32:24 | io.reeldrop/reeldrop | ReelDrop | 1.1.0 | Schedule Instagram reels, posts and stories, run comment-to-DM automations, and… |
-| 2026-11-15 04:32:30 | dev.boardagent/boardagent | BoardAgent | 1.39.0 | A forum where only AI agents post: register, read, reply, vote, debate. No OAut… |
-| 2026-11-15 04:35:19 | com.quantivexresearch/research | Quantivex Research | 1.1.0 | Stock scores, what a price assumes, earnings quality and quiet profit revisions… |
-| 2026-11-15 04:39:21 | com.vfxsmith/vfxsmith | VfxSmith | 0.2.0 | Search, generate, refine, and export pixel art VFX for games, including sprite… |
-| 2026-11-15 04:47:43 | [net.chartant/chartant](https://github.com/simplepagesbg-web/chartant-mcp) | ChartAnt | 0.4.0 | Charts, diagrams and maps of every country as PNG links for AI assistants. Free… |
-| 2026-11-15 04:52:16 | com.modelmoot/model-moot | Model Moot | 0.3.0 | Where AI agents post problems, propose answers, check each other's work, and di… |
-| 2026-11-15 04:59:16 | com.madmaxsupply/parts | MadMax Trade Supply parts | 1.0.0 | Search replacement filters, alarms, batteries and parts; check fit; get a pre-f… |
-| 2026-11-15 05:02:12 | com.hourbun/hourbun | Hourbun | 1.0.0 | Track time, run timers, and read projects, expenses and uninvoiced time in Hour… |
-| 2026-11-15 05:04:50 | [io.github.campaign-swarm/mcp](https://github.com/campaign-swarm/mcp) |  | 0.1.0 | Run social campaigns end to end: plan, create, schedule, publish, measure, and… |
-| 2026-11-15 05:09:35 | [io.github.fourgit/avatarsay-mcp](https://github.com/fourgit/avatarsay-mcp) | AvatarSay — Fictional Character & Talki… | 1.0.0 | Generate fictional RPG NPCs, anime OCs & talking avatar MP4 videos from text. N… |
-| 2026-11-15 05:19:23 | ai.drastro/astrology | DrAstro Vedic Astrology | 1.0.0 | Create Vedic birth charts, retrieve saved charts and stories, and chat with AI… |
+| 2026-11-15 05:23:18 | com.filemypublication/ny-llc-publication | NY LLC Publication (FileMyPublication) | 1.0.0 | New York LLC publication: §206 rules, 120-day deadline, county prices, clerks a… |
+| 2026-11-15 05:28:50 | com.yikonglu/lunyu | 一孔录《论语》 Yikonglu Analects | 0.1.0 | 《论语》498章逐章查：原文、白话、读音、朱熹集注页码与原页图。Analects of Confucius, chapter by chapter. |
+| 2026-11-15 05:30:23 | ai.heyrole/heyrole | HeyRole | 1.0.0 | Search remote jobs, read postings and get application links. No account or API… |
+| 2026-11-15 05:35:45 | io.github.Noetfield-Systems/signalforge | SignalForge Market Intelligence | 1.0.0 | Source-linked crypto research tools, market observations and user-owned agent t… |
+| 2026-11-15 05:36:34 | com.alrebro/alrebro |  | 1.0.0 | Reddit marketing without the ban. Find buyer threads, check rules, draft replie… |
+| 2026-11-15 05:37:19 | il.co.sentinelone-edr/securecloud | SecureCloud | 1.0.0 | SentinelOne EDR and IT security services in Israel: catalog, prices, quotes and… |
+| 2026-11-15 05:43:02 | [io.github.olegsher-ds-2025/mcp-il-professionals](https://github.com/olegsher-ds-2025/mcp-il-professionals) | Israel Licensed Professionals | 0.1.0 | Verify licensed professionals in Israel for AI agents: real-estate brokers, reg… |
+| 2026-11-15 05:45:48 | [io.github.olegsher-ds-2025/mcp-il-health](https://github.com/olegsher-ds-2025/mcp-il-health) | Israel Health Registries | 0.1.0 | Israeli Ministry of Health registries for AI agents: doctor licence verificatio… |
+| 2026-11-15 05:49:07 | uk.co.skiclub/ski-club | Ski Club of Great Britain | 0.2.0 | Ski resort snow and weather, Ski Club holidays, help and FAQs, and the club sho… |
+| 2026-11-15 05:57:07 | com.tutuesim/esim | Tutu eSIM | 1.0.0 | Live travel eSIM data plans and prices in 190+ countries, roaming costs and blo… |
+| 2026-11-15 05:58:45 | [io.github.olegsher-ds-2025/mcp-il-vehicles](https://github.com/olegsher-ds-2025/mcp-il-vehicles) | Israel Vehicle Registry | 0.1.0 | Israeli vehicle registry for AI agents: plate lookup, open recalls, model specs… |
+| 2026-11-15 05:59:07 | [io.github.olegsher-ds-2025/mcp-il-companies](https://github.com/olegsher-ds-2025/mcp-il-companies) | Israel Companies Due Diligence | 0.1.0 | Due diligence on Israeli companies, partnerships, nonprofits (עמותות) and publi… |
+| 2026-11-15 06:11:38 | com.auction-radar/auction-radar | 경매레이더 Auction Radar | 1.0.0 | Korean court real-estate auctions: search, case summary, rights risk verdicts,… |
+| 2026-11-15 06:11:57 | com.todayinabq/abq | Today in ABQ | 1.0.0 | What's open and happening in Albuquerque, NM: hours, events, weekly nights, loc… |
+| 2026-11-15 06:14:01 | [io.github.qbtrix/ripple](https://github.com/qbtrix/ripple) | Ripple | 0.1.0 | Answer with live UI cards: charts, tables, diagrams and dashboards drawn inline… |
+| 2026-11-15 06:15:20 | com.congcugiangday/cong-cu-giang-day | Công Cụ Giảng Dạy | 1.1.0 | Vietnamese classroom tools: countdown timer, random name picker, group maker, g… |
+| 2026-11-15 06:17:23 | [io.github.xvr2e7/shibbo](https://github.com/xvr2e7/shibbo) | shibbo | 0.1.2 | Check prose, pages and code for AI tells, with per-model rules and a fix for ea… |
 
 ## Data source
 
