@@ -9,34 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 03:19 UTC
+## Latest list — 2026-11-15 04:19 UTC
 
-New MCP servers published between 2026-11-15 02:19 UTC and 2026-11-15 03:19 UTC.
+New MCP servers published between 2026-11-15 03:19 UTC and 2026-11-15 04:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-15T03-19-56-031863Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-15T04-19-11-320051Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-15 02:20:44 | com.thedesignprint/designprint | Designprint | 1.0.0 | Print shop for AI agents: business cards, flyers, posters. Returns a proof, a p… |
-| 2026-11-15 02:24:10 | [io.github.blightbow/parkour-mcp](https://github.com/blightbow/parkour-mcp) |  | 2.5.0rc0 | A content exploration toolkit that helps LLMs surface high signal, unsummarized… |
-| 2026-11-15 02:25:52 | in.productgrowth/productgrowth | productgrowth.in | 0.2.0 | Rupee prices, free plans and India fit for ~360 software tools, plus Kriyā for… |
-| 2026-11-15 02:26:05 | [ai.qlane/qlane](https://github.com/qlaneai/agent-plugin) | Qlane | 1.1.0 | AI QA that runs your app in a browser on every pull request: projects, test tar… |
-| 2026-11-15 02:26:44 | [io.github.cynthiawang109-sudo/taskflow-doc-search](https://github.com/cynthiawang109-sudo/ai-workspace-kit) |  | 0.1.1 | Search local TaskFlow workspace documentation and read tickets over MCP stdio. |
-| 2026-11-15 02:27:03 | dev.tinplate/edge-apis | Tinplate Edge AI Safety, Security & EU… | 1.0.13 | Zero-log MCP server with 42 tools for AI guardrails, secret scanning, MCP linti… |
-| 2026-11-15 02:30:46 | [io.github.Medxpert-org/lgd-engine](https://github.com/Medxpert-org/lgd-engine) | LGD Engine | 0.1.0 | Judgment core for medical-device AI change control: 510(k) change and postmarke… |
-| 2026-11-15 02:36:35 | io.virkly/cvr | Virkly CVR | 0.3.0 | Danish company data from CVR: lookup, search, owners, financials, bankruptcies,… |
-| 2026-11-15 02:37:03 | [com.deployunimatrix/unimatrix](https://github.com/Cimbro-LLC/DEPLOYUNIMATRIX) | Unimatrix | 0.1.0 | Persistent memory layer for AI clients: store, recall, and correct context acro… |
-| 2026-11-15 02:37:44 | [io.github.congzhou09/chrome-dev-mcp](https://github.com/congzhou09/chrome-dev-mcp) |  | 2.0.0 | Debug an already-running Chrome tab: breakpoints, stepping, scope variables, co… |
-| 2026-11-15 02:40:03 | io.github.minetreen-creator/contrax | Contrax: US federal contracts ending so… | 1.0.0 | US federal contracts ending soon by state and trade: holders, agencies, award s… |
-| 2026-11-15 02:40:19 | com.pugsoda/pugsoda | PugSoda | 1.0.0 | Browse trending TikTok AI meme video templates, prices, photo tips, and direct… |
-| 2026-11-15 02:40:22 | life.bornthen/bornthen | Born Then | 1.0.0 | Roll random births weighted by human births (1 CE-2025) and query era demograph… |
-| 2026-11-15 02:44:01 | [io.github.9symphony/shanghai-streets](https://github.com/9symphony/shanghaistreets.co.il) | Shanghai Streets Travel Guide | 1.0.0 | Curated travel places, walking routes and areas for Shanghai, Jiangsu and Zheji… |
-| 2026-11-15 02:53:02 | [io.github.shibbirweb/sendmock](https://github.com/shibbirweb/sendmock) | SendMock | 1.0.0 | Test email, SMS, payments and webhooks locally: read messages, OTPs and webhook… |
-| 2026-11-15 02:58:57 | io.github.dpcnsg/manmuldogam | Manmul Dogam (find any object's name) | 0.1.0 | Name any object or part from a vague Korean/English description, with what to m… |
-| 2026-11-15 02:59:24 | [io.github.cartesianecu/cartesian-ecu-mcp](https://github.com/cartesianecu/cartesian-ecu-mcp) | CARTESIAN ECU | 1.0.0 | Check and repair ECU and TCU flash file checksums with CARTESIAN (account with… |
-| 2026-11-15 03:07:46 | [io.github.Red-Center-Studio/webdesk](https://github.com/Red-Center-Studio/webdesk-mcp) | WebDesk | 1.0.0 | Build complete one-page small business websites from a short brief. Prepaid cre… |
-| 2026-11-15 03:07:48 | [io.github.Red-Center-Studio/rcs-tools](https://github.com/Red-Center-Studio/webdesk-mcp) | Red Center Studio free tools | 1.0.0 | Free website checks: GEO audit, single point of failure DNS scan, Bubble error… |
-| 2026-11-15 03:19:16 | [app.webas/webas](https://github.com/lovekencode/Webas-mcp) | Webas | 1.0.0 | Create and publish a real website by chatting with your AI assistant. |
+| 2026-11-15 03:24:20 | com.thissamepage/samepage | Samepage | 1.0.0 | Create personalised Samepage buyer pages from your AI assistant and get a link… |
+| 2026-11-15 03:26:30 | [io.github.adamgraymon/quant-backtest-escrow-auditor](https://github.com/adamgraymon/Own_adam) |  | 0.4.0 | Autonomous ERC-8183 Quant Trading Strategy Backtest Auditor & USDC Escrow on Ba… |
+| 2026-11-15 03:26:30 | [io.github.adamgraymon/solidity-smart-contract-escrow-auditor](https://github.com/adamgraymon/Own_adam) |  | 0.4.0 | Autonomous ERC-8183 Solidity Smart Contract Security Auditor & USDC Escrow on B… |
+| 2026-11-15 03:26:30 | [io.github.adamgraymon/x402-erc8004-api-sla-escrow](https://github.com/adamgraymon/Own_adam) |  | 0.4.0 | Autonomous x402 Paid API SLA Oracle, ERC-8004 Reputation & ERC-8183 USDC Escrow… |
+| 2026-11-15 03:29:41 | [io.github.knorby/inkeedecoder-mcp](https://github.com/knorby/inkeedecoder-mcp) | INKEEDecoder | 0.2.1 | Search INKEEDecoder cosmetic product and ingredient data over MCP. |
+| 2026-11-15 03:33:29 | com.mysupplyclub/catalog | SupplyClub Catalog | 2.1.0 | SupplyClub wholesale eco-friendly foodservice packaging catalog: search, produc… |
+| 2026-11-15 03:46:32 | br.com.tribujus/tribujus | TribuJus | 1.0.0 | Brazilian case law: search rulings, read full text and court outcome rates, wit… |
+| 2026-11-15 03:56:30 | [io.github.zxw060810/qb-mcp](https://github.com/zxw060810/qb-mcp) | qBittorrent | 0.2.3 | qBittorrent MCP server: eleven intent-shaped tools, multi-instance, version-awa… |
+| 2026-11-15 03:58:31 | [io.github.RTY2345RR/podcast-generator-mcp](https://github.com/RTY2345RR/podcast-generator-mcp) | Podcast Generator MCP | 0.1.0 | AI podcast generator: two cloned host voices, episode MP3, SRT transcript, chap… |
+| 2026-11-15 04:05:18 | ai.anysoft.share/anyshare | AnyShare by Anysoft | 1.0.0 | Upload documents, create protected links, and read page engagement. OAuth requi… |
+| 2026-11-15 04:05:52 | com.eikino/eikino | Eikino | 1.0.0 | Geolocate photos or video frames and check media for AI generation signs via AP… |
+| 2026-11-15 04:05:53 | [com.hourlore/hourlore](https://github.com/hourlore/hourlore-mcp) | Hourlore | 1.0.0 | Generate free documentary storyboards and render 5–15 min narrated 1080p MP4 do… |
+| 2026-11-15 04:06:10 | com.laterstages/senior-care | Later Stages | 1.1.0 | California senior living and care providers from state licensing and Medicare r… |
+| 2026-11-15 04:06:15 | com.provyan/provyan | Provyan | 1.0.0 | Backtests of crypto trading signals on 94 coins: what price did next, and how l… |
+| 2026-11-15 04:07:00 | jp.callout/callout | Callout | 1.0.0 | Places real phone calls for you in Japanese or English and returns the result a… |
+| 2026-11-15 04:07:51 | net.listofbooks/listofbooks | List Of Books | 1.0.0 | Book-series reading orders, author series and book-to-series lookups from List… |
+| 2026-11-15 04:09:37 | [io.github.AI-Chili/onlychili](https://github.com/AI-Chili/OnlyChili) | OnlyChili AI Cinema & Series Catalog | 1.0.0 | Search public AI cinema series, short dramas, vertical Shorts, and creators on… |
+| 2026-11-15 04:10:20 | [io.github.adamgraymon/agent-skill-security-escrow-auditor](https://github.com/adamgraymon/Own_adam) |  | 0.5.0 | ERC-8183 Agent Skill, Prompt & MCP Plugin Anti-Trojan Auditor & USDC Escrow on… |
+| 2026-11-15 04:10:20 | [io.github.adamgraymon/rag-embedding-poisoning-escrow-auditor](https://github.com/adamgraymon/Own_adam) |  | 0.5.0 | ERC-8183 RAG Knowledge Base & Vector Embedding Anti-Poisoning Auditor & Escrow… |
+| 2026-11-15 04:10:20 | [io.github.adamgraymon/ai-inference-proof-escrow-auditor](https://github.com/adamgraymon/Own_adam) |  | 0.5.0 | ERC-8183 Proof-of-Inference, Anti-Model-Downgrade & Token Billing Escrow on Bas… |
+| 2026-11-15 04:10:20 | [io.github.adamgraymon/depin-gpu-compute-sla-escrow](https://github.com/adamgraymon/Own_adam) |  | 0.5.0 | ERC-8183 DePIN & GPU Compute Benchmark SLA Auditor (TFLOPS/VRAM) & USDC Escrow… |
+| 2026-11-15 04:14:39 | com.calderflow/calderflow | CalderFlow | 1.0.0 | Make editable flowcharts, process charts, funnels, timelines and data models fr… |
+| 2026-11-15 04:17:41 | [tools.person/ask-people](https://github.com/jonwashburn/person-tools) | person.tools | 0.1.0 | Ask people for a reaction a model can't give; get each answer and what their pa… |
 
 ## Data source
 

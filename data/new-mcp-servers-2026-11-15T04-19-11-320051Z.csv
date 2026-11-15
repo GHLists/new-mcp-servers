@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-11-15T03:24:20.873547Z,com.thissamepage/samepage,Samepage,1.0.0,,streamable-http,Create personalised Samepage buyer pages from your AI assistant and get a link to send.
+2026-11-15T03:26:30.58995Z,io.github.adamgraymon/quant-backtest-escrow-auditor,,0.4.0,https://github.com/adamgraymon/Own_adam,streamable-http,Autonomous ERC-8183 Quant Trading Strategy Backtest Auditor & USDC Escrow on Base Mainnet.
+2026-11-15T03:26:30.663762Z,io.github.adamgraymon/solidity-smart-contract-escrow-auditor,,0.4.0,https://github.com/adamgraymon/Own_adam,streamable-http,Autonomous ERC-8183 Solidity Smart Contract Security Auditor & USDC Escrow on Base Mainnet.
+2026-11-15T03:26:30.755189Z,io.github.adamgraymon/x402-erc8004-api-sla-escrow,,0.4.0,https://github.com/adamgraymon/Own_adam,streamable-http,"Autonomous x402 Paid API SLA Oracle, ERC-8004 Reputation & ERC-8183 USDC Escrow on Base."
+2026-11-15T03:29:41.118071Z,io.github.knorby/inkeedecoder-mcp,INKEEDecoder,0.2.1,https://github.com/knorby/inkeedecoder-mcp,,Search INKEEDecoder cosmetic product and ingredient data over MCP.
+2026-11-15T03:33:29.508679Z,com.mysupplyclub/catalog,SupplyClub Catalog,2.1.0,,streamable-http,"SupplyClub wholesale eco-friendly foodservice packaging catalog: search, product detail, categories."
+2026-11-15T03:46:32.212481Z,br.com.tribujus/tribujus,TribuJus,1.0.0,,streamable-http,"Brazilian case law: search rulings, read full text and court outcome rates, with official links."
+2026-11-15T03:56:30.175677Z,io.github.zxw060810/qb-mcp,qBittorrent,0.2.3,https://github.com/zxw060810/qb-mcp,,"qBittorrent MCP server: eleven intent-shaped tools, multi-instance, version-aware calls."
+2026-11-15T03:58:31.344418Z,io.github.RTY2345RR/podcast-generator-mcp,Podcast Generator MCP,0.1.0,https://github.com/RTY2345RR/podcast-generator-mcp,,"AI podcast generator: two cloned host voices, episode MP3, SRT transcript, chapters, RSS."
+2026-11-15T04:05:18.39215Z,ai.anysoft.share/anyshare,AnyShare by Anysoft,1.0.0,,streamable-http,"Upload documents, create protected links, and read page engagement. OAuth required."
+2026-11-15T04:05:52.469383Z,com.eikino/eikino,Eikino,1.0.0,,streamable-http,Geolocate photos or video frames and check media for AI generation signs via API key.
+2026-11-15T04:05:53.830291Z,com.hourlore/hourlore,Hourlore,1.0.0,https://github.com/hourlore/hourlore-mcp,streamable-http,Generate free documentary storyboards and render 5–15 min narrated 1080p MP4 documentaries.
+2026-11-15T04:06:10.61832Z,com.laterstages/senior-care,Later Stages,1.1.0,,streamable-http,California senior living and care providers from state licensing and Medicare records.
+2026-11-15T04:06:15.20421Z,com.provyan/provyan,Provyan,1.0.0,,streamable-http,"Backtests of crypto trading signals on 94 coins: what price did next, and how likely it was luck."
+2026-11-15T04:07:00.852552Z,jp.callout/callout,Callout,1.0.0,,streamable-http,Places real phone calls for you in Japanese or English and returns the result and transcript.
+2026-11-15T04:07:51.131433Z,net.listofbooks/listofbooks,List Of Books,1.0.0,,streamable-http,"Book-series reading orders, author series and book-to-series lookups from List Of Books."
+2026-11-15T04:09:37.449397Z,io.github.AI-Chili/onlychili,OnlyChili AI Cinema & Series Catalog,1.0.0,https://github.com/AI-Chili/OnlyChili,streamable-http,"Search public AI cinema series, short dramas, vertical Shorts, and creators on OnlyChili."
+2026-11-15T04:10:20.191554Z,io.github.adamgraymon/agent-skill-security-escrow-auditor,,0.5.0,https://github.com/adamgraymon/Own_adam,streamable-http,"ERC-8183 Agent Skill, Prompt & MCP Plugin Anti-Trojan Auditor & USDC Escrow on Base."
+2026-11-15T04:10:20.314254Z,io.github.adamgraymon/rag-embedding-poisoning-escrow-auditor,,0.5.0,https://github.com/adamgraymon/Own_adam,streamable-http,ERC-8183 RAG Knowledge Base & Vector Embedding Anti-Poisoning Auditor & Escrow on Base.
+2026-11-15T04:10:20.436229Z,io.github.adamgraymon/ai-inference-proof-escrow-auditor,,0.5.0,https://github.com/adamgraymon/Own_adam,streamable-http,"ERC-8183 Proof-of-Inference, Anti-Model-Downgrade & Token Billing Escrow on Base."
+2026-11-15T04:10:20.555312Z,io.github.adamgraymon/depin-gpu-compute-sla-escrow,,0.5.0,https://github.com/adamgraymon/Own_adam,streamable-http,ERC-8183 DePIN & GPU Compute Benchmark SLA Auditor (TFLOPS/VRAM) & USDC Escrow on Base.
+2026-11-15T04:14:39.146748Z,com.calderflow/calderflow,CalderFlow,1.0.0,,streamable-http,"Make editable flowcharts, process charts, funnels, timelines and data models from plain language."
+2026-11-15T04:17:41.219135Z,tools.person/ask-people,person.tools,0.1.0,https://github.com/jonwashburn/person-tools,streamable-http,Ask people for a reaction a model can't give; get each answer and what their page observed.
