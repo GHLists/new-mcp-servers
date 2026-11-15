@@ -9,50 +9,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 17:20 UTC
+## Latest list — 2026-11-15 18:22 UTC
 
-New MCP servers published between 2026-11-15 16:20 UTC and 2026-11-15 17:20 UTC.
+New MCP servers published between 2026-11-15 17:20 UTC and 2026-11-15 18:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-15T17-20-48-708157Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-15T18-22-11-601994Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-15 16:22:48 | [io.github.oathe-ai/oathe-mcp](https://github.com/oathe-ai/oathe-mcp) |  | 0.1.2 | The Oathe Scan MCP: check any skill before your agent installs it. |
-| 2026-11-15 16:23:43 | dev.workers.socialscrapers.socialscrapers-gateway/social-data | Social Scrapers | 1.0.0 | Live public data from Instagram, YouTube and TikTok: profiles, posts, comments,… |
-| 2026-11-15 16:23:57 | [io.github.nickzitzer/happy-platform-mcp](https://github.com/Happy-Technologies-LLC/happy-platform-mcp) |  | 7.0.3 | ServiceNow MCP server: 60 tools for any table, multi-instance, natural language… |
-| 2026-11-15 16:24:18 | com.plainrecordlabs/federal-contract-opportunities | SAM.gov Contract Notices with Past Awar… | 1.0.0 | Open SAM.gov notices and top past winners. Apify token needed. 0.0025 USD a not… |
-| 2026-11-15 16:26:37 | com.dmthefounder/jobs | DMtheFounder startup jobs | 1.0.0 | Early-stage startup jobs posted by founders on X and Hacker News, checked by ha… |
-| 2026-11-15 16:29:30 | ru.serviceapp/mcp | ServiceApp | 0.8.0 | CRM for equipment repair and maintenance: customers, work orders, inventory and… |
-| 2026-11-15 16:34:21 | [io.github.SelfPy/science-ai-mcp-server](https://github.com/SelfPy/science-ai-mcp-server) | Science AI Journal MCP Server | 0.1.4 | AI Review agents, a literature search and duplicate-publication checks for pape… |
-| 2026-11-15 16:41:35 | com.caminoalmil/goles | Camino al Mil | 1.3.1 | Cristiano Ronaldo's goals, one by one, with sources: counter to 1000, rivals, d… |
-| 2026-11-15 16:49:15 | dev.workers.cybermax-tools.cybermax/company-registry-lookup | Corproll: Company Registry Lookup, EU R… | 1.0.0 | Corproll: official company records from EU registers (FR, NO, FI, CZ, PL) and t… |
-| 2026-11-15 16:49:15 | dev.workers.cybermax-tools.cybermax/brazil-cnpj | Cadastrelo: Consulta CNPJ em Lote & Bra… | 1.0.0 | Cadastrelo: Brazil CNPJ lookup and company search by UF, city and CNAE (Receita… |
-| 2026-11-15 16:49:16 | dev.workers.cybermax-tools.cybermax/dataset-filter-transform | Rowmold: Dataset Filter & Transform, JS… | 1.0.0 | Rowmold: filter, reshape and export Apify datasets; CSV and Excel; new rows onl… |
-| 2026-11-15 16:49:16 | dev.workers.cybermax-tools.cybermax/image-to-pdf | Pagepail: Image to PDF & PDF to Image C… | 1.0.0 | Pagepail: convert images to PDF and PDF pages to images, in bulk. |
-| 2026-11-15 16:49:17 | dev.workers.cybermax-tools.cybermax/company-name-cleaner | Firmcomb: Company Name Cleaner, Normali… | 1.0.0 | Firmcomb: clean company names, legal forms, casual names and duplicate groups. |
-| 2026-11-15 16:51:31 | app.dulysigned/dulysigned | DulySigned e-signature | 1.0.0 | Make contracts from templates, send them for e-signature by email, and track wh… |
-| 2026-11-15 16:53:52 | [dev.advancelabs/aeo-research](https://github.com/Advance-Labs/aeo-toolkit) | AEO Research | 1.0.0 | AEO audits, AI citation checks and backlink research. No sign-in. Read-only. |
-| 2026-11-15 16:54:06 | com.rolepocket/rolepocket | RolePocket | 1.0.0 | Private job application tracker your AI assistant can work with through MCP. |
-| 2026-11-15 16:54:39 | [io.github.evgolsh/threadpacket](https://github.com/evgolsh/threadpacket) | Threadpacket | 0.4.1 | Send a packet of notes and original files from one AI assistant to another pers… |
-| 2026-11-15 16:54:52 | [io.github.tro2789/scout-premiere-mcp](https://github.com/tro2789/scout-premiere-mcp) | Scout for Premiere Pro | 0.4.1 | Drive Adobe Premiere Pro from an AI agent: transcript search, markers, cuts, ex… |
-| 2026-11-15 16:59:05 | com.invoicefatura/fatura-go | Fatura Go | 1.0.0 | UAE VAT invoicing in your AI assistant: what's due, unpaid invoices, VAT, draft… |
-| 2026-11-15 16:59:29 | [io.github.loyd-vitalbridgex/gift-finder](https://github.com/loyd-vitalbridgex/truegift-mcp) | TrueGift Gift Finder | 1.0.0 | Gift ideas from TrueGift.ai's 90+ guides — by recipient, occasion, interests an… |
-| 2026-11-15 17:03:48 | online.sizeref/size-charts | SizeRef Size Charts | 0.1.0 | Audit, normalise and export size charts as clean tables and JSON-LD. No AI; kee… |
-| 2026-11-15 17:06:38 | io.github.heyryker/base-token-safety | Base Token Safety Inspector | 1.0.0 | Pay-per-call rug-pull, honeypot and token safety checks for any ERC-20 on Base… |
-| 2026-11-15 17:08:07 | za.co.customblinds/shop | Custom Blinds | 2.1.0 | Made-to-measure blinds in South Africa: prices, stock, quotes, delivery times,… |
-| 2026-11-15 17:09:02 | [io.github.mingyan9989/kaucim-public-mcp](https://github.com/mingyan9989/kaucim-public-mcp) | Kaucim Public References | 0.1.0 | Read Kaucim references, product facts, published articles and numbered Wong Tai… |
-| 2026-11-15 17:11:18 | com.discoverseniorbenefits/benefits | DiscoverSeniorBenefits | 1.1.0 | Find US senior benefits by ZIP or city and check eligibility with rules citing… |
-| 2026-11-15 17:11:24 | [io.github.MuttyRab/gui-hub](https://github.com/MuttyRab/MuttyRab.github.io) | GUI Hub | 0.6.0 | Local FFmpeg, pdfcpu, Pandoc and more for your AI: video, PDF, documents, renam… |
-| 2026-11-15 17:12:05 | [io.github.introfini/mcp-server-zotero-dev](https://github.com/introfini/mcp-server-zotero-dev) |  | 1.1.5 | MCP server enabling AI assistants to build, test, and debug Zotero plugins |
-| 2026-11-15 17:13:45 | de.gutachten-afa/gutachten-afa | Gutachten AfA – Restnutzungsdauer & Kau… | 1.0.0 | Restnutzungsdauer-Vorschau, Preise, kostenlose Ersteinschätzung und Auftrag für… |
-| 2026-11-15 17:15:34 | [io.github.toymachine325-blip/jp-rules-mcp](https://github.com/toymachine325-blip/jp-rules-mcp.git) | Japan Inbound & Cross-Border Rules MCP | 1.0.0 | Official Japan inbound travel & cross-border rules for AI Agents (Tax-Free, Shi… |
-| 2026-11-15 17:19:26 | [com.writerslogic.agents/writerslogic-agent-infra](https://github.com/writerslogic/ai-agents) | WritersLogic agent-infra | 1.0.0 | Micro agents for parsing, validation, encoding, scoring, and structured I/O pip… |
-| 2026-11-15 17:19:26 | [com.writerslogic.agents/writerslogic-agents](https://github.com/writerslogic/ai-agents) | WritersLogic verifiable AI agents | 1.0.0 | 262 deterministic, x402-paid agents for audit, research, patents, and dev revie… |
-| 2026-11-15 17:19:27 | [com.writerslogic.agents/writerslogic-business](https://github.com/writerslogic/ai-agents) | WritersLogic business agents | 1.0.0 | Medical-bill audit, chargeback, contract terminator, lead enrichment, filing in… |
-| 2026-11-15 17:19:27 | [com.writerslogic.agents/writerslogic-crypto](https://github.com/writerslogic/ai-agents) | WritersLogic crypto agents | 1.0.0 | Smart-contract audit, token due diligence, prediction-market EV, vault exit ana… |
-| 2026-11-15 17:19:27 | [com.writerslogic.agents/writerslogic-developer](https://github.com/writerslogic/ai-agents) | WritersLogic developer agents | 1.0.0 | Diff gatekeeper, pre-merge review, unicode safety, SMT prover, dependency advis… |
-| 2026-11-15 17:19:27 | [com.writerslogic.agents/writerslogic-legal-ip](https://github.com/writerslogic/ai-agents) | WritersLogic legal-ip agents | 1.0.0 | Patent prior art, design-around, patent strategy, legal-citation verification. |
-| 2026-11-15 17:19:28 | [com.writerslogic.agents/writerslogic-research](https://github.com/writerslogic/ai-agents) | WritersLogic research agents | 1.0.0 | ArXiv to code, replication audits, paper contradictions, citation audit, prose… |
+| 2026-11-15 17:21:28 | [org.klavierstuck/catalogue](https://github.com/Jeano63/klavierstuck) | Klavierstuck | 0.1.0 | Read-only, sourced catalogue of classical keyboard works: composers, catalogues… |
+| 2026-11-15 17:22:39 | [io.github.uplinkswitch/uplinkswitch](https://github.com/uplinkswitch/uplinkswitch-mcp) | UplinkSwitch | 0.1.0 | 350 chat, image and speech models on one API key, prices readable without a key |
+| 2026-11-15 17:22:39 | [io.github.uplinkswitch/uncensoredllm](https://github.com/uplinkswitch/uplinkswitch-mcp) | UncensoredLLM | 0.1.0 | Abliterated and derestricted open-weight models on one prepaid key, prices read… |
+| 2026-11-15 17:22:39 | [io.github.uplinkswitch/relayswitch](https://github.com/uplinkswitch/uplinkswitch-mcp) | RelaySwitch | 0.1.0 | One key for coding agents and editors: 350 models, presets and fallbacks, price… |
+| 2026-11-15 17:22:39 | [io.github.uplinkswitch/unrestrictable](https://github.com/uplinkswitch/uplinkswitch-mcp) | Unrestrictable | 0.1.0 | Uncensored chat and image models on one key, no prompt logs, prices readable wi… |
+| 2026-11-15 17:22:40 | [io.github.uplinkswitch/pentestllm](https://github.com/uplinkswitch/uplinkswitch-mcp) | PentestLLM | 0.1.0 | Uncensored models for authorized security testing, prices readable without a key |
+| 2026-11-15 17:24:05 | app.shipfunnels/shipfunnels | ShipFunnels | 1.0.0 | Build and deploy sales funnels from your AI agent, with checkout, upsells, CRM… |
+| 2026-11-15 17:25:53 | me.zeroproble/calculs-bailleur | Zéro problème : calculs du bailleur en… | 1.0.1 | Calculs du bailleur en France : IRL, interdiction DPE, plus-value LMNP, dépôt,… |
+| 2026-11-15 17:27:16 | com.ricursor/ricursor | Ricursor | 0.2.0 | Long-term, rotatable project memory and pre-write checks for AI coding agents. |
+| 2026-11-15 17:28:20 | [io.iresolve.app/mcp-server](https://github.com/AT-blip-max/iresolve-v2) | iResolve Private Alignment Rooms | 1.0.0 | Start private 1-on-1 or 3+ anonymous alignment rooms in 100+ languages (zero PI… |
+| 2026-11-15 17:29:03 | com.canarias/rentacar | Canarias.com Rentacar | 1.0.0 | Find Tenerife rental cars, compare prices and get a link to finish booking on C… |
+| 2026-11-15 17:33:50 | io.github.aakashbharadwaj15/agent-water-cooler | Agent Water Cooler | 1.0.0 | Best practices for everyday web tasks, shared by AI agents. Search before a tas… |
+| 2026-11-15 17:38:46 | [com.inshihub/inshihub](https://github.com/heavyinthegame/inshi-open-data) | 院試hub (Japanese graduate entrance exams) | 1.0.0 | Japanese graduate entrance exam (院試) data: exam topics, official past papers, s… |
+| 2026-11-15 17:40:03 | [io.github.matbrons/api-screenshot](https://github.com/matbrons/api-screenshot) | API Screenshot | 0.1.1 | Clean full-page screenshots of real sites: cookie banners, pop-ups, chat widget… |
+| 2026-11-15 17:42:49 | [io.github.wiiiktor/chopper](https://github.com/wiiiktor/chopper_demo) | Chopper | 0.1.5 | Cuts the exact quotes that answer a question out of long text and reranks passa… |
+| 2026-11-15 17:46:31 | [io.github.pdhimal1/askcradle](https://github.com/pdhimal1/parenting) | AskCradle parenting guides | 1.0.0 | Free, reviewed parenting guides from pregnancy to preschool. Urgent questions g… |
+| 2026-11-15 17:46:50 | ro.neofort.www/ansambluri-rezidentiale | Neofort IMO — ansambluri rezidențiale B… | 1.0.0 | New-build apartments for sale in Bucharest by Neofort IMO: availability, prices… |
+| 2026-11-15 17:54:42 | com.dataprocessingorganization/mcp | DPO Public Surplus, Federal RFP & VIN M… | 1.0.0 | Verified US gov surplus auctions, SAM.gov RFPs, 17-digit VIN decoder & net-marg… |
+| 2026-11-15 17:55:28 | [dev.pages.matrix-compute-website/matrix-compute-mcp](https://github.com/matrixmultiplyconsortium/matrix-compute-mcp) |  | 0.1.3 | P2P GPU matrix multiply, exact cosine search, and PCA/SVD verified via Freivald… |
+| 2026-11-15 17:57:03 | [com.matrix-compute/matrix-compute-mcp](https://github.com/matrixmultiplyconsortium/matrix-compute-mcp) |  | 0.1.4 | P2P GPU matrix multiply, exact cosine search, and PCA/SVD verified via Freivald… |
+| 2026-11-15 17:58:20 | io.github.ROGT7/nexsusa-m2m | NEXSUSA M2M | 3.1.0 | 186 pay-per-call x402 micro-services: extraction, crypto, security, code, OSINT… |
+| 2026-11-15 17:59:57 | com.runmysocial/run-my-social | Run My Social | 1.0.0 | AI social media manager: research, make and post carousels and reels to IG, FB,… |
+| 2026-11-15 18:01:45 | com.prospya/prospya | Prospya | 1.0.0 | Find local businesses (shops, trades, restaurants) in 15 countries with phone,… |
+| 2026-11-15 18:02:42 | jp.yomitasu/grownity-co-jp | 株式会社グローニティ | 1.0.1 | 集客からセールスまで完全自動の仕組みをつくります。（grownity.co.jp の内容を検索して答える。ヨミタス経由） |
+| 2026-11-15 18:05:27 | [org.pqlabs/stringtheory](https://github.com/PQ-stringtheory/stringtheory-plugin) | StringTheory | 1.0.0 | U.S. campaign finance, congressional votes, bill text X-ray, and primary-source… |
+| 2026-11-15 18:05:48 | com.patocard/mcp | PatoCard | 1.0.0 | Loyalty cards in Apple & Google Wallet: customers, stamps, rewards and stats fo… |
+| 2026-11-15 18:06:28 | app.recalldb/recalldb | RecallDB | 1.0.0 | Official recalls from NHTSA, CPSC, FDA, USDA, Canada, UK, EU and Australia; VIN… |
+| 2026-11-15 18:07:28 | [io.github.rare-disease-atlas/orphan-disease-opportunity-mcp](https://github.com/rare-disease-atlas/orphan-disease-opportunity-mcp) | Orphan Disease Opportunity Atlas MCP | 1.2.0 | Orphan disease startup blueprints, JAK2+ & AIMF biology, non-dilutive grants, a… |
+| 2026-11-15 18:10:31 | [io.github.jidr-dev/jidr](https://github.com/jidr-dev/jidr) | Jidr | 0.6.0 | See and drive Android emulators on a Mac: screenshot, tap, type, UI tree, logs,… |
+| 2026-11-15 18:14:41 | eu.oferoo/supermarket-prices | Oferoo.eu: European supermarket prices | 1.0.0 | Supermarket prices from 20+ European countries, matched by barcode, with source… |
+| 2026-11-15 18:14:45 | io.github.Finsoy/timestamply | Timestamply | 1.0.0 | Generate YouTube chapters with titles and timestamps from video captions. |
+| 2026-11-15 18:15:41 | app.smartcompanion/audioguide | SmartCompanion | 1.0.0 | Create and edit museum audioguide apps: stations, tours, texts, images, audio a… |
+| 2026-11-15 18:18:20 | xyz.port66/marketplace | Port66 | 1.0.0 | Search, price and buy authenticated luxury and collectibles, paying from any ch… |
+| 2026-11-15 18:19:20 | [io.github.easyrenderai/easyrender](https://github.com/easyrenderai/easyrender.ai) | easyrender | 0.1.0 | Remote image-to-3D MCP: preview a product photo, then build a textured GLB with… |
+| 2026-11-15 18:20:57 | ai.ariso/ari | Ari by Ariso | 1.1.0 | Ari, the AI chief of staff: meetings, to-dos, reminders and memory, and work yo… |
+| 2026-11-15 18:21:38 | [io.github.Ivolver/nda-handshake](https://github.com/Ivolver/NDA-Handshake) | NDA Handshake | 0.12.3 | Two companies' assistants put a standard mutual NDA in place over three sealed… |
+| 2026-11-15 18:21:53 | dev.artefaktum/artefaktum | Artefaktum | 0.1.0 | Searchable storage for AI agents: store, find, read and trust artifacts shared… |
 
 ## Data source
 
