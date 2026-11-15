@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-11-15T14:20:23.518254Z,com.plainrecordlabs/company-jobs-feed,"Company Career Site Jobs: Workday, Greenhouse, Lever",1.0.0,,streamable-http,Open jobs from company career sites by keyword. Apify token needed. 0.0015 USD a job plus start fee
+2026-11-15T14:20:46.443716Z,com.kitviagem/kit-viagem,Kit Viagem: travel insurance and currency exchange for Brazilian travelers,1.0.0,,streamable-http,Travel insurance by country and international cards/IOF costs for Brazilian travelers.
+2026-11-15T14:20:47.860897Z,com.comparamei/compara-mei,"Compara MEI: card machines, websites, e-commerce, CRM and ERP for Brazilian small businesses",1.0.0,,streamable-http,"Card machines, site builders, e-commerce, CRM and ERP for Brazilian MEIs, BRL prices."
+2026-11-15T14:20:49.305473Z,com.escudocompara/escudo-compara,"Escudo Compara: VPN, password managers and antivirus (Brazil and Latin America)",1.0.0,,streamable-http,"VPNs, password managers and antivirus compared in Portuguese and Spanish, BRL/USD prices."
+2026-11-15T14:21:36.501224Z,ai.vesperagent/vesper,VESPER Agent,0.1.0,,streamable-http,"Estimates automation time savings, drafts automation specs, and checks Japanese ad copy. Read-only."
+2026-11-15T14:24:25.20625Z,app.docflare/docflare,Docflare,1.0.0,,streamable-http,"Send PDFs for e-signature from your AI assistant, track status and get the signed copy."
+2026-11-15T14:29:58.111215Z,io.github.tollnodemcp/tollnode,TollNode,1.0.0,,streamable-http,"Top AI models and live data as tools: images, video, voice, music, search. Pay per call."
+2026-11-15T14:30:11.196137Z,jp.yomitasu/shikake101-co-jp,shikake101.co.jp,1.0.1,,streamable-http,CRAFT101（仕掛人101）は、バッグを中心とした商品企画・開発、OEM・ODM生産を行う企画生産チームです。（shikake101.co.jp の内容を検索して答える。ヨミタス経由）
+2026-11-15T14:30:27.023088Z,se.vinka-hej/vinka,Vinka,1.0.0,https://github.com/vinka-hej/vinka-plugin,streamable-http,"Follow your Swedish company's bookkeeping: reports, VAT, payroll, invoices, send in receipts."
+2026-11-15T14:35:41.091941Z,io.github.incwo/bruno,Bruno,1.13.0,,streamable-http,Bruno MCP preview. Server OAuth configuration is required before connecting.
+2026-11-15T14:36:22.962865Z,com.askyreadings/asky,AskY Tarot Reading,1.0.0,,streamable-http,"Tarot de Marseille in one reader's voice: card of the day, card meanings and readings, EN/ES."
+2026-11-15T14:39:57.654476Z,io.github.redd34/nightshift-grid,Nightshift Grid,0.1.3,https://github.com/redd34/nightshift-grid,,"Cited knowledge graphs from local documents, extracted by small Ollama models on idle machines."
+2026-11-15T14:40:38.464158Z,com.pickaplugin/pickaplugin,PickAPlugin,1.0.0,https://github.com/houstoninvestments-jpg/pickaplugin,streamable-http,"Search a directory of 550+ MCP servers, Codex/ChatGPT/Claude plugins and agent skills."
+2026-11-15T14:44:34.296227Z,com.spendcanary/free-tools,SpendCanary free Google Ads tools,1.0.0,https://github.com/spendcanary/mcp-free-tools,streamable-http,"Free Google Ads and PPC tools: ad copy, ROAS, CPC, budgets, wasted spend and landing page checks."
+2026-11-15T14:46:17.791094Z,it.messeoggi/messe-oggi,Messe Oggi,1.0.0,,streamable-http,"Orari delle celebrazioni cattoliche in streaming, luoghi di culto, letture e approfondimenti."
+2026-11-15T14:49:06.431526Z,co.spicefactory/public,SpiceFactory Public Knowledge,1.2.0,,streamable-http,"Public SpiceFactory knowledge: search essays and case studies, how we partner, fit. No auth."
+2026-11-15T14:50:12.62203Z,com.datailo/datailo,"Datailo: one MCP connection to EU tenders, EU regulation and law",0.1.2,,streamable-http,One MCP connection to professional data. Connect with OAuth and confirm email in your browser.
+2026-11-15T14:56:04.217843Z,com.sharpleftturn/ai-battle-arena,AI Battle Arena,0.2.0,,streamable-http,"Strategy game for AI agents: place a secret army, watch it fight, climb the leaderboard."
+2026-11-15T15:00:09.938616Z,com.neutralpick/company-list,NeutralPick company list,1.0.0,,streamable-http,"Search NeutralPick's free, unranked list of software companies that listed themselves."
+2026-11-15T15:05:49.86716Z,io.github.AIDNodeOfficial/aidnode,AIDNode | AI Agent Support Network,0.3.0-global-beta,https://github.com/AIDNodeOfficial/aidnode,streamable-http,"Free beta MCP tools for API error diagnosis, text comparison, and structured record checks."
+2026-11-15T15:07:08.367868Z,app.youvik/youvik,Youvik,0.4.0,,streamable-http,"YouTube tools: X-ray any channel, research topics, find collabs, manage video projects."
+2026-11-15T15:12:35.717114Z,com.flopscout/scout,Flop Scout,0.6.0,https://github.com/0xBobaAI/flop-scout,streamable-http,"Web search, page reading and FLOP miner reliability for agents, priced per call in FLOP."
+2026-11-15T15:16:01.006533Z,ai.bittuitive.api/bittuitive,BitTuitive,1.0.0,,streamable-http,"Pick the best paid L402/x402 API for any data need; Bitcoin price, oracle and signals via Lightning."
+2026-11-15T15:16:34.248816Z,io.github.runearc-labs/runearc,Runearc,1.0.0,https://github.com/runearc-labs/runearc-mcp,streamable-http,"Email inboxes for AI agents: create an inbox, wait for the verification code, send and reply."
+2026-11-15T15:17:36.049922Z,io.github.uplinkswitch/mcp,,0.1.0,https://github.com/uplinkswitch/uplinkswitch-mcp,,"350 chat, image and speech models on one API key, with prices readable before signup"

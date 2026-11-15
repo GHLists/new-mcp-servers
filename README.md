@@ -9,31 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 14:19 UTC
+## Latest list — 2026-11-15 15:21 UTC
 
-New MCP servers published between 2026-11-15 13:19 UTC and 2026-11-15 14:19 UTC.
+New MCP servers published between 2026-11-15 14:19 UTC and 2026-11-15 15:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-15T14-19-50-067663Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-15T15-21-24-14585Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-15 13:27:25 | ai.amigurumi/patterns | amigurumi.ai | 1.1.0 | Free crochet amigurumi toy patterns with 3D models, plus a circle, ball and tub… |
-| 2026-11-15 13:29:16 | [io.github.mohammad-abbasi-sh/ferien-mcp](https://github.com/mohammad-abbasi-sh/ferien-mcp) | Ferien — German school holidays by year… | 0.1.0 | Unofficial read-only MCP server for German school holidays — by year & state, n… |
-| 2026-11-15 13:37:47 | com.eatcrush/eatcrush | Eatcrush | 0.1.0 | Search restaurant dishes by allergen and diet with sources and menu dates. Sydn… |
-| 2026-11-15 13:40:06 | com.snewpapers/research | SNEWPapers Research | 1.0.0 | Search extracted newspaper articles from the Library of Congress, 1736-1963. Su… |
-| 2026-11-15 13:41:54 | world.signalwaves/fp-consultant-mcp | Florian Preisenhammer | 2.0.0 | Independent AI consultant in Munich: services, assessments, insights and enquir… |
-| 2026-11-15 13:43:12 | [io.github.johnski9000/jobsite-math](https://github.com/johnski9000/jobsite-math) | Jobsite Math | 0.1.0 | Read-only US construction calculators: roof pitch, concrete, gravel, brick, pai… |
-| 2026-11-15 13:44:40 | [eu.redactic/mcp](https://github.com/redactic/redactic-mcp) | Redactic | 0.1.0 | Mask, restore and black out personal data in text and files, processed in the E… |
-| 2026-11-15 13:46:46 | [io.github.dspv/caprock](https://github.com/dspv/caprock) | Caprock | 0.176.0 | Read-only memory of your coding agents: decisions, past sessions, spend and CI.… |
-| 2026-11-15 13:48:00 | [com.coupossum/coupossum](https://github.com/mrsuit666/Coupossum_MCP) | Coupossum | 0.2.2 | Coupons and deals from many stores. Built on Feedico data. It is not an officia… |
-| 2026-11-15 13:59:14 | app.fluxhost/fluxhost | FluxHost | 1.0.0 | Deploy and manage static websites on FluxHost directly from your AI assistant. |
-| 2026-11-15 14:00:04 | [io.github.vansiqi/vansiqi-mcp](https://github.com/vansiqi/vansiqi-mcp) | VanSiqi — Global Company Registry Verif… | 0.2.0 | Verify companies against official government registers in SG, AU, US-FL, UK (24… |
-| 2026-11-15 14:02:37 | com.useviapp/vi | Vi Project Management | 1.23.0 | Project management and helpdesk for software teams: find, create, start and clo… |
-| 2026-11-15 14:03:44 | com.usdtbanned/mayak | LIGHTHOUSE (МАЯК) — USDT freeze risk | 1.0.0 | USDT freeze risk for any address: Tether blacklist status and open multisig fre… |
-| 2026-11-15 14:04:59 | io.github.SverrirValgeirsson/todourweb | Todour | 1.0.0 | Manage todo.txt tasks through TodourWeb. |
-| 2026-11-15 14:07:20 | com.nightmarquee/mcp | NightMarquee | 2.0.0 | Cinematic website designs with build prompts and starters, plus a check for AI-… |
-| 2026-11-15 14:09:18 | io.github.mintnft04/agent-token-check | Agent Token Check | 0.3.0 | Token safety check for AI agents on 45 chains: honeypot, tax, owner powers, LP… |
-| 2026-11-15 14:19:05 | [io.github.juanmariarodriguez2-png/brainplug](https://github.com/juanmariarodriguez2-png/brainplug) | Brainplug | 0.4.0 | A second brain your AI assistants share: your notes, chats and mail, and memori… |
+| 2026-11-15 14:20:23 | com.plainrecordlabs/company-jobs-feed | Company Career Site Jobs: Workday, Gree… | 1.0.0 | Open jobs from company career sites by keyword. Apify token needed. 0.0015 USD… |
+| 2026-11-15 14:20:46 | com.kitviagem/kit-viagem | Kit Viagem: travel insurance and curren… | 1.0.0 | Travel insurance by country and international cards/IOF costs for Brazilian tra… |
+| 2026-11-15 14:20:47 | com.comparamei/compara-mei | Compara MEI: card machines, websites, e… | 1.0.0 | Card machines, site builders, e-commerce, CRM and ERP for Brazilian MEIs, BRL p… |
+| 2026-11-15 14:20:49 | com.escudocompara/escudo-compara | Escudo Compara: VPN, password managers… | 1.0.0 | VPNs, password managers and antivirus compared in Portuguese and Spanish, BRL/U… |
+| 2026-11-15 14:21:36 | ai.vesperagent/vesper | VESPER Agent | 0.1.0 | Estimates automation time savings, drafts automation specs, and checks Japanese… |
+| 2026-11-15 14:24:25 | app.docflare/docflare | Docflare | 1.0.0 | Send PDFs for e-signature from your AI assistant, track status and get the sign… |
+| 2026-11-15 14:29:58 | io.github.tollnodemcp/tollnode | TollNode | 1.0.0 | Top AI models and live data as tools: images, video, voice, music, search. Pay… |
+| 2026-11-15 14:30:11 | jp.yomitasu/shikake101-co-jp | shikake101.co.jp | 1.0.1 | CRAFT101（仕掛人101）は、バッグを中心とした商品企画・開発、OEM・ODM生産を行う企画生産チームです。（shikake101.co.jp の内容を… |
+| 2026-11-15 14:30:27 | [se.vinka-hej/vinka](https://github.com/vinka-hej/vinka-plugin) | Vinka | 1.0.0 | Follow your Swedish company's bookkeeping: reports, VAT, payroll, invoices, sen… |
+| 2026-11-15 14:35:41 | io.github.incwo/bruno | Bruno | 1.13.0 | Bruno MCP preview. Server OAuth configuration is required before connecting. |
+| 2026-11-15 14:36:22 | com.askyreadings/asky | AskY Tarot Reading | 1.0.0 | Tarot de Marseille in one reader's voice: card of the day, card meanings and re… |
+| 2026-11-15 14:39:57 | [io.github.redd34/nightshift-grid](https://github.com/redd34/nightshift-grid) | Nightshift Grid | 0.1.3 | Cited knowledge graphs from local documents, extracted by small Ollama models o… |
+| 2026-11-15 14:40:38 | [com.pickaplugin/pickaplugin](https://github.com/houstoninvestments-jpg/pickaplugin) | PickAPlugin | 1.0.0 | Search a directory of 550+ MCP servers, Codex/ChatGPT/Claude plugins and agent… |
+| 2026-11-15 14:44:34 | [com.spendcanary/free-tools](https://github.com/spendcanary/mcp-free-tools) | SpendCanary free Google Ads tools | 1.0.0 | Free Google Ads and PPC tools: ad copy, ROAS, CPC, budgets, wasted spend and la… |
+| 2026-11-15 14:46:17 | it.messeoggi/messe-oggi | Messe Oggi | 1.0.0 | Orari delle celebrazioni cattoliche in streaming, luoghi di culto, letture e ap… |
+| 2026-11-15 14:49:06 | co.spicefactory/public | SpiceFactory Public Knowledge | 1.2.0 | Public SpiceFactory knowledge: search essays and case studies, how we partner,… |
+| 2026-11-15 14:50:12 | com.datailo/datailo | Datailo: one MCP connection to EU tende… | 0.1.2 | One MCP connection to professional data. Connect with OAuth and confirm email i… |
+| 2026-11-15 14:56:04 | com.sharpleftturn/ai-battle-arena | AI Battle Arena | 0.2.0 | Strategy game for AI agents: place a secret army, watch it fight, climb the lea… |
+| 2026-11-15 15:00:09 | com.neutralpick/company-list | NeutralPick company list | 1.0.0 | Search NeutralPick's free, unranked list of software companies that listed them… |
+| 2026-11-15 15:05:49 | [io.github.AIDNodeOfficial/aidnode](https://github.com/AIDNodeOfficial/aidnode) | AIDNode \| AI Agent Support Network | 0.3.0-global-beta | Free beta MCP tools for API error diagnosis, text comparison, and structured re… |
+| 2026-11-15 15:07:08 | app.youvik/youvik | Youvik | 0.4.0 | YouTube tools: X-ray any channel, research topics, find collabs, manage video p… |
+| 2026-11-15 15:12:35 | [com.flopscout/scout](https://github.com/0xBobaAI/flop-scout) | Flop Scout | 0.6.0 | Web search, page reading and FLOP miner reliability for agents, priced per call… |
+| 2026-11-15 15:16:01 | ai.bittuitive.api/bittuitive | BitTuitive | 1.0.0 | Pick the best paid L402/x402 API for any data need; Bitcoin price, oracle and s… |
+| 2026-11-15 15:16:34 | [io.github.runearc-labs/runearc](https://github.com/runearc-labs/runearc-mcp) | Runearc | 1.0.0 | Email inboxes for AI agents: create an inbox, wait for the verification code, s… |
+| 2026-11-15 15:17:36 | [io.github.uplinkswitch/mcp](https://github.com/uplinkswitch/uplinkswitch-mcp) |  | 0.1.0 | 350 chat, image and speech models on one API key, with prices readable before s… |
 
 ## Data source
 
