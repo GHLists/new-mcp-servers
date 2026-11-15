@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-11-15T02:20:44.689913Z,com.thedesignprint/designprint,Designprint,1.0.0,,streamable-http,"Print shop for AI agents: business cards, flyers, posters. Returns a proof, a price and a pay link."
+2026-11-15T02:24:10.888488Z,io.github.blightbow/parkour-mcp,,2.5.0rc0,https://github.com/blightbow/parkour-mcp,,"A content exploration toolkit that helps LLMs surface high signal, unsummarized web content."
+2026-11-15T02:25:52.80397Z,in.productgrowth/productgrowth,productgrowth.in,0.2.0,,streamable-http,"Rupee prices, free plans and India fit for ~360 software tools, plus Kriyā for Indian founders."
+2026-11-15T02:26:05.487613Z,ai.qlane/qlane,Qlane,1.1.0,https://github.com/qlaneai/agent-plugin,streamable-http,"AI QA that runs your app in a browser on every pull request: projects, test targets, test cases."
+2026-11-15T02:26:44.385391Z,io.github.cynthiawang109-sudo/taskflow-doc-search,,0.1.1,https://github.com/cynthiawang109-sudo/ai-workspace-kit,,Search local TaskFlow workspace documentation and read tickets over MCP stdio.
+2026-11-15T02:27:03.149275Z,dev.tinplate/edge-apis,"Tinplate Edge AI Safety, Security & EU Compliance",1.0.13,,streamable-http,"Zero-log MCP server with 42 tools for AI guardrails, secret scanning, MCP linting & EU compliance."
+2026-11-15T02:30:46.18819Z,io.github.Medxpert-org/lgd-engine,LGD Engine,0.1.0,https://github.com/Medxpert-org/lgd-engine,,Judgment core for medical-device AI change control: 510(k) change and postmarket gates.
+2026-11-15T02:36:35.897527Z,io.virkly/cvr,Virkly CVR,0.3.0,,streamable-http,"Danish company data from CVR: lookup, search, owners, financials, bankruptcies, monitoring."
+2026-11-15T02:37:03.077619Z,com.deployunimatrix/unimatrix,Unimatrix,0.1.0,https://github.com/Cimbro-LLC/DEPLOYUNIMATRIX,streamable-http,"Persistent memory layer for AI clients: store, recall, and correct context across tools."
+2026-11-15T02:37:44.491346Z,io.github.congzhou09/chrome-dev-mcp,,2.0.0,https://github.com/congzhou09/chrome-dev-mcp,,"Debug an already-running Chrome tab: breakpoints, stepping, scope variables, console, network"
+2026-11-15T02:40:03.032034Z,io.github.minetreen-creator/contrax,Contrax: US federal contracts ending soon,1.0.0,,streamable-http,"US federal contracts ending soon by state and trade: holders, agencies, award sizes, open bids."
+2026-11-15T02:40:19.725359Z,com.pugsoda/pugsoda,PugSoda,1.0.0,,streamable-http,"Browse trending TikTok AI meme video templates, prices, photo tips, and direct upload links."
+2026-11-15T02:40:22.994625Z,life.bornthen/bornthen,Born Then,1.0.0,,streamable-http,Roll random births weighted by human births (1 CE-2025) and query era demographics and events.
+2026-11-15T02:44:01.468177Z,io.github.9symphony/shanghai-streets,Shanghai Streets Travel Guide,1.0.0,https://github.com/9symphony/shanghaistreets.co.il,streamable-http,"Curated travel places, walking routes and areas for Shanghai, Jiangsu and Zhejiang, China."
+2026-11-15T02:53:02.178594Z,io.github.shibbirweb/sendmock,SendMock,1.0.0,https://github.com/shibbirweb/sendmock,,"Test email, SMS, payments and webhooks locally: read messages, OTPs and webhook deliveries."
+2026-11-15T02:58:57.844Z,io.github.dpcnsg/manmuldogam,Manmul Dogam (find any object's name),0.1.0,,streamable-http,"Name any object or part from a vague Korean/English description, with what to measure."
+2026-11-15T02:59:24.096918Z,io.github.cartesianecu/cartesian-ecu-mcp,CARTESIAN ECU,1.0.0,https://github.com/cartesianecu/cartesian-ecu-mcp,streamable-http,Check and repair ECU and TCU flash file checksums with CARTESIAN (account with the ULTIMATE plan).
+2026-11-15T03:07:46.830122Z,io.github.Red-Center-Studio/webdesk,WebDesk,1.0.0,https://github.com/Red-Center-Studio/webdesk-mcp,streamable-http,Build complete one-page small business websites from a short brief. Prepaid credits via Stripe.
+2026-11-15T03:07:48.073423Z,io.github.Red-Center-Studio/rcs-tools,Red Center Studio free tools,1.0.0,https://github.com/Red-Center-Studio/webdesk-mcp,streamable-http,"Free website checks: GEO audit, single point of failure DNS scan, Bubble error decoder. No key."
+2026-11-15T03:19:16.763471Z,app.webas/webas,Webas,1.0.0,https://github.com/lovekencode/Webas-mcp,streamable-http,Create and publish a real website by chatting with your AI assistant.
