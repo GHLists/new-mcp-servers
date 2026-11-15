@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-11-15T11:28:59.643065Z,io.github.Boundprogress/event-horizon-subscription,Event Horizon — Browser Automation,0.27.1-lab.20261109.1,https://github.com/Boundprogress/event-horizon-subscription,,"AI agent operates local Chrome and returns verifiable page results, with cloud page processing."
+2026-11-15T11:30:10.256493Z,io.github.Nutshell2000/agent-data-tools-voice,Agent Data Tools: Speech to text and text to speech,1.203.0,https://github.com/Nutshell2000/agent-data-tools,streamable-http,"Transcribe audio and video (SRT/VTT subtitles, an hour for $0.05) and text to speech as MP3."
+2026-11-15T11:34:58.484845Z,io.clicknote/clicknote,ClickNote,1.0.0,,streamable-http,"Read your clients' website feedback notes, with page and element, and update their status."
+2026-11-15T11:36:35.322631Z,app.dungchua/dungchua,Đúng Chưa?,1.0.0,https://github.com/venkork/dungchua-mcp,streamable-http,Vietnamese tone pitch-contour guides and acoustic recording gate checks via Remote MCP.
+2026-11-15T11:36:38.174532Z,com.food-cost-calculator/costrail,CostRail Food Cost Calculator,1.0.0,https://github.com/venkork/costrail-mcp,streamable-http,"Recipe food cost, butcher trim yield, and beverage pour cost calculations via Remote MCP."
+2026-11-15T11:37:17.821369Z,io.github.kogeler/joplin-md-sync,Joplin MCP for Claude & ChatGPT,1.8.1,https://github.com/kogeler/joplin-md-sync,,Self-hosted Joplin MCP server with built-in OAuth for hosted Claude and ChatGPT Actions
+2026-11-15T11:38:39.803757Z,net.quantgeeks/gex,QuantGeeks GEX,1.0.0,,streamable-http,"Live gamma exposure (GEX) levels, dealer positioning and regime reads for SPX, NDX, QQQ and MAG7"
+2026-11-15T11:41:22.340756Z,com.commercentr/marketplace,CommerCentr E-commerce Catalog MCP Server,1.0.0,,streamable-http,Browse CommerCentr product catalogs and use scoped content and SEO tools.
+2026-11-15T11:43:23.502754Z,com.thenls/mls-espana,The NLS — el MLS de España,2.0.0,,streamable-http,"El MLS de España: propiedades en venta verificadas en la Costa del Sol, Costa Blanca y Mallorca."
+2026-11-15T11:44:31.474407Z,io.github.Blhasn-Sehli/repo-interview,repo-interview,0.2.1,https://github.com/Blhasn-Sehli/repo-interview,,"Interview questions about your own repo or PR, each verified to cite real code."
+2026-11-15T11:51:50.345939Z,com.freispace/freispace,freispace,0.1.0,,streamable-http,"Query freispace schedules, bookings, staff, projects, availability, and tasks."
+2026-11-15T11:51:54.85329Z,com.dealpuffin/mcp,Dealpuffin,1.1.6,https://github.com/dealpuffin/agent,streamable-http,"Find live SaaS coupons, or list and manage your product's coupons and proof points on Dealpuffin."
+2026-11-15T11:57:39.385509Z,io.github.neat-cyber/agent-repair,Agent Repair — MCP Tool Failure Diagnostics,0.1.0,,streamable-http,"Free MCP tool error diagnosis, argument checks, and related agent-tool discovery."
+2026-11-15T11:59:38.5809Z,io.github.itsOmidKarami/kraft,Kraft,2.6.0,https://github.com/itsOmidKarami/kraft,,"Drive a running local Kraft server from an agent: file work, read the board, act on gates."
+2026-11-15T12:01:02.249842Z,app.todonote/todonote,TodoNote,0.2.0,,streamable-http,"Tasks, notes, and tags in TodoNote, with OAuth-scoped read and write access."
+2026-11-15T12:01:41.157581Z,app.aiscoreboard/catalogue,AIScoreboard,1.0.0,,streamable-http,"Dated, sourced AI API prices, model retirements and AI app facts. Read-only, no key needed."
+2026-11-15T12:05:49.653445Z,io.github.igor-garin/factmesh,factmesh,0.1.2,https://github.com/igor-garin/factmesh,,"Fresh package facts shared by AI agents, each re-checked on your machine before use."
+2026-11-15T12:07:53.391631Z,app.yoodoo/yoodoo,Yoodoo,1.1.0,,streamable-http,"See your Yoodoo day, add and edit tasks, and plan around what can't move. It lands on your phone."
+2026-11-15T12:08:40.343057Z,io.github.oaslananka/semantic-state-runtime,Semantic State Runtime,0.2.0,https://github.com/oaslananka/semantic-state-runtime,,Local MCP server for policy-authorized semantic context and source-authority reconciliation.
+2026-11-15T12:08:43.278503Z,io.github.defcron/agent-evidence-utility,Agent Evidence Utility,0.8.172,https://github.com/defcron/agent-evidence-utility,streamable-http,Free MCP discovery for CSV import APIs; paid HTTP requests use x402 USDC.
+2026-11-15T12:10:54.906776Z,io.github.neat-cyber/agent-signals,Agent Signals — Public Tender Search,0.1.0,,streamable-http,Search sourced French public procurement notices from official BOAMP open data.
+2026-11-15T12:12:25.917659Z,io.github.neat-cyber/agent-dependency-radar,Agent Dependency Radar — Package Advisory Preflight,0.1.0,,streamable-http,Check npm/PyPI package versions against OSV known advisories and latest releases.
+2026-11-15T12:13:23.62275Z,io.citetools/citetools,CiteTools,1.0.0,,streamable-http,"Format a citation, check references against published records and find a DOI."
