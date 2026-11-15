@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-11-15T00:22:06.667713Z,com.freedict/mcp,FreeDict,1.0.0,,streamable-http,"English dictionary: definitions, synonyms, rhymes, origins, slang, translations and word search."
+2026-11-15T00:28:53.372974Z,com.convertaudiototext/transcribe,ConvertAudioToText,1.0.0,,streamable-http,"Transcribe audio and video links, read transcripts and summarize them, signed in with your account."
+2026-11-15T00:30:51.268686Z,com.drawlyhub/drawlyhub,DrawlyHub,1.0.0,,streamable-http,"Draw architecture, Mermaid and Markdown cards onto a board from your repo. Pro, free 2-week trial"
+2026-11-15T00:36:22.187899Z,com.numiagent/numiagent,NumiAgent,0.1.0,,streamable-http,"Read your private coin and banknote catalog, collecting themes, and valuation evidence with OAuth."
+2026-11-15T00:36:45.593507Z,city.haze/world,Haze City,0.2.2,https://github.com/ryanfrigo/haze-city,streamable-http,"A shared 3D world that agents build in. Look around, claim a space, place things, propose edits."
+2026-11-15T00:41:48.448074Z,com.compsniper/compsniper,CompSniper,1.3.1,,streamable-http,"eBay sold prices: 240 sales a call, 3 years (1,095 days), accepted Best Offer, 18 marketplaces"
+2026-11-15T00:42:13.994602Z,de.sommon/office,SOMMON Office,1.0.0,,streamable-http,Send real letters by post through Deutsche Post to Germany and 217 other countries.
+2026-11-15T00:43:55.900965Z,world.opas/guide,Opas World for Guides,1.0.0,,streamable-http,"Guides and tour operators: manage activities, availability, bookings and payouts on Opas World."
+2026-11-15T00:43:56.049859Z,world.opas/traveler,Opas World for Travelers,1.0.0,,streamable-http,"Find and book guided activities on Opas World, and manage your trips and bookings."
+2026-11-15T00:44:17.264604Z,com.postbaton/postbaton,PostBaton,1.0.0,,streamable-http,"Schedule social posts to X, Bluesky, Mastodon, LinkedIn, TikTok, Telegram and more."
+2026-11-15T00:44:44.140122Z,io.github.GKihlstadius/mr-mail,Mr Mail,0.7.1,https://github.com/GKihlstadius/mr-mail,,"Local Windows email client with 28 tools: read, draft, send on request, calendar and clean up."
+2026-11-15T00:45:39.29782Z,io.github.ASOScan/asoscan,ASOScan,1.0.0,,streamable-http,App Store Optimization for your own iOS and Android apps. Needs an ASOScan account (OAuth sign-in).
+2026-11-15T00:46:40.041497Z,io.github.akhilrajesh213/shopify-mcp-server,Shopify MCP Server (any store),0.1.3,,streamable-http,"Any Shopify store's products for AI agents: prices per country, sales, variants, stock, collections."
+2026-11-15T00:55:46.470576Z,com.trycloudflare.barrier-sought-lbs-reader/quotes,HOT x402 Quotes,1.0.0,,streamable-http,Live BTC/ETH/SOL quotes and Fear-Greed index over x402 micropayments on Base.
+2026-11-15T01:03:51.351786Z,io.github.renta-labs/renta,Renta,1.0.0,,streamable-http,"Run an outdoor rental shop on Renta: bookings, fleet, customers, quotes, website and revenue."
+2026-11-15T01:11:19.540545Z,ai.zuuz/zuuz,ZUUZ,1.0.0,,streamable-http,"CRM: leads, deals, pipeline, conversations and prospecting."
+2026-11-15T01:12:04.205746Z,io.github.PromptOwl/contextnest,Context Nest,2.15.0,https://github.com/PromptOwl/ContextNest,streamable-http,"A shared, governed brain for AI agents: versioned context with approvals, local or hosted."
+2026-11-15T01:17:13.109133Z,kz.aitole/aitole,Aitole — Kaspi Pay,1.0.0,https://github.com/aitole-kz/aitole-examples,streamable-http,"Accept Kaspi Pay in Kazakhstan: QR codes, phone invoices, payment status, refunds. Sandbox first."
