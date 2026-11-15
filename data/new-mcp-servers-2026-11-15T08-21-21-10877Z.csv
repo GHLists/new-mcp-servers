@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-11-15T07:21:02.435851Z,io.github.cdavies7/pods4me,pods4.me,1.1.0,https://github.com/cdavies7/thecrux,streamable-http,Personal podcast queue and private RSS feed managed through a bounded MCP tool set.
+2026-11-15T07:22:14.357611Z,io.github.shamazkhan/stet,Stet,0.6.3,https://github.com/shamazkhan/stet,,"Guardrails for AI coding agents: scope guard and locked behaviours for Claude Code, Cursor, Codex"
+2026-11-15T07:24:43.725158Z,com.piedash/okr,PieDash OKRs,1.1.0,,streamable-http,"OKRs for AI assistants: read goals and check-ins, post updates, propose changes for approval."
+2026-11-15T07:28:32.160675Z,io.github.xpayrcom/gmpsignal-mcp,GMPSignal Real-Time Intelligence MCP,1.0.0,https://github.com/xpayrcom/gmpsignal-mcp,streamable-http,"59 live B2B, startup dealflow, ecommerce, crypto arbitrage & cybersecurity MCP tools."
+2026-11-15T07:29:31.561328Z,zone.fork/fork,Fork,0.2.0,,streamable-http,Harness improvements agents post and test for each other. Read without a key; join in one call.
+2026-11-15T07:35:53.033705Z,io.github.ShuhLab/browser-core,Browser Core,0.7.8,https://github.com/ShuhLab/BrowserCore,streamable-http,"Local Chrome and BYO browser automation through MCP, with secure manual handoff."
+2026-11-15T07:37:42.162777Z,io.github.pandaGaume/mcp-broker,CyanMycelium MCP Broker,1.12.0,https://github.com/pandaGaume/mcp-broker,,"One host and one port for many MCP servers: browsers, devices, simulators and stdio tools."
+2026-11-15T07:37:54.705094Z,io.github.echopai/echopai-mcp,EchoPai (回声投研),1.0.1,https://github.com/echopai/echopai-mcp,streamable-http,"China equity & quantitative research MCP server with 50 tools for reports, filings & sentiment."
+2026-11-15T07:40:39.618613Z,com.filemyscorp/s-corp-election,S Corp Election (FileMyScorp),1.0.0,,streamable-http,"IRS Form 2553 S corp election: eligibility, deadlines, late relief, where to file, state rules."
+2026-11-15T07:44:00.257206Z,com.tisket/mcp,Tisket,1.0.0,,streamable-http,"Git-backed project and service management for your business, hosted at tisket.com."
+2026-11-15T07:48:14.172305Z,com.pocketpothi/pocket-pothi,Pocket Pothi,1.0.0,,streamable-http,"Verified Hindu prayer texts: stotras, aartis, chalisas, shlokas, Gita, in Devanagari and Roman."
+2026-11-15T07:56:23.463177Z,io.github.getopencrawl/opencrawl,OpenCrawl,0.1.0,https://github.com/getopencrawl/opencrawl-core,streamable-http,"Search shared agent history and workspace sources, read evidence, and coordinate on an agent board."
+2026-11-15T07:56:28.855285Z,io.github.gridhopai/gpu-price-index,GridHop GPU Price & Carbon Index,0.3.0,https://github.com/gridhopai/gpu-price-index-mcp,streamable-http,"Live GPU rental prices across Vast.ai, RunPod, AWS and Google Cloud, with grid carbon intensity."
+2026-11-15T08:03:44.058714Z,com.mockedule/mockedule,Mockedule,1.0.0,,streamable-http,"Project board for client work: notes become tasks, wireframes become specs, and AI drafts reports."
+2026-11-15T08:14:10.827906Z,cl.acredix/acredix,Acredix,1.0.0,,streamable-http,"Acredita contratistas en Chile: lee expedientes, revisa documentos con IA y genera formatos."
+2026-11-15T08:15:11.239208Z,io.github.liuqianyu885/mrrbench-pricing,MRR Bench Pricing,1.0.0,https://github.com/liuqianyu885/mrrbench-pricing-mcp,streamable-http,"Verified SaaS pricing for 4,164 tools, with source evidence and a list-price change log."
+2026-11-15T08:20:51.015169Z,no.formheim/mcp,Formheim,1.0.0,,streamable-http,"Norwegian shop for 3D-printed interior products, with preliminary prices for custom 3D prints."
