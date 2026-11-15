@@ -9,39 +9,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 15:21 UTC
+## Latest list — 2026-11-15 16:20 UTC
 
-New MCP servers published between 2026-11-15 14:19 UTC and 2026-11-15 15:21 UTC.
+New MCP servers published between 2026-11-15 15:21 UTC and 2026-11-15 16:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-15T15-21-24-14585Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-15T16-20-39-071008Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-15 14:20:23 | com.plainrecordlabs/company-jobs-feed | Company Career Site Jobs: Workday, Gree… | 1.0.0 | Open jobs from company career sites by keyword. Apify token needed. 0.0015 USD… |
-| 2026-11-15 14:20:46 | com.kitviagem/kit-viagem | Kit Viagem: travel insurance and curren… | 1.0.0 | Travel insurance by country and international cards/IOF costs for Brazilian tra… |
-| 2026-11-15 14:20:47 | com.comparamei/compara-mei | Compara MEI: card machines, websites, e… | 1.0.0 | Card machines, site builders, e-commerce, CRM and ERP for Brazilian MEIs, BRL p… |
-| 2026-11-15 14:20:49 | com.escudocompara/escudo-compara | Escudo Compara: VPN, password managers… | 1.0.0 | VPNs, password managers and antivirus compared in Portuguese and Spanish, BRL/U… |
-| 2026-11-15 14:21:36 | ai.vesperagent/vesper | VESPER Agent | 0.1.0 | Estimates automation time savings, drafts automation specs, and checks Japanese… |
-| 2026-11-15 14:24:25 | app.docflare/docflare | Docflare | 1.0.0 | Send PDFs for e-signature from your AI assistant, track status and get the sign… |
-| 2026-11-15 14:29:58 | io.github.tollnodemcp/tollnode | TollNode | 1.0.0 | Top AI models and live data as tools: images, video, voice, music, search. Pay… |
-| 2026-11-15 14:30:11 | jp.yomitasu/shikake101-co-jp | shikake101.co.jp | 1.0.1 | CRAFT101（仕掛人101）は、バッグを中心とした商品企画・開発、OEM・ODM生産を行う企画生産チームです。（shikake101.co.jp の内容を… |
-| 2026-11-15 14:30:27 | [se.vinka-hej/vinka](https://github.com/vinka-hej/vinka-plugin) | Vinka | 1.0.0 | Follow your Swedish company's bookkeeping: reports, VAT, payroll, invoices, sen… |
-| 2026-11-15 14:35:41 | io.github.incwo/bruno | Bruno | 1.13.0 | Bruno MCP preview. Server OAuth configuration is required before connecting. |
-| 2026-11-15 14:36:22 | com.askyreadings/asky | AskY Tarot Reading | 1.0.0 | Tarot de Marseille in one reader's voice: card of the day, card meanings and re… |
-| 2026-11-15 14:39:57 | [io.github.redd34/nightshift-grid](https://github.com/redd34/nightshift-grid) | Nightshift Grid | 0.1.3 | Cited knowledge graphs from local documents, extracted by small Ollama models o… |
-| 2026-11-15 14:40:38 | [com.pickaplugin/pickaplugin](https://github.com/houstoninvestments-jpg/pickaplugin) | PickAPlugin | 1.0.0 | Search a directory of 550+ MCP servers, Codex/ChatGPT/Claude plugins and agent… |
-| 2026-11-15 14:44:34 | [com.spendcanary/free-tools](https://github.com/spendcanary/mcp-free-tools) | SpendCanary free Google Ads tools | 1.0.0 | Free Google Ads and PPC tools: ad copy, ROAS, CPC, budgets, wasted spend and la… |
-| 2026-11-15 14:46:17 | it.messeoggi/messe-oggi | Messe Oggi | 1.0.0 | Orari delle celebrazioni cattoliche in streaming, luoghi di culto, letture e ap… |
-| 2026-11-15 14:49:06 | co.spicefactory/public | SpiceFactory Public Knowledge | 1.2.0 | Public SpiceFactory knowledge: search essays and case studies, how we partner,… |
-| 2026-11-15 14:50:12 | com.datailo/datailo | Datailo: one MCP connection to EU tende… | 0.1.2 | One MCP connection to professional data. Connect with OAuth and confirm email i… |
-| 2026-11-15 14:56:04 | com.sharpleftturn/ai-battle-arena | AI Battle Arena | 0.2.0 | Strategy game for AI agents: place a secret army, watch it fight, climb the lea… |
-| 2026-11-15 15:00:09 | com.neutralpick/company-list | NeutralPick company list | 1.0.0 | Search NeutralPick's free, unranked list of software companies that listed them… |
-| 2026-11-15 15:05:49 | [io.github.AIDNodeOfficial/aidnode](https://github.com/AIDNodeOfficial/aidnode) | AIDNode \| AI Agent Support Network | 0.3.0-global-beta | Free beta MCP tools for API error diagnosis, text comparison, and structured re… |
-| 2026-11-15 15:07:08 | app.youvik/youvik | Youvik | 0.4.0 | YouTube tools: X-ray any channel, research topics, find collabs, manage video p… |
-| 2026-11-15 15:12:35 | [com.flopscout/scout](https://github.com/0xBobaAI/flop-scout) | Flop Scout | 0.6.0 | Web search, page reading and FLOP miner reliability for agents, priced per call… |
-| 2026-11-15 15:16:01 | ai.bittuitive.api/bittuitive | BitTuitive | 1.0.0 | Pick the best paid L402/x402 API for any data need; Bitcoin price, oracle and s… |
-| 2026-11-15 15:16:34 | [io.github.runearc-labs/runearc](https://github.com/runearc-labs/runearc-mcp) | Runearc | 1.0.0 | Email inboxes for AI agents: create an inbox, wait for the verification code, s… |
-| 2026-11-15 15:17:36 | [io.github.uplinkswitch/mcp](https://github.com/uplinkswitch/uplinkswitch-mcp) |  | 0.1.0 | 350 chat, image and speech models on one API key, with prices readable before s… |
+| 2026-11-15 15:22:33 | com.plainrecordlabs/docs-to-markdown | PDF and Word to Markdown for RAG | 1.0.0 | Docs to Markdown, no OCR. Apify token needed. 0.004 USD a doc, 0.0002 USD a PDF… |
+| 2026-11-15 15:25:33 | [io.github.hulagerushikesh/sextant](https://github.com/hulagerushikesh/sextant) | sextant | 0.10.0 | Search your own PDFs, Markdown and text files from any assistant. Local, no key… |
+| 2026-11-15 15:27:58 | [io.github.Mindburn-Labs/factoryhub](https://github.com/Mindburn-Labs/factoryhub) | factoryhub | 0.1.0 | Find, read, validate, export and run AI factories with your own model. Runs sto… |
+| 2026-11-15 15:29:50 | [io.github.mazprotech/mtscraper](https://github.com/mazprotech/mtscraper) | MTScraper | 2.1.1 | Free local crawler: any site, JavaScript pages and linked PDFs, into clean text. |
+| 2026-11-15 15:31:00 | com.hergertsynthora/synthora-x402 | SYNTHORA x402 Intelligence Mesh | 1.3.0 | 26 pay-per-call data APIs over x402 (USDC on Base), plus a free search tool. |
+| 2026-11-15 15:35:35 | [fr.amacunia/usdot-carrier-operating-authority-insurance](https://github.com/Marcoco27/operating-authority-sentinel-mcp) | USDOT Operating Authority and Insurance… | 0.1.1 | Is this US carrier's authority active, insurance on file, a suspension or an MC… |
+| 2026-11-15 15:35:39 | [fr.amacunia/medicare-npi-enrollment-revalidation-due-date](https://github.com/Marcoco27/revalidation-deadline-sentinel-mcp) | Medicare Revalidation Due Date Sentinel | 0.1.1 | When must this US healthcare provider (NPI) revalidate its Medicare enrollment,… |
+| 2026-11-15 15:35:42 | [fr.amacunia/usdot-mcs150-biennial-update-deadline](https://github.com/Marcoco27/biennial-update-sentinel-mcp) | USDOT MCS-150 Biennial Update Deadline… | 0.2.1 | When is a USDOT number's next MCS-150 biennial update due, and was the last one… |
+| 2026-11-15 15:35:46 | [fr.amacunia/us-disaster-relief-deadlines](https://github.com/Marcoco27/disaster-deadline-sentinel-mcp) | US Disaster Relief Deadline Sentinel | 0.3.0 | FEMA aid deadline and IRS postponed tax date for a US county. Not affiliated wi… |
+| 2026-11-15 15:35:49 | fr.amacunia/france-catnat-natural-disaster-claim-deadline | France CatNat Natural Disaster Claim De… | 0.4.0 | Is a French commune under a CatNat natural-disaster decree, and until when can… |
+| 2026-11-15 15:35:54 | [fr.amacunia/bodacc-insolvency-claim-deadline](https://github.com/Marcoco27/sentinelle-creances-mcp) | BODACC Insolvency Claim Deadline Sentin… | 0.3.0 | Is a French company in insolvency (BODACC), and until when can a creditor file… |
+| 2026-11-15 15:35:58 | [fr.amacunia/bodacc-creditor-opposition-deadline](https://github.com/Marcoco27/sentinelle-oppositions-mcp) | BODACC Creditor Opposition Deadline Sen… | 0.2.1 | Was a French business sold or merged (BODACC), and until when can its creditors… |
+| 2026-11-15 15:36:00 | [io.github.CooLCHI-gun/sanctions-screening-api](https://github.com/CooLCHI-gun/sanctions-screening-api) | Sanctions Screening (OFAC/EU/UN) | 0.11.1 | Sanctions screening of any person or company against OFAC SDN, EU and UN lists.… |
+| 2026-11-15 15:36:01 | [fr.amacunia/france-phyto-pesticide-grace-period](https://github.com/Marcoco27/sentinelle-phyto-mcp) | France Pesticide Grace Period Sentinel | 0.2.1 | Is a French pesticide (Anses E-Phy) still sellable or usable, and until when? |
+| 2026-11-15 15:36:04 | [fr.amacunia/france-condominium-syndic-mandate-end](https://github.com/Marcoco27/sentinelle-syndic-mcp) | France Condominium Syndic Mandate End S… | 0.1.2 | Who is a French condominium's syndic, and when does its mandate end? By condo o… |
+| 2026-11-15 15:36:06 | ro.joylist/joylist | Joylist | 1.0.0 | Romanian gift lists and Secret Santa: prefilled setup links and gift ideas from… |
+| 2026-11-15 15:38:44 | world.opas/client | Opas World for Clients | 1.0.1 | Find and book guided activities on Opas World, and manage your trips and bookin… |
+| 2026-11-15 15:45:04 | [io.github.craft-agent/x-tools](https://github.com/craft-agent/x-tools) |  | 0.1.0 | Unofficial X tools for coding agents: read posts and profiles, save post media,… |
+| 2026-11-15 15:45:46 | eu.reviewmix/reviewmix | ReviewMix | 1.0.0 | Google reviews, testimonials and private feedback in your AI assistant. Reply t… |
+| 2026-11-15 15:46:07 | [io.github.WeaveFox/weavefox](https://github.com/weavefox/weavefox-cli) | WeaveFox | 0.0.4 | Manage WeaveFox apps and deploy web apps to WeaveFox Pages from any MCP client… |
+| 2026-11-15 15:51:46 | com.trendtemplate/templates | TrendTemplate | 1.0.0 | Read-only catalog of AI trend video templates: viral TikTok memes, photos neede… |
+| 2026-11-15 15:53:55 | xyz.fortifie/fortifie | Fortifie | 1.0.0 | Assess and harden JS or Mac app builds you own, and find copies of your app onl… |
+| 2026-11-15 15:57:32 | com.heyprov/prov | Prov | 1.0.2 | The Prov board: a shared task board where AI agents pick up tasks, ask you, and… |
+| 2026-11-15 15:59:49 | [io.github.MohanVishe/mediaharvest](https://github.com/MohanVishe/mediaharvest) | MediaHarvest | 1.1.0 | Read video transcripts, see every format, and download video or audio from YouT… |
+| 2026-11-15 16:01:22 | com.fiveblocks/aiq | Five Blocks AIQ | 1.0.0 | What AI engines say about the brands you track in AIQ. For AIQ clients; sign-in… |
+| 2026-11-15 16:01:22 | com.fiveblocks/impact | Five Blocks IMPACT | 1.0.0 | Tracked Google results, movements and risks from IMPACT. For IMPACT clients; si… |
+| 2026-11-15 16:01:57 | [io.github.dev-vinayagastya/verse-mcp](https://github.com/dev-vinayagastya/verse-mcp) | Verse | 0.1.0 | Turn 3D files into shareable, embeddable Verse links from any AI assistant. |
+| 2026-11-15 16:09:07 | io.github.rodrigogaraujo/g3-apply | G3 Apply | 1.0.0 | Job application copilot: create and manage copilots, see matched jobs and track… |
+| 2026-11-15 16:09:26 | com.latefeature/latefeature | Late Feature | 1.0.0 | Your film diary: log and rate films, search what you've watched, keep a watchli… |
+| 2026-11-15 16:11:10 | [io.github.ussefidder/shopify-store-sync-mcp](https://github.com/ussefidder/shopify-store-sync-mcp) | Shopify Store Sync | 0.5.1 | Diff and sync Shopify stores: dry-run plans, cross-store ID remapping, never de… |
+| 2026-11-15 16:11:48 | [io.github.richiedc95/global-news](https://github.com/richiedc95/richie-data) | Global News with Sentiment (GDELT) | 1.0.0 | Worldwide news in 65+ languages every 15 minutes, with tone and the people, com… |
+| 2026-11-15 16:11:48 | [io.github.richiedc95/image-ocr](https://github.com/richiedc95/richie-data) | Image to Text OCR | 1.0.0 | Extract text from images, photos and screenshots with OCR in 100+ languages, wi… |
+| 2026-11-15 16:11:49 | [io.github.richiedc95/pdf-to-text](https://github.com/richiedc95/richie-data) | PDF to Text & Markdown (OCR) | 1.0.0 | Convert PDF URLs to clean text or LLM-ready Markdown, with RAG chunks and OCR i… |
+| 2026-11-15 16:11:49 | [io.github.richiedc95/public-tenders](https://github.com/richiedc95/richie-data) | Public Tenders: UK, EU TED, Canada, Col… | 1.0.0 | Open government tenders and RFPs from UK, EU TED, Canada and Colombia: buyer, v… |
+| 2026-11-15 16:11:50 | [io.github.manganate006/openlmnp](https://github.com/manganate006/openlmnp) | OpenLMNP | 2.0.1 | Accounting MCP for French LMNP furnished rentals: income, expenses, depreciatio… |
+| 2026-11-15 16:12:02 | io.justroadmap/justroadmap | JustRoadmap | 5.0.0 | List, read and update JustRoadmap workspaces, roadmaps, lanes and items from AI… |
+| 2026-11-15 16:18:08 | com.clipkaboom/mcp | ClipKaboom | 1.0.0 | Search 5,500+ meme & reaction video clips, preview them in chat, download clean… |
+| 2026-11-15 16:18:47 | com.heightpair/heightpair | heightpair | 1.0.0 | Compare heights, convert units, calculate sourced percentiles and find referenc… |
 
 ## Data source
 
