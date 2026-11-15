@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-11-15T13:27:25.657394Z,ai.amigurumi/patterns,amigurumi.ai,1.1.0,,streamable-http,"Free crochet amigurumi toy patterns with 3D models, plus a circle, ball and tube round calculator."
+2026-11-15T13:29:16.639983Z,io.github.mohammad-abbasi-sh/ferien-mcp,Ferien — German school holidays by year & federal state,0.1.0,https://github.com/mohammad-abbasi-sh/ferien-mcp,,"Unofficial read-only MCP server for German school holidays — by year & state, next holiday."
+2026-11-15T13:37:47.472388Z,com.eatcrush/eatcrush,Eatcrush,0.1.0,,streamable-http,Search restaurant dishes by allergen and diet with sources and menu dates. Sydney.
+2026-11-15T13:40:06.909918Z,com.snewpapers/research,SNEWPapers Research,1.0.0,,streamable-http,"Search extracted newspaper articles from the Library of Congress, 1736-1963. Subscription required."
+2026-11-15T13:41:54.137938Z,world.signalwaves/fp-consultant-mcp,Florian Preisenhammer,2.0.0,,streamable-http,"Independent AI consultant in Munich: services, assessments, insights and enquiries"
+2026-11-15T13:43:12.887897Z,io.github.johnski9000/jobsite-math,Jobsite Math,0.1.0,https://github.com/johnski9000/jobsite-math,,"Read-only US construction calculators: roof pitch, concrete, gravel, brick, paint, drywall, deck"
+2026-11-15T13:44:40.453721Z,eu.redactic/mcp,Redactic,0.1.0,https://github.com/redactic/redactic-mcp,,"Mask, restore and black out personal data in text and files, processed in the EU."
+2026-11-15T13:46:46.169496Z,io.github.dspv/caprock,Caprock,0.176.0,https://github.com/dspv/caprock,,"Read-only memory of your coding agents: decisions, past sessions, spend and CI. Needs Caprock."
+2026-11-15T13:48:00.842078Z,com.coupossum/coupossum,Coupossum,0.2.2,https://github.com/mrsuit666/Coupossum_MCP,streamable-http,Coupons and deals from many stores. Built on Feedico data. It is not an official Feedico server.
+2026-11-15T13:59:14.053423Z,app.fluxhost/fluxhost,FluxHost,1.0.0,,streamable-http,Deploy and manage static websites on FluxHost directly from your AI assistant.
+2026-11-15T14:00:04.762602Z,io.github.vansiqi/vansiqi-mcp,VanSiqi — Global Company Registry Verification,0.2.0,https://github.com/vansiqi/vansiqi-mcp,,"Verify companies against official government registers in SG, AU, US-FL, UK (24.6M records)."
+2026-11-15T14:02:37.391235Z,com.useviapp/vi,Vi Project Management,1.23.0,,streamable-http,"Project management and helpdesk for software teams: find, create, start and close Vi tasks."
+2026-11-15T14:03:44.452275Z,com.usdtbanned/mayak,LIGHTHOUSE (МАЯК) — USDT freeze risk,1.0.0,,streamable-http,USDT freeze risk for any address: Tether blacklist status and open multisig freeze proposals.
+2026-11-15T14:04:59.267786Z,io.github.SverrirValgeirsson/todourweb,Todour,1.0.0,,streamable-http,Manage todo.txt tasks through TodourWeb.
+2026-11-15T14:07:20.937199Z,com.nightmarquee/mcp,NightMarquee,2.0.0,,streamable-http,"Cinematic website designs with build prompts and starters, plus a check for AI-look problems."
+2026-11-15T14:09:18.328751Z,io.github.mintnft04/agent-token-check,Agent Token Check,0.3.0,,streamable-http,"Token safety check for AI agents on 45 chains: honeypot, tax, owner powers, LP lock, holders."
+2026-11-15T14:19:05.582169Z,io.github.juanmariarodriguez2-png/brainplug,Brainplug,0.4.0,https://github.com/juanmariarodriguez2-png/brainplug,,"A second brain your AI assistants share: your notes, chats and mail, and memories kept as Markdown."
