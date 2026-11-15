@@ -9,76 +9,60 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 21:20 UTC
+## Latest list — 2026-11-15 22:21 UTC
 
-New MCP servers published between 2026-11-15 20:19 UTC and 2026-11-15 21:20 UTC.
+New MCP servers published between 2026-11-15 21:20 UTC and 2026-11-15 22:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-15T21-20-18-993521Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-15T22-21-31-623851Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-15 20:23:23 | [me.onmap/onmap](https://github.com/onmapme/onmap-mcp) | OnMap.me | 1.0.0 | Read local business and public place pages on OnMap.me, with the source of each… |
-| 2026-11-15 20:24:23 | com.klarframe/site | Klarframe | 1.0.0 | Klarframe products, guides, blog and free intro call slots (read-only). |
-| 2026-11-15 20:25:35 | dev.buildary/mcp | Buildary | 1.1.0 | Make videos and images from your AI app with your Buildary credits. |
-| 2026-11-15 20:26:10 | [org.aimlds/atom-defined-flow-auditor](https://github.com/nrupala/atom-services) | Defined-flow auditor — Atom | 0.1.0 | Defined-flow auditor, delivered per API call as an atom service on Conduit Atom… |
-| 2026-11-15 20:26:15 | [org.aimlds/atom-agent-evaluation-scorecard](https://github.com/nrupala/atom-services) | Agent evaluation scorecard — Atom | 0.1.0 | Agent evaluation scorecard, delivered per API call as an atom service on Condui… |
-| 2026-11-15 20:26:17 | [org.aimlds/atom-assumption-audit](https://github.com/nrupala/atom-services) | Assumption audit — Atom | 0.1.0 | Assumption audit, delivered per API call as an atom service on Conduit Atoms. |
-| 2026-11-15 20:26:19 | [org.aimlds/atom-claim-verification-fact-check-stamp](https://github.com/nrupala/atom-services) | Claim verification fact check stamp — A… | 0.1.0 | Claim verification fact check stamp, delivered per API call as an atom service… |
-| 2026-11-15 20:26:21 | [org.aimlds/atom-codebase-structural-query](https://github.com/nrupala/atom-services) | Codebase structural query — Atom | 0.1.0 | Codebase structural query, delivered per API call as an atom service on Conduit… |
-| 2026-11-15 20:26:23 | [org.aimlds/atom-condition-monitoring-triage](https://github.com/nrupala/atom-services) | Condition monitoring triage — Atom | 0.1.0 | Condition monitoring triage, delivered per API call as an atom service on Condu… |
-| 2026-11-15 20:29:03 | io.github.nvguard/hub-agentes | Brazilian Local Business Discovery | 0.1.0 | Find Brazilian local businesses, laundries and services with public MCP endpoin… |
-| 2026-11-15 20:29:43 | com.velvetcompanionai/velvet | Velvet | 1.0.0 | Read-only facts about Velvet, an 18+ AI companion web app: companions, prices,… |
-| 2026-11-15 20:30:26 | ai.simpyl/receptionist | Simpyl Receptionist | 0.21.0 | Answers a small business's phone, takes messages and callback requests, from yo… |
-| 2026-11-15 20:32:17 | [io.github.degenbmp-25/growth-audit](https://github.com/degenbmp-25/beastmode-vault) |  | 1.0.0 | Free B2B funnel diagnostic for small medical and legal practices. Finds the lea… |
-| 2026-11-15 20:32:28 | [io.github.degenbmp-25/executive-performance](https://github.com/degenbmp-25/beastmode-vault) |  | 1.0.0 | Free executive fitness diagnostic. Finds the primary performance lever. |
-| 2026-11-15 20:33:15 | com.bookatu/docs | Bookatu docs | 1.0.0 | Bookatu's help centre, blogs and developer docs. Read only, no key needed. |
-| 2026-11-15 20:33:15 | com.bookatu/book | Bookatu Booking | 1.0.0 | A person's own AI assistant finds a free time at a business on Bookatu and hold… |
-| 2026-11-15 20:33:15 | com.bookatu/business | Bookatu | 1.0.0 | Run one business on Bookatu: bookings, availability, clients, catalog, reports… |
-| 2026-11-15 20:34:04 | [io.github.Agripp87/memoria-mcp](https://github.com/Agripp87/memoria_mcp) | Memoria | 0.3.1 | Persistent, plain-text memory for agents: markdown you own, hybrid search, self… |
-| 2026-11-15 20:35:02 | io.github.Marc-AntoinePujol/vantro | Vantro | 0.1.0 | Commerce for AI agents: find, buy and use tools with spend limits, refunds and… |
-| 2026-11-15 20:36:05 | online.liftbrain/liftbrain | LiftBrain | 0.1.0 | AI strength coach: writes your program, reads your logged sets, food and health… |
-| 2026-11-15 20:42:40 | app.verifaied/verifaied | verifAIed | 1.0.0 | Verify what your AI coding agent built: test coverage, recorded browser tests,… |
-| 2026-11-15 20:43:24 | [io.github.vecture-be/belgium-data-desk](https://github.com/vecture-be/belgium-data-desk) | Belgium Data Desk | 0.5.1 | Belgian official open data: dataset search, Statbel figures, air, rivers, weath… |
-| 2026-11-15 20:45:34 | org.lumahoops/luma | LUMA NBA Impact Metrics | 1.0.0 | Free NBA impact metrics: ARC, LOKI, game ratings, on/off, lineups, box scores.… |
-| 2026-11-15 20:46:13 | ai.refora/refora | Refora | 1.0.0 | Read-only AI search visibility: brand mentions, competitors and citations in AI… |
-| 2026-11-15 20:46:46 | [com.cantonesetts/cantonesetts-mcp](https://github.com/cantonesetts/cantonesetts-mcp) | CantoneseTTS.com: Hong Kong Cantonese V… | 1.1.0 | Hong Kong Cantonese & Konglish AI voiceover + frame-synced SRT/VTT subtitle MCP… |
-| 2026-11-15 20:55:04 | com.equiphive/hive | equipHive | 1.0.0 | Open Q&A network for AI agents: search solutions, ask agents, answer, vote, mes… |
-| 2026-11-15 20:55:24 | org.texs/tapercraft | VHS Label Maker — texs.org | 1.0.1 | Compose printable VHS, DVD, Blu-ray, cassette, CD and vinyl packaging from any… |
-| 2026-11-15 20:57:28 | [io.github.ArpitGandhi1934/yugenox-canada-retail-deals](https://github.com/ArpitGandhi1934/yugenox-mcp) | Canadian Retail Deals and Price Drops (… | 1.3.0 | Canadian price drops and markdowns: 74 retailers, Flashfood, Flipp flyers, Indi… |
-| 2026-11-15 20:57:29 | [io.github.ArpitGandhi1934/yugenox-career-site-jobs](https://github.com/ArpitGandhi1934/yugenox-mcp) | Company Career-Site Jobs: Workday, Orac… | 1.3.0 | Open jobs from employer career sites: Workday, Oracle, Taleo, SmartRecruiters,… |
-| 2026-11-15 20:57:29 | [io.github.ArpitGandhi1934/yugenox-company-contact-enrichment](https://github.com/ArpitGandhi1934/yugenox-mcp) | Company and Contact Enrichment for AI A… | 1.3.0 | Company name to domain, business emails and phones from websites, DACH Impressu… |
-| 2026-11-15 20:57:29 | [io.github.ArpitGandhi1934/yugenox-europe-property-listings](https://github.com/ArpitGandhi1934/yugenox-mcp) | Europe Property Listings: UK, Spain, Po… | 1.3.0 | Homes for sale and rent: Rightmove, OnTheMarket, Fotocasa, habitaclia, Imovirtu… |
-| 2026-11-15 20:57:30 | [io.github.ArpitGandhi1934/yugenox-job-boards-search](https://github.com/ArpitGandhi1934/yugenox-mcp) | Job Board Search: Dice, Reed, JobServe,… | 1.3.0 | Search Dice, Reed, JobServe, Built In, eFinancialCareers, foundit, XING and six… |
-| 2026-11-15 20:57:30 | [io.github.ArpitGandhi1934/yugenox-local-seo-maps-rank](https://github.com/ArpitGandhi1934/yugenox-mcp) | Local SEO: Google Maps Rank Grid, Place… | 1.3.0 | Google Maps rank on a geogrid, every place in a city, autocomplete keywords and… |
-| 2026-11-15 20:57:30 | [io.github.ArpitGandhi1934/yugenox-market-data-calendars](https://github.com/ArpitGandhi1934/yugenox-mcp) | Market Data: Options, Screeners, Econom… | 1.3.0 | Option chains with Greeks, stock screeners and financials, economic calendar, p… |
-| 2026-11-15 20:57:31 | [io.github.ArpitGandhi1934/yugenox-instagram-reels-youtube-shorts](https://github.com/ArpitGandhi1934/yugenox-mcp) | Instagram Reels, Posts and Trends + You… | 1.3.0 | Public Instagram reels, posts and trending keywords, plus YouTube Shorts with v… |
-| 2026-11-15 20:57:31 | [io.github.ArpitGandhi1934/yugenox-sports-scores-odds](https://github.com/ArpitGandhi1934/yugenox-mcp) | Sports Scores, Odds, Injuries and Footb… | 1.3.0 | Scores, standings, betting odds, injury reports, football xG and tennis results… |
-| 2026-11-15 20:57:31 | [io.github.ArpitGandhi1934/yugenox-travel-prices](https://github.com/ArpitGandhi1934/yugenox-mcp) | Travel Prices: Hotels, Hostels, Flights… | 1.3.0 | Hotel, hostel, flight, cruise and attraction prices: Agoda, Trip.com, Hostelwor… |
-| 2026-11-15 20:57:31 | [io.github.ArpitGandhi1934/yugenox-vehicle-listings](https://github.com/ArpitGandhi1934/yugenox-mcp) | Car, Truck and Trailer Listings with Pr… | 1.3.0 | Vehicle listings and prices: AutoTrader.ca, Autotrader UK dealers, Bring a Trai… |
-| 2026-11-15 20:57:31 | [io.github.ArpitGandhi1934/yugenox-world-grocery-prices](https://github.com/ArpitGandhi1934/yugenox-mcp) | Grocery Prices: US, Australia, India, L… | 1.3.0 | Grocery prices by store: Instacart and Costco (US), Coles (AU), DMart (IN), VTE… |
-| 2026-11-15 20:58:03 | es.imprent/catalogo | imprent.es - catálogo y precios de impr… | 1.0.0 | Catálogo, precios con IVA, plazos y envío de imprent.es. Solo lectura, sin cuen… |
-| 2026-11-15 21:05:59 | [io.github.MelMayssonOwen/twinpost](https://github.com/MelMayssonOwen/twinpost-mcp) | Twinpost | 1.0.0 | Crosspost from chat: check X mirrors, preview and draft posts, publish only whe… |
-| 2026-11-15 21:06:52 | com.daawid/registry | Daawid | 0.1.0 | AI search made easy: an open platform to find businesses, bypassing websites. |
-| 2026-11-15 21:08:06 | com.agentexplorio/agentexplorio | AgentExplorio | 1.0.0 | Search 1,400+ AI agents, MCP servers and tools by task, with pricing, setup and… |
-| 2026-11-15 21:08:08 | [io.github.Eagle-Logic/ctx](https://github.com/Eagle-Logic/context) | ctx — queryable code graph | 0.28.1 | Call graphs, blast radius and API-breakage gates. Every answer reports its own… |
-| 2026-11-15 21:11:47 | [io.github.toolfora/lvndr-agent](https://github.com/toolfora/lvndr-agent) | LVNDR by Toolfora | 0.1.0 | Shopify store change log with attribution and precise undo, restore points and… |
-| 2026-11-15 21:13:17 | com.fgdesigners/fgd | FGD Designers: fonts, mockups and desig… | 1.0.0 | Find FGD fonts, mockups and design assets: prices, licence, previews, checkout… |
-| 2026-11-15 21:14:51 | [co.eazetech/website-security-audit](https://github.com/eazetech-co/website-security-audit-mcp) | Website Security Audit | 0.1.0 | Passive security audit of a public website: HTTPS, headers, cookies, TLS, DNS,… |
-| 2026-11-15 21:15:18 | [com.adriansaxton/aacf](https://github.com/adriansaxton/aacf-mcp) | AI Adoption Controls Framework (AACF) | 1.2.1 | Read-only AI Adoption Controls Framework: controls, Level 3 criteria, standards… |
-| 2026-11-15 21:16:04 | [io.github.Liutasil501/ai-api-prices](https://github.com/Liutasil501/ai-api-prices) | AI API Prices | 1.0.2 | Daily AI API list prices across 50+ providers: LLM, image, video, speech, searc… |
-| 2026-11-15 21:17:24 | [org.aimlds/atom-correctness-verification-certificate](https://github.com/nrupala/atom-services) | Correctness verification certificate —… | 0.1.0 | Correctness verification certificate, delivered per API call as an atom service… |
-| 2026-11-15 21:17:26 | [org.aimlds/atom-crypto-inventory-pq-migration-map](https://github.com/nrupala/atom-services) | Crypto inventory pq migration map — Atom | 0.1.0 | Crypto inventory pq migration map, delivered per API call as an atom service on… |
-| 2026-11-15 21:17:28 | [org.aimlds/atom-decision-trap-sweep](https://github.com/nrupala/atom-services) | Decision-trap sweep — Atom | 0.1.0 | Decision-trap sweep, delivered per API call as an atom service on Conduit Atoms. |
-| 2026-11-15 21:17:35 | [org.aimlds/atom-electrical-machinery-engineering-check](https://github.com/nrupala/atom-services) | Electrical machinery engineering check… | 0.1.0 | Electrical machinery engineering check, delivered per API call as an atom servi… |
-| 2026-11-15 21:17:39 | [org.aimlds/atom-electrical-test-record-preparation](https://github.com/nrupala/atom-services) | Electrical test record preparation — At… | 0.1.0 | Electrical test record preparation, delivered per API call as an atom service o… |
-| 2026-11-15 21:17:42 | [org.aimlds/atom-finance-content-compliance-check](https://github.com/nrupala/atom-services) | Finance content compliance check — Atom | 0.1.0 | Finance content compliance check, delivered per API call as an atom service on… |
-| 2026-11-15 21:17:45 | [org.aimlds/atom-forecast-with-ranges-and-scorecard](https://github.com/nrupala/atom-services) | Forecast with ranges and scorecard — At… | 0.1.0 | Forecast with ranges and scorecard, delivered per API call as an atom service o… |
-| 2026-11-15 21:17:47 | [org.aimlds/atom-lean4-formal-proof](https://github.com/nrupala/atom-services) | Lean4 formal proof — Atom | 0.1.0 | Lean4 formal proof, delivered per API call as an atom service on Conduit Atoms. |
-| 2026-11-15 21:17:49 | [org.aimlds/atom-link-rot-scan-and-notarized-archive](https://github.com/nrupala/atom-services) | Link rot scan and notarized archive — A… | 0.1.0 | Link rot scan and notarized archive, delivered per API call as an atom service… |
-| 2026-11-15 21:17:51 | [org.aimlds/atom-network-exposure-audit](https://github.com/nrupala/atom-services) | Network exposure audit — Atom | 0.1.0 | Network exposure audit, delivered per API call as an atom service on Conduit At… |
-| 2026-11-15 21:17:53 | [org.aimlds/atom-portfolio-risk-analytics-report](https://github.com/nrupala/atom-services) | Portfolio risk analytics report — Atom | 0.1.0 | Portfolio risk analytics report, delivered per query as an atom service on Cond… |
-| 2026-11-15 21:18:27 | [org.aimlds/atom-distribution-equipment-rating-condition-check](https://github.com/nrupala/atom-services) | Distribution equipment rating condition… | 0.1.0 | Distribution equipment rating/condition check, per API call as an atom service… |
-| 2026-11-15 21:18:29 | [org.aimlds/atom-prediction-model-leakage-calibration-audit](https://github.com/nrupala/atom-services) | Prediction model leakage calibration au… | 0.1.0 | Prediction model leakage/calibration audit, per API call as an atom service on… |
+| 2026-11-15 21:20:35 | com.graggrobotics/agent-tools | Gragg Agent Tools | 1.0.0 | Hosted video tools for agents: trim, join, resize to 9:16, captions, speed, GIF… |
+| 2026-11-15 21:20:39 | io.github.MuttyRab/gui-hub-data | GUI Hub Data | 0.10.0 | GUI Hub Data: Open, convert, combine and analyse CSV, Excel, Parquet and JSON f… |
+| 2026-11-15 21:21:41 | [io.github.steadfeed-dev/ai-visibility-mcp](https://github.com/steadfeed-dev/steadfeed-site-audit-mcp) | AI Visibility MCP Server | 0.3.0 | One-call AI visibility report: can ChatGPT, Claude and Perplexity reach and und… |
+| 2026-11-15 21:22:57 | com.victano/victano | Victano: EU tenders and grant calls | 0.4.1 | Search EU public tenders with your AI assistant. Free account; sign in through… |
+| 2026-11-15 21:26:19 | com.wiredhomepros/directory | Wired Home Pros installer directory | 1.0.0 | Find U.S. security, AV, home theater, smart-home and electrical installers near… |
+| 2026-11-15 21:26:31 | [io.github.Lawatch/dockerignore-check](https://github.com/Lawatch/10aday) | Dockerignore checker (exact Docker rule… | 1.0.0 | Which files does docker build send, and which .dockerignore line decides? Exact… |
+| 2026-11-15 21:27:36 | pro.fantasytrade/trade-analyzer | FantasyTrade Pro | 0.1.0 | NFL fantasy football trade analyzer: verdicts, player and pick values, rankings… |
+| 2026-11-15 21:27:51 | [net.ciphera/pulse-analytics](https://github.com/ciphera-net/pulse-analytics-mcp) | Pulse Analytics MCP server | 1.0.1 | Read-only web analytics from Pulse: your sites, totals, trends, breakdowns and… |
+| 2026-11-15 21:28:24 | com.rivopress/rivopress | RivoPress | 0.6.0 | WordPress MCP server with Verified Writes: 127 tools for Claude/ChatGPT, OAuth… |
+| 2026-11-15 21:36:39 | com.agentready-tools/catalog | AgentReady Tools | 1.0.0 | Read-only catalog of agent-ready tools: search, get one tool, list categories. |
+| 2026-11-15 21:38:36 | com.zentesimal/zentesimal | Zentesimal | 1.0.0 | AI agents that support, onboard, convert and retain every user across helpdesk,… |
+| 2026-11-15 21:41:35 | [io.github.CloudCorpRecords/filingscope](https://github.com/CloudCorpRecords/filingscope) |  | 0.1.0 | US public disclosures in one API: SEC filings, Congress trades, FEC, lobbying,… |
+| 2026-11-15 21:41:52 | [org.aimlds/atom-pump-conveyor-motor-suitability-check](https://github.com/nrupala/atom-services) | Pump conveyor motor suitability check —… | 0.1.0 | Pump conveyor motor suitability check, delivered per API call as an atom servic… |
+| 2026-11-15 21:41:58 | [org.aimlds/atom-predictive-maintenance-failure-risk-assessment](https://github.com/nrupala/atom-services) | Predictive maintenance failure risk ass… | 0.1.0 | Predictive maintenance failure risk assessment, delivered per API call on Condu… |
+| 2026-11-15 21:42:01 | [org.aimlds/atom-rag-retrieval-evaluation-tuning](https://github.com/nrupala/atom-services) | Rag retrieval evaluation tuning — Atom | 0.1.0 | Rag retrieval evaluation tuning, delivered per API call as an atom service on C… |
+| 2026-11-15 21:42:03 | [org.aimlds/atom-reconciled-portfolio-performance-report](https://github.com/nrupala/atom-services) | Reconciled portfolio performance report… | 0.1.0 | Reconciled portfolio performance report, delivered per API call as an atom serv… |
+| 2026-11-15 21:42:05 | [org.aimlds/atom-semantic-code-taint-analysis-report](https://github.com/nrupala/atom-services) | Semantic code taint analysis report — A… | 0.1.0 | Semantic code taint analysis report, delivered per API call as an atom service… |
+| 2026-11-15 21:43:53 | [watch.progress/progresswatch](https://github.com/progress-watch/progresswatch) | Progress Watch | 0.0.2 | Report progress from any script or agent and get notified when it finishes. |
+| 2026-11-15 21:44:55 | network.tolla/tolla | TOLLA Network | 0.1.0 | Read-only x402 data: search paid APIs, check a host, open receipts, booths and… |
+| 2026-11-15 21:46:47 | com.datarilabs/datari-labs | Datari Labs | 0.1.0 | Free referral service connecting companies with years of kept records to AI dat… |
+| 2026-11-15 21:48:33 | io.github.RDUK98/ai-visibility-auditor | RICOVANT AI Visibility Auditor | 0.1.1 | Free checks of AI crawler root rules, JSON-LD and HTML metadata. No ranking mea… |
+| 2026-11-15 21:48:41 | com.promiselandappraisals/appraisal-information | Promise Land Appraisal public informati… | 1.0.0 | Read public business, appraisal service, and service-area information from Prom… |
+| 2026-11-15 21:48:42 | io.github.tldwdotsh/tldw | tldw.sh | 0.9.3 | Analyze YouTube, X and source text with instructions, durable jobs and cited re… |
+| 2026-11-15 21:49:15 | [io.github.CloudCorpRecords/pinballdex](https://github.com/CloudCorpRecords/pinballdex) |  | 0.1.0 | Pinball database: machines, prices, designers, manuals, places to play and the… |
+| 2026-11-15 21:54:01 | [io.github.DidroAI/cloud-alm-mcp-server](https://github.com/DidroAI/cloud-alm-mcp-server) | SAP Cloud ALM | 0.1.0-beta.3 | SAP Cloud ALM: requirements, features, tests, defects, landscape; writes wait f… |
+| 2026-11-15 21:55:55 | [io.github.social-freak-ltd/socialfetch](https://github.com/social-freak-ltd/socialfetch-mcp) | Social Fetch | 1.0.0 | Public social-data API and live docs for AI coding agents. |
+| 2026-11-15 21:56:31 | [io.github.CloudCorpRecords/winarchive](https://github.com/CloudCorpRecords/winarchive) |  | 0.1.0 | Settled Kalshi win archive: what verified top traders won, by market, category… |
+| 2026-11-15 22:01:05 | [com.sw-cpas/mcp](https://github.com/samorj16-bot/sw-cpas-agent-tools) | SW Accounting | 1.0.0 | Read-only facts on a bilingual LA CPA firm: services, FAQs, articles, contact.… |
+| 2026-11-15 22:01:05 | [com.sw-cpas/docs-mcp](https://github.com/samorj16-bot/sw-cpas-agent-tools) | SW Accounting documentation | 1.0.0 | Search and read sw-cpas.com pages and articles as markdown. Read-only, no sign-… |
+| 2026-11-15 22:01:51 | [org.aimlds/atom-strategy-backtest-validation](https://github.com/nrupala/atom-services) | Strategy backtest validation — Atom | 0.1.0 | Strategy backtest validation, delivered per API call as an atom service on Cond… |
+| 2026-11-15 22:01:55 | [org.aimlds/atom-tested-authorization-policy-pack](https://github.com/nrupala/atom-services) | Tested authorization policy pack — Atom | 0.1.0 | Tested authorization policy pack, delivered per API call as an atom service on… |
+| 2026-11-15 22:01:57 | [org.aimlds/atom-vfd-application-engineering-check](https://github.com/nrupala/atom-services) | Vfd application engineering check — Atom | 0.1.0 | Vfd application engineering check, delivered per API call as an atom service on… |
+| 2026-11-15 22:02:00 | [org.aimlds/atom-vulnerability-triage-verified-closure](https://github.com/nrupala/atom-services) | Vulnerability triage verified closure —… | 0.1.0 | Vulnerability triage verified closure, delivered per API call as an atom servic… |
+| 2026-11-15 22:02:02 | [org.aimlds/atom-zero-knowledge-claim-audit](https://github.com/nrupala/atom-services) | Zero knowledge claim audit — Atom | 0.1.0 | Zero knowledge claim audit, delivered per API call as an atom service on Condui… |
+| 2026-11-15 22:02:04 | [org.aimlds/atom-zero-trust-evaluation-verdict](https://github.com/nrupala/atom-services) | Zero trust evaluation verdict — Atom | 0.1.0 | Zero trust evaluation verdict, delivered per API call as an atom service on Con… |
+| 2026-11-15 22:02:06 | com.nomadorix-holdings/growth-desk |  | 0.1.0 | Read-only funnel diagnosis, revenue KPI planning and business assumption calcul… |
+| 2026-11-15 22:03:25 | [io.github.CloudCorpRecords/dictlookup](https://github.com/CloudCorpRecords/dictlookup) |  | 0.1.0 | Bilingual dictionary lookup: word definitions with parts of speech, across lang… |
+| 2026-11-15 22:08:10 | io.github.hopp2it/mylore | MyLore | 1.0.0 | Read and publish first-person agent stories, and return to add chapters. |
+| 2026-11-15 22:10:04 | [kr.co.sw-cpas/mcp](https://github.com/samorj16-bot/sw-cpas-agent) | SW CPAs | 1.0.0 | Korean CPA office (CA CPA·KICPA): US incorporation finder, services, articles,… |
+| 2026-11-15 22:10:44 | [io.github.CloudCorpRecords/kurdvoice](https://github.com/CloudCorpRecords/kurdvoice) |  | 0.1.0 | Kurdish speech tools: Sorani and Kurmanji text-to-speech and transcription, voi… |
+| 2026-11-15 22:11:58 | [io.github.slfguardian/slf-guardian-mcp](https://github.com/slfguardian/slf-guardian-mcp) | SLF Guardian | 1.2.0 | Safety checks an agent runs before it acts: packages, commands, prompt injectio… |
+| 2026-11-15 22:14:25 | ai.nerdnoir/nerdy | Nerdy by Nerd/Noir | 3.1.0 | A field manual for product and engineering leaders. Search it, or build its eig… |
+| 2026-11-15 22:16:16 | cz.mujvykaz/mujvykaz | Můj Výkaz | 1.0.0 | Czech timesheets, tasks, retainers, profitability and invoicing for agencies an… |
+| 2026-11-15 22:17:57 | net.minipacs/minipacs | MiniPACS | 1.0.0 | Ask about MiniPACS (self-hosted PACS) and Vendo (referral portal): pricing, fea… |
+| 2026-11-15 22:18:02 | [io.github.CloudCorpRecords/comexscope](https://github.com/CloudCorpRecords/comexscope) |  | 0.1.0 | Brazil foreign-trade data by HS code: exports, imports, partners, balances, cli… |
+| 2026-11-15 22:19:44 | [io.github.sumioshi/wacrew-whatsapp-mcp](https://github.com/sumioshi/wacrew) | WACrew · WhatsApp MCP server | 0.1.2 | WhatsApp MCP server: read chats and groups, transcribe voice notes and reply at… |
 
 ## Data source
 
