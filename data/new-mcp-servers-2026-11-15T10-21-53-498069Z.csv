@@ -1,0 +1,15 @@
+created_at,server,title,version,repository,transports,description
+2026-11-15T09:22:17.150563Z,com.cutsio/cutsio,Cutsio,2.0.0,,streamable-http,"Search and organize a Cutsio video workspace: assets, transcripts, folders."
+2026-11-15T09:26:39.335768Z,tools.person/human-feedback,"Ask real people: human feedback, user testing, surveys",0.1.0,https://github.com/jonwashburn/person-tools,streamable-http,"Human feedback, user testing and surveys: ask real people for reactions a model can't give."
+2026-11-15T09:26:50.084657Z,com.learntoupholster/upholsterers-bible,The Working Upholsterer's Bible,2.0.0,,streamable-http,"Master upholsterer's reference book and trade calculators: fabric, leather, foam, buttoning, costs."
+2026-11-15T09:32:00.338703Z,im.zerocloud/zerocloud,ZeroCloud,2026.11.15,,streamable-http,"Manage team cloud resources: services, members, access grants, secrets, tokens and storage."
+2026-11-15T09:38:08.627401Z,wiki.golova/registry,Golova.Wiki — event equipment registry,1.0.0,,streamable-http,"Open registry of event & AV equipment: models, specs, compatibility, rig weight and power."
+2026-11-15T09:39:36.327588Z,com.deployvera/mcp,DeployVera,0.2.0,,streamable-http,"See, deploy and debug your existing DeployVera projects from coding agents."
+2026-11-15T09:40:21.21973Z,io.github.neat-cyber/agent-guardian,Agent Guardian — Experimental MCP Health Checks,0.4.0,,streamable-http,Experimental MCP checks: synthetic tests and live HTTP history for a Guardian-owned service.
+2026-11-15T09:43:33.210696Z,com.theveilpress.www/veilpress,The Veil Press: Breaking News and Desk,2.0.0,,streamable-http,"Free, read-only search and full text of The Veil Press breaking news and Desk pieces, with citations"
+2026-11-15T09:44:15.123102Z,io.github.inssist/inssist-mcp,INSSIST,2.2.0,https://github.com/inssist/mcp,,"Drive your own logged-in Instagram session via the INSSIST extension: read, publish, DMs, analytics."
+2026-11-15T09:50:07.665667Z,io.github.AllegroMoltoV/audio-plugin-soko-kun,Audio Plugin Soko-kun,0.1.13,https://github.com/AllegroMoltoV/audio-plugin-soko-kun,streamable-http,"Search, inspect, and submit open-source VST 3, CLAP, LV2, and AU plugins in an unofficial registry."
+2026-11-15T09:55:01.72005Z,com.scaplet/mcp,Scaplet,1.0.0,,streamable-http,"SEO for your website: Search Console data, site audits, AI visibility, keyword research, drafts."
+2026-11-15T10:02:37.294202Z,io.github.Easononesky/gpu9d-research,GPU9D — Short-Window GPU Research,0.1.0,,streamable-http,Read-only AI GPU task index and short-window matching research; zero live GPU offers.
+2026-11-15T10:03:51.04854Z,travel.soley/iceland,Sóley: Iceland travel,1.0.0,,streamable-http,"Book licensed Icelandic tours and stays, with live Iceland roads, weather, aurora and buses."
+2026-11-15T10:11:41.446606Z,com.humbleai/humble,Humble,1.0.0,,streamable-http,"Give Claude a second brain for your notes, tasks and contacts. OAuth; it can't delete anything."
