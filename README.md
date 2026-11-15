@@ -9,31 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 23:19 UTC
+## Latest list — 2026-11-15 00:20 UTC
 
-New MCP servers published between 2026-11-14 22:20 UTC and 2026-11-14 23:19 UTC.
+New MCP servers published between 2026-11-14 23:19 UTC and 2026-11-15 00:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-14T23-19-25-717249Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-15T00-20-42-837875Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-14 22:21:53 | [io.github.esoltys/luminous-mcp](https://github.com/esoltys/luminous-mcp) | Luminous Music Player | 1.12.1 | Model Context Protocol (MCP) server for Luminous Music Player |
-| 2026-11-14 22:23:15 | [io.github.0xroots/imessage-mcp](https://github.com/0xroots/imessage-mcp) | iMessage MCP | 0.2.0 | Read, search and send iMessage on macOS without Full Disk Access. Needs the iMe… |
-| 2026-11-14 22:26:24 | com.valudati/site | Valudati | 1.1.0 | Value Engineering research: services, prices, after-tax yield and fee-drag calc… |
-| 2026-11-14 22:30:26 | [com.projectvail/agent-assurance](https://github.com/projectvail/vail-agent-assurance) | VAIL Agent Assurance | 0.1.0 | Scan an AI agent's instructions and tools for behavior risks and generate probe… |
-| 2026-11-14 22:41:00 | [mx.veriko/veriko](https://github.com/veriko-mx-labs/veriko-mcp) | Veriko | 0.2.1 | Verifica transferencias SPEI contra el CEP de Banxico y opera la API pública de… |
-| 2026-11-14 22:43:24 | com.makbl/unmet-demand | MAKBL - Unmet Demand | 6.2.0 | Report genuine unmet principal demand after supply research. QA-only evidence;… |
-| 2026-11-14 22:45:02 | [io.github.MatthiasMAigner/tap2cal-mcp](https://github.com/MatthiasMAigner/tap2cal-mcp) | Tap2Cal | 1.0.0 | Turn events into shareable add-to-calendar links for Google, Apple and Outlook,… |
-| 2026-11-14 22:45:31 | io.github.fernwaylabs/fixlight | Fixlight | 1.0.0 | Checks a public web page for accessibility problems and explains each one in pl… |
-| 2026-11-14 22:45:44 | ru.bxmcp/bitrix | bxmcp — 1C-Bitrix site assistant | 1.0.0 | Manage a 1C-Bitrix website: prices, stock, products, SEO, texts, orders. Previe… |
-| 2026-11-14 22:46:55 | com.apaxas/apaxas | apaxas | 1.1.0 | Reparte los gastos de un grupo y dice quién le debe a quién. Tu IA los ve y los… |
-| 2026-11-14 22:50:02 | io.github.mk-career-planning/jp-diet | Japan Diet Bill Tracker | 0.2.0 | Where is a bill in Japan's Diet now? Stages, dates, laws it amends and when, wi… |
-| 2026-11-14 22:55:02 | fit.splyt/splyt | Splyt | 1.0.0 | Read-only access to your Splyt workouts, records, training plan, habits and sle… |
-| 2026-11-14 23:02:25 | work.roow/roow | roow | 1.0.0 | Work with your database from AI tools: ask, export, approved changes, and sched… |
-| 2026-11-14 23:02:40 | com.rekvira/rekvira | Rekvira: EU regulation pinpoints for co… | 0.1.1 | EU regulation text and pinpoint citations for compliance research. Free account… |
-| 2026-11-14 23:09:11 | [io.github.mindstone/mcp-server-xero](https://github.com/mindstone/mcp-servers) | Xero | 0.1.2 | Xero MCP server for invoices, contacts, payments, quotes, and financial reports. |
-| 2026-11-14 23:17:22 | be.immoportaal/mcp | Immoportaal | 1.0.0 | Actueel Belgisch vastgoed te koop en te huur op immoportaal.be, incl. details e… |
-| 2026-11-14 23:17:29 | [com.decionis/mcp](https://github.com/decionis/agent-safe-pipeline) |  | 0.6.0 | Authorize consequential AI agent actions before execution |
+| 2026-11-14 23:20:39 | [io.github.Pinta365/bytepeel](https://github.com/Pinta365/bytepeel) | bytepeel | 0.1.1 | Decode and edit hex, base64, PEM, JWT, gzip, DER, CBOR, MessagePack and protobu… |
+| 2026-11-14 23:21:01 | kr.xdata/xboss-mcp | XBOSS | 1.0.0 | Korean national tax, insurance, invoice and payroll data as MCP tools. Free tie… |
+| 2026-11-14 23:21:10 | io.github.auzzura-team/dm-by-auzzura | DM by AuzzurA | 1.0.0 | DM is shared context for human + AI teams: approved Rules, Skills and Decisions. |
+| 2026-11-14 23:21:41 | [io.github.Dosidal/a2a-peptides](https://github.com/Dosidal/A2A-Peptides) | A2A Peptides | 1.8.9 | Agent-to-Agent (A2A) + Model Context Protocol (MCP) hub for peptides. |
+| 2026-11-14 23:26:02 | io.github.hraness/sponge | Sponge | 0.41.1 | A reading library for articles, PDFs, and ideas |
+| 2026-11-14 23:29:02 | com.vazen/mcp | Ask Vazen | 1.0.0 | Conversational analytics on your Vazen retail data: shelf, sales and shopper da… |
+| 2026-11-14 23:31:26 | br.com.rgfisioequiropraxia/clinica | Roberto Guanaes — Fisioterapia e Quirop… | 1.0.0 | Fisioterapia e quiropraxia em Ribeirão Preto (SP): guias clínicos, valores e co… |
+| 2026-11-14 23:35:29 | ec.advise/herramientas-ecuador | Herramientas de Ecuador · ADVISE.ia | 1.0.0 | Calculadoras gratis de Ecuador: RUC, clave y plazos del SRI, renta, retenciones… |
+| 2026-11-14 23:44:31 | com.fiftyasks/booking | Fifty Asks | 1.0.0 | Book a free check of who ChatGPT, Perplexity and Gemini name for a local trade,… |
+| 2026-11-14 23:49:15 | com.hosttools/hosttools | Host Tools | 1.0.0 | API and MCP for Airbnb, VRBO and Booking.com: messages, reservations, reviews,… |
+| 2026-11-14 23:52:30 | [io.github.logancsack/panes](https://github.com/logancsack/panes-office-workflows) | Panes | 0.1.0 | Windows computers for AI agents. Real Excel, PowerPoint, desktop control and fi… |
+| 2026-11-15 00:00:10 | ae.discond/discond | Discond | 1.0.0 | Live discounts at UAE restaurants and shops across Fazaa, The Entertainer, Tala… |
+| 2026-11-15 00:01:22 | com.agentyurt/agent-yurt | Agent Yurt | 0.3.0 | Private agent backups, saved work, status dashboards and reviewed recovery with… |
+| 2026-11-15 00:02:29 | ai.hostlet/hostlet | Hostlet | 1.0.0 | Make and share your own document-answering AI or website, and ask any Hostlet A… |
+| 2026-11-15 00:03:35 | com.meetbetr/meetbetr | MeetBetr | 1.0.0 | See when friends are free and send them a plan. You confirm before anything is… |
+| 2026-11-15 00:06:37 | app.repairinfo/repairinfo | repairinfo | 1.0.0 | Repairability and durability data for EU devices from the official EPREL regist… |
+| 2026-11-15 00:08:23 | [io.github.gojisatoshi888/crypto-market](https://github.com/gojisatoshi888/crypto-market) | Crypto Market | 1.1.0 | Crypto market tools for agents. Free prices and Fear & Greed; paid tools in USD… |
+| 2026-11-15 00:09:21 | com.samcarlton.ecosystem/tulsa-ecosystem-map | Tulsa Ecosystem Map | 1.0.0 | Search the Tulsa and Oklahoma tech ecosystem: founder terms, tools, orgs, inves… |
+| 2026-11-15 00:16:42 | io.github.gkorland/jotpond | JotPond | 0.1.0 | Read and edit shared JotPond whiteboards with AI agents. |
+| 2026-11-15 00:19:07 | [io.github.damri-labs/acq](https://github.com/damri-labs/acq-examples) | ACQ - ICQ for AI agents | 1.0.0 | Ephemeral two-seat rooms for plain-text exchange between two AI agents. No inst… |
+| 2026-11-15 00:19:49 | [io.github.tomwellnitz/fritzos8-mcp](https://github.com/tomwellnitz/fritzos8-mcp) | FRITZ!OS 8 | 0.2.0 | FRITZ!Box on FRITZ!OS 8: diagnostics, security audit, devices, Wi-Fi, phone, sm… |
 
 ## Data source
 
