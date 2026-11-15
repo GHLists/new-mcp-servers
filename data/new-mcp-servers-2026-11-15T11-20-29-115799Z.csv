@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-11-15T10:23:23.636085Z,lol.shopat/deals,ShopAt UK Deals,1.0.0,,streamable-http,"Live UK deals in GBP: search, hot deals, categories, stores. Agents can submit deals for moderation."
+2026-11-15T10:26:08.94044Z,com.thrivedesk/mcp,ThriveDesk,1.0.0,,streamable-http,"Search, reply, tag, assign and report on ThriveDesk help desk conversations from your AI assistant."
+2026-11-15T10:30:14.827217Z,io.github.dataxplore19/google-trends-mcp-server,Google Trends,1.0.0,https://github.com/dataxplore19/google-trends-mcp-server,,"Google Trends interest over time, by region, and trending searches in 125 countries."
+2026-11-15T10:30:15.563452Z,io.github.dataxplore19/google-news-mcp-server,Google News,1.0.0,https://github.com/dataxplore19/google-news-mcp-server,,"Search Google News by keyword, date, country or topic, with real URLs and full text."
+2026-11-15T10:31:10.349312Z,io.github.zhitongblog/unflick,unflick,1.0.1,https://github.com/zhitongblog/unflick,,"Control the unflick video player: play files/URLs, search transcripts, cut clips, 114 MCP tools."
+2026-11-15T10:35:56.974726Z,xyz.sofinancelab/sofinance,SoFinance,0.2.0,,streamable-http,"List same-stock LP pools on Raydium and Meteora, with 7-day fee APR estimates. Fees not guaranteed."
+2026-11-15T10:39:52.140405Z,io.github.couponswift/couponswift,CouponSwift,1.0.0,https://github.com/couponswift/couponswift-mcp,streamable-http,"CouponSwift MCP server: deals and promo codes for software, hosting, VPN, proxy and AI tools"
+2026-11-15T10:42:51.308205Z,com.takefridayoff/mcp,Take Friday Off,1.4.0,,streamable-http,"Wellness product development in Australia: TGA pathways, guides, case studies, a readiness check."
+2026-11-15T10:46:26.26127Z,com.markdownregistry/registry,markdownregistry,1.0.0,,streamable-http,"Every saved version of 148,000+ public agent skills and AGENTS.md files, graded and diffed."
+2026-11-15T10:49:16.80104Z,sk.rybarstvo/portal,Rybárstvo.sk,1.141.31,,streamable-http,"Slovak fishing waters, fish species, rules, catches, bed models and competitions. Read-only."
+2026-11-15T10:55:32.964891Z,com.vividemo/vividemo,Vividemo,1.0.0,,streamable-http,"Make videos with Vividemo's AI production agent: start projects, follow progress, get the files."
+2026-11-15T10:56:37.392442Z,app.kibora/kibora,Kibora,1.0.0,,streamable-http,"Log meals, review nutrition history, and check goals in your Kibora food diary."
+2026-11-15T10:57:13.168301Z,io.github.tuttidaw/tutticode,TuttiCode,0.3.2,https://github.com/tuttidaw/tutticode,,Write music as Strudel-compatible code; render WAV/FLAC/MP3 with stems and LUFS in your browser.
+2026-11-15T10:57:17.146825Z,io.github.magnusahmad/printsi,printsi,0.2.2,,streamable-http,"Check print-ready PDFs for free and order professional printing: flyers, cards, posters, apparel."
+2026-11-15T10:57:21.392214Z,app.getosmo/ai-receptionist,OsmO AI Receptionist,1.0.0,https://github.com/Mountainheads-Private-limited/osmo-ai-plugins,streamable-http,"AI phone receptionist for your number: answers calls, screens spam, takes messages and bookings."
+2026-11-15T11:02:05.50173Z,io.github.urbanmorph/irrational,,0.1.1,https://github.com/urbanmorph/irrational,streamable-http,Adversarial behavioural-bias engine: audits your decisions for cognitive biases via your own AI.
+2026-11-15T11:05:14.293723Z,com.myownchildbook/picture-book,MyOwnChildbook,1.0.1,,streamable-http,"Plan a personalised picture book with your child as the hero: occasion, story line and style."
+2026-11-15T11:11:53.213272Z,io.github.raphysicst-create/korean-special-education-learning-map-mcp,,0.2.0,https://github.com/raphysicst-create/korean-special-education-learning-map-mcp,,한국 2022 개정 특수교육 교육과정(기본 교육과정·특수교육 전문 교과) 성취기준·내용 체계·해설·성격·목표 MCP 서버 — 고시 원문 수록
+2026-11-15T11:13:31.624967Z,io.github.zhitongblog/solopdf,SoloPDF,1.1.0,https://github.com/zhitongblog/solopdf,,"Local PDF reader & toolkit: BM25 search, math/table snip, visual diff, OCR & redaction (56 tools)."
+2026-11-15T11:15:23.787666Z,io.dodil/dodil,Dodil,0.1.99,https://github.com/dodilio/dodil-mcp,streamable-http,"Build and run apps on Dodil: SQL/vector/graph data, git and CI, app hosting, and auth."
+2026-11-15T11:19:07.310669Z,com.fitzapapps/fitzap,Fitzap,0.1.17,,streamable-http,Read your Fitzap workout and nutrition data and create workout drafts and recipes for review.
