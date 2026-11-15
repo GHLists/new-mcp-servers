@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-11-15T01:27:06.82351Z,io.github.holon-sh/excalidraw,Excalidraw · Holon,0.0.1,https://github.com/holon-sh/excalidraw,streamable-http,A shared Excalidraw board that people and agents draw on together
+2026-11-15T01:28:36.433966Z,com.mainemcp/maine,MaineMCP,0.2.0,,streamable-http,"Look up public Maine events, communities, and startups with links to the source listings."
+2026-11-15T01:29:12.889569Z,moi.arc/arc,arc,1.1.0,https://github.com/ashrithps/arc-cli,,"Your arc budget in any agent: 121 tools for accounts, transactions, debts and reports"
+2026-11-15T01:30:22.102057Z,com.krtuworks/dev,Krtuworks Partner,1.0.0,,streamable-http,"Run your Krtuworks apps from an AI agent: setup, remote config, stats, players, bug reports."
+2026-11-15T01:34:08.755584Z,com.fastfoodindex/fast-food-index,Fast Food Index,1.0.0,,streamable-http,"Live fast food prices from 10 US chains: Big Mac Index by state, chain medians & price changes."
+2026-11-15T01:37:04.355648Z,io.github.mastercobeos/tlacuilo,Tlacuilo,1.0.0,https://github.com/mastercobeos/tlacuilo,streamable-http,"35 pay-per-call tools for AI agents over x402 (USDC): web, security, markets, SEC, papers, Mexico"
+2026-11-15T01:41:00.190002Z,app.wuai/wuai,Wuai,1.0.2,,streamable-http,"Facts about Wuai, which captions and translates videos in real time, clips and shares them"
+2026-11-15T01:49:27.691422Z,com.sigpen/mcp,SigPen,1.1.0,https://github.com/sigpenhq/sigpen-mcp,streamable-http,"Draft, fill in, and prepare documents for e-signature. You approve every send in SigPen."
+2026-11-15T01:57:05.012992Z,dev.kitscout/kitscout,KitScout,1.0.0,https://github.com/kitscout-dev/kitscout-mcp,streamable-http,"Find MCP servers, Agent Skills and Claude Code plugins: 84k tools, daily live checks, install lines."
+2026-11-15T01:57:16.836573Z,work.duebuddy/invoices,,1.0.0,https://github.com/ANTONDrakon/duebuddy-mcp,streamable-http,"Read supplier invoices (PDF, photo, XML) via MCP and get structured data plus a DATEV/1C/CSV file."
+2026-11-15T02:03:46.393235Z,io.github.epinethrone/icloud-mcp,iCloud,0.13.0,https://github.com/epinethrone/icloud-mcp,,"iCloud Mail, Calendar, Contacts, Reminders, Notes and Drive. Approval-first, self-hosted or local."
+2026-11-15T02:03:46.980079Z,net.nicemails/mail,nicemails,1.0.0,,streamable-http,"Separate, real mailboxes for AI agents: get verification codes, read, search and send email."
+2026-11-15T02:03:53.053408Z,com.trycloudflare.doe-calculation-consists-ipod/quotes,HOT x402 Quotes,1.0.0,,streamable-http,Live BTC/ETH/SOL quotes and Fear-Greed index over x402 micropayments on Base.
+2026-11-15T02:04:56.702715Z,net.useapi/acemusic,ACE Music MCP Server by useapi.net (third-party),1.0.0,,streamable-http,"ACE Music: songs from a prompt or your lyrics, covers, remixes, mashups, stems, scores, MIDI"
+2026-11-15T02:13:26.63496Z,io.github.zhaoxinghua09-cell/synomosai-governance-mcp,SynomosAI Governance MCP,1.2.1,https://github.com/zhaoxinghua09-cell/synomosai-governance-mcp,,"AI governance assessment: A³ scorecard, ISO 42001 evidence chain, compliance checklist, PII scan."
+2026-11-15T02:16:17.719066Z,trade.felix/mcp,Felix MCP,2.0.123,,,"Non-custodial trading infrastructure for AI agents across prediction markets, crypto, and options."
+2026-11-15T02:17:21.769382Z,nl.nationaleboekhoudmaatschappij/mcp,Nationale Boekhoudmaatschappij,1.0.0,https://github.com/PrestonsCreekCapital/nationaleboekhoudmaatschappij,streamable-http,"Read your Dutch bookkeeping: invoices, expenses, bank, VAT, customers. Drafts need confirmation."
+2026-11-15T02:18:13.296489Z,io.github.adamgraymon/trustgate-erc8183-mcp,,0.3.0,https://github.com/adamgraymon/Own_adam,streamable-http,Autonomous ERC-8183 Dataset Escrow Auditor & Multi-Token USDC Solver on Base Mainnet.
+2026-11-15T02:18:46.430133Z,com.l2ws/l2ws,L2WS,1.0.0,,streamable-http,"Binance order book (L2), trades, SQL, backtests and AI price levels for BTC, ETH and SOL."

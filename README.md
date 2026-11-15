@@ -9,32 +9,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 01:19 UTC
+## Latest list — 2026-11-15 02:19 UTC
 
-New MCP servers published between 2026-11-15 00:20 UTC and 2026-11-15 01:19 UTC.
+New MCP servers published between 2026-11-15 01:19 UTC and 2026-11-15 02:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-15T01-19-59-534978Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-15T02-19-12-073663Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-15 00:22:06 | com.freedict/mcp | FreeDict | 1.0.0 | English dictionary: definitions, synonyms, rhymes, origins, slang, translations… |
-| 2026-11-15 00:28:53 | com.convertaudiototext/transcribe | ConvertAudioToText | 1.0.0 | Transcribe audio and video links, read transcripts and summarize them, signed i… |
-| 2026-11-15 00:30:51 | com.drawlyhub/drawlyhub | DrawlyHub | 1.0.0 | Draw architecture, Mermaid and Markdown cards onto a board from your repo. Pro,… |
-| 2026-11-15 00:36:22 | com.numiagent/numiagent | NumiAgent | 0.1.0 | Read your private coin and banknote catalog, collecting themes, and valuation e… |
-| 2026-11-15 00:36:45 | [city.haze/world](https://github.com/ryanfrigo/haze-city) | Haze City | 0.2.2 | A shared 3D world that agents build in. Look around, claim a space, place thing… |
-| 2026-11-15 00:41:48 | com.compsniper/compsniper | CompSniper | 1.3.1 | eBay sold prices: 240 sales a call, 3 years (1,095 days), accepted Best Offer,… |
-| 2026-11-15 00:42:13 | de.sommon/office | SOMMON Office | 1.0.0 | Send real letters by post through Deutsche Post to Germany and 217 other countr… |
-| 2026-11-15 00:43:55 | world.opas/guide | Opas World for Guides | 1.0.0 | Guides and tour operators: manage activities, availability, bookings and payout… |
-| 2026-11-15 00:43:56 | world.opas/traveler | Opas World for Travelers | 1.0.0 | Find and book guided activities on Opas World, and manage your trips and bookin… |
-| 2026-11-15 00:44:17 | com.postbaton/postbaton | PostBaton | 1.0.0 | Schedule social posts to X, Bluesky, Mastodon, LinkedIn, TikTok, Telegram and m… |
-| 2026-11-15 00:44:44 | [io.github.GKihlstadius/mr-mail](https://github.com/GKihlstadius/mr-mail) | Mr Mail | 0.7.1 | Local Windows email client with 28 tools: read, draft, send on request, calenda… |
-| 2026-11-15 00:45:39 | io.github.ASOScan/asoscan | ASOScan | 1.0.0 | App Store Optimization for your own iOS and Android apps. Needs an ASOScan acco… |
-| 2026-11-15 00:46:40 | io.github.akhilrajesh213/shopify-mcp-server | Shopify MCP Server (any store) | 0.1.3 | Any Shopify store's products for AI agents: prices per country, sales, variants… |
-| 2026-11-15 00:55:46 | com.trycloudflare.barrier-sought-lbs-reader/quotes | HOT x402 Quotes | 1.0.0 | Live BTC/ETH/SOL quotes and Fear-Greed index over x402 micropayments on Base. |
-| 2026-11-15 01:03:51 | io.github.renta-labs/renta | Renta | 1.0.0 | Run an outdoor rental shop on Renta: bookings, fleet, customers, quotes, websit… |
-| 2026-11-15 01:11:19 | ai.zuuz/zuuz | ZUUZ | 1.0.0 | CRM: leads, deals, pipeline, conversations and prospecting. |
-| 2026-11-15 01:12:04 | [io.github.PromptOwl/contextnest](https://github.com/PromptOwl/ContextNest) | Context Nest | 2.15.0 | A shared, governed brain for AI agents: versioned context with approvals, local… |
-| 2026-11-15 01:17:13 | [kz.aitole/aitole](https://github.com/aitole-kz/aitole-examples) | Aitole — Kaspi Pay | 1.0.0 | Accept Kaspi Pay in Kazakhstan: QR codes, phone invoices, payment status, refun… |
+| 2026-11-15 01:27:06 | [io.github.holon-sh/excalidraw](https://github.com/holon-sh/excalidraw) | Excalidraw · Holon | 0.0.1 | A shared Excalidraw board that people and agents draw on together |
+| 2026-11-15 01:28:36 | com.mainemcp/maine | MaineMCP | 0.2.0 | Look up public Maine events, communities, and startups with links to the source… |
+| 2026-11-15 01:29:12 | [moi.arc/arc](https://github.com/ashrithps/arc-cli) | arc | 1.1.0 | Your arc budget in any agent: 121 tools for accounts, transactions, debts and r… |
+| 2026-11-15 01:30:22 | com.krtuworks/dev | Krtuworks Partner | 1.0.0 | Run your Krtuworks apps from an AI agent: setup, remote config, stats, players,… |
+| 2026-11-15 01:34:08 | com.fastfoodindex/fast-food-index | Fast Food Index | 1.0.0 | Live fast food prices from 10 US chains: Big Mac Index by state, chain medians… |
+| 2026-11-15 01:37:04 | [io.github.mastercobeos/tlacuilo](https://github.com/mastercobeos/tlacuilo) | Tlacuilo | 1.0.0 | 35 pay-per-call tools for AI agents over x402 (USDC): web, security, markets, S… |
+| 2026-11-15 01:41:00 | app.wuai/wuai | Wuai | 1.0.2 | Facts about Wuai, which captions and translates videos in real time, clips and… |
+| 2026-11-15 01:49:27 | [com.sigpen/mcp](https://github.com/sigpenhq/sigpen-mcp) | SigPen | 1.1.0 | Draft, fill in, and prepare documents for e-signature. You approve every send i… |
+| 2026-11-15 01:57:05 | [dev.kitscout/kitscout](https://github.com/kitscout-dev/kitscout-mcp) | KitScout | 1.0.0 | Find MCP servers, Agent Skills and Claude Code plugins: 84k tools, daily live c… |
+| 2026-11-15 01:57:16 | [work.duebuddy/invoices](https://github.com/ANTONDrakon/duebuddy-mcp) |  | 1.0.0 | Read supplier invoices (PDF, photo, XML) via MCP and get structured data plus a… |
+| 2026-11-15 02:03:46 | [io.github.epinethrone/icloud-mcp](https://github.com/epinethrone/icloud-mcp) | iCloud | 0.13.0 | iCloud Mail, Calendar, Contacts, Reminders, Notes and Drive. Approval-first, se… |
+| 2026-11-15 02:03:46 | net.nicemails/mail | nicemails | 1.0.0 | Separate, real mailboxes for AI agents: get verification codes, read, search an… |
+| 2026-11-15 02:03:53 | com.trycloudflare.doe-calculation-consists-ipod/quotes | HOT x402 Quotes | 1.0.0 | Live BTC/ETH/SOL quotes and Fear-Greed index over x402 micropayments on Base. |
+| 2026-11-15 02:04:56 | net.useapi/acemusic | ACE Music MCP Server by useapi.net (thi… | 1.0.0 | ACE Music: songs from a prompt or your lyrics, covers, remixes, mashups, stems,… |
+| 2026-11-15 02:13:26 | [io.github.zhaoxinghua09-cell/synomosai-governance-mcp](https://github.com/zhaoxinghua09-cell/synomosai-governance-mcp) | SynomosAI Governance MCP | 1.2.1 | AI governance assessment: A³ scorecard, ISO 42001 evidence chain, compliance ch… |
+| 2026-11-15 02:16:17 | trade.felix/mcp | Felix MCP | 2.0.123 | Non-custodial trading infrastructure for AI agents across prediction markets, c… |
+| 2026-11-15 02:17:21 | [nl.nationaleboekhoudmaatschappij/mcp](https://github.com/PrestonsCreekCapital/nationaleboekhoudmaatschappij) | Nationale Boekhoudmaatschappij | 1.0.0 | Read your Dutch bookkeeping: invoices, expenses, bank, VAT, customers. Drafts n… |
+| 2026-11-15 02:18:13 | [io.github.adamgraymon/trustgate-erc8183-mcp](https://github.com/adamgraymon/Own_adam) |  | 0.3.0 | Autonomous ERC-8183 Dataset Escrow Auditor & Multi-Token USDC Solver on Base Ma… |
+| 2026-11-15 02:18:46 | com.l2ws/l2ws | L2WS | 1.0.0 | Binance order book (L2), trades, SQL, backtests and AI price levels for BTC, ET… |
 
 ## Data source
 
