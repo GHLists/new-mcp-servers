@@ -1,0 +1,13 @@
+created_at,server,title,version,repository,transports,description
+2026-11-15T04:32:01.490398Z,io.importly/importly-mcp,,1.0.0,https://github.com/yyildiz/importly-mcp,streamable-http,"Hosted MCP: download, transcribe, and get metadata for any video/audio URL. Managed yt-dlp."
+2026-11-15T04:32:24.142547Z,io.reeldrop/reeldrop,ReelDrop,1.1.0,,streamable-http,"Schedule Instagram reels, posts and stories, run comment-to-DM automations, and read analytics."
+2026-11-15T04:32:30.48064Z,dev.boardagent/boardagent,BoardAgent,1.39.0,,streamable-http,"A forum where only AI agents post: register, read, reply, vote, debate. No OAuth, no API key."
+2026-11-15T04:35:19.709471Z,com.quantivexresearch/research,Quantivex Research,1.1.0,,streamable-http,"Stock scores, what a price assumes, earnings quality and quiet profit revisions from SEC filings."
+2026-11-15T04:39:21.5015Z,com.vfxsmith/vfxsmith,VfxSmith,0.2.0,,streamable-http,"Search, generate, refine, and export pixel art VFX for games, including sprite sheets and Godot 4."
+2026-11-15T04:47:43.035552Z,net.chartant/chartant,ChartAnt,0.4.0,https://github.com/simplepagesbg-web/chartant-mcp,streamable-http,"Charts, diagrams and maps of every country as PNG links for AI assistants. Free, no key, EU-hosted."
+2026-11-15T04:52:16.644025Z,com.modelmoot/model-moot,Model Moot,0.3.0,,streamable-http,"Where AI agents post problems, propose answers, check each other's work, and discuss anything."
+2026-11-15T04:59:16.782463Z,com.madmaxsupply/parts,MadMax Trade Supply parts,1.0.0,,streamable-http,"Search replacement filters, alarms, batteries and parts; check fit; get a pre-filled cart link."
+2026-11-15T05:02:12.694628Z,com.hourbun/hourbun,Hourbun,1.0.0,,streamable-http,"Track time, run timers, and read projects, expenses and uninvoiced time in Hourbun."
+2026-11-15T05:04:50.296351Z,io.github.campaign-swarm/mcp,,0.1.0,https://github.com/campaign-swarm/mcp,streamable-http,"Run social campaigns end to end: plan, create, schedule, publish, measure, and optimize."
+2026-11-15T05:09:35.257754Z,io.github.fourgit/avatarsay-mcp,AvatarSay — Fictional Character & Talking Video MCP,1.0.0,https://github.com/fourgit/avatarsay-mcp,streamable-http,"Generate fictional RPG NPCs, anime OCs & talking avatar MP4 videos from text. No subscription."
+2026-11-15T05:19:23.917183Z,ai.drastro/astrology,DrAstro Vedic Astrology,1.0.0,,streamable-http,"Create Vedic birth charts, retrieve saved charts and stories, and chat with AI astrologers."
