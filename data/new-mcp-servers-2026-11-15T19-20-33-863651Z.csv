@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-11-15T18:22:44.755319Z,io.github.Omodaka9375/browserr,Browserr,0.7.4,https://github.com/Omodaka9375/browserr,,"Fail-closed browser for agents: navigate, extract, fill forms, human handoff, evidence. No Chromium."
+2026-11-15T18:25:17.572188Z,is.eignast/eignast,Eignast,1.0.0,,streamable-http,"Search properties for sale in Iceland: prices, areas, nearby schools and price history."
+2026-11-15T18:29:42.950109Z,com.pkmnreborn/pokemon-dusk-reborn,Dusk Reborn (fan game data),1.0.0,https://github.com/rdsdehal/dusk-reborn-mcp,streamable-http,"Read-only data from Dusk Reborn, a free fan-made browser game: registered forms and market prices."
+2026-11-15T18:30:04.334215Z,com.coopgamesdb/coopgamesdb,CoopGamesDB,1.0.0,,streamable-http,"Co-op games for your group: player counts, split screen, platforms, prices, new and upcoming games."
+2026-11-15T18:31:08.218296Z,io.github.MoAz06/heyjoost,Hey Joost,0.39.0,https://github.com/MoAz06/HeyJoost,streamable-http,"Live Dutch open data for AI assistants: transport, weather, water, traffic, housing, government."
+2026-11-15T18:31:43.491381Z,com.bankregreports/bankregreports,BankRegReports,1.0.0,,streamable-http; streamable-http,"US bank and credit union data from call reports, UBPR, FDIC, NCUA, Fed NIC and SEC filings."
+2026-11-15T18:38:32.286193Z,com.getwealthtracker/wealth-tracker,Wealth Tracker,1.0.0,,streamable-http,"Track your net worth, holdings, history and bank spending, and update them from your AI."
+2026-11-15T18:46:53.721536Z,co.fayvi/mcp,fayvi,1.0.0,,streamable-http,"Read and edit a fayvi link-in-bio page: profile, blocks, tabs, design. Every change can be undone."
+2026-11-15T18:55:31.078625Z,se.ritabygget/ritabygget,Ritabygget,1.0.0,,streamable-http,Inspect building designs and propose changes for owner approval in Ritabygget.
+2026-11-15T18:55:31.117675Z,io.github.onedex-x/onedex,OneDex,0.1.0,,streamable-http,"Non-custodial MultiversX swaps for AI agents: quotes, unsigned txs, simulation, tx status."
+2026-11-15T18:55:47.09092Z,co.trooth/trooth,Trooth,2.0.0,,streamable-http,"Every company's public record on the Trooth Network, and Semanto: a company's website, signed."
+2026-11-15T19:02:57.625249Z,io.github.rayklanderman/devray-datalab-mcp,DevRay DataLab MCP,0.1.0,https://github.com/rayklanderman/devray-datalab-mcp,,Local-first data science and machine learning MCP server
+2026-11-15T19:05:38.970512Z,com.ancorei/ancorei,Ancorei: guia de marinas do Brasil,1.0.0,,streamable-http,"Marinas, iates clubes e garagens náuticas do Brasil: busque por cidade, serviços e contato."
+2026-11-15T19:09:20.153074Z,com.tensorust/corescout,CoreScout,1.4.0,https://github.com/Mattbusel/corescout,,"Operational memory for the machine your AI works on: what failed here, what is verified, its state"
+2026-11-15T19:09:20.69493Z,com.tensorust/polymarket-agent,Polymarket Agent,0.1.1,https://github.com/Mattbusel/polymarket-agent,,"Search Polymarket, read order books and prices, and place or cancel CLOB v2 orders from your agent"
+2026-11-15T19:12:07.816427Z,io.github.Pritom14/bucketlens,bucketlens,0.1.0,https://github.com/Pritom14/bucketlens,,"Let AI agents read the PDFs and spreadsheets in your S3 or R2 bucket: outlines, search, SQL."
+2026-11-15T19:15:04.847586Z,io.github.wheelgap/wheelgap,wheelgap,0.10.0,https://github.com/wheelgap/wheelgap,,"Find Python dependencies with no prebuilt wheel for your platforms: ARM, Alpine, Windows on ARM"
+2026-11-15T19:16:21.752079Z,io.github.maxi15299-crypto/radar-ml,Radar ML,0.1.0,,streamable-http,"Mercado Libre market data for AI agents: prices, best sellers, go/no-go. Pay-per-call with x402."
+2026-11-15T19:18:00.201541Z,dev.mindcarry/mindcarry,Mindcarry,1.0.0,,streamable-http,"One personal memory for all your AI agents: partitioned, token-budgeted, kept in your Drive."
+2026-11-15T19:18:47.747331Z,com.seeksat/seeksat,SeekSat,1.0.0,,streamable-http,"Satellite passes, live positions, visibility, cloud forecasts and radio Doppler. Free, no key."
