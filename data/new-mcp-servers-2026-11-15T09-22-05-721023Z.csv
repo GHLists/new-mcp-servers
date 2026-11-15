@@ -1,0 +1,30 @@
+created_at,server,title,version,repository,transports,description
+2026-11-15T08:23:21.140472Z,now.mails/mailapi,Mails.now,1.0.0,,streamable-http,"Provision domains, mailboxes, and run email sequencer campaigns via remote MCP."
+2026-11-15T08:23:39.468134Z,site.chatgpt.humblepanel2.martnow-agent-exchange/martnow,MartNow Agent Exchange,0.1.0,,streamable-http,Search and exchange digital deliverables through MartNow using free trial credits.
+2026-11-15T08:24:35.949205Z,im.z-app/zapp,Zapp,2026.11.15,,streamable-http,"Plan products with your team: ideas, specs, screens, decisions, roadmap and issues."
+2026-11-15T08:24:37.23237Z,im.spear/spear,Spear,2026.11.15,,streamable-http,"Run team marketing: briefs, voice guide, content drafts, campaigns, calendar and review."
+2026-11-15T08:24:38.522348Z,im.prober/prober,Prober,2026.11.15,,streamable-http,"Track QA and verification: test runs, reviews, issues, system docs, flows and PRs."
+2026-11-15T08:24:39.79642Z,im.knoverse/knoverse,Knoverse,2026.11.15,,streamable-http,"Turn books in your private library into tables of contents, summaries and study docs."
+2026-11-15T08:24:41.098193Z,im.glacien/glacien,Glacien,2026.11.15,,streamable-http,Find reusable implementation blueprints and manage data collectors and team knowledge.
+2026-11-15T08:24:43.011531Z,im.scaler/scaler,Scaler,2026.11.15,,streamable-http,"Run company operations: deals, contracts, customers, inquiries and finance records."
+2026-11-15T08:24:44.581779Z,im.slime/slime,Slime,2026.11.15,,streamable-http,"Manage toon and video production: worlds, characters, episodes, scripts and storyboards."
+2026-11-15T08:24:46.154563Z,im.igniter/agenda,Agenda,2026.11.15,,streamable-http,"Read and update your team agenda board: stages, owners, schedules, docs and reviews."
+2026-11-15T08:26:21.594322Z,com.wilderack/wilderack,Wilderack,1.0.0,,streamable-http,"Game servers your AI sets up and looks after: Minecraft, Terraria, Factorio and more."
+2026-11-15T08:26:21.944201Z,com.wilderack/catalog,Wilderack game server catalog,1.0.0,,streamable-http,"Plan a game server without an account: games, plans, real prices, regions and a checkout link."
+2026-11-15T08:40:39.90663Z,ai.carbackground/carbackground,Car Background AI,1.0.0,,streamable-http,"Replace car photo backgrounds, hide license plates and add dealer logos for vehicle listings."
+2026-11-15T08:41:38.960446Z,co.hostelmate/hostelmate,HostelMate,1.0.0,,streamable-http,"Ask about your hostel's arrivals, bookings, payments and revenue. Read-only."
+2026-11-15T08:45:03.339113Z,com.eddocu/site,Eddocu,1.0.0,,streamable-http,"Facts about Eddocu, the PDF, Word and PowerPoint editor: platforms, plans, prices, app links."
+2026-11-15T08:55:19.141388Z,com.nailmyinterview/mock-interview,Nail My Interview,1.0.0,,streamable-http,Free mock job interview: realistic questions for any role and honest feedback on each answer.
+2026-11-15T08:55:20.697818Z,co.uptimex/uptimex,UptimeX,1.0.0,,streamable-http,"Create, test, and manage uptime monitors for websites and APIs from your AI agent."
+2026-11-15T08:57:39.452703Z,io.github.zsraduly77/defi-flow-price-gap,DeFi Capital Flow-Price Gap,1.0.0,,streamable-http,"Daily on-chain DeFi capital inflow vs token price, Bitcoin-timestamped. Free and x402-paid tools."
+2026-11-15T08:59:04.251733Z,com.kroelgraphics/estudio,Kroel Graphics,1.0.0,https://github.com/kroel-graphics/kroel-graphics,streamable-http,"Servicios, contacto y solicitudes de cotización de Kroel Graphics (estudio de diseño, Tijuana)."
+2026-11-15T08:59:07.553684Z,net.domainmcp/domain-search,Domain MCP,1.0.0,,streamable-http,"Free domain search: availability, name ideas, who holds a domain, and prices. No key or sign-in."
+2026-11-15T08:59:11.137654Z,com.kroelgraphics/docs,Kroel Graphics Docs,1.0.0,https://github.com/kroel-graphics/kroel-graphics,streamable-http,Lee y busca las páginas de Kroel Graphics en Markdown. Solo lectura.
+2026-11-15T09:04:35.924682Z,io.github.LevapVeeskela/vigil,Vigil,0.9.3,https://github.com/LevapVeeskela/lv24-vigil,,"Local-first security auditor: 263 deterministic rules, LLM triage, fixes and MCP tools"
+2026-11-15T09:07:16.141338Z,io.github.GaillumXc/profili-mcp,Profili MCP,0.1.1,https://github.com/GaillumXc/profili-mcp,,"Legacy Profili 2.x airfoil software MCP server: library search, XFOIL polars, redesign, DB access."
+2026-11-15T09:07:28.941579Z,io.github.Ciphermap-io/ciphermap-mcp,"CipherMap PQC, CycloneDX 1.7 CBOM & Compliance Referee",1.0.6,https://github.com/Ciphermap-io/ciphermap-mcp,,"Zero-egress PQC, CycloneDX 1.7 CBOM, CNSA 2.0/FIPS 203-205 & AI-config referee across 12 langs."
+2026-11-15T09:13:14.782419Z,io.github.anishmoncivarghese/sonde,,0.4.5,https://github.com/anishmoncivarghese/sonde,,"Local code graph for TypeScript, Python and Swift: who calls this, what breaks if I change it."
+2026-11-15T09:13:42.329126Z,com.shortlistsaas/shortlist,Shortlist SaaS,1.0.0,,streamable-http,"Find SaaS products for a need: search a directory and get an AI-scored shortlist. Free, no key."
+2026-11-15T09:13:59.27349Z,org.aimlds/atom-release-readiness-verdict,Release-readiness verdict — Atom,0.1.0,https://github.com/nrupala/atom-services,streamable-http,"Release-readiness verdict, delivered per API call as an atom service on Conduit Atoms."
+2026-11-15T09:18:18.383301Z,io.github.pfrederiksen/birdweather-mcp,BirdWeather,0.2.5,https://github.com/pfrederiksen/birdweather-mcp,,"MCP server for BirdWeather station detections, species, and stats."
+2026-11-15T09:21:46.506304Z,io.github.myappleknight/elh-vpn-cloud,ELH VPN Cloud,0.8.0,https://github.com/myappleknight/elh-vpn-mcp,streamable-http,"Let AI agents open short-lived, capped HTTPS proxy sessions on a member's own prepaid VPN data."
