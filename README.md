@@ -9,42 +9,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 22:19 UTC
+## Latest list — 2026-11-16 23:20 UTC
 
-New MCP servers published between 2026-11-16 21:20 UTC and 2026-11-16 22:19 UTC.
+New MCP servers published between 2026-11-16 22:19 UTC and 2026-11-16 23:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-16T22-19-27-587553Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-16T23-20-57-338901Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-16 21:22:25 | com.relayto/mcp | RELAYTO | 1.0.0 | Search, create, organize, share and measure interactive content in a RELAYTO wo… |
-| 2026-11-16 21:22:35 | [com.relayto/site-content](https://github.com/relayto/relayto-mcp) | RELAYTO published site | 1.0.0 | Search and read the public pages, hubs and documents of any site published with… |
-| 2026-11-16 21:24:58 | [io.github.skyhitz/hitz-vault](https://github.com/skyhitz/hitz-gravity) | HITZ Sovereign Vault | 1.0.0 | Quote and build HITZ, XLM and USDC swaps on Stellar's Sovereign Vault. Never ho… |
-| 2026-11-16 21:27:37 | com.vbtnl/vbtnl | vbtnl | 1.0.0 | MCP hosting for AI agents: Claude or Codex writes the code, runs it and sends a… |
-| 2026-11-16 21:32:26 | [pro.flowapi/whatsapp](https://github.com/flowapi-pro/flowapi) | Flow API (flowapi.pro) WhatsApp | 1.0.0 | WhatsApp on your own number: read new messages, reply, send files, polls, check… |
-| 2026-11-16 21:37:19 | com.raygister/raygister | Raygister | 1.0.0 | Read your construction projects and DPGF lines, and manage your Raygister libra… |
-| 2026-11-16 21:42:27 | [eu.datastern/law](https://github.com/datastern/plugins) | DataStern | 1.0.0 | The law in force, inside your AI assistant: the exact provision, quoted from th… |
-| 2026-11-16 21:43:32 | com.tripperoni/tripperoni | Tripperoni | 1.0.0 | Compare multi-day hiking and safari tours by departure: dates, prices, seats an… |
-| 2026-11-16 21:44:15 | [io.github.klappay/klap-mcp](https://github.com/klappay/klap-mcp) | Klap | 1.3.1 | Read and test crypto payments on the Klap API: charges, webhooks, networks and… |
-| 2026-11-16 21:48:26 | [io.github.gordonkjlee/facthouse](https://github.com/gordonkjlee/facthouse) | Facthouse | 0.32.0 | Local AI memory: neuroscience-inspired Data→Information→Knowledge in SQLite you… |
-| 2026-11-16 21:55:46 | com.firstlinerestoration/tools | Firstline Restoration Tools | 1.0.0 | Water damage restoration and flood-prevention planning tools. |
-| 2026-11-16 21:56:17 | com.thegrateguys/tools | The Grate Guys Tools | 1.0.0 | Planning calculators for metal grating, drainage covers and fabrication. |
-| 2026-11-16 21:56:55 | com.andarehomes/tools | Andare Homes Tools | 1.0.0 | Planning calculators for custom homes, additions and major renovations. |
-| 2026-11-16 21:57:03 | com.timberrframing/tools | Timberr Framing Tools | 1.0.0 | Planning calculators for structural framing and building projects. |
-| 2026-11-16 21:57:12 | com.harrowgategroup/tools | Harrowgate Group Tools | 1.0.0 | Planning tools for commercial paving and site work. |
-| 2026-11-16 21:57:20 | com.ardenvaleconstruction/tools | Ardenvale Construction Tools | 1.0.0 | Planning tools for commercial and industrial construction. |
-| 2026-11-16 22:02:36 | dk.rigsdata/rigsdata | Rigsdata | 1.0.0 | Danish public-sector documents for AI: parliament, consultations, ministries, m… |
-| 2026-11-16 22:06:36 | [io.github.udaysinh-git/tether](https://github.com/udaysinh-git/tether) | Tether | 0.3.5 | Use the Chrome or Firefox tabs you share, signed in as you: read, click, fill f… |
-| 2026-11-16 22:06:37 | [app.qiksy/bridge](https://github.com/lesnyak-cyber/qiksy-mcp) | Qiksy Bridge | 1.86.2 | Browser MCP for the Chrome you already have open, via the free Qiksy Bridge ext… |
-| 2026-11-16 22:09:06 | [app.vercel.ora-x402-gateway/sensations-mergulho](https://github.com/fomosdeimos-gif/orum-ora-x402) |  | 0.5.2 | MCP server for 0001SENSATIONS: 107-level textual descent; only leave_trace writ… |
-| 2026-11-16 22:12:42 | uk.ukintel/ukintel | ukintel.uk: UK company and grant intell… | 1.4.0 | Companies House and Find a Grant as paid JSON for agents. USDC via x402, no sig… |
-| 2026-11-16 22:12:55 | com.kidincare/kidincare | Kidincare | 1.0.0 | Search licensed US childcare centers, daycares and preschools by city, state or… |
-| 2026-11-16 22:12:58 | io.runners/mcp-server | runners.io | 1.0.0 | Read your runners.io organisation's jobs, logs, test results, cache and spend f… |
-| 2026-11-16 22:13:45 | network.angler/trade | Angler | 1.0.0 | Perp DEX funding arbitrage, funding rates, prices and open interest across 25+… |
-| 2026-11-16 22:13:45 | network.angler/news | Angler News | 1.0.0 | Real-time crypto and stock news scored by market impact, tagged with the assets… |
-| 2026-11-16 22:14:52 | app.struq/struq | Struq MCP | 1.0.3 | Direction, award-tier motion blocks and a local check for coding agents that bu… |
-| 2026-11-16 22:16:27 | [com.sentrisend/validation](https://github.com/sentrisend/SentriSend) | SentriSend Email Validation | 0.1.0 | SentriSend checks email syntax, disposable domains and DNS/MX records; it never… |
-| 2026-11-16 22:18:47 | com.buyersx/check-quote-lines | BuyersX | 1.0.0 | Compares IT quote lines with USAC E-Rate contract prices, funding years 2025-26. |
+| 2026-11-16 22:25:04 | ai.zerowidth/mcp | ZeroWidth | 1.1.0 | Keeps every decision you make with AI, proves what each was worth, and puts the… |
+| 2026-11-16 22:26:00 | io.github.Ilusiv-media/fyug | Fyug | 2026.11.1 | Compose and play generative music live; each bundle carries the native fyug eng… |
+| 2026-11-16 22:27:06 | com.lowlanddata/procurement-alerts | LowlandData Procurement & Permit Alerts | 1.3.0 | Alerts on official data: US and EU tenders, federal awards and grants, permits,… |
+| 2026-11-16 22:27:06 | com.lowlanddata/dev-tools | LowlandData Developer Tools | 1.1.0 | Dependency releases, TLS and domain expiry, and vendor status pages from one en… |
+| 2026-11-16 22:27:07 | com.lowlanddata/resale | LowlandData Resale & Secondhand | 1.5.0 | GDPR-clean secondhand listings and sold comps for resale pricing research. No s… |
+| 2026-11-16 22:27:07 | com.lowlanddata/tcg-prices | LowlandData TCG Prices | 1.3.0 | Daily EU card prices, deals, EU-vs-US arbitrage and spike alerts for 19 card ga… |
+| 2026-11-16 22:29:35 | io.github.sjapr76/makerhint | MakerHint | 0.1.0 | A growing list of professions, each mapped: how the job is done, tools, contact… |
+| 2026-11-16 22:30:51 | [io.github.ZcrafterAI/bridge](https://github.com/ZcrafterAI/Bridge) | Zcrafter Bridge | 0.3.0 | IBM z/OS mainframe tools for AI agents. Every change needs a person's approval. |
+| 2026-11-16 22:31:46 | [io.github.Comfy-Org/comfy-mcp](https://github.com/Comfy-Org/comfy-mcp) |  | 0.11.0 | Drive the ComfyUI installed on your own machine: generate, monitor jobs, and bu… |
+| 2026-11-16 22:31:59 | ro.neofort-biz.www/neofort-biz | Neofort BIZ — windows, doors and shadin… | 1.1.0 | Neofort BIZ, Bucharest: window, door and shading prices, technical data and con… |
+| 2026-11-16 22:32:38 | com.sliderrevolution.anywhere/mcp | SR Anywhere | 1.0.0 | Build and edit Slider Revolution heroes, sliders and carousels in SR Anywhere.… |
+| 2026-11-16 22:38:07 | app.aboutthe/mcp | AboutTheApp | 1.0.0 | App versions, deployments, links, customers and components from your AboutTheAp… |
+| 2026-11-16 22:38:11 | io.github.Ilusiv-media/fyug-hosted | Fyug (hosted) | 2026.11.1 | Write and check Fyug generative-music documents with no install, and preview th… |
+| 2026-11-16 22:38:56 | io.github.sonip98/merge-scheduler | Merge Scheduler | 1.0.0 | Check GitHub pull requests and schedule, move, cancel or revert merges from an… |
+| 2026-11-16 22:39:44 | [com.usejoinbot/joinbot](https://github.com/engmsaleh/joinbot-plugin) | JoinBot | 1.0.0 | Your AI agent joins Zoom, Google Meet and Teams calls and answers out loud. |
+| 2026-11-16 22:45:20 | io.github.Dragoonhawx/suppliers-net | Suppliers Net | 1.0.0 | Dated wholesale food prices and Australian food suppliers, each with seller, da… |
+| 2026-11-16 22:45:21 | io.liquidmap/liquidmap | liquidmap | 1.0.0 | Crypto order flow: order book walls across 10 exchanges, big trades, footprint,… |
+| 2026-11-16 22:45:35 | [io.github.Akkiruk/craftos-mcp](https://github.com/Akkiruk/craftos-mcp) | craftos-mcp | 0.2.0 | CC:Tweaked (ComputerCraft) emulator: run, test and screenshot Lua programs, mon… |
+| 2026-11-16 22:54:55 | [ai.veriacta/law](https://github.com/AgentX-ai/veriacta-mcp) | VeriActa | 1.2.0 | Official EU and national law for AI assistants: cited provisions as in force on… |
+| 2026-11-16 22:54:56 | com.commlo/commute-network | Commlo commute network | 1.0.0 | Dated drive and Metra train commute facts for Chicago-area addresses and statio… |
+| 2026-11-16 22:56:41 | [io.github.memeanalyst/sec-form-d-monitor-mcp](https://github.com/memeanalyst/sec-form-d-monitor-mcp) | SEC Form D Monitor | 1.0.0 | Search SEC Form D private placement filings by company, industry, and date rang… |
+| 2026-11-16 22:56:41 | [io.github.memeanalyst/google-patents-scraper-mcp](https://github.com/memeanalyst/google-patents-scraper-mcp) | Google Patents Scraper | 1.0.0 | Search Google Patents by keyword, assignee, inventor, CPC class, and date. |
+| 2026-11-16 22:56:42 | [io.github.memeanalyst/pubmed-scraper-mcp](https://github.com/memeanalyst/pubmed-scraper-mcp) | PubMed Scraper | 1.0.0 | Search PubMed biomedical literature and fetch structured article records. |
+| 2026-11-16 22:56:43 | [io.github.memeanalyst/govdeals-scraper-mcp](https://github.com/memeanalyst/govdeals-scraper-mcp) | GovDeals Scraper | 1.0.0 | Search GovDeals government surplus auction lots by keyword, category, and state. |
+| 2026-11-16 22:57:08 | [io.github.guillochon/shaderous](https://github.com/guillochon/shaderous) | Shaderous | 0.1.1 | GPU gas dynamics on WebGPU (hydro, MHD, gravity, AMR): load, run, measure and l… |
+| 2026-11-16 22:57:29 | [io.github.sfwme/mcp-server](https://github.com/sfwme/mcp-server) | Syncflow | 1.2.5 | Turn a goal into small steps (crumbs) and work through them from your agent. |
+| 2026-11-16 22:59:03 | com.lowlanddata/app-stores | LowlandData App Stores | 1.0.0 | App Store apps, reviews and charts as JSON, with rank and rating changes betwee… |
+| 2026-11-16 23:04:27 | io.shipfolio/shipfolio | Shipfolio | 1.0.0 | Research indie products, tech stacks, launches and verified MRR, and manage you… |
+| 2026-11-16 23:04:30 | [io.github.cmendezs/mcp-ksef-pl](https://github.com/cmendezs/mcp-ksef-pl) |  | 0.10.2 | Polish e-invoicing MCP: KSeF API v2, FA(3)/FA(2) XML, Peppol BIS 3.0, NIP/REGON… |
+| 2026-11-16 23:09:53 | com.kenoodl/line |  | 1.0.0 | The phone network for AI: get a line, call other AIs turn by turn, read missed… |
+| 2026-11-16 23:09:53 | com.kenoodl/verify |  | 1.0.2 | Retired Oct 31 2026. This address is now the kenoodl phone line for AI: see com… |
+| 2026-11-16 23:18:38 | com.postferry/postferry | Postferry | 0.2.0 | Draft, schedule and publish social posts to your connected accounts, and read t… |
+| 2026-11-16 23:20:19 | [io.github.nim-lang/nimlangserver](https://github.com/nim-lang/langserver) | Nim Language Server | 1.18.0 | MCP server providing symbol navigation, diagnostics, and type resolution for Ni… |
 
 ## Data source
 

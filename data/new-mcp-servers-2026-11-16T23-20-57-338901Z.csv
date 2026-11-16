@@ -1,0 +1,34 @@
+created_at,server,title,version,repository,transports,description
+2026-11-16T22:25:04.102443Z,ai.zerowidth/mcp,ZeroWidth,1.1.0,,streamable-http,"Keeps every decision you make with AI, proves what each was worth, and puts the result to work."
+2026-11-16T22:26:00.479171Z,io.github.Ilusiv-media/fyug,Fyug,2026.11.1,,,Compose and play generative music live; each bundle carries the native fyug engine.
+2026-11-16T22:27:06.534959Z,com.lowlanddata/procurement-alerts,LowlandData Procurement & Permit Alerts,1.3.0,,streamable-http,"Alerts on official data: US and EU tenders, federal awards and grants, permits, MAP violations."
+2026-11-16T22:27:06.776038Z,com.lowlanddata/dev-tools,LowlandData Developer Tools,1.1.0,,streamable-http,"Dependency releases, TLS and domain expiry, and vendor status pages from one endpoint."
+2026-11-16T22:27:07.590226Z,com.lowlanddata/resale,LowlandData Resale & Secondhand,1.5.0,,streamable-http,GDPR-clean secondhand listings and sold comps for resale pricing research. No seller personal data.
+2026-11-16T22:27:07.833729Z,com.lowlanddata/tcg-prices,LowlandData TCG Prices,1.3.0,,streamable-http,"Daily EU card prices, deals, EU-vs-US arbitrage and spike alerts for 19 card games."
+2026-11-16T22:29:35.844116Z,io.github.sjapr76/makerhint,MakerHint,0.1.0,,streamable-http,"A growing list of professions, each mapped: how the job is done, tools, contacts, workflows, pains."
+2026-11-16T22:30:51.569572Z,io.github.ZcrafterAI/bridge,Zcrafter Bridge,0.3.0,https://github.com/ZcrafterAI/Bridge,,IBM z/OS mainframe tools for AI agents. Every change needs a person's approval.
+2026-11-16T22:31:46.466409Z,io.github.Comfy-Org/comfy-mcp,,0.11.0,https://github.com/Comfy-Org/comfy-mcp,,"Drive the ComfyUI installed on your own machine: generate, monitor jobs, and build workflows."
+2026-11-16T22:31:59.181525Z,ro.neofort-biz.www/neofort-biz,"Neofort BIZ — windows, doors and shading (Bucharest)",1.1.0,,streamable-http,"Neofort BIZ, Bucharest: window, door and shading prices, technical data and contact (read-only)."
+2026-11-16T22:32:38.298385Z,com.sliderrevolution.anywhere/mcp,SR Anywhere,1.0.0,,streamable-http,"Build and edit Slider Revolution heroes, sliders and carousels in SR Anywhere. You publish."
+2026-11-16T22:38:07.291026Z,app.aboutthe/mcp,AboutTheApp,1.0.0,,streamable-http,"App versions, deployments, links, customers and components from your AboutTheApp workspace."
+2026-11-16T22:38:11.70637Z,io.github.Ilusiv-media/fyug-hosted,Fyug (hosted),2026.11.1,,streamable-http,"Write and check Fyug generative-music documents with no install, and preview them in the browser."
+2026-11-16T22:38:56.407159Z,io.github.sonip98/merge-scheduler,Merge Scheduler,1.0.0,,streamable-http,"Check GitHub pull requests and schedule, move, cancel or revert merges from an AI assistant."
+2026-11-16T22:39:44.005515Z,com.usejoinbot/joinbot,JoinBot,1.0.0,https://github.com/engmsaleh/joinbot-plugin,streamable-http,"Your AI agent joins Zoom, Google Meet and Teams calls and answers out loud."
+2026-11-16T22:45:20.881353Z,io.github.Dragoonhawx/suppliers-net,Suppliers Net,1.0.0,,streamable-http,"Dated wholesale food prices and Australian food suppliers, each with seller, date and source link."
+2026-11-16T22:45:21.224537Z,io.liquidmap/liquidmap,liquidmap,1.0.0,,streamable-http,"Crypto order flow: order book walls across 10 exchanges, big trades, footprint, CVD, futures."
+2026-11-16T22:45:35.853886Z,io.github.Akkiruk/craftos-mcp,craftos-mcp,0.2.0,https://github.com/Akkiruk/craftos-mcp,,"CC:Tweaked (ComputerCraft) emulator: run, test and screenshot Lua programs, monitors and turtles."
+2026-11-16T22:54:55.539283Z,ai.veriacta/law,VeriActa,1.2.0,https://github.com/AgentX-ai/veriacta-mcp,streamable-http,Official EU and national law for AI assistants: cited provisions as in force on any date.
+2026-11-16T22:54:56.388719Z,com.commlo/commute-network,Commlo commute network,1.0.0,,streamable-http,Dated drive and Metra train commute facts for Chicago-area addresses and stations.
+2026-11-16T22:56:41.230696Z,io.github.memeanalyst/sec-form-d-monitor-mcp,SEC Form D Monitor,1.0.0,https://github.com/memeanalyst/sec-form-d-monitor-mcp,streamable-http,"Search SEC Form D private placement filings by company, industry, and date range."
+2026-11-16T22:56:41.867855Z,io.github.memeanalyst/google-patents-scraper-mcp,Google Patents Scraper,1.0.0,https://github.com/memeanalyst/google-patents-scraper-mcp,streamable-http,"Search Google Patents by keyword, assignee, inventor, CPC class, and date."
+2026-11-16T22:56:42.530649Z,io.github.memeanalyst/pubmed-scraper-mcp,PubMed Scraper,1.0.0,https://github.com/memeanalyst/pubmed-scraper-mcp,streamable-http,Search PubMed biomedical literature and fetch structured article records.
+2026-11-16T22:56:43.380894Z,io.github.memeanalyst/govdeals-scraper-mcp,GovDeals Scraper,1.0.0,https://github.com/memeanalyst/govdeals-scraper-mcp,streamable-http,"Search GovDeals government surplus auction lots by keyword, category, and state."
+2026-11-16T22:57:08.802644Z,io.github.guillochon/shaderous,Shaderous,0.1.1,https://github.com/guillochon/shaderous,,"GPU gas dynamics on WebGPU (hydro, MHD, gravity, AMR): load, run, measure and look at simulations"
+2026-11-16T22:57:29.700753Z,io.github.sfwme/mcp-server,Syncflow,1.2.5,https://github.com/sfwme/mcp-server,,Turn a goal into small steps (crumbs) and work through them from your agent.
+2026-11-16T22:59:03.764314Z,com.lowlanddata/app-stores,LowlandData App Stores,1.0.0,,streamable-http,"App Store apps, reviews and charts as JSON, with rank and rating changes between runs."
+2026-11-16T23:04:27.148203Z,io.shipfolio/shipfolio,Shipfolio,1.0.0,,streamable-http,"Research indie products, tech stacks, launches and verified MRR, and manage your Shipfolio listing."
+2026-11-16T23:04:30.794085Z,io.github.cmendezs/mcp-ksef-pl,,0.10.2,https://github.com/cmendezs/mcp-ksef-pl,,"Polish e-invoicing MCP: KSeF API v2, FA(3)/FA(2) XML, Peppol BIS 3.0, NIP/REGON validation."
+2026-11-16T23:09:53.469706Z,com.kenoodl/line,,1.0.0,,streamable-http,"The phone network for AI: get a line, call other AIs turn by turn, read missed calls. Costs $0."
+2026-11-16T23:09:53.782717Z,com.kenoodl/verify,,1.0.2,,streamable-http,Retired Oct 31 2026. This address is now the kenoodl phone line for AI: see com.kenoodl/line.
+2026-11-16T23:18:38.424866Z,com.postferry/postferry,Postferry,0.2.0,,streamable-http,"Draft, schedule and publish social posts to your connected accounts, and read their results."
+2026-11-16T23:20:19.465002Z,io.github.nim-lang/nimlangserver,Nim Language Server,1.18.0,https://github.com/nim-lang/langserver,,"MCP server providing symbol navigation, diagnostics, and type resolution for Nim projects"
