@@ -9,53 +9,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 02:20 UTC
+## Latest list — 2026-11-16 03:20 UTC
 
-New MCP servers published between 2026-11-16 01:19 UTC and 2026-11-16 02:20 UTC.
+New MCP servers published between 2026-11-16 02:20 UTC and 2026-11-16 03:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-16T02-20-05-503248Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-16T03-20-26-495895Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-16 01:22:13 | [io.github.CloudCorpRecords/wordtube](https://github.com/CloudCorpRecords/wordtube) |  | 0.1.0 | Find YouTube videos for learning Japanese or English, by level and word. |
-| 2026-11-16 01:24:56 | app.sheetsense/sheetsense | SheetSense | 1.0.0 | Explain spreadsheet formulas and translate them between Excel, Google Sheets, S… |
-| 2026-11-16 01:24:56 | com.askvidbrain/vidbrain | VidBrain | 1.0.0 | Ask a question about any YouTube video and get an answer cited to timestamps. |
-| 2026-11-16 01:25:50 | jp.keell/keell | KEELL | 1.0.0 | Find and manage tasks, streams, and templates in your KEELL workspace. |
-| 2026-11-16 01:29:55 | [io.github.CloudCorpRecords/boothdesk](https://github.com/CloudCorpRecords/boothdesk) |  | 0.1.0 | Dreambooth Studio operator console: sessions, revenue, credits, projects and bo… |
-| 2026-11-16 01:37:01 | io.github.joesperber8/uk-kyb-risk-api | UK KYB & Credit Risk MCP Server | 1.0.0 | Real-time UK Companies House credit-risk scoring, solvency flags, and PSC owner… |
-| 2026-11-16 01:37:35 | [io.github.CloudCorpRecords/sailguide](https://github.com/CloudCorpRecords/sailguide) |  | 0.1.0 | Dream On BVI charter concierge reads: fact sheet, availability, open windows, q… |
-| 2026-11-16 01:42:16 | com.loanmycoins/mcp | Loan My Coins | 0.1.0 | Education-only MCP tools for Bitcoin loan illustrations, from Loan My Coins. |
-| 2026-11-16 01:42:18 | io.bitcoinsuper/mcp | Bitcoin Super | 0.1.0 | Education-only MCP tools for Bitcoin in Australian SMSFs, from Bitcoin Super. |
-| 2026-11-16 01:42:20 | io.chiefbitcoinofficer/mcp | Chief Bitcoin Officer | 0.1.0 | Education-only MCP tools for corporate treasury decisions, from Chief Bitcoin O… |
-| 2026-11-16 01:42:40 | com.sama-entreprise/sama-entreprise | SAMA Entreprise | 1.0.0 | Business software for West Africa: sales, invoices, stock, customers, expenses.… |
-| 2026-11-16 01:42:53 | [org.aimlds/atom-cicd-pipeline-design](https://github.com/nrupala/atom-services) | Cicd pipeline design — Atom | 0.1.0 | CI/CD pipeline design, delivered per API call as an atom service on Conduit Ato… |
-| 2026-11-16 01:42:56 | [org.aimlds/atom-claim-evaluation-review](https://github.com/nrupala/atom-services) | Claim evaluation review — Atom | 0.1.0 | Claim evaluation review, delivered per API call as an atom service on Conduit A… |
-| 2026-11-16 01:42:59 | [org.aimlds/atom-code-review-service](https://github.com/nrupala/atom-services) | Code review service — Atom | 0.1.0 | Code review service, delivered per API call as an atom service on Conduit Atoms. |
-| 2026-11-16 01:43:02 | [org.aimlds/atom-codebase-visualization](https://github.com/nrupala/atom-services) | Codebase visualization — Atom | 0.1.0 | Codebase visualization, delivered per API call as an atom service on Conduit At… |
-| 2026-11-16 01:43:04 | [org.aimlds/atom-community-support-operations](https://github.com/nrupala/atom-services) | Community support operations — Atom | 0.1.0 | Community support operations, delivered per API call as an atom service on Cond… |
-| 2026-11-16 01:43:05 | [org.aimlds/atom-confidential-computing-design](https://github.com/nrupala/atom-services) | Confidential computing design — Atom | 0.1.0 | Confidential computing design, delivered per API call as an atom service on Con… |
-| 2026-11-16 01:43:08 | [org.aimlds/atom-cost-estimate-preparation](https://github.com/nrupala/atom-services) | Cost estimate preparation — Atom | 0.1.0 | Cost estimate preparation, delivered per API call as an atom service on Conduit… |
-| 2026-11-16 01:44:53 | [io.github.CloudCorpRecords/printcraft](https://github.com/CloudCorpRecords/printcraft) |  | 0.1.0 | DrMaker3D studio reads: shop search, print prices, options, instant print quote… |
-| 2026-11-16 01:47:51 | [io.github.1xOps/command-center](https://github.com/1xOps/command-center) | 1xOps Command Center | 0.4.1 | Persistent terminal sessions, processes and text-file tools under one folder an… |
-| 2026-11-16 01:49:26 | [io.github.Felixchip/zuro](https://github.com/Felixchip/Claude-watermark) | Zuro | 1.0.0 | Score AI-likeness and remove Claude, ChatGPT and Gemini text watermarks. |
-| 2026-11-16 01:50:35 | [io.github.Yalakala-Naveen/failloud](https://github.com/Yalakala-Naveen/failloud) | FailLoud | 0.5.1 | Verification harness for LLM agent outputs — catches the silent failures agents… |
-| 2026-11-16 01:51:27 | io.guildworks/guildworks | Guildworks | 1.0.0 | Let your AI agents hand work to each other, share files, and use apps you appro… |
-| 2026-11-16 01:52:09 | [io.github.CloudCorpRecords/droneguide](https://github.com/CloudCorpRecords/droneguide) |  | 0.1.0 | DroneClear Thailand: drone rules check for hobby pilots and how registration he… |
-| 2026-11-16 01:54:03 | ai.veselo/mcp | Весело API — нейросети за рубли | 1.0.0 | Видео, картинки, озвучка, музыка и текст нейросетей с оплатой в рублях. Вход бе… |
-| 2026-11-16 01:57:02 | com.chikocorp/cuadre | Cuadre — crypto invoicing and on-chain… | 1.0.0 | Crypto invoicing + on-chain reconciliation: per-invoice deposit address, PDF re… |
-| 2026-11-16 01:59:25 | [io.github.HOBSTER6615/rugradar](https://github.com/HOBSTER6615/rugradar-mcp) | RugRadar | 1.0.0 | Solana token rug and scam risk checks: score, red flags, wallet scans, drainer-… |
-| 2026-11-16 01:59:27 | [io.github.CloudCorpRecords/receiptchain](https://github.com/CloudCorpRecords/receiptchain) |  | 0.1.0 | Agent receipts audit reads: verify signed provenance receipts and list an agent… |
-| 2026-11-16 02:03:16 | [io.github.HumanEdgePress/humanedgepress-mcp-server](https://github.com/HumanEdgePress/humanedgepress-mcp-server) | Human Edge Press: Screen-Free Children'… | 1.0.0 | Screen-free baby/toddler books, STEAM series, virtue stories, Socratic guides &… |
-| 2026-11-16 02:03:45 | [io.github.zy2755/browser-ref-mcp](https://github.com/zy2755/browser-ref-mcp) |  | 0.1.1 | Reliable browser-control MCP server for AI agents: click by ref, self-healing s… |
-| 2026-11-16 02:07:06 | [io.github.CloudCorpRecords/modelcost](https://github.com/CloudCorpRecords/modelcost) |  | 0.1.0 | AI API Radar: cheapest LLM models, per-model price history, provider status and… |
-| 2026-11-16 02:07:28 | [io.usefulapi/amenitiz](https://github.com/m190/usefulapi-mcp) | Amenitiz MCP by usefulapi | 1.0.0 | Read properties, unit groups, bookings, invoices, rate plans and availability i… |
-| 2026-11-16 02:07:28 | [io.usefulapi/linga-pos](https://github.com/m190/usefulapi-mcp) | Linga POS MCP by usefulapi | 1.0.0 | Read stores, menu items, customers, sale reports and single sales in Linga POS. |
-| 2026-11-16 02:07:28 | [io.usefulapi/faveo-helpdesk](https://github.com/m190/usefulapi-mcp) | Faveo Helpdesk MCP by usefulapi | 1.0.0 | Read and search tickets; reply, add internal notes and open tickets in Faveo He… |
-| 2026-11-16 02:07:28 | [io.usefulapi/sleekflow](https://github.com/m190/usefulapi-mcp) | SleekFlow MCP by usefulapi | 1.0.0 | Read chats, contacts, teams and broadcasts; send messages and notes, and manage… |
-| 2026-11-16 02:07:29 | [io.usefulapi/timetrex](https://github.com/m190/usefulapi-mcp) | TimeTrex MCP by usefulapi | 1.0.0 | Read employees, time punches, branches and departments in TimeTrex. |
-| 2026-11-16 02:11:57 | com.astranl/coordination-protocol | AstraNL Coordination Protocol | 1.0.0 | Find real offers, verify references, record agreements between parties. No key.… |
-| 2026-11-16 02:14:29 | [io.github.CloudCorpRecords/courseatlas](https://github.com/CloudCorpRecords/courseatlas) |  | 0.1.0 | Search and read the free AI School curriculum: lessons, course tracks, full les… |
-| 2026-11-16 02:17:24 | [io.github.kritzerenkrieg/raspberry-pi-connect-mcp](https://github.com/kritzerenkrieg/raspberry-pi-connect-mcp) | Raspberry Pi Connect (Raspi Connect / R… | 0.1.1 | Raspi Connect MCP: shell access to Raspberry Pi devices via Raspberry Pi Connec… |
+| 2026-11-16 02:22:05 | [io.github.CloudCorpRecords/frontdesklab](https://github.com/CloudCorpRecords/frontdesklab) |  | 0.1.0 | Receptionist toolkit: phone scripts, IVR menus, voice-agent prompts, missed-cal… |
+| 2026-11-16 02:26:21 | [org.aimlds/atom-creative-ideation-session](https://github.com/nrupala/atom-services) | Creative ideation session — Atom | 0.1.0 | Creative ideation session, delivered per API call as an atom service on Conduit… |
+| 2026-11-16 02:26:23 | [org.aimlds/atom-crm-pipeline-operations](https://github.com/nrupala/atom-services) | CRM pipeline operations — Atom | 0.1.0 | CRM pipeline operations, delivered per API call as an atom service on Conduit A… |
+| 2026-11-16 02:26:26 | [org.aimlds/atom-data-analysis-deliverable](https://github.com/nrupala/atom-services) | Data analysis deliverable — Atom | 0.1.0 | Data analysis deliverable, delivered per API call as an atom service on Conduit… |
+| 2026-11-16 02:26:28 | [org.aimlds/atom-data-ml-pipeline-engineering](https://github.com/nrupala/atom-services) | Data ml pipeline engineering — Atom | 0.1.0 | Data/ML pipeline engineering, delivered per API call as an atom service on Cond… |
+| 2026-11-16 02:26:32 | [org.aimlds/atom-data-visualization-design](https://github.com/nrupala/atom-services) | Data visualization design — Atom | 0.1.0 | Data visualization design, delivered per API call as an atom service on Conduit… |
+| 2026-11-16 02:26:34 | [io.github.tekkidev/mcpstat](https://github.com/tekkidev/mcpstat) | mcpstat | 0.3.0 | mcpstat documentation and demo server with local usage statistics, a tool catal… |
+| 2026-11-16 02:26:36 | [org.aimlds/atom-database-design-review](https://github.com/nrupala/atom-services) | Database design review — Atom | 0.1.0 | Database design review audit, delivered per API call as an atom service on Cond… |
+| 2026-11-16 02:27:56 | [org.aimlds/atom-cpp-engineering-review](https://github.com/nrupala/atom-services) | Cpp engineering review — Atom | 0.1.0 | C++ engineering review, delivered per API call as an atom service on Conduit At… |
+| 2026-11-16 02:28:06 | [bot.ai-beauty/beautyos](https://github.com/ai-beauty-bot/beauty-os-skill) | BeautyOS by AI Beauty Bot | 1.0.0 | Free salon CRM: services, staff, clients, online booking and an optional AI rec… |
+| 2026-11-16 02:29:26 | [io.github.CloudCorpRecords/scoreguide](https://github.com/CloudCorpRecords/scoreguide) |  | 0.1.0 | Published life-score rulebook and methodology reads: rules, input schema, fairn… |
+| 2026-11-16 02:31:27 | [io.github.efaimo-ai/efaimo](https://github.com/efaimo-ai/efaimo) |  | 0.6.1 | Read-only tools that grade an Agent Skill and measure its context-window token… |
+| 2026-11-16 02:37:06 | [io.github.CloudCorpRecords/edgestudy](https://github.com/CloudCorpRecords/edgestudy) |  | 0.1.0 | List the published Edge Lab trading-system research studies: slug, title, date… |
+| 2026-11-16 02:37:18 | ai.hanare/hanare | Hanare | 1.0.0 | Memory, habits, sheets and mail for your AI agent. Same agent across Claude, Ch… |
+| 2026-11-16 02:43:59 | [io.github.project-nomos/imsg-mcp](https://github.com/project-nomos/imsg-mcp) | imsg-mcp | 0.2.0 | iMessage and SMS for AI assistants, from a Mac you control. Read, search, send… |
+| 2026-11-16 02:44:22 | [io.github.CloudCorpRecords/polyguide](https://github.com/CloudCorpRecords/polyguide) |  | 0.1.0 | Polygraph office directory: find offices, published pricing and service info by… |
+| 2026-11-16 02:45:01 | dev.workers.merchant-policy-data.merchant-policy-data/recall-evidence | Recall Evidence | 0.2.0 | CPSC recall candidates for inventory agents: source evidence, freshness and inc… |
+| 2026-11-16 02:51:23 | [io.github.CloudCorpRecords/landlordlaw](https://github.com/CloudCorpRecords/landlordlaw) |  | 0.1.0 | Landlord rules for England by postcode: licensing, the landlord register and th… |
+| 2026-11-16 02:58:37 | [io.github.CloudCorpRecords/sourcelens](https://github.com/CloudCorpRecords/sourcelens) |  | 0.1.0 | China sourcing, inspection and supplier verification: rates, fees, guides. |
+| 2026-11-16 03:03:53 | [org.aimlds/atom-decision-process-design](https://github.com/nrupala/atom-services) | Decision process design — Atom | 0.1.0 | Decision process design audit, delivered per API call as an atom service on Con… |
+| 2026-11-16 03:03:55 | [org.aimlds/atom-decision-ready-research-brief](https://github.com/nrupala/atom-services) | Decision ready research brief — Atom | 0.1.0 | Decision-ready research brief audit, delivered per API call as an atom service… |
+| 2026-11-16 03:03:59 | [org.aimlds/atom-designed-test-case-pack](https://github.com/nrupala/atom-services) | Designed test case pack — Atom | 0.1.0 | Designed test case pack audit, delivered per API call as an atom service on Con… |
+| 2026-11-16 03:03:59 | com.arcanemetrix/arcanemetrix | ArcaneMetriX | 1.0.0 | Magic: The Gathering card roles, synergies, Commander brackets, deck analysis a… |
+| 2026-11-16 03:04:00 | [org.aimlds/atom-difficult-conversation-coaching](https://github.com/nrupala/atom-services) | Difficult conversation coaching — Atom | 0.1.0 | Difficult conversation coaching audit, delivered per API call as an atom servic… |
+| 2026-11-16 03:04:02 | [org.aimlds/atom-document-operations-service](https://github.com/nrupala/atom-services) | Document operations service — Atom | 0.1.0 | Document operations audit, delivered per API call as an atom service on Conduit… |
+| 2026-11-16 03:04:03 | [org.aimlds/atom-domain-portfolio-audit](https://github.com/nrupala/atom-services) | Domain portfolio audit — Atom | 0.1.0 | Domain portfolio audit: a check delivered per API call as an independent atom s… |
+| 2026-11-16 03:04:09 | [org.aimlds/atom-delivery-plan-preparation](https://github.com/nrupala/atom-services) | Delivery plan preparation — Atom | 0.1.0 | Delivery plan preparation, delivered per API call as an atom service on Conduit… |
+| 2026-11-16 03:08:38 | com.radialswitchboard/matchmaker | MglennP Radial Switchboard | 3.5.1 | 64-bit MGLE-NNP AI-to-AI MCP & A2A agent matchmaker, poison auditor, and 3-agen… |
+| 2026-11-16 03:09:53 | [io.github.erickoledadevrel/mcpaint](https://github.com/erickoledadevrel/mcpaint) | MCPaint | 0.2.0 | Classic Paint inside your conversation. Draw, edit images, and sketch ideas wit… |
+| 2026-11-16 03:14:15 | [io.github.aaryanbindage/omnicontext](https://github.com/aaryanbindage/omnicontext) | OmniContext | 0.1.2 | Persistent cross-device memory for Claude: your profile, projects, and resumabl… |
+| 2026-11-16 03:15:22 | dev.ytriple.storetechscan/storetechscan | StoreTechScan — Ecommerce Tech Stack &… | 1.0.0 | Live bulk ecommerce tech stack, Shopify catalog prices, calibrated AI ICP fit,… |
+| 2026-11-16 03:19:11 | [com.audienceful/audienceful](https://github.com/Audienceful/audienceful-mcp) | Audienceful | 1.0.0 | Email marketing: manage contacts and audiences, write emails, build automations… |
 
 ## Data source
 
