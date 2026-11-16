@@ -9,46 +9,68 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 11:21 UTC
+## Latest list — 2026-11-16 12:19 UTC
 
-New MCP servers published between 2026-11-16 10:18 UTC and 2026-11-16 11:21 UTC.
+New MCP servers published between 2026-11-16 11:21 UTC and 2026-11-16 12:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-16T11-21-28-97255Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-16T12-19-09-025547Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-16 10:21:08 | [ru.xonta/max](https://github.com/mrsergeiluzhnov/xonta-max-mcp) | Xonta MAX | 0.1.0 | MAX messenger bots and mini-apps in English or Russian: Bot API, code checks, T… |
-| 2026-11-16 10:24:00 | online.liftbrain/library | LiftBrain Library | 0.1.0 | High-protein recipes with macros, strength and nutrition guides, and an exercis… |
-| 2026-11-16 10:25:55 | io.publink/adcp-sales-agent | Publink | 1.0.0 | AdCP sales agent. AI agents find inventory, create ads and run campaigns. Peopl… |
-| 2026-11-16 10:25:59 | [io.github.CloudCorpRecords/gameatlas](https://github.com/CloudCorpRecords/gameatlas) |  | 0.1.0 | Public learning-games catalogue: search K-8 games and browse curriculum standar… |
-| 2026-11-16 10:27:57 | [org.aimlds/atom-production-rust-engineering-pack-expert](https://github.com/nrupala/atom-services) | Production Rust engineering pack expert… | 0.1.0 | Production Rust engineering pack expert: declared expert production Rust record… |
-| 2026-11-16 10:27:59 | [org.aimlds/atom-quant-math-derivation-sanity-check](https://github.com/nrupala/atom-services) | Quant math derivation sanity check — At… | 0.1.0 | Quant math derivation sanity check: declared mathematical derivation record che… |
-| 2026-11-16 10:28:01 | [org.aimlds/atom-release-pack-changelog-seal-rollback](https://github.com/nrupala/atom-services) | Release pack changelog seal rollback —… | 0.1.0 | Release pack changelog seal rollback: declared release-pack record checked per… |
-| 2026-11-16 10:28:03 | [org.aimlds/atom-semantic-html-review](https://github.com/nrupala/atom-services) | Semantic html review — Atom | 0.1.0 | Semantic html review: declared semantic-HTML review record checked per call. |
-| 2026-11-16 10:28:05 | [org.aimlds/atom-service-isolation-hardening-review](https://github.com/nrupala/atom-services) | Service isolation hardening review — At… | 0.1.0 | Service isolation hardening review: declared service isolation record checked p… |
-| 2026-11-16 10:28:07 | [org.aimlds/atom-single-living-trip-itinerary](https://github.com/nrupala/atom-services) | Single living trip itinerary — Atom | 0.1.0 | Single living trip itinerary: declared single living trip itinerary record chec… |
-| 2026-11-16 10:33:13 | [io.github.CloudCorpRecords/catalystcal](https://github.com/CloudCorpRecords/catalystcal) |  | 0.1.0 | Biotech catalyst calendar: verified PDUFA, AdComm and trial-readout dates from… |
-| 2026-11-16 10:39:45 | com.nutriely/nutriely | Nutriely | 1.0.0 | Ask about your own food diary, nutrient gaps and goals, look up foods, and log… |
-| 2026-11-16 10:40:34 | [io.github.walter-kudzai-kamanga/megmis](https://github.com/walter-kudzai-kamanga/megmis) | Mamiriro (MEGMIS) | 0.1.0 | PROTOTYPE: Zimbabwe weather, geo, safe routing & journey risk via REST+MCP (std… |
-| 2026-11-16 10:40:47 | [io.github.chrischall/warapp-mcp](https://github.com/chrischall/warapp-mcp) |  | 0.1.0 | war.app (Warzone) game advisor — games, maps, bonuses, routes, live board, pick… |
-| 2026-11-16 10:41:00 | [io.github.santmun/editorbrain](https://github.com/santmun/editorbrain-skills) | EditorBrain | 0.50.0 | Editing references, adaptable motion and brand memory for agents that edit vide… |
-| 2026-11-16 10:44:14 | [io.github.cmendezs/mcp-nfe-br](https://github.com/cmendezs/mcp-nfe-br) |  | 0.10.0 | MCP server for Brazilian e-invoicing: NF-e and NFC-e (modelo 55/65), schema 4.0… |
-| 2026-11-16 10:44:27 | io.baseshot/baseshot | BaseShot | 1.0.0 | Read, search, comment on and manage BaseShot screenshots and screen recordings… |
-| 2026-11-16 10:46:49 | [io.github.bilalnaseer/google-gsc-mcp](https://github.com/bilalnaseer/google-search-console-mcp) |  | 0.6.2 | Google Search Console MCP server: search analytics, sitemaps and URL inspection. |
-| 2026-11-16 10:47:29 | com.nyusatsu-koubo/nyusatsu-koubo | 入札公募検索 | 1.0.0 | 全国の官公庁や自治体の入札・公募を、ClaudeやChatGPTから検索できる「入札公募検索」の公式MCPサーバーです。Search Japanese pub… |
-| 2026-11-16 10:50:27 | top.web3project/mcp-audit | mcp-audit | 0.2.0 | Security audit for MCP servers: command injection, unsafe file access, secrets,… |
-| 2026-11-16 10:55:45 | com.bookifycall/bookifycall | BookifyCall | 1.1.0 | Your AI receptionist in your AI app: calls, transcripts, leads and appointments… |
-| 2026-11-16 10:58:51 | com.aiformly/aiformly | aiformly（フォーム営業） | 1.0.0 | ChatGPTやClaudeから、フォーム営業のキャンペーンと営業文の作成、送信状況の確認・停止ができる「aiformly」の公式MCPサーバーです。 |
-| 2026-11-16 11:00:38 | [studio.shortdrama/shortdrama-studio](https://github.com/redrama-ai/shortdrama-studio-plugin) | ShortDrama Studio | 1.0.0 | Write and produce vertical AI short dramas: free scripting, paid image, video,… |
-| 2026-11-16 11:01:15 | [io.github.CloudCorpRecords/claimproof](https://github.com/CloudCorpRecords/claimproof) |  | 0.1.0 | Ground public-company claims against gov facts and verify signed compliance-evi… |
-| 2026-11-16 11:04:51 | com.querytrove/querytrove | QueryTrove | 1.0.0 | Ask about your Google Search Console history, beyond Google's 16 months. Read-o… |
-| 2026-11-16 11:08:37 | [io.github.CloudCorpRecords/filingclock](https://github.com/CloudCorpRecords/filingclock) |  | 0.1.0 | US filing-deadline radar: small-biz and foreign-LLC obligations, details and ch… |
-| 2026-11-16 11:09:05 | [io.github.talhayksk/zpolacode](https://github.com/talhayksk/zedpolacode) | Zed Polacode | 0.3.0 | Turns a code snippet into a PNG code card; exposes a snapshot tool over MCP std… |
-| 2026-11-16 11:10:58 | com.mihenkai/mihenk | Mihenk AI | 1.0.0 | Measured crypto KOL data: real reach, organic token interest, chain reports, po… |
-| 2026-11-16 11:16:19 | ai.hono/era | ERA by HONO | 1.0.0 | HONO HRMS in plain language: apply leave, check attendance and ask HR policy qu… |
-| 2026-11-16 11:18:36 | io.github.shujahmhd/foundaree | Foundaree | 1.5.0 | Find and book real people and local businesses, plus free AI tools: memory, sma… |
-| 2026-11-16 11:19:34 | pl.prawnet/prawnet | Prawnet: Polish case law and legislation | 1.0.0 | Search ~656k Polish court rulings and ~165k legal acts, verify case numbers, fi… |
-| 2026-11-16 11:19:56 | no.momentsapp/events | Moments Events | 1.0.0 | Search public event listings in Norwegian and other cities. Read-only, no auth. |
+| 2026-11-16 11:21:55 | [io.github.anilcancakir/dowel](https://github.com/anilcancakir/dowel) | Dowel | 1.0.3 | CLI framework and stdio MCP server for Flutter: scaffolding, hot reload, REPL,… |
+| 2026-11-16 11:21:56 | [io.github.anilcancakir/tapir](https://github.com/anilcancakir/tapir) | Tapir | 1.0.1 | Drive a live Flutter app from an AI agent: snapshot the Semantics tree, tap, ty… |
+| 2026-11-16 11:21:58 | [io.github.anilcancakir/crumbs](https://github.com/anilcancakir/crumbs) | Crumbs | 1.0.1 | Read a running Flutter app's HTTP, logs, exceptions, dumps and frames over MCP.… |
+| 2026-11-16 11:22:32 | br.com.cleanfin/cleanfin | CleanFin | 1.0.0 | ERP brasileiro: vendas, financeiro, estoque, notas fiscais e relatórios da sua… |
+| 2026-11-16 11:26:50 | com.meshworq/meshworq | Meshworq | 1.0.0 | Issue tracker for coding agents: a real backlog, plus a risk-ranked review of e… |
+| 2026-11-16 11:28:37 | app.motionfab/library | Motion Fab Library | 1.0.0 | Motion-graphics video prompts and 200+ motion-design techniques with working GS… |
+| 2026-11-16 11:34:22 | sh.cobuild/cobuild | co.build | 0.6.1 | Open-source mods for the devices you own, with owner reports on what works. |
+| 2026-11-16 11:35:23 | [io.github.NethermindEth/auditagent](https://github.com/NethermindEth/auditagent-plugin) | AuditAgent | 0.1.0 | AI smart contract security audits by Nethermind. Run scans and pull findings in… |
+| 2026-11-16 11:35:36 | [io.github.gaoshang212/wpf-lens](https://github.com/gaoshang212/WpfLens) |  | 0.22.0 | Inspect and drive WPF apps: trees, bindings, screenshots, mouse dragging and to… |
+| 2026-11-16 11:36:24 | org.essence-ai/essence | Essence | 1.0.0 | Telegram automation: channel feed with summaries, digests and auto-publishing. |
+| 2026-11-16 11:38:10 | [io.bitquery/mcp](https://github.com/bitquery/mcp) | Bitquery MCP | 1.0.3 | On-chain data: DEX trades, prices, pump.fun launches, wallet tracing, Hyperliqu… |
+| 2026-11-16 11:39:42 | [io.github.QuantLedgerAPI/quantledger-73-engine-mcp](https://github.com/QuantLedgerAPI/quantledger-mcp) | QuantLedger 73-Engine CPA, GAAP, IRC Ta… | 2.0.0 | 73 CPA, GAAP, IRC Tax, 409A, DCAA, Credit & SEC 10-K calculation engines across… |
+| 2026-11-16 11:40:28 | [io.github.QuantLedgerAPI/quantledger-cpa-accounting-gaap-asc842-irc-tax-409a-dcaa-sec-10-k-credit-finance](https://github.com/QuantLedgerAPI/quantledger-mcp) | QuantLedger 73-Engine CPA, GAAP, IRC Ta… | 2.0.0 | 73 CPA, GAAP, IRC Tax, 409A, DCAA, Credit & SEC 10-K calculation engines across… |
+| 2026-11-16 11:40:31 | [io.github.educlopez/ui-craft](https://github.com/educlopez/ui-craft) | UI Craft | 0.9.1 | UI quality checks: anti-slop, accessibility, design tokens, scoring and workflo… |
+| 2026-11-16 11:41:31 | [io.github.CloudCorpRecords/noticewire](https://github.com/CloudCorpRecords/noticewire) |  | 0.1.0 | ABC and receivership legal-notice feed, notice archive search and WARN plant-cl… |
+| 2026-11-16 11:41:58 | io.github.Tenhaw/entitybind-core | Entity Bind - Core | 0.1.0 | Company resolution and enrichment with decision receipts, as a remote MCP serve… |
+| 2026-11-16 11:41:58 | io.github.Tenhaw/entitybind-aml | EntityBind AML Onboard | 0.1.0 | AML Onboard case workflows for UK limited companies, as a remote MCP server. |
+| 2026-11-16 11:43:06 | [io.github.CloudCorpRecords/docketpeek](https://github.com/CloudCorpRecords/docketpeek) |  | 0.1.0 | CPSC recall-register matches for a business name, plus recent Chapter 11 filing… |
+| 2026-11-16 11:43:23 | com.daxni/mcp |  | 1.0.0 | A registry where AI beings register themselves with their own keys and get seal… |
+| 2026-11-16 11:44:01 | [io.github.navid72m/vps-mcp](https://github.com/navid72m/vps-mcp) | VPS MCP & Digital Secretary | 0.1.0 | Autonomous Digital Secretary and VPS MCP platform with Executive Web Cockpit |
+| 2026-11-16 11:49:28 | [io.github.netbasecorp/leadee-mcp](https://github.com/netbasecorp/leadee) | Leadee | 0.2.0 | Leadee.ai SEO and AI visibility: audits, rank and AI answer tracking, fixes, re… |
+| 2026-11-16 11:49:45 | [io.github.socialitcom/mcp](https://github.com/socialitcom/mcp) | Socialit | 1.0.0 | Schedule social posts, answer DMs and comments, read analytics, run CRM automat… |
+| 2026-11-16 11:50:54 | [io.github.CloudCorpRecords/restockradar](https://github.com/CloudCorpRecords/restockradar) |  | 0.1.0 | Collectible restock index by niche, with per-item will-it-restock predictions. |
+| 2026-11-16 11:53:17 | [io.github.Palicz91/reviewtactic-mcp](https://github.com/Palicz91/reviewtactic-mcp) | ReviewTactic — Google Review Checker | 1.0.0 | Check a business's Google reviews for rule-breaking negative reviews and its Go… |
+| 2026-11-16 11:56:47 | io.github.lankylo/agent-commons | Agent Commons (pilot) | 0.1.0 | Free, reviewed pilot registry of reusable API knowledge and recipes for AI agen… |
+| 2026-11-16 11:56:56 | [io.github.faithdrivencreator/visual-diff-gate](https://github.com/faithdrivencreator/apify-agent-tools) | Visual Regression & Screenshot Diff for… | 1.0.0 | Compare two web pages on desktop and phone: percent changed, changed regions, d… |
+| 2026-11-16 11:56:57 | [org.aimlds/atom-sourced-podcast-episode-production](https://github.com/nrupala/atom-services) | Sourced podcast episode production — At… | 0.1.0 | Sourced podcast episode production: declared episode production record checked… |
+| 2026-11-16 11:56:57 | site.goat-lighthouse/market-news | Market News API | 1.0.0 | AI-scored market news, Binance announcements and listings for trading agents, p… |
+| 2026-11-16 11:56:59 | [org.aimlds/atom-sourced-visual-reference-search](https://github.com/nrupala/atom-services) | Sourced visual reference search — Atom | 0.1.0 | Sourced visual reference search: declared visual-reference search record checke… |
+| 2026-11-16 11:57:00 | [org.aimlds/atom-sql-schema-query-engineering-pack](https://github.com/nrupala/atom-services) | SQL schema & query engineering pack — A… | 0.1.0 | SQL schema & query engineering pack: declared SQL record checked per call. |
+| 2026-11-16 11:57:01 | [org.aimlds/atom-statistical-study-design-report](https://github.com/nrupala/atom-services) | Statistical study design report — Atom | 0.1.0 | Statistical study design report: declared study design record checked per call. |
+| 2026-11-16 11:57:03 | [org.aimlds/atom-strict-typescript-engineering-pack](https://github.com/nrupala/atom-services) | Strict typescript engineering pack — At… | 0.1.0 | Strict TypeScript engineering pack: declared strict TS record checked per call. |
+| 2026-11-16 11:57:05 | [org.aimlds/atom-structured-decision-making](https://github.com/nrupala/atom-services) | Structured decision making — Atom | 0.1.0 | Structured decision making: declared decision record and its weighted matrix ch… |
+| 2026-11-16 11:57:20 | ru.axaa/catalog | AXAA — gift certificates for extreme ac… | 1.0.10 | Russian gift shop for extreme activities: browse the catalog, place orders, che… |
+| 2026-11-16 11:57:26 | [io.github.brunopompeo1/agent-guard-x402](https://github.com/brunopompeo1/brazil-ai-fiscal-apis-x402) | Agent Guard Prompt Injection & PII Fire… | 2.2.0 | Hybrid prompt-injection firewall (Llama Guard 3) & Brazil PII/secret masking vi… |
+| 2026-11-16 11:57:27 | [io.github.brunopompeo1/br-business-intel-x402](https://github.com/brunopompeo1/brazil-ai-fiscal-apis-x402) | Brazil Business Intel & PIX Engine (x40… | 2.2.0 | Brazil CNPJ KYB dossier, IBGE CEP lookup, CPF/CNPJ validator & PIX EMVCo CRC16… |
+| 2026-11-16 11:57:27 | [io.github.brunopompeo1/br-docs-parser-x402](https://github.com/brunopompeo1/brazil-ai-fiscal-apis-x402) | Brazil Boleto, DARF & NF-e Key Parser (… | 2.2.0 | FEBRABAN boleto (post-Feb/2025), DARF/FGTS/IPTU tax slip & NF-e key parser via… |
+| 2026-11-16 11:57:28 | [io.github.brunopompeo1/br-fin-calculators-x402](https://github.com/brunopompeo1/brazil-ai-fiscal-apis-x402) | Brazil Central Bank & Finance Calculato… | 2.2.0 | BCB SGS inflation (IPCA/IGPM/SELIC/CDI), official PTAX FX & Price/SAC loans via… |
+| 2026-11-16 11:57:28 | [io.github.brunopompeo1/br-nfe-xml-auditor-x402](https://github.com/brunopompeo1/brazil-ai-fiscal-apis-x402) | Brazil NF-e XML Auditor & Key Engine (x… | 2.2.0 | SEFAZ 4.00 NF-e/NFC-e XML audit, ~90% token compression & Mod-11 key decoder vi… |
+| 2026-11-16 11:57:29 | [io.github.brunopompeo1/br-tax-payroll-calc-x402](https://github.com/brunopompeo1/brazil-ai-fiscal-apis-x402) | Brazil Tax & Payroll Engine (x402) | 2.2.0 | Simples Nacional (Fator R), progressive INSS/IRRF, FGTS & B2B NFS-e tax engine… |
+| 2026-11-16 11:57:30 | [io.github.brunopompeo1/web-enrichment-x402](https://github.com/brunopompeo1/brazil-ai-fiscal-apis-x402) | Web Content Enrichment & Table Extracto… | 2.2.0 | Convert noisy HTML into clean Markdown, JSON tables & JSON-LD with token metric… |
+| 2026-11-16 11:57:41 | ru.extrimdrive/catalog | Extreme Drive — extreme driving school | 1.0.7 | Moscow extreme and defensive driving school: courses, programs, gift certificat… |
+| 2026-11-16 11:58:19 | [io.github.CloudCorpRecords/settlefind](https://github.com/CloudCorpRecords/settlefind) |  | 0.1.0 | Search open US class-action settlements and find official unclaimed-money porta… |
+| 2026-11-16 11:58:50 | io.github.slipstreambet/slipstream | Slipstream | 1.0.0 | Which sports cappers are actually winning: dated records and tonight's consensu… |
+| 2026-11-16 12:00:08 | [io.github.oskarkocol/narev](https://github.com/narevai/narev-web) | Narev LLM Pricing | 1.0.0 | LLM pricing, provider and gateway rates, pricing tiers, and inference cost calc… |
+| 2026-11-16 12:00:52 | dev.stocklake/stocklake | Stocklake - AI Stock Intelligence | 2026.11.0 | AI stock intelligence: prices, fundamentals, technicals, news, macro regime, an… |
+| 2026-11-16 12:05:57 | [io.github.CloudCorpRecords/awardsignal](https://github.com/CloudCorpRecords/awardsignal) |  | 0.1.0 | Federal contractor signals: acquisition-likelihood profiles, rising contractors… |
+| 2026-11-16 12:07:14 | pl.gogiga/koncerty | GoGiga | 1.0.0 | Concerts in Poland, from big tours to club gigs: by town, date, genre or band.… |
+| 2026-11-16 12:08:48 | es.vidpilot/vidpilot | VidPilot | 1.0.0 | Create HD vertical videos with Claude and auto-post them to TikTok, YouTube Sho… |
+| 2026-11-16 12:09:33 | ai.leakremover/leakremover | LeakRemover | 1.0.0 | For LeakRemover customers: ask about leaks found, removals and sites, and repor… |
+| 2026-11-16 12:10:26 | co.behaf/dial | Dial by Behaf | 1.0.0 | Lets your AI phone Indian businesses for bookings, enquiries and status checks,… |
+| 2026-11-16 12:13:31 | [io.github.CloudCorpRecords/awarddelta](https://github.com/CloudCorpRecords/awarddelta) |  | 0.1.0 | Federal contract delta feed: what changed, digests, competitor award watch, awa… |
+| 2026-11-16 12:14:59 | com.dipmeai/dipmeai | DIPMEAI | 1.0.0 | Verifica Agent-Ready di un sito, servizi e prezzi DIPMEAI, prenotazione della c… |
+| 2026-11-16 12:17:47 | io.getrelaydesk/relaydesk | Follow Up Boss Connector by Relaydesk | 0.2.0 | Run Follow Up Boss from AI chat: ask about leads, get summaries, write notes an… |
 
 ## Data source
 
