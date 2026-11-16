@@ -1,0 +1,37 @@
+created_at,server,title,version,repository,transports,description
+2026-11-16T17:21:59.921464Z,io.github.vitaliyyun/iban-analyzer,IBAN Analyzer,1.0.0,https://github.com/vitaliyyun/iban-analyzer-mcp,streamable-http,"Resolve an IBAN to its bank: name, BIC/SWIFT, city and address, and validate IBANs."
+2026-11-16T17:24:58.1249Z,hu.zeroszamla/zero-szamla,Zéró Számla,0.9.1,,streamable-http,Automated invoicing from your AI assistant. Incoming invoice sync. Issue invoices and receipts.
+2026-11-16T17:25:53.733097Z,com.kotecharts/charts,Kote Charts — Bitcoin on-chain analytics,1.1.0,,streamable-http,"Free Bitcoin on-chain analytics API & MCP server: MVRV, NUPL, SOPR, exchange flows, whales"
+2026-11-16T17:27:29.264201Z,dev.musher/musher,Musher,26.2.0,,streamable-http,"Deploy and run your apps on Musher: catalog apps, blueprints, variables, gateways and logs."
+2026-11-16T17:27:59.46112Z,net.gunpartpicker/gunpartpicker,GunPartPicker,1.0.0,,streamable-http,"Live US prices and fit checks for AR-15 and Glock parts, cheapest ammo, FFL dealers, state gun laws"
+2026-11-16T17:29:47.589957Z,com.providersignal/dental-market-intelligence,ProviderSignal: Dental Market Intelligence,1.7.0,,streamable-http,"Read-only MCP: US dental intel, all-category Medicaid fee schedules, dentist lookup. Free tier."
+2026-11-16T17:30:49.914231Z,net.marioruiz/iceland,Iceland live,1.0.0,,streamable-http,"Live Iceland data: earthquakes, volcano status, weather, warnings and road conditions. Read-only."
+2026-11-16T17:33:21.862048Z,io.github.moritzlauper/mara-bridge,MARA Bridge,0.1.0,https://github.com/moritzlauper/mara-bridge,,"Measure and mix Ableton Live sets: reference comparison, spectra, masking, EQ and compression."
+2026-11-16T17:33:27.432877Z,com.dosiefoxie/brand-pack,Dosie Foxie Brand Pack,1.0.0,,streamable-http,"Logo previews and production brand packs, paid in USDC on Base"
+2026-11-16T17:33:30.531457Z,com.sayscreen/sayscreen,SayScreen,1.0.0,,streamable-http,Make narrated tutorial videos of any website or web app by asking your AI assistant.
+2026-11-16T17:33:40.222019Z,app.asks/asks,Asks,1.0.0,,streamable-http,"Run your Asks AI support agent, knowledge, inbox, tickets and customers from your AI assistant."
+2026-11-16T17:34:46.879857Z,io.github.moritzlauper/mara-mcp,MARA MCP,0.1.1,https://github.com/moritzlauper/mara-mcp,,"Measure and mix Ableton Live sets: reference comparison, spectra, masking, EQ and compression."
+2026-11-16T17:39:55.938406Z,com.ustawnik/ustawnik,Ustawnik,0.1.0,,streamable-http,"Polish tax and accounting law with citations: VAT, KSeF, KIS rulings, provisions as of a date."
+2026-11-16T17:40:00.611335Z,club.savings/savings-club,Savings Club,0.4.0,,streamable-http,"Estimate a vehicle membership with no interest and one flat fee, and compare it with a bank loan."
+2026-11-16T17:41:32.105408Z,pl.tagdip/price-history,TagDip,1.0.0,,streamable-http,"Prices and price history in Polish online stores: is it a good price, is the promotion real?"
+2026-11-16T17:41:54.25451Z,app.tribeatlas/tribeatlas,Tribeatlas,0.1.0,,streamable-http,"Group trips in chat: plans, packing lists and who owes whom. Bookings and receipts on Premium trips."
+2026-11-16T17:47:58.537412Z,io.github.lisn0/android-device-control,Android Device Control,0.1.0,https://github.com/lisn0/android-device-control,,Inspect authorized Android devices through ADB.
+2026-11-16T17:47:58.95236Z,io.github.lisn0/stream-clipper,Stream Clipper,0.1.0,https://github.com/lisn0/stream-clipper,,List local clips and prepare them for review or publishing.
+2026-11-16T17:49:40.237356Z,app.palabring/palabring,Palabring,1.0.0,https://github.com/KELiON/palabring-mcp,streamable-http,Add words to your Palabring vocabulary and review them as flashcards with spaced repetition.
+2026-11-16T17:49:57.158285Z,online.reflib/reflib,RefLib,0.1.0,,streamable-http,"Assistants search and read RefLib corpora by section, not from model memory."
+2026-11-16T17:50:16.253105Z,io.github.ONSBR/tiago-dados-abertos,,1.1.1,,,MCP server que conecta agentes de IA aos dados abertos do ONS (Operador Nacional do Sistema)
+2026-11-16T17:50:19.473563Z,io.github.softglazee/softglaze-browser-mcp,SoftGlaze Browser,1.0.0,https://github.com/softglazee/softglaze-mcp-helper,,"Manage SoftGlaze Browser profiles, proxies and macros on your PC. Every change asks you first."
+2026-11-16T17:51:06.515782Z,com.fyrmo/fyrmo,Fyrmo,1.6.0,,streamable-http,"Small businesses in Costa Rica, Panama, Guatemala and Dominican Republic: WhatsApp, phone, email"
+2026-11-16T17:51:16.880321Z,io.github.william-monroy/turno-browser,,0.1.0,https://github.com/william-monroy/turno,,Drives your installed Chrome with a persistent profile per identity (Playwright MCP tools).
+2026-11-16T17:52:44.155515Z,app.rarylib/rarylib,RaryLib,1.0.0,,streamable-http,"Catalogue culturel en français : films, séries, livres, jeux, musique, animés. Lecture seule."
+2026-11-16T17:55:27.079285Z,ch.ticketick/ticketick,ticketick,1.0.0,,streamable-http,"Swiss event ticketing: search concerts and shows, let organizers create and publish events."
+2026-11-16T17:58:55.2283Z,io.github.beliq-eu/beliq-mcp,beliq,0.5.0,https://github.com/beliq-eu/beliq-mcp,,"Validate, parse, generate and convert EU e-invoices (XRechnung, ZUGFeRD, Factur-X, Peppol BIS)."
+2026-11-16T18:03:00.022519Z,io.github.imdinu/apple-mail-mcp,Apple Mail MCP,0.5.1,https://github.com/imdinu/apple-mail-mcp,,"Apple Mail MCP server with full-coverage FTS5 body search, reliable on large mailboxes."
+2026-11-16T18:03:34.637298Z,app.metricsnest/metrics-nest,Metrics Nest,1.0.0,,streamable-http,"Ask Claude, ChatGPT or Cursor about your Apple Health data: workouts, sleep, food. Read-only."
+2026-11-16T18:04:52.729156Z,com.engine/mcp,Engine,1.0.0,,streamable-http,"Search and book hotels, shorten or cancel stays, and check support cases in Engine."
+2026-11-16T18:05:27.157847Z,com.trailsoftucson/trails-of-tucson,Trails of Tucson,1.0.0,,streamable-http,"Read-only Tucson-area trail list, forecasts, closures, and access notes from Trails of Tucson"
+2026-11-16T18:09:44.868296Z,net.diofis/babelii,Babelii,1.0.0,,streamable-http,"Beli pulsa, paket data, token PLN, tagihan dan voucher game di Indonesia lewat agen AI."
+2026-11-16T18:17:06.263363Z,io.github.David-Cabeza/opencovers,,0.1.0,https://github.com/David-Cabeza/OpenCovers,,"Restaurant reservations over MCP: availability, bookings, tables and waitlist. Open source."
+2026-11-16T18:19:10.229224Z,com.aussyprompt/one,AussyPrompt ONE,1.0.0,,streamable-http,"Plan apps and systems from plain words: blueprints, build packs, SQL and Build Doctor fixes."
+2026-11-16T18:19:43.559404Z,dev.helve/helve,Helve,2.0.0,,streamable-http,"Metered pay-per-call gateway for AI agent tools: search, discover, and call with one key."
+2026-11-16T18:20:45.563378Z,io.warm/mcp,Warm,1.0.0,,streamable-http,"Read your own bank balances, spending, and transactions from Warm, and make changes you approve."
