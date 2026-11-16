@@ -1,0 +1,40 @@
+created_at,server,title,version,repository,transports,description
+2026-11-16T14:20:12.159632Z,io.improvado/mcp,Improvado,1.0.0,https://github.com/tekliner/improvado-mcp,streamable-http,"Marketing data for AI agents: query ads, CRM and analytics data in your Improvado workspace."
+2026-11-16T14:23:01.354824Z,xyz.priorseal/priorseal,PriorSeal,1.0.0,https://github.com/imokokok/PriorSeal,streamable-http,"Seal, observe and verify agentic executions with signed receipts and portable evidence bundles."
+2026-11-16T14:25:02.942192Z,com.auryacore/aurya,AURYA,0.1.0,,streamable-http,Records the approved actions of your AI agent with a link anyone can check
+2026-11-16T14:25:06.581388Z,com.vamotalent/search,Vamo developer search,1.0.0,,streamable-http,"Find software engineers by what they built on GitHub: search, similar, enrich, deep research."
+2026-11-16T14:30:54.128416Z,io.github.sebs/rewelo,rewelo,0.9.0,https://github.com/sebs/rewelo,,"Prioritise a backlog with the relative weight method: score, rank, simulate and plan tickets"
+2026-11-16T14:31:06.16877Z,io.github.makloai/yoya,Yoya,1.0.0,,streamable-http,"Run your Yoya scheduling assistant: meeting types, availability, bookings, briefs and settings."
+2026-11-16T14:32:46.038252Z,com.toktikhq/mcp,Toktik — TikTok LIVE data,0.1.1,,,"TikTok LIVE rankings, gifters, creators, follow lists, agencies and LIVE Pro data from Toktik."
+2026-11-16T14:33:24.341924Z,io.github.CloudCorpRecords/linkledger,,0.1.0,https://github.com/CloudCorpRecords/linkledger,,"Manage your Linkly short links, domains, webhooks and click analytics."
+2026-11-16T14:34:23.402786Z,kr.77ai/flower-delivery,꽃배달AI,1.0.0,,streamable-http,Handam no-login guest MCP intake for Korean flower delivery order drafts; submissions unconfirmed.
+2026-11-16T14:37:15.87436Z,ai.mailrun/agent-identity,Mailrun Agent Identity,1.0.0,,streamable-http,"Email and optional phone for AI agents: send, receive, search, draft and call over MCP."
+2026-11-16T14:38:52.907716Z,com.midvash/bible,Bible by Midvash,1.1.0,https://github.com/midvash/bible-mcp,streamable-http,"Free, no-key Bible MCP: 119 free versions in 69 languages, search, commentary and Strong's."
+2026-11-16T14:39:26.565289Z,flights.lowest/agent-flights,Agent Flights,1.2.0,https://github.com/princemuichkine/airbot,streamable-http,"Cheapest flights worldwide, strong on Africa, with attributed booking links."
+2026-11-16T14:44:12.412375Z,io.coremodels/coremodels,CoreModels,1.1.0,,streamable-http; streamable-http,"Model, map and validate data schemas. Export JSON Schema, JSON-LD, LinkML, OWL, ShEx, SQL, Avro."
+2026-11-16T14:46:56.838428Z,com.nextupwalkin/nextup-walk-in,NextUp Walk-in,1.0.0,,streamable-http,"Find walk-in places near you with live waits, then join the line or book."
+2026-11-16T14:47:07.374205Z,com.crln-learn/crln,CRLN,1.0.0,,streamable-http,"Practice real clinical research decisions, scored with the GCP rule behind them. Free."
+2026-11-16T14:47:18.376741Z,com.scoutdata/scout-data,Scout Data,2.0.0,,streamable-http,US homeowner contacts and property records for AI assistants; results open as a spreadsheet.
+2026-11-16T14:48:12.387044Z,com.clawhard/stake,Stake,1.0.0,,streamable-http,"Is the domain free? Live registry (RDAP) checks across .com .io .ai .dev, with expiry and registrar."
+2026-11-16T14:48:18.624129Z,com.exness/mcp,Exness Official,0.1.0,,streamable-http; streamable-http,Search Exness API documentation and access account tools with OAuth-scoped permissions.
+2026-11-16T14:50:05.074427Z,com.thelocalupgrade/engineering,The Local Upgrade — Software Engineering,1.0.0,,streamable-http,"Explore engineering services, prepare project briefs and submit authorized proposal requests."
+2026-11-16T14:53:14.966666Z,org.zodiacs/astrology,Zodiacs,0.6.7,,streamable-http,"Astrology with planet positions tested against NASA JPL Horizons: charts, compatibility, horoscopes."
+2026-11-16T14:54:06.988544Z,io.github.ChatPush/mcp-chatpush,ChatPush,1.0.0,https://github.com/ChatPush/mcp-chatpush,,"Send WhatsApp, Telegram, SMS and MAX messages, files and bulk mailings via ChatPush"
+2026-11-16T14:58:03.006577Z,dev.mightys/pulse,MightyS Pulse,1.0.0,,streamable-http,"Read your MightyS Pulse app analytics: users, signals, retention, funnels and errors."
+2026-11-16T14:58:26.304603Z,io.github.David-Marina/marina-rules,Marina rules,2026.11.16,https://github.com/David-Marina/marina-rules,,"Point-in-time exchange trading rules with sources: A-share price limits, stamp duty, ticks, futures"
+2026-11-16T14:58:43.966556Z,com.futuremicromoldllc/lab,Future Micro Mold Lab,1.0.0,,streamable-http,"Scientific-molding calculators: viscosity curve, gate seal, cavity balance, Cpk and gage R&R."
+2026-11-16T14:59:01.131463Z,com.tenhaw/kit,Tenhaw Kit,1.0.1,https://github.com/Tenhaw/tenhaw-kit,streamable-http,"Building blocks for internal AI readiness, delivery, ROI, portfolio and operating model tools"
+2026-11-16T14:59:14.012756Z,io.github.yoshinaga2015/mockshot-studio,MockShot Studio,0.1.1,,,Drive MockShot Studio via MCP. Requires the MockShot Studio Mac app.
+2026-11-16T14:59:52.425997Z,io.github.wms-why/flowmails-mcp,Flowmails MCP,1.0.0,https://github.com/wms-why/flowmails-mcp,streamable-http,"Hosted MCP server for custom-domain email: send, receive and wait for mail on your domain."
+2026-11-16T15:05:33.663451Z,io.bulkit/bulkit,Bulkit,1.0.0,,streamable-http,"Schedule, publish and manage social media posts across X, LinkedIn, Instagram, TikTok and more."
+2026-11-16T15:06:44.378926Z,io.github.titouannnn/stackcheck-mcp,stackcheck,0.1.0,https://github.com/titouannnn/stackcheck-mcp,,Latest stable npm/PyPI/Maven versions plus the incompatibilities between them.
+2026-11-16T15:06:51.704143Z,org.aimlds/atom-vendor-evaluation-three-way-match-pack,Vendor evaluation three way match pack — Atom,0.1.0,https://github.com/nrupala/atom-services,streamable-http,Vendor evaluation three-way match: declared procurement record checked per call.
+2026-11-16T15:06:54.886242Z,org.aimlds/atom-verified-place-shortlist,Verified place shortlist — Atom,0.1.0,https://github.com/nrupala/atom-services,streamable-http,Verified place shortlist: declared place shortlist record checked per call.
+2026-11-16T15:06:58.775426Z,org.aimlds/atom-voice-note-narration-audio,Voice note narration audio — Atom,0.1.0,https://github.com/nrupala/atom-services,streamable-http,Voice note narration audio: declared voice-note/narration production record checked per call.
+2026-11-16T15:07:00.325435Z,io.github.mindstone/mcp-server-elevenlabs-agents,ElevenLabs Agents,0.3.0,https://github.com/mindstone/mcp-servers,,"ElevenLabs Conversational AI: agents, calls, conversations, and knowledge base for MCP hosts"
+2026-11-16T15:07:02.752948Z,org.aimlds/atom-zero-knowledge-system-design-pack,Zero knowledge system design pack — Atom,0.1.0,https://github.com/nrupala/atom-services,streamable-http,Zero knowledge system design pack: declared ZK design record checked per call.
+2026-11-16T15:07:07.570493Z,org.aimlds/atom-zero-trust-architecture-design-pack,Zero trust architecture design pack — Atom,0.1.0,https://github.com/nrupala/atom-services,streamable-http,Zero trust architecture design pack: declared zero-trust design record checked per call.
+2026-11-16T15:08:15.965895Z,com.kulamail/kula,Kula,1.0.0,,streamable-http,"Draft email campaigns, flows and templates in Kula. A team member approves before anything is sent."
+2026-11-16T15:14:55.000989Z,com.chatzyn/chatzyn,Chatzyn,1.0.0,,streamable-http,"WhatsApp and Instagram CRM: read and act on your inbox, contacts, templates, flows and broadcasts."
+2026-11-16T15:18:22.317467Z,io.github.hholen/lodd-mcp-server,,0.1.19,https://github.com/hholen/lodd-mcp-server,,"Headless web analytics for AI agents. 43 MCP tools for traffic, events, funnels."
+2026-11-16T15:19:00.906173Z,io.github.rajeswaran140/crowvault,CrowVault,3.1.0,https://github.com/rajeswaran140/crowvault-setup,streamable-http,"379 tools that generate production-ready Dockerfiles, Kubernetes, Terraform, schemas, APIs, tests."
