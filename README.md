@@ -9,49 +9,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 13:21 UTC
+## Latest list — 2026-11-16 14:19 UTC
 
-New MCP servers published between 2026-11-16 12:19 UTC and 2026-11-16 13:21 UTC.
+New MCP servers published between 2026-11-16 13:21 UTC and 2026-11-16 14:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-16T13-21-39-064272Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-16T14-19-57-227732Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-16 12:20:29 | [io.github.CloudCorpRecords/recompetewatch](https://github.com/CloudCorpRecords/recompetewatch) |  | 0.1.0 | Federal recompete predictions from public USAspending data, with base rates and… |
-| 2026-11-16 12:21:54 | ru.bittalk/news | BitTalk News | 2.1.0 | Market news and Elliott wave analysis by BitTalk News: levels, order books, scr… |
-| 2026-11-16 12:23:06 | [io.github.Widal-Inc/kestrel](https://github.com/Widal-Inc/kestrel) | Kestrel | 0.1.0 | Shows what your AI coding agents spend, and helps to spend less. |
-| 2026-11-16 12:23:09 | [io.github.chenshiyilisha/multidb-mcp](https://github.com/chenshiyilisha/multidb-mcp) | MultiDB MCP | 0.2.0 | MCP server for Dameng (DM8), SQL Server, and MySQL — read-only by default, gran… |
-| 2026-11-16 12:27:25 | [io.github.CloudCorpRecords/carefeed](https://github.com/CloudCorpRecords/carefeed) |  | 0.1.0 | Healthcare provider registry lookup, new OIG-LEIE exclusions feed, FDA enforcem… |
-| 2026-11-16 12:28:19 | io.github.qayasagency/shapargullay | shapargullay | 1.0.0 | Pakistan's event tickets: live concerts, qawwali, comedy and more, with dates,… |
-| 2026-11-16 12:29:45 | studio.netcraft/netcraft-studio | Netcraft Studio | 1.0.0 | Create, edit and publish small-business websites in your Netcraft Studio accoun… |
-| 2026-11-16 12:31:14 | [io.github.ezumba/vanguard-memory-node](https://github.com/ezumba/vanguard-memory-node) |  | 2.1.1 | Local deterministic BM25 memory for AI agents via MCP. Offline-first, SHA-256 s… |
-| 2026-11-16 12:32:03 | com.peakbff/peakbff | PeakBFF | 1.0.0 | Gym log and calorie tracker: log meals, water, weight and fasts, review lifts,… |
-| 2026-11-16 12:33:23 | io.ihateemail/ihateemail | ihateemail.io | 1.0.0 | Check a domain's SPF, DKIM, DMARC, MX, TLS and blacklists, and get the DNS reco… |
-| 2026-11-16 12:33:52 | [io.github.karimalsalah/proteus](https://github.com/karimalsalah/proteus) | PROTEUS terminal | 0.5.3 | Windows terminal sessions for agents: spawn, type, wait without polling, lean r… |
-| 2026-11-16 12:34:04 | app.appcider/appcider | AppCider | 1.0.0 | Reviews, request themes, competitor prices and posts for App Store and Google P… |
-| 2026-11-16 12:36:27 | [io.github.Lawatch/npm-why](https://github.com/Lawatch/10aday) | npm why (who installs this package) | 1.0.0 | Why a package is in node_modules, which versions, who pulls it in: npm explain… |
-| 2026-11-16 12:40:47 | [io.github.btsouth/toolport](https://github.com/btsouth/toolport) | Toolport | 2.3.6 | Local MCP gateway: set up servers once and share them with every AI client |
-| 2026-11-16 12:40:50 | com.ariberi/freight | Ariberi freight exchange | 1.0.0 | Free load board for Central Asia, China and Russia: search truck loads by route… |
-| 2026-11-16 12:45:14 | dev.workers.apexlabs-cloudflare.pagetext/pagetext | PageText | 1.0.0 | Convert a web page or HTML into clean readable Markdown for LLM context. $0.005… |
-| 2026-11-16 12:46:43 | com.enhancv/mcp | Enhancv | 1.0.0 | Edit your Enhancv resumes and cover letters, search jobs and update your job tr… |
-| 2026-11-16 12:55:24 | [io.github.CloudCorpRecords/patentlane](https://github.com/CloudCorpRecords/patentlane) |  | 0.1.0 | Design patents expiring into private-label opportunity: categories, newly-expir… |
-| 2026-11-16 12:55:57 | com.halowerk/buyers |  | 1.0.0 | Five paid tools: website stacks, domain profiles, IP risk, speech transcription… |
-| 2026-11-16 12:56:07 | [io.github.zhaoxinghua09-cell/medxpert-ortho-mcp](https://github.com/zhaoxinghua09-cell/medxpert-ortho-mcp) | MedXpert 骨科器械检测对接（8 工具） | 0.1.1 | Orthopedic device testing MCP: lab match, quotes, UDI, standards, timelines, ga… |
-| 2026-11-16 13:02:13 | com.kawlnow.www/kawl-now | Kawl Now | 0.1.0 | Set up website voice support and sales agents; draft knowledge and check widget… |
-| 2026-11-16 13:02:59 | [io.github.CloudCorpRecords/clearingdir](https://github.com/CloudCorpRecords/clearingdir) |  | 0.1.0 | Medical clearinghouse and payer-API vendor directory: records, X12 functions, r… |
-| 2026-11-16 13:06:23 | com.homedadpro/propfirm | 全職奶爸 HomeDadPro PropFirm | 1.1.0 | PropFirm plans, verified prices, HDP discounts and guides with article and refe… |
-| 2026-11-16 13:07:35 | [co.pinli/pinli](https://github.com/getpinli/pinli-mcp) | Pinli | 1.0.0 | Edit your Pinli one-page website or link in bio. You review and apply every cha… |
-| 2026-11-16 13:08:31 | com.matlogica/demo-workspace | MatLogica Demo | 0.4.0 | Price sample option and gas storage books with AADC sensitivities, explain P&L… |
-| 2026-11-16 13:09:15 | me.involve/mcp | involve.me | 0.4.0 | Create and manage involve.me funnels, analyze responses, and export response da… |
-| 2026-11-16 13:10:23 | [io.github.YosefHayim/ebay-mcp](https://github.com/YosefHayim/ebay-mcp) | eBay Seller Tools | 2.0.11 | Community MCP server for the eBay Sell, Commerce and Developer APIs (379 tools). |
-| 2026-11-16 13:10:55 | com.shinglesites/shingle | Shingle | 1.0.0 | Find local businesses, build their websites, and run their leads, deals and boo… |
-| 2026-11-16 13:11:34 | uk.co.uniboards.mcp/uniboards | Uniboards | 1.0.0 | Order boards and sheet materials from Uniboards (UK) and change your own orders… |
-| 2026-11-16 13:12:17 | [dev.simkit/simkit](https://github.com/ealtaca/simkit-mcp) |  | 0.1.0-beta.1 | See an iOS app's network traffic, mock responses and drive the simulator throug… |
-| 2026-11-16 13:12:20 | [io.github.kismetai-io/kismet](https://github.com/kismetai-io/Kismet) | Kismet for Unreal Engine | 0.10.0 | Read, edit and compile Unreal Engine Blueprints, materials and widgets in a run… |
-| 2026-11-16 13:14:07 | app.aretus/converter | Aretus Publisher converter | 1.0.0 | Convert Microsoft Publisher (.pub) files to PDF, images, ODG and DOCX, with wat… |
-| 2026-11-16 13:18:57 | online.aielm/aielm | AI ELM | 0.2.0 | Reads your car through the AI ELM app and an OBD2 adapter: fault codes, live da… |
-| 2026-11-16 13:19:48 | com.founderstackafrica/directory | FounderStack Africa | 1.0.0 | African startup tools, funding programmes and company data, filterable by count… |
-| 2026-11-16 13:20:18 | dk.cvrradar/cvrradar | cvrradar | 0.1.0 | Danish company data from CVR: search, financials, owners, credit rating and dig… |
+| 2026-11-16 13:21:44 | io.github.gvidon/tada-signals | Tada Signals | 1.0.0 | Live feed of startup funding rounds: company, amount, stage and date. Free, no… |
+| 2026-11-16 13:24:02 | [io.github.akshitanchan/applesauce](https://github.com/akshitanchan/applesauce) |  | 0.1.1 | One MCP server for Calendar, Reminders, Mail, Notes, Contacts and more on your… |
+| 2026-11-16 13:26:24 | [io.filespin/filespin](https://github.com/FileSpin-io/filespin-agent-plugin) | FileSpin | 0.3.2 | Search, upload, edit, transform and share images, videos and documents in FileS… |
+| 2026-11-16 13:26:34 | za.co.bill/bill | Bill | 1.0.0 | Billing and bookkeeping for South African attorneys, advocates and their practi… |
+| 2026-11-16 13:31:01 | [com.golviva/golviva](https://github.com/target1m/golviva-mcp) | Golviva | 2.1.0 | Football match predictions, title race chances, player valuations, live scores,… |
+| 2026-11-16 13:31:24 | [com.url2pin/url2pin](https://github.com/url2pin/url2pin-mcp) | URL2Pin | 0.1.0 | Turn product and blog links into Pinterest pins, pick the right boards and sche… |
+| 2026-11-16 13:37:01 | [io.github.CloudCorpRecords/shelfscout](https://github.com/CloudCorpRecords/shelfscout) |  | 0.1.0 | Hobby price and stock checks, consumer recall search, card-grading guidance, se… |
+| 2026-11-16 13:37:05 | [com.qrcake/mcp](https://github.com/scriptedtools/qrcake-mcp) | QR Cake | 1.0.0 | Create, update, restyle and track the dynamic QR codes in your QR Cake account. |
+| 2026-11-16 13:38:30 | [io.github.NeoReader/neoreader-qr](https://github.com/NeoReader/neoreader-docs) | NeoReader QR | 1.0.0 | Create dynamic QR codes, change where they go and read scan stats from your AI… |
+| 2026-11-16 13:42:23 | [io.github.cputop/tldmint-mcp](https://github.com/cputop/tldmint-mcp) | TLDMint Live Domain & DNS MCP | 1.0.0 | Live 1.1.1.1 domain generator, 100-domain bulk check, DNS/WHOIS & verified prom… |
+| 2026-11-16 13:43:20 | io.github.masvc/shaft-coach | ShaftCoach | 1.0.0 | Golf shaft database with 5,300+ shafts from 66 makers. Search, compare, get rec… |
+| 2026-11-16 13:43:31 | [io.github.egbe-ai/egbe](https://github.com/egbe-ai/egbe-plugins) | Egbe | 1.0.0 | Hosting, databases, email, analytics, payments, ads and research for the busine… |
+| 2026-11-16 13:46:13 | [io.github.fredericosanntana/dpo2u](https://github.com/fredericosanntana/DPO2U) | DPO2U compliance | 1.1.0 | Check before you pay: counterparty compliance verdicts for AI agents, paid per… |
+| 2026-11-16 13:47:56 | [com.akshitanchan/applesauce](https://github.com/akshitanchan/applesauce) |  | 0.1.2 | One MCP server for Calendar, Reminders, Mail, Notes, Contacts and more on your… |
+| 2026-11-16 13:48:34 | [io.github.K11-Software-Solutions/performance-qa](https://github.com/K11-Software-Solutions/k11techlab-performance-qa-mcp) | k11 Performance QA | 0.1.0 | Load tests from your API flows: latency SLOs and significant regressions as rel… |
+| 2026-11-16 13:52:29 | eu.allaboard/mcp | All Aboard | 1.0.0 | Search and book train tickets and Interrail passes across Europe. |
+| 2026-11-16 13:54:58 | [uk.rickymoorhouse/blog](https://github.com/rickymoorhouse/blog) | Ricky Moorhouse's blog | 0.2.0 | Search and read Ricky Moorhouse's posts on API architecture, API Connect, SRE,… |
+| 2026-11-16 13:55:50 | [io.github.mindstone/mcp-server-pandadoc](https://github.com/mindstone/mcp-servers) | PandaDoc | 0.4.0 | PandaDoc document automation MCP server for Model Context Protocol hosts |
+| 2026-11-16 13:56:40 | [io.github.rdcahalane/genome-industrial-intelligence](https://github.com/rdcahalane/genome-mcp) | Genome Industrial Intelligence | 0.1.1 | Industrial intelligence for AI agents. Conviction scores and diligence for 10,0… |
+| 2026-11-16 13:56:46 | [org.aimlds/atom-tech-stack-decision-memo](https://github.com/nrupala/atom-services) | Tech stack decision memo — Atom | 0.1.0 | Tech stack decision memo: declared stack decision memo record checked per call. |
+| 2026-11-16 13:56:48 | [org.aimlds/atom-technical-documentation-pack](https://github.com/nrupala/atom-services) | Technical documentation pack — Atom | 0.1.0 | Technical documentation pack: declared technical documentation production recor… |
+| 2026-11-16 13:56:50 | [org.aimlds/atom-testing-strategy-regression-pack](https://github.com/nrupala/atom-services) | Testing strategy regression pack — Atom | 0.1.0 | Testing strategy regression pack: testing strategy + regression plan record che… |
+| 2026-11-16 13:56:51 | [org.aimlds/atom-uat-scenario-sign-off-pack](https://github.com/nrupala/atom-services) | Uat scenario sign off pack — Atom | 0.1.0 | UAT scenario sign-off pack: declared UAT scenario and sign-off record checked p… |
+| 2026-11-16 13:56:53 | [org.aimlds/atom-ux-flow-component-spec-pack](https://github.com/nrupala/atom-services) | Ux flow component spec pack — Atom | 0.1.0 | Ux flow component spec pack: declared UX flow + component specification record… |
+| 2026-11-16 13:59:39 | com.rushhourplanner/rush-hour-planner | Rush Hour Planner | 1.0.0 | Drive-time forecast: when to leave, the best departure time, commute traffic, o… |
+| 2026-11-16 13:59:58 | [io.github.yy31104/clipmind](https://github.com/yy31104/clipmind) | ClipMind | 1.3.0 | Search local video transcripts, screen text and timestamped frames. |
+| 2026-11-16 14:03:45 | [io.github.CloudCorpRecords/priceprobe](https://github.com/CloudCorpRecords/priceprobe) |  | 0.1.0 | Collectible price check: fair, over, or scalped versus the current retail media… |
+| 2026-11-16 14:05:09 | ai.whichagent/beauty | WhichAgent Beauty | 1.0.0 | Five tools for Orange County barbershop search; book returns an official handof… |
+| 2026-11-16 14:05:44 | com.unitbytes/goofish-xianyu-mcp | Unofficial Goofish (Xianyu) Search, Sel… | 1.0.0 | Unofficial MCP server for Goofish (Xianyu) deals, item details, seller stock, a… |
+| 2026-11-16 14:07:08 | com.status-social/status-social | Status Social | 1.0.0 | Create event invites, collect RSVPs, pick dates, split expenses and share photo… |
+| 2026-11-16 14:07:21 | [dev.wirecat/notion-cli](https://github.com/WireCatLabs/notion-cli) | WireCat notion | 0.2.0 | notion for agents over MCP. Set up a profile with the notion CLI first. |
+| 2026-11-16 14:08:47 | com.saymock/saymock | Saymock | 1.0.0 | Collaborative design board for AI agents: screens in HTML + Tailwind, edited li… |
+| 2026-11-16 14:08:59 | [io.github.eyvant/spm](https://github.com/eyvant/spm) | spm | 0.3.9 | Run and inspect persistent native services (systemd, launchd, Windows services)… |
+| 2026-11-16 14:09:32 | [com.cowpin/mcp-server](https://github.com/cowpin-ai/mcp-server) | Cowpin | 1.1.2 | Bookmark memory for AI agents: save links, search inside saved pages, recall wh… |
+| 2026-11-16 14:10:33 | uk.pensieve/pensieve | Pensieve | 1.11.0 | A company brain for AI agents: cited Pages on how your business works, built fr… |
+| 2026-11-16 14:12:24 | io.asialens/asialens | Asia Lens | 1.0.0 | Actualité économique et tech de l'Asie et de l'Océanie, en français. Lecture se… |
+| 2026-11-16 14:14:13 | [ai.egbe/egbe](https://github.com/egbe-ai/egbe-plugins) | Egbe | 1.0.0 | Hosting, databases, email, analytics, payments, ads and research for the busine… |
+| 2026-11-16 14:14:23 | hr.crnojaje/ponude | Crno Jaje | 1.0.0 | Crno Jaje's deals online now in Croatia: stays, spa, trips, beauty, food, with… |
+| 2026-11-16 14:17:36 | com.tehranindex/registry | Tehran Index | 1.0.0 | Sourced English records of Iran's technology companies: search, company facts,… |
+| 2026-11-16 14:17:55 | lol.postcards/postcards | postcards.lol | 1.0.0 | Send real printed postcards: AI writes and draws the card, you approve and pay,… |
+| 2026-11-16 14:18:45 | [com.facturlint/facturlint](https://github.com/facturlint/facturlint-python) | FacturLint - Factur-X 1.09.2 & BR-FR-CT… | 0.2.0 | Stateless Factur-X 1.09.2, EN 16931 & French BR-FR-CTC invoice validation and P… |
 
 ## Data source
 
