@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-11-16T21:22:25.740251Z,com.relayto/mcp,RELAYTO,1.0.0,,streamable-http,"Search, create, organize, share and measure interactive content in a RELAYTO workspace."
+2026-11-16T21:22:35.273646Z,com.relayto/site-content,RELAYTO published site,1.0.0,https://github.com/relayto/relayto-mcp,streamable-http,"Search and read the public pages, hubs and documents of any site published with RELAYTO. No sign-in."
+2026-11-16T21:24:58.12778Z,io.github.skyhitz/hitz-vault,HITZ Sovereign Vault,1.0.0,https://github.com/skyhitz/hitz-gravity,streamable-http,"Quote and build HITZ, XLM and USDC swaps on Stellar's Sovereign Vault. Never holds a key."
+2026-11-16T21:27:37.989528Z,com.vbtnl/vbtnl,vbtnl,1.0.0,,streamable-http,"MCP hosting for AI agents: Claude or Codex writes the code, runs it and sends a live link."
+2026-11-16T21:32:26.08202Z,pro.flowapi/whatsapp,Flow API (flowapi.pro) WhatsApp,1.0.0,https://github.com/flowapi-pro/flowapi,streamable-http,"WhatsApp on your own number: read new messages, reply, send files, polls, check numbers."
+2026-11-16T21:37:19.495814Z,com.raygister/raygister,Raygister,1.0.0,,streamable-http,"Read your construction projects and DPGF lines, and manage your Raygister library."
+2026-11-16T21:42:27.877561Z,eu.datastern/law,DataStern,1.0.0,https://github.com/datastern/plugins,streamable-http,"The law in force, inside your AI assistant: the exact provision, quoted from the official text."
+2026-11-16T21:43:32.287046Z,com.tripperoni/tripperoni,Tripperoni,1.0.0,,streamable-http,"Compare multi-day hiking and safari tours by departure: dates, prices, seats and trail status."
+2026-11-16T21:44:15.554245Z,io.github.klappay/klap-mcp,Klap,1.3.1,https://github.com/klappay/klap-mcp,,"Read and test crypto payments on the Klap API: charges, webhooks, networks and metrics."
+2026-11-16T21:48:26.701743Z,io.github.gordonkjlee/facthouse,Facthouse,0.32.0,https://github.com/gordonkjlee/facthouse,,Local AI memory: neuroscience-inspired Data→Information→Knowledge in SQLite you own.
+2026-11-16T21:55:46.392376Z,com.firstlinerestoration/tools,Firstline Restoration Tools,1.0.0,,streamable-http,Water damage restoration and flood-prevention planning tools.
+2026-11-16T21:56:17.668072Z,com.thegrateguys/tools,The Grate Guys Tools,1.0.0,,streamable-http,"Planning calculators for metal grating, drainage covers and fabrication."
+2026-11-16T21:56:55.626347Z,com.andarehomes/tools,Andare Homes Tools,1.0.0,,streamable-http,"Planning calculators for custom homes, additions and major renovations."
+2026-11-16T21:57:03.722371Z,com.timberrframing/tools,Timberr Framing Tools,1.0.0,,streamable-http,Planning calculators for structural framing and building projects.
+2026-11-16T21:57:12.165351Z,com.harrowgategroup/tools,Harrowgate Group Tools,1.0.0,,streamable-http,Planning tools for commercial paving and site work.
+2026-11-16T21:57:20.558767Z,com.ardenvaleconstruction/tools,Ardenvale Construction Tools,1.0.0,,streamable-http,Planning tools for commercial and industrial construction.
+2026-11-16T22:02:36.65209Z,dk.rigsdata/rigsdata,Rigsdata,1.0.0,,streamable-http,"Danish public-sector documents for AI: parliament, consultations, ministries, municipalities, EU."
+2026-11-16T22:06:36.897369Z,io.github.udaysinh-git/tether,Tether,0.3.5,https://github.com/udaysinh-git/tether,,"Use the Chrome or Firefox tabs you share, signed in as you: read, click, fill forms, debug."
+2026-11-16T22:06:37.740916Z,app.qiksy/bridge,Qiksy Bridge,1.86.2,https://github.com/lesnyak-cyber/qiksy-mcp,,"Browser MCP for the Chrome you already have open, via the free Qiksy Bridge extension."
+2026-11-16T22:09:06.477217Z,app.vercel.ora-x402-gateway/sensations-mergulho,,0.5.2,https://github.com/fomosdeimos-gif/orum-ora-x402,streamable-http,"MCP server for 0001SENSATIONS: 107-level textual descent; only leave_trace writes (public, append)"
+2026-11-16T22:12:42.982313Z,uk.ukintel/ukintel,ukintel.uk: UK company and grant intelligence,1.4.0,,streamable-http,"Companies House and Find a Grant as paid JSON for agents. USDC via x402, no signup."
+2026-11-16T22:12:55.995184Z,com.kidincare/kidincare,Kidincare,1.0.0,,streamable-http,"Search licensed US childcare centers, daycares and preschools by city, state or ZIP code."
+2026-11-16T22:12:58.466782Z,io.runners/mcp-server,runners.io,1.0.0,,streamable-http,"Read your runners.io organisation's jobs, logs, test results, cache and spend from an AI agent."
+2026-11-16T22:13:45.217692Z,network.angler/trade,Angler,1.0.0,,streamable-http,"Perp DEX funding arbitrage, funding rates, prices and open interest across 25+ venues. Read-only."
+2026-11-16T22:13:45.858304Z,network.angler/news,Angler News,1.0.0,,streamable-http,"Real-time crypto and stock news scored by market impact, tagged with the assets each story moves."
+2026-11-16T22:14:52.555025Z,app.struq/struq,Struq MCP,1.0.3,,streamable-http,"Direction, award-tier motion blocks and a local check for coding agents that build websites."
+2026-11-16T22:16:27.077129Z,com.sentrisend/validation,SentriSend Email Validation,0.1.0,https://github.com/sentrisend/SentriSend,streamable-http,"SentriSend checks email syntax, disposable domains and DNS/MX records; it never sends email."
+2026-11-16T22:18:47.553592Z,com.buyersx/check-quote-lines,BuyersX,1.0.0,,streamable-http,"Compares IT quote lines with USAC E-Rate contract prices, funding years 2025-26."

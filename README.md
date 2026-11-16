@@ -9,48 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 21:20 UTC
+## Latest list — 2026-11-16 22:19 UTC
 
-New MCP servers published between 2026-11-16 20:20 UTC and 2026-11-16 21:20 UTC.
+New MCP servers published between 2026-11-16 21:20 UTC and 2026-11-16 22:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-16T21-20-07-193436Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-16T22-19-27-587553Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-16 20:25:01 | com.supplierbrief/fda-supplier-records | Supplier Brief | 1.0.0 | Free FDA records on food suppliers: import alerts, refusals, inspections, warni… |
-| 2026-11-16 20:31:04 | [com.heistclips/heistclips](https://github.com/2016judea/heistclips) | heistclips – GTA 6 clipping | 0.1.0 | Find clip-worthy moments in Twitch streams from chat spikes; rank clipping camp… |
-| 2026-11-16 20:35:25 | ai.triptime/triptime-ai | Triptime AI | 1.0.0 | Ready-made day-by-day trip plans for 520+ destinations, plus custom trip plans… |
-| 2026-11-16 20:36:07 | [io.github.agentome-ai/agentome](https://github.com/agentome-ai/agentome) | Agentome | 0.3.0 | Manage AI agents, teams, projects and tasks on your own self-hosted Agentome se… |
-| 2026-11-16 20:43:08 | [io.github.memeanalyst/uspto-trademark-search-mcp](https://github.com/memeanalyst/uspto-trademark-search-mcp) | USPTO Trademark Search | 1.0.0 | Search USPTO trademark records by wordmark, owner, or class from any MCP client. |
-| 2026-11-16 20:43:09 | [io.github.memeanalyst/lighthouse-audit-mcp](https://github.com/memeanalyst/lighthouse-audit-mcp) | Lighthouse Audit | 1.0.0 | Run Google Lighthouse audits on any URL — performance, SEO, accessibility score… |
-| 2026-11-16 20:44:25 | pro.cursosgratis/cursos-gratis | Cursos gratis en español | 1.0.0 | Search 1,900+ free Spanish-language courses (YouTube, Udemy), rankings and lear… |
-| 2026-11-16 20:44:29 | io.github.christopheraltenburger/cloudfluencers |  | 1.0.0 | Find influencers on Instagram, TikTok and YouTube, analyse their content and ma… |
-| 2026-11-16 20:45:24 | [io.github.super-agent-os/super-artifacts](https://github.com/super-agent-os/plugins) | Super Artifacts | 0.244.0 | Publish live pages from any agent, collect what visitors submit, and read it ba… |
-| 2026-11-16 20:46:32 | ai.fundas/deepread | Deepread | 1.0.0 | Customer intelligence for BigCommerce: churn risk, customer value, reorders, up… |
-| 2026-11-16 20:47:47 | app.misento/imessage | iMessage by Misento | 1.0.0 | iMessage for AI agents, from your iPhone. No Mac needed, and you choose which c… |
-| 2026-11-16 20:49:28 | cloud.adal/adal-cloud | Adal Cloud | 1.0.0 | Receive and inspect webhooks at your own public HTTPS endpoints. |
-| 2026-11-16 20:49:30 | pl.kartoniki/box-pricing | Kartoniki.pl – custom cardboard box pri… | 0.2.0 | Live prices for custom corrugated cardboard boxes made in Poland: per piece, pe… |
-| 2026-11-16 20:50:34 | [ai.robosystems/robosystems](https://github.com/RoboFinSystems/robosystems) | RoboSystems | 1.10.3 | The open-source knowledge graph for finance: your ledger and 8,000+ public comp… |
-| 2026-11-16 20:51:38 | com.lowlanddata/ecommerce | LowlandData E-commerce | 1.0.0 | AliExpress and Amazon as JSON: search results, product details, best sellers, p… |
-| 2026-11-16 20:53:27 | [io.github.ranaji10/aigorithmic-butterfly-effect](https://github.com/ranaji10/aigorithmic-butterfly-effect) | AIgorithmic Butterfly Effect | 2.1.0 | A slow, open artwork (2021 to 2046). Listen, then leave one small mark as yours… |
-| 2026-11-16 20:56:00 | es.unacasa/unacasa | unacasa | 1.1.0 | Spanish real estate data: buildings, homes, plots, streets and areas, with sour… |
-| 2026-11-16 20:56:06 | [io.github.Jackpkn/apexuse](https://github.com/Jackpkn/apexuse) | ApexUse — Computer Use MCP Server | 0.2.1 | Computer Use MCP server in Rust with Accessibility, Set-of-Mark vision, OCR, an… |
-| 2026-11-16 20:56:48 | io.startitup/nastartujto-sales | NASTARTUJTO.cz & STARTITUP.io – Free We… | 2.0.0 | Free custom website design, ARES quote, Google Ads funnel & 24/7 AI web concier… |
-| 2026-11-16 21:01:55 | com.entryping/signs | EntryPing sign makers | 1.0.0 | Find a printable door sign maker and get a link with your wording already fille… |
-| 2026-11-16 21:02:53 | [io.github.mohitrajdeo/nephis-mcp-server](https://github.com/mohitrajdeo/nephis-mcp-server) | NEPHIS MCP Server | 1.0.6 | Sub-6ms microVM sandboxes, zero-copy Postgres branching, and fast code executio… |
-| 2026-11-16 21:03:01 | ai.exceedloop/specs | ExceedLoop Specs | 1.0.366 | Spec-driven delivery: plans, solutions, ADRs, UX docs, tasks, rules and skills… |
-| 2026-11-16 21:03:11 | [quest.site/sitequest-hosting](https://github.com/Sitequest-Software/sitequest-mcp) | Sitequest Hosting | 1.0.0 | VPS, webspaces, domains and DNS in EU datacenters, managed over MCP. |
-| 2026-11-16 21:04:15 | com.themarketpirates/fundamental-data | Market Pi-Rates | 1.0.0 | Fundamentals for 25,000+ listed companies in 5 markets: 120+ metrics, ratios an… |
-| 2026-11-16 21:04:16 | com.sheetgo/mcp | Sheetgo | 1.0.0 | Connect an AI assistant to your Google Sheets, Drive, Docs, PDFs, BigQuery and… |
-| 2026-11-16 21:05:36 | [io.github.VaibhavBansal26/grants-discovery-mcp-server](https://github.com/VaibhavBansal26/grants-discovery-mcp-server) |  | 0.1.0 | Search US federal grants, read NOFO details, and research past awards. No API k… |
-| 2026-11-16 21:05:53 | xyz.gondi/mcp | GONDI | 1.0.0 | GONDI NFT marketplace: live prices, bids, listings, sales and NFT lending data… |
-| 2026-11-16 21:08:38 | [io.github.laurent512/opencalque](https://github.com/laurent512/opencalque) | OpenCalque | 1.10.0 | Draw 2D floor plans as JSON: walls, doors, rooms, furniture. Check, measure, ex… |
-| 2026-11-16 21:11:17 | ai.exceedloop/guardcell | ExceedLoop Guardcell | 1.0.0 | Security scanning for code, containers and IaC: request scans, read findings, r… |
-| 2026-11-16 21:11:18 | ai.exceedloop/sketchpad | ExceedLoop Sketchpad | 0.1.0 | Design canvas for agents: build pages and components, render to PNG, export cod… |
-| 2026-11-16 21:11:36 | [io.github.onlyflowstech/servicenow-mcp](https://github.com/onlyflowstech/servicenow-mcp) | OnlyFlows ServiceNow MCP | 2.3.0 | Governed ServiceNow MCP: per-profile table and field policy, dry-run batches, a… |
-| 2026-11-16 21:15:06 | ai.stork/mcp | Stork | 1.0.0 | Make talking-photo video, singing video and voiceover, and search a directory o… |
-| 2026-11-16 21:19:01 | com.livefingerlakes/flx-one | FLX ONE agent gateway | 1.1.0 | Read-only Finger Lakes and Southern Tier places, hours, events and conditions.… |
-| 2026-11-16 21:19:02 | io.github.Nero-Engine/perplexity-search-api | Perplexity Search API | 0.1.0 | Perplexity Sonar answers with numbered citations in bulk, plus brand, competito… |
+| 2026-11-16 21:22:25 | com.relayto/mcp | RELAYTO | 1.0.0 | Search, create, organize, share and measure interactive content in a RELAYTO wo… |
+| 2026-11-16 21:22:35 | [com.relayto/site-content](https://github.com/relayto/relayto-mcp) | RELAYTO published site | 1.0.0 | Search and read the public pages, hubs and documents of any site published with… |
+| 2026-11-16 21:24:58 | [io.github.skyhitz/hitz-vault](https://github.com/skyhitz/hitz-gravity) | HITZ Sovereign Vault | 1.0.0 | Quote and build HITZ, XLM and USDC swaps on Stellar's Sovereign Vault. Never ho… |
+| 2026-11-16 21:27:37 | com.vbtnl/vbtnl | vbtnl | 1.0.0 | MCP hosting for AI agents: Claude or Codex writes the code, runs it and sends a… |
+| 2026-11-16 21:32:26 | [pro.flowapi/whatsapp](https://github.com/flowapi-pro/flowapi) | Flow API (flowapi.pro) WhatsApp | 1.0.0 | WhatsApp on your own number: read new messages, reply, send files, polls, check… |
+| 2026-11-16 21:37:19 | com.raygister/raygister | Raygister | 1.0.0 | Read your construction projects and DPGF lines, and manage your Raygister libra… |
+| 2026-11-16 21:42:27 | [eu.datastern/law](https://github.com/datastern/plugins) | DataStern | 1.0.0 | The law in force, inside your AI assistant: the exact provision, quoted from th… |
+| 2026-11-16 21:43:32 | com.tripperoni/tripperoni | Tripperoni | 1.0.0 | Compare multi-day hiking and safari tours by departure: dates, prices, seats an… |
+| 2026-11-16 21:44:15 | [io.github.klappay/klap-mcp](https://github.com/klappay/klap-mcp) | Klap | 1.3.1 | Read and test crypto payments on the Klap API: charges, webhooks, networks and… |
+| 2026-11-16 21:48:26 | [io.github.gordonkjlee/facthouse](https://github.com/gordonkjlee/facthouse) | Facthouse | 0.32.0 | Local AI memory: neuroscience-inspired Data→Information→Knowledge in SQLite you… |
+| 2026-11-16 21:55:46 | com.firstlinerestoration/tools | Firstline Restoration Tools | 1.0.0 | Water damage restoration and flood-prevention planning tools. |
+| 2026-11-16 21:56:17 | com.thegrateguys/tools | The Grate Guys Tools | 1.0.0 | Planning calculators for metal grating, drainage covers and fabrication. |
+| 2026-11-16 21:56:55 | com.andarehomes/tools | Andare Homes Tools | 1.0.0 | Planning calculators for custom homes, additions and major renovations. |
+| 2026-11-16 21:57:03 | com.timberrframing/tools | Timberr Framing Tools | 1.0.0 | Planning calculators for structural framing and building projects. |
+| 2026-11-16 21:57:12 | com.harrowgategroup/tools | Harrowgate Group Tools | 1.0.0 | Planning tools for commercial paving and site work. |
+| 2026-11-16 21:57:20 | com.ardenvaleconstruction/tools | Ardenvale Construction Tools | 1.0.0 | Planning tools for commercial and industrial construction. |
+| 2026-11-16 22:02:36 | dk.rigsdata/rigsdata | Rigsdata | 1.0.0 | Danish public-sector documents for AI: parliament, consultations, ministries, m… |
+| 2026-11-16 22:06:36 | [io.github.udaysinh-git/tether](https://github.com/udaysinh-git/tether) | Tether | 0.3.5 | Use the Chrome or Firefox tabs you share, signed in as you: read, click, fill f… |
+| 2026-11-16 22:06:37 | [app.qiksy/bridge](https://github.com/lesnyak-cyber/qiksy-mcp) | Qiksy Bridge | 1.86.2 | Browser MCP for the Chrome you already have open, via the free Qiksy Bridge ext… |
+| 2026-11-16 22:09:06 | [app.vercel.ora-x402-gateway/sensations-mergulho](https://github.com/fomosdeimos-gif/orum-ora-x402) |  | 0.5.2 | MCP server for 0001SENSATIONS: 107-level textual descent; only leave_trace writ… |
+| 2026-11-16 22:12:42 | uk.ukintel/ukintel | ukintel.uk: UK company and grant intell… | 1.4.0 | Companies House and Find a Grant as paid JSON for agents. USDC via x402, no sig… |
+| 2026-11-16 22:12:55 | com.kidincare/kidincare | Kidincare | 1.0.0 | Search licensed US childcare centers, daycares and preschools by city, state or… |
+| 2026-11-16 22:12:58 | io.runners/mcp-server | runners.io | 1.0.0 | Read your runners.io organisation's jobs, logs, test results, cache and spend f… |
+| 2026-11-16 22:13:45 | network.angler/trade | Angler | 1.0.0 | Perp DEX funding arbitrage, funding rates, prices and open interest across 25+… |
+| 2026-11-16 22:13:45 | network.angler/news | Angler News | 1.0.0 | Real-time crypto and stock news scored by market impact, tagged with the assets… |
+| 2026-11-16 22:14:52 | app.struq/struq | Struq MCP | 1.0.3 | Direction, award-tier motion blocks and a local check for coding agents that bu… |
+| 2026-11-16 22:16:27 | [com.sentrisend/validation](https://github.com/sentrisend/SentriSend) | SentriSend Email Validation | 0.1.0 | SentriSend checks email syntax, disposable domains and DNS/MX records; it never… |
+| 2026-11-16 22:18:47 | com.buyersx/check-quote-lines | BuyersX | 1.0.0 | Compares IT quote lines with USAC E-Rate contract prices, funding years 2025-26. |
 
 ## Data source
 
