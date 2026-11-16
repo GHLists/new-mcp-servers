@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-11-16T19:19:28.197147Z,com.hollerpost/mcp,Hollerpost,0.8.1,,streamable-http,"Email marketing for small business: draft, preview, schedule and report on campaigns."
+2026-11-16T19:19:28.880426Z,io.github.Good-Feels/a-good-sign,A Good Sign: Apple Health MCP,0.2.0,,streamable-http,"Connect Apple Health to AI via MCP. Requires A Good Sign iPhone app, sync and subscription."
+2026-11-16T19:24:41.625347Z,run.webfetch/webfetch,webfetch.run,1.0.0,,streamable-http,"Fetch any URL as clean markdown, HTML, or a screenshot for AI agents."
+2026-11-16T19:25:59.022605Z,io.github.Scrape-Technology/abrasio-mcp,Abrasio,0.1.1,https://github.com/Scrape-Technology/abrasio-mcp,,"Stealth browser for AI agents: navigate, click, type and extract on bot-protected sites."
+2026-11-16T19:26:29.045876Z,io.agentsla/agentsla,AgentSLA,2.2.0,,streamable-http,"Check API and MCP endpoints, search 21k indexed APIs, signed SLA checks and refundable USDC escrow."
+2026-11-16T19:26:45.194765Z,io.github.Scrape-Technology/markudown-mcp,MarkUDown,2.0.0,https://github.com/Scrape-Technology/markudown-mcp,,"Web scraping for AI agents: scrape, crawl, search and extract any site as clean Markdown or JSON."
+2026-11-16T19:32:05.445727Z,io.github.K11-Software-Solutions/appium-qa,k11 Appium QA,0.1.0,https://github.com/K11-Software-Solutions/k11techlab-appium-qa-mcp,,"Self-healing Appium locators for Android and iOS apps, healed on the screen each test failed on."
+2026-11-16T19:32:26.60865Z,io.github.jevil25/whatsapp-messaging-api-mcp,WhatsApp Messaging API,2.0.0,https://github.com/jevil25/whatsapp-messaging-api-mcp,,Send WhatsApp messages from Claude. No Meta Business approval or WhatsApp Business account.
+2026-11-16T19:33:14.582322Z,cloud.araras/araras,Araras,0.1.0,,streamable-http,View an Araras project and update its description.
+2026-11-16T19:35:00.958445Z,ai.staffbots/dispatch,StaffBots,1.0.0,,streamable-http,"Public StaffBots plans, industry pages, comparisons, and docs. No auth and no tenant data."
+2026-11-16T19:35:05.035358Z,dev.techny/techny,Techny,1.0.0,,streamable-http,"Open tech roles in Egypt, Saudi Arabia and the UAE, from each company's careers page."
+2026-11-16T19:36:53.600231Z,io.github.c0decave/multi-websearch-mcp,websearch,0.3.0rc2,https://github.com/c0decave/multi-websearch-mcp,,"Captcha-avoiding web, news, image and video search plus page fetching over free sources"
+2026-11-16T19:43:35.366601Z,io.github.gambadio/applemail-relay,InboxPip,1.0.0,,streamable-http,Connect your email accounts and iCloud Calendar to AI with account-specific permissions.
+2026-11-16T19:44:55.688813Z,io.github.mindstone/mcp-server-hubspot,HubSpot,0.5.0,https://github.com/mindstone/mcp-servers,,"HubSpot CRM: contacts, deals, tickets, line items, properties, marketing, files, workflows, threads"
+2026-11-16T19:46:22.75156Z,com.slablineage/slablineage,SlabLineage,1.0.0,,streamable-http,"Trading card prices, grading math, card shows, and collection and eBay tools for collectors."
+2026-11-16T19:48:27.128012Z,io.github.Hichem212121/seedreel,SeedReel,1.0.0,,streamable-http,"Search organic TikTok and Instagram Reels videos made for businesses, and read their breakdowns."
+2026-11-16T19:52:18.6164Z,com.textbotapp/textbot,TextBot,1.0.0,,streamable-http,"Text your own phone from Claude and ChatGPT: reminders, alerts, scheduled SMS. Free 5 texts/mo."
+2026-11-16T19:52:44.061282Z,de.abnehmen-mit-arzt/termine,AMITA – Termin zur ärztlichen Abnehmberatung,1.0.0,,streamable-http,Find AMITA weight-loss doctors in Germany and book the free first consultation.
+2026-11-16T19:54:44.660896Z,io.github.JaeTaekOh/rocket-launcher,Rocket Launcher,0.2.1,https://github.com/JaeTaekOh/RocketLauncher,,Free MCP server that guides an Android/iOS app through Google Play and App Store submission.
+2026-11-16T20:02:39.5169Z,io.github.jadikar-arch/europa-mcp,Europa,0.4.3,https://github.com/jadikar-arch/euro-data-mcp,,"Find and fetch European open data: Eurostat, EU Parliament, data.europa.eu, national stats"
+2026-11-16T20:03:03.05066Z,com.mineral-check.www/katalog,Mineral-Check,1.0.0,,streamable-http,"Öffentliche Mineral-Check-Tests suchen und Links zu Proben, Ablauf, Versand und FAQ abrufen."
+2026-11-16T20:03:31.398935Z,com.tgpaybot/merchant-api,TgPay Crypto Merchant API,1.0.3,,streamable-http,"Accept crypto payments via the TgPay Crypto Merchant API — invoices, subscriptions, webhooks."
+2026-11-16T20:04:40.743674Z,io.github.Nullclear-Protocol/nullclear,NullClear Arbiter,1.4.0,https://github.com/Nullclear-Protocol/nullclear,streamable-http,"Zero-key EVM/Solana token forensics, tx simulator, calldata decoder & x402 escrow arbiter"
+2026-11-16T20:05:22.712063Z,app.hiregps/resume-risk-checker,Resume Risk Checker by HireGPS,1.0.0,,streamable-http,"Checks job dates for short stays and gaps, and looks up HireGPS resume risks and CV language rules"
+2026-11-16T20:05:58.090236Z,com.xainvault/xainvault,Xainvault,1.0.0,,streamable-http,"Scan AI skill packages, apply policy and human approval, and distribute approved versions via MCP."
+2026-11-16T20:06:14.435674Z,io.github.jenny-ouyang/vibe-coding-builders,Vibe Coding Builders,1.0.0,,streamable-http,Find builders who ship with AI and their launches; add and update your own projects.
+2026-11-16T20:16:06.953174Z,no.patentstyret/opendata,Patentstyret Open Data,1.0.0,,streamable-http,"Search Norwegian trademarks, patents and designs, and company IP portfolios (Patentstyret/NIPO)."
+2026-11-16T20:16:27.773294Z,com.menocost/menopause-prices,MenoCost.com: US menopause care prices,1.0.0,,streamable-http,"Prices US online menopause services charge for HRT and hot flash drugs, read on each service's page."
+2026-11-16T20:18:18.182758Z,io.github.valueguysam/xoom-foods,XOOM FOODS,1.0.0,https://github.com/valueguysam/xoom-foods-mcp,sse,"Browse 105+ restaurant meals, check plans, compare prices, get order links."
+2026-11-16T20:20:14.952109Z,tech.huntshare/hunt,HÜNT,1.2.0,,streamable-http,"Candidate database for recruiters: search 1B+ profiles, read profiles, contacts, candidate checks."
