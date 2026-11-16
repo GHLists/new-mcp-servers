@@ -9,46 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 23:19 UTC
+## Latest list — 2026-11-16 00:22 UTC
 
-New MCP servers published between 2026-11-15 22:21 UTC and 2026-11-15 23:19 UTC.
+New MCP servers published between 2026-11-15 23:19 UTC and 2026-11-16 00:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-15T23-19-24-035626Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-16T00-22-29-932677Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-15 22:21:46 | com.coawp/internships | coawp | 2.0.0 | Search open internships, co-ops and student jobs from employers' own job boards… |
-| 2026-11-15 22:23:32 | me.askbestie/beauty | Ask Bestie Beauty | 1.0.0 | Which makeup products people choose: rankings from US retailer bestseller lists… |
-| 2026-11-15 22:23:32 | me.askbestie/cars | Ask Bestie Cars | 1.0.0 | Most registered new cars in Sweden: monthly registration share by model, from o… |
-| 2026-11-15 22:23:32 | me.askbestie/computers | Ask Bestie Computers | 1.0.0 | Monthly rankings of the PC parts, peripherals and laptops people actually pick,… |
-| 2026-11-15 22:24:04 | [io.github.burmanharry/cleaningredients](https://github.com/burmanharry/cleaningredients) | CleanIngredients | 1.0.0 | Research China-origin botanicals, supplier evidence gaps, sourcing briefs and i… |
-| 2026-11-15 22:25:19 | [io.github.CloudCorpRecords/omniquery](https://github.com/CloudCorpRecords/omniquery) |  | 0.1.0 | One natural-language search over 50+ live data providers: markets, filings, pap… |
-| 2026-11-15 22:32:40 | [io.github.CloudCorpRecords/rolesignal](https://github.com/CloudCorpRecords/rolesignal) |  | 0.1.0 | Company hiring signals: open-role counts, daily role history and day-by-day hir… |
-| 2026-11-15 22:34:59 | com.postjr/postjr | PostJr | 0.1.0 | Write, schedule, check and cancel social posts on your PostJr calendar from any… |
-| 2026-11-15 22:35:27 | [io.github.INTENTIUS/behold](https://github.com/INTENTIUS/behold) | behold | 0.32.0 | Your infrastructure repo as a graph, from the files. Draws Terraform roots, no… |
-| 2026-11-15 22:39:58 | [io.github.CloudCorpRecords/modelrelay](https://github.com/CloudCorpRecords/modelrelay) |  | 0.1.0 | Open AI models through one API: chat completions, live model catalogue, prices,… |
-| 2026-11-15 22:42:36 | de.profuturestrading/edgebook | PFT-EdgeBook Trading Journal | 1.0.0 | Read-only access to your PFT-EdgeBook futures trading journal: trades, stats, p… |
-| 2026-11-15 22:43:21 | com.rootmention/rootmention | RootMention | 1.0.0 | Public SEO audits, break-even calculations and RootMention service information. |
-| 2026-11-15 22:43:31 | app.clipzi/clipzi | Clipzi | 1.1.0 | Turn long videos into finished vertical clips: find moments, frame, caption and… |
-| 2026-11-15 22:46:58 | [io.github.CloudCorpRecords/liqscope](https://github.com/CloudCorpRecords/liqscope) |  | 0.1.0 | Crypto liquidation data: liquidation maps, totals, funding, open interest and f… |
-| 2026-11-15 22:47:30 | com.briefsenden/mcp | briefsenden.com | 1.0.0 | Send PDFs as printed letters through Deutsche Post, check their status, cost an… |
-| 2026-11-15 22:53:56 | [io.github.CloudCorpRecords/serpbridge](https://github.com/CloudCorpRecords/serpbridge) |  | 0.1.0 | Google, Bing, DuckDuckGo and Google Maps search results, forwarded from the Lit… |
-| 2026-11-15 23:01:14 | [io.github.CloudCorpRecords/spinspec](https://github.com/CloudCorpRecords/spinspec) |  | 0.1.0 | Centrifuge specs, stock and RCF sizing for remanufactured Alfa Laval centrifuge… |
-| 2026-11-15 23:01:38 | [io.github.banana-intelligence-dot-ai/spookyparticles](https://github.com/banana-intelligence-dot-ai/spookyparticles) | Spooky Particles | 1.0.0 | Checks Vercel deploys, sites and cron jobs; sends the cause of a break to your… |
-| 2026-11-15 23:05:12 | com.oltechx.www/marketplace | OLTechX | 1.1.0 | Search Bulgarian tech listings, real used prices per model, GPU FPS estimates a… |
-| 2026-11-15 23:07:10 | [io.usefulapi/perfectview](https://github.com/m190/usefulapi-mcp) | PerfectView MCP by usefulapi | 1.0.0 | Search relations, read notes and products, and add relation notes in PerfectVie… |
-| 2026-11-15 23:07:10 | [io.usefulapi/elementary-pos](https://github.com/m190/usefulapi-mcp) | Elementary POS MCP by usefulapi | 1.0.0 | List receipts, stock and customers, edit customers and add stock changes in Ele… |
-| 2026-11-15 23:07:10 | [io.usefulapi/clearooms](https://github.com/m190/usefulapi-mcp) | Clearooms MCP by usefulapi | 1.0.0 | List desks, rooms and bookings, book a desk and cancel bookings in Clearooms. |
-| 2026-11-15 23:08:29 | [io.github.CloudCorpRecords/partshoal](https://github.com/CloudCorpRecords/partshoal) |  | 0.1.0 | Marine spare-parts catalogue: OEM brands, models and compatible part numbers, w… |
-| 2026-11-15 23:12:41 | [org.aimlds/atom-acp-protocol-integration-review](https://github.com/nrupala/atom-services) | ACP protocol integration review — Atom | 0.1.0 | ACP protocol integration review, delivered per API call as an atom service on C… |
-| 2026-11-15 23:12:45 | [org.aimlds/atom-agent-context-packaging](https://github.com/nrupala/atom-services) | Agent context packaging — Atom | 0.1.0 | Agent context packaging verdict, delivered per API call as an atom service on C… |
-| 2026-11-15 23:12:47 | [org.aimlds/atom-agent-interoperability-design](https://github.com/nrupala/atom-services) | Agent interoperability design — Atom | 0.1.0 | Agent interoperability design, delivered per API call as an atom service on Con… |
-| 2026-11-15 23:12:48 | [org.aimlds/atom-agentic-coding-practice](https://github.com/nrupala/atom-services) | Agentic coding practice — Atom | 0.1.0 | Agentic coding practice verdict, delivered per API call as an atom service on C… |
-| 2026-11-15 23:12:50 | [org.aimlds/atom-algorithm-design-implementation](https://github.com/nrupala/atom-services) | Algorithm design implementation — Atom | 0.1.0 | Algorithm design implementation, delivered per API call as an atom service on C… |
-| 2026-11-15 23:12:51 | [org.aimlds/atom-applied-ml-validation](https://github.com/nrupala/atom-services) | Applied ml validation — Atom | 0.1.0 | Applied ML validation, delivered per API call as an atom service on Conduit Ato… |
-| 2026-11-15 23:12:52 | [org.aimlds/atom-architecture-decision-record](https://github.com/nrupala/atom-services) | Architecture decision record — Atom | 0.1.0 | Architecture decision record audit, delivered per API call as an atom service o… |
-| 2026-11-15 23:15:45 | [io.github.CloudCorpRecords/canarymail](https://github.com/CloudCorpRecords/canarymail) |  | 0.1.0 | Email authentication checks: DMARC, SPF and DKIM, SPF building, bounce and repo… |
-| 2026-11-15 23:16:48 | com.tkawen/intelligence-gateway |  | 1.2.0 | Verify Algerian certificates (Algeria Certify) and find or request B2B HSE trai… |
+| 2026-11-15 23:23:02 | [io.github.CloudCorpRecords/dnsposture](https://github.com/CloudCorpRecords/dnsposture) |  | 0.1.0 | Domain hygiene dossiers: DNS, SPF, DMARC, DKIM, TLS, WHOIS, headers and web-sur… |
+| 2026-11-15 23:24:37 | com.confbuild/confbuild | confBuild | 0.32.1 | Create, edit, validate, inspect and export parametric 3D models in your confBui… |
+| 2026-11-15 23:27:45 | com.gexiro/dach-pulse-mcp | Gexiro DACH Pulse & Alexa Voice Suite M… | 2.1.0 | Keyless DACH & home MCP (18 tools): DB rail, EPEX power, NINA/DWD alerts, fuel,… |
+| 2026-11-15 23:30:02 | [io.github.CloudCorpRecords/domainledger](https://github.com/CloudCorpRecords/domainledger) |  | 0.1.0 | Live RDAP domain availability with registration prices, brand scores and resale… |
+| 2026-11-15 23:30:09 | [io.usefulapi/freshchat](https://github.com/m190/usefulapi-mcp) | Freshchat MCP by usefulapi | 1.0.0 | Find customers, read conversations and messages, list agents and groups, send r… |
+| 2026-11-15 23:32:50 | br.com.andreprazeresimoveis/faro | Faro · Imóveis de Alto Padrão | 1.0.0 | Imóveis de alto padrão em São Paulo e Alphaville, com oportunidades de preço. P… |
+| 2026-11-15 23:37:38 | [io.github.CloudCorpRecords/lenderscope](https://github.com/CloudCorpRecords/lenderscope) |  | 0.1.0 | Investor-lender data from HMDA: DSCR lenders by state, loan programs and indica… |
+| 2026-11-15 23:42:30 | io.exgo/marketplace | EX & GO marketplace | 2.0.0 | Search, post and manage classifieds and shops on EX & GO, Ukraine and Europe, i… |
+| 2026-11-15 23:45:16 | [io.github.CloudCorpRecords/trustbeacon](https://github.com/CloudCorpRecords/trustbeacon) |  | 0.1.0 | Behavioral trust scores, attestation checks and preflight verdicts for MCP serv… |
+| 2026-11-15 23:47:17 | [io.github.MISHHF93/atlas-explain](https://github.com/MISHHF93/atlas-explain) | ATLAS Explain | 1.4.0 | Market jargon in plain language: terms, official figures, crypto prices and cha… |
+| 2026-11-15 23:49:39 | ai.ototo/quickbooks | Ototo for QuickBooks | 1.0.0 | QuickBooks Online for AI assistants, with per-user, per-company permissions. |
+| 2026-11-15 23:52:31 | [io.github.CloudCorpRecords/taskden](https://github.com/CloudCorpRecords/taskden) |  | 0.1.0 | DoneBear task workspace over MCP: tasks, projects, checklists, comments and lab… |
+| 2026-11-15 23:54:32 | [com.kaigen3d/kaigen](https://github.com/Kaigen-Technologies/kaigen-plugins) | Kaigen | 0.1.0 | Kaigen, the 3D engine made for AI agents: install, first-game commands, templat… |
+| 2026-11-15 23:58:52 | [city.close/close-api](https://github.com/henryspatialanalysis/wtm.api) | Close API | 1.2.1 | Walk, bike, and transit travel times from every US census block to nearby ameni… |
+| 2026-11-16 00:00:13 | [io.github.CloudCorpRecords/headguard](https://github.com/CloudCorpRecords/headguard) |  | 0.1.0 | Paste HTTP response headers and get seven security checks with copy-paste fixes… |
+| 2026-11-16 00:00:35 | ai.transept/transept | Transept | 1.0.0 | Translate documents with glossaries, style guides and translation memory; run a… |
+| 2026-11-16 00:01:52 | [io.github.mirastacklabs-ai/mirafleet](https://github.com/mirastacklabs-ai/mirafleet) |  | 0.6.0 | Orchestrate fleets of servers from an MCP client through a central mirafleet se… |
+| 2026-11-16 00:05:20 | gg.playsurge/playsurge | PlaySurge | 1.0.0 | Check Roblox game ideas against tracked player data, find rising themes and gam… |
+| 2026-11-16 00:06:38 | [io.github.Semmargl/figma-proxy-mcp](https://github.com/Semmargl/figma-proxy-mcp) | Figma Proxy MCP | 1.1.1 | Figma → code: tokenized IR, PNG renders and SSIM/pixel visual diff to verify bu… |
+| 2026-11-16 00:07:29 | [io.github.CloudCorpRecords/datepoll](https://github.com/CloudCorpRecords/datepoll) |  | 0.1.0 | Create group date polls in one call, read the votes, and close the poll when de… |
+| 2026-11-16 00:10:04 | com.bowerbirdhq/studio | Bowerbird Studio | 1.0.0 | Turn a screen recording into a narrated how-to video, step-by-step guide and wa… |
+| 2026-11-16 00:10:46 | [io.github.NovaPixell/lexgrid-mcp](https://github.com/NovaPixell/lexgrid-mcp) | NovaPixel LexGrid | 1.0.0 | Deterministic EU Compliance, Tax, Public Procurement & Labour Law Engine for AI… |
+| 2026-11-16 00:14:38 | com.67leads/leads | 67Leads | 1.0.0 | US local-business leads by trade and city: counts, search, samples, verified em… |
+| 2026-11-16 00:16:08 | [io.github.CloudCorpRecords/sweepdot](https://github.com/CloudCorpRecords/sweepdot) |  | 0.1.0 | Domain availability, WHOIS records and TLD pricing straight from the registries. |
+| 2026-11-16 00:16:53 | com.getcuttr/cuttr | Cuttr AI Video Editing | 1.2.0 | 21 AI video editors for Claude: raw phone take in, finished Reel, TikTok or Sho… |
+| 2026-11-16 00:16:59 | ec.tributasoft/documentacion | TributaSoft · Documentación oficial | 1.0.0 | Facturación electrónica SRI Ecuador: instructivos, preguntas frecuentes y búsqu… |
+| 2026-11-16 00:21:54 | io.github.chansencc/storeflight | Storeflight | 1.2.0 | Read-only App Store Connect checks: what blocks your next release, per locale.… |
 
 ## Data source
 
