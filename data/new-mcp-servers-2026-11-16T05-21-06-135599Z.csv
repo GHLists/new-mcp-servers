@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-11-16T04:21:45.683816Z,com.peptency/research,Peptency research library,1.0.0,,streamable-http,"Cited peptide research data: PubChem chemistry, PubMed studies and FDA, EMA, MHRA records."
+2026-11-16T04:26:38.118686Z,io.mixos/studio,Mixos Studio,1.0.0,,streamable-http,"Model, light, texture and render 3D scenes in your open Mixos Studio browser tab."
+2026-11-16T04:28:44.227718Z,io.github.uycung/graphly,Graphly,1.0.0,,streamable-http,"Draw architecture diagrams, UML, planning boards and clickable wireframes from your AI assistant."
+2026-11-16T04:31:18.758785Z,io.github.0xSplits/splits-cli,Splits,0.6.1,https://github.com/0xSplits/splits-cli,,"Give an AI agent its own key on a dedicated Splits account. At threshold 2+, a human co-signs."
+2026-11-16T04:35:12.980605Z,io.usefulapi/iris-crm,IRIS CRM MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read leads, lead notes, merchants and users in IRIS CRM."
+2026-11-16T04:35:13.085683Z,io.usefulapi/hosthub,Hosthub MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read rentals, channels, rates and calendar events; create, change and delete bookings in Hosthub."
+2026-11-16T04:35:13.092006Z,io.usefulapi/tatango,Tatango MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read lists, subscribers, opt-outs and messages; add subscribers and send SMS in Tatango."
+2026-11-16T04:35:13.100739Z,io.usefulapi/propmanagement,PropManagement MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read tenants, payments and maintenance; create and update properties and tenants in PropManagement."
+2026-11-16T04:35:13.57743Z,io.usefulapi/staffwise,Staffwise MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,Read the shift details of a job over a date range in Staffwise.
+2026-11-16T04:36:48.153556Z,com.schedulenchill/mcp,Schedule & Chill,1.0.2,https://github.com/lomeyollc/schedulenchill-mcp,streamable-http,"Social scheduler for AI tools. Free: LinkedIn, YouTube, TikTok, Bluesky, Mastodon. X: paid add-on."
+2026-11-16T04:39:54.560472Z,io.techassembly/techassembly,TechAssembly,1.0.0,,streamable-http,"Business PA MCP: record expenses, purchases and sales; check stock, today and requests."
+2026-11-16T04:43:27.85014Z,space.nearverse/nearverse,NearVerse,1.0.0,https://github.com/web3blind/nearverse,streamable-http,Space story game on NEAR: swap via NEAR Intents to open star systems and unlock chapters.
+2026-11-16T04:46:57.37173Z,io.github.distronode-corporation/mcp-patchbay,mcp-patchbay,0.1.1,https://github.com/distronode-corporation/mcp-patchbay,,"Hosts your MCP servers and switches them on and off mid-session, with a person approving risky ones"
+2026-11-16T04:53:31.35114Z,io.browsa/browsa,,0.3.0,https://github.com/browsa-io/browsa,,Cloud browsers for AI agents: run web tasks in plain English or drive real Chromium over CDP.
+2026-11-16T04:54:56.074059Z,io.github.reachsaurabh-creator/secure-autonomous-register,Secure Autonomous Register,1.0.0,,streamable-http,"Read-only, sourced cases of AI agents, vehicles and robots acting on their own, mapped to controls."
+2026-11-16T04:55:05.936517Z,com.criticsroom/critics-room,Critics Room,1.2.0,,streamable-http,"Write, save, and share movie and TV reviews in your own voice, then revisit or edit them."
+2026-11-16T05:01:28.972986Z,com.lowvyn/mcp,Lowvyn,0.2.0,,streamable-http,"Verify Canadian deals, find the same product cheaper across .ca retailers, track CAD price history."
+2026-11-16T05:01:41.859182Z,com.foreverworks/etoll,eToll (rovinietă),0.1.0,https://github.com/foreverworks/mcps,,"Check your cars' rovinietă on eToll, read its invoices, and buy a vignette you pay by card yourself."
+2026-11-16T05:03:18.411256Z,ai.acquisity/mcp,Acquisity,2.0.0,,streamable-http,"Run Acquisity cold email campaigns, AI SDR replies, lead search and CRM from any MCP client."
+2026-11-16T05:05:24.876244Z,io.usefulapi/shiftbrook,Shiftbrook MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read shifts, people, leave and timesheets; add people and approve leave in Shiftbrook."
+2026-11-16T05:05:24.877626Z,io.usefulapi/timehunter,TimeHunter MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read employee status, attendance, work reports and schedules in TimeHunter."
+2026-11-16T05:05:25.011162Z,io.usefulapi/totemclock,TotemClock MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read employees, punches, timecards and timesheets; record punches in TotemClock."
+2026-11-16T05:05:25.013663Z,io.usefulapi/zekerflex,ZekerFlex MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read open shifts, approved timesheets and invoices in ZekerFlex."
+2026-11-16T05:11:10.842144Z,io.github.Steeve-Crypto/zshield-mcp,ZShield MCP,0.2.0-beta.1,https://github.com/Steeve-Crypto/zshield-mcp,,"Capped, allow-listed shielded Zcash payments for AI agents. Testnet beta."
+2026-11-16T05:14:36.850234Z,com.discolike/mcp-server,DiscoLike,1.1.0,,streamable-http,"Find the companies and people that fit your ICP, with verified emails, across 87M+ companies."
+2026-11-16T05:15:48.072883Z,io.demopage/demopage,DemoPage,0.4.0,,streamable-http,Build and run a live AI demo of your web product from its code; read demo leads and results.
