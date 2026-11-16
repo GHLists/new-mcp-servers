@@ -9,44 +9,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 20:20 UTC
+## Latest list — 2026-11-16 21:20 UTC
 
-New MCP servers published between 2026-11-16 19:19 UTC and 2026-11-16 20:20 UTC.
+New MCP servers published between 2026-11-16 20:20 UTC and 2026-11-16 21:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-16T20-20-40-287189Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-16T21-20-07-193436Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-16 19:19:28 | com.hollerpost/mcp | Hollerpost | 0.8.1 | Email marketing for small business: draft, preview, schedule and report on camp… |
-| 2026-11-16 19:19:28 | io.github.Good-Feels/a-good-sign | A Good Sign: Apple Health MCP | 0.2.0 | Connect Apple Health to AI via MCP. Requires A Good Sign iPhone app, sync and s… |
-| 2026-11-16 19:24:41 | run.webfetch/webfetch | webfetch.run | 1.0.0 | Fetch any URL as clean markdown, HTML, or a screenshot for AI agents. |
-| 2026-11-16 19:25:59 | [io.github.Scrape-Technology/abrasio-mcp](https://github.com/Scrape-Technology/abrasio-mcp) | Abrasio | 0.1.1 | Stealth browser for AI agents: navigate, click, type and extract on bot-protect… |
-| 2026-11-16 19:26:29 | io.agentsla/agentsla | AgentSLA | 2.2.0 | Check API and MCP endpoints, search 21k indexed APIs, signed SLA checks and ref… |
-| 2026-11-16 19:26:45 | [io.github.Scrape-Technology/markudown-mcp](https://github.com/Scrape-Technology/markudown-mcp) | MarkUDown | 2.0.0 | Web scraping for AI agents: scrape, crawl, search and extract any site as clean… |
-| 2026-11-16 19:32:05 | [io.github.K11-Software-Solutions/appium-qa](https://github.com/K11-Software-Solutions/k11techlab-appium-qa-mcp) | k11 Appium QA | 0.1.0 | Self-healing Appium locators for Android and iOS apps, healed on the screen eac… |
-| 2026-11-16 19:32:26 | [io.github.jevil25/whatsapp-messaging-api-mcp](https://github.com/jevil25/whatsapp-messaging-api-mcp) | WhatsApp Messaging API | 2.0.0 | Send WhatsApp messages from Claude. No Meta Business approval or WhatsApp Busin… |
-| 2026-11-16 19:33:14 | cloud.araras/araras | Araras | 0.1.0 | View an Araras project and update its description. |
-| 2026-11-16 19:35:00 | ai.staffbots/dispatch | StaffBots | 1.0.0 | Public StaffBots plans, industry pages, comparisons, and docs. No auth and no t… |
-| 2026-11-16 19:35:05 | dev.techny/techny | Techny | 1.0.0 | Open tech roles in Egypt, Saudi Arabia and the UAE, from each company's careers… |
-| 2026-11-16 19:36:53 | [io.github.c0decave/multi-websearch-mcp](https://github.com/c0decave/multi-websearch-mcp) | websearch | 0.3.0rc2 | Captcha-avoiding web, news, image and video search plus page fetching over free… |
-| 2026-11-16 19:43:35 | io.github.gambadio/applemail-relay | InboxPip | 1.0.0 | Connect your email accounts and iCloud Calendar to AI with account-specific per… |
-| 2026-11-16 19:44:55 | [io.github.mindstone/mcp-server-hubspot](https://github.com/mindstone/mcp-servers) | HubSpot | 0.5.0 | HubSpot CRM: contacts, deals, tickets, line items, properties, marketing, files… |
-| 2026-11-16 19:46:22 | com.slablineage/slablineage | SlabLineage | 1.0.0 | Trading card prices, grading math, card shows, and collection and eBay tools fo… |
-| 2026-11-16 19:48:27 | io.github.Hichem212121/seedreel | SeedReel | 1.0.0 | Search organic TikTok and Instagram Reels videos made for businesses, and read… |
-| 2026-11-16 19:52:18 | com.textbotapp/textbot | TextBot | 1.0.0 | Text your own phone from Claude and ChatGPT: reminders, alerts, scheduled SMS.… |
-| 2026-11-16 19:52:44 | de.abnehmen-mit-arzt/termine | AMITA – Termin zur ärztlichen Abnehmber… | 1.0.0 | Find AMITA weight-loss doctors in Germany and book the free first consultation. |
-| 2026-11-16 19:54:44 | [io.github.JaeTaekOh/rocket-launcher](https://github.com/JaeTaekOh/RocketLauncher) | Rocket Launcher | 0.2.1 | Free MCP server that guides an Android/iOS app through Google Play and App Stor… |
-| 2026-11-16 20:02:39 | [io.github.jadikar-arch/europa-mcp](https://github.com/jadikar-arch/euro-data-mcp) | Europa | 0.4.3 | Find and fetch European open data: Eurostat, EU Parliament, data.europa.eu, nat… |
-| 2026-11-16 20:03:03 | com.mineral-check.www/katalog | Mineral-Check | 1.0.0 | Öffentliche Mineral-Check-Tests suchen und Links zu Proben, Ablauf, Versand und… |
-| 2026-11-16 20:03:31 | com.tgpaybot/merchant-api | TgPay Crypto Merchant API | 1.0.3 | Accept crypto payments via the TgPay Crypto Merchant API — invoices, subscripti… |
-| 2026-11-16 20:04:40 | [io.github.Nullclear-Protocol/nullclear](https://github.com/Nullclear-Protocol/nullclear) | NullClear Arbiter | 1.4.0 | Zero-key EVM/Solana token forensics, tx simulator, calldata decoder & x402 escr… |
-| 2026-11-16 20:05:22 | app.hiregps/resume-risk-checker | Resume Risk Checker by HireGPS | 1.0.0 | Checks job dates for short stays and gaps, and looks up HireGPS resume risks an… |
-| 2026-11-16 20:05:58 | com.xainvault/xainvault | Xainvault | 1.0.0 | Scan AI skill packages, apply policy and human approval, and distribute approve… |
-| 2026-11-16 20:06:14 | io.github.jenny-ouyang/vibe-coding-builders | Vibe Coding Builders | 1.0.0 | Find builders who ship with AI and their launches; add and update your own proj… |
-| 2026-11-16 20:16:06 | no.patentstyret/opendata | Patentstyret Open Data | 1.0.0 | Search Norwegian trademarks, patents and designs, and company IP portfolios (Pa… |
-| 2026-11-16 20:16:27 | com.menocost/menopause-prices | MenoCost.com: US menopause care prices | 1.0.0 | Prices US online menopause services charge for HRT and hot flash drugs, read on… |
-| 2026-11-16 20:18:18 | [io.github.valueguysam/xoom-foods](https://github.com/valueguysam/xoom-foods-mcp) | XOOM FOODS | 1.0.0 | Browse 105+ restaurant meals, check plans, compare prices, get order links. |
-| 2026-11-16 20:20:14 | tech.huntshare/hunt | HÜNT | 1.2.0 | Candidate database for recruiters: search 1B+ profiles, read profiles, contacts… |
+| 2026-11-16 20:25:01 | com.supplierbrief/fda-supplier-records | Supplier Brief | 1.0.0 | Free FDA records on food suppliers: import alerts, refusals, inspections, warni… |
+| 2026-11-16 20:31:04 | [com.heistclips/heistclips](https://github.com/2016judea/heistclips) | heistclips – GTA 6 clipping | 0.1.0 | Find clip-worthy moments in Twitch streams from chat spikes; rank clipping camp… |
+| 2026-11-16 20:35:25 | ai.triptime/triptime-ai | Triptime AI | 1.0.0 | Ready-made day-by-day trip plans for 520+ destinations, plus custom trip plans… |
+| 2026-11-16 20:36:07 | [io.github.agentome-ai/agentome](https://github.com/agentome-ai/agentome) | Agentome | 0.3.0 | Manage AI agents, teams, projects and tasks on your own self-hosted Agentome se… |
+| 2026-11-16 20:43:08 | [io.github.memeanalyst/uspto-trademark-search-mcp](https://github.com/memeanalyst/uspto-trademark-search-mcp) | USPTO Trademark Search | 1.0.0 | Search USPTO trademark records by wordmark, owner, or class from any MCP client. |
+| 2026-11-16 20:43:09 | [io.github.memeanalyst/lighthouse-audit-mcp](https://github.com/memeanalyst/lighthouse-audit-mcp) | Lighthouse Audit | 1.0.0 | Run Google Lighthouse audits on any URL — performance, SEO, accessibility score… |
+| 2026-11-16 20:44:25 | pro.cursosgratis/cursos-gratis | Cursos gratis en español | 1.0.0 | Search 1,900+ free Spanish-language courses (YouTube, Udemy), rankings and lear… |
+| 2026-11-16 20:44:29 | io.github.christopheraltenburger/cloudfluencers |  | 1.0.0 | Find influencers on Instagram, TikTok and YouTube, analyse their content and ma… |
+| 2026-11-16 20:45:24 | [io.github.super-agent-os/super-artifacts](https://github.com/super-agent-os/plugins) | Super Artifacts | 0.244.0 | Publish live pages from any agent, collect what visitors submit, and read it ba… |
+| 2026-11-16 20:46:32 | ai.fundas/deepread | Deepread | 1.0.0 | Customer intelligence for BigCommerce: churn risk, customer value, reorders, up… |
+| 2026-11-16 20:47:47 | app.misento/imessage | iMessage by Misento | 1.0.0 | iMessage for AI agents, from your iPhone. No Mac needed, and you choose which c… |
+| 2026-11-16 20:49:28 | cloud.adal/adal-cloud | Adal Cloud | 1.0.0 | Receive and inspect webhooks at your own public HTTPS endpoints. |
+| 2026-11-16 20:49:30 | pl.kartoniki/box-pricing | Kartoniki.pl – custom cardboard box pri… | 0.2.0 | Live prices for custom corrugated cardboard boxes made in Poland: per piece, pe… |
+| 2026-11-16 20:50:34 | [ai.robosystems/robosystems](https://github.com/RoboFinSystems/robosystems) | RoboSystems | 1.10.3 | The open-source knowledge graph for finance: your ledger and 8,000+ public comp… |
+| 2026-11-16 20:51:38 | com.lowlanddata/ecommerce | LowlandData E-commerce | 1.0.0 | AliExpress and Amazon as JSON: search results, product details, best sellers, p… |
+| 2026-11-16 20:53:27 | [io.github.ranaji10/aigorithmic-butterfly-effect](https://github.com/ranaji10/aigorithmic-butterfly-effect) | AIgorithmic Butterfly Effect | 2.1.0 | A slow, open artwork (2021 to 2046). Listen, then leave one small mark as yours… |
+| 2026-11-16 20:56:00 | es.unacasa/unacasa | unacasa | 1.1.0 | Spanish real estate data: buildings, homes, plots, streets and areas, with sour… |
+| 2026-11-16 20:56:06 | [io.github.Jackpkn/apexuse](https://github.com/Jackpkn/apexuse) | ApexUse — Computer Use MCP Server | 0.2.1 | Computer Use MCP server in Rust with Accessibility, Set-of-Mark vision, OCR, an… |
+| 2026-11-16 20:56:48 | io.startitup/nastartujto-sales | NASTARTUJTO.cz & STARTITUP.io – Free We… | 2.0.0 | Free custom website design, ARES quote, Google Ads funnel & 24/7 AI web concier… |
+| 2026-11-16 21:01:55 | com.entryping/signs | EntryPing sign makers | 1.0.0 | Find a printable door sign maker and get a link with your wording already fille… |
+| 2026-11-16 21:02:53 | [io.github.mohitrajdeo/nephis-mcp-server](https://github.com/mohitrajdeo/nephis-mcp-server) | NEPHIS MCP Server | 1.0.6 | Sub-6ms microVM sandboxes, zero-copy Postgres branching, and fast code executio… |
+| 2026-11-16 21:03:01 | ai.exceedloop/specs | ExceedLoop Specs | 1.0.366 | Spec-driven delivery: plans, solutions, ADRs, UX docs, tasks, rules and skills… |
+| 2026-11-16 21:03:11 | [quest.site/sitequest-hosting](https://github.com/Sitequest-Software/sitequest-mcp) | Sitequest Hosting | 1.0.0 | VPS, webspaces, domains and DNS in EU datacenters, managed over MCP. |
+| 2026-11-16 21:04:15 | com.themarketpirates/fundamental-data | Market Pi-Rates | 1.0.0 | Fundamentals for 25,000+ listed companies in 5 markets: 120+ metrics, ratios an… |
+| 2026-11-16 21:04:16 | com.sheetgo/mcp | Sheetgo | 1.0.0 | Connect an AI assistant to your Google Sheets, Drive, Docs, PDFs, BigQuery and… |
+| 2026-11-16 21:05:36 | [io.github.VaibhavBansal26/grants-discovery-mcp-server](https://github.com/VaibhavBansal26/grants-discovery-mcp-server) |  | 0.1.0 | Search US federal grants, read NOFO details, and research past awards. No API k… |
+| 2026-11-16 21:05:53 | xyz.gondi/mcp | GONDI | 1.0.0 | GONDI NFT marketplace: live prices, bids, listings, sales and NFT lending data… |
+| 2026-11-16 21:08:38 | [io.github.laurent512/opencalque](https://github.com/laurent512/opencalque) | OpenCalque | 1.10.0 | Draw 2D floor plans as JSON: walls, doors, rooms, furniture. Check, measure, ex… |
+| 2026-11-16 21:11:17 | ai.exceedloop/guardcell | ExceedLoop Guardcell | 1.0.0 | Security scanning for code, containers and IaC: request scans, read findings, r… |
+| 2026-11-16 21:11:18 | ai.exceedloop/sketchpad | ExceedLoop Sketchpad | 0.1.0 | Design canvas for agents: build pages and components, render to PNG, export cod… |
+| 2026-11-16 21:11:36 | [io.github.onlyflowstech/servicenow-mcp](https://github.com/onlyflowstech/servicenow-mcp) | OnlyFlows ServiceNow MCP | 2.3.0 | Governed ServiceNow MCP: per-profile table and field policy, dry-run batches, a… |
+| 2026-11-16 21:15:06 | ai.stork/mcp | Stork | 1.0.0 | Make talking-photo video, singing video and voiceover, and search a directory o… |
+| 2026-11-16 21:19:01 | com.livefingerlakes/flx-one | FLX ONE agent gateway | 1.1.0 | Read-only Finger Lakes and Southern Tier places, hours, events and conditions.… |
+| 2026-11-16 21:19:02 | io.github.Nero-Engine/perplexity-search-api | Perplexity Search API | 0.1.0 | Perplexity Sonar answers with numbered citations in bulk, plus brand, competito… |
 
 ## Data source
 
