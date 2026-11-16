@@ -9,50 +9,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 18:21 UTC
+## Latest list — 2026-11-16 19:19 UTC
 
-New MCP servers published between 2026-11-16 17:21 UTC and 2026-11-16 18:21 UTC.
+New MCP servers published between 2026-11-16 18:21 UTC and 2026-11-16 19:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-16T18-21-08-049499Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-16T19-19-00-132657Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-16 17:21:59 | [io.github.vitaliyyun/iban-analyzer](https://github.com/vitaliyyun/iban-analyzer-mcp) | IBAN Analyzer | 1.0.0 | Resolve an IBAN to its bank: name, BIC/SWIFT, city and address, and validate IB… |
-| 2026-11-16 17:24:58 | hu.zeroszamla/zero-szamla | Zéró Számla | 0.9.1 | Automated invoicing from your AI assistant. Incoming invoice sync. Issue invoic… |
-| 2026-11-16 17:25:53 | com.kotecharts/charts | Kote Charts — Bitcoin on-chain analytics | 1.1.0 | Free Bitcoin on-chain analytics API & MCP server: MVRV, NUPL, SOPR, exchange fl… |
-| 2026-11-16 17:27:29 | dev.musher/musher | Musher | 26.2.0 | Deploy and run your apps on Musher: catalog apps, blueprints, variables, gatewa… |
-| 2026-11-16 17:27:59 | net.gunpartpicker/gunpartpicker | GunPartPicker | 1.0.0 | Live US prices and fit checks for AR-15 and Glock parts, cheapest ammo, FFL dea… |
-| 2026-11-16 17:29:47 | com.providersignal/dental-market-intelligence | ProviderSignal: Dental Market Intellige… | 1.7.0 | Read-only MCP: US dental intel, all-category Medicaid fee schedules, dentist lo… |
-| 2026-11-16 17:30:49 | net.marioruiz/iceland | Iceland live | 1.0.0 | Live Iceland data: earthquakes, volcano status, weather, warnings and road cond… |
-| 2026-11-16 17:33:21 | [io.github.moritzlauper/mara-bridge](https://github.com/moritzlauper/mara-bridge) | MARA Bridge | 0.1.0 | Measure and mix Ableton Live sets: reference comparison, spectra, masking, EQ a… |
-| 2026-11-16 17:33:27 | com.dosiefoxie/brand-pack | Dosie Foxie Brand Pack | 1.0.0 | Logo previews and production brand packs, paid in USDC on Base |
-| 2026-11-16 17:33:30 | com.sayscreen/sayscreen | SayScreen | 1.0.0 | Make narrated tutorial videos of any website or web app by asking your AI assis… |
-| 2026-11-16 17:33:40 | app.asks/asks | Asks | 1.0.0 | Run your Asks AI support agent, knowledge, inbox, tickets and customers from yo… |
-| 2026-11-16 17:34:46 | [io.github.moritzlauper/mara-mcp](https://github.com/moritzlauper/mara-mcp) | MARA MCP | 0.1.1 | Measure and mix Ableton Live sets: reference comparison, spectra, masking, EQ a… |
-| 2026-11-16 17:39:55 | com.ustawnik/ustawnik | Ustawnik | 0.1.0 | Polish tax and accounting law with citations: VAT, KSeF, KIS rulings, provision… |
-| 2026-11-16 17:40:00 | club.savings/savings-club | Savings Club | 0.4.0 | Estimate a vehicle membership with no interest and one flat fee, and compare it… |
-| 2026-11-16 17:41:32 | pl.tagdip/price-history | TagDip | 1.0.0 | Prices and price history in Polish online stores: is it a good price, is the pr… |
-| 2026-11-16 17:41:54 | app.tribeatlas/tribeatlas | Tribeatlas | 0.1.0 | Group trips in chat: plans, packing lists and who owes whom. Bookings and recei… |
-| 2026-11-16 17:47:58 | [io.github.lisn0/android-device-control](https://github.com/lisn0/android-device-control) | Android Device Control | 0.1.0 | Inspect authorized Android devices through ADB. |
-| 2026-11-16 17:47:58 | [io.github.lisn0/stream-clipper](https://github.com/lisn0/stream-clipper) | Stream Clipper | 0.1.0 | List local clips and prepare them for review or publishing. |
-| 2026-11-16 17:49:40 | [app.palabring/palabring](https://github.com/KELiON/palabring-mcp) | Palabring | 1.0.0 | Add words to your Palabring vocabulary and review them as flashcards with space… |
-| 2026-11-16 17:49:57 | online.reflib/reflib | RefLib | 0.1.0 | Assistants search and read RefLib corpora by section, not from model memory. |
-| 2026-11-16 17:50:16 | io.github.ONSBR/tiago-dados-abertos |  | 1.1.1 | MCP server que conecta agentes de IA aos dados abertos do ONS (Operador Naciona… |
-| 2026-11-16 17:50:19 | [io.github.softglazee/softglaze-browser-mcp](https://github.com/softglazee/softglaze-mcp-helper) | SoftGlaze Browser | 1.0.0 | Manage SoftGlaze Browser profiles, proxies and macros on your PC. Every change… |
-| 2026-11-16 17:51:06 | com.fyrmo/fyrmo | Fyrmo | 1.6.0 | Small businesses in Costa Rica, Panama, Guatemala and Dominican Republic: Whats… |
-| 2026-11-16 17:51:16 | [io.github.william-monroy/turno-browser](https://github.com/william-monroy/turno) |  | 0.1.0 | Drives your installed Chrome with a persistent profile per identity (Playwright… |
-| 2026-11-16 17:52:44 | app.rarylib/rarylib | RaryLib | 1.0.0 | Catalogue culturel en français : films, séries, livres, jeux, musique, animés.… |
-| 2026-11-16 17:55:27 | ch.ticketick/ticketick | ticketick | 1.0.0 | Swiss event ticketing: search concerts and shows, let organizers create and pub… |
-| 2026-11-16 17:58:55 | [io.github.beliq-eu/beliq-mcp](https://github.com/beliq-eu/beliq-mcp) | beliq | 0.5.0 | Validate, parse, generate and convert EU e-invoices (XRechnung, ZUGFeRD, Factur… |
-| 2026-11-16 18:03:00 | [io.github.imdinu/apple-mail-mcp](https://github.com/imdinu/apple-mail-mcp) | Apple Mail MCP | 0.5.1 | Apple Mail MCP server with full-coverage FTS5 body search, reliable on large ma… |
-| 2026-11-16 18:03:34 | app.metricsnest/metrics-nest | Metrics Nest | 1.0.0 | Ask Claude, ChatGPT or Cursor about your Apple Health data: workouts, sleep, fo… |
-| 2026-11-16 18:04:52 | com.engine/mcp | Engine | 1.0.0 | Search and book hotels, shorten or cancel stays, and check support cases in Eng… |
-| 2026-11-16 18:05:27 | com.trailsoftucson/trails-of-tucson | Trails of Tucson | 1.0.0 | Read-only Tucson-area trail list, forecasts, closures, and access notes from Tr… |
-| 2026-11-16 18:09:44 | net.diofis/babelii | Babelii | 1.0.0 | Beli pulsa, paket data, token PLN, tagihan dan voucher game di Indonesia lewat… |
-| 2026-11-16 18:17:06 | [io.github.David-Cabeza/opencovers](https://github.com/David-Cabeza/OpenCovers) |  | 0.1.0 | Restaurant reservations over MCP: availability, bookings, tables and waitlist.… |
-| 2026-11-16 18:19:10 | com.aussyprompt/one | AussyPrompt ONE | 1.0.0 | Plan apps and systems from plain words: blueprints, build packs, SQL and Build… |
-| 2026-11-16 18:19:43 | dev.helve/helve | Helve | 2.0.0 | Metered pay-per-call gateway for AI agent tools: search, discover, and call wit… |
-| 2026-11-16 18:20:45 | io.warm/mcp | Warm | 1.0.0 | Read your own bank balances, spending, and transactions from Warm, and make cha… |
+| 2026-11-16 18:25:52 | de.calcing.saas/engineering | calcing engineering calculations | 0.2.2 | Machine element calculations to DIN, ISO, VDI and FKM: shafts, bearings, bolts,… |
+| 2026-11-16 18:27:09 | [com.datpaq/datpaq](https://github.com/datpaq/mcp) | DATPAQ | 1.6.0 | 63 production APIs over one hosted MCP endpoint. |
+| 2026-11-16 18:27:32 | [io.github.Musyg/persistent-memory](https://github.com/Musyg/persistent-memory) | persistent-memory | 0.4.0a3 | Agent memory that tracks sources and stops serving what depends on corrected or… |
+| 2026-11-16 18:28:04 | com.vibesignet/templates | Vibesignet | 1.0.0 | Website templates with tested build prompts for Claude Code, Codex and Cursor. |
+| 2026-11-16 18:28:08 | io.github.luzivaltic/ad-radar | Ad Radar | 1.0.0 | Live Facebook, Instagram and Google ads: copy, landing page, days running, new/… |
+| 2026-11-16 18:28:20 | io.github.lewisororke/l50-job-search | L50 Job Search | 1.0.0 | Live jobs from Indeed and Glassdoor in 30 countries, with salary summary. Pay p… |
+| 2026-11-16 18:30:18 | io.github.lewisororke/l50-microsoft-fix | L50 Microsoft Fix | 1.0.0 | Diagnose Windows, Microsoft 365, Entra, Intune and Azure errors: codes, fixes,… |
+| 2026-11-16 18:31:39 | net.guiex.api/arancel | Arancel GUIEX (GUIEX Customs Tariff) | 1.0.0 | EU customs tariff (TARIC) as applied in Spain: duties, measures, VAT and docume… |
+| 2026-11-16 18:31:56 | io.github.Phenotype-Brandvoz/mymedicareplans-medicare-data | MyMedicarePlans.org Medicare data | 1.0.0 | Sourced Medicare numbers by state and county: plans, Star Ratings, enrollment s… |
+| 2026-11-16 18:34:08 | [io.github.novigapi/novigapi](https://github.com/novigapi/novigapi-mcp) | Novig market data (novigapi.com) | 0.1.0 | Read-only Novig market data: order books, trades, line history, fair prices, +E… |
+| 2026-11-16 18:35:03 | co.peptidecompare/peptide-prices | PeptideCompare.co: US peptide and NAD+… | 1.0.0 | Prescribed peptide and NAD+ prices at US online clinics, per 30 days, with FDA… |
+| 2026-11-16 18:35:04 | io.github.samgovapi/samgovapi | samgovapi.io | 0.1.0 | SAM.gov entities, UEI and CAGE lookups, opportunities, exclusions and USAspendi… |
+| 2026-11-16 18:36:40 | cc.eu.mootai/moot | Moot | 1.0.0 | Read your Moot spaces, brief your seat's avatar, and speak for your seat in gro… |
+| 2026-11-16 18:37:08 | io.github.sec-api-dev/sec-api-dev-mcp | SEC EDGAR (sec-api.dev) | 0.1.1 | SEC EDGAR filings, full-text search, XBRL facts, Form 4, 13F, Form D and FDA ca… |
+| 2026-11-16 18:40:29 | [io.github.Nutshell2000/agent-data-tools-all](https://github.com/Nutshell2000/agent-data-tools) | Agent Data Tools: Full list (every tool… | 1.215.0 | 427 tools, each its own definition: prices, chain, web, PDF, AI. 25 free calls. |
+| 2026-11-16 18:40:45 | [io.github.connorhriley/kith](https://github.com/connorhriley/kith) | Kith | 0.1.9 | Coordinate coding agents with work claims, Git worktrees, shared resources and… |
+| 2026-11-16 18:41:56 | [io.github.suseendar1414/pursestring](https://github.com/suseendar1414/pursestring) | PurseString | 0.1.0 | Spend policy and human approvals for AI agents, checked before a single-use cap… |
+| 2026-11-16 18:46:12 | nl.taklo/taklo-evi | Taklo | 1.2.0 | Feiten, prijzen, vak-ERP, fiscale keten en boekhoudkoppelingen van Taklo voor v… |
+| 2026-11-16 18:47:19 | [com.lagsmith/mcp](https://github.com/shabbirv/lagsmith-mcp) | Lagsmith | 1.0.0 | Let AI agents slow down, break or mock one app's network on a Mac, including iO… |
+| 2026-11-16 18:52:51 | [io.github.HitKeep/hitkeep](https://github.com/HitKeep/hitkeep) | HitKeep | 2.17.0 | Stateless 2026-07-28 read-only MCP server for aggregate HitKeep analytics and o… |
+| 2026-11-16 18:56:16 | com.precog/mcp | Precog | 1.0.0 | Check Precog's source catalog and destinations, request connectors and follow y… |
+| 2026-11-16 18:57:51 | ch.notizli/mcp | Notizli | 1.0.0 | Search meeting transcripts, read minutes and manage action items by client and… |
+| 2026-11-16 18:59:00 | [io.github.johnsusek/deadlock-mcp](https://github.com/johnsusek/DeadlockMCP) | Deadlock UI | 0.1.0 | Live-edit Deadlock's Panorama UI (XML, CSS, JS) while the game runs and export… |
+| 2026-11-16 18:59:27 | [com.cortexexam/cortex](https://github.com/Benabens/cortex) | Cortex | 1.1.0 | Mock exams, practice questions and weak points from your own course materials i… |
+| 2026-11-16 19:01:18 | it.datituristici/datituristici |  | 1.2.0 | Ten read-only tools for Italian tourism statistics per comune, from institution… |
+| 2026-11-16 19:05:07 | [io.github.tahalatif-cmd/aylistcle-mcp](https://github.com/tahalatif-cmd/aylistcle-mcp) | AY Listicle | 1.1.0 | Find listicles with open spots, request a spot, propose swaps and answer reques… |
+| 2026-11-16 19:05:51 | space.fixnote/fixnote | Fixnote | 0.2.0 | Search, read and add to your Fixnote notes. End-to-end encrypted: read on your… |
+| 2026-11-16 19:10:17 | ai.divid/planner | DIVID Planner | 1.0.0 | A one-year plan for the money you've saved, tested against 1,000+ market scenar… |
+| 2026-11-16 19:11:07 | com.arkanumdata/insider-trades | Arkanum Data: SEC insider trades | 1.0.0 | Insider buys and sales from SEC Form 4 filings, cleaned and linked to each fili… |
+| 2026-11-16 19:12:54 | com.wiz-trip/wiztrip | WizTrip | 1.0.17 | Search flights, hotels, activities and transfers, and plan whole trips with Wiz… |
+| 2026-11-16 19:14:43 | [io.github.wimo-dev/turno-browser](https://github.com/wimo-dev/turno) |  | 0.1.1 | Drives your installed Chrome with a persistent profile per identity (Playwright… |
+| 2026-11-16 19:15:07 | com.canevice/cane-vice | Cane Vice | 1.0.0 | Craft root beer and craft soda discovery: honest rankings, a starter ladder, an… |
+| 2026-11-16 19:18:27 | [io.github.prized-dev/sandboxes](https://github.com/prized-dev/skills) | Prized Sandboxes | 0.1.0 | Linux microVM sandboxes for agents: run code, fork, pause and resume. Your agen… |
 
 ## Data source
 
