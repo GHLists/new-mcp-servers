@@ -1,0 +1,44 @@
+created_at,server,title,version,repository,transports,description
+2026-11-16T15:22:43.997412Z,com.bikefuchs/bikefuchs,Bikefuchs — Bike Parts Price Comparison,2.6.0,https://github.com/bikefuchs/bikefuchs-mcp-stub,streamable-http,"Bike parts price comparison (brake pads, chains, tyres) with cart optimizer incl. shipping, DE & AT"
+2026-11-16T15:24:03.980675Z,io.github.galactusdb/galactus-db-mcp,Galactus DB,0.1.1,,,"Query a Galactus DB graph database with Cypher and read its docs, as your own database user."
+2026-11-16T15:25:58.772262Z,io.github.DevDizzle/gammarips,GammaRips Options Intelligence,4.6.0,https://github.com/DevDizzle/gammarips-mcp,streamable-http; streamable-http,"Nightly Combo A options dataset, 10-min liquidity snapshots, and 3-day excursion history for agents."
+2026-11-16T15:26:02.812044Z,com.klarhimmel.ui/mcp,Klarhimmel UI,1.0.0,,streamable-http,"Search Klarhimmel UI's shadcn registry of page sections and templates, and get install lines."
+2026-11-16T15:26:49.041691Z,net.fiko/fiko,Fiko,1.0.0,,streamable-http,"Run Instagram, WhatsApp and Telegram business: inbox, CRM, AI replies, bookings and publishing."
+2026-11-16T15:28:57.205267Z,io.github.nievesjesus/distill,distill,0.4.0,https://github.com/nievesjesus/distill,,"Local PDF and Office to token-lean Markdown for LLMs. No uploads, no API keys."
+2026-11-16T15:29:13.232453Z,app.syncdate/mcp,SYNCDATE,1.0.0,https://github.com/syncdate/syncdate-mcp,streamable-http,"Calendar sync management on every plan; calendar events on Plus, Pro and Team. OAuth 2.0 + PKCE."
+2026-11-16T15:31:09.018954Z,com.netxl/netxl,NetXL,1.0.0,,streamable-http,"Search NetXL trade pricing and stock, and manage orders, quotes and your account."
+2026-11-16T15:31:51.54413Z,io.github.lucarosy/dimore-depoca,Dimore d'Epoca - historic hotels in Italy and Europe,1.1.2,,streamable-http,"Search and book historic hotels in Italy and Europe: castles, villas, abbeys. Live prices."
+2026-11-16T15:32:14.991025Z,io.github.Lawatch/package-exports,package.json exports resolver (which file Node loads),1.0.0,https://github.com/Lawatch/10aday,,"Which file Node loads for import or require of pkg/sub, and why: package.json exports, same as Node."
+2026-11-16T15:35:10.488969Z,com.iconsaga/icons,IconSaga,1.0.0,https://github.com/iconsaga/iconsaga,streamable-http; streamable-http,"Icons that match, in your colors. Your AI finds them for your website or slides, in 10 languages."
+2026-11-16T15:35:22.290544Z,io.github.knowita-srl/execution-way,Knowità – Execution Way©,1.0.1,https://github.com/knowita-srl/knowita-mcp,streamable-http,"Knowità, consulenza sull'esecuzione della strategia dal 2007: metodo Execution Way© e servizi."
+2026-11-16T15:36:19.860287Z,com.mewboard/mewboard,Mewboard,1.0.0,,streamable-http,"Projects, issues, comments, files, clients and project money in Mewboard, a board shared with AI."
+2026-11-16T15:37:48.271078Z,app.taskweek/taskweek,Taskweek,1.0.0,,streamable-http,"Your Taskweek planner: read and plan your week, tasks, habits and mood. Needs Taskweek Pro."
+2026-11-16T15:38:09.908503Z,com.guruling/starter-story,"Starter Story transcripts, by Guruling",1.0.0,,streamable-http,Search and read the transcripts of Starter Story's YouTube videos. No account or key needed.
+2026-11-16T15:38:10.421951Z,com.guruling/marc-lou,"Marc Lou transcripts, by Guruling",1.0.0,,streamable-http,Search and read the transcripts of Marc Lou's YouTube videos. No account or key needed.
+2026-11-16T15:38:10.876753Z,com.guruling/youtube-channels,Guruling: ask a YouTube channel,1.0.0,,streamable-http,Search and read the transcripts of the YouTube channels you pick. Free key at guruling.com.
+2026-11-16T15:40:48.782048Z,dev.squally/mcp,Squally,0.10.0,https://github.com/squallydev-admin/squally-mcp,,"Query Playwright test analytics from AI assistants: flaky tests, failures, CI time lost to retries."
+2026-11-16T15:42:05.209954Z,com.dbgorilla/dbgorilla,DBGorilla,0.1.0,,streamable-http,"Database evidence for AI agents: plans, workload, topology. SQL Server, Postgres, MySQL, Cassandra."
+2026-11-16T15:44:50.770562Z,io.scrap/maps-census,Maps Census,1.0.0,,streamable-http,"Statistics on Google Maps businesses by place and business type: counts, shares and online presence."
+2026-11-16T15:44:51.531473Z,io.scrap/scrap-io,Scrap.io,1.0.0,,streamable-http,"Search and export Google Maps businesses with their emails, phones, websites and social profiles."
+2026-11-16T15:47:44.840549Z,com.searchwrench/searchwrench,SearchWrench,1.0.0,,streamable-http,"Check any website for Google and AI-search problems. Free score + top issues, full audits."
+2026-11-16T15:48:47.111974Z,ai.ozri/calls,Ozri,1.0.0,,streamable-http,"Ozri phones businesses for you: book, change, cancel or ask, and get the answer back in your chat."
+2026-11-16T15:49:46.332157Z,com.bannx/mcp,Bannx,1.0.0,,streamable-http,"Render on-brand images, PDFs and videos from templates; create and edit templates and brands."
+2026-11-16T15:51:57.619909Z,io.github.datablume/fmcsa-carrier-changes,US Trucking Changes (FMCSA),1.0.0,,streamable-http,"FMCSA carrier changes: authority suspensions, insurance cancellations, new carriers. Runs on Apify."
+2026-11-16T15:51:57.847318Z,io.github.datablume/uk-funding-rounds-sh01,UK Funding Rounds (Companies House SH01),1.0.0,,streamable-http,UK funding rounds from Companies House SH01 share allotment filings. Pay per row. Runs on Apify.
+2026-11-16T15:56:41.755763Z,io.github.Tenhaw/cueapril,CueApril,1.2.0,,streamable-http,"Assess pull requests and read verdicts, findings, evidence and suggested fixes from coding agents."
+2026-11-16T15:57:56.887372Z,io.github.vipul-goel/prompt-engine,Prompt Engine,0.1.0,https://github.com/vipul-goel/prompt-engine,,"Turns rough prompts into detailed, LLM-ready prompts with multiple-choice clarifying questions."
+2026-11-16T15:58:16.311118Z,io.github.bitcoindatalabs/bitcoindatalabs-mcp,Bitcoin Data Labs MCP,0.1.1,https://github.com/bitcoindatalabs/bitcoindatalabs-mcp,,"Zero-clone Bitcoin, Lightning & 1,009-repo OSS telemetry: Core health, BIPs & mining HHI."
+2026-11-16T15:58:59.741197Z,com.vynqlo/vynqlo-mcp,"Vynqlo – Ready-to-Use Social Media Accounts, Brand Bundles & Promotion",2.0.1,,streamable-http,"Monetized YouTube, X, TikTok & Reddit accounts, 20%-off Brand Bundles, Managed Hosting & Ad Drops."
+2026-11-16T16:03:12.24167Z,me.marshrut/marshrut,МАРШРУТ — Байкал и Россия,1.1.0,,streamable-http,"Travel in Russia & Baikal: stays, activities, travel companions (read-only, no auth)."
+2026-11-16T16:04:22.237286Z,com.advisorn/advisorn,Advisorn,1.0.0,,streamable-http,"Swiss crypto forensics: source of funds for banks, stolen crypto tracing, expert reports, MiCA."
+2026-11-16T16:05:08.358637Z,app.cloudbutler/cloud-butler,Cloud Butler,1.0.0,https://github.com/CogNoodle/cloudbutler,streamable-http,"Let your AI agent read and act on your Mail, Calendar, Contacts and more. Works with iCloud."
+2026-11-16T16:05:29.970263Z,com.copado/agentia-cli,Copado Agentia,1.10.0,https://github.com/CopadoSolutions/agentia-cli-mcp,,Run Copado DevOps tasks from MCP-capable AI agents through the Agentia CLI local MCP server.
+2026-11-16T16:06:35.002022Z,com.alphacitation/reference,AlphaCitation reference lookup,1.0.0,,streamable-http,Which US or EU regulatory record settles a medicine claim on a date. Keyless; not medical advice.
+2026-11-16T16:08:03.076258Z,ai.rejstrik/mcp,Rejstřík AI,0.3.31.0,,streamable-http,"Czech company registry: search, profiles, relationships, status and evidence by ICO."
+2026-11-16T16:08:29.359446Z,ai.singular-labs.signal/singular-signal,Singular Signal,1.0.0,,streamable-http,Backtest long-only stock and ETF rules on one-minute bars and compare them with buy-and-hold.
+2026-11-16T16:10:32.17958Z,com.kerbtape/weekend-board,KerbTape weekend board,1.0.0,,streamable-http,"Read-only data on Hyperliquid stock, index and pre-IPO perps: closes, weekend gaps, reopens"
+2026-11-16T16:11:25.223929Z,io.github.pandafileco/pandafile-mcp,Pandafile,0.1.0,https://github.com/pandafileco/pandafile-mcp,,"Send big files and folders with a link, manage transfers and file requests on pandafile.co."
+2026-11-16T16:12:40.013002Z,me.ireum/ireum,Ireum — your name in Korean,1.1.0,,streamable-http,"Write any name in Hangul and get real Korean given names with hanja, meanings and pronunciation."
+2026-11-16T16:14:33.679476Z,io.github.hyprh/self-starter,Self-Starter,0.1.1,https://github.com/hyprh/self-starter,,"Local zero-token event triggers and standing jobs for Claude Code, Codex, Antigravity & OpenCode."
+2026-11-16T16:17:20.798394Z,com.bilingualmix/bilingual-mix,,1.0.0,,streamable-http,Turn matching Mandarin or Japanese and English audio into one interleaved listening MP3.
+2026-11-16T16:19:13.761165Z,io.github.kprojectship/clipreel,ClipReel,1.0.0,,streamable-http,"Edit video with prompts, draft captions, review previews, reframe clips, and export MP4s."
