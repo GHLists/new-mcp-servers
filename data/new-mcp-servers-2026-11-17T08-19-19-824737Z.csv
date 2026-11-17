@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-11-17T07:20:35.846273Z,com.cgajs/cgajs-mcp,,0.1.1,,,Compile CGA rules into 3D models (GLB) via the CGA.js cloud API; quota query included.
+2026-11-17T07:20:36.442579Z,com.cgajs/nl2cga-mcp,,0.1.1,,,Generate CGA rules from natural language via the NL2CGA cloud API (Chinese/English).
+2026-11-17T07:20:42.616062Z,io.github.sepehr071/iran-dictionary-mcp,Iran Dictionary (Abadis + Vajehyab),0.1.0,https://github.com/sepehr071/iran-dictionary-mcp,,"Read-only Persian dictionaries: Abadis and Vajehyab. Meanings, synonyms, translation, names."
+2026-11-17T07:22:14.926639Z,ai.lhub/marketplace,LHUB agent service marketplace,0.1.0,,streamable-http,"Agent-to-agent service marketplace: list, find, negotiate, pay with escrow (sandbox currency)."
+2026-11-17T07:30:17.52935Z,ai.vaaya/mcp,Vaaya,0.8.1,https://github.com/vaaya-ai/vaaya-mcp,streamable-http,"The best wallet for your agents: a prepaid balance and spending limits for 4,400+ paid endpoints."
+2026-11-17T07:36:48.235699Z,com.tintloom/images,Tintloom,1.0.0,,streamable-http,"Make and edit images inside Claude chats. Ask in a sentence, edit by pointing. 10 free credits."
+2026-11-17T07:43:04.792739Z,si.quickmatch/quickmatch,QuickMatch,1.0.0,,streamable-http,"Free, read-only MCP server to search and compare AI tools for making video games. No API key."
+2026-11-17T07:47:53.394854Z,com.wrapwizzard/wrap-wizzard,Wrap Wizzard,1.0.4,,streamable-http,"Preview a car in vinyl wrap films from brand catalogs, or apply a custom livery from a reference."
+2026-11-17T07:47:54.429009Z,io.github.dengyier/ai-native-system,AI Native System,0.1.0,https://github.com/dengyier/AI-Native-System,,Read authorized applications and task status from an AI Native System deployment.
+2026-11-17T07:56:52.986647Z,io.github.RectaBuild/preflight,Recta Preflight,1.0.0,https://github.com/RectaBuild/recta,streamable-http,"Free check before a cross-chain USDC/USDT transfer: total cost, arrival time, proven cheaper route"
+2026-11-17T08:00:02.902871Z,com.awesomefee/tron-x402,"AwesomeFee: TRON energy, sending and node for AI agents",0.2.0,,streamable-http,"TRON energy, USDT sending without TRX, node RPC and events for agents; pay per call via x402."
+2026-11-17T08:02:56.308777Z,ai.bazichart/bazichart-mcp,BaziChart,0.2.0,https://github.com/bazichart/bazichart-mcp,streamable-http,BaZi (Four Pillars) and Zi Wei Dou Shu chart calculation with true solar time. No install or login.
+2026-11-17T08:04:18.850521Z,io.github.rudraneel93/turingate,Turingate,0.2.2,https://github.com/rudraneel93/turingate-sdk,,"Reverse CAPTCHA for AI agents: prove you're an agent and get a verified, scoped, signed pass."
+2026-11-17T08:10:39.289123Z,io.github.codixio/codixio-api,Codixio API,1.0.0,,streamable-http,"E-invoice validation and creation, EU tariff code suggestions and marketplace listing localization."
+2026-11-17T08:10:39.404325Z,io.github.codixio/codixio-api-einvoice,Codixio API E-Invoice,1.0.0,,streamable-http,"Validate XRechnung, ZUGFeRD and Factur-X with the KoSIT validator and create valid e-invoices."
+2026-11-17T08:10:39.514979Z,io.github.codixio/codixio-api-tariff,Codixio API Tariff,1.0.0,,streamable-http,"Suggest the EU tariff code (CN, TARIC) for a product with reasoning and import measures."
+2026-11-17T08:10:39.629024Z,io.github.codixio/codixio-api-listing,Codixio API Listing,1.0.0,,streamable-http,"Localize marketplace listings (title, bullets, description) for a target marketplace and language."
+2026-11-17T08:11:27.014929Z,de.donostiasansebastian/gozatu,Gozatu! Donostia-San Sebastián,1.0.0,,streamable-http,"San Sebastián travel guide (German): pintxos bars with opening hours, bus/train times, festivals"
+2026-11-17T08:12:59.580435Z,com.tidybutton/export-screen,Export Screening Watch,1.0.0,,streamable-http,Screen buyers and suppliers against the US Consolidated Screening List; re-screen on changes.
+2026-11-17T08:14:39.611794Z,ru.uplanny/uplanny,uPlanny — салоны и запись,1.0.0,,streamable-http,"Russian beauty salons and services by place, rating, price; free time; a booking link"
+2026-11-17T08:15:18.505648Z,io.github.brainOS-HQ/brain-os,BrainOS,0.11.1,https://github.com/brainOS-HQ/brain-os,,"One memory for every AI tool: your AI picks up where you left off, with decisions and plans."
+2026-11-17T08:15:19.272984Z,io.github.alesdev88/bricscad-mcp,BricsCAD,0.1.0,https://github.com/alesdev88/bricscad-mcp,,"Read, audit and edit drawings in BricsCAD through a LISP listener. Works at Lite level."
+2026-11-17T08:16:22.278401Z,io.github.alissonthmaldaner-afk/mcp-advogados-pt,"mcp-advogados-pt — legislação, jurisprudência e Citius",0.1.6,https://github.com/alissonthmaldaner-afk/mcp-advogados-pt,,"Legislação e jurisprudência portuguesas (PGDL, DRE, dgsi, TC, CAAD) e Citius. Requer licença paga."
+2026-11-17T08:16:24.954178Z,com.testerswap.api/testerswap,TesterSwap,1.0.0,https://github.com/sohhamm/supercollective-plugins,streamable-http,Manage your app tests and credits with your TesterSwap account. Real people do the testing.
