@@ -1,0 +1,30 @@
+created_at,server,title,version,repository,transports,description
+2026-11-17T01:26:52.459621Z,jp.kansokujo/bids,入札案件観測所,0.3.0,,streamable-http,"Japan public procurement: open tenders, upcoming bid plans, and award results since 2004."
+2026-11-17T01:30:40.826772Z,com.realisticragdollengine.game-assets/itemsmith,Itemsmith game assets,1.0.0,,streamable-http,"Matching 2D game sprites, icons, tiles and UI kits as PNG + JSON atlas. Free tier, no key."
+2026-11-17T01:31:27.62684Z,com.quohouse/quo,Quo,1.0.0,,streamable-http,"Chauffeured black car rides across Florida: quote a fare, request a ride, check on or cancel it."
+2026-11-17T01:32:47.960746Z,io.github.Houski/property-data,Houski Property Data,0.1.16,,streamable-http,"Property data for 220M+ homes in North America, Europe and South Korea: search, stats and values."
+2026-11-17T01:34:39.464378Z,io.github.pshivapr/selenium-webdriver-mcp,,0.4.8,https://github.com/pshivapr/selenium-mcp,,Selenium Tools for MCP
+2026-11-17T01:35:23.355629Z,io.github.apireno/domshell,DOMShell,2.0.11,https://github.com/apireno/DOMShell,,"Drive Chrome with filesystem commands (ls, cd, grep, click, type). One MCP tool, multi-agent."
+2026-11-17T01:36:58.714363Z,app.kedimeet/kedimeet,KediMeet,1.0.0,https://github.com/Kedicode-TR/kedimeet-mcp,,Search and read call transcripts and summaries recorded by the KediMeet Mac app. Read-only.
+2026-11-17T01:45:49.049019Z,io.github.outsmall/xc-compliance,xc-compliance,0.3.14,,streamable-http,EU product compliance evidence: official legal excerpts and historical product safety alerts.
+2026-11-17T01:46:12.486708Z,io.github.theharrisontruong-web/mailauth-audit,MailAuth Audit (Email Deliverability),1.0.0,https://github.com/theharrisontruong-web/agent-apis,streamable-http,"Audits a domain's SPF, DKIM, DMARC and MX for spoofing risk and deliverability. $1.50/call via x402."
+2026-11-17T01:46:12.972634Z,io.github.theharrisontruong-web/secheaders-audit,Security Headers + TLS Audit,1.0.0,https://github.com/theharrisontruong-web/agent-apis,streamable-http,"Audits security headers + TLS (HSTS, CSP, cert, cookies) for any site. $1.50/call via x402."
+2026-11-17T01:46:13.450796Z,io.github.theharrisontruong-web/seo-audit,SEO Technical Audit,1.0.0,https://github.com/theharrisontruong-web/agent-apis,streamable-http,"Technical SEO audit of any web page: indexing, meta, OG, schema. $1.00/call via x402."
+2026-11-17T01:46:13.930447Z,io.github.theharrisontruong-web/tokenverdict,Base Token Verdict,1.0.0,https://github.com/theharrisontruong-web/agent-apis,streamable-http,Base token verdict: GO/HOLD/BLOCK decision + score on any Base token address. $0.02/call via x402.
+2026-11-17T01:47:04.180205Z,app.vibecreator/video,VibeCreator,1.0.0,,streamable-http,"Turn an idea into a short animated video (stories, explainers, maps) that plays in your browser."
+2026-11-17T01:48:47.967338Z,com.financeappradar/referral-codes,Finance App Radar referral codes,1.0.0,,streamable-http,"Verified U.S. referral codes and sign-up links for money, sports and AI apps, with redemption steps."
+2026-11-17T01:49:45.049929Z,dev.changefeed/protocol-change-feed,Protocol Change Feed,0.1.0,,streamable-http,"DeFi governance votes, contract upgrades, and who controls any contract. Paid per call via x402."
+2026-11-17T01:50:45.54015Z,io.github.finnmckenty/ntscrt,NTSCRT,0.26.4,https://github.com/finnmckenty/NTSCRT,,"VHS, CRT and analog TV looks for images and video: preview, animate and render them."
+2026-11-17T01:52:56.283679Z,io.github.aw3-technology/openeye,OpenEye,0.3.0,https://github.com/aw3-technology/openeye.sh,,"Vision for agents: run YOLO, depth, segmentation and detection models locally or via hosted API."
+2026-11-17T01:58:34.00241Z,com.zyte/mcp,Zyte MCP,1.0.0,,streamable-http,"Fetch web pages, extract structured data, search the web and manage Scrapy Cloud jobs with Zyte."
+2026-11-17T01:58:41.50731Z,pro.valkiria/valkiria,,1.0.0,,streamable-http,"Ad, SMM, SEO and market analytics for one account owner; drafts only, owner approves in dashboard."
+2026-11-17T01:59:35.102925Z,io.github.Hobizbo/email-gate,Wingmarked,1.0.0,,streamable-http,Approval layer for AI agent email: check drafts and send through a gate that holds risky mail.
+2026-11-17T01:59:45.981864Z,io.github.Aziz0346/gradeatlas,GradeAtlas MCP,0.1.0,https://github.com/Aziz0346/gradeatlas,streamable-http,"Convert grades between 1,159 grading systems across 246 countries into the US 4.0 GPA scale."
+2026-11-17T02:06:05.514063Z,io.github.SuresoftTechnologies/alira-ai-agent,ALIRA-AI,0.1.0,https://github.com/SuresoftTechnologies/alira-ai-agent,streamable-http,"Generate software design documents (SDD) from C source code as Word or Markdown. Paid, free trial."
+2026-11-17T02:07:28.621111Z,io.github.oliveiratc/grid402,Grid402 — Brazil Public Data & Network Oracle,1.9.0,https://github.com/oliveiratc/Grid402,streamable-http,"24 MCP tools: Brazil CNPJ, compliance, ANBIMA, FX, GLEIF LEI, OFAC & DNS/SSL via x402 Base USDC."
+2026-11-17T02:08:41.281953Z,io.github.realadeel/poliscope,Poliscope,1.0.0,,streamable-http,"US political money data: campaign finance, lobbying, dark money, contracts and SEC filings."
+2026-11-17T02:13:31.775499Z,co.bricktable/bricktable,BrickTable,1.0.0,,streamable-http,"Tokenized real estate on RealT, Lofty, Binaryx and Reental: listings, executed trades and yields."
+2026-11-17T02:15:21.454029Z,io.github.Cameleering/cameleer,Cameleer,0.7.1,https://github.com/cameleering/cameleer,,"Serve Camel-style routes as MCP tools with approvals, rate limits and audit; also an MCP gateway."
+2026-11-17T02:15:25.194409Z,net.builderlog/connector,Builderlog,1.0.0,,streamable-http,"Naver blog helper: topic ideas, post briefs, checks, cover text and keyword volume, in Korean."
+2026-11-17T02:15:41.690834Z,io.github.edward-kim-dev/kr-pc-deals-mcp,한국 PC 부품 가격비교,2.0.0,https://github.com/edward-kim-dev/kr-pc-deals-mcp,,"다나와·에누리·견적왕·컴퓨존 PC 부품 가격 비교, 조립 견적 합계, 호환성 검사"
+2026-11-17T02:17:43.220498Z,dev.workers.mtfit-mcp.mtfit-mcp/programming,MTFIT Programming,1.0.0,,streamable-http,Workout and nutrition plans built on a real coach's rules. Paid per call with x402 (USDC on Base).
