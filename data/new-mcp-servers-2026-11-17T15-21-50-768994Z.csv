@@ -1,0 +1,32 @@
+created_at,server,title,version,repository,transports,description
+2026-11-17T14:22:37.119579Z,com.apprendre-les-echecs-24h/catalogue-echecs-fr,"Catalogue APP24, formations d'échecs en français",1.0.1,,streamable-http,"94 formations d'échecs en français, prix à jour, conseil d'entraîneur. French chess courses."
+2026-11-17T14:24:18.979648Z,dev.geartrain/geartrain,GearTrain,2026.11.3,,streamable-http,"Create, schedule, and run JavaScript jobs, manage files, and inspect runs from your AI agent."
+2026-11-17T14:30:03.666805Z,co.aiapply/aiapply,AIApply,1.0.0,,streamable-http,"Find jobs and apply with AI: search jobs, set up Auto Apply from your resume and track applications."
+2026-11-17T14:31:02.178875Z,io.github.Antrakt92/mcp-server-excel,Excel MCP Server for Windows (Antrakt Fork),5.4.0,https://github.com/Antrakt92/mcp-server-excel,,"MCP for Windows x64 with desktop Microsoft Excel. Audit workbooks, compare saved files and edit VBA."
+2026-11-17T14:35:02.069312Z,br.app.dmcommerce/dmcommerce,DMCommerce,1.0.0,,streamable-http,"Search products, sizes, stock and shipping quotes at Brazilian online stores that run on DMCommerce"
+2026-11-17T14:35:29.417717Z,io.github.VrilLabs/vercel-oss-registry,Vercel OSS Registry,0.1.0,https://github.com/VrilLabs/vercel-oss-registry-mcp,streamable-http,"Search all 138 projects funded by the Vercel Open Source Program: repos, descriptions, topics."
+2026-11-17T14:37:57.432342Z,com.hakariza/valuation,hakariza Valuation,1.0.0,,streamable-http,Read-only company valuation datasets for AI clients. Free with a hakariza account (API key).
+2026-11-17T14:38:18.135805Z,io.github.hughhan1/database,Database for Holon,0.1.5,https://github.com/hughhan1/database,,Give each Holon app a private PostgreSQL store with atomic SQL batches and retry keys.
+2026-11-17T14:39:02.141383Z,com.dialectlayer/dialect,Dialect,1.0.0,,streamable-http,Give the physical world an API: cameras become typed endpoints your agent can read and act on.
+2026-11-17T14:39:02.289319Z,com.dialectlayer/dialect-demo,Dialect demo,1.0.0,,streamable-http,"Try Dialect with no account: read-only public endpoints, like a live NASA test chamber door."
+2026-11-17T14:39:58.043989Z,io.github.jors7/kadenzo-mcp,,1.4.0,https://github.com/jors7/kadenzo-mcp,streamable-http,"Schedule, manage, generate & analyze social posts on 11 networks from any AI agent. Hosted or local."
+2026-11-17T14:41:00.829339Z,ai.regga/regga,Regga,1.0.0,,streamable-http,Double-check your AI when it says something doesn't exist
+2026-11-17T14:41:20.262808Z,io.github.LeoSprr/testbay-mcp,Testbay,1.0.0,https://github.com/LeoSprr/testbay-mcp,,"MCP tools for Testbay: list tests, drafts, tester feedback and account credits."
+2026-11-17T14:41:39.42841Z,com.helprange/helprange,HelpRange,1.0.0,,streamable-http,"Secure document sharing and data rooms: see who read which page, create tracked links and rooms."
+2026-11-17T14:41:58.162435Z,com.iar.docs-mcp/iar-documentation,IAR Documentation,0.1.0,,streamable-http,"IAR Embedded Workbench, compiler, C-SPY, C-STAT and debug probe docs from docs.iar.com."
+2026-11-17T14:45:06.831175Z,com.ai-agents-mediation/agent-mediate,Agent-Mediate,0.1.0,https://github.com/pieterjooste/agent-mediate,,Neutral sealed-offer dispute mediation for autonomous AI agents via did:key & x402
+2026-11-17T14:46:41.292286Z,io.github.adecubed/gigamail,,0.6.8,https://github.com/adecubed/gigamail,,Your real mailbox and calendar for your agent (M365/IMAP); a human approves every send.
+2026-11-17T14:48:13.797286Z,dev.spamgone/spamgone,Spamgone,1.0.0,,streamable-http,"Check messages for spam, scams and toxicity, and manage review, rules and API keys."
+2026-11-17T14:50:14.528153Z,ai.surveygent/surveygent,Surveygent,1.0.0,,streamable-http,Short written interview for working AI agents. No credentials or system access.
+2026-11-17T14:50:48.708537Z,uk.co.tacticafootball/tactica,tactica. football intelligence,1.0.0,,streamable-http,"Football forecasts, Case Files, betting picks and Top 5 for the EPL and EFL. Paid via x402."
+2026-11-17T14:53:56.37511Z,art.coloringmagic/coloring-magic-art,Coloring Magic Art,1.3.0,,streamable-http,"Create and manage coloring books, generate pages, and export PDFs. Tokens are bought on the website."
+2026-11-17T14:59:08.697434Z,io.github.hexacron/northbid,Northbid: Canadian procurement search,0.2.1,https://github.com/hexacron/northbid,,"Search Government of Canada tenders, awards and standing offers from CanadaBuys data. Unofficial."
+2026-11-17T15:00:43.740427Z,io.github.investwiser-as/investwiser,InvestWiser,1.0.4,,streamable-http,"Aurora from InvestWiser, the AI agent for Nordic stocks and funds: rankings, screening and analysis."
+2026-11-17T15:01:19.541674Z,so.referly/referly,Referly,1.0.0,,streamable-http,"Run your Referly affiliate program: affiliates, sales, commissions, coupons and payout prep."
+2026-11-17T15:01:36.978574Z,at.btree/beekeeping-manager,b.tree Beekeeping Manager,1.0.0,,streamable-http,"Manage apiaries, hives, feedings, treatments, harvests and tasks in b.tree beekeeping software."
+2026-11-17T15:05:28.408697Z,com.genphenia/genphenia,GenPhenia,0.21.1,,streamable-http,Rank candidate genes for rare-disease patients from HPO phenotype terms.
+2026-11-17T15:07:08.282932Z,fr.sealopendata/open-data,Seal Open Data,1.0.0,https://github.com/ariacom/Seal-Report,streamable-http,"French public open data (data.gouv.fr) cross-referenced by commune, EPCI and department."
+2026-11-17T15:09:25.934353Z,io.github.theluckystrike/ingredient-convert-mcp,Ingredient Unit Converter MCP,1.0.1,https://github.com/theluckystrike/ingredient-convert-mcp,streamable-http,"Cooking conversions: cups, tbsp, tsp, ml, grams and ounces per ingredient, plus recipe scaling."
+2026-11-17T15:13:09.204918Z,io.github.langmail/langmail-mcp,"Langmail MCP for your own Stalwart: email, calendar and contacts",0.1.0,https://github.com/langmail/langmail-mcp,,"Self-hosted MCP server for Stalwart: email, calendar and contacts over JMAP, CalDAV and CardDAV."
+2026-11-17T15:21:15.97731Z,io.github.theluckystrike/home-health-hospice-ratings-care-compare-mcp,Home Health and Hospice Ratings (Care Compare) MCP,1.0.0,https://github.com/theluckystrike/home-health-hospice-ratings-care-compare-mcp,streamable-http,"Medicare Care Compare ratings for home health agencies and hospices: stars, surveys, quality by ZIP."
+2026-11-17T15:21:45.054254Z,ai.reevi/find-buyers,Reevi: find buyers for exporters,1.0.0,,streamable-http,"Find companies that already buy your product, by product and country. Free, no key."
