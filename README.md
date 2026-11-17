@@ -9,52 +9,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 21:22 UTC
+## Latest list — 2026-11-17 22:21 UTC
 
-New MCP servers published between 2026-11-17 20:22 UTC and 2026-11-17 21:22 UTC.
+New MCP servers published between 2026-11-17 21:22 UTC and 2026-11-17 22:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-17T21-22-14-526459Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-17T22-21-06-781422Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-17 20:22:10 | com.hugedomains/catalog | HugeDomains: premium domain names for s… | 1.0.75 | Search and price premium aftermarket domain names for sale on HugeDomains.com. |
-| 2026-11-17 20:26:53 | [io.github.CloudCorpRecords/launchledger](https://github.com/CloudCorpRecords/launchledger) |  | 0.1.0 | Search a live catalogue of launched AI tools, fetch details, alternatives and p… |
-| 2026-11-17 20:29:16 | com.kindoflost.nhl-lineup-optimizer/dfs-lineup-optimizer | DFS Lineup Optimizer | 1.0.0 | Builds MLB, NFL, NHL and NBA DFS lineups with a real optimizer: cap, stacks, ex… |
-| 2026-11-17 20:32:50 | [com.paiddev/latent-space](https://github.com/PAID-LLC/paid-llc-website) | The Latent Space | 1.0.0 | Persistent world for AI agents: register, duel, take paid bounties, hire agents… |
-| 2026-11-17 20:34:09 | [io.github.CloudCorpRecords/collegeplan](https://github.com/CloudCorpRecords/collegeplan) |  | 0.1.0 | Compare state 529 plans, look up college costs and check qualified 529 expenses. |
-| 2026-11-17 20:34:59 | io.github.dezsirazvan/ezlogs | EZLogs | 1.0.0 | Read-only plain-English activity log of your Rails or Next.js app: actions, act… |
-| 2026-11-17 20:36:33 | com.bubiads/mcp | Bubi Ads | 1.0.0 | AI ad manager for local businesses: Meta, Google Ads, TikTok and ChatGPT Ads fr… |
-| 2026-11-17 20:38:34 | [com.feeduna.app/mcp](https://github.com/performeon/feeduna-mcp) | Feeduna | 0.1.1 | Read, export and submit customer feedback for your app via a scoped, expiring F… |
-| 2026-11-17 20:38:39 | [com.heygen/hyperframes](https://github.com/heygen-com/hyperframes) | HyperFrames by HeyGen | 1.0.0 | Official HyperFrames by HeyGen: the best AI video editor in chat. Captions, mot… |
-| 2026-11-17 20:41:06 | [io.github.CloudCorpRecords/stillspa](https://github.com/CloudCorpRecords/stillspa) |  | 0.1.0 | A text-first retreat for agents: browse experiences, read scenes and linger in… |
-| 2026-11-17 20:41:09 | com.qualflare/mcp | Qualflare | 1.0.0 | Run browser journeys on the app you build with AI, and manage test cases, launc… |
-| 2026-11-17 20:44:14 | dm.filament/agents | Filament | 1.0.0 | Give your agent an account on Filament: read, search and post in channels and t… |
-| 2026-11-17 20:44:27 | [io.github.BEG-lag/mcp-dof](https://github.com/BEG-lag/mcp-dof) | DOF: Diario Oficial de la Federación | 1.0.0 | Mexico's official gazette (DOF): daily editions, full texts, title search, FIX,… |
-| 2026-11-17 20:46:17 | [io.github.williamdoring-prog/ai-host-optimizer](https://github.com/williamdoring-prog/ai-host-optimizer) | AI Host Optimizer | 1.1.1 | Profile a host and get an evidence-graded checklist of AI-model optimizations. |
-| 2026-11-17 20:48:24 | ai.yellowkey/yellowkey | Yellowkey | 1.0.0 | Research data on 10,000+ listed companies and 7,000 ETFs: results, guidance, me… |
-| 2026-11-17 20:48:25 | [io.github.CloudCorpRecords/cafeporch](https://github.com/CloudCorpRecords/cafeporch) |  | 0.1.0 | A free espresso lounge for agents: read the menu, order a drink, check it, and… |
-| 2026-11-17 20:48:43 | [lol.browser/browser](https://github.com/BrowserProject/browserlol-mcp) | Browser.lol | 1.0.0 | A real cloud browser for AI agents: human-like input, a live view to watch and… |
-| 2026-11-17 20:49:50 | [io.github.mgantlett/nomos](https://github.com/mgantlett/nomos) | SophiaLabs & Nomos Open-Core MCP | 4.23.0 | Read-only Streamable HTTP MCP for Nomos corpus search, 42 DoD gates, and govern… |
-| 2026-11-17 20:51:17 | [io.github.ctrlpi/ctrlpi-mcp](https://github.com/ctrlpi/ctrlpi-mcp) |  | 0.9.40 | MCP server to control Raspberry Pi, Pico W and ESP32 GPIO agents from an AI ass… |
-| 2026-11-17 20:54:08 | com.kracey/mcp | Kracey | 1.0.0 | Your training, fitness and race predictions, HYROX pacing, a race finder and tr… |
-| 2026-11-17 20:57:24 | com.robotcantina/robot-cantina | Robot Cantina | 1.0.0 | Read and post to Robot Cantina, a free public message board for humans and appr… |
-| 2026-11-17 20:58:36 | [io.github.CloudCorpRecords/tracktrace](https://github.com/CloudCorpRecords/tracktrace) |  | 0.1.0 | Track packages by number: current status, estimated delivery and full scan hist… |
-| 2026-11-17 20:59:33 | com.simplecold/email-verification | SimpleCold Email Verification | 1.0.0 | Verify emails and clean lists: deliverable, risky or undeliverable, with a plai… |
-| 2026-11-17 21:04:09 | agency.almostimpossible/site | Almost Impossible | 1.0.0 | Read-only access to the Almost Impossible agency website: case studies, team, n… |
-| 2026-11-17 21:04:54 | io.github.abhaydwivedi0403/couponbricks | CouponBricks verified coupons | 1.0.0 | Live coupon codes and deals for 1,000+ online stores, with the date each was la… |
-| 2026-11-17 21:05:34 | [io.github.CloudCorpRecords/crawlsight](https://github.com/CloudCorpRecords/crawlsight) |  | 0.1.0 | Check a site's AI visibility: crawler access, llms.txt generate and validate, r… |
-| 2026-11-17 21:07:41 | [net.modelbrain/search-console](https://github.com/ModelBrain/modelbrain-connectors) |  | 0.1.0 | Free, read-only Google Search Console for Claude, ChatGPT and Cursor. Every pro… |
-| 2026-11-17 21:09:09 | si.intentleads/intent-leads | Intent Leads | 1.0.0 | US B2B intent data and leads for AI agents: free counts and quotes, exports wit… |
-| 2026-11-17 21:10:34 | com.appelium/mcp | Appelium | 1.0.0 | Investigate iOS and Android crashes and failed UI tests from your coding agent. |
-| 2026-11-17 21:12:55 | [io.github.CloudCorpRecords/beamtable](https://github.com/CloudCorpRecords/beamtable) |  | 0.1.0 | Search and compare a laser-materials dataset: columns, rows, stats, top values… |
-| 2026-11-17 21:14:28 | com.pingutil/mcp | pingutil email verification | 1.0.0 | Verify email addresses (SMTP, catch-all, disposable) and classify emails or dom… |
-| 2026-11-17 21:15:02 | io.github.jannegpriv/streamkollen | StreamKollen — Swedish Streaming Guide | 0.3.3 | Where movies & TV stream in Sweden, trending titles and live sport broadcasts. |
-| 2026-11-17 21:17:04 | dev.novaquill/token-risk | Novaquill Token Risk | 1.0.0 | Honeypot/tax simulation, owner powers and LP locks for BNB Chain and Base token… |
-| 2026-11-17 21:17:18 | ai.clearthesis/clearthesis | Clearthesis | 1.0.0 | Plain-English investment theses on 650+ US stocks, refreshed every quarter. |
-| 2026-11-17 21:20:14 | [io.github.CloudCorpRecords/deskreply](https://github.com/CloudCorpRecords/deskreply) |  | 0.1.0 | What an AI receptionist service does: overview, industries served, example call… |
-| 2026-11-17 21:20:27 | is.lass/lass | Lass Pass | 0.1.0 | Hire Ryan Lasswell (Lass) for design work from your agent: brief, quote and han… |
-| 2026-11-17 21:20:28 | is.lass/recruit | Lass Recruit | 0.1.0 | Read-only facts about designer Ryan Lasswell for recruiters. No sign-in. |
-| 2026-11-17 21:21:34 | com.choreoff/choreoff | ChoreOFF | 1.0.0 | Local home service pros, typical prices and open home jobs near a U.S. ZIP. Rea… |
+| 2026-11-17 21:22:47 | com.ridekick/ridekick | Ridekick | 1.0.0 | Find cars near you and get offers from dealerships: each out-the-door price, in… |
+| 2026-11-17 21:23:30 | [com.ctruh.verse/verse](https://github.com/dev-vinayagastya/verse-mcp) | Verse | 0.1.1 | Publish 3D scenes, walkthroughs and worlds as links that open in any browser, v… |
+| 2026-11-17 21:27:47 | [io.github.CloudCorpRecords/benchwire](https://github.com/CloudCorpRecords/benchwire) |  | 0.1.0 | Search recent Laravel jobs and Laravel ecosystem news and package releases from… |
+| 2026-11-17 21:34:10 | co.datacandy/leads | Data Candy: US business leads | 1.0.0 | Count, preview and quote US business leads for free, then buy them with a spend… |
+| 2026-11-17 21:34:55 | com.aurioapp/cuenta | Aurio | 1.0.0 | Personal finance totals from your Aurio account: balance, income, spending, cat… |
+| 2026-11-17 21:35:29 | [io.github.CloudCorpRecords/partfits](https://github.com/CloudCorpRecords/partfits) |  | 0.1.0 | Find OEM laptop parts, list the models each part fits, and read step-by-step re… |
+| 2026-11-17 21:36:11 | [io.github.IBM/aspera-cli](https://github.com/IBM/aspera-cli) | IBM Aspera CLI | 4.29.0 | Operate IBM Aspera products: transfers, packages, files and administration |
+| 2026-11-17 21:36:13 | co.sandbox/mcp | sandbox.co | 0.1.0 | sandbox.co, the marketplace of growth plays: find and run operator playbooks fr… |
+| 2026-11-17 21:36:29 | [io.github.rctruta/ashby-location-filter](https://github.com/rctruta/ashby-location-filter) |  | 0.2.1 | MCP server for canonical Ashby job board search, location normalization, and sc… |
+| 2026-11-17 21:38:24 | [io.github.Aricept094/negaresh](https://github.com/Aricept094/negaresh) | negaresh | 0.2.0 | Persian (Farsi) writing rules and checks: natural sentences, grammar, orthograp… |
+| 2026-11-17 21:39:07 | [io.github.arkaduush-code/vanborn-labs-mcp](https://github.com/arkaduush-code/vanborn-labs-mcp) | Van Born Labs | 0.2.0 | MCP server for Van Born Labs: YouTube, Google News, email/domain validation, an… |
+| 2026-11-17 21:40:20 | [ai.makebox.mcp/gohighlevel](https://github.com/russol07/makebox-gohighlevel-plugin) | MakeBox for GoHighLevel | 0.4.0 | GoHighLevel CRM: contacts, SMS, calendar, sales, workflows. Subscription requir… |
+| 2026-11-17 21:42:47 | [io.github.CloudCorpRecords/launchboard](https://github.com/CloudCorpRecords/launchboard) |  | 0.1.0 | Search a daily catalogue of newly launched AI tools, fetch details, alternative… |
+| 2026-11-17 21:43:28 | [io.github.varity-labs/varity-mcp](https://github.com/varity-labs/varity-mcp) | Varity | 2.3.27 | Deploy apps and AI agents to production from your AI editor, with the cost show… |
+| 2026-11-17 21:43:45 | de.echtbrief/briefe | Echtbrief – Handwritten Letters | 1.0.0 | Send real pen-written letters by post in Germany from your AI agent, with previ… |
+| 2026-11-17 21:45:56 | [com.morsecodetranslator/morse-code-translator-mcp](https://github.com/morse-translator/mcp-server) | Morse Code Translator | 1.0.0 | Translate text to Morse code and back, and get the Morse code alphabet. |
+| 2026-11-17 21:46:37 | [io.github.pappyg45/proveitonchain](https://github.com/pappyg45/proveitonchain-mcp) | Prove It Onchain | 1.0.0 | Prove you made, own, or said it first: one-of-one proof tokens on Bitcoin, sign… |
+| 2026-11-17 21:49:37 | [com.morsecodetranslator/mcp-server](https://github.com/morse-translator/mcp-server) | Morse Code Translator | 1.0.0 | Translate text to Morse code and back, and get the Morse code alphabet. |
+| 2026-11-17 21:49:44 | [io.github.CloudCorpRecords/modelprice](https://github.com/CloudCorpRecords/modelprice) |  | 0.1.0 | LLM API prices by seller: model search, per-seller prices, cost estimates and b… |
+| 2026-11-17 21:51:30 | com.waypointbudget/waypoint-budget | Waypoint Budget | 1.0.0 | Ask about your Waypoint Budget spending, budgets, goals and accounts. Read-only. |
+| 2026-11-17 21:54:37 | [co.bulktranscripts/youtube](https://github.com/pratie/bulktranscripts-mcp) | BulkTranscripts YouTube | 1.1.1 | YouTube transcripts for AI agents: one video, a whole channel or playlist, sear… |
+| 2026-11-17 21:55:01 | cc.figa/figa | Figa | 1.0.0 | Plan recurring bills and expenses: list, add, confirm amounts, forecast the mon… |
+| 2026-11-17 21:56:51 | com.pressable/mcp | Pressable | 1.0.0 | Manage Pressable WordPress hosting: sites, backups, plugins, caching, domains a… |
+| 2026-11-17 21:57:04 | [io.github.CloudCorpRecords/groupfare](https://github.com/CloudCorpRecords/groupfare) |  | 0.1.0 | Group flight fares: service info, small-party fare search, offers, and a never-… |
+| 2026-11-17 21:59:57 | [io.github.kodenova/sap-b1-mcp](https://github.com/kodenova/sap-b1-mcp) | SAP Business One (read-only) | 0.1.0 | Read-only SAP Business One Service Layer tools: partners, items, orders, invoic… |
+| 2026-11-17 22:01:59 | ai.acubic/acubic | Acubic | 1.0.0 | Explain, screen, build and backtest systematic portfolios from eToro and Tradin… |
+| 2026-11-17 22:03:28 | [io.github.Jam0k/threatcluster](https://github.com/Jam0k/Threat-Intelligence-MCP) |  | 0.2.7 | Live threat intelligence: incident clusters, threat actors, CVEs with KEV/EPSS,… |
+| 2026-11-17 22:03:52 | [io.github.memeanalyst/career-site-jobs-mcp](https://github.com/memeanalyst/career-site-jobs-mcp) | Career Site Jobs | 1.0.0 | Get every open job from official Greenhouse, Lever, Ashby, Workable boards, by… |
+| 2026-11-17 22:03:52 | [io.github.memeanalyst/eures-jobs-scraper-mcp](https://github.com/memeanalyst/eures-jobs-scraper-mcp) | EURES Jobs Scraper | 1.0.0 | Search EURES, the EU's official jobs portal, by keyword, country, occupation, b… |
+| 2026-11-17 22:03:52 | [io.github.memeanalyst/nhs-jobs-scraper-mcp](https://github.com/memeanalyst/nhs-jobs-scraper-mcp) | NHS Jobs Scraper | 1.0.0 | Search NHS Jobs, the official NHS board for England and Wales, by keyword, by M… |
+| 2026-11-17 22:03:53 | [io.github.memeanalyst/workday-jobs-scraper-mcp](https://github.com/memeanalyst/workday-jobs-scraper-mcp) | Workday Jobs Scraper | 1.0.0 | Scrape every open job from any company's Workday careers site, by Magnova |
+| 2026-11-17 22:04:31 | [io.github.CloudCorpRecords/tabletimes](https://github.com/CloudCorpRecords/tabletimes) |  | 0.1.0 | Restaurant venue directory and live table availability. Read-only subset; no bo… |
+| 2026-11-17 22:05:24 | io.giftgenius/gift-genius | Gift Genius | 1.0.0 | Gift ideas for a specific person, occasion and budget, with a link to see them… |
+| 2026-11-17 22:07:58 | [io.github.nextmsg-app/mcp](https://github.com/nextmsg-app/mcp) | NextMsg | 1.0.6 | Push notifications to your phone from AI agents: a notify_human tool via the Ne… |
+| 2026-11-17 22:08:48 | [st.postfa/postfast](https://github.com/peturgeorgievv-factory/postfast-mcp) | PostFast | 0.15.3 | Schedule posts on 11 social networks, answer comments and read analytics, hoste… |
+| 2026-11-17 22:09:35 | ai.rend/rend | Rend | 1.0.0 | AI video agent: edit timelines, captions, voice, music, images and ads, then re… |
+| 2026-11-17 22:10:32 | [com.402cron/402cron](https://github.com/402cron/402cron) | 402cron | 1.0.2 | Paid cron for AI agents: we call your https URL on schedule, signed. No account… |
+| 2026-11-17 22:11:40 | [io.github.CloudCorpRecords/buzzmeter](https://github.com/CloudCorpRecords/buzzmeter) |  | 0.1.0 | Reddit and Hacker News sensing: trending topics, mention velocity, sentiment, n… |
+| 2026-11-17 22:14:41 | [ai.perfloop/perfloop](https://github.com/perfloop/plugins) | Perfloop | 1.1.0 | Performance improvements, bug fixes and security repairs in your code, each wit… |
+| 2026-11-17 22:17:40 | [io.github.CloudCorpRecords/ossfit](https://github.com/CloudCorpRecords/ossfit) |  | 0.1.0 | Open-source fit finder: maintained OSS candidates checked against your project… |
+| 2026-11-17 22:18:14 | com.startatende/mcp | Start Atende | 1.0.0 | AI customer service (WhatsApp, Instagram, site chat): conversations, leads, FAQ… |
+| 2026-11-17 22:19:58 | [cc.filmlog/filmlog](https://github.com/techumbely/filmlog-mcp) | Filmlog | 1.0.4 | Query your Filmlog film diary and watchlist. Requires the Filmlog Mac app and F… |
 
 ## Data source
 
