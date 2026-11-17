@@ -9,46 +9,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 18:21 UTC
+## Latest list — 2026-11-17 19:20 UTC
 
-New MCP servers published between 2026-11-17 17:21 UTC and 2026-11-17 18:21 UTC.
+New MCP servers published between 2026-11-17 18:21 UTC and 2026-11-17 19:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-17T18-21-05-731416Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-17T19-20-09-795322Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-17 17:22:59 | [io.github.CloudCorpRecords/safesignal](https://github.com/CloudCorpRecords/safesignal) |  | 0.1.0 | Product recall lookup vs US government feeds plus a counterfeit risk signal for… |
-| 2026-11-17 17:26:16 | com.generatorlabs/mcp | Generator Labs | 1.0.0 | Blacklist and certificate monitoring: listed hosts, expiring certificates, and… |
-| 2026-11-17 17:27:06 | nl.cijferlink/cijferlink | Cijferlink | 1.0.0 | Read-only access to Dutch accounting: Exact Online, Moneybird and SnelStart. |
-| 2026-11-17 17:28:30 | com.submitbyhand/directory-submission | Submit by Hand | 1.0.0 | Startup, SaaS and AI tool directories to submit a product to, plus hand submiss… |
-| 2026-11-17 17:30:33 | [io.github.CloudCorpRecords/filingpulse](https://github.com/CloudCorpRecords/filingpulse) |  | 0.1.0 | Fresh SEC filing intel: 8-K events, Form 4 insider activity, filing search and… |
-| 2026-11-17 17:30:50 | com.stringout/stringout | Stringout | 1.0.0 | Watch and share RAW media files, search, read transcripts, and auto-assemble ed… |
-| 2026-11-17 17:32:35 | in.osnt/mcp | OSNT.IN | 1.0.0 | Daily attributed brief on the Russia-Ukraine war. Read-only. Every item names i… |
-| 2026-11-17 17:33:13 | [io.github.AgenticArtists/modelshortlist](https://github.com/AgenticArtists/ModelShortlist) | ModelShortlist | 0.2.5 | Local BYOK MCP for AI model shortlisting using OpenRouter + Artificial Analysis. |
-| 2026-11-17 17:33:30 | io.behavly/behavly | Behavly | 1.0.0 | Agentic analytics and lifecycle email for SaaS: ask what users did, send AI-wri… |
-| 2026-11-17 17:38:49 | [io.github.CloudCorpRecords/vinreport](https://github.com/CloudCorpRecords/vinreport) |  | 0.1.0 | VIN/HIN pre-purchase report: NHTSA recalls, complaints, investigations, factory… |
-| 2026-11-17 17:40:26 | com.uavforecast/uav-forecast | UAV Forecast | 1.0.0 | Drone flying conditions checked against your own UAV Forecast settings: verdict… |
-| 2026-11-17 17:41:08 | studio.spiltink/blotter-rink | The Blotter Rink | 1.0.0 | A public message board for agents. No accounts, no keys. Read, post, or just lo… |
-| 2026-11-17 17:43:51 | it.shiftlog/mcp | ShiftLog.it | 1.0.0 | Log billable hours and generate AI-assisted monthly client timesheets from codi… |
-| 2026-11-17 17:45:57 | [io.github.CloudCorpRecords/trialledger](https://github.com/CloudCorpRecords/trialledger) |  | 0.1.0 | Clinical trials overdue on required results reporting, by sponsor or ticker, fr… |
-| 2026-11-17 17:48:06 | com.couponpriceadjustment.www/price-adjustments | Costco Price Adjustment Check | 1.0.0 | Check a Costco receipt for price adjustments and list warehouse deals. Unoffici… |
-| 2026-11-17 17:49:28 | com.couponpriceadjustment.www/costco-price-adjustments | Costco Price Adjustment Check | 1.0.0 | Check a Costco receipt for price adjustments and list warehouse deals. Unoffici… |
-| 2026-11-17 17:49:37 | sk.botmarket/listings | BotMarket.sk | 1.1.0 | Search published real-estate and land listings from BotMarket.sk (Košice, Slova… |
-| 2026-11-17 17:52:49 | [io.github.beepboop2025/liquilens](https://github.com/beepboop2025/liquilens-mcp) | LiquiLens Failure Radar | 1.8.2 | Free bank-filing and counterparty research; cited evidence limits; public MCP n… |
-| 2026-11-17 17:53:50 | [io.github.CloudCorpRecords/toneframe](https://github.com/CloudCorpRecords/toneframe) |  | 0.1.0 | Japan music-production gear prices: catalogue search, current offers, compariso… |
-| 2026-11-17 17:55:21 | com.haveitprinted/print-and-mail | Have It Printed | 1.0.1 | Print and mail documents, letters and postcards to US addresses: price, checkou… |
-| 2026-11-17 17:58:21 | com.ampdat/control | Ampdat Control | 1.0.0 | Who controls a Morpho vault, Safe or stablecoin, and what is about to change. |
-| 2026-11-17 18:01:44 | [io.github.CloudCorpRecords/tableatlas](https://github.com/CloudCorpRecords/tableatlas) |  | 0.1.0 | Dubai venue discovery: venue catalogue, nightly programme, live table availabil… |
-| 2026-11-17 18:01:56 | com.myquoteiq/quoteiq | QuoteIQ | 1.0.0 | Connect Claude and ChatGPT to QuoteIQ with 200+ tools for home service business… |
-| 2026-11-17 18:03:45 | com.sonarmood/sonar | Sonar news mood | 1.0.0 | Press tone for crypto, AI, finance, politics and sports: mood index, stories, c… |
-| 2026-11-17 18:03:54 | [org.aimlds/atom-markdown-sanitizer](https://github.com/nrupala/atom-services) | Markdown sanitizer — Atom | 0.1.0 | Markdown sanitizer, delivered per API call as an atom service on Conduit Atoms. |
-| 2026-11-17 18:03:55 | [org.aimlds/atom-token-estimator](https://github.com/nrupala/atom-services) | Token estimator — Atom | 0.1.0 | Token estimator, delivered per API call as an atom service on Conduit Atoms. |
-| 2026-11-17 18:03:56 | [org.aimlds/atom-json-schema-enforcer](https://github.com/nrupala/atom-services) | JSON schema enforcer — Atom | 0.1.0 | JSON schema enforcer, delivered per API call as an atom service on Conduit Atom… |
-| 2026-11-17 18:09:07 | [io.github.CloudCorpRecords/caseprep](https://github.com/CloudCorpRecords/caseprep) |  | 0.1.0 | Legal HQ public reads: about, the $99 Starter Kit, the case-prep checklist, set… |
-| 2026-11-17 18:13:39 | dev.changefeed/transaction-explainer | Transaction Explainer | 0.1.0 | Any Ethereum or Base transaction in plain words, with red flags. Paid per call… |
-| 2026-11-17 18:16:15 | [com.holidayexplore/mcp](https://github.com/sahin99chy/holidayexplore) | HolidayExplore Global Banking & Chronom… | 1.0.0 | Global statutory holidays, RTGS payment cutoffs, and working days across 48 cou… |
-| 2026-11-17 18:16:27 | [io.github.CloudCorpRecords/spainlaw](https://github.com/CloudCorpRecords/spainlaw) |  | 0.1.0 | Spain legal guidance: published articles, visa routes, Beckham checks, residenc… |
-| 2026-11-17 18:19:59 | llc.carrier/mcp | Carrier | 0.13.89 | Programmable eSIM and mobile connectivity: manage fleets, plans and orders from… |
+| 2026-11-17 18:25:11 | [io.github.CloudCorpRecords/lebprice](https://github.com/CloudCorpRecords/lebprice) |  | 0.1.0 | Live electronics prices across Lebanese shops in USD: search, per-shop prices,… |
+| 2026-11-17 18:32:35 | [io.github.CloudCorpRecords/cedarlaw](https://github.com/CloudCorpRecords/cedarlaw) |  | 0.1.0 | Lebanese legislation corpus: laws, articles, rulings and Gazette issues, verbat… |
+| 2026-11-17 18:34:36 | [io.github.trencinodin-stack/arcstone-mcp-bridge](https://github.com/trencinodin-stack/arcstone-mcp-bridge) | Arcstone Multi-Domain MCP Bridge | 0.1.0 | Read-only conformance, sandbox-simulation, and diligence MCP bridge for Arcston… |
+| 2026-11-17 18:36:19 | [trade.obsyn/mcp](https://github.com/ObsynDev/obsyn) | Obsyn OTC | 0.1.1 | Private OTC block trades on Robinhood Chain: sealed bids, encrypted offers, one… |
+| 2026-11-17 18:36:21 | com.vykadiamonds/vyka-diamonds | VYKA Diamonds | 1.0.0 | Search VYKA's certified natural and lab-grown diamonds and get GIA or IGI repor… |
+| 2026-11-17 18:37:51 | [io.github.Reggiebro/oppi-digital-products](https://github.com/Reggiebro/oppi-digital-products) | Oppi Digital Products | 1.0.0 | Agent commerce MCP: digital product catalog, free samples, crypto payment verif… |
+| 2026-11-17 18:40:16 | [io.github.CloudCorpRecords/leavecalc](https://github.com/CloudCorpRecords/leavecalc) |  | 0.1.0 | Annual leave loading calculator plus its published inputs, tables and enquiry f… |
+| 2026-11-17 18:42:21 | [io.github.plivo/mcp](https://github.com/plivo/mcp) | Plivo | 1.0.0 | Send SMS and WhatsApp messages, make calls and manage phone numbers on your Pli… |
+| 2026-11-17 18:42:28 | nl.expatchecked/mcp | Expat Checked | 1.0.0 | Sourced facts on expat tax advisors and relocation agencies in the Netherlands,… |
+| 2026-11-17 18:42:48 | [io.github.agentwik-labs/skillhawk](https://github.com/agentwik-labs/skillhawk) | Skillhawk | 0.4.0 | Check AI agent skills locally: grade and security-scan SKILL.md files, find unw… |
+| 2026-11-17 18:48:01 | [io.github.CloudCorpRecords/taochapters](https://github.com/CloudCorpRecords/taochapters) |  | 0.1.0 | Tao Te Ching chapters in two renderings: list, read, search, and match by situa… |
+| 2026-11-17 18:48:11 | sh.tapline/tapline | Tapline | 1.0.0 | Structured JSON from YouTube, Airbnb, TikTok, Instagram, LinkedIn, Zillow, Goog… |
+| 2026-11-17 18:53:10 | com.remodelyourvibe.www/site-guide | Remodel Your Vibe Site Guide | 1.0.0 | Search and read Remodel Your Vibe's services, cost guides, service areas and re… |
+| 2026-11-17 18:53:27 | [io.github.felipemarts/chanda](https://github.com/felipemarts/chanda) | Chanda | 0.1.0 | Local long-term memory for AI agents: hybrid search, temporal facts, verifiable… |
+| 2026-11-17 18:54:07 | community.fides/ecosystem-explorer | FIDES Ecosystem Explorer | 1.0.0 | Discover the global marketplace of digital wallets, verifiable credentials, and… |
+| 2026-11-17 18:54:27 | io.github.sod-efi/nephew | Nephew | 0.5.5 | Owner-owned browser profile that travels across agent providers, as one encrypt… |
+| 2026-11-17 18:55:17 | [io.github.CloudCorpRecords/spinspots](https://github.com/CloudCorpRecords/spinspots) |  | 0.1.0 | Outdoor table-tennis spots near a coordinate, spot details, and playing conditi… |
+| 2026-11-17 18:56:30 | [io.github.iamvirul/choreo-labs-docs-mcp-server](https://github.com/iamvirul/choreo-labs-docs-mcp-server) |  | 2.0.1 | RAG search over Choreo Labs (formerly WSO2) docs: APIM, IS, MI, Choreo, Balleri… |
+| 2026-11-17 19:02:46 | [com.todrawn/scribe](https://github.com/Brbn-jpg/scribe-mcp) | Todrawn Scribe | 0.6.1 | Turns code, text, SVG drawings or photos into hand-drawn video projects, plus T… |
+| 2026-11-17 19:02:58 | [io.github.CloudCorpRecords/duescope](https://github.com/CloudCorpRecords/duescope) |  | 0.1.0 | Read-only queries over a published website-change dataset: search, rows, stats… |
+| 2026-11-17 19:03:37 | com.bodyforagents/mcp | Body for Agents | 1.0.0 | Connect AI agents to discover services and coordinate real-world tasks. |
+| 2026-11-17 19:04:05 | fm.fyug/mcp | Fyug (hosted) | 2026.11.2 | Write and check Fyug generative-music documents with no install, and preview th… |
+| 2026-11-17 19:04:06 | fm.fyug/fyug | Fyug | 2026.11.2 | Compose and play generative music live; each bundle carries the native fyug eng… |
+| 2026-11-17 19:07:40 | com.envisioning/mcp | Envisioning | 1.0.0 | Search Envisioning's technology research, vocabulary and Hindsight graded forec… |
+| 2026-11-17 19:09:41 | [io.github.tettertotter/fundinglandscape](https://github.com/tettertotter/fundinglandscape) | FundingLandscape | 2.1.4 | Search open US grants, government contracts and foundation giving data. Updated… |
+| 2026-11-17 19:10:35 | [io.github.CloudCorpRecords/curvelens](https://github.com/CloudCorpRecords/curvelens) |  | 0.1.0 | Search and read a public essay archive: essays, claim ledgers, weekly calls and… |
+| 2026-11-17 19:11:16 | com.scriptiii/ai-tools | Scriptiii AI Tools | 1.0.0 | Search 222+ AI tools by task, category and price model; read individual listing… |
+| 2026-11-17 19:15:31 | [ai.bloopo/bloopo](https://github.com/BloopodotAI/bloopo-marketplace) | Bloopo — Creative MCP | 0.1.2 | Create and edit images, video and audio. Research brands and manage saved creat… |
+| 2026-11-17 19:17:54 | [io.github.CloudCorpRecords/matixworks](https://github.com/CloudCorpRecords/matixworks) |  | 0.1.0 | Read a software studio's public site data: open positions, case studies and com… |
 
 ## Data source
 
