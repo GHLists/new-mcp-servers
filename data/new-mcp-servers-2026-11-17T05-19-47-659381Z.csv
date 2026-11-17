@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-11-17T04:33:52.47674Z,ai.coverpin/coverpin,CoverPin,1.0.0,,streamable-http,"Read-only access to your CoverPin entities, filings, licenses, owners and tax data."
+2026-11-17T04:35:22.436487Z,io.github.xmasdong/mazediy-mcp,MazeDIY Maze Generator,1.0.0,https://github.com/xmasdong/mazediy-mcp,,"Generate printable mazes in any shape or country outline, with answer keys."
+2026-11-17T04:36:47.491997Z,io.github.kriton-dev/lighthouse-audit,"Lighthouse — Mobile/Desktop Lab Audits, Scores & Fix Hints",1.0.18,,streamable-http,"Run Google Lighthouse on public page URLs for performance, accessibility, best-practices and SEO"
+2026-11-17T04:37:40.974976Z,io.github.kriton-dev/timezone-converter,"Timezone Conversion — IANA Offsets, DST & Repeated Hours",1.0.7,,streamable-http,Convert one offset-qualified instant to named IANA time zones using pinned data
+2026-11-17T04:38:08.024878Z,io.github.kriton-dev/url-to-markdown,"URL to Markdown — Clean Page Text, Selectors & Source Links",1.0.24,,streamable-http,"Turn public web pages into clean Markdown for LLMs, RAG and AI agents"
+2026-11-17T04:38:34.957075Z,io.github.kriton-dev/website-screenshot,"Website Screenshot — Full Pages, Elements, HTML & PDF Prints",1.0.35,,streamable-http,"Screenshot public web pages or raw HTML as PNG, JPEG or WebP, or print them to PDF"
+2026-11-17T04:48:14.406705Z,team.associatesai/teammates,Associates AI Teammates,1.0.0,,streamable-http,"Message your AI Teammates and read their replies from ChatGPT, Claude, Perplexity and more."
+2026-11-17T04:49:38.296445Z,com.rewardsfuel/rfwin,RFWIN: provably fair winner draws,1.4.0,,streamable-http,"Free verifiable giveaway winner picker: run a draw, get a public proof link anyone can verify."
+2026-11-17T04:50:25.120903Z,name.findadomain/domain-finder,Findadomain.name,1.0.1,,streamable-http,"Brainstorm brandable domain names and check any domain's availability and registrar price, live."
+2026-11-17T04:52:24.238095Z,io.github.Blawby/blawby,Blawby,1.0.1,https://github.com/Blawby/blawby,streamable-http,Manage and publish restaurant and local business websites through MCP.
+2026-11-17T04:52:49.35294Z,io.github.Wen5555/orimem,OriMem,0.1.1,https://github.com/Wen5555/OriMem,,"Long-term memory for coding agents in your own Obsidian vault: recall, write-back, capture."
+2026-11-17T04:54:39.552319Z,com.diffoniq/diffoniq,Diffoniq,2.4.1,,,"Compare folders, archives (ZIP, 7z, nested) and files on Windows; preview a folder sync. Read-only."
+2026-11-17T04:57:13.916929Z,ai.talkhao/talkhao,Talkhao,1.0.0,,streamable-http,"Look up Chinese words with pinyin, meanings, HSK level, strokes and sound; see your HSK progress."
+2026-11-17T05:06:41.331458Z,ai.gmp/geocare,GEOcare,1.0.0,,streamable-http,"Measure brand mentions in ChatGPT, Gemini, Claude and Perplexity answers and diagnose GEO."
+2026-11-17T05:06:46.000752Z,ai.gmp/content-launcher,Content Launcher,1.0.0,,streamable-http,"Plan, write, convert and publish content to blogs, social channels and wikis."
+2026-11-17T05:06:46.689501Z,ai.gmp/nunchi,nunchi,1.0.0,,streamable-http,"Watch your site and competitors' sites for changes, promotions and new posts in Korea."
+2026-11-17T05:08:16.230956Z,com.ambrook/mcp,Ambrook,1.0.1,https://github.com/ambrook/agent-plugins,streamable-http,"Read Ambrook books: P&L, balance sheets, unpaid invoices, bills due, and transactions. Read-only."
+2026-11-17T05:09:16.71398Z,io.github.theharrisontruong-web/racketcheck,Racket Check,1.0.0,https://github.com/theharrisontruong-web/agent-apis,streamable-http,Racket check for local service sites: CLEAN / PLAN_PUSH / RACKET verdict. $1.00/call via x402.
+2026-11-17T05:09:17.22813Z,io.github.theharrisontruong-web/cluster,Cluster & Consensus,1.0.0,https://github.com/theharrisontruong-web/agent-apis,streamable-http,Tracked-wallet cluster detection + 0-100 consensus score for Solana/Base tokens. $0.02/call.
+2026-11-17T05:09:17.791541Z,io.github.theharrisontruong-web/pressure,Token Pressure + Holder Health,1.0.0,https://github.com/theharrisontruong-web/agent-apis,streamable-http,Buying-pressure ladder + holder health for Solana memecoins. $0.02/call via x402.
+2026-11-17T05:09:18.429902Z,io.github.theharrisontruong-web/neet,NEET Radar,1.0.0,https://github.com/theharrisontruong-web/agent-apis,streamable-http,NEET narrative radar + canonical-or-clone verify for Solana mints. $0.02 / $0.005 via x402.
+2026-11-17T05:09:47.730609Z,com.moyik/moyik,Moyik,1.0.0,,streamable-http,"Read your Moyik spaces, brief your seat's avatar, and speak for your seat in group discussions."
+2026-11-17T05:13:22.657609Z,com.aminodesk/amino-desk,Amino Desk,1.0.0,,streamable-http,"Evidence-graded reference on peptides and GLP-1 drugs: legal status, evidence, dosing, safety, cost."
