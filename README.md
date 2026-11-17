@@ -9,40 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 09:18 UTC
+## Latest list — 2026-11-17 10:19 UTC
 
-New MCP servers published between 2026-11-17 08:19 UTC and 2026-11-17 09:18 UTC.
+New MCP servers published between 2026-11-17 09:18 UTC and 2026-11-17 10:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-17T09-18-33-876804Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-17T10-19-16-113793Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-17 08:19:29 | io.github.Alexin09/hichinatour-events | HiChinaTour Events | 1.0.0 | Search events in Shanghai and Hangzhou by city, date, category and price. Read-… |
-| 2026-11-17 08:20:34 | [io.github.open-resume-agent/ora-mcp](https://github.com/open-resume-agent/open-resume-agent) | Open Resume Agent | 0.3.1 | Serve an ORA resume agent file over MCP: job-fit context and resumes (docx, pdf… |
-| 2026-11-17 08:21:40 | [com.onionreport/oniondata-mcp](https://github.com/doyozo/oniondata_pp) | 洋葱财报OnionData-MCP | 1.0.0 | 洋葱财报OnionData-MCP 提供 A 股上市公司多口径财报数据，覆盖利润表、资产负债表、现金流量表，支持单季同比/环比、逐季度 TTM、年度与最新报告… |
-| 2026-11-17 08:23:59 | [io.github.karlmoriaty/return_rp](https://github.com/karlmoriaty/AxurePR-return-rp) | return_rp | 1.4.4 | Axure RP 9/11 toolkit and MCP server: read, edit, and generate native .rp proje… |
-| 2026-11-17 08:26:37 | com.spekkr/spekkr | Spekkr | 0.2.0 | Public registry of specs AI agents can build from. Search, pull and publish ove… |
-| 2026-11-17 08:31:31 | ai.dreaminterpreter/dictionary | Dream Interpreter AI | 1.0.0 | Dream symbol meanings, and which symbols show up in real dreams by country. |
-| 2026-11-17 08:34:39 | com.blocksentient/directory | BlockSentient directory tools | 1.4.2 | Read BlockSentient's software listings: search, records, comparisons, methodolo… |
-| 2026-11-17 08:37:28 | com.offpolicyinc/draw-with-me | Draw With Me | 0.1.1 | Draw with the model in your Claude or Codex conversation, on drawings kept as f… |
-| 2026-11-17 08:39:59 | com.simoptions/connector | SimOptions | 1.0.1 | Find and compare travel eSIM plans, check phone eSIM compatibility, and open ea… |
-| 2026-11-17 08:40:09 | de.photovoltaik-versicherung-vergleichen/ratgeber | Photovoltaik-Versicherung vergleichen | 1.0.0 | PV-Anlage, Speicher und Balkonkraftwerk versichern: Antworten vom Makler, Link… |
-| 2026-11-17 08:48:36 | ai.stork/core | Stork: search, scrape and docs | 1.0.0 | Web search, page reading and library docs for agents. No key. Routed to the bes… |
-| 2026-11-17 08:53:57 | com.eco-shades/store | ECO SHADES Store | 1.0.0 | Search ECO SHADES sunglasses, build carts and start buyer-approved checkout via… |
-| 2026-11-17 08:54:48 | io.jensi/jensi | Jensi | 1.0.0 | Manage Jensi projects, tasks, sprints and the AI suggestion inbox from your AI… |
-| 2026-11-17 08:54:52 | ee.uunoapp/uuno | Uuno | 1.0.0 | Accounting for Estonian companies: ledger, invoices, bank, VAT/payroll returns,… |
-| 2026-11-17 08:56:25 | com.moustachecoffeeclub.www/coffee | Moustache Coffee Club | 1.0.0 | Manage coffee subscriptions, schedules and prepaid gifts with your MCC customer… |
-| 2026-11-17 08:58:09 | io.github.gajanansr/slates |  | 1.0.0 | Remote MCP server for notes, tasks, kanban boards and docs - the Slates agentic… |
-| 2026-11-17 08:59:12 | ai.aim-shield/mcp | AIM SHIELD | 1.0.0 | Dice si un mensaje, enlace o cuenta bancaria es una estafa y da la nota de segu… |
-| 2026-11-17 09:01:49 | [io.github.theluckystrike/last-frost-date-hardiness-zone-mcp](https://github.com/theluckystrike/last-frost-date-hardiness-zone-mcp) | Last Frost Date and Hardiness Zone MCP | 1.0.0 | Last frost dates, USDA hardiness zone by ZIP, frost forecast and a vegetable pl… |
-| 2026-11-17 09:02:46 | [io.github.theluckystrike/covid-flu-rsv-wastewater-levels-mcp](https://github.com/theluckystrike/covid-flu-rsv-wastewater-levels-mcp) | COVID, Flu and RSV Wastewater Levels MCP | 1.0.0 | COVID, flu and RSV levels from CDC wastewater data by state and county, plus ER… |
-| 2026-11-17 09:04:57 | gr.tapa/mcp | tapa.gr (read-only) | 1.0.0 | Read-only tapa.gr tools: search pages, read pages as Markdown, pricing and cont… |
-| 2026-11-17 09:05:08 | se.snappakvitton/snappa-kvitton | Snappa Kvitton | 1.0.0 | Swedish bookkeeping for sole traders: receipts, VAT, invoices and quotes, with… |
-| 2026-11-17 09:05:49 | [io.github.theluckystrike/fuel-economy-gas-mileage-mpg-mcp](https://github.com/theluckystrike/fuel-economy-gas-mileage-mpg-mcp) | Fuel Economy, Gas Mileage and MPG MCP | 1.0.0 | EPA MPG, gas mileage, EV range and annual fuel cost for any car by year, make a… |
-| 2026-11-17 09:06:29 | [io.github.theluckystrike/flood-zone-lookup-fema-flood-map-mcp](https://github.com/theluckystrike/flood-zone-lookup-fema-flood-map-mcp) | Flood Zone Lookup (FEMA Flood Map) MCP | 1.0.0 | FEMA flood zone for any US address: zone, base flood elevation, FIRM panel, ins… |
-| 2026-11-17 09:07:18 | ai.noombat/noombat | noombat | 2.1.0 | Your noombat board: the companies to sell to, the dated signals behind each, th… |
-| 2026-11-17 09:08:36 | app.killbounce.data/tools | KillBounce Data | 1.1.0 | Pay-per-call web, email, domain, security, code & image tools for AI agents. US… |
-| 2026-11-17 09:08:48 | [io.github.demiliani/d365bc-admin-mcp](https://github.com/demiliani/D365BCAdminMCP) | Dynamics 365 Business Central Admin | 2.0.0 | Administer Business Central environments, apps, PTEs, updates and exports via t… |
+| 2026-11-17 09:18:57 | com.kinganlogic/torivane-logistics-engine | Torivane Logistics Engine | 1.0.0 | Shipment lifecycle assessments, reassessments, and authorized outcome reconcili… |
+| 2026-11-17 09:21:54 | io.github.yshkk/asia-miles-calculator | Asia Miles Calculator | 1.0.0 | Calculate Asia Miles for Cathay Pacific award flights, including mixed-cabin it… |
+| 2026-11-17 09:26:48 | [org.mingge/mingge](https://github.com/akifukaku/mingge-mcp) | MingGe | 2.0.0 | BaZi, Zi Wei, Qi Zheng Si Yu, divination and almanac from a deterministic engin… |
+| 2026-11-17 09:27:40 | [io.github.alex2loop/openalpha](https://github.com/alex2loop/openalpha) | OpenAlpha | 1.8.2 | AI research analyst for VN stocks, gold and crypto. It suggests; you decide. |
+| 2026-11-17 09:31:25 | com.quantbloc/quantbloc | QuantBloc | 1.0.0 | Solana pump.fun wallet analytics for AI: 37M wallets, trades, bots, copy-tradin… |
+| 2026-11-17 09:32:09 | es.openmoney/openmoney | OpenMoney | 1.0.0 | Licitaciones y subvenciones de España: qué hay abierto, qué encaja a una empres… |
+| 2026-11-17 09:34:25 | io.hyre/mcp | Hyre | 2026.11.1 | Recruiting workspace: your ATS and CRM, candidate emails, LinkedIn, calls, meet… |
+| 2026-11-17 09:43:20 | [io.github.vdeabreu/proton-mcp](https://github.com/vdeabreu/proton-mcp) | Proton Mail | 0.1.0 | Read, search and send Proton Mail through Proton Mail Bridge, with sending kept… |
+| 2026-11-17 09:43:26 | [io.github.vdeabreu/bring-mcp](https://github.com/vdeabreu/bring-mcp) | Bring! shopping list | 0.1.0 | Manage Bring! shopping lists: add items with quantities, recipe ingredients and… |
+| 2026-11-17 09:43:40 | [com.mentorcruise/public](https://github.com/mentorcruise/web) | MentorCruise | 1.0.0 | Search mentors, apply after email verify, book and pay from MentorCruise credit… |
+| 2026-11-17 09:45:55 | com.socialcaptain/creator-tools | SocialCaptain Creator Tools | 1.0.0 | Free Instagram and TikTok creator tools: engagement rate, best post times, stat… |
+| 2026-11-17 09:49:02 | [io.github.hsm207/mcp-chrome-launcher](https://github.com/hsm207/mcp-chrome-launcher) | MCP Chrome Launcher | 0.1.3 | Drop-in chrome-devtools-mcp proxy sharing one persistent logged-in Chrome. |
+| 2026-11-17 09:50:30 | [io.github.nuthatch-org/nuthatch](https://github.com/nuthatch-org/nuthatch) | nuthatch | 5.21.0 | Query an EVM contract's indexed history with SQL, via a local nuthatch nest and… |
+| 2026-11-17 09:50:51 | co.zindies/zindies | Zindies | 1.0.0 | Search independent ZINEs, creators, shops and ZINE events in Japan. No sign-in… |
+| 2026-11-17 09:51:42 | co.fluenzr/fluenzr | FluenzR | 1.0.0 | Email and LinkedIn prospecting CRM: contacts, campaigns, inbox, statistics. OAu… |
+| 2026-11-17 09:52:43 | com.ergini/hire | Ergini: hire an AI engineer | 1.0.0 | Match a problem to AI builds, see price ranges and case studies, and book a cal… |
+| 2026-11-17 09:55:14 | ai.nayeret/nayeret | Nayeret - Israeli forms and paperwork | 2026.11.17 | Hebrew explanations of Israeli government forms, guides, letter templates and t… |
+| 2026-11-17 09:56:13 | [io.github.teramoby/speedle-mcp](https://github.com/teramoby/speedle-mcp) | Speedle | 1.9.0 | MCP server for self-hosted Speedle and Speedle Cloud: authorization checks and… |
+| 2026-11-17 09:57:21 | com.orbisearch/mcp | OrbiSearch | 1.0.0 | Verify emails, find work emails, enrich companies and check email copy for spam. |
+| 2026-11-17 10:01:44 | [io.github.neoma-pcam/neoma-pcam-mcp](https://github.com/neoma-pcam/pcam-live) | NEOMA P-CAM Physical AI & Ising MCP Ser… | 1.0.0 | Sub-ms analog silicon solver for 7-domain physical equilibrium and 64-spin Isin… |
+| 2026-11-17 10:04:33 | [io.github.huangziyuan-general/dsh-novel-forge](https://github.com/huangziyuan-general/dsh-novel-forge) | dsh-novel-forge | 1.7.3 | 中文长篇写作 MCP Server：24 个工具，用硬门禁治理 AI 写长篇的失忆、设定崩坏与 AI 味 |
+| 2026-11-17 10:09:47 | [io.github.mw-jeong/agentsumo-mcp](https://github.com/mw-jeong/AgentSUMO) | AgentSUMO | 0.1.3 | MCP server for LLM-driven SUMO traffic simulation, scenario design, and result… |
+| 2026-11-17 10:11:10 | [io.github.aether-cell/mcp-keyscan](https://github.com/aether-cell/mcp-keyscan) | mcp-keyscan | 1.1.1 | Find plaintext API keys in AI-agent / MCP configs, agent logs and shell history. |
+| 2026-11-17 10:12:49 | [io.github.sonnyman2014/solana-rent-rug-shield-mcp](https://github.com/sonnyman2014/solana-rent-rug-shield-mcp) | Solana Rent & Rug Shield MCP Gateway | 1.0.0 | Solana 10-layer token rug audit, CPI tx drain simulator, and ATA rent scanner v… |
+| 2026-11-17 10:16:12 | [io.github.e2e-next/tunnel](https://github.com/e2e-next/tunnel) | tunnel | 3.1.1 | Local HTTPS proxy and mock server for app tests: record, replay, mock and break… |
+| 2026-11-17 10:16:27 | com.luggagent/luggagent | LuggAgent | 1.0.0 | Check your LuggAgent luggage delivery bookings and message the booking chat. |
+| 2026-11-17 10:17:37 | com.swarmecology/register | Swarm Ecology register | 1.0.0 | Read-only lookup of a register of AI-agent cases, its glossary and its library. |
+| 2026-11-17 10:18:31 | [com.rentandrugshield/mcp-server](https://github.com/sonnyman2014/solana-rent-rug-shield-mcp) | Solana Rent & Rug Shield MCP Gateway | 1.0.0 | Solana 10-layer token rug audit, CPI tx drain simulator, and ATA rent scanner v… |
 
 ## Data source
 
