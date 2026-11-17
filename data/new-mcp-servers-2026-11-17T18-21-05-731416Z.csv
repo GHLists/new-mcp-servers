@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-11-17T17:22:59.459534Z,io.github.CloudCorpRecords/safesignal,,0.1.0,https://github.com/CloudCorpRecords/safesignal,,Product recall lookup vs US government feeds plus a counterfeit risk signal for listings.
+2026-11-17T17:26:16.883136Z,com.generatorlabs/mcp,Generator Labs,1.0.0,,streamable-http,"Blacklist and certificate monitoring: listed hosts, expiring certificates, and on-demand checks."
+2026-11-17T17:27:06.088915Z,nl.cijferlink/cijferlink,Cijferlink,1.0.0,,streamable-http,"Read-only access to Dutch accounting: Exact Online, Moneybird and SnelStart."
+2026-11-17T17:28:30.719702Z,com.submitbyhand/directory-submission,Submit by Hand,1.0.0,,streamable-http,"Startup, SaaS and AI tool directories to submit a product to, plus hand submission by our team."
+2026-11-17T17:30:33.668026Z,io.github.CloudCorpRecords/filingpulse,,0.1.0,https://github.com/CloudCorpRecords/filingpulse,,"Fresh SEC filing intel: 8-K events, Form 4 insider activity, filing search and digests."
+2026-11-17T17:30:50.142302Z,com.stringout/stringout,Stringout,1.0.0,,streamable-http,"Watch and share RAW media files, search, read transcripts, and auto-assemble edits."
+2026-11-17T17:32:35.584353Z,in.osnt/mcp,OSNT.IN,1.0.0,,streamable-http,Daily attributed brief on the Russia-Ukraine war. Read-only. Every item names its sources.
+2026-11-17T17:33:13.021157Z,io.github.AgenticArtists/modelshortlist,ModelShortlist,0.2.5,https://github.com/AgenticArtists/ModelShortlist,,Local BYOK MCP for AI model shortlisting using OpenRouter + Artificial Analysis.
+2026-11-17T17:33:30.703321Z,io.behavly/behavly,Behavly,1.0.0,,streamable-http,"Agentic analytics and lifecycle email for SaaS: ask what users did, send AI-written follow-ups."
+2026-11-17T17:38:49.031285Z,io.github.CloudCorpRecords/vinreport,,0.1.0,https://github.com/CloudCorpRecords/vinreport,,"VIN/HIN pre-purchase report: NHTSA recalls, complaints, investigations, factory decode."
+2026-11-17T17:40:26.026132Z,com.uavforecast/uav-forecast,UAV Forecast,1.0.0,,streamable-http,"Drone flying conditions checked against your own UAV Forecast settings: verdicts, wind, Kp."
+2026-11-17T17:41:08.591391Z,studio.spiltink/blotter-rink,The Blotter Rink,1.0.0,,streamable-http,"A public message board for agents. No accounts, no keys. Read, post, or just loiter."
+2026-11-17T17:43:51.464529Z,it.shiftlog/mcp,ShiftLog.it,1.0.0,,streamable-http,Log billable hours and generate AI-assisted monthly client timesheets from coding sessions.
+2026-11-17T17:45:57.736531Z,io.github.CloudCorpRecords/trialledger,,0.1.0,https://github.com/CloudCorpRecords/trialledger,,"Clinical trials overdue on required results reporting, by sponsor or ticker, from public records."
+2026-11-17T17:48:06.742899Z,com.couponpriceadjustment.www/price-adjustments,Costco Price Adjustment Check,1.0.0,,streamable-http,"Check a Costco receipt for price adjustments and list warehouse deals. Unofficial, free, no key."
+2026-11-17T17:49:28.071063Z,com.couponpriceadjustment.www/costco-price-adjustments,Costco Price Adjustment Check,1.0.0,,streamable-http,"Check a Costco receipt for price adjustments and list warehouse deals. Unofficial, free, no key."
+2026-11-17T17:49:37.946429Z,sk.botmarket/listings,BotMarket.sk,1.1.0,,streamable-http,"Search published real-estate and land listings from BotMarket.sk (Košice, Slovakia)."
+2026-11-17T17:52:49.612224Z,io.github.beepboop2025/liquilens,LiquiLens Failure Radar,1.8.2,https://github.com/beepboop2025/liquilens-mcp,streamable-http,Free bank-filing and counterparty research; cited evidence limits; public MCP needs no API key.
+2026-11-17T17:53:50.755809Z,io.github.CloudCorpRecords/toneframe,,0.1.0,https://github.com/CloudCorpRecords/toneframe,,"Japan music-production gear prices: catalogue search, current offers, comparisons, sales."
+2026-11-17T17:55:21.661904Z,com.haveitprinted/print-and-mail,Have It Printed,1.0.1,,streamable-http,"Print and mail documents, letters and postcards to US addresses: price, checkout and order status."
+2026-11-17T17:58:21.003312Z,com.ampdat/control,Ampdat Control,1.0.0,,streamable-http,"Who controls a Morpho vault, Safe or stablecoin, and what is about to change."
+2026-11-17T18:01:44.44623Z,io.github.CloudCorpRecords/tableatlas,,0.1.0,https://github.com/CloudCorpRecords/tableatlas,,"Dubai venue discovery: venue catalogue, nightly programme, live table availability."
+2026-11-17T18:01:56.79149Z,com.myquoteiq/quoteiq,QuoteIQ,1.0.0,,streamable-http,Connect Claude and ChatGPT to QuoteIQ with 200+ tools for home service businesses.
+2026-11-17T18:03:45.661443Z,com.sonarmood/sonar,Sonar news mood,1.0.0,,streamable-http,"Press tone for crypto, AI, finance, politics and sports: mood index, stories, coins, domains."
+2026-11-17T18:03:54.047169Z,org.aimlds/atom-markdown-sanitizer,Markdown sanitizer — Atom,0.1.0,https://github.com/nrupala/atom-services,streamable-http,"Markdown sanitizer, delivered per API call as an atom service on Conduit Atoms."
+2026-11-17T18:03:55.425923Z,org.aimlds/atom-token-estimator,Token estimator — Atom,0.1.0,https://github.com/nrupala/atom-services,streamable-http,"Token estimator, delivered per API call as an atom service on Conduit Atoms."
+2026-11-17T18:03:56.642198Z,org.aimlds/atom-json-schema-enforcer,JSON schema enforcer — Atom,0.1.0,https://github.com/nrupala/atom-services,streamable-http,"JSON schema enforcer, delivered per API call as an atom service on Conduit Atoms."
+2026-11-17T18:09:07.037291Z,io.github.CloudCorpRecords/caseprep,,0.1.0,https://github.com/CloudCorpRecords/caseprep,,"Legal HQ public reads: about, the $99 Starter Kit, the case-prep checklist, setup sessions."
+2026-11-17T18:13:39.948374Z,dev.changefeed/transaction-explainer,Transaction Explainer,0.1.0,,streamable-http,"Any Ethereum or Base transaction in plain words, with red flags. Paid per call via x402."
+2026-11-17T18:16:15.340406Z,com.holidayexplore/mcp,HolidayExplore Global Banking & Chronometry MCP Server,1.0.0,https://github.com/sahin99chy/holidayexplore,streamable-http,"Global statutory holidays, RTGS payment cutoffs, and working days across 48 countries (2026-2027)."
+2026-11-17T18:16:27.66159Z,io.github.CloudCorpRecords/spainlaw,,0.1.0,https://github.com/CloudCorpRecords/spainlaw,,"Spain legal guidance: published articles, visa routes, Beckham checks, residency and tax."
+2026-11-17T18:19:59.054957Z,llc.carrier/mcp,Carrier,0.13.89,,streamable-http,"Programmable eSIM and mobile connectivity: manage fleets, plans and orders from your agent."

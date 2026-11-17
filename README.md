@@ -9,49 +9,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 17:21 UTC
+## Latest list — 2026-11-17 18:21 UTC
 
-New MCP servers published between 2026-11-17 16:19 UTC and 2026-11-17 17:21 UTC.
+New MCP servers published between 2026-11-17 17:21 UTC and 2026-11-17 18:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-17T17-21-09-264769Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-17T18-21-05-731416Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-17 16:26:19 | com.theysaidso/theysaidso | They Said So - Wisdom Layer for your AI… | 1.0.0 | Access over million+ curated quotes,author and category insights, and contextua… |
-| 2026-11-17 16:26:26 | com.kairo1/kairo-connect | Kairo Connect | 1.0.0 | One memory, to-do lists, files and your devices, shared by every AI app you use. |
-| 2026-11-17 16:29:07 | io.traxagent/traxagent | TraxAgent | 1.0.0 | AI spend by team, developer and API key for Claude, OpenAI, Gemini and coding a… |
-| 2026-11-17 16:31:17 | pet.singing/singing-pet | Singing Pet | 1.1.0 | Make a pet sing: lip-synced singing videos and custom pet songs from one photo. |
-| 2026-11-17 16:32:01 | com.iterdone/iterdone | IterDone | 1.0.0 | Tasks, lists, docs, goals and time tracking for teams. Full API as MCP tools. |
-| 2026-11-17 16:36:13 | ch.signetex/register | Signetex | 1.2.0 | Public AI claim register: E0-E4 evidence grades, forecast tracking, no verdicts. |
-| 2026-11-17 16:36:52 | com.plainrecordlabs/official-release-calendar | Economic Release Calendar: Eurostat, EC… | 1.0.0 | Eurostat, ECB and ONS release dates, no figures. Apify token needed. 0.005 USD… |
-| 2026-11-17 16:37:17 | club.savings/savings-club-members | Savings Club Members | 0.4.0 | For Savings Club members: your ranking position, payments, advance previews, vo… |
-| 2026-11-17 16:38:22 | ai.conyr/solana-intelligence | Conyr Solana Intelligence | 1.0.0 | Solana coin and wallet intelligence: bundles, buyer quality, wallet skill, fund… |
-| 2026-11-17 16:39:11 | com.stocks-llm/stocks-llm | stocks-llm | 0.1.0 | Plain-English stock research on SEC filings, US indexes and UK FTSE 350. Inform… |
-| 2026-11-17 16:40:25 | com.fungenerators/fungenerators | FunGenerators MCP Server | 1.0.0 | Access 1000+ generators for names, writing, comedy,test data,placeholder conten… |
-| 2026-11-17 16:41:38 | ca.aproximite/aproximite | À proximité | 1.0.0 | A company that comes to your home in Vaudreuil-Soulanges. No company can pay fo… |
-| 2026-11-17 16:42:03 | es.gmartos.aifec/shop | AIFEC | 1.0.0 | Demo AI-first shop: search products, fill a cart and prepare the order (test pa… |
-| 2026-11-17 16:42:55 | [io.github.zoom/zoom-workspace](https://github.com/zoom/mcp-registry) | Zoom Workspace MCP Server | 1.0.3 | Zoom server for meetings, recordings, docs, AI search, and workflow automation. |
-| 2026-11-17 16:43:05 | [com.cybrelay/mcp](https://github.com/cybrelay/cybrelay-mcp) | CybRelay | 1.1.0 | Vulnerability remediation for AI agents: deterministic fix scripts, AI advice o… |
-| 2026-11-17 16:43:17 | [io.github.stackin-io/stackin](https://github.com/stackin-io/stackin-mcp-plugin) | Stackin | 1.1.0 | Issue and manage Brazilian fiscal documents: NF-e for goods, NFS-e for services. |
-| 2026-11-17 16:46:55 | com.1stpage/mcp | 1stPage — Amazon Seller & Vendor Analyt… | 1.0.0 | Amazon seller & vendor analytics: sales, ads, Brand Analytics, inventory, prici… |
-| 2026-11-17 16:48:47 | com.keywordise/keywordise |  | 2.1.0 | Auto-apply to jobs: matches your CV, tailors a fresh CV per posting, and applie… |
-| 2026-11-17 16:49:04 | io.pandex/law | Pandex | 0.1.0 | Search and cite official European legislation and court decisions, by article.… |
-| 2026-11-17 16:53:48 | vc.pitchprotocol/founder | Pitch Protocol | 1.0.0 | Apply to Pitch Protocol, a pre-seed and seed investor, from your AI agent. Free… |
-| 2026-11-17 16:55:48 | com.n-dream/play-vs-ai | AI Chat Games by N-Dream Labs | 1.0.0 | Play Hold'em, Liar's Dice, Four in a Row and Chess against Claude on an interac… |
-| 2026-11-17 16:56:13 | [io.github.conorbronsdon/substack-mcp](https://github.com/conorbronsdon/substack-mcp) | Substack MCP Server | 1.4.0 | Substack drafts, Notes, analytics and consented subscribers. Long-form posts st… |
-| 2026-11-17 17:00:52 | com.skribos/skribos | SkribOS | 1.0.0 | Search, read and organise your voice note, meeting and call transcripts and sum… |
-| 2026-11-17 17:04:23 | com.kingsmtp/email | KingSMTP: SMTP & Email API | 1.0.0 | Privacy-first SMTP relay: send transactional email, manage domains, DNS, usage,… |
-| 2026-11-17 17:07:37 | [io.github.CloudCorpRecords/recallpulse](https://github.com/CloudCorpRecords/recallpulse) |  | 0.1.0 | Recall-risk signal for products and brands from public complaint velocity data. |
-| 2026-11-17 17:07:50 | [com.fantasyteamadvice/fta-mcp](https://github.com/fantasy-team-advice/fta-mcp) | Fantasy Team Advice | 1.0.0 | Fantasy and DFS data for NFL, NBA, MLB and NHL in Claude and ChatGPT. Needs an… |
-| 2026-11-17 17:07:50 | [com.beatvig/beatvig-mcp](https://github.com/beatvig/beatvig-mcp) | BeatVig | 1.0.0 | Sportsbook and prediction-market prices in Claude and ChatGPT. Needs BeatVig Pr… |
-| 2026-11-17 17:08:56 | [com.coss/mcp](https://github.com/cosscom/coss) | coss.com | 0.7.0 | Look up and send email and SMS, diagnose delivery, and set up coss.com's produc… |
-| 2026-11-17 17:09:13 | uk.co.nationalnumbers/registration-tools | National Numbers - Private Number Plates | 1.0.0 | UK number plate search, availability, registration formatting, valuations and t… |
-| 2026-11-17 17:13:20 | io.github.dagu3371/sanctions-screen | Sanctions Screen (OFAC, UN, EU, UK) | 1.0.0 | Fuzzy sanctions screening for people, companies, vessels: OFAC, UN, EU, UK. Pay… |
-| 2026-11-17 17:13:21 | io.github.dagu3371/company-lookup | Company Registry Lookup (US states + LE… | 1.0.0 | Company lookup in NY, CO, OR, CT, PA state registries plus the global LEI index… |
-| 2026-11-17 17:13:22 | io.github.dagu3371/agent-payment-guard | Agent Payment Guard | 1.0.0 | Check wallets and tokens before an agent pays or trades: sanctions, honeypots,… |
-| 2026-11-17 17:14:21 | ai.hallwaytest/hallway-test | Hallway Test | 1.0.0 | Usability tests with real people, ordered from your coding agent. Results withi… |
-| 2026-11-17 17:15:16 | [io.github.CloudCorpRecords/grantpulse](https://github.com/CloudCorpRecords/grantpulse) |  | 0.1.0 | New NIH grants and clinical trials by institution, PI, sponsor, topic; funding-… |
-| 2026-11-17 17:19:40 | [io.github.uponex/gisgp](https://github.com/uponex/gisgp-mcp) |  | 1.4.0 | GIS tools: convert KML/SHP/DWG/GeoJSON, elevation, contours, PLSS, drone GCP, l… |
+| 2026-11-17 17:22:59 | [io.github.CloudCorpRecords/safesignal](https://github.com/CloudCorpRecords/safesignal) |  | 0.1.0 | Product recall lookup vs US government feeds plus a counterfeit risk signal for… |
+| 2026-11-17 17:26:16 | com.generatorlabs/mcp | Generator Labs | 1.0.0 | Blacklist and certificate monitoring: listed hosts, expiring certificates, and… |
+| 2026-11-17 17:27:06 | nl.cijferlink/cijferlink | Cijferlink | 1.0.0 | Read-only access to Dutch accounting: Exact Online, Moneybird and SnelStart. |
+| 2026-11-17 17:28:30 | com.submitbyhand/directory-submission | Submit by Hand | 1.0.0 | Startup, SaaS and AI tool directories to submit a product to, plus hand submiss… |
+| 2026-11-17 17:30:33 | [io.github.CloudCorpRecords/filingpulse](https://github.com/CloudCorpRecords/filingpulse) |  | 0.1.0 | Fresh SEC filing intel: 8-K events, Form 4 insider activity, filing search and… |
+| 2026-11-17 17:30:50 | com.stringout/stringout | Stringout | 1.0.0 | Watch and share RAW media files, search, read transcripts, and auto-assemble ed… |
+| 2026-11-17 17:32:35 | in.osnt/mcp | OSNT.IN | 1.0.0 | Daily attributed brief on the Russia-Ukraine war. Read-only. Every item names i… |
+| 2026-11-17 17:33:13 | [io.github.AgenticArtists/modelshortlist](https://github.com/AgenticArtists/ModelShortlist) | ModelShortlist | 0.2.5 | Local BYOK MCP for AI model shortlisting using OpenRouter + Artificial Analysis. |
+| 2026-11-17 17:33:30 | io.behavly/behavly | Behavly | 1.0.0 | Agentic analytics and lifecycle email for SaaS: ask what users did, send AI-wri… |
+| 2026-11-17 17:38:49 | [io.github.CloudCorpRecords/vinreport](https://github.com/CloudCorpRecords/vinreport) |  | 0.1.0 | VIN/HIN pre-purchase report: NHTSA recalls, complaints, investigations, factory… |
+| 2026-11-17 17:40:26 | com.uavforecast/uav-forecast | UAV Forecast | 1.0.0 | Drone flying conditions checked against your own UAV Forecast settings: verdict… |
+| 2026-11-17 17:41:08 | studio.spiltink/blotter-rink | The Blotter Rink | 1.0.0 | A public message board for agents. No accounts, no keys. Read, post, or just lo… |
+| 2026-11-17 17:43:51 | it.shiftlog/mcp | ShiftLog.it | 1.0.0 | Log billable hours and generate AI-assisted monthly client timesheets from codi… |
+| 2026-11-17 17:45:57 | [io.github.CloudCorpRecords/trialledger](https://github.com/CloudCorpRecords/trialledger) |  | 0.1.0 | Clinical trials overdue on required results reporting, by sponsor or ticker, fr… |
+| 2026-11-17 17:48:06 | com.couponpriceadjustment.www/price-adjustments | Costco Price Adjustment Check | 1.0.0 | Check a Costco receipt for price adjustments and list warehouse deals. Unoffici… |
+| 2026-11-17 17:49:28 | com.couponpriceadjustment.www/costco-price-adjustments | Costco Price Adjustment Check | 1.0.0 | Check a Costco receipt for price adjustments and list warehouse deals. Unoffici… |
+| 2026-11-17 17:49:37 | sk.botmarket/listings | BotMarket.sk | 1.1.0 | Search published real-estate and land listings from BotMarket.sk (Košice, Slova… |
+| 2026-11-17 17:52:49 | [io.github.beepboop2025/liquilens](https://github.com/beepboop2025/liquilens-mcp) | LiquiLens Failure Radar | 1.8.2 | Free bank-filing and counterparty research; cited evidence limits; public MCP n… |
+| 2026-11-17 17:53:50 | [io.github.CloudCorpRecords/toneframe](https://github.com/CloudCorpRecords/toneframe) |  | 0.1.0 | Japan music-production gear prices: catalogue search, current offers, compariso… |
+| 2026-11-17 17:55:21 | com.haveitprinted/print-and-mail | Have It Printed | 1.0.1 | Print and mail documents, letters and postcards to US addresses: price, checkou… |
+| 2026-11-17 17:58:21 | com.ampdat/control | Ampdat Control | 1.0.0 | Who controls a Morpho vault, Safe or stablecoin, and what is about to change. |
+| 2026-11-17 18:01:44 | [io.github.CloudCorpRecords/tableatlas](https://github.com/CloudCorpRecords/tableatlas) |  | 0.1.0 | Dubai venue discovery: venue catalogue, nightly programme, live table availabil… |
+| 2026-11-17 18:01:56 | com.myquoteiq/quoteiq | QuoteIQ | 1.0.0 | Connect Claude and ChatGPT to QuoteIQ with 200+ tools for home service business… |
+| 2026-11-17 18:03:45 | com.sonarmood/sonar | Sonar news mood | 1.0.0 | Press tone for crypto, AI, finance, politics and sports: mood index, stories, c… |
+| 2026-11-17 18:03:54 | [org.aimlds/atom-markdown-sanitizer](https://github.com/nrupala/atom-services) | Markdown sanitizer — Atom | 0.1.0 | Markdown sanitizer, delivered per API call as an atom service on Conduit Atoms. |
+| 2026-11-17 18:03:55 | [org.aimlds/atom-token-estimator](https://github.com/nrupala/atom-services) | Token estimator — Atom | 0.1.0 | Token estimator, delivered per API call as an atom service on Conduit Atoms. |
+| 2026-11-17 18:03:56 | [org.aimlds/atom-json-schema-enforcer](https://github.com/nrupala/atom-services) | JSON schema enforcer — Atom | 0.1.0 | JSON schema enforcer, delivered per API call as an atom service on Conduit Atom… |
+| 2026-11-17 18:09:07 | [io.github.CloudCorpRecords/caseprep](https://github.com/CloudCorpRecords/caseprep) |  | 0.1.0 | Legal HQ public reads: about, the $99 Starter Kit, the case-prep checklist, set… |
+| 2026-11-17 18:13:39 | dev.changefeed/transaction-explainer | Transaction Explainer | 0.1.0 | Any Ethereum or Base transaction in plain words, with red flags. Paid per call… |
+| 2026-11-17 18:16:15 | [com.holidayexplore/mcp](https://github.com/sahin99chy/holidayexplore) | HolidayExplore Global Banking & Chronom… | 1.0.0 | Global statutory holidays, RTGS payment cutoffs, and working days across 48 cou… |
+| 2026-11-17 18:16:27 | [io.github.CloudCorpRecords/spainlaw](https://github.com/CloudCorpRecords/spainlaw) |  | 0.1.0 | Spain legal guidance: published articles, visa routes, Beckham checks, residenc… |
+| 2026-11-17 18:19:59 | llc.carrier/mcp | Carrier | 0.13.89 | Programmable eSIM and mobile connectivity: manage fleets, plans and orders from… |
 
 ## Data source
 
