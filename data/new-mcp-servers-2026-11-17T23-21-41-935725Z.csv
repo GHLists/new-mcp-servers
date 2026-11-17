@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-11-17T22:22:36.860261Z,io.github.fetter-io/fetter-mcp,Fetter MCP,2.0.0,https://github.com/fetter-io/fetter-mcp,streamable-http,"Real-time package and vulnerability data (Python, npm, Cargo, Go, and more) for AI coding agents."
+2026-11-17T22:22:57.804717Z,io.github.xuniwattoo/gs-mcp,Global Shopaholics,1.0.0,https://github.com/xuniwattoo/gs-mcp,streamable-http,"Buy from any US store and ship worldwide: shipping rates, landed cost, assisted purchase, tracking."
+2026-11-17T22:25:05.536951Z,eu.dockhold/dockhold,Dockhold,0.2.1,https://github.com/dockhold/mcp,streamable-http,"Deploy your project to a live HTTPS URL from your AI tool; read logs, set variables, resize apps."
+2026-11-17T22:26:30.73352Z,io.github.EvgenySavochkin/cvder-shared-resumes,CVder Shared Resumes,1.0.0,,streamable-http,"Read a resume its owner shared on CVder, by link, as JSON or JSON Resume. Contact details removed."
+2026-11-17T22:27:31.611704Z,io.github.the-compound-labs/aircheck,Aircheck,0.6.0,https://github.com/the-compound-labs/aircheck,,Queues posts as JSON manifests on your machine and re-runs one post's pipeline locally. Never posts.
+2026-11-17T22:28:55.001978Z,supply.calder-vale/inventory-sandbox,Calder Vale Inventory Sandbox,1.0.0,,streamable-http,Synthetic inventory sandbox with public lookup and approval-gated staff export.
+2026-11-17T22:32:23.933613Z,co.submagic/submagic,Submagic,1.0.0,,streamable-http,"Caption videos, turn YouTube videos into short clips, edit with Iris and publish to social media."
+2026-11-17T22:33:39.437755Z,com.linkezera/linkezera,Linkezera,1.1.0,,streamable-http,"Manage a Linkezera link-in-bio page, WhatsApp/Pix storefront, quizzes and leads (pt-BR)."
+2026-11-17T22:35:09.515738Z,com.1network/directory-readonly,1Network local business directory (read-only),1.0.0,,streamable-http,"Read-only: search US local businesses, read a page, counts and prices. Free, no key."
+2026-11-17T22:40:18.414236Z,io.github.defnotmid/onimite,onimite,0.1.0,https://github.com/defnotmid/onimite,,"Make videos with code: Lua scripts rendered to MP4, previewed and checked by a coding agent."
+2026-11-17T22:44:21.945245Z,net.twitchboard/twitchboard,TwitchBoard,1.0.0,,streamable-http,"Streamer tools: image sizes, name ideas, OBS widgets and bitrate, Twitch/Kick/TikTok earnings."
+2026-11-17T22:44:53.753082Z,com.fitailabs/fitai,Fitai,1.0.0,,streamable-http,"Fitai MCP: read and manage clients, messages and appointments for fitness and nutrition pros."
+2026-11-17T22:45:43.342049Z,io.github.altalyst-solutions/hookify,Hookify,0.1.0,https://github.com/altalyst-solutions/hookify,,"Accurate, version-matched docs and hook recommendations for the @altalyst/hookify React hooks."
+2026-11-17T22:48:38.593416Z,io.github.Fe2-O3/imap-wizard,,0.3.1,https://github.com/Fe2-O3/imap-wizard.git,,"Local IMAP/SMTP email MCP server: 50 tools, read-only mode, non-destructive reads, multi-account."
+2026-11-17T22:50:25.417606Z,io.github.isotopesai/aidnn,aidnn,1.0.0,,streamable-http,"Use AI assistants to analyze enterprise data, build apps, and manage your aidnn catalog."
+2026-11-17T22:50:25.430488Z,io.github.isotopesai/docs,Isotopes AI Docs,1.0.0,,streamable-http,Search and read public Isotopes AI documentation through MCP.
+2026-11-17T22:50:49.511439Z,com.carcompanionapp/car-companion,Car Companion,1.0.0,,streamable-http,"Your UK vehicles' MOT, tax and insurance dates, MOT history, alerts and emission-zone charges"
+2026-11-17T22:53:11.912557Z,io.phishdestroy/cti,PhishDestroy CTI,2.1.0,,streamable-http,"Read-only phishing-domain intelligence: check domains, dated evidence reports, search by brand."
+2026-11-17T22:54:03.035188Z,com.eltrabajito/directory,El Trabajito directory,1.0.0,,streamable-http,Costa Rica directory of independent workers with ratings and reviews. Read-only search and profiles.
+2026-11-17T23:05:09.464546Z,io.github.eddyflores100-lang/uta-trust-api,,2.3.2,,streamable-http,"Agent trust verification over x402: Ed25519 fail-closed ATC/1.0, 0.01 USDC/verify, Base mainnet."
+2026-11-17T23:05:39.817814Z,io.github.Hyeonu-Cha/dotnet-coverage-mcp,,2.0.1,https://github.com/Hyeonu-Cha/dotnet-coverage-mcp,,"MCP server for .NET coverage: run tests, parse Cobertura, find uncovered branches, append tests."
+2026-11-17T23:09:17.849779Z,com.numbru/numbru,numbrU,1.1.0,https://github.com/marcus160365/numbru-mcp-server,streamable-http,"People maps from a name: their expressions, what to avoid, what to do. Also written numberU."
+2026-11-17T23:14:21.265403Z,com.ariadnenexus/mcp-server,Ariadne Nexus Provenance & Underwriting MCP,0.1.0,https://github.com/dotlink-ops/nexus-core,streamable-http,"Deterministic SHA-256 collateral checks, optical forensics, and ZK provenance proofs."
+2026-11-17T23:19:15.620358Z,io.github.lgda-technologies/lgda-autonomic-node,,2.0.0,https://github.com/lgda-technologies/lgda-autonomic-node,streamable-http,"Buy LGDA wellness music with USDC: 27 tracks, x402 payments, signed HRV receipts."
