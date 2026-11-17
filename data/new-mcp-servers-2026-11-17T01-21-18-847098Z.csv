@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-11-17T00:21:14.413398Z,io.github.J0401/tx-esbd,TX ESBD Procurement,1.0.1,,streamable-http,"Texas ESBD procurement search: NIGP codes, full-corpus queries, change tracking. API, no login."
+2026-11-17T00:22:33.825175Z,archi.den/den_archi_mcp,Den | AEC Expert Knowledge Curation System,1.2.5,https://github.com/odd-Innocent/den_archi_mcp,streamable-http,"AEC Expert Knowledge Curation System. Korean building codes, statutes and practice, with sources."
+2026-11-17T00:35:26.997493Z,io.blockmetric/mcp,Blockmetric,0.4.0,,streamable-http,"Read-only crypto market data: Hyperliquid liquidation heatmaps, liquidations, whales, funding, flow."
+2026-11-17T00:38:51.579453Z,io.github.sitewireai/speakeasy,The Speakeasy (a quiet room for AI agents),0.1.0,,streamable-http,"A quiet room on the web for AI agents: house rules, a small data menu and a message board."
+2026-11-17T00:44:16.401848Z,io.github.akihidem/japan-hands,Japan Hands,1.1.0,,streamable-http,"Human task execution in Japan, exclusively for AI agents: shopping, stock checks, photos, bookings."
+2026-11-17T00:49:18.634346Z,org.iqamah/prayer-times,Iqamah prayer times,1.0.0,,streamable-http,"Prayer times anywhere, mosques nearby, and a mosque's own iqamah and Jumu'ah times. Free, no key."
+2026-11-17T00:50:43.448072Z,au.storageprices/storage-prices,StoragePrices: Australian Self-Storage Prices,1.5.0,,streamable-http,"Australian self-storage prices: cheapest and best-value units near any suburb, promos and trends."
+2026-11-17T00:51:15.763864Z,app.bookare/bookare,Bookare,1.0.0,,streamable-http,"Set up online booking for gyms, salons, restaurants and stays, and embed it on a website."
+2026-11-17T00:56:31.022566Z,io.github.iEscrow/marketplace,iEscrow Marketplace (read-only),0.4.0,https://github.com/iEscrow/mcp-docs,streamable-http,"Search iEscrow: products, services and P2P crypto offers held in escrow. Read-only, no login."
+2026-11-17T00:57:14.967934Z,net.agentsignal/mcp,AgentSignal,0.2.74,https://github.com/Data-Group-AI/agentsignal,,"One call reaches an agent inbox, a signed webhook, or a person's iPhone, iPad and Mac."
+2026-11-17T00:57:19.915304Z,org.nhi1/mcp,,0.1.0,https://github.com/nhi1-org/nhi1,,A board only AI and agents read and write: evidence after using a tool.
+2026-11-17T00:59:30.580746Z,gg.mint.mcp/mcp,Mint MCP Server,0.1.0,,streamable-http,"Generate 3D models, worlds, PBR materials, and coordinated asset packs from AI agents."
+2026-11-17T01:00:31.530852Z,io.github.iddogino/health-mcp,Health MCP,1.0.0,https://github.com/iddogino/HealthMCP,streamable-http,Encrypted Apple Health for MCP clients. Your key never leaves your iPhone.
+2026-11-17T01:09:09.442033Z,cc.healthmcp/health,Health MCP,1.0.0,https://github.com/iddogino/HealthMCP,streamable-http,Encrypted Apple Health for MCP clients. Your key never leaves your iPhone.
+2026-11-17T01:10:42.896999Z,com.nysgpt/data-library,NYSgpt Data Library,2.0.0,https://github.com/nyd-user-1/nysgpt-data-library,streamable-http,"SQL over 52.8B public records: USAspending, OpenAlex, patents, LEHD jobs, SEC, EPA, FERC, Medicare."
+2026-11-17T01:10:46.837772Z,at.the-y/crm,The-Y CRM,1.1.68.4,,streamable-http,"Shared inbox for calls, WhatsApp and email: let AI set up phone, mailbox, contacts and reply drafts."
+2026-11-17T01:11:44.680407Z,io.github.ladderkit/hub-kb,LadderKit,1.3.1,,,免费的代理客户端知识库：Clash、v2rayN、sing-box 等客户端的概念、教程与排错（中文，只读）
+2026-11-17T01:17:10.633435Z,io.github.Geornaden/finops-free-bank-validator-mcp,FinOps Studio Zero-Auth Bank Validator & 2-Row Taste-Test MCP,1.6.0,https://github.com/Geornaden/finops-studio,streamable-http,"No-key MCP: validate IBAN/ABA/UK/AU/VAT & preview SEPA XML, NACHA ACH, Peppol, DATEV & BAI2"
