@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-11-17T12:20:52.45283Z,com.foxriverpress/press,Fox River Press,1.0.0,,streamable-http,"Read-only tools over Fox River Press open data: credit deadlines, court records, EV charging."
+2026-11-17T12:21:40.789341Z,il.co.ramzii/ramzii,Ramzii,1.0.0,,streamable-http,Israeli supermarket prices: compare a grocery basket's delivered total across 10 online chains.
+2026-11-17T12:25:00.37268Z,biz.sevana/voice-quality,Sevana Voice Quality,1.0.0,,streamable-http,"Voice quality analysis: PVQA and AQuA MOS for WAV files, VoIP call analysis for PCAPs"
+2026-11-17T12:26:47.680278Z,com.wix/wixel,,1.0.0,https://github.com/wix/wix-mcp,streamable-http,"Create images, logos, slide decks, videos and documents with Wixel, the AI design studio by Wix"
+2026-11-17T12:31:30.979259Z,io.pagetool/pagetool,Pagetool,1.1.0,,streamable-http,"Build and host websites from a chat: draft free, edit and theme, then publish to your own domain."
+2026-11-17T12:36:19.428533Z,io.github.cygnusyang/kaidoplan,KaidoPlan,3.12.2,https://github.com/cygnusyang/KaidoPlan,,"Read and query .kaido project plans: tasks, WBS, critical path, violations."
+2026-11-17T12:36:44.965462Z,app.prevedo/prevedo,Prevedo,1.0.0,,streamable-http,"FPL projections, transfer plans, captaincy and chips for your own Fantasy Premier League team."
+2026-11-17T12:37:33.906773Z,com.waykite/waykite,waykite,1.0.0,,streamable-http,"Ports, terminals and the ships bound for them: locations, facilities, vessels and arrivals."
+2026-11-17T12:41:23.811618Z,com.renameproof/name-checker,Renameproof,1.0.0,,streamable-http,"Check app and startup names: domains and who uses them, App Store, Google Play, GitHub, npm."
+2026-11-17T12:41:54.400471Z,io.github.jmbremer/rawwatts,,1.0.0,,streamable-http,"Smart trainer rides from the RawWatts iPhone app: power, heart rate, laps. Writes ERG workouts."
+2026-11-17T12:42:05.311085Z,cloud.kurado/kurado,Kurado,1.0.0,,streamable-http,"Cloud storage with permissions, version history, e-sign, and AI file management."
+2026-11-17T12:42:14.039688Z,io.github.jmbremer/rawwatts-demo,,1.0.0,,streamable-http,"No sign-in: a real cyclist's indoor rides, read-only. Ask your AI about his power and heart rate."
+2026-11-17T12:44:12.693288Z,gg.tunnl/inspector,tunnl.gg request inspector,1.0.0,,streamable-http,"List, inspect and replay the HTTP requests that reached your open tunnl.gg tunnels."
+2026-11-17T12:47:36.241375Z,app.themochi/mochi,Mochi,1.0.0,,streamable-http,"Instagram DM sales CRM: setter and closer metrics, funnels, objections, leads, bookings, payments."
+2026-11-17T12:52:09.671755Z,ai.just-done/just,Just.,0.1.0,https://github.com/just-done/just-mcp,streamable-http,Domain names and websites for the business you are building with AI.
+2026-11-17T13:04:46.016224Z,app.aufilm/aufilm,Aufilm,1.0.0,,streamable-http,"Production planning for film: breakdown, schedule, Day Out of Days and budget in your conversation."
+2026-11-17T13:05:00.033931Z,io.github.sionjang101-create/taskattest,taskattest,0.16.0,https://github.com/sionjang101-create/taskattest,,"Stop a coding agent finishing with edits outside its task. Deterministic, local, no model calls."
+2026-11-17T13:05:55.329246Z,io.github.bitsandtea/postking-mcp,,1.1.8,https://github.com/bitsandtea/postking-mcp,streamable-http,"Get found in search: research keywords, then write and publish articles, pages and posts from chat."
+2026-11-17T13:07:03.057046Z,com.marginrule/pricing,Marginrule pricing agent,0.3.0,,streamable-http,"Fee-accurate prices, fees and payouts for Payhip, Ko-fi, Gumroad, Etsy and more. US sellers. Free."
+2026-11-17T13:10:08.431051Z,ai.affogato/affogato,Affogato,1.0.0,,streamable-http,"Generate images, video and audio from 120+ AI models, plus lipsync, headshot and cast-swap studios."
+2026-11-17T13:12:49.475382Z,io.github.codevswia/mssqlcl,mssqlcl — SQL Server MCP Server & CLI,1.0.3,https://github.com/codevswia/mssqlcl,,SQL Server MCP server and CLI with zero-config VS Code and Antigravity IDE connection discovery.
+2026-11-17T13:13:26.476289Z,com.reelagio/slots,Reelagio Slot Database,1.0.0,,streamable-http,"Read-only slot game specs: provider, grid, volatility, max win, features and similar slots."
+2026-11-17T13:15:28.044839Z,io.github.aileron-tech/wingbox,Wingbox,0.6.1,https://github.com/aileron-tech/wingbox,,"Local code graph: what a change breaks, who uses a symbol, architecture layers. No model."
+2026-11-17T13:20:22.611095Z,io.github.rorystandley/agent-market-lab-preflight-test,Agent Capability Preflight (Test),0.2.0,https://github.com/rorystandley/agent-market-lab,streamable-http,"Test-only preflight MCP server; fake payment only, no production payments."
+2026-11-17T13:21:17.639306Z,pl.netim/strona,NETIM: agencja marketingu internetowego,1.0.0,,streamable-http,"Usługi, kontakt i wyszukiwanie treści agencji NETIM (SEO, GEO, Google Ads) z Wrocławia."
