@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-11-17T10:19:21.5794Z,com.trychert.app/chert,Chert,0.1.0,,streamable-http,"Read your Chert FaceTime and iMessage lines, calls, transcripts and messages."
+2026-11-17T10:22:36.461979Z,com.socialmediaagencydirectory/agency-directory,Social Media Agency Directory,1.0.0,,streamable-http,"Search 1,600+ social media marketing agencies by city, country, service, platform and budget."
+2026-11-17T10:23:11.886399Z,so.ruling/ruling,Ruling,1.0.0,,streamable-http,"Look up and compare AI agents: facts, pricing, licenses and community scores from ruling.so."
+2026-11-17T10:26:21.72907Z,io.github.kacigaya/webskrap,WebSkrap,3.6.0,https://github.com/kacigaya/webskrap,,"Stealth web fetch, search and real Chrome control for AI agents."
+2026-11-17T10:26:41.130278Z,io.github.crow-hq/llm-wiki-v2,CROW: LLM Wiki,1.0.3,https://github.com/crow-hq/llm-wiki-v2,,"Long-term memory as a Markdown wiki: recall with cited notes, remember, file your documents."
+2026-11-17T10:29:43.139932Z,io.switchfile/switchfile,switchfile,0.1.2,,streamable-http,"Convert local files and URLs between formats: video, audio, images, documents, ebooks and more."
+2026-11-17T10:35:07.543542Z,com.claudecoworkplugins/directory,Claude Plugins Directory,1.0.0,,streamable-http,"Search Claude plugins and skills, official and community, and get their install commands."
+2026-11-17T10:37:57.310887Z,br.com.paymid/mcp-server,Paymid,0.1.0,,streamable-http,"Commission protection for middlemen: the commission is paid first, then the seller is paid."
+2026-11-17T10:39:22.143464Z,net.deallabs/city-data,DealLabs,0.2.2,,streamable-http,"Read-only city data: places, station exits, last trains. Each answer carries its source and date."
+2026-11-17T10:47:22.95442Z,io.github.Doublecheese1/agentsolis,AgentSolis,0.1.0,https://github.com/Doublecheese1/agentsolis-mcp,,Prepare unsigned USDC escrow transactions and read deal status on Arbitrum One. Never holds keys.
+2026-11-17T10:48:14.235345Z,tr.com.autopedya/autopedya,Autopedya,1.0.0,,streamable-http,"Turkey new-car prices from official brand price lists, fuel and EV charging prices, auto news."
+2026-11-17T10:49:58.3894Z,dev.datasetworks/data-tools,Dataset Works Data Tools,1.0.0,,streamable-http,"8 pay-per-result business data tools: tenders, ATS jobs, web text, tech stack, DNS/SSL, SEO."
+2026-11-17T10:49:58.62586Z,dev.datasetworks/public-tenders,EU & UK Public Tenders (Apify) by Dataset Works,1.0.0,,streamable-http,"New EU and UK public tenders and contract awards from TED, Find a Tender and Contracts Finder."
+2026-11-17T10:49:59.198133Z,dev.datasetworks/company-jobs,ATS Job Listings (Apify) by Dataset Works,1.0.0,,streamable-http,"Open jobs at any company from Greenhouse, Lever, Ashby, Personio and Recruitee boards."
+2026-11-17T10:49:59.416316Z,dev.datasetworks/web-to-text,Web to Text (Apify) by Dataset Works,1.0.0,,streamable-http,Turn web pages into clean Markdown text for LLMs and RAG. Respects robots.txt.
+2026-11-17T10:49:59.641399Z,dev.datasetworks/website-tech-stack,Website Tech Stack (Apify) by Dataset Works,1.0.0,,streamable-http,"Detect a website's tech stack (CMS, analytics, ecommerce, hosting) plus company profile."
+2026-11-17T10:50:00.07444Z,dev.datasetworks/domain-dns-ssl-lookup,"Bulk DNS, SSL & Email Security (Apify) by Dataset Works",1.0.0,,streamable-http,"Bulk DNS records, SSL certificate expiry, email provider, SPF and DMARC for domains."
+2026-11-17T10:50:00.347867Z,dev.datasetworks/website-seo-audit,Website SEO Audit (Apify) by Dataset Works,1.0.0,,streamable-http,Crawl a site for SEO issues per page and broken links. Respects robots.txt.
+2026-11-17T10:50:00.560357Z,dev.datasetworks/shopify-store-products,Shopify Store Products (Apify) by Dataset Works,1.0.0,,streamable-http,"Products, variants and prices from any public Shopify store."
+2026-11-17T10:50:01.331875Z,dev.datasetworks/news-trend-monitor,News & Trend Monitor (Apify) by Dataset Works,1.0.0,,streamable-http,News mentions and trend counts for topics from GDELT and Hacker News.
+2026-11-17T10:50:34.991556Z,com.clippertask/clippertask,ClipperTask,1.0.0,https://github.com/photo2skin/clippertask-mcp,streamable-http,"Gaming creator marketplace: studios run CPM campaigns, creators join, post and get paid per view."
+2026-11-17T10:51:30.244382Z,dev.transcriptlab/transcriptlab,TranscriptLab,1.0.0,https://github.com/hussamsi2040/transcriptlab-claude-plugin,streamable-http,"Turn YouTube videos and audio or video files into searchable, exportable transcripts."
+2026-11-17T10:52:59.844928Z,es.pulsoelectoral/pulso-electoral,Pulso electoral,1.0.0,,streamable-http,"Encuestas electorales de España, proyecciones por provincia, simuladores y guías con fuentes."
+2026-11-17T11:01:21.370227Z,net.envoyant/agentic,Envoyant,3.0.0,,streamable-http,Automated endpoint for Envoyant. Returns only answers Envoyant approved.
+2026-11-17T11:04:41.812272Z,com.reviewtactic/reviewtactic,ReviewTactic — Google Review Checker,1.0.0,https://github.com/Palicz91/reviewtactic-mcp,streamable-http,Check a business's Google reviews for rule-breaking negative reviews and its Google Maps rank.
+2026-11-17T11:06:09.816949Z,com.besttraintour/best-train-tour,Best Train Tour,1.0.0,,streamable-http,"Search and compare rail tours worldwide, with prices checked on each operator's own page."
+2026-11-17T11:08:05.786667Z,io.github.iconaut-design/iconaut,Iconaut icons,1.7.5,https://github.com/iconaut-design/icons,,"Search 1,263 free MIT icons and get the SVG, React import or shadcn command at 16/20/24px."
+2026-11-17T11:08:17.142008Z,com.tidybutton/trend-watch,Wikipedia Trend Watch,1.0.0,,streamable-http,"Track Wikipedia page-view trends, compare topics and get alerts when attention to a topic spikes."
+2026-11-17T11:08:18.261344Z,com.tidybutton/nexus-tracker,Sales Tax Nexus Tracker,1.0.0,,streamable-http,"Check US state, EU and UK sales tax thresholds against your sales and watch for new nexus."
+2026-11-17T11:17:24.545568Z,io.github.silvanexum/silvanexum,Silvanexum,0.6.3,https://github.com/silvanexum/Silvanexum-sdk,,"Spend control for AI agents - cost attribution, budget caps, and signed runs as MCP tools."
+2026-11-17T11:19:56.770654Z,io.github.lonniev/taskbooth-mcp,,0.1.0,https://github.com/lonniev/taskbooth-mcp,streamable-http,"Task Booth — work posted with a signed rubric and paid in sats after it is graded, wallet to wallet"
+2026-11-17T11:19:59.181201Z,io.github.kattpish/alttelly,알뜰리 (alttelly),1.0.0,,streamable-http,"Korean cashback app 알뜰리: partner stores, member cashback rates and how to earn. Read-only."
