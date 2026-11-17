@@ -1,0 +1,54 @@
+created_at,server,title,version,repository,transports,description
+2026-11-17T02:28:48.397069Z,io.github.SingleGrain-Team/singlebrain-gateway,SingleBrain Gateway,0.1.0,,streamable-http,"Your own accounts, and pay-per-call tools, through one remote MCP server."
+2026-11-17T02:29:22.886635Z,io.github.Rock-Garden-Inc/twinbly,Twinbly Gaussian Splatting,0.1.0,,,"Process photos and video into 3D Gaussian splats; review costs, upload and retrieve results."
+2026-11-17T02:33:15.544577Z,com.wellnessa-i/mcp,Wai,1.0.0,,streamable-http,"The clinic platform for clinics worldwide. Clinicians sign up online, others start with a demo."
+2026-11-17T02:33:15.851128Z,com.wellnessa-i/clinicians,wai,1.0.0,,streamable-http,"A clinician's own worklist, patients and clinical admin. Changes wait for the clinician to approve."
+2026-11-17T02:33:48.751766Z,io.blackroad/blackroad,BlackRoad,1.0.0,,streamable-http,BlackRoad's agent door: learn about BlackRoad and register for a persistent agent home.
+2026-11-17T02:34:46.064843Z,cn.com.showdoc/showdoc,,1.0.0,,streamable-http,"ShowDoc MCP: manage docs and API docs remotely. 60+ tools, per-user token auth."
+2026-11-17T02:35:23.826196Z,io.github.98Woonho/korea-transit-mcp,Korea Transit (TAGO),0.2.0,https://github.com/98Woonho/korea-transit-mcp,,"Korean bus stops, real-time arrivals, routes and bus locations via data.go.kr TAGO APIs"
+2026-11-17T02:40:34.638087Z,io.github.conorbronsdon/gsc-mcp,Google Search Console MCP Server,1.2.0,https://github.com/conorbronsdon/gsc-mcp,,"Google Search Console for AI agents: search analytics, sitemaps, URL inspection."
+2026-11-17T02:45:58.584584Z,com.thewellnesslondon/mcp,The Wellness,2.0.0,,streamable-http,"Request a private doctor, blood test or IV drip in London, Dubai, New York and 12 more cities."
+2026-11-17T02:47:59.400785Z,com.bestaithings/directory,Best AI Things directory,1.0.0,,streamable-http,"Search and compare 460+ hand-reviewed AI tools by pricing, platforms, API, MCP support, and more."
+2026-11-17T02:49:48.440221Z,io.github.jdurey/benchmark-ap,Benchmark AP Classroom Curriculum & CED Search,1.0.0,https://github.com/jdurey/human-creative-mcp,streamable-http,"Remote MCP tools for AP Psychology and AP Precalculus CED lessons, 1080p videos, and QTI banks."
+2026-11-17T02:56:00.125397Z,io.github.tonygskrum-ux/steam-plugin,Steam plugin,0.1.0,https://github.com/tonygskrum-ux/steam-plugin,,"Look up Steam games: US price, live player count, review score, and latest news. No API key needed."
+2026-11-17T02:58:51.54237Z,vn.congluatviet/phap-luat,Cổng Luật Việt,1.0.0,,streamable-http,"Vietnamese law: search documents, check legal effect, read articles, verify citations."
+2026-11-17T03:05:15.358408Z,io.github.whiteknightonhorse/apibase,,2.2.0,https://github.com/whiteknightonhorse/APIbase,streamable-http,"MCP endpoint to APIbase catalog (https://apibase.pro/llms.txt). USDC: x402 Base, MPP Tempo."
+2026-11-17T03:06:23.432901Z,com.tidybutton/big-file-tools,Big CSV Tools,1.0.0,,streamable-http,"Dedupe, compare, merge, split and profile CSV or TSV files that are too big to paste into a chat."
+2026-11-17T03:06:24.442838Z,com.tidybutton/business-id,Business ID Check,1.0.0,,streamable-http,"Validate EU/UK VAT numbers, Australian ABNs, NZ NZBNs and other tax IDs, one at a time or in bulk."
+2026-11-17T03:06:25.433411Z,com.tidybutton/carrier-check,Carrier Vetting Watch,1.0.0,,streamable-http,Vet US motor carriers and brokers on FMCSA data and get alerts when authority or insurance changes.
+2026-11-17T03:06:26.441335Z,com.tidybutton/cert-batch,Certificate Maker,1.0.0,,streamable-http,"Make one PDF certificate, badge or name tag per row of a CSV from Claude, with a verification code."
+2026-11-17T03:06:27.417868Z,com.tidybutton/cite-kit,Citation Library,1.0.0,,streamable-http,"Turn DOIs, ISBNs, arXiv or PubMed ids into verified references and export them in any style."
+2026-11-17T03:06:28.424236Z,com.tidybutton/companies-house,Companies House Watch,1.0.0,,streamable-http,"Look up UK companies and get alerted when filings, directors, owners, status or charges change."
+2026-11-17T03:06:29.505431Z,com.tidybutton/dep-audit,Dependency Risk Audit,1.0.0,,streamable-http,"Check a lockfile for known vulnerabilities and risky licences, and get alerted when new ones appear."
+2026-11-17T03:06:30.568001Z,com.tidybutton/eol-watch,Software EOL Watch,1.0.0,,streamable-http,Find software in your inventory that is out of support and get alerts before each end-of-life date.
+2026-11-17T03:06:31.759642Z,com.tidybutton/eu-company,EU Company Check,1.0.0,,streamable-http,Look up companies in five EU and EEA registers and get alerts when status or officers change.
+2026-11-17T03:06:32.841289Z,com.tidybutton/facility-check,Facility Compliance Check,1.0.0,,streamable-http,Check the US environmental compliance record of a facility or supplier from EPA ECHO public data.
+2026-11-17T03:06:33.946734Z,com.tidybutton/feed-check,Feed Check,1.0.0,,streamable-http,"Validate Google, Meta or Pinterest product feeds and get a corrected CSV with every fix listed."
+2026-11-17T03:06:34.97431Z,com.tidybutton/grant-watch,Grant Watch,1.0.0,,streamable-http,"Search US and EU grant opportunities, and get alerts for new matches and approaching deadlines."
+2026-11-17T03:06:35.961629Z,com.tidybutton/grantee-check,Grantee Verifier,1.0.0,,streamable-http,"Check US nonprofit EINs against IRS data before you pay: exemption status, revocations, filings."
+2026-11-17T03:06:36.933155Z,com.tidybutton/list-hygiene,Email List Cleaner,1.0.0,,streamable-http,"Clean an email list: syntax, duplicates, dead domains, disposable and role addresses, in bulk."
+2026-11-17T03:06:37.921532Z,com.tidybutton/lit-watch,Literature Watch,1.0.0,,streamable-http,"Search new papers across Europe PMC, arXiv, Crossref and OpenAlex, and save queries that alert you."
+2026-11-17T03:06:38.977819Z,com.tidybutton/mail-doctor,Mail Domain Doctor,1.0.0,,streamable-http,"Check a domain's SPF, DKIM, DMARC, MTA-STS and blocklists and get the exact DNS records to fix it."
+2026-11-17T03:06:39.968003Z,com.tidybutton/media-watch,Media Mention Watch,1.0.0,,streamable-http,"Search worldwide online news, track mention volume and tone over time, and watch saved queries."
+2026-11-17T03:06:40.977911Z,com.tidybutton/migration-mapper,Migration Mapper,1.0.0,,streamable-http,"Map an old website's URLs to the new site and get redirect rules for nginx, Apache or Cloudflare."
+2026-11-17T03:06:42.125345Z,com.tidybutton/name-check,Brand Name Check,1.0.0,,streamable-http,Check if a brand or product name is free as a domain and whether similar US trademarks exist.
+2026-11-17T03:06:43.305266Z,com.tidybutton/page-speed-batch,Page Speed Tracker,1.0.0,,streamable-http,"Run PageSpeed Insights for many URLs from Claude, keep every run, and see trends and regressions."
+2026-11-17T03:06:44.42941Z,com.tidybutton/patch-priority,Patch Priority Watch,1.0.0,,streamable-http,"Rank CVEs by real exploitation signals from CISA KEV and EPSS, and get alerts on your products."
+2026-11-17T03:06:45.529858Z,com.tidybutton/provider-check,Provider Exclusion Check,1.0.0,,streamable-http,Look up NPI numbers in the CMS registry and check providers against the HHS-OIG exclusion list.
+2026-11-17T03:06:46.578451Z,com.tidybutton/recall-watch,Recall Watch,1.0.0,,streamable-http,"Search product, food, drug, device and vehicle recalls, and watch your products and suppliers."
+2026-11-17T03:06:47.649076Z,com.tidybutton/reg-watch,Reg & Bill Watch,1.0.0,,streamable-http,"Search US federal rules, comment periods and US and UK bills, and watch topics and dockets."
+2026-11-17T03:06:48.742782Z,com.tidybutton/sanctions-screen,Sanctions Screener,1.0.0,,streamable-http,"Screen names against official US, UK, EU and UN sanctions lists and get alerts on saved lists."
+2026-11-17T03:06:49.872532Z,com.tidybutton/schema-builder,Schema Markup Builder,1.0.0,,streamable-http,Generate and check schema.org JSON-LD for Google rich results from Claude.
+2026-11-17T03:06:51.01434Z,com.tidybutton/sec-filings,SEC Filing Watch,1.0.0,,streamable-http,Look up SEC EDGAR filings and get alerts when a watched company files or a form type appears.
+2026-11-17T03:06:52.106846Z,com.tidybutton/site-audit,Website Crawler (SEO),1.0.0,,streamable-http,Crawl a website from Claude and get a scored technical SEO report with a prioritised fix list.
+2026-11-17T03:06:53.096428Z,com.tidybutton/tariff-codes,Tariff Code Finder,1.0.0,,streamable-http,"Find candidate customs tariff codes and duty rates for a product in the US, UK and EU."
+2026-11-17T03:06:54.122912Z,com.tidybutton/tender-watch,Tender Watch,1.0.0,,streamable-http,"Search EU, UK and US public tenders, look up award history, and get alerts on new matches."
+2026-11-17T03:06:55.140475Z,com.tidybutton/travel-advisory,Travel Advisory Watch,1.0.0,,streamable-http,"Look up and compare official government travel advisories, and watch countries for changes."
+2026-11-17T03:06:56.225243Z,com.tidybutton/workday-calc,Business Day Calculator,1.0.0,,streamable-http,"Business-day maths with real public holidays: days between dates, deadlines and SLA due dates."
+2026-11-17T03:10:44.993956Z,io.github.LiuXiyun/smartoken-mcp,SmarToken,0.1.1,https://github.com/LiuXiyun/smartoken-mcp,,Discover models and make text chat calls through the SmarToken API.
+2026-11-17T03:12:35.464403Z,io.github.superdesigndev/treg,treg,0.31.0,https://github.com/superdesigndev/treg,streamable-http,"Live data for AI agents. Search the catalog, read the price, call the tool; keys stay server-side."
+2026-11-17T03:16:24.978058Z,com.aicommentexporter/ai-comment-exporter,AI Comment Exporter,1.0.0,,streamable-http,"Read, export and analyze public comments of TikTok, Instagram, X and Reddit posts."
+2026-11-17T03:18:33.902463Z,io.github.dadaobear-glitch/auramatrix,AuraMatrix,0.5.0,https://github.com/dadaobear-glitch/auramatrix-mcp,streamable-http,"LLM API token prices and GPU rental prices, each with its source and date. No key, no account."
+2026-11-17T03:18:43.137627Z,io.github.cvlSoft/aios,AIOS,1.0.0,https://github.com/cvlSoft/aios-mcp,streamable-http,"Run your organization's AIOS workflows as tools, with its approvals, audit trail and access rules."
+2026-11-17T03:18:43.342545Z,io.github.cvlSoft/aios-builder,AIOS Builder,1.0.0,https://github.com/cvlSoft/aios-mcp,streamable-http,"Build, validate, test-run and publish AIOS workflows from Claude Code, Codex, Cursor or VS Code."
+2026-11-17T03:19:52.351908Z,io.github.jasonliu119/airapgenerators,AI Rap Generators,1.0.0,https://github.com/jasonliu119/airapgenerators-mcp-skill,streamable-http,Create rap videos from two photos; video generation costs 10 credits per task.

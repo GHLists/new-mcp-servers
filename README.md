@@ -9,43 +9,67 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 02:20 UTC
+## Latest list — 2026-11-17 03:20 UTC
 
-New MCP servers published between 2026-11-17 01:21 UTC and 2026-11-17 02:20 UTC.
+New MCP servers published between 2026-11-17 02:20 UTC and 2026-11-17 03:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-17T02-20-29-345777Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-17T03-20-14-46161Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-17 01:26:52 | jp.kansokujo/bids | 入札案件観測所 | 0.3.0 | Japan public procurement: open tenders, upcoming bid plans, and award results s… |
-| 2026-11-17 01:30:40 | com.realisticragdollengine.game-assets/itemsmith | Itemsmith game assets | 1.0.0 | Matching 2D game sprites, icons, tiles and UI kits as PNG + JSON atlas. Free ti… |
-| 2026-11-17 01:31:27 | com.quohouse/quo | Quo | 1.0.0 | Chauffeured black car rides across Florida: quote a fare, request a ride, check… |
-| 2026-11-17 01:32:47 | io.github.Houski/property-data | Houski Property Data | 0.1.16 | Property data for 220M+ homes in North America, Europe and South Korea: search,… |
-| 2026-11-17 01:34:39 | [io.github.pshivapr/selenium-webdriver-mcp](https://github.com/pshivapr/selenium-mcp) |  | 0.4.8 | Selenium Tools for MCP |
-| 2026-11-17 01:35:23 | [io.github.apireno/domshell](https://github.com/apireno/DOMShell) | DOMShell | 2.0.11 | Drive Chrome with filesystem commands (ls, cd, grep, click, type). One MCP tool… |
-| 2026-11-17 01:36:58 | [app.kedimeet/kedimeet](https://github.com/Kedicode-TR/kedimeet-mcp) | KediMeet | 1.0.0 | Search and read call transcripts and summaries recorded by the KediMeet Mac app… |
-| 2026-11-17 01:45:49 | io.github.outsmall/xc-compliance | xc-compliance | 0.3.14 | EU product compliance evidence: official legal excerpts and historical product… |
-| 2026-11-17 01:46:12 | [io.github.theharrisontruong-web/mailauth-audit](https://github.com/theharrisontruong-web/agent-apis) | MailAuth Audit (Email Deliverability) | 1.0.0 | Audits a domain's SPF, DKIM, DMARC and MX for spoofing risk and deliverability.… |
-| 2026-11-17 01:46:12 | [io.github.theharrisontruong-web/secheaders-audit](https://github.com/theharrisontruong-web/agent-apis) | Security Headers + TLS Audit | 1.0.0 | Audits security headers + TLS (HSTS, CSP, cert, cookies) for any site. $1.50/ca… |
-| 2026-11-17 01:46:13 | [io.github.theharrisontruong-web/seo-audit](https://github.com/theharrisontruong-web/agent-apis) | SEO Technical Audit | 1.0.0 | Technical SEO audit of any web page: indexing, meta, OG, schema. $1.00/call via… |
-| 2026-11-17 01:46:13 | [io.github.theharrisontruong-web/tokenverdict](https://github.com/theharrisontruong-web/agent-apis) | Base Token Verdict | 1.0.0 | Base token verdict: GO/HOLD/BLOCK decision + score on any Base token address. $… |
-| 2026-11-17 01:47:04 | app.vibecreator/video | VibeCreator | 1.0.0 | Turn an idea into a short animated video (stories, explainers, maps) that plays… |
-| 2026-11-17 01:48:47 | com.financeappradar/referral-codes | Finance App Radar referral codes | 1.0.0 | Verified U.S. referral codes and sign-up links for money, sports and AI apps, w… |
-| 2026-11-17 01:49:45 | dev.changefeed/protocol-change-feed | Protocol Change Feed | 0.1.0 | DeFi governance votes, contract upgrades, and who controls any contract. Paid p… |
-| 2026-11-17 01:50:45 | [io.github.finnmckenty/ntscrt](https://github.com/finnmckenty/NTSCRT) | NTSCRT | 0.26.4 | VHS, CRT and analog TV looks for images and video: preview, animate and render… |
-| 2026-11-17 01:52:56 | [io.github.aw3-technology/openeye](https://github.com/aw3-technology/openeye.sh) | OpenEye | 0.3.0 | Vision for agents: run YOLO, depth, segmentation and detection models locally o… |
-| 2026-11-17 01:58:34 | com.zyte/mcp | Zyte MCP | 1.0.0 | Fetch web pages, extract structured data, search the web and manage Scrapy Clou… |
-| 2026-11-17 01:58:41 | pro.valkiria/valkiria |  | 1.0.0 | Ad, SMM, SEO and market analytics for one account owner; drafts only, owner app… |
-| 2026-11-17 01:59:35 | io.github.Hobizbo/email-gate | Wingmarked | 1.0.0 | Approval layer for AI agent email: check drafts and send through a gate that ho… |
-| 2026-11-17 01:59:45 | [io.github.Aziz0346/gradeatlas](https://github.com/Aziz0346/gradeatlas) | GradeAtlas MCP | 0.1.0 | Convert grades between 1,159 grading systems across 246 countries into the US 4… |
-| 2026-11-17 02:06:05 | [io.github.SuresoftTechnologies/alira-ai-agent](https://github.com/SuresoftTechnologies/alira-ai-agent) | ALIRA-AI | 0.1.0 | Generate software design documents (SDD) from C source code as Word or Markdown… |
-| 2026-11-17 02:07:28 | [io.github.oliveiratc/grid402](https://github.com/oliveiratc/Grid402) | Grid402 — Brazil Public Data & Network… | 1.9.0 | 24 MCP tools: Brazil CNPJ, compliance, ANBIMA, FX, GLEIF LEI, OFAC & DNS/SSL vi… |
-| 2026-11-17 02:08:41 | io.github.realadeel/poliscope | Poliscope | 1.0.0 | US political money data: campaign finance, lobbying, dark money, contracts and… |
-| 2026-11-17 02:13:31 | co.bricktable/bricktable | BrickTable | 1.0.0 | Tokenized real estate on RealT, Lofty, Binaryx and Reental: listings, executed… |
-| 2026-11-17 02:15:21 | [io.github.Cameleering/cameleer](https://github.com/cameleering/cameleer) | Cameleer | 0.7.1 | Serve Camel-style routes as MCP tools with approvals, rate limits and audit; al… |
-| 2026-11-17 02:15:25 | net.builderlog/connector | Builderlog | 1.0.0 | Naver blog helper: topic ideas, post briefs, checks, cover text and keyword vol… |
-| 2026-11-17 02:15:41 | [io.github.edward-kim-dev/kr-pc-deals-mcp](https://github.com/edward-kim-dev/kr-pc-deals-mcp) | 한국 PC 부품 가격비교 | 2.0.0 | 다나와·에누리·견적왕·컴퓨존 PC 부품 가격 비교, 조립 견적 합계, 호환성 검사 |
-| 2026-11-17 02:17:43 | dev.workers.mtfit-mcp.mtfit-mcp/programming | MTFIT Programming | 1.0.0 | Workout and nutrition plans built on a real coach's rules. Paid per call with x… |
+| 2026-11-17 02:28:48 | io.github.SingleGrain-Team/singlebrain-gateway | SingleBrain Gateway | 0.1.0 | Your own accounts, and pay-per-call tools, through one remote MCP server. |
+| 2026-11-17 02:29:22 | io.github.Rock-Garden-Inc/twinbly | Twinbly Gaussian Splatting | 0.1.0 | Process photos and video into 3D Gaussian splats; review costs, upload and retr… |
+| 2026-11-17 02:33:15 | com.wellnessa-i/mcp | Wai | 1.0.0 | The clinic platform for clinics worldwide. Clinicians sign up online, others st… |
+| 2026-11-17 02:33:15 | com.wellnessa-i/clinicians | wai | 1.0.0 | A clinician's own worklist, patients and clinical admin. Changes wait for the c… |
+| 2026-11-17 02:33:48 | io.blackroad/blackroad | BlackRoad | 1.0.0 | BlackRoad's agent door: learn about BlackRoad and register for a persistent age… |
+| 2026-11-17 02:34:46 | cn.com.showdoc/showdoc |  | 1.0.0 | ShowDoc MCP: manage docs and API docs remotely. 60+ tools, per-user token auth. |
+| 2026-11-17 02:35:23 | [io.github.98Woonho/korea-transit-mcp](https://github.com/98Woonho/korea-transit-mcp) | Korea Transit (TAGO) | 0.2.0 | Korean bus stops, real-time arrivals, routes and bus locations via data.go.kr T… |
+| 2026-11-17 02:40:34 | [io.github.conorbronsdon/gsc-mcp](https://github.com/conorbronsdon/gsc-mcp) | Google Search Console MCP Server | 1.2.0 | Google Search Console for AI agents: search analytics, sitemaps, URL inspection. |
+| 2026-11-17 02:45:58 | com.thewellnesslondon/mcp | The Wellness | 2.0.0 | Request a private doctor, blood test or IV drip in London, Dubai, New York and… |
+| 2026-11-17 02:47:59 | com.bestaithings/directory | Best AI Things directory | 1.0.0 | Search and compare 460+ hand-reviewed AI tools by pricing, platforms, API, MCP… |
+| 2026-11-17 02:49:48 | [io.github.jdurey/benchmark-ap](https://github.com/jdurey/human-creative-mcp) | Benchmark AP Classroom Curriculum & CED… | 1.0.0 | Remote MCP tools for AP Psychology and AP Precalculus CED lessons, 1080p videos… |
+| 2026-11-17 02:56:00 | [io.github.tonygskrum-ux/steam-plugin](https://github.com/tonygskrum-ux/steam-plugin) | Steam plugin | 0.1.0 | Look up Steam games: US price, live player count, review score, and latest news… |
+| 2026-11-17 02:58:51 | vn.congluatviet/phap-luat | Cổng Luật Việt | 1.0.0 | Vietnamese law: search documents, check legal effect, read articles, verify cit… |
+| 2026-11-17 03:05:15 | [io.github.whiteknightonhorse/apibase](https://github.com/whiteknightonhorse/APIbase) |  | 2.2.0 | MCP endpoint to APIbase catalog (https://apibase.pro/llms.txt). USDC: x402 Base… |
+| 2026-11-17 03:06:23 | com.tidybutton/big-file-tools | Big CSV Tools | 1.0.0 | Dedupe, compare, merge, split and profile CSV or TSV files that are too big to… |
+| 2026-11-17 03:06:24 | com.tidybutton/business-id | Business ID Check | 1.0.0 | Validate EU/UK VAT numbers, Australian ABNs, NZ NZBNs and other tax IDs, one at… |
+| 2026-11-17 03:06:25 | com.tidybutton/carrier-check | Carrier Vetting Watch | 1.0.0 | Vet US motor carriers and brokers on FMCSA data and get alerts when authority o… |
+| 2026-11-17 03:06:26 | com.tidybutton/cert-batch | Certificate Maker | 1.0.0 | Make one PDF certificate, badge or name tag per row of a CSV from Claude, with… |
+| 2026-11-17 03:06:27 | com.tidybutton/cite-kit | Citation Library | 1.0.0 | Turn DOIs, ISBNs, arXiv or PubMed ids into verified references and export them… |
+| 2026-11-17 03:06:28 | com.tidybutton/companies-house | Companies House Watch | 1.0.0 | Look up UK companies and get alerted when filings, directors, owners, status or… |
+| 2026-11-17 03:06:29 | com.tidybutton/dep-audit | Dependency Risk Audit | 1.0.0 | Check a lockfile for known vulnerabilities and risky licences, and get alerted… |
+| 2026-11-17 03:06:30 | com.tidybutton/eol-watch | Software EOL Watch | 1.0.0 | Find software in your inventory that is out of support and get alerts before ea… |
+| 2026-11-17 03:06:31 | com.tidybutton/eu-company | EU Company Check | 1.0.0 | Look up companies in five EU and EEA registers and get alerts when status or of… |
+| 2026-11-17 03:06:32 | com.tidybutton/facility-check | Facility Compliance Check | 1.0.0 | Check the US environmental compliance record of a facility or supplier from EPA… |
+| 2026-11-17 03:06:33 | com.tidybutton/feed-check | Feed Check | 1.0.0 | Validate Google, Meta or Pinterest product feeds and get a corrected CSV with e… |
+| 2026-11-17 03:06:34 | com.tidybutton/grant-watch | Grant Watch | 1.0.0 | Search US and EU grant opportunities, and get alerts for new matches and approa… |
+| 2026-11-17 03:06:35 | com.tidybutton/grantee-check | Grantee Verifier | 1.0.0 | Check US nonprofit EINs against IRS data before you pay: exemption status, revo… |
+| 2026-11-17 03:06:36 | com.tidybutton/list-hygiene | Email List Cleaner | 1.0.0 | Clean an email list: syntax, duplicates, dead domains, disposable and role addr… |
+| 2026-11-17 03:06:37 | com.tidybutton/lit-watch | Literature Watch | 1.0.0 | Search new papers across Europe PMC, arXiv, Crossref and OpenAlex, and save que… |
+| 2026-11-17 03:06:38 | com.tidybutton/mail-doctor | Mail Domain Doctor | 1.0.0 | Check a domain's SPF, DKIM, DMARC, MTA-STS and blocklists and get the exact DNS… |
+| 2026-11-17 03:06:39 | com.tidybutton/media-watch | Media Mention Watch | 1.0.0 | Search worldwide online news, track mention volume and tone over time, and watc… |
+| 2026-11-17 03:06:40 | com.tidybutton/migration-mapper | Migration Mapper | 1.0.0 | Map an old website's URLs to the new site and get redirect rules for nginx, Apa… |
+| 2026-11-17 03:06:42 | com.tidybutton/name-check | Brand Name Check | 1.0.0 | Check if a brand or product name is free as a domain and whether similar US tra… |
+| 2026-11-17 03:06:43 | com.tidybutton/page-speed-batch | Page Speed Tracker | 1.0.0 | Run PageSpeed Insights for many URLs from Claude, keep every run, and see trend… |
+| 2026-11-17 03:06:44 | com.tidybutton/patch-priority | Patch Priority Watch | 1.0.0 | Rank CVEs by real exploitation signals from CISA KEV and EPSS, and get alerts o… |
+| 2026-11-17 03:06:45 | com.tidybutton/provider-check | Provider Exclusion Check | 1.0.0 | Look up NPI numbers in the CMS registry and check providers against the HHS-OIG… |
+| 2026-11-17 03:06:46 | com.tidybutton/recall-watch | Recall Watch | 1.0.0 | Search product, food, drug, device and vehicle recalls, and watch your products… |
+| 2026-11-17 03:06:47 | com.tidybutton/reg-watch | Reg & Bill Watch | 1.0.0 | Search US federal rules, comment periods and US and UK bills, and watch topics… |
+| 2026-11-17 03:06:48 | com.tidybutton/sanctions-screen | Sanctions Screener | 1.0.0 | Screen names against official US, UK, EU and UN sanctions lists and get alerts… |
+| 2026-11-17 03:06:49 | com.tidybutton/schema-builder | Schema Markup Builder | 1.0.0 | Generate and check schema.org JSON-LD for Google rich results from Claude. |
+| 2026-11-17 03:06:51 | com.tidybutton/sec-filings | SEC Filing Watch | 1.0.0 | Look up SEC EDGAR filings and get alerts when a watched company files or a form… |
+| 2026-11-17 03:06:52 | com.tidybutton/site-audit | Website Crawler (SEO) | 1.0.0 | Crawl a website from Claude and get a scored technical SEO report with a priori… |
+| 2026-11-17 03:06:53 | com.tidybutton/tariff-codes | Tariff Code Finder | 1.0.0 | Find candidate customs tariff codes and duty rates for a product in the US, UK… |
+| 2026-11-17 03:06:54 | com.tidybutton/tender-watch | Tender Watch | 1.0.0 | Search EU, UK and US public tenders, look up award history, and get alerts on n… |
+| 2026-11-17 03:06:55 | com.tidybutton/travel-advisory | Travel Advisory Watch | 1.0.0 | Look up and compare official government travel advisories, and watch countries… |
+| 2026-11-17 03:06:56 | com.tidybutton/workday-calc | Business Day Calculator | 1.0.0 | Business-day maths with real public holidays: days between dates, deadlines and… |
+| 2026-11-17 03:10:44 | [io.github.LiuXiyun/smartoken-mcp](https://github.com/LiuXiyun/smartoken-mcp) | SmarToken | 0.1.1 | Discover models and make text chat calls through the SmarToken API. |
+| 2026-11-17 03:12:35 | [io.github.superdesigndev/treg](https://github.com/superdesigndev/treg) | treg | 0.31.0 | Live data for AI agents. Search the catalog, read the price, call the tool; key… |
+| 2026-11-17 03:16:24 | com.aicommentexporter/ai-comment-exporter | AI Comment Exporter | 1.0.0 | Read, export and analyze public comments of TikTok, Instagram, X and Reddit pos… |
+| 2026-11-17 03:18:33 | [io.github.dadaobear-glitch/auramatrix](https://github.com/dadaobear-glitch/auramatrix-mcp) | AuraMatrix | 0.5.0 | LLM API token prices and GPU rental prices, each with its source and date. No k… |
+| 2026-11-17 03:18:43 | [io.github.cvlSoft/aios](https://github.com/cvlSoft/aios-mcp) | AIOS | 1.0.0 | Run your organization's AIOS workflows as tools, with its approvals, audit trai… |
+| 2026-11-17 03:18:43 | [io.github.cvlSoft/aios-builder](https://github.com/cvlSoft/aios-mcp) | AIOS Builder | 1.0.0 | Build, validate, test-run and publish AIOS workflows from Claude Code, Codex, C… |
+| 2026-11-17 03:19:52 | [io.github.jasonliu119/airapgenerators](https://github.com/jasonliu119/airapgenerators-mcp-skill) | AI Rap Generators | 1.0.0 | Create rap videos from two photos; video generation costs 10 credits per task. |
 
 ## Data source
 
