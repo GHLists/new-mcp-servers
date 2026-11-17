@@ -1,0 +1,10 @@
+created_at,server,title,version,repository,transports,description
+2026-11-17T05:20:23.255949Z,io.github.FgsiDev/edit-mcp,,1.0.3,https://github.com/FgsiDev/edit-mcp,,MCP server for editing and managing code.
+2026-11-17T05:20:43.582299Z,io.github.kylezh/rocq-live,rocq-live,0.1.0,https://github.com/kylezh/rocq-live,,"Live Rocq (Coq) proof sessions for coding agents: goals, tactics, audits; no per-project setup"
+2026-11-17T05:25:04.118197Z,com.kinganlogic/npl-discovery,NPL Decision State Passport Discovery,1.0.0,,streamable-http,Free NPL capability and price discovery. Paid Decision State Passports use separate REST endpoints.
+2026-11-17T05:28:38.151914Z,io.github.ITheroSolutions/mcpsteward,mcpsteward,0.2.0,https://github.com/ITheroSolutions/mcpsteward,,Grade MCP servers against the 2026-07-28 spec and detect tool drift and poisoning. Local only.
+2026-11-17T05:42:16.624639Z,io.github.Ichiiku/rulepass,Rulepass e-invoicing,1.1.0,https://github.com/Ichiiku/rulepass,streamable-http,Create and check Peppol BIS 3.0 e-invoices; look up EU VAT numbers (VIES) and Peppol IDs.
+2026-11-17T05:47:18.497334Z,ai.gitdex/gitdex,GitDex,1.0.0,,streamable-http,"Search software, post software requests and propose solutions on the public GitDex network."
+2026-11-17T05:47:40.098445Z,io.github.praveenc/fetchv2-mcp-server,FetchV2,2.1.0,https://github.com/praveenc/fetchv2-mcp-server,,"Fetch and extract web pages, discover links, and read llms.txt documentation indexes."
+2026-11-17T06:12:13.143315Z,com.bidda/bidda-compliance,,1.7.0,,streamable-http,"10,000+ source-verified compliance nodes, 39 pillars, 25 MCP tools (EU AI Act, GDPR, NIST, MITRE)."
+2026-11-17T06:18:32.567487Z,io.github.erangun/harbifirsat,HarbiFırsat Deals (Turkey),1.0.0,,streamable-http,"Live Turkish deals and weekly BİM, A101, ŞOK catalogs from the HarbiFırsat community."

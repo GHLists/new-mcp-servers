@@ -582,6 +582,7 @@
     "ai.gighq/gighq",
     "ai.giljo/amh",
     "ai.giljo/hq",
+    "ai.gitdex/gitdex",
     "ai.glasser/glasser",
     "ai.glassflow/rius",
     "ai.glassflow/tares",
@@ -4679,6 +4680,7 @@
     "com.bidalto.mcp/tenders",
     "com.bidbudai/estimating",
     "com.bidcraftai/quotes",
+    "com.bidda/bidda-compliance",
     "com.bidprowl/bidprowl",
     "com.bidrover/bidrover",
     "com.bidsparq/mcp",
@@ -7676,6 +7678,7 @@
     "com.kineticist/mcp-server",
     "com.kinetune/kinetune",
     "com.kinganlogic/fahce-integrity-repair",
+    "com.kinganlogic/npl-discovery",
     "com.kinganlogic/tool-offer-agent",
     "com.kingminos/mcp",
     "com.kinjay/mcp",
@@ -17356,6 +17359,7 @@
     "io.github.Fetch-Hive/mcp-gateway",
     "io.github.Fetchwright/google-ads-library",
     "io.github.Fetchwright/google-ai-overview-tracker",
+    "io.github.FgsiDev/edit-mcp",
     "io.github.Fibery-inc/mcp",
     "io.github.Fieldproxy/fieldproxy-mcp",
     "io.github.Fikpeze123/pactlyst",
@@ -17740,6 +17744,7 @@
     "io.github.IOServicesLabs/searchio",
     "io.github.IPGeolocation/ipgeolocation-io-mcp",
     "io.github.ISheepp/pixolm",
+    "io.github.ITheroSolutions/mcpsteward",
     "io.github.IVYEnergy/aivy-mcp",
     "io.github.IamHarrie-Labs/hanko",
     "io.github.IamSAL/jira-easy-mcp",
@@ -17747,6 +17752,7 @@
     "io.github.Icaro0310/devin-memory",
     "io.github.Icaro0310/poordjaevin",
     "io.github.IcaroBichir/lorcana",
+    "io.github.Ichiiku/rulepass",
     "io.github.Iconmind/iconmind",
     "io.github.Idadabhai/lexpact",
     "io.github.Ideelab/uisandbox",
@@ -23205,6 +23211,7 @@
     "io.github.equinoxaifinance-rgb/pactwire",
     "io.github.equinoxaifinance-rgb/proof-fetch",
     "io.github.eralpozcan/vision-squeezer",
+    "io.github.erangun/harbifirsat",
     "io.github.erayendes/asc-mcp",
     "io.github.erayerturk/surgical-context-mcp",
     "io.github.eren23/attocode-code-intel",
@@ -25331,6 +25338,7 @@
     "io.github.kwtsms/kwtsms-mcp",
     "io.github.kyl3kan3/leaselineage",
     "io.github.kylelloyd63-star/sourcetome",
+    "io.github.kylezh/rocq-live",
     "io.github.kyliemckinleydemo/sec-filing-analyzer",
     "io.github.kyungseopk1m/semver-checks",
     "io.github.kyuza1/lpc-character-mcp",
@@ -30844,6 +30852,7 @@
     "io.github.pratikgajjar/sf-beverage-skus",
     "io.github.pratikgh0se/instagram-mcp",
     "io.github.pratikgh0se/youtube-mcp",
+    "io.github.praveenc/fetchv2-mcp-server",
     "io.github.praveenc/llmstxt-doc-search",
     "io.github.praveenjuge/vadivam",
     "io.github.praxec/cpm-planner",
@@ -39020,11 +39029,11 @@
     "zone.fork/fork"
   ],
   "list": {
-    "count": 23,
-    "from": "2026-11-17T04:19:52.246271Z",
-    "path": "data/new-mcp-servers-2026-11-17T05-19-47-659381Z.csv",
-    "to": "2026-11-17T05:19:47.659381Z"
+    "count": 9,
+    "from": "2026-11-17T05:19:47.659381Z",
+    "path": "data/new-mcp-servers-2026-11-17T06-20-35-263513Z.csv",
+    "to": "2026-11-17T06:20:35.263513Z"
   },
   "source_truncated": false,
-  "window": "2026-11-17T05:19:47.659381Z"
+  "window": "2026-11-17T06:20:35.263513Z"
 }
