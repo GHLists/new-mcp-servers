@@ -1,0 +1,19 @@
+created_at,server,title,version,repository,transports,description
+2026-11-18T17:23:48.182549Z,io.github.hrabosh/wos-mcp-bridge,Web of Science MCP bridge,0.1.0,https://github.com/hrabosh/wos-mcp-bridge,,Search Web of Science Core Collection and find open-access literature.
+2026-11-18T17:27:54.629752Z,ai.peerfoundry/run,PeerFoundry Run,0.1.0,,streamable-http,Beta code sandbox for agents. Run Python or JavaScript with no network and a 30 s timeout.
+2026-11-18T17:30:38.959049Z,com.forexnewsradar/mcp,ForexNewsRadar — FX & Gold Macro Signals + Prop VETO,4.6.4,,streamable-http,"Live 18-pair FX & Gold macro sigma surprises, T-5m prop-firm news blackouts & Whipsaw VETO gates."
+2026-11-18T17:34:29.09592Z,de.plateaucandy/plateau-candy,,2.0.0,,streamable-http,"Cologne design studio as MCP tools: profile, services, availability, consultation booking."
+2026-11-18T17:42:42.264114Z,io.github.Reno-Labs/vigil,Vigil by Reno Labs,0.2.0,,streamable-http,"Read SEC filings, congressional trades, insider activity, and institutional holdings."
+2026-11-18T17:45:01.809274Z,com.sposera/wedding-planner,Sposera,1.0.0,,streamable-http,"Plan a wedding from the chat: guests and RSVPs, budget, vendors, seating, rooms, timeline."
+2026-11-18T17:51:43.005011Z,app.thenextrace/tnr,The Next Race,0.27.1,,streamable-http,"Plan, track and coach endurance training: races, plans, workouts, activities and recovery."
+2026-11-18T17:52:05.45767Z,com.fixamark/fixamark,Fixamark,1.0.0,,streamable-http,"Client feedback pinned on websites, with screenshots and errors, for coding agents to fix."
+2026-11-18T17:54:24.278291Z,za.co.whats-hub.sonar/whatsapp,Sonar for WhatsApp Business,1.0.0,,streamable-http,"Your Sonar WhatsApp inbox in your AI assistant: summarise chats, draft replies, check templates."
+2026-11-18T17:55:36.130724Z,cl.miscausas/miscausas,MisCausas.cl,1.0.0,,streamable-http,"Estudio jurídico de insolvencia en Chile: servicios, honorarios, evaluador de deuda y horas."
+2026-11-18T17:57:17.627108Z,io.github.FabianSchurig/bitbucket-mcp,Bitbucket MCP,0.21.0,https://github.com/FabianSchurig/bitbucket-cli,,"Bitbucket Cloud MCP in Go: complete API auto-generated from spec, customizable prompts."
+2026-11-18T17:58:37.835293Z,io.github.reunion-one/india-real-estate,Reunion India Real Estate,1.0.0,,streamable-http,Source-backed read-only India real-estate regulatory reference tools.
+2026-11-18T18:02:42.149656Z,io.github.marcepalacios12/google-trends-scraper,Google Trends Scraper,1.0.0,,streamable-http,"Google Trends without an API key: interest over time, regions, rising queries and trending now."
+2026-11-18T18:04:30.178348Z,com.status403/site,status403,1.0.0,,streamable-http,"The status403 site as MCP tools: services, technical write-ups, and any page as markdown."
+2026-11-18T18:06:49.165031Z,app.pepvault/pepvault,PepVault,1.0.0,,streamable-http,"Peptide reference: compounds, study dose ranges, vial math, research summaries, glossary."
+2026-11-18T18:07:01.688203Z,pt.cartaregistada/cartaregistada,cartaregistada.pt,1.0.0,https://github.com/Talhabestaz/cartaregistada-mcp,streamable-http,"Send registered letters by post in Portugal: quote, create, track. Payment by Stripe link."
+2026-11-18T18:08:27.561281Z,xyz.popularsui/popular,POPULAR (Sui memecoin launchpad),1.0.0,,streamable-http,"Sui memecoin launchpad: search tokens, wallets, quotes; build unsigned buy/sell/launch txs"
+2026-11-18T18:19:16.068245Z,io.toolzy/toolzy,,0.2.0,https://github.com/Toolzy-2/toolzy-mcp,streamable-http,"Location d'outils en France : recherche ; avec votre compte, réservations, messages et annonces."
