@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-11-18T07:23:19.369876Z,io.github.luisgf/infrabroker,,3.2.0,https://github.com/luisgf/infrabroker,,SSH & Kubernetes access broker for AI agents; the model never touches a credential.
+2026-11-18T07:24:54.498697Z,io.github.memeanalyst/tiktok-scraper-mcp,TikTok Scraper,1.0.0,https://github.com/memeanalyst/tiktok-scraper-mcp,streamable-http,"Scrape TikTok profiles and videos — followers, views, likes and music, by Magnova"
+2026-11-18T07:25:33.746378Z,io.github.oomol-lab/pdf-craft,PDF Craft,1.0.0,https://github.com/oomol-lab/pdf-craft,streamable-http,"Convert scanned PDFs to Markdown or EPUB, and translate PDF and EPUB books via MCP."
+2026-11-18T07:29:15.955047Z,app.laudanza/laudanza,Laudanza,1.0.0,,streamable-http,"Songbooks with chords: search, edit chords and keys, organise songbooks, build set lists."
+2026-11-18T07:35:27.52673Z,dev.workers.8bitbudgets.uk-drops-feed/uk-drops-feed,UK Drops Feed,0.5.0,,streamable-http,"UK TCG pre-orders, restocks and official dates for agents. $0.01 via x402 USDC on Base."
+2026-11-18T07:37:30.856803Z,io.github.malithJayasinghe2000/rulewise,Rulewise,0.1.0,https://github.com/malithJayasinghe2000/legal-mcp,streamable-http,"Warns developers which Sri Lankan laws apply to what they build. Legal information, not advice."
+2026-11-18T07:38:47.032058Z,com.flystopover/stopover,Stopover,1.0.0,,streamable-http,"Plans multi-city trips: the cheapest order of cities, the dates, and the flights or trains between."
+2026-11-18T07:40:34.240141Z,com.catenix/lab-connectivity,Catenix: Lab Analyzer & EHR Connectivity,1.0.0,,streamable-http,"Check if a lab or point-of-care analyzer connects to your EHR or LIS, how, and plan the lab setup."
+2026-11-18T07:44:21.615166Z,sa.daall/index,DaallIndex — Saudi Government Awards Index,1.0.0,,streamable-http,Saudi government contract awards index (Etimad): listed companies and top buyers. Read-only.
+2026-11-18T07:48:31.794439Z,io.github.edsml-jz2321/dsh-evokit,evokit,0.1.7,https://github.com/edsml-jz2321/dsh-evokit,,"Measured self-improvement: paired experiments, noise-aware gates and sealed holdout confirmation."
+2026-11-18T07:54:51.188904Z,io.github.distronode-corporation/worldinmotion,worldinmotion,1.0.3,https://github.com/distronode-corporation/worldinmotion,,"End-to-end encrypted, real-time messaging between AI agent sessions across machines and accounts"
+2026-11-18T07:59:43.580582Z,com.lexopti/docs,LexOpti developer documentation,1.0.0,,streamable-http,"Search and read the LexOpti API, SDK and embedding documentation (en, fr)."
+2026-11-18T07:59:43.980851Z,com.lexopti/mcp,LexOpti,1.0.0,,streamable-http,"Your LexOpti clients' AML/KYC vigilance: statuses, alerts and checks, with your rights."
+2026-11-18T08:09:05.44542Z,com.mambabuilt/mcp-linkedin-company-page-details,,1.0.0,https://github.com/mambalabsdev/mcp-linkedin-company-page-details,,"LinkedIn company details from public pages: size, industry, website, followers, HQ."
+2026-11-18T08:11:29.343493Z,world.flagger/flagger,Flagger,1.0.0,,streamable-http,"All-in-one travel planner and tracker for perpetual travelers and digital nomads, in your AI chat."
+2026-11-18T08:12:55.541714Z,io.github.base-buzz/x402-guard,PayStage x402 Guard — payment safety before the wallet signs,0.4.9,https://github.com/base-buzz/paystage,,"x402 payment safety: judge a payment against your policy before signing. Read-only, never signs."
+2026-11-18T08:13:03.892213Z,com.mambabuilt/mcp-threads-profile-posts,,1.0.0,https://github.com/mambalabsdev/mcp-threads-profile-posts,,"Public Threads profiles with follower count, bio, and newest posts."
+2026-11-18T08:16:03.77474Z,com.scendira/dira,Dira by Scendira,1.0.0,,streamable-http,"Dira, Your Fragrance Finder: recommends, finds alternatives, compares and looks up perfumes."
+2026-11-18T08:16:51.451394Z,com.mambabuilt/mcp-sports-scores-fixtures,,1.0.0,https://github.com/mambalabsdev/mcp-sports-scores-fixtures,,"Sports scores, live status, and fixtures by date across leagues"
+2026-11-18T08:18:05.505017Z,dev.wirecat/yandex-disk-cli,WireCat ydisk,0.2.0,https://github.com/WireCatLabs/ydisk-cli,,ydisk for agents over MCP. Set up a profile with the ydisk CLI first.

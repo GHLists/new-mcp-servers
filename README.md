@@ -9,41 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 07:22 UTC
+## Latest list — 2026-11-18 08:19 UTC
 
-New MCP servers published between 2026-11-18 06:21 UTC and 2026-11-18 07:22 UTC.
+New MCP servers published between 2026-11-18 07:22 UTC and 2026-11-18 08:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-18T07-22-42-045615Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-18T08-19-37-468632Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-18 06:23:32 | co.note-bridge/note-bridge | Note Bridge | 1.0.0 | Migrate OneNote notebooks to Notion: scan, quote and migrate pages |
-| 2026-11-18 06:24:32 | com.domaroo/domaroo | domaroo | 1.0.0 | Your domains' renewal dates and costs, and where each one renews for less. |
-| 2026-11-18 06:24:44 | io.github.sumitrmardy/tiktok-profile-stats | TikTok Profile Scraper | 1.0.0 | Exact TikTok followers, likes, video count, bio and verified badge for a list o… |
-| 2026-11-18 06:25:28 | com.atlantflow/hvac-booking | AtlantFlow AC & Heat | 1.1.0 | HVAC facts, service-area check, cost ranges and callback booking for AtlantFlow… |
-| 2026-11-18 06:26:10 | com.cloud.copilot/citrix-daas-mcp-server | Citrix DaaS MCP Server | 1.0.0 | Monitor and troubleshoot Citrix DaaS sessions, VDA machines, delivery groups, a… |
-| 2026-11-18 06:26:23 | [io.github.santex85/gleif-lei-mcp](https://github.com/santex85/gleif-lei-mcp) | GLEIF LEI Company Lookup | 0.1.0 | Company lookup in the official GLEIF LEI registry: search, LEI records, ownersh… |
-| 2026-11-18 06:31:15 | [io.github.doronp/nogpu](https://github.com/doronp/nogpu-mcp) | NoGPU | 0.2.2 | Free report: how many of your LLM's classification calls a small CPU model can… |
-| 2026-11-18 06:33:10 | [io.github.guhttps/veu](https://github.com/guhttps/veu) | Véu | 0.7.1 | Hides personal data and secrets before text reaches an AI and restores them in… |
-| 2026-11-18 06:34:04 | [io.usefulapi/brighthr](https://github.com/m190/usefulapi-mcp) | BrightHR MCP by usefulapi | 1.0.0 | Read employees, clock-ins and absences; set employee external references in Bri… |
-| 2026-11-18 06:36:02 | [io.github.santex85/ats-jobs-mcp](https://github.com/santex85/ats-jobs-mcp) | ATS Jobs (Greenhouse, Lever, Ashby) | 0.1.0 | Open job postings from Greenhouse, Lever and Ashby public job boards in one uni… |
-| 2026-11-18 06:36:04 | [io.github.santex85/domain-intel-mcp](https://github.com/santex85/domain-intel-mcp) | Domain Intel (DNS, SSL, RDAP, email sec… | 0.1.0 | Domain health and security report: DNS, SSL/TLS, RDAP/WHOIS, SPF/DMARC/MTA-STS,… |
-| 2026-11-18 06:36:05 | [io.github.santex85/fmcsa-carrier-mcp](https://github.com/santex85/fmcsa-carrier-mcp) | FMCSA Carrier Vetting | 0.1.0 | Vet US motor carriers and brokers from FMCSA open data: authority, insurance, O… |
-| 2026-11-18 06:36:06 | [io.github.santex85/npi-provider-mcp](https://github.com/santex85/npi-provider-mcp) | NPI Provider Lookup | 0.1.0 | US healthcare provider lookup and NPI verification from the CMS NPPES NPI Regis… |
-| 2026-11-18 06:36:07 | [io.github.santex85/osm-poi-mcp](https://github.com/santex85/osm-poi-mcp) | OpenStreetMap POI Search | 0.1.0 | Find OpenStreetMap businesses and places by category or tag, plus geocoding and… |
-| 2026-11-18 06:36:08 | [io.github.santex85/oss-audit-mcp](https://github.com/santex85/oss-audit-mcp) | OSS Audit (package due diligence) | 0.1.0 | Open-source package due diligence: licences, release health, Scorecard, depende… |
-| 2026-11-18 06:36:09 | [io.github.santex85/us-recalls-mcp](https://github.com/santex85/us-recalls-mcp) | US Product Recalls (FDA, NHTSA, CPSC) | 0.1.0 | US product recalls from FDA (food, drugs, devices), NHTSA (vehicles) and CPSC (… |
-| 2026-11-18 06:40:10 | [com.aiactradar/ai-act-radar](https://github.com/ligea-gmbh/aiactradar-examples) | AI Act Radar | 0.2.0 | EU AI Act obligations and updates from 15 official EU and national sources. No… |
-| 2026-11-18 06:43:28 | com.checkrss/mcp | CheckRSS: RSS feed checker and directory | 0.1.0 | Check and validate RSS/Atom feeds, find a site's feeds, read latest items, sear… |
-| 2026-11-18 06:44:28 | app.cashpage/cash-page | Cash Page | 1.0.0 | Bookkeeping for freelancers & small businesses: income, expenses, multi-currenc… |
-| 2026-11-18 06:57:32 | [io.github.SendPanda/sendpanda](https://github.com/SendPanda/packages) | SendPanda | 0.5.3 | Send email, manage domains, templates, webhooks and broadcasts from your AI age… |
-| 2026-11-18 07:05:15 | ae.brainy.tipline/gta6 | Tipline: unofficial GTA 6 guide | 1.0.0 | Unofficial GTA 6 guide: sourced facts on characters, places, vehicles and relea… |
-| 2026-11-18 07:07:38 | ai.bumblebeez/browser | Bumblebeez | 0.1.0 | BrowserBox cloud browser workspaces with Grip. Assisted early access requires a… |
-| 2026-11-18 07:11:08 | [io.github.planetebatel-cloud/otipi-mcp](https://github.com/planetebatel-cloud/otipi-mcp) | Otipi | 0.1.0 | Send and verify SMS, email and OTP codes in Israel. Free test key, Next.js and… |
-| 2026-11-18 07:13:47 | [com.passivearray/mcp](https://github.com/nasiruddin-ai/passivearray) | Passive Array | 1.0.0 | Live YouTube and Twitch data: channel stats, growth history, monetization, comm… |
-| 2026-11-18 07:17:11 | com.terrax3d/terrax3d-mcp | TerraX3D Geomatics & Subsurface Enginee… | 2.0.0 | B2B GPR utility locating, rebar scanning, 3D LiDAR & drone stockpile survey rat… |
-| 2026-11-18 07:21:57 | co.storepoint/store-locator | Storepoint Store Locator | 1.0.0 | Create and manage your website's store locator. Add locations and update hours… |
-| 2026-11-18 07:22:33 | [me.joinfor/joinforme](https://github.com/pattern-ai-labs/joinforme) | joinfor.me | 1.1.0 | Send a bot to your Google Meet, Zoom or Teams call for notes or your update; ge… |
+| 2026-11-18 07:23:19 | [io.github.luisgf/infrabroker](https://github.com/luisgf/infrabroker) |  | 3.2.0 | SSH & Kubernetes access broker for AI agents; the model never touches a credent… |
+| 2026-11-18 07:24:54 | [io.github.memeanalyst/tiktok-scraper-mcp](https://github.com/memeanalyst/tiktok-scraper-mcp) | TikTok Scraper | 1.0.0 | Scrape TikTok profiles and videos — followers, views, likes and music, by Magno… |
+| 2026-11-18 07:25:33 | [io.github.oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft) | PDF Craft | 1.0.0 | Convert scanned PDFs to Markdown or EPUB, and translate PDF and EPUB books via… |
+| 2026-11-18 07:29:15 | app.laudanza/laudanza | Laudanza | 1.0.0 | Songbooks with chords: search, edit chords and keys, organise songbooks, build… |
+| 2026-11-18 07:35:27 | dev.workers.8bitbudgets.uk-drops-feed/uk-drops-feed | UK Drops Feed | 0.5.0 | UK TCG pre-orders, restocks and official dates for agents. $0.01 via x402 USDC… |
+| 2026-11-18 07:37:30 | [io.github.malithJayasinghe2000/rulewise](https://github.com/malithJayasinghe2000/legal-mcp) | Rulewise | 0.1.0 | Warns developers which Sri Lankan laws apply to what they build. Legal informat… |
+| 2026-11-18 07:38:47 | com.flystopover/stopover | Stopover | 1.0.0 | Plans multi-city trips: the cheapest order of cities, the dates, and the flight… |
+| 2026-11-18 07:40:34 | com.catenix/lab-connectivity | Catenix: Lab Analyzer & EHR Connectivity | 1.0.0 | Check if a lab or point-of-care analyzer connects to your EHR or LIS, how, and… |
+| 2026-11-18 07:44:21 | sa.daall/index | DaallIndex — Saudi Government Awards In… | 1.0.0 | Saudi government contract awards index (Etimad): listed companies and top buyer… |
+| 2026-11-18 07:48:31 | [io.github.edsml-jz2321/dsh-evokit](https://github.com/edsml-jz2321/dsh-evokit) | evokit | 0.1.7 | Measured self-improvement: paired experiments, noise-aware gates and sealed hol… |
+| 2026-11-18 07:54:51 | [io.github.distronode-corporation/worldinmotion](https://github.com/distronode-corporation/worldinmotion) | worldinmotion | 1.0.3 | End-to-end encrypted, real-time messaging between AI agent sessions across mach… |
+| 2026-11-18 07:59:43 | com.lexopti/docs | LexOpti developer documentation | 1.0.0 | Search and read the LexOpti API, SDK and embedding documentation (en, fr). |
+| 2026-11-18 07:59:43 | com.lexopti/mcp | LexOpti | 1.0.0 | Your LexOpti clients' AML/KYC vigilance: statuses, alerts and checks, with your… |
+| 2026-11-18 08:09:05 | [com.mambabuilt/mcp-linkedin-company-page-details](https://github.com/mambalabsdev/mcp-linkedin-company-page-details) |  | 1.0.0 | LinkedIn company details from public pages: size, industry, website, followers,… |
+| 2026-11-18 08:11:29 | world.flagger/flagger | Flagger | 1.0.0 | All-in-one travel planner and tracker for perpetual travelers and digital nomad… |
+| 2026-11-18 08:12:55 | [io.github.base-buzz/x402-guard](https://github.com/base-buzz/paystage) | PayStage x402 Guard — payment safety be… | 0.4.9 | x402 payment safety: judge a payment against your policy before signing. Read-o… |
+| 2026-11-18 08:13:03 | [com.mambabuilt/mcp-threads-profile-posts](https://github.com/mambalabsdev/mcp-threads-profile-posts) |  | 1.0.0 | Public Threads profiles with follower count, bio, and newest posts. |
+| 2026-11-18 08:16:03 | com.scendira/dira | Dira by Scendira | 1.0.0 | Dira, Your Fragrance Finder: recommends, finds alternatives, compares and looks… |
+| 2026-11-18 08:16:51 | [com.mambabuilt/mcp-sports-scores-fixtures](https://github.com/mambalabsdev/mcp-sports-scores-fixtures) |  | 1.0.0 | Sports scores, live status, and fixtures by date across leagues |
+| 2026-11-18 08:18:05 | [dev.wirecat/yandex-disk-cli](https://github.com/WireCatLabs/ydisk-cli) | WireCat ydisk | 0.2.0 | ydisk for agents over MCP. Set up a profile with the ydisk CLI first. |
 
 ## Data source
 
