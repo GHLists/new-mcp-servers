@@ -1,0 +1,42 @@
+created_at,server,title,version,repository,transports,description
+2026-11-18T21:21:21.294927Z,io.github.patrickbdevaney/modelread,modelread,0.3.0,,streamable-http; streamable-http,"Will this Hugging Face model run on my hardware? Fit, best quant, tok/s range, launch command."
+2026-11-18T21:21:44.22536Z,ai.janney/creator-search,Janney AI Creator Search,1.0.0,,streamable-http,"Search TikTok, Instagram and YouTube creators, find lookalikes, and get available contact emails."
+2026-11-18T21:22:21.396925Z,com.whathead/ads,Whathead Ad Operations,1.1.0,,streamable-http; streamable-http,"Build, edit, transfer and report on ad campaigns across Meta, Google, TikTok, Snapchat and 8 more."
+2026-11-18T21:22:22.853351Z,com.deploykin/mcp,Deploykin,1.0.0,,streamable-http,"Manage server infrastructure and websites: Laravel, PHP and any other apps."
+2026-11-18T21:29:34.332634Z,com.vemudo/mcp,Vemudo,1.0.0,,streamable-http,"Send transactional and marketing emails, manage contacts and campaigns, and read stats."
+2026-11-18T21:30:45.109051Z,com.limecount/limecount,Limecount,1.0.0,,streamable-http,"Cookieless EU web analytics: sites, stats, goals, funnels, shares and API keys (OAuth)."
+2026-11-18T21:36:50.149725Z,app.ballistic/ballistic,Ballistic,1.0.0,,streamable-http,"Read-only facts about the Ballistic memecoin launch platform: features, limits, fees."
+2026-11-18T21:38:17.094016Z,dev.mareliberum/sea,Mare Liberum · the open sea for agents,2.4.0,https://github.com/daoudandiaye98-alt/mare-liberum,streamable-http,"The open sea for agents: call a need, get stores, products, prices and the routes that worked."
+2026-11-18T21:38:21.62868Z,pro.appeak/appeak-pro,Appeak Pro: App Store Optimization,1.1.0,,streamable-http,"ASO and AI discoverability: audit App Store and Google Play listings, metadata, ranks, competitors."
+2026-11-18T21:38:41.967431Z,io.momentumos/emos-advisor,EMOS Advisor,2.0.3,,streamable-http,"Executive job search advice from EMOS: what to fix first, the four areas, and one next step."
+2026-11-18T21:39:36.590742Z,io.github.Godcreatebugs/raytrace,RayTrace,0.17.7,https://github.com/Godcreatebugs/raytrace-cli,,Local gVisor sandbox for coding agents that records what they actually ran.
+2026-11-18T21:39:36.771663Z,io.github.miguel-herrero-systems/dottwice,DotTwice,0.2.5-dev.1,,streamable-http,"Free shopping and travel second opinions. Ask, reply and check back."
+2026-11-18T21:40:44.457271Z,dev.calotype/screenshot,Calotype,0.1.0,,streamable-http,"Let your AI agent see any public web page: one screenshot tool, returns the page as an image."
+2026-11-18T21:41:47.848865Z,com.vocalstack/mcp,VocalStack,1.0.0,,streamable-http,"Transcribe links and files, search and summarize transcripts, and translate them."
+2026-11-18T21:45:06.102064Z,com.connecteurs-juridiques/connecteurs-juridiques,Connecteurs juridiques,1.0.0,,streamable-http,"Official French and EU legal sources (Légifrance, Judilibre, BOFiP, EUR-Lex) for Claude and ChatGPT"
+2026-11-18T21:47:28.140884Z,io.github.vardemin/vardui,Vard,0.3.0,https://github.com/vardemin/vardui,,"Check, run headless, test and inspect Vard UI apps; find and add Vard packages."
+2026-11-18T21:49:05.561943Z,dev.whichapi/whichapi,whichapi,1.0.0,,streamable-http,"Find APIs, pay-per-call endpoints and free MCP tools for a task. Queries are logged anonymously."
+2026-11-18T21:49:12.639526Z,io.github.silvadvp-del/konfirmu,Konfirmu,1.0.0,https://github.com/silvadvp-del/konfirmu-development,streamable-http,"Fichas oficiais com fonte e ATA verificável (SHA-256). Read-only; a IA propõe, o humano confirma."
+2026-11-18T21:50:32.297789Z,studio.converter/converter-studio,Converter Studio,1.0.0,https://github.com/tariksucu/converter-studio,streamable-http,"Convert video, audio, images, PDFs and documents in 67 formats; results come back as links."
+2026-11-18T21:51:06.60497Z,co.saleslegends/sales-jobs,Sales Legends,2.0.0,,streamable-http,"Search open sales jobs from SDR to CRO, posted pay by role, and hiring counts. Read-only, no login."
+2026-11-18T21:51:10.798585Z,com.promptli/comms,Promptli Comms,0.1.0,,streamable-http,"Email, phone calls and SMS for AI agents: one agent identity with an inbox and a phone number."
+2026-11-18T21:53:18.277264Z,com.promptandco/operational-memory,Prompt & Co. — Shared Operational Memory for AI Agents,0.1.0,https://github.com/promptandco/promptandco,streamable-http,Search and share real-world task obstacles and fixes reported by other AI agents. Moderated.
+2026-11-18T21:53:23.695785Z,io.github.linxule/vellum,,0.3.0,,streamable-http,Shared living surface where AI agents leave short traces and weave lineages
+2026-11-18T21:55:39.415864Z,io.github.hitl-sh/hitl,HITL (Human in the Loop),1.0.0,https://github.com/hitl-sh/mcp.hitl.sh,streamable-http,Let AI agents ask a real person for a decision on their phone and wait for the answer.
+2026-11-18T21:55:48.026466Z,app.provanza/public-delivery-evidence,Provanza delivery evidence,1.0.0,,streamable-http,Look up public carrier evidence guidance and run a fictional proof-of-delivery demo.
+2026-11-18T21:57:55.579082Z,design.craftwork/mcp,Craftwork,0.4.1,https://github.com/craftwork-design/mcp,streamable-http,"Human-made React components, templates, fonts, shaders, 3D, icons and mockups for your AI agent."
+2026-11-18T21:58:40.007227Z,tools.klaro/jobs,Klaro – Arztstellen in Deutschland,1.0.0,,streamable-http,"Open doctor jobs in Germany (13,000+), read from hospitals' own career pages several times a day."
+2026-11-18T22:01:08.165665Z,ai.seocrawl/mcp,,1.0.1,https://github.com/SEOcrawl/seocrawl-mcp,streamable-http,"SEO MCP server: Search Console, GA4, Crawler and AI visibility across 6 AI engines"
+2026-11-18T22:04:58.506624Z,com.modelread/modelread,modelread,0.3.1,,streamable-http; streamable-http,"Will this Hugging Face model run on my hardware? Fit, best quant, tok/s range, launch command."
+2026-11-18T22:06:51.971396Z,it.mouve/mcp,Mouve,1.0.0,,streamable-http,"Free Mouve connector: log meals, build workouts, track progress. Health data only with your consent."
+2026-11-18T22:08:34.79302Z,com.mcpmoa/directory,MCP모아 — 한국 MCP 디렉토리,1.0.0,,streamable-http,Search 190+ Korean MCP servers with install configs and source-level security audits. Read-only.
+2026-11-18T22:08:36.306351Z,io.github.srclight/model-radar,Model Radar,0.15.0,,,"Live model catalogs across 23 API providers and 4 subscription CLIs, ranked by latency."
+2026-11-18T22:08:47.119626Z,io.github.konstantinbozukov/edge-signals,,1.0.0,https://github.com/konstantinbozukov/aave-keeper-paper,streamable-http,Live gas and dust SKUs for agents — x402 USDC on Base before you broadcast or buy a token.
+2026-11-18T22:13:33.665953Z,io.github.shenn667/agent-context-bridge,Agent Context Bridge,0.3.2,https://github.com/shenn667/agent-context-bridge,,"Shared context bridge for coding agents. 2 read-only tools: search past notes, check store health."
+2026-11-18T22:14:53.154066Z,com.suitedash/suitedash,SuiteDash (Official),1.0.0,,streamable-http,"Official SuiteDash server: contacts, deals, projects, tasks, time, invoices, proposals and reports."
+2026-11-18T22:15:04.477177Z,io.github.SugarCasino/mcp,,0.0.1-beta.0,https://github.com/SugarCasino/ts-sdks,,"AI agent MCP server for Sugar casino game, SweetHouse, NFT, and referral transactions."
+2026-11-18T22:17:15.839495Z,com.uirix/uirix,UIRIX,1.20.5,,streamable-http,Gives Claude or ChatGPT a phone: an AI agent that makes and answers calls for you or your business.
+2026-11-18T22:18:18.620616Z,net.openagentboard/board,Open Agent Board,1.0.0,,streamable-http,"Public message board for AI agents: read, search, post and vote, signed with EIP-191 keys."
+2026-11-18T22:18:50.546522Z,io.github.Phenotype-Brandvoz/perfectplaintiff-injury-lawsuit-data,perfectplaintiff.com injury lawsuit data,1.0.0,,streamable-http,"Sourced figures on U.S. injury lawsuits by state, court and case type, each with its source."
+2026-11-18T22:19:49.694992Z,io.github.Sempera-AI/sempera,Sempera,0.1.1,https://github.com/Sempera-AI/sempera-mcp,streamable-http,"Sempera MCP, stdio or hosted. Phone tools need a plan and owner approval per call."
+2026-11-18T22:21:22.809999Z,io.github.qants-labs/mizan-ledger,mizan-ledger,0.1.5,https://github.com/qants-labs/mizan-ledger,,"Local stdio MCP server for a calibration ledger: declare confidence, commit a hash, score honesty."
