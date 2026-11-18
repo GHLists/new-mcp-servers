@@ -9,52 +9,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 11:20 UTC
+## Latest list — 2026-11-18 12:20 UTC
 
-New MCP servers published between 2026-11-18 10:21 UTC and 2026-11-18 11:20 UTC.
+New MCP servers published between 2026-11-18 11:20 UTC and 2026-11-18 12:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-18T11-20-21-539361Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-18T12-20-17-608179Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-18 10:25:05 | sk.cerano.mcp/storefront | www.cerano.sk catalog | 2.0.20 | Read-only product catalog for shopping agents: search, details, compatibility,… |
-| 2026-11-18 10:25:08 | pl.cerano.mcp/storefront | www.cerano.pl catalog | 2.0.20 | Read-only product catalog for shopping agents: search, details, compatibility,… |
-| 2026-11-18 10:25:12 | hu.cerano.mcp/storefront | www.cerano.hu catalog | 2.0.20 | Read-only product catalog for shopping agents: search, details, compatibility,… |
-| 2026-11-18 10:25:19 | ro.cerano.mcp/storefront | www.cerano.ro catalog | 2.0.20 | Read-only product catalog for shopping agents: search, details, compatibility,… |
-| 2026-11-18 10:25:24 | hr.cerano.mcp/storefront | www.cerano.hr catalog | 2.0.20 | Read-only product catalog for shopping agents: search, details, compatibility,… |
-| 2026-11-18 10:25:32 | cz.livero.mcp/storefront | www.livero.cz catalog | 2.0.20 | Read-only product catalog for shopping agents: search, details, compatibility,… |
-| 2026-11-18 10:25:34 | so.opensignals/opensignals | opensignals | 1.0.0 | LinkedIn signals, lead lists, workflows, inbox and LinkedIn actions — run from… |
-| 2026-11-18 10:25:36 | sk.livero.mcp/storefront | www.livero.sk catalog | 2.0.20 | Read-only product catalog for shopping agents: search, details, compatibility,… |
-| 2026-11-18 10:25:50 | com.sendforsign/mcp | Sendforsign | 1.0.0 | Contracts and e-signature for AI agents: draft from templates, fill fields, sen… |
-| 2026-11-18 10:26:54 | com.imoving/moving-quotes | iMoving - moving quotes | 1.0.0 | Real moving prices from vetted US movers by ZIP codes, move size and date, with… |
-| 2026-11-18 10:26:56 | net.opticalpha/opticalpha-data | OpticAlpha Data | 1.0.0 | Free, keyless OpticAlpha market data: options flow, GEX, 13F, yield curve, fund… |
-| 2026-11-18 10:27:16 | [io.github.capsolver-ai/capsolver-mcp](https://github.com/capsolver-ai/capsolver-mcp) |  | 0.2.0 | CapSolver task discovery, CAPTCHA solving, recognition, and task recovery over… |
-| 2026-11-18 10:27:24 | kr.co.querymind/connect | QueryMind | 0.1.0 | Read-only answers from your business database, with the SQL and conditions behi… |
-| 2026-11-18 10:27:25 | [io.github.sepehr071/digistyle-mcp](https://github.com/sepehr071/digistyle-mcp) | Digistyle Fashion | 0.1.0 | Read-only Digistyle (digistyle.com) fashion store: search, filters, product det… |
-| 2026-11-18 10:27:31 | [io.github.sepehr071/digiato-mcp](https://github.com/sepehr071/digiato-mcp) | Digiato Tech News | 0.1.0 | Read-only Digiato tech news: latest, by category, search, full articles, review… |
-| 2026-11-18 10:27:32 | so.ken/kenso | Kenso | 1.0.0 | Run Kenso cold email and LinkedIn outbound from your agent: search, campaigns,… |
-| 2026-11-18 10:27:34 | [io.github.sepehr071/iran-weather-mcp](https://github.com/sepehr071/iran-weather-mcp) | Iran Weather | 0.1.0 | Read-only Iran Meteorological Org (irimo.ir): city forecasts, observations, war… |
-| 2026-11-18 10:33:51 | [io.github.sepehr071/khodro45-mcp](https://github.com/sepehr071/khodro45-mcp) | Khodro45 Used Cars | 0.1.0 | Read-only Khodro45 (khodro45.com) Iran used cars: listings, inspection reports,… |
-| 2026-11-18 10:33:57 | [io.github.sepehr071/iranseda-mcp](https://github.com/sepehr071/iranseda-mcp) | Iranseda Radio Archive | 0.1.0 | Read-only Iranseda (IRIB audio): radio channels, live streams, schedules, audio… |
-| 2026-11-18 10:34:04 | [io.github.sepehr071/namasha-mcp](https://github.com/sepehr071/namasha-mcp) | Namasha Videos | 0.1.0 | Read-only Namasha (namasha.com) Iranian video platform: search, videos, channel… |
-| 2026-11-18 10:39:20 | io.github.nums-ai/causilo | Causilo | 0.1.9 | Predict a column of a table from rows where it is known. Classification and reg… |
-| 2026-11-18 10:39:40 | io.pagehive/mcp | Pagehive | 1.0.0 | Host websites and data for AI agents: build pages, tables and actions, then pub… |
-| 2026-11-18 10:44:08 | app.nextanalytica/mcp | nextanalytica | 1.0.0 | Web analytics your agent reads: visits, sources, AI-assistant traffic, funnels,… |
-| 2026-11-18 10:44:37 | [io.github.mr0b0t0/plinth](https://github.com/mr0b0t0/plinth) | Plinth | 0.5.0 | Publish agent-made HTML pages to private links with email or password sharing,… |
-| 2026-11-18 10:47:09 | [io.github.olegsher-ds-2025/mcp-eu-funding](https://github.com/olegsher-ds-2025/mcp-eu-funding) | EU Funding & Tenders (Horizon Europe) | 0.1.0 | Horizon Europe & EU funding calls: search, topic conditions, budgets, deadlines… |
-| 2026-11-18 10:48:04 | [io.github.olegsher-ds-2025/mcp-il-innovation](https://github.com/olegsher-ds-2025/mcp-il-innovation) | Israel Innovation Authority Programs | 0.1.0 | Israel Innovation Authority programs: funding tracks, matching, open-call links |
-| 2026-11-18 10:48:10 | sh.mcpbus/mcpbus | mcpbus | 1.3.3 | Local Windows gateway that controls what AI agents can do in SQL Server and Pos… |
-| 2026-11-18 10:51:11 | shop.honestpicks.www/concierge | Honest Picks Concierge | 1.0.0 | An AI bot that chats with other bots and agents in any language. All conversati… |
-| 2026-11-18 10:52:09 | [io.github.sepehr071/ninisite-mcp](https://github.com/sepehr071/ninisite-mcp) | Ninisite Parenting | 0.1.0 | Read-only Ninisite (ninisite.com) parenting forum topics, articles and pregnanc… |
-| 2026-11-18 10:52:11 | [io.github.sepehr071/persian-wikipedia-mcp](https://github.com/sepehr071/persian-wikipedia-mcp) | Persian Wikipedia | 0.1.0 | Read-only Persian Wikipedia (fa.wikipedia.org): search, summaries, article text… |
-| 2026-11-18 10:52:17 | [io.github.sepehr071/virgool-mcp](https://github.com/sepehr071/virgool-mcp) | Virgool Blog | 0.1.0 | Read-only Virgool (virgool.ir) Persian blog platform: search, posts, authors, t… |
-| 2026-11-18 10:54:33 | io.geoboom/mcp | GEOboom MCP | 1.0.0 | Link building and mention outreach from your AI agent, with the permissions the… |
-| 2026-11-18 11:01:28 | io.hirepick/hirepick | HirePick | 2.0.0 | AI hiring: positions, candidates, interviews, CV screening, and invite emails. |
-| 2026-11-18 11:05:59 | [io.github.vzhyvov/effectsize](https://github.com/vzhyvov/effectsize-skill) | effectsize | 0.4.0 | 1,300+ real-world cases of how companies solved A/B testing, causal, recommende… |
-| 2026-11-18 11:06:55 | [io.github.michvllni/mcp-azahar](https://github.com/michvllni/mcp-azahar) | Azahar 3DS emulator | 0.1.0 | Test 3DS homebrew in the Azahar emulator: input, screenshots, memory, symbols,… |
-| 2026-11-18 11:07:08 | [io.usefulapi/shift4shop](https://github.com/m190/usefulapi-mcp) | Shift4Shop MCP by usefulapi | 1.0.2 | Read orders, payments, shipments, customers, products and stock in Shift4Shop. |
-| 2026-11-18 11:16:42 | com.evalship/evalship | evalship | 1.0.0 | Read a repository's to-do list, production issues and pull request reports on e… |
-| 2026-11-18 11:18:50 | com.thespatialbrief/spatial-brief | The Spatial Brief | 1.1.0 | Curated, source-backed archive of visionOS apps, companies, people and news. |
+| 2026-11-18 11:22:05 | [io.github.cesteral/linkedin-mcp](https://github.com/cesteral/mcp-open-advertising) | LinkedIn Ads MCP Server | 2.0.0 | LinkedIn Ads management and analytics — CRUD, targeting, delivery forecasts, an… |
+| 2026-11-18 11:22:05 | [io.github.cesteral/tiktok-mcp](https://github.com/cesteral/mcp-open-advertising) | TikTok Ads MCP Server | 2.0.0 | TikTok Ads management — CRUD, async reports, targeting, and media uploads |
+| 2026-11-18 11:22:05 | [io.github.cesteral/snapchat-mcp](https://github.com/cesteral/mcp-open-advertising) | Snapchat Ads MCP Server | 2.0.0 | Snapchat Ads management — CRUD, async reports, targeting, and audience estimates |
+| 2026-11-18 11:22:06 | [io.github.cesteral/sa360-mcp](https://github.com/cesteral/mcp-open-advertising) | Search Ads 360 MCP Server | 2.0.0 | Search Ads 360 — reporting via query language, insights, and offline conversion… |
+| 2026-11-18 11:22:06 | [io.github.cesteral/pinterest-mcp](https://github.com/cesteral/mcp-open-advertising) | Pinterest Ads MCP Server | 2.0.0 | Pinterest Ads management — CRUD, async reports, targeting, and audience estimat… |
+| 2026-11-18 11:22:06 | [io.github.cesteral/amazon-dsp-mcp](https://github.com/cesteral/mcp-open-advertising) | Amazon DSP MCP Server | 2.0.0 | Amazon DSP management — CRUD, async reports, video upload, and Ads API v1 commi… |
+| 2026-11-18 11:22:06 | [io.github.cesteral/msads-mcp](https://github.com/cesteral/mcp-open-advertising) | Microsoft Advertising MCP Server | 2.0.0 | Microsoft Ads management — CRUD, Google Ads import, ad extensions, and async re… |
+| 2026-11-18 11:22:34 | io.github.dimazales/books-catalog | Mozaika Books Catalog | 1.0.0 | Romance book recommendations: "books like X" in 7 languages, tropes, and the Mo… |
+| 2026-11-18 11:23:21 | io.github.SolDevelo/infrascan-cloud | InfraScan Cloud | 1.0.0 | Read-only AWS cost and security findings, priced in $/month, with a fix for each |
+| 2026-11-18 11:26:15 | xyz.gobob/gateway | BOB Gateway | 0.1.0 | Swap native BTC to and from tokens on EVM chains and Tron through BOB Gateway |
+| 2026-11-18 11:28:56 | [io.github.stoptimed/lumina-tasks](https://github.com/stoptimed/lumina-mcp) | Lumina Tasks | 1.0.0 | Lumina (Lumina Tasks): save tasks, habits, notes and calendar events from your… |
+| 2026-11-18 11:34:20 | com.edamam/food | Edamam Food MCP | 0.1.0 | Food nutrition lookup via natural language, barcode, and image. Database of 1,0… |
+| 2026-11-18 11:36:47 | com.huntpdf/pdf-tools | HuntPDF - PDF Tools | 1.0.0 | Merge, split, compress, rotate, protect and convert PDFs (Word, Excel, JPG) wit… |
+| 2026-11-18 11:41:57 | com.millitool/skills | MilliTool | 0.2.0 | Find coding-agent skills by task and inspect source previews through MilliTool'… |
+| 2026-11-18 11:47:41 | [dev.schemasketch/mcp-server](https://github.com/SchemaSketch-dev/schemasketch-mcp-server) | SchemaSketch | 1.3.1 | Design database diagrams in DBML: create, edit, validate, export SQL, Laravel,… |
+| 2026-11-18 11:49:46 | org.aiclipmaker/clip-maker | AIClipMaker.org | 1.0.0 | Turn a video link into captioned 9:16 short clips: AI picks the moments, refram… |
+| 2026-11-18 11:50:58 | [io.usefulapi/merchant360](https://github.com/m190/usefulapi-mcp) | Merchant360 MCP by usefulapi | 1.0.0 | Read shifts and requests; create, change, publish and delete shifts; decide req… |
+| 2026-11-18 11:52:27 | fm.emergent/emergent-fm | Emergent.FM | 1.0.0 | Daily AI tool news for agents: what changed in AI developer tools, with trust l… |
+| 2026-11-18 11:56:17 | [io.github.NeuralNexusNote/n3mc-workingmemory](https://github.com/NeuralNexusNote/n3mcmcp-lite) | N3MemoryCore Lite (Working Memory) | 1.12.2 | Ephemeral 7-day hybrid vector+BM25 working memory, multilingual, backed by Redi… |
+| 2026-11-18 11:59:27 | [io.github.julianzh0/plimsoll](https://github.com/julianzh0/plimsoll) | plimsoll | 0.7.0 | Catch what your agent's changes do to your code: new dependencies, tangled impo… |
+| 2026-11-18 11:59:40 | dev.ioconnex/search-mcp | search-mcp | 4.0.5 | Web search and clean-text page fetch for AI agents, with SSRF protection. |
+| 2026-11-18 11:59:41 | dev.ioconnex/doc-convert-mcp | doc-convert-mcp | 4.1.2 | Document conversion and OCR for AI agents: PDF, Office docs, images to text. |
+| 2026-11-18 11:59:41 | dev.ioconnex/price-tracker-mcp | price-tracker-mcp | 4.1.2 | Product price checks and affiliate link building for AI shopping agents. |
+| 2026-11-18 11:59:59 | exchange.temporal/temporal | Temporal: Hyperliquid liquidation prote… | 0.2.0 | Protect Hyperliquid perps from liquidation and trade perpetual (non-expiring) o… |
+| 2026-11-18 12:00:41 | com.chimnie/property-data | Chimnie UK Property Data | 1.0.0 | UK property data by address, UPRN or UDPRN: attributes, valuation, risk and pla… |
+| 2026-11-18 12:01:06 | com.getgaragehub/garagehub | GarageHub | 0.2.0 | Vehicle maintenance and build tracking for hobby mechanics: logs, mileage, remi… |
+| 2026-11-18 12:02:36 | [io.github.Dionisselami/thinkui](https://github.com/Dionisselami/thinkui) | ThinkUI | 1.0.0 | UI references for coding agents: real screens, flows, components, fonts and ani… |
+| 2026-11-18 12:03:55 | ru.alfaginecolog/clinic | Альфа-Клиник (Alfa-Clinic, Moscow) | 1.1.0 | Alfa-Clinic Moscow: doctors, services, prices, articles on gynecology and urolo… |
+| 2026-11-18 12:12:36 | com.breadboardhub/circuits | breadboardhub circuits | 1.0.0 | Check, simulate and design electronic circuits, with a link to run each one liv… |
+| 2026-11-18 12:13:15 | [io.github.Nabarup1/swirvo](https://github.com/Nabarup1/swirvo) | Swirvo | 0.1.0 | Convert files, run 59 PDF/document tools and read text (OCR) locally on Windows… |
+| 2026-11-18 12:14:36 | fr.pagelab/pagelab | PageLab | 1.0.0 | French law for lawyers: official sources, legal templates, citation checking. |
+| 2026-11-18 12:15:12 | com.kinetixseo/mcp | KinetixSEO | 1.7.0 | SEO and AI search checks for any website, plus your KinetixSEO audits, keywords… |
+| 2026-11-18 12:17:41 | com.propertiesapi/zillow-data | PropertiesAPI | 1.2.0 | Zillow property data as JSON by link, zpid or address. Independent; not affilia… |
+| 2026-11-18 12:17:58 | [engineering.audiofile/fidelia](https://github.com/weareaudiofile/fidelia-mcp) | Fidelia | 1.0.0 | Search and play the music you own in Fidelia, an audiophile music player for Ma… |
+| 2026-11-18 12:17:58 | [engineering.audiofile/soundedit](https://github.com/weareaudiofile/soundedit-mcp) | SoundEdit | 1.0.0 | Edit audio and work through sample folders in SoundEdit for Mac while you watch… |
+| 2026-11-18 12:19:49 | io.github.l3mpire/lemlist | lemlist | 1.0.0 | Run multichannel outreach in lemlist: campaigns, sequences, leads, stats and de… |
 
 ## Data source
 
