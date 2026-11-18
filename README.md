@@ -9,52 +9,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 16:21 UTC
+## Latest list — 2026-11-18 17:21 UTC
 
-New MCP servers published between 2026-11-18 15:20 UTC and 2026-11-18 16:21 UTC.
+New MCP servers published between 2026-11-18 16:21 UTC and 2026-11-18 17:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-18T16-21-12-208681Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-18T17-21-32-050456Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-18 15:23:38 | [io.sota/mcp](https://github.com/sota-deploy/mcp-server) |  | 1.6.0 | EU-native PaaS for AI agents — deploy web apps with one sentence, managed Postg… |
-| 2026-11-18 15:25:36 | com.telebotbuilder/telebotbuilder | TeleBotBuilder | 1.1.0 | Build and change Telegram bots by chatting: create flows, edit them, undo chang… |
-| 2026-11-18 15:25:45 | [ai.livecore/ai-video-editor-captions-subtitles-tiktok-shorts-reels-podcast](https://github.com/brajendrak00068/agentic-ai-video-production) | Levea — Autonomous AI Video Editor (37… | 0.7.0 | Autonomous AI video editor over MCP: 280+ captions, 9:16 reframe, B-roll, podca… |
-| 2026-11-18 15:25:46 | [ai.livecore/video-editor-broll-reframe-chromakey-voiceover-color-vfx](https://github.com/brajendrak00068/agentic-ai-video-production) | Levea — Autonomous AI Video Editor (37… | 0.7.0 | Autonomous AI video editor over MCP: 280+ captions, 9:16 reframe, B-roll, podca… |
-| 2026-11-18 15:25:47 | [ai.livecore/levea-mcp-server](https://github.com/brajendrak00068/agentic-ai-video-production) | Levea — Autonomous AI Video Editor (37… | 0.7.0 | Autonomous AI video editor over MCP: 280+ captions, 9:16 reframe, B-roll, podca… |
-| 2026-11-18 15:31:23 | com.aurioapp/calculadoras | Aurio Calculators | 1.0.0 | Spanish money calculators: mortgage, savings, affordability, income tax, VAT, m… |
-| 2026-11-18 15:31:24 | com.aurioapp/extracto | Aurio Bank Statement | 1.0.0 | Turns an uploaded bank statement into totals: categories, months and subscripti… |
-| 2026-11-18 15:33:54 | app.kinomo/mcp | Kinomo | 0.4.0 | AI agents build and edit animations in the Kinomo Mac app, relayed to your conn… |
-| 2026-11-18 15:34:20 | [free.md2pdf/md2pdf](https://github.com/SteamDiesel/md2pdf-claude-plugin) | md2pdf | 1.0.0 | Free markdown to PDF. No account or API key, nothing stored. Signature lines ha… |
-| 2026-11-18 15:35:07 | [ai.qompass/cartone](https://github.com/qompassai/cartone) | Cartone | 0.1.0 | Generation broker MCP: job queue and per-job cost ledger over image, video, and… |
-| 2026-11-18 15:35:27 | [io.github.heroson86462-hsnu/agenttrust-kye](https://github.com/heroson86462-hsnu/agenttrust-kye) |  | 1.0.0 | Know-Your-Endpoint MCP firewall: checks uptime, Rug-Pull mutations, poisoning &… |
-| 2026-11-18 15:36:10 | com.tevello/mcp | Tevello | 1.0.0 | Build and run online courses, memberships and communities in your Shopify store. |
-| 2026-11-18 15:37:01 | [com.zapier/mcp](https://github.com/zapier/zapier-mcp) | Zapier | 1.0.2 | Automate workflows across 10,000+ apps. Run one-off actions or build automation… |
-| 2026-11-18 15:38:33 | co.andopen.mcp/mcp | mcp.andopen.co | 1.0.0 | Check &Open campaigns, budget and gift status, and send or cancel gift invitati… |
-| 2026-11-18 15:39:16 | app.benchmarkai/research | BenchmarkAI Research | 3.8.4 | ChatGPT, Claude, Gemini and Grok's published research on US stocks, with dates… |
-| 2026-11-18 15:40:21 | com.cryptohopper/mcp-trader | Cryptohopper Trading | 1.0.0 | Let your AI manage your Cryptohopper bots, positions, orders and strategies. Pa… |
-| 2026-11-18 15:40:39 | [com.admitprotocol/admit-protocol](https://github.com/Admit-Protocol/Admit-Protocol) | Admit Protocol | 0.1.0 | Apply to a school from a folder on your computer. Lists schools, applies to any… |
-| 2026-11-18 15:42:15 | [io.github.makeev/alphai-mcp](https://github.com/makeev/alphai-mcp) | AlphAI | 0.4.0 | Financial news for AI agents: search, stories, insider, earnings reads, macro,… |
-| 2026-11-18 15:44:12 | com.whizbrew/whizbrew | Whizbrew | 1.0.0 | TikTok, Instagram, YouTube, X profiles, videos and search, plus Meta and TikTok… |
-| 2026-11-18 15:44:46 | io.shortzen/mcp | ShortZen | 1.2.0 | Create and manage short links, QR codes and campaigns, and read click analytics… |
-| 2026-11-18 15:49:06 | [io.github.navid72m/mcp-behave](https://github.com/navid72m/mcp-behave) |  | 0.3.4 | Runtime behavioral auditor for MCP servers: scope-violation detection and runti… |
-| 2026-11-18 15:50:38 | com.ripetonight/ripetonight | Ripe Tonight | 0.1.0 | See what food is in your fridge, soonest use-by first, and mark items eaten or… |
-| 2026-11-18 15:52:42 | [io.github.MervinPraison/praisonai](https://github.com/MervinPraison/PraisonAI) | PraisonAI | 4.7.26 | AI Agents Framework with Self Reflection and MCP support |
-| 2026-11-18 15:54:20 | il.co.bigboss.mcp/bigboss | BigBoss | 1.0.0 | Israeli accounting and invoicing: customers, documents, reports, VAT and draft… |
-| 2026-11-18 15:54:52 | cc.12axes/mcp | 12Axes.cc | 1.2.0 | Explore political views across 12 dimensions, score questionnaires, and look up… |
-| 2026-11-18 15:56:00 | io.github.Aruon-AI/beacon | Aruon Beacon | 0.1.0 | Order Aruon Beacon for a website: AI assistants can read it, a person checks it. |
-| 2026-11-18 15:59:35 | [io.github.modern-ai-inc/ai-recommendation-rate-mcp](https://github.com/modern-ai-inc/ai-recommendation-rate-mcp) | Modern AI Brand Recommendation Rate | 1.1.0 | How often AI search picks a brand first. Recommendation Rate data from Modern D… |
-| 2026-11-18 16:00:26 | com.agoreta/where-when | Agoreta: where and when | 0.1.0 | Sourced local facts for AI agents: opening hours, events and busy times, with s… |
-| 2026-11-18 16:01:45 | [ai.livecore/video-editor-ai-video-editing-edit-video-captions-subtitles-srt-transcribe-transcription-tiktok-youtube-shorts-instagram-reels-podcast-multicam-interview-viral-clips-highlight](https://github.com/brajendrak00068/agentic-ai-video-production) | Levea — Autonomous AI Video Editor (37… | 0.7.0 | Autonomous AI video editor over MCP: 280+ captions, 9:16 reframe, B-roll, podca… |
-| 2026-11-18 16:01:46 | [ai.livecore/reframe-crop-resize-vertical-broll-b-roll-motion-graphics-animation-title-chromakey-green-screen-background-removal-rotoscope-color-grading-lut-vfx-effects-transitions-stabilize-tracking](https://github.com/brajendrak00068/agentic-ai-video-production) | Levea — Autonomous AI Video Editor (37… | 0.7.0 | Autonomous AI video editor over MCP: 280+ captions, 9:16 reframe, B-roll, podca… |
-| 2026-11-18 16:01:47 | [ai.livecore/voiceover-tts-dubbing-translate-lip-sync-audio-music-sfx-silence-ffmpeg-remotion-capcut-descript-opus-premiere-after-effects-ugc-faceless-explainer-promo-montage-thumbnail-watermark-blur](https://github.com/brajendrak00068/agentic-ai-video-production) | Levea — Autonomous AI Video Editor (37… | 0.7.0 | Autonomous AI video editor over MCP: 280+ captions, 9:16 reframe, B-roll, podca… |
-| 2026-11-18 16:02:11 | com.jclewis/connectagent | J.C. Lewis Auto Group | 1.0.0 | Search J.C. Lewis inventory, pricing, Ford incentives, KBB trade-ins, quotes, a… |
-| 2026-11-18 16:04:51 | io.baychat/baychat | BayChat | 2.36.0 | Group chat for people and AI agents: read and send messages, files, polls, note… |
-| 2026-11-18 16:08:08 | [io.github.YKLovePython/halfsize](https://github.com/YKLovePython/halfsize) | halfsize | 0.1.13 | Compress a video to an exact byte size locally with FFmpeg, then measure VMAF a… |
-| 2026-11-18 16:17:04 | [io.github.coltonbearden/filester-mcp](https://github.com/coltonbearden/filester-mcp) | Filester (unofficial) | 0.2.0 | Unofficial MCP server for the Filester (filester.me) API: uploads, files, folde… |
-| 2026-11-18 16:18:53 | [io.usefulapi/abacus-pos](https://github.com/m190/usefulapi-mcp) | Abacus POS MCP by usefulapi | 1.0.0 | Read products, stock, customers, invoices and orders; add reward points in Abac… |
-| 2026-11-18 16:18:53 | [io.usefulapi/storecove](https://github.com/m190/usefulapi-mcp) | Storecove MCP by usefulapi | 1.0.0 | Check Peppol e-invoice receivers, read delivery evidence, and send invoices in… |
-| 2026-11-18 16:18:55 | [io.github.StoaDex/stoa](https://github.com/StoaDex/Stoa) | Stoa: swaps on Robinhood Chain | 1.0.0 | Quote, safety-check and build unsigned swaps on Robinhood Chain; bridge in; CMC… |
+| 2026-11-18 16:22:02 | [nl.ruimtelijke-data/geospatial-ai](https://gitlab.com/g4050/geospatial-ai) | Ruimtelijke Data | 0.2.0 | Nederlandse open geodata (BAG, BGT, Kadaster, RVO) als MCP-tools voor AI-assist… |
+| 2026-11-18 16:27:15 | [io.github.mdexa-ai/mdexa](https://github.com/mdexa-ai/mcp) | Mdexa | 1.0.0 | Look up medical AI datasets and open models: verified licenses, evidence and ac… |
+| 2026-11-18 16:27:27 | [io.usefulapi/spod](https://github.com/m190/usefulapi-mcp) | Spreadconnect MCP by usefulapi | 1.0.0 | Read orders, shipments, stock and articles; create, confirm and cancel orders i… |
+| 2026-11-18 16:35:19 | [io.github.AdamWashingtonIII/coinop-mcp](https://github.com/AdamWashingtonIII/coinop) |  | 1.0.1 | Pay-per-play arcade for AI agents: 0.25 USDC a play via x402 on Base, earn QTR,… |
+| 2026-11-18 16:36:51 | com.woorise/woorise | Woorise | 1.0.0 | Create forms, surveys, quizzes and giveaways, customize campaigns and explore r… |
+| 2026-11-18 16:42:52 | [io.github.SynapCores/synapcores](https://github.com/SynapCores/synapcores-mcp) | SynapCores | 1.0.0 | AI-native database: SQL, vector search, Cypher graph, AutoML and LLM tools over… |
+| 2026-11-18 16:43:50 | com.widgeyou/widgeyou | WidgeYou | 1.0.0 | Design and publish live iPhone home screen and lock screen widgets from your AI… |
+| 2026-11-18 16:44:32 | gg.primitives/mcp | Primitives | 0.1.0 | Primitives by Thesis: read agents, runs, evals, workflows and work in your orga… |
+| 2026-11-18 16:45:33 | xyz.tiangongshi/bounties | TianGongShi Bounties | 1.0.0 | Find open paid bounties across platforms, each marked whether an AI agent may e… |
+| 2026-11-18 16:46:25 | [io.github.localseodata/ai-visibility](https://github.com/localseodata/mcp-server) | Local SEO Data: AI Visibility | 1.6.0 | Whether ChatGPT, Gemini, Claude, Perplexity and Google AI Mode recommend a loca… |
+| 2026-11-18 16:46:25 | [io.github.localseodata/apple-bing](https://github.com/localseodata/mcp-server) | Local SEO Data: Apple Maps and Bing Pla… | 1.6.0 | Apple Maps and Bing Places rankings and listing lookups for local businesses. |
+| 2026-11-18 16:46:25 | [io.github.localseodata/reviews](https://github.com/localseodata/mcp-server) | Local SEO Data: Reviews and Reputation | 1.6.0 | Google review text and replies, review velocity, ratings across platforms, repu… |
+| 2026-11-18 16:47:11 | com.tallybyoutpost/tally | Tally by Outpost | 0.1.0 | Read-only web and revenue analytics: visitors, sources, goals, funnels and sale… |
+| 2026-11-18 16:47:55 | nl.enfy/energievergelijker | enfy energievergelijker (Nederland) | 1.5.0 | Compare all Dutch electricity and gas contracts, dynamic prices, grid costs and… |
+| 2026-11-18 16:48:08 | tech.bookers/bookers | BOOKERS | 1.0.0 | Draft, price and publish paid articles on BOOKERS, and log horse-racing picks (… |
+| 2026-11-18 16:48:29 | com.workotron/skills | Workotron Skills | 0.1.0 | Find free AI skills and Workotron workflows for small businesses, and install t… |
+| 2026-11-18 16:49:52 | [io.github.riceharvest/ctxprune](https://github.com/riceharvest/ctxprune) | ctxprune | 0.3.2 | Read big logs, JSON dumps and test output compacted: lossless, or token-pruned… |
+| 2026-11-18 16:50:07 | com.djbnb/djbnb | djbnb | 1.0.0 | Who is playing tonight: DJ nights in djbnb's US cities, with the venue, time, d… |
+| 2026-11-18 16:51:21 | ai.minutesmaster/minutesmaster | MinutesMaster | 1.0.0 | Meeting transcripts & AI minutes for your agent: search, read, send meeting bot… |
+| 2026-11-18 16:52:42 | eu.gdprprivacymonitor/gdpr-privacy-monitor | GDPR Privacy Monitor | 1.0.1 | Checks whether cookie consent on a website works: trackers before consent, bann… |
+| 2026-11-18 16:54:09 | [tech.hydronode/hydronode](https://github.com/TexhFexLabs/hydronode-mcp) | HydroNode | 0.1.0 | Ask about your IoT sensors, devices, anomalies and automations, switch outputs… |
+| 2026-11-18 16:54:09 | com.pointbagel/pointbagel | PointBagel | 1.2.1 | Which card to use, what your points are worth, and whether each annual fee earn… |
+| 2026-11-18 16:55:08 | io.github.aspekt19/loyal-spark-recipient | Loyal Spark Holder | 1.0.0 | Loyalty holders on Base: balances, rewards, vouchers, P2P offers. x402 pay-per-… |
+| 2026-11-18 16:58:57 | [io.github.Ktemiaa/ktemia-mcp](https://github.com/Ktemiaa/ktemia-mcp) | Ktemia | 0.1.4 | Search and compare flights, hotels and rental cars, with each seller's price an… |
+| 2026-11-18 17:06:55 | io.github.thesis-pbc/mcp | Primitives | 0.1.1 | Primitives by Thesis: read agents, runs, evals, workflows and work in your orga… |
+| 2026-11-18 17:06:59 | [dev.priorledger/ledger](https://github.com/priorledger/priorledger) | Prior Ledger | 0.3.1 | Signed, append-only commons of reasoning precedent for AI agents. Search before… |
+| 2026-11-18 17:08:41 | [ai.buildwithorbit/orbit](https://github.com/postmanlabs/orbit-mcp-server) | Orbit | 1.1.7 | Turn any task into the right API calls: discover, evaluate, and integrate publi… |
+| 2026-11-18 17:09:05 | haus.cl/clhaus | cl.haus | 0.1.0 | Your home's inventory and maintenance: appliances, filters, warranties, documen… |
+| 2026-11-18 17:10:45 | com.appfinishers/fix-guides | App Finishers fix guides | 1.0.0 | Paste an error from a Supabase, Lovable or Bolt app and get the matching step-b… |
+| 2026-11-18 17:15:45 | [io.github.profullstack/smshub](https://github.com/profullstack/smshub) | SMSHub | 1.11.1 | Receive SMS on a dedicated US number for your AI agent: read texts and one-time… |
+| 2026-11-18 17:16:05 | com.whyfolio/stock-research-memory | Whyfolio Stock Research Memory | 1.0.0 | Retrieve stock theses, notes, and risks by ticker. Append private investment jo… |
+| 2026-11-18 17:18:04 | com.explore21/mcp | Explore21 MCP | 1.0.0 | Bitcoin on-chain data MCP server: realized price, MVRV, HODL waves and more. Fr… |
+| 2026-11-18 17:20:42 | com.privyde/executive-transport | PRIVYDE Private Chauffeur | 1.0.0 | Private chauffeur from Madrid across Spain and Portugal: services, fleet, quote… |
 
 ## Data source
 
