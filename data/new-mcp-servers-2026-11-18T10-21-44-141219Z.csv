@@ -1,0 +1,30 @@
+created_at,server,title,version,repository,transports,description
+2026-11-18T09:23:25.518923Z,com.getmousify/mousify,Mousify,1.0.7,,,"Turn Windows screen and game recordings into narrated videos: AI script, voice and captions."
+2026-11-18T09:28:51.564914Z,io.plexivo/plexivo,Plexivo,0.1.0,,streamable-http,"Deploy apps from Git and create Postgres or MySQL databases in Mumbai, from your AI assistant."
+2026-11-18T09:28:57.750926Z,io.github.sumitrmardy/tiktok-video-scraper,TikTok Video Scraper,1.0.0,,streamable-http,"TikTok video views, likes, shares, caption, hashtags and transcript from video URLs."
+2026-11-18T09:29:25.296464Z,gg.mable/mable,Mable,1.0.0,,streamable-http,"Publish your AI-made HTML game as a playable link, see who played, and generate game assets."
+2026-11-18T09:31:09.546195Z,com.farmtempo/farmtempo,FarmTempo,1.0.0,,streamable-http,"Korean produce wholesale reference prices, buy-or-wait signals and deal price checks with sources."
+2026-11-18T09:31:26.844105Z,io.github.verkyyi/tally,Tally,1.0.0,https://github.com/verkyyi/tally,streamable-http,"Company and open-source numbers (valuation, revenue, prices, stars) with history and sources."
+2026-11-18T09:37:38.811575Z,by.digitalpassport/registry-mcp,Digital Passport Belarus,1.2.0,https://github.com/digitalpassport-by/digitalpassport-mcp,streamable-http,"Read-only MCP server for Belarusian company verification by UNP, legal status, and knowledge graph."
+2026-11-18T09:38:48.454456Z,io.github.dominik1001/carddav-mcp,,0.1.1,https://github.com/dominik1001/carddav-mcp,,"CardDAV contacts as MCP tools: list address books; list, get, create, update and delete contacts."
+2026-11-18T09:39:52.729374Z,com.subscriptionflow/mcp,SubscriptionFlow,1.0.0,,streamable-http,"Read and update SubscriptionFlow billing data: customers, invoices, subscriptions and reports."
+2026-11-18T09:40:42.907216Z,com.getlykke/lykke,Lykke,1.0.0,,streamable-http,"Study from your own classes: synced Canvas coursework, notes, flashcards and study progress."
+2026-11-18T09:41:53.210475Z,io.github.Tracetoon/tracetoon,Tracetoon,1.0.0-rc.35,https://github.com/Tracetoon/tracetoon,,"Writes GitHub PR descriptions from your coding agents' session logs, checked against them."
+2026-11-18T09:42:48.648174Z,ai.imbik/rectifier,Rectifier,0.1.0,,streamable-http,Read your Rectifier code reviews from a coding agent. Read-only.
+2026-11-18T09:46:34.561303Z,io.github.sugukurukabe/jp-bids,JP Bids,0.10.1,https://github.com/sugukurukabe/koko-call-mcp,streamable-http,"Read-only MCP for Japan's KKJ public procurement notices (free, 7 tools, MCP Apps UI)."
+2026-11-18T09:51:59.327397Z,team.crux/crux,CRUX,0.1.0,,streamable-http,Read and update tasks in your team's tracker and get the instructions for each workflow step.
+2026-11-18T09:52:03.574437Z,io.github.sumitrmardy/instagram-post-scraper,Instagram Post Scraper,1.0.0,,streamable-http,"Instagram post and reel likes, comments, views, caption, date and author from post URLs."
+2026-11-18T09:52:56.51831Z,io.github.fikrifirat/katip-kalkan,Katip: KVKK Masking & Anonymisation for Lawyers,0.4.0-beta.1,https://github.com/fikrifirat/katip,,Masks Turkish client data (KVKK) in legal documents on your computer before Claude sees the text.
+2026-11-18T09:54:38.383974Z,co.lumman/books,Multi Books,1.0.0,https://github.com/lumman-lab/multi-books,streamable-http,"Xero, Zoho Books and FreeAgent MCP for AI apps: one answer across all your companies."
+2026-11-18T09:55:04.330088Z,com.paletoo/paletoo,Paletoo,1.1.1,,streamable-http,"Make editable Instagram posts, stories and campaigns from designer templates in your Paletoo files."
+2026-11-18T09:55:04.911188Z,app.ippuku/ippuku,Ippuku – Japan map,1.0.0,,streamable-http,"Find toilets, trash cans, coin lockers, smoking areas, vending machines and stamps in Japan."
+2026-11-18T10:03:53.40494Z,io.github.HackSing/memware,Memware — Cross-Agent Long-Term Memory,0.2.1,https://github.com/HackSing/memware-mcp,streamable-http,"Shared long-term memory & Stop-hook task handoff across Claude Code, Codex, Cursor, and mobile."
+2026-11-18T10:04:33.454311Z,ai.ekaya.mcp/ekaya,Ekaya,1.0.0,,streamable-http,"Personalized applications for work and life, made from the AI you already use."
+2026-11-18T10:04:58.475619Z,au.com.byearthandocean/bookings,"Noosa tours and bike hire (By Earth and Ocean, Bike On)",1.0.0,,streamable-http,"Live availability and booking for Noosa kayak, e-bike and MTB tours and Bike On bike hire."
+2026-11-18T10:08:25.676906Z,ai.paperlist/paperlist,PaperList,1.0.0,,streamable-http,"Search papers from 36 AI conferences, including NeurIPS, ICLR, ICML, and CVPR."
+2026-11-18T10:09:46.448429Z,software.distribute/distribute-software,Distribute Software,1.0.0,,streamable-http,"Daily tech news and AI lab releases: search stories, today's briefing, companies and labs."
+2026-11-18T10:11:10.257235Z,io.github.sumitrmardy/instagram-profile-scraper,Instagram Profile Scraper,1.0.0,,streamable-http,"Instagram followers, post count, engagement rate and recent posts for a list of usernames."
+2026-11-18T10:11:35.924568Z,se.optimatika/optimisation-service,Optimatika Optimisation Service,1.0.0,,streamable-http,"Solve linear, quadratic and mixed-integer optimisation models; get each variable's value by name."
+2026-11-18T10:15:28.57049Z,app.remotehunt/remotehunt,RemoteHunt,1.0.0,,streamable-http,Search open remote jobs by role and the country you live in; check if a job can hire you.
+2026-11-18T10:15:35.93522Z,com.breastpump/coverage,BreastPump.com Coverage Navigator,1.1.0,,streamable-http,"Read-only US breast pump insurance coverage rules by state and plan: type, timing, Rx, next steps."
+2026-11-18T10:19:27.874503Z,space.dock/mcp,Dock Space,1.0.0,,streamable-http,"Dock (dock.space) is GNTC's AI presentation editor for PowerPoint, Keynote and PDF."
