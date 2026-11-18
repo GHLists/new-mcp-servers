@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-11-18T22:28:35.165414Z,degree.super/superdegree,Superdegree,1.0.0,,streamable-http,Create narrated product walkthrough videos and written guides from your AI coding tool.
+2026-11-18T22:28:36.450207Z,app.fluxygram/mcp,Fluxygram,0.3.0,https://github.com/Fluxygram/fluxygram,streamable-http,"Animated, step-by-step diagrams: learn the format, validate a diagram and get a link to watch it."
+2026-11-18T22:29:21.080952Z,be.agimo/agimo,Agimo,1.0.0,,streamable-http,"Belgian homes for sale and for rent, read from the real estate agencies' own websites. Read-only."
+2026-11-18T22:32:06.770463Z,uk.co.whatproperty/calculators,What Property calculators,1.0.0,,streamable-http,"Free UK property investment calculators: buy-to-let, HMO, BRRR, flip, stamp duty, mortgages"
+2026-11-18T22:34:44.506295Z,com.piensoeconomico/precios,Pienso Económico,1.0.0,,streamable-http,"Precios de pienso y antiparasitarios para perros y gatos en tiendas de España, con su histórico."
+2026-11-18T22:38:49.353742Z,com.gonextset/nextset,Nextset,1.0.0,,streamable-http,"The workout tracker your AI can edit: build programs, swap exercises and read your logged sets."
+2026-11-18T22:41:01.783011Z,com.daymaker/daymaker,Daymaker,0.4.0,https://github.com/daymaker-hq/daymaker-for-agents,streamable-http,"Research leads, pick gifts they would love and send them, as you, in your Daymaker workspace."
+2026-11-18T22:43:27.210243Z,io.github.RevenueClaw/mcp-chipradar,ChipRadar,0.2.2,https://github.com/RevenueClaw/mcp-chipradar,,"Live hardware prices, LLM benchmarks, and probe-measured OpenRouter door price/speed."
+2026-11-18T22:44:41.242896Z,io.github.Jcorderop02/packet-tracer-mcp,,0.1.2,https://github.com/Jcorderop02/packet-tracer-mcp,,"MCP server for Cisco Packet Tracer 9 — live IOS, OSPF, BGP, NAT, VLAN, VoIP, QoS, IPv6, wireless."
+2026-11-18T22:45:11.019055Z,im.farro/jobs,Farro Jobs,1.0.0,,streamable-http,"Search open jobs posted on companies' own job boards in the last 30 days. Read-only, no sign-in."
+2026-11-18T22:45:23.370452Z,so.talentos/talentos,TalentOS,1.7.1,,streamable-http,"Shared Rooms, skills and team memory for your people and AI agents, with human approvals."
+2026-11-18T22:49:12.28044Z,be.renovatiestart/renovatie-tools,Renovatiestart,1.0.0,,streamable-http,"Vlaamse renovatiegidsen en rekentools voor budget, premies, thuisbatterijen en financiering."
+2026-11-18T22:55:06.932239Z,com.koboterminal/ngx,Kobo Terminal NGX,1.0.0,,streamable-http,"Nigerian stock market (NGX) data: live prices, history since 2000, dividends, fundamentals."
+2026-11-18T22:56:40.947492Z,io.aiconcierge/opportunity-assessment,AI Opportunity Assessment,1.0.0,,streamable-http,Find practical AI opportunities in a business: a five-question assessment inside ChatGPT or Claude.
+2026-11-18T23:00:52.864063Z,com.tagely/analytics,Tagely Analytics,1.0.0,,streamable-http,"Read-only website analytics from Tagely: traffic, pages, UTM campaigns, referrers and conversions."
+2026-11-18T23:05:13.626017Z,com.themwdesk/data-center,The MW Desk Data Center API,1.0.0,,streamable-http,"Paid US data center API: projects, county power, deals and legislation from public sources."
+2026-11-18T23:08:06.520597Z,io.github.zaprojektuj-ogrod/garden-design-mcp,Garden Editor,2.16.3,https://github.com/zaprojektuj-ogrod/garden-design-mcp,,"Design a garden in 3D with your AI assistant: plot, zones, plants and buildings in Garden Editor"
+2026-11-18T23:17:52.605042Z,institute.intex/latex-accessibility,Intex Institute,1.0.0,,streamable-http,"LaTeX in; tagged PDFs, web pages with MathML, WCAG 2.1 reports and spoken formulas out."
+2026-11-18T23:19:37.705544Z,ai.codegene/codegene,CodeGene,0.1.0,,streamable-http,"Check on and change the websites CodeGene builds for your business, from your own AI assistant."
+2026-11-18T23:21:20.845454Z,co.contextovigente/contextovigente,Contexto Vigente,1.0.0,,streamable-http,"Normativa empresarial colombiana vigente: vigencia, cifras y vencimientos, con fuente oficial."
