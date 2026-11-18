@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-11-18T03:22:21.574803Z,nl.klusvang/mcp,Klusvang: Dutch building permit counts,1.0.0,,streamable-http,"Counts of Dutch building-permit notices per municipality, province and work type. No key needed."
+2026-11-18T03:24:00.854443Z,io.github.cdaily1995-create/true-solar-time,BaZi True Solar Time MCP,0.1.1,https://github.com/cdaily1995-create/true-solar-time-mcp,,Deterministic true solar time conversion for BaZi and calendrical workflows.
+2026-11-18T03:25:03.600925Z,io.github.cdaily1995-create/four-pillars,BaZi Four Pillars MCP,0.1.1,https://github.com/cdaily1995-create/four-pillars-mcp,,Deterministic BaZi Four Pillars calculation with true solar time and solar terms.
+2026-11-18T03:30:03.941466Z,io.github.r-a-elu-architecture/rsos,RSOS State Runtime,0.3.0,https://github.com/r-a-elu-architecture/RSOS-Language,,"Multi-agent shared state in 2 model calls, not 42: hash-checked copies, drift healed at 0 calls"
+2026-11-18T03:33:22.906364Z,com.takemyrepo/takemyrepo,Take My Repo,1.0.0,,streamable-http; streamable-http,"Find open repos and models, read reviews from people who ran them, get an install plan."
+2026-11-18T03:35:49.075712Z,io.github.pantoniades/sakila-mcp,Sakila MCP,0.1.2,https://github.com/pantoniades/sakila-mcp,,Read-only MySQL MCP server with a fail-closed SQL classifier and structured results.
+2026-11-18T03:42:44.163106Z,io.github.glincker/levelrail,,1.5.2,https://github.com/glincker/levelrail,,"Self-hosted MCP server for your Levelrail deployments, servers, databases and domains."
+2026-11-18T03:47:41.886458Z,io.drint/drict,Drict,1.0.0,,streamable-http,"Check a product label against the label law of 48 countries: found, missing, check by eye."
+2026-11-18T03:49:11.183062Z,io.github.JR91387/job-o-matic,Job-o-Matic,1.1.0,https://github.com/JR91387/jobomatic-reusme-skills-database,,Local career database your AI keeps current and writes résumés from.
+2026-11-18T03:49:38.627628Z,com.clickflame/wedding,Wedding by Vowfront,1.0.0,,streamable-http,"Wedding business desk for AI chat: inquiries, proposals, retainers, the calendar and final payments."
+2026-11-18T03:53:20.260346Z,com.open5500/open5500,Open5500,1.0.0,,streamable-http,"Free Form 5500 data for benefits brokers: employers' carriers, brokers, commissions and premiums."
+2026-11-18T03:55:12.27929Z,talk.den/den,Den,1.0.2,,streamable-http,"Your friends, in the assistant you already use: thoughts, games, and what's waiting for you."
+2026-11-18T03:55:19.810925Z,com.onrender.ghost77-agent/ghosts-food-services,Ghost's Food Services,1.0.0,,streamable-http,"Look up US restaurants and menus, then pay $5 for Rebecca to phone in an order. Not a certification."
+2026-11-18T03:58:55.524344Z,io.github.Friezaaaa/smartfetch,SmartFetch,1.14.0,https://github.com/Friezaaaa/smartfetch,streamable-http,"HTML/PDF/Markdown, browser render, screenshots, site intel, URL map & batch via Base/Solana x402."
+2026-11-18T04:11:31.26218Z,io.github.doglobalservices-cloud/do-command,D.O Command,0.2.2,https://github.com/doglobalservices-cloud/do-command-center,streamable-http,"D.O Command: clients, tasks, agenda, WhatsApp conversations and reports for your service business."
+2026-11-18T04:12:21.496065Z,digital.leadme/leadme,LeadMe,1.2.0,,streamable-http,"Run and optimize Meta ads by real CRM sales: ROAS by ad, budgets, campaigns, Conversions API."
+2026-11-18T04:12:43.777457Z,io.github.IGEO-AI/igeo-mcp,igeo.ai,1.0.0,https://github.com/IGEO-AI/igeo-ai-agents,streamable-http,"Authorized AI search visibility, brand mentions, competitors, and content workflows for igeo.ai."
+2026-11-18T04:12:55.680304Z,io.github.krammer0/google-trends-and-jobs,Google Trends and Google Jobs data,1.0.0,,streamable-http,"Google Trends (interest over time, by region, related queries) and Google Jobs listings via Apify."
+2026-11-18T04:15:50.394342Z,mx.techstore/catalog,TechStore México — Catálogo Público,1.0.0,,streamable-http,"Catálogo TechStore México: precios MXN IVA inc., stock CEDIS, comparativas y guías."
+2026-11-18T04:20:36.498338Z,com.botshelfvampire/botshelf,BotShelf Vampire,1.0.0,https://github.com/BotShelfVampire/botshelf-mcp,streamable-http,"Read-only search and full text for free AI teams, recipes and Grok Bot tools. No account."

@@ -9,38 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 03:21 UTC
+## Latest list — 2026-11-18 04:21 UTC
 
-New MCP servers published between 2026-11-18 02:21 UTC and 2026-11-18 03:21 UTC.
+New MCP servers published between 2026-11-18 03:21 UTC and 2026-11-18 04:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-18T03-21-11-588705Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-18T04-21-13-590783Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-18 02:22:12 | eu.getdocflow/docflow | DocFlow — private e-signature for agents | 1.0.0 | Private e-signature for agents: end-to-end encrypted signing that never stores… |
-| 2026-11-18 02:24:34 | [pro.formagent/form-agent](https://github.com/MichaelC1999/form-agent-pro-mcp) | Form Agent Pro | 0.1.0 | Prepares filled USCIS immigration forms from a user's situation and documents.… |
-| 2026-11-18 02:25:02 | com.wpcore/wpcore | WPCore | 1.0.0 | Ask your AI assistant about all your WordPress sites: versions, plugins, themes… |
-| 2026-11-18 02:31:23 | [com.tickerdb/mcp-server](https://github.com/tickerdb/tickerdb-mcp) | TickerDB | 3.0.0 | Point-in-time market data for AI agents: stocks, ETFs and crypto as named bands… |
-| 2026-11-18 02:35:31 | [com.chinavisacalc/mcp](https://github.com/AbigailDavised/chinavisacalc-mcp) | ChinaVisaCalc — China Work Permit Point… | 1.0.0 | Calculate China SAFEA work permit points, Z-visa timelines, Apostille rules & e… |
-| 2026-11-18 02:36:00 | com.bulkreceiptscanner/bulk-receipt-scanner | Bulk Receipt Scanner | 1.0.0 | Scan piles of receipts in one photo, then search, correct, export or send them… |
-| 2026-11-18 02:36:17 | [io.github.mfcompliance/alimail-admin-mcp](https://github.com/mfcompliance/alimail-admin-mcp) | Alibaba Mail Admin (unofficial) | 0.2.1 | Manage Alibaba Mail (阿里邮箱) users, departments, groups and contacts via the admi… |
-| 2026-11-18 02:38:05 | [io.github.FelixLin789/webshell](https://github.com/FelixLin789/webshell) | WebShell | 0.3.0 | Drive a real browser with shell-like text commands (cd/ls/cat/click/type), usin… |
-| 2026-11-18 02:40:44 | com.you2chef/you2chef | You2Chef | 1.2.0 | Learn-to-cook app: assistants read and change recipes, meal plan, groceries and… |
-| 2026-11-18 02:41:53 | [io.github.cliff-hq/cliff-mcp](https://github.com/cliff-hq/cliff-mcp) | Cliff | 0.1.0 | Hardware parts with STEP files saved to disk for SolidWorks or any CAD tool, sh… |
-| 2026-11-18 02:48:29 | vn.holos/idoo | Trợ lý luyện thi kỳ thi đánh giá năng l… | 1.0.0 | Thông tin công khai của trung tâm luyện thi; đăng nhập để xem lịch học và chuyê… |
-| 2026-11-18 02:48:30 | vn.holos/vblood | Máu Việt | 1.0.0 | Máu Việt: xem lịch hiến máu, yêu cầu máu và hồ sơ của mình; đăng nhập tài khoản… |
-| 2026-11-18 02:52:23 | [io.github.burmanharry/rootmention](https://github.com/burmanharry/rootmention-mcp) | RootMention SEO | 1.0.0 | Free SEO audit, SEO break-even calculator and RootMention service info for AI a… |
-| 2026-11-18 02:57:35 | [io.github.Noetfield-Systems/mcp-foundry](https://github.com/Noetfield-Systems/MCP) | MCP Foundry — Build, Test & Publish MCP… | 0.1.0 | Build, test, publish and manage real MCP servers from APIs with a live develope… |
-| 2026-11-18 03:00:37 | com.onetokenclub/club | One Token Club | 1.0.0 | Ideas for small tools you build and use with your AI assistant. Members only. |
-| 2026-11-18 03:00:38 | [io.github.NTRanch/neemu](https://github.com/NTRanch/neemu) | Neemu | 1.0.1 | NTRanch media-extraction MCP: screened works to faces, dialogue, acts, and toro… |
-| 2026-11-18 03:00:39 | [io.github.NTRanch/torori](https://github.com/NTRanch/torori) | Torori | 1.0.1 | NTRanch sound MCP: catalogue, library lane, pair validation, cue bundles, voice… |
-| 2026-11-18 03:00:40 | [io.github.NTRanch/ache](https://github.com/NTRanch/ache) | Ache | 1.2.0 | ache: unified haptics MCP: Lovense + Buttplug.io behind one surface, gated by d… |
-| 2026-11-18 03:00:46 | [io.github.NTRanch/torogao](https://github.com/NTRanch/torogao) | Torogao | 0.5.2 | Torogao CLI tools: registry, MCP/A2A servers, scenes, writer, tutorials, toolbo… |
-| 2026-11-18 03:09:07 | [io.github.Rayhanson-Git/enigma](https://github.com/Rayhanson-Git/enigma) | Enigma MCP | 1.3.1 | Shared long-term memory for AI agents, kept as Markdown notes in an Obsidian va… |
-| 2026-11-18 03:10:46 | [ai.qompass/meister](https://github.com/qompassai/meister) | Meister | 0.5.0 | Qompass SFW game maker MCP: authoring and project state for SFW games, with a l… |
-| 2026-11-18 03:10:51 | com.gamesalad.bb/mcp | GameSalad | 1.0.0 | Let your coding agent read your GameSalad projects, and edit them live in Creat… |
-| 2026-11-18 03:17:01 | com.minhdangco/dip | DIP — Decision Governance | 1.0.0 | Execute governed business decisions via AI agents. Agents draft rule changes; h… |
-| 2026-11-18 03:19:23 | [com.chinadrivetest/mcp](https://github.com/AbigailDavised/chinadrivetest-mcp) | ChinaDriveTest — China Subject 1 Exam B… | 1.0.0 | Search 2,545 China Subject 1 driving test questions, airport permits, DMV swaps… |
+| 2026-11-18 03:22:21 | nl.klusvang/mcp | Klusvang: Dutch building permit counts | 1.0.0 | Counts of Dutch building-permit notices per municipality, province and work typ… |
+| 2026-11-18 03:24:00 | [io.github.cdaily1995-create/true-solar-time](https://github.com/cdaily1995-create/true-solar-time-mcp) | BaZi True Solar Time MCP | 0.1.1 | Deterministic true solar time conversion for BaZi and calendrical workflows. |
+| 2026-11-18 03:25:03 | [io.github.cdaily1995-create/four-pillars](https://github.com/cdaily1995-create/four-pillars-mcp) | BaZi Four Pillars MCP | 0.1.1 | Deterministic BaZi Four Pillars calculation with true solar time and solar term… |
+| 2026-11-18 03:30:03 | [io.github.r-a-elu-architecture/rsos](https://github.com/r-a-elu-architecture/RSOS-Language) | RSOS State Runtime | 0.3.0 | Multi-agent shared state in 2 model calls, not 42: hash-checked copies, drift h… |
+| 2026-11-18 03:33:22 | com.takemyrepo/takemyrepo | Take My Repo | 1.0.0 | Find open repos and models, read reviews from people who ran them, get an insta… |
+| 2026-11-18 03:35:49 | [io.github.pantoniades/sakila-mcp](https://github.com/pantoniades/sakila-mcp) | Sakila MCP | 0.1.2 | Read-only MySQL MCP server with a fail-closed SQL classifier and structured res… |
+| 2026-11-18 03:42:44 | [io.github.glincker/levelrail](https://github.com/glincker/levelrail) |  | 1.5.2 | Self-hosted MCP server for your Levelrail deployments, servers, databases and d… |
+| 2026-11-18 03:47:41 | io.drint/drict | Drict | 1.0.0 | Check a product label against the label law of 48 countries: found, missing, ch… |
+| 2026-11-18 03:49:11 | [io.github.JR91387/job-o-matic](https://github.com/JR91387/jobomatic-reusme-skills-database) | Job-o-Matic | 1.1.0 | Local career database your AI keeps current and writes résumés from. |
+| 2026-11-18 03:49:38 | com.clickflame/wedding | Wedding by Vowfront | 1.0.0 | Wedding business desk for AI chat: inquiries, proposals, retainers, the calenda… |
+| 2026-11-18 03:53:20 | com.open5500/open5500 | Open5500 | 1.0.0 | Free Form 5500 data for benefits brokers: employers' carriers, brokers, commiss… |
+| 2026-11-18 03:55:12 | talk.den/den | Den | 1.0.2 | Your friends, in the assistant you already use: thoughts, games, and what's wai… |
+| 2026-11-18 03:55:19 | com.onrender.ghost77-agent/ghosts-food-services | Ghost's Food Services | 1.0.0 | Look up US restaurants and menus, then pay $5 for Rebecca to phone in an order.… |
+| 2026-11-18 03:58:55 | [io.github.Friezaaaa/smartfetch](https://github.com/Friezaaaa/smartfetch) | SmartFetch | 1.14.0 | HTML/PDF/Markdown, browser render, screenshots, site intel, URL map & batch via… |
+| 2026-11-18 04:11:31 | [io.github.doglobalservices-cloud/do-command](https://github.com/doglobalservices-cloud/do-command-center) | D.O Command | 0.2.2 | D.O Command: clients, tasks, agenda, WhatsApp conversations and reports for you… |
+| 2026-11-18 04:12:21 | digital.leadme/leadme | LeadMe | 1.2.0 | Run and optimize Meta ads by real CRM sales: ROAS by ad, budgets, campaigns, Co… |
+| 2026-11-18 04:12:43 | [io.github.IGEO-AI/igeo-mcp](https://github.com/IGEO-AI/igeo-ai-agents) | igeo.ai | 1.0.0 | Authorized AI search visibility, brand mentions, competitors, and content workf… |
+| 2026-11-18 04:12:55 | io.github.krammer0/google-trends-and-jobs | Google Trends and Google Jobs data | 1.0.0 | Google Trends (interest over time, by region, related queries) and Google Jobs… |
+| 2026-11-18 04:15:50 | mx.techstore/catalog | TechStore México — Catálogo Público | 1.0.0 | Catálogo TechStore México: precios MXN IVA inc., stock CEDIS, comparativas y gu… |
+| 2026-11-18 04:20:36 | [com.botshelfvampire/botshelf](https://github.com/BotShelfVampire/botshelf-mcp) | BotShelf Vampire | 1.0.0 | Read-only search and full text for free AI teams, recipes and Grok Bot tools. N… |
 
 ## Data source
 
