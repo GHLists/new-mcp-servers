@@ -9,27 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 06:21 UTC
+## Latest list — 2026-11-18 07:22 UTC
 
-New MCP servers published between 2026-11-18 05:19 UTC and 2026-11-18 06:21 UTC.
+New MCP servers published between 2026-11-18 06:21 UTC and 2026-11-18 07:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-18T06-21-50-658815Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-18T07-22-42-045615Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-18 05:20:59 | [io.github.NITI-Lab/ajiro-api](https://github.com/niti-lab/ajiro-api) | Ajiro API | 0.2.2 | Scan backend routes into per-endpoint YAML, run them as API regression tests an… |
-| 2026-11-18 05:25:14 | [io.github.yavuzceliker/bankstatementparser-mcp](https://github.com/yavuzceliker/bankstatementparser-mcp) | Bank Statement Parser | 0.1.2 | Convert scanned & encrypted PDF bank statements to reconciled QBO, Xero, OFX, C… |
-| 2026-11-18 05:34:30 | com.mapuap/uap-sightings | mapuap — UAP Sightings | 1.0.0 | 86,000+ UAP/UFO sightings: search, geo-queries, stats and read-only SQL. Free k… |
-| 2026-11-18 05:48:24 | com.rewardsfuel/rankfuel | RankFuel Leaderboards | 1.0.0 | Free live leaderboards for radio stations and contests: add points, show standi… |
-| 2026-11-18 05:48:34 | com.chrisballam/site-search | ChrisBallam.com site search | 1.1.0 | Search and ask Chris Ballam's LDS mission, backpacking and family travel guides… |
-| 2026-11-18 05:55:01 | mx.nostris/nostris | Nostris | 0.1.0 | Nostris (México), sin cuenta: conocernos, agendar, dejar un mensaje o armar el… |
-| 2026-11-18 05:55:16 | dev.fencer/intel | Fencer Intel vulnerability feed | 1.0.0 | Free merged CVE, GHSA and OSV feed with search, a live feed, and a lockfile che… |
-| 2026-11-18 06:02:11 | app.onlyrecipes/only-recipes | Only Recipes | 1.0.0 | Save, search and import recipes, manage grocery lists and plan meals in Only Re… |
-| 2026-11-18 06:05:05 | [io.github.haitao-66/renderdock](https://github.com/haitao-66/renderdock) | RenderDock | 0.1.1 | Render Markdown, HTML, URLs, or templates to polished PDF and PNG files |
-| 2026-11-18 06:13:32 | com.memeoki/memeoki | Memeoki | 2.1.0 | Turn a sentence into classic memes with fresh captions, in 20+ languages. Free,… |
-| 2026-11-18 06:16:20 | eu.signbuddy/signbuddy | SignBuddy | 1.0.0 | Draft and send contracts for e-signature (BankID) in SignBuddy, with explicit u… |
-| 2026-11-18 06:18:05 | [io.github.alyiox/mcp-clickhousex](https://github.com/alyiox/mcp-clickhousex) | ClickHouse | 0.12.1 | MCP server for ClickHouse metadata, parameterized queries, plan analysis, and w… |
-| 2026-11-18 06:21:12 | [io.github.Archaofan/xusbcan](https://github.com/Archaofan/xusbcan-cli) | xusbcan | 0.1.3 | Bench CAN for AI agents via CLI/MCP on python-can. Local stdio; user-supplied d… |
+| 2026-11-18 06:23:32 | co.note-bridge/note-bridge | Note Bridge | 1.0.0 | Migrate OneNote notebooks to Notion: scan, quote and migrate pages |
+| 2026-11-18 06:24:32 | com.domaroo/domaroo | domaroo | 1.0.0 | Your domains' renewal dates and costs, and where each one renews for less. |
+| 2026-11-18 06:24:44 | io.github.sumitrmardy/tiktok-profile-stats | TikTok Profile Scraper | 1.0.0 | Exact TikTok followers, likes, video count, bio and verified badge for a list o… |
+| 2026-11-18 06:25:28 | com.atlantflow/hvac-booking | AtlantFlow AC & Heat | 1.1.0 | HVAC facts, service-area check, cost ranges and callback booking for AtlantFlow… |
+| 2026-11-18 06:26:10 | com.cloud.copilot/citrix-daas-mcp-server | Citrix DaaS MCP Server | 1.0.0 | Monitor and troubleshoot Citrix DaaS sessions, VDA machines, delivery groups, a… |
+| 2026-11-18 06:26:23 | [io.github.santex85/gleif-lei-mcp](https://github.com/santex85/gleif-lei-mcp) | GLEIF LEI Company Lookup | 0.1.0 | Company lookup in the official GLEIF LEI registry: search, LEI records, ownersh… |
+| 2026-11-18 06:31:15 | [io.github.doronp/nogpu](https://github.com/doronp/nogpu-mcp) | NoGPU | 0.2.2 | Free report: how many of your LLM's classification calls a small CPU model can… |
+| 2026-11-18 06:33:10 | [io.github.guhttps/veu](https://github.com/guhttps/veu) | Véu | 0.7.1 | Hides personal data and secrets before text reaches an AI and restores them in… |
+| 2026-11-18 06:34:04 | [io.usefulapi/brighthr](https://github.com/m190/usefulapi-mcp) | BrightHR MCP by usefulapi | 1.0.0 | Read employees, clock-ins and absences; set employee external references in Bri… |
+| 2026-11-18 06:36:02 | [io.github.santex85/ats-jobs-mcp](https://github.com/santex85/ats-jobs-mcp) | ATS Jobs (Greenhouse, Lever, Ashby) | 0.1.0 | Open job postings from Greenhouse, Lever and Ashby public job boards in one uni… |
+| 2026-11-18 06:36:04 | [io.github.santex85/domain-intel-mcp](https://github.com/santex85/domain-intel-mcp) | Domain Intel (DNS, SSL, RDAP, email sec… | 0.1.0 | Domain health and security report: DNS, SSL/TLS, RDAP/WHOIS, SPF/DMARC/MTA-STS,… |
+| 2026-11-18 06:36:05 | [io.github.santex85/fmcsa-carrier-mcp](https://github.com/santex85/fmcsa-carrier-mcp) | FMCSA Carrier Vetting | 0.1.0 | Vet US motor carriers and brokers from FMCSA open data: authority, insurance, O… |
+| 2026-11-18 06:36:06 | [io.github.santex85/npi-provider-mcp](https://github.com/santex85/npi-provider-mcp) | NPI Provider Lookup | 0.1.0 | US healthcare provider lookup and NPI verification from the CMS NPPES NPI Regis… |
+| 2026-11-18 06:36:07 | [io.github.santex85/osm-poi-mcp](https://github.com/santex85/osm-poi-mcp) | OpenStreetMap POI Search | 0.1.0 | Find OpenStreetMap businesses and places by category or tag, plus geocoding and… |
+| 2026-11-18 06:36:08 | [io.github.santex85/oss-audit-mcp](https://github.com/santex85/oss-audit-mcp) | OSS Audit (package due diligence) | 0.1.0 | Open-source package due diligence: licences, release health, Scorecard, depende… |
+| 2026-11-18 06:36:09 | [io.github.santex85/us-recalls-mcp](https://github.com/santex85/us-recalls-mcp) | US Product Recalls (FDA, NHTSA, CPSC) | 0.1.0 | US product recalls from FDA (food, drugs, devices), NHTSA (vehicles) and CPSC (… |
+| 2026-11-18 06:40:10 | [com.aiactradar/ai-act-radar](https://github.com/ligea-gmbh/aiactradar-examples) | AI Act Radar | 0.2.0 | EU AI Act obligations and updates from 15 official EU and national sources. No… |
+| 2026-11-18 06:43:28 | com.checkrss/mcp | CheckRSS: RSS feed checker and directory | 0.1.0 | Check and validate RSS/Atom feeds, find a site's feeds, read latest items, sear… |
+| 2026-11-18 06:44:28 | app.cashpage/cash-page | Cash Page | 1.0.0 | Bookkeeping for freelancers & small businesses: income, expenses, multi-currenc… |
+| 2026-11-18 06:57:32 | [io.github.SendPanda/sendpanda](https://github.com/SendPanda/packages) | SendPanda | 0.5.3 | Send email, manage domains, templates, webhooks and broadcasts from your AI age… |
+| 2026-11-18 07:05:15 | ae.brainy.tipline/gta6 | Tipline: unofficial GTA 6 guide | 1.0.0 | Unofficial GTA 6 guide: sourced facts on characters, places, vehicles and relea… |
+| 2026-11-18 07:07:38 | ai.bumblebeez/browser | Bumblebeez | 0.1.0 | BrowserBox cloud browser workspaces with Grip. Assisted early access requires a… |
+| 2026-11-18 07:11:08 | [io.github.planetebatel-cloud/otipi-mcp](https://github.com/planetebatel-cloud/otipi-mcp) | Otipi | 0.1.0 | Send and verify SMS, email and OTP codes in Israel. Free test key, Next.js and… |
+| 2026-11-18 07:13:47 | [com.passivearray/mcp](https://github.com/nasiruddin-ai/passivearray) | Passive Array | 1.0.0 | Live YouTube and Twitch data: channel stats, growth history, monetization, comm… |
+| 2026-11-18 07:17:11 | com.terrax3d/terrax3d-mcp | TerraX3D Geomatics & Subsurface Enginee… | 2.0.0 | B2B GPR utility locating, rebar scanning, 3D LiDAR & drone stockpile survey rat… |
+| 2026-11-18 07:21:57 | co.storepoint/store-locator | Storepoint Store Locator | 1.0.0 | Create and manage your website's store locator. Add locations and update hours… |
+| 2026-11-18 07:22:33 | [me.joinfor/joinforme](https://github.com/pattern-ai-labs/joinforme) | joinfor.me | 1.1.0 | Send a bot to your Google Meet, Zoom or Teams call for notes or your update; ge… |
 
 ## Data source
 
