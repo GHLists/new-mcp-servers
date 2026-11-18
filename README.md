@@ -9,39 +9,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 05:19 UTC
+## Latest list — 2026-11-18 06:21 UTC
 
-New MCP servers published between 2026-11-18 04:21 UTC and 2026-11-18 05:19 UTC.
+New MCP servers published between 2026-11-18 05:19 UTC and 2026-11-18 06:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-18T05-19-31-473721Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-18T06-21-50-658815Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-18 04:26:30 | io.github.sumitrmardy/linkedin-jobs-scraper | LinkedIn Jobs Scraper | 1.0.0 | LinkedIn job listings by keyword, location or search URL, with description and… |
-| 2026-11-18 04:27:41 | ai.agent-neo/neo | Agent NEO | 1.0.0 | Read your team's chats, decisions and wiki in Agent NEO, and save meeting notes… |
-| 2026-11-18 04:28:32 | io.github.Ray-Shi-Dev/taiwan-open-data | Taiwan Open Data | 1.0.0 | Taiwan official open data for AI agents: property prices and laws in English, w… |
-| 2026-11-18 04:28:56 | ca.sitesy/transit | Toronto and GTA Transit | 1.2.0 | Live TTC and Hamilton HSR transit: stop search, next departures, service alerts… |
-| 2026-11-18 04:28:56 | ca.sitesy/website-intelligence | Sitesy Website Intelligence | 2.0.0 | Website, DNS and Canada weather tools, 12 in all. Callers pay per call in USDC… |
-| 2026-11-18 04:30:18 | [com.ffraud/mcp](https://github.com/FFraud-com/ffraud-mcp) | FFraud | 1.3.0 | Check a website's security and any IP, email or domain for fraud. Free, no key… |
-| 2026-11-18 04:31:40 | com.rnafold/rnafold | rnafold | 1.0.0 | Fold RNA, DNA and protein with several engines and see where they disagree. No… |
-| 2026-11-18 04:32:30 | io.github.macleemensah/misu | Misu | 1.0.0 | Shoot on-brand fashion stills and video from a chat, with your own products, ca… |
-| 2026-11-18 04:33:21 | io.re0/re0 | re0 | 1.0.0 | Search and ask re0 Rees: AI knowledge bases that answer from their owners' sour… |
-| 2026-11-18 04:34:21 | com.alertviz/eurokyb-mcp | EuroKYB | 1.0.0 | Czech company and VAT checks, EU VAT validation, IBAN checksums and Czech Natio… |
-| 2026-11-18 04:34:49 | [io.github.Red-Center-Studio/agent-tollbooth-402](https://github.com/Red-Center-Studio/agent-tollbooth-402) | Agent Tollbooth 402 | 1.0.0 | HTTP 402 & x402 V2 billing, pricing quotes, signed receipts, and Stripe top-ups… |
-| 2026-11-18 04:39:13 | [io.github.lifan-builds/agent-autofill](https://github.com/lifan-builds/agent-autofill) | Agent Autofill | 0.1.2 | Local-first personal vault and MCP broker for AI agents on macOS |
-| 2026-11-18 04:41:32 | app.fdbck/fdbck | fdbck | 1.0.0 | Work your users' feedback queue from your editor: triage, approve fixes, ship d… |
-| 2026-11-18 04:44:56 | [net.flowmails/mcp](https://github.com/wms-why/flowmails-cf) | Flowmails | 2.0.0 | Hosted MCP server for Flowmails: send, receive and search email on your own dom… |
-| 2026-11-18 04:51:45 | com.getmial/mial | mial | 0.1.0 | Keep track of everything you said yes to: what you owe, what you're owed, who t… |
-| 2026-11-18 04:56:44 | com.paceads/pace | Pace Ads | 1.0.0 | Budget pacing and ad management for Google, Meta, LinkedIn, Microsoft, TikTok,… |
-| 2026-11-18 05:01:56 | [com.visdenda/free](https://github.com/Visdenda/mcp-free-bridge) | Visdenda Free MCP | 0.1.2 | Anonymous SEO MCP: crawler directory, robots.txt, llms.txt, update radar, page… |
-| 2026-11-18 05:04:13 | dev.wasender/whatsapp | WASender WhatsApp | 1.0.0 | Hosted WhatsApp MCP server: send and read messages from your own linked number.… |
-| 2026-11-18 05:05:29 | co.mindcase/mindcase | Mindcase | 1.0.0 | Live data from LinkedIn, Google Maps, Instagram, Amazon and 120+ more sites, as… |
-| 2026-11-18 05:06:16 | [io.github.stoolap/mcp](https://github.com/stoolap/stoolap-mcp) |  | 0.5.0 | Query, manage and search a Stoolap embedded SQL database (Rust): SQL, transacti… |
-| 2026-11-18 05:09:56 | com.rewardsfuel/signals | RF Signals | 1.0.0 | Daily technical-analysis signals and levels for AAPL, NVDA, SPY, QQQ and more.… |
-| 2026-11-18 05:12:30 | io.flypost/flypost | Flypost | 1.0.0 | Write, design and schedule LinkedIn posts, carousels and articles in your own v… |
-| 2026-11-18 05:12:45 | [io.github.CLNS-KR/clns](https://github.com/CLNS-KR/CLNS-KR) | CLNS — Korea Import Compliance | 0.1.3 | Korea import pre-check: clearance requirements, MFDS import history, recalls, s… |
-| 2026-11-18 05:13:58 | io.brandiz/studio | Brandiz.io studio | 1.2.0 | A business's AI content studio: on-brand posters and reels from its own site, t… |
-| 2026-11-18 05:14:53 | [trade.glitterchainscout.agents/agent-gate](https://github.com/cryptolover2007-hub/glitter-agent-gate) | Glitter Agent Gate (x402) | 0.1.0 | Pay-per-call agent tools (web to Markdown, XRPL data, file conversion) via x402… |
+| 2026-11-18 05:20:59 | [io.github.NITI-Lab/ajiro-api](https://github.com/niti-lab/ajiro-api) | Ajiro API | 0.2.2 | Scan backend routes into per-endpoint YAML, run them as API regression tests an… |
+| 2026-11-18 05:25:14 | [io.github.yavuzceliker/bankstatementparser-mcp](https://github.com/yavuzceliker/bankstatementparser-mcp) | Bank Statement Parser | 0.1.2 | Convert scanned & encrypted PDF bank statements to reconciled QBO, Xero, OFX, C… |
+| 2026-11-18 05:34:30 | com.mapuap/uap-sightings | mapuap — UAP Sightings | 1.0.0 | 86,000+ UAP/UFO sightings: search, geo-queries, stats and read-only SQL. Free k… |
+| 2026-11-18 05:48:24 | com.rewardsfuel/rankfuel | RankFuel Leaderboards | 1.0.0 | Free live leaderboards for radio stations and contests: add points, show standi… |
+| 2026-11-18 05:48:34 | com.chrisballam/site-search | ChrisBallam.com site search | 1.1.0 | Search and ask Chris Ballam's LDS mission, backpacking and family travel guides… |
+| 2026-11-18 05:55:01 | mx.nostris/nostris | Nostris | 0.1.0 | Nostris (México), sin cuenta: conocernos, agendar, dejar un mensaje o armar el… |
+| 2026-11-18 05:55:16 | dev.fencer/intel | Fencer Intel vulnerability feed | 1.0.0 | Free merged CVE, GHSA and OSV feed with search, a live feed, and a lockfile che… |
+| 2026-11-18 06:02:11 | app.onlyrecipes/only-recipes | Only Recipes | 1.0.0 | Save, search and import recipes, manage grocery lists and plan meals in Only Re… |
+| 2026-11-18 06:05:05 | [io.github.haitao-66/renderdock](https://github.com/haitao-66/renderdock) | RenderDock | 0.1.1 | Render Markdown, HTML, URLs, or templates to polished PDF and PNG files |
+| 2026-11-18 06:13:32 | com.memeoki/memeoki | Memeoki | 2.1.0 | Turn a sentence into classic memes with fresh captions, in 20+ languages. Free,… |
+| 2026-11-18 06:16:20 | eu.signbuddy/signbuddy | SignBuddy | 1.0.0 | Draft and send contracts for e-signature (BankID) in SignBuddy, with explicit u… |
+| 2026-11-18 06:18:05 | [io.github.alyiox/mcp-clickhousex](https://github.com/alyiox/mcp-clickhousex) | ClickHouse | 0.12.1 | MCP server for ClickHouse metadata, parameterized queries, plan analysis, and w… |
+| 2026-11-18 06:21:12 | [io.github.Archaofan/xusbcan](https://github.com/Archaofan/xusbcan-cli) | xusbcan | 0.1.3 | Bench CAN for AI agents via CLI/MCP on python-can. Local stdio; user-supplied d… |
 
 ## Data source
 

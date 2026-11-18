@@ -1,0 +1,14 @@
+created_at,server,title,version,repository,transports,description
+2026-11-18T05:20:59.668726Z,io.github.NITI-Lab/ajiro-api,Ajiro API,0.2.2,https://github.com/niti-lab/ajiro-api,,"Scan backend routes into per-endpoint YAML, run them as API regression tests and serve mocks."
+2026-11-18T05:25:14.518133Z,io.github.yavuzceliker/bankstatementparser-mcp,Bank Statement Parser,0.1.2,https://github.com/yavuzceliker/bankstatementparser-mcp,,"Convert scanned & encrypted PDF bank statements to reconciled QBO, Xero, OFX, CSV & JSON."
+2026-11-18T05:34:30.180454Z,com.mapuap/uap-sightings,mapuap — UAP Sightings,1.0.0,,streamable-http; streamable-http,"86,000+ UAP/UFO sightings: search, geo-queries, stats and read-only SQL. Free key at mapuap.com/mcp"
+2026-11-18T05:48:24.939989Z,com.rewardsfuel/rankfuel,RankFuel Leaderboards,1.0.0,,streamable-http,"Free live leaderboards for radio stations and contests: add points, show standings, embed."
+2026-11-18T05:48:34.234126Z,com.chrisballam/site-search,ChrisBallam.com site search,1.1.0,,streamable-http,"Search and ask Chris Ballam's LDS mission, backpacking and family travel guides and photo albums."
+2026-11-18T05:55:01.293Z,mx.nostris/nostris,Nostris,0.1.0,,streamable-http,"Nostris (México), sin cuenta: conocernos, agendar, dejar un mensaje o armar el mapa de tu negocio."
+2026-11-18T05:55:16.30681Z,dev.fencer/intel,Fencer Intel vulnerability feed,1.0.0,,streamable-http,"Free merged CVE, GHSA and OSV feed with search, a live feed, and a lockfile check."
+2026-11-18T06:02:11.567187Z,app.onlyrecipes/only-recipes,Only Recipes,1.0.0,,streamable-http,"Save, search and import recipes, manage grocery lists and plan meals in Only Recipes."
+2026-11-18T06:05:05.128506Z,io.github.haitao-66/renderdock,RenderDock,0.1.1,https://github.com/haitao-66/renderdock,,"Render Markdown, HTML, URLs, or templates to polished PDF and PNG files"
+2026-11-18T06:13:32.856066Z,com.memeoki/memeoki,Memeoki,2.1.0,,streamable-http,"Turn a sentence into classic memes with fresh captions, in 20+ languages. Free, no key."
+2026-11-18T06:16:20.321748Z,eu.signbuddy/signbuddy,SignBuddy,1.0.0,,streamable-http,"Draft and send contracts for e-signature (BankID) in SignBuddy, with explicit user confirmation."
+2026-11-18T06:18:05.031661Z,io.github.alyiox/mcp-clickhousex,ClickHouse,0.12.1,https://github.com/alyiox/mcp-clickhousex,,"MCP server for ClickHouse metadata, parameterized queries, plan analysis, and writes opt-in."
+2026-11-18T06:21:12.313145Z,io.github.Archaofan/xusbcan,xusbcan,0.1.3,https://github.com/Archaofan/xusbcan-cli,,Bench CAN for AI agents via CLI/MCP on python-can. Local stdio; user-supplied drivers.
