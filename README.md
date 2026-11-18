@@ -9,34 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 04:21 UTC
+## Latest list — 2026-11-18 05:19 UTC
 
-New MCP servers published between 2026-11-18 03:21 UTC and 2026-11-18 04:21 UTC.
+New MCP servers published between 2026-11-18 04:21 UTC and 2026-11-18 05:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-18T04-21-13-590783Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-18T05-19-31-473721Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-18 03:22:21 | nl.klusvang/mcp | Klusvang: Dutch building permit counts | 1.0.0 | Counts of Dutch building-permit notices per municipality, province and work typ… |
-| 2026-11-18 03:24:00 | [io.github.cdaily1995-create/true-solar-time](https://github.com/cdaily1995-create/true-solar-time-mcp) | BaZi True Solar Time MCP | 0.1.1 | Deterministic true solar time conversion for BaZi and calendrical workflows. |
-| 2026-11-18 03:25:03 | [io.github.cdaily1995-create/four-pillars](https://github.com/cdaily1995-create/four-pillars-mcp) | BaZi Four Pillars MCP | 0.1.1 | Deterministic BaZi Four Pillars calculation with true solar time and solar term… |
-| 2026-11-18 03:30:03 | [io.github.r-a-elu-architecture/rsos](https://github.com/r-a-elu-architecture/RSOS-Language) | RSOS State Runtime | 0.3.0 | Multi-agent shared state in 2 model calls, not 42: hash-checked copies, drift h… |
-| 2026-11-18 03:33:22 | com.takemyrepo/takemyrepo | Take My Repo | 1.0.0 | Find open repos and models, read reviews from people who ran them, get an insta… |
-| 2026-11-18 03:35:49 | [io.github.pantoniades/sakila-mcp](https://github.com/pantoniades/sakila-mcp) | Sakila MCP | 0.1.2 | Read-only MySQL MCP server with a fail-closed SQL classifier and structured res… |
-| 2026-11-18 03:42:44 | [io.github.glincker/levelrail](https://github.com/glincker/levelrail) |  | 1.5.2 | Self-hosted MCP server for your Levelrail deployments, servers, databases and d… |
-| 2026-11-18 03:47:41 | io.drint/drict | Drict | 1.0.0 | Check a product label against the label law of 48 countries: found, missing, ch… |
-| 2026-11-18 03:49:11 | [io.github.JR91387/job-o-matic](https://github.com/JR91387/jobomatic-reusme-skills-database) | Job-o-Matic | 1.1.0 | Local career database your AI keeps current and writes résumés from. |
-| 2026-11-18 03:49:38 | com.clickflame/wedding | Wedding by Vowfront | 1.0.0 | Wedding business desk for AI chat: inquiries, proposals, retainers, the calenda… |
-| 2026-11-18 03:53:20 | com.open5500/open5500 | Open5500 | 1.0.0 | Free Form 5500 data for benefits brokers: employers' carriers, brokers, commiss… |
-| 2026-11-18 03:55:12 | talk.den/den | Den | 1.0.2 | Your friends, in the assistant you already use: thoughts, games, and what's wai… |
-| 2026-11-18 03:55:19 | com.onrender.ghost77-agent/ghosts-food-services | Ghost's Food Services | 1.0.0 | Look up US restaurants and menus, then pay $5 for Rebecca to phone in an order.… |
-| 2026-11-18 03:58:55 | [io.github.Friezaaaa/smartfetch](https://github.com/Friezaaaa/smartfetch) | SmartFetch | 1.14.0 | HTML/PDF/Markdown, browser render, screenshots, site intel, URL map & batch via… |
-| 2026-11-18 04:11:31 | [io.github.doglobalservices-cloud/do-command](https://github.com/doglobalservices-cloud/do-command-center) | D.O Command | 0.2.2 | D.O Command: clients, tasks, agenda, WhatsApp conversations and reports for you… |
-| 2026-11-18 04:12:21 | digital.leadme/leadme | LeadMe | 1.2.0 | Run and optimize Meta ads by real CRM sales: ROAS by ad, budgets, campaigns, Co… |
-| 2026-11-18 04:12:43 | [io.github.IGEO-AI/igeo-mcp](https://github.com/IGEO-AI/igeo-ai-agents) | igeo.ai | 1.0.0 | Authorized AI search visibility, brand mentions, competitors, and content workf… |
-| 2026-11-18 04:12:55 | io.github.krammer0/google-trends-and-jobs | Google Trends and Google Jobs data | 1.0.0 | Google Trends (interest over time, by region, related queries) and Google Jobs… |
-| 2026-11-18 04:15:50 | mx.techstore/catalog | TechStore México — Catálogo Público | 1.0.0 | Catálogo TechStore México: precios MXN IVA inc., stock CEDIS, comparativas y gu… |
-| 2026-11-18 04:20:36 | [com.botshelfvampire/botshelf](https://github.com/BotShelfVampire/botshelf-mcp) | BotShelf Vampire | 1.0.0 | Read-only search and full text for free AI teams, recipes and Grok Bot tools. N… |
+| 2026-11-18 04:26:30 | io.github.sumitrmardy/linkedin-jobs-scraper | LinkedIn Jobs Scraper | 1.0.0 | LinkedIn job listings by keyword, location or search URL, with description and… |
+| 2026-11-18 04:27:41 | ai.agent-neo/neo | Agent NEO | 1.0.0 | Read your team's chats, decisions and wiki in Agent NEO, and save meeting notes… |
+| 2026-11-18 04:28:32 | io.github.Ray-Shi-Dev/taiwan-open-data | Taiwan Open Data | 1.0.0 | Taiwan official open data for AI agents: property prices and laws in English, w… |
+| 2026-11-18 04:28:56 | ca.sitesy/transit | Toronto and GTA Transit | 1.2.0 | Live TTC and Hamilton HSR transit: stop search, next departures, service alerts… |
+| 2026-11-18 04:28:56 | ca.sitesy/website-intelligence | Sitesy Website Intelligence | 2.0.0 | Website, DNS and Canada weather tools, 12 in all. Callers pay per call in USDC… |
+| 2026-11-18 04:30:18 | [com.ffraud/mcp](https://github.com/FFraud-com/ffraud-mcp) | FFraud | 1.3.0 | Check a website's security and any IP, email or domain for fraud. Free, no key… |
+| 2026-11-18 04:31:40 | com.rnafold/rnafold | rnafold | 1.0.0 | Fold RNA, DNA and protein with several engines and see where they disagree. No… |
+| 2026-11-18 04:32:30 | io.github.macleemensah/misu | Misu | 1.0.0 | Shoot on-brand fashion stills and video from a chat, with your own products, ca… |
+| 2026-11-18 04:33:21 | io.re0/re0 | re0 | 1.0.0 | Search and ask re0 Rees: AI knowledge bases that answer from their owners' sour… |
+| 2026-11-18 04:34:21 | com.alertviz/eurokyb-mcp | EuroKYB | 1.0.0 | Czech company and VAT checks, EU VAT validation, IBAN checksums and Czech Natio… |
+| 2026-11-18 04:34:49 | [io.github.Red-Center-Studio/agent-tollbooth-402](https://github.com/Red-Center-Studio/agent-tollbooth-402) | Agent Tollbooth 402 | 1.0.0 | HTTP 402 & x402 V2 billing, pricing quotes, signed receipts, and Stripe top-ups… |
+| 2026-11-18 04:39:13 | [io.github.lifan-builds/agent-autofill](https://github.com/lifan-builds/agent-autofill) | Agent Autofill | 0.1.2 | Local-first personal vault and MCP broker for AI agents on macOS |
+| 2026-11-18 04:41:32 | app.fdbck/fdbck | fdbck | 1.0.0 | Work your users' feedback queue from your editor: triage, approve fixes, ship d… |
+| 2026-11-18 04:44:56 | [net.flowmails/mcp](https://github.com/wms-why/flowmails-cf) | Flowmails | 2.0.0 | Hosted MCP server for Flowmails: send, receive and search email on your own dom… |
+| 2026-11-18 04:51:45 | com.getmial/mial | mial | 0.1.0 | Keep track of everything you said yes to: what you owe, what you're owed, who t… |
+| 2026-11-18 04:56:44 | com.paceads/pace | Pace Ads | 1.0.0 | Budget pacing and ad management for Google, Meta, LinkedIn, Microsoft, TikTok,… |
+| 2026-11-18 05:01:56 | [com.visdenda/free](https://github.com/Visdenda/mcp-free-bridge) | Visdenda Free MCP | 0.1.2 | Anonymous SEO MCP: crawler directory, robots.txt, llms.txt, update radar, page… |
+| 2026-11-18 05:04:13 | dev.wasender/whatsapp | WASender WhatsApp | 1.0.0 | Hosted WhatsApp MCP server: send and read messages from your own linked number.… |
+| 2026-11-18 05:05:29 | co.mindcase/mindcase | Mindcase | 1.0.0 | Live data from LinkedIn, Google Maps, Instagram, Amazon and 120+ more sites, as… |
+| 2026-11-18 05:06:16 | [io.github.stoolap/mcp](https://github.com/stoolap/stoolap-mcp) |  | 0.5.0 | Query, manage and search a Stoolap embedded SQL database (Rust): SQL, transacti… |
+| 2026-11-18 05:09:56 | com.rewardsfuel/signals | RF Signals | 1.0.0 | Daily technical-analysis signals and levels for AAPL, NVDA, SPY, QQQ and more.… |
+| 2026-11-18 05:12:30 | io.flypost/flypost | Flypost | 1.0.0 | Write, design and schedule LinkedIn posts, carousels and articles in your own v… |
+| 2026-11-18 05:12:45 | [io.github.CLNS-KR/clns](https://github.com/CLNS-KR/CLNS-KR) | CLNS — Korea Import Compliance | 0.1.3 | Korea import pre-check: clearance requirements, MFDS import history, recalls, s… |
+| 2026-11-18 05:13:58 | io.brandiz/studio | Brandiz.io studio | 1.2.0 | A business's AI content studio: on-brand posters and reels from its own site, t… |
+| 2026-11-18 05:14:53 | [trade.glitterchainscout.agents/agent-gate](https://github.com/cryptolover2007-hub/glitter-agent-gate) | Glitter Agent Gate (x402) | 0.1.0 | Pay-per-call agent tools (web to Markdown, XRPL data, file conversion) via x402… |
 
 ## Data source
 
