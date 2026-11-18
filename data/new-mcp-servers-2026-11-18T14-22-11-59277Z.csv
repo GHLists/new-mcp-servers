@@ -1,0 +1,50 @@
+created_at,server,title,version,repository,transports,description
+2026-11-18T13:24:14.966893Z,org.picsum/mcp,Lorem Picsum,1.0.0,,streamable-http,Search CC0 photos and build placeholder image URLs at exact sizes with Lorem Picsum.
+2026-11-18T13:25:54.55779Z,com.metri-diary/metri,metri: Calorie & Macro Tracker,1.5.1,,streamable-http,Track calories and macros right in Claude or ChatGPT and build a personal nutrition diary
+2026-11-18T13:30:17.310673Z,fr.matchaa/matchaa,Matchaa,0.3.0,,streamable-http,"Tailor a resume to a job post without inventing anything. One-page PDF, in French or English."
+2026-11-18T13:31:22.620768Z,io.github.elumixor/kenoverse,Kenoverse,1.0.0,,streamable-http,Turn anything you read or discuss with your assistant into a quiz that asks again before you forget.
+2026-11-18T13:33:21.787112Z,io.github.me-qr/mcp-server,ME-QR MCP Server,1.0.13,https://github.com/me-qr/me-qr-mcp-server,streamable-http,Create and manage QR codes on me-qr.com from AI clients like Claude and ChatGPT.
+2026-11-18T13:33:28.560014Z,es.cvwork/cvwork,cvwork — CV y ATS,1.1.0,,streamable-http,"Analiza tu CV para ATS, palabras clave de ofertas, guías de CV por sector, plantillas y precios."
+2026-11-18T13:36:15.117213Z,app.laporra/laporra,La Porra,1.0.0,,streamable-http; streamable-http,"Porras deportivas entre amigos: calcula botes y puntos, consulta tus porras y envía pronósticos."
+2026-11-18T13:39:29.169184Z,ai.otbstudio/mcp,OTB Studio: Belgian company data,0.1.0,,streamable-http,"Belgian company data (KBO/BCE): directors, shareholders and 20 years of NBB annual accounts."
+2026-11-18T13:39:29.249252Z,com.tudecimo/mcp,Tu Décimo,1.0.0,,streamable-http,"Spanish lottery: official results, check a ticket number and manage shared tickets (décimos)."
+2026-11-18T13:40:36.537925Z,io.github.neubuot/verifile,Verifile,1.6.0,https://github.com/neubuot/doichain-mcp,streamable-http,Proof of existence for files and texts: anchor a SHA-256 on the Doichain and verify it later
+2026-11-18T13:41:22.040129Z,com.talkjs/talkjs,TalkJS,0.1.0,,streamable-http,Configure TalkJS test apps and manage their secret keys.
+2026-11-18T13:43:01.300204Z,com.verateca/verateca,Verateca,0.1.0,,streamable-http,"The practical guide to supplements: labels, official upper limits by country, price per day."
+2026-11-18T13:43:05.096862Z,com.elitetravelsales/travaso,Travaso Hotel Booking,1.1.0,,streamable-http,"Trip-only hotel quotes, hosted card checkout, and booking status for agents. Free key available."
+2026-11-18T13:43:11.805957Z,supply.calder-vale/inventory,Calder Vale Supply Inventory,1.0.0,,streamable-http,"Stock levels, lead times and pricing tiers for Calder Vale Supply partners. Staff-only bulk export."
+2026-11-18T13:44:25.336367Z,io.github.andreasbaidasdubai-hash/belline-mcp-server,,0.1.1,https://github.com/andreasbaidasdubai-hash/belline,,Model Context Protocol server for Belline: install an AI receptionist on a website from an editor.
+2026-11-18T13:45:47.943722Z,dev.kgninja/si-dog-park,SI Dog Park,0.3.2,,streamable-http,Information and deliverable exchange for AI agents. 0.01 USDC per item via x402 on Base.
+2026-11-18T13:45:53.038149Z,app.bestfolio/bestfolio,BestFolio,1.0.0,,streamable-http,"Read-only tactical asset allocation signals, backtests and your own portfolios. Needs a Pro plan."
+2026-11-18T13:46:25.67926Z,com.easycoexistence/mcp,easyCoexistence,1.1.0,,streamable-http,"MCP server for AI agents: posts, messages and comments on WhatsApp, Instagram, TikTok and Facebook."
+2026-11-18T13:48:29.912044Z,io.github.zzhang82/agent-memory-bridge,Agent Memory Bridge,0.39.1,https://github.com/zzhang82/Agent-Memory-Bridge,,"Local MCP memory for coding agents: store decisions with their reasons, recall them on request."
+2026-11-18T13:48:35.045229Z,com.suidasu/suidasu,Suidasu,1.1.0,,streamable-http,"AI-OCR for invoices, faxes, handwriting and photos. Extract structured data with custom layouts."
+2026-11-18T13:49:36.412949Z,io.github.alkeke45-cpu/lens-x402-onchain-mcp,LensExtract x402 On-Chain Data,0.1.0,https://github.com/alkeke45-cpu/lens-x402-onchain-mcp,,"Web extraction and live on-chain/crypto data tools, paid per call in Base USDC via x402."
+2026-11-18T13:53:07.899431Z,pl.dojomanager/demo-request,DojoManager – demo request,1.0.0,,streamable-http,"Request a DojoManager demo for a martial arts club, with the person's consent."
+2026-11-18T13:54:15.574368Z,io.github.christopherjjellison-maker/zorvu,Zorvu,1.0.0,,streamable-http,"Pre-sign checks and Stock Token sell depth for Robinhood Chain: drainer code, lookalikes, fills"
+2026-11-18T13:55:18.950005Z,io.github.pkotecha-eng/aria-mcp-server,,0.2.2,https://github.com/pkotecha-eng/aria-mcp-server,,"Search 35M+ PubMed, 400K+ ClinicalTrials.gov & ISRCTN trials. Prompts included. No API key."
+2026-11-18T13:56:46.88344Z,io.github.TanKucukhas/dank-meme-sounds,DankMachine meme sounds,0.3.0,https://github.com/TanKucukhas/dank-meme-sounds,streamable-http,"Meme soundboard for AI agents: 38k meme sounds. Find reaction sounds, search, trending, play."
+2026-11-18T13:56:47.283679Z,com.nativeeu/directorio,NativeEU,1.0.0,,streamable-http,"European software alternatives: country of origin, verified compliance and user votes."
+2026-11-18T13:57:40.672811Z,com.goalrace/goal-race,Goal Race,1.0.0,,streamable-http,"Find obstacle and hybrid fitness races, save them, and plan your training on a calendar."
+2026-11-18T13:58:29.270085Z,com.aigovernanceengineer/reference,AI Governance Engineer,0.6.1,https://github.com/losanchos5/aige,streamable-http,"Read-only AI governance reference: obligations, crosswalks, controls, glossary, patterns, chapters."
+2026-11-18T13:58:37.277437Z,dev.workers.cybermax-tools.cybermax/broken-link-checker,Linkpail: Broken Link & Image Checker,1.0.0,,streamable-http,Linkpail: Find broken links and broken images on web pages or whole sites.
+2026-11-18T13:58:37.439274Z,dev.workers.cybermax-tools.cybermax/domain-availability-checker,Nameshuck: Bulk Domain Availability Checker,1.0.0,,streamable-http,Nameshuck: Check whether domains are registered or available.
+2026-11-18T14:00:38.444949Z,io.github.laomao-ai/jusou,"聚搜GO Jusou — Aggregated Search (8 engines, 1 key)",1.0.0,,streamable-http,聚合搜索 MCP：一个 Key 调 8 个搜索引擎（Exa/Tavily/Serper/Brave/博查/百度等），统一计费、失败不扣分。
+2026-11-18T14:01:47.965512Z,io.github.imatza-rh/mcp-zuul,,0.11.1,https://github.com/imatza-rh/mcp-zuul,,"Zuul CI — build failure analysis, log search, pipeline status, and job configuration"
+2026-11-18T14:02:14.290989Z,pl.kalkulatorb2b/kalkulator-b2b,Kalkulator B2B,0.1.0,,streamable-http,"Polish tax calculators for B2B sole traders and employees: PIT, ZUS, VAT, leasing. No account."
+2026-11-18T14:02:15.128479Z,pl.kalkulatorb2b/autopilot,AUTOPILOT,0.1.0,,streamable-http,"Finances of a Polish sole trader and household: KSeF invoices, taxes, cash forecast, budget."
+2026-11-18T14:02:41.496848Z,com.blogelia/mcp,Blogelia,1.0.0,,streamable-http,"Blog SEO en piloto automático: genera, edita, programa y publica artículos y consulta estadísticas."
+2026-11-18T14:05:07.205576Z,network.pocket/agentic-portal-mcp,Pocket Network Agentic Marketplace,0.1.3,https://github.com/pokt-network/agentic-portal-mcp,streamable-http,"Search and call pay-per-request data services, paying in USDC on Base with x402."
+2026-11-18T14:06:50.59258Z,ai.thepayday/payday,Payday AI,1.0.0,,streamable-http,"Helps you build your own $1m+ business with AI: rising trends, who's winning, and one-click builds."
+2026-11-18T14:08:32.157955Z,digital.rdk/mcp,РДК (Рейтинги digital-компаний),1.1.0,,streamable-http,"Find Russian digital agencies by real case studies, ratings and awards; draft a project request."
+2026-11-18T14:08:44.292964Z,io.github.awaistechnologist/llm-sidecar,llm-sidecar,0.9.2,https://github.com/awaistechnologist/llm-sidecar,,"Local MCP server: web search, cited answers, fact-checking and routed inference. No API key."
+2026-11-18T14:09:46.252195Z,org.areweworking/are-we-working,Are We Working,1.0.0,,streamable-http,"Is a business open? Live Open, Partially open, Closed and emergency status, plus email alerts."
+2026-11-18T14:10:40.818951Z,com.resumeily/resumeily,Resumeily,1.0.0,,streamable-http,"Build ATS-friendly resumes in chat with 19 templates, preview them and save to Resumeily."
+2026-11-18T14:14:50.368462Z,io.github.GoogleCloudPlatform/cxidk,Conversational Insights DevKit (cxidk),2.0.0,https://github.com/GoogleCloudPlatform/conversational-insights-devkit,,"Google Cloud Conversational Insights (CCAI) MCP server for analytics, conversion, and config ops."
+2026-11-18T14:16:07.761888Z,com.redes-ia/social-publisher,RedesIA Social Publisher,1.1.0,,streamable-http,"Plan, create and publish Instagram, Facebook and LinkedIn posts, carousels, stories and reels."
+2026-11-18T14:16:23.405277Z,nl.alle-providers/internet,Alle Providers,1.0.0,,streamable-http,"Home internet offers at a Dutch address: providers, prices, line speeds and order links."
+2026-11-18T14:16:33.490167Z,app.awsel/erpnext,ERPNext Connector (Awsel),1.0.0,,streamable-http,"Turn chat invoices into drafts in ERPNext. 19 tools, OAuth sign-in, human approval."
+2026-11-18T14:17:06.380029Z,io.github.rrlabs-io/argoshot,Argoshot,1.0.0,,streamable-http,"Give your agent eyes: screenshots of any web page it can see, pages as markdown, and PDFs."
+2026-11-18T14:20:02.34464Z,ai.nanosite/nanosite,NanoSite,1.1.0,,streamable-http,"Build, edit and publish websites and online stores, and run store products and orders."
+2026-11-18T14:20:05.461039Z,io.github.urnetwork/registry,URnetwork,2026.11.18,https://github.com/urnetwork/skill,streamable-http,Private web fetch and egress through residential IPs in many countries on URnetwork.
+2026-11-18T14:20:13.512388Z,com.quiroads/clinic-marketing,QuiroAds Clinic Marketing Tools,1.0.0,,streamable-http,"Clinic marketing playbooks and tools: Meta ads access, health ad rules, lead follow-up, care plans"
