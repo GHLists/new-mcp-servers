@@ -9,42 +9,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 19:21 UTC
+## Latest list — 2026-11-19 20:22 UTC
 
-New MCP servers published between 2026-11-19 18:21 UTC and 2026-11-19 19:21 UTC.
+New MCP servers published between 2026-11-19 19:21 UTC and 2026-11-19 20:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-19T19-21-47-772075Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-19T20-22-23-986677Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-19 18:23:52 | [io.github.snapsynapse/ai-incident-law](https://github.com/snapsynapse/ai-incident-law) | AI Incident Law | 0.4.4 | Public-record corpus of AI litigation, regulation, and enforcement, anchored to… |
-| 2026-11-19 18:24:36 | io.redstick/record | Redstick: construction tech on the reco… | 1.0.0 | A dated record of construction robots, software and AI tools, each read at the… |
-| 2026-11-19 18:31:06 | app.attify/attify | Attify | 0.3.0 | Read-only Attify tools: AI agent verdicts, standards, attestations and definiti… |
-| 2026-11-19 18:32:33 | [ai.llmbenchmark/llmbenchmark](https://github.com/Take-Group/llmbenchmark-mcp) | LLMBenchmark.ai | 1.0.0 | Which LLM for which task: benchmark scores and API prices for 400+ models. Free… |
-| 2026-11-19 18:34:07 | [io.github.BukeLy/peerbox](https://github.com/BukeLy/peerbox) | peerbox | 0.2.10 | A chat app for AI agents that works like email: your team's agents message each… |
-| 2026-11-19 18:34:24 | [ai.exa/exa](https://github.com/exa-labs/exa-mcp-server) | Exa | 3.4.3 | Connect AI agents to Exa for web search, content fetching, and multi-step resea… |
-| 2026-11-19 18:37:21 | io.blocksurvey/blocksurvey | BlockSurvey | 1.0.0 | Create, edit and publish surveys in your BlockSurvey team workspace. |
-| 2026-11-19 18:41:09 | [io.rzlt/connector](https://github.com/therzlt/rzlt-mcp) | RZLT | 1.0.0 | Ask RZLT, an AI-native growth and marketing agency: services, case studies, fit… |
-| 2026-11-19 18:41:33 | [io.github.temet-ai/ask-kit](https://github.com/temet-ai/ask-kit) | ask-kit | 0.2.0 | One ask tool: a cheap model with a REPL answers about your code and past agent… |
-| 2026-11-19 18:42:14 | it.one2trip/one2trip | One2Trip | 1.0.0 | Trips from Italy: flights, hotels and car hire with real prices, creator itiner… |
-| 2026-11-19 18:42:35 | [ai.achurch/church](https://github.com/a-church-ai/church) | aChurch.ai | 2.0.1 | A sanctuary for AI agents and humans: attend a service, reflect, read, search,… |
-| 2026-11-19 18:50:51 | com.nodemantis/node-mantis | Node Mantis | 0.1.9 | Run website tasks from a plain-English request in a real browser and get struct… |
-| 2026-11-19 18:51:15 | [io.github.macropulse-lab/macropulse-mcp](https://github.com/macropulse-lab/macropulse-mcp) | MacroPulse | 0.2.0 | Daily US macro regime (expansion, recovery, tightening, risk-off) from MacroPul… |
-| 2026-11-19 18:52:30 | dev.tejhq/indian-markets | TejHQ Indian Markets | 1.0.0 | NSE/BSE end-of-day data: adjusted prices, corporate actions, F&O since 2010 wit… |
-| 2026-11-19 18:52:48 | com.hellocityowl/prague-events | HelloCityOwl Prague Events | 1.0.0 | Search Prague events in English or Czech by date and venue, with links to the o… |
-| 2026-11-19 18:56:45 | [io.github.RitualDev-Lab/mcpshelf](https://github.com/RitualDev-Lab/MCPShelf) | MCPShelf Model Context Protocol Registr… | 1.0.0 | Discover, audit trust scores, and 1-click install 400+ verified MCP servers for… |
-| 2026-11-19 19:01:44 | [io.github.4lador/leantime-mcp](https://github.com/4lador/leantime-mcp) | Leantime MCP (Unofficial) | 2.10.0 | Unofficial MCP server for Leantime: 43 agent-first tools, backup/restore, dry-r… |
-| 2026-11-19 19:04:34 | com.aegeanintel/data | BRIER Data | 0.2.0 | Checkable forecast calls for agents: AEIG's locked track record, with proof of… |
-| 2026-11-19 19:05:28 | [io.github.JollyToday/weydub-media](https://github.com/JollyToday/GhostCut-auto_video_translation) | Weydub Media Localization | 1.0.1 | Erase video text, extract OCR subtitles, dub speech and translate images using… |
-| 2026-11-19 19:07:12 | [com.apiskins/mcp](https://github.com/apiskins/mcp) | API Skins | 1.0.0 | CS2 skin prices across marketplaces, buy orders, sales, item data and Steam inv… |
-| 2026-11-19 19:09:06 | [io.github.CyberKurry/pkv-sync](https://github.com/CyberKurry/pkv-sync) | PKV Sync | 1.10.2 | Self-hosted, Git-native Obsidian vault sync with a built-in MCP server, search,… |
-| 2026-11-19 19:12:01 | com.digitaloperationsinstitute.fde/fde-app | FDE App: SOPs & Workflows | 4.9.1 | Documents how your company really runs, then ranks what slows it down and plans… |
-| 2026-11-19 19:14:02 | [io.github.savegeeks/savegeeks-mcp](https://github.com/savegeeks/savegeeks-mcp) | SaveGeeks Price Finder | 1.0.0 | Find the lowest current price on Amazon.com for any product a shopper describes. |
-| 2026-11-19 19:17:05 | [io.github.cuzic4n/aiwod](https://github.com/cuzic4n/aiwod) | AIWOD MCP | 1.0.0 | Generate garage gym CrossFit WODs, push live to your Gym TV, and log household… |
-| 2026-11-19 19:17:28 | com.formtango/formtango | FormTango | 1.0.0 | Form backend: create form endpoints, get framework snippets and read submission… |
-| 2026-11-19 19:17:39 | com.sitesinthewoods/monitor | Sites in the Woods | 0.2.0 | Your team's website monitoring: uptime, incidents, speed, TLS and domain expiry. |
-| 2026-11-19 19:17:40 | [io.github.snapsynapse/every-ai-law](https://github.com/snapsynapse/every-ai-law) | EveryAILaw | 0.9.3 | AI law obligations, evidence, deadlines, saved profiles, audit trails, and sign… |
-| 2026-11-19 19:19:20 | finance.brief/brief-finance | brief.finance | 1.0.0 | Stock research from SEC filings: annual reports, financials and insider trades,… |
+| 2026-11-19 19:22:54 | com.viethomedoctor/home-visit | Viet Home Doctor | 1.1.0 | Home and hotel doctor visits in Vietnam: service facts, cities covered and visi… |
+| 2026-11-19 19:29:48 | io.megalania/megalania | Megalania | 1.8.0 | Read any web page as Markdown or JSON, map sites, run batches, watch pages. Blo… |
+| 2026-11-19 19:30:04 | com.handshakr/handshakr | Handshakr | 0.3.0 | Read-only search of Handshakr's register of B2B suppliers, a record built for A… |
+| 2026-11-19 19:30:34 | app.gearcheck/gearcheck | GearCheck | 1.0.0 | Read your own bloodwork in GearCheck: markers, trends, reports and protocol jou… |
+| 2026-11-19 19:33:19 | [io.github.huseyininnc/zeyn](https://github.com/huseyininnc/zeyn) |  | 0.0.11 | Zeyn Framework tools for coding agents: docs search, app description, checks, t… |
+| 2026-11-19 19:36:38 | [xyz.trusteed/mcp-gateway](https://github.com/trusteed/mcpwebstore) |  | 1.1.0 | Agentic commerce gateway: discovery, trust and checkout. Demo store; x402 sandb… |
+| 2026-11-19 19:36:59 | place.nooks/nooks | Nooks | 3.5.0 | Build and check custom brick sets with your agent: real parts, revisions, expor… |
+| 2026-11-19 19:38:40 | host.sofast/sofast | Sofast | 1.0.0 | Publish static websites (HTML, CSS, JavaScript) to a sofast.website address fro… |
+| 2026-11-19 19:47:46 | org.pitchnetwork/pitch-network | The Pitch Network | 1.1.1 | Youth soccer clubs across the western US: search 1,100+ clubs by area, tier, le… |
+| 2026-11-19 19:47:47 | com.socalpitch/socal-pitch | SoCal Pitch | 1.1.1 | Southern California youth soccer: club directory, tryouts, leagues, tournaments… |
+| 2026-11-19 19:47:48 | com.norcalpitch/norcal-pitch | NorCal Pitch | 1.1.1 | Northern California youth soccer: club directory, tryouts, leagues, tournaments… |
+| 2026-11-19 19:47:49 | com.pnwpitch/pnw-pitch | PNW Pitch | 1.1.1 | Pacific Northwest youth soccer (WA, OR, ID, MT): club directory, leagues and gu… |
+| 2026-11-19 19:47:50 | com.mountainwestpitch/mountain-west-pitch | Mountain West Pitch | 1.1.1 | Mountain West youth soccer (CO, UT, WY, NV, MT): club directory, leagues and gu… |
+| 2026-11-19 19:47:51 | com.southwestpitch/southwest-pitch | Southwest Pitch | 1.1.1 | Southwest youth soccer (AZ, NM, southern NV, El Paso): club directory, leagues… |
+| 2026-11-19 19:48:58 | app.railway.up.autopay-site-production/autopay | AutoPay | 1.5.0 | Paid research for agents: cited search, claim verification, briefs, web-to-Mark… |
+| 2026-11-19 19:49:40 | com.referlyhub/referlyhub | ReferlyHub | 1.0.0 | The referral network for local trade pros, with AI assistant support. |
+| 2026-11-19 19:51:30 | [io.github.TernApp/api-colombia](https://github.com/TernApp/mcp-api-colombia) | API Colombia: días hábiles, festivos y… | 1.0.0 | Colombian business days, holidays and DIAN tax deadlines by NIT, plus UVT and T… |
+| 2026-11-19 19:54:00 | io.github.imran0786/tiktok-scripts | TikTok Scripts \| InayaFlow | 1.0.0 | Public TikTok data for creators: scripts and hooks from top videos, niche trend… |
+| 2026-11-19 19:56:47 | [io.github.denshinji/play-console-mcp](https://github.com/denshinji/play-console-mcp) | Google Play Console | 0.2.0 | Google Play Console listings, graphics, releases and reviews, with staged edits… |
+| 2026-11-19 19:59:34 | com.forwardsmith/forwardsmith | Forwardsmith | 1.0.2 | Read-only desk for buyers and assistants: offer, prices, fit check, readiness s… |
+| 2026-11-19 20:00:43 | com.linknhv/linknhv | LinkNHV (New Haven, CT) | 1.0.0 | LinkNHV (Link New Haven): hand-picked websites for New Haven, Connecticut, chec… |
+| 2026-11-19 20:03:38 | app.airsurf/airsurf | Airsurf | 1.6.21 | Docs, issues, projects, calendar and designs of an Airsurf workspace: search, r… |
+| 2026-11-19 20:05:08 | io.photoproduct/photoproduct | Photoproduct.io | 1.0.0 | Make images, video, music and voiceovers with more than 1,000 generation models. |
+| 2026-11-19 20:06:36 | [io.github.RichardMathews/freteai](https://github.com/RichardMathews/frete-ai) | freteai | 0.1.0 | Compara frete no Brasil (Melhor Envio + SuperFrete) e recomenda a melhor opção.… |
+| 2026-11-19 20:07:38 | [io.github.meob/pg-cve-mcp](https://github.com/meob/PG_CVE-MCP) | PostgreSQL CVE & Release Intelligence | 2.0.0 | PostgreSQL security for AI agents: CVEs, yanked releases, exploits, and upgrade… |
+| 2026-11-19 20:11:36 | io.github.arbonomous/curvecall | CurveCall | 0.10.2 | Paid token market data, risk signals and trade simulations for AI agents. USDC… |
+| 2026-11-19 20:11:44 | com.yippigo/yippigo | Yippigo | 1.0.0 | Group bus & tempo traveller hire in India: indicative fares, routes, vehicle si… |
+| 2026-11-19 20:13:42 | com.hiresweep/hiresweep | HireSweep | 5.1.8 | Resume builder and job search for AI assistants: edit resumes, track applicatio… |
+| 2026-11-19 20:14:15 | [com.ledachat/ledachat](https://github.com/kingscrosslabs/ledachat) | LedaChat | 1.0.0 | Instagram comment to DM automations: reply to comments, DM a link, collect emai… |
+| 2026-11-19 20:15:58 | [io.github.virling/virling](https://github.com/virling/virling) | Virling | 0.2.0 | Read-only revenue analytics: which channels, referrers and pages bring paying c… |
+| 2026-11-19 20:18:34 | vin.signal/scout | Signal Scout | 2.0.0 | Vehicle market data, appraisals, Instant Offer and Signal Marketplace inventory… |
 
 ## Data source
 
