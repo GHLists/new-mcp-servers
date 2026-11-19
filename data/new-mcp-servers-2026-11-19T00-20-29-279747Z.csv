@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-11-18T23:22:08.085394Z,br.com.doutorchamada/doutor-chamada,Doutor Chamada,1.0.0,,streamable-http,"Telemedicine in Brazil: on-call hours, consultation options and prices, start link and official FAQ."
+2026-11-18T23:25:31.779251Z,io.github.goadesign/chorus,Chorus,1.0.0,https://github.com/goadesign/chorus,,"Real-time #channels, @agent DMs, cross-model review, and live web UI for coding agents."
+2026-11-18T23:28:15.001079Z,io.github.rephraseai/rephraseai-mcp,Rephrase AI,0.1.0,https://github.com/rephraseai/rephraseai-mcp,streamable-http,"Rewrite text in the tone you want, with the meaning kept, using your Rephrase AI account."
+2026-11-18T23:32:31.523403Z,dev.midge/midge,Midge,1.0.0,,streamable-http,"Read Midge bug reports: video, console logs, network requests and user actions, secrets redacted."
+2026-11-18T23:32:49.346505Z,com.podpage/mcp,Podpage,1.0.0,,streamable-http,"Read and manage the podcast websites your Podpage account can access: episodes, pages, and more."
+2026-11-18T23:37:01.874368Z,io.github.Gahroot/komendly,Komendly (Ozzy): ads and videos from your website,1.0.0,https://github.com/Gahroot/Komendly,streamable-http,Make ad creatives from any website and promo videos with Ozzy. Free first Ad Pack. OAuth sign-in.
+2026-11-18T23:41:10.388647Z,com.aisoulkeeper/memory,AISoulKeeper,1.0.0,,streamable-http,Memory your AI takes anywhere
+2026-11-18T23:45:27.830021Z,ai.shuut/shuut,shuut,1.0.0,,streamable-http,"Image, video, voice and caption generation and editing with GPT Image, Seedance, Kling, Veo"
+2026-11-18T23:51:40.063406Z,xyz.apexfaucet/apex-safety,APEX Agent Safety & Guardrails,1.0.0,https://github.com/apexfaucet-hub/apex-x1-mcp,streamable-http,"AI agent safety & tx guardrails: prompt injection, PII redaction, token/contract & tx checks. x402."
+2026-11-18T23:52:43.599324Z,io.usefulapi/absence-io,absence.io MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,List and read absence records and users in absence.io.
+2026-11-18T23:52:43.612147Z,io.usefulapi/spotler-crm,Spotler CRM MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read records, data dictionaries and dropdown values; create and update records in Spotler CRM."
+2026-11-18T23:52:43.612683Z,io.usefulapi/timetastic,Timetastic MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read who is off, leave requests and allowances; request, approve or decline leave in Timetastic."
+2026-11-18T23:56:04.81581Z,io.github.eSimfly-Official/esimfly-mcp,,0.2.0,https://github.com/eSimfly-Official/esimfly-mcp,streamable-http,"eSIMfly Business API: search eSIM plans, check usage, diagnose eSIMs, optionally order (confirmed)"
+2026-11-19T00:00:23.327206Z,dev.wirecat/attio-cli,WireCat attio,0.2.0,https://github.com/WireCatLabs/attio-cli,,attio for agents over MCP. Set up a profile with the attio CLI first.
+2026-11-19T00:04:23.982995Z,io.usefulapi/phc-go,PHC GO MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read clients, invoices and stock records in PHC GO."
+2026-11-19T00:05:37.105289Z,io.github.SpIob/devlog,,2.0.1,https://github.com/SpIob/devlog-cli,,"Offline developer journal with local-LLM digests, semantic search, and MCP server."
+2026-11-19T00:06:52.667345Z,io.github.bumpsmith/bumpsmith,Bumpsmith,0.1.0,https://github.com/bumpsmith/bumpsmith,,"Upgrade npm and PyPI dependencies across breaking changes, verified with your tests in a sandbox."
+2026-11-19T00:07:29.317383Z,com.gaents/api,gaents,1.0.0,,streamable-http,"Pay-per-call agent marketplace: OpenAI-compatible model router, jobs and challenges, BSV-settled."
+2026-11-19T00:08:12.988645Z,io.github.veracium-ai/veracium,,0.33.0,https://github.com/veracium-ai/Veracium,,"Provenance-aware memory for AI agents: quarantine, abstention gate, supersession-with-history."
+2026-11-19T00:09:10.760532Z,events.agentlive/agentlive-events,,0.6.0,,streamable-http,"Find tickets to concerts, sports and live events, compare all-in prices, and buy with Stripe's Link."
+2026-11-19T00:09:15.369935Z,io.github.virtuosis-ai/virtuosis,Virtuosis,0.3.0,,streamable-http,Analyze consented voice recordings for wellbeing and communication coaching.
+2026-11-19T00:10:09.619976Z,com.gta6hunter/mcp,GTA6 Hunter,1.0.0,,streamable-http,"Read-only GTA 6 data: news from 22 outlets, guides, Leonida map places, release facts, streamers."
+2026-11-19T00:11:49.305648Z,io.github.Pyrochem/universal-quant-tournament-mcp,,1.0.1,https://github.com/Pyrochem/universal-quant-tournament-mcp,,8-Strategy Quant Tournament & Monte Carlo Risk Gate with Native MT5 & Alpaca Execution.
+2026-11-19T00:12:47.810405Z,com.earlyopenings/earlyopenings,EarlyOpenings,1.0.0,,streamable-http,"New tech jobs from employers' own career pages, minutes after posting. Search, save and follow."
+2026-11-19T00:13:24.437465Z,com.qubesync/quickbooks-desktop-api,QuBe Sync: QuickBooks Desktop API for developers,1.0.0,,streamable-http,"Build QuickBooks Desktop integrations: validated API requests and workflows, answers by webhook."
+2026-11-19T00:14:46.415032Z,com.findmybids/findmybids,FindMyBids,1.0.0,,streamable-http,"Open US government bids for small businesses: federal, state and local, with eligibility checks."
+2026-11-19T00:19:02.391982Z,io.github.drew-dot-com/charter,Charter: rent a machine by the hour,0.1.0,https://github.com/drew-dot-com/charter,,"Agents rent a sandbox, a page fetcher or a Linux home by the hour. USDC on Base, x402, no account."
+2026-11-19T00:20:21.062794Z,io.github.train-horn/trainhorn-mcp,Train Horn Calculators,1.0.0,https://github.com/train-horn/trainhorn-mcp,,"Train horn calculators: dB vs distance, air tank runtime, compressor recovery, wire gauge."

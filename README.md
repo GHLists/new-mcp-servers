@@ -9,34 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 23:21 UTC
+## Latest list — 2026-11-19 00:20 UTC
 
-New MCP servers published between 2026-11-18 22:21 UTC and 2026-11-18 23:21 UTC.
+New MCP servers published between 2026-11-18 23:21 UTC and 2026-11-19 00:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-18T23-21-30-534428Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-19T00-20-29-279747Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-18 22:28:35 | degree.super/superdegree | Superdegree | 1.0.0 | Create narrated product walkthrough videos and written guides from your AI codi… |
-| 2026-11-18 22:28:36 | [app.fluxygram/mcp](https://github.com/Fluxygram/fluxygram) | Fluxygram | 0.3.0 | Animated, step-by-step diagrams: learn the format, validate a diagram and get a… |
-| 2026-11-18 22:29:21 | be.agimo/agimo | Agimo | 1.0.0 | Belgian homes for sale and for rent, read from the real estate agencies' own we… |
-| 2026-11-18 22:32:06 | uk.co.whatproperty/calculators | What Property calculators | 1.0.0 | Free UK property investment calculators: buy-to-let, HMO, BRRR, flip, stamp dut… |
-| 2026-11-18 22:34:44 | com.piensoeconomico/precios | Pienso Económico | 1.0.0 | Precios de pienso y antiparasitarios para perros y gatos en tiendas de España,… |
-| 2026-11-18 22:38:49 | com.gonextset/nextset | Nextset | 1.0.0 | The workout tracker your AI can edit: build programs, swap exercises and read y… |
-| 2026-11-18 22:41:01 | [com.daymaker/daymaker](https://github.com/daymaker-hq/daymaker-for-agents) | Daymaker | 0.4.0 | Research leads, pick gifts they would love and send them, as you, in your Dayma… |
-| 2026-11-18 22:43:27 | [io.github.RevenueClaw/mcp-chipradar](https://github.com/RevenueClaw/mcp-chipradar) | ChipRadar | 0.2.2 | Live hardware prices, LLM benchmarks, and probe-measured OpenRouter door price/… |
-| 2026-11-18 22:44:41 | [io.github.Jcorderop02/packet-tracer-mcp](https://github.com/Jcorderop02/packet-tracer-mcp) |  | 0.1.2 | MCP server for Cisco Packet Tracer 9 — live IOS, OSPF, BGP, NAT, VLAN, VoIP, Qo… |
-| 2026-11-18 22:45:11 | im.farro/jobs | Farro Jobs | 1.0.0 | Search open jobs posted on companies' own job boards in the last 30 days. Read-… |
-| 2026-11-18 22:45:23 | so.talentos/talentos | TalentOS | 1.7.1 | Shared Rooms, skills and team memory for your people and AI agents, with human… |
-| 2026-11-18 22:49:12 | be.renovatiestart/renovatie-tools | Renovatiestart | 1.0.0 | Vlaamse renovatiegidsen en rekentools voor budget, premies, thuisbatterijen en… |
-| 2026-11-18 22:55:06 | com.koboterminal/ngx | Kobo Terminal NGX | 1.0.0 | Nigerian stock market (NGX) data: live prices, history since 2000, dividends, f… |
-| 2026-11-18 22:56:40 | io.aiconcierge/opportunity-assessment | AI Opportunity Assessment | 1.0.0 | Find practical AI opportunities in a business: a five-question assessment insid… |
-| 2026-11-18 23:00:52 | com.tagely/analytics | Tagely Analytics | 1.0.0 | Read-only website analytics from Tagely: traffic, pages, UTM campaigns, referre… |
-| 2026-11-18 23:05:13 | com.themwdesk/data-center | The MW Desk Data Center API | 1.0.0 | Paid US data center API: projects, county power, deals and legislation from pub… |
-| 2026-11-18 23:08:06 | [io.github.zaprojektuj-ogrod/garden-design-mcp](https://github.com/zaprojektuj-ogrod/garden-design-mcp) | Garden Editor | 2.16.3 | Design a garden in 3D with your AI assistant: plot, zones, plants and buildings… |
-| 2026-11-18 23:17:52 | institute.intex/latex-accessibility | Intex Institute | 1.0.0 | LaTeX in; tagged PDFs, web pages with MathML, WCAG 2.1 reports and spoken formu… |
-| 2026-11-18 23:19:37 | ai.codegene/codegene | CodeGene | 0.1.0 | Check on and change the websites CodeGene builds for your business, from your o… |
-| 2026-11-18 23:21:20 | co.contextovigente/contextovigente | Contexto Vigente | 1.0.0 | Normativa empresarial colombiana vigente: vigencia, cifras y vencimientos, con… |
+| 2026-11-18 23:22:08 | br.com.doutorchamada/doutor-chamada | Doutor Chamada | 1.0.0 | Telemedicine in Brazil: on-call hours, consultation options and prices, start l… |
+| 2026-11-18 23:25:31 | [io.github.goadesign/chorus](https://github.com/goadesign/chorus) | Chorus | 1.0.0 | Real-time #channels, @agent DMs, cross-model review, and live web UI for coding… |
+| 2026-11-18 23:28:15 | [io.github.rephraseai/rephraseai-mcp](https://github.com/rephraseai/rephraseai-mcp) | Rephrase AI | 0.1.0 | Rewrite text in the tone you want, with the meaning kept, using your Rephrase A… |
+| 2026-11-18 23:32:31 | dev.midge/midge | Midge | 1.0.0 | Read Midge bug reports: video, console logs, network requests and user actions,… |
+| 2026-11-18 23:32:49 | com.podpage/mcp | Podpage | 1.0.0 | Read and manage the podcast websites your Podpage account can access: episodes,… |
+| 2026-11-18 23:37:01 | [io.github.Gahroot/komendly](https://github.com/Gahroot/Komendly) | Komendly (Ozzy): ads and videos from yo… | 1.0.0 | Make ad creatives from any website and promo videos with Ozzy. Free first Ad Pa… |
+| 2026-11-18 23:41:10 | com.aisoulkeeper/memory | AISoulKeeper | 1.0.0 | Memory your AI takes anywhere |
+| 2026-11-18 23:45:27 | ai.shuut/shuut | shuut | 1.0.0 | Image, video, voice and caption generation and editing with GPT Image, Seedance… |
+| 2026-11-18 23:51:40 | [xyz.apexfaucet/apex-safety](https://github.com/apexfaucet-hub/apex-x1-mcp) | APEX Agent Safety & Guardrails | 1.0.0 | AI agent safety & tx guardrails: prompt injection, PII redaction, token/contrac… |
+| 2026-11-18 23:52:43 | [io.usefulapi/absence-io](https://github.com/m190/usefulapi-mcp) | absence.io MCP by usefulapi | 1.0.0 | List and read absence records and users in absence.io. |
+| 2026-11-18 23:52:43 | [io.usefulapi/spotler-crm](https://github.com/m190/usefulapi-mcp) | Spotler CRM MCP by usefulapi | 1.0.0 | Read records, data dictionaries and dropdown values; create and update records… |
+| 2026-11-18 23:52:43 | [io.usefulapi/timetastic](https://github.com/m190/usefulapi-mcp) | Timetastic MCP by usefulapi | 1.0.0 | Read who is off, leave requests and allowances; request, approve or decline lea… |
+| 2026-11-18 23:56:04 | [io.github.eSimfly-Official/esimfly-mcp](https://github.com/eSimfly-Official/esimfly-mcp) |  | 0.2.0 | eSIMfly Business API: search eSIM plans, check usage, diagnose eSIMs, optionall… |
+| 2026-11-19 00:00:23 | [dev.wirecat/attio-cli](https://github.com/WireCatLabs/attio-cli) | WireCat attio | 0.2.0 | attio for agents over MCP. Set up a profile with the attio CLI first. |
+| 2026-11-19 00:04:23 | [io.usefulapi/phc-go](https://github.com/m190/usefulapi-mcp) | PHC GO MCP by usefulapi | 1.0.0 | Read clients, invoices and stock records in PHC GO. |
+| 2026-11-19 00:05:37 | [io.github.SpIob/devlog](https://github.com/SpIob/devlog-cli) |  | 2.0.1 | Offline developer journal with local-LLM digests, semantic search, and MCP serv… |
+| 2026-11-19 00:06:52 | [io.github.bumpsmith/bumpsmith](https://github.com/bumpsmith/bumpsmith) | Bumpsmith | 0.1.0 | Upgrade npm and PyPI dependencies across breaking changes, verified with your t… |
+| 2026-11-19 00:07:29 | com.gaents/api | gaents | 1.0.0 | Pay-per-call agent marketplace: OpenAI-compatible model router, jobs and challe… |
+| 2026-11-19 00:08:12 | [io.github.veracium-ai/veracium](https://github.com/veracium-ai/Veracium) |  | 0.33.0 | Provenance-aware memory for AI agents: quarantine, abstention gate, supersessio… |
+| 2026-11-19 00:09:10 | events.agentlive/agentlive-events |  | 0.6.0 | Find tickets to concerts, sports and live events, compare all-in prices, and bu… |
+| 2026-11-19 00:09:15 | io.github.virtuosis-ai/virtuosis | Virtuosis | 0.3.0 | Analyze consented voice recordings for wellbeing and communication coaching. |
+| 2026-11-19 00:10:09 | com.gta6hunter/mcp | GTA6 Hunter | 1.0.0 | Read-only GTA 6 data: news from 22 outlets, guides, Leonida map places, release… |
+| 2026-11-19 00:11:49 | [io.github.Pyrochem/universal-quant-tournament-mcp](https://github.com/Pyrochem/universal-quant-tournament-mcp) |  | 1.0.1 | 8-Strategy Quant Tournament & Monte Carlo Risk Gate with Native MT5 & Alpaca Ex… |
+| 2026-11-19 00:12:47 | com.earlyopenings/earlyopenings | EarlyOpenings | 1.0.0 | New tech jobs from employers' own career pages, minutes after posting. Search,… |
+| 2026-11-19 00:13:24 | com.qubesync/quickbooks-desktop-api | QuBe Sync: QuickBooks Desktop API for d… | 1.0.0 | Build QuickBooks Desktop integrations: validated API requests and workflows, an… |
+| 2026-11-19 00:14:46 | com.findmybids/findmybids | FindMyBids | 1.0.0 | Open US government bids for small businesses: federal, state and local, with el… |
+| 2026-11-19 00:19:02 | [io.github.drew-dot-com/charter](https://github.com/drew-dot-com/charter) | Charter: rent a machine by the hour | 0.1.0 | Agents rent a sandbox, a page fetcher or a Linux home by the hour. USDC on Base… |
+| 2026-11-19 00:20:21 | [io.github.train-horn/trainhorn-mcp](https://github.com/train-horn/trainhorn-mcp) | Train Horn Calculators | 1.0.0 | Train horn calculators: dB vs distance, air tank runtime, compressor recovery,… |
 
 ## Data source
 
