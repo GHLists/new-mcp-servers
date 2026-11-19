@@ -1,0 +1,46 @@
+created_at,server,title,version,repository,transports,description
+2026-11-19T11:19:26.28249Z,de.biohackingkompakt/biohacking-kompakt,Biohacking Kompakt,1.7.1,https://github.com/phoeser/biohacking-kompakt,streamable-http,"Evidence-rated German database of supplements, peptides and longevity methods, plus podcast."
+2026-11-19T11:20:07.052504Z,fr.bmse/reperes,REPERES,1.0.0,,streamable-http,"Expertise du social et médico-social français : textes sourcés, valeurs officielles, simulateurs."
+2026-11-19T11:21:32.682201Z,app.tgpipe/tgpipe,TGpipe,0.1.0,,streamable-http,Send Telegram notifications and publish posts to connected channels
+2026-11-19T11:31:12.516111Z,com.bizpeel/bizpeel,BizPeel MCP,1.0.0,https://github.com/yihui-dev/bizpeel-mcp,streamable-http,"Verified startup revenue, traffic, SEO, ads & 700+ growth breakdowns via Streamable HTTP MCP."
+2026-11-19T11:34:23.451868Z,com.flatio/search,Flatio,0.1.0,,streamable-http,Search Flatio's furnished monthly rentals across Europe and get links to book them on flatio.com.
+2026-11-19T11:37:09.356022Z,io.github.langmail/carddav-mcp,,0.1.2,https://github.com/langmail/carddav-mcp,,"CardDAV contacts as MCP tools: list address books; list, get, create, update and delete contacts."
+2026-11-19T11:38:42.634885Z,com.testingbot/mcp-server,TestingBot,1.3.0,https://github.com/testingbot/mcp-server,,"Run browser, mobile and app tests on TestingBot's cloud, including localhost via tunnels"
+2026-11-19T11:40:03.87946Z,io.github.langmail/imap-mcp,,0.1.1,https://github.com/langmail/imap-mcp,,IMAP email as MCP tools: create draft messages in the Drafts folder of any IMAP mailbox.
+2026-11-19T11:40:09.131706Z,com.supastro/astrology,Supastro,0.5.0,,streamable-http,"Vedic astrology calculations: birth charts, dashas, transits, yogas, compatibility and panchang"
+2026-11-19T11:40:45.482229Z,io.github.MrLinWang/umami-mcp,Umami Analytics (Read-only),0.1.0,,,"Read-only Umami analytics for self-hosted sites: traffic, referrers, sessions and events."
+2026-11-19T11:43:25.910189Z,io.github.NicoHern/abapilot-mcp,ABAPilot,1.0.7,https://github.com/NicoHern/abapilot-mcp,,"Governed MCP access to SAP ECC, S/4HANA and RISE, as the named SAP user. Needs the ABAPilot backend."
+2026-11-19T11:44:26.21142Z,com.klackeurope/agentic-commerce,Klack Europe Shopping,1.0.12,,streamable-http,"Busca productos Klack, prepara carritos y enlaza al checkout seguro de la tienda."
+2026-11-19T11:44:48.246682Z,com.morereply/morereply,Morereply,1.0.0,,streamable-http,Search public Morereply polls and read their results and published demographic analyses.
+2026-11-19T11:45:38.968147Z,com.glowytics/marketing-analytics,Glowytics,1.0.0,,streamable-http,"Ask about ad spend, ROAS, sales, GA4 traffic and top products across Google, Meta and your store."
+2026-11-19T11:45:57.366964Z,io.github.langmail/caldav-mcp,,0.11.3,https://github.com/langmail/caldav-mcp,,"CalDAV calendar operations (list, create, update, delete events) as MCP tools."
+2026-11-19T11:48:58.923344Z,io.github.VoltageGPU/voltagegpu-cli,VoltageGPU CLI,2.0.4,https://github.com/VoltageGPU/VOLTAGEGPU-CLI,,"Start, run commands on, attest and release VoltageGPU confidential VMs and GPU machines."
+2026-11-19T11:49:33.788362Z,com.plain/mcp,Plain MCP,0.0.4,,streamable-http,Connect AI assistants to Plain customer support data and workflows.
+2026-11-19T11:50:10.386811Z,io.github.BitmapAsset/probbit,probbit,0.15.1,https://github.com/BitmapAsset/probbit,,"A personality, mood and memory layer for AI agents, plus exact plans under hard rules. Offline."
+2026-11-19T11:51:28.123367Z,app.owlx/owlx,OwlX AI Agent — Trading Intelligence,1.2.0,https://github.com/Chungor/owlx-mcp,streamable-http,"AI trading coach for crypto: structure scores, MemeSniper, token & stock financials. Education only."
+2026-11-19T11:53:17.341637Z,io.github.xinzzu/memoria,Memoria,0.16.0,https://github.com/xinzzu/Memoria,,"Local-first memory for AI coding tools: recall decisions, tasks and fixes across sessions."
+2026-11-19T11:54:56.553825Z,io.github.cheborotalco/alisac-it-mcp,,1.0.0,https://github.com/cheborotalco/new-sito-ali,streamable-http,"AI & IT Specialist (PMP, PSPO I, AWS): Europe & Asia advisory, cases, and direct contact."
+2026-11-19T11:55:11.326261Z,io.github.thenamespace/ens-mcp,ENS,0.1.0,https://github.com/thenamespace/ens-mcp,streamable-http,"ENS names: resolve, read profiles and ownership, list names, prepare registrations and changes"
+2026-11-19T11:57:53.95904Z,com.seahawkmedia/site,Seahawk Media,1.0.0,,streamable-http,"Search Seahawk Media, read pages as markdown, get services, prices and contacts, and check websites."
+2026-11-19T11:58:13.708049Z,ai.apipod/apipod,APIPod,0.2.2,https://github.com/geniuspath/apipod-agent-plugins,streamable-http,"Generate, edit and animate images and videos with top models through one APIPod account."
+2026-11-19T11:58:25.563324Z,ai.januaport/docs,JanuaPort Docs,1.0.0,,streamable-http,"Read-only JanuaPort setup guides for your AI assistant: install, set up, connect. No login."
+2026-11-19T11:58:36.057479Z,com.caelaralabs/api,Caelara Labs Web Intelligence,1.0.0,,streamable-http,Caelara Labs Web Intelligence tools over remote MCP. Pay-per-call via x402 USDC or API key.
+2026-11-19T11:58:36.288948Z,com.caelaralabs/social,Caelara Labs Social Analytics,1.0.0,,streamable-http,Caelara Labs Social Analytics tools over remote MCP. Pay-per-call via x402 USDC or API key.
+2026-11-19T11:58:36.53774Z,com.caelaralabs/agent,Caelara Labs Agent Safety,1.0.0,,streamable-http,Caelara Labs Agent Safety tools over remote MCP. Pay-per-call via x402 USDC or API key.
+2026-11-19T11:58:36.789014Z,com.caelaralabs/compliance,Caelara Labs Compliance & Trust,1.0.0,,streamable-http,Caelara Labs Compliance & Trust tools over remote MCP. Pay-per-call via x402 USDC or API key.
+2026-11-19T11:58:37.088188Z,com.caelaralabs/ecom,Caelara Labs E-Commerce Intelligence,1.0.0,,streamable-http,Caelara Labs E-Commerce Intelligence tools over remote MCP. Pay-per-call via x402 USDC or API key.
+2026-11-19T11:58:37.317973Z,com.caelaralabs/seo,Caelara Labs SEO & GEO Readiness,1.0.0,,streamable-http,Caelara Labs SEO & GEO Readiness tools over remote MCP. Pay-per-call via x402 USDC or API key.
+2026-11-19T11:58:37.553252Z,com.caelaralabs/docs,Caelara Labs Document Utilities,1.0.0,,streamable-http,Caelara Labs Document Utilities tools over remote MCP. Pay-per-call via x402 USDC or API key.
+2026-11-19T11:58:37.776408Z,com.caelaralabs/crypto,Caelara Labs On-Chain Intelligence,1.0.0,,streamable-http,Caelara Labs On-Chain Intelligence tools over remote MCP. Pay-per-call via x402 USDC or API key.
+2026-11-19T11:58:37.992209Z,com.caelaralabs/geo,Caelara Labs Global Locale,1.0.0,,streamable-http,Caelara Labs Global Locale tools over remote MCP. Pay-per-call via x402 USDC or API key.
+2026-11-19T11:58:38.212705Z,com.caelaralabs/media,Caelara Labs Dynamic Media,1.0.0,,streamable-http,Caelara Labs Dynamic Media tools over remote MCP. Pay-per-call via x402 USDC or API key.
+2026-11-19T12:03:23.536777Z,by.ai-belarus/registry,AI-BELARUS — Belarus business registry,1.20.0,,streamable-http,Belarusian companies by UNP: state registry answers with source and sha256 for every fact.
+2026-11-19T12:03:46.29236Z,io.github.cortex-bus/cortex-bus,Cortex Bus,0.4.1,https://github.com/cortex-bus/cortex-bus,,"Pub/sub that routes messages by meaning: topic match, embeddings, then an LLM judge, under budgets."
+2026-11-19T12:05:54.147619Z,com.findazo/findazo,Findazo,1.0.0,,streamable-http,AliExpress gift ideas with prices by country and measured shipping times (Findazo Index).
+2026-11-19T12:08:00.65921Z,io.github.kitplummer/lowendinsight,LowEndInsight,0.16.0-beta.2,https://github.com/kitplummer/lowendinsight,streamable-http,"Is a dependency still maintained now? Contributors, recency of real work, risk."
+2026-11-19T12:09:43.238918Z,net.jpbiz/japan-business-trip,JpBiz Japan Business Trip Planner,1.0.0,,streamable-http,"Draft Japan business trip itineraries by industry: trade shows, visits, budget, hotel/flight links."
+2026-11-19T12:12:44.25567Z,ai.apipod/mcp,APIPod,0.2.3,https://github.com/geniuspath/apipod-agent-plugins,streamable-http,"Generate, edit and animate images and videos with top models through one APIPod account."
+2026-11-19T12:13:38.051776Z,com.cursopus/cursopus,Cursopus,1.0.0,,streamable-http,"Track job applications, tailor resumes and draft cover letters from your AI assistant."
+2026-11-19T12:16:25.197594Z,io.github.TsukimioRinka/agg-search,,0.1.1,https://github.com/TsukimioRinka/agg-search,,"Multi-engine web search with RRF fusion and Jina reranking, plus a tiered fetcher."
+2026-11-19T12:18:18.702998Z,ai.poly/docs-mcp,PolyAI Docs,1.0.0,,streamable-http,"Search the PolyAI docs, including the Dialog-RSN-1 realtime voice API. No API key needed."
+2026-11-19T12:18:19.134192Z,ai.poly/builder-mcp,PolyAI Builder MCP,1.0.0,,streamable-http,"Build, test and deploy PolyAI voice agents from your IDE or AI coding tool. Needs an API key."
