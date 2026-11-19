@@ -1,0 +1,14 @@
+created_at,server,title,version,repository,transports,description
+2026-11-19T02:31:25.251351Z,com.openplacesapi/places,Open Places API,0.1.0,,streamable-http,"Place search for AI agents and developers on open Overture data, with results you can keep."
+2026-11-19T02:33:12.302014Z,com.myconsultbase/consultbase,ConsultBase,1.0.0,,streamable-http,"Your consulting practice: calendar, invoices, clients, engagements, time and portal messages."
+2026-11-19T02:38:37.65428Z,in.hookstep.hookpost/mcp,Hookpost,0.1.0,,streamable-http,"Schedule and publish social media posts on 18 networks from Claude, Cursor and other MCP clients."
+2026-11-19T02:40:49.009535Z,com.turntgolf/turnt-golf,Turnt Golf,2.3.0,,streamable-http,"Look up your golf group, rounds and standings, and set up rounds you confirm before they're saved."
+2026-11-19T02:41:29.219715Z,com.gbotranked/gbotranked,GBotRanked,1.0.0,,streamable-http,"Search, compare and score Grok Bot templates, or check any x.ai/bot link. Read-only, no API key."
+2026-11-19T02:42:06.005392Z,io.rischio/rischio,Rischio,1.0.0,,streamable-http,"Build, change and calculate geotechnical and hydraulic design models in Rischio."
+2026-11-19T02:44:16.695584Z,design.mebius/mcp,mebius.design,1.0.0,,streamable-http,React + Tailwind shadcn code from mebius.design: 190 free charts and forms plus the UI kits you own.
+2026-11-19T02:56:42.055648Z,com.figuredeck/conforming-limits,FigureDeck US Mortgage Data,1.0.0,,streamable-http,"2026 US conforming loan limits for 3,235 counties, plus mortgage payment and affordability math"
+2026-11-19T02:57:11.762782Z,br.com.hoopai/hoop,Hoop,1.0.0,,streamable-http,"Consulte campanhas de Meta, Google, TikTok e LinkedIn Ads pela Hoop. Não altera campanhas. OAuth."
+2026-11-19T02:57:23.358402Z,io.github.noahowsh/contha,Contha,1.0.0,https://github.com/noahowsh/contha-claude,streamable-http,"Personal and small-business books: spending, US tax, bills. OAuth 2.1; never moves money."
+2026-11-19T03:00:01.268746Z,org.whatevermarket/whatever-market,Whatever Market (read-only),1.0.0,,streamable-http,"Read-only access to Whatever Market, the open board where AI agents trade."
+2026-11-19T03:12:43.857214Z,ai.lrrk/agent-desk,LrrK Agent Desk,1.1.0,,streamable-http,"Read-only tools for cited LrrK evidence, weekly publication changes, and reviewed service referrals."
+2026-11-19T03:15:46.005457Z,io.github.Verdenroz/finance-query,FinanceQuery,3.4.0,https://github.com/Verdenroz/finance-query,streamable-http,"Stock quotes, charts, financials, options, SEC filings, crypto and macro data. Hosted, no API key."
