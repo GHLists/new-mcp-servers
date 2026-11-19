@@ -1,0 +1,30 @@
+created_at,server,title,version,repository,transports,description
+2026-11-19T13:19:49.699982Z,io.github.betacar/dutch-top-tech-companies,Dutch Top Tech Companies,1.21.0,https://github.com/betacar/dutch-top-tech-companies,streamable-http,"Tech salaries in the Netherlands by role, province and company, and open job postings to apply to."
+2026-11-19T13:19:53.794419Z,ge.sellit/mcp,Sellit,1.0.0,,streamable-http,"Build and run a Sellit online shop: site, products, stock, orders, discounts and bookings."
+2026-11-19T13:23:37.282676Z,com.ansvra/mcp,Ansvra,1.0.0,,streamable-http,"Read saved AI visibility, competitor and citation reports. Requires a paid Ansvra account."
+2026-11-19T13:24:37.208282Z,uz.veoskill/neolex,NEOLEX,1.0.0,,streamable-http,"Laws of Uzbekistan and legal study: search acts, read articles, notes, progress and review."
+2026-11-19T13:25:58.971348Z,pl.tenderkit/tenderkit,tenderkit,0.1.0,https://github.com/pjagielski/tenderkit,streamable-http,"Polish public procurement notices and awards from BZP and TED. Read-only, no login."
+2026-11-19T13:28:15.032201Z,al.toyshub/catalog,Toys Hub,2.1.0,https://github.com/redilinxa/toyshub-mcp,streamable-http,"Browse Toys Hub: products, prices in ALL, stock, delivery and checkout links. Read-only, no sign-in."
+2026-11-19T13:28:18.165403Z,app.tresca/catalog,Tresca,1.0.0,https://github.com/northlarkhq/tresca-mcp,streamable-http,"Read-only search of MCP servers and agent skills for engineering software, with sourced facts."
+2026-11-19T13:31:19.286436Z,org.happysession/happysession,HappySession,1.0.0,,streamable-http,Brittany surf forecasts: session ratings per spot and safety verdicts for each surfer's level.
+2026-11-19T13:32:48.442876Z,com.klakix/mcp,Klakix,0.1.0,https://github.com/klakix-ai/klakix-mcp,streamable-http,"AI video, image, voiceover and music generation: Veo, Kling, Seedance, Nano Banana, GPT Image."
+2026-11-19T13:33:51.445987Z,io.github.iframefonts/sinqlo-mcp,Sinqlo,1.0.0,https://github.com/iframefonts/sinqlo-mcp,streamable-http,"Agent-ready brand kits: live logos, colors, fonts, design tokens, and Brand Links via Sinqlo MCP."
+2026-11-19T13:34:09.949605Z,com.agentloadout/agent-loadout,Agent Loadout,1.0.0,,streamable-http,"Live SEO, Maps, ads, contacts and AI search data, with 62 methods to win and serve agency clients."
+2026-11-19T13:37:25.489488Z,io.github.WyroBase/wyro-check,Wyro,0.2.14,,,Maps a backend's routes to the tables they reach and flags routes with no auth. No model inside.
+2026-11-19T13:40:27.712755Z,io.github.Leizhidong-creator/modelpick,ModelPick,0.1.1,https://github.com/Leizhidong-creator/modelpick,,"Pick the best-value model at every task node, with cost per solved task and the exact setup."
+2026-11-19T13:40:40.729518Z,io.github.Milan344s/ai-crawlability-check,AI Crawlability Check,2.0.0,https://github.com/Milan344s/ai-crawlability-check,streamable-http,"Check if AI crawlers like GPTBot and ClaudeBot can reach, index and quote any web page."
+2026-11-19T13:43:27.407171Z,com.odotify/mcp,Odotify,0.5.0,https://github.com/noordevtech/odotify-mcp,streamable-http,"Manage Odoo hosting on Odotify: servers, instances, backups, deploys, and slow-database diagnosis."
+2026-11-19T13:44:23.750457Z,io.github.Fitrofy/fitrofy-mcp,Fitrofy,0.1.0,,,"Indian food data and a diet brain: food search, food scans, food logging and diet plans."
+2026-11-19T13:45:42.82578Z,io.github.Rewoltor/virag,Virág — Manhattan flower delivery,1.0.0,https://github.com/Rewoltor/virag,streamable-http,"Order flowers with a handwritten card for delivery in Manhattan, NYC. Browse, quote, order, track."
+2026-11-19T13:49:12.761918Z,io.github.Guoqiang1006/gomami-mcp,GoMami (unofficial),0.1.1,https://github.com/Guoqiang1006/gomami-mcp,,"Unofficial MCP server for managing GoMami servers, read-only by default"
+2026-11-19T13:51:56.630798Z,com.drcanary/mcp,Dr. Canary Customer Journey QA,0.0.1,,streamable-http,Give your AI agent a QA wingman. Find UX bugs and verify fixes.
+2026-11-19T13:52:44.241036Z,com.odeist/odeist,Odeist AI,1.0.0,,streamable-http,"Your Odeist AI brands, Today queue, search and AI-answer numbers; leaves drafts for your review."
+2026-11-19T13:54:33.380791Z,com.aginery/agent-machinery,Agent Machinery,0.1.0,,streamable-http,An MCP gateway for teams deploying AI tools at scale to employee-facing and headless agents.
+2026-11-19T13:56:13.230458Z,com.moola-money/moola,Moola,1.0.0,,streamable-http,"Plan retirement, tax, savings goals and home buying from your own numbers with Moola."
+2026-11-19T13:59:49.968017Z,io.github.pabsamuel/atesen-company-data-mcp,Atesen Company and Jobs Data,0.1.0,https://github.com/pabsamuel/atesen-mcp,streamable-http,"French company registry, SEC filings, trademark checks, website contacts and public job postings."
+2026-11-19T13:59:50.585526Z,io.github.pabsamuel/atesen-web-data-mcp,Atesen Web and Developer Data,0.1.0,https://github.com/pabsamuel/atesen-mcp,streamable-http,"URL to Markdown, tech stack, WHOIS/RDAP, SEO audit, RSS, Hacker News, app store and model data."
+2026-11-19T14:12:09.758166Z,com.searchdataapi/x402-google-search-serp-news-trends-mcp,SearchDataAPI — Zero-Signup x402 USDC Google Search SERP & News MCP,1.0.0,,streamable-http; streamable-http,Google SERP & News. Supports zero-signup x402 USDC pay-per-call ($0.001) on Base or free API key.
+2026-11-19T14:12:25.319929Z,app.sixfigs/sixfigs,Sixfigs,0.2.0,,streamable-http,"Sourced Grand Theft Auto VI facts: money methods and planner, vehicles, map, cheats, status."
+2026-11-19T14:12:30.583522Z,com.klarum/klarum,Klarum,1.0.0,,streamable-http,"European public-procurement award data, aggregates only."
+2026-11-19T14:13:05.322496Z,io.github.871922384/jikeyan-agent-skill,极科研 jikeyan,0.2.1,https://github.com/871922384/jikeyan-agent-skill,,"Official 极科研 MCP server: manage research projects, deadlines, reviews, submissions."
+2026-11-19T14:21:29.226256Z,com.anglero/speaker,Thomas Anglero Speaker MCP,1.0.3,,streamable-http,"Thomas Anglero, AI keynote speaker in person and virtual. Bio, topics, booking and inquiry tools."
