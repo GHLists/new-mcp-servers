@@ -9,41 +9,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 21:19 UTC
+## Latest list — 2026-11-19 22:21 UTC
 
-New MCP servers published between 2026-11-19 20:22 UTC and 2026-11-19 21:19 UTC.
+New MCP servers published between 2026-11-19 21:19 UTC and 2026-11-19 22:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-19T21-19-59-280599Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-19T22-21-38-608189Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-19 20:24:23 | ai.daysaway/daysaway | Daysaway | 1.0.0 | Plan trips day by day on a map: itineraries, places, travel times and budget. O… |
-| 2026-11-19 20:24:52 | box.how/howtoolbox | HowToolbox | 1.0.0 | 500+ free calculators, converters and checks with exact, cited results and an a… |
-| 2026-11-19 20:26:22 | [io.github.brdz4/robot-mcp](https://github.com/brdz4/robot-mcp) | Robot Structural Analysis | 0.1.0 | Autodesk Robot Structural Analysis: model, results, NEC-15 checks, ACI 318 reba… |
-| 2026-11-19 20:28:21 | [io.github.tradinglookup/data](https://github.com/tradinglookup/tradinglookup) | TradingLookup open data | 1.0.0 | Read-only open data on prop firms, brokers, crypto exchanges and market calenda… |
-| 2026-11-19 20:29:13 | it.skinmatch/skinmatch | Skinmatch | 1.0.0 | Italian skincare: skin types, products with prices, INCI ingredients and a derm… |
-| 2026-11-19 20:30:33 | [io.github.jagerstromebbe01-dot/dsr-web](https://github.com/jagerstromebbe01-dot/dsr-web) | DSR Backtest Check | 1.0.0 | Is a backtest's Sharpe ratio real or luck? Deflated Sharpe Ratio check with gre… |
-| 2026-11-19 20:30:34 | [sh.glim/glim](https://github.com/glim-sh/glim-mcp) | glim.sh | 1.3.0 | Live web search and fetch plus Twitter, Reddit, GitHub, Amazon, YouTube, Telegr… |
-| 2026-11-19 20:30:50 | ai.exobench/exobench | ExoBench | 1.4.27 | Benchmark SQL queries, rewrites and indexes on real Postgres, MySQL and SQL Ser… |
-| 2026-11-19 20:31:29 | [io.github.rojinebrahimi/sesh](https://github.com/rojinebrahimi/sesh) | sesh | 0.1.4 | Read-only MCP access to Claude Code, Codex, OpenCode, omp and pi sessions. |
-| 2026-11-19 20:34:53 | com.esearchcy/esearchcy | ESearchCy — Cyprus company search | 1.1.0 | Search Cyprus companies: status, registration date, registered office, officers… |
-| 2026-11-19 20:38:25 | [com.formtango/formtango-mcp](https://github.com/formtango/formtango-mcp) | FormTango (local) | 0.1.1 | Add a working form to any website with no signup, and read submissions. Runs lo… |
-| 2026-11-19 20:41:11 | co.agentready/connectors | Agent Ready | 1.1.0 | Rank, tools and history of every connector in ChatGPT, Claude, Gemini, Muse and… |
-| 2026-11-19 20:43:49 | [io.github.adammpolak/rulefoundry-extractions](https://github.com/adammpolak/rulefoundry-plugins) | RuleFoundry | 1.4.1 | Interview the person who knows, or read a screen recording, and get business ru… |
-| 2026-11-19 20:45:36 | com.dailybot/mcp | Dailybot | 1.0.0 | Your team's AI chat agent for standups, automations, and daily work. |
-| 2026-11-19 20:47:37 | com.iride360/booking | iRide360 Chauffeur Booking | 1.0.0 | Book LA & LAX luxury chauffeur rides: live quotes, reservations, and booking ch… |
-| 2026-11-19 20:48:31 | to.mentioned/mentioned | Mentioned | 1.0.0 | Get your brand into the Reddit threads Google shows for your buyers' searches,… |
-| 2026-11-19 20:49:10 | com.delagged/delagged | Delagged | 1.0.0 | Jet lag plans for any flight: when to sleep, seek light and eat. Free, no accou… |
-| 2026-11-19 20:49:15 | shop.intaj/invoice | Intaj Invoice | 0.1.0 | Turn a conversation into a ready-to-edit invoice or quote link for the free Int… |
-| 2026-11-19 20:51:44 | io.github.prompthumanhq/prompthuman | PromptHuman | 0.1.0 | Paid human judgment for AI agents: gut checks, how text reads, plausibility, lo… |
-| 2026-11-19 20:54:19 | com.citoyenapp/citoyen | Citoyen | 1.0.0 | Official statistics for 19 countries and the EU: series, comparisons, rankings,… |
-| 2026-11-19 20:55:59 | ai.subgrow/subgrow | Subgrow | 1.0.0 | Set up Subgrow from your assistant: it opens a subreddit for your brand and pos… |
-| 2026-11-19 21:02:56 | [io.github.NameetP/pdfmux](https://github.com/NameetP/pdfmux) | pdfmux | 1.8.8 | PDF-to-Markdown extraction that audits its own output and flags any extractor's… |
-| 2026-11-19 21:06:13 | com.iggyhq/iggy | Iggy | 1.0.0 | Gives ChatGPT and Claude your Business Brain and proven sales and marketing pla… |
-| 2026-11-19 21:10:51 | lt.apibase/pirkimai | Lithuania Public Procurement | 1.0.0 | Active Lithuanian public tenders (EU TED + CVP IS) for AI agents: search by CPV… |
-| 2026-11-19 21:13:56 | ai.tronmode/memory | TronMode Memory | 0.1.0 | Portable memory vault for every AI: save once, recall anywhere, with provenance… |
-| 2026-11-19 21:17:34 | [io.github.topdawgyq/oyapicks-mcp](https://github.com/oyapicks/oyapicks-mcp) | OyaPicks | 0.3.1 | Prediction-market data as MCP tools, paid per call in USDC on Algorand or Base… |
-| 2026-11-19 21:18:09 | uk.honey-guide/honeyguide | Honeyguide | 0.1.0 | Owner-verified London local services with prices, hours, languages and booking… |
+| 2026-11-19 21:21:14 | ai.xentropy/xentropy | Xentropy | 1.0.0 | Save, refresh and inspect the charts, tables and dashboards your AI assistant m… |
+| 2026-11-19 21:24:07 | com.rbacmap/rbacmap | RBAC Map | 1.1.0 | Least-privilege role lookup for Microsoft 365 and Azure built-in roles. |
+| 2026-11-19 21:26:29 | [io.github.mioku50/veyra-trust](https://github.com/mioku50/Veyra) | Veyra Trust | 1.0.0 | Check x402 payment terms and preview observed endpoint history on Arc mainnet. |
+| 2026-11-19 21:28:47 | dev.outbound/outbound | outbound.dev | 1.0.0 | Find B2B prospects, get verified work emails and phone numbers, and run email a… |
+| 2026-11-19 21:30:05 | io.github.sergiomaldo/gavel | Gavel | 0.1.0 | Register dispute clauses between agents, file disputes, add evidence and settle… |
+| 2026-11-19 21:31:36 | au.com.homereadyaustralia/rules | HomeReady Australia rules | 1.0.0 | Australian stamp duty, first home buyer and foreign buyer surcharge rules with… |
+| 2026-11-19 21:34:29 | [cc.qataroasis/cortex](https://github.com/lh123aa/cortex) |  | 4.0.1 | Local-first memory for Claude Code and Cursor: 33 MB Go binary, ~50 ms hybrid s… |
+| 2026-11-19 21:34:35 | [io.github.pdfik/pdfik-mcp](https://github.com/pdfik/pdfik-mcp) | PDFik | 0.1.0 | URL/HTML/Markdown to PDF, screenshots and Factur-X e-invoices via the PDFik API. |
+| 2026-11-19 21:35:45 | il.co.vibrate/vibrate | Vibrate | 1.0.0 | Send SMS and WhatsApp Business messages in Israel, manage contact lists and che… |
+| 2026-11-19 21:38:30 | is.emergent/emergent | Emergent Technologies | 1.0.0 | Emergent Technologies: agent-native applications, agent networks, AI consulting… |
+| 2026-11-19 21:47:33 | com.thebuilderssupply/catalog | The Builders Supply catalog | 1.0.1 | Read-only catalog of The Builders Supply: door and builders hardware, prices an… |
+| 2026-11-19 21:48:11 | [io.github.glastor-core/pii-veil](https://github.com/glastor-core/pii-veil) | GLASTOR pii-veil | 0.1.4 | Sub-millisecond reversible PII & secret anonymizer in Rust for LLMs, agents, an… |
+| 2026-11-19 21:51:18 | at.druckflotte/druckflotte | druckflotte.at Druckerzubehör | 1.1.0 | Original-Toner, Tinte, Druckerzubehör für Firmen in AT/DE: passend finden, Prei… |
+| 2026-11-19 21:51:56 | recipes.docker/docker-recipes | Docker Recipes | 1.0.0 | Search and fetch 870+ ready-to-run Docker Compose stacks for self-hosting and h… |
+| 2026-11-19 21:52:57 | io.aixenergy/map | AIxEnergy Map | 3.4.0 | Remote MCP server for data-center siting, ISO queues, and grid and capital data. |
+| 2026-11-19 21:54:18 | [io.github.jacobpmiller/whatsdownnow](https://github.com/jacobpmiller/whatsdownnow-mcp) | WhatsDownNow | 1.1.0 | Live outage status and alerts for 213 apps, AI APIs, and cloud services. No aut… |
+| 2026-11-19 22:00:12 | [io.github.Ausbizstack/website-audit](https://github.com/Ausbizstack/ausbizstack.github.io) | AusBizStack Website Audit | 1.0.0 | Bulk Lighthouse/Core Web Vitals, AI agent-readiness and llms.txt audits via Api… |
+| 2026-11-19 22:00:13 | [io.github.Ausbizstack/b2b-enrichment](https://github.com/Ausbizstack/ausbizstack.github.io) | AusBizStack B2B Enrichment | 1.0.0 | Company data, tech stack, DMARC/SPF, ABN, hiring and Shopify signals by domain… |
+| 2026-11-19 22:00:15 | [io.github.Ausbizstack/ausbizstack-all](https://github.com/Ausbizstack/ausbizstack.github.io) | AusBizStack Actors (all 12) | 1.0.0 | All 12 AusBizStack Apify Actors: B2B enrichment, email security, AI readiness,… |
+| 2026-11-19 22:00:59 | [io.github.laceykes/doc-model-safety-gate](https://github.com/laceykes/doc-model-safety-gate) | DOC Model Safety Gate | 0.1.1 | AI agents propose content changes; a human reviews them; only reviewed work can… |
+| 2026-11-19 22:04:12 | com.deeperesearch/deeper-research | Deeper Research | 1.0.0 | Deep research across Parallel, Gemini, Perplexity, Claude and more, with cited… |
+| 2026-11-19 22:06:40 | com.makespdf/makespdf |  | 1.1.0 | Compliant PDFs (PDF/A-2A + PDF/UA-1) from markdown or a compact DSL - fast, no… |
+| 2026-11-19 22:07:39 | ai.adstar/adstar | AdStar | 1.0.1 | Video ads for a product, made by AdStar. |
+| 2026-11-19 22:09:19 | [io.github.INotSleep/detour](https://github.com/INotSleep/Detour) | Detour | 0.5.0 | Work on your SSH servers without seeing passwords or keys: you approve each hos… |
+| 2026-11-19 22:09:46 | org.codethrift/codethrift | Codethrift | 1.0.0 | Search and read public-domain (CC0) code written by AI agents. Read-only, no ac… |
+| 2026-11-19 22:12:19 | [io.github.memeanalyst/google-ads-transparency-monitor-mcp](https://github.com/memeanalyst/google-ads-transparency-monitor-mcp) | Google Ads Transparency Scraper | 1.0.0 | Scrape any advertiser's Google Ads Transparency Center ads, with new-ad alerts,… |
+| 2026-11-19 22:12:20 | [io.github.memeanalyst/eu-ted-tenders-scraper-mcp](https://github.com/memeanalyst/eu-ted-tenders-scraper-mcp) | EU TED Tenders Scraper | 1.0.0 | Scrape EU TED tenders and awards from the official API, with new-notice alerts,… |
+| 2026-11-19 22:12:21 | [io.github.memeanalyst/vibe-code-security-scanner-mcp](https://github.com/memeanalyst/vibe-code-security-scanner-mcp) | Vibe Code Security Scanner | 1.0.0 | Scan any AI-built app for leaked API keys and open databases, A-F grade, by Mag… |
+| 2026-11-19 22:12:21 | [io.github.memeanalyst/buyer-intent-lead-finder-mcp](https://github.com/memeanalyst/buyer-intent-lead-finder-mcp) | Buyer Intent Lead Finder | 1.0.0 | Find people asking for a product like yours, scored buying-intent leads, by Mag… |
+| 2026-11-19 22:17:00 | [com.undocsend/mcp](https://github.com/itseasyco/undocsend-agents) | undocsend | 1.0.0 | Run undocsend dealrooms from your agent: build rooms, upload files, share links… |
+| 2026-11-19 22:20:12 | [io.github.3dComm/pipeforge-b2b-signals](https://github.com/3dComm/pipeforge-us-b2b-mcp-recipes) | PipeForge US B2B Signals (FMCSA, Permit… | 1.0.0 | Live US B2B intent signals: FMCSA, Permits, DNS/SSL, SEC Form D, CMS NPI-2, and… |
+| 2026-11-19 22:21:29 | co.workouter/workouter | Workouter | 1.0.0 | Create structured workouts and push them to Apple Watch or Garmin. |
 
 ## Data source
 
