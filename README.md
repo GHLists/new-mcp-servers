@@ -9,51 +9,66 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 07:22 UTC
+## Latest list — 2026-11-19 08:22 UTC
 
-New MCP servers published between 2026-11-19 06:20 UTC and 2026-11-19 07:22 UTC.
+New MCP servers published between 2026-11-19 07:22 UTC and 2026-11-19 08:22 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-19T07-22-27-084832Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-19T08-22-19-736047Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-19 06:23:23 | [io.github.skirberg/monte](https://github.com/skirberg/monte) | Monte statistics | 1.1.0 | Free statistics lessons, a glossary, and 11 solvers that show every step. Read-… |
-| 2026-11-19 06:24:00 | com.railflag/railflag | Railflag | 0.1.0 | Create, target and roll out feature flags. Production changes wait for a person… |
-| 2026-11-19 06:26:34 | [io.github.sanasiniai/shopee-tiktok-shop-mcp](https://github.com/sanasiniai/shopee-tiktok-shop-mcp) | SanasiniAI AI Connector: Shopee and Tik… | 1.0.0 | Connect Claude or ChatGPT to your Shopee and TikTok Shop stores: orders, ads, s… |
-| 2026-11-19 06:28:35 | [io.github.mrfentmen/first-aid-kit-expiry-mcp](https://github.com/mrfentmen/awesome-servers) | First Aid Kit Expiry Audit | 1.0.0 | First Aid Kit Expiry Audit: kit item expiry log. Real local JSON analysis, 25 M… |
-| 2026-11-19 06:32:17 | [io.github.mollymogi/media-context](https://github.com/mollymogi/media-context) | media-context (mctx) | 0.1.1 | Keep images, video & audio out of coding agent contexts — local FFmpeg + zero e… |
-| 2026-11-19 06:34:20 | de.thermosped/cold-chain | ThermoSped | 0.5.0 | Temperature-controlled direct runs with dedicated vehicles: service profile and… |
-| 2026-11-19 06:34:55 | ai.partnertax/tax-research | Partnertax Tax Research | 0.1.0 | Search US federal and state tax law: code, regs, forms, and citations, with rec… |
-| 2026-11-19 06:38:50 | work.agentexchange/finder | Paid API finder (x402/MPP), free | 1.0.0 | Free: find a pay-per-call API (x402/MPP) that answers a valid 402 right now; ch… |
-| 2026-11-19 06:42:20 | [io.github.ritvikindupuri/agentpot](https://github.com/ritvikindupuri/AgentPot) | AgentPot Secure Infrastructure Gateway | 1.0.0 | Remote MCP server with tools for email, shell, secrets, funds transfer, and URL… |
-| 2026-11-19 06:42:23 | io.github.sumitrmardy/ats-jobs-scraper | Company Jobs Scraper | 1.0.0 | All open jobs from Greenhouse, Lever, Ashby, Workday and other career sites, on… |
-| 2026-11-19 06:42:25 | io.github.autorender/first-new | First.new | 1.0.0 | Build, preview, edit, and publish web apps from a prompt with your First.new ac… |
-| 2026-11-19 06:43:46 | [app.getosmo/call-screening](https://github.com/Mountainheads-Private-limited/osmo-ai-plugins) | OsmO Call Screening | 1.0.0 | AI call screening for your number: screens spam calls, takes messages, shows mi… |
-| 2026-11-19 06:43:47 | [app.getosmo/customer-service-calls](https://github.com/Mountainheads-Private-limited/osmo-ai-plugins) | OsmO Customer Service Calls | 1.0.0 | AI calls customer care for you: finds the number, gets through the phone menu,… |
-| 2026-11-19 06:43:47 | [app.getosmo/booking-calls](https://github.com/Mountainheads-Private-limited/osmo-ai-plugins) | OsmO Booking Calls | 1.0.0 | AI phones restaurants and local businesses to book, move or cancel reservations… |
-| 2026-11-19 06:43:57 | dev.workers.mnpi.place-lookup/place-lookup | Postal codes and places | 1.0.0 | Postal code of a town and its state, county or district, or the places a code c… |
-| 2026-11-19 06:46:34 | ch.kord/kord | KORD | 2.1.0 | Prepare social-media drafts in one KORD workspace for human review. Draft-only… |
-| 2026-11-19 06:47:41 | com.nganhangquangngai/thue-hkd | Thuế hộ kinh doanh Việt Nam 2026 | 0.2.0 | Vietnam household business tax 2026 (VAT, PIT) with legal citations; savings an… |
-| 2026-11-19 06:49:10 | com.everybodyhasagun.agents/assoutarmory | AssOutArmory Gag Shop Catalog | 1.0.0 | Read-only catalog of AssOutArmory comedy printables and novelty desk toys. Joke… |
-| 2026-11-19 06:50:11 | [app.jobhunt/jobhunt](https://github.com/chrisstroud/jobhunt-connect) | JobHunt | 1.0.0 | Run your job search from your AI assistant: save jobs, tailor resumes, track ap… |
-| 2026-11-19 06:52:15 | com.hypoteky-online/clanky | Hypotéka Online | 1.0.0 | Search and cite Czech mortgage articles, calculations and primary sources from… |
-| 2026-11-19 06:52:57 | [io.github.hjma29/proliant-mcp](https://github.com/hjma29/proliant-mcp) | HPE ProLiant (iLO, Compute Ops Manageme… | 0.15.0 | Read-only AI tools for HPE ProLiant iLO, Compute Ops Management (GreenLake) and… |
-| 2026-11-19 06:57:30 | [io.github.nicenic-official/nicenic-mcp](https://github.com/nicenic-official/nicenic-mcp) | NiceNIC MCP | 1.0.0 | Check domain availability and prices, register and renew domains, and manage DN… |
-| 2026-11-19 06:59:30 | ai.novacut/novacut | Novacut | 1.0.0 | AI video editor: upload your raw footage, describe the video you want, and Nova… |
-| 2026-11-19 07:02:23 | [io.github.chenziyaos/weft](https://github.com/chenziyaos/weft) | Weft | 0.5.0 | Search local AI conversations by file or phrase and recall source turns. Four r… |
-| 2026-11-19 07:05:32 | io.github.sumitrmardy/amazon-product-scraper | Amazon Product Scraper | 1.0.0 | Amazon.com product price, rating, reviews count, availability and specs by ASIN… |
-| 2026-11-19 07:05:33 | io.github.sumitrmardy/web-search-api | Web Search API | 1.0.0 | Bing and DuckDuckGo results with snippets and readable page text for AI agents… |
-| 2026-11-19 07:05:34 | io.github.sumitrmardy/website-to-markdown | Website to Markdown | 1.0.0 | Convert URLs or whole websites to clean Markdown for LLMs and RAG; respects rob… |
-| 2026-11-19 07:05:35 | [io.github.mirasim-ai/computer-use](https://github.com/mirasim-ai/computer-use) | Mirasim Computer Use | 0.1.1-rc.11 | Drive browsers, macOS apps and Electron apps through their accessibility trees. |
-| 2026-11-19 07:10:50 | [dev.htsapi/mcp](https://github.com/rozetyp/htsapi-mcp) | htsapi.dev | 1.0.0 | HTS with its legal notes, 222,000+ CBP rulings with status, what they quote on… |
-| 2026-11-19 07:13:52 | [com.uptimemonitoring/mcp](https://github.com/uptimemonitoring/examples) |  | 1.0.3 | Agent-native uptime monitoring. Create, inspect, and assert monitor health. Fre… |
-| 2026-11-19 07:14:31 | [io.github.SoHardToMakeAName/RememberMe](https://github.com/SoHardToMakeAName/RememberMe) | RememberMe | 0.22.0 | 长期记忆 MCP server：记住用户是谁、经历过什么、情绪模式如何，跨会话不丢。 |
-| 2026-11-19 07:14:55 | com.onlystack/mcp | OnlyStack | 1.0.0 | Read-only access to an OnlyFans agency's OnlyStack data: fans, chats, earnings… |
-| 2026-11-19 07:14:55 | [io.github.corridordata/mcp-server](https://github.com/corridordata/mcp-server) | Corridor Data B2B Intelligence MCP Serv… | 1.1.0 | 20 B2B data tools via Apify: SEC Form D/8-K, FDA 510(k), GLEIF LEI, grants, ten… |
-| 2026-11-19 07:16:07 | com.californialicensingeducation/california-traffic-tools | California Licensing Education | 0.2.5 | English California traffic-school and court guidance with sources and review da… |
-| 2026-11-19 07:19:27 | com.ppftec/bandplain | Bandplain | 1.0.0 | Pay transparency rules: job-ad pay checks, ranges from pay bands, request deadl… |
-| 2026-11-19 07:19:27 | com.ppftec/shieldbook | Shieldbook | 1.0.0 | EU Cyber Resilience Act information: scope check, reporting deadlines, SBOM sum… |
-| 2026-11-19 07:21:57 | [io.github.roarose/stemseal](https://github.com/roarose/stemseal) | stemseal | 0.2.3 | Verified, sha256-locked calculation cells that small local LLMs call instead of… |
+| 2026-11-19 07:23:20 | io.github.czeti/autarcho-mcp | Autarcho | 0.1.1 | Open-model inference billed per generated token in USDC on Solana. |
+| 2026-11-19 07:23:27 | [com.monitive/mcp](https://github.com/monitive/examples) | Monitive | 1.0.0 | Agent-native uptime monitoring. Create, inspect, and assert monitor health. Fre… |
+| 2026-11-19 07:24:04 | [app.ai2human/humanizer](https://github.com/ai2humanapp/ai2human-mcp) | AI2Human | 1.0.0 | Humanize AI-written text and detect AI writing from any MCP-compatible agent. P… |
+| 2026-11-19 07:27:55 | [io.drint/drisp](https://github.com/drint-io/drisp-mcp) | Drisp | 1.0.0 | Put an app or website screenshot on a 3D device mockup (iPhone, iPad, MacBook,… |
+| 2026-11-19 07:31:24 | com.ppftec/eubinder | EuBinder | 1.0.0 | EU rules for online shops: obligations checklist, packaging registers, GPSR and… |
+| 2026-11-19 07:31:35 | [app.wizget/wizget](https://github.com/aqeelshamz/wizget-mcp) | Wizget | 0.1.0 | Lets your AI build and arrange live desktop widgets in the Wizget app for Windo… |
+| 2026-11-19 07:32:59 | [com.poindeo/poindeo-mcp](https://github.com/poindeo/poindeo-plugins) | Poindeo | 0.1.9 | AI agents drive Poindeo's video editor: zoom effects, captions, mosaics, frame… |
+| 2026-11-19 07:34:08 | nl.prijsverschil/mcp | Prijsverschil.nl | 1.0.0 | Dutch price comparison: SIM-only, internet, energy and product prices, plus ins… |
+| 2026-11-19 07:36:05 | com.krumzi/krumzi | Krumzi | 1.0.0 | Design tool for AI agents: editable, on-brand flyers, posts and carousels, not… |
+| 2026-11-19 07:38:30 | [io.github.CLNS-KR/grnt](https://github.com/CLNS-KR/GRNT) | GRNT — Korean Grant & Subsidy Intellige… | 0.2.0 | Korean grant and startup-funding eligibility checks with official reasons and s… |
+| 2026-11-19 07:43:53 | [xyz.apexfaucet/apex-dev](https://github.com/apexfaucet-hub/apex-x1-mcp) | APEX Developer, npm/PyPI Audit, GitHub… | 1.0.0 | Dev MCP: npm/PyPI OSV audit, GitHub health, CVE, tech-stack, URL threat, JSON/Q… |
+| 2026-11-19 07:44:44 | [io.github.mrfentmen/houston-astros-outing-compare-mcp](https://github.com/mrfentmen/awesome-servers) | Astros Outing Compare | 1.0.0 | Real local JSON analysis of astros outing in the Houston lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:44 | [io.github.mrfentmen/houston-astros-outing-cost-mcp](https://github.com/mrfentmen/awesome-servers) | Astros Outing Budget | 1.0.0 | Real local JSON analysis of astros outing in the Houston lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:45 | [io.github.mrfentmen/houston-astros-outing-index-mcp](https://github.com/mrfentmen/awesome-servers) | Astros Outing Archive | 1.0.0 | Real local JSON analysis of astros outing in the Houston lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:45 | [io.github.mrfentmen/houston-astros-outing-sim-mcp](https://github.com/mrfentmen/awesome-servers) | Astros Outing Simulator | 1.0.0 | Real local JSON analysis of astros outing in the Houston lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:47 | [io.github.mrfentmen/houston-astros-outing-track-mcp](https://github.com/mrfentmen/awesome-servers) | Astros Outing Tracker | 1.0.0 | Real local JSON analysis of astros outing in the Houston lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:47 | [io.github.mrfentmen/seattle-coffee-crawl-check-mcp](https://github.com/mrfentmen/awesome-servers) | Coffee Crawl Audit | 1.0.0 | Real local JSON analysis of coffee crawl in the Seattle lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:48 | [io.github.mrfentmen/seattle-coffee-crawl-compare-mcp](https://github.com/mrfentmen/awesome-servers) | Coffee Crawl Compare | 1.0.0 | Real local JSON analysis of coffee crawl in the Seattle lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:48 | [io.github.mrfentmen/seattle-coffee-crawl-cost-mcp](https://github.com/mrfentmen/awesome-servers) | Coffee Crawl Budget | 1.0.0 | Real local JSON analysis of coffee crawl in the Seattle lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:49 | [io.github.mrfentmen/seattle-coffee-crawl-index-mcp](https://github.com/mrfentmen/awesome-servers) | Coffee Crawl Archive | 1.0.0 | Real local JSON analysis of coffee crawl in the Seattle lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:50 | [io.github.mrfentmen/seattle-coffee-crawl-match-mcp](https://github.com/mrfentmen/awesome-servers) | Coffee Crawl Matcher | 1.0.0 | Real local JSON analysis of coffee crawl in the Seattle lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:50 | [io.github.mrfentmen/seattle-coffee-crawl-plan-mcp](https://github.com/mrfentmen/awesome-servers) | Coffee Crawl Planner | 1.0.0 | Real local JSON analysis of coffee crawl in the Seattle lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:51 | [io.github.mrfentmen/seattle-coffee-crawl-sim-mcp](https://github.com/mrfentmen/awesome-servers) | Coffee Crawl Simulator | 1.0.0 | Real local JSON analysis of coffee crawl in the Seattle lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:51 | [io.github.mrfentmen/seattle-coffee-crawl-track-mcp](https://github.com/mrfentmen/awesome-servers) | Coffee Crawl Tracker | 1.0.0 | Real local JSON analysis of coffee crawl in the Seattle lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:52 | [io.github.mrfentmen/seattle-ferry-commute-check-mcp](https://github.com/mrfentmen/awesome-servers) | Ferry Commute Audit | 1.0.0 | Real local JSON analysis of ferry commute in the Seattle lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:53 | [io.github.mrfentmen/seattle-ferry-commute-compare-mcp](https://github.com/mrfentmen/awesome-servers) | Ferry Commute Compare | 1.0.0 | Real local JSON analysis of ferry commute in the Seattle lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:53 | [io.github.mrfentmen/seattle-ferry-commute-cost-mcp](https://github.com/mrfentmen/awesome-servers) | Ferry Commute Budget | 1.0.0 | Real local JSON analysis of ferry commute in the Seattle lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:54 | [io.github.mrfentmen/seattle-ferry-commute-index-mcp](https://github.com/mrfentmen/awesome-servers) | Ferry Commute Archive | 1.0.0 | Real local JSON analysis of ferry commute in the Seattle lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:54 | [io.github.mrfentmen/seattle-ferry-commute-match-mcp](https://github.com/mrfentmen/awesome-servers) | Ferry Commute Matcher | 1.0.0 | Real local JSON analysis of ferry commute in the Seattle lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:55 | [io.github.mrfentmen/seattle-ferry-commute-plan-mcp](https://github.com/mrfentmen/awesome-servers) | Ferry Commute Planner | 1.0.0 | Real local JSON analysis of ferry commute in the Seattle lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:55 | [io.github.mrfentmen/seattle-ferry-commute-sim-mcp](https://github.com/mrfentmen/awesome-servers) | Ferry Commute Simulator | 1.0.0 | Real local JSON analysis of ferry commute in the Seattle lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:56 | [io.github.mrfentmen/seattle-ferry-commute-track-mcp](https://github.com/mrfentmen/awesome-servers) | Ferry Commute Tracker | 1.0.0 | Real local JSON analysis of ferry commute in the Seattle lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:57 | [io.github.mrfentmen/seattle-rain-gear-kit-check-mcp](https://github.com/mrfentmen/awesome-servers) | Rain Gear Kit Audit | 1.0.0 | Real local JSON analysis of rain gear kit in the Seattle lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:57 | [io.github.mrfentmen/seattle-rain-gear-kit-index-mcp](https://github.com/mrfentmen/awesome-servers) | Rain Gear Kit Archive | 1.0.0 | Real local JSON analysis of rain gear kit in the Seattle lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:58 | [io.github.mrfentmen/seattle-rain-gear-kit-match-mcp](https://github.com/mrfentmen/awesome-servers) | Rain Gear Kit Matcher | 1.0.0 | Real local JSON analysis of rain gear kit in the Seattle lane. 25 MCP tools, no… |
+| 2026-11-19 07:44:59 | [io.github.mrfentmen/seattle-rain-gear-kit-plan-mcp](https://github.com/mrfentmen/awesome-servers) | Rain Gear Kit Planner | 1.0.0 | Real local JSON analysis of rain gear kit in the Seattle lane. 25 MCP tools, no… |
+| 2026-11-19 07:48:41 | dev.workers.mnpi.airport-facts/airport-facts | Airport facts: codes, runways, frequenc… | 1.0.0 | Airport by IATA/ICAO code, airports serving a town, nearest airports. Runways,… |
+| 2026-11-19 07:49:03 | dev.workers.testbot-curt.rugcheck/solana-rugcheck | Solana Rug-Risk Check | 0.3.0 | Solana token rug-risk reports + tx explainer. Pay per call via x402 (USDC on So… |
+| 2026-11-19 07:51:48 | [io.github.rxolve/zpup](https://github.com/rxolve/zpup) |  | 0.1.0 | Write a small 3D scene as JSON, get fixable errors back, and see the flat SVG f… |
+| 2026-11-19 07:52:24 | com.ppftec/normbeleg | Normbeleg | 1.0.0 | EU e-invoices: validate XRechnung, ZUGFeRD/Factur-X and RO e-Factura, convert d… |
+| 2026-11-19 07:59:26 | com.fileion/fileion | Fileion | 1.0.0 | Read-only software directory: official sources, SHA-256 hashes and version hist… |
+| 2026-11-19 07:59:58 | is.epc/mcp | epc.is EPCIS Repository | 2026.11.0 | Read-only EPCIS 2.0 repository: trace products, query events, resolve GS1 Digit… |
+| 2026-11-19 08:04:41 | [io.github.spaumz/pcmasterrace-gaming](https://github.com/spaumz/pcmr-gaming) | PcMasterRace GAMING | 1.1.0 | PC game prices from Steam, GOG, Gamivo, G2A, Kinguin, Eneba: deals and upcoming… |
+| 2026-11-19 08:04:45 | ai.swapwire/contractor-licenses | Swapwire | 1.0.0 | California contractor license checks (CSLB): status, bond, workers' comp, quote… |
+| 2026-11-19 08:06:02 | com.esignstack/esignstack | eSignStack | 1.0.0 | Send documents for e-signature, see who has signed, send reminders and get sign… |
+| 2026-11-19 08:06:02 | com.esignstack/docs | eSignStack Docs | 1.0.0 | Search the eSignStack e-signature API, webhook and MCP docs. Public and read-on… |
+| 2026-11-19 08:07:36 | network.smartypants/smartypants | Smarty Pants (open models on Macs) | 1.1.0 | Exact open AI models on Apple Silicon Macs, priced per token: prices, model sea… |
+| 2026-11-19 08:14:09 | dev.workers.mnpi.prayer-times/prayer-times | Prayer times and sun times | 1.0.0 | Islamic prayer times (20+ methods) and sunrise/sunset for 34,000 towns or coord… |
+| 2026-11-19 08:14:12 | com.toldbird/toldbird | Toldbird | 1.27.0 | Set up Toldbird meeting contexts, topics and plans from an agent. Pro plan toke… |
+| 2026-11-19 08:18:56 | [io.github.codeonthetable/ipbulucu](https://github.com/codeonthetable/ipbulucu.org) | IPBulucu Network Tools | 1.0.0 | IP, DNS, TCP port, partial DNSBL and IPv4 subnet tools using ipbulucu.org. |
+| 2026-11-19 08:21:08 | rent.mera/mera-rent | MERA RENT | 1.0.0 | Humanoid robot hire with an operator for events: check availability, get a quot… |
+| 2026-11-19 08:22:05 | [io.github.gowinder/urlchart](https://github.com/gowinder/urlchart-mcp) | UrlChart | 1.0.0 | Render charts as PNG images from a URL — Google Image Charts / Image-Charts com… |
 
 ## Data source
 
