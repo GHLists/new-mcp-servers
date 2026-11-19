@@ -1,0 +1,37 @@
+created_at,server,title,version,repository,transports,description
+2026-11-19T04:22:42.900026Z,com.getadasitecheck/ada-site-check-discovery,ADA Site Check Discovery Tools,1.0.0,,streamable-http,"Read-only discovery for ADA Site Check, a WCAG 2.2 AA website accessibility audit service."
+2026-11-19T04:23:09.947332Z,com.getshieldcheck/agentcheck-discovery,AgentCheck Discovery Tools,1.0.0,,streamable-http,"Read-only discovery for AgentCheck, a visitor-side security review of AI chatbots and agents."
+2026-11-19T04:23:13.145705Z,com.addressriskreport/addressriskreport-discovery,AddressRiskReport Discovery Tools,1.0.0,,streamable-http,"Read-only discovery for AddressRiskReport, a property risk report service for US homebuyers."
+2026-11-19T04:27:57.978123Z,io.github.samuelrojas-dev/depquiet,depquiet,0.50.1,https://github.com/samuelrojas-dev/depquiet,,"Plans the change that closes your dependency alerts, verified with uv or Poetry."
+2026-11-19T04:28:14.895091Z,io.github.kesperinc/moosim-metaphysics,,5.5.90,https://github.com/kesperinc/moo-sim-app,streamable-http; sse,"Korean Saju, Da Liu Ren (720 Gwa), Compatibility, Taekil & HR Synergy MCP (ko/en/ja/zh)."
+2026-11-19T04:31:04.845945Z,com.amberflip/amberflip,Amberflip,1.0.1,https://github.com/ismoil77/amberflip-mcp,,"Convert, compress and edit pictures, video, audio and PDFs offline. Nothing is uploaded."
+2026-11-19T04:31:10.263722Z,io.github.algorover/algorover-research,AlgoRover Research,0.1.5,https://github.com/algorover/algorover-research,streamable-http,"Discover trading strategies, run historical backtests, and inspect research reports."
+2026-11-19T04:32:30.620028Z,com.thedealsdatabase/deals,The Deals Database,1.0.0,,streamable-http,"Search current deals, coupons and offers from real businesses worldwide. Read-only, no login."
+2026-11-19T04:32:31.708394Z,io.github.domdomegg/filesystem-mcp,Filesystem,2.0.0,https://github.com/domdomegg/filesystem-mcp.git,,"Read, create, and edit files."
+2026-11-19T04:32:32.088147Z,io.github.domdomegg/shell-exec-mcp,Shell Exec,2.0.0,https://github.com/domdomegg/shell-exec-mcp.git,,Execute bash commands with background job support.
+2026-11-19T04:32:32.649885Z,io.github.domdomegg/computer-use-mcp,Computer Use,2.0.0,https://github.com/domdomegg/computer-use-mcp.git,,"Control your computer with screenshots, mouse, and keyboard automation."
+2026-11-19T04:32:53.699329Z,tr.com.minikgunluk/minikgunluk,Minik Günlük,1.1.0,,streamable-http,"Turkish parenting guides (ages 0-6), videos for parents and Minik Günlük app info. Read-only."
+2026-11-19T04:34:00.149218Z,tech.recoup-iq/uk-company-facts,TrustCheck by RecoupIQ: UK Company Facts,1.2.0,,streamable-http,"Dated UK company facts from public records, with a signed credential check. Free tools need no key."
+2026-11-19T04:36:21.531488Z,fi.raising/raising,Raising.fi,1.0.0,,streamable-http,"Live startup funding rounds, lead investors, and decision-makers with rated emails and LinkedIn."
+2026-11-19T04:38:58.004351Z,com.ai2fin/fin,2Fin: Intelligent ledger for your assistant,2.1.0,,streamable-http,"Intelligent ledger for your assistant: sorted transactions, bills, source-cited tax, BAS/VAT prep."
+2026-11-19T04:39:02.737115Z,ai.servicefront/front-desk,ServiceFront,1.0.0,,streamable-http,"Ask about a local service business on ServiceFront: hours, service area, owner-confirmed prices."
+2026-11-19T04:39:25.876186Z,io.github.galih752/indonesian-news,Indonesian News,1.0.0,https://github.com/galih752/indonesia-mcp-servers,streamable-http,"Indonesian headlines with full article text, keyword search and article lookup."
+2026-11-19T04:39:26.848925Z,io.github.galih752/glints-jobs,Glints Jobs Indonesia,1.0.0,https://github.com/galih752/indonesia-mcp-servers,streamable-http,"Search Glints jobs in Indonesia with salary, skills and city; fetch full job details by URL."
+2026-11-19T04:39:27.823322Z,io.github.galih752/indonesia-data,Indonesia Data,1.0.0,https://github.com/galih752/indonesia-mcp-servers,streamable-http,"Indonesian data for agents: news, jobs, IDX stocks and World Bank macro."
+2026-11-19T04:40:03.711601Z,io.botpass.mcp/alianzateam,Alianza Team,1.0.20261119044002,,streamable-http,Official information and actions of Alianza Team (alianzateam.us)
+2026-11-19T04:40:04.74031Z,io.botpass.mcp/team-solutions,Team Solutions Mexico,1.0.20261119044003,,streamable-http,Official information and actions of Team Solutions Mexico (team-solutions.mx)
+2026-11-19T04:40:05.558794Z,io.botpass.mcp/teamfoodservice,Team Foods Colombia S.A.,1.0.20261119044004,,streamable-http,Official information and actions of Team Foods Colombia S.A. (teamfoodservice.co)
+2026-11-19T04:40:54.074598Z,io.github.tukorama/mcp-server-polymarket,Polymarket (unofficial),0.1.0,https://github.com/tukorama/mcp-server-polymarket,,"Polymarket predictions and perps: market data, accounts and gated trading. Unofficial."
+2026-11-19T04:46:10.308485Z,io.github.Ar9av/obsidian-wiki,obsidian-wiki,2026.11.7,https://github.com/Ar9av/obsidian-wiki,streamable-http,"Memory for agents in a markdown vault you own: search, read, write, recap, context packs."
+2026-11-19T04:51:28.911868Z,com.aimlrounds/aimlrounds,AIML Rounds,1.0.0,,streamable-http,"Free AI/ML interview prep: lessons, system design, quizzes, mock interviews and AI/ML jobs in India."
+2026-11-19T04:56:07.223026Z,com.kollguard/kollguard,KollGuard,0.3.1,,streamable-http,"Read-only access to your KollGuard SOC 2 / HIPAA findings, posture, scans and tickets."
+2026-11-19T05:00:20.797019Z,dev.workers.mnpi.package-maintenance/package-maintenance,Package maintenance status,1.0.2,,streamable-http,"Is a package still maintained, deprecated or archived? npm, PyPI, Cargo, Go, Maven, NuGet, RubyGems."
+2026-11-19T05:00:52.869789Z,com.kollguard/mcp-guard,KollGuard MCP Guard,0.1.1,,,Proxy that enforces KollGuard allow / approve / deny tool policy in front of any MCP server.
+2026-11-19T05:00:53.220157Z,com.kollguard/kollguard-mcp,"KollGuard (local, stdio)",0.2.1,,,"Read your SOC 2 / HIPAA findings, posture and scans in any MCP client. Read-only by default."
+2026-11-19T05:01:33.952465Z,au.com.byronwebstudio.linepref/linepref,linepref: check before an AI agent calls a business,1.0.0,,streamable-http,"Before an AI agent phones a business: is there an online booking link, has it opted out of AI calls?"
+2026-11-19T05:05:00.252855Z,tech.learnt/workspace,Learnt,1.0.0,,streamable-http,"Build and run a white-label training workspace: courses, quizzes, client organizations and progress."
+2026-11-19T05:06:35.744321Z,io.foodsafetydata/usda-establishments,FoodSafetyData.io,1.0.0,,streamable-http,"Look up the USDA plant behind any meat or poultry package code: FSIS Salmonella categories, recalls."
+2026-11-19T05:06:36.613801Z,com.feewright/feewright,Feewright,1.0.0,,streamable-http,"Time tracking and invoicing for consultants: log billable time, see unbilled work, draft invoices."
+2026-11-19T05:08:26.037705Z,io.github.infino-ai/code-context,,0.6.0,https://github.com/infino-ai/code-context,,SuperGrep: retrieval for AI coding agents. find and sql over a local index; search in the cloud.
+2026-11-19T05:18:54.232672Z,com.aithanksu/thanks,Thanks,0.2.0,https://github.com/aithanksu/thanks-mcp,streamable-http,"Your agent thanks the sites, docs, repos and APIs that helped it, on public boards."
+2026-11-19T05:19:36.340698Z,in.stocksdeveloper/strategy-lab,Strategy Lab by Stocks Developer,1.0.0,,streamable-http,"Backtest your own trading idea on past Indian market data: stocks intraday, index futures, options."
