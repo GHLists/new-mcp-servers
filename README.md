@@ -9,51 +9,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 17:19 UTC
+## Latest list — 2026-11-19 18:21 UTC
 
-New MCP servers published between 2026-11-19 16:21 UTC and 2026-11-19 17:19 UTC.
+New MCP servers published between 2026-11-19 17:19 UTC and 2026-11-19 18:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-19T17-19-31-800779Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-19T18-21-57-564432Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-19 16:24:20 | [io.github.comficker/checklist-templates](https://github.com/comficker/checklist-templates) |  | 0.1.0 | 410 checklist templates (moving, cleaning, packing, wedding, inspections) with… |
-| 2026-11-19 16:24:48 | [app.learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) | LearnHouse | 1.4.5 | Build, edit and run courses, learning paths and communities in your LearnHouse… |
-| 2026-11-19 16:27:44 | net.agentshopping/agentshopping | AgentShopping | 0.1.0 | Nordic prices for kids' gear, sports/football, menswear and electronics. Affili… |
-| 2026-11-19 16:27:51 | org.inkdraft/inkdraft | InkDraft - iPad handwriting | 0.2.0 | Read original page images from your current synced InkDraft iPad document with… |
-| 2026-11-19 16:31:16 | com.apix402data/x402-data-api | x402 Data API (Crypto, DeFi, SEC EDGAR,… | 4.8.0 | 32 pay-per-call AI, crypto, DeFi, SEC EDGAR, and search tools via x402 USDC (Ba… |
-| 2026-11-19 16:33:50 | [com.yariinfotech/server](https://github.com/yari-infotech/yari_infotech.git) |  | 1.0.0 | Model Context Protocol interface for Yari Infotech engineering & architectural… |
-| 2026-11-19 16:35:11 | [io.xdataapi/xdataapi](https://github.com/xdataapi/xdataapi) | xdataapi: X (Twitter) data | 0.3.3 | Read-only public X (Twitter) data: profiles, tweets, threads, followers, search… |
-| 2026-11-19 16:35:49 | io.github.volodymyrslipak/aviz-mcp | AVIZ | 0.2.2 | Build audio-reactive music visuals for AVIZ: scenes tied to bass, kick and drop… |
-| 2026-11-19 16:35:54 | [io.github.axute/worklog-mcp](https://github.com/axute/worklog-mcp) | Worklog | 1.1.0 | Work log for AI agents: record, search and report finished work, with web view… |
-| 2026-11-19 16:36:09 | io.github.plainbyte-tools/shopify-variant-metafields-planner | PlainByte Shopify Variant Metafields CS… | 0.0.8 | Paid Apify Actor to validate Shopify variant metafields CSV and plan GraphQL; n… |
-| 2026-11-19 16:38:26 | com.nindzia/pulsepost | PulsePost | 1.0.0 | Social media scheduler that lets AI agents draft, schedule and publish posts to… |
-| 2026-11-19 16:39:14 | com.irlsend/postcards | IRLsend Postcards | 1.0.0 | Design a real postcard in the chat and mail it in the US. Designing is free; ma… |
-| 2026-11-19 16:40:14 | com.mypivots/mypivots | MyPivots Daily Notes | 1.0.0 | Pivot points, Crabel patterns and technicals for stocks, futures, forex, indice… |
-| 2026-11-19 16:42:53 | com.tracevero/registry | TraceVero | 2.0.0 | Search and compare public MCP servers. Every value carries its source and colle… |
-| 2026-11-19 16:48:12 | com.loyaltie/catalog | Loyaltie | 1.0.0 | Everyday products from independent brands in one cart; the person signs in and… |
-| 2026-11-19 16:50:20 | [com.themeaningofnumbers/numerology](https://github.com/ellelion/themeaningofnumbers) | The Meaning of Numbers | 1.0.0 | Numerology for AI agents: life path, destiny, soul urge, angel number meanings.… |
-| 2026-11-19 16:51:01 | com.intentrax/mcp | Intentrax proof verification | 0.1.0 | Keyless, read-only checks of Intentrax AI-agent execution proofs. Never execute… |
-| 2026-11-19 16:51:20 | il.co.tagli/commerce | TAGLI - Branded Promotional Products | 2.0.0 | B2B branded merchandise, promotional products, catalog search, pricing and quot… |
-| 2026-11-19 16:52:42 | [io.github.robd-hub/cheap-first](https://github.com/robd-hub/cheap-first) | Cheap First | 0.1.0 | Answers cheaply first, then escalates to a premium model only when a checker fa… |
-| 2026-11-19 16:52:44 | [io.github.robd-hub/agent-report-card](https://github.com/robd-hub/agent-report-card) | Agent Report Card | 0.1.0 | Look up independent A to F grades for AI agents before you hire one. |
-| 2026-11-19 16:56:59 | com.orbb.mcp/research | Orbb Research | 1.0.0 | Who knows whom and how well: find who could introduce you, from the public prof… |
-| 2026-11-19 16:57:55 | [io.usefulapi/booxi](https://github.com/m190/usefulapi-mcp) | Booxi MCP by usefulapi | 1.0.0 | Read services, staff, group events and free time slots in Booxi. |
-| 2026-11-19 16:57:55 | [io.usefulapi/retailcloud-pos](https://github.com/m190/usefulapi-mcp) | RetailCloud MCP by usefulapi | 1.0.0 | Read products, orders and purchase orders; update stock, costs, tracking in Ret… |
-| 2026-11-19 16:57:55 | [io.usefulapi/auftragsdesk](https://github.com/m190/usefulapi-mcp) | AuftragsDesk MCP by usefulapi | 1.0.0 | Read orders and customers; create orders, customers and status changes in Auftr… |
-| 2026-11-19 16:57:55 | [io.usefulapi/sage-sales-management](https://github.com/m190/usefulapi-mcp) | Sage Sales Management MCP by usefulapi | 1.0.0 | Read accounts, contacts, opportunities; create records and update deals in Sage… |
-| 2026-11-19 17:00:26 | com.chatfyre/chatfyre | ChatFyre — Instagram DM automation | 1.0.0 | Create and manage Instagram DM and comment-reply automations by talking to Clau… |
-| 2026-11-19 17:01:54 | lt.apibase/vardai | Lithuanian Name Declension | 1.0.0 | Lithuanian names in all 7 cases and the vocative for e-mail greetings; checks g… |
-| 2026-11-19 17:02:01 | it.bikerlink/real | BikerLink REAL | 1.0.0 | Motorcycle travel: Punti Biker, Smart Stations, PhotoPass and human-verified se… |
-| 2026-11-19 17:02:30 | com.pebblelaunch/launches | PebbleLaunch | 0.1.0 | Submit your product to PebbleLaunch daily launches, track its status, and read… |
-| 2026-11-19 17:04:33 | dev.workers.impaktdev.actor-api-proxy/impakt-data-tools | Impakt Data Tools | 1.0.0 | Agent data tools: company jobs, SEC Form D leads, new businesses, email/domain… |
-| 2026-11-19 17:06:51 | [io.github.blainomd/solvinghealth-data-tools](https://github.com/blainomd/solvinghealth-data-tools) | SolvingHealth federal health data | 1.1.0 | Read-only US federal health data with sources: NPI, FDA 510(k), recalls, trials… |
-| 2026-11-19 17:07:02 | [io.usefulapi/bluecamroo](https://github.com/m190/usefulapi-mcp) | BlueCamroo MCP by usefulapi | 1.0.0 | Search organizations, read cases and invoices, add tasks, and add or update peo… |
-| 2026-11-19 17:07:02 | [io.usefulapi/sugarcrm](https://github.com/m190/usefulapi-mcp) | SugarCRM MCP by usefulapi | 1.0.0 | List, filter and count records, read dropdown values, and create or update reco… |
-| 2026-11-19 17:11:34 | [io.github.kurpeeren/copperflow](https://github.com/kurpeeren/copperflow) | copperflow | 0.5.1 | Design PCBs with an agent: schematic, placement, autorouting, DRC, Gerber, BOM… |
-| 2026-11-19 17:12:38 | io.groundtrace/groundtrace | Groundtrace | 1.0.0 | US construction projects before they are built, and who is on them, from public… |
-| 2026-11-19 17:13:41 | [io.github.auragridcorp-rgb/auragrid](https://github.com/auragridcorp-rgb/auragrid) |  | 0.3.0 | Bitcoin fee and Lightning data (L402, free samples) and U.S. EIA/USGS/NOAA feed… |
-| 2026-11-19 17:16:09 | [io.github.mrtero22/9eye](https://github.com/mrtero22/9eye) | 9eye | 0.2.0 | Broadcast scheduling and TV traffic: layouts, plans, playlists and ad campaigns… |
+| 2026-11-19 17:20:00 | store.getsoma/soma-brewing | SOMA Non-Alcoholic Craft Beer | 1.4.1 | SOMA: five beers, four formats, nutrition estimates, pre-order links; waitlist… |
+| 2026-11-19 17:20:28 | io.groundtrace/construction-projects | Groundtrace: US construction projects a… | 1.0.1 | US solar, wind, storage, data center and building projects: who builds them, co… |
+| 2026-11-19 17:25:49 | io.soclever/soclever | soclever | 0.9.0 | Get better at what your AI knows you need to improve. |
+| 2026-11-19 17:28:09 | io.github.sortspoke/lossrunguru-mcp | LossRunGuru | 0.1.1 | Extract claims from insurance loss runs and save them as JSON, CSV or Excel. |
+| 2026-11-19 17:30:18 | com.gatrends/trend-radar | GAtrends trend radar | 1.0.0 | Free trend radar for games and tech: what is spiking now in Steam, news, Reddit… |
+| 2026-11-19 17:30:53 | [io.github.phalkmin/trendzeist-mcp](https://github.com/phalkmin/trendzeist-mcp) | Trendzeist – Google Trends for content… | 0.6.2 | Keyless MCP for content ideation and AEO: Google Trends, News, Wikipedia and ci… |
+| 2026-11-19 17:33:18 | [com.cgajs/cityvistion-mcp](https://github.com/cgajs/cityvistion-mcp) | CityVistion MCP (CityEngine / CGA.js /… | 0.1.2 | NL→CGA rules, CGA→3D(GLB) compile & official-engine parse for CityEngine/CGA.js… |
+| 2026-11-19 17:34:25 | io.citemark/citemark | Citemark | 1.0.0 | Check if ChatGPT and Claude recommend your product, who they name instead and t… |
+| 2026-11-19 17:36:39 | com.meltvalue/meltvalue | MeltValue | 1.0.0 | Live gold, silver, platinum and palladium spot prices plus melt value math for… |
+| 2026-11-19 17:36:54 | com.casasdevaradero/casas | Casas de Varadero | 1.0.0 | Casas de renta verificadas en Varadero, Cuba: buscar por fechas y personas y pe… |
+| 2026-11-19 17:41:53 | [com.webmcp-eval/webmcp-eval](https://github.com/fxops-ai/webmcp-eval-mcp) | WebMCP Eval | 1.0.1 | Evaluate one public URL for WebMCP readiness: intent, tools observed, recommend… |
+| 2026-11-19 17:42:46 | uk.co.sisoco/uk-companies-house-ownership | Sisoco One | 0.1.0 | No sign-up. UK companies, PSC/beneficial owners, KYB: Companies House, Sirene,… |
+| 2026-11-19 17:44:06 | com.changerella/app | Changerella — crypto swap aggregator | 1.0.0 | Compare live quotes from instant crypto exchangers, with KYC ratings, and get a… |
+| 2026-11-19 17:45:54 | io.github.merrowick-apps/merrowick-tools |  | 0.2.0 | Website screenshots (PNG/JPEG/PDF) and PDF/DOCX/image to Markdown with OCR, via… |
+| 2026-11-19 17:49:47 | app.wefill/wefill | Wefill | 1.0.0 | Shared shopping lists: add items, see what is needed and tick items off as boug… |
+| 2026-11-19 17:50:45 | [io.github.NathanAIoxr/global-bounties](https://github.com/NathanAIoxr/Nathan-AI-Sovereign-Core) | Nathan AI Global Bounties | 1.0.0 | Read-only directory of source-checked mathematics prizes and science challenges… |
+| 2026-11-19 17:51:09 | [com.yourfinancejob/job-tracker](https://github.com/sophron-eu/yourfinancejob-mcp) | Your Finance Job: finance job board and… | 1.5.0 | Job board and application tracker for finance, trading and quant careers. 41 to… |
+| 2026-11-19 17:54:45 | [io.github.hal9ai/fetch-url](https://github.com/hal9ai/mcp.build) | Fetch URL | 0.0.1 | Fetch and extract the text content of any URL. |
+| 2026-11-19 17:54:47 | [io.github.hal9ai/run-python](https://github.com/hal9ai/mcp.build) | Run Python | 0.0.2 | Run Python code from natural language prompts, with optional PyPI package insta… |
+| 2026-11-19 17:54:47 | [io.github.hal9ai/search-web](https://github.com/hal9ai/mcp.build) | Search Web | 0.0.1 | Search the web from natural language prompts. |
+| 2026-11-19 17:54:48 | [io.github.hal9ai/send-email](https://github.com/hal9ai/mcp.build) | Send Email | 0.0.3 | Send emails from natural language prompts. |
+| 2026-11-19 17:55:26 | [io.github.MaxxSomers1220/rigbys-cloud](https://github.com/MaxxSomers1220/rigbys-cloud-mcp) | Rigby's Cloud Grants Feed | 1.0.0 | US grants research, 4 read-only tools. From $1 once / 90 days from redemption.… |
+| 2026-11-19 17:55:59 | app.itmly/itmly | itmly | 1.0.0 | Let your assistant search, add, edit, lend, and import your itmly catalogue. |
+| 2026-11-19 18:01:53 | com.brshot/brshot | BrShot | 1.0.0 | Quote and run image, video and audio models from your agent. Credits are shown… |
+| 2026-11-19 18:05:25 | io.github.SaqibNaseer404/outboundauth | OutboundAuth Deliverability | 1.0.0 | Free SPF, DKIM and DMARC checks for any domain, as MCP tools for AI agents. |
+| 2026-11-19 18:06:35 | [io.github.sidorenkav-collab/botarmor](https://github.com/sidorenkav-collab/botarmor-mcp) |  | 0.1.1 | Crash-test chatbots and AI agents: 12 attack levels, A-F grade, ready-to-paste… |
+| 2026-11-19 18:10:18 | io.github.opensylva/silvalabs | SilvaLabs | 1.0.0 | Personal knowledge base MCP: agents read only materials you open. |
+| 2026-11-19 18:13:02 | [io.github.RitualDev-Lab/agentshield](https://github.com/RitualDev-Lab/AgentShield) | AgentShield Enterprise Zero-Leak Secret… | 0.2.2 | Enterprise Zero-Leak Secret Defense & Kernel Sandbox for Autonomous AI Agents |
+| 2026-11-19 18:15:09 | app.foxli/foxli | Foxli | 1.0.0 | Draft, schedule and publish social posts and read analytics across 7 platforms. |
+| 2026-11-19 18:18:10 | [io.github.ak10082247-max/action2mcp](https://github.com/ak10082247-max/action2mcp) | Action2MCP Custom GPT Action to Remote… | 1.0.0 | Compile retiring OpenAI Custom GPT Actions into Cloudflare Remote MCP & SKILL.m… |
+| 2026-11-19 18:18:14 | [io.github.RitualDev-Lab/web-sec-auditor](https://github.com/RitualDev-Lab/web-sec-auditor) | WebSecAuditor AI Cybersecurity & Vulner… | 1.1.1 | Enterprise-grade AI vulnerability auditor for web applications, APIs, and codeb… |
+| 2026-11-19 18:19:00 | [io.github.RitualDev-Lab/devshelf](https://github.com/RitualDev-Lab/DevShelf) | DevShelf Developer Directory & Tool Dis… | 1.1.3 | Discover 570+ developer tools, free APIs, AI agents, and open-source libraries. |
+| 2026-11-19 18:19:19 | [cloud.blitz/mcp](https://github.com/blitzworks-io/blitz-cloud-mcp) | blitz.cloud | 1.1.0 | Host apps in the EU from your assistant: App Store, Docker, GitHub, code withou… |
+| 2026-11-19 18:21:42 | [io.github.RitualDev-Lab/mcp-monetize](https://github.com/RitualDev-Lab/mcp-monetize) | MCP Monetize - Drop-in Billing & Capabi… | 0.1.3 | Drop-in billing, paywalls, and capability token middleware for MCP servers. |
 
 ## Data source
 
