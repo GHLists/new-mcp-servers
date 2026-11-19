@@ -9,62 +9,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 09:21 UTC
+## Latest list — 2026-11-19 10:19 UTC
 
-New MCP servers published between 2026-11-19 08:22 UTC and 2026-11-19 09:21 UTC.
+New MCP servers published between 2026-11-19 09:21 UTC and 2026-11-19 10:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-19T09-21-48-284877Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-19T10-19-59-315504Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-19 08:28:13 | com.kinganlogic/partizan | Partizan | 1.0.0 | Look up Base USDC price ceilings for private physical-asset research. |
-| 2026-11-19 08:28:25 | [io.usefulapi/teamsnap](https://github.com/m190/usefulapi-mcp) | TeamSnap MCP by usefulapi | 1.0.0 | Read teams, rosters, events and locations; create team events in TeamSnap. |
-| 2026-11-19 08:28:38 | io.github.tcmartin/versabot | Versabot | 2026.11.1 | Marketing workspace for small businesses and agencies: leads, CRM, social posts… |
-| 2026-11-19 08:29:29 | [io.github.YaakovTzedek/tzedek-ai-mcp](https://github.com/YaakovTzedek/tzedek-ai-mcp) | Learn AI with Yaakov Tzedek | 1.0.0 | Search and read practical AI guides, AI courses, learning paths and AI news fro… |
-| 2026-11-19 08:30:24 | com.nganhangquangngai/font-tieng-viet | Font tiếng Việt: kiểm tra dấu và gợi ý | 0.1.0 | Check if fonts support Vietnamese diacritics (134 chars tested) and get font pa… |
-| 2026-11-19 08:32:39 | [io.github.lahma/claude-roslyn-lsp](https://github.com/lahma/claude-roslyn-lsp) |  | 0.9.0 | C# semantic rename, code actions, fix-all, formatting and diagnostics via Micro… |
-| 2026-11-19 08:38:01 | [io.github.HyunSeob/iphone-cli](https://github.com/HyunSeob/iphone-cli) | iphone-cli (iph) | 0.1.7 | Control any app on a real iPhone (iOS 27+) via accessibility tree. No Xcode or… |
-| 2026-11-19 08:39:41 | io.github.gmiezitis/gpueuro | gpueuro: EU GPU cloud prices | 1.0.0 | Read-only EU cloud GPU prices from 17 providers, in EUR per GPU-hour, checked d… |
-| 2026-11-19 08:43:21 | [io.github.mrfentmen/london-rain-gear-kit-compare-mcp](https://github.com/mrfentmen/awesome-servers) | Rain Gear Kit Compare | 1.0.0 | Real local JSON analysis of rain gear kit in the London lane. 25 MCP tools, no… |
-| 2026-11-19 08:43:21 | [io.github.mrfentmen/london-rain-gear-kit-cost-mcp](https://github.com/mrfentmen/awesome-servers) | Rain Gear Kit Budget | 1.0.0 | Real local JSON analysis of rain gear kit in the London lane. 25 MCP tools, no… |
-| 2026-11-19 08:43:22 | [io.github.mrfentmen/london-rain-gear-kit-index-mcp](https://github.com/mrfentmen/awesome-servers) | Rain Gear Kit Archive | 1.0.0 | Real local JSON analysis of rain gear kit in the London lane. 25 MCP tools, no… |
-| 2026-11-19 08:43:22 | [io.github.mrfentmen/london-rain-gear-kit-sim-mcp](https://github.com/mrfentmen/awesome-servers) | Rain Gear Kit Simulator | 1.0.0 | Real local JSON analysis of rain gear kit in the London lane. 25 MCP tools, no… |
-| 2026-11-19 08:43:23 | [io.github.mrfentmen/london-rain-gear-kit-track-mcp](https://github.com/mrfentmen/awesome-servers) | Rain Gear Kit Tracker | 1.0.0 | Real local JSON analysis of rain gear kit in the London lane. 25 MCP tools, no… |
-| 2026-11-19 08:43:23 | [io.github.mrfentmen/paris-boulangerie-tour-check-mcp](https://github.com/mrfentmen/awesome-servers) | Boulangerie Tour Audit | 1.0.0 | Real local JSON analysis of boulangerie tour in the Paris lane. 25 MCP tools, n… |
-| 2026-11-19 08:43:33 | com.votexpay/votexpay |  | 1.0.0 | Human-approved payments for AI agents: the agent prepares the purchase, a perso… |
-| 2026-11-19 08:43:36 | [io.github.mrfentmen/paris-boulangerie-tour-index-mcp](https://github.com/mrfentmen/awesome-servers) | Boulangerie Tour Archive | 1.0.0 | Real local JSON analysis of boulangerie tour in the Paris lane. 25 MCP tools, n… |
-| 2026-11-19 08:43:36 | [io.github.mrfentmen/paris-boulangerie-tour-match-mcp](https://github.com/mrfentmen/awesome-servers) | Boulangerie Tour Matcher | 1.0.0 | Real local JSON analysis of boulangerie tour in the Paris lane. 25 MCP tools, n… |
-| 2026-11-19 08:43:37 | [io.github.mrfentmen/paris-boulangerie-tour-plan-mcp](https://github.com/mrfentmen/awesome-servers) | Boulangerie Tour Planner | 1.0.0 | Real local JSON analysis of boulangerie tour in the Paris lane. 25 MCP tools, n… |
-| 2026-11-19 08:43:37 | [io.github.mrfentmen/paris-boulangerie-tour-sim-mcp](https://github.com/mrfentmen/awesome-servers) | Boulangerie Tour Simulator | 1.0.0 | Real local JSON analysis of boulangerie tour in the Paris lane. 25 MCP tools, n… |
-| 2026-11-19 08:43:43 | [io.github.mrfentmen/paris-metro-navigate-check-mcp](https://github.com/mrfentmen/awesome-servers) | Metro Navigate Audit | 1.0.0 | Real local JSON analysis of metro navigate in the Paris lane. 25 MCP tools, no… |
-| 2026-11-19 08:43:44 | [io.github.mrfentmen/paris-metro-navigate-compare-mcp](https://github.com/mrfentmen/awesome-servers) | Metro Navigate Compare | 1.0.0 | Real local JSON analysis of metro navigate in the Paris lane. 25 MCP tools, no… |
-| 2026-11-19 08:43:45 | [io.github.mrfentmen/paris-metro-navigate-cost-mcp](https://github.com/mrfentmen/awesome-servers) | Metro Navigate Budget | 1.0.0 | Real local JSON analysis of metro navigate in the Paris lane. 25 MCP tools, no… |
-| 2026-11-19 08:43:45 | [io.github.mrfentmen/paris-metro-navigate-index-mcp](https://github.com/mrfentmen/awesome-servers) | Metro Navigate Archive | 1.0.0 | Real local JSON analysis of metro navigate in the Paris lane. 25 MCP tools, no… |
-| 2026-11-19 08:43:46 | [io.github.mrfentmen/paris-metro-navigate-match-mcp](https://github.com/mrfentmen/awesome-servers) | Metro Navigate Matcher | 1.0.0 | Real local JSON analysis of metro navigate in the Paris lane. 25 MCP tools, no… |
-| 2026-11-19 08:43:46 | [io.github.mrfentmen/paris-metro-navigate-plan-mcp](https://github.com/mrfentmen/awesome-servers) | Metro Navigate Planner | 1.0.0 | Real local JSON analysis of metro navigate in the Paris lane. 25 MCP tools, no… |
-| 2026-11-19 08:43:47 | [io.github.mrfentmen/paris-metro-navigate-sim-mcp](https://github.com/mrfentmen/awesome-servers) | Metro Navigate Simulator | 1.0.0 | Real local JSON analysis of metro navigate in the Paris lane. 25 MCP tools, no… |
-| 2026-11-19 08:43:47 | [io.github.mrfentmen/paris-metro-navigate-track-mcp](https://github.com/mrfentmen/awesome-servers) | Metro Navigate Tracker | 1.0.0 | Real local JSON analysis of metro navigate in the Paris lane. 25 MCP tools, no… |
-| 2026-11-19 08:45:05 | com.localexo/panel | Localexo | 1.0.0 | Prospección web para agencias: campañas, auditorías, oportunidades y propuestas… |
-| 2026-11-19 08:47:23 | com.git--a/git-a | Git A | 0.4.0 | Many AI agents on one repo, every change lands on main. Read code, propose chan… |
-| 2026-11-19 08:52:43 | ai.safina/safina | Safina AI | 2.0.0 | Read your Safina calls and set up your AI phone assistant in chat. |
-| 2026-11-19 08:55:03 | [io.github.sanghyoLe/cc0-library](https://github.com/sanghyoLe/cc0-library) | CC0 Library | 0.1.0 | Search CC0-only images, audio, video, 3D, textures and museum art from 8 source… |
-| 2026-11-19 09:01:00 | dev.lipservice/lipservice | Lip Service | 0.1.0 | Speech and singing made on your own CPU: sixteen English voices, played aloud o… |
-| 2026-11-19 09:01:32 | tr.com.bursaarsa/bursaarsa |  | 1.0.0 | Bursa arsa, tarla, tapu, imar, miras ve vergi için doğrulanmış Türkçe kısa ceva… |
-| 2026-11-19 09:01:39 | [io.drint/dripod](https://github.com/drint-io/dripod-mcp) | Dripod | 1.0.0 | Put a print-on-demand design on 3D mockups of T-shirts, hoodies, mugs, hats and… |
-| 2026-11-19 09:01:55 | [org.datacensus/agents](https://github.com/jirizaloudek/agentwebcensus) | Agent Web Census | 0.1.0 | Open data on MCP servers (with live health) and which AI crawlers top websites… |
-| 2026-11-19 09:02:33 | com.whitesands-residences/villa-nautilus-222 | White Sands Residences | 1.1.0 | Live availability, pricing and extras for Villa Nautilus 222 in Soma Bay, Egypt. |
-| 2026-11-19 09:04:06 | [io.github.terradeed/terradeed-mcp-server](https://github.com/terradeed/terradeed-mcp-server) | Terradeed MCP Server | 0.2.1 | Terradeed Scrape API: paid URL scrape, structured JSON extract, and a free Base… |
-| 2026-11-19 09:07:22 | com.bloomyesim/esim | Bloomy eSIM | 1.3.0 | Recommend the right travel eSIM for any trip (200+ countries) and hand the trav… |
-| 2026-11-19 09:10:09 | [com.lapyn/design-mcp](https://github.com/uselapyn/lapyn-plugins) | Lapyn | 1.0.0 | Create, edit, translate, and inspect structured product designs in Lapyn. |
-| 2026-11-19 09:10:10 | io.salesmotion/salesmotion | Salesmotion | 4.8.0 | AI account intelligence for B2B sales: account briefs, buying signals and conta… |
-| 2026-11-19 09:10:48 | xyz.press5/launch-pad | Press5 launch pad | 1.0.0 | Publish static websites to a live HTTPS URL from your AI tool. Free tier, insta… |
-| 2026-11-19 09:15:18 | com.semantic-visions/sveye | SvEye OSINT (Open Source Intelligence) | 1.0.0 | OSINT risk signals, events and supply chains from global news. Requires an SvEy… |
-| 2026-11-19 09:16:04 | [io.github.verifystack-dev/verifystack-x402](https://github.com/verifystack-dev/verifystack-x402) |  | 0.2.0 | 11 pay-per-request DeFi yields, prediction market, calldata, web & wallet tools… |
-| 2026-11-19 09:16:19 | com.koigrid/mcp | koigrid | 1.0.0 | Deploy apps and run managed Postgres, Redis, storage, cron jobs and agent VMs o… |
-| 2026-11-19 09:17:07 | [io.github.NoteSupreme/vps-hardening](https://github.com/NoteSupreme/vps-hardening-mcp) | VPS Hardening | 1.0.0 | Read-only security checklists: VPS hardening, Docker, secrets, Supabase, Stripe… |
-| 2026-11-19 09:17:13 | [io.github.NoteSupreme/claude-seo-skills](https://github.com/NoteSupreme/claude-seo-skills-mcp) | Claude SEO Skills | 1.0.0 | Two open-source SEO skill packs (Claude SEO, Illyism SEO Skills) served read-on… |
-| 2026-11-19 09:18:18 | app.bodybuddy/coach | BodyBuddy | 1.0.0 | Daily accountability coach: see your day, commit to something, check it off, lo… |
-| 2026-11-19 09:20:27 | com.useemberlane/emberlane | Emberlane Crypto Intelligence & Agent A… | 1.0.0 | Crypto funding-rate arb, Polymarket edges, EVM contract security & headless bro… |
+| 2026-11-19 09:26:03 | [io.rockdesk/rockdesk](https://github.com/rockdesk-io/rockdesk-skill) | RockDesk | 1.0.10 | Remote desktop for AI agents: shell, files, screenshots, mouse and keyboard on… |
+| 2026-11-19 09:26:23 | [io.github.taralokha/lokha-mcp](https://github.com/taralokha/lokha-mcp) | Lokha MCP Gateway | 2.0.0 | Role-aware MCP Gateway for lokha.today with x402 micropayments on Base and Web3… |
+| 2026-11-19 09:28:08 | [io.github.TRDEFI/liquidity](https://github.com/TRDEFI/mcp-server) | TRDEFI Liquidity | 1.0.1 | Live non-custodial stablecoin liquidity: open positions, volume, and an on-chai… |
+| 2026-11-19 09:28:29 | ai.expenselm/expenselm | ExpenseLM | 1.0.0 | Track expenses from receipt photos, then search, summarize and update them from… |
+| 2026-11-19 09:30:36 | com.rosuii/public-catalog | Rosuii public product catalog | 1.0.0 | Read-only facts on Rosuii restaurant POS for Bangladesh: features, BDT plans, i… |
+| 2026-11-19 09:34:06 | work.agentexchange/feeds | Paid public-data feeds (x402, 0.002 USD) | 1.0.0 | 15 public-data feeds (SEC, recalls, PyPI, npm, URL status...) at 0.002 USD per… |
+| 2026-11-19 09:40:18 | [io.github.bestofgolang/bestofgo](https://github.com/bestofgolang/app) | Best of Go | 1.0.0 | Search and rank about 35,000 Go repos on GitHub by stars, recent star gains, an… |
+| 2026-11-19 09:40:19 | com.mgest.mcp/mgest | MGest | 3.17.0 | MGest ERP: customers, sales, purchases, stock, agenda. Needs an MGest connector… |
+| 2026-11-19 09:48:28 | org.sharehtml/sharehtml | ShareHTML | 1.0.0 | Turn one HTML file into a link: publish, update, list and delete pages on Share… |
+| 2026-11-19 09:49:04 | [me.didit/mcp](https://github.com/didit-protocol/mcp) | Didit MCP Server | 5.1.74 | KYC, KYB, AML, wallet screening, transaction monitoring, and fraud workflows fo… |
+| 2026-11-19 09:49:11 | de.inviomail/mcp | Inviomail | 1.0.0 | Control newsletters, contacts and automations from Claude or ChatGPT. Hosted in… |
+| 2026-11-19 09:51:10 | com.opennoe/opennoe | OpenNöe | 0.1.0 | Project memory shared by AI agents: decisions, results, tasks and handoffs acro… |
+| 2026-11-19 09:51:49 | [io.github.AlexanderTar/ibridge](https://github.com/AlexanderTar/ibridge-mcp) | iBridge | 1.0.0 | Read, search and manage iCloud Mail, Calendar and Contacts from Claude and othe… |
+| 2026-11-19 09:52:28 | talk.startup/almanac | Startup.Talk — Startup Histories & Foun… | 2.0.0 | Free MCP server for 610+ startup histories across 9 countries, Founders Almanac… |
+| 2026-11-19 09:54:17 | design.brilliant/canvas | Brilliant Design (hosted) | 1.0.0 | Design pages, screens and posts on a live, editable Brilliant canvas. No instal… |
+| 2026-11-19 09:54:57 | app.floorgen/floorgen | FloorGen | 1.0.0 | Draw, edit, check and render 2D/3D floor plans: walls, rooms, doors, furniture,… |
+| 2026-11-19 09:56:50 | [io.leadsail.api/store-audit](https://github.com/OneLight1688/leadsail-io) | LeadSail — Store Growth Audit | 0.1.0 | Free customer-acquisition readiness audit for any online store, run in chat. |
+| 2026-11-19 09:57:40 | io.simpleswap.mcp/mcp | SimpleSwap | 0.0.1 | Crypto exchange rates, currencies, pairs, limits and prefilled exchange links f… |
+| 2026-11-19 09:57:54 | com.companyfinders/company-finders | Company Finders | 1.0.0 | Find local businesses with no website, or with a broken or out-of-date one, in… |
+| 2026-11-19 09:59:13 | io.twitterapi/twitter-x-search-tweets-followers |  | 1.0.0 | Official twitterapi.io hosted MCP: search Twitter/X tweets, users, followers, t… |
+| 2026-11-19 09:59:45 | dev.proxylane/proxylane | ProxyLane | 1.0.0 | Residential and ISP proxies for AI agents: create proxy lists, test connections… |
+| 2026-11-19 10:02:46 | app.polypane/polypane | Polypane | 32.0.0 | Check and fix websites in Polypane: every viewport at once, with accessibility… |
+| 2026-11-19 10:03:45 | io.simplesat/simplesat | Simplesat | 1.0.0 | Search your Simplesat customer feedback and see CSAT and NPS scores and trends.… |
+| 2026-11-19 10:04:24 | [one.asterism/asterism-mcp](https://github.com/regulus-foundation/asterism-cloud) |  | 0.1.0 | Asterism documents, designs, PDF, Sheets, Slides, Markdown and HTML over MCP wi… |
+| 2026-11-19 10:08:17 | com.leverprice/mcp | Leverprice | 1.0.0 | Run price tests from an AI agent: prices by country, experiments, results and w… |
+| 2026-11-19 10:13:26 | com.aussiesats/aussiesats | AussieSats | 1.0.0 | Live ranking of Australian Bitcoin exchanges by sats received for A$1,000 after… |
+| 2026-11-19 10:13:34 | [io.github.tammy357/ts-second-opinion](https://github.com/tammy357/ts-second-opinion) | TS Second Opinion | 0.3.0 | Second opinion on ML transition-state guesses: trust, check with DFT or re-gene… |
+| 2026-11-19 10:15:01 | app.svitgrid/svitgrid | Svitgrid | 0.1.0 | Ask about your home solar station: power, battery, outages and history. Changes… |
+| 2026-11-19 10:15:22 | co.codeways/co-za-whois-dns | South Africa (.co.za ZARC) & Global WHO… | 1.0.0 | Live ZARC (.co.za, .org.za) & global ICANN WHOIS, Registrar, expiry, DNS, MX/SP… |
+| 2026-11-19 10:16:31 | [app.onehaus/haus](https://github.com/Im5tu/haus) |  | 1.8.0 | OneHaus household tools: tasks, calendar, contacts, pets, vehicles, documents a… |
+| 2026-11-19 10:17:08 | com.licitacionesapi/mcp | Licitaciones API | 2.0.0 | Licitaciones API: datos oficiales con fuente y licencia, por OAuth. |
+| 2026-11-19 10:17:28 | au.com.ftcapital/ftus-mcp |  | 1.0.0 | Public read-only MCP data for FT Capital's FTUS fund: NAV, positions, benchmark… |
+| 2026-11-19 10:17:56 | com.paroyoposiciones/mcp | Paro y Oposiciones | 2.0.0 | Paro y Oposiciones: datos oficiales con fuente y licencia, por OAuth. |
+| 2026-11-19 10:19:31 | ai.optionomics/optionomics | Optionomics | 0.1.0 | Options flow, unusual activity, dark pool, insider and politician trades for US… |
 
 ## Data source
 
