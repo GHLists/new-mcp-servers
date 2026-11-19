@@ -9,49 +9,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 16:21 UTC
+## Latest list — 2026-11-19 17:19 UTC
 
-New MCP servers published between 2026-11-19 15:21 UTC and 2026-11-19 16:21 UTC.
+New MCP servers published between 2026-11-19 16:21 UTC and 2026-11-19 17:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-19T16-21-37-364694Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-19T17-19-31-800779Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-19 15:23:40 | com.useishara/ishara | Ishara | 0.1.0 | Website feedback for coding agents: reviewers' exact edits from live sites, app… |
-| 2026-11-19 15:26:00 | [io.github.ElormCodes1/leadsacquire-enrichment](https://github.com/ElormCodes1/leadsacquire-enrichment-mcp) |  | 0.2.0 | B2B company & people enrichment plus live hiring-intent signals, from one API k… |
-| 2026-11-19 15:26:21 | [io.github.datafaro-dev/datafaro-mcp](https://github.com/datafaro-dev/datafaro-mcp) | Datafaro Trend Research | 1.0.0 | Google Trends, Bluesky and Substack data for AI agents: fast, compact, pay per… |
-| 2026-11-19 15:26:57 | [io.github.googlarz/proton-drive-mcp](https://github.com/googlarz/proton-drive-mcp) | Proton Drive | 1.9.0 | Unofficial MCP server for Proton Drive and Photos, driving the official Proton… |
-| 2026-11-19 15:27:14 | shop.leefbiant123.vps/mini-xui | Mini XUI Proxy Trials | 1.0.0 | Free short-lived VLESS Reality and Hysteria 2 proxy credentials for compatible… |
-| 2026-11-19 15:27:55 | one.comando/erp | Comando1 ERP | 1.0.0 | ERP brasileiro para empresas de serviço: faturas, NFS-e, Pix e boleto, clientes… |
-| 2026-11-19 15:30:19 | io.checkview/mcp-server | CheckView | 1.1.14 | Automated WordPress form and WooCommerce checkout testing: create, run and debu… |
-| 2026-11-19 15:30:49 | [io.github.gocutover/cutover-mcp](https://github.com/gocutover/cutover-mcp-public) | Cutover | 1.8.0 | Query and manage Cutover runbooks, tasks, streams, workspaces and teams through… |
-| 2026-11-19 15:32:20 | [io.usefulapi/fieldaware](https://github.com/m190/usefulapi-mcp) | FieldAware MCP by usefulapi | 1.0.0 | Read jobs, customers, contacts and invoices; create customers, create or update… |
-| 2026-11-19 15:32:20 | [io.usefulapi/ts-facturas](https://github.com/m190/usefulapi-mcp) | TS Facturas MCP by usefulapi | 1.0.0 | Read invoices, contacts, expenses and payments; create contacts and payments in… |
-| 2026-11-19 15:32:20 | [io.usefulapi/resi](https://github.com/m190/usefulapi-mcp) | Resi MCP by usefulapi | 1.0.0 | Read properties, units, leads and sync logs; update unit rent and availability… |
-| 2026-11-19 15:33:46 | ai.agenticcart/agenticcart | AgenticCart: AI readiness checks for on… | 1.0.0 | Check any Shopify, WooCommerce or other online store, product page or feed for… |
-| 2026-11-19 15:33:58 | com.cleanedweb/catalog | CleanedWeb | 1.0.0 | Find and run maintained REST APIs that return structured records from public we… |
-| 2026-11-19 15:34:55 | [io.github.yashwant938/arch-guard-mc](https://github.com/yashwant938/arch-guard-mc) | ArchGuard MCP | 1.0.0 | Architecture drift auditor (Tarjan SCC), zero-downtime SQL guardian & distribut… |
-| 2026-11-19 15:36:34 | uk.co.sisoco/uk-company-ownership-companies-house | Sisoco One | 0.1.0 | UK and EU company data and ownership (PSC) for KYB: Companies House, Sirene, LE… |
-| 2026-11-19 15:36:40 | [io.github.pdhimal1/eli5-park](https://github.com/pdhimal1/eli5) | ELI5 Park adventures | 1.0.0 | Big ideas, made small — free explainers for kids on science, money, careers, co… |
-| 2026-11-19 15:44:10 | com.castance/castance | Castance | 1.0.0 | Post, schedule and measure on 12 social networks, with approval before anything… |
-| 2026-11-19 15:44:42 | com.voiceassistants/voice-gateway | VoiceAssistants | 1.0.0 | Find local US and Canadian businesses: verified hours, phone, services, prices… |
-| 2026-11-19 15:49:56 | [io.github.software-mansion/argent](https://github.com/software-mansion/argent) | Argent | 0.34.0 | Drive iOS, Android, HarmonyOS, TV, Mac and Electron/web apps from your coding a… |
-| 2026-11-19 15:50:17 | [io.github.arun250492/Personal-MCP](https://github.com/arun250492/Personal-MCP) |  | 2.0.0 | Personal desktop assistant + IsItMe? outage triage (DNS, TLS, HTTP, e-mail auth… |
-| 2026-11-19 15:53:50 | io.atalana/terminal | ATALANA | 1.0.0 | Crypto-futures market analytics: screener tabs, coin cards, liquidations, histo… |
-| 2026-11-19 15:56:03 | dev.mainline/mcp | Mainline | 1.1.0 | Gives your coding agent your story map and acceptance criteria. No tool can cha… |
-| 2026-11-19 15:59:31 | io.github.umutgokbayrak/openrolesdb | OpenRolesDB | 1.0.0 | Jobs data API, MCP server and public site showing whether a company is speeding… |
-| 2026-11-19 15:59:59 | io.github.umutgokbayrak/vcinfo | vcinfo | 1.0.0 | Investor data API and MCP server: profiles, portfolios and co-investor links fo… |
-| 2026-11-19 16:00:02 | io.github.umutgokbayrak/stratadb | StrataDB | 1.0.0 | Tech stack and vendor database that records what companies declare, mention or… |
-| 2026-11-19 16:04:42 | [io.github.comficker/pomoduck](https://github.com/comficker/pomoduck-cli) |  | 0.1.0 | Pomodoro timer for AI agents: start, check and log focus sessions, plan rounds. |
-| 2026-11-19 16:05:18 | [dev.avakit/avalanche](https://github.com/mericcintosun/AvaKit) |  | 0.2.0 | Scaffold a dapp, deploy contracts and send contract calls (for example mint) on… |
-| 2026-11-19 16:07:25 | [io.github.say1j/tronenergyfrog](https://github.com/say1j/tron-energy-rental) | TronEnergyFrog | 0.1.0 | Live TRON Energy prices and rental for USDT TRC-20 transfers, paid by x402 USDC… |
-| 2026-11-19 16:09:37 | fyi.makerradar/directory | MakerRadar.fyi | 1.0.0 | Query a curated indie product directory: search, details, pricing, editor FAQs,… |
-| 2026-11-19 16:11:32 | com.salonrenter/salonrenter-muse | SalonRenter for Muse | 1.0.0 | Search live salon suites and booths for rent near you, check tour times, and bo… |
-| 2026-11-19 16:13:17 | [io.github.comficker/factcovery-facts](https://github.com/comficker/factcovery-facts) | Factcovery Facts | 0.1.1 | 500+ short, sourced fun facts: random fact, fact of the day, search and facts b… |
-| 2026-11-19 16:14:09 | [io.github.slavosckie/oskkee](https://github.com/slavosckie/oscku) | Oskkee | 1.1.0 | Indian creators: free INR rate estimates and audience checks; search with your… |
-| 2026-11-19 16:14:16 | io.github.sparklayer-io/sparklayer | SparkLayer | 1.0.0 | Manage your SparkLayer B2B store: price lists, discounts, customer groups, comp… |
-| 2026-11-19 16:15:23 | computer.emre.scout/mcp | Scout | 1.0.0 | Newly noticed early-stage startups on X: search, company details and daily coun… |
-| 2026-11-19 16:16:33 | [com.dadaovalue/dadao-value](https://github.com/aibbx/dadao-value-compass) | Dadao Value | 1.0.0 | Value-investing checkups for US-listed companies: five-step framework analysis.… |
+| 2026-11-19 16:24:20 | [io.github.comficker/checklist-templates](https://github.com/comficker/checklist-templates) |  | 0.1.0 | 410 checklist templates (moving, cleaning, packing, wedding, inspections) with… |
+| 2026-11-19 16:24:48 | [app.learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) | LearnHouse | 1.4.5 | Build, edit and run courses, learning paths and communities in your LearnHouse… |
+| 2026-11-19 16:27:44 | net.agentshopping/agentshopping | AgentShopping | 0.1.0 | Nordic prices for kids' gear, sports/football, menswear and electronics. Affili… |
+| 2026-11-19 16:27:51 | org.inkdraft/inkdraft | InkDraft - iPad handwriting | 0.2.0 | Read original page images from your current synced InkDraft iPad document with… |
+| 2026-11-19 16:31:16 | com.apix402data/x402-data-api | x402 Data API (Crypto, DeFi, SEC EDGAR,… | 4.8.0 | 32 pay-per-call AI, crypto, DeFi, SEC EDGAR, and search tools via x402 USDC (Ba… |
+| 2026-11-19 16:33:50 | [com.yariinfotech/server](https://github.com/yari-infotech/yari_infotech.git) |  | 1.0.0 | Model Context Protocol interface for Yari Infotech engineering & architectural… |
+| 2026-11-19 16:35:11 | [io.xdataapi/xdataapi](https://github.com/xdataapi/xdataapi) | xdataapi: X (Twitter) data | 0.3.3 | Read-only public X (Twitter) data: profiles, tweets, threads, followers, search… |
+| 2026-11-19 16:35:49 | io.github.volodymyrslipak/aviz-mcp | AVIZ | 0.2.2 | Build audio-reactive music visuals for AVIZ: scenes tied to bass, kick and drop… |
+| 2026-11-19 16:35:54 | [io.github.axute/worklog-mcp](https://github.com/axute/worklog-mcp) | Worklog | 1.1.0 | Work log for AI agents: record, search and report finished work, with web view… |
+| 2026-11-19 16:36:09 | io.github.plainbyte-tools/shopify-variant-metafields-planner | PlainByte Shopify Variant Metafields CS… | 0.0.8 | Paid Apify Actor to validate Shopify variant metafields CSV and plan GraphQL; n… |
+| 2026-11-19 16:38:26 | com.nindzia/pulsepost | PulsePost | 1.0.0 | Social media scheduler that lets AI agents draft, schedule and publish posts to… |
+| 2026-11-19 16:39:14 | com.irlsend/postcards | IRLsend Postcards | 1.0.0 | Design a real postcard in the chat and mail it in the US. Designing is free; ma… |
+| 2026-11-19 16:40:14 | com.mypivots/mypivots | MyPivots Daily Notes | 1.0.0 | Pivot points, Crabel patterns and technicals for stocks, futures, forex, indice… |
+| 2026-11-19 16:42:53 | com.tracevero/registry | TraceVero | 2.0.0 | Search and compare public MCP servers. Every value carries its source and colle… |
+| 2026-11-19 16:48:12 | com.loyaltie/catalog | Loyaltie | 1.0.0 | Everyday products from independent brands in one cart; the person signs in and… |
+| 2026-11-19 16:50:20 | [com.themeaningofnumbers/numerology](https://github.com/ellelion/themeaningofnumbers) | The Meaning of Numbers | 1.0.0 | Numerology for AI agents: life path, destiny, soul urge, angel number meanings.… |
+| 2026-11-19 16:51:01 | com.intentrax/mcp | Intentrax proof verification | 0.1.0 | Keyless, read-only checks of Intentrax AI-agent execution proofs. Never execute… |
+| 2026-11-19 16:51:20 | il.co.tagli/commerce | TAGLI - Branded Promotional Products | 2.0.0 | B2B branded merchandise, promotional products, catalog search, pricing and quot… |
+| 2026-11-19 16:52:42 | [io.github.robd-hub/cheap-first](https://github.com/robd-hub/cheap-first) | Cheap First | 0.1.0 | Answers cheaply first, then escalates to a premium model only when a checker fa… |
+| 2026-11-19 16:52:44 | [io.github.robd-hub/agent-report-card](https://github.com/robd-hub/agent-report-card) | Agent Report Card | 0.1.0 | Look up independent A to F grades for AI agents before you hire one. |
+| 2026-11-19 16:56:59 | com.orbb.mcp/research | Orbb Research | 1.0.0 | Who knows whom and how well: find who could introduce you, from the public prof… |
+| 2026-11-19 16:57:55 | [io.usefulapi/booxi](https://github.com/m190/usefulapi-mcp) | Booxi MCP by usefulapi | 1.0.0 | Read services, staff, group events and free time slots in Booxi. |
+| 2026-11-19 16:57:55 | [io.usefulapi/retailcloud-pos](https://github.com/m190/usefulapi-mcp) | RetailCloud MCP by usefulapi | 1.0.0 | Read products, orders and purchase orders; update stock, costs, tracking in Ret… |
+| 2026-11-19 16:57:55 | [io.usefulapi/auftragsdesk](https://github.com/m190/usefulapi-mcp) | AuftragsDesk MCP by usefulapi | 1.0.0 | Read orders and customers; create orders, customers and status changes in Auftr… |
+| 2026-11-19 16:57:55 | [io.usefulapi/sage-sales-management](https://github.com/m190/usefulapi-mcp) | Sage Sales Management MCP by usefulapi | 1.0.0 | Read accounts, contacts, opportunities; create records and update deals in Sage… |
+| 2026-11-19 17:00:26 | com.chatfyre/chatfyre | ChatFyre — Instagram DM automation | 1.0.0 | Create and manage Instagram DM and comment-reply automations by talking to Clau… |
+| 2026-11-19 17:01:54 | lt.apibase/vardai | Lithuanian Name Declension | 1.0.0 | Lithuanian names in all 7 cases and the vocative for e-mail greetings; checks g… |
+| 2026-11-19 17:02:01 | it.bikerlink/real | BikerLink REAL | 1.0.0 | Motorcycle travel: Punti Biker, Smart Stations, PhotoPass and human-verified se… |
+| 2026-11-19 17:02:30 | com.pebblelaunch/launches | PebbleLaunch | 0.1.0 | Submit your product to PebbleLaunch daily launches, track its status, and read… |
+| 2026-11-19 17:04:33 | dev.workers.impaktdev.actor-api-proxy/impakt-data-tools | Impakt Data Tools | 1.0.0 | Agent data tools: company jobs, SEC Form D leads, new businesses, email/domain… |
+| 2026-11-19 17:06:51 | [io.github.blainomd/solvinghealth-data-tools](https://github.com/blainomd/solvinghealth-data-tools) | SolvingHealth federal health data | 1.1.0 | Read-only US federal health data with sources: NPI, FDA 510(k), recalls, trials… |
+| 2026-11-19 17:07:02 | [io.usefulapi/bluecamroo](https://github.com/m190/usefulapi-mcp) | BlueCamroo MCP by usefulapi | 1.0.0 | Search organizations, read cases and invoices, add tasks, and add or update peo… |
+| 2026-11-19 17:07:02 | [io.usefulapi/sugarcrm](https://github.com/m190/usefulapi-mcp) | SugarCRM MCP by usefulapi | 1.0.0 | List, filter and count records, read dropdown values, and create or update reco… |
+| 2026-11-19 17:11:34 | [io.github.kurpeeren/copperflow](https://github.com/kurpeeren/copperflow) | copperflow | 0.5.1 | Design PCBs with an agent: schematic, placement, autorouting, DRC, Gerber, BOM… |
+| 2026-11-19 17:12:38 | io.groundtrace/groundtrace | Groundtrace | 1.0.0 | US construction projects before they are built, and who is on them, from public… |
+| 2026-11-19 17:13:41 | [io.github.auragridcorp-rgb/auragrid](https://github.com/auragridcorp-rgb/auragrid) |  | 0.3.0 | Bitcoin fee and Lightning data (L402, free samples) and U.S. EIA/USGS/NOAA feed… |
+| 2026-11-19 17:16:09 | [io.github.mrtero22/9eye](https://github.com/mrtero22/9eye) | 9eye | 0.2.0 | Broadcast scheduling and TV traffic: layouts, plans, playlists and ad campaigns… |
 
 ## Data source
 
