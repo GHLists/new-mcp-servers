@@ -9,63 +9,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 15:21 UTC
+## Latest list — 2026-11-19 16:21 UTC
 
-New MCP servers published between 2026-11-19 14:22 UTC and 2026-11-19 15:21 UTC.
+New MCP servers published between 2026-11-19 15:21 UTC and 2026-11-19 16:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-19T15-21-29-247956Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-19T16-21-37-364694Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-19 14:22:54 | fr.rouagepro/formalites | Rouage | 1.0.2 | Dirigeants et experts-comptables : créer, fermer une société, approuver les com… |
-| 2026-11-19 14:23:24 | com.gamechronica/gamechronica | Game Chronica | 1.0.0 | Japanese release dates, prices and publishers of 4,054 Famicom, Super Famicom a… |
-| 2026-11-19 14:24:39 | com.shortvidapi/x402-tiktok-instagram-reels-shorts-mcp | ShortVidAPI — TikTok, Reels & Shorts MC… | 1.0.0 | TikTok, Reels & Shorts MCP. Zero-signup x402 USDC pay-per-call ($0.001) on Base… |
-| 2026-11-19 14:24:45 | com.cheapxapi/mcp-server | CheapXAPI — X/Twitter Search & Tweets M… | 1.1.0 | X/Twitter Search & Tweets MCP ($0.03/1K tweets). Zero-signup x402 USDC ($0.001)… |
-| 2026-11-19 14:24:46 | com.cheapxapi/x402-twitter-x-search-tweets-mcp | CheapXAPI — X/Twitter Search & Tweets M… | 1.0.0 | X/Twitter Search & Tweets MCP ($0.03/1K tweets). Zero-signup x402 USDC ($0.001)… |
-| 2026-11-19 14:24:55 | com.jobpostingsapi/x402-jobs-ats-workday-greenhouse-mcp | JobPostingsAPI — Workday, Greenhouse &… | 1.0.0 | Workday, Greenhouse & Lever Jobs MCP. Zero-signup x402 USDC ($0.001) on Base or… |
-| 2026-11-19 14:24:57 | com.jobpostingsapi/jobs-ats-workday-greenhouse-lever-mcp | JobPostingsAPI — Workday, Greenhouse &… | 1.1.0 | Workday, Greenhouse & Lever Jobs MCP. Zero-signup x402 USDC ($0.001) on Base or… |
-| 2026-11-19 14:25:05 | com.b2bprofileapi/x402-linkedin-profile-company-b2b-mcp | B2BProfileAPI — LinkedIn Profile & B2B… | 1.0.0 | LinkedIn Profile & B2B Company MCP. Zero-signup x402 USDC ($0.002) on Base or f… |
-| 2026-11-19 14:25:08 | com.b2bprofileapi/linkedin-profile-company-b2b-enrichment-mcp | B2BProfileAPI — LinkedIn Profile & B2B… | 1.1.0 | LinkedIn Profile & B2B Company MCP. Zero-signup x402 USDC ($0.002) on Base or f… |
-| 2026-11-19 14:25:15 | com.placesdataapi/x402-google-maps-places-reviews-mcp | PlacesDataAPI — Google Maps Places, Rev… | 1.0.0 | Google Maps Places, Reviews & Geocoding MCP. Zero-signup x402 USDC ($0.0015) on… |
-| 2026-11-19 14:25:17 | com.placesdataapi/google-maps-places-reviews-geocoding-mcp | PlacesDataAPI — Google Maps Places, Rev… | 1.1.0 | Google Maps Places, Reviews & Geocoding MCP. Zero-signup x402 USDC ($0.0015) on… |
-| 2026-11-19 14:25:25 | com.videodataapi/x402-youtube-transcript-subtitles-mcp | VideoDataAPI — YouTube Transcript, Subt… | 1.0.0 | YouTube Transcript, Subtitles & Comments MCP. Zero-signup x402 USDC ($0.001) on… |
-| 2026-11-19 14:25:36 | com.forumdataapi/x402-reddit-posts-comments-subreddit-mcp | ForumDataAPI — Reddit Posts, Comments &… | 1.0.0 | Reddit Posts, Comments & Subreddit MCP. Zero-signup x402 USDC ($0.001) on Base… |
-| 2026-11-19 14:25:38 | com.forumdataapi/reddit-posts-comments-subreddit-search-mcp | ForumDataAPI — Reddit Posts, Comments &… | 1.1.0 | Reddit Posts, Comments & Subreddit MCP. Zero-signup x402 USDC ($0.001) on Base… |
-| 2026-11-19 14:25:42 | com.shopdataapi/x402-amazon-walmart-shopee-tiktok-shop-mcp | ShopDataAPI — Amazon, Walmart, Shopee &… | 1.0.0 | Amazon, Walmart, Shopee & TikTok Shop MCP. Zero-signup x402 USDC ($0.0015) on B… |
-| 2026-11-19 14:25:47 | com.appuntamy.app/profilo | Profilo di Appuntamy | 1.0.0 | Profilo, risorse e link demo di Appuntamy in sola lettura. |
-| 2026-11-19 14:25:47 | it.tracciamy.www/profilo | Profilo di Tracciamy | 1.0.0 | Profilo, risorse e link demo di Tracciamy in sola lettura. |
-| 2026-11-19 14:25:47 | it.practicamy.www/profilo | Profilo di Practicamy | 1.0.0 | Profilo, risorse e link demo di Practicamy in sola lettura. |
-| 2026-11-19 14:25:47 | dev.open-mind.www/profilo | Profilo di OpenMind | 1.0.0 | Profilo, risorse e link demo di OpenMind in sola lettura. |
-| 2026-11-19 14:25:49 | com.reviewsdataapi/x402-trustpilot-yelp-google-reviews-mcp | ReviewsDataAPI — Trustpilot, Yelp, Goog… | 1.0.0 | Trustpilot, Yelp, Google & Glassdoor Reviews MCP. Zero-signup x402 USDC ($0.001… |
-| 2026-11-19 14:25:57 | com.pindataapi/x402-pinterest-pins-boards-airbnb-mcp | PinDataAPI — Pinterest Pins, Boards & A… | 1.0.0 | Pinterest Pins, Boards & Airbnb Visual MCP. Zero-signup x402 USDC ($0.0015) on… |
-| 2026-11-19 14:26:07 | com.realtydataapi/x402-zillow-redfin-real-estate-property-mcp | RealtyDataAPI — Zillow & Redfin Real Es… | 1.0.0 | Zillow & Redfin Real Estate Property MCP. Zero-signup x402 USDC ($0.002) on Bas… |
-| 2026-11-19 14:32:25 | co.internationalcall/dialing | InternationalCall.co dialing | 1.1.0 | Dialing instructions, call prices, and the numbers organisations publish for ca… |
-| 2026-11-19 14:37:32 | [com.pairpoll/pairpoll](https://github.com/BuildShipGrowRepeat/pairpoll) | Pairpoll | 1.0.0 | Free polls for images and videos ranked head to head: create a poll, share a li… |
-| 2026-11-19 14:39:29 | com.easyclippers/easyclippers | EasyClippers | 1.0.0 | Clip Twitch, Kick and YouTube live streams into captioned vertical shorts while… |
-| 2026-11-19 14:39:39 | uk.co.sisoco/sisoco-one | Sisoco One | 0.1.0 | UK and EU company checks from official registers: identity, signals, LEIs, owne… |
-| 2026-11-19 14:42:15 | com.checktrueprice/trueprice | Trueprice | 1.0.0 | AI shopping agents find coupon codes, test each in a real cart, track prices at… |
-| 2026-11-19 14:42:29 | [io.github.HarshaVardhan1111/pagemint](https://github.com/HarshaVardhan1111/pagemint) | PageMint | 0.1.1 | Free MCP server: web pages to clean Markdown, site crawl and map, open-job sear… |
-| 2026-11-19 14:43:45 | com.virtechsrl.www/catalogo | Catalogo prodotti Virtech | 1.0.0 | Catalogo pubblico, siti e contatti ufficiali dei prodotti software Virtech. |
-| 2026-11-19 14:44:03 | app.heysidekick/sidekick | Sidekick for Google Tasks | 1.0.0 | MCP server for Google Tasks: review, plan and tidy your tasks by asking. Delete… |
-| 2026-11-19 14:45:06 | com.clawhard/tack | Tack | 1.0.0 | Check GitHub Actions workflows live: retired actions, bad inputs, injection. Pi… |
-| 2026-11-19 14:50:33 | com.qorlie/qorlie | Qorlie | 0.2.0 | Make QR codes and editable links that never expire. Edit destinations and read… |
-| 2026-11-19 14:54:17 | [com.vilmamonroy.a2a/defense-gateway](https://github.com/mmansillaf/a2a-defense-gateway) |  | 1.0.0 | A2A Defense & Monetization Gateway: L402 Lightning payments, Why-Trail court, a… |
-| 2026-11-19 14:55:25 | [com.braike/pilot](https://github.com/BRAIKERS/pilot-mcp) | Pilot by Braike | 0.1.0 | Google Ads, Meta, TikTok, LinkedIn, GA4 and Search Console in your AI assistant… |
-| 2026-11-19 14:56:20 | [br.com.perpetuus/crm](https://github.com/perpetuuscrm/perpetuus-integrations) | Perpetuus CRM | 0.1.0 | Perpetuus CRM: contacts, deals, pipelines, tasks, WhatsApp chat and campaigns.… |
-| 2026-11-19 14:57:39 | net.retrieveiq/retrieveiq | RetrieveIQ | 0.1.0 | Property tax bills read from California county records, checked to the cent. |
-| 2026-11-19 15:05:03 | tech.heybeta/betaos | BetaOS | 0.2.0 | A company's management system: its data, processes and approvals, worked from C… |
-| 2026-11-19 15:12:23 | hu.traintrack/railway | TrainTrack | 1.0.0 | Live Hungarian train positions, delays, rolling stock, and service search. No s… |
-| 2026-11-19 15:12:29 | [com.adflitz/adflitz](https://github.com/Performancebude-PEBU-GmbH/adflitz-mcp) | Adflitz | 1.0.0 | Connect your AI to Meta, Google and LinkedIn ads: read stats, draft changes, pu… |
-| 2026-11-19 15:14:26 | com.testingapis/api-tools | TestingAPIs API tools | 1.0.0 | Validate OpenAPI and JSON Schema, convert specs, curl to code, JSONPath, and fr… |
-| 2026-11-19 15:15:14 | io.github.waffleiron-data/waffleiron-jobs | Waffleiron: Career page jobs (Greenhous… | 1.0.0 | Jobs from company careers pages on Greenhouse, Lever, Ashby, Workday, Workable,… |
-| 2026-11-19 15:15:14 | io.github.waffleiron-data/waffleiron-ads | Waffleiron: Google Ads Transparency com… | 1.0.0 | Competitor Google ads from the Ads Transparency Center: dates, regions, copy; o… |
-| 2026-11-19 15:15:14 | io.github.waffleiron-data/waffleiron-keyword-volume | Waffleiron: Keyword search volume, CPC… | 1.0.0 | Google search volume, CPC, difficulty, intent and trend for keyword lists in 21… |
-| 2026-11-19 15:15:49 | com.boatopoly/boatopoly | Boatopoly | 1.5.0 | Sell and find boats on Boatopoly, the boat marketplace, right from your AI chat. |
-| 2026-11-19 15:15:57 | uk.co.sisoco/company-data-uk-eu | Sisoco One | 0.1.0 | UK and EU company data from official registers: Companies House, Sirene, LEI, o… |
-| 2026-11-19 15:17:09 | [dev.skillry/skillry](https://github.com/yihui-dev/skillry-mcp) | Skillry MCP | 0.2.3 | Search, preview, and install curated creative Agent Skills inside Claude Code,… |
-| 2026-11-19 15:17:51 | com.spoofcallerid/spoofcallerid | Spoof Caller ID | 1.1.0 | Calls and SMS with the caller ID you choose, text-to-speech calls, HLR lookups… |
-| 2026-11-19 15:19:34 | com.loomivoai/loomivo | Loomivo: verified local businesses | 1.0.0 | Find verified local businesses worldwide and send them booking, order or quote… |
-| 2026-11-19 15:20:07 | [io.github.Abhishek-B-R/social0-mcp](https://github.com/Abhishek-B-R/social0-mcp) | Social0 | 0.5.0 | Post and schedule to X, LinkedIn, Instagram, TikTok, YouTube and more from Clau… |
+| 2026-11-19 15:23:40 | com.useishara/ishara | Ishara | 0.1.0 | Website feedback for coding agents: reviewers' exact edits from live sites, app… |
+| 2026-11-19 15:26:00 | [io.github.ElormCodes1/leadsacquire-enrichment](https://github.com/ElormCodes1/leadsacquire-enrichment-mcp) |  | 0.2.0 | B2B company & people enrichment plus live hiring-intent signals, from one API k… |
+| 2026-11-19 15:26:21 | [io.github.datafaro-dev/datafaro-mcp](https://github.com/datafaro-dev/datafaro-mcp) | Datafaro Trend Research | 1.0.0 | Google Trends, Bluesky and Substack data for AI agents: fast, compact, pay per… |
+| 2026-11-19 15:26:57 | [io.github.googlarz/proton-drive-mcp](https://github.com/googlarz/proton-drive-mcp) | Proton Drive | 1.9.0 | Unofficial MCP server for Proton Drive and Photos, driving the official Proton… |
+| 2026-11-19 15:27:14 | shop.leefbiant123.vps/mini-xui | Mini XUI Proxy Trials | 1.0.0 | Free short-lived VLESS Reality and Hysteria 2 proxy credentials for compatible… |
+| 2026-11-19 15:27:55 | one.comando/erp | Comando1 ERP | 1.0.0 | ERP brasileiro para empresas de serviço: faturas, NFS-e, Pix e boleto, clientes… |
+| 2026-11-19 15:30:19 | io.checkview/mcp-server | CheckView | 1.1.14 | Automated WordPress form and WooCommerce checkout testing: create, run and debu… |
+| 2026-11-19 15:30:49 | [io.github.gocutover/cutover-mcp](https://github.com/gocutover/cutover-mcp-public) | Cutover | 1.8.0 | Query and manage Cutover runbooks, tasks, streams, workspaces and teams through… |
+| 2026-11-19 15:32:20 | [io.usefulapi/fieldaware](https://github.com/m190/usefulapi-mcp) | FieldAware MCP by usefulapi | 1.0.0 | Read jobs, customers, contacts and invoices; create customers, create or update… |
+| 2026-11-19 15:32:20 | [io.usefulapi/ts-facturas](https://github.com/m190/usefulapi-mcp) | TS Facturas MCP by usefulapi | 1.0.0 | Read invoices, contacts, expenses and payments; create contacts and payments in… |
+| 2026-11-19 15:32:20 | [io.usefulapi/resi](https://github.com/m190/usefulapi-mcp) | Resi MCP by usefulapi | 1.0.0 | Read properties, units, leads and sync logs; update unit rent and availability… |
+| 2026-11-19 15:33:46 | ai.agenticcart/agenticcart | AgenticCart: AI readiness checks for on… | 1.0.0 | Check any Shopify, WooCommerce or other online store, product page or feed for… |
+| 2026-11-19 15:33:58 | com.cleanedweb/catalog | CleanedWeb | 1.0.0 | Find and run maintained REST APIs that return structured records from public we… |
+| 2026-11-19 15:34:55 | [io.github.yashwant938/arch-guard-mc](https://github.com/yashwant938/arch-guard-mc) | ArchGuard MCP | 1.0.0 | Architecture drift auditor (Tarjan SCC), zero-downtime SQL guardian & distribut… |
+| 2026-11-19 15:36:34 | uk.co.sisoco/uk-company-ownership-companies-house | Sisoco One | 0.1.0 | UK and EU company data and ownership (PSC) for KYB: Companies House, Sirene, LE… |
+| 2026-11-19 15:36:40 | [io.github.pdhimal1/eli5-park](https://github.com/pdhimal1/eli5) | ELI5 Park adventures | 1.0.0 | Big ideas, made small — free explainers for kids on science, money, careers, co… |
+| 2026-11-19 15:44:10 | com.castance/castance | Castance | 1.0.0 | Post, schedule and measure on 12 social networks, with approval before anything… |
+| 2026-11-19 15:44:42 | com.voiceassistants/voice-gateway | VoiceAssistants | 1.0.0 | Find local US and Canadian businesses: verified hours, phone, services, prices… |
+| 2026-11-19 15:49:56 | [io.github.software-mansion/argent](https://github.com/software-mansion/argent) | Argent | 0.34.0 | Drive iOS, Android, HarmonyOS, TV, Mac and Electron/web apps from your coding a… |
+| 2026-11-19 15:50:17 | [io.github.arun250492/Personal-MCP](https://github.com/arun250492/Personal-MCP) |  | 2.0.0 | Personal desktop assistant + IsItMe? outage triage (DNS, TLS, HTTP, e-mail auth… |
+| 2026-11-19 15:53:50 | io.atalana/terminal | ATALANA | 1.0.0 | Crypto-futures market analytics: screener tabs, coin cards, liquidations, histo… |
+| 2026-11-19 15:56:03 | dev.mainline/mcp | Mainline | 1.1.0 | Gives your coding agent your story map and acceptance criteria. No tool can cha… |
+| 2026-11-19 15:59:31 | io.github.umutgokbayrak/openrolesdb | OpenRolesDB | 1.0.0 | Jobs data API, MCP server and public site showing whether a company is speeding… |
+| 2026-11-19 15:59:59 | io.github.umutgokbayrak/vcinfo | vcinfo | 1.0.0 | Investor data API and MCP server: profiles, portfolios and co-investor links fo… |
+| 2026-11-19 16:00:02 | io.github.umutgokbayrak/stratadb | StrataDB | 1.0.0 | Tech stack and vendor database that records what companies declare, mention or… |
+| 2026-11-19 16:04:42 | [io.github.comficker/pomoduck](https://github.com/comficker/pomoduck-cli) |  | 0.1.0 | Pomodoro timer for AI agents: start, check and log focus sessions, plan rounds. |
+| 2026-11-19 16:05:18 | [dev.avakit/avalanche](https://github.com/mericcintosun/AvaKit) |  | 0.2.0 | Scaffold a dapp, deploy contracts and send contract calls (for example mint) on… |
+| 2026-11-19 16:07:25 | [io.github.say1j/tronenergyfrog](https://github.com/say1j/tron-energy-rental) | TronEnergyFrog | 0.1.0 | Live TRON Energy prices and rental for USDT TRC-20 transfers, paid by x402 USDC… |
+| 2026-11-19 16:09:37 | fyi.makerradar/directory | MakerRadar.fyi | 1.0.0 | Query a curated indie product directory: search, details, pricing, editor FAQs,… |
+| 2026-11-19 16:11:32 | com.salonrenter/salonrenter-muse | SalonRenter for Muse | 1.0.0 | Search live salon suites and booths for rent near you, check tour times, and bo… |
+| 2026-11-19 16:13:17 | [io.github.comficker/factcovery-facts](https://github.com/comficker/factcovery-facts) | Factcovery Facts | 0.1.1 | 500+ short, sourced fun facts: random fact, fact of the day, search and facts b… |
+| 2026-11-19 16:14:09 | [io.github.slavosckie/oskkee](https://github.com/slavosckie/oscku) | Oskkee | 1.1.0 | Indian creators: free INR rate estimates and audience checks; search with your… |
+| 2026-11-19 16:14:16 | io.github.sparklayer-io/sparklayer | SparkLayer | 1.0.0 | Manage your SparkLayer B2B store: price lists, discounts, customer groups, comp… |
+| 2026-11-19 16:15:23 | computer.emre.scout/mcp | Scout | 1.0.0 | Newly noticed early-stage startups on X: search, company details and daily coun… |
+| 2026-11-19 16:16:33 | [com.dadaovalue/dadao-value](https://github.com/aibbx/dadao-value-compass) | Dadao Value | 1.0.0 | Value-investing checkups for US-listed companies: five-step framework analysis.… |
 
 ## Data source
 

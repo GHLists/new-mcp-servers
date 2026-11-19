@@ -1,0 +1,36 @@
+created_at,server,title,version,repository,transports,description
+2026-11-19T15:23:40.372796Z,com.useishara/ishara,Ishara,0.1.0,,streamable-http,"Website feedback for coding agents: reviewers' exact edits from live sites, applied and answered."
+2026-11-19T15:26:00.161137Z,io.github.ElormCodes1/leadsacquire-enrichment,,0.2.0,https://github.com/ElormCodes1/leadsacquire-enrichment-mcp,streamable-http,"B2B company & people enrichment plus live hiring-intent signals, from one API key."
+2026-11-19T15:26:21.54593Z,io.github.datafaro-dev/datafaro-mcp,Datafaro Trend Research,1.0.0,https://github.com/datafaro-dev/datafaro-mcp,streamable-http,"Google Trends, Bluesky and Substack data for AI agents: fast, compact, pay per use."
+2026-11-19T15:26:57.429942Z,io.github.googlarz/proton-drive-mcp,Proton Drive,1.9.0,https://github.com/googlarz/proton-drive-mcp,,"Unofficial MCP server for Proton Drive and Photos, driving the official Proton Drive CLI."
+2026-11-19T15:27:14.35401Z,shop.leefbiant123.vps/mini-xui,Mini XUI Proxy Trials,1.0.0,,streamable-http,Free short-lived VLESS Reality and Hysteria 2 proxy credentials for compatible clients.
+2026-11-19T15:27:55.787606Z,one.comando/erp,Comando1 ERP,1.0.0,,streamable-http,"ERP brasileiro para empresas de serviço: faturas, NFS-e, Pix e boleto, clientes e fluxo de caixa."
+2026-11-19T15:30:19.177482Z,io.checkview/mcp-server,CheckView,1.1.14,,,"Automated WordPress form and WooCommerce checkout testing: create, run and debug test flows."
+2026-11-19T15:30:49.055199Z,io.github.gocutover/cutover-mcp,Cutover,1.8.0,https://github.com/gocutover/cutover-mcp-public,,"Query and manage Cutover runbooks, tasks, streams, workspaces and teams through the Cutover API."
+2026-11-19T15:32:20.374448Z,io.usefulapi/fieldaware,FieldAware MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read jobs, customers, contacts and invoices; create customers, create or update jobs in FieldAware."
+2026-11-19T15:32:20.374471Z,io.usefulapi/ts-facturas,TS Facturas MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read invoices, contacts, expenses and payments; create contacts and payments in TS Facturas."
+2026-11-19T15:32:20.376359Z,io.usefulapi/resi,Resi MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read properties, units, leads and sync logs; update unit rent and availability in Resi."
+2026-11-19T15:33:46.066133Z,ai.agenticcart/agenticcart,AgenticCart: AI readiness checks for online stores,1.0.0,,streamable-http,"Check any Shopify, WooCommerce or other online store, product page or feed for AI readiness."
+2026-11-19T15:33:58.308208Z,com.cleanedweb/catalog,CleanedWeb,1.0.0,,streamable-http,Find and run maintained REST APIs that return structured records from public websites.
+2026-11-19T15:34:55.902165Z,io.github.yashwant938/arch-guard-mc,ArchGuard MCP,1.0.0,https://github.com/yashwant938/arch-guard-mc,streamable-http,"Architecture drift auditor (Tarjan SCC), zero-downtime SQL guardian & distributed-systems math."
+2026-11-19T15:36:34.675647Z,uk.co.sisoco/uk-company-ownership-companies-house,Sisoco One,0.1.0,,streamable-http,"UK and EU company data and ownership (PSC) for KYB: Companies House, Sirene, LEI, insolvency."
+2026-11-19T15:36:40.224791Z,io.github.pdhimal1/eli5-park,ELI5 Park adventures,1.0.0,https://github.com/pdhimal1/eli5,streamable-http,"Big ideas, made small — free explainers for kids on science, money, careers, cooking and more."
+2026-11-19T15:44:10.309355Z,com.castance/castance,Castance,1.0.0,,streamable-http,"Post, schedule and measure on 12 social networks, with approval before anything goes live."
+2026-11-19T15:44:42.287716Z,com.voiceassistants/voice-gateway,VoiceAssistants,1.0.0,,streamable-http,"Find local US and Canadian businesses: verified hours, phone, services, prices and answers to say."
+2026-11-19T15:49:56.412397Z,io.github.software-mansion/argent,Argent,0.34.0,https://github.com/software-mansion/argent,,"Drive iOS, Android, HarmonyOS, TV, Mac and Electron/web apps from your coding agent"
+2026-11-19T15:50:17.609993Z,io.github.arun250492/Personal-MCP,,2.0.0,https://github.com/arun250492/Personal-MCP,,"Personal desktop assistant + IsItMe? outage triage (DNS, TLS, HTTP, e-mail auth, cloud status)."
+2026-11-19T15:53:50.051981Z,io.atalana/terminal,ATALANA,1.0.0,,streamable-http,"Crypto-futures market analytics: screener tabs, coin cards, liquidations, history, event outcomes."
+2026-11-19T15:56:03.285766Z,dev.mainline/mcp,Mainline,1.1.0,,streamable-http,Gives your coding agent your story map and acceptance criteria. No tool can change the map.
+2026-11-19T15:59:31.299069Z,io.github.umutgokbayrak/openrolesdb,OpenRolesDB,1.0.0,,streamable-http,"Jobs data API, MCP server and public site showing whether a company is speeding up or slowing down h"
+2026-11-19T15:59:59.563675Z,io.github.umutgokbayrak/vcinfo,vcinfo,1.0.0,,streamable-http,"Investor data API and MCP server: profiles, portfolios and co-investor links for VCs, with source, c"
+2026-11-19T16:00:02.889999Z,io.github.umutgokbayrak/stratadb,StrataDB,1.0.0,,streamable-http,"Tech stack and vendor database that records what companies declare, mention or load, with source URL"
+2026-11-19T16:04:42.141693Z,io.github.comficker/pomoduck,,0.1.0,https://github.com/comficker/pomoduck-cli,,"Pomodoro timer for AI agents: start, check and log focus sessions, plan rounds."
+2026-11-19T16:05:18.666482Z,dev.avakit/avalanche,,0.2.0,https://github.com/mericcintosun/AvaKit,,"Scaffold a dapp, deploy contracts and send contract calls (for example mint) on the Fuji testnet."
+2026-11-19T16:07:25.024151Z,io.github.say1j/tronenergyfrog,TronEnergyFrog,0.1.0,https://github.com/say1j/tron-energy-rental,,"Live TRON Energy prices and rental for USDT TRC-20 transfers, paid by x402 USDC or API key."
+2026-11-19T16:09:37.872283Z,fyi.makerradar/directory,MakerRadar.fyi,1.0.0,,streamable-http,"Query a curated indie product directory: search, details, pricing, editor FAQs, weekly picks."
+2026-11-19T16:11:32.80634Z,com.salonrenter/salonrenter-muse,SalonRenter for Muse,1.0.0,,streamable-http,"Search live salon suites and booths for rent near you, check tour times, and book a tour."
+2026-11-19T16:13:17.153461Z,io.github.comficker/factcovery-facts,Factcovery Facts,0.1.1,https://github.com/comficker/factcovery-facts,,"500+ short, sourced fun facts: random fact, fact of the day, search and facts by topic."
+2026-11-19T16:14:09.787339Z,io.github.slavosckie/oskkee,Oskkee,1.1.0,https://github.com/slavosckie/oscku,streamable-http; streamable-http,Indian creators: free INR rate estimates and audience checks; search with your Oskkee account.
+2026-11-19T16:14:16.0037Z,io.github.sparklayer-io/sparklayer,SparkLayer,1.0.0,,streamable-http,"Manage your SparkLayer B2B store: price lists, discounts, customer groups, companies and orders."
+2026-11-19T16:15:23.481397Z,computer.emre.scout/mcp,Scout,1.0.0,,streamable-http,"Newly noticed early-stage startups on X: search, company details and daily counts."
+2026-11-19T16:16:33.048832Z,com.dadaovalue/dadao-value,Dadao Value,1.0.0,https://github.com/aibbx/dadao-value-compass,streamable-http,Value-investing checkups for US-listed companies: five-step framework analysis. Education only.
