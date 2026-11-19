@@ -9,48 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 18:21 UTC
+## Latest list — 2026-11-19 19:21 UTC
 
-New MCP servers published between 2026-11-19 17:19 UTC and 2026-11-19 18:21 UTC.
+New MCP servers published between 2026-11-19 18:21 UTC and 2026-11-19 19:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-19T18-21-57-564432Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-19T19-21-47-772075Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-19 17:20:00 | store.getsoma/soma-brewing | SOMA Non-Alcoholic Craft Beer | 1.4.1 | SOMA: five beers, four formats, nutrition estimates, pre-order links; waitlist… |
-| 2026-11-19 17:20:28 | io.groundtrace/construction-projects | Groundtrace: US construction projects a… | 1.0.1 | US solar, wind, storage, data center and building projects: who builds them, co… |
-| 2026-11-19 17:25:49 | io.soclever/soclever | soclever | 0.9.0 | Get better at what your AI knows you need to improve. |
-| 2026-11-19 17:28:09 | io.github.sortspoke/lossrunguru-mcp | LossRunGuru | 0.1.1 | Extract claims from insurance loss runs and save them as JSON, CSV or Excel. |
-| 2026-11-19 17:30:18 | com.gatrends/trend-radar | GAtrends trend radar | 1.0.0 | Free trend radar for games and tech: what is spiking now in Steam, news, Reddit… |
-| 2026-11-19 17:30:53 | [io.github.phalkmin/trendzeist-mcp](https://github.com/phalkmin/trendzeist-mcp) | Trendzeist – Google Trends for content… | 0.6.2 | Keyless MCP for content ideation and AEO: Google Trends, News, Wikipedia and ci… |
-| 2026-11-19 17:33:18 | [com.cgajs/cityvistion-mcp](https://github.com/cgajs/cityvistion-mcp) | CityVistion MCP (CityEngine / CGA.js /… | 0.1.2 | NL→CGA rules, CGA→3D(GLB) compile & official-engine parse for CityEngine/CGA.js… |
-| 2026-11-19 17:34:25 | io.citemark/citemark | Citemark | 1.0.0 | Check if ChatGPT and Claude recommend your product, who they name instead and t… |
-| 2026-11-19 17:36:39 | com.meltvalue/meltvalue | MeltValue | 1.0.0 | Live gold, silver, platinum and palladium spot prices plus melt value math for… |
-| 2026-11-19 17:36:54 | com.casasdevaradero/casas | Casas de Varadero | 1.0.0 | Casas de renta verificadas en Varadero, Cuba: buscar por fechas y personas y pe… |
-| 2026-11-19 17:41:53 | [com.webmcp-eval/webmcp-eval](https://github.com/fxops-ai/webmcp-eval-mcp) | WebMCP Eval | 1.0.1 | Evaluate one public URL for WebMCP readiness: intent, tools observed, recommend… |
-| 2026-11-19 17:42:46 | uk.co.sisoco/uk-companies-house-ownership | Sisoco One | 0.1.0 | No sign-up. UK companies, PSC/beneficial owners, KYB: Companies House, Sirene,… |
-| 2026-11-19 17:44:06 | com.changerella/app | Changerella — crypto swap aggregator | 1.0.0 | Compare live quotes from instant crypto exchangers, with KYC ratings, and get a… |
-| 2026-11-19 17:45:54 | io.github.merrowick-apps/merrowick-tools |  | 0.2.0 | Website screenshots (PNG/JPEG/PDF) and PDF/DOCX/image to Markdown with OCR, via… |
-| 2026-11-19 17:49:47 | app.wefill/wefill | Wefill | 1.0.0 | Shared shopping lists: add items, see what is needed and tick items off as boug… |
-| 2026-11-19 17:50:45 | [io.github.NathanAIoxr/global-bounties](https://github.com/NathanAIoxr/Nathan-AI-Sovereign-Core) | Nathan AI Global Bounties | 1.0.0 | Read-only directory of source-checked mathematics prizes and science challenges… |
-| 2026-11-19 17:51:09 | [com.yourfinancejob/job-tracker](https://github.com/sophron-eu/yourfinancejob-mcp) | Your Finance Job: finance job board and… | 1.5.0 | Job board and application tracker for finance, trading and quant careers. 41 to… |
-| 2026-11-19 17:54:45 | [io.github.hal9ai/fetch-url](https://github.com/hal9ai/mcp.build) | Fetch URL | 0.0.1 | Fetch and extract the text content of any URL. |
-| 2026-11-19 17:54:47 | [io.github.hal9ai/run-python](https://github.com/hal9ai/mcp.build) | Run Python | 0.0.2 | Run Python code from natural language prompts, with optional PyPI package insta… |
-| 2026-11-19 17:54:47 | [io.github.hal9ai/search-web](https://github.com/hal9ai/mcp.build) | Search Web | 0.0.1 | Search the web from natural language prompts. |
-| 2026-11-19 17:54:48 | [io.github.hal9ai/send-email](https://github.com/hal9ai/mcp.build) | Send Email | 0.0.3 | Send emails from natural language prompts. |
-| 2026-11-19 17:55:26 | [io.github.MaxxSomers1220/rigbys-cloud](https://github.com/MaxxSomers1220/rigbys-cloud-mcp) | Rigby's Cloud Grants Feed | 1.0.0 | US grants research, 4 read-only tools. From $1 once / 90 days from redemption.… |
-| 2026-11-19 17:55:59 | app.itmly/itmly | itmly | 1.0.0 | Let your assistant search, add, edit, lend, and import your itmly catalogue. |
-| 2026-11-19 18:01:53 | com.brshot/brshot | BrShot | 1.0.0 | Quote and run image, video and audio models from your agent. Credits are shown… |
-| 2026-11-19 18:05:25 | io.github.SaqibNaseer404/outboundauth | OutboundAuth Deliverability | 1.0.0 | Free SPF, DKIM and DMARC checks for any domain, as MCP tools for AI agents. |
-| 2026-11-19 18:06:35 | [io.github.sidorenkav-collab/botarmor](https://github.com/sidorenkav-collab/botarmor-mcp) |  | 0.1.1 | Crash-test chatbots and AI agents: 12 attack levels, A-F grade, ready-to-paste… |
-| 2026-11-19 18:10:18 | io.github.opensylva/silvalabs | SilvaLabs | 1.0.0 | Personal knowledge base MCP: agents read only materials you open. |
-| 2026-11-19 18:13:02 | [io.github.RitualDev-Lab/agentshield](https://github.com/RitualDev-Lab/AgentShield) | AgentShield Enterprise Zero-Leak Secret… | 0.2.2 | Enterprise Zero-Leak Secret Defense & Kernel Sandbox for Autonomous AI Agents |
-| 2026-11-19 18:15:09 | app.foxli/foxli | Foxli | 1.0.0 | Draft, schedule and publish social posts and read analytics across 7 platforms. |
-| 2026-11-19 18:18:10 | [io.github.ak10082247-max/action2mcp](https://github.com/ak10082247-max/action2mcp) | Action2MCP Custom GPT Action to Remote… | 1.0.0 | Compile retiring OpenAI Custom GPT Actions into Cloudflare Remote MCP & SKILL.m… |
-| 2026-11-19 18:18:14 | [io.github.RitualDev-Lab/web-sec-auditor](https://github.com/RitualDev-Lab/web-sec-auditor) | WebSecAuditor AI Cybersecurity & Vulner… | 1.1.1 | Enterprise-grade AI vulnerability auditor for web applications, APIs, and codeb… |
-| 2026-11-19 18:19:00 | [io.github.RitualDev-Lab/devshelf](https://github.com/RitualDev-Lab/DevShelf) | DevShelf Developer Directory & Tool Dis… | 1.1.3 | Discover 570+ developer tools, free APIs, AI agents, and open-source libraries. |
-| 2026-11-19 18:19:19 | [cloud.blitz/mcp](https://github.com/blitzworks-io/blitz-cloud-mcp) | blitz.cloud | 1.1.0 | Host apps in the EU from your assistant: App Store, Docker, GitHub, code withou… |
-| 2026-11-19 18:21:42 | [io.github.RitualDev-Lab/mcp-monetize](https://github.com/RitualDev-Lab/mcp-monetize) | MCP Monetize - Drop-in Billing & Capabi… | 0.1.3 | Drop-in billing, paywalls, and capability token middleware for MCP servers. |
+| 2026-11-19 18:23:52 | [io.github.snapsynapse/ai-incident-law](https://github.com/snapsynapse/ai-incident-law) | AI Incident Law | 0.4.4 | Public-record corpus of AI litigation, regulation, and enforcement, anchored to… |
+| 2026-11-19 18:24:36 | io.redstick/record | Redstick: construction tech on the reco… | 1.0.0 | A dated record of construction robots, software and AI tools, each read at the… |
+| 2026-11-19 18:31:06 | app.attify/attify | Attify | 0.3.0 | Read-only Attify tools: AI agent verdicts, standards, attestations and definiti… |
+| 2026-11-19 18:32:33 | [ai.llmbenchmark/llmbenchmark](https://github.com/Take-Group/llmbenchmark-mcp) | LLMBenchmark.ai | 1.0.0 | Which LLM for which task: benchmark scores and API prices for 400+ models. Free… |
+| 2026-11-19 18:34:07 | [io.github.BukeLy/peerbox](https://github.com/BukeLy/peerbox) | peerbox | 0.2.10 | A chat app for AI agents that works like email: your team's agents message each… |
+| 2026-11-19 18:34:24 | [ai.exa/exa](https://github.com/exa-labs/exa-mcp-server) | Exa | 3.4.3 | Connect AI agents to Exa for web search, content fetching, and multi-step resea… |
+| 2026-11-19 18:37:21 | io.blocksurvey/blocksurvey | BlockSurvey | 1.0.0 | Create, edit and publish surveys in your BlockSurvey team workspace. |
+| 2026-11-19 18:41:09 | [io.rzlt/connector](https://github.com/therzlt/rzlt-mcp) | RZLT | 1.0.0 | Ask RZLT, an AI-native growth and marketing agency: services, case studies, fit… |
+| 2026-11-19 18:41:33 | [io.github.temet-ai/ask-kit](https://github.com/temet-ai/ask-kit) | ask-kit | 0.2.0 | One ask tool: a cheap model with a REPL answers about your code and past agent… |
+| 2026-11-19 18:42:14 | it.one2trip/one2trip | One2Trip | 1.0.0 | Trips from Italy: flights, hotels and car hire with real prices, creator itiner… |
+| 2026-11-19 18:42:35 | [ai.achurch/church](https://github.com/a-church-ai/church) | aChurch.ai | 2.0.1 | A sanctuary for AI agents and humans: attend a service, reflect, read, search,… |
+| 2026-11-19 18:50:51 | com.nodemantis/node-mantis | Node Mantis | 0.1.9 | Run website tasks from a plain-English request in a real browser and get struct… |
+| 2026-11-19 18:51:15 | [io.github.macropulse-lab/macropulse-mcp](https://github.com/macropulse-lab/macropulse-mcp) | MacroPulse | 0.2.0 | Daily US macro regime (expansion, recovery, tightening, risk-off) from MacroPul… |
+| 2026-11-19 18:52:30 | dev.tejhq/indian-markets | TejHQ Indian Markets | 1.0.0 | NSE/BSE end-of-day data: adjusted prices, corporate actions, F&O since 2010 wit… |
+| 2026-11-19 18:52:48 | com.hellocityowl/prague-events | HelloCityOwl Prague Events | 1.0.0 | Search Prague events in English or Czech by date and venue, with links to the o… |
+| 2026-11-19 18:56:45 | [io.github.RitualDev-Lab/mcpshelf](https://github.com/RitualDev-Lab/MCPShelf) | MCPShelf Model Context Protocol Registr… | 1.0.0 | Discover, audit trust scores, and 1-click install 400+ verified MCP servers for… |
+| 2026-11-19 19:01:44 | [io.github.4lador/leantime-mcp](https://github.com/4lador/leantime-mcp) | Leantime MCP (Unofficial) | 2.10.0 | Unofficial MCP server for Leantime: 43 agent-first tools, backup/restore, dry-r… |
+| 2026-11-19 19:04:34 | com.aegeanintel/data | BRIER Data | 0.2.0 | Checkable forecast calls for agents: AEIG's locked track record, with proof of… |
+| 2026-11-19 19:05:28 | [io.github.JollyToday/weydub-media](https://github.com/JollyToday/GhostCut-auto_video_translation) | Weydub Media Localization | 1.0.1 | Erase video text, extract OCR subtitles, dub speech and translate images using… |
+| 2026-11-19 19:07:12 | [com.apiskins/mcp](https://github.com/apiskins/mcp) | API Skins | 1.0.0 | CS2 skin prices across marketplaces, buy orders, sales, item data and Steam inv… |
+| 2026-11-19 19:09:06 | [io.github.CyberKurry/pkv-sync](https://github.com/CyberKurry/pkv-sync) | PKV Sync | 1.10.2 | Self-hosted, Git-native Obsidian vault sync with a built-in MCP server, search,… |
+| 2026-11-19 19:12:01 | com.digitaloperationsinstitute.fde/fde-app | FDE App: SOPs & Workflows | 4.9.1 | Documents how your company really runs, then ranks what slows it down and plans… |
+| 2026-11-19 19:14:02 | [io.github.savegeeks/savegeeks-mcp](https://github.com/savegeeks/savegeeks-mcp) | SaveGeeks Price Finder | 1.0.0 | Find the lowest current price on Amazon.com for any product a shopper describes. |
+| 2026-11-19 19:17:05 | [io.github.cuzic4n/aiwod](https://github.com/cuzic4n/aiwod) | AIWOD MCP | 1.0.0 | Generate garage gym CrossFit WODs, push live to your Gym TV, and log household… |
+| 2026-11-19 19:17:28 | com.formtango/formtango | FormTango | 1.0.0 | Form backend: create form endpoints, get framework snippets and read submission… |
+| 2026-11-19 19:17:39 | com.sitesinthewoods/monitor | Sites in the Woods | 0.2.0 | Your team's website monitoring: uptime, incidents, speed, TLS and domain expiry. |
+| 2026-11-19 19:17:40 | [io.github.snapsynapse/every-ai-law](https://github.com/snapsynapse/every-ai-law) | EveryAILaw | 0.9.3 | AI law obligations, evidence, deadlines, saved profiles, audit trails, and sign… |
+| 2026-11-19 19:19:20 | finance.brief/brief-finance | brief.finance | 1.0.0 | Stock research from SEC filings: annual reports, financials and insider trades,… |
 
 ## Data source
 

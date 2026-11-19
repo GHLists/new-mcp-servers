@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-11-19T18:23:52.616904Z,io.github.snapsynapse/ai-incident-law,AI Incident Law,0.4.4,https://github.com/snapsynapse/ai-incident-law,,"Public-record corpus of AI litigation, regulation, and enforcement, anchored to EveryAILaw."
+2026-11-19T18:24:36.113574Z,io.redstick/record,Redstick: construction tech on the record,1.0.0,,streamable-http,"A dated record of construction robots, software and AI tools, each read at the maker's source."
+2026-11-19T18:31:06.386312Z,app.attify/attify,Attify,0.3.0,,streamable-http,"Read-only Attify tools: AI agent verdicts, standards, attestations and definitions."
+2026-11-19T18:32:33.027465Z,ai.llmbenchmark/llmbenchmark,LLMBenchmark.ai,1.0.0,https://github.com/Take-Group/llmbenchmark-mcp,streamable-http,"Which LLM for which task: benchmark scores and API prices for 400+ models. Free, no key."
+2026-11-19T18:34:07.891789Z,io.github.BukeLy/peerbox,peerbox,0.2.10,https://github.com/BukeLy/peerbox,,A chat app for AI agents that works like email: your team's agents message each other over MCP.
+2026-11-19T18:34:24.261929Z,ai.exa/exa,Exa,3.4.3,https://github.com/exa-labs/exa-mcp-server,streamable-http,"Connect AI agents to Exa for web search, content fetching, and multi-step research."
+2026-11-19T18:37:21.347622Z,io.blocksurvey/blocksurvey,BlockSurvey,1.0.0,,streamable-http,"Create, edit and publish surveys in your BlockSurvey team workspace."
+2026-11-19T18:41:09.622973Z,io.rzlt/connector,RZLT,1.0.0,https://github.com/therzlt/rzlt-mcp,streamable-http,"Ask RZLT, an AI-native growth and marketing agency: services, case studies, fit check, booking."
+2026-11-19T18:41:33.304982Z,io.github.temet-ai/ask-kit,ask-kit,0.2.0,https://github.com/temet-ai/ask-kit,,One ask tool: a cheap model with a REPL answers about your code and past agent sessions
+2026-11-19T18:42:14.467526Z,it.one2trip/one2trip,One2Trip,1.0.0,,streamable-http,"Trips from Italy: flights, hotels and car hire with real prices, creator itineraries, booking link."
+2026-11-19T18:42:35.647186Z,ai.achurch/church,aChurch.ai,2.0.1,https://github.com/a-church-ai/church,streamable-http,"A sanctuary for AI agents and humans: attend a service, reflect, read, search, and ask. No auth."
+2026-11-19T18:50:51.486444Z,com.nodemantis/node-mantis,Node Mantis,0.1.9,,,Run website tasks from a plain-English request in a real browser and get structured data back.
+2026-11-19T18:51:15.806634Z,io.github.macropulse-lab/macropulse-mcp,MacroPulse,0.2.0,https://github.com/macropulse-lab/macropulse-mcp,,"Daily US macro regime (expansion, recovery, tightening, risk-off) from MacroPulse."
+2026-11-19T18:52:30.367496Z,dev.tejhq/indian-markets,TejHQ Indian Markets,1.0.0,,streamable-http,"NSE/BSE end-of-day data: adjusted prices, corporate actions, F&O since 2010 with IV and Greeks."
+2026-11-19T18:52:48.703413Z,com.hellocityowl/prague-events,HelloCityOwl Prague Events,1.0.0,,streamable-http,"Search Prague events in English or Czech by date and venue, with links to the original programmes."
+2026-11-19T18:56:45.894186Z,io.github.RitualDev-Lab/mcpshelf,"MCPShelf Model Context Protocol Registry, Search & Security Auditor",1.0.0,https://github.com/RitualDev-Lab/MCPShelf,,"Discover, audit trust scores, and 1-click install 400+ verified MCP servers for AI coding agents."
+2026-11-19T19:01:44.756807Z,io.github.4lador/leantime-mcp,Leantime MCP (Unofficial),2.10.0,https://github.com/4lador/leantime-mcp,,"Unofficial MCP server for Leantime: 43 agent-first tools, backup/restore, dry-run validation"
+2026-11-19T19:04:34.641579Z,com.aegeanintel/data,BRIER Data,0.2.0,,streamable-http,"Checkable forecast calls for agents: AEIG's locked track record, with proof of each lock."
+2026-11-19T19:05:28.830961Z,io.github.JollyToday/weydub-media,Weydub Media Localization,1.0.1,https://github.com/JollyToday/GhostCut-auto_video_translation,,"Erase video text, extract OCR subtitles, dub speech and translate images using your Weydub account."
+2026-11-19T19:07:12.094451Z,com.apiskins/mcp,API Skins,1.0.0,https://github.com/apiskins/mcp,streamable-http,"CS2 skin prices across marketplaces, buy orders, sales, item data and Steam inventories."
+2026-11-19T19:09:06.508264Z,io.github.CyberKurry/pkv-sync,PKV Sync,1.10.2,https://github.com/CyberKurry/pkv-sync,,"Self-hosted, Git-native Obsidian vault sync with a built-in MCP server, search, and wiki lint."
+2026-11-19T19:12:01.966613Z,com.digitaloperationsinstitute.fde/fde-app,FDE App: SOPs & Workflows,4.9.1,,streamable-http,"Documents how your company really runs, then ranks what slows it down and plans what to change."
+2026-11-19T19:14:02.55368Z,io.github.savegeeks/savegeeks-mcp,SaveGeeks Price Finder,1.0.0,https://github.com/savegeeks/savegeeks-mcp,streamable-http,Find the lowest current price on Amazon.com for any product a shopper describes.
+2026-11-19T19:17:05.629873Z,io.github.cuzic4n/aiwod,AIWOD MCP,1.0.0,https://github.com/cuzic4n/aiwod,streamable-http,"Generate garage gym CrossFit WODs, push live to your Gym TV, and log household Lift Ledger scores."
+2026-11-19T19:17:28.119892Z,com.formtango/formtango,FormTango,1.0.0,,streamable-http,"Form backend: create form endpoints, get framework snippets and read submissions."
+2026-11-19T19:17:39.966144Z,com.sitesinthewoods/monitor,Sites in the Woods,0.2.0,,streamable-http,"Your team's website monitoring: uptime, incidents, speed, TLS and domain expiry."
+2026-11-19T19:17:40.510274Z,io.github.snapsynapse/every-ai-law,EveryAILaw,0.9.3,https://github.com/snapsynapse/every-ai-law,,"AI law obligations, evidence, deadlines, saved profiles, audit trails, and signed change alerts."
+2026-11-19T19:19:20.041785Z,finance.brief/brief-finance,brief.finance,1.0.0,,streamable-http,"Stock research from SEC filings: annual reports, financials and insider trades, each with a source."
