@@ -1,0 +1,36 @@
+created_at,server,title,version,repository,transports,description
+2026-11-20T13:23:53.950948Z,com.gentleface/icons,Gentleface icons,0.7.0,https://github.com/andaja/gentleface-icons,streamable-http,"Find MIT pixel-aligned icons by meaning; get SVG, React, SwiftUI or Compose code."
+2026-11-20T13:23:54.642227Z,com.uxify/mcp,Uxify,1.0.0,,streamable-http,"Website intelligence and AI CRO: site speed, AI search competitors and estimated revenue uplift."
+2026-11-20T13:29:30.298929Z,com.thaiprops/mcp,ThaiProps Thailand Real Estate,1.0.1,,streamable-http,Search live published Thailand properties and projects from ThaiProps.
+2026-11-20T13:33:49.961177Z,com.stillneedsahuman/whats-wrong,What's Wrong: translation QA,0.1.0,,streamable-http,Translation QA: checks a translation against its source. It checks; it does not translate.
+2026-11-20T13:34:43.095913Z,se.kontiq/bokforing,Kontiq,1.0.0,,streamable-http,"Swedish bookkeeping: read ledgers, VAT and payroll; create drafts that a person approves."
+2026-11-20T13:38:56.863994Z,ai.xomia/xomiadata-apify-actors,xomiadata open-data Actors (via official Apify MCP),1.0.0,,streamable-http,"EU & French tenders with AI summaries, company checks, product recalls - via official Apify MCP"
+2026-11-20T13:39:57.388474Z,com.gethinto/hinto,Hinto,1.0.0,,streamable-http,"Customer support for B2B SaaS where every ticket arrives investigated, with cause and evidence."
+2026-11-20T13:43:55.93997Z,io.github.carlwr/zshref-mcp,zshref,0.1.0-alpha.5,https://github.com/carlwr/zsh-lexicon,,"Offline zsh reference: look up syntax, search the manual, print docs. No shell, no network."
+2026-11-20T13:45:33.567253Z,garden.lexicon/lexicon-garden,Lexicon Garden,3.0.20,,streamable-http,"Resolve, search, and validate AT Protocol lexicons."
+2026-11-20T13:48:02.490734Z,io.github.Umutoku/uyap-editor-mcp,UYAP Editor MCP,0.19.0,https://github.com/Umutoku/uyap-editor-mcp,,Local UYAP Document Editor tools for Windows x64
+2026-11-20T13:50:36.995778Z,io.github.shray77/vetmcp,VetMCP,1.1.0,https://github.com/shray77/vetmcp,,"Veterinary medicine and epidemiology: heat stress (THI), avian flu, outbreaks in Russia, drugs."
+2026-11-20T13:51:27.963323Z,com.piqline/piqline,Piqline,1.0.0,,streamable-http,"Dated, sourced web intelligence: who saw it first, who pays to hire or sell, live web reads."
+2026-11-20T13:51:28.557108Z,com.piqline/open,Piqline (open door),1.0.0,,streamable-http,"No key: what Piqline can do for a business, and its openly published data. Read-only."
+2026-11-20T13:53:44.957684Z,ai.agentapigate/polymarket-odds-prediction-market-events-mcp,,1.2.0,,streamable-http,"Live Polymarket prediction market events, implied probabilities & CLOB L2 orderbook odds MCP ($0.001"
+2026-11-20T13:53:46.043505Z,ai.agentapigate/google-trends-seo-keywords-serp-search-mcp,,1.2.0,,streamable-http,"Real-time Google Trends breakout queries, calibrated daily interest, keyword volume & SERP MCP."
+2026-11-20T13:53:48.415805Z,ai.agentapihub/polymarket-odds-prediction-market-events-mcp,,1.2.0,,streamable-http,"Live Polymarket prediction market events, implied probabilities & CLOB L2 orderbook odds MCP ($0.001"
+2026-11-20T13:53:49.516497Z,ai.agentapihub/google-trends-seo-keywords-serp-search-mcp,,1.2.0,,streamable-http,"Real-time Google Trends breakout queries, calibrated daily interest, keyword volume & SERP MCP."
+2026-11-20T13:56:44.778887Z,com.membrowse/membrowse,MemBrowse,1.0.0,,streamable-http,"Firmware FLASH/RAM history, build diffs, symbol sizes and benchmarks for embedded projects"
+2026-11-20T13:58:15.523422Z,com.wrenform/wrenform,Wrenform,1.3.10,,streamable-http,"Form backend: create contact forms, get snippets, read submissions. Sign in with your account."
+2026-11-20T13:58:15.708897Z,com.wrenform/wrenform-quick,Wrenform Quick Forms,1.3.10,,streamable-http,Add a working contact form to any site with no account: just the email that receives submissions.
+2026-11-20T13:59:48.39156Z,uz.emrr/emrr,emrr,1.0.0,,streamable-http,"Your startup's revenue: MRR, sales, churn, suggestions and goals from Stripe, App Store and more."
+2026-11-20T14:03:14.875947Z,de.innov-ai-tive.berichtsheft/ki-berichtsheft,KI-Berichtsheft,1.0.0,,streamable-http,"German apprenticeship logbook: entries, framework-plan coverage, trainer sign-off."
+2026-11-20T14:04:18.59696Z,io.github.andezdev/tokenlite-mysql-mcp,,5.0.0,https://github.com/andezdev/tokenlite-mysql-mcp,,"A secure, efficient, and intelligent MySQL server for the Model Context Protocol"
+2026-11-20T14:05:15.788629Z,io.github.Presencis-com/regulatory-mcp,,1.1.0,https://github.com/Presencis-com/regulatory-mcp,,"Read-only MCP server: 51 AI/security regulations, crosswalks & 11 global health-data AI gateways."
+2026-11-20T14:05:36.578991Z,com.gracieta/gracieta,"Gracieta: teatro, humor y musicales en España",1.2.0,,streamable-http,Cartelera de espectáculos en España: busca por ciudad y fecha y compara precios entre plataformas.
+2026-11-20T14:06:29.585093Z,net.placeprofile/evidence,"PlaceProfile evidence: venue atmosphere, verified (paid)",1.0.0,,streamable-http,"Paid by x402: a venue's atmosphere from its playlist's audio features, verified, Bitcoin receipt."
+2026-11-20T14:06:29.982976Z,net.placeprofile/placeprofile,PlaceProfile: find venues by measured atmosphere (free),1.5.0,,streamable-http,"Find bars, restaurants, cafes and hotels by atmosphere measured from their playlists. Free."
+2026-11-20T14:06:30.415364Z,net.placeprofile/venue-atmosphere-verification-bitcoin,"Venue atmosphere verification, Bitcoin timestamp (PlaceProfile, paid)",1.0.0,,streamable-http,"Paid by x402: a venue's atmosphere from its playlist's audio features, verified, Bitcoin receipt."
+2026-11-20T14:06:39.232777Z,dev.workers.racketeer.racketeer-botapi/pretrade,Racketeer Pre-Trade Checks (Solana),2.1.0,,streamable-http,Is this Solana token safe to buy? SAFE/CAUTION/BLOCK pre-trade check from raw chain state. x402.
+2026-11-20T14:13:52.781863Z,ai.opensouk/agent,OpenSouk,1.0.0,,streamable-http,x402 referral network for AI agents. Proof-of-use reviews that earn commission on referred sales.
+2026-11-20T14:15:24.214622Z,io.github.devson-software/kernline-mcp,Kernline,0.1.1,https://github.com/devson-software/kernline-mcp,,"Read CSS, Tailwind, and design tokens from the Kernline tab."
+2026-11-20T14:15:48.647142Z,io.github.fxjima/shopify-woocommerce-store-intelligence,Shopify & WooCommerce Store Intelligence,0.1.4,,streamable-http,"Profile Shopify and WooCommerce stores by domain: theme, catalog, prices, apps, business contacts."
+2026-11-20T14:15:49.1567Z,io.github.fxjima/company-hiring-signals,Company Hiring Signals,0.1.3,,streamable-http,"Hiring signals by company domain: open and new roles, functions and remote share across 6 ATSs."
+2026-11-20T14:17:31.643331Z,io.github.srigenmedia/kavach-kya,Kavach KYA (Sovereign Agentic Spend Firewall),0.1.0,https://github.com/srigenmedia/kavach-kya,streamable-http,"Zero-custody agentic spend firewall with <50ms kill-switch, 1-tap 2FA holds & audit hash chains."
+2026-11-20T14:19:38.01052Z,io.github.MISHHF93/containermaster,ContainerMaster,1.2.0,https://github.com/MISHHF93/contrainersmaster,streamable-http,"Freight broker workspace: client requests, freight quotes, landed cost, tracking, catalogue."
