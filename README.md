@@ -9,34 +9,66 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 02:20 UTC
+## Latest list — 2026-11-20 03:21 UTC
 
-New MCP servers published between 2026-11-20 01:19 UTC and 2026-11-20 02:20 UTC.
+New MCP servers published between 2026-11-20 02:20 UTC and 2026-11-20 03:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-20T02-20-41-781421Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-20T03-21-24-84547Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-20 01:29:04 | com.directdetailingservicesllc/booking | Direct Detailing Services | 1.0.0 | Mobile car detailing in Temecula & Murrieta, CA: quotes, open times and booking… |
-| 2026-11-20 01:32:49 | io.github.howardchenghuang-dotcom/torontowalk | Toronto Walk | 1.0.0 | Free 3D walk through downtown Toronto in the browser: how to play, places to fi… |
-| 2026-11-20 01:38:36 | [io.github.rikocr8orh8/regulatory-signals](https://github.com/rikocr8orh8/regulatorysignals.com) |  | 0.1.4 | Audit GitHub repos for security, compliance, and EU AI Act exposure from Claude… |
-| 2026-11-20 01:39:05 | com.cinelyai/cinely | Cinely | 1.0.0 | Make short AI films from a story idea: script, cast, a free preview, then the f… |
-| 2026-11-20 01:41:06 | [io.github.ugchooks/mcp-server](https://github.com/ugchooks/mcp-server) |  | 1.0.1 | UGCHooks MCP: turn product links into TikTok and Reels post batches; read hooks… |
-| 2026-11-20 01:44:24 | ru.firmoteka/companies | Firmoteka | 0.1.0 | Search Russian companies by name, INN or OGRN. Get company details and annual f… |
-| 2026-11-20 01:49:49 | [io.github.sankaHQ/sanka-mcp](https://github.com/sankaHQ/sanka-mcp) | Sanka | 1.0.0 | Sanka Desk IT requests, Sanka Flow records, approvals, workflows and app migrat… |
-| 2026-11-20 01:50:04 | [com.kleooai/kleo](https://github.com/tonnooooo/kleo-mcp) | Kleo | 1.0.1 | Narrated 4K 60 fps films from a brief, realistic or animation, made from your a… |
-| 2026-11-20 01:50:34 | us.shprd.mcp/bible | Shprd Bible | 1.0.0 | Read, search and quote the World English Bible, with a reader card and a verse… |
-| 2026-11-20 01:56:51 | app.getosmo.esim/travel-esim | OsmO Travel eSIM | 1.0.0 | Compare travel eSIM data plans for any trip, check phone eSIM support, estimate… |
-| 2026-11-20 01:57:04 | [io.github.yiyabo/phagescope](https://github.com/yiyabo/phagescope-mcp) | PhageScope | 0.1.0 | Read-only PhageScope phage database. Access on request; tokens granted after ap… |
-| 2026-11-20 02:00:13 | [org.indianopinion/news](https://github.com/IndianOpinion/mcp) | Indian Opinion | 0.2.2 | Indian news briefs synthesised from every outlet on a story, with framing label… |
-| 2026-11-20 02:01:17 | [io.github.ballostark-wq/bifrost-kfinance-mcp](https://github.com/ballostark-wq/bifrost-kfinance-mcp) | Bifrost K-Finance & x402 Alpha | 2.0.0 | Live Korea OpenDART filings, BOK ECOS FX/yields, and US-KR HBM supply-chain too… |
-| 2026-11-20 02:02:36 | [br.com.dten/speed](https://github.com/Dten-Org/dten-speed) | Dten speed test | 1.0.0 | Internet speed test of the user's own computer: download, upload, idle latency.… |
-| 2026-11-20 02:03:22 | dev.workers.grokbot2020.token-scam-screen/screener | Clearsignal Labs Token Scam Screen | 0.1.0 | Read-only Solana/pump.fun token scam screener: verdicts, alerts, bad-wallet lis… |
-| 2026-11-20 02:04:47 | com.logtolast/trading-journal | LogToLast Trading Journal & Playbook | 2.1.0 | Connect Claude or Cursor to your LogToLast futures & forex trading journal and… |
-| 2026-11-20 02:08:23 | io.github.sumitrmardy/substack-scraper | Substack Scraper | 1.0.0 | Posts of any Substack newsletter with engagement counts and optional full text. |
-| 2026-11-20 02:09:52 | ca.regmap/regmap | RegMap Canada | 1.0.0 | Canadian internal trade barriers, reform tracker and federal/provincial regulat… |
-| 2026-11-20 02:12:19 | [io.github.DMS1979/ingravity-security](https://github.com/DMS1979/ingravity-security) | Ingravity Autonomous EVM Security & DeF… | 1.3.2 | 5-EVM pre-sign firewall, ERC-20 honeypot scanner, DeFi MEV math & Solidity audi… |
-| 2026-11-20 02:12:40 | com.vpsyou/mcp | VPSYOU CN2 Latency | 1.0.0 | Read live and historical CN2 latency and packet loss measured from Guangdong. |
+| 2026-11-20 02:20:54 | io.github.seenly721/seenly | Seenly | 1.0.0 | Read-only Seenly tools: explain the platform, hand a signup link, fetch public… |
+| 2026-11-20 02:34:07 | [com.chinamedscheck/mcp](https://github.com/AbigailDavised/chinamedscheck-mcp) | ChinaMedsCheck — China Customs GACC Med… | 1.0.0 | Screen 38 medications against China Customs GACC rules, CAAC limits & airport d… |
+| 2026-11-20 02:34:11 | [io.github.reno42/futuraria-design](https://github.com/reno42/design) | Futuraria Design (Musa by Futuraria) | 1.0.0 | AI agents create real designs, video and content for real brands via remote MCP… |
+| 2026-11-20 02:37:11 | [io.github.Arobi-Technology-Alliance-Lab/immaculate](https://github.com/Arobi-Technology-Alliance-Lab/immaculate-mcp) | Arobi Immaculate MCP | 1.0.0 | Hosted MCP server for pre-action AI governance verdicts, model routing, and evi… |
+| 2026-11-20 02:38:27 | [com.chinadoccheck/mcp](https://github.com/AbigailDavised/chinadoccheck-mcp) | ChinaDocCheck — 16-Country China Hague… | 1.0.0 | Verify 16-country China Hague Apostille rules, 180-day validity & USDOS jurisdi… |
+| 2026-11-20 02:43:35 | [io.github.YXZYSME/mimikyu](https://github.com/YXZYSME/mimikyu) | mimikyu | 0.1.0 | Fast Chromium CDP & Firefox BiDi browser automation and session isolation MCP s… |
+| 2026-11-20 02:52:26 | [io.github.acovot/arancelmx-mcp](https://github.com/acovot/arancelmx-mcp) | ArancelMX | 0.1.0 | Consulta una fracción de la TIGIE (IGI, IVA, IEPS, regulaciones y NICO) desde t… |
+| 2026-11-20 02:54:35 | com.taipeiledger/ledger | Taipei Ledger | 1.0.0 | Taiwan-listed companies in English: monthly revenue, filings, supply chains and… |
+| 2026-11-20 02:57:40 | net.repleader/mcp | Repleader | 1.6.0 | US federal court filing counts, lawsuits naming companies, judges, MDLs, state… |
+| 2026-11-20 02:58:07 | [io.github.fxia0018/furima-mcp](https://github.com/fxia0018/furima-mcp) | Furima | 0.1.0 | Search Mercari, Yahoo! Auctions, Yahoo! Flea Market and Rakuma, and check price… |
+| 2026-11-20 02:59:48 | com.mobileaccounting/mcp | Mobile Accounting | 1.0.0 | Your books in your AI assistant: draft expenses, bills, invoices, estimates; as… |
+| 2026-11-20 03:01:07 | net.live-face-swap/video-face-swap | Live Face Swap | 0.1.0 | Estimate, create, and track approved video face swaps with Live Face Swap. |
+| 2026-11-20 03:03:09 | com.customsolutionsindy/custom-solutions | Custom Solutions | 1.2.0 | Real estate calculators with citations, plus answers and facts from Custom Solu… |
+| 2026-11-20 03:04:03 | [com.signature-theme/x420-mcp](https://github.com/BodhiNath/X420) | X420 agent services | 1.0.0 | MCP server for X420's pay-per-call agent services (x402, USDC on Base, paid fro… |
+| 2026-11-20 03:07:02 | [com.usendata/yushan-data-mcp](https://github.com/usensedata/usensedata-mcp-server-query-china-company) | Yushan Data MCP Server | 1.0.0 | Chinese company registry, litigation, IP and credit data for AI agents. Read-on… |
+| 2026-11-20 03:09:00 | ai.kineticad.get/cnc-parts | KinetiCAD CNC Parts | 1.0.0 | Check, price and order CNC machined parts from your agent's CadQuery code or ST… |
+| 2026-11-20 03:09:52 | com.rentluna/lunahub | LunaHub | 1.0.0 | LunaHub for real estate agents: your clients, tours, applications and messages,… |
+| 2026-11-20 03:13:05 | [io.github.xiaobinger/curlgen-mcp](https://github.com/xiaobinger/cURL_remote) | cURL Generator MCP | 1.0.0 | HTTP requests, signed code generation, GateShell/SSH execution and file transfe… |
+| 2026-11-20 03:18:19 | [io.github.mrfentmen/wine-tasting-notes-log-cost-mcp](https://github.com/mrfentmen/awesome-servers) | Tasting Notes Log Budget | 1.0.0 | Real local JSON analysis of tasting notes log in the Wine lane. 25 MCP tools, n… |
+| 2026-11-20 03:18:36 | [io.github.mrfentmen/wine-tasting-notes-log-sim-mcp](https://github.com/mrfentmen/awesome-servers) | Tasting Notes Log Simulator | 1.0.0 | Real local JSON analysis of tasting notes log in the Wine lane. 25 MCP tools, n… |
+| 2026-11-20 03:18:43 | [io.github.mrfentmen/woodworking-finish-oil-coats-check-mcp](https://github.com/mrfentmen/awesome-servers) | Finish Oil Coats Audit | 1.0.0 | Real local JSON analysis of finish oil coats in the Woodworking lane. 25 MCP to… |
+| 2026-11-20 03:18:44 | [io.github.mrfentmen/woodworking-finish-oil-coats-compare-mcp](https://github.com/mrfentmen/awesome-servers) | Finish Oil Coats Compare | 1.0.0 | Real local JSON analysis of finish oil coats in the Woodworking lane. 25 MCP to… |
+| 2026-11-20 03:18:45 | [io.github.mrfentmen/woodworking-finish-oil-coats-cost-mcp](https://github.com/mrfentmen/awesome-servers) | Finish Oil Coats Budget | 1.0.0 | Real local JSON analysis of finish oil coats in the Woodworking lane. 25 MCP to… |
+| 2026-11-20 03:18:46 | [io.github.mrfentmen/woodworking-finish-oil-coats-index-mcp](https://github.com/mrfentmen/awesome-servers) | Finish Oil Coats Archive | 1.0.0 | Real local JSON analysis of finish oil coats in the Woodworking lane. 25 MCP to… |
+| 2026-11-20 03:18:47 | [io.github.mrfentmen/woodworking-finish-oil-coats-match-mcp](https://github.com/mrfentmen/awesome-servers) | Finish Oil Coats Matcher | 1.0.0 | Real local JSON analysis of finish oil coats in the Woodworking lane. 25 MCP to… |
+| 2026-11-20 03:18:47 | [io.github.mrfentmen/woodworking-finish-oil-coats-plan-mcp](https://github.com/mrfentmen/awesome-servers) | Finish Oil Coats Planner | 1.0.0 | Real local JSON analysis of finish oil coats in the Woodworking lane. 25 MCP to… |
+| 2026-11-20 03:18:48 | [io.github.mrfentmen/woodworking-finish-oil-coats-sim-mcp](https://github.com/mrfentmen/awesome-servers) | Finish Oil Coats Simulator | 1.0.0 | Real local JSON analysis of finish oil coats in the Woodworking lane. 25 MCP to… |
+| 2026-11-20 03:18:49 | [io.github.mrfentmen/woodworking-finish-oil-coats-track-mcp](https://github.com/mrfentmen/awesome-servers) | Finish Oil Coats Tracker | 1.0.0 | Real local JSON analysis of finish oil coats in the Woodworking lane. 25 MCP to… |
+| 2026-11-20 03:18:50 | [io.github.mrfentmen/woodworking-lumber-buying-guide-check-mcp](https://github.com/mrfentmen/awesome-servers) | Lumber Buying Guide Audit | 1.0.0 | Real local JSON analysis of lumber buying guide in the Woodworking lane. 25 MCP… |
+| 2026-11-20 03:18:51 | [io.github.mrfentmen/woodworking-lumber-buying-guide-compare-mcp](https://github.com/mrfentmen/awesome-servers) | Lumber Buying Guide Compare | 1.0.0 | Real local JSON analysis of lumber buying guide in the Woodworking lane. 25 MCP… |
+| 2026-11-20 03:18:51 | [io.github.mrfentmen/woodworking-lumber-buying-guide-cost-mcp](https://github.com/mrfentmen/awesome-servers) | Lumber Buying Guide Budget | 1.0.0 | Real local JSON analysis of lumber buying guide in the Woodworking lane. 25 MCP… |
+| 2026-11-20 03:18:52 | [io.github.mrfentmen/woodworking-lumber-buying-guide-index-mcp](https://github.com/mrfentmen/awesome-servers) | Lumber Buying Guide Archive | 1.0.0 | Real local JSON analysis of lumber buying guide in the Woodworking lane. 25 MCP… |
+| 2026-11-20 03:18:53 | [io.github.mrfentmen/woodworking-lumber-buying-guide-match-mcp](https://github.com/mrfentmen/awesome-servers) | Lumber Buying Guide Matcher | 1.0.0 | Real local JSON analysis of lumber buying guide in the Woodworking lane. 25 MCP… |
+| 2026-11-20 03:18:54 | [io.github.mrfentmen/woodworking-lumber-buying-guide-plan-mcp](https://github.com/mrfentmen/awesome-servers) | Lumber Buying Guide Planner | 1.0.0 | Real local JSON analysis of lumber buying guide in the Woodworking lane. 25 MCP… |
+| 2026-11-20 03:18:55 | [io.github.mrfentmen/woodworking-lumber-buying-guide-sim-mcp](https://github.com/mrfentmen/awesome-servers) | Lumber Buying Guide Simulator | 1.0.0 | Real local JSON analysis of lumber buying guide in the Woodworking lane. 25 MCP… |
+| 2026-11-20 03:18:55 | [io.github.mrfentmen/woodworking-lumber-buying-guide-track-mcp](https://github.com/mrfentmen/awesome-servers) | Lumber Buying Guide Tracker | 1.0.0 | Real local JSON analysis of lumber buying guide in the Woodworking lane. 25 MCP… |
+| 2026-11-20 03:18:56 | [io.github.mrfentmen/woodworking-shelf-build-plan-check-mcp](https://github.com/mrfentmen/awesome-servers) | Shelf Build Plan Audit | 1.0.0 | Real local JSON analysis of shelf build plan in the Woodworking lane. 25 MCP to… |
+| 2026-11-20 03:18:57 | [io.github.mrfentmen/woodworking-shelf-build-plan-compare-mcp](https://github.com/mrfentmen/awesome-servers) | Shelf Build Plan Compare | 1.0.0 | Real local JSON analysis of shelf build plan in the Woodworking lane. 25 MCP to… |
+| 2026-11-20 03:18:58 | [io.github.mrfentmen/woodworking-shelf-build-plan-cost-mcp](https://github.com/mrfentmen/awesome-servers) | Shelf Build Plan Budget | 1.0.0 | Real local JSON analysis of shelf build plan in the Woodworking lane. 25 MCP to… |
+| 2026-11-20 03:18:59 | [io.github.mrfentmen/woodworking-shelf-build-plan-index-mcp](https://github.com/mrfentmen/awesome-servers) | Shelf Build Plan Archive | 1.0.0 | Real local JSON analysis of shelf build plan in the Woodworking lane. 25 MCP to… |
+| 2026-11-20 03:19:00 | [io.github.mrfentmen/woodworking-shelf-build-plan-match-mcp](https://github.com/mrfentmen/awesome-servers) | Shelf Build Plan Matcher | 1.0.0 | Real local JSON analysis of shelf build plan in the Woodworking lane. 25 MCP to… |
+| 2026-11-20 03:19:00 | [io.github.mrfentmen/woodworking-shelf-build-plan-plan-mcp](https://github.com/mrfentmen/awesome-servers) | Shelf Build Plan Planner | 1.0.0 | Real local JSON analysis of shelf build plan in the Woodworking lane. 25 MCP to… |
+| 2026-11-20 03:19:01 | [io.github.mrfentmen/woodworking-shelf-build-plan-sim-mcp](https://github.com/mrfentmen/awesome-servers) | Shelf Build Plan Simulator | 1.0.0 | Real local JSON analysis of shelf build plan in the Woodworking lane. 25 MCP to… |
+| 2026-11-20 03:19:02 | [io.github.mrfentmen/woodworking-shelf-build-plan-track-mcp](https://github.com/mrfentmen/awesome-servers) | Shelf Build Plan Tracker | 1.0.0 | Real local JSON analysis of shelf build plan in the Woodworking lane. 25 MCP to… |
+| 2026-11-20 03:19:03 | [io.github.mrfentmen/woodworking-shop-safety-setup-check-mcp](https://github.com/mrfentmen/awesome-servers) | Shop Safety Setup Audit | 1.0.0 | Real local JSON analysis of shop safety setup in the Woodworking lane. 25 MCP t… |
+| 2026-11-20 03:19:04 | [io.github.mrfentmen/woodworking-shop-safety-setup-compare-mcp](https://github.com/mrfentmen/awesome-servers) | Shop Safety Setup Compare | 1.0.0 | Real local JSON analysis of shop safety setup in the Woodworking lane. 25 MCP t… |
+| 2026-11-20 03:19:04 | [io.github.mrfentmen/woodworking-shop-safety-setup-cost-mcp](https://github.com/mrfentmen/awesome-servers) | Shop Safety Setup Budget | 1.0.0 | Real local JSON analysis of shop safety setup in the Woodworking lane. 25 MCP t… |
+| 2026-11-20 03:19:05 | [io.github.mrfentmen/woodworking-shop-safety-setup-index-mcp](https://github.com/mrfentmen/awesome-servers) | Shop Safety Setup Archive | 1.0.0 | Real local JSON analysis of shop safety setup in the Woodworking lane. 25 MCP t… |
+| 2026-11-20 03:19:06 | [io.github.mrfentmen/woodworking-shop-safety-setup-match-mcp](https://github.com/mrfentmen/awesome-servers) | Shop Safety Setup Matcher | 1.0.0 | Real local JSON analysis of shop safety setup in the Woodworking lane. 25 MCP t… |
+| 2026-11-20 03:19:07 | [io.github.mrfentmen/woodworking-shop-safety-setup-plan-mcp](https://github.com/mrfentmen/awesome-servers) | Shop Safety Setup Planner | 1.0.0 | Real local JSON analysis of shop safety setup in the Woodworking lane. 25 MCP t… |
+| 2026-11-20 03:19:08 | [io.github.mrfentmen/woodworking-shop-safety-setup-sim-mcp](https://github.com/mrfentmen/awesome-servers) | Shop Safety Setup Simulator | 1.0.0 | Real local JSON analysis of shop safety setup in the Woodworking lane. 25 MCP t… |
+| 2026-11-20 03:19:09 | [io.github.mrfentmen/woodworking-shop-safety-setup-track-mcp](https://github.com/mrfentmen/awesome-servers) | Shop Safety Setup Tracker | 1.0.0 | Real local JSON analysis of shop safety setup in the Woodworking lane. 25 MCP t… |
 
 ## Data source
 
