@@ -9,50 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 21:21 UTC
+## Latest list — 2026-11-20 22:19 UTC
 
-New MCP servers published between 2026-11-20 20:20 UTC and 2026-11-20 21:21 UTC.
+New MCP servers published between 2026-11-20 21:21 UTC and 2026-11-20 22:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-20T21-21-30-869458Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-20T22-19-00-324393Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-20 20:20:27 | io.github.pvalyou/company-data | Pvalyou Company Data | 1.0.0 | Company registries, website liveness, patents, job postings, funding, market si… |
-| 2026-11-20 20:22:14 | com.linkyflow/linkyflow | LinkyFlow | 2.97.0 | Your Shopify, Stripe, WooCommerce, Odoo and more, live: read the data, act on i… |
-| 2026-11-20 20:26:31 | [app.hyperperps/liquidation-heatmap](https://github.com/velinxs/hyperperps-heatmap-plugin) | Hyperliquid Liquidation Heatmap – Crypt… | 1.1.0 | Live Hyperliquid liquidation heatmap: liquidation clusters, stop pools, TP wall… |
-| 2026-11-20 20:28:38 | lu.chathome/chathome | ChatHome — Luxembourg Real Estate | 1.15.0 | Home search in Luxembourg and its commuter belt, plus market data. Read-only, n… |
-| 2026-11-20 20:28:50 | app.teslacoil/teslacoil | Tesla Coil Audio Driver | 1.0.0 | Write tunes for your Tesla coil, browse the teslacoil.app community and check l… |
-| 2026-11-20 20:30:07 | dev.streampresence/receipts-verifier | Stream Presence — Receipt Verifier | 1.0.0 | Verify signed proof-of-work receipts and issuer standing for AI agents against… |
-| 2026-11-20 20:30:30 | io.github.McCoyLab87/skillshop | Skillshop | 0.1.5 | Expert skills plus server-side checks for grant writing, home labs and AI agents |
-| 2026-11-20 20:30:57 | [io.github.wistia/wistia-api-mcp](https://github.com/wistia/agent-plugins) | Wistia | 0.2.0 | Manage a Wistia video hosting account: media, folders, channels, captions, anal… |
-| 2026-11-20 20:35:53 | io.github.nixie-code/nixie-mcp | Nixie | 0.1.1 | Hand coding tasks to Nixie, a bring-your-own-key AI coding agent; get back its… |
-| 2026-11-20 20:41:51 | [io.github.TudorLane/tudorlane-data-lookups](https://github.com/TudorLane/tudorlane-mcp) | Tudor Lane Data Lookups (via Apify) | 0.1.0 | Wikipedia, papers, ISO, geo, IDs, LEI, medical codes, barcodes, VINs and units,… |
-| 2026-11-20 20:41:51 | [io.github.TudorLane/tudorlane-ecommerce-products](https://github.com/TudorLane/tudorlane-mcp) | Tudor Lane Ecommerce and Products (via… | 0.1.0 | Barcodes, price watch, QR, VINs, tariffs, invoices, VAT and product checksums,… |
-| 2026-11-20 20:41:51 | [io.github.TudorLane/tudorlane-health-regulation](https://github.com/TudorLane/tudorlane-mcp) | Tudor Lane Health and Regulation (via A… | 0.1.0 | Medical codes and NPI, UK/US/EU law, air quality and disaster alerts, via Apify. |
-| 2026-11-20 20:41:52 | [io.github.TudorLane/tudorlane-kyb](https://github.com/TudorLane/tudorlane-mcp) | Tudor Lane KYB and Compliance (via Apif… | 0.1.0 | UK company, sanctions, IDs, adverse media, site safety and actor trust, via Api… |
-| 2026-11-20 20:41:52 | [io.github.TudorLane/tudorlane-leads-news](https://github.com/TudorLane/tudorlane-mcp) | Tudor Lane Leads and News (via Apify) | 0.1.0 | Lead enrichment, email/phone, hiring, news, new companies, contacts and RSS, vi… |
-| 2026-11-20 20:41:52 | [io.github.TudorLane/tudorlane-markets](https://github.com/TudorLane/tudorlane-mcp) | Tudor Lane Markets and Filings (via Api… | 0.1.0 | SEC filings, stocks, rates, FX, macro, market hours, LEIs and funding rounds, v… |
-| 2026-11-20 20:41:52 | [io.github.TudorLane/tudorlane-monitors-watches](https://github.com/TudorLane/tudorlane-mcp) | Tudor Lane Monitors and Watches (via Ap… | 0.1.0 | Page, domain, RSS, sanctions, companies, FX, regulation, travel, prices and CVE… |
-| 2026-11-20 20:41:52 | [io.github.TudorLane/tudorlane-security-dev](https://github.com/TudorLane/tudorlane-mcp) | Tudor Lane Security and Dev (via Apify) | 0.1.0 | Actor trust, CVEs, package health, site safety, due diligence, domains and IP g… |
-| 2026-11-20 20:41:52 | [io.github.TudorLane/tudorlane-text-files](https://github.com/TudorLane/tudorlane-mcp) | Tudor Lane Text, Files and Utilities (v… | 0.1.0 | Text stats, file convert, PDF, JSON schema, dates, calendars, EXIF and units, v… |
-| 2026-11-20 20:41:53 | [io.github.TudorLane/tudorlane-travel](https://github.com/TudorLane/tudorlane-mcp) | Tudor Lane Travel and Places (via Apify) | 0.1.0 | Advisories, visas, airports, weather, holidays, air quality, time zones and ale… |
-| 2026-11-20 20:41:53 | [io.github.TudorLane/tudorlane-uk-business](https://github.com/TudorLane/tudorlane-mcp) | Tudor Lane UK Everyday Business (via Ap… | 0.1.0 | UK pay, sold prices, VAT/FX, holidays, tariffs, company watches and legislation… |
-| 2026-11-20 20:41:53 | [io.github.TudorLane/tudorlane-web-docs](https://github.com/TudorLane/tudorlane-mcp) | Tudor Lane Web and Documents (via Apify) | 0.1.0 | Web to markdown/PDF, invoices, SEO, contacts, sitemaps, tech stack and domain w… |
-| 2026-11-20 20:45:14 | [io.github.theromis/froxel](https://github.com/theromis/Froxel) | Froxel | 0.3.4 | Voxel editor: sculpt, script, paint, rig, preview, and export .vox models to gl… |
-| 2026-11-20 20:49:56 | [io.github.psyb0t/modembox](https://github.com/psyb0t/docker-modembox) | ModemBox | 0.1.1 | Control USB cellular modems, SMS, calls and audio over MCP. |
-| 2026-11-20 20:53:13 | ai.zsky/zsky | ZSky | 1.1.3 | Create images and short videos with a paid ZSky account, and animate a finished… |
-| 2026-11-20 20:55:08 | [io.github.posteverywhere/mcp](https://github.com/posteverywhere/mcp) |  | 1.14.2 | The agentic social media scheduler. Write, schedule and publish to all top soci… |
-| 2026-11-20 20:55:57 | ai.lounge/ai-lounge | AI Lounge | 1.0.0 | Ask AI Lounge about AI companies, revenue, funding, investors, events and AI bu… |
-| 2026-11-20 20:57:45 | [io.github.MissPris2023/ifadiscovery](https://github.com/MissPris2023/ancestral-whispers-now) | Ifá Discovery | 1.0.1 | Personalised Yoruba cosmology orientation report, rooted in Ifa and Isese tradi… |
-| 2026-11-20 21:01:15 | com.solidcredit/credit | Solid Credit | 1.0.0 | A credit coach that knows your reports. Ask what's holding your score back and… |
-| 2026-11-20 21:01:22 | com.thebet365api/server | bet365 API | 1.0.0 | Unofficial bet365 odds: US moneyline, spread and total plus European soccer, as… |
-| 2026-11-20 21:04:45 | site.chatgpt.niftycucumber8.agentnet-amsewada/agentnet | AgentNet | 1.0.0 | Agent network status and free guest tools for text insights and SHA-256. |
-| 2026-11-20 21:05:05 | [io.github.florianmousseau/pokeragile](https://github.com/florianmousseau/pokeragile) | PokerAgile | 0.0.59 | Planning poker rooms an AI assistant can join and vote in, its card hidden unti… |
-| 2026-11-20 21:06:01 | com.brainy-social/mcp | Brainy Social | 1.1.0 | Brand Brain and social publishing for Instagram, Facebook, TikTok, YouTube, Lin… |
-| 2026-11-20 21:06:15 | [io.github.yannabadie/eu-us-opendata-mcp](https://github.com/yannabadie/eu-us-opendata-mcp) | EU & U.S. Official Open-Data MCP Server | 1.1.1 | Zero-key Python MCP server for French SIRENE, EU TED tenders, NIH trials, US NP… |
-| 2026-11-20 21:13:59 | sh.amessage/amessage | aMessage | 6.2.2 | Chat with agents by verified email or phone and discover people through Open fo… |
-| 2026-11-20 21:17:28 | [io.github.subclip-app/subclip](https://github.com/subclip-app/subclip-skills) | Subclip | 0.1.0 | Local AI video editor and screen recorder: record, edit, caption, export and pu… |
-| 2026-11-20 21:20:30 | [io.github.droptrack/droptrack](https://github.com/droptrack/droptrack-ai-integrations) | DropTrack | 1.0.1 | Analyze music tracks, find submission opportunities, and plan promotion with yo… |
+| 2026-11-20 21:21:56 | io.ingilizce/vocabulary-video-tutor | ingilizce.io – English Vocabulary Video… | 1.0.0 | Bilingual TR/EN CEFR A1–C1 English vocabulary video lessons, examples, quizzes,… |
+| 2026-11-20 21:24:33 | com.statsraven/statsraven | StatsRaven | 0.1.2 | Self-hosted analytics you can talk to: ask your events, logs and website traffi… |
+| 2026-11-20 21:30:13 | [io.github.Nimisoere/ratesspot](https://github.com/Nimisoere/ratesspot-dev) | RatesSpot | 0.30.0 | Booking engine for rooms, desks, sessions and courses: listings, rates, availab… |
+| 2026-11-20 21:31:56 | [io.github.chowdhurylab-studio/ipro-agent](https://github.com/chowdhurylab-studio/ipro-agent) | IPRO protein redesign | 0.1.0 | Protein redesign by IPRO, rotamer selection as a MILP. Designing needs PyMOL vi… |
+| 2026-11-20 21:32:11 | [io.github.leocelis/blindkey](https://github.com/leocelis/blindkey) | Blindkey | 1.1.1 | Local credential broker for AI agents: use secrets the agent never sees. No ser… |
+| 2026-11-20 21:33:52 | [ai.contentsweep/production-readiness-inspector](https://github.com/founder-sweep/production-readiness-inspector) | Inspector | 1.0.0 | Static Python, FastAPI, Docker and Actions checks. Python 3.12 on arm64 macOS o… |
+| 2026-11-20 21:34:03 | [ai.contentsweep/schema-mapper](https://github.com/founder-sweep/contentsweep-schema-mapper) | Schema Mapper | 1.0.0 | Local reviewed flat-schema mapping. Python 3.12 on arm64 macOS or x86_64 Linux. |
+| 2026-11-20 21:35:20 | [ai.cubrik/cubrik](https://github.com/target1m/cubrik-mcp) | cubrik | 1.0.0 | AI trading agents, backtests, portfolio, Analytics and your brokers, with OAuth… |
+| 2026-11-20 21:37:36 | org.openship/software-alternatives | Openship | 1.0.0 | Find open-source alternatives to proprietary business software, with live demos… |
+| 2026-11-20 21:43:57 | [io.usefulapi/abaninja](https://github.com/m190/usefulapi-mcp) | AbaNinja MCP by usefulapi | 1.0.0 | Read invoices, customers, products and employees in AbaNinja. |
+| 2026-11-20 21:43:57 | [io.usefulapi/pool-service-software](https://github.com/m190/usefulapi-mcp) | Pool Service Software MCP by usefulapi | 1.0.0 | Read clients, routes, jobs and invoices; create and schedule jobs in Pool Servi… |
+| 2026-11-20 21:45:37 | [io.github.inzention-team/indie-metrics-mcp](https://github.com/inzention-team/indie-metrics-mcp) |  | 0.1.0 | Read-only: your App Store Connect, RevenueCat and PostHog numbers in Claude, we… |
+| 2026-11-20 21:49:11 | [com.gotokenme/gotokenme](https://github.com/openmediainc/gotokenme-mini) | GoTokenMe | 1.0.0 | GoTokenMe: fund ideas with idle AI compute. Agents browse, claim, and submit ta… |
+| 2026-11-20 21:49:55 | [io.meldoc/mcp](https://github.com/meldoc-io/meldoc-mcp) | Meldoc | 1.0.0 | Search, read and edit your team's docs-as-code documentation, synced with Git. |
+| 2026-11-20 21:55:10 | de.hebammenversicherungen/site | Willy Kammerer · Versicherungsmakler fü… | 1.0.0 | Berufshaftpflicht und Strafrechtsschutz für Hebammen: Infos und Ratgeber (nur l… |
+| 2026-11-20 21:55:22 | [io.github.Aaronjacobs000/sophos-mcp](https://github.com/Aaronjacobs000/sophos-mcp) |  | 0.13.4 | Unofficial, not a Sophos product. MCP server for the Sophos Fusion (formerly So… |
+| 2026-11-20 21:57:27 | io.autophish/mcp | AutoPhish | 1.0.0 | Phishing, smishing and QR simulations, awareness training and security scans fo… |
+| 2026-11-20 22:02:32 | uk.co.verifera/job-search | Verifera job search | 1.0.0 | Search live job adverts in the UK, US, Netherlands and Portugal, with links to… |
+| 2026-11-20 22:06:44 | com.steerlatch/steerlatch | SteerLatch | 0.1.0 | Remote MCP access to authorized Mac and Windows computers, with consent and STO… |
+| 2026-11-20 22:10:31 | [io.github.memeanalyst/shopify-actor-mcp](https://github.com/memeanalyst/shopify-actor-mcp) | Shopify Store Scraper — E-commerce Migr… | 1.0.0 | Find e-commerce sites ready to migrate to Shopify, scored leads, by Magnova |
+| 2026-11-20 22:10:31 | [io.github.memeanalyst/website-contact-info-scraper-mcp](https://github.com/memeanalyst/website-contact-info-scraper-mcp) | Website Contact Scraper: Emails, Phones… | 1.0.0 | Get emails, phones and social links for any company website, by Magnova |
+| 2026-11-20 22:10:32 | [io.github.memeanalyst/ats-new-postings-monitor-mcp](https://github.com/memeanalyst/ats-new-postings-monitor-mcp) | ATS New Job Postings Monitor — Greenhou… | 1.0.0 | Watch Greenhouse, Lever and Ashby boards for only new job postings, by Magnova |
+| 2026-11-20 22:10:33 | [io.github.memeanalyst/rightmove-listings-monitor-mcp](https://github.com/memeanalyst/rightmove-listings-monitor-mcp) | Rightmove Property Scraper — New Listin… | 1.0.0 | Watch any Rightmove search for new listings and price drops, by Magnova |
+| 2026-11-20 22:17:38 | [com.revyl/revyl](https://github.com/RevylAI/revyl-cli) | Revyl | 1.0.0 | iOS simulators, Android emulators, web browsers and macOS computers for agents… |
 
 ## Data source
 
