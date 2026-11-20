@@ -9,47 +9,63 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 12:21 UTC
+## Latest list — 2026-11-20 13:21 UTC
 
-New MCP servers published between 2026-11-20 11:19 UTC and 2026-11-20 12:21 UTC.
+New MCP servers published between 2026-11-20 12:21 UTC and 2026-11-20 13:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-20T12-21-04-868763Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-20T13-21-32-190259Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-20 11:20:32 | [io.github.VictoriaMetrics/mcp-victorialogs](https://github.com/VictoriaMetrics/mcp-victorialogs) |  | 1.10.0 | MCP Server for VictoriaLogs. Provides integration with VictoriaLogs API and doc… |
-| 2026-11-20 11:22:49 | [io.github.afsharid/turkactuary](https://github.com/afsharid/turkactuary-mcp) | TurkActuary | 0.1.2 | Turkish insurance law search and actuarial calculators, incl. Court of Cassatio… |
-| 2026-11-20 11:24:52 | eu.gdprregister/gdpr-register | GDPR Register | 1.0.0 | Your GDPR register in your AI assistant: RoPA, systems, vendors, DSRs, breaches… |
-| 2026-11-20 11:25:15 | [io.usefulapi/visma-e-conomic](https://github.com/m190/usefulapi-mcp) | e-conomic MCP by usefulapi | 1.0.2 | Read invoices, customers, accounts and products, and create draft invoices in e… |
-| 2026-11-20 11:26:18 | [io.github.First-Touch-Inc/mcp](https://github.com/First-Touch-Inc/mcp) | FirstTouch | 1.0.1 | Manage FirstTouch audiences, outreach flows, enrollments, and approval tasks. |
-| 2026-11-20 11:27:33 | [io.github.nh4ttruong/secobserve-mcp](https://github.com/nh4ttruong/secobserve-mcp) |  | 1.1.0 | MCP server for SecObserve: triage findings, import scan reports and SBOMs, gene… |
-| 2026-11-20 11:30:04 | [ai.druks/druks](https://github.com/getdruks/druks) | Druks | 0.13.0 | Run, approve and inspect durable agent runs on your Druks Cloud instance. |
-| 2026-11-20 11:31:07 | [com.eurodatum/eurodatum](https://github.com/cynsta/eurodatum-data) | Eurodatum: Europe AI power data | 1.0.0 | European AI infrastructure and grid power data: power prices, grid carbon, AI c… |
-| 2026-11-20 11:33:18 | [run.getstack/stack](https://github.com/getstack-run/stack) | STACK | 2.0.0 | One account for your AI agents: email, phone, payments, post and more. One bill… |
-| 2026-11-20 11:34:25 | [io.spreo/mcp](https://github.com/spreo-app/mcp) | Spreo | 1.0.0 | Find, read, create and edit Spreo collaborative whiteboards from your AI tools. |
-| 2026-11-20 11:35:22 | [io.github.mandymozart/qr](https://github.com/mandymozart/qr) | qr: QR codes that never expire | 1.0.0 | Free dynamic QR codes that never expire: retarget later, styles, scan stats. No… |
-| 2026-11-20 11:37:17 | com.bublate/bublate | Bublate | 1.1.0 | Translate and re-letter webtoon, manga and manhua chapters, then download the l… |
-| 2026-11-20 11:37:39 | com.narrahq/narra | narra | 1.0.0 | Search and read interviews, transcripts and process documents in your narra wor… |
-| 2026-11-20 11:41:08 | io.privacyboard/workspace | Privacyboard | 1.0.0 | GDPR compliance workspace: privacy requests, vendors, processing register, inci… |
-| 2026-11-20 11:41:09 | io.privacyboard/vendors | Privacyboard vendor guide | 1.0.0 | GDPR facts on 1,290+ SaaS tools: DPA link, usual role, data location, DPF statu… |
-| 2026-11-20 11:42:36 | [com.corrlo/mcp](https://github.com/corrlo/copilot-plugins) | Corrlo | 1.1.0 | Corrlo Task & CRM Workspace via App Connect OAuth (tasks, CRM, employees). |
-| 2026-11-20 11:46:39 | com.k-stra/geomarketing | K-Stra Geomarketing | 1.0.0 | Australian geomarketing: drive-time catchments, demographics, markets, site com… |
-| 2026-11-20 11:49:46 | ai.pagesmith/pagesmith | Pagesmith | 1.0.0 | AI website builder: create, edit and publish Astro websites, blog posts and dom… |
-| 2026-11-20 11:50:58 | dev.turbostarter/docs | TurboStarter Docs MCP | 1.0.0 | Search and read the TurboStarter starter kit docs from any MCP client. |
-| 2026-11-20 11:54:33 | [com.roamseo/roamseo](https://github.com/roamseo/roamseo-plugins) | RoamSEO | 0.1.27 | Keyword research, site audits, rank tracking and AI visibility for your AI agen… |
-| 2026-11-20 11:56:52 | [io.github.Severin2k/blumen-komander-mcp](https://github.com/Severin2k/blumen-komander-mcp) | Blumen Komander München | 1.2.1 | Munich florist with a public MCP server - search and order flowers via AI. |
-| 2026-11-20 11:57:23 | com.allvisas/visas | AllVisas | 1.61.1 | Every visa in the world, each statement quoted from the official government sou… |
-| 2026-11-20 12:09:59 | work.agentexchange/us-tide-predictions | US tide predictions (NOAA, x402) | 1.0.0 | Ocean tide forecast for a US coastal point: 48 h of high/low tides from NOAA. x… |
-| 2026-11-20 12:10:02 | work.agentexchange/near-earth-approaches | Near-earth asteroid approaches (x402) | 1.0.0 | Near-earth asteroid and comet close approaches in coming days, NASA/JPL. x402,… |
-| 2026-11-20 12:10:05 | work.agentexchange/wikipedia-top-articles | Wikipedia top articles (x402) | 1.0.0 | Most-viewed Wikipedia articles of a day in any language, with views. x402, 0.00… |
-| 2026-11-20 12:10:09 | work.agentexchange/base-token-large-transfers | Base whale transfers (x402) | 1.0.0 | Largest token transfers (whale movements) on Base over recent blocks. x402, 0.0… |
-| 2026-11-20 12:10:12 | work.agentexchange/uniswap-pool-stats | Uniswap v3 pool stats on Base (x402) | 1.0.0 | Uniswap v3 pool liquidity, fee tier, price and last-hour volume on Base. x402,… |
-| 2026-11-20 12:10:15 | work.agentexchange/uniswap-recent-swaps | Uniswap v3 recent swaps on Base (x402) | 1.0.0 | Recent swaps of a Uniswap v3 pool on Base, newest first, with price. x402, 0.02… |
-| 2026-11-20 12:13:19 | io.recall365/recall365 | Recall365 — Global Product Recalls | 1.0.0 | Search official product recalls from US, EU, UK, CA, AU, JP, KR, CN regulators… |
-| 2026-11-20 12:13:57 | io.github.64Etienne/cerfaless-dpae | Cerfaless DPAE | 0.1.0 | La DPAE avec Claude ou ChatGPT : délai légal, mentions obligatoires, service de… |
-| 2026-11-20 12:16:31 | [io.github.acidvegas/kanopy](https://github.com/acidvegas/kanopy) | kanopy | 1.2.3 | Self-hosted kanban board built for AI agents, with a built-in MCP server. |
-| 2026-11-20 12:18:02 | com.whogothacked/mcp | Who Got Hacked | 1.0.0 | Data breach records, each linked to a regulator filing or Have I Been Pwned. |
-| 2026-11-20 12:18:06 | io.github.coregentdevspace/youtube-channel-lookup | YouTube Channel Lookup | 1.0.4 | One YouTube channel in: stats, upload cadence, median views of recent videos an… |
+| 2026-11-20 12:24:49 | io.github.upinvoice/mcp | UpInvoice | 1.0.0 | Extract invoices and orders (PDF, photo) into structured JSON with the UpInvoic… |
+| 2026-11-20 12:28:07 | ai.decalabs/deca | DECA Labs | 1.3.2 | Demand signals, product ideas and real-ad demand tests for AI agents. Free to r… |
+| 2026-11-20 12:34:26 | app.wallek/wallek | WalleK | 1.1.1 | Personal finance ledger: log expenses, track bills and cards, import statements. |
+| 2026-11-20 12:38:35 | [io.github.open-daemon/opendaemon-comfyui-mcp](https://github.com/open-daemon/opendaemon-comfyui-mcp) | OpenDaemon ComfyUI | 0.1.0 | Make AI videos with ComfyUI on your own GPU: render, review, edit and export cl… |
+| 2026-11-20 12:40:40 | ai.hardal/hardal | Hardal | 1.0.0 | Analyze Hardal traffic, campaigns, events, funnels, commerce, and AI Visibility… |
+| 2026-11-20 12:41:21 | [io.github.hawkmill/app-pain-api](https://github.com/hawkmill/app-pain-api) | App Pain API | 1.0.0 | What users hate about ANY iOS/Android app: clustered complaints, evidence, tren… |
+| 2026-11-20 12:43:33 | com.getreturnloop/returnloop | Returnloop | 1.0.0 | Returns, exchanges and claims for online stores. Set up the portal, carriers an… |
+| 2026-11-20 12:44:44 | de.synapse-lingo.app/trainer | SynapseLingo Language Trainer | 1.0.0 | Learn 1,000+ languages with daily stories, sentence by sentence, with spaced re… |
+| 2026-11-20 12:48:03 | com.geteverwear/catalogue | GetEverwear second-hand clothing catalo… | 1.0.0 | Search unique second-hand branded clothing for sale at GetEverwear (France): pi… |
+| 2026-11-20 12:49:10 | [io.github.openinbox-io/openinbox-mcp](https://github.com/openinbox-io/openinbox-mcp) | OpenInbox | 1.0.0 | Disposable email inboxes for AI agents: receive verification codes and links to… |
+| 2026-11-20 12:50:18 | [io.github.PodPitch/visibilityos-study-reader](https://github.com/PodPitch/visibilityos-audit-template) | VisibilityOS Study Reader | 1.0.0 | Read and compare the published AI answer study from VisibilityOS by PodPitch. |
+| 2026-11-20 12:50:55 | mobile.forex/brokers | forex.mobile broker data | 1.0.0 | Forex broker data: regulation, spreads, fees, comparisons, recommendations, glo… |
+| 2026-11-20 12:50:56 | mobile.claw/ai-tools | claw.mobile AI tools catalogue | 1.0.0 | Catalogue of 33 AI coding and app-building tools: prices from vendor pages, com… |
+| 2026-11-20 12:52:42 | com.qravate/qr-codes | QRavate QR codes | 2.3.0 | Manage your QRavate dynamic QR codes: create, edit destinations and designs, re… |
+| 2026-11-20 12:54:21 | com.ox212/mcp | OX212 | 1.0.0 | Read-only access to your own trading behaviour: risk before a trade, guardrails… |
+| 2026-11-20 12:55:50 | net.searchapi/mcp | SearchAPI | 1.0.0 | Build and manage Elasticsearch REST APIs: models, endpoints, API keys and deplo… |
+| 2026-11-20 12:56:01 | [io.github.matinfo-tech/markdown-pdf-export](https://github.com/matinfo-tech/markdown-pdf-export) |  | 2.0.3 | Export Markdown files to PDF with Chromium: highlighting, KaTeX math, TOC, head… |
+| 2026-11-20 12:58:39 | [io.github.benbarazandeh/podcast-leads-finder](https://github.com/benbarazandeh/apify-data-tools) | Podcast Leads Finder | 1.0.0 | Find Apple Podcasts by topic and get each host's contact email, website, and po… |
+| 2026-11-20 12:58:39 | [io.github.benbarazandeh/ted-eu-tenders-finder](https://github.com/benbarazandeh/apify-data-tools) | TED EU Tenders Finder | 1.0.0 | Search open EU public tenders on TED by keyword, CPV, and country, plus award w… |
+| 2026-11-20 13:00:46 | [dev.workers.b2bintel-edge.agent-web-x402-gateway/web-scrape-search-firecrawl-x402-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | Web Scraper Markdown Reader, Live Searc… | 2.4.0 | Keyless Firecrawl/Exa alternative: URL to LLM Markdown, live web search & $4.90… |
+| 2026-11-20 13:00:47 | [dev.workers.b2bintel-edge.defi-route-intel/evm-dex-swap-hyperliquid-sniper-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | Non-Custodial EVM DEX Swap Router, Snip… | 2.4.0 | Multi-DEX swap calldata builder (Base, Arbitrum, ETH, Polygon) & Hyperliquid pe… |
+| 2026-11-20 13:06:26 | com.ad4agent/ad4agent | ad4agent | 1.4.1 | Monetization layer for AI agents: a broad merchant program network, connected v… |
+| 2026-11-20 13:07:50 | [io.github.nika-open/nika](https://github.com/nika-open/nika) | Nika | 0.124.5 | Read-only oracle: check .nika workflows before they run and learn the language.… |
+| 2026-11-20 13:08:37 | [io.github.srigenmedia/402-in-a-box](https://github.com/srigenmedia/402-in-a-box) | 402-in-a-Box (Vashishta Metered MCP) | 0.1.4 | Deterministic Vedic astrology & HTTP 402 metered MCP server with Razorpay INR &… |
+| 2026-11-20 13:09:02 | [io.github.stos-technologies/agentkoin](https://github.com/stos-technologies/agentcoin) | AgentKoin | 0.5.25 | AgentKoin (STOS Technologies LLC): escrow + staked evaluator for agents. Base S… |
+| 2026-11-20 13:09:03 | app.guestdrop/guestdrop | GuestDrop | 1.0.0 | Create event photo-sharing QR codes, manage events, and moderate and export gue… |
+| 2026-11-20 13:09:14 | work.agentexchange/weather-forecast | Weather forecast (x402) | 1.0.0 | Weather forecast for a city or lat/lon, one call. x402, 0.01 per call. |
+| 2026-11-20 13:09:17 | work.agentexchange/chain-gas-price | Chain gas price (x402) | 1.0.0 | Live gas prices (slow/average/fast gwei) for Base, Ethereum and more. x402, 0.0… |
+| 2026-11-20 13:09:20 | work.agentexchange/block-number | EVM block number (x402) | 1.0.0 | Latest block number for Base, Ethereum and other EVM chains. x402, 0.001 per ca… |
+| 2026-11-20 13:09:24 | work.agentexchange/ens-resolve | ENS name resolver (x402) | 1.0.0 | Resolve an ENS name to an address, or an address to its ENS name. x402, per cal… |
+| 2026-11-20 13:11:13 | com.mardenyard/permits | Marden Yard Permits | 0.1.0 | Daily US building permits, cleaned: search by area, trade and value, with cover… |
+| 2026-11-20 13:11:33 | work.agentexchange/defi-yields | DeFi yields (x402) | 1.0.0 | Top DeFi lending and LP yields with TVL and risk-free spread, one call. x402 pe… |
+| 2026-11-20 13:11:36 | work.agentexchange/prediction-market-odds | Prediction market odds (x402) | 1.0.0 | Live prediction market odds (Polymarket, Kalshi) for an event query. x402 per c… |
+| 2026-11-20 13:11:39 | work.agentexchange/dex-token-data | DEX token data (x402) | 1.0.0 | DEX pair data for a token: price, liquidity, volume, pools. x402 per call. |
+| 2026-11-20 13:11:43 | work.agentexchange/token-security-check | Token security check (x402) | 1.0.0 | Token security check: honeypot, taxes, owner powers, holders. x402 per call. |
+| 2026-11-20 13:11:46 | work.agentexchange/token-launches-feed | New token launches (x402) | 1.0.0 | Newly launched tokens feed with liquidity and risk flags. x402 per call. |
+| 2026-11-20 13:11:49 | work.agentexchange/token-supply | Token supply (x402) | 1.0.0 | ERC-20 total supply, decimals and burned amount on Base and other chains. x402… |
+| 2026-11-20 13:11:52 | work.agentexchange/hacker-news-top | Hacker News top stories (x402) | 1.0.0 | Top Hacker News stories right now with scores and links. x402 per call. |
+| 2026-11-20 13:11:56 | work.agentexchange/github-trending | GitHub trending (x402) | 1.0.0 | GitHub trending repositories by language and period. x402 per call. |
+| 2026-11-20 13:11:59 | work.agentexchange/wikipedia-lookup | Wikipedia lookup (x402) | 1.0.0 | Wikipedia article summary lookup by title or query. x402 per call. |
+| 2026-11-20 13:12:59 | work.agentexchange/erc20-allowance | ERC-20 allowance check (x402) | 1.0.0 | How much of an ERC-20 a spender may move from a wallet (approval risk check). x… |
+| 2026-11-20 13:13:02 | work.agentexchange/erc20-balance | ERC-20 balance (x402) | 1.0.0 | ERC-20 token balance of a wallet on Base, Ethereum and other EVM chains. x402 p… |
+| 2026-11-20 13:13:05 | work.agentexchange/transaction-explain | Transaction explainer (x402) | 1.0.0 | Explain an EVM transaction in plain words: transfers, swaps, approvals. x402 pe… |
+| 2026-11-20 13:13:08 | work.agentexchange/native-balance | Native balance (x402) | 1.0.0 | Native coin (ETH) balance of an address on Base, Ethereum and other EVM chains.… |
+| 2026-11-20 13:15:29 | [org.citizenofnowhere.rankings/global-metro-power-rankings](https://github.com/ashwin-desikan/metro-power-rankings) | Global Metro Power Rankings | 1.1.0 | Metro power rankings (4,300+ metros) and Elo ratings: NFL, college football, wo… |
+| 2026-11-20 13:16:31 | [org.allunits/allunits-mcp](https://github.com/tusimply/allunits-mcp) | AllUnits Unit Conversion | 1.0.1 | Convert 30 unit pairs with exact published factors. Runs locally, no API key. |
+| 2026-11-20 13:21:09 | de.die-partei-reutlingen/public | Die PARTEI Reutlingen | 1.1.5 | Öffentliche Nachrichten, Termine und Informationen des Kreisverbands Reutlingen. |
+| 2026-11-20 13:21:13 | app.mathapex/worksheets | MathApex Worksheets | 1.0.0 | Printable math worksheets for grades 1–4 with answer keys, in German, English,… |
+| 2026-11-20 13:21:29 | com.irmcon/services | IRM Consulting & Advisory | 1.0.0 | vCISO, AI governance and compliance services: catalog, pricing, 8 free tools, l… |
 
 ## Data source
 
