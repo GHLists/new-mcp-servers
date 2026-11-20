@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-11-20T10:22:57.005386Z,io.github.jeremdecustovox/mcp-papra,,0.1.1,,,"Search, read and tag your Papra documents from Claude. Read-only by default, demo mode."
+2026-11-20T10:25:59.821685Z,com.shuttio/shuttio,Shuttio,1.0.0,,streamable-http,"Moves CRM data from one system into another, for example HubSpot into Attio."
+2026-11-20T10:35:00.471431Z,work.agentexchange/base-token-price,Base token price by address (x402),1.0.0,,streamable-http,"USD price of any token on Base by contract address, live from Uniswap v3. x402, 0.01 per call."
+2026-11-20T10:35:03.743799Z,work.agentexchange/wallet-holdings,Base wallet holdings in USD (x402),1.0.0,,streamable-http,"What a Base wallet holds: ETH and major tokens with USD values and total. x402, 0.02 per call."
+2026-11-20T10:35:06.993418Z,work.agentexchange/pool-candles,Uniswap v3 pool candles on Base (x402),1.0.0,,streamable-http,"OHLC price candles for any Uniswap v3 pool on Base from on-chain swaps. x402, 0.05 per call."
+2026-11-20T10:35:10.261667Z,work.agentexchange/sanctions-check,OFAC sanctions screen (x402),1.0.0,,streamable-http,"OFAC sanctions screen for a name or crypto address, one call. x402/MPP, 0.002 per call."
+2026-11-20T10:35:13.528336Z,work.agentexchange/airport-delays,FAA airport delays (x402),1.0.0,,streamable-http,"FAA airport delays and closures right now, one call. x402/MPP, 0.002 per call."
+2026-11-20T10:37:47.229058Z,io.github.systems-exmachina/weather-windows,ExMachina Weather Windows,0.2.0,https://github.com/systems-exmachina/weather-windows-x402,streamable-http,Preview US outdoor weather windows and global hourly forecasts. Links to the paid x402 API.
+2026-11-20T10:39:09.673741Z,com.theverylab/the-very-lab,The Very Lab,1.0.0,,streamable-http,"Read-only info on The Very Lab, an EU cosmetics contract manufacturer: profile, capabilities, pages."
+2026-11-20T10:39:56.082615Z,io.github.jeremdecustovox/custovox-calls,,0.1.0,,,"Analyze customer-service calls locally: sentiment, churn threats, follow-up actions."
+2026-11-20T10:41:02.485646Z,io.github.kwizzlesurp10-ctrl/apexseo-geo-mcp,ApexSEO GEO & AI-Crawler Audit MCP,0.1.0,https://github.com/kwizzlesurp10-ctrl/apexseo-geo-mcp,streamable-http,"Keyless Base USDC x402 MCP for live AI-crawler, GEO/AEO & JSON-LD citation audits."
+2026-11-20T10:42:58.98826Z,io.github.protortyp/mcp-toolrank,ToolRank Catalog Search,0.7.1,https://github.com/protortyp/mcp-toolrank,,Search local MCP tool catalogs and imported OpenAPI operations on CPU.
+2026-11-20T10:43:18.217919Z,io.github.reamerlabs/reamer-research-mcp,Reamer Research,0.1.0,https://github.com/reamerlabs/reamer-research-mcp,,"Run backtests, Monte Carlo and visual trade diagnostics with the Reamer Research trading engine."
+2026-11-20T10:44:15.061261Z,com.getliquify/liquify,Liquify,1.0.0,,streamable-http,"Plan-first budgeting: build budgets, boxes and expenses, check plan vs accounts, run reviews."
+2026-11-20T10:48:21.865042Z,com.readfetch/mcp-x402-proxy,readfetch,0.1.20,https://github.com/readfetch/mcp-x402-proxy,,"Stdio MCP proxy: free probe, then x402-paid ReadFetch tools; for hosts that cannot sign x402."
+2026-11-20T10:53:19.95029Z,it.proofprofile/isrc-music-copyright-proof-bitcoin,"ISRC music copyright proof, Bitcoin timestamp (ProofProfile, paid)",1.0.0,,streamable-http,Paid proof by x402 that a recording or artist existed before a Bitcoin block. Name search is free.
+2026-11-20T10:54:08.995217Z,ai.januaport/gateway,JanuaPort Gateway,0.100.0,,,"The self-hosted governance layer between your AI agents and your business systems, on your rules."
+2026-11-20T10:54:47.057395Z,app.pidgo/pidgo,Pidgo,0.2.0,,streamable-http,"Instagram DM automation: create comment, story, mention, DM and Live auto-replies from chat."
+2026-11-20T10:55:52.687652Z,io.github.renjithrrkj/vidx,vidx,0.2.1,https://github.com/renjithrrkj/vidx,,"Local video understanding and editing for agents, in small text instead of frames."
+2026-11-20T10:56:05.550251Z,ru.podshito/tools,Подшито: инструменты юриста,1.0.0,,streamable-http,"Расчёты юриста по праву РФ, ключевая ставка, календарь, суды. Без входа."
+2026-11-20T10:56:06.156606Z,ru.podshito/crm,Подшито: CRM для юристов,1.0.0,,streamable-http,"Дела, задачи, заседания и документы юрфирмы в CRM Подшито. Вход по OAuth."
+2026-11-20T10:56:54.851009Z,io.github.motherduckdb/motherduck,MotherDuck,1.0.0,https://github.com/motherduckdb/agent-skills,streamable-http,"Hosted MotherDuck MCP server: explore data, run DuckDB SQL, and build Dives and Flights."
+2026-11-20T10:57:23.120677Z,io.oxylabs/web-api-mcp,,0.3.1,https://github.com/oxylabs/web-api-mcp,streamable-http,"Search the live web, look up companies and read any page through the Oxylabs Web API."
+2026-11-20T10:57:49.409003Z,io.github.zhuhuo4374/arki-chain,Arki Chain,2.0.0,,streamable-http,"On-chain verdicts for AI agents: is a token safe to touch, and what one address holds on 6 chains."
+2026-11-20T10:58:29.946007Z,io.github.yiyabo/phageagent,PhageAgent,0.2.0,https://github.com/yiyabo/phageagent-mcp,streamable-http,PhageAgent MCP: PhageScope phage database and analysis tasks. Sign up at phageagent.deepomics.org.
+2026-11-20T11:03:13.936685Z,org.starfile/starfile,Starfile,1.0.0,,streamable-http,"US public records: nursing-home inspections, FDA and CPSC recalls, trials, FAA aircraft, tariffs."
+2026-11-20T11:09:02.0684Z,io.github.getstack-run/stack,STACK,2.0.0,https://github.com/getstack-run/stack,streamable-http,"One account for your AI agents: email, phone, payments, post and more. One bill, one off switch."
+2026-11-20T11:10:01.040225Z,io.github.protortyp/mcp-toolrank-gateway,ToolRank Gateway,0.3.0,https://github.com/protortyp/mcp-toolrank,,"Search configured MCP upstreams and route explicit, allowlisted tool calls."
+2026-11-20T11:16:40.097387Z,de.marketprint/print-on-demand,MarketPrint Print-on-Demand,1.0.0,,streamable-http,"Print-on-demand for Europe and the USA: designs to products in Shopify, Etsy, WooCommerce, TikTok."
+2026-11-20T11:17:34.437392Z,io.github.L00PLeGeNd/witnis,Witnis (witnis-dev),1.11.1,https://github.com/L00PLeGeNd/Witnis,,"Evidence envelopes for agent change: blast-radius, PR gate, gated verify."
