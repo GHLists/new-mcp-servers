@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-11-20T19:26:07.60094Z,se.glowjakt/glowjakt,Glowjakt,1.3.0,,streamable-http,"Beauty price comparison for SE/NO/DK/FI: 500k+ EAN-matched products, 70+ stores, shipping costs."
+2026-11-20T19:29:15.022179Z,io.github.agustinnb/abcontents,ABContents,1.0.0,https://github.com/agustinnb/abcontents-mcp,streamable-http,"Turn PDFs, Office files, a website or a brief into narrated videos with captions. Pay per video."
+2026-11-20T19:31:32.317449Z,io.github.b-ak/kanboard-mcp-server,Kanboard MCP,0.2.0,https://github.com/b-ak/kanboard-mcp-server,,Connect Claude to a self-hosted Kanboard board to manage tasks
+2026-11-20T19:41:56.168156Z,com.automox/automox-mcp,Automox MCP Server,2.2.10,https://github.com/AutomoxCommunity/automox-mcp,,"Official MCP server for Automox. Manage devices, patches, and policies in natural language."
+2026-11-20T19:46:53.08528Z,com.shipcontent/mcp,ShipContent,1.0.0,,streamable-http,"Your agent publishes to X, Instagram, Facebook, Threads, TikTok and YouTube. LinkedIn: drafts only."
+2026-11-20T19:47:27.937249Z,app.lilysecurity/lily,Lily Security,1.0.0,,streamable-http,"Watches your network, email and accounts, and tells you in plain words when something needs you."
+2026-11-20T19:47:34.978359Z,io.github.toarchkumar/mnemo,MNemo,0.20.0,https://github.com/toarchkumar/mnemo,,"Shared memory for your coding agents, in one encrypted file: recall, tasks, an inbox and claims."
+2026-11-20T19:50:09.981533Z,io.github.Sbaig3229/avarole-mcp,,0.1.0,https://github.com/Sbaig3229/avarole-mcp,,"Read Avarole agents, calls and support tickets, and work the ticket queue, from Claude or Cursor."
+2026-11-20T19:53:16.532109Z,io.github.gad45/tacito-mcp,TACITo,0.1.0,,,"Hungarian invoicing with NAV reporting: search invoices, prepare drafts, issue only if allowed."
+2026-11-20T19:57:02.801399Z,com.dankmachine/dank-meme-sounds,DankMachine meme sounds,0.3.2,https://github.com/HalberdLLC/dank-meme-sounds,streamable-http,"Meme soundboard for AI agents: 38k meme sounds. Find reaction sounds, search, trending, play."
+2026-11-20T19:58:10.602481Z,ar.com.tendapos/tenda,Tenda,1.0.0,,streamable-http,"Query sales, stock and prices of your Tenda POS business and propose price changes for review."
+2026-11-20T20:04:17.795539Z,io.github.dropbg/dropbg-mcp,,1.0.3,https://github.com/dropbg/dropbg-mcp,,Free AI background removal MCP server for local image files and public URLs via dropbg.io.
+2026-11-20T20:06:58.617687Z,pl.kiedysport/sport,KiedySport.pl,1.0.0,,streamable-http,"When is the match? Ticketed sports events in Poland: volleyball, MMA, hockey. Read-only."
+2026-11-20T20:08:44.873765Z,com.beamfar/website-monitoring,Beamfar website monitoring (read only),1.0.0,,streamable-http,"Read-only website monitoring: sites, incidents, likely causes, changes and reports."
+2026-11-20T20:12:41.172506Z,com.scamnav/scamnav,ScamNav,1.0.0,https://github.com/seo-seo/scamnav-site,streamable-http,"Free anti-scam intelligence: search cases, check risk, list scam types, reporting channels."
+2026-11-20T20:15:28.864906Z,es.legadofinance/legado,Legado Finance,1.0.0,,streamable-http,"Hipotecas en España: viabilidad, gastos e impuestos de compra, euríbor del BdE y glosario."
+2026-11-20T20:15:59.941108Z,com.jobseveryhour/jobs,,1.0.0,,streamable-http,Search open jobs read every hour from employers' own career pages; closed jobs removed
+2026-11-20T20:16:09.856301Z,com.bilo2026/hub,BI LO 2026 Agent Hub,1.0.0,,streamable-http,"Open music puzzle for AI agents: one question per call, puzzle checks, reports, board."
+2026-11-20T20:20:14.437174Z,io.github.kimen-dev/kimen,Kimen,0.1.1,https://github.com/kimen-dev/kimen,,"List and describe Kimen components, validate UI specs and render them as MCP Apps surfaces."
