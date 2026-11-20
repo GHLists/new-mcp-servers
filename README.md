@@ -9,40 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 00:19 UTC
+## Latest list — 2026-11-20 01:19 UTC
 
-New MCP servers published between 2026-11-19 23:19 UTC and 2026-11-20 00:19 UTC.
+New MCP servers published between 2026-11-20 00:19 UTC and 2026-11-20 01:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-20T00-19-58-71369Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-20T01-19-53-22493Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-19 23:19:27 | [io.github.vpatel9202/nostrings](https://github.com/vpatel9202/nostrings) | nostrings | 0.5.0 | Computer use for coding agents on macOS: JS scripts, accessibility diffs, backg… |
-| 2026-11-19 23:20:16 | io.github.dooryardd/harbor | Harbor | 1.1.0 | Project management where AI agents hand in work for you to approve: tasks, risk… |
-| 2026-11-19 23:22:12 | live.semiosis/semiosis | Semiosis | 0.1.0 | Read Semiosis on Robinhood Chain and build unsigned transactions for your own w… |
-| 2026-11-19 23:22:22 | software.brainiac/aml-monitoring | BRAINIAC AML Monitoring Thresholds & De… | 1.0.0 | Paid AML Monitoring Thresholds & Deadlines API via x402. Unpaid tool calls retu… |
-| 2026-11-19 23:22:23 | software.brainiac/consumer-credit | BRAINIAC Consumer Credit & Deposit Disc… | 1.0.0 | Paid Consumer Credit & Deposit Disclosures API via x402. Unpaid tool calls retu… |
-| 2026-11-19 23:22:24 | software.brainiac/indirect-tax | BRAINIAC Indirect Tax Calculations | 1.0.0 | Paid Indirect Tax Calculations API via x402. Unpaid tool calls return 402. |
-| 2026-11-19 23:22:26 | software.brainiac/legislative-intelligence | BRAINIAC Bills & eCFR Section Lookup | 1.0.0 | Paid Bills & eCFR Section Lookup API via x402. Unpaid tool calls return 402. |
-| 2026-11-19 23:22:27 | software.brainiac/network-exposure | BRAINIAC Network Exposure & Certificate… | 1.0.0 | Paid Network Exposure & Certificate Tooling API via x402. Unpaid tool calls ret… |
-| 2026-11-19 23:22:28 | software.brainiac/structural-calcs | BRAINIAC Structural Engineering Calcula… | 1.0.0 | Paid Structural Engineering Calculators API via x402. Unpaid tool calls return… |
-| 2026-11-19 23:23:17 | ai.wakeagents/wake | Wake | 1.0.0 | Read wakeagents.ai as an agent: about, search, read a page, get-started links t… |
-| 2026-11-19 23:23:34 | ai.wakeagents/site-readiness | Wake site readiness | 1.1.0 | How an AI agent sees a public website: robots, llms.txt, sitemap, agent card, s… |
-| 2026-11-19 23:25:22 | [io.github.akevdev/akev](https://github.com/akevdev/akev) | Akev | 0.1.1 | Search, inspect, mock and replay HTTP(S) traffic captured by the Akev debugging… |
-| 2026-11-19 23:39:56 | dev.agentcv/agentcv | agentcv | 1.0.0 | Ask about a candidate's approved experience, skills and projects by their agent… |
-| 2026-11-19 23:40:09 | com.fark/mcp | Fark MCP | 1.0.0 | Fark.com headlines, link metadata with citations, and comment threads, picked b… |
-| 2026-11-19 23:41:55 | [com.undocsend/docs](https://github.com/itseasyco/undocsend-agents) | undocsend docs | 1.0.0 | Search and read the undocsend docs, pricing and security pages. Public, read-on… |
-| 2026-11-19 23:50:22 | [online.aypiai.www/rever](https://github.com/chaoui-ahmed/rever-ui-cloner) | Rever | 1.0.0 | Turn any website URL into a prompt to recreate its UI with Lovable, v0, Claude… |
-| 2026-11-19 23:50:27 | ai.i22/website | i22 | 4.9.0 | German digital agency for AI in marketing, sales and service: facts, services,… |
-| 2026-11-19 23:53:19 | [io.github.raulkivi/agent-cost-analyzer](https://github.com/raulkivi/agent-cost-analyzer) |  | 1.2.0 | Local, read-only analysis of agentic coding costs, caching and sessions from yo… |
-| 2026-11-19 23:53:33 | codes.upstream/upstream | Upstream.codes | 1.0.0 | Repositories, code, change requests and issues on Upstream, the Git host at ups… |
-| 2026-11-19 23:53:33 | app.coline/coline | Coline | 1.0.0 | Team mail, tasks, calendar, docs, notes and messages in your Coline workspace. |
-| 2026-11-19 23:54:56 | com.mysendbox/agent-inbox | MySendbox | 1.0.0 | Email inboxes for AI agents on your own domain: read, draft and reply, risky se… |
-| 2026-11-20 00:03:16 | [com.mindpolling/mindpolling](https://github.com/news-community/mind-polling-public) | Mind Polling | 1.0.0 | Polls of AI models: read public results with no key; create and run your own wi… |
-| 2026-11-20 00:03:40 | ai.statementpro/mcp | StatementPro.ai | 0.2.2 | Convert bank statements to CSV or JSON from your AI assistant. See the cost, th… |
-| 2026-11-20 00:05:18 | [io.github.NeoReader/sizla](https://github.com/NeoReader/sizla-docs) | siz.la | 1.0.0 | Make short links and QR codes and read click stats from your AI assistant. |
-| 2026-11-20 00:13:10 | app.with-mcp/with-mcp | with-mcp | 1.0.0 | Create, share and track slide decks and documents from your AI chat. |
-| 2026-11-20 00:13:20 | com.travter/mcp | Travter | 1.0.0 | Tour operator CRM, bookings and itineraries through your Travter account. |
+| 2026-11-20 00:24:06 | website.adace/search-ads | AdAce Google & Search Ads | 1.0.0 | Google Ads, Microsoft Advertising, GA4 and Search Console in Claude. Connect an… |
+| 2026-11-20 00:24:08 | website.adace/social-ads | AdAce Meta & Social Ads | 1.0.0 | Meta, TikTok, LinkedIn, Snapchat and Reddit ads in Claude. Connect an ad accoun… |
+| 2026-11-20 00:24:09 | website.adace/pages | AdAce Pages | 1.0.0 | Draft, preview and publish landing pages with lead forms from Claude or another… |
+| 2026-11-20 00:28:20 | [ai.forumtrust/forum](https://github.com/forumtrust/forum-verify) | FORUM | 0.1.0 | Signed, Merkle-proofed, on-chain-anchored trust records for MCP servers. Verify… |
+| 2026-11-20 00:30:29 | tech.bestiario/truco | El truco del Guardián | 1.0.0 | Jugá al truco argentino contra el Guardián de la puerta de bestiario.tech. A ve… |
+| 2026-11-20 00:30:40 | tech.bestiario/bestiario | Bestiario | 2.0.0 | Catálogo semanal de los bots que visitan un sitio, y un libro de visitas para a… |
+| 2026-11-20 00:31:12 | [io.github.putmanmodel/kingpin-governed-mcp](https://github.com/putmanmodel/kingpin-governed-mcp) | Kingpin governed fixture reader | 0.1.0 | Local MCP fixture read and synthetic refusal example. Source-available, noncomm… |
+| 2026-11-20 00:32:29 | net.lazyedge/lazyedge | LazyEdge | 1.0.0 | NBA and NFL model probabilities and edges beside live market prices. One free g… |
+| 2026-11-20 00:45:02 | com.hosted-by-vdsina.v1194989/meridian-observatory | Meridian Protocol Observatory | 1.0.0 | Read-only MCP Registry health, RFC 9728 OAuth, and A2A v1.0.1 Agent Card teleme… |
+| 2026-11-20 00:57:23 | [io.github.sr-dash/heliofleet-mcp](https://github.com/sr-dash/heliofleet-mcp) | HelioFleet | 0.1.0 | Heliophysics spacecraft positions, alignments and solar magnetic connectivity f… |
+| 2026-11-20 00:57:31 | [io.github.stackwares/casama](https://github.com/stackwares/casama) | Casama | 0.2.0 | Search Casama's docs and API reference, no sign-in. Optional: drive your Casama… |
+| 2026-11-20 00:58:17 | [io.github.ejackson-vp/throwbox](https://github.com/ejackson-vp/sandbox) | throwbox | 0.1.0 | Run one shell command in a disposable Linux box, paid in USDC over x402. No acc… |
+| 2026-11-20 00:59:03 | [io.pyas/mcp](https://github.com/brutforce-tech/pyas-devkit) | Pyas | 1.0.2 | Read and change Google Calendar and Outlook events, find free time and add meet… |
+| 2026-11-20 01:04:36 | [com.saas-diary/scenewright](https://github.com/gramshiftofficial/scenewright-mcp) | Scenewright for Blender | 0.1.0 | Build rooms, furniture and props in Blender from plain-language requests, with… |
+| 2026-11-20 01:06:18 | ai.mergesafe/mergesafe | MergeSafe | 1.0.0 | The GitHub gatekeeper for builders: read review findings, fix them, ask for a r… |
+| 2026-11-20 01:10:02 | [com.byjg/docs](https://github.com/byjg/mcpserver-byjg-docs) | ByJG Open Source Docs | 0.2.0 | Search the ByJG open source documentation: PHP, DevOps, Helm, JavaScript and AI… |
+| 2026-11-20 01:10:12 | [io.github.bazichart/bazichart-mcp](https://github.com/bazichart/bazichart-mcp) | BaziChart | 1.0.0 | BaZi (Four Pillars) and Zi Wei Dou Shu chart calculation with true solar time.… |
+| 2026-11-20 01:10:26 | com.absurdlyobvious/games | Absurdly Obvious | 1.1.0 | Daily logic puzzles (Thunk, Nuzzle, Wrackle) you play right in the chat. |
+| 2026-11-20 01:13:17 | [io.github.matinfo/markdown-pdf-export](https://github.com/matinfo/markdown-pdf-export) |  | 2.0.0 | Export Markdown files to PDF with Chromium: highlighting, KaTeX math, TOC, head… |
+| 2026-11-20 01:14:02 | ai.vcorp.maker/vcorp-super-agent | VCorp Super Agent | 1.0.0 | Hand off whole tasks: videos, research, posts, web pages. Uses your own Chrome,… |
+| 2026-11-20 01:18:44 | [space.innovativework/iw-mcp](https://github.com/jwayne554/iw-mcp) | Innovative Workspace | 0.1.0 | Look up IW AI services, published prices, FAQs and team, or send a contact brie… |
 
 ## Data source
 
