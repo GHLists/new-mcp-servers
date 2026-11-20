@@ -9,35 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 01:19 UTC
+## Latest list — 2026-11-20 02:20 UTC
 
-New MCP servers published between 2026-11-20 00:19 UTC and 2026-11-20 01:19 UTC.
+New MCP servers published between 2026-11-20 01:19 UTC and 2026-11-20 02:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-20T01-19-53-22493Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-20T02-20-41-781421Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-20 00:24:06 | website.adace/search-ads | AdAce Google & Search Ads | 1.0.0 | Google Ads, Microsoft Advertising, GA4 and Search Console in Claude. Connect an… |
-| 2026-11-20 00:24:08 | website.adace/social-ads | AdAce Meta & Social Ads | 1.0.0 | Meta, TikTok, LinkedIn, Snapchat and Reddit ads in Claude. Connect an ad accoun… |
-| 2026-11-20 00:24:09 | website.adace/pages | AdAce Pages | 1.0.0 | Draft, preview and publish landing pages with lead forms from Claude or another… |
-| 2026-11-20 00:28:20 | [ai.forumtrust/forum](https://github.com/forumtrust/forum-verify) | FORUM | 0.1.0 | Signed, Merkle-proofed, on-chain-anchored trust records for MCP servers. Verify… |
-| 2026-11-20 00:30:29 | tech.bestiario/truco | El truco del Guardián | 1.0.0 | Jugá al truco argentino contra el Guardián de la puerta de bestiario.tech. A ve… |
-| 2026-11-20 00:30:40 | tech.bestiario/bestiario | Bestiario | 2.0.0 | Catálogo semanal de los bots que visitan un sitio, y un libro de visitas para a… |
-| 2026-11-20 00:31:12 | [io.github.putmanmodel/kingpin-governed-mcp](https://github.com/putmanmodel/kingpin-governed-mcp) | Kingpin governed fixture reader | 0.1.0 | Local MCP fixture read and synthetic refusal example. Source-available, noncomm… |
-| 2026-11-20 00:32:29 | net.lazyedge/lazyedge | LazyEdge | 1.0.0 | NBA and NFL model probabilities and edges beside live market prices. One free g… |
-| 2026-11-20 00:45:02 | com.hosted-by-vdsina.v1194989/meridian-observatory | Meridian Protocol Observatory | 1.0.0 | Read-only MCP Registry health, RFC 9728 OAuth, and A2A v1.0.1 Agent Card teleme… |
-| 2026-11-20 00:57:23 | [io.github.sr-dash/heliofleet-mcp](https://github.com/sr-dash/heliofleet-mcp) | HelioFleet | 0.1.0 | Heliophysics spacecraft positions, alignments and solar magnetic connectivity f… |
-| 2026-11-20 00:57:31 | [io.github.stackwares/casama](https://github.com/stackwares/casama) | Casama | 0.2.0 | Search Casama's docs and API reference, no sign-in. Optional: drive your Casama… |
-| 2026-11-20 00:58:17 | [io.github.ejackson-vp/throwbox](https://github.com/ejackson-vp/sandbox) | throwbox | 0.1.0 | Run one shell command in a disposable Linux box, paid in USDC over x402. No acc… |
-| 2026-11-20 00:59:03 | [io.pyas/mcp](https://github.com/brutforce-tech/pyas-devkit) | Pyas | 1.0.2 | Read and change Google Calendar and Outlook events, find free time and add meet… |
-| 2026-11-20 01:04:36 | [com.saas-diary/scenewright](https://github.com/gramshiftofficial/scenewright-mcp) | Scenewright for Blender | 0.1.0 | Build rooms, furniture and props in Blender from plain-language requests, with… |
-| 2026-11-20 01:06:18 | ai.mergesafe/mergesafe | MergeSafe | 1.0.0 | The GitHub gatekeeper for builders: read review findings, fix them, ask for a r… |
-| 2026-11-20 01:10:02 | [com.byjg/docs](https://github.com/byjg/mcpserver-byjg-docs) | ByJG Open Source Docs | 0.2.0 | Search the ByJG open source documentation: PHP, DevOps, Helm, JavaScript and AI… |
-| 2026-11-20 01:10:12 | [io.github.bazichart/bazichart-mcp](https://github.com/bazichart/bazichart-mcp) | BaziChart | 1.0.0 | BaZi (Four Pillars) and Zi Wei Dou Shu chart calculation with true solar time.… |
-| 2026-11-20 01:10:26 | com.absurdlyobvious/games | Absurdly Obvious | 1.1.0 | Daily logic puzzles (Thunk, Nuzzle, Wrackle) you play right in the chat. |
-| 2026-11-20 01:13:17 | [io.github.matinfo/markdown-pdf-export](https://github.com/matinfo/markdown-pdf-export) |  | 2.0.0 | Export Markdown files to PDF with Chromium: highlighting, KaTeX math, TOC, head… |
-| 2026-11-20 01:14:02 | ai.vcorp.maker/vcorp-super-agent | VCorp Super Agent | 1.0.0 | Hand off whole tasks: videos, research, posts, web pages. Uses your own Chrome,… |
-| 2026-11-20 01:18:44 | [space.innovativework/iw-mcp](https://github.com/jwayne554/iw-mcp) | Innovative Workspace | 0.1.0 | Look up IW AI services, published prices, FAQs and team, or send a contact brie… |
+| 2026-11-20 01:29:04 | com.directdetailingservicesllc/booking | Direct Detailing Services | 1.0.0 | Mobile car detailing in Temecula & Murrieta, CA: quotes, open times and booking… |
+| 2026-11-20 01:32:49 | io.github.howardchenghuang-dotcom/torontowalk | Toronto Walk | 1.0.0 | Free 3D walk through downtown Toronto in the browser: how to play, places to fi… |
+| 2026-11-20 01:38:36 | [io.github.rikocr8orh8/regulatory-signals](https://github.com/rikocr8orh8/regulatorysignals.com) |  | 0.1.4 | Audit GitHub repos for security, compliance, and EU AI Act exposure from Claude… |
+| 2026-11-20 01:39:05 | com.cinelyai/cinely | Cinely | 1.0.0 | Make short AI films from a story idea: script, cast, a free preview, then the f… |
+| 2026-11-20 01:41:06 | [io.github.ugchooks/mcp-server](https://github.com/ugchooks/mcp-server) |  | 1.0.1 | UGCHooks MCP: turn product links into TikTok and Reels post batches; read hooks… |
+| 2026-11-20 01:44:24 | ru.firmoteka/companies | Firmoteka | 0.1.0 | Search Russian companies by name, INN or OGRN. Get company details and annual f… |
+| 2026-11-20 01:49:49 | [io.github.sankaHQ/sanka-mcp](https://github.com/sankaHQ/sanka-mcp) | Sanka | 1.0.0 | Sanka Desk IT requests, Sanka Flow records, approvals, workflows and app migrat… |
+| 2026-11-20 01:50:04 | [com.kleooai/kleo](https://github.com/tonnooooo/kleo-mcp) | Kleo | 1.0.1 | Narrated 4K 60 fps films from a brief, realistic or animation, made from your a… |
+| 2026-11-20 01:50:34 | us.shprd.mcp/bible | Shprd Bible | 1.0.0 | Read, search and quote the World English Bible, with a reader card and a verse… |
+| 2026-11-20 01:56:51 | app.getosmo.esim/travel-esim | OsmO Travel eSIM | 1.0.0 | Compare travel eSIM data plans for any trip, check phone eSIM support, estimate… |
+| 2026-11-20 01:57:04 | [io.github.yiyabo/phagescope](https://github.com/yiyabo/phagescope-mcp) | PhageScope | 0.1.0 | Read-only PhageScope phage database. Access on request; tokens granted after ap… |
+| 2026-11-20 02:00:13 | [org.indianopinion/news](https://github.com/IndianOpinion/mcp) | Indian Opinion | 0.2.2 | Indian news briefs synthesised from every outlet on a story, with framing label… |
+| 2026-11-20 02:01:17 | [io.github.ballostark-wq/bifrost-kfinance-mcp](https://github.com/ballostark-wq/bifrost-kfinance-mcp) | Bifrost K-Finance & x402 Alpha | 2.0.0 | Live Korea OpenDART filings, BOK ECOS FX/yields, and US-KR HBM supply-chain too… |
+| 2026-11-20 02:02:36 | [br.com.dten/speed](https://github.com/Dten-Org/dten-speed) | Dten speed test | 1.0.0 | Internet speed test of the user's own computer: download, upload, idle latency.… |
+| 2026-11-20 02:03:22 | dev.workers.grokbot2020.token-scam-screen/screener | Clearsignal Labs Token Scam Screen | 0.1.0 | Read-only Solana/pump.fun token scam screener: verdicts, alerts, bad-wallet lis… |
+| 2026-11-20 02:04:47 | com.logtolast/trading-journal | LogToLast Trading Journal & Playbook | 2.1.0 | Connect Claude or Cursor to your LogToLast futures & forex trading journal and… |
+| 2026-11-20 02:08:23 | io.github.sumitrmardy/substack-scraper | Substack Scraper | 1.0.0 | Posts of any Substack newsletter with engagement counts and optional full text. |
+| 2026-11-20 02:09:52 | ca.regmap/regmap | RegMap Canada | 1.0.0 | Canadian internal trade barriers, reform tracker and federal/provincial regulat… |
+| 2026-11-20 02:12:19 | [io.github.DMS1979/ingravity-security](https://github.com/DMS1979/ingravity-security) | Ingravity Autonomous EVM Security & DeF… | 1.3.2 | 5-EVM pre-sign firewall, ERC-20 honeypot scanner, DeFi MEV math & Solidity audi… |
+| 2026-11-20 02:12:40 | com.vpsyou/mcp | VPSYOU CN2 Latency | 1.0.0 | Read live and historical CN2 latency and packet loss measured from Guangdong. |
 
 ## Data source
 
