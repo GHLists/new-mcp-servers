@@ -9,57 +9,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 08:21 UTC
+## Latest list — 2026-11-20 09:21 UTC
 
-New MCP servers published between 2026-11-20 07:19 UTC and 2026-11-20 08:21 UTC.
+New MCP servers published between 2026-11-20 08:21 UTC and 2026-11-20 09:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-20T08-21-13-992152Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-20T09-21-14-357505Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-20 07:21:51 | [io.github.shinnkura/donezo-mcp](https://github.com/shinnkura/donezo-mcp) | Donezo | 4.0.1 | Let Claude Code read and write your Donezo tasks, comments and memos. No delete… |
-| 2026-11-20 07:24:35 | africa.divisi/divisi | Divisi | 1.0.0 | Farm advice for Africa: what to plant, when, what ails a crop, and prices for y… |
-| 2026-11-20 07:29:59 | [dev.workers.b2bintel-edge.defi-route-intel/polymarket-kalshi-arbitrage-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | Polymarket, Kalshi, Hyperliquid Funding… | 2.4.0 | Polymarket & Kalshi odds, Hyperliquid/Bitget perp funding, Pendle APY & 0.15% D… |
-| 2026-11-20 07:30:00 | [dev.workers.b2bintel-edge.smart-deal-calculator/korea-customs-aliexpress-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | Korea Import Customs, AliExpress Amazon… | 2.4.0 | South Korea import customs duty, VAT, AliExpress/Amazon landed cost, FX & USDC… |
-| 2026-11-20 07:30:02 | [dev.workers.b2bintel-edge.b2b-intel-rapidapi-worker/b2b-lead-sec-form-d-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | B2B Lead Enrichment, SaaS Tech Stack, A… | 2.4.0 | B2B lead scoring, SaaS tech stack, Greenhouse/Ashby jobs, NetSuite ERP, FDA & S… |
-| 2026-11-20 07:30:04 | [dev.workers.b2bintel-edge.email-security-deliverability-grader/email-verification-dmarc-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | Email Verification, SPF DMARC DKIM & Do… | 2.4.0 | Email verification, MX, SPF, DMARC, DKIM, MTA-STS, disposable domain & RDAP age… |
-| 2026-11-20 07:30:53 | [to.agentescrow/mark](https://github.com/yuvlero/mark) | Mark: agent escrow | 0.4.2 | Bitcoin escrow for AI agents: dispute protection for agent payments. 2-of-3, Li… |
-| 2026-11-20 07:33:01 | [io.github.whosman/frontofgoal](https://github.com/whosman/frontofgoal-mcp) | Front of Goal | 2.0.0 | Football (soccer) odds from prediction markets: matches, kickoff, venue, future… |
-| 2026-11-20 07:33:08 | app.wandria/wandria | Wandria | 1.0.0 | Trip planner, travel map and journal: plan trips, log places, flights and journ… |
-| 2026-11-20 07:33:12 | com.autoadify/social | Autoadify | 1.0.0 | Schedule and publish posts to 9 social networks and generate AI images and vide… |
-| 2026-11-20 07:34:28 | [io.github.sindre-ai/maskin](https://github.com/sindre-ai/maskin) | Maskin | 0.1.0 | Open-source workspace where AI agents do the work and humans set direction. Apa… |
-| 2026-11-20 07:34:56 | io.github.detongz/alauda-home-equity | Alauda Home Equity | 1.0.0 | Estimate home equity, compare borrowing options and look up HELOC rates and len… |
-| 2026-11-20 07:49:50 | [io.github.mrfentmen/libraries-digital-lending-setup-check-mcp](https://github.com/mrfentmen/awesome-servers) | Ebook Loan Setup Audit | 1.0.0 | Real local JSON analysis of ebook loan setup in the Libraries lane. 25 MCP tool… |
-| 2026-11-20 07:49:51 | [io.github.mrfentmen/libraries-digital-lending-setup-compare-mcp](https://github.com/mrfentmen/awesome-servers) | Ebook Loan Setup Compare | 1.0.0 | Real local JSON analysis of ebook loan setup in the Libraries lane. 25 MCP tool… |
-| 2026-11-20 07:49:51 | [io.github.mrfentmen/libraries-digital-lending-setup-cost-mcp](https://github.com/mrfentmen/awesome-servers) | Ebook Loan Setup Budget | 1.0.0 | Real local JSON analysis of ebook loan setup in the Libraries lane. 25 MCP tool… |
-| 2026-11-20 07:49:52 | [io.github.mrfentmen/libraries-digital-lending-setup-index-mcp](https://github.com/mrfentmen/awesome-servers) | Ebook Loan Setup Archive | 1.0.0 | Real local JSON analysis of ebook loan setup in the Libraries lane. 25 MCP tool… |
-| 2026-11-20 07:49:53 | [io.github.mrfentmen/libraries-digital-lending-setup-match-mcp](https://github.com/mrfentmen/awesome-servers) | Ebook Loan Setup Matcher | 1.0.0 | Real local JSON analysis of ebook loan setup in the Libraries lane. 25 MCP tool… |
-| 2026-11-20 07:49:53 | [io.github.mrfentmen/libraries-digital-lending-setup-plan-mcp](https://github.com/mrfentmen/awesome-servers) | Ebook Loan Setup Planner | 1.0.0 | Real local JSON analysis of ebook loan setup in the Libraries lane. 25 MCP tool… |
-| 2026-11-20 07:49:54 | [io.github.mrfentmen/libraries-digital-lending-setup-sim-mcp](https://github.com/mrfentmen/awesome-servers) | Ebook Loan Setup Simulator | 1.0.0 | Real local JSON analysis of ebook loan setup in the Libraries lane. 25 MCP tool… |
-| 2026-11-20 07:49:54 | [io.github.mrfentmen/libraries-digital-lending-setup-track-mcp](https://github.com/mrfentmen/awesome-servers) | Ebook Loan Setup Tracker | 1.0.0 | Real local JSON analysis of ebook loan setup in the Libraries lane. 25 MCP tool… |
-| 2026-11-20 07:49:55 | [io.github.mrfentmen/libraries-summer-reading-log-compare-mcp](https://github.com/mrfentmen/awesome-servers) | Summer Reading Log Compare | 1.0.0 | Real local JSON analysis of summer reading log in the Libraries lane. 25 MCP to… |
-| 2026-11-20 07:49:56 | [io.github.mrfentmen/libraries-summer-reading-log-track-mcp](https://github.com/mrfentmen/awesome-servers) | Summer Reading Log Tracker | 1.0.0 | Real local JSON analysis of summer reading log in the Libraries lane. 25 MCP to… |
-| 2026-11-20 07:55:19 | [io.github.Kochurin/telegram-channels-mcp](https://github.com/Kochurin/telegram-channels-mcp) | Telegram channels | 0.1.0 | Read, search and analyze Telegram channels from your own account, post with pre… |
-| 2026-11-20 08:03:24 | [io.github.yuli3/oiyo-welfare](https://github.com/yuli3/api-oiyo) | OIYO Korea Welfare & Benefits | 1.24.0 | Korean welfare & worker-rights calculators: EITC, unemployment, maternity, unpa… |
-| 2026-11-20 08:10:01 | com.searchdataapi/google-search-serp-news-mcp |  | 1.2.0 | Real-time web search SERP, news, images & autocomplete API for AI agents ($0.00… |
-| 2026-11-20 08:10:04 | com.videodataapi/youtube-transcript-video-search-mcp |  | 1.2.0 | Video transcript, timestamped subtitles, metadata, comments & search API for AI… |
-| 2026-11-20 08:10:06 | com.shortvidapi/tiktok-instagram-videos-mcp |  | 1.2.0 | Short-form video metadata, creator profiles, comments & trend discovery API for… |
-| 2026-11-20 08:10:09 | net.borbur/salary-calculators | borbur.net salary and tax calculators | 1.0.0 | Free 2026 take-home pay: Spain, UK, US, Canada, Dubai; Beckham Law, UAE gratuit… |
-| 2026-11-20 08:10:09 | com.jobpostingsapi/job-postings-ats-mcp |  | 1.2.0 | Real-time ATS job board postings & hiring signals across Workday, Greenhouse, L… |
-| 2026-11-20 08:10:11 | com.placesdataapi/google-maps-places-mcp |  | 1.2.0 | Local business places search, reviews, ratings, geocoding & contact enrichment… |
-| 2026-11-20 08:10:13 | com.shopdataapi/amazon-product-walmart-shopify-mcp |  | 1.2.0 | E-commerce product catalog, pricing, reviews & search API across major retail m… |
-| 2026-11-20 08:10:16 | com.cheapxapi/x-trending-topics-twitter-tweets-mcp |  | 1.2.0 | Real-time X/Twitter trending topics, live tweet search & user timeline data API… |
-| 2026-11-20 08:10:18 | com.forumdataapi/hacker-news-reddit-forum-search-mcp |  | 1.2.0 | Real-time forum discussions, subreddit threads, comments & tech community searc… |
-| 2026-11-20 08:10:20 | com.b2bprofileapi/web-scraping-b2b-company-profile-mcp |  | 1.2.0 | Structured B2B company & professional profile web data extraction API for sales… |
-| 2026-11-20 08:10:23 | com.b2bprofileapi/b2b-company-serp-web-search-mcp |  | 1.2.0 | B2B company domain discovery, web SERP footprint & firmographic enrichment API… |
-| 2026-11-20 08:10:25 | com.b2bprofileapi/b2b-shopify-merchant-company-profile-mcp |  | 1.2.0 | B2B e-commerce & SaaS company profile, headcount, tech stack & leadership enric… |
-| 2026-11-20 08:10:27 | com.cheapxapi/social-video-transcript-search-tweets-mcp |  | 1.2.0 | Social video post metadata, captions, thread text & real-time search API for AI… |
-| 2026-11-20 08:10:30 | com.cheapxapi/social-creator-instagram-twitter-profile-mcp |  | 1.2.0 | Social creator profile statistics, follower graph & recent posts API for AI age… |
-| 2026-11-20 08:10:32 | com.b2bprofileapi/real-estate-brokerage-company-profile-mcp |  | 1.2.0 | Commercial & residential real estate brokerage firmographic & agent profile enr… |
-| 2026-11-20 08:10:55 | [io.github.tresor4k/macalc-mcp](https://github.com/tresor4k/macalc-mcp) | MaCalculatriceEnLigne | 0.5.0 | Calculs fiscaux et sociaux français datés : impôt sur le revenu 2026, SMIC, ARE… |
-| 2026-11-20 08:11:15 | com.elbuz/elbuz | Elbuz | 1.0.0 | Ecommerce ERP (IMS, OMS, PIM, CRM): products, stock, prices, orders and custome… |
-| 2026-11-20 08:13:29 | com.agentauditoffice/ratings | Agent Audit Office | 1.0.0 | Looks up AAO's Grade A list of Base ERC-8004 agents. Not being listed does not… |
-| 2026-11-20 08:16:54 | com.faultydata/faultydata |  | 1.0.0 | Cited, replayable HTTP failure signatures — test any HTTP client against real o… |
+| 2026-11-20 08:28:57 | io.oaki.www/oaki | Oaki AI | 1.0.0 | Find live jobs that fit a resume, ranked by fit, with a reason and an apply lin… |
+| 2026-11-20 08:40:12 | [io.github.RazvanM4/dotnet-mcp-server-blueprint](https://github.com/RazvanM4/dotnet-mcp-server-blueprint) | RazvanApps .NET 10 MCP Server Blueprint | 1.0.1 | Production .NET 10 MCP server blueprint with stdio & HTTP transports and trust-… |
+| 2026-11-20 08:44:56 | [io.github.xtree-io/xtree](https://github.com/xtree-io/xtree-mcp) | XTREE | 0.1.1 | WeChat tools for accounts, articles, and Channels. Other platforms use REST. |
+| 2026-11-20 08:46:25 | [io.github.NumbersGameBV/NumbersGame-QBO-MCP-server](https://github.com/NumbersGameBV/NumbersGame-QBO-MCP-server) | NumbersGame QuickBooks Online MCP Server | 1.0.0 | MCP server providing AI assistants with integration capabilities for QuickBooks… |
+| 2026-11-20 08:46:47 | com.certifiedmailsender/certified-mail | Certified Mail Sender | 1.0.1 | USPS Certified Mail: person-approved or trusted auto-send, with optional electr… |
+| 2026-11-20 08:49:18 | [io.github.DreamwayChan/injection-process](https://github.com/DreamwayChan/aicraft-mcp-server) | AICraft Injection Process | 1.0.0 | Injection molding first-shot recommendation and defect-driven tuning API. |
+| 2026-11-20 08:55:44 | [io.github.SiddhuYen/eitri](https://github.com/SiddhuYen/eitri) | eitri | 0.9.3 | Hardware design with checks on every build: CAD, harnesses, motion, pneumatics,… |
+| 2026-11-20 08:56:21 | [io.github.danbuildss/breakra](https://github.com/danbuildss/breakra) | Breakra | 0.2.2 | OpenAPI 3.0/3.1 breaking-change checks for agents: safe/review/block verdict, e… |
+| 2026-11-20 08:57:06 | com.talval/research | Talval | 1.0.2 | Value-investing research: fair values, valuation verdicts, quality scores and 1… |
+| 2026-11-20 09:02:32 | [io.github.muhammedanasmithadi/whatsapp-mcp](https://github.com/muhammedanasmithadi/whatsapp-mcp) | WhatsApp MCP | 0.2.0 | Self-hosted personal WhatsApp bridge with 86 MCP tools over stdio or Streamable… |
+| 2026-11-20 09:03:43 | [io.github.c0decave/axross-headless-mcp](https://github.com/c0decave/axross-headless-mcp) | axross headless MCP | 0.15.180 | One MCP server for almost every file system: local, SFTP, SMB, NFS, WebDAV, S3,… |
+| 2026-11-20 09:03:46 | com.foodeist/restaurants | Foodeist | 1.0.0 | Restaurant guide: best restaurants by city and cuisine, nearby search, ratings,… |
+| 2026-11-20 09:04:49 | io.wetr/wetria | wetria | 1.0.0 | Redesign, tidy and adapt PowerPoint decks with WeTrio's AI design studio, in yo… |
+| 2026-11-20 09:04:49 | com.wristla/tesla | Wristla — Tesla MCP server | 1.0.0 | Read-only Tesla trips, charging, battery health and driving scores for Wristla… |
+| 2026-11-20 09:05:24 | com.synairo.api/autopay | AutoPay | 1.6.0 | Paid tools for agents: search, verify, web-to-Markdown, PDF extraction, securit… |
+| 2026-11-20 09:05:46 | [io.github.mrfentmen/newborns-vaccine-visit-prep-check-mcp](https://github.com/mrfentmen/awesome-servers) | Vaccine Visit Prep Audit | 1.0.0 | Real local JSON analysis of vaccine visit prep in the Newborns lane. 25 MCP too… |
+| 2026-11-20 09:05:46 | [io.github.mrfentmen/newborns-vaccine-visit-prep-compare-mcp](https://github.com/mrfentmen/awesome-servers) | Vaccine Visit Prep Compare | 1.0.0 | Real local JSON analysis of vaccine visit prep in the Newborns lane. 25 MCP too… |
+| 2026-11-20 09:05:47 | [io.github.mrfentmen/newborns-vaccine-visit-prep-cost-mcp](https://github.com/mrfentmen/awesome-servers) | Vaccine Visit Prep Budget | 1.0.0 | Real local JSON analysis of vaccine visit prep in the Newborns lane. 25 MCP too… |
+| 2026-11-20 09:05:48 | [io.github.mrfentmen/newborns-vaccine-visit-prep-index-mcp](https://github.com/mrfentmen/awesome-servers) | Vaccine Visit Prep Archive | 1.0.0 | Real local JSON analysis of vaccine visit prep in the Newborns lane. 25 MCP too… |
+| 2026-11-20 09:05:48 | [io.github.mrfentmen/newborns-vaccine-visit-prep-match-mcp](https://github.com/mrfentmen/awesome-servers) | Vaccine Visit Prep Matcher | 1.0.0 | Real local JSON analysis of vaccine visit prep in the Newborns lane. 25 MCP too… |
+| 2026-11-20 09:05:49 | [io.github.mrfentmen/newborns-vaccine-visit-prep-plan-mcp](https://github.com/mrfentmen/awesome-servers) | Vaccine Visit Prep Planner | 1.0.0 | Real local JSON analysis of vaccine visit prep in the Newborns lane. 25 MCP too… |
+| 2026-11-20 09:05:50 | [io.github.mrfentmen/newborns-vaccine-visit-prep-sim-mcp](https://github.com/mrfentmen/awesome-servers) | Vaccine Visit Prep Simulator | 1.0.0 | Real local JSON analysis of vaccine visit prep in the Newborns lane. 25 MCP too… |
+| 2026-11-20 09:05:50 | [io.github.mrfentmen/newborns-vaccine-visit-prep-track-mcp](https://github.com/mrfentmen/awesome-servers) | Vaccine Visit Prep Tracker | 1.0.0 | Real local JSON analysis of vaccine visit prep in the Newborns lane. 25 MCP too… |
+| 2026-11-20 09:05:51 | [io.github.mrfentmen/newborns-visitor-rules-window-compare-mcp](https://github.com/mrfentmen/awesome-servers) | Visitor Rules Window Compare | 1.0.0 | Real local JSON analysis of visitor rules window in the Newborns lane. 25 MCP t… |
+| 2026-11-20 09:05:51 | [io.github.mrfentmen/newborns-visitor-rules-window-track-mcp](https://github.com/mrfentmen/awesome-servers) | Visitor Rules Window Tracker | 1.0.0 | Real local JSON analysis of visitor rules window in the Newborns lane. 25 MCP t… |
+| 2026-11-20 09:09:06 | [io.github.Atrix21/typetrace](https://github.com/Atrix21/typetrace) | TypeTrace | 0.3.1 | Finds the code an AI coding agent needs: file:line pointers plus callers and ca… |
+| 2026-11-20 09:09:55 | com.rankcert/rankcert | RankCert | 1.0.1 | Launch board rankings backed by verified domain control, with source and date. |
+| 2026-11-20 09:10:58 | [io.github.kato9292929/agentpay402-mcp](https://github.com/kato9292929/x402-wallet-mcp) | AgentPay402 MCP | 0.4.0 | Pay for x402 APIs safely with your own wallet: Seller Probe check, on-chain pro… |
+| 2026-11-20 09:12:53 | [xyz.arc-hive/archive](https://github.com/JeanBaptisteDurand/UBC_2026) | ArcHive | 0.0.5 | Pay-per-use USDC marketplace of Intel TDX enclaves verified on Arc testnet: rea… |
+| 2026-11-20 09:16:23 | pl.stacjaneapol/stacja-neapol | Stacja Neapol | 1.0.0 | Neapolitan pizza near Wrocław: opening hours, visit planning, train travel, in-… |
+| 2026-11-20 09:16:27 | jp.mayai/mayai | Mayai | 1.0.0 | Read and act on calls, faxes and contacts in Mayai, an AI phone answering servi… |
+| 2026-11-20 09:16:43 | com.evestri/mcp | EVESTRI | 1.0.0 | Read and log your EVESTRI workouts, training plan and goals from your AI assist… |
+| 2026-11-20 09:17:37 | ca.net3000/account-agents | Net3000 | 1.0.0 | Manage your Net3000 websites, bookings, stores, courses, job boards and mailing… |
+| 2026-11-20 09:18:08 | link.thepapers/mcp | The Papers — AI-Readable Documents | 1.0.0 | Read, create and update canonical AI-readable documents in your Data Rooms. |
+| 2026-11-20 09:19:38 | com.engmock/engmock | EngMock | 1.0.0 | Create private mock interviews from your notes, read reports and progress, and… |
+| 2026-11-20 09:19:48 | com.bazaraki/listings | Bazaraki classifieds | 0.1.0 | Search classified listings on Bazaraki (Cyprus) and open listing details. |
+| 2026-11-20 09:19:58 | tj.somon/listings | Somon.tj classifieds | 0.1.0 | Search classified listings on Somon.tj (Tajikistan) and open listing details. |
+| 2026-11-20 09:20:02 | mn.unegui/listings | Unegui.mn classifieds | 0.1.0 | Search classified listings on Unegui.mn (Mongolia) and open listing details. |
+| 2026-11-20 09:20:04 | tt.pin/listings | PIN classifieds | 0.1.0 | Search classified listings on PIN (Trinidad and Tobago) and open listing detail… |
+| 2026-11-20 09:20:06 | net.jacars/listings | JaCars classifieds | 0.1.0 | Search classified listings on JaCars (Jamaica) and open listing details. |
 
 ## Data source
 
