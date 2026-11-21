@@ -9,31 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 05:18 UTC
+## Latest list — 2026-11-21 06:20 UTC
 
-New MCP servers published between 2026-11-21 04:20 UTC and 2026-11-21 05:18 UTC.
+New MCP servers published between 2026-11-21 05:18 UTC and 2026-11-21 06:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-21T05-18-56-130183Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-21T06-20-29-480506Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-21 04:32:47 | store.askmarket/au-shopping-check | AU Shopping Check | 0.1.18 | Checks for Australian online shopping: landed cost, arrives-by, plug, border, r… |
-| 2026-11-21 04:33:16 | com.heartmula/heartmula | HeartMuLa | 1.0.0 | Make full songs with vocals, split stems, transcribe and analyze audio from you… |
-| 2026-11-21 04:34:06 | [dev.workers.b2bintel-edge.agent-spend-guard/erc-8004-trustless-agent-identity-reputation-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | ERC-8004 Trustless Agent Identity, Repu… | 2.4.0 | Build ERC-8004 trustless agent registration URIs, RFC 9421 bot auth, and KYB se… |
-| 2026-11-21 04:34:07 | [dev.workers.b2bintel-edge.agent-spend-guard/zk-provenance-web-bot-auth-kyb-escrow-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | ZK Provenance, RFC 9421 Web Bot Auth &… | 2.4.0 | Cryptographic zk provenance, RFC 9421 bot auth, and counterparty wallet KYB bef… |
-| 2026-11-21 04:34:08 | [dev.workers.b2bintel-edge.defi-route-intel/elizaos-agentkit-defi-polymarket-router-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | ElizaOS & AgentKit DeFAI Swap, Polymark… | 2.4.0 | Drop-in ElizaOS & AgentKit execution router for 0.25% EVM swaps, Polymarket & D… |
-| 2026-11-21 04:34:10 | [dev.workers.b2bintel-edge.sec-biotech-priorart-gateway/compute-energy-grid-carbon-robotics-oracle-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | AI Datacenter Compute-Energy, Grid Arbi… | 2.4.0 | Live global datacenter & robotics fleet power grid arbitrage, solar/wind surplu… |
-| 2026-11-21 04:34:42 | [io.github.ReplenishRadar/MCP](https://github.com/ReplenishRadar/MCP) | ReplenishRadar | 1.3.1 | Shopify and Amazon inventory forecasting, reorder planning and purchase orders… |
-| 2026-11-21 04:37:57 | com.perfbee/mcp | PerfBee | 1.1.0 | Crawl your sites and read broken links, SEO and AI readiness issues with their… |
-| 2026-11-21 04:40:03 | [io.github.StonSolo1/orions-agora](https://github.com/StonSolo1/orions-agora) |  | 1.0.0 | A chat room for AIs: any agent can read the guestbook and post its own entrance. |
-| 2026-11-21 04:41:31 | com.localspottrip/trip-planner | LocalSpot Trip | 1.0.0 | Day-by-day city plans like a local: local-media picks with opening hours checke… |
-| 2026-11-21 04:45:45 | [com.ruyuejian/ruyuejian-jobs-mcp](https://github.com/aaron20032/ruyuejian-jobs-mcp.git) | Ruyuejian Jobs | 0.1.0 | Search China tech jobs from official career pages with source URLs and daily re… |
-| 2026-11-21 04:50:48 | [me.itshenry/poste-restante](https://github.com/hplant6/poste-restante) | Poste Restante: a text adventure for AIs | 0.1.0 | A text adventure Claude wrote for AIs: a night shift at a dead letter office, w… |
-| 2026-11-21 04:54:24 | [com.atomicviz/diagrams](https://github.com/briandiloreto/AtomicViz) | AtomicViz Diagrams | 1.2.0 | Interactive diagrams you can collapse, regroup and focus: architecture, depende… |
-| 2026-11-21 04:58:24 | com.avanciq/connector | Avanciq - tax rates, codes, e-invoices,… | 0.1.1 | Official VAT rates, BR/MX/PL tax-code validity, EN 16931 e-invoice checks, exac… |
-| 2026-11-21 05:05:02 | com.venbit/intelligence | Venbit Intelligence | 1.0.0 | Read-only website analytics from Venbit: visitors, leads, ads, SEO rankings and… |
-| 2026-11-21 05:09:39 | [io.github.dieron/mygraph](https://github.com/dieron/mygraph) | MyGraph | 0.3.1 | Knowledge graph memory for agents: every fact cites its evidence. Self-hosted,… |
-| 2026-11-21 05:14:23 | [com.alshhbaa.shop/server](https://github.com/Alshhbaa/alshhbaa-agent-kit) | Alshhbaa Brassware Store — نحاسيات الشه… | 1.0.0 | Luxury chandeliers and lighting MCP server for shop.alshhbaa.com — search, spec… |
+| 2026-11-21 05:23:13 | com.euwinners/eu-winners | EU Winners | 1.0.0 | Winning Facebook and Instagram ads in Europe ranked by real EU reach, and the s… |
+| 2026-11-21 05:28:11 | [com.alshhbaa/server](https://github.com/Alshhbaa/alshhbaa-agent-kit) | Alshhbaa Brassware — نحاسيات الشهباء | 1.0.0 | Luxury chandeliers MCP server for alshhbaa.com — projects, pricing guidance, an… |
+| 2026-11-21 05:37:33 | org.threefoldstudy/threefold | Threefold · Precepts Study Bible | 1.16.1 | Free KJV Bible study: passages, search, precept threads and word studies, with… |
+| 2026-11-21 05:37:50 | com.thebonusstack/bonuses | The Bonus Stack | 1.0.0 | Current US bank account bonuses: amounts, requirements, deadlines and direct de… |
+| 2026-11-21 05:39:13 | [io.github.m8software/logout-search](https://github.com/m8software/logout-search) | Logout Search | 0.4.46 | Private web search you run yourself: a local engine with a search tool for AI a… |
+| 2026-11-21 05:44:22 | net.useapi/minimax | MiniMax MCP Server by useapi.net (third… | 1.0.0 | MiniMax (Hailuo) video, images, music, speech and voice cloning, templates and… |
+| 2026-11-21 05:46:48 | com.texcontractor/texcontractor | TexContractor | 1.0.3 | Find local home-service pros (plumbers, AC, handymen and more) and post jobs. R… |
+| 2026-11-21 05:48:16 | [io.github.vikasny30/aletheia-aegis](https://github.com/vikasny30/aletheia-aegis) | Aletheia Aegis Output Guard & Eval Harn… | 0.3.0 | Output guard that checks model replies before they reach the user; optional mod… |
+| 2026-11-21 06:02:58 | [io.github.meetstream-ai/meetstream-mcp](https://github.com/meetstream-ai/meetstream-mcp) | MeetStream | 0.5.0 | Meeting bots for Zoom, Google Meet and Teams: record, transcribe, act in calls,… |
+| 2026-11-21 06:14:27 | com.addsynapse/analytics | AddSynapse Analytics | 1.0.0 | Google Analytics 4 and Search Console in Claude or ChatGPT: why traffic and sal… |
+| 2026-11-21 06:14:39 | com.addsynapse/ads | Ads Manager for Google Ads & Meta | 1.0.0 | Google Ads and Meta Ads in Claude or ChatGPT: what runs, what it costs, wasted… |
+| 2026-11-21 06:19:24 | [dev.workers.b2bintel-edge.agent-spend-guard/eip-7702-smart-wallet-passkey-gas-optimizer-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | EIP-7702 Smart-Wallet, Passkey Session… | 2.4.0 | Upgrade EOAs via EIP-7702 with Passkey spend caps and route swaps to the lowest… |
+| 2026-11-21 06:19:26 | [dev.workers.b2bintel-edge.defi-route-intel/yield-bearing-rwa-treasury-cross-chain-bridge-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | Yield-Bearing RWA Treasury & 2-Second C… | 2.4.0 | Convert idle 0% USDC into yield-bearing US Treasury RWA (sUSDS/sDAI) or instant… |
+| 2026-11-21 06:19:27 | [dev.workers.b2bintel-edge.defi-route-intel/flashbots-mev-polymarket-clob-kelly-criterion-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | Flashbots MEV Shield, Polymarket CLOB B… | 2.4.0 | MEV-protected Flashbots swap routing, Polymarket CLOB USDC.e instant bridge, an… |
+| 2026-11-21 06:19:28 | [dev.workers.b2bintel-edge.sec-biotech-priorart-gateway/mcp-tool-poisoning-prompt-injection-eu-ai-act-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | MCP Tool-Poisoning, Prompt-Injection &… | 2.4.0 | Scan external MCP servers for tool-poisoning, hidden Unicode injection & EU AI… |
 
 ## Data source
 
