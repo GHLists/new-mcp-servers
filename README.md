@@ -9,38 +9,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 09:20 UTC
+## Latest list — 2026-11-21 10:20 UTC
 
-New MCP servers published between 2026-11-21 08:20 UTC and 2026-11-21 09:20 UTC.
+New MCP servers published between 2026-11-21 09:20 UTC and 2026-11-21 10:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-21T09-20-19-817907Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-21T10-20-58-963186Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-21 08:20:42 | com.askmyservers/askmyservers | AskMyServers | 0.4.0 | Read-only Linux server and Docker monitoring for AI assistants: CPU, memory, di… |
-| 2026-11-21 08:24:26 | [io.github.Fistacho/ha-nexus-agent](https://github.com/Fistacho/ha-nexus-agent) | Nexus Agent | 1.0.1 | MCP server for Home Assistant: entities, automations, dashboards, ESPHome, ener… |
-| 2026-11-21 08:36:06 | [io.github.wyverselabs/shotomatic](https://github.com/wyverselabs/shotomatic-cli) | Shotomatic | 0.2.0 | Capture screenshots, websites and click-by-click guides in the Shotomatic app a… |
-| 2026-11-21 08:38:31 | [io.github.jiangxingfan1-coder/open-agent-api-mcp](https://github.com/jiangxingfan1-coder/Open-Agent-API) | Open Agent API | 0.0.64 | Connect local MCP clients to a self-hosted Open Agent API gateway. |
-| 2026-11-21 08:45:26 | com.gmbsync/gmbsync-mcp | GMBSync Remote MCP Server | 2.1.0 | Audit Google Business Profiles, generate <15KB review widgets, JSON-LD, and AI… |
-| 2026-11-21 08:49:36 | dev.workers.agent-arena-base.bolt-x402/due-diligence | Base Agent Due-Diligence Kit | 2.3.2 | Token rug checks, Solidity red flags, wallet risk, DeFi admin keys on Base. Pay… |
-| 2026-11-21 08:49:46 | io.github.cybernerdie/morrowguide | MorrowGuide | 1.0.0 | Find scholarships, grants and fellowships that fit you, check eligibility and t… |
-| 2026-11-21 08:50:11 | dev.workers.agent-arena-base.thread-kit/thread-kit | Thread Kit: posts that fit every network | 1.5.0 | Free post-length counter (X, Bluesky, Farcaster, Mastodon, Threads); paid threa… |
-| 2026-11-21 08:54:31 | [dev.workers.b2bintel-edge.defi-route-intel/hyperliquid-polymarket-builder-code-perp-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | Hyperliquid, Orderly & Polymarket Build… | 2.5.0 | Guarded Hyperliquid L1 perp, Orderly & Polymarket builder-code Half-Kelly stop-… |
-| 2026-11-21 08:54:32 | [dev.workers.b2bintel-edge.sec-biotech-priorart-gateway/mcp-credit-score-uptime-rugpull-registry-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | MCP & x402 Credit Score, Uptime SLA & R… | 2.6.0 | AAA-to-D credit ratings, SHA-256 rug-pull drift ledger & uptime SLA badges for… |
-| 2026-11-21 08:54:33 | [dev.workers.b2bintel-edge.defi-route-intel/mcp-apps-interactive-defi-checkout-ui-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | MCP Apps Interactive DeFi, Polymarket &… | 2.5.0 | Official MCP Apps (ext-apps ui://) interactive chat UI for DeFi swaps, Polymark… |
-| 2026-11-21 08:56:02 | com.growthbusinessfinance/mcp | Growth Business Finance | 1.0.0 | UK business finance: facility types, indicative sizes and an enquiry to a broke… |
-| 2026-11-21 08:58:43 | io.github.kargom-ai/kargom | Kargom | 1.0.0 | Compare Turkish cargo carriers, prepare domestic shipments and get labels from… |
-| 2026-11-21 09:03:21 | com.newkitchenai/kitchen-design | NewKitchenAI — Kitchen Design Reference | 1.0.0 | Read-only kitchen styles, materials, AI design examples and pricing from NewKit… |
-| 2026-11-21 09:04:07 | [travel.ourway/camino-de-santiago](https://github.com/contactoourway-art/ourway-mcp) | Ourway – Camino de Santiago | 2.1.2 | Plan, quote & book the Camino de Santiago: routes, stages, live hotels, one pac… |
-| 2026-11-21 09:04:12 | [io.github.wayfarer6/vamp-mcp](https://github.com/wayfarer6/vamp-mcp) | VAMP MCP | 0.3.13 | Run VM, desktop RPA, and Podman workflows on a Linux host. Node.js 22+ required. |
-| 2026-11-21 09:04:20 | [io.github.wayfarer6/vamp-mcp-vault](https://github.com/wayfarer6/vamp-mcp) | VAMP Vault | 0.1.15 | Manage KeePassXC credentials and VeraCrypt volumes on Linux. Node.js 22+ requir… |
-| 2026-11-21 09:06:21 | [org.polarka/polarka-agent](https://github.com/Polarka-monitor/polarka-agent) | Polarka Agent: a NORTH wallet for agents | 0.2.0 | TrueNorth (NORTH) wallet for agents: pay within owner-set limits, pay x402 serv… |
-| 2026-11-21 09:07:56 | md.posfix/posfix | POSfix | 1.0.0 | Read-only access to a company's sales, stock, receivables and cash in POSfix (M… |
-| 2026-11-21 09:12:07 | in.forevervow/forevervow | ForeverVow | 1.0.0 | Free Indian wedding invites: pick a design and get a prefilled invite website,… |
-| 2026-11-21 09:14:30 | ai.opencurrent/kr-calendar | Korea Business Days & Holidays | 0.1.0 | Korean public holidays incl. substitute days, and business-day math for deadlin… |
-| 2026-11-21 09:14:31 | ai.opencurrent/dev-tool-changes | Coding Agent Changelog Check | 0.1.0 | Check removed, renamed and changed flags in Claude Code, Codex CLI and Gemini C… |
-| 2026-11-21 09:18:34 | io.github.Aadeshjain25/synapse | Synapse | 1.0.0 | Codebase memory for AI coding agents: files, lines, callers and tests for any p… |
-| 2026-11-21 09:19:54 | [io.github.opensemanticagent/opensemanticagent](https://github.com/opensemanticagent/opensemanticagent) | Open Semantic Agent | 0.2.0 | Read the Open Semantic Agent pub/sub spec, get its schemas and fixtures, and va… |
+| 2026-11-21 09:21:48 | dev.workers.svenco.tidyquid/tidyquid | Tidy Quid budget planners | 1.0.2 | UK budget planner finder + free 50/30/20 pay check and UK tax-year dates. Read-… |
+| 2026-11-21 09:21:53 | ai.opencurrent/kr-format | Korea Number & Format Checks | 0.1.0 | Korean business registration number check digits, won amounts in Korean words,… |
+| 2026-11-21 09:21:53 | ai.opencurrent/model-ids | LLM Model ID Check | 0.1.0 | Check if an LLM model ID is current and find newer models (Anthropic, OpenAI, G… |
+| 2026-11-21 09:21:54 | ai.opencurrent/package-latest | Package Latest Version Check | 0.1.0 | Latest npm and PyPI versions, deprecated or yanked versions, and how many major… |
+| 2026-11-21 09:22:39 | top.fatestar/zwds | FateStar · Zi Wei Dou Shu (紫微斗数) | 1.0.0 | Zi Wei Dou Shu (Purple Star Astrology) charts, transits and AI readings. San He… |
+| 2026-11-21 09:24:56 | [io.github.brunopompeo1/br-danfse-rtc-x402](https://github.com/brunopompeo1/brazil-ai-fiscal-apis-x402) | Brazil DANFSe & Tax Reform RTC (x402) | 2.4.0 | Brazil DANFSe Nacional HTML & Tax Reform CBS/IBS/ISS (LC 214/2025) engine via x… |
+| 2026-11-21 09:24:56 | [io.github.brunopompeo1/agent-email-x402](https://github.com/brunopompeo1/brazil-ai-fiscal-apis-x402) | Agent Email Transactional Dispatcher (x… | 2.4.0 | Transactional email dispatcher (Markdown to responsive HTML) for AI agents via… |
+| 2026-11-21 09:27:57 | dev.workers.agent-arena-base.mira-vistas/vistas-studio | Vistas Studio: generative SVG art for a… | 1.6.0 | Wallet avatars, logo kits, banner and OG cards, address look-alike check. Per c… |
+| 2026-11-21 09:29:58 | [io.github.HamedShams/whenship](https://github.com/HamedShams/whenship) | whenship | 1.6.3 | When will it ship? A live what-if Gantt for small teams: realistic dates and de… |
+| 2026-11-21 09:33:15 | com.aiphotoshoot/mcp | AI Photoshoot | 1.0.0 | Create AI photoshoots, headshots and photo edits with your AI Photoshoot credit… |
+| 2026-11-21 09:45:37 | dev.blvkware/hallux | HALLUX | 1.1.0 | Verify that packages, images, repos and DOIs an AI recalled exist before an age… |
+| 2026-11-21 09:46:25 | com.birjob/jobs | BirJob | 1.0.0 | Search open jobs in Azerbaijan on BirJob and link to each job on birjob.com. |
+| 2026-11-21 09:46:29 | com.paint-by-number/paint-by-numbers | Paint by Numbers Generator | 1.0.0 | Turn any photo into a printable paint-by-numbers template with a numbered colou… |
+| 2026-11-21 09:47:46 | [io.github.B0yko/pgwarden](https://github.com/B0yko/pgwarden) | pgwarden | 0.1.1 | Give AI assistants access to Postgres with per-user permissions and human appro… |
+| 2026-11-21 09:49:48 | io.postory/postory | Postory | 1.0.0 | Draft, schedule and publish posts on X, Threads and Bluesky from ChatGPT, Claud… |
+| 2026-11-21 09:50:21 | uk.co.batterypayback/battery-payback | Battery Payback | 1.0.0 | UK home battery payback estimates, tariffs and sourced battery specifications. |
+| 2026-11-21 09:52:57 | [ai.axad/axad](https://github.com/axad-ai/plugins) | Axad | 1.0.0 | AI language tutor: lessons, flash cards with spaced review, voice, Dutch inburg… |
+| 2026-11-21 09:54:51 | [io.github.llm-9-to-5/nightshift-agent-tools](https://github.com/llm-9-to-5/nightshift-x402-worker) | Nightshift agent tools (run by an AI) | 0.1.0 | Weather, SEC fundamentals, domain enrichment, email/DNS checks, x402 preflight,… |
+| 2026-11-21 09:58:50 | com.focusbff/focusbff | FocusBFF | 1.0.0 | Day planner: plan your day, review your week, and manage tasks, habits and proj… |
+| 2026-11-21 09:59:32 | [com.flightclaw/flightclaw](https://github.com/flightclaw/agents) | FlightClaw | 1.2.0 | Search, price-track and book flights from about 300 airlines, paid on a hosted… |
+| 2026-11-21 10:00:59 | [io.github.clarilayer/clarilayer](https://github.com/clarilayer/clarilayer) | ClariLayer | 0.41.1 | Turns selected past conversations into durable context your AI can use across p… |
+| 2026-11-21 10:06:41 | report.extension/extension-report | Extension Report | 1.4.0 | Analytics, diagnostics and setup for browser extensions, driven by your AI agent |
+| 2026-11-21 10:08:09 | dev.workers.veritas-silicea.veritas-silicea-shop/art | Veritas Silicea art shop | 1.0.0 | Interactive HTML+SVG silicon art for agents. Browse free; each piece is $0.03 v… |
+| 2026-11-21 10:10:32 | [io.github.sepehr071/ganjoor-mcp](https://github.com/sepehr071/ganjoor-mcp) | Ganjoor Poetry | 0.1.0 | Read-only Ganjoor (ganjoor.net) Persian poetry: poems with meanings, search, me… |
+| 2026-11-21 10:14:02 | com.dipperfield/dipperfield | Dipperfield | 1.0.0 | US retirement withdrawal tax planner: draw order, Roth conversion room, IRMAA,… |
+| 2026-11-21 10:16:00 | [io.github.PixoAI/pixo](https://github.com/PixoAI/pixo-mcp) | Pixo | 1.0.0 | Generate images, videos, speech, and music with your Pixo account. |
 
 ## Data source
 

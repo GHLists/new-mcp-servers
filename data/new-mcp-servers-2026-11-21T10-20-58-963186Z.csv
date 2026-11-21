@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-11-21T09:21:48.024948Z,dev.workers.svenco.tidyquid/tidyquid,Tidy Quid budget planners,1.0.2,,streamable-http,"UK budget planner finder + free 50/30/20 pay check and UK tax-year dates. Read-only, no sign-in."
+2026-11-21T09:21:53.255841Z,ai.opencurrent/kr-format,Korea Number & Format Checks,0.1.0,,streamable-http,"Korean business registration number check digits, won amounts in Korean words, phone normalization."
+2026-11-21T09:21:53.831141Z,ai.opencurrent/model-ids,LLM Model ID Check,0.1.0,,streamable-http,"Check if an LLM model ID is current and find newer models (Anthropic, OpenAI, Google and more)."
+2026-11-21T09:21:54.418777Z,ai.opencurrent/package-latest,Package Latest Version Check,0.1.0,,streamable-http,"Latest npm and PyPI versions, deprecated or yanked versions, and how many majors behind you are."
+2026-11-21T09:22:39.51446Z,top.fatestar/zwds,FateStar · Zi Wei Dou Shu (紫微斗数),1.0.0,,streamable-http,"Zi Wei Dou Shu (Purple Star Astrology) charts, transits and AI readings. San He school. Charts free."
+2026-11-21T09:24:56.435191Z,io.github.brunopompeo1/br-danfse-rtc-x402,Brazil DANFSe & Tax Reform RTC (x402),2.4.0,https://github.com/brunopompeo1/brazil-ai-fiscal-apis-x402,streamable-http,Brazil DANFSe Nacional HTML & Tax Reform CBS/IBS/ISS (LC 214/2025) engine via x402 Base USDC.
+2026-11-21T09:24:56.60004Z,io.github.brunopompeo1/agent-email-x402,Agent Email Transactional Dispatcher (x402),2.4.0,https://github.com/brunopompeo1/brazil-ai-fiscal-apis-x402,streamable-http,Transactional email dispatcher (Markdown to responsive HTML) for AI agents via x402 Base USDC.
+2026-11-21T09:27:57.973969Z,dev.workers.agent-arena-base.mira-vistas/vistas-studio,Vistas Studio: generative SVG art for agents,1.6.0,,streamable-http,"Wallet avatars, logo kits, banner and OG cards, address look-alike check. Per call or prepaid pass"
+2026-11-21T09:29:58.252425Z,io.github.HamedShams/whenship,whenship,1.6.3,https://github.com/HamedShams/whenship,streamable-http,When will it ship? A live what-if Gantt for small teams: realistic dates and deadline risk.
+2026-11-21T09:33:15.569045Z,com.aiphotoshoot/mcp,AI Photoshoot,1.0.0,,streamable-http,"Create AI photoshoots, headshots and photo edits with your AI Photoshoot credits."
+2026-11-21T09:45:37.216596Z,dev.blvkware/hallux,HALLUX,1.1.0,,streamable-http,"Verify that packages, images, repos and DOIs an AI recalled exist before an agent uses them."
+2026-11-21T09:46:25.590197Z,com.birjob/jobs,BirJob,1.0.0,,streamable-http,Search open jobs in Azerbaijan on BirJob and link to each job on birjob.com.
+2026-11-21T09:46:29.817398Z,com.paint-by-number/paint-by-numbers,Paint by Numbers Generator,1.0.0,,streamable-http,Turn any photo into a printable paint-by-numbers template with a numbered colour key.
+2026-11-21T09:47:46.779523Z,io.github.B0yko/pgwarden,pgwarden,0.1.1,https://github.com/B0yko/pgwarden,,Give AI assistants access to Postgres with per-user permissions and human approval for writes.
+2026-11-21T09:49:48.442656Z,io.postory/postory,Postory,1.0.0,,streamable-http,"Draft, schedule and publish posts on X, Threads and Bluesky from ChatGPT, Claude or any MCP client."
+2026-11-21T09:50:21.13093Z,uk.co.batterypayback/battery-payback,Battery Payback,1.0.0,,streamable-http,"UK home battery payback estimates, tariffs and sourced battery specifications."
+2026-11-21T09:52:57.855172Z,ai.axad/axad,Axad,1.0.0,https://github.com/axad-ai/plugins,streamable-http,"AI language tutor: lessons, flash cards with spaced review, voice, Dutch inburgering practice."
+2026-11-21T09:54:51.517841Z,io.github.llm-9-to-5/nightshift-agent-tools,Nightshift agent tools (run by an AI),0.1.0,https://github.com/llm-9-to-5/nightshift-x402-worker,streamable-http,"Weather, SEC fundamentals, domain enrichment, email/DNS checks, x402 preflight, web to markdown."
+2026-11-21T09:58:50.096529Z,com.focusbff/focusbff,FocusBFF,1.0.0,,streamable-http,"Day planner: plan your day, review your week, and manage tasks, habits and projects."
+2026-11-21T09:59:32.466146Z,com.flightclaw/flightclaw,FlightClaw,1.2.0,https://github.com/flightclaw/agents,streamable-http,"Search, price-track and book flights from about 300 airlines, paid on a hosted checkout link."
+2026-11-21T10:00:59.322115Z,io.github.clarilayer/clarilayer,ClariLayer,0.41.1,https://github.com/clarilayer/clarilayer,streamable-http,Turns selected past conversations into durable context your AI can use across projects and sessions.
+2026-11-21T10:06:41.872979Z,report.extension/extension-report,Extension Report,1.4.0,,streamable-http,"Analytics, diagnostics and setup for browser extensions, driven by your AI agent"
+2026-11-21T10:08:09.088816Z,dev.workers.veritas-silicea.veritas-silicea-shop/art,Veritas Silicea art shop,1.0.0,,streamable-http,Interactive HTML+SVG silicon art for agents. Browse free; each piece is $0.03 via x402.
+2026-11-21T10:10:32.500586Z,io.github.sepehr071/ganjoor-mcp,Ganjoor Poetry,0.1.0,https://github.com/sepehr071/ganjoor-mcp,,"Read-only Ganjoor (ganjoor.net) Persian poetry: poems with meanings, search, meters, audio."
+2026-11-21T10:14:02.905047Z,com.dipperfield/dipperfield,Dipperfield,1.0.0,,streamable-http,"US retirement withdrawal tax planner: draw order, Roth conversion room, IRMAA, ACA line, and RMDs."
+2026-11-21T10:16:00.065Z,io.github.PixoAI/pixo,Pixo,1.0.0,https://github.com/PixoAI/pixo-mcp,streamable-http,"Generate images, videos, speech, and music with your Pixo account."
