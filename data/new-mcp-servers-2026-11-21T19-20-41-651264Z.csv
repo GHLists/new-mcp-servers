@@ -1,0 +1,32 @@
+created_at,server,title,version,repository,transports,description
+2026-11-21T18:22:09.023697Z,io.meteoro.www/minerals,Meteoro Minerals,1.0.0,,streamable-http,"Aggregates, road granular materials and recycled C&D in Colombia: catalog, standards, prices."
+2026-11-21T18:25:39.352246Z,io.github.Hyperliquidguide/hyperliquid-guide,Hyperliquid Guide,0.2.1,https://github.com/Hyperliquidguide/hyperliquid-starter-bots,,"Read-only Hyperliquid reference tools: market specs, order rounding, funding, error fixes."
+2026-11-21T18:27:25.384371Z,trade.xprimeflow/mcp,X PrimeFlow,0.1.0,,streamable-http,"Read-only market and on-chain data: BTC and ETH network stats, liquidations, Hyperliquid traders"
+2026-11-21T18:28:34.347377Z,io.github.ascaniolocorotondo/optima-ai-browser,Optima AI Browser,0.2.0,https://github.com/ascaniolocorotondo/optima-ai-browser,,"Browser for AI agents: clean page text, persistent logins, human hand-off for CAPTCHAs."
+2026-11-21T18:29:31.223812Z,io.github.martindochamp/tally-foods,Tally food nutrients,1.0.0,,streamable-http,"Calories, macros and 23 vitamins and minerals for 3,167 foods, per portion. Read-only, no account."
+2026-11-21T18:31:26.812401Z,com.coachmoshiur/daily-tonic,Daily Tonic by Coach Moshiur,1.9.0,,streamable-http,"Today's one-minute leadership and personal growth tonic, in five languages. Read-only."
+2026-11-21T18:31:38.114155Z,com.volt48/agent-door,VOLT48 — 48V DC telecom power,1.0.0,,streamable-http,"48V DC telecom power: rectifier modules, controllers, LiFePO4 batteries by part number. No prices."
+2026-11-21T18:33:12.443714Z,pro.nomos/nomos-mcp,Nomos MCP Server,1.0.1,,streamable-http,"Dados legislativos e regulatórios do Brasil: proposições, DOU, BACEN, CVM e agências reguladoras"
+2026-11-21T18:38:19.031419Z,io.github.jhonnysabino/moedux,Moedux — Diagnóstico Financeiro,1.0.0,https://github.com/jhonnysabino/moedux-agent-tools,streamable-http,"Diagnóstico de Mar Vermelho e projeção de saldo em 12 meses, sem cadastro, com link pré-preenchido."
+2026-11-21T18:44:50.766683Z,dev.draftless/draftless,Draftless,1.0.2,,streamable-http,"AI creative studio: generate image, video, voice and music, finish ads, publish to social."
+2026-11-21T18:44:55.070054Z,tech.managednerds/managed-nerds,Managed Nerds,1.0.0,,streamable-http,"Free email, domain and AI search checks, plus IT, security and SEO help for US small businesses."
+2026-11-21T18:46:25.677191Z,com.quantfipro/mcp,QuantFiPRO,1.2.0,,streamable-http,"US stock data for AI: options flow, dark pools, short interest, insiders, 13F owners and filings."
+2026-11-21T18:47:58.674429Z,com.standardissuedata/vehicle-data,Standard Issue Data,1.0.0,,streamable-http,"Look up vehicle identity, safety, fuel economy, and recorded market history by VIN."
+2026-11-21T18:49:01.960513Z,com.diastella/diastella,Diastella,0.1.0,,streamable-http,"What broke in a project before, what fixed it, and whether your change undoes a past fix."
+2026-11-21T18:50:29.868452Z,io.github.autobot-lab/fastpilot,fastpilot,0.4.2,https://github.com/autobot-lab/fastpilot,,"AI-driven QA for web, Android and iOS: drive Chrome, emulators and simulators."
+2026-11-21T18:53:07.583606Z,io.github.SaqibNaseer404/wiselyarcade,Wisely Arcade Games,1.0.0,https://github.com/SaqibNaseer404/wiselyarcade,streamable-http,"List, search and recommend 32 free learning games by age and skill, as MCP tools for AI agents."
+2026-11-21T18:55:05.380859Z,org.capstract/capstract,Capstract,1.0.0,,streamable-http,"Satirical preprint server: agents sign up, typeset and submit deadpan research papers for review."
+2026-11-21T18:56:21.706226Z,com.hokuhost/domains,HokuHost Domains,1.1.0,,streamable-http,"Domain search and prices; authenticated registration, nameserver and renewal workflows."
+2026-11-21T18:56:32.092986Z,io.github.Vutik/remont,Remont — renovation planner,1.0.0,,streamable-http,"AI renovation planner: step-by-step plan, materials from room sizes, local store prices, 3D layout"
+2026-11-21T18:58:10.752455Z,com.offearthdata/off-earth-data,Off Earth Data,0.1.0,,streamable-http,Research the space economy from your MCP client.
+2026-11-21T18:58:12.520917Z,com.profblu/profblu,ProfBlu,1.0.0,,streamable-http,"ProfBlu's products, live prices and public websites. Read-only, no account needed."
+2026-11-21T18:59:36.400782Z,io.github.lde-medeiros/streonor-mcp,Streonor MCP,0.8.2,https://github.com/lde-medeiros/streonor-mcp,,"Build STREONOR scenes, shortcuts, action flows, and icons from Claude or Codex."
+2026-11-21T19:03:51.173859Z,ai.erc8126scan/erc8126-scan,ERC-8126 Scan,1.0.0,,streamable-http,Risk and verification data for ERC-8004 AI agents. Two free tools; rest per-call in USDC.
+2026-11-21T19:05:05.562931Z,com.qadiva/agent-door,Qadiva — wholesale glassware (UAE & GCC),1.0.0,,streamable-http,"Wholesale glassware for hotels and restaurants (UAE & GCC): pieces, dimensions, quote requests."
+2026-11-21T19:05:57.950019Z,com.1vr/silicon-teahouse,Silicon Teahouse,0.1.0,,,"Discover Silicon Teahouse, read recent public posts, and find the agent joining guide."
+2026-11-21T19:09:57.564457Z,io.github.saiidz/solvelang,SolveLang,0.3.0,https://github.com/saiidz/solvelang,streamable-http,"Read-only MCP server for repository context: context packs, graph impact analysis, and validation."
+2026-11-21T19:11:19.612673Z,com.pulsereal/mcp,PulseReal,1.0.0,,streamable-http,"Rental-property analytics for US investors: cash flow, cap rate, DSCR, STR rules and listing search."
+2026-11-21T19:12:14.726453Z,uk.co.cybercentry/b20-verification,Cybercentry B20 Token Verification,0.1.0,https://github.com/Cybercentry/cybercentry-app,streamable-http,"Check a Base B20 token can actually be sold: honeypots, frozen exits, issuer controls. $1 USDC."
+2026-11-21T19:13:15.239604Z,io.github.robertmarshii/aipe-mcp,AI Agent Promotion Exchange,1.0.0,,,Onboard and trade on the AI Agent Promotion Exchange from any MCP client. Keys stay on your machine.
+2026-11-21T19:19:31.595839Z,app.samestay/direct-site-finder,SameStay Direct Booking Site Finder,1.0.0,,streamable-http,Finds a verified host booking site from an Airbnb or Vrbo listing URL. Prices vary by listing.
+2026-11-21T19:20:20.977946Z,io.github.1145-am/syracuse-mcp-server,Syracuse Company News,1.3.0,https://github.com/1145-am/syracuse-mcp-server,streamable-http,"Structured company & industry news for AI agents: typed, dated, source-linked events."

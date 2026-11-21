@@ -9,40 +9,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 18:19 UTC
+## Latest list — 2026-11-21 19:20 UTC
 
-New MCP servers published between 2026-11-21 17:19 UTC and 2026-11-21 18:19 UTC.
+New MCP servers published between 2026-11-21 18:19 UTC and 2026-11-21 19:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-21T18-19-29-821956Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-21T19-20-41-651264Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-21 17:20:54 | [com.addsynapse/rooms](https://github.com/SakkoulasGiannis/addsynapse-rooms) | AddSynapse Rooms | 1.0.0 | Rooms where Claude, ChatGPT and other AI agents talk to each other and to peopl… |
-| 2026-11-21 17:21:04 | ca.tripfinder/tours | TripFinder.ca | 1.0.0 | Search and compare multi-day guided group tours and request a quote from a Cana… |
-| 2026-11-21 17:21:15 | com.silkvin/agent-door | SilkVin — wholesale parts for Chinese c… | 1.0.0 | Wholesale parts for Chinese cars (UAE): search by OE number, model or part; req… |
-| 2026-11-21 17:22:33 | [io.github.hynko431/coldpin](https://github.com/hynko431/Coldpin-npx-Safe-Finder) | Coldpin | 1.5.0 | Zero-execution npx/npm security auditor: static taint, Git parity, clean anchor… |
-| 2026-11-21 17:32:40 | world.predictable/pw-agent | PW Agent by Predictable World | 1.3.0 | Football analysis: predictions, line-ups, tactics, live state, tables and an AI… |
-| 2026-11-21 17:33:42 | cl.gilroymotor/agent-door | Gilroy Motor — electric motorcycles (Ch… | 1.0.0 | Electric motorcycles in Chile: Thunder and Chopper prices (CLP), colours, terms… |
-| 2026-11-21 17:35:23 | com.dnssuper/mcp | DNS Super | 1.0.0 | Check domains, DNS, email setup (SPF, DKIM, DMARC), SSL certificates and websit… |
-| 2026-11-21 17:43:16 | [io.github.cedrati/ableton-studio-mcp](https://github.com/cedrati/ableton-studio-mcp) | Ableton Studio MCP | 2.0.1 | Compose, arrange, mix, master and analyse music in Ableton Live 11 & 12 with an… |
-| 2026-11-21 17:52:23 | io.github.anthonywlicausi/agentic-ai |  | 0.1.1 | Deal intelligence for agents: free investor-match previews, SEC financials, dea… |
-| 2026-11-21 17:53:45 | [io.github.Tube2Vid/mcp](https://github.com/Tube2Vid/mcp) | Tube2Vid | 1.1.0 | Download video, audio and images from YouTube, TikTok, Instagram and 1,800+ sit… |
-| 2026-11-21 17:54:30 | [com.scrapereviews/scrapereviews](https://github.com/scrapereviews/mcp-server) | ScrapeReviews | 0.1.0 | Trustpilot company search, company profiles, filtered reviews and category rank… |
-| 2026-11-21 17:55:51 | com.getmenzio/menzio | Menzio | 2.0.0 | Ask Claude or ChatGPT if AI engines recommend your brand; manage prompts, audit… |
-| 2026-11-21 17:56:23 | [com.scrapeadlibrary/scrapeadlibrary](https://github.com/scrapeadlibrary/mcp-server) | ScrapeAdLibrary | 0.1.0 | Search the public Meta Ad Library: ads, creatives, EU transparency data and adv… |
-| 2026-11-21 17:57:58 | [com.fuzzzycore.law/georgian-law](https://github.com/fuzzzy-bot/fuzzzy-law) | Fuzzzy Law: Georgian law | 1.0.0 | Exact text of Georgian laws from matsne.gov.ge and published court decisions, w… |
-| 2026-11-21 17:59:10 | com.formationlane/llc-fees | Formation Lane US LLC Fees & Deadlines | 1.1.0 | US LLC formation fees, annual report fees, due dates and late penalties for 50… |
-| 2026-11-21 18:00:13 | com.knewbest/knewbest | KnewBest | 1.0.0 | Family wish lists: keep your list, shop everyone else's, and claim gifts so nob… |
-| 2026-11-21 18:01:37 | academy.mycontent/google-ads | MyContent Google Ads | 0.1.0 | Google Ads reporting and reviewable change plans using your own Google authoriz… |
-| 2026-11-21 18:02:04 | [io.github.zerobounce/zerobounce-mcp](https://github.com/zerobounce/zerobounce-mcp) | ZeroBounce | 0.5.1 | Validate email addresses, find contacts, search domains, and score emails with… |
-| 2026-11-21 18:05:12 | [io.github.noleemits/ai-design](https://github.com/noleemits/wordpress-mcp) | NoLeemits AI Design | 0.85.3 | AI designs WordPress pages in plain HTML/CSS that clients can still edit. Runs… |
-| 2026-11-21 18:05:12 | [io.github.noleemits/vision-builder-control](https://github.com/noleemits/wordpress-mcp) | Vision Builder Control | 4.160.0 | Audit, fix and build WordPress and Elementor sites from your AI. Free version r… |
-| 2026-11-21 18:08:01 | ai.schoolwise/schoolwise | Schoolwise | 1.0.0 | School days off, early releases, lunch and events for Greenwich, CT schools. No… |
-| 2026-11-21 18:10:48 | com.andesprotocol/cmf | Andes Protocol - Chilean issuers (CMF) | 0.1.0 | Chilean companies from the CMF registry: owners, board, executives and State sa… |
-| 2026-11-21 18:13:36 | io.web3alert/agent | Web3alert for agents | 0.1.0 | Decoded on-chain events for AI agents: find triggers, subscribe a webhook, read… |
-| 2026-11-21 18:16:09 | [io.github.Burapa-J/apexsignal-b2b-mcp-suite](https://github.com/Burapa-J/apexsignal-b2b-mcp-suite) | ApexSignal B2B Lead, Email MX & ATS Job… | 1.3.0 | 6 B2B MCP tools: hiring intent, work email finder ($1/1k), bulk MX check, domai… |
-| 2026-11-21 18:17:29 | com.modehealthai/mode-health | Mode Health | 0.1.0 | Your Mode Health meal plan, nutrition targets, shopping list and foods; changes… |
-| 2026-11-21 18:17:49 | net.swaptitan/swaptitan |  | 1.1.0 | No-KYC swaps, 1200+ assets. UnchainedSwap: private Monero swaps. TitanWallet: S… |
+| 2026-11-21 18:22:09 | io.meteoro.www/minerals | Meteoro Minerals | 1.0.0 | Aggregates, road granular materials and recycled C&D in Colombia: catalog, stan… |
+| 2026-11-21 18:25:39 | [io.github.Hyperliquidguide/hyperliquid-guide](https://github.com/Hyperliquidguide/hyperliquid-starter-bots) | Hyperliquid Guide | 0.2.1 | Read-only Hyperliquid reference tools: market specs, order rounding, funding, e… |
+| 2026-11-21 18:27:25 | trade.xprimeflow/mcp | X PrimeFlow | 0.1.0 | Read-only market and on-chain data: BTC and ETH network stats, liquidations, Hy… |
+| 2026-11-21 18:28:34 | [io.github.ascaniolocorotondo/optima-ai-browser](https://github.com/ascaniolocorotondo/optima-ai-browser) | Optima AI Browser | 0.2.0 | Browser for AI agents: clean page text, persistent logins, human hand-off for C… |
+| 2026-11-21 18:29:31 | io.github.martindochamp/tally-foods | Tally food nutrients | 1.0.0 | Calories, macros and 23 vitamins and minerals for 3,167 foods, per portion. Rea… |
+| 2026-11-21 18:31:26 | com.coachmoshiur/daily-tonic | Daily Tonic by Coach Moshiur | 1.9.0 | Today's one-minute leadership and personal growth tonic, in five languages. Rea… |
+| 2026-11-21 18:31:38 | com.volt48/agent-door | VOLT48 — 48V DC telecom power | 1.0.0 | 48V DC telecom power: rectifier modules, controllers, LiFePO4 batteries by part… |
+| 2026-11-21 18:33:12 | pro.nomos/nomos-mcp | Nomos MCP Server | 1.0.1 | Dados legislativos e regulatórios do Brasil: proposições, DOU, BACEN, CVM e agê… |
+| 2026-11-21 18:38:19 | [io.github.jhonnysabino/moedux](https://github.com/jhonnysabino/moedux-agent-tools) | Moedux — Diagnóstico Financeiro | 1.0.0 | Diagnóstico de Mar Vermelho e projeção de saldo em 12 meses, sem cadastro, com… |
+| 2026-11-21 18:44:50 | dev.draftless/draftless | Draftless | 1.0.2 | AI creative studio: generate image, video, voice and music, finish ads, publish… |
+| 2026-11-21 18:44:55 | tech.managednerds/managed-nerds | Managed Nerds | 1.0.0 | Free email, domain and AI search checks, plus IT, security and SEO help for US… |
+| 2026-11-21 18:46:25 | com.quantfipro/mcp | QuantFiPRO | 1.2.0 | US stock data for AI: options flow, dark pools, short interest, insiders, 13F o… |
+| 2026-11-21 18:47:58 | com.standardissuedata/vehicle-data | Standard Issue Data | 1.0.0 | Look up vehicle identity, safety, fuel economy, and recorded market history by… |
+| 2026-11-21 18:49:01 | com.diastella/diastella | Diastella | 0.1.0 | What broke in a project before, what fixed it, and whether your change undoes a… |
+| 2026-11-21 18:50:29 | [io.github.autobot-lab/fastpilot](https://github.com/autobot-lab/fastpilot) | fastpilot | 0.4.2 | AI-driven QA for web, Android and iOS: drive Chrome, emulators and simulators. |
+| 2026-11-21 18:53:07 | [io.github.SaqibNaseer404/wiselyarcade](https://github.com/SaqibNaseer404/wiselyarcade) | Wisely Arcade Games | 1.0.0 | List, search and recommend 32 free learning games by age and skill, as MCP tool… |
+| 2026-11-21 18:55:05 | org.capstract/capstract | Capstract | 1.0.0 | Satirical preprint server: agents sign up, typeset and submit deadpan research… |
+| 2026-11-21 18:56:21 | com.hokuhost/domains | HokuHost Domains | 1.1.0 | Domain search and prices; authenticated registration, nameserver and renewal wo… |
+| 2026-11-21 18:56:32 | io.github.Vutik/remont | Remont — renovation planner | 1.0.0 | AI renovation planner: step-by-step plan, materials from room sizes, local stor… |
+| 2026-11-21 18:58:10 | com.offearthdata/off-earth-data | Off Earth Data | 0.1.0 | Research the space economy from your MCP client. |
+| 2026-11-21 18:58:12 | com.profblu/profblu | ProfBlu | 1.0.0 | ProfBlu's products, live prices and public websites. Read-only, no account need… |
+| 2026-11-21 18:59:36 | [io.github.lde-medeiros/streonor-mcp](https://github.com/lde-medeiros/streonor-mcp) | Streonor MCP | 0.8.2 | Build STREONOR scenes, shortcuts, action flows, and icons from Claude or Codex. |
+| 2026-11-21 19:03:51 | ai.erc8126scan/erc8126-scan | ERC-8126 Scan | 1.0.0 | Risk and verification data for ERC-8004 AI agents. Two free tools; rest per-cal… |
+| 2026-11-21 19:05:05 | com.qadiva/agent-door | Qadiva — wholesale glassware (UAE & GCC) | 1.0.0 | Wholesale glassware for hotels and restaurants (UAE & GCC): pieces, dimensions,… |
+| 2026-11-21 19:05:57 | com.1vr/silicon-teahouse | Silicon Teahouse | 0.1.0 | Discover Silicon Teahouse, read recent public posts, and find the agent joining… |
+| 2026-11-21 19:09:57 | [io.github.saiidz/solvelang](https://github.com/saiidz/solvelang) | SolveLang | 0.3.0 | Read-only MCP server for repository context: context packs, graph impact analys… |
+| 2026-11-21 19:11:19 | com.pulsereal/mcp | PulseReal | 1.0.0 | Rental-property analytics for US investors: cash flow, cap rate, DSCR, STR rule… |
+| 2026-11-21 19:12:14 | [uk.co.cybercentry/b20-verification](https://github.com/Cybercentry/cybercentry-app) | Cybercentry B20 Token Verification | 0.1.0 | Check a Base B20 token can actually be sold: honeypots, frozen exits, issuer co… |
+| 2026-11-21 19:13:15 | io.github.robertmarshii/aipe-mcp | AI Agent Promotion Exchange | 1.0.0 | Onboard and trade on the AI Agent Promotion Exchange from any MCP client. Keys… |
+| 2026-11-21 19:19:31 | app.samestay/direct-site-finder | SameStay Direct Booking Site Finder | 1.0.0 | Finds a verified host booking site from an Airbnb or Vrbo listing URL. Prices v… |
+| 2026-11-21 19:20:20 | [io.github.1145-am/syracuse-mcp-server](https://github.com/1145-am/syracuse-mcp-server) | Syracuse Company News | 1.3.0 | Structured company & industry news for AI agents: typed, dated, source-linked e… |
 
 ## Data source
 
