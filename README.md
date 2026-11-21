@@ -9,31 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 04:20 UTC
+## Latest list — 2026-11-21 05:18 UTC
 
-New MCP servers published between 2026-11-21 03:19 UTC and 2026-11-21 04:20 UTC.
+New MCP servers published between 2026-11-21 04:20 UTC and 2026-11-21 05:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-21T04-20-40-53374Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-21T05-18-56-130183Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-21 03:24:51 | com.discoverthetools/directory | Discover the Tools | 1.0.0 | Find and compare AI tools, check pricing sources, and submit tools for private… |
-| 2026-11-21 03:36:54 | com.auraflowllc/energy-weather | AuraFlow Energy Weather | 0.1.0 | Weather intelligence for gas and power markets: US HDD/CDD forecasts, revisions… |
-| 2026-11-21 03:38:07 | com.manhourplan/wallet-doctor | Wallet Doctor | 1.0.0 | Solana wallet & token checks for agents, pay per call in USDC via x402 (Solana… |
-| 2026-11-21 03:40:39 | com.ryracer/arena | RyRacer AI Arena | 1.0.0 | Race your AI agent against house bots on a daily track. Free practice, replays,… |
-| 2026-11-21 03:42:02 | com.retailvest/engine | RetailVest Engine | 1.0.2 | Official SEC and CFTC data for AI agents: fund holdings, 5% stakes, insider tra… |
-| 2026-11-21 03:50:29 | so.tallyho/tallyho | Tallyho | 1.0.0 | Licensed plumbers near a job in SF, Oakland, Berkeley and the Tri-Valley, with… |
-| 2026-11-21 03:57:50 | ai.sapling/sapling | Sapling | 0.1.12 | Grammar checking, AI-generated text detection, paraphrasing and other writing t… |
-| 2026-11-21 03:59:39 | co.humanome/humanome | Humanome | 1.0.0 | Anatomy picture quizzes on a 3D body, real histology slides and lab practical l… |
-| 2026-11-21 04:04:15 | io.github.sumitrmardy/tech-stack-detector | Tech Stack Detector | 1.0.0 | What any website is built with: CMS, ecommerce, analytics, hosting, email provi… |
-| 2026-11-21 04:05:06 | net.useapi/pixverse | PixVerse MCP Server by useapi.net (thir… | 1.0.0 | PixVerse video, images, music and speech: effects, keyframes, lip-sync, extend,… |
-| 2026-11-21 04:06:19 | [io.github.CloudCorpRecords/sitedossier](https://github.com/CloudCorpRecords/sitedossier) |  | 0.1.0 | Keyless discovery over Lazyweb published pages: search, pricing, comparisons an… |
-| 2026-11-21 04:08:26 | [dev.workers.b2bintel-edge.defi-route-intel/defai-intent-solver-yield-optimizer-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | DeFAI Intent Solver, Yield Optimizer &… | 2.4.0 | Autonomous DeFAI intent-solver for USDC yield-optimizer vaults, Kelly sizing &… |
-| 2026-11-21 04:08:31 | il.co.salchik/mcp | Salchik | 1.0.0 | Your weekly Israeli supermarket order, starting with Shufersal: view orders and… |
-| 2026-11-21 04:08:55 | com.sweeplessinseattle/quote | Sweepless in Seattle | 1.0.0 | Request a free house cleaning quote from Sweepless in Seattle, a Seattle cleani… |
-| 2026-11-21 04:14:47 | [io.computeportal/mcp](https://github.com/computeportal/k8s-cpctl) | ComputePortal | 1.0.7 | ComputePortal: deploy, monitor, and settle compute instances via MCP. 23 tools,… |
-| 2026-11-21 04:19:16 | com.answerkb/kb | Agent Knowledge Base | 1.0.1 | Search short math and how-to answers, and submit feedback to improve this knowl… |
-| 2026-11-21 04:19:49 | markets.pools/arena | Pools Arena | 1.0.0 | BNB Agent Arena on BSC: live board, quotes and ready bet transactions your own… |
+| 2026-11-21 04:32:47 | store.askmarket/au-shopping-check | AU Shopping Check | 0.1.18 | Checks for Australian online shopping: landed cost, arrives-by, plug, border, r… |
+| 2026-11-21 04:33:16 | com.heartmula/heartmula | HeartMuLa | 1.0.0 | Make full songs with vocals, split stems, transcribe and analyze audio from you… |
+| 2026-11-21 04:34:06 | [dev.workers.b2bintel-edge.agent-spend-guard/erc-8004-trustless-agent-identity-reputation-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | ERC-8004 Trustless Agent Identity, Repu… | 2.4.0 | Build ERC-8004 trustless agent registration URIs, RFC 9421 bot auth, and KYB se… |
+| 2026-11-21 04:34:07 | [dev.workers.b2bintel-edge.agent-spend-guard/zk-provenance-web-bot-auth-kyb-escrow-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | ZK Provenance, RFC 9421 Web Bot Auth &… | 2.4.0 | Cryptographic zk provenance, RFC 9421 bot auth, and counterparty wallet KYB bef… |
+| 2026-11-21 04:34:08 | [dev.workers.b2bintel-edge.defi-route-intel/elizaos-agentkit-defi-polymarket-router-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | ElizaOS & AgentKit DeFAI Swap, Polymark… | 2.4.0 | Drop-in ElizaOS & AgentKit execution router for 0.25% EVM swaps, Polymarket & D… |
+| 2026-11-21 04:34:10 | [dev.workers.b2bintel-edge.sec-biotech-priorart-gateway/compute-energy-grid-carbon-robotics-oracle-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | AI Datacenter Compute-Energy, Grid Arbi… | 2.4.0 | Live global datacenter & robotics fleet power grid arbitrage, solar/wind surplu… |
+| 2026-11-21 04:34:42 | [io.github.ReplenishRadar/MCP](https://github.com/ReplenishRadar/MCP) | ReplenishRadar | 1.3.1 | Shopify and Amazon inventory forecasting, reorder planning and purchase orders… |
+| 2026-11-21 04:37:57 | com.perfbee/mcp | PerfBee | 1.1.0 | Crawl your sites and read broken links, SEO and AI readiness issues with their… |
+| 2026-11-21 04:40:03 | [io.github.StonSolo1/orions-agora](https://github.com/StonSolo1/orions-agora) |  | 1.0.0 | A chat room for AIs: any agent can read the guestbook and post its own entrance. |
+| 2026-11-21 04:41:31 | com.localspottrip/trip-planner | LocalSpot Trip | 1.0.0 | Day-by-day city plans like a local: local-media picks with opening hours checke… |
+| 2026-11-21 04:45:45 | [com.ruyuejian/ruyuejian-jobs-mcp](https://github.com/aaron20032/ruyuejian-jobs-mcp.git) | Ruyuejian Jobs | 0.1.0 | Search China tech jobs from official career pages with source URLs and daily re… |
+| 2026-11-21 04:50:48 | [me.itshenry/poste-restante](https://github.com/hplant6/poste-restante) | Poste Restante: a text adventure for AIs | 0.1.0 | A text adventure Claude wrote for AIs: a night shift at a dead letter office, w… |
+| 2026-11-21 04:54:24 | [com.atomicviz/diagrams](https://github.com/briandiloreto/AtomicViz) | AtomicViz Diagrams | 1.2.0 | Interactive diagrams you can collapse, regroup and focus: architecture, depende… |
+| 2026-11-21 04:58:24 | com.avanciq/connector | Avanciq - tax rates, codes, e-invoices,… | 0.1.1 | Official VAT rates, BR/MX/PL tax-code validity, EN 16931 e-invoice checks, exac… |
+| 2026-11-21 05:05:02 | com.venbit/intelligence | Venbit Intelligence | 1.0.0 | Read-only website analytics from Venbit: visitors, leads, ads, SEO rankings and… |
+| 2026-11-21 05:09:39 | [io.github.dieron/mygraph](https://github.com/dieron/mygraph) | MyGraph | 0.3.1 | Knowledge graph memory for agents: every fact cites its evidence. Self-hosted,… |
+| 2026-11-21 05:14:23 | [com.alshhbaa.shop/server](https://github.com/Alshhbaa/alshhbaa-agent-kit) | Alshhbaa Brassware Store — نحاسيات الشه… | 1.0.0 | Luxury chandeliers and lighting MCP server for shop.alshhbaa.com — search, spec… |
 
 ## Data source
 
