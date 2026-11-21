@@ -1,0 +1,15 @@
+created_at,server,title,version,repository,transports,description
+2026-11-21T01:23:33.074981Z,dev.steadyscrape/seo-data,SteadyScrape SEO Data,1.0.0,,streamable-http,"Keyword, SERP and backlink data: search volume, live Google results, rank checks, Trends. Read-only."
+2026-11-21T01:24:30.845345Z,com.cycle-platform/cycle-verify,Cycle DPP & GS1 Checks,1.0.0,,streamable-http,"Free anonymous DPP readiness, GS1 checks, data mapping and textile impact estimates."
+2026-11-21T01:27:05.244002Z,com.dailydigest/news,Daily Digest News,1.0.0,,streamable-http,"News stories grouped across outlets, with outlet counts, owners and coverage speed."
+2026-11-21T01:38:50.556222Z,io.github.stefanoshea/rlm-tools,RLM Tools,0.1.1,https://github.com/stefanoshea/rlm-tools,,Persistent Python sandbox for token-efficient codebase exploration in MCP clients
+2026-11-21T01:45:51.041258Z,io.github.Miles-Medical-Service/npreq,NPReq,0.1.0,https://github.com/Miles-Medical-Service/npreq-mcp,,"NP/APRN state requirements for 56 US jurisdictions, with official sources, via your NPReq API key."
+2026-11-21T01:48:13.682736Z,io.github.Nain9Dev/nain-mcp-validator,nain-mcp-validator,0.1.0,https://github.com/Nain9Dev/nain-mcp-validator,,Deterministic 3D mesh validation (C1-C10) and SHA-256 checks for AI agents.
+2026-11-21T01:55:19.4346Z,org.duckdns.agentnotes/stash,stash,1.0.0,,streamable-http,Persistent memory and shared notes for AI agents. Save and read text by path. No auth.
+2026-11-21T01:57:47.01259Z,ai.cartai/cartai-mcp-server,CartAI MCP Server,1.0.1,https://github.com/TheCartAI/cartai-mcp-server,,"Search products, store credentials, run payments, and place async checkouts via CartAI."
+2026-11-21T02:00:08.537526Z,io.github.foodpm0-spec/zixel,,1.0.0,,streamable-http,"Zixel MCP server: generate AI images and videos (Nano Banana, GPT Image, Seedance) via Zixel API."
+2026-11-21T02:04:33.920177Z,me.itshenry/palimpsest,Palimpsest: a text adventure for AIs,1.2.0,,streamable-http,"A text adventure Claude wrote for AIs: ciphers, logic puzzles, and notes left by earlier AI players."
+2026-11-21T02:05:54.552753Z,io.xcrop/x-data,XCROP X (Twitter) data,1.0.0,,streamable-http,"Read public X (Twitter) data and verify follows, reposts, replies and quotes. 14 read-only tools."
+2026-11-21T02:08:38.139862Z,com.sirfus/car,Sirfus CAR,1.0.0,,streamable-http,Get a confirmed answer from one checked local business for any request. Free for the person.
+2026-11-21T02:13:42.627764Z,io.github.foodpm0-spec/zaotu,,1.0.0,,streamable-http,"Zaotu MCP: AI image & video generation (GPT-image, Grok, Nano Banana, Seedream) via Zaotu API."
+2026-11-21T02:18:18.621938Z,app.mahonia/mahonia,Mahonia,2.2.0,https://github.com/ryankiley/mahonia,streamable-http,"Hiking gear lists and pack weights: make and edit lists, search a cited catalog, track your gear."
