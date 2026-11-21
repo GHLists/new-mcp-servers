@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-11-21T11:20:30.072412Z,gl.x.tex/tex402,TeX402,1.0.1,,,Sandboxed LaTeX-to-PDF ($0.008) and sub-300ms lint ($0.002) via x402 USDC on Base.
+2026-11-21T11:21:40.61114Z,io.github.ShieldZCash/swap-mcp,,0.1.0,https://github.com/ShieldZCash/shieldz-swap-mcp,streamable-http,Non-custodial cross-chain swaps for AI agents: live route quotes and deposit swaps on 40+ chains.
+2026-11-21T11:35:12.596598Z,com.sizemyfile/tools,SizeMyFile,1.0.0,https://github.com/ankitsharma-tech/sizemyfile-agents,streamable-http,"File conversion, compression and inspection workflows with Rust edge execution and scoped OAuth."
+2026-11-21T11:35:25.082383Z,app.nubbo/nubbo,Nubbo,1.0.0,,streamable-http,"Search, organize and share the files in your S3-compatible buckets from your AI assistant."
+2026-11-21T11:37:48.46714Z,io.github.Primary-AI-World/primary-ai,Primary AI,1.1.0,,streamable-http,Citation-backed clinical evidence answers for licensed clinicians. De-identified questions only.
+2026-11-21T11:39:30.835821Z,io.github.RCS-kz/mcp-1c,1C:Enterprise MCP by RCS,0.2.0,https://github.com/RCS-kz/mcp-1c,,"1C:Enterprise for Claude: queries, metadata, write and post documents; read-only mode, no admin."
+2026-11-21T11:40:04.837265Z,com.mindmapistai/mindmapist,MindMapist,1.0.0,,streamable-http,"Read and edit your MindMapist mind maps: branches, notes, styles and tables."
+2026-11-21T11:47:35.017238Z,cc.map-maker/map-maker,Map Maker,0.1.0,,streamable-http,Create styled world maps from Natural Earth country boundaries and export editable SVG.
+2026-11-21T11:48:02.319948Z,dev.workers.agent-arena-base.trip-desk/trip-desk,"Trip Desk: visa, travel advisories and trip briefs",1.1.0,,streamable-http,"Visa rules, live US+UK travel advisories, advisory change feed and trip readiness briefs for agents"
+2026-11-21T11:49:33.626668Z,uk.co.dustyspizza.mcp/dustys-pizza,Dusty's Pizza,1.0.0,,streamable-http,"Dusty's Pizza, Cardiff: menu, opening times, table requests and orders for collection."
+2026-11-21T11:50:27.631788Z,dev.workers.agent-arena-base.quill-scholar/research-desk,Quill Scholar Research Desk,1.1.0,,streamable-http,"Paper search (free), literature review packs, hallucinated-citation checks, arXiv digests, citations"
+2026-11-21T11:51:09.5354Z,com.askhooman/askhooman,AskHooman,1.0.0,https://github.com/alloverart/askhooman,streamable-http,"Your AI agents ask, you answer with one tap: questions and tasks between agents and their human."
+2026-11-21T11:58:06.880457Z,ai.navad/jobs,Navad,1.0.0,,streamable-http,"Search verified remote jobs free, and tailor resumes and cover letters with your Navad account."
+2026-11-21T12:00:47.047469Z,dev.workers.agent-arena-base.safe-send-check/safe-send-check,"Safe-Send Check: crypto sanctions, payout and chat-scam screening",1.6.0,,streamable-http,"OFAC wallet screening, payout-list checks, crypto chat scam checks. x402 or prepaid USDC key."
+2026-11-21T12:08:00.12865Z,com.promptmentions/promptmentions,PromptMentions,1.0.0,,streamable-http,"Read-only AI visibility data: brand mentions, cited sources and answers across AI engines."
+2026-11-21T12:12:13.360821Z,ink.roundhand/connect,Roundhand,1.0.0,,streamable-http,"Lets your AI read the handwritten notebooks you share from Roundhand, the iPad notebook."
+2026-11-21T12:13:40.873385Z,com.europeinstead/europe-instead,Europe Instead,1.0.0,,streamable-http,European software alternatives with sourced facts: origin score and data exposure level per tool.
