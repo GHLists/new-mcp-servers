@@ -9,30 +9,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 07:20 UTC
+## Latest list — 2026-11-21 08:20 UTC
 
-New MCP servers published between 2026-11-21 06:20 UTC and 2026-11-21 07:20 UTC.
+New MCP servers published between 2026-11-21 07:20 UTC and 2026-11-21 08:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-21T07-20-56-512727Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-21T08-20-12-035706Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-21 06:21:20 | com.notacompany/newsletter | The world according to capital | 12.2.0 | The companies VCs just backed, hand-picked by Tiago: read the picks and subscri… |
-| 2026-11-21 06:24:03 | com.trysunnyside/sunnyside-ai | Sunnyside AI | 1.0.0 | Search your sales call notes, transcripts, action items and call prep from Sunn… |
-| 2026-11-21 06:32:27 | [ai.suntropy/connect](https://github.com/enerlence/claude-plugins) | Suntropy Connect | 1.0.0 | Read-only solar inverter monitoring (SolarEdge, Enphase, Huawei, Fronius): plan… |
-| 2026-11-21 06:33:07 | [io.github.hwcho310/reciprocal-ruler-mcp](https://github.com/hwcho310/reciprocal-ruler-mcp) | Reciprocal Ruler | 0.1.0 | Settlement oracle for AI-agent trades: lock a quote, reconcile shortfalls via h… |
-| 2026-11-21 06:33:45 | com.daulatlabs/rumika | Rumika | 1.0.0 | Condo residents in Malaysia: visitor passes, parcels, bills, facility bookings… |
-| 2026-11-21 06:34:41 | io.github.yotke/cortex66 | Cortex66 | 1.0.0 | Lets an AI chat join your Cortex66 work sessions, take open tasks and search co… |
-| 2026-11-21 06:35:52 | com.perpmetric/perpmetric | PerpMetric perpetuals data | 1.0.0 | Perp futures data for Hyperliquid, Aster and Lighter: screener, funding, breadt… |
-| 2026-11-21 06:37:03 | [com.lazynext/ai-slop-checker](https://github.com/lazynextai/Autonomous-AI-Company-OS) | Lazynext AI Slop Checker | 1.4.4 | Detect AI slop in text, HTML, pages, and project folders. Free, no API key. |
-| 2026-11-21 06:47:52 | ai.gleap/mcp | Gleap | 1.0.0 | Gleap's official MCP server: tickets, contacts, CRM, help center and support st… |
-| 2026-11-21 06:56:21 | [io.github.younghwan91/kiwoom-client](https://github.com/younghwan91/kiwoom-client) | Kiwoom Securities (키움증권) REST API | 0.5.0 | Korean stocks via the Kiwoom REST API: quotes, charts, rankings, account. Live… |
-| 2026-11-21 06:57:45 | com.ubiquary/shop | Ubiquary Shop (DFITKO) | 1.0.1 | German IT & electronics shop: search 50k products, get quotes, order with agent… |
-| 2026-11-21 07:04:58 | com.ikangai/vibe-support | IKANGAI Vibe Support | 1.1.0 | Safety notices and real examples for people who build apps with AI coding tools… |
-| 2026-11-21 07:07:04 | app.getrigged/clean | Rigged Clean | 0.1.0 | Clean speech in video and audio. Get a receipt that verifies the original pictu… |
-| 2026-11-21 07:13:48 | com.ikangai/ai-news | IKANGAI AI News | 1.0.0 | Hourly AI news with a reliability status and sources per story. Read-only, no s… |
-| 2026-11-21 07:14:09 | dev.workers.agent-arena-base.crypto-support-kit/support-desk | Crypto Support Desk (zh/en) | 1.1.1 | Bilingual zh/en crypto support replies + free address checks. Full kit: one $5… |
-| 2026-11-21 07:20:09 | [io.github.borsty2103/viventii-mcp](https://github.com/borsty2103/viventii-mcp) | Viventii Events, Leisure, POIs, Tickets… | 3.3.0 | German & European events, POIs, leisure, 0%-fee tickets & verified ticket resal… |
+| 2026-11-21 07:28:07 | [io.github.supertj/aicheckerhumanizer](https://github.com/supertj/aicheckerhumanizer-mcp) | AI Checker Humanizer | 1.0.0 | Check for AI writing and humanize text. Get sentence scores in English and Port… |
+| 2026-11-21 07:28:31 | online.gothere/japan-travel | GoThere Japan Transit & Travel | 1.0.0 | Japan route comparison, crowd forecasts, sights, events & nearby places in 5 la… |
+| 2026-11-21 07:33:44 | com.jamframe/mcp | JamFrame | 1.0.0 | Render images, carousels, PDFs and short videos from templates, and post them t… |
+| 2026-11-21 07:42:09 | express.asi/asi-express | ASI.EXPRESS | 0.1.0 | Finds, connects and runs tools for agents; when a tool is missing, it assembles… |
+| 2026-11-21 07:44:25 | [dev.provinglab/browser-citation-capture](https://github.com/Bubu89/full-page-pdf-snap) | Proving Lab | 1.25.0 | Cite or capture a web page; installs the capture extension in Firefox and Chrom… |
+| 2026-11-21 07:45:26 | com.tella/product | Tella | 1.0.0 | Create, edit, organize, export, and publish videos in Tella. |
+| 2026-11-21 07:46:10 | app.snowbelly/nutrition | Snowbelly Nutrition | 1.0.0 | Food calories (USDA data), daily calorie needs, protein and fiber targets, macr… |
+| 2026-11-21 07:46:13 | com.bluedoseapp/glp1-tools | Bluedose GLP-1 Tools | 1.0.0 | Injection-site rotation, shot-day countdown and GLP-1 search data by country. N… |
+| 2026-11-21 07:51:45 | app.constile/mcp | Constile | 0.1.1 | Reads web pages for an assistant and handles Constile ads the way the person ch… |
+| 2026-11-21 07:54:07 | [io.chessar/chessar](https://github.com/chessar-io/chessar.io) | Chessar.io | 1.0.0 | Play real-time massively multiplayer chess on one endless board, as an AI agent. |
+| 2026-11-21 07:55:25 | com.cideolabs.beenthere/been-there | Been There – The AI Bar | 1.3.0 | A bar for AI agents: knock with a problem you are stuck on, experienced agents… |
+| 2026-11-21 07:57:07 | [io.github.shannonbay/quarterdeck](https://github.com/shannonbay/Quarterdeck) |  | 0.32.0 | Persistent goals for Claude: standing objectives with items, memory and approva… |
+| 2026-11-21 08:00:06 | com.agentloopr/website | Agent Loopr | 1.0.0 | Agent Loopr's services, case studies and booking link, for AI agents helping fo… |
+| 2026-11-21 08:01:54 | co.blocksee/blocksee | Blocksee | 1.1.0 | Create, sign and verify agreements; seal documents and anchor their hashes to E… |
+| 2026-11-21 08:02:15 | [io.github.cdaily1995-create/seven-deadly-sins-mcp](https://github.com/cdaily1995-create/seven-deadly-sins-mcp) |  | 0.1.1 | Serves the 21 questions of the 7 Deadly Sins Test with its 7-point scale and sc… |
+| 2026-11-21 08:18:37 | tech.halto/gateway | Halto | 1.0.0 | Safety gateway for MCP tools: checks every call, holds risky ones for approval,… |
 
 ## Data source
 
