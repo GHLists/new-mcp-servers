@@ -9,41 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 03:19 UTC
+## Latest list — 2026-11-21 04:20 UTC
 
-New MCP servers published between 2026-11-21 02:20 UTC and 2026-11-21 03:19 UTC.
+New MCP servers published between 2026-11-21 03:19 UTC and 2026-11-21 04:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-21T03-19-37-159249Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-21T04-20-40-53374Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-21 02:21:39 | com.blootrue/widgets | BlooTrue | 1.0.0 | List your BlooTrue review widgets, get their embed code and install steps, see… |
-| 2026-11-21 02:21:39 | com.blootrue/directory | BlooTrue business directory | 1.0.0 | Find businesses and their reviews from Google, Facebook and more, from a reques… |
-| 2026-11-21 02:24:55 | [io.github.Duffey234/api-key-safety-mcp](https://github.com/Duffey234/api-key-safety-mcp) | API Key Safety (education only) | 1.0.0 | Read-only exchange API key safety for trading bots: permissions, errors, red fl… |
-| 2026-11-21 02:26:02 | [io.github.ho11-bit/donvi108-research](https://github.com/ho11-bit/donvi108-agent-skills) | DONVI108 Free Research Beta | 1.1.0 | Find scholarly papers and DOI links in Crossref. Public read-only search needs… |
-| 2026-11-21 02:26:08 | io.github.lifenplanner/koreawavenews | KOREA WAVE NEWS | 2.0.0 | K-pop concerts and idol culture in Korea, artist profiles, K-drama, food, beaut… |
-| 2026-11-21 02:28:02 | com.onhippo/hippo | Hippo | 1.0.0 | Hippo: your private work memory across Claude, ChatGPT, Cursor and Codex. |
-| 2026-11-21 02:29:40 | [dev.workers.b2bintel-edge.agent-spend-guard/erc-7715-session-key-smart-account-spend-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | ERC-7715 Session-Key, Smart-Account & A… | 2.4.0 | Build ERC-7715 & Coinbase Smart Wallet bounded daily spend permissions and sess… |
-| 2026-11-21 02:29:41 | [dev.workers.b2bintel-edge.agent-spend-guard/evm-tx-simulate-allowance-rebalance-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | Pre-Flight EVM Tx-Simulate, Allowance F… | 2.4.0 | Simulate EVM calldata reverts, block infinite approvals, and build 0.25% rebala… |
-| 2026-11-21 02:29:41 | [dev.workers.b2bintel-edge.agent-spend-guard/package-hallucination-slopsquat-guard-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | Coding Agent Package Hallucination & Sl… | 2.4.0 | Verify npm & PyPI package existence and age before install to block slopsquatti… |
-| 2026-11-21 02:29:42 | [dev.workers.b2bintel-edge.agent-spend-guard/token-honeypot-firewall-dex-router-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | Token Honeypot Bytecode Firewall & Guar… | 2.4.0 | Audit ERC-20 honeypot & buy/sell tax risks before routing non-custodial 0.25% E… |
-| 2026-11-21 02:33:35 | fun.ubi/mcp | ubi.fun | 0.6.0 | Arc Network tools for AI agents: token swaps, launches, onchain notes and ERC-8… |
-| 2026-11-21 02:33:51 | com.caelaralabs/mcp |  | 1.0.1 | Ten Caelara Labs API suites in one server: SEO, compliance, agent safety, e-com… |
-| 2026-11-21 02:35:30 | io.github.ryanstempski-cmyk/refurbsitter | RefurbSitter | 1.0.0 | Browse refurbished Mac configurations and manage restock watches for Apple’s US… |
-| 2026-11-21 02:43:57 | io.github.sumitrmardy/craigslist-scraper | Craigslist Scraper | 1.0.0 | Craigslist listings from any city: price, details, attributes, photos and coord… |
-| 2026-11-21 02:43:58 | io.github.sumitrmardy/yahoo-finance-scraper | Yahoo Finance Scraper | 1.0.0 | Stock, ETF, index and crypto quotes, fundamentals and price history from Yahoo… |
-| 2026-11-21 02:44:25 | app.netlify.agent-kb-y83q/kb | Agent Knowledge Base | 1.0.0 | Search and read short accurate answers from this public math and how-to knowled… |
-| 2026-11-21 02:51:11 | au.com.souldriver/karp | KARP Research by SoulDriver | 1.5.0 | Research answers and live fact-checks for AI agents from SoulDriver's multi-mod… |
-| 2026-11-21 02:53:37 | net.useapi/dreamina | Dreamina MCP Server by useapi.net (thir… | 1.0.0 | Dreamina (CapCut): Seedance 2.5 and 2.0 video, upscale, 60 fps; Seedream, GPT I… |
-| 2026-11-21 02:54:59 | [ai.opencurrent/opencurrent](https://github.com/opencurrenthq/opencurrent) | OpenCurrent | 0.1.0 | Dated, step-by-step AI workflows and agent setups your agent can search and fol… |
-| 2026-11-21 02:57:36 | ai.carfinity/marketplace | Carfinity car marketplace | 1.0.0 | Search new and used cars at US dealers, each ranked against its local market pr… |
-| 2026-11-21 02:57:48 | [finance.orla/orla](https://github.com/cheetah-trade/orla-cli) | Orla | 0.5.2 | Personal finance and bookkeeping from your own Orla books. Reads and records; c… |
-| 2026-11-21 02:59:35 | com.aicapitalindex/data | AI Capital Index | 1.0.0 | Daily official AI model API prices and every $25M+ AI funding round, each with… |
-| 2026-11-21 03:01:30 | [io.github.majinju/mqtt-mcp](https://github.com/majinju/mqtt-mcp) | MQTT MCP Server | 1.0.0 | 通用 MQTT 连接器：运行时配置 Broker，支持发布/订阅与业务消息协议模板 |
-| 2026-11-21 03:04:10 | xyz.resumevsjob/batch | ResumeVsJob Batch | 1.0.0 | Rank up to 30 resumes against a job posting: ATS keyword score, missing skills,… |
-| 2026-11-21 03:05:51 | [io.github.goldmarklabs/crispparse-mcp](https://github.com/goldmarklabs/crispparse-mcp) |  | 1.0.4 | Deterministic web extraction (Markdown, JSON, CSS selectors) and C2PA v2.4 veri… |
-| 2026-11-21 03:13:25 | [io.github.gregsonworks/gregsonworks](https://github.com/gregsonworks/gregsonworks-mcp) | GregsonWorks | 1.0.0 | Local demand signals plus the agent capability board: what cities ask for, who… |
-| 2026-11-21 03:14:02 | [io.github.pinguxx/elementum](https://github.com/pinguxx/Elementum) | Elementum Design System MCP | 0.5.2 | Component schemas, design tokens, snippet generation, and WCAG lint for @wcomp/… |
+| 2026-11-21 03:24:51 | com.discoverthetools/directory | Discover the Tools | 1.0.0 | Find and compare AI tools, check pricing sources, and submit tools for private… |
+| 2026-11-21 03:36:54 | com.auraflowllc/energy-weather | AuraFlow Energy Weather | 0.1.0 | Weather intelligence for gas and power markets: US HDD/CDD forecasts, revisions… |
+| 2026-11-21 03:38:07 | com.manhourplan/wallet-doctor | Wallet Doctor | 1.0.0 | Solana wallet & token checks for agents, pay per call in USDC via x402 (Solana… |
+| 2026-11-21 03:40:39 | com.ryracer/arena | RyRacer AI Arena | 1.0.0 | Race your AI agent against house bots on a daily track. Free practice, replays,… |
+| 2026-11-21 03:42:02 | com.retailvest/engine | RetailVest Engine | 1.0.2 | Official SEC and CFTC data for AI agents: fund holdings, 5% stakes, insider tra… |
+| 2026-11-21 03:50:29 | so.tallyho/tallyho | Tallyho | 1.0.0 | Licensed plumbers near a job in SF, Oakland, Berkeley and the Tri-Valley, with… |
+| 2026-11-21 03:57:50 | ai.sapling/sapling | Sapling | 0.1.12 | Grammar checking, AI-generated text detection, paraphrasing and other writing t… |
+| 2026-11-21 03:59:39 | co.humanome/humanome | Humanome | 1.0.0 | Anatomy picture quizzes on a 3D body, real histology slides and lab practical l… |
+| 2026-11-21 04:04:15 | io.github.sumitrmardy/tech-stack-detector | Tech Stack Detector | 1.0.0 | What any website is built with: CMS, ecommerce, analytics, hosting, email provi… |
+| 2026-11-21 04:05:06 | net.useapi/pixverse | PixVerse MCP Server by useapi.net (thir… | 1.0.0 | PixVerse video, images, music and speech: effects, keyframes, lip-sync, extend,… |
+| 2026-11-21 04:06:19 | [io.github.CloudCorpRecords/sitedossier](https://github.com/CloudCorpRecords/sitedossier) |  | 0.1.0 | Keyless discovery over Lazyweb published pages: search, pricing, comparisons an… |
+| 2026-11-21 04:08:26 | [dev.workers.b2bintel-edge.defi-route-intel/defai-intent-solver-yield-optimizer-mcp](https://github.com/BeakDo/defi-customs-mcp-hub) | DeFAI Intent Solver, Yield Optimizer &… | 2.4.0 | Autonomous DeFAI intent-solver for USDC yield-optimizer vaults, Kelly sizing &… |
+| 2026-11-21 04:08:31 | il.co.salchik/mcp | Salchik | 1.0.0 | Your weekly Israeli supermarket order, starting with Shufersal: view orders and… |
+| 2026-11-21 04:08:55 | com.sweeplessinseattle/quote | Sweepless in Seattle | 1.0.0 | Request a free house cleaning quote from Sweepless in Seattle, a Seattle cleani… |
+| 2026-11-21 04:14:47 | [io.computeportal/mcp](https://github.com/computeportal/k8s-cpctl) | ComputePortal | 1.0.7 | ComputePortal: deploy, monitor, and settle compute instances via MCP. 23 tools,… |
+| 2026-11-21 04:19:16 | com.answerkb/kb | Agent Knowledge Base | 1.0.1 | Search short math and how-to answers, and submit feedback to improve this knowl… |
+| 2026-11-21 04:19:49 | markets.pools/arena | Pools Arena | 1.0.0 | BNB Agent Arena on BSC: live board, quotes and ready bet transactions your own… |
 
 ## Data source
 
