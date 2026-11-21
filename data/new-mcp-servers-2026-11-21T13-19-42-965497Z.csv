@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-11-21T12:23:44.569392Z,org.specsource/specsource,SpecSource,0.1.0,,streamable-http,Verified electronics spec data with a source and check date for every product. Read-only.
+2026-11-21T12:24:30.55455Z,com.daylytix/daylytix,Daylytix,1.0.0,,streamable-http,"SEO and GEO audits, Search Console, GA4 and keyword research from your Daylytix account"
+2026-11-21T12:28:59.94736Z,za.co.regfarm/regfarm-mcp,River Estate Game Farm — Safari Pricing & Concierge MCP,2.0.0,,streamable-http; sse,"Live South African hunting safari species pricing, lodge availability, and instant quote calculator."
+2026-11-21T12:31:05.080011Z,bot.qed/register,qed.bot register,0.2.0,,streamable-http,"Register of AI claims in mathematics, graded by the evidence behind each. Paid Lean proof checks."
+2026-11-21T12:34:31.645165Z,world.aprs/aprs-world,APRS World,1.1.0,,streamable-http,"Live amateur-radio APRS data: stations, tracks, weather, telemetry, packets and nets (read-only)."
+2026-11-21T12:37:31.741774Z,com.curatedapi/mcp,curatedapi,0.4.2,,streamable-http,"99 exact calculators and official e-invoice validators, available over REST and MCP."
+2026-11-21T12:40:29.452966Z,com.bee-wholesale/outils-revendeur,Bee Wholesale - outils du revendeur,1.0.0,,streamable-http,"Prix de gros de la fripe, correspondances de tailles et calcul de marge Vinted, par Bee Wholesale."
+2026-11-21T12:42:36.704758Z,com.realreturnengine/real-return-engine,Real Return Engine,1.0.0,,streamable-http,"7-year expected real and nominal returns for Cash, Bonds, and S&P 500 (1928-2026 backtest)."
+2026-11-21T12:46:41.689284Z,io.github.agentexec448c/agent-exec,,0.1.0,https://github.com/agentexec448c/agent-exec,streamable-http,"Accountless pay-per-use code execution, storage, locks and x402 USDC utilities."
+2026-11-21T12:47:55.849913Z,com.augstash/mcp,Augstash,0.1.2,,streamable-http,"WhatsApp, SMS, email and inbox for your Augstash workspace: contacts, campaigns, sends, wallet."
+2026-11-21T12:47:57.354785Z,io.github.kshitij9896/cybersafe-mcp,CyberSafe MCP,0.3.1,https://github.com/kshitij9896/cybersafe-mcp,streamable-http,"Plain-language cybersecurity MCP for scam checks, link & breach scans, and daily safety tips."
+2026-11-21T12:49:30.30945Z,io.github.amintt2/mailbase,Mailbase,1.0.1,https://github.com/amintt2/mailbase-mcp,streamable-http,"Email from your agent: transactional sends, campaigns, reply inbox, domains and DNS checks."
+2026-11-21T12:51:40.496713Z,ch.visin.mcp/padi,MCP for PADI,0.3.0,,streamable-http,Unofficial. Read and log dives in your PADI online logbook. Needs an account at padi.mcp.visin.ch.
+2026-11-21T12:51:42.201242Z,ch.visin.mcp/icloud,MCP for iCloud,1.4.1,,streamable-http,"Read and send iCloud Mail, manage iCloud Calendar. Needs an approved account at icloud.mcp.visin.ch."
+2026-11-21T12:55:07.819166Z,xyz.tereno/tereno,Tereno on Base,0.1.8,https://github.com/tereno-xyz/tereno-mcp,streamable-http,"Pre-action checks on Base: token exit simulation, holder clusters, contract risk. Paid via x402."
+2026-11-21T12:58:33.264989Z,io.github.riverahendrick/mapshift,Mapshift,0.1.8,https://github.com/riverahendrick/mapshift,,"100% local code map MCP server for 41 languages — fewer tokens for coding agents, zero telemetry."
+2026-11-21T13:00:52.617537Z,ch.visin.mcp/suunto,MCP for Suunto,0.3.1,,streamable-http,"Independent, not by Suunto: read your Suunto workouts, sleep and recovery, and add routes."
+2026-11-21T13:03:26.895309Z,es.startups-espanolas/notas-de-prensa,Startups Españolas press desk,1.0.0,https://github.com/martinschenk/startups-espanolas-mcp,streamable-http,Submit press releases to Startups Españolas and sister media in Spain; confirmed by email reply.
+2026-11-21T13:06:36.568793Z,com.cyclixagents/jimu,Cyclix Agents jimu: Japan office calculations,0.2.0,,streamable-http,"Japan office math: invoice tax, withholding, stamp duty, payment terms, tax deadlines, business days"
+2026-11-21T13:06:39.340777Z,app.bonegyre/bonegyre,BoneGyre,24.1,,streamable-http,"Game VFX for Spine, made by your AI agent in the BoneGyre editor: build, preview, export."
+2026-11-21T13:06:54.895022Z,hu.eumoney/eu-money,EU Money,1.0.1,https://github.com/kmate77-radar/eu-money-mcp,streamable-http,"Magyar uniós pályázatok, feltételek, összegek, határidők és útmutatók forrásolt keresője."
+2026-11-21T13:08:56.544306Z,com.paperswithbacktest/papers-with-backtest,Papers With Backtest,1.2.0,https://github.com/paperswithbacktest/website,streamable-http,"Search 5,000+ trading papers with verified backtests, strategies, datasets, and courses."
+2026-11-21T13:10:55.216805Z,com.camilafonseca/psychotherapy,,1.0.0,,streamable-http,"Camila Fonseca psychotherapy: IFS, DBR, SE, EFT, pricing, booking — English, Portuguese, Spanish."
+2026-11-21T13:12:41.654557Z,cfd.neytom.ai/mcp,AI-Only Society,1.4.0,,streamable-http,"Live plaza of autonomous AI agents: read debates, poll deltas, buy discourse intel over x402."
+2026-11-21T13:14:02.220313Z,io.github.ph92g/nhipo-mcp,,0.1.0,https://github.com/ph92g/nhipo-mcp,,"Local AI video editor for Windows: edit, dub and translate videos, make SFX and animated stories."
+2026-11-21T13:14:14.930289Z,io.github.furkan708/mcpify,mcpify,1.20.0,https://github.com/furkan708/mcpify,,"Focused, production-ready CLI: turn any OpenAPI REST API into an MCP server."
+2026-11-21T13:17:04.175736Z,com.boternity/boternity,BOTERNITY,1.0.0,,streamable-http,"Free, keyless MCP tools for agents: current time, timezones, JSON/CSV, HTTP status codes."
+2026-11-21T13:17:58.224888Z,com.webmasterbench/web-page-to-markdown,Web Page to Markdown (Apify Actor),1.0.0,,streamable-http,"Web pages to clean Markdown for LLMs: main text, tables, links. On Apify: $0.001/page + run fee."
+2026-11-21T13:18:01.808089Z,com.webmasterbench/sec-edgar-filings-xbrl,SEC EDGAR Filings and XBRL Facts (Apify Actor),1.0.0,,streamable-http,SEC filings and XBRL financial facts by ticker or CIK from data.sec.gov. On Apify: per row + run fee
+2026-11-21T13:18:05.444431Z,com.webmasterbench/greenhouse-lever-ashby-jobs,"Greenhouse, Lever and Ashby Jobs (Apify Actor)",1.0.0,,streamable-http,"Jobs from Greenhouse, Lever and Ashby boards you name, one schema. On Apify: $0.001/job + run fee."
