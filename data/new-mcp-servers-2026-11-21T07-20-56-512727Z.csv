@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-11-21T06:21:20.970414Z,com.notacompany/newsletter,The world according to capital,12.2.0,,streamable-http,"The companies VCs just backed, hand-picked by Tiago: read the picks and subscribe."
+2026-11-21T06:24:03.148479Z,com.trysunnyside/sunnyside-ai,Sunnyside AI,1.0.0,,streamable-http,"Search your sales call notes, transcripts, action items and call prep from Sunnyside AI."
+2026-11-21T06:32:27.029138Z,ai.suntropy/connect,Suntropy Connect,1.0.0,https://github.com/enerlence/claude-plugins,streamable-http,"Read-only solar inverter monitoring (SolarEdge, Enphase, Huawei, Fronius): plants, energy, alarms."
+2026-11-21T06:33:07.09564Z,io.github.hwcho310/reciprocal-ruler-mcp,Reciprocal Ruler,0.1.0,https://github.com/hwcho310/reciprocal-ruler-mcp,,"Settlement oracle for AI-agent trades: lock a quote, reconcile shortfalls via holdback."
+2026-11-21T06:33:45.166456Z,com.daulatlabs/rumika,Rumika,1.0.0,,streamable-http,"Condo residents in Malaysia: visitor passes, parcels, bills, facility bookings and notices."
+2026-11-21T06:34:41.761582Z,io.github.yotke/cortex66,Cortex66,1.0.0,,streamable-http,"Lets an AI chat join your Cortex66 work sessions, take open tasks and search confirmed facts."
+2026-11-21T06:35:52.435801Z,com.perpmetric/perpmetric,PerpMetric perpetuals data,1.0.0,,streamable-http,"Perp futures data for Hyperliquid, Aster and Lighter: screener, funding, breadth, freshness."
+2026-11-21T06:37:03.722597Z,com.lazynext/ai-slop-checker,Lazynext AI Slop Checker,1.4.4,https://github.com/lazynextai/Autonomous-AI-Company-OS,streamable-http,"Detect AI slop in text, HTML, pages, and project folders. Free, no API key."
+2026-11-21T06:47:52.916087Z,ai.gleap/mcp,Gleap,1.0.0,,streamable-http; streamable-http,"Gleap's official MCP server: tickets, contacts, CRM, help center and support stats. OAuth sign-in."
+2026-11-21T06:56:21.543554Z,io.github.younghwan91/kiwoom-client,Kiwoom Securities (키움증권) REST API,0.5.0,https://github.com/younghwan91/kiwoom-client,,"Korean stocks via the Kiwoom REST API: quotes, charts, rankings, account. Live orders opt-in only."
+2026-11-21T06:57:45.046257Z,com.ubiquary/shop,Ubiquary Shop (DFITKO),1.0.1,,streamable-http,"German IT & electronics shop: search 50k products, get quotes, order with agent limits."
+2026-11-21T07:04:58.249773Z,com.ikangai/vibe-support,IKANGAI Vibe Support,1.1.0,,streamable-http,"Safety notices and real examples for people who build apps with AI coding tools. Free, no key."
+2026-11-21T07:07:04.64392Z,app.getrigged/clean,Rigged Clean,0.1.0,,streamable-http,Clean speech in video and audio. Get a receipt that verifies the original picture and sync.
+2026-11-21T07:13:48.332464Z,com.ikangai/ai-news,IKANGAI AI News,1.0.0,,streamable-http,"Hourly AI news with a reliability status and sources per story. Read-only, no sign-in."
+2026-11-21T07:14:09.708136Z,dev.workers.agent-arena-base.crypto-support-kit/support-desk,Crypto Support Desk (zh/en),1.1.1,,streamable-http,Bilingual zh/en crypto support replies + free address checks. Full kit: one $5 USDC/USDT transfer.
+2026-11-21T07:20:09.729229Z,io.github.borsty2103/viventii-mcp,"Viventii Events, Leisure, POIs, Tickets & Ticket Resale",3.3.0,https://github.com/borsty2103/viventii-mcp,streamable-http,"German & European events, POIs, leisure, 0%-fee tickets & verified ticket resale on Viventii."
