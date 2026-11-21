@@ -1,0 +1,15 @@
+created_at,server,title,version,repository,transports,description
+2026-11-20T23:20:26.869655Z,com.notfiction/news,notfiction: is it real?,1.0.0,,streamable-http,Is it real? Check claims and links against dozens of newsrooms. News scored by how many report it.
+2026-11-20T23:22:21.916942Z,io.github.2016judea/ai-buildout-permits,AI Buildout Permits,0.1.0,https://github.com/2016judea/ai-buildout-permits,streamable-http,"US AI data-center projects from public records: tenants, air permits, turbines, resolved to tickers"
+2026-11-20T23:24:51.392266Z,io.github.jamesdamonstone/dark-money-mcp,,1.0.0,https://github.com/jamesdamonstone/dark-money-mcp,,Dark Money: cashback routing for AI agents. Members earn 70% of the commission back.
+2026-11-20T23:25:08.134919Z,io.github.joepenmandev/arcsight,ArcSight,1.0.30,https://github.com/joepenmandev/arcsight-mcp,,Local blast-radius guardrail for Cursor and Claude. Checks shared files before an edit.
+2026-11-20T23:42:45.048018Z,com.hmuform/mcp,hmuform,1.0.0,,streamable-http,Contact forms for static websites. No backend needed.
+2026-11-20T23:46:43.302452Z,ru.stadika/stadika,Stadika: study abroad and Russian universities,1.0.0,,streamable-http,"Study programs abroad, scholarships, internships, Russian universities and colleges. Free."
+2026-11-20T23:52:48.256821Z,io.github.TMCHALK/sftunes,,1.0.1,https://github.com/TMCHALK/sftunes,streamable-http,"Hand-made human mixtapes with liner notes. Paid via x402: list $0.05, one tape $0.01 USDC."
+2026-11-21T00:00:27.156811Z,io.standoutmcp/standout,Standout,1.1.0,,streamable-http,"Final polish and proof for AI-built client sites: browser audit, exact fixes, before/after report."
+2026-11-21T00:00:44.394882Z,io.github.OsakaSaul/foxapis-data,FoxAPIs data sources,1.0.0,,streamable-http,"Developer, science, crypto, app store and social data for AI agents: 28 sources, one API key."
+2026-11-21T00:02:28.207761Z,com.affiligato/affiligato,Affiligato,1.0.0,,streamable-http,"Affiliate programs for SaaS: set up tracking, commissions, partners and payouts from your agent."
+2026-11-21T00:14:16.554803Z,net.blazarforce/blazar-polygon,Blazar Polygon plugin,0.5.1,,streamable-http,"BZB on Polygon, plus safe any-token swaps, portfolio, gas, approvals on Polygon, Base & Ethereum."
+2026-11-21T00:14:32.971425Z,ai.fmsg/mcp,fmsg,1.6.1,https://github.com/markmnl/fmsg-mcp,streamable-http,"Messaging for people and AI agents: an fmsg address to send, receive and wait for replies."
+2026-11-21T00:14:37.429764Z,dev.workers.michigkchatgpt.agent-action-review/agent-action-review,Agent Action Review,1.0.0,,streamable-http,"Independent AI agent audit, preflight risk review and report lookup with Solana x402."
+2026-11-21T00:16:53.340533Z,com.palletdimensions/freight-reference,palletdimensions.com freight reference,0.2.0,,streamable-http,"Read-only freight data: pallet sizes, NMFC class, trailer and container fits, DIM weight, Ti×Hi."
