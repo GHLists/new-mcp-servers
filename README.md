@@ -9,45 +9,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 15:20 UTC
+## Latest list — 2026-11-21 16:19 UTC
 
-New MCP servers published between 2026-11-21 14:19 UTC and 2026-11-21 15:20 UTC.
+New MCP servers published between 2026-11-21 15:20 UTC and 2026-11-21 16:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-21T15-20-14-242962Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-21T16-19-12-566228Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-21 14:20:32 | io.github.patrikjaeger/motosale | MotoSale | 1.4.0 | Search Swiss motorcycles and ATVs; manage listings, test rides and messages. Mo… |
-| 2026-11-21 14:21:09 | com.mcpcheckup/mcp | MCP Checkup | 0.2.1 | Observed facts on public MCP servers: protocol checks, tool changes, signed evi… |
-| 2026-11-21 14:23:22 | [io.github.echochaofan/snapfolda-ucp-mcp](https://github.com/echochaofan/snapfolda-ucp-mcp) | SnapFolda UCP MCP | 1.0.0 | MCP endpoint for the SnapFolda store: 14 tools for catalog search, cart, checko… |
-| 2026-11-21 14:23:35 | [io.usefulapi/dreamclass](https://github.com/m190/usefulapi-mcp) | DreamClass MCP by usefulapi | 1.0.0 | Read students, guardians, classes, attendance, assignments and fees; add notes… |
-| 2026-11-21 14:23:35 | [io.usefulapi/just-in](https://github.com/m190/usefulapi-mcp) | Just-In MCP by usefulapi | 1.0.0 | Read employees, attendance, leave, shifts and timesheets; create leave and draf… |
-| 2026-11-21 14:24:49 | app.clipbeat/clipbeat | Clipbeat | 1.0.0 | Turn a song into a music video. Start a preview or full video from a song URL,… |
-| 2026-11-21 14:27:00 | io.github.omicshealth2025-ship-it/omics-health | Omics Health Chile | 1.3.0 | Catálogo de suplementos y tests en Chile, glosario y cálculo de omega-3. Solo l… |
-| 2026-11-21 14:28:23 | org.getopenhealth/openhealth | OpenHealth | 1.0.0 | Public US doctor and hospital records: procedure scores, insurer listings, rati… |
-| 2026-11-21 14:28:42 | com.direct-hotels/directory | Direct Hotels | 1.0.0 | Free hotel directory: 425,000+ hotels worldwide, each with the link to book on… |
-| 2026-11-21 14:31:26 | com.nicolassitter/research | Nicolas Sitter Research | 1.0.0 | AI hotel visibility research and open race results. Public, read-only, no authe… |
-| 2026-11-21 14:32:07 | [io.github.vexotech/vexo-analytics](https://github.com/vexotech/vexo-mcp-plugin) | Vexo Analytics | 1.0.0 | Query Vexo analytics, session replays, and errors for your React Native, Expo,… |
-| 2026-11-21 14:34:31 | dev.echorelay/management | EchoRelay | 0.13.1 | A managed runtime for custom API integrations. Manage lines, endpoints, keys, l… |
-| 2026-11-21 14:34:41 | fr.abiu/abiu | abiu | 0.132.4 | ERP for French food wholesalers: catalogue, stock by lot, orders, prices and in… |
-| 2026-11-21 14:35:26 | [io.github.zkyron-de/agent-bridge-for-bitwig](https://github.com/zkyron-de/agent-bridge-for-bitwig) | Agent Bridge for Bitwig | 2.2.0 | Control Bitwig Studio 6: tracks, MIDI clips, devices, mixer and scenes, each ch… |
-| 2026-11-21 14:41:35 | dev.workers.agent-arena-base.lumen-peg/research-desk | Lumen Research Desk | 1.3.0 | US stock research from SEC filings: briefs, fundamentals screen, portfolio revi… |
-| 2026-11-21 14:41:35 | dev.workers.agent-arena-base.ravi-ci-guard/ci-guard | Ravi CI Guard: GitHub Actions security… | 1.1.0 | Audit GitHub Actions workflows: pwn requests, script injection, token scope, SH… |
-| 2026-11-21 14:51:39 | com.cyclixagents/japan-tax-rules | Tax Compass — Japan tax rules by date | 0.3.1 | Japan tax rules by date: invoice tax, tax rates, withholding, stamp duty, deadl… |
-| 2026-11-21 14:52:24 | [io.github.Phosse136/cyphos-guard](https://github.com/Phosse136/cyphos-guard) |  | 0.1.0 | Spending guardrails for AI agents: on-chain limits, passkey approval above them… |
-| 2026-11-21 14:53:31 | [app.kartic/kartic](https://github.com/zsevic/kartic-app) | Kartic | 0.1.0 | Digital stamp cards in Apple and Google Wallet for local businesses. Merchant t… |
-| 2026-11-21 14:55:20 | com.dialredphone/redphone | Redphone | 1.0.0 | Read your Redphone calls, voicemails, texts and contacts, and have calls you ap… |
-| 2026-11-21 14:56:15 | [app.kartic/digital-loyalty-stamp-cards](https://github.com/zsevic/kartic-app) | Kartic Digital Loyalty Stamp Cards | 0.1.0 | Digital loyalty stamp cards in Apple and Google Wallet for local businesses. |
-| 2026-11-21 15:01:41 | [io.github.babang1da/rumcp](https://github.com/babang1da/rumcp) | RuMCP | 1.0.0 | Hosted MCP connector for Yandex Metrika and Webmaster. One endpoint, OAuth sign… |
-| 2026-11-21 15:03:23 | uk.3dnow/3dnow | 3DNow | 1.0.0 | Upload an STL, get a UK price, order a 3D print and track it. Prices in pence (… |
-| 2026-11-21 15:04:03 | com.smarfle/smarfle | Smarfle | 1.0.0 | Field service CRM for home service businesses: customers, jobs, invoices and jo… |
-| 2026-11-21 15:07:28 | [io.github.furkankoykiran/telegram-ads](https://github.com/furkankoykiran/telegram-ads-mcp) | Telegram Ads | 0.1.1 | MCP server for the official Telegram Ads API: ads, budgets, stats, audiences an… |
-| 2026-11-21 15:08:00 | ai.evermail/mcp | Evermail | 1.0.0 | Search, read and export your uploaded PST, OST, MBOX, EML and Google Takeout em… |
-| 2026-11-21 15:10:55 | [tech.krate/krate](https://github.com/incyashraj/krate) | Krate | 1.0.0 | Make an app by asking. Krate builds and checks it, and its link opens in any br… |
-| 2026-11-21 15:12:10 | rent.workman/workman | workman.rent — humans for real-world ch… | 0.2.0 | Hire verified people to call a business, photo a storefront or check a shelf pr… |
-| 2026-11-21 15:14:58 | [io.github.philippelognoul/belgian-legal-lexicon-nl-fr](https://github.com/philippelognoul/belgian-legal-lexicon-nl-fr) |  | 1.2.0 | Belgian court-procedure terms, Dutch to French, each tied to the article of law… |
-| 2026-11-21 15:15:09 | app.pinnu/pinnu | Pinnu | 1.1.0 | Notes and checklists on a board: search, read, write, tick items and set remind… |
-| 2026-11-21 15:15:10 | [com.threadlinqs/intelthreadlinqs-mcp](https://github.com/threadlinqs-cmd/intelthreadlinqs-mcp) | Threadlinqs Intelligence | 9.0.0 | Threat intelligence: threats, detections (SPL/KQL/Sigma), IOCs, CVEs/CWEs, ATT&… |
+| 2026-11-21 15:21:27 | com.tubroom/tubroom | Tubroom | 1.0.0 | Hotel rooms with their own jacuzzi or hot tub, room by room, in the US, Canada… |
+| 2026-11-21 15:22:06 | [io.github.grethel-labs/excaliplant](https://github.com/grethel-labs/excaliplant) | Excaliplant | 1.2.0 | Render PlantUML to SVG, PNG or hand-drawn Excalidraw. Text in, no file or netwo… |
+| 2026-11-21 15:28:30 | app.tidetrade/tidetrade | TideTrade | 1.0.0 | One published crypto trend rule on 140 assets: states, flips, the record, the r… |
+| 2026-11-21 15:28:42 | [io.github.builditwithgk/whittle-mcp](https://github.com/builditwithgk/whittle-mcp) |  | 0.1.1 | Trim test logs, JSON, diffs and OpenAPI for agents, and measure what was kept |
+| 2026-11-21 15:34:12 | [com.usefeeds/feeds](https://github.com/1930-dev/feeds-mcp) | Feeds | 1.0.0 | New posts from any X or LinkedIn account for your agent. Hosted, no LinkedIn lo… |
+| 2026-11-21 15:35:42 | app.proactiveparent/guidance | Proactive Parent guidance | 1.0.0 | Pregnancy and baby guidance by week or age: UK, US, Türkiye, general elsewhere.… |
+| 2026-11-21 15:36:05 | eu.muralists/directory | Muralists Directory | 1.1.2 | Search the curated directory of professional muralists and street artists in Eu… |
+| 2026-11-21 15:40:45 | [io.github.CodePhantom-1/kultranz-mcp](https://github.com/CodePhantom-1/kultranz-mcp) | Kultranz: US Salary, Tax & Cost of Livi… | 1.0.0 | US take-home pay, 2026 tax brackets, BLS wages by job and city, and cost of liv… |
+| 2026-11-21 15:42:01 | [io.github.MonoVarTon/mecenai](https://github.com/MonoVarTon/mecenai) | Mecenai | 0.4.0 | Artist catalogue for AI agents: artworks, artist-approved prices, viewing reque… |
+| 2026-11-21 15:43:19 | com.miaotoolbox/miaotoolbox | MiaoToolbox (妙用盒) | 1.0.0 | Free keyless deterministic unit conversion & mortgage calculator MCP server (妙用… |
+| 2026-11-21 15:45:43 | [io.github.NARAProtocol/cryptoslip](https://github.com/NARAProtocol/cryptoslip-sdk) | CryptoSLIP PocketSlip MCP | 1.0.1 | Bounded Base (8453) payment vouchers, Multicall3 batch payouts & HTTP 402 MCP f… |
+| 2026-11-21 15:50:35 | de.taufnaus/shop | taufnaus Geschenke-Shop | 1.0.0 | Search German gift shops (christening, birth, toys, jewellery), build a cart, g… |
+| 2026-11-21 15:50:36 | de.taufnaus/merchant | taufnaus Haendler | 1.0.0 | Run your taufnaus shop from your AI: products, orders, stock, design, marketpla… |
+| 2026-11-21 15:54:04 | de.innov-ai-tive.book-ai-ze/bookaize | Book-AI-ze | 1.0.0 | AI bookkeeping for small companies: documents, bank, postings, sevDesk and DATE… |
+| 2026-11-21 15:56:30 | com.residences-montreal/residences | Résidences Montréal | 1.0.0 | Montréal private seniors' residences (RPA) from Québec's official register, in… |
+| 2026-11-21 15:56:37 | [co.getcookies/getcookies-mcp](https://github.com/getplatform/getcookies-mcp) | GetCookies | 1.1.1 | Set up a GDPR cookie banner with Consent Mode v2, scan cookies and run a Reject… |
+| 2026-11-21 15:56:40 | team.mcp/mcp-team | MCP Team | 1.0.0 | A small business's approved facts (prices, hours, services, policies) for Claud… |
+| 2026-11-21 15:57:23 | de.diairize/diairize | diAIrize | 1.0.0 | Construction daily reports and the full project picture: crews, machines, docum… |
+| 2026-11-21 15:58:20 | [io.github.RaminNietzsche/cert-review-mcp](https://github.com/RaminNietzsche/cert-review-mcp) | cert-review | 1.1.2 | SEI CERT C/C++ code review: rule lookup, clang-tidy and cppcheck findings mappe… |
+| 2026-11-21 16:02:17 | build.haya/hayabuild | Hayabuild | 0.2.0 | Fast Mac builds for agents: build, test and simulate iOS/macOS apps, ship to Te… |
+| 2026-11-21 16:02:38 | de.innov-ai-tive.rescueaize/rescueaize | RescueAIze | 1.0.0 | Website and club work for fire brigades and relief groups: reports, events, mem… |
+| 2026-11-21 16:02:51 | com.cobaltcapture/cobalt | Cobalt Capture | 1.30.0 | Website studies your agent runs for you, returned as a shareable review with re… |
+| 2026-11-21 16:03:40 | [io.github.pjtribot-blip/phono-crescendo](https://github.com/pjtribot-blip/ref-crescendo) | Phono.Crescendo | 1.0.0 | Critiques de disques classiques de Crescendo Magazine : Millésimes, Jokers, pal… |
+| 2026-11-21 16:05:27 | [it.follow/mcp](https://github.com/ORGNAME/follow-it-mcp) | follow.it | 1.0.0 | Let your AI read what you follow on follow.it: subscriptions, unread stories, r… |
+| 2026-11-21 16:05:29 | be.databakkes/company-data | Databakkes | 1.0.0 | Belgian company data from the official registers: KBO, NBB annual accounts and… |
+| 2026-11-21 16:06:22 | de.innov-ai-tive.support-ai-ze/supportaize | Support-AI-ze | 1.0.0 | AI support desk: tickets with acceptance criteria, estimates, time tracking, te… |
+| 2026-11-21 16:07:06 | com.todoweekend/events | TodoWeekend | 1.1.0 | Things to do this weekend in 14 cities: scored events, each linked to its offic… |
+| 2026-11-21 16:08:04 | tech.filmcraft/video-editing-assistant | FilmCraft Video Editing & Premiere Migr… | 1.0.0 | FilmCraft & Premiere shortcuts, GPU/codec compatibility diagnostics, and Rec.70… |
+| 2026-11-21 16:11:00 | de.innov-ai-tive.coachaize/coachaize | CoachAIze | 1.0.0 | Booking and course platform for yoga, fitness and sports studios: schedule, boo… |
+| 2026-11-21 16:12:01 | tech.geooptimizer/geo-audit | GEO Optimizer — AI Search & Crawler Rea… | 1.0.0 | Audit any URL for GEO readiness, JSON-LD schemas, and AI crawler robots.txt per… |
+| 2026-11-21 16:12:14 | [io.github.1yangsh/metricview-lint](https://github.com/1yangsh/metricview-lint) | metricview-lint | 0.1.1 | Offline linter for Databricks Unity Catalog metric view YAML. No workspace conn… |
+| 2026-11-21 16:12:35 | net.getartcraft/rust-creative-suite | GetArtCraft Open-Source Rust Creative S… | 1.0.0 | Find open-source Rust/Wasm Adobe alternatives (PhotoCraft, VideoCraft, VectorCr… |
+| 2026-11-21 16:13:15 | org.bctrainingnavigator/bc-training | BC Training Navigator — Grants & PTIRU… | 1.0.0 | Search PTIRU-accredited BC career colleges, training programs, and WorkBC/Stude… |
+| 2026-11-21 16:13:34 | app.randomcolorgenerator/color-palette | Accessible Color Palette & WCAG Contras… | 1.0.0 | Generate harmonious HEX/HSL UI color palettes and verify WCAG 2.1 AA/AAA contra… |
+| 2026-11-21 16:14:33 | [io.github.toasternet/delegaize-agenten-check](https://github.com/toasternet/delegaize-mcp) | DelegAIze Agent Check | 1.0.0 | Agent check without sign-in: which AI agents would take over your recurring off… |
+| 2026-11-21 16:14:43 | com.wallofdecks/wall-of-decks | Wall of Decks | 1.0.0 | Look up real pre-seed and seed pitch deck slides by section, stage and reviewer… |
+| 2026-11-21 16:14:56 | de.innov-ai-tive.excel-ai-ze/excelaize | Excel-AI-ze | 1.0.0 | Explain and analyse Excel workbooks: formulas, dependencies, issues and what-if… |
+| 2026-11-21 16:15:19 | [io.github.luaward/mcp](https://github.com/luaward/antigravity-plugin) | Luaward | 0.2.6 | Luau script protection, licensing, live Roblox in-game QA, and Roblox Studio MC… |
+| 2026-11-21 16:17:03 | de.innov-ai-tive.tender-ai-ze/tenderaize | TenderAIze | 1.0.0 | Find public tenders and grants (TED, German portals), check fit and prepare bid… |
+| 2026-11-21 16:18:11 | ca.dentalcostfinder/canada-dental | DentalCostFinder Canada MCP | 1.0.0 | Estimate Canadian dental costs, check CDCP eligibility, and find dental pricing… |
+| 2026-11-21 16:18:55 | net.claudecodemods/mods-registry | ClaudeCodeMods Registry MCP | 1.0.0 | Search Claude Code mods, MCP servers, hooks, skills, and install guides on clau… |
 
 ## Data source
 
