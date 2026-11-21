@@ -9,45 +9,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 19:20 UTC
+## Latest list — 2026-11-21 20:19 UTC
 
-New MCP servers published between 2026-11-21 18:19 UTC and 2026-11-21 19:20 UTC.
+New MCP servers published between 2026-11-21 19:20 UTC and 2026-11-21 20:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-21T19-20-41-651264Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-21T20-19-59-66359Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-21 18:22:09 | io.meteoro.www/minerals | Meteoro Minerals | 1.0.0 | Aggregates, road granular materials and recycled C&D in Colombia: catalog, stan… |
-| 2026-11-21 18:25:39 | [io.github.Hyperliquidguide/hyperliquid-guide](https://github.com/Hyperliquidguide/hyperliquid-starter-bots) | Hyperliquid Guide | 0.2.1 | Read-only Hyperliquid reference tools: market specs, order rounding, funding, e… |
-| 2026-11-21 18:27:25 | trade.xprimeflow/mcp | X PrimeFlow | 0.1.0 | Read-only market and on-chain data: BTC and ETH network stats, liquidations, Hy… |
-| 2026-11-21 18:28:34 | [io.github.ascaniolocorotondo/optima-ai-browser](https://github.com/ascaniolocorotondo/optima-ai-browser) | Optima AI Browser | 0.2.0 | Browser for AI agents: clean page text, persistent logins, human hand-off for C… |
-| 2026-11-21 18:29:31 | io.github.martindochamp/tally-foods | Tally food nutrients | 1.0.0 | Calories, macros and 23 vitamins and minerals for 3,167 foods, per portion. Rea… |
-| 2026-11-21 18:31:26 | com.coachmoshiur/daily-tonic | Daily Tonic by Coach Moshiur | 1.9.0 | Today's one-minute leadership and personal growth tonic, in five languages. Rea… |
-| 2026-11-21 18:31:38 | com.volt48/agent-door | VOLT48 — 48V DC telecom power | 1.0.0 | 48V DC telecom power: rectifier modules, controllers, LiFePO4 batteries by part… |
-| 2026-11-21 18:33:12 | pro.nomos/nomos-mcp | Nomos MCP Server | 1.0.1 | Dados legislativos e regulatórios do Brasil: proposições, DOU, BACEN, CVM e agê… |
-| 2026-11-21 18:38:19 | [io.github.jhonnysabino/moedux](https://github.com/jhonnysabino/moedux-agent-tools) | Moedux — Diagnóstico Financeiro | 1.0.0 | Diagnóstico de Mar Vermelho e projeção de saldo em 12 meses, sem cadastro, com… |
-| 2026-11-21 18:44:50 | dev.draftless/draftless | Draftless | 1.0.2 | AI creative studio: generate image, video, voice and music, finish ads, publish… |
-| 2026-11-21 18:44:55 | tech.managednerds/managed-nerds | Managed Nerds | 1.0.0 | Free email, domain and AI search checks, plus IT, security and SEO help for US… |
-| 2026-11-21 18:46:25 | com.quantfipro/mcp | QuantFiPRO | 1.2.0 | US stock data for AI: options flow, dark pools, short interest, insiders, 13F o… |
-| 2026-11-21 18:47:58 | com.standardissuedata/vehicle-data | Standard Issue Data | 1.0.0 | Look up vehicle identity, safety, fuel economy, and recorded market history by… |
-| 2026-11-21 18:49:01 | com.diastella/diastella | Diastella | 0.1.0 | What broke in a project before, what fixed it, and whether your change undoes a… |
-| 2026-11-21 18:50:29 | [io.github.autobot-lab/fastpilot](https://github.com/autobot-lab/fastpilot) | fastpilot | 0.4.2 | AI-driven QA for web, Android and iOS: drive Chrome, emulators and simulators. |
-| 2026-11-21 18:53:07 | [io.github.SaqibNaseer404/wiselyarcade](https://github.com/SaqibNaseer404/wiselyarcade) | Wisely Arcade Games | 1.0.0 | List, search and recommend 32 free learning games by age and skill, as MCP tool… |
-| 2026-11-21 18:55:05 | org.capstract/capstract | Capstract | 1.0.0 | Satirical preprint server: agents sign up, typeset and submit deadpan research… |
-| 2026-11-21 18:56:21 | com.hokuhost/domains | HokuHost Domains | 1.1.0 | Domain search and prices; authenticated registration, nameserver and renewal wo… |
-| 2026-11-21 18:56:32 | io.github.Vutik/remont | Remont — renovation planner | 1.0.0 | AI renovation planner: step-by-step plan, materials from room sizes, local stor… |
-| 2026-11-21 18:58:10 | com.offearthdata/off-earth-data | Off Earth Data | 0.1.0 | Research the space economy from your MCP client. |
-| 2026-11-21 18:58:12 | com.profblu/profblu | ProfBlu | 1.0.0 | ProfBlu's products, live prices and public websites. Read-only, no account need… |
-| 2026-11-21 18:59:36 | [io.github.lde-medeiros/streonor-mcp](https://github.com/lde-medeiros/streonor-mcp) | Streonor MCP | 0.8.2 | Build STREONOR scenes, shortcuts, action flows, and icons from Claude or Codex. |
-| 2026-11-21 19:03:51 | ai.erc8126scan/erc8126-scan | ERC-8126 Scan | 1.0.0 | Risk and verification data for ERC-8004 AI agents. Two free tools; rest per-cal… |
-| 2026-11-21 19:05:05 | com.qadiva/agent-door | Qadiva — wholesale glassware (UAE & GCC) | 1.0.0 | Wholesale glassware for hotels and restaurants (UAE & GCC): pieces, dimensions,… |
-| 2026-11-21 19:05:57 | com.1vr/silicon-teahouse | Silicon Teahouse | 0.1.0 | Discover Silicon Teahouse, read recent public posts, and find the agent joining… |
-| 2026-11-21 19:09:57 | [io.github.saiidz/solvelang](https://github.com/saiidz/solvelang) | SolveLang | 0.3.0 | Read-only MCP server for repository context: context packs, graph impact analys… |
-| 2026-11-21 19:11:19 | com.pulsereal/mcp | PulseReal | 1.0.0 | Rental-property analytics for US investors: cash flow, cap rate, DSCR, STR rule… |
-| 2026-11-21 19:12:14 | [uk.co.cybercentry/b20-verification](https://github.com/Cybercentry/cybercentry-app) | Cybercentry B20 Token Verification | 0.1.0 | Check a Base B20 token can actually be sold: honeypots, frozen exits, issuer co… |
-| 2026-11-21 19:13:15 | io.github.robertmarshii/aipe-mcp | AI Agent Promotion Exchange | 1.0.0 | Onboard and trade on the AI Agent Promotion Exchange from any MCP client. Keys… |
-| 2026-11-21 19:19:31 | app.samestay/direct-site-finder | SameStay Direct Booking Site Finder | 1.0.0 | Finds a verified host booking site from an Airbnb or Vrbo listing URL. Prices v… |
-| 2026-11-21 19:20:20 | [io.github.1145-am/syracuse-mcp-server](https://github.com/1145-am/syracuse-mcp-server) | Syracuse Company News | 1.3.0 | Structured company & industry news for AI agents: typed, dated, source-linked e… |
+| 2026-11-21 19:21:28 | io.rentcast/api | RentCast API | 1.0.0 | Official RentCast MCP server for US property, rental, listing and real estate m… |
+| 2026-11-21 19:21:59 | cl.bettizlegal/guides | Bettiz Legal — guías legales (Chile) | 1.0.0 | Read-only Chilean legal guides (real estate, companies, inheritance) by Bettiz… |
+| 2026-11-21 19:21:59 | [com.topolograph/topolograph](https://github.com/Vadims06/topolograph-mcp-server) | Topolograph | 1.7.0 | OSPF and IS-IS topology, paths, failure impact, change events, MPLS TE and BGP… |
+| 2026-11-21 19:24:33 | com.evenstocks/indian-markets | Evenstocks | 1.17.0 | Indian stock market data: NSE/BSE prices, results, ownership, filings, indices,… |
+| 2026-11-21 19:25:03 | [io.worldip/worldip](https://github.com/tuxxin/worldip-sdk) | WorldIP.io | 1.0.0 | Free IP intelligence: owner, ASN, geolocation, reverse DNS and hosted-domain co… |
+| 2026-11-21 19:26:17 | com.olavital/ola-clientas | OLA Vital Center · Members | 1.0.0 | Book, cancel and check salon appointments and membership for an OLA member (OAu… |
+| 2026-11-21 19:26:17 | com.olavital/ola-duenas | OLA Vital Center · Owners | 1.0.0 | Back office for the owners of OLA Vital Center salon (OAuth 2.1 with ola.admin… |
+| 2026-11-21 19:26:51 | com.olavital/ola | OLA Vital Center | 1.0.0 | Membership hair & nail salon in San Luis Potosí, Mexico: locations and sign-up… |
+| 2026-11-21 19:27:11 | com.veyrapix/veyrapix | VeyraPix | 1.0.0 | Create, edit, cut out and upscale product photos; camera angles, layers, 3D, Sh… |
+| 2026-11-21 19:28:21 | com.ad-o-matic/adomatic | Ad-o-matic Free Mobile App Cross-Promot… | 5.8.0 | Free 1-line P2P mobile app cross-promotion (Android, iOS, Flutter, React Native… |
+| 2026-11-21 19:29:27 | com.dugun/wedding | Düğün.com | 1.1.0 | Wedding venues, vendors and planning articles in Türkiye, and quote requests to… |
+| 2026-11-21 19:30:03 | [io.github.Jegoba90/anti-hallucination](https://github.com/Jegoba90/anti-hallucination) | Anti-Hallucination | 0.3.1 | Checks AI-written reports against your data: Python writes each figure and drop… |
+| 2026-11-21 19:31:11 | [io.github.invigil/invigil](https://github.com/invigil/invigil) |  | 1.8.0 | Linters check your code. Invigil checks whether your repo is legible — to newco… |
+| 2026-11-21 19:33:42 | ai.erc8126scan/agent-verification | AI Agent Verification | 1.0.0 | Verify an AI agent before trusting it: risk, domain, wallet and contract checks… |
+| 2026-11-21 19:33:56 | io.github.greatscottatl/x402-cluster | x402 Structured Data & URL Scraper | 3.1.0 | Zero-signup web scraping, HTML-to-JSON extraction & compliance checks on Base L… |
+| 2026-11-21 19:34:16 | com.blitzreels/blitzreels | BlitzReels Video Editor | 4.0.1 | Create, edit, reframe, caption, organize, generate, and export short-form video… |
+| 2026-11-21 19:37:45 | ai.smblistings/smblistings | SMB Listings | 0.2.0 | Search businesses for sale: asking price, revenue, cash flow and multiple, refr… |
+| 2026-11-21 19:40:11 | site.chatgpt.honewa-6908.honewa-quality/quality | HONEWA Quality | 0.2.0 | Technical QA for PNG/JPEG, PDF and public HTTPS pages, with bounded free trials… |
+| 2026-11-21 19:40:12 | com.profblu.argento/argento | Argento | 1.0.0 | Live data for Argentines abroad: flights home, events, places, products and con… |
+| 2026-11-21 19:45:34 | [io.github.Kehl-io/nestweaver](https://github.com/Kehl-io/nestweaver) | NestWeaver | 12.2.7 | Local code knowledge graph: search symbols, trace callers, and inspect change i… |
+| 2026-11-21 19:49:03 | com.itemtopia/mcp | Itemtopia | 1.0.0 | Your home inventory: what you own, where it is, receipts, warranties, notes and… |
+| 2026-11-21 19:49:10 | com.itemtopiapro/mcp | Itemtopia Pro | 1.0.0 | Track what you own: items, where they are, and their photos, receipts, warranti… |
+| 2026-11-21 19:49:15 | [dev.1social/pinterest](https://github.com/sultanlive/1social-mcp) | Pinterest by 1Social | 1.0.3 | Publish and schedule Pinterest pins from your AI assistant. |
+| 2026-11-21 19:49:15 | [dev.1social/telegram](https://github.com/sultanlive/1social-mcp) | Telegram by 1Social | 1.0.3 | Publish and schedule Telegram channel posts from your AI assistant. |
+| 2026-11-21 19:51:18 | com.theskillharbor/skill-harbor | Skill Harbor | 1.0.0 | Search 2,887 Muse skills in English and French. Free, no account, no API key. |
+| 2026-11-21 19:53:26 | [co.granite/granite](https://github.com/Ordinary-Systems/granite-connectors) | Granite | 1.0.0 | Search, read, file and organize the documents in your Granite vault. |
+| 2026-11-21 19:56:35 | [ch.opendata/transport](https://gitlab.com/opendata.ch/Transport) | Swiss public transport | 1.0.0 | Stations, connections and departures of Swiss public transport, with real-time… |
+| 2026-11-21 19:57:29 | [ch.opendata/vornamen](https://gitlab.com/opendata.ch/vornamen) | First names in Switzerland | 1.0.0 | Official statistics of first names in Switzerland (BFS): people by year of birt… |
+| 2026-11-21 19:59:01 | [com.getscreenshotapi/mcp](https://github.com/rasterwise/getscreenshot-mcp) | GetScreenshot | 0.1.0 | Screenshot web pages, render HTML and diff captures, with images sized for visi… |
+| 2026-11-21 20:06:02 | com.nestdaddy/memory | NestDaddy Memory | 1.0.0 | One memory for every AI you use: tell it once, and ChatGPT, Claude and any MCP… |
+| 2026-11-21 20:06:42 | si.nosebleed/guides | nosebleed.si guides | 1.0.0 | Free plain-English guides to using AI for everyday and small-business tasks. Re… |
+| 2026-11-21 20:07:33 | com.keeb-finder/keebfinder | KeebFinder | 1.0.0 | Search keyboards, switches and keycaps, compare store prices and get deals. Fre… |
+| 2026-11-21 20:10:43 | io.github.c2nprds/nokosanzo | Nokosanzo | 0.1.1 | Exact calculations on Japanese benefits, pensions, taxes and shipping. Runs loc… |
+| 2026-11-21 20:15:59 | [com.openajar/openajar](https://github.com/sabalys-ramunas/openajar) | openajar | 0.5.3 | A computer for your agent: a cloud VM with a terminal, a real browser and your… |
 
 ## Data source
 
