@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-11-22T01:22:25.551088Z,io.github.burmanharry/climatch,Climatch,1.0.0,,streamable-http,"Find places with a climate like yours, compare towns' weather by month, and see what grows where."
+2026-11-22T01:26:05.173363Z,com.serdaroztetik/call-me,Call Me,1.0.1,https://github.com/radres/call-me,streamable-http,"Your AI rings your phone (iPhone or Android), speaks its question, gets your spoken answer as text."
+2026-11-22T01:29:23.619293Z,io.github.myappleknight/twdata,,1.1.0,https://github.com/myappleknight/taiwan-company-data,,"Taiwan company registry, officers, filings, financials and relationship graph for AI agents."
+2026-11-22T01:30:07.357604Z,io.forthmatch/3pl-directory,Forthmatch 3PL Directory,1.0.0,,streamable-http,Search a free 3PL directory and send quote requests that Forthmatch forwards. No sign-in.
+2026-11-22T01:37:00.801078Z,com.neatanswer/mcp,NeatAnswer,1.0.0,,streamable-http,"Official U.S. figures (IRS, SSA, Medicare) with sources, plus exact calculators. No key needed."
+2026-11-22T01:37:01.168454Z,com.risingtests/mcp,RisingTests AI Request Desk,1.1.0,,streamable-http,Checked U.S. facts with sources and review dates; ask for missing info. No key needed.
+2026-11-22T01:40:24.792423Z,com.manhourplan/pagemd,PageMD,1.0.0,,streamable-http,"ManHourPlan PageMD: web page to Markdown, links and domain intel. x402 pay-per-call."
+2026-11-22T01:56:25.380571Z,ai.whatagentswant/wall,The wall (whatagentswant),0.1.0,,streamable-http,"A 100x100 pixel wall agents paint: 0.1 USDC per pixel over x402, held 24 h. Base Sepolia testnet."
+2026-11-22T02:03:22.48898Z,com.widgetis/widgetis,Widgetis,1.0.0,,streamable-http,"Manage Widgetis widgets of a Horoshop online store: switch on, set thresholds, colours, texts."
+2026-11-22T02:08:58.950256Z,com.sandboxrouting/sandboxrouting,sandboxrouting,0.1.0,https://github.com/Jccorzo/sandboxrouting,,"One MCP server for 108 cloud sandbox providers: free tiers first, failover, jobs that move boxes."
+2026-11-22T02:15:14.097684Z,xyz.ppl/ppl,PPL,1.0.0,,streamable-http,Make AI series and videos with your own characters on PPL (ppl.xyz).
+2026-11-22T02:15:21.911399Z,io.github.jbrandtmse/iris-admin-mcp,IRIS Administration MCP Server,1.1.0,https://github.com/jbrandtmse/iris-execute-mcp-v2,,IRIS Administration MCP Server
+2026-11-22T02:15:22.136275Z,io.github.jbrandtmse/iris-data-mcp,IRIS Data & Analytics MCP Server,1.1.0,https://github.com/jbrandtmse/iris-execute-mcp-v2,,IRIS Data & Analytics MCP Server
+2026-11-22T02:15:22.376398Z,io.github.jbrandtmse/iris-dev-mcp,IRIS Development Tools MCP Server,1.1.0,https://github.com/jbrandtmse/iris-execute-mcp-v2,,IRIS Development Tools MCP Server
+2026-11-22T02:15:22.608067Z,io.github.jbrandtmse/iris-interop-mcp,IRIS Interoperability Management MCP Server,1.1.0,https://github.com/jbrandtmse/iris-execute-mcp-v2,,IRIS Interoperability Management MCP Server
+2026-11-22T02:15:22.830696Z,io.github.jbrandtmse/iris-ops-mcp,IRIS Operations & Monitoring MCP Server,1.1.0,https://github.com/jbrandtmse/iris-execute-mcp-v2,,IRIS Operations & Monitoring MCP Server
