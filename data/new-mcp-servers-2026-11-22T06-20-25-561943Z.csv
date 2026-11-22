@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-11-22T05:25:58.020358Z,io.github.colony-technology/pricklypair,pricklypair,0.2.1,https://github.com/colony-technology/pricklypair,streamable-http,"npx pricklypair | FIDO, passkey, dice checkpoints; operation approvals; agent grants"
+2026-11-22T05:31:12.33141Z,io.github.zColdWater/mcp-launch-audit,OmniForge Launch Audit MCP,1.0.0,https://github.com/zColdWater/mcp-launch-audit,streamable-http,"Audit brand domains, USPTO trademarks, SPF/DKIM/DMARC email, and AI search (llms.txt) readiness."
+2026-11-22T05:37:31.85831Z,com.chinataxcalc/mcp,"ChinaTaxCalc — China Expat IIT, BIA Allowance, Annual Bonus & GBA 15% Rebate Engine",1.0.0,https://github.com/AbigailDavised/chinataxcalc-mcp,streamable-http,"Calculate China expat IIT net salary, BIA tax-free allowances, annual bonus & GBA 15% rebates."
+2026-11-22T05:40:38.774903Z,app.img2cad/mcp,Img2CAD,1.0.0,,streamable-http,"Turn a photo of an object into an editable CAD model: STEP, STL and GLB."
+2026-11-22T05:41:49.38686Z,com.digitalbusinessportal/fda-regulatory,FDA Device and Drug Shortage Data (openFDA),1.0.0,,streamable-http,"Read-only openFDA: 510(k) clearances, device establishments, device recalls, drug shortages."
+2026-11-22T05:55:51.088136Z,io.github.98Woonho/db-scout-mcp,DB Scout,0.1.1,https://github.com/98Woonho/db-scout-mcp,,"Read-only DB explorer for AI agents: schema, join paths, safe SELECT, PII masking. Needs Java 21"
+2026-11-22T05:57:01.873106Z,dev.heyidentity/heyidentity,HeyIdentity,1.0.0,,streamable-http,Create a fake Entra ID or OIDC tenant for testing in one call. No account needed.
+2026-11-22T05:59:35.551969Z,app.vaultan/vaultan,Vaultan,1.0.0,,streamable-http,"Free in-browser PDF and photo tools on vaultan.app, its pages as Markdown, and app facts."
+2026-11-22T06:03:40.374205Z,tech.lumtap/lumtap,Lumtap,1.0.0,,streamable-http,Give your Grok Bot a phone: an MCP server to see and use your phone. Also works with Claude.
+2026-11-22T06:05:36.438363Z,com.atombackends/agent-channel,Atom Backends,1.0.0,,streamable-http,"Atom Backends: fixes job-to-cash systems of US home-service and trade firms. Prices, inquiries."
+2026-11-22T06:05:43.115365Z,ai.atomtechnologies/agent-channel,Atom Technologies,1.0.0,,streamable-http,"Atom Technologies: dedicated Latin American software teams in US hours. Prices, FAQ, inquiries."
+2026-11-22T06:05:43.813499Z,ai.atomindustries/agent-channel,Atom Industries,1.0.0,,streamable-http,"Atom Industries (development stage): AI data-center sites in Latin America. Facts, inquiries."
+2026-11-22T06:05:44.495262Z,com.schutzecapital/agent-channel,Schütze Capital,1.0.0,,streamable-http,Schütze Capital: confidential intermediary for business sales and acquisitions in the US and Panama.
+2026-11-22T06:05:45.185326Z,com.atomxii/agent-channel,Atom XII,1.0.0,,streamable-http,"Atom XII: AI systems for self-hosted, on-premises, air-gapped and BYOC deployments. FAQ, inquiries."
+2026-11-22T06:05:45.889112Z,com.atompanama/agent-channel,Atom Panamá,1.0.0,,streamable-http,"Atom Panamá: equipos de software en español desde Ciudad de Panamá. Precios, preguntas y consultas."
+2026-11-22T06:09:52.077505Z,com.supersaasanalytics/analytics,Supersaas Analytics,1.0.0,https://github.com/hafizjavaid/supersaas-analytics-core,streamable-http,"Read-only, cookieless web analytics: traffic, sources, pages, Goals, Funnels and revenue per site."
+2026-11-22T06:10:49.099146Z,app.freshleads/freshleads,FreshLeads,1.0.0,https://github.com/officexapp/freshleads-mcp,streamable-http,"Find new businesses that match your offer, the day they go online. Search, save and filter leads."
+2026-11-22T06:11:13.592947Z,io.github.92kareeem/citebound,Citebound,0.2.0,https://github.com/92kareeem/citebound,,"Checks an answer against its sources: numbers and citations verified, wrong ones fixed. No model."
+2026-11-22T06:16:07.928279Z,audio.everlit/mcp,Everlit,1.18.0,,streamable-http,"Turn articles and text into narrated audio, playlists and podcast feeds from your AI agent."
+2026-11-22T06:19:29.139376Z,cab.any/malta-transfers,any.cab,3.0.0,,streamable-http,"Fixed-price taxis and private transfers anywhere in Malta, 24/7: prices, quotes and bookings."
