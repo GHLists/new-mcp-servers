@@ -1,0 +1,13 @@
+created_at,server,title,version,repository,transports,description
+2026-11-22T07:19:44.451899Z,com.pickzeal/pickzeal,PickZeal,1.0.0,,streamable-http,"Search PickZeal's free in-browser PDF, SEO and text tools and practical articles."
+2026-11-22T07:23:34.196107Z,com.archlooks/projects,,1.0.0,,streamable-http,"Search 65k+ architecture & interior design projects; x402-gated agent access ($0.01, USDC)"
+2026-11-22T07:31:46.046691Z,dev.ahmedshaikh/blog,Ahmed Shaikh's Blog,1.0.0,,streamable-http,"Search and read Ahmed Shaikh's blog posts on AI, cybersecurity, data breaches and new tech tools."
+2026-11-22T07:33:32.911589Z,io.github.12happyhq/12happy-mcp,12happy uptime monitoring,0.1.1,https://github.com/12happyhq/12happy-mcp,,"Create uptime monitors, read incidents, uptime and response times, and silence alerts for deploys."
+2026-11-22T07:36:09.5991Z,io.github.zyrliuwei-sys/aisvg-generator-admin,AI SVG Generator Admin MCP,1.0.0,https://github.com/zyrliuwei-sys/svgai,streamable-http,Admin tools for managing the AI SVG Generator site. Requires a scoped admin bearer token.
+2026-11-22T07:40:02.645179Z,io.github.mcpmessenger/glazyr,Glazyr,0.2.4,https://github.com/mcpmessenger/glazyr-mcp,,Zero-copy browser perception for AI agents over MCP. ~13x fewer tokens than CDP or Playwright.
+2026-11-22T07:46:07.534669Z,pro.memvo/memvo,Memvo,0.1.0a3,https://github.com/memvo/memvo,,Read-only tools over your own bank statements. Every answer cites the line it came from.
+2026-11-22T07:56:29.244645Z,com.scadaminer/nem-explorer,NEM Explorer: AEMO MCP server (SCADA Miner),0.1.2,https://github.com/brensch/scadaminer-ai-toolkit,streamable-http,"AEMO MCP server for Australia's National Electricity Market: prices, generation, FCAS, bids."
+2026-11-22T08:00:04.280248Z,xyz.quantumatlas/x402-payment-hub,Quantum Atlas Stripe X402 Agent Payment Hub,1.0.0,,streamable-http,"Stripe-powered HTTP 402 agent payment hub: spend keys, subagent caps, approvals & 25+ paid tools."
+2026-11-22T08:01:54.781553Z,ai.psbl/psbl,PSBL,1.0.0,,streamable-http,"Custom merch on PSBL: projects, products, artwork, proofs, quotes, orders and messages."
+2026-11-22T08:08:05.45261Z,io.github.lakshyapocketlab/hello,Hello WhatsApp Business API,1.0.0,https://github.com/lakshyapocketlab/hello-mcp,streamable-http,"Send WhatsApp messages, templates and media, and manage templates via the WhatsApp Business API."
+2026-11-22T08:11:49.720583Z,com.pinboostr/pinboostr,PinBoostr,1.0.0,,streamable-http,"Draft, schedule and review Pinterest pins from your AI assistant. You confirm every pin."

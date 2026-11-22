@@ -9,36 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 07:18 UTC
+## Latest list — 2026-11-22 08:18 UTC
 
-New MCP servers published between 2026-11-22 06:20 UTC and 2026-11-22 07:18 UTC.
+New MCP servers published between 2026-11-22 07:18 UTC and 2026-11-22 08:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-22T07-18-45-297603Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-22T08-18-55-402626Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-22 06:24:59 | [so.usual/usual](https://github.com/Usual-so/usual-mcp) | Usual | 1.0.0 | Collect documents from clients: send checklists that chase on their own, see wh… |
-| 2026-11-22 06:31:22 | in.narriva/narriva-ai | Narriva AI | 1.0.0 | AI social media manager: plan, make and schedule posts and reels, answer DMs, s… |
-| 2026-11-22 06:33:40 | com.freedomagentmail/mail | Freedom Agent Mail | 1.0.0 | Free disposable email inboxes for AI agents. Get verification codes and links.… |
-| 2026-11-22 06:34:26 | com.ferrorium.daejeon/hankok | 대전한콕 Daejeon Hankok | 1.1.0 | Daejeon, Korea guide: 8,600+ restaurants, cafes, hair and nail salons with Nave… |
-| 2026-11-22 06:37:27 | dev.pages.domainvet/domainvet | DomainVet | 1.2.0 | Domain intel for agents: DNS, RDAP age/registrar, CT certs, security headers, t… |
-| 2026-11-22 06:37:27 | dev.pages.coinvet/coinvet | CoinVet | 1.2.0 | Money checks for agents: BTC price, fees, crypto + Lightning address checks, IB… |
-| 2026-11-22 06:37:28 | dev.pages.utilvet/utilvet | UtilVet | 1.2.0 | Exact utilities agents get wrong: business days, holidays, time zones, cron, un… |
-| 2026-11-22 06:41:05 | dev.pages.livedproof/livedproof | LivedProof (demo) | 0.1.0 | Demo: public pricing-page links for 60 software/AI tools; verified paying-user… |
-| 2026-11-22 06:41:20 | nl.svv-schatzoekers/public-selling-agent | SVV-Schatzoekers Public Selling Agent | 2.0.0 | Read-only product discovery, merchant trust, shipping and returns for SVV-Schat… |
-| 2026-11-22 06:43:44 | [io.github.yuli3/oiyo-world](https://github.com/yuli3/api-oiyo) | OIYO World Tax, Payroll & Tenancy | 1.66.0 | Tax, take-home pay, labor, tenancy & consumer-law calculators for JP UK US FR E… |
-| 2026-11-22 06:48:16 | dev.somebodybuildthis/ideas | Somebody Build This | 1.0.0 | Find an idea to build. A free public board of things people wish existed, each… |
-| 2026-11-22 06:48:41 | co.puffinmail/puffinmail | PuffinMail | 1.0.0 | Email marketing for online stores: read campaign, automation and revenue result… |
-| 2026-11-22 06:51:10 | ai.catalystdesk/mcp-server | CatalystDesk | 1.0.0 | Descriptive market regime analytics with a 15-minute delayed synthetic showcase. |
-| 2026-11-22 06:52:15 | [io.github.heartleo/zlib](https://github.com/heartleo/zlib) | Z-Library | 0.0.15 | Search and download Z-Library books, fix e-book metadata, and send books to Kin… |
-| 2026-11-22 06:52:59 | com.allmcpservers/directory | allMCPservers directory | 1.0.0 | Search and compare 69,000+ MCP servers and get their setup details. Read-only,… |
-| 2026-11-22 06:54:18 | ai.galon/galon | Galon Cloud | 1.0.0 | The cloud for the age of AI agents: one key, prepaid with caps, human-approved… |
-| 2026-11-22 06:57:21 | [io.github.jaideepkrishna2008-ui/codeshave](https://github.com/jaideepkrishna2008-ui/codeshave) | CodeShave | 0.2.0 | High-speed AST code compressor and MCP server for AI coding assistants. |
-| 2026-11-22 07:03:57 | [io.github.Ptalati015/no2sql](https://github.com/Ptalati015/No2SQL) |  | 1.1.1 | No2SQL MCP server for inferring SQL schema and ER diagrams from MongoDB databas… |
-| 2026-11-22 07:04:07 | [com.opensubtitles/guessit-js](https://github.com/opensubtitles/guessit-js) | guessit-js | 5.3.0 | Parse movie and TV filenames: title, year, season, episode, codecs, languages,… |
-| 2026-11-22 07:05:12 | [io.github.Nemet360/easytopaste](https://github.com/Nemet360/easytopaste-mcp) |  | 0.1.1 | Hand a credential over as a one-time, client-encrypted link instead of pasting… |
-| 2026-11-22 07:08:50 | eu.volotel/booking | Volotel SkyWay – Cluj-Napoca Airport | 1.0.0 | Real-time rooms, prices and direct booking links for Volotel SkyWay, next to Cl… |
-| 2026-11-22 07:18:41 | com.gtmmaxing/gtmmaxing | GTMMAXING | 1.0.0 | Work emails, lead lists, company research and hiring signals for GTM agents, on… |
+| 2026-11-22 07:19:44 | com.pickzeal/pickzeal | PickZeal | 1.0.0 | Search PickZeal's free in-browser PDF, SEO and text tools and practical article… |
+| 2026-11-22 07:23:34 | com.archlooks/projects |  | 1.0.0 | Search 65k+ architecture & interior design projects; x402-gated agent access ($… |
+| 2026-11-22 07:31:46 | dev.ahmedshaikh/blog | Ahmed Shaikh's Blog | 1.0.0 | Search and read Ahmed Shaikh's blog posts on AI, cybersecurity, data breaches a… |
+| 2026-11-22 07:33:32 | [io.github.12happyhq/12happy-mcp](https://github.com/12happyhq/12happy-mcp) | 12happy uptime monitoring | 0.1.1 | Create uptime monitors, read incidents, uptime and response times, and silence… |
+| 2026-11-22 07:36:09 | [io.github.zyrliuwei-sys/aisvg-generator-admin](https://github.com/zyrliuwei-sys/svgai) | AI SVG Generator Admin MCP | 1.0.0 | Admin tools for managing the AI SVG Generator site. Requires a scoped admin bea… |
+| 2026-11-22 07:40:02 | [io.github.mcpmessenger/glazyr](https://github.com/mcpmessenger/glazyr-mcp) | Glazyr | 0.2.4 | Zero-copy browser perception for AI agents over MCP. ~13x fewer tokens than CDP… |
+| 2026-11-22 07:46:07 | [pro.memvo/memvo](https://github.com/memvo/memvo) | Memvo | 0.1.0a3 | Read-only tools over your own bank statements. Every answer cites the line it c… |
+| 2026-11-22 07:56:29 | [com.scadaminer/nem-explorer](https://github.com/brensch/scadaminer-ai-toolkit) | NEM Explorer: AEMO MCP server (SCADA Mi… | 0.1.2 | AEMO MCP server for Australia's National Electricity Market: prices, generation… |
+| 2026-11-22 08:00:04 | xyz.quantumatlas/x402-payment-hub | Quantum Atlas Stripe X402 Agent Payment… | 1.0.0 | Stripe-powered HTTP 402 agent payment hub: spend keys, subagent caps, approvals… |
+| 2026-11-22 08:01:54 | ai.psbl/psbl | PSBL | 1.0.0 | Custom merch on PSBL: projects, products, artwork, proofs, quotes, orders and m… |
+| 2026-11-22 08:08:05 | [io.github.lakshyapocketlab/hello](https://github.com/lakshyapocketlab/hello-mcp) | Hello WhatsApp Business API | 1.0.0 | Send WhatsApp messages, templates and media, and manage templates via the Whats… |
+| 2026-11-22 08:11:49 | com.pinboostr/pinboostr | PinBoostr | 1.0.0 | Draft, schedule and review Pinterest pins from your AI assistant. You confirm e… |
 
 ## Data source
 
