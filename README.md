@@ -9,34 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 06:20 UTC
+## Latest list — 2026-11-22 07:18 UTC
 
-New MCP servers published between 2026-11-22 05:20 UTC and 2026-11-22 06:20 UTC.
+New MCP servers published between 2026-11-22 06:20 UTC and 2026-11-22 07:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-22T06-20-25-561943Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-22T07-18-45-297603Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-22 05:25:58 | [io.github.colony-technology/pricklypair](https://github.com/colony-technology/pricklypair) | pricklypair | 0.2.1 | npx pricklypair \| FIDO, passkey, dice checkpoints; operation approvals; agent g… |
-| 2026-11-22 05:31:12 | [io.github.zColdWater/mcp-launch-audit](https://github.com/zColdWater/mcp-launch-audit) | OmniForge Launch Audit MCP | 1.0.0 | Audit brand domains, USPTO trademarks, SPF/DKIM/DMARC email, and AI search (llm… |
-| 2026-11-22 05:37:31 | [com.chinataxcalc/mcp](https://github.com/AbigailDavised/chinataxcalc-mcp) | ChinaTaxCalc — China Expat IIT, BIA All… | 1.0.0 | Calculate China expat IIT net salary, BIA tax-free allowances, annual bonus & G… |
-| 2026-11-22 05:40:38 | app.img2cad/mcp | Img2CAD | 1.0.0 | Turn a photo of an object into an editable CAD model: STEP, STL and GLB. |
-| 2026-11-22 05:41:49 | com.digitalbusinessportal/fda-regulatory | FDA Device and Drug Shortage Data (open… | 1.0.0 | Read-only openFDA: 510(k) clearances, device establishments, device recalls, dr… |
-| 2026-11-22 05:55:51 | [io.github.98Woonho/db-scout-mcp](https://github.com/98Woonho/db-scout-mcp) | DB Scout | 0.1.1 | Read-only DB explorer for AI agents: schema, join paths, safe SELECT, PII maski… |
-| 2026-11-22 05:57:01 | dev.heyidentity/heyidentity | HeyIdentity | 1.0.0 | Create a fake Entra ID or OIDC tenant for testing in one call. No account neede… |
-| 2026-11-22 05:59:35 | app.vaultan/vaultan | Vaultan | 1.0.0 | Free in-browser PDF and photo tools on vaultan.app, its pages as Markdown, and… |
-| 2026-11-22 06:03:40 | tech.lumtap/lumtap | Lumtap | 1.0.0 | Give your Grok Bot a phone: an MCP server to see and use your phone. Also works… |
-| 2026-11-22 06:05:36 | com.atombackends/agent-channel | Atom Backends | 1.0.0 | Atom Backends: fixes job-to-cash systems of US home-service and trade firms. Pr… |
-| 2026-11-22 06:05:43 | ai.atomtechnologies/agent-channel | Atom Technologies | 1.0.0 | Atom Technologies: dedicated Latin American software teams in US hours. Prices,… |
-| 2026-11-22 06:05:43 | ai.atomindustries/agent-channel | Atom Industries | 1.0.0 | Atom Industries (development stage): AI data-center sites in Latin America. Fac… |
-| 2026-11-22 06:05:44 | com.schutzecapital/agent-channel | Schütze Capital | 1.0.0 | Schütze Capital: confidential intermediary for business sales and acquisitions… |
-| 2026-11-22 06:05:45 | com.atomxii/agent-channel | Atom XII | 1.0.0 | Atom XII: AI systems for self-hosted, on-premises, air-gapped and BYOC deployme… |
-| 2026-11-22 06:05:45 | com.atompanama/agent-channel | Atom Panamá | 1.0.0 | Atom Panamá: equipos de software en español desde Ciudad de Panamá. Precios, pr… |
-| 2026-11-22 06:09:52 | [com.supersaasanalytics/analytics](https://github.com/hafizjavaid/supersaas-analytics-core) | Supersaas Analytics | 1.0.0 | Read-only, cookieless web analytics: traffic, sources, pages, Goals, Funnels an… |
-| 2026-11-22 06:10:49 | [app.freshleads/freshleads](https://github.com/officexapp/freshleads-mcp) | FreshLeads | 1.0.0 | Find new businesses that match your offer, the day they go online. Search, save… |
-| 2026-11-22 06:11:13 | [io.github.92kareeem/citebound](https://github.com/92kareeem/citebound) | Citebound | 0.2.0 | Checks an answer against its sources: numbers and citations verified, wrong one… |
-| 2026-11-22 06:16:07 | audio.everlit/mcp | Everlit | 1.18.0 | Turn articles and text into narrated audio, playlists and podcast feeds from yo… |
-| 2026-11-22 06:19:29 | cab.any/malta-transfers | any.cab | 3.0.0 | Fixed-price taxis and private transfers anywhere in Malta, 24/7: prices, quotes… |
+| 2026-11-22 06:24:59 | [so.usual/usual](https://github.com/Usual-so/usual-mcp) | Usual | 1.0.0 | Collect documents from clients: send checklists that chase on their own, see wh… |
+| 2026-11-22 06:31:22 | in.narriva/narriva-ai | Narriva AI | 1.0.0 | AI social media manager: plan, make and schedule posts and reels, answer DMs, s… |
+| 2026-11-22 06:33:40 | com.freedomagentmail/mail | Freedom Agent Mail | 1.0.0 | Free disposable email inboxes for AI agents. Get verification codes and links.… |
+| 2026-11-22 06:34:26 | com.ferrorium.daejeon/hankok | 대전한콕 Daejeon Hankok | 1.1.0 | Daejeon, Korea guide: 8,600+ restaurants, cafes, hair and nail salons with Nave… |
+| 2026-11-22 06:37:27 | dev.pages.domainvet/domainvet | DomainVet | 1.2.0 | Domain intel for agents: DNS, RDAP age/registrar, CT certs, security headers, t… |
+| 2026-11-22 06:37:27 | dev.pages.coinvet/coinvet | CoinVet | 1.2.0 | Money checks for agents: BTC price, fees, crypto + Lightning address checks, IB… |
+| 2026-11-22 06:37:28 | dev.pages.utilvet/utilvet | UtilVet | 1.2.0 | Exact utilities agents get wrong: business days, holidays, time zones, cron, un… |
+| 2026-11-22 06:41:05 | dev.pages.livedproof/livedproof | LivedProof (demo) | 0.1.0 | Demo: public pricing-page links for 60 software/AI tools; verified paying-user… |
+| 2026-11-22 06:41:20 | nl.svv-schatzoekers/public-selling-agent | SVV-Schatzoekers Public Selling Agent | 2.0.0 | Read-only product discovery, merchant trust, shipping and returns for SVV-Schat… |
+| 2026-11-22 06:43:44 | [io.github.yuli3/oiyo-world](https://github.com/yuli3/api-oiyo) | OIYO World Tax, Payroll & Tenancy | 1.66.0 | Tax, take-home pay, labor, tenancy & consumer-law calculators for JP UK US FR E… |
+| 2026-11-22 06:48:16 | dev.somebodybuildthis/ideas | Somebody Build This | 1.0.0 | Find an idea to build. A free public board of things people wish existed, each… |
+| 2026-11-22 06:48:41 | co.puffinmail/puffinmail | PuffinMail | 1.0.0 | Email marketing for online stores: read campaign, automation and revenue result… |
+| 2026-11-22 06:51:10 | ai.catalystdesk/mcp-server | CatalystDesk | 1.0.0 | Descriptive market regime analytics with a 15-minute delayed synthetic showcase. |
+| 2026-11-22 06:52:15 | [io.github.heartleo/zlib](https://github.com/heartleo/zlib) | Z-Library | 0.0.15 | Search and download Z-Library books, fix e-book metadata, and send books to Kin… |
+| 2026-11-22 06:52:59 | com.allmcpservers/directory | allMCPservers directory | 1.0.0 | Search and compare 69,000+ MCP servers and get their setup details. Read-only,… |
+| 2026-11-22 06:54:18 | ai.galon/galon | Galon Cloud | 1.0.0 | The cloud for the age of AI agents: one key, prepaid with caps, human-approved… |
+| 2026-11-22 06:57:21 | [io.github.jaideepkrishna2008-ui/codeshave](https://github.com/jaideepkrishna2008-ui/codeshave) | CodeShave | 0.2.0 | High-speed AST code compressor and MCP server for AI coding assistants. |
+| 2026-11-22 07:03:57 | [io.github.Ptalati015/no2sql](https://github.com/Ptalati015/No2SQL) |  | 1.1.1 | No2SQL MCP server for inferring SQL schema and ER diagrams from MongoDB databas… |
+| 2026-11-22 07:04:07 | [com.opensubtitles/guessit-js](https://github.com/opensubtitles/guessit-js) | guessit-js | 5.3.0 | Parse movie and TV filenames: title, year, season, episode, codecs, languages,… |
+| 2026-11-22 07:05:12 | [io.github.Nemet360/easytopaste](https://github.com/Nemet360/easytopaste-mcp) |  | 0.1.1 | Hand a credential over as a one-time, client-encrypted link instead of pasting… |
+| 2026-11-22 07:08:50 | eu.volotel/booking | Volotel SkyWay – Cluj-Napoca Airport | 1.0.0 | Real-time rooms, prices and direct booking links for Volotel SkyWay, next to Cl… |
+| 2026-11-22 07:18:41 | com.gtmmaxing/gtmmaxing | GTMMAXING | 1.0.0 | Work emails, lead lists, company research and hiring signals for GTM agents, on… |
 
 ## Data source
 

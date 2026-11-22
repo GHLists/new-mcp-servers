@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-11-22T06:24:59.614493Z,so.usual/usual,Usual,1.0.0,https://github.com/Usual-so/usual-mcp,streamable-http,"Collect documents from clients: send checklists that chase on their own, see what's missing."
+2026-11-22T06:31:22.583105Z,in.narriva/narriva-ai,Narriva AI,1.0.0,,streamable-http,"AI social media manager: plan, make and schedule posts and reels, answer DMs, see leads and results."
+2026-11-22T06:33:40.692472Z,com.freedomagentmail/mail,Freedom Agent Mail,1.0.0,,streamable-http,Free disposable email inboxes for AI agents. Get verification codes and links. No API key needed.
+2026-11-22T06:34:26.297293Z,com.ferrorium.daejeon/hankok,대전한콕 Daejeon Hankok,1.1.0,,streamable-http,"Daejeon, Korea guide: 8,600+ restaurants, cafes, hair and nail salons with Naver booking links."
+2026-11-22T06:37:27.194755Z,dev.pages.domainvet/domainvet,DomainVet,1.2.0,,streamable-http,"Domain intel for agents: DNS, RDAP age/registrar, CT certs, security headers, tech stack, sitemaps."
+2026-11-22T06:37:27.818388Z,dev.pages.coinvet/coinvet,CoinVet,1.2.0,,streamable-http,"Money checks for agents: BTC price, fees, crypto + Lightning address checks, IBAN, BIC, US ZIP."
+2026-11-22T06:37:28.291138Z,dev.pages.utilvet/utilvet,UtilVet,1.2.0,,streamable-http,"Exact utilities agents get wrong: business days, holidays, time zones, cron, units, FX, JSON repair."
+2026-11-22T06:41:05.169661Z,dev.pages.livedproof/livedproof,LivedProof (demo),0.1.0,,streamable-http,Demo: public pricing-page links for 60 software/AI tools; verified paying-user answers coming soon.
+2026-11-22T06:41:20.441367Z,nl.svv-schatzoekers/public-selling-agent,SVV-Schatzoekers Public Selling Agent,2.0.0,,streamable-http,"Read-only product discovery, merchant trust, shipping and returns for SVV-Schatzoekers."
+2026-11-22T06:43:44.15681Z,io.github.yuli3/oiyo-world,"OIYO World Tax, Payroll & Tenancy",1.66.0,https://github.com/yuli3/api-oiyo,streamable-http; streamable-http,"Tax, take-home pay, labor, tenancy & consumer-law calculators for JP UK US FR ES DE CN TW SG."
+2026-11-22T06:48:16.673789Z,dev.somebodybuildthis/ideas,Somebody Build This,1.0.0,,streamable-http,"Find an idea to build. A free public board of things people wish existed, each with a weekend plan."
+2026-11-22T06:48:41.099747Z,co.puffinmail/puffinmail,PuffinMail,1.0.0,,streamable-http,"Email marketing for online stores: read campaign, automation and revenue results; draft campaigns."
+2026-11-22T06:51:10.811665Z,ai.catalystdesk/mcp-server,CatalystDesk,1.0.0,,streamable-http,Descriptive market regime analytics with a 15-minute delayed synthetic showcase.
+2026-11-22T06:52:15.911299Z,io.github.heartleo/zlib,Z-Library,0.0.15,https://github.com/heartleo/zlib,,"Search and download Z-Library books, fix e-book metadata, and send books to Kindle or WeRead."
+2026-11-22T06:52:59.926547Z,com.allmcpservers/directory,allMCPservers directory,1.0.0,,streamable-http,"Search and compare 69,000+ MCP servers and get their setup details. Read-only, no sign-in."
+2026-11-22T06:54:18.153476Z,ai.galon/galon,Galon Cloud,1.0.0,,streamable-http,"The cloud for the age of AI agents: one key, prepaid with caps, human-approved purchases."
+2026-11-22T06:57:21.988096Z,io.github.jaideepkrishna2008-ui/codeshave,CodeShave,0.2.0,https://github.com/jaideepkrishna2008-ui/codeshave,,High-speed AST code compressor and MCP server for AI coding assistants.
+2026-11-22T07:03:57.314972Z,io.github.Ptalati015/no2sql,,1.1.1,https://github.com/Ptalati015/No2SQL,,No2SQL MCP server for inferring SQL schema and ER diagrams from MongoDB databases.
+2026-11-22T07:04:07.096019Z,com.opensubtitles/guessit-js,guessit-js,5.3.0,https://github.com/opensubtitles/guessit-js,streamable-http,"Parse movie and TV filenames: title, year, season, episode, codecs, languages, release group."
+2026-11-22T07:05:12.099461Z,io.github.Nemet360/easytopaste,,0.1.1,https://github.com/Nemet360/easytopaste-mcp,,"Hand a credential over as a one-time, client-encrypted link instead of pasting it in chat."
+2026-11-22T07:08:50.297309Z,eu.volotel/booking,Volotel SkyWay – Cluj-Napoca Airport,1.0.0,,streamable-http,"Real-time rooms, prices and direct booking links for Volotel SkyWay, next to Cluj-Napoca Airport."
+2026-11-22T07:18:41.944286Z,com.gtmmaxing/gtmmaxing,GTMMAXING,1.0.0,,streamable-http,"Work emails, lead lists, company research and hiring signals for GTM agents, on prepaid credits."
