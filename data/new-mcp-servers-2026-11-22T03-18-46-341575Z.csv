@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-11-22T02:22:47.337954Z,com.lsc-lab.terra/terra,LSC-Lab Terra,1.0.0,,streamable-http,"Uberlândia (Brazil) zoning law, land feasibility and CVM CRI/CRA credit signals. Cites sources."
+2026-11-22T02:26:21.927824Z,fr.magicprices/mcp,Magic Prices France,2.0.0,,streamable-http,"Read-only price comparison for France: products, store offers, price history, deals, coupons (EUR)."
+2026-11-22T02:26:22.738867Z,it.magicprices/mcp,Magic Prices Italia,2.0.0,,streamable-http,"Read-only price comparison for Italy: products, store offers, price history, deals, coupons (EUR)."
+2026-11-22T02:26:23.790743Z,uk.co.magicprices/mcp,Magic Prices UK,2.0.0,,streamable-http,"Read-only price comparison for the UK: products, store offers, price history, deals, coupons (GBP)."
+2026-11-22T02:27:02.695541Z,com.digitalbusinessportal/usac-funding,"USAC Funding Data (E-Rate, Rural Health Care, Lifeline)",1.0.0,,streamable-http,"Read-only USAC Open Data: SPIN audit, E-Rate and RHC bids, expiring FRNs, C2 budgets, Lifeline."
+2026-11-22T02:27:39.837001Z,io.github.BibekStha/techenthus-data,TechEnthus Hardware Data API,1.1.5,https://github.com/BibekStha/data-techenthus-dev,streamable-http,Authenticated GPU/CPU/PSU lookup; beta power-budget estimate. Coverage/freshness vary by source.
+2026-11-22T02:28:27.515023Z,io.github.nzdsf2-gif/relayshield-firewall,,0.3.0,https://github.com/nzdsf2-gif/relayshield-mcp,streamable-http,"RelayShield MCP Proxy Firewall. Screens every MCP tool call. 50 free calls, then $49/month."
+2026-11-22T02:38:10.378452Z,com.innergcomplete/shearquery,ShearQuery — Barber & Beauty Industry Data,0.3.0,https://github.com/lamont703/Project_InnerG_Complete_Agency,streamable-http,"Barber & cosmetology exam pass rates, booth rent with open chairs, and Texas licensee counts"
+2026-11-22T02:39:44.751844Z,io.github.Thealch7/hyperion-builders,Hyperion Builders,1.0.0,,streamable-http,"Hyperion Builders: $200 inspection slots and booking, HBMeasure report catalog, x402 requirements"
+2026-11-22T02:39:50.120505Z,com.toolsandskillsratedreviewedandrankedbyaiagents/agentreview,AgentReview,1.0.0,,streamable-http,"Find agent tools and skills, read task-specific ratings, and share voluntary usage reports."
+2026-11-22T02:43:28.422947Z,com.seedviews/seedviews,SeedViews,1.0.0,,streamable-http,Draft UGC creator castings from an app link. A person approves and pays before any outreach.
+2026-11-22T02:53:14.787218Z,com.revsheller/revsheller,revsheller,1.0.0,,streamable-http,"Hosted reverse and forward shell relay for CTFs, labs and authorized testing."
+2026-11-22T02:58:54.823606Z,io.github.kabumetrics/edinet-mcp-server,KabuMetrics Japan EDINET,1.0.0,https://github.com/kabumetrics/edinet-mcp-server,,"Japan stock financials, Top-10 shareholders, 5% Rule activists & FSA EDINET annual reports."
+2026-11-22T02:59:50.435767Z,com.us.mechanic/auto-manual,Mechanic Atlas Auto Manual,1.0.0,,streamable-http,"Car repair manual for AI chat: specs, repair steps, recalls, complaints and factory manual links."
+2026-11-22T03:04:02.080644Z,com.greenhired/mcp,GreenHired,1.0.0,,streamable-http,"Search green and climate jobs, save roles and track applications on GreenHired."
+2026-11-22T03:05:19.468191Z,com.webtoappconvert/mcp,WebToAppConvert,1.0.0,,streamable-http,"Turn websites into Android apps from your AI agent: create, set icons, build and download APK/AAB."
+2026-11-22T03:06:16.326805Z,io.github.yahyalistings/frontpiece,Frontpiece,1.0.0,,streamable-http,"Listing kits for Amazon, Walmart, Etsy, TikTok Shop and Shopify from a product link or photos."
+2026-11-22T03:10:13.013888Z,com.workflowfieldwork/workflow-fieldwork,Workflow Fieldwork,1.0.0,,streamable-http,"Check duplicate IDs, triage failed workflows, and discover priced workflow jobs."
+2026-11-22T03:14:45.351905Z,com.posthog/mcp,PostHog,1.0.0,https://github.com/PostHog/posthog,streamable-http,"Query analytics, manage feature flags and experiments, and investigate errors in PostHog."
+2026-11-22T03:17:40.768893Z,io.github.david-engelmann/maidan,Maidan: the shared workspace for agent swarms,473.0.0,https://github.com/david-engelmann/maidan,streamable-http,"The shared workspace where AI agents and people claim, hand off and review work."
+2026-11-22T03:17:43.632046Z,io.github.0xdopewilly/fusebox-mcp,Fusebox,0.6.1,https://github.com/0xdopewilly/fusebox,,"Agent payments on X Layer checked by TapeOut circuit fuses: check, pay, x402 fetch, ready rules."
