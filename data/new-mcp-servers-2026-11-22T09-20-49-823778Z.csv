@@ -1,0 +1,18 @@
+created_at,server,title,version,repository,transports,description
+2026-11-22T08:19:09.2236Z,so.mostly/mcp,Mostly,1.0.0,,streamable-http,"Your content team: on-brand carousels, images, videos and social posts for small product brands."
+2026-11-22T08:20:57.352124Z,io.github.molkex/omni-flash-veo3-nano-banana,openFlow,1.2.0,https://github.com/molkex/mcp-flow-google,streamable-http,"Omni Flash and Veo video, Nano Banana images on Google Flow, from any MCP client"
+2026-11-22T08:23:19.947782Z,io.github.apprua/apprua,Apprua,1.1.1,https://github.com/apprua/apprua,,"Publish the apps you build with AI on your own PC or server, from any AI app that supports MCP."
+2026-11-22T08:23:29.001269Z,com.halowerk/energy-research-hub,HALOWERK EU Power Dispatch API,3.1.0,,streamable-http,"EU power dispatch for compute, DePIN, battery and trading agents. Paid per call, x402 USDC."
+2026-11-22T08:39:16.103207Z,io.github.PublicFreeSuffix/free-domains,PFS Free Domains,0.6.0,https://github.com/PublicFreeSuffix/PublicFreeSuffix,streamable-http,"Find and register free PFS domains, manage DNS, check WHOIS, and manage certificates and hosting."
+2026-11-22T08:39:49.793417Z,io.github.raydeoliveira/edidsmith,EdidSmith,0.1.0,https://github.com/raydeoliveira/edidsmith,,"EDID 1.4/CTA-861/DisplayID 2.1 parser, CVT-RB2 link-budget solver, and safe EDID patcher."
+2026-11-22T08:39:50.226557Z,io.github.raydeoliveira/xrctl,xrctl,0.1.0,https://github.com/raydeoliveira/xrctl,,"4-vendor AR glasses CLI & MCP server for 2D/3D SBS rollback, tint, 120Hz, and 1000Hz IMU."
+2026-11-22T08:39:50.58118Z,io.github.raydeoliveira/depthpipe,DepthPipe,0.1.0,https://github.com/raydeoliveira/depthpipe,,"Live 2D-to-3D stereo depth pipeline, Metal DIBR weaver, and MV-HEVC Spatial Video tool."
+2026-11-22T08:39:50.924647Z,io.github.raydeoliveira/glassweave,GlassWeave,0.1.0,https://github.com/raydeoliveira/glassweave,,Eye-tracked glasses-free 3D display CLI & MCP server with DDC/CI switching and shaders.
+2026-11-22T08:39:51.267996Z,io.github.raydeoliveira/stereoweave,StereoWeave,0.1.0,https://github.com/raydeoliveira/stereoweave,,"macOS EDID 3D/RGB-4:4:4 solver, Metal stereo weaver, and MV-HEVC Spatial Video converter."
+2026-11-22T08:39:51.50831Z,io.github.raydeoliveira/spatial-mcp-worker,Spatial 3D Display Oracle (Cloudflare Workers MCP),0.1.0,https://github.com/raydeoliveira/spatial-mcp-worker,streamable-http,"Cloudflare Workers Streamable HTTP MCP for CVT-RB2 budgets, EDID patching, and lenticular optics."
+2026-11-22T08:57:55.973187Z,io.github.byttrade/free-crypto-trading-bot,Free Crypto Trading Bot,1.0.2,https://github.com/byttrade/free-crypto-trading-bot,,"Status, positions, trades and demo-account control of the Free Crypto Trading Bot panel."
+2026-11-22T08:58:12.716359Z,build.ecomos/ecom-os,Ecom OS,0.2.0,,streamable-http,"Build and run a Whop store: pages, supplier products, offers, emails, orders and returns."
+2026-11-22T09:01:39.550672Z,dev.postyard/postyard,Postyard,1.0.0,,streamable-http,"Email on your own domains for AI agents: read, search, draft, reply and send from real mailboxes."
+2026-11-22T09:04:23.948634Z,org.cashbackpro/cashbackpro,CashbackPro,0.4.0,https://github.com/linkin931/cashbackpro-mcp,streamable-http,"Search AliExpress with real prices, live promo codes and the true post-cashback cost."
+2026-11-22T09:06:12.203578Z,com.loxoneai/loxone-ai,Loxone AI,1.1.1,,streamable-http,"Control a Loxone Miniserver smart home: lights, blinds, climate, scenes and energy."
+2026-11-22T09:16:32.322025Z,io.github.cross-stitched/cross-stitch-pattern-maker,Cross Stitch Pattern Maker,1.0.0,https://github.com/cross-stitched/mcp,streamable-http,"Turn any photo into a cross stitch pattern with DMC threads, and order a custom kit."
