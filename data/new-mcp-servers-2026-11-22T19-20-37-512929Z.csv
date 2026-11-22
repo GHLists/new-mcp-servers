@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-11-22T18:21:32.124938Z,com.secblast/sec-blast,SEC Blast,1.0.0,,streamable-http,"SEC EDGAR filings for AI agents: 10-K, 8-K, 13F, insider trades, XBRL financials, full-text search."
+2026-11-22T18:21:59.038444Z,dev.hapti/hapti,Hapti,1.0.0,,streamable-http,"Do tasks on websites that have no API: a browser agent that works by sight, paid only on success."
+2026-11-22T18:24:31.172706Z,org.thevalleydesk/directory,The Valley Desk,1.0.0,https://github.com/ajhcs/the-valley-desk,streamable-http,Search healthcare research connected to the nine-county Delaware Valley. Read-only.
+2026-11-22T18:29:09.221311Z,com.trycherryblossom/cherry-blossom,Cherry Blossom,1.0.0,https://github.com/cherryblossomhq/pcb-editor,streamable-http,"Design PCBs: find parts, draw the schematic, lay out, route and check the board, export Gerbers."
+2026-11-22T18:39:41.686354Z,io.github.Monkeydscraping/forum-search-engine,Forums and Blogs Discussion Search,1.0.0,,streamable-http,Find public discussions on forums and blogs by keyword for brand and market research.
+2026-11-22T18:39:42.190963Z,io.github.Monkeydscraping/instagram-logo-detector,Instagram Logo Detection & Brand Recognition,1.0.0,,streamable-http,Find visible brand logos in Instagram photos and review sponsor appearances by post.
+2026-11-22T18:39:42.716136Z,io.github.Monkeydscraping/jd-product-search-scraper,JD.com Product Search,1.0.0,,streamable-http,Search JD.com products and compare listing prices and available barcodes.
+2026-11-22T18:39:43.230321Z,io.github.Monkeydscraping/shopify-size-availability-audit,Shopify Size Availability Checker,1.0.0,,streamable-http,Check which sizes are available for Shopify fashion products before promoting them in ads.
+2026-11-22T18:46:26.312247Z,com.openagentguide/catalog,Open Agent Guide,1.0.0,,streamable-http,"Find and compare AI products by API, MCP support, pricing, compliance, and more."
+2026-11-22T18:48:03.558263Z,no.bedriftsatlas/peiling-bedriftsatlas,Peiling Bedriftsatlas,1.1.0,,streamable-http,"Norwegian company data: registry, accounts and ownership. Norske bedriftsdata fra FullPeiling AS."
+2026-11-22T18:50:39.431054Z,com.blackfridaymcp/deals,Black Friday MCP,0.1.0,https://github.com/Deebee800/black-friday-mcp,streamable-http,"Live Amazon.com (US) deals in your AI chat: search deals, check a price, trending, gift ideas."
+2026-11-22T18:50:40.851695Z,com.tripstow/tripstow,TripStow,1.0.0,,streamable-http,"Your own trips, flights, countries visited and travel stats from TripStow. Free beta, read only."
+2026-11-22T18:53:37.185279Z,io.rekeep/rekeep,Rekeep,1.0.0,,streamable-http,"SMS reminders that bring a service business's customers back: add clients, set up reminders."
+2026-11-22T18:58:08.975182Z,com.lansary/company-intelligence,Lansary Company Intelligence,2.0.0,,streamable-http,"Source-cited industrial company intelligence for agents. Free search, paid synthesis via x402."
+2026-11-22T18:59:29.794151Z,br.com.obm/api,OBM - Open Brazil Market,1.0.0,,streamable-http,"Fundos, ativos da B3 e renda fixa (CRI, CRA, debêntures, Tesouro) com fonte e data de referência."
+2026-11-22T19:01:27.447619Z,ai.protyus/protyus,Protyus,1.0.0,,streamable-http,"Manufacturing analysis from a STEP file: DFM findings, setups, cycle time, cost and quotes."
+2026-11-22T19:02:26.264669Z,uk.co.alama/wardrobe,Alama Wardrobe,1.0.0,,streamable-http,"Your own wardrobe for your assistant: items, outfits, style profile, gaps, try-on."
+2026-11-22T19:02:49.828051Z,io.github.apiiro/guardian-agent,Apiiro Guardian,1.12.2,https://github.com/apiiro/marketplace,streamable-http,"Find and fix code security risks, exposed secrets and vulnerable dependencies with Apiiro context"
+2026-11-22T19:03:24.392795Z,com.easycando/easycando,EasyCanDo,1.0.0,,streamable-http,"Search a checked catalog of 1,300 AI models, APIs, data feeds and apps by what each takes and gives."
+2026-11-22T19:06:12.296166Z,io.github.DasRed/nginx-proxy-manager-mcp,Nginx Proxy Manager,1.1.0,https://github.com/DasRed/nginx-proxy-manager-mcp,,"Manage Nginx Proxy Manager hosts, certificates and access lists. Read-only by default."
+2026-11-22T19:11:16.536478Z,io.github.swechhap/wpf-locator-doctor,WPF Locator Doctor,0.2.0,https://github.com/swechhap/wpf-locator-doctor,,Scores how testable a WPF app is and suggests the AutomationId fixes UI tests need.
+2026-11-22T19:15:31.815386Z,io.github.justrunme/agent-security-contract,Agent Security Contract,0.3.0,https://github.com/justrunme/agent-security-contract,,Fail-closed security contract for AI agents and MCP tool calls with pre-execution enforcement.
+2026-11-22T19:17:37.906235Z,io.github.DasRed/hetzner-mcp,Hetzner Cloud,1.1.0,https://github.com/DasRed/hetzner-mcp,,"Query Hetzner Cloud servers, networks, IPs, volumes, DNS and prices. Read-only by default."
+2026-11-22T19:18:27.737502Z,net.pro11/pro-clubs,PRO11 Pro Clubs,1.0.0,,streamable-http,"EA FC 27 Pro Clubs: archetypes, Attribute Point costs, Specializations, levels, AcceleRATE and meta."
+2026-11-22T19:19:35.458458Z,io.github.hotsyrup/lumen-house,Lumen House,0.1.0,,streamable-http,"Search Lumen House wares, free guides, and Agent Help Map research."
+2026-11-22T19:20:23.191391Z,io.usefulapi/urlscan,urlscan.io MCP by usefulapi,1.0.1,https://github.com/m190/usefulapi-mcp,streamable-http,"Submit URL scans, search past scans, and read scan verdicts and infrastructure in urlscan.io."

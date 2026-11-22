@@ -9,40 +9,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 18:19 UTC
+## Latest list — 2026-11-22 19:20 UTC
 
-New MCP servers published between 2026-11-22 17:20 UTC and 2026-11-22 18:19 UTC.
+New MCP servers published between 2026-11-22 18:19 UTC and 2026-11-22 19:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-22T18-19-09-875833Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-22T19-20-37-512929Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-22 17:26:58 | [io.taghost/mcp](https://github.com/georgennad/TagHost) | TagHost Edge Cloud & Hosting | 1.1.0 | Autonomous edge hosting, deployments, CMS collections, D1 SQL, TagMail, domains… |
-| 2026-11-22 17:30:34 | xyz.botvbot/botvbot | BOTVBOT | 1.1.0 | Coach your AI fighter: see why it lost, rewrite its plan, start a ranked fight. |
-| 2026-11-22 17:31:14 | io.github.akihidem/japan-data-tools | Japan Data Tools | 0.1.0 | Free Japanese public-data tools for AI agents: holidays, business days, wareki,… |
-| 2026-11-22 17:31:24 | com.creditguruhq/creditguru | Credit Guru | 1.0.0 | Credit card facts, ratings, best-of lists, bank bonus offers and guides from Cr… |
-| 2026-11-22 17:33:32 | com.1234asdf/mcp | 1234asdf | 1.0.0 | Search and read the articles you saved in 1234asdf, with quotes from the origin… |
-| 2026-11-22 17:37:11 | [io.github.RizkySugiharto/merchant-scam-guard-mcp](https://github.com/RizkySugiharto/merchant-scam-guard-mcp) | Merchant Domain Scam & Rug-Pull Guard M… | 1.0.0 | Pre-purchase merchant scam & checkout URL verifier for AI agents (x402 USDC on… |
-| 2026-11-22 17:39:09 | app.symban/symban | Symban | 1.0.0 | Kanban board for people and AI agents. Agents take cards, report status and ask… |
-| 2026-11-22 17:41:18 | com.edakon/herramientas | EDAKON · herramientas del ciclo inmobil… | 1.0.0 | Calculadoras de obra y alquiler en España (bajas temerarias, IRAV, garantías LO… |
-| 2026-11-22 17:42:23 | [io.github.armanalabsai/arl-protocol](https://github.com/armanalabsai/arlcoin.io) | ARL Protocol | 0.2.1 | Escrow and verification for AI agent jobs on Base: check tasks, read verified r… |
-| 2026-11-22 17:43:24 | [com.agentmeetsagent/agent-meets-agent](https://github.com/PKSaaS/agent-meets-agent-mcp) | Agent Meets Agent | 0.4.0 | Network where company AI agents find each other, ask questions and agree calls. |
-| 2026-11-22 17:46:54 | ai.deployit/product-expert | DeployIt | 2.0.0 | Every employee asks your codebase from Claude, without access to it. Statistics… |
-| 2026-11-22 17:47:47 | com.aquedra/run | Aquedra Run | 0.1.0 | Pay-per-call GIS tools for AI agents: coordinates, measurement, reprojection, g… |
-| 2026-11-22 17:48:52 | [io.github.lijiumixin/unhidea-research-mcp](https://github.com/lijiumixin/unhidea-research-mcp) | UnHideA Wall Street Research MCP | 1.0.0 | Wall Street sell-side equity research MCP: 14 tools for search, cross-bank pack… |
-| 2026-11-22 17:49:43 | [io.github.zhizhiheng/kaiprint](https://github.com/zhizhiheng/kaiprint) | KaiPrint | 0.0.2 | Read and edit photo metadata and render camera-logo watermarks in a local photo… |
-| 2026-11-22 17:52:30 | [io.github.fean-developer/mongodb-readonly-mcp](https://github.com/fean-developer/mongodb-mcp) | MongoDB Read-Only MCP | 2.0.0 | Read-only MongoDB queries with database, collection and field policies. |
-| 2026-11-22 17:53:00 | io.github.ssemrau/biuro-help | Biuro HELP | 1.0.0 | Przygotowuje formularz zapytania do Biura HELP o księgowość, kadry i płace. |
-| 2026-11-22 17:54:08 | [io.github.webberdoocom/wai-mcp](https://github.com/webberdoocom/wai-mcp) | Webberdoo Agent Intelligence | 0.1.0 | UK company verification, due diligence, smart contract and token allowance repo… |
-| 2026-11-22 17:55:20 | [io.github.lemonbanan4/rulecloud](https://github.com/lemonbanan4/rulecloud) | RuleCloud Guardrails | 1.0.0 | Guardrail scans and rule generation for AI agents via scan_code, get_default_ru… |
-| 2026-11-22 17:55:55 | cn.net.sixu-ai/moyan-audit | Moyan Audit — Agent Session Security Au… | 0.1.0 | Security audit of AI-agent session records: 25 checks, three-level verdict, per… |
-| 2026-11-22 17:56:07 | gallery.bookmark/x-bookmarks | Bookmark.gallery | 1.0.0 | Search and read your saved X (Twitter) bookmarks, likes, images, tags, and thre… |
-| 2026-11-22 18:00:14 | dev.creditkit/mcp | CreditKit | 1.0.0 | Set up credits, a paywall and Stripe checkout in your AI app (Test Mode, OAuth… |
-| 2026-11-22 18:04:50 | [com.katasend/mcp](https://github.com/katasend/mcp) | Kata Send | 1.0.0 | Cold email for AI agents: send to a lead list, follow up and read replies from… |
-| 2026-11-22 18:10:48 | cloud.hutir/hosting | hutir | 0.1.0 | Hosting in Ukraine that your AI agent runs: apps, Postgres, deploys, logs, S3,… |
-| 2026-11-22 18:10:59 | [io.github.malkreide/swiss-environment-mcp](https://github.com/malkreide/swiss-environment-mcp) |  | V0.7.1 | BAFU environmental data, NABEL air quality, hydrology |
-| 2026-11-22 18:15:41 | [io.github.shouteck/omakase-box](https://github.com/shouteck/omakase-box) | Omakase Box — Delegate Coding Tasks, So… | 0.4.0 | Stuck on a coding task? Post it; another agent finishes it. Or solve. A human a… |
-| 2026-11-22 18:15:56 | [io.github.darizae/evidence-driven-qa](https://github.com/darizae/qa-toolkit) | Evidence-Driven QA | 0.1.0 | Free MCP tools for API QA questionnaires, indexed test cases and reference audi… |
+| 2026-11-22 18:21:32 | com.secblast/sec-blast | SEC Blast | 1.0.0 | SEC EDGAR filings for AI agents: 10-K, 8-K, 13F, insider trades, XBRL financial… |
+| 2026-11-22 18:21:59 | dev.hapti/hapti | Hapti | 1.0.0 | Do tasks on websites that have no API: a browser agent that works by sight, pai… |
+| 2026-11-22 18:24:31 | [org.thevalleydesk/directory](https://github.com/ajhcs/the-valley-desk) | The Valley Desk | 1.0.0 | Search healthcare research connected to the nine-county Delaware Valley. Read-o… |
+| 2026-11-22 18:29:09 | [com.trycherryblossom/cherry-blossom](https://github.com/cherryblossomhq/pcb-editor) | Cherry Blossom | 1.0.0 | Design PCBs: find parts, draw the schematic, lay out, route and check the board… |
+| 2026-11-22 18:39:41 | io.github.Monkeydscraping/forum-search-engine | Forums and Blogs Discussion Search | 1.0.0 | Find public discussions on forums and blogs by keyword for brand and market res… |
+| 2026-11-22 18:39:42 | io.github.Monkeydscraping/instagram-logo-detector | Instagram Logo Detection & Brand Recogn… | 1.0.0 | Find visible brand logos in Instagram photos and review sponsor appearances by… |
+| 2026-11-22 18:39:42 | io.github.Monkeydscraping/jd-product-search-scraper | JD.com Product Search | 1.0.0 | Search JD.com products and compare listing prices and available barcodes. |
+| 2026-11-22 18:39:43 | io.github.Monkeydscraping/shopify-size-availability-audit | Shopify Size Availability Checker | 1.0.0 | Check which sizes are available for Shopify fashion products before promoting t… |
+| 2026-11-22 18:46:26 | com.openagentguide/catalog | Open Agent Guide | 1.0.0 | Find and compare AI products by API, MCP support, pricing, compliance, and more. |
+| 2026-11-22 18:48:03 | no.bedriftsatlas/peiling-bedriftsatlas | Peiling Bedriftsatlas | 1.1.0 | Norwegian company data: registry, accounts and ownership. Norske bedriftsdata f… |
+| 2026-11-22 18:50:39 | [com.blackfridaymcp/deals](https://github.com/Deebee800/black-friday-mcp) | Black Friday MCP | 0.1.0 | Live Amazon.com (US) deals in your AI chat: search deals, check a price, trendi… |
+| 2026-11-22 18:50:40 | com.tripstow/tripstow | TripStow | 1.0.0 | Your own trips, flights, countries visited and travel stats from TripStow. Free… |
+| 2026-11-22 18:53:37 | io.rekeep/rekeep | Rekeep | 1.0.0 | SMS reminders that bring a service business's customers back: add clients, set… |
+| 2026-11-22 18:58:08 | com.lansary/company-intelligence | Lansary Company Intelligence | 2.0.0 | Source-cited industrial company intelligence for agents. Free search, paid synt… |
+| 2026-11-22 18:59:29 | br.com.obm/api | OBM - Open Brazil Market | 1.0.0 | Fundos, ativos da B3 e renda fixa (CRI, CRA, debêntures, Tesouro) com fonte e d… |
+| 2026-11-22 19:01:27 | ai.protyus/protyus | Protyus | 1.0.0 | Manufacturing analysis from a STEP file: DFM findings, setups, cycle time, cost… |
+| 2026-11-22 19:02:26 | uk.co.alama/wardrobe | Alama Wardrobe | 1.0.0 | Your own wardrobe for your assistant: items, outfits, style profile, gaps, try-… |
+| 2026-11-22 19:02:49 | [io.github.apiiro/guardian-agent](https://github.com/apiiro/marketplace) | Apiiro Guardian | 1.12.2 | Find and fix code security risks, exposed secrets and vulnerable dependencies w… |
+| 2026-11-22 19:03:24 | com.easycando/easycando | EasyCanDo | 1.0.0 | Search a checked catalog of 1,300 AI models, APIs, data feeds and apps by what… |
+| 2026-11-22 19:06:12 | [io.github.DasRed/nginx-proxy-manager-mcp](https://github.com/DasRed/nginx-proxy-manager-mcp) | Nginx Proxy Manager | 1.1.0 | Manage Nginx Proxy Manager hosts, certificates and access lists. Read-only by d… |
+| 2026-11-22 19:11:16 | [io.github.swechhap/wpf-locator-doctor](https://github.com/swechhap/wpf-locator-doctor) | WPF Locator Doctor | 0.2.0 | Scores how testable a WPF app is and suggests the AutomationId fixes UI tests n… |
+| 2026-11-22 19:15:31 | [io.github.justrunme/agent-security-contract](https://github.com/justrunme/agent-security-contract) | Agent Security Contract | 0.3.0 | Fail-closed security contract for AI agents and MCP tool calls with pre-executi… |
+| 2026-11-22 19:17:37 | [io.github.DasRed/hetzner-mcp](https://github.com/DasRed/hetzner-mcp) | Hetzner Cloud | 1.1.0 | Query Hetzner Cloud servers, networks, IPs, volumes, DNS and prices. Read-only… |
+| 2026-11-22 19:18:27 | net.pro11/pro-clubs | PRO11 Pro Clubs | 1.0.0 | EA FC 27 Pro Clubs: archetypes, Attribute Point costs, Specializations, levels,… |
+| 2026-11-22 19:19:35 | io.github.hotsyrup/lumen-house | Lumen House | 0.1.0 | Search Lumen House wares, free guides, and Agent Help Map research. |
+| 2026-11-22 19:20:23 | [io.usefulapi/urlscan](https://github.com/m190/usefulapi-mcp) | urlscan.io MCP by usefulapi | 1.0.1 | Submit URL scans, search past scans, and read scan verdicts and infrastructure… |
 
 ## Data source
 
