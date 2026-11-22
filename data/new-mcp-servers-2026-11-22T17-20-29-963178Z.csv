@@ -1,0 +1,35 @@
+created_at,server,title,version,repository,transports,description
+2026-11-22T16:22:39.579644Z,com.construction-company-software/mcp,Construction Company Software,1.1.0,https://github.com/constructioncompanysoftware/mcp,streamable-http,"Construction scheduling and project management: jobs, schedules, subs, budgets, RFIs, daily logs"
+2026-11-22T16:25:31.528938Z,com.hellotracks/hellotracks,Hellotracks,0.2.0,https://github.com/Hellotracks/hellotracks-cli,streamable-http,"GPS tracking and job dispatch for field teams: see where everyone is, send jobs, plan routes."
+2026-11-22T16:28:47.916777Z,io.github.heavyblotto/caelus-mcp,,0.26.0,https://github.com/heavyblotto/caelus,streamable-http,"41-tool Caelus MCP for validated astrology: charts, transits, Vedic, facts, sky view, observation."
+2026-11-22T16:29:03.338131Z,com.vngroundtruth/groundtruth,,1.0.0,,streamable-http,"Source-linked Vietnam trip feasibility: visa exemption, e-visa domains, storm bans, motorbike law"
+2026-11-22T16:29:59.328941Z,io.github.Berrkaydev/company-imprint-data,Impressum Scraper,1.0.0,,streamable-http,"German company data from the legal notice: legal name, register number, VAT ID, address."
+2026-11-22T16:30:21.69584Z,ai.architool/architool,ArchiTool,0.2.0,,streamable-http,"Architecture design checks: sun path, site climate and buildable envelope. Paid per run."
+2026-11-22T16:34:51.022525Z,io.github.Berrkaydev/company-profile-by-domain,Company Profile by Domain,1.0.0,,streamable-http,"Company profile from a domain: legal data, emails, tech stack, open jobs and social links."
+2026-11-22T16:38:03.982958Z,com.tributepaper/tributepaper,Tribute Paper,1.0.0,,streamable-http,"Funeral program and memorial card designs, obituary and eulogy help, readings and funeral planning."
+2026-11-22T16:44:09.663737Z,com.autorunx/autorunx,AutorunX,1.0.0,https://github.com/bluehans-agency/Autorunx-plugin,streamable-http,"Make AI films, pictures and music on AutorunX: plan, storyboard, generate, edit timeline."
+2026-11-22T16:44:59.850726Z,se.matdata/matdata,Matdata – Swedish food composition data,1.0.0,,streamable-http,"Nutrition facts for 2,600 foods from the Swedish Food Agency, with NNR 2023 reference values."
+2026-11-22T16:45:12.802655Z,io.github.younghwan91/fin-checkup,fin-checkup,0.1.1,https://github.com/younghwan91/fin-checkup,,"Korean listed-company financials from DART filings: 17 ratios with signal, formula, threshold"
+2026-11-22T16:48:03.993736Z,io.github.anardimontlv/mcpwatch,mcpwatch,0.2.2,https://github.com/anardimontlv/mcpwatch,,Check MCP servers' security grades and tool changes before your agent connects. Read-only.
+2026-11-22T16:51:09.692296Z,com.uaisystems/x402-security,UAI x402 Security Tools,1.0.0,,streamable-http,"Pay-per-call security tools for agents: secret, CVE, IAM, Terraform, DNS scans. x402 USDC on Base."
+2026-11-22T16:52:41.95567Z,app.rosmaryn/encyclopedia,Rosmaryn,1.0.0,,streamable-http,"Search the Rosmaryn encyclopedia of Human Design, astrology and numerology, in six languages."
+2026-11-22T16:52:59.809545Z,dev.eqbuilder/marz-greta-lock-network,EQ Builder,1.0.10,,streamable-http,EQ scoring plus a read-only Storelayer matcher and guarded self-install; no website credentials
+2026-11-22T16:55:46.5674Z,io.github.gbenm/fire,Fire,2.10.1,https://github.com/gbenm/fire,,Run your project's configured commands and share long-running dev servers with agents.
+2026-11-22T16:57:22.764644Z,fr.amacunia/clia-laboratory-certificate-expiration-renewal,CLIA Certificate Renewal Sentinel,0.1.0,https://github.com/Marcoco27/clia-certificate-sentinel-mcp,streamable-http,"When does a US clinical laboratory's CLIA certificate expire, and is its renewal window open?"
+2026-11-22T16:57:23.479124Z,fr.amacunia/npdes-permit-expiration-renewal-application-deadline,NPDES Permit Renewal Sentinel,0.1.0,https://github.com/Marcoco27/npdes-permit-renewal-sentinel-mcp,streamable-http,"When is the renewal application of a US water discharge (NPDES) permit due, and does that date bind?"
+2026-11-22T17:02:04.022412Z,io.github.akihidem/migawari,Migawari,1.4.0,https://github.com/akihidem/migawari,streamable-http,"Migawari stands in for AI agents in Japan: shopping, checks, photos, reservations, queueing."
+2026-11-22T17:02:20.58454Z,com.scratchdb/scratchdb,ScratchDB,1.2.0,,streamable-http,"Checked pricing, free plans, GitHub stars and npm downloads for developer and AI tools."
+2026-11-22T17:09:49.660865Z,com.legit2compute/mcp,legit2compute,1.0.0,,streamable-http,"Open LLMs plus image, music, voice, sound effect and video generation on one API key."
+2026-11-22T17:10:20.462358Z,io.github.datenhaus/zato,zato crypto data,2.4.0,,streamable-http,"Crypto data for agents: token security, wallets, gas, prices, ENS, DeFi. Pay per call via x402."
+2026-11-22T17:10:44.679899Z,io.trueinterview/trueinterview,TrueInterview,1.26.0,,streamable-http,"Interview prep by company and round, plus job search and application prep, in your own agent."
+2026-11-22T17:11:40.554393Z,io.github.zororaka00/mcp-kritisi,Kritisi Solidity Audit,1.0.1,https://github.com/zororaka00/mcp-kritisi,,"MCP server for Solidity security audits, NatSpec documentation, and import merging."
+2026-11-22T17:12:35.686489Z,si.mediaatlas/dobitnik,Dobitnik,1.0.0,,streamable-http,"Who just won a Slovenian public contract you can sell to: daily list, call notes"
+2026-11-22T17:12:36.129827Z,si.mediaatlas/nabavnik,Nabavnik,1.0.0,,streamable-http,"Who in the Slovenian public sector buys what you sell, from whom, and what comes next"
+2026-11-22T17:12:36.594954Z,si.mediaatlas/razpisnik,Razpisnik,1.0.0,,streamable-http,"Slovenian and EU public tenders and grants that fit your firm: deadlines, requirements"
+2026-11-22T17:14:00.788217Z,io.github.onlsol/domain-discovery-remotify-mcp,,0.1.0,https://github.com/onlsol/domain-discovery.remotify.run,streamable-http,"Domain search and lookup for any MCP client: availability, registrar, dates, NS, MX and SPF."
+2026-11-22T17:15:44.925707Z,io.github.premkrishn/tails-track,TailsTrack for Busy Pet Parents,1.0.0,https://github.com/premkrishn/TailTrack,streamable-http,Personalized pet care ideas and organization for busy pet parents.
+2026-11-22T17:16:55.91887Z,io.github.rakaaaa/meetplus,MeetPlus,0.3.0,https://github.com/rakaaaa/MeetCon,streamable-http,Create and publish timed MeetPlus meetups and questionnaires from ChatGPT or Claude.
+2026-11-22T17:18:48.991206Z,io.github.licenroute/market-mcp,LicenRoute Market,0.1.0,https://github.com/licenroute/market-mcp,,"Find APIs in the LicenRoute Market, read plans and free trials, get a link a person approves."
+2026-11-22T17:19:16.906924Z,io.github.sonjari/sonjari,Sonjari,0.4.52,https://github.com/sonjari/sonjari,,"Hand web research, file and document work to a free local AI agent on your own PC or Mac."
+2026-11-22T17:19:25.13389Z,com.agentpaystore/muskox3,AgentPayStore Bridge,1.0.0,,streamable-http,AgentPayStore bridge plus x402 endpoints priced in USDC on Base.
+2026-11-22T17:19:42.060374Z,me.agentworld/agentworld,AgentWorld,1.0.0,,streamable-http,"Live AI agent economy on Base: agents, jobs, inventions, x402 payments."
