@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-11-22T14:25:31.823019Z,by.ai-tender/tenders,AI-TENDER — open procurements of Belarus,1.1.0,https://github.com/Apex-prim/ai-tender-mcp,streamable-http,"Open public procurements of Belarus: search by words or customer UNP, source link for each."
+2026-11-22T14:26:00.716717Z,io.github.terror668/spritesheetgen,SpriteSheetGen,0.3.0,https://github.com/terror668/spritesheetgen,,"AI sprite sheets for 2D games: generate a character, animate it, export PNG, JSON and Godot files."
+2026-11-22T14:26:46.439509Z,com.revemaker/revemaker,Revemaker,0.1.0,,streamable-http,"Make videos from product photos, transcribe recordings and remove image backgrounds."
+2026-11-22T14:39:44.297188Z,io.github.atomno-mcp/mcp-zakupki,mcp-zakupki,0.2.1,https://github.com/atomno-mcp/mcp-zakupki,,MCP server for Russian government procurement data (44-FZ / 223-FZ / 615-PP).
+2026-11-22T14:40:23.985015Z,com.fortiknight/drawbridge,Drawbridge Network Diagrams,1.7.0,,streamable-http,"Routed, editable network diagrams from CDP/LLDP output, CSV or Graphviz DOT, as draw.io files"
+2026-11-22T14:42:49.125511Z,cn.ctaning/ka-forge,KA-Forge,1.0.0,https://github.com/REPLACE_WITH_ACCOUNT/ka-forge,streamable-http,中文 AI 文本去 AI 腔改写：5 档强度，只改句子不改事实，网页 / API / MCP 三入口
+2026-11-22T14:42:54.351544Z,net.cegtec/research-agent,Research Agent by CegTec,1.0.0,,streamable-http,"Source-backed company research, DACH lists, enrichment and ICP scoring. Account required."
+2026-11-22T14:52:53.934526Z,io.github.fortun8te/godspeed,,1.1.12,https://github.com/fortun8te/godspeed,,Local macOS computer use MCP for Apple Silicon. Control Mac apps and Chrome.
+2026-11-22T14:56:11.307935Z,ai.ocrrouter/ocrrouter,OCRRouter,0.2.0,,streamable-http,"OCR for agents: PDFs and images to Markdown or JSON, routed across OCR models. Free models included."
+2026-11-22T14:59:25.12112Z,io.github.guuskeunen/sprint-review,sprint-review,0.4.0,https://github.com/guuskeunen/sprint-review,,"Write a sprint review deck from git history, with every line checked against the real commits."
+2026-11-22T14:59:25.780889Z,io.github.silenceminds/verity-analytics,Verity Analytics,1.0.0,,streamable-http,"Find breakout YouTube videos, Reddit/HN topics, hook scores & X/LinkedIn posts. 5 free scans."
+2026-11-22T15:05:55.076519Z,com.visdenda/public,Visdenda MCP,2.2.0,,streamable-http,"Account MCP for Search Console, audits, AI visibility and fixes. OAuth sign-in."
+2026-11-22T15:07:15.999917Z,com.maptake/maptake,Maptake,1.0.0,,streamable-http,"Make animated map videos from your AI: routes, flags, 3D terrain, camera moves, MP4 export."
+2026-11-22T15:09:07.797756Z,dev.pinscope/pinscope,Pinscope,1.0.0,,streamable-http,"Logs, decoded crashes, metrics and firmware CVEs of ESP32, Zephyr and Pico devices in the field."
+2026-11-22T15:09:23.10379Z,com.sticklight/mcp,Sticklight,1.0.0,,streamable-http,"Build, edit and publish websites and apps with Sticklight's AI builder."
+2026-11-22T15:13:58.30062Z,uk.co.whatproperty/mcp,What Property,1.0.0,,streamable-http,"Checks UK property deals as a BTL, HMO, flip, BRRR or serviced let. Free account: 3 free checks."
+2026-11-22T15:14:18.733675Z,io.github.Lihaila/dissentry,Dissentry,0.10.3,https://github.com/Lihaila/dissentry,streamable-http,Multi-model AI fact-checker (Community Notes for AI) and second opinion across LLM families.
+2026-11-22T15:15:41.656052Z,io.github.harrythex42/unsliced,Unsliced,0.1.1,https://github.com/harrythex42/Unsliced,,Markdown or HTML to searchable PDFs that never slice tables or diagrams in half.
+2026-11-22T15:15:46.899251Z,com.makemancer/makemancer,Makemancer,1.0.0,https://github.com/makemancer/makemancer-marketplace,streamable-http,"Generate and edit images, video, voiceovers, music and sound effects from chat."
+2026-11-22T15:16:34.315516Z,fi.spotvahti/spotvahti,SpotVahti,1.0.0,https://github.com/synthentica/spotvahti-ai,streamable-http,"Compare Finnish electricity contracts by yearly cost, plus spot price statistics and grid fees."
+2026-11-22T15:16:54.976217Z,de.bookvia/bookvia,Bookvia,0.2.0,,streamable-http,"Find verified local businesses in Germany, read prices, send quote or appointment requests."
