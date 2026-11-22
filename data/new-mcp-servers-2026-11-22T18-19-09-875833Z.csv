@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-11-22T17:26:58.350306Z,io.taghost/mcp,TagHost Edge Cloud & Hosting,1.1.0,https://github.com/georgennad/TagHost,streamable-http,"Autonomous edge hosting, deployments, CMS collections, D1 SQL, TagMail, domains & edge commerce."
+2026-11-22T17:30:34.689924Z,xyz.botvbot/botvbot,BOTVBOT,1.1.0,,streamable-http,"Coach your AI fighter: see why it lost, rewrite its plan, start a ranked fight."
+2026-11-22T17:31:14.81203Z,io.github.akihidem/japan-data-tools,Japan Data Tools,0.1.0,,streamable-http,"Free Japanese public-data tools for AI agents: holidays, business days, wareki, tax, postcodes."
+2026-11-22T17:31:24.741563Z,com.creditguruhq/creditguru,Credit Guru,1.0.0,,streamable-http,"Credit card facts, ratings, best-of lists, bank bonus offers and guides from Credit Guru."
+2026-11-22T17:33:32.544265Z,com.1234asdf/mcp,1234asdf,1.0.0,,streamable-http,"Search and read the articles you saved in 1234asdf, with quotes from the original. Read-only."
+2026-11-22T17:37:11.359353Z,io.github.RizkySugiharto/merchant-scam-guard-mcp,Merchant Domain Scam & Rug-Pull Guard MCP,1.0.0,https://github.com/RizkySugiharto/merchant-scam-guard-mcp,streamable-http,Pre-purchase merchant scam & checkout URL verifier for AI agents (x402 USDC on Base).
+2026-11-22T17:39:09.923811Z,app.symban/symban,Symban,1.0.0,,streamable-http,"Kanban board for people and AI agents. Agents take cards, report status and ask for your approval."
+2026-11-22T17:41:18.895714Z,com.edakon/herramientas,EDAKON · herramientas del ciclo inmobiliario,1.0.0,,streamable-http,"Calculadoras de obra y alquiler en España (bajas temerarias, IRAV, garantías LOE), glosario y guías"
+2026-11-22T17:42:23.334401Z,io.github.armanalabsai/arl-protocol,ARL Protocol,0.2.1,https://github.com/armanalabsai/arlcoin.io,streamable-http,"Escrow and verification for AI agent jobs on Base: check tasks, read verified records and scores."
+2026-11-22T17:43:24.551906Z,com.agentmeetsagent/agent-meets-agent,Agent Meets Agent,0.4.0,https://github.com/PKSaaS/agent-meets-agent-mcp,streamable-http,"Network where company AI agents find each other, ask questions and agree calls."
+2026-11-22T17:46:54.476151Z,ai.deployit/product-expert,DeployIt,2.0.0,,streamable-http,"Every employee asks your codebase from Claude, without access to it. Statistics on each developer."
+2026-11-22T17:47:47.001Z,com.aquedra/run,Aquedra Run,0.1.0,,streamable-http,"Pay-per-call GIS tools for AI agents: coordinates, measurement, reprojection, geodata conversion."
+2026-11-22T17:48:52.047972Z,io.github.lijiumixin/unhidea-research-mcp,UnHideA Wall Street Research MCP,1.0.0,https://github.com/lijiumixin/unhidea-research-mcp,streamable-http,"Wall Street sell-side equity research MCP: 14 tools for search, cross-bank packs, and replay."
+2026-11-22T17:49:43.406532Z,io.github.zhizhiheng/kaiprint,KaiPrint,0.0.2,https://github.com/zhizhiheng/kaiprint,,Read and edit photo metadata and render camera-logo watermarks in a local photo directory.
+2026-11-22T17:52:30.353662Z,io.github.fean-developer/mongodb-readonly-mcp,MongoDB Read-Only MCP,2.0.0,https://github.com/fean-developer/mongodb-mcp,,"Read-only MongoDB queries with database, collection and field policies."
+2026-11-22T17:53:00.987551Z,io.github.ssemrau/biuro-help,Biuro HELP,1.0.0,,streamable-http,"Przygotowuje formularz zapytania do Biura HELP o księgowość, kadry i płace."
+2026-11-22T17:54:08.225626Z,io.github.webberdoocom/wai-mcp,Webberdoo Agent Intelligence,0.1.0,https://github.com/webberdoocom/wai-mcp,,"UK company verification, due diligence, smart contract and token allowance reports via x402."
+2026-11-22T17:55:20.19034Z,io.github.lemonbanan4/rulecloud,RuleCloud Guardrails,1.0.0,https://github.com/lemonbanan4/rulecloud,streamable-http,"Guardrail scans and rule generation for AI agents via scan_code, get_default_rules, and suggest_fix."
+2026-11-22T17:55:55.985489Z,cn.net.sixu-ai/moyan-audit,Moyan Audit — Agent Session Security Audit,0.1.0,,streamable-http,"Security audit of AI-agent session records: 25 checks, three-level verdict, per-check evidence."
+2026-11-22T17:56:07.427084Z,gallery.bookmark/x-bookmarks,Bookmark.gallery,1.0.0,,streamable-http,"Search and read your saved X (Twitter) bookmarks, likes, images, tags, and threads (read-only)."
+2026-11-22T18:00:14.216034Z,dev.creditkit/mcp,CreditKit,1.0.0,,streamable-http,"Set up credits, a paywall and Stripe checkout in your AI app (Test Mode, OAuth sign-in)."
+2026-11-22T18:04:50.125536Z,com.katasend/mcp,Kata Send,1.0.0,https://github.com/katasend/mcp,streamable-http,"Cold email for AI agents: send to a lead list, follow up and read replies from your agent."
+2026-11-22T18:10:48.15091Z,cloud.hutir/hosting,hutir,0.1.0,,streamable-http,"Hosting in Ukraine that your AI agent runs: apps, Postgres, deploys, logs, S3, VMs. Paid in UAH."
+2026-11-22T18:10:59.254424Z,io.github.malkreide/swiss-environment-mcp,,V0.7.1,https://github.com/malkreide/swiss-environment-mcp,,"BAFU environmental data, NABEL air quality, hydrology"
+2026-11-22T18:15:41.026418Z,io.github.shouteck/omakase-box,"Omakase Box — Delegate Coding Tasks, Solve Bounties",0.4.0,https://github.com/shouteck/omakase-box,streamable-http,Stuck on a coding task? Post it; another agent finishes it. Or solve. A human approves and pays.
+2026-11-22T18:15:56.134755Z,io.github.darizae/evidence-driven-qa,Evidence-Driven QA,0.1.0,https://github.com/darizae/qa-toolkit,,"Free MCP tools for API QA questionnaires, indexed test cases and reference audits."
