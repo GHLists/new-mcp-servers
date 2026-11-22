@@ -9,43 +9,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 12:21 UTC
+## Latest list — 2026-11-22 13:21 UTC
 
-New MCP servers published between 2026-11-22 11:20 UTC and 2026-11-22 12:21 UTC.
+New MCP servers published between 2026-11-22 12:21 UTC and 2026-11-22 13:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-22T12-21-13-611557Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-22T13-21-08-968504Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-22 11:23:08 | com.go2trip.mcp/go2trip | Go2Trip | 1.0.0 | Go2Trip, your travel solution in chat: search flights at live prices and book o… |
-| 2026-11-22 11:25:39 | [io.github.holtwick/briefing](https://github.com/holtwick/briefing) | Briefing | 1.0.0 | Create end-to-end encrypted Briefing video rooms and invitations; moderator lin… |
-| 2026-11-22 11:29:17 | io.github.youxiage/qinglian-coupon | 轻链查券｜多平台商品优惠查询 | 1.0.0 | Free coupon lookup for Taobao/Tmall, JD, Pinduoduo and Douyin with affiliate pu… |
-| 2026-11-22 11:29:25 | [io.github.image-charts/image-charts-mcp](https://github.com/image-charts/image-charts-mcp) | Image-Charts | 1.0.1 | Turns a chart request into a permanent, hosted Image-Charts image URL that embe… |
-| 2026-11-22 11:30:20 | [io.github.tunguyen1993/antigravity-x402-mcp-gateway](https://github.com/tunguyen1993/antigravity-x402-mcp-gateway) | Antigravity x402 & MCP Gateway | 1.0.0 | Deterministic security, compliance, finance, and regulatory APIs via Streamable… |
-| 2026-11-22 11:34:09 | [com.globalpiggy/onzip](https://github.com/NodajiFi-Tokenomy/NodajiFi-Ecosystem) | ONZIP | 1.0.0 | ONZIP home services: USDC-payable products and x402 payment terms for orders a… |
-| 2026-11-22 11:35:01 | cl.chilerutempresa/chilerutempresa | ChileRutEmpresa | 1.1.0 | Consulta empresas chilenas por RUT o nombre: SII, Boletín Concursal, multas lab… |
-| 2026-11-22 11:45:06 | [com.yarnnn/workspace](https://github.com/Kvkthecreator/yarnnnn) | yarnnn | 1.1.0 | AI that works, like you: in your own files, with every change signed. |
-| 2026-11-22 11:45:18 | [io.github.cstksniper/hippo-mcp](https://github.com/cstksniper/hippo-mcp) | HippoMCP | 0.2.3 | MCP-native long-term memory for AI agents: local-first, pip-installable, native… |
-| 2026-11-22 11:47:44 | com.mcfminingindex/mining-index | MCF Mining Index | 1.0.0 | Mining titles, holders, parent companies, changes and maps: Australia, Canada,… |
-| 2026-11-22 11:48:01 | [io.github.notformal/adsbeast](https://github.com/notformal/adsbeast-plugins) | ADS Beast | 1.3.6 | Ad account audits, analytics, leads and campaign changes that run only from an… |
-| 2026-11-22 11:48:01 | [io.github.notformal/ad-spec-guard](https://github.com/notformal/adsbeast-plugins) | Ad Spec Guard | 1.0.0 | Ad platform character limits, creative specs, A/B significance, UTM and policy… |
-| 2026-11-22 11:48:19 | [io.github.MLwithDyy/rt-imaging-mcp](https://github.com/MLwithDyy/rt-imaging-mcp) |  | 0.1.1 | Local read-only MCP server for DICOM, NIfTI and RT data with PHI-safe output. |
-| 2026-11-22 11:50:34 | [io.github.TGS-checker/tracecheck](https://github.com/TGS-checker/tracecheck-mcp) | TraceCheck | 0.2.0 | Scores an AI agent's execution trace 0-100 and returns concrete fixes. Free, no… |
-| 2026-11-22 11:50:48 | io.forlab/geo | ForLab Geo API | 1.0.0 | Countries, admin units, Turkey's official mahalle list, boundaries, timezones,… |
-| 2026-11-22 11:54:14 | app.launchray/launchray | Launchray | 1.0.0 | Finds what Apple and Google would reject in your mobile app before you submit,… |
-| 2026-11-22 11:57:48 | io.gorunner/mcp | GoRunner | 1.0.2 | Let your AI app build, test, publish and run workflow automations on GoRunner. |
-| 2026-11-22 11:58:27 | [io.github.gablooge/punk-records](https://github.com/gablooge/punk-records) | Punk Records | 0.5.0 | Your agents' memories (CLAUDE.md, AGENTS.md, napkins, rules) across projects an… |
-| 2026-11-22 12:00:09 | com.faxvio/faxvio | Faxvio | 1.0.0 | Fax lookups: which countries a fax can go to, how to dial a number, page cost a… |
-| 2026-11-22 12:00:13 | com.kiuser/mcp | KI User | 1.0.0 | JTL-Wawi ERP data, e-mail, CRM and marketplace tools for AI assistants. Sign in… |
-| 2026-11-22 12:01:24 | com.pokemonlore/pokemonlore | PokemonLore MCP | 1.0.0 | Pokédex, team coverage, type matchups, stat calculator, TCG Pocket and Simplifi… |
-| 2026-11-22 12:02:02 | ai.geckoboost/mcp | GeckoBoost | 1.0.0 | Read your AI visibility figures and action plan, and log progress, from any MCP… |
-| 2026-11-22 12:09:13 | [io.github.eLh0m3r0/dbmastermind-mcp](https://github.com/eLh0m3r0/db-mastermind) | DB Mastermind | 1.5.0 | Explore and query PostgreSQL, SQL Server, Oracle, MySQL, SQLite and more. Read-… |
-| 2026-11-22 12:09:58 | com.legalnaut/legalnaut | Legalnaut | 1.0.0 | Search, read and cite litigation case files, with the rights you hold in each m… |
-| 2026-11-22 12:10:33 | io.github.lurnake/folkscale | Folkscale | 1.1.0 | Test products, prices and ad copy with country-calibrated synthetic consumer pa… |
-| 2026-11-22 12:12:04 | [io.github.businesskitai/agent](https://github.com/businesskitai/businesskit-agent) | BusinessKit Agent | 1.0.5 | Universal BusinessKit agent workspace: POS, invoicing, restock, CRM, and websit… |
-| 2026-11-22 12:15:57 | [io.github.vyomi-cloud/vyomi](https://github.com/vyomi-cloud/appliance) | Vyomi | 1.4.0 | Local AWS, GCP and Azure simulator for coding agents: service coverage, SDK env… |
-| 2026-11-22 12:17:14 | [tech.easymailpro/easymailpro](https://github.com/mdsolutionsdk/easymailpro-mcp) | EasyMail Pro | 0.1.0 | Local MCP server for EasyMail Pro: search, read, draft, organize, and send emai… |
-| 2026-11-22 12:21:03 | com.x2chat/mcp | X2Chat | 1.0.0 | Manage your X2Chat channels, bots and mini-apps and search X2Chat developer doc… |
+| 2026-11-22 12:25:03 | co.brightkey/education-data | BrightKey Education Data | 0.1.3 | Bilingual (EN+ZH) education data: 297 universities, 233 intl schools, degree-RO… |
+| 2026-11-22 12:26:08 | ai.ellul/services |  | 1.0.0 | ellul.ai: an agency's fixed prices, what other agencies publish, and a quote re… |
+| 2026-11-22 12:26:39 | io.github.nordictender/auto-seo | Auto-SEO | 1.0.0 | Scan websites and read SEO reports, keywords, rankings and recommendations from… |
+| 2026-11-22 12:26:39 | io.github.nordictender/matchjob | matchjob.dk | 1.0.0 | Search active Danish jobs and monthly labour-market reports from matchjob.dk. |
+| 2026-11-22 12:26:39 | io.github.nordictender/matchpilot | MatchPilot | 1.0.0 | IT consultant assignments, consultants, CVs and applications in MatchPilot.dk (… |
+| 2026-11-22 12:26:39 | io.github.nordictender/meetnotes | meetnotes | 1.0.0 | Search your meeting notes, transcripts, decisions and action items from meetnot… |
+| 2026-11-22 12:26:40 | io.github.nordictender/memoryraven | MemoryRaven | 1.0.0 | Read-only context from your desktop activity, so your AI assistant knows what y… |
+| 2026-11-22 12:26:40 | io.github.nordictender/qworker | QWorker | 1.0.0 | Your QWorker work assistant: tasks, notes, documents, meeting minutes and tende… |
+| 2026-11-22 12:26:40 | io.github.nordictender/tedbid | TedBid | 1.0.0 | Work on public tender bids: requirements, deadlines, draft answers, documents a… |
+| 2026-11-22 12:29:19 | com.budgetabode/mcp | BudgetAbode | 1.0.0 | Household budget: track income, expenses, savings and receipts; budgets and mon… |
+| 2026-11-22 12:29:39 | dk.ai-foralle/ai-foralle | AI for alle: priser og fakta om AI-værk… | 1.0.0 | Danske AI-priser, prishistorik, tokenpriser og fakta med kilder, datoer og moms… |
+| 2026-11-22 12:30:38 | ai.adlab/adlab | AdLab | 1.0.0 | Track paid traffic and run campaigns, routing, postbacks and optimization rules… |
+| 2026-11-22 12:33:51 | academy.jasonlau/classes | Jason Lau Academy | 1.0.0 | Vibe coding classes for teens in Hong Kong: class info, AI tool age limits, gui… |
+| 2026-11-22 12:35:45 | [io.github.Kongus/site](https://github.com/Kongus/site) | Kongus Site MCP Server | 1.0.0 | Serviços, cases, soluções, FAQ e canais de contato da Kongus (kongus.com.br). S… |
+| 2026-11-22 12:36:02 | ru.cpo-dv/catalog | ЦПО — оборудование для общепита и торго… | 1.0.0 | Оборудование для общепита и торговли: Владивосток, Хабаровск. Цены, склад, дост… |
+| 2026-11-22 12:43:33 | [app.charmotion/charmotion](https://github.com/charmotion/charmotion-mcp) | Charmotion | 1.4.0 | Design characters and logos with AI and turn them into interactive Rive animati… |
+| 2026-11-22 12:45:44 | com.zapmatte/green-screen-remover | Zapmatte Green Screen Remover | 1.0.0 | Remove green or blue screens from videos. Get ProRes 4444, transparent WebM, al… |
+| 2026-11-22 12:47:48 | email.kavik/email-verification | Kavik.email Email Verification | 1.0.0 | Verify email addresses with provider-specific checks: single, lists, bulk jobs… |
+| 2026-11-22 12:50:47 | net.allclicks/search-console | allclicks | 1.0.0 | Google Search Console for all your sites at once: clicks, queries, pages, Disco… |
+| 2026-11-22 12:52:13 | [io.github.pat-the-cat-cat/part-guide](https://github.com/pat-the-cat-cat/parts.guide) | Part Guide | 1.0.0 | Monthly PC-parts popularity rankings: best-in-category, compare, and trending,… |
+| 2026-11-22 12:53:38 | [box.snapshot/mcp](https://github.com/snapshot-labs/sx-monorepo) | Snapshot | 0.1.0 | Query Snapshot governance data, and vote, propose or follow spaces for the user. |
+| 2026-11-22 12:58:10 | com.neuralroles/ai-jobs | Neural Roles: AI jobs | 1.0.0 | Search open AI and machine learning jobs, and AI training work, from employers'… |
+| 2026-11-22 13:04:25 | [cc.wealthos/mcp](https://github.com/vamelnyk/wealthos-app) | Wealthos | 1.2.0 | Wealth forecasting for expats in Europe. 50 read/write tools: accounts, goals,… |
+| 2026-11-22 13:05:36 | [io.github.crowwdev/crowllm-mcp](https://github.com/crowwdev/crowllm-mcp) | CrowLLM | 0.1.1 | Search CrowLLM models, read per-million-token prices, and run chat completions… |
+| 2026-11-22 13:07:49 | [io.github.cmendezs/mcp-einvoicing-de](https://github.com/cmendezs/mcp-einvoicing-de) |  | 0.11.5 | German e-invoicing MCP server: ZUGFeRD 2.x, XRechnung 3.x, EN 16931, KoSIT vali… |
+| 2026-11-22 13:08:19 | com.autoalerto/mcp | AutoAlerto | 1.0.0 | Search and filter cars from authorised dealers in Poland and Germany, with emai… |
+| 2026-11-22 13:08:39 | [com.namepraise/namepraise](https://github.com/ivanaka/worthbuy) | Namepraise | 7.0.0 | Domain-name brand evaluation: 0-100 score with availability and registration-da… |
+| 2026-11-22 13:09:02 | [io.github.pat-the-cat-cat/part-guide-ai](https://github.com/pat-the-cat-cat/parts.guide) | Part Guide AI Catalog | 1.0.0 | AI model & tool popularity rankings: search, compare, and best-in-category, fro… |
+| 2026-11-22 13:09:03 | [io.github.pat-the-cat-cat/askbestie-beauty](https://github.com/pat-the-cat-cat/parts.guide) | Ask Bestie Beauty | 1.0.0 | Makeup & beauty product popularity rankings: search, compare, and best-sellers,… |
+| 2026-11-22 13:10:58 | app.invohub/connect | InvoHub Connect for QuickBooks | 0.10.4 | Hosted MCP connector for QuickBooks Online: records, reports and writes with pe… |
+| 2026-11-22 13:15:17 | [io.superlines/mcp](https://github.com/Superlines/mcp-server) | Superlines | 1.0.0 | See how AI assistants mention, cite and rank your brand, and which competitors… |
 
 ## Data source
 
