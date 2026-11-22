@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-11-22T03:19:25.034621Z,com.bugotter/mcp,BugOtter,0.4.0,,streamable-http,"One list for uptime, analytics, revenue and errors. Coding agents read it over MCP."
+2026-11-22T03:24:01.52069Z,io.github.jamessvn/registry-pages,Registry Pages,1.0.0,,streamable-http,"French company data from the official Sirene register: lookup by SIREN, name search, VAT check."
+2026-11-22T03:24:57.178908Z,com.merlonix/monitoring,Merlonix Monitoring,1.0.3,https://github.com/cmhenry79/merlonix-mcp,streamable-http,"Agency monitoring: uptime, SSL, DNS, blocklists, AI visibility, MCP health. 16 tools, 8 no-auth."
+2026-11-22T03:30:18.676597Z,io.github.Amnibro/amnitex,AmniTeX,0.4.8,https://github.com/Amnibro/amnitex,,"Saves context and tokens in Claude Code, Cursor and other AI coding assistants. Free and local."
+2026-11-22T03:31:03.681163Z,ai.evinor/mcp,Evinor,0.3.0,,streamable-http,"Search real-world incidents, watch beats for new events, and file structured event reports."
+2026-11-22T03:31:26.747134Z,com.draihub/mcp,Dr. AI Hub,1.1.0,,streamable-http; streamable-http,Find doctors in Egypt by city and specialty; condition and medicine pages in Arabic and English.
+2026-11-22T03:45:35.023713Z,report.tbx/tesla-vin-report,Tesla VIN Report,1.0.0,,streamable-http,"Check a used Tesla by VIN: what Tesla's record says about FSD, the computer, the pack."
+2026-11-22T03:47:54.184985Z,app.dayroute/planner,DayRoute,1.0.0,,streamable-http,"Read-only access to your DayRoute routes, orders, drivers and reports, with your own sign-in."
+2026-11-22T03:48:47.682309Z,ca.sophialabs/nomos,Nomos - Deterministic Git & AST Governance for AI Coding Agents,4.29.0,https://github.com/mgantlett/nomos,streamable-http,"Live GitHub repo AST X-Ray, 42 coding-agent DoD gates, Git worktree guards & brownfield baselines."
+2026-11-22T03:49:48.317415Z,io.github.dislop-ai/dislop,dislop,0.6.0,https://github.com/dislop-ai/dislop,streamable-http,"Zero-dependency anti-slop linter & Cloud MCP for AI-written docs, slides, and web UI."
+2026-11-22T03:50:43.552061Z,dev.pages.linkvet/linkvet,LinkVet,1.0.0,,streamable-http,"Verify a URL before citing it: live/404/blocked, final URL, title, price, dates, safe_to_cite."
+2026-11-22T03:59:41.470835Z,io.github.architsharm/agentfox,,0.5.4,https://github.com/architsharm/agentfox,,Open source control plane for AI agents: least privilege on tool calls and a checkable audit trail.
+2026-11-22T04:03:44.418887Z,com.pc-cn/industrial-sourcing,The Power Contractor — Genuine OEM Industrial Parts & Iraq/MENA Sourcing,1.0.0,,streamable-http,"Genuine OEM power plant & industrial parts search, <150ms BOM validation, Iraq/MENA B2B RFQ."
+2026-11-22T04:03:45.081358Z,ai.splitthetab/split-the-tab,Split the Tab,1.0.0,,streamable-http,Split a restaurant receipt by item and get exact totals. No sign-in needed.
+2026-11-22T04:03:45.443295Z,ai.splitthetab/split-the-tab-account,Split the Tab (signed in),1.0.0,,streamable-http,Split receipts and list your past splits. Sign in with your Split the Tab account.
+2026-11-22T04:05:38.336744Z,life.wirk/wirk-mcp,WIRK,0.4.39,https://github.com/wirkspace/wirk-mcp,,"WIRK's five tools for agents over MCP: status, query, write, review and show"
+2026-11-22T04:08:33.933419Z,com.manhourplan/agent-ready-scan,Agent-Ready Scan,1.1.0,,streamable-http,Free Agent-Ready scan: score how usable a public website is for AI agents. No key.
+2026-11-22T04:09:49.583497Z,io.github.DavidHamilton-cb/contextbolt-seo,ContextBolt SEO,1.0.0,,streamable-http,"Hosted SEO MCP: live keyword, ranking, backlink and AI-visibility data in Claude, Cursor and Codex."
+2026-11-22T04:14:49.077364Z,com.colurian/crm,Colurian CRM,1.0.0,,streamable-http,"CRM for small teams: search and update leads, deals, cases and reports, with your own permissions."
