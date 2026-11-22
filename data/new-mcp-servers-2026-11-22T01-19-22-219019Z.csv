@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-11-22T00:19:38.163836Z,com.iprwise/mcp,IPRwise — Global IP & WIPO Intelligence,1.2.0,https://github.com/asimokat/iprwise-eklenti,streamable-http,"Country IP facts (191 offices), deadlines, fees, WIPO Madrid/Hague/PCT data & IP attorneys."
+2026-11-22T00:22:47.817305Z,io.github.commentexport/mcp-server,,1.0.0,https://github.com/commentexport/mcp-server,streamable-http,"Combly MCP: load, search and export YouTube, TikTok and Instagram comments; draw giveaway winners."
+2026-11-22T00:23:13.701743Z,io.webfetch/webfetch,Webfetch.io,1.0.0,https://github.com/tuxxin/webfetch-sdk,streamable-http,"Fetch any URL as markdown, text, HTML or selector-built JSON; search Google, Bing, Yahoo and Brave."
+2026-11-22T00:29:51.258429Z,io.megido/observed-revenue-market-research,"Megido: niche, competitor and traffic research on sites with observed revenue",1.0.0,https://github.com/megido-io/megido-mcp,streamable-http,"Niche, competitor and traffic research on 400K+ websites with observed revenue, as MCP tools."
+2026-11-22T00:32:03.928649Z,com.adakti/journal,Adakti,1.0.0,,streamable-http,"Read-only access to your Adakti trading journal: trades, prop firm challenges, payouts and stats."
+2026-11-22T00:33:52.741082Z,app.farefacts/fare-facts,Fare Facts,1.0.0,,streamable-http,"Dated, sourced facts on US air passenger rights and how to read an airline ticket."
+2026-11-22T00:36:50.199214Z,live.issued/issued,issued.live,1.0.0,https://github.com/tuxxin/mcp,streamable-http,"Certificate transparency and DNS history: certificates, past IPs, reverse IP and new domains."
+2026-11-22T00:38:19.114518Z,io.github.MyselfHamza/mm-nutrition,MM Nutrition — Food Diary & Nutrient Tracker,0.4.5,https://github.com/MyselfHamza/mm-nutrition-mcp,streamable-http,"Free food diary for ChatGPT: log meals by chat, track calories, macros and 54 nutrients."
+2026-11-22T00:38:31.469327Z,au.com.primitiveai/paper,primitive paper,0.1.0,https://github.com/Primitivelabai/paper-plugin-cursor,streamable-http,"Docs, slides, canvases, sites, forms and floor plans you build alongside your agent."
+2026-11-22T00:39:55.60656Z,io.github.wayfarer6/vamp-mcp-vault-macos,VAMP Vault for Apple Silicon,0.1.18,https://github.com/wayfarer6/vamp-mcp,,"Manage KeePassXC credentials, VeraCrypt volumes and SSH Vaults on Apple Silicon."
+2026-11-22T00:40:04.949243Z,io.github.wayfarer6/vamp-mcp-macos,VAMP MCP for Apple Silicon,0.3.20,https://github.com/wayfarer6/vamp-mcp,,"Manage local UTM VMs, SSH hosts and reviewed workflows on Apple Silicon."
+2026-11-22T00:51:54.988808Z,ai.qaf/qaf,Qaf,1.0.0,,streamable-http,Search and read classical Islamic books in Arabic. Sign in with a Qaf account.
+2026-11-22T00:52:38.962202Z,com.clicndone.pdf/pdf-tools,Clic'n Done PDF,1.0.0,,,"PDF to Word that keeps the layout, merge, split, compress, OCR, PDF/A and more"
+2026-11-22T00:55:09.936325Z,io.github.benmcalillycreative/settle-watch,Settle Watch,1.0.0,https://github.com/benmcalillycreative/x402-trust-board,streamable-http,"Check an x402 or MPP API before your agent pays it: uptime, price and a proven payout address."
+2026-11-22T00:57:48.903281Z,io.github.paradedb/mcp,ParadeDB,1.1.0,https://github.com/paradedb/website,streamable-http,"Search and read ParadeDB documentation, tutorials, and examples."
+2026-11-22T00:58:24.652937Z,io.github.SeanHogg/builderforce,Builderforce,1.1.0,https://github.com/SeanHogg/Builderforce.ai,streamable-http,"Run tickets, boards, OKRs and cloud coding agents in your Builderforce workspace"
+2026-11-22T01:00:15.370155Z,io.github.psyb0t/keepassbox,KeePassBox,0.1.1,https://github.com/psyb0t/docker-keepassbox,,"Manage KeePass vaults, entries, and TOTP over MCP."
+2026-11-22T01:01:29.391055Z,ai.whasp/whasp,whasp,1.0.0,,streamable-http,Give your AI agent its own real WhatsApp number: buy numbers and reply to chats over MCP.
+2026-11-22T01:03:06.459704Z,com.minopa/mcp,Minopa,1.0.0,,streamable-http,"Draft, schedule and publish social media posts to Instagram, TikTok, LinkedIn, X and more."
+2026-11-22T01:08:51.055948Z,com.overlayastro/together,Overlay: Together,1.0.0,,streamable-http,"A pair's composite Sun, Moon and Venus signs and Tandem name from two birthdays. Nothing stored."
+2026-11-22T01:14:26.979393Z,com.centralonet/con,"CON, Central Operating Network",1.0.0,,streamable-http,"Solana launch records and memecoin checks against devs, wallets and flags. Information only."
+2026-11-22T01:15:31.840477Z,io.github.meahmedh/dubnivo,Dubnivo,1.0.0,,streamable-http,Dub videos into 18 languages with natural AI voices and cut short captioned clips.
