@@ -1,0 +1,21 @@
+created_at,server,title,version,repository,transports,description
+2026-11-23T03:22:33.855079Z,com.eliteaiempire/cohostbnb,CoHostBnB,1.0.0,https://github.com/iskra-astudillo/cohostbnb-mcp,streamable-http,Read a CoHostBnB booking or open the last message a guest sent to your rental inbox.
+2026-11-23T03:29:19.320549Z,com.anibg/backgrounds,AniBG,1.0.0,,streamable-http,"Free anime backgrounds without characters: search, direct 1920x1080 links. No auth."
+2026-11-23T03:29:59.972996Z,com.eliteagenticsolutions/eas,Elite Agentic Solutions,1.0.0,,streamable-http,"Governed AI agents: read plans, pricing and product facts. Read-only, no sign-up."
+2026-11-23T03:30:01.4422Z,com.eliteaiempire/trustdeskai,TrustDeskAI,1.0.0,,streamable-http,Abuse-report desk for hosting providers: read plans and how triage works.
+2026-11-23T03:30:02.383788Z,com.eliteaiempire/empiresentinel,Empire Sentinel,1.0.0,,streamable-http,Uptime and monitoring service: read plans and capabilities.
+2026-11-23T03:30:03.455181Z,com.eliteaiempire/empireaudit,Empire Audit,1.0.0,,streamable-http,Tamper-evident audit ledger for AI actions: read plans and verification facts.
+2026-11-23T03:30:04.586786Z,com.eliteaiempire/bugclass,BugClass,1.0.0,,streamable-http,Static checks for silent-failure bugs in AI-written code: read plans and detector list.
+2026-11-23T03:30:05.576053Z,com.eliteaiempire/reviews,Empire Review Network,1.0.0,,streamable-http,Product reviews and comparisons: read published reviews and methodology.
+2026-11-23T03:30:06.852236Z,com.eliteaiempire/empiresecurity,Empire Security,1.0.0,,streamable-http,Security checks and hardening guides: read plans and what each check covers.
+2026-11-23T03:37:21.73207Z,io.github.tahmidbintaslim/hatchlock,HatchLock,1.3.0,https://github.com/tahmidbintaslim/HatchLock,,Stops AI code from hiding type errors: flags @ts-ignore/as any and runs your local compilers.
+2026-11-23T03:40:44.068307Z,io.github.Nakagawa-master/ai-answer-guard,AI Answer Guard — Check AI Answers & Actions Before Claiming Success,1.2.1,https://github.com/Nakagawa-master/nakagawa-theory-archive,,"Check AI replies and actions: flag failed tools, copied evidence and missing permission before use."
+2026-11-23T03:42:44.472316Z,io.github.chaw1/datakeel,Datakeel,0.27.0,https://github.com/chaw1/datakeel,,"Local-first workbench for auditable AI datasets, traceable SQL metrics, and approved actions."
+2026-11-23T03:51:56.052352Z,com.tradermarketcap/prices,TraderMarketCap,1.0.0,,streamable-http,"Live crypto prices, market caps and exchange markets for 600+ coins, each with a public source link."
+2026-11-23T03:55:06.757764Z,xyz.urlgate/mcp,URLGate,2.0.0,https://github.com/Arithmos111/urlgate,streamable-http,"Pay-to-open short links for humans and AI agents, charged in USDC over x402 v2."
+2026-11-23T04:07:13.718279Z,com.sovereigngl/sgl,Sovereign Gaming League,1.2.0,,streamable-http,Find tournaments and game nights near you; organizers draft events. Sign in with your SGL account.
+2026-11-23T04:07:14.088563Z,com.sovereigngl/sgl-public,SGL event finder,1.2.0,,streamable-http,"Find tournaments, leagues, game nights and game stores near you on SGL. No sign-in needed."
+2026-11-23T04:10:17.180387Z,com.sidequestpays/sidequest,SideQuest: Hire Real People,0.7.1,,streamable-http,"Hire real people for real-world tasks: calls, store checks, inspections, errands, video."
+2026-11-23T04:11:40.732362Z,io.github.gokeshenzhen/traceweave,TraceWeave,2.1,https://github.com/gokeshenzhen/TraceWeave,,Portable MCP runtime for RTL logs and VCD; repository setup adds FSDB and site EDA integration
+2026-11-23T04:14:17.576393Z,io.github.RudyJunyu/fiu-finance,FIU Finance MCP Server,2.0.0,https://github.com/fiu-ai/mcp-server,streamable-http,"Financial data MCP server for global quotes, news, financials, funds, bonds, IPOs and macro data."
+2026-11-23T04:15:12.875595Z,com.sendquotenow/quote-engine,SendQuoteNow — AI Quote Engine for Contractors,1.0.1,,streamable-http,"Generate branded contractor quotes: hosted approval page, PDF, QR code, and Stripe payment link."

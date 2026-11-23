@@ -9,37 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 03:20 UTC
+## Latest list — 2026-11-23 04:18 UTC
 
-New MCP servers published between 2026-11-23 02:19 UTC and 2026-11-23 03:20 UTC.
+New MCP servers published between 2026-11-23 03:20 UTC and 2026-11-23 04:18 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-23T03-20-26-561276Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-23T04-18-51-641712Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-23 02:20:28 | social.pier/pier | Pier | 0.2.1 | Social network for AI agents: read docks and the feed, post, comment and vote.… |
-| 2026-11-23 02:21:05 | com.flexpa/registry | Flexpa health tools | 2.0.0 | Search health MCP servers, tools, and local models, with setup instructions for… |
-| 2026-11-23 02:21:06 | com.flexpa/consent | Flexpa patient records | 2.0.0 | Read a patient's claims and clinical records from the payers and providers they… |
-| 2026-11-23 02:26:51 | site.moonday/moonday | Moonday | 1.0.0 | Family calendar, to-dos and notes (Japan; ja/zh/en): let your AI read and updat… |
-| 2026-11-23 02:33:44 | io.numbat/numbat | Numbat | 1.0.0 | Read-only B2B ad analytics: engagement by campaign, visitors, ad signals and CR… |
-| 2026-11-23 02:34:40 | app.vercel.personalized-gifts-guide/gift-catalog | Gift Catalog by Personalized Gifts Guide | 1.0.0 | Free, read-only, no API key: search gift picks, open gift guides, find bots, ch… |
-| 2026-11-23 02:43:44 | io.github.Big-mann/serviceflow-deterministic-checker | ServiceFlow Deterministic Checker | 1.0.0 | Deterministic PASS/FAIL deliverable checks with objective evidence and repair i… |
-| 2026-11-23 02:45:24 | run.felt/felt | Felt | 1.0.0 | A running journal that Claude and ChatGPT read before they answer, and write in… |
-| 2026-11-23 02:45:43 | [io.github.lexmount/artifact-site](https://github.com/lexmount/artifact-site) | artifact-site | 0.5.0 | One place for every AI agent's pages and docs: versioned links to share, search… |
-| 2026-11-23 02:47:32 | [io.github.wobuliangren/pet-import-guide](https://github.com/petimportguide/pet-import-guide-data) |  | 1.0.1 | Verified pet import rules: 204 routes, 31 airline policies, two official source… |
-| 2026-11-23 02:49:22 | com.waistheart/waistheart | WaistHeart | 1.0.0 | Prices, poses, photo rules, FAQ and order links for WaistHeart waist heart AI v… |
-| 2026-11-23 02:49:33 | [io.github.manteclaw/manteclaw-mcp-lite](https://github.com/manteclaw/manteclaw-mcp-lite) |  | 1.0.0 | Free Base L2 data tools: gas, blocks, token prices, ENS, wallets. Lite Mantecla… |
-| 2026-11-23 02:51:19 | sh.pokayoke/pokayoke |  | 0.1.0 | security code review for GitHub that proves each exploit before it reports |
-| 2026-11-23 03:04:00 | io.github.adrianabelarde/jiggicons | Jiggicons | 0.1.0 | Search 6,010 animated icons with motion and sound, and get React, Vue or SVG co… |
-| 2026-11-23 03:10:29 | io.github.superlabs-x/fiber |  | 1.4.0 | Optical ops MCP for AI data centers: telemetry, RUL, digital twin, NCCL, SPARQL. |
-| 2026-11-23 03:10:40 | group.agitech/site-check | Agitech Site Check | 1.0.0 | Website and AI visibility checks: speed, SEO, security, accessibility, content,… |
-| 2026-11-23 03:11:15 | app.designmdpro/designmdpro | DesignMD Pro | 1.0.0 | Search curated website design systems and read their DESIGN.md tokens, guidance… |
-| 2026-11-23 03:11:22 | [com.motion-brew/motion-brew](https://github.com/easiblu/motion-brew-components) | Motion Brew | 0.1.10 | 100 free animated React components for Tailwind CSS v4: search them and install… |
-| 2026-11-23 03:12:36 | com.hiddenstrip/hiddenstrip | HiddenStrip | 0.1.0 | Read a public page with common hidden content stripped. $0.005 per read via x40… |
-| 2026-11-23 03:12:46 | com.homefixngo/home-fix-n-go | Home Fix N Go | 1.1.0 | Home repairs and refurbishments in Eastbourne, UK: check your area, send quote… |
-| 2026-11-23 03:13:01 | com.fieldstub/fieldstub | Fieldstub | 1.1.0 | Log extra work and T&M tickets from the field and file them into Procore as Cha… |
-| 2026-11-23 03:13:24 | [com.eliteaiempire/answerbeacon](https://github.com/iskra-astudillo/answerbeacon-check) | AnswerBeacon | 1.0.0 | Check a public page for the signals AnswerBeacon can read. |
-| 2026-11-23 03:15:56 | [io.github.arxrock/meta-ad-library-monitor](https://github.com/arxrock/meta-ad-library-monitor-examples) | Facebook & Instagram Ads Library Monitor | 0.4.0 | Track Facebook & Instagram ads: only NEW and ENDED competitor ads, winning ads,… |
+| 2026-11-23 03:22:33 | [com.eliteaiempire/cohostbnb](https://github.com/iskra-astudillo/cohostbnb-mcp) | CoHostBnB | 1.0.0 | Read a CoHostBnB booking or open the last message a guest sent to your rental i… |
+| 2026-11-23 03:29:19 | com.anibg/backgrounds | AniBG | 1.0.0 | Free anime backgrounds without characters: search, direct 1920x1080 links. No a… |
+| 2026-11-23 03:29:59 | com.eliteagenticsolutions/eas | Elite Agentic Solutions | 1.0.0 | Governed AI agents: read plans, pricing and product facts. Read-only, no sign-u… |
+| 2026-11-23 03:30:01 | com.eliteaiempire/trustdeskai | TrustDeskAI | 1.0.0 | Abuse-report desk for hosting providers: read plans and how triage works. |
+| 2026-11-23 03:30:02 | com.eliteaiempire/empiresentinel | Empire Sentinel | 1.0.0 | Uptime and monitoring service: read plans and capabilities. |
+| 2026-11-23 03:30:03 | com.eliteaiempire/empireaudit | Empire Audit | 1.0.0 | Tamper-evident audit ledger for AI actions: read plans and verification facts. |
+| 2026-11-23 03:30:04 | com.eliteaiempire/bugclass | BugClass | 1.0.0 | Static checks for silent-failure bugs in AI-written code: read plans and detect… |
+| 2026-11-23 03:30:05 | com.eliteaiempire/reviews | Empire Review Network | 1.0.0 | Product reviews and comparisons: read published reviews and methodology. |
+| 2026-11-23 03:30:06 | com.eliteaiempire/empiresecurity | Empire Security | 1.0.0 | Security checks and hardening guides: read plans and what each check covers. |
+| 2026-11-23 03:37:21 | [io.github.tahmidbintaslim/hatchlock](https://github.com/tahmidbintaslim/HatchLock) | HatchLock | 1.3.0 | Stops AI code from hiding type errors: flags @ts-ignore/as any and runs your lo… |
+| 2026-11-23 03:40:44 | [io.github.Nakagawa-master/ai-answer-guard](https://github.com/Nakagawa-master/nakagawa-theory-archive) | AI Answer Guard — Check AI Answers & Ac… | 1.2.1 | Check AI replies and actions: flag failed tools, copied evidence and missing pe… |
+| 2026-11-23 03:42:44 | [io.github.chaw1/datakeel](https://github.com/chaw1/datakeel) | Datakeel | 0.27.0 | Local-first workbench for auditable AI datasets, traceable SQL metrics, and app… |
+| 2026-11-23 03:51:56 | com.tradermarketcap/prices | TraderMarketCap | 1.0.0 | Live crypto prices, market caps and exchange markets for 600+ coins, each with… |
+| 2026-11-23 03:55:06 | [xyz.urlgate/mcp](https://github.com/Arithmos111/urlgate) | URLGate | 2.0.0 | Pay-to-open short links for humans and AI agents, charged in USDC over x402 v2. |
+| 2026-11-23 04:07:13 | com.sovereigngl/sgl | Sovereign Gaming League | 1.2.0 | Find tournaments and game nights near you; organizers draft events. Sign in wit… |
+| 2026-11-23 04:07:14 | com.sovereigngl/sgl-public | SGL event finder | 1.2.0 | Find tournaments, leagues, game nights and game stores near you on SGL. No sign… |
+| 2026-11-23 04:10:17 | com.sidequestpays/sidequest | SideQuest: Hire Real People | 0.7.1 | Hire real people for real-world tasks: calls, store checks, inspections, errand… |
+| 2026-11-23 04:11:40 | [io.github.gokeshenzhen/traceweave](https://github.com/gokeshenzhen/TraceWeave) | TraceWeave | 2.1 | Portable MCP runtime for RTL logs and VCD; repository setup adds FSDB and site… |
+| 2026-11-23 04:14:17 | [io.github.RudyJunyu/fiu-finance](https://github.com/fiu-ai/mcp-server) | FIU Finance MCP Server | 2.0.0 | Financial data MCP server for global quotes, news, financials, funds, bonds, IP… |
+| 2026-11-23 04:15:12 | com.sendquotenow/quote-engine | SendQuoteNow — AI Quote Engine for Cont… | 1.0.1 | Generate branded contractor quotes: hosted approval page, PDF, QR code, and Str… |
 
 ## Data source
 
