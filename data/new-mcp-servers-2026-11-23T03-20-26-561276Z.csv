@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-11-23T02:20:28.527772Z,social.pier/pier,Pier,0.2.1,,streamable-http,"Social network for AI agents: read docks and the feed, post, comment and vote. Humans claim agents."
+2026-11-23T02:21:05.863912Z,com.flexpa/registry,Flexpa health tools,2.0.0,,streamable-http,"Search health MCP servers, tools, and local models, with setup instructions for each."
+2026-11-23T02:21:06.042884Z,com.flexpa/consent,Flexpa patient records,2.0.0,,streamable-http,Read a patient's claims and clinical records from the payers and providers they connect.
+2026-11-23T02:26:51.552459Z,site.moonday/moonday,Moonday,1.0.0,,streamable-http,"Family calendar, to-dos and notes (Japan; ja/zh/en): let your AI read and update your Moonday."
+2026-11-23T02:33:44.277304Z,io.numbat/numbat,Numbat,1.0.0,,streamable-http,"Read-only B2B ad analytics: engagement by campaign, visitors, ad signals and CRM status."
+2026-11-23T02:34:40.2499Z,app.vercel.personalized-gifts-guide/gift-catalog,Gift Catalog by Personalized Gifts Guide,1.0.0,,streamable-http,"Free, read-only, no API key: search gift picks, open gift guides, find bots, check order-by dates."
+2026-11-23T02:43:44.536936Z,io.github.Big-mann/serviceflow-deterministic-checker,ServiceFlow Deterministic Checker,1.0.0,,streamable-http,Deterministic PASS/FAIL deliverable checks with objective evidence and repair instructions.
+2026-11-23T02:45:24.472657Z,run.felt/felt,Felt,1.0.0,,streamable-http,"A running journal that Claude and ChatGPT read before they answer, and write in too."
+2026-11-23T02:45:43.288868Z,io.github.lexmount/artifact-site,artifact-site,0.5.0,https://github.com/lexmount/artifact-site,streamable-http,"One place for every AI agent's pages and docs: versioned links to share, search and update."
+2026-11-23T02:47:32.522917Z,io.github.wobuliangren/pet-import-guide,,1.0.1,https://github.com/petimportguide/pet-import-guide-data,,"Verified pet import rules: 204 routes, 31 airline policies, two official sources per rule."
+2026-11-23T02:49:22.938253Z,com.waistheart/waistheart,WaistHeart,1.0.0,,streamable-http,"Prices, poses, photo rules, FAQ and order links for WaistHeart waist heart AI videos from one photo."
+2026-11-23T02:49:33.920992Z,io.github.manteclaw/manteclaw-mcp-lite,,1.0.0,https://github.com/manteclaw/manteclaw-mcp-lite,streamable-http,"Free Base L2 data tools: gas, blocks, token prices, ENS, wallets. Lite Manteclaw x402 API."
+2026-11-23T02:51:19.342333Z,sh.pokayoke/pokayoke,,0.1.0,,streamable-http,security code review for GitHub that proves each exploit before it reports
+2026-11-23T03:04:00.098394Z,io.github.adrianabelarde/jiggicons,Jiggicons,0.1.0,,streamable-http,"Search 6,010 animated icons with motion and sound, and get React, Vue or SVG code for them."
+2026-11-23T03:10:29.791374Z,io.github.superlabs-x/fiber,,1.4.0,,,"Optical ops MCP for AI data centers: telemetry, RUL, digital twin, NCCL, SPARQL."
+2026-11-23T03:10:40.110979Z,group.agitech/site-check,Agitech Site Check,1.0.0,,streamable-http,"Website and AI visibility checks: speed, SEO, security, accessibility, content, AI recommendations"
+2026-11-23T03:11:15.805443Z,app.designmdpro/designmdpro,DesignMD Pro,1.0.0,,streamable-http,"Search curated website design systems and read their DESIGN.md tokens, guidance and revisions."
+2026-11-23T03:11:22.859341Z,com.motion-brew/motion-brew,Motion Brew,0.1.10,https://github.com/easiblu/motion-brew-components,streamable-http,100 free animated React components for Tailwind CSS v4: search them and install any as one file.
+2026-11-23T03:12:36.372471Z,com.hiddenstrip/hiddenstrip,HiddenStrip,0.1.0,,,"Read a public page with common hidden content stripped. $0.005 per read via x402, your own wallet."
+2026-11-23T03:12:46.443975Z,com.homefixngo/home-fix-n-go,Home Fix N Go,1.1.0,,streamable-http,"Home repairs and refurbishments in Eastbourne, UK: check your area, send quote requests with photos."
+2026-11-23T03:13:01.449281Z,com.fieldstub/fieldstub,Fieldstub,1.1.0,,streamable-http,Log extra work and T&M tickets from the field and file them into Procore as Change Events.
+2026-11-23T03:13:24.341224Z,com.eliteaiempire/answerbeacon,AnswerBeacon,1.0.0,https://github.com/iskra-astudillo/answerbeacon-check,streamable-http,Check a public page for the signals AnswerBeacon can read.
+2026-11-23T03:15:56.056004Z,io.github.arxrock/meta-ad-library-monitor,Facebook & Instagram Ads Library Monitor,0.4.0,https://github.com/arxrock/meta-ad-library-monitor-examples,streamable-http,"Track Facebook & Instagram ads: only NEW and ENDED competitor ads, winning ads, Slack alerts."
