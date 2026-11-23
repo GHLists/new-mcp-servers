@@ -9,158 +9,168 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 21:19 UTC
+## Latest list — 2026-11-23 22:20 UTC
 
-New MCP servers published between 2026-11-23 20:19 UTC and 2026-11-23 21:19 UTC.
+New MCP servers published between 2026-11-23 21:19 UTC and 2026-11-23 22:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-23T21-19-14-371578Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-23T22-20-05-033175Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-23 20:20:32 | [io.github.mikahama/uralicNLP](https://github.com/mikahama/uralicNLP) | UralicMCP | 2.1.3 | Morphological analysis, generation, lemmatization and dictionary lookup for Ura… |
-| 2026-11-23 20:21:32 | uk.co.managementbuyoutcalculator/site |  | 1.0.1 | Management Buyout Calculator: the site's own MCP server — calculator, enquiry (… |
-| 2026-11-23 20:23:29 | com.monetisecompanydata/site |  | 1.0.1 | Monetise Company Data: the site's own MCP server — enquiry (enquiry = a human h… |
-| 2026-11-23 20:24:26 | uk.co.motorhomestorageprices/site |  | 1.0.1 | Motorhome storage near me: the site's own MCP server — enquiry (enquiry = a hum… |
-| 2026-11-23 20:25:37 | uk.co.mvlcalculator/site |  | 1.0.1 | MVL Calculator: the site's own MCP server — calculator, enquiry (enquiry = a hu… |
-| 2026-11-23 20:26:04 | ai.elvex/elvex | elvex | 1.0.0 | Multiplayer workspace where your team's AI coding agents share threads and spli… |
-| 2026-11-23 20:26:09 | [io.github.mindstone/mcp-server-replit-ssh](https://github.com/mindstone/mcp-servers) | Replit SSH | 0.2.3 | Read, write, list, and check files on Replit projects over SSH/SFTP, plus SSH k… |
-| 2026-11-23 20:26:35 | uk.co.nedfees/site |  | 1.0.1 | NED Fees: the site's own MCP server — enquiry (enquiry = a human handoff, not a… |
-| 2026-11-23 20:27:44 | uk.co.offertobuyabusiness/site |  | 1.0.1 | Offer to Buy a Business: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 20:27:54 | [io.github.oculonlive/oculon](https://github.com/oculonlive/oculon) | Oculon | 0.1.0 | OSINT checks with sources: scams, links, claims, recalls, travel risk, CVEs, ou… |
-| 2026-11-23 20:28:11 | chat.ocr/mcp | OCR.chat | 1.0.0 | OCR images and PDFs from a link into text, Markdown or structured JSON, and rea… |
-| 2026-11-23 20:28:33 | uk.co.offmarketbusinessesforsale/site |  | 1.0.1 | Off-Market Businesses for Sale: the site's own MCP server — enquiry (enquiry =… |
-| 2026-11-23 20:29:22 | com.optionexercisefinancing/site |  | 1.0.1 | Option Exercise Financing: the site's own MCP server — enquiry (enquiry = a hum… |
-| 2026-11-23 20:29:28 | com.dolbila/dolbila | Dolbila | 1.0.0 | AI that makes phone calls for you in Claude or ChatGPT. It waits on hold and ri… |
-| 2026-11-23 20:30:04 | uk.co.pasmacoursecost/site |  | 1.0.1 | PASMA course cost: the site's own MCP server — enquiry (enquiry = a human hando… |
-| 2026-11-23 20:31:08 | uk.co.personallicencecoursecost/site |  | 1.0.1 | Personal licence course: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 20:32:01 | com.piiredactiontool/site |  | 1.0.1 | PII Redaction Tool: the site's own MCP server — calculator, enquiry (enquiry =… |
-| 2026-11-23 20:32:42 | com.portugueseaitrainerjobs/site |  | 1.0.1 | Portuguese AI Trainer Jobs: the site's own MCP server — compare, enquiry (enqui… |
-| 2026-11-23 20:33:54 | uk.co.premiseslicencecost/site |  | 1.0.1 | Premises Licence Cost: the site's own MCP server — enquiry (enquiry = a human h… |
-| 2026-11-23 20:34:32 | uk.co.principaldesignercost/site |  | 1.0.1 | Principal Designer Cost: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 20:34:49 | ai.mensara/mind | Mensara | 1.0.0 | Shared, governed memory for a team and its AI agents, in a Mind the company own… |
-| 2026-11-23 20:35:44 | [io.github.getlarkwright/home-net-doctor](https://github.com/getlarkwright/home-net-doctor) | Home Net Doctor | 0.1.0 | Why is my internet slow? Checks Wi-Fi, router, ISP and DNS from your computer.… |
-| 2026-11-23 20:36:12 | uk.co.pubvaluation/site |  | 1.0.1 | Pub valuation: the site's own MCP server — enquiry (enquiry = a human handoff,… |
-| 2026-11-23 20:36:50 | com.rankedinchat/site |  | 1.0.1 | Ranked in Chat: the site's own MCP server — enquiry (enquiry = a human handoff,… |
-| 2026-11-23 20:38:05 | [io.github.wyattpalm2-eng/x402-seller](https://github.com/wyattpalm2-eng/x402-seller) | x402-seller — rug, honeypot & fake-volu… | 1.1.0 | Rug, honeypot & fake-volume checks for trading agents. Graded publicly. EVM+Sol… |
-| 2026-11-23 20:38:18 | com.rentoutmygpu/site |  | 1.0.1 | Rent Out My GPU: the site's own MCP server — enquiry (enquiry = a human handoff… |
-| 2026-11-23 20:38:41 | uk.co.reversevendingmachinecost/site |  | 1.0.1 | Reverse vending machine cost: the site's own MCP server — enquiry (enquiry = a… |
-| 2026-11-23 20:39:05 | com.rlenvironmentvendors/site |  | 1.0.1 | RL Environment Vendors: the site's own MCP server — compare, enquiry (enquiry =… |
-| 2026-11-23 20:39:44 | com.rlhfjobs/site |  | 1.0.1 | RLHFJobs: the site's own MCP server — compare, enquiry (enquiry = a human hando… |
-| 2026-11-23 20:40:02 | [io.github.Vuena/vuena-assets](https://github.com/Vuena/vuena-assets-mcp) | Vuena Assets | 0.1.0 | Search and download 76 free CC0 low-poly 3D models (GLB) into your game project. |
-| 2026-11-23 20:40:04 | uk.co.sanitarywastecollection/site |  | 1.0.1 | Sanitary waste collection: the site's own MCP server — enquiry (enquiry = a hum… |
-| 2026-11-23 20:40:44 | uk.co.securityguardcost/site |  | 1.0.1 | Security guard cost: the site's own MCP server — enquiry (enquiry = a human han… |
-| 2026-11-23 20:41:07 | com.sell3dmodelstoai/site |  | 1.0.1 | Sell 3D Models to AI: the site's own MCP server — enquiry (enquiry = a human ha… |
-| 2026-11-23 20:41:31 | com.sellabledatachecker/site |  | 1.0.1 | Sellable Data Checker: the site's own MCP server — checker, enquiry (enquiry =… |
-| 2026-11-23 20:42:10 | com.sellaccountancydatatoai/site |  | 1.0.1 | SellAccountancyDataToAI: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 20:42:48 | com.sellaccountingdatatoai/site |  | 1.0.1 | Sell Accounting Data To AI: the site's own MCP server — enquiry (enquiry = a hu… |
-| 2026-11-23 20:43:11 | com.selladagencydatatoai/site |  | 1.0.1 | Sell Ad Agency Data to AI: the site's own MCP server — enquiry (enquiry = a hum… |
-| 2026-11-23 20:43:22 | [io.socialync/mcp](https://github.com/JackVitick/socialync-mcp) | Socialync Social Media Scheduler | 1.3.0 | Social media scheduler for Instagram, TikTok, YouTube, Facebook, X, LinkedIn, T… |
-| 2026-11-23 20:43:35 | com.sellaerospacedatatoai/site |  | 1.0.1 | Sell Aerospace Data to AI: the site's own MCP server — enquiry (enquiry = a hum… |
-| 2026-11-23 20:44:13 | com.sellagentlogstoai/site |  | 1.0.1 | Sell Agent Logs to AI: the site's own MCP server — enquiry (enquiry = a human h… |
-| 2026-11-23 20:44:37 | com.sellanimationdatatoai/site |  | 1.0.1 | Sell Animation Data to AI: the site's own MCP server — enquiry (enquiry = a hum… |
-| 2026-11-23 20:45:15 | com.sellarchitecturedatatoai/site |  | 1.0.1 | Sell Architecture Data to AI: the site's own MCP server — enquiry (enquiry = a… |
-| 2026-11-23 20:45:54 | com.sellautomotivedatatoai/site |  | 1.0.1 | Sell Automotive Data to AI: the site's own MCP server — enquiry (enquiry = a hu… |
-| 2026-11-23 20:46:32 | com.sellbankdatatoai/site |  | 1.0.1 | Sell Bank Data To AI: the site's own MCP server — enquiry (enquiry = a human ha… |
-| 2026-11-23 20:46:56 | com.sellbehavioralhealthdatatoai/site |  | 1.0.1 | Sell Behavioral Health Data to AI: the site's own MCP server — enquiry (enquiry… |
-| 2026-11-23 20:47:20 | com.sellbimdatatoai/site |  | 1.0.1 | Sell BIM Data to AI: the site's own MCP server — enquiry (enquiry = a human han… |
-| 2026-11-23 20:47:30 | com.packetdominance/packet-dominance | Packet Dominance | 0.185.1 | Play Packet Dominance, a multiplayer MMO where you build ISPs, fiber cables and… |
-| 2026-11-23 20:47:59 | com.sellbiotechdatatoai/site |  | 1.0.1 | Sell Biotech Data to AI: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 20:48:22 | com.sellbpodatatoai/site |  | 1.0.1 | Sell BPO Data to AI: the site's own MCP server — enquiry (enquiry = a human han… |
-| 2026-11-23 20:49:01 | com.sellcadfilestoai/site |  | 1.0.1 | Sell CAD Files to AI: the site's own MCP server — enquiry (enquiry = a human ha… |
-| 2026-11-23 20:49:25 | com.sellcallcenterdatatoai/site |  | 1.0.1 | Sell Call Center Data to AI: the site's own MCP server — enquiry (enquiry = a h… |
-| 2026-11-23 20:49:47 | com.themoneyplays/money-plays | Money Plays | 1.0.0 | US stock and ETF ideas from finance creators, with sources, chart and SEC-filin… |
-| 2026-11-23 20:50:04 | com.sellcallcentredatatoai/site |  | 1.0.1 | Sell Call Centre Data to AI: the site's own MCP server — enquiry (enquiry = a h… |
-| 2026-11-23 20:50:26 | co.embeddable/embeddable | Embeddable | 1.0.0 | Build, edit, preview and publish website widgets and landing pages with Embedda… |
-| 2026-11-23 20:50:28 | com.sellcardealerdatatoai/site |  | 1.0.1 | Sell Car Dealer Data to AI: the site's own MCP server — enquiry (enquiry = a hu… |
-| 2026-11-23 20:50:52 | com.sellcarehomedatatoai/site |  | 1.0.1 | Sell Care Home Data to AI: the site's own MCP server — enquiry (enquiry = a hum… |
-| 2026-11-23 20:51:30 | com.sellcasefilestoai/site |  | 1.0.1 | Sell Case Files to AI: the site's own MCP server — enquiry (enquiry = a human h… |
-| 2026-11-23 20:52:07 | [io.github.Wordhalm/clearstack-data-mcp](https://github.com/Wordhalm/clearstack-data-mcp) | ClearStack Data: B2B Signals | 0.2.0 | Job openings, Google Ads, Telegram posts and EU VAT checks for AI assistants, v… |
-| 2026-11-23 20:52:09 | com.sellchattranscriptstoai/site |  | 1.0.1 | Sell Chat Transcripts to AI: the site's own MCP server — enquiry (enquiry = a h… |
-| 2026-11-23 20:52:43 | ru.kodeksai/laws | Поиск по законам РФ для ИИ — КодексAI M… | 0.2.0 | Статьи РФ с источниками. 100 вызовов бесплатно, 3000 за 1490 ₽. В планах — поис… |
-| 2026-11-23 20:52:49 | com.sellchemicaldatatoai/site |  | 1.0.1 | Sell Chemical Data to AI: the site's own MCP server — enquiry (enquiry = a huma… |
-| 2026-11-23 20:53:10 | [org.duckdns.a2p32guard/a2p32-guard](https://github.com/aymanesamhi1234-collab/a2p32-mcp) |  | 3.2.0 | Per-aspect limits for agent budgets, API rates and transfers; atomic batches. |
-| 2026-11-23 20:53:12 | com.sellcivilengineeringdatatoai/site |  | 1.0.1 | Sell Civil Engineering Data to AI: the site's own MCP server — enquiry (enquiry… |
-| 2026-11-23 20:53:36 | com.sellclaimsdatatoai/site |  | 1.0.1 | Sell Claims Data To AI: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 20:53:59 | com.sellclinicallabdatatoai/site |  | 1.0.1 | Sell Clinical Lab Data to AI: the site's own MCP server — enquiry (enquiry = a… |
-| 2026-11-23 20:54:23 | com.sellclinicalnotestoai/site |  | 1.0.1 | Sell Clinical Notes to AI: the site's own MCP server — enquiry (enquiry = a hum… |
-| 2026-11-23 20:55:01 | com.sellclinicaltrialdatatoai/site |  | 1.0.1 | Sell Clinical Trial Data to AI: the site's own MCP server — enquiry (enquiry =… |
-| 2026-11-23 20:55:40 | com.sellcncdatatoai/site |  | 1.0.1 | Sell CNC Data to AI: the site's own MCP server — enquiry (enquiry = a human han… |
-| 2026-11-23 20:56:18 | com.sellcodebasetoai/site |  | 1.0.1 | Sell Codebase to AI: the site's own MCP server — enquiry (enquiry = a human han… |
-| 2026-11-23 20:56:25 | ai.noiseremover/mcp | NoiseRemover.ai | 1.0.0 | Clean noise, hum, echo or music out of your own recordings and get the cleaned… |
-| 2026-11-23 20:56:41 | chat.pdf/mcp | PDF.chat | 1.0.0 | Add PDFs from a link, ask questions with page citations, and read summaries |
-| 2026-11-23 20:56:42 | com.sellcompanyarchivetoai/site |  | 1.0.1 | Sell Company Archive to AI: the site's own MCP server — enquiry (enquiry = a hu… |
-| 2026-11-23 20:56:47 | pl.testyelektryka/testy | Testy elektryka | 1.0.0 | Polish electrician exam ELE.02 and SEP G1: sections, lessons, guides, sample qu… |
-| 2026-11-23 20:56:53 | [io.github.eredden/pdq-deploy-mcp](https://github.com/eredden/PDQ-Deploy-MCP) | PDQ Deploy | 1.0.0 | An MCP server for read-only access to the PDQ Deploy SQLite database. |
-| 2026-11-23 20:57:06 | com.sellcompanydatagdpr/site |  | 1.0.1 | Sell Company Data GDPR: the site's own MCP server — checker, enquiry (enquiry =… |
-| 2026-11-23 20:57:08 | pl.infozwierz/zwierzeta | InfoZwierz.pl | 1.0.0 | How much does a pet cost in Poland: purchase, startup, monthly and vet costs pe… |
-| 2026-11-23 20:57:26 | com.sellcompanydatatoai/site |  | 1.0.1 | SellCompanyDataToAI: the site's own MCP server — enquiry (enquiry = a human han… |
-| 2026-11-23 20:57:35 | pl.testypolskiego/testy | TestyPolskiego.pl | 1.0.0 | Free Polish tests A1-C1 for foreigners, B1 state exam: levels, topics, sample q… |
-| 2026-11-23 20:57:39 | pl.testyniemieckiego/testy | TestyNiemieckiego.pl | 1.0.0 | Free German tests A1-C2 for Polish learners: levels, topics, exams, sample ques… |
-| 2026-11-23 20:57:49 | com.sellcompanyrecordstoai/site |  | 1.0.1 | Sell Company Records To AI: the site's own MCP server — enquiry (enquiry = a hu… |
-| 2026-11-23 20:58:13 | com.sellconstructiondatatoai/site |  | 1.0.1 | Sell Construction Data To AI: the site's own MCP server — enquiry (enquiry = a… |
-| 2026-11-23 20:58:37 | com.sellconsultancydatatoai/site |  | 1.0.1 | SellConsultancyDataToAI: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 20:59:00 | com.sellcontactcenterdatatoai/site |  | 1.0.1 | Sell Contact Center Data to AI: the site's own MCP server — enquiry (enquiry =… |
-| 2026-11-23 20:59:04 | free.transcribe/mcp | transcribe.free | 1.0.0 | Transcribe audio and video file links, then read or export the transcripts |
-| 2026-11-23 20:59:20 | com.sellcontractdatatoai/site |  | 1.0.1 | Sell Contract Data to AI: the site's own MCP server — enquiry (enquiry = a huma… |
-| 2026-11-23 20:59:59 | com.sellcorporaterecords/site |  | 1.0.1 | Sell Corporate Records: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 21:00:06 | [email.palisade/palisade-audit](https://github.com/palisadeemail/palisade-mcp) | Palisade Audit (no sign-in) | 1.0.0 | Audit any domain's SPF, DKIM, DMARC, MTA-STS and BIMI from public DNS. No accou… |
-| 2026-11-23 21:00:14 | [io.github.aslanklc04/agichainai-agent-tools](https://github.com/aslanklc04/agichainai-agent-tools) | AGIChainAI | 0.1.0 | AGI token on Base: price, quotes, swaps, paid tasks, on-chain notary and agent… |
-| 2026-11-23 21:00:42 | com.sellcourierdatatoai/site |  | 1.0.1 | Sell Courier Data to AI: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 21:01:21 | com.sellcoursestoai/site |  | 1.0.1 | Sell Courses to AI: the site's own MCP server — enquiry (enquiry = a human hand… |
-| 2026-11-23 21:01:36 | com.clerk/mcp | Clerk | 1.0.0 | Manage Clerk applications, users, and production domains, and get Clerk SDK cod… |
-| 2026-11-23 21:01:56 | com.sellcreditdatatoai/site |  | 1.0.1 | Sell Credit Data to AI: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 21:02:15 | [io.github.jeffsosville/dealledger](https://github.com/jeffsosville/dealledger) | DealLedger | 1.3.1 | US businesses for sale, observed on broker sites: listings, observed age, price… |
-| 2026-11-23 21:02:51 | com.sellcrmdatatoai/site |  | 1.0.1 | Sell CRM Data To AI: the site's own MCP server — enquiry (enquiry = a human han… |
-| 2026-11-23 21:03:15 | com.sellcybersecuritydatatoai/site |  | 1.0.1 | Sell Cybersecurity Data to AI: the site's own MCP server — enquiry (enquiry = a… |
-| 2026-11-23 21:03:35 | com.selldatacompany/site |  | 1.0.1 | Sell Data Company: the site's own MCP server — enquiry (enquiry = a human hando… |
-| 2026-11-23 21:03:55 | com.selldeadstartupdata/site |  | 1.0.1 | Sell Dead Startup Data: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 21:04:34 | com.selldentaldatatoai/site |  | 1.0.1 | Sell Dental Data to AI: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 21:05:13 | com.selldentallabdatatoai/site |  | 1.0.1 | Sell Dental Lab Data to AI: the site's own MCP server — enquiry (enquiry = a hu… |
-| 2026-11-23 21:05:33 | com.selldepositionstoai/site |  | 1.0.1 | Sell Depositions to AI: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 21:06:12 | com.selldermatologydatatoai/site |  | 1.0.1 | Sell Dermatology Data to AI: the site's own MCP server — enquiry (enquiry = a h… |
-| 2026-11-23 21:06:30 | org.uavocab/uavocab | UA Vocab: Ukrainian Frequency | 1.0.0 | Ukrainian word stress, validated CEFR levels, lemmatizer and text-level profile… |
-| 2026-11-23 21:06:36 | com.selldesignagencydatatoai/site |  | 1.0.1 | Sell Design Agency Data to AI: the site's own MCP server — enquiry (enquiry = a… |
-| 2026-11-23 21:06:58 | com.selldevtoolsdatatoai/site |  | 1.0.1 | Sell Devtools Data To AI: the site's own MCP server — enquiry (enquiry = a huma… |
-| 2026-11-23 21:07:38 | com.selldronedatatoai/site |  | 1.0.1 | Sell Drone Data to AI: the site's own MCP server — enquiry (enquiry = a human h… |
-| 2026-11-23 21:08:02 | space.brik/brik | Brik | 1.0.0 | Build design tools with live controls from a brief, remix gallery tools, and la… |
-| 2026-11-23 21:08:18 | com.sellelectriciandatatoai/site |  | 1.0.1 | Sell Electrician Data to AI: the site's own MCP server — enquiry (enquiry = a h… |
-| 2026-11-23 21:08:30 | tools.valksor/livonian |  | 2.1.2 | Grounds LLMs in the real Livonian dictionary: attested words, inflections, roma… |
-| 2026-11-23 21:08:30 | tools.valksor/latin |  | 2.1.2 | Grounds LLMs in real Latin: Wiktionary lemmas, Morpheus inflections, citations. |
-| 2026-11-23 21:08:31 | tools.valksor/slavonic |  | 2.1.2 | Grounds LLMs in real Church Slavonic: Wiktionary lemmas, dual-number paradigms,… |
-| 2026-11-23 21:08:31 | tools.valksor/scythian |  | 2.1.2 | Grounds LLMs in real Scythian: Proto-Scythian lemmas, etymologies, Ossetian/Kho… |
-| 2026-11-23 21:08:32 | tools.valksor/norse |  | 2.1.2 | Grounds LLMs in real Old Norse: lemmas, mediopassive paradigms, English→Old Nor… |
-| 2026-11-23 21:08:32 | tools.valksor/latgalian |  | 2.1.2 | Grounds LLMs in real Latgalian: Wiktionary lemmas, inflections, romanization. |
-| 2026-11-23 21:08:33 | tools.valksor/anglo |  | 2.1.2 | Grounds LLMs in real Old English: lemmas, strong/weak paradigms, English→Old En… |
-| 2026-11-23 21:08:33 | tools.valksor/interslavic |  | 2.1.2 | Grounds LLMs in real Interslavic: translation matrix, paradigms, English→Inters… |
-| 2026-11-23 21:08:34 | tools.valksor/hub |  | 2.1.2 | One MCP endpoint over every Valksor dictionary: namespaced tools plus a JSON pa… |
-| 2026-11-23 21:08:57 | com.sellemailarchivetoai/site |  | 1.0.1 | Sell Email Archive to AI: the site's own MCP server — enquiry (enquiry = a huma… |
-| 2026-11-23 21:09:36 | com.sellengineeringdatatoai/site |  | 1.0.1 | Sell Engineering Data to AI: the site's own MCP server — enquiry (enquiry = a h… |
-| 2026-11-23 21:10:01 | com.sellengineeringdrawingstoai/site |  | 1.0.1 | Sell Engineering Drawings to AI: the site's own MCP server — enquiry (enquiry =… |
-| 2026-11-23 21:10:24 | com.sellengineeringfirmdatatoai/site |  | 1.0.1 | Sell Engineering Firm Data to AI: the site's own MCP server — enquiry (enquiry… |
-| 2026-11-23 21:10:45 | com.sellenterprisedatatoai/site |  | 1.0.1 | Sell Enterprise Data To AI: the site's own MCP server — enquiry (enquiry = a hu… |
-| 2026-11-23 21:11:24 | com.sellfacilitiesmanagementdatatoai/site |  | 1.0.1 | Sell Facilities Management Data to AI: the site's own MCP server — enquiry (enq… |
-| 2026-11-23 21:11:48 | com.sellfarmingdatatoai/site |  | 1.0.1 | Sell Farming Data To AI: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 21:11:53 | [io.github.nikhilb2/simple-invoicing](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | Simple Invoicing | 1.0.0 | GST invoices, ledgers, stock, payments and GSTR-1 for Indian small businesses.… |
-| 2026-11-23 21:12:28 | com.sellfertilityclinicdatatoai/site |  | 1.0.1 | Sell Fertility Clinic Data to AI: the site's own MCP server — enquiry (enquiry… |
-| 2026-11-23 21:12:51 | com.sellfinancialdatatoai/site |  | 1.0.1 | Sell Financial Data To AI: the site's own MCP server — enquiry (enquiry = a hum… |
-| 2026-11-23 21:13:02 | xyz.jakelawrence.www/research | jakelawrence.xyz research data | 1.0.0 | Hashed open-data releases and a claims ledger whose computed figures re-verify… |
-| 2026-11-23 21:13:15 | com.sellfintechdatatoai/site |  | 1.0.1 | Sell Fintech Data To AI: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 21:13:53 | com.sellfoodmanufacturingdatatoai/site |  | 1.0.1 | Sell Food Manufacturing Data to AI: the site's own MCP server — enquiry (enquir… |
-| 2026-11-23 21:14:08 | io.creativeforesight/foresight-api | Foresight API | 1.0.0 | Economic, demographic and financial time series, plus Creative Foresight indica… |
-| 2026-11-23 21:14:19 | com.sellfootagetoai/site |  | 1.0.1 | Sell Footage To AI: the site's own MCP server — enquiry (enquiry = a human hand… |
-| 2026-11-23 21:14:59 | com.sellfreightdatatoai/site |  | 1.0.1 | SellFreightDataToAI: the site's own MCP server — enquiry (enquiry = a human han… |
-| 2026-11-23 21:15:23 | com.sellgameassetstoai/site |  | 1.0.1 | Sell Game Assets to AI: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 21:15:47 | com.sellgameip/site |  | 1.0.1 | Sell Game IP: the site's own MCP server — enquiry (enquiry = a human handoff, n… |
-| 2026-11-23 21:16:04 | ai.debugger/mcp | Debugger.ai | 1.0.0 | Scan a Git repository for bugs and security issues, then read the findings and… |
-| 2026-11-23 21:16:22 | [io.github.vvanegasar/cielo-mcp](https://github.com/vvanegasar/cielo-bench) | cielo-bench | 0.1.1 | Read-only tools with citations: NASA/JPL Horizons sky positions and SQL on a sy… |
-| 2026-11-23 21:16:27 | com.sellgameplaydatatoai/site |  | 1.0.1 | Sell Gameplay Data to AI: the site's own MCP server — enquiry (enquiry = a huma… |
-| 2026-11-23 21:17:06 | com.sellgamesourcecode/site |  | 1.0.1 | Sell Game Source Code: the site's own MCP server — enquiry (enquiry = a human h… |
-| 2026-11-23 21:17:26 | com.sellgamestudiodatatoai/site |  | 1.0.1 | Sell Game Studio Data To AI: the site's own MCP server — enquiry (enquiry = a h… |
-| 2026-11-23 21:17:48 | com.sellgaragedatatoai/site |  | 1.0.1 | Sell Garage Data To AI: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 21:17:52 | [io.github.ArSenic04/agentsol](https://github.com/ArSenic04/agentsol) | Agentsol | 0.2.0-alpha.6 | Lint AGENTS.md/CLAUDE.md/skills, scan skills and MCP servers, learn from past a… |
-| 2026-11-23 21:18:27 | com.sellgeneralcontractordatatoai/site |  | 1.0.1 | Sell General Contractor Data to AI: the site's own MCP server — enquiry (enquir… |
-| 2026-11-23 21:18:47 | com.sellhardwaredatatoai/site |  | 1.0.1 | Sell Hardware Data to AI: the site's own MCP server — enquiry (enquiry = a huma… |
-| 2026-11-23 21:19:10 | com.sellhealthcaredatatoai/site |  | 1.0.1 | Sell Healthcare Data to AI: the site's own MCP server — enquiry (enquiry = a hu… |
+| 2026-11-23 21:19:33 | com.sellhealthinsurancedatatoai/site |  | 1.0.1 | Sell Health Insurance Data to AI: the site's own MCP server — enquiry (enquiry… |
+| 2026-11-23 21:19:54 | free.summarize/mcp | Summarize.Free | 1.0.0 | Summarize web pages, articles, YouTube videos and pasted text |
+| 2026-11-23 21:20:12 | com.sellhealthtechdatatoai/site |  | 1.0.1 | Sell Health Tech Data to AI: the site's own MCP server — enquiry (enquiry = a h… |
+| 2026-11-23 21:20:35 | com.sellhomebuilderdatatoai/site |  | 1.0.1 | Sell Homebuilder Data to AI: the site's own MCP server — enquiry (enquiry = a h… |
+| 2026-11-23 21:20:59 | com.sellhomehealthdatatoai/site |  | 1.0.1 | Sell Home Health Data to AI: the site's own MCP server — enquiry (enquiry = a h… |
+| 2026-11-23 21:21:39 | com.sellhospitaldatatoai/site |  | 1.0.1 | Sell Hospital Data to AI: the site's own MCP server — enquiry (enquiry = a huma… |
+| 2026-11-23 21:22:02 | ai.wallpapers/mcp | Wallpapers.ai | 1.0.0 | Search, download and generate AI phone and desktop wallpapers sized to your scr… |
+| 2026-11-23 21:22:03 | com.sellhvacdatatoai/site |  | 1.0.1 | Sell HVAC Data to AI: the site's own MCP server — enquiry (enquiry = a human ha… |
+| 2026-11-23 21:22:27 | com.selligamingdatatoai/site |  | 1.0.1 | Sell iGaming Data to AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:22:53 | com.sellinjectionmoldingdatatoai/site |  | 1.0.1 | Sell Injection Molding Data to AI: the site's own MCP server — enquiry (enquiry… |
+| 2026-11-23 21:23:25 | app.nabras/qudrat | Nabras: Saudi Qudrat (GAT) exam prep | 1.1.0 | Official Saudi Qudrat exam facts, paper exam countdown, weighted-score calculat… |
+| 2026-11-23 21:23:32 | com.sellinsurancebrokerdatatoai/site |  | 1.0.1 | Sell Insurance Broker Data to AI: the site's own MCP server — enquiry (enquiry… |
+| 2026-11-23 21:23:56 | com.sellinteriordesigndatatoai/site |  | 1.0.1 | Sell Interior Design Data to AI: the site's own MCP server — enquiry (enquiry =… |
+| 2026-11-23 21:24:34 | com.sellinternaltoolstoai/site |  | 1.0.1 | Sell Internal Tools to AI: the site's own MCP server — enquiry (enquiry = a hum… |
+| 2026-11-23 21:25:12 | com.sellinvoicedatatoai/site |  | 1.0.1 | Sell Invoice Data To AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:25:23 | [io.github.xberg-io/liter-llm](https://github.com/xberg-io/liter-llm) | liter-llm | 2.7.4 | Universal LLM API client MCP server: chat, embeddings and tools across 170+ pro… |
+| 2026-11-23 21:25:37 | com.selljobrecordstoai/site |  | 1.0.1 | Sell Job Records to AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:26:00 | com.sellknowledgebasetoai/site |  | 1.0.1 | Sell Knowledge Base to AI: the site's own MCP server — enquiry (enquiry = a hum… |
+| 2026-11-23 21:26:39 | com.selllandsurveydatatoai/site |  | 1.0.1 | Sell Land Survey Data to AI: the site's own MCP server — enquiry (enquiry = a h… |
+| 2026-11-23 21:27:02 | com.selllawfirmdatatoai/site |  | 1.0.1 | Sell Law Firm Data to AI: the site's own MCP server — enquiry (enquiry = a huma… |
+| 2026-11-23 21:27:23 | com.selllegalprecedentstoai/site |  | 1.0.1 | Sell Legal Precedents to AI: the site's own MCP server — enquiry (enquiry = a h… |
+| 2026-11-23 21:28:02 | com.selllogisticsdatatoai/site |  | 1.0.1 | Sell Logistics Data To AI: the site's own MCP server — enquiry (enquiry = a hum… |
+| 2026-11-23 21:28:05 | com.namereef/domain-generator | NameReef Domain Generator | 1.0.0 | AI domain generator: describe your project and get fitting domain names no one… |
+| 2026-11-23 21:28:25 | com.sellmachinerydatatoai/site |  | 1.0.1 | Sell Machinery Data To AI: the site's own MCP server — enquiry (enquiry = a hum… |
+| 2026-11-23 21:29:04 | com.sellmachineshopdatatoai/site |  | 1.0.1 | Sell Machine Shop Data to AI: the site's own MCP server — enquiry (enquiry = a… |
+| 2026-11-23 21:29:39 | com.sellmaintenancedatatoai/site |  | 1.0.1 | Sell Maintenance Data to AI: the site's own MCP server — enquiry (enquiry = a h… |
+| 2026-11-23 21:29:54 | ai.phasis/phasis | Phasis | 1.0.0 | Sourced Worlds, team rules, and checked work with dates and Receipts across AI… |
+| 2026-11-23 21:30:18 | com.sellmanufacturingdatatoai/site |  | 1.0.1 | SellManufacturingDataToAI: the site's own MCP server — enquiry (enquiry = a hum… |
+| 2026-11-23 21:30:35 | studio.quantura/scout | Quantura Scout | 1.0.0 | Find tickers, retrieve historical data and forecast ranges, and analyze them wi… |
+| 2026-11-23 21:30:58 | com.sellmapdatatoai/site |  | 1.0.1 | Sell Map Data to AI: the site's own MCP server — enquiry (enquiry = a human han… |
+| 2026-11-23 21:31:01 | [io.github.ArpitGandhi1934/yugenox-jobs](https://github.com/ArpitGandhi1934/yugenox-mcp) | Yugenox Jobs: Search Open Jobs, Match a… | 1.4.0 | Open jobs from employers' own postings, mostly US/Canada, updated daily. 20 fre… |
+| 2026-11-23 21:31:37 | com.sellmaterialdatatoai/site |  | 1.0.1 | Sell Material Data to AI: the site's own MCP server — enquiry (enquiry = a huma… |
+| 2026-11-23 21:32:01 | com.sellmedicalbillingdatatoai/site |  | 1.0.1 | Sell Medical Billing Data To AI: the site's own MCP server — enquiry (enquiry =… |
+| 2026-11-23 21:32:40 | com.sellmedicalcodingdatatoai/site |  | 1.0.1 | Sell Medical Coding Data to AI: the site's own MCP server — enquiry (enquiry =… |
+| 2026-11-23 21:33:19 | com.sellmedicaldevicedatatoai/site |  | 1.0.1 | Sell Medical Device Data to AI: the site's own MCP server — enquiry (enquiry =… |
+| 2026-11-23 21:33:58 | com.sellmedicalimagingdatatoai/site |  | 1.0.1 | Sell Medical Imaging Data to AI: the site's own MCP server — enquiry (enquiry =… |
+| 2026-11-23 21:34:30 | com.free360viewer/viewer | free360viewer | 1.0.0 | View 360° photos in an interactive viewer inside your AI chat. No account, stor… |
+| 2026-11-23 21:34:37 | com.sellmedicalpracticedatatoai/site |  | 1.0.1 | Sell Medical Practice Data to AI: the site's own MCP server — enquiry (enquiry… |
+| 2026-11-23 21:34:50 | [io.transmitly/mcp](https://github.com/Transmitly-io/mcp) | Transmitly | 1.1.2 | Read Transmitly inboxes, messages, domains, campaigns and usage; reply to inbox… |
+| 2026-11-23 21:35:07 | [io.github.GeminiGeorge22/skool-community-mcp](https://github.com/GeminiGeorge22/publicrecords-mcp) | Skool Community Scraper | 1.0.0 | Search Skool communities by keyword: members, price, rating, estimated revenue,… |
+| 2026-11-23 21:35:15 | com.sellmedicalrecordstoai/site |  | 1.0.1 | Sell Medical Records to AI: the site's own MCP server — enquiry (enquiry = a hu… |
+| 2026-11-23 21:35:39 | com.sellmedicaltranscriptstoai/site |  | 1.0.1 | Sell Medical Transcripts to AI: the site's own MCP server — enquiry (enquiry =… |
+| 2026-11-23 21:36:12 | io.github.lorenzo-oldrati/eu-medtech-vigilance | EU Medical Device Field Safety Notices… | 0.1.9 | EU & UK medical device field safety notices and recalls (MHRA, ANSM, AEMPS), gr… |
+| 2026-11-23 21:36:17 | com.sellmepdatatoai/site |  | 1.0.1 | Sell MEP Data to AI: the site's own MCP server — enquiry (enquiry = a human han… |
+| 2026-11-23 21:36:42 | com.sellmocapdatatoai/site |  | 1.0.1 | Sell Mocap Data to AI: the site's own MCP server — enquiry (enquiry = a human h… |
+| 2026-11-23 21:37:05 | com.sellmortgagedatatoai/site |  | 1.0.1 | Sell Mortgage Data to AI: the site's own MCP server — enquiry (enquiry = a huma… |
+| 2026-11-23 21:37:25 | com.sellmspdatatoai/site |  | 1.0.1 | Sell MSP Data To AI: the site's own MCP server — enquiry (enquiry = a human han… |
+| 2026-11-23 21:37:45 | com.sellmydatacompany/site |  | 1.0.1 | Sell My Data Company: the site's own MCP server — enquiry (enquiry = a human ha… |
+| 2026-11-23 21:38:05 | [io.github.alireza12t/gta6-runsheet](https://github.com/alireza12t/gta6-runsheet) | Runsheet: GTA VI guide | 1.0.0 | GTA 6 collectibles, map locations, missions, cheats, trophies, money tips and s… |
+| 2026-11-23 21:38:24 | com.sellnursinghomedatatoai/site |  | 1.0.1 | Sell Nursing Home Data to AI: the site's own MCP server — enquiry (enquiry = a… |
+| 2026-11-23 21:38:48 | com.selloptometrydatatoai/site |  | 1.0.1 | Sell Optometry Data to AI: the site's own MCP server — enquiry (enquiry = a hum… |
+| 2026-11-23 21:39:26 | com.sellpackagingdatatoai/site |  | 1.0.1 | Sell Packaging Data to AI: the site's own MCP server — enquiry (enquiry = a hum… |
+| 2026-11-23 21:39:49 | com.filadepuentes/mcp | Fila de Puentes | 1.3.0 | Live US-Mexico border wait times: 32 CBP ports, best crossing, history, cameras… |
+| 2026-11-23 21:40:20 | com.sellpaymentsdatatoai/site |  | 1.0.1 | Sell Payments Data to AI: the site's own MCP server — enquiry (enquiry = a huma… |
+| 2026-11-23 21:40:40 | free.plagiarism/mcp | Plagiarism.Free | 1.0.0 | Check texts for plagiarism against the live web, plus an AI writing signal |
+| 2026-11-23 21:40:40 | com.sellpcbdatatoai/site |  | 1.0.1 | Sell PCB Data to AI: the site's own MCP server — enquiry (enquiry = a human han… |
+| 2026-11-23 21:40:47 | free.best/mcp | Best.Free | 1.0.0 | Run PDF, image, file conversion, text and developer tools on text or a file link |
+| 2026-11-23 21:41:03 | com.sellpestcontroldatatoai/site |  | 1.0.1 | Sell Pest Control Data to AI: the site's own MCP server — enquiry (enquiry = a… |
+| 2026-11-23 21:41:26 | com.sellpharmacydatatoai/site |  | 1.0.1 | Sell Pharmacy Data to AI: the site's own MCP server — enquiry (enquiry = a huma… |
+| 2026-11-23 21:41:49 | com.sellpharmadatatoai/site |  | 1.0.1 | Sell Pharma Data To AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:42:28 | com.sellphotographyarchivetoai/site |  | 1.0.1 | Sell Photography Archive to AI: the site's own MCP server — enquiry (enquiry =… |
+| 2026-11-23 21:42:51 | com.sellphysicaltherapydatatoai/site |  | 1.0.1 | Sell Physical Therapy Data to AI: the site's own MCP server — enquiry (enquiry… |
+| 2026-11-23 21:43:30 | com.sellphysiotherapydatatoai/site |  | 1.0.1 | Sell Physiotherapy Data to AI: the site's own MCP server — enquiry (enquiry = a… |
+| 2026-11-23 21:43:35 | ai.appgarten/appgarten | Appgarten | 1.0.0 | AI Ops for your apps – we keep an eye on your app so you can keep building. |
+| 2026-11-23 21:43:46 | gratis.ia/mcp | ia.gratis | 1.0.0 | Spanish-first AI assistant: chat plus text tools for writing, study, work and c… |
+| 2026-11-23 21:43:54 | com.sellplasticsdatatoai/site |  | 1.0.1 | Sell Plastics Data to AI: the site's own MCP server — enquiry (enquiry = a huma… |
+| 2026-11-23 21:44:01 | [io.github.Selfware/flexeo](https://github.com/Selfware/flexeo) | Flexeo | 0.1.0 | Public read-only facts and budget guidance for Flexeo SEO/GEO, from US$30 a mon… |
+| 2026-11-23 21:44:18 | com.sellplayerdatatoai/site |  | 1.0.1 | Sell Player Data to AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:44:48 | com.questionstar/questionstar | QUESTIONSTAR | 1.0.0 | Create, manage, distribute, export and analyze online surveys in your QUESTIONS… |
+| 2026-11-23 21:44:57 | com.sellplumbingdatatoai/site |  | 1.0.1 | Sell Plumbing Data to AI: the site's own MCP server — enquiry (enquiry = a huma… |
+| 2026-11-23 21:45:19 | com.sellpointclouddatatoai/site |  | 1.0.1 | Sell Point Cloud Data to AI: the site's own MCP server — enquiry (enquiry = a h… |
+| 2026-11-23 21:45:35 | [io.github.ibrtokmecheng/packforai-mcp](https://github.com/ibrtokmecheng/packforai-mcp) |  | 0.1.2 | Convert PDF, DOCX, PPTX, XLSX, CSV and JSON into clean, AI-ready Markdown via t… |
+| 2026-11-23 21:45:58 | com.sellprivateequitydatatoai/site |  | 1.0.1 | Sell Private Equity Data to AI: the site's own MCP server — enquiry (enquiry =… |
+| 2026-11-23 21:46:37 | com.sellprocessdatatoai/site |  | 1.0.1 | Sell Process Data to AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:46:56 | com.disclosedlabs/disclosed-labs | Disclosed Labs | 1.0.0 | Research-peptide vendor grades, lab-report results, lab credibility and publish… |
+| 2026-11-23 21:47:00 | com.sellproductdesigndatatoai/site |  | 1.0.1 | Sell Product Design Data to AI: the site's own MCP server — enquiry (enquiry =… |
+| 2026-11-23 21:47:24 | com.sellproductimagestoai/site |  | 1.0.1 | Sell Product Images to AI: the site's own MCP server — enquiry (enquiry = a hum… |
+| 2026-11-23 21:47:47 | com.sellpropertymanagementdatatoai/site |  | 1.0.1 | Sell Property Management Data To AI: the site's own MCP server — enquiry (enqui… |
+| 2026-11-23 21:48:21 | ai.qonvert/qonvert | Qonvert | 1.0.0 | AI marketing adviser for campaign tracking and ad review. |
+| 2026-11-23 21:48:26 | com.sellqualitycontroldatatoai/site |  | 1.0.1 | Sell Quality Control Data to AI: the site's own MCP server — enquiry (enquiry =… |
+| 2026-11-23 21:48:47 | com.sellrawfootagetoai/site |  | 1.0.1 | Sell Raw Footage to AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:49:26 | com.sellrecruitmentagencydatatoai/site |  | 1.0.1 | Sell Recruitment Agency Data To AI: the site's own MCP server — enquiry (enquir… |
+| 2026-11-23 21:49:50 | com.sellrestaurantdatatoai/site |  | 1.0.1 | SellRestaurantDataToAI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:50:13 | com.sellrestorationdatatoai/site |  | 1.0.1 | Sell Restoration Data to AI: the site's own MCP server — enquiry (enquiry = a h… |
+| 2026-11-23 21:50:36 | com.sellretaildatatoai/site |  | 1.0.1 | Sell Retail Data to AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:51:15 | com.sellroboticsdatatoai/site |  | 1.0.1 | Sell Robotics Data to AI: the site's own MCP server — enquiry (enquiry = a huma… |
+| 2026-11-23 21:51:51 | com.sellroofingdatatoai/site |  | 1.0.1 | Sell Roofing Data to AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:52:26 | com.sellsaasdatatoai/site |  | 1.0.1 | Sell SaaS Data To AI: the site's own MCP server — enquiry (enquiry = a human ha… |
+| 2026-11-23 21:52:49 | com.sellschooldatatoai/site |  | 1.0.1 | Sell School Data to AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:53:12 | com.sellscientificdatatoai/site |  | 1.0.1 | Sell Scientific Data to AI: the site's own MCP server — enquiry (enquiry = a hu… |
+| 2026-11-23 21:53:51 | com.sellsecuritycompanydatatoai/site |  | 1.0.1 | Sell Security Company Data to AI: the site's own MCP server — enquiry (enquiry… |
+| 2026-11-23 21:54:26 | com.sellsemiconductordatatoai/site |  | 1.0.1 | Sell Semiconductor Data to AI: the site's own MCP server — enquiry (enquiry = a… |
+| 2026-11-23 21:55:04 | com.sellsensordatatoai/site |  | 1.0.1 | Sell Sensor Data to AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:55:43 | com.sellsimulationdatatoai/site |  | 1.0.1 | Sell Simulation Data to AI: the site's own MCP server — enquiry (enquiry = a hu… |
+| 2026-11-23 21:56:06 | com.sellsolardatatoai/site |  | 1.0.1 | Sell Solar Data to AI: the site's own MCP server — enquiry (enquiry = a human h… |
+| 2026-11-23 21:56:30 | com.sellsopstoai/site |  | 1.0.1 | Sell SOPs to AI: the site's own MCP server — enquiry (enquiry = a human handoff… |
+| 2026-11-23 21:56:53 | com.sellsportsdatatoai/site |  | 1.0.1 | Sell Sports Data to AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:57:33 | com.sellstaffingdatatoai/site |  | 1.0.1 | Sell Staffing Data To AI: the site's own MCP server — enquiry (enquiry = a huma… |
+| 2026-11-23 21:57:36 | [com.alkaratr/store-mcp](https://github.com/attaristnboli-a11y/alkara-store-mcp) | AL-KARA Cosmetics & GCC Store MCP Server | 1.0.0 | Search 64+ ÜTS-verified Turkish & Arabic cosmetics, TRY prices, and GCC shippin… |
+| 2026-11-23 21:58:12 | com.sellstartupdata/site |  | 1.0.1 | SellStartupData: the site's own MCP server — enquiry (enquiry = a human handoff… |
+| 2026-11-23 21:58:35 | com.sellstructuralengineeringdatatoai/site |  | 1.0.1 | Sell Structural Engineering Data to AI: the site's own MCP server — enquiry (en… |
+| 2026-11-23 21:58:58 | com.sellsupportticketstoai/site |  | 1.0.1 | Sell Support Tickets to AI: the site's own MCP server — enquiry (enquiry = a hu… |
+| 2026-11-23 21:59:06 | dev.kanagu/kanagu | Kanagu | 0.1.0 | Pay-per-call utility APIs for developers and AI agents: business days and deadl… |
+| 2026-11-23 21:59:36 | com.selltaxreturnstoai/site |  | 1.0.1 | Sell Tax Returns to AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:59:56 | com.selltelehealthdatatoai/site |  | 1.0.1 | Sell Telehealth Data to AI: the site's own MCP server — enquiry (enquiry = a hu… |
+| 2026-11-23 22:00:42 | com.selltextbookstoai/site |  | 1.0.1 | Sell Textbooks to AI: the site's own MCP server — enquiry (enquiry = a human ha… |
+| 2026-11-23 22:01:21 | com.selltextiledatatoai/site |  | 1.0.1 | Sell Textile Data to AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 22:01:59 | com.selltradedatatoai/site |  | 1.0.1 | Sell Trade Data to AI: the site's own MCP server — enquiry (enquiry = a human h… |
+| 2026-11-23 22:02:22 | [io.github.pain2hustle/cloudflare-ops-mcp](https://github.com/pain2hustle/cloudflare-ops-mcp) | AMH Cloudflare Ops MCP by WT | 0.15.6 | Approval-gated Cloudflare ops for agents: DNS, email auth, Pages, cache, Turnst… |
+| 2026-11-23 22:02:38 | com.selltradingdatatoai/site |  | 1.0.1 | Sell Trading Data to AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 22:03:00 | to.travel/mcp | travel.to | 1.0.0 | Find travel eSIM plans by country, check phone support, get a quote and a Strip… |
+| 2026-11-23 22:03:02 | com.selltrainingdata/site |  | 1.0.1 | Sell Training Data: the site's own MCP server — enquiry (enquiry = a human hand… |
+| 2026-11-23 22:03:25 | com.selltranslationdatatoai/site |  | 1.0.1 | Sell Translation Data To AI: the site's own MCP server — enquiry (enquiry = a h… |
+| 2026-11-23 22:04:04 | com.sellunderwritingdatatoai/site |  | 1.0.1 | Sell Underwriting Data To AI: the site's own MCP server — enquiry (enquiry = a… |
+| 2026-11-23 22:04:11 | [com.eurorackref/eurorack](https://github.com/jallen/eurorack-reference) |  | 0.21.1 | Eurorack module reference: typed jacks, controls, modes and specs, cited to man… |
+| 2026-11-23 22:04:27 | uk.co.sellusedservers/site |  | 1.0.1 | Sell used servers: the site's own MCP server — enquiry (enquiry = a human hando… |
+| 2026-11-23 22:04:41 | ai.transglot/transglot | Transglot | 1.0.0 | Manage your app's translations: read keys, fill missing languages, run QA and s… |
+| 2026-11-23 22:05:07 | com.sellveterinarydatatoai/site |  | 1.0.1 | SellVeterinaryDataToAI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 22:05:10 | free.fonts/mcp | Fonts.Free | 1.0.0 | Search about 2,000 open licensed font families and identify fonts in images |
+| 2026-11-23 22:05:10 | ai.zestli/commerce | Zestli | 1.0.0 | Search, quote and book tours, activities and stays from local businesses. You a… |
+| 2026-11-23 22:05:11 | ai.zestli/operator | Zestli for operators | 1.0.0 | Let your assistant run your Zestli listings: offerings, dates, prices, bookings… |
+| 2026-11-23 22:05:46 | com.sellvfxdatatoai/site |  | 1.0.1 | Sell VFX Data to AI: the site's own MCP server — enquiry (enquiry = a human han… |
+| 2026-11-23 22:06:06 | com.sellvideoproductiondatatoai/site |  | 1.0.1 | Sell Video Production Data to AI: the site's own MCP server — enquiry (enquiry… |
+| 2026-11-23 22:07:01 | com.sellwastedatatoai/site |  | 1.0.1 | Sell Waste Data to AI: the site's own MCP server — enquiry (enquiry = a human h… |
+| 2026-11-23 22:07:28 | bike.seo/mcp | seo.bike | 1.0.0 | Search Console index health audits with fixes, plus SEO checks for any public U… |
+| 2026-11-23 22:07:40 | com.sellwaterdatatoai/site |  | 1.0.1 | Sell Water Data To AI: the site's own MCP server — enquiry (enquiry = a human h… |
+| 2026-11-23 22:08:04 | com.sellwealthmanagementdatatoai/site |  | 1.0.1 | Sell Wealth Management Data to AI: the site's own MCP server — enquiry (enquiry… |
+| 2026-11-23 22:08:42 | com.sellworkplacedatatoai/site |  | 1.0.1 | Sell Workplace Data to AI: the site's own MCP server — enquiry (enquiry = a hum… |
+| 2026-11-23 22:08:55 | co.andbloom/growingus | Growing Us | 1.0.0 | AI couples coach: relationship coaching, help replying to a partner, and a Rela… |
+| 2026-11-23 22:09:23 | uk.co.septictanksurveycost/site |  | 1.0.1 | Septic tank survey: the site's own MCP server — enquiry (enquiry = a human hand… |
+| 2026-11-23 22:09:42 | uk.co.sewagetreatmentplantcost/site |  | 1.0.1 | Sewage treatment plant: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 22:10:06 | uk.co.siaacscost/site |  | 1.0.1 | SIA ACS cost: the site's own MCP server — enquiry (enquiry = a human handoff, n… |
+| 2026-11-23 22:10:45 | uk.co.smevaluation/site |  | 1.0.1 | How much is my business worth: the site's own MCP server — enquiry (enquiry = a… |
+| 2026-11-23 22:11:16 | com.revelationbaby/revelation-baby | Revelation Baby | 1.0.0 | Read-only guide to a Girl or boy? reveal: ideas, how it works, FAQ and hosting… |
+| 2026-11-23 22:11:21 | uk.co.smstscoursecost/site |  | 1.0.1 | SMSTS course cost: the site's own MCP server — enquiry (enquiry = a human hando… |
+| 2026-11-23 22:11:45 | com.spanishaitrainerjobs/site |  | 1.0.1 | Spanish AI Trainer Jobs: the site's own MCP server — compare, enquiry (enquiry… |
+| 2026-11-23 22:12:24 | com.spvfeecalculator/site |  | 1.0.1 | SPV Fee Calculator: the site's own MCP server — calculator, enquiry (enquiry =… |
+| 2026-11-23 22:12:59 | uk.co.ssstscoursecost/site |  | 1.0.1 | Sssts course: the site's own MCP server — enquiry (enquiry = a human handoff, n… |
+| 2026-11-23 22:13:34 | uk.co.structuralsurveycost/site |  | 1.0.1 | Structural survey cost: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 22:13:54 | uk.co.subsidencereport/site |  | 1.0.1 | Subsidence report: the site's own MCP server — enquiry (enquiry = a human hando… |
+| 2026-11-23 22:14:30 | uk.co.successiongap/site |  | 1.0.1 | Succession Gap: the site's own MCP server — enquiry (enquiry = a human handoff,… |
+| 2026-11-23 22:14:50 | uk.co.successorpractice/site |  | 1.0.1 | Successor Practice: the site's own MCP server — enquiry (enquiry = a human hand… |
+| 2026-11-23 22:15:13 | com.tamilaitrainerjobs/site |  | 1.0.1 | Tamil AI Trainer Jobs: the site's own MCP server — compare, enquiry (enquiry =… |
+| 2026-11-23 22:15:52 | com.tenderoffercalculator/site |  | 1.0.1 | Tender Offer Calculator: the site's own MCP server — calculator, enquiry (enqui… |
+| 2026-11-23 22:16:27 | com.thegtmcrew/site |  | 1.0.1 | The GTM Crew: the site's own MCP server — enquiry (enquiry = a human handoff, n… |
+| 2026-11-23 22:16:46 | [io.github.MebwayCompany/mebway-ai-space](https://github.com/MebwayCompany/mebway-ai-space-mcp) | Mebway AI Space | 0.1.0 | Design interiors, work on furniture concepts, and review Mebway project present… |
+| 2026-11-23 22:16:51 | uk.co.tradeeffluentcalculator/site |  | 1.0.1 | Trade Effluent Calculator: the site's own MCP server — calculator, enquiry (enq… |
+| 2026-11-23 22:17:29 | uk.co.troncsavingscalculator/site |  | 1.0.1 | Tronc Savings Calculator: the site's own MCP server — calculator, enquiry (enqu… |
+| 2026-11-23 22:17:53 | uk.co.ukcbamcalculator/site |  | 1.0.1 | UK CBAM Calculator: the site's own MCP server — calculator, enquiry (enquiry =… |
+| 2026-11-23 22:18:13 | uk.co.uksearchfunds/site |  | 1.0.1 | UK Search Funds: the site's own MCP server — enquiry (enquiry = a human handoff… |
+| 2026-11-23 22:18:48 | uk.co.utilitysurveycost/site |  | 1.0.1 | Utility Survey Cost: the site's own MCP server — enquiry (enquiry = a human han… |
+| 2026-11-23 22:19:24 | com.vietnameseaitrainerjob/site |  | 1.0.1 | VietnameseAITrainerJob: the site's own MCP server — compare, enquiry (enquiry =… |
+| 2026-11-23 22:20:02 | [io.github.ashcaswellbroker/ash-caswell-mcp](https://github.com/ashcaswellbroker/ash-caswell-mcp) | Ash Caswell & Company | 1.0.0 | Emerald Coast FL real estate: vacation rental math, closing taxes, rental tax r… |
+| 2026-11-23 22:20:03 | com.voicelicensingai/site |  | 1.0.1 | Voice Licensing AI: the site's own MCP server — enquiry (enquiry = a human hand… |
 
 ## Data source
 
