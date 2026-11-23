@@ -9,179 +9,158 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 20:19 UTC
+## Latest list — 2026-11-23 21:19 UTC
 
-New MCP servers published between 2026-11-23 19:20 UTC and 2026-11-23 20:19 UTC.
+New MCP servers published between 2026-11-23 20:19 UTC and 2026-11-23 21:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-23T20-19-31-649641Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-23T21-19-14-371578Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-23 19:21:01 | com.chapter11datasale/site |  | 1.0.1 | Chapter 11 Data Sale: the site's own MCP server — checker, enquiry (enquiry = a… |
-| 2026-11-23 19:22:31 | com.chineseaitrainerjobs/site |  | 1.0.1 | Chinese AI Trainer Jobs: the site's own MCP server — compare, enquiry (enquiry… |
-| 2026-11-23 19:23:47 | com.closercommissioncalculator/site |  | 1.0.1 | Closer Commission Calculator: the site's own MCP server — calculator, enquiry (… |
-| 2026-11-23 19:24:25 | uk.co.cncmachiningcost/site |  | 1.0.1 | CNC machining cost: the site's own MCP server — enquiry (enquiry = a human hand… |
-| 2026-11-23 19:24:25 | [dev.levni/levni](https://github.com/BoraGkc/levni) | Levni | 0.1.0 | Hand-inked illustrations, 3D covers and icons from JSON scenes. 1,600+ drawings… |
-| 2026-11-23 19:24:26 | [com.cyberscorelab.www/cyberscore](https://github.com/Automated-Client-Acquisition/plugins) | CyberScore | 1.0.0 | Grade any domain's security A to F with plain-English fixes, and list exploited… |
-| 2026-11-23 19:24:32 | pro.homehero/homehero | HomeHero | 0.1.0 | Query and update your synced HomeHero home inventory, locations, and upkeep tas… |
-| 2026-11-23 19:24:37 | com.automatedclientacquisition.www/aca | ACA (Automated Client Acquisition) | 1.6.1 | B2B outbound from your AI: campaigns, replies, CRM, lead lists and draft Linked… |
-| 2026-11-23 19:24:43 | [io.github.Automated-Client-Acquisition/kivloo](https://github.com/Automated-Client-Acquisition/kivloo-plugins) | Kivloo | 0.1.0 | Food safety and workplace compliance: HACCP plans, SOPs, checklists, inspection… |
-| 2026-11-23 19:25:43 | uk.co.colpcofa/site |  | 1.0.1 | COLP and COFA: the site's own MCP server — enquiry (enquiry = a human handoff,… |
-| 2026-11-23 19:28:28 | com.hive/hive | Hive | 1.0.0 | Plan and track projects, actions, approvals, time and CRM in Hive from your AI… |
-| 2026-11-23 19:28:52 | uk.co.constructionwasteremoval/site |  | 1.0.1 | Construction waste removal: the site's own MCP server — enquiry (enquiry = a hu… |
-| 2026-11-23 19:29:19 | uk.co.contaminatedlandsurveycost/site |  | 1.0.1 | Contaminated land survey: the site's own MCP server — enquiry (enquiry = a huma… |
-| 2026-11-23 19:30:17 | [com.intrinsicalpha/intrinsic-alpha](https://github.com/IntrinsicAlpha/skills) | Intrinsic Alpha | 1.0.0 | DCF intrinsic values, financial statements, estimates, and charts for U.S.-list… |
-| 2026-11-23 19:30:40 | uk.co.costtobuyabusiness/site |  | 1.0.1 | Cost to Buy a Business: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 19:31:05 | io.github.Trav-Flo/traverse-marktdaten | TRAVERSE Marktdaten Österreich | 0.2.0 | Austrian power market data: day-ahead prices, capture rates, generation mix, pl… |
-| 2026-11-23 19:31:09 | uk.co.costtobuyadentalpractice/site |  | 1.0.1 | Cost to buy a dental practice: the site's own MCP server — enquiry (enquiry = a… |
-| 2026-11-23 19:31:17 | com.yirla/yirla | Yirla | 1.0.0 | AI paid media analyst: LinkedIn, Google, Meta, Reddit, TikTok and OpenAI Ads, p… |
-| 2026-11-23 19:32:23 | uk.co.csopcalculator/site |  | 1.0.1 | CSOP Calculator: the site's own MCP server — calculator, enquiry (enquiry = a h… |
-| 2026-11-23 19:33:14 | [io.github.thebriangao/totem](https://github.com/thebriangao/totem) |  | 2.0.0 | Your own WHOOP server for AI apps: recovery, sleep, strain, workouts, journal a… |
-| 2026-11-23 19:33:41 | space.afterhoursbots/afterhours | AFTERHOURS | 1.0.0 | An agent help desk, Gallery, and social rooms. Search troubleshooting notes, fi… |
-| 2026-11-23 19:34:06 | uk.co.dataannotationjobs/site |  | 1.0.1 | Data Annotation Jobs: the site's own MCP server — compare, enquiry (enquiry = a… |
-| 2026-11-23 19:34:48 | com.databrokerregistration/site |  | 1.0.1 | Data Broker Registration: the site's own MCP server — checker, enquiry (enquiry… |
-| 2026-11-23 19:35:30 | com.datacardgenerator/site |  | 1.0.1 | Data Card Generator: the site's own MCP server — calculator, enquiry (enquiry =… |
-| 2026-11-23 19:36:09 | com.datacompanyvaluation/site |  | 1.0.1 | Data Company Valuation: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 19:36:47 | com.datadealroom/site |  | 1.0.1 | DataDealRoom: the site's own MCP server — enquiry (enquiry = a human handoff, n… |
-| 2026-11-23 19:37:15 | com.dataforwardflow/site |  | 1.0.1 | Data Forward Flow: the site's own MCP server — calculator, enquiry (enquiry = a… |
-| 2026-11-23 19:37:46 | com.datalicensingagreement/site |  | 1.0.1 | Data Licensing Agreement: the site's own MCP server — calculator, enquiry (enqu… |
-| 2026-11-23 19:38:21 | com.datasetvaluation/site |  | 1.0.1 | Dataset Valuation: the site's own MCP server — enquiry (enquiry = a human hando… |
-| 2026-11-23 19:38:22 | [io.usefulapi/viva-com](https://github.com/m190/usefulapi-mcp) | Viva.com MCP by usefulapi | 1.0.0 | Get transactions, search wallet activity, list merchant wallets, create payment… |
-| 2026-11-23 19:38:34 | [io.github.mrfentmen/appraisal-gap-plan-mcp](https://github.com/mrfentmen/awesome-servers) | Appraisal Gap Plan Tracker | 1.0.0 | Real local JSON analysis of appraisal gap plan in the Closing Table lane. 25 MC… |
-| 2026-11-23 19:38:36 | [io.github.mrfentmen/boss-fight-loadout-mcp](https://github.com/mrfentmen/awesome-servers) | Boss Fight Loadout Compare | 1.0.0 | Real local JSON analysis of boss fight loadout in the Dungeon Guide lane. 25 MC… |
-| 2026-11-23 19:38:37 | [io.github.mrfentmen/closing-cost-split-mcp](https://github.com/mrfentmen/awesome-servers) | Closing Cost Split Compare | 1.0.0 | Real local JSON analysis of closing cost split in the Closing Table lane. 25 MC… |
-| 2026-11-23 19:38:37 | [io.github.mrfentmen/co-op-night-plan-mcp](https://github.com/mrfentmen/awesome-servers) | Co Op Night Plan Guide | 1.0.0 | Real local JSON analysis of co op night plan in the Dungeon Guide lane. 25 MCP… |
-| 2026-11-23 19:38:40 | [io.github.mrfentmen/dungeon-loot-table-mcp](https://github.com/mrfentmen/awesome-servers) | Dungeon Loot Table Tracker | 1.0.0 | Real local JSON analysis of dungeon loot table in the Dungeon Guide lane. 25 MC… |
-| 2026-11-23 19:38:42 | [io.github.mrfentmen/escrow-shortage-fix-mcp](https://github.com/mrfentmen/awesome-servers) | Escrow Shortage Fix Planner | 1.0.0 | Real local JSON analysis of escrow shortage fix in the Closing Table lane. 25 M… |
-| 2026-11-23 19:38:43 | [io.github.mrfentmen/field-lining-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Field Lining Guide Guide | 1.0.0 | Real local JSON analysis of field lining guide in the Bracket Season lane. 25 M… |
-| 2026-11-23 19:38:44 | [io.github.mrfentmen/first-week-fix-list-mcp](https://github.com/mrfentmen/awesome-servers) | First Week Fix List Tracker | 1.0.0 | Real local JSON analysis of first week fix list in the Closing Table lane. 25 M… |
-| 2026-11-23 19:38:44 | [io.github.mrfentmen/flood-zone-check-mcp](https://github.com/mrfentmen/awesome-servers) | Flood Zone Check Checklist | 1.0.0 | Real local JSON analysis of flood zone check in the Closing Table lane. 25 MCP… |
-| 2026-11-23 19:38:45 | [io.github.mrfentmen/hoa-doc-review-mcp](https://github.com/mrfentmen/awesome-servers) | Hoa Doc Review Guide | 1.0.0 | Real local JSON analysis of hoa doc review in the Closing Table lane. 25 MCP to… |
-| 2026-11-23 19:38:47 | [io.github.mrfentmen/key-rekey-schedule-mcp](https://github.com/mrfentmen/awesome-servers) | Key Rekey Schedule Planner | 1.0.0 | Real local JSON analysis of key rekey schedule in the Closing Table lane. 25 MC… |
-| 2026-11-23 19:38:47 | uk.co.datauseandaccessact/site |  | 1.0.1 | Data Use and Access Act: the site's own MCP server — checker, enquiry (enquiry… |
-| 2026-11-23 19:38:48 | [io.github.mrfentmen/march-bracket-pick-mcp](https://github.com/mrfentmen/awesome-servers) | March Bracket Pick Tracker | 1.0.0 | Real local JSON analysis of march bracket pick in the Bracket Season lane. 25 M… |
-| 2026-11-23 19:38:49 | [io.github.mrfentmen/moving-truck-size-mcp](https://github.com/mrfentmen/awesome-servers) | Moving Truck Size Guide | 1.0.0 | Real local JSON analysis of moving truck size in the Closing Table lane. 25 MCP… |
-| 2026-11-23 19:38:50 | [io.github.mrfentmen/npc-dialogue-bank-mcp](https://github.com/mrfentmen/awesome-servers) | Npc Dialogue Bank Tracker | 1.0.0 | Real local JSON analysis of npc dialogue bank in the Dungeon Guide lane. 25 MCP… |
-| 2026-11-23 19:38:51 | [io.github.mrfentmen/pickem-pool-split-mcp](https://github.com/mrfentmen/awesome-servers) | Pickem Pool Split Compare | 1.0.0 | Real local JSON analysis of pickem pool split in the Bracket Season lane. 25 MC… |
-| 2026-11-23 19:38:51 | [io.github.mrfentmen/pixel-sprite-scale-mcp](https://github.com/mrfentmen/awesome-servers) | Pixel Sprite Scale Audit | 1.0.0 | Real local JSON analysis of pixel sprite scale in the Dungeon Guide lane. 25 MC… |
-| 2026-11-23 19:38:52 | [io.github.mrfentmen/pmi-drop-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | Pmi Drop Tracker Audit | 1.0.0 | Real local JSON analysis of pmi drop tracker in the Closing Table lane. 25 MCP… |
-| 2026-11-23 19:38:53 | [io.github.mrfentmen/puzzle-hint-ladder-mcp](https://github.com/mrfentmen/awesome-servers) | Puzzle Hint Ladder Compare | 1.0.0 | Real local JSON analysis of puzzle hint ladder in the Dungeon Guide lane. 25 MC… |
-| 2026-11-23 19:38:54 | [io.github.mrfentmen/quest-log-template-mcp](https://github.com/mrfentmen/awesome-servers) | Quest Log Template Planner | 1.0.0 | Real local JSON analysis of quest log template in the Dungeon Guide lane. 25 MC… |
-| 2026-11-23 19:38:55 | [io.github.mrfentmen/rate-lock-timing-mcp](https://github.com/mrfentmen/awesome-servers) | Rate Lock Timing Checklist | 1.0.0 | Real local JSON analysis of rate lock timing in the Closing Table lane. 25 MCP… |
-| 2026-11-23 19:38:56 | [io.github.mrfentmen/ref-signal-chart-mcp](https://github.com/mrfentmen/awesome-servers) | Ref Signal Chart Planner | 1.0.0 | Real local JSON analysis of ref signal chart in the Bracket Season lane. 25 MCP… |
-| 2026-11-23 19:39:02 | [io.github.mrfentmen/tailgate-pack-list-mcp](https://github.com/mrfentmen/awesome-servers) | Tailgate Pack List Planner | 1.0.0 | Real local JSON analysis of tailgate pack list in the Bracket Season lane. 25 M… |
-| 2026-11-23 19:39:04 | [io.github.mrfentmen/travel-ball-budget-mcp](https://github.com/mrfentmen/awesome-servers) | Travel Ball Budget Planner | 1.0.0 | Real local JSON analysis of travel ball budget in the Bracket Season lane. 25 M… |
-| 2026-11-23 19:40:08 | uk.co.doineedanaipolicy/site |  | 1.0.1 | Do I need an AI policy: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 19:40:48 | com.getgimmegimme/gimme-gimme | Gimme Gimme | 1.0.0 | Design on-brand, Meta-ready static ads for any brand from its website and compe… |
-| 2026-11-23 19:41:12 | uk.co.duediligencecost/site |  | 1.0.1 | Due Diligence Cost: the site's own MCP server — enquiry (enquiry = a human hand… |
-| 2026-11-23 19:41:31 | video.clip/mcp | clip.video | 1.0.0 | Turn long videos into short vertical captioned clips, captions or transcripts. |
-| 2026-11-23 19:41:40 | com.earlyexercisecalculator/site |  | 1.0.1 | Early Exercise Calculator: the site's own MCP server — calculator, enquiry (enq… |
-| 2026-11-23 19:42:06 | uk.co.ecologicalsurveycost/site |  | 1.0.1 | Ecological survey cost: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 19:42:38 | io.github.IMALI-DEFI/sports-jedi-mcp |  | 0.1.0 | Sports Jedi: free Parlay Grader plus model picks, own NBA/NFL player props and… |
-| 2026-11-23 19:42:39 | io.github.IMALI-DEFI/imali-mcp |  | 0.1.0 | IMALI: free A–F Portfolio Grader plus demo trading signals. Read-only, no accou… |
-| 2026-11-23 19:42:47 | com.egocentricdatacollection/site |  | 1.0.1 | EgocentricDataCollection: the site's own MCP server — enquiry (enquiry = a huma… |
-| 2026-11-23 19:43:45 | uk.co.eicrcertificateprices/site |  | 1.0.1 | EICR certificate cost: the site's own MCP server — enquiry (enquiry = a human h… |
-| 2026-11-23 19:44:37 | uk.co.emioptionscalculator/site |  | 1.0.1 | EMI Options Calculator: the site's own MCP server — calculator, enquiry (enquir… |
-| 2026-11-23 19:44:53 | com.eprfilinghq/epr-lookup | EPR Filing HQ: packaging EPR lookup | 0.1.0 | Read-only US packaging EPR lookup: CAA states, deadlines and estimated fees, wi… |
-| 2026-11-23 19:45:19 | uk.co.emivaluation/site |  | 1.0.1 | EMI valuation: the site's own MCP server — enquiry (enquiry = a human handoff,… |
-| 2026-11-23 19:46:57 | com.enterprisetrainingdataproviders/site |  | 1.0.1 | Enterprise Training Data Providers: the site's own MCP server — compare, enquir… |
-| 2026-11-23 19:49:01 | uk.co.fcaauthorisationcost/site |  | 1.0.1 | FCA authorisation cost: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 19:49:26 | [ca.nimbusland/nimbus-land](https://github.com/nimbus-land/claude-plugin) | Nimbus Land | 1.0.0 | Deploy, debug and run web apps on Canadian hosting: builds, logs, errors, env v… |
-| 2026-11-23 19:50:01 | com.findersfeecalculator/site |  | 1.0.1 | Finders Fee Calculator: the site's own MCP server — calculator, enquiry (enquir… |
-| 2026-11-23 19:50:43 | com.finetuningcostcalculator/site |  | 1.0.1 | Fine Tuning Cost Calculator: the site's own MCP server — calculator, enquiry (e… |
-| 2026-11-23 19:51:49 | uk.co.firstaidatworkcoursecost/site |  | 1.0.1 | First aid at work course: the site's own MCP server — enquiry (enquiry = a huma… |
-| 2026-11-23 19:52:32 | uk.co.floodriskassessmentcost/site |  | 1.0.1 | Flood risk assessment cost: the site's own MCP server — enquiry (enquiry = a hu… |
-| 2026-11-23 19:53:48 | com.footagevaluecalculator/site |  | 1.0.1 | Footage Value Calculator: the site's own MCP server — calculator, enquiry (enqu… |
-| 2026-11-23 19:54:26 | com.producthunt/mcp | Product Hunt | 1.0.1 | Discover apps, AI tools and MCP servers, compare alternatives, and manage your… |
-| 2026-11-23 19:55:10 | uk.co.fractionalcfocost/site |  | 1.0.1 | Fractional CFO cost: the site's own MCP server — enquiry (enquiry = a human han… |
-| 2026-11-23 19:55:36 | uk.co.fractionalctocost/site |  | 1.0.1 | Fractional CTO cost: the site's own MCP server — enquiry (enquiry = a human han… |
-| 2026-11-23 19:56:35 | com.frenchaitrainerjobs/site |  | 1.0.1 | French AI Trainer Jobs: the site's own MCP server — compare, enquiry (enquiry =… |
-| 2026-11-23 19:57:18 | uk.co.fscslevycalculator/site |  | 1.0.1 | FSCS Levy Calculator: the site's own MCP server — calculator, enquiry (enquiry… |
-| 2026-11-23 19:57:56 | ai.free/mcp | Free.ai | 1.0.0 | Chat with hundreds of AI models, generate images and turn text into speech. |
-| 2026-11-23 19:58:21 | uk.co.gassafetycertificatecost/site |  | 1.0.1 | Gas safety certificate cost: the site's own MCP server — enquiry (enquiry = a h… |
-| 2026-11-23 19:58:22 | [io.github.rgf2004/pushpage](https://github.com/rgf2004/pushpage) | pushpage | 1.8.0 | Publish HTML from your AI agent and get a shareable link back. |
-| 2026-11-23 19:59:13 | com.germanaitrainerjobs/site |  | 1.0.1 | German AI Trainer Jobs: the site's own MCP server — compare, enquiry (enquiry =… |
-| 2026-11-23 20:00:16 | de.ki-insel/ki-insel | KI-Insel – KI-Wissen und Fortbildungen | 1.0.0 | Kurse, Fachartikel, Fortbildungen und Beratungstermine der KI-Insel abrufen. |
-| 2026-11-23 20:00:49 | com.gpucollateralloans/site |  | 1.0.1 | GPU Collateral Loans: the site's own MCP server — compare, enquiry (enquiry = a… |
-| 2026-11-23 20:01:13 | [io.usefulapi/tipee](https://github.com/m190/usefulapi-mcp) | tipee MCP by usefulapi | 1.0.0 | Read employees, teams, absences, schedules, time clock entries, projects and ac… |
-| 2026-11-23 20:01:59 | uk.co.habitationcheckcost/site |  | 1.0.1 | Habitation check: the site's own MCP server — enquiry (enquiry = a human handof… |
-| 2026-11-23 20:02:37 | uk.co.hazardouswastedisposalcost/site |  | 1.0.1 | Hazardous waste disposal: the site's own MCP server — enquiry (enquiry = a huma… |
-| 2026-11-23 20:03:20 | uk.co.healthandsafetycoursecost/site |  | 1.0.1 | Health and Safety Course Cost: the site's own MCP server — enquiry (enquiry = a… |
-| 2026-11-23 20:03:28 | com.strataigize/mcp | Strataigize | 1.2.0 | Performance marketing, development and AI automation agency. Mobile app marketi… |
-| 2026-11-23 20:04:29 | uk.co.hfsscalculator/site |  | 1.0.1 | HFSS Calculator: the site's own MCP server — calculator, enquiry (enquiry = a h… |
-| 2026-11-23 20:04:58 | [io.github.mrfentmen/bagel-boil-timer-mcp](https://github.com/mrfentmen/awesome-servers) | Bagel Boil Timer Tracker | 1.0.0 | Real local JSON analysis of bagel boil timer in the Bake Lab lane. 25 MCP tools… |
-| 2026-11-23 20:04:58 | [io.github.mrfentmen/beard-fade-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Beard Fade Guide Tracker | 1.0.0 | Real local JSON analysis of beard fade guide in the Groom Kit lane. 25 MCP tool… |
-| 2026-11-23 20:04:59 | [io.github.mrfentmen/biscuit-layer-fold-mcp](https://github.com/mrfentmen/awesome-servers) | Biscuit Layer Fold Tracker | 1.0.0 | Real local JSON analysis of biscuit layer fold in the Bake Lab lane. 25 MCP too… |
-| 2026-11-23 20:04:59 | [io.github.mrfentmen/blocking-mat-setup-mcp](https://github.com/mrfentmen/awesome-servers) | Blocking Mat Setup Checklist | 1.0.0 | Real local JSON analysis of blocking mat setup in the Craft Table lane. 25 MCP… |
-| 2026-11-23 20:05:00 | [io.github.mrfentmen/brioche-butter-temp-mcp](https://github.com/mrfentmen/awesome-servers) | Brioche Butter Temp Planner | 1.0.0 | Real local JSON analysis of brioche butter temp in the Bake Lab lane. 25 MCP to… |
-| 2026-11-23 20:05:01 | [io.github.mrfentmen/buttercream-crust-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Buttercream Crust Guide Audit | 1.0.0 | Real local JSON analysis of buttercream crust guide in the Bake Lab lane. 25 MC… |
-| 2026-11-23 20:05:01 | [io.github.mrfentmen/buttonhole-foot-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Buttonhole Foot Guide Audit | 1.0.0 | Real local JSON analysis of buttonhole foot guide in the Craft Table lane. 25 M… |
-| 2026-11-23 20:05:02 | [io.github.mrfentmen/candle-wick-size-mcp](https://github.com/mrfentmen/awesome-servers) | Candle Wick Size Planner | 1.0.0 | Real local JSON analysis of candle wick size in the Craft Table lane. 25 MCP to… |
-| 2026-11-23 20:05:03 | [io.github.mrfentmen/ciabatta-fold-schedule-mcp](https://github.com/mrfentmen/awesome-servers) | Ciabatta Fold Schedule Checklist | 1.0.0 | Real local JSON analysis of ciabatta fold schedule in the Bake Lab lane. 25 MCP… |
-| 2026-11-23 20:05:03 | [io.github.mrfentmen/cinnamon-roll-proof-mcp](https://github.com/mrfentmen/awesome-servers) | Cinnamon Roll Proof Checklist | 1.0.0 | Real local JSON analysis of cinnamon roll proof in the Bake Lab lane. 25 MCP to… |
-| 2026-11-23 20:05:04 | [io.github.mrfentmen/clip-timestamp-log-mcp](https://github.com/mrfentmen/awesome-servers) | Clip Timestamp Log Tracker | 1.0.0 | Real local JSON analysis of clip timestamp log in the Dungeon Guide lane. 25 MC… |
-| 2026-11-23 20:05:05 | [io.github.mrfentmen/croissant-laminate-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Croissant Laminate Guide Compare | 1.0.0 | Real local JSON analysis of croissant laminate guide in the Bake Lab lane. 25 M… |
-| 2026-11-23 20:05:06 | [io.github.mrfentmen/donut-fry-temp-mcp](https://github.com/mrfentmen/awesome-servers) | Donut Fry Temp Tracker | 1.0.0 | Real local JSON analysis of donut fry temp in the Bake Lab lane. 25 MCP tools,… |
-| 2026-11-23 20:05:06 | [io.github.mrfentmen/dye-lot-match-mcp](https://github.com/mrfentmen/awesome-servers) | Dye Lot Match Guide | 1.0.0 | Real local JSON analysis of dye lot match in the Craft Table lane. 25 MCP tools… |
-| 2026-11-23 20:05:07 | [io.github.mrfentmen/eclair-pipe-count-mcp](https://github.com/mrfentmen/awesome-servers) | Eclair Pipe Count Guide | 1.0.0 | Real local JSON analysis of eclair pipe count in the Bake Lab lane. 25 MCP tool… |
-| 2026-11-23 20:05:07 | [io.github.mrfentmen/embroidery-hoop-art-mcp](https://github.com/mrfentmen/awesome-servers) | Embroidery Hoop Art Checklist | 1.0.0 | Real local JSON analysis of embroidery hoop art in the Craft Table lane. 25 MCP… |
-| 2026-11-23 20:05:08 | [io.github.mrfentmen/fabric-prewash-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Fabric Prewash Guide Guide | 1.0.0 | Real local JSON analysis of fabric prewash guide in the Craft Table lane. 25 MC… |
-| 2026-11-23 20:05:08 | [io.github.mrfentmen/focaccia-dimple-timing-mcp](https://github.com/mrfentmen/awesome-servers) | Focaccia Dimple Timing Audit | 1.0.0 | Real local JSON analysis of focaccia dimple timing in the Bake Lab lane. 25 MCP… |
-| 2026-11-23 20:05:10 | [io.github.mrfentmen/fondant-cover-calc-mcp](https://github.com/mrfentmen/awesome-servers) | Fondant Cover Calc Planner | 1.0.0 | Real local JSON analysis of fondant cover calc in the Bake Lab lane. 25 MCP too… |
-| 2026-11-23 20:05:11 | [io.github.mrfentmen/ganache-ratio-chart-mcp](https://github.com/mrfentmen/awesome-servers) | Ganache Ratio Chart Checklist | 1.0.0 | Real local JSON analysis of ganache ratio chart in the Bake Lab lane. 25 MCP to… |
-| 2026-11-23 20:05:11 | [io.github.mrfentmen/hair-trim-schedule-mcp](https://github.com/mrfentmen/awesome-servers) | Hair Trim Schedule Planner | 1.0.0 | Real local JSON analysis of hair trim schedule in the Groom Kit lane. 25 MCP to… |
-| 2026-11-23 20:05:12 | [io.github.mrfentmen/headset-eq-preset-mcp](https://github.com/mrfentmen/awesome-servers) | Headset Eq Preset Audit | 1.0.0 | Real local JSON analysis of headset eq preset in the Dungeon Guide lane. 25 MCP… |
-| 2026-11-23 20:05:12 | [io.github.mrfentmen/hem-allowance-chart-mcp](https://github.com/mrfentmen/awesome-servers) | Hem Allowance Chart Tracker | 1.0.0 | Real local JSON analysis of hem allowance chart in the Craft Table lane. 25 MCP… |
-| 2026-11-23 20:05:14 | [io.github.mrfentmen/knit-gauge-calc-mcp](https://github.com/mrfentmen/awesome-servers) | Knit Gauge Calc Compare | 1.0.0 | Real local JSON analysis of knit gauge calc in the Craft Table lane. 25 MCP too… |
-| 2026-11-23 20:05:15 | [io.github.mrfentmen/macaron-foot-fix-mcp](https://github.com/mrfentmen/awesome-servers) | Macaron Foot Fix Compare | 1.0.0 | Real local JSON analysis of macaron foot fix in the Bake Lab lane. 25 MCP tools… |
-| 2026-11-23 20:05:15 | [io.github.mrfentmen/meringue-peak-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Meringue Peak Guide Guide | 1.0.0 | Real local JSON analysis of meringue peak guide in the Bake Lab lane. 25 MCP to… |
-| 2026-11-23 20:05:16 | [io.github.mrfentmen/mod-load-order-mcp](https://github.com/mrfentmen/awesome-servers) | Mod Load Order Compare | 1.0.0 | Real local JSON analysis of mod load order in the Dungeon Guide lane. 25 MCP to… |
-| 2026-11-23 20:05:17 | [io.github.mrfentmen/party-voice-setup-mcp](https://github.com/mrfentmen/awesome-servers) | Party Voice Setup Planner | 1.0.0 | Real local JSON analysis of party voice setup in the Dungeon Guide lane. 25 MCP… |
-| 2026-11-23 20:05:17 | [io.github.mrfentmen/patch-note-summary-mcp](https://github.com/mrfentmen/awesome-servers) | Patch Note Summary Checklist | 1.0.0 | Real local JSON analysis of patch note summary in the Dungeon Guide lane. 25 MC… |
-| 2026-11-23 20:05:18 | [io.github.mrfentmen/pattern-size-grade-mcp](https://github.com/mrfentmen/awesome-servers) | Pattern Size Grade Compare | 1.0.0 | Real local JSON analysis of pattern size grade in the Craft Table lane. 25 MCP… |
-| 2026-11-23 20:05:18 | [io.github.mrfentmen/pie-crust-blind-bake-mcp](https://github.com/mrfentmen/awesome-servers) | Pie Crust Blind Bake Tracker | 1.0.0 | Real local JSON analysis of pie crust blind bake in the Bake Lab lane. 25 MCP t… |
-| 2026-11-23 20:05:19 | [io.github.mrfentmen/pizza-dough-hydration-mcp](https://github.com/mrfentmen/awesome-servers) | Pizza Dough Hydration Planner | 1.0.0 | Real local JSON analysis of pizza dough hydration in the Bake Lab lane. 25 MCP… |
-| 2026-11-23 20:05:19 | [io.github.mrfentmen/pretzel-lye-safety-mcp](https://github.com/mrfentmen/awesome-servers) | Pretzel Lye Safety Guide | 1.0.0 | Real local JSON analysis of pretzel lye safety in the Bake Lab lane. 25 MCP too… |
-| 2026-11-23 20:05:20 | [io.github.mrfentmen/quilt-binding-cut-mcp](https://github.com/mrfentmen/awesome-servers) | Quilt Binding Cut Guide | 1.0.0 | Real local JSON analysis of quilt binding cut in the Craft Table lane. 25 MCP t… |
-| 2026-11-23 20:05:20 | [io.github.mrfentmen/resin-cure-timer-mcp](https://github.com/mrfentmen/awesome-servers) | Resin Cure Timer Tracker | 1.0.0 | Real local JSON analysis of resin cure timer in the Craft Table lane. 25 MCP to… |
-| 2026-11-23 20:05:21 | [io.github.mrfentmen/save-backup-plan-mcp](https://github.com/mrfentmen/awesome-servers) | Save Backup Plan Guide | 1.0.0 | Real local JSON analysis of save backup plan in the Dungeon Guide lane. 25 MCP… |
-| 2026-11-23 20:05:21 | [io.github.mrfentmen/scone-cut-vs-pat-mcp](https://github.com/mrfentmen/awesome-servers) | Scone Cut Vs Pat Planner | 1.0.0 | Real local JSON analysis of scone cut vs pat in the Bake Lab lane. 25 MCP tools… |
-| 2026-11-23 20:05:22 | [io.github.mrfentmen/serger-thread-order-mcp](https://github.com/mrfentmen/awesome-servers) | Serger Thread Order Tracker | 1.0.0 | Real local JSON analysis of serger thread order in the Craft Table lane. 25 MCP… |
-| 2026-11-23 20:05:23 | [io.github.mrfentmen/server-lag-diagnose-mcp](https://github.com/mrfentmen/awesome-servers) | Server Lag Diagnose Audit | 1.0.0 | Real local JSON analysis of server lag diagnose in the Dungeon Guide lane. 25 M… |
-| 2026-11-23 20:05:24 | [io.github.mrfentmen/sewing-bobbin-tension-mcp](https://github.com/mrfentmen/awesome-servers) | Sewing Bobbin Tension Planner | 1.0.0 | Real local JSON analysis of sewing bobbin tension in the Craft Table lane. 25 M… |
-| 2026-11-23 20:05:25 | [io.github.mrfentmen/soap-cure-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | Soap Cure Tracker Tracker | 1.0.0 | Real local JSON analysis of soap cure tracker in the Craft Table lane. 25 MCP t… |
-| 2026-11-23 20:05:25 | [io.github.mrfentmen/sticky-bun-flip-timing-mcp](https://github.com/mrfentmen/awesome-servers) | Sticky Bun Flip Timing Audit | 1.0.0 | Real local JSON analysis of sticky bun flip timing in the Bake Lab lane. 25 MCP… |
-| 2026-11-23 20:05:26 | [io.github.mrfentmen/tart-shell-trim-mcp](https://github.com/mrfentmen/awesome-servers) | Tart Shell Trim Compare | 1.0.0 | Real local JSON analysis of tart shell trim in the Bake Lab lane. 25 MCP tools,… |
-| 2026-11-23 20:05:26 | [io.github.mrfentmen/tournament-bracket-mcp](https://github.com/mrfentmen/awesome-servers) | Tournament Bracket Tracker | 1.0.0 | Real local JSON analysis of tournament bracket in the Dungeon Guide lane. 25 MC… |
-| 2026-11-23 20:05:27 | [io.github.mrfentmen/weaving-warp-calc-mcp](https://github.com/mrfentmen/awesome-servers) | Weaving Warp Calc Audit | 1.0.0 | Real local JSON analysis of weaving warp calc in the Craft Table lane. 25 MCP t… |
-| 2026-11-23 20:05:27 | [io.github.mrfentmen/yarn-sub-compare-mcp](https://github.com/mrfentmen/awesome-servers) | Yarn Sub Compare Compare | 1.0.0 | Real local JSON analysis of yarn sub compare in the Craft Table lane. 25 MCP to… |
-| 2026-11-23 20:05:28 | [io.github.mrfentmen/zipper-install-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Zipper Install Guide Planner | 1.0.0 | Real local JSON analysis of zipper install guide in the Craft Table lane. 25 MC… |
-| 2026-11-23 20:05:36 | ai.stt/mcp | STT.ai | 1.0.0 | Transcribe audio and video links and read, export and list your transcripts |
-| 2026-11-23 20:05:47 | ai.tts/mcp | TTS.ai | 1.0.0 | Turn text into natural speech with AI voices in many languages |
-| 2026-11-23 20:05:50 | pl.testyangielskiego/testy | TestyAngielskiego.pl | 1.0.0 | Free English tests A1-C2 for Polish learners: levels, topics, exams, sample que… |
-| 2026-11-23 20:05:56 | uk.co.hospitalitybusinessrates/site |  | 1.0.1 | Hospitality business rates: the site's own MCP server — enquiry (enquiry = a hu… |
-| 2026-11-23 20:06:21 | com.howmuchdoailabspayfordata/site |  | 1.0.1 | How Much Do AI Labs Pay for Data: the site's own MCP server — enquiry (enquiry… |
-| 2026-11-23 20:07:36 | uk.co.ifaconsolidators/site |  | 1.0.1 | IFA Consolidators: the site's own MCP server — enquiry (enquiry = a human hando… |
-| 2026-11-23 20:09:04 | uk.co.industrialwastedisposal/site |  | 1.0.1 | Industrial waste disposal: the site's own MCP server — enquiry (enquiry = a hum… |
-| 2026-11-23 20:09:06 | app.hypercrm/hypercrm | HyperCRM | 0.2.0 | Patients, scheduling, billing, forms and reporting in your HyperCRM practice, u… |
-| 2026-11-23 20:09:57 | uk.co.inventoryreportcost/site |  | 1.0.1 | Inventory report: the site's own MCP server — enquiry (enquiry = a human handof… |
-| 2026-11-23 20:10:39 | com.abinomics/reference | Abinomics Reference | 1.0.0 | Reference for people and agents: economics, finance, politics and genomics term… |
-| 2026-11-23 20:10:48 | uk.co.ipafcoursecost/site |  | 1.0.1 | IPAF course cost: the site's own MCP server — enquiry (enquiry = a human handof… |
-| 2026-11-23 20:11:30 | com.ipolockupcalendar/site |  | 1.0.1 | IPO Lockup Calendar: the site's own MCP server — calculator, enquiry (enquiry =… |
-| 2026-11-23 20:11:53 | [io.github.Corcoin/poly-swap](https://github.com/Corcoin/poly-swap) |  | 1.0.0 | Polygon Mainnet (137) DEX swap calldata builder for AI agents with x402 USDC su… |
-| 2026-11-23 20:11:57 | com.isoamtcalculator/site |  | 1.0.1 | ISO AMT Calculator: the site's own MCP server — calculator, enquiry (enquiry =… |
-| 2026-11-23 20:12:30 | com.issuertransferban/site |  | 1.0.1 | Issuer Transfer Ban: the site's own MCP server — checker, enquiry (enquiry = a… |
-| 2026-11-23 20:12:33 | io.strategyarena/prisme | Prisme | 1.3.0 | Past crypto candles and chart patterns as knowable at a chosen date, plus a bli… |
-| 2026-11-23 20:12:35 | org.flow-marketing/flow-marketing | Flow Marketing | 1.0.0 | Brand-true motion-design marketing videos from templates, with price preview an… |
-| 2026-11-23 20:13:18 | com.japaneseaitrainerjobs/site |  | 1.0.1 | Japanese AI Trainer Jobs: the site's own MCP server — compare, enquiry (enquiry… |
-| 2026-11-23 20:13:46 | uk.co.japaneseknotweedremovalcost/site |  | 1.0.1 | Japanese knotweed removal cost: the site's own MCP server — enquiry (enquiry =… |
-| 2026-11-23 20:14:49 | com.koreanaitrainerjobs/site |  | 1.0.1 | Korean AI Trainer Jobs: the site's own MCP server — compare, enquiry (enquiry =… |
-| 2026-11-23 20:15:34 | com.languagedatalicensing/site |  | 1.0.1 | Language Data Licensing: the site's own MCP server — enquiry (enquiry = a human… |
-| 2026-11-23 20:16:01 | [io.obolos/obolos](https://github.com/equitylayer/obolos-equity) | obolos | 1.0.0 | Incorporate a Delaware company and run it on obolos: cap table, issuance, SAFEs… |
-| 2026-11-23 20:17:16 | uk.co.lightningprotectioncost/site |  | 1.0.1 | Lightning Protection Cost: the site's own MCP server — enquiry (enquiry = a hum… |
-| 2026-11-23 20:17:35 | [io.github.auzroz/ynab-mcp](https://github.com/auzroz/ynab-mcp) | YNAB Budget Assistant | 0.4.3 | Full YNAB API coverage plus spending analytics, for self-hosted use with Claude. |
-| 2026-11-23 20:18:14 | com.llmtrainingcost/site |  | 1.0.1 | LLM Training Cost: the site's own MCP server — calculator, enquiry (enquiry = a… |
-| 2026-11-23 20:18:54 | uk.co.lolerinspectioncost/site |  | 1.0.1 | LOLER Inspection Cost: the site's own MCP server — enquiry (enquiry = a human h… |
+| 2026-11-23 20:20:32 | [io.github.mikahama/uralicNLP](https://github.com/mikahama/uralicNLP) | UralicMCP | 2.1.3 | Morphological analysis, generation, lemmatization and dictionary lookup for Ura… |
+| 2026-11-23 20:21:32 | uk.co.managementbuyoutcalculator/site |  | 1.0.1 | Management Buyout Calculator: the site's own MCP server — calculator, enquiry (… |
+| 2026-11-23 20:23:29 | com.monetisecompanydata/site |  | 1.0.1 | Monetise Company Data: the site's own MCP server — enquiry (enquiry = a human h… |
+| 2026-11-23 20:24:26 | uk.co.motorhomestorageprices/site |  | 1.0.1 | Motorhome storage near me: the site's own MCP server — enquiry (enquiry = a hum… |
+| 2026-11-23 20:25:37 | uk.co.mvlcalculator/site |  | 1.0.1 | MVL Calculator: the site's own MCP server — calculator, enquiry (enquiry = a hu… |
+| 2026-11-23 20:26:04 | ai.elvex/elvex | elvex | 1.0.0 | Multiplayer workspace where your team's AI coding agents share threads and spli… |
+| 2026-11-23 20:26:09 | [io.github.mindstone/mcp-server-replit-ssh](https://github.com/mindstone/mcp-servers) | Replit SSH | 0.2.3 | Read, write, list, and check files on Replit projects over SSH/SFTP, plus SSH k… |
+| 2026-11-23 20:26:35 | uk.co.nedfees/site |  | 1.0.1 | NED Fees: the site's own MCP server — enquiry (enquiry = a human handoff, not a… |
+| 2026-11-23 20:27:44 | uk.co.offertobuyabusiness/site |  | 1.0.1 | Offer to Buy a Business: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 20:27:54 | [io.github.oculonlive/oculon](https://github.com/oculonlive/oculon) | Oculon | 0.1.0 | OSINT checks with sources: scams, links, claims, recalls, travel risk, CVEs, ou… |
+| 2026-11-23 20:28:11 | chat.ocr/mcp | OCR.chat | 1.0.0 | OCR images and PDFs from a link into text, Markdown or structured JSON, and rea… |
+| 2026-11-23 20:28:33 | uk.co.offmarketbusinessesforsale/site |  | 1.0.1 | Off-Market Businesses for Sale: the site's own MCP server — enquiry (enquiry =… |
+| 2026-11-23 20:29:22 | com.optionexercisefinancing/site |  | 1.0.1 | Option Exercise Financing: the site's own MCP server — enquiry (enquiry = a hum… |
+| 2026-11-23 20:29:28 | com.dolbila/dolbila | Dolbila | 1.0.0 | AI that makes phone calls for you in Claude or ChatGPT. It waits on hold and ri… |
+| 2026-11-23 20:30:04 | uk.co.pasmacoursecost/site |  | 1.0.1 | PASMA course cost: the site's own MCP server — enquiry (enquiry = a human hando… |
+| 2026-11-23 20:31:08 | uk.co.personallicencecoursecost/site |  | 1.0.1 | Personal licence course: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 20:32:01 | com.piiredactiontool/site |  | 1.0.1 | PII Redaction Tool: the site's own MCP server — calculator, enquiry (enquiry =… |
+| 2026-11-23 20:32:42 | com.portugueseaitrainerjobs/site |  | 1.0.1 | Portuguese AI Trainer Jobs: the site's own MCP server — compare, enquiry (enqui… |
+| 2026-11-23 20:33:54 | uk.co.premiseslicencecost/site |  | 1.0.1 | Premises Licence Cost: the site's own MCP server — enquiry (enquiry = a human h… |
+| 2026-11-23 20:34:32 | uk.co.principaldesignercost/site |  | 1.0.1 | Principal Designer Cost: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 20:34:49 | ai.mensara/mind | Mensara | 1.0.0 | Shared, governed memory for a team and its AI agents, in a Mind the company own… |
+| 2026-11-23 20:35:44 | [io.github.getlarkwright/home-net-doctor](https://github.com/getlarkwright/home-net-doctor) | Home Net Doctor | 0.1.0 | Why is my internet slow? Checks Wi-Fi, router, ISP and DNS from your computer.… |
+| 2026-11-23 20:36:12 | uk.co.pubvaluation/site |  | 1.0.1 | Pub valuation: the site's own MCP server — enquiry (enquiry = a human handoff,… |
+| 2026-11-23 20:36:50 | com.rankedinchat/site |  | 1.0.1 | Ranked in Chat: the site's own MCP server — enquiry (enquiry = a human handoff,… |
+| 2026-11-23 20:38:05 | [io.github.wyattpalm2-eng/x402-seller](https://github.com/wyattpalm2-eng/x402-seller) | x402-seller — rug, honeypot & fake-volu… | 1.1.0 | Rug, honeypot & fake-volume checks for trading agents. Graded publicly. EVM+Sol… |
+| 2026-11-23 20:38:18 | com.rentoutmygpu/site |  | 1.0.1 | Rent Out My GPU: the site's own MCP server — enquiry (enquiry = a human handoff… |
+| 2026-11-23 20:38:41 | uk.co.reversevendingmachinecost/site |  | 1.0.1 | Reverse vending machine cost: the site's own MCP server — enquiry (enquiry = a… |
+| 2026-11-23 20:39:05 | com.rlenvironmentvendors/site |  | 1.0.1 | RL Environment Vendors: the site's own MCP server — compare, enquiry (enquiry =… |
+| 2026-11-23 20:39:44 | com.rlhfjobs/site |  | 1.0.1 | RLHFJobs: the site's own MCP server — compare, enquiry (enquiry = a human hando… |
+| 2026-11-23 20:40:02 | [io.github.Vuena/vuena-assets](https://github.com/Vuena/vuena-assets-mcp) | Vuena Assets | 0.1.0 | Search and download 76 free CC0 low-poly 3D models (GLB) into your game project. |
+| 2026-11-23 20:40:04 | uk.co.sanitarywastecollection/site |  | 1.0.1 | Sanitary waste collection: the site's own MCP server — enquiry (enquiry = a hum… |
+| 2026-11-23 20:40:44 | uk.co.securityguardcost/site |  | 1.0.1 | Security guard cost: the site's own MCP server — enquiry (enquiry = a human han… |
+| 2026-11-23 20:41:07 | com.sell3dmodelstoai/site |  | 1.0.1 | Sell 3D Models to AI: the site's own MCP server — enquiry (enquiry = a human ha… |
+| 2026-11-23 20:41:31 | com.sellabledatachecker/site |  | 1.0.1 | Sellable Data Checker: the site's own MCP server — checker, enquiry (enquiry =… |
+| 2026-11-23 20:42:10 | com.sellaccountancydatatoai/site |  | 1.0.1 | SellAccountancyDataToAI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 20:42:48 | com.sellaccountingdatatoai/site |  | 1.0.1 | Sell Accounting Data To AI: the site's own MCP server — enquiry (enquiry = a hu… |
+| 2026-11-23 20:43:11 | com.selladagencydatatoai/site |  | 1.0.1 | Sell Ad Agency Data to AI: the site's own MCP server — enquiry (enquiry = a hum… |
+| 2026-11-23 20:43:22 | [io.socialync/mcp](https://github.com/JackVitick/socialync-mcp) | Socialync Social Media Scheduler | 1.3.0 | Social media scheduler for Instagram, TikTok, YouTube, Facebook, X, LinkedIn, T… |
+| 2026-11-23 20:43:35 | com.sellaerospacedatatoai/site |  | 1.0.1 | Sell Aerospace Data to AI: the site's own MCP server — enquiry (enquiry = a hum… |
+| 2026-11-23 20:44:13 | com.sellagentlogstoai/site |  | 1.0.1 | Sell Agent Logs to AI: the site's own MCP server — enquiry (enquiry = a human h… |
+| 2026-11-23 20:44:37 | com.sellanimationdatatoai/site |  | 1.0.1 | Sell Animation Data to AI: the site's own MCP server — enquiry (enquiry = a hum… |
+| 2026-11-23 20:45:15 | com.sellarchitecturedatatoai/site |  | 1.0.1 | Sell Architecture Data to AI: the site's own MCP server — enquiry (enquiry = a… |
+| 2026-11-23 20:45:54 | com.sellautomotivedatatoai/site |  | 1.0.1 | Sell Automotive Data to AI: the site's own MCP server — enquiry (enquiry = a hu… |
+| 2026-11-23 20:46:32 | com.sellbankdatatoai/site |  | 1.0.1 | Sell Bank Data To AI: the site's own MCP server — enquiry (enquiry = a human ha… |
+| 2026-11-23 20:46:56 | com.sellbehavioralhealthdatatoai/site |  | 1.0.1 | Sell Behavioral Health Data to AI: the site's own MCP server — enquiry (enquiry… |
+| 2026-11-23 20:47:20 | com.sellbimdatatoai/site |  | 1.0.1 | Sell BIM Data to AI: the site's own MCP server — enquiry (enquiry = a human han… |
+| 2026-11-23 20:47:30 | com.packetdominance/packet-dominance | Packet Dominance | 0.185.1 | Play Packet Dominance, a multiplayer MMO where you build ISPs, fiber cables and… |
+| 2026-11-23 20:47:59 | com.sellbiotechdatatoai/site |  | 1.0.1 | Sell Biotech Data to AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 20:48:22 | com.sellbpodatatoai/site |  | 1.0.1 | Sell BPO Data to AI: the site's own MCP server — enquiry (enquiry = a human han… |
+| 2026-11-23 20:49:01 | com.sellcadfilestoai/site |  | 1.0.1 | Sell CAD Files to AI: the site's own MCP server — enquiry (enquiry = a human ha… |
+| 2026-11-23 20:49:25 | com.sellcallcenterdatatoai/site |  | 1.0.1 | Sell Call Center Data to AI: the site's own MCP server — enquiry (enquiry = a h… |
+| 2026-11-23 20:49:47 | com.themoneyplays/money-plays | Money Plays | 1.0.0 | US stock and ETF ideas from finance creators, with sources, chart and SEC-filin… |
+| 2026-11-23 20:50:04 | com.sellcallcentredatatoai/site |  | 1.0.1 | Sell Call Centre Data to AI: the site's own MCP server — enquiry (enquiry = a h… |
+| 2026-11-23 20:50:26 | co.embeddable/embeddable | Embeddable | 1.0.0 | Build, edit, preview and publish website widgets and landing pages with Embedda… |
+| 2026-11-23 20:50:28 | com.sellcardealerdatatoai/site |  | 1.0.1 | Sell Car Dealer Data to AI: the site's own MCP server — enquiry (enquiry = a hu… |
+| 2026-11-23 20:50:52 | com.sellcarehomedatatoai/site |  | 1.0.1 | Sell Care Home Data to AI: the site's own MCP server — enquiry (enquiry = a hum… |
+| 2026-11-23 20:51:30 | com.sellcasefilestoai/site |  | 1.0.1 | Sell Case Files to AI: the site's own MCP server — enquiry (enquiry = a human h… |
+| 2026-11-23 20:52:07 | [io.github.Wordhalm/clearstack-data-mcp](https://github.com/Wordhalm/clearstack-data-mcp) | ClearStack Data: B2B Signals | 0.2.0 | Job openings, Google Ads, Telegram posts and EU VAT checks for AI assistants, v… |
+| 2026-11-23 20:52:09 | com.sellchattranscriptstoai/site |  | 1.0.1 | Sell Chat Transcripts to AI: the site's own MCP server — enquiry (enquiry = a h… |
+| 2026-11-23 20:52:43 | ru.kodeksai/laws | Поиск по законам РФ для ИИ — КодексAI M… | 0.2.0 | Статьи РФ с источниками. 100 вызовов бесплатно, 3000 за 1490 ₽. В планах — поис… |
+| 2026-11-23 20:52:49 | com.sellchemicaldatatoai/site |  | 1.0.1 | Sell Chemical Data to AI: the site's own MCP server — enquiry (enquiry = a huma… |
+| 2026-11-23 20:53:10 | [org.duckdns.a2p32guard/a2p32-guard](https://github.com/aymanesamhi1234-collab/a2p32-mcp) |  | 3.2.0 | Per-aspect limits for agent budgets, API rates and transfers; atomic batches. |
+| 2026-11-23 20:53:12 | com.sellcivilengineeringdatatoai/site |  | 1.0.1 | Sell Civil Engineering Data to AI: the site's own MCP server — enquiry (enquiry… |
+| 2026-11-23 20:53:36 | com.sellclaimsdatatoai/site |  | 1.0.1 | Sell Claims Data To AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 20:53:59 | com.sellclinicallabdatatoai/site |  | 1.0.1 | Sell Clinical Lab Data to AI: the site's own MCP server — enquiry (enquiry = a… |
+| 2026-11-23 20:54:23 | com.sellclinicalnotestoai/site |  | 1.0.1 | Sell Clinical Notes to AI: the site's own MCP server — enquiry (enquiry = a hum… |
+| 2026-11-23 20:55:01 | com.sellclinicaltrialdatatoai/site |  | 1.0.1 | Sell Clinical Trial Data to AI: the site's own MCP server — enquiry (enquiry =… |
+| 2026-11-23 20:55:40 | com.sellcncdatatoai/site |  | 1.0.1 | Sell CNC Data to AI: the site's own MCP server — enquiry (enquiry = a human han… |
+| 2026-11-23 20:56:18 | com.sellcodebasetoai/site |  | 1.0.1 | Sell Codebase to AI: the site's own MCP server — enquiry (enquiry = a human han… |
+| 2026-11-23 20:56:25 | ai.noiseremover/mcp | NoiseRemover.ai | 1.0.0 | Clean noise, hum, echo or music out of your own recordings and get the cleaned… |
+| 2026-11-23 20:56:41 | chat.pdf/mcp | PDF.chat | 1.0.0 | Add PDFs from a link, ask questions with page citations, and read summaries |
+| 2026-11-23 20:56:42 | com.sellcompanyarchivetoai/site |  | 1.0.1 | Sell Company Archive to AI: the site's own MCP server — enquiry (enquiry = a hu… |
+| 2026-11-23 20:56:47 | pl.testyelektryka/testy | Testy elektryka | 1.0.0 | Polish electrician exam ELE.02 and SEP G1: sections, lessons, guides, sample qu… |
+| 2026-11-23 20:56:53 | [io.github.eredden/pdq-deploy-mcp](https://github.com/eredden/PDQ-Deploy-MCP) | PDQ Deploy | 1.0.0 | An MCP server for read-only access to the PDQ Deploy SQLite database. |
+| 2026-11-23 20:57:06 | com.sellcompanydatagdpr/site |  | 1.0.1 | Sell Company Data GDPR: the site's own MCP server — checker, enquiry (enquiry =… |
+| 2026-11-23 20:57:08 | pl.infozwierz/zwierzeta | InfoZwierz.pl | 1.0.0 | How much does a pet cost in Poland: purchase, startup, monthly and vet costs pe… |
+| 2026-11-23 20:57:26 | com.sellcompanydatatoai/site |  | 1.0.1 | SellCompanyDataToAI: the site's own MCP server — enquiry (enquiry = a human han… |
+| 2026-11-23 20:57:35 | pl.testypolskiego/testy | TestyPolskiego.pl | 1.0.0 | Free Polish tests A1-C1 for foreigners, B1 state exam: levels, topics, sample q… |
+| 2026-11-23 20:57:39 | pl.testyniemieckiego/testy | TestyNiemieckiego.pl | 1.0.0 | Free German tests A1-C2 for Polish learners: levels, topics, exams, sample ques… |
+| 2026-11-23 20:57:49 | com.sellcompanyrecordstoai/site |  | 1.0.1 | Sell Company Records To AI: the site's own MCP server — enquiry (enquiry = a hu… |
+| 2026-11-23 20:58:13 | com.sellconstructiondatatoai/site |  | 1.0.1 | Sell Construction Data To AI: the site's own MCP server — enquiry (enquiry = a… |
+| 2026-11-23 20:58:37 | com.sellconsultancydatatoai/site |  | 1.0.1 | SellConsultancyDataToAI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 20:59:00 | com.sellcontactcenterdatatoai/site |  | 1.0.1 | Sell Contact Center Data to AI: the site's own MCP server — enquiry (enquiry =… |
+| 2026-11-23 20:59:04 | free.transcribe/mcp | transcribe.free | 1.0.0 | Transcribe audio and video file links, then read or export the transcripts |
+| 2026-11-23 20:59:20 | com.sellcontractdatatoai/site |  | 1.0.1 | Sell Contract Data to AI: the site's own MCP server — enquiry (enquiry = a huma… |
+| 2026-11-23 20:59:59 | com.sellcorporaterecords/site |  | 1.0.1 | Sell Corporate Records: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:00:06 | [email.palisade/palisade-audit](https://github.com/palisadeemail/palisade-mcp) | Palisade Audit (no sign-in) | 1.0.0 | Audit any domain's SPF, DKIM, DMARC, MTA-STS and BIMI from public DNS. No accou… |
+| 2026-11-23 21:00:14 | [io.github.aslanklc04/agichainai-agent-tools](https://github.com/aslanklc04/agichainai-agent-tools) | AGIChainAI | 0.1.0 | AGI token on Base: price, quotes, swaps, paid tasks, on-chain notary and agent… |
+| 2026-11-23 21:00:42 | com.sellcourierdatatoai/site |  | 1.0.1 | Sell Courier Data to AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:01:21 | com.sellcoursestoai/site |  | 1.0.1 | Sell Courses to AI: the site's own MCP server — enquiry (enquiry = a human hand… |
+| 2026-11-23 21:01:36 | com.clerk/mcp | Clerk | 1.0.0 | Manage Clerk applications, users, and production domains, and get Clerk SDK cod… |
+| 2026-11-23 21:01:56 | com.sellcreditdatatoai/site |  | 1.0.1 | Sell Credit Data to AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:02:15 | [io.github.jeffsosville/dealledger](https://github.com/jeffsosville/dealledger) | DealLedger | 1.3.1 | US businesses for sale, observed on broker sites: listings, observed age, price… |
+| 2026-11-23 21:02:51 | com.sellcrmdatatoai/site |  | 1.0.1 | Sell CRM Data To AI: the site's own MCP server — enquiry (enquiry = a human han… |
+| 2026-11-23 21:03:15 | com.sellcybersecuritydatatoai/site |  | 1.0.1 | Sell Cybersecurity Data to AI: the site's own MCP server — enquiry (enquiry = a… |
+| 2026-11-23 21:03:35 | com.selldatacompany/site |  | 1.0.1 | Sell Data Company: the site's own MCP server — enquiry (enquiry = a human hando… |
+| 2026-11-23 21:03:55 | com.selldeadstartupdata/site |  | 1.0.1 | Sell Dead Startup Data: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:04:34 | com.selldentaldatatoai/site |  | 1.0.1 | Sell Dental Data to AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:05:13 | com.selldentallabdatatoai/site |  | 1.0.1 | Sell Dental Lab Data to AI: the site's own MCP server — enquiry (enquiry = a hu… |
+| 2026-11-23 21:05:33 | com.selldepositionstoai/site |  | 1.0.1 | Sell Depositions to AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:06:12 | com.selldermatologydatatoai/site |  | 1.0.1 | Sell Dermatology Data to AI: the site's own MCP server — enquiry (enquiry = a h… |
+| 2026-11-23 21:06:30 | org.uavocab/uavocab | UA Vocab: Ukrainian Frequency | 1.0.0 | Ukrainian word stress, validated CEFR levels, lemmatizer and text-level profile… |
+| 2026-11-23 21:06:36 | com.selldesignagencydatatoai/site |  | 1.0.1 | Sell Design Agency Data to AI: the site's own MCP server — enquiry (enquiry = a… |
+| 2026-11-23 21:06:58 | com.selldevtoolsdatatoai/site |  | 1.0.1 | Sell Devtools Data To AI: the site's own MCP server — enquiry (enquiry = a huma… |
+| 2026-11-23 21:07:38 | com.selldronedatatoai/site |  | 1.0.1 | Sell Drone Data to AI: the site's own MCP server — enquiry (enquiry = a human h… |
+| 2026-11-23 21:08:02 | space.brik/brik | Brik | 1.0.0 | Build design tools with live controls from a brief, remix gallery tools, and la… |
+| 2026-11-23 21:08:18 | com.sellelectriciandatatoai/site |  | 1.0.1 | Sell Electrician Data to AI: the site's own MCP server — enquiry (enquiry = a h… |
+| 2026-11-23 21:08:30 | tools.valksor/livonian |  | 2.1.2 | Grounds LLMs in the real Livonian dictionary: attested words, inflections, roma… |
+| 2026-11-23 21:08:30 | tools.valksor/latin |  | 2.1.2 | Grounds LLMs in real Latin: Wiktionary lemmas, Morpheus inflections, citations. |
+| 2026-11-23 21:08:31 | tools.valksor/slavonic |  | 2.1.2 | Grounds LLMs in real Church Slavonic: Wiktionary lemmas, dual-number paradigms,… |
+| 2026-11-23 21:08:31 | tools.valksor/scythian |  | 2.1.2 | Grounds LLMs in real Scythian: Proto-Scythian lemmas, etymologies, Ossetian/Kho… |
+| 2026-11-23 21:08:32 | tools.valksor/norse |  | 2.1.2 | Grounds LLMs in real Old Norse: lemmas, mediopassive paradigms, English→Old Nor… |
+| 2026-11-23 21:08:32 | tools.valksor/latgalian |  | 2.1.2 | Grounds LLMs in real Latgalian: Wiktionary lemmas, inflections, romanization. |
+| 2026-11-23 21:08:33 | tools.valksor/anglo |  | 2.1.2 | Grounds LLMs in real Old English: lemmas, strong/weak paradigms, English→Old En… |
+| 2026-11-23 21:08:33 | tools.valksor/interslavic |  | 2.1.2 | Grounds LLMs in real Interslavic: translation matrix, paradigms, English→Inters… |
+| 2026-11-23 21:08:34 | tools.valksor/hub |  | 2.1.2 | One MCP endpoint over every Valksor dictionary: namespaced tools plus a JSON pa… |
+| 2026-11-23 21:08:57 | com.sellemailarchivetoai/site |  | 1.0.1 | Sell Email Archive to AI: the site's own MCP server — enquiry (enquiry = a huma… |
+| 2026-11-23 21:09:36 | com.sellengineeringdatatoai/site |  | 1.0.1 | Sell Engineering Data to AI: the site's own MCP server — enquiry (enquiry = a h… |
+| 2026-11-23 21:10:01 | com.sellengineeringdrawingstoai/site |  | 1.0.1 | Sell Engineering Drawings to AI: the site's own MCP server — enquiry (enquiry =… |
+| 2026-11-23 21:10:24 | com.sellengineeringfirmdatatoai/site |  | 1.0.1 | Sell Engineering Firm Data to AI: the site's own MCP server — enquiry (enquiry… |
+| 2026-11-23 21:10:45 | com.sellenterprisedatatoai/site |  | 1.0.1 | Sell Enterprise Data To AI: the site's own MCP server — enquiry (enquiry = a hu… |
+| 2026-11-23 21:11:24 | com.sellfacilitiesmanagementdatatoai/site |  | 1.0.1 | Sell Facilities Management Data to AI: the site's own MCP server — enquiry (enq… |
+| 2026-11-23 21:11:48 | com.sellfarmingdatatoai/site |  | 1.0.1 | Sell Farming Data To AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:11:53 | [io.github.nikhilb2/simple-invoicing](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | Simple Invoicing | 1.0.0 | GST invoices, ledgers, stock, payments and GSTR-1 for Indian small businesses.… |
+| 2026-11-23 21:12:28 | com.sellfertilityclinicdatatoai/site |  | 1.0.1 | Sell Fertility Clinic Data to AI: the site's own MCP server — enquiry (enquiry… |
+| 2026-11-23 21:12:51 | com.sellfinancialdatatoai/site |  | 1.0.1 | Sell Financial Data To AI: the site's own MCP server — enquiry (enquiry = a hum… |
+| 2026-11-23 21:13:02 | xyz.jakelawrence.www/research | jakelawrence.xyz research data | 1.0.0 | Hashed open-data releases and a claims ledger whose computed figures re-verify… |
+| 2026-11-23 21:13:15 | com.sellfintechdatatoai/site |  | 1.0.1 | Sell Fintech Data To AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:13:53 | com.sellfoodmanufacturingdatatoai/site |  | 1.0.1 | Sell Food Manufacturing Data to AI: the site's own MCP server — enquiry (enquir… |
+| 2026-11-23 21:14:08 | io.creativeforesight/foresight-api | Foresight API | 1.0.0 | Economic, demographic and financial time series, plus Creative Foresight indica… |
+| 2026-11-23 21:14:19 | com.sellfootagetoai/site |  | 1.0.1 | Sell Footage To AI: the site's own MCP server — enquiry (enquiry = a human hand… |
+| 2026-11-23 21:14:59 | com.sellfreightdatatoai/site |  | 1.0.1 | SellFreightDataToAI: the site's own MCP server — enquiry (enquiry = a human han… |
+| 2026-11-23 21:15:23 | com.sellgameassetstoai/site |  | 1.0.1 | Sell Game Assets to AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:15:47 | com.sellgameip/site |  | 1.0.1 | Sell Game IP: the site's own MCP server — enquiry (enquiry = a human handoff, n… |
+| 2026-11-23 21:16:04 | ai.debugger/mcp | Debugger.ai | 1.0.0 | Scan a Git repository for bugs and security issues, then read the findings and… |
+| 2026-11-23 21:16:22 | [io.github.vvanegasar/cielo-mcp](https://github.com/vvanegasar/cielo-bench) | cielo-bench | 0.1.1 | Read-only tools with citations: NASA/JPL Horizons sky positions and SQL on a sy… |
+| 2026-11-23 21:16:27 | com.sellgameplaydatatoai/site |  | 1.0.1 | Sell Gameplay Data to AI: the site's own MCP server — enquiry (enquiry = a huma… |
+| 2026-11-23 21:17:06 | com.sellgamesourcecode/site |  | 1.0.1 | Sell Game Source Code: the site's own MCP server — enquiry (enquiry = a human h… |
+| 2026-11-23 21:17:26 | com.sellgamestudiodatatoai/site |  | 1.0.1 | Sell Game Studio Data To AI: the site's own MCP server — enquiry (enquiry = a h… |
+| 2026-11-23 21:17:48 | com.sellgaragedatatoai/site |  | 1.0.1 | Sell Garage Data To AI: the site's own MCP server — enquiry (enquiry = a human… |
+| 2026-11-23 21:17:52 | [io.github.ArSenic04/agentsol](https://github.com/ArSenic04/agentsol) | Agentsol | 0.2.0-alpha.6 | Lint AGENTS.md/CLAUDE.md/skills, scan skills and MCP servers, learn from past a… |
+| 2026-11-23 21:18:27 | com.sellgeneralcontractordatatoai/site |  | 1.0.1 | Sell General Contractor Data to AI: the site's own MCP server — enquiry (enquir… |
+| 2026-11-23 21:18:47 | com.sellhardwaredatatoai/site |  | 1.0.1 | Sell Hardware Data to AI: the site's own MCP server — enquiry (enquiry = a huma… |
+| 2026-11-23 21:19:10 | com.sellhealthcaredatatoai/site |  | 1.0.1 | Sell Healthcare Data to AI: the site's own MCP server — enquiry (enquiry = a hu… |
 
 ## Data source
 
