@@ -1,0 +1,27 @@
+created_at,server,title,version,repository,transports,description
+2026-11-23T04:22:09.538406Z,social.poolster/poolster,Poolster,1.1.0,,streamable-http,"Sports prediction pools for AI agents and people: browse pools, join and submit picks."
+2026-11-23T04:25:37.09073Z,ai.visualdimension/mcp,VisualDimension (OAuth),1.0.0,https://github.com/visualdimension-ai/mcp-examples,streamable-http,Create and manage audio-to-video content via MCP with OAuth browser-based authentication.
+2026-11-23T04:26:27.807933Z,ai.visualdimension/mcp-apikey,VisualDimension (API Key),1.0.0,https://github.com/visualdimension-ai/mcp-examples,streamable-http,Create and manage audio-to-video content via MCP with API-key authentication.
+2026-11-23T04:26:35.748023Z,dev.cleanlanguage/clean-language,Clean Language,0.33.188,https://github.com/Ivan-Pasco/clean-language-mcp,,"Write, check and compile Clean Language code: a type-safe language that compiles to WebAssembly."
+2026-11-23T04:31:12.481912Z,com.tnyforge/files-direct,Files Direct,0.1.1,https://github.com/agentvms/files-direct-cli,,Send and receive files and folders from an AI agent or a terminal. No browser needed.
+2026-11-23T04:33:07.149813Z,ai.priorlight/priorlight,Priorlight,0.1.0,https://github.com/priorlight/priorlight-mcp,streamable-http,"Drafts a patent application for software you're building. Drafts only, not legal advice."
+2026-11-23T04:39:39.936129Z,com.ebrbe/ebrbe,eBRBe,1.4.0,,streamable-http,"Track time, run timesheets, draft invoices and log AI-agent costs for client work."
+2026-11-23T04:42:12.55393Z,com.standardlocal/standard-local,Standard Local,0.5.0,,streamable-http,Source-linked contractor evidence records across 5 U.S. metros and 4 trades. Operated by Cheers.
+2026-11-23T04:45:42.336683Z,tech.thecompound.openinjury/openinjury,OpenInjury,0.1.0,,streamable-http,"OSHA injury reports from named US worksites and employers, with computed and BLS rates."
+2026-11-23T04:45:54.650189Z,tech.thecompound.openmortgage/openmortgage,OpenMortgage,0.1.0,,streamable-http,"Federal HMDA mortgage records by lender: applications, denials, rate spread and closing costs."
+2026-11-23T04:55:23.953178Z,com.aiwebinfra/aiwebinfra,AiWebInfra,1.0.0,,streamable-http,"Build, edit and run websites on AiWebInfra: pages, design, feed, shop, members and domains."
+2026-11-23T04:55:28.43195Z,com.realcryptocap/realcryptocap,RealCryptoCap,1.0.0,,streamable-http; streamable-http,"Live crypto prices (HTX primary), real market cap rankings, AI market brief, news and Pro data."
+2026-11-23T04:59:05.935167Z,com.shangrilingua/study,Shangri Lingua,1.0.0,,streamable-http,"Your saved Chinese, Thai and Japanese words, practice schedule, mistakes and lessons."
+2026-11-23T05:00:36.843198Z,com.eliteaiempire/brandrank,BrandRank,1.0.0,,streamable-http,Brand visibility checks across AI answer engines (beta): read-only public info.
+2026-11-23T05:00:37.85617Z,com.eliteaiempire/care,Elite Care,1.0.0,,streamable-http,"Check rules for care-related content and claims. Read-only, no sign-up."
+2026-11-23T05:00:38.923708Z,com.eliteaiempire/data,Elite AI Empire Data,1.0.0,,streamable-http,"Company info, product directory and pricing for the Elite AI Empire suite. Read-only."
+2026-11-23T05:00:39.969001Z,com.eliteaiempire/distributor,Distributor,1.0.0,,streamable-http,"Social post distribution: preview, read plans and pricing, get a checkout link."
+2026-11-23T05:00:40.958422Z,com.eliteaiempire/empire,Elite AI Empire,1.0.0,,streamable-http,"Directory of Elite AI Empire products: company info, pricing, site search. Read-only."
+2026-11-23T05:00:42.073623Z,com.eliteaiempire/elitesso,EliteSSO,1.0.0,,streamable-http,Single sign-on and identity service for the Elite AI Empire suite.
+2026-11-23T05:02:32.075653Z,com.eliteaiempire/ask,Lumen Ask,1.0.0,,streamable-http,"Lumen AI answer engine, ask host: read models, pricing and company facts. Read-only."
+2026-11-23T05:03:10.829606Z,io.github.avclabs/media-mcp,,0.4.2,https://github.com/avclabs/media-mcp,,"Video and image enhancement, colorization, denoising, and SAM3 segmentation"
+2026-11-23T05:06:59.269341Z,com.hotwhathow/prices,HotWhatHow,1.0.0,,streamable-http,"Check UK and US product price history, search products and compare deals with HotWhatHow."
+2026-11-23T05:10:27.010617Z,io.github.elpabloultron/open-legal-chile,Open Legal Chile,1.16.1,https://github.com/elpabloultron/open-legal-chile,,"Suite jurídica chilena: 95 herramientas MCP (BCN, PJUD, CGR, DT, SII, SMA), doctrina, grafo y OCR."
+2026-11-23T05:13:10.281324Z,com.look4expo/expo,Look4Expo — Global B2B Trade Show Directory,1.0.0,,streamable-http,"Read-only global B2B trade show directory: search 8,000+ fairs by keyword, country, sector, month."
+2026-11-23T05:17:01.803104Z,dev.workers.aruljoe37.kisukisu/kisukisu,Kisukisu,0.1.0,,streamable-http,"Read, search, and participate in public Kisukisu discussions."
+2026-11-23T05:21:12.451365Z,ai.uncensoredllm/api,UncensoredLLM,1.0.0,,streamable-http,"Abliterated and uncensored models as API tools on one prepaid key: chat, compare, search, media."

@@ -9,34 +9,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 04:18 UTC
+## Latest list — 2026-11-23 05:21 UTC
 
-New MCP servers published between 2026-11-23 03:20 UTC and 2026-11-23 04:18 UTC.
+New MCP servers published between 2026-11-23 04:18 UTC and 2026-11-23 05:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-23T04-18-51-641712Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-23T05-21-14-665409Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-23 03:22:33 | [com.eliteaiempire/cohostbnb](https://github.com/iskra-astudillo/cohostbnb-mcp) | CoHostBnB | 1.0.0 | Read a CoHostBnB booking or open the last message a guest sent to your rental i… |
-| 2026-11-23 03:29:19 | com.anibg/backgrounds | AniBG | 1.0.0 | Free anime backgrounds without characters: search, direct 1920x1080 links. No a… |
-| 2026-11-23 03:29:59 | com.eliteagenticsolutions/eas | Elite Agentic Solutions | 1.0.0 | Governed AI agents: read plans, pricing and product facts. Read-only, no sign-u… |
-| 2026-11-23 03:30:01 | com.eliteaiempire/trustdeskai | TrustDeskAI | 1.0.0 | Abuse-report desk for hosting providers: read plans and how triage works. |
-| 2026-11-23 03:30:02 | com.eliteaiempire/empiresentinel | Empire Sentinel | 1.0.0 | Uptime and monitoring service: read plans and capabilities. |
-| 2026-11-23 03:30:03 | com.eliteaiempire/empireaudit | Empire Audit | 1.0.0 | Tamper-evident audit ledger for AI actions: read plans and verification facts. |
-| 2026-11-23 03:30:04 | com.eliteaiempire/bugclass | BugClass | 1.0.0 | Static checks for silent-failure bugs in AI-written code: read plans and detect… |
-| 2026-11-23 03:30:05 | com.eliteaiempire/reviews | Empire Review Network | 1.0.0 | Product reviews and comparisons: read published reviews and methodology. |
-| 2026-11-23 03:30:06 | com.eliteaiempire/empiresecurity | Empire Security | 1.0.0 | Security checks and hardening guides: read plans and what each check covers. |
-| 2026-11-23 03:37:21 | [io.github.tahmidbintaslim/hatchlock](https://github.com/tahmidbintaslim/HatchLock) | HatchLock | 1.3.0 | Stops AI code from hiding type errors: flags @ts-ignore/as any and runs your lo… |
-| 2026-11-23 03:40:44 | [io.github.Nakagawa-master/ai-answer-guard](https://github.com/Nakagawa-master/nakagawa-theory-archive) | AI Answer Guard — Check AI Answers & Ac… | 1.2.1 | Check AI replies and actions: flag failed tools, copied evidence and missing pe… |
-| 2026-11-23 03:42:44 | [io.github.chaw1/datakeel](https://github.com/chaw1/datakeel) | Datakeel | 0.27.0 | Local-first workbench for auditable AI datasets, traceable SQL metrics, and app… |
-| 2026-11-23 03:51:56 | com.tradermarketcap/prices | TraderMarketCap | 1.0.0 | Live crypto prices, market caps and exchange markets for 600+ coins, each with… |
-| 2026-11-23 03:55:06 | [xyz.urlgate/mcp](https://github.com/Arithmos111/urlgate) | URLGate | 2.0.0 | Pay-to-open short links for humans and AI agents, charged in USDC over x402 v2. |
-| 2026-11-23 04:07:13 | com.sovereigngl/sgl | Sovereign Gaming League | 1.2.0 | Find tournaments and game nights near you; organizers draft events. Sign in wit… |
-| 2026-11-23 04:07:14 | com.sovereigngl/sgl-public | SGL event finder | 1.2.0 | Find tournaments, leagues, game nights and game stores near you on SGL. No sign… |
-| 2026-11-23 04:10:17 | com.sidequestpays/sidequest | SideQuest: Hire Real People | 0.7.1 | Hire real people for real-world tasks: calls, store checks, inspections, errand… |
-| 2026-11-23 04:11:40 | [io.github.gokeshenzhen/traceweave](https://github.com/gokeshenzhen/TraceWeave) | TraceWeave | 2.1 | Portable MCP runtime for RTL logs and VCD; repository setup adds FSDB and site… |
-| 2026-11-23 04:14:17 | [io.github.RudyJunyu/fiu-finance](https://github.com/fiu-ai/mcp-server) | FIU Finance MCP Server | 2.0.0 | Financial data MCP server for global quotes, news, financials, funds, bonds, IP… |
-| 2026-11-23 04:15:12 | com.sendquotenow/quote-engine | SendQuoteNow — AI Quote Engine for Cont… | 1.0.1 | Generate branded contractor quotes: hosted approval page, PDF, QR code, and Str… |
+| 2026-11-23 04:22:09 | social.poolster/poolster | Poolster | 1.1.0 | Sports prediction pools for AI agents and people: browse pools, join and submit… |
+| 2026-11-23 04:25:37 | [ai.visualdimension/mcp](https://github.com/visualdimension-ai/mcp-examples) | VisualDimension (OAuth) | 1.0.0 | Create and manage audio-to-video content via MCP with OAuth browser-based authe… |
+| 2026-11-23 04:26:27 | [ai.visualdimension/mcp-apikey](https://github.com/visualdimension-ai/mcp-examples) | VisualDimension (API Key) | 1.0.0 | Create and manage audio-to-video content via MCP with API-key authentication. |
+| 2026-11-23 04:26:35 | [dev.cleanlanguage/clean-language](https://github.com/Ivan-Pasco/clean-language-mcp) | Clean Language | 0.33.188 | Write, check and compile Clean Language code: a type-safe language that compile… |
+| 2026-11-23 04:31:12 | [com.tnyforge/files-direct](https://github.com/agentvms/files-direct-cli) | Files Direct | 0.1.1 | Send and receive files and folders from an AI agent or a terminal. No browser n… |
+| 2026-11-23 04:33:07 | [ai.priorlight/priorlight](https://github.com/priorlight/priorlight-mcp) | Priorlight | 0.1.0 | Drafts a patent application for software you're building. Drafts only, not lega… |
+| 2026-11-23 04:39:39 | com.ebrbe/ebrbe | eBRBe | 1.4.0 | Track time, run timesheets, draft invoices and log AI-agent costs for client wo… |
+| 2026-11-23 04:42:12 | com.standardlocal/standard-local | Standard Local | 0.5.0 | Source-linked contractor evidence records across 5 U.S. metros and 4 trades. Op… |
+| 2026-11-23 04:45:42 | tech.thecompound.openinjury/openinjury | OpenInjury | 0.1.0 | OSHA injury reports from named US worksites and employers, with computed and BL… |
+| 2026-11-23 04:45:54 | tech.thecompound.openmortgage/openmortgage | OpenMortgage | 0.1.0 | Federal HMDA mortgage records by lender: applications, denials, rate spread and… |
+| 2026-11-23 04:55:23 | com.aiwebinfra/aiwebinfra | AiWebInfra | 1.0.0 | Build, edit and run websites on AiWebInfra: pages, design, feed, shop, members… |
+| 2026-11-23 04:55:28 | com.realcryptocap/realcryptocap | RealCryptoCap | 1.0.0 | Live crypto prices (HTX primary), real market cap rankings, AI market brief, ne… |
+| 2026-11-23 04:59:05 | com.shangrilingua/study | Shangri Lingua | 1.0.0 | Your saved Chinese, Thai and Japanese words, practice schedule, mistakes and le… |
+| 2026-11-23 05:00:36 | com.eliteaiempire/brandrank | BrandRank | 1.0.0 | Brand visibility checks across AI answer engines (beta): read-only public info. |
+| 2026-11-23 05:00:37 | com.eliteaiempire/care | Elite Care | 1.0.0 | Check rules for care-related content and claims. Read-only, no sign-up. |
+| 2026-11-23 05:00:38 | com.eliteaiempire/data | Elite AI Empire Data | 1.0.0 | Company info, product directory and pricing for the Elite AI Empire suite. Read… |
+| 2026-11-23 05:00:39 | com.eliteaiempire/distributor | Distributor | 1.0.0 | Social post distribution: preview, read plans and pricing, get a checkout link. |
+| 2026-11-23 05:00:40 | com.eliteaiempire/empire | Elite AI Empire | 1.0.0 | Directory of Elite AI Empire products: company info, pricing, site search. Read… |
+| 2026-11-23 05:00:42 | com.eliteaiempire/elitesso | EliteSSO | 1.0.0 | Single sign-on and identity service for the Elite AI Empire suite. |
+| 2026-11-23 05:02:32 | com.eliteaiempire/ask | Lumen Ask | 1.0.0 | Lumen AI answer engine, ask host: read models, pricing and company facts. Read-… |
+| 2026-11-23 05:03:10 | [io.github.avclabs/media-mcp](https://github.com/avclabs/media-mcp) |  | 0.4.2 | Video and image enhancement, colorization, denoising, and SAM3 segmentation |
+| 2026-11-23 05:06:59 | com.hotwhathow/prices | HotWhatHow | 1.0.0 | Check UK and US product price history, search products and compare deals with H… |
+| 2026-11-23 05:10:27 | [io.github.elpabloultron/open-legal-chile](https://github.com/elpabloultron/open-legal-chile) | Open Legal Chile | 1.16.1 | Suite jurídica chilena: 95 herramientas MCP (BCN, PJUD, CGR, DT, SII, SMA), doc… |
+| 2026-11-23 05:13:10 | com.look4expo/expo | Look4Expo — Global B2B Trade Show Direc… | 1.0.0 | Read-only global B2B trade show directory: search 8,000+ fairs by keyword, coun… |
+| 2026-11-23 05:17:01 | dev.workers.aruljoe37.kisukisu/kisukisu | Kisukisu | 0.1.0 | Read, search, and participate in public Kisukisu discussions. |
+| 2026-11-23 05:21:12 | ai.uncensoredllm/api | UncensoredLLM | 1.0.0 | Abliterated and uncensored models as API tools on one prepaid key: chat, compar… |
 
 ## Data source
 
