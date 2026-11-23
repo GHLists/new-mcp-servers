@@ -9,28 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 00:18 UTC
+## Latest list — 2026-11-23 01:21 UTC
 
-New MCP servers published between 2026-11-22 23:18 UTC and 2026-11-23 00:18 UTC.
+New MCP servers published between 2026-11-23 00:18 UTC and 2026-11-23 01:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-23T00-18-36-767207Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-23T01-21-16-620283Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-22 23:19:55 | [io.github.yun87457-web/website-contacts-pricing-intel-mcp](https://github.com/yun87457-web/adpulse-mcp-servers) | Website Contacts, Socials, Pricing & LL… | 1.0.0 | Extract emails, socials, SaaS /pricing tiers, DNS MX/SPF, and /llms.txt briefs… |
-| 2026-11-22 23:20:48 | [io.github.Or4cu1o/mothdex-mcp](https://github.com/Or4cu1o/mothdex-mcp) | Mothdex | 0.1.0 | Search the Mothdex game catalog and resolve download links |
-| 2026-11-22 23:21:57 | [io.github.niclas-gr/cheminventory-mcp](https://github.com/niclas-gr/cheminventory-mcp) | ChemInventory | 1.0.0 | Search and manage a ChemInventory chemical inventory through its API |
-| 2026-11-22 23:23:14 | [com.grid82/studio](https://github.com/DuvInc/grid82-skills) | Grid82 Studio | 1.0.0 | Build Grid82 business apps: databases, user roles, permission rules, pages and… |
-| 2026-11-22 23:27:08 | com.mandate0/mcp | mandate0 | 0.1.0 | Shop connected stores inside the spending limits you set: search, check out, ge… |
-| 2026-11-22 23:34:52 | [io.github.yeah013/isud-ip](https://github.com/yeah013/searchapi) | isud-ip 商标数据 MCP | 1.6.0 | China trademark MCP: 15 tools for search, gazette, Vienna, review docs & IPR da… |
-| 2026-11-22 23:37:32 | io.github.boradenizarol-svg/efatura | e-Fatura API (Turkish e-invoice parser) | 1.0.0 | Parse Turkish e-invoices (GİB UBL-TR e-Fatura XML) to JSON with VAT/VKN checks.… |
-| 2026-11-22 23:37:43 | [io.github.aimanmalib/dofleet](https://github.com/aimanmalib/dofleet) | dofleet | 0.1.0 | Let AI agents borrow DigitalOcean droplets with expiry timers and a budget, nev… |
-| 2026-11-22 23:37:51 | de.findahand.www/anfrage | findahand - Anfrage an Handwerker | 1.0.0 | Handwerker und Dienstleister in Deutschland finden, Richtwerte sehen, Anfrage v… |
-| 2026-11-22 23:53:10 | ai.compi/hyperliquid | compi for Hyperliquid and Aster | 1.0.0 | Connect your AI agent to Hyperliquid and Aster under your caps. Join the waitli… |
-| 2026-11-22 23:53:41 | [io.github.viridisconservation/contour-alley-designer](https://github.com/viridisconservation/contour-alley-designer) | Contour Alley Designer | 0.6.4 | Design agroforestry on real US fields: tree rows, carbon, leakage and a field m… |
-| 2026-11-23 00:03:10 | [io.github.joe-carr-data/markdownattractor](https://github.com/joe-carr-data/markdownattractor) | markdownattractor | 0.2.11 | A live, time-aware index of your markdown, with file, lines and dates on every… |
-| 2026-11-23 00:07:17 | [io.github.moltspace/moltspace](https://github.com/moltspace/moltspace) | Moltspace | 0.1.0 | Find AI agents and MCP servers, read what they shipped, and register your own a… |
-| 2026-11-23 00:18:13 | io.github.logan1085/evallab | Eval Lab | 2.0.0 | Your agent drafts eval cases; you grade them; it gets your verdicts and fixes i… |
+| 2026-11-23 00:28:46 | [com.loopholetape/check-before-you-pay](https://github.com/loopholetape/check-before-you-pay) | Check before you pay | 0.2.0 | Before you pay a Bittensor subnet's entry fee, see what happened to the people… |
+| 2026-11-23 00:30:26 | run.starkeep/starkeep | Starkeep | 1.0.0 | Search, read, save, and edit your Starkeep bookmarks and the archived copy of e… |
+| 2026-11-23 00:32:53 | [io.github.xberg-io/tree-sitter-language-pack](https://github.com/xberg-io/tree-sitter-language-pack) | Tree-Sitter Language Pack | 1.27.1 | Parse source code, extract structure and symbols, and chunk files for LLMs acro… |
+| 2026-11-23 00:35:26 | de.maxrechnung/max-rechnung | MaxRechnung | 0.1.0 | Rechnungen, Kunden und E-Rechnungen (XRechnung, ZUGFeRD) über die MaxRechnung-R… |
+| 2026-11-23 00:38:36 | ai.drawmode/drawmode | DrawMode | 1.0.0 | Software diagrams for developers, teams and agents — give your AI agents diagra… |
+| 2026-11-23 00:41:04 | com.strvest/strvest | STRvest | 1.1.0 | Underwrite STR deals, check STR regulations, estimate STR tax savings and manag… |
+| 2026-11-23 00:41:17 | com.strvest/strvest-public | STRvest (no account) | 1.0.0 | Short-term rental market data and STR-loophole tax estimates. No sign-in requir… |
+| 2026-11-23 00:42:22 | [io.github.PSU3D0/formualizer](https://github.com/PSU3D0/formualizer-plugin) | Formualizer Spreadsheet Recalc, Edit, I… | 0.19.0 | Local Excel (.xlsx) formula recalculation, batch editing, inspection, and traci… |
+| 2026-11-23 00:45:29 | io.github.mykemueller1-ctrl/action-shift | Never86'd Action Shift | 3.1.1 | Restaurant labor, invoice price changes, and daily close checks from data you p… |
+| 2026-11-23 00:48:06 | [dev.wirecat/linear-cli](https://github.com/WireCatLabs/linear-cli) | WireCat linear | 0.2.0 | linear for agents over MCP. Set up a profile with the linear CLI first. |
+| 2026-11-23 00:50:04 | space.forke/mail | Forke Mail | 1.0.0 | Email for AI agents: send email, manage domains, templates and contacts. Risky… |
+| 2026-11-23 00:52:26 | [com.mofcloud/pricing](https://github.com/mofcloud/cloud-pricing) | MofCloud Pricing MCP | 1.0.0 | Free daily list prices for servers, GPUs, disks, egress, IPs and databases acro… |
+| 2026-11-23 00:54:06 | app.getdumpling/dumpling | Dumpling | 1.0.0 | Tasks, notes, projects, habits and goals from your Dumpling account, for any AI… |
+| 2026-11-23 00:55:43 | [com.hayakit/calculators](https://github.com/changrun1/hayakit-mcp) | Hayakit Calculators | 1.0.0 | Offline Japanese/Taiwan era, craft, booklet imposition, camping, and cassette c… |
+| 2026-11-23 00:57:27 | [sh.tashan/tashan](https://github.com/FlyingWHR/tashan) | tashan | 0.2.1 | Check any MCP server or agent skill before installing: upkeep, real adoption, a… |
+| 2026-11-23 01:00:04 | [com.fetchproof/mcp](https://github.com/slurpsyrup/fetchproof-mcp) | Fetchproof | 0.1.1 | Fetchproof MCP server for public TikTok, Instagram, Facebook, YouTube, and race… |
+| 2026-11-23 01:04:52 | [io.github.Elessiah/sancturai](https://github.com/Elessiah/SancturAI) | SancturAI | 0.1.0 | Persistent memory vault and forum for AI agents, open registration, community m… |
+| 2026-11-23 01:06:53 | [io.github.qubrics/qubrics-mcp](https://github.com/qubrics/qubrics-sdk) | Email Inbox API + Sending by Qubrics | 3.0.1 | AI email inbox and sending tools with attachments, search, live events, and web… |
+| 2026-11-23 01:07:50 | com.didymuslab/bible-context | Didymus Lab Bible Context | 1.0.0 | Bible context with citations: chapter background, Hebrew/Greek words, places, p… |
+| 2026-11-23 01:08:29 | [io.github.realarmaansidhu/tryhackme-mcp](https://github.com/realarmaansidhu/tryhackme-mcp) | TryHackMe | 0.1.0 | Unofficial MCP server for TryHackMe: rooms, tasks, paths, profiles, progress, a… |
+| 2026-11-23 01:08:44 | [io.github.charlesbine/loupe](https://github.com/charlesbine/loupe) | Loupe — Code-CAD & PCB Review Pipeline | 1.0.1 | Code-CAD & PCB review MCP: deterministic geometry checks, contact sheets, draft… |
+| 2026-11-23 01:09:33 | ai.yarda/yarda | Yarda | 1.0.0 | AI landscape design for US homes: site plans, 3D yard views and quotes from loc… |
+| 2026-11-23 01:16:17 | [io.github.asachs01/lectio-api](https://github.com/asachs01/lectio-api) | Lectio API | 1.1.0 | Lectionary readings (RCL, BCP Daily Office, Catholic) and liturgical calendar t… |
+| 2026-11-23 01:18:54 | com.weshoal/tools | WeShoal — free browser tools finder | 1.0.0 | Find free WeShoal browser tools (PDF, image, audio, video, QR), AI prices, and… |
+| 2026-11-23 01:21:13 | dev.agentcaliper/registry-evidence | AgentCaliper Registry Evidence | 0.3.0 | Read signed MCP Registry observations, recent version changes, and AgentCaliper… |
 
 ## Data source
 
