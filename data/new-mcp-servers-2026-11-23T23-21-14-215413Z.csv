@@ -1,0 +1,79 @@
+created_at,server,title,version,repository,transports,description
+2026-11-23T22:20:39.819009Z,uk.co.websitedesigncost/site,,1.0.1,,streamable-http,"Website design cost: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-11-23T22:21:15.403736Z,uk.co.websitemaintenancecost/site,,1.0.1,,streamable-http,"Website maintenance cost: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-11-23T22:21:42.667075Z,dev.pages.newjazzcity/new-jazz-city,New Jazz City,2026.11.23,https://github.com/nebulamji/rh-tx-explain,streamable-http,"Agents on Robinhood Chain: paid jobs, agent titles, credit, Control Epochs (DoJ Standard 1), $JAZZ"
+2026-11-23T22:21:50.888774Z,uk.co.weldingrobotcost/site,,1.0.1,,streamable-http,"Welding robot cost: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-11-23T22:22:26.043936Z,uk.co.whoboughtwhom/site,,1.0.1,,streamable-http,"Who bought whom: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-11-23T22:22:46.191223Z,uk.co.whobuyslawfirms/site,,1.0.1,,streamable-http,"Who Buys Law Firms: the site's own MCP server — enquiry (enquiry = a human handoff, not a..."
+2026-11-23T22:23:09.238529Z,uk.co.cupboarddepot/site,,1.0.1,,streamable-http,Cupboard Depot: the site's own MCP server — shop; every answer cites the site.
+2026-11-23T22:23:47.398518Z,uk.co.hallwaytrading/site,,1.0.1,,streamable-http,Hallway Trading: the site's own MCP server — shop; every answer cites the site.
+2026-11-23T22:24:25.208656Z,uk.co.hangingstore/site,,1.0.1,,streamable-http,Hanging Store: the site's own MCP server — shop; every answer cites the site.
+2026-11-23T22:24:27.028414Z,com.helloaxel/flight-prices,Axel flight and hotel prices,0.6.6,,streamable-http,"Live flight and hotel prices beside the published fare or rate, the difference, and a link to book."
+2026-11-23T22:25:03.413978Z,uk.co.librarydirect/site,,1.0.1,,streamable-http,Library Direct: the site's own MCP server — shop; every answer cites the site.
+2026-11-23T22:25:33.763443Z,ai.healthysleep/mcp,HealthySleep.ai,1.0.0,,streamable-http,"Sourced sleep health information: sleep disorders, CPAP therapy and sleep guides"
+2026-11-23T22:25:41.82387Z,uk.co.liddirect/site,,1.0.1,,streamable-http,Lid Direct: the site's own MCP server — shop; every answer cites the site.
+2026-11-23T22:26:19.651107Z,uk.co.sleighhouse/site,,1.0.1,,streamable-http,Sleigh House: the site's own MCP server — shop; every answer cites the site.
+2026-11-23T22:26:41.764273Z,uk.co.studytrading/site,,1.0.1,,streamable-http,Study Trading: the site's own MCP server — shop; every answer cites the site.
+2026-11-23T22:27:03.961319Z,uk.co.tellyco/site,,1.0.1,,streamable-http,Telly Co: the site's own MCP server — shop; every answer cites the site.
+2026-11-23T22:27:42.123839Z,uk.co.timberoutlet/site,,1.0.1,,streamable-http,Timber Outlet: the site's own MCP server — shop; every answer cites the site.
+2026-11-23T22:27:57.659968Z,ai.cpapmachine/mcp,CPAPMachine.ai,1.0.0,,streamable-http,"CPAP machine specs, error codes, troubleshooting and recall notices. Information only."
+2026-11-23T22:28:00.632577Z,com.eliteaiempire/empirecdn,Empire CDN,1.0.0,,streamable-http,"Empire CDN: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:01.60921Z,com.eliteaiempire/envvault,EnvVault,1.0.0,,streamable-http,"EnvVault: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:02.630894Z,com.eliteaiempire/fidelity-lab,Fidelity Lab,1.0.0,,streamable-http,"Fidelity Lab: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:03.605449Z,com.eliteaiempire/flow-alerts,Flow Alerts,1.0.0,,streamable-http,"Flow Alerts: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:04.542374Z,com.eliteaiempire/integrity,Integrity,1.0.0,,streamable-http,"Integrity: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:05.459255Z,com.eliteaiempire/llmrouter,Empire LLM Router,1.0.0,,streamable-http,"Empire LLM Router: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:06.384725Z,com.eliteaiempire/lumen-api-router,Lumen API Router,1.0.0,,streamable-http,"Lumen API Router: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:07.308363Z,com.eliteaiempire/lumen-api,Lumen Api,1.0.0,,streamable-http,"Lumen Api: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:08.264704Z,com.eliteaiempire/lumen-pro,Lumen Pro,1.0.0,,streamable-http,"Lumen Pro: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:09.296303Z,com.eliteaiempire/mutator,Mutator,1.0.0,,streamable-http,"Mutator: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:10.303257Z,com.eliteaiempire/products,Products,1.0.0,,streamable-http,"Products: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:11.202437Z,com.eliteaiempire/rulesmith,Rulesmith,1.0.0,,streamable-http,"Rulesmith: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:12.098338Z,com.eliteaiempire/sentinel-monitoring,Empire Sentinel Monitoring,1.0.0,,streamable-http,"Empire Sentinel Monitoring: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:13.305349Z,com.eliteaiempire/shootlyst,Shootlyst,1.0.0,,streamable-http,"Shootlyst: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:14.203207Z,com.eliteaiempire/space,Empire Space,1.0.0,,streamable-http,"Empire Space: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:15.183691Z,com.eliteaiempire/taxmeup,TaxMeUp,1.0.0,,streamable-http,"TaxMeUp: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:16.106207Z,com.eliteaiempire/th-onchain,TradeHouse Onchain,1.0.0,,streamable-http,"TradeHouse Onchain: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:17.036185Z,com.eliteaiempire/th-research,TradeHouse Research,1.0.0,,streamable-http,"TradeHouse Research: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:17.957867Z,com.eliteaiempire/th-validator,TradeHouse Validator,1.0.0,,streamable-http,"TradeHouse Validator: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:18.938142Z,com.eliteaiempire/tradehouse-dashboard,Tradehouse Dashboard,1.0.0,,streamable-http,"Tradehouse Dashboard: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:19.923457Z,com.eliteaiempire/tradetoday,TradeToday,1.0.0,,streamable-http,"TradeToday: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:20.873923Z,com.eliteaiempire/trading,Trading,1.0.0,,streamable-http,"Trading: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:21.870505Z,com.eliteaiempire/tune,Tune,1.0.0,,streamable-http,"Tune: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:22.856145Z,com.eliteaiempire/validator,Validator,1.0.0,,streamable-http,"Validator: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:23.81987Z,com.eliteaiempire/tradehouse-mcp,TradeHouse Agent Data,1.0.0,,streamable-http,"TradeHouse Agent Data: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:25.417673Z,com.eliteagenticsolutions/partners,Empire Partners,1.0.0,,streamable-http,"Empire Partners: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:26.533738Z,com.eliteagenticsolutions/r2,Empire R2,1.0.0,,streamable-http,"Empire R2: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:28.198482Z,com.eliteaiempire/storeforge-app,StoreForge,1.0.0,,streamable-http,"StoreForge: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:29.237538Z,com.eliteaiempire/supportai,SupportAI,1.0.0,,streamable-http,"SupportAI: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:30.343937Z,com.eliteaiempire/weddings,Weddings,1.0.0,,streamable-http,"Weddings: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:28:31.561802Z,com.eliteaiempire/wholesaleheaven,Wholesale Heaven,1.0.0,,streamable-http,"Wholesale Heaven: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T22:29:15.225577Z,free.clipart/mcp,Clipart.Free,1.0.0,,streamable-http,"Search about 95,000 public domain clipart images with SVG and PNG download links"
+2026-11-23T22:32:04.120033Z,io.github.Ulef1005/brick-work,Brick Work,1.2.0,https://github.com/Ulef1005/brick-work,,Ask an assistant about your brick collection through your own Brick Work install.
+2026-11-23T22:33:09.308014Z,io.github.DukeOfCheese/openswx,openswx,0.2.0,https://github.com/DukeOfCheese/openswx,,"Open-source parametric CAD: agents design parts, assemblies and drawings, live in the open app."
+2026-11-23T22:36:20.257177Z,com.einvoiceengine/einvoicing,"E-Invoicing (EN 16931, XRechnung, ZUGFeRD)",0.1.0,,streamable-http,"Validate, parse, convert, create and repair EU e-invoices with the official EN 16931 rule sets."
+2026-11-23T22:37:24.495883Z,com.leracore/lera,Lera,1.0.0,,streamable-http,"Build, test and run AI voice and chat agents that answer phone calls, the web and WhatsApp."
+2026-11-23T22:42:31.22035Z,com.doyouok/doyouok,Doyouok,1.0.0,,streamable-http,"Heartbeat checks for cron, n8n, Make, Zapier and Power Automate: alerts on missed or failed runs."
+2026-11-23T22:44:08.94678Z,io.github.Apertur3/seenline,,0.1.0,https://github.com/Apertur3/seenline,,Local document-to-Markdown conversion that lists text a reader cannot see separately.
+2026-11-23T22:46:03.261668Z,xyz.canaryseal/canaryseal,CanarySeal (AI-Run Security Lab),1.8.1,,streamable-http,"AI-run security lab: 6 free read-only MCP tools for prompt-injection, SKILL.md, MCP & x402 audits."
+2026-11-23T22:46:51.557877Z,ai.firstemployee/mcp,First Employee,1.0.0,,streamable-http,"Your AI employee: its businesses, receipts and held approvals, and new founding builds"
+2026-11-23T22:49:12.68237Z,io.github.paimon-agent/aurora-commons,Aurora Commons,0.1.0,https://github.com/paimon-agent/aurora-forge,,Aurora Commons: search an AI commonwealth's library and read its counted network position.
+2026-11-23T22:50:28.537297Z,io.weproxy/rotating-residential,WeProxy Premium Rotating Residential,1.0.0,https://github.com/weproxy-io/claude-plugin,streamable-http,"Rotating/sticky residential proxies with country & state targeting, quota and whitelist."
+2026-11-23T22:51:28.385053Z,io.github.formkiq/formkiq-mcp-server,FormKiQ Document MCP Server,0.2.1,https://github.com/formkiq/formkiq-mcp-server,,"Authenticated document search and retrieval for FormKiQ, read-only by default."
+2026-11-23T22:51:54.348038Z,chat.theorem/mcp,Theorem.chat,1.0.0,,streamable-http,Submit a mathematical claim and a rigor bar; a model panel attacks it and a referee rules
+2026-11-23T22:54:13.729099Z,io.github.alerthubio/mcp-server,AlertHub,1.0.0,https://github.com/alerthubio/mcp-server,,"Send instant and scheduled multi-channel alerts to Push, Slack, Telegram, WhatsApp, and Email."
+2026-11-23T22:58:08.525625Z,free.tarot/mcp,Tarot.Free,1.0.0,,streamable-http,"All 78 tarot card meanings, spread draws and AI interpretations of your readings"
+2026-11-23T23:00:24.926353Z,com.molecularrag/molecularrag,MolecularRAG,0.1.0,,streamable-http,"Read, search, cite, and inspect figures from your personal PDF and EPUB books."
+2026-11-23T23:00:25.87997Z,com.molecularrag/molecularrag-full,MolecularRAG (Full),0.1.0,,streamable-http,"Read books, inspect figures, manage study notes, generate lessons, and upload books."
+2026-11-23T23:02:43.276809Z,io.github.mkc909/agent-protocols,Agent Protocols Registry (agentprotocols.app),2.0.0,https://github.com/mkc909/agent-protocols-app,streamable-http,"Live, verified registry of 195+ AI agent protocols with comparisons, specs, and drift monitoring."
+2026-11-23T23:03:16.314813Z,uk.freshsheets/fresh-sheets,Fresh Sheets,1.0.0,,streamable-http,"Reads your marketing data from Google Ads, GA4, Search Console, Meta Ads, Shopify, Klaviyo and more."
+2026-11-23T23:03:38.284475Z,com.palavue/county-economy-bundle,,2026.11.04,https://github.com/palavue/county-economy-bundle,streamable-http,"U.S. county measures for workplaces, jobs, pay, and local comparisons."
+2026-11-23T23:07:06.898626Z,io.github.Ethereal49/diynow,DIYNow,0.3.0,https://github.com/Ethereal49/diynow-agent,streamable-http,"Official-source facts on master's programmes for 2027 entry: HK, Macau, SG, UK, AU and more."
+2026-11-23T23:09:09.310236Z,io.github.d3d0n/better-lavka-mcp,Better Lavka,0.2.0,https://github.com/d3d0n/better-lavka-mcp,,"Order groceries from Yandex Lavka Uzbekistan: search, shopping lists, repeat orders."
+2026-11-23T23:10:00.641741Z,io.github.mabhishe/eventpass,EventPass,1.0.0,https://github.com/mabhishe/eventicket,streamable-http,Discover community events and buy tickets; organizers check sales and payments by chat.
+2026-11-23T23:12:07.854497Z,ai.analyticalinsider/agents,Analytical Insider for Agents,1.0.0,,streamable-http,"Plans for your agent: a US phone number, a sending email domain, or both. Read the offer first."
+2026-11-23T23:12:48.55283Z,com.icepartsdb/ice-machine-parts,IcePartsDB,1.0.0,,streamable-http,"Commercial ice machine parts and machines: part lookup, live eBay prices, makers' parts lists."
+2026-11-23T23:15:30.940974Z,com.crowdwisdomtrading.api/crowd-wisdom-trading,CrowdWisdom Trading,1.0.0,,streamable-http,"Crowd sentiment score (-100 to +100) from thousands of pro traders: stocks, ETFs, crypto, FX."
+2026-11-23T23:15:57.455295Z,fi.zeroth/mcp,Zeroth,0.1.0,,streamable-http,"Launch and trade tokens on LayerZero's Zero: read launches, quotes; get unsigned txs."
+2026-11-23T23:18:16.586345Z,cloud.thort/thortspace,Thortspace,1.0.0,,streamable-http,"Your Thortspace arrangements of Thorts, groups and pathsteps: read, build, share and publish them."
+2026-11-23T23:18:51.03751Z,so.figment/mac,Figment Mac hosting,1.0.0,https://github.com/figment-so/figment-mac,streamable-http,"Rent a Mac by the hour or day. An MCP server and a skill let AI agents order, use and stop it."
