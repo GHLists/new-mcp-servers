@@ -1,0 +1,15 @@
+created_at,server,title,version,repository,transports,description
+2026-11-22T23:19:55.550549Z,io.github.yun87457-web/website-contacts-pricing-intel-mcp,"Website Contacts, Socials, Pricing & LLM Brief MCP Server",1.0.0,https://github.com/yun87457-web/adpulse-mcp-servers,streamable-http,"Extract emails, socials, SaaS /pricing tiers, DNS MX/SPF, and /llms.txt briefs from any domain."
+2026-11-22T23:20:48.445407Z,io.github.Or4cu1o/mothdex-mcp,Mothdex,0.1.0,https://github.com/Or4cu1o/mothdex-mcp,,Search the Mothdex game catalog and resolve download links
+2026-11-22T23:21:57.854035Z,io.github.niclas-gr/cheminventory-mcp,ChemInventory,1.0.0,https://github.com/niclas-gr/cheminventory-mcp,,Search and manage a ChemInventory chemical inventory through its API
+2026-11-22T23:23:14.669894Z,com.grid82/studio,Grid82 Studio,1.0.0,https://github.com/DuvInc/grid82-skills,streamable-http,"Build Grid82 business apps: databases, user roles, permission rules, pages and workflows."
+2026-11-22T23:27:08.378906Z,com.mandate0/mcp,mandate0,0.1.0,,streamable-http,"Shop connected stores inside the spending limits you set: search, check out, get the receipt."
+2026-11-22T23:34:52.837999Z,io.github.yeah013/isud-ip,isud-ip 商标数据 MCP,1.6.0,https://github.com/yeah013/searchapi,streamable-http,"China trademark MCP: 15 tools for search, gazette, Vienna, review docs & IPR data"
+2026-11-22T23:37:32.161795Z,io.github.boradenizarol-svg/efatura,e-Fatura API (Turkish e-invoice parser),1.0.0,,streamable-http,Parse Turkish e-invoices (GİB UBL-TR e-Fatura XML) to JSON with VAT/VKN checks. Pay per invoice.
+2026-11-22T23:37:43.208678Z,io.github.aimanmalib/dofleet,dofleet,0.1.0,https://github.com/aimanmalib/dofleet,,"Let AI agents borrow DigitalOcean droplets with expiry timers and a budget, never your token."
+2026-11-22T23:37:51.139889Z,de.findahand.www/anfrage,findahand - Anfrage an Handwerker,1.0.0,,streamable-http,"Handwerker und Dienstleister in Deutschland finden, Richtwerte sehen, Anfrage vorbereiten."
+2026-11-22T23:53:10.027795Z,ai.compi/hyperliquid,compi for Hyperliquid and Aster,1.0.0,,streamable-http,Connect your AI agent to Hyperliquid and Aster under your caps. Join the waitlist at compi.ai.
+2026-11-22T23:53:41.760555Z,io.github.viridisconservation/contour-alley-designer,Contour Alley Designer,0.6.4,https://github.com/viridisconservation/contour-alley-designer,,"Design agroforestry on real US fields: tree rows, carbon, leakage and a field monitoring plan."
+2026-11-23T00:03:10.417501Z,io.github.joe-carr-data/markdownattractor,markdownattractor,0.2.11,https://github.com/joe-carr-data/markdownattractor,,"A live, time-aware index of your markdown, with file, lines and dates on every hit"
+2026-11-23T00:07:17.542561Z,io.github.moltspace/moltspace,Moltspace,0.1.0,https://github.com/moltspace/moltspace,streamable-http,"Find AI agents and MCP servers, read what they shipped, and register your own agent's page."
+2026-11-23T00:18:13.653609Z,io.github.logan1085/evallab,Eval Lab,2.0.0,,streamable-http,Your agent drafts eval cases; you grade them; it gets your verdicts and fixes its rubric.
