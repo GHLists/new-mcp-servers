@@ -1,0 +1,56 @@
+created_at,server,title,version,repository,transports,description
+2026-11-23T05:22:36.593483Z,com.kudimistudios/catalogue,Kudimi Studios catalogue,1.0.0,,streamable-http,"Kids' songs, Shorts, books and free printables (ages 0-12): search, recommend by age, licence terms."
+2026-11-23T05:22:49.010302Z,com.genpio/genpio,Genpio,1.0.0,,streamable-http,"Set up your Genpio AI avatar livestream workspace: plans, scripts, products and stream reports."
+2026-11-23T05:23:33.981723Z,io.github.Alejandro-Cuautli/brand-kit-mcp,Brand Kit,0.1.0,https://github.com/Alejandro-Cuautli/brand-kit-mcp,,"Serves a brand's palette, typography, logos and rules from local files; exports DTCG tokens."
+2026-11-23T05:23:40.178553Z,ai.uplinkswitch/api,UplinkSwitch,1.0.0,,streamable-http,"Every AI model as tools on one key: chat, compare, search, embed, transcribe, images, video, speech."
+2026-11-23T05:24:16.448381Z,ai.visualdimension/audio-to-video,VisualDimension - Audio-to-Video (OAuth),1.0.0,https://github.com/visualdimension-ai/mcp-examples,streamable-http,Create and manage audio-to-video content via MCP with OAuth browser-based authentication.
+2026-11-23T05:24:57.973741Z,com.eliteaiempire/empiregateway,Empire Gateway — Empire Gateway,1.0.0,,streamable-http,"Company info, pricing and checkout links for the Elite AI Empire product portfolio."
+2026-11-23T05:24:58.565942Z,com.eliteaiempire/billadvocate,BillAdvocate,1.0.0,,streamable-http,"Audit a bill, check dispute rules and review advocate bids for medical and utility bills."
+2026-11-23T05:24:59.140184Z,com.eliteaiempire/devwork,DevWork,1.0.0,,streamable-http,Find vetted developers and check marketplace rules; basic listings are unverified.
+2026-11-23T05:24:59.714357Z,com.eliteaiempire/docslang,DocRun · InterpretNow (Docs & Language),1.0.0,,streamable-http,"Find interpreters and translators, quote translations and check marketplace rules."
+2026-11-23T05:25:22.070819Z,ai.visualdimension/audio-to-video-apikey,VisualDimension - Audio-to-Video (API Key),1.0.0,https://github.com/visualdimension-ai/mcp-examples,streamable-http,Create and manage audio-to-video content via MCP with API-key authentication.
+2026-11-23T05:26:36.722317Z,io.github.F7BRASIL/compress-token,Compress-token,1.4.0,https://github.com/F7BRASIL/Compress-token,,"Servidor MCP que economiza tokens em agentes de IA: compressão, smart_read e cache semântico."
+2026-11-23T05:28:01.289945Z,com.eliteagenticsolutions/gateway,EAS LLM Gateway,1.0.0,,streamable-http,"One API for many models, tier-priced: read plans, pricing and usage. Read-only."
+2026-11-23T05:28:03.19319Z,com.eliteaiempire/empiredistributor,Empire Distributor,1.0.0,,streamable-http,"Company info, pricing and checkout links for Empire Distributor."
+2026-11-23T05:28:04.929663Z,com.eliteaiempire/equipment,Equipment & Surplus,1.0.0,,streamable-http,Check local rules for renting tools and equipment by the day.
+2026-11-23T05:28:05.894002Z,com.eliteaiempire/events,Events,1.0.0,,streamable-http,"Find event pros and check local rules. Read-only, no sign-up."
+2026-11-23T05:28:06.912818Z,com.eliteaiempire/games,Empire Games Studio,1.0.0,,streamable-http,"Company info, pricing and waitlist for Empire Games Studio (Siege Lane, GYREWALL)."
+2026-11-23T05:28:07.903455Z,com.eliteaiempire/lessons,Lessons,1.0.0,,streamable-http,"Find lesson providers and check local rules. Read-only, no sign-up."
+2026-11-23T05:28:08.801488Z,com.eliteaiempire/marketplace,Elite Marketplaces,1.0.0,,streamable-http,"List markets, read listing requirements and join the waitlist for local pros and rentals."
+2026-11-23T05:28:09.702008Z,com.eliteaiempire/microsaas,Micro-SaaS Studio,1.0.0,,streamable-http,List offers and get checkout links for generated micro-SaaS scaffolds.
+2026-11-23T05:28:10.585781Z,com.eliteaiempire/moving,Moving & Junk,1.0.0,,streamable-http,"Find movers, get quotes and check local rules. Read-only, no sign-up."
+2026-11-23T05:31:51.952302Z,monster.cad/converter,CAD Monster,1.0.0,,streamable-http,"CAD and 3D file conversion: check what cad.monster does with a format pair, get the order link."
+2026-11-23T05:33:29.262433Z,io.github.Albertito-AI/atlas-reweave,Atlas Reweave: Albert Tan Sin Hon,0.1.0-alpha.1,https://github.com/Albertito-AI/atlas-reweave,,Versioned acceptance and durable receipts for trusted local agent computations.
+2026-11-23T05:35:39.377282Z,com.eliteaiempire/aidatingcoach,AI Dating Coach,1.0.0,,streamable-http,"AI dating coach: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T05:35:40.362249Z,com.eliteaiempire/aiseo,AISEO Edge,1.0.0,,streamable-http,Edge llms.txt + ai.txt + AI-friendly robots.txt for 100s of zones
+2026-11-23T05:35:41.389692Z,com.eliteaiempire/appforge,AppForge,1.0.0,,streamable-http,"Describe your app, AI generates it, AppForge cloud-builds the iOS & Android binaries on our own..."
+2026-11-23T05:35:42.613306Z,com.eliteaiempire/awareness,Security Awareness Training,1.0.0,,streamable-http,"Short security-awareness lessons, quizzes and signed completion certificates."
+2026-11-23T05:35:43.632407Z,com.eliteaiempire/beckerdata,Becker Data,1.0.0,,streamable-http,Historical orderbook + resolution feeds for Kalshi/Polymarket/Limitless
+2026-11-23T05:35:44.765043Z,com.eliteaiempire/bidcustoms,BidCustoms,1.0.0,,streamable-http,"BidCustoms: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T05:35:45.790282Z,com.eliteaiempire/brandradar,BrandRadar,1.0.0,,streamable-http,See how ChatGPT and other AI answer engines mention your brand vs competitors.
+2026-11-23T05:35:46.770446Z,com.eliteaiempire/calibrate,Empire Calibrate,1.0.0,,streamable-http,Your model says 0.9. Does it actually win 90% of the time? Empire Calibrate maps raw scores to...
+2026-11-23T05:35:47.700812Z,com.eliteaiempire/data-bc-corpus,BugClass Lessons-Learned Database,1.0.0,,streamable-http,Sanitized 90+ BC detectors + 1000+ lessons (quant-firm SaaS)
+2026-11-23T05:35:48.693168Z,com.eliteaiempire/data-becker-pm-orderbook,Becker PM/Kalshi Orderbook Feed,1.0.0,,streamable-http,Continuous historical orderbook archive (PM/Kalshi/Polymarket/Limitless)
+2026-11-23T05:35:49.693803Z,com.eliteaiempire/data-fees,Platform Fee/Incentive Tables,1.0.0,,streamable-http,Per-exchange fee + maker/taker incentive feeds (Kalshi/Polymarket/etc)
+2026-11-23T05:35:50.735566Z,com.eliteaiempire/data-persona-corpus,ML Feature Reference Dataset,1.0.0,,streamable-http,Anonymized aggregate market-feature reference dataset for ML research
+2026-11-23T05:35:51.799289Z,com.eliteaiempire/data-sentiment,Sentiment Feeds API,1.0.0,,streamable-http,News + social sentiment scoring with our sentiment vocabulary
+2026-11-23T05:35:52.820292Z,com.eliteaiempire/data-seo-brief,AI-SEO Content Brief Generator,1.0.0,,streamable-http,Auto-generated SEO content briefs (from our internal SEO engine)
+2026-11-23T05:35:53.834703Z,com.eliteaiempire/data-sports-odds,Sports Odds Feeds,1.0.0,,streamable-http,NBA + sportsbook oracle-lag feeds for DFS / sportsbook arb
+2026-11-23T05:35:55.307353Z,com.eliteaiempire/data-weather,Weather Feeds API,1.0.0,,streamable-http,NWS-aggregated weather + community PWS stations
+2026-11-23T05:35:56.870964Z,com.eliteaiempire/elitebids,EliteBids,1.0.0,,streamable-http,"EliteBids: read product facts and pricing. Read-only, no sign-up."
+2026-11-23T05:35:58.231494Z,com.eliteaiempire/empireanalytics,Empire Analytics,1.0.0,,streamable-http,Plausible-bundled cookie-free analytics (Lumen-Pro tier)
+2026-11-23T05:35:59.790454Z,com.eliteaiempire/empirebeacon,Empire Beacon,1.0.0,,streamable-http,Cross-cloud uptime monitoring (catches CF/BGP/DNS routing failures)
+2026-11-23T05:41:24.256137Z,io.github.AI-Chili/aichili,AI Chili Video Generation Studio & API,1.0.0,https://github.com/AI-Chili/aichili,streamable-http,Generate 15s-30s AI videos & talking avatars via AI Chili REST API and estimate PAYG credit costs.
+2026-11-23T05:43:57.957136Z,ai.shiftpress/mcp,ShiftPress,1.0.0,,streamable-http,"Manage your ShiftPress websites from your AI: request changes, review previews, read site stats."
+2026-11-23T05:50:19.603543Z,kr.aljal.k-data/public-data,알잘 공공데이터,1.0.0,,streamable-http,공공데이터로 정리한 공공시설 · 버리는 비용 정보. Korean public facilities and disposal costs from public data.
+2026-11-23T05:50:54.97945Z,com.fadehost/mcp,FadeHost,1.3.0,,streamable-http,"Manage FadeHost game servers, apps, bots and VPS: console, deploys, files, backups, power."
+2026-11-23T05:53:09.794781Z,ai.auteo/auteo,Auteo,0.2.1,,streamable-http,"Generate AI videos, images, music, and speech from any MCP client"
+2026-11-23T05:53:20.612258Z,np.com.nischaldhakal/mcp-check,MCP Check,1.0.0,https://github.com/DcodeNischal/mcp-check,streamable-http,"Check any MCP server against the spec, and search a graded directory of public MCP servers."
+2026-11-23T05:55:32.642515Z,kitchen.savera/mcp,Savera,0.7.0,,streamable-http,"Your kitchen's state for your assistant: fridge, freezer, pantry, spices and the shopping list."
+2026-11-23T06:00:53.381784Z,com.andque/strata-b2a-mcp,"STRATA & TrashPan B2A Public Data, JP Corporate KYB (5,000 Hot-Index), TCG & Golf EV MCP",2.4.0,https://github.com/andquemori/strata-b2a-mcp,streamable-http,"Zero-PII B2A Remote MCP: 16 streams, 118 tools, 5,000 JP corps KYB, TCG, Golf EV, x402 & Free probe"
+2026-11-23T06:01:19.744314Z,site.agentpolka/izbrannoe,Избранное,0.1.0,,streamable-http,"Read-only search over a Russian feed of AI tools, design, development and books."
+2026-11-23T06:03:30.736986Z,gg.freeport/listing-import,Freeport listing import,1.0.0,,streamable-http,Brings a seller's listings from another site into Freeport as drafts for the seller to review.
+2026-11-23T06:08:13.484014Z,io.github.haithamelmengad/claude-popcorn,,0.5.2,https://github.com/haithamelmengad/claude-popcorn,,Watch local videos from any MCP agent: scene-change key frames and a local Whisper transcript.
+2026-11-23T06:12:20.913647Z,io.github.luthandomaqondo-95/agri-prices,Agri Prices (MCP Africa Master Class),0.3.0,https://github.com/AppimateSA/mcp-masterclass,streamable-http,Sample fresh-produce prices (ZAR/kg) for five South African markets. Teaching server.
+2026-11-23T06:13:50.661829Z,ru.htmlweb/mcp,htmlweb.ru — справочники и проверки для AI,1.6.5,https://github.com/kdg22/mcp-htmlweb,streamable-http,"RU API for AI agents: INN/OGRN, banks by BIC, geo by IP. Agents self-register, pay via x402."
+2026-11-23T06:19:28.731642Z,com.silklinedata/silkline,Silkline,1.0.0,,streamable-http,"The Chinese internet, as one API."
