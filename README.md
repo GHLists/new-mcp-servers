@@ -9,69 +9,95 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 06:20 UTC
+## Latest list — 2026-11-23 07:21 UTC
 
-New MCP servers published between 2026-11-23 05:21 UTC and 2026-11-23 06:20 UTC.
+New MCP servers published between 2026-11-23 06:20 UTC and 2026-11-23 07:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-23T06-20-55-34363Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-23T07-21-35-370581Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-23 05:22:36 | com.kudimistudios/catalogue | Kudimi Studios catalogue | 1.0.0 | Kids' songs, Shorts, books and free printables (ages 0-12): search, recommend b… |
-| 2026-11-23 05:22:49 | com.genpio/genpio | Genpio | 1.0.0 | Set up your Genpio AI avatar livestream workspace: plans, scripts, products and… |
-| 2026-11-23 05:23:33 | [io.github.Alejandro-Cuautli/brand-kit-mcp](https://github.com/Alejandro-Cuautli/brand-kit-mcp) | Brand Kit | 0.1.0 | Serves a brand's palette, typography, logos and rules from local files; exports… |
-| 2026-11-23 05:23:40 | ai.uplinkswitch/api | UplinkSwitch | 1.0.0 | Every AI model as tools on one key: chat, compare, search, embed, transcribe, i… |
-| 2026-11-23 05:24:16 | [ai.visualdimension/audio-to-video](https://github.com/visualdimension-ai/mcp-examples) | VisualDimension - Audio-to-Video (OAuth) | 1.0.0 | Create and manage audio-to-video content via MCP with OAuth browser-based authe… |
-| 2026-11-23 05:24:57 | com.eliteaiempire/empiregateway | Empire Gateway — Empire Gateway | 1.0.0 | Company info, pricing and checkout links for the Elite AI Empire product portfo… |
-| 2026-11-23 05:24:58 | com.eliteaiempire/billadvocate | BillAdvocate | 1.0.0 | Audit a bill, check dispute rules and review advocate bids for medical and util… |
-| 2026-11-23 05:24:59 | com.eliteaiempire/devwork | DevWork | 1.0.0 | Find vetted developers and check marketplace rules; basic listings are unverifi… |
-| 2026-11-23 05:24:59 | com.eliteaiempire/docslang | DocRun · InterpretNow (Docs & Language) | 1.0.0 | Find interpreters and translators, quote translations and check marketplace rul… |
-| 2026-11-23 05:25:22 | [ai.visualdimension/audio-to-video-apikey](https://github.com/visualdimension-ai/mcp-examples) | VisualDimension - Audio-to-Video (API K… | 1.0.0 | Create and manage audio-to-video content via MCP with API-key authentication. |
-| 2026-11-23 05:26:36 | [io.github.F7BRASIL/compress-token](https://github.com/F7BRASIL/Compress-token) | Compress-token | 1.4.0 | Servidor MCP que economiza tokens em agentes de IA: compressão, smart_read e ca… |
-| 2026-11-23 05:28:01 | com.eliteagenticsolutions/gateway | EAS LLM Gateway | 1.0.0 | One API for many models, tier-priced: read plans, pricing and usage. Read-only. |
-| 2026-11-23 05:28:03 | com.eliteaiempire/empiredistributor | Empire Distributor | 1.0.0 | Company info, pricing and checkout links for Empire Distributor. |
-| 2026-11-23 05:28:04 | com.eliteaiempire/equipment | Equipment & Surplus | 1.0.0 | Check local rules for renting tools and equipment by the day. |
-| 2026-11-23 05:28:05 | com.eliteaiempire/events | Events | 1.0.0 | Find event pros and check local rules. Read-only, no sign-up. |
-| 2026-11-23 05:28:06 | com.eliteaiempire/games | Empire Games Studio | 1.0.0 | Company info, pricing and waitlist for Empire Games Studio (Siege Lane, GYREWAL… |
-| 2026-11-23 05:28:07 | com.eliteaiempire/lessons | Lessons | 1.0.0 | Find lesson providers and check local rules. Read-only, no sign-up. |
-| 2026-11-23 05:28:08 | com.eliteaiempire/marketplace | Elite Marketplaces | 1.0.0 | List markets, read listing requirements and join the waitlist for local pros an… |
-| 2026-11-23 05:28:09 | com.eliteaiempire/microsaas | Micro-SaaS Studio | 1.0.0 | List offers and get checkout links for generated micro-SaaS scaffolds. |
-| 2026-11-23 05:28:10 | com.eliteaiempire/moving | Moving & Junk | 1.0.0 | Find movers, get quotes and check local rules. Read-only, no sign-up. |
-| 2026-11-23 05:31:51 | monster.cad/converter | CAD Monster | 1.0.0 | CAD and 3D file conversion: check what cad.monster does with a format pair, get… |
-| 2026-11-23 05:33:29 | [io.github.Albertito-AI/atlas-reweave](https://github.com/Albertito-AI/atlas-reweave) | Atlas Reweave: Albert Tan Sin Hon | 0.1.0-alpha.1 | Versioned acceptance and durable receipts for trusted local agent computations. |
-| 2026-11-23 05:35:39 | com.eliteaiempire/aidatingcoach | AI Dating Coach | 1.0.0 | AI dating coach: read product facts and pricing. Read-only, no sign-up. |
-| 2026-11-23 05:35:40 | com.eliteaiempire/aiseo | AISEO Edge | 1.0.0 | Edge llms.txt + ai.txt + AI-friendly robots.txt for 100s of zones |
-| 2026-11-23 05:35:41 | com.eliteaiempire/appforge | AppForge | 1.0.0 | Describe your app, AI generates it, AppForge cloud-builds the iOS & Android bin… |
-| 2026-11-23 05:35:42 | com.eliteaiempire/awareness | Security Awareness Training | 1.0.0 | Short security-awareness lessons, quizzes and signed completion certificates. |
-| 2026-11-23 05:35:43 | com.eliteaiempire/beckerdata | Becker Data | 1.0.0 | Historical orderbook + resolution feeds for Kalshi/Polymarket/Limitless |
-| 2026-11-23 05:35:44 | com.eliteaiempire/bidcustoms | BidCustoms | 1.0.0 | BidCustoms: read product facts and pricing. Read-only, no sign-up. |
-| 2026-11-23 05:35:45 | com.eliteaiempire/brandradar | BrandRadar | 1.0.0 | See how ChatGPT and other AI answer engines mention your brand vs competitors. |
-| 2026-11-23 05:35:46 | com.eliteaiempire/calibrate | Empire Calibrate | 1.0.0 | Your model says 0.9. Does it actually win 90% of the time? Empire Calibrate map… |
-| 2026-11-23 05:35:47 | com.eliteaiempire/data-bc-corpus | BugClass Lessons-Learned Database | 1.0.0 | Sanitized 90+ BC detectors + 1000+ lessons (quant-firm SaaS) |
-| 2026-11-23 05:35:48 | com.eliteaiempire/data-becker-pm-orderbook | Becker PM/Kalshi Orderbook Feed | 1.0.0 | Continuous historical orderbook archive (PM/Kalshi/Polymarket/Limitless) |
-| 2026-11-23 05:35:49 | com.eliteaiempire/data-fees | Platform Fee/Incentive Tables | 1.0.0 | Per-exchange fee + maker/taker incentive feeds (Kalshi/Polymarket/etc) |
-| 2026-11-23 05:35:50 | com.eliteaiempire/data-persona-corpus | ML Feature Reference Dataset | 1.0.0 | Anonymized aggregate market-feature reference dataset for ML research |
-| 2026-11-23 05:35:51 | com.eliteaiempire/data-sentiment | Sentiment Feeds API | 1.0.0 | News + social sentiment scoring with our sentiment vocabulary |
-| 2026-11-23 05:35:52 | com.eliteaiempire/data-seo-brief | AI-SEO Content Brief Generator | 1.0.0 | Auto-generated SEO content briefs (from our internal SEO engine) |
-| 2026-11-23 05:35:53 | com.eliteaiempire/data-sports-odds | Sports Odds Feeds | 1.0.0 | NBA + sportsbook oracle-lag feeds for DFS / sportsbook arb |
-| 2026-11-23 05:35:55 | com.eliteaiempire/data-weather | Weather Feeds API | 1.0.0 | NWS-aggregated weather + community PWS stations |
-| 2026-11-23 05:35:56 | com.eliteaiempire/elitebids | EliteBids | 1.0.0 | EliteBids: read product facts and pricing. Read-only, no sign-up. |
-| 2026-11-23 05:35:58 | com.eliteaiempire/empireanalytics | Empire Analytics | 1.0.0 | Plausible-bundled cookie-free analytics (Lumen-Pro tier) |
-| 2026-11-23 05:35:59 | com.eliteaiempire/empirebeacon | Empire Beacon | 1.0.0 | Cross-cloud uptime monitoring (catches CF/BGP/DNS routing failures) |
-| 2026-11-23 05:41:24 | [io.github.AI-Chili/aichili](https://github.com/AI-Chili/aichili) | AI Chili Video Generation Studio & API | 1.0.0 | Generate 15s-30s AI videos & talking avatars via AI Chili REST API and estimate… |
-| 2026-11-23 05:43:57 | ai.shiftpress/mcp | ShiftPress | 1.0.0 | Manage your ShiftPress websites from your AI: request changes, review previews,… |
-| 2026-11-23 05:50:19 | kr.aljal.k-data/public-data | 알잘 공공데이터 | 1.0.0 | 공공데이터로 정리한 공공시설 · 버리는 비용 정보. Korean public facilities and disposal costs from p… |
-| 2026-11-23 05:50:54 | com.fadehost/mcp | FadeHost | 1.3.0 | Manage FadeHost game servers, apps, bots and VPS: console, deploys, files, back… |
-| 2026-11-23 05:53:09 | ai.auteo/auteo | Auteo | 0.2.1 | Generate AI videos, images, music, and speech from any MCP client |
-| 2026-11-23 05:53:20 | [np.com.nischaldhakal/mcp-check](https://github.com/DcodeNischal/mcp-check) | MCP Check | 1.0.0 | Check any MCP server against the spec, and search a graded directory of public… |
-| 2026-11-23 05:55:32 | kitchen.savera/mcp | Savera | 0.7.0 | Your kitchen's state for your assistant: fridge, freezer, pantry, spices and th… |
-| 2026-11-23 06:00:53 | [com.andque/strata-b2a-mcp](https://github.com/andquemori/strata-b2a-mcp) | STRATA & TrashPan B2A Public Data, JP C… | 2.4.0 | Zero-PII B2A Remote MCP: 16 streams, 118 tools, 5,000 JP corps KYB, TCG, Golf E… |
-| 2026-11-23 06:01:19 | site.agentpolka/izbrannoe | Избранное | 0.1.0 | Read-only search over a Russian feed of AI tools, design, development and books. |
-| 2026-11-23 06:03:30 | gg.freeport/listing-import | Freeport listing import | 1.0.0 | Brings a seller's listings from another site into Freeport as drafts for the se… |
-| 2026-11-23 06:08:13 | [io.github.haithamelmengad/claude-popcorn](https://github.com/haithamelmengad/claude-popcorn) |  | 0.5.2 | Watch local videos from any MCP agent: scene-change key frames and a local Whis… |
-| 2026-11-23 06:12:20 | [io.github.luthandomaqondo-95/agri-prices](https://github.com/AppimateSA/mcp-masterclass) | Agri Prices (MCP Africa Master Class) | 0.3.0 | Sample fresh-produce prices (ZAR/kg) for five South African markets. Teaching s… |
-| 2026-11-23 06:13:50 | [ru.htmlweb/mcp](https://github.com/kdg22/mcp-htmlweb) | htmlweb.ru — справочники и проверки для… | 1.6.5 | RU API for AI agents: INN/OGRN, banks by BIC, geo by IP. Agents self-register,… |
-| 2026-11-23 06:19:28 | com.silklinedata/silkline | Silkline | 1.0.0 | The Chinese internet, as one API. |
+| 2026-11-23 06:22:46 | io.github.crevas/sum | Sum | 1.1.0 | Prepare browser uploads for audio transcription and read Sum's transcription gu… |
+| 2026-11-23 06:28:48 | com.agenty/agenty | Agenty | 1.1.0 | Scrape websites, capture screenshots and PDFs, run scraping agents, and search… |
+| 2026-11-23 06:31:11 | ai.chatlily/apple-ads | Lily Apple Ads | 0.2.0 | Analyze Apple Ads spend, revenue, and ROAS. Review and confirm campaign changes. |
+| 2026-11-23 06:32:34 | online.editclips/mcp | EditClips | 1.1.0 | Video, audio, and image processing for AI agents: convert, transcribe, upscale… |
+| 2026-11-23 06:33:30 | [io.github.gruntas/gruntas](https://github.com/gruntas/gruntas) |  | 2026.11.0 | Publishing from Gruntas, the coding agent harness, for any MCP client: screensh… |
+| 2026-11-23 06:34:21 | com.sumtranscribe/sum | Sum | 1.1.0 | Prepare browser uploads for audio transcription and read Sum's transcription gu… |
+| 2026-11-23 06:35:52 | io.github.Flowish/toolgiv | toolgiv (툴기브) | 1.0.0 | Find small, verified work tools (payroll, tax, invoices, splitting bills) made… |
+| 2026-11-23 06:37:56 | [io.github.Teddys09/catalog-compiler](https://github.com/Teddys09/catalog-compiler-mcp) | Catalog Compiler | 1.0.0 | Validate Shopify and WooCommerce product data and generate Google, Meta and Tik… |
+| 2026-11-23 06:38:25 | io.github.Albertito-AI/research-resource-agent | Albert Tan Sin Hon Research Resource Ag… | 1.1.0 | Read-only research discovery, curated by Albert Tan Sin Hon, with source citati… |
+| 2026-11-23 06:38:27 | [io.github.mrfentmen/aaa-roadside-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Aaa Roadside Guide Tracker | 1.0.0 | Real local JSON analysis of aaa roadside guide in the Aaa Roadside lane. 25 MCP… |
+| 2026-11-23 06:38:28 | [io.github.mrfentmen/adidas-drop-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | Adidas Drop Tracker Tracker | 1.0.0 | Real local JSON analysis of adidas drop tracker in the Adidas Drop lane. 25 MCP… |
+| 2026-11-23 06:38:29 | [io.github.mrfentmen/adt-alarm-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Adt Alarm Guide Tracker | 1.0.0 | Real local JSON analysis of adt alarm guide in the Adt Alarm lane. 25 MCP tools… |
+| 2026-11-23 06:38:30 | [io.github.mrfentmen/all-clad-guide-mcp](https://github.com/mrfentmen/awesome-servers) | All Clad Guide Tracker | 1.0.0 | Real local JSON analysis of all clad guide in the All Clad lane. 25 MCP tools,… |
+| 2026-11-23 06:38:32 | [io.github.mrfentmen/anthem-claim-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | Anthem Claim Tracker Tracker | 1.0.0 | Real local JSON analysis of anthem claim tracker in the Anthem Claim lane. 25 M… |
+| 2026-11-23 06:38:34 | [io.github.mrfentmen/arbors-tree-service-mcp](https://github.com/mrfentmen/awesome-servers) | Arbors Tree Service Tracker | 1.0.0 | Real local JSON analysis of arbors tree service in the Arbors Tree lane. 25 MCP… |
+| 2026-11-23 06:38:34 | [io.github.mrfentmen/arlo-camera-setup-mcp](https://github.com/mrfentmen/awesome-servers) | Arlo Camera Setup Tracker | 1.0.0 | Real local JSON analysis of arlo camera setup in the Arlo Camera lane. 25 MCP t… |
+| 2026-11-23 06:38:35 | [io.github.mrfentmen/asus-router-setup-mcp](https://github.com/mrfentmen/awesome-servers) | Asus Router Setup Tracker | 1.0.0 | Real local JSON analysis of asus router setup in the Asus Router lane. 25 MCP t… |
+| 2026-11-23 06:38:36 | [io.github.mrfentmen/att-plan-compare-mcp](https://github.com/mrfentmen/awesome-servers) | Att Plan Compare Tracker | 1.0.0 | Real local JSON analysis of att plan compare in the Att Plan lane. 25 MCP tools… |
+| 2026-11-23 06:38:38 | [io.github.mrfentmen/behr-paint-calculator-mcp](https://github.com/mrfentmen/awesome-servers) | Behr Paint Calculator Tracker | 1.0.0 | Real local JSON analysis of behr paint calculator in the Behr Paint lane. 25 MC… |
+| 2026-11-23 06:38:40 | [io.github.mrfentmen/best-buy-deals-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | Best Buy Deals Tracker Tracker | 1.0.0 | Real local JSON analysis of best buy deals tracker in the Best Buy lane. 25 MCP… |
+| 2026-11-23 06:38:41 | [io.github.mrfentmen/best-buy-recycling-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Best Buy Recycling Guide Tracker | 1.0.0 | Real local JSON analysis of best buy recycling guide in the Best Buy lane. 25 M… |
+| 2026-11-23 06:38:41 | [io.github.mrfentmen/best-buy-tv-mount-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Best Buy Tv Mount Guide Tracker | 1.0.0 | Real local JSON analysis of best buy tv mount guide in the Best Buy lane. 25 MC… |
+| 2026-11-23 06:38:42 | [io.github.mrfentmen/big-green-egg-cook-mcp](https://github.com/mrfentmen/awesome-servers) | Big Green Egg Cook Tracker | 1.0.0 | Real local JSON analysis of big green egg cook in the Big Green lane. 25 MCP to… |
+| 2026-11-23 06:38:44 | [io.github.mrfentmen/blink-camera-setup-mcp](https://github.com/mrfentmen/awesome-servers) | Blink Camera Setup Tracker | 1.0.0 | Real local JSON analysis of blink camera setup in the Blink Camera lane. 25 MCP… |
+| 2026-11-23 06:38:45 | [io.github.mrfentmen/blue-apron-recipe-box-mcp](https://github.com/mrfentmen/awesome-servers) | Blue Apron Recipe Box Tracker | 1.0.0 | Real local JSON analysis of blue apron recipe box in the Blue Apron lane. 25 MC… |
+| 2026-11-23 06:38:46 | [io.github.mrfentmen/bose-sound-picker-mcp](https://github.com/mrfentmen/awesome-servers) | Bose Sound Picker Tracker | 1.0.0 | Real local JSON analysis of bose sound picker in the Bose Sound lane. 25 MCP to… |
+| 2026-11-23 06:38:48 | [io.github.mrfentmen/canon-camera-picker-mcp](https://github.com/mrfentmen/awesome-servers) | Canon Camera Picker Tracker | 1.0.0 | Real local JSON analysis of canon camera picker in the Canon Camera lane. 25 MC… |
+| 2026-11-23 06:38:49 | [io.github.mrfentmen/canon-printer-setup-mcp](https://github.com/mrfentmen/awesome-servers) | Canon Printer Setup Tracker | 1.0.0 | Real local JSON analysis of canon printer setup in the Canon Printer lane. 25 M… |
+| 2026-11-23 06:38:50 | [io.github.mrfentmen/carrier-hvac-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Carrier Hvac Guide Tracker | 1.0.0 | Real local JSON analysis of carrier hvac guide in the Carrier Hvac lane. 25 MCP… |
+| 2026-11-23 06:38:51 | [io.github.mrfentmen/carvana-car-finder-mcp](https://github.com/mrfentmen/awesome-servers) | Carvana Car Finder Tracker | 1.0.0 | Real local JSON analysis of carvana car finder in the Carvana Car lane. 25 MCP… |
+| 2026-11-23 06:38:58 | [io.github.mrfentmen/cnn-news-digest-mcp](https://github.com/mrfentmen/awesome-servers) | Cnn News Digest Tracker | 1.0.0 | Real local JSON analysis of cnn news digest in the Cnn News lane. 25 MCP tools,… |
+| 2026-11-23 06:38:59 | [io.github.mrfentmen/cox-internet-setup-mcp](https://github.com/mrfentmen/awesome-servers) | Cox Internet Setup Tracker | 1.0.0 | Real local JSON analysis of cox internet setup in the Cox Internet lane. 25 MCP… |
+| 2026-11-23 06:39:00 | [io.github.mrfentmen/got-junk-booking-mcp](https://github.com/mrfentmen/awesome-servers) | Got Junk Booking Tracker | 1.0.0 | Real local JSON analysis of got junk booking in the Got Junk lane. 25 MCP tools… |
+| 2026-11-23 06:39:00 | [io.github.mrfentmen/roto-rooter-drain-mcp](https://github.com/mrfentmen/awesome-servers) | Roto Rooter Drain Tracker | 1.0.0 | Real local JSON analysis of roto rooter drain in the Roto Rooter lane. 25 MCP t… |
+| 2026-11-23 06:40:43 | io.github.sumitrmardy/rightmove-scraper | Rightmove Scraper | 1.0.0 | UK property listings from Rightmove for sale or rent: price, beds, agent, postc… |
+| 2026-11-23 06:42:42 | [com.globalhostia/account](https://github.com/manojkumardevisetty/globalhostia-gemini-extension) | GlobalHostia Account | 1.0.0 | Manage your GlobalHostia account: domains, DNS, email, hosting, servers, invoic… |
+| 2026-11-23 06:42:54 | com.mailglo/mcp | MailGlo | 1.0.0 | Read DMARC reports, domain findings and live DNS; prepare DNS changes you appro… |
+| 2026-11-23 06:46:39 | ae.brainy/brainy-48 |  | 0.1.0 | Automation catalogue and free 48-hour diagnosis for the UAE and Spain. |
+| 2026-11-23 06:47:13 | com.machinerylane/machinery-lane | Machinery Lane | 1.0.0 | Search vetted plastics equipment suppliers, review sources, and prepare RFQ com… |
+| 2026-11-23 06:51:01 | jp.wariwari/wariwari | wariwari | 1.0.0 | Split shared expenses in groups: add expenses, check balances and settle up, in… |
+| 2026-11-23 06:55:28 | com.diagramreply/diagramreply | DiagramReply | 1.0.0 | Turn AI chat answers into interactive Bento cards, checklists, diagrams, charts… |
+| 2026-11-23 06:56:09 | io.github.zty5678/imagetoprompts | ImageToPrompts | 1.0.0 | Generate detailed AI image prompts from image URLs or base64 data using a remot… |
+| 2026-11-23 06:56:39 | org.agentsindex/agentsindex | Agents Index | 0.1.0 | Search 9,000+ MCP servers and AI agents by task, with live status, tool lists a… |
+| 2026-11-23 07:00:05 | [io.github.xiaobinger/qrcode-mcp](https://github.com/xiaobinger/qrcode-mcp) |  | 0.1.1 | Decode, repair and generate QR codes; safely route QR URLs and run pluggable OC… |
+| 2026-11-23 07:02:16 | [io.github.AbdiAreys/distribewt](https://github.com/AbdiAreys/Distribewt) | Distribewt | 0.1.0 | Create, review, approve and schedule TikTok and Instagram slideshows for iOS ap… |
+| 2026-11-23 07:02:41 | ai.castopia/castopia | Castopia | 2.0.0 | Small business marketing: edit your website and its code, post videos and image… |
+| 2026-11-23 07:04:21 | blog.agentdiary/diary | Agent Diary | 1.0.0 | A diary and anonymous-confession site only AI agents can post to. Self-register… |
+| 2026-11-23 07:04:33 | [com.mambabuilt/mcp-google-play-app-details](https://github.com/mambalabsdev/mcp-google-play-app-details) |  | 1.0.0 | Google Play app details by package or developer: ratings, installs, price. |
+| 2026-11-23 07:06:36 | [io.github.mrfentmen/crockpot-slow-cook-mcp](https://github.com/mrfentmen/awesome-servers) | Crockpot Slow Cook Tracker | 1.0.0 | Real local JSON analysis of crockpot slow cook in the Crockpot Slow lane. 25 MC… |
+| 2026-11-23 07:06:37 | [io.github.mrfentmen/cuisinart-picker-mcp](https://github.com/mrfentmen/awesome-servers) | Cuisinart Picker Tracker | 1.0.0 | Real local JSON analysis of cuisinart picker in the Cuisinart Picker lane. 25 M… |
+| 2026-11-23 07:06:39 | [io.github.mrfentmen/delta-faucet-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Delta Faucet Guide Tracker | 1.0.0 | Real local JSON analysis of delta faucet guide in the Delta Faucet lane. 25 MCP… |
+| 2026-11-23 07:06:41 | [io.github.mrfentmen/dhl-express-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | Dhl Express Tracker Tracker | 1.0.0 | Real local JSON analysis of dhl express tracker in the Dhl Express lane. 25 MCP… |
+| 2026-11-23 07:06:42 | [io.github.mrfentmen/dish-network-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Dish Network Guide Tracker | 1.0.0 | Real local JSON analysis of dish network guide in the Dish Network lane. 25 MCP… |
+| 2026-11-23 07:06:44 | [io.github.mrfentmen/dominos-group-order-mcp](https://github.com/mrfentmen/awesome-servers) | Dominos Group Order Tracker | 1.0.0 | Real local JSON analysis of dominos group order in the Dominos Group lane. 25 M… |
+| 2026-11-23 07:06:49 | [io.github.mrfentmen/dyson-vacuum-picker-mcp](https://github.com/mrfentmen/awesome-servers) | Dyson Vacuum Picker Tracker | 1.0.0 | Real local JSON analysis of dyson vacuum picker in the Dyson Vacuum lane. 25 MC… |
+| 2026-11-23 07:06:50 | [io.github.mrfentmen/ebay-bid-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | Ebay Bid Tracker Tracker | 1.0.0 | Real local JSON analysis of ebay bid tracker in the Ebay Bid lane. 25 MCP tools… |
+| 2026-11-23 07:06:51 | [io.github.mrfentmen/ecobee-setup-helper-mcp](https://github.com/mrfentmen/awesome-servers) | Ecobee Setup Helper Tracker | 1.0.0 | Real local JSON analysis of ecobee setup helper in the Ecobee Setup lane. 25 MC… |
+| 2026-11-23 07:06:52 | [io.github.mrfentmen/eero-wifi-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Eero Wifi Guide Tracker | 1.0.0 | Real local JSON analysis of eero wifi guide in the Eero Wifi lane. 25 MCP tools… |
+| 2026-11-23 07:06:53 | [io.github.mrfentmen/ego-mower-picker-mcp](https://github.com/mrfentmen/awesome-servers) | Ego Mower Picker Tracker | 1.0.0 | Real local JSON analysis of ego mower picker in the Ego Mower lane. 25 MCP tool… |
+| 2026-11-23 07:06:54 | [io.github.mrfentmen/elgato-stream-setup-mcp](https://github.com/mrfentmen/awesome-servers) | Elgato Stream Setup Tracker | 1.0.0 | Real local JSON analysis of elgato stream setup in the Elgato Stream lane. 25 M… |
+| 2026-11-23 07:06:55 | [io.github.mrfentmen/epson-ink-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | Epson Ink Tracker Tracker | 1.0.0 | Real local JSON analysis of epson ink tracker in the Epson Ink lane. 25 MCP too… |
+| 2026-11-23 07:06:55 | [io.github.mrfentmen/espn-score-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | Espn Score Tracker Tracker | 1.0.0 | Real local JSON analysis of espn score tracker in the Espn Score lane. 25 MCP t… |
+| 2026-11-23 07:06:56 | [io.github.mrfentmen/etsy-shop-finder-mcp](https://github.com/mrfentmen/awesome-servers) | Etsy Shop Finder Tracker | 1.0.0 | Real local JSON analysis of etsy shop finder in the Etsy Shop lane. 25 MCP tool… |
+| 2026-11-23 07:06:57 | [io.github.mrfentmen/fedex-ship-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | Fedex Ship Tracker Tracker | 1.0.0 | Real local JSON analysis of fedex ship tracker in the Fedex Ship lane. 25 MCP t… |
+| 2026-11-23 07:07:00 | [io.github.mrfentmen/geico-quote-compare-mcp](https://github.com/mrfentmen/awesome-servers) | Geico Quote Compare Tracker | 1.0.0 | Real local JSON analysis of geico quote compare in the Geico Quote lane. 25 MCP… |
+| 2026-11-23 07:07:03 | [io.github.mrfentmen/gopro-video-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Gopro Video Guide Tracker | 1.0.0 | Real local JSON analysis of gopro video guide in the Gopro Video lane. 25 MCP t… |
+| 2026-11-23 07:07:04 | [io.github.mrfentmen/harley-ride-planner-mcp](https://github.com/mrfentmen/awesome-servers) | Harley Ride Planner Tracker | 1.0.0 | Real local JSON analysis of harley ride planner in the Harley Ride lane. 25 MCP… |
+| 2026-11-23 07:07:04 | [io.github.mrfentmen/hasbro-game-night-mcp](https://github.com/mrfentmen/awesome-servers) | Hasbro Game Night Tracker | 1.0.0 | Real local JSON analysis of hasbro game night in the Hasbro Game lane. 25 MCP t… |
+| 2026-11-23 07:07:05 | [io.github.mrfentmen/hbo-max-watchlist-mcp](https://github.com/mrfentmen/awesome-servers) | Hbo Max Watchlist Tracker | 1.0.0 | Real local JSON analysis of hbo max watchlist in the Hbo Max lane. 25 MCP tools… |
+| 2026-11-23 07:07:07 | [io.github.mrfentmen/hexclad-pan-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Hexclad Pan Guide Tracker | 1.0.0 | Real local JSON analysis of hexclad pan guide in the Hexclad Pan lane. 25 MCP t… |
+| 2026-11-23 07:07:08 | [io.github.mrfentmen/hilton-event-planner-mcp](https://github.com/mrfentmen/awesome-servers) | Hilton Event Planner Tracker | 1.0.0 | Real local JSON analysis of hilton event planner in the Hilton Event lane. 25 M… |
+| 2026-11-23 07:07:09 | [io.github.mrfentmen/hilton-room-service-mcp](https://github.com/mrfentmen/awesome-servers) | Hilton Room Service Tracker | 1.0.0 | Real local JSON analysis of hilton room service in the Hilton Room lane. 25 MCP… |
+| 2026-11-23 07:07:10 | [io.github.mrfentmen/hims-care-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Hims Care Guide Tracker | 1.0.0 | Real local JSON analysis of hims care guide in the Hims Care lane. 25 MCP tools… |
+| 2026-11-23 07:07:11 | [io.github.mrfentmen/hm-outfit-picker-mcp](https://github.com/mrfentmen/awesome-servers) | Hm Outfit Picker Tracker | 1.0.0 | Real local JSON analysis of hm outfit picker in the Hm Outfit lane. 25 MCP tool… |
+| 2026-11-23 07:07:11 | [io.github.mrfentmen/hoa-dues-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | Hoa Dues Tracker Tracker | 1.0.0 | Real local JSON analysis of hoa dues tracker in the Hoa Dues lane. 25 MCP tools… |
+| 2026-11-23 07:07:21 | io.github.dragonflydb/cloud | Dragonfly Cloud | 1.0.0 | Manage Dragonfly Cloud datastores, backups, networks, connections and metrics. |
+| 2026-11-23 07:09:29 | com.sumtranscribe/sum-transcribe-audio-to-text | Transcribe Audio to Text by Sum | 1.2.1 | Audio transcriber for meetings and lectures. Upload recordings in your browser… |
+| 2026-11-23 07:10:46 | [com.mambabuilt/mcp-website-logo-finder](https://github.com/mambalabsdev/mcp-website-logo-finder) |  | 1.0.0 | Company logo, favicon, icons, and brand colors from a domain. |
+| 2026-11-23 07:15:41 | [io.github.unihad/unidaw](https://github.com/unihad/unidaw) | unidaw | 0.1.0 | Make music with unidaw, a DAW for people and AI agents (Linux, needs a running… |
+| 2026-11-23 07:16:01 | [com.mambabuilt/mcp-apify-run-health-monitor](https://github.com/mambalabsdev/mcp-apify-run-health-monitor) |  | 1.0.0 | Failed, slow, and empty run checks for your own Apify actors, on your own Apify… |
+| 2026-11-23 07:17:44 | [io.github.Melt-3D/nonplanar-slicer-mcp](https://github.com/Melt-3D/nonplanar-slicer-mcp) | MeltSlicer | 0.1.1 | The most advanced nonplanar slicing: STL to G-code in conical or flat layers, f… |
 
 ## Data source
 
