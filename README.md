@@ -9,55 +9,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 18:20 UTC
+## Latest list — 2026-11-24 19:19 UTC
 
-New MCP servers published between 2026-11-24 17:21 UTC and 2026-11-24 18:20 UTC.
+New MCP servers published between 2026-11-24 18:20 UTC and 2026-11-24 19:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-24T18-20-07-027936Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-24T19-19-21-456416Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-24 17:22:08 | [ai.gondola/gondola](https://github.com/gondola-ai/gondola-mcp) | Gondola: Travel for AI Agents | 0.1.7 | The travel infrastructure built for AI agents: search and book flights, hotels,… |
-| 2026-11-24 17:24:34 | com.radaricp/radar-icp | Radar ICP | 1.0.0 | B2B companies on your ICP radar with buying signals, contacts, team notes and o… |
-| 2026-11-24 17:25:46 | [io.github.lamaaguilar9-web/sentinel-mcp-wrapper](https://github.com/lamaaguilar9-web/sentinel-mcp-wrapper) | Sentinel Fleet MCP | 2.2.0 | DeFi invariant scanner, oracle circuit breaker, and forensic scoring MCP server… |
-| 2026-11-24 17:26:51 | com.pedibee/pedibee | Pedibee | 1.0.0 | Sales outreach from your own Gmail: contacts, campaigns and sequences for your… |
-| 2026-11-24 17:27:48 | com.certapoland/assessment | Certa Poland - employment in Poland | 1.0.0-readonly | Read-only Certa Poland tools: services and prices, hiring guides, Polish employ… |
-| 2026-11-24 17:27:53 | [io.github.Thanos-admin/immuta](https://github.com/Thanos-admin/immuta) | Immuta | 1.0.0 | On-chain document notarization for agents: seal a SHA-256 hash on PulseChain fo… |
-| 2026-11-24 17:35:27 | com.eliteaiempire/empireoperator | Empire Operator | 1.0.0 | Explore Empire Operator's KPI dashboard, product information and pricing page. |
-| 2026-11-24 17:35:31 | com.eliteaiempire/empirephotopipeline | Empire Photo Pipeline | 1.0.0 | Read about the photo CDN, face blurring, signed URLs and pricing. |
-| 2026-11-24 17:35:35 | com.eliteaiempire/empireroutercli | Lumen Agent Platform | 1.0.0 | Find product information for the Lumen agent runtime, connectors and model rout… |
-| 2026-11-24 17:35:39 | com.eliteaiempire/empiresentinel-site | Empire Sentinel Site Guide | 1.0.0 | Read product information and search the Empire Sentinel marketing site. |
-| 2026-11-24 17:35:43 | com.eliteaiempire/empiresso | Empire SSO | 1.0.0 | Read the Empire SSO product overview and find its pricing page. |
-| 2026-11-24 17:35:47 | com.eliteaiempire/empiretune | Empire Tune | 1.0.0 | Read about code parameter tuning and out-of-sample validation with Empire Tune. |
-| 2026-11-24 17:35:51 | com.eliteaiempire/empirevalidator | Empire Validator | 1.0.0 | Explore the Empire Validator backtest checks, product information and pricing p… |
-| 2026-11-24 17:37:20 | [com.serversareup/mcp](https://github.com/lostprotocol212/serversareup-mcp-server) | Servers Are Up Cloud & Hybrid Infrastru… | 0.3.0 | US Linux & Windows VPS, Docker, Virtual Datacenters, Game Servers & Cloud APIs… |
-| 2026-11-24 17:38:25 | [io.github.SirinivasK/chron](https://github.com/SirinivasK/chron) |  | 0.1.70 | Timestamped audit log for every AI conversation — stored locally in SQLite, own… |
-| 2026-11-24 17:39:10 | dev.workers.clearmd.clearmd/clearmd | ClearMD | 1.1.0 | URL to Markdown for $0.001 plus 16 agent tools at $0.001-$0.002. x402 USDC. Fai… |
-| 2026-11-24 17:39:39 | [com.jobsglitch/jobs](https://github.com/Jobsglitch/jobsglitch-mcp) | JobsGlitch | 1.1.0 | Search over a million live jobs taken straight from employers' own hiring syste… |
-| 2026-11-24 17:41:13 | us.neurohome/neuro-home | Neuro Home | 1.0.0 | Book a handyman visit from your chat: describe the problem, see the price, pick… |
-| 2026-11-24 17:42:58 | [dev.pingpong/pingpong](https://github.com/smallmodelslab/pingpong) | pingpong | 0.1.0 | Codex and Claude Code agents see each other's work, ask each other questions an… |
-| 2026-11-24 17:43:42 | com.mixily/mixily | Mixily | 1.0.0 | Create RSVP pages for parties and gatherings. Invites only send after the host… |
-| 2026-11-24 17:45:06 | [io.github.Callahan-ci/quartet-qe](https://github.com/Callahan-ci/quartet-qe) | Quartet QE | 0.1.0 | AI test framework: turn a user story into end-to-end tests for APIs, web and An… |
-| 2026-11-24 17:46:33 | app.bestappify/shopify-app-store | BestAppify — Shopify App Store Intellig… | 1.1.0 | Shopify App Store data for app developers: competitors, reviews, category ranks… |
-| 2026-11-24 17:52:58 | io.github.kapwing/kapwing | Kapwing | 0.0.1 | Upload, edit, caption, translate, dub, and export videos in your Kapwing worksp… |
-| 2026-11-24 17:53:22 | [ru.paydadosh/dictionary](https://github.com/paydadosh/paydadosh-mcp) | PaydaDosh — Ingush dictionary | 1.1.1 | Ingush–Russian dictionary: lookup, word analysis, paradigms, corpus examples, t… |
-| 2026-11-24 17:56:27 | mx.lomitos/adopciones | Lomitos: adopción de perros y gatos en… | 1.0.0 | Search dogs and cats for adoption in Mexican shelters. Free and read-only. |
-| 2026-11-24 17:56:29 | ai.laimon/id | Laimon ID | 1.0.0 | Sign in with Laimon for your apps: register OIDC clients, manage access and org… |
-| 2026-11-24 17:57:14 | de.versendo/versendo | Versendo | 1.0.0 | Send real paper letters by post to recipients in Germany, also as registered ma… |
-| 2026-11-24 18:00:19 | io.github.MatRouter/matrouter | MatRouter | 0.11.2 | Search materials databases and retrieve source-traceable evidence, structures,… |
-| 2026-11-24 18:03:02 | com.seller-alert/mcp | SellerAlert | 1.0.0 | Wildberries and Ozon seller analytics in chat: sales, ads, profit, A/B tests of… |
-| 2026-11-24 18:03:41 | [io.github.alexsofronas/searchmaster](https://github.com/alexsofronas/searchmaster-mcp) | SearchMaster | 1.2.0 | Company and competitor ranks across ChatGPT, Claude, Gemini, Grok, and Perplexi… |
-| 2026-11-24 18:03:56 | io.voiceaiagents/directory | voiceaiagents.io | 1.0.0 | Search and compare voice AI agents, with pricing and features checked on each v… |
-| 2026-11-24 18:04:04 | me.minichef/minichef | Minichef | 1.2.0 | Save recipes from any website, Instagram, TikTok or photo; plan meals and build… |
-| 2026-11-24 18:06:17 | com.trybeforeandafter/booking | Before + After | 1.0.0 | Find local service providers, see real prices and prepare a checkout the custom… |
-| 2026-11-24 18:06:21 | [io.github.owaisahmad870/forewit](https://github.com/owaisahmad870/forewit) |  | 0.1.1 | Verifiable forecasting track record for Agent ID holders on BNB Smart Chain. Ne… |
-| 2026-11-24 18:09:57 | [io.github.abenassi/argentina-data](https://github.com/abenassi/argentina-data-mcp) | Argentina Data | 0.5.2 | Argentine official open data: dollar, BCRA, INDEC, ARCA tax rules, InfoLeg, SEP… |
-| 2026-11-24 18:10:03 | [io.github.JohMey/onesimulation](https://github.com/JohMey/OneSimulation-Showcase) | OneSimulation | 1.0.0 | Physics simulation with OneSimulation: build, run and read studies; search work… |
-| 2026-11-24 18:14:10 | [com.angelsend/crm](https://github.com/aw3-technology/angelsend-claude) | AngelSend CRM | 2.44.0 | Agentic CRM: contacts, campaigns, personalized email from your own mailbox, rep… |
-| 2026-11-24 18:16:01 | com.geopagespeed/scanner | GeoPageSpeed | 1.0.0 | Check if ChatGPT, Claude, Perplexity and Google AI can reach, read and quote a… |
-| 2026-11-24 18:16:26 | io.github.sina158/spectre-markets |  | 1.0.2 | Free, no key: daily gamma levels for NQ, ES, BTC, ETH + session paths. Research… |
-| 2026-11-24 18:17:11 | cz.srovname/catalog | Srovname.cz | 1.0.0 | Search the Srovname.cz catalog of products and prices from Czech online shops. |
-| 2026-11-24 18:18:14 | io.github.PagerDuty/pagerduty-mcp | PagerDuty | 1.0.0 | PagerDuty's official hosted MCP server: incidents, on-call, services, schedules… |
+| 2026-11-24 18:20:24 | com.formkeep/formkeep | FormKeep | 1.0.0 | Form backend for websites: create forms, read submissions, triage spam, set who… |
+| 2026-11-24 18:22:10 | com.hasitburstyet/burst-score | Has the bubble burst? | 1.0.0 | Live verdict and 0-100 Burst Score for the AI stock bubble, plus history and ma… |
+| 2026-11-24 18:23:17 | [io.github.keytwig/keytwig](https://github.com/keytwig/keytwig) | keytwig | 0.1.0 | Local encrypted vault for agent secrets with scoped injection and output redact… |
+| 2026-11-24 18:25:30 | [io.github.zk16k123-svg/quant-b2b-intel-hub](https://github.com/zk16k123-svg/quant-b2b-intel-hub) | Quant & B2B Intelligence Hub (Polymarke… | 1.0.0 | Polymarket & Kalshi arbitrage, crypto perp funding carry & Shopify B2B leads vi… |
+| 2026-11-24 18:25:30 | [io.github.zk16k123-svg/prediction-market-arbitrage](https://github.com/zk16k123-svg/quant-b2b-intel-hub) | Polymarket & Kalshi Arbitrage & L2 Orde… | 1.0.0 | Real-time Polymarket & Kalshi odds, L2 orderbook depth & fee-adjusted arbitrage… |
+| 2026-11-24 18:25:30 | [io.github.zk16k123-svg/crypto-funding-carry-arbitrage](https://github.com/zk16k123-svg/quant-b2b-intel-hub) | Crypto Perp Funding Rate & Delta-Neutra… | 1.0.0 | Hyperliquid, dYdX, Kraken & OKX perp funding rates, OI & delta-neutral carry yi… |
+| 2026-11-24 18:25:31 | [io.github.zk16k123-svg/shopify-leads-tech-stack](https://github.com/zk16k123-svg/quant-b2b-intel-hub) | Shopify Store Leads, Emails & Tech Stac… | 1.0.0 | Enrich Shopify & DTC domains with business emails, socials & 30+ SaaS/pixel too… |
+| 2026-11-24 18:25:45 | [ai.thefinancial/financial-ai](https://github.com/thefinancial-ai/financial-ai) | Financial AI® | 1.0.0 | Financial research, forecasts, stock screens and strategy backtests from thefin… |
+| 2026-11-24 18:30:18 | com.aipulsee/aipulsee | AIPulsee | 1.0.0 | Daily AI stories explained, debated by fact-checked AI agents. Agents can comme… |
+| 2026-11-24 18:31:03 | [io.github.becomingmountains/req-invoice-mcp](https://github.com/becomingmountains/req-invoice-mcp) | Request Network Invoices | 0.4.1 | Create crypto invoices and payment links on Request Network, and track who has… |
+| 2026-11-24 18:32:35 | [io.github.drhelius/geardox](https://github.com/drhelius/geardox) | Geardox MCP Server | 0.0.1 | MCP server for the Geardox MS-DOS PC/AT emulator |
+| 2026-11-24 18:32:44 | com.footyferret/footy-ferret | Footy Ferret | 1.0.0 | Football lineups, team ratings, tables and results, including lower leagues, wo… |
+| 2026-11-24 18:41:08 | com.newswithoutpictures/news | News Without Pictures | 1.0.0 | Today's verified news: eight two-paragraph stories with sources, 7 a.m. and 5 p… |
+| 2026-11-24 18:41:09 | [io.github.Shoomaii/company-dossier](https://github.com/Shoomaii/shoomaii-mcp-servers) | Company Dossier & Signals API | 1.0.0 | Company dossier from any domain: DNS SPF/DMARC grade, tech stack, Trust Center,… |
+| 2026-11-24 18:41:12 | [io.github.Shoomaii/saas-pricing-monitor](https://github.com/Shoomaii/shoomaii-mcp-servers) | B2B SaaS Pricing Extractor & Change Mon… | 1.0.0 | Extract structured SaaS pricing tiers: monthly/annual price, seat vs usage, fre… |
+| 2026-11-24 18:41:30 | [io.github.iscvlab/xlaya](https://github.com/iscvlab/xlaya) | XLaya | 2.3.1 | Local 5-profile semantic triage, AST code-graph sieve & conformal decision MCP… |
+| 2026-11-24 18:41:32 | [io.github.mod8l/perceive8](https://github.com/nanocreek/perceive8) | Perceive8 | 1.30.0 | Meeting intelligence in your AI assistant — analyses, transcripts, reports, ale… |
+| 2026-11-24 18:45:11 | com.emailverifyfast/email-verification | EmailVerifyFast | 1.0.0 | Verify email addresses and lists (valid, invalid, catch-all) with EmailVerifyFa… |
+| 2026-11-24 18:45:55 | com.docupost/docupost | DocuPost | 1.0.0 | Mail letters and postcards through USPS by asking: get prices, send, track and… |
+| 2026-11-24 18:48:23 | com.govseer/compliance | Govseer | 1.0.0 | Product compliance checks: EU CLP labels, green claims, Amazon claims, CPSC lab… |
+| 2026-11-24 18:49:12 | [io.github.CyberPunk11147/cyberwarex-search](https://github.com/CyberPunk11147/cyberwarex-mcp) | Web Search + Page Reader, pay per call… | 1.0.0 | Live web search and a page reader (HTML or PDF to markdown) for coding agents.… |
+| 2026-11-24 18:52:51 | com.shiftbd/store | ShiftBD AI Shopping | 1.0.0 | AI shopping server for searching products and placing guest orders in Banglades… |
+| 2026-11-24 18:52:58 | [io.github.solvettle/solvettle](https://github.com/solvettle/solvettle-a2a-examples) | Solvettle | 1.0.0 | Search a public registry of problems AI agents solved, with the fix and the too… |
+| 2026-11-24 18:52:59 | app.sharek/sharek | Sharek | 1.0.0 | Lets Claude Code and other AI agents schedule and publish social media posts th… |
+| 2026-11-24 18:54:15 | [io.github.KonstantinRogozhkin/spy2money](https://github.com/KonstantinRogozhkin/awesome-spy2money) | Spy2Money | 1.0.0 | Read-only US options flow, darkpool prints, dealer gamma (GEX), IV and BTC/ETH… |
+| 2026-11-24 18:58:40 | [io.github.willwearing/graspful](https://github.com/willwearing/graspful) | Graspful | 0.3.0 | Build, review and publish adaptive learning courses with spaced repetition from… |
+| 2026-11-24 19:00:06 | [io.github.incidere/vloop-free-openai-mcp](https://github.com/incidere/vloop-free-openai-mcp) | Free Keyless OpenAI Gateway & Research… | 1.0.0 | Unauthenticated MCP server & keyless /v1/chat/completions funded by 1-step web-… |
+| 2026-11-24 19:00:12 | mu.noukaz/mauritius-property | Noukaz | 1.0.0 | Mauritius property listings, median asking prices by area, guides and a land-un… |
+| 2026-11-24 19:01:59 | com.vuztransport.blog/road-freight | Vuz Transport road freight | 1.0.0 | Full-truck road freight in Europe: price estimate between two places and sendin… |
+| 2026-11-24 19:02:57 | com.stonebuyandsell/sourcing | Stone Buy and Sell: stone suppliers | 1.0.0 | Find natural stone suppliers, listings and quarries: marble, granite, quartzite… |
+| 2026-11-24 19:02:57 | com.stonebuyandsell/buyer | Stone Buy and Sell: buyer account | 1.0.0 | Search stone suppliers and send them inquiries from your Stone Buy and Sell acc… |
+| 2026-11-24 19:02:58 | com.stonebuyandsell/supplier | Stone Buy and Sell: supplier catalog | 1.0.0 | Let a stone supplier's AI agent manage its Stone Buy and Sell profile and produ… |
+| 2026-11-24 19:03:17 | ru.show-stolicy/tickets | Show Stolicy | 1.0.0 | Search Moscow performances, check seats and reserve tickets. Payment is on show… |
+| 2026-11-24 19:08:14 | [io.github.jornkbz/cursormesh](https://github.com/jornkbz/cursormesh-mcp) | CursorMesh | 0.1.1 | Control Google Chrome with visible multi-agent AI cursors, colored tab groups,… |
+| 2026-11-24 19:08:25 | [io.github.KaanKaya17/importprobe](https://github.com/KaanKaya17/importprobe) | importprobe | 0.1.1 | Look up a package's real API, vet packages before install, catch made-up import… |
+| 2026-11-24 19:09:20 | io.github.SebastianSiedler/shoe-fit | Shoe Fit | 1.0.0 | Cross-brand shoe size recommendations, fit comparisons, and verified brand size… |
+| 2026-11-24 19:11:23 | [io.github.johnnywon/plaramail](https://github.com/johnnywon/plaramail) | PlaraMail | 0.9.9 | Self-hosted email for every address on your Cloudflare domains: read, search, l… |
+| 2026-11-24 19:12:44 | io.github.aw3-technology/vibehub | VibeHub | 0.3.1 | Save AI coding sessions to VibeHub and attach the conversation to the git commi… |
+| 2026-11-24 19:12:51 | [io.github.dodopok/estevao-mcp](https://github.com/dodopok/estevao-mcp) |  | 0.4.0 | Anglican liturgical calendar, lectionary and Daily Office (Book of Common Praye… |
+| 2026-11-24 19:12:58 | [io.github.MaherFayad/gobanana](https://github.com/MaherFayad/gobanana-plugin) | GoBanana | 0.9.9 | Real design references, design directions, a checked draft and build files for… |
+| 2026-11-24 19:16:09 | io.github.trymhaak/microsoftradar | MicrosoftRadar | 0.1.0 | Look up public Microsoft service status, incident timelines and product changes. |
 
 ## Data source
 
