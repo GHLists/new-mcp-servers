@@ -1,0 +1,33 @@
+created_at,server,title,version,repository,transports,description
+2026-11-24T12:24:38.330068Z,com.infinite-option/builder,Infinite Option,1.1.0,,streamable-http,"Manufacturing from CAD files: processes, materials, part templates, links to CAD builder and quote."
+2026-11-24T12:24:44.084384Z,io.github.incidere/stellarator-yard,Stellarator Yard & Constructive SOL Bounties,1.1.0,https://github.com/incidere/stellarator-harness,streamable-http,"Stateless agent scratchpad, SEAT heartbeat ledger, and O(1) Golay G24 SOL bounty verifier."
+2026-11-24T12:25:14.98627Z,com.pcblt/pcblt,PCBLT — Live Checks,0.5.0,,streamable-http,"Live DNS, email-auth and redirect checks, HTTP security headers, uptime history, PC hardware prices."
+2026-11-24T12:25:46.066372Z,io.github.JoeyZzZzZz/treasure-map,Treasure Map,0.2.1,https://github.com/JoeyZzZzZz/treasure-map,,Firmware attack-surface map and patch diff for AI agents. Requires tmap init (Ghidra toolchain).
+2026-11-24T12:27:13.761305Z,com.aivastark/aivastark,Aivastark,2.0.0,,streamable-http,"Manage an Aivastark AI support agent: answers, settings, knowledge, tests, leads, social media."
+2026-11-24T12:29:19.721773Z,io.github.betadrop-app/betadrop-mcp,BetaDrop,0.4.0,https://github.com/betadrop-app/betadrop-mcp,streamable-http,Publish iOS and Android builds to testers and manage install links from an AI assistant.
+2026-11-24T12:29:35.125Z,com.cto-legends/recon-concierge,CTO Legends Recon,1.3.0,,streamable-http,"Verified search, keyword, competitor, and local rank audits for AI agents. Pay per run."
+2026-11-24T12:30:09.684794Z,com.usewinslow/winslow,Winslow,1.0.0,,streamable-http,"HR, payroll, benefits and time off for your company, with employee and policy answers."
+2026-11-24T12:30:21.672397Z,com.loc8id/mcp,Loc8ID,1.1.0,,streamable-http,"Turn a GPS coordinate into a shareable short link and QR code, as your own signed-in account."
+2026-11-24T12:30:29.216379Z,io.github.zz959397ghb/zzm51,,1.0.0,,streamable-http,Northline industrial components catalog with lookup and search tools.
+2026-11-24T12:31:58.714323Z,com.sortance/mcp,Sortance,1.0.0,,streamable-http,"Email validation for signups: disposable, no-MX, fake and role addresses, plus block/allow rules."
+2026-11-24T12:34:59.030685Z,com.contextback/context,Context,1.0.0,,,"Search the pages you saved with Alt+S, read one in full, and file the doc you just used."
+2026-11-24T12:35:25.011081Z,site.tokenbuddy/mcp,,1.0.0,https://github.com/swing99527/tokenbuddy-ecosystem,streamable-http,"AI gateway FinOps, live model pricing, balance alerts, usage exports, and reseller ops via MCP."
+2026-11-24T12:36:09.95125Z,ai.hellodoggo/hello-doggo,Hello Doggo,1.0.0,,streamable-http,"Explore Hello Doggo's art exhibition, read its public-domain poems, and write a letter if you like."
+2026-11-24T12:38:03.136748Z,com.getmindhall/mindhall,Mindhall,0.5.0,https://github.com/jai-srinivas/mindhall,streamable-http,"One shared memory for ChatGPT, Claude and your other AIs. Every change shows who made it."
+2026-11-24T12:41:21.25375Z,io.github.VictoriaMetrics/mcp-victoriatraces,,1.6.0,https://github.com/VictoriaMetrics/mcp-victoriatraces,,MCP Server for VictoriaTraces. Provides integration with VictoriaTraces API and documentation
+2026-11-24T12:43:48.967844Z,uk.co.onibaku/earful,Earful,1.0.0,,streamable-http,"Search customer reviews, draft AI replies and post them on Google, Tripadvisor, app stores and more."
+2026-11-24T12:44:32.431446Z,com.lorelakeholidays/lorelake-holidays,"LoreLake Holidays, Lake Como",1.0.0,,streamable-http,"Book direct: live availability, quotes, x402 payment and cancellation for Lake Como apartments"
+2026-11-24T12:44:33.925983Z,io.github.OpenTickers/opentickers,OpenTickers,1.0.0,https://github.com/OpenTickers/opentickers-mcp,streamable-http,Central bank exchange rates and financial indicators via the OpenTickers API.
+2026-11-24T12:47:17.250581Z,com.lauyan/toweb,TOWeb,15.0.12,,,"Build, edit and publish websites with TOWeb, the desktop website builder for Mac and Windows."
+2026-11-24T12:51:48.303592Z,org.dosefacts/dosefacts,DoseFacts,1.0.0,,streamable-http,Pharmacist-reviewed medicine reference for India and global active-ingredient & condition hubs.
+2026-11-24T12:52:58.011883Z,com.inmotionmktg/agency-info,In Motion Marketing,1.0.0,,streamable-http,"B2B marketing agency In Motion Marketing: services, pricing, case studies and booking (read-only)."
+2026-11-24T12:53:50.357308Z,io.github.zz959397ghb/zzm54,,1.0.0,,streamable-http,Northline industrial components catalog with lookup and search tools.
+2026-11-24T12:55:28.666976Z,io.github.kramdayal-create/biodata-mcp,BioData MCP,0.1.0,https://github.com/kramdayal-create/biodata-mcp,,"Cited biomedical research: search PubMed, ClinicalTrials.gov, UniProt and Ensembl from one server."
+2026-11-24T12:56:26.760473Z,io.github.ABGI-Ltd/orkero,Orkero,1.0.0,,streamable-http,The API for healthcare practices: read the docs and try booking and feedback against a test clinic.
+2026-11-24T12:57:45.05932Z,app.cupday/cupday,Cupday,1.0.0,,streamable-http,"Plan and run youth sports tournaments: schedules, live scores, tables and referee links."
+2026-11-24T13:03:39.255338Z,io.github.aleixalonso/codesentinel,CodeSentinel,1.43.6,https://github.com/getcodesentinel/codesentinel,,"stdio MCP server for CodeSentinel: ownership, risk, trend and reading path for AI coding agents."
+2026-11-24T13:06:11.978491Z,com.astranl/renovation-estimate-nl,AstraNL renovation cost and contractor check (NL),1.0.0,,streamable-http,"Dutch renovation cost estimate with signed receipt, contractor check, permit fees, material prices."
+2026-11-24T13:08:24.878001Z,pl.zgora.hydraulika/el-hydro,EL-HYDRO INSTAL LIDER,1.5.0,,streamable-http,"Plumbing services, prices, travel costs, opening hours and company information in Poland."
+2026-11-24T13:11:07.211874Z,tech.uaihub/mcp,Uai Hub MCP,1.0.0,,streamable-http,"Read-only access to a company's ERP for Claude, ChatGPT and Gemini, with OAuth and an audit trail."
+2026-11-24T13:16:48.111353Z,com.oksigenia/checker-mcp,,0.2.0,https://github.com/OksigeniaSL/checker-mcp,,"Domain security & privacy checker as an MCP server. 17 live checks, 0-100 score, local-first."
+2026-11-24T13:17:12.429751Z,io.github.abhiyoheswaran1/projscan,,5.0.4,https://github.com/abhiyoheswaran1/projscan,,"Agent-first MCP. 11 AST adapters, 12 named languages, 51 tools, mission outcomes. Local."

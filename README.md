@@ -9,51 +9,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 12:22 UTC
+## Latest list — 2026-11-24 13:20 UTC
 
-New MCP servers published between 2026-11-24 11:21 UTC and 2026-11-24 12:22 UTC.
+New MCP servers published between 2026-11-24 12:22 UTC and 2026-11-24 13:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-24T12-22-07-762582Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-24T13-20-13-551548Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-24 11:23:14 | [io.github.jams4code/cypress-mcp](https://github.com/jams4code/cypress-mcp) | cypress-mcp | 0.4.0 | Run and debug Cypress tests from an AI agent: compact failures with file:line,… |
-| 2026-11-24 11:27:38 | [com.imazeo/media](https://github.com/Imazeohq/imazeo-mcp) | Imazeo Media | 1.0.2 | Process images, PDFs, documents, website captures, QR codes, and barcodes with… |
-| 2026-11-24 11:28:47 | com.crophist/crophist | CropHist | 0.1.0 | Crop history per field for 63M farm fields in the US, Canada, Argentina and Bra… |
-| 2026-11-24 11:28:47 | com.koenig-solutions/koenig-mcp | Koenig MCP | 1.3.0 | Search Koenig Solutions' IT training catalog: courses, exam codes, outlines, ve… |
-| 2026-11-24 11:30:57 | com.timbrica/tools | Timbrica Tools | 1.0.0 | Audio, music, video, image, PDF, speech, text and web-check tools callable from… |
-| 2026-11-24 11:30:58 | com.tembrica/tools | Tembrica Tools | 1.0.0 | Audio, music, video, image, PDF, speech, text and web-check tools callable from… |
-| 2026-11-24 11:32:40 | io.verifiedwallet/verifiedwallet | VerifiedWallet | 1.0.0 | Check crypto addresses before you send: verified owners, company wallets, looka… |
-| 2026-11-24 11:32:57 | com.mkcplus/mkcplus | MKC+ | 0.6.0 | See and use the devices of your MKC+ group: their screens, pointer, keyboard, c… |
-| 2026-11-24 11:33:20 | com.alltegrio/site | Alltegrio | 2.0.0 | Search and read alltegrio.com (AI development company); send Alltegrio a projec… |
-| 2026-11-24 11:33:31 | fit.burnweek/burnweek | BurnWeek | 2.3.0 | Calorie and protein log with honest ranges: log, edit, plan and review meals fr… |
-| 2026-11-24 11:35:54 | es.llueve/llueve | Llueve | 1.0.0 | Spain's reservoir levels, rain over their catchments, and the reservoirs each t… |
-| 2026-11-24 11:38:01 | io.github.zz959397ghb/zzm46 |  | 1.0.0 | Northline industrial components catalog with lookup and search tools. |
-| 2026-11-24 11:38:53 | com.gmpsignal/mcp | GMPSignal Company & Hiring Data | 1.0.0 | Company profiles, UK/FR/NO/FI/PL registers, EU VAT, career jobs and hiring sign… |
-| 2026-11-24 11:44:05 | io.github.yourpilla/pilla | Pilla | 1.0.0 | Role-scoped tools for Pilla workflows, workflow runs, teams, evidence, activity… |
-| 2026-11-24 11:50:52 | [ai.meerko/meerko](https://github.com/polynode-co/meerko) | Meerko | 1.0.0 | Find leads, verify work emails, send sequences from your own inbox and draft an… |
-| 2026-11-24 11:51:17 | xyz.algoiq/algoiq | AlgoIQ | 1.0.0 | Agent stock research, verified: read, search and post to $ticker and #topic fee… |
-| 2026-11-24 11:53:11 | now.publify/publify | Publify | 0.1.0 | App Store, Google Play and Microsoft Store releases: status, listings, TestFlig… |
-| 2026-11-24 11:53:48 | com.tatseek/tatseek | TatSeek | 1.0.0 | Real, credited tattoo photos with artists and studios: search by style, subject… |
-| 2026-11-24 12:01:25 | com.wallacesline/wildlife | Wallace's Line — wildlife sighting chan… | 1.0.0 | Chance of seeing each animal in national parks and cities worldwide, by month (… |
-| 2026-11-24 12:02:41 | com.carsandcoast/coast | Cars & Coast | 1.0.0 | Live Monterey Bay coast data for AI agents: events, Hwy 1, weather, ocean, cams… |
-| 2026-11-24 12:02:41 | com.hotelsandcoast/stays | Hotels & Coast | 1.0.0 | Find hotel stays on the Monterey Bay coast with live conditions. The human pays… |
-| 2026-11-24 12:03:28 | [io.github.beepboop2025/pdf-suite-mcp](https://github.com/beepboop2025/pdf-suite-mcp) |  | 2.2.0 | 37 tools to read, create, merge, split, watermark, fill, redact and search PDFs… |
-| 2026-11-24 12:03:38 | cz.procvicky/pracovni-listy | Procvičky.cz – pracovní listy | 1.0.0 | Printable Czech worksheets (PDF) for grades 1–9: search pracovní listy by topic… |
-| 2026-11-24 12:05:46 | [io.github.acidka/chandelier](https://github.com/acidka/chandelier) | Chandelier | 0.4.1 | Drive Adobe Illustrator fast: ~5 ms calls, batches, ExtendScript, preflight, PD… |
-| 2026-11-24 12:05:51 | net.cuadrilla/cuadrilla | Cuadrilla | 1.0.0 | Your Cuadrilla workspace from your AI agent: read, message colleagues, ask your… |
-| 2026-11-24 12:07:42 | [io.github.bluetouff/polradar](https://github.com/bluetouff/polradar) | Polradar | 1.0.0 | French presidential election 2027: candidates, proposals, polls and official so… |
-| 2026-11-24 12:08:05 | io.github.zz959397ghb/zzm49 |  | 1.0.0 | Northline industrial components catalog with lookup and search tools. |
-| 2026-11-24 12:08:33 | [io.github.pagecraftAPI/pagecraft-tools](https://github.com/pagecraftAPI/pagecraft-mcp) |  | 1.0.1 | Web data tools for agents: site audits, scrapers, OCR, PDF text, email validati… |
-| 2026-11-24 12:08:51 | [io.github.SuadeLabs/suade-fire-mcp](https://github.com/SuadeLabs/suade-fire-mcp) | FIRE data standard | 0.6.1 | Look up, validate and map data to the FIRE financial regulatory data standard. |
-| 2026-11-24 12:11:03 | [io.github.Oratorian/discord-node-mcp](https://github.com/Oratorian/discord-node-mcp) |  | 1.2.0 | MCP server for controlling Discord servers via bot token |
-| 2026-11-24 12:16:26 | [io.github.GlideWorth/glideworth](https://github.com/GlideWorth/glideworth) | Glideworth | 1.1.0 | Glideworth is a personal financial planning engine (retirement / life-plan proj… |
-| 2026-11-24 12:16:51 | [io.github.leobrog/opentickers](https://github.com/leobrog/opentickers-mcp) | OpenTickers | 1.0.0 | Central bank exchange rates and financial indicators via the OpenTickers API. |
-| 2026-11-24 12:16:52 | [chat.publishwith/publish-with-chat](https://github.com/publishwithchat/publishwithchat) | Publish with chat | 1.0.0 | Build a website in chat, preview it free, then put it online. Update or roll ba… |
-| 2026-11-24 12:18:36 | fr.galienai/galienai | GalienAI | 1.0.0 | Codes LPP et conditions de délivrance de la BDPM (France), pour pharmaciens d'o… |
-| 2026-11-24 12:19:21 | [com.flightmapworld/flights](https://github.com/nocodeno/flightmapworld-mcp) | FlightMapWorld | 1.0.0 | Flight routes worldwide: nonstop destinations, airlines, flight times and the l… |
-| 2026-11-24 12:19:27 | fr.skitribu/skitribu | SkiTribu – shared private ski lessons i… | 1.0.0 | Find or start a group to share a private ski or snowboard instructor in French… |
-| 2026-11-24 12:21:22 | de.nameholder/mcp | Nameholder Domain Intelligence | 1.0.0 | Search expired & auction domains across 9 markets with Wayback, DA, spam & bran… |
+| 2026-11-24 12:24:38 | com.infinite-option/builder | Infinite Option | 1.1.0 | Manufacturing from CAD files: processes, materials, part templates, links to CA… |
+| 2026-11-24 12:24:44 | [io.github.incidere/stellarator-yard](https://github.com/incidere/stellarator-harness) | Stellarator Yard & Constructive SOL Bou… | 1.1.0 | Stateless agent scratchpad, SEAT heartbeat ledger, and O(1) Golay G24 SOL bount… |
+| 2026-11-24 12:25:14 | com.pcblt/pcblt | PCBLT — Live Checks | 0.5.0 | Live DNS, email-auth and redirect checks, HTTP security headers, uptime history… |
+| 2026-11-24 12:25:46 | [io.github.JoeyZzZzZz/treasure-map](https://github.com/JoeyZzZzZz/treasure-map) | Treasure Map | 0.2.1 | Firmware attack-surface map and patch diff for AI agents. Requires tmap init (G… |
+| 2026-11-24 12:27:13 | com.aivastark/aivastark | Aivastark | 2.0.0 | Manage an Aivastark AI support agent: answers, settings, knowledge, tests, lead… |
+| 2026-11-24 12:29:19 | [io.github.betadrop-app/betadrop-mcp](https://github.com/betadrop-app/betadrop-mcp) | BetaDrop | 0.4.0 | Publish iOS and Android builds to testers and manage install links from an AI a… |
+| 2026-11-24 12:29:35 | com.cto-legends/recon-concierge | CTO Legends Recon | 1.3.0 | Verified search, keyword, competitor, and local rank audits for AI agents. Pay… |
+| 2026-11-24 12:30:09 | com.usewinslow/winslow | Winslow | 1.0.0 | HR, payroll, benefits and time off for your company, with employee and policy a… |
+| 2026-11-24 12:30:21 | com.loc8id/mcp | Loc8ID | 1.1.0 | Turn a GPS coordinate into a shareable short link and QR code, as your own sign… |
+| 2026-11-24 12:30:29 | io.github.zz959397ghb/zzm51 |  | 1.0.0 | Northline industrial components catalog with lookup and search tools. |
+| 2026-11-24 12:31:58 | com.sortance/mcp | Sortance | 1.0.0 | Email validation for signups: disposable, no-MX, fake and role addresses, plus… |
+| 2026-11-24 12:34:59 | com.contextback/context | Context | 1.0.0 | Search the pages you saved with Alt+S, read one in full, and file the doc you j… |
+| 2026-11-24 12:35:25 | [site.tokenbuddy/mcp](https://github.com/swing99527/tokenbuddy-ecosystem) |  | 1.0.0 | AI gateway FinOps, live model pricing, balance alerts, usage exports, and resel… |
+| 2026-11-24 12:36:09 | ai.hellodoggo/hello-doggo | Hello Doggo | 1.0.0 | Explore Hello Doggo's art exhibition, read its public-domain poems, and write a… |
+| 2026-11-24 12:38:03 | [com.getmindhall/mindhall](https://github.com/jai-srinivas/mindhall) | Mindhall | 0.5.0 | One shared memory for ChatGPT, Claude and your other AIs. Every change shows wh… |
+| 2026-11-24 12:41:21 | [io.github.VictoriaMetrics/mcp-victoriatraces](https://github.com/VictoriaMetrics/mcp-victoriatraces) |  | 1.6.0 | MCP Server for VictoriaTraces. Provides integration with VictoriaTraces API and… |
+| 2026-11-24 12:43:48 | uk.co.onibaku/earful | Earful | 1.0.0 | Search customer reviews, draft AI replies and post them on Google, Tripadvisor,… |
+| 2026-11-24 12:44:32 | com.lorelakeholidays/lorelake-holidays | LoreLake Holidays, Lake Como | 1.0.0 | Book direct: live availability, quotes, x402 payment and cancellation for Lake… |
+| 2026-11-24 12:44:33 | [io.github.OpenTickers/opentickers](https://github.com/OpenTickers/opentickers-mcp) | OpenTickers | 1.0.0 | Central bank exchange rates and financial indicators via the OpenTickers API. |
+| 2026-11-24 12:47:17 | com.lauyan/toweb | TOWeb | 15.0.12 | Build, edit and publish websites with TOWeb, the desktop website builder for Ma… |
+| 2026-11-24 12:51:48 | org.dosefacts/dosefacts | DoseFacts | 1.0.0 | Pharmacist-reviewed medicine reference for India and global active-ingredient &… |
+| 2026-11-24 12:52:58 | com.inmotionmktg/agency-info | In Motion Marketing | 1.0.0 | B2B marketing agency In Motion Marketing: services, pricing, case studies and b… |
+| 2026-11-24 12:53:50 | io.github.zz959397ghb/zzm54 |  | 1.0.0 | Northline industrial components catalog with lookup and search tools. |
+| 2026-11-24 12:55:28 | [io.github.kramdayal-create/biodata-mcp](https://github.com/kramdayal-create/biodata-mcp) | BioData MCP | 0.1.0 | Cited biomedical research: search PubMed, ClinicalTrials.gov, UniProt and Ensem… |
+| 2026-11-24 12:56:26 | io.github.ABGI-Ltd/orkero | Orkero | 1.0.0 | The API for healthcare practices: read the docs and try booking and feedback ag… |
+| 2026-11-24 12:57:45 | app.cupday/cupday | Cupday | 1.0.0 | Plan and run youth sports tournaments: schedules, live scores, tables and refer… |
+| 2026-11-24 13:03:39 | [io.github.aleixalonso/codesentinel](https://github.com/getcodesentinel/codesentinel) | CodeSentinel | 1.43.6 | stdio MCP server for CodeSentinel: ownership, risk, trend and reading path for… |
+| 2026-11-24 13:06:11 | com.astranl/renovation-estimate-nl | AstraNL renovation cost and contractor… | 1.0.0 | Dutch renovation cost estimate with signed receipt, contractor check, permit fe… |
+| 2026-11-24 13:08:24 | pl.zgora.hydraulika/el-hydro | EL-HYDRO INSTAL LIDER | 1.5.0 | Plumbing services, prices, travel costs, opening hours and company information… |
+| 2026-11-24 13:11:07 | tech.uaihub/mcp | Uai Hub MCP | 1.0.0 | Read-only access to a company's ERP for Claude, ChatGPT and Gemini, with OAuth… |
+| 2026-11-24 13:16:48 | [com.oksigenia/checker-mcp](https://github.com/OksigeniaSL/checker-mcp) |  | 0.2.0 | Domain security & privacy checker as an MCP server. 17 live checks, 0-100 score… |
+| 2026-11-24 13:17:12 | [io.github.abhiyoheswaran1/projscan](https://github.com/abhiyoheswaran1/projscan) |  | 5.0.4 | Agent-first MCP. 11 AST adapters, 12 named languages, 51 tools, mission outcome… |
 
 ## Data source
 
