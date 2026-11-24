@@ -1,0 +1,36 @@
+created_at,server,title,version,repository,transports,description
+2026-11-24T10:21:22.164808Z,io.github.zz959397ghb/zzm37a,,1.0.0,,streamable-http,Ridgeway Fasteners supplier catalog with lookup and search tools.
+2026-11-24T10:24:58.073273Z,io.github.fendoushaonian/doclens,DocLens,0.1.0,https://github.com/fendoushaonian/doclens,,"Reads PDF, Excel, Word and CSV for AI agents with table structure and exact numeric precision."
+2026-11-24T10:25:36.110814Z,com.morigraph/morigraph,morigraph,0.1.0,https://github.com/JovenSoh/morigraph,streamable-http,"AI company brain: shared files, memory, skills and connected apps for every AI assistant."
+2026-11-24T10:30:12.157082Z,io.github.zz959397ghb/zzm40,,1.0.0,,streamable-http,Northline industrial components catalog with lookup and search tools.
+2026-11-24T10:34:52.499423Z,com.sharedlayers/mcp,SharedLayers,1.0.0,,streamable-http,"Read the comments people pin on your live websites, then reply to them and resolve them."
+2026-11-24T10:36:49.563507Z,io.github.willowrock-holdings/willow-rock-data-tools,Willow Rock Data Tools,1.0.0,,streamable-http,"Pay-per-job CSV cleanup, schema validation, and table format conversion."
+2026-11-24T10:38:45.283443Z,io.github.mirackacmazcom/seo-skills,SEO Skills,1.2.0,https://github.com/mirackacmazcom/seo-skills,streamable-http,"Search primary-source SEO archives: Google leak, patents, official docs, staff statements."
+2026-11-24T10:39:11.228655Z,io.github.snjsomnath/mr-studio,MR Studio,0.14.0,https://github.com/snjsomnath/mr-studio,,"Build MR Studio tables (interactive city models) by describing them: layers, tours, dashboards."
+2026-11-24T10:39:52.768513Z,io.github.emilkrebs/med-research-mcp,Med Research,0.8.1,https://github.com/emilkrebs/med-research-mcp,,"Evidence-graded literature search: PubMed, Europe PMC, ChinaXiv, RussiaRxiv with study-design tiers."
+2026-11-24T10:40:41.159199Z,io.github.causa-prima-ai/scribo,,1.0.1,https://github.com/causa-prima-ai/scribo-mcp,streamable-http,"EN 16931-compliant e-invoices: XRechnung, ZUGFeRD, Factur-X, Peppol BIS, Facturae or US PDF. Free."
+2026-11-24T10:42:45.076179Z,com.plugsky/plugsky-mcp,Plugsky MCP,1.0.0,,streamable-http,"Plugsky AI API over MCP: 39 models, chat, fusion, web search, fetch and RAG."
+2026-11-24T10:43:26.175755Z,io.github.Trainmyaionline/train-my-ai,Train My AI,1.0.0,,streamable-http,"Training and memory for your AI that carry to every chat: your rules, procedures and dated notes."
+2026-11-24T10:43:33.700817Z,pro.marketexpert/business-plan,MarketExpert Business Plan Calculator,1.0.0,,streamable-http,"Find Russian business niches and compare costs, break-even sales and payback in RUB."
+2026-11-24T10:44:47.443211Z,io.github.yungSNAT/alcuin,Alcuin,0.2.0,https://github.com/yungSNAT/Alcuin,,"Ask ChatGPT about the source files you choose, and keep each answer as a durable session."
+2026-11-24T10:45:27.722442Z,com.withfuze/crm,Fuze CRM,1.0.0,,streamable-http,"A CRM your AI agent can sign up for: companies, people, deals, tasks, dashboards and workflows."
+2026-11-24T10:45:46.831115Z,com.volutiontechnology/app-store-tools,App Store Tools by Volution Technology,1.0.0,,streamable-http,"App Store keyword ranks, review insights, top charts and competitor checks. Pay per result on Apify."
+2026-11-24T10:46:10.483722Z,io.github.kaji57/flowboard,FlowBoard,0.28.0,,streamable-http,"Flow-based project management for dev teams: claim the next task, score, QA, and ship releases."
+2026-11-24T10:47:09.106297Z,io.github.edgarperatla-create/atril-mcp,,0.1.1,https://github.com/edgarperatla-create/atril-mcp,,"Build, edit, animate, review and export Apple Keynote decks with Claude (macOS, LaTeX, charts)."
+2026-11-24T10:47:18.475381Z,io.github.gotoquill/gotoquill,gotoquill,0.2.0,https://github.com/gotoquill/gotoquill,streamable-http,Human-confirmed PDF signing. Local stdio via PyPI; hosted Cloud with OAuth.
+2026-11-24T10:51:30.355179Z,io.github.abhiyoheswaran1/tokentrace,TokenTrace,0.21.3,https://github.com/abhiyoheswaran1/tokentrace,,"Local-first AI CLI usage analytics: cost, models, sessions. Maintenance mode, security fixes only."
+2026-11-24T10:51:50.526502Z,io.github.ascend-so/ascend,Ascend.so,1.0.0,https://github.com/ascend-so/plugins,streamable-http,"Research short-form videos and creators: what works in your niche, why, and what to post next."
+2026-11-24T10:52:30.906759Z,com.vigilbase/mcp,Vigilbase,1.1.0,,streamable-http,Website and email security checks for any domain. One customers also review Cloudflare security.
+2026-11-24T11:01:57.23265Z,ai.tryfade.www/fade,Fade by Wix,1.0.0,https://github.com/wix-incubator/fade,streamable-http,"AI ad crew: remake the video ad you're already running into new versions, from your AI app."
+2026-11-24T11:03:31.602556Z,io.github.mingjing-me/shiyun-engine,世运引擎 · shiyun-engine,0.5.1,https://github.com/mingjing-me/shiyun-engine,,三元九运×命盘叠加判定+九运价值观内核。Era-luck overlay engine for BaZi charts with a values core.
+2026-11-24T11:09:55.226917Z,com.revrbo/revrbo,Revrbo,1.0.0,https://github.com/boatcaptainb-lgtm/revrbo,streamable-http,"Read-only Revrbo connector for venues and bands: calendar, shows, applications, invites, messages."
+2026-11-24T11:11:30.542103Z,com.quick-event/event-planner,Quick Event,1.1.0,,streamable-http,"Plan events with AI: prefilled start links, draft event pages, module prices."
+2026-11-24T11:13:30.780842Z,com.linkedmcp/linkedmcp,LinkedMCP,1.0.0,,streamable-http,Use your LinkedIn from Claude and ChatGPT. Actions run in your own Chrome through a free extension.
+2026-11-24T11:14:19.755495Z,io.github.todd866/antigravity-mission-control,Mission Control for Antigravity,1.2.0,https://github.com/todd866/antigravity-mission-control,,"Pictorial MCP cockpit, AI briefings, adaptive Commander, and multi-Mac relay for Antigravity."
+2026-11-24T11:15:15.510398Z,io.github.bowenerchen/cipherhub,CipherHUB Cryptography Toolkit,1.16.4,https://github.com/bowenerchen/CipherHUB-MCP-Server,streamable-http,"55-tool cryptography MCP server: hashing, encryption, signatures, PQC, X.509, CMS and COSE."
+2026-11-24T11:15:58.007064Z,io.github.SamKo88927/roarm-mcp,RoArm-M3,0.1.1,https://github.com/SamKo88927/roarm-mcp,,Drive a Waveshare RoArm-M3 robot arm; every motion is checked in MuJoCo before it runs.
+2026-11-24T11:16:02.574921Z,com.namepiq/domains,Namepiq,1.0.0,https://github.com/pritamiitkgp/namepiq-backend,streamable-http,"Search, quote, and buy domains via MCP with human-confirmed payment links."
+2026-11-24T11:17:53.551033Z,io.github.Salman-khann/ragdial-mcp,RAGDial,0.1.1,https://github.com/Salman-khann/RAGDial-MCP,,"Run RAG chunking & retrieval ablations: boundary-damage audits, Recall@k, MRR, nDCG@k, hybrid search"
+2026-11-24T11:17:59.467114Z,io.github.zumik3-del/synaptomind,SynaptoMind,0.26.1,https://github.com/zumik3-del/synaptomind,,Local persistent memory for AI agents: a SQLite knowledge graph with semantic recall over MCP.
+2026-11-24T11:18:24.985513Z,io.github.olgaysezgin/autologin-mcp,autologin-mcp,1.3.2,https://github.com/olgaysezgin/autologin-mcp,,Logs your AI coding agent into the web app it is testing; the password never reaches the model.
+2026-11-24T11:19:05.497941Z,com.byokg/byokg,BYOKG,5.0.4,,streamable-http,Search knowledge graphs and follow every relation to the evidence behind it.
