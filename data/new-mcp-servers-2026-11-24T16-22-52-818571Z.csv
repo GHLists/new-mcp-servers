@@ -1,0 +1,62 @@
+created_at,server,title,version,repository,transports,description
+2026-11-24T15:22:01.840287Z,io.github.urml-dev/urml,,0.5.2,https://github.com/urml-dev/URML,,Checks a URML robot program against the robot's capabilities and safety envelope before it moves.
+2026-11-24T15:22:30.439966Z,org.veralabs/coach,VERA: AI Running Coach,1.0.0,,streamable-http,AI that integrates wellness into your life. First up: a running coach that adapts as life happens.
+2026-11-24T15:23:49.197916Z,io.github.manavaga/ringscout,RingScout — Google Maps Parallel Voice Scout,3.0.0,https://github.com/manavaga/ringscout,streamable-http; sse,"Calls open Google Maps places (+91) in parallel to verify live availability, slots, and INR rates."
+2026-11-24T15:24:08.057955Z,com.andreporsch/scorecards,André Porsch Self-check Briefs,0.3.0,,streamable-http,Create answer briefs from André Porsch’s German and English AI-at-work self-check questions.
+2026-11-24T15:25:22.685835Z,eu.graphai/jobs2,Jobs2 Graphai,0.1.0,https://github.com/martibayoalemany9/jobs2-mcp,streamable-http,Job search MCP for jobs2.graphai.eu. Login or x402. Markdown tables.
+2026-11-24T15:25:23.171754Z,eu.graphai/check-wireguard,Check WireGuard Graphai,0.1.0,https://github.com/martibayoalemany9/graphai-mcp,streamable-http,"WireGuard and path MCP: latency, speed, IP, geo, HTTP/2 and HTTP/3 probes."
+2026-11-24T15:27:18.84483Z,io.github.Senpi-ai/senpi,Senpi,0.5.1,https://github.com/Senpi-ai/senpi-mcp,streamable-http,"Senpi's Hyperliquid research: market pulse, signals, smart money, top traders and wallet analysis."
+2026-11-24T15:27:25.886738Z,dev.useairgap/airgap,airgap,0.2.1,https://github.com/dhruvil-codes/airgap,,Zero-trust microVM execution boundary for AI coding agents with secret redaction.
+2026-11-24T15:28:00.577707Z,com.image2ppt/image2ppt,Image2PPT,0.1.0,,streamable-http,Convert slide images and PDFs into editable PowerPoint (PPTX) decks with native text and shapes.
+2026-11-24T15:29:05.530228Z,md.me/mcp,me.md,1.0.0,,streamable-http,"Memory for agents: what a person likes, dislikes and wants, kept and approved by them."
+2026-11-24T15:29:31.011222Z,io.github.oss-invisible/invisible-playwright-mcp,invisible_playwright_mcp,0.74.0,https://github.com/oss-invisible/playwright_mcp,,"AI browser agent: browses, clicks, types, and reads real web pages from plain-English instructions."
+2026-11-24T15:29:34.616984Z,com.ourowncause/publication,Our Own Cause,1.0.0,https://github.com/nsdub/ourowncause,streamable-http,"A publication by AIs, for AIs: read and search posts and open questions, check and submit."
+2026-11-24T15:31:22.853164Z,com.hydracept/hydracept-full,Hydracept Full,0.5.7,https://github.com/zencodeinc/hydracept-public,streamable-http,"Full-capability MCP: text, image, video, audio, and 3D with API key, jobs, receipts, and BYOK."
+2026-11-24T15:31:34.630895Z,io.github.zz959397ghb/zzm73,,1.0.0,,streamable-http,Northline industrial components catalog with lookup and search tools.
+2026-11-24T15:31:56.759046Z,io.github.SongRenShuo/mybatis-plus-sql-visualizer,MyBatis SQL Visualizer,2026.11.24-beta.1,https://github.com/SongRenShuo/mybatis-plus-sql-visualizer,,"MyBatis SQL preview, runtime capture, EXPLAIN — 11 tools on IntelliJ IDEA's MCP Server."
+2026-11-24T15:35:45.863292Z,io.github.instinctagentai/mcp-api-router,API Router,0.2.0,https://github.com/instinctagentai/api-router,,"Compare AI API providers by free tier, health and latency. Free JSON repair and page-to-markdown."
+2026-11-24T15:35:48.785219Z,com.superdocu/superdocu,Superdocu,2.0.0,,streamable-http,"Collect, chase and validate client documents: contacts, requests, approvals, workflows."
+2026-11-24T15:36:43.502372Z,com.trustguruglobal/calculators,TrustGuru Calculators,0.1.0,,streamable-http,"Calculate theoretical return, loss, and wagering turnover from caller-supplied inputs."
+2026-11-24T15:36:51.149703Z,io.github.zz959397ghb/zzm73nips,,1.0.0,,streamable-http,Northline industrial components catalog with lookup and search tools.
+2026-11-24T15:36:54.242509Z,io.github.zz959397ghb/zzm73v6,,1.0.0,,streamable-http,Northline industrial components catalog with lookup and search tools.
+2026-11-24T15:36:56.322307Z,io.github.zz959397ghb/zzm73meta,,1.0.0,,streamable-http,Northline industrial components catalog with lookup and search tools.
+2026-11-24T15:39:29.052272Z,ai.genkite/genkite,GenKite,1.0.0,,streamable-http,"Make AI videos, pictures and short films with Kling, Veo, Seedance and more, from your AI app."
+2026-11-24T15:40:53.398891Z,app.storescreenshot/storescreenshot,StoreScreenshot,1.0.0,,streamable-http,Turn raw app screenshots into designed App Store and Google Play screenshots.
+2026-11-24T15:41:37.008261Z,com.vngroundtruth/key-atlas,Key Atlas,1.0.0,,streamable-http,"Look up whether an API key for a service can be created via API/CLI, with steps and sources"
+2026-11-24T15:43:17.262887Z,net.epikton/music,Epikton Music,1.3.0,,streamable-http,"Find cinematic music, listen to MP3 previews, and open licensed downloads on Epikton."
+2026-11-24T15:46:46.703334Z,ai.selectd/security-brain,Selectd,1.0.0,,streamable-http,Security Brain for AI agents: check CVEs against your company and read its security context.
+2026-11-24T15:47:29.756952Z,io.github.zz959397ghb/zzm75,,1.0.0,,streamable-http,Northline Components supplier catalog MCP - marker d4a91c37e5b20268
+2026-11-24T15:48:07.717713Z,ai.gixo/lumen,Gixo Lumen,1.0.0,,streamable-http,Build presentation decks from notes or a web page; preview edits; download PowerPoint or PDF.
+2026-11-24T15:48:09.617747Z,ai.gixo/arc,Gixo Arc,1.0.0,,streamable-http,"Draft proposals, fill RFP requirements from your approved answer library, export Word or PDF."
+2026-11-24T15:48:11.212184Z,ai.gixo/lex,Gixo Lex,1.0.0,,streamable-http,"Check contract text for clause coverage, defined terms and signing readiness; export Word or PDF."
+2026-11-24T15:49:57.791936Z,com.youtubevideototranscript/youtube-transcript,Subtext: YouTube transcripts,1.0.0,https://github.com/vsaranyuk/youtube-transcript-mcp,streamable-http,"Get the transcript of any YouTube video as text, Markdown, SRT, WebVTT or JSON."
+2026-11-24T15:51:10.486179Z,io.github.Nordrax/seo-page-to-ai,SEO Page to AI,0.4.5,https://github.com/Nordrax/seo-page-to-ai,,"Read your open Semrush, Ahrefs and Search Console reports in Claude, using your own login."
+2026-11-24T15:54:35.06972Z,com.viralvideosearch/viralvideosearch,ViralVideoSearch,1.0.0,,streamable-http,Find outlier short-form videos and pull step-by-step recreation plans across 75 niches.
+2026-11-24T15:55:19.809435Z,at.lucando/text-to-speech,Lucando Text to Speech,1.0.0,,streamable-http,"German text-to-speech: 10 natural voices, MP3/WAV download links, processed in Austria."
+2026-11-24T15:55:26.613144Z,com.draftlikeme/ai-phrases,DraftLikeMe AI Phrases,1.0.0,,streamable-http,"Find phrases that make English text sound like AI and get plain alternatives. Free, no key."
+2026-11-24T15:57:42.3957Z,io.github.123mason123/perpspread-mcp,PerpSpread — Cross-Exchange Perpetual Funding Arbitrage MCP,1.0.0,https://github.com/123mason123/perpspread-mcp,streamable-http,"Live 7-venue crypto funding rate spreads, L2 slippage audits, and rotation math."
+2026-11-24T15:58:33.06244Z,com.reguweb/accessibility,Reguweb Accessibility Checker,1.0.0,,streamable-http,Free WCAG 2.2 accessibility and AI-visibility checks for any web page. No account needed.
+2026-11-24T15:58:37.722715Z,io.github.monsieureka/proof-verify,,1.0.1,https://github.com/monsieureka/autonomous-enterprise-standard,,Zero-dependency verifier and stdio MCP server for signed website-audit certificates (PROOF X-Ray).
+2026-11-24T15:59:20.44401Z,com.growthranked/directory,Growth Ranked,1.0.0,,streamable-http,"Compare 30+ AI SDR, cold email, LinkedIn, visitor ID & GEO tools by verified 2026 pricing."
+2026-11-24T15:59:53.590168Z,io.corefeeds/corefeeds,CoreFeeds,1.15.1,,streamable-http,"Product feed management: catalogs, normalization and export rules, feed runs, A/B tests."
+2026-11-24T16:00:28.407736Z,com.gurify/signing,Signing for agents,1.0.0,,streamable-http,"E-signatures for AI agents: a signing link for each person, which you send. It sends no email."
+2026-11-24T16:00:33.629713Z,io.github.vornicx/midas,Midas,1.1.1,https://github.com/vornicx/Midas,,"Local-first, source-traceable agent memory with offline capture and recall"
+2026-11-24T16:01:30.015374Z,app.travelrightnow/travel-right-now,Travel Right Now,1.0.0,,streamable-http,"Dated travel conditions for Cancún, Costa Rica, Hawaii, Iceland and Turks and Caicos, plus tours."
+2026-11-24T16:02:22.008385Z,tools.cierto/cierto,Cierto,0.3.0,,streamable-http,"Sourced US public-record briefs: should you bid on this federal contract, and what is this land?"
+2026-11-24T16:04:07.552565Z,com.getagraff/agraff,Agraff,0.7.0,,streamable-http,"Connect your LinkedIn® account to your AI: read inbox and profiles, search, preview before sending."
+2026-11-24T16:09:41.386213Z,io.scratcher.platform/mcp,Scratcher,1.0.0,,streamable-http,"Gamified marketing campaigns: read results and manage leads, products, webhooks and prize draws."
+2026-11-24T16:10:24.946562Z,io.github.KirisamaMarisa/gridize-mcp,Gridize,1.0.0,https://github.com/KirisamaMarisa/gridize-mcp,streamable-http,"Pixel art for AI agents: free image to pixel art, plus sprite generation and animation."
+2026-11-24T16:10:43.920849Z,io.github.BiteFoundry/outlook,"Microsoft Outlook (TUI, CLI & MCP)",0.3.2,https://github.com/BiteFoundry/outlook,,"Microsoft Outlook mail, calendar, and tasks MCP server, CLI, and TUI in Rust with SQLite FTS5."
+2026-11-24T16:11:08.5594Z,io.github.BiteFoundry/sharepoint,"SharePoint & OneDrive (TUI, CLI & MCP)",0.4.2,https://github.com/BiteFoundry/sharepoint,,"SharePoint & OneDrive MCP server, CLI, and TUI in Rust with list rows & conditional uploads."
+2026-11-24T16:11:40.136236Z,io.github.BiteFoundry/notion,"Notion (TUI, CLI & MCP)",0.4.2,https://github.com/BiteFoundry/notion,,"Notion MCP server, CLI, and TUI in Rust with local SQLite FTS5 sync & Markdown block edits."
+2026-11-24T16:11:59.527204Z,io.github.BiteFoundry/onenote,"Microsoft OneNote (TUI, CLI & MCP)",0.4.2,https://github.com/BiteFoundry/onenote,,"Microsoft OneNote MCP server, CLI, and TUI in Rust with local SQLite FTS5 cache & block edits."
+2026-11-24T16:12:22.03367Z,io.github.Balairon/internal-systems-gateway,,1.0.0,https://github.com/Balairon/internal-systems-gateway,streamable-http,"Research gateway: AI agents can request access via MCP, A2A or REST. Requests are logged."
+2026-11-24T16:12:35.108432Z,com.cto-legends/gambit,Legends Gambit: SEO MCP Server & Market Intelligence (by CTO Legends),1.3.1,https://github.com/avalonreset/cto-legends,streamable-http,"Open beta SEO MCP server for AI agents: SERP, keywords, teardowns, hex map grids. From $0.05 a run."
+2026-11-24T16:12:37.867074Z,com.waveleta/waveleta-mcp,,1.0.1,,,"Waveleta market data for AI assistants: crypto prices, ECB FX, commodities, market radar."
+2026-11-24T16:15:11.620037Z,com.shieldpsa.console/mcp,ShieldPSA,1.0.0,,streamable-http,"Manage MSP tickets, SLAs, customers, contracts, and billing workflows in ShieldPSA."
+2026-11-24T16:18:02.67753Z,io.github.LBZ558/prophetkey-mcp,,2.0.1,,,"ProphetKey MCP bridge - encrypted local-first API key vault for AI agents, keys never exposed"
+2026-11-24T16:19:36.563523Z,io.github.edsml-jz2321/quotemem,QuoteMem,0.3.1,https://github.com/edsml-jz2321/QuoteMem,,"Auditable long-term memory for agents: source quotes, versioned updates and confirmed forgetting."
+2026-11-24T16:20:10.91834Z,at.lucando/kimmy,Kimmy von Lucando,1.0.0,,streamable-http,"Invoicing and inventory for Austrian small businesses: customers, invoices, stock, order drafts."
+2026-11-24T16:20:45.962355Z,com.thelastboardgame/studio,The Last Board Game Design Studio,0.1.0,,streamable-http,"Create board games, play with friends online, and when ready, play at the table on our board set."
+2026-11-24T16:21:20.718986Z,com.visuatelier/studio,Visuatelier,1.0.0,,streamable-http,"AI image, video & audio generation: 42 models, OAuth 2.1, daily spend caps, CHF pricing."
+2026-11-24T16:22:28.490641Z,com.ciopages/ciopages,CIOPages,1.0.0,,streamable-http,"Buyer Guides, product comparisons, market briefs and vendor profiles for enterprise IT buyers."
