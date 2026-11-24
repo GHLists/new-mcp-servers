@@ -1,0 +1,24 @@
+created_at,server,title,version,repository,transports,description
+2026-11-24T04:20:20.540333Z,com.reddtrends/reddtrends,ReddTrends,1.0.0,,streamable-http,"Find Reddit threads that rank on Google for your buyer keywords, with a reply verdict for each."
+2026-11-24T04:20:44.287303Z,io.github.bongkow/openscad-web,OpenSCAD Online,26.11.20.3,,streamable-http,"Remote OpenSCAD: sign in with Google, create and edit designs, export STL or 3MF."
+2026-11-24T04:28:03.824906Z,io.github.quantisnow/sec-edgar-mcp,Quantisnow SEC EDGAR,1.0.0,https://github.com/quantisnow/sec-edgar-mcp,streamable-http,"SEC EDGAR full-text search, Form 4 insider trades, 13F holdings, 8-K events, XBRL financials."
+2026-11-24T04:29:05.171314Z,io.github.agentoprimus/public-records,Public Records for Agents (Federal Register),0.1.0,,streamable-http,"Pay-per-call US Federal Register search: proposed rules, notices, comment deadlines. x402 USDC."
+2026-11-24T04:32:41.901338Z,io.github.nudisco-ai/nudisco-api,NUDISCO AI — public reading API,1.0.0,,streamable-http,"Read-only discovery, search and retrieval of NUDISCO AI public writing in two editions."
+2026-11-24T04:35:10.551351Z,io.github.holon-sh/gtm,GTM,0.0.1,,,"An account executive's deal desk over Salesforce, Stripe and Slack: quote, ask for discounts, close."
+2026-11-24T04:38:45.989285Z,dev.resaleiq/resaleiq,Resale IQ,1.0.0,,streamable-http,"Reseller tools: Vinted item check, marketplace fees, profit, max buy price, lot and shipping costs."
+2026-11-24T04:39:19.43135Z,io.github.Startlyst/agentic-commerce-architecture,Startlyst Agentic Commerce MCP,1.0.0,https://github.com/Startlyst/agentic-commerce-architecture,streamable-http,Self-sovereign BYOC headless commerce & agentic MCP checkout engine for B2B storefronts.
+2026-11-24T04:46:02.405727Z,za.co.autoinspect/sa-vehicle,Auto Inspect — South African vehicle checks,1.0.0,,streamable-http,"South African VIN, licence disc and number plate checks, roadworthy testing stations, report checks."
+2026-11-24T04:53:16.564481Z,io.github.halfaipg/domain-finder-mcp,,1.1.0,https://github.com/halfaipg/domain-finder-mcp,,"Find available domain names: live availability, real prices, every registrable TLD. No API keys."
+2026-11-24T04:56:12.914334Z,com.marketpounce/mcp,MarketPounce MCP,1.5.17,,streamable-http,"Hosted growth desk MCP for Claude, ChatGPT, and Cursor."
+2026-11-24T04:56:37.062546Z,io.anry/anry,Anry,1.0.0,,streamable-http,"Finds where a store loses sales between the ad click and the order, and writes the fix."
+2026-11-24T04:59:12.650517Z,ai.foodtales/foodtales,Food Tales,1.0.0,,streamable-http,"Search world dishes and check ingredients, nutrition, diets, allergens and substitutions."
+2026-11-24T04:59:17.494192Z,com.dispatchnode/mcp,DispatchNode,3.2.1,,streamable-http,"Hosted MCP for DispatchNode: review calls, jobs, callbacks, and partners via Clerk OAuth."
+2026-11-24T05:02:02.119257Z,app.moemail/mcp,MoeMail,1.1.0,https://github.com/beilunyang/moemail,streamable-http,"Disposable email for AI agents: create a mailbox, wait for the code, clean up. Hosted, no install."
+2026-11-24T05:03:03.321492Z,ai.appcart/sell,Appcart for sellers,1.0.0,,streamable-http,"Prepare a mobile app for sale on Appcart: verified P&L, expenses, listing, documents and buyers."
+2026-11-24T05:03:15.281521Z,ai.appcart/buy,Appcart for buyers,1.0.0,,streamable-http,"Browse mobile apps for sale on Appcart, request access and review verified financials."
+2026-11-24T05:04:07.125227Z,com.receptionistranked/directory,Receptionist Ranked,1.0.0,,streamable-http,Compare 18+ AI receptionists & answering services by verified pricing and specs.
+2026-11-24T05:04:50.723396Z,io.github.halfaipg/glados-mcp,GLaDOS Voice,0.2.0,https://github.com/halfaipg/glados-mcp,,Local text-to-speech: your AI assistant speaks aloud as GLaDOS or one of 26 Kokoro voices.
+2026-11-24T05:09:05.071758Z,io.github.YazanAlabed/aigradjobs,AIGradJobs,1.0.0,,streamable-http,"Find early-career AI/ML jobs, compare salaries, review resumes and audit public GitHub portfolios."
+2026-11-24T05:09:37.323943Z,com.chexlow/catalog,Chexlow Public Catalog,1.4.0,,streamable-http,"Search fashion, beauty, and sports products and compare live store prices across retailers."
+2026-11-24T05:13:30.017819Z,com.kiescy/kiescy,Kiescy,1.0.0,,streamable-http,"Read your site's cookie consent, accessibility and security issues and fix them in code."
+2026-11-24T05:13:30.318668Z,com.kiescy/documents,Kiescy Documents,1.0.0,,streamable-http,"Write, import, design and publish your privacy policy, terms and cookie policy with your AI."
