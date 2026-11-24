@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-11-24T01:25:27.184935Z,com.getnextleg/nextleg,Nextleg,0.1.0,https://github.com/nextleg/plugins,streamable-http,"AI-first trip planner: ask about your flights, stays and events, and add or change anything."
+2026-11-24T01:31:40.577629Z,com.dixipolis/dixipolis,Dixipolis,1.0.0,https://github.com/Dixipolis/dixipolis-mcp,streamable-http,"What French politicians said on TV, radio and in the National Assembly: verbatim, dated, sourced."
+2026-11-24T01:39:54.31529Z,io.github.deividfortuna/fipe,Tabela FIPE,1.0.0,,streamable-http,"Brazilian vehicle prices from the Tabela FIPE: brands, models, years, prices, history and plates."
+2026-11-24T01:42:39.063788Z,io.github.orvenix-ai/varikan,VARIKAN: check suppliers before you pay,1.1.0,,streamable-http,"Sanctions screening (OFAC, EU, UK, UN), bank-change fraud checks and supplier due diligence."
+2026-11-24T01:42:41.531745Z,io.github.orvenix-ai/orvenix,ORVENIX: contract renewals and EU AI Act Article 50,1.0.0,,streamable-http,Find renewal traps and notice deadlines in contracts; screen EU AI Act Article 50 duties.
+2026-11-24T01:43:52.380632Z,live.dream11app/releases,Dream11 App Android Releases,1.0.0,,streamable-http,"Look up current and retained Dream11 App APKs with exact file sizes, SHA-256 and release links."
+2026-11-24T01:44:08.504883Z,monster.multimedia/multimedia-monster,Multimedia Monster,1.0.0,,streamable-http,"Discover Multimedia Monster's social account services, network requirements and request a quote."
+2026-11-24T01:49:16.199337Z,br.api.fipe/fipe,Tabela FIPE,1.0.0,,streamable-http,"Brazilian vehicle prices from the Tabela FIPE: brands, models, years, prices, history and plates."
+2026-11-24T01:52:10.893571Z,site.cerex/desktop,CereX,4.0.0-alpha.9.post50,,streamable-http,Review spreadsheet exports on a paired computer and save exceptions for an operator to check.
+2026-11-24T01:54:57.383408Z,dev.mojourney/census,Mojourney,1.21.0,https://github.com/morca-dev/census,streamable-http,"The Mojo ecosystem census: search public Mojo repos, their Mojo versions and growth."
+2026-11-24T01:55:17.151731Z,io.ampost/mcp,Ampost,1.0.0,,streamable-http,"Schedule and publish social media posts to Instagram, Facebook, X, YouTube and more from AI agents"
+2026-11-24T01:56:53.836195Z,com.infinitylooper/loops,InfinityLooper,1.0.0,,streamable-http,"Search and download free looping video backgrounds for streams, calls, wallpapers and screens."
+2026-11-24T01:57:33.743304Z,io.github.DueWallLabs/duewall-adapters,DueWall — Tokenized Credit Data,0.3.5,https://github.com/DueWallLabs/duewall-adapters,streamable-http,"Read-only MCP server for DueWall: DLI index, DCR rate, maturities, flows and verification verdicts."
+2026-11-24T01:58:38.278232Z,xyz.quantumatlas/ucp-shopping-hub,Quantum Atlas UCP Shopping & 50/50 Editions Hub,1.0.0,,streamable-http,"UCP 2026-08-25 MCP storefront: catalog search, carts, Stripe/x402 checkouts & 50/50 drops."
+2026-11-24T01:59:24.038259Z,com.mentionskill/mentionskill,MentionSkill,1.0.0,https://github.com/mentionskill/mentionskill,streamable-http,"Free, relevant links and brand mentions for your site, traded by your AI agent while it writes."
+2026-11-24T02:02:38.657857Z,uk.co.fileclerk/filing-tools,FileClerk,0.1.0,,streamable-http,"UK company filing deadlines, filed figures and iXBRL validation"
+2026-11-24T02:03:08.168772Z,com.clawhard/preflight,Preflight,1.0.0,,streamable-http,"Live checks for agent-written code: missing packages, end-of-life versions, stale Actions, secrets."
+2026-11-24T02:09:29.667074Z,com.stunlist/stunlist,StunList,1.0.0,,streamable-http,"Browse curated high-craft sites and tools, run Stun Check, and buy listings in SOL or USDC."
+2026-11-24T02:10:09.95713Z,io.github.Apination/ai-plugin,API Nation AI Plugin,1.0.0,,streamable-http,"Connect your real estate CRM, lead sources and back office apps to your AI."
+2026-11-24T02:12:21.129707Z,com.blockrelations/agent-access,Block Relations,1.17.0,,streamable-http,Search and cite Block Relations content from an AI agent. Pay per call from a prepaid balance.
+2026-11-24T02:12:22.008427Z,org.cryptoliveleak/agent-access,CryptoLiveLeak,1.17.0,,streamable-http,Search and cite CryptoLiveLeak content from an AI agent. Pay per call from a prepaid balance.
+2026-11-24T02:13:28.17006Z,com.footballpricer.www/oracle,FootballPricer Probability Oracle,1.0.0,,streamable-http,"Calibrated football probability oracle, +EV/Kelly edges, and <10ms Polymarket market re-pricer."
+2026-11-24T02:13:59.611851Z,io.github.pufferfishllc3548-cmd/doc2json,doc2json,0.1.0,,streamable-http,"Convert a PDF or DOCX text layer into JSON, Markdown, and tables. $0.02 USDC/call via x402 on Base."
+2026-11-24T02:16:13.153237Z,com.trinity-waves/books-partner,Trinity Books Partner,1.0.0,,streamable-http,"Manage, translate and publish your own books in the Trinity Books store from your AI."

@@ -9,43 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 01:21 UTC
+## Latest list — 2026-11-24 02:19 UTC
 
-New MCP servers published between 2026-11-24 00:21 UTC and 2026-11-24 01:21 UTC.
+New MCP servers published between 2026-11-24 01:21 UTC and 2026-11-24 02:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-24T01-21-48-387113Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-24T02-19-04-860008Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-24 00:24:07 | [io.github.christurtleday-hue/au-agent-tools](https://github.com/christurtleday-hue/apify-au-agent-tools-mcp) | AU Agent Tools: documents, screenshots,… | 1.0.0 | PDF to Markdown, screenshots, AU address geocoding, AU/NZ holidays, phone valid… |
-| 2026-11-24 00:24:08 | [io.github.christurtleday-hue/au-address-geocoder](https://github.com/christurtleday-hue/apify-au-agent-tools-mcp) | Australian Address Validator & Geocoder | 1.0.0 | Validate, standardise and geocode Australian addresses with official G-NAF data… |
-| 2026-11-24 00:24:10 | [io.github.christurtleday-hue/au-nz-public-holidays](https://github.com/christurtleday-hue/apify-au-agent-tools-mcp) | AU & NZ Public Holidays & Business Days | 1.0.0 | AU/NZ public holidays by state, Tasmanian area and NZ region; add or count busi… |
-| 2026-11-24 00:24:11 | [io.github.christurtleday-hue/pdf-docx-to-markdown](https://github.com/christurtleday-hue/apify-au-agent-tools-mcp) | PDF & DOCX to Markdown | 1.0.0 | Convert PDF and Word files at URLs into clean Markdown for LLMs and RAG. |
-| 2026-11-24 00:24:12 | [io.github.christurtleday-hue/phone-validator](https://github.com/christurtleday-hue/apify-au-agent-tools-mcp) | Phone Number Validator & Formatter | 1.0.0 | Validate, format (E.164) and extract phone numbers in bulk for 240+ countries. |
-| 2026-11-24 00:24:14 | [io.github.christurtleday-hue/website-screenshot-pdf](https://github.com/christurtleday-hue/apify-au-agent-tools-mcp) | Website Screenshot & URL to PDF | 1.0.0 | Full-page website screenshots and web page to PDF with real Chrome, ads and coo… |
-| 2026-11-24 00:25:59 | org.unpatentable/library | Unpatentable.org | 1.0.0 | Search and read 1,300+ public-domain (CC0) invention disclosures: open prior ar… |
-| 2026-11-24 00:31:21 | [com.aileakage/ai-tool-facts](https://github.com/aileakage/open-tools) | AI Leakage facts | 1.0.0 | Read-only, dated facts on how 29 AI tools handle business data, and recent chec… |
-| 2026-11-24 00:31:51 | [io.github.sbrunner-atx/rs-scope-mcp](https://github.com/sbrunner-atx/rs-scope-mcp) | R&S Oscilloscope MCP: AI on the RTB2 /… | 0.1.3 | Drive Rohde & Schwarz RTB2/RTB2000 oscilloscopes over LAN: capture, decode, FFT… |
-| 2026-11-24 00:32:01 | [io.github.soodhere/saktum-check](https://github.com/soodhere/saktum-check) | Saktum Check | 0.4.0 | Test and govern MCP servers: trust grades, OWASP MCP Top 10 checks, fixes and s… |
-| 2026-11-24 00:32:02 | digital.hatched/send | Hatched Send | 1.0.0 | Email marketing for AI assistants: build emails, manage contacts, send campaign… |
-| 2026-11-24 00:33:52 | [ai.zevari/ai-sdr-kit](https://github.com/zevarihq/ai-sdr-kit) | AI SDR Kit by Zevari | 0.1.0 | Free outbound SOP and sequence playbook for your AI, no account needed. Zevari… |
-| 2026-11-24 00:38:19 | [io.github.kurcontko/mnemotree](https://github.com/kurcontko/mnemotree) | Mnemotree | 1.1.0 | Local long-term memory. Keeps messages verbatim in SQLite and recalls them by h… |
-| 2026-11-24 00:42:52 | io.github.akhilrajesh213/tiktok-mcp-server | TikTok MCP Server (profiles and videos) | 0.1.2 | Exact TikTok follower counts, likes and bio for any profile; views, saves, enga… |
-| 2026-11-24 00:47:15 | com.profblu.siami/siami | Siami | 1.0.0 | Snow, ski, kite, diving and surf spots: today's conditions, forecast, schools,… |
-| 2026-11-24 00:50:21 | network.luca/luca | Luca | 0.21.0 | Financial recordkeeping for AI agent payments: declare, check and record each p… |
-| 2026-11-24 00:52:18 | [io.github.m-mustufa/ai-api-cost-mcp](https://github.com/m-mustufa/mustafa-portfolio) | AI API Cost Calculator | 0.1.0 | Estimate and compare OpenAI, Claude and Gemini API costs, gross margin and brea… |
-| 2026-11-24 00:52:41 | com.admeldo/verified-work | Verified Work | 0.1.0 | Verify delivered agent work and get a signed pass/fail receipt, paid per check… |
-| 2026-11-24 00:53:19 | [io.github.nassih-yassine/dep-vet](https://github.com/nassih-yassine/Dep-Vet) | dep-vet | 0.13.2 | Vet packages and lockfiles for CVEs, typosquats and install scripts before inst… |
-| 2026-11-24 00:54:43 | [io.drint/driglass](https://github.com/drint-io/driglass-mcp) | Driglass | 1.0.0 | Sizes, print zones and screen counts for printing straight on glass bottles and… |
-| 2026-11-24 00:54:43 | [io.github.subedikushal/writing-editor-mcp](https://github.com/subedikushal/writing-editor-mcp) | Writing Editor | 0.2.5 | Editorial briefs and source-fidelity checks for research papers and technical p… |
-| 2026-11-24 00:58:50 | [ai.bareun/bareun](https://github.com/gih2yun/bareun-mcp) | Bareun — Korean NLP & Spell/Grammar Che… | 3.0.1 | Korean NLP MCP server: morphological analysis, tokenization, spell & grammar ch… |
-| 2026-11-24 01:00:03 | org.cve-compass/cve-compass | CVE Compass | 0.1.0 | Read-only public advisory lookups: GitHub reviewed advisories and CISA KEV. No… |
-| 2026-11-24 01:03:06 | com.resolvemesh/compatibility | ResolveMesh Registry Search and Compati… | 0.2.0 | Search the MCP Registry for a capability, check client compatibility, and read… |
-| 2026-11-24 01:03:37 | [io.github.paywithtender/tender](https://github.com/paywithtender/tender) | Tender | 0.1.1 | Let AI agents pay x402 APIs with any token on Robinhood Chain. Merchants get ex… |
-| 2026-11-24 01:05:46 | [com.slatebox/slatebox](https://github.com/Slatebox/slatebox) | Slatebox | 0.3.2 | Mind maps, diagrams, project plans and presentations on a free, open-source tea… |
-| 2026-11-24 01:06:19 | [io.github.Sagexd08/openbooks-mcp](https://github.com/Sagexd08/OpenBooks) |  | 0.2.4 | Verify bank statements, settlements and tax documents: proven JSON or a typed r… |
-| 2026-11-24 01:08:16 | [io.github.cardoves/basality-99freelas-mcp](https://github.com/cardoves/basality-99freelas-mcp-public) |  | 0.1.0 | Unofficial read-only access to public 99Freelas pages and proposal previews. |
-| 2026-11-24 01:09:05 | [com.pipeyield/search-term-review](https://github.com/Pipeyield/pipeyield-review) | Pipeyield | 0.1.0 | Reviews a Google Ads search terms report: wasted spend and negative keywords to… |
+| 2026-11-24 01:25:27 | [com.getnextleg/nextleg](https://github.com/nextleg/plugins) | Nextleg | 0.1.0 | AI-first trip planner: ask about your flights, stays and events, and add or cha… |
+| 2026-11-24 01:31:40 | [com.dixipolis/dixipolis](https://github.com/Dixipolis/dixipolis-mcp) | Dixipolis | 1.0.0 | What French politicians said on TV, radio and in the National Assembly: verbati… |
+| 2026-11-24 01:39:54 | io.github.deividfortuna/fipe | Tabela FIPE | 1.0.0 | Brazilian vehicle prices from the Tabela FIPE: brands, models, years, prices, h… |
+| 2026-11-24 01:42:39 | io.github.orvenix-ai/varikan | VARIKAN: check suppliers before you pay | 1.1.0 | Sanctions screening (OFAC, EU, UK, UN), bank-change fraud checks and supplier d… |
+| 2026-11-24 01:42:41 | io.github.orvenix-ai/orvenix | ORVENIX: contract renewals and EU AI Ac… | 1.0.0 | Find renewal traps and notice deadlines in contracts; screen EU AI Act Article… |
+| 2026-11-24 01:43:52 | live.dream11app/releases | Dream11 App Android Releases | 1.0.0 | Look up current and retained Dream11 App APKs with exact file sizes, SHA-256 an… |
+| 2026-11-24 01:44:08 | monster.multimedia/multimedia-monster | Multimedia Monster | 1.0.0 | Discover Multimedia Monster's social account services, network requirements and… |
+| 2026-11-24 01:49:16 | br.api.fipe/fipe | Tabela FIPE | 1.0.0 | Brazilian vehicle prices from the Tabela FIPE: brands, models, years, prices, h… |
+| 2026-11-24 01:52:10 | site.cerex/desktop | CereX | 4.0.0-alpha.9.post50 | Review spreadsheet exports on a paired computer and save exceptions for an oper… |
+| 2026-11-24 01:54:57 | [dev.mojourney/census](https://github.com/morca-dev/census) | Mojourney | 1.21.0 | The Mojo ecosystem census: search public Mojo repos, their Mojo versions and gr… |
+| 2026-11-24 01:55:17 | io.ampost/mcp | Ampost | 1.0.0 | Schedule and publish social media posts to Instagram, Facebook, X, YouTube and… |
+| 2026-11-24 01:56:53 | com.infinitylooper/loops | InfinityLooper | 1.0.0 | Search and download free looping video backgrounds for streams, calls, wallpape… |
+| 2026-11-24 01:57:33 | [io.github.DueWallLabs/duewall-adapters](https://github.com/DueWallLabs/duewall-adapters) | DueWall — Tokenized Credit Data | 0.3.5 | Read-only MCP server for DueWall: DLI index, DCR rate, maturities, flows and ve… |
+| 2026-11-24 01:58:38 | xyz.quantumatlas/ucp-shopping-hub | Quantum Atlas UCP Shopping & 50/50 Edit… | 1.0.0 | UCP 2026-08-25 MCP storefront: catalog search, carts, Stripe/x402 checkouts & 5… |
+| 2026-11-24 01:59:24 | [com.mentionskill/mentionskill](https://github.com/mentionskill/mentionskill) | MentionSkill | 1.0.0 | Free, relevant links and brand mentions for your site, traded by your AI agent… |
+| 2026-11-24 02:02:38 | uk.co.fileclerk/filing-tools | FileClerk | 0.1.0 | UK company filing deadlines, filed figures and iXBRL validation |
+| 2026-11-24 02:03:08 | com.clawhard/preflight | Preflight | 1.0.0 | Live checks for agent-written code: missing packages, end-of-life versions, sta… |
+| 2026-11-24 02:09:29 | com.stunlist/stunlist | StunList | 1.0.0 | Browse curated high-craft sites and tools, run Stun Check, and buy listings in… |
+| 2026-11-24 02:10:09 | io.github.Apination/ai-plugin | API Nation AI Plugin | 1.0.0 | Connect your real estate CRM, lead sources and back office apps to your AI. |
+| 2026-11-24 02:12:21 | com.blockrelations/agent-access | Block Relations | 1.17.0 | Search and cite Block Relations content from an AI agent. Pay per call from a p… |
+| 2026-11-24 02:12:22 | org.cryptoliveleak/agent-access | CryptoLiveLeak | 1.17.0 | Search and cite CryptoLiveLeak content from an AI agent. Pay per call from a pr… |
+| 2026-11-24 02:13:28 | com.footballpricer.www/oracle | FootballPricer Probability Oracle | 1.0.0 | Calibrated football probability oracle, +EV/Kelly edges, and <10ms Polymarket m… |
+| 2026-11-24 02:13:59 | io.github.pufferfishllc3548-cmd/doc2json | doc2json | 0.1.0 | Convert a PDF or DOCX text layer into JSON, Markdown, and tables. $0.02 USDC/ca… |
+| 2026-11-24 02:16:13 | com.trinity-waves/books-partner | Trinity Books Partner | 1.0.0 | Manage, translate and publish your own books in the Trinity Books store from yo… |
 
 ## Data source
 
