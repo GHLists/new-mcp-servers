@@ -1,0 +1,38 @@
+created_at,server,title,version,repository,transports,description
+2026-11-24T11:23:14.223534Z,io.github.jams4code/cypress-mcp,cypress-mcp,0.4.0,https://github.com/jams4code/cypress-mcp,,"Run and debug Cypress tests from an AI agent: compact failures with file:line, error, screenshot."
+2026-11-24T11:27:38.606672Z,com.imazeo/media,Imazeo Media,1.0.2,https://github.com/Imazeohq/imazeo-mcp,,"Process images, PDFs, documents, website captures, QR codes, and barcodes with Imazeo."
+2026-11-24T11:28:47.334826Z,com.crophist/crophist,CropHist,0.1.0,,streamable-http,"Crop history per field for 63M farm fields in the US, Canada, Argentina and Brazil."
+2026-11-24T11:28:47.963237Z,com.koenig-solutions/koenig-mcp,Koenig MCP,1.3.0,,streamable-http,"Search Koenig Solutions' IT training catalog: courses, exam codes, outlines, vendors, technologies."
+2026-11-24T11:30:57.850753Z,com.timbrica/tools,Timbrica Tools,1.0.0,,streamable-http,"Audio, music, video, image, PDF, speech, text and web-check tools callable from any MCP client."
+2026-11-24T11:30:58.774212Z,com.tembrica/tools,Tembrica Tools,1.0.0,,streamable-http,"Audio, music, video, image, PDF, speech, text and web-check tools callable from any MCP client."
+2026-11-24T11:32:40.218246Z,io.verifiedwallet/verifiedwallet,VerifiedWallet,1.0.0,,streamable-http,"Check crypto addresses before you send: verified owners, company wallets, lookalike scam warnings."
+2026-11-24T11:32:57.715326Z,com.mkcplus/mkcplus,MKC+,0.6.0,,,"See and use the devices of your MKC+ group: their screens, pointer, keyboard, clipboard and files"
+2026-11-24T11:33:20.987414Z,com.alltegrio/site,Alltegrio,2.0.0,,streamable-http,Search and read alltegrio.com (AI development company); send Alltegrio a project inquiry.
+2026-11-24T11:33:31.487425Z,fit.burnweek/burnweek,BurnWeek,2.3.0,,streamable-http,"Calorie and protein log with honest ranges: log, edit, plan and review meals from any assistant."
+2026-11-24T11:35:54.787737Z,es.llueve/llueve,Llueve,1.0.0,,streamable-http,"Spain's reservoir levels, rain over their catchments, and the reservoirs each town drinks from."
+2026-11-24T11:38:01.999742Z,io.github.zz959397ghb/zzm46,,1.0.0,,streamable-http,Northline industrial components catalog with lookup and search tools.
+2026-11-24T11:38:53.144261Z,com.gmpsignal/mcp,GMPSignal Company & Hiring Data,1.0.0,,streamable-http,"Company profiles, UK/FR/NO/FI/PL registers, EU VAT, career jobs and hiring signals for agents."
+2026-11-24T11:44:05.528496Z,io.github.yourpilla/pilla,Pilla,1.0.0,,streamable-http,"Role-scoped tools for Pilla workflows, workflow runs, teams, evidence, activity and team chat."
+2026-11-24T11:50:52.846448Z,ai.meerko/meerko,Meerko,1.0.0,https://github.com/polynode-co/meerko,streamable-http,"Find leads, verify work emails, send sequences from your own inbox and draft answers to replies."
+2026-11-24T11:51:17.324744Z,xyz.algoiq/algoiq,AlgoIQ,1.0.0,,streamable-http,"Agent stock research, verified: read, search and post to $ticker and #topic feeds. Not advice."
+2026-11-24T11:53:11.750354Z,now.publify/publify,Publify,0.1.0,,streamable-http,"App Store, Google Play and Microsoft Store releases: status, listings, TestFlight, App Review watch"
+2026-11-24T11:53:48.533426Z,com.tatseek/tatseek,TatSeek,1.0.0,,streamable-http,"Real, credited tattoo photos with artists and studios: search by style, subject, placement, city."
+2026-11-24T12:01:25.11897Z,com.wallacesline/wildlife,Wallace's Line — wildlife sighting chances,1.0.0,,streamable-http,"Chance of seeing each animal in national parks and cities worldwide, by month (GBIF data)."
+2026-11-24T12:02:41.21569Z,com.carsandcoast/coast,Cars & Coast,1.0.0,,streamable-http,"Live Monterey Bay coast data for AI agents: events, Hwy 1, weather, ocean, cams, stays."
+2026-11-24T12:02:41.806005Z,com.hotelsandcoast/stays,Hotels & Coast,1.0.0,,streamable-http,Find hotel stays on the Monterey Bay coast with live conditions. The human pays at checkout.
+2026-11-24T12:03:28.110163Z,io.github.beepboop2025/pdf-suite-mcp,,2.2.0,https://github.com/beepboop2025/pdf-suite-mcp,,"37 tools to read, create, merge, split, watermark, fill, redact and search PDFs. Fully local."
+2026-11-24T12:03:38.036181Z,cz.procvicky/pracovni-listy,Procvičky.cz – pracovní listy,1.0.0,,streamable-http,"Printable Czech worksheets (PDF) for grades 1–9: search pracovní listy by topic, grade and subject."
+2026-11-24T12:05:46.755231Z,io.github.acidka/chandelier,Chandelier,0.4.1,https://github.com/acidka/chandelier,,"Drive Adobe Illustrator fast: ~5 ms calls, batches, ExtendScript, preflight, PDF/X export."
+2026-11-24T12:05:51.482776Z,net.cuadrilla/cuadrilla,Cuadrilla,1.0.0,,streamable-http,"Your Cuadrilla workspace from your AI agent: read, message colleagues, ask your AI workers."
+2026-11-24T12:07:42.184993Z,io.github.bluetouff/polradar,Polradar,1.0.0,https://github.com/bluetouff/polradar,streamable-http,"French presidential election 2027: candidates, proposals, polls and official sources. Read-only."
+2026-11-24T12:08:05.281449Z,io.github.zz959397ghb/zzm49,,1.0.0,,streamable-http,Northline industrial components catalog with lookup and search tools.
+2026-11-24T12:08:33.303517Z,io.github.pagecraftAPI/pagecraft-tools,,1.0.1,https://github.com/pagecraftAPI/pagecraft-mcp,streamable-http,"Web data tools for agents: site audits, scrapers, OCR, PDF text, email validation. Pay per result."
+2026-11-24T12:08:51.820564Z,io.github.SuadeLabs/suade-fire-mcp,FIRE data standard,0.6.1,https://github.com/SuadeLabs/suade-fire-mcp,,"Look up, validate and map data to the FIRE financial regulatory data standard."
+2026-11-24T12:11:03.175428Z,io.github.Oratorian/discord-node-mcp,,1.2.0,https://github.com/Oratorian/discord-node-mcp,,MCP server for controlling Discord servers via bot token
+2026-11-24T12:16:26.982812Z,io.github.GlideWorth/glideworth,Glideworth,1.1.0,https://github.com/GlideWorth/glideworth,streamable-http,Glideworth is a personal financial planning engine (retirement / life-plan projections).
+2026-11-24T12:16:51.277851Z,io.github.leobrog/opentickers,OpenTickers,1.0.0,https://github.com/leobrog/opentickers-mcp,streamable-http,Central bank exchange rates and financial indicators via the OpenTickers API.
+2026-11-24T12:16:52.551634Z,chat.publishwith/publish-with-chat,Publish with chat,1.0.0,https://github.com/publishwithchat/publishwithchat,streamable-http,"Build a website in chat, preview it free, then put it online. Update or roll back by asking."
+2026-11-24T12:18:36.078265Z,fr.galienai/galienai,GalienAI,1.0.0,,streamable-http,"Codes LPP et conditions de délivrance de la BDPM (France), pour pharmaciens d'officine."
+2026-11-24T12:19:21.93525Z,com.flightmapworld/flights,FlightMapWorld,1.0.0,https://github.com/nocodeno/flightmapworld-mcp,streamable-http,"Flight routes worldwide: nonstop destinations, airlines, flight times and the lowest fares."
+2026-11-24T12:19:27.465209Z,fr.skitribu/skitribu,SkiTribu – shared private ski lessons in France,1.0.0,,streamable-http,Find or start a group to share a private ski or snowboard instructor in French ski resorts. Free.
+2026-11-24T12:21:22.63286Z,de.nameholder/mcp,Nameholder Domain Intelligence,1.0.0,,streamable-http,"Search expired & auction domains across 9 markets with Wayback, DA, spam & brand valuation."
