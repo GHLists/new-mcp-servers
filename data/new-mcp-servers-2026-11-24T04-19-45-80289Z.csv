@@ -1,0 +1,26 @@
+created_at,server,title,version,repository,transports,description
+2026-11-24T03:20:48.91524Z,io.github.inchTodd/surinch-db-guard-mcp,,0.3.0,https://github.com/inchTodd/surinch-db-guard-mcp,,"Local-first DDL/ALTER lock gate, SQL readonly guard & PII masking MCP with SHA-256 receipts."
+2026-11-24T03:21:03.688313Z,com.sovereigngl/sgl-developers,SGL for developers,1.3.0,,streamable-http,"SGL developer docs, API reference and engine plugins, for games, mods and integrations."
+2026-11-24T03:21:14.548672Z,io.github.wobuliangren/northkoreahub,North Korea Hub,1.0.0,https://github.com/wobuliangren/northkoreahub-data,,Who can enter North Korea: dual-source-verified access status by nationality and rule changes.
+2026-11-24T03:21:44.63015Z,com.incrediblefi/loan-marketplace,IncredibleFi — Personal Loan Marketplace,1.0.1,,streamable-http,IncredibleFi connects you with loan options and is not a lender.
+2026-11-24T03:29:23.615315Z,io.github.goldrusher9009-sketch/mcpdiet,,0.2.0,https://github.com/goldrusher9009-sketch/mcpdiet,,"Weigh your MCP servers: token cost, dead servers, risky configs, with a ranked fix list."
+2026-11-24T03:38:19.779768Z,com.truvanatech/site,Truvana Tech Card Processing and POS Database,1.1.0,,streamable-http,"Card fees, surcharge laws and POS guides for small restaurants and stores, plus fee calculators"
+2026-11-24T03:38:35.707626Z,com.customprintingco/site,JinXinCai Printing Label Printing Cost & Compliance Reference,1.1.0,,streamable-http,"Label printing cost, material and compliance guides from JinXinCai Printing, plus expert answers"
+2026-11-24T03:38:38.867002Z,com.superboutdoorco/site,PeakRoam Wholesale Outdoor Event Infrastructure Database,1.1.0,,streamable-http,"PeakRoam guides on bulk buying event chairs, tables, canopies, tents and campground gear"
+2026-11-24T03:38:43.973826Z,com.ownlybrand/site,OwnlyBrand B2B Marketplace & Direct Sales Database,1.1.0,,streamable-http,"Manufacturer guides on IndiaMART, Alibaba, ThomasNet, GlobalSpec costs vs owned sales channels"
+2026-11-24T03:38:45.475936Z,ca.speedydrone.agr/site,SpeedyDrone Canadian Agricultural Drone Library,1.1.0,,streamable-http,"Canadian ag drone guides, spray job and buy-vs-hire calculators, expert answers by email"
+2026-11-24T03:38:48.97244Z,com.waterlessradiant/site,HT Waterless Radiant Heating Reference,1.1.0,,streamable-http,Search HT guides on waterless radiant heating and cooling; ask HT specialists what they don't cover
+2026-11-24T03:38:53.002387Z,com.modularpsl/site,PSL Modular Prefab Modular Housing Reference,1.1.0,,streamable-http,"PSL Modular articles on US prefab housing: state permits, ADU laws, container homes, delivery"
+2026-11-24T03:45:01.792832Z,io.spacestack/spacestack,Spacestack,1.0.0,,streamable-http,"Venue CRM: check dates, prep tours, and manage leads, bookings, tasks and invoices."
+2026-11-24T03:48:38.223194Z,com.newonrecord/records,New on Record,1.0.0,,streamable-http,"Ohio's public records as their offices post them: bids, agendas, permits and more."
+2026-11-24T03:50:13.921881Z,uk.co.clearpostcode/postcodes,Clear Postcode,1.0.0,,streamable-http,"Live UK postcode data for AI: look up, validate, find nearest, council, ward, constituency. Free."
+2026-11-24T03:51:22.011642Z,io.github.holon-sh/vc,VC,0.0.1,,,"A venture principal's deals over Affinity, Granola, PitchBook, Slack and Gmail."
+2026-11-24T03:56:14.122415Z,com.starveilai/star-veil-ai,StarVeil AI — Live Comic & Webtoon Studio,2.0.0,https://github.com/gdfsdjj145/starveil-comic-skill,streamable-http,"Live comic & webtoon studio: 0-cr photo OC lock, continuous pages, box-edit & 6-lang translation."
+2026-11-24T04:01:37.06554Z,io.github.casahome2000/graphmyanything-mcp,GraphMyAnything,0.2.3,https://github.com/casahome2000/graphmyanything,,"Chart & metric memory for AI agents: track once, query, insight, forget, shareable charts."
+2026-11-24T04:02:33.739498Z,io.github.BloxStack/bloxstack,BloxStack Studio,1.0.0,,streamable-http,"Connect an AI assistant to a Roblox team's games, tasks and collaborators in BloxStack Studio."
+2026-11-24T04:07:40.749954Z,io.github.Nghiauet/vn-value-screener,Vietnam Value Screener,0.1.0,https://github.com/Nghiauet/vn-value-screener,,"Graham and Fisher screens of Vietnamese listed stocks (HOSE, HNX, UPCOM) from public data"
+2026-11-24T04:08:14.100974Z,com.cinematimes/showtimes,CinemaTimes,1.0.0,,streamable-http,"Cinema showtimes in Ireland, the UK, Australia and New Zealand, from the cinemas themselves."
+2026-11-24T04:11:24.495845Z,io.github.BiteFoundry/obsidian,"Obsidian Vault (TUI, CLI & MCP)",0.4.2,https://github.com/BiteFoundry/obsidian,,"Local Obsidian vault MCP server, CLI, and TUI in Rust with Braille graph & safe edits."
+2026-11-24T04:11:48.337249Z,io.github.brimatt16219/l3lint,l3lint,1.0.0,https://github.com/brimatt16219/l3lint,,"Lint commercial card Level 2 and Level 3 payloads against Visa, Mastercard, Amex and Discover rules."
+2026-11-24T04:12:20.404795Z,com.kentapplied/data,Kent Applied healthcare data,1.0.0,,streamable-http,"Sourced US healthcare facts, chart data and research from kentapplied.com. Read-only, no sign-in."
+2026-11-24T04:12:41.386187Z,io.github.geoseeer/geoseer,GeoSeer,0.3.0,https://github.com/geoseeer/GeoSeer,,GeoSeer AI image geolocation — geoseeer.com

@@ -9,37 +9,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 03:19 UTC
+## Latest list — 2026-11-24 04:19 UTC
 
-New MCP servers published between 2026-11-24 02:19 UTC and 2026-11-24 03:19 UTC.
+New MCP servers published between 2026-11-24 03:19 UTC and 2026-11-24 04:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-24T03-19-32-3111Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-24T04-19-45-80289Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-24 02:20:27 | app.rendrr/jobtrackr | JobTrackr | 1.0.0 | Job application tracker for AI agents: list, add and move applications, notes a… |
-| 2026-11-24 02:20:27 | app.rendrr/0human | 0human | 1.0.0 | Open agent economy: agents onboard by proof-of-work, form companies and split U… |
-| 2026-11-24 02:20:28 | co.chiefagenticofficer/cao | Chief Agentic Officer | 1.0.0 | Read-only access to published Chief Agentic Officer Perspectives and Playbooks. |
-| 2026-11-24 02:22:46 | io.github.Message-com/message | Message.com | 0.1.0 | Read conversations and reply from AI assistants with scoped access to your Mess… |
-| 2026-11-24 02:22:53 | [io.github.HIP3Pulse/hip3pulse](https://github.com/HIP3Pulse/hip3pulse) |  | 0.1.0 | Hyperliquid HIP-3 off-hours oracle gap, funding APR, L2 slippage, xStocks basis… |
-| 2026-11-24 02:27:53 | [io.github.PHPatch/codereview](https://github.com/PHPatch/codereview) | CodeReview | 0.13.5 | Multi-model review gate for AI-written code: independent reviewers, one determi… |
-| 2026-11-24 02:34:46 | com.kikocreators/kiko | Kiko | 1.0.0 | Find niche Instagram, YouTube and TikTok creators for your product, and why eac… |
-| 2026-11-24 02:35:21 | app.planj/planj | planJ | 1.0.0 | Plan trips with friends: itinerary, bookings, expenses, settle-up and checklist… |
-| 2026-11-24 02:38:07 | [io.github.stand-out-of-my-sun/diogenes-context-code-solver-mcp](https://github.com/stand-out-of-my-sun/diogenes-context-code-solver-mcp) | Diogenes Context Compression & Code Sol… | 1.0.0 | AST context pruner, token budget planner, fuzzy patcher, and code solvers. |
-| 2026-11-24 02:38:08 | [io.github.stand-out-of-my-sun/diogenes-database-intelligence-mcp](https://github.com/stand-out-of-my-sun/diogenes-database-intelligence-mcp) | Diogenes Database Intelligence & SQL En… | 1.0.0 | Database intelligence, AST SQL injection auditing, query optimization & schema… |
-| 2026-11-24 02:38:08 | [io.github.stand-out-of-my-sun/diogenes-neural-search-engine-mcp](https://github.com/stand-out-of-my-sun/diogenes-neural-search-engine-mcp) | Diogenes Neural Search & Grounded Resea… | 1.0.0 | Neural search synthesizer, deep research dossier compiler, and citation tools. |
-| 2026-11-24 02:38:08 | [io.github.stand-out-of-my-sun/diogenes-web-scraping-engine-mcp](https://github.com/stand-out-of-my-sun/diogenes-web-scraping-engine-mcp) | Diogenes Web Extraction & Markdown Engi… | 1.0.0 | High-performance web extraction, readability markdown compiler, and metadata pa… |
-| 2026-11-24 02:38:39 | ca.princegeorgepulse/pg-pulse | Prince George Pulse | 1.7.0 | Local data for Prince George, BC: events, businesses, news, weather, transit an… |
-| 2026-11-24 02:40:11 | org.slotcatalogs/guides | SlotCatalog Guides | 0.2.0 | Read-only app and brand guides for India, Brazil, and Mexico, with sources and… |
-| 2026-11-24 02:40:19 | [io.github.bangca85/cardloom-mcp](https://github.com/bangca85/cardloom-mcp) | Cardloom | 1.1.2 | Reviewed, git-backed engineering knowledge base for coding agents, served over… |
-| 2026-11-24 02:41:17 | [io.github.valmirjunior2109-spec/stillworks](https://github.com/valmirjunior2109-spec/stillworks) |  | 0.1.6 | Checks your web app still works after AI edits: real browser, zero setup, fix-r… |
-| 2026-11-24 02:56:00 | [io.github.proofhouse-ventures/global-company-registry](https://github.com/proofhouse-ventures/global-registry-mcp) | Global Company Registry — SG · UK · FR… | 1.0.0 | Search 23.3M companies across Singapore, UK, France and the global LEI register… |
-| 2026-11-24 02:58:25 | dev.trustguru/editorial | Trust Guru Editorial | 0.1.0 | Find and cite Trust Guru guides and dated sources for India, Brazil, and Mexico. |
-| 2026-11-24 03:00:05 | mx.afunbet/mexico-help | Afun Bet México Help | 1.0.0 | Read-only Mexico guides: app installation, account access, SPEI/OXXO, and game… |
-| 2026-11-24 03:07:18 | com.aplaceforagents/square | A Place for Agents | 1.0.0 | Public town square where agents find peers, post needs, and share tested MCP se… |
-| 2026-11-24 03:09:17 | [io.github.ayushcmd/pare](https://github.com/ayushcmd/pare) | PARE | 0.1.0 | Inspect AI context for token waste and review conservative cleanup suggestions. |
-| 2026-11-24 03:09:42 | io.github.pipiads-dev/pipiads | PipiAds | 1.0.5 | Research TikTok and Facebook ads, products, stores and competitors with the Pip… |
-| 2026-11-24 03:12:34 | com.qconsultai/home-cost-planner |  | 1.0.0 | Home cost projections and comparisons over 10, 20, and 30 years from a public l… |
+| 2026-11-24 03:20:48 | [io.github.inchTodd/surinch-db-guard-mcp](https://github.com/inchTodd/surinch-db-guard-mcp) |  | 0.3.0 | Local-first DDL/ALTER lock gate, SQL readonly guard & PII masking MCP with SHA-… |
+| 2026-11-24 03:21:03 | com.sovereigngl/sgl-developers | SGL for developers | 1.3.0 | SGL developer docs, API reference and engine plugins, for games, mods and integ… |
+| 2026-11-24 03:21:14 | [io.github.wobuliangren/northkoreahub](https://github.com/wobuliangren/northkoreahub-data) | North Korea Hub | 1.0.0 | Who can enter North Korea: dual-source-verified access status by nationality an… |
+| 2026-11-24 03:21:44 | com.incrediblefi/loan-marketplace | IncredibleFi — Personal Loan Marketplace | 1.0.1 | IncredibleFi connects you with loan options and is not a lender. |
+| 2026-11-24 03:29:23 | [io.github.goldrusher9009-sketch/mcpdiet](https://github.com/goldrusher9009-sketch/mcpdiet) |  | 0.2.0 | Weigh your MCP servers: token cost, dead servers, risky configs, with a ranked… |
+| 2026-11-24 03:38:19 | com.truvanatech/site | Truvana Tech Card Processing and POS Da… | 1.1.0 | Card fees, surcharge laws and POS guides for small restaurants and stores, plus… |
+| 2026-11-24 03:38:35 | com.customprintingco/site | JinXinCai Printing Label Printing Cost… | 1.1.0 | Label printing cost, material and compliance guides from JinXinCai Printing, pl… |
+| 2026-11-24 03:38:38 | com.superboutdoorco/site | PeakRoam Wholesale Outdoor Event Infras… | 1.1.0 | PeakRoam guides on bulk buying event chairs, tables, canopies, tents and campgr… |
+| 2026-11-24 03:38:43 | com.ownlybrand/site | OwnlyBrand B2B Marketplace & Direct Sal… | 1.1.0 | Manufacturer guides on IndiaMART, Alibaba, ThomasNet, GlobalSpec costs vs owned… |
+| 2026-11-24 03:38:45 | ca.speedydrone.agr/site | SpeedyDrone Canadian Agricultural Drone… | 1.1.0 | Canadian ag drone guides, spray job and buy-vs-hire calculators, expert answers… |
+| 2026-11-24 03:38:48 | com.waterlessradiant/site | HT Waterless Radiant Heating Reference | 1.1.0 | Search HT guides on waterless radiant heating and cooling; ask HT specialists w… |
+| 2026-11-24 03:38:53 | com.modularpsl/site | PSL Modular Prefab Modular Housing Refe… | 1.1.0 | PSL Modular articles on US prefab housing: state permits, ADU laws, container h… |
+| 2026-11-24 03:45:01 | io.spacestack/spacestack | Spacestack | 1.0.0 | Venue CRM: check dates, prep tours, and manage leads, bookings, tasks and invoi… |
+| 2026-11-24 03:48:38 | com.newonrecord/records | New on Record | 1.0.0 | Ohio's public records as their offices post them: bids, agendas, permits and mo… |
+| 2026-11-24 03:50:13 | uk.co.clearpostcode/postcodes | Clear Postcode | 1.0.0 | Live UK postcode data for AI: look up, validate, find nearest, council, ward, c… |
+| 2026-11-24 03:51:22 | io.github.holon-sh/vc | VC | 0.0.1 | A venture principal's deals over Affinity, Granola, PitchBook, Slack and Gmail. |
+| 2026-11-24 03:56:14 | [com.starveilai/star-veil-ai](https://github.com/gdfsdjj145/starveil-comic-skill) | StarVeil AI — Live Comic & Webtoon Stud… | 2.0.0 | Live comic & webtoon studio: 0-cr photo OC lock, continuous pages, box-edit & 6… |
+| 2026-11-24 04:01:37 | [io.github.casahome2000/graphmyanything-mcp](https://github.com/casahome2000/graphmyanything) | GraphMyAnything | 0.2.3 | Chart & metric memory for AI agents: track once, query, insight, forget, sharea… |
+| 2026-11-24 04:02:33 | io.github.BloxStack/bloxstack | BloxStack Studio | 1.0.0 | Connect an AI assistant to a Roblox team's games, tasks and collaborators in Bl… |
+| 2026-11-24 04:07:40 | [io.github.Nghiauet/vn-value-screener](https://github.com/Nghiauet/vn-value-screener) | Vietnam Value Screener | 0.1.0 | Graham and Fisher screens of Vietnamese listed stocks (HOSE, HNX, UPCOM) from p… |
+| 2026-11-24 04:08:14 | com.cinematimes/showtimes | CinemaTimes | 1.0.0 | Cinema showtimes in Ireland, the UK, Australia and New Zealand, from the cinema… |
+| 2026-11-24 04:11:24 | [io.github.BiteFoundry/obsidian](https://github.com/BiteFoundry/obsidian) | Obsidian Vault (TUI, CLI & MCP) | 0.4.2 | Local Obsidian vault MCP server, CLI, and TUI in Rust with Braille graph & safe… |
+| 2026-11-24 04:11:48 | [io.github.brimatt16219/l3lint](https://github.com/brimatt16219/l3lint) | l3lint | 1.0.0 | Lint commercial card Level 2 and Level 3 payloads against Visa, Mastercard, Ame… |
+| 2026-11-24 04:12:20 | com.kentapplied/data | Kent Applied healthcare data | 1.0.0 | Sourced US healthcare facts, chart data and research from kentapplied.com. Read… |
+| 2026-11-24 04:12:41 | [io.github.geoseeer/geoseer](https://github.com/geoseeer/GeoSeer) | GeoSeer | 0.3.0 | GeoSeer AI image geolocation — geoseeer.com |
 
 ## Data source
 
