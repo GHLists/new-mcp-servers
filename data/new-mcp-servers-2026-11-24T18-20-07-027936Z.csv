@@ -1,0 +1,42 @@
+created_at,server,title,version,repository,transports,description
+2026-11-24T17:22:08.417951Z,ai.gondola/gondola,Gondola: Travel for AI Agents,0.1.7,https://github.com/gondola-ai/gondola-mcp,streamable-http,"The travel infrastructure built for AI agents: search and book flights, hotels, and rental cars."
+2026-11-24T17:24:34.708223Z,com.radaricp/radar-icp,Radar ICP,1.0.0,,streamable-http,"B2B companies on your ICP radar with buying signals, contacts, team notes and outreach steps."
+2026-11-24T17:25:46.14174Z,io.github.lamaaguilar9-web/sentinel-mcp-wrapper,Sentinel Fleet MCP,2.2.0,https://github.com/lamaaguilar9-web/sentinel-mcp-wrapper,streamable-http,"DeFi invariant scanner, oracle circuit breaker, and forensic scoring MCP server via x402."
+2026-11-24T17:26:51.071912Z,com.pedibee/pedibee,Pedibee,1.0.0,,streamable-http,"Sales outreach from your own Gmail: contacts, campaigns and sequences for your AI assistant."
+2026-11-24T17:27:48.72068Z,com.certapoland/assessment,Certa Poland - employment in Poland,1.0.0-readonly,,streamable-http,"Read-only Certa Poland tools: services and prices, hiring guides, Polish employer cost estimates."
+2026-11-24T17:27:53.969307Z,io.github.Thanos-admin/immuta,Immuta,1.0.0,https://github.com/Thanos-admin/immuta,streamable-http,On-chain document notarization for agents: seal a SHA-256 hash on PulseChain for $1 (x402).
+2026-11-24T17:35:27.743567Z,com.eliteaiempire/empireoperator,Empire Operator,1.0.0,,streamable-http,"Explore Empire Operator's KPI dashboard, product information and pricing page."
+2026-11-24T17:35:31.617572Z,com.eliteaiempire/empirephotopipeline,Empire Photo Pipeline,1.0.0,,streamable-http,"Read about the photo CDN, face blurring, signed URLs and pricing."
+2026-11-24T17:35:35.61734Z,com.eliteaiempire/empireroutercli,Lumen Agent Platform,1.0.0,,streamable-http,"Find product information for the Lumen agent runtime, connectors and model routing."
+2026-11-24T17:35:39.494332Z,com.eliteaiempire/empiresentinel-site,Empire Sentinel Site Guide,1.0.0,,streamable-http,Read product information and search the Empire Sentinel marketing site.
+2026-11-24T17:35:43.501973Z,com.eliteaiempire/empiresso,Empire SSO,1.0.0,,streamable-http,Read the Empire SSO product overview and find its pricing page.
+2026-11-24T17:35:47.246362Z,com.eliteaiempire/empiretune,Empire Tune,1.0.0,,streamable-http,Read about code parameter tuning and out-of-sample validation with Empire Tune.
+2026-11-24T17:35:51.338271Z,com.eliteaiempire/empirevalidator,Empire Validator,1.0.0,,streamable-http,"Explore the Empire Validator backtest checks, product information and pricing page."
+2026-11-24T17:37:20.98288Z,com.serversareup/mcp,Servers Are Up Cloud & Hybrid Infrastructure MCP,0.3.0,https://github.com/lostprotocol212/serversareup-mcp-server,streamable-http; streamable-http,"US Linux & Windows VPS, Docker, Virtual Datacenters, Game Servers & Cloud APIs via MCP."
+2026-11-24T17:38:25.683146Z,io.github.SirinivasK/chron,,0.1.70,https://github.com/SirinivasK/chron,,"Timestamped audit log for every AI conversation — stored locally in SQLite, owned by you."
+2026-11-24T17:39:10.337348Z,dev.workers.clearmd.clearmd/clearmd,ClearMD,1.1.0,,streamable-http,URL to Markdown for $0.001 plus 16 agent tools at $0.001-$0.002. x402 USDC. Failed calls free.
+2026-11-24T17:39:39.377303Z,com.jobsglitch/jobs,JobsGlitch,1.1.0,https://github.com/Jobsglitch/jobsglitch-mcp,streamable-http; sse,Search over a million live jobs taken straight from employers' own hiring systems.
+2026-11-24T17:41:13.116221Z,us.neurohome/neuro-home,Neuro Home,1.0.0,,streamable-http,"Book a handyman visit from your chat: describe the problem, see the price, pick a free time."
+2026-11-24T17:42:58.454405Z,dev.pingpong/pingpong,pingpong,0.1.0,https://github.com/smallmodelslab/pingpong,,"Codex and Claude Code agents see each other's work, ask each other questions and share notes."
+2026-11-24T17:43:42.341529Z,com.mixily/mixily,Mixily,1.0.0,,streamable-http,Create RSVP pages for parties and gatherings. Invites only send after the host approves them.
+2026-11-24T17:45:06.178075Z,io.github.Callahan-ci/quartet-qe,Quartet QE,0.1.0,https://github.com/Callahan-ci/quartet-qe,,"AI test framework: turn a user story into end-to-end tests for APIs, web and Android."
+2026-11-24T17:46:33.460454Z,app.bestappify/shopify-app-store,BestAppify — Shopify App Store Intelligence,1.1.0,,streamable-http,"Shopify App Store data for app developers: competitors, reviews, category ranks, GA4, revenue."
+2026-11-24T17:52:58.388449Z,io.github.kapwing/kapwing,Kapwing,0.0.1,,streamable-http,"Upload, edit, caption, translate, dub, and export videos in your Kapwing workspace."
+2026-11-24T17:53:22.046345Z,ru.paydadosh/dictionary,PaydaDosh — Ingush dictionary,1.1.1,https://github.com/paydadosh/paydadosh-mcp,streamable-http,"Ingush–Russian dictionary: lookup, word analysis, paradigms, corpus examples, text checks"
+2026-11-24T17:56:27.820888Z,mx.lomitos/adopciones,Lomitos: adopción de perros y gatos en México,1.0.0,,streamable-http,Search dogs and cats for adoption in Mexican shelters. Free and read-only.
+2026-11-24T17:56:29.523941Z,ai.laimon/id,Laimon ID,1.0.0,,streamable-http,"Sign in with Laimon for your apps: register OIDC clients, manage access and org webhooks."
+2026-11-24T17:57:14.877811Z,de.versendo/versendo,Versendo,1.0.0,,streamable-http,"Send real paper letters by post to recipients in Germany, also as registered mail."
+2026-11-24T18:00:19.674352Z,io.github.MatRouter/matrouter,MatRouter,0.11.2,,,"Search materials databases and retrieve source-traceable evidence, structures, and spectra."
+2026-11-24T18:03:02.777116Z,com.seller-alert/mcp,SellerAlert,1.0.0,,streamable-http,"Wildberries and Ozon seller analytics in chat: sales, ads, profit, A/B tests of product photos"
+2026-11-24T18:03:41.433597Z,io.github.alexsofronas/searchmaster,SearchMaster,1.2.0,https://github.com/alexsofronas/searchmaster-mcp,streamable-http,"Company and competitor ranks across ChatGPT, Claude, Gemini, Grok, and Perplexity."
+2026-11-24T18:03:56.278465Z,io.voiceaiagents/directory,voiceaiagents.io,1.0.0,,streamable-http,"Search and compare voice AI agents, with pricing and features checked on each vendor's site."
+2026-11-24T18:04:04.384546Z,me.minichef/minichef,Minichef,1.2.0,,streamable-http,"Save recipes from any website, Instagram, TikTok or photo; plan meals and build your grocery list."
+2026-11-24T18:06:17.813109Z,com.trybeforeandafter/booking,Before + After,1.0.0,,streamable-http,"Find local service providers, see real prices and prepare a checkout the customer pays on."
+2026-11-24T18:06:21.80414Z,io.github.owaisahmad870/forewit,,0.1.1,https://github.com/owaisahmad870/forewit,,Verifiable forecasting track record for Agent ID holders on BNB Smart Chain. Never signs.
+2026-11-24T18:09:57.415242Z,io.github.abenassi/argentina-data,Argentina Data,0.5.2,https://github.com/abenassi/argentina-data-mcp,streamable-http,"Argentine official open data: dollar, BCRA, INDEC, ARCA tax rules, InfoLeg, SEPA prices, census."
+2026-11-24T18:10:03.742819Z,io.github.JohMey/onesimulation,OneSimulation,1.0.0,https://github.com/JohMey/OneSimulation-Showcase,,"Physics simulation with OneSimulation: build, run and read studies; search worked examples."
+2026-11-24T18:14:10.986424Z,com.angelsend/crm,AngelSend CRM,2.44.0,https://github.com/aw3-technology/angelsend-claude,streamable-http,"Agentic CRM: contacts, campaigns, personalized email from your own mailbox, replies, deals."
+2026-11-24T18:16:01.16176Z,com.geopagespeed/scanner,GeoPageSpeed,1.0.0,,streamable-http,"Check if ChatGPT, Claude, Perplexity and Google AI can reach, read and quote a web page."
+2026-11-24T18:16:26.458948Z,io.github.sina158/spectre-markets,,1.0.2,,streamable-http,"Free, no key: daily gamma levels for NQ, ES, BTC, ETH + session paths. Research/education only."
+2026-11-24T18:17:11.054363Z,cz.srovname/catalog,Srovname.cz,1.0.0,,streamable-http,Search the Srovname.cz catalog of products and prices from Czech online shops.
+2026-11-24T18:18:14.838136Z,io.github.PagerDuty/pagerduty-mcp,PagerDuty,1.0.0,,streamable-http; streamable-http,"PagerDuty's official hosted MCP server: incidents, on-call, services, schedules and more."
