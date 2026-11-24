@@ -9,61 +9,59 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 14:21 UTC
+## Latest list — 2026-11-24 15:21 UTC
 
-New MCP servers published between 2026-11-24 13:20 UTC and 2026-11-24 14:21 UTC.
+New MCP servers published between 2026-11-24 14:21 UTC and 2026-11-24 15:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-24T14-21-29-441484Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-24T15-21-11-585298Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-24 13:21:15 | ie.kaditham/shopfront | Your Shopfront website | 1.14.1 | Create and run your Shopfront website from your own AI: words, design, bookings… |
-| 2026-11-24 13:22:26 | com.logfunnel/logfunnel | LogFunnel | 1.0.0 | Ask about your product's events and funnels, and set up Slack, Discord or Teleg… |
-| 2026-11-24 13:26:46 | ai.anitilo/anitilo | Anitilo | 1.0.0 | Set up and run the AI support and sales Agents on your website, and fix what th… |
-| 2026-11-24 13:32:43 | io.github.ladyissy/itinerary-scheduler-api | Travel Itinerary & Opening-Hours Schedu… | 1.0.0 | Deterministic travel scheduler: opening-hours checks, solar sunset alignment, a… |
-| 2026-11-24 13:33:44 | so.growthgenie/growth-genie | Growth Genie | 1.0.0 | Read your AI visibility, prompts and the answers ChatGPT, Claude, Perplexity an… |
-| 2026-11-24 13:33:45 | so.growthgenie/growth-genie-docs | Growth Genie Docs | 1.0.0 | Search and read the Growth Genie docs: MCP tools, OAuth, scopes, errors and the… |
-| 2026-11-24 13:37:07 | com.veridion/data | Veridion | 1.0.0 | Company matching, firmographics, corporate groups, locations, products and ESG… |
-| 2026-11-24 13:37:19 | [io.github.egehazar/decision-intake](https://github.com/egehazar/decision-intake) | DecisionIntake | 1.0.0 | Research preview: US benefits screening that picks the next question and says w… |
-| 2026-11-24 13:42:35 | [io.github.kashaf12/vwatch](https://github.com/kashaf12/vwatch) | vwatch | 0.2.6 | Let agents watch local videos: frame grids, seeks, crops, transcript, loudness… |
-| 2026-11-24 13:43:46 | dev.asotool/asotool | ASOTool | 1.0.0 | App Store and Google Play keyword popularity, difficulty and live ranks for ASO… |
-| 2026-11-24 13:45:40 | page.deed.hy4-verify-catalog-2026/fiatdock-audit-mcp | Fiatdock Audit MCP | 1.0.0 | Keyless x402 MCP for paid crypto price, gas, FX, hash and weather lookups. |
-| 2026-11-24 13:46:05 | net.enroutz/booking | Enroutz Chauffeur Booking | 1.0.0 | Search Enroutz chauffeur coverage in Canada, the US and worldwide and send book… |
-| 2026-11-24 13:48:48 | nl.bandzoeker/bands | BandZoeker | 1.0.0 | Find live bands, DJs and musicians for events in the Netherlands and Belgium (B… |
-| 2026-11-24 13:53:55 | io.github.dabaycode/gnezdo-events | Gnezdo Events | 1.0.0 | Find local events and check session times, prices, availability and registratio… |
-| 2026-11-24 13:53:59 | services.airporttransfer/booking | AirportTransfer.Services | 1.0.0 | Book chauffeured transfers worldwide: airports, FBOs, hotels, cruise ports and… |
-| 2026-11-24 13:54:00 | services.torontoairporttransfer/booking | TorontoAirportTransfer.services | 1.0.0 | Toronto airport transfers: Pearson, Billy Bishop and cross-border rides, plus w… |
-| 2026-11-24 13:54:02 | com.limousineworldwideservices/booking | LimousineWorldwideServices.com | 1.0.0 | Worldwide chauffeur and limousine bookings: search coverage, read city guides,… |
-| 2026-11-24 13:54:04 | com.blacksprinters/booking | BlackSprinters.com | 1.0.0 | Group transport in 60 cities: Jet Sprinters, party buses, limousines and coache… |
-| 2026-11-24 13:54:06 | com.cobourglimo/booking | CobourgLimo.com | 1.0.0 | Cobourg and Northumberland County black car and limo service: packages, fares a… |
-| 2026-11-24 13:54:07 | com.huntsvillelimousine/booking | HuntsvilleLimousine.com | 1.0.0 | Huntsville and Muskoka black car and limo service: packages, fares and ride req… |
-| 2026-11-24 13:54:09 | com.moovlimo/booking | MoovLimo | 1.0.0 | Luxury chauffeur service for airports, FBOs, events, venues and resorts worldwi… |
-| 2026-11-24 13:54:11 | net.oshawalimo/booking | OshawaLimo.net | 1.0.0 | Oshawa and Durham Region black car and limo service: packages, fares and ride r… |
-| 2026-11-24 13:54:12 | com.blacklinelimousineservice/booking | BlackLine Limousine Service | 1.0.0 | BlackLine Limousine Service: search chauffeur coverage, read local guides and r… |
-| 2026-11-24 13:54:14 | directory.limousine/booking | Limousine.Directory | 1.0.0 | Book sedans, SUVs, Sprinters, stretch limos and party buses in the US, Canada a… |
-| 2026-11-24 13:54:16 | com.limofarmout/booking | LimoFarmOut | 1.0.0 | Quote and book chauffeured trips through the LimoFarmOut operator network; chec… |
-| 2026-11-24 13:55:12 | si.tehnokot/shop | Tehnokot.si | 1.1.0 | Used business IT shop in Slovenia: search, stock, cart links, orders paid by th… |
-| 2026-11-24 13:55:23 | services.americanlimousine/booking | AmericanLimousine.Services | 1.0.0 | Fixed-fare black car, limo, SUV, Sprinter and motorcoach service across the Uni… |
-| 2026-11-24 13:55:25 | net.barrielimo/booking | BarrieLimo.net | 1.0.0 | Barrie, Ontario limo service: Pearson and Billy Bishop transfers, ski resorts,… |
-| 2026-11-24 13:55:27 | com.blaaklane/booking | BlaakLane.com | 1.0.0 | Global chauffeur service in 500 cities: airport, corporate, crew, cruise and pr… |
-| 2026-11-24 13:55:29 | services.blackcarlivery/booking | BlackCarLivery.Services | 1.0.0 | Toronto black car livery: airport limo, hourly and private chauffeurs, corporat… |
-| 2026-11-24 13:55:30 | net.bookingsworldwide/booking | BookingsWorldwide.net | 1.0.0 | Travel platform: request executive chauffeur and airport transfers; flights and… |
-| 2026-11-24 13:55:32 | com.buktryp/booking | BukTryp | 1.0.0 | Flat-rate limo service in Toronto and the GTA: Pearson transfers, party buses,… |
-| 2026-11-24 13:55:34 | com.corporateblacklimousine/booking | CorporateBlackLimousine.com | 1.0.0 | Corporate black car service worldwide: roadshows, FBO pickups, airport and city… |
-| 2026-11-24 13:55:55 | com.blackryde/booking | BlackRyde.com | 1.0.0 | Worldwide limousine service: airport transfers, corporate travel, concerts, wed… |
-| 2026-11-24 13:58:43 | [io.github.sevana-ou/voice-quality](https://github.com/sevana-ou/voice-quality-mcp) |  | 1.0.0 | Voice/VoIP call-quality analysis for AI agents: MOS (PVQA/AQuA) and PCAP/RTP/SI… |
-| 2026-11-24 14:00:19 | [io.github.kaiwena-sudo/archibase](https://github.com/rekaiwena-sudo/archibase) | Archibase floor plans | 0.1.1 | Structured, license-clean floor plan data for AI agents. Pay per call in USDC v… |
-| 2026-11-24 14:02:25 | io.github.ai-ip/dataquant |  | 1.0.0 | Six-market financial data (A/US/HK stocks, crypto, indices, ETFs): symbols, kli… |
-| 2026-11-24 14:03:22 | io.github.usetell/tell | Tell | 1.0.0 | Agentic outreach: find people, verify work emails, write openers, send sequence… |
-| 2026-11-24 14:05:48 | com.aipromocodefinder/promo-code-finder | Promo Code Finder | 0.1.0 | Promo codes and sales for online stores, with each code's source and whether a… |
-| 2026-11-24 14:09:30 | site.chatgpt.yixi0527431441.dataset-card-evidence/dataset-card-evidence | Dataset Card Evidence | 0.1.0 | Compare Hugging Face dataset license labels and access gates across two revisio… |
-| 2026-11-24 14:11:28 | app.sayelf/sayelf | Sayelf | 2.1.0 | A lead agent and 7 agents: free 3D lessons, engineering, manufacturing, content… |
-| 2026-11-24 14:12:35 | com.plainrecordlabs/image-upscaler | Image Upscaler 2x 3x 4x (Real-ESRGAN on… | 1.0.0 | Upscales images 2x to 4x. Apify token needed. 0.0025 USD an image, 0.004 USD a… |
-| 2026-11-24 14:12:51 | com.gokaching/mcp | GoKaching | 1.0.0 | Clients, quotes and invoices from your free GoKaching account. Sending waits fo… |
-| 2026-11-24 14:12:57 | [io.github.SMABoundless/scopus](https://github.com/SMABoundless/scopus-mcp-server.git) |  | 1.1.0 | Search Scopus abstracts, authors, and export citations via Elsevier API |
-| 2026-11-24 14:14:00 | [io.github.Keized/sncf-mcp](https://github.com/Keized/sncf-mcp) | SNCF trains | 0.1.1 | SNCF train schedules, realtime delays and disruptions (TER, TGV, Intercités). |
-| 2026-11-24 14:16:52 | [io.github.bytebase/bytebase-mcp](https://github.com/bytebase/bytebase-mcp) | Bytebase | 0.1.0 | Query, inspect, and change databases through Bytebase's governed workflow with… |
-| 2026-11-24 14:21:17 | app.rendrr/biterminal | Biterminal | 1.0.0 | Bitcoin-only news, sentiment and daily digests for AI agents. Read tools need n… |
+| 2026-11-24 14:21:50 | com.reeltoscript/reeltoscript | ReelToScript | 1.0.0 | Transcripts of Instagram Reels, TikTok, Facebook, YouTube and X videos: text, s… |
+| 2026-11-24 14:22:50 | [io.github.The-825/a2a-trust-plane](https://github.com/The-825/Trust-Plane) | A2A Trust Plane | 0.1.1 | Independent witness for agent work: verified handoffs, bound approvals, and rec… |
+| 2026-11-24 14:24:37 | com.qrpainter/qrpainter | QRPainter | 0.1.0 | Turn pictures into editable QR codes, test how well they scan, and export them… |
+| 2026-11-24 14:29:49 | com.sharpyield/portfolio | Sharpyield | 1.0.0 | Read-only access to your Sharpyield portfolio: positions, performance, dividend… |
+| 2026-11-24 14:30:00 | [io.sheafhq/mcp-tools](https://github.com/sheafhq/sheaf) | Sheaf | 0.2.2 | Verify tamper-evident receipts for AI agent tool calls; query Sheaf chains and… |
+| 2026-11-24 14:32:08 | io.github.LMH-Solutions/agent-data-tools | LMH Agent Data Tools | 1.0.0 | Web page to Markdown, SEC EDGAR, openFDA, PyPI/npm, grants & company data tools… |
+| 2026-11-24 14:34:03 | br.com.eapbuild/eapbuild | eapbuild | 1.0.0 | Orçamento de obra com IA: projetos, EAP, pendências, edição da EAP e link do cl… |
+| 2026-11-24 14:34:25 | [io.github.templarfelix/hwinfo-mcp](https://github.com/templarfelix/hwinfo-mcp) | HWiNFO sensors | 0.0.1 | Read-only access to the hardware sensors HWiNFO monitors on a Windows PC. |
+| 2026-11-24 14:35:47 | me.agentdiscover/agentdiscover | AgentDiscover | 0.1.0 | Find local and online businesses and their products, and send requests the user… |
+| 2026-11-24 14:36:08 | chat.wyp/docs | WYP.chat documentation | 1.1.0 | Read-only WYP.chat docs: help, guides, glossary, trade and channel pages, in fr… |
+| 2026-11-24 14:36:25 | io.swipesign/swipesign | swipesign | 1.0.0 | Prepare, send and track e-signatures from your AI assistant. European, eIDAS-qu… |
+| 2026-11-24 14:36:56 | [com.kaspalinks/kaspa-links](https://github.com/KaspaLinks/kaspalinks) | Kaspa Links | 1.1.0 | Prepare Kaspa payment links, claim links and on-chain giveaways, and list open… |
+| 2026-11-24 14:38:26 | [io.webz/webz](https://github.com/Webhose/webz-mcp-plugin) | Webz.io | 1.0.0 | Dark Web and Open Web in one connector, with one sign-in. |
+| 2026-11-24 14:38:26 | [io.webz/breaches](https://github.com/Webhose/webz-mcp-plugin) | Webz.io Breaches | 1.0.0 | Exposure monitoring for your domains in data breaches and infostealer logs. |
+| 2026-11-24 14:38:27 | [io.webz/cookies](https://github.com/Webhose/webz-mcp-plugin) | Webz.io Cookies | 1.0.0 | Session cookies of your domains stolen by infostealer malware, so the sessions… |
+| 2026-11-24 14:38:27 | [io.webz/nhi](https://github.com/Webhose/webz-mcp-plugin) | Webz.io NHI | 1.0.0 | API keys and tokens of your domains stolen by infostealer malware, so they can… |
+| 2026-11-24 14:38:28 | [io.webz/dark-web-answers](https://github.com/Webhose/webz-mcp-plugin) | Webz.io Dark Web Answers | 1.0.0 | Direct answers to threat intelligence questions, with citations from dark web c… |
+| 2026-11-24 14:39:23 | [io.github.kramdayal-create/sa-municipal-finance-mcp](https://github.com/kramdayal-create/sa-municipal-finance-mcp) | SA Municipal Finance MCP | 0.1.0 | South African municipal finances: Treasury health scores, audit outcomes, suppl… |
+| 2026-11-24 14:40:35 | [io.github.Piyoone3939/rungkit](https://github.com/Piyoone3939/rungkit) | rungkit | 0.2.0 | PLC ladder logic for AI agents: edit over MCP, check on a scan simulator (MELSE… |
+| 2026-11-24 14:43:38 | com.oysteraero/oyster-aero | Oyster Aero | 1.1.0 | Find aircraft parts, repair shops and bundles on Oyster Aero, and send RFQs onc… |
+| 2026-11-24 14:44:01 | com.literess/literess | Literess | 1.0.0 | Work in a writer's Literess manuscripts: read pages, comment, suggest tracked e… |
+| 2026-11-24 14:44:31 | uk.co.onibaku/pluckbox | Pluckbox | 1.0.0 | Parse invoices, receipts, PDFs and emails into the JSON fields you define, with… |
+| 2026-11-24 14:44:42 | uk.co.onibaku/tellstack | Tellstack | 1.0.0 | Look up any website's tech stack with evidence, and find websites that use a te… |
+| 2026-11-24 14:44:57 | [io.github.lukBB/snapstudio-mcp](https://github.com/lukBB/snapstudio-mcp) | SnapStudio | 1.2.0 | Design on your Mac: templates, App Store screenshots, carousels, upscaling, bac… |
+| 2026-11-24 14:47:32 | [io.github.prag-ai/ai-tool-audit](https://github.com/prag-ai/ai-tool-audit) | AI Tool Audit | 0.2.1 | Read-only, offline audit of AI coding tool settings (Claude Code, Codex, Cursor… |
+| 2026-11-24 14:50:30 | io.usetutti/tutti | Tutti | 1.0.0 | Your Tutti account for tradespeople: invoices, quotes, customers and who owes y… |
+| 2026-11-24 14:51:02 | dev.botbarn/botbarn | BotBarn | 1.0.0 | Host Telegram bots: create a bot, upload its code, deploy, read logs and set va… |
+| 2026-11-24 14:58:06 | com.economicmind/mcp | Economic Mind | 1.0.0 | Bottom-up market sizes, growth and players, plus company financials, peers and… |
+| 2026-11-24 14:59:02 | co.reparse/reparse | Reparse | 1.0.0 | Create interactive homework in chat, share a link, and review student answers. |
+| 2026-11-24 15:00:09 | [io.github.KeldynAI/keldyn-mcp](https://github.com/KeldynAI/web) |  | 1.0.0 | An MCP server that provides agents access to the KeldynAI platform |
+| 2026-11-24 15:00:45 | io.gridstatus/mcp | Grid Status | 1.0.0 | Real-time and historical electricity grid data from North American ISOs: prices… |
+| 2026-11-24 15:01:39 | [io.github.walkley/cn-calendar](https://github.com/walkley/x402-content-site) | China Workday Calendar | 1.0.0 | China workdays with official holidays and makeup days, plus package CVE checks.… |
+| 2026-11-24 15:01:48 | [io.github.Spyridon-Pikoulas/youtube-transcript-cloud](https://github.com/Spyridon-Pikoulas/youtube-transcript-cloud) | YouTube Transcripts (cloud) | 0.1.0 | YouTube video and Shorts transcripts that work from cloud servers, read on Apif… |
+| 2026-11-24 15:02:34 | [com.datawatongchal/korea-data](https://github.com/datawatongchal/korea-data-mcp) | Korea Data (데이터와통찰) | 1.0.0 | AI가 한국 공공데이터를 조회합니다: 조달·국방조달·상권·부동산·땅·기업·공시·수출입·창업지원 |
+| 2026-11-24 15:06:20 | info.relayrace/agentmarket | AgentMarket | 0.14.0 | AI-to-AI marketplace MCP: News/Web/Data/Docs via x402 USDC on Base. |
+| 2026-11-24 15:06:23 | [com.creatordeskai/machine-products](https://github.com/creatordeskai-prog/CreatorDesk-x402-factory) | Creator Desk Machine Products | 0.11.1 | Pay-per-call x402 agent tools: extract, inspect, DNS, links, preflight, commerc… |
+| 2026-11-24 15:08:02 | [app.uteke/uteke-memory](https://github.com/codecoradev/uteke) | Uteke - Long Term Memory for AI Agents | 0.24.1 | Long-term memory for AI agents: hybrid vector and full-text recall, rooms, time… |
+| 2026-11-24 15:08:11 | com.picktimeapp/booking | Booking for agents | 1.0.0 | Calendly for AI agents: booking pages for the person you work for. It sends no… |
+| 2026-11-24 15:08:20 | [io.github.root7-labs/biodata-mcp](https://github.com/root7-labs/biodata-mcp) | BioData MCP | 0.1.1 | Cited biomedical research: search PubMed, ClinicalTrials.gov, UniProt and Ensem… |
+| 2026-11-24 15:10:56 | com.sonnaru/human-help | Sonnaru Human Help (public, read-only) | 1.0.0 | Read-only, no sign-in: Sonnaru's fixed-price services, how to request human hel… |
+| 2026-11-24 15:11:52 | [ai.nativeport/rooms](https://github.com/nativeport/nativeport-rooms-mcp) | NativePort Rooms | 1.0.0 | Your AI in your team's NativePort rooms: read, write, follow a conversation, pr… |
+| 2026-11-24 15:11:54 | ai.rankcycle/seo | RankCycle | 2.1.0 | AI SEO from your Search Console data: find pages losing clicks, fix them, measu… |
+| 2026-11-24 15:13:18 | [io.github.root7-labs/sa-municipal-finance-mcp](https://github.com/root7-labs/sa-municipal-finance-mcp) | SA Municipal Finance MCP | 0.1.1 | South African municipal finances: Treasury health scores, audit outcomes, suppl… |
+| 2026-11-24 15:15:28 | [io.github.chempane/chempane](https://github.com/chempane/chempane) | chempane | 0.12.0 | Interactive chemistry panels for structures, 3D models, proteins, mechanisms, s… |
+| 2026-11-24 15:20:06 | [io.github.allooloo/getcounterparty](https://github.com/allooloo/cm-kg) | Allooloo Counterparty | 0.29.0 | Licence status of capital markets firms, read from the regulator's own register… |
 
 ## Data source
 

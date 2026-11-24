@@ -1,0 +1,46 @@
+created_at,server,title,version,repository,transports,description
+2026-11-24T14:21:50.287383Z,com.reeltoscript/reeltoscript,ReelToScript,1.0.0,,streamable-http,"Transcripts of Instagram Reels, TikTok, Facebook, YouTube and X videos: text, segments, SRT or VTT."
+2026-11-24T14:22:50.221336Z,io.github.The-825/a2a-trust-plane,A2A Trust Plane,0.1.1,https://github.com/The-825/Trust-Plane,streamable-http,"Independent witness for agent work: verified handoffs, bound approvals, and receipts."
+2026-11-24T14:24:37.352683Z,com.qrpainter/qrpainter,QRPainter,0.1.0,,streamable-http,"Turn pictures into editable QR codes, test how well they scan, and export them for print."
+2026-11-24T14:29:49.019967Z,com.sharpyield/portfolio,Sharpyield,1.0.0,,streamable-http,"Read-only access to your Sharpyield portfolio: positions, performance, dividends and taxes."
+2026-11-24T14:30:00.265384Z,io.sheafhq/mcp-tools,Sheaf,0.2.2,https://github.com/sheafhq/sheaf,,Verify tamper-evident receipts for AI agent tool calls; query Sheaf chains and Merkle proofs.
+2026-11-24T14:32:08.698928Z,io.github.LMH-Solutions/agent-data-tools,LMH Agent Data Tools,1.0.0,,streamable-http,"Web page to Markdown, SEC EDGAR, openFDA, PyPI/npm, grants & company data tools for AI agents."
+2026-11-24T14:34:03.789937Z,br.com.eapbuild/eapbuild,eapbuild,1.0.0,,streamable-http,"Orçamento de obra com IA: projetos, EAP, pendências, edição da EAP e link do cliente."
+2026-11-24T14:34:25.433393Z,io.github.templarfelix/hwinfo-mcp,HWiNFO sensors,0.0.1,https://github.com/templarfelix/hwinfo-mcp,,Read-only access to the hardware sensors HWiNFO monitors on a Windows PC.
+2026-11-24T14:35:47.370238Z,me.agentdiscover/agentdiscover,AgentDiscover,0.1.0,,streamable-http,"Find local and online businesses and their products, and send requests the user confirms."
+2026-11-24T14:36:08.399859Z,chat.wyp/docs,WYP.chat documentation,1.1.0,,streamable-http,"Read-only WYP.chat docs: help, guides, glossary, trade and channel pages, in fr, es, en."
+2026-11-24T14:36:25.931468Z,io.swipesign/swipesign,swipesign,1.0.0,,streamable-http,"Prepare, send and track e-signatures from your AI assistant. European, eIDAS-qualified."
+2026-11-24T14:36:56.860079Z,com.kaspalinks/kaspa-links,Kaspa Links,1.1.0,https://github.com/KaspaLinks/kaspalinks,streamable-http,"Prepare Kaspa payment links, claim links and on-chain giveaways, and list open giveaways."
+2026-11-24T14:38:26.330667Z,io.webz/webz,Webz.io,1.0.0,https://github.com/Webhose/webz-mcp-plugin,streamable-http,"Dark Web and Open Web in one connector, with one sign-in."
+2026-11-24T14:38:26.914541Z,io.webz/breaches,Webz.io Breaches,1.0.0,https://github.com/Webhose/webz-mcp-plugin,streamable-http,Exposure monitoring for your domains in data breaches and infostealer logs.
+2026-11-24T14:38:27.462014Z,io.webz/cookies,Webz.io Cookies,1.0.0,https://github.com/Webhose/webz-mcp-plugin,streamable-http,"Session cookies of your domains stolen by infostealer malware, so the sessions can be revoked."
+2026-11-24T14:38:27.984253Z,io.webz/nhi,Webz.io NHI,1.0.0,https://github.com/Webhose/webz-mcp-plugin,streamable-http,"API keys and tokens of your domains stolen by infostealer malware, so they can be rotated."
+2026-11-24T14:38:28.510362Z,io.webz/dark-web-answers,Webz.io Dark Web Answers,1.0.0,https://github.com/Webhose/webz-mcp-plugin,streamable-http,"Direct answers to threat intelligence questions, with citations from dark web content."
+2026-11-24T14:39:23.97516Z,io.github.kramdayal-create/sa-municipal-finance-mcp,SA Municipal Finance MCP,0.1.0,https://github.com/kramdayal-create/sa-municipal-finance-mcp,,"South African municipal finances: Treasury health scores, audit outcomes, supplier payment risk."
+2026-11-24T14:40:35.55696Z,io.github.Piyoone3939/rungkit,rungkit,0.2.0,https://github.com/Piyoone3939/rungkit,,"PLC ladder logic for AI agents: edit over MCP, check on a scan simulator (MELSEC, IEC)."
+2026-11-24T14:43:38.743967Z,com.oysteraero/oyster-aero,Oyster Aero,1.1.0,,streamable-http,"Find aircraft parts, repair shops and bundles on Oyster Aero, and send RFQs once signed in."
+2026-11-24T14:44:01.441433Z,com.literess/literess,Literess,1.0.0,,streamable-http,"Work in a writer's Literess manuscripts: read pages, comment, suggest tracked edits, chat with her."
+2026-11-24T14:44:31.697208Z,uk.co.onibaku/pluckbox,Pluckbox,1.0.0,,streamable-http,"Parse invoices, receipts, PDFs and emails into the JSON fields you define, with AI."
+2026-11-24T14:44:42.024324Z,uk.co.onibaku/tellstack,Tellstack,1.0.0,,streamable-http,"Look up any website's tech stack with evidence, and find websites that use a technology."
+2026-11-24T14:44:57.409402Z,io.github.lukBB/snapstudio-mcp,SnapStudio,1.2.0,https://github.com/lukBB/snapstudio-mcp,,"Design on your Mac: templates, App Store screenshots, carousels, upscaling, background removal."
+2026-11-24T14:47:32.049211Z,io.github.prag-ai/ai-tool-audit,AI Tool Audit,0.2.1,https://github.com/prag-ai/ai-tool-audit,,"Read-only, offline audit of AI coding tool settings (Claude Code, Codex, Cursor, MCP)"
+2026-11-24T14:50:30.387089Z,io.usetutti/tutti,Tutti,1.0.0,,streamable-http,"Your Tutti account for tradespeople: invoices, quotes, customers and who owes you money."
+2026-11-24T14:51:02.403429Z,dev.botbarn/botbarn,BotBarn,1.0.0,,streamable-http,"Host Telegram bots: create a bot, upload its code, deploy, read logs and set variables."
+2026-11-24T14:58:06.034848Z,com.economicmind/mcp,Economic Mind,1.0.0,,streamable-http,"Bottom-up market sizes, growth and players, plus company financials, peers and ownership."
+2026-11-24T14:59:02.411862Z,co.reparse/reparse,Reparse,1.0.0,,streamable-http,"Create interactive homework in chat, share a link, and review student answers."
+2026-11-24T15:00:09.140534Z,io.github.KeldynAI/keldyn-mcp,,1.0.0,https://github.com/KeldynAI/web,streamable-http,An MCP server that provides agents access to the KeldynAI platform
+2026-11-24T15:00:45.266429Z,io.gridstatus/mcp,Grid Status,1.0.0,,streamable-http,"Real-time and historical electricity grid data from North American ISOs: prices, load, fuel mix"
+2026-11-24T15:01:39.957211Z,io.github.walkley/cn-calendar,China Workday Calendar,1.0.0,https://github.com/walkley/x402-content-site,streamable-http,"China workdays with official holidays and makeup days, plus package CVE checks. Free daily quota."
+2026-11-24T15:01:48.918118Z,io.github.Spyridon-Pikoulas/youtube-transcript-cloud,YouTube Transcripts (cloud),0.1.0,https://github.com/Spyridon-Pikoulas/youtube-transcript-cloud,,"YouTube video and Shorts transcripts that work from cloud servers, read on Apify with your token"
+2026-11-24T15:02:34.515854Z,com.datawatongchal/korea-data,Korea Data (데이터와통찰),1.0.0,https://github.com/datawatongchal/korea-data-mcp,streamable-http,AI가 한국 공공데이터를 조회합니다: 조달·국방조달·상권·부동산·땅·기업·공시·수출입·창업지원
+2026-11-24T15:06:20.742564Z,info.relayrace/agentmarket,AgentMarket,0.14.0,,streamable-http,AI-to-AI marketplace MCP: News/Web/Data/Docs via x402 USDC on Base.
+2026-11-24T15:06:23.500379Z,com.creatordeskai/machine-products,Creator Desk Machine Products,0.11.1,https://github.com/creatordeskai-prog/CreatorDesk-x402-factory,streamable-http,"Pay-per-call x402 agent tools: extract, inspect, DNS, links, preflight, commerce."
+2026-11-24T15:08:02.127048Z,app.uteke/uteke-memory,Uteke - Long Term Memory for AI Agents,0.24.1,https://github.com/codecoradev/uteke,streamable-http,"Long-term memory for AI agents: hybrid vector and full-text recall, rooms, time-travel."
+2026-11-24T15:08:11.427053Z,com.picktimeapp/booking,Booking for agents,1.0.0,,streamable-http,Calendly for AI agents: booking pages for the person you work for. It sends no email; you do.
+2026-11-24T15:08:20.867893Z,io.github.root7-labs/biodata-mcp,BioData MCP,0.1.1,https://github.com/root7-labs/biodata-mcp,,"Cited biomedical research: search PubMed, ClinicalTrials.gov, UniProt and Ensembl from one server."
+2026-11-24T15:10:56.439823Z,com.sonnaru/human-help,"Sonnaru Human Help (public, read-only)",1.0.0,,streamable-http,"Read-only, no sign-in: Sonnaru's fixed-price services, how to request human help, open paid tasks."
+2026-11-24T15:11:52.577848Z,ai.nativeport/rooms,NativePort Rooms,1.0.0,https://github.com/nativeport/nativeport-rooms-mcp,streamable-http,"Your AI in your team's NativePort rooms: read, write, follow a conversation, prepare a decision."
+2026-11-24T15:11:54.54763Z,ai.rankcycle/seo,RankCycle,2.1.0,,streamable-http,"AI SEO from your Search Console data: find pages losing clicks, fix them, measure every change."
+2026-11-24T15:13:18.205667Z,io.github.root7-labs/sa-municipal-finance-mcp,SA Municipal Finance MCP,0.1.1,https://github.com/root7-labs/sa-municipal-finance-mcp,,"South African municipal finances: Treasury health scores, audit outcomes, supplier payment risk."
+2026-11-24T15:15:28.114882Z,io.github.chempane/chempane,chempane,0.12.0,https://github.com/chempane/chempane,,"Interactive chemistry panels for structures, 3D models, proteins, mechanisms, spectra and lab plots."
+2026-11-24T15:20:06.633645Z,io.github.allooloo/getcounterparty,Allooloo Counterparty,0.29.0,https://github.com/allooloo/cm-kg,streamable-http,"Licence status of capital markets firms, read from the regulator's own register. Signed, receipted."
