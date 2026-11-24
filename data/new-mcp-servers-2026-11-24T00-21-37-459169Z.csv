@@ -1,0 +1,38 @@
+created_at,server,title,version,repository,transports,description
+2026-11-23T23:23:07.173867Z,ai.ruam/ruam,ruam.ai,0.2.1,,streamable-http; streamable-http,"Track time for remote teams and AI agents: hours, timesheets, approvals and agent runs per client."
+2026-11-23T23:23:07.535808Z,ai.ruam/agents,ruam.ai for AI agents,0.2.1,,streamable-http,"AI agent time tracking per client. Claude Code, Codex, Cursor, OpenClaw, Hermes, Grok Bot, any MCP."
+2026-11-23T23:23:50.581345Z,io.github.motazalmaroai/nanoflags,NanoFlags,0.3.0,https://github.com/motazalmaroai/nanoflags-sdk,streamable-http,"Feature flags for AI agents: create flags, edit drafts, open change requests. People approve."
+2026-11-23T23:27:41.958279Z,xyz.quantumatlas/nft-collab-5050-hub,Quantum Atlas 50/50 NFT Collaboration & B2B Partner Hub,1.1.0,,streamable-http,"50/50 Base NFT collab MCP: B2B partner splits, 4-wall safety preflight, media quarantine & staging."
+2026-11-23T23:28:17.967225Z,free.calculator/mcp,Calculator.Free,1.0.0,,streamable-http,Find 200+ calculators and run them with the same formulas as the website
+2026-11-23T23:28:24.714512Z,com.finishthis/finishthis,FinishThis,1.0.0,,streamable-http,Hire vetted human writers and editors from your AI chat.
+2026-11-23T23:29:36.521573Z,io.github.sengirunners/potluck,Potluck,0.1.0,https://github.com/sengirunners/potluck,,Throwaway VMs and sandboxes for coding agents on Macs and Linux boxes you own.
+2026-11-23T23:31:14.416707Z,io.github.JD-ZY/datapress,datapress: UK & EU business data,1.0.0,https://github.com/JD-ZY/datapress-mcp,streamable-http,"UK/EU/US tenders, Companies House + financials, EU registers, job boards, app stores, domain checks."
+2026-11-23T23:32:14.316618Z,studio.perfectdimension/intervals,Intervals,1.2.0,,streamable-http,"Run history, fitness trends, training schedule and coached workouts from the Intervals running app."
+2026-11-23T23:32:23.647161Z,io.github.oscilabs/charitysense,CharitySense Nonprofit Research,1.0.0,,streamable-http,"Research U.S. nonprofits: IRS filings, financials, governance, grants, ratings and cited evidence."
+2026-11-23T23:33:22.58802Z,io.github.KSym04/limpet,,0.18.0,https://github.com/KSym04/limpet,,"Persistent engineering memory for AI coding agents. Survives refactors, knows when it is stale."
+2026-11-23T23:35:12.97849Z,com.skavelo/skavelo,Skavelo,1.0.0,https://github.com/Skavelo/ai-assistants,streamable-http,"Set up Skavelo, the AI guide for your web app, from your AI assistant. Signs in with OAuth."
+2026-11-23T23:42:19.15148Z,com.pricesway/pricing,PriceSway,1.0.0,,streamable-http,"Pricing sums for online stores: profit per sale, competitor pricing rules, price-change estimates."
+2026-11-23T23:50:21.758748Z,ai.sprites/ads,Sprites Ads,1.0.0,,streamable-http,"One hosted MCP for Google, Meta, LinkedIn, TikTok, Reddit, Microsoft and Apple ads, with approvals."
+2026-11-23T23:50:21.980543Z,ai.sprites/google-ads,Google Ads (Sprites),1.0.0,,streamable-http,"Read and change Google Ads campaigns, keywords and budgets. Every change waits for your approval."
+2026-11-23T23:50:22.186352Z,ai.sprites/meta-ads,Meta Ads (Sprites),1.0.0,,streamable-http,"Read and change Meta (Facebook, Instagram) ads, budgets and audiences, with approval cards."
+2026-11-23T23:50:22.578591Z,ai.sprites/linkedin-ads,LinkedIn Ads (Sprites),1.0.0,,streamable-http,"Run LinkedIn Ads: campaigns, ABM audiences and cost forecasts. Changes wait for approval."
+2026-11-23T23:50:22.784899Z,ai.sprites/tiktok-ads,TikTok Ads (Sprites),1.0.0,,streamable-http,"Read and manage TikTok Ads campaigns and reports from your AI client, with approvals."
+2026-11-23T23:50:23.046046Z,ai.sprites/reddit-ads,Reddit Ads (Sprites),1.0.0,,streamable-http,"Create and manage Reddit Ads campaigns by community and interest, with approvals."
+2026-11-23T23:50:23.260748Z,ai.sprites/microsoft-ads,Microsoft Ads (Sprites),1.0.0,,streamable-http,"Create and manage Microsoft Advertising (Bing) search campaigns, with approvals."
+2026-11-23T23:50:23.469556Z,ai.sprites/apple-ads,Apple Ads (Sprites),1.0.0,,streamable-http,"Manage Apple Search Ads budgets, bids, keywords and negatives, with approvals."
+2026-11-23T23:50:23.684133Z,ai.sprites/google-analytics,Google Analytics 4 (Sprites),1.0.0,,streamable-http,"Ask GA4 about sessions, conversions and revenue by channel from your AI client."
+2026-11-23T23:50:23.881883Z,ai.sprites/search-console,Search Console (Sprites),1.0.0,,streamable-http,"Read Search Console queries, clicks and positions, and inspect URLs for indexing."
+2026-11-23T23:50:24.115217Z,au.com.byronwebstudio.hypelens/agent-rail,Hyperliquid: liquidation data and safe order placement,0.2.1,,,"Hyperliquid perps: live prices, real liquidation walls, pre-trade check, and gated order placement."
+2026-11-23T23:50:24.156185Z,ai.sprites/shopify,Shopify (Sprites),1.0.0,,streamable-http,"Read Shopify orders by channel and manage products, pages and blog posts, with approvals."
+2026-11-23T23:57:57.682777Z,it.flowrelay/flowrelay,Flow Relay,1.10.0,https://github.com/flow-relay/flowrelay-mcp-server,streamable-http,"Project context, handoffs, Ask with sources, plans and forecasts from your team's tools."
+2026-11-24T00:00:33.814521Z,ai.getwerk/werk,Werk,1.0.0,,streamable-http,Werk moves the work by itself. Now it has a colleague: the assistant you already use.
+2026-11-24T00:01:31.215387Z,com.martinkrakowski/profile,Martin Krakowski — Professional Profile,1.0.0,,streamable-http,"Read-only MCP server for Martin Krakowski's profile, resume, case studies, and technical articles."
+2026-11-24T00:07:57.404665Z,io.github.Sauberr/neckrez,Neckrez,1.0.0,https://github.com/Sauberr/neckrez-mcp,streamable-http,"Rent and manage VPS, dedicated CPU, GPU and bare metal servers, paid in crypto. No KYC."
+2026-11-24T00:08:52.076706Z,ai.dv4/dv4,DV4,1.1.0,,streamable-http,"Make videos, images and product ads from a prompt, then check, list or cancel them."
+2026-11-24T00:09:36.130756Z,com.joinstudyscout/business,StudyScout for Business,1.0.1,,streamable-http,"Paid studies with US adults: surveys, video ad tests, ad rankings, AI interviews, usability tests."
+2026-11-24T00:10:10.109087Z,io.github.Joshuv-AI/tower-of-babel,Tower of Babel,1.0.0,https://github.com/Joshuv-AI/tower-of-babel-catalog,streamable-http,Search and read 2.5M+ public-domain full texts from the Tower of Babel library. No key required.
+2026-11-24T00:10:25.046898Z,io.github.holon-sh/talent,Talent,0.0.1,,,"A recruiter's queue over Ashby, Slack and Gmail: what to do next, and who to chase."
+2026-11-24T00:15:10.130339Z,br.com.finjabs/jabs,Jabs — calculadoras financeiras do Brasil,1.0.0,,streamable-http,57 calculadoras financeiras brasileiras com a curva do Tesouro do dia e as regras lidas na lei.
+2026-11-24T00:15:24.559525Z,com.resolvary/email-finder,Resolvary,1.0.0,,streamable-http,"Find a person's work email from their name and company domain, and verify email addresses."
+2026-11-24T00:17:36.007524Z,ai.knotr/knotr,Knotr,1.0.0,https://github.com/brianejsmont/agentic-self,streamable-http,"OAuth MCP for Knotr profiles, skills, knowledge, style guides, and artifacts."
+2026-11-24T00:18:06.130013Z,net.visualcon/rivus-mcp,XRPL banking data (pay per call in XRP or RLUSD),1.0.0,,streamable-http,"XRPL banking data: corridor cost, issuer due diligence, screening. Pay per call in XRP or RLUSD."
