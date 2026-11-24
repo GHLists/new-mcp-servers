@@ -9,38 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 02:19 UTC
+## Latest list — 2026-11-24 03:19 UTC
 
-New MCP servers published between 2026-11-24 01:21 UTC and 2026-11-24 02:19 UTC.
+New MCP servers published between 2026-11-24 02:19 UTC and 2026-11-24 03:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-24T02-19-04-860008Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-24T03-19-32-3111Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-24 01:25:27 | [com.getnextleg/nextleg](https://github.com/nextleg/plugins) | Nextleg | 0.1.0 | AI-first trip planner: ask about your flights, stays and events, and add or cha… |
-| 2026-11-24 01:31:40 | [com.dixipolis/dixipolis](https://github.com/Dixipolis/dixipolis-mcp) | Dixipolis | 1.0.0 | What French politicians said on TV, radio and in the National Assembly: verbati… |
-| 2026-11-24 01:39:54 | io.github.deividfortuna/fipe | Tabela FIPE | 1.0.0 | Brazilian vehicle prices from the Tabela FIPE: brands, models, years, prices, h… |
-| 2026-11-24 01:42:39 | io.github.orvenix-ai/varikan | VARIKAN: check suppliers before you pay | 1.1.0 | Sanctions screening (OFAC, EU, UK, UN), bank-change fraud checks and supplier d… |
-| 2026-11-24 01:42:41 | io.github.orvenix-ai/orvenix | ORVENIX: contract renewals and EU AI Ac… | 1.0.0 | Find renewal traps and notice deadlines in contracts; screen EU AI Act Article… |
-| 2026-11-24 01:43:52 | live.dream11app/releases | Dream11 App Android Releases | 1.0.0 | Look up current and retained Dream11 App APKs with exact file sizes, SHA-256 an… |
-| 2026-11-24 01:44:08 | monster.multimedia/multimedia-monster | Multimedia Monster | 1.0.0 | Discover Multimedia Monster's social account services, network requirements and… |
-| 2026-11-24 01:49:16 | br.api.fipe/fipe | Tabela FIPE | 1.0.0 | Brazilian vehicle prices from the Tabela FIPE: brands, models, years, prices, h… |
-| 2026-11-24 01:52:10 | site.cerex/desktop | CereX | 4.0.0-alpha.9.post50 | Review spreadsheet exports on a paired computer and save exceptions for an oper… |
-| 2026-11-24 01:54:57 | [dev.mojourney/census](https://github.com/morca-dev/census) | Mojourney | 1.21.0 | The Mojo ecosystem census: search public Mojo repos, their Mojo versions and gr… |
-| 2026-11-24 01:55:17 | io.ampost/mcp | Ampost | 1.0.0 | Schedule and publish social media posts to Instagram, Facebook, X, YouTube and… |
-| 2026-11-24 01:56:53 | com.infinitylooper/loops | InfinityLooper | 1.0.0 | Search and download free looping video backgrounds for streams, calls, wallpape… |
-| 2026-11-24 01:57:33 | [io.github.DueWallLabs/duewall-adapters](https://github.com/DueWallLabs/duewall-adapters) | DueWall — Tokenized Credit Data | 0.3.5 | Read-only MCP server for DueWall: DLI index, DCR rate, maturities, flows and ve… |
-| 2026-11-24 01:58:38 | xyz.quantumatlas/ucp-shopping-hub | Quantum Atlas UCP Shopping & 50/50 Edit… | 1.0.0 | UCP 2026-08-25 MCP storefront: catalog search, carts, Stripe/x402 checkouts & 5… |
-| 2026-11-24 01:59:24 | [com.mentionskill/mentionskill](https://github.com/mentionskill/mentionskill) | MentionSkill | 1.0.0 | Free, relevant links and brand mentions for your site, traded by your AI agent… |
-| 2026-11-24 02:02:38 | uk.co.fileclerk/filing-tools | FileClerk | 0.1.0 | UK company filing deadlines, filed figures and iXBRL validation |
-| 2026-11-24 02:03:08 | com.clawhard/preflight | Preflight | 1.0.0 | Live checks for agent-written code: missing packages, end-of-life versions, sta… |
-| 2026-11-24 02:09:29 | com.stunlist/stunlist | StunList | 1.0.0 | Browse curated high-craft sites and tools, run Stun Check, and buy listings in… |
-| 2026-11-24 02:10:09 | io.github.Apination/ai-plugin | API Nation AI Plugin | 1.0.0 | Connect your real estate CRM, lead sources and back office apps to your AI. |
-| 2026-11-24 02:12:21 | com.blockrelations/agent-access | Block Relations | 1.17.0 | Search and cite Block Relations content from an AI agent. Pay per call from a p… |
-| 2026-11-24 02:12:22 | org.cryptoliveleak/agent-access | CryptoLiveLeak | 1.17.0 | Search and cite CryptoLiveLeak content from an AI agent. Pay per call from a pr… |
-| 2026-11-24 02:13:28 | com.footballpricer.www/oracle | FootballPricer Probability Oracle | 1.0.0 | Calibrated football probability oracle, +EV/Kelly edges, and <10ms Polymarket m… |
-| 2026-11-24 02:13:59 | io.github.pufferfishllc3548-cmd/doc2json | doc2json | 0.1.0 | Convert a PDF or DOCX text layer into JSON, Markdown, and tables. $0.02 USDC/ca… |
-| 2026-11-24 02:16:13 | com.trinity-waves/books-partner | Trinity Books Partner | 1.0.0 | Manage, translate and publish your own books in the Trinity Books store from yo… |
+| 2026-11-24 02:20:27 | app.rendrr/jobtrackr | JobTrackr | 1.0.0 | Job application tracker for AI agents: list, add and move applications, notes a… |
+| 2026-11-24 02:20:27 | app.rendrr/0human | 0human | 1.0.0 | Open agent economy: agents onboard by proof-of-work, form companies and split U… |
+| 2026-11-24 02:20:28 | co.chiefagenticofficer/cao | Chief Agentic Officer | 1.0.0 | Read-only access to published Chief Agentic Officer Perspectives and Playbooks. |
+| 2026-11-24 02:22:46 | io.github.Message-com/message | Message.com | 0.1.0 | Read conversations and reply from AI assistants with scoped access to your Mess… |
+| 2026-11-24 02:22:53 | [io.github.HIP3Pulse/hip3pulse](https://github.com/HIP3Pulse/hip3pulse) |  | 0.1.0 | Hyperliquid HIP-3 off-hours oracle gap, funding APR, L2 slippage, xStocks basis… |
+| 2026-11-24 02:27:53 | [io.github.PHPatch/codereview](https://github.com/PHPatch/codereview) | CodeReview | 0.13.5 | Multi-model review gate for AI-written code: independent reviewers, one determi… |
+| 2026-11-24 02:34:46 | com.kikocreators/kiko | Kiko | 1.0.0 | Find niche Instagram, YouTube and TikTok creators for your product, and why eac… |
+| 2026-11-24 02:35:21 | app.planj/planj | planJ | 1.0.0 | Plan trips with friends: itinerary, bookings, expenses, settle-up and checklist… |
+| 2026-11-24 02:38:07 | [io.github.stand-out-of-my-sun/diogenes-context-code-solver-mcp](https://github.com/stand-out-of-my-sun/diogenes-context-code-solver-mcp) | Diogenes Context Compression & Code Sol… | 1.0.0 | AST context pruner, token budget planner, fuzzy patcher, and code solvers. |
+| 2026-11-24 02:38:08 | [io.github.stand-out-of-my-sun/diogenes-database-intelligence-mcp](https://github.com/stand-out-of-my-sun/diogenes-database-intelligence-mcp) | Diogenes Database Intelligence & SQL En… | 1.0.0 | Database intelligence, AST SQL injection auditing, query optimization & schema… |
+| 2026-11-24 02:38:08 | [io.github.stand-out-of-my-sun/diogenes-neural-search-engine-mcp](https://github.com/stand-out-of-my-sun/diogenes-neural-search-engine-mcp) | Diogenes Neural Search & Grounded Resea… | 1.0.0 | Neural search synthesizer, deep research dossier compiler, and citation tools. |
+| 2026-11-24 02:38:08 | [io.github.stand-out-of-my-sun/diogenes-web-scraping-engine-mcp](https://github.com/stand-out-of-my-sun/diogenes-web-scraping-engine-mcp) | Diogenes Web Extraction & Markdown Engi… | 1.0.0 | High-performance web extraction, readability markdown compiler, and metadata pa… |
+| 2026-11-24 02:38:39 | ca.princegeorgepulse/pg-pulse | Prince George Pulse | 1.7.0 | Local data for Prince George, BC: events, businesses, news, weather, transit an… |
+| 2026-11-24 02:40:11 | org.slotcatalogs/guides | SlotCatalog Guides | 0.2.0 | Read-only app and brand guides for India, Brazil, and Mexico, with sources and… |
+| 2026-11-24 02:40:19 | [io.github.bangca85/cardloom-mcp](https://github.com/bangca85/cardloom-mcp) | Cardloom | 1.1.2 | Reviewed, git-backed engineering knowledge base for coding agents, served over… |
+| 2026-11-24 02:41:17 | [io.github.valmirjunior2109-spec/stillworks](https://github.com/valmirjunior2109-spec/stillworks) |  | 0.1.6 | Checks your web app still works after AI edits: real browser, zero setup, fix-r… |
+| 2026-11-24 02:56:00 | [io.github.proofhouse-ventures/global-company-registry](https://github.com/proofhouse-ventures/global-registry-mcp) | Global Company Registry — SG · UK · FR… | 1.0.0 | Search 23.3M companies across Singapore, UK, France and the global LEI register… |
+| 2026-11-24 02:58:25 | dev.trustguru/editorial | Trust Guru Editorial | 0.1.0 | Find and cite Trust Guru guides and dated sources for India, Brazil, and Mexico. |
+| 2026-11-24 03:00:05 | mx.afunbet/mexico-help | Afun Bet México Help | 1.0.0 | Read-only Mexico guides: app installation, account access, SPEI/OXXO, and game… |
+| 2026-11-24 03:07:18 | com.aplaceforagents/square | A Place for Agents | 1.0.0 | Public town square where agents find peers, post needs, and share tested MCP se… |
+| 2026-11-24 03:09:17 | [io.github.ayushcmd/pare](https://github.com/ayushcmd/pare) | PARE | 0.1.0 | Inspect AI context for token waste and review conservative cleanup suggestions. |
+| 2026-11-24 03:09:42 | io.github.pipiads-dev/pipiads | PipiAds | 1.0.5 | Research TikTok and Facebook ads, products, stores and competitors with the Pip… |
+| 2026-11-24 03:12:34 | com.qconsultai/home-cost-planner |  | 1.0.0 | Home cost projections and comparisons over 10, 20, and 30 years from a public l… |
 
 ## Data source
 
