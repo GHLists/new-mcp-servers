@@ -9,51 +9,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 00:21 UTC
+## Latest list — 2026-11-24 01:21 UTC
 
-New MCP servers published between 2026-11-23 23:21 UTC and 2026-11-24 00:21 UTC.
+New MCP servers published between 2026-11-24 00:21 UTC and 2026-11-24 01:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-24T00-21-37-459169Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-24T01-21-48-387113Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-23 23:23:07 | ai.ruam/ruam | ruam.ai | 0.2.1 | Track time for remote teams and AI agents: hours, timesheets, approvals and age… |
-| 2026-11-23 23:23:07 | ai.ruam/agents | ruam.ai for AI agents | 0.2.1 | AI agent time tracking per client. Claude Code, Codex, Cursor, OpenClaw, Hermes… |
-| 2026-11-23 23:23:50 | [io.github.motazalmaroai/nanoflags](https://github.com/motazalmaroai/nanoflags-sdk) | NanoFlags | 0.3.0 | Feature flags for AI agents: create flags, edit drafts, open change requests. P… |
-| 2026-11-23 23:27:41 | xyz.quantumatlas/nft-collab-5050-hub | Quantum Atlas 50/50 NFT Collaboration &… | 1.1.0 | 50/50 Base NFT collab MCP: B2B partner splits, 4-wall safety preflight, media q… |
-| 2026-11-23 23:28:17 | free.calculator/mcp | Calculator.Free | 1.0.0 | Find 200+ calculators and run them with the same formulas as the website |
-| 2026-11-23 23:28:24 | com.finishthis/finishthis | FinishThis | 1.0.0 | Hire vetted human writers and editors from your AI chat. |
-| 2026-11-23 23:29:36 | [io.github.sengirunners/potluck](https://github.com/sengirunners/potluck) | Potluck | 0.1.0 | Throwaway VMs and sandboxes for coding agents on Macs and Linux boxes you own. |
-| 2026-11-23 23:31:14 | [io.github.JD-ZY/datapress](https://github.com/JD-ZY/datapress-mcp) | datapress: UK & EU business data | 1.0.0 | UK/EU/US tenders, Companies House + financials, EU registers, job boards, app s… |
-| 2026-11-23 23:32:14 | studio.perfectdimension/intervals | Intervals | 1.2.0 | Run history, fitness trends, training schedule and coached workouts from the In… |
-| 2026-11-23 23:32:23 | io.github.oscilabs/charitysense | CharitySense Nonprofit Research | 1.0.0 | Research U.S. nonprofits: IRS filings, financials, governance, grants, ratings… |
-| 2026-11-23 23:33:22 | [io.github.KSym04/limpet](https://github.com/KSym04/limpet) |  | 0.18.0 | Persistent engineering memory for AI coding agents. Survives refactors, knows w… |
-| 2026-11-23 23:35:12 | [com.skavelo/skavelo](https://github.com/Skavelo/ai-assistants) | Skavelo | 1.0.0 | Set up Skavelo, the AI guide for your web app, from your AI assistant. Signs in… |
-| 2026-11-23 23:42:19 | com.pricesway/pricing | PriceSway | 1.0.0 | Pricing sums for online stores: profit per sale, competitor pricing rules, pric… |
-| 2026-11-23 23:50:21 | ai.sprites/ads | Sprites Ads | 1.0.0 | One hosted MCP for Google, Meta, LinkedIn, TikTok, Reddit, Microsoft and Apple… |
-| 2026-11-23 23:50:21 | ai.sprites/google-ads | Google Ads (Sprites) | 1.0.0 | Read and change Google Ads campaigns, keywords and budgets. Every change waits… |
-| 2026-11-23 23:50:22 | ai.sprites/meta-ads | Meta Ads (Sprites) | 1.0.0 | Read and change Meta (Facebook, Instagram) ads, budgets and audiences, with app… |
-| 2026-11-23 23:50:22 | ai.sprites/linkedin-ads | LinkedIn Ads (Sprites) | 1.0.0 | Run LinkedIn Ads: campaigns, ABM audiences and cost forecasts. Changes wait for… |
-| 2026-11-23 23:50:22 | ai.sprites/tiktok-ads | TikTok Ads (Sprites) | 1.0.0 | Read and manage TikTok Ads campaigns and reports from your AI client, with appr… |
-| 2026-11-23 23:50:23 | ai.sprites/reddit-ads | Reddit Ads (Sprites) | 1.0.0 | Create and manage Reddit Ads campaigns by community and interest, with approval… |
-| 2026-11-23 23:50:23 | ai.sprites/microsoft-ads | Microsoft Ads (Sprites) | 1.0.0 | Create and manage Microsoft Advertising (Bing) search campaigns, with approvals. |
-| 2026-11-23 23:50:23 | ai.sprites/apple-ads | Apple Ads (Sprites) | 1.0.0 | Manage Apple Search Ads budgets, bids, keywords and negatives, with approvals. |
-| 2026-11-23 23:50:23 | ai.sprites/google-analytics | Google Analytics 4 (Sprites) | 1.0.0 | Ask GA4 about sessions, conversions and revenue by channel from your AI client. |
-| 2026-11-23 23:50:23 | ai.sprites/search-console | Search Console (Sprites) | 1.0.0 | Read Search Console queries, clicks and positions, and inspect URLs for indexin… |
-| 2026-11-23 23:50:24 | au.com.byronwebstudio.hypelens/agent-rail | Hyperliquid: liquidation data and safe… | 0.2.1 | Hyperliquid perps: live prices, real liquidation walls, pre-trade check, and ga… |
-| 2026-11-23 23:50:24 | ai.sprites/shopify | Shopify (Sprites) | 1.0.0 | Read Shopify orders by channel and manage products, pages and blog posts, with… |
-| 2026-11-23 23:57:57 | [it.flowrelay/flowrelay](https://github.com/flow-relay/flowrelay-mcp-server) | Flow Relay | 1.10.0 | Project context, handoffs, Ask with sources, plans and forecasts from your team… |
-| 2026-11-24 00:00:33 | ai.getwerk/werk | Werk | 1.0.0 | Werk moves the work by itself. Now it has a colleague: the assistant you alread… |
-| 2026-11-24 00:01:31 | com.martinkrakowski/profile | Martin Krakowski — Professional Profile | 1.0.0 | Read-only MCP server for Martin Krakowski's profile, resume, case studies, and… |
-| 2026-11-24 00:07:57 | [io.github.Sauberr/neckrez](https://github.com/Sauberr/neckrez-mcp) | Neckrez | 1.0.0 | Rent and manage VPS, dedicated CPU, GPU and bare metal servers, paid in crypto.… |
-| 2026-11-24 00:08:52 | ai.dv4/dv4 | DV4 | 1.1.0 | Make videos, images and product ads from a prompt, then check, list or cancel t… |
-| 2026-11-24 00:09:36 | com.joinstudyscout/business | StudyScout for Business | 1.0.1 | Paid studies with US adults: surveys, video ad tests, ad rankings, AI interview… |
-| 2026-11-24 00:10:10 | [io.github.Joshuv-AI/tower-of-babel](https://github.com/Joshuv-AI/tower-of-babel-catalog) | Tower of Babel | 1.0.0 | Search and read 2.5M+ public-domain full texts from the Tower of Babel library.… |
-| 2026-11-24 00:10:25 | io.github.holon-sh/talent | Talent | 0.0.1 | A recruiter's queue over Ashby, Slack and Gmail: what to do next, and who to ch… |
-| 2026-11-24 00:15:10 | br.com.finjabs/jabs | Jabs — calculadoras financeiras do Bras… | 1.0.0 | 57 calculadoras financeiras brasileiras com a curva do Tesouro do dia e as regr… |
-| 2026-11-24 00:15:24 | com.resolvary/email-finder | Resolvary | 1.0.0 | Find a person's work email from their name and company domain, and verify email… |
-| 2026-11-24 00:17:36 | [ai.knotr/knotr](https://github.com/brianejsmont/agentic-self) | Knotr | 1.0.0 | OAuth MCP for Knotr profiles, skills, knowledge, style guides, and artifacts. |
-| 2026-11-24 00:18:06 | net.visualcon/rivus-mcp | XRPL banking data (pay per call in XRP… | 1.0.0 | XRPL banking data: corridor cost, issuer due diligence, screening. Pay per call… |
+| 2026-11-24 00:24:07 | [io.github.christurtleday-hue/au-agent-tools](https://github.com/christurtleday-hue/apify-au-agent-tools-mcp) | AU Agent Tools: documents, screenshots,… | 1.0.0 | PDF to Markdown, screenshots, AU address geocoding, AU/NZ holidays, phone valid… |
+| 2026-11-24 00:24:08 | [io.github.christurtleday-hue/au-address-geocoder](https://github.com/christurtleday-hue/apify-au-agent-tools-mcp) | Australian Address Validator & Geocoder | 1.0.0 | Validate, standardise and geocode Australian addresses with official G-NAF data… |
+| 2026-11-24 00:24:10 | [io.github.christurtleday-hue/au-nz-public-holidays](https://github.com/christurtleday-hue/apify-au-agent-tools-mcp) | AU & NZ Public Holidays & Business Days | 1.0.0 | AU/NZ public holidays by state, Tasmanian area and NZ region; add or count busi… |
+| 2026-11-24 00:24:11 | [io.github.christurtleday-hue/pdf-docx-to-markdown](https://github.com/christurtleday-hue/apify-au-agent-tools-mcp) | PDF & DOCX to Markdown | 1.0.0 | Convert PDF and Word files at URLs into clean Markdown for LLMs and RAG. |
+| 2026-11-24 00:24:12 | [io.github.christurtleday-hue/phone-validator](https://github.com/christurtleday-hue/apify-au-agent-tools-mcp) | Phone Number Validator & Formatter | 1.0.0 | Validate, format (E.164) and extract phone numbers in bulk for 240+ countries. |
+| 2026-11-24 00:24:14 | [io.github.christurtleday-hue/website-screenshot-pdf](https://github.com/christurtleday-hue/apify-au-agent-tools-mcp) | Website Screenshot & URL to PDF | 1.0.0 | Full-page website screenshots and web page to PDF with real Chrome, ads and coo… |
+| 2026-11-24 00:25:59 | org.unpatentable/library | Unpatentable.org | 1.0.0 | Search and read 1,300+ public-domain (CC0) invention disclosures: open prior ar… |
+| 2026-11-24 00:31:21 | [com.aileakage/ai-tool-facts](https://github.com/aileakage/open-tools) | AI Leakage facts | 1.0.0 | Read-only, dated facts on how 29 AI tools handle business data, and recent chec… |
+| 2026-11-24 00:31:51 | [io.github.sbrunner-atx/rs-scope-mcp](https://github.com/sbrunner-atx/rs-scope-mcp) | R&S Oscilloscope MCP: AI on the RTB2 /… | 0.1.3 | Drive Rohde & Schwarz RTB2/RTB2000 oscilloscopes over LAN: capture, decode, FFT… |
+| 2026-11-24 00:32:01 | [io.github.soodhere/saktum-check](https://github.com/soodhere/saktum-check) | Saktum Check | 0.4.0 | Test and govern MCP servers: trust grades, OWASP MCP Top 10 checks, fixes and s… |
+| 2026-11-24 00:32:02 | digital.hatched/send | Hatched Send | 1.0.0 | Email marketing for AI assistants: build emails, manage contacts, send campaign… |
+| 2026-11-24 00:33:52 | [ai.zevari/ai-sdr-kit](https://github.com/zevarihq/ai-sdr-kit) | AI SDR Kit by Zevari | 0.1.0 | Free outbound SOP and sequence playbook for your AI, no account needed. Zevari… |
+| 2026-11-24 00:38:19 | [io.github.kurcontko/mnemotree](https://github.com/kurcontko/mnemotree) | Mnemotree | 1.1.0 | Local long-term memory. Keeps messages verbatim in SQLite and recalls them by h… |
+| 2026-11-24 00:42:52 | io.github.akhilrajesh213/tiktok-mcp-server | TikTok MCP Server (profiles and videos) | 0.1.2 | Exact TikTok follower counts, likes and bio for any profile; views, saves, enga… |
+| 2026-11-24 00:47:15 | com.profblu.siami/siami | Siami | 1.0.0 | Snow, ski, kite, diving and surf spots: today's conditions, forecast, schools,… |
+| 2026-11-24 00:50:21 | network.luca/luca | Luca | 0.21.0 | Financial recordkeeping for AI agent payments: declare, check and record each p… |
+| 2026-11-24 00:52:18 | [io.github.m-mustufa/ai-api-cost-mcp](https://github.com/m-mustufa/mustafa-portfolio) | AI API Cost Calculator | 0.1.0 | Estimate and compare OpenAI, Claude and Gemini API costs, gross margin and brea… |
+| 2026-11-24 00:52:41 | com.admeldo/verified-work | Verified Work | 0.1.0 | Verify delivered agent work and get a signed pass/fail receipt, paid per check… |
+| 2026-11-24 00:53:19 | [io.github.nassih-yassine/dep-vet](https://github.com/nassih-yassine/Dep-Vet) | dep-vet | 0.13.2 | Vet packages and lockfiles for CVEs, typosquats and install scripts before inst… |
+| 2026-11-24 00:54:43 | [io.drint/driglass](https://github.com/drint-io/driglass-mcp) | Driglass | 1.0.0 | Sizes, print zones and screen counts for printing straight on glass bottles and… |
+| 2026-11-24 00:54:43 | [io.github.subedikushal/writing-editor-mcp](https://github.com/subedikushal/writing-editor-mcp) | Writing Editor | 0.2.5 | Editorial briefs and source-fidelity checks for research papers and technical p… |
+| 2026-11-24 00:58:50 | [ai.bareun/bareun](https://github.com/gih2yun/bareun-mcp) | Bareun — Korean NLP & Spell/Grammar Che… | 3.0.1 | Korean NLP MCP server: morphological analysis, tokenization, spell & grammar ch… |
+| 2026-11-24 01:00:03 | org.cve-compass/cve-compass | CVE Compass | 0.1.0 | Read-only public advisory lookups: GitHub reviewed advisories and CISA KEV. No… |
+| 2026-11-24 01:03:06 | com.resolvemesh/compatibility | ResolveMesh Registry Search and Compati… | 0.2.0 | Search the MCP Registry for a capability, check client compatibility, and read… |
+| 2026-11-24 01:03:37 | [io.github.paywithtender/tender](https://github.com/paywithtender/tender) | Tender | 0.1.1 | Let AI agents pay x402 APIs with any token on Robinhood Chain. Merchants get ex… |
+| 2026-11-24 01:05:46 | [com.slatebox/slatebox](https://github.com/Slatebox/slatebox) | Slatebox | 0.3.2 | Mind maps, diagrams, project plans and presentations on a free, open-source tea… |
+| 2026-11-24 01:06:19 | [io.github.Sagexd08/openbooks-mcp](https://github.com/Sagexd08/OpenBooks) |  | 0.2.4 | Verify bank statements, settlements and tax documents: proven JSON or a typed r… |
+| 2026-11-24 01:08:16 | [io.github.cardoves/basality-99freelas-mcp](https://github.com/cardoves/basality-99freelas-mcp-public) |  | 0.1.0 | Unofficial read-only access to public 99Freelas pages and proposal previews. |
+| 2026-11-24 01:09:05 | [com.pipeyield/search-term-review](https://github.com/Pipeyield/pipeyield-review) | Pipeyield | 0.1.0 | Reviews a Google Ads search terms report: wasted spend and negative keywords to… |
 
 ## Data source
 
