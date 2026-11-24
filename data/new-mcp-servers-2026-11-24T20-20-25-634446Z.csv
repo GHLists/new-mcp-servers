@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-11-24T19:20:43.186169Z,io.github.Skillnter/wthek-mcp,WTHek MCP Server,1.0.1,https://github.com/skillnter/wthek-mcp,,"MCP server for RFC 7807/9457 HTTP Problem Details, status codes, and API error auditing."
+2026-11-24T19:24:44.61814Z,com.koalaforwork/koala,Koala,1.0.0,,streamable-http,"Your Koala work plan in your AI assistant: see today, add work and log what you've finished."
+2026-11-24T19:25:04.421959Z,es.dataorigin/dataorigin,DataOrigin,1.0.0,,streamable-http,"Find B2B trade shows and the exhibitors, attendees and speakers that match your ideal customer."
+2026-11-24T19:26:11.910654Z,io.github.dreampiler/hiai-meeting,Hi AI Meeting,1.1.0,,streamable-http,"Run multi-AI meetings and retrieve decisions, reasoning, and remaining disagreements."
+2026-11-24T19:29:58.886998Z,tech.silon/docs,Silon API Docs,1.28.1,,streamable-http,Search and read Silon's multi-channel messaging API reference and SDK guides.
+2026-11-24T19:31:40.55563Z,io.github.AnshumanAtrey/fastpeoplesearch-scraper,"Skip Trace People Search - Name to Address, Phone, Relatives",1.0.1,https://github.com/AnshumanAtrey/fastpeoplesearch-scraper,streamable-http,Skip Trace Online - Find a Person's Address & Phone by Name
+2026-11-24T19:31:48.170739Z,com.linsays/lin-says,Lin Says: spoken English practice,1.1.0,,streamable-http,"Say it naturally in English, phrase explanations, role-plays and pronunciation-check links."
+2026-11-24T19:32:09.791329Z,com.secuveri/mcp,secuveri,1.0.0,,streamable-http,"Identity and age verification: verification links, outcomes, workflows, lists and AML screening."
+2026-11-24T19:35:08.921356Z,casa.alma/alma,Alma.casa,1.0.0,,streamable-http,Connect your AI assistant to your Alma.casa property listings and home details.
+2026-11-24T19:36:48.842825Z,se.norli/norli-mcp,Norli,1.0.0,https://github.com/ole-svg/norli-mcp,streamable-http,"Airbnb rental income estimates, guides and service areas for Stockholm and Sörmland, Sweden."
+2026-11-24T19:38:37.72529Z,ai.plcs/plcs-ai,PLCs.ai,1.0.2,https://github.com/PLCsai/plcs-ai-mcp,streamable-http,"Query Allen-Bradley, Siemens and CODESYS V3 PLC projects, live tags and analyses in plain English."
+2026-11-24T19:39:47.189167Z,lk.anybanq/anybanq,AnyBanQ — Sri Lankan banking products and card offers,1.1.0,,streamable-http,"Sri Lanka's bank loans, cards, card offers, FD and savings rates, branches and FX, from anybanq.lk"
+2026-11-24T19:41:04.267457Z,dev.tesseract/design,Tesseract Decks & Designs,1.0.0,,streamable-http,"Turn what your AI writes into decks, diagrams, charts and designs: private Tesseract pages to share."
+2026-11-24T19:44:48.864164Z,io.github.mmohrx/spurlos,spurlos,0.5.1,https://github.com/mmohrx/spurlos,,Opens a website like a first-time visitor: third-party requests and cookies before any click
+2026-11-24T19:45:52.220395Z,com.aurorainbox/signup,Aurora Inbox: open an account,1.0.0,,streamable-http,Open an Aurora Inbox account for the person you help; they confirm with one WhatsApp message.
+2026-11-24T19:45:52.61349Z,com.aurorainbox/aurora-inbox,Aurora Inbox,1.0.0,,streamable-http,"WhatsApp, Messenger and Instagram team inbox with AI agents: contacts, chats, deals, catalog, setup."
+2026-11-24T19:48:20.577205Z,ai.loopfour/financial-workflows,loopfour,1.0.0,,streamable-http,"Run deterministic finance workflows: invoicing, AR, payments and reconciliation."
+2026-11-24T19:55:21.359222Z,com.buffer/mcp,Buffer,1.0.0,,streamable-http,"Buffer is the social media tool for planning, scheduling and analyzing your posts."
+2026-11-24T19:58:37.529487Z,com.batchdispatch/mcp,Batch Dispatch,1.0.0,,streamable-http,"Search, price and order wholesale stock direct from suppliers. Buyers pay by card via a link."
+2026-11-24T20:02:34.977159Z,com.legit2compute/studio3d,legit2compute 3D studio,1.0.0,,streamable-http,"Hosted Blender and OpenSCAD for your assistant: printable parts, flat parts, renders, turntables."
+2026-11-24T20:04:04.779236Z,io.github.quotewise/mcp,Quotewise,1.0.4,https://github.com/quotewise/mcp,streamable-http,"Quote finder with 800K quotes. Find quotes by meaning, verify attributions."
+2026-11-24T20:05:16.314257Z,ca.resortfinder/resortfinder,ResortFinder,1.1.0,,streamable-http,"Research all-inclusive resorts, check recent package prices, and hand off to booking or an advisor."
+2026-11-24T20:11:19.723264Z,com.neurouter/gateway,Neurouter MCP Gateway,0.1.0,https://github.com/neurouter/neurouter,,"Self-hosted enterprise MCP gateway: SSO, per-tool ACL, human approvals, verifiable audit log."
+2026-11-24T20:15:37.328879Z,com.ainativeservicesindex/index,AI Services Index,1.0.0,,streamable-http,"Search 4,970 AI services firms and 131 service lines: offers, prices, rounds, people, sources."
+2026-11-24T20:15:43.692189Z,ai.encodedbrands/bcp-registry,Encoded Brands BCP Registry,1.0.0,,streamable-http,"Official brand voice, values, claims, and boundaries for agents, with DNS-verified provenance."
+2026-11-24T20:17:08.764098Z,com.rebelcad/rebel-cad,Rebel CAD,1.0.0,,streamable-http,"Parametric browser CAD for AI assistants: parts, assemblies, drawings, renders, 3D-print slicing"
+2026-11-24T20:17:39.215442Z,sh.aadhar/site,Aadharsh Site,2.1.0,https://github.com/oddharsh/site,streamable-http,"Search, photos, music, coffee availability, Lens and image tools for aadhar.sh. Keyless."
+2026-11-24T20:17:39.50002Z,sh.aadhar/serendipity,Serendipity,2.0.0,https://github.com/oddharsh/site,streamable-http,"Community-curated events and who is going, from the Serendipity event pool. Read-only."
+2026-11-24T20:17:52.16024Z,io.github.brokrTech/brokr,,1.0.0,,streamable-http,"Data rooms: read, search and answer questions, with the user's own permissions."
+2026-11-24T20:19:07.074179Z,cloud.massdriver/mcp-server,Massdriver,0.2.1,https://github.com/massdriver-cloud/mcp-server,,"Manage the Massdriver infrastructure platform: projects, environments, deployments, and more."
