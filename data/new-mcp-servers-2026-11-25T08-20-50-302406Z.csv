@@ -1,0 +1,38 @@
+created_at,server,title,version,repository,transports,description
+2026-11-25T07:22:09.289761Z,photo.street/catalogue,street.photo,1.0.0,,streamable-http,"Clint's street photography: photo capsules, art prints and exhibitions in French and English."
+2026-11-25T07:24:08.945847Z,io.github.cainky/converge-markets,Converge: sportsbook value bets,1.0.0,,streamable-http,"US and Ontario sportsbook value bets, sure bets, a public record and odds math."
+2026-11-25T07:24:50.993375Z,pro.stinkbid/stinkbid,STINKBID,0.2.0,https://github.com/stinkbid/stinkbid,streamable-http,Non-custodial stink bids for tokenized stocks on Robinhood Chain. Agents sign with their own wallet.
+2026-11-25T07:26:35.994507Z,io.github.TerlfY/sahkodiili,Sähködiili.fi – Finnish Electricity Comparison,1.0.0,https://github.com/TerlfY/sahkodiili,streamable-http,"Compare Finnish electricity contracts, estimate annual kWh, and check live Finland spot prices."
+2026-11-25T07:27:10.159769Z,io.github.mmxb8/ultratransfert,UltraTransfert,0.4.1,https://github.com/mmxb8/UltraTransfert,,"Verified local file exchange, deduplication and bounded knowledge retrieval for AI agents."
+2026-11-25T07:28:50.059958Z,com.getmcpapi/mcpapi,MCPAPI,1.0.0,https://github.com/cucoleadan/mcpapi-server,streamable-http,"One MCP URL for every API and MCP server you use, your own APIs included."
+2026-11-25T07:30:13.545367Z,co.founden.glp1pricesco/glp1-price-index,GLP1Prices.co: daily US price index of tirzepatide and semaglutide,1.0.0,,streamable-http,"Daily US cash prices of tirzepatide and semaglutide by provider, lowest first, each with its source."
+2026-11-25T07:33:30.505001Z,io.usefulapi/gymmaster,GymMaster MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read KPI figures, standard reports and dashboard widgets in GymMaster."
+2026-11-25T07:33:30.508657Z,io.usefulapi/1crm,1CRM MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,Read module records and their links; create or update records in 1CRM.
+2026-11-25T07:33:30.510071Z,io.usefulapi/appstle,Appstle MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read subscriptions, orders and groups; skip orders, move billing dates, pause or cancel in Appstle."
+2026-11-25T07:33:30.513846Z,io.usefulapi/referral-factory,Referral Factory MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read campaigns, referrers, leads and rewards; add referrers, qualify leads in Referral Factory."
+2026-11-25T07:33:30.944779Z,io.usefulapi/fenofin,FenoFin MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read trial balances, invoices and projects; create customers and draft invoices in FenoFin."
+2026-11-25T07:33:30.948902Z,io.usefulapi/vcita,vCita MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read clients, appointments, invoices and payments; create or update clients in vCita."
+2026-11-25T07:33:30.949909Z,io.usefulapi/sitemate,Sitemate MCP by usefulapi,1.0.0,https://github.com/m190/usefulapi-mcp,streamable-http,"Read assets, issues, work orders, inspections and schedules in Sitemate."
+2026-11-25T07:34:25.02919Z,com.trolypage/all,TrolyPage Unified MCP,2.2.0,,streamable-http,"Manage TrolyPage conversations, social publishing, workflows, and commerce from your AI client."
+2026-11-25T07:36:18.818664Z,il.co.tring/tring-mcp,Tring,0.1.0,,,"Israeli receipts and invoices: read documents, prepare drafts, issue only after a person approves."
+2026-11-25T07:37:18.538264Z,io.github.Sandeep-Hipparagi/sentinel-mcp,Sentinel MCP,0.1.1,https://github.com/Sandeep-Hipparagi/sentinel-mcp,,"Deterministic claim verification, fail-closed policy gate, WORM audit ledger, and graph memory."
+2026-11-25T07:37:34.083997Z,io.github.Spacemandomains/library-mcp,Library,1.2.0,https://github.com/Spacemandomains/Library,streamable-http,"Search 25,000+ MCP servers across registries. Paid agent endpoints: find + inspect ($0.01 each)."
+2026-11-25T07:38:29.070442Z,com.vanwestpartners/vanwest-partners,VanWest Partners,1.0.0,,streamable-http,"VanWest Partners self storage PE firm MCP server: portfolio funds, ClearHome ops & IR tools."
+2026-11-25T07:43:09.721516Z,app.agenturo/any_agent,Any Agenturo agent,1.0.0,,streamable-http,"Talk to one person's, brand's or business's public AI agent on Agenturo, by its handle."
+2026-11-25T07:43:11.595957Z,app.agenturo/anton,Anton,1.0.0,,streamable-http,Anton Agafonov's agent — I shape ideas into products that thrive
+2026-11-25T07:50:08.860996Z,org.abcommunity/abcommunity,ABCommunity,1.1.0,https://github.com/anarrustamli/abcommunity-platform,streamable-http,"Find the right MCPs, tools and skills for any AI task - discovery over a 25k+ resource catalog."
+2026-11-25T07:50:36.221457Z,com.introwise/mcp,Introwise,1.0.0,,streamable-http,"Manage Introwise bookings and sessions, look up clients, and connect with ChatGPT or Claude."
+2026-11-25T07:56:53.703056Z,flights.planeside/planeside,Planeside,1.0.0,,streamable-http,"Private-terminal prices, access rules and booking links. No payment taken."
+2026-11-25T07:57:05.070592Z,dev.domainhound/domain-hound,Domain Hound,0.1.3,,,"Check domain availability and prices, and screen product names, from your AI assistant."
+2026-11-25T07:57:21.694165Z,app.agenturo/agent,Agenturo — official AI agent of agenturo.app,1.0.0,,streamable-http,Building the factory so you don't have to build the robots
+2026-11-25T08:00:37.867584Z,com.theemptylegindex/empty-leg-index,Empty Leg Index,0.1.0,,streamable-http,Search UK and Europe empty legs. Enquire or set a route alert. No booking or payment.
+2026-11-25T08:02:17.33725Z,com.toolskipper/toolskipper,ToolSkipper — agent service discovery,0.11.0,,streamable-http,"Discover agent services, compare sourced capabilities and inspect connection evidence. No execution."
+2026-11-25T08:02:29.51071Z,ru.neuroseti/mcp,Neuroseti.ru MCP (RF Open Data + 33 LLMs),0.8.0,https://github.com/vitaliyino/neuroseti-mcp,streamable-http,"31 MCP tools for Russia: 33 LLMs in RUB, 8-registry INN check, FNS, CBR, GRLS/ZNVLP, SRO & E-Com"
+2026-11-25T08:04:50.441999Z,io.github.nemus-fyi/nemus,Nemus,1.0.0,https://github.com/nemus-fyi/nemus-agent-kit,streamable-http,"Graph-based task manager: plan, connect and track work as a task graph from any agent."
+2026-11-25T08:06:03.130173Z,com.speakerboxgenius/mcp,Speaker Box Genius,1.4.0,https://github.com/daliusiv/speaker-box-genius,,"Simulate sealed, ported and passive-radiator speaker boxes with a 1,900+ driver database."
+2026-11-25T08:08:10.662721Z,com.57hours/trips,57hours Trips,1.0.0,,streamable-http,"Search guided outdoor adventures on 57hours: open dates, spots left and prices."
+2026-11-25T08:13:29.469397Z,io.github.houtini-ai/ai-detect,,2.0.0,https://github.com/houtini-ai/ai-detect,,"Local AI-text detection: per-sentence and document scores from open detectors, on your own machine."
+2026-11-25T08:15:22.033891Z,dev.workers.asostudio.aso-studio-edge/geo-x402,ASO Studio GEO & AI-Visibility x402 MCP,1.3.0,,streamable-http,"29-bot AI crawler check, llms.txt audit/generator, and GEO score over MCP and Base USDC x402."
+2026-11-25T08:16:48.49591Z,ai.fineguide/fineguide,FineGuide,1.0.0,,streamable-http,"Work in your FineGuide CRM, AI assistants, inbox, workflows and Voice QA from any AI app."
+2026-11-25T08:16:51.748963Z,sh.foro/exact-online,Exact Online,0.6.0,https://github.com/foro-sh/exact-online-mcp,streamable-http,"Exact Online accounting: customers, invoices, receivables, ledger, reports. Read-only by default."
+2026-11-25T08:19:10.715334Z,io.github.glibey/onchain-signals,,0.3.0,https://github.com/glibey/onchain-signals,streamable-http,Pay-per-call Polymarket intelligence for AI agents: MCP server + x402 (USDC) API
