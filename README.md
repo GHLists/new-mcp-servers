@@ -9,73 +9,57 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 03:20 UTC
+## Latest list — 2026-11-25 04:19 UTC
 
-New MCP servers published between 2026-11-25 02:21 UTC and 2026-11-25 03:20 UTC.
+New MCP servers published between 2026-11-25 03:20 UTC and 2026-11-25 04:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-25T03-20-34-642051Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-25T04-19-31-906975Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-25 02:22:16 | com.firmsee/firmsee | Firmsee | 1.7.0 | Firmsee: European company data (14 countries), financials and EU/UK tenders for… |
-| 2026-11-25 02:30:26 | [io.github.samsali-g/exifstudio](https://github.com/samsali-g/exifstudio-mcp) | ExifStudio — Client-Side EXIF & Metadat… | 1.0.0 | Browser-local photo & PDF metadata tools: EXIF/GPS stripper, C2PA inspector, sh… |
-| 2026-11-25 02:30:26 | [io.github.samsali-g/wedmaroc](https://github.com/samsali-g/wedmaroc-mcp) | WedMaroc — Moroccan Wedding & Mahr Budg… | 1.0.0 | 2026 Moroccan wedding budget estimator, city cost multipliers, vendor prices, a… |
-| 2026-11-25 02:31:23 | org.levelsports/level | Level Sports | 1.0.0 | Official Level Sports AI assistant connector for the multisport app from San Ju… |
-| 2026-11-25 02:33:17 | [io.github.mrfentmen/k9-unit-guide-audit-mcp](https://github.com/mrfentmen/awesome-servers) | K9 Unit Guide Audit Audit | 1.0.0 | Real local JSON analysis of k9 unit guide audit in the Police lane. 25 MCP tool… |
-| 2026-11-25 02:33:18 | [io.github.mrfentmen/k9-unit-guide-checklist-mcp](https://github.com/mrfentmen/awesome-servers) | K9 Unit Guide Checklist Checklist | 1.0.0 | Real local JSON analysis of k9 unit guide checklist in the Police lane. 25 MCP… |
-| 2026-11-25 02:33:18 | [io.github.mrfentmen/k9-unit-guide-compare-mcp](https://github.com/mrfentmen/awesome-servers) | K9 Unit Guide Compare Compare | 1.0.0 | Real local JSON analysis of k9 unit guide compare in the Police lane. 25 MCP to… |
-| 2026-11-25 02:33:19 | [io.github.mrfentmen/k9-unit-guide-guide-mcp](https://github.com/mrfentmen/awesome-servers) | K9 Unit Guide Guide Guide | 1.0.0 | Real local JSON analysis of k9 unit guide guide in the Police lane. 25 MCP tool… |
-| 2026-11-25 02:33:20 | [io.github.mrfentmen/k9-unit-guide-plan-mcp](https://github.com/mrfentmen/awesome-servers) | K9 Unit Guide Planner Planner | 1.0.0 | Real local JSON analysis of k9 unit guide planner in the Police lane. 25 MCP to… |
-| 2026-11-25 02:33:21 | [io.github.mrfentmen/k9-unit-guide-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | K9 Unit Guide Tracker Tracker | 1.0.0 | Real local JSON analysis of k9 unit guide tracker in the Police lane. 25 MCP to… |
-| 2026-11-25 02:33:21 | [io.github.mrfentmen/patrol-shift-plan-audit-mcp](https://github.com/mrfentmen/awesome-servers) | Patrol Shift Plan Audit Audit | 1.0.0 | Real local JSON analysis of patrol shift plan audit in the Police lane. 25 MCP… |
-| 2026-11-25 02:33:22 | [io.github.mrfentmen/patrol-shift-plan-compare-mcp](https://github.com/mrfentmen/awesome-servers) | Patrol Shift Plan Compare Compare | 1.0.0 | Real local JSON analysis of patrol shift plan compare in the Police lane. 25 MC… |
-| 2026-11-25 02:33:23 | [io.github.mrfentmen/patrol-shift-plan-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Patrol Shift Plan Guide Guide | 1.0.0 | Real local JSON analysis of patrol shift plan guide in the Police lane. 25 MCP… |
-| 2026-11-25 02:33:24 | [io.github.mrfentmen/patrol-shift-plan-plan-mcp](https://github.com/mrfentmen/awesome-servers) | Patrol Shift Plan Planner Planner | 1.0.0 | Real local JSON analysis of patrol shift plan planner in the Police lane. 25 MC… |
-| 2026-11-25 02:33:24 | [io.github.mrfentmen/patrol-shift-plan-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | Patrol Shift Plan Tracker Tracker | 1.0.0 | Real local JSON analysis of patrol shift plan tracker in the Police lane. 25 MC… |
-| 2026-11-25 02:33:25 | [io.github.mrfentmen/police-academy-prep-audit-mcp](https://github.com/mrfentmen/awesome-servers) | Police Academy Prep Audit Audit | 1.0.0 | Real local JSON analysis of police academy prep audit in the Police lane. 25 MC… |
-| 2026-11-25 02:33:27 | [io.github.mrfentmen/police-academy-prep-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Police Academy Prep Guide Guide | 1.0.0 | Real local JSON analysis of police academy prep guide in the Police lane. 25 MC… |
-| 2026-11-25 02:33:30 | [io.github.mrfentmen/traffic-stop-safety-audit-mcp](https://github.com/mrfentmen/awesome-servers) | Traffic Stop Safety Audit Audit | 1.0.0 | Real local JSON analysis of traffic stop safety audit in the Police lane. 25 MC… |
-| 2026-11-25 02:33:33 | [io.github.mrfentmen/traffic-stop-safety-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Traffic Stop Safety Guide Guide | 1.0.0 | Real local JSON analysis of traffic stop safety guide in the Police lane. 25 MC… |
-| 2026-11-25 02:33:34 | [io.github.mrfentmen/veteran-job-search-audit-mcp](https://github.com/mrfentmen/awesome-servers) | Veteran Job Search Audit Audit | 1.0.0 | Real local JSON analysis of veteran job search audit in the Military lane. 25 M… |
-| 2026-11-25 02:33:36 | [io.github.mrfentmen/veteran-job-search-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Veteran Job Search Guide Guide | 1.0.0 | Real local JSON analysis of veteran job search guide in the Military lane. 25 M… |
-| 2026-11-25 02:35:20 | [io.github.Graphiker-Australia/stipend](https://github.com/stipend-sh/stipend) | stipend.sh | 0.47.0 | Non-custodial USDC wallet on Base with spending limits enforced in code, not in… |
-| 2026-11-25 02:39:01 | com.floconnector/floconnector | FloConnector | 1.0.0 | Managed MCP connectors for business: Xero, QuickBooks, ServiceM8, GoHighLevel a… |
-| 2026-11-25 02:41:22 | ar.kanoa/datos-laborales | Kanoa · Datos laborales de Argentina | 1.0.0 | Convenios colectivos, escalas salariales y vencimientos de Argentina. Sólo lect… |
-| 2026-11-25 02:44:37 | [ca.xcelsior/gpu-cloud](https://github.com/aabiro/xcelsior) | Xcelsior GPU Cloud | 3.0.0 | Rent GPUs, launch spot instances and run serverless inference on the Xcelsior m… |
-| 2026-11-25 02:47:19 | site.heyalbert/heyalbert | HeyAlbert | 1.0.0 | Search affluent Indian-origin people in the US and open cited dossiers. |
-| 2026-11-25 02:48:01 | [io.github.kadaluarsa/werka-interview-preparation](https://github.com/kadaluarsa/werka) | Werka Interview Preparation | 1.0.0 | Find interview guides and set up spoken rehearsal for software engineering beha… |
-| 2026-11-25 02:55:25 | com.backtestvault/backtest-vault | Backtest Vault | 0.3.0 | Backtest NQ, ES and GC futures strategies on 15+ years of 1-minute data from yo… |
-| 2026-11-25 02:55:50 | app.dotquad/dotquad | Dotquad | 1.1.0 | IP lookup, DNS, DNSSEC, WHOIS, TLS, email and blocklist checks, and a domain re… |
-| 2026-11-25 03:01:07 | [io.github.agustinnb/menunode](https://github.com/agustinnb/menunode-mcp) | MenuNode | 1.0.0 | Restaurant menus, allergens, opening hours, table reservations, waitlists and o… |
-| 2026-11-25 03:03:22 | [com.ttmchat/ttm](https://github.com/MPV-LLC/TTM) | TTM – Talk To Me | 3.0.0 | Chat rooms and instant messaging for your AIs across platforms, with you in the… |
-| 2026-11-25 03:05:44 | [io.github.mrfentmen/evidence-log-guide-audit-mcp](https://github.com/mrfentmen/awesome-servers) | Evidence Log Guide Audit Audit | 1.0.0 | Real local JSON analysis of evidence log guide audit in the Police lane. 25 MCP… |
-| 2026-11-25 03:05:45 | [io.github.mrfentmen/evidence-log-guide-compare-mcp](https://github.com/mrfentmen/awesome-servers) | Evidence Log Guide Compare Compare | 1.0.0 | Real local JSON analysis of evidence log guide compare in the Police lane. 25 M… |
-| 2026-11-25 03:05:46 | [io.github.mrfentmen/evidence-log-guide-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Evidence Log Guide Guide Guide | 1.0.0 | Real local JSON analysis of evidence log guide guide in the Police lane. 25 MCP… |
-| 2026-11-25 03:05:47 | [io.github.mrfentmen/evidence-log-guide-plan-mcp](https://github.com/mrfentmen/awesome-servers) | Evidence Log Guide Planner Planner | 1.0.0 | Real local JSON analysis of evidence log guide planner in the Police lane. 25 M… |
-| 2026-11-25 03:05:48 | [io.github.mrfentmen/evidence-log-guide-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | Evidence Log Guide Tracker Tracker | 1.0.0 | Real local JSON analysis of evidence log guide tracker in the Police lane. 25 M… |
-| 2026-11-25 03:05:49 | [io.github.mrfentmen/fire-academy-prep-audit-mcp](https://github.com/mrfentmen/awesome-servers) | Fire Academy Prep Audit Audit | 1.0.0 | Real local JSON analysis of fire academy prep audit in the Fire Dept lane. 25 M… |
-| 2026-11-25 03:05:51 | [io.github.mrfentmen/fire-academy-prep-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Fire Academy Prep Guide Guide | 1.0.0 | Real local JSON analysis of fire academy prep guide in the Fire Dept lane. 25 M… |
-| 2026-11-25 03:05:53 | [io.github.mrfentmen/fire-engine-check-audit-mcp](https://github.com/mrfentmen/awesome-servers) | Fire Engine Check Audit Audit | 1.0.0 | Real local JSON analysis of fire engine check audit in the Fire Dept lane. 25 M… |
-| 2026-11-25 03:05:55 | [io.github.mrfentmen/fire-engine-check-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Fire Engine Check Guide Guide | 1.0.0 | Real local JSON analysis of fire engine check guide in the Fire Dept lane. 25 M… |
-| 2026-11-25 03:06:02 | [io.github.mrfentmen/hydrant-map-guide-audit-mcp](https://github.com/mrfentmen/awesome-servers) | Hydrant Map Guide Audit Audit | 1.0.0 | Real local JSON analysis of hydrant map guide audit in the Fire Dept lane. 25 M… |
-| 2026-11-25 03:06:04 | [io.github.mrfentmen/hydrant-map-guide-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Hydrant Map Guide Guide Guide | 1.0.0 | Real local JSON analysis of hydrant map guide guide in the Fire Dept lane. 25 M… |
-| 2026-11-25 03:06:24 | [io.usefulapi/featurebase](https://github.com/m190/usefulapi-mcp) | Featurebase MCP by usefulapi | 1.0.0 | Read boards, posts and comments; create posts and comments in Featurebase. |
-| 2026-11-25 03:06:24 | [io.usefulapi/cobot](https://github.com/m190/usefulapi-mcp) | Cobot MCP by usefulapi | 1.0.0 | Read memberships, invoices and bookings; check members in and book resources in… |
-| 2026-11-25 03:06:24 | [io.usefulapi/katana-mrp](https://github.com/m190/usefulapi-mcp) | Katana MRP MCP by usefulapi | 1.0.0 | Read stock, orders and products; create sales and manufacturing orders in Katan… |
-| 2026-11-25 03:06:24 | [io.usefulapi/tapfiliate](https://github.com/m190/usefulapi-mcp) | Tapfiliate MCP by usefulapi | 1.0.0 | Read affiliates, conversions and commissions; create affiliates; approve commis… |
-| 2026-11-25 03:06:24 | [io.usefulapi/crisp-chat](https://github.com/m190/usefulapi-mcp) | Crisp MCP by usefulapi | 1.0.0 | Read conversations and messages; send replies and notes, and set states in Cris… |
-| 2026-11-25 03:06:24 | [io.usefulapi/firstpromoter](https://github.com/m190/usefulapi-mcp) | FirstPromoter MCP by usefulapi | 1.0.0 | Read promoters, referrals, commissions and payouts; approve commissions in Firs… |
-| 2026-11-25 03:06:24 | [io.usefulapi/lithic](https://github.com/m190/usefulapi-mcp) | Lithic MCP by usefulapi | 1.0.0 | Read cards, transactions and account holders; pause and unpause cards in Lithic. |
-| 2026-11-25 03:06:24 | [io.usefulapi/yousign](https://github.com/m190/usefulapi-mcp) | Yousign MCP by usefulapi | 1.0.0 | Read signature requests and signers; create and activate requests, and send rem… |
-| 2026-11-25 03:06:25 | [io.usefulapi/zenduty](https://github.com/m190/usefulapi-mcp) | Zenduty MCP by usefulapi | 1.0.0 | Read on-call schedules and incidents; create and update incidents and notes in… |
-| 2026-11-25 03:06:25 | [io.usefulapi/short-io](https://github.com/m190/usefulapi-mcp) | Short.io MCP by usefulapi | 1.0.0 | Read domains and short links; create, update and archive short links in Short.i… |
-| 2026-11-25 03:06:25 | [io.usefulapi/postgrid](https://github.com/m190/usefulapi-mcp) | PostGrid MCP by usefulapi | 1.0.0 | Read letters, contacts and templates; send or cancel letters and verify address… |
-| 2026-11-25 03:06:25 | [io.usefulapi/nexudus](https://github.com/m190/usefulapi-mcp) | Nexudus MCP by usefulapi | 1.0.0 | Read coworkers, bookings, resources and invoices; list check-ins in Nexudus. |
-| 2026-11-25 03:06:25 | [io.usefulapi/nutshell](https://github.com/m190/usefulapi-mcp) | Nutshell MCP by usefulapi | 1.0.0 | Read leads, contacts and tasks; create leads, notes and tasks, and close leads… |
-| 2026-11-25 03:07:32 | io.github.stockdataarchive/stock-data-archive | Stock Data Archive | 1.0.0 | Discover historical US stock/ETF coverage, Parquet/CSV samples, formats and pur… |
-| 2026-11-25 03:10:16 | [dev.wirecat/slack-cli](https://github.com/WireCatLabs/slack-cli) | WireCat slack | 0.2.0 | slack for agents over MCP. Set up a profile with the slack CLI first. |
-| 2026-11-25 03:11:38 | [io.github.123mason123/weightedshares-mcp](https://github.com/123mason123/weightedshares-mcp) | WeightedShares — SEC EDGAR Buybacks vs.… | 1.0.0 | Free SEC EDGAR XBRL data for U.S. stock buybacks, SBC, True FCF, Form 4, and 13… |
-| 2026-11-25 03:15:35 | ai.keystonecloud/keystone | Keystone | 1.0.0 | Your AI does the work in your business apps: calls, Google Maps rankings, ads,… |
+| 2026-11-25 03:23:02 | com.seacoldchain/markets | SEA Cold Chain market totals | 1.0.0 | Cold storage totals for Southeast Asia: sites, pallet capacity, tiers and pipel… |
+| 2026-11-25 03:31:57 | [io.github.mrfentmen/fire-station-rota-audit-mcp](https://github.com/mrfentmen/awesome-servers) | Fire Station Rota Audit Audit | 1.0.0 | Real local JSON analysis of fire station rota audit in the Fire Dept lane. 25 M… |
+| 2026-11-25 03:31:58 | [io.github.mrfentmen/fire-station-rota-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Fire Station Rota Guide Guide | 1.0.0 | Real local JSON analysis of fire station rota guide in the Fire Dept lane. 25 M… |
+| 2026-11-25 03:32:06 | [io.github.mrfentmen/hose-lay-basics-audit-mcp](https://github.com/mrfentmen/awesome-servers) | Hose Lay Basics Audit Audit | 1.0.0 | Real local JSON analysis of hose lay basics audit in the Fire Dept lane. 25 MCP… |
+| 2026-11-25 03:32:08 | [io.github.mrfentmen/hose-lay-basics-compare-mcp](https://github.com/mrfentmen/awesome-servers) | Hose Lay Basics Compare Compare | 1.0.0 | Real local JSON analysis of hose lay basics compare in the Fire Dept lane. 25 M… |
+| 2026-11-25 03:32:08 | [io.github.mrfentmen/hose-lay-basics-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Hose Lay Basics Guide Guide | 1.0.0 | Real local JSON analysis of hose lay basics guide in the Fire Dept lane. 25 MCP… |
+| 2026-11-25 03:32:09 | [io.github.mrfentmen/hose-lay-basics-plan-mcp](https://github.com/mrfentmen/awesome-servers) | Hose Lay Basics Planner Planner | 1.0.0 | Real local JSON analysis of hose lay basics planner in the Fire Dept lane. 25 M… |
+| 2026-11-25 03:32:09 | [io.github.mrfentmen/hose-lay-basics-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | Hose Lay Basics Tracker Tracker | 1.0.0 | Real local JSON analysis of hose lay basics tracker in the Fire Dept lane. 25 M… |
+| 2026-11-25 03:32:13 | [io.github.mrfentmen/smoke-alarm-check-audit-mcp](https://github.com/mrfentmen/awesome-servers) | Smoke Alarm Check Audit Audit | 1.0.0 | Real local JSON analysis of smoke alarm check audit in the Fire Dept lane. 25 M… |
+| 2026-11-25 03:32:15 | [io.github.mrfentmen/smoke-alarm-check-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Smoke Alarm Check Guide Guide | 1.0.0 | Real local JSON analysis of smoke alarm check guide in the Fire Dept lane. 25 M… |
+| 2026-11-25 03:32:50 | org.55160406.kb/fagai-policy-kb |  | 1.0.0 | 中国发展改革政策知识库，收录国家与省级发改政策文件 2.1 万余篇、13.6 万条切片，支持关键词检索政策原文片段、按地域筛选、按文号或标题取全文。 |
+| 2026-11-25 03:35:01 | com.signalloomdata/pdf-to-markdown | PDF to Markdown & Text with OCR by Sign… | 1.0.0 | PDF and image links to clean Markdown and text for AI: headings, columns, page… |
+| 2026-11-25 03:37:12 | com.signflick/signflick | SignFlick | 1.0.0 | E-sign PDFs from your AI assistant: upload, place signature fields, send by ema… |
+| 2026-11-25 03:38:08 | [ai.skillsafe/skillsafe](https://github.com/skillsafe/skillsafe-plugin) | SkillSafe | 1.0.0 | Search the SkillSafe registry of security-scanned agent skills and scan skill f… |
+| 2026-11-25 03:38:48 | com.docudetect/documents | DocuDetect | 1.0.0 | Prepare PDFs for e-signature: detect fields, fill values, send for signing, tra… |
+| 2026-11-25 03:41:56 | [io.github.Small-Web-Co/tinypivot](https://github.com/Small-Web-Co/tinypivot) | TinyPivot — Interactive Data IDE for AI… | 0.2.8 | Interactive charts, pivot tables, terminal cards, live TUI, and Excel export in… |
+| 2026-11-25 03:43:32 | [io.github.fenjiangmiantiao/podcast-leads-mcp](https://github.com/fenjiangmiantiao/podcast-leads-mcp) | Podcast Leads | 0.1.0 | Find podcast host emails by keyword, with activity signals and a transparent fu… |
+| 2026-11-25 03:49:14 | com.previewfix/previewfix | PreviewFix | 1.0.0 | Free live previews and human-paid checkout links for fixed-price business audit… |
+| 2026-11-25 03:51:41 | [io.github.jgravelle/jmunch-mcp](https://github.com/jgravelle/jmunch-mcp) |  | 0.2.4 | Transparent MCP proxy. Turns fat tool responses into queryable handles: 88-99%… |
+| 2026-11-25 03:54:02 | com.swgbar/swg-bar | SWG bar | 1.0.0 | Search macOS corporate SWG and HTTPS/SSL inspection guides, release metadata, a… |
+| 2026-11-25 03:56:27 | app.locate2u/mesh | Locate2u Mesh | 1.0.95 | Set up apps on Locate2u Mesh: organisations, credentials, webhooks, maps and AP… |
+| 2026-11-25 03:58:11 | [io.github.mrfentmen/er-visit-prep-audit-mcp](https://github.com/mrfentmen/awesome-servers) | Er Visit Prep Audit Audit | 1.0.0 | Real local JSON analysis of er visit prep audit in the Hospital lane. 25 MCP to… |
+| 2026-11-25 03:58:12 | [io.github.mrfentmen/er-visit-prep-checklist-mcp](https://github.com/mrfentmen/awesome-servers) | Er Visit Prep Checklist Checklist | 1.0.0 | Real local JSON analysis of er visit prep checklist in the Hospital lane. 25 MC… |
+| 2026-11-25 03:58:13 | [io.github.mrfentmen/er-visit-prep-compare-mcp](https://github.com/mrfentmen/awesome-servers) | Er Visit Prep Compare Compare | 1.0.0 | Real local JSON analysis of er visit prep compare in the Hospital lane. 25 MCP… |
+| 2026-11-25 03:58:14 | [io.github.mrfentmen/er-visit-prep-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Er Visit Prep Guide Guide | 1.0.0 | Real local JSON analysis of er visit prep guide in the Hospital lane. 25 MCP to… |
+| 2026-11-25 03:58:15 | [io.github.mrfentmen/er-visit-prep-plan-mcp](https://github.com/mrfentmen/awesome-servers) | Er Visit Prep Planner Planner | 1.0.0 | Real local JSON analysis of er visit prep planner in the Hospital lane. 25 MCP… |
+| 2026-11-25 03:58:15 | [io.github.mrfentmen/er-visit-prep-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | Er Visit Prep Tracker Tracker | 1.0.0 | Real local JSON analysis of er visit prep tracker in the Hospital lane. 25 MCP… |
+| 2026-11-25 03:58:21 | [io.github.mrfentmen/hospital-bag-pack-guide-mcp](https://github.com/mrfentmen/awesome-servers) | Hospital Bag Pack Guide Guide | 1.0.0 | Real local JSON analysis of hospital bag pack guide in the Hospital lane. 25 MC… |
+| 2026-11-25 03:58:48 | [design.60fps/library](https://github.com/60fps-Design/plugin) | 60fps | 1.0.1 | Real iOS interaction clips, motion breakdowns, SwiftUI to match. Paid licence r… |
+| 2026-11-25 04:02:21 | com.fallscitylabs/heiti | Heiti | 0.5.2 | Your AI agent reads your recorded meetings: transcripts, who spoke, people and… |
+| 2026-11-25 04:03:01 | [com.getseopen/seopen](https://github.com/SEOpen/seopen-agent) | SEOpen | 0.6.0 | SEO data for agents: Search Console, rankings, site audits, AI visibility, back… |
+| 2026-11-25 04:10:45 | app.deglaze.mcp/deglaze | Deglaze: Recipes and Meal Planner | 1.0.0 | Turn your saved recipes into dinner ideas, a weekly meal plan and a ready-to-sh… |
+| 2026-11-25 04:12:12 | [io.usefulapi/livestorm](https://github.com/m190/usefulapi-mcp) | Livestorm MCP by usefulapi | 1.0.0 | List events, sessions, attendees and recordings, and create events and sessions… |
+| 2026-11-25 04:12:12 | [io.usefulapi/omnisend](https://github.com/m190/usefulapi-mcp) | Omnisend MCP by usefulapi | 1.0.0 | Read contacts, campaigns, segments and automations, and tag or update contacts… |
+| 2026-11-25 04:12:12 | [io.usefulapi/sender-net](https://github.com/m190/usefulapi-mcp) | Sender.net MCP by usefulapi | 1.0.0 | Manage subscribers and groups, read campaign stats and create draft campaigns i… |
+| 2026-11-25 04:12:12 | [io.usefulapi/benchling](https://github.com/m190/usefulapi-mcp) | Benchling MCP by usefulapi | 1.0.0 | List projects, folders, notebook entries, DNA sequences and users, and create f… |
+| 2026-11-25 04:12:13 | [io.usefulapi/teachable](https://github.com/m190/usefulapi-mcp) | Teachable MCP by usefulapi | 1.0.0 | List courses, students and sales, enroll users and read webhooks in Teachable. |
+| 2026-11-25 04:12:13 | [io.usefulapi/proposify](https://github.com/m190/usefulapi-mcp) | Proposify MCP by usefulapi | 1.0.0 | Read templates and documents, create and edit proposals, clients and companies… |
+| 2026-11-25 04:12:13 | [io.usefulapi/campaign-monitor](https://github.com/m190/usefulapi-mcp) | Campaign Monitor MCP by usefulapi | 1.0.0 | Read clients, lists, subscribers, scheduled campaigns and campaign results in C… |
+| 2026-11-25 04:12:13 | [io.usefulapi/canny](https://github.com/m190/usefulapi-mcp) | Canny MCP by usefulapi | 1.0.0 | List posts, votes and customers, and create posts, comments and status changes… |
+| 2026-11-25 04:12:13 | [io.usefulapi/baseten](https://github.com/m190/usefulapi-mcp) | Baseten MCP by usefulapi | 1.0.0 | Read models, deployments, logs, metrics and training jobs in Baseten. |
+| 2026-11-25 04:12:13 | [io.usefulapi/raygun](https://github.com/m190/usefulapi-mcp) | Raygun MCP by usefulapi | 1.0.0 | List error groups, traces and deployments, and resolve errors or create deploym… |
+| 2026-11-25 04:12:29 | io.github.serenido/website-screenshot | Website Screenshot: Full Page, Mobile &… | 1.0.0 | Screenshots of any website, no login: full page or first screen, mobile, PNG, J… |
 
 ## Data source
 
