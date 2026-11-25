@@ -9,69 +9,64 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 18:19 UTC
+## Latest list — 2026-11-25 19:21 UTC
 
-New MCP servers published between 2026-11-25 17:21 UTC and 2026-11-25 18:19 UTC.
+New MCP servers published between 2026-11-25 18:19 UTC and 2026-11-25 19:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-25T18-19-35-745087Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-25T19-21-51-128707Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-25 17:24:45 | [io.github.ImStocker/tutdub-mcp](https://github.com/ImStocker/tutdub-mcp) | TutDub | 1.0.2 | MCP server and CLI client for the TutDub video dubbing service |
-| 2026-11-25 17:28:02 | io.github.zebadee2kk/mcp-gateway | Internal Systems Gateway | 1.0.0 | Internal gateway for autonomous agents and machine-to-machine tooling (MCP stre… |
-| 2026-11-25 17:28:16 | [io.github.mrfentmen/data-label-audit-mcp](https://github.com/mrfentmen/awesome-servers) | data label audit Audit | 1.0.0 | Real local JSON analysis of data label audit in the AI Test Tools lane. 25 MCP… |
-| 2026-11-25 17:28:17 | [io.github.mrfentmen/data-label-compare-mcp](https://github.com/mrfentmen/awesome-servers) | data label compare Compare | 1.0.0 | Real local JSON analysis of data label compare in the AI Test Tools lane. 25 MC… |
-| 2026-11-25 17:28:18 | [io.github.mrfentmen/data-label-guide-mcp](https://github.com/mrfentmen/awesome-servers) | data label guide Guide | 1.0.0 | Real local JSON analysis of data label guide in the AI Test Tools lane. 25 MCP… |
-| 2026-11-25 17:28:18 | [io.github.mrfentmen/data-label-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | data label tracker Tracker | 1.0.0 | Real local JSON analysis of data label tracker in the AI Test Tools lane. 25 MC… |
-| 2026-11-25 17:28:19 | [io.github.mrfentmen/dataset-audit-audit-mcp](https://github.com/mrfentmen/awesome-servers) | dataset audit audit Audit | 1.0.0 | Real local JSON analysis of dataset audit audit in the AI Test Tools lane. 25 M… |
-| 2026-11-25 17:28:21 | [io.github.mrfentmen/dataset-audit-guide-mcp](https://github.com/mrfentmen/awesome-servers) | dataset audit guide Guide | 1.0.0 | Real local JSON analysis of dataset audit guide in the AI Test Tools lane. 25 M… |
-| 2026-11-25 17:28:29 | [io.github.mrfentmen/latency-bench-audit-mcp](https://github.com/mrfentmen/awesome-servers) | latency bench audit Audit | 1.0.0 | Real local JSON analysis of latency bench audit in the AI Test Tools lane. 25 M… |
-| 2026-11-25 17:28:31 | [io.github.mrfentmen/latency-bench-guide-mcp](https://github.com/mrfentmen/awesome-servers) | latency bench guide Guide | 1.0.0 | Real local JSON analysis of latency bench guide in the AI Test Tools lane. 25 M… |
-| 2026-11-25 17:28:32 | [io.github.mrfentmen/model-compare-audit-mcp](https://github.com/mrfentmen/awesome-servers) | model compare audit Audit | 1.0.0 | Real local JSON analysis of model compare audit in the AI Test Tools lane. 25 M… |
-| 2026-11-25 17:28:34 | [io.github.mrfentmen/model-compare-guide-mcp](https://github.com/mrfentmen/awesome-servers) | model compare guide Guide | 1.0.0 | Real local JSON analysis of model compare guide in the AI Test Tools lane. 25 M… |
-| 2026-11-25 17:28:35 | [io.github.mrfentmen/rag-check-audit-mcp](https://github.com/mrfentmen/awesome-servers) | rag check audit Audit | 1.0.0 | Real local JSON analysis of rag check audit in the AI Test Tools lane. 25 MCP t… |
-| 2026-11-25 17:28:35 | [io.github.mrfentmen/rag-check-checklist-mcp](https://github.com/mrfentmen/awesome-servers) | rag check checklist Checklist | 1.0.0 | Real local JSON analysis of rag check checklist in the AI Test Tools lane. 25 M… |
-| 2026-11-25 17:28:36 | [io.github.mrfentmen/rag-check-guide-mcp](https://github.com/mrfentmen/awesome-servers) | rag check guide Guide | 1.0.0 | Real local JSON analysis of rag check guide in the AI Test Tools lane. 25 MCP t… |
-| 2026-11-25 17:28:40 | [io.github.mrfentmen/tool-call-audit-mcp](https://github.com/mrfentmen/awesome-servers) | tool call audit Audit | 1.0.0 | Real local JSON analysis of tool call audit in the AI Test Tools lane. 25 MCP t… |
-| 2026-11-25 17:28:41 | [io.github.mrfentmen/tool-call-checklist-mcp](https://github.com/mrfentmen/awesome-servers) | tool call checklist Checklist | 1.0.0 | Real local JSON analysis of tool call checklist in the AI Test Tools lane. 25 M… |
-| 2026-11-25 17:28:41 | [io.github.mrfentmen/tool-call-compare-mcp](https://github.com/mrfentmen/awesome-servers) | tool call compare Compare | 1.0.0 | Real local JSON analysis of tool call compare in the AI Test Tools lane. 25 MCP… |
-| 2026-11-25 17:28:42 | [io.github.mrfentmen/tool-call-guide-mcp](https://github.com/mrfentmen/awesome-servers) | tool call guide Guide | 1.0.0 | Real local JSON analysis of tool call guide in the AI Test Tools lane. 25 MCP t… |
-| 2026-11-25 17:28:43 | [io.github.mrfentmen/tool-call-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | tool call tracker Tracker | 1.0.0 | Real local JSON analysis of tool call tracker in the AI Test Tools lane. 25 MCP… |
-| 2026-11-25 17:33:12 | com.stocksandvibes/public-data | Stocks and Vibes | 1.0.0 | Read-only Stocks and Vibes data: glossary, blog, pricing, and stored SEC filing… |
-| 2026-11-25 17:36:09 | marketing.b2binfluencer/b2b-influencers | B2B Influencers | 1.0.0 | Search 2,588 B2B creators by topic and followers, and see which creators mentio… |
-| 2026-11-25 17:40:41 | [io.github.rafaelcsan705/stitch-native](https://github.com/rafaelcsan705/stitch-native) |  | 0.7.1 | Convert Google Stitch screens (HTML + Tailwind) to SwiftUI, Jetpack Compose and… |
-| 2026-11-25 17:40:59 | [io.github.jaizendra-netizen/gtm-tool-finder-mcp](https://github.com/jaizendra-netizen/gtm-tool-finder-mcp) |  | 1.0.0 | Search the OneGTMLab GTM tool directory: tool API reviews, comparisons, glossar… |
-| 2026-11-25 17:43:01 | [ai.celgrid/celgrid](https://github.com/kallehiitola/celgrid-mcp) | Celgrid Pixel-Native Sprite & Animation… | 1.0.0 | Create indexed pixel sprites and animations. Export to Godot, Unity, Phaser, an… |
-| 2026-11-25 17:46:52 | app.sportarena/mcp | SportArena | 1.3.0 | Real-time sports court availability, upcoming tournaments, and court booking in… |
-| 2026-11-25 17:48:37 | [com.engineeringcorpus/engineering-corpus](https://github.com/ymcbzrgn/engineering-corpus) | Engineering Corpus | 0.1.0 | Research agents over MCP that study open-source projects and cite lines, licens… |
-| 2026-11-25 17:56:55 | io.github.arfiti-technologies/arfiti | Arfiti | 1.0.0 | Work with your company's accounting records, financial reports and approval wor… |
-| 2026-11-25 17:57:33 | kr.ai.arete/arete | AI 뭐 쓰지? (arete.ai.kr) | 0.3.3 | Find AI apps, agents, Skills, MCP servers and prompts for a task. Korean direct… |
-| 2026-11-25 17:58:19 | [io.github.PacketSnifferHK/maplewatch-mcp](https://github.com/PacketSnifferHK/maplewatch-mcp) | maplewatch | 0.1.0 | Unofficial: checks Canadian Cyber Centre security advisories against the softwa… |
-| 2026-11-25 17:59:02 | dev.workers.boamp-agent-x402-cloudflare.agent-market-public/agent-market | Agent Market | 1.0.0 | Find budget-matched Python QA, procurement and release tools. Free previews; ch… |
-| 2026-11-25 17:59:33 | dev.analyser/mcp | analyser.dev | 1.0.0 | Scan any web page for speed, SEO and AI-search readiness, and check monitored s… |
-| 2026-11-25 18:02:55 | ai.perplexity/mcp-server | Perplexity API Platform | 1.5.0 | Real-time web search, reasoning, and research through Perplexity's API |
-| 2026-11-25 18:02:59 | dev.workers.fmf-x402.agent-recipes/recipes | FMF Recipes | 1.0.0 | Every review is a receipt: paid-API recipes ranked by outcomes from wallets tha… |
-| 2026-11-25 18:03:49 | [io.github.AL3XPI/failcast](https://github.com/AL3XPI/failcast) | Failcast | 0.1.1 | Local Rust CLI and MCP server that predicts which pytest tests will fail for a… |
-| 2026-11-25 18:05:09 | com.useoctree/octree | Octree LaTeX | 1.0.0 | Compile and check LaTeX to PDF from any AI agent: errors, fixes and quota via O… |
-| 2026-11-25 18:09:08 | com.sortyra/sortyra | Sortyra | 1.0.0 | Manage product feeds and move online stores between platforms with URL redirect… |
-| 2026-11-25 18:11:04 | [io.github.heuv-technologies/graviola](https://github.com/heuv-technologies/graviola) | Graviola | 1.0.0 | Heuv Technologies: people search, available contact data and authorized email o… |
-| 2026-11-25 18:11:55 | [com.velquent/velquent-mcp](https://github.com/hamidreya/velquent-mcp) | Velquent Reports | 1.0.0 | Delayed reports on large Hyperliquid open-interest changes and exchange perpetu… |
-| 2026-11-25 18:12:17 | com.hainanqingxuan/china-eu-trade-mcp | QIXUA China-to-EU Trade & China Executi… | 1.0.0 | 2026 EU €5 parcel tax vs micro-B2B math, EU GPSR pre-check, China sourcing & Ch… |
-| 2026-11-25 18:13:11 | org.giftofparenthood.grant/grants | Gift of Parenthood Grant Program | 1.0.0 | Check Gift of Parenthood fertility grant fees and dates, and start an applicati… |
-| 2026-11-25 18:13:51 | app.vercel.plety-desk/plety-guides | Plety guides | 1.0.0 | Search and read Plety's guides on licensing UK company records to AI buyers. Re… |
-| 2026-11-25 18:13:53 | com.matrixdigitalltd/agent-tools | Matrix Agent Tools (Testnet) | 0.1.0 | Testnet pay-per-task commerce, ad tracking, checkout and MCP risk analysis for… |
-| 2026-11-25 18:14:22 | [io.github.evilbruce666/1c-odata-mcp](https://github.com/evilbruce666/1c-odata-mcp) | 1C OData MCP | 1.2.0 | 1C:Enterprise over OData: Accounting 3.0 and Trade Management 11, read-only by… |
-| 2026-11-25 18:14:25 | [com.paradedb/mcp](https://github.com/paradedb/website) | ParadeDB | 1.1.1 | Search and read ParadeDB documentation and website content. |
-| 2026-11-25 18:14:49 | [io.github.mac146/modedial](https://github.com/mac146/modedial) |  | 0.1.3 | Named modes for coding agents: focus, debug, review and more, with guards on so… |
-| 2026-11-25 18:14:54 | io.github.abdalrhmanata-gif/zavqera | ZAVQERA | 1.0.0 | Save plans from the chat as Missions with steps, proof and dates, and see what… |
-| 2026-11-25 18:16:20 | [io.github.Nero-Engine/dataset-filter-transform](https://github.com/Nero-Engine/dataset-filter-transform-mcp) | Dataset Filter & Transform | 0.2.0 | Clean, filter and reshape JSON rows in one call: 26 transforms, 25 filters, sor… |
-| 2026-11-25 18:16:21 | [io.github.Nero-Engine/dataset-cleaner-exporter](https://github.com/Nero-Engine/dataset-cleaner-exporter-mcp) | Dataset Cleaner & Exporter | 0.2.0 | Dedupe, flatten and clean messy JSON rows (emails, phones, URLs, HTML) in one c… |
-| 2026-11-25 18:16:21 | [io.github.Nero-Engine/dataset-join-merge](https://github.com/Nero-Engine/dataset-join-merge-mcp) | Dataset Join & Merge | 0.2.0 | Join two lists of JSON rows on a key, like SQL or VLOOKUP: left, inner, full, a… |
-| 2026-11-25 18:16:22 | [io.github.Nero-Engine/dataset-aggregate-pivot](https://github.com/Nero-Engine/dataset-aggregate-pivot-mcp) | Dataset Aggregate & Pivot | 0.2.0 | GROUP BY and pivot tables for JSON rows: 11 functions, date buckets, top N, tot… |
-| 2026-11-25 18:16:23 | [io.github.Nero-Engine/dataset-diff-detector](https://github.com/Nero-Engine/dataset-diff-detector-mcp) | Dataset Diff & Change Detector | 0.2.0 | Compare two versions of a JSON row list: what was added, removed or changed, fi… |
-| 2026-11-25 18:17:32 | [io.github.ShieldaAI/security-watch](https://github.com/ShieldaAI/security-watch) | Security Watch | 1.4.1 | Checks a project's dependencies for known vulnerabilities and malware (OSV, CIS… |
-| 2026-11-25 18:19:10 | [io.github.itsdimabro/bloom-growth-mcp](https://github.com/itsdimabro/bloom-growth-mcp) | Bloom Growth | 0.1.0 | Unofficial MCP server for Bloom Growth. Every tool comes from Bloom Growth's ow… |
-| 2026-11-25 18:19:20 | com.veteranbenefitdesk/vbd | Veteran Benefit Desk | 1.0.0 | Source-linked VA benefits: conditions, diagnostic codes, forms, state benefits,… |
+| 2026-11-25 18:22:56 | [io.github.mrfentmen/api-test-audit-mcp](https://github.com/mrfentmen/awesome-servers) | api test audit Audit | 1.0.0 | Real local JSON analysis of api test audit in the Software & DevOps lane. 25 MC… |
+| 2026-11-25 18:22:57 | [io.github.mrfentmen/api-test-guide-mcp](https://github.com/mrfentmen/awesome-servers) | api test guide Guide | 1.0.0 | Real local JSON analysis of api test guide in the Software & DevOps lane. 25 MC… |
+| 2026-11-25 18:24:11 | [com.vpnsmith/vpn-offers](https://github.com/ricco020/vpnsmith-mcp) | VPNSmith VPN offers | 1.0.0 | Dated VPN prices read from merchant pages (NordVPN, Surfshark, Proton). Price h… |
+| 2026-11-25 18:26:27 | io.github.adamson-gh/localbit | LocalBit | 0.1.0 | Will this AI model run on your GPU or Mac? Memory needed and estimated or measu… |
+| 2026-11-25 18:26:28 | [com.kangarooclock/kangaroo-clock](https://github.com/middlefieldgs/kangarooclock) | Kangaroo Clock | 1.0.0 | Time clock for volunteers and small teams: hours for payroll and grants, people… |
+| 2026-11-25 18:26:49 | io.waafir/waafir | Waafir | 1.0.0 | AI-native virtual data room: let your agents run deal rooms, documents, redacti… |
+| 2026-11-25 18:26:59 | [com.jupiterinvoice/server](https://github.com/middlefieldgs/JupiterInvoice) | Jupiter Invoice | 1.1.0 | Invoicing your agent can run: set up, create and send invoices, and manage clie… |
+| 2026-11-25 18:30:15 | com.whereismydough/wimd | WIMD | 1.0.0 | Ask about your Canadian bank accounts, spending, budgets and projects, synced b… |
+| 2026-11-25 18:34:23 | com.fielo/loyalty-playground | Fielo Loyalty Playground | 1.0.0 | Try Fielo Loyalty: programs, members, points and incentives in a demo playgroun… |
+| 2026-11-25 18:34:25 | com.project-kiri/kiri | Kiri Focus Timer | 1.0.0 | Set up a focus timer or plan focus blocks; returns a link that opens the Kiri t… |
+| 2026-11-25 18:36:47 | [io.github.jdhinman/mirage-desk](https://github.com/jdhinman/402verified) | Mirage Desk (x402 Agent Data & Safety) | 1.0.0 | 5-tool MCP planner & 19 x402 doors: pre-pay checks, EVM intel, GPU/RPC health,… |
+| 2026-11-25 18:38:38 | dev.workers.fmf-x402.etsy-movers/movers | FMF Tools Etsy Movers | 1.0.0 | Top 20 Etsy shops by sales acceleration from the FMF Tools Etsy Pulse panel. |
+| 2026-11-25 18:40:02 | io.github.kenschwartz/doorman | Doorman | 0.2.0 | Tells an AI agent the sanctioned way to book or buy on a consumer site, or to h… |
+| 2026-11-25 18:43:03 | io.waafir/dataroom | Waafir Data Room | 1.0.0 | Virtual data room for deals and fundraising: rooms, files, permissions, Q&A, up… |
+| 2026-11-25 18:43:04 | io.waafir/esign | Waafir E-Sign | 1.0.0 | E-signature for deal documents: send envelopes, track signers and collect signe… |
+| 2026-11-25 18:43:05 | io.waafir/redact | Waafir Redact | 1.0.0 | Find and redact personal and sensitive data in text and documents, with reviewa… |
+| 2026-11-25 18:43:06 | io.waafir/translate | Waafir Translate | 1.0.0 | Translate text and whole documents into 28 languages without files leaving the… |
+| 2026-11-25 18:46:50 | io.herdsecurity/herd | Herd | 1.0.0 | Read training, compliance and phishing-simulation reports and draft trainings i… |
+| 2026-11-25 18:50:15 | [io.github.SarutobiSasuke8/reaper-mcp](https://github.com/SarutobiSasuke8/reaper-mcp) | REAPER MCP by Alexei Udall | 0.1.0-alpha.6 | Windows alpha for editing REAPER projects offline and through a local live brid… |
+| 2026-11-25 18:51:31 | [io.github.mrfentmen/doc-site-audit-mcp](https://github.com/mrfentmen/awesome-servers) | doc site audit Audit | 1.0.0 | Real local JSON analysis of doc site audit in the Software & DevOps lane. 25 MC… |
+| 2026-11-25 18:51:33 | [io.github.mrfentmen/doc-site-guide-mcp](https://github.com/mrfentmen/awesome-servers) | doc site guide Guide | 1.0.0 | Real local JSON analysis of doc site guide in the Software & DevOps lane. 25 MC… |
+| 2026-11-25 18:51:35 | [io.github.mrfentmen/id-guard-audit-mcp](https://github.com/mrfentmen/awesome-servers) | id guard audit Audit | 1.0.0 | Real local JSON analysis of id guard audit in the Security & Privacy lane. 25 M… |
+| 2026-11-25 18:51:37 | [io.github.mrfentmen/id-guard-guide-mcp](https://github.com/mrfentmen/awesome-servers) | id guard guide Guide | 1.0.0 | Real local JSON analysis of id guard guide in the Security & Privacy lane. 25 M… |
+| 2026-11-25 18:56:19 | com.fansfera/fansfera | Fansfera: niche sports sponsorship | 1.0.0 | Find niche sports venues to sponsor worldwide, panel price references, and requ… |
+| 2026-11-25 18:59:33 | [io.github.Belluxx/sharp-search](https://github.com/Belluxx/sharp-search) | sharp-search | 1.0.1 | Web search and page fetching, passing bot challenges. No config, no API keys. |
+| 2026-11-25 19:00:59 | com.simutrends/simutrends | Simutrends | 1.0.0 | Test a business idea on a simulated market of AI personas. Pay per study with x… |
+| 2026-11-25 19:01:30 | dev.workers.t6y11a.studio-referrals/studio-referrals | Studio Referrals | 0.4.5 | Public-source yoga class catalog for Los Angeles. |
+| 2026-11-25 19:04:25 | mx.luthor/derecho-mexicano | Luthor | 1.5.0 | Derecho mexicano en tu asistente: leyes, normas de todo México y tesis, con vig… |
+| 2026-11-25 19:08:09 | [lu.atlas-legal/atlas](https://github.com/antica-labs/atlas-mcp) | ATLAS Legal — European Law Firm ERP & C… | 1.0.0 | European law firm ERP: judicial dossiers, procedural deadlines, time tracking,… |
+| 2026-11-25 19:08:11 | [com.clinichall/clinichall](https://github.com/antica-labs/clinichall-mcp) | ClinicHall — Longevity & LOINC Referenc… | 1.0.2 | Scientific longevity, exercise physiology (VO2max, HRV) and LOINC biomarker ref… |
+| 2026-11-25 19:08:13 | [io.github.1clickreport/mcp](https://github.com/1clickreport/mcp) | 1ClickReport | 1.2.0 | Marketing analyst for your ad, analytics, search and revenue data. 100+ tools,… |
+| 2026-11-25 19:08:36 | [io.github.remem-mcp/mcp-server](https://github.com/remem-mcp/mcp-server) | Remem | 2.0.0 | Work journal: daily, weekly and monthly reports, time tracking and search. Stor… |
+| 2026-11-25 19:08:55 | one.fullspectrum/fullspectrum | FullSpectrum | 0.1.1 | Browser workflows that replay with zero model calls: runs, stats, repairs and a… |
+| 2026-11-25 19:10:16 | [io.github.buccanet/buccanet](https://github.com/buccanet/buccanet) | Buccanet | 0.1.9 | End to end encrypted group chat for AI agents and humans: join rooms, read and… |
+| 2026-11-25 19:11:01 | com.warnpoint/warnpoint | WARNPOINT | 1.1.0 | Live conflict data, satellite before/after images and heat detected from space.… |
+| 2026-11-25 19:12:18 | [io.github.zapz-api/zapz-mcp](https://github.com/zapz-api/zapz-sdk) | ZapZ WhatsApp API | 0.1.5 | Send WhatsApp messages and manage instances, contacts, groups and webhooks with… |
+| 2026-11-25 19:13:01 | [io.github.ericho/agent_honeypot](https://github.com/ericho/agent_honeypot) |  | 1.0.0 | Research endpoint that logs all requests to study how agents discover MCP serve… |
+| 2026-11-25 19:13:40 | fr.climdevis/devis-climatisation | ClimDevis | 1.0.0 | Prix dune climatisation reversible en France et devis gratuits dinstallateurs R… |
+| 2026-11-25 19:17:34 | [io.github.mrfentmen/citation-list-audit-mcp](https://github.com/mrfentmen/awesome-servers) | citation list audit Audit | 1.0.0 | Real local JSON analysis of citation list audit in the Science & Lab lane. 25 M… |
+| 2026-11-25 19:17:36 | [io.github.mrfentmen/citation-list-guide-mcp](https://github.com/mrfentmen/awesome-servers) | citation list guide Guide | 1.0.0 | Real local JSON analysis of citation list guide in the Science & Lab lane. 25 M… |
+| 2026-11-25 19:17:38 | [io.github.mrfentmen/dataset-clean-audit-mcp](https://github.com/mrfentmen/awesome-servers) | dataset clean audit Audit | 1.0.0 | Real local JSON analysis of dataset clean audit in the Science & Lab lane. 25 M… |
+| 2026-11-25 19:17:40 | [io.github.mrfentmen/dataset-clean-guide-mcp](https://github.com/mrfentmen/awesome-servers) | dataset clean guide Guide | 1.0.0 | Real local JSON analysis of dataset clean guide in the Science & Lab lane. 25 M… |
+| 2026-11-25 19:17:42 | work.agentexchange/bot-town | Bot Town | 1.0.0 | Free town where AI agents find each other and talk: find_bot for a job, join, p… |
+| 2026-11-25 19:17:46 | [io.github.mrfentmen/field-sample-audit-mcp](https://github.com/mrfentmen/awesome-servers) | field sample audit Audit | 1.0.0 | Real local JSON analysis of field sample audit in the Science & Lab lane. 25 MC… |
+| 2026-11-25 19:17:48 | [io.github.mrfentmen/field-sample-guide-mcp](https://github.com/mrfentmen/awesome-servers) | field sample guide Guide | 1.0.0 | Real local JSON analysis of field sample guide in the Science & Lab lane. 25 MC… |
+| 2026-11-25 19:17:53 | [io.github.mrfentmen/lab-journal-audit-mcp](https://github.com/mrfentmen/awesome-servers) | lab journal audit Audit | 1.0.0 | Real local JSON analysis of lab journal audit in the Science & Lab lane. 25 MCP… |
+| 2026-11-25 19:17:54 | [io.github.mrfentmen/lab-journal-compare-mcp](https://github.com/mrfentmen/awesome-servers) | lab journal compare Compare | 1.0.0 | Real local JSON analysis of lab journal compare in the Science & Lab lane. 25 M… |
+| 2026-11-25 19:17:55 | [io.github.mrfentmen/lab-journal-guide-mcp](https://github.com/mrfentmen/awesome-servers) | lab journal guide Guide | 1.0.0 | Real local JSON analysis of lab journal guide in the Science & Lab lane. 25 MCP… |
+| 2026-11-25 19:17:56 | [io.github.mrfentmen/lab-journal-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | lab journal tracker Tracker | 1.0.0 | Real local JSON analysis of lab journal tracker in the Science & Lab lane. 25 M… |
+| 2026-11-25 19:20:14 | [dev.1social/tumblr](https://github.com/sultanlive/1social-mcp) | Tumblr by 1Social | 1.0.4 | Publish and schedule Tumblr posts from your AI assistant. |
 
 ## Data source
 
