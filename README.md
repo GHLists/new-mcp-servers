@@ -9,72 +9,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 06:20 UTC
+## Latest list — 2026-11-25 07:20 UTC
 
-New MCP servers published between 2026-11-25 05:20 UTC and 2026-11-25 06:20 UTC.
+New MCP servers published between 2026-11-25 06:20 UTC and 2026-11-25 07:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-25T06-20-09-445896Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-25T07-20-41-257556Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-25 05:21:46 | [io.github.mrfentmen/admissions-audit-mcp](https://github.com/mrfentmen/awesome-servers) | admissions audit Audit | 1.0.0 | Real local JSON analysis of admissions audit in the Universities lane. 25 MCP t… |
-| 2026-11-25 05:21:47 | [io.github.mrfentmen/admissions-checklist-mcp](https://github.com/mrfentmen/awesome-servers) | admissions checklist Checklist | 1.0.0 | Real local JSON analysis of admissions checklist in the Universities lane. 25 M… |
-| 2026-11-25 05:21:47 | [io.github.mrfentmen/admissions-compare-mcp](https://github.com/mrfentmen/awesome-servers) | admissions compare Compare | 1.0.0 | Real local JSON analysis of admissions compare in the Universities lane. 25 MCP… |
-| 2026-11-25 05:21:48 | [io.github.mrfentmen/admissions-guide-mcp](https://github.com/mrfentmen/awesome-servers) | admissions guide Guide | 1.0.0 | Real local JSON analysis of admissions guide in the Universities lane. 25 MCP t… |
-| 2026-11-25 05:21:49 | [io.github.mrfentmen/admissions-planner-mcp](https://github.com/mrfentmen/awesome-servers) | admissions planner Planner | 1.0.0 | Real local JSON analysis of admissions planner in the Universities lane. 25 MCP… |
-| 2026-11-25 05:21:50 | [io.github.mrfentmen/admissions-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | admissions tracker Tracker | 1.0.0 | Real local JSON analysis of admissions tracker in the Universities lane. 25 MCP… |
-| 2026-11-25 05:21:50 | [io.github.mrfentmen/alumni-network-audit-mcp](https://github.com/mrfentmen/awesome-servers) | alumni network audit Audit | 1.0.0 | Real local JSON analysis of alumni network audit in the Universities lane. 25 M… |
-| 2026-11-25 05:21:52 | [io.github.mrfentmen/alumni-network-guide-mcp](https://github.com/mrfentmen/awesome-servers) | alumni network guide Guide | 1.0.0 | Real local JSON analysis of alumni network guide in the Universities lane. 25 M… |
-| 2026-11-25 05:21:54 | [io.github.mrfentmen/course-catalog-audit-mcp](https://github.com/mrfentmen/awesome-servers) | course catalog audit Audit | 1.0.0 | Real local JSON analysis of course catalog audit in the Universities lane. 25 M… |
-| 2026-11-25 05:21:56 | [io.github.mrfentmen/course-catalog-guide-mcp](https://github.com/mrfentmen/awesome-servers) | course catalog guide Guide | 1.0.0 | Real local JSON analysis of course catalog guide in the Universities lane. 25 M… |
-| 2026-11-25 05:21:58 | [io.github.mrfentmen/dorm-life-audit-mcp](https://github.com/mrfentmen/awesome-servers) | dorm life audit Audit | 1.0.0 | Real local JSON analysis of dorm life audit in the Universities lane. 25 MCP to… |
-| 2026-11-25 05:21:59 | [io.github.mrfentmen/dorm-life-checklist-mcp](https://github.com/mrfentmen/awesome-servers) | dorm life checklist Checklist | 1.0.0 | Real local JSON analysis of dorm life checklist in the Universities lane. 25 MC… |
-| 2026-11-25 05:22:00 | [io.github.mrfentmen/dorm-life-compare-mcp](https://github.com/mrfentmen/awesome-servers) | dorm life compare Compare | 1.0.0 | Real local JSON analysis of dorm life compare in the Universities lane. 25 MCP… |
-| 2026-11-25 05:22:00 | [io.github.mrfentmen/dorm-life-guide-mcp](https://github.com/mrfentmen/awesome-servers) | dorm life guide Guide | 1.0.0 | Real local JSON analysis of dorm life guide in the Universities lane. 25 MCP to… |
-| 2026-11-25 05:22:01 | [io.github.mrfentmen/dorm-life-planner-mcp](https://github.com/mrfentmen/awesome-servers) | dorm life planner Planner | 1.0.0 | Real local JSON analysis of dorm life planner in the Universities lane. 25 MCP… |
-| 2026-11-25 05:22:02 | [io.github.mrfentmen/dorm-life-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | dorm life tracker Tracker | 1.0.0 | Real local JSON analysis of dorm life tracker in the Universities lane. 25 MCP… |
-| 2026-11-25 05:22:02 | [io.github.mrfentmen/financial-aid-audit-mcp](https://github.com/mrfentmen/awesome-servers) | financial aid audit Audit | 1.0.0 | Real local JSON analysis of financial aid audit in the Universities lane. 25 MC… |
-| 2026-11-25 05:22:04 | [io.github.mrfentmen/financial-aid-guide-mcp](https://github.com/mrfentmen/awesome-servers) | financial aid guide Guide | 1.0.0 | Real local JSON analysis of financial aid guide in the Universities lane. 25 MC… |
-| 2026-11-25 05:22:06 | [io.github.mrfentmen/registrar-audit-mcp](https://github.com/mrfentmen/awesome-servers) | registrar audit Audit | 1.0.0 | Real local JSON analysis of registrar audit in the Universities lane. 25 MCP to… |
-| 2026-11-25 05:22:07 | [io.github.mrfentmen/registrar-checklist-mcp](https://github.com/mrfentmen/awesome-servers) | registrar checklist Checklist | 1.0.0 | Real local JSON analysis of registrar checklist in the Universities lane. 25 MC… |
-| 2026-11-25 05:22:08 | [io.github.mrfentmen/registrar-compare-mcp](https://github.com/mrfentmen/awesome-servers) | registrar compare Compare | 1.0.0 | Real local JSON analysis of registrar compare in the Universities lane. 25 MCP… |
-| 2026-11-25 05:22:09 | [io.github.mrfentmen/registrar-guide-mcp](https://github.com/mrfentmen/awesome-servers) | registrar guide Guide | 1.0.0 | Real local JSON analysis of registrar guide in the Universities lane. 25 MCP to… |
-| 2026-11-25 05:22:10 | [io.github.mrfentmen/registrar-planner-mcp](https://github.com/mrfentmen/awesome-servers) | registrar planner Planner | 1.0.0 | Real local JSON analysis of registrar planner in the Universities lane. 25 MCP… |
-| 2026-11-25 05:22:10 | [io.github.mrfentmen/registrar-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | registrar tracker Tracker | 1.0.0 | Real local JSON analysis of registrar tracker in the Universities lane. 25 MCP… |
-| 2026-11-25 05:22:11 | [io.github.mrfentmen/research-grant-guide-mcp](https://github.com/mrfentmen/awesome-servers) | research grant guide Guide | 1.0.0 | Real local JSON analysis of research grant guide in the Universities lane. 25 M… |
-| 2026-11-25 05:27:55 | [io.github.traceroost/traceroost](https://github.com/traceroost/core) | TraceRoost | 1.2.0 | Lets your coding agent query its own trace history: recent sessions, cost, loop… |
-| 2026-11-25 05:38:35 | dev.workers.pomlabs.pom-data-api/page-time-machine | Page Time Machine | 1.0.0 | Past versions of any web page from Wayback and other archives, with diffs (Pom… |
-| 2026-11-25 05:45:23 | [com.contrastcyber/contrastapi](https://github.com/UPinar/contrastapi) | ContrastAPI | 2.3.3 | Monitor CVEs, packages, domains and IPs. CVE/EPSS/KEV, SBOM, DNS/TLS, IP lookup… |
-| 2026-11-25 05:48:27 | [io.github.mrfentmen/campus-safety-audit-mcp](https://github.com/mrfentmen/awesome-servers) | campus safety audit Audit | 1.0.0 | Real local JSON analysis of campus safety audit in the Universities lane. 25 MC… |
-| 2026-11-25 05:48:29 | [io.github.mrfentmen/campus-safety-guide-mcp](https://github.com/mrfentmen/awesome-servers) | campus safety guide Guide | 1.0.0 | Real local JSON analysis of campus safety guide in the Universities lane. 25 MC… |
-| 2026-11-25 05:48:42 | [io.github.mrfentmen/orientation-audit-mcp](https://github.com/mrfentmen/awesome-servers) | orientation audit Audit | 1.0.0 | Real local JSON analysis of orientation audit in the Universities lane. 25 MCP… |
-| 2026-11-25 05:48:44 | [io.github.mrfentmen/orientation-compare-mcp](https://github.com/mrfentmen/awesome-servers) | orientation compare Compare | 1.0.0 | Real local JSON analysis of orientation compare in the Universities lane. 25 MC… |
-| 2026-11-25 05:48:44 | [io.github.mrfentmen/orientation-guide-mcp](https://github.com/mrfentmen/awesome-servers) | orientation guide Guide | 1.0.0 | Real local JSON analysis of orientation guide in the Universities lane. 25 MCP… |
-| 2026-11-25 05:48:45 | [io.github.mrfentmen/orientation-planner-mcp](https://github.com/mrfentmen/awesome-servers) | orientation planner Planner | 1.0.0 | Real local JSON analysis of orientation planner in the Universities lane. 25 MC… |
-| 2026-11-25 05:48:45 | [io.github.mrfentmen/orientation-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | orientation tracker Tracker | 1.0.0 | Real local JSON analysis of orientation tracker in the Universities lane. 25 MC… |
-| 2026-11-25 05:48:46 | [io.github.mrfentmen/research-grant-audit-mcp](https://github.com/mrfentmen/awesome-servers) | research grant audit Audit | 1.0.0 | Real local JSON analysis of research grant audit in the Universities lane. 25 M… |
-| 2026-11-25 05:48:54 | [io.github.mrfentmen/thesis-audit-mcp](https://github.com/mrfentmen/awesome-servers) | thesis audit Audit | 1.0.0 | Real local JSON analysis of thesis audit in the Universities lane. 25 MCP tools… |
-| 2026-11-25 05:48:54 | [io.github.mrfentmen/thesis-checklist-mcp](https://github.com/mrfentmen/awesome-servers) | thesis checklist Checklist | 1.0.0 | Real local JSON analysis of thesis checklist in the Universities lane. 25 MCP t… |
-| 2026-11-25 05:48:55 | [io.github.mrfentmen/thesis-compare-mcp](https://github.com/mrfentmen/awesome-servers) | thesis compare Compare | 1.0.0 | Real local JSON analysis of thesis compare in the Universities lane. 25 MCP too… |
-| 2026-11-25 05:48:55 | [io.github.mrfentmen/thesis-guide-mcp](https://github.com/mrfentmen/awesome-servers) | thesis guide Guide | 1.0.0 | Real local JSON analysis of thesis guide in the Universities lane. 25 MCP tools… |
-| 2026-11-25 05:48:56 | [io.github.mrfentmen/thesis-planner-mcp](https://github.com/mrfentmen/awesome-servers) | thesis planner Planner | 1.0.0 | Real local JSON analysis of thesis planner in the Universities lane. 25 MCP too… |
-| 2026-11-25 05:48:56 | [io.github.mrfentmen/thesis-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | thesis tracker Tracker | 1.0.0 | Real local JSON analysis of thesis tracker in the Universities lane. 25 MCP too… |
-| 2026-11-25 05:48:58 | [io.github.krishthesmart/context-slicer](https://github.com/krishthesmart/context-slicer) |  | 1.0.1 | Non-destructive context filter for AI chats that sends only what the active tas… |
-| 2026-11-25 05:49:01 | app.projectfeed/project-feed | Project Feed | 1.0.0 | One feed for every project, with file review, portals, tasks, and workspace too… |
-| 2026-11-25 05:53:57 | io.github.lx1112/onchaincheck-token-risk | OnchainCheck Token Risk | 1.0.0 | Rug checks for tokens on 6 chains: 0-100 risk score, reasons, deployer history.… |
-| 2026-11-25 05:53:57 | io.github.lx1112/onchaincheck-wallet-screen | OnchainCheck Wallet Screen | 1.0.0 | Screen a crypto address before paying: OFAC sanctions, labels, exposure, approv… |
-| 2026-11-25 05:53:57 | io.github.lx1112/onchaincheck-company-data | OnchainCheck Company Data | 1.0.0 | Company enrichment, hiring trends, job postings, email finding, SEC filings. Pa… |
-| 2026-11-25 05:53:57 | io.github.lx1112/onchaincheck-web | OnchainCheck Web | 1.0.0 | Web search, page fetch as clean text, extraction, site audits, docs to Markdown… |
-| 2026-11-25 05:53:58 | io.github.lx1112/onchaincheck-prediction-markets | OnchainCheck Prediction Markets | 1.0.0 | Polymarket and Hyperliquid traders, smart money, market holders, flow, odds. Pa… |
-| 2026-11-25 05:54:07 | [io.github.yubraaj11/ffmpeg-mcp](https://github.com/yubraaj11/ffmpeg-mcp) | ffmpeg-mcp Studio | 0.2.0 | AI video editor on FFmpeg: auto captions, Reels/Shorts/TikTok, beat-synced cuts… |
-| 2026-11-25 05:54:42 | ai.fontier/fontier | Fontier | 1.0.0 | Every open-licence font family, each with a sourced yes or no for commercial, w… |
-| 2026-11-25 05:58:01 | [io.github.narmi924/slipwing](https://github.com/narmi924/slipwing) | Slipwing | 0.1.2 | Lets AI agents use Windows desktop apps and Chrome in the background. Windows 1… |
-| 2026-11-25 06:03:06 | io.github.kiichiman/uketsuke | AI Uketsuke (AI reservation reception b… | 1.0.0 | Find shops in Japan and send provisional reservation requests. Shop staff confi… |
-| 2026-11-25 06:04:00 | [io.github.Bekhouche/wc3files](https://github.com/Bekhouche/wc3files) | wc3files | 0.6.1 | Read Warcraft III maps, object data, triggers, scripts, models and replays. Eve… |
-| 2026-11-25 06:04:07 | com.madar-transport/madar-transport | Madar Transport | 1.0.0 | Coach and minibus hire with driver for groups in Egypt: plan the trip, send a q… |
-| 2026-11-25 06:10:58 | [com.aitrainingpay/ai-training-jobs](https://github.com/WebforMike/ai-training-jobs-pay) | AI Training Pay | 1.0.0 | Live AI training jobs (RLHF, evaluation, annotation) with stated pay, plus plat… |
-| 2026-11-25 06:11:44 | com.pulisinsurance/mcp | Pulis Insurance Services | 1.0.0 | Independent insurance agency in West Monroe, NY: facts, towns served, and a cal… |
-| 2026-11-25 06:18:09 | [com.wizmessage/mcp](https://github.com/WizMessage/wizmessage-mcp) | WizMessage | 1.0.2 | Team inbox for WhatsApp Business: AI agents read chats, reply and send approved… |
+| 2026-11-25 06:21:57 | [io.github.Dradradre/reel](https://github.com/Dradradre/Reel) | Reel | 0.1.0 | Video understanding for AI agents: watch, listen and replay a film's frames and… |
+| 2026-11-25 06:27:06 | [io.usefulapi/runn](https://github.com/m190/usefulapi-mcp) | Runn MCP by usefulapi | 1.0.0 | Read people, projects and logged time, and create assignments or log time in Ru… |
+| 2026-11-25 06:27:06 | [io.usefulapi/friendbuy](https://github.com/m190/usefulapi-mcp) | Friendbuy MCP by usefulapi | 1.0.0 | Read referral analytics, loyalty balances and coupons, and record purchases in… |
+| 2026-11-25 06:27:06 | [io.usefulapi/perfectgym](https://github.com/m190/usefulapi-mcp) | PerfectGym MCP by usefulapi | 1.0.0 | Read classes, members and contracts, book or cancel classes, and add notes in P… |
+| 2026-11-25 06:27:06 | [io.usefulapi/sesame-hr](https://github.com/m190/usefulapi-mcp) | Sesame HR MCP by usefulapi | 1.0.0 | Read employees, departments, work entries, absences and shifts in Sesame HR. |
+| 2026-11-25 06:27:07 | [io.usefulapi/attentive](https://github.com/m190/usefulapi-mcp) | Attentive MCP by usefulapi | 1.0.0 | Check subscriber opt-ins, read and change segments, and unsubscribe contacts in… |
+| 2026-11-25 06:27:07 | [io.usefulapi/raklet](https://github.com/m190/usefulapi-mcp) | Raklet MCP by usefulapi | 1.0.0 | Read members, events, plans and payments, and create contacts or news posts in… |
+| 2026-11-25 06:27:07 | [io.usefulapi/beyond-pricing](https://github.com/m190/usefulapi-mcp) | Beyond Pricing MCP by usefulapi | 1.0.0 | Read listings, calendars and reservations, and set base prices or price syncing… |
+| 2026-11-25 06:27:07 | [io.usefulapi/firmao](https://github.com/m190/usefulapi-mcp) | Firmao MCP by usefulapi | 1.0.0 | Read customers, tasks, transactions and opportunities, and create customers or… |
+| 2026-11-25 06:28:37 | com.getdraftlab/draftlab | draftlab | 1.0.0 | The community platform where people share what they make with AI, and how they… |
+| 2026-11-25 06:29:09 | [io.github.MUSE-CODE-SPACE/vibe-coding](https://github.com/MUSE-CODE-SPACE/vibe-coding-mcp) |  | 2.16.0 | Local memory for Claude Code and Codex sessions: capture, recall, digest, docum… |
+| 2026-11-25 06:29:11 | [io.watchfor/watchfor](https://github.com/watchfor-io/agent-toolkit) | WatchFor | 1.0.0 | Uptime & infrastructure monitoring: monitors, incidents, status pages, live dia… |
+| 2026-11-25 06:32:01 | io.github.KalanosAI/kalanos-mcp | Kalanos Robotics Dataset Audits | 1.0.0 | Find public robotics dataset audits. Inspect scores, check coverage, and episod… |
+| 2026-11-25 06:33:08 | [io.github.ethereaglehq/privatools](https://github.com/ethereaglehq/privatools-mcp) | PrivaTools | 0.1.0 | Stateless privacy-first PDF, image, document, and media processing tools via Pr… |
+| 2026-11-25 06:34:11 | net.mytierlist/tier-lists | MyTierList | 1.1.0 | Multilingual tier list maker: keyless consensus & PNG rendering, free API key f… |
+| 2026-11-25 06:35:56 | [io.github.manuaws2026-maker/icecubes](https://github.com/manuaws2026-maker/IceCubesClaudePlugin) | IceCubes | 1.2.1 | Botless meeting notes: search Meet, Zoom and Teams transcripts, summaries and a… |
+| 2026-11-25 06:39:09 | [io.github.srigenmedia/india-api-mcp](https://github.com/srigenmedia/india-api-mcp) | India Public APIs MCP | 0.1.0 | 220 Indian public APIs catalog plus live PIN code, IFSC, DIGIPIN and data.gov.i… |
+| 2026-11-25 06:40:30 | [io.github.wunderous/opute-host-agent](https://github.com/wunderous/opute-host-agent) | Opute Host Agent | 0.5.2 | Run your Linux host from an AI assistant: Incus VMs, K3s, databases, tunnels. R… |
+| 2026-11-25 06:42:39 | [ai.saifs/msme-43bh](https://github.com/Saify-Technologies/saifs-ai-mcps-docs) | MSME 45-Day Payment & 43B(h) Checker | 1.0.0 | Set due dates for MSME bills, a pay-by list, and the §43B(h) year-end disallowa… |
+| 2026-11-25 06:42:40 | [ai.saifs/ecl](https://github.com/Saify-Technologies/saifs-ai-mcps-docs) | ECL Calculator: Expected Credit Loss &… | 1.0.0 | Stage exposures and compute expected credit loss with floors, scenarios and a b… |
+| 2026-11-25 06:42:41 | [ai.saifs/vendor-fraud-check](https://github.com/Saify-Technologies/saifs-ai-mcps-docs) | Vendor Bank-Detail Fraud Checker | 1.0.0 | Flag risky vendor bank changes, invalid identifiers and shared accounts before… |
+| 2026-11-25 06:42:41 | [ai.saifs/duplicate-payments](https://github.com/Saify-Technologies/saifs-ai-mcps-docs) | Duplicate Invoice & Payment Detector | 1.0.0 | Find likely duplicate invoices and payments, with a score, the reason, and the… |
+| 2026-11-25 06:42:42 | [ai.saifs/three-way-match](https://github.com/Saify-Technologies/saifs-ai-mcps-docs) | Three-Way Match: PO vs Receipt vs Invoi… | 1.0.0 | Match purchase orders, receipts and invoices, and split payable amount from hol… |
+| 2026-11-25 06:43:31 | [io.github.mrfentmen/town-hall-audit-mcp](https://github.com/mrfentmen/awesome-servers) | town hall audit Audit | 1.0.0 | Real local JSON analysis of town hall audit in the Local Government lane. 25 MC… |
+| 2026-11-25 06:43:33 | [io.github.mrfentmen/town-hall-guide-mcp](https://github.com/mrfentmen/awesome-servers) | town hall guide Guide | 1.0.0 | Real local JSON analysis of town hall guide in the Local Government lane. 25 MC… |
+| 2026-11-25 06:43:48 | [io.github.mrfentmen/voter-info-audit-mcp](https://github.com/mrfentmen/awesome-servers) | voter info audit Audit | 1.0.0 | Real local JSON analysis of voter info audit in the Local Government lane. 25 M… |
+| 2026-11-25 06:43:50 | [io.github.mrfentmen/voter-info-guide-mcp](https://github.com/mrfentmen/awesome-servers) | voter info guide Guide | 1.0.0 | Real local JSON analysis of voter info guide in the Local Government lane. 25 M… |
+| 2026-11-25 06:49:46 | xyz.whichbutton.app/whichbutton | whichbutton | 0.3.0 | Visual feedback you drew on your own site, for your coding agent to fix and res… |
+| 2026-11-25 06:50:23 | [io.github.ryanvii/anchordoc](https://github.com/ryanvii/AnchorDoc) | AnchorDoc | 0.9.3 | Zero-LLM MCP server for long-PDF navigation, evidence localization, quote verif… |
+| 2026-11-25 06:56:03 | [io.github.sayod111/sayod111-intelligence-mcp](https://github.com/sayod111/sayod111-mcp-servers) |  | 1.1.0 | Storefront, hiring, SEC adviser filings and SaaS trust center data from public… |
+| 2026-11-25 06:57:09 | cn.gitpicker/gitpicker | GitPicker | 1.3.0 | Search GitHub repos, read source, create one-time bundle zip links. China-direc… |
+| 2026-11-25 06:57:50 | io.foglift/mcp | Foglift: AI Search Visibility and Googl… | 1.2.1 | AI search visibility in ChatGPT, Claude, Perplexity, Gemini, AI Overviews, plus… |
+| 2026-11-25 07:01:16 | [io.github.SamKo88927/mjguard](https://github.com/SamKo88927/mjguard) | mjguard | 0.1.0 | Drive any MuJoCo-modelled robot arm; every motion is checked in the model befor… |
+| 2026-11-25 07:03:08 | [io.github.rozinsol/richbinder](https://github.com/rozinsol/richbinder-plugin) |  | 1.1.4 | Find and read your RichBinder documents from an AI agent; edit or organize only… |
+| 2026-11-25 07:04:58 | [io.github.frenchleg/saas-pricing](https://github.com/frenchleg/saas-pricing-mcp) | SaaS Pricing | 0.1.0 | Current list prices, plans, limits and SSO/feature tiers for 50 popular SaaS to… |
+| 2026-11-25 07:08:34 | [io.github.CakeCrusher/slopcheck](https://github.com/CakeCrusher/slopcheck) | SlopCheck | 0.1.1 | Check a draft X (Twitter) post for slop before posting it. Free, no API key. |
+| 2026-11-25 07:11:28 | io.github.bitrovas/mcp | Bitrovas L402 Services | 0.1.0 | Lightning-paid (L402) Bitcoin & data tools: PSBT, PoisonCheck, FormatCheck, QR-… |
+| 2026-11-25 07:18:23 | io.github.hongweihao/ttsmint | TTSMint | 1.0.0 | Turn text into speech, browse voices, and get MP3 audio with optional SRT or We… |
 
 ## Data source
 
