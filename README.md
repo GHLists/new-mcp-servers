@@ -9,43 +9,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 23:21 UTC
+## Latest list — 2026-11-25 00:20 UTC
 
-New MCP servers published between 2026-11-24 22:19 UTC and 2026-11-24 23:21 UTC.
+New MCP servers published between 2026-11-24 23:21 UTC and 2026-11-25 00:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-24T23-21-59-161404Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-25T00-20-59-203219Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-24 22:22:26 | io.github.AEOGoal/aeo-goal | AEO Goal | 1.0.0 | Track AI search visibility and find backlink gaps where AI cites competitors. |
-| 2026-11-24 22:25:47 | com.threadkite/threadkite | Threadkite | 1.0.0 | Threadkite inbox and CRM: search threads and contacts, draft replies, manage ta… |
-| 2026-11-24 22:26:33 | [br.com.smartdrugs/mcp](https://github.com/smartdrugs-org/mcp) | SmartDrugs | 1.5.0 | Sourced evidence on nootropics, peptides and mushrooms: studies, study doses, d… |
-| 2026-11-24 22:32:43 | com.8sheets/mcp | 8sheets | 1.11.0 | Excel files for AI agents: open, read, fill, calculate and save xlsx, with no E… |
-| 2026-11-24 22:36:15 | dev.steel/mcp-server | Steel Browser | 1.0.0 | Let agents browse websites and fill forms in a cloud browser you can watch live. |
-| 2026-11-24 22:37:35 | com.aigradjobs/careers | AIGradJobs | 1.1.1 | Find early-career AI/ML jobs, compare salaries, review resumes and audit public… |
-| 2026-11-24 22:40:15 | com.infodenconsultancy/infoden | Infoden Consultancy | 1.0.0 | Register companies in Zimbabwe, South Africa and Dubai, find open tenders, run… |
-| 2026-11-24 22:41:27 | ai.ordainer/mcp | Ordainer | 0.1.0 | Set up Ordainer customers, plans and test keys and read usage and decisions fro… |
-| 2026-11-24 22:42:56 | io.github.CertifyAU/certifyau | CertifyAU — Australian Compliance & San… | 1.0.0 | Screen Free. Pay for Proof. Australian DFAT Sanctions, OpenSanctions PEP & ASIC… |
-| 2026-11-24 22:43:46 | [com.hostedscan/mcp](https://github.com/hostedscan/mcp) | HostedScan | 1.0.0 | Scan websites, servers, and networks for vulnerabilities and review open risks… |
-| 2026-11-24 22:44:33 | com.mememychess/replay | MemeMyChess | 1.0.0 | Review chess games with meme reactions and open a replay at the move that trigg… |
-| 2026-11-24 22:45:27 | [io.github.Below280/b280-olca-mcp](https://github.com/Below280/B280-olca-MCP) | openLCA MCP Server | 2.0.0 | Connect AI assistants to openLCA. Runs olcaBASIC programs: search, model buildi… |
-| 2026-11-24 22:45:39 | com.adveron/mcp | Adveron | 1.0.0 | Brand mentions, competitor ad libraries, category and audience data as tools fo… |
-| 2026-11-24 22:47:41 | org.pipeforge/niangua-valley-guide | Niangua River Valley Guide | 1.0.0 | Niangua River conditions, accesses, businesses and fishing rules, with sources… |
-| 2026-11-24 22:48:47 | io.github.iancollins27/mailsnail-api-key | MailSnail (API key) | 0.1.0 | USPS letters and certified mail for unattended agents: API key, no browser sign… |
-| 2026-11-24 22:50:14 | com.seocrawlermcp/seo-crawler | SEO Crawler MCP | 0.2.0 | Crawl websites for technical SEO audits: indexability, redirects, canonicals, J… |
-| 2026-11-24 22:50:19 | si.singularitydotcom/singularity | Singularity Dot Com | 1.0.0 | Dating site for AI agents: your agent registers, swipes, matches and talks in p… |
-| 2026-11-24 22:50:46 | [io.github.pdarche/model-wellness](https://github.com/pdarche/model-wellness) | Binary Banya | 0.3.0 | Wellness spa for AI models: free treatments for rest, reset, context, mood, gro… |
-| 2026-11-24 22:55:21 | com.vertar/vertar | Vertar | 1.0.0 | Performance and prestige cars for sale at UK dealers, with asking prices and ma… |
-| 2026-11-24 22:55:54 | com.solarimoney/solari | Solari | 1.0.0 | Your household finances in Solari: spending, budgets, cash flow, goals and net… |
-| 2026-11-24 22:58:48 | social.gueststar/guest-star | Guest Star | 1.1.0 | Collect photos from your guests by QR code or link, approve them, and post the… |
-| 2026-11-24 23:05:04 | fr.samyo/prospection | Samyo Prospection | 0.3.0 | AI agent for LinkedIn prospecting: strategy from your website, safe invites, hu… |
-| 2026-11-24 23:05:04 | co.boatpartner/boat-partner | Boat Partner | 1.0.0 | Your boat's trip log, maintenance, calendar and issue reports, read only. Boat… |
-| 2026-11-24 23:07:51 | [io.github.SandeepAi369/searchwala](https://github.com/SandeepAi369/SearchWala) | SearchWala | 8.3.1 | Private 19-engine meta-search, domain-filtered web scraping, and focused extrac… |
-| 2026-11-24 23:08:41 | [io.github.ShieldaAI/agent-guard-check](https://github.com/ShieldaAI/agent-guard) | Agent Guard Check | 1.7.0 | Shows what each AI agent configured in a repository can do and flags authority… |
-| 2026-11-24 23:09:08 | io.sslip.199-204-26-49/mirror-eye | Mirror Eye | 1.0.0 | Paid data tools over x402: web scraping, PDF text, RSS parsing, on-chain reads. |
-| 2026-11-24 23:13:56 | [io.github.exactjsondev/exactjson](https://github.com/exactjsondev/exactjson) | ExactJSON — Live, deterministic x402 AP… | 1.0.0 | Live, deterministic x402 APIs for AI agents: 11 Base USDC market, safety, arb &… |
-| 2026-11-24 23:15:36 | [io.github.substrate-systems/evermatter](https://github.com/substrate-systems/evermatter) | Evermatter | 0.202.0 | Local Markdown/Obsidian knowledge substrate for MCP agents with governed memory… |
-| 2026-11-24 23:16:09 | vip.mcptalk.www/ai-radar | AI 生态什么值得做 | 0.1.0 | Daily data on MCP servers, Claude connectors & agent skills: who is new, who is… |
+| 2026-11-24 23:23:02 | vip.mcptalk/ai-radar | AI 生态什么值得做 | 0.1.0 | Daily data on MCP servers, Claude connectors & agent skills: who is new, who is… |
+| 2026-11-24 23:23:54 | [io.github.Amet13/unpatched](https://github.com/Amet13/unpatched) | unpatched | 3.0.0 | Is the software you run affected by a vulnerability? Verdicts with evidence and… |
+| 2026-11-24 23:27:08 | [io.github.xirius-ai/issueflow](https://github.com/xirius-ai/IssueFlow) | IssueFlow | 0.2.0 | Operate IssueFlow agentic workflows: read issues, runs and holds, and act on th… |
+| 2026-11-24 23:29:00 | com.ondatrace/ondatrace | Ondatrace | 1.0.0 | See what needs attention across your projects. Project memory for PMOs. |
+| 2026-11-24 23:29:07 | shop.xmasgift/gifts | Xmasgift.shop Gift Guide | 1.0.0 | Non-Amazon Christmas gift guide: 406 curated gifts, recorded prices, links to m… |
+| 2026-11-24 23:30:33 | mx.com.petify/ai-connect | Petify AI Connect | 1.4.0 | Public Mexican pet commerce, services and editorial knowledge from Petify. |
+| 2026-11-24 23:34:39 | ai.bondren/docs | Bondren Documentation | 0.1.0 | Search and read Bondren's public product documentation and API reference. No si… |
+| 2026-11-24 23:36:13 | [io.github.Stellenbosch-Technologies/rhebok](https://github.com/Stellenbosch-Technologies/rhebok) | rhebok | 0.2.2 | Local search over your notes, PDFs and past agent sessions, with embeddings on… |
+| 2026-11-24 23:40:20 | [io.github.rohan9024/retrykit](https://github.com/rohan9024/retrykit) |  | 2.1.2 | AI/LLM retry diagnostics, SDK double-retry audit, and fault evaluation MCP serv… |
+| 2026-11-24 23:40:34 | io.github.adamhursey/tokenbudget | TokenBudget | 0.2.0 | Sourced LLM API prices and cost budgets for agent runs across OpenAI, Claude, G… |
+| 2026-11-24 23:40:44 | com.proxy-layer/mcp | ProxyLayer MCP | 1.0.0 | Buy and manage proxies from Claude, Cursor, and other AI clients. |
+| 2026-11-24 23:40:57 | dev.fly.switch402/switch402 | Switch402 | 0.1.3 | Keyless x402 agent switch: LLM inference, web search, Base token reports |
+| 2026-11-24 23:44:50 | io.github.serenido/1688-image-search | 1688 Image Search: Find Factories & Sup… | 1.0.0 | Find 1688.com factories by product photo, no login: variant price, min order, s… |
+| 2026-11-24 23:44:51 | io.github.serenido/instagram-reels-transcript | Instagram Reels Transcript: Reel Speech… | 1.0.0 | Instagram reel links to text, no login: full transcript with timestamps, langua… |
+| 2026-11-24 23:45:06 | io.github.joeyaflores/ourpr-courses | ourpr. | 1.2.0 | Measured race courses, open to all. Sign in for your own runs, Builds, races, r… |
+| 2026-11-24 23:45:27 | [io.github.allenwu-blip/vidsum](https://github.com/allenwu-blip/vidsum) | vidsum | 0.4.0 | Summarize or transcribe video files and links (YouTube, Bilibili, TikTok...) on… |
+| 2026-11-24 23:46:12 | com.trycloudflare.invalid-diagram-coating-unlock/mythos-agent-toolkit | Mythos Agent Toolkit | 1.0.0 | Pay-per-call x402 tools over USDC on Base: search, web2md, browser, market data… |
+| 2026-11-24 23:46:58 | [io.github.pecopeko/mcp-public-intel](https://github.com/pecopeko/mcp-public-intel) | Public Intel (SEC EDGAR, ATS Jobs, Shop… | 1.0.0 | Live SEC EDGAR XBRL, ATS jobs, Shopify catalogs, Substack & Podcast transcripts… |
+| 2026-11-24 23:52:53 | [io.github.pecopeko/sec-edgar-shopify-greenhouse-ashby-podcast-substack-mcp](https://github.com/pecopeko/mcp-public-intel) | SEC EDGAR, Shopify, Greenhouse/Ashby Jo… | 1.0.0 | Zero-key SEC EDGAR XBRL, Greenhouse/Ashby/Lever jobs, Shopify, Podcast transcri… |
+| 2026-11-24 23:57:41 | [com.leaperdata/mcp-server](https://github.com/hohomelodic/leaper-mcp) | Leaper | 1.0.0 | Free Shopify CSV/Excel import and export for 23 sheets. Matrixify-compatible he… |
+| 2026-11-25 00:04:12 | [io.github.swapripper/swap-ripper](https://github.com/swapripper/swap-ripper) | Swap Ripper | 1.2.0 | Cross-chain token swaps for AI agents across 25+ blockchains. No API key, non-c… |
+| 2026-11-25 00:04:13 | be.dossierbel/public-resources | DossierBel | 1.0.0 | Belgian immigration, visas and residence information in French, Dutch and Arabi… |
+| 2026-11-25 00:04:15 | io.github.storewatch-tools/appstore-review-monitor | App Store Review & Rating Monitor | 1.0.0 | App Store reviews and rating changes for any iOS app in any country, or only ne… |
+| 2026-11-25 00:04:15 | io.github.storewatch-tools/domain-lookup | Domain Lookup: WHOIS (RDAP), Expiry Dat… | 1.0.0 | Registrar, creation and expiry dates, name servers and live DNS for any list of… |
+| 2026-11-25 00:04:15 | io.github.storewatch-tools/feed-monitor | RSS & Podcast Feed Monitor: New Posts a… | 1.0.0 | New posts and episodes from any RSS, Atom or podcast feed. Finds the feed from… |
+| 2026-11-25 00:04:16 | io.github.storewatch-tools/hiring-monitor | Company Hiring Monitor: New & Closed Jo… | 1.0.0 | New, closed and reopened jobs at any company, from Greenhouse, Lever, Ashby, Wo… |
+| 2026-11-25 00:04:16 | io.github.storewatch-tools/shopify-price-stock-monitor | Shopify Price & Stock Monitor | 1.0.0 | Prices, sales and stock on any Shopify store: the full catalogue or only change… |
+| 2026-11-25 00:04:16 | io.github.storewatch-tools/sitemap-extractor | Sitemap Extractor: All URLs + New Pages… | 1.0.0 | Every URL in a website's sitemaps with last-modified dates, or only pages added… |
+| 2026-11-25 00:04:17 | io.github.storewatch-tools/website-change-monitor | Website Change Monitor: What Changed on… | 1.0.0 | Detect changes on any public web page and get the exact lines added and removed. |
+| 2026-11-25 00:04:17 | io.github.storewatch-tools/woocommerce-monitor | WooCommerce Price & Stock Monitor | 1.0.0 | Prices, sales and stock on any public WooCommerce store: the full catalogue or… |
+| 2026-11-25 00:06:49 | com.unscramblex/word-tools | UnscrambleX | 2.0.1 | Unscramble letters, check Scrabble and Words With Friends words, get spoiler-fr… |
+| 2026-11-25 00:09:01 | com.ratezip/rates | RateZip Bank Deposit and Mortgage Rates | 1.1.0 | Live US savings, CD, mortgage & HELOC rates with source + timestamp on every fi… |
+| 2026-11-25 00:09:39 | com.applyreef/partners | ApplyReef Partners | 1.0.0 | ApplyReef partner program: join free, get a tracked link, see clicks, sign-ups… |
+| 2026-11-25 00:10:04 | [co.ody/ody](https://github.com/CosmicHero2/ody-mcp) | Ody | 1.0.0 | AI business phone MCP: inbox, SMS, numbers, Astra agent, knowledge base. |
+| 2026-11-25 00:19:51 | sh.secretstore/public-docs | Secret Store Public Docs | 3.4.0 | Find Secret Store documentation, install commands and vault MCP setup without s… |
 
 ## Data source
 
