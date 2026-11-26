@@ -1,0 +1,32 @@
+created_at,server,title,version,repository,transports,description
+2026-11-26T17:21:17.992253Z,ai.bettershell/resume-builder,BetterShell Resume Builder,1.0.0,,streamable-http,"Tailors a resume or CV to a job: a one-page PDF from your own experience, with every change shown."
+2026-11-26T17:22:36.681059Z,io.github.io-hexagonal/toone-connector,Toone,0.2.1,https://github.com/io-hexagonal/toone-connector,,"See, start and decide on your Toone routines. Needs the Toone Mac app (Direct edition) open."
+2026-11-26T17:22:45.050919Z,io.spektiv/ax-field-guide,AX Field Guide,1.0.0,https://github.com/prspktvs/ax-field-guide,streamable-http,"15 design heuristics and a 55-term lexicon for tools, APIs and MCP servers that AI agents use."
+2026-11-26T17:29:00.620174Z,com.vitalitynode/exchange-rates,VitalityNode Exchange Rates,1.0.0,,streamable-http,"Official FX rates from central banks and tax offices, with source documents, plus street rates."
+2026-11-26T17:29:25.609497Z,io.github.mettini/frameskim-server,Frameskim: YouTube frames and moments for AI agents,1.0.0,,streamable-http,Up to 20 storyboard frames of one YouTube video per call for AI agents. No run.
+2026-11-26T17:29:28.708162Z,io.github.mettini/weather-forecast,Weather Forecast for AI Agents,1.0.0,,streamable-http,"Current, hourly and daily weather per call by coordinates, for AI agents. Paid per location, no run."
+2026-11-26T17:29:30.064353Z,io.github.mettini/youtube-search,YouTube Search API for AI Agents,1.0.0,,streamable-http,"Up to 20 YouTube videos as JSON per search call, for AI agents. Paid per search with videos, no run."
+2026-11-26T17:31:26.006307Z,com.onepard/website-assistant,Onepard Website Assistant,0.1.0,,streamable-http,"Add website chat that answers visitor questions, compares products and sends enquiries to your team."
+2026-11-26T17:31:28.748762Z,com.getmixly/recipes,Mixly Recipes,1.0.0,,streamable-http,"Thermomix and everyday recipes from Mixly, with step settings. Not affiliated with Vorwerk."
+2026-11-26T17:32:14.823285Z,gr.greektenders/mcp,GreekTenders (Προμήθειες Alert),1.0.0,,streamable-http,"Greek public procurement: tenders, awards, contracts, payments, Diavgeia (2024+)."
+2026-11-26T17:34:55.801276Z,com.placefitapp/placefit,PlaceFit,1.0.0,,streamable-http,"UK place evidence, letter grades and comparisons from official sources."
+2026-11-26T17:35:32.58707Z,dev.sceneagent/sceneagent,"SceneAgent: Real2Sim Scenes for Isaac Sim, MuJoCo and USD",1.0.0,,streamable-http,"Real2sim: turn 3D scans, splats and video into sim-ready robot scenes for Isaac Sim and MuJoCo."
+2026-11-26T17:36:27.440463Z,io.github.shark-agents/shark-records,Shark Records,0.2.0,,streamable-http,"US public records for agents: insider trades (Form 4), fund holdings (13F), federal contracts. x402"
+2026-11-26T17:39:06.317153Z,io.lenseo/lenseo,LenSEO,1.0.0,,streamable-http,"Google Maps rank tracker: where a local business ranks, who beats it, and what to do about it."
+2026-11-26T17:40:01.466045Z,io.github.Crossave/crossave-dazi,Crossave import duty & VAT,1.0.1,,streamable-http,"EU import duty & VAT calculator (rules since 1 July 2026), real shop origins and shipping rates."
+2026-11-26T17:40:43.227582Z,io.github.hookdeck/mcp,Hookdeck,1.0.0,,streamable-http,"Debug and manage webhooks in Hookdeck Event Gateway and Outpost: events, deliveries, retries."
+2026-11-26T17:43:47.421611Z,com.mathproven/tables-paid,"Mathproven reference tables, by the pack",0.1.0,https://github.com/mathproven/agent-tools,streamable-http,"Sourced state rules and rates tables, whole or by date. 500 calls for $5.00, $0.01 a call."
+2026-11-26T17:45:17.812432Z,markets.hypr.app/operator,Hypr Markets operator,1.0.0,https://github.com/dylanpersonguy/hypr-markets-mcp,streamable-http; streamable-http,Create and run a white-label Hyperliquid trading terminal from an AI agent.
+2026-11-26T17:45:39.054593Z,pl.znanytrener/mcp,Znany Trener,3.0.0,,streamable-http; streamable-http,"Find personal trainers in Poland, see their real free slots and book a training session."
+2026-11-26T17:48:17.547683Z,com.tendermetro/intelligence,TenderMetro Intelligence,1.0.0,,streamable-http,"Global tender intelligence and capture management for bidders, sales teams and capture managers."
+2026-11-26T17:48:24.620648Z,io.andrewwilkinson/site,Andrew Wilkinson,1.0.0,,streamable-http,"Andrew Wilkinson's site, read-only: profile, products and their MCP endpoints, essays, ship log."
+2026-11-26T17:49:32.917816Z,org.assetgalaxy/asset-galaxy,Asset Galaxy,1.0.0,,streamable-http,"Search 5,000+ license-checked game assets (3D, textures, HDRIs, sounds) and get download links."
+2026-11-26T17:55:24.593864Z,com.liliaeditor/lilia,Lilia Editor,1.0.0,,streamable-http,Create and revise structured scientific papers in real LaTeX. Compatible with Overleaf.
+2026-11-26T17:56:04.239966Z,com.laverdeartisan/comparisons,LAVERDE ARTISAN Comparisons,1.0.0,,streamable-http,"Compare UK olive oil, honey, coffee and gift cards: label facts, dated prices, price per 100ml."
+2026-11-26T17:56:27.930975Z,com.theratesguy.www/policy-analysis,The Rates Guy,1.0.0,,streamable-http,"California auto policy term comparison, cited SR-22 & CDI filing guidance, and filing estimates."
+2026-11-26T17:58:36.34641Z,com.quotemoto/ratefoundry,QuoteMoto RateFoundry,2.2.0,,streamable-http,"Read-only California auto insurance estimates, 30/60/15 & SR-22 rules, and comparison checklists."
+2026-11-26T18:00:51.985412Z,ai.tryelip/elip,Elip,1.0.0,,streamable-http,"Search millions of jobs with your Elip preferences, then edit and export your resume. Free."
+2026-11-26T18:07:04.168562Z,io.agentmonkey/agentmonkey,Agentmonkey,1.0.0,,streamable-http,"Let your AI restyle and extend any website in your own Chrome, saved for every visit."
+2026-11-26T18:09:17.53785Z,ai.skillthis/skillthis,SkillThis,0.1.0,,streamable-http,"Lint, grade, and publish agent skills against Anthropic's skill best practices."
+2026-11-26T18:10:42.121225Z,com.invoicecandy/invoicecandy,Invoice Candy,1.0.0,,streamable-http,"Create, send and track invoices, estimates and payments from ChatGPT, Claude or Codex."
+2026-11-26T18:12:19.315777Z,io.github.tidynest/raven-nest-mcp,,0.4.2,https://github.com/tidynest/raven-nest-mcp,,AI-driven penetration testing - 22 security tools behind safety-hardened MCP endpoints
