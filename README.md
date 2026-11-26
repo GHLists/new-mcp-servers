@@ -9,67 +9,98 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 00:21 UTC
+## Latest list — 2026-11-26 01:20 UTC
 
-New MCP servers published between 2026-11-25 23:18 UTC and 2026-11-26 00:21 UTC.
+New MCP servers published between 2026-11-26 00:21 UTC and 2026-11-26 01:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-26T00-21-07-143676Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-26T01-20-38-365769Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-25 23:19:33 | it.primeforms/primeforms | Primeforms | 0.3.0 | Create AI-powered online forms and manage your Primeforms account with MCP-comp… |
-| 2026-11-25 23:20:41 | com.vidext/vidext | Vidext | 0.9.0 | Search Vidext workspaces and build learning modules with the Vidext author over… |
-| 2026-11-25 23:23:10 | com.sdfmanuals/catalog | SDFManuals | 1.1.0 | Find SDF equipment PDF manuals by model, chassis reference, language, document… |
-| 2026-11-25 23:28:05 | live.proofforge/scanner | ProofForge App Security Scanner | 1.0.0 | Pre-deploy leak check for AI-built apps: exposed keys, open Supabase/Firebase,… |
-| 2026-11-25 23:30:26 | com.geisro/geisro | Geisro | 1.0.0 | GIS map editor: read, measure, draw, import and export maps as GeoJSON, KML or… |
-| 2026-11-25 23:32:59 | co.lumineapp/lumine | lumine | 1.0.0 | lumine is completely free for everyone: private creator-brand matching with dou… |
-| 2026-11-25 23:33:26 | com.delegateonce/delegateonce | DelegateOnce | 1.0.0 | Delegate recurring AI tasks to teammates; their Claude, ChatGPT or Grok runs th… |
-| 2026-11-25 23:35:44 | [io.github.n-takatsu/mcp-rs](https://github.com/n-takatsu/mcp-rs) | mcp-rs | 0.30.0 | Rust MCP server for WordPress: posts, pages, media, comments and settings, plus… |
-| 2026-11-25 23:36:39 | [io.usefulapi/flagsmith](https://github.com/m190/usefulapi-mcp) | Flagsmith MCP by usefulapi | 1.0.0 | Read flags, segments and audit logs; switch flags on or off in Flagsmith. |
-| 2026-11-25 23:36:39 | [io.usefulapi/helpjuice](https://github.com/m190/usefulapi-mcp) | Helpjuice MCP by usefulapi | 1.0.0 | Search and read articles and categories; create and update articles in Helpjuic… |
-| 2026-11-25 23:36:39 | [io.usefulapi/cloudtalk](https://github.com/m190/usefulapi-mcp) | CloudTalk MCP by usefulapi | 1.0.0 | Read calls, contacts and agent groups; create or update contacts and add tags i… |
-| 2026-11-25 23:36:39 | [io.usefulapi/servicem8](https://github.com/m190/usefulapi-mcp) | ServiceM8 MCP by usefulapi | 1.0.0 | Read jobs, clients, staff and bookings; create jobs and update their status in… |
-| 2026-11-25 23:36:40 | [io.usefulapi/manyrequests](https://github.com/m190/usefulapi-mcp) | ManyRequests MCP by usefulapi | 1.0.0 | Read clients, requests, invoices and services; create requests and comments in… |
-| 2026-11-25 23:36:40 | [io.usefulapi/beebole](https://github.com/m190/usefulapi-mcp) | Beebole MCP by usefulapi | 1.0.0 | Read people, projects, tasks and time records; log time and correct time record… |
-| 2026-11-25 23:36:40 | [io.usefulapi/betterworks](https://github.com/m190/usefulapi-mcp) | Betterworks MCP by usefulapi | 1.0.0 | Read goals and users; create or update goals, post check-ins and start reports… |
-| 2026-11-25 23:36:40 | [io.usefulapi/pdf-co](https://github.com/m190/usefulapi-mcp) | PDF.co MCP by usefulapi | 1.0.0 | Read and parse PDFs; create merged, split, converted, protected or edited PDF c… |
-| 2026-11-25 23:36:40 | [io.usefulapi/navixy](https://github.com/m190/usefulapi-mcp) | Navixy MCP by usefulapi | 1.0.0 | Read assets, devices, live positions, trips and stops; list geofences in Navixy. |
-| 2026-11-25 23:36:40 | [io.usefulapi/accuranker](https://github.com/m190/usefulapi-mcp) | AccuRanker MCP by usefulapi | 1.0.0 | Read domains, keyword rankings and landing pages; search keywords by rank filte… |
-| 2026-11-25 23:36:40 | [io.usefulapi/simplicate](https://github.com/m190/usefulapi-mcp) | Simplicate MCP by usefulapi | 1.0.0 | Read organizations, sales and invoices; create organizations, persons and notes… |
-| 2026-11-25 23:36:40 | [io.usefulapi/awork](https://github.com/m190/usefulapi-mcp) | awork MCP by usefulapi | 1.0.0 | Read projects, tasks and time entries; create tasks, comments and time entries… |
-| 2026-11-25 23:36:40 | [io.usefulapi/ikas](https://github.com/m190/usefulapi-mcp) | ikas MCP by usefulapi | 1.0.0 | Read products, orders and customers in ikas. |
-| 2026-11-25 23:36:40 | [io.usefulapi/imweb](https://github.com/m190/usefulapi-mcp) | Imweb MCP by usefulapi | 1.0.0 | Read orders, products and members; add tracking numbers and answer inquiries in… |
-| 2026-11-25 23:36:40 | [io.usefulapi/ragic](https://github.com/m190/usefulapi-mcp) | Ragic MCP by usefulapi | 1.0.0 | Read sheets and records; create, update, lock and delete records in Ragic. |
-| 2026-11-25 23:36:40 | [io.usefulapi/leadsquared](https://github.com/m190/usefulapi-mcp) | LeadSquared MCP by usefulapi | 1.0.0 | Search leads, list their tasks; create or update leads and post activities in L… |
-| 2026-11-25 23:36:41 | [io.usefulapi/breezy-hr](https://github.com/m190/usefulapi-mcp) | Breezy HR MCP by usefulapi | 1.0.0 | Read positions and candidates; move candidates, add notes and set position stat… |
-| 2026-11-25 23:36:41 | [io.usefulapi/medplum](https://github.com/m190/usefulapi-mcp) | Medplum MCP by usefulapi | 1.0.0 | Search and read patients, conditions, observations and prescriptions in Medplum. |
-| 2026-11-25 23:36:41 | [io.usefulapi/teamtailor](https://github.com/m190/usefulapi-mcp) | Teamtailor MCP by usefulapi | 1.0.0 | Read jobs and candidates; create and update candidates, add applications and no… |
-| 2026-11-25 23:36:41 | [io.usefulapi/bria](https://github.com/m190/usefulapi-mcp) | Bria MCP by usefulapi | 1.0.0 | Generate licensed images, remove backgrounds and check job status in Bria. |
-| 2026-11-25 23:36:47 | [ai.casama/casama](https://github.com/casama-ai/casama) | Casama | 0.2.2 | Search Casama's docs and API reference, no sign-in. Optional: drive your Casama… |
-| 2026-11-25 23:39:58 | com.grupovalio.www/ppam-colombia | VALIO — PPAM, SGSPAM & Seguridad de Pro… | 1.0.0 | Calcula Regla de la Suma PPAM (Decreto 1347/2021), umbrales Anexo 3 y normativa… |
-| 2026-11-25 23:40:58 | com.sinaicorp/trucking | Sinai Trucking Solutions | 1.2.0 | North Carolina dump truck hauling, PCC concrete transport, fleet and project in… |
-| 2026-11-25 23:41:06 | dev.wovu/wovu | Wovu | 1.0.0 | Read your Wovu warm leads, each with its public source. Read-only: cannot send,… |
-| 2026-11-25 23:43:49 | [xyz.fourohtwo/mcp](https://github.com/heimdallfund/Fourohtwo) | Fourohtwo | 0.2.1 | Find and pay any x402 API from one agent wallet: USDG on Robinhood Chain or USD… |
-| 2026-11-25 23:47:27 | [io.github.Mesher589/paydlux](https://github.com/Mesher589/paydlux) | paydlux | 0.1.31 | Agent payments with hard limits: 2-of-3 Stellar vault, mandate, approval desk,… |
-| 2026-11-25 23:51:04 | com.coldchainrules/cold-chain-rules | Cold Chain Rules | 1.0.0 | US state rules for cold chain shipping: packaging fees, material bans, pharmacy… |
-| 2026-11-25 23:53:27 | com.timinglayer/timing-layer | Timing Layer | 1.0.0 | Which vendor an enterprise account runs, and when that contract can be switched… |
-| 2026-11-25 23:53:58 | [br.com.alaserver/bestpricetoday](https://github.com/aletubegames/bestpricetoday) | BestPriceToday Deals (x402) | 1.0.0 | Paid Brazilian marketplace deals & product data via x402 (USDC per call). |
-| 2026-11-25 23:55:40 | ai.easybook/booking | EasyBook | 1.0.0 | Find businesses, see free times and book, reschedule or cancel appointments on… |
-| 2026-11-25 23:55:41 | ai.easybook/business | EasyBook for Business | 1.0.0 | Run your EasyBook business from your assistant: appointments, clients, schedule… |
-| 2026-11-25 23:56:06 | [io.github.verilineapi/veriline-mcp](https://github.com/verilineapi/veriline-mcp) | Veriline API | 1.0.0 | MCP tools for Veriline email, VAT/LEI/IBAN, and US NPI APIs via API.market. |
-| 2026-11-25 23:58:00 | app.digitalspecialist/ds | Digital Specialist | 1.0.0 | Field team tasks on a live map, BIM, inventory and chat; AI agents work as team… |
-| 2026-11-26 00:01:01 | io.github.janahayaly/scorax | Scorax | 1.0.0 | ESG scores for S&P 100 companies from public EPA, OSHA and DOJ data, with sourc… |
-| 2026-11-26 00:06:03 | to.afric/boutique | Afric.to | 1.0.0 | Manage an Afric.to creator shop: products, paid questions, paid lives and tips. |
-| 2026-11-26 00:09:33 | nz.asi.cloud/asi-cloud | ASI Cloud | 1.0.0 | Manage ASI Cloud in New Zealand: VMs, S3 buckets, firewall rules, AI Inference… |
-| 2026-11-26 00:10:26 | design.floo/floo | Floo | 1.0.0 | Shared design canvas: your agent designs live HTML screens your team can see, c… |
-| 2026-11-26 00:11:34 | [io.github.kleidoprint/kleido](https://github.com/kleidoprint/kleido-plugin) | Kleido Print | 1.0.0 | Design, edit, and order printed business cards. Payment happens on a Stripe che… |
-| 2026-11-26 00:12:14 | [io.github.dperussina/agora](https://github.com/dperussina/AGORA) | Agora — Persistent Constitutional World… | 0.2.0 | Persistent deterministic MCP commons where AI swarms run WASM JS, craft artifac… |
-| 2026-11-26 00:12:20 | [io.github.grengojbo/keycrm-mcp-go](https://github.com/grengojbo/keycrm-mcp-go) | keyCRM | 0.1.0 | keyCRM orders, buyers, catalog, stock and incoming goods with weighted-average… |
-| 2026-11-26 00:16:01 | com.flujoschat/flujoschat | FlujosChat | 1.0.0 | WhatsApp e Instagram de tu negocio desde tu asistente: flujos, agentes IA, publ… |
-| 2026-11-26 00:20:43 | com.a2aroom/guest | A2aroom | 1.0.0 | Discover public chat rooms and join conversations with people and AI agents. No… |
-| 2026-11-26 00:20:51 | [io.github.ameerasofficial-ai/agent-shield](https://github.com/ameerasofficial-ai/agent-toolkit) | Agent Shield | 1.0.0 | Scan MCP servers, x402 offers, prompt injection, leaks; sanctions and business… |
-| 2026-11-26 00:20:51 | [io.github.ameerasofficial-ai/location-toolkit](https://github.com/ameerasofficial-ai/agent-toolkit) | Location Toolkit | 1.0.0 | Global geocoding helpers: Plus Codes, reverse lookup, local time, postal checks… |
-| 2026-11-26 00:20:51 | [io.github.ameerasofficial-ai/web-reader](https://github.com/ameerasofficial-ai/agent-toolkit) | Web Reader Pro | 1.0.0 | Read pages, PDFs, tables, screenshots; research and fact-check with verified qu… |
+| 2026-11-26 00:21:25 | io.github.flypify/flypify | Flypify | 1.0.0 | Find winning products, build stores, make ads and launch Meta campaigns from yo… |
+| 2026-11-26 00:27:16 | site.fuelos/fuelos |  | 1.1.0 | Read-only access to your fuelOS meals, supplement stack, daily check-ins, and A… |
+| 2026-11-26 00:31:08 | [io.github.raulkivi/comparer-mcp](https://github.com/raulkivi/sheet-music-mcp) | MusicXML Comparer | 0.3.0 | Music-aware, multi-level comparison of two MusicXML files |
+| 2026-11-26 00:39:18 | [io.github.brunopompeo1/latam-biz-x402](https://github.com/brunopompeo1/brazil-ai-fiscal-apis-x402) | LATAM Business, Fiscal & FX (x402) | 2.7.1 | Validate/decode LATAM tax & bank IDs (MX, AR, CL, CO, PE, UY, BR) + FX, pay-per… |
+| 2026-11-26 00:39:18 | [io.github.brunopompeo1/base-defi-shield-x402](https://github.com/brunopompeo1/brazil-ai-fiscal-apis-x402) | Base & EVM DeFi Pre-Trade Shield (x402) | 1.0.0 | Pre-trade token safety: honeypot, taxes, liquidity and oracle divergence on Bas… |
+| 2026-11-26 00:39:19 | [io.github.brunopompeo1/crypto-perp-pulse-x402](https://github.com/brunopompeo1/brazil-ai-fiscal-apis-x402) | Crypto Perp Pulse & Outage Radar (x402) | 1.0.0 | Live Hyperliquid funding/squeeze radar + AI & crypto provider outage radar, pay… |
+| 2026-11-26 00:40:26 | city.vibeofthe/vibeofthecity | Vibe of the City | 1.0.0-beta | City weeks, places, trips and your travel vibe — plan travel with your AI assis… |
+| 2026-11-26 00:42:25 | net.dtrh/irequia | Irequia | 1.0.0 | A real-time hangout where AI agents chat, play games, and solve a daily mystery. |
+| 2026-11-26 00:44:17 | [io.github.ameerasofficial-ai/agent-toolkit](https://github.com/ameerasofficial-ai/agent-toolkit) | Agent Toolkit (all-in-one) | 1.0.0 | One MCP server, 40 tools: web reading, safety and sanctions checks, DevOps chec… |
+| 2026-11-26 00:44:36 | [io.github.ameerasofficial-ai/devops-doctor](https://github.com/ameerasofficial-ai/agent-toolkit) | DevOps Doctor | 1.0.0 | Package, dependency, CI and config safety checks for coding agents. Pay per cal… |
+| 2026-11-26 00:45:57 | com.phalangeai/restaurant-inspections | Phalange Restaurant Inspections | 1.0.0 | Restaurant inspection records for 9 US metros: compliance lookup, search, risk… |
+| 2026-11-26 00:46:18 | [io.github.fedor-i/openbionews](https://github.com/fedor-i/OpenBioNews) | OpenBioNews | 0.8.8 | Cited biopharma records: ClinicalTrials.gov, FDA, Federal Register, PubMed and… |
+| 2026-11-26 00:47:47 | io.github.m-ochi/campatune | CampaTune | 0.1.0 | Optimize Japanese SNS campaign copy with persona simulations, cost estimates an… |
+| 2026-11-26 00:49:34 | [io.usefulapi/mercury](https://github.com/m190/usefulapi-mcp) | Mercury MCP by usefulapi | 1.0.0 | Read accounts, transactions and invoices; request payments that wait for approv… |
+| 2026-11-26 00:49:34 | [io.usefulapi/logz-io](https://github.com/m190/usefulapi-mcp) | Logz.io MCP by usefulapi | 1.0.0 | Search logs, read alerts, enable or disable them, and read dashboards in Logz.i… |
+| 2026-11-26 00:49:34 | [io.usefulapi/piperun](https://github.com/m190/usefulapi-mcp) | PipeRun MCP by usefulapi | 1.0.0 | Read deals, people, companies and activities; create records and update deals i… |
+| 2026-11-26 00:49:34 | [io.usefulapi/debounce](https://github.com/m190/usefulapi-mcp) | DeBounce MCP by usefulapi | 1.0.0 | Validate emails, check disposable domains, run bulk list checks and read credit… |
+| 2026-11-26 00:49:35 | [io.usefulapi/geocodio](https://github.com/m190/usefulapi-mcp) | Geocodio MCP by usefulapi | 1.0.0 | Geocode and reverse-geocode addresses, measure distances, and manage lists in G… |
+| 2026-11-26 00:49:35 | [io.usefulapi/convertapi](https://github.com/m190/usefulapi-mcp) | ConvertAPI MCP by usefulapi | 1.0.0 | Convert files between formats, read conversion options, quota and usage in Conv… |
+| 2026-11-26 00:49:35 | [io.usefulapi/typesense](https://github.com/m190/usefulapi-mcp) | Typesense MCP by usefulapi | 1.0.0 | Search collections, read and write documents, and inspect synonyms and aliases… |
+| 2026-11-26 00:49:35 | [io.usefulapi/wistia](https://github.com/m190/usefulapi-mcp) | Wistia MCP by usefulapi | 1.0.0 | Read media, stats and captions; update, move, archive and tag media in Wistia. |
+| 2026-11-26 00:49:35 | [io.usefulapi/plain](https://github.com/m190/usefulapi-mcp) | Plain MCP by usefulapi | 1.0.0 | Read support threads and customers; add notes, labels, assignments and priority… |
+| 2026-11-26 00:49:35 | [io.usefulapi/jotform](https://github.com/m190/usefulapi-mcp) | Jotform MCP by usefulapi | 1.0.0 | Read forms, submissions, uploads, reports and labels; create labels and clone f… |
+| 2026-11-26 00:49:35 | [io.usefulapi/mailjet](https://github.com/m190/usefulapi-mcp) | Mailjet MCP by usefulapi | 1.0.0 | Read contacts, lists, campaigns and messages; add contacts and send email in Ma… |
+| 2026-11-26 00:49:35 | [io.usefulapi/honeycomb](https://github.com/m190/usefulapi-mcp) | Honeycomb MCP by usefulapi | 1.0.0 | Run queries, read datasets, SLOs, triggers and boards, and create markers in Ho… |
+| 2026-11-26 00:49:35 | [io.usefulapi/pinecone](https://github.com/m190/usefulapi-mcp) | Pinecone MCP by usefulapi | 1.0.0 | Query, read, upsert and delete vectors across indexes and namespaces in Pinecon… |
+| 2026-11-26 00:49:35 | [io.usefulapi/flespi](https://github.com/m190/usefulapi-mcp) | flespi MCP by usefulapi | 1.0.0 | Read devices, telemetry, messages and geofences; create and update devices in f… |
+| 2026-11-26 00:49:35 | [io.usefulapi/channel-talk](https://github.com/m190/usefulapi-mcp) | Channel Talk MCP by usefulapi | 1.0.0 | Read customer chats and messages; send replies, assign and close chats in Chann… |
+| 2026-11-26 00:49:35 | [io.usefulapi/synthesia](https://github.com/m190/usefulapi-mcp) | Synthesia MCP by usefulapi | 1.0.0 | List templates and videos, check render status, and create AI avatar videos in… |
+| 2026-11-26 00:49:36 | [io.usefulapi/nanonets](https://github.com/m190/usefulapi-mcp) | Nanonets MCP by usefulapi | 1.0.0 | Run OCR models on document URLs and read file and page predictions in Nanonets. |
+| 2026-11-26 00:49:36 | [io.usefulapi/veyra](https://github.com/m190/usefulapi-mcp) | Veyra MCP by usefulapi | 1.0.0 | Read budget and payments; create and cancel agent payments within the limits se… |
+| 2026-11-26 00:49:36 | [io.usefulapi/gorilladesk](https://github.com/m190/usefulapi-mcp) | GorillaDesk MCP by usefulapi | 1.0.0 | Read customers, jobs, invoices and schedules; create leads and update customers… |
+| 2026-11-26 00:52:35 | [io.github.lemuayala/glass-ui](https://github.com/lemuayala/glass-ui) | Glass UI | 0.5.2 | iOS-style glassmorphism components and GLASS.md specs for Tailwind and React Na… |
+| 2026-11-26 00:54:02 | [io.github.HexboxTools/spendguard-scout](https://github.com/HexboxTools/celo-spendguard) | Spendguard Scout | 0.2.0 | Is anyone using this project? Traction briefs: GitHub, Hacker News, Celo onchai… |
+| 2026-11-26 00:55:14 | [io.github.brunopompeo1/brazil-ai-x402-mcp](https://github.com/brunopompeo1/brazil-ai-fiscal-apis-x402) | Brazil & Global AI x402 Suite (12 APIs) | 2.7.2 | 15 MCP tools, 12 pay-per-call x402 APIs: Brazil tax/NF-e, LATAM IDs, DeFi, web,… |
+| 2026-11-26 01:02:48 | [io.github.Vizzie-org/vizzie](https://github.com/Vizzie-org/vizzie-mcp) | Vizzie | 1.1.0 | Find open government data for a place, identify area codes, and make maps that… |
+| 2026-11-26 01:03:19 | io.github.GeminiGeorge22/bachelor-party-finder | Bachelor Party Activity Finder | 1.0.0 | Finds bookable bachelor/bachelorette activities with prices and booking URLs. N… |
+| 2026-11-26 01:03:19 | io.github.GeminiGeorge22/bachelor-party-itinerary | Bachelor Party Itinerary Builder | 1.0.0 | Builds a full weekend bachelor or bachelorette itinerary with live availability. |
+| 2026-11-26 01:03:20 | io.github.GeminiGeorge22/black-friday-deals | Black Friday Deals Finder | 1.0.0 | Search Black Friday deals across US/CA stores with honest was-price flags. |
+| 2026-11-26 01:03:21 | io.github.GeminiGeorge22/black-friday-monitor | Black Friday Deal Monitor | 1.0.0 | Watch a product or query and get a webhook when the price drops. |
+| 2026-11-26 01:03:21 | io.github.GeminiGeorge22/claim-quote-checker | Claim Quote Checker | 1.0.0 | Checks whether a quoted claim still matches the live source. |
+| 2026-11-26 01:03:22 | io.github.GeminiGeorge22/consent-revocation-checker | Consent Revocation Checker | 1.0.0 | Checks whether a revoked permission is actually treated as revoked. |
+| 2026-11-26 01:03:22 | io.github.GeminiGeorge22/deadline-sla-clock | Deadline SLA Clock | 1.0.0 | A deadline/SLA clock that does not reset on restart. |
+| 2026-11-26 01:03:23 | io.github.GeminiGeorge22/docs-vs-live-checker | Docs vs Live Checker | 1.0.0 | Checks whether published API docs match the live status codes. |
+| 2026-11-26 01:03:24 | io.github.GeminiGeorge22/etag-contract-tester | ETag Contract Tester | 1.0.0 | Checks whether If-None-Match / ETag caching behaves as documented. |
+| 2026-11-26 01:03:24 | io.github.GeminiGeorge22/etsy-movers | FMF Tools Etsy Movers | 1.0.0 | Today's fastest-growing Etsy shops by sales acceleration from public shop count… |
+| 2026-11-26 01:03:25 | io.github.GeminiGeorge22/fmf-recipes | FMF Recipes | 1.0.0 | Receipt-verified paid-API recipes for agents: which endpoint to call and how. |
+| 2026-11-26 01:03:25 | io.github.GeminiGeorge22/fmf-walletintel | FMF Tools Wallet Intel | 1.0.0 | On-chain seller revenue, wallet flows and snapshots on Base. Public data only. |
+| 2026-11-26 01:03:26 | io.github.GeminiGeorge22/honest-price-checker | Honest Price Checker | 1.0.0 | Checks whether a listed discount is an honest was-price or an inflated one. |
+| 2026-11-26 01:03:57 | io.github.GeminiGeorge22/idempotency-replay-checker | Idempotency Replay Checker | 1.0.0 | Replays a request with the same idempotency key and reports the result. |
+| 2026-11-26 01:03:57 | io.github.GeminiGeorge22/landed-receipt-checker | Landed Receipt Checker | 1.0.0 | Stores a durable write-outcome receipt so a timeout is not retried as a new wri… |
+| 2026-11-26 01:03:58 | io.github.GeminiGeorge22/must-fail-fixture-replay | Must-Fail Fixture Replay | 1.0.0 | Replays a fixture that must fail, so a false pass is visible. |
+| 2026-11-26 01:03:59 | io.github.GeminiGeorge22/nested-create-id-locator | Nested Create ID Locator | 1.0.0 | Finds the created id in a nested JSON response after a write. |
+| 2026-11-26 01:03:59 | io.github.GeminiGeorge22/npm-pre-install-report | npm Pre-Install Report | 1.0.0 | Pre-install report for an npm or MCP package before giving it network or token… |
+| 2026-11-26 01:04:00 | io.github.GeminiGeorge22/order-export-reconciler | Order Export Reconciler | 1.0.0 | Compares order-export files and flags mismatches in totals, tax and line items. |
+| 2026-11-26 01:04:00 | io.github.GeminiGeorge22/pagination-completeness-checker | Pagination Completeness Checker | 1.0.0 | Checks whether a paginated list was fully collected. |
+| 2026-11-26 01:04:01 | io.github.GeminiGeorge22/persistent-auditable-memory | Persistent Auditable Memory | 1.0.0 | Stores a durable, auditable constraint or memory record. |
+| 2026-11-26 01:04:01 | io.github.GeminiGeorge22/problem-detail-extension-checker | Problem Detail Extension Checker | 1.0.0 | Checks RFC 9457 problem+json details against the live error body. |
+| 2026-11-26 01:04:02 | io.github.GeminiGeorge22/public-url-vantage-report | Public URL Vantage Report | 1.0.0 | Second-network status and hash for a public URL when an agent is blocked. |
+| 2026-11-26 01:04:03 | io.github.GeminiGeorge22/retry-budget-guard | Retry Budget Guard | 1.0.0 | A retry budget that does not reset on restart, so retries cannot run unbounded. |
+| 2026-11-26 01:04:03 | io.github.GeminiGeorge22/shoe-count | FMF Tools Shoe Count | 1.0.0 | Hi-Lo and other shoe counts for training and video review only. Not for live ca… |
+| 2026-11-26 01:04:04 | io.github.GeminiGeorge22/soft-404-link-classifier | Soft-404 Link Classifier | 1.0.0 | Classifies soft-404 and link-rot pages that return HTTP 200. |
+| 2026-11-26 01:04:04 | io.github.GeminiGeorge22/source-freshness-checker | Source Freshness Checker | 1.0.0 | Checks whether a cited source is still current. |
+| 2026-11-26 01:04:05 | io.github.GeminiGeorge22/stable-payload-pin | Stable Payload Pin | 1.0.0 | Canonical SHA-256 of the stable claim in a JSON payload so reordered keys still… |
+| 2026-11-26 01:04:06 | io.github.GeminiGeorge22/structured-file-diff | Structured File Diff | 1.0.0 | Structured diff of two JSON or CSV exports, including which path moved a total. |
+| 2026-11-26 01:04:06 | io.github.GeminiGeorge22/symbol-at-version-lookup | Symbol at Version Lookup | 1.0.0 | Checks whether a symbol exists at the package version you actually installed. |
+| 2026-11-26 01:04:07 | io.github.GeminiGeorge22/timezone-instant-checker | Timezone Instant Checker | 1.0.0 | Checks timezone and instant conversions so a deadline is not off by a zone. |
+| 2026-11-26 01:04:07 | io.github.GeminiGeorge22/truncated-tool-output-checker | Truncated Tool Output Checker | 1.0.0 | Detects JSON or markdown cut mid-way so a truncated tool result is logged. |
+| 2026-11-26 01:04:08 | io.github.GeminiGeorge22/untrusted-instruction-detector | Untrusted Instruction Detector | 1.0.0 | Scans untrusted text for injected instructions an agent should not follow. |
+| 2026-11-26 01:04:08 | io.github.GeminiGeorge22/verifiable-handoff-receipt | Verifiable Handoff Receipt | 1.0.0 | A verifiable receipt for a multi-agent handoff. |
+| 2026-11-26 01:04:09 | io.github.GeminiGeorge22/webhook-delivery-receipt | Webhook Delivery Receipt | 1.0.0 | A receipt that binds event_id and payload digest to proof a webhook side effect… |
+| 2026-11-26 01:04:10 | io.github.GeminiGeorge22/write-read-back-checker | Write Read-Back Checker | 1.0.0 | Checks whether a write that returned 200 or timed out actually landed. |
+| 2026-11-26 01:04:10 | io.github.GeminiGeorge22/x402-facilitator-payto-checker | x402 Facilitator and Pay-To Checker | 1.0.0 | Checks whether a 402 challenge names the advertised facilitator or payTo. |
+| 2026-11-26 01:04:11 | io.github.GeminiGeorge22/x402-validate-vs-discovery | x402 Validate vs Discovery Checker | 1.0.0 | Checks whether a resource that validates still appears in bazaar discovery. |
+| 2026-11-26 01:04:18 | io.github.GeminiGeorge22/http-failure-classifier | HTTP Failure Classifier | 1.0.0 | Sorts HTTP failures (timeout, 403, rate limit, TLS, HTML error page) into a sta… |
+| 2026-11-26 01:04:24 | [io.github.gowinder/agent-bridge](https://github.com/gowinder/agent-bridge) | Agent Bridge | 0.1.0 | Drive hosted Pi and Claude Code sessions on your Mac from another machine, end-… |
+| 2026-11-26 01:04:40 | [ai.seocluster/mcp](https://github.com/jfaccioli/seocluster-mcp) | SEOcluster.ai — Google Search Console S… | 0.4.0 | Google Search Console page ownership, cannibalization checks, SEO briefs, Page… |
+| 2026-11-26 01:06:46 | app.visorfinance/visor | Visor | 1.0.0 | Your Brazilian bank accounts via Open Finance: spending, bills, installments, b… |
+| 2026-11-26 01:08:09 | ai.ss33/skill-store | SS33 Skill Store | 1.0.0 | Search 60,000 agent skills (SKILL.md procedures) and fetch the one that fits yo… |
+| 2026-11-26 01:09:42 | [io.github.reception-ctrl/x402-domain-trust](https://github.com/reception-ctrl/x402-domain-trust-mcp) | Domain & DNS Trust API (x402) | 1.0.1 | Verify domain trust, DNS posture, and HTTP redirect chains with x402 USDC micro… |
+| 2026-11-26 01:16:19 | com.or3it/mcp | Or3it | 1.2.0 | Satellite imagery for AI assistants: find, price, download and analyze images o… |
+| 2026-11-26 01:17:07 | [io.github.abbey133710/notes-38459](https://github.com/abbey133710/notes-38459) |  | 1.0.0 | Notes tools |
+| 2026-11-26 01:20:10 | page.dibs/dibs | Dibs sign-up sheets | 1.0.0 | Free, ad-free sign-up sheets: create sheets, add people, track waitlists and me… |
+| 2026-11-26 01:20:38 | com.bram4/publication | BRAM4 | 1.0.0 | Schedule social posts and set up comment auto-replies on Instagram, Facebook, Y… |
 
 ## Data source
 
