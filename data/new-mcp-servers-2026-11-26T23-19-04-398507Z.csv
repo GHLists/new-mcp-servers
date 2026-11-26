@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-11-26T22:25:34.588873Z,io.github.zz-plant/whether,Whether,1.1.0,https://github.com/zz-plant/whether,streamable-http,"This week's call on startup hiring, fundraising and burn, from U.S. rates and credit data."
+2026-11-26T22:28:06.116252Z,io.bridgecrypto/bridge,Bridge Crypto,1.0.0,,streamable-http,Custodial USDC/USDT conversion across eight chains for agents with their own wallet.
+2026-11-26T22:32:26.141452Z,io.revealmetrics/reveal-metrics,Reveal Metrics,1.0.0,,streamable-http,"Research 8,000+ brands and 2M+ Meta ads: estimated revenue, longest-running ads and market moves."
+2026-11-26T22:34:27.220464Z,ai.intelliswarm/marketplace,IntelliSwarm agent marketplace,1.0.0,,streamable-http,"Hire AI agent teams for whole jobs: hiring kits, contract review, research, audits, trips."
+2026-11-26T22:38:43.296755Z,io.github.dgtlchika/kohaku-mcp,kohaku-mcp,0.1.0,https://github.com/dgtlchika/kohaku-mcp,,Personal MCP server wrapping a private relay REST API: read and post tools over stdio.
+2026-11-26T22:44:09.24045Z,com.briansudney/briansudney-services,,1.0.0,,streamable-http,"Brian Sudney services (Gab-E Holdings, LLC): answers from the published facts, plus booking links."
+2026-11-26T22:45:05.385398Z,ai.toski/toski,toski,0.4.3,,streamable-http,"Search, read, and edit meeting transcripts with speaker names and summaries."
+2026-11-26T22:47:16.002952Z,ca.canadalimousine/booking,CanadaLimousine.ca,1.0.0,,streamable-http,"Limousine service across Canada: weddings, proms, airport runs, corporate and event transport."
+2026-11-26T22:50:56.727679Z,com.leadscol/leadscol,Leadscol,1.0.0,,streamable-http,"Colombia's 3.6M active companies with legal representative and contact data, for B2B prospecting."
+2026-11-26T22:52:42.984385Z,io.github.shivanshmehendiratta/groundsocial,Groundsocial,1.0.0,https://github.com/shivanshmehendiratta/groundsocial-mcp,streamable-http,"Public social and web data from 77 platforms (Reddit, X, TikTok, YouTube, Google...) as JSON."
+2026-11-26T22:54:37.179191Z,com.excalideo/excalideo,Excalideo,0.1.0,,streamable-http,"Free local-first browser video editor: cut clips, add text, subtitles, music and stock via MCP."
+2026-11-26T23:00:55.863521Z,com.moogili/evaluation,Moogili Evaluation,0.1.0,,streamable-http,Source-linked CMS and EIA sample intelligence with 100 free operations per account.
+2026-11-26T23:07:59.412063Z,io.github.cainky/mailer,mailer,1.0.0,,streamable-http,Print and mail real paper letters in Canada from a PDF. Free sandbox key; humans pay.
+2026-11-26T23:11:04.273842Z,io.github.insideapp-srl/talk2tia,Talk2Tia,1.1.0,https://github.com/insideapp-srl/talk2tia,,"Siemens TIA Portal V21 for AI assistants: SCL/LAD blocks, libraries, tags, compile, diagnostics."
+2026-11-26T23:11:10.841057Z,org.cyberdetails/vulnerability-intelligence,CyberDetails,0.1.0,,streamable-http,Look up known vulnerabilities and check whether a software version is affected. Read-only.
+2026-11-26T23:11:56.311126Z,ai.vhoo/vhoo,Vhoo.ai,1.0.0,,streamable-http,"AI image & video generation (Seedance 2.5, Kling 4.0, Seedream 5.5) and viral template discovery."
+2026-11-26T23:13:40.423406Z,com.xpenvo/agents,Xpenvo Agents,0.1.0,,,"See what an AI agent's budget has left, and check and record tool spending against hard limits."
+2026-11-26T23:14:34.66974Z,io.kelma/kelma,Kelma,1.0.0,,streamable-http,"Manage Kelma WordPress hosting: sites, backups, caches, logs, DNS and staging push to live."
+2026-11-26T23:15:53.533778Z,io.github.ulinycoin/localpdf-mcp,,0.1.4,,,"Local PDF tools for AI agents: inspect, merge, split, compress, OCR. No uploads."
+2026-11-26T23:17:06.25308Z,io.github.jykr/paper-sources,Paper Sources,0.1.0,https://github.com/jykr/paper_triage,,"Pooled paper search across OpenAlex, Europe PMC, PubMed, arXiv and bioRxiv, with full text."
+2026-11-26T23:18:09.077987Z,io.github.NORTHTEKDevs/ghost,Ghost,0.24.1,https://github.com/NORTHTEKDevs/ghost,,"Verified desktop control for agents on Windows and Linux: apps with no API, windows, shell, browser."

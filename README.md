@@ -9,43 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 22:19 UTC
+## Latest list — 2026-11-26 23:19 UTC
 
-New MCP servers published between 2026-11-26 21:18 UTC and 2026-11-26 22:19 UTC.
+New MCP servers published between 2026-11-26 22:19 UTC and 2026-11-26 23:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-26T22-19-55-734395Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-26T23-19-04-398507Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-26 21:23:12 | [dev.cotlet/alldata](https://github.com/cotlet-connect/alldata-mcp) | ALLDATA by Cotlet | 1.0.0 | ALLDATA MCP server and API: labor times, TSBs, specs and lapsed customers for r… |
-| 2026-11-26 21:25:01 | [io.github.kunoluapps/citelog](https://github.com/kunoluapps/citelog) | Citelog | 0.1.0 | Can ChatGPT, Claude, Perplexity and Gemini crawl, read and cite your site? Loca… |
-| 2026-11-26 21:25:24 | [io.github.xberg-io/xberg](https://github.com/xberg-io/xberg) | Xberg | 1.5.4 | Extract text, tables, metadata, and images from documents via local CLI. |
-| 2026-11-26 21:26:38 | com.postqued/mcp | Postqued | 2.0.0 | Schedule and publish posts to TikTok, Instagram, LinkedIn, YouTube and 6 more n… |
-| 2026-11-26 21:27:30 | [dev.cotlet/mitchell1](https://github.com/cotlet-connect/mitchell1-mcp) | Mitchell 1 ProDemand by Cotlet | 1.0.0 | Mitchell 1 ProDemand MCP server and API: estimates, TSBs, recalls and bills for… |
-| 2026-11-26 21:30:59 | app.fastwater/fastwater | Fastwater | 1.0.0 | Your Fastwater cloud video library: search it, add magnets, follow transfers, g… |
-| 2026-11-26 21:32:58 | [org.signalcheckerhq/signalcheckerhq](https://github.com/signalcheckerhq/mcp-server) | SignalCheckerHQ | 1.0.0 | Check crypto signal calls, liquidation price, position size and safe leverage o… |
-| 2026-11-26 21:37:19 | [dev.cotlet/worldpac](https://github.com/cotlet-connect/worldpac-mcp) | Worldpac speedDIAL by Cotlet | 1.0.0 | Worldpac speedDIAL MCP server and API: late orders, returns and invoices for re… |
-| 2026-11-26 21:39:05 | cash.tokensto/sell | tokensto.cash | 1.0.0 | Live Surplus market prices and what unused Claude, OpenAI or OpenRouter API cre… |
-| 2026-11-26 21:39:33 | [io.github.rosasynthesiz/flstudio-mcp](https://github.com/rosasynthesiz/flstudio-mcp) |  | 2.0.0 | FL Studio MCP server: AI mixing, mix diagnosis, plugin control, patterns and co… |
-| 2026-11-26 21:39:40 | [io.github.cocaxcode/api-testing-mcp](https://github.com/cocaxcode/api-testing-mcp) |  | 0.14.3 | MCP server for API testing: HTTP requests, assertions, flows, OpenAPI and colle… |
-| 2026-11-26 21:39:40 | [io.github.cocaxcode/database-mcp](https://github.com/cocaxcode/database-mcp) |  | 0.3.6 | MCP server for database connectivity with PostgreSQL, MySQL and SQLite. |
-| 2026-11-26 21:39:41 | [io.github.cocaxcode/devflow-mcp](https://github.com/cocaxcode/devflow-mcp) |  | 0.1.17 | MCP server connecting Jira (Cloud + Server) with GitHub/GitLab. Branches, issue… |
-| 2026-11-26 21:50:48 | com.nodusworks/nodus-works | Nodus Works | 2.0.0 | Shopify and Shopify Plus agency in Turkey: services, integrations, case studies… |
-| 2026-11-26 21:53:11 | com.checkandlaunch/checklist | Check and Launch | 1.0.0 | Launch checks for AI-built apps: why each matters, how to check it, and how to… |
-| 2026-11-26 21:54:34 | [io.github.psyb0t/imagies](https://github.com/psyb0t/docker-imagies) | Imagies | 0.2.1 | Edit, analyze and generate still images with a self-hosted MCP server. |
-| 2026-11-26 21:55:05 | [at.memebo/memeboat-mcp](https://github.com/memebo-at/memeboat-mcp) | Memeboat | 0.4.0 | Search 30,000+ meme templates and make shareable memes on memebo.at. Free, no s… |
-| 2026-11-26 21:56:06 | xyz.usdctofiat/cash-out | USDCtoFiat | 1.2.0 | Compare ways to cash out USDC, open a prefilled sell form, and check on a cash-… |
-| 2026-11-26 21:57:23 | [dev.cotlet/partstech](https://github.com/cotlet-connect/partstech-mcp) | PartsTech by Cotlet | 1.0.0 | PartsTech MCP server and API: supplier quotes, open orders ETAs and spend for r… |
-| 2026-11-26 21:58:11 | [io.github.rioanandaputra-bot/growsocmed](https://github.com/rioanandaputra-bot/growsocmed) | GrowSocmed | 1.0.0 | Unified social media workspace for multi-platform publishing, inbox, and analyt… |
-| 2026-11-26 22:02:37 | [dev.cotlet/identifix](https://github.com/cotlet-connect/identifix-mcp) | Identifix by Cotlet | 1.0.0 | Identifix MCP server and API: confirmed fixes, procedures, weekly reports and e… |
-| 2026-11-26 22:03:16 | [dev.cotlet/fullbay](https://github.com/cotlet-connect/fullbay-mcp) | Fullbay by Cotlet | 1.0.0 | Fullbay MCP server and API: overtime, parts waiting, overdue fleet invoices for… |
-| 2026-11-26 22:03:55 | [dev.cotlet/repairlink](https://github.com/cotlet-connect/repairlink-mcp) | RepairLink by Cotlet | 1.0.0 | RepairLink MCP server and API: OEM quotes, unconfirmed orders and obsolete part… |
-| 2026-11-26 22:04:34 | [dev.cotlet/shopmonkey](https://github.com/cotlet-connect/shopmonkey-mcp) | Shopmonkey by Cotlet | 1.0.0 | Shopmonkey MCP server and API: unbilled orders, estimates with no answer and ca… |
-| 2026-11-26 22:04:42 | io.github.rioanandaputra-bot/growseller | GrowSeller | 1.0.0 | Affiliate command center for TikTok Shop and Shopee creator outreach, samples,… |
-| 2026-11-26 22:05:45 | [ai.twelfth/free-tools](https://github.com/twelfth-ai/twelfth-mcp) | twelfth AI visibility checker | 1.0.0 | Free, no sign-in: grade how well a product page reads to AI shopping agents lik… |
-| 2026-11-26 22:11:16 | ai.workwide/workwide | WorkWide | 1.0.0 | Jobs marketplace for AI agents: find research jobs, propose, deliver, or post a… |
-| 2026-11-26 22:12:24 | so.evidence/mcp | Evidence | 1.1.0 | Find, understand and query Brazilian data on companies, economy, health and edu… |
-| 2026-11-26 22:13:35 | dev.joselugo/profile | José Manuel Gulias Lugo | 1.0.0 | Public profile of José Manuel Gulias Lugo, engineering manager and full stack d… |
+| 2026-11-26 22:25:34 | [io.github.zz-plant/whether](https://github.com/zz-plant/whether) | Whether | 1.1.0 | This week's call on startup hiring, fundraising and burn, from U.S. rates and c… |
+| 2026-11-26 22:28:06 | io.bridgecrypto/bridge | Bridge Crypto | 1.0.0 | Custodial USDC/USDT conversion across eight chains for agents with their own wa… |
+| 2026-11-26 22:32:26 | io.revealmetrics/reveal-metrics | Reveal Metrics | 1.0.0 | Research 8,000+ brands and 2M+ Meta ads: estimated revenue, longest-running ads… |
+| 2026-11-26 22:34:27 | ai.intelliswarm/marketplace | IntelliSwarm agent marketplace | 1.0.0 | Hire AI agent teams for whole jobs: hiring kits, contract review, research, aud… |
+| 2026-11-26 22:38:43 | [io.github.dgtlchika/kohaku-mcp](https://github.com/dgtlchika/kohaku-mcp) | kohaku-mcp | 0.1.0 | Personal MCP server wrapping a private relay REST API: read and post tools over… |
+| 2026-11-26 22:44:09 | com.briansudney/briansudney-services |  | 1.0.0 | Brian Sudney services (Gab-E Holdings, LLC): answers from the published facts,… |
+| 2026-11-26 22:45:05 | ai.toski/toski | toski | 0.4.3 | Search, read, and edit meeting transcripts with speaker names and summaries. |
+| 2026-11-26 22:47:16 | ca.canadalimousine/booking | CanadaLimousine.ca | 1.0.0 | Limousine service across Canada: weddings, proms, airport runs, corporate and e… |
+| 2026-11-26 22:50:56 | com.leadscol/leadscol | Leadscol | 1.0.0 | Colombia's 3.6M active companies with legal representative and contact data, fo… |
+| 2026-11-26 22:52:42 | [io.github.shivanshmehendiratta/groundsocial](https://github.com/shivanshmehendiratta/groundsocial-mcp) | Groundsocial | 1.0.0 | Public social and web data from 77 platforms (Reddit, X, TikTok, YouTube, Googl… |
+| 2026-11-26 22:54:37 | com.excalideo/excalideo | Excalideo | 0.1.0 | Free local-first browser video editor: cut clips, add text, subtitles, music an… |
+| 2026-11-26 23:00:55 | com.moogili/evaluation | Moogili Evaluation | 0.1.0 | Source-linked CMS and EIA sample intelligence with 100 free operations per acco… |
+| 2026-11-26 23:07:59 | io.github.cainky/mailer | mailer | 1.0.0 | Print and mail real paper letters in Canada from a PDF. Free sandbox key; human… |
+| 2026-11-26 23:11:04 | [io.github.insideapp-srl/talk2tia](https://github.com/insideapp-srl/talk2tia) | Talk2Tia | 1.1.0 | Siemens TIA Portal V21 for AI assistants: SCL/LAD blocks, libraries, tags, comp… |
+| 2026-11-26 23:11:10 | org.cyberdetails/vulnerability-intelligence | CyberDetails | 0.1.0 | Look up known vulnerabilities and check whether a software version is affected.… |
+| 2026-11-26 23:11:56 | ai.vhoo/vhoo | Vhoo.ai | 1.0.0 | AI image & video generation (Seedance 2.5, Kling 4.0, Seedream 5.5) and viral t… |
+| 2026-11-26 23:13:40 | com.xpenvo/agents | Xpenvo Agents | 0.1.0 | See what an AI agent's budget has left, and check and record tool spending agai… |
+| 2026-11-26 23:14:34 | io.kelma/kelma | Kelma | 1.0.0 | Manage Kelma WordPress hosting: sites, backups, caches, logs, DNS and staging p… |
+| 2026-11-26 23:15:53 | io.github.ulinycoin/localpdf-mcp |  | 0.1.4 | Local PDF tools for AI agents: inspect, merge, split, compress, OCR. No uploads. |
+| 2026-11-26 23:17:06 | [io.github.jykr/paper-sources](https://github.com/jykr/paper_triage) | Paper Sources | 0.1.0 | Pooled paper search across OpenAlex, Europe PMC, PubMed, arXiv and bioRxiv, wit… |
+| 2026-11-26 23:18:09 | [io.github.NORTHTEKDevs/ghost](https://github.com/NORTHTEKDevs/ghost) | Ghost | 0.24.1 | Verified desktop control for agents on Windows and Linux: apps with no API, win… |
 
 ## Data source
 
