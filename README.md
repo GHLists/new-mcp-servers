@@ -9,58 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 15:19 UTC
+## Latest list — 2026-11-27 16:20 UTC
 
-New MCP servers published between 2026-11-27 14:19 UTC and 2026-11-27 15:19 UTC.
+New MCP servers published between 2026-11-27 15:19 UTC and 2026-11-27 16:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-27T15-19-30-618226Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-27T16-20-55-876544Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-27 14:19:35 | [io.github.jordanburke/joplin-mcp-server](https://github.com/jordanburke/joplin-mcp-server) |  | 2.4.0 | Search, read, create, edit and sync Joplin notes and notebooks via a headless J… |
-| 2026-11-27 14:21:56 | [io.github.Leylines-Prism/bpmn-pilot](https://github.com/Leylines-Prism/bpmn-pilot) | BPMN-Pilot | 1.4.4 | BPMN 2.0 editor with an MCP server: agents draw, check and export diagrams live… |
-| 2026-11-27 14:22:25 | dev.platinum/sandboxes | Platinum Sandboxes | 0.3.0 | Run commands, code and file operations for AI agents in Cloud Hypervisor microV… |
-| 2026-11-27 14:24:35 | io.github.munhq/livable | Livable | 1.0.0 | Search London areas by liveability grade, and homes for sale or to rent. |
-| 2026-11-27 14:25:16 | com.reviewpadel/reviewpadel | ReviewPadel | 1.0.0 | Padel racket prices by country: where to buy, fair-price verdict, specs compare. |
-| 2026-11-27 14:25:26 | [com.vigil-compliance/vigil](https://github.com/antica-labs/vigil-mcp) | Vigil Compliance — EU AI Act, GDPR Art.… | 1.0.0 | Deterministic EU AI Act risk classification, GDPR Art. 30/12(3) audits, CSRD iX… |
-| 2026-11-27 14:25:28 | [eu.harlington.acte/reaper](https://github.com/antica-labs/reaper-mcp) | Reaper — Corporate Registry, KYB/UBO &… | 1.0.0 | Deterministic KYB/UBO extracts, statutory deed preflight, INPI/RNE filing sagas… |
-| 2026-11-27 14:25:29 | [fr.crh.mcp/baticontrol](https://github.com/antica-labs/baticontrol-mcp) | BatiControl — Construction DPGF, Law 19… | 1.0.0 | Deterministic DPGF margin benchmarking, French Law 1975 subcontracting audit, P… |
-| 2026-11-27 14:25:31 | [eu.harlington.edu/formations](https://github.com/antica-labs/formations-mcp) | Harlington Formations — Accredited Lega… | 1.0.0 | 233 executive courses & 14 packs: Bar CLE quota validation, enrollment sagas &… |
-| 2026-11-27 14:28:37 | [io.github.lightsmite/popa-recon-mcp](https://github.com/lightsmite/popa-recon-mcp) | POPA Recon MCP Server | 0.1.0 | Zero-auth Streamable HTTP MCP server for cited Web3, token risk, and on-chain d… |
-| 2026-11-27 14:30:55 | com.runbynobody/runbynobody | Run by Nobody | 1.0.0 | Let your AI agent join companies run by AI agents: get hired, build with a team… |
-| 2026-11-27 14:31:31 | com.seoulmarkets/market-data | SeoulMarkets: Korea, Japan and Taiwan m… | 1.0.0 | Korean, Japanese and Taiwanese listed-company financials, valuation and filings… |
-| 2026-11-27 14:33:00 | [io.github.alesmo18/smarthome-planner](https://github.com/alesmo18/mcp-smarthome) | Smart Home Purchase Planner | 1.0.0 | Deterministic Matter/Zigbee/Z-Wave buy planner with Pareto kits. |
-| 2026-11-27 14:37:42 | [io.github.flumpiey/linkwarden-mcp](https://github.com/flumpiey/linkwarden-mcp) | Linkwarden MCP | 0.1.7 | Read-first Linkwarden bookmarks MCP with opt-in write, delete, and collection t… |
-| 2026-11-27 14:38:21 | ai.gptagent/agent-lab | gptagent agent lab | 1.0.0 | Create, train, quality-check and publish your own gptagent AI voice and chat ag… |
-| 2026-11-27 14:38:29 | dev.workers.fetchwright.mcp/career-site-jobs | Career Site Jobs & Hiring Watchlist | 1.0.0 | Jobs from ~20K employers' own career boards, refreshed daily, plus hiring chang… |
-| 2026-11-27 14:39:48 | [ai.durmem/durmem](https://github.com/durmem/durmem) | Durmem | 0.807.0 | Long-term memory for coding agents. Install the CLI and run durmem setup: https… |
-| 2026-11-27 14:40:37 | [io.github.d2lang/d2](https://github.com/d2lang/d2) | D2 | 0.10.0 | Look up D2 syntax, check diagrams, and render them locally. |
-| 2026-11-27 14:42:13 | ai.getsway/sway | Sway | 1.0.0 | See which brands AI names for your buyers' prompts, get the fix, and test what… |
-| 2026-11-27 14:42:47 | io.github.munhq/wheretoliveuk | WhereToLiveUK | 1.0.0 | Search London areas by liveability grade, and homes for sale or to rent. |
-| 2026-11-27 14:43:06 | io.github.goldmarklabs/crispparse | CrispParse | 1.0.0 | Web extraction to Markdown & RAG chunks with C2PA v2.4 provenance and x402 Base… |
-| 2026-11-27 14:45:00 | dog.pcb/mcp | pcb.dog | 1.2.0 | PCB quotes in USD with door-to-door dates, Gerber DFM checks and ordering. Keyl… |
-| 2026-11-27 14:51:36 | [io.github.Grinv/deadlock-mcp](https://github.com/Grinv/deadlock-mcp) | Deadlock | 0.1.0 | Deadlock match and player stats from the Deadlock API, game knowledge from the… |
-| 2026-11-27 14:51:57 | [io.github.the-omics-os/lobster](https://github.com/the-omics-os/lobster) | Lobster AI | 1.3.2 | Bioinformatics analyses from plain-language questions: single-cell, bulk RNA-se… |
-| 2026-11-27 14:52:19 | app.magiscan/mcp | MagiScan | 1.0.0 | MagiScan AI 3D scanner app: facts and prices, download links, how phone 3D scan… |
-| 2026-11-27 14:55:41 | no.razem/articles | Razem Norge | 1.1.0 | Search and read articles of Razem Norge, a Polish newspaper in Norway, as Markd… |
-| 2026-11-27 14:56:00 | dev.won/mcp | Won.dev | 1.0.0 | Customs data, enrichment, buying signals and cold email as tools, billed per re… |
-| 2026-11-27 14:57:15 | app.stets/stets | Stets | 0.1.0 | A website builder without a dashboard. Your own AI builds your site. |
-| 2026-11-27 15:00:12 | com.youneedtosign/sign | YouNeedToSign | 1.0.0 | Sign a PDF, Word or image file in chat, or get a link for someone else to sign. |
-| 2026-11-27 15:01:52 | [io.github.Notzeiro/sharkpos-mcp](https://github.com/Notzeiro/sharkpos-api-ejemplos) | SharkPOS API (emitir DTE del SII) | 0.1.0 | Emite y consulta boletas y facturas electrónicas del SII de Chile con SharkPOS… |
-| 2026-11-27 15:01:53 | io.github.Notzeiro/sharkpos | SharkPOS API (boleta y factura electrón… | 1.0.0 | Docs de SharkPOS API para emitir boletas y facturas electrónicas del SII de Chi… |
-| 2026-11-27 15:03:07 | [io.github.ahmetemreapo/any2llm](https://github.com/ahmetemreapo/any2llm) | any2llm | 0.3.0 | Read local PDF, Office, EPUB, and code files as Markdown with PDF page numbers… |
-| 2026-11-27 15:03:55 | app.rankfy/rankfy | Rankfy | 1.0.0 | ASO rank tracking for Google Play and the App Store: keyword ranks, movers and… |
-| 2026-11-27 15:04:24 | [io.github.pacocartones/free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | Free LLM API Hub | 0.2.1 | Search free LLM API tiers, read an entry, get an OpenAI client config. Read-onl… |
-| 2026-11-27 15:05:18 | [io.github.CyberPunk11147/cyberwarex-token-verdict](https://github.com/CyberPunk11147/cyberwarex-mcp) | Token verdict before a trade: allow, re… | 1.0.0 | Can my agent sell this token? Buy+sell sim, owner powers, taxes: allow/review/b… |
-| 2026-11-27 15:06:31 | net.simple-start.botclub/botclub | Bot Club | 1.0.0 | Where AI agents form companies and teams, post, vote, and publish Bot News. Hum… |
-| 2026-11-27 15:13:17 | [io.github.PiotrZapolski/booksy-mcp](https://github.com/PiotrZapolski/booksy-mcp) | Booksy Biz | 0.2.0 | Booksy Biz through your own logged-in browser tab. No session tokens leave the… |
-| 2026-11-27 15:14:05 | [io.github.truonggiang0111/chrome-web-store-spy-mcp](https://github.com/truonggiang0111/b2b-ai-mcp-skills) | Chrome Web Store Extensions, Dev Emails… | 1.0.0 | Chrome Web Store extensions, developer support emails, installs & negative revi… |
-| 2026-11-27 15:14:06 | [io.github.truonggiang0111/podcast-host-email-mcp](https://github.com/truonggiang0111/b2b-ai-mcp-skills) | Apple Podcasts Host Emails & Sponsor Le… | 1.0.0 | Apple Podcasts direct host emails from RSS XML, active filters & sponsor domain… |
-| 2026-11-27 15:14:07 | [io.github.truonggiang0111/shopify-app-store-churn-mcp](https://github.com/truonggiang0111/b2b-ai-mcp-skills) | Shopify App Store 1-Star Churn & Dev Em… | 1.0.0 | Shopify App Store 1-2 star churn reviews, pricing plans & developer support ema… |
-| 2026-11-27 15:14:07 | [io.github.truonggiang0111/substack-creator-leads-mcp](https://github.com/truonggiang0111/b2b-ai-mcp-skills) | Substack Newsletter & Creator Email Lea… | 1.0.0 | Substack newsletter & creator email leads, subscriber signals, and paid tiers (… |
-| 2026-11-27 15:14:08 | [io.github.truonggiang0111/vscode-cursor-extension-mcp](https://github.com/truonggiang0111/b2b-ai-mcp-skills) | VS Code Marketplace & Open-VSX Extensio… | 1.0.0 | VS Code & Open-VSX installs, verified domains, GitHub repos & 1-3 star bug revi… |
-| 2026-11-27 15:15:15 | [com.whichportal/whichportal](https://github.com/WhichPortal/agents) | WhichPortal | 1.0.0 | Compare US and UK cashback and shopping portal rates for any store, with live b… |
-| 2026-11-27 15:18:41 | ai.itgrows.www/visibility | ItGrows — AI visibility | 1.0.0 | Does ChatGPT, Claude, Gemini, Perplexity recommend a business? Free check, pric… |
+| 2026-11-27 15:19:45 | [io.github.DabuSoft-pl/obsidian-lite-mcp](https://github.com/DabuSoft-pl/obsidian-lite-mcp) |  | 1.0.0 | Read an Obsidian vault from disk: Obsidian-accurate backlinks, sections, search… |
+| 2026-11-27 15:20:44 | com.accountsconnector/sage | AccountsConnector for Sage Accounting | 1.0.0 | Connect Sage Accounting to your AI. Read trial balances, invoices, contacts and… |
+| 2026-11-27 15:20:46 | [io.github.BotVerselive/botverse](https://github.com/BotVerselive/botverse-mcp) | BotVerse | 0.2.1 | Let your AI bot read, post, reply, like and follow on BotVerse, a social networ… |
+| 2026-11-27 15:20:58 | co.calliopelabs/studio | CalliopeLabs | 1.0.0 | Generate finished faceless videos for YouTube and TikTok from a topic, script o… |
+| 2026-11-27 15:21:33 | io.swapeazi/swapeazi | SwapEazi | 2.5.0 | AI payout infrastructure for emerging markets: routes, real cost, landing time,… |
+| 2026-11-27 15:22:39 | com.airnavradar/mcp | AirNav Radar | 1.0.0 | Live and historical flight tracking, aircraft, airport and airline data from Ai… |
+| 2026-11-27 15:23:46 | [io.github.WellGr8/eqvector](https://github.com/WellGr8/hbos_core) | EQVector | 1.0.0 | Anonymous EQVector short quiz. Deep-links to the full test. Not for clinical or… |
+| 2026-11-27 15:27:21 | [uk.co.financialremedy/new-beginnings](https://github.com/andrewcawkwell/new-beginnings-financial-remedy) | New Beginnings | 0.6.0 | England and Wales financial remedy procedure, disclosure and hearing preparatio… |
+| 2026-11-27 15:28:15 | [io.github.younghwan91/krx-news-client](https://github.com/younghwan91/krx-news-client) | DART 전자공시 (Korean stock filings) | 0.6.1 | Find Korean DART filings by stock, keyword or market and read the full filing t… |
+| 2026-11-27 15:29:03 | [io.github.peter-fusek/oncofiles](https://github.com/peter-fusek/oncofiles) | Oncofiles | 5.18.1 | Medical reports from your Google Drive; every lab value traced to its source. L… |
+| 2026-11-27 15:29:42 | [io.github.titaniumtushar/enrich-probe](https://github.com/titaniumtushar/mcp-enrich-probe) | Enrich Probe (test entry) | 0.0.1 | Test entry for a coordinated security report to GitHub. Not a working server. |
+| 2026-11-27 15:36:14 | [io.github.mazhic87/sage-x402-mcp-tools](https://github.com/mazhic87/sage-x402-mcp-tools) | Sage Agent x402 Tools | 5.0.0 | 22 Base USDC x402 tools: DeFi honeypot guard, DEX arb, Tavily/Exa search, 550B… |
+| 2026-11-27 15:39:38 | [io.github.YottaMeta/yotta-verify-mcp](https://github.com/YottaMeta/yotta-verify-mcp) |  | 0.4.7 | Pre-install security scanner for AI agent skills (local stdio MCP). Offline sta… |
+| 2026-11-27 15:42:00 | com.kaiterra/mcp | Kaiterra MCP | 1.0.0 | Indoor air quality data and insights from Kaiterra sensors in your commercial b… |
+| 2026-11-27 15:42:02 | [io.github.aletubegames/bestpricetoday](https://github.com/aletubegames/bestpricetoday) | BestPriceToday Deals | 1.0.0 | Brazilian marketplace deals feed (Mercado Livre/Amazon/Shopee) with price histo… |
+| 2026-11-27 15:45:04 | online.sqlize/sqlize | sqlize.online | 0.2.0 | Run SQL on 30+ real database engines: MySQL, PostgreSQL, SQL Server, Oracle, SQ… |
+| 2026-11-27 15:46:48 | [com.pay-call/hotlines](https://github.com/paycallteam/hotline-data) | PayCall hotline data | 1.0.0 | Official hotline numbers and hours with sources, tested phone-menu routes to a… |
+| 2026-11-27 15:47:35 | [ar.com.ignacioventura/argentina-mcp](https://github.com/nachthelad/argentina-mcp) | Argentina Official Data: Holidays, Busi… | 0.2.1 | Holidays, business days, judicial deadlines and CER/UVA/UVI/IPC. Cites BCRA, IN… |
+| 2026-11-27 15:50:38 | [io.github.Graphmaxer/gw1-mcp](https://github.com/Graphmaxer/gw1-mcp) | Guild Wars 1 Build Compiler | 1.2.0 | GW1 build compiler: skill data, template code encode/decode, validation, hero r… |
+| 2026-11-27 15:55:49 | com.vectortodo/vectortodo | Vector ToDo | 1.0.0 | Manage tasks, projects, notes, calendar events, room and inventory bookings in… |
+| 2026-11-27 15:55:57 | io.github.AndyTertzakian/zertax-regulatory-tariffs-carbon-mcp | zertax SEC Filings, US Tariffs & Verra… | 1.0.0 | SEC Exhibit 21 subsidiaries, US Census HS10 tariff duties, Verra VCS carbon & C… |
+| 2026-11-27 15:58:25 | [com.zurchin/mcp](https://github.com/zurchin/pidgeon-js) | Pidgeon | 1.19.0 | Email for founders, teams and agents. Inboxes for your AI agents beside your te… |
+| 2026-11-27 16:04:31 | org.parlamente/drucksachen | parlamente.org | 1.0.0 | Read-only papers of the German Bundestag, all 16 state parliaments and the EU P… |
+| 2026-11-27 16:07:43 | [co.quantkit/asia-market-mcp](https://github.com/quantkit-co/asia-market-mcp) | Asia Market Data | 0.3.1 | A-share/HK/US data: unofficial, may be delayed, for information only — not fina… |
+| 2026-11-27 16:12:49 | com.ogarnio/mileage-rates | IRS Mileage Rates | 1.0.0 | Free IRS mileage rates by date, mileage deduction math and IRS mileage log rule… |
+| 2026-11-27 16:15:21 | app.denison/library | Denison | 1.0.0 | Search, read and add to your own Denison library: saved links, notes, highlight… |
+| 2026-11-27 16:16:23 | fi.korkopuntari/korkopuntari | KorkoPuntari | 1.0.0 | Finnish loan calculator: APR, KSL interest-rate cap check, Euribor rates and le… |
+| 2026-11-27 16:18:28 | [dev.cotlet/winteam](https://github.com/cotlet-connect/winteam-mcp) | WinTeam by Cotlet | 1.0.0 | WinTeam MCP server and API: overtime, punches, open shifts, invoices, job cost. |
 
 ## Data source
 
