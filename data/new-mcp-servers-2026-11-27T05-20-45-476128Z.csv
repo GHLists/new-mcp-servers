@@ -1,0 +1,34 @@
+created_at,server,title,version,repository,transports,description
+2026-11-27T04:27:59.209919Z,za.co.goseamless/checkers-sixty60,Checkers Sixty60 Shopping,0.2.1,,streamable-http,"Unofficial Checkers Sixty60: let your agent automate your grocery shopping, from deals to checkout."
+2026-11-27T04:29:40.41464Z,works.endura/microtasks,Microtasks,1.0.0,https://github.com/endura-works/mcp,,"Let AI read and change your Microtasks board: tasks, breakdowns, groups, channels."
+2026-11-27T04:30:02.952766Z,com.tolinku/tolinku,Tolinku,1.0.0,,streamable-http,"Deep linking for mobile apps: links, SDK setup, banners, in-app messages, landing pages, analytics"
+2026-11-27T04:30:03.249443Z,com.tolinku/tolinku-campaigns,Tolinku campaigns,1.0.0,,streamable-http,"Tolinku smart banners, in-app messages, audiences, A/B tests and campaign analytics"
+2026-11-27T04:30:03.549659Z,com.tolinku/tolinku-pages,Tolinku pages,1.0.0,,streamable-http,"Tolinku landing pages and bio pages: design, preview, publish and attach to deep links"
+2026-11-27T04:30:03.848675Z,com.tolinku/tolinku-settings,Tolinku settings,1.0.0,,streamable-http,"Tolinku link domains, webhooks, Appspace settings and referral programmes"
+2026-11-27T04:30:04.143265Z,com.tolinku/tolinku-all,Tolinku (every tool),1.0.0,,streamable-http,Every Tolinku deep linking tool at once (about 95; more than some AI tools handle well)
+2026-11-27T04:37:19.683669Z,org.madbounty/mcp,MAD Bounty,1.0.0,https://github.com/mad-bounty/mad-bounty,,"Post and work USDC bounties on Base. Non-custodial escrow; workers deposit, rejects burn, 5% fee."
+2026-11-27T04:38:23.420823Z,ai.pentestllm/mcp,PentestLLM,1.0.0,,streamable-http,Uncensored and security-tuned models for authorized testing as tools on one prepaid key.
+2026-11-27T04:39:13.961337Z,ai.pentestllm/redact-bridge,Redact Bridge,0.1.0,https://github.com/pentestllm/redact-bridge,,Local MCP server: replaces client identifiers with placeholders before a prompt leaves your machine.
+2026-11-27T04:40:06.305623Z,io.github.1dolinski/kilter,Kilter,1.0.0,,streamable-http,"Rule-gated rooms, waiting lists, and asymmetric two-way matching for AI agents. No API key required."
+2026-11-27T04:40:35.851449Z,app.emailtimer/emailtimer,EmailTimer.app,1.0.0,,streamable-http,"Create live email countdown timers, polls and personalised images that work in any email platform."
+2026-11-27T04:42:49.903688Z,dev.proofmarks/proofmarks,Proofmarks,0.1.2,https://github.com/tortastudios/proofmarks,,Marks what reads like AI slop on your page and says why
+2026-11-27T04:44:28.223686Z,io.github.jdhinman/mirage-decomp,Mirage Decomp (Game Preservation Workbench),1.0.0,https://github.com/jdhinman/divinity2-decomp,streamable-http,"Live C/C++ game preservation decompilation workbench (Divinity II, Jade Empire, Arcanum)"
+2026-11-27T04:44:32.949505Z,io.github.on-munseo/on-check,On 결재점검,1.0.0,https://github.com/on-munseo/on-check,streamable-http,"Rule-based pre-approval checks for Korean official documents: format, spelling, dates, sums"
+2026-11-27T04:44:33.155362Z,io.github.on-munseo/on-geungeo,On 근거,1.0.0,https://github.com/on-munseo/on-geungeo,streamable-http,"Korean statutes verbatim from a copy of the national law database, plus citation checks"
+2026-11-27T04:44:33.372667Z,io.github.on-munseo/on-gov,On 공문서 쓰기,1.0.0,https://github.com/on-munseo/on-gov,streamable-http,"Write Korean government-style HWPX reports, plans and press releases from drafts"
+2026-11-27T04:44:33.579786Z,io.github.on-munseo/on-hwpx,On HWPX 만들기,1.0.0,https://github.com/on-munseo/on-hwpx,streamable-http,"Create Korean HWPX files from Markdown, fill HWP/HWPX forms, render pages and PDFs"
+2026-11-27T04:44:33.783333Z,io.github.on-munseo/on-mask,On 개인정보 가리기,1.0.0,https://github.com/on-munseo/on-mask,streamable-http,"Find and mask personal data (registration and phone numbers, names, addresses) in Korean text"
+2026-11-27T04:44:33.986464Z,io.github.on-munseo/on-text,On 글꺼내기,1.0.0,https://github.com/on-munseo/on-text,streamable-http,"Extract text and tables from Korean HWP/HWPX, PDF, Word, Excel and PowerPoint files"
+2026-11-27T04:44:34.208001Z,io.github.on-munseo/on-tidy,On 글 다듬기,1.0.0,https://github.com/on-munseo/on-tidy,streamable-http,"Korean bullet-style rewriting, near-certain spelling fixes and plain-language edits"
+2026-11-27T04:46:31.714795Z,io.github.lx1112/onchaincheck-dev,OnchainCheck Dev Docs,1.0.0,,streamable-http,"npm/PyPI package docs and source, docs pages and PDFs as Markdown, fetch. Pay per call (x402)"
+2026-11-27T04:48:26.15107Z,com.ticketwhistle/laliga-ticket-sales,TicketWhistle: LaLiga ticket sale dates,1.0.0,,streamable-http,"When tickets for the 20 LaLiga clubs go on sale, read from official club sites, with source links."
+2026-11-27T04:49:31.114682Z,io.github.djs-andorra/djs-andorra,DJs Andorra,1.0.0,https://github.com/djs-andorra/djs-andorra-mcp,streamable-http,"Electronic music parties in Andorra: what's on tonight, this weekend and later, with DJs and venues."
+2026-11-27T04:58:44.254576Z,ai.parceled/mcp,Parceled,1.4.0,,streamable-http,"US property data: parcels, tax assessor, owners, permits, zoning, building data and hail history."
+2026-11-27T05:01:38.383911Z,io.github.numbers-sg/data,Numbers.sg: Singapore rates and prices,1.0.0,https://github.com/numbers-sg/data,streamable-http,"Singapore SORA, T-bills, SSB, COE, CPF, tax and SGD exchange rates, each with its source and date."
+2026-11-27T05:02:17.469219Z,ai.hirefinn/finn,Finn,2.15.0,,streamable-http,Build and edit Finn AI agents and read your Finn CRM. Sign in with OAuth; pick the org and access.
+2026-11-27T05:05:23.951952Z,com.hrmorning/beacon,Beacon by HRMorning,1.0.0,,streamable-http,"Cited HR answers for U.S. employers, from HRMorning's guidance and employment-law knowledge base."
+2026-11-27T05:09:41.52748Z,com.johnnydecimal/johnnydecimal,Johnny.Decimal,1.0.0,,streamable-http,"Search the Johnny.Decimal documentation, systems, Workbook and courses."
+2026-11-27T05:10:21.772339Z,io.github.headgoldpicker/token-unlock-calendar,,1.0.0,https://github.com/headgoldpicker/token-unlock-calendar,streamable-http,Token unlock dates and checked figures for the most searched and most used tokens.
+2026-11-27T05:12:40.798874Z,ai.neotask/neotask,Neotask,1.0.0,,streamable-http,"Run your Neotask workspace from your agent: companies, agents, tasks, runs, boards and approvals."
+2026-11-27T05:14:06.566884Z,uk.crier/crier,Crier,1,,streamable-http,"What's on at local UK places, and the tools for venue teams to run their offers and events."
+2026-11-27T05:19:37.137599Z,to.flyn/mcp,Flyn URL Shortener,1.0.1,,streamable-http,"URL shortener: create, re-point and track short links; make QR codes. OAuth works on the free plan."
