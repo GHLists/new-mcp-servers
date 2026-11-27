@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-11-27T09:22:25.545793Z,day.loook/ai-only-net,,0.10.0,,,"Agents-only network: post, replicate claims, trade work for free credits, search, moderate."
+2026-11-27T09:23:57.924663Z,io.github.adminglobalcostdata/ai-business-research-tools,"AI Business Research: Tenders, Policies, Datasheets, Jobs (via Apify MCP)",1.0.0,,streamable-http,"AI reads EU tenders, policy changes, PDF datasheets, job posts and podcast sponsors into clean JSON"
+2026-11-27T09:24:10.027809Z,com.lordbase/lordbase,LordBase,1.0.0,,streamable-http,"Managed PostgreSQL, Redis and MongoDB: create databases, back up, read metrics and run queries."
+2026-11-27T09:24:50.045673Z,com.getcluebook/cluebook,ClueBook Group Crossword Keepsake Book,1.0.0,,streamable-http,Deterministic 13x13 group crossword solver and 100-page keepsake book generator
+2026-11-27T09:27:43.793933Z,my.lifestory/lifestory,,1.1.0,,streamable-http,Turn 3-10 photos of one person into one AI growing-up video gift.
+2026-11-27T09:28:26.828257Z,com.premierecopilot.mcp/premierecopilot,PremiereCopilot,1.0.0,,streamable-http,"Edit your Premiere Pro or DaVinci Resolve timeline: cuts, captions, reframing, effects and titles."
+2026-11-27T09:30:32.655473Z,io.github.sugarcypher/acepaste-ingress,AcePaste Ingress,0.9.32,https://github.com/sugarcypher/acepasteINGRESS,,Stops your AI agent from obeying instructions that web pages hide from you.
+2026-11-27T09:35:04.68725Z,com.spamlyze/mcp,Spamlyze,1.0.0,,streamable-http,Check a website against Google's spam policies: quick risk estimate or full Deep Report.
+2026-11-27T09:39:10.168791Z,work.plen/plen,Plen,1.0.0,,streamable-http,"Plan projects in a Gantt chart: build plannings, set rates and costs, edits show live in Plen."
+2026-11-27T09:39:24.875683Z,co.frontierresearch/frontier-paid,"Frontier: citation checks, pay per call",1.0.0,,streamable-http,"Pay per call over x402 (USDC on Base): any paper's FWCI and retractions, any researcher's h-index"
+2026-11-27T09:39:37.702777Z,com.op2tech/korea-car-options,OptionTech — Korean car trims & options,1.0.0,,streamable-http,"Korean new-car trim prices and options from official price lists, with as-of dates and sources."
+2026-11-27T09:44:43.791347Z,ro.emailfirma/mcp,EmailFirma,1.0.0,,streamable-http,"Business email, .ro domains and websites for Romanian companies. Sign-in with OAuth 2.1."
+2026-11-27T09:50:41.349046Z,io.github.OneLight1688/grantusage,GrantUsage Licensing-Window Verifier,0.1.0,https://github.com/GrantUsage/grantusage,streamable-http,Licensing-window verification for film/TV titles on streaming platforms; verifiable evidence packs.
+2026-11-27T09:56:15.447426Z,com.ctrader/mcp,cTrader,1.0.0,,streamable-http,Connects AI agents to cTrader account and market data with read-only access.
+2026-11-27T09:58:20.554042Z,io.github.modelcontextprotocol/server-everything,Everything,2.4.0,https://github.com/modelcontextprotocol/servers,,"Reference server that exercises every MCP feature: tools, resources, prompts, sampling and more"
+2026-11-27T09:58:20.837747Z,io.github.modelcontextprotocol/server-fetch,Fetch,2026.11.27,https://github.com/modelcontextprotocol/servers,,Fetches web content and converts it to Markdown for an LLM to read
+2026-11-27T09:58:21.245464Z,io.github.modelcontextprotocol/server-filesystem,Filesystem,2.4.1,https://github.com/modelcontextprotocol/servers,,"Read, write, search and edit files, with access limited to allowed directories or client Roots"
+2026-11-27T09:58:21.586202Z,io.github.modelcontextprotocol/server-git,Git,2026.11.27,https://github.com/modelcontextprotocol/servers,,"Read, search and manipulate Git repositories: status, diff, log, commit, branch and more"
+2026-11-27T09:58:21.94078Z,io.github.modelcontextprotocol/server-memory,Memory,2.2.2,https://github.com/modelcontextprotocol/servers,,"Persistent memory for an assistant, stored as a knowledge graph of entities and relations"
+2026-11-27T09:58:22.177335Z,io.github.modelcontextprotocol/server-sequential-thinking,Sequential Thinking,2.2.0,https://github.com/modelcontextprotocol/servers,,Step-by-step problem solving through a sequence of thoughts that can be revised and branched
+2026-11-27T09:58:22.456174Z,io.github.modelcontextprotocol/server-time,Time,2026.11.27,https://github.com/modelcontextprotocol/servers,,Current time lookup and conversion between IANA timezones
+2026-11-27T10:02:03.978773Z,io.github.KaushalJogi2002/leanwall,Leanwall,0.1.1,https://github.com/KaushalJogi2002/leanwall,,"Local MCP firewall: 3 meta-tools front all your servers, cut tokens, redact secrets, gate writes"
+2026-11-27T10:05:04.307881Z,ca.blackcarlimousineservice/booking,BlackCarLimousineService.ca,1.0.0,,streamable-http,"Canadian black car and limousine service: airport transfers, corporate cars, hourly chauffeurs."
+2026-11-27T10:09:10.350556Z,io.github.pitwch/screenconnect-mcp-server,ScreenConnect,0.1.4,https://github.com/pitwch/screenconnect-mcp-server,,"MCP server for ScreenConnect RESTful API Manager: read, write and gated destructive tools"
+2026-11-27T10:10:50.263691Z,com.tcomconsultants/consulting,TcomConsultants.com,1.0.0,,streamable-http,"AI-ready websites, SEO and agent booking layers: services, prices, call times and quote requests."
+2026-11-27T10:10:54.211924Z,io.github.HugoRS00/wiz-by-tradingwizard,Wiz by TradingWizard,2.1.1,https://github.com/HugoRS00/tradingwizard-v2,streamable-http,"AI chart analysis, market data, alerts and watchlists. A signal is analysis, never an order."
+2026-11-27T10:11:50.821023Z,com.storytailor/mcp,Storytailor,1.0.0,,streamable-http,Bring familiar Storytailor characters into the AI assistants adults already use.
+2026-11-27T10:19:04.865863Z,com.thecitationchecker/citation-checker,TheCitationChecker — Academic Citation & DOI Verifier,1.0.0,,streamable-http,Verify academic citations and DOIs across 7 scholarly databases to detect AI hallucinations.
