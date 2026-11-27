@@ -9,48 +9,70 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 11:22 UTC
+## Latest list — 2026-11-27 12:20 UTC
 
-New MCP servers published between 2026-11-27 10:22 UTC and 2026-11-27 11:22 UTC.
+New MCP servers published between 2026-11-27 11:22 UTC and 2026-11-27 12:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-27T11-22-36-89808Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-27T12-20-58-111534Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-27 10:23:52 | com.6102ttk/karar-arama | 6102TTK — Turkish Commercial Law Decisi… | 1.0.0 | Search ~420k anonymised Turkish commercial-law court decisions and the Turkish… |
-| 2026-11-27 10:24:41 | app.rosmaryn/account | Rosmaryn (your charts) | 1.0.0 | Read your saved Human Design, astrology and numerology charts and transits from… |
-| 2026-11-27 10:25:18 | [org.colorid/paint-colors](https://github.com/zeisoft/colorid-mcp) | ColorID Paint Colors | 1.0.0 | Find paint colors by name or code and match any hex to the closest paint in 35… |
-| 2026-11-27 10:28:29 | com.getskinbliss/skin-bliss | Skin Bliss | 1.0.0 | Look up skincare products: what the formula offers, which skin it suits, what t… |
-| 2026-11-27 10:34:25 | com.nexupira/nexupira | NEXUPIRA | 1.0.0 | AI team for small businesses: ask Rex, Docu or Nova, search documents, export P… |
-| 2026-11-27 10:34:47 | io.github.nileshmakan2/agentstall | AgentStall: Africa and India data | 1.0.0 | Pay-per-call data for Africa, India and emerging markets: holidays, VAT, rates,… |
-| 2026-11-27 10:36:24 | [io.github.udondan/duolingo](https://github.com/udondan/duolingo) | Duolingo | 2.1.0 | Read-only access to Duolingo: profile, streak, XP, courses, friends, leaderboar… |
-| 2026-11-27 10:37:05 | [com.abwatcher/abwatcher](https://github.com/karamanbk/abwatcher-mcp) | ABWatcher | 1.0.0 | What 1,000+ brands are A/B testing, the testing tools they run and their conver… |
-| 2026-11-27 10:45:37 | [ai.qompass/bosun](https://github.com/qompassai/bosun) | Bosun | 0.1.3 | Remote device provisioning MCP: inventory, diagnostics, operator-gated installs… |
-| 2026-11-27 10:45:51 | [io.github.asma-hachaichi/datalint-mcp](https://github.com/asma-hachaichi/datalint-mcp) | datalint | 0.1.0 | Audit CSV and SQLite data: missing values, duplicates, outliers, broken keys, p… |
-| 2026-11-27 10:46:35 | io.github.imokokok/insight |  | 1.0.0 | Pre-trade risk verdicts (PASS/CAUTION/DANGER/BLOCK) for onchain trades. Paid pe… |
-| 2026-11-27 10:50:20 | com.saturnreturnchart/saturn-return | Saturn Return Chart — Ephemeris Saturn… | 1.0.0 | Calculate exact Saturn Return dates, conjunction passes, and Saturn zodiac sign… |
-| 2026-11-27 10:51:43 | [io.github.Profitfloorcoverings-wq/billybot](https://github.com/Profitfloorcoverings-wq/BillyBot) | BillyBot for flooring businesses | 1.0.0 | Find flooring drawings, read room measurements and prepare or revise a first qu… |
-| 2026-11-27 10:53:44 | app.astrocartographymap/astrocartography | AstrocartographyMap — Planetary Line &… | 1.0.0 | Calculate astrocartography planetary lines (MC/IC/AC/DC) and evaluate relocatio… |
-| 2026-11-27 10:53:44 | [io.github.pitwch/also-cloud-marketplace-mcp](https://github.com/pitwch/also-cloud-marketplace-mcp) |  | 0.5.7 | ALSO Cloud Marketplace API: companies, subscriptions, Azure plans, invoices (MC… |
-| 2026-11-27 10:53:53 | com.codinzy/trial-booking | Codinzy free trial class booking | 1.0.0 | Find free times and book a free trial of Codinzy's live online AI and coding cl… |
-| 2026-11-27 10:55:48 | pro.hostboost/hostboost |  | 1.0.0 | Airbnb listing optimization knowledge and audit reports. Query guides or order… |
-| 2026-11-27 10:55:54 | app.risingsign/rising-sign | RisingSign — Rising, Sun & Moon Sign Ca… | 1.0.0 | Calculate Rising (Ascendant), Sun, and Moon signs with exact zodiac degrees and… |
-| 2026-11-27 10:57:18 | [wiki.riemann/riemannwiki](https://github.com/RiemannWiki/riemannwiki-mcp) | Riemann Wiki | 1.0.0 | Track the 2026 Lean 4 Riemann Hypothesis proof, independent kernel checks, reac… |
-| 2026-11-27 10:59:36 | [io.github.xanzure/brickscape](https://github.com/xanzure/brickscape) | BrickScape | 0.1.0 | Design LEGO builds that can really be built: checked connections, Studio files,… |
-| 2026-11-27 11:04:20 | [dev.cotlet/hotschedules](https://github.com/cotlet-connect/hotschedules-mcp) | HotSchedules by Cotlet | 1.0.0 | HotSchedules MCP server and API: schedules, time off, swaps and labor vs budget… |
-| 2026-11-27 11:08:03 | [dev.agenticpipeline/agentic-pipeline](https://github.com/TeamK2K/agentic-pipeline) | Agentic Pipeline | 0.10.1 | Agent-native CI/CD: follow a push to live deploy, diagnose failing stages, prov… |
-| 2026-11-27 11:09:02 | [dev.cotlet/sling](https://github.com/cotlet-connect/sling-mcp) | Sling by Cotlet | 1.0.0 | Sling MCP server and API: copy schedules, time off, payroll hours and Toast clo… |
-| 2026-11-27 11:09:06 | io.github.auroraeye-dev/basalt | Basalt | 1.1.0 | Design, refine and compliance-check cloud and OT/ICS architecture diagrams (IEC… |
-| 2026-11-27 11:09:24 | [com.elasticemail/mcp](https://github.com/ElasticEmail/elasticemail-mcp-server) | Elastic Email MCP Server | 1.0.0 | Send emails and manage contacts, lists, segments, templates and campaigns in El… |
-| 2026-11-27 11:12:49 | trade.corvan/corvan | Corvan | 1.2.0 | Read-only market data on derivatives: digital asset and US stock perpetuals, li… |
-| 2026-11-27 11:13:49 | [dev.cotlet/homebase](https://github.com/cotlet-connect/homebase-mcp) | Homebase by Cotlet | 1.0.0 | Homebase MCP server and API: schedules, timecards, tip splits and labor vs sale… |
-| 2026-11-27 11:14:52 | [io.github.NusaAI/quizclap](https://github.com/NusaAI/quizclap-mcp) | QuizClap Live Classroom | 1.0.0 | Create and run live university Q&A, polls, LaTeX STEM quizzes and Moodle banks… |
-| 2026-11-27 11:16:42 | [app.yourcompanyos/discovery](https://github.com/jarno-matchai/yourcompanyos-discovery-mcp) | Your Company OS Discovery MCP | 1.0.0 | Public discovery MCP for Your Company OS, Vertical OS partners, SME pricing, an… |
-| 2026-11-27 11:19:34 | com.tucope/tucope | Tucope | 1.0.0 | Split bills, track who owes who, budgets and spending in Tucope from Claude or… |
-| 2026-11-27 11:20:13 | com.synastrycalculator/synastry | Synastry Calculator — Ephemeris Synastr… | 1.0.0 | Calculate synastry chart aspects, compatibility scores, house overlays, and sig… |
-| 2026-11-27 11:20:39 | [io.github.kashmirsportslive/pulse-leads-mcp](https://github.com/kashmirsportslive/pulse-leads-mcp) | PulseLeads MCP | 1.0.0 | High-intent B2B prospect intelligence MCP server with verified contacts & Base… |
-| 2026-11-27 11:21:47 | io.basaltarch/basalt | Basalt | 1.1.0 | Design, refine and compliance-check cloud and OT/ICS architecture diagrams (IEC… |
-| 2026-11-27 11:22:22 | [io.github.udondan/anton](https://github.com/udondan/anton) | anton.app | 1.5.0 | Unofficial anton.app parent tools: children's learning progress, lessons and as… |
+| 2026-11-27 11:22:50 | [io.github.Profitfloorcoverings-wq/billybot-flooring](https://github.com/Profitfloorcoverings-wq/BillyBot) | BillyBot for flooring businesses | 1.0.0 | Find flooring drawings, read room measurements and prepare or revise a first qu… |
+| 2026-11-27 11:23:14 | com.fortuday/almanac | Fortuday — Chinese Almanac, Lunar Calen… | 1.0.0 | Chinese almanac, lunar calendar, Japanese Rokuyo, and moon phase calculator. |
+| 2026-11-27 11:23:35 | io.eventsiq/eventsiq | EventsIQ | 1.0.0 | Lead routing and ad conversion tracking: leads, buyers, ROAS and lead forms fro… |
+| 2026-11-27 11:24:03 | [dev.cotlet/tanda](https://github.com/cotlet-connect/tanda-mcp) | Tanda by Cotlet | 1.0.0 | Tanda MCP server and API: roster checks, timesheets, labour budget and leave fo… |
+| 2026-11-27 11:26:59 | [io.github.udondan/lanis](https://github.com/udondan/lanis) | Lanis (Schulportal Hessen) | 1.2.0 | Unofficial read-only access to Schulportal Hessen: substitutions, timetable, ca… |
+| 2026-11-27 11:27:12 | [io.github.udondan/switch-parental-controls](https://github.com/udondan/switch-parental-controls) | Nintendo Switch Parental Controls (unof… | 1.3.0 | Monitor and manage Nintendo Switch parental controls: playtime limits, bedtime,… |
+| 2026-11-27 11:27:58 | [ai.felpra/felpra-trading-mcp](https://github.com/felpra-ai/felpra-trading-mcp) | FELPRA Trading Intelligence | 2.0.0 | Verifiable crypto/KR/US market intelligence for AI agents: signals, hash-chaine… |
+| 2026-11-27 11:28:25 | [com.soflution/rocketwright](https://github.com/Soflutionltd/rocketwright) | Rocketwright | 2.0.0 | Drive a real Chrome live, record a flow once, replay it in milliseconds without… |
+| 2026-11-27 11:28:39 | [io.github.udondan/marktguru](https://github.com/udondan/marktguru) | marktguru | 1.3.0 | Search current supermarket deals from weekly leaflets on Marktguru in Germany a… |
+| 2026-11-27 11:29:51 | [dev.cotlet/olo](https://github.com/cotlet-connect/olo-mcp) | Olo by Cotlet | 1.0.0 | Olo MCP server and API: online ordering switch, 86 items, holiday hours, sales… |
+| 2026-11-27 11:30:02 | com.easygridmaker/grid-calculator | Easy Grid Maker — Drawing Grid & Aspect… | 1.0.0 | Calculate drawing grid dimensions, square sizes, scale ratios, and distortion-f… |
+| 2026-11-27 11:31:41 | [io.github.udondan/fritz](https://github.com/udondan/fritz) | FRITZ!Box (unofficial) | 0.2.3 | Reads the status and settings of a FRITZ!Box router over TR-064. Never changes… |
+| 2026-11-27 11:32:08 | dev.urldone/urldone | UrlDone | 0.1.0 | Headless URL check for coding agents. Compact JSON verdict before you say done. |
+| 2026-11-27 11:32:20 | fi.vettid/vettid | Vettid | 3.1.0 | Free vet appointments, clinics and prices in Finland and Norway, refreshed dail… |
+| 2026-11-27 11:32:41 | com.shichusuimeikeisan/four-pillars | Shichu Suimei Keisan — Four Pillars of… | 1.0.0 | Calculate Japanese Four Pillars (BaZi) natal charts, Ten Gods, Five Elements &… |
+| 2026-11-27 11:33:21 | [io.github.udondan/transitous](https://github.com/udondan/transitous) | Transitous public transport | 1.1.0 | Stops, departures and connections on Transitous, with cancellations, delays and… |
+| 2026-11-27 11:35:12 | [io.github.dboeckli/mcp-server-docker](https://github.com/dboeckli/mcp-server-docker) | Docker MCP Server | 0.11.0 | Manage Docker containers, images, networks, volumes and Buildx builds from an L… |
+| 2026-11-27 11:35:18 | com.flowchartfromtext/flowchart | Flowchart From Text — Text-to-Mermaid F… | 1.0.0 | Convert structured text into Mermaid flowcharts and validate Mermaid diagram sy… |
+| 2026-11-27 11:36:00 | [io.github.udondan/dsbmobile](https://github.com/udondan/dsbmobile) | DSBmobile | 1.5.0 | Unofficial DSBmobile server: substitution plans, timetables, news and documents… |
+| 2026-11-27 11:39:09 | com.onlinechessanalyzer/pgn-analyzer | Online Chess Analyzer — PGN Parser, Ope… | 1.0.0 | Analyze standard chess PGN games with ECO opening detection and inspect FEN boa… |
+| 2026-11-27 11:39:52 | com.everyprogram/every-program | Every Program | 1.0.0 | Study programmes worldwide: fees, deadlines and requirements, each with an offi… |
+| 2026-11-27 11:40:33 | ai.haltstate/evidence-investigation | HaltState Evidence Investigation | 0.1.0 | Investigate tenant evidence, follow activity timelines and verify Proof Packs v… |
+| 2026-11-27 11:41:09 | [io.github.Nero-Engine/cleaning-pack](https://github.com/Nero-Engine/cleaning-pack-mcp) | Cleaning Pack | 1.0.0 | Cleaning, carpet, pressure washing, window and gutter quotes and UK rules for c… |
+| 2026-11-27 11:41:44 | [io.github.worktual-mcp/worktual-crm](https://github.com/worktual-mcp/worktual-crm) | Worktual CRM | 1.0.0 | Look up and update Worktual CRM contacts, companies, deals, quotes, and invoice… |
+| 2026-11-27 11:43:15 | com.vidyaa/vidyaa | Vidyaa | 1.0.0 | Short, sourced micro-reads on ideas and books, at six English levels. Search, s… |
+| 2026-11-27 11:44:21 | [io.github.ozko00/setsuzei](https://github.com/ozko00/setsuzei) | setsuzei: Japanese tax estimate engine | 0.4.0 | Cited, tested Japanese income/resident tax estimates (furusato nozei, iDeCo). L… |
+| 2026-11-27 11:46:16 | com.dcupl/rest-api | dcupl REST API instance | 3.1.0 | Read-only tools over a deployed dcupl application: models, query, facet, aggreg… |
+| 2026-11-27 11:48:57 | [org.litote/motis-mcp-app](https://github.com/Litote/motis-mcp-app) | MOTIS explorer | 0.1.0 | MCP App for the public transport of any MOTIS server (Transitous by default): j… |
+| 2026-11-27 11:48:57 | [org.litote/errance](https://github.com/Litote/motis-mcp-app) | Errance | 0.1.0 | Hosted MCP App, public transport worldwide powered by Transitous: journeys, boa… |
+| 2026-11-27 11:51:24 | [io.github.Nero-Engine/mechanics-pack](https://github.com/Nero-Engine/mechanics-pack-mcp) | Mechanics Pack | 1.0.0 | MOT dates, labour times, repair quotes, ULEZ checks and consumer rights for UK… |
+| 2026-11-27 11:53:54 | com.natcatcover/natcatcover | NatCat Cover | 1.0.0 | US natural catastrophe cover research: check an area, read the terms, register… |
+| 2026-11-27 11:57:56 | cloud.fuelai/mcp | Fuel | 0.1.1 | Compute for AI agents: run prompts on the cheapest healthy provider, see live p… |
+| 2026-11-27 12:01:25 | com.ziweihome/ziwei-chart | ZiWeiHome — Zi Wei Dou Shu Chart Calcul… | 1.0.0 | Calculate Zi Wei Dou Shu 12-palace natal charts, stars, Four Transformations, a… |
+| 2026-11-27 12:01:45 | [io.github.Ozycore/xrechnung-mcp](https://github.com/Ozycore/xrechnung-mcp) | XRechnung & ZUGFeRD validator (e-Rechnu… | 0.1.2 | Validate and parse German e-invoices (XRechnung, ZUGFeRD, Factur-X). Offline vi… |
+| 2026-11-27 12:06:18 | [dev.nokko/nokko](https://github.com/Anemo-Studio/nokko-mcp) |  | 0.1.0 | Read and update nokko projects: find tasks, edit boards, complete work and log… |
+| 2026-11-27 12:09:21 | app.lingostories/lingostories | LingoStories | 1.0.0 | Short graded stories and grammar lessons for learning 12 languages, levels A1 t… |
+| 2026-11-27 12:09:26 | com.mathorio/mathorio | Mathorio | 1.0.0 | Math lessons with clear examples and a daily math challenge, from first steps t… |
+| 2026-11-27 12:09:26 | [com.langfuse/docs](https://github.com/langfuse/langfuse-docs) | Langfuse docs | 0.1.0 | Search the Langfuse documentation, fetch docs pages as Markdown, and read the l… |
+| 2026-11-27 12:09:27 | com.worldstroll/worldstroll | World Stroll | 1.0.0 | Country guides and geography games: country of the day, flags, maps and facts. |
+| 2026-11-27 12:09:28 | com.dailyancestor/daily-ancestor | Daily Ancestor | 1.0.0 | Words from old records and genealogy guides for reading historical documents. |
+| 2026-11-27 12:09:29 | com.parlortable/parlor-table | Parlor Table | 1.0.0 | Classic table games (cards, board, dice) with rules, played free in the browser… |
+| 2026-11-27 12:09:29 | com.lobbyroo/lobbyroo | Lobbyroo | 1.0.0 | Quick free browser games for short waits and breaks, plus a daily puzzle. |
+| 2026-11-27 12:09:31 | com.meadowandfeather/meadow-and-feather | Meadow & Feather | 1.0.0 | Real birds in real habitats: bird search, feeding tips and a calm bird watching… |
+| 2026-11-27 12:09:32 | com.digopolis/digopolis | Digopolis | 1.0.0 | Real museum artifacts: search archaeology finds, artifact of the week and a cal… |
+| 2026-11-27 12:09:33 | com.skydarkroom/sky-darkroom | Sky Darkroom | 1.0.0 | The real night sky: what to see this month, sky objects and an astrophotography… |
+| 2026-11-27 12:09:34 | com.hummingville/hummingville | Hummingville | 1.0.0 | Music for ear and voice: music lessons, free music tools and a daily music puzz… |
+| 2026-11-27 12:12:04 | [dev.cotlet/clover](https://github.com/cotlet-connect/clover-mcp) | Clover by Cotlet | 1.0.0 | Clover MCP server and API: sales to a sheet, tips, item sales exports and menu… |
+| 2026-11-27 12:14:13 | [dev.cotlet/eposnow](https://github.com/cotlet-connect/eposnow-mcp) | Epos Now by Cotlet | 1.0.0 | Epos Now MCP server and API: End of Day totals, QuickBooks checks, stock and pr… |
+| 2026-11-27 12:14:54 | co.reachlee/reachlee | Reachlee | 1.0.0 | Social media automation for creators and businesses: DMs, comments, leads and a… |
+| 2026-11-27 12:15:59 | [dev.workers.pomlabs.pom-data-api/email-verifier](https://github.com/pomexplica/email-verifier) | Email Verifier - Bulk SMTP, Catch-All,… | 1.0.1 | Verify email lists without sending: syntax, MX, SMTP mailbox, catch-all, dispos… |
+| 2026-11-27 12:16:20 | [dev.cotlet/sevenrooms](https://github.com/cotlet-connect/sevenrooms-mcp) | SevenRooms by Cotlet | 1.0.0 | SevenRooms MCP server and API: tomorrow's book, holiday overrides, lapsed regul… |
+| 2026-11-27 12:16:48 | [io.github.ddzyx/xgmind-football-mcp](https://github.com/ddzyx/xgmind-football-open-ledger) | XG Mind Football Analytics MCP | 1.0.0 | Keyless read-only football xG analytics, verified prediction ledger, and calibr… |
+| 2026-11-27 12:16:51 | [io.github.ddzyx/qiuxiaoce](https://github.com/ddzyx/qiuxiaoce-mcp) | QiuXiaoCe Football Data MCP | 0.2.0 | Football standings, keyless daily fixtures, club search, xG match packs, and ta… |
+| 2026-11-27 12:18:27 | [dev.cotlet/spoton](https://github.com/cotlet-connect/spoton-mcp) | SpotOn by Cotlet | 1.0.0 | SpotOn MCP server and API: tip pooling for payroll, closeout checks, QuickBooks… |
+| 2026-11-27 12:18:28 | com.docketcrypto/docket | Docket | 1.0.0 | Read your Docket crypto tax and investigations cases with a connected personal… |
+| 2026-11-27 12:18:52 | tech.tracegrade/tracegrade | TraceGrade | 1.0.0 | Real work tasks with planted traps: see whether you or your AI agent check the… |
 
 ## Data source
 
