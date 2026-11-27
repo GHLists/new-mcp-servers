@@ -9,35 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 23:19 UTC
+## Latest list — 2026-11-27 00:20 UTC
 
-New MCP servers published between 2026-11-26 22:19 UTC and 2026-11-26 23:19 UTC.
+New MCP servers published between 2026-11-26 23:19 UTC and 2026-11-27 00:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-26T23-19-04-398507Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-27T00-20-50-966787Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-26 22:25:34 | [io.github.zz-plant/whether](https://github.com/zz-plant/whether) | Whether | 1.1.0 | This week's call on startup hiring, fundraising and burn, from U.S. rates and c… |
-| 2026-11-26 22:28:06 | io.bridgecrypto/bridge | Bridge Crypto | 1.0.0 | Custodial USDC/USDT conversion across eight chains for agents with their own wa… |
-| 2026-11-26 22:32:26 | io.revealmetrics/reveal-metrics | Reveal Metrics | 1.0.0 | Research 8,000+ brands and 2M+ Meta ads: estimated revenue, longest-running ads… |
-| 2026-11-26 22:34:27 | ai.intelliswarm/marketplace | IntelliSwarm agent marketplace | 1.0.0 | Hire AI agent teams for whole jobs: hiring kits, contract review, research, aud… |
-| 2026-11-26 22:38:43 | [io.github.dgtlchika/kohaku-mcp](https://github.com/dgtlchika/kohaku-mcp) | kohaku-mcp | 0.1.0 | Personal MCP server wrapping a private relay REST API: read and post tools over… |
-| 2026-11-26 22:44:09 | com.briansudney/briansudney-services |  | 1.0.0 | Brian Sudney services (Gab-E Holdings, LLC): answers from the published facts,… |
-| 2026-11-26 22:45:05 | ai.toski/toski | toski | 0.4.3 | Search, read, and edit meeting transcripts with speaker names and summaries. |
-| 2026-11-26 22:47:16 | ca.canadalimousine/booking | CanadaLimousine.ca | 1.0.0 | Limousine service across Canada: weddings, proms, airport runs, corporate and e… |
-| 2026-11-26 22:50:56 | com.leadscol/leadscol | Leadscol | 1.0.0 | Colombia's 3.6M active companies with legal representative and contact data, fo… |
-| 2026-11-26 22:52:42 | [io.github.shivanshmehendiratta/groundsocial](https://github.com/shivanshmehendiratta/groundsocial-mcp) | Groundsocial | 1.0.0 | Public social and web data from 77 platforms (Reddit, X, TikTok, YouTube, Googl… |
-| 2026-11-26 22:54:37 | com.excalideo/excalideo | Excalideo | 0.1.0 | Free local-first browser video editor: cut clips, add text, subtitles, music an… |
-| 2026-11-26 23:00:55 | com.moogili/evaluation | Moogili Evaluation | 0.1.0 | Source-linked CMS and EIA sample intelligence with 100 free operations per acco… |
-| 2026-11-26 23:07:59 | io.github.cainky/mailer | mailer | 1.0.0 | Print and mail real paper letters in Canada from a PDF. Free sandbox key; human… |
-| 2026-11-26 23:11:04 | [io.github.insideapp-srl/talk2tia](https://github.com/insideapp-srl/talk2tia) | Talk2Tia | 1.1.0 | Siemens TIA Portal V21 for AI assistants: SCL/LAD blocks, libraries, tags, comp… |
-| 2026-11-26 23:11:10 | org.cyberdetails/vulnerability-intelligence | CyberDetails | 0.1.0 | Look up known vulnerabilities and check whether a software version is affected.… |
-| 2026-11-26 23:11:56 | ai.vhoo/vhoo | Vhoo.ai | 1.0.0 | AI image & video generation (Seedance 2.5, Kling 4.0, Seedream 5.5) and viral t… |
-| 2026-11-26 23:13:40 | com.xpenvo/agents | Xpenvo Agents | 0.1.0 | See what an AI agent's budget has left, and check and record tool spending agai… |
-| 2026-11-26 23:14:34 | io.kelma/kelma | Kelma | 1.0.0 | Manage Kelma WordPress hosting: sites, backups, caches, logs, DNS and staging p… |
-| 2026-11-26 23:15:53 | io.github.ulinycoin/localpdf-mcp |  | 0.1.4 | Local PDF tools for AI agents: inspect, merge, split, compress, OCR. No uploads. |
-| 2026-11-26 23:17:06 | [io.github.jykr/paper-sources](https://github.com/jykr/paper_triage) | Paper Sources | 0.1.0 | Pooled paper search across OpenAlex, Europe PMC, PubMed, arXiv and bioRxiv, wit… |
-| 2026-11-26 23:18:09 | [io.github.NORTHTEKDevs/ghost](https://github.com/NORTHTEKDevs/ghost) | Ghost | 0.24.1 | Verified desktop control for agents on Windows and Linux: apps with no API, win… |
+| 2026-11-26 23:23:10 | com.gezegensolar/gunes-enerjisi | Gezegen Solar | 1.0.0 | Solar shop (TR): live prices, stock, specs; PV/battery/inverter compatibility a… |
+| 2026-11-26 23:32:25 | com.resend/mcp | Resend | 1.2.3 | Send and receive emails, and manage contacts, broadcasts, templates, domains, a… |
+| 2026-11-26 23:33:26 | com.excubitorsecurity/domain-check | Excubitor | 1.0.0 | Check a domain's email and website security: SPF, DKIM, DMARC, certificate, hea… |
+| 2026-11-26 23:33:51 | com.moedux/financas | Moedux — Finanças Brasileiras | 1.14.0 | Mar Vermelho, salário líquido, rescisão, FGTS e 19 cálculos. Grátis, sem cadast… |
+| 2026-11-26 23:35:41 | com.booknewsletterads/catalog | Book Newsletter Ads | 1.0.0 | Search public newsletter ad prices and send an inquiry. No account required. |
+| 2026-11-26 23:42:17 | ca.blackryde/booking | BlackRyde.ca | 1.0.0 | BlackRyde in Canada: private chauffeurs, airport limos and city-to-city rides a… |
+| 2026-11-26 23:49:02 | kr.golftop/booking | 골프탑 예약 도우미 | 1.0.0 | 골프탑(golftop.kr) 빈 티타임, 골프장 정보, 조인·양도 티를 찾아 주는 조회 전용 서버 (한국 골프장) |
+| 2026-11-26 23:49:24 | de.reifentiefpreis.www/shop | Reifentiefpreis – Reifen, Felgen und Ko… | 1.2.0 | Reifen und Felgen finden: Preise, Bestand, EU-Reifenlabel, Fahrzeugpassung, Wer… |
+| 2026-11-26 23:52:06 | [io.github.foster-oss/foster](https://github.com/foster-oss/foster) | Foster | 0.2.1 | Check if a dependency is maintained, has unfixed vulnerabilities, or has a drop… |
+| 2026-11-26 23:52:09 | io.github.gilware/bumpwise | Bumpwise | 1.1.3 | What a dependency upgrade breaks in Java/Kotlin code (file:line), and API break… |
+| 2026-11-26 23:54:45 | [com.hailtrades/mcp](https://github.com/wyllieonchain/hailtrades-mcp) | Hailtrades | 1.0.0 | Emergency plumbers and electricians in Toronto/GTA: hours, call-out fees, licen… |
+| 2026-11-26 23:56:26 | ai.freightby/cargo-check | FreightBy Cargo Check | 0.2.0 | HS candidates, third-country duty, and sanctions screening before a freight quo… |
+| 2026-11-26 23:56:55 | space.eptx/eptx | Eptx | 1.0.0 | Background removal and more on private hardware, for any AI agent. Sign in with… |
+| 2026-11-26 23:57:40 | [io.github.sigaihealth/ocean](https://github.com/sigaihealth/marinemodels) | SIG.AI Ocean | 1.0.0 | Explore ocean datasets and forecasts, estimate chlorophyll, and classify plankt… |
+| 2026-11-26 23:58:05 | [io.github.carsonroell-debug/bigflightdeals-mcp](https://github.com/carsonroell-debug/bigflightdeals-mcp) |  | 0.2.0 | Cheap Fri-Sun weekend flights from Toronto, Montreal, Vancouver. Cached CAD far… |
+| 2026-11-26 23:58:11 | [io.github.muhammadasif84/blockhertz-mcp](https://github.com/blockhertz/blockhertz-mcp) |  | 0.1.3 | AI smart contract auditing and gas optimization for Solidity, Rust, Vyper, Move. |
+| 2026-11-26 23:59:28 | com.locataire-averti/recherche-logement | Locataire Averti | 1.1.0 | Recherche de locations en France avec filtres, baromètre, loyers et outils du d… |
+| 2026-11-27 00:01:59 | [io.github.isaiasmariano148-eng/desktop-control-nexus](https://github.com/isaiasmariano148-eng/DesktopControlNexus) | Desktop Control Nexus | 0.2.2 | Windows local MCP: owner-authorized file search and read-only tools. |
+| 2026-11-27 00:06:50 | io.github.AminHA1248/pairharbor-mcp | PairHarbor | 0.5.7 | One task queue for your team and your agents: post projects, claim tasks, repor… |
+| 2026-11-27 00:09:59 | com.tneinstitute/platform | TNE Institute | 1.0.0 | Connect an AI assistant to the TNE Institute platform: awards, registers, revie… |
+| 2026-11-27 00:13:04 | com.ariach/ariach | ariach · אריח | 1.0.0 | Hebrew books typeset for print: make a book, edit it as the studio does, its PD… |
+| 2026-11-27 00:13:34 | [io.github.mishingo/renewalmath](https://github.com/mishingo/renewalmath) | RenewalMath: verified small-business so… | 0.3.0 | Verified list prices for 144 small-business software tools: compare plans, audi… |
 
 ## Data source
 
