@@ -1,0 +1,29 @@
+created_at,server,title,version,repository,transports,description
+2026-11-27T21:21:27.517702Z,com.andrechek.room-planner/room-planner,Room Planner,1.1.0,https://github.com/EricAndrechek/Room-Planner,streamable-http,"Lay out a room to scale, check furniture, doors and clearances, and get a link to edit the plan."
+2026-11-27T21:21:50.592167Z,ai.deepledger/bill,DeepLedger for BILL,1.0.0,,streamable-http,"Connect BILL to Claude, ChatGPT, Grok: read bills and vendors, save draft bills"
+2026-11-27T21:22:50.758693Z,com.paros-summer/paros-summer-travellers,Paros Summer Travellers,1.0.0,,streamable-http,"Vehicle rental on Paros, Greece: prices, availability and booking requests a person confirms."
+2026-11-27T21:25:41.415071Z,com.nutrinomist/mcp,Nutrinomist,1.0.0,,streamable-http,Practice management for nutrition and health pros: ask about clients and draft protocols.
+2026-11-27T21:26:38.918452Z,com.doctranslator/mcp,DocTranslator,1.0.0,https://github.com/TranslationCloud/doctranslator-mcp,streamable-http,"Translate PDF, Word, Excel and PowerPoint files into 100+ languages with the layout kept."
+2026-11-27T21:26:41.965851Z,eu.checkandvote/account,Check & Vote: account and SQL,1.0.0,,streamable-http,Act on your Check & Vote account (OAuth) and query French and EU parliament data in SQL.
+2026-11-27T21:26:42.2219Z,eu.checkandvote/open-data,Check & Vote: French and EU parliaments,1.0.0,,streamable-http,"French and European parliament open data: bills, amendments, roll-call votes, MPs, decrees."
+2026-11-27T21:30:30.423464Z,com.priv-life/priv-life,Priv Life,1.12.0,,streamable-http,"Manage organization rosters, schedules, leagues, meetings, and checklists with delegated access."
+2026-11-27T21:33:46.188508Z,io.github.chaseakub/rattlecheck-supabase-migration-review,RattleCheck for Supabase migrations,0.3.0,https://github.com/chaseakub/rattlecheck,,Review local Supabase SQL migrations for PostgreSQL row-level security (RLS) and column grants.
+2026-11-27T21:36:49.313191Z,com.urbinnetworks/dark-fiber,UrbIN Networks,1.4.0,,streamable-http,"UrbIN Networks (formerly GIX): Newark to Manhattan dark fiber facts, articles, quote requests."
+2026-11-27T21:37:38.548489Z,io.github.OakHell/llama-mcp-bridge,llama-mcp-bridge,1.0.5,https://github.com/OakHell/llama-mcp-bridge,,"Hardware-aware local LLM MCP bridge for llama.cpp (7 GGUF models, 9 presets)."
+2026-11-27T21:39:33.33521Z,app.knwn/knwn,KNWN,1.0.0,,streamable-http,"See how ChatGPT, Perplexity, Gemini and other AI engines mention and cite your brand."
+2026-11-27T21:41:52.889316Z,io.github.ThryveBaseline/hiring-signals,Hiring Signals,1.0.0,https://github.com/ThryveBaseline/hiring-signals-mcp,streamable-http,"Live jobs from company career sites, with pay ranges and hiring velocity."
+2026-11-27T21:47:13.606259Z,eu.103/ipinfo,IP Address API,1.0.0,,streamable-http,"What's My IP Address: caller's public IP, ASN, geo, timezone, user-agent, headers, TLS info."
+2026-11-27T21:51:51.3553Z,world.massgain/potato-market-intelligence,MassGain Potato Market Intelligence,1.0.0,,streamable-http,"Potato market intelligence: prices, supply, historical series, and source-grounded comparisons."
+2026-11-27T21:54:01.224499Z,io.github.matvans-tech/matthew-x402-hub,,26.0.0,https://github.com/matvans-tech/matthew-x402-mcp-server,streamable-http,"7-DEX swap router (1inch v6.1, Jupiter, 0x, LI.FI) + 9 x402 v2 crypto intelligence oracles."
+2026-11-27T21:57:51.600965Z,com.mcpforx/mcpforx,mcpforx,1.0.0,,streamable-http,"Skills and decision-tree workflows your AI agent can find and run, with a record of each run"
+2026-11-27T21:59:03.92581Z,dev.pretradeverdict/pretrade-verdict,PreTrade Verdict,2.0.0,,streamable-http,"Base L2 DEX slippage, contract safety, CVaR 99.9% tail risk, and GO/ABORT verdicts via x402."
+2026-11-27T22:03:31.445376Z,com.rvchess/mcp,RV Chess,0.3.0,,streamable-http,"Interactive Stockfish 19 chess review & boards for MCP Apps hosts (Claude, ChatGPT)."
+2026-11-27T22:03:43.186752Z,com.opesborsa/mcp,Opes Borsa,1.0.0,,streamable-http,"AI market intelligence: trend signals, research reports and themes for stocks, crypto, FX and more"
+2026-11-27T22:06:04.184265Z,io.github.Strati0101/proxinity,Proxinity,1.0.0,,streamable-http,"Screenshots, rendered HTML, SEO/SSL/DNS checks and proxy pools from the EU via one API key."
+2026-11-27T22:06:36.60962Z,com.milliondollarideaengine/idea-engine,,1.0.0,,streamable-http,"Read-only facts about the Idea Engine: how it works, pricing, and where a first look starts."
+2026-11-27T22:07:25.955614Z,llc.purplelink/moderntex-check,ModernTex Check,1.0.0,https://github.com/purplelink-llc/moderntex-check,,"Read-only LaTeX checks: build errors, undefined references, manuscript and BibTeX problems."
+2026-11-27T22:10:12.33651Z,com.travelino/mcp,Travelino,1.0.0,,streamable-http,"Find vacation rentals on Travelino, check availability and get exact prices to book direct."
+2026-11-27T22:13:24.684491Z,io.github.EtienneLescot/kerno,Kerno,1.2.8,https://github.com/EtienneLescot/kerno-claude-code,streamable-http,"Shared, versioned memory for AI assistants and teams, hosted in France. Free tier, OAuth sign-in."
+2026-11-27T22:13:45.916356Z,io.github.JJordPy/uk-property-location-data,UK Property & Location Data,1.2.0,,streamable-http,"UK property due diligence for AI agents: crime, prices, flood, EPC, planning. Pay per call (x402)."
+2026-11-27T22:14:37.280164Z,com.thesolobillion/the-solo-billion,The Solo Billion,1.0.0,,streamable-http,Sourced revenue data on solo founders racing to the first one-person $1B company. Read-only.
+2026-11-27T22:17:24.543467Z,app.freedeal/freedeal,FreeDeal,1.0.0,,streamable-http,"Verified developer free tiers, trials and official offers (US and DE), with sources."
