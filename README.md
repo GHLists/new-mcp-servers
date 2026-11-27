@@ -9,36 +9,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 00:20 UTC
+## Latest list — 2026-11-27 01:19 UTC
 
-New MCP servers published between 2026-11-26 23:19 UTC and 2026-11-27 00:20 UTC.
+New MCP servers published between 2026-11-27 00:20 UTC and 2026-11-27 01:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-27T00-20-50-966787Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-27T01-19-41-130246Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-26 23:23:10 | com.gezegensolar/gunes-enerjisi | Gezegen Solar | 1.0.0 | Solar shop (TR): live prices, stock, specs; PV/battery/inverter compatibility a… |
-| 2026-11-26 23:32:25 | com.resend/mcp | Resend | 1.2.3 | Send and receive emails, and manage contacts, broadcasts, templates, domains, a… |
-| 2026-11-26 23:33:26 | com.excubitorsecurity/domain-check | Excubitor | 1.0.0 | Check a domain's email and website security: SPF, DKIM, DMARC, certificate, hea… |
-| 2026-11-26 23:33:51 | com.moedux/financas | Moedux — Finanças Brasileiras | 1.14.0 | Mar Vermelho, salário líquido, rescisão, FGTS e 19 cálculos. Grátis, sem cadast… |
-| 2026-11-26 23:35:41 | com.booknewsletterads/catalog | Book Newsletter Ads | 1.0.0 | Search public newsletter ad prices and send an inquiry. No account required. |
-| 2026-11-26 23:42:17 | ca.blackryde/booking | BlackRyde.ca | 1.0.0 | BlackRyde in Canada: private chauffeurs, airport limos and city-to-city rides a… |
-| 2026-11-26 23:49:02 | kr.golftop/booking | 골프탑 예약 도우미 | 1.0.0 | 골프탑(golftop.kr) 빈 티타임, 골프장 정보, 조인·양도 티를 찾아 주는 조회 전용 서버 (한국 골프장) |
-| 2026-11-26 23:49:24 | de.reifentiefpreis.www/shop | Reifentiefpreis – Reifen, Felgen und Ko… | 1.2.0 | Reifen und Felgen finden: Preise, Bestand, EU-Reifenlabel, Fahrzeugpassung, Wer… |
-| 2026-11-26 23:52:06 | [io.github.foster-oss/foster](https://github.com/foster-oss/foster) | Foster | 0.2.1 | Check if a dependency is maintained, has unfixed vulnerabilities, or has a drop… |
-| 2026-11-26 23:52:09 | io.github.gilware/bumpwise | Bumpwise | 1.1.3 | What a dependency upgrade breaks in Java/Kotlin code (file:line), and API break… |
-| 2026-11-26 23:54:45 | [com.hailtrades/mcp](https://github.com/wyllieonchain/hailtrades-mcp) | Hailtrades | 1.0.0 | Emergency plumbers and electricians in Toronto/GTA: hours, call-out fees, licen… |
-| 2026-11-26 23:56:26 | ai.freightby/cargo-check | FreightBy Cargo Check | 0.2.0 | HS candidates, third-country duty, and sanctions screening before a freight quo… |
-| 2026-11-26 23:56:55 | space.eptx/eptx | Eptx | 1.0.0 | Background removal and more on private hardware, for any AI agent. Sign in with… |
-| 2026-11-26 23:57:40 | [io.github.sigaihealth/ocean](https://github.com/sigaihealth/marinemodels) | SIG.AI Ocean | 1.0.0 | Explore ocean datasets and forecasts, estimate chlorophyll, and classify plankt… |
-| 2026-11-26 23:58:05 | [io.github.carsonroell-debug/bigflightdeals-mcp](https://github.com/carsonroell-debug/bigflightdeals-mcp) |  | 0.2.0 | Cheap Fri-Sun weekend flights from Toronto, Montreal, Vancouver. Cached CAD far… |
-| 2026-11-26 23:58:11 | [io.github.muhammadasif84/blockhertz-mcp](https://github.com/blockhertz/blockhertz-mcp) |  | 0.1.3 | AI smart contract auditing and gas optimization for Solidity, Rust, Vyper, Move. |
-| 2026-11-26 23:59:28 | com.locataire-averti/recherche-logement | Locataire Averti | 1.1.0 | Recherche de locations en France avec filtres, baromètre, loyers et outils du d… |
-| 2026-11-27 00:01:59 | [io.github.isaiasmariano148-eng/desktop-control-nexus](https://github.com/isaiasmariano148-eng/DesktopControlNexus) | Desktop Control Nexus | 0.2.2 | Windows local MCP: owner-authorized file search and read-only tools. |
-| 2026-11-27 00:06:50 | io.github.AminHA1248/pairharbor-mcp | PairHarbor | 0.5.7 | One task queue for your team and your agents: post projects, claim tasks, repor… |
-| 2026-11-27 00:09:59 | com.tneinstitute/platform | TNE Institute | 1.0.0 | Connect an AI assistant to the TNE Institute platform: awards, registers, revie… |
-| 2026-11-27 00:13:04 | com.ariach/ariach | ariach · אריח | 1.0.0 | Hebrew books typeset for print: make a book, edit it as the studio does, its PD… |
-| 2026-11-27 00:13:34 | [io.github.mishingo/renewalmath](https://github.com/mishingo/renewalmath) | RenewalMath: verified small-business so… | 0.3.0 | Verified list prices for 144 small-business software tools: compare plans, audi… |
+| 2026-11-27 00:22:56 | [ai.taskforcehq/taskforce](https://github.com/taskforcehq/taskforce) | Taskforce | 0.5.1 | Task and planning workspace for humans collaborating with AI agents |
+| 2026-11-27 00:29:19 | com.moatprism/moatprism | MoatPrism | 1.0.0 | Remote MCP for US stock fundamentals: statements, ROIC, valuation history, and… |
+| 2026-11-27 00:29:22 | io.sslip.144.112.72.94.passing-beggar/base-swap-sim | Base Swap Simulator & Risk Gate | 1.0.0 | Zero-day Base EVM swap round-trip simulator, bytecode audit & wallet check (fre… |
+| 2026-11-27 00:33:32 | com.zplpdf/zpl-to-pdf | ZPLPDF — ZPL to PDF | 1.0.0 | Validate, preview and convert ZPL (Zebra) label code to PDF with your ZPLPDF pl… |
+| 2026-11-27 00:34:30 | io.github.lubobali/lubot | LuBot Analytics | 1.0.1 | One AI agent for your files, website analytics and stock portfolio, in plain En… |
+| 2026-11-27 00:37:58 | [io.github.angelnicolasc/graymatter](https://github.com/angelnicolasc/graymatter) | GrayMatter | 0.21.0 | Persistent agent memory as a single Go binary: knowledge graph, TUI observabili… |
+| 2026-11-27 00:39:01 | [io.github.nachthelad/argentina-mcp](https://github.com/nachthelad/argentina-mcp) | Argentina MCP | 0.1.0 | Argentine holidays, business days, and judicial deadlines with official sources. |
+| 2026-11-27 00:42:25 | com.outdatedapps/leads | OutdatedApps | 1.0.0 | Find local businesses with outdated iPhone apps and claim them as leads for you… |
+| 2026-11-27 00:42:36 | net.eldesguace/eldesguace | eldesguace.net · ZBE, etiqueta DGT e IT… | 0.5.0 | Spain: low-emission zones (ZBE) by city, DGT eco label by plate, ITV defect cod… |
+| 2026-11-27 00:55:10 | io.github.jjanisheck/botvisibility | BotVisibility | 1.2.0 | BotVisibility scans websites for AI agent readiness across 58 checks in five le… |
+| 2026-11-27 00:56:24 | [io.github.CharlieJamesGwapo/project-memory](https://github.com/CharlieJamesGwapo/project-memory-mcp) | Project Memory | 0.1.0 | Local project notes, decision history, and handoffs for AI assistants. Rust and… |
+| 2026-11-27 01:08:54 | [io.github.catfish-1234/sessionmem](https://github.com/catfish-1234/sessionmem) |  | 2.3.0 | Local-first persistent memory for coding agents: Claude Code, Codex, Cursor, Cl… |
+| 2026-11-27 01:12:18 | ca.validfile/validfile | ValidFile | 1.0.0 | Ad specs of each platform (Meta, TikTok, Display…) from its official pages; for… |
+| 2026-11-27 01:14:01 | com.runwhile/mcp | RunWhile | 1.0.0 | Monitor your Mac and let AI agents report progress or request human help. |
 
 ## Data source
 

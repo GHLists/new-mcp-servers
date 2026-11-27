@@ -1,0 +1,15 @@
+created_at,server,title,version,repository,transports,description
+2026-11-27T00:22:56.644461Z,ai.taskforcehq/taskforce,Taskforce,0.5.1,https://github.com/taskforcehq/taskforce,streamable-http,Task and planning workspace for humans collaborating with AI agents
+2026-11-27T00:29:19.986102Z,com.moatprism/moatprism,MoatPrism,1.0.0,,streamable-http,"Remote MCP for US stock fundamentals: statements, ROIC, valuation history, and FRED macros."
+2026-11-27T00:29:22.031797Z,io.sslip.144.112.72.94.passing-beggar/base-swap-sim,Base Swap Simulator & Risk Gate,1.0.0,,streamable-http,"Zero-day Base EVM swap round-trip simulator, bytecode audit & wallet check (free preview + x402)."
+2026-11-27T00:33:32.794301Z,com.zplpdf/zpl-to-pdf,ZPLPDF — ZPL to PDF,1.0.0,,streamable-http,"Validate, preview and convert ZPL (Zebra) label code to PDF with your ZPLPDF plan quota."
+2026-11-27T00:34:30.089836Z,io.github.lubobali/lubot,LuBot Analytics,1.0.1,,streamable-http,"One AI agent for your files, website analytics and stock portfolio, in plain English."
+2026-11-27T00:37:58.998544Z,io.github.angelnicolasc/graymatter,GrayMatter,0.21.0,https://github.com/angelnicolasc/graymatter,,"Persistent agent memory as a single Go binary: knowledge graph, TUI observability, zero infra."
+2026-11-27T00:39:01.719169Z,io.github.nachthelad/argentina-mcp,Argentina MCP,0.1.0,https://github.com/nachthelad/argentina-mcp,streamable-http,"Argentine holidays, business days, and judicial deadlines with official sources."
+2026-11-27T00:42:25.224195Z,com.outdatedapps/leads,OutdatedApps,1.0.0,,streamable-http,Find local businesses with outdated iPhone apps and claim them as leads for your app agency.
+2026-11-27T00:42:36.537986Z,net.eldesguace/eldesguace,"eldesguace.net · ZBE, etiqueta DGT e ITV (España)",0.5.0,,streamable-http,"Spain: low-emission zones (ZBE) by city, DGT eco label by plate, ITV defect codes, scrap prices."
+2026-11-27T00:55:10.880766Z,io.github.jjanisheck/botvisibility,BotVisibility,1.2.0,,streamable-http,BotVisibility scans websites for AI agent readiness across 58 checks in five levels.
+2026-11-27T00:56:24.043233Z,io.github.CharlieJamesGwapo/project-memory,Project Memory,0.1.0,https://github.com/CharlieJamesGwapo/project-memory-mcp,,"Local project notes, decision history, and handoffs for AI assistants. Rust and SQLite."
+2026-11-27T01:08:54.228824Z,io.github.catfish-1234/sessionmem,,2.3.0,https://github.com/catfish-1234/sessionmem,,"Local-first persistent memory for coding agents: Claude Code, Codex, Cursor, Cline, Windsurf."
+2026-11-27T01:12:18.704839Z,ca.validfile/validfile,ValidFile,1.0.0,,streamable-http,"Ad specs of each platform (Meta, TikTok, Display…) from its official pages; formats by size."
+2026-11-27T01:14:01.338128Z,com.runwhile/mcp,RunWhile,1.0.0,,streamable-http,Monitor your Mac and let AI agents report progress or request human help.
