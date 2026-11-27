@@ -9,64 +9,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 06:20 UTC
+## Latest list — 2026-11-27 07:20 UTC
 
-New MCP servers published between 2026-11-27 05:20 UTC and 2026-11-27 06:20 UTC.
+New MCP servers published between 2026-11-27 06:20 UTC and 2026-11-27 07:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-27T06-20-39-857297Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-27T07-20-54-971043Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-27 05:21:05 | com.nexlorin/devtools | Nexlorin Platform DevTools | 2.3.0 | Platform tooling: service health, deployments, read-only SQL, secrets vault, ru… |
-| 2026-11-27 05:36:53 | io.github.jemersonfd/assignato | Assignato | 0.1.1 | E-signatures (Brazil): send PDFs to sign in order, track who is missing, get th… |
-| 2026-11-27 05:39:59 | [dev.workers.pomlabs.pom-data-api/indeed-jobs-scraper](https://github.com/pomexplica/indeed-jobs-scraper) | Indeed & Glassdoor Jobs Scraper | 1.0.1 | Indeed (62 countries) and Glassdoor jobs with full descriptions, salaries and c… |
-| 2026-11-27 05:40:31 | [io.github.on-munseo/on-document](https://github.com/on-munseo/on-munseo.github.io) | On 문서 | 0.2.1 | Korean HWP/HWPX, PDF and Office files: extract, check, mask, and write governme… |
-| 2026-11-27 05:41:44 | ai.dalfast/ai | DALFAST AI | 1.0.0 | Business design, docs & brand: flyers, posts, invoices and decks from chat, fin… |
-| 2026-11-27 05:43:59 | [com.owenisas.lumi/publisher](https://github.com/owenisas/lumi-publisher-mcp) |  | 0.2.0 | Approval-first social & video publishing for creators and AI agents. Drafts req… |
-| 2026-11-27 05:45:33 | dev.uiloft/uiloft | UI Loft | 1.0.0 | Search and install React + Tailwind components, templates and apps from UI Loft. |
-| 2026-11-27 05:47:22 | now.farout/experiences | FarOut | 1.0.0 | Find intense, bookable experiences and crazy skills to learn, from a source-cit… |
-| 2026-11-27 05:47:23 | com.superdefaults/clockpp | Clock++ Smart Alarm | 1.0.0 | Schedule reliable short-term and multi-year phone alarms with interactive MCP A… |
-| 2026-11-27 05:49:45 | io.github.quynguyen-robloxian-tf/agiletest | AgileTest | 1.0.0 | Read AgileTest test cases, executions, plans and requirement coverage in Jira |
-| 2026-11-27 05:49:51 | com.repliohq/site | Replio (restaurant reviews) | 1.1.0 | Replio (repliohq.com) for restaurants: price quotes, review reply drafts, compl… |
-| 2026-11-27 05:50:45 | [io.github.jacob-adm/suite-gate](https://github.com/jacob-adm/suite-gate) | suite-gate | 0.1.0 | Lets a coding agent run the installed PR audit tools and read their findings in… |
-| 2026-11-27 05:58:04 | [io.github.mrfentmen/barber-chair-audit-mcp](https://github.com/mrfentmen/awesome-servers) | barber chair audit Audit | 1.0.0 | Real local JSON analysis of barber chair audit in the Beauty & Body lane. 25 MC… |
-| 2026-11-27 05:58:06 | [io.github.mrfentmen/barber-chair-guide-mcp](https://github.com/mrfentmen/awesome-servers) | barber chair guide Guide | 1.0.0 | Real local JSON analysis of barber chair guide in the Beauty & Body lane. 25 MC… |
-| 2026-11-27 05:58:08 | [io.github.mrfentmen/client-card-audit-mcp](https://github.com/mrfentmen/awesome-servers) | client card audit Audit | 1.0.0 | Real local JSON analysis of client card audit in the Beauty & Body lane. 25 MCP… |
-| 2026-11-27 05:58:16 | [io.github.mrfentmen/client-card-guide-mcp](https://github.com/mrfentmen/awesome-servers) | client card guide Guide | 1.0.0 | Real local JSON analysis of client card guide in the Beauty & Body lane. 25 MCP… |
-| 2026-11-27 05:58:16 | [io.github.mrfentmen/client-card-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | client card tracker Tracker | 1.0.0 | Real local JSON analysis of client card tracker in the Beauty & Body lane. 25 M… |
-| 2026-11-27 05:58:17 | [io.github.mrfentmen/color-formula-audit-mcp](https://github.com/mrfentmen/awesome-servers) | color formula audit Audit | 1.0.0 | Real local JSON analysis of color formula audit in the Beauty & Body lane. 25 M… |
-| 2026-11-27 05:58:19 | [io.github.mrfentmen/color-formula-guide-mcp](https://github.com/mrfentmen/awesome-servers) | color formula guide Guide | 1.0.0 | Real local JSON analysis of color formula guide in the Beauty & Body lane. 25 M… |
-| 2026-11-27 05:58:20 | [io.github.mrfentmen/nail-service-audit-mcp](https://github.com/mrfentmen/awesome-servers) | nail service audit Audit | 1.0.0 | Real local JSON analysis of nail service audit in the Beauty & Body lane. 25 MC… |
-| 2026-11-27 05:58:21 | [io.github.mrfentmen/nail-service-guide-mcp](https://github.com/mrfentmen/awesome-servers) | nail service guide Guide | 1.0.0 | Real local JSON analysis of nail service guide in the Beauty & Body lane. 25 MC… |
-| 2026-11-27 05:58:40 | [io.github.mrfentmen/no-show-track-guide-mcp](https://github.com/mrfentmen/awesome-servers) | no show track guide Guide | 1.0.0 | Real local JSON analysis of no show track guide in the Beauty & Body lane. 25 M… |
-| 2026-11-27 05:58:46 | [io.github.mrfentmen/product-shelf-audit-mcp](https://github.com/mrfentmen/awesome-servers) | product shelf audit Audit | 1.0.0 | Real local JSON analysis of product shelf audit in the Beauty & Body lane. 25 M… |
-| 2026-11-27 05:58:47 | [io.github.mrfentmen/product-shelf-guide-mcp](https://github.com/mrfentmen/awesome-servers) | product shelf guide Guide | 1.0.0 | Real local JSON analysis of product shelf guide in the Beauty & Body lane. 25 M… |
-| 2026-11-27 05:58:48 | [io.github.mrfentmen/salon-booking-audit-mcp](https://github.com/mrfentmen/awesome-servers) | salon booking audit Audit | 1.0.0 | Real local JSON analysis of salon booking audit in the Beauty & Body lane. 25 M… |
-| 2026-11-27 05:58:50 | [io.github.mrfentmen/salon-booking-guide-mcp](https://github.com/mrfentmen/awesome-servers) | salon booking guide Guide | 1.0.0 | Real local JSON analysis of salon booking guide in the Beauty & Body lane. 25 M… |
-| 2026-11-27 05:58:51 | [io.github.mrfentmen/skin-consult-audit-mcp](https://github.com/mrfentmen/awesome-servers) | skin consult audit Audit | 1.0.0 | Real local JSON analysis of skin consult audit in the Beauty & Body lane. 25 MC… |
-| 2026-11-27 05:58:52 | [io.github.mrfentmen/skin-consult-guide-mcp](https://github.com/mrfentmen/awesome-servers) | skin consult guide Guide | 1.0.0 | Real local JSON analysis of skin consult guide in the Beauty & Body lane. 25 MC… |
-| 2026-11-27 05:58:54 | [io.github.mrfentmen/spa-menu-audit-mcp](https://github.com/mrfentmen/awesome-servers) | spa menu audit Audit | 1.0.0 | Real local JSON analysis of spa menu audit in the Beauty & Body lane. 25 MCP to… |
-| 2026-11-27 05:58:54 | [io.github.mrfentmen/spa-menu-checklist-mcp](https://github.com/mrfentmen/awesome-servers) | spa menu checklist Checklist | 1.0.0 | Real local JSON analysis of spa menu checklist in the Beauty & Body lane. 25 MC… |
-| 2026-11-27 05:58:55 | [io.github.mrfentmen/spa-menu-compare-mcp](https://github.com/mrfentmen/awesome-servers) | spa menu compare Compare | 1.0.0 | Real local JSON analysis of spa menu compare in the Beauty & Body lane. 25 MCP… |
-| 2026-11-27 05:58:56 | [io.github.mrfentmen/spa-menu-guide-mcp](https://github.com/mrfentmen/awesome-servers) | spa menu guide Guide | 1.0.0 | Real local JSON analysis of spa menu guide in the Beauty & Body lane. 25 MCP to… |
-| 2026-11-27 05:58:56 | [io.github.mrfentmen/spa-menu-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | spa menu tracker Tracker | 1.0.0 | Real local JSON analysis of spa menu tracker in the Beauty & Body lane. 25 MCP… |
-| 2026-11-27 06:05:45 | co.ripify/ripify | Ripify | 1.0.0 | Video links, downloads and transcripts from YouTube, TikTok and 500+ sites; web… |
-| 2026-11-27 06:09:59 | com.investember/financial-data | Investember financial data | 1.0.0 | Official exchange rates, central bank rates, economic indicators and the econom… |
-| 2026-11-27 06:10:29 | io.github.datagoosedev/france-sirene-bodacc-mcp | France SIRENE & BODACC Registry API + M… | 1.0.2 | France SIRENE/RNE directors, financials, and VAT merged with live BODACC insolv… |
-| 2026-11-27 06:10:30 | io.github.datagoosedev/spain-borme-registry-mcp | Spain BORME Registry API & MCP Server | 1.0.5 | Spain BORME daily Section A PDFs and Section C legal notices parsed into JSON f… |
-| 2026-11-27 06:10:32 | io.github.datagoosedev/uk-companies-house-registry-mcp | UK Companies House Registry API & MCP S… | 1.0.4 | UK Companies House search, profiles, officers, and filings with per-key rate li… |
-| 2026-11-27 06:10:33 | io.github.datagoosedev/uk-public-tenders-ocds-mcp | UK Public Tenders OCDS API & MCP | 1.0.3 | Unified UK Contracts Finder and Find a Tender OCDS procurement notices filtered… |
-| 2026-11-27 06:10:35 | io.github.datagoosedev/wayback-archive-intel-mcp | Wayback Machine & Internet Archive Diff… | 1.0.3 | Wayback CDX timelines, snapshot text/diffs with Common Crawl S3 fallback, and A… |
-| 2026-11-27 06:11:09 | [io.github.benjiprojects1404-maker/cadence](https://github.com/benjiprojects1404-maker/benjiprojects1404-services) | Cadence (Arc MCP) | 0.4.0 | Circle's Arc mainnet for AI agents: balances, quotes, rug alarms, payment links… |
-| 2026-11-27 06:12:51 | com.fenuaspot/mcp |  | 1.0.0 | Read-only directory of French Polynesia: listings, spots, guides, events. |
-| 2026-11-27 06:14:37 | [io.github.jeremy665/theseoagent-mcp](https://github.com/jeremy665/theseoagent-mcp) |  | 1.0.0 | MCP server for The SEO Agent: keyword research, SEO audits, cited articles, and… |
-| 2026-11-27 06:14:57 | co.invisiblebraces/aligner-prices | InvisibleBraces: Invisalign and clear a… | 1.0.0 | Invisalign prices clinics publish in 45 cities, and 94 clear aligner brands' pr… |
-| 2026-11-27 06:17:31 | im.starport/satellite-launch-data | Starport Satellite and Launch Data | 1.0.0 | Satellite passes, launch schedule, satellite coverage, GPS jamming and outage r… |
-| 2026-11-27 06:17:32 | im.starport/satellite-pass-predictor | Satellite Pass Predictor | 1.0.0 | When the ISS, Starlink and 16,000 satellites can be seen from a place, with pre… |
-| 2026-11-27 06:17:32 | im.starport/rocket-launch-schedule | Rocket Launch Schedule | 1.0.0 | Every upcoming orbital launch with its local launch time and where the public c… |
-| 2026-11-27 06:17:33 | im.starport/satellite-coverage-checker | Satellite Coverage Checker | 1.0.0 | Which of about 75 satellite networks (Starlink, OneWeb, Iridium and more) reach… |
-| 2026-11-27 06:17:33 | im.starport/gps-jamming-monitor | GPS Jamming Monitor | 1.0.0 | Where aircraft report GPS (GNSS) jamming and spoofing, by region, from open ADS… |
-| 2026-11-27 06:17:34 | im.starport/satellite-outage-tracker | Satellite Outage Tracker | 1.0.0 | Sourced record of satellite service outages, government cut-offs, jamming and s… |
+| 2026-11-27 06:21:25 | ai.minogan.brujula/brujula-ia | Brújula IA | 1.0.0 | Catálogo de IA en español: herramientas verificadas, prompts y sistemas por sec… |
+| 2026-11-27 06:22:21 | [io.github.TheoCComputationsmain/grant-consent](https://github.com/TheoCComputationsmain/Grant) | Grant · Human-in-the-loop approvals | 1.0.0 | Zero-custody human approval checkpoints for AI agents. |
+| 2026-11-27 06:24:12 | [com.kkvlabs/ga4-gsc-mcp](https://github.com/kkvlabs/ga4-gsc-mcp) | GA4 + Google Search Console + Bing | 0.2.0 | Google Analytics 4 (GA4), Google Search Console (GSC) and Bing Webmaster Tools.… |
+| 2026-11-27 06:26:21 | [id.biz.infaqa/zakat-audit](https://github.com/ROPEL-Digital/infaqa) | INFAQA Zakat Mal & Sharia Audit MCP | 1.0.0 | Deterministic Indonesian zakat mal calculator, SK BAZNAS 2026 nisab, Kemenag Qu… |
+| 2026-11-27 06:30:07 | com.loopholetape/pumpfun-tools | Tools for pump.fun bots | 1.0.0 | Check bot wallets, decode failed trades and read live fees and feed counts on p… |
+| 2026-11-27 06:31:24 | cc.vernissage/vernissage | vernissage: a live map of contemporary… | 0.1.0 | What's on in a city, who a person, space or show is, and artworks found by desc… |
+| 2026-11-27 06:31:43 | im.starport/satellite-launch-data-mcpize | Starport Satellite and Launch Data (MCP… | 1.0.0 | Satellite passes, launch schedule, coverage, GPS jamming and outages; 50 free c… |
+| 2026-11-27 06:32:49 | [io.github.mrfentmen/supply-order-audit-mcp](https://github.com/mrfentmen/awesome-servers) | supply order audit Audit | 1.0.0 | Real local JSON analysis of supply order audit in the Beauty & Body lane. 25 MC… |
+| 2026-11-27 06:32:51 | [io.github.mrfentmen/supply-order-guide-mcp](https://github.com/mrfentmen/awesome-servers) | supply order guide Guide | 1.0.0 | Real local JSON analysis of supply order guide in the Beauty & Body lane. 25 MC… |
+| 2026-11-27 06:35:57 | com.gscdump/mcp | gscdump | 1.1.0 | Google Search Console data for agents |
+| 2026-11-27 06:36:26 | com.cuelark/data | Cuelark Data | 1.0.0 | Free no-key public data: USGS earthquakes, airports, world time, US aircraft an… |
+| 2026-11-27 06:37:47 | com.postlaunchseo/mcp | Post Launch SEO | 1.0.0 | Check a site after launch, read its results and fixes, and run checks from your… |
+| 2026-11-27 06:41:16 | com.money2route/policy-fund | Money2Route(자금줄) 소상공인 정책자금 | 1.1.0 | Korean small business policy loans: eligibility check with notice pages, search… |
+| 2026-11-27 06:42:35 | [io.github.CodeArchy/codearchy](https://github.com/CodeArchy/codearchy) | CodeArchy | 0.1.2 | Your codebase’s architecture for your AI agent: map, search, dependencies, requ… |
+| 2026-11-27 06:51:02 | [io.github.spaceplantcorporationofficial/ascpilot](https://github.com/spaceplantcorporationofficial/ascpilot) | ASC Pilot | 1.1.0 | Find the money your App Store Connect account is leaking (unreleased builds, fr… |
+| 2026-11-27 06:52:46 | [io.github.mrfentmen/game-film-audit-mcp](https://github.com/mrfentmen/awesome-servers) | game film audit Audit | 1.0.0 | Real local JSON analysis of game film audit in the Sports Coaching lane. 25 MCP… |
+| 2026-11-27 06:52:47 | [io.github.mrfentmen/game-film-compare-mcp](https://github.com/mrfentmen/awesome-servers) | game film compare Compare | 1.0.0 | Real local JSON analysis of game film compare in the Sports Coaching lane. 25 M… |
+| 2026-11-27 06:52:47 | [io.github.mrfentmen/game-film-guide-mcp](https://github.com/mrfentmen/awesome-servers) | game film guide Guide | 1.0.0 | Real local JSON analysis of game film guide in the Sports Coaching lane. 25 MCP… |
+| 2026-11-27 06:52:48 | [io.github.mrfentmen/game-film-tracker-mcp](https://github.com/mrfentmen/awesome-servers) | game film tracker Tracker | 1.0.0 | Real local JSON analysis of game film tracker in the Sports Coaching lane. 25 M… |
+| 2026-11-27 06:53:19 | [io.github.mrfentmen/lineup-card-guide-mcp](https://github.com/mrfentmen/awesome-servers) | lineup card guide Guide | 1.0.0 | Real local JSON analysis of lineup card guide in the Sports Coaching lane. 25 M… |
+| 2026-11-27 06:53:30 | [io.github.mrfentmen/player-eval-guide-mcp](https://github.com/mrfentmen/awesome-servers) | player eval guide Guide | 1.0.0 | Real local JSON analysis of player eval guide in the Sports Coaching lane. 25 M… |
+| 2026-11-27 06:55:54 | com.publicagentmemory/pam | Public Agent Memory | 0.0.5 | Free, shared, temporary public memory for AI agents. No accounts or authenticat… |
+| 2026-11-27 06:57:47 | ai.nexusca/nexus | Nexus: Indian tax and regulatory law | 2026.11.25 | Indian tax and regulatory law for CAs: both Income-tax Acts, GST and more, from… |
+| 2026-11-27 07:01:34 | io.github.getopenskills-oss/openskills | OpenSkills | 1.0.0 | Search, read and install Agent Skills (SKILL.md) for Claude Code, Cursor, Codex… |
+| 2026-11-27 07:02:56 | [io.github.mindstone/mcp-server-fathom](https://github.com/mindstone/mcp-servers) | Fathom | 0.4.0 | Fathom AI meeting transcription MCP server for Model Context Protocol hosts |
+| 2026-11-27 07:07:47 | [io.github.char5742/ats-jobs-scraper-mcp](https://github.com/char5742/autotroph-mcp-catalog) | Greenhouse, Lever, Ashby, SmartRecruite… | 1.0.0 | Structured jobs across Greenhouse, Lever, Ashby, SmartRecruiters & Workable wit… |
+| 2026-11-27 07:07:48 | [io.github.char5742/arxiv-pubmed-openalex-mcp](https://github.com/char5742/autotroph-mcp-catalog) | arXiv, PubMed & OpenAlex Academic Citat… | 1.0.0 | Unified academic paper metadata, DOI deduplication, MeSH terms, and live OpenAl… |
+| 2026-11-27 07:07:50 | [io.github.char5742/domain-rdap-dns-tls-mcp](https://github.com/char5742/autotroph-mcp-catalog) | Domain WHOIS/RDAP, DNS, DMARC & Live TL… | 1.0.0 | Authoritative RDAP WHOIS, SPF/DMARC email security audit & live TLS certificate… |
+| 2026-11-27 07:07:51 | [io.github.char5742/sanctions-aml-gleif-mcp](https://github.com/char5742/autotroph-mcp-catalog) | OFAC Sanctions, UN AML & GLEIF LEI Comp… | 1.0.0 | Deterministic entity screening across OFAC SDN, UN Consolidated sanctions & GLE… |
+| 2026-11-27 07:08:08 | dev.agentisallyouneed/manifesto | Agent Is All You Need | 1.0.0 | Read-only: search and read The Agent Manifesto and the public pages of agentisa… |
+| 2026-11-27 07:09:41 | io.github.cnelson21/evidence-engine | Evidence Engine | 0.1.0 | Check a factual claim against public sources: exact quotes, archived, with a re… |
+| 2026-11-27 07:12:22 | mn.intent/intent | Intent | 1.0.0 | Research agents, a shared workspace and market data for investment research tea… |
+| 2026-11-27 07:13:05 | [io.github.surendranb/free-image-library](https://github.com/surendranb/free-image-library) |  | 0.1.5 | Openly-licensed Creative Commons images and audio for AI agents, with ready-to-… |
+| 2026-11-27 07:14:16 | [io.github.mrfentmen/referee-log-audit-mcp](https://github.com/mrfentmen/awesome-servers) | referee log audit Audit | 1.0.0 | Real local JSON analysis of referee log audit in the Sports Coaching lane. 25 M… |
+| 2026-11-27 07:14:18 | [io.github.mrfentmen/referee-log-guide-mcp](https://github.com/mrfentmen/awesome-servers) | referee log guide Guide | 1.0.0 | Real local JSON analysis of referee log guide in the Sports Coaching lane. 25 M… |
+| 2026-11-27 07:14:19 | [io.github.mrfentmen/scout-visit-audit-mcp](https://github.com/mrfentmen/awesome-servers) | scout visit audit Audit | 1.0.0 | Real local JSON analysis of scout visit audit in the Sports Coaching lane. 25 M… |
+| 2026-11-27 07:14:21 | [io.github.mrfentmen/scout-visit-guide-mcp](https://github.com/mrfentmen/awesome-servers) | scout visit guide Guide | 1.0.0 | Real local JSON analysis of scout visit guide in the Sports Coaching lane. 25 M… |
+| 2026-11-27 07:14:25 | [io.github.mrfentmen/season-plan-audit-mcp](https://github.com/mrfentmen/awesome-servers) | season plan audit Audit | 1.0.0 | Real local JSON analysis of season plan audit in the Sports Coaching lane. 25 M… |
+| 2026-11-27 07:14:28 | [io.github.mrfentmen/season-plan-guide-mcp](https://github.com/mrfentmen/awesome-servers) | season plan guide Guide | 1.0.0 | Real local JSON analysis of season plan guide in the Sports Coaching lane. 25 M… |
+| 2026-11-27 07:14:29 | [io.github.mrfentmen/stat-sheet-audit-mcp](https://github.com/mrfentmen/awesome-servers) | stat sheet audit Audit | 1.0.0 | Real local JSON analysis of stat sheet audit in the Sports Coaching lane. 25 MC… |
+| 2026-11-27 07:14:31 | [io.github.mrfentmen/stat-sheet-guide-mcp](https://github.com/mrfentmen/awesome-servers) | stat sheet guide Guide | 1.0.0 | Real local JSON analysis of stat sheet guide in the Sports Coaching lane. 25 MC… |
+| 2026-11-27 07:15:33 | is.wednesday/mcp | Wednesday: take your product idea to re… | 1.0.0 | Take your product idea to revenue with the playbooks that took ours there. |
 
 ## Data source
 
