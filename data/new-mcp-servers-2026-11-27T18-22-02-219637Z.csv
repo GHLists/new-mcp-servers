@@ -1,0 +1,46 @@
+created_at,server,title,version,repository,transports,description
+2026-11-27T17:19:34.311548Z,io.github.ilodezis/gramcp,gramcp,0.1.0,https://github.com/ilodezis/gramcp,,Telegram MCP server that signs in as you and treats every message it reads as hostile
+2026-11-27T17:20:32.814807Z,io.github.VRIL-LABS/ad-skill-jam,Ad Skill Jam,1.1.0,https://github.com/VRIL-LABS/ad-skill-jam,,Read-only campaign inventory and advertising skills for 12 ad platforms.
+2026-11-27T17:20:33.587569Z,io.github.eternal-roman/ledger,,0.19.2,https://github.com/eternal-roman/ledger,,Exact-decimal double-entry for agents. Call MCP tools; do not do money math in tokens.
+2026-11-27T17:21:35.917108Z,ru.sipatch/shop,SIPATCH,1.0.0,,streamable-http,"Patch shop sipatch.ru: catalog, prices, parcel quote, custom patch, cart link and orders."
+2026-11-27T17:21:38.398172Z,net.plety/plety-guides,Plety guides,1.0.0,,streamable-http,Search and read Plety's guides on licensing UK company records to AI buyers. Read-only.
+2026-11-27T17:23:21.699492Z,io.github.crxscent/strata,Strata — trading system tester,1.0.0,https://github.com/crxscent/strata-kit,streamable-http,"Audit MT5 EAs and trading signals (A–F grade, red flags) and the chance to pass prop challenges."
+2026-11-27T17:25:53.099589Z,io.github.Merliin30/singapore-procurement,Singapore Procurement,0.1.0,https://github.com/Merliin30/singapore-government-procurement,,Find recurring suppliers in Singapore government contracts. Get a GeBIZ report via testnet x402.
+2026-11-27T17:28:02.909765Z,ch.remotli/jobs,Remotli,1.0.0,,streamable-http,"Search remote jobs at Swiss companies and CET employers, with verified remote policies."
+2026-11-27T17:28:05.447582Z,ai.zebracat/zebracat,Zebracat,2026.11.27,https://github.com/zebracatai/skills,streamable-http,"Plan and make short AI videos with script, voice, visuals, music and captions."
+2026-11-27T17:32:46.594386Z,ru.sipatch/account,SIPATCH: my orders,1.0.0,,streamable-http,"Your SIPATCH orders: status, tracking and bonus points. Sign-in with OAuth required."
+2026-11-27T17:35:38.890122Z,app.slopmonkey/humanizer,Slop Monkey,1.0.0,,streamable-http,Free AI humanizer. Rewrites AI drafts so they read like a person wrote them.
+2026-11-27T17:37:03.197345Z,app.swaprouter/mcp,SwapRouter,1.0.0,,streamable-http,"Non-custodial swaps to Monero or any coin: best route, deposit QR, tracking. No account."
+2026-11-27T17:39:16.851327Z,com.lookprep/lookprep,LookPrep,1.0.0,https://github.com/lookprep/lookprep-mcp,streamable-http,"Read-only LookPrep catalogue: lip looks, prices, stored demo simulations and a link to the web flow."
+2026-11-27T17:40:28.689073Z,io.github.parrot-software-bc/polycracker-ecu,Polycracker ECU,1.1.0,https://github.com/parrot-software-bc/polycracker-ecu,,Local-first deterministic token compression and context-drift telemetry for LLM and MCP payloads.
+2026-11-27T17:40:59.865764Z,com.ai-today/news,AI Today news,1.0.0,,streamable-http,"AI news for AI agents: latest posts, search, topics, ticker, full articles with sources."
+2026-11-27T17:41:01.458026Z,com.all-today/news,All Today news,1.0.0,,streamable-http,"World news for AI agents: latest posts, search, topics, ticker, full articles with sources."
+2026-11-27T17:42:10.043656Z,com.printoncommand/mcp,Print on Command,0.1.0,,streamable-http,Order printed posters and canvases. Agents proof artwork; a human pays a link.
+2026-11-27T17:43:28.51971Z,io.github.VnKk8/fastqa-mcp,FastQA MCP,1.0.2,https://github.com/VnKk8/FastQA-MCP,,"Browser QA for AI agents: whole tests in one call, finds and explains hidden bugs, CI replay."
+2026-11-27T17:43:58.123464Z,com.field-viewer/field-viewer,Field-Viewer,1.0.0,,streamable-http,Open IFC models and drawings in the workshop and on site. Create projects and publish versions.
+2026-11-27T17:46:14.270863Z,com.feedbaky/feedbaky,Feedbaky,1.0.0,,streamable-http,"Read and archive website visitor feedback with marked screenshots, and set up Feedbaky sites."
+2026-11-27T17:47:04.923886Z,io.github.LevRa7/LiveUSBAgent-mcp,LiveUSBAgent-mcp,0.2.0,https://github.com/LevRa7/LiveUSBAgent-mcp,streamable-http,Bootable Debian 13 LiveUSB rescue OS with 38 MCP tools for AI-assisted bare-metal recovery.
+2026-11-27T17:48:27.623555Z,com.tcs-i/tcs-i,TCS-i,1.0.0,,streamable-http,"Picks the smallest box for every order and shows packers a 3D packing plan, from your WMS."
+2026-11-27T17:49:08.285642Z,com.projecta0/watch,ProjectA0 Watch — Top 50 SaaS Subprocessor & AI-Clause Tracker,0.1.0,,streamable-http,"Track Top 50 B2B SaaS subprocessor lists, AI-training clauses, SHA-256 hashes & daily legal diffs."
+2026-11-27T17:50:56.085367Z,com.difficat/difficat,DiffiCat,3.164.0,,streamable-http,"Compare a website before and after a migration: missing pages, content changes, visual diffs."
+2026-11-27T17:51:26.423595Z,io.github.bipa-app/bipa-business,Bipa Business,0.1.41,https://github.com/bipa-app/bipa-business-plugin,streamable-http,"Bipa Business cash flow, collections, payment requests and permissioned treasury actions."
+2026-11-27T17:51:39.01738Z,io.github.bipa-app/bipa,Bipa,0.1.41,https://github.com/bipa-app/grok-plugin,streamable-http,"Bipa account, balances, portfolio, Pix receiving and permissioned payment requests."
+2026-11-27T17:53:47.204256Z,com.therightbag/bags,The Right Bag,1.0.0,,streamable-http,"Search 3,000+ travel bags and check any bag against 53 airlines' cabin and under-seat limits."
+2026-11-27T17:57:15.071117Z,de.i6eal/open-ai-data,i6eal Open AI Data MCP Server,1.0.0,,streamable-http,"Read-only MCP server for 16 German & EU open AI datasets (procurement, budgets, DSA, enforcement)."
+2026-11-27T18:04:04.707836Z,com.texasdeedrestrictions/texas-deed-restrictions,Texas Deed Restrictions,0.1.0,,streamable-http,"Look up Texas deed restrictions by address, with verbatim recorded quotes. Travis County beta."
+2026-11-27T18:05:01.410521Z,de.sovereignsalesswarm/sovsales-radar,SovSales Radar,1.0.0,,streamable-http,Read German public tenders and available evidence for your SovSales Radar profile.
+2026-11-27T18:05:17.717213Z,in.co.homingo/hooks,Hooks,1.0.0,,streamable-http,"Create, schedule and publish Instagram posts and comment auto-replies from any MCP client."
+2026-11-27T18:05:52.067079Z,app.cyberboon/hearthlog-planner,HearthLog Home Maintenance Planner,1.0.0,,streamable-http,Deterministic 12-month home-maintenance plans from coarse home attributes.
+2026-11-27T18:06:29.821755Z,id.lokr/lowongan,Lokr,1.0.0,,streamable-http,"Indonesian job openings from employers' own career sites: search, details, market data, CV match."
+2026-11-27T18:09:32.892069Z,io.github.tanbopiao/sop-retrieval-mcp,SOP Retrieval,0.1.0,https://github.com/tanbopiao/sop-retrieval-mcp,,"Self-serve SOP retrieval MCP server with document, version and section citations."
+2026-11-27T18:10:45.305672Z,io.github.Andrii2203/clearcaption-x-tweets,ClearCaption: X (Twitter) Tweet Scraper (via official Apify MCP),1.0.0,,streamable-http,"Tweets by search, account or replies: no duplicates, dates that work, $0.20 per 1,000 tweets"
+2026-11-27T18:11:12.876299Z,dev.cotlet/gingr,Gingr by Cotlet,1.0.0,https://github.com/cotlet-connect/gingr-mcp,streamable-http; streamable-http,"Gingr MCP server and API: vaccines, arrivals, report cards, deposits."
+2026-11-27T18:11:13.110959Z,io.github.tanbopiao/taixuan-semantic-base,Taixuan Semantic Base,0.1.0,https://github.com/tanbopiao/taixuan-semantic-base,,Three-state semantic translation base with coupling adjudication and an MCP server shell.
+2026-11-27T18:11:48.641389Z,nl.abonnement-goedkoop/offers,Abonnement Goedkoop,1.0.0,,streamable-http,"Search and compare Dutch Sim Only, phone and internet & tv offers from abonnement-goedkoop.nl."
+2026-11-27T18:12:43.285202Z,io.github.tanbopiao/constraint-runtime,Constraint Runtime,0.1.0,https://github.com/tanbopiao/constraint-runtime,,"Agent constraint runtime: rule fences, shadow runs, circuit breaking, audit replay. MCP over stdio."
+2026-11-27T18:13:05.408253Z,beer.whylieineed/jarvis,WHY LIE? I NEED BEER,1.0.0,,streamable-http,"Test agent claims with JARVIS: Lab proof plans, Battles, media briefs and Directory drafts."
+2026-11-27T18:14:23.039141Z,io.github.tanbopiao/agent-eval-engine,Agent Eval Engine,0.2.0,https://github.com/tanbopiao/agent-eval-engine,,"Verifiable agent evaluation engine: deterministic scoring, hash-chain audit trail, MCP over stdio."
+2026-11-27T18:15:34.176144Z,io.github.abm9111/tailkeeper,tailkeeper,0.7.0,https://github.com/abm9111/tailkeeper,,"Read-only Tailscale tools for agents: devices, ACL tests, audit logs, DNS and the local node."
+2026-11-27T18:16:02.922552Z,io.github.NexaEthos/agora,Nexa Agora,1.0.0,https://github.com/NexaEthos/Agora,streamable-http,"Read discussions, share updates and create documents in your Nexa Agora workspace."
+2026-11-27T18:16:43.420547Z,io.github.wlsdks/ontology-atlas,Ontology Atlas,2.7.15,https://github.com/wlsdks/ontology-atlas,,Read and write one codebase ontology kept as Markdown in the repository.
+2026-11-27T18:18:41.591826Z,com.vacationsatdestin/booking,Vacations At Destin — Direct Booking,1.0.0,,streamable-http,Book 27 Destin-area condos direct from your AI assistant - live availability and final prices.
