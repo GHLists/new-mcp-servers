@@ -9,59 +9,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 18:22 UTC
+## Latest list — 2026-11-27 19:21 UTC
 
-New MCP servers published between 2026-11-27 17:19 UTC and 2026-11-27 18:22 UTC.
+New MCP servers published between 2026-11-27 18:22 UTC and 2026-11-27 19:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-27T18-22-02-219637Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-27T19-21-07-859723Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-27 17:19:34 | [io.github.ilodezis/gramcp](https://github.com/ilodezis/gramcp) | gramcp | 0.1.0 | Telegram MCP server that signs in as you and treats every message it reads as h… |
-| 2026-11-27 17:20:32 | [io.github.VRIL-LABS/ad-skill-jam](https://github.com/VRIL-LABS/ad-skill-jam) | Ad Skill Jam | 1.1.0 | Read-only campaign inventory and advertising skills for 12 ad platforms. |
-| 2026-11-27 17:20:33 | [io.github.eternal-roman/ledger](https://github.com/eternal-roman/ledger) |  | 0.19.2 | Exact-decimal double-entry for agents. Call MCP tools; do not do money math in… |
-| 2026-11-27 17:21:35 | ru.sipatch/shop | SIPATCH | 1.0.0 | Patch shop sipatch.ru: catalog, prices, parcel quote, custom patch, cart link a… |
-| 2026-11-27 17:21:38 | net.plety/plety-guides | Plety guides | 1.0.0 | Search and read Plety's guides on licensing UK company records to AI buyers. Re… |
-| 2026-11-27 17:23:21 | [io.github.crxscent/strata](https://github.com/crxscent/strata-kit) | Strata — trading system tester | 1.0.0 | Audit MT5 EAs and trading signals (A–F grade, red flags) and the chance to pass… |
-| 2026-11-27 17:25:53 | [io.github.Merliin30/singapore-procurement](https://github.com/Merliin30/singapore-government-procurement) | Singapore Procurement | 0.1.0 | Find recurring suppliers in Singapore government contracts. Get a GeBIZ report… |
-| 2026-11-27 17:28:02 | ch.remotli/jobs | Remotli | 1.0.0 | Search remote jobs at Swiss companies and CET employers, with verified remote p… |
-| 2026-11-27 17:28:05 | [ai.zebracat/zebracat](https://github.com/zebracatai/skills) | Zebracat | 2026.11.27 | Plan and make short AI videos with script, voice, visuals, music and captions. |
-| 2026-11-27 17:32:46 | ru.sipatch/account | SIPATCH: my orders | 1.0.0 | Your SIPATCH orders: status, tracking and bonus points. Sign-in with OAuth requ… |
-| 2026-11-27 17:35:38 | app.slopmonkey/humanizer | Slop Monkey | 1.0.0 | Free AI humanizer. Rewrites AI drafts so they read like a person wrote them. |
-| 2026-11-27 17:37:03 | app.swaprouter/mcp | SwapRouter | 1.0.0 | Non-custodial swaps to Monero or any coin: best route, deposit QR, tracking. No… |
-| 2026-11-27 17:39:16 | [com.lookprep/lookprep](https://github.com/lookprep/lookprep-mcp) | LookPrep | 1.0.0 | Read-only LookPrep catalogue: lip looks, prices, stored demo simulations and a… |
-| 2026-11-27 17:40:28 | [io.github.parrot-software-bc/polycracker-ecu](https://github.com/parrot-software-bc/polycracker-ecu) | Polycracker ECU | 1.1.0 | Local-first deterministic token compression and context-drift telemetry for LLM… |
-| 2026-11-27 17:40:59 | com.ai-today/news | AI Today news | 1.0.0 | AI news for AI agents: latest posts, search, topics, ticker, full articles with… |
-| 2026-11-27 17:41:01 | com.all-today/news | All Today news | 1.0.0 | World news for AI agents: latest posts, search, topics, ticker, full articles w… |
-| 2026-11-27 17:42:10 | com.printoncommand/mcp | Print on Command | 0.1.0 | Order printed posters and canvases. Agents proof artwork; a human pays a link. |
-| 2026-11-27 17:43:28 | [io.github.VnKk8/fastqa-mcp](https://github.com/VnKk8/FastQA-MCP) | FastQA MCP | 1.0.2 | Browser QA for AI agents: whole tests in one call, finds and explains hidden bu… |
-| 2026-11-27 17:43:58 | com.field-viewer/field-viewer | Field-Viewer | 1.0.0 | Open IFC models and drawings in the workshop and on site. Create projects and p… |
-| 2026-11-27 17:46:14 | com.feedbaky/feedbaky | Feedbaky | 1.0.0 | Read and archive website visitor feedback with marked screenshots, and set up F… |
-| 2026-11-27 17:47:04 | [io.github.LevRa7/LiveUSBAgent-mcp](https://github.com/LevRa7/LiveUSBAgent-mcp) | LiveUSBAgent-mcp | 0.2.0 | Bootable Debian 13 LiveUSB rescue OS with 38 MCP tools for AI-assisted bare-met… |
-| 2026-11-27 17:48:27 | com.tcs-i/tcs-i | TCS-i | 1.0.0 | Picks the smallest box for every order and shows packers a 3D packing plan, fro… |
-| 2026-11-27 17:49:08 | com.projecta0/watch | ProjectA0 Watch — Top 50 SaaS Subproces… | 0.1.0 | Track Top 50 B2B SaaS subprocessor lists, AI-training clauses, SHA-256 hashes &… |
-| 2026-11-27 17:50:56 | com.difficat/difficat | DiffiCat | 3.164.0 | Compare a website before and after a migration: missing pages, content changes,… |
-| 2026-11-27 17:51:26 | [io.github.bipa-app/bipa-business](https://github.com/bipa-app/bipa-business-plugin) | Bipa Business | 0.1.41 | Bipa Business cash flow, collections, payment requests and permissioned treasur… |
-| 2026-11-27 17:51:39 | [io.github.bipa-app/bipa](https://github.com/bipa-app/grok-plugin) | Bipa | 0.1.41 | Bipa account, balances, portfolio, Pix receiving and permissioned payment reque… |
-| 2026-11-27 17:53:47 | com.therightbag/bags | The Right Bag | 1.0.0 | Search 3,000+ travel bags and check any bag against 53 airlines' cabin and unde… |
-| 2026-11-27 17:57:15 | de.i6eal/open-ai-data | i6eal Open AI Data MCP Server | 1.0.0 | Read-only MCP server for 16 German & EU open AI datasets (procurement, budgets,… |
-| 2026-11-27 18:04:04 | com.texasdeedrestrictions/texas-deed-restrictions | Texas Deed Restrictions | 0.1.0 | Look up Texas deed restrictions by address, with verbatim recorded quotes. Trav… |
-| 2026-11-27 18:05:01 | de.sovereignsalesswarm/sovsales-radar | SovSales Radar | 1.0.0 | Read German public tenders and available evidence for your SovSales Radar profi… |
-| 2026-11-27 18:05:17 | in.co.homingo/hooks | Hooks | 1.0.0 | Create, schedule and publish Instagram posts and comment auto-replies from any… |
-| 2026-11-27 18:05:52 | app.cyberboon/hearthlog-planner | HearthLog Home Maintenance Planner | 1.0.0 | Deterministic 12-month home-maintenance plans from coarse home attributes. |
-| 2026-11-27 18:06:29 | id.lokr/lowongan | Lokr | 1.0.0 | Indonesian job openings from employers' own career sites: search, details, mark… |
-| 2026-11-27 18:09:32 | [io.github.tanbopiao/sop-retrieval-mcp](https://github.com/tanbopiao/sop-retrieval-mcp) | SOP Retrieval | 0.1.0 | Self-serve SOP retrieval MCP server with document, version and section citation… |
-| 2026-11-27 18:10:45 | io.github.Andrii2203/clearcaption-x-tweets | ClearCaption: X (Twitter) Tweet Scraper… | 1.0.0 | Tweets by search, account or replies: no duplicates, dates that work, $0.20 per… |
-| 2026-11-27 18:11:12 | [dev.cotlet/gingr](https://github.com/cotlet-connect/gingr-mcp) | Gingr by Cotlet | 1.0.0 | Gingr MCP server and API: vaccines, arrivals, report cards, deposits. |
-| 2026-11-27 18:11:13 | [io.github.tanbopiao/taixuan-semantic-base](https://github.com/tanbopiao/taixuan-semantic-base) | Taixuan Semantic Base | 0.1.0 | Three-state semantic translation base with coupling adjudication and an MCP ser… |
-| 2026-11-27 18:11:48 | nl.abonnement-goedkoop/offers | Abonnement Goedkoop | 1.0.0 | Search and compare Dutch Sim Only, phone and internet & tv offers from abonneme… |
-| 2026-11-27 18:12:43 | [io.github.tanbopiao/constraint-runtime](https://github.com/tanbopiao/constraint-runtime) | Constraint Runtime | 0.1.0 | Agent constraint runtime: rule fences, shadow runs, circuit breaking, audit rep… |
-| 2026-11-27 18:13:05 | beer.whylieineed/jarvis | WHY LIE? I NEED BEER | 1.0.0 | Test agent claims with JARVIS: Lab proof plans, Battles, media briefs and Direc… |
-| 2026-11-27 18:14:23 | [io.github.tanbopiao/agent-eval-engine](https://github.com/tanbopiao/agent-eval-engine) | Agent Eval Engine | 0.2.0 | Verifiable agent evaluation engine: deterministic scoring, hash-chain audit tra… |
-| 2026-11-27 18:15:34 | [io.github.abm9111/tailkeeper](https://github.com/abm9111/tailkeeper) | tailkeeper | 0.7.0 | Read-only Tailscale tools for agents: devices, ACL tests, audit logs, DNS and t… |
-| 2026-11-27 18:16:02 | [io.github.NexaEthos/agora](https://github.com/NexaEthos/Agora) | Nexa Agora | 1.0.0 | Read discussions, share updates and create documents in your Nexa Agora workspa… |
-| 2026-11-27 18:16:43 | [io.github.wlsdks/ontology-atlas](https://github.com/wlsdks/ontology-atlas) | Ontology Atlas | 2.7.15 | Read and write one codebase ontology kept as Markdown in the repository. |
-| 2026-11-27 18:18:41 | com.vacationsatdestin/booking | Vacations At Destin — Direct Booking | 1.0.0 | Book 27 Destin-area condos direct from your AI assistant - live availability an… |
+| 2026-11-27 18:23:47 | com.saymesh/saymesh | SayMesh | 1.0.0 | Hosted channels and direct chats so coding agents can message each other. |
+| 2026-11-27 18:24:31 | app.memorinth/memorinth | Memorinth | 0.9.0 | Shared memory for Claude Code, Codex, Cursor and any MCP agent, kept as Markdow… |
+| 2026-11-27 18:27:02 | [io.github.fps-act5-lab/solana-objective-gates](https://github.com/fps-act5-lab/solana-objective-gates-mcp) | Solana Objective Market & Structure Gat… | 1.0.0 | Read-only Solana token structure, DEX flow anomaly, and market timing telemetry… |
+| 2026-11-27 18:31:49 | io.github.TayoAki/weight-class | Weight Class | 1.0.0 | Calories and protein at 100 US restaurant chains, from each chain's own numbers… |
+| 2026-11-27 18:36:21 | [io.github.Soflutionltd/phonesimulator](https://github.com/Soflutionltd/phonesimulator) | PhoneSimulator | 3.13.0 | Drive iOS Simulators, iPhones, Android devices and macOS apps: UI snapshots, li… |
+| 2026-11-27 18:40:31 | com.headlesslaw/headlesslaw | headlesslaw MCP server | 1.0.0 | Verbatim text of EU financial and digital regulation, with official sources. No… |
+| 2026-11-27 18:41:59 | com.enercast/enercast | Enercast | 1.0.0 | US natural gas pipeline notices, daily supply and demand, capacity offline and… |
+| 2026-11-27 18:44:20 | [ai.homouniversalis/double-entry-accounting-financial-audit-reconciliation-xbrl-dora-compliance-sox-404-rag-citation-verification-hallucination-spreadsheet-gb-45438-tc260-pipl-veritas](https://github.com/David-Porto-Baraldes/Viveka_Web) | Homo Universalis — Pacioli Double-Entry… | 1.12.0 | Zero-auth Double-Entry Ledger, XBRL, RAG Citation/Table Grounding, DORA, SOX 40… |
+| 2026-11-27 18:44:57 | [dev.cotlet/revelationpets](https://github.com/cotlet-connect/revelationpets-mcp) | Revelation Pets by Cotlet | 1.0.0 | Revelation Pets MCP server and API: vaccines, deposits, daycare credits, free r… |
+| 2026-11-27 18:45:42 | [io.github.KhomDev/priorart](https://github.com/KhomDev/priorart) | priorart | 0.2.3 | Audit-finding triage: prior art, exclusions and payability, as quoted evidence.… |
+| 2026-11-27 18:47:31 | gr.minedo/minedo | Minedo | 1.1.0 | Search homes for teachers in Greece near the school of their placement. Read-on… |
+| 2026-11-27 18:48:50 | com.business2si/registry | business2si.com registry | 0.2.0 | New open registry where businesses and AI agents list profiles, post requests a… |
+| 2026-11-27 18:49:52 | com.boongon/boongon | Boongon | 0.4.0 | Read a company's Boongon ERP records in every module, as the person sees them,… |
+| 2026-11-27 18:50:51 | app.thunderpigeon/revision | Thunder Pigeon | 1.0.0 | Write revision topics for your child from what school sends home, and see how t… |
+| 2026-11-27 18:52:51 | com.nerdofertas/mcp | Nerd Ofertas | 1.0.0 | Compare Brazilian e-commerce price history, curated deals and active coupons vi… |
+| 2026-11-27 18:54:28 | [io.github.TasksAI-Official/tasksai-agent-skills](https://github.com/TasksAI-Official/tasksai-agent-skills) | TasksAI Agent Skills: Realtor, Farmer a… | 0.3.1 | Find Realtor, Farmer and Teacher skills free; buy single-use instructions with… |
+| 2026-11-27 18:57:17 | [dev.cotlet/pawfinity](https://github.com/cotlet-connect/pawfinity-mcp) | PawFinity by Cotlet | 1.0.0 | PawFinity MCP server and API: failed reminders, vaccine checks, clock-outs, dup… |
+| 2026-11-27 19:04:37 | [io.github.20235106-huynk/rosettex](https://github.com/20235106-huynk/rosettex) |  | 1.0.3 | Translate scientific papers (TeX source or born-digital PDF) and rebuild the PD… |
+| 2026-11-27 19:06:22 | com.theitalianwinemap/wine-map | The Italian Wine Map | 1.0.0 | Italian wine guide: every DOCG, DOC and IGT, crus, grapes, producers, scored re… |
+| 2026-11-27 19:07:30 | br.com.treinoai/treinoai | TreinoAI | 1.0.0 | Calculadoras de treino, nutrição e negócio para personal trainers e busca na Tr… |
+| 2026-11-27 19:08:08 | space.e-invoice/validation | E-Invoice Space | 1.0.0 | Validate e-invoices (ZUGFeRD, Factur-X, XRechnung, EN 16931) as PDF or XML with… |
+| 2026-11-27 19:08:17 | [dev.cotlet/kennelconnection](https://github.com/cotlet-connect/kennelconnection-mcp) | Kennel Connection by Cotlet | 1.0.0 | Kennel Connection MCP server and API: vaccine reports, packages, report cards,… |
+| 2026-11-27 19:08:50 | [com.humantaste/humantaste](https://github.com/humantaste-com/humantaste) | HumanTaste | 0.2.0 | Ask a verified human to rate your work or pick the better of two: text, image,… |
+| 2026-11-27 19:13:18 | [dev.cotlet/groomerio](https://github.com/cotlet-connect/groomerio-mcp) | Groomer.io by Cotlet | 1.0.0 | Groomer.io MCP server and API: overdue clients, online requests, no-shows, comm… |
+| 2026-11-27 19:14:51 | net.cervel/escrituracion | Escrituración · Claudio Cerón, abogado | 0.1.0 | Home purchase closing costs in 10 places of Mexico: transfer tax, public regist… |
+| 2026-11-27 19:15:43 | cz.chatavalanda/chata-valanda | Chata Valanda | 1.0.0 | Availability and prices of Chata Valanda, read-only; booking on the website. |
+| 2026-11-27 19:15:57 | app.pridepilot/pride-pilot | Pride Pilot | 1.0.0 | Sourced, dated LGBTQ+ travel conditions for 227 countries, plus welcoming stays… |
+| 2026-11-27 19:17:59 | io.github.ESAW381/chess-move-finder | Chess Move Finder | 1.0.0 | Stockfish 17.1 chess engine for AI assistants: best moves, FEN checks, legal mo… |
+| 2026-11-27 19:18:11 | [dev.cotlet/petlinx](https://github.com/cotlet-connect/petlinx-mcp) | PetLinx by Cotlet | 1.0.0 | PetLinx MCP server and API: cancellations, mailout lists, lapsed grooms, deposi… |
+| 2026-11-27 19:18:56 | [io.github.levantolabs/levanto](https://github.com/levantolabs/levanto-cli) | Levanto Sage | 1.3.0 | Typed decisions (yes/no, choice, score, order, tags) and field extraction from… |
+| 2026-11-27 19:19:50 | ai.claritysearch/clark | Clark | 1.0.0 | Your to-dos and notes from calls and meetings, saved by Clark for Mac, so your… |
+| 2026-11-27 19:20:20 | [dev.harnsy/hr](https://github.com/harnesy/hr-mcp) | hr.harnsy.dev: AI employees catalog | 0.1.0 | Find AI employees on hr.harnsy.dev and install one in Claude Code, Codex, OpenC… |
+| 2026-11-27 19:20:58 | [com.snready/snready-mcp](https://github.com/jessems/servicenow-certification-questions) | SNReady ServiceNow Certification | 1.0.0 | ServiceNow certification exam blueprints, practice questions and release/delta… |
+| 2026-11-27 19:20:58 | [io.github.sentryrelay/sentryrelay](https://github.com/sentryrelay/sentryrelay) | Sentry Relay | 0.2.1 | Out-of-Band 2FA, OTP, Magic-Link & Cloud KMS TOTP Authenticator Relay for Auton… |
 
 ## Data source
 
