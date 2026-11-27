@@ -1,0 +1,36 @@
+created_at,server,title,version,repository,transports,description
+2026-11-27T13:20:43.60325Z,com.mambabuilt/mcp-sanctions-list-screening,,1.0.0,https://github.com/mambalabsdev/mcp-sanctions-list-screening,,"Screen names against OFAC SDN, OFAC Consolidated, UN, EU, and UK sanctions lists."
+2026-11-27T13:24:23.094532Z,ch.vulnpocalypse/vulnpocalypse,Vulnpocalypse,1.0.0,,streamable-http,"Known vulnerabilities and unsafe settings of Linux servers, with fix commands. Needs an account."
+2026-11-27T13:25:32.78927Z,com.mambabuilt/mcp-hubspot-salesforce-partner-directory,,1.0.0,https://github.com/mambalabsdev/mcp-hubspot-salesforce-partner-directory,,"Search HubSpot and Salesforce partner directories for agencies by keyword, tier, and country."
+2026-11-27T13:27:17.816796Z,ing.openpick/openpick,OpenPick,1.1.0,,streamable-http,"Read-only open source facts: alternatives, repo fact sheets, comparisons and rising boards."
+2026-11-27T13:27:35.348149Z,com.use-vega/vega,Vega,2.1.0,,streamable-http,"Brazilian influencer marketing: campaigns, creators, Pix payments and tax invoices, over OAuth."
+2026-11-27T13:29:56.170426Z,online.acordes/acordes,Acordes.online,1.0.0,,streamable-http,"Acordes de 400.000 canciones en español: buscar, cambiar de tono y capo sin cejilla"
+2026-11-27T13:31:30.364833Z,dev.coinprice/mcp,coinprice.dev,1.0.0,,streamable-http,"Crypto prices, candles, futures and prediction odds. Price lookups work without a key."
+2026-11-27T13:31:35.527756Z,com.iccidnumber/iccid-number-pro,ICCID Number Pro,1.0.0,,streamable-http,ICCID lookup and batch validation for Pro subscribers via authenticated MCP tools.
+2026-11-27T13:34:36.371168Z,io.github.Yigituysgl/sec-financial-analyst-mcp,SEC Financial Analyst,1.0.2,https://github.com/Yigituysgl/sec-financial-analyst-mcp,,Source-cited financial analysis of US public companies from SEC EDGAR filings.
+2026-11-27T13:35:45.705291Z,io.github.GyeongHoKim/gerrit-mcp-server,Gerrit,2.0.1,https://github.com/GyeongHoKim/gerrit-mcp-server,,"Gerrit code review for AI agents: find changes, read diffs, draft comments and publish reviews."
+2026-11-27T13:39:08.879133Z,io.github.mattoddie/emby-mcp,Emby,0.1.0,https://github.com/mattoddie/emby-mcp,,"Search, tag and organise an Emby media library: films, series, collections and playlists"
+2026-11-27T13:41:26.45063Z,com.oylist/oylist,OyList,1.0.0,,streamable-http,"Create, edit, and publish OyList lists, and search for subjects to add as entries."
+2026-11-27T13:42:09.946134Z,io.github.Moezat220/deployontime,,0.1.1,https://github.com/Moezat220/deployontime,,A shared job queue so several coding agents can use one computer without overloading it.
+2026-11-27T13:42:24.429728Z,com.lowcountrytechsolutions/data-tools,"Lowcountry Tech data tools on Apify (independent, not affiliated with Apify)",1.0.0,,streamable-http,"Jobs, App Store, SEO and domain data via Apify's hosted MCP server. Needs your own Apify token."
+2026-11-27T13:43:27.286473Z,io.locarius/tickets,Locarius Tickets,1.0.0,,streamable-http,"Find and buy tickets for concerts, shows, theatre, festivals and live events on Locarius."
+2026-11-27T13:43:52.670317Z,com.melvoridle2guide/guide,Melvor Idle 2 Guide,1.0.0,https://github.com/BenjaminHan123/MelvorIdle2_MCP,streamable-http,"Melvor Idle 2 wiki, calculators, and opt-in player progress comparisons."
+2026-11-27T13:44:01.967102Z,ai.insightjet/insightjet,InsightJet,1.18.0,,streamable-http,"Find UI bugs, verify fixes and run tests on your web app from your AI coding agent."
+2026-11-27T13:46:13.682086Z,cn.yudaai/marketplace,有搭AI 成品集市,1.0.0,,streamable-http,"Ready-to-use Chinese AI deliverables: prompts, workflows, Agent configs and templates, with price."
+2026-11-27T13:47:44.903591Z,com.meetario/meetario,Meetario,1.0.0,,streamable-http,"Manage your Meetario scheduling: bookings, availability, event types and group courses."
+2026-11-27T13:47:45.47718Z,com.meetario/booking,Meetario Booking,1.0.0,,streamable-http,"Book a meeting with any Meetario host: find free slots and request a booking, no login."
+2026-11-27T13:49:58.917653Z,cz.taxorio/mcp,Taxorio,1.0.0,,streamable-http,"Czech invoicing and expenses for freelancers: invoices, receipts, VAT returns, tax deadlines."
+2026-11-27T13:51:17.641838Z,io.github.Nero-Engine/garden-pack,Garden Pack,1.0.0,https://github.com/Nero-Engine/garden-pack-mcp,streamable-http,"Garden job and maintenance quotes, landscaping materials and quotes, UK garden law for gardeners"
+2026-11-27T13:51:40.383591Z,com.spendplane/spendplane,"Spendplane — AI Privacy, Redaction & Cost Routing",1.0.0,,streamable-http,"AI Privacy Firewall: PII/secret leak scanner, hybrid cost estimator & reversible agent redaction."
+2026-11-27T13:53:37.745166Z,com.toogeo/toogeo,Toogeo,1.0.0,,streamable-http,"Manage the local business websites your agency runs: edit drafts, check, publish, read inquiries."
+2026-11-27T13:55:02.285875Z,io.github.frankbongo/thedisclist,TheDiscList Public MCP,1.4.0,,streamable-http,Read-only disc golf flight data and weekly regional ranking comparisons.
+2026-11-27T13:56:31.03843Z,nl.hanno/mortgage-calculator,Hanno mortgage calculator,0.3.1,,streamable-http,"Indicative maximale hypotheek and maandlasten from Hanno, a Dutch mortgage adviser. Not advice."
+2026-11-27T13:57:54.651293Z,com.pdfbankstatementtocsv/statement-parser,Bank Statement Parser & Reconciler,1.0.0,,streamable-http,"Parse bank statement text into transactions, verify balance math, and export CSV, QBO, or OFX."
+2026-11-27T13:58:14.949355Z,com.resumondo/resumondo,Resumondo,1.0.0,,streamable-http,"Build resumes and cover letters from your AI chat, as PDFs in ATS-tested templates."
+2026-11-27T13:58:22.474926Z,de.nordstern42/mcp,Nordstern42 MCP,0.1.0,,streamable-http,"Für Amazon FBA: Marge vor Werbung berechnen, Rabatte prüfen, Produkte und Varianten verwalten."
+2026-11-27T14:01:11.082206Z,io.github.HuangGoodmanAgency/pops4-mcp-catalog,POPS4 Brand Programs MCP,2.1.0,https://github.com/HuangGoodmanAgency/pops4-mcp-catalog,streamable-http,Plan and price what a brand needs made for a launch or event. A person approves every quote. No key.
+2026-11-27T14:04:35.761928Z,com.reliasim/public,ReliaSim,1.1.0,https://github.com/chiaha-ai/reliasim-site,streamable-http,"Production line simulation: find bottlenecks, predict OEE, run buffer and loss/gain tradeoffs."
+2026-11-27T14:04:39.950112Z,com.discreterate/public,DiscreteRate,1.2.0,https://github.com/chiaha-ai/discreterate-site,streamable-http,Discrete rate simulation demos for high-speed and bulk-flow systems; explore the paradigm.
+2026-11-27T14:07:22.163428Z,io.github.zaphook/zaphook-mcp-server,ZapHook,1.0.0,https://github.com/zaphook/zaphook-mcp-server,streamable-http,"WhatsApp Business for AI assistants: inbox, messages, templates, channels and webhooks."
+2026-11-27T14:08:16.695952Z,com.augurfleet/augurfleet,AugurFleet: car rental market intelligence,1.0.0,,streamable-http,"Car rental market intelligence: prices, ranks, deposits, terms and ratings by ACRISS car class."
+2026-11-27T14:10:58.846802Z,cc.supergreen/whatsapp,Supergreen WhatsApp,1.0.0,,streamable-http,"Hosted WhatsApp MCP server for AI agents — read, search, send messages, media, polls, and groups."
