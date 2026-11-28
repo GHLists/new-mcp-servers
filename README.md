@@ -9,27 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 07:21 UTC
+## Latest list — 2026-11-28 08:20 UTC
 
-New MCP servers published between 2026-11-28 06:21 UTC and 2026-11-28 07:21 UTC.
+New MCP servers published between 2026-11-28 07:21 UTC and 2026-11-28 08:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-28T07-21-37-755235Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-28T08-20-07-978349Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-28 06:22:37 | [io.github.blocknine0/geomacro](https://github.com/blocknine0/geomacro) | Geomacro Global Intelligence | 1.0.0 | On-demand geopolitical, macro/FX and critical-minerals intelligence for AI agen… |
-| 2026-11-28 06:23:17 | io.github.missionflavinsa/proxyms | Proxy MS | 1.0.0 | Fair proxy (substitute teacher) arrangements for schools by chat: absences, pro… |
-| 2026-11-28 06:37:48 | [io.github.Aadithya-kl/grokmap](https://github.com/Aadithya-kl/grokmap) | grokmap | 0.3.0 | Shows coding agents which AI-written code nobody on the team understands, and q… |
-| 2026-11-28 06:40:16 | [io.github.YottaMeta/yotta-present](https://github.com/YottaMeta/yotta-present) | YuanCheng (yotta-present) | 0.7.4 | Render agent output into copyable Markdown, tables, cards and SVG (Python 3.8+). |
-| 2026-11-28 06:40:17 | [io.github.YottaMeta/yotta-dev-mcp](https://github.com/YottaMeta/yotta-dev-mcp) | YuanKai (yotta-dev-mcp) | 0.2.10 | Local dev tools over stdio MCP: repo map, impact analysis, verification and rel… |
-| 2026-11-28 06:44:48 | [io.github.wayfarer6/rpa-sandbox](https://github.com/wayfarer6/RPA-SANDBOX-for-AI-Agent) | RPA Sandbox for AI Agent | 0.1.15 | Record and replay VNC workflows with OCR checkpoints and staged Robot Framework… |
-| 2026-11-28 06:58:32 | fr.hoplien/hoplien | Hoplien | 1.0.0 | Free French link shortener: short hoplien.fr links, QR codes and click stats. |
-| 2026-11-28 07:03:35 | com.mysolasta/lighting | Solasta Lighting estimates | 1.0.0 | Price ranges, roofline KML help and dealer quote requests for permanent rooflin… |
-| 2026-11-28 07:04:03 | com.cimtechmanufacturing/manufacturing | Cimtech Manufacturing | 1.1.0 | CNC machining and metal fabrication in Provo, Utah: capabilities and quote requ… |
-| 2026-11-28 07:10:54 | [ai.contextdb/memory](https://github.com/atomsai/contextdb-mcp-plugin) | ContextDB Customer Memory | 0.3.0 | Persistent memory across chats: remember facts, assemble context, and verify be… |
-| 2026-11-28 07:11:48 | [io.github.abhinav-nigam/browser-director](https://github.com/abhinav-nigam/agent-browser) | Browser Director | 0.3.0 | Operate a site, then direct a narrated demo from one MCP server. |
-| 2026-11-28 07:15:07 | [io.github.muranwirebaugh-cmyk/oursmeme](https://github.com/muranwirebaugh-cmyk/ours-mcp) | OursMeme BNB Chain Perpetuals | 1.0.0 | 48-tool BNB Chain perpetual DEX MCP for live Pyth BTC/ETH/XAU quotes and unsign… |
-| 2026-11-28 07:16:08 | [ai.nimblebrain/careers](https://github.com/NimbleBrainInc/mcp-careers) | NimbleBrain Careers | 0.1.3 | Apply to NimbleBrain through your agent: see the open roles and send your resum… |
+| 2026-11-28 07:21:49 | [io.github.ManiraM-1/tarpit-guard](https://github.com/ManiraM-1/tarpit-guard) | tarpit-guard | 0.2.2 | Detects obfuscated "tarpit" code so AI agents stop before burning tokens on it. |
+| 2026-11-28 07:26:28 | [io.github.NavidixStudio/navidix-studio](https://github.com/NavidixStudio/navidix-studio) | Navidix Studio — AI Image, Video, Audio… | 1.0.0 | 470+ AI models via OAuth 2.1 MCP: 4K images, cinematic videos, voiceovers, musi… |
+| 2026-11-28 07:26:34 | [io.github.ludovsim/timbre-mcp](https://github.com/ludovsim/timbre-mcp) | Timbré Postcards | 1.0.0 | Send real printed postcards: photo + message + address, preview, €3.99 payment,… |
+| 2026-11-28 07:29:53 | [io.github.khajapasha003/nextora-mcp](https://github.com/khajapasha003/nextorainsight) | Nextora Insights FinOps & SaaS MCP | 5.1.1 | SaaS pricing across 548+ tools, GitHub repo FinOps audits, verified cloud deals… |
+| 2026-11-28 07:51:55 | com.finditdifferently/tours | Find It Differently | 1.0.2 | Private tours in Copenhagen and Denmark, max 6 guests: list tours, details, boo… |
+| 2026-11-28 07:54:11 | co.envel/design | Envel | 1.0.0 | Set a brand up from its website, then make on-brand decks, posts and banners an… |
+| 2026-11-28 07:58:07 | com.passcustoms/mcp | PassCustoms — US Tariff, HTS & ECCN Com… | 1.0.0 | 2026 US import tariffs (USITC HTS, Sec 301/232, USMCA), BIS ECCN/Schedule B & I… |
+| 2026-11-28 08:02:31 | com.hivearchy.wizard101/wiki | Wizard101 Wiki | 1.0.0 | Read-only Wizard101 wiki: search creatures, spells, quests and zones; boss chea… |
+| 2026-11-28 08:06:21 | ink.zapi/mcp | Zapi | 1.0.0 | One MCP server for Zapi's scraper endpoints: social media, news and Indonesian… |
+| 2026-11-28 08:08:36 | dev.pydantic/model-registry | Pydantic AI Model Registry | 1.0.0 | Choose, search and compare language models for Pydantic AI: prices, benchmarks,… |
+| 2026-11-28 08:09:39 | dev.pydantic/logfire | Pydantic Logfire | 1.0.0 | Query Logfire traces and metrics with SQL, and manage dashboards, alerts and is… |
+| 2026-11-28 08:10:39 | com.proxystacks/relay-mcp | ProxyStacks Relay | 0.1.0 | Live 21-model USD & off-peak rates, coding cost calculator, and CLI config gene… |
+| 2026-11-28 08:13:54 | [io.github.middle-dot-network/mcp](https://github.com/middle-dot-network/mcp) | middle.network: DNS, Email Auth (SPF/DK… | 1.0.0 | 46 read-only DNS, SPF/DKIM/DMARC/DNSBL, WHOIS/RDAP, ASN/BGP, GeoIP, CT logs, SS… |
+| 2026-11-28 08:15:10 | cz.truckshopsimex/eshop | TRUCK SHOP SIMEX | 1.0.0 | Truck parts & accessories shop (Prague, CZ). Příslušenství a díly pro nákladní… |
+| 2026-11-28 08:16:56 | [io.github.stand-out-of-my-sun/diogenes-agent-core-mcp](https://github.com/stand-out-of-my-sun/diogenes-agent-core-mcp) | Diogenes Agent Core Essentials MCP | 1.0.0 | Curated 10-tool high-utility MCP pack: markdown, JSON repair, SQL AST, PII, and… |
 
 ## Data source
 
