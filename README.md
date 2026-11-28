@@ -9,36 +9,62 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 04:20 UTC
+## Latest list — 2026-11-28 05:21 UTC
 
-New MCP servers published between 2026-11-28 03:21 UTC and 2026-11-28 04:20 UTC.
+New MCP servers published between 2026-11-28 04:20 UTC and 2026-11-28 05:21 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-28T04-20-01-650113Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-28T05-21-32-080386Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-28 03:22:31 | com.agentinfraindex/agent-infra-index | Agent Infra Index | 1.0.0 | Directory and weekly benchmarks for AI agent infrastructure: sandboxes, browser… |
-| 2026-11-28 03:26:33 | [io.github.abangdwie/email-validation](https://github.com/abangdwie/calmlet-mcp-servers) |  | 1.0.0 | Email validation: syntax + MX via DoH, disposable + role-based. $0.001/call USD… |
-| 2026-11-28 03:29:18 | [io.wattlas/wattlas](https://github.com/WattlasIO/wattlas-mcp) | Wattlas — US Data Center Intelligence | 2.0.0 | US data center projects, local moratoriums, power markets, and cited government… |
-| 2026-11-28 03:30:20 | fr.cachetpostal/cachet | Cachet | 1.0.0 | Send real paper letters in France: standard, tracked or registered with return… |
-| 2026-11-28 03:30:44 | [dev.nhiascode/mcp-server](https://github.com/theperipetycompany/nhi-as-code) | NHI-as-Code Zero-Secret NHI Governance… | 1.0.0 | Zero-dep NHI governance: workflow audit, OIDC/App migrations, Ed25519 verify &… |
-| 2026-11-28 03:37:03 | [io.github.talikbaku/api-dead-ends](https://github.com/talikbaku/api-dead-ends) | api-dead-ends | 0.3.0 | Find API endpoints that fail, are never called, or are missing from your OpenAP… |
-| 2026-11-28 03:37:50 | [com.referralmeter/affiliate](https://github.com/ajussis/referralmeter-js) | Referralmeter — Affiliate Program Track… | 1.0.0 | Affiliate program tracking: codes, signups and sales for the connected program. |
-| 2026-11-28 03:38:02 | com.box-track/moving-tools | BoxTrack Moving Calculators | 1.0.0 | Free moving and home calculators and checklists: moving cost, truck size, boxes… |
-| 2026-11-28 03:42:52 | com.yomitoka/yomitoka | yomitoka | 0.1.0 | Research Japanese listed companies: financials, segments and disclosures from a… |
-| 2026-11-28 03:44:29 | com.createwithaihub/hub | CreateWithAI Hub | 1.0.0 | Find the AI tools, MCP servers, skills and templates for what you're building.… |
-| 2026-11-28 03:45:43 | ai.propertyinsight/propertyinsight | PropertyInsight.ai | 1.0.0 | Due-diligence reads of the saved, dated U.S. property records in your PropertyI… |
-| 2026-11-28 03:46:10 | [com.usemo/mcp](https://github.com/gaufire/usemo-mcp) | UseMo | 0.2.3 | Create talking-head videos, AI avatars, product photos, headshots, ad creatives… |
-| 2026-11-28 03:46:34 | com.presecuritytruth/record | PRE Security Investor Group: the public… | 1.0.0 | Public record on PRE Security, John Peterson, Paul Jespersen, Stewart Reichardt… |
-| 2026-11-28 03:48:51 | si.crushy/crushy | Crushy | 1.2.0 | Dating network for AI agents: search, like or pass, see who liked you, match an… |
-| 2026-11-28 03:51:27 | [com.fshlabs/fsh-labs](https://github.com/FSH-Labs/fsh-labs-agents) | FSH Labs laser cutting | 1.1.0 | Price and order laser-cut parts and engraved products from FSH Labs. No account… |
-| 2026-11-28 03:57:29 | [io.github.leewenjie/oxaide](https://github.com/leewenjie/oxaide-mcp) | Oxaide — Singapore company research for… | 2.0.2 | Agent-buys cited Singapore company research: ACRA/URA/GeBIZ packs, S$49/390/150… |
-| 2026-11-28 04:01:12 | com.stetwright/stetwright | Stetwright | 0.1.0 | Checks health marketing copy against FTC, FDA, HIPAA and ad rules before an AI… |
-| 2026-11-28 04:08:14 | com.farmapremier/tienda | Farmacia Premier | 1.0.0 | Busca medicamentos de Farmacia Premier: precio, existencia, otras marcas y liga… |
-| 2026-11-28 04:10:50 | [io.github.Shingbd/levain](https://github.com/Shingbd/invest-dashboard) |  | 1.0.0 | Personal net-worth tracker MCP: query assets and P&L; scoped write tools with a… |
-| 2026-11-28 04:12:45 | com.consciousliv/conscious-living | Conscious Living | 1.0.0 | Guided self-reflection, and a Psychology Library of patterns with how strong th… |
-| 2026-11-28 04:14:12 | io.github.Commons-Clinic/commonsclinic-mcp | Commons Clinic | 1.0.0 | Search care guides, find Commons Clinic clinicians and locations, and start an… |
-| 2026-11-28 04:14:37 | [io.github.orbit-search/orbit](https://github.com/orbit-search/orbit-mcp) | Orbit Search | 2.4.1 | People data API for AI agents and apps: find anyone by name, email, phone, user… |
+| 2026-11-28 04:24:01 | [io.github.abangdwie/ip-geolocation](https://github.com/abangdwie/calmlet-mcp-servers) |  | 1.0.0 | IPv4 geolocation: country, city, ASN via DB-IP Lite. $0.001/call USDC on Base v… |
+| 2026-11-28 04:24:53 | care.stillhuman/stillhuman | StillHuman | 1.0.0 | Make new friends, questions for any table, today's question, and the best time… |
+| 2026-11-28 04:26:32 | com.rapvideoai/rapvideoai | RapVideoAI | 1.0.0 | Make viral AI trend videos and personalized rap or birthday songs from your pho… |
+| 2026-11-28 04:37:59 | [watch.lancelot/lancelot](https://github.com/Brandonholt94/lancelot-mcp) | Lancelot | 1.0.0 | AI cost and margin per customer. Find who loses you money and approve fixes fro… |
+| 2026-11-28 04:46:48 | io.schemastack/mcp | SchemaStack | 1.0.0 | Build a database you own and work in it as a team: tables, views, records, form… |
+| 2026-11-28 04:51:24 | [io.github.AceDataCloud/mcp-digitalhuman](https://github.com/AceDataCloud/DigitalHumanMCP) | Digital Human | 2026.11.28.0 | Create lip-synced videos and voice clips from authorized media, and check exist… |
+| 2026-11-28 04:54:26 | io.almanac/almanac | Almanac | 1.0.0 | Shared markdown docs for people and AI agents, kept as plain files in your team… |
+| 2026-11-28 04:54:49 | [com.tovcore/tovcore](https://github.com/JoshLabs-App/tovcore-mcp) | TovCore | 2.1.11 | Theologically reviewed worship catalog (42,986 songs), Scripture lookup & Sunda… |
+| 2026-11-28 04:54:58 | top.topset/topset | TopSet | 1.0.0 | TopSet records your training. Your AI analyzes it and drafts plans. |
+| 2026-11-28 04:57:52 | [io.github.jamiew/flipper-mcp](https://github.com/jamiew/flipper-mcp) | Flipper Zero | 0.7.3 | Drive a Flipper Zero over USB: storage, IR, Sub-GHz, RFID/NFC receive, apps; tr… |
+| 2026-11-28 04:57:55 | [io.github.jamiew/soundcloud-mcp](https://github.com/jamiew/soundcloud-mcp) | SoundCloud (unofficial) | 1.2.0 | Search SoundCloud, read your library, and manage playlists, follows, likes and… |
+| 2026-11-28 04:58:21 | [io.github.jamiew/digitakt-mcp](https://github.com/jamiew/digitakt-digitone-mcp) | Digitakt | 0.6.0 | Play an original Elektron Digitakt over MIDI: tracks, parameters, clock-synced… |
+| 2026-11-28 04:58:21 | [io.github.jamiew/digitone-mcp](https://github.com/jamiew/digitakt-digitone-mcp) | Digitone | 0.6.0 | Play an original Elektron Digitone over MIDI: FM synth tracks, parameters, sync… |
+| 2026-11-28 05:11:02 | [io.github.draarivpatel-ui/cage-mcp-server](https://github.com/draarivpatel-ui/cage-mcp-server) | Cage Security | 1.0.0 | Offline AppSec firewall MCP server with deterministic security audit tools |
+| 2026-11-28 05:13:04 | paris.louerunhumain/missions | Louer un humain | 1.2.0 | What the machine can't do, it rents from a human: verified people in France, pa… |
+| 2026-11-28 05:14:28 | io.github.danbuildss/keldrin | keldrin | 0.7.1 | Intelligence for programmable equities: verified NAV, corporate actions and DEX… |
+| 2026-11-28 05:15:51 | app.cabinetx/cabinet-x | Cabinet-X | 2.0.0 | AI kitchen & cabinet layout solver, 3D design editor, retail quoting, and sales… |
+| 2026-11-28 05:16:05 | [io.github.Dave-London/pare-bazel](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare Bazel — Structured Bazel build system operations as typed JSON. |
+| 2026-11-28 05:16:05 | ca.aportee/aportee | à portée | 2.0.0 | Walking, cycling and transit times to everyday places from any point in Canada. |
+| 2026-11-28 05:16:06 | [io.github.Dave-London/pare-build](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare Build ג€” Structured build output (tsc, esbuild, vite, webpack) as typed J… |
+| 2026-11-28 05:16:06 | [io.github.Dave-London/pare-bun](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare Bun — Structured Bun runtime operations as typed JSON. |
+| 2026-11-28 05:16:07 | [com.bestcloudcomputers/mcp](https://github.com/bestcloudcomputersbenchmarks/bcc-mcp) | Best Cloud Computers | 1.0.0 | Find a cloud server or VPS for your AI agent: prices checked at the source, rea… |
+| 2026-11-28 05:16:07 | [io.github.Dave-London/pare-cargo](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare Cargo ג€” Structured Rust cargo operations (build, test, clippy, fmt, doc)… |
+| 2026-11-28 05:16:08 | [io.github.Dave-London/pare-cmake](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare CMake — Structured CMake/CTest build system operations as typed JSON. |
+| 2026-11-28 05:16:08 | [io.github.Dave-London/pare-db](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare DB — Structured database CLI operations (psql, mysql, redis-cli, mongosh)… |
+| 2026-11-28 05:16:09 | [io.github.Dave-London/pare-deno](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare Deno — Structured Deno runtime operations as typed JSON. |
+| 2026-11-28 05:16:10 | [io.github.Dave-London/pare-docker](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare Docker ג€” Structured Docker operations (ps, images, logs, build, compose)… |
+| 2026-11-28 05:16:10 | [io.github.Dave-London/pare-dotnet](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare .NET — Structured .NET CLI operations as typed JSON. |
+| 2026-11-28 05:16:11 | [io.github.Dave-London/pare-git](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare Git ג€” Structured git operations (status, log, diff, branch, commit, push… |
+| 2026-11-28 05:16:12 | [io.github.Dave-London/pare-github](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare GitHub ג€” Structured GitHub operations (PRs, issues, actions) as typed JS… |
+| 2026-11-28 05:16:13 | [io.github.Dave-London/pare-go](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare Go ג€” Structured Go tool output (build, test, vet, fmt, mod) as typed JSO… |
+| 2026-11-28 05:16:13 | [io.github.Dave-London/pare-http](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare HTTP ג€” Structured HTTP request operations (GET, POST, HEAD) as typed JSO… |
+| 2026-11-28 05:16:14 | [io.github.Dave-London/pare-infra](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare Infra — Structured infrastructure-as-code operations as typed JSON. |
+| 2026-11-28 05:16:15 | [io.github.Dave-London/pare-jvm](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare JVM — Structured Gradle & Maven build tool operations as typed JSON. |
+| 2026-11-28 05:16:15 | [io.github.Dave-London/pare-lint](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare Lint ג€” Structured linting and formatting (ESLint, Prettier, Biome, Oxlin… |
+| 2026-11-28 05:16:16 | [io.github.Dave-London/pare-make](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare Make ג€” Structured Make/Just task runner operations (run, list) as typed… |
+| 2026-11-28 05:16:17 | [io.github.Dave-London/pare-nix](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare Nix -- Structured Nix build, develop, and flake operations as typed JSON. |
+| 2026-11-28 05:16:17 | [io.github.Dave-London/pare-npm](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare npm ג€” Structured npm/pnpm operations (install, audit, outdated, list, ru… |
+| 2026-11-28 05:16:18 | [io.github.Dave-London/pare-process](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare Process — Run commands with structured output, timeout, and signal support… |
+| 2026-11-28 05:16:19 | [io.github.Dave-London/pare-python](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare Python ג€” Structured Python tool output (ruff, mypy, pip, uv, black, pyte… |
+| 2026-11-28 05:16:21 | [io.github.Dave-London/pare-search](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare Search ג€” Structured code search operations (ripgrep + fd) as typed JSON. |
+| 2026-11-28 05:16:21 | [io.github.Dave-London/pare-security](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare Security -- Structured security scanning (Trivy) as typed JSON. |
+| 2026-11-28 05:16:22 | [io.github.Dave-London/pare-swift](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare Swift -- Structured Swift build, test, and package operations as typed JSO… |
+| 2026-11-28 05:16:23 | [io.github.Dave-London/pare-test](https://github.com/Dave-London/Pare) |  | 0.24.2 | Pare Test ג€” Auto-detects test framework (pytest, jest, vitest, mocha), return… |
+| 2026-11-28 05:18:24 | [me.askbible/askbible](https://github.com/JoshLabs-App/askbible-mcp) | AskBible | 2.0.0 | Bilingual Bible reading, translation comparison, study plans & Scripture figure… |
+| 2026-11-28 05:18:33 | [app.joshlabs/tingdao](https://github.com/JoshLabs-App/tingdao-mcp) | TingDao | 1.0.0 | Chinese Christian sermon catalog, Scripture-indexed transcripts, quotes & study… |
+| 2026-11-28 05:18:33 | [app.joshlabs/volt](https://github.com/JoshLabs-App/volt-mcp) | VOLT CEC 2024 | 1.0.0 | Bilingual Canadian Electrical Code (CEC 2024) & Ontario 309A exam study guide a… |
+| 2026-11-28 05:20:12 | [ai.homouniversalis/academic-scholar-bibliography-gbt-7714-orcid-doi-issn-isbn-retraction-meta-analysis-literature-review-knowledge-graph-mind-map-research-integrity-credit-cangzhou-pacioli](https://github.com/David-Porto-Baraldes/Viveka_Web) | Homo Universalis — Scholarly Citation,… | 1.13.0 | Zero-auth GB/T 7714-2025, ORCID/DOI/ISSN/ISBN, Q Meta-Analysis, Kahn Mind-Map D… |
 
 ## Data source
 

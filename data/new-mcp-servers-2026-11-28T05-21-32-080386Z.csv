@@ -1,0 +1,49 @@
+created_at,server,title,version,repository,transports,description
+2026-11-28T04:24:01.648359Z,io.github.abangdwie/ip-geolocation,,1.0.0,https://github.com/abangdwie/calmlet-mcp-servers,streamable-http,"IPv4 geolocation: country, city, ASN via DB-IP Lite. $0.001/call USDC on Base via x402."
+2026-11-28T04:24:53.674538Z,care.stillhuman/stillhuman,StillHuman,1.0.0,,streamable-http,"Make new friends, questions for any table, today's question, and the best time to call home."
+2026-11-28T04:26:32.253234Z,com.rapvideoai/rapvideoai,RapVideoAI,1.0.0,,streamable-http,"Make viral AI trend videos and personalized rap or birthday songs from your photos, in chat."
+2026-11-28T04:37:59.169609Z,watch.lancelot/lancelot,Lancelot,1.0.0,https://github.com/Brandonholt94/lancelot-mcp,streamable-http,AI cost and margin per customer. Find who loses you money and approve fixes from chat.
+2026-11-28T04:46:48.51325Z,io.schemastack/mcp,SchemaStack,1.0.0,,streamable-http,"Build a database you own and work in it as a team: tables, views, records, formulas."
+2026-11-28T04:51:24.574219Z,io.github.AceDataCloud/mcp-digitalhuman,Digital Human,2026.11.28.0,https://github.com/AceDataCloud/DigitalHumanMCP,,"Create lip-synced videos and voice clips from authorized media, and check existing tasks."
+2026-11-28T04:54:26.219902Z,io.almanac/almanac,Almanac,1.0.0,,streamable-http,"Shared markdown docs for people and AI agents, kept as plain files in your team's GitHub repo."
+2026-11-28T04:54:49.144859Z,com.tovcore/tovcore,TovCore,2.1.11,https://github.com/JoshLabs-App/tovcore-mcp,streamable-http,"Theologically reviewed worship catalog (42,986 songs), Scripture lookup & Sunday setlists."
+2026-11-28T04:54:58.587911Z,top.topset/topset,TopSet,1.0.0,,streamable-http,TopSet records your training. Your AI analyzes it and drafts plans.
+2026-11-28T04:57:52.64471Z,io.github.jamiew/flipper-mcp,Flipper Zero,0.7.3,https://github.com/jamiew/flipper-mcp,,"Drive a Flipper Zero over USB: storage, IR, Sub-GHz, RFID/NFC receive, apps; transmit is opt-in"
+2026-11-28T04:57:55.324761Z,io.github.jamiew/soundcloud-mcp,SoundCloud (unofficial),1.2.0,https://github.com/jamiew/soundcloud-mcp,,"Search SoundCloud, read your library, and manage playlists, follows, likes and reposts"
+2026-11-28T04:58:21.241366Z,io.github.jamiew/digitakt-mcp,Digitakt,0.6.0,https://github.com/jamiew/digitakt-digitone-mcp,,"Play an original Elektron Digitakt over MIDI: tracks, parameters, clock-synced patterns"
+2026-11-28T04:58:21.519864Z,io.github.jamiew/digitone-mcp,Digitone,0.6.0,https://github.com/jamiew/digitakt-digitone-mcp,,"Play an original Elektron Digitone over MIDI: FM synth tracks, parameters, synced patterns"
+2026-11-28T05:11:02.503115Z,io.github.draarivpatel-ui/cage-mcp-server,Cage Security,1.0.0,https://github.com/draarivpatel-ui/cage-mcp-server,,Offline AppSec firewall MCP server with deterministic security audit tools
+2026-11-28T05:13:04.516059Z,paris.louerunhumain/missions,Louer un humain,1.2.0,,streamable-http,"What the machine can't do, it rents from a human: verified people in France, paid in escrow."
+2026-11-28T05:14:28.09061Z,io.github.danbuildss/keldrin,keldrin,0.7.1,,streamable-http,"Intelligence for programmable equities: verified NAV, corporate actions and DEX data on Base."
+2026-11-28T05:15:51.257224Z,app.cabinetx/cabinet-x,Cabinet-X,2.0.0,,streamable-http,"AI kitchen & cabinet layout solver, 3D design editor, retail quoting, and sales assistant."
+2026-11-28T05:16:05.494646Z,io.github.Dave-London/pare-bazel,,0.24.2,https://github.com/Dave-London/Pare,,Pare Bazel — Structured Bazel build system operations as typed JSON.
+2026-11-28T05:16:05.53822Z,ca.aportee/aportee,à portée,2.0.0,,streamable-http,"Walking, cycling and transit times to everyday places from any point in Canada."
+2026-11-28T05:16:06.279898Z,io.github.Dave-London/pare-build,,0.24.2,https://github.com/Dave-London/Pare,,"Pare Build ג€” Structured build output (tsc, esbuild, vite, webpack) as typed JSON diagnostics."
+2026-11-28T05:16:06.940101Z,io.github.Dave-London/pare-bun,,0.24.2,https://github.com/Dave-London/Pare,,Pare Bun — Structured Bun runtime operations as typed JSON.
+2026-11-28T05:16:07.180109Z,com.bestcloudcomputers/mcp,Best Cloud Computers,1.0.0,https://github.com/bestcloudcomputersbenchmarks/bcc-mcp,streamable-http,"Find a cloud server or VPS for your AI agent: prices checked at the source, real 24-hour tests."
+2026-11-28T05:16:07.629871Z,io.github.Dave-London/pare-cargo,,0.24.2,https://github.com/Dave-London/Pare,,"Pare Cargo ג€” Structured Rust cargo operations (build, test, clippy, fmt, doc) as typed JSON."
+2026-11-28T05:16:08.295221Z,io.github.Dave-London/pare-cmake,,0.24.2,https://github.com/Dave-London/Pare,,Pare CMake — Structured CMake/CTest build system operations as typed JSON.
+2026-11-28T05:16:08.965917Z,io.github.Dave-London/pare-db,,0.24.2,https://github.com/Dave-London/Pare,,"Pare DB — Structured database CLI operations (psql, mysql, redis-cli, mongosh) as typed JSON."
+2026-11-28T05:16:09.632331Z,io.github.Dave-London/pare-deno,,0.24.2,https://github.com/Dave-London/Pare,,Pare Deno — Structured Deno runtime operations as typed JSON.
+2026-11-28T05:16:10.286305Z,io.github.Dave-London/pare-docker,,0.24.2,https://github.com/Dave-London/Pare,,"Pare Docker ג€” Structured Docker operations (ps, images, logs, build, compose) as typed JSON."
+2026-11-28T05:16:10.998894Z,io.github.Dave-London/pare-dotnet,,0.24.2,https://github.com/Dave-London/Pare,,Pare .NET — Structured .NET CLI operations as typed JSON.
+2026-11-28T05:16:11.692217Z,io.github.Dave-London/pare-git,,0.24.2,https://github.com/Dave-London/Pare,,"Pare Git ג€” Structured git operations (status, log, diff, branch, commit, push) as typed JSON."
+2026-11-28T05:16:12.410192Z,io.github.Dave-London/pare-github,,0.24.2,https://github.com/Dave-London/Pare,,"Pare GitHub ג€” Structured GitHub operations (PRs, issues, actions) as typed JSON."
+2026-11-28T05:16:13.081789Z,io.github.Dave-London/pare-go,,0.24.2,https://github.com/Dave-London/Pare,,"Pare Go ג€” Structured Go tool output (build, test, vet, fmt, mod) as typed JSON diagnostics."
+2026-11-28T05:16:13.846269Z,io.github.Dave-London/pare-http,,0.24.2,https://github.com/Dave-London/Pare,,"Pare HTTP ג€” Structured HTTP request operations (GET, POST, HEAD) as typed JSON."
+2026-11-28T05:16:14.525909Z,io.github.Dave-London/pare-infra,,0.24.2,https://github.com/Dave-London/Pare,,Pare Infra — Structured infrastructure-as-code operations as typed JSON.
+2026-11-28T05:16:15.191784Z,io.github.Dave-London/pare-jvm,,0.24.2,https://github.com/Dave-London/Pare,,Pare JVM — Structured Gradle & Maven build tool operations as typed JSON.
+2026-11-28T05:16:15.901182Z,io.github.Dave-London/pare-lint,,0.24.2,https://github.com/Dave-London/Pare,,"Pare Lint ג€” Structured linting and formatting (ESLint, Prettier, Biome, Oxlint) as typed JSON."
+2026-11-28T05:16:16.552967Z,io.github.Dave-London/pare-make,,0.24.2,https://github.com/Dave-London/Pare,,"Pare Make ג€” Structured Make/Just task runner operations (run, list) as typed JSON."
+2026-11-28T05:16:17.239849Z,io.github.Dave-London/pare-nix,,0.24.2,https://github.com/Dave-London/Pare,,"Pare Nix -- Structured Nix build, develop, and flake operations as typed JSON."
+2026-11-28T05:16:17.902428Z,io.github.Dave-London/pare-npm,,0.24.2,https://github.com/Dave-London/Pare,,"Pare npm ג€” Structured npm/pnpm operations (install, audit, outdated, list, run) as typed JSON."
+2026-11-28T05:16:18.577832Z,io.github.Dave-London/pare-process,,0.24.2,https://github.com/Dave-London/Pare,,"Pare Process — Run commands with structured output, timeout, and signal support as typed JSON."
+2026-11-28T05:16:19.23425Z,io.github.Dave-London/pare-python,,0.24.2,https://github.com/Dave-London/Pare,,"Pare Python ג€” Structured Python tool output (ruff, mypy, pip, uv, black, pytest) as typed JSON."
+2026-11-28T05:16:21.11793Z,io.github.Dave-London/pare-search,,0.24.2,https://github.com/Dave-London/Pare,,Pare Search ג€” Structured code search operations (ripgrep + fd) as typed JSON.
+2026-11-28T05:16:21.789372Z,io.github.Dave-London/pare-security,,0.24.2,https://github.com/Dave-London/Pare,,Pare Security -- Structured security scanning (Trivy) as typed JSON.
+2026-11-28T05:16:22.464079Z,io.github.Dave-London/pare-swift,,0.24.2,https://github.com/Dave-London/Pare,,"Pare Swift -- Structured Swift build, test, and package operations as typed JSON."
+2026-11-28T05:16:23.12106Z,io.github.Dave-London/pare-test,,0.24.2,https://github.com/Dave-London/Pare,,"Pare Test ג€” Auto-detects test framework (pytest, jest, vitest, mocha), returns typed JSON."
+2026-11-28T05:18:24.809003Z,me.askbible/askbible,AskBible,2.0.0,https://github.com/JoshLabs-App/askbible-mcp,streamable-http,"Bilingual Bible reading, translation comparison, study plans & Scripture figures via Remote MCP."
+2026-11-28T05:18:33.393218Z,app.joshlabs/tingdao,TingDao,1.0.0,https://github.com/JoshLabs-App/tingdao-mcp,streamable-http,"Chinese Christian sermon catalog, Scripture-indexed transcripts, quotes & study notes via MCP."
+2026-11-28T05:18:33.780734Z,app.joshlabs/volt,VOLT CEC 2024,1.0.0,https://github.com/JoshLabs-App/volt-mcp,streamable-http,"Bilingual Canadian Electrical Code (CEC 2024) & Ontario 309A exam study guide across 1,946 lessons."
+2026-11-28T05:20:12.764256Z,ai.homouniversalis/academic-scholar-bibliography-gbt-7714-orcid-doi-issn-isbn-retraction-meta-analysis-literature-review-knowledge-graph-mind-map-research-integrity-credit-cangzhou-pacioli,"Homo Universalis — Scholarly Citation, GB/T 7714, Meta-Analysis & Knowledge-Graph MCP",1.13.0,https://github.com/David-Porto-Baraldes/Viveka_Web,streamable-http,"Zero-auth GB/T 7714-2025, ORCID/DOI/ISSN/ISBN, Q Meta-Analysis, Kahn Mind-Map DAG & Vault Guard."
