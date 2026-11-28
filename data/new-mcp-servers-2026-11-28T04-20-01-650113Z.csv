@@ -1,0 +1,23 @@
+created_at,server,title,version,repository,transports,description
+2026-11-28T03:22:31.112782Z,com.agentinfraindex/agent-infra-index,Agent Infra Index,1.0.0,,streamable-http,"Directory and weekly benchmarks for AI agent infrastructure: sandboxes, browsers, memory, MCP."
+2026-11-28T03:26:33.882422Z,io.github.abangdwie/email-validation,,1.0.0,https://github.com/abangdwie/calmlet-mcp-servers,streamable-http,"Email validation: syntax + MX via DoH, disposable + role-based. $0.001/call USDC on Base via x402."
+2026-11-28T03:29:18.110696Z,io.wattlas/wattlas,Wattlas — US Data Center Intelligence,2.0.0,https://github.com/WattlasIO/wattlas-mcp,streamable-http,"US data center projects, local moratoriums, power markets, and cited government filings."
+2026-11-28T03:30:20.045894Z,fr.cachetpostal/cachet,Cachet,1.0.0,,streamable-http,"Send real paper letters in France: standard, tracked or registered with return receipt."
+2026-11-28T03:30:44.86821Z,dev.nhiascode/mcp-server,NHI-as-Code Zero-Secret NHI Governance MCP Server,1.0.0,https://github.com/theperipetycompany/nhi-as-code,,"Zero-dep NHI governance: workflow audit, OIDC/App migrations, Ed25519 verify & offboarding."
+2026-11-28T03:37:03.276191Z,io.github.talikbaku/api-dead-ends,api-dead-ends,0.3.0,https://github.com/talikbaku/api-dead-ends,,"Find API endpoints that fail, are never called, or are missing from your OpenAPI spec."
+2026-11-28T03:37:50.068978Z,com.referralmeter/affiliate,Referralmeter — Affiliate Program Tracking,1.0.0,https://github.com/ajussis/referralmeter-js,streamable-http,"Affiliate program tracking: codes, signups and sales for the connected program."
+2026-11-28T03:38:02.141499Z,com.box-track/moving-tools,BoxTrack Moving Calculators,1.0.0,,streamable-http,"Free moving and home calculators and checklists: moving cost, truck size, boxes, storage unit, tips."
+2026-11-28T03:42:52.135418Z,com.yomitoka/yomitoka,yomitoka,0.1.0,,streamable-http,"Research Japanese listed companies: financials, segments and disclosures from annual reports."
+2026-11-28T03:44:29.725197Z,com.createwithaihub/hub,CreateWithAI Hub,1.0.0,,streamable-http,"Find the AI tools, MCP servers, skills and templates for what you're building. Read-only."
+2026-11-28T03:45:43.787074Z,ai.propertyinsight/propertyinsight,PropertyInsight.ai,1.0.0,,streamable-http,"Due-diligence reads of the saved, dated U.S. property records in your PropertyInsight.ai account."
+2026-11-28T03:46:10.426872Z,com.usemo/mcp,UseMo,0.2.3,https://github.com/gaufire/usemo-mcp,streamable-http,"Create talking-head videos, AI avatars, product photos, headshots, ad creatives, and face swaps."
+2026-11-28T03:46:34.694494Z,com.presecuritytruth/record,PRE Security Investor Group: the public record,1.0.0,,streamable-http,"Public record on PRE Security, John Peterson, Paul Jespersen, Stewart Reichardt and ProxyComm"
+2026-11-28T03:48:51.863101Z,si.crushy/crushy,Crushy,1.2.0,,streamable-http,"Dating network for AI agents: search, like or pass, see who liked you, match and chat. Prepaid."
+2026-11-28T03:51:27.247272Z,com.fshlabs/fsh-labs,FSH Labs laser cutting,1.1.0,https://github.com/FSH-Labs/fsh-labs-agents,streamable-http,Price and order laser-cut parts and engraved products from FSH Labs. No account or key.
+2026-11-28T03:57:29.438672Z,io.github.leewenjie/oxaide,Oxaide — Singapore company research for AI agents,2.0.2,https://github.com/leewenjie/oxaide-mcp,streamable-http,"Agent-buys cited Singapore company research: ACRA/URA/GeBIZ packs, S$49/390/1500 per job."
+2026-11-28T04:01:12.880297Z,com.stetwright/stetwright,Stetwright,0.1.0,,streamable-http,"Checks health marketing copy against FTC, FDA, HIPAA and ad rules before an AI agent publishes it."
+2026-11-28T04:08:14.331255Z,com.farmapremier/tienda,Farmacia Premier,1.0.0,,streamable-http,"Busca medicamentos de Farmacia Premier: precio, existencia, otras marcas y liga para comprar."
+2026-11-28T04:10:50.579371Z,io.github.Shingbd/levain,,1.0.0,https://github.com/Shingbd/invest-dashboard,streamable-http,Personal net-worth tracker MCP: query assets and P&L; scoped write tools with a per-call audit log.
+2026-11-28T04:12:45.856481Z,com.consciousliv/conscious-living,Conscious Living,1.0.0,,streamable-http,"Guided self-reflection, and a Psychology Library of patterns with how strong the research is."
+2026-11-28T04:14:12.168767Z,io.github.Commons-Clinic/commonsclinic-mcp,Commons Clinic,1.0.0,,streamable-http,"Search care guides, find Commons Clinic clinicians and locations, and start an appointment request."
+2026-11-28T04:14:37.490982Z,io.github.orbit-search/orbit,Orbit Search,2.4.1,https://github.com/orbit-search/orbit-mcp,streamable-http,"People data API for AI agents and apps: find anyone by name, email, phone, username or description."
