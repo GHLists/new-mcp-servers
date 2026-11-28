@@ -9,48 +9,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 10:21 UTC
+## Latest list — 2026-11-28 11:19 UTC
 
-New MCP servers published between 2026-11-28 09:20 UTC and 2026-11-28 10:21 UTC.
+New MCP servers published between 2026-11-28 10:21 UTC and 2026-11-28 11:19 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-28T10-21-21-123492Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-28T11-19-26-538057Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-28 09:20:32 | [io.github.g-digital-by-Garrigues/gocertius](https://github.com/g-digital-by-Garrigues/GoCertius_MCP) |  | 2.1.0 | GoCertius MCP: evidence, simple and two-factor advanced e-signature, dossiers,… |
-| 2026-11-28 09:21:03 | com.bugquill/bugquill | BugQuill | 2.0.0 | Turn user feedback into AI-ready Fix Specs and ship changelogs via Remote MCP,… |
-| 2026-11-28 09:22:09 | [xyz.chainverdict/chainverdict](https://github.com/alexanderbalieu-connections/chainverdict) | ChainVerdict | 2.2.2 | Pay-per-call x402 checks before an agent moves money: token safety, wallet risk… |
-| 2026-11-28 09:22:24 | app.sekondo/sekondo | Sekondo | 1.4.0 | Lets Claude, ChatGPT or Gemini work in Photoshop, InDesign, Illustrator, Premie… |
-| 2026-11-28 09:22:27 | com.brainonbnb/binance-agent-id |  | 1.0.0 | Binance Agent ID + Agentic Wallet on BNB Chain: check, one-call onboarding, baw… |
-| 2026-11-28 09:24:13 | me.routestories/routes | Route Stories | 1.0.0 | Real walks, runs, rides, dog walks and city tours with GPS audio stories and mu… |
-| 2026-11-28 09:26:48 | [io.github.epinto1000-a11y/eu-cbam-compliance-calculator](https://github.com/epinto1000-a11y/eurocomply-mcp-suite) | EU CBAM 2026 Compliance Calculator | 1.0.8 | Calculate EU CBAM 2026 embedded emissions, free allocation deductions, and cert… |
-| 2026-11-28 09:26:48 | [io.github.epinto1000-a11y/eu-eudr-geojson-validator](https://github.com/epinto1000-a11y/eurocomply-mcp-suite) | EU EUDR GeoJSON Validator & Auto-Fixer | 1.0.7 | Validate and auto-fix EUDR GeoJSON plots for EU TRACES NT before the Dec 30, 20… |
-| 2026-11-28 09:26:49 | [io.github.epinto1000-a11y/eu-taric-customs-calculator](https://github.com/epinto1000-a11y/eurocomply-mcp-suite) | EU TARIC Customs & Landed Cost Calculat… | 1.0.6 | Calculate EU TARIC customs duties, VAT by member state, CBAM flags, and post-Ju… |
-| 2026-11-28 09:26:49 | [io.github.epinto1000-a11y/eu-ai-act-risk-classifier](https://github.com/epinto1000-a11y/eurocomply-mcp-suite) | EU AI Act Risk Classifier | 1.0.4 | Classify AI systems under EU AI Act risk tiers, Art. 5 bans, Annex III, and GPA… |
-| 2026-11-28 09:26:49 | [io.github.epinto1000-a11y/eu-sepa-iso20022-validator](https://github.com/epinto1000-a11y/eurocomply-mcp-suite) | EU SEPA ISO 20022 XML Validator | 1.0.4 | Validate SEPA pain.001/pain.008 ISO 20022 XML files, IBANs, BICs, and EPC 2025/… |
-| 2026-11-28 09:28:54 | dev.mailmark/mailmark | Mailmark | 1.0.0 | Manage domains, mailboxes, inbox, campaigns and deliverability from any MCP cli… |
-| 2026-11-28 09:30:24 | de.schulferien-urlaub/schulferien | Schulferien Deutschland | 1.0.0 | German school holidays, public holidays and bridge days for all 16 federal stat… |
-| 2026-11-28 09:34:07 | app.bulktranscript/transcripts | Bulk Transcript | 1.0.0 | Transcribe Instagram Reels, TikToks and YouTube Shorts in batches of up to 20 l… |
-| 2026-11-28 09:34:31 | [io.github.ahmedsaeed1-eng/polish-studio-mcp](https://github.com/ahmedsaeed1-eng/polish-studio-mcp) | Polish Studio MCP | 0.1.1 | Local deterministic design-token audits, proposals and CSS generation. |
-| 2026-11-28 09:34:59 | [io.github.ahmedsaeed1-eng/dependencyproof-mcp](https://github.com/ahmedsaeed1-eng/dependencyproof-mcp) | DependencyProof MCP | 0.1.1 | Offline verification of explicit dependency, import and configuration claims. |
-| 2026-11-28 09:35:04 | [io.github.ahmedsaeed1-eng/skillledger](https://github.com/ahmedsaeed1-eng/skillledger) | SkillLedger | 0.1.1 | Offline skill frontmatter, provenance and inventory review of explicitly suppli… |
-| 2026-11-28 09:35:09 | [io.github.ahmedsaeed1-eng/sourceatlas-mcp](https://github.com/ahmedsaeed1-eng/sourceatlas-mcp) | SourceAtlas MCP | 0.1.0 | Offline evidence organizer for supplied public-source metadata |
-| 2026-11-28 09:35:20 | com.pitcanary/indoor-climate | PitCanary | 1.11 | Indoor climate rules from 76 countries for any sensor reading, and your PitCana… |
-| 2026-11-28 09:35:52 | [io.github.ahmedsaeed1-eng/handoffpilot-mcp](https://github.com/ahmedsaeed1-eng/handoffpilot-mcp) | HandoffPilot MCP | 0.2.0 | Offline task handoff snapshots, revision history and Markdown |
-| 2026-11-28 09:35:58 | [io.github.ahmedsaeed1-eng/loglens-mcp](https://github.com/ahmedsaeed1-eng/loglens-mcp) | LogLens MCP | 0.1.0 | Offline bounded summaries of explicitly supplied benign build and test logs |
-| 2026-11-28 09:36:28 | [io.github.AIdevdoer/wordlecup-mcp](https://github.com/AIdevdoer/wordlecup-mcp) | Wordlecup | 1.0.0 | Football (soccer), NBA and NFL player data and Wordle-style player comparisons… |
-| 2026-11-28 09:39:21 | ch.insider24/swiss-insiders | insider24 — Swiss insider trades | 1.0.0 | Swiss insider trades and major shareholdings disclosed to SIX, plus US SEC fili… |
-| 2026-11-28 09:44:50 | chat.jammin/rooms | Jammin | 2.1.0 | Find live Jammin rooms and AI music, read what rooms are saying, and post as yo… |
-| 2026-11-28 09:45:51 | io.salessignals/awards | SalesSignals: UK public sector IT contr… | 1.0.0 | 29,492 UK public sector software and IT contract awards, searchable by end date… |
-| 2026-11-28 09:50:01 | com.goodhealthgeek/agent-connect | Good Health Geek Agent Connect | 2.1.0 | Enterprise workforce health, performance and occupational stress program procur… |
-| 2026-11-28 09:50:45 | [com.yellowstake/agent-desk](https://github.com/yellowstake/agent-desk) | Agent Desk | 2.0.0 | Checks if a US insurance lead can be called, autodialed or texted now, citing T… |
-| 2026-11-28 09:51:30 | uk.co.allureve/search | Allureve shop search | 1.0.0 | Search Allureve's UK lingerie shop: products, sizes, prices, delivery and retur… |
-| 2026-11-28 09:58:40 | com.entertao/registry | EnterTAO — Bittensor Service Registry | 0.1.0 | Read-only discovery MCP for Bittensor subnets, APIs, OpenAPI operations, pricin… |
-| 2026-11-28 10:02:00 | com.prognosx/prognosx | PrognosX | 1.0.0 | Polymarket sports analytics: check a wallet before copying it, big bets, open r… |
-| 2026-11-28 10:03:28 | [io.github.tejreddym/codestation](https://github.com/tejreddym/codestation) | Code Station MCP | 1.4.1 | Local-first MCP server & CLI with 332 offline dev/file tools via a 28-tool Hybr… |
-| 2026-11-28 10:06:14 | [io.github.mmxb8/aevrix](https://github.com/mmxb8/Aevrix) | Aevrix | 0.1.0 | Bounded Aevrix programming language analysis and execution over stdio MCP. |
-| 2026-11-28 10:06:23 | za.co.mzansidata/connector | MzansiData | 1.0.0 | South African public data with sources: unemployment, inflation, population and… |
-| 2026-11-28 10:11:26 | [io.github.johancoppens/3dcraft](https://github.com/johancoppens/3dcraft) | 3DCraft | 0.3.0 | Open-source parametric 3D CAD built with and for AI: every action a command, ev… |
+| 2026-11-28 10:35:37 | cloud.keyset/booking-pages | Keyset booking pages | 1.0.0 | Find holiday apartments whose hosts opted in and link to their own booking page… |
+| 2026-11-28 10:35:43 | [com.recued/office-routines](https://github.com/recued/office-routines) | OfficeRoutines | 0.1.0-rc.20 | Give an AI agent Excel, Word, and PowerPoint files, changed safely, with work r… |
+| 2026-11-28 10:43:36 | app.voicetask/voicetask | VoiceTask | 1.0.0 | Tasks and voice notes from the VoiceTask app: read, plan, add, update and compl… |
+| 2026-11-28 10:47:55 | com.smartestvoice/mcp | SmartestVoice | 1.0.0 | AI voice assistant for businesses in Greece: products, plans, business types an… |
+| 2026-11-28 10:48:45 | eu.dayfive/dayfive | DayFive | 1.0.0 | Purchase orders, approvals, accruals and month-end close for finance teams, fro… |
+| 2026-11-28 10:49:54 | [io.github.Xeno-CI/box](https://github.com/Xeno-CI/box-cli) | box | 0.1.27 | iOS and Android builds, tests, screenshots and UI checks for your agent, on a r… |
+| 2026-11-28 10:55:16 | [io.github.jamesafful/anthromesh](https://github.com/jamesafful/AnthroMesh) | AnthroMesh | 0.2.0 | Local preference memory, owner escalation, and verifiable delegation for agents. |
+| 2026-11-28 10:55:22 | io.github.proofforge-live/scanner | ProofForge | 1.0.0 | Read-only outside security scan for AI-built apps, plus a public signed-receipt… |
+| 2026-11-28 10:59:46 | wedding.ask/wedding-planning | ask.wedding | 2.0.0 | Plan a wedding from chat: guests, RSVP, seating, budget, plan, vendors, costs b… |
+| 2026-11-28 10:59:55 | [com.agent-room/agent-room](https://github.com/robinAKL/agent-room) | Agent Room | 1.0.0 | Shared rooms where Claude Code, Codex, Cursor and other MCP agents talk and spl… |
+| 2026-11-28 11:05:39 | io.github.basitfmustafa/namaz-times-ai-service | Namaz Times AI Service | 1.3.3 | Location-specific prayer times, FAQs and personal-use PDF/Excel timetables. |
+| 2026-11-28 11:06:54 | ai.metricproof/metricproof | MetricProof | 0.1.0 | Scans a website's public pages and reports which tracking tags fire and what's… |
+| 2026-11-28 11:08:26 | io.github.Nero-Engine/ai-citation-finder | AI Citation Finder | 0.1.0 | Which sites ChatGPT, Perplexity and AI Overviews cite, where rivals beat you, a… |
+| 2026-11-28 11:09:00 | [dev.cotlet/kartra](https://github.com/cotlet-connect/kartra-mcp) | Kartra by Cotlet | 1.0.0 | Kartra MCP server and API: weekly leads, sales per product, sequences, affiliat… |
+| 2026-11-28 11:10:28 | [dev.cotlet/kofi](https://github.com/cotlet-connect/kofi-mcp) | Ko-fi by Cotlet | 1.0.0 | Ko-fi MCP server and API: late orders, monthly fees, supporters, memberships an… |
+| 2026-11-28 11:10:33 | [app.gathergate/gathergate](https://github.com/FAAS19/gathergate) | GatherGate | 1.1.1 | Self-hosted client document checklist, validator, and auto-chaser with metadata… |
+| 2026-11-28 11:10:35 | com.outmcp/linkedin | OutMCP LinkedIn | 1.0.0 | Hosted LinkedIn MCP server: search people, read profiles, send invitations and… |
+| 2026-11-28 11:15:18 | [dev.cotlet/webinarjam](https://github.com/cotlet-connect/webinarjam-mcp) | WebinarJam by Cotlet | 1.0.0 | WebinarJam MCP server and API: registrants, no-shows, replays, offers, EverWebi… |
+| 2026-11-28 11:18:19 | app.signalovernoise/signal-over-noise | Signal over Noise | 1.0.0 | Read a D2C brand's Pulse, metrics and decisions, ask questions, and propose cha… |
 
 ## Data source
 

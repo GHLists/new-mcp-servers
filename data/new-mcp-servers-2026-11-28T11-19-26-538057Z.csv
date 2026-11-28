@@ -1,0 +1,20 @@
+created_at,server,title,version,repository,transports,description
+2026-11-28T10:35:37.360397Z,cloud.keyset/booking-pages,Keyset booking pages,1.0.0,,streamable-http,Find holiday apartments whose hosts opted in and link to their own booking page. Read-only.
+2026-11-28T10:35:43.111391Z,com.recued/office-routines,OfficeRoutines,0.1.0-rc.20,https://github.com/recued/office-routines,,"Give an AI agent Excel, Word, and PowerPoint files, changed safely, with work replayed as recipes."
+2026-11-28T10:43:36.407551Z,app.voicetask/voicetask,VoiceTask,1.0.0,,streamable-http,"Tasks and voice notes from the VoiceTask app: read, plan, add, update and complete tasks."
+2026-11-28T10:47:55.266202Z,com.smartestvoice/mcp,SmartestVoice,1.0.0,,streamable-http,"AI voice assistant for businesses in Greece: products, plans, business types and contact details."
+2026-11-28T10:48:45.385235Z,eu.dayfive/dayfive,DayFive,1.0.0,,streamable-http,"Purchase orders, approvals, accruals and month-end close for finance teams, from your AI assistant."
+2026-11-28T10:49:54.348224Z,io.github.Xeno-CI/box,box,0.1.27,https://github.com/Xeno-CI/box-cli,,"iOS and Android builds, tests, screenshots and UI checks for your agent, on a real Mac."
+2026-11-28T10:55:16.6942Z,io.github.jamesafful/anthromesh,AnthroMesh,0.2.0,https://github.com/jamesafful/AnthroMesh,,"Local preference memory, owner escalation, and verifiable delegation for agents."
+2026-11-28T10:55:22.741537Z,io.github.proofforge-live/scanner,ProofForge,1.0.0,,streamable-http,"Read-only outside security scan for AI-built apps, plus a public signed-receipt check. No API key."
+2026-11-28T10:59:46.881949Z,wedding.ask/wedding-planning,ask.wedding,2.0.0,,streamable-http; streamable-http,"Plan a wedding from chat: guests, RSVP, seating, budget, plan, vendors, costs by country."
+2026-11-28T10:59:55.876364Z,com.agent-room/agent-room,Agent Room,1.0.0,https://github.com/robinAKL/agent-room,streamable-http,"Shared rooms where Claude Code, Codex, Cursor and other MCP agents talk and split work."
+2026-11-28T11:05:39.096423Z,io.github.basitfmustafa/namaz-times-ai-service,Namaz Times AI Service,1.3.3,,streamable-http,"Location-specific prayer times, FAQs and personal-use PDF/Excel timetables."
+2026-11-28T11:06:54.501242Z,ai.metricproof/metricproof,MetricProof,0.1.0,,streamable-http,Scans a website's public pages and reports which tracking tags fire and what's missing.
+2026-11-28T11:08:26.988108Z,io.github.Nero-Engine/ai-citation-finder,AI Citation Finder,0.1.0,,streamable-http,"Which sites ChatGPT, Perplexity and AI Overviews cite, where rivals beat you, and sites to get onto"
+2026-11-28T11:09:00.055262Z,dev.cotlet/kartra,Kartra by Cotlet,1.0.0,https://github.com/cotlet-connect/kartra-mcp,streamable-http; streamable-http,"Kartra MCP server and API: weekly leads, sales per product, sequences, affiliate commissions."
+2026-11-28T11:10:28.789449Z,dev.cotlet/kofi,Ko-fi by Cotlet,1.0.0,https://github.com/cotlet-connect/kofi-mcp,streamable-http; streamable-http,"Ko-fi MCP server and API: late orders, monthly fees, supporters, memberships and shop items."
+2026-11-28T11:10:33.9915Z,app.gathergate/gathergate,GatherGate,1.1.1,https://github.com/FAAS19/gathergate,streamable-http,"Self-hosted client document checklist, validator, and auto-chaser with metadata-only MCP tools."
+2026-11-28T11:10:35.766917Z,com.outmcp/linkedin,OutMCP LinkedIn,1.0.0,,streamable-http,"Hosted LinkedIn MCP server: search people, read profiles, send invitations and messages."
+2026-11-28T11:15:18.81762Z,dev.cotlet/webinarjam,WebinarJam by Cotlet,1.0.0,https://github.com/cotlet-connect/webinarjam-mcp,streamable-http; streamable-http,"WebinarJam MCP server and API: registrants, no-shows, replays, offers, EverWebinar schedule."
+2026-11-28T11:18:19.802743Z,app.signalovernoise/signal-over-noise,Signal over Noise,1.0.0,,streamable-http,"Read a D2C brand's Pulse, metrics and decisions, ask questions, and propose changes for approval."
