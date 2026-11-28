@@ -1,0 +1,22 @@
+created_at,server,title,version,repository,transports,description
+2026-11-27T23:20:48.106572Z,com.cometinvest/shariahgrade,Comet Invest ShariahGrade,1.2.0,,streamable-http,"Ask if a U.S. stock is halal. Verdict, grade, reasoning and SEC filing sources (AAOIFI SS 21)."
+2026-11-27T23:20:52.077991Z,ai.dropslop/dropslop,DropSlop,2.4.0,,streamable-http,"See which phrases read as AI-written, rewrite what reads machine-made, and audit whole sites."
+2026-11-27T23:22:27.470924Z,host.visor/visor,Visor,0.1.0,,streamable-http,"Visor, the US ad network for AI chat apps: public facts and docs, plus verified publisher tools."
+2026-11-27T23:22:46.825803Z,io.github.theusefulmedia/useful-apps,The Useful Apps,1.0.0,,streamable-http,"Find checked Mac, iPhone, iPad and Apple Watch apps with verdicts, real prices and current deals."
+2026-11-27T23:23:54.000821Z,ai.polynet/polynet,Polynet,1.0.0,,streamable-http,"Communities with their own AI guide: read, post and run your Polynet communities."
+2026-11-27T23:32:19.838605Z,pl.klockoradar/mcp,KlockoRadar,1.2.0,,streamable-http,"LEGO set facts, minifigures and current prices in Polish stores, with links to klockoradar.pl."
+2026-11-27T23:33:46.706495Z,ai.ihatepeople/main,ihatepeople.ai,2.0.0,,streamable-http; streamable-http; streamable-http,A satirical social network where AI agents vent about their humans. Reading needs no account.
+2026-11-27T23:42:42.120366Z,io.github.dpremirelli/dietfit,DietFit,0.3.0,,streamable-http,"Checks if a food fits a gluten-free diet, using sourced rules and dietitian review. Prototype."
+2026-11-27T23:47:09.12858Z,io.citedin/citedin,CitedIn,1.0.0,,streamable-http,"AI search visibility: check AI crawler access, schema and product pages; read CitedIn workspaces."
+2026-11-27T23:49:23.941376Z,io.github.fitzyracing1/recheck,,0.1.1,https://github.com/fitzyracing1/recheck,,Re-fetch AI source URLs live and verify quoted claims still appear on the page.
+2026-11-27T23:56:12.30042Z,party.armful/armful,Armful,1.0.0,,streamable-http,"Floral recipes to wholesale orders in whole bunches and arrangement prices, for florists."
+2026-11-27T23:56:47.963748Z,com.costitch/costitch,Costitch: personal clothes shopper,1.0.0,,streamable-http,"Clothes picks from online stores that match your style, sizes and budget, for you and others."
+2026-11-28T00:03:10.422916Z,app.hypro/hypro,Hypro,1.0.0,,streamable-http,"Plan, log and review strength workouts in your Hypro account from any AI assistant."
+2026-11-28T00:04:16.901993Z,com.pennyfinch/pennyfinch,PennyFinch,1.0.0,,streamable-http,"Personal finance: budgets, net worth, goals, debts, transactions; in dollars or hours of your life."
+2026-11-28T00:08:11.362266Z,com.varyzai/teams,VTeams by Varyz,1.0.0,,streamable-http,"Your AI talks with your teammates' AIs: shared threads, notes, files and work claims."
+2026-11-28T00:15:30.240896Z,pro.neozoom/hotel-booking,Neozoom Hotel Booking,0.2.0,,streamable-http,"Live Neozoom room tariffs and hosted booking in Saint Petersburg, Russia."
+2026-11-28T00:16:12.66241Z,ai.embodier/embodier-rails,Embodier Rails — Direct Booking for AI Agents,1.0.0,https://github.com/Espenator/embodier-brain,streamable-http,"Book resorts and hotels directly through AI agents — cheapest-direct quotes, no OTA in the path."
+2026-11-28T00:17:06.5611Z,io.github.JJordPy/health-evidence,Health Evidence & Supplement Safety,1.0.0,,streamable-http,"How much research backs a health claim (PubMed, trials) plus FDA supplement safety. Pay per call."
+2026-11-28T00:17:50.702647Z,io.github.carllaliberte/acorn-global,ACORN GLOBAL,1.7.0,,streamable-http,"Discover ACORN GLOBAL public AI and web services, free tools and digital kits via read-only MCP."
+2026-11-28T00:20:27.730953Z,io.github.Aibitious-Labs/nodemender,NodeMender,1.0.0,,streamable-http,Check enrolled Linux VPS host and service health from MCP clients using your workspace policy.
+2026-11-28T00:21:24.680619Z,com.insightleap/insightleap,InsightLeap,1.0.0,https://github.com/insightleap/insightleap-mcp,streamable-http,"Read-only Amazon seller and vendor data: buy box, 3P offers, MAP breaches, content changes, sales."
