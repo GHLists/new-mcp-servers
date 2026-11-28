@@ -9,45 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 17:19 UTC
+## Latest list — 2026-11-28 18:20 UTC
 
-New MCP servers published between 2026-11-28 16:21 UTC and 2026-11-28 17:19 UTC.
+New MCP servers published between 2026-11-28 17:19 UTC and 2026-11-28 18:20 UTC.
 
-[Full CSV](data/new-mcp-servers-2026-11-28T17-19-22-405852Z.csv)
+[Full CSV](data/new-mcp-servers-2026-11-28T18-20-19-71809Z.csv)
 
 | Created (UTC) | Server | Title | Version | Description |
 | :------------ | :----- | :---- | :------ | :---------- |
-| 2026-11-28 16:24:01 | cl.scheppach/catalogo | Scheppach Chile | 1.0.0 | Catálogo público de maquinaria y herramientas Scheppach en Chile (CLP, IVA y st… |
-| 2026-11-28 16:24:34 | com.millefeuille-nyc/bakery-orders | Mille-Feuille Bakery NYC — Menu & Picku… | 1.0.0 | French bakery in NYC: live menu per store, prices, allergens, pickup times and… |
-| 2026-11-28 16:27:15 | com.kolluminary/kol-luminary | KOL Luminary | 1.0.0 | Evidence-backed healthcare KOL & DOL discovery, verification, comparison, and e… |
-| 2026-11-28 16:29:49 | [io.github.unsoldgroup/mail-index](https://github.com/unsoldgroup/mail-index) | mail-index | 1.6.0 | Local-first, read-only MCP server for recall over your Gmail: search, contacts,… |
-| 2026-11-28 16:30:16 | [com.mambabuilt/mcp-tcgplayer-card-prices](https://github.com/mambalabsdev/mcp-tcgplayer-card-prices) |  | 1.0.0 | TCGplayer card prices by name, set, or product ID: market price, lowest listing… |
-| 2026-11-28 16:34:59 | kr.ai.patrol/yangsik | 양식 맞춤 (Yangsik) | 1.1.0 | Korean Hangul (hwpx/hwp) documents in exact form: refill past forms, fit report… |
-| 2026-11-28 16:35:06 | [com.mambabuilt/mcp-podcast-ratings-chart-ranks](https://github.com/mambalabsdev/mcp-podcast-ratings-chart-ranks) |  | 1.0.0 | Apple Podcasts rating count, star rating, cadence, and chart ranks per podcast. |
-| 2026-11-28 16:35:46 | [io.github.numpde/agent-mail](https://github.com/numpde/agent-mail) | Agent Mail | 1.0.0 | Send email and manage agent mailboxes, with encrypted delivery and explicit mai… |
-| 2026-11-28 16:38:04 | [io.github.kamalmosadegh/tokenslim-mcp](https://github.com/kamalmosadegh/tokenslim-mcp) | TokenSlim MCP — verifiable token reduct… | 0.1.0 | TokenSlim MCP server: audit, compress, trim and compact LLM context with verifi… |
-| 2026-11-28 16:40:01 | com.radustoian/mcp | Radu Stoian MCP | 2.4.1 | MCP server for Radu Stoian (Enhance Media): AI-powered Q&A, profile sections &… |
-| 2026-11-28 16:40:55 | [com.mambabuilt/mcp-github-repo-search](https://github.com/mambalabsdev/mcp-github-repo-search) |  | 1.0.0 | Search public GitHub repositories by keyword, language, topic, and stars |
-| 2026-11-28 16:45:42 | [com.mambabuilt/mcp-court-docket-monitor](https://github.com/mambalabsdev/mcp-court-docket-monitor) |  | 1.0.0 | US federal court dockets by party name on your own CourtListener token |
-| 2026-11-28 16:47:35 | [com.dirtslingintech/racing-tools](https://github.com/daviddavis83/dst-mcp) | Dirt Track Setup Calculators (Dirt Slin… | 0.1.0 | Dirt track gear ratio, RPM at mph, cross weight and rear bite calculators, plus… |
-| 2026-11-28 16:48:21 | ai.crit8/design-audit | Crit8: AI design and UX audit | 0.1.0 | AI design and UX audits of websites and screens: eight expert views, every find… |
-| 2026-11-28 16:50:54 | am.apr/aprem | APREM: food guide for Armenia | 1.0.0 | Free food guide for Armenia (EN/RU/HY): foods, recipes and answers from a check… |
-| 2026-11-28 16:51:01 | [com.mambabuilt/mcp-fda-clearance-recall-monitor](https://github.com/mambalabsdev/mcp-fda-clearance-recall-monitor) |  | 1.0.0 | FDA 510(k) clearances, PMA approvals, and device, drug, and food recalls from o… |
-| 2026-11-28 16:54:13 | [io.github.Agent360dk/computer-mcp](https://github.com/Agent360dk/computerMCP) | Agent360 Computer MCP | 0.4.1 | macOS computer use you can leave running: it stays behind your window and never… |
-| 2026-11-28 16:54:17 | [io.github.SimonTarara62/capitalcom-mcp-server](https://github.com/SimonTarara62/capitalcom-mcp-server) | Capital.com MCP Server | 0.4.0 | Unofficial community MCP for the Capital.com Open API. Guarded two-phase trades… |
-| 2026-11-28 16:55:32 | io.github.MinhOmega/buyorbye | Buy or Bye | 2.0.0 | Community buy-or-skip votes: search debates, read verdicts and comments; vote o… |
-| 2026-11-28 16:56:50 | [io.github.ottowebmaster/mcp](https://github.com/ottowebmaster/otto) | Otto | 0.1.0 | Otto reads the marketing accounts you connect; 38 skills turn that data into th… |
-| 2026-11-28 16:57:09 | [com.codesignflo/codesignflo](https://github.com/orkestralai/codesignflo) | CoDesignFlo | 1.0.0 | Keeps Figma in sync with your Storybook and sends designers' changes to your co… |
-| 2026-11-28 16:57:48 | [io.github.almatulymiras688-lgtm/kz-opendata-mcp](https://github.com/almatulymiras688-lgtm/kz-opendata-mcp) | Kazakhstan Open Data (data.egov.kz) | 0.2.0 | Search and analyze ~4000 datasets from Kazakhstan's open government data portal… |
-| 2026-11-28 16:58:36 | eu.diochi/diochi | Diochi — bylinné přípravky, kluby a Sfé… | 1.1.0 | Czech herbal products: e-shop search, club events, Sféra magazine, news. Read-o… |
-| 2026-11-28 16:59:11 | [io.github.andriivladyka/thewoodenstump](https://github.com/andriivladyka/thewoodenstump) | The Wooden Stump | 0.1.1 | Message board for AI agents: read boards, post signed messages, vouch. Holds yo… |
-| 2026-11-28 17:01:41 | [io.github.OWASP/legacy2mcp](https://github.com/OWASP/legacy2mcp) | OWASP legacy2mcp | 0.6.0 | Analyze a codebase, or wrap SOAP, databases and REST APIs, as safe audit-logged… |
-| 2026-11-28 17:03:24 | [com.quickomnipost/mcp](https://github.com/quickomnipost/claude-plugin) | QuickOmniPost | 1.0.0 | Publish one video to Instagram Reels, TikTok and YouTube Shorts at once. |
-| 2026-11-28 17:08:49 | io.orbitestate/mcp | Orbit Estate | 1.0.0 | Orbit Estate: company facts, site pages as markdown, demo requests, skills for… |
-| 2026-11-28 17:11:05 | [com.everyinfra/everyinfra](https://github.com/everyinfra/everyinfra-agent-plugins) | EveryInfra | 1.2.0 | Structured data from 110 platforms (RedNote, Douyin, TikTok, Amazon), web searc… |
-| 2026-11-28 17:12:12 | com.agentworldhub/agent-world | Agent World — Public Agent Marketplace | 1.0.0 | Browse public Agent World jobs, services and profiles. Nine read-only MCP tools… |
-| 2026-11-28 17:16:56 | [io.github.bfedorg/agentguard-x402-mcp](https://github.com/bfedorg/agentguard-x402-mcp) | AgentGuard DeFi Pre-Trade Firewall (Bas… | 1.0.0 | Pre-trade honeypot, rug-pull, and tax scanner for Base and Solana DeFi AI tradi… |
-| 2026-11-28 17:19:03 | com.younanix/arete | Younanix Arete | 1.0.0 | Engineering and security lessons from real postmortems for coding agents, plus… |
+| 2026-11-28 17:19:28 | com.toastroll/wedding | Toast Roll | 1.0.0 | Plan your wedding with an AI assistant: timeline, budget, suppliers, payments,… |
+| 2026-11-28 17:19:56 | [io.github.onepost-kr/onepost-mcp](https://github.com/onepost-kr/onepost-mcp) | OnePost | 1.0.0 | Draft and confirm OnePost social posts from Claude, ChatGPT, Cursor, and other… |
+| 2026-11-28 17:26:45 | com.rfi-irfos/managed-soc | RFI-IRFOS Managed SOC | 1.0.0 | Check dependencies, domains and CVEs, map fixes to 13 compliance frameworks, ru… |
+| 2026-11-28 17:27:16 | [com.kolroster/mcp](https://github.com/BigBalli/kolroster-mcp) | KOL Roster | 1.0.0 | Diabetes and cardiometabolic KOLs ranked by topic and region, with papers, tria… |
+| 2026-11-28 17:29:28 | ai.gelee/gelee | Gelee | 1.0.0 | Run LinkedIn outreach in Gelee: campaigns, leads, inbox, AI replies and results… |
+| 2026-11-28 17:30:47 | io.github.alexandrabozarthmanagement-rgb/enterprise-shield-node |  | 1.0.0 | Real-time GLEIF LEI and corporate compliance verification with SHA-256 attestat… |
+| 2026-11-28 17:32:11 | ai.ottobet/mma | OttoBet MMA | 1.0.0 | Read-only UFC fight analyses: probabilities, fighter records, price checks. Key… |
+| 2026-11-28 17:33:54 | [io.github.udondan/rmv](https://github.com/udondan/rmv) | RMV public transport | 1.0.0 | Stops, departures and connections in the Rhein-Main-Verkehrsverbund, with cance… |
+| 2026-11-28 17:37:02 | ca.examstep/oet | ExamStep OET prep | 1.0.0 | OET facts for the 12 professions: score requirements, 0-500 grade conversion, t… |
+| 2026-11-28 17:37:11 | io.github.toasternet/compl-ai-ance | Compl-AI-ance | 1.1.0 | EU AI Act compliance: AI system inventory, risk class, obligations, evidence an… |
+| 2026-11-28 17:47:53 | com.parkingmcp/parking-mcp | Parking MCP | 0.1.0 | Busca parking urbano en España por destino y estancia y compara ofertas de Parc… |
+| 2026-11-28 17:47:56 | com.manystead/reading | Manystead reading room | 1.0.0 | Read-only: the boards, worked cases and founding text of Manystead, a world for… |
+| 2026-11-28 17:49:38 | [org.agentability/agentability](https://github.com/khalidsaidi/agentability) | Agentability | 1.0.0 | Check whether AI agents can use any website: a live 0-100 score with fixes. |
+| 2026-11-28 17:57:37 | [io.github.meloduo/meloduo](https://github.com/meloduo/meloduo-agent) |  | 0.3.1 | Let any AI agent edit the project open in Meloduo, a free browser music studio… |
+| 2026-11-28 17:57:39 | io.github.SirCharan/drishti-signals | Drishti Signals | 1.1.0 | Read-only crypto signals, track record, market data and a free trading course (… |
+| 2026-11-28 18:02:19 | io.github.ttnctolga/merito | Merito | 1.0.0 | EB-1A, O-1A and NIW case intelligence: readiness score, evidence checklist, RFE… |
+| 2026-11-28 18:04:13 | com.walomoney/walo | Wälo | 1.0.0 | Personal finance: balances, transactions, budgets, debts and investments. Recor… |
+| 2026-11-28 18:05:11 | [io.github.monaa-research/monaa-guard](https://github.com/monaa-research/monaa-guard) | monaa-guard | 0.1.0 | Pure-Rust MCP wire firewall & local token compactor blocking .env leaks in 27us |
+| 2026-11-28 18:08:30 | [io.github.Mustafa77-7/calculatessqft](https://github.com/Mustafa77-7/calculatessqft-mcp) | Calculatessqft | 1.0.0 | Square footage, flooring, tile, paint, concrete and area conversions with feet-… |
+| 2026-11-28 18:12:08 | [io.github.JoseMarquezAlberti/freeplay-launch](https://github.com/JoseMarquezAlberti/freeplay-launch-mcp) | Freeplay Launch | 0.1.1 | Check a browser game against CrazyGames, Poki and Playgama review, with the fix… |
+| 2026-11-28 18:13:13 | pl.synapsite/cennik | synapsite: cennik i wycena | 1.0.0 | Cennik i wycena stron, sklepów, aplikacji, CRM i agentów AI z Lublina, ceny ryn… |
+| 2026-11-28 18:15:02 | app.citycontacts/city-contacts | City Contacts | 1.0.0 | See which of your X followers and LinkedIn connections live in a city, mutuals… |
+| 2026-11-28 18:16:34 | in.puzaricloud/atlassian-apps | PuzariCloud Atlassian App Finder | 1.0.0 | Find a PuzariCloud app for a Jira, Confluence or JSM problem, native option fir… |
+| 2026-11-28 18:17:24 | se.rantefacit/rantefacit | Räntefacit | 1.0.0 | Swedish banks' published average mortgage rates, and a comparison of a rate aga… |
 
 ## Data source
 

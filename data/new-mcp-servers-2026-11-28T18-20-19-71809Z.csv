@@ -1,0 +1,25 @@
+created_at,server,title,version,repository,transports,description
+2026-11-28T17:19:28.205879Z,com.toastroll/wedding,Toast Roll,1.0.0,,streamable-http,"Plan your wedding with an AI assistant: timeline, budget, suppliers, payments, seating, photos."
+2026-11-28T17:19:56.573038Z,io.github.onepost-kr/onepost-mcp,OnePost,1.0.0,https://github.com/onepost-kr/onepost-mcp,streamable-http,"Draft and confirm OnePost social posts from Claude, ChatGPT, Cursor, and other MCP clients."
+2026-11-28T17:26:45.47321Z,com.rfi-irfos/managed-soc,RFI-IRFOS Managed SOC,1.0.0,,streamable-http,"Check dependencies, domains and CVEs, map fixes to 13 compliance frameworks, run your managed SOC."
+2026-11-28T17:27:16.697477Z,com.kolroster/mcp,KOL Roster,1.0.0,https://github.com/BigBalli/kolroster-mcp,streamable-http,"Diabetes and cardiometabolic KOLs ranked by topic and region, with papers, trials and Open Payments."
+2026-11-28T17:29:28.958043Z,ai.gelee/gelee,Gelee,1.0.0,,streamable-http,"Run LinkedIn outreach in Gelee: campaigns, leads, inbox, AI replies and results. OAuth sign-in."
+2026-11-28T17:30:47.916918Z,io.github.alexandrabozarthmanagement-rgb/enterprise-shield-node,,1.0.0,,streamable-http,Real-time GLEIF LEI and corporate compliance verification with SHA-256 attestation.
+2026-11-28T17:32:11.781095Z,ai.ottobet/mma,OttoBet MMA,1.0.0,,streamable-http,"Read-only UFC fight analyses: probabilities, fighter records, price checks. Key required."
+2026-11-28T17:33:54.794383Z,io.github.udondan/rmv,RMV public transport,1.0.0,https://github.com/udondan/rmv,,"Stops, departures and connections in the Rhein-Main-Verkehrsverbund, with cancellations and delays"
+2026-11-28T17:37:02.600623Z,ca.examstep/oet,ExamStep OET prep,1.0.0,,streamable-http,"OET facts for the 12 professions: score requirements, 0-500 grade conversion, test format, prices."
+2026-11-28T17:37:11.465348Z,io.github.toasternet/compl-ai-ance,Compl-AI-ance,1.1.0,,streamable-http,"EU AI Act compliance: AI system inventory, risk class, obligations, evidence and audit binder."
+2026-11-28T17:47:53.409775Z,com.parkingmcp/parking-mcp,Parking MCP,0.1.0,,streamable-http,Busca parking urbano en España por destino y estancia y compara ofertas de Parclick y elParking.
+2026-11-28T17:47:56.681384Z,com.manystead/reading,Manystead reading room,1.0.0,,streamable-http,"Read-only: the boards, worked cases and founding text of Manystead, a world for AI agents."
+2026-11-28T17:49:38.036601Z,org.agentability/agentability,Agentability,1.0.0,https://github.com/khalidsaidi/agentability,streamable-http,Check whether AI agents can use any website: a live 0-100 score with fixes.
+2026-11-28T17:57:37.175667Z,io.github.meloduo/meloduo,,0.3.1,https://github.com/meloduo/meloduo-agent,,"Let any AI agent edit the project open in Meloduo, a free browser music studio (DAW)."
+2026-11-28T17:57:39.981933Z,io.github.SirCharan/drishti-signals,Drishti Signals,1.1.0,,streamable-http,"Read-only crypto signals, track record, market data and a free trading course (English/Hindi)."
+2026-11-28T18:02:19.574016Z,io.github.ttnctolga/merito,Merito,1.0.0,,streamable-http,"EB-1A, O-1A and NIW case intelligence: readiness score, evidence checklist, RFE decoder, AAO search."
+2026-11-28T18:04:13.44922Z,com.walomoney/walo,Wälo,1.0.0,,streamable-http,"Personal finance: balances, transactions, budgets, debts and investments. Record expenses by chat."
+2026-11-28T18:05:11.799551Z,io.github.monaa-research/monaa-guard,monaa-guard,0.1.0,https://github.com/monaa-research/monaa-guard,,Pure-Rust MCP wire firewall & local token compactor blocking .env leaks in 27us
+2026-11-28T18:08:30.615725Z,io.github.Mustafa77-7/calculatessqft,Calculatessqft,1.0.0,https://github.com/Mustafa77-7/calculatessqft-mcp,,"Square footage, flooring, tile, paint, concrete and area conversions with feet-and-inches input"
+2026-11-28T18:12:08.954395Z,io.github.JoseMarquezAlberti/freeplay-launch,Freeplay Launch,0.1.1,https://github.com/JoseMarquezAlberti/freeplay-launch-mcp,,"Check a browser game against CrazyGames, Poki and Playgama review, with the fixes in plain words."
+2026-11-28T18:13:13.059642Z,pl.synapsite/cennik,synapsite: cennik i wycena,1.0.0,,streamable-http,"Cennik i wycena stron, sklepów, aplikacji, CRM i agentów AI z Lublina, ceny rynkowe, nabory dotacji."
+2026-11-28T18:15:02.183177Z,app.citycontacts/city-contacts,City Contacts,1.0.0,,streamable-http,"See which of your X followers and LinkedIn connections live in a city, mutuals first."
+2026-11-28T18:16:34.2025Z,in.puzaricloud/atlassian-apps,PuzariCloud Atlassian App Finder,1.0.0,,streamable-http,"Find a PuzariCloud app for a Jira, Confluence or JSM problem, native option first. Read-only."
+2026-11-28T18:17:24.357556Z,se.rantefacit/rantefacit,Räntefacit,1.0.0,,streamable-http,"Swedish banks' published average mortgage rates, and a comparison of a rate against them."
