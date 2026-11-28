@@ -1,0 +1,14 @@
+created_at,server,title,version,repository,transports,description
+2026-11-28T06:22:37.579497Z,io.github.blocknine0/geomacro,Geomacro Global Intelligence,1.0.0,https://github.com/blocknine0/geomacro,streamable-http,"On-demand geopolitical, macro/FX and critical-minerals intelligence for AI agents."
+2026-11-28T06:23:17.721285Z,io.github.missionflavinsa/proxyms,Proxy MS,1.0.0,,streamable-http,"Fair proxy (substitute teacher) arrangements for schools by chat: absences, proxies, timetables."
+2026-11-28T06:37:48.106149Z,io.github.Aadithya-kl/grokmap,grokmap,0.3.0,https://github.com/Aadithya-kl/grokmap,,"Shows coding agents which AI-written code nobody on the team understands, and quizzes you on it."
+2026-11-28T06:40:16.944329Z,io.github.YottaMeta/yotta-present,YuanCheng (yotta-present),0.7.4,https://github.com/YottaMeta/yotta-present,,"Render agent output into copyable Markdown, tables, cards and SVG (Python 3.8+)."
+2026-11-28T06:40:17.200877Z,io.github.YottaMeta/yotta-dev-mcp,YuanKai (yotta-dev-mcp),0.2.10,https://github.com/YottaMeta/yotta-dev-mcp,,"Local dev tools over stdio MCP: repo map, impact analysis, verification and release checks."
+2026-11-28T06:44:48.353324Z,io.github.wayfarer6/rpa-sandbox,RPA Sandbox for AI Agent,0.1.15,https://github.com/wayfarer6/RPA-SANDBOX-for-AI-Agent,,Record and replay VNC workflows with OCR checkpoints and staged Robot Framework automation.
+2026-11-28T06:58:32.361163Z,fr.hoplien/hoplien,Hoplien,1.0.0,,streamable-http,"Free French link shortener: short hoplien.fr links, QR codes and click stats."
+2026-11-28T07:03:35.351861Z,com.mysolasta/lighting,Solasta Lighting estimates,1.0.0,,streamable-http,"Price ranges, roofline KML help and dealer quote requests for permanent roofline lighting."
+2026-11-28T07:04:03.023011Z,com.cimtechmanufacturing/manufacturing,Cimtech Manufacturing,1.1.0,,streamable-http,"CNC machining and metal fabrication in Provo, Utah: capabilities and quote requests by email."
+2026-11-28T07:10:54.345213Z,ai.contextdb/memory,ContextDB Customer Memory,0.3.0,https://github.com/atomsai/contextdb-mcp-plugin,streamable-http,"Persistent memory across chats: remember facts, assemble context, and verify before acting."
+2026-11-28T07:11:48.504774Z,io.github.abhinav-nigam/browser-director,Browser Director,0.3.0,https://github.com/abhinav-nigam/agent-browser,,"Operate a site, then direct a narrated demo from one MCP server."
+2026-11-28T07:15:07.826862Z,io.github.muranwirebaugh-cmyk/oursmeme,OursMeme BNB Chain Perpetuals,1.0.0,https://github.com/muranwirebaugh-cmyk/ours-mcp,streamable-http,48-tool BNB Chain perpetual DEX MCP for live Pyth BTC/ETH/XAU quotes and unsigned EVM calldata.
+2026-11-28T07:16:08.23461Z,ai.nimblebrain/careers,NimbleBrain Careers,0.1.3,https://github.com/NimbleBrainInc/mcp-careers,streamable-http,Apply to NimbleBrain through your agent: see the open roles and send your resume.
