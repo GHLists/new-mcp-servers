@@ -1,0 +1,28 @@
+created_at,server,title,version,repository,transports,description
+2026-11-28T00:22:20.554114Z,io.github.Tfoucher5/fuzzy-toolkit,fuzzy-toolkit,2.8.1,https://github.com/Tfoucher5/fuzzy-toolkit,,"Fuzzy matching for agents: compare, search, dedupe, match lists, find names, map fields, fix JSON."
+2026-11-28T00:24:43.368542Z,work.autonet/agent-health,,1.2.0,,streamable-http,Network diagnostics and liveness evidence for AI agents.
+2026-11-28T00:27:10.824713Z,com.doesitarm/mcp,Does It ARM,1.2.0,https://github.com/ThatGuySam/doesitarm,streamable-http,"Check Apple Silicon compatibility for Mac apps, games, and Homebrew formulae."
+2026-11-28T00:27:48.314386Z,world.bufo/store,bufo.world,1.1.0,,streamable-http,"Search 3,000+ bufos, download the free PNG art, price carts with US/CA shipping, and check out."
+2026-11-28T00:29:01.66243Z,io.github.Missprincessish/pcmcp,PCMCP,1.2.6,https://github.com/Missprincessish/PCMCP,,"Owner-gated, reversible file automation and cross-platform task handoff via MCP."
+2026-11-28T00:31:33.819451Z,com.zynagi/hipaa-helper,ZYNAGI HIPAA Helper,1.0.0,,streamable-http,"HIPAA answers for dental and medical offices: vendor BAAs, review replies, forms and deadlines."
+2026-11-28T00:39:37.515239Z,com.eshopmcp/eshopmcp,eshopMCP,1.3.0,,streamable-http,"Search Czech shops and local services: products with CZK prices and stock, guides, contacts."
+2026-11-28T00:39:45.49536Z,cz.painto/painto,Painto,1.0.0,,streamable-http,"Czech painting and flooring tools e-shop: live prices in CZK, stock, shipping and pickup in Znojmo."
+2026-11-28T00:43:31.530154Z,com.signalloomdata/lead-list-cleaner,Lead List Cleaner by Signalloom (via Apify MCP),1.0.0,,streamable-http,"Clean and dedupe lead lists: E.164 phones, addresses, website status, email checks, quality score."
+2026-11-28T00:43:32.695934Z,com.signalloomdata/accessibility-audit,Website Accessibility Audit (WCAG 2.2) by Signalloom (via Apify MCP),1.0.0,,streamable-http,"Crawl a website in a real browser and test WCAG 2.2 A/AA: issues by rule, fixes, site score."
+2026-11-28T00:43:33.875906Z,com.signalloomdata/email-domain-health,"DMARC, SPF & DKIM Checker by Signalloom (via Apify MCP)",1.0.0,,streamable-http,"Bulk email-domain health check: SPF, DKIM, DMARC, MX, bulk-sender readiness and copy-paste fixes."
+2026-11-28T00:43:34.821908Z,com.signalloomdata/agent-readiness-audit,Agent Readiness & Website Health Audit by Signalloom (via Apify MCP),1.0.0,,streamable-http,"Is a site ready for AI agents? llms.txt, AI crawler access, product data, SEO and accessibility."
+2026-11-28T00:49:53.899451Z,io.github.tecno-consultores/mcp-qa-11x,QA Testing Blueprints (QA-11X),3.12.0,https://github.com/tecno-consultores/qa-testing-blueprints,,"Enterprise QA & DevSecOps MCP server: Rule Zero Docker, STIG/OWASP, Graphify AST & AI Evals."
+2026-11-28T00:52:20.026091Z,dev.pages.bot-poker-arena/arena,Bot Poker Arena,1.0.0,,streamable-http,"Heads-up hold'em for bots and AI agents, real USDC on Base: lobby info, terms, how to join."
+2026-11-28T00:53:53.519799Z,io.github.YananLee/typemotion-art,TypeMotion.art,1.0.0,https://github.com/YananLee/typemotion-art,streamable-http,Browse TypeMotion.art text animation templates and shot effects. Read-only and public.
+2026-11-28T00:54:25.126394Z,com.forexdemo/forexdemo,ForexDemo.com,1.0.0,,streamable-http,"Forex, gold and futures trading calculators and Forex demo account research at 59 brokers."
+2026-11-28T00:54:32.859199Z,ai.regulations/regulations-ai,Regulations.ai — Global AI Law Tracker,1.1.0,,streamable-http,"AI laws worldwide: status, dates, sources, enforcement, glossary, and model rules (not law). No key."
+2026-11-28T00:57:43.552591Z,com.tajapps/unmask,Privara Unmask,1.0.0,,streamable-http,The Android malware sandbox that recovers the C2. Pay only for results.
+2026-11-28T01:00:32.430994Z,com.lanternswap/lantern,LanternSwap,1.0.0,,streamable-http,"Solana token reports paid via x402, unsigned Solana swaps, and Polymarket market data."
+2026-11-28T01:01:28.486789Z,com.tenantoffice/mcp,Tenant Office,1.0.0,,streamable-http,"Read-only, property-scoped portfolio, maintenance, and lease-expiration MCP connector."
+2026-11-28T01:12:20.412818Z,com.ejiapi/finance,EJI API Finance,1.0.0,,streamable-http,"Indian mutual funds: schemes, NAV history, returns, holdings, flows. Read-only, OAuth."
+2026-11-28T01:13:25.678297Z,pro.neozoom/hotel-agent,Hotel Agent Booking,0.1.0,,streamable-http,"Multi-hotel Bnovo search, private guest sessions and guest-confirmed booking. Pilot access."
+2026-11-28T01:13:51.862787Z,io.github.danielneuron/promptbill,PromptBill,1.4.0,https://github.com/danielneuron/promptbill,,Local-first AI coding cost attribution per Git repo & client PDF/Xero/QuickBooks invoice MCP server.
+2026-11-28T01:16:12.427537Z,app.silma/silma,Silma,1.0.0,,streamable-http,"Short-form video research: your own posts, outlier Reels, TikToks and Shorts, read frame by frame."
+2026-11-28T01:16:39.71186Z,io.fiscalbase/mcp,Fiscalbase,3.0.0,,streamable-http,"Issue Ecuador's SRI e-invoices and run your business from an AI agent, signed in as yourself."
+2026-11-28T01:16:40.130772Z,io.fiscalbase/mcp-sandbox,Fiscalbase Sandbox,3.0.0,,streamable-http,"Fiscalbase on a simulated SRI: try Ecuador's e-invoices from an agent, with no tax validity."
+2026-11-28T01:17:51.418241Z,app.atmet/whatsapp,Atmet Chat for WhatsApp,1.0.0,,streamable-http,"Read and reply to your business WhatsApp chats, label them and send templates in Claude or ChatGPT."
