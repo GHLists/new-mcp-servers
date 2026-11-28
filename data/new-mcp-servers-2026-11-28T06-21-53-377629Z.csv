@@ -1,0 +1,17 @@
+created_at,server,title,version,repository,transports,description
+2026-11-28T05:25:50.23985Z,com.waiaconnect/connect,WAIA Connect,1.0.0,,streamable-http,Manage your WAIA Connect account (official WhatsApp Cloud API + Coexistence) from your AI.
+2026-11-28T05:28:56.773415Z,bio.clips/clips-bio,clips.bio,1.0.0,,streamable-http,"Short-video creator tools: YouTube titles, hashtags, chapters, hook scoring, thumbnails, clip links."
+2026-11-28T05:28:58.768618Z,ca.buytravelinsurance/travel-quotes,Buy Travel Insurance Canada,1.0.0,,streamable-http,"Live Canadian Super Visa, Visitors, Snowbird & Student travel medical quotes (FSRA #24229985)."
+2026-11-28T05:29:48.848045Z,com.coinagemarketplace/coinage,Coinage,1.0.0,,streamable-http,"Buy and sell used items nearby: AI agents list, search, negotiate offers and set up cash meetups."
+2026-11-28T05:31:24.69989Z,io.github.Dave-London/pare-remote,,0.24.2,https://github.com/Dave-London/Pare,,"Pare Remote — Structured SSH and rsync operations (ssh-run, ssh-test, rsync) as typed JSON."
+2026-11-28T05:31:25.45124Z,io.github.Dave-London/pare-ruby,,0.24.2,https://github.com/Dave-London/Pare,,"Pare Ruby — Structured Ruby & Bundler operations (run, check, gem, bundle) as typed JSON."
+2026-11-28T05:36:27.428582Z,io.github.Setell-AI/setell-mcp,Setell,0.12.0,https://github.com/Setell-AI/setell-mcp,streamable-http,"Quote-to-cash for service businesses: draft, revise and send quotes, invoice to QuickBooks or Xero."
+2026-11-28T05:38:49.129484Z,dev.workers.pomlabs.pom-data-api/ebay-sold-listings,"eBay Sold Listings Scraper - Sold Prices, Dates & Price Stats",1.0.1,https://github.com/pomexplica/ebay-sold-listings,streamable-http,"Get eBay sold (completed) listings by keyword: sold price, sold date, condition, shipping, auction"
+2026-11-28T05:39:34.747463Z,io.github.nsideris/diffofday,Diff of the Day,1.0.0,https://github.com/nsideris/diffofday,streamable-http,"Daily AI briefing for engineers: ranked stories, agent-ready build specs, small-team playbooks."
+2026-11-28T05:42:26.310402Z,ru.timecharm/time-tracker,TimeCharm,1.1.0,,streamable-http; streamable-http,"Freelance time tracker: tasks, clients, projects, hours and earnings reports for your AI agent."
+2026-11-28T05:56:27.98015Z,io.github.openboxskill/openbox,OpenBox China Futures & Options,1.0.0,https://github.com/openboxskill/openbox-mcp,streamable-http,"China futures and options data: real-time quotes, option chains, IV, skew, GEX, flow and alerts."
+2026-11-28T06:03:27.085052Z,com.anvilpropulsion/customer,Anvil Propulsion,1.1.0,,streamable-http,"US-made drone propellers: SKUs, stock, lead times, quote requests and order status."
+2026-11-28T06:09:51.265519Z,com.updash/mail-api,UpDash Mail API,1.0.0,,streamable-http,"Automotive direct mail for car dealers: postcards, letters and cards, printed and mailed by Xcel."
+2026-11-28T06:09:55.843486Z,com.complianceautomator/public-mcp,ComplianceAutomator Public MCP,0.2.0,,streamable-http,"Public read-only MCP for products, frameworks, guides, methodology, and published blog metadata."
+2026-11-28T06:16:02.15298Z,ro.builtin/startups,builtin.ro,1.0.0,,streamable-http,"Startups, founders and communities in Romania and Moldova: search them and read their pages."
+2026-11-28T06:20:29.00852Z,xyz.blockhash/mcp,Blockhash,0.1.0,,streamable-http,"Robinhood Chain for AI agents: RPC reads, token and NFT data, swap quotes, simulation, webhooks."
