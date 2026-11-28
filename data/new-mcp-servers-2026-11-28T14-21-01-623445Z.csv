@@ -1,0 +1,31 @@
+created_at,server,title,version,repository,transports,description
+2026-11-28T13:24:36.537963Z,io.github.clausis-ai/office,Office files,0.2.0,https://github.com/clausis-ai/agent-office,,"Make, read and edit Excel, Word, PowerPoint and CSV files, with in-chat previews."
+2026-11-28T13:28:15.345358Z,io.github.reseeko/mcp,,0.1.0,,,"Submit claims, read API gates, and retrieve historical verdict records."
+2026-11-28T13:30:59.949799Z,com.yachtversicherung-vergleich/nammert-assekuradeur,NAMMERT Assekuradeur,1.0.2,,streamable-http,"Boat insurance (DE, AT, ES): premium quote, policy wording search, offer with application link."
+2026-11-28T13:31:18.556284Z,io.github.shafnir/source-guard,Source Guard,1.0.0,https://github.com/shafnir/source-guard,streamable-http,"Verify citations, URLs and DOIs: fake sources, dead links and hidden prompt injection."
+2026-11-28T13:31:44.921707Z,io.github.ahmedsaeed1-eng/web-quality-mcp,Web Quality MCP,0.1.0,https://github.com/ahmedsaeed1-eng/web-quality-mcp,,"Local responsive, RTL/LTR, and accessibility UI quality checks."
+2026-11-28T13:32:05.746232Z,io.github.ahmedsaeed1-eng/typescale-mcp,TypeScale MCP,0.1.1,https://github.com/ahmedsaeed1-eng/typescale-mcp,,Fluid typography and spacing tokens for accessible interfaces.
+2026-11-28T13:32:36.142873Z,io.github.ahmedsaeed1-eng/palettecraft-mcp,PaletteCraft MCP,0.1.0,https://github.com/ahmedsaeed1-eng/palettecraft-mcp,,Deterministic light/dark color tokens and measured contrast checks.
+2026-11-28T13:32:53.239153Z,io.github.ahmedsaeed1-eng/mobileblueprint-mcp,MobileBlueprint MCP,0.1.0,https://github.com/ahmedsaeed1-eng/mobileblueprint-mcp,,Accessible mobile UI specs and static Flutter / React Native starter components.
+2026-11-28T13:33:13.830612Z,io.github.pospos191-alt/zetaphy-neuro,ZETAPHY Neuro,0.1.0,https://github.com/pospos191-alt/zetaphy,,Is this token safe? Neuro's token reports and ZETAPHY's on-chain threat flags for AI agents.
+2026-11-28T13:33:56.125568Z,io.github.HShaebi11/case-fixer,Case Fixer,0.1.0,,streamable-http,"File and track consumer complaints via any AI assistant, with human-approved claim submission."
+2026-11-28T13:35:36.864144Z,com.neuromomen/archscan,,0.1.1,,,"Analyze a Python project: call graph, structural findings, checker-verified fixes, report."
+2026-11-28T13:36:47.151228Z,io.datascoop/datascoop,DataScoop public data,1.0.1,,streamable-http,"Official UK, US and Australia public datasets as filtered CSV, REST API and MCP for AI agents."
+2026-11-28T13:42:44.893599Z,io.github.JohnnyTheTank/thingiverse-mcp-v2,Thingiverse,1.0.0,https://github.com/JohnnyTheTank/thingiverse-mcp-v2,,"Search, download and publish 3D-printable models on Thingiverse (MCP 2026-07-28)."
+2026-11-28T13:44:19.995438Z,io.github.miu-assistant/miu-compare-mcp,,1.0.0,,streamable-http,"Compare home appliances and gadgets by published specs and prices (Japan market, JPY)."
+2026-11-28T13:49:20.626594Z,app.vettedleads/vetted-leads,Vetted Leads,1.0.0,,streamable-http,"Find businesses the day their website goes live, see what each site lacks, unlock verified contacts."
+2026-11-28T13:50:44.099132Z,dev.flowbar/flowbar,FlowBar,1.1.0,,streamable-http,Guides for Claude Code: set up FlowBar for Mac and turn every manual step into one tap.
+2026-11-28T13:52:00.506953Z,com.asegurus/n11-dns-proof,N11 DNS-Proof Marker Server,1.0.0,,,"Benign N11 DNS-auth proof MCP server (.mcpb, stdio): prints marker plus hostname; no network."
+2026-11-28T13:52:42.914745Z,com.launchfilter/launchfilter,LaunchFilter,1.0.0,,streamable-http,"Curated startup directories with DR & traffic signals, submission plans, and tracking via MCP."
+2026-11-28T13:53:48.663384Z,io.github.weppa-cloud/weppa,Weppa,1.0.0,,streamable-http,AI-native managed hosting: your agent operates your apps over MCP within your account's boundary.
+2026-11-28T13:58:45.097376Z,io.github.MISHHF93/sabaq-commerce,SABAQ Commerce,1.0.0,https://github.com/MISHHF93/SABAQ,streamable-http,"Live bilingual catalog and services for SABAQ, the Gulf thoroughbred racing marketplace."
+2026-11-28T14:00:15.783053Z,io.github.flgisimone/aigentrica,,1.0.0,https://github.com/flgisimone/aigentrica,,"AI agents in departments for software, design, privacy, security and product work, as MCP prompts."
+2026-11-28T14:01:33.348183Z,so.jackdaw/jackdaw,Jackdaw,1.0.0,,streamable-http,"Your team's memory for AI tools: current, sourced context from Jackdaw's chat, wiki and tools."
+2026-11-28T14:01:58.355394Z,com.subastio/mcp,Subastio,1.1.0,,streamable-http,"Buscador de subastas en España (BOE y plataformas privadas): coches, inmuebles, maquinaria y más."
+2026-11-28T14:03:32.847786Z,io.github.fridayowl/exode,ExodeUI,7.6.1,https://github.com/exodeUI/exodeui,,"Create and edit interactive UI motion, spring physics and state machines in .exode files."
+2026-11-28T14:10:27.018572Z,com.empresial/mcp,Empresial,0.2.0,,streamable-http,"Spanish company registry data (BORME, directors, grants, contracts) for AI assistants."
+2026-11-28T14:13:03.58696Z,com.ppftec/regivora,"Regivora – EU tenders (TED), VAT rates, CN codes",1.0.0,,streamable-http,"Read-only EU public data: TED procurement notices, EU VAT rates (TEDB) and CN 2026 customs codes"
+2026-11-28T14:15:00.975891Z,io.github.yellowstake/agent-desk,Agent Desk,2.0.0,https://github.com/yellowstake/agent-desk,streamable-http,"Checks if a US insurance lead can be called, autodialed or texted now, citing TCPA and state law"
+2026-11-28T14:18:16.604424Z,com.klarefi/mcp,Klarefi,0.4.0,https://github.com/jmqcooper-ai/klarefi-mcp,streamable-http,"AI intake agent that prepares complete, cited files. A person decides."
+2026-11-28T14:19:02.993384Z,com.fortifielabs/fortifie,Fortifie,1.0.0,,streamable-http,"Assess and harden JS or Mac app builds you own, and find copies of your app online."
+2026-11-28T14:20:11.596438Z,io.github.ZhuLinsen/alphasift,AlphaSift,0.3.2,https://github.com/ZhuLinsen/alphasift,,7-market quantitative stock screener & T+N ledger with 14 read-only STDIO MCP tools.
